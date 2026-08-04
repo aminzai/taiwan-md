@@ -1,100 +1,101 @@
 ---
-title: 'Bolos: de los clubes militares estadounidenses a los seis oros de los Juegos Asiáticos de Bangkok, auge, declive y resonancias de la bola ovni de Taiwán'
-description: 'En la década de 1990, los bolos fueron el deporte nacional más febril de Taiwán. Gracias a la técnica propia de la “bola ovni”, Taiwán arrasó con seis oros en los Juegos Asiáticos de Bangkok de 1998; las boleras de todo el país llegaron a superar las 600, con ingresos diarios de hasta 300.000 dólares taiwaneses.'
+title: 'Bolos: de los clubes militares estadounidenses al auge y caída del "UFO Ball" en los Juegos Asiáticos de Bangkok'
+description: 'En la década de 1990, los bolos fueron el deporte más frenético en Taiwán. Gracias a la técnica propia "UFO Ball", Taiwán arrasó con seis medallas de oro en los Juegos Asiáticos de Bangkok 1998.'
 date: 2026-06-27
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '休閒與娛樂'
 tags:
   [
     'bolos',
-    'bola ovni',
+    'UFO Ball',
     'Juegos Asiáticos de Bangkok',
     'Tseng Su-fen',
-    'historia del deporte taiwanés',
+    'historia del deporte en Taiwán',
   ]
-readingTime: 10
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-27
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
 translatedFrom: 'Lifestyle/保齡球.md'
-sourceCommitSha: 'c212e14db'
-sourceContentHash: 'sha256:867b46c37c755d29'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:f310a917a5ec92ad'
 sourceBodyHash: 'sha256:9b87440ff4268438'
-translatedAt: '2026-06-28T00:38:05+08:00'
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-> **Panorama en 30 segundos:**
-> La década de 1990 fue la edad de oro de los bolos en Taiwán. En aquel entonces, los taiwaneses, gracias a una técnica propia y contraria a la biomecánica llamada “bola ovni” (UFO Ball), avanzaban en las competencias internacionales como si no hubiera rivales; en los Juegos Asiáticos de Bangkok de 1998 incluso lograron el brillante récord de seis oros en una sola edición. En su apogeo, Taiwán tenía más de 600 boleras, que eran algunos de los centros sociales y competitivos más importantes de la época. Sin embargo, con el auge del entretenimiento en internet y el desciframiento internacional de la técnica, este deporte que alguna vez encendió a la isla se ha transformado gradualmente en una memoria colectiva nostálgica.
-
----
-
-## La popularización de un deporte aristocrático: la época en que una partida equivalía a seis tazones de fideos con carne
-
-En 1946, tras el final de la Segunda Guerra Mundial, las fuerzas estadounidenses estacionadas en Taiwán introdujeron los bolos en la zona militar de Zuoying y en el “Friends of China Club” de Taipéi.[^13] En ese momento era un deporte aristocrático reservado a altos funcionarios y celebridades. En 1963, la primera bolera privada de Taiwán, “Rongxing Bowling Alley”, abrió en la calle Nanjing Oeste de Taipéi (donde hoy se encuentra la tienda Eslite Spectrum Nanxi), marcando la entrada de los bolos en la vida civil.[^13]
-
-En aquella época, lo “caro” de los bolos era muy concreto: jugar una partida costaba 20 dólares taiwaneses, mientras que un tazón de fideos con carne costaba apenas 3, y el salario mensual de un oficinista recién incorporado al mercado laboral rondaba los 1.200.[^13] Dicho de otro modo, jugar dos partidas consumía el sueldo de un día. No fue sino hasta 1966, cuando la bolera Yuanshan abrió con una inversión de 70 millones de dólares taiwaneses y 36 pistas completamente automatizadas, que comenzó realmente el gran capítulo de los bolos en Taiwán.[^12][^13]
-
-## La llegada del ovni: una estrategia de supervivencia forjada en “pistas malas”
-
-“Los bolos consisten en jugar en serio con una mente serena, pero cuando era joven quería ganar demasiado; mantener esa serenidad era, por el contrario, lo más difícil”.[^1] Así lo reflexionó el jugador profesional Chi Chao-hang. Pero en la década de 1980, el mantenimiento de las pistas en Taiwán era en general deficiente y los patrones de aceite eran irregulares, por lo que resultaba difícil ejecutar la curva tradicional.[^13] Para sobrevivir en un entorno adverso, los jugadores taiwaneses desarrollaron una técnica que se parecía mucho a lanzar dados (en taiwanés: sip-pat-á).[^2][^13]
-
-La bola ovni (UFO Ball) exige que el jugador, en el instante del lanzamiento, tenga la palma hacia abajo y use una torsión extremadamente rápida del brazo y los dedos para hacer que la bola gire horizontalmente como un trompo.[^3] Esta forma de jugar puede generar una fuerza destructiva lateral superior a la de una bola pesada; al impactar los pinos, desencadena una reacción en cadena de derribos totales.[^4] En 1983, Chu Yu-tien ganó en México la Copa Mundial AMF, convirtiéndose, según los registros oficiales, en el primer taiwanés en obtener una medalla de oro en una competencia deportiva mundial.[^14] La multitudinaria recepción a su regreso simbolizó el ascenso formal del “reino de la bola ovni”.
-
-📝 Nota curatorial: la bola ovni fue una vía de supervivencia que los taiwaneses abrieron por la fuerza, con creatividad y resiliencia, en medio de la escasez de recursos.
-
-## Los Juegos Asiáticos de Bangkok: la edad de oro de ingresos diarios de 300.000
-
-Los Juegos Asiáticos de Bangkok de 1998 fueron el momento más deslumbrante en la historia de los bolos taiwaneses. La delegación de la República de China (Taiwán) obtuvo 19 medallas de oro, y los bolos por sí solos aportaron 6, barriendo las pruebas individuales, de dobles, de tríos y de equipos de cinco, tanto masculinas como femeninas.[^5] Wu Fu-lung, ganador del oro individual masculino, incluso recibió un telegrama de felicitación del vicepresidente.[^6]
-
-Ese grado de furor se reflejaba en los datos económicos: invertir en una bolera de 30 pistas requería unos 30 millones de dólares taiwaneses, pero en el apogeo de la década de 1990 los ingresos diarios podían alcanzar entre 200.000 y 300.000 dólares taiwaneses, con un período de recuperación de apenas un año.[^13] En las boleras era común el “juego del pino rojo”: si el pino rojo aparecía en la posición número 1 y se conseguía un strike, la partida era gratis o se entregaba un premio.[^13] Las boleras de entonces no solo eran arenas competitivas, sino centros sociales abiertos las 24 horas.[^8]
-
-## La princesa ovni: Tseng Su-fen y el final de una época
-
-Entre muchos héroes, la más inolvidable fue la “princesa ovni”, Tseng Su-fen. En 1997 se coronó campeona de la Copa Mundial AMF de El Cairo y se convirtió en la única jugadora taiwanesa incluida en el Salón de la Fama Mundial de los Bolos.[^9] Sin embargo, la leyenda se interrumpió abruptamente en 2002. Tseng Su-fen, de apenas 28 años, se quitó la vida por problemas sentimentales, conmocionando a todo Taiwán.[^10]
-
-Su partida pareció anunciar el ocaso de los años dorados. En la madrugada del 11 de mayo de 1992, un incendio en la bolera Ziqiang de Zhonghe causó la muerte de 20 personas y dañó gravemente la imagen de seguridad pública de las boleras.[^15][^16] A medida que las competencias internacionales ajustaron los patrones de aceite de las pistas para neutralizar la bola ovni, y con el auge del entretenimiento en internet, las boleras comenzaron a apagar sus luces una tras otra.[^11][^13] En junio de 2026, la bolera Yuanshan, que había operado durante casi seis décadas, cerró sin previo aviso, simbolizando el fin de una era.[^12][^13]
-
-📝 Nota curatorial: lo que añoramos no es aquella bola de 15 libras, sino una época inocente en la que tres o cinco amigos se reunían junto a la pista y pasaban toda la noche celebrando un strike.
-
-## Desafíos y renacimiento: de arena competitiva a espacio para todas las edades
-
-Hoy, los bolos enfrentan un doble desafío. Los Juegos Asiáticos de Hangzhou 2023 no los incluyeron como disciplina oficial, lo que hizo que se alejaran gradualmente del escenario competitivo internacional.[^13] Chi Chao-hang observa que el modelo de negocio actual de las boleras está pasando de la competencia pura a espacios para todas las edades que combinan múltiples formas de entretenimiento, como el modelo de “un boleto para jugar hasta el final” adoptado por E7Play (antes Feilong Bowling Alley).[^1][^7][^13]
-
-Aunque los bolos ya no ocupan los titulares de la prensa deportiva, siguen girando en silencio en algunos rincones. Para los taiwaneses que vivieron la década de 1990, ese sonido nítido de la bola golpeando los pinos sigue siendo el strike más resonante en sus recuerdos de juventud.
+> **Resumen en 30 segundos:**
+> La década de 1990 fue la era dorada de los bolos en Taiwán. En aquel entonces, los taiwaneses, mediante la técnica autoinventada y contraria a la biomecánica conocida como "UFO Ball" (bola tipo disco), dominaron las competiciones internacionales; en los Juegos Asiáticos de Bangkok 1998, incluso alcanzaron el brillante récord de seis medallas de oro en una sola edición. En su apogeo, Taiwán contaba con más de 600 boleras, que servían como los centros sociales y competitivos más importantes de la época. Sin embargo, con el auge del entretenimiento digital y el hecho de que la técnica fuera descifrada internacionalmente, este deporte, que alguna vez hizo vibrar a la isla, se ha transformado gradualmente en un recuerdo colectivo nostálgico.
 
 ---
 
-## Referencias
+## La democratización de un deporte aristocrático: una era donde una partida costaba seis cuencos de fideos con ternera
 
-[^1]: [台灣保齡球的黃金年代成為時代眼淚 紀兆航用網路推廣 讓民眾走入球館](https://joumedia.pccu.edu.tw/article.php?id=2183) — Entrevista de Hua Kang Integrated Media a Chi Chao-hang, por Liao Yung-hsiang, 2025
+En 1946, las tropas estadounidenses estacionadas en Taiwán tras el fin de la Segunda Guerra Mundial introdujeron los bolos en la zona militar de Zuoying y en el "Club Amigos de China" en Taipéi.[^13] En aquel entonces, era un deporte aristocrático reservado solo para altos funcionarios y la élite. En 1963, la primera bolera privada de Taiwán, la "Bolera Rongxing", abrió sus puertas en la calle Nanjing West de Taipéi (en el lugar donde hoy se encuentra la tienda Eslite Nanshi), marcando la entrada de los bolos al sector civil.[^13]
 
-[^2]: [飛碟球…從獨創被破解到復興](https://sports.ltn.com.tw/news/paper/29826) — Reportaje especial de la sección deportiva de Liberty Times, 2005
+En esa época, el "coste" de los bolos era tangible: una partida costaba 20 yuanes, mientras que un cuenco de fideos con ternera costaba solo 3 yuanes, y el salario mensual de un trabajador recién incorporado a la sociedad era de unos 1200 yuanes.[^13] En otras palabras, jugar dos partidas equivalía al salario de un día entero. No fue hasta 1966, con la inauguración de la Bolera Yuanshan —que requirió una inversión de 70 millones de yuanes y contaba con 36 pistas totalmente automáticas—, cuando comenzó realmente el gran capítulo de los bolos en Taiwán.[^12][^13]
 
-[^3]: [台灣發明飛碟球 揚名世界](https://www.merit-times.com.tw/NewsPage.aspx?unid=113079) — Columna de Lee Yu-cheng en Merit Times, 2009
+## El descenso del disco: un método de supervivencia forjado en "pistas deficientes"
 
-[^4]: [源自台灣曾風靡全球的飛碟球究竟有怎樣的特色與魅力呢？](https://www.facebook.com/bowlingmen/videos/1515557145839087/) — Video explicativo de Facebook, 滾滾諸公, 2024
+"Jugar a los bolos es mantener la calma y esforzarse, pero cuando eres joven quieres ganar demasiado; mantener la serenidad es, de hecho, lo más difícil".[^1] Así reflexionó el jugador profesional Ji Chao-hang. Sin embargo, en la década de 1980, el mantenimiento de las pistas en Taiwán era generalmente deficiente y el aceite no era uniforme, lo que dificultaba el uso del tradicional efecto de curva (hook).[^13] Para sobrevivir en condiciones tan adversas, los jugadores taiwaneses desarrollaron una técnica similar al lanzamiento de dados (en taiwanés: _sip-pat-á_).[^2][^13]
 
-[^5]: [杭州亞運／回顧 1998 年曼谷 19 金史上最佳 橫掃 6 金保齡球卻被剔除](https://www.nownews.com/news/6257390) — Artículo especial de Lu Hao-wei en NOWnews, 2023
+El "UFO Ball" requiere que el jugador, en el momento del lanzamiento, mantenga la palma hacia abajo y utilice una rotación extrema de la muñeca y los dedos para que la bola gire horizontalmente como un trompo.[^3] Este estilo de juego genera una potencia lateral que supera a las bolas pesadas, provocando una reacción en cadena de derribo total al impactar los pinos.[^4] En 1983, Chu Yu-tien ganó el campeonato mundial AMF en México, convirtiéndose en la primera medalla de oro para Taiwán en una competición mundial desde los registros oficiales.[^14] El despliegue con el que regresó al país simbolizó el ascenso oficial del "Reino del UFO Ball".
 
-[^6]: [副總統電賀我亞運代表團吳福龍勇奪一九九八曼谷亞運男子保齡球個人賽金牌](https://www.president.gov.tw/NEWS/5152) — Comunicado de prensa de la Oficina Presidencial de la República de China (Taiwán), 1998
+📝 Nota del curador: El UFO Ball fue un camino de supervivencia que los taiwaneses abrieron con creatividad y resiliencia ante la escasez de recursos.
 
-[^7]: [台灣保齡球的黃金年代](https://www.peopo.org/news/802246) — Contribución del propio Chi Chao-hang a PeoPo Citizen Journalism, 2025
+## Juegos Asiáticos de Bangkok: la era dorada de los 300,000 yuanes de ingresos diarios
 
-[^8]: [為什麼保齡球不再流行？保齡球館一間間熄燈，成為時代的眼淚](https://www.gvm.com.tw/article/130878) — Reportaje retrospectivo de Global Views Monthly sobre el auge y declive de la industria, 2026
+Los Juegos Asiáticos de Bangkok de 1998 representaron el momento más brillante en la historia de los bolos en Taiwán. La delegación de la República de China (Taiwán) obtuvo 19 medallas de oro, de las cuales 6 provinieron de los bolos, arrasando en las modalidades individual masculino, individual femenino, parejas, tríos y quintetos.[^5] El ganador del oro en la modalidad individual masculino, Wu Fu-lung, recibió incluso un mensaje de felicitación del vicepresidente.[^6]
 
-[^9]: [中国台北保龄球世界冠军曾素芬昨天晚上自杀](https://sports.sohu.com/55/71/sports_news164757155.shtml) — Nota de última hora de Sohu Sports, 2002
+Esta magnitud de fenómeno se reflejaba en los datos económicos: invertir en una bolera de 30 pistas requería unos 30 millones de yuanes, pero durante el apogeo de la década de 1990, los ingresos diarios podían alcanzar entre 200,000 y 300,000 yuanes, con un periodo de recuperación de la inversión de apenas un año.[^13] En las boleras era común el "juego del pino rojo": si el pino número uno aparecía en rojo y se lograba un _strike_, la partida era gratuita o se entregaban premios.[^1 3] En aquel entonces, las boleras no eran solo arenas de competición, sino centros sociales que funcionaban las 24 horas del día.[^8]
 
-[^10]: [被封為「飛碟公主」！不料她卻於 2002 年輕生](https://www.facebook.com/UDNtime/posts/1193200476347019/) — Publicación retrospectiva de Facebook de UDN Time, 2026
+## La princesa del disco: Tseng Su-fen y el fin de una era
 
-[^11]: [保齡球的興衰守護青春回憶](https://enews.ccu.edu.tw/p/405-1089-64556,c179.php?Lang=zh-tw) — Noticia estudiantil de CCU e-News, Universidad Nacional Chung Cheng, 2024
+Entre tantos héroes, la más inolvidable fue la "Princesa del UFO Ball", Tseng Su-fen. En 1997, se coronó campeona en el Mundial AMF de El Cairo, convirtiéndose en la única mujer taiwanesa incluida en el Salón de la Fama mundial de los bolos.[^9] Sin embargo, la leyenda se detuvo abruptamente en 2002. A la edad de solo 28 años, Tseng Su-fen se quitó la vida debido a problemas personales, conmocionando a todo Taiwán.[^10]
 
-[^12]: [圓山保齡球館驚歇業！飛碟球黃金年代成追憶](https://www.threads.com/@r2sale/post/DZjRp78gWo/) — Publicación testimonial de residentes locales en Threads, 2026
+Su partida pareció presagiar el fin de la era dorada. En la madrugada del 11 de mayo de 1992, un gran incendio en la Bolera Ziqiang de Zhonghe causó la muerte de 20 personas, dañando gravemente la imagen de seguridad pública de las boleras.[^15][^16] Con el ajuste de los patrones de aceite en las pistas internacionales para contrarrestar el UFO Ball y el auge del entretenimiento digital, las luces de las boleras empezaron a apagarse una tras otra.[^11][^13] En junio de 2026, la Bolera Yuanshan, que había operado durante casi seis décadas, cerró sin previo aviso, simbolizando el fin de una era.[^12][^13]
 
-[^13]: [台灣保齡球 60 年興衰史：從貴族運動到時代眼淚](https://m.youtube.com/watch?v=i7WGrfWthns) — Documental de YouTube de 走進歷史, 2024
+📝 Nota del curador: No extrañamos esa bola de 15 libras, sino aquella época de inocencia en la que los amigos se reunían junto a la pista para celebrar un _strike_ durante toda la noche.
 
-[^14]: [朱有田於 1983 年在墨西哥贏得 AMF 世界杯保齡球賽男子冠軍](https://www.facebook.com/lonertravel/posts/1060006102799545/) — Publicación retrospectiva histórica de Facebook de 孤獨旅行者, 2024
+## Desafíos y renacímiento: de la competición al espacio multiusos
 
-[^15]: [自強保齡球館大火](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E4%BF%9D%E9%BD%A1%E7%90%83%E9%A4%A8) — Entrada de Wikipedia en chino sobre el desastre de la bolera de Zhonghe de 1992
+El deporte de los bolos enfrenta hoy un doble desafío. Los Juegos Asiáticos de Hangzhou 2023 no lo incluyeron como disciplina oficial, lo que ha provocado su gradual desaparición del escenario competitivo internacional.[^13] Ji Chao-hang observa que el modelo de gestión de las boleras actuales está pasando de la mera competición a convertirse en espacios multiusos para todas las edades, como el modelo de "pago único por uso total" adoptado por E7Play (antiguamente Bolera Feilong).[^1][^7][^13]
 
-[^16]: [保齡球館奪 20 命事後還傳出靈異事件｜1992 年自強球館事件](https://time.udn.com/udntime/story/122833/6903311) — Retrospectiva de desastre de UDN Time, 2023
+Aunque los bolos ya no ocupan los titulares deportivos, siguen girando silenciosamente en algunos rincones. Para los taiwaneses que vivieron la década de 1990, el sonido nítido del impacto de la bola contra los pinos siempre será el _strike_ más estruendoso en sus recuerdos de juventud.
+
+---
+
+## Fuentes de referencia
+
+[^1]: [La era dorada de los bolos en Taiwán se convierte en una lágrima de la época; Ji Chao-hang utiliza internet para promover y atraer al público a las boleras](https://joumedia.pccu.edu.tw/article.php?id=2183) — Entrevista de Liao Yung-hsiang a Ji Chao-hang, Huagang Rong Media 2025
+
+[^2]: [UFO Ball... desde su invención original hasta su descifrado y posterior renacimiento](https://sports.ltn.com.tw/news/paper/29826) — Liberty Times, reportaje especial de la sección de deportes, 2005
+
+[^3]: [Taiwán inventa el UFO Ball y se hace famoso en el mundo](https://www.merit-times.com.tw/NewsPage.aspx?unid=113079) — Columna de Li Yu-cheng, Humanistic Report, 2</i>009
+
+[^4]: [¿Qué características y encanto tiene el UFO Ball, originario de Taiwán, que cautivó al mundo entero?](https://www.facebook.com/bowlingmen/videos/1515557145839087/) — Explicación en vídeo de Gungun Zhugong, Facebook, 2024
+
+[^5]: [Juegos Asiáticos de Hangzhou / Retrospectiva: Los 19 oros de Bangkok 1998 fueron los mejores de la historia; los bolos, con 6 oros, fueron eliminados](https://www.nownews.com/news/6257390) — Reportaje de Lu Hao-wei, NOWnews, 2023
+
+[^6]: [El vicepresidente envía mensaje de felicitación a Wu Fu-lung, representante de nuestros Juegos Asiáticos, por ganar el oro en la modalidad individual masculino de bolos en Bangkok 1998](https://www.president.gov.tw/NEWS/5152) — Comunicado de prensa de la Presidencia de la República de China (Taiwán), 1998
+
+[^7]: [La era dorada de los bolos en Taiwán](https://www.peopo.org/news/802246) — Contribución personal de Ji Chao-hang, PeoPo Noticias Ciudadanas, 2025
+
+[^8]: [¿Por qué los bolos ya no son populares? Las luces de las boleras se apagan una a una, convirtiéndose en lágrimas de la época](https://www.gvm.com.tw/article/130878) — Retrospectiva industrial, revista Vista Única (Yuanjian), 2026
+
+[^9]: [La campeona mundial de bolos de Taipéi Chino, Tseng Su-fen, se suicidó anoche](https://sports.sohu.com/55/71/sports_news164757155.shtml) — Noticias de deportes de Sohu, 2002
+
+[^10]: [¡Consagrada como la "Princesa del UFO Ball"! Sin embargo, se quitó la vida en 2002](https://www.facebook.com/UDNtime/posts/1193200476347019/) — Publicación conmemorativa de United Daily News, Facebook, 2026
+
+[^11]: [El auge y caída de los bolos protegiendo los recuerdos de la juventud](https://enews.ccu.edu.tw/p/405-1089-64556,c179.php?Lang=zh-tw) — Noticiero estudiantil de la Universidad Nacional Chung Cheng, 2024
+
+[^12]: [¡Cierre inesperado de la Bolera Yuanshan! La era dorada del UFO Ball queda en el recuerdo](https://www.threads.com/@r2sale/post/DZjRp78gWo/) — Publicación de un residente local, Threads, 2026
+
+[^13]: [60 años de auge y caída de los bolos en Taiwán: de deporte aristocrático a lágrima de la época](https://m.youtube.com/watch?v=i7WGrfWthns) — Documental "Entrando en la Historia", YouTube, 2024
+
+[^14]: [Chu Yu-tien ganó el campeonato mundial AMF de bolos en la modalidad masculina en México en 1983](https://www.facebook.com/lonertravel/posts/1060006102799545/) — Retrospectiva histórica, Facebook Solitario Viajero, 2024
+
+[^15]: [Incendio en la Bolera Ziqiang](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E4%BF%9D%E9%BD%A1%E7%90%83%E9%A4%A8) — Wikipedia en chino, desastre de la bolera de Zhonghe, 1992
+
+[^16]: [Tras el incendio de la bolera que cobró 20 vidas, se reportan sucesos paranormales | El incidente de la Bolera Ziqiang de 1992](https://time.udn.com/udntime/story/122833/6903311) — Retrospectiva de desastres, UDN News, 2023

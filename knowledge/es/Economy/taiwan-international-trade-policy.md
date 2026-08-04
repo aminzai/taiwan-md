@@ -2,9 +2,7 @@
 title: 'Política de comercio internacional de Taiwán: encontrar su posición en la ola de la globalización'
 description: 'Taiwán, como economía orientada al comercio, impulsa estrategias comerciales diversificadas como el ingreso al CPTPP y la Nueva Política hacia el Sur, buscando ampliar su espacio económico y comercial internacional bajo restricciones geopolíticas.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '貿易與全球化'
 tags:
   [
     'economía',
@@ -15,16 +13,18 @@ tags:
     'TLC',
     'economía y comercio internacionales',
   ]
+subcategory: '貿易與全球化'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 16
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:46d9237ef98b45d7'
-sourceBodyHash: 'sha256:9fbe7b79e0934c74'
-translatedAt: '2026-05-15T13:52:06+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:d585af78b77ed183'
+sourceBodyHash: 'sha256:57ec5065ff0c2c3f'
+translatedAt: '2026-08-04T04:47:39.639904+00:00'
 ---
 
 # Política de comercio internacional de Taiwán: encontrar su posición en la ola de la globalización
@@ -151,14 +151,14 @@ Sin embargo, las limitaciones son igualmente evidentes. La realidad política re
 
 ## Referencias
 
-[^1]: [Departamento de Estadísticas del Ministerio de Finanzas — Panorama del comercio de importación y exportación de nuestro país en 2023](https://www.mof.gov.tw/htmlList/103) — Estructura de las exportaciones de Taiwán en 2023 y proporción de los principales socios comerciales
+[^1]: [Departamento de Estadística del Ministerio de Finanzas — Panorama del comercio de importación y exportación de Taiwán en 2023](https://www.mof.gov.tw/htmlList/103) — Estructura de las exportaciones de Taiwán y proporción de los principales socios comerciales en 2023
 
-[^2]: [Portal general de ECA/FTA de Taiwán — Acuerdos de cooperación económica Taiwán-Nueva Zelanda y Taiwán-Singapur](https://fta.trade.gov.tw/) — Explicación del contenido de los acuerdos ECA de Taiwán con Nueva Zelanda y Singapur
+[^2]: [Portal principal de ECA/FTA de Taiwán — Acuerdos de cooperación económica entre Taiwán y Nueva Zelanda, y Taiwán y Singapur](https://fta.trade.gov.tw/) — Descripción del contenido de los acuerdos ECA entre Taiwán con Nueva Zelanda y Singapur
 
-[^3]: [Oficina de Negociaciones Comerciales del Yuan Ejecutivo — Iniciativa Comercial Taiwán-Estados Unidos del Siglo XXI](https://www.ey.gov.tw/otn/) — Antecedentes y contenido de la firma de la primera parte de 2023, sobre facilitación del comercio
+[^3]: [Oficina de Negociación Económica y Comercial del Yuan Ejecutivo — Iniciativa Comercial del Siglo XXI entre Taiwán y EE. UU.](https://www.ey.gov.tw/otn/) — Contexto y contenido de la firma del Capítulo 1 (Facilitación del Comercio) en 2023
 
-[^4]: [Administración de Comercio Internacional del Ministerio de Economía — Avance de la solicitud al CPTPP](https://www.trade.gov.tw/) — Explicación del avance de la solicitud de Taiwán de 2021 para ingresar al CPTPP
+[^4]: [Dirección de Comercio Internacional del Ministerio de Economía — Progreso de la solicitud al CPTPP](https://www.trade.gov.tw/) — Explicación del progreso de la solicitud de Taiwán para unirse al CPTPP en 2021
 
-[^5]: [Agencia Central de Noticias, 2024/5/31 — China cancela reducciones para 134 productos petroquímicos del ECFA](https://www.cna.com.tw/) — En mayo de 2024, China volvió a cancelar reducciones de cosecha temprana del ECFA para 134 productos petroquímicos
+[^5]: [CNA 31/05/2024 — China elimina las reducciones arancelarias de 134 productos petroquímicos bajo el ECFA](https://www.cna.com.tw/) — En mayo de 2024, China eliminó nuevamente las reducciones arancelarias anticipadas del ECFA para 134 productos petroquímicos
 
-[^6]: [OMC — Informe de examen de política comercial del Territorio Aduanero Distinto de Taiwán, Penghu, Kinmen y Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Informe de revisión de la OMC sobre la política comercial de Taiwán
+[^6]: [OMC — Informe de examen de las políticas comerciales en áreas arancelarias específicas de Taiwán, Penghu, Kinmen y Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Informe de la OMC sobre la revisión de las políticas comerciales de Taiwán

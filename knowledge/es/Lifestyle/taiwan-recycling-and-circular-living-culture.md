@@ -1,144 +1,145 @@
 ---
-title: 'La isla que persigue el camión de basura: Taiwán, de la crisis de residuos al milagro del reciclaje'
-description: 'Un lugar que en los años 90 tenía casi 400 vertederos al borde de su capacidad y al que los medios internacionales llamaban «isla de la basura», donde la música de Beethoven hace que 23 millones de personas persigan cada día el camión de la basura, y que 30 años después supera a la mayoría de los países europeos en tasa de reciclaje de recursos'
+title: 'La isla que persigue al camión de la basura: de la crisis de residuos al milagro del reciclaje en Taiwán'
+description: 'Un lugar que en los años 90 tenía 400 vertederos a punto de colapsar y era llamado «isla de la basura»; hoy, gracias a la música de Beethoven, 23 millones de personas reciclan con éxito.'
 date: 2026-03-23
+category: 'Lifestyle'
 tags:
   [
-    'basura no en el suelo',
-    'reciclaje de recursos',
-    'reciclaje cuádruple',
-    'música del camión de basura',
-    'Para Elisa',
-    'política ambiental',
+    'Basura cero',
+    'reciclaje',
+    'sistema de cuatro pilares',
+    'música del camión de la basura',
+    'Für Elise',
+    'políticas medioambientales',
     'PAYT',
   ]
 subcategory: '城市生活'
 author: 'p3nchan'
-readingTime: 8
-category: 'Lifestyle'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
-translatedFrom: Lifestyle/台灣回收與資源循環文化.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 8
+curation: 'incubating'
+translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:692a1090832374e5'
 sourceBodyHash: 'sha256:258baccfb653bebb'
-translatedAt: 2026-05-01T22:19:10+08:00
-featured: false
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-# La isla que persigue el camión de basura: Taiwán, de la crisis de residuos al milagro del reciclaje
+# La isla que persigue al camión de la basura: de la crisis de residuos al milagro del reciclaje en Taiwán
 
-## Panorama en 30 segundos
+## Resumen en 30 segundos
 
-En 1993, la tasa de reciclaje de residuos en Taiwán se aproximaba a cero. Más de 400 vertederos en toda la isla estaban cerca de su capacidad máxima, y los medios internacionales le habían puesto un apodo: «isla de la basura». Treinta años después, la tasa de reciclaje de recursos de Taiwán supera el 55 %, y en el Índice de Desempeño Ambiental (EPI) de 2024 obtuvo una puntuación de 96,7 en la categoría de recuperación de residuos, empatando con Singapur en el primer lugar de Asia. La cantidad de basura generada por persona al día pasó de 1,14 kg en 1998 a menos de 0,4 kg — una reducción de casi dos tercios.
+En 1993, la tasa de reciclaje en Taiwán era cercana a cero y los más de 400 vertederos de la isla estaban próximos a su saturación; la prensa internacional le otorgó un apodo: «isla de la basura». Treinta años después, la tasa de reciclaje en Taiwán supera el 55%. En el Índice de Desempeño Ambiental (EPI) de 2024, obtuvo una puntuación de 96,7 en la categoría de gestión de residuos, empatando con Singapur como la primera de Asia. La generación de residuos per cápita diaria ha descendido de 1,14 kg en 1998 a menos de 0,4 kg, lo que representa una reducción de casi dos tercios.
 
-Y todo comenzó con Beethoven.
-
----
-
-## 400 vertederos al borde del colapso
-
-En la década de 1980, Taiwán disfrutaba los beneficios del milagro económico, pero nadie se preocupaba por adónde iba la basura. El vertedero era la única forma de tratamiento: se amontonaban montañas de residuos en las riberas de los ríos, a orillas del río Tamsui, a ambos lados del río Ai y en las desembocaduras principales. El olor era omnipresente. Moscas, ratas, contaminación del agua subterránea: el precio lo pagaban los vecinos de las zonas cercanas a los vertederos.
-
-Para 1993, más de 400 vertederos en toda la isla estaban a punto de saturarse, pero ninguna comunidad quería aceptar uno nuevo. Las protestas se extendieron por todo el territorio: «la basura de tu casa no se tira en la mía» se convirtió en el tema más sensible de la política local.
-
-La primera reacción del gobierno fue construir incineradoras. En 1991, el Yuan Ejecutivo lanzó el plan «una incineradora por condado o ciudad», y en 1996 amplió la iniciativa atrayendo capital privado bajo el modelo BOT para construir 15 plantas adicionales. Pero las incineradoras solo resolvían el tratamiento final, no el problema de fondo: los taiwaneses generaban demasiada basura.
+Y el punto de partida de todo esto fue una obra de Beethoven.
 
 ---
 
-## Beethoven a recoger basura
+## 400 vertederos al límite
 
-El punto de inflexión fue la política de «basura no en el suelo» (basura no se deja en la vía pública), implementada por primera vez en la ciudad de Taipéi en 1996. Antes de eso, la basura se dejaba en puntos de concentración en la calle, a la espera de que el equipo de limpieza pasara a recogerla. Suciedad, mal olor y cucarachas eran el estándar de cada punto de acopio.
+En la década de 1980, Taiwán disfrutaba de los beneficios del milagro económico, pero nadie se preocupaba por el destino de la basura. El vertido era la única forma de tratamiento, y las montañas de residuos se acumulaban a las orillas de los ríos; el olor era perceptible en las riberas del río Tamsui, las márgenes del río Ai y en los principales estuarios. Mosquitos, moscas, ratas y contaminación de aguas subterráềnas: el coste lo pagaban los residentes que vivían cerca de los vertederos.
 
-La nueva política era simple y radical: se eliminaron todos los contenedores de basura en la vía pública y los puntos de concentración, y se sustituyeron por rutas de camiones de basura con horarios y ubicaciones fijos. Los residentes debían entregar personalmente su basura a los agentes de limpieza cuando el camión llegaba. ¿Se lo perdieron? Mañana será otro día.
+Para 1993, más de 400 vertederos en todo el país estaban a punto de saturarse, pero ninguna comunidad estaba dispuesta a aceptar nuevos emplazamientos. Las protestas se extendieron por toda la isla; «no tires tu basura en mi casa» se convirtió en el tema político local más sensible.
 
-Pero para que los residentes supieran cuándo venía el camión, hacía falta una señal.
-
-Sobre por qué se eligió la _Para Elisa_ (_Für Elise_, conocida en Taiwán como «Gei Ailisi») de Beethoven y la _Oración de la doncella_ (_A Maiden's Prayer_, conocida en Taiwán como «Shaonü de Qidao») de Bądarzewska-Baranowska, existe una historia muy difundida: se dice que Xu Ziqiu, entonces director del Departamento de Salud del Gobierno Provincial de Taiwán, al llegar a casa una tarde escuchó a su hija practicar ambas piezas al piano, le parecieron agradables y decidió adoptarlas. Otra versión sostiene que los camiones de basura importados de Japón en la década de 1960 ya venían equipados con cajas musicales que reproducían _La oración de la doncella_, y la tradición se mantuvo.
-
-Sea cual sea el origen, el resultado fue que los 23 millones de habitantes de Taiwán asociaron desde entonces estas dos piezas de piano clásico con la instrucción «baja la basura ya». Para los turistas extranjeros que visitan Taiwán, la experiencia más sorprendente no suele ser el mercado nocturno ni los templos, sino ver a una calle entera de personas corriendo con bolsas de basura hacia un gran camión amarillo que reproduce música clásica.
-
-> **📝 Nota del curador**
-> Probablemente no existe otro lugar en el mundo donde los amantes de la música clásica y los agentes de limpieza estén conectados de forma tan directa.
+La primera respuesta del gobierno fue construir incineradoras. En 1991, la Administración Ejecutiva lanzó el plan «Una incineradora por condado/ciudad», y en 1996 se reforzó la iniciativa introduciendo capital privado mediante el modelo BOT para construir 15 plantas adicionales. Sin embargo, las incineradoras solo resolvieron el tratamiento final, no el problema de raíz: los taiwaneses generaban demasiada basura.
 
 ---
 
-## Pagar por tirar basura
+## Beethoven viene a recoger la basura
 
-La política de «basura no en el suelo» cambió el comportamiento, pero lo que realmente hizo caer en picado el volumen de residuos fue el sistema de «cobro por bolsa» (_Pay-As-You-Throw_, PAYT), implementado en Taipéi en el año 2000.
+La clave del cambio fue la política de «Basura cero en el suelo» (垃圾不落地), implementada primero en Taipéi en 1996. Antes de esto, la basura se depositaba en puntos de recogida junto a las carreteras a la espera de que los equipos de limpieza pasaran. La suciedad, el mal olor y las cucarachas eran la norma en cada punto de recogida.
 
-La lógica es intuitiva: la basura solo se recoge si está dentro de bolsas designadas por el gobierno, y esas bolsas se compran. La bolsa más pequeña, de 3 litros, cuesta aproximadamente 1 dólar taiwanés (unos 0,03 dólares estadounidenses); la más grande, de 120 litros, cuesta unos 43. Cuanto más tiras, más pagas. Pero los materiales reciclables no requieren bolsa especial: se recogen gratis.
+La nueva política era simple y radical: eliminar todos los contenedores de basura y puntos de recogida en las aceras, sustituyéndolos por rutas fijas y horarios establecidos para los camiones de basura. Los residentes debían entregar personalmente sus residuos a los operarios cuando llegara el camión. ¿Se le pasó? Tendrá que esperar a mañana.
 
-El incentivo económico surtió efecto de inmediato. La cantidad diaria de basura en Taipéi pasó de 2.970 toneladas en el año 2000 a 1.008 toneladas en 2011, una reducción del 66 %. La basura generada por persona al día bajó de 1,26 kg en 1997 a 0,87 kg en 2015. Los residentes empezaron a enjuagar bien las botellas de PET, aplanar las cajas de cartón y separar los restos de cocina con esmero, porque cada gramo que iba a parar a la bolsa de pago era dinero.
+Pero para que los residentes supieran que el camión estaba cerca, se necesitaba una señal.
 
-El sistema de cobro por bolsa se extendió posteriormente a la mayoría de los condados y ciudades de Taiwán, convirtiéndose en la herramienta de política individual más eficaz para la reducción de residuos.
+Sobre por qué se eligieron _Para Elisa_ (_Für Elise_) de Beethoven y _Oración de la doncella_ (_A Maiden's Prayer_) de Badescu, circula una historia muy conocida: se dice que Hsu Tzu-chiu (許子秋), entonces director del Departamento de Salud del Gobierno Provincial de Taiwán, escuchó a su hija practicar estas dos piezas al volver a casa del trabajo; le parecieron melodías agradables y decidió adoptarlas. Otra versión sostiene que los camiones de basura importados desde Japón en la década de 1960 ya venían equipados con cajas de música que reproducían _Oración de la doncella_, y la tradición perduró.
+
+Independientemente del origen, el resultado fue que 23 millones de personas en toda Taiwán empezaron a asociar estas dos piezas de piano clásico con la instrucción «baja rápido la basura». Para los turistas extranjeros, la experiencia más sorprendente en Taiwán no suele ser la de los mercados nocturnos o los templos, sino ver a gente en toda una calle corriendo hacia un gran camión amarillo que emite música clásica cargando bolsas de basura.
+
+> **📝 Nota del editor**
+> Probablemente no exista otro lugar en el mundo donde los amantes de la música clásica y los operarios de limpieza compartan un vínculo tan directo.
 
 ---
 
-## El plan cuádruple: convertir el reciclaje en industria
+## Pagar por lo que tiras
 
-En 1997, la Agencia de Protección Ambiental lanzó el «Plan de Reciclaje de Recursos Cuádruple», que integró cuatro actores para formar un ecosistema de reciclaje completo:
+La política de «basura cero en el suelo» cambió el comportamiento, pero lo que realmente provocó la caída drástica en el volumen de residuos fue la política de «pago por bolsa» (Pay-As-You-Throw, PAYT) implementada en Taipéi en el año 2000.
 
-**Los residentes comunitarios** realizan la primera clasificación en casa. Las cocinas taiwanas suelen tener de tres a cuatro cubos de basura: residuos generales, restos de cocina (separados en crudos y cocidos) y materiales reciclables. La clasificación se enseña en la escuela primaria; para la edad adulta, ya es memoria muscular.
+La lógica es intuitiva: la basura solo se recoge si se deposita en bolsas especiales designadas por el gobierno, las cuales deben comprarse. La bolsa más pequeña de 3 litros cuesta aproximadamente 1 TWD (unos 0<0xC2>,03 USD), mientras que la más grande de 120 litros cuesta unos 43 TWD. Cuanto más tires, más pagas. Sin embargo, los materiales reciclables no requieren bolsas especiales y su recogida es gratuita.
 
-**Los equipos de limpieza locales** se encargan de la recogida. Varias noches a la semana, el camión amarillo de basura va seguido de un camión de reciclaje abierto, y los residentes hacen cola para depositar los materiales reciclables clasificados. Taipéi cuenta con más de 4.000 puntos de recogida que operan cinco noches a la semana, y existe una aplicación móvil para rastrear la ubicación en tiempo real de los camiones.
+El incentivo económico surtió efecto de inmediato. La cantidad diaria de basura en Taipéi descendió de 2.970 toneladas en el año 2000 a 1.018 toneladas en 2011, una reducción del 66%. La generación de residuos per cápita diaria bajó de 1,26 kg en 1997 a 0,87 kg en 2015. Los residentes empezaron a enjuagar con esmero las botellas de plástico, a aplastar las cajas de cartón y a separar los restos orgánicos, porque cada gramo depositado en la bolsa especial representaba un coste.
 
-**Los recicladores** se encargan del procesamiento posterior y la reutilización, formando una cadena industrial completa.
+Posteriormente, el sistema de pago por bolsa se extendió a la mayoría de los condados y ciudades de Taiwán, convirtiéndose en la herramienta de política individual más eficaz para la reducción de residuos en el país.
 
-**El fondo de reciclaje** es el motor financiero de todo el sistema. Los fabricantes e importadores pagan tasas de tratamiento y eliminación de reciclaje según la categoría del producto; ese dinero ingresa al fondo y subvenciona el funcionamiento del sistema de reciclaje. En 2012, el fondo alcanzó los 7.000 millones de dólares taiwaneses. Desde 1998, el fondo ha financiado la adquisición de más de 1.300 camiones de reciclaje y la construcción de 273 estaciones de reciclaje. Este mecanismo de «responsabilidad extendida del productor» (EPR) hace que el sector manufacturero asuma también los costos del final del ciclo de vida de sus productos.
+---
+
+## El modelo de cuatro pilares: convertir el reciclaje en una industria
+
+En 1997, la Agencia de Protección Ambiental lanzó el «Plan de Reciclaje de Cuatro Pilares», integrando cuatro roles para formar un ecosistema de reciclaje completo:
+
+**Los ciudadanos de la comunidad** realizan la primera fase de clasificación en sus hogares. Las cocinas taiwanesas suelen tener entre tres y cuatro cubos de basura: basura general, residuos orgánicos (separados en crudos y cocinados) y reciclaje. La clasificación se enseña desde la escuela primaria, por lo que al llegar a la edad adulta es un acto reflejo.
+
+**Los equipos de limpieza locales** se encargan de la recogida. Varias noches a la semana, tras el camión amarillo de la basura, circula un camión de reciclaje abierto donde los residentes hacen fila para depositar sus materiales clasificados. Taipéi cuenta con más de 4.000 puntos de recogida que operan cinco noches a la semana, y existe una aplicación móvil para rastrear la ubicación del camión en tiempo real.
+
+**Los recicladores** se encargan del tratamiento posterior y la reutilización, formando una cadena industrial completa.
+
+**El fondo de reciclaje** es el motor financiero de todo el sistema. Los fabricantes e importadores pagan una tasa de limpieza y tratamiento según la categoría de sus productos; este dinero entra en el fondo para subsidiar la operación del sistema de reciclaje. En 2012, el tamaño del fondo alcanzó los 7.000 millones de TWD. Desde 1998, el fondo ha adquirido más de 1.300 camiones de reciclaje y ha financiado 273 estaciones de reciclaje. Este mecanismo de «Responsabilidad Ampliada del Productor» (EPR) permite que la fase de producción también asuma los costes de la etapa final del ciclo de vida del producto.
 
 ---
 
 ## Los números hablan
 
-| Indicador                                  | Años 90        | 2024                                  |
-| ------------------------------------------ | -------------- | ------------------------------------- |
-| Tasa de reciclaje de recursos              | Cercana al 0 % | **55 %** (hogares + sector comercial) |
-| Tasa de reciclaje de residuos industriales | —              | **77 %**                              |
-| Basura por persona al día                  | 1,14 kg        | **< 0,4 kg**                          |
-| Tasa de reciclaje de plástico              | —              | **73 %**                              |
-| Puntuación EPI en recuperación de residuos | —              | **96,7** (primero de Asia)            |
+| Indicador                              | Década de 1990 | 2024                            |
+| :------------------------------------- | :------------- | :------------------------------ |
+| Tasa de reciclaje                      | Cercana al 0%  | **55%** (doméstico + comercial) |
+| ación de residuos industriales         | —              | **77%**                         |
+| Generación de basura per cápita diaria | 1,14 kg        | **< 0,4 kg**                    |
+| Tasa de reciclaje de plástico          | —              | **73%**                         |
+| Puntuación EPI (Gestión de residuos)   | —              | **96,7** (primera en Asia)      |
 
-En comparación con los países vecinos: Japón obtuvo 94,4 en el EPI y Corea del Sur 82. La cantidad de residuos generada por persona en Taiwán es la mitad que en Estados Unidos.
+Comparativa con vecinos: Japón obtuvo una puntuación EPI de 94,4 y Corea de 82. La cantidad de residuos generada por persona en Taiwán es solo la mitad que en Estados Unidos.
 
-Taipéi incluso ha empezado a cerrar algunas de sus incineradoras, porque no hay suficiente basura para quemar. Esa frase habría sido impensable en Taiwán en 1993.
-
----
-
-## Aún no se ha llegado a la meta
-
-El sistema de reciclaje de Taiwán está lejos de ser perfecto.
-
-El método de cálculo de la tasa de reciclaje siempre ha sido objeto de controversia. Algunos académicos señalan que las cifras oficiales incluyen la reutilización de las cenizas de incineración como «reciclaje», por lo que la tasa real de recuperación de materiales podría ser inferior a la publicada. La limpieza y la precisión de la clasificación de los materiales reciclables aún tienen margen de mejora: demasiados artículos «reciclados» terminan finalmente en la incineradora.
-
-Las fluctuaciones en los precios internacionales de las materias primas afectan directamente la viabilidad de la industria del reciclaje. Cuando los precios del papel o el plástico reciclado se desploman, los recicladores pierden el incentivo para comprar, y toda la base económica del sistema se tambalea.
-
-Los nuevos tipos de residuos también plantean desafíos. Los envases de materiales compuestos, los residuos electrónicos y la ropa de moda rápida son más difíciles de reciclar, con tecnologías más complejas y costos más elevados; el sistema actual aún no tiene buenas soluciones para ellos.
-
-El envejecimiento de la población convierte «perseguir el camión de basura» en un reto físico. Para las personas mayores o con movilidad reducida, cargar la basura hasta un punto fijo a una hora determinada no es fácil. Algunos condados y ciudades ya han empezado a probar servicios de recogida a domicilio.
+Taipéi incluso ha comenzado a cerrar algunas incineradoras, porque ya no hay suficiente basura para quemar. Una frase que habría sido imposible de pronunciar en la Taiwán de 1993.
 
 ---
 
-## Una pieza musical que cambió una isla
+## Aún no hemos llegado a la meta
 
-Hace treinta años, la actitud de Taiwán hacia la basura era «tirar y ya». Treinta años después, un escolar taiwanés puede explicarte con precisión que un envase de cartón con capa de aluminio debe cortarse, enjuagarse y aplanarse antes de depositarlo en el contenedor de reciclaje.
+El sistema de reciclaje de Taiwán dista mucho de ser perfecto.
 
-Esta transformación no se debió a una política genial, sino a la remodelación del comportamiento de toda una generación: los incentivos económicos hicieron que la gente empezara a clasificar, el diseño institucional dio salida a esa clasificación, la educación escolar interiorizó el hábito en la siguiente generación, y aquella pieza de música clásica que cada atardecer suena desde la esquina de la calle es el mecanismo de ejecución más suave de todo el sistema.
+El método de cálculo de la tasa de reciclaje sigue siendo objeto de debate. Algunos académicos señalan que las cifras oficiales incluyen la reutilización de cenizas de incineración como «reciclaje», por lo que la tasa real de reciclaje de materiales podría ser inferior a la publicada. La limpieza de los materiales reciclados y la precisión en la clasificación aún tienen margen de mejora; demasiado material clasificado termina, finalmente, en las incineradoras.
 
-Taiwán demostró algo: un lugar que estuvo a punto de verse sepultado por su propia basura puede darle la vuelta en una sola generación. No se necesita tecnología revolucionaria; se necesita que cada persona sienta que «esto es asunto mío».
+La fluctuación de los precios internacionales de las materias primas impacta directamente en la supervivencia de la industria del reciclaje. Cuando el precio del papel o del plástico cae drásticamente, los recicladores pierden el incentivo para comprarlos, lo que puede desestabilizar la base económica de todo el sistema.
 
-Y lo que hace que 23 millones de personas salgan puntualmente cada día a tirar la basura es una pieza para piano compuesta en 1810.
+Los nuevos tipos de residuos también presentan desafíos. Envases de materiales compuestos, basura electrónica y la moda rápida (_fast fashion_): la tecnología de reciclaje para estos elementos es más compleja y costosa, y el sistema actual aún no dispone de soluciones óptimas.
+
+El envejecimiento de la población convierte el «perseguir al camión» en un desafío físico. Para las personas mayores o con movilidad reducida, no es sencillo trasladar la basura a un punto fijo en una hora determinada. Algunos condados ya han comenzado a realizar pruebas piloto de servicios de recogida a domicilio.
+
+---
+
+## Una melodía que cambió una isla
+
+Hace treinta años, la actitud de Taiwán hacia la basura era «simplemente tírala». Treinta años después, un estudiante de primaria en Taiwán puede explicarte con precisión que un envase de aluminio debe cortarse, enjuagarse y aplastarse antes de ser depositado en el reciclaje.
+
+Este cambio no se logró mediante una única política genial, sino a través de la reconfiguración del comportamiento de toda una generación: los incentivos económicos motivaron la clasificación, el diseño institucional dio salida a dicha clasificación, la educación escolar la interiorizó desde la infancia y la música clásica que suena cada tarde en las esquinas es el mecanismo de ejecución más suave de todo el sistema.
+
+Taiwante ha demostrado algo: un lugar que alguna vez estuvo sumergido en su propia basura puede transformarse en una sola generación. No se necesitó tecnología de punta, sino lograr que cada persona sintiera que «este es mi problema».
+
+Y lo que hace que 23 millones de personas salgan puntuales cada día a tirar la basura es, sorprendentemente, una pieza para piano compuesta en 1810.
 
 ---
 
 ## Referencias
 
-- [Recycling in Taiwan — Wikipedia](https://en.wikipedia.org/wiki/Recycling_in_Taiwan)
-- [How Taiwan Has Achieved One of the Highest Recycling Rates in the World — Smithsonian Magazine](https://www.smithsonianmag.com/innovation/how-taiwan-has-achieved-one-highest-recycling-rates-world-180971150/)
-- [Taiwan's Transition: From Garbage Island to Recycling Leader — Rapid Transition Alliance](https://rapidtransition.org/stories/taiwans-transition-from-garbage-island-to-recycling-leader/)
-- [How Beethoven's Für Elise Helps Taiwan Recycle — The Globe and Mail](https://www.theglobeandmail.com/arts/music/how-beethovens-fur-elise-helps-taiwanrecycle/article33207068/)
-- [Garbage Truck Music and Sustainability in Contemporary Taiwan — Academia.edu](https://www.academia.edu/54445782/Garbage_Truck_Music_and_Sustainability_in_Contemporary_Taiwan_From_Cockroaches_to_Beethoven_and_Beyond)
-- [臺灣垃圾政策變遷史（上）：政策與法規框架 — 全球化監察](https://www.inmediahk.net/node/1078766)
-- [推動多元化垃圾處理—讓垃圾變資源 — 行政院](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/70ee13a1-d525-4d92-8bc1-9901e3d1e605)
-- [Recycling Rates by Country 2026 — World Population Review](https://worldpopulationreview.com/country-rankings/recycling-rates-by-country)
-- [一般廢棄物回收率指標資料 — 環境部環境資料開放平臺](https://data.moenv.gov.tw/dataset/detail/STAT_P_46)
+- [Reciclaje en Taiwán — Wikipedia](https://en.wikipedia.org/wiki/Recycling_in_Taiwan)
+- [Cómo Taiwán ha logrado una de las tasas de reciclaje más altas del mundo — Smithsonian Magazine](https://www.smithsonianmag.com/innovation/how-taiwan-has-achieved-one-highest-recycling-rates-world-180971150/)
+- [La transición de Taiwán: de isla de la basura a líder en reciclaje — Rapid Transition Alliance](https://rapidtransition.org/stories/taiwans-transition-from-garbage-island-to-recycling-leader/)
+- [Cómo el Für Elise de Beethoven ayuda a Taiwán a reciclar — The Globe and Mail](https://www.theglobeandmail.com/arts/music/how-beethovens-fur-elise-helps-taiwanrecycle/article33207068/)
+- [Música del camión de la basura y sostenibilidad en la Taiwán contemporánea — Academia.edu](https://www.academia.edu/54445782/Garbage_Truck_Music_and_Sustainability_in_Contemporary_Taiwan_From_Cockroaches_to_Beethoven_and_Beyond)
+- [Historia de la evolución de las políticas de basura en Taiwán (Parte 1): Marco de políticas y regulaciones — Global Monitor](https://www.inmediahk.net/node/1078766)
+- [Promoviendo la gestión diversificada de residuos: convirtiendo la basura en recursos — Administración Ejecutiva](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/70ee13a1-d525-4d92-8bc1-9901e3d1e605)
+- [Tasas de reciclaje por país 2026 — World Population Review](https://worldpopulationreview.com/country-rankings/recycling-rates-by-country)
+- [Datos sobre el indicador de tasa de reciclaje de residuos generales — Plataforma de Datos Abiertos del Ministerio de Medio Ambiente](https://data.moenv.gov.tw/dataset/detail/STAT_P_46)

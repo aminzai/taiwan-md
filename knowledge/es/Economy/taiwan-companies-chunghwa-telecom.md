@@ -2,9 +2,7 @@
 title: 'Empresas de Taiwán: Chunghwa Telecom'
 description: 'La mayor operadora de telecomunicaciones de Taiwán, líder de la transición del monopolio estatal a la transformación digital'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economía',
@@ -13,15 +11,17 @@ tags:
     'Transformación digital',
     'Privatización de empresas estatales',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:dd735f0162ff1ad0'
-sourceBodyHash: 'sha256:9b07a151711a4285'
-translatedAt: '2026-05-15T13:52:06+08:00'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:dd196b4a3bebe6fe'
+sourceBodyHash: 'sha256:85923df8ecf92741'
+translatedAt: '2026-08-04T04:53:57.686515+00:00'
 ---
 
 > **Panorama en 30 segundos**
@@ -166,12 +166,12 @@ La historia de Chunghwa Telecom es una síntesis de tres décadas en las que la 
 
 ## Referencias
 
-[^1]: [Museo Digital de Telecomunicaciones — Historia del desarrollo de las telecomunicaciones en Taiwán](https://telecom.nstm.gov.tw/Development) — Desde la fundación de la Administración de Telecomunicaciones de Taiwán (1949) hasta el proceso de reorganización como Chunghwa Telecom
+[^1]: [Museo Digital de Telecomunicaciones — Historia del desarrollo de las telecomunicaciones en Taiwán](https://telecom.nstm.gov.tw/Development) — Proceso desde la creación de la Administración de Telecomunicaciones de Taiwán (1949) hasta la reestructuración de Chunghwa Telecom
 
-[^2]: [Wikipedia — Chunghwa Telecom](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Cronograma de privatización, estructura accionaria e historia corporativa
+[^2]: [Wikipedia — Chunghwa Telecom](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Cronología de la privatización, estructura accionaria e historia de la empresa
 
-[^3]: [Chunghwa Telecom — Acerca de Chunghwa](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Propósito de fundación, alcance de negocios e hitos de desarrollo de la empresa
+[^3]: [Chunghwa Telecom — Acerca de Chunghwa](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Misión de la empresa, alcance de sus negocios y hitos de desarrollo
 
-[^4]: [Chunghwa Telecom — Informe de resultados operativos del cuarto trimestre de 2024](https://www.cht.com.tw/) — Desempeño financiero y datos de negocios de 2024
+[^4]: [Chunghwa Telecom — Informe de resultados operativos del cuarto trimestre de 2024](https://www.cht.com.tw/) — Desempeño financiero y datos operativos de 2024
 
-[^5]: [Chunghwa Telecom — Principales accionistas](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — Situación actual de la participación accionaria del gobierno (Ministerio de Finanzas y Fondo Nacional de Desarrollo)
+[^5]: [Chunghwa Telecom — Principales accionistas](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — Estado actual de la proporción de participación del gobierno (Ministerio de Finanzas, National Development Fund)

@@ -1,128 +1,129 @@
 ---
-title: 'La cultura del voluntariado y la participación cívica en Taiwán: la bondad cotidiana de una isla'
-description: '30 amas de casa ahorraban cinco jiao al día; 60 años después, ese gesto se convirtió en un imperio benéfico presente en 128 países. La cultura del voluntariado en Taiwán no es un lema: es un ADN colectivo escrito en la vida diaria.'
+title: 'Cultura del voluntariado y participación social en Taiwán: la bondad cotidiana de una isla'
+description: '30 amas de casa ahorraban cinco centavos al día; 60 años después, se convirtió en un imperio de la caridad presente en 128 países. El voluntariado en Taiwán no es un eslogan, es el ADN colectivo escrito en la vida diaria.'
 date: 2026-03-28
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
-    'servicio voluntario',
-    'organizaciones benéficas',
+    'Servicio voluntario',
+    'organizaciones sin fines de lucro',
     'Tzu Chi',
     'ONG',
     'desarrollo comunitario',
-    'mamás cuentacuentos',
+    'Story Mothers',
   ]
+subcategory: '社區與日常'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
-featured: false
+curation: 'incubating'
 translatedFrom: 'Society/台灣志工文化與公益參與.md'
-sourceCommitSha: '165db395'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:83e68a6262dbf058'
 sourceBodyHash: 'sha256:7149df720d9ca880'
-translatedAt: '2026-05-26T21:07:27Z'
+translatedAt: '2026-08-04T13:18:20+08:00'
 ---
 
-> **Panorama en 30 segundos:** Taiwán cuenta con más de 1,1 millones de voluntarios registrados que aportan anualmente más de 120 millones de horas de servicio no remunerado. Desde los 30 jiao diarios ahorrados por 30 amas de casa en el monasterio de Hualien —semilla de lo que hoy es [[Tzu Chi (慈濟)]]— hasta las casi 9.000 estaciones de reciclaje ecológico repartidas por la isla, las mamás cuentacuentos en las escuelas y los equipos comunitarios de reparto de comidas a ancianos: el voluntariado no es una "virtud" taiwanesa, es su "infraestructura".
-> (Sobre el modelo de movilización de voluntarios en desastres, véase «[[Cultura del voluntariado en desastres en Taiwán (台灣災難志工文化)|Los superhombres de la pala y la sincronía insular]]»)
+> **Resumen en 30 segundos:** Taiwán cuenta con más de 1,1 millones de voluntarios registrados que aportan más de 120 millones de horas de servicio gratuito cada año. Desde Tzu Chi, que comenzó con 30 amas de casa en un monasterio de Hualien ahorrando cinco centavos al día, hasta los casi 9.000 centros de reciclaje ecológico en todo el país, las "Story Mothers" (madres cuentacuentos) en las escuelas y los equipos de entrega de comida para ancianos en las comunidades: el voluntariando no es una "virtud" en Taiwán, es una "infraestructura".
+> (Para conocer el modelo de movilización de voluntarios en desastres, consulte 〈[El Hombre Pala y la sincronía de la isla](/es/society/taiwan-disaster-volunteer-culture/)〉)
 
-## El origen: cinco jiao
+## El comienzo de los cinco centavos
 
-En 1966, una monja budista en Hualien presenció algo que la marcó: una mujer indígena, incapaz de pagar los 8.000 dólares taiwaneses de depósito médico, sufrió un aborto espontáneo y fue rechazada por el hospital. En el suelo quedó un charco de sangre. La monja se llamaba Cheng-Yin (證嚴); ese charco de sangre cambiaría la historia de la beneficencia en Taiwán.
+En 1966, una monja budista en Hualien presenció un suceso: una mujer indígena, incapaz de pagar un depósito de 8.000 yuanes, sufrió un aborto espontáneo y fue rechazada por el hospital, dejando un rastro de sangre en el suelo. Aquella monja se llamaba Cheng Yen (證嚴), y esa mancha de sangre cambiaría para siempre la historia de la labor social en Taiwán.
 
-Cheng-Yin regresó al Monasterio Jing-Si (靜思精舍), reunió a 30 amas de casa y les pidió que cada día ahorraran cinco jiao (cinco décimos de dólar taiwanés) en un bambú. ¿Qué se podía comprar con cinco jiao en 1966? Aproximadamente un huevo. Pero los cinco jiao de 30 personas sumaban 450 dólares taiwaneses al mes: suficiente para socorrer a una familia en apuros.
+Cheng Yen regresó al monasterio Jing Si (靜思精舍) y reunió a 30 amas de casa; cada una debía ahorrar cinco centavos (en moneda de Taiwán) al día en un tubo de bambú. ¿Qué se podía comprar con cinco centavos? En 1966, eso equivalía aproximadamente a un huevo. Pero los cinco centavos de 30 personas sumaban 450 yuanes al mes: lo suficiente para ayudar a una familia en crisis.
 
-Así nació la "Asociación Budista Tzu Chi para el Mérito y la Superación de Dificultades". El adjeto "superación de dificultades" era literal: no había oficina, ni personal remunerado, solo bambús y un grupo de amas de casa.
+Así nació la "Asociación de Méritos de Caridad Budista para Superar las Dificultades" (佛教克難慈濟功德會). El término "superar las dificultades" era literal: no había oficinas, ni personal profesional, solo tubos de bambú y un grupo de amas de casa.
 
 > **📝 Nota del curador**
-> En 2023, los ingresos anuales de Tzu Chi alcanzaron los 9.660 millones de dólares taiwaneses, con sucursales en 128 países y más de 94.000 comisarios y miembros laicos registrados. De cinco jiao a miles de millones: esa curva de crecimiento es la nota al pie más dramática de la cultura del voluntariado taiwanés. Pero Tzu Chi es solo una parte de la historia.
+> Para el año 2023, los ingresos anuales de Tzu Chi alcanzaban los 9.660 millones de yuanes taiwaneses, con sucursales en 128 países y más de 94.000 miembros registrados (incluyendo voluntarios y colaboradores). De cinco centavos a miles de millones: esta curva de crecimiento es la nota al pie más dramática de la cultura del voluntariado en Taiwán. Pero Tzu Chi es solo una parte de la historia.
 
-## El nacimiento de un marco legal: una ley y lo que cambió
+## El nacimiento de un sistema: una ley y su impacto
 
-El punto de inflexión de la cultura del voluntariado en Taiwán fue la aprobación de la _Ley de Servicio Voluntario_ en 1999.
+El punto de inflexión para la cultura del voluntariado en Taiwán fue la aprobación de la "Ley de Voluntariado" en 1999.
 
-Antes de eso, ser voluntario significaba "una buena persona haciendo buenas acciones": sin protección legal, sin sistema de formación, sin seguro. Si un voluntario resultaba herido durante el servicio, nadie se responsabilizaba. La ley hizo tres cosas: estableció derechos y obligaciones para los voluntarios, creó un sistema de formación y certificación (12 horas de formación básica más formación especializada) y obligó a las organizaciones a contratar seguros para sus voluntarios.
+Antes de esto, el voluntariado era simplemente "gente buena haciendo buenas acciones", sin protección legal, sin sistemas de formación y sin seguros. Si un voluntario se lesionaba durante su servicio, nadie se hacía responsable. La Ley de Voluntariando hizo tres cosas: reguló los derechos y deberes de los voluntarios, estableció un sistema de formación y certificación (12 horas de formación básica + formación especializada) y exigió que las organizaciones contrataran seguros para sus voluntarios.
 
-Esta ley transformó el "entusiasmo" en "institución". Desde entonces, los voluntarios en Taiwán dejaron de ser solo personas de buen corazón para convertirse en prestadores de servicio ciudadano con registro, certificación de horas y formación profesional.
+Esta ley transformó el "entusiasmo" en un "sistema". A partir de entonces, los voluntarios en Taiwán no son solo personas de buen corazón, sino servidores públicos con registros oficiales, certificación de horas y formación profesional.
 
-| Más de 1,1 millones                                                                        | Más de 120 millones de horas    |
-| ------------------------------------------------------------------------------------------ | ------------------------------- |
-| Voluntarios registrados en Taiwán (2023, estadísticas del Ministerio de Salud y Bienestar) | Horas totales de servicio anual |
+| 1,1 millones+                                                                                        | 120 millones+ de horas             |
+| :--------------------------------------------------------------------------------------------------- | :--------------------------------- |
+| Número de voluntarios registrados en Taiwán (Estadísticas del Ministerio de Salud y Bienestar, 2023) | Total de horas de servicio anuales |
 
-## Estaciones de reciclaje: la red medioambiental de base más grande del mundo
+## Centros de reciclaje ecológico: la red ambiental de base más grande del mundo
 
-En agosto de 1990, Yang Shun-Ling (楊順苓), residente en Fengyuan, escuchó una charla del maestro Cheng-Yin y, al volver a casa, comenzó a promover el reciclaje de recursos en su vecindario. Cheng-Yin la elogió públicamente y, a continuación, todo el sistema Tzu Chi empezó a crear "estaciones de educación medioambiental" en distintos lugares.
+En agosto de 1990, Yang Shun-ling, residente en Fengyuan, tras escuchar una conferencia de la maestra Cheng Yen, regresó a su barrio y comenzó a promover el reciclaje entre sus vecinos. La maestra Cheng Yen la elogió públicamente y, a partir de ahí, todo el sistema de Tzu Chi comenzó a establecer "estaciones de educación ecológica" por todas partes.
 
-Hoy, Taiwán cuenta con más de 8.800 estaciones de reciclaje ecológico de Tzu Chi y más de 100.000 voluntarios medioambientales. La mayoría son jubilados que acuden cada mañana, entre las cinco y las seis, a clasificar cartón, botellas PET y latas de aluminio encorvados sobre las mesas de trabajo.
+Hoy en día, Taiwán cuenta con más de 8.800 centros de reciclaje ecológico de Tzu Chi y más de cien mil voluntarios ambientales. La mayoría son personas mayores jubiladas que llegan a las estaciones entre las cinco y las seis de la mañana para clasificar cartón, botellas de plástico PET y latas de aluminio.
 
-> **✦** Esto no es el "reciclaje" que uno imagina. En 2008, Tzu Chi fundó _Da Ai Technology_ (大愛感恩科技), una empresa que convierte botallas PET recicladas en mantas enviadas a zonas de desastre en todo el mundo. La botella que una abuela recoge encorvada acaba convertida en la manta que abriga a un superviviente del terremoto de Haití.
+> **✦** Esto no es el "reciclaje" que imaginas. En 2008, Tzu Chi fundó "Da Ai Gratitude Technology" para transformar las botellas de plástico recicladas en mantas enviadas a zonas de desastre en todo el mundo. Una botella de plástico que una abuela recogió agachada terminó convirtiéndose en la manta que cubrió a un damnificado del terremoto en Haití.
 
-Las estaciones de reciclaje son, al mismo tiempo, centros sociales para personas mayores. Para muchos ancianos que viven solos, lo más esperado del día es "ir a trabajar" a la estación de reciclaje: no por el medio ambiente, sino por tener con quien hablar.
+Las estaciones ecológicas son también centros sociales para los ancianos de la comunidad. Para muchos adultos mayores que viven solos, lo más esperado del día es ir a "trabajar" a la estación ecológica; no por el reciclaje, sino para tener con quién conversar.
 
-## Mamás cuentacuentos: una revolución silenciosa de la lectura
+## Story Mothers: una revolución silenciosa de la lectura
 
-En cualquier escuela primaria de Taiwán, durante el tiempo de estudio matutino es probable ver a una madre delantal en mano sentada frente al pupitre, contando un cuento a un grupo de niños de siete años.
+Al entrar en cualquier escuela primaria de Taiwán durante la hora de estudio matutino, es muy probable que veas a una madre con delantal sentada frente al estrado, contándole historias a un grupo de niños de siete años.
 
-"Mamá cuentacuentos" (_gùshì māmā_, 故事媽媽) —un término que solo existe en Taiwán— designa a los padres y madres voluntarios que se dedican a la promoción lectora en las escuelas. En su inmensa mayoría mujeres, reciben formación en narrativa oral y psicología infantil, y acuden semanalmente a un aula fija para contar una historia. Sin salario, sin título, solo un grupo de ojos atentos.
+Las "Story Mothers" (madres cuentacuentos) —un término que solo existe en Taiwán— se refiere a los padres que actúan como voluntarios de promoción de la lectura en las escuelas. Ellas (en su gran mayoría mujeres) reciben formación en técnicas de narración y psicología infantil, y acuden a las clases semanalmente para contar un relato. Sin salario ni títulos, solo con un grupo de ojos concentrados escuchando.
 
-Este movimiento se expandió desde la década de 1990 y hoy cubre prácticamente todas las escuelas primarias de Taiwán. Muchos niños sienten su primer interés por los "libros" no porque el maestro los obligue a leer, sino porque una mamá cuentacuentos los hizo reír.
+Este movimiento se expandió desde la década de 1990 y hoy cubre casi todas las escuelas primarias de Taiwán. Muchos niños descubrieron su interés por los libros no porque el profesor lo ordenara, sino porque las Story Mothers los hicieron reír.
 
 > **💡 ¿Sabías que...?**
-> Las mamás cuentacuentos no se limitan a las escuelas. Bibliotecas, hospitales y residencias de ancianos también cuentan con voluntarios de narrativa oral. En el Hospital de la Universidad Nacional de Taiwán (NTU Hospital), los "voluntarios cuentacuentos" acuden específicamente a las plantas de pediatría: para un niño de cinco años hospitalizado durante tres meses, esos veinte minutos pueden ser lo mejor del día.
+> Las "Story Mothers" no se limitan a las escuelas. Hay voluntarios de lectura en bibliotecas, hospitales y centros de cuidados. En el Hospital Universitario de la Universidad Nacional de Taiwán (NTU Hospital), existen voluntarios especializados en contar historias en las salas pediátricas; para un niño de cinco años hospitalizado durante tres meses, ese puede ser el mejor momento de su día.
 
-## Ancianos que cuidan a ancianos
+## Los mayores cuidando de los mayores
 
-En 1995 se fundó la _Fundación Lao Wu Lao_ (老五老基金會) en Taichung. Su nombre procede de Mencio: "Honra a tus propios ancianos y extiende ese respeto a los ancianos de los demás".
+En 1995 se fundó en Taichung la "Fundación Lao Wu Lao" (老五老基金會). Su nombre proviene de una frase de Mencio: "Cuida a tus ancianos como desearías que cuidaran a los tuyos".
 
-Lo verdaderamente singular es su estructura de voluntariado: **quienes prestan el servicio son ellos mismos personas mayores**. Jubilados de 65 años cuidan a ancianos de 80 que viven solos: llamadas de cortesía, reparto de comidas, acompañamiento médico. La sensación de "ser necesarios" mejora también la vida de quienes sirven. Este modelo ha sido replicado por muchas organizaciones de bienestar social.
+Pero lo verdaderamente especial es su estructura de voluntariado: **los propios servidores son personas mayores**. Jubilados de 65 años que cuidan de ancianos de 80 años que viven solos, llamándolos para preguntar cómo están, entregando comida o acompañándolos a sus citas médicas. La sensación de "ser necesitado" hace que los propios voluntarios vivan mejor. Este modelo ha sido replicado por muchas otras organizaciones de bienestar social.
 
-El envejecimiento de Taiwán es uno de los más rápidos del mundo. En 2025, la población mayor de 65 años superaba ya el 20%. Los ancianos que viven solos aumentan sin cesar, y el personal gubernamental de atención a largo plazo nunca es suficiente. En las grietas del sistema, los voluntarios llenan los vacíos.
+El envejecimiento de la población en Taiwación es uno de los más rápidos del mundo. Para 2025, la proporción de personas mayores de 65 años superará el 20%. Con el aumento de ancianos que viven solos y la falta de personal para cuidados a largo plazo por parte del gobierno, los voluntarios están llenando las grietas del sistema.
 
-## Tzu Chi: luces y sombras
+## Las luces y sombras de Tzu Chi
 
-Ningún artículo sobre la cultura del voluntariado en Taiwán puede eludir a Tzu Chi. Es la mayor organización sin ánimo de lucro de la isla y también la más polémica.
+Cualquier artículo sobre la cultura del voluntariado en Taiwán no puede evitar mencionar a Tzu Chi. Es la organización sin fines de lucro más grande de Taiwán, pero también una de las más controvertidas.
 
-Lo positivo es evidente: ayuda humanitaria en 128 países, el primer banco de médula ósea de Taiwán (creado en 1993, con compatibilidades que abarcan también China continental), siete hospitales, un sistema educativo completo desde preescolar hasta universidad, y estados financieros transparentes con ingresos cercanos a los 10.000 millones de dólares taiwaneses anuales.
+El lado positivo es evidente: ayuda humanitaria en 128 países, el primer banco de datos de médula ósea en Taiwán (promovido en 1993, con cobertura que incluye China continental), siete hospitales, un sistema educativo completo desde la guardería hasta la universidad y estados financieros transparentes con ingresos anuales cercanos a los diez mil millones.
 
-La controversia también ha sido constante. Los críticos señalan que la gobernanza interna de Tzu Chi depende excesivamente de la figura personal de Cheng-Yin, que algunos voluntarios emplean métodos de recaudación demasiado agresivos, que el carácter religioso de los hospitales Tzu Chi entra en conflicto con su función de sanidad pública, y que el uso del suelo de las estaciones de reciclaje ha generado disputas. En 2015, el "proyecto de desarrollo del campus de Neihu" provocó una fuerte reacción de grupos ecologistas y se convirtió en una de las mayores crisis de relaciones públicas en la historia de Tzu Chi.
+Sin embargo, las controversias persisten. Los críticos señalan una gobernanza interna excesivamente dependiente de la figura de la maestra Cheng Yen, métodos de recaudación de fondos demasiado agresivos por parte de algunos voluntarios, el conflicto entre el carácter religioso de los hospitales de Tzu Chi y su papel en la salud pública, así es como las disputas sobre el uso de suelo para centros de reciclaje. En 2015, el "proyecto de desarrollo del parque de Neihu" provocó una fuerte reacción de grupos ambientalistas, convirtiéndose en una de las mayores crisis de relaciones públicas de Tzu Chi.
 
-> **⚠️ Perspectiva en disputa**
-> Los partidarios de Tzu Chi la consideran la organización benéfica más eficiente de Taiwán; los críticos la ven como una enorme empresa religiosa carente de supervisión externa. Este debate no tiene conclusión —quizá nunca la tenga—. Pero, con independencia de la postura, nadie puede negar algo: Tzu Chi transformó la idea que los taiwaneses tenían de la palabra "voluntario".
+> **⚠️ Perspectivas en conflicto**
+> Mientras que los seguidores de Tzu Chi la consideran la organización benéfica más eficiente de Taiwán, los críticos la ven como una enorme empresa religiosa carente de supervisión externa. Este debate sigue sin resolverse, y quizás nunca lo haga. Pero independientemente de la postura, nadie puede negar una cosa: Tzu Chi cambió la percepción que los taiwaneses tienen de la palabra "voluntariado".
 
-## Más allá de Tzu Chi
+## No todo es Tzu Chi
 
-El ecosistema benéfico de Taiwán es mucho más rico que una sola organización:
+El ecosistema de la labor social en Taiwán es mucho más rico que solo Tzu Chi:
 
-La **Sociedad de Protección Silvestre** (荒野保護協會, fundada en 1995) es una de las ONG medioambientales más importantes de Taiwán, centrada en la conservación ecológica y la educación ambiental. Su sistema de "observación de punto fijo" —en el que voluntarios realizan un seguimiento a largo plazo de los cambios ecológicos en un mismo hábitat— aporta datos locales irremplazables para la investigación académica.
+**Wildse Conservation Association** (Asociación para la Conservación de la Vida Silvestre, fundada en 1995) es una de las ONG ambientales más importantes de Taiwán, centrada en la conservación ecológica y la educación ambiental. Su sistema de "observación fija" —donde los voluntarios rastrean cambios ecológicos en el mismo hábitat a largo plazo— proporciona datos locales irreemplazables para la investigación académica.
 
-La **delegación taiwanesa de World Vision** ayuda cada año a decenas de miles de niños en situación de vulnerabilidad mediante su programa de apadrinamiento infantil. El "Campamento del Hambre 30" (_Jī È Sān Shí_, 飢餓三十), una experiencia de ayuno solidario celebrada desde 1990, atrae anualmente a miles de jóvenes.
+**World Vision Taiwan** ayuda cada año a miles de niños vulnerables mediante programas de patrocinio infantil. Su campamento de experiencia de "Treinta días de hambre", que se realiza desde 1990, atrae anualmente a miles de jóvenes.
 
-La **Fundación de Bienestar Social Eden** (伊甸社會福利基金會, fundada en 1982) se dedica a la atención de personas con discapacidad. Su fundadora, Liu Xia (劉俠, seudónimo Xing Zhizi), padecía artritis reumatoide y, desde su propia experiencia, construyó una organización que atiende a decenas de miles de personas.
+**Fundación Eden** (fundada en 1982) se especializa en servicios para personas con discapacidades. Su fundador, Liu Xia (seudónimo Xing Linzi), es paciente de artritis reumatoide y utilizó su propia experiencia para sostener una organización que sirve a decenas de miles de personas.
 
-Y luego están los innumerables anónimos: las patrullas de vigilancia de las asociaciones de desarrollo comunitario, las abuelas en motocicleta que reparten comidas en zonas rurales, los chalecos azules de los hospitales que orientan a los pacientes en el registro, los voluntarios de las estaciones de metro que empujan sillas de ruedas.
+Y hay innumerables otros sin nombre: patrullas de asociaciones de desarrollo comunitario, abuelas en motocicletas que entregan comida en zonas rurales, voluntarios con chalecos azules que guían en los hospitales, o personas que ayudan a empujar sillas de ruedas en las estaciones de metro.
 
 ## El paisaje más hermoso
 
-"El paisaje más hermoso de Taiwán son sus personas" —esta frase, repetida hasta la saciedad por la oficina de turismo, describía en origen precisamente esta bondad cotidiana.
+"El paisaje más hermoso de Taiwán es su gente" —esta frase ha sido usada hasta el cansancio por la oficina de turismo, pero originalmente describía esta bondad cotidiana.
 
-No la bondad de las grandes galas benéficas, sino la de las huchas de donaciones en las tiendas de conveniencia, la del vecino que tras un tifón sale espontáneamente a desatascar las alcantarillas, la del transeúnte que, al ver a un turista extranjero perdido, se ofrece a guiarlo. Taiwán ocupa desde hace años un lugar destacado en donaciones per cápita en Asia. Según el _World Giving Index 2024_ de la CAF (Charities Aid Foundation), Taiwán se sitúa en el puesto 33 a nivel mundial, solo por detrás de Indonesia y Myanmar en Asia.
+No es la bondad de una gran gala benéfilla; es la caja de donaciones en la tienda de conveniencia, es el vecino que sale voluntariamente a limpiar las zanjas durante un tifón, es el peatón que guía a un turista extranjero que se ha perdido. El monto promedio de donación per cápita en Taiwán se sitúa constantemente entre los más altos de Asia. En el Índice Mundial de Generosidad 2024 de la CAF (Charities Aid Foundation), Taiwán ocupó el puesto 33 a nivel mundial, siendo superado en Asia solo por Indonesia y Myanmar.
 
-Pero esta frase también enfrenta desafíos. El envejecimiento hace que la edad media de los voluntarios siga subiendo: el 70% supera los 45 años. La urbanización debilita la cohesión comunitaria. Las generaciones más jóvenes prefieren participaciones puntuales y basadas en proyectos, más que compromisos tradicionales a largo plazo. Las jornadas laborales excesivas dejan a los trabajadores sin tiempo ni siquiera los fines de semana.
+Sin embargo, esta frase también enfrenta desafíos. El envejecimiento poblacional está elevando la edad media de los voluntarios: los mayores de 45 años representan ya el 70%. La urbanización ha debilitado la cohesión comunitaria. Las nuevas generaciones tienden hacia una participación a corto plazo y por proyectos, en lugar del compromiso tradicional a largo plazo. Además, las largas jornadas laborales hacen que incluso los fines de semana sean escasos para los trabajadores.
 
-¿Podrá transmitirse la cultura del voluntariado a la siguiente generación? La respuesta quizá no esté en las instituciones, sino en el estudio matutino de alguna escuela —cuando una mamá cuentacuentos logre que un niño de siete años descubra por primera vez que "ayudar a los demás" es algo extraordinario.
+¿Podrá la cultura del voluntariado transmitirse a la siguiente generación? La respuesta podría no estar en las leyes, sino en la hora de estudio matutino de alguna escuela, cuando una "Story Mother" logra que un niño de siete años sienta, por primera vez, que "ayudar a los demás" es algo realmente genial.
 
 ## Referencias
 
-- [Fundación Tzu Chi — Wikipedia](https://zh.wikipedia.org/wiki/%E6%85%88%E6%BF%9F%E5%9F%BA%E9%87%91%E6%9C%83) (índice)
-- [Tzu Chi — Wikipedia (inglés)](https://en.wikipedia.org/wiki/Tzu_Chi) (perspectiva internacional)
-- [Anuario estadístico de servicio voluntario del Ministerio de Salud y Bienestar](https://vol.mohw.gov.tw/) (fuente primaria, estadísticas 2023)
-- [Base de datos jurídica nacional: Ley de Servicio Voluntario](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050131) (fuente primaria, texto legal completo)
-- [Informe anual 2023 de la Fundación Tzu Chi](https://charity.tzuchi.org.tw/) (fuente primaria, datos financieros)
-- [Sitio web oficial de la Sociedad de Protección Silvestre](https://www.sow.org.tw/) (fuente primaria)
-- [Fundación de Bienestar Social Eden](https://www.eden.org.tw/) (fuente primaria)
-- [CAF World Giving Index 2024](https://www.cafonline.org/about-us/publications/2024-publications/caf-world-giving-index-2024) (comparación internacional)
-- [Fundación Lao Wu Lao](https://www.0500.org.tw/) (fuente primaria)
-- [«Los superhombres de la pala y la sincronía insular: la cultura del voluntariado en desastres en Taiwán» — Taiwan.md](https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E7%81%BD%E9%9B%A3%E5%BF%97%E5%B7%A5%E6%96%87%E5%8C%96/) (artículo relacionado en el sitio)
+- [Tzu Chi Foundation — Wikipedia](https://zh.wikipedia.org/wiki/%E6%85%88%E6%BF%9F%E5%9F%BA%E9%87%91%E6%9C%83) (Índice)
+- [Tzu Chi — Wikipedia (English)](https://en.wikipedia.org/wiki/Tzu_Chi) (Perspectiva internacional)
+- [Informe anual de estadísticas de voluntariado del Ministerio de Salud y Bienestar](https://vol.mohw.gov.tw/) (Fuente primaria, estadísticas 2023)
+- [Base de datos legal nacional: Ley de Voluntariado](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050131) (Fuente primaria, texto legal completo)
+- [Informe anual 2023 de la Fundación Tzu Chi](https://charity.tzuchi.org.tw/) (Fuente primaria, datos financieros)
+- [Sitio web oficial de la Wildse Conservation Association](https://www.sow.org.tw/) (Fuente primaria)
 
----
+* [Fundación Eden](https://www.eden.org.tw/) (Fuente primaria)
+
+- [CAF World Giving Index 2024](https://www.cafonline.org/about-us/publications/2024-publications/caf-world-giving-index-2024) (Comparativa internacional)
+- [Fundación Lao Wu Lao](https://www.0500.org.tw/) (Fuente primaria)
+- [〈El Hombre Pala y la sincronía de la isla: Cultura del voluntariado en desastres en Taiwán〉— Taiwan.md](https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E7%81%BD%E9%9B%A3%E5%BF%97%E5%B7%A5%E6%96%87%E5%8C%96/) (Artículo relacionado en el sitio)

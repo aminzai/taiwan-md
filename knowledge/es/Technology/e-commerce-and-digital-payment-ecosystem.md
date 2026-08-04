@@ -2,6 +2,7 @@
 title: 'El comercio electrónico y los pagos digitales en Taiwán: tres batallas comerciales en una isla'
 description: 'Desde la apuesta de Zhan Hongzhi por la entrega en 24 horas, hasta la guerra de subsidios de Shopee con 3.000 millones en pérdidas, y el desembarco de Coupang con su entrega relámpago — veinte años de comercio electrónico taiwanés son una historia cíclica de "innovación local derribada por capital extranjero, y luego derribada por el siguiente capital extranjero".'
 date: 2026-04-06
+category: 'Technology'
 tags:
   [
     'comercio electrónico',
@@ -17,15 +18,14 @@ tags:
 subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12
-category: Technology
 lastVerified: 2026-04-06
 lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e6d4ecca5e8c9269'
-sourceBodyHash: 'sha256:8a4126afbbcc2d61'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:8a77917ab93abd39'
+sourceBodyHash: 'sha256:6564b3269a2b9fa4'
+translatedAt: '2026-08-04T04:42:30.391348+00:00'
 ---
 
 # El comercio electrónico y los pagos digitales en Taiwán: tres batallas comerciales en una isla
@@ -118,24 +118,25 @@ Sin embargo, la tendencia ya es irreversible. Las encuestas más recientes muest
 
 ---
 
-## Veinte años de ciclo
+## Un ciclo de veinte años
 
-Mirando atrás, los veinte años de comercio electrónico y pagos digitales en Taiwán son un ciclo de derribo continuo.
+Al mirar atrás, los veinte años del comercio electrónico y los pagos digitales en Taiwán representan un ciclo de disrupción constante.
 
-En la década de 2000, PChome definió la "velocidad" con la entrega en 24 horas. En la década de 2010, Shopee definió la "baratura" con el envío gratis. En la década de 2020, momo definió la "estabilidad" con su logística propia, y Coupang intenta redefinir la "velocidad" con la entrega relámpago. Cada ganador de una ronda creyó haber encontrado su fosa defensiva, y cada invasor de la siguiente ronda encontró el camino para rodearla.
+En la década de 2000, PChome definió lo que era «rápido» con sus entregas en 24 horas. En la década de 2010, Shopee definió lo «barato» mediante el envío gratuito. En la década de 2020, momo definió la «estabilidad» con su propia red logística, mientras que Coupang intenta redefinir la «rapidez» con su servicio de entrega ultra veloz. Los ganadores de cada etapa creen haber encontrado su propio foso defensivo, pero los invasores de la siguiente etapa siempre encuentran una forma de rodearlo.
 
-El frente de pagos es igual. De pago contra entrega, a tarjeta de crédito, a escaneo con LINE Pay, a un código QR universal TWQR — cada mejora en "conveniencia" hizo que la "conveniencia" de la generación anterior pareciera torpe.
+En el ámbito de los pagos ocurre lo mismo. Desde el pago contra reembolso y el uso de tarjetas de crédito, hasta el escaneo de códigos en LINE Pay y la adopción del estándar TWQR para un solo código universal: cada mejora en la «comodidad» hace que la comodidad de la generación anterior parezca rudimentaria.
 
-En diciembre de 2024, el grupo Uni-President adquirió una participación en PChome. La empresa que transformó el comercio minorista taiwanés con 7-Eleven ahora viene a transformar el comercio electrónico taiwanés. Hace treinta años, las tiendas de abarrotes tradicionales fueron reemplazadas por las tiendas de conveniencia. Ahora, el dueño de las tiendas de conveniencia viene a recoger los restos del comercio electrónico.
+En diciembre de 2024, el Grupo Uni (Uni-President) adquirió una participación en PChome. Esta empresa, que transformó el sector minorista de Taiwán a través de 7-Eleven, ahora busca transformar el comercio electrónico taiwanés. Hace treinta años, las tiendas de barrio tradicionales fueron reemplazadas por las tiendas de conveniencia; hoy, los dueños de esas tiendas de conveniencia vienen a reordenar el panorama del comercio electrónico.
 
-Las batallas comerciales en esta isla no se detendrán. Cada nuevo código QR, cada nuevo centro logístico, cada nueva oleada de subsidios, responden una y la misma pregunta: ¿quién puede hacer que 23,4 millones de personas saquen la cartera un segundo más rápido?
+La guerra comercial en esta isla no se detendrá. Cada nuevo código QR, cada nuevo centro logístico y cada nueva oleada de subsidios busca responder a la misma pregunta: ¿quién puede lograr que los 23 millones de habitantes realicen su pago un segundo más rápido?
 
-**Lecturas relacionadas**:
+**Lecturas adicionales**:
 
-- [Desarrollo de tecnología financiera en Taiwán](/es/economy/taiwan-fintech-development) — Banca digital pura, banca abierta y sandbox regulatorio: panorama completo de la transformación digital del sector financiero
-- [Construcción de red 5G y transformación digital en Taiwán](/es/technology/taiwan-5g-digital-transformation) — Cómo la infraestructura 5G está cambiando el rastreo logístico, las compras por transmisión en vivo y el comercio minorista inteligente
-- [Desarrollo de la industria de software en Taiwán](/es/technology/taiwan-software-industry-development) — De la manufactura por encargo a marca propia: cómo la industria de software sustenta la base técnica de las plataformas de comercio electrónico
-- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — De dónde vienen los chips que sustentan la infraestructura de pagos digitales y comercio electrónico
+- [Desarrollo de la tecnología financiera en Taiwán](/es/economy/taiwan-fintech-development) — De la banca digital y la banca abierta al sandbox regulatorio: el panorama de la transformación digital en el sector financiero.
+- [Construcción de la red 5G y transformación digital en Taiwán](/es/technology/taiwan-5g-digital-transformation) — Cómo la infraestructura 5G transforma el seguimiento logístico, las compras en directo y el comercio inteligente.
+- [Desarrollo de la industria del software en Taiwán](/es/technology/taiwan-software-industry-development) — De la fabricación por contrato a las marcas propias: cómo la industria del software sostiene la base tecnológica de las plataformas de comercio electrónico.
+- [Industria de los semiconductores](/es/technology/taiwan-semiconductor-industry) — De dónde vienen los chips que sustentan los pagos digitales y la infraestructura del comercio electrónico.
+- [Aduanas en Taiwán y EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — El último paso para los paquetes de comercio electrónico transfronterizo que entran en Taiwán: quién opera la aplicación de declaración aduanera y cómo se establecen los umbrales de exención de impuestos.
 
 ## Referencias
 

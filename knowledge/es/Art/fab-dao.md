@@ -1,115 +1,116 @@
 ---
-title: 'La máquina perpetua de donaciones: FAB DAO y el experimento social del Proyecto Cien Cimas'
-description: 'Cómo un médico que dejó el hospital, con una bandera bordada con pelotas de béisbol, abrió una nueva imaginación para la filantropía Web3 en Taiwán. FAB DAO y el Proyecto Cien Cimas redefinen la esencia de la donación: coleccionar es donar, el arte es acción social.'
+title: 'Motor de donaciones perpetuo: El experimento social de FAB DAO y el Proyecto 100 Cumbres'
+description: 'Cómo un médico que dejó la profesión utilizó una bandera con un diseño de "pelota en la línea" para reimaginar la filantropía Web3 en Taiwán. FAB DAO y el Proyecto 100 Cumbres redefinen la esencia de las donaciones: coleccionar es donar, el arte es acción social.'
 date: 2026-03-24
 category: 'Art'
 tags:
   [
     'NFT',
-    'arte en blockchain',
-    'innovación social',
-    'bien público',
-    'arte generativo',
-    'Cien Cimas de Taiwán',
-    'arte digital',
+    'Arte blockchain',
+    'Innovación social',
+    'Filantropía',
+    'Arte generativo',
+    '100 Cumbres de Taiwán',
+    'Arte digital',
   ]
-subcategory: 'arte digital'
+subcategory: 'digital-art'
 author: 'taiwan.md'
-translatedFrom: 'Art/FAB DAO與百岳計畫.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-sourceCommitSha: '4b6d28c5'
+curation: 'incubating'
+translatedFrom: 'Art/FAB DAO與百岳計畫.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a569386269241d61'
 sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
-translatedAt: '2026-05-20T12:41:12+08:00'
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-# La máquina perpetua de donaciones: FAB DAO y el experimento social del Proyecto Cien Cimas
+# Motor de donaciones perpetuo: El experimento social de FAB DAO y el Proyecto 100 Cumbres
 
-## El punto de partida: una bandera que cambió las reglas
+## El punto de partida revolucionario de una bandera
 
-Nadie imaginó que, el día en que Huang Doumi (黃豆泥) dejó el estetoscopio, este médico reconvertido en artista reescribiría las reglas de la filantropía taiwanesa con una "bandera de pelotas de béisbol" (壓線球國旗). Esa obra, de apariencia simple, se convirtió en uno de los símbolos visuales más reconocibles de Taiwán, y sobre todo abrió una pregunta completamente nueva: si una donación puede convertirse en una pieza de colección, si la filantropía puede transformarse en una máquina de movimiento perpetuo, ¿no deberíamos repensar desde cero nuestra comprensión del acto de dar?
+En el momento en que Huang Dou-ni (黃豆泥) dejó su estetoscopio, nadie previó que este médico retirado utilizaría una bandera con un diseño de «pelota en la línea» para reescribir las reglas del juego de la filantropía en Taiwán. Esta obra, aparentemente un simple meme, se convirtió en uno de los paisajes simbólicos más comunes de Taiwán y, lo que es más importante, planteó una nueva interrogante: si las donaciones pudieran convertirse en objetos de colección, y si la filantropía pudiera transformarse en un motor perpetuo, ¿necesitaría nuestra comprensión del acto de «dar» una reestructuración total?
 
-En 2022, cuando la burbuja de los NFT estaba estallando, Huang Doumi y Wu Zheyu (吳哲宇), artista de nuevos medios radicado en Nueva York, cofundaron FAB DAO (Formosa Art Bank DAO, Banco de Arte de Formosa). El nombre en sí es un manifiesto: aspira a ser simultáneamente un banco, una institución artística y un laboratorio de experimentos sociales.
+En 2022, mientras la burbuja de los NFT se desinflaba, Huang Dou-ni y el artista de nuevos medios radicado en Nueva York, Wu Zhe-yu (吳哲宇), fundaron conjuntamente FAB DAO (_Formosa Art Bank DAO_, Banco de Arte Formosa). El nombre en sí mismo es una declaración de intenciones: aspira a ser tanto un banco como una institución artística, y sobre todo, un laboratorio de experimentación social.
 
-## Redefinir la capa de servicio público
+## Redefiniendo la capa de servicio público
 
-El principio central de FAB DAO se resume en una frase: "coleccionar es donar" (收藏即捐款). En el modelo filantrópico tradicional, la donación es un acto de consumo único; el dinero sale y no regresa. Pero en el diseño de FAB DAO, quien dona no recibe una carta de agradecimiento, sino un NFT comercializable con valor artístico. ¿Qué significa esto? Que la filantropía tiene ahora la posibilidad de convertirse en una "máquina de movimiento perpetuo".
+La idea central de FAB DAO puede resumirse en una frase: «Donar es coleccionar». En el modelo filantrópico tradicional, la donación es un acto de consumo único; el dinero sale y no regresa. Sin embargo, en el diseño de FAB DAO, el donante no recibe un certificado de agradecimiento, sino un NFT con valor artístico y transaccionable. ¿Qué significa esto? Significa que la filantropía tiene, a partir de ahora, la posibilidad de convertirse en un «motor perpetuo».
 
-Cuando adquieres un NPO-NFT, completas simultáneamente tres acciones: apoyas a una organización benéfica, coleccionas una obra de arte y participas en un experimento social descentralizado. Más importante aún, si ese NFT se revaloriza en el futuro, puedes optar por revenderlo y permitir que los fondos sigan fluyendo hacia causas filantrópicas. Esta es la lógica central de la "máquina perpetua de donaciones".
+Al adquirir un NPO-NFT, realizas tres acciones simultáneas: apoyas a una organización sin ánimo de lucro, coleccionas una obra de arte y participas en un experimento social descentralizado. Más importante aún, si este NFT aumenta su valor en el futuro, puedes optar por revenderlo, permitiendo que los fondos sigan fluyendo hacia fines benéficos. Esta es la lógica central del «motor de donaciones perpetuo».
 
-FAB DAO se posiciona como una "capa de servicio público Web3", ayudando a organizaciones sin fines de lucro, artistas e instituciones culturales a superar las barreras tecnológicas. Ya ha asistido con éxito a comunidades artísticas, al Hogar Leshan (樂山教養院), a la conservación animal, a la justicia de transición y a otras organizaciones en la emisión de NPO-NFTs, todos agotados en su totalidad. Detrás de esa tasa de éxito hay una comprensión profunda de la resiliencia de la sociedad civil taiwanesa.
+FAB DAO se posiciona como una «capa de servicio público Web3», ayudando a grupos sin fines de lucro, artistas e instituciones culturales a superar las barreras tecnológicas. Ha logrado asistir con éxito a organizaciones dedicadas a temas como la comunidad artística, el orfanato Lèshān (樂山教養院), la conservación animal y la justicia transicional en la emisión de NPO-NFTs, todos ellos agotados por completo. Detrás de esta tasa de éxito se encuentra una comprensión profunda de la resiliencia de la sociedad civil de Taiwán.
 
-## La ambición artística del Proyecto Cien Cimas
+## La ambición artística del Proyecto 100 Cumbres
 
-Si FAB DAO es la declaración del concepto, "Proyecto Cien Cimas" (百岳計畫, Project %) es su práctica más ambiciosa. 10.101 NFTs de arte generativo distribuidos en tres series: %-萬巒 (10.000 piezas, 0.025 ETH), %-百岳 (100 piezas, 10 ETH) y la única %-一線 (no está a la venta).
+Si FAB DAO es la declaración de principios, el «Proyecto 100 Cumbres (_Project %_)» es la práctica más ambiciosa de dicha filosofía. Se trata de 10,101 NFTs de arte generativo divididos en tres series: _%-Wanluan_ (10,000 unidades, 0.025 ETH), _%-100 Cumbres_ (100 unidades, 10 ETH) y la única pieza _%-Línea Principal_ (no disponible para la venta).
 
-"Cien montañas se elevan hacia arriba, formando una isla; cien personas dan un paso adelante, escribiendo una temporada de civilización": ese es el manifiesto poético del Proyecto Cien Cimas. Cada NFT es una obra única generada algorítmicamente, con las Cien Cimas de Taiwán (台灣百岳) como tema, portando las ideas creativas de seis artistas.
+«Cien montañas se elevan hacia arriba para formar una isla; cien personas dan un paso adelante para escribir una nueva era de civilización». Esta es la declaración poética del Proyecto 100 Cumbres. Cada NFT es una obra generada mediante código único, inspirada en las «100 Cumbres de Taiwán» y que porta la visión creativa de seis artistas.
 
-Esos seis artistas representan distintas facetas del arte generativo taiwanés: Wu Zheyu (吳哲宇, Isla) es un artista de renombre internacional en la plataforma Artblocks; Lin Yiwen (林逸文, Vegetación) es cofundador de Fxhash; Wang Xinren / Aluan (王新仁/阿亂, Cima) creó la primera obra de arte generativo taiwanesa en aparecer en Artblocks; Wang Liansheng (王連晟, Civilización) es ganador del Premio Lumen; Lin Jingyao (林經堯, Paraje secreto) fue director de C-LAB; Huang Xin (黃新, Fusión) ostenta el récord de premios de Facebook AR/VR.
+Estos seis artistas representan diversas facetas del ecosistema de arte generativo en Taiwán: Wu Zhe-yu (Isla) es un artista de nivel internacional en la plataforma Artblocks; Lin Yi-wen (Vegetación) es co-creador de Fxhash; Wang Xin-ren/A-luan (Cúspide) creó la primera obra de arte generativo de Taiwán en Artblocks; Wang Lian-sheng (Civilización) es ganador del premio Lumen; Lin Jing-yao (Paraje secreto) fue director de C-LAB; y Huang Xin (Inclusión) posee el récord de premios de AR/VR de Facebook.
 
-Esta configuración de talentos no es casual: refleja el panorama completo del ecosistema del arte generativo taiwanés, desde plataformas internacionales hasta experimentos locales, desde la investigación académica hasta las aplicaciones comerciales. La ambición del Proyecto Cien Cimas es convertir la energía de ese ecosistema, a través de la tecnología blockchain, en un impulso filantrópico sostenible.
+Esta alineación no es casualidad. Refleja la integridad del ecosistema de arte generativo en Taiwán: desde plataformas internacionales hasta experimentos locales, desde la investigación académica hasta la aplicación comercial, y desde la innovación técnica hasta la práctica social. La ambición del Proyecto 100 Cumbres es que la energía de este ecosistema se transforme, mediante la tecnología blockchain, en un impulso filantrópico sostenible.
 
 ## El ingenioso diseño del flujo de fondos
 
-La distribución de fondos del Proyecto Cien Cimas muestra un diseño social preciso: 20 % para costos iniciales, 10 % como honorarios a los artistas, 10 % para apoyar otros proyectos NPO-NFT, 20-45 % como fondos de compra pública y 10-15 % invertido en el desarrollo tecnológico de la DAO.
+La distribución de fondos del Proyecto 100 Cumbres muestra un pensamiento de diseño social preciso: 20% para costes iniciales, 10% como honorarios para los artistas, 10% para ayudar a otros proyectos de NPO-NFT, entre un 20-45% como fondo de suscripción pública y un 10-15% destinado al desarrollo técnico de la DAO.
 
-Esta lógica de distribución implica un cambio de perspectiva importante: la creación artística pasa de la expresión individual a la acción colectiva, de la venta de obras a la inversión social. Cuando coleccionas un NFT de Cien Cimas, no solo adquieres una obra de arte, sino una participación en una visión compartida.
+Esta lógica de distribución implica un cambio de paradigma importante: la creación artística pasa de ser una expresión individual a una acción colectiva; de la venta de obras a la inversión social. Al coleccionar un NFT de las 100 Cumbres, no solo compras una obra de arte, sino una participación en una visión social.
 
-Más interesante aún: poseer más de un NFT de Cien Cimas activa un efecto visual encadenado que conecta las seis cimas en un horizonte continuo. Este diseño técnico aparentemente simple pone a prueba la profundidad del compromiso del coleccionista. La pregunta que formula es: ¿eres un especulador de paso, o un participante a largo plazo que se identifica con el experimento?
+Aún más interesante es que coleccionar más de un NFT de las 100 Cumbres genera un efecto visual de «easter egg» interconectado. Este diseño técnico, aparentemente simple, está testeando en realidad la profundidad del compromiso del coleccionista. La pregunta es: ¿eres un especulador de paso o un participante a largo plazo que cree en este experimento?
 
-## El reconocimiento internacional en Linz
+## Reconocimiento internacional en Linz
 
-En 2022, el Proyecto Cien Cimas llegó al Festival Ars Electronica de Linz, la convocatoria de arte mediático más influyente del mundo. El Consejo para el Desarrollo Cultural de Taiwán (文策院) y el Centro Ars Electronica coproducieron un programa especial taiwanés, mostrando al mundo la contribución singular de Taiwán en el campo de la innovación social Web3.
+En 2022, el Proyecto 100 Cumbres llegó al Festival Ars Electronica en Linz, el evento de arte de medios más influyente del mundo. El Centro de Arte de Medios de Linz y la Agencia de Creación, Cultura y Audiovisuales (Taiwan CCA) produjeron conjuntamente una exhibición especial de Taiwán, mostrando al mundo las contribuciones únicas de Taiwán en el campo de la innovación social Web3.
 
-La valoración de los curadores de Linz fue reveladora: llamaron al Proyecto Cien Cimas "un plan de acción social venido del futuro". El énfasis no estaba en la sofisticación técnica, sino en la innovación del modelo social. Como observó Huang Doumi, Linz mantiene deliberadamente distancia de la especulación capitalista con los NFT, pero le otorga gran importancia a su significado social.
+La valoración de los curadores de Linz fue muy significativa: describieron el Proyecto 100 Cumbres como «una propuesta de acción social proveniente del futuro». El énfasis de este elogio no residía en la vanguardia tecnológica, sino en la innovación del modelo social. Como observó Huang Dou-ni, Linz mantiene una distancia deliberada de la especulación de capital de los NFT, pero valora profundamente su significado social.
 
-Este reconocimiento internacional tiene un valor simbólico relevante: demuestra que el experimento Web3 de Taiwán no es una imitación ciega de tendencias tecnológicas occidentales, sino una exploración original enraizada en su propio suelo social. Cuando el mercado global de NFT estaba inmerso en la fiebre especulativa, Taiwán propuso una alternativa con mayor responsabilidad social.
+Este reconocimiento internacional posee un gran valor simbólico: demuestra que los experimentos Web3 de Taiwán no son una imitación ciega de las tendencias tecnológicas occidentales, sino una exploración original basada en su propio suelo social. Mientras el mercado global de NFTs se sumergía en el frenesí especulativo, Taiwán propuso una alternativa con mayor responsabilidad social.
 
 ## La extensión digital del espíritu g0v
 
-La aparición de FAB DAO no es accidental: está profundamente enraizada en la tradición única de la sociedad civil taiwanesa, especialmente en el espíritu de "acción ciudadana descentralizada" que representa g0v (g0v 零時政府). g0v reimagina los servicios gubernamentales con colaboración de código abierto; FAB DAO reimagina los modelos filantrópicos con tecnología blockchain.
+La aparición de FAB DAO no es casualidad. Está profundamente arraigada en la tradición única de la sociedad civil de Taiwán, especialmente en el espíritu de «acción ciudadana descentralizada» representado por g0 $\text{v}$ (gobierno cero). Mientras que g0v reimagina los servicios gubernamentales mediante la colaboración de código abierto, FAB DAO reimagina los modelos filantrópicos mediante la tecnología blockchain.
 
-Lo que tienen en común es que ambos creen que la tecnología puede reducir las barreras de participación, que la descentralización puede aumentar la transparencia y que la sabiduría colectiva ciudadana puede crear mejores soluciones sociales. La diferencia es que g0v se centra principalmente en la transparencia de la gobernanza gubernamental, mientras que FAB DAO se enfoca en la sostenibilidad de los recursos filantrópicos.
+El punto común entre ambos es la creencia en que la tecnología puede reducir las barreras de participación, que la descentralización puede aumentar la transparencia y que la inteligencia colectiva de los ciudadanos puede crear mejores soluciones sociales. La diferencia radica en que g0v se centra principalmente en la transparencia de la gobernanza gubernamental, mientras que FAB DAO se enfoca en la sostenibilidad de los recursos filantrópicos.
 
-La posición única de Taiwán en el campo de la filantropía Web3 proviene precisamente de la combinación entre un régimen democrático y la resiliencia de su comunidad digital. En países autoritarios, tal experimento sería visto como una amenaza; en sociedades completamente mercantilizadas, la filantropía suele quedar marginada. Solo en una sociedad como la taiwanesa, donde la sociedad civil tiene suficiente autonomía y suficiente preocupación social, la filantropía Web3 puede encontrar suelo fértil.
+La posición única de Taiwán en el ámbito de la filantropía Web3 proviene precisamente de esta combinación entre una democracia sólida y la resiliencia de sus comunidades digitales. En regímenes autoritarios, tales experimentos serían vistos como una amenaza; en sociedades puramente mercantilizadas, la filantropía suele quedar marginada. Solo en una sociedad como la de Taiwán, donde la sociedad civil posee suficiente autonomía y sensibilidad social, la filantropía Web3 puede encontrar un terreno fértil para su desarrollo.
 
-## Redefinir la creación de valor
+## Redefiniendo la creación de valor
 
-La contribución más profunda de FAB DAO y el Proyecto Cien Cimas quizás radique en que redefinen la lógica de la creación de valor. En el modelo económico tradicional, crear valor implica competencia y exclusividad: tu ganancia es mi pérdida, los recursos son finitos, la distribución es de suma cero.
+La contribución más profunda de FAB DAO y del Proyecto 100 Cumbres reside, quizás, en cómo han redefinido la lógica de la creación de valor. En el modelo económico tradicional, crear valor suele implicar competencia y exclusividad: lo que uno gana es lo que otro pierde; los recursos son limitados y la distribución es de suma cero.
 
-En el modelo de FAB DAO, crear valor se convierte en un juego de suma positiva: los artistas obtienen ingresos creativos, los coleccionistas obtienen obras de arte, las organizaciones filantrópicas obtienen fondos y toda la sociedad obtiene un mejor modelo de altruismo. Más importante aún, ese proceso es sostenible, porque los NFTs pueden seguir circulando en el mercado secundario, generando continuamente efectos filantrópicos.
+Sin embargo, en el modelo de FAB DAO, la creación de valor se convierte en un juego de suma positiva: los artistas obtienen ingresos por su creación, los coleccionistas adquieren obras de arte, las organizaciones sin fines de lucro reciben fondos y la sociedad en su conjunto obtiene un mejor modelo filantrópico. Lo más importante es que este proceso de creación de valor es sostenible, ya que los NFTs pueden seguir circulando en el mercado secundario, generando continuamente efectos benéficos.
 
-Esta innovación tiene un significado especial para la sociedad taiwanesa, que se enfrenta a la escasez de recursos. Ofrece una nueva forma de pensar: a través de la innovación tecnológica y el diseño institucional, es posible crear mayor valor social aun con recursos limitados.
+Esta innovación de modelo tiene un significado especial para la sociedad taiwanesa, que enfrenta desafíos de escasez de recursos. Ofrece una nueva vía: mediante la innovación tecnológica y el diseño institucional, podemos crear un mayor valor social incluso bajo condiciones de recursos limitados.
 
-## Una imaginación social del futuro
+## Imaginación social para el futuro
 
-Mirar hoy atrás a FAB DAO y el Proyecto Cien Cimas permite ver no solo un exitoso experimento filantrópico Web3, sino también una imaginación del futuro social. En esa imaginación, el arte ya no es un privilegio de élites, sino una herramienta de transformación; la filantropía ya no depende de la mentalidad caritativa, sino que se construye sobre el interés común; la tecnología ya no es solo un medio de competencia comercial, sino una fuerza impulsora de la innovación social.
+Al mirar atrás hoy hacia FAB DAO y el Proyecto 100 Cumbres, no vemos solo un experimento filantrópico Web3 exitoso, sino una forma de imaginar la sociedad futura. En esta visión, el arte deja de ser un privilegio de la élite para convertirse en una herramienta de cambio social; la filantropía ya no depende de la caridad, sino que se construye sobre intereses comunes; y la tecnología deja de ser solo un medio para la competencia comercial para transformarse en el motor de la innovación social.
 
-Por supuesto, el experimento también enfrenta desafíos. La complejidad de la tecnología blockchain sigue siendo una barrera para la ciudadanía común; la volatilidad del mercado de NFT puede afectar la estabilidad de los fondos filantrópicos; y los problemas de eficiencia en la gobernanza descentralizada requieren mejora continua.
+Por supuesto, estos experimentos también enfrentan desafíos. La complejidad de la tecnología blockchain sigue siendo una barrera para la participación del público general; la volatilidad del mercado de NFTs puede afectar la estabilidad de los fondos benéficos; y la eficiencia de la gobernanza descentralizada requiere mejoras continuas.
 
-Pero, al igual que cuando Huang Doumi decidió dejar el hospital y tomar el pincel, la verdadera innovación a menudo exige coraje para enfrentarse a lo desconocido. El valor de FAB DAO y el Proyecto Cien Cimas no radica en haber proporcionado una solución perfecta, sino en haber abierto nuevas posibilidades.
+Pero así como Huang Dou-ni decidió dejar el hospital y tomar el pincel, la verdadera innovación a menudo requiere el valor de enfrentar lo desconocido. El valor de FAB DAO y del Proyecto 100 Cumbres no reside en haber proporcionado una solución perfecta, sino en haber abierto nuevas posibilidades.
 
-En esta isla, cien montañas se elevan hacia arriba, cien sueños están brotando. Y cada uno de nosotros puede elegir convertirse en participante de este experimento social, a su propia manera, escribiendo el próximo capítulo de la civilización.
+En esta isla, cien montañas se elevan hacia arriba y cien sueños están germinando. Y cada uno de nosotros puede elegir ser participante de este experimento social, escribiendo a nuestra manera el próximo capítulo de la civilización.
 
 ---
 
-**Lecturas recomendadas**:
+**Lecturas adicionales**:
 
-- [Wang Xinren (阿亂)](/art/aluan-wang) — Creador de la serie "Cima" en el Proyecto Cien Cimas, el primer artista taiwanés de arte generativo en aparecer en Artblocks
-- [Wang Liansheng (蝦爸)](/art/wang-liansheng) — Creador del algoritmo de paisaje montañoso del Proyecto Cien Cimas, ganador del Premio Lumen 2017 en la categoría Escultura
-- [Arte en nuevos medios de Taiwán](/es/art/taiwan-new-media-art) — Del arte en video al arte generativo, el contexto del arte en nuevos medios taiwanés donde se sitúa FAB DAO
-- [Arte contemporáneo de Taiwán](/es/art/contemporary-art) — La posición del arte en blockchain en el ecosistema del arte contemporáneo taiwanés
+- [Wang Xin-ren (A-luan)](/es/art/wang-hsin-jen-artist) — Creador de «Cúspide» en el Proyecto 100 Cumbres; el primer artista de arte generativo taiwanés en Art Blocks.
+- [Wang Lian-sheng (Xia-ba)](/es/art/wang-lien-cheng-artist) — Creador del algoritmo de recursividad paisajística en el Proyecto 100 Cumbres; ganador del primer premio en escultura en los Premios Lumen 2017.
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — Del videoarte al arte generativo: el contexto del arte de nuevos medios en Taiwán donde se sitúa FAB DAO.
+- [Arte contemporáneo de Taiwán](/es/art/contemporary-art) — El lugar del arte blockchain dentro del ecosistema del arte contemporáneo en Taiwán.
 
 ## Referencias
 
-1. Sitio oficial de FAB DAO: https://fabdao.world/
-2. Libro blanco GitBook de FAB DAO: https://fab-dao.gitbook.io/fab-dao
-3. Sitio oficial del Proyecto Cien Cimas: https://project.fab.tw/
-4. Reporte ABMedia (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
-5. Entrevista de ARTouch en Linz (2023/03): https://artouch.com/art-market/content-84864.html
-6. Introducción en Matters por c2x3 (2022/07): https://matters.town/a/fe3n38t5khdb
-7. Reportaje especial de CharmingSciTech: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
-8. Noticias NFT: https://nft.org.tw/?p=20219
+1. Sitio web oficial de FAB DAO: https://fabdao.world/
+2. Libro blanco (GitBook) de FAB DAO: https://fab-dao.gitbook.io/fab-dao
+3. Sitio web oficial del Proyecto 100 Cumbres: https://project.fab.tw/
+4. Reportaje de ABMedia (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
+5. Entrevista de ATouch en Linz (2023/03): https://artouch.com/art-market/content-84864.html
+6. Introducción de Matters, medio de arte blockchain c2x3 (2022/07): https://matters.town/a/fe3n38t5khdb
+7. Reportaje especial de Tech Mania: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
+8. Reportajes de noticias de NFT: https://nft.org.tw/?p=20219
