@@ -1323,6 +1323,8 @@ Stage 0 已完成 42 次探索搜尋（見上方 §探索搜尋紀錄）。Stage
 
 **媒體策略建議**：本文主角是制度與數字（2,000 元門檻、36.11% 股權、759 萬用戶），不是可拍照的場景人物，不勉強湊實體照片數量。建議 hero 二選一（制度中性 CC0 機場照 / 時效性記者會照，後者需人工確認授權），inline 搭配少量機關識別圖，**主要敘事支撐留給 Stage 4 資料視覺化模組**（免稅門檻計算公式圖解、國際比較長條圖、EZWAY 用戶規模數字對比、治理爭議時間軸）。EZWAY App 商店截圖是待 Stage 4 補做的最高價值素材。
 
+**Stage 4 落地（2026-08-04）**：時效性記者會照因授權需人工確認，未使用；App 商店截圖考量含 Apple UI／開發商圖標混合版權、且未經觀察者審核，判斷不逕行採用。改採三張乾淨 CC 授權素材：hero 用桃園機場入境海關櫃台（CC0），inline 兩張改抓 Wikimedia Commons「Customs Administration, Ministry of Finance (Republic of China)」分類下的松山機場海關櫃台（CC BY-SA 4.0，置於 1992 年制度史節前）與財政部關務署海關大樓正門（CC BY-SA 4.0，置於財政部占 36.11% 節前，呼應治理歸屬主題）。三張皆經 `image-ingest.mjs` 清 EXIF、轉 WebP、`check-aspect.sh` 過（aspect 1.33/1.33/1.5，全落在 0.75-2.5 inline 範圍）。`image-health`／`media-richness` 兩項 Stage 4 hard gate 均轉綠。
+
 ### 引用 transcript
 
 無（本輪未發現可用的官方訪談影片可供 transcript 化；Stage 4 二次確認 YouTube 官方頻道後如有發現再補）。

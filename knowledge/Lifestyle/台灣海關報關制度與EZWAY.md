@@ -22,6 +22,10 @@ lastVerified: 2026-08-04
 lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-08/台灣海關報關制度與EZWAY.md'
+image: '/article-images/lifestyle/ezway-customs-taoyuan-airport-2024.webp'
+imageCredit: 'Meutnake Ah ManHO / Wikimedia Commons'
+imageLicense: 'CC0 1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TW_台灣_Taiwan_台北_Taipei_臺灣桃園機場_Taoyuan_Airport_Terminal_One_入境區_Customs_counter_March_2024_R12S.jpg'
 rationale:
   why_this_hook: '從「按下申報相符」這個全民共同手勢切入，把制度史、治理歸屬、免稅門檻三條線都掛在同一個動作上，避免寫成「EZ WAY 好不好用」的使用心得或「該不該課稅」的政策論戰。'
   whats_excluded: '出口／寄件端制度（另一套法規體系，姊妹題候選）；未成年人委任的法律定性（公共討論尚未成形，無一手材料）；免稅門檻調降的量化經濟影響試算（政策未定案，無官方或學術推估）；台灣與日韓委外治理架構比較（會使文章滑向比較行政學）；X1-X4 與 C1/C3 完整技術分類表（只留「簡易申報沒有 C2」一句洞見）。'
@@ -32,6 +36,9 @@ rationale:
 # 台灣海關報關與 EZ WAY：按下「申報相符」的那一下，你委任了誰
 
 > **30 秒概覽：** 你按下 EZ WAY 推播上的「申報相符」時，法律上完成的是一份報關委任——把自己的名字借給報關業者，向海關申報這批貨是你的。這條流程從 1992 年海關把通關時間從 4 小時壓到 3 分鐘開始，一路長成 2026 年 3 月 1 日起全民必經的動作。759 萬人註冊、每月 400 多萬份申報單、約占七成報關案件，經手的是財政部持股 36.11% 的關貿網路，一家官股未過半的上市公司。這篇從那一下按鍵拆到 2,000 元免稅門檻的兩次攻防，看這條捷徑的帳，誰付了、誰又從頭到尾沒能說上話。
+
+![桃園國際機場第一航廈入境區的海關櫃台，可見綠色與紅色通關通道標示，旅客通過檯前的實景](/article-images/lifestyle/ezway-customs-taoyuan-airport-2024.webp)
+_2024 年 3 月，桃園國際機場第一航廈入境區的海關櫃台。畫面是旅客通關，本文談的個人網購包裹走的是另一套快遞簡易申報流程，但兩者共用同一個「海關」的制度框架。Photo: Meutnake Ah ManHO, Wikimedia Commons, CC0 1.0（完整來源見文末圖片來源）。_
 
 ## 手機震一下，你按下「申報相符」
 
@@ -48,6 +55,9 @@ rationale:
 隔天下午，財政部關務署署長彭英偉召開記者會。他的第一句話是：「近來網路對 EZ Way 有三大誤解，以訛傳訛。」[^10] 要聽懂這三大誤解在誤解什麼，得先回到三十四年前。
 
 ## 1992 年，海關把四小時做成三分鐘
+
+![台北松山機場海關服務櫃台，可見財政部關務署臺北關招牌與旅客通關動線](/article-images/lifestyle/ezway-customs-songshan-airport-2017.webp)
+_2017 年 2 月，台北松山機場的海關服務櫃台。這套通關流程的自動化，起點在 1992 年。Photo: Yuriy Kosygin. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Customs_in_Taipei_Songshan_Airport.jpg)._
 
 民國 81 年 11 月 9 日，臺北關留下的紀錄只有一句：「本關於 81 年 11 月 9 日正式實施貨物通關自動化」[^11]。這一天之前，一份報單靠人工在櫃檯之間流動。這一天之後，報單以連線傳輸，電腦專家系統依廠商等級、來源地、貨物性質決定它走哪一條路。財政部自己在史料陳列室裡留下的成績單是：「凡 C1 方式通關者，通關時間由 4 小時減為目前 3 分鐘」[^12]。
 
@@ -72,6 +82,9 @@ rationale:
 ```
 
 ## 財政部占 36.11%，海關說「沒有強迫」
+
+![財政部關務署海關大樓正門，白色石造建築外觀，門楣上懸掛機關招牌](/article-images/lifestyle/ezway-customs-administration-hq-taipei-2017.webp)
+_2017 年 8 月，財政部關務署海關大樓正門。EZ WAY 的治理歸屬爭議，問的正是這棟大樓跟關貿網路之間的距離。Photo: 林高志. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:財政部關務署海關大樓大門_20170818.jpg)._
 
 8 月 3 日中午那場記者會，彭英偉要澄清的第一件事是強制：「海關沒有強迫民眾使用 EZ Way，EZ Way 只是民眾確認報關業者委任關係的工具之一。」第二件是個資：「以前只能使用紙本委任，因容易被冒名才推動線上委任」，改成線上之後民眾免提供身分證影本給報關業者。第三件是錢：「目前 EZ Way 是向報關業者收費，並沒有向一般民眾收費。」[^10] 三句話都成立，也都各自留下一個接著要問的問題。
 
@@ -157,6 +170,14 @@ rationale:
 - [台灣電子商務與數位支付生態系](/technology/電子商務與數位支付生態系) — Shein、Temu 這類低價跨境電商平台在台灣市場的更大脈絡
 - [台灣國際貿易政策](/economy/台灣國際貿易政策) — 免稅門檻爭論所在的更大脈絡：台灣怎麼跟世界做生意
 - [台灣企業：中華電信](/economy/台灣企業：中華電信) — 另一個政府持股但民營經營的公股企業，可以拿來對照治理模式
+
+## 圖片來源
+
+本文使用 3 張公有領域／CC 授權圖片，全部 cache 於 `public/article-images/lifestyle/` 避免熱連結來源伺服器：
+
+- [TW 台灣 Taiwan 台北 Taipei 臺灣桃園機場 Taoyuan Airport Terminal One 入境區 Customs counter March 2024](https://commons.wikimedia.org/wiki/File:TW_台灣_Taiwan_台北_Taipei_臺灣桃園機場_Taoyuan_Airport_Terminal_One_入境區_Customs_counter_March_2024_R12S.jpg) — Photo: Meutnake Ah ManHO, 2024-03-10, CC0 1.0（hero）
+- [Customs in Taipei Songshan Airport](https://commons.wikimedia.org/wiki/File:Customs_in_Taipei_Songshan_Airport.jpg) — Photo: Yuriy Kosygin, 2017-02-13, CC BY-SA 4.0（inline 1）
+- [財政部關務署海關大樓大門 20170818](https://commons.wikimedia.org/wiki/File:財政部關務署海關大樓大門_20170818.jpg) — Photo: 林高志, 2017-08-18, CC BY-SA 4.0（inline 2）
 
 ## 參考資料
 
