@@ -526,9 +526,18 @@ async function main() {
         : null;
 
       const wordCount = countWords(body);
-      const lastHumanReview = frontmatter.lastHumanReview
-        ? String(frontmatter.lastHumanReview)
-        : false;
+      // 2026-08-04 fix: YAML 字串 'false'（~109 檔歷史變體）先前走 truthy 分支
+      // 被誤算成已審核；統一收斂成 boolean。
+      const lastHumanReview =
+        frontmatter.lastHumanReview === true ||
+        frontmatter.lastHumanReview === 'true';
+      // 查證狀態三態（reports/design-curation-tier-2026-08-04.md）：
+      // 'verified' | 'incubating' | null（一般文章）
+      const curation =
+        frontmatter.curation === 'verified' ||
+        frontmatter.curation === 'incubating'
+          ? frontmatter.curation
+          : null;
       const featured =
         frontmatter.featured === true || frontmatter.featured === 'true';
       const tagCount = tags.length;
@@ -579,6 +588,7 @@ async function main() {
         lastModified,
         lastVerified,
         lastHumanReview,
+        curation,
         featured,
         wordCount,
         tagCount,
@@ -639,6 +649,13 @@ async function main() {
 
   const humanReviewedCount = articles.filter((a) => a.lastHumanReview).length;
   const featuredCount = articles.filter((a) => a.featured).length;
+  // 查證狀態三態分佈——「incubating → verified」轉正速度是免疫器官的可觀測指標
+  const curationVerifiedCount = articles.filter(
+    (a) => a.curation === 'verified',
+  ).length;
+  const curationIncubatingCount = articles.filter(
+    (a) => a.curation === 'incubating',
+  ).length;
   const avgRevision =
     articles.length > 0
       ? parseFloat(
@@ -714,6 +731,12 @@ async function main() {
       articles.length > 0
         ? parseFloat(((humanReviewedCount / articles.length) * 100).toFixed(1))
         : 0,
+    curation: {
+      verified: curationVerifiedCount,
+      incubating: curationIncubatingCount,
+      unmarked:
+        articles.length - curationVerifiedCount - curationIncubatingCount,
+    },
     featuredPercent:
       articles.length > 0
         ? parseFloat(((featuredCount / articles.length) * 100).toFixed(1))

@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-04 build-speed — two-variable-run-misattribution：兩個變因同 run 上線，慢的帳記到比較顯眼的那個頭上
+
+- **pattern**: `two-variable-run-misattribution`
+- **原則**：A/B 驗證把兩個變因放進同一個 run，出現 regression 時歸因會自動流向**比較顯眼的變因**（新 CPU 架構比一個 checkout flag 搶眼），而且當下的解釋聽起來完全合理——直到補一個單變因對照樣本才會拆穿。正確形：變因可以同 run 上（省時間），但**判 regression 前必須先拆出單變因樣本**；沒有對照樣本之前，任何歸因都只是假說，不可以觸發回退動作。
+- **觸發**：2026-08-04 build-speed 第二波，ARM＋blobless 同 run 上線後 prebuild 52→84/122s，歸給「ARM python 慢」並 ship 了回退 commit（`4bf843d46`）；下一個 x86＋blobless run prebuild 同樣 81s，真兇是 blobless 下 `status.py` per-stale `git diff` 的逐 blob 網路 lazy fetch（84/122/81 的變異正是網路特徵）。同日更正（`dd28361f1`）：diffstat 加 CI 跳過開關、ARM 恢復。錯誤回退在 origin/main 留下兩個一來一回的 commit。
+- **可能層級**：通用反射候選——vc=2：2026-07-30 diary「兩個都算對的缺口，把我帶到一個錯的故事」（gap 數字各自正確但敘事錯）是同族第一例，本次是「兩個變因各自合理但歸因錯」的第二例。共同結構：**每個單獨事實都對，組合出來的故事錯**。第三個獨立 instance 出現時 promote。
+- **相關**：REFLEXES #69（每層自評都需要外部尺——這裡的外部尺是單變因對照 run）、#67（高 stake 重驗用 probe 不信舊結論）、diary/2026-07-30-121650-manual
+- **verification_count**: 2
+
 ### 2026-08-03 manual（黃崇仁 REWRITE）— local-fs-case-insensitivity-masks-ci-failure：本機檔案系統不分大小寫，把 CI 會擋的錯誤藏起來
 
 - **pattern**: `local-fs-case-insensitivity-masks-ci-failure`

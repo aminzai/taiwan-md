@@ -140,6 +140,15 @@ upstream_canonical:
 - **leave open** = 合法 defer（deep research / contributor judgment）
 - **close** = 僅紅旗真命中、或 close hard gate 確認「接手也修不了且不該進庫」
 
+#### 查證狀態設定（heal 清單必含，2026-08-04 查證狀態分層）
+
+merge-first-then-heal 的 heal 步驟**必含** frontmatter 查證狀態設定（設計 canonical：[reports/design-curation-tier-2026-08-04.md](../../reports/design-curation-tier-2026-08-04.md)）：
+
+- **新 merged 貢獻文章 → `curation: incubating`**（文章頁顯示 🌱 進化中說明條＋讀者參與入口；不進 featured 與首頁精選——`curation-tag.py` 會同時把 `featured: true` 改 false，互斥由 `article-health --check=curation-consistency` 看守）
+- **轉正**：文章走完 REWRITE Evolution 深度 / FACTCHECK Full mode 後 → `curation: verified` **同時** `lastHumanReview: true`（兩欄一起動，lint 有 warn 看守）
+- 🔎 徽章只認 `curation: verified` 顯式值，**不從 lastHumanReview 推導**（早期低標準的 true 會變假保證）
+- 工具：`python3 scripts/tools/curation-tag.py --set incubating knowledge/... --apply`
+
 #### 操作速查
 
 ```bash
@@ -147,6 +156,7 @@ upstream_canonical:
 gh pr merge N --merge --delete-branch   # 或 --squash（見 §合併策略）
 # 然後 main 上 heal
 python3 scripts/tools/contributor-pr-heal.py knowledge/...
+python3 scripts/tools/curation-tag.py --set incubating knowledge/... --apply
 git commit && git push
 
 # P4 — 僅事後補洞（內容已在 main、PR 誤 close）

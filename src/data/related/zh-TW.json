@@ -4486,8 +4486,8 @@
     "technology/半導體產業",
     "people/吳大猷",
     "people/郭台銘",
-    "economy/台灣企業：日月光半導體",
-    "people/孫運璿"
+    "people/黃崇仁",
+    "economy/台灣企業：日月光半導體"
   ],
   "people/劉銘傳": [
     "people/邵友濂",
@@ -4830,14 +4830,14 @@
     "people/江蕙"
   ],
   "people/張明正": [
+    "people/黃崇仁",
     "technology/科技園區發展",
     "people/郭台銘",
     "economy/台灣企業：日月光半導體",
     "people/張忠謀",
     "lifestyle/LINE",
     "technology/傳奇網路與台灣線上遊戲出海",
-    "people/陳士駿",
-    "technology/半導體產業"
+    "people/陳士駿"
   ],
   "people/張艾嘉": [
     "people/鄭宜農",
@@ -5226,8 +5226,8 @@
     "lifestyle/台灣醫療與全民健保",
     "food/台灣小吃",
     "people/李遠哲",
-    "lifestyle/台灣麻將與明星三缺一",
-    "technology/台灣電視產業史"
+    "people/黃崇仁",
+    "lifestyle/台灣麻將與明星三缺一"
   ],
   "people/林俊傑": [
     "people/陳昇",
@@ -5317,7 +5317,7 @@
     "economy/台灣企業：台達電子",
     "economy/台灣企業：台積電",
     "people/林俊傑",
-    "people/林啟維"
+    "people/黃崇仁"
   ],
   "people/林義傑": [
     "people/李智凱",
@@ -5803,11 +5803,11 @@
     "people/郭台銘",
     "people/林百里",
     "economy/台灣企業：台達電子",
+    "people/黃崇仁",
     "people/楊致遠",
     "economy/台灣企業：廣達電腦",
     "people/施振榮",
-    "people/曹興誠",
-    "economy/台灣企業：日月光半導體"
+    "people/曹興誠"
   ],
   "people/蔡依林": [
     "people/周子瑜",
@@ -6603,11 +6603,11 @@
     "economy/台灣企業：台達電子",
     "society/為台灣而教TFT",
     "people/黃光雄",
+    "people/黃崇仁",
     "people/楊致遠",
     "people/楊維哲",
     "technology/NVIDIA在台灣",
-    "music/滅火器樂團",
-    "culture/九天玄女信仰"
+    "music/滅火器樂團"
   ],
   "people/黃光雄": [
     "society/一個教師的誕生：台灣師資培育制度",
@@ -6658,6 +6658,16 @@
     "food/台灣小吃",
     "people/施振榮",
     "people/金針菇"
+  ],
+  "people/黃崇仁": [
+    "people/張明正",
+    "technology/NVIDIA在台灣",
+    "economy/台灣企業：大立光電",
+    "people/施振榮",
+    "technology/半導體產業",
+    "people/黃仁勳",
+    "economy/台灣企業：日月光半導體",
+    "people/郭台銘"
   ],
   "people/黃春明": [
     "people/三毛",
@@ -7923,11 +7933,11 @@
     "technology/半導體產業",
     "economy/台灣企業：緯創資通",
     "economy/台灣前50大企業",
+    "people/黃崇仁",
     "economy/台灣企業：聯發科技",
     "economy/台灣企業：鴻海精密",
     "technology/NVIDIA在台灣",
-    "economy/台灣企業：廣達電腦",
-    "people/郭台銘"
+    "economy/台灣企業：廣達電腦"
   ],
   "economy/台灣企業：奇美實業": [
     "people/許文龍",
@@ -8007,7 +8017,7 @@
     "people/郭台銘",
     "economy/台灣企業：兆豐金控",
     "economy/台灣企業：台塑集團",
-    "technology/台灣資安產業發展"
+    "people/黃崇仁"
   ],
   "economy/台灣企業：瑞昱半導體": [
     "people/施振榮",
@@ -8306,8 +8316,8 @@
     "economy/經濟奇蹟",
     "society/報導者",
     "history/台灣選舉與政黨政治",
-    "technology/數位身分證與數位政府",
-    "technology/開放文化基金會"
+    "people/黃崇仁",
+    "technology/數位身分證與數位政府"
   ],
   "economy/紡織業": [
     "lifestyle/電競",

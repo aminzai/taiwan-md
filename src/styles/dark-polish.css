@@ -2485,3 +2485,20 @@
 :root[data-theme='dark'] .prose a.footnote-ref:target {
   background: color-mix(in srgb, var(--color-accent) 16%, transparent);
 }
+
+/* ── §curation — 查證狀態分層（2026-08-04）────────────────────────────
+ * Light 樣式 inline 在 article.template.astro（Tailwind arbitrary values，
+ * 深綠 #1a3c34 系）；這裡只翻深色面。 */
+:root[data-theme='dark'] .curation-notice {
+  border-color: color-mix(in srgb, var(--color-accent) 35%, transparent);
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+}
+:root[data-theme='dark'] .curation-notice p,
+:root[data-theme='dark'] .curation-notice button {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .curation-badge {
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+  background: color-mix(in srgb, var(--color-accent) 10%, transparent);
+  color: var(--color-ink);
+}

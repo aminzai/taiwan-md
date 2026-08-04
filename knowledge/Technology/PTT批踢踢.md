@@ -6,10 +6,11 @@ category: 'Technology'
 tags: ['PTT', 'BBS', '網路文化', '鄉民', '數位民主', '社群媒體']
 subcategory: '社群與數位文化'
 author: 'p3nchan'
-featured: true
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 readingTime: 8
+curation: incubating
 ---
 
 # PTT 批踢踢：台灣最頑固的公共廣場

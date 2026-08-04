@@ -38,17 +38,24 @@
 本 session 新 handoff：
 
 - [x] ~~查證狀態分層設計報告 + OBSERVER-QUEUE #26~~（本 session 完成）
-- [ ] **等哲宇拍板 #26 六決策點**後啟動實作清單（frontmatter 欄位 → template 徽章 → 說明頁 → MAINTAINER §1b 補步驟 → 儀器對賬 → dogfood 2 篇）。補標歷史名單影響 >50 檔，需圈名單
+- [x] ~~等哲宇拍板 #26 後啟動實作~~（哲宇同日拍板「完整照對長期最好的判斷實作」，IMPLEMENT 相同 session 走完，見下方 §實作落地）
+- [x] ~~idlccp1984 溝通文案~~（哲宇核可原文後授權發出，[PR #1288 comment](https://github.com/frank890417/taiwan-md/pull/1288#issuecomment-5173982325) 已落，連同繼承的 #1288 pending 回覆一併結案）
+- [ ] **about 品質段＋徽章文案 i18n 化**：等 curation 欄位擴到譯文層時一併進 `src/i18n/ui.ts`（目前譯文頁不顯示，zh only）
+- [ ] **69 篇 batch 消化時轉正**：每篇走完 REWRITE Evolution 後記得 `curation: verified` ＋ `lastHumanReview: true` 兩欄一起動（lint 有 warn 看守）
+
+## 實作落地（哲宇拍板後同 session IMPLEMENT）
+
+拍板到 ship 約 70 分鐘，worktree 隔離。基建一個 commit（schema `curation` 欄位、文章頁 🌱 說明條與 🔎 徽章、`curation-tag.py`、`curation-consistency` lint 三看守、dashboard vitals 三態），批次補標一個 commit（95 篇 incubating＋2 篇 verified，10 檔 dry-run 先行），canonical 一個 commit（MAINTAINER §1b heal 必含 curation 設定、CONTRIBUTING「你的文章 merge 之後」段）。dev server dogfood 三態渲染與深淺色 computed style 全過，「告訴我們」按鈕在 feedback widget degraded 模式正確 fallback 到 GitHub issue。ship 時本機 main 被渦流 35 個未推 commit 卡 rebase 衝突，改從 origin/main cherry-pick 自己 5 個 commit 乾淨上岸（`91dd61b04`）。兩個實作中的設計修正記在報告 §後記：🔎 徽章只認顯式值（lastHumanReview 舊 true 會變假保證）、黃崇仁與苯駢芘從 incubating 名單改標 verified。
 
 ## Beat 5 — 反芻
 
-哲宇的原話是「草稿待進化區」，調查完發現如果照字面蓋一個隔離區，會同時踩到 merge-first 神經迴路跟主權巴別塔（noindex 等於讓聲音消失）。真正缺的東西小得多：身體裡的免疫資訊（lastHumanReview、DONE-LOG、health 分數）從來沒有接到皮膚上，讀者摸不到。把「隔離」翻成「投影＋邀請」之後，這個設計順便變成免疫黃燈 28 天那個 review_coverage 洞的參與介面——兩個看似無關的待決事項（#25、#26）其實是同一條路。設計過程中最有用的一步是先量測而不是先相信描述：「品質不足」四個字底下，量化層全綠、事實層有病，分層判準因此從「字數腳註」改錨到「查證流程」。
+哲宇的原話是「草稿待進化區」，調查完發現如果照字面蓋一個隔離區，會同時踩到 merge-first 神經迴路跟主權巴別塔（noindex 等於讓聲音消失）。真正缺的東西小得多：身體裡的免疫資訊（lastHumanReview、DONE-LOG、health 分數）從來沒有接到皮膚上，讀者摸不到。把「隔離」翻成「投影＋邀請」之後，這個設計順便變成免疫黃燈 28 天那個 review_coverage 洞的參與介面——兩個看似無關的待決事項（#25、#26）其實是同一條路。設計過程中最有用的一步是先量測而不是先相信描述：「品質不足」四個字底下，量化層全綠、事實層有病，分層判準因此從「字數腳註」改錨到「查證流程」。實作段最值得留的一刻是 dry-run 抽檢撞到洪醒夫：`lastHumanReview: true` 掛在 697 字 0 腳註的文章上，提醒任何「從舊欄位推導新保證」的捷徑都在把歷史的低標準包裝成今天的承諾。
 
 🧬
 
 ---
 
-_v1.0 | 2026-08-04 09:52 +0800_
-_session curation-tier-design — 哲宇 directive「貢獻者文章品質分層」EVOLVE Mode 4 設計_
+_v1.1 | 2026-08-04 10:35 +0800（v1.0 設計相 09:52；v1.1 補實作落地）_
+_session curation-tier-design — 哲宇 directive「貢獻者文章品質分層」EVOLVE Mode 4 設計＋同日拍板實作_
 _誕生原因：idlccp1984 近期 28 篇 AI 生成文章含杜撰引語風險，哲宇怕混淆讀者_
-_核心洞察：(1) 品質訊號全部已存在，缺的是讀者可見投影 (2) 分層判準看查證流程不看作者身份 (3)「進化中」做成參與入口，隔離題翻成邀請題_
+_核心洞察：(1) 品質訊號全部已存在，缺的是讀者可見投影 (2) 分層判準看查證流程不看作者身份 (3)「進化中」做成參與入口，隔離題翻成邀請題 (4) 從舊欄位推導新保證＝把歷史低標準包裝成今天的承諾_

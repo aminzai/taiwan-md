@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-03T06:13:51.362976",
+  "lastUpdated": "2026-08-04T06:12:20.237309",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
-  "immuneScore": 60,
-  "status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+  "immuneScore": 57,
+  "status": "漂移 — 多維度退化中",
   "components": {
-    "review_coverage": 23.7,
+    "review_coverage": 23.6,
     "plugin_pass_rate": 70.0,
     "plugin_health": 100.0,
     "citation_density": 91.7,
-    "tool_freshness": 60,
+    "tool_freshness": 40,
     "drift_velocity": 90.0,
     "external_rulers": 3.4
   },
@@ -24,9 +24,9 @@
   },
   "tierBreakdown": {
     "T1": {
-      "total": 384,
+      "total": 385,
       "reviewed": 97,
-      "pct": 25.3,
+      "pct": 25.2,
       "weight": 3.0
     },
     "T2": {
@@ -43,31 +43,31 @@
     }
   },
   "pluginPassDetail": {
-    "total_files": 878,
-    "hard_pass_files": 878,
+    "total_files": 879,
+    "hard_pass_files": 879,
     "hard_pass_pct": 100.0,
-    "warn_pass_files": 0,
-    "warn_pass_pct": 0.0,
+    "warn_pass_files": 1,
+    "warn_pass_pct": 0.1,
     "weight_formula": "hard×0.7 + warn×0.3"
   },
   "citationDetail": {
     "grades": {
-      "A": 704,
+      "A": 705,
       "B": 10,
       "C": 149,
       "D": 4,
       "F": 9
     },
-    "files_with_grade": 876
+    "files_with_grade": 877
   },
   "freshnessDetail": {
-    "editorial_days_old": 15,
-    "avg_plugin_days_old": 36.8,
+    "editorial_days_old": 999,
+    "avg_plugin_days_old": 34.1,
     "plugin_count": 27,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 1504,
+    "new_articles_7d": 1127,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -76,168 +76,168 @@
     "plugin_count": 27,
     "healthy_count": 27,
     "unhealthy_count": 0,
-    "editorial_age_days": 15,
+    "editorial_age_days": 0,
     "age_watch_days": 30,
     "plugins": [
       {
         "plugin": "ai_residue",
-        "plugin_age_days": 4,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "attribution_vague",
-        "plugin_age_days": 18,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "chronicle_lead",
-        "plugin_age_days": 82,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "cjk_punct",
-        "plugin_age_days": 91,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "correction_meta",
-        "plugin_age_days": 10,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "cross_reference",
-        "plugin_age_days": 10,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "footnote_density",
-        "plugin_age_days": 91,
-        "healthy": true,
-        "age_watch": true
-      },
-      {
-        "plugin": "footnote_format",
         "plugin_age_days": 5,
         "healthy": true,
         "age_watch": false
       },
       {
+        "plugin": "attribution_vague",
+        "plugin_age_days": 19,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "chronicle_lead",
+        "plugin_age_days": 83,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "cjk_punct",
+        "plugin_age_days": 92,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "correction_meta",
+        "plugin_age_days": 11,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "cross_reference",
+        "plugin_age_days": 11,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "footnote_density",
+        "plugin_age_days": 92,
+        "healthy": true,
+        "age_watch": true
+      },
+      {
+        "plugin": "footnote_format",
+        "plugin_age_days": 6,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
         "plugin": "footnote_url",
-        "plugin_age_days": 91,
+        "plugin_age_days": 92,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "format_structure",
-        "plugin_age_days": 91,
+        "plugin_age_days": 92,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "frontmatter_format",
-        "plugin_age_days": 11,
+        "plugin_age_days": 12,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "frontmatter_title",
-        "plugin_age_days": 11,
+        "plugin_age_days": 12,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "image_alt",
-        "plugin_age_days": 79,
+        "plugin_age_days": 80,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "image_health",
-        "plugin_age_days": 4,
+        "plugin_age_days": 5,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "link_target",
-        "plugin_age_days": 10,
+        "plugin_age_days": 11,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "link_url_mangle",
-        "plugin_age_days": 4,
+        "plugin_age_days": 5,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "media_richness",
-        "plugin_age_days": 10,
+        "plugin_age_days": 11,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "paragraph_rhythm",
-        "plugin_age_days": 8,
+        "plugin_age_days": 9,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "prose_health",
-        "plugin_age_days": 15,
+        "plugin_age_days": 0,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "quote_fidelity",
-        "plugin_age_days": 10,
+        "plugin_age_days": 11,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "rationale_presence",
-        "plugin_age_days": 72,
+        "plugin_age_days": 73,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "seo_meta",
-        "plugin_age_days": 72,
+        "plugin_age_days": 73,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "spore_writing",
-        "plugin_age_days": 67,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "terminology",
-        "plugin_age_days": 91,
+        "plugin_age_days": 92,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "viz_health",
-        "plugin_age_days": 17,
+        "plugin_age_days": 2,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "wikilink_target",
-        "plugin_age_days": 10,
+        "plugin_age_days": 11,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "word_count",
-        "plugin_age_days": 10,
+        "plugin_age_days": 11,
         "healthy": true,
         "age_watch": false
       }
@@ -246,7 +246,7 @@
   },
   "externalRulersDetail": {
     "ruledArticles": 30,
-    "totalArticles": 876,
+    "totalArticles": 877,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,

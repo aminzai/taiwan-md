@@ -175,3 +175,16 @@ related:
 ---
 
 _v1.0 | 2026-08-04 curation-tier-design session（EVOLVE Mode 4 REPORT 相）。實作等哲宇拍板 §五決策點後啟動。_
+
+---
+
+## 後記（IMPLEMENT 相摩擦回寫，2026-08-04）
+
+哲宇拍板「完整照對長期最好的判斷實作」後，實作中兩個設計修正：
+
+1. **🔎 徽章只認 `curation: verified` 顯式值，不從 `lastHumanReview: true` 推導**。dry-run 抽檢撞到反例：洪醒夫 `lastHumanReview: true`（早期低標準的人工看過）同時是 697 字 0 腳註的單薄文章。從舊欄位推導會把一批早期低標文章標成「已深度查證」，假保證比不標更傷。`lastHumanReview` 維持 dashboard 內部指標。
+2. **補標名單修正**：黃崇仁、苯駢芘食安事件雖在 idlccp1984 名單，但已走過完整 REWRITE／EVOLVE 深度流程（哲宇多輪 in-loop），改標 `verified` 並同步 `lastHumanReview: true`——第一波 verified 只此兩篇，其餘隨產線累積。
+3. **順手修**：dashboard 產生器把 YAML 字串 `'false'` 當 truthy 算進 human-reviewed% 的既有誤算（~109 檔歷史變體）。
+4. **about 頁品質段延後**：about 全走 i18n key（12 語成本），說明條文字已自含，待 curation 欄位擴到譯文層時一併進 `src/i18n/ui.ts`。
+
+實際落地：incubating 95 篇（69 篇批次去掉 2 篇轉 verified，加 idlccp1984 26 篇，3 檔改名/移類已追蹤到新路徑）＋verified 2 篇。儀器 `curation-consistency` plugin 三看守（取值合法／featured 互斥／轉正兩欄同步）全站掃過零違規；三態渲染 dev server dogfood 通過（深淺色雙主題 computed style 驗證）。

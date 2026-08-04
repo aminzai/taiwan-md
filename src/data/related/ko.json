@@ -656,8 +656,8 @@
     "lifestyle/mtv-rooms-taiwan",
     "culture/magazine",
     "geography/dadaocheng",
-    "society/taiwan-cram-school-culture",
-    "people/au-sow-yee"
+    "people/wu-ming-yi",
+    "society/taiwan-cram-school-culture"
   ],
   "geography/houtong-cat-village": [
     "society/stray-animal-culture",
@@ -1410,14 +1410,14 @@
     "society/taiwan-yuelao-matchmaker-map"
   ],
   "culture/national-palace-museum": [
+    "people/wu-ming-yi",
     "lifestyle/mtv-rooms-taiwan",
     "history/taiwan-military-dependents-villages-history",
     "economy/taiwan-foreign-trade-and-global-supply-chain",
     "culture/lunar-july-ghost-month",
     "food/military-dependents-village-cuisine",
     "society/mainlanders-in-taiwan",
-    "geography/dalongdong",
-    "society/zoo-and-exhibition-animal-ethics"
+    "geography/dalongdong"
   ],
   "culture/national-theater-and-concert-hall": [
     "history/chiang-kai-shek-memorial-hall",
@@ -2742,11 +2742,11 @@
   "art/taiwan-travelogue": [
     "music/pop-music-and-golden-melody-awards",
     "music/taiwan-hip-hop-and-rap",
-    "people/wu-ming-yi",
     "people/no-party-for-cao-dong",
     "economy/taiwan-fintech-development",
     "people/fujui-wang",
     "art/contemporary-taiwanese-literature",
+    "people/wu-ming-yi",
     "technology/red-candle-games"
   ],
   "art/taiwanese-architecture": [
@@ -3753,8 +3753,8 @@
     "people/sun-yun-suan",
     "economy/top-50-companies-taiwan",
     "economy/delta-electronics-taiwan-power-giant",
-    "people/tsmc-morris-chang",
     "technology/nvidia-in-taiwan",
+    "people/tsmc-morris-chang",
     "economy/taiwan-enterprise-chang-chun-petrochemical",
     "technology/semiconductor-water-use-and-taiwan-water-resources",
     "economy/taiwan-enterprise-ase-semiconductor"
@@ -3785,9 +3785,9 @@
     "politics/2026-local-elections-taiwan",
     "technology/taiwan-ai-in-daily-life",
     "technology/ai-hardware-supply-chain",
+    "people/jamie-lin-ai-industry-pioneer",
     "society/taiwan-rural-education",
-    "society/history-of-taiwan-school-counseling",
-    "lifestyle/taiwan-bus-system"
+    "society/history-of-taiwan-school-counseling"
   ],
   "technology/taiwan-television-industry-history": [
     "culture/taiwan-variety-shows",
@@ -3823,11 +3823,11 @@
     "technology/red-candle-games",
     "music/indie-music-scene",
     "technology/taiwan-gaming-industry",
-    "people/wu-ming-yi",
     "technology/threads-in-taiwan",
     "technology/facebook-in-taiwan",
     "culture/bahamut-taiwan-gaming-community",
-    "art/taiwan-travelogue"
+    "art/taiwan-travelogue",
+    "technology/e-commerce-and-digital-payment-ecosystem"
   ],
   "technology/tamsui-river-bridge": [
     "art/graffiti-and-street-art-in-taiwan",
@@ -4342,12 +4342,12 @@
   "people/au-sow-yee": [
     "people/cheng-wen-chi",
     "art/taiwanese-curators-and-artistic-cultural-construction",
+    "people/wu-ming-yi",
     "culture/national-palace-museum",
     "people/fujui-wang",
     "society/kuma-academy-civil-defense-school",
     "art/taiwanese-theater-and-performing-arts",
-    "society/mainlanders-in-taiwan",
-    "people/george-leslie-mackay"
+    "society/mainlanders-in-taiwan"
   ],
   "people/audrey-tang": [
     "music/taiwan-hip-hop-and-rap",
@@ -4411,9 +4411,9 @@
   ],
   "people/cc-wei": [
     "people/mark-liu",
-    "people/tsmc-morris-chang",
     "economy/tsmc",
     "people/chu-ching-wu",
+    "people/tsmc-morris-chang",
     "people/tung-tzu-hsien-tech-humanist",
     "people/bernard-tseng",
     "people/steve-chang",
@@ -4483,11 +4483,11 @@
     "people/lai-ching-te",
     "people/chen-chien-nien",
     "people/kuo-hsing-chun-olympic-weightlifting-champion",
-    "people/jamie-lin-ai-industry-pioneer",
     "people/hsiao-bi-khim",
     "people/kuo-cheng-kuang",
     "people/lin-chi-er-astronaut",
-    "people/pai-hsien-yung-literary-master"
+    "people/pai-hsien-yung-literary-master",
+    "people/audrey-tang"
   ],
   "people/chen-chien-nien": [
     "people/ke-zhi-tang-musician",
@@ -4585,9 +4585,9 @@
     "music/taiwan-screen-scoring-from-cinema-to-games",
     "art/taiwanese-theater-and-performing-arts",
     "culture/taiwan-anime-culture",
-    "people/wu-ming-yi",
     "people/san-mao",
-    "food/taiwan-indigenous-foodways"
+    "food/taiwan-indigenous-foodways",
+    "people/xiao-qing-yang-grammy-designer"
   ],
   "people/cheng-chao-tsun-javelin-asian-king": [
     "people/yang-chuan-kwang-asian-iron-man",
@@ -4654,10 +4654,10 @@
     "technology/miin-music-app",
     "society/cognitive-warfare-against-taiwan",
     "technology/taiwan-ai-labs",
+    "people/jamie-lin-ai-industry-pioneer",
     "technology/taiwan-ai-academy",
     "history/psychological-warfare",
-    "art/chi-po-hao-musician",
-    "technology/ai-hardware-supply-chain"
+    "art/chi-po-hao-musician"
   ],
   "people/chi-huey-wong-glycoscience-pioneer": [
     "people/lee-yuan-tseh",
@@ -4677,7 +4677,7 @@
     "people/san-mao",
     "people/deng-yu-xian-taiwanese-song-composer",
     "people/lin-chi-er-astronaut",
-    "people/jamie-lin-ai-industry-pioneer"
+    "people/xu-wen-long-chimei-founder-violin-entrepreneur"
   ],
   "people/chia-yung-chieh": [
     "culture/taiwan-new-idol-generation",
@@ -4720,10 +4720,10 @@
     "people/tai-tzu-ying"
   ],
   "people/chiu-chi-hung-physicist": [
-    "people/jamie-lin-ai-industry-pioneer",
     "people/lin-chi-wei-social-innovator",
     "technology/facebook-in-taiwan",
     "people/puma-shen",
+    "people/jamie-lin-ai-industry-pioneer",
     "society/taiwanese-overseas-and-diaspora",
     "technology/yam-yam-taiwan-portal",
     "people/he-feipeng",
@@ -4887,7 +4887,7 @@
     "art/history-of-taiwanese-literature",
     "food/stinky-tofu",
     "society/taiwan-public-health-epidemic-response",
-    "people/wu-ming-yi"
+    "food/taiwan-indigenous-foodways"
   ],
   "people/dwagie": [
     "music/taiwan-hip-hop-and-rap",
@@ -4967,7 +4967,7 @@
     "music/sorry-youth-band",
     "society/paraguay-taiwan",
     "culture/taiwan-indigenous-mythology",
-    "people/robert-swinhoe-naturalist"
+    "people/wu-ming-yi"
   ],
   "people/gwei-lun-mei-versatile-taiwanese-actress": [
     "people/cheng-i-nung",
@@ -5230,14 +5230,14 @@
     "people/kuo-chin-fa-taiwanese-singer"
   ],
   "people/jamie-lin-ai-industry-pioneer": [
-    "people/chiu-chi-hung-physicist",
-    "technology/taiwan-online-community-migration",
-    "people/kuo-cheng-kuang",
-    "people/tung-tzu-hsien-tech-humanist",
-    "technology/taiwan-ai-academy",
-    "technology/taiwan-ai-labs",
-    "people/steve-chen-youtube-cofounder",
-    "people/ethan-tu"
+    "technology/miin-music-app",
+    "people/chi-huai-hsin",
+    "technology/taiwan-teachers-and-ai-education",
+    "economy/aama-taipei-cradle-program",
+    "society/taiwanese-overseas-and-diaspora",
+    "people/ethan-tu",
+    "technology/ptt-bulletin-board-system",
+    "technology/open-culture-foundation"
   ],
   "people/jay-chou": [
     "people/tzuyu",
@@ -5294,8 +5294,8 @@
     "society/complex-life-festival",
     "food/stinky-tofu",
     "people/audrey-tang",
-    "people/wu-ming-yi",
     "art/alien-art-centre",
+    "people/wu-ming-yi",
     "art/taiwanese-theater-and-performing-arts",
     "people/lai-ho-father-of-taiwanese-literature"
   ],
@@ -5632,12 +5632,12 @@
   "people/lin-hwai-min": [
     "art/taiwanese-theater-and-performing-arts",
     "art/taiwanese-prose",
-    "people/wu-ming-yi",
     "art/contemporary-taiwanese-literature",
     "people/liu-an-ting-teach-for-taiwan",
     "people/he-feipeng",
     "art/history-of-taiwanese-literature",
-    "people/jolin-tsai"
+    "people/jolin-tsai",
+    "art/taiwanese-comics-and-illustration"
   ],
   "people/lin-liang-childrens-literature": [
     "people/cho-yun-hsu-bridging-historian",
@@ -5663,11 +5663,11 @@
     "history/kaohsiung-incident-formosa-incident",
     "people/chen-shui-bian-controversial-president",
     "people/chen-chu-democracy-activist",
-    "people/jamie-lin-ai-industry-pioneer",
     "people/puma-shen",
     "people/lai-ching-te",
     "people/freddy-lim",
-    "people/shih-ming-te"
+    "people/shih-ming-te",
+    "society/volunteering-and-civic-charity-in-taiwan"
   ],
   "people/liu-an-ting-teach-for-taiwan": [
     "society/teach-for-taiwan",
@@ -5867,7 +5867,7 @@
     "art/taiwanese-curators-and-artistic-cultural-construction",
     "music/taiwan-screen-scoring-from-cinema-to-games",
     "society/lgbtq-in-taiwan",
-    "people/wu-ming-yi"
+    "technology/wikipedia-in-taiwan"
   ],
   "people/pa-chiung-political-youtuber": [
     "society/united-front-tour-groups",
@@ -5985,9 +5985,9 @@
     "people/george-leslie-mackay",
     "geography/how-to-read-the-taiwan-map",
     "art/postwar-taiwanese-literature",
+    "people/wu-ming-yi",
     "nature/formosan-landlocked-salmon",
-    "nature/formosan-salamander",
-    "art/history-of-taiwanese-literature"
+    "nature/formosan-salamander"
   ],
   "people/samuel-yin-yan-liang": [
     "technology/taiwan-ai-academy",
@@ -6105,9 +6105,9 @@
     "economy/tsmc",
     "people/terry-gou",
     "people/tung-tzu-hsien-tech-humanist",
-    "people/jamie-lin-ai-industry-pioneer",
     "people/bernard-tseng",
-    "technology/miin-music-app"
+    "technology/miin-music-app",
+    "people/mark-liu"
   ],
   "people/steve-chen-youtube-cofounder": [
     "culture/taiwan-youtuber-industry",
@@ -6280,8 +6280,8 @@
     "people/lin-hwai-min"
   ],
   "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender": [
-    "people/tsmc-morris-chang",
     "economy/united-microelectronics-corporation",
+    "people/tsmc-morris-chang",
     "people/pa-chiung-political-youtuber",
     "people/mark-liu",
     "people/yang-wei-cher",
@@ -6290,14 +6290,14 @@
     "music/fire-ex"
   ],
   "people/tsmc-morris-chang": [
-    "economy/united-microelectronics-corporation",
     "economy/tsmc",
+    "economy/united-microelectronics-corporation",
     "people/mark-liu",
     "economy/taiwan-enterprise-ase-semiconductor",
-    "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
     "technology/taiwan-semiconductor-industry",
     "economy/top-50-companies-taiwan",
-    "people/cc-wei"
+    "technology/ai-hardware-supply-chain",
+    "economy/formosa-plastics-group"
   ],
   "people/tu-pan-fangke": [
     "people/freddy-lim",
@@ -6313,11 +6313,11 @@
     "economy/pegatron-the-invisible-manufacturing-giant",
     "people/kuo-cheng-kuang",
     "economy/largan-precision-when-craftsmanship-meets-architectural-revolution",
-    "people/jamie-lin-ai-industry-pioneer",
     "people/yeh-kuo-yi-electronics-manufacturing-pioneer",
     "people/chia-yung-chieh",
     "lifestyle/xiaobei-department-store",
-    "people/ethan-tu"
+    "people/ethan-tu",
+    "economy/taiwan-enterprise-ase-semiconductor"
   ],
   "people/tzuyu": [
     "society/sunflower-movement",
@@ -6401,13 +6401,13 @@
   ],
   "people/wu-ming-yi": [
     "art/contemporary-taiwanese-literature",
-    "art/history-of-taiwanese-literature",
-    "art/taiwanese-prose",
-    "people/nymphia-wind-drag-queen",
-    "art/taiwan-travelogue",
-    "art/taiwanese-theater-and-performing-arts",
-    "people/chen-yu-hsun-taiwan-comedy-film-magician",
-    "people/lin-hwai-min"
+    "culture/national-palace-museum",
+    "food/taiwan-apple-bread",
+    "people/au-sow-yee",
+    "nature/formosan-sambar-deer",
+    "technology/taiwan-online-community-migration",
+    "culture/wretch",
+    "people/george-leslie-mackay"
   ],
   "people/xiao-qing-yang-grammy-designer": [
     "people/chen-chun-liang-design-poet",
@@ -7675,9 +7675,9 @@
     "technology/taiwan-ai-academy",
     "people/tsai-a-ga-youtuber",
     "people/hsu-mei-hua-financial-commentator",
+    "people/jamie-lin-ai-industry-pioneer",
     "technology/miin-music-app",
-    "technology/threads-in-taiwan",
-    "society/join-public-policy-platform"
+    "technology/threads-in-taiwan"
   ],
   "economy/acer-pc-industry-pioneer": [
     "people/stan-shih",
@@ -7807,7 +7807,7 @@
     "economy/taiwan-companies-chunghwa-telecom",
     "economy/taiwanese-companies-far-eastern-group",
     "economy/economic-miracle",
-    "people/sun-yun-suan"
+    "people/tsmc-morris-chang"
   ],
   "economy/foxconn-precision-industry": [
     "technology/nvidia-in-taiwan",

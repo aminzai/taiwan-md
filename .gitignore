@@ -211,3 +211,6 @@ public/api/dashboard-newsroom.json
 # 干擾 rescue-orphans 的孤兒盤點與 verify-commit-scope 的檔數比對。
 knowledge/**/*.metrics.json
 knowledge/**/*.patch-metrics.json
+
+# article-health sweep JSON（prebuild:dashboard 一掃兩用的中間產物，2026-08-04）
+scripts/tools/.health-sweep.json

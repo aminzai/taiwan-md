@@ -88,6 +88,19 @@ sync_lang() {
     return
   fi
 
+  # 逐檔 cp → 單次多檔 cp（2026-08-04 build-speed）：原寫法對 10k+ 檔各 spawn 一個
+  # cp process，CI 上吃 26s、本機 dev 啟動 23s。批次化後每個目錄一個 process。
+  # copy_md_batch SRC_DIR DST_DIR — 拷 SRC_DIR 頂層 *.md（不遞迴，同原語意），回傳檔數
+  copy_md_batch() {
+    local sdir="$1" ddir="$2"
+    local batch=("$sdir"/*.md)
+    # glob 無匹配時留下 literal pattern，跟原 [ ! -f ] 檢查同語意
+    [ ! -f "${batch[0]}" ] && { echo 0; return; }
+    mkdir -p "$ddir"
+    cp "${batch[@]}" "$ddir/"
+    echo "${#batch[@]}"
+  }
+
   # 2a. Category subdirs (knowledge/{Cat}/*.md → src/content/{lang}/{cat}/*.md)
   for category in "${CATEGORIES[@]}"; do
     local src_dir="$src_root/$category"
@@ -95,33 +108,18 @@ sync_lang() {
 
     local cat_lower
     cat_lower=$(echo "$category" | tr '[:upper:]' '[:lower:]')
-    local dst_dir="$dst_root/$cat_lower"
-    mkdir -p "$dst_dir"
-
-    for file in "$src_dir"/*.md; do
-      [ ! -f "$file" ] && continue
-      cp "$file" "$dst_dir/$(basename "$file")"
-      count=$((count + 1))
-    done
+    mkdir -p "$dst_root/$cat_lower"  # 原語意：src category 目錄存在就建 dst（即使沒 md）
+    count=$((count + $(copy_md_batch "$src_dir" "$dst_root/$cat_lower")))
   done
 
   # 2b. resources/ subdir (各 lang 都有，原本 bug：只跑 zh-TW + en)
   if [ -d "$src_root/resources" ]; then
-    mkdir -p "$dst_root/resources"
-    for file in "$src_root/resources"/*.md; do
-      [ ! -f "$file" ] && continue
-      cp "$file" "$dst_root/resources/$(basename "$file")"
-      count=$((count + 1))
-    done
+    count=$((count + $(copy_md_batch "$src_root/resources" "$dst_root/resources")))
   fi
 
   # 2c. Root-level .md files (knowledge/{lang}/*.md → src/content/{lang}/*.md)
   # 原本 bug：只搬 knowledge/_Home.md，其他 lang root 的 .md 被略過 → silent missing
-  for file in "$src_root"/*.md; do
-    [ ! -f "$file" ] && continue
-    cp "$file" "$dst_root/$(basename "$file")"
-    count=$((count + 1))
-  done
+  count=$((count + $(copy_md_batch "$src_root" "$dst_root")))
 
   SYNCED_TOTAL=$((SYNCED_TOTAL + count))
   printf "  ✅ %-6s %4d files\n" "$lang" "$count"

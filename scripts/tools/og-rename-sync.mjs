@@ -63,8 +63,14 @@ const ENABLED_LANGS = new Set(
 );
 
 function gitRenames() {
-  // -M for rename detection, --diff-filter=R only renames, --name-status R000 old new
-  const cmd = `git log -M --name-status --diff-filter=R --pretty=format: --since='${since}' -- knowledge/`;
+  // -M100% = exact rename only（blob SHA 相等即判定，不讀內容）。
+  // 2026-08-04 build-speed：原 -M 是相似度偵測，要載入兩側 blob 內容——CI 改
+  // blobless clone 後這變成逐 blob 網路 lazy fetch（run 30837863659 實測此步
+  // 0s → 12s）。OG rename 防護的主場景（git mv / slug campaign 批次改名）內容
+  // 不動，exact 全數命中；「改名同時改內文」的 rename 會漏抓，代價只是那幾張
+  // OG 單張重產（秒級），遠小於每 build 12s 的掃描稅。
+  // --diff-filter=R only renames, --name-status R100 old new
+  const cmd = `git log -M100% --name-status --diff-filter=R --pretty=format: --since='${since}' -- knowledge/`;
   let out = '';
   try {
     out = execSync(cmd, { cwd: REPO, encoding: 'utf-8' });

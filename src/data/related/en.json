@@ -2627,7 +2627,7 @@
     "economy/taiwan-machine-tool-industry",
     "economy/aama-taipei-cradle-program",
     "technology/ai-hardware-supply-chain",
-    "geography/taipei-101"
+    "economy/tsmc"
   ],
   "art/new-ecological-art-environment": [
     "art/new-taipei-city-museum-of-art",
@@ -3725,9 +3725,9 @@
     "economy/united-microelectronics-corporation",
     "technology/taiwan-robotics-industry",
     "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
+    "economy/tsmc",
     "technology/ai-hardware-supply-chain",
-    "technology/semiconductor-water-use-and-taiwan-water-resources",
-    "economy/screw"
+    "technology/semiconductor-water-use-and-taiwan-water-resources"
   ],
   "technology/taiwan-software-industry-development": [
     "technology/taiwan-audio-industry-development",
@@ -4372,12 +4372,12 @@
   "people/cc-wei": [
     "people/mark-liu",
     "economy/tsmc",
-    "people/tsmc-morris-chang",
     "people/chu-ching-wu",
     "people/tung-tzu-hsien-tech-humanist",
     "people/terry-gou",
     "people/lai-ching-te",
-    "people/steve-chang"
+    "people/steve-chang",
+    "people/tai-yu-wu"
   ],
   "people/chang-yu-sheng-singer": [
     "people/jay-chou",
@@ -6065,8 +6065,8 @@
     "people/yeh-kuo-yi-electronics-manufacturing-pioneer",
     "people/tung-tzu-hsien-tech-humanist",
     "economy/taiwan-enterprise-ase-semiconductor",
-    "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero",
     "economy/tsmc",
+    "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero",
     "people/chiu-chi-hung-physicist"
   ],
   "people/steve-chen-youtube-cofounder": [
@@ -6207,7 +6207,7 @@
     "technology/taiwan-semiconductor-industry",
     "economy/foxconn-precision-industry",
     "people/stan-shih",
-    "people/tung-tzu-hsien-tech-humanist"
+    "economy/tsmc"
   ],
   "people/tony-hsiao-inside-founder": [
     "society/thinking-taiwan-forum",
@@ -6253,19 +6253,19 @@
     "economy/united-microelectronics-corporation",
     "people/tsmc-morris-chang",
     "technology/taiwan-semiconductor-industry",
+    "economy/tsmc",
     "people/su-tseng-chang",
     "economy/acer-pc-industry-pioneer",
     "society/united-front-tour-groups",
-    "people/yung-ching-wang-formosa-plastics-founder",
-    "economy/tsmc"
+    "people/yung-ching-wang-formosa-plastics-founder"
   ],
   "people/tsmc-morris-chang": [
-    "economy/united-microelectronics-corporation",
     "economy/tsmc",
-    "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
+    "economy/united-microelectronics-corporation",
     "technology/taiwan-semiconductor-industry",
-    "people/mark-liu",
+    "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
     "economy/taiwan-enterprise-ase-semiconductor",
+    "people/mark-liu",
     "economy/asus-computer",
     "economy/top-50-companies-taiwan"
   ],
@@ -8223,21 +8223,21 @@
     "technology/nvidia-in-taiwan",
     "technology/ai-hardware-supply-chain",
     "economy/taiwan-stock-market",
+    "economy/tsmc",
     "economy/taiwan-smes-and-hidden-champions",
     "art/mountain-makers-tsmc-documentary",
     "economy/foxconn-precision-industry",
-    "technology/computex",
-    "economy/taiwan-foreign-trade-and-global-supply-chain"
+    "technology/computex"
   ],
   "economy/tsmc": [
     "people/tsmc-morris-chang",
     "people/mark-liu",
     "people/cc-wei",
     "economy/top-50-companies-taiwan",
-    "economy/taiwan-creator-economy",
+    "technology/taiwan-semiconductor-industry",
+    "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
     "technology/nvidia-in-taiwan",
-    "technology/ai-hardware-supply-chain",
-    "technology/taiwan-online-community-migration"
+    "economy/taiwan-creator-economy"
   ],
   "economy/united-microelectronics-corporation": [
     "people/tsmc-morris-chang",

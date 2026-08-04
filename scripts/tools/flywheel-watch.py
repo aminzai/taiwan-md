@@ -357,7 +357,13 @@ def main():
         if severity == "critical":
             print("\n🚨 窗口內零筆 routine commit — 飛輪整體停轉。先確認營運機的 Claude app 活著、額度沒到頂。")
         elif severity == "warn":
-            print("\n⚠️  部分靜默。單條靜默常見原因：那條 routine 空場（沒事可做也不 commit）、額度耗盡、或真的死了。看它上一次 fire 的時間再判。")
+            if silent:
+                print("\n⚠️  部分靜默。單條靜默常見原因：那條 routine 空場（沒事可做也不 commit）、額度耗盡、或真的死了。看它上一次 fire 的時間再判。")
+            else:
+                print(
+                    f"\n⚠️  routine 零靜默，警報只有 live 狀態 dump 過期（{LIVE_STALE_HOURS} 小時門檻）。"
+                    "寫它的是 data-refresh skill 的 session 層 rider，指揮部這台不能代補（會蓋成錯機器的排程）。"
+                )
         else:
             print("\n✅ 飛輪在轉")
 

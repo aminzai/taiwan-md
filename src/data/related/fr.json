@@ -1616,8 +1616,8 @@
     "technology/artificial-intelligence-industry",
     "food/ma-wai-soup",
     "technology/taiwan-software-industry-development",
-    "technology/semiconductor-water-use-and-taiwan-water-resources",
-    "lifestyle/taiwan-arcade-culture-and-streetscapes"
+    "lifestyle/convenience-store-culture",
+    "technology/semiconductor-water-use-and-taiwan-water-resources"
   ],
   "culture/taiwan-mandarin-evolution": [
     "culture/loanwords-and-language-contact-in-taiwan",
@@ -1777,7 +1777,7 @@
     "society/the-buffet-aunties-intuitive-pricing",
     "music/ktv-culture",
     "culture/ethnic-groups",
-    "lifestyle/convenience-store-culture"
+    "lifestyle/taiwan-education-system"
   ],
   "culture/taiwanese-life-ceremony-traditions": [
     "society/taiwan-marriage-equality-lgbtq-rights",
@@ -2264,16 +2264,16 @@
     "food/taiwan-soy-milk-and-breakfast-shops",
     "food/rice-ball",
     "food/hand-shaken-drink-culture",
-    "lifestyle/convenience-store-culture",
     "food/taiwan-seafood-culture",
     "food/taiwan-coffee-culture",
-    "culture/loanwords-and-language-contact-in-taiwan"
+    "culture/loanwords-and-language-contact-in-taiwan",
+    "food/taiwan-hotpot-culture"
   ],
   "food/taiwan-coffee-culture": [
     "food/taiwan-coffee-industry",
     "food/hand-shaken-drink-culture",
-    "lifestyle/convenience-store-culture",
     "culture/taiwanese-tea-culture-and-living-aesthetics",
+    "lifestyle/convenience-store-culture",
     "food/golden-age-echoes-taiwan-tea-culture",
     "food/taiwan-breakfast-culture",
     "nature/taiwan-mountains-and-hiking-culture",
@@ -2312,12 +2312,12 @@
   "food/taiwan-fruit-kingdom": [
     "food/taiwanese-ice-cream-culture",
     "food/taiwan-seafood-culture",
+    "lifestyle/convenience-store-culture",
     "society/poisoned-potato-cognitive-warfare-taiwan",
     "economy/taiwan-agriculture-and-rural-revitalization",
     "culture/taiwanese-tea-culture-and-living-aesthetics",
     "food/taiwan-apple-bread",
-    "economy/taiwan-sugar",
-    "food/golden-age-echoes-taiwan-tea-culture"
+    "economy/taiwan-sugar"
   ],
   "food/taiwan-hotpot-culture": [
     "food/taiwanese-noodle-culture",
@@ -2457,7 +2457,7 @@
     "food/ba-wan-meatball",
     "food/taiwan-soy-milk-and-breakfast-shops",
     "food/taiwanese-street-food",
-    "lifestyle/convenience-store-culture"
+    "food/ma-wai-soup"
   ],
   "food/taiwanese-street-food": [
     "food/hand-shaken-drink-culture",
@@ -3167,7 +3167,7 @@
     "culture/taiwan-street-art-and-graffiti-culture",
     "food/hand-shaken-drink-culture",
     "music/taiwanese-hokkien-song-evolution",
-    "lifestyle/convenience-store-culture"
+    "society/taiwan-neighborhood-and-li-culture"
   ],
   "music/taiwan-hakka-music-from-mountain-songs-to-rock": [
     "music/taiwan-hip-hop-and-rap",
@@ -3375,9 +3375,9 @@
     "society/delivery-platform-law",
     "technology/taiwan-open-source-spirit",
     "society/tiktok-in-taiwan",
+    "lifestyle/convenience-store-culture",
     "lifestyle/esports",
-    "lifestyle/xiaobei-department-store",
-    "technology/digital-id-and-digital-government"
+    "lifestyle/xiaobei-department-store"
   ],
   "technology/east-asian-input-methods": [
     "culture/zhuyin-phonetic-symbols",
@@ -3465,9 +3465,9 @@
     "technology/open-culture-foundation",
     "economy/circular-economy-and-resource-recycling",
     "society/volunteering-and-civic-charity-in-taiwan",
+    "lifestyle/convenience-store-culture",
     "society/taiwan-neighborhood-and-li-culture",
-    "culture/taiwan-cultural-creative-park-development",
-    "technology/digital-id-and-digital-government"
+    "culture/taiwan-cultural-creative-park-development"
   ],
   "technology/nvidia-in-taiwan": [
     "economy/foxconn-precision-industry",
@@ -4413,8 +4413,8 @@
     "people/mark-liu",
     "economy/tsmc",
     "people/steve-chang",
-    "people/chu-ching-wu",
     "people/tsmc-morris-chang",
+    "people/chu-ching-wu",
     "economy/united-microelectronics-corporation",
     "people/wei-te-sheng-taiwanese-epic-filmmaker",
     "economy/taiwan-enterprise-ase-semiconductor"
@@ -5813,11 +5813,11 @@
     "economy/hilife-convenience-store",
     "economy/taiwan-self-media-creator-economy",
     "nature/taiwan-mountains-and-hiking-culture",
+    "lifestyle/convenience-store-culture",
     "culture/taiwan-anime-culture",
     "people/jin-enoki",
     "culture/taiwan-youtuber-industry",
-    "economy/taiwan-creator-economy",
-    "food/taiwan-bread-and-baking"
+    "economy/taiwan-creator-economy"
   ],
   "people/nam-min-jung": [
     "people/lee-ho-jung",
@@ -6077,7 +6077,7 @@
     "culture/wretch",
     "economy/asus-computer",
     "culture/taiwan-kuaikuai-culture",
-    "people/ethan-tu"
+    "economy/tsmc"
   ],
   "people/stanley-yen": [
     "economy/taiwan-enterprise-uni-president",
@@ -6103,9 +6103,9 @@
     "people/steve-chen-youtube-cofounder",
     "people/bernard-tseng",
     "economy/taiwan-enterprise-ase-semiconductor",
-    "people/tung-tzu-hsien-tech-humanist",
     "people/tsmc-morris-chang",
     "economy/tsmc",
+    "people/tung-tzu-hsien-tech-humanist",
     "people/yeh-kuo-yi-electronics-manufacturing-pioneer",
     "people/cc-wei"
   ],
@@ -6232,8 +6232,8 @@
   "people/terry-gou": [
     "economy/foxconn-precision-industry",
     "economy/taiwan-enterprise-uni-president",
-    "economy/tsmc",
     "technology/nvidia-in-taiwan",
+    "economy/tsmc",
     "technology/taiwan-robotics-industry",
     "people/steve-chang",
     "people/tung-tzu-hsien-tech-humanist",
@@ -6292,12 +6292,12 @@
   "people/tsmc-morris-chang": [
     "economy/tsmc",
     "economy/united-microelectronics-corporation",
-    "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
     "people/mark-liu",
+    "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
     "people/steve-chang",
-    "economy/wistron-global-manufacturing-transformation-pioneer",
-    "people/stan-shih",
-    "economy/taiwan-enterprise-ase-semiconductor"
+    "economy/taiwan-enterprise-ase-semiconductor",
+    "people/cc-wei",
+    "economy/wistron-global-manufacturing-transformation-pioneer"
   ],
   "people/tu-pan-fangke": [
     "culture/hakka-culture-and-language",
@@ -6316,8 +6316,8 @@
     "economy/asus-computer",
     "people/steve-chang",
     "economy/foxconn-precision-industry",
-    "economy/tsmc",
-    "people/puma-shen"
+    "people/puma-shen",
+    "economy/tsmc"
   ],
   "people/tzuyu": [
     "music/deserts-chang-and-anpu",
@@ -6745,9 +6745,9 @@
     "society/taiwan-political-landscape-and-electoral-system",
     "politics/nine-in-one-elections-explained",
     "politics/indigenous-district-chief-system",
+    "lifestyle/convenience-store-culture",
     "politics/taiwan-election-process",
-    "society/history-of-taiwan-school-counseling",
-    "society/breakfast-shops-and-community-intelligence-network"
+    "society/history-of-taiwan-school-counseling"
   ],
   "politics/voting-rights-threshold-history": [
     "nature/taiwan-climate-change-net-zero-transition",
@@ -6791,9 +6791,9 @@
   ],
   "society/breakfast-shops-and-community-intelligence-network": [
     "food/taiwan-breakfast-culture",
-    "lifestyle/convenience-store-culture",
     "culture/loanwords-and-language-contact-in-taiwan",
     "politics/village-chief-system",
+    "lifestyle/convenience-store-culture",
     "food/taiwan-soy-milk-and-breakfast-shops",
     "culture/taiwanese-homophone-taboos",
     "society/the-buffet-aunties-intuitive-pricing",
@@ -6823,11 +6823,11 @@
     "people/he-feipeng",
     "economy/taiwan-enterprise-uni-president",
     "culture/renjian-magazine",
+    "lifestyle/convenience-store-culture",
     "culture/shopping-design",
     "society/volunteering-and-civic-charity-in-taiwan",
     "technology/taiwan-ai-academy",
-    "art/paper-windmill-theater",
-    "economy/want-want-group"
+    "art/paper-windmill-theater"
   ],
   "society/complex-life-festival": [
     "people/hou-hsiao-hsien",
@@ -6946,8 +6946,8 @@
     "geography/climate",
     "economy/taiwan-agricultural-modernization",
     "geography/urban-character-and-regional-culture",
-    "technology/taiwan-software-industry-development",
-    "geography/national-scenic-area-system"
+    "lifestyle/convenience-store-culture",
+    "technology/taiwan-software-industry-development"
   ],
   "society/indigenous-land-justice-and-traditional-territories": [
     "society/human-rights-and-gender-equality",
@@ -7217,7 +7217,7 @@
     "history/animal-protection-in-taiwan",
     "nature/eurasian-otter-in-taiwan",
     "food/taiwan-rice-cuisine-culture",
-    "lifestyle/convenience-store-culture"
+    "history/228-incident"
   ],
   "society/taipei-smoking-room": [
     "technology/mini-taiwan-pulse-civic-tech",
@@ -7387,7 +7387,7 @@
     "culture/taiwan-street-art-and-graffiti-culture",
     "geography/urban-character-and-regional-culture",
     "society/social-movements-and-civic-participation",
-    "technology/threads-in-taiwan"
+    "lifestyle/convenience-store-culture"
   ],
   "society/taiwan-nuclear-debate": [
     "nature/taiwan-climate-change-net-zero-transition",
@@ -7775,9 +7775,9 @@
     "people/sun-yun-suan",
     "society/environmental-awakening-and-net-zero-transition",
     "technology/ai-hardware-supply-chain",
-    "economy/tsmc",
     "economy/taiwan-enterprise-uni-president",
-    "economy/mediatek"
+    "economy/mediatek",
+    "economy/tsmc"
   ],
   "economy/economic-miracle": [
     "economy/taiwan-agriculture-and-rural-revitalization",
@@ -7797,17 +7797,17 @@
     "economy/hilife-convenience-store",
     "economy/net-night-economy-tourism",
     "economy/taiwan-fintech-development",
-    "economy/top-50-companies-taiwan"
+    "economy/tsmc"
   ],
   "economy/evergreen-marine": [
     "people/yung-ching-wang-formosa-plastics-founder",
+    "economy/tsmc",
     "economy/taiwan-enterprise-uni-president",
     "people/chen-shu-chu-vegetable-vendor-philanthropist",
     "people/koxinga",
     "economy/want-want-group",
     "people/stanley-yen",
-    "economy/formosa-plastics-group",
-    "economy/tsmc"
+    "economy/formosa-plastics-group"
   ],
   "economy/formosa-plastics-group": [
     "economy/taiwan-enterprise-chang-chun-petrochemical",
@@ -7840,8 +7840,8 @@
     "technology/ai-supply-chain-overseas-manufacturing"
   ],
   "economy/hilife-convenience-store": [
-    "economy/net-night-economy-tourism",
     "lifestyle/convenience-store-culture",
+    "economy/net-night-economy-tourism",
     "economy/pxmart-supermarket",
     "society/environmental-awakening-and-net-zero-transition",
     "lifestyle/xiaobei-department-store",
@@ -7912,12 +7912,12 @@
   "economy/net-night-economy-tourism": [
     "economy/hilife-convenience-store",
     "lifestyle/xiaobei-department-store",
+    "lifestyle/convenience-store-culture",
     "economy/taiwan-enterprise-uni-president",
     "economy/pxmart-supermarket",
     "technology/taiwan-online-community-migration",
     "culture/renjian-magazine",
-    "economy/taiwan-foreign-trade-and-global-supply-chain",
-    "technology/yam-yam-taiwan-portal"
+    "economy/taiwan-foreign-trade-and-global-supply-chain"
   ],
   "economy/night-market-economics": [
     "food/night-market-culture",
@@ -7944,10 +7944,10 @@
     "lifestyle/xiaobei-department-store",
     "economy/taiwan-enterprise-uni-president",
     "economy/want-want-group",
+    "lifestyle/convenience-store-culture",
     "technology/miin-music-app",
     "economy/net-night-economy-tourism",
-    "lifestyle/cooperatives-in-taiwan",
-    "economy/giant-manufacturing-taiwan-bicycle-empire"
+    "lifestyle/cooperatives-in-taiwan"
   ],
   "economy/screw": [
     "economy/taiwan-smes-and-hidden-champions",
@@ -8032,12 +8032,12 @@
   "economy/taiwan-enterprise-ase-semiconductor": [
     "economy/delta-electronics-taiwan-power-giant",
     "economy/asus-computer",
+    "economy/tsmc",
     "people/steve-chang",
+    "people/tsmc-morris-chang",
     "people/stan-shih",
     "technology/taiwan-semiconductor-industry",
-    "people/chen-chih-chung",
-    "economy/tsmc",
-    "economy/mediatek"
+    "people/chen-chih-chung"
   ],
   "economy/taiwan-enterprise-cathay-financial": [
     "economy/taiwan-enterprise-fubon-financial",
@@ -8086,8 +8086,8 @@
     "music/indie-music-scene",
     "lifestyle/taiwan-youbike-and-micromobility-revolution",
     "economy/taiwan-startup-ecosystem-overview",
-    "technology/justfont-and-taiwan-typography",
-    "art/taiwanese-theater-and-performing-arts"
+    "economy/tsmc",
+    "technology/justfont-and-taiwan-typography"
   ],
   "economy/taiwan-foreign-trade-and-global-supply-chain": [
     "economy/taiwan-international-trade-policy",
@@ -8127,7 +8127,7 @@
     "economy/taiwan-fintech-development",
     "economy/taiwan-enterprise-uni-president",
     "people/tsai-a-ga-youtuber",
-    "people/ray-du-english-youtuber"
+    "economy/tsmc"
   ],
   "economy/taiwan-smes-and-hidden-champions": [
     "economy/top-50-companies-taiwan",
@@ -8226,8 +8226,8 @@
     "technology/ai-hardware-supply-chain",
     "food/taiwan-breakfast-culture",
     "technology/science-park-development",
-    "economy/top-50-companies-taiwan",
-    "society/taiwan-cram-school-culture"
+    "lifestyle/convenience-store-culture",
+    "economy/top-50-companies-taiwan"
   ],
   "economy/top-50-companies-taiwan": [
     "technology/nvidia-in-taiwan",
@@ -8237,27 +8237,27 @@
     "technology/ai-hardware-supply-chain",
     "economy/taiwan-machine-tool-industry",
     "technology/taiwan-software-industry-development",
-    "economy/taiwan-foreign-trade-and-global-supply-chain"
+    "economy/tsmc"
   ],
   "economy/tsmc": [
     "people/tsmc-morris-chang",
     "people/mark-liu",
     "people/cc-wei",
     "economy/top-50-companies-taiwan",
-    "economy/taiwan-stock-market",
-    "economy/foxconn-precision-industry",
     "technology/nvidia-in-taiwan",
-    "technology/computex-taipei"
+    "economy/foxconn-precision-industry",
+    "economy/united-microelectronics-corporation",
+    "economy/taiwan-stock-market"
   ],
   "economy/united-microelectronics-corporation": [
     "people/tsmc-morris-chang",
     "music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories",
+    "economy/tsmc",
     "economy/top-50-companies-taiwan",
     "economy/wistron-global-manufacturing-transformation-pioneer",
     "economy/taiwan-cement-taipower-green-transformation",
     "technology/nvidia-in-taiwan",
-    "technology/taiwan-software-industry-development",
-    "technology/taiwan-tungsten-supply-chain"
+    "technology/taiwan-software-industry-development"
   ],
   "economy/want-want-group": [
     "economy/taiwan-enterprise-uni-president",
@@ -8290,14 +8290,14 @@
     "society/earthquakes-in-taiwan"
   ],
   "lifestyle/convenience-store-culture": [
-    "food/taiwan-coffee-culture",
-    "society/breakfast-shops-and-community-intelligence-network",
-    "food/hand-shaken-drink-culture",
-    "food/taiwan-vegetarian-culture",
-    "food/taiwan-breakfast-culture",
     "economy/hilife-convenience-store",
-    "geography/data-taiwan-22-cities",
-    "lifestyle/taiwan-youbike-and-micromobility-revolution"
+    "food/hand-shaken-drink-culture",
+    "lifestyle/taiwan-traditional-markets-and-market-culture",
+    "lifestyle/taiwan-youbike-and-micromobility-revolution",
+    "economy/circular-economy-and-resource-recycling",
+    "food/taiwan-vegetarian-culture",
+    "food/taiwan-coffee-culture",
+    "geography/data-taiwan-22-cities"
   ],
   "lifestyle/cooperatives-in-taiwan": [
     "society/taiwan-cram-school-culture",
@@ -8307,7 +8307,7 @@
     "politics/village-chief-system",
     "society/taiwan-higher-education-expansion-and-decline",
     "society/taiwan-neighborhood-and-li-culture",
-    "food/taiwan-apple-bread"
+    "lifestyle/convenience-store-culture"
   ],
   "lifestyle/esports": [
     "society/sport-stacking",
@@ -8492,8 +8492,8 @@
   "lifestyle/taiwan-scooter-culture": [
     "technology/taiwan-electric-vehicle-industry-chain",
     "technology/taiwan-robotics-industry",
-    "lifestyle/taiwan-arcade-culture-and-streetscapes",
     "lifestyle/convenience-store-culture",
+    "lifestyle/taiwan-arcade-culture-and-streetscapes",
     "economy/taiwan-machine-tool-industry",
     "music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories",
     "food/hand-shaken-drink-culture",
@@ -8502,12 +8502,12 @@
   "lifestyle/taiwan-traditional-markets-and-market-culture": [
     "food/night-market-culture",
     "culture/taiwan-floral-fabric",
+    "lifestyle/convenience-store-culture",
     "society/taiwan-neighborhood-and-li-culture",
     "culture/taiwan-historic-streets-and-commercial-districts",
     "food/hand-shaken-drink-culture",
     "culture/taiwan-street-art-and-graffiti-culture",
-    "lifestyle/taiwan-arcade-culture-and-streetscapes",
-    "economy/taiwan-agricultural-modernization"
+    "lifestyle/taiwan-arcade-culture-and-streetscapes"
   ],
   "lifestyle/taiwan-walking-green-man": [
     "culture/taiwan-kuaikuai-culture",
@@ -8520,9 +8520,9 @@
     "society/betel-nut"
   ],
   "lifestyle/taiwan-youbike-and-micromobility-revolution": [
+    "lifestyle/convenience-store-culture",
     "society/delivery-platform-law",
     "lifestyle/transportation-system",
-    "lifestyle/convenience-store-culture",
     "economy/circular-economy-and-resource-recycling",
     "society/inclusive-travel-taiwan",
     "technology/e-commerce-and-digital-payment-ecosystem",
@@ -8584,9 +8584,9 @@
     "economy/pxmart-supermarket",
     "food/taiwanese-street-food",
     "economy/net-night-economy-tourism",
+    "lifestyle/convenience-store-culture",
     "economy/hilife-convenience-store",
     "technology/e-commerce-and-digital-payment-ecosystem",
-    "economy/night-market-economics",
-    "art/paper-windmill-theater"
+    "economy/night-market-economics"
   ]
 }

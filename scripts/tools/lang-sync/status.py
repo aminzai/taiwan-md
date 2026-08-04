@@ -146,7 +146,18 @@ def git_commits_between(sha: str, file_path: Path) -> int:
 
 
 def git_diff_summary(sha: str, file_path: Path) -> str:
-    """Returns +N -M summary since sha."""
+    """Returns +N -M summary since sha.
+
+    LANG_SYNC_SKIP_DIFFSTAT=1 跳過（2026-08-04 build-speed）：git diff 要讀
+    兩側 blob 內容，CI 的 blobless clone 下每條 stale 變一次網路 lazy fetch
+    ——上千條 gap 就是 +30s 且變異大（run 30839467957 實測 prebuild 52→81s）。
+    diffSummary 是資訊欄（fresh/stale 判定不靠它）；CI 的 status JSON 只餵
+    dashboard 覆蓋率，缺值無害。本機 babel 排程（prioritize-batch 讀 added/
+    removed）不設此 env，行為不變。
+    """
+    import os
+    if os.environ.get("LANG_SYNC_SKIP_DIFFSTAT"):
+        return ""
     rel = file_path.relative_to(REPO).as_posix()
     out = git("diff", "--shortstat", f"{sha}..HEAD", "--", rel)
     # e.g. " 1 file changed, 12 insertions(+), 3 deletions(-)"
