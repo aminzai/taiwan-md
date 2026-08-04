@@ -1,73 +1,74 @@
 ---
-title: 'Le tchoukball : Taïwan, champion du monde discret depuis 43 ans'
-description: "En 1977, un professeur taïwanais rapporte d'Angleterre un cadre de filet, introduisant ainsi à Taïwan ce sport inventé en Suisse et surnommé le « sport des gentlemen ». Quarante ans plus tard, l'équipe nationale trône au sommet du monde, la fédération internationale a son siège à Kaohsiung — et pourtant, la majorité des Taïwanais n'ont jamais entendu parler de ce sport confidentiel."
+title: 'Tchoukball : le champion du monde invisible de Taïwan'
+description: "En 1977, un professeur taïwanais a rapporté un filet du Royaume-Uni, implantant par accident le « Tchoukball » suisse dans les écoles de Taïwan. Plus de 40 ans après, l'équipe de Taïwan domine le monde et la fédération internationale est basée à Kaohsiung, bien que ce sport reste méconnu de la majorité des Taïwanais."
 date: 2026-03-27
+category: 'Culture'
 tags:
   [
-    tchoukball,
-    sport taïwanais,
-    champion du monde,
-    sport scolaire,
-    culture sportive,
+    'Tchoukball',
+    'Sport taïwanais',
+    'Tchoukball (Junziqiu)',
+    'Champion du monde',
+    'Éducation physique scolaire',
   ]
-subcategory: 'Culture sportive'
-category: 'Culture'
+subcategory: '運動文化'
 author: 'Taiwan.md Contributors'
-readingTime: 12
 featured: false
-translatedFrom: 'Culture/巧固球.md'
 lastVerified: 2026-03-27
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: false
+readingTime: 12
+curation: 'incubating'
+translatedFrom: 'Culture/巧固球.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
-translatedAt: '2026-06-22T00:30:00+08:00'
-lastHumanReview: false
+translatedAt: '2026-08-04T18:06:50+08:00'
 ---
 
 ## Origines et introduction à Taïwan
 
-En avril 1977, le professeur Fang Ruimin rentre de l'université Saint-Paul de Cheltenham, en Angleterre, avec dans ses bagages un cadre de filet de tchoukball acheté 30 livres sterling et un manuel de règles en anglais. Il venait de découvrir ce sport pour la première fois lors d'un congrès annuel de la fédération sportive internationale en Belgique — un jeu inventé en 1970 par le biologiste suisse Hermann Brandt, dont le nom imite le son caractéristique que fait le ballon en frappant le filet élastique : « tchouk ».
+En avril 1977, le professeur Fang Rui-min est revenu à Taïwan depuis le collège St Paul de Sandbach, au Royaume-Uni, avec dans ses bagages un filet de tchoukball acheté pour 30 livres sterling et un manuel de règles en anglais. Il venait d'assister, lors de l'assemblée annuelle de la fédération sportive internationale en Belgique, à la première présentation de ce sport inventé en 1970 par le biologien suisse Hermann Brandt — nommé ainsi d'après le son « tchouk » produit lorsque la balle rebondit sur le filet élastique.
 
-Ce sport prônant le « zéro contact physique » — d'où son surnom de sport des gentlemen — avait été conçu à l'origine pour réduire les blessures sportives. Pourtant, c'est à Taïwan qu'il allait connaître son essor le plus remarquable, passant du cours d'éducation physique à l'école primaire jusqu'au sommet de la hiérarchie mondiale. De retour au pays, le professeur Fang organisa immédiatement des stages au lycée de Keelung et au gymnase de l'Université normale nationale, transmettant règles et matériel aux élèves et aux enseignants. Le ministère de l'Éducation inscrivit ensuite le tchoukball dans les programmes scolaires du primaire et du secondaire, et en quelques années, plus de 200 équipes scolaires se constituèrent à travers tout le pays.
+Ce sport, également appelé _junziqiu_ (ballon des gentlemen), conçu à l'origine pour minimiser les contacts physiques et réduire les blessures sportives, a réussi à s'implanter dans les écoles primaires de Taïwan pour devenir une puissance mondiale. À son retour, Fang Rui-min a immédiatement organisé des ateliers au lycée de Keelung et au gymnase de l'Université normale nationale de Taïwan (NTNU), transmettant les règles et le matériel aux élèves et aux enseignants. Le ministère de l'Éducation a par la suite intégré le tchoukball dans les programmes scolaires, permettant en quelques années la formation de plus de 200 équipes scolaires à travers l'île.
 
-> 📝 **Note du curateur** : Un sport inventé en Suisse pour « réduire les blessures » qui devient une discipline de compétition hautement répandue dans les écoles taïwanaises — ce contraste est en lui-même une histoire typiquement taïwanaise.
+📝 **Note du commissaire d'exposition** : Qu'un sport inventé par un Suisse pour « réduire les blessures » devienne un sport de compétition si répandu dans les écoles taïwanaises est, en soi, une histoire profondément taïwanaise.
 
-## Règles et particularités du jeu
+## Règles et caractéristiques du jeu
 
-Les règles sont suffisamment simples pour être assimilées en cinq minutes : l'équipe attaquante, depuis l'extérieur de la zone interdite, projette le ballon sur le filet élastique ; l'équipe adverse doit attraper le ballon avant qu'il touche le sol, sous peine de concéder un point, puis contre-attaquer immédiatement. Chaque joueur dispose de trois secondes pour jouer le ballon, peut faire au plus trois pas, sans dribble ni contact physique. On pourrait croire à une version policée du dodgeball — mais les experts parviennent à imprimer au ballon des angles de rebond déconcertants, quasiment impossibles à anticiper. C'est précisément là que réside le talent des joueurs taïwanais.
+Les règles sont si simples qu'on peut les maîtriser en cinq minutes : l'équipe attaquante lance la balle vers le filet élastique depuis l'extérieur de la zone interdite ; l'adversaire doit rattraper la balle avant qu'elle ne touche le sol, faute de quoi un point est marqué ; après la réception, l'attaque s'inverse immédiatement. Le joueur doit lancer la balle dans les trois secondes, peut effectuer au maximum trois pas et n'est pas autorisé à dribbler ni à entrer en contact physique avec l'adversaire. Bien que cela ressemble à une version douce du ballon prisonnier, les experts parviennent à donner des effets de rotation si complexes que la balle devient impossible à réceptionner — c'est là la spécialité des athlètes taïwanais.
 
-Ces derniers excellent dans les « balles en rotation » et les « réflexes éclair », insufflant une intensité de haut niveau à ce sport à première vue paisible. En compétition internationale, l'équipe de Taïwan se distingue régulièrement par la précision de ses angles et la complicité de ses combinaisons, renversant souvent le score dans les dernières secondes.
+Les joueurs de Taïwan excellent particulièrement dans le « tir avec effet » et la « réaction rapide », transformant ce sport apparemment calme en une discipline de haute intensité. Lors des compétitions internationales, il est fréquent de voir l'équipe de Taïwan renverser le score dans les dernières secondes grâce à une précision d'angle et une coordination parfaite.
 
-> 📝 **Note du curateur** : Le principe fondateur du jeu est le « zéro contact », et pourtant Taïwan en a fait un sport d'une exigence technique redoutable — c'est l'image même de la culture sportive taïwanaise : l'intelligence et le collectif supplantent la force brute.
+📝 **Note du commissaire d'exposition** : Le cœur du concept réside dans « l'absence de contact », mais Taïwan y a développé un niveau technique extrêmement élevé, ce qui est un microcosme de la culture sportive taèwanaise : remplacer la force brute par l'intelligence et le travail d'équipe.
 
-## Un palmarès international éclatant
+## Les exploits de Taïwan sur la scène internationale
 
-Dès les années 1980, l'équipe de Taïwan commence à participer aux championnats du monde et remporte quasiment chaque année le titre masculin, tandis que l'équipe féminine se classe invariablement dans les deux premières places. D'après les statistiques de la Fédération internationale de tchoukball, Taïwan n'a perdu qu'une poignée de finales depuis 1980, trônant en permanence au sommet du classement mondial.
+Depuis les années 1980, l'équipe de Taïwan participe aux championnats du monde, remportant presque chaque année le titre masculin et se classant systématiquement dans les deux premiers pour la catégorie féminine. Selon les statistiques de la Fédération Internationale de Tchoukball (FITB), Taïwan n'a perdu que très peu de finales depuis 1980, occupant durablement la première place mondiale.
 
-En août 2025, l'équipe nationale féminine scolaire, composée de joueuses des écoles primaires Bihu et Guting de Taipei, participait pour la première fois au Championnat du monde de beach tchoukball des jeunes en Thaïlande. Trois victoires consécutives face à la Thaïlande et à Hong Kong leur valurent le titre mondial. L'entraîneur Lin Zhengjie — ancien élève de Bihu, revenu enseigner dans son école depuis quinze ans — avait les larmes aux yeux après la finale : « Ces enfants ont transformé l'impossible en réalité à la sueur de leur front. » La capitaine Wu Yongyue, elle, confessait : « En partant, on pensait juste participer à une compétition. On n'imaginait pas vraiment ramener le trophée à Taïwan. »
+En août 2025, une équipe de jeunes filles composée des écoles primaires Bihu et Guting de Taipei a participé pour la première fois au Championnat du monde junior de tchoukball de plage en Thaïlande. En enchaînant trois victoires contre la Thaïlande et Hong Kong, elles ont remporté le titre mondial. L'entraîneur Lin Zheng-jie (ancien élève de l'école Bihu, enseignant dans son ancienne école depuis 15 ans) a eu les larmes aux yeux après le match : « Les enfants ont transformé l'impossible en possible grâce à leur sueur. » La capitaine Wu Yong-yue a déclaré : « Avant de partir, nous pensions simplement aller faire une compétition ; nous ne pensions pas ramener réellement le trophée à Taïwan. »
 
-De l'introduction du sport en 1977 à la victoire de ces écolières en 2025, quarante-trois ans durant lesquels Taïwan a transformé une discipline confidentielle en culture scolaire transmise de génération en génération — voilà le véritable miracle du sport à la base.
+De son introduction en 1977 au sacre des élèves primaires en 2025, Taïwan a, en 43 ans, transformé un sport de niche en une culture scolaire transmise de génération en génération ; c'est là le véritable miracle de la base sportive.
 
-## Rayonnement international, défis domestiques
+## Contribution internationale et défis nationaux
 
-Le président de la Fédération internationale de tchoukball (FITB) est lui-même taïwanais : Huang Jincheng a investi plus de 6 millions de dollars de sa poche au fil de vingt ans, installé le siège de la fédération à Kaohsiung, et se rend personnellement dans de nombreux pays pour promouvoir la discipline. Quand l'équipe de Taïwan a failli manquer un championnat du monde faute de budget, les équipes du Canada et de Suisse ont déclaré publiquement : « Si Taïwan ne vient pas, nous non plus. » Le Championnat du monde fut annulé — un fait rarissime dans l'histoire des sports individuels.
+Le président de la Fédération Internationale de Tchoukball (FITB) est Taïwanais, Huang Jin-cheng. Depuis plus de 20 ans, il a financé sur ses propres deniers plus de 6 millions de dollars taïwanais pour établir le siège de la fédération à Kaohsiung et se déplace personnellement dans le monde entier pour promouvoir la discipline. L'équipe de Taïwan a failli ne pas participer aux championnats du monde en raison d'un manque de budget, ce qui a conduit les équipes du Canada et de la Suisse à déclarer publiquement : « Si Taïwan ne vient pas, nous ne venons pas », entraînant l'annulation de la Coupe du monde — un événement extrêmement rare dans l'histoire des sports individuels.
 
-Pourtant, rares sont les Taïwanais qui connaissent ce fleuron national. Les ressources restent limitées, les entraîneurs à plein temps se comptent sur les doigts d'une main — comme Liao Xueming à l'école primaire Sixian de New Taipei —, et le sport n'étant pas inscrit au programme des Jeux asiatiques ni olympiques, les financements et l'attention médiatique font chroniquement défaut. Les athlètes étudient et s'entraînent en parallèle, portant sur leurs épaules le titre de numéro un mondial grâce à leur passion et à leur cohésion d'équipe.
+Cependant, peu de gens au pays connaissent ce « fleuron de Taïwan ». Les ressources étant limitées et le nombre d'entraîneurs spécialisés se comptant sur les doigts d'une main (comme Liao Xue-ming de l'école primaire Sixian à Nouveau Taipei), et le sport n'étant pas une discipline olympique ou asiatique, le financement et la visibilité restent insuffisants. Les athlètes doivent souvent concilier leurs études et leurs entraînements, s'appuyant sur leur passion et leur cohésion pour maintenir ce rang de numéro un mondial.
 
-> 📝 **Note du curateur** : Les sports dans lesquels Taïwan excelle le plus ne sont souvent pas ceux dont on parle au quotidien. Le tchoukball nous rappelle que la vraie excellence se cache parfois dans le coin le plus discret d'une cour d'école.
+📝 **Note du commissaire d'exposition** : Les sports les plus puissants de Taïwan ne sont souvent pas ceux dont tout le monde discute quotidiennement. Le tchoukball nous rappelle que la véritable force se cache parfois dans les coins les plus silencieux des cours d'école.
 
 ## Perspectives d'avenir
 
-La prochaine fois que vous passerez devant une cour d'école primaire et que vous entendrez le claquement sec d'un « tchouk », ne pensez pas que de simples enfants jouent à un jeu. Ce sont peut-être les futurs champions du monde qui s'entraînent — et ce sport continue, à sa manière si taïwanaise, de régner discrètement sur la scène internationale.
+La prochaine fois que vous passerez près d'une cour d'école primaire et entendrez le son net d'un « tchouk », ne pensez pas qu'il s'agit simplement d'un jeu d'enfants. Il se pourrait bien que de futurs champions du monde soient en plein entraînement — et ce sport continue, à la manière la plus taïwanaise qui soit, de dominer silencieusement la scène internationale.
 
-L'essor de nouvelles disciplines comme le beach tchoukball, combiné à l'investissement continu des équipes scolaires du primaire et du secondaire, laisse espérer que Taïwan saura, dans les dix prochaines années, porter la gloire de ce champion invisible vers davantage de compétitions internationales et vers le grand public.
+Avec l'émergence de nouvelles disciplines comme le tchoukball de plage et le travail continu des équipes scolaires primaires et secondaires, Taïwan espère, dans la prochaine décennie, porter cette gloire de champion invisible vers davantage de compétitions internationales et vers le regard du grand public.
 
 ### Références
 
-- [Wikipedia (zh) : 巧固球](https://zh.wikipedia.org/wiki/巧固球)
-- [報時光 : 《超冷門的台灣之光！台灣世界排名第一的運動「巧固球」》](https://time.udn.com/udntime/story/122833/8125640)
-- [Wikipedia (en) : Tchoukball](https://en.wikipedia.org/wiki/Tchoukball)
-- [Bureau de l'éducation de Taipei : Bihu et Guting remportent le titre mondial](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E850F4A8C07335D0)
-- [PeoPo : 《閃耀國際的台灣巧固球》](https://www.peopo.org/news/699526)
-- [GQ Taiwan : 《台灣穩居世界No.1超冷門運動「巧固球」》](https://www.gq.com.tw/article/冷門運動-巧固球)
-- [Fédération internationale de tchoukball — historique officiel et interview de Huang Jincheng](https://www.fitb.org/)
+- [Wikipédia : Tchoukball](https://zh.wikipedia.org/wiki/巧固球)
+- [Bao Shiguang : « Un éclat de Taïwan méconnu ! Le tchoukball, sport où Taïwan est premier mondial »](https://time.udn.com/udntime/story/122833/8125640)
+- [Wikipedia : Tchoukball (en anglais)](https://en.wikipedia.org/wiki/Tchoukball)
+- [Communiqué du Bureau de l'Éducation de Taipei : Les jeunes des écoles Bihu et Guting remportent le titre mondial](https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&s=E850F4A8C07335D0)
+- [PeoPo : « Le tchoukball taïwanais brille à l'international »](https://www.peopo.org/news/699526)
+- [GQ Taiwan : « Le tchoukball, sport méconnu où Taïwan est solidement numéro 1 mondial »](https://www.gq.com.tw/article/冷門運動-巧固球)
+- [Rapport de synthèse sur l'histoire officielle de la FITB et l'entretien avec Huang Jin-cheng](https://www.fitb.org/)

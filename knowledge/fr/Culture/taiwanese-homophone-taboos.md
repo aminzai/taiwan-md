@@ -1,92 +1,92 @@
 ---
-title: 'La culture des tabous phonétiques à Taïwan : pourquoi le « quatre » fait disparaître des étages entiers ?'
-description: "Des hôpitaux sans quatrième étage aux plaques d'immatriculation vendues à prix d'or, les Taïwanais entretiennent une sensibilité aux homophones parmi les plus poussées au monde"
+title: 'Culture des homophones et tabous numériques à Taïwan : pourquoi le chiffre « 4 » fait-il sauter les étages dans toute la société ?'
+description: "De l'absence du 4e étage dans les hôpitaux aux enchères records de plaques d'immatriculation « 8888 », la sensibilité des Taïwanais aux homophones est parmi les plus élevées au monde."
 date: 2026-03-21
+category: 'Culture'
 tags:
   [
-    'culture taïwanaise',
+    'Culture taïwanaise',
     'croyances populaires',
     'culture des homophones',
     'tabous numériques',
   ]
-subcategory: 'Fêtes et coutumes'
-category: 'Culture'
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md'
 featured: false
-readingTime: 6
 lastVerified: 2026-03-21
+lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Culture/台灣諧音禁忌文化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:d88f480a1e1f7ae0'
 sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'
-translatedAt: '2026-06-16T17:19:04Z'
-lastHumanReview: false
+translatedAt: '2026-08-04T17:39:49+08:00'
 ---
 
-> **En 30 secondes** : À Taïwan, l'homophonie entre « quatre » et « mort » a conduit toute la société à éviter collectivement ce chiffre — les ascenseurs passent du 3 au 5, et dans les restaurants, quand on vous demande pour combien de personnes, on répond « 3+1 » plutôt que « 4 ». Dans le même temps, les homophones de bon augure font s'envoler les prix : une plaque d'immatriculation « 8888 » s'est vendue près d'un million de dollars taïwanais, et les enveloppes de mariage obéissent à une arithmétique proprement ésotérique.
+> **Aperçu en 30 secondes** : À Taïwan, l'homophone entre « quatre » (sì) et « mort » (sǐ) pousse la société à éviter collectivement ce chiffre ; les ascenseurs passent directement du 3e au 5e étage, et les restaurateurs demandent « 3+1 personnes » au lieu de « quatre ». Parallèlement, les homophones de bon augure ont permis à une plaque d'immatriculation « 8888 » d'être adjugée pour 890 000 TWD, et l'enveloppe rouge (_hongbao_) des mariages suit une numérologie complexe.
 
-Si vous visitez Taïwan pour la première fois, vous risquez de rester perplexe dans un ascenseur : pourquoi le bouton passe-t-il directement du 3 au 5 ? À l'entrée d'un restaurant, vous annoncez « quatre personnes » — le serveur acquiesce : « Bien sûr, 3+1. » Bienvenue dans l'univers des tabous phonétiques taïwanais, où toute une société réorganise ses chiffres pour échapper aux sons de mauvais présage.
+Si vous êtes un étranger arrivant pour la première fois à Taïwan, vous pourriez être confus dans un ascenseur : pourquoi les boutons passent-ils directement du 3e au 5e étage ? En entrant dans un restaurant, si le serveur vous demande « pour combien de personnes » et que vous répondez « quatre », il pourrait rétorquer : « Très bien, 3+1 personnes ». Bienvenue dans le monde des tabous homophoniques de Taïwan — un lieu où la société réorganise les chiffres pour éviter les sonorités infortunées.
 
-## Le « quatre », ennemi public numéro un
+## Le chiffre « 4 », ennemi public numéro un
 
-À Taïwan, aucun chiffre n'est plus redouté que le quatre. En mandarin, « quatre » (sì) et « mort » (sǐ) ne se distinguent que par le ton — une ressemblance phonétique suffisante pour que la société entière l'écarte résolument.
+À Taïwan, aucun chiffre n'est plus redouté que le « <em>quatre</em> ». En chinois, la prononciation de « quatre » (sì) et de « mort » (sǐ) ne diffère que par le ton ; cette subtile similitude suffit à ce que la société entière l'évite.
 
-Le cas le plus visible est celui des étages dans les bâtiments. Dans n'importe quel immeuble taïwanais, vous constaterez que le panneau de l'ascenseur saute allègrement le « 4 » pour aller du 3 au 5. Et pas seulement le quatrième étage : le 14, le 24 ou le 34 disparaissent également des tableaux de bord, car ils contiennent eux aussi ce chiffre funeste.
+L'exemple le plus frappant est la numérotation des étages dans les bâtiments. En entrant dans n'importe quel immeuble taïwanais, vous remarquerez l'absence du « 4 » sur les boutons de l'ascenseur, qui saute du 3e au 5e étage. Ce n'est pas seulement le 4e étage qui est omis, mais aussi le 14e, le 24e ou le 34e, car ils contiennent tous ce chiffre inauspicieux.
 
-L'hôpital Chang Gung de Linkou offre un exemple encore plus révélateur. Cet établissement de renom se trouve en réalité dans le district de Guishan, à Taoyuan — mais il s'est toujours présenté sous le nom de « Chang Gung de Linkou ». Pourquoi ? Parce que le mot « Gui » (tortue) y évoque des connotations défavorables, particulièrement malvenues dans un contexte médical. L'hôpital a donc préféré emprunter le nom du district de Linkou, à New Taipei, plutôt que d'endosser l'étiquette peu flatteuse d'« hôpital de Guishan ».
+Le cas de l'hôpital Linkou Chang Gung est encore plus intéressant. Bien que cet hôpital célèbre soit situé dans le district de Guishan à Taoyuan, il insiste pour porter le nom de « Linkou Chang Gung ». Pourquoi ? Parce que le caractère « Gui » (tortue) sonne mal, ce qui est particulièrement tabou dans un milieu médical. L'hôpital préfère donc « emprunter » le nom d'une localité voisine, le district de Linkou à Nouveau Taipei, plutôt que d'être appelé « Hôpital Guishan ».
 
-## L'art du langage dans les restaurants
+## L'art du langage au restaurant
 
-Le secteur des services taïwanais a développé un véritable répertoire de formules pour contourner les tabous phonétiques. Lorsqu'un groupe de quatre personnes se présente, le personnel n'annonce pas « quatre couverts » mais « 3+1 ». Certains restaurants vont jusqu'à supprimer le « menu n° 4 », passant directement au numéro cinq.
+Le secteur des services à Taïwan a développé une technique linguistique ingénieuse pour contourner ces tabous. Lorsque vous dînez à quatre, le serveur ne dira pas directement « quatre personnes », mais préférera dire « 3+1 personnes ». Certains restaurants évitent même le « menu n°4 » sur leur carte, passant directement au « menu n'°5 ».
 
-Cette vigilance déborde largement du domaine des chiffres. Dans bien des situations, on évite aussi les homophones à connotation négative dans le choix des cadeaux : on n'offre ni montre ni horloge (dont le nom évoque l'accompagnement des mourants), ni poire (dont le son rappelle la séparation).
+Cette prudence ne se limite pas aux chiffres. Dans de nombreuses situations, les gens évitent les mots dont l'homophone pourrait susciter des associations négatives. Par exemple, lors d'un cadeau, on n'offrira pas de montre (homophone de « la fin ») ni de poires (homophone de « séparation »).
 
-## Les plaques d'immatriculation, objets de spéculation
+## Les enchères records pour les plaques d'immatriculation
 
-Si fuir le « quatre » relève de la précaution, s'approprier les chiffres porte-bonheur relève, lui, d'une véritable stratégie d'attraction de la fortune. À Taïwan, les chiffres d'une plaque ne sont pas de simples identifiants : ils symbolisent le statut social et la chance de leur propriétaire.
+Si l'on évite le « 4 » pour conjurer le sort, on recherche activement les chiffres de bon augure pour attirer la fortune. À Taïwan, les chiffres sur une plaque d'immatriculation ne sont pas de simples identifiants, mais des symboles de statut social et de chance.
 
-Le grand favori est le « 8888 », car « huit » est homophone de « prospérité » (fa). En 2017, un automobiliste a déboursé 889 000 dollars taïwanais pour s'offrir la plaque « AMG-8888 », établissant alors un record. « 5888 » (je prospère, prospère, prospère) et « 9999 » (longévité à l'infini) sont également très prisés.
+Le plus prisé est le « 8888 », car le chiffre « huit » (bā) est proche du mot « s'enrichir » (_fā_). En 2017, un propriétaire a remporté la plaque « AMG-8888 » pour 889 000 TWD, établissant un record à l'époque. Les séries « 5888 » (signifiant « je vais m'enrichir, m'enrichir, m'enrichir ») ou « 9999 » (« éternité ») sont également très convoitées.
 
-La culture des homophones n'est pas figée pour autant. Ces dernières années, « 8787 » a gagné en popularité parce qu'on l'interprète comme « non, non » en taïwanais (m̄-ài m̄-ài), ce qui en fait paradoxalement un talisman contre la malchance.
+Fait intéressant, la culture des homophones connaît aussi des évolutions générationnelles. Ces dernières années, le « 8787 » est devenu populaire car il peut être interprété comme « ne pas vouloir » (en dialecte minnan, _m̄-iàu m̄-iàu_), ce qui, dans certains contextes, devient un bon présage pour rejeter la malchance.
 
-## L'arithmétique des enveloppes de mariage
+## La numérologie des enveloppes rouges (_hongbao_)
 
-La minutie des Taïwanais en matière de chiffres atteint son apogée dans la tradition des enveloppes de mariage. Il ne suffit pas de donner une somme en chiffres pairs (le bonheur vient par deux) : certains montants sont proscrits, ce qui aboutit à un système de calcul d'une subtilité déconcertante.
+L'attention portée aux chiffres par les Taïwanais atteint son paroxysme dans la culture des enveloppes rouges de mariage. Offrir une enveloppe ne nécessite pas seulement un nombre pair (pour symboliser l'union), mais exige aussi d'éviter certains chiffres, créant ainsi des règles de calcul complexes.
 
-Les montants courants sont, entre autres : 1 200, 1 600, 2 000, 2 200, 2 600, 3 200, 3 600, 6 000, 6 600 dollars taïwanais. On remarque deux constantes : toutes ces sommes sont paires, et toutes évitent les chiffres 4 et 8.
+Les montants courants pour un mariage incluent : 1200, 1600, 2000, 2200, 2600, 3200, 3600, 6000, 6600, etc. Vous remarquerez deux caractéristiques : ces nombres sont tous pairs et ils évitent le « 4 » et le « 8 ».
 
-Pourquoi éviter le « 8 », pourtant symbole de prospérité ? Parce que dans certains contextes, sa prononciation peut évoquer « bāi » (s'en aller) ou l'idée de séparation. Ainsi, on passe de 3 600 à 6 000 sans s'arrêter au 4 000 ni au 5 000, a fortiori inacceptables.
+Pourquoi éviter même le « 8 » dans certains cas ? Bien que le « huit » évoque la richesse, sa sonorité peut parfois être associée à des termes suggérant une rupture ou un rejet. Ainsi, l'enveloppe de mariage passe directement de 3600 TWD à 6000 TWD, les montants de 4000 ou 5000 étant totalement proscrits.
 
-Un détail supplémentaire : si les convives reçoivent un gâteau de mariage en cadeau, certains ajoutent 600 dollars à leur enveloppe pour en couvrir symboliquement le coût. Ce geste témoigne de la finesse avec laquelle les Taïwanais entretiennent leurs obligations sociales.
+Un autre détail amusant : si le banquet de mariage inclut des gâteaux de fête (_xibing_) offerts aux invités, certains ajoutent 600 TWD au montant de l'enveloppe pour « compenser le prix du gâteau », illustrant la délicatesse des interactions sociales taïwanaises.
 
-## Des pratiques qui varient selon les régions et les communautés
+## L'équilibre subtil entre le Nord et le Sud
 
-Il convient de noter que ces tabous phonétiques ne sont pas uniformes sur l'ensemble du territoire. Dans le nord de Taïwan, la sensibilité au couple « quatre/mort » est généralement moins marquée que dans le sud. Les pratiques des communautés d'origine cantonaise diffèrent de celles des communautés hakka. Ces nuances reflètent la diversité ethnique et culturelle qui caractérise Taïwan.
+Il est notable que ces tabous varient selon les régions. Les habitants du Nord sont moins sensibles à l'association entre « 4 » et « mort » que ceux du Sud, et les tabous homophoniques des populations Hakka sont plus stricts que ceux des populations cantonais (_Guangdong_). Cela reflète la diversité culturelle et linguistique de Taïlag.
 
-Dans les espaces commerciaux, la réponse pragmatique consiste à adopter le plus petit dénominateur commun : puisqu'une partie de la clientèle y est sensible, autant éviter l'écueil — mieux vaut prévenir que guérir.
+Dans le monde des affaires, pour respecter la sensibilité de tous, on adopte généralement une approche de « plus petit dénominateur commun » : puisque certains y sont sensibles, il vaut mieux l'éviter uniformément pour éviter tout désagrément.
 
-## Une sagesse ancienne dans la Taïwan moderne
+## Sagesse ancienne dans la société moderne
 
-Comment expliquer que ces usages, souvent qualifiés de « superstitieux », persistent dans une société aussi connectée que Taïwan ? La réponse tient sans doute à la puissance d'inertie de la culture.
+Dans le Taïwan technologique d'aujourd'hui, pourquoi ces habitudes apparemment « superstitieuses » perdurent-elles ? La réponse réside peut-être dans la force de l'inertie culturelle.
 
-Les tabous phonétiques ne relèvent pas seulement de la croyance personnelle : ils constituent une convention sociale partagée. Lorsque l'ensemble d'une société les respecte, les transgresser est perçu comme une incongruité. Un immeuble qui affiche un « 4e étage » risque de peiner à louer ou vendre ses locaux ; une plaque comportant « 444 » sera difficile à céder.
+Les tabous homophoniques ne sont pas seulement des croyances personnelles, mais un pacte social. Lorsque toute une société suit ces règles, les enfreindre devient déroutant. Un immeuble affichant un « 4e étage » pourrait nuire à sa location ou sa vente ; une plaque d'immatriculation contenant « 444 » sera difficile à revendre.
 
-Plus important encore, ces pratiques ont un coût quasi nul. Renuméroter un étage, dire « 3+1 », choisir une plaque de bon augure : autant de gestes minimes qui procurent en retour un vrai sentiment de sécurité psychologique.
+Plus important encore, ces tabous ont un coût extrêmement faible. Sauter un numéro d'étage, dire « 3+1 personnes » ou choisir une plaque de bon augure ne nécessite aucun investissement majeur, mais procure un sentiment de sécurité psychologique aux participants.
 
-## Un soft power culturel à l'international
+## Un nouveau levier de rayonnement culturel
 
-Il est intéressant de constater que l'expansion internationale des entreprises taïwanaises a exporté cette culture avec elle. Certains groupes multinationaux évitent désormais soigneusement, dans leurs références produits, les chiffres susceptibles de susciter des associations négatives sur les marchés sinophones.
+Il est intéressant de noter qu'avec l'expansion internationale des entreprises taïwanaises, cette culture des homophones commence à influencer le marché mondial. Certaines multinationales, lors de la conception de modèles de produits, évitent délibérément les chiffres susceptibles de provoquer des associations négatives sur le marché chinois.
 
-Ce phénomène a transformé la culture phonétique taïwanaise d'une curiosité locale en composante à part entière du rayonnement culturel du pays, influençant les stratégies commerciales à l'échelle mondiale.
+Ce phénomène transforme la culture des homophones de Taïwan, passant d'une « particularité locale » à une composante du « soft power culturel », influençant l'élaboration des stratégies commerciales mondiales.
 
-La prochaine fois que vous prendrez un ascenseur à Taïwan et que vous verrez les boutons passer du 3 au 5, souvenez-vous : vous êtes le témoin de la vitalité d'une culture ancienne dans la société contemporaine. Ce n'est pas de la superstition pure — c'est la conviction profonde, partagée par tout un peuple, que les mots ont un pouvoir réel. Alors on choisit les bons, et on tait les mauvais.
+La prochaine fois que vous prendrez un ascenseur à Taïwan et verrez les boutons passer directement du 3 au 5, souvenez-vous : vous êtes témoin de la survie résiliente d'une culture ancienne dans la modernité. Ce n'est pas seulement de la superstition, c'est une foi profonde d'un peuple dans le pouvoir du langage — la conviction que les paroles peuvent devenir réalité, et le choix délibéré de prononcer des mots de bon augure pour éviter le malheur.
 
-Sur cette île habitée par les tabous phonétiques, les chiffres ne sont pas de simples chiffres. Ils sont les vecteurs de l'espoir et de la crainte.
+Sur cette île imprégnée de tabous homophoniques, les chiffres ne sont pas que des nombres ; ils sont les vecteurs de l'espoir et de la crainte.
 
 ## Références
 
-- [Tétraphobie — Wikipédia](https://zh.wikipedia.org/wiki/四的禁忌)
-- [长知识！車牌諧音也有「改朝換代」8888太老派 8787有人愛](https://theme.udn.com/theme/story/6774/2816580)
-- [2026婚禮紅包包多少？最新紅包行情表、數字禁忌、賀詞寫法總整理](https://www.businessweekly.com.tw/focus/blog/3016539)
-- [龜山算林口？桃園、新北交融有內情](https://www.chinatimes.com/realtimenews/20210123001049-260405)
-- [「林口長庚醫院」其實是位在桃園龜山](https://blog.udn.com/glwang/108403013)
+- [Les tabous du chiffre 4 - Wikipédia](https://zh.wikipedia.org/wiki/四的禁忌)
+- [Apprendre ! Les plaques d'immatriculation évoluent : le 8888 est démodé, le 8787 est à la mode](https://theme.udn.com/theme/story/6774/2816580)
+- [Combien mettre dans une enveloppe de mariage en 2026 ? Guide complet des tarifs, tabous et vœux](https://www.businessweekly.com.tw/focus/blog/3016539)
+- [Guishan est-il Linkou ? Les secrets de l'imbrication entre Taoyuan et Nouveau Taipei](https://www.chinatimes.com/realtimenews/20210123001049-260405)
+- [L'hôpital « Linkou Chang Gung » se situe en réalité à Guishan, Taoyuan](https://blog.udn.com/glwang/108403013)

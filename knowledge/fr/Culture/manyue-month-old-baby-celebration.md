@@ -1,105 +1,100 @@
 ---
-title: "Coutumes du premier mois : de « l'appel au milan » aux cadeaux de miyue, un siècle d'évolution de la culture taïwanaise de la petite enfance"
-description: "À Taïwan en 2026, le rite du premier mois est devenu affaire de gâteaux français raffinés et de biscuits solidaires ; il dissimule pourtant une histoire culturelle saisissante, celle d'un enfant que l'on arrache « au bec de l'aigle ». Du rite du rasage des premiers cheveux, du « renforcement du courage » et des cadeaux de la famille maternelle, jusqu'au mystérieux « appel au milan » hakka, puis aux coffrets de miyue et aux usages contemporains des enveloppes rouges, le premier mois demeure porteur du plus tendre pacte de protection que la société taïwanaise conclut avec une vie nouvelle, tout en retraçant un siècle de transformations des pratiques d'éducation, passées d'un horizon familial à un horizon social."
+title: "Coutumes du premier mois : de l'appel aux aigles aux coffrets de célébration, l'évolution séculaire de la culture parentale à Taïwan"
+description: "En 2026, les cadeaux de naissance à Taïwan sont devenus des pâtisseries françaises raffinées ou des biscuits caritatifs, mais ils cachent une histoire culturelle mouvementée. Des rituels de tonsure aux traditions Hakka, découvrez comment l'éducation est passée d'un modèle familial à un modèle social."
 date: 2026-06-25
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '節慶與禮俗'
 tags:
-  [
-    'premier mois',
-    'coutumes',
-    'appel au milan',
-    'rasage de la tête',
-    'cadeau de miyue',
-  ]
+  ['premier mois', 'coutumes', 'Ham-li-yu', 'tonsure', 'cadeaux de célébration']
+subcategory: '節慶與禮俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'Culture/滿月習俗.md'
-sourceCommitSha: '8f7ec7d5a'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:071279c0b606b84b'
 sourceBodyHash: 'sha256:1d9b4f6d77ed0f1e'
-translatedAt: '2026-06-27T00:54:19+08:00'
+translatedAt: '2026-08-04T17:32:12+08:00'
 ---
 
-> **Aperçu en 30 secondes :** Les coutumes taïwanaises du premier mois traversent une révolution silencieuse, passant de l'importance du rite à celle du lien affectif. Autrefois, les aînés criaient vers le ciel le nom de l'aigle, dans l'espoir de préserver l'enfant de forces mystérieuses ; aujourd'hui, les parents choisissent des coffrets de miyue raffinés pour transformer la joie d'une naissance en expression de goût culturel au sein de leur cercle social. Cet article vous fait entrer dans l'histoire de cette évolution des rites de la petite enfance, de la société agricole à l'ère numérique.
+> **Aperçu en 30 secondes :** Les coutumes du premier mois à Taïwan traversent une révolution silencieuse, passant « du protocole au sentiment ». Autrefois, les aînés criaient vers le ciel pour invoquer les aigles afin de protéger l'enfant des forces mystiques ; aujourd'hui, les parents transforment la joie de la naissance en un geste de goût social à travers des coffrets de célébration raffinés. Cet article vous emmène à travers l'évolution des rites parentaux, de la société agraire à l'ère numérique.
 
-« Le hibou-aigle monte vers la montagne, que le nourrisson devienne vite fonctionnaire ; le hibou-aigle vole très haut, que le nourrisson réussisse l'examen impérial. »
+« L'aigle (_chī-xiū_) vole vers la montagne, que le bébé devienne haut fonctionnaire ; l'aigle vole très haut, que le bébé soit lauréat du concours impérial. »
 
-Dans les campagnes taïwanaises des années 1950, le jour où un bébé atteignait son premier mois, les aînés sortaient avec l'enfant dans les bras, frappaient le sol avec une tige de bambou et criaient vers le ciel. Ce rite, appelé « han li yao » ou « han chi xiao », ressemblait à une fête animée ; pour les parents de l'époque, il tenait pourtant davantage d'une « négociation de survie » avec la nature. À une époque où la médecine était peu développée, le fait qu'un enfant survive sans encombre à son premier mois était considéré comme la première grande épreuve de la vie.
+Dans les campagnes taïwanaises des années 1950, le jour du premier mois de l'enfant, les aînés portaient le nouveau-né à l'extérieur, frappant le sol avec un bâton de bambou tout en criant vers le ciel. Ce rituel, appelé _ham-li-yu_ (喊利<0xE9><0xB7><0x82>) ou _ham-chī-xiū_ (喊鴟<0xE9>ul), ressemblait à une fête animée, mais pour les parents de l'époque, il s'agissait plutôt d'une « négociation de survie » avec la nature. À une époque où la médecine était peu développée, survivre au premier mois représentait la première grande épreuve de la vie.
 
-📝 Note de curation : chaque rite des coutumes du premier mois ressemble à une ancienne « assurance-vie », destinée à affronter les menaces inconnues et les mauvais passages du destin.
+📝 Note du commissaire : Chaque rituel du premier mois agit comme une ancienne « assurance-vie », luttant contre les dangers de l'inconnu.
 
-## Arracher l'enfant au bec de l'aigle : le mystérieux « appel au milan »
+## Voler l'enfant dans le bec de l'aigle : le mystérieux « Ham-li-yu »
 
-Dans les traditions hakka et hoklo, le « han li yao » (hakka : _hamˇ li iquˇ_) est une coutume très visuelle. Dans les fermes taïwanaises d'autrefois, on élevait souvent des poulets, et l'on craignait surtout que les aigles ou les rapaces fondent du ciel pour emporter les poussins. La culture populaire a transformé cette peur en protection du nourrisson : en chassant bruyamment l'aigle, on symbolisait l'expulsion des mauvais esprits et des maladies susceptibles de nuire à l'enfant [^1].
+Dans les traditions Hakka et Minnan, le _ham-li-yu_ (en Hakka : _hamˇ li iquˇ_) est une coutume très imagée. Les premières familles agricoles de Taïwan élevaient souvent des poulets et craignaient par-dessus tout que l'aigle ne plonge pour emporter les poussins. Le folklore a transformé cette peur en protection pour le nourrisson : en chassant bruyamement l'aigle, on symbolisait l'expulsion des esprits maléfiques et des maladies pouvant nuire à l'enfant [^1].
 
-Ce rite était généralement accompli par les frères et soeurs aînés ou par les anciens de la famille. Ils tenaient une tige de bambou, frappaient le sol, faisaient beaucoup de bruit et adoptaient des gestes puissants. Fait intéressant, au fil de l'évolution des formules rituelles, la peur de chasser le danger s'est peu à peu transformée en bénédiction. Les paroles ne se contentaient plus de souhaiter que l'aigle s'éloigne : elles demandaient aussi que l'enfant puisse un jour « devenir fonctionnaire », « réussir l'examen impérial » ou « devenir vite père » [^2]. Ce passage de l'« exorcisme » à la « bénédiction » incarne l'une des mutations les plus chaleureuses du folklore taïwanais.
+Ce rituel était généralement exécuté par les frères, sœurs ou aînés de la famille, frappant le sol avec un bâton de bambou d'un geste vigoureux et d'une voix sonore. Fait intéressant, avec l'évolution des incantations, la peur du chasse a progressivement laissé place à la bénédiction. Les formules ne se contentaient plus de souhaiter que l'aube s'éloigne, mais priaient pour que l'enfant devienne « haut fonctionnaire », « lauréat » ou « futur père » [^2]. Ce passage de l'« exorcisme » à la « bénédiction » constitue l'une des mutations les plus chaleureuses du folklore taïwanais.
 
-## Rasage et courage : construire les « défenses » de la vie
+## Tonsure et rituel du courage : bâtir la « défense » de la vie
 
-Le principal rite matériel accompli le jour du premier mois est le « rasage des cheveux de naissance ». Il ne vise pas seulement à rendre les futurs cheveux plus épais : il porte aussi une signification religieuse de « rejet de l'ancien et accueil du nouveau ».
+Le rituel physique le plus important le jour du premier mois est la « tonsure du premier mois » (couper les cheveux de naissance). Il ne s'agit pas seulement de favoriser une chevelure future plus dense, mais cela revêt une signification religieuse de « renouveau ».
 
-Dans la bassine utilisée pour le rasage, les aînés plaçaient les « dix objets rituels », chacun doté d'une valeur symbolique :
+Dans le bassin de tonsure, les aînés déposaient les « dix présents », chacun ayant sa propre symbolique :
 
-- **Pierre** : souhaiter que l'enfant ait une « tête solide », c'est-à-dire un crâne dur, et qu'il grandisse avec du courage [^3].
-- **Oeuf de poule rouge et oeuf de cane rouge** : demander un teint clair et rosé comme l'oeuf de poule, et un corps robuste comme l'oeuf de cane [^3].
-- **Ciboule et céleri** : jeux d'homophonie avec « intelligence » et « assiduité » [^3].
-- **Riz** : symbole d'abondance en vêtements et en nourriture [^3].
-- **Pièces de cuivre** : symbole de grande richesse et d'aisance matérielle pour l'avenir [^4].
+- **Une pierre** : pour que le crâne de l'enfant soit « solide » (_tóu-khak tēng_) et qu'il ait du courage en grandissant [^3].
+- **Œufs rouges et œufs de canard rouges** : pour prier pour un teint aussi blanc et rosé qu'un œuf, et une constitution aussi robuste qu'un œuf de canard [^3].
+- **Oignons verts et céleri** : jeu de mots symbolisant l'intelligence (_cōng-míng_) et la diligence (_qín-láo_) [^3].
+- **Riz** : symbole d'une vie d'abondance alimentaire [^3].
+- **Pièces de monnaie** : symbole de richesse et de prospérité, garantissant que l'enfant ne manquera jamais de rien [^4].
 
-Le rite dit du « renforcement du courage » est particulièrement notable. Les aînés faisaient rouler doucement des oeufs de poule et de cane autour du bébé, puis plaçaient une pierre ronde dans la bassine en récitant : « Que la pierre te serve de courage, que ta tête soit solide », afin que l'enfant ait de la bravoure et soit facile à élever [^9]. Cela reflète la peur ancienne de l'« effroi » : seul un enfant doté de courage pouvait survivre dans un environnement rempli d'inconnu.
+Particulièrement emblématique est le rituel du _zuò-dǎn_ (faire le courage) : les aînés faisaient rouler doucement des œufs de poule et de canard autour du bébé, puis plaçaient une pierre ronde dans le bassin en récitant : « Que la pierre te donne du courage, que ton crâne soit dur », priant ainsi pour que l'enfant soit courageux et facile à élever [^9]. Cela reflète la peur des aléas de la société primitive : seul un enfant courageux pouvait survivre dans un environnement incertain.
 
-## Circulation des cadeaux de miyue : du riz gluant à l'huile aux gâteaux français
+## La circulation des cadeaux de célébration : du riz à l'huile aux gâteaux français
 
-Lorsque l'on se tourne vers le présent, le changement le plus visible dans les coutumes du premier mois concerne la nourriture.
+En regardant vers la modernité, le changement le plus frappant des coutumes du premier mois réside dans l'alimentation.
 
-Traditionnellement, pour la naissance d'un garçon, on offrait du « riz gluant à l'huile avec une cuisse de poulet » ; pour la naissance d'une fille, on offrait des « gâteaux tortue rouges ». Le riz gluant à l'huile symbolisait l'abondance, tandis que la cuisse de poulet représentait une forte vitalité [^5]. Cependant, avec la généralisation de la livraison réfrigérée et les transformations des modes de vie, les choix des parents contemporains ne sont plus limités par ce cadre genré.
+Traditionlarment, on offrait du « riz à l'huile et un pilon de poulet » (_yóufàn_ et _jītuǐ_) pour une naissance masculine, et des « gâteaux de tortue rouges » (_hóngguīguǒ_) pour une naissance féminine. Le riz à l'huile symbolisait l'abondance, tandis que le pilon de poulet représentait une force vitale robuste [^5]. Cependant, avec la généralisation de la livraison réfrigérée et l'évolution des modes de vie, les choix des parents modernes ne sont plus limités par le genre.
 
-Ces dernières années, un nombre croissant de nouveaux parents privilégient les « coffrets de miyue à température ambiante » ou les « biscuits d'organisations d'intérêt général » [^6]. Ce choix facilite la livraison, mais il reflète aussi la volonté des parents modernes de relier la naissance de leur enfant à des valeurs de « bien commun ». Madeleines françaises et cakes raffinés remplacent peu à peu le riz gluant traditionnel et deviennent les images les plus remarquées sur les réseaux sociaux.
+Ces dernières années, de plus en<0xC2>apt, les nouveaux parents privilégient les « coffrets de célébration à température ambiante » ou les « biscuits pour œuvres caritatives » [^6]. Outre la commodité de livraison, cela reflète une valeur moderne : lier la naissance de l'enfant au « bien commun social ». Les madeleines françaises et les gâteaux de type _pound cake_ remplacent progressivement le traditionnel riz à l'huile, devenant les éléments les plus esthétiques sur les réseaux sociaux.
 
-Les choix de cadeaux de miyue sont aujourd'hui plus diversifiés. Outre le riz gluant et les gâteaux traditionnels, couches, vêtements, lingettes, bijoux en or et autres cadeaux pratiques sont devenus des options populaires. Quant aux montants des enveloppes rouges offertes par les proches et amis pour le premier mois, ils varient selon la proximité de la relation : environ 600 à 1 200 dollars taïwanais pour des proches ordinaires, et de 1 200 à 3 600 dollars taïwanais pour des amis intimes ou des parents proches [^10].
+Le choix des cadeaux est également devenu plus diversifié : en plus du riz et des gâteaux, les couches, les vêtements, les lingettes et les bijoux en or sont devenus des options populaires. Quant aux montants des enveloppes rouges (_hóngbāo_) entre proches, ils varient selon la proximité : environ 600 à 1 200 TWD pour les connaissances, et de 1 200 à 3 600 TWD pour les amis proches ou la famille [^10].
 
-📝 Note de curation : l'évolution des cadeaux de miyue est en réalité un condensé du passage de la société taïwanaise d'une logique « centrée sur la famille » à une logique « centrée sur les relations sociales ». La boîte de douceurs envoyée par les parents est à la fois une annonce heureuse et une démonstration de goût de vie.
+📝 Note du commissaire : L'évolution des cadeaux de célébration est un microcosme du passage de la société taïwanaise d'un modèle « familial » à un modèle « social » : le coffret offert par les parents est à la fois une annonce de joie et une démonstration de style de vie.
 
-## Défis contemporains : la négociation des rites entre générations
+## Défis modernes : négociation intergénérationnelle des coutumes
 
-Même si les coutumes évoluent, les chocs de valeurs entre générations demeurent. Beaucoup d'aînés tiennent au « renforcement du courage au troisième jour » ou à l'ampleur du « banquet du premier mois », tandis que les parents modernes préfèrent souvent de petites réunions ou une simple annonce en ligne [^7].
+Bien que les coutron s évoluent, des frictions idéologiques entre générations persistent. De nombreux aînés insistent sur l'importance du rituel du « troisième jour » ou de la « fête du premier mois », tandis que les parents modernes préfèrent des réunions restreintes ou une simple annonce en ligne [^7].
 
-Ces conflits apparaissent souvent dans les détails des « cadeaux en retour ». Dans les coutumes traditionnelles, la famille maternelle devait préparer, le jour du premier mois, des « cadeaux de la tête aux pieds » : vêtements et accessoires couvrant l'enfant de la tête aux pieds, comme bonnet, chaussures et chaussettes, porte-bébé, cadenas en or ou bracelets en or. On y brodait aussi le caractère « 卍 », symbole de paix et de protection, avant de les offrir au petit-enfant né de la fille [^9]. Les parents modernes, toutefois, peuvent préférer recevoir directement un fonds pratique pour l'éducation de l'enfant [^8]. Ce passage du « cadeau matériel » au « cadeau pratique » est l'un des visages réels de la culture taïwanaise de la petite enfance à l'ère numérique.
+Ce conflit se manifeste souvent dans les détails des « cadeaux de retour ». Dans la tradition, la famille maternelle prépare le _tóu-wěi-lǐ_ (cadeaux de la tête aux pieds : chapeau, chaussettes, porte-bébé, pendentifs en or, etc.), brodés d'un symbole de protection (_卍_), pour le petit-enfant [^9]. Cependant, les parents modernes préfèrent souvent recevoir directement des fonds pratiques pour l'éducation [^8]. Ce passage du « cadeau matériel » au « cadeau utilitaire » est le visage réel de la culture parentale taïwanaise à l'ère numérique.
 
-Par ailleurs, certains interdits traditionnels méritent attention. Par exemple, avant le premier mois, l'immunité du nourrisson étant plus faible, il ne convient pas de recevoir des visiteurs trop tôt ; traditionnellement, on évite aussi de raser la tête pendant le septième mois lunaire ; il existe même l'idée selon laquelle « si une fille naît, on n'offre pas de porte-bébé », car le terme sonne comme « mille pièces d'or », afin d'éviter que l'enfant suivant soit encore une fille [^9]. Tous ces détails montrent les différences et les négociations entre générations dans la manière de bénir une vie nouvelle.
+De plus, certaines tabous traditionnels restent notables. Par exemple, l'immunité étant faible durant le premier mois, il est déconseillé de recevoir trop de visites ; on évite traditionnellement la tonsure durant le septième mois lunaire ; et il existe même un dicton disant qu'il ne faut pas offrir de porte-bébé pour une fille (phonétiquement proche de « princesse ») afin d'éviter d'avoir une autre fille au prochain enfant [^9]. Tous ces détails reflètent la négociation des manières de bénir une nouvelle vie entre les générations.
 
-## Conclusion : un coeur protecteur inchangé
+## Conclusion : l'immuable désir de protection
 
-Depuis les cris adressés à l'aigle dans le ciel jusqu'au partage, sur l'écran d'un téléphone, de photos de gâteaux de miyue, les coutumes taïwanaises du premier mois ont profondément changé de forme ; leur noyau, pourtant, demeure inchangé : une protection offerte à la vie nouvelle dans sa forme la plus pure.
+De l'appel aux aigles vers le ciel à l'exposition de photos de gâteaux sur un écran de smartphone, bien que les formes des coutumes du premier mois à Taïwan aient radicalement changé, le cœur demeure inchangé : c'est l'expression la plus pure de la protection envers une nouvelle vie.
 
-Qu'il s'agisse de l'ancienne formule de la « tête solide » ou du moderne « coffret solidaire », tous ces rites disent à l'enfant une même chose : ce monde est prêt à vous accueillir.
+Qu'il s'agisse de l'antique « crâne solide » ou des modernes « coffrets caritatifs », tous ces rituels disent à l'enfant : ce monde est prêt à t'accueillir.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [做滿月儀式全攻略！剃頭、拜床母、娘家送頭尾 - 拜出好運來](https://www.bailucky.com/full-month)
-- [新生兒滿月習俗懶人包：從取名禁忌到剃胎毛、彌月禮 - 媽媽寶寶](https://www.mababy.com/knowledge-detail?id=12565)
+- [Guide complet des rituels du premier mois ! Tonsure, visite de la marraine, cadeaux de la famille maternelle - Bai Chu Hao Yun Lai](https://www.bailucky.com/full-month)
+- [Guide pratique des coutumes du premier mois pour nouveau-né : des tabous du nom à la tonsure et aux cadeaux - Mama Baby](https://www.mababy.com/knowledge-detail?id=12565)
 
 ## Références
 
-[^1]: [嬰兒滿月必做！喊鴟鴞禮俗來源大公開 - 寶島神很大](https://baodao.setn.com/news/695321) — Présente l'origine du rite de « l'appel au hibou-aigle » pour le premier mois, ses formules et son arrière-plan dans la société agricole.
+[^1]: [Indispensable pour le premier mois de bébé ! Origines de la coutume de l'appel aux aigles révélées - Baodao Shen Hendan](https://baodao.setn.com/news/695321) — Présente l'origine, les incantations et le contexte agraire du rituel.
 
-[^2]: [寶寶習俗大揭開：收涎、彌月、抓周的百年傳承與意義 - 媽媽寶寶](https://www.mombaby.com.tw/articles/296) — Explique l'évolution des rites de la petite enfance, de l'éloignement des mauvais esprits à la bénédiction.
+[^2]: [Dévoilement des coutumes pour bébé : transmission séculaire du _shou-xian_ au _zhua-zhou_ - Mama Baby](https://www.mombaby.com.tw/articles/296) — Explique l'évolution des rites de l'exorcisme vers la bénédiction.
 
-[^3]: [滿月剃頭十禮意義與儀式 - 傳家手工印章](https://www.bestbaby.com.tw/one_month/article_17) — Détaille la signification symbolique des « dix objets rituels » placés dans la bassine de rasage : pierre, oeufs rouges, ciboule, riz, etc.
+[^3]: [Signification et rituel des dix présents de la tonsure du premier mois - Chuanjia Handmade Stamp](https://www.bestbaby.com.tw/one_month/article_17) — Détaille la symbolique des « dix présents » (pierre, œuf rouge, oignon, riz, etc.).
 
-[^4]: [0～4個月寶寶生命禮俗：滿月、剃胎毛、收涎，過去現代做法比一比 - LINE TODAY](https://today.line.me/tw/v3/article/Pqkg6V) — Compare les pratiques traditionnelles et contemporaines des rites du premier mois, du rasage des cheveux de naissance et du rite de la salive.
+[^4]: [Rites de vie pour bébés de 0 à 4 mois : premier mois, tonsure, _shou-xian_, comparaison entre passé et présent - LINE TODAY](https://today.line.me/tw/v3/article/Pqkg6V) — Compare les pratiques traditionnelles et modernes.
 
-[^5]: [滿月是什麼呢？彌月習俗大揭密！傳統與現代的對比 - 伊莎貝爾](https://shop.isabelle.com.tw/pages/%E5%BD%8C%E6%9C%88%E7%BF%92%E4%BF%97) — Explique les symboliques genrées des cadeaux traditionnels de miyue, notamment le riz gluant à l'huile et les gâteaux tortue rouges.
+[^5]: [Qu'est-ce que le premier mois ? Secrets des coutumes de célébration ! Comparaison tradition et modernité - Isabelle](https://shop.isabelle.com.tw/pages/%E5%BD%8C%E6%9C%88%E7%BF%92%E4%BF%97) — Explique la symbolique de genre du riz à l'huile et des gâteaux de tortue.
 
-[^6]: [彌月禮盒什麼時候送？滿月習俗、紅包行情與 3 大地雷解析 - 奇妮 GENNIE'S](https://www.gennies.com/zh-TW/blogs/postpartum-care/full-month-gift-timing-red-envelope) — Présente les tendances des coffrets de miyue modernes, y compris les options à température ambiante et solidaires, ainsi que le moment approprié pour les offrir.
+[^6]: [Quand envoyer un coffret de célébration ? Analyse des tendances, enveloppes rouges et 3 erreurs à éviter - GENNIE'S](https://www.gennies.com/zh-TW/blogs/postpartum-care/full-month-gift-timing-red-envelope) — Présente les tendances actuelles (température ambiante, options caritatives) et le moment opportun pour offrir.
 
-[^7]: [滿月儀式怎麼兼顧世代差異？古今習俗、送禮形式完整解析 - Babyface 手工烘焙](https://www.babyfacebakery.com.tw/news-detail/baby-full-moon-ceremony) — Analyse les différences de conception entre générations concernant l'ampleur et les formes des rites du premier mois.
+[^7]: [Comment concilier différences générationnelles lors du rituel du premier mois ? Analyse complète des formes de cadeaux - Babyface Handmade Baking](https://www.babyfacebakery.com.tw/news-detail/baby-full-moon-ceremony) — Explore les divergences de vues sur l'ampleur des célébrations.
 
-[^8]: [彌月習俗到底有多講究？出生到滿月習俗完整指南 - 福寶寶](https://fubaobau.com.tw/babycustom/) — Recense l'ensemble des coutumes de la naissance au premier mois et les tendances modernes à la simplification.
+[^8]: [À quel point les coutumes du premier mois sont-elles élaborées ? Guide complet de la naissance au premier mois - Fubao](https://fubaobau.com.tw/babycustom/) — Récapitule les coutumes complètes et la tendance à la simplification moderne.
 
-[^9]: [做滿月儀式全攻略！剃頭、拜床母、娘家送頭尾 - 拜出好運來](https://www.bailucky.com/full-month) — Explique le « renforcement du courage » par la pierre, les cadeaux « de la tête aux pieds » brodés du caractère 卍 offerts par la famille maternelle, ainsi que les interdits liés au premier mois.
+[^9]: [Guide complet des rituels du premier mois ! Tonsure, visite de la marraine, cadeaux de la famille maternelle - Bai Chu Hao Yun Lai](https://www.bailucky.com/full-month) — Explique le rituel du courage (_zuo-dan_), les cadeaux maternels et les tabous associés.
 
-[^10]: [滿月紅包行情表！生小孩賀詞寫法、送禮推薦與禁忌 - 奇奇筆記](https://kikinote.net/55425) — Recense les montants usuels des enveloppes rouges de miyue selon le degré de proximité, ainsi que les options et interdits des cadeaux modernes.
+[^10]: [Tableau des montants pour les enveloppes rouges du premier mois ! Félicitations, recommandations de cadeaux et tabous - Qiqi Notes](https://kikinote.net/55425) — Récapitule les montants selon la proximité familiale et les options modernes.

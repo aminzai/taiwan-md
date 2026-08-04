@@ -1,86 +1,87 @@
 ---
-title: "Mazu et Baoshengdadi : la légende d'amour la plus romantique de Taïwan"
-description: '« La pluie de Mazu, le vent de Baoshengdadi » — derrière ce dicton météorologique se cache une passion tumultueuse entre deux divinités'
+title: "La légende d'amour entre Mazu et Da Dao Gong : la prévision météorologique la plus romantique de Taïwan"
+description: "« Le vent de Da Dao Gong, la pluie de Mazu » n'est pas qu'un proverbe météo ; il cache une histoire d'amour et de rancœur entre divinités."
 date: 2026-03-21
+category: 'Culture'
 tags:
   [
-    'culture taïwanaise',
+    'Culture taïwanaise',
     'croyances populaires',
     'Mazu',
-    'Baoshengdadi',
+    'Baosheng Dadi',
     'proverbes météorologiques',
   ]
-subcategory: 'Religion et folklore'
-category: 'Culture'
+subcategory: '宗教與民俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Culture/媽祖與大道公的傳說.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:e0f0df37674e0a42'
 sourceBodyHash: 'sha256:0cf1fac1d7c9b8b4'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-08-04T17:39:49+08:00'
 ---
 
-> **En 30 secondes** : chaque année, le vent souffle immanquablement le 15e jour du 3e mois lunaire — anniversaire de Baoshengdadi — et la pluie tombe tout aussi fidèlement le 23e jour, anniversaire de Mazu. Le dicton taïwanais « le vent de Baoshengdadi, la pluie de Mazu » consigne des siècles d'observations météorologiques. Mais la tradition populaire y voit surtout les séquelles d'une histoire d'amour inachevée entre deux divinités.
+> **Aperçu en 30 secondes** : Chaque année, le vent souffle impérativement lors de l'anniversaire de Baosheng Dadi (le 15 du troisième mois lunaire), et la pluie tombe sans faute lors de celui de Mazu (le 23 du même mois). Les Taïwanais utilisent le proverbe « Le vent de Da Dao Gong, la pluie de Mazu » pour enregistrer ces cycles météorologiques millénaires. Cependant, la légende populaire raconte qu'il s'agit de l'histoire d'un amour inachevé entre deux divinités.
 
-À Taïwan, un proverbe météorologique circule depuis des générations : « le vent de Baoshengdadi, la pluie de Mazu ». Cette formule ne se contente pas de décrire le temps qu'il fait — elle porte en elle l'une des plus belles histoires d'amour de la croyance populaire taïwanaise : les tourments d'un dieu et d'une déesse dont la querelle se rejoue chaque printemps dans la tempête.
+À Taïwan, un proverbe météorologique circule depuis très longtemps : « Le vent de Da Dao Gong, la pluie de Mazu ». Cette expression n'est pas seulement une observation des phénomènes climatiques ; elle porte en elle l'une des histoires d'amour les plus émouvantes des croyances populaires taïwanaises — un conflit passionné entre deux divinités protectrices, qui se rejoue chaque année au gré du vent et de la pluie printanière.
 
-## Les origines des deux divinités
+## L'origine des deux divinités
 
-Mazu, née Lin Moniang sous la dynastie Song, était une femme originaire de Meizhou. Elle périt en sauvant des marins en détresse et fut élevée au rang de déesse protectrice des mers. Baoshengdadi, né Wu Ben, surnommé Huaji, était un médecin de génie originaire de Tong'an, dans le Fujian, à l'époque des Song du Nord. Vénéré comme le Grand Dieu de la Vie Préservée, il occupe une place centrale dans le panthéon médical populaire de Taïwan.
+Mazu, de son vrai nom Lin Mo-niang, était une femme de Meizhou durant la dynastie Song. Devenue divinité après s'être sacrifiée pour sauver des naufragés, elle est vénérée comme la protectrice des mers. Da Dao Gong (nom honorifique de Baosheng Dadi), de son vrai nom Wu Ben (dit Hua-ji), était originaire de Tong'an, dans la région de Quanzhou, sous la dynastie Song du Nord. Expert en médecine, il est connu sous le nom de Baosheng Dadi (_l'Empereur qui sauve les vies_) et occupe une place centrale en tant que divinité de la médecine dans la foi populaire taïwanaise.
 
-Ces deux divinités partagent la même origine dans le Fujian méridional et jouissent d'une importance considérable dans la croyance taïwanaise. Mazu veille sur la sécurité des pêcheurs en mer ; Baoshengdadi guérit les malades. Chacun dans son domaine, rien ne semblait devoir les unir. Pourtant, l'imaginaire populaire a tissé entre eux une histoire d'amour traversant le monde des vivants et celui des esprits.
+Ces deux divinités sont originaires du Minnan (sud du Fujian) et occupent des fonctions cruciales dans le panthéon taïwanais. Mazu veille à la sécurité des pêcheurs en mer, tandis que Da Dao Gong guérit les malades ; chacun exerçait initialement son devoir sans interférer avec l'autre. Pourtant, l'imaginaire populaire a tissé entre eux une romance transcendant les mondes terrestre et divin.
 
-## Un amour rejeté, une blessure éternelle
+## La tragédie d'une demande en mariage refusée
 
-Selon la légende, après leur déification, Mazu et Baoshengdadi sillonnaient régulièrement les côtes pour porter secours aux victimes de typhons ou d'épidémies. Ces missions de secours les amenaient fréquemment à se croiser. Peu à peu, Baoshengdadi fut touché par la compassion et la beauté de Mazu, et tomba éperdument amoureux d'elle.
+Selon la légende, après leur ascension céleste, Mazu et Da Dao Gong effectuaient souvent des patrouilles le long des côtes pour secourir les populations victimes de typhons ou d'épidémies. Lors de ces interventions, leurs chemins se croisèrent fréquemment. Da Dao Gong fut peu à peu épris de la compassion et de la beauté de Mazu, tombant littéralement sous son charme.
 
-Un jour, il rassembla son courage pour lui faire sa déclaration. Elle la repoussa avec sévérité. Mazu lui reprocha de se laisser emporter par des sentiments indignes d'une divinité, et plus encore de se laisser distraire de leur mission sacrée de protéger les mortels. Blessé dans son orgueil et craignant que Mazu ne rapporte l'incident à l'Empereur de Jade, Baoshengdadi repartit avec, en lui, un mélange d'amertume et d'inquiétude.
+Un jour, Da Dao Gong prit son courage à deux mains pour demander la main de Mazu, mais elle le refusa catégoriquement. Mazu lui reprocha qu'en tant que divinité, il ne devait pas céder aux désirs mondains, et encore moins se laisser distraire de sa mission sacrée de sauvetage. Blessé par ce rejet, Da Dao Gong oscilla entre la colère et l'inquiétude, craignant que Mazu ne rapporte cet incident à l'Empereur de Jade, ce qui entraînerait des conséquences graves pour lui.
 
-Dès lors, leur relation prit un tour ambigu et tendu. L'amour non partagé se mua en rancœur, et Baoshengdadi commença à guetter l'occasion de se venger.
+Dès lors, leur relation devint subtile et tendue ; l'amour de Da Dao Gong se mua en rancœur, et il commença à chercher l'occasion de se venger.
 
-## La bataille de vent et de pluie du 3e mois lunaire
+## La guerre de vent et de pluie du troisième mois lunaire
 
-Le point de rupture survint le 23e jour du 3e mois lunaire, anniversaire de Mazu. Ce jour-là, alors que la déesse partait en procession, Baoshengdadi saisit l'occasion et déchaîna une pluie torrentielle, la trempant jusqu'aux os et la couvrant de ridicule.
+Le point de rupture survint le 23 du troisième mois lunalement, jour de l'anniversaire de Mazu. Alors que la déesse entamait sa procession, Da Dao Gong vit là l'opportunité de sa vengeance. Il utilisa ses pouvoirs pour déclencher une pluie torrentielle, laissant Mazu totalement trempée et désemparée.
 
-Mazu comprit aussitôt de qui venait ce mauvais coup. Elle décida de lui rendre la pareille. L'année suivante, le 15e jour du même mois — anniversaire de Baoshengdadi —, elle fit se lever un vent violent qui arracha le couvre-chef officiel du dieu et sema la pagaille dans son cortège.
+Mazu, calculant l'origine du phénomène, comprit le subterfuge de Da Dao Gong et décida de rendre la pareille. L'année suivante, lors de l'anniversaire de Da Dao Gong (le 15 du troisième mois), Mazu invoqua un vent violent qui fit s'envoler le chapeau officiel de Da Dao Gong, semant le chaos dans sa procession.
 
-Depuis lors, le vent souffle chaque année le 15 du 3e mois lunaire et la pluie tombe le 23. Cette régularité est devenue le bulletin météo le plus fiable du printemps taïwanais. Le dicton populaire dit : « Le 15, le vent de Baoshengdadi ; le 23, la pluie de Mazu. »
+Depuis ce jour, le vent souffle systématiquement le 15 du troisième mois lunaire et la pluie tombe le 23, faisant de cette séquence la prévision météorologique la plus précise du printemps taïwanais. La tradition dit ainsi : « Le 15 du troisième mois, c'est le vent de Da Dao Gong ; le 23 du troisième mois, c'est la pluie de Mazu ».
 
-## La culture du « nettoyage du chemin »
+## La dimension sacrée de la culture du « nettoyage des routes »
 
-Il existe toutefois une lecture plus bienveillante de ces phénomènes météorologiques. Dans la tradition taïwanaise, on les appelle le « lavage du chemin » ou « lavage de la voie sacrée ». Les fidèles y voient un geste rituel : avant leur procession, les divinités font descendre la pluie pour purifier la route de toute poussière et préparer dignement leur passage.
+Il est intéressant de noter que les Taïwanais proposent une autre interprétation de ces intempéries lors des processions divines : la culture du _xǐ lù_ (nettoyage des routes) ou _xǐ xiāng lù_ (nettoyage du chemin de l'encens). Les fidèles considèrent que les divinités font tomber la pluie avant leur procession pour laver la poussière du territoire et préparer le passage sacré.
 
-Cette conception ne s'applique pas seulement à Mazu et Baoshengdadi. D'autres divinités sont associées à des phénomènes similaires. Ainsi, les fidèles du dieu protecteur Baoyizunwang expliquent que la pluie qui précède sa procession chasse les nuisibles des cultures, en accord avec son rôle de gardien de l'agriculture.
+Ce concept de « nettoyage » ne s'applique pas qu'à Mazu et Da Dao Gong. Par exemple, les dévots de Baoyi Zunwang (le Roi Protecteur) expliquent que les fortes pluies servent à chasser les insectes nuisibles des cultures, conformément à son rôle de divinité protectrice de l'agriculture.
 
-Vu sous un angle pratique, une averse avant une procession a ses avantages : elle rafraîchit l'air et rend plus agréable la participation des fidèles à la célébration. Cette fusion entre observation naturelle et culture religieuse illustre bien la sagesse populaire taïwanaise.
+D'un point de vue pragmatique, une pluie avant une procession est bénéfique : elle fait baisser la température et apporte de la fraîcheur, rendant l'expérience plus agréable pour les fidèles participant aux festivités. Cette fusion entre phénomène naturel et culture religieuse illustre la sagesse des croyances populaires taïwanaises.
 
-## Une querelle qui traverse les siècles
+## La persistance moderne de cette rivalité amoureuse
 
-Dans certaines versions de la légende, la rivalité entre les deux divinités se teinte de nuances supplémentaires. Le jour de l'anniversaire de Mazu, la pluie que fait tomber Baoshengdadi aurait pour but de lui laver le visage de ses fards et de montrer aux fidèles son vrai visage. Et le vent que déchaîne Mazu le jour de l'anniversaire de Baoshengdadi viserait à révéler le corps martyrisé du dieu — car celui-ci, pour sauver ses patients, avait jadis fait migrer leurs plaies et leurs tumeurs sur sa propre chair.
+Dans certaines versions du récit, le « duel magique » entre Da Dao Gong et Mazu est encore plus nuancé. Lors de l'anniversaire de Mazu, la pluie de Da Dao Gong servirait à effacer le fard de la déesse pour que les fidèles voient son visage véritable. À l'inverse, lors de l'anniversaire de Da Dao Gong, le vent de Mazu viserait à révéler ses blessures (car, pour sauver les malades, Da Dao Gong aurait absorbé leurs pustules et infections sur sa propre peau).
 
-Ces provocations mutuelles mêlent l'amertume du rejet et une attention persistante l'un envers l'autre. Comme on dit à l'époque contemporaine : « Le contraire de l'amour, ce n'est pas la haine, c'est l'indifférence. » Baoshengdadi et Mazu continuent de se parler par le vent et la pluie, preuve qu'ils n'ont jamais cessé de penser l'un à l'autre.
+Ce comportement de « sabotage mutuel » mêle la rancœur du rejet amoureux à une forme d'attention indélébile envers l'autre. Comme le dit l'expression moderne : « Le contraire de l'amour n'est pas la haine, mais l'indifférence ». Da Dao Gong et Mazu continuent de dialoguer par le vent et la pluie, prouvant qu'ils ne se sont jamais oubliés.
 
-## Un fondement scientifique au proverbe
+## Fondements scientifiques du proverbe
 
-Si la légende est touchante, le phénomène météorologique décrit dans le proverbe repose bel et bien sur une réalité climatique. Le 3e mois lunaire correspond au printemps taïwanais, période de transition entre la mousson du nord-est et celle du sud-ouest. Les systèmes météorologiques changent rapidement, favorisant les coups de vent et les précipitations soudaines.
+Bien que l'histoire d'amour soit touchante, le phénomène météorologique lié à ce proverbe repose sur des bases scientifiques réelles. Le troisième mois lunaire correspond au printemps taïwanais, une période de transition où la mousson du nord-est cède la place à la mousson du sud-ouest. Ce changement de système climatique entraîne une forte instabilité, propice aux vents violents et aux précipitations.
 
-Les anciens Taïwanais, observateurs attentifs de leur environnement, avaient repéré cette régularité et l'avaient gravée dans la mémoire collective sous forme de récit mythologique. Intégrer l'observation scientifique dans la culture religieuse, voilà l'une des expressions les plus remarquables de la sagesse populaire de Taïwan.
+Les ancêtres de Taïwan avaient observé cette régularité avec finesse et ont utilisé le récit des divinités pour mémoriser et transmettre ces connaissances météorologiques. Cette intégration de l'observation scientifique dans la culture religieuse est une parfaite illustration de la sagesse populaire taïwanaise.
 
 ## L'espoir d'une réconciliation
 
-Dans la tradition populaire, si le vent et la pluie se font discrets les jours anniversaires des deux divinités, les fidèles concluent avec soulagement : « Cette année, Baoshengdadi et Mazu se sont réconciliés ! » Cet espoir optimiste trahit le désir profondément taïwanais d'un dénouement heureux.
+Dans les légendes, si une année le vent et la pluie sont calmes lors de l'anniversaire de l'un ou l'autre, les fidèles s'exclament : « Cette année, Da Dao Gong et Mazu se sont réconciliés ! ». Cet optimisme reflète l'aspiration des Taïwanais à une issue heureuse.
 
-Chaque printemps, lorsque le vent et la pluie reviennent à l'heure dite, les Taïwanais ne pensent pas seulement aux caprices du temps — ils songent à cette histoire d'amour immortelle, où les sentiments défient la mort, où la rancœur traverse les millénaires, mais où l'on espère toujours que les amants finissent par se retrouver.
+Chaque printemps, quand le vent et la pluie arrivent comme prévu, les Taïwanais ne pensent pas seulement au changement de temps, mais aussi à cette éternelle histoire d'amour. Dans ce récit, l'amour peut transcender la vie et la mort, et la rancœur peut durer des millénaires, mais au fond, tout le monde espère que les amants finiront par se retrouver.
 
-Peut-être qu'un jour, quand le printemps se fera plus clément, nous saurons que Mazu et Baoshengdadi ont enfin déposé le poids de mille ans de querelle. Ce printemps-là sera plus doux sur l'île, parce que les dieux qui la gardent auront finalement appris ce qu'est le véritable amour.
+Peut-être qu'un jour, quand le vent et la pluie printaniers ne seront plus aussi ponctuels, nous saurons que Mazu et Da Dao Gong auront enfin déposé leurs griefs pour se réconcilier dans les cieux. Et ce jour-là, le printemps de Taïwan sera plus doux, car les divinités qui protègent cette terre auront enfin appris ce qu'est le véritable amour.
 
 ## Références
 
-- [為何媽祖出巡一定下雨，大道公出巡會颳風？他揭2神明間的愛恨情仇，背後竟藏不為人知的愛情故事](https://www.storm.mg/lifestyle/3592930)
-- [趣談「大道公風，媽祖婆雨」](https://www.scooptw.com/thinktank/sightsee/136513/)
-- [大道公與媽祖婆\_關於保生大帝](http://baosheng.org.tw/show.asp?id=79)
-- [保生大帝 - 維基百科](https://zh.wikipedia.org/zh-tw/保生大帝)
-- [曾與媽祖談戀愛？「大道公風、媽祖婆雨」醫神保生大帝今生日必刮風？](https://today.line.me/tw/v2/article/nX57WNq)
+- [Pourquoi la procession de Mazu apporte-t-elle toujours la pluie et celle de Da Dao Gong le vent ? Il révèle l'histoire d'amour cachée derrière la rivalité des deux divinités](https://www.storm.mg/lifestyle/3592930)
+- [Anecdote sur « Le vent de Da Dao Gong, la pluie de Mazu »](https://www.scooptw.com/thinktank/sightsee/136513/)
+- [Da Dao Gong et Mazu : À propos de Baosheng Dadi](http://baosheng.org.tw/show.asp?id=79)
+- [Baosheng Dadi - Wikipédia](https://zh.wikipedia.org/zh-tw/保生大帝)
+- [A-t-il déjà été amoureux de Mazu ? Le vent et la pluie du dieu de la médecine Baosheng Dadi marquent son anniversaire aujourd'hui](https://today.line.me/tw/v2/article/nX57WNq)

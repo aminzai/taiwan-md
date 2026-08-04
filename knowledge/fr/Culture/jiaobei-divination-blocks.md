@@ -1,70 +1,71 @@
 ---
-title: 'Les bols divinatoires : derrière les 50 % de probabilité, la voix des dieux'
-description: "De l'artisan chiaïen Huang Yi-Hsun et sa passion pour les bols en racine de bambou, au record légendaire de 20 saints jetés valant 3 millions de dollars au temple Citian de Pingtung — une exploration de la probabilité et de la chaleur humaine dans la communication entre Taïwanais et divinités."
-category: Culture
-tags: [croyances populaires, artisanat traditionnel, bols divinatoires]
-subcategory: 'Religion et folklore'
-author: 'Taiwan.md Contributors'
+title: 'Le *Jiàobēi* : entendre la voix des divinités derrière une probabilité de 50 %'
+description: "De la persévérance de l'artisan Huang Yi-xun à Kaohsiung jusqu'à la légende des 20 *shèngbāo* consécutifs au temple Cítiān à Pingtung, exploration de la ferveur et du hasard dans la communication entre Taïwan et le divin."
 date: 2026-03-27
-readingTime: 8
+category: 'Culture'
+tags: ['Croyances populaires', 'Artisanat traditionnel', 'Jiàobēi']
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Culture/擲筊.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
-translatedAt: '2026-04-14T19:13:02+08:00'
-featured: false
+translatedAt: '2026-08-04T17:32:12+08:00'
 ---
 
-> **En 30 secondes :**
-> Les bols divinatoires — en taïwanais _jiaobei_ — constituent le rituel de « communication entre humains et divinités » le plus répandu dans les croyances populaires de Taïwan. Ces deux plaquettes en demi-lune de bois ne sont pas seulement une curiosité statistique ; elles représentent un artisanat traditionnel au bord de la disparition. À travers la persévérance de l'artisan chiaïen Huang Yi-Hsun et son attachement aux bols taillés en racine de bambou, on perçoit comment les Taïwanais échangent, par ce médium matériel, leurs angoisses et leurs espoirs avec le divin.
+> **Aperçu en 30 secondes :**
+> Le _jiàobēi_ (筊杯) est le rituel de « communication entre l'homme et le divin » le plus répandu dans les croyances populaires de Taïwan. Ces deux blocs de bois en forme de demi-lune ne portent pas seulement une dimension statistique fascinante, ils représentent aussi un artisanat traditionnel menacé de disparition. À travers la persévérance de l'artisan Huang Yi-xun (黃奕薰) de Kaohsiung pour les _zhútóujiāo_ (竹頭筊), nous découvrons comment les Taïwanais utilisent la matière pour échanger leurs incertitudes et leurs espoirs avec les divinités.
 
-En juillet 2024, dans un atelier du bourg de Minxiong, dans le comté de Chiayi, Huang Yi-Hsun, 71 ans, se penche sur un tas de racines de bambou épineuses recouvertes de terre. Il ne cherche pas n'importe quel bois : il lui faut des racines souterraines vieillies depuis plusieurs années, dont la densité des fibres est exceptionnellement élevée. Ces modestes plaquettes en demi-lune jouent, dans la vie des Taïwanais, le rôle d'arbitre ultime pour des décisions aussi importantes qu'un déménagement, un changement de carrière ou même un mariage.
+En juillet 2024, dans un atelier du district de Minxiong, dans le comté de Chiayi, Huang Yi-xun, âgé de 71 ans, est courbé, fouillant dans un amas de racines de bambous épineux couvertes de terre. Il ne cherche pas du bois ordinaire, mais des racines de bambou enfouies depuis plusieurs années, dont la densité fibreuse est extrêmement élevée. Ces deux blocs de bois en forme de demi-lune, d'apparence banale, sont les juges ultimes dans la vie des Taïwanais pour décider d'un déménagement, d'un changement de carrière ou même d'un mariage.
 
-### L'art de « garder la vertu » : le pacte millénaire dans la racine de bambou
+### L'art de la transmission : un pacte millénaire au cœur du bambou
 
-La plupart des fidèles qui entrent dans un temple saisissent machinalement des bols divinatoires produits en série à l'usine — en plastique ou en bois bon marché moulé sous pression. Aux yeux de Huang Yi-Hsun, ces objets ne sont que des « produits commerciaux », en rien des « vecteurs de foi ». Le « bambou épineux » qu'il utilise doit provenir précisément de la jonction entre le rhizome souterrain et les racines, et doit avoir poussé de manière symétrique.
+La plupart des gens, en entrant dans un temple, saisissent des _jiàobēi_ en plastique produits en masse par des usines ou des répliques bon marché en bois compressé. Mais pour Huang Yi-xun, ceux-ci ne sont que des « marchandises » et non des « vecteurs de foi ». Il insiste pour utiliser le _zhútóu_ (竹頭), qui doit provenir de la jonction entre la tige souterraine et la racine du bambou épineux, et présenter une croissance symétrique.
 
-« Ce que je fabrique n'est pas un produit, c'est le porte-voix de la foi. » Dans une interview accordée à FTV News, Huang Yi-Hsun confiait sa tristesse : une paire de bols de qualité en racine de bambou, depuis la récolte, le séchage en plein air, le séchage à l'ombre jusqu'à la découpe, exige souvent plusieurs années de travail. En taïwanais, « bambou » (_chu_) est homophone de « vertu » (_de_) ; les bols en racine de bambou sont ainsi investis d'un sens plus profond : « garder la vertu » (_liu de_). Il ne s'agit pas seulement d'artisanat, mais d'une forme de révérence envers les dieux.
+« Je ne fabrique pas des produits, je suis le porte-voix de la foi », confiait Huang Yi-xun lors d'une interview accordée à _FTV News_. Une paire de bons _zhútóujiāo_ nécessite souvent plusieurs années, de la récolte au séchage à l'ombre, jusqu'à la découpe. En taïwanais, les mots pour « bambou » et « vertu » sont homophones ; ainsi, le _zhútóujiāo_ est investi d'une profonde signification de transmission de la vertu (_liú dé_). Il ne s'agit pas seulement d'artisanat, mais d'une marque de respect envers les divinités.
 
-> 📝 Note du curateur : Pendant que nous cherchons à obtenir des réponses toujours plus vite, l'artisan, lui, cherche la densité du matériau — car il sait que seule une racine de bambou endurcie par mille épreuves peut porter les prières les plus lourdes des croyants.
+📝 Note du conservateur : Tandis que nous cherchons la rapidité des réponses, l'artisan recherche la densité de la matière, car il sait que seules les racines de bambou éprouvées par le temps peuvent porter les prières les plus lourdes des fidèles.
 
-### La science du saint tirage : la probabilité est-elle vraiment de 50 % ?
+### La science du _shèngbāo_ : la probabilité est-elle vraiment de 50 % ?
 
-D'un point de vue mathématique, lancer les bols divinatoires semble relever d'une simple loi binomiale. Une face plate et une face convexe vers le haut donnent un « saint tirage » (_sheng jiao_, accord) ; deux faces plates correspondent au « tirage rieur » (_xiao jiao_, réponse floue ou joie) ; deux faces convexes signifient un « tirage négatif » (_yin jiao_, refus). En théorie, la probabilité d'obtenir un saint tirage devrait être de 50 %.
+D'un point de vue mathématique, le lancer de _jiàobēi_ semble être un simple problème de loi binomiale. Un côté plat et un côté bombé forment un _shèngbāo_ (accord), deux côtés plats forment un _xiàobāo_ (incertitude ou joie), et deux côtés bombés forment un _yīnbāo_ (désaccord). En théorie, la probabilité d'obtenir un _shèngbāo_ devrait être de 50 %.
 
-Pourtant, selon des recherches publiées par _PanSci_ (泛科學) et plusieurs lauréats de prix scientifiques jeunesse, la forme du bol n'est pas géométriquement parfaite : son centre de gravité est légèrement décalé vers la face convexe. Lorsque le bol tombe, la probabilité que la face plate se retrouve vers le haut est en réalité légèrement supérieure à celle de la face convexe (entre 53 % et 56 %). Cela signifie que, grâce aux lois physiques, la probabilité que les dieux accordent un « saint tirage » est en réalité plus généreuse qu'on ne l'imagine — autour de 50 % à 52 %.
+Cependant, selon des recherches publiées par _PanSci_ et plusieurs prix scientifiques destinés aux jeunes, comme la forme du _jiàobēi_ n'est pas un solide géométrique parfait, son centre de gravité est déporté vers la face bombée. Lorsque le bloc retombe, la probabilité que la face plane soit tournée vers le haut est en réalité légèrement supérieure à celle de la face bombée (environ 53 % à 56 %). Cela signifie que, grâce aux lois de la physique, les divinités sont plus généreuses que nous ne l'imaginons, avec une probabilité oscillant entre 50 % et 52 %.
 
-Ce minuscule biais physique peut, dans des cas extrêmes, donner lieu à des légendes stupéfiantes. Le temple Citian de Guīlái, à Pingtung, organise chaque année lors du Nouvel An lunaire un « concours de bols divinatoires ». En 2026, le grand prix a été porté à 3 millions de dollars en espèces — à condition d'obtenir 20 saints tirages consécutifs. En termes de probabilité, c'est un miracle de l'ordre d'un sur un million (1/2²⁰). À ce jour, le record du temple plafonne à 17 saints tirages consécutifs — un sommet de chance que même un professeur de mathématiques peine à expliquer.
+Cette infime déviation physique peut, dans des cas extrêmes, engendrer des légendes stupéfiantes. Le temple Cítiān de Guilai, à Pingtung, organise chaque année un « Grand Concours de _jiàobēi_ ». Pour l'édition 2026, le prix a été porté à 3 millions de dollars taïwanais, à la condition d'obtenir 20 _shèngbāo_ consécutifs. Mathématiquement, c'est un miracle d'environ une chance sur un million (1/2^20). À ce jour, le record du temple reste bloqué à 17 lancers consécutifs, un sommet de chance difficile à expliquer même pour un professeur de mathématiques.
 
-### Le bol debout : quand la physique se met temporairement en défaut
+### _Lìjiāo_ : quand la physique semble défier les lois
 
-Dans les nouvelles de temples taïwanais, rien ne provoque autant d'émoi que le « bol debout » (_li jiao_) — lorsque le bol, après avoir touché le sol, tient en équilibre sur sa pointe ou son arête, sans tomber.
+Dans les actualités des temples taïwanais, rien ne suscite plus d'émoi que le _lìjiāo_ (立筊) — lorsque le _jiàobēi_, après avoir touché le sol, se stabilise verticalement sur sa pointe ou son bord.
 
-Les spécialistes du folklore interprètent généralement cela comme un signe que la divinité a une « directive importante » à transmettre ou que « sa puissance se manifeste avec éclat ». L'explication scientifique, elle, invoque le coefficient de friction du sol, le degré d'usure des bords du bol et l'angle de rotation au moment du lancer. Quoi qu'il en soit, lorsqu'un fidèle anxieux voit une paire de bols debout, ce choc visuel « surnaturel » peut instantanément se transformer en un puissant réconfort psychologique.
+Les experts en folklore l'interprètent généralement comme un « message crucial » ou une « manifestation de la puissance divine ». Scientifiquement, cela est souvent lié à la friction du sol, à l'usure des bords du bloc et à l'angle de rotation lors du lancer. Néanmoins, lorsqu'un fidèle, plongé dans l'anxiété, voit un _jiàobāo_ se tenir debout, l'impact visuel « surnaturel » se transforme instantanément en un puissant réconfort psychologique.
 
-« Le bol debout est rare. Il signifie que la divinité ne veut pas parler, ou que votre demande est déraisonnable. » Un prêtre-gardien expérimenté a partagé sur les réseaux sociaux que le bol debout est parfois la façon qu'a la divinité de rappeler au croyant : vous posez la mauvaise question — ou bien vous connaissez déjà la réponse en vous-même, alors pourquoi la demander ?
+« Le _lìjiāo_ est rare ; cela signifie que la divinité ne souhaite pas parler, ou que votre demande est excessive », a partagé un ancien gardien de temple sur les réseaux sociaux. Parfois, le _lìjiāo_ sert d'avertissement : vous posez la mauvaise question, ou la réponse est déjà en vous, pourquoi demander ?
 
-> 📝 Note du curateur : La science explique pourquoi le bol tient debout ; la foi, elle, explique pourquoi nous avons besoin qu'il tienne debout.
+📝 Note du conservateur : La science explique pourquoi le _jiàobobi_ se tient debout, mais la foi explique pourquoi nous avons besoin qu'il se tienne debout.
 
-### Défis et controverses : la tension entre écologie et tradition
+### Défis et controverses : entre écologie et tradition
 
-Avec la montée de la conscience environnementale, les bols divinatoires font face aux défis de la modernité. Les bols en racine de bambou traditionnels, difficiles à récolter — l'extraction des racines pouvant compromettre la stabilité des sols —, se font de plus en plus rares. Le plastique les remplace progressivement : durable et peu coûteux, mais dénué de ce lien « avec la terre » qui leur confère leur chaleur.
+Avec la montée de la conscience écologique, le lancer de _jiàobēi_ fait face à des défis de modernisation. En raison de la difficulté de récolte et du risque que l'extraction des racines ne nuise à la conservation des sols, la production de _zhútóujiāo_ traditionnels s'amenuise. Ils sont remplacés par des matériaux plastiques qui, bien que durables et peu coûteux, perdent cette « chaleur » liée à la connexion avec la terre.
 
-Par ailleurs, ces dernières années, de nombreux temples ont associé les concours de bols divinatoires à des primes élevées, suscitant des débats sur la « commercialisation de la foi ». Les critiques estiment que ce rituel jadis solennel est devenu une forme de jeu déguisé. Les partisans, en revanche, y voient un « mal nécessaire » pour attirer les jeunes vers les temples et les initier à la culture traditionnelle.
+De plus, ces dernières années, de nombreux temples ont lié le lancer de _jiàobēi_ à des récompenses financières importantes, suscitant une controverse sur la « marchandisation de la foi ». Les critiques soutiennent que cela transforme un rituel solennel en une forme de jeu de hasard. Les partisans, quant à eux, considèrent cela comme un « mal nécessaire » pour attirer les jeunes vers les temples et leur faire découvrir la culture traditionnelle.
 
-### En guise de conclusion : le son cristallin du bol qui touche le sol
+### Conclusion : le son clair de l'impact
 
-Quand ces deux bols rouges rebondissent et pivotent sur le sol en terrazzo avant de produire ce son cristallin — _clic-clac_ —, toute la salle du temple semble retenir son souffle l'espace d'un instant.
+Lorsque la paire de _jiàobēi_ rouges rebondit sur le sol en terrazzo, bascule et produit finalement un « clac » sec, c'est comme si tout le temple retenait son souffle à cet instant précis.
 
-Quelle que soit la façon dont la science explique cette probabilité de 50 %, ou l'obsession de l'artisan pour les veines d'une racine de bambou, pour le croyant agenouillé sur le coussin, ce saint tirage est la confirmation la plus chaleureuse du monde entier. Dans une vie moderne saturée d'incertitudes, nous avons encore besoin de ces deux plaquettes en demi-lune pour nous dire, dans le son cristallin de leur chute : n'aie pas peur — vas-y, essaie.
+Peu importe l'explication scientifique de cette probabilité de 50 %, ou l'obsession de l'artisan pour la texture des racines, pour le fidèle agenouillé sur son coussin, ce son de _shèngbāo_ est l'affirmation la plus chaleureuse au monde. Dans une vie moderne pleine d'incertitudes, nous avons toujours besoin de ces deux blocs en forme de demi-lune pour nous dire, dans le bruit sec de leur chute : « N'aie pas peur, essaie donc ».
 
 ## Références
 
-- [筊 - 宗教器物 - 全國宗教資訊網](https://religion.moi.gov.tw/Knowledge/Content?ci=2&cid=345) (source primaire)
-- [竹頭筊師傅黃奕薰堅持研究竹頭筊超過 30 年 - 民視新聞](https://www.ftvnews.com.tw/news/detail/2024721W0065) (source primaire)
-- [擲聖筊的機率比你想像中的大 - 泛科學 PanSci](https://pansci.asia/archives/93303)
-- [屏東歸來慈天宮擲筊大賽 - Yahoo 新聞](https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%AD%B8%E4%BE%86%E6%85%88%E5%A4%A9%E5%AE%AE%E6%93%B2%E7%AD%8A%E5%A4%A7%E8%B3%BD-092443164.html)
-- [瀕臨失傳的竹頭筊：黃奕薰的努力與挽救 - 傳藝 online](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3131&sms=12605&s=82594)
-- [民俗生活中的擲筊實踐與衍變 - 中國文化遺產網](https://www.chinesefolklore.org.cn/web/?NewsID=21245)
+- [Jiāo - Objets religieux - Réseau national d'information religieuse](https://religion.moi.gov.tw/Knowledge/Content?ci=2&cid=345) (Source primaire)
+- [L'artisan de Zhútóujiāo, Huang Yi-xun, persévère dans l'étude du Zhútóujiāo depuis plus de 30 ans - FTV News](https://www.ftvnews.com.tw/news/detail/2024721W0065) (Source primaire)
+- [La probabilité d'obtenir un shèngbāo est plus grande que vous ne le pensez - PanSci](https://pansci.asia/archives/93303)
+- [Grand Concours de Jiàobēi au temple Cítiān de Pingtung - Yahoo News](https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%AD%B8%E4%BE%86%E6%85%88%E5%A4%A9%E5%AE%AE%E6%93%B2%E7%AD%8A%E5%A4%A7%E8%B3%BD-092443164.html)
+- [Le Zhútóujiāo menacé de disparition : les efforts et la sauvegarde de Huang Yi-xun - TCraft Online](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3131&sms=12605&s=82594)
+- [Pratiques et évolutions du Jiàobēi dans la vie folklorique - Réseau du patrimoine culturel chinois](https://www.chinesefolklore.org.cn/web/?NewsID=21245)
