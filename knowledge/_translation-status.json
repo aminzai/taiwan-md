@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T07:07:01+08:00",
-    "zhCommitHead": "759e44a2c",
+    "lastUpdated": "2026-08-04T08:40:20+08:00",
+    "zhCommitHead": "19aaf5ec2",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 879,
-        "fresh": 854,
-        "stale": 13,
+        "fresh": 855,
+        "stale": 12,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 503,
+        "fresh": 504,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 372,
+        "missing": 371,
         "orphan": 0
       },
       "pt": {
         "total_zh": 879,
-        "fresh": 811,
+        "fresh": 813,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 61,
+        "missing": 59,
         "orphan": 0
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 613,
+        "fresh": 614,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 264,
+        "missing": 263,
         "orphan": 0
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 169,
+        "missing": 168,
         "orphan": 0
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 727,
+        "fresh": 730,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 150,
+        "missing": 147,
         "orphan": 0
       }
     },
@@ -5155,7 +5155,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/chou-hui.md",
+          "translatedFrom": "Music/周蕙.md",
+          "sourceCommitSha": "c40c53f61",
+          "sourceContentHash": "sha256:023ec1770793f2e9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T23:51:53.979738+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -6335,7 +6346,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-uniform-invoice.md",
+          "translatedFrom": "Economy/發票.md",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -7768,7 +7790,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/aama-taipei-cradle-program.md",
+          "translatedFrom": "Economy/AAMA台北搖籃計畫.md",
+          "sourceCommitSha": "2e6738999",
+          "sourceContentHash": "sha256:c03fa77efb2f6e8c",
+          "sourceBodyHash": "sha256:8e73793f11fceb53",
+          "translatedAt": "2026-08-04T06:18:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -48328,8 +48361,8 @@
           "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
           "sourceBodyHash": "sha256:0d8842cfba541dc2",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9a7a5a",
+          "translationLastModified": "2026-08-04T07:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -54889,7 +54922,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/2026-local-elections-taiwan.md",
+          "translatedFrom": "Politics/2026 九合一選舉.md",
+          "sourceCommitSha": "2cbb7955c",
+          "sourceContentHash": "sha256:0598c68f67d9dae4",
+          "sourceBodyHash": "sha256:a62248f87fd69728",
+          "translatedAt": "2026-08-04T06:18:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -56154,8 +56198,8 @@
           "sourceContentHash": "sha256:3e3c722e9fbee583",
           "sourceBodyHash": "sha256:cd353841feafe555",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9a7a5a",
+          "translationLastModified": "2026-08-04T07:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -63137,8 +63181,8 @@
           "sourceContentHash": "sha256:a31b5339a894147e",
           "sourceBodyHash": "sha256:e2e71f85bef4ed48",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9a7a5a",
+          "translationLastModified": "2026-08-04T07:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -71743,8 +71787,8 @@
           "sourceContentHash": "sha256:aebfe56ef8181ee0",
           "sourceBodyHash": "sha256:2548692a01191648",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9a7a5a",
+          "translationLastModified": "2026-08-04T07:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -75397,7 +75441,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/jj-lin-singaporean-mandopop-king.md",
+          "translatedFrom": "People/林俊傑.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
+          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/jj-lin-singaporean-mandopop-king.md",
@@ -79501,8 +79556,8 @@
           "sourceContentHash": "sha256:71bb6dc9665fc922",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-03T23:02:21.539863+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9a7a5a",
+          "translationLastModified": "2026-08-04T07:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -83252,18 +83307,16 @@
         "ko": {
           "path": "ko/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
           "translatedFrom": "People/曹興誠.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:419cc607d70f325a",
-          "sourceBodyHash": "sha256:ae002bb900693bc1",
-          "translatedAt": "2026-06-12T00:53:42+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-08-04T07:25:29+08:00",
           "translationLastCommit": "995f1458",
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
@@ -88234,7 +88287,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chien-ming-wang-mlb-sinker-ace.md",
+          "translatedFrom": "People/王建民.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:88ba1e028cceec90",
+          "sourceBodyHash": "sha256:d72e85599f59782f",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chien-ming-wang-mlb-sinker-ace.md",
@@ -99794,7 +99858,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/school-lunch-reform.md",
+          "translatedFrom": "Food/營養午餐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:7821275263a50042",
+          "sourceBodyHash": "sha256:41f53dec5abc68f4",
+          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 47,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -113283,7 +113358,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/lienchiang-county.md",
+          "translatedFrom": "Geography/連江縣.md",
+          "sourceCommitSha": "2f3bfdbf7",
+          "sourceContentHash": "sha256:8ae350615e660491",
+          "sourceBodyHash": "sha256:2da5583381fa39ad",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
