@@ -1,49 +1,50 @@
 ---
-title: 'Hong Hsing-fu: Bintang Sastra Tanah Air yang Gugur Terlalu Dini'
-description: "Lahir pada 1949 di keluarga miskin petani generasi turun-temurun di Beiping Village, Erhlin Township, Changhua County, Hong Hsing-fu menerbitkan novel pertamanya pada usia 18 tahun, dan sebelum meninggal dunia pada usia 33 tahun akibat kecelakaan lalu lintas, ia menciptakan sastra pedesaan sebagai guru sekolah dasar, dalam waktu singkat 15 tahun menulis klasik seperti 'Heimian Ching-tzu', 'Wu Tu', 'San Hsi', menangkap wajah asli transformasi pedesaan Taiwan dari pertanian ke industri dan perdagangan, dijuluki oleh sahabat sastra sebagai 'Hong Hsing-fu-ski', menjadi suara desa yang tak terhapuskan dalam sastra pasca-perang Taiwan."
+title: 'Hong Xingfu: Tokoh Agung Sastra Nativis yang Gugur Terlalu Dini'
+description: 'Lahir 1949 di keluarga miskin petani generasi turun-temurun di Erlin, Changhua, Hong Xingfu menerbitkan novel pertamanya pada usia 18 tahun, dan sebelum meninggal dunia akibat kecelakaan pada usia 33 tahun, ia menciptakan sastra nativis sebagai guru sekolah dasar, dalam 15 tahun menulis karya klasik seperti "Heimian Qingzi", "Wu Tu", "San Xi", menangkap wajah nyata transformasi pedesaan Taiwan dari pertanian ke industri-perdagangan, dijuluki teman-teman sastrawan "Hong Xingfu-ski", menjadi suara pedesaan tak terhapuskan dalam sastra pasca-perang Taiwan.'
 date: 2026-03-27
-author: 'Taiwan.md Contributors'
 category: 'People'
 tags:
   [
-    'sastra tanah air',
-    'penulis',
-    'novelis',
+    'Sastra Nativis',
+    'Penulis',
+    'Novelis',
     'Changhua',
-    'sastra pedesaan',
-    'sastra Taiwan',
-    'warga desa',
-    'guru penulis',
+    'Sastra Pedesaan',
+    'Sastra Taiwan',
+    'Orang Pedesaan',
+    'Penulis Guru',
   ]
 subcategory: '文學'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-27
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'People/洪醒夫.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7de74580c2e1d825'
 sourceBodyHash: 'sha256:669b88afae826e6b'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-08-04T17:42:35+08:00'
 ---
 
-Pada 10 Desember 1949, Hong Hsing-fu lahir di Beiping Village, Erhlin Township, Changhua County, dalam keluarga petani generasi turun-temurun yang miskin. Nama aslinya adalah Hong Ma-tsung. Pada usia 18 tahun, novel pertamanya 〈Ni-lü〉 (逆旅) diterbitkan di _Taiwan Daily News_ (台灣日報), memulai perjalanan sastra. Pada 31 Juli 1982, dalam perjalanan pulang saat Badai Andy melanda, ia meninggal dunia akibat kecelakaan lalu lintas, berusia 33 tahun, mengakhiri karier cipta yang singkat namun gemilang.
+Lahir pada 10 Desember 1949 di Desa Beiping, Kecamatan Erlin, Kabupaten Changhua, dalam keluarga miskin petani generasi turun-temurun, Hong Xingfu nama aslinya Hong Ma-cong. Pada usia 18 tahun, novel pertamanya "Ni Lü" diterbitkan di "Taiwan Daily", memulai jalan kesastraannya. Pada 31 Juli 1982, dalam perjalanan pulang saat Topan Andy melanda, ia meninggal dunia akibat kecelakaan lalu lintas, berusia 33 tahun, mengakhiri karir kreasi yang singkat namun gemilang.
 
-Siang hari ia mengajar di Sekolah Dasar Shekou (社口國小), Shenkang Township (神岡鄉), malam hari ia menuliskan dengan sentuhan paling sederhana penderitaan dan ketabahan tokoh-tokoh kecil di pedesaan. Pada 1978, ia menerbitkan _Heimian Ching-tzu_ (《黑面慶仔》); 〈Heimian Ching-tzu〉, 〈San Hsi〉 (〈散戲〉), 〈Wu Tu〉 (〈吾土〉) menjadi karya representatif penulisannya yang berakar pada tanah air; di antaranya 〈San Hsi〉 pernah memenangkan Hadiah Novel _United Daily News_ (聯合報) (sumber: Wikipedia).
+Siang hari ia mengajar di SD Sekou, Kecamatan Shengang, malam hari ia menggunakan sentuhan pena paling sederhana menuliskan keasaman dan keteguhan hati tokoh-tokoh kecil di pedesaan. Tahun 1978 menerbitkan "Heimian Qingzi", karya-karya seperti "Heimian Qingzi", "San Xi", "Wu Tu" menjadi penulisan nativis paling representatifnya; di antaranya "San Xi" pernah memenangkan Penghargaan Novel United Daily News (sumber: Wikipedia).
 
-📝 **Catatan Kuren**: Seorang anak petani yang tumbuh di sawah, justru di ruang kelas mengajar anak-anak, malam hari menjadi saksi bagi tanah air, kontras "siang mengajar, malam menulis penderitaan pedesaan" inilah yang paling menyentuh di Hong Hsing-fu. Ia tidak pernah berteriak slogan, hanya dengan kata-kata tulus, ia membiarkan pembaca melihat ketabahan dan tulang punggung pedesaan Taiwan di tengah transformasi industri dan perdagangan.
+📝 **Catatan Kurator**: Seorang anak petani yang tumbuh besar di sawah, namun mengajar anak-anak di kelas, malam hari menjadi saksi bagi tanah air, kontras "siang mengajar, malam menulisi penderitaan pedesaan" inilah yang paling menyentuh hati pada Hong Xingfu. Ia tidak pernah berteriak slogan, hanya menggunakan kata-kata tulus, membiarkan pembaca melihat ketahanan dan integritas pedesaan Taiwan di tengah transformasi industri dan perdagangan.
 
-Hong Hsing-fu nama aslinya Hong Ma-tsung, nama pena lain: Ssu-tu Men (司徒門), Ma Tsung (馬叢), Lo Ti (洛堤), Lin Pien (林邊); ia pernah berkata ingin mengambil nama pena "Hong Hsing-fu-ski" (洪醒夫斯基), mengejar Dostoevsky (sumber: Wikipedia). Awalnya ia berpartisipasi dalam "Hou Lang Shih She" (後浪詩社), membantu urusan editorial _Taiwan Wen Yi_ (《台灣文藝》), dan pernah mengedit _1975 Short Story Anthology_ (《六十四年短篇小說選》) (sumber: Wikipedia). Dari pencarian gaya modernis awal, hingga realisme pedesaan masa dewasa, ia mencatat perubahan besar dari pedesaan ke perkotaan pada era 1960-an dan 1970-an lewat karyanya.
+Hong Xingfu nama aslinya Hong Ma-cong, juga memiliki nama pena Sutu Men, Ma Cong, Luo Di, Lin Bian; ia pernah berkata ingin membuat nama pena "Hong Xingfu-ski", meniru Dostoevsky (sumber: Wikipedia). Ia awalnya berpartisipasi dalam "Hou Lang Shi She", membantu urusan editorial "Taiwan Wenyi", dan pernah menjadi editor utama "Liu Shi Si Nian Duan Pian Xiao Shuo Xuan" (sumber: Wikipedia). Dari pencarian gaya modernis awal, hingga realisme pedesaan masa dewasa, ia menggunakan karya-karyanya mencatat transformasi besar pedesaan ke perkotaan pada era 1960-an dan 1970-an.
 
-Karyanya 〈Chih-chuan Yin-hsiang〉 (〈紙船印象〉), 〈San Hsi〉 (〈散戲〉) pernah dipilih Kementerian Pendidikan masuk ke buku pelajaran SMA dan SMP (sumber: Wikipedia). _Heimian Ching-tzu_ (《黑面慶仔》), _Shih-ching Chuan-chi_ (《市井傳奇》), _Tien-chuang Jen_ (《田莊人》) menjadi babak representatif sastra tanah air Taiwan. Ia hanya hidup 33 tahun, namun meninggalkan potret pedesaan pulau ini yang paling otentik.
+Karya-karyanya "Zhi Chuan Yin Xiang", "San Xi" pernah dipilih oleh Kementerian Pendidikan dimasukkan ke buku pelajaran SMA dan SMP (sumber: Wikipedia). "Heimian Qingzi", "Shi Jing Chuan Qi", "Tian Zhuang Ren" menjadi babak representatif sastra nativis Taiwan. Hanya hidup 33 tahun, ia meninggalkan potret pedesaan paling otentik sebuah pulau.
 
-Kisah Hong Hsing-fu mengingatkan kita: banyak klasik sastra Taiwan, sering kali berasal dari sudut desa paling biasa. Seorang guru muda yang hanya hidup 33 tahun, namun dengan 15 tahun menciptakan, meninggalkan potret tanah air paling otentik bagi pulau ini. Hari ini saat kita melangkahi ladang Erhlin, mendengar kisah tetua pedesaan, atau membaca tokoh-tokoh desa yang akrab di buku pelajaran, kehangatan dan kekuatan di bawah pena Hong Hsing-fu, tetap diam-diam bersinar di hati setiap orang Taiwan.
+Kisah Hong Xingfu mengingatkan kita: banyak klasik sastra Taiwan, sering berasal dari sudut pedesaan paling biasa. Seorang guru muda yang hanya hidup 33 tahun, namun dengan kreasi singkat 15 tahun, meninggalkan potret nativis paling otentik pulau ini. Hari ini ketika kita berjalan melintasi ladang Erlin, mendengar kisah orang tua pedesaan, atau membaca tokoh-tokoh pedesaan familiar di buku pelajaran, kehangatan dan kekuatan di bawah pena Hong Xingfu, tetap diam-diam bersinar di lubuk hati setiap orang Taiwan.
 
 ## Referensi
 
-- [Wikipedia - Hong Hsing-fu](https://zh.wikipedia.org/zh-hant/%E6%B4%AA%E9%86%92%E5%A4%AB)
-- [Penulis Sastra Tanah Air Hong Hsing-fu (Riwayat Hidup Lengkap dan Kronologi Karya)](https://life.fhl.net/ic975/RegionalLiteratures/HongXingFu/01.htm)
-- [Taman Sastra Taiwan — Hong Hsing-fu: Bintang Sastra yang Gugur Terlalu Dini](https://www.nlpi.edu.tw/JournalDetailC003313.aspx?Cond=ebc4190c-4c2c-4506-805f-a1aa79c99519)
-- [Ensiklopedia Pendidikan - Hong Hsing-fu](https://pedia.cloud.edu.tw/Entry/WikiContent?title=%E6%B4%AA%E9%86%92%E5%A4%AB)
-- [Tokoh Sastra Changhua Hong Hsing-fu (Perpustakaan Memori Budaya Nasional)](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=558725)
-- [Menghormati Saksi Era — Hong Hsing-fu](https://vocus.cc/article/67579febfd89780001ad24de)
+- [Wikipedia - Hong Xingfu](https://zh.wikipedia.org/zh-hant/%E6%B4%AA%E9%86%92%E5%A4%AB)
+- [Penulis Sastra Nativis Hong Xingfu (Riwayat Hidup Lengkap dan Kronologi Karya)](https://life.fhl.net/ic975/RegionalLiteratures/HongXingFu/01.htm)
+- [Taman Sastra Taiwan - Hong Xingfu Tokoh Agung Sastra yang Gugur Terlalu Dini](https://www.nlpi.edu.tw/JournalDetailC003313.aspx?Cond=ebc4190c-4c2c-4506-805f-a1aa79c99519)
+- [Ensiklopedia Pendidikan - Hong Xingfu](https://pedia.cloud.edu.tw/Entry/WikiContent?title=%E6%B4%AA%E9%86%92%E5%A4%AB)
+- [Tokoh Sastra Changhua Hong Xingfu (Arsip Kenangan Budaya Negara)](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=558725)
+- [Untuk Saksi Zaman - Hong Xingfu](https://vocus.cc/article/67579febfd89780001ad24de)
