@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T10:07:30+08:00",
-    "zhCommitHead": "47246c63c",
-    "totalZh": 879,
+    "lastUpdated": "2026-08-04T11:06:34+08:00",
+    "zhCommitHead": "63b035d05",
+    "totalZh": 880,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 838,
         "stale": 23,
         "metadata_stale": 2,
-        "missing": 16,
+        "missing": 17,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 850,
         "stale": 14,
         "metadata_stale": 2,
-        "missing": 13,
+        "missing": 14,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 855,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 11,
+        "missing": 12,
         "orphan": 0
       },
       "es": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 851,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 11,
+        "missing": 12,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 851,
         "stale": 17,
         "metadata_stale": 1,
-        "missing": 10,
+        "missing": 11,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 435,
         "stale": 15,
         "metadata_stale": 5,
-        "missing": 424,
+        "missing": 425,
         "orphan": 0
       },
       "id": {
-        "total_zh": 879,
-        "fresh": 505,
+        "total_zh": 880,
+        "fresh": 508,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 370,
+        "missing": 368,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 879,
+        "total_zh": 880,
         "fresh": 814,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 58,
+        "missing": 59,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 879,
-        "fresh": 617,
+        "total_zh": 880,
+        "fresh": 620,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 260,
+        "missing": 258,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 879,
-        "fresh": 710,
+        "total_zh": 880,
+        "fresh": 711,
         "stale": 1,
         "metadata_stale": 0,
         "missing": 168,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 879,
-        "fresh": 732,
+        "total_zh": 880,
+        "fresh": 734,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 145,
+        "missing": 144,
         "orphan": 0
       }
     },
@@ -13440,8 +13440,8 @@
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "021f678c",
-          "translationLastModified": "2026-07-17T19:43:15+08:00",
+          "translationLastCommit": "e2fc7c9f",
+          "translationLastModified": "2026-08-04T10:07:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -18289,8 +18289,8 @@
           "sourceContentHash": "sha256:5ca6801bb47a7371",
           "sourceBodyHash": "sha256:45291b99c4801128",
           "translatedAt": "2026-08-03T21:46:28+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "e2fc7c9f",
+          "translationLastModified": "2026-08-04T10:07:31+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -32133,6 +32133,49 @@
           "footnoteDefs": 39,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Lifestyle/台灣海關報關制度與EZWAY.md": {
+      "zh": {
+        "lastCommit": "5a2945f1",
+        "lastModified": "2026-08-04T10:50:24+08:00",
+        "contentHash": "sha256:fd8cbcb581e0a480",
+        "bodyHash": "sha256:93540fc0b2360167"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -55079,7 +55122,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/voting-rights-threshold-history.md",
+          "translatedFrom": "Politics/投票權門檻歷史.md",
+          "sourceCommitSha": "488ba3ae2",
+          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceBodyHash": "sha256:a759a5339dd81f4b",
+          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -65133,7 +65187,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/jeremy-lin.md",
+          "translatedFrom": "People/林書豪.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:5bcf40616e842909",
+          "sourceBodyHash": "sha256:15c8e50bb3ba07a7",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/jeremy-lin.md",
@@ -66865,7 +66930,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/mark-liu.md",
+          "translatedFrom": "People/劉德音.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:5e90feeafc19360c",
+          "sourceBodyHash": "sha256:81e4bcfc4e50e127",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/mark-liu.md",
@@ -70595,7 +70671,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tsmc-morris-chang.md",
+          "translatedFrom": "People/張忠謀.md",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:14127c407e7b0db7",
+          "sourceBodyHash": "sha256:6d452360d79fae70",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -73167,7 +73254,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/shih-ming-te.md",
+          "translatedFrom": "People/施明德.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c7a690e21bd72631",
+          "sourceBodyHash": "sha256:f379180b5e8bcecc",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/shih-ming-te.md",
@@ -87030,7 +87128,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/david-wong.md",
+          "translatedFrom": "People/黃大煒.md",
+          "sourceCommitSha": "5fbbcf417",
+          "sourceContentHash": "sha256:1cc8c36887977bc1",
+          "sourceBodyHash": "sha256:b9f5504c528ed428",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88100,7 +88209,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/lung-ying-tai.md",
+          "translatedFrom": "People/龍應台.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:efaa1720b84e525c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T02:33:39.449113+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/lung-ying-tai.md",
@@ -89013,7 +89133,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/terry-gou.md",
+          "translatedFrom": "People/郭台銘.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:981dd62862f57c30",
+          "sourceBodyHash": "sha256:6bf98169f185af90",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/terry-gou.md",
@@ -90067,7 +90198,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tung-tzu-hsien-tech-humanist.md",
+          "translatedFrom": "People/童子賢.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:741173e056926b2c",
+          "sourceBodyHash": "sha256:7f6ff2dde21c6686",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tung-tzu-hsien-tech-humanist.md",
