@@ -1,124 +1,125 @@
 ---
-title: "L'histoire du commerce maritime de Taïwan"
-description: "De carrefour du commerce international à royaume maritime : la grande épopée de Taïwan à l'ère des grandes découvertes"
+title: 'Histoire du commerce maritime de Taïwan'
+description: "L'ère des Grandes Découvertes à Taïwan : la légende de l'ascension et de la chute d'un centre commercial international devenu royaume de pirates"
 date: 2026-03-20
+category: 'History'
 tags:
   [
     'commerce maritime',
-    'ère des grandes découvertes',
+    'ère des Grandes Découvertes',
     'commerce international',
-    'piraterie',
+    'pirates',
     'villes portuaires',
   ]
-subcategory: 'Préhistoire et peuples autochtones'
+subcategory: '史前與原住民'
 author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 9
-category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+difficulty: 'beginner'
+readingTime: 9
+curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-04-14T12:31:41+08:00'
+translatedAt: '2026-08-04T16:32:38+08:00'
 ---
 
-# L'histoire du commerce maritime de Taïwan
+# Histoire du commerce maritime de Taïwan
 
-Aux XVIe et XVIIe siècles, à l'heure des grandes découvertes, Taïwan n'était pas une île perdue aux marges de l'Asie orientale. C'était un nœud de circulation vital, reliant la Chine, le Japon et l'Asie du Sud-Est dans un vaste réseau d'échanges. De comptoir commercial de la Compagnie néerlandaise des Indes orientales à empire maritime du royaume Zheng, Taïwan a été l'un des centres commerciaux les plus prospères de la mer d'Asie orientale.
+Durant l'ère des Grandes Découvertes, aux XVIe et XVIIe siècles, Taïwan n'était pas une petite île périphérique de l'Asie de l'Est, mais un carrefour commercial crucial reliant la Chine, le Japon et l'Asie du Sud-dessus. Des bases de commerce international des Hollandais à l'hégémonie maritime de la dynastie Zheng, Taïwan fut autrefois l'un des centres commerciaux les plus prospères des eaux d'Asie de l'Est.
 
-## La préhistoire : l'ADN maritime des cultures austronésiennes
+## Période préhistorique : l'ADN maritime des cultures austronésiennes
 
-Bien avant l'arrivée des Néerlandais, les peuples autochtones de Taïwan faisaient déjà preuve d'une remarquable maîtrise des mers. Les fouilles archéologiques témoignent qu'il y a trois mille ans, des réseaux d'échange de pierres taillées et de céramiques reliaient déjà Taïwan aux Philippines, au Vietnam et à d'autres régions lointaines.
+Bien avant l'arrivée des Hollandais, les autochtones de Taïwan faisaient preuve de capacités maritimes exceptionnelles. Les découvertes archéologiques révèlent qu'il existait, il y a 3000 ans, un réseau de commerce d'outils en pierre et de poteries raffinés, s'étendant jusqu'aux Philippines et au Vietnam.
 
-Le peuple Tao (Yami) de l'île d'Orchidée illustre parfaitement cette culture maritime profonde. Leur art de construire le tatala, le bateau à planches assemblées, révèle une connaissance intime des courants, des moussons et des migrations de poissons. Ces savoir-faire ancestraux ont posé les fondations qui allaient permettre à Taïwan de devenir, plusieurs siècles plus tard, un pivot du commerce régional.
+La technique de fabrication des pirogues à planches (_pánbǎnzhōu_) du peuple Yami (Tao) témoigne de la compréhension profonde qu'ont les autochtones de Taïwan de l'océan. Ils ne se contentaient pas de construire des navires, ils avaient développé un système complexe de connaissances maritimes incluant les courants, les moussons et les cycles de migration des bancs de poissons. Cet ADN culturel maritime a jeté les bases de la future transformation de Taïwan en centre commercial.
 
-## L'ère néerlandaise : l'âge d'or du commerce en Asie orientale
+## Période hollandaise : l'âge d'or du commerce en Asie de l'Est
 
-### Fort Zeelandia : l'Amsterdam de l'Asie orientale
+### Fort Zeelandia : l'Amsterdam de l'Asie de l'Est
 
-En 1624, la Compagnie néerlandaise des Indes orientales (VOC) établit Fort Zeelandia à Tainan, faisant de Taïwan la plaque tournante de son réseau commercial en Asie orientale. Ce choix n'était pas le fruit du hasard, mais d'un calcul précis et délibéré.
+En 1624, la Compagnie néerlandaise des Indes orientales (VOC) établit Fort Zeelandia (_Rèlánzhēchéng_) à Tainan, transformant Taïwan en cœur du réseau commercial d'Asie de l'Est. Le choix des Hollandais pour Taïwan n'était pas fortuit, mais le résultat d'un calcul minutieux.
 
-L'île occupe une position géographique exceptionnelle, équidistante de la Chine, du Japon et de l'Asie du Sud-Est. Surtout, la politique d'interdiction maritime de la dynastie Ming empêchait les marchands chinois de commercer directement avec l'étranger. Ils devaient transiter par une terre tierce — et Taïwan devint le centre opérationnel de cette immense économie souterraine.
+Située au centre entre la Chine, le Japon et l'Asie du Sud-Est, l'île jouissait d'un avantage géographique inégalé. Plus important encore, la politique d'interdiction maritime (_hǎijìn_) imposée par la dynastie Ming empêchait les marchands chinois de commercer directement, les obligeant à passer par des tiers. Taïlagan devint ainsi le centre opérationnel de cette vaste économie souterraine.
 
-Les Néerlandais mirent en place un système commercial d'une rare sophistication. De Chine arrivaient la soie grège, la porcelaine et le thé ; du Japon, les lingots d'argent ; d'Asie du Sud-Est, les épices et les bois précieux. Tout cela était transformé, conditionné et réexpédié depuis Taïwan. Les entrepôts de Fort Zeelandia débordaient de marchandises précieuses venues des quatre coins du monde connu.
+Les Hollandais instaurèrent un système commercial sophistiqué. Ils importaient de la soie, de la porcelaine et du thé de Chine ; de l'argent du Japon ; et des épices et du bois d'Asie du Sud-Est, avant de procéder au traitement, au conditionnement et au transbordement à Taïwan. Les entrepôts de Fort Zeelandia regorgeaient de marchandises précieuses provenant de toutes parts.
 
-### L'essor d'un empire du sucre
+### L'ascension du royaume sucrier
 
-Les Néerlandais ne se contentèrent pas du commerce de transit : ils développèrent une économie locale. Ils découvrirent que le climat de Taïwan convient parfaitement à la culture de la canne à sucre et encouragèrent vigoureusement l'industrie sucrière. Sous leur direction technique, la qualité du sucre produit à Taïwan s'améliora rapidement, rencontrant un succès remarquable sur le marché japonais.
+Les Hollandais ne se sont pas contentés du commerce de transit ; ils ont également développé les industries locales. Constatant que le climat de Taïwan était idéal pour la culture de la canne à sucre, ils ont massivement promu l'industrie sucrière. Sous la direction des Néerlandais, les techniques de raffinage à Taïwan se sont rapidement améliorées, produisant un sucre de haute qualité très prisé sur le marché japonais.
 
-Dans les années 1650, Taïwan produisait annuellement plusieurs millions de jin de sucre, devenant ainsi la plus grande base sucrière d'Asie orientale. Chaque jour, des navires chargés à ras bord quittaient le port d'Anping en direction du Japon et des pays d'Asie du Sud-Est. Cette industrie sucrière ne générait pas seulement de la richesse : elle attirait également de nombreux migrants chinois, formant les premiers pôles industriels de l'histoire de Taïwan.
+Dans les années 1650, la production annuelle de sucre à Taïwan atteignit plusieurs millions de livres (_jīn_), faisant de l'île la plus grande base sucrière d'Asie de l'Est. Au port d'Anping, des navires chargés de sucre partaient quotidiennement vers le Japon et l'Asie du Sud-Est. Cette industrie ne rapporta pas seulement des richesses, elle attira également une vague massive d'immigrants chinois, formant les premiers pôles industriels de Taïlan.
 
-## L'ère du royaume Zheng : l'apogée d'un empire maritime
+## Période de Zheng (Ming-Zheng) : l'apogée du royaume maritime
 
-### Zheng Zhilong : le fondateur d'un empire marchand
+### Zheng Zhilong : le fondateur de l'empire marchand
 
-Koxinga (Zheng Chenggong) est la figure la plus connue de cette période, mais c'est son père, Zheng Zhilong, qui fut l'acteur déterminant de l'histoire du commerce maritime taïwanais. D'abord simple marchand maritime, Zheng Zhilong fut ensuite rallié à la cause de la dynastie Ming et prit le contrôle de l'ensemble du réseau commercial de la côte sud-est de la Chine.
+Le père de Zheng Chenggong, Zheng Zhilong, fut une figure clé de l'histoire maritime de Taïwan. Ancien marchand de la mer, il fut ensuite réintégré par la dynastie Ming et prit le contrôle du réseau commercial de toute la côte sud-est de la Chine.
 
-Son empire commercial était d'une ampleur considérable : des milliers de navires, des dizaines de milliers de marins. Il établissait les règles du commerce en mer, délivrait des laissez-passer, percevait des taxes de protection. Tout navire marchand souhaitant naviguer dans les eaux du Sud-Est devait obtenir l'autorisation du clan Zheng. Si ce système ressemblait en surface à une organisation de "piraterie organisée", il fournissait en réalité un ordre maritime efficace qui garantissait la sécurité des échanges.
+L'empire commercial de Zheng Zhilong était immense, comptant des milliers de navires et des dizaines de milliers de marins. Il établit les règles du commerce maritime, émettait des laissez-passer et percevait des frais de protection. Tout navar marchand souhaitant naviguer sur la côte sud-est devait obtenir l'autorisation du groupe Zheng. Bien que ce système puisse ressembler à de l'extorsion par des pirates, il instaura en réalité un ordre maritime efficace.
 
-### Koxinga : une base maritime pour la reconquête anti-Qing
+### Zheng Chenggong : une base maritime pour restaurer le Ming
 
-En 1661, Koxinga chassa les Néerlandais et fonda le royaume Ming-Zheng. Pour lui, Taïwan n'était pas seulement une base arrière pour reconquérir la Chine des Qing : c'était surtout l'artère économique qui permettait de financer une armée immense.
+En 1661, Zheng Chenggong expulsa les Hollandais et fonda la dynastie Ming-Zheng. Pour lui, Taïwan n'était pas seulement une base pour restaurer l'autorité Ming, mais aussi le poumon économique nécessaire au maintien de sa vaste armée.
 
-Le royaume Zheng perpétua et amplifia la tradition commerciale héritée des Néerlandais. Son emprise s'étendait de Taïwan et des Penghu jusqu'à Jinmen et aux côtes du Fujian, formant un véritable empire maritime. Les flottes des Zheng ne se contentaient pas du négoce : elles offraient escorte, transport et services financiers, exerçant une domination incontestée sur les mers d'Asie orientale.
+Le régime Zheng perpétua les traditions commerciales de l'époque hollandaise, mais à une échelle supérieure. Ils contrôlaient de vastes zones maritimes allant de Taïwan, Penghu et Kinmen jusqu'aux côtes du Fujian, formant un véritable royaume maritime. La flotte des Zheng ne se contentait pas de commercer ; elle offrait également des services d'escorte, de transport et de finance, s'imposant comme la puissance dominante en Asie de l'Est.
 
 ### Le royaume de Dongning : la Venise de l'Asie
 
-L'époque de Zheng Jing représente l'âge d'or du commerce maritime du royaume Ming-Zheng. Le royaume de Dongning entretenait des relations commerciales étroites avec le Japon, l'Asie du Sud-Est et les pays des mers du Sud, poussant même ses réseaux jusqu'à l'océan Indien. Tainan était devenue la Venise de l'Asie : des marchands de toutes nationalités s'y côtoyaient, des dizaines de langues s'y mélangeaient, offrant un spectacle d'internationalisation sans précédent.
+L'ère de Zheng Jing marqua l'âge d'or du commerce maritime de la dynastie Ming-Zheng. Le royaume de Dongning entretenait des échanges étroits avec le Japon, l'Asie du Sud-Est et les nations de la mer du Sud (_Nanyang_), s'étendant même jusqu'à l'océan Indien. Tainan devint la Venise de l'Asie, où marchands de toutes nations se regroupaient dans un brassage linguistique sans précédent, offrant un spectacle d'internationalisation inédit.
 
-Le royaume Zheng émit sa propre monnaie et mit en place un système fiscal complet. Les marchandises et les navires étaient taxés, et les revenus portuaires étaient considérables. Les archives historiques indiquent que les recettes annuelles de Taïwan sous les Zheng atteignaient plusieurs millions de taels d'argent — une puissance économique qui forçait le respect.
+Le régime Zheng émit sa propre monnaie et établit un système fiscal complet. En taxant les marchandises et en percevant des droits portuaires sur les navires, les revenus étaient considérables. Selon les archives, les recettes annuelles de Taïwan sous la période Ming-Zheng s'élevaient à plusieurs millions de taels d'argent, témoignant d'une puissance économique incontestable.
 
-## La prohibition maritime des Qing : l'interruption des réseaux commerciaux
+## L'interdiction maritime de la dynastie Qing : rupture du réseau commercial
 
-### Le choc de la politique de retraite côtière
+### L'impact de la politique de déplacement vers l'intérieur des terres
 
-En 1683, les armées Qing s'emparèrent de Taïwan et imposèrent une politique d'interdiction maritime stricte. La cour mandchoue considérait le commerce maritime de Taïwan comme une forme de "fraternisation avec l'ennemi" et exigeait un contrôle rigoureux. Les installations portuaires côtières furent démantelées, les départs en mer limités, et tout commerce privé avec des étrangers sévèrement prohibé.
+Après la conquête de Taïwan par les troupes Qing en 1683, une politique stricte d'interdiction maritime fut imposée. La cour Qing considérait le commerce maritime de Taïwan comme un acte de « collusion avec l'ennemi » et devait être rigoureusement contrôlé. Ils démantelèrent les infrastructures portuaires côtières, limitèrent la sortie des navires en mer et interdirent strictement le commerce privé avec l'étranger.
 
-L'impact sur Taïwan fut catastrophique. Les ports jadis florissants se vidèrent rapidement, les marchands étrangers plièrent bagage les uns après les autres, et les réseaux commerciaux s'effondrèrent. Tainan, ancien centre du commerce international, se retrouva rétrogradée en ville de province éloignée, et le port d'Anping, autrefois animé, se transforma en bourgade de pêcheurs désertée.
+Cette politique fut désastreuse pour Taïwan. Les ports autrefois prospères déclinèrent rapidement, les marchands internationaux partirent et le réseau commercial s'effondra. Tainan passa du statut de centre commercial international à celui de ville provinciale isolée, et le port d'Anping, autrefois grouillant d'activité, devint un village de pêcheurs désolé.
 
-### L'essor de la contrebande
+### L'essor du commerce de contrebande
 
-Mais l'interdiction maritime ne parvint jamais à couper totalement les liens commerciaux de Taïwan avec le monde. L'attrait des profits poussait les marchands à braver les interdits, et la contrebande devint plus active que jamais. D'innombrables petits ports discrets apparurent le long des côtes taïwanaises, spécialisés dans le négoce illégal.
+Cependant, la politique d'interdiction ne put totalement éradiquer le commerce maritime de Taïwan. Poussés par des profits massifs, les trafics de contrebande devinrent plus fréquents. De nombreux petits ports apparurent le long des côtes de Taïwan, dédiés exclusivement au commerce illégal.
 
-Lugang, Danshui, Jilong (Keelung) devinrent des voies de passage clandestines incontournables. Les marchands profitaient de la nuit et des brouillards pour effectuer leurs transactions, déjouant la vigilance des autorités. Ce commerce souterrain, bien que réduit en volume, préserva la tradition maritime de Taïwan tout au long de cette période de prohibition.
+Des localités comme Lukang, Tamsui et Keelung (Jiulong) devinrent des routes majeures pour la contrebande. Les marchands utilisaque la nuit ou le brouillard pour leurs transactions afin d'échapper aux patrouilles officielles. Bien que de moindre envergure, ce commerce clandestin permit de maintenir vivantes les traditions maritimes de l'île.
 
-## L'ouverture des ports : le retour sur la scène internationale
+## Ouverture des ports : le retour sur la scène internationale
 
-### 1860 : une ouverture forcée, une chance saisie
+### 1860 : de nouvelles opportunités imposées
 
-Après la signature du traité de Tianjin en 1860, les ports de Danshui, Anping, Kaohsiung et Keelung furent contraints de s'ouvrir au commerce étranger. Bien qu'imposée sous la pression extérieure, cette ouverture fut pour Taïwan l'occasion de retrouver sa place sur la scène du commerce international.
+Après la signature du traité de Tianjin en 1860, les quatre ports de Tamsui, Anping, Kaohsiung et Keelung furent contraints de s'ouvrir au commerce. Bien que cette ouverture ait été le résultat de pressions étrangères, elle représenta pour Taïwan une opportunité de réintégrer la scène commerciale mondiale.
 
-Le marchand britannique John Dodd arriva à Dadaocheng et y établit une activité d'exportation de thé. Il découvrit que le thé oolong de Taïwan était d'une qualité remarquable, parfaitement adapté à l'exportation. Grâce à son action, le thé taïwanais pénétra rapidement les marchés internationaux pour devenir l'un des produits d'exportation les plus importants de l'île.
+Le marchand britannique John Taylor s'installa à Dadaocheng pour fonder une entreprise d'exportation de thé. Il découvrit que l'Oolong de Taïwan était d'une qualité exceptionnelle, idéale pour l'exportation. Sous son impulsion, le thé taïwanais pénétra rapidement les marchés internationaux, devenant un produit d'exportation majeur.
 
-### L'essor du camphre
+### L'essor du royaume de la camphre
 
-Outre le thé, le camphre de Taïwan devint une denrée très recherchée sur les marchés mondiaux. Le camphre était indispensable à la fabrication de la poudre sans fumée et des pellicules cinématographiques, et la demande était immense. Les forêts de camphriers dans les montagnes taïwanaises étaient abondantes et la qualité du produit excellente, si bien que Taïwan monopolisa très rapidement le marché mondial du camphre.
+Outre le thé, le camphre de Taïwan devint une denrée très convoitée à l'échelle mondiale. Le camphre était un ingrédient essentiel pour la fabrication de la poudre sans fumée et des pellicules cinématographiques, générant une demande immense. Les zones montagneuses de Taïwan, riches en arbres à camphre de haute qualité, finirent par monopoliser le marché mondial.
 
-Lorsque Liu Mingchuan devint gouverneur de Taïwan, il fit du camphre un monopole d'État. Le gouvernement contrôla strictement son commerce et en tira des bénéfices considérables. Les revenus du camphre devinrent une source majeure de financement pour la modernisation de l'île : construction de chemins de fer, développement des ports, installation de lignes télégraphiques.
+Lorsque Liu Ming-chuan servit comme gouverneur de Taïwan, il érigea la production de camphre en monopole d'État. Le gouvernement contrôla strictement ce commerce, générant des profits substantiels. Les revenus du camphre devinrent une source de financement cruciale pour la modernisation de Taïwan, permettant la construction de chemins de fer, de ports et l'installation de lignes électriques.
 
-## L'ère coloniale japonaise : l'âge d'or du commerce colonial
+## Période de domination japonaise : l'âge d'or du commerce colonial
 
-Après avoir pris le contrôle de Taïwan, le Japon intégra l'île dans sa politique d'expansion vers le sud. Taïwan redevint un hub de transit commercial entre le Japon et l'Asie du Sud-Est, mais cette fois dans le cadre du système colonial.
+Après avoir pris le contrôle de Taïwan, le Japon l'intégra à sa politique d'expansion vers le sud. Taïwan redevint un point de transit commercial entre le Japon et l'Asie du Sud-Est, mais cette fois dans le cadre du système colonial.
 
-Les ports de Keelung et de Kaohsiung, gérés par les Japonais, se modernisèrent rapidement pour devenir des ports en eaux profondes majeurs de l'Asie orientale. L'industrie sucrière et rizicole de Taïwan connut une croissance considérable grâce aux investissements de capitaux japonais, avec des produits destinés principalement à l'approvisionnement du Japon métropolitain et des marchés du Pacifique Sud.
+Les ports de Keelung et de Kaohsiung se modernisèrent rapidement sous la gestion japonaise, devenant d'importants ports en eau profonde en Asie de l'Est. Les industries sucrière et rizicole de Taïwan connaquirent une croissance massive grâce aux capitaux japonais, approvisionnant principalement le Japon métropolitain et les marchés de la mer du Sud.
 
-Bien qu'il s'agisse d'un commerce colonial, objectivement cette période améliora les infrastructures portuaires et les capacités commerciales de Taïwan. Ces investissements en infrastructure posèrent des bases essentielles pour le développement économique de Taïwan après la guerre.
+Bien qu'il s'agisse d'un commerce colonial, cela a objectivement amélioré les infrastructures portuaires et les capacités commerciales de Taïwan. Ces infrastructures ont posé les bases essentielles du développement économique de Taïwan après la guerre.
 
-## Ce que l'histoire maritime de Taïwan nous dit aujourd'hui
+## Les leçons contemporaines de la Taïwan maritime
 
-En parcourant l'histoire du commerce maritime de Taïwan, un fait s'impose avec évidence : Taïwan n'a jamais été une île fermée sur elle-même, mais une nation maritime ouverte sur le monde. Qu'il s'agisse du centre commercial international de l'ère néerlandaise ou de l'empire maritime du royaume Zheng, Taïwan a toujours su exprimer ses capacités maritimes exceptionnelles.
+En revisitant l'histoire commerciale maritime de Taïwan, un fait majeur s'impose : Taïwan n'a jamais été une île fermée, mais une nation maritime ouverte. Qu'il s'agisse du centre commercial international de l'époque hollandaise ou du royaume maritime de la période Ming-Zheng, Taïwan a toujours fait preuve d'une capacité maritime exceptionnelle.
 
-Aujourd'hui, Taïwan demeure un hub commercial majeur de la région Asie-Pacifique. Les ports de Kaohsiung, de Taipei et de Keelung perpétuent une tradition maritime vieille de plusieurs siècles. Notre héritage maritime n'a pas disparu — il attend simplement d'être réveillé.
+Aujourd'hui encore, Taïwan demeure un carrefour commercial vital dans la région Asie-Pacifique ; les ports de Kaohsiung, de Taipei et de Keelung perpétuent des siècles de tradition maritime. Notre ADN océanique n'a pas disparu, il attend simplement d'être réveillé.
 
-Face aux défis du XXIe siècle, Taïwan gagnerait peut-être à redécouvrir son identité maritime. Nous ne sommes pas seulement une île à la périphérie de la Chine : nous sommes un pont entre les deux rives du Pacifique. C'est là, sans doute, le message le plus précieux que l'histoire du commerce maritime de Taïwan nous adresse.
+Face aux défis du XXIe siècle, Taïwan devrait peut-être repenser son identité maritime. Nous ne sommes pas seulement une île à la périphérie de la Chine, mais un pont reliant les deux rives du Pacifique. C'est sans doute là la leçon la plus importante que l'histoire commerciale maritime de Taïwan nous offre.
 
 ---
 
-Pour aller plus loin :
+Lire aussi :
 
-- [La période néerlandaise, espagnole et du royaume Koxinga](/fr/history/dutch-spanish-and-koxinga-era)
-- [La période Qing](/fr/history/qing-dynasty-rule)
-- [Le littoral et les paysages maritimes de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes)
+- [La période Ming-Zheng et l'influence espagnole](/fr/history/dutch-spanish-and-koxinga-era)
+- [L'époque de la domination Qing](/fr/history/qing-dynasty-rule)
+- [Topographie côtière et paysages marins de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes)

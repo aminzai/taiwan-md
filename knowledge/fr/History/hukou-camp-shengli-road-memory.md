@@ -1,60 +1,61 @@
 ---
-title: 'Les deux visages de la route Shengli : mémoires du camp militaire de Hukou'
-description: "Le long de la route Shengli, à Hukou dans le comté de Hsinchu, un mur de camp militaire sépare deux mondes : d'un côté, des chars d'assaut et des tempêtes politiques ; de l'autre, des maisons civiles, une coopérative de consommation et un cinéma depuis disparu. Voici une histoire locale tissée de voisinage, d'accidents et de luttes pour la justice."
+title: 'Les deux visages de Shengli Road : des mutineries de la cavalerie blindée aux souvenirs du « grand parking » à Hukou'
+description: "Sur Shengli Road, à Hukou (Hsinchu), un côté des murs de la caserne abrite chars d'assaut et tempêtes politiques, tandis que l'autre accueille habitations, coopératives et cinémas disparus. Une histoire locale entre voisinage, accidents et justice sociale."
 date: 2026-03-24
+category: 'History'
 tags:
   [
-    'incident de Hukou',
-    'camp militaire de Hukou',
-    'route Shengli',
-    'affaire Hong Zhongqiu',
-    'troupes Starlight',
-    'mémoire locale',
+    'Affaire de Hukou',
+    'Caserne de Hukou',
+    'Shengli Road',
+    'Affaire Hung Chung-chiu',
+    'Unité Starlight',
+    'Mémoire locale',
   ]
-subcategory: 'Histoire militaire'
-category: 'History'
+subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 sourceBodyHash: 'sha256:67689aef546b2c21'
-translatedAt: '2026-04-14T12:31:57+08:00'
+translatedAt: '2026-08-04T16:11:29+08:00'
 ---
 
-# Les deux visages de la route Shengli : mémoires du camp militaire de Hukou
+# Les deux visages de Shengables Road : des mutineries de la cavalerie blindée aux souvenirs du « grand parking » à Hukou
 
-Le 21 janvier 1964, lorsque Zhao Zhihua, commandant adjoint de la 1re division blindée de Hukou, brandit son pistolet sur la place d'armes et cria « Marchons vers le nord pour défendre le souverain ! », la route Shengli qui courait dans son dos n'était encore qu'un paisible chemin de campagne. Cette tentative de coup d'État, avortée en deux heures à peine, valut à Hukou d'être associée dans les milieux du pouvoir à Taipei au spectre de la rébellion. Pourtant, de l'autre côté du mur d'enceinte, les habitants de Hukou avaient une tout autre vision de ce colosse.
+Le 21 janvier 1964, lorsque Zhao Zhihua (趙志華), second commandant de la 1ère division de cavalerie blindée de Hukou, brandit son pistolet sur le terrain d'entraînement en criant « Marche vers le nord pour secourir le souverain », la route Shengli située derrière lui n'était encore qu'un paisible chemin de campagne. Cette tentative de coup d'État, qui ne dura que deux heures, fit de Hukou le synonyme de « rébellion » aux yeux des hautes sphères de Taipei ; pourtant, pour les habitants de Hukou situés de l'autre côté du mur, cette structure massive présentait un visage radicalement différent.
 
-À une époque où les biens de consommation courante se faisaient rares, le camp militaire de Hukou n'était pas seulement une zone interdite : il jouait aussi le rôle de « centre communautaire de proximité ».
+À une époque où les ressources matérielles étaient encore limitées, la caserne de Hukou n'était pas seulement une zone interdite, mais aussi le « centre de services » de la communauté.
 
-Le camp abritait alors un cinéma, une piscine, et même une coopérative militaire ouverte aux civils qui venaient y acheter des denrées à prix réduit. Pour les enfants qui grandissaient dans ce quartier, l'été rimait avec les éclaboussures de la piscine et les aubaines de la coopérative, où les articles d'équipement militaire coûtaient moins cher qu'ailleurs. La frontière entre monde militaire et monde civil n'était pas imperméable : c'était une relation de coexistence et de solidarité de quartier.
+La caserne comprenait à l'époque un cinéma, une piscine et même une coopérative permettant aux résidents d'y acheter des produits de première nécessité. Pour les enfants ayant grandi là, les souvenirs d'été étaient faits de l'humidité de la piscine et des articles militaires vendus moins cher qu'à l'extérieur dans la coopérative. La frontière entre militaires et civils n'était pas alors une ligne de démarcation hermétique, mais une forme de relation de voisinage symbiotique.
 
-> 📝 Note de curation : Quand un camp militaire se mue en lieu de consommation quotidienne, son mur d'enceinte cesse d'être une frontière politique pour devenir une extension des services du voisinage.
+> 📝 Note du commissaire d'exposition : Lorsque les casernes militaires s'orientent vers la consommation quotidienne, le mur cesse d'être une frontière politique pour devenir une extension des services de proximité du quartier.
 
-Pourtant, ce « voisin » allait aussi causer des secousses profondes.
+Cependant, ce « voisin » a également apporté des chocs violents.
 
-Le long de la route Shengli, les murs du camp jouxtent directement les habitations civiles. Faute de places de stationnement suffisantes, les habitants ont pris l'habitude de garer leurs véhicules le long de l'enceinte, au point que l'endroit est surnommé avec ironie « le grand parking de la route Shengli ». Ce paysage familier fut le théâtre d'un drame retentissant en mai 2007 : un chasseur F-5F appartenant aux « troupes Starlight » singapouriennes s'écrasa dans l'enceinte du camp de Hukou au cours d'une mission d'entraînement. L'explosion et les colonnes de fumée noire qui s'élevèrent ce jour-là restent gravées dans les mémoires des riverains de la route Shengli.
+Le long d'un côté de Shengli Road, les murs de la caserne jouxtent les habitations civiles. En raison du manque de places de stationnement, les habitants locaux surnomment avec humour le bord du mur le « grand parking de Shengli Road ». Le paysage de ce lieu a connu sa scène la plus bouleversante en mai 2007 : un chasseur F-5F appartenant à l'unité « Starlight » (sous commandement singapourien) s'est écrasé dans la caserne de Hukou lors d'une mission. Le bruit de l'explosion massive et l'épaisse fumée qui s'en est dégagée restent, encore aujourd'hui, un souvenir terrifiant pour les résidents de Shengli Road.
 
-Le traumatisme le plus profond infligé à la société taïwanaise par le camp de Hukou survint en 2013.
+Le séisme provoqué par la caserne de Hukou au sein de la société taïwanaise a atteint son apogée en 2013.
 
-Hong Zhongqiu, caporal-chef affecté à la 542e brigade blindée de Hukou, mourut des suites de mauvais traitements quelques jours avant la fin de son service militaire. Cette tragédie provoqua une mobilisation sans précédent : 250 000 personnes vêtues de blanc défilèrent sur le boulevard Ketagalan, face au palais présidentiel, pour réclamer justice. Cette vague populaire, connue sous le nom de « mouvement des chemises blanches », aboutit à une réforme majeure du Code de justice militaire. Pour les habitants de Hukou, ce drame fut l'ombre la plus lourde jamais projetée par l'enceinte du camp — et donna à la dénomination « route Shengli » (qui signifie « route de la Victoire ») une résonance profondément amère dans les journaux télévisés de tout Taïwan.
+Le sergent-chef Hung Chung-chiu (洪仲丘), appartenant au 542e régiment blindé de Hukou, est décédé des suites d'une sanction disciplinaire abusive à la veille de son démobilisation. Cette tragédie a entraîné la marche de 250 000 personnes de l'« Armée de blanc » sur Ketagalan Boulevard, menant finalement à une réforme majeure du Code de justice militaire. Pour les habitants de Huk'ou, ce fut l'ombre la plus pesante à l'intérieur des murs, et cela rendit le nom même de Shengli Road particulièrement ironique dans les informations nationales.
 
-> 📝 Note de curation : L'histoire a laissé deux empreintes à Hukou : la première en 1964, défi lancé au pouvoir ; la seconde en 2013, éveil aux droits de l'homme.
+> 📝 Note du commissaire d'exposition : L'histoire a laissé deux traces à Hukou : l'une est un défi au pouvoir en 1964, l'autre est une prise de conscience des droits de l'homme en 2013.
 
-Aujourd'hui, si vous vous promenez sur la route Shengli, vous ne trouverez plus ni cinéma ni piscine : ils ont disparu dans les plis du temps. Au début des années 2000, lorsque le président Chen Shui-bian vint en personne à Hukou présider une grande revue de défense nationale, les files de chars qui défilaient et les hélicoptères qui tournoyaient dans le ciel émerveillèrent les lycéens présents dans les tribunes.
+Aujourd'hui, en parcourant Shengli Road, le cinéma et la piscine ont depuis longtemps disparu dans les poussières de l'histoire. Au début des années 2000, lorsque le président Chen Shui-bian s'est rendu à Hukou pour présider une démonstration de défense nationale, les colonnes de chars et les hélicoptères en vol avaient suscité une immense curiosité chez les lycéens présents.
 
-Aujourd'hui, le camp demeure le cœur de la cavalerie blindée de Taïwan, mais il ressemble davantage à une bête silencieuse endormie contre les maisons civiles de la route Shengli. Du « foyer de la rébellion » au « grand parking du quartier », les murs du camp militaire de Hukou ont enregistré toutes les contradictions et toute la chaleur humaine de Taïwan, de la loi martiale aux années de développement, jusqu'à la transition démocratique.
+Désormais, le lieu demeure le cœur de la cavalerie blindée de Taïwan, mais il ressemble davantage à un géant silencieux vivant aux côtés des maisons de Shengli Road. De « berceau de la rébellion » à « parking local », les murs de la caserne de Hukou témoignent de toutes les contradictions et de toute la chaleur humaine de la transition de Taïwan, de l'ère de la loi martiale au développement démocratique.
 
 ---
 
 ## Références
 
-- [Archives nationales de l'Administration du développement national — L'affaire de Hukou de 1964](https://www.archives.gov.tw/)
-- [Liberty Times — Rapport sur l'écrasement du F-5F des troupes Starlight au camp de Hukou en 2007](https://news.ltn.com.tw/)
-- [The Reporter — Dix ans après l'affaire Hong Zhongqiu : résonances de la justice militaire et du mouvement social](https://www.twreporter.org/)
-- [Bureau culturel du gouvernement du comté de Hsinchu — Histoire militaire et développement local de la région de Hukou](https://www.hchcc.gov.tw/)
-- [Ministère de la Défense nationale, Réseau d'éducation à la défense nationale — Archives des journées portes ouvertes et revues de défense](https://aode.mnd.gov.tw/)
+- [Archives de la Commission du développement national — Chronologie de l'affaire de Hukou en 1964](https://www.archives.gov.tw/)
+- [Liberty Times — Rapport sur le crash du F-5F de l'unité Starlight dans la caserne de Hukou en 2007](https://news.ltn.com.tw/)
+- [The Reporter — Dix ans après l'affaire Hung Chung-chiu : échos du système de justice militaire et des mouvements sociaux](https://www.twreporter.org/)
+- [Bureau de la culture du comté de Hsinchu — Histoire du développement militaire et local de la région de Hukou](https://www.hchcc.gov.tw/)
+- [Site d'éducation à la défense nationale du Ministère de la Défense — Registre des ouvertures de casernes et démonstrations de défense au fil des ans](https://aode.mnd.gov.tw/)

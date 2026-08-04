@@ -1,68 +1,69 @@
 ---
-title: 'Le mont Luodi'
-description: "La zone de badlands volcanique boueuse la plus proche du littoral de Taïwan — ancienne forteresse militaire reconvertie en parc naturel, avec des bouches d'éjection de boue actives et des sentiers offrant de splendides panoramas sur la mer."
+title: 'Luo Dishan (漯底山)'
+description: 'Le badland de mud volcanisme le plus proche du littoral à Taïwan ; ancien fort militaire devenu parc naturel, offrant des cratères actifs et un sentier panoramique face à la mer.'
 date: 2026-03-23
+category: 'Geography'
 tags:
   [
-    'géographie',
-    'nature',
-    'volcan de boue',
-    'badlands',
+    'Géographie',
+    'Nature',
+    'Volcan de boue',
+    'Badland',
     'Kaohsiung',
-    'district de Mituo',
-    'sentiers de randonnée',
-    'vestiges militaires',
+    'District de Mi-tuo',
+    'Sentier',
+    'Vestiges militaires',
   ]
-subcategory: 'Sites remarquables'
-category: 'Geography'
+subcategory: '地標'
 author: 'idlccp02'
 readingTime: 6
 featured: false
-translatedFrom: 'Geography/漯底山.md'
 lastVerified: 2026-03-23
-sourceCommitSha: 'f99a9959'
+lastHumanReview: false
+curation: 'incubating'
+translatedFrom: 'Geography/漯底山.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:2cef849f8ebc6df7'
 sourceBodyHash: 'sha256:a56d3c9283c22ceb'
-translatedAt: '2026-04-15T17:34:06+08:00'
-lastHumanReview: false
+translatedAt: '2026-08-04T16:42:08+08:00'
 ---
 
-# Le mont Luodi
+# Luo Dishan
 
-## En 30 secondes
+## Aperçu en 30 secondes
 
-Une modeste colline de 53 mètres d'altitude, longue de 800 mètres d'est en ouest et large de 600 mètres, qui est pourtant **la zone de badlands volcanique boueuse la plus proche du littoral de Taïwan**. Formée par l'accumulation de boue volcanique, elle abrite encore aujourd'hui deux bouches d'éjection actives de 3 à 5 centimètres de diamètre. Utilisée comme forteresse militaire depuis l'ère japonaise, elle est devenue, après le retrait des forces armées en 2006 (85e année de la République), un parc naturel géré par le bureau du district de Mituo. En une heure de sentier en boucle, il est possible d'observer de près les paysages de badlands, de traverser un pont suspendu, de monter sur l'ancien blockhaus aménagé en belvédère et de contempler au loin le détroit de Taïwan ainsi que les décollages et atterrissages des avions militaires de la base aérienne de Gangshan.
+Cette petite colline, qui ne culmine qu'à 53 mètres d'altitude pour 800 mètres de long et 600 mètres de large, constitue le **badland de volcanisme de boue le plus proche du littoral à Taïtan**. Formé par l'accumulation de boue volcanique, le site présente actuellement deux cratères actifs d'un diamètre de 3 à 5 cm. Ancien ouvrage militaire depuis l'époque coloniale japonaise, le site a été transformé en parc naturel géré par le bureau du district de Mi-tuo après le retrait des troupes militaires en 2006 (année 95 de la République). En parcourant la boucle de randonnée en une heure, vous pourrez observer de près les paysages de badlands, traverser un pont suspendu et grimper sur l'ancien belvédère d'un bunker pour contempler le détroit de Taïwan ainsi que les décollages et atterrissages des avions militaires de l'aéroport de Gangshan.
 
-**Ce qu'il faut retenir :** une zone militaire jadis fermée au public, devenue aujourd'hui un paradis pour les randonnées en famille et l'éducation aux sciences de la Terre.
+**Pourquoi s'y intéresser ?** Une zone militaire autrefois « interdite au public » est devenue aujourd'hui un véritable paradis pour la randonnée familiale et la vulgarisation géologique.
 
-## Pourquoi c'est important
+## Pourquoi est-ce important ?
 
-Les Taïwanais imaginent souvent que les badlands ne se trouvent qu'à Zuojhen, dans le district de Tainan — ce « monde lunaire » — ou que les paysages géologiques spectaculaires se limitent aux hautes montagnes. Le mont Luodi démontre le contraire : même en plaine occidentale, à quelques kilomètres seulement du rivage, il est possible de trouver un volcan de boue bien vivant et des ravines creusées par l'érosion pluviale. Ce lieu n'est pas seulement une curiosité géologique ; il incarne aussi la transition de Taïwan, du temps des préparatifs de guerre à celui de la paix, de la zone interdite à l'espace ouvert à tous. Au sommet, on comprend soudainement que la nature et l'histoire de Taïwan n'ont jamais été des choses séparées.
+Les Taïwanais pensent souvent que les « badlands » ne se trouvent qu'à Yue world (月世界) dans le district de Zuojin à Tainan, ou uniquement en haute montagne. Pourtant, Luo Dishan prouve que même dans les plaines de l'ouest, à seulement quelques kilomètres de la mer, peuvent subsister des volcans de boue vivants et des ravins d'érosion pluviale. C'est non seulement une merveille géologique, mais aussi un microcosme de l'histoire de Taïwan, passant de la préparation militaire à la paix, et du contrôle à l'ouverture. En atteignant le sommet, vous comprendrez soudain que la nature et l'histoire de Taïwan ne sont jamais isolées l'une de l'autre.
 
 ## Contenu principal
 
 ### Formation géologique et caractéristiques
 
-Le mont Luodi appartient à la catégorie des **badlands** façonnés par l'accumulation de boue volcanique — un prolongement de la couche de mudstone de Nanhua. Les études géologiques indiquent que sa formation est liée à un phénomène de **diapir de boue** : des fluides sous haute pression remontent depuis les profondeurs le long des fractures tectoniques, se mélangent aux eaux souterraines pour former de la boue, puis s'éjectent en surface et s'accumulent en cinq petits sommets disposés en anneau. Le sol, composé de mudstone fin imperméable (gris-blanc ou gris-noir, pH d'environ 6,7), est sculpté par les pluies en ravines abruptes ; sa surface sèche et meuble est hostile à la végétation.
+Luo Dishan appartient au type de relief de **badland** formé par accumulation volcanique de boue, constituant une extension des couches de mudstone de Nanhua. Les études géologiques indiquent que sa formation est liée à un « diapir de boue » (_mud diapir_) : des fluides sous haute pression en profondeur remontent le long des fractures de failles, se mélangeant aux eaux souterraines pour former de la boue qui, après éruption, s'accumule en cinq petites collines circulaires. Le sol est composé d'un mudstone à grains fins imperméable (gris-blanc ou gris-noir, pH d'environ 6,7) ; l'érosion par les eaux de pluie crée des ravins escarpés, tandis que la couche superficielle, craquelée et instable, rend la végétation difficile à établir.
 
-Les deux petites bouches d'éjection du sommet central (3 à 5 cm de diamètre) sont encore actives aujourd'hui. Bien qu'elles soient en partie canalisées par du béton, elles continuent de bouillonner lentement — ce sont les bouches de volcan de boue les plus proches du littoral dans toute Taïwan.
+Actuellement, deux petits cratères (diamètre 3–5 cm) sont toujours actifs sur le sommet principal. Bien qu'une partie du flux ait été canalisée par du ciment, des bulles continuent de remonter lentement — ce site est le représentant le plus proche de la côte pour les volcans de boue de l'île.
 
-### Historique
+### Évolution historique
 
-Depuis l'époque de l'occupation japonaise, la proximité de la base aérienne de Gangshan faisait de ce site un point stratégique militaire. L'artillerie du 8e corps d'armée y avait ses positions. Longtemps zone réglementée, la colline n'était vue de l'extérieur que comme un « modeste monticule sans intérêt ». C'est la découverte de la couche culturelle de Niaosong au pied de la colline — un site préhistorique — qui commença à attirer l'attention des chercheurs. Après le retrait des soldats en 2006, le site fut confié au bureau du district de Mituo, qui y fit progressivement aménager des sentiers, un belvédère et des voies d'accès, levant enfin le voile sur ce lieu longtemps mystérieux.
+Depuis l'époque japonaise, le site était une zone militaire stratégique en raison de sa proximité avec la base aérienne de Gangshan ; l'artillerie du 8ème corps d'armée de la République de Chine y était autrefois déployée. Longtemps classé zone réglementée, il n'était perçu de loin que comme une « colline insignifiante ». Ce n'est qu'après la découverte de la couche culturelle de Tsatsong (site préhistorique) au pied de la colline que l'intérêt pour le lieu a grandi. Après le retrait militaire en 2006, la gestion a été confiée au bureau du district de Mi-tuo, qui a progressivement aménagé des sentiers, des belvédères et des routes d'accès, levant ainsi le voile sur ce lieu mystérieux.
 
-### Équipements et sentiers
+### Installations du parc et sentiers
 
-Le sentier en boucle, d'environ 2 kilomètres (décliné en variantes nord, sud et périphérique), est revêtu de dalles, de promenades en bois et de bitume. Le dénivelé n'est que de 30 mètres, ce qui en fait un parcours accessible à tous — y compris aux poussettes et aux personnes âgées. À l'entrée, un pont suspendu permet d'accéder rapidement au site. Au point culminant, l'ancien fortin a été aménagé en belvédère à 360 degrés, offrant une vue panoramique sur le quartier de Mituo, les monts Gangshan et Xiaogang, le port de pêche de Yong'an et le détroit de Taïwan. Le parc conserve des vestiges militaires (postes de garde, installations d'art camouflé) tout en proposant également une aire de jeux avec bac à sable et une maison dans les arbres pour les enfants.
+Le sentier de randonnée en boucle mesure environ 2 km (boucles nord, sud et extérieure). Le revêtement comprend des pavés, des passerelles en bois et de l'asphalte. Avec un dénivelé de seulement 30 mètres, la difficulté est faible (adaptée aux poussettes ou aux personnes âgées). L'entrée dispose d'un pont suspendu pour un accès rapide, et l'ancien bunker de l'artillerie au point culminant a été transformé en belvédère à 360 degrés, offrant une vue plongeante sur le quartier de Mi-tuo, les zones de Gangshan (petit et grand), le port de pêche de Yong'an et le détroit de Taïwan. Le parc conserve des vestiges militaires (postes de garde, installations artistiques de camouflage) tout en proposant des bacs à sable pour enfants et une cabane dans les arbres.
 
-### Écologie, paysages et activités
+### Écologie, paysage et activités
 
-La fragilité du sol limite la biodiversité (végétation clairsemée), mais c'est précisément là que réside la beauté des badlands : crêtes dénudées et ravines qui évoquent un mini-monde lunaire. Le moment idéal pour visiter est en fin d'après-midi, au coucher du soleil sur la mer, ou tôt le matin pour observer les avions militaires de la base de Gangshan. Il est facile de combiner cette visite avec le site préhistorique de Niaosong, le port de Nanliao, et les zones humides de Yong'an pour une journée complète alliant géologie, histoire et littoral. Les deux petites bouches d'éjection, qui bouillonnent discrètement, nous rappellent que même lorsque les hommes tracent des frontières militaires, la Terre, elle, continue son propre récit.
+En raison de la fragilité du sol, l'écosystème est simple (végétation clairsemée), mais c'est précisément là que réside la beauté du badland : les crêtes et les canyons dénudés rappellent un petit « monde lunaire ». La meilleure façon d'en profiter est de monter au sommet au crépuscule pour voir le coucher du soleil sur la mer, ou tôt le matin pour observer les avions militaires de l'aéroport de Gangshan. À proximité, vous pouvez combiner cette visite avec les sites culturels de Tsatsong, le port de Nanliao et les zones humides de Yong'an, pour une journée thématique mêlant « géologie + histoire + côte ». Ces deux petits cratères nous rappellent silencieusement que, même si l'homme trace des frontières militaires, la Terre continue de raconter sa propre histoire.
 
 ## Références
 
-- [Présentation officielle du bureau du district de Mituo](https://mituo.kcg.gov.tw/cp.aspx?n=4FA80C03A5F771A1)
-- [Wikipédia : mont Luodi](https://zh.wikipedia.org/wiki/%E6%BC%AF%E5%BA%95%E5%B1%B1)
-- [Détail du sentier sur Hiking Biji](https://hiking.biji.co/index.php?q=trail&act=detail&id=390)
-- [Encyclopédie géologique de Taïwan : origine des volcans de boue](https://twgeoref.gsmma.gov.tw/)
-- Articles connexes dans ce projet (à venir) : rechercher « volcan de boue » ou « géographie de Kaohsiung »
+- [Présentation officielle du bureau du district de Mi-tuo](https://mituo.kcg.gov.tw/cp.aspx?n=4FA80C03A5F771A1)
+- [Wikipédia : Luo Dishan](https://zh.wikipedia.org/wiki/%E6%BC%AF%E5%BA%95%E5%B1%B1)
+- [Détails du sentier (Hiking Notes)](https://hiking.biji.co/index.php?q=trail&act=detail&id=390)
+- [Encyclopédie géologique de Taïwan : Formation des volcans de boue](https://twgeoref.gsmma.gov.tw/)
+- Liens connexes (si ajoutés ultérieurement) : Rechercher « volcan de boue » ou « géographie de Kaohsiung »
