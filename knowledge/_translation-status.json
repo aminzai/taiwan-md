@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T12:15:05+08:00",
-    "zhCommitHead": "5fc4f640d",
+    "lastUpdated": "2026-08-05T12:18:50+08:00",
+    "zhCommitHead": "2ccdcd591",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 626,
+        "fresh": 627,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 251,
+        "missing": 250,
         "orphan": 0
       },
       "ar": {
@@ -51466,8 +51466,8 @@
           "sourceContentHash": "sha256:74ac37cae326eaa1",
           "sourceBodyHash": "sha256:9c1e23df6047812e",
           "translatedAt": "2026-08-05T12:06:48+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "2ccdcd59",
+          "translationLastModified": "2026-08-05T12:15:05+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -107222,7 +107222,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/dutch-spanish-and-koxinga-era.md",
+          "translatedFrom": "History/荷西明鄭時期.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:63ac1f41561d9b5f",
+          "sourceBodyHash": "sha256:b9a9258412d16bc5",
+          "translatedAt": "2026-08-05T06:07:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/dutch-spanish-and-koxinga-era.md",
