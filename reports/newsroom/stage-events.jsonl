@@ -744,3 +744,5 @@
 {"ts": "2026-08-05T04:56:55Z", "slug": "matsu-biennial", "stage": "research", "status": "done", "source": "observed"}
 {"ts": "2026-08-05T06:32:00Z", "slug": "馬祖國際藝術島", "stage": "projection", "status": "done", "source": "observed"}
 {"ts": "2026-08-05T06:41:18Z", "slug": "matsu-biennial", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-08-05T16:08:15Z", "slug": "matsu-biennial", "stage": "verify", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-05T16:08:15Z", "slug": "馬祖國際藝術島", "stage": "ship", "status": "done", "source": "observed"}
