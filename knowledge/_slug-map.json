@@ -13,6 +13,7 @@
     "",
     "新增條目時：kebab-case、純 ASCII、60 字元內，先 git ls-files 確認沒撞到既有 slug。"
   ],
+  "Art/馬祖國際藝術島.md": "matsu-biennial",
   "Culture/八點檔.md": "taiwan-prime-time-drama",
   "Economy/旺旺.md": "want-want-group",
   "History/動保.md": "animal-protection-in-taiwan",
