@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T04:10:20+08:00",
-    "zhCommitHead": "e64ec274d",
+    "lastUpdated": "2026-08-06T04:18:26+08:00",
+    "zhCommitHead": "06306186e",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -19,8 +19,8 @@
     "summary": {
       "en": {
         "total_zh": 883,
-        "fresh": 825,
-        "stale": 25,
+        "fresh": 826,
+        "stale": 24,
         "metadata_stale": 13,
         "missing": 20,
         "orphan": 0
@@ -27102,16 +27102,16 @@
         "en": {
           "path": "en/Art/new-taipei-city-museum-of-art.md",
           "translatedFrom": "Art/新北市美術館.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:10e53513cef6450a",
-          "sourceBodyHash": "sha256:c5c8b0370d628478",
-          "translatedAt": "2026-08-04T12:41:09+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-08-05T20:14:03.911191+00:00",
           "translationLastCommit": "e9059f94",
           "translationLastModified": "2026-08-04T13:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/new-taipei-city-museum-of-art.md",
@@ -51431,8 +51431,8 @@
           "sourceContentHash": "sha256:6a877621bb6ceb6f",
           "sourceBodyHash": "sha256:855af6d5f189b0bd",
           "translatedAt": "2026-08-05T16:59:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "06306186",
+          "translationLastModified": "2026-08-06T04:10:20+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -59215,8 +59215,8 @@
           "sourceContentHash": "sha256:9339a35ccebb0ba3",
           "sourceBodyHash": "sha256:267addb8edcb3bef",
           "translatedAt": "2026-08-05T16:59:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "06306186",
+          "translationLastModified": "2026-08-06T04:10:20+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
