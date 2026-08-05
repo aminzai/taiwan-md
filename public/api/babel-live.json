@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-05T19:13:26+08:00",
+ "generated_at": "2026-08-05T21:03:21+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-05T19:13:23+08:00",
+ "snapshot_ts": "2026-08-05T21:03:17+08:00",
  "total_zh": 883,
  "langs": [
   {
@@ -108,31 +108,31 @@
  "gap_delta": 0,
  "rate_1h": {
   "delta": 0,
-  "span_h": 2.27,
+  "span_h": 1.83,
   "per_hour": 0.0
  },
  "rate_24h": {
-  "delta": 264,
-  "span_h": 24.04,
-  "per_hour": 11.0
+  "delta": 157,
+  "span_h": 24.1,
+  "per_hour": 6.5
  },
  "eta_days": null,
  "nodes": {
   "worker:desktop3090": {
    "ok": 291,
-   "fail": 634,
+   "fail": 635,
    "avg_s": 59.8,
    "top_fail": [
     [
      "no output written by tra",
-     381
+     382
     ],
     [
      "health [footnote-format]",
      123
     ]
    ],
-   "last_activity": "2026-08-05T17:02:58+08:00"
+   "last_activity": "2026-08-05T20:03:14+08:00"
   },
   "worker:nemo": {
    "ok": 222,
@@ -234,24 +234,19 @@
   {
    "kind": "unified",
    "pid": "8492",
-   "uptime": "03-20:04:56",
+   "uptime": "03-21:54:51",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
    "pid": "35584",
-   "uptime": "02:15:48",
+   "uptime": "04:05:43",
    "langs": "en,es,fr,ko",
    "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-04T16:38:33+08:00",
-   "fresh_total": 7542,
-   "gap_total": 2160
-  },
   {
    "ts": "2026-08-04T16:53:47+08:00",
    "fresh_total": 7566,
@@ -724,6 +719,11 @@
   },
   {
    "ts": "2026-08-05T19:13:23+08:00",
+   "fresh_total": 7965,
+   "gap_total": 1748
+  },
+  {
+   "ts": "2026-08-05T21:03:17+08:00",
    "fresh_total": 7965,
    "gap_total": 1748
   }
