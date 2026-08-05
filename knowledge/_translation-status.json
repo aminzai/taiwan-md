@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T02:51:02+08:00",
-    "zhCommitHead": "f30da76e2",
+    "lastUpdated": "2026-08-06T03:06:33+08:00",
+    "zhCommitHead": "92d547c89",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 883,
-        "fresh": 737,
+        "fresh": 738,
         "stale": 5,
         "metadata_stale": 5,
-        "missing": 136,
+        "missing": 135,
         "orphan": 0
       }
     },
@@ -2026,8 +2026,8 @@
           "sourceContentHash": "sha256:9dc0db555b0aecb7",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T18:31:10.295241+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92d547c8",
+          "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -8634,8 +8634,8 @@
           "sourceContentHash": "sha256:8fc0adba07db27e5",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T14:12:47.537672+00:00",
-          "translationLastCommit": "897b6f75",
-          "translationLastModified": "2026-08-05T06:07:12+08:00",
+          "translationLastCommit": "92d547c8",
+          "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "stale",
@@ -27181,8 +27181,8 @@
           "sourceContentHash": "sha256:ae965ccf6dfa996d",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T14:00:15.016917+00:00",
-          "translationLastCommit": "de6c4534",
-          "translationLastModified": "2026-08-05T11:19:56+08:00",
+          "translationLastCommit": "92d547c8",
+          "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "stale",
@@ -37621,7 +37621,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/commonwealth-magazine.md",
+          "translatedFrom": "Society/天下雜誌.md",
+          "sourceCommitSha": "d317f1649",
+          "sourceContentHash": "sha256:cfcffc0d37076c22",
+          "sourceBodyHash": "sha256:a2fb34529fea33ac",
+          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52766,8 +52777,8 @@
           "sourceContentHash": "sha256:62ebba53e36804d0",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T14:36:18.787132+00:00",
-          "translationLastCommit": "55406218",
-          "translationLastModified": "2026-07-31T10:15:47+08:00",
+          "translationLastCommit": "92d547c8",
+          "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
