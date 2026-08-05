@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T12:18:50+08:00",
-    "zhCommitHead": "2ccdcd591",
+    "lastUpdated": "2026-08-05T12:48:57+08:00",
+    "zhCommitHead": "427b89912",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 530,
+        "fresh": 531,
         "stale": 6,
         "metadata_stale": 7,
-        "missing": 339,
+        "missing": 338,
         "orphan": 0
       },
       "pt": {
@@ -83,9 +83,9 @@
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 627,
+        "fresh": 628,
         "stale": 1,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 250,
         "orphan": 0
       },
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 740,
+        "fresh": 741,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 138,
+        "missing": 137,
         "orphan": 0
       }
     },
@@ -20087,18 +20087,16 @@
         "hi": {
           "path": "hi/Technology/yam-yam-taiwan-portal.md",
           "translatedFrom": "Technology/蕃薯藤.md",
-          "sourceCommitSha": "781e16434",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
-          "translatedAt": "2026-07-28T19:24:17+08:00",
+          "translatedAt": "2026-08-05T06:07:24+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/yam-yam-taiwan-portal.md",
@@ -67662,8 +67660,8 @@
           "sourceContentHash": "sha256:6b588911c485c4d9",
           "sourceBodyHash": "sha256:3582a490ea4120f2",
           "translatedAt": "2026-08-05T06:07:24+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "427b8991",
+          "translationLastModified": "2026-08-05T12:18:50+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "status": "fresh",
@@ -85602,8 +85600,8 @@
           "sourceContentHash": "sha256:ea84edf10c10d1a4",
           "sourceBodyHash": "sha256:54cafe2c5032e30e",
           "translatedAt": "2026-08-05T06:07:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "427b8991",
+          "translationLastModified": "2026-08-05T12:18:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -87143,7 +87141,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/kuo-hsing-chun-olympic-weightlifting-champion.md",
+          "translatedFrom": "People/郭婞淳.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:100a6dfe0d0c9f4b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-05T04:13:02.331708+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/kuo-hsing-chun-olympic-weightlifting-champion.md",
@@ -88557,7 +88566,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "95f42de83",
+          "sourceContentHash": "sha256:5a619f0cc796c527",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-05T04:28:22.650560+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -107228,8 +107248,8 @@
           "sourceContentHash": "sha256:63ac1f41561d9b5f",
           "sourceBodyHash": "sha256:b9a9258412d16bc5",
           "translatedAt": "2026-08-05T06:07:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "427b8991",
+          "translationLastModified": "2026-08-05T12:18:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -109011,8 +109031,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-08-05T00:31:26+08:00",
-          "translationLastCommit": "c91563c1",
-          "translationLastModified": "2026-07-26T06:52:25+08:00",
+          "translationLastCommit": "427b8991",
+          "translationLastModified": "2026-08-05T12:18:50+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
