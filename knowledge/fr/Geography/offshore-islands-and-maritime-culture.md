@@ -23,10 +23,10 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:a5ce1cc1637b843d'
-sourceBodyHash: 'sha256:3262816e651d35d1'
-translatedAt: '2026-04-15T17:34:06+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:61916e4f91798262'
+sourceBodyHash: 'sha256:b069d77bfe98ff54'
+translatedAt: '2026-08-05T17:12:54.217020+00:00'
 ---
 
 > **En 30 secondes :** Il existe moins de 600 shihu (pièges à poissons en pierre d'une grande ancienneté) dans le monde entier — et les seules Pescadores en abritent plus de 574, une densité absolument inégalée sur la planète. À Orchid Island, le peuple Tao (Dawu) a élevé les « tabous » de la saison du poisson volant au rang de système de gestion des ressources marines le plus élaboré qui soit — non pas par superstition, mais par science. Ces îles périphériques ne sont pas de simples confins de Taïwan : ce sont des musées vivants de la sagesse humaine face à la mer.

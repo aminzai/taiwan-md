@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Art/新北市美術館.md'
-sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:10e53513cef6450a'
-sourceBodyHash: 'sha256:c5c8b0370d628478'
-translatedAt: '2026-08-04T12:41:09+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:6e2227266f254dbd'
+sourceBodyHash: 'sha256:c64c3872bb69a137'
+translatedAt: '2026-08-05T16:12:48.142861+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le 25 avril 2<0xA0>2025, le Musée d'art de New Taipei a officiellement ouvert ses portes à Yingge. Conçue par l'architecte Yao Jen-hsi, cette structure ayant nécessité dix ans de travaux et un investissement de près de 3 milliards de dollars taïwanais, puise son inspiration dans les roseaux bordant la rivière Dahan, transformant 3 200 tubes d'aluminium argentés en une image artistique oscillant au gré du vent. Cependant, entre le concours international initial, les appels d'offres infructueux, l'augmentation du budget et les critiques de « musée moustique » (peu fréquenté) après l'ouverture, ce nouveau musée n'est pas seulement un temple de l'art, mais aussi le reflet des tensions complexes liées à la construction culturelle et à la répartition des ressources publiques à Taïwan.
