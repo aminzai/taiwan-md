@@ -351,3 +351,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-05 | 084627-twmd-maintainer-daily | 零 PR 空場（vc=1），build 綠、斷鏈 0.22%；把掛十天的 #1264 seo-meta 量出實測底線送 OBSERVER-QUEUE #27 | 合格的中文 description 翻成拉丁文字就是 3.8-4.3 倍，這道閘門補不上得換定義 | [→](memory/2026-08-05-084627-twmd-maintainer-daily.md) |
 | 2026-08-05 | 093245-twmd-flywheel-watch | 飛輪零靜默（24hr 137 commit／11 筆 routine 標記）；儀器少讀 cron 日號欄位把月排程當日排程，誤報誕生第二天的 terminology-trends，當場修掉；live dump 連三晨沒更新補進 #22 | 沒被走過的程式路徑不會叫，它等飛輪長出第一條月排程才現形 | [→](memory/2026-08-05-093245-twmd-flywheel-watch.md) |
 | 2026-08-05 | 104901-twmd-terminology-trends-monthly | 首個常規月度輪：10 詞入庫（含 3 條誤判翻案）＋2 條補肉；雙防線查重攔下 5 個近似重複 | demand-rank 的 MISSING 清單是待查證清單不是入庫清單，30 詞裡僅 1 詞查證後站得住腳 | [→](memory/2026-08-05-104901-twmd-terminology-trends-monthly.md) |
+| 2026-08-06 | 053558-twmd-embeddings-nightly | 12 語 9010 向量 0 fail，較昨夜 +29；增幅從 +169→+116→+29 連三夜遞減，vi 仍最少 | 增幅遞減可能是翻譯爬升期近尾聲，下次交叉 dashboard i18n 覆蓋率確認 | [→](memory/2026-08-06-053558-twmd-embeddings-nightly.md) |
