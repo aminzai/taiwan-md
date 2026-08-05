@@ -16,16 +16,17 @@ tags:
     'stone weirs',
     'flying fish season',
   ]
+subcategory: '島嶼與海洋'
 author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:a5ce1cc1637b843d'
-sourceBodyHash: 'sha256:3262816e651d35d1'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:61916e4f91798262'
+sourceBodyHash: 'sha256:b069d77bfe98ff54'
+translatedAt: '2026-08-05T16:56:36.719519+00:00'
 ---
 
 > **30-Second Overview:** Fewer than 600 stone fish weirs (ancient fishing traps) exist worldwide—Penghu alone has 574+, boasting the world's highest density. On Orchid Island, the Tao people developed flying fish season "taboos" into Earth's most precise ocean resource management system—not superstition, but science. These islands aren't Taiwan's periphery; they're museums of human maritime wisdom.
@@ -195,41 +196,46 @@ Green Island features rare seawater hot springs—Zhaori Hot Springs. Undergroun
 
 **Even more special is timing**: Zhaori Hot Springs' optimal time is 5-6 AM. As dawn's first light rises from the Pacific, you're soaking in warm seawater welcoming sunrise—probably Taiwan's most romantic sunrise experience.
 
-## Islands' Maritime Wisdom: Inspiration for the Modern World
+## Marine Wisdom of the Outlying Islands: Inspiration for the Modern World
 
-### Ancient Solutions for Sustainable Fishing
+### Ancient Solutions for Sustainable Fisheries
 
-Penghu stone weirs and Orchid Island flying fish seasons both represent ancient "sustainable fishing" practices. As modern fisheries face overfishing crises, these traditional wisdoms offer important insights:
+The Penghu stone fish weirs and Lanyu's flying fish season are both ancient practices of "sustainable fisheries." As modern fisheries face the crisis of overfishing, this traditional wisdom provides important inspiration:
 
-- **Seasonal Management**: Fishing strategies aligned with fish life cycles
-- **Ecological Engineering**: Stone weirs use no artificial adhesives—earliest ecological engineering
-- **Community Co-management**: Weir construction and maintenance requires entire community cooperation
-- **Cultural Protection**: Integrating fishery management with cultural traditions improves compliance
+- **Seasonal Management**: Fishing strategies that align with the life cycles of fish species.
+  le
+- **Ecological Engineering**: Stone fish weirs use no artificial adhesives, representing some of the earliest forms of ecological engineering.
+- **Community Co-management**: The construction and maintenance of stone fish weirs require the cooperation of the entire community.
+- **Cultural Preservation**: Integrating fishery management into cultural traditions to increase compliance.
 
-### Small Island Nations' Climate Change Experience
+### Climate Change Experiences of Small Island Nations
 
-Facing sea-level rise threats, islands provide valuable adaptation experiences:
+Facing the threat of rising sea levels, Taiwan's outlying islands provide precious experience in adaptation:
 
-- **Diverse Energy**: Matsu's wind power, Penghu's solar systems
-- **Seawater Desalination**: Technological accumulation solving freshwater shortages
-- **Ecotourism**: Successful transition from traditional industries to sustainable tourism
-- **Cultural Resilience**: Preserving traditional culture during modernization
+- **Diverse Energy**: Wind power in Matsu and solar energy systems in Penghu.
+- **Desalination**: Accumulated technical expertise in addressing freshwater shortages.
+- **Ecotourism**: Successful models of transitioning from traditional industries to sustainable tourism.
+- **Cultural Resilience**: How to preserve traditional culture throughout the process of modernization.
 
-### Island Thinking's Global Significance
+### The Global Significance of Island Thinking
 
-Taiwan islands' experiences offer important reference for global island nations. From Pacific Palau and Marshall Islands to Atlantic Maldives, all face similar challenges:
+The experiences of Taiwan's outlying islands hold significant reference value for island nations worldwide. From Palau and the Marshall Islands in the Pacific to the Maldives in the Atlantic, all face similar challenges:
 
-How to develop sustainable economic models on limited land resources?
-How to maintain cultural uniqueness amid globalization?
-How to maintain social resilience under climate change threats?
+How can we develop sustainable economic models on limited land resources?
+How can we maintain cultural uniqueness amidst the waves of globalization?
+How can we maintain social resilience under the threat of climate change?
 
-**Taiwan islands use three centuries of maritime wisdom to answer these 21st-century key questions.**
+**Taiwan's outlying islands use three hundred years of marine living wisdom to answer these critical 21st-century questions.**
 
-> **✦** "The ocean isn't separation but connection. People on these islands used stones to build fishing traps, wove sustainability laws from taboos, welcomed sunrise with hot springs, and remembered flying fish routes through songs. They teach us: humans can harmoniously coexist with oceans—not just conquest, but symbiosis."
+> **✦** "The ocean is not a barrier, but a connection. The people on these islands built fishing traps with stones, wove sustainable laws through taboos, welcomed the sun with hot springs, and memorized the routes of flying fish through song. They tell us: humanity can coexist harmoniously with the ocean—not merely by conquering it, but through symbiosis."
 
-Standing on Qimei Twin Hearts Stone Weir's viewing platform, watching 300-year-old basalt walls glitter in sunset; hearing Tao elders sing ancient work songs on Orchid Island; making eye contact with green sea turtles in Xiaoliuqiu's crystal waters—you hear not just ocean waves, but wisdom echoes from this island's millennia-long ocean dialogue.
+When you stand on the viewing platform of the Qimei Twin-Heart Stone Fish Weir, watching the basalt walls from three hundred years ago shimmer in the sunset; when you hear the elders of the Tao people on Lanyu singing ancient work songs; when you lock eyes with a green sea turtle in the transparent waters of Xiaoliuqiu—you are hearing more than just the sound of waves; you are hearing the echoes of wisdom from thousands of years of dialogue between these islands and the sea.
 
-These voices remind us: we aren't ocean masters; we're ocean children.
+These voices remind us: we are not the masters of the ocean, we are its children.
+
+**Further Reading**:
+
+- [Matsu International Art Island](/art/馬祖國際藝術島) — Beyond the "Blue Tears" and sea caves, Matsu has developed its own curatorial language over the last decade. The themes for the three sessions—_Island Brewing_, _Living Red through Summer_, and _Capturing Autumn_—were all derived from Min-dong (Eastern Fujianese) proverbs.
 
 ## References
 
