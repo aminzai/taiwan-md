@@ -1,16 +1,24 @@
 {
-  "lastUpdated": "2026-08-03T22:12:23.147Z",
+  "lastUpdated": "2026-08-04T22:12:56.811Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 1,
+  "count": 2,
   "alerts": [
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=57：漂移 — 多維度退化中",
+      "message": "免疫 v3=60：需關注 — T1 review < 80% OR plugin pass < 90%",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
+    },
+    {
+      "id": "routine-livestate-stale",
+      "severity": "yellow",
+      "message": "routine-live-state.json dump 齡 72h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "source": "routine-live-state.json",
+      "owner": "twmd-data-refresh",
+      "firstSeen": "2026-08-04"
     }
   ]
 }

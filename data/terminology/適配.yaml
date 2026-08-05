@@ -2,11 +2,12 @@ id: 適配
 category: daily
 fork_type: E
 display:
-  taiwan: 符合 / 相符
-  china: 適配
+  taiwan: 相容 / 符合 / 相符
+  china: 適配（適配度）
 etymology:
-  origin: 與某個東西互相對應並適用。
-notes: 來源：caris-events/invade (CC0)
+  origin: 中國 IT／消費電子語境常用「適配」「適配度」描述軟硬體或方案彼此對應相容的程度，台灣傳統說法是「相容」「相符」「符合」。Search Console 讀者搜尋數據顯示「適配度」有實際曝光，詞庫既有條目僅有極簡定義，本輪補充來源與 SC 需求佐證。
+notes: 來源：caris-events/invade (CC0)；2026-08 補充 invade.tw 支語字典交叉佐證與 SC 需求數據。
 sources:
   - https://github.com/caris-events/invade
+  - https://invade.tw/v/%E9%81%A9%E9%85%8D
 added: 2026-03-30

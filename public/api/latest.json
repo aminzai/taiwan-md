@@ -1,8 +1,53 @@
 {
-  "_generated": "2026-08-03T22:12:26.009Z",
+  "_generated": "2026-08-04T22:12:59.688Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣水果王國：這座島嶼把每一顆水果都當成生命跟記憶在種",
+        "desc": "從玉井山坡的清晨、麻豆文旦老欉、濱江凌晨拍賣、削果皮的阿嬤，到荔枝椿象跟外籍移工的果園：這座亞熱帶島嶼把水果變成一種跟土地、跟世代、跟世界對話的方式。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
+        "date": "2026-08-04T18:41:16+08:00",
+        "readingTime": 16,
+        "image": "/article-images/food/fruit-kingdom-mango-fangliao-2009.webp"
+      },
+      {
+        "title": "台灣行道樹：一條用樹命名的路，和一百年沒做完的決定",
+        "desc": "彰化市茄苳路二段 292 號，門牌是一棵樹齡眾說紛紜的老茄苳取的——路配合樹，不是樹配合路。從 1898 年田代安定的植樹論、1980 年代狂種的黑板樹，到 2026 年六千多人連署要求禁止斷頭式修剪，每一代台灣人都替街上的樹做過決定。只是那份寫著「一律禁止」的修剪指引，到今天還只是「供各機關參考運用」。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E8%A1%8C%E9%81%93%E6%A8%B9",
+        "date": "2026-08-04T18:38:23+08:00",
+        "readingTime": 18,
+        "image": "/article-images/lifestyle/jiji-green-tunnel-camphor-2017.webp"
+      },
+      {
+        "title": "台灣海關報關與 EZ WAY：按下「申報相符」的那一下，你委任了誰",
+        "desc": "手機震一下，推播上是一串看不太懂的品名，你按下「申報相符」，法律上完成的是一份報關委任。全台有 759 萬人註冊過這個 App，2026 年 8 月一則貼文炸開後，很多人才第一次去查它是誰在營運：財政部持股 36.11%、官股未過半的關貿網路。同一時間，2,000 元免稅門檻正被政府第二次提出調降。這條便民捷徑的帳，誰付了、誰又從頭到尾沒能說上話。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E6%B5%B7%E9%97%9C%E5%A0%B1%E9%97%9C%E5%88%B6%E5%BA%A6%E8%88%87EZWAY",
+        "date": "2026-08-04T14:37:09+08:00",
+        "readingTime": 16,
+        "image": "/article-images/lifestyle/ezway-customs-taoyuan-airport-2024.webp"
+      },
+      {
+        "title": "國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕",
+        "desc": "從麥當勞玉米濃湯到必勝客「獵奇」披薩，國際品牌如何透過在地化策略融入台灣生活？本文橫跨速食、量販與超商，解析品牌如何轉化文化張力，並特別更新家樂福更名為「萬家福」與「樂家康」後的最新佈局。",
+        "category": "food",
+        "href": "/food/%E5%9C%8B%E9%9A%9B%E5%93%81%E7%89%8C%E5%9C%A8%E5%9C%B0%E5%8C%96",
+        "date": "2026-08-04T10:19:04+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "新港飴：從雨天意外到廟口百年的文化記憶",
+        "desc": "1891年，嘉義民雄小販盧欺頭因連日陰雨使花生糖受潮，意外將其與麥芽糖、麵粉揉合，創造出形似老鼠的「鳥鼠仔糖」。這顆因「惜物」而生的軟飴，隨後在嘉義新港奉天宮廟口扎根，從庶民零嘴晉升為日治時期博覽會的獲獎名產，成為台灣進香文化中不可或缺的甜味記憶。",
+        "category": "food",
+        "href": "/food/%E6%96%B0%E6%B8%AF%E9%A3%B4",
+        "date": "2026-08-04T10:19:04+08:00",
+        "readingTime": 6,
+        "image": ""
+      },
       {
         "title": "黃崇仁：他學的是醫學，一輩子把公司當病人救",
         "desc": "黃崇仁在美國拿的是醫學博士，三十八歲才辭掉教職去做掃描器。2012 年力晶以每股 0.29 元下市，約二十七萬名股東的股票變成壁紙，銀行團要他個人背書八百億或下台，他兩個都不選，寫信給四十三家銀行說自己不紓困，一塊一塊賣掉資產保住產線。九年後公司回到股市。同一套不清算的邏輯救回了工廠，也讓他在三毛錢的價位買回自己的股票。",
@@ -56,6 +101,15 @@
         "date": "2026-08-03T21:41:19+08:00",
         "readingTime": 14,
         "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "水往上流：在視覺錯覺中讀見阿美族開墾史與大腦的認知邊界",
+        "desc": "台東都蘭「水往上流」水溝其實向下傾斜約 0.5 度，卻因為旁邊道路坡度更大，讓遊客的大腦把水看成往上流。從阿美族早年開鑿的灌溉溝渠，到 1980 年代被包裝成觀光奇觀，再到近年被封為「全台最廢景點」，這條不到半米寬的窄溝渠，背後其實是一場關於視覺參照系的錯覺騙局。",
+        "category": "geography",
+        "href": "/geography/%E6%B0%B4%E5%BE%80%E4%B8%8A%E6%B5%81",
+        "date": "2026-08-03T17:23:14+08:00",
+        "readingTime": 15,
+        "image": ""
       },
       {
         "title": "黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程",
@@ -217,60 +271,6 @@
         "href": "/history/%E8%BF%AA%E5%A3%AB%E5%B0%BC",
         "date": "2026-07-25T15:41:41+08:00",
         "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "台灣山岳與登山文化",
-        "desc": "268座三千公尺高山擠在一座島上，台灣人卻花了半世紀才被允許自由爬自己的山",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E5%B1%B1%E5%B2%B3%E8%88%87%E7%99%BB%E5%B1%B1%E6%96%87%E5%8C%96",
-        "date": "2026-07-25T15:39:17+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "旺旺：從米果大王到媒體巨獸的權力轉場",
-        "desc": "1976年，19歲的蔡衍明接手宜蘭食品，從被譏為「敗家子」到靠日本米果技術翻身成為首富。2008年收購中時集團後，這間零食王國轉身成為台灣最具爭議的媒體巨頭，引發史無前例的反媒體壟斷運動。",
-        "category": "economy",
-        "href": "/economy/%E6%97%BA%E6%97%BA",
-        "date": "2026-07-25T08:53:24+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "台灣中小企業與隱形冠軍：171萬家平凡無奇企業撐起的經濟奇蹟",
-        "desc": "真正支撐台灣經濟的不是護國神山，而是171萬家看似平凡、卻創造79%就業機會的中小企業，其中多間隱形冠軍掌控著全球利基市場。從1960年代黑手師傅起家，到今日的精密製造王國。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E8%88%87%E9%9A%B1%E5%BD%A2%E5%86%A0%E8%BB%8D",
-        "date": "2026-07-25T08:50:24+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "台灣與北韓：從第四大出口國到影子艦隊的灰色交鋒",
-        "desc": "台灣曾是北韓第四大出口國，平壤辦公室裡隨處可見 Acer 電腦與和成衛浴。這段從熱絡貿易到全面禁運的歷史，交織著秘密農業援助、海上走私與國安情報的深層角力。",
-        "category": "history",
-        "href": "/history/%E5%8F%B0%E7%81%A3%E8%88%87%E5%8C%97%E6%9C%9D%E9%AE%AE%E9%97%9C%E4%BF%82",
-        "date": "2026-07-25T08:46:04+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "黑白大廚在台灣：一檔 Netflix 韓綜，16 個月內接進 7 條消費產業的味覺壓力測試",
-        "desc": "2024 年 9 月，Netflix《黑白大廚：料理階級大戰》首播當週就在台灣奪下收視冠軍。接下來 16 個月，節目裡 9 位韓國主廚透過聯名、客座、代言的方式，把觸角伸進台灣超商鮮食、手搖飲、速食連鎖、五星飯店自助餐、外送平台、連鎖韓食、甚至 Galaxy Z 摺疊機——七條幾乎互不相關的消費產業。其中金太星背書的手搖品牌「十盛」撐了 20 個月後於 2025-12-26 歇業，是台灣第一次對「韓綜主廚背書」做反向檢驗。",
-        "category": "culture",
-        "href": "/culture/%E9%BB%91%E7%99%BD%E5%A4%A7%E5%BB%9A%E5%9C%A8%E5%8F%B0%E7%81%A3",
-        "date": "2026-07-23T22:24:59+09:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "牡丹社事件：石門峽谷下的文明碰撞與主權覺醒",
-        "desc": "1874年，一場由海難引發的軍事行動，讓台灣南端的石門峽谷成為近代東亞格局的震央。這不僅是日本帝國擴張的試金石，更是清廷從邊陲防禦轉向積極治理的命運轉捩點。",
-        "category": "history",
-        "href": "/history/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6",
-        "date": "2026-07-23T22:05:31+08:00",
-        "readingTime": 12,
         "image": ""
       }
     ],
@@ -510,8 +510,8 @@
         "image": ""
       },
       {
-        "title": "Sanxia Old Street: Power Struggles Under Brick Arcades and an Unfinished Cultural Heritage Experiment",
-        "desc": "Sanxia Old Street, recognized in 2007 by the FIABCI Prix d'Excellence, was Taiwan's first large-scale demonstration site for a 'restoration project.' From the Qing-era cloth-dyeing trade of 'Sankeng' to the 2016 tragedy of the forced removal of stone-paved roads, this brick street records Taiwan's intense struggle between preserving historic sites and developing tourism.",
+        "title": "Sanxia Old Street: Power Struggles Beneath Red Brick Arcades and an Unfinished Heritage Experiment",
+        "desc": "Recognized by FIABCI with the Global Excellence in Construction Award in 2007, Sanxia Old Street served as Taiwan's first large-scale \"restoration project\" pilot. From the Qing Dynasty's \"Sanjiaoyong\" indigo dyeing trade to the 2016 tragedy of the flagstone road's removal, this red-brick street records Taiwan's intense struggle between heritage preservation and tourism development.",
         "category": "history",
         "href": "/en/history/sanxia-old-street",
         "date": "2026-07-27T18:53:04+08:00",
@@ -656,8 +656,8 @@
         "image": "/article-images/people/yaxian-portrait-2012.webp"
       },
       {
-        "title": "医療法：機関規範と市場のせめぎ合いの四十年",
-        "desc": "台湾の医療法は 1986 年に公布され、2017 年に医師の刑事責任が改正され、2026 年に看護師対患者比が法制化されました。法律に書かれているのは「医療事業の健全な発展の促進」ですが、実際に動いているのは、病床の 83% が私立化され、救急医の離職率が国際水準の 2、3 倍に達し、看護師が相次いで 1,000 人以上離職してようやく看護師対患者比が法律に書き込まれるという現実です。これは健保法でも医師法でもありません。台湾において「病院」という機関がどのように存在するのかを定める根本法であり、医療の公益性と市場メカニズムのあいだで四十年にわたり解けていないせめぎ合いでもあります。",
+        "title": "医療法：機関規制と市場とのせめぎ合いの40年",
+        "desc": "台湾医療法は1986年に公布され、2017年に医師の刑事責任が改正され、2026年には三交代制の看護師患者比が法制化された。法律で「一人の看護師が最大何床を担当できるか」は定められるが、「その看護師が実際にいるかどうか」は定められない——32万枚の看護師免許があるのに、臨床現場に残っているのは19万双の手だけだ。これは健保法でも医師法でもない、台湾における「病院」という機関がどう存在するかの根本法であり、また医療の公益性と市場メカニズムが40年間解けないでいる綱引きでもある。",
         "category": "society",
         "href": "/ja/society/medical-care-act",
         "date": "2026-07-31T00:55:37+08:00",
@@ -773,8 +773,8 @@
         "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
       },
       {
-        "title": "台湾海洋貿易史",
-        "desc": "大航海時代の台湾――国際貿易中心から海賊王国への興亡の物語",
+        "title": "台湾の海洋貿易史",
+        "desc": "大航海時代の台湾、国際貿易中心から海賊王国への興亡の伝説",
         "category": "history",
         "href": "/ja/history/taiwan-maritime-trade-history",
         "date": "2026-07-27T19:10:22+08:00",
@@ -1072,8 +1072,8 @@
         "image": "/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp"
       },
       {
-        "title": "팔점단: 한 자루 외국 불꽃, 대만 거실의 이단적 매력과 향수를 탄생시킨",
-        "desc": "1990년대 황정유의 슬픔극에서 2000년대 빠리화 미묘까지, 팔점단은 대만인의 배경음악이자 현실과 동기화된 '즉시 촬영 즉시 방송' 산업적 기적이다.",
+        "title": "8시 드라마: 성냥불 하나가 태완의 거실에 피워낸 컬트와 향수",
+        "desc": "1990년대 칭야오(瓊瑤)식 신파극부터 2000년대 '피력화(霹靂火)' 밈까지, 8시 드라마는 단순한 배경음을 넘어 현실과 동기화되어 제작되는 '실시간 방영'의 산업적 기적이다.",
         "category": "culture",
         "href": "/ko/culture/taiwan-prime-time-drama",
         "date": "2026-07-27T22:09:24+08:00",
@@ -1081,8 +1081,8 @@
         "image": ""
       },
       {
-        "title": "샤오베이 백화점: 심야의 불빛 속 대만 잡화왕, 해산물 포장마차에서 '학부모의 구원자'까지의 30년",
-        "desc": "1994년 타이난 샤오베이 야시에서 시작되어 '24시간 영업'과 '남들이 팔지 않는 상품을 파는' 전략으로 190개 이상의 매장을 갖춘 하드웨어 업계의 거인이 된 샤오베이 백화점. 이는 학부모의 심야 구원자이자 이주 노동자의 향수 공급기지이며, 대만 소매업의 가장 끈질긴 생존 신화이다.",
+        "title": "샤오베이 백화점: 심야의 불빛 아래 타이완 잡화왕, 해산물 노점에서 '학부모의 구세주'가 되기까지 30년",
+        "desc": "1994년 타이난 샤오베이 야시장에서 시작된 샤오베이 백화점은 '24시간 영업'과 '남들이 팔지 않는 물건 판매'라는 전략을 통해, 폐업 위기의 해산물 가게에서 전국 100여 개 매장을 보유한 철물 유통의 선두주자로 성장했다. 학부모에게는 심야의 구세주이자, 이주 노동자에게는 고향의 향수를 달래주는 보급소이며, 타이완 소매업계에서 가장 끈질긴 생존 신화로 불린다.",
         "category": "lifestyle",
         "href": "/ko/lifestyle/xiaobei-department-store",
         "date": "2026-07-27T22:09:24+08:00",
@@ -1335,8 +1335,8 @@
         "image": ""
       },
       {
-        "title": "Petit Nord Department Store : Le roi des articles divers de Taïwan dans la lumière tardive, de l'étalage de produits de la mer au « sauveur des parents » en trente ans",
-        "desc": "Fondé en 1994 au marché nocturne de Xiaobei à Tainan, Petit Nord Department Store s'est imposé grâce à sa stratégie d'ouverture « 24 heures sur 24 » et de vente d'articles que les autres refusent de proposer. De la transformation d'un magasin de produits de la mer au bord de la faillite, il est devenu le leader incontesté de la quincaillerie avec plus de 190 succursales à travers l'île. Il constitue le sauveur nocturne des parents, une station de ravitaillement pour la nostalgie des travailleurs migrants, et le miracle de survie le plus tenace de l'industrie de la vente au détail taïwanaise.",
+        "title": "Xiaobei Department Store : Le roi de l'épicerie taïwanaise sous les lumières de la nuit, de l'étal de fruits de mer au « sauveur des parents » en trente ans",
+        "desc": "Ayant débuté en 1994 au marché de nuit de Xiaobei à Tainan, Xiaobei Department Store a transformé une échoppe de produits de la mer proche de la faillite en un leader de la quincaillerie avec plus de 190 magasins à Taïwan, grâce à une stratégie d'ouverture « 24h/24 » et de vente de « produits que les autres ne vendent pas ».",
         "category": "lifestyle",
         "href": "/fr/lifestyle/xiaobei-department-store",
         "date": "2026-07-27T22:09:24+08:00",

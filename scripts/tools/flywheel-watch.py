@@ -30,8 +30,13 @@ Exit code: 0 = 飛輪在轉；1 = 有靜默（CRITICAL 或 WARN）；2 = 環境�
 
 ## 誠實的限制
 
-`last_due` 只處理 `分 時 * * 星期` 這種單點 cron，不展開 `*/N`、多時段等語法（無
-croniter 依賴）。算不出來的一律列進 `unknown_cron` 不判定，**不假裝知道**。
+`last_due` 只處理 `分 時 * * 星期` 與 `分 時 日 * *` 這種單點 cron，不展開 `*/N`、
+多時段、日號與星期同時指定（cron 語意是 OR）等語法（無 croniter 依賴）。算不出來的
+一律列進 `unknown_cron` 不判定，**不假裝知道**。
+
+日號欄位曾被靜默忽略：`30 10 5 * *`（每月 5 日）被當成每日 10:30 判，讓月排程的
+routine 一個月有 29 天被誤報靜默（2026-08-05 terminology-trends 首例，誕生隔天就
+中）。「不假裝知道」是這支儀器自己寫下的規矩，卻在自己身上破了一次。
 
 「跑過了」有兩把獨立的尺：`[routine]` commit tag，以及 MEMORY.md 索引列的 session-id
 handle。兩把都不中才算靜默——只認 commit tag 會把「跑完但 commit 沒帶 taskId」誤報成
@@ -213,6 +218,7 @@ def last_due(cron, now):
 
     daily：今天 h:m 已過就是今天，否則昨天。
     weekly：往回找最近一個符合的星期幾且時刻已過。
+    monthly：往回找最近一個符合的日期且時刻已過（單一日號才判，多日／範圍不判）。
     只判「有沒有到期」，不展開完整 cron 語法（無 croniter 依賴）。
     """
     parts = cron.split()
@@ -222,7 +228,20 @@ def last_due(cron, now):
         minute, hour = int(parts[0]), int(parts[1])
     except ValueError:
         return None
-    dow = parts[4]
+    dom, dow = parts[2], parts[4]
+    if dom != "*":
+        # 日號與星期同時指定時 cron 語意是 OR，這裡不展開，交給 unknown_cron
+        if dow != "*" or not dom.isdigit():
+            return None
+        wanted_day = int(dom)
+        for back in range(0, 400):
+            d = now - timedelta(days=back)
+            if d.day != wanted_day:
+                continue
+            cand = d.replace(hour=hour, minute=minute, second=0, microsecond=0)
+            if cand <= now:
+                return cand
+        return None
     if dow == "*":
         cand = now.replace(hour=hour, minute=minute, second=0, microsecond=0)
         return cand if cand <= now else cand - timedelta(days=1)

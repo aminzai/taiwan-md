@@ -1,8 +1,8 @@
 {
-  "totalArticles": 8976,
+  "totalArticles": 9094,
   "totalCategories": 26,
   "estimatedContributors": 68,
-  "totalTags": 5993,
+  "totalTags": 6007,
   "categories": [
     {
       "name": "es",
@@ -30,11 +30,11 @@
     },
     {
       "name": "hi",
-      "count": 604
+      "count": 627
     },
     {
       "name": "ru",
-      "count": 713
+      "count": 732
     },
     {
       "name": "History",
@@ -42,11 +42,11 @@
     },
     {
       "name": "id",
-      "count": 486
+      "count": 532
     },
     {
       "name": "ar",
-      "count": 692
+      "count": 709
     },
     {
       "name": "Politics",
@@ -58,7 +58,7 @@
     },
     {
       "name": "pt",
-      "count": 808
+      "count": 818
     },
     {
       "name": "Food",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Geography",
-      "count": 66
+      "count": 67
     },
     {
       "name": "Economy",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Lifestyle",
-      "count": 31
+      "count": 33
     },
     {
       "name": "Art",
@@ -112,11 +112,11 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 71
+      "count": 67
     },
     {
       "name": "人物",
-      "count": 59
+      "count": 57
     },
     {
       "name": "企業",
@@ -128,7 +128,7 @@
     },
     {
       "name": "文學",
-      "count": 31
+      "count": 30
     },
     {
       "name": "ODM",
@@ -136,6 +136,10 @@
     },
     {
       "name": "半導體",
+      "count": 25
+    },
+    {
+      "name": "AI",
       "count": 25
     },
     {
@@ -155,15 +159,7 @@
       "count": 24
     },
     {
-      "name": "AI",
-      "count": 24
-    },
-    {
       "name": "音樂",
-      "count": 23
-    },
-    {
-      "name": "高雄",
       "count": 23
     },
     {
@@ -187,18 +183,22 @@
       "count": 22
     },
     {
-      "name": "인물",
-      "count": 21
+      "name": "高雄",
+      "count": 22
+    },
+    {
+      "name": "台南",
+      "count": 20
     }
   ],
   "languageDistribution": {
-    "zh-TW": 8976,
+    "zh-TW": 9094,
     "en": 0
   },
-  "lastUpdated": "2026-08-03T22:12:08.641Z",
-  "stars": 1123,
+  "lastUpdated": "2026-08-04T22:12:41.406Z",
+  "stars": 1124,
   "forks": 170,
-  "zhPages": 877,
+  "zhPages": 880,
   "enPages": 868,
-  "totalPages": 877
+  "totalPages": 880
 }
