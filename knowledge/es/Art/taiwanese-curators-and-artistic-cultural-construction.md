@@ -2,6 +2,7 @@
 title: 'Curadores taiwaneses y la construcción cultural artística'
 description: 'Desde los brotes institucionales de principios de la década de 1990 hasta las plataformas internacionales de hoy, ¿cómo han construido los curadores taiwaneses un discurso artístico local dentro de la ola de globalización, y cómo han encontrado su propia voz dentro del sistema de bienales internacionales? Una historia evolutiva de 30 años sobre la identidad cultural y la construcción profesional.'
 date: 2026-03-24
+category: 'Art'
 tags:
   [
     'curadores',
@@ -16,12 +17,11 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-category: 'Art'
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:01e74babf94ac8da'
-sourceBodyHash: 'sha256:859c873057ee681d'
-translatedAt: '2026-05-13T01:08:31Z'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:9ea16a828e45af61'
+sourceBodyHash: 'sha256:b8ac47c9a8b9482f'
+translatedAt: '2026-08-05T17:18:39.396390+00:00'
 ---
 
 # Curadores taiwaneses y la construcción cultural artística
