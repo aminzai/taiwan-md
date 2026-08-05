@@ -1,735 +1,1549 @@
 {
-  "date": "2026-08-03",
-  "total_404": 9663,
+  "date": "2026-08-04",
+  "total_404": 7213,
   "truncated": false,
   "families": {
-    "unknown": {
-      "count": 4289,
-      "bot": 3640,
-      "browser": 647,
-      "empty": 2
-    },
-    "slug-variant": {
-      "count": 420,
-      "bot": 310,
-      "browser": 110,
-      "empty": 0
-    },
-    "probe-wellknown": {
-      "count": 88,
-      "bot": 11,
-      "browser": 77,
-      "empty": 0
-    },
-    "stale-asset": {
-      "count": 123,
-      "bot": 1,
-      "browser": 122,
-      "empty": 0
-    },
-    "scanner": {
-      "count": 4341,
-      "bot": 3425,
-      "browser": 52,
-      "empty": 864
-    },
     "bad-encoding": {
-      "count": 67,
-      "bot": 66,
+      "count": 138,
+      "bot": 137,
       "browser": 1,
       "empty": 0
     },
-    "md-extension": {
-      "count": 265,
-      "bot": 215,
-      "browser": 50,
+    "scanner": {
+      "count": 2500,
+      "bot": 1659,
+      "browser": 237,
+      "empty": 604
+    },
+    "probe-wellknown": {
+      "count": 126,
+      "bot": 3,
+      "browser": 123,
+      "empty": 0
+    },
+    "stale-asset": {
+      "count": 89,
+      "bot": 1,
+      "browser": 88,
+      "empty": 0
+    },
+    "unknown": {
+      "count": 3857,
+      "bot": 3044,
+      "browser": 813,
       "empty": 0
     },
     "missing-asset": {
-      "count": 29,
-      "bot": 4,
-      "browser": 25,
+      "count": 37,
+      "bot": 16,
+      "browser": 21,
+      "empty": 0
+    },
+    "md-extension": {
+      "count": 166,
+      "bot": 99,
+      "browser": 67,
       "empty": 0
     },
     "untranslated-demand": {
-      "count": 21,
-      "bot": 14,
-      "browser": 7,
+      "count": 34,
+      "bot": 23,
+      "browser": 11,
+      "empty": 0
+    },
+    "slug-variant": {
+      "count": 256,
+      "bot": 220,
+      "browser": 36,
       "empty": 0
     },
     "renamed-or-truncated": {
-      "count": 12,
-      "bot": 7,
+      "count": 10,
+      "bot": 5,
       "browser": 5,
-      "empty": 0
-    },
-    "phantom": {
-      "count": 3,
-      "bot": 0,
-      "browser": 3,
-      "empty": 0
-    },
-    "cross-lang-slug": {
-      "count": 5,
-      "bot": 1,
-      "browser": 4,
       "empty": 0
     }
   },
   "top_paths": [
     {
-      "path": "/en/culture/taiwan-night-market-culture-and-street-food/",
-      "hits": 53,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "path": "/terminology/%3Cstrange-chars%3E",
+      "hits": 67,
+      "family": "bad-encoding",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
       "suggest": null
     },
     {
-      "path": "/en/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90/",
-      "hits": 42,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-      "suggest": "/en/economy/delta-electronics-taiwan-power-giant"
+      "path": "/wp-json/wp/v2/users",
+      "hits": 66,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "hits": 52,
+      "family": "probe-wellknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "suggest": null
     },
     {
       "path": "/.well-known/traffic-advice",
-      "hits": 29,
+      "hits": 31,
       "family": "probe-wellknown",
       "ua": "Chrome Privacy Preserving Prefetch Proxy",
       "suggest": null
     },
     {
-      "path": "/_astro/ArticleCard.BQoN7FnQ.css",
+      "path": "/_astro/Layout.CXPeqfF2.css",
       "hits": 29,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.DnnGPkW0.css",
-      "hits": 27,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/history/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2/",
-      "hits": 26,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-      "suggest": "/en/history/taiwan-military-dependents-villages-history"
-    },
-    {
       "path": "/.well-known/assetlinks.json",
-      "hits": 24,
+      "hits": 25,
       "family": "probe-wellknown",
       "ua": "GoogleAssociationService",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.CXPeqfF2.css",
-      "hits": 24,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/333.php",
-      "hits": 22,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-content/plugins/hellopress/wp_filemanager.php",
-      "hits": 22,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/terminology/%3Cstrange-chars%3E",
-      "hits": 21,
+      "path": "/people/%3Cstrange-chars%3E",
+      "hits": 17,
       "family": "bad-encoding",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "suggest": null
+    },
+    {
+      "path": "/3PJcpMFsD8B.php",
+      "hits": 15,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/x.php",
+      "hits": 14,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/yj09.php",
+      "hits": 14,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/File.php",
+      "hits": 14,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/xamp.php",
+      "hits": 14,
+      "family": "scanner",
+      "ua": "",
       "suggest": null
     },
     {
       "path": "/_astro/article.XcIAQMKm.css",
-      "hits": 21,
+      "hits": 14,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/cdn-cgi/rum",
-      "hits": 20,
-      "family": "probe-wellknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "path": "/_astro/ArticleCard.BQoN7FnQ.css",
+      "hits": 14,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/1.php",
-      "hits": 18,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/ms-edit.php",
-      "hits": 17,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-ver.php",
-      "hits": 15,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-tivate.php",
-      "hits": 15,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wander.php",
-      "hits": 15,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/file5.php",
-      "hits": 15,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/nature/%3Cstrange-chars%3E",
+      "path": "/wp-load.php",
       "hits": 13,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "//adminfuns.php",
+      "hits": 13,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/en/art/taiwanese-architecture-multicultural-layers",
+      "hits": 13,
+      "family": "unknown",
+      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
+      "suggest": null
+    },
+    {
+      "path": "/a3ampzmbipnkpxeqhqpsanCdefault.php",
+      "hits": 12,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/economy/%3Cstrange-chars%3E",
+      "hits": 11,
       "family": "bad-encoding",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
       "suggest": null
     },
     {
-      "path": "/f.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/xa.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/term.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/Society/%E5%A4%96%E9%80%81%E5%B0%88%E6%B3%95/",
+      "path": "/media.php",
       "hits": 11,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/wp-signup.php",
-      "hits": 10,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
       "path": "/admin.php",
+      "hits": 11,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.DnnGPkW0.css",
+      "hits": 11,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/private%2epem",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/koala.php",
       "hits": 10,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-content/uploads/index.php",
+      "path": "/src/mailer%2eyml",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/application%2eyml",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/8.php",
       "hits": 10,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/article-images/people/huang-shan-liao-book-signing.jpg",
+      "path": "/sites/default/files/backup_migrate/backups/full/latest/db/db%2esql%2elz4",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/NEW/%2egit/config",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/mailer/mail_config%2ejson",
       "hits": 10,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_7) AppleWebKit/600.2 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/600.2 Edg/105.0.4124.25",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/wp-ppoxua4.php",
+      "path": "/sites/default/debug%2elog",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/2P.php",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/h02ugyh.php",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/als.php",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/config/smtp/mailer%2eenv",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/public/settings%2ejson",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/database%2epgsql",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/bci/settings%2eyaml",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/postgres/%2eenv",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/django-app/client/%2eenv",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/brevo%2eenv",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/en/terminology/%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BB%B6/",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.186 Mobile Safari/537.36 (compatible; Googleb",
+      "suggest": null
+    },
+    {
+      "path": "/cdn-cgi/l/email-protection",
+      "hits": 10,
+      "family": "probe-wellknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "///admin.php",
       "hits": 9,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/dex.php",
+      "path": "//av.php",
       "hits": 9,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/ko/art/docs/pipelines/REWRITE-PIPELINE.md",
+      "path": "/file1221.php",
       "hits": 9,
-      "family": "md-extension",
-      "ua": "FindFiles.net/1.0 (compatible; +https://findfiles.net/bot)",
+      "family": "scanner",
+      "ua": "",
       "suggest": null
     },
     {
-      "path": "/%2ebabelrc%2ecjs",
+      "path": "//wp1/wp-includes/wlwmanifest.xml",
+      "hits": 9,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/main/%2egit/config",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/back-end/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/index%2ephp%2esample",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/certs/truststore%2ep12",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/server/laravel/docker-compose%2eadmin%2eyml",
+      "path": "/config/config/wp-config%2ebak",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/modules/appagebuilder/config%2exml",
+      "path": "/ops/keystore%2ep12",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/config/secrets/secret%2eenv",
+      "path": "/chef/%2eenv%2estaging",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/secrets%2ejs",
+      "path": "/wp-config-sample%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/%2eenv%2estaging%2elocal",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backend/id_dsa",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/phpinfo/info%2ephp",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/buildkite/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/token%2ephp%2eold",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/uSeRs/%2eEnV",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/json/config%2eyaml",
+      "path": "/api/php/debug%2elog",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/site%2esql",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/infra/ca%2epem",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/view_on_site/",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/mail/%2eenv%2edev",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/id_rsa",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/mailer/dashboard/phpinfo%2ephp",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/env",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/edit.php",
+      "path": "/adminner.php",
       "hits": 8,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/srv/%2essh/client%2epem",
+      "path": "/%2FsEnDgRiD_EmAiL/%2eeNv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/core/debug%2elog",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/powershell/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/static/js/main%2e87c766e3%2ejs",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/flask/debug/console/index%2ehtml/console/",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backend/config/mailgun%2eyml",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/kubernetes/%2eenv%2estaging%2elocal",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/debug%2etxt%2egz",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/smtp/sendgrid_api_key%2etxt",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup/sendgrid_config",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/dotnet-app/api/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/bless.php",
+      "path": "/gecko-new.php",
       "hits": 8,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/cgi-bin/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/app/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/celery%2econfig%2ebak",
+      "path": "/api/smtp%2eyaml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/api/sql/info%2eenv",
+      "path": "/nuxt-app/backend/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/mailer/service/info%2ephp",
+      "path": "/api/%2eenv%2estaging%2elocal",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/app/sendgrid_key%2etxt",
+      "path": "/data%2ejson%2exz",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/data%2emongodump%2egz",
+      "path": "/%2essh/authorized_keys%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/initializers/railties%2erb",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/sky.php",
+      "path": "/linux/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/php/config%2ejs",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2eenv%2etemp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/client/%2eenv%2edev",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/product%2ephp%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/src/%2eaws/credentials",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/$(pwd)/docker-compose%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/db%2econf",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/smtp/mailjet%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/src/main/resources/bitbucket%2eproperties",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/cloud/aws%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/php/index%2ebak",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/terraform/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup/debug%2esql",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup%2emongodump",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/swagger/",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/src/smtp_password%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/index%2ebak",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/backup/sample%2esql",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/env/index%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/%2egit/config",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/keys/config%2eini",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/facebook/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/data/env%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/fedex/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/old/settings%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp-admin/options-media%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/website/%2eenv%2estaging",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backend/config/sendgrid_config%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/site/dump%2esql",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/docker/%2eenv%2edevelopment",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/email/smtp_credentials%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/core/private/database%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2essh/id_ecdsa%2epub",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/core/data/default%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/kodenames-server/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2eenv%2ecf",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/smtp/smtp%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/*%2eenv%2euat",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/smtp/ses_credentials%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2econfig/config%2ejs",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/requirements%2eroot%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/inventory/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/v3/git/password%2ebak",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/config/db%2esql",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/core/private/sample%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/connect%2ephp%2eold",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/angular-app/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/data/db_config%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/db/database%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/test/debug%2elog",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/gcp-key%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/culture/%3Cstrange-chars%3E",
+      "hits": 8,
+      "family": "bad-encoding",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "suggest": null
+    },
+    {
+      "path": "/requirements%2eses%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/tmp/laravel%2elog",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/var/www/html/blog/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/gcp-key_elasticache",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/config/mandrill%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/database%2emysql%2egz",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup/db%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/token%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/testing/%2eenv%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/scripts/credentials%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/reports/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/scripts/aws%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2eaws/credentials_user",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/opt/aws_config%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/phpinfo%2ephp%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup/log%2esql",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/config/sendgrid_config%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_cat/tasks",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/portfolio-app/frontend/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/mail/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backend/src/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/static/js/*%2echunk%2ejs",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup/logs/error%2elog",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/login",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/uploads/",
       "hits": 8,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/src/main/resources/bootstrap-staging%2eproperties",
+      "path": "/settings%2epy%2esave",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/%2eenv%2estaging%2ejpg",
+      "path": "/config/nexmo%2ephp",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/cockroachdb/%2eenv",
+      "path": "/database/db_config%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/mailer/current/info%2ephp",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/helm/values-secrets%2eyaml",
+      "path": "/api/smtp/ses_config%2ejson",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/php%2eini",
+      "path": "/31_structure_tests/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/db/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/smtp_credentials%2ejson",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/services/mailer%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/mailgun/sendgrid_credentials%2ejson",
+      "path": "/token%2eyaml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/actuator/callduration",
+      "path": "/core/new/sample%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2ekube/config%2etmp",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/diagnostics/config%2eyaml",
+      "path": "/database%2epgsql%2egz",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/%2eenv%2enew",
+      "path": "/panel/phpinfo%2ephp",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/custom_config/%2eenv",
+      "path": "/env/dockers/php-apache/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/beta/phpinfo%2ephp",
+      "path": "/public/%2eenv%2estaging%2elocal",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/backup/log%2eenv",
+      "path": "/config/mail/elasticemail%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/config/json/settings%2ephp",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/old/settings%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/services/mail/mailgun_credentials%2ejson",
+      "path": "/azure-credentials_prod",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/%2ejenkins/hudson%2etasks%2eWasmTableReduce%2exml",
+      "path": "/core/json/config%2exml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/api/db/index%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/dev/config%2ejs",
+      "path": "/config/sendgrid%2eyml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/config/sendgrid/mailer%2eenv",
+      "path": "/awstats/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/%2ejenkins/hudson%2etasks%2eWasmTableDecrypt%2exml",
+      "path": "/verify%2ephp%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/alert%2ejs",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/staging/%2eenv%2estaging%2elocal",
+      "path": "/core/private/settings%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/requirements%2esns%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/mailgun/mail%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/gcp-key_cognito",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/ci/%2eenv%2estaging%2elocal",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/%2eenv%2ebak%2erc1",
+      "path": "/letsencrypt/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/admin/config/smtp_config%2eenv",
+      "path": "/core/secrets/db%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/postgresql/%2eenv",
+      "path": "/mailer/ses%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/themes/%2eenv%2eold",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/azure-credentials_ses",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/sendgrid/ses%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/deployment/config%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/main%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/smtp/postmark_key%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/login-app/api/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/bucket-name/config/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/rails_app/config/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/connectionstrings%2eMaster%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/rabbitmq/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/helm/values-eks%2eyaml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/smtp%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/tls/id_ecdsa%2epub",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/webhook/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/test/index%2ebak",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/web%2eStaging%2econfig",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/graphql-api/%2eenv%2eold",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/project/config%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/pbx/config%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/root/%2essh/root%2epem",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/db%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/requirements%2enlb%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/google-credentials%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/__debug__/login/",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2eenv%2ehidden",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/auth/mail/login_policies%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/mysql/phpinfo%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/var/www/html/kirby/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/symfony/app/config%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/core/old/debug%2elog",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/defi/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2essh/gcp_key%2epem",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/s3%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2enuxt/",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/package-updates/download%2ecgi",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/preview/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
@@ -743,1437 +1557,611 @@
       "suggest": null
     },
     {
-      "path": "/terminate/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2eenv_bak",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/dump%2esql",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/counterwallet/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backend/mailjet%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/tmp/config%2exml",
+      "path": "/helm/values-nlb%2eyaml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/root/%2essh/gcp_key%2epem",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/frontend/%2eenv%2eproduction%2elocal",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/celery%2econfig%2ecopy",
+      "path": "/secret/config%2ejson",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/sms-service/%2eenv%2eproduction%2elocal",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/php/test%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/testing/%2eenv%2eprod",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/ja/reports/research/2026-04/%e6%9e%97%e8%89%af.md",
-      "hits": 8,
-      "family": "md-extension",
-      "ua": "FindFiles.net/1.0 (compatible; +https://findfiles.net/bot)",
-      "suggest": null
-    },
-    {
-      "path": "/lms-app/src/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/service/%2eenv%2eproduction",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/db/sample%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/testqueue%2ephp",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/tmp/aws_credentials%2etxt",
+      "path": "/certificate%2epem",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ops/credentials%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/src/renderer/%2eenv",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/prod/%2eenv%2eproduction",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/%2eenv%2eproduction%2elocal",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/deploy%2ejs",
+      "path": "/server/laravel/docker-compose%2ekms%2eyml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/appsettings%2eCodeBuild%2ejson",
+      "path": "/%2ejenkins/hudson%2etasks%2eWasmTableUnzip%2exml",
       "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/asset/%2egit/config",
+      "path": "/ch6-mytodo/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/api/static/settings%2eenv",
+      "path": "/cron/%2eenv%2eprod",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/wp-content/backup/db%2esql",
+      "path": "/application/logs/access%2elog",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/k8s/%2eenv%2eproduction",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/sql/dump%2esql",
+      "path": "/credentials%2ego",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/sEnDgRiD/%2eeNv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/electron_app/%2eenv",
+      "path": "/ssl/private%2epem",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/kubernetes/%2eenv",
       "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/people/%3Cstrange-chars%3E",
-      "hits": 7,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "path": "/smtp/mailgun_config%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/wap.php",
-      "hits": 7,
+      "path": "/user/web%2econfig",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/json%2ejs",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/configuration/config%2eyaml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/sql/debug%2elog",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/stripe%2ephp%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/dx.php",
+      "hits": 8,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/lp6.php",
-      "hits": 7,
+      "path": "/cron/%2eenv%2edev",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/info%2ephp%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/mailgun/ses%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/otel/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp-admin/dashboard%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_nodes/hot_threads",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/static/default%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/android_app/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/swagger-ui/swagger-ui-standalone-preset%2ecss",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/demo/%2egit/config",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/main/%2eenv%2elocal",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/gcp-key%2exml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/product-service/%2eenv%2eproduction%2elocal",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/profile/%2egit/config",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/private/config%2exml",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/cgi-bin/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/root/%2essh/id_rsa",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/lambda/%2eenv%2eproduction",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/docker/app/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/src/%2eenv%2etest",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/email-service/%2eenv%2estaging",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/secrets/config%2ets",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/secrets/wp-config%2ebak",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/paysafe/settings%2eyaml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/storage/config%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/testscript%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/examples/sdl-first/prisma/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/tmp/db%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/ad/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/env%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/aws%2eproperties",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/private/aws_credentials%2ejs",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/[workspace]/*",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/env/mailjet_key%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/testupgrade%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/docker/%2eenv%2eprod",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/sql/settings%2eyml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/workspace%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/graphiql/",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/var/logs/error%2elog",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/home/laravel%2elog",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp-admin/ms-plugins%2ephp",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/db_backup%2eshared",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/home/ubuntu/aws-credentials%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/feature/%2eenv%2edist",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/root/%2essh/keystore%2ep12",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/initializers/jbuilder%2erb",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/infra/server%2epem",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/upload/config%2ets",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/config/mail/mailgun_key%2etxt",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2ejenkins/hudson%2etasks%2eWasmTableScalar%2exml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/tsconfig%2esecretsmanager%2ejson",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/old/config%2ebak",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/client/%2eenv%2eproduction",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/core/env/wp-config%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/shop-app/backend/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f/server/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/new/db%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/prestashop/%2egit/config",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/certificate/%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/geck.php",
+      "hits": 8,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/biufile.php",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wen.php",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/666.php",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-good.php",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/this_is_a_new_hello_world.php",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/en/food/tea-culture/",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/people/su-chiao-hui/docs/semiont/MANIFESTO.md",
-      "hits": 7,
-      "family": "md-extension",
-      "ua": "FindFiles.net/1.0 (compatible; +https://findfiles.net/bot)",
-      "suggest": null
-    },
-    {
-      "path": "/about-us",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/contact",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/team",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/company",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/.env",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/%2eoutput/server/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2egcloud/credentials%2edb",
-      "hits": 6,
+      "path": "/storage/credentials/install%2eyaml",
+      "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/inputs.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/api/data/test%2eenv",
-      "hits": 6,
+      "path": "/web/%2eenv%2eexample",
+      "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/web/%2eenv%2eprod",
-      "hits": 6,
+      "path": "/admin/elasticemail_key%2etxt",
+      "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/gcp-key%2ejson",
-      "hits": 6,
+      "path": "/configuration%2epy",
+      "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/admin/new/users%2eenv",
-      "hits": 6,
+      "path": "/development/%2eenv%2estaging",
+      "hits": 8,
       "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/api/sql/debug%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/booking-app/client/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/uninstall%2esh",
-      "hits": 6,
+      "path": "/celery%2econfig%2ego",
+      "hits": 8,
       "family": "unknown",
       "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/%2ejenkins/hudson%2etasks%2eVulkan%2exml",
-      "hits": 6,
+      "path": "/config/config/database%2ebak",
+      "hits": 8,
       "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/contact%2ephp%2etemp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/atex1.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/blog-app/frontend/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/js/contact_me%2ejs",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/function/function.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/token%2exml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/config/index%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/storage/logs/mandrill%2elog",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/config/config%2ejs",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/mybackend/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/tmp/aws%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/dev%2eenv%2ejs",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/production/%2eenv%2eprod",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/secrets/users%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/celery%2econfig%2epy",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/pki/ca%2epem",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/:28017",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/sendinblue%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/token_cloudwatch%2etxt",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/graphql-api/%2eenv%2elocal",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup/main%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/storage/database%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/tsconfig%2elocal%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2eEnV%2eSaVe%2e1",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/var/www/html/caddy/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/sites/default/files/backup_migrate/backups/full/latest/db/db%2esql",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/resources/config%2eyaml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/services/smtp%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/vendor/github%2ecom/gobuffalo/envy/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/grafana/api/admin/ldap/status",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/account/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/modules/blockwishlist/config%2exml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/configuration%2erb",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/__debug",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2eterraform%2elock%2ehcl",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/configuration%2eorig",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/appsettings%2eRoot%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/caddy/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/mail/sendgrid%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/temp/info%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/smtp/elasticemail%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/terraform/%2eenv%2eproduction%2elocal",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api-key_s3%2etxt",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/develop/%2eenv%2elocal",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2egit/config%2ebak",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/mailer%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/heralding/config%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/ruby-app/%2eenv%2eproduction",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/db/login%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup/database%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin%2ephp%2esave",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/keys/index%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/testsignup%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/home/user/%2essh/id_rsa",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/smtp_config%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/server/laravel/docker-compose%2eshared%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/payment%2ephp~",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup/web%2econfig",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/bkp/config%2eyaml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/wp-json/wp/v2/custom-css",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/keys/database%2esql",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/app/config%2eini",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/upload/info%2ebak",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/package%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/var/view_preprocessed/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/smtp/sendgrid_api_key%2etxt",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/docker/compose/withMongo/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/deploy/%2eenv%2estaging",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/checkout/paypal%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/lib/zend/tool/framework/system/provider/phpinfo%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/booking/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup%2emongodump%2egz",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/db%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/backup/users%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/src/%2eenv%2elocal",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/__debug__/password_change/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/2021/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/stylesheets/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backend/smtp%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/mail/config%2eini",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/public/config%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/private/mailer%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/private/wp-config%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/home/user/%2essh/private%2epem",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/db%2ephp%2eold",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/erp-app/client/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/sendgrid%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/tmp/default%2ebak",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/initializers/active_model%2erb",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/var/www/html/craft/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/dashboard-app/src/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/secrets%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/db/site%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup%2emysql%2ebz2",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backup/api_keys%2esql",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/public_html/%2eenv%2edist",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/backup/sample%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/nextjs/%2eenv%2eproduction",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/backend/config/mailer%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/wp-includes/Requests/library/index.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "//av.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/api/mail/smtp%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/release/info%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin%2ephp%2e4",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2epnpmfile%2emjs",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/initializers/grape_swagger_representable%2erb",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/environments/local/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/sql/users%2ebak",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/drush/drush%2eold",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/backup/site%2ebak",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/admin/keys/config%2eini",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/services/mail/ses%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/mailer/sendgrid%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/testsql%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%EF%BF%BD%EF%BF%BDreact%EF%BF%BD%EF%BF%BD%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/auth/%2eenv%2eproduction%2elocal",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/env/smtp%2eyml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/appsettings%2eLambda%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2ejenkins/hudson%2etasks%2eWasmTableSort%2exml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2ejenkins/hudson%2etasks%2eOctave%2exml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/docker-compose%2eyml%2ebak",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/portal/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/infra/credentials%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/database%2ejs",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config%2ejsp%2ebak",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/tsconfig%2eadmin%2ejson",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2eenv%2edebug",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/vendor/symfony/debug/debug%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/azure-credentials%2ecfg",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/storage/framework/cache/data/aws_credentials_cache%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/tmp/config%2eyaml",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/projeto/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/php-app/%2eenv%2eprod",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2eenv%2exml",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/administrator/config%2ejson",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/todo-app/backend/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/chosen.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/database%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%252f/web/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/core/config/login%2ebak",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/certificates/gcp_key%2epem",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/microservices/%2eenv%2eproduction%2elocal",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/config/phpinfo%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/ruby/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/remote/phpinfo%2ephp",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/%2ewell-known/acme-challenge/*",
-      "hits": 6,
-      "family": "probe-wellknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/api/php/settings%2ejson",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/users/%2eenv",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "curl/8.7.1",
-      "suggest": null
-    },
-    {
-      "path": "/services/*/%2eenv",
-      "hits": 6,
-      "family": "scanner",
       "ua": "curl/8.7.1",
       "suggest": null
     }

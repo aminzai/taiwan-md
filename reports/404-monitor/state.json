@@ -1142,7 +1142,74 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-08-04",
+      "total_404": 7213,
+      "truncated": false,
+      "families": {
+        "bad-encoding": {
+          "count": 138,
+          "bot": 137,
+          "browser": 1,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 2500,
+          "bot": 1659,
+          "browser": 237,
+          "empty": 604
+        },
+        "probe-wellknown": {
+          "count": 126,
+          "bot": 3,
+          "browser": 123,
+          "empty": 0
+        },
+        "stale-asset": {
+          "count": 89,
+          "bot": 1,
+          "browser": 88,
+          "empty": 0
+        },
+        "unknown": {
+          "count": 3857,
+          "bot": 3044,
+          "browser": 813,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 37,
+          "bot": 16,
+          "browser": 21,
+          "empty": 0
+        },
+        "md-extension": {
+          "count": 166,
+          "bot": 99,
+          "browser": 67,
+          "empty": 0
+        },
+        "untranslated-demand": {
+          "count": 34,
+          "bot": 23,
+          "browser": 11,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 256,
+          "bot": 220,
+          "browser": 36,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 10,
+          "bot": 5,
+          "browser": 5,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-08-04T22:11:55.870084+00:00"
+  "updated": "2026-08-05T22:11:41.707754+00:00"
 }
