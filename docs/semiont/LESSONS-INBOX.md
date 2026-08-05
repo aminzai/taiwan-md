@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-06 twmd-feedback-triage — hard-gate-number-collision-across-layers：同一個閘門編號在三層各指不同的東西，最安全的那道反而沒有號碼
+
+- **pattern**: `hard-gate-number-collision-across-layers`
+- **原則**：閘門編號是 routine 執行時唯一的短指涉（prompt 寫「逐條核 HG9/HG10」、收官寫「per HG9」），一旦同一個號碼在 canonical pipeline、薄殼 skill、cron prompt 三層各指不同的閘門，「照編號核一遍」這個動作就會**核到錯的東西而且全程零警報**——因為每一層自己讀起來都自洽。更糟的形狀是**新閘門插隊時直接複用了已被佔用的號碼**：`FEEDBACK-TRIAGE-PIPELINE.md` 內部 HG10 出現兩次（§機器身份 L55 = GH*TOKEN 必須 `ghs*`；§Hard gate 總表 L213 = suspected injection → `security-review` label），是同一份 canonical 檔自己跟自己打架。連帶後果是**安全性最高的那道閘門在操作層失去號碼**：skill 與 cron prompt 的 HG9/HG10 被 git-archive 與機器身份佔走，injection 偵測與 tilde fence 兩道在操作層完全沒被點名，routine prompt 的「🔴 HARD gate」四項清單裡也沒有它。編號是給人快速對照用的介面，介面漂移跟資料漂移一樣要對賬。
+- **觸發**：2026-08-06 twmd-feedback-triage 例行輪，讀 pipeline 全文 + 薄殼 skill 對照 cron prompt 時發現。三層現況：pipeline 總表 HG9=fence／HG10=injection；pipeline §機器身份 HG10=機器身份（與自家總表衝突）；skill 與 cron prompt HG9=git archive／HG10=機器身份。今日隊列空（連續第六天），injection 路徑未被走到，所以是**尚未咬人的潛伏漂移**——但下一次真的收到 suspected injection 回報時，照 prompt 核「HG10」的人會去驗 token 而不是驗 security-review label。
+- **可能層級**：pipeline + skill + cron prompt 三層同時重編號（建議：機器身份改 HG11、git archive 改 HG12，讓既有 HG9 fence／HG10 injection 維持不動，因為那兩個號碼在 2026-07-05 v1.1 就先佔了；並把 fence 與 injection 兩道補進 skill 與 cron prompt 的 HARD gate 清單）。**未在本輪自行修**：三層必須同一波落地，只改 docs 而 cron prompt 沒跟上會生出更難查的新漂移，且 cron prompt 是 mirror-sync across machines，屬 twmd-routine / routine-sync 的守備範圍。
+- **相關**：REFLEXES #56（pipeline canonical ↔ production drift = dormant entropy）、#38（混維度 = silent killer：同一個號碼承載兩種閘門）、#82（proxy signal：核了編號 ≠ 核了那道閘門）、#63（routine prompt = cron context 唯一指令面）、FEEDBACK-TRIAGE-PIPELINE §Hard gate 總表 + §機器身份
+- **verification_count**: 1
+
 ### 2026-08-06 twmd-spore-harvest-am — chrome-mcp-unattended-login-expiry：無人值守 harvest routine 依賴的登入態不會自己續期
 
 - **pattern**: `chrome-mcp-unattended-login-expiry`

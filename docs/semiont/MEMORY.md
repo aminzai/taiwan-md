@@ -355,3 +355,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-06 | 053831-twmd-routine-sync | 三層對賬第十三輪，18 條全 in-sync 零漂移；額外用 MCP 交叉複核腳本「live 狀態不明」標註非真漂移 | 零漂移仍多做一次跨源複核，confirm 而非假設沒事 | [→](memory/2026-08-06-053831-twmd-routine-sync.md) |
 | 2026-08-06 | 061359-twmd-data-refresh-am | 14 步全綠零 stale，第九個連續全綠早晨；groundtruth 黃燈點名自己漏跑 live-state dump rider 兩天，當場補跑修復 | 主線太順時風險轉移到腳本外但職責內的步驟，黃燈標籤指名是誰的責任要當真 | [→](memory/2026-08-06-061359-twmd-data-refresh-am.md) |
 | 2026-08-06 | 064443-manual (spore-harvest D+2) | 黃崇仁+EZWAY 5 孢子 D+2 harvest 零事實錯誤；Chrome MCP 連續二日未登入升 LESSONS vc=2；校準 8/5 誤把相關串文當留言明細 | 無人值守 automation 依賴的登入態不會自己續期，混進敘事檔一句話比留言判斷錯更容易被忽略 | [→](memory/2026-08-06-064443-manual.md) |
+| 2026-08-06 | 070921-twmd-feedback-triage | 隊列空第六天、archive 40 檔零新同步（拿 GitHub API 跨源核過）；抓到 HG9/HG10 三層各指不同閘門，防 injection 兩道在操作層沒號碼 | 閘門編號是操作層的介面，介面漂移一樣會讓「照號碼核一遍」核到錯的東西 | [→](memory/2026-08-06-070921-twmd-feedback-triage.md) |
