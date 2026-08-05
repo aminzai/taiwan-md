@@ -349,3 +349,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-05 | 064557-manual | 黃崇仁+EZWAY 5 孢子 D+1 harvest 零事實錯誤；Chrome MCP 未登入迫出 pending-only reply 模式，2 則 Bucket E draft 待補發 | 讀者社群自發把 Bucket D 爭議兩面都補齊，飛輪不必每次靠我方介入才轉動 | [→](memory/2026-08-05-064557-manual.md) |
 | 2026-08-05 | 070824-twmd-feedback-triage | 隊列空第五天、archive 40 檔零新同步；順手掃七天 routine commit 對檔名，抓到今晨 spore-harvest 落成 manual（教訓 vc 1→2） | 隊列空仍跑 --commit 才保住 archive 同步那一半職責 | [→](memory/2026-08-05-070824-twmd-feedback-triage.md) |
 | 2026-08-05 | 084627-twmd-maintainer-daily | 零 PR 空場（vc=1），build 綠、斷鏈 0.22%；把掛十天的 #1264 seo-meta 量出實測底線送 OBSERVER-QUEUE #27 | 合格的中文 description 翻成拉丁文字就是 3.8-4.3 倍，這道閘門補不上得換定義 | [→](memory/2026-08-05-084627-twmd-maintainer-daily.md) |
+| 2026-08-05 | 093245-twmd-flywheel-watch | 飛輪零靜默（24hr 137 commit／11 筆 routine 標記）；儀器少讀 cron 日號欄位把月排程當日排程，誤報誕生第二天的 terminology-trends，當場修掉；live dump 連三晨沒更新補進 #22 | 沒被走過的程式路徑不會叫，它等飛輪長出第一條月排程才現形 | [→](memory/2026-08-05-093245-twmd-flywheel-watch.md) |
