@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T14:39:15+08:00",
-    "zhCommitHead": "7ec132cc9",
+    "lastUpdated": "2026-08-05T14:42:26+08:00",
+    "zhCommitHead": "f8139e36d",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 629,
+        "fresh": 630,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "ar": {
@@ -41166,8 +41166,8 @@
           "sourceContentHash": "sha256:02adbfeb9ccc960b",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T06:05:36.280383+00:00",
-          "translationLastCommit": "fe9a7dd5",
-          "translationLastModified": "2026-07-28T04:44:42+08:00",
+          "translationLastCommit": "035d100e",
+          "translationLastModified": "2026-08-05T14:39:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "stale",
@@ -87178,8 +87178,8 @@
           "sourceContentHash": "sha256:100a6dfe0d0c9f4b",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T04:13:02.331708+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "035d100e",
+          "translationLastModified": "2026-08-05T14:39:15+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -107262,8 +107262,8 @@
           "sourceContentHash": "sha256:475b891f7794f26c",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T04:57:01.336555+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "035d100e",
+          "translationLastModified": "2026-08-05T14:39:15+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -115709,7 +115709,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taiwan-coastal-landforms-and-seascapes.md",
+          "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9ce361db9a5c3b1a",
+          "sourceBodyHash": "sha256:39bde765a3b7a746",
+          "translatedAt": "2026-08-05T06:07:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taiwan-coastal-landforms-and-seascapes.md",
@@ -127019,8 +127030,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-08-05T06:07:22+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "035d100e",
+          "translationLastModified": "2026-08-05T14:39:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
