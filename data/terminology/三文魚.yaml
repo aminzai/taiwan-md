@@ -6,10 +6,15 @@ display:
   taiwan: 鮭魚
   china: 三文魚
 
-notes: ''
+etymology:
+  origin: 「三文魚」是粵語對 salmon 的音譯詞（港澳固有用法），並非中國大陸網路新造詞；經中國大陸餐飲與媒體長期採用「三文魚」為標準用字後，隨陸劇、社群內容擴散進台灣，才在台灣被當成「中國用語」看待。台灣傳統説法是「鮭魚」。
+
+notes: '⚠️ 詞源提醒：本詞根源是粵語音譯而非中國大陸原創，收錄邏輯同「山寨」「打車」——經中國大陸廣泛使用、再向台灣擴散的粵語源詞，不等於「無爭議中國原創詞」，誠信標註避免詞庫過度簡化詞源。'
 
 sources:
   - 'fanhuaji-config'
+  - https://words.hk/zidin/%E4%B8%89%E6%96%87%E9%AD%9A
+  - https://zh.m.wiktionary.org/zh-hant/%E4%B8%89%E6%96%87%E9%AD%9A
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-08-05'
