@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T05:06:16+08:00",
-    "zhCommitHead": "8dca87334",
+    "lastUpdated": "2026-08-06T07:37:44+08:00",
+    "zhCommitHead": "2a8bf770d",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 883,
-        "fresh": 534,
-        "stale": 8,
+        "fresh": 537,
+        "stale": 7,
         "metadata_stale": 6,
-        "missing": 335,
+        "missing": 333,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 883,
-        "fresh": 629,
+        "fresh": 631,
         "stale": 4,
         "metadata_stale": 4,
-        "missing": 246,
+        "missing": 244,
         "orphan": 0
       },
       "ar": {
         "total_zh": 883,
-        "fresh": 712,
+        "fresh": 713,
         "stale": 6,
         "metadata_stale": 5,
-        "missing": 160,
+        "missing": 159,
         "orphan": 0
       },
       "ru": {
         "total_zh": 883,
-        "fresh": 739,
+        "fresh": 743,
         "stale": 5,
         "metadata_stale": 5,
-        "missing": 134,
+        "missing": 130,
         "orphan": 0
       }
     },
@@ -7129,8 +7129,8 @@
           "sourceContentHash": "sha256:6abff98edbff2fbe",
           "sourceBodyHash": "sha256:5dcfc71454466970",
           "translatedAt": "2026-08-05T16:59:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "83b8790e",
+          "translationLastModified": "2026-08-06T05:06:16+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -7582,7 +7582,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/united-microelectronics-corporation.md",
+          "translatedFrom": "Economy/台灣企業：聯華電子.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0d32412f5db9b8c4",
+          "sourceBodyHash": "sha256:f3ad39fefc5166a6",
+          "translatedAt": "2026-08-05T16:59:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/united-microelectronics-corporation.md",
@@ -10677,8 +10688,8 @@
           "sourceContentHash": "sha256:d585af78b77ed183",
           "sourceBodyHash": "sha256:57ec5065ff0c2c3f",
           "translatedAt": "2026-08-05T16:59:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "83b8790e",
+          "translationLastModified": "2026-08-06T05:06:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -17626,7 +17637,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-gaming-industry.md",
+          "translatedFrom": "Technology/台灣遊戲產業與數位娛樂.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:98c440e7598c876a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-05T21:12:57.646781+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-gaming-industry.md",
@@ -41345,15 +41367,15 @@
           "path": "id/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:02adbfeb9ccc960b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-05T06:05:36.280383+00:00",
+          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
+          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
+          "translatedAt": "2026-08-05T16:59:03+08:00",
           "translationLastCommit": "035d100e",
           "translationLastModified": "2026-08-05T14:39:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/Society/betel-nut.md",
@@ -45342,7 +45364,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-zoos.md",
+          "translatedFrom": "Society/台灣有哪些動物園.md",
+          "sourceCommitSha": "287389ecc",
+          "sourceContentHash": "sha256:39eab6090a3c571e",
+          "sourceBodyHash": "sha256:831b02af043591c7",
+          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -76491,7 +76524,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tanya-chua-singer.md",
+          "translatedFrom": "People/蔡健雅.md",
+          "sourceCommitSha": "dc7865f06",
+          "sourceContentHash": "sha256:0b4776a25d38b2ed",
+          "sourceBodyHash": "sha256:126c0129a0743d8a",
+          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -85530,7 +85574,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chen-yu-hsun-taiwan-comedy-film-magician.md",
+          "translatedFrom": "People/陳玉勳.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bc132f506d9946e5",
+          "sourceBodyHash": "sha256:ae4d7d2f8418495d",
+          "translatedAt": "2026-08-05T16:59:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chen-yu-hsun-taiwan-comedy-film-magician.md",
@@ -108519,7 +108574,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/kmt-government-relocation-and-postwar-reconstruction.md",
+          "translatedFrom": "History/國民政府遷台與戰後重建.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:a28bcadbb01460c5",
+          "sourceBodyHash": "sha256:fdd1a6127fff34df",
+          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -117476,7 +117542,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/climate.md",
+          "translatedFrom": "Geography/氣候.md",
+          "sourceCommitSha": "ceeee0ae6",
+          "sourceContentHash": "sha256:0275e27f1a1e4e68",
+          "sourceBodyHash": "sha256:c3a7643c439033af",
+          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -118962,7 +119039,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-religion-and-temple-culture.md",
+          "translatedFrom": "Culture/台灣宗教與寺廟文化.md",
+          "sourceCommitSha": "d56c5a60e",
+          "sourceContentHash": "sha256:518362b111919aa4",
+          "sourceBodyHash": "sha256:b2ec869950288157",
+          "translatedAt": "2026-08-05T16:59:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-religion-and-temple-culture.md",
@@ -123882,7 +123970,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-anime-culture.md",
+          "translatedFrom": "Culture/台灣動漫文化.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:f93b35ef1b93fca6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-05T21:27:13.021389+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-anime-culture.md",

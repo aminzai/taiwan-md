@@ -1,18 +1,18 @@
 ---
-title: 'Pinang: Dari Buah Suci ke Karsinogen, Bayangan Kelas dan Tanah di dalam Satu Buah'
-description: 'Pada tahun 1976, kios pinang di Caotun, Nantou membuka era "Gadis Pinang". Buah hijau ini yang dulunya adalah persembahan suci orang asli dan "obat penawar mala" bagi orang Han, kini menjadi bayangan konflik kelas dan tanah dalam masyarakat Taiwan akibat kontroversi kesehatan dan lingkungan.'
+title: 'Sirih Pinang: Dari Buah Suci ke Karsinogen, Kelas Sosial dan Lanskap Tanah dalam Satu Buah'
+description: 'Pada 1976, kios sirih pinang di Caotun, Nantou, memulai era "Gadis Sirih Pinang". Buah hijau yang dahulu menjadi persembahan suci orang asli dan "obat penyingkir mala" bagi orang Han, kini menjadi cerminan ketegangan kelas sosial dan tanah di Taiwan akibat kontroversi kesehatan dan lingkungan.'
 date: 2026-07-25
 category: 'Society'
 tags:
   [
-    'Pinang',
-    'Gadis Pinang',
+    'Sirih Pinang',
+    'Gadis Sirih Pinang',
     'Budaya Orang Asli',
     'Bahaya Kesehatan',
     'Isu Lingkungan',
-    'Es Batu',
+    'Air Es',
   ]
-subcategory: 'Komunitas dan Kehidupan Sehari-hari'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-25
@@ -21,66 +21,69 @@ readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Society/檳榔.md'
 sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:02adbfeb9ccc960b'
-translatedAt: '2026-08-05T06:05:36.280383+00:00'
+sourceContentHash: 'sha256:fbfec2fdb49a0cf3'
+sourceBodyHash: 'sha256:06a8ff16fd8332cb'
+translatedAt: '2026-08-05T16:59:03+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Di jalanan Taiwan, lampu neon kios pinang dan papan "es batu", adalah kesan pertama banyak orang terhadap pulau ini. Namun, buah hijau yang tampak biasa ini, tidak hanya merupakan persembahan suci dan hadiah cinta dalam budaya masyarakat adat, tetapi juga "ramuan anti-miasma" bagi orang Han yang menumbang Taiwan pada masa awal. Kini, pinang justru menjadi sorotan kontroversi masyarakat karena bahayanya bagi kesehatan dan dampaknya bagi lingkungan, di baliknya terselubung narasi kompleks soal kelas, tanah, dan budaya.
+> **Ringkasan 30 Detik:** Di jalanan Taiwan, lampu neon kios sirih pinang dan spanduk "Air Es" adalah kesan pertama banyak orang terhadap tanah ini. Namun, buah hijau yang tampak biasa ini bukan hanya persembahan suci dan hadiah cinta dalam budaya orang asli, tetapi juga "obat penyingkir mala" bagi pendatang Han awal yang membuka lahan di Taiwan. Kini, sirih pinang menjadi sorotan kontroversi sosial karena bahayanya bagi kesehatan dan dampaknya pada lingkungan, di baliknya terselubung narasi kompleks tentang kelas, tanah, dan budaya.
 
-### Pinang: Dari Buah Suci ke Karsinogen, Bayang-Bayang Kelas dan Tanah dalam Sebutir Buah
+### Sirih Pinang: Dari Buah Suci ke Karsinogen, Kelas Sosial dan Lanskap Tanah dalam Satu Buah
 
-Di Taiwan, banyak pengemudi jarak jauh, pada siang hari yang terik, berhenti di pinggir jalan di kios pinang berneon berkedip, membeli sebungkus pinang dan dua botol "es batu". Transaksi yang tampak biasa ini, di baliknya merupakan pemandangan unik masyarakat Taiwan, serta perjalanan panjang buah ini selama ratusan tahun, dari persembahan suci menjadi karsinogen. Tahun 1976, "Kios Pinang Shuangdong" di Caotun, Nantou, memulai era "penjual pinang cantik", membuat kisah buah hijau ini terjalin erat dengan kelas buruh Taiwan, perubahan budaya, isu kesehatan, dan lingkungan.
+Di Taiwan, banyak pengemudi jarak jauh pada siang hari panas berhenti di kios sirih pinang berneon di pinggir jalan, membeli sebungkus sirih pinang dan dua botol "Air Es". Transaksi yang tampak biasa ini menyimpan pemandangan unik masyarakat Taiwan, serta perjalanan kompleks sebuah buah melintasi ratusan tahun—dari persembahan suci ke karsinogen. Tahun 1976, "Kios Sirih Pinang Shuangdong" di Caotun, Nantou, memulai era "Gadis Sirih Pinang", membuat kisah buah hijau ini terjalin erat dengan kelas buruh, pergeseran budaya, isu kesehatan dan lingkungan di Taiwan.
 
-#### Kapsul Budaya: Pinang dan Masyarakat Adat Taiwan
+#### Kapsul Budaya: Sirih Pinang dan Masyarakat Asli Taiwan
 
-Sejarah manusia mengunyah pinang bisa ditelusuri hingga 5.000 tahun lalu, kaitan buah ini dengan Taiwan, sudah berlangsung lebih dari 400 tahun. Dalam budaya masyarakat adat Taiwan, pinang bukan sekadar barang kesukaan untuk mengusung kantuk, lebih memuat makna sosial dan spiritual yang kaya. Wakil Dekan Fakultas Etnologi dan Pekerjaan Sosial Universitas Tung-hua, Yang Cheng-hsien, menilai pinang adalah "kapsul budaya" masyarakat adat[1](#user-content-fn-1).
+Sejarah mengunyah sirih pinang oleh manusia dapat ditelusuri hingga 5.000 tahun lalu, kaitan buah ini dengan Taiwan berlangsung lebih dari 400 tahun. Dalam budaya masyarakat asli Taiwan, sirih pinang bukan sekadar barang kegemaran untuk mengusung kantuk, melainkan sarat makna sosial dan spiritual. Wakil Dekan Jurusan Pembangunan Kependudukan dan Pekerjaan Sosial Universitas Donghwa, Yang Cheng-hsien (楊政賢), menyatakan sirih pinang adalah "kapsul budaya" orang asli[1](#user-content-fn-1).
 
-Bagi suku Amis, pinang adalah hadiah cinta. Pada "Malam Para Kekasih" dalam Festival Panen, wanita akan memberikan pinang kepada pria yang disukainya, jika pria itu menerimanya dan langsung mengunyah, berarti kedua belah pihak saling mencintai. Sistem "suami tinggal di rumah istri" ini, menjadikan pinang media penting yang menghubungkan perasaan dan keluarga[1](#user-content-fn-1). Suku Siraya memandang pinang sebagai benda suci untuk berkomunikasi dengan roh leluhur. Kepala Studio Sejarah Jibei, Tuan Hung-k'un, menyatakan, pinang (bahasa Siraya: Abiki) adalah persembahan wajib imam saat berdoa kepada Alid (roh leluhur), bahkan digunakan sebagai alat upacara dalam festival, kedudukannya suci layaknya pedang bunga peach orang Han[1](#user-content-fn-1). Tuan Hung-k'un juga menyebut, dalam festival suku Siraya, pinang yang sudah dipersembahkan tidak boleh dibuang sembarangan, akan diletakkan di atap atau tempat terpencil, terlihat betapa sucinya[1](#user-content-fn-1).
+Bagi suku Amis, sirih pinang adalah tanda cinta. Pada "Malam Kekasih" dalam Pesta Panen, wanita memberikan sirih pinang kepada pria yang disukainya; jika pria menerimanya dan langsung mengunyahnya, berarti cinta berbalas. Sistem "suami mengikuti istri" ini menjadikan sirih pinang media penting menghubungkan perasaan dan keluarga[1](#user-content-fn-1). Suku Siraya memandang sirih pinang sebagai benda suci untuk berkomunikasi dengan roh leluhur. Kepala Studio Sejarah dan Budaya Gibe, Duan Hong-kun (段洪坤), menyatakan sirih pinang (bahasa Siraya: Abiki) adalah persembahan wajib imam saat berdoa kepada Alid (roh leluhur), bahkan digunakan sebagai alat ritual, kedudukannya suci seperti pedang bunga peach orang Han[1](#user-content-fn-1). Duan juga menyebut, sirih pinang yang sudah dipersembahkan dalam upacara Siraya tidak boleh dibuang sembarangan, diletakkan di atap atau tempat terpencil, membuktikan kesuciannya[1](#user-content-fn-1).
 
-> 📝 **Catatan Kurator**: Peran ganda pinang dalam budaya masyarakat adat, menantang label tunggal "tidak sehat" masyarakat modern. Ia bukan sekadar materi, lebih merupakan simbol yang mempertahankan komunitas, mewariskan kepercayaan, mengekspresikan perasaan, maknanya melampaui kenikmatan lidah dan perut.
+> 📝 **Catatan Kurator**: Peran ganda sirih pinang dalam budaya orang asli menantang label tunggal "tidak sehat" masyarakat modern. Ia bukan sekadar zat, melainkan simbol mempertahankan komunitas, mewariskan kepercayaan, mengekspresikan perasaan, maknanya melampaui keinginan lidah dan perut.
 
-#### "Ramuan Anti-Miasma" Orang Han dan "Emas Hijau" Para Pekerja
+#### "Obat Penyingkir Mala" Orang Han dan "Emas Hijau" Pekerja
 
-Orang Han masa Dinasti Qing datang ke Taiwan, menghadapi lingkungan lembab panas beracun, pinang menjadi penolong mereka beradaptasi dengan tanah baru. Mengunyah pinang membuat badan hangat, berkeringat, dianggap mampu mengeluarkan kelembapan, mencegah penyakit, menjadi "ramuan anti-miasma"[2](#user-content-fn-2). Kebutuhan fungsional ini, membuat pinang mengakar dalam masyarakat Han, menjadi barang penting dalam pertemuan sosial, mahar pernikahan. Bahkan dalam mediasi konflik, pihak yang salah akan memberikan pinang sebagai tanda penyesalan[2](#user-content-fn-2).
+Pendatang Han dinasti Qing datang ke Taiwan, menghadapi lingkungan lembab panas berpenyakit, sirih pinang jadi penolong menyesuaikan diri dengan tanah baru. Mengunyah sirih pinang membuat badan panas berkeringat, dianggap mengeluarkan kelembaban dan mencegah penyakit "obat penyingkir mala"[2](#user-content-fn-2). Kebutuhan fungsional ini mengakarkan sirih pinang dalam masyarakat Han, jadi barang penting pertukaran sosial dan mahar pernikahan. Bahkan dalam mediasi konflik, pihak yang salah memberikan sirih pinang sebagai tanda penyesalan[2](#user-content-fn-2).
 
-Masuk separuh kedua abad ke-20, ekonomi Taiwan terbang tinggi, banyak buruh leher biru terlibat pembangunan infrastruktur. Pinang berkat efek mengusung kantuk, menjadi kebutuhan harian lapisan buruh seperti supir truk, pekerja bangunan. Kios pinang pun muncul, dan pada 1990-an mencapai puncak, luas tanam pinang di seluruh Taiwan pernah mencapai 65.000 hektar, hanya kalah dari padi, nilai produksi tahunan pernah mencapai 8 miliar Yuan Baru, dijuluki "emas hijau"[3](#user-content-fn-3). Penelitian Profesor Wu Chia-chün dari Jurusan Konservasi Tanah dan Air Universitas P'ing-tung of Science and Technology menunjukkan, satu hektar tanah telanjang setahun akan terkikis 294 ton tanah, sekitar tiga sentimeter lapis atas, sedangkan kebun pinang kemampuan menahan tanahnya jauh tidak sebanding hutan[3](#user-content-fn-3).
+Masuki paruh kedua abad ke-20, ekonomi Taiwan melonjak, banyak buruh biru masuk pembangunan infrastruktur. Sirih pinang dengan efek anti-ngantuk jadi kebutuhan harian lapisan buruh seperti supir truk, pekerja bangunan. Kios sirih pinang muncul dan puncaknya pada 1990-an, luas tanam seluruh Taiwan mencapai 65.000 hektar, kedua setelah padi, nilai produksi tahunan pernah 8 miliar Yuan, dijuluki "Emas Hijau"[3](#user-content-fn-3). Penelitian Prof. Wu Chia-chun (吳嘉俊) Jurusan Konservasi Tanah dan Air Universitas Teknologi Pingtung menunjukkan, satu hektar tanah telanjang setahun akan terkikis 294 ton tanah, sekitar 3 cm lapis atas, sedangkan kebun sirih pinang kemampuan menahan tanah jauh di bawah hutan[3](#user-content-fn-3).
 
-#### Gadis Pinang: Lanskap Unik di Pinggir Jalan dan Kontroversi Sosial
+#### Gadis Sirih Pinang: Pemandangan Unik di Pinggir Jalan dan Kontroversi Sosial
 
-Pada tahun 1976, "Shuang Dong Betel Nut Stall" (雙冬檳榔攤) di Caotun, Nantou, memperkenalkan model penjualan "Gadis Pinang" (檳榔西施), dengan wanita berpakaian ringan menjual pinang, yang dengan cepat menarik perhatian pelanggan. Pada era 1990-an, budaya Gadis Pinang mencapai puncaknya, menjadi pemandangan unik di pinggir jalan raya Taiwan. Mereka tidak hanya merupakan penjual, tetapi juga hiburan bagi banyak pekerja buruh di tengah jam kerja yang panjang, mewakili estetika kelangsungan hidup lapisan bawah dan wujud ekonomi bebas. Namun, Gadis Pinang juga sering disertai kontroversi moral sosial, masalah keselamatan lingkungan kerja, serta kritik terhadap pengobjektifan wanita[4](#user-content-fn-4).
+1976, "Kios Sirih Pinang Shuangdong" di Caotun, Nantou, memperkenalkan model jual "Gadis Sirih Pinang", wanita berpakaian ringan menjual sirih pinang, cepat menarik perhatian. Era 1990-an, budaya Gadis Sirih Pinang puncaknya, jadi pemandangan unik di pinggir jalan raya Taiwan. Mereka bukan hanya penjual, tapi juga hiburan bagi buruh biru dalam jam kerja panjang, mewakili estetika kelangsungan hidup lapisan bawah dan wujud ekonomi bebas. Namun, Gadis Sirih Pinang juga disertai kontroversi moral sosial, masalah keselamatan kerja, dan kritik pengobjektifan wanita[4](#user-content-fn-4).
 
-Bersama Gadis Pinang, "es batu air" (結冰水) juga menjadi "produk laris tersembunyi" di kios pinang. Bagi pengemudi dan pekerja yang bekerja di bawah terik matahari, es batu air tidak hanya memuaskan dahaga, tetapi juga berfungsi sebagai alat pendingin fisik, diikat di tubuh atau diletakkan di dalam kendaraan, memberikan kesegaran sesaat. Produk sederhana ini mencerminkan kebijaksanaan hidup dan kebutuhan pekerja buruh Taiwan di lingkungan yang keras[5](#user-content-fn-5). Seorang netizen berbagi, di bengkel atau tempat konstruksi dengan atap seng berkepanjangan hampir 40 derajat, es batu air adalah "oase di tengah gurun"[5](#user-content-fn-5).
+Bareng Gadis Sirih Pinang jadi "produk andalan tersembunyi" kios sirih pinang adalah "Air Es". Bagi supir dan pekerja di bawah terik matahari, Air Es tidak hanya memuaskan dahaga, tapi alat pendingin fisik, diikat di badan atau diletakkan di mobil, memberikan kesegaran sesaat. Produk sederhana ini mencerminkan kebijaksanaan dan kebutuhan hidup buruh biru Taiwan di lingkungan keras[5](#user-content-fn-5). Warganet berbagi, di bengkel atau proyek dengan atap seng suhu hampir 40 derajat, Air Es adalah "oase di gurun"[5](#user-content-fn-5).
 
-#### Biaya Ganda Kesehatan dan Lingkungan
+#### Kesehatan dan Lingkungan: Dua Harga Mahal
 
-Namun, di balik keberhasilan pinang, tersembunyi biaya kesehatan dan lingkungan yang berat. Penelitian medis membuktikan, mengunyah pinang adalah penyebab utama kanker mulut. Setiap tahun Taiwan mencatat sekitar 2.500 hingga 3.000 orang meninggal akibat kanker mulut, dan hingga 90 persen penderita kanker mulut memiliki kebiasaan mengunyah pinang. Buah pinang itu sendiri telah diklasifikasikan oleh Organisasi Kesehatan Dunia sebagai karsinogen golongan 1, dan tetap bersifat karsinogenik bahkan tanpa tambahan kapur (紅灰) dan daun sirih (荖葉)[6](#user-content-fn-6).
+Namun, di balik gemerlap sirih pinang tersimpan biaya kesehatan dan lingkungan yang berat. Penelitian medis membuktikan mengunyah sirih pinang penyebab utama kanker mulut. Taiwan tiap tahun ~2.500-3.000 orang meninggal kanker mulut, 90% penderita kebiasaan mengunyah sirih pinang. Buah sirih pinang sendiri sudah diklasifikasikan WHO sebagai karsinogen Golongan 1, bahkan tanpa kapur merah dan daun sirih, tetap karsinogenik[6](#user-content-fn-6).
 
-Aspek lingkungan, sifat akar dangkal pohon pinang membuat kemampuannya menahan tanah di lereng gunung jauh lebih lemah dibandingkan spesies pohon berakar dalam. Pada 1994, Profesor Chen Hsin-hsiung (陳信雄) dari Jurusan Kehutanan Universitas Taiwan mengemukakan "Teori Binasanya Negara karena Pinang" (檳榔亡國論), menunjuk bahwa hutan monokultur pinang mudah menyebabkan erosi tanah, penurunan kesuburan tanah, dan memperparah bencana longsor saat tifon dan hujan lebat[3](#user-content-fn-3). Meskipun ada penelitian yang menyatakan pinang bukan satu-satunya faktor penyebab erosi tanah, misalnya ada pandangan yang berpendapat "semua tanaman ekonomis berakar dangkal, tapi dibandingkan, pohon pinang justru merupakan tanaman ekonomis terbaik untuk konservasi air dan tanah"[7](#user-content-fn-7), dampak negatifnya terhadap lingkungan sudah menjadi fakta yang tak terungkalkan. Pemerintah pernah mendorong program penanaman hutan penggantian kebun pinang, namun menghadapi hambatan besar karena masalah penghidupan petani[3](#user-content-fn-3).
+Soal lingkungan, sifat akar dangkal pohon sirih pinang membuat kemampuan menahan tanah di lereng gunung jauh di bawah pohon akar dalam. 1994, Prof. Chen Hsin-hsiung (陳信雄) Jurusan Kehutanan Universitas Taiwan mengemukakan "Teori Sirih Pinang Membinasakan Negara", menilai vegetasi monolayer sirih pinang mudah menyebabkan erosi tanah, penurunan kesuburan, memperparah longsor saat tifon hujan lebat[3](#user-content-fn-3). Meskipun ada penelitian menilai sirih pinang bukan satu-satunya penyebab erosi, misal pandangan "semua tanaman ekonomis akar dangkal, tapi dibandingkan, pohon sirih pinang justru tanaman ekonomis terbaik untuk konservasi tanah dan air"[7](#user-content-fn-7), dampak negatifnya pada lingkungan sudah fakta tak terelakkan. Pemerintah pernah dorong program penanaman hutan pengganti kebun sirih pinang, tapi hambatan besar karena penghidupan petani[3](#user-content-fn-3).
 
 #### Transformasi dan Masa Depan: Berayun di Antara Tradisi dan Modernitas
 
-Menghadapi tekanan ganda kesehatan dan lingkungan, sikap masyarakat Taiwan terhadap pinang berangsur-angsur berubah. Proporsi populasi yang mengunyah pinang menurun setiap tahun, dan industri pinang menghadapi transformasi. Rancangan Undang-Undang Pencegahan Bahaya Kesehatan Pinang (檳榔健康危害防制法) yang diumumkan Kementerian Kesehatan dan Kesejahteraan (衛福部) akan mengatur penjualan dan iklan pinang dengan lebih ketat, yang juga mengisyarat era Gadis Pinang mungkin berakhir[4](#user-content-fn-4).
+Menghadapi tekanan ganda kesehatan dan lingkungan, sikap masyarakat Taiwan soal sirih pinang berubah perlahan. Proporsi pengunyah menurun tiap tahun, industri sirih pinang dihadapkan transformasi. Rancangan UU Pencegahan Bahaya Kesehatan Sirih Pinang yang diumumkan Kemenkes (衛福部) akan mengatur lebih ketat penjualan dan iklan sirih pinang, menandakan era Gadis Sirih Pinang mungkin berakhir[4](#user-content-fn-4).
 
-Namun, bagi banyak suku asli, makna budaya pinang tetap tertanam dalam hati. Bagaimana mencapai keseimbangan antara menghormati budaya tradisional dan mempertahankan kesehatan masyarakat serta keberlanjutan lingkungan, adalah tantangan yang harus dihadapi masyarakat Taiwan. Kisah pinang bukan hanya kisah kelahiran dan kemunduran sebuah buah, melainkan cerminan masyarakat Taiwan dalam proses modernisasi yang terus beradaptasi dan merefleksikan diri, mengingatkan kita bahwa di antara budaya, ekonomi, dan lingkungan terdapat hubungan yang kompleks dan halus. Buah ini adalah saksi sejarah, sekaligus cerminan kontradiksi dan ketegangan masyarakat Taiwan kontemporer.
+Namun, bagi banyak suku asli, makna budaya sirih pinang tetap dalam hati. Bagaimana menyeimbangkan penghormatan budaya tradisional dengan kesehatan publik dan kelestarian lingkungan, adalah tugas masyarakat Taiwan. Kisah sirih pinang bukan sekadar naik turunnya satu buah, tapi cerminan masyarakat Taiwan dalam proses modernisasi yang terus menyesuaikan dan merenung, mengingatkan kita akan kaitan kompleks halus antara budaya, ekonomi, dan lingkungan. Buah ini, saksi sejarah, juga cerminan kontradiksi dan tegangan masyarakat Taiwan kontemporer.
 
-**Bacaan Lanjutan**:
+**Baca Lebih Lanjut**:
 
-- [Majalah Taiwan Panorama: Membuka Kapsul Hijau Bernama "Pinang"](https://www.taiwan-panorama.com/Articles/Details?Guid=d7b02413-4454-4db8-935a-2eb7fe0ec663)
+- [Majalah Taiwan Panorama: Membuka Kapsul Hijau Bernama "Sirih Pinang"](https://www.taiwan-panorama.com/Articles/Details?Guid=d7b02413-4454-4db8-935a-2eb7fe0ec663)
 
 - [Pulau Kita: Kemarin dan Esok Emas Hijau](https://ourisland.pts.org.tw/content/2092)
 
 ## Referensi
 
-1. [Majalah Taiwan Panorama: Membuka "Kapsul Hijau" Bernama "Pinang"](https://www.taiwan-panorama.com/Articles/Details?Guid=d7b02413-4454-4db8-935a-2eb7fe0ec663) — Menyelami makna ganda pinang dalam budaya suku asli Taiwan, termasuk sebagai hadiah cinta, persembahan, dan fungsi sosial. [↩](#user-content-fnref-1) [↩2](#user-content-fnref-1-2) [↩3](#user-content-fnref-1-3) [↩4](#user-content-fnref-1-4)
+## Catatan Kaki
 
-2. [StoryStudio: Sejarah Sosial Pinang di Taiwan Zaman Qing](https://storystudio.tw/article/gushi/betel-nut) — Memperkenalkan peran pinang di Taiwan zaman Qing sebagai "obat anti-miasma", hadiah sosial, dan alat mediasi sengketa. [↩](#user-content-fnref-2) [↩2](#user-content-fnref-2-2)
+1. [Majalah Taiwan Panorama: Membuka Kapsul Hijau Bernama "Sirih Pinang"](https://www.taiwan-panorama.com/Articles/Details?Guid=d7b02413-4454-4db8-935a-2eb7fe0ec663) — Menjelajahi makna ganda sirih pinang dalam budaya orang asli Taiwan, termasuk hadiah cinta, persembahan, dan fungsi sosial. [↩](#user-content-fnref-1) [↩2](#user-content-fnref-1-2) [↩3](#user-content-fnref-1-3) [↩4](#user-content-fnref-1-4)
 
-3. [Pulau Kita: Kemarin dan Esok "Emas Hijau"](https://ourisland.pts.org.tw/content/2092) — Mengulas naik turunnya industri pinang, nilai ekonomis, dampaknya terhadap konservasi air dan tanah, serta kebijakan pengalihan tanaman pemerintah. [↩](#user-content-fnref-3) [↩2](#user-content-fnref-3-2) [↩3](#user-content-fnref-3-3) [↩4](#user-content-fnref-3-4)
+1. [StoryStudio: Sejarah Sosial Sirih Pinang Taiwan Era Qing](https://storystudio.tw/article/gushi/betel-nut) — Memperkenalkan peran sirih pinang di Taiwan era Qing sebagai "obat penyingkir mala", hadiah sosial, dan peran mediasi sengketa. [↩](#user-content-fnref-2) [↩2](#user-content-fnref-2-2)
 
-4. [BBC Chinese: Bagaimana "Pinang Xi Shi" Taiwan Bertransformasi](https://www.bbc.com/zhongwen/articles/cnvqyz5pyr1o/trad) — Menganalisis bangkitnya budaya "Pinang Xi Shi", kontroversi sosial, transformasi industri, dan dampak regulasi terkait. [↩](#user-content-fnref-4) [↩2](#user-content-fnref-4-2)
+1. [Pulau Kita: Kemarin dan Esok Emas Hijau](https://ourisland.pts.org.tw/content/2092) — Mengkaji naik turun industri sirih pinang, nilai ekonomi, dampak konservasi tanah-air, dan kebijakan penggantian tanaman pemerintah. [↩](#user-content-fnref-3) [↩2](#user-content-fnref-3-2) [↩3](#user-content-fnref-3-3) [↩4](#user-content-fnref-3-4)
 
-5. [SETN News: Mengapa Kios Pinang Wajib Jual Es Batu? Penjelasan Veteran Bikin Terkejut Netizen: "Wah, Tambah Wawasan"](https://www.setn.com/news/638930) — Menjelaskan alasan kios pinang menjual es batu dan hubungannya dengan budaya buruh kaus biru. [↩](#user-content-fnref-5) [↩2](#user-content-fnref-5-2)
+1. [BBC Chinese: Bagaimana Gadis Sirih Pinang Taiwan Bertransformasi](https://www.bbc.com/zhongwen/articles/cnvqyz5pyr1o/trad) — Menganalisis bangkitnya budaya Gadis Sirih Pinang, kontroversi sosial, transformasi industri, dan dampak regulasi terkait. [↩](#user-content-fnref-4) [↩2](#user-content-fnref-4-2)
 
-6. [Kementerian Kesehatan dan Kesejahteraan, Badan Promosi Kesehatan Nasional: Pinang dan Kanker Mulut](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=612&pid=1200) — Menyediakan bukti medis dan informasi bahaya kesehatan terkait pinang dan kanker mulut. [↩](#user-content-fnref-6)
+1. [SETN: Mengapa Kios Sirih Pinang Wajib Jual Air Es? Penjelasan Supir Senior Bikin Netizen Kaget: Tambah Wawasan](https://www.setn.com/news/638930) — Menjelaskan alasan kios sirih pinang menjual Air Es dan kaitannya dengan budaya buruh biru. [↩](#user-content-fnref-5) [↩2](#user-content-fnref-5-2)
 
-7. [Medium: Pinang — Tuduhan Tanpa Dasar](https://medium.com/%E9%AD%94%E9%AC%BC%E7%9A%84%E6%89%8B%E7%A8%BF/%E6%AA%B3%E6%A6%94-%E8%8E%AB%E9%A0%88%E6%9C%89%E4%B9%8B%E7%BD%AA-45abbb70a1b2) — Mengulas pandangan bahwa pinang mungkin distigmatisasi dalam isu konservasi air dan tanah, serta menyajikan perspektif yang berbeda dari narasi utama. [↩](#user-content-fnref-7)
+1. [Kemenkes Badan Kesehatan Nasional: Sirih Pinang dan Kanker Mulut](https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=612&pid=1200) — Menyediakan bukti medis dan info bahaya kesehatan terkait sirih pinang dan kanker mulut. [↩](#user-content-fnref-6)
+
+1. [Medium: Sirih Pinang—Kehujatan Tanpa Dasar](https://medium.com/%E9%AD%94%E9%AC%BC%E7%9A%84%E6%89%8B%E7%A8%BF/%E6%AA%B3%E6%A6%94-%E8%8E%AB%E9%A0%88%E6%9C%89%E4%B9%8B%E7%BD%AA-45abbb70a1b2) — Mengkaji pandangan sirih pinang mungkin distigmatisasi dalam isu konservasi tanah-air, serta perspektif berbeda dari aliran utama. [↩](#user-content-fnref-7)
