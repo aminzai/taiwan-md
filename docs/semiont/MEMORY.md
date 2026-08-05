@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-05
-last_session: '2026-08-05-064557-manual（twmd-spore-harvest-am：5 孢子 D+1 harvest，零事實錯誤，Chrome MCP 未登入迫出 pending-only reply 模式）'
+last_updated: 2026-08-06
+last_session: '2026-08-06-053831-twmd-routine-sync（三層對賬第十三輪，18 條全 in-sync 零漂移）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -352,3 +352,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-05 | 093245-twmd-flywheel-watch | 飛輪零靜默（24hr 137 commit／11 筆 routine 標記）；儀器少讀 cron 日號欄位把月排程當日排程，誤報誕生第二天的 terminology-trends，當場修掉；live dump 連三晨沒更新補進 #22 | 沒被走過的程式路徑不會叫，它等飛輪長出第一條月排程才現形 | [→](memory/2026-08-05-093245-twmd-flywheel-watch.md) |
 | 2026-08-05 | 104901-twmd-terminology-trends-monthly | 首個常規月度輪：10 詞入庫（含 3 條誤判翻案）＋2 條補肉；雙防線查重攔下 5 個近似重複 | demand-rank 的 MISSING 清單是待查證清單不是入庫清單，30 詞裡僅 1 詞查證後站得住腳 | [→](memory/2026-08-05-104901-twmd-terminology-trends-monthly.md) |
 | 2026-08-06 | 053558-twmd-embeddings-nightly | 12 語 9010 向量 0 fail，較昨夜 +29；增幅從 +169→+116→+29 連三夜遞減，vi 仍最少 | 增幅遞減可能是翻譯爬升期近尾聲，下次交叉 dashboard i18n 覆蓋率確認 | [→](memory/2026-08-06-053558-twmd-embeddings-nightly.md) |
+| 2026-08-06 | 053831-twmd-routine-sync | 三層對賬第十三輪，18 條全 in-sync 零漂移；額外用 MCP 交叉複核腳本「live 狀態不明」標註非真漂移 | 零漂移仍多做一次跨源複核，confirm 而非假設沒事 | [→](memory/2026-08-06-053831-twmd-routine-sync.md) |
