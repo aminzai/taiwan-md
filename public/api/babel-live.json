@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-05T09:05:45+08:00",
+ "generated_at": "2026-08-05T10:06:41+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-05T09:05:42+08:00",
+ "snapshot_ts": "2026-08-05T10:06:37+08:00",
  "total_zh": 882,
  "langs": [
   {
@@ -88,11 +88,11 @@
   {
    "lang": "ar",
    "name": "العربية",
-   "fresh": 711,
+   "fresh": 712,
    "stale": 5,
-   "missing": 166,
-   "coverage_pct": 81.2,
-   "fresh_delta": 0
+   "missing": 165,
+   "coverage_pct": 81.3,
+   "fresh_delta": 1
   },
   {
    "lang": "ru",
@@ -101,22 +101,22 @@
    "stale": 4,
    "missing": 138,
    "coverage_pct": 84.4,
-   "fresh_delta": 1
+   "fresh_delta": 0
   }
  ],
- "gap_total": 1755,
+ "gap_total": 1754,
  "gap_delta": -1,
  "rate_1h": {
-  "delta": 2,
-  "span_h": 1.01,
-  "per_hour": 2.0
+  "delta": 1,
+  "span_h": 1.02,
+  "per_hour": 1.0
  },
  "rate_24h": {
-  "delta": -104,
-  "span_h": 24.07,
-  "per_hour": -4.3
+  "delta": -109,
+  "span_h": 24.08,
+  "per_hour": -4.5
  },
- "eta_days": 36.6,
+ "eta_days": 73.1,
  "nodes": {
   "worker:desktop3090": {
    "ok": 290,
@@ -136,8 +136,24 @@
   },
   "worker:nemo": {
    "ok": 213,
-   "fail": 184,
+   "fail": 185,
    "avg_s": 330.7,
+   "top_fail": [
+    [
+     "no output written by tra",
+     81
+    ],
+    [
+     "verify=1 [frontmatter no",
+     41
+    ]
+   ],
+   "last_activity": "2026-08-05T09:53:41+08:00"
+  },
+  "worker:nemo3": {
+   "ok": 181,
+   "fail": 189,
+   "avg_s": 475.8,
    "top_fail": [
     [
      "no output written by tra",
@@ -145,47 +161,31 @@
     ],
     [
      "verify=1 [frontmatter no",
-     41
-    ]
-   ],
-   "last_activity": "2026-08-05T08:58:30+08:00"
-  },
-  "worker:nemo3": {
-   "ok": 181,
-   "fail": 187,
-   "avg_s": 475.8,
-   "top_fail": [
-    [
-     "no output written by tra",
-     78
-    ],
-    [
-     "verify=1 [frontmatter no",
      50
     ]
    ],
-   "last_activity": "2026-08-05T08:56:44+08:00"
+   "last_activity": "2026-08-05T10:05:34+08:00"
   },
   "worker:nemo2": {
    "ok": 212,
-   "fail": 175,
+   "fail": 177,
    "avg_s": 328.7,
    "top_fail": [
     [
      "no output written by tra",
-     69
+     71
     ],
     [
      "verify=1 [frontmatter no",
      44
     ]
    ],
-   "last_activity": "2026-08-05T08:05:08+08:00"
+   "last_activity": "2026-08-05T09:58:32+08:00"
   },
   "worker:nemo4": {
-   "ok": 222,
-   "fail": 184,
-   "avg_s": 366.8,
+   "ok": 223,
+   "fail": 185,
+   "avg_s": 378.9,
    "top_fail": [
     [
      "no output written by tra",
@@ -196,7 +196,7 @@
      42
     ]
    ],
-   "last_activity": "2026-08-05T08:32:34+08:00"
+   "last_activity": "2026-08-05T10:05:49+08:00"
   },
   "worker:macm4max": {
    "ok": 44,
@@ -234,39 +234,19 @@
   {
    "kind": "unified",
    "pid": "8492",
-   "uptime": "03-09:57:15",
+   "uptime": "03-10:58:11",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
-   "pid": "16964",
-   "uptime": "00:09",
+   "pid": "21172",
+   "uptime": "00:17",
    "langs": "en,es,fr,ko",
    "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-04T09:01:12+08:00",
-   "fresh_total": 8051,
-   "gap_total": 1618
-  },
-  {
-   "ts": "2026-08-04T09:16:20+08:00",
-   "fresh_total": 8052,
-   "gap_total": 1617
-  },
-  {
-   "ts": "2026-08-04T09:31:31+08:00",
-   "fresh_total": 8053,
-   "gap_total": 1616
-  },
-  {
-   "ts": "2026-08-04T09:46:40+08:00",
-   "fresh_total": 8056,
-   "gap_total": 1613
-  },
   {
    "ts": "2026-08-04T10:01:50+08:00",
    "fresh_total": 8057,
@@ -726,6 +706,26 @@
    "ts": "2026-08-05T09:05:42+08:00",
    "fresh_total": 7947,
    "gap_total": 1755
+  },
+  {
+   "ts": "2026-08-05T09:20:52+08:00",
+   "fresh_total": 7947,
+   "gap_total": 1755
+  },
+  {
+   "ts": "2026-08-05T09:36:03+08:00",
+   "fresh_total": 7947,
+   "gap_total": 1755
+  },
+  {
+   "ts": "2026-08-05T09:51:14+08:00",
+   "fresh_total": 7947,
+   "gap_total": 1755
+  },
+  {
+   "ts": "2026-08-05T10:06:37+08:00",
+   "fresh_total": 7948,
+   "gap_total": 1754
   }
  ]
 }
