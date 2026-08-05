@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T04:54:56+08:00",
-    "zhCommitHead": "81a9c037c",
+    "lastUpdated": "2026-08-06T05:06:16+08:00",
+    "zhCommitHead": "8dca87334",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 883,
-        "fresh": 533,
+        "fresh": 534,
         "stale": 8,
         "metadata_stale": 6,
-        "missing": 336,
+        "missing": 335,
         "orphan": 0
       },
       "pt": {
@@ -10671,7 +10671,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-international-trade-policy.md",
+          "translatedFrom": "Economy/台灣國際貿易政策.md",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:d585af78b77ed183",
+          "sourceBodyHash": "sha256:57ec5065ff0c2c3f",
+          "translatedAt": "2026-08-05T16:59:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-international-trade-policy.md",
@@ -28169,8 +28180,8 @@
           "sourceContentHash": "sha256:7ed91655bf7dbf6e",
           "sourceBodyHash": "sha256:886303e7465ef57e",
           "translatedAt": "2026-08-05T16:59:09+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8dca8733",
+          "translationLastModified": "2026-08-06T04:54:56+08:00",
           "inferred": false,
           "footnoteDefs": 44,
           "status": "stale",
@@ -39721,8 +39732,8 @@
           "sourceContentHash": "sha256:42de5cb53b9bc1de",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T17:06:50.169140+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8dca8733",
+          "translationLastModified": "2026-08-06T04:54:56+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -88791,8 +88802,8 @@
           "sourceContentHash": "sha256:53560e337a2fa524",
           "sourceBodyHash": "sha256:826517ecee263b74",
           "translatedAt": "2026-08-05T16:59:09+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8dca8733",
+          "translationLastModified": "2026-08-06T04:54:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
