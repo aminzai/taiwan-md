@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-06 twmd-spore-harvest-am — chrome-mcp-unattended-login-expiry：無人值守 harvest routine 依賴的登入態不會自己續期
+
+- **pattern**: `chrome-mcp-unattended-login-expiry`
+- **原則**：SPORE-HARVEST-PIPELINE 的 reply-post 自動化假設「哲宇已在本機登入 @taiwandotmd」這個前置條件恆成立，但 cron 場景下沒有人在場重新登入，一旦 session 過期（原因可能是瀏覽器重啟 / cookie 過期 / 分靈瀏覽器重新配對），routine 會連續多天卡在 pending-only 模式而不會自己恢復，也不會主動 escalate——目前只在 harvest batch log 裡留一句「本輪限制」，直到有人讀 log 才會發現。**無人值守 automation 依賴的登入態屬於環境前置條件，跟「留言判斷邏輯對不對」是兩層不同的健康信號，混在同一份 batch log 敘事裡容易被埋沒**（同構 REFLEXES #38「混維度 = silent killer」在 Chrome MCP session 健康層的變體）。
+- **觸發**：2026-08-05（twmd-spore-harvest-am D+1）與 2026-08-06（本 D+2）連續兩天 Chrome MCP 配對瀏覽器顯示未登入 Threads/@taiwandotmd，reply-post 全數走 pending 模式，累積 3 則 Bucket E reply draft 未 ship。8/5 harvest log 已記錄為「觀察是否為單次個例」，8/6 確認非個例，達 pipeline §Escalation ladder 「連 2 day → LESSONS-INBOX entry」門檻。
+- **可能層級**：候選 pipeline 修補——SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項可加一條「Stage 2 開頭先 navigate 一個需登入才看得到內容的頁面（如自己 profile 的 following 數）當作 login-state probe，未登入時除了寫進 batch log 也要單獨升一則 LESSONS-INBOX / handoff，不要只留一句話在敘事檔裡等人發現」。是否需要新 gate（跟既有「Chrome MCP 連線可用」gate 分開的「Chrome MCP 已登入」gate）待哲宇拍板。
+- **相關**：REFLEXES #38（混維度 = silent killer）、REFLEXES #60（silent default = silent failure）、SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項 + §Escalation
+- **verification_count**: 2
+
 ### 2026-08-04 manual（EZ WAY 孢子）— ordering-is-an-ethical-decision：在被操作的爭議裡，資訊排序不是寫作技巧是策展倫理
 
 - **pattern**: `ordering-is-an-ethical-decision`
