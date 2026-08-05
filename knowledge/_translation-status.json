@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T14:42:26+08:00",
-    "zhCommitHead": "f8139e36d",
-    "totalZh": 882,
+    "lastUpdated": "2026-08-05T16:57:51+08:00",
+    "zhCommitHead": "75423d316",
+    "totalZh": 883,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,88 +18,88 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 827,
         "stale": 24,
         "metadata_stale": 12,
-        "missing": 19,
+        "missing": 20,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 882,
-        "fresh": 841,
+        "total_zh": 883,
+        "fresh": 842,
         "stale": 15,
-        "metadata_stale": 11,
-        "missing": 15,
+        "metadata_stale": 10,
+        "missing": 16,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 841,
         "stale": 12,
         "metadata_stale": 15,
-        "missing": 14,
+        "missing": 15,
         "orphan": 0
       },
       "es": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 835,
         "stale": 19,
         "metadata_stale": 14,
-        "missing": 14,
+        "missing": 15,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 834,
         "stale": 18,
         "metadata_stale": 17,
-        "missing": 13,
+        "missing": 14,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 354,
         "stale": 31,
         "metadata_stale": 70,
-        "missing": 427,
+        "missing": 428,
         "orphan": 0
       },
       "id": {
-        "total_zh": 882,
-        "fresh": 533,
+        "total_zh": 883,
+        "fresh": 534,
         "stale": 7,
-        "metadata_stale": 5,
-        "missing": 337,
+        "metadata_stale": 4,
+        "missing": 338,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 811,
         "stale": 9,
         "metadata_stale": 3,
-        "missing": 59,
+        "missing": 60,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 630,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 248,
+        "missing": 249,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 882,
+        "total_zh": 883,
         "fresh": 715,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 162,
+        "missing": 163,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 882,
-        "fresh": 741,
+        "total_zh": 883,
+        "fresh": 742,
         "stale": 1,
         "metadata_stale": 3,
         "missing": 137,
@@ -7572,8 +7572,8 @@
           "sourceContentHash": "sha256:0d32412f5db9b8c4",
           "sourceBodyHash": "sha256:f3ad39fefc5166a6",
           "translatedAt": "2026-08-05T06:07:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f10b7087",
+          "translationLastModified": "2026-08-05T14:42:26+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -20102,8 +20102,8 @@
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
           "translatedAt": "2026-08-05T06:07:24+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "f10b7087",
+          "translationLastModified": "2026-08-05T14:42:26+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -28053,6 +28053,49 @@
           "footnoteDefs": 10,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Art/馬祖國際藝術島.md": {
+      "zh": {
+        "lastCommit": "33deb7cf",
+        "lastModified": "2026-08-05T15:09:35+08:00",
+        "contentHash": "sha256:7ed91655bf7dbf6e",
+        "bodyHash": "sha256:886303e7465ef57e"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -93569,7 +93612,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/puli-shaoxing-wine.md",
+          "translatedFrom": "Food/埔里紹興酒.md",
+          "sourceCommitSha": "58a56e425",
+          "sourceContentHash": "sha256:12079ecc271885a4",
+          "sourceBodyHash": "sha256:0805d92de4b036d1",
+          "translatedAt": "2026-08-05T06:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108963,18 +109017,16 @@
         "ja": {
           "path": "ja/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translatedAt": "2026-08-05T06:07:21+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/disney-and-taiwan.md",
@@ -115715,8 +115767,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-08-05T06:07:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f10b7087",
+          "translationLastModified": "2026-08-05T14:42:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -125853,18 +125905,16 @@
         "id": {
           "path": "id/Culture/taiwan-kuaikuai-culture.md",
           "translatedFrom": "Culture/台灣乖乖文化.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b95317cbf18e6ec7",
           "sourceBodyHash": "sha256:2856e1a6d3a978a3",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "translatedAt": "2026-08-05T06:07:22+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-kuaikuai-culture.md",
