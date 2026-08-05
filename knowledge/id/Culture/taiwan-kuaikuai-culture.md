@@ -1,70 +1,71 @@
 ---
-title: 'Budaya Kuai Kuai Taiwan: Bagaimana Camilan Hijau Menjadi Pelindung Industri Teknologi'
-description: 'Dari komputer mahasiswa pascasarjana hingga mesin TSMC, mengapa orang Taiwan percaya bahwa Kuai Kuai hijau dapat membuat mesin bekerja dengan patuh?'
+title: 'Budaya Guai Guai Taiwan: Bagaimana Camilan Hijau Menjadi Penyelamat Industri Teknologi'
+description: 'Dari komputer mahasiswa pascasarjana ke mesin TSMC, mengapa orang Taiwan percaya Guai Guai hijau bisa membuat mesin beroperasi dengan baik?'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '庶民文化'
 tags:
-  ['budaya Taiwan', 'kepercayaan rakyat', 'industri teknologi', 'legenda urban']
+  ['Budaya Taiwan', 'Kepercayaan Rakyat', 'Industri Teknologi', 'Legenda Urban']
+subcategory: '庶民文化'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'Culture/台灣乖乖文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b95317cbf18e6ec7'
 sourceBodyHash: 'sha256:2856e1a6d3a978a3'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-08-05T06:07:22+08:00'
 ---
 
-> **Ikhtisar 30 detik**: Di Taiwan, sebungkus Kuai Kuai hijau dapat ditemukan di mana pun terdapat mesin, dari instrumen presisi di rumah sakit hingga ATM bank. Budaya unik yang bermula pada akhir 1990-an ini berlandaskan kepercayaan para insinyur bahwa nama “Kuai Kuai”, yang berarti “patuh”, dapat membuat peralatan “bekerja dengan patuh”. Kini, bahkan BBC telah menerbitkan laporan khusus tentang fenomena khas Taiwan tersebut.
+> **Ringkasan 30 Detik**: Di Taiwan, dari alat presisi rumah sakit hingga ATM bank, di mana pun ada mesin, Anda mungkin akan melihat satu bungkus Guai Guai hijau. Budaya unik ini bermula pada akhir 1990-an, ketika insinyur percaya bahwa homonim "Guai Guai" bisa membuat peralatan "beroperasi dengan baik" (guai guai yunxing), dan kini bahkan BBC pun melaporkan fenomena unik Taiwan ini dalam artikel khusus.
 
-Saat memasuki ruang server mana pun di Taiwan, Anda sangat mungkin menjumpai pemandangan menarik: sebungkus camilan “Kuai Kuai” berwarna hijau tergeletak tenang di atas server mahal. Bungkusan itu bukan kudapan sore yang terlupakan, melainkan “jimat” yang telah lama dikenal dalam industri teknologi Taiwan.
+Masuk ke ruang server manapun di Taiwan, Anda kemungkinan besar akan melihat pemandangan menarik: di atas server mahal, diam-diam tersimpan satu bungkus camilan "Guai Guai" bermakna hijau. Ini bukan camilan sore yang tertinggal seseorang, melainkan "jimat" yang sudah lama beredar di industri teknologi Taiwan.
 
-## Legenda Urban yang Bermula di Universitas Chiao Tung
+## Bermula dari Universitas Chiao Tung: Legenda Urban
 
-Asal-usul kebiasaan unik ini dapat ditelusuri hingga Universitas Chiao Tung sebelum 1998. Menurut kenangan Direktur Lu dari pusat komputer Universitas Sains dan Teknologi Minghsin pada 2011, ia “sudah menaruh Kuai Kuai hijau di laboratorium sejak menempuh program doktoral”. Berdasarkan perhitungan waktu tersebut, kebiasaan “menaruh Kuai Kuai di dekat mesin” telah ada di Universitas Chiao Tung sebelum 1998.
+Asal-usul kebiasaan aneh ini dapat ditelusuri kembali ke Universitas Chiao Tung sebelum 1998. Menurut kenangan Kepala Pusat Komputasi Universitas Teknologi Minghsin (Lu) pada 2011, ia "sudah menaruh Guai Guai hijau di laboratorium sejak masa program doktor." Diperkirakan praktik "menaruh Guai Guai di mesin" sudah ada di Universitas Chiao Tung sebelum 1998.
 
-Namun, catatan publik paling awal baru muncul pada 2003. Suplemen surat kabar _China Times_ menerbitkan artikel berjudul “Takut Komputer Macet? Mari Taruh Sebungkus Kuai Kuai”, yang menggambarkan bahwa “ruang server banyak perusahaan di Taiwan kerap menaruh sebungkus Kuai Kuai di atas server untuk mengurangi kemungkinan kerusakan server”.
+Namun catatan publik paling awal muncul pada 2003, ketika suplimen _China Times_ memuat artikel berjudul "Takut Komputer Mati? Yuk, Taruh Satu Bungkus Guai Guai", yang menggambarkan "ruang server banyak perusahaan di Taiwan sering menaruh satu bungkus Guai Guai di atas server untuk menurunkan kemungkinan kerusakan server."
 
-Kisah seorang mahasiswa pascasarjana benar-benar membuat kebiasaan ini dikenal luas. Manajer umum perusahaan Kuai Kuai, Liao Yu-chi, mengungkapkan kepada BBC bahwa seorang mahasiswa pascasarjana sedang menulis tesis, tetapi komputernya berulang kali macet. Ia berpikir bahwa perangkat tersebut mungkin memerlukan semacam “jimat”. Nama “Kuai Kuai”, yang secara harfiah berarti “patuh”, kebetulan sesuai dengan kebutuhannya, sedangkan kemasan hijau melambangkan isyarat “jalan” pada lampu lalu lintas. Setelah sebungkus Kuai Kuai hijau diletakkan di dekat komputer, perangkat itu benar-benar kembali bekerja normal dan tesisnya berhasil diselesaikan.
+Yang benar-benar membuat kebiasaan ini dikenal luas adalah kisah seorang mahasiswa pascasarjana. Menurut Direktur Utama perusahaan Guai Guai, Liao Yu-chi (廖宇綺), yang memberitahukan kepada BBC, seorang mahasiswa pascasarjana sedang menulis tesis, tetapi komputernya sering mati mendadak (crash). Ia berpikir peralatan mungkin memerlukan semacam "jimat", dan nama "Guai Guai" tepat memenuhi kebutuhannya, sementara kemasan hijau melambangkan "jalan" (hijau) pada lampu lalu lintas. Setelah menaruh Guai Guai hijau, komputer beroperasi normal dan tesis selesai dengan lancar.
 
-## Aturan Ketat Kuai Kuai
+## Aturan Ketat Guai Guai
 
-Budaya Kuai Kuai di Taiwan memiliki seperangkat aturan tidak tertulis:
+Budaya Guai Guai di Taiwan memiliki seperangkat aturan tak tertulis:
 
-**Kemasan harus berwarna hijau**: Hanya Kuai Kuai hijau rasa krim kelapa yang dianggap berkhasiat karena warna hijau melambangkan lampu penanda bahwa mesin beroperasi normal. Varian kuning rasa lima rempah atau varian merah rasa cokelat dipercaya dapat menimbulkan efek sebaliknya.
+**Harus kemasan hijau**: Hanya Guai Guai hijau rasa krim kelapa yang efektif, karena hijau mewakili lampu hijau mesin beroperasi normal. Rasa lima rempah (kuning) atau rasa cokelat (merah) diyakini membawa efek sebaliknya.
 
-**Sama sekali tidak boleh kedaluwarsa**: Kuai Kuai yang telah kedaluwarsa akan kehilangan daya perlindungannya sehingga harus diganti secara berkala.
+**Tidak boleh kadaluarsa**: Guai Guai kadaluarsa kehilangan daya lindungnya, harus diganti secara berkala.
 
-**Dilarang dimakan**: Kuai Kuai tersebut merupakan persembahan sakral. Memakannya diyakini akan mendatangkan hukuman berupa kerusakan mesin.
+**Dilarang dimakan**: Guai Guai ini adalah persembahan suci, memakannya akan mengundang hukuman berupa kerusakan mesin.
 
-Insiden lumpuhnya sistem komputer pengawasan perbatasan milik Badan Imigrasi di Bandara Taoyuan pada 2009 menjadi contoh klasik pelanggaran pantangan Kuai Kuai. Menurut cerita seorang pengguna internet bernama “Sashimi” di media sosial, saat serah terima pekerjaan, pegawai kontraktor pemeliharaan mengambil dan memakan Kuai Kuai yang berada di ruang server. Keesokan harinya, komputer macet selama 36 jam. Meskipun mungkin hanya kebetulan, waktunya begitu tepat sehingga orang seakan harus memercayai “mukjizat Dewa Kuai Kuai”.
+Insiden kerusakan massal komputer imigrasi Bandara Taoyuan pada 2009 menjadi kasus klasik pelanggaran tabu Guai Guai. Menurut pengguna internet "Sashimi" (生魚片) yang berbagi di media sosial, vendor luar yang bertanggung jawab perbaikan, saat menyerahkan tugas, sembari makan Guai Guai di ruang server, dan keesokan harinya komputer mati selama 36 jam. Meskipun mungkin hanya kebetulan, ketepatan waktunya memaksa orang untuk percaya pada "keajaiban Dewa Guai Guai".
 
 ## Menyebar dari Industri Teknologi ke Berbagai Bidang
 
-Budaya Kuai Kuai berangsur-angsur menyebar dari industri teknologi ke berbagai penjuru masyarakat Taiwan. Menjelang pemilihan presiden 2004, kantor pencatatan rumah tangga menaruh Kuai Kuai di depan komputer karena khawatir perangkat tersebut macet pada saat genting. Pada 2011, sebuah ATM bank di Keelung kerap mengalami kerusakan sehingga petugas pemeliharaan menaruh dua bungkus Kuai Kuai di dalam mesin. Keduanya kemudian disingkirkan setelah foto mesin tersebut diunggah dan memicu perbincangan hangat.
+Budaya Guai Guai perlahan menyebar dari industri teknologi ke berbagai sudut masyarakat Taiwan. Sebelum pemilu presiden 2004, Kantor Administrasi Kependudukan khawatir komputer akan mati di saat kritis, sehingga menaruh Guai Guai di depan komputer. Pada 2011, ATM suatu bank di Keelung sering rusak, teknisi perbaikan menaruh dua bungkus Guai Guai di dalam mesin (kemudian dicabut setelah difoto dan diunggah, memicu perdebatan hangat).
 
-Pada 2014, setelah terjadi kecelakaan lalu lintas besar di wilayah hukumnya, seseorang mengusulkan agar Kantor Polisi Huwei di Yunlin menaruh Kuai Kuai hijau demi memohon keselamatan. Kantor polisi itu pun menaruh lima bungkus Kuai Kuai. Namun, konon suatu hari seorang inspektur memakan sebungkus Kuai Kuai, lalu keesokan harinya terjadi kecelakaan lalu lintas yang merenggut nyawa.
+Pada 2014, Kepolisian Huwei Kabupaten Yunlin, karena terjadi kecelakaan maut di wilayahnya, ada yang menyarankan menaruh Guai Guai hijau untuk keselamatan, sehingga kepolisian menaruh lima bungkus Guai Guai. Namun konon suatu hari seorang perwira patroli memakan satu bungkus Guai Guai, dan keesokan harinya terjadi kecelakaan maut.
 
-## Kekaguman Media Internasional
+## Keterkejutan Media Internasional
 
-Pada 2021, BBC Britania Raya menerbitkan laporan mengenai budaya Kuai Kuai Taiwan dengan judul “Bagaimana Orang Taiwan Menggunakan Camilan Hijau sebagai Jimat Keberuntungan”. Laporan itu menarik perhatian internasional dan membuat warganet Taiwan berkelakar, “rahasia negara telah terbongkar” dan “rahasia tingkat hasil produksi yang tinggi telah terungkap”.
+Pada 2021, BBC Inggris menulis artikel tentang budaya Guai Guai Taiwan, berjudul "Bagaimana Orang Taiwan Menggunakan Camilan Hijau sebagai Jimat Keberuntungan". Liputan ini menarik perhatian internasional, dan membuat warganet Taiwan bercanda "rahasia negara terungkap", "rahasia _yield_ tinggi terekspos".
 
-Fenomena ini bahkan merambah industri penerbangan. Ketua Starlux Airlines, Chang Kuo-wei, menaruh sebungkus Kuai Kuai hijau di ruang rapat untuk memohon agar penyerahan pesawat baru berjalan lancar. Foto tersebut kemudian tersebar luas di internet. Liao Yu-chi bahkan secara langsung membawa Kuai Kuai untuk ditandatangani Chang, dengan harapan kelak dapat meluncurkan “pesawat bercorak Kuai Kuai”.
+Fenomena ini bahkan meluas ke industri penerbangan. Ketua Direksi Starlux Airlines, Chang Kuo-wei (張國煒), menaruh satu bungkus Guai Guai hijau di ruang rapat, berdoa agar pengiriman pesawat baru berjalan lancar, dan foto itu viral di internet. Liao Yu-chi bahkan membawa Guai Guai sendiri untuk dimintai tanda tangan Chang Kuo-wei, berharap di masa depan bisa meluncurkan "pesawat lukis Guai Guai".
 
-## Keseimbangan Halus antara Sains dan Takhayul
+## Keseimbangan Halus Antara Sains dan Kepercayaan
 
-Pada era teknologi yang mengutamakan logika dan data ini, mengapa para insinyur pun memercayai kekuatan gaib Kuai Kuai? Jawabannya mungkin terletak pada perhitungan biaya dan manfaat. Dibandingkan dengan kerugian besar yang dapat ditimbulkan oleh “kerusakan komputer”, biaya membeli sebungkus Kuai Kuai untuk memohon perlindungan nyaris tidak berarti. Seperti yang kerap dikatakan para insinyur, “Sekalipun peluangnya berguna hanya satu berbanding sepuluh ribu, tetap layak dicoba.”
+Di era teknologi yang menuntut logika dan data, mengapa para insinyur pun percaya pada kekuatan supranatural Guai Guai? Jawabannya mungkin terletak pada perhitungan analisis biaya-manfaat. Dibandingkan kerugian besar yang mungkin ditimbulkan "kerusakan komputer", biaya membeli Guai Guai untuk memohon perlindungan sangat minim. Seperti yang sering diucapkan insinyur: "Bahkan jika hanya ada satu peluang dari sepuluh ribu yang berhasil, tetap layak dicoba."
 
-Sikap “lebih baik percaya bahwa itu ada daripada menganggapnya tidak ada” ini menjadikan Kuai Kuai sebagai “dewa” paling berpengaruh dalam industri teknologi Taiwan. Sebagaimana dinyatakan dalam _Ensiklopedia Legenda Urban Taiwan_: “Selama manusia masih belum mampu mengatasi masalah komputer yang tiba-tiba rusak tanpa sebab, Dewa Kuai Kuai akan terus ada.”
+Sikap "lebih baik percaya ada, jangan percaya tidak ada" ini membuat Guai Guai menjadi "dewa" paling berpengaruh di industri teknologi Taiwan. Seperti yang tertulis dalam _Ensiklopedia Legenda Urban Taiwan_: "Selama orang belum bisa memecahkan masalah kerusakan komputer tanpa sebab, Dewa Guai Guai akan terus ada."
 
-Sementara itu, membuat komputer sama sekali tidak pernah rusak hampir mustahil. Oleh karena itu, di Taiwan, negara tempat teknologi dan kepercayaan berpadu, Kuai Kuai hijau akan terus melindungi mesin-mesin presisi tersebut sekaligus menjadi saksi atas keseimbangan paling menarik antara rasionalitas dan takhayul.
+Dan membuat komputer tidak pernah rusak hampir mustahil. Oleh karena itu, di tanah Taiwan ini tempat bertemunya teknologi dan kepercayaan, Guai Guai hijau akan terus melindungi mesin-mesin presisi itu, menyaksikan keseimbangan paling menarik antara rasionalitas dan kepercayaan.
 
 ## Referensi
 
-- [Budaya Unik Teknologi dan Kepercayaan! Kapan Legenda Urban Menaruh Kuai Kuai Hijau di Dekat Mesin Bermula?](https://city.gvm.com.tw/article/83154)
-- [Dapatkah Sebungkus “Kuai Kuai Hijau” di Atas Mesin Menjamin Kelancaran Operasinya? Mengapa “Kuai Kuai Kuning” Justru Dianggap Membawa Masalah?](https://pansci.asia/archives/328678)
-- [BBC Melaporkan Budaya Kuai Kuai Taiwan: Siapa yang Mencetuskan Kebiasaan Menaruh Kuai Kuai Hijau di Atas Mesin?](https://buzzorange.com/citiorange/2021/04/15/kuaikuai-works/)
-- [Budaya Kuai Kuai - Wikipedia](https://zh.wikipedia.org/zh-hant/乖乖文化)
-- [Budaya Kuai Kuai Taiwan Diliput BBC; Warganet Berseru: Rahasia Tingkat Hasil Produksi yang Tinggi Telah Terbongkar!](https://news.ltn.com.tw/news/life/breakingnews/3501551)
+- [Budaya Unik Teknologi dan Kepercayaan! Kapan Legenda Urban Menaruh Guai Guai Hijau di Mesin Bermula?](https://city.gvm.com.tw/article/83154)
+- [Menaruh "Guai Guai Hijau" di Mesin Bisa Memberkahi Operasinya? Kenapa Menaruh "Guai Guai Kuning" Justru Malah Berantakan?](https://pansci.asia/archives/328678)
+- [_BBC_ Liput Budaya Guai Guai Taiwan: Siapa yang Menciptakan Aturan Menaruh Guai Guai Hijau di Mesin?](https://buzzorange.com/citiorange/2021/04/15/kuaikuai-works/)
+- [Budaya Guai Guai - Wikipedia](https://zh.wikipedia.org/zh-hant/乖乖文化)
+- [Budaya Guai Guai Taiwan Naik ke _BBC_, Warganet Seru: Rahasia _Yield_ Tinggi Terekspos!](https://news.ltn.com.tw/news/life/breakingnews/3501551)
