@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T12:06:44+08:00",
-    "zhCommitHead": "e60a9f7a0",
+    "lastUpdated": "2026-08-05T12:15:05+08:00",
+    "zhCommitHead": "5fc4f640d",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 882,
-        "fresh": 840,
-        "stale": 13,
+        "fresh": 841,
+        "stale": 12,
         "metadata_stale": 15,
         "missing": 14,
         "orphan": 0
@@ -51462,18 +51462,16 @@
         "ko": {
           "path": "ko/Nature/malayan-night-heron.md",
           "translatedFrom": "Nature/黑冠麻鷺.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:4926f151d268c5db",
-          "sourceBodyHash": "sha256:215f7a81312f6fac",
-          "translatedAt": "2026-06-16T17:14:05Z",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:74ac37cae326eaa1",
+          "sourceBodyHash": "sha256:9c1e23df6047812e",
+          "translatedAt": "2026-08-05T12:06:48+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/malayan-night-heron.md",
@@ -95117,8 +95115,8 @@
           "sourceContentHash": "sha256:81213e22c8b81c39",
           "sourceBodyHash": "sha256:7eb60f7eb1751d17",
           "translatedAt": "2026-08-05T06:07:21+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
+          "translationLastCommit": "660f64d4",
+          "translationLastModified": "2026-08-05T12:06:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -104974,8 +104972,8 @@
           "sourceContentHash": "sha256:04245348572d70d0",
           "sourceBodyHash": "sha256:308ab8066ca9a9d0",
           "translatedAt": "2026-08-05T06:07:21+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "660f64d4",
+          "translationLastModified": "2026-08-05T12:06:44+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
