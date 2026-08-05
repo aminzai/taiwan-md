@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T12:48:57+08:00",
-    "zhCommitHead": "427b89912",
+    "lastUpdated": "2026-08-05T14:39:15+08:00",
+    "zhCommitHead": "7ec132cc9",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 531,
-        "stale": 6,
-        "metadata_stale": 7,
-        "missing": 338,
+        "fresh": 533,
+        "stale": 7,
+        "metadata_stale": 5,
+        "missing": 337,
         "orphan": 0
       },
       "pt": {
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 628,
+        "fresh": 629,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 250,
+        "missing": 249,
         "orphan": 0
       },
       "ar": {
         "total_zh": 882,
-        "fresh": 713,
+        "fresh": 715,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 164,
+        "missing": 162,
         "orphan": 0
       },
       "ru": {
@@ -7566,7 +7566,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/united-microelectronics-corporation.md",
+          "translatedFrom": "Economy/台灣企業：聯華電子.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0d32412f5db9b8c4",
+          "sourceBodyHash": "sha256:f3ad39fefc5166a6",
+          "translatedAt": "2026-08-05T06:07:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/united-microelectronics-corporation.md",
@@ -41151,18 +41162,16 @@
         "id": {
           "path": "id/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:bc15608a0bffd86f",
-          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-07-27T22:12:15+08:00",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:02adbfeb9ccc960b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-05T06:05:36.280383+00:00",
           "translationLastCommit": "fe9a7dd5",
           "translationLastModified": "2026-07-28T04:44:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "pt": {
           "path": "pt/Society/betel-nut.md",
@@ -42402,7 +42411,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-disaster-volunteer-culture.md",
+          "translatedFrom": "Society/台灣災難志工文化.md",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-08-05T06:07:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-disaster-volunteer-culture.md",
@@ -66899,7 +66919,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tu-pan-fangke.md",
+          "translatedFrom": "People/杜潘芳格.md",
+          "sourceCommitSha": "d39f3a507",
+          "sourceContentHash": "sha256:d405136a29d9431e",
+          "sourceBodyHash": "sha256:b0195c9685eb2443",
+          "translatedAt": "2026-08-05T06:07:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -88572,8 +88603,8 @@
           "sourceContentHash": "sha256:5a619f0cc796c527",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T04:28:22.650560+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "34cdb343",
+          "translationLastModified": "2026-08-05T12:48:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -107225,7 +107256,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/dutch-spanish-and-koxinga-era.md",
+          "translatedFrom": "History/荷西明鄭時期.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:475b891f7794f26c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-05T04:57:01.336555+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/dutch-spanish-and-koxinga-era.md",
@@ -115112,8 +115154,8 @@
           "sourceContentHash": "sha256:c4a4c2010dd95827",
           "sourceBodyHash": "sha256:605dca39a0b5b5c5",
           "translatedAt": "2026-08-05T06:07:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "34cdb343",
+          "translationLastModified": "2026-08-05T12:48:56+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -126973,18 +127015,16 @@
         "id": {
           "path": "id/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-28T22:24:23+08:00",
+          "translatedAt": "2026-08-05T06:07:22+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-prime-time-drama.md",
