@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T06:07:11+08:00",
-    "zhCommitHead": "c9086716c",
+    "lastUpdated": "2026-08-05T08:41:01+08:00",
+    "zhCommitHead": "e63129758",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -27,9 +27,9 @@
       },
       "ja": {
         "total_zh": 882,
-        "fresh": 839,
+        "fresh": 840,
         "stale": 15,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 15,
         "orphan": 0
       },
@@ -67,9 +67,9 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 528,
+        "fresh": 529,
         "stale": 6,
-        "metadata_stale": 9,
+        "metadata_stale": 8,
         "missing": 339,
         "orphan": 0
       },
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 624,
+        "fresh": 626,
         "stale": 1,
-        "metadata_stale": 5,
-        "missing": 252,
+        "metadata_stale": 4,
+        "missing": 251,
         "orphan": 0
       },
       "ar": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 738,
+        "fresh": 739,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       }
     },
@@ -7380,8 +7380,8 @@
           "sourceContentHash": "sha256:65cc0b60ab116db7",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T20:46:57.539731+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "897b6f75",
+          "translationLastModified": "2026-08-05T06:07:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -8590,8 +8590,8 @@
           "sourceContentHash": "sha256:8fc0adba07db27e5",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T21:17:25.589714+00:00",
-          "translationLastCommit": "fe9a7dd5",
-          "translationLastModified": "2026-07-28T04:44:42+08:00",
+          "translationLastCommit": "897b6f75",
+          "translationLastModified": "2026-08-05T06:07:12+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "stale",
@@ -23293,7 +23293,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/taiwanese-cinema.md",
+          "translatedFrom": "Art/台灣電影.md",
+          "sourceCommitSha": "cc6f9d9b3",
+          "sourceContentHash": "sha256:4eec1818bd85149d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T23:50:19.509586+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -27113,9 +27124,9 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:ae965ccf6dfa996d",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T21:14:10.417519+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translatedAt": "2026-08-04T22:17:54.751192+00:00",
+          "translationLastCommit": "897b6f75",
+          "translationLastModified": "2026-08-05T06:07:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "stale",
@@ -33934,8 +33945,8 @@
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
           "translatedAt": "2026-08-05T00:31:24+08:00",
-          "translationLastCommit": "cf8b6758",
-          "translationLastModified": "2026-07-28T08:10:09+08:00",
+          "translationLastCommit": "897b6f75",
+          "translationLastModified": "2026-08-05T06:07:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -36420,8 +36431,8 @@
           "sourceContentHash": "sha256:83e68a6262dbf058",
           "sourceBodyHash": "sha256:7149df720d9ca880",
           "translatedAt": "2026-08-05T00:31:24+08:00",
-          "translationLastCommit": "10db0978",
-          "translationLastModified": "2026-07-25T02:15:17+08:00",
+          "translationLastCommit": "897b6f75",
+          "translationLastModified": "2026-08-05T06:07:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -67638,18 +67649,16 @@
         "hi": {
           "path": "hi/People/nam-min-jung.md",
           "translatedFrom": "People/南珉貞.md",
-          "sourceCommitSha": "859d7316d",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:6b588911c485c4d9",
           "sourceBodyHash": "sha256:3582a490ea4120f2",
-          "translatedAt": "2026-07-26T10:36:38+08:00",
+          "translatedAt": "2026-08-05T06:07:24+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/nam-min-jung.md",
@@ -85569,7 +85578,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tai-yu-wu.md",
+          "translatedFrom": "People/吳大猷.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:ea84edf10c10d1a4",
+          "sourceBodyHash": "sha256:54cafe2c5032e30e",
+          "translatedAt": "2026-08-05T06:07:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tai-yu-wu.md",
@@ -89319,18 +89339,16 @@
         "id": {
           "path": "id/People/he-feipeng.md",
           "translatedFrom": "People/何飛鵬.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c6c5b08befa8584a",
           "sourceBodyHash": "sha256:65be42b8cac6c9ca",
-          "translatedAt": "2026-07-25T06:34:15+08:00",
+          "translatedAt": "2026-08-05T06:07:22+08:00",
           "translationLastCommit": "ff1224e8",
           "translationLastModified": "2026-07-25T07:13:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/he-feipeng.md",
@@ -95075,18 +95093,16 @@
         "ja": {
           "path": "ja/Food/eel-noodles.md",
           "translatedFrom": "Food/鱔魚意麵.md",
-          "sourceCommitSha": "3011828ba",
-          "sourceContentHash": "sha256:6060b205f72b8e41",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:81213e22c8b81c39",
           "sourceBodyHash": "sha256:7eb60f7eb1751d17",
-          "translatedAt": "2026-07-06T00:39:49+08:00",
+          "translatedAt": "2026-08-05T06:07:21+08:00",
           "translationLastCommit": "b4fa7ea4",
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/Food/eel-noodles.md",
@@ -115571,8 +115587,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-08-05T00:31:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "897b6f75",
+          "translationLastModified": "2026-08-05T06:07:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
