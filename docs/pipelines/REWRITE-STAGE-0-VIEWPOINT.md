@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-0-VIEWPOINT'
 description: 'REWRITE v9 stage contract — Stage 0 觀點：模式識別 / spine 類型判定 / 素材萃取 / 拆除防火牆 / 觀點成型 HARD GATE'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.6'
+current_version: 'v9.7'
 last_updated: 2026-08-06
-last_session: '2026-08-06-pipeline-shell-lint瘦身（v9.6：主檔 §Cron 模式 + Routine 飛輪 verbatim 搬入本檔，主檔壓回 lint 550 行上限；v9.5 新增 Step 0.1.6 run profile 選檔——lite/standard/flagship 路由，設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
+last_session: '2026-08-06-文體類型學-mode4（v9.7＝Step 0.1.5 升 v7.9：文體族查表 PROJECTION-PATTERNS P1-P8 optional＋M1-M3 正交模組觸發＋第三型判準加第三問「此刻可指認的戰場」；設計報告 reports/design-文體類型學升級-2026-08-06.md。前版 v9.6：主檔 §Cron 模式 verbatim 搬入本檔）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -204,13 +204,14 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 | 讀者離場     | 「原來如此，真好」           | **「我知道在吵什麼，也知道自己還缺哪塊判斷依據」** | 「我被說服了／我想反駁」       |
 | 最大失敗模式 | 慶祝式面向清單（維基化）     | **(a) 退回立體＝把不對稱寫平 (b) 滑成單軸＝選邊**  | contrarian thesis 硬塞受愛戴題 |
 
-**判準（一個問題，取代舊的兜底）**：
+**判準（v7.9 起三問，取代舊的兜底）**：
 
-> **這件事現在正在被公開爭論嗎？而且爭論的各方都有正當立場嗎？**
+> 1. **這件事現在正在被公開爭論嗎？** 2. **爭論的各方都有正當立場嗎？** 3. **有沒有一個此刻可指認的戰場**（法案審查中／事件偵辦中／剛開完的記者會／明確的上路日或期限）？
 >
-> - 兩個都 yes → **第三型**（在 research report 寫 `spine_type: 矛盾驅動` ＋ `curatorial_techniques: [多元視角並陳（手法5，主）]` ＋ `unlock_reason`）
-> - 第一個 yes、第二個 no（有一方明顯站不住）→ 單軸矛盾驅動
-> - 第一個 no → 立體群像畫布
+> - 三個都 yes → **第三型**（在 research report 寫 `spine_type: 矛盾驅動` ＋ `curatorial_techniques: [多元視角並陳（手法5，主）]` ＋ `unlock_reason`）
+> - 1、2 yes 但 3 no（多方對立卻沒有此刻的戰場——慢性結構題如高教退場、少子化）→ **立體群像＋手法 5**，矛盾當引擎不當拆穿工具；這類題的核心矛盾通常是一條可指認的時間差／設計落差（開門用了十年、關門的規則遲到二十年），統合式洞見收尾比「把判斷交還讀者」更誠實（2026-08-06 文體類型學研究，高教擴張與退場證據）
+> - 1 yes、2 no（有一方明顯站不住）→ 單軸矛盾驅動
+> - 1 no → 立體群像畫布
 
 ⚠️ **這條收窄了「拿不準 → 立體群像」的兜底**：拿不準**且不是進行中的公共爭論** → 立體群像。**是**進行中的公共爭論 → 不准用「拿不準」躲進立體群像。理由見下方誕生事件。
 
@@ -240,6 +241,18 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 **落檔**：research report frontmatter `spine_type: 立體群像`（例外時 `矛盾驅動` + `unlock_reason: 一句話`）+ `curatorial_techniques: [手法 N, ...]`。
 **第三型的落檔形態**：`spine_type: 矛盾驅動` + `curatorial_techniques: [多元視角並陳（手法5，主）, ...]` + `unlock_reason` + `core_contradiction`（≤30 字）。三者缺一即視為未判 spine。
+
+#### 文體族查表＋正交模組（v7.9 新增，optional）📖
+
+> 誕生：2026-08-06 文體類型學研究——8 條 lane 細讀 22 篇深度文後發現，立體群像帽子下已自然分化出多種被實戰驗證的骨架形狀（人物三型／物件透鏡／決定考古／機構傳記／週期活動／命題式），每篇都在編輯室臨場重新發明同一套規則。設計報告：[reports/design-文體類型學升級-2026-08-06.md](../../reports/design-文體類型學升級-2026-08-06.md)。
+
+判完三型之後（在畫布內），**查 [PROJECTION-PATTERNS.md](../editorial/PROJECTION-PATTERNS.md) §〇 路由表選文體族**（P1-P8），選中的寫進 research report frontmatter `spine_pattern: P{N} {名稱}`。**這一步是 optional**——查不到合身的族就留空，通用立體群像照舊跑；族是投影預設集（成套的論點形態＋骨架形狀＋舉證義務＋失敗模式），不是新的必選判定。
+
+同一步順檢三個**正交模組**（可疊加在任何 spine 上，定義在 PATTERNS §五）：
+
+- **M1 認識導覽前置**：一般讀者無法不查資料說出主題「是什麼規模、誰辦的」→ 第一節座標縫進物質細節（馬祖 v3「座標軸為零」教訓）；研究太薄時整篇可誠實降為純導覽
+- **M2 解釋器＋自救層**：讀者有具體可操作的下一步且操作介面是議題載體 → call-out box 承載，減法不砍光
+- **M3 事件追蹤模式**：調查／訴訟／修法進行中 → 動詞強度綁一手來源、骨架留縫、delta 投影不重寫（苯駢芘 `EVOLVE-delta`）
 
 ### Step 0.1.6: Run profile 選檔（v9.5 新增）⚙️
 
@@ -609,6 +622,7 @@ Stage 0 結束時 deliverable：
 - [x] 六個核心問題全答（Step 0.6.1）
 - [x] **Stage 0 探索搜尋 ≥ 20 query 已落 §探索搜尋紀錄（Step 0.6.4）— 這是初步研究本體**
 - [x] **spine 類型 + 手法選單已定（Step 0.1.5）**：立體群像 default + 1-2 手法；例外解鎖矛盾驅動須寫 `unlock_reason`
+- [x] **文體族已查表（v7.9，optional）**：查 [PROJECTION-PATTERNS §〇](../editorial/PROJECTION-PATTERNS.md) 選族落 `spine_pattern`（或明確留空走通用畫布）；M1/M2/M3 正交模組觸發已檢
 - [x] ~~20 路 persona 切入點~~ **v7.7 移到研究後 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)，Stage 0 不再跑 persona**
 - [x] 切入點清單 + 核心矛盾候選（矛盾驅動）**或 組織主軸 + ≥4 facet 清單（立體群像）** + 研究方向 已列
 - [x] **Step 0.6.7 三道 self-check 過（v7.6）**：SSODT 三讀者測試 + 炎上 self-check + 政治立場 self-check 全綠

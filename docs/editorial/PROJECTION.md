@@ -3,12 +3,13 @@ title: 'PROJECTION'
 description: '投影方法論 canonical — 把研究報告投影成一篇有單一論點、連貫脈絡、每個 section 都推進論點又扣回主軸的文章。研究 → 投影邏輯 → 文章 的中間層。'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-07-25
-last_session: '2026-07-25-外送專法（v7.8 spine 第三型「多觀點立場議題探討矛盾型」——哲宇 directive，以外送專法 dogfood 校準）'
+current_version: 'v1.2'
+last_updated: 2026-08-06
+last_session: '2026-08-06-文體類型學-mode4（v1.2：姊妹檔 PROJECTION-PATTERNS 誕生＋論點形態擴充（透鏡式/累積式/判斷框架式）＋投影 gate 加第六題冷讀測試＋反例 gallery 補三條；設計報告 reports/design-文體類型學升級-2026-08-06.md）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'EDITORIAL.md'
+  - 'PROJECTION-PATTERNS.md'
   - 'EDITORIAL-ROOM.md'
   - 'RESEARCH.md'
   - 'graph.md'
@@ -91,6 +92,8 @@ Stage 0 的主軸句（「Shopping Design 花二十年把設計變成動詞」�
 - **立體群像題**（受愛戴的機構 / 傳統 / 集體記憶 / 多數人物）→ 論點是**綜合式 / 統合式的洞見**：不對立、不找碴，但**仍然是一個有推進的具體主張**，不是一句慶祝的摘要。立體 ≠ 沒有論點；立體的論點是「這一整群面向，合起來說出了一件什麼樣的事」，而那件事要**在文章裡被一步步兌現**。
 
 **投影對所有題目都要求「推進」；只對真正的爭議題要求「對立」。** 把立體群像題硬找一個辯論論點 = 製造 contrarian thesis = 炎上（金曲獎 v1 教訓）。但立體群像題沒有推進的論點 = 回到面向導覽的老病。兩邊都要避開。
+
+**論點形態不只三種（v1.2）**：立體群像畫布下已驗證的合法論點形態還有**透鏡式**（「這個物件是一把尺，照出 X」——發票／收費站）、**累積式**（「今天的日常是一連串決定的殘留，誰決定誰承擔的線沒被接住」——高速公路／行道樹）、**判斷框架式**（「讀者可以同意事實層 A，卻可以不同意框架層 B」——鎢供應鏈）。這些論點帶利刃感但不逼讀者選邊，骨架仍走並陳 facet；成套規格（含各自的舉證義務與失敗模式）查 [PROJECTION-PATTERNS.md](PROJECTION-PATTERNS.md)。物件透鏡與決定考古的因果鏈骨架**天生過不了嚴格 shuffle test，這是合法的**——藍圖誠實寫出硬依賴即可，不必偽裝成可自由重排的面向（收費站四輪九席的教訓：硬拆散因果鏈比承認它更貴）。
 
 ### 動作 2：設計骨架（一串「動作」，不是一串「面向」）
 
@@ -194,42 +197,47 @@ date: YYYY-MM-DD
 
 ## 五、投影 gate（什麼樣的藍圖算過）
 
-Step 2.0 過這五題才准派寫手（HARD）：
+Step 2.0 過這六題才准派寫手（HARD）：
 
 1. **論點不是摘要**：那句論點，讀者能不同意，或文章非證明不可。是「X 是重要的 Y」型 → 退回重找。
-2. **骨架過 shuffle test**：section 順序打亂會讀不通（第 N 步預設第 N-1 步）。能隨便重排 → 還是目錄，重排成論證。
+2. **骨架過 shuffle test**：section 順序打亂會讀不通（第 N 步預設第 N-1 步）。能隨便重排 → 還是目錄，重排成論證。（物件透鏡／決定考古族的因果鏈是合法硬依賴，誠實寫出即過——見 [PROJECTION-PATTERNS](PROJECTION-PATTERNS.md)。）
 3. **每個 section 有全局功能**：沒有任何一個 section 的職責只有「介紹某面向」。有 → 給它全局功能或砍掉。
 4. **減法非空**：真的列出了砍掉的材料。列不出 → 你還沒做選擇，會寫成 CV。
 5. **echo map 覆蓋全篇**：每個 section 都有一個回到主軸錨的 beat（不是只有頭尾）。
+6. **冷讀測試（v1.2 新增）**：一個完全不認識這個主題的讀者，照這個骨架讀完，能不能說出「這是什麼、誰辦的、多大量級」？答不出來 → 論點主詞可能被抽象名詞偷走了（馬祖 v1「這套自我敘事的語言」教訓），或座標材料被誤砍進減法（**錯的論點會砍掉對的材料**）。零認知主題另過 [PATTERNS §M1 認識導覽前置](PROJECTION-PATTERNS.md)。
 
-（v1.0 gate 是人眼判斷，跟 §觀點成型 同級。未來考慮 `projection-health.py` 儀器化 shuffle/echo/論點型別。）
+（v1.0 gate 是人眼判斷，跟 §觀點成型 同級。第 6 題是 2026-08-06 LESSONS `self-consistent-gates-miss-reader-comprehension` 的最小落地——前五題全部以藍圖自己的論點為參考系，論點錯了五題會一起錯；第 6 題強制跳出參考系問讀者。未來考慮 `projection-health.py` 儀器化 shuffle/echo/論點型別。）
 
 ---
 
 ## 六、反例 gallery（看到要警覺）
 
-| ❌ 反 pattern          | 病                                                     | ✅ 改                                                       |
-| ---------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| 面向巡禮（facet tour） | section = 名詞主題，可隨意重排，加法不是乘法           | 骨架改成動詞序列，每 section 給全局功能                     |
-| 論點是摘要             | 「X 是重要的 Y」沒人會不同意，整篇沒有要賺的東西       | 找一句有張力、要被文章證明的主張                            |
-| 把研究都塞進去         | 沒做減法，每段三個事實，讀者沒空間感受                 | 先列減法，砍到只剩服務論點的                                |
-| 主軸只在頭尾           | 中間 section 各自為政，錨點沒穿過去                    | echo map 保證每段押韻一次                                   |
-| 立體群像＝沒有論點     | 誤以為「不找碴」就是「不用有主張」，寫成慶祝式面向清單 | 立體的論點是「這群面向合起來說出什麼」，且要在文中被兌現    |
-| 逼立體題吃辯論論點     | 受愛戴題被塞一個 contrarian thesis → 炎上（金曲獎 v1） | 論點型別跟 spine 綁定：立體用統合洞見，只要求推進不要求對立 |
+| ❌ 反 pattern          | 病                                                     | ✅ 改                                                          |
+| ---------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| 面向巡禮（facet tour） | section = 名詞主題，可隨意重排，加法不是乘法           | 骨架改成動詞序列，每 section 給全局功能                        |
+| 論點是摘要             | 「X 是重要的 Y」沒人會不同意，整篇沒有要賺的東西       | 找一句有張力、要被文章證明的主張                               |
+| 把研究都塞進去         | 沒做減法，每段三個事實，讀者沒空間感受                 | 先列減法，砍到只剩服務論點的                                   |
+| 主軸只在頭尾           | 中間 section 各自為政，錨點沒穿過去                    | echo map 保證每段押韻一次                                      |
+| 立體群像＝沒有論點     | 誤以為「不找碴」就是「不用有主張」，寫成慶祝式面向清單 | 立體的論點是「這群面向合起來說出什麼」，且要在文中被兌現       |
+| 逼立體題吃辯論論點     | 受愛戴題被塞一個 contrarian thesis → 炎上（金曲獎 v1） | 論點型別跟 spine 綁定：立體用統合洞見，只要求推進不要求對立    |
+| 座標軸為零             | 質感給滿，讀者仍答不出「誰辦的、多大量級」（馬祖 v3）  | 零認知主題座標縫進第一節物質細節（PATTERNS §M1）＋gate 第 6 題 |
+| 命題披立體群像皮       | 因果鏈骨架硬拆成假 facet，四輪編輯室才縫回（收費站）   | 查 PATTERNS 選對族：透鏡／累積式論點的硬依賴是合法的，誠實寫出 |
+| 編年體逐屆條列         | 週期活動逐屆流水帳，每屆可互換＝面向巡禮復發           | 跨屆模式當骨架、屆別事實交給 tw-timeline（PATTERNS §P7）       |
 
 ---
 
 ## 七、跟其他 canonical 的分工
 
-| 檔案                                                          | 範圍                                                                 |
-| ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **本檔 PROJECTION.md**                                        | 投影方法論：研究 → 論點 + 骨架 + 減法 → 藍圖                         |
-| [RESEARCH.md](RESEARCH.md)                                    | 怎麼把材料撈回來（投影的上游）                                       |
-| [EDITORIAL.md](EDITORIAL.md)                                  | 句子層 craft：voice、開場、結尾、密度、anchor 貫穿（投影的下游執行） |
-| [graph.md](graph.md)                                          | 視覺化：投影決定放哪幾個 viz，graph.md 決定怎麼做                    |
-| [REWRITE-PIPELINE Step 2.0](../pipelines/REWRITE-PIPELINE.md) | 投影在 6-stage 流程裡的位置 + hard gate + orchestration              |
-| [EDITORIAL-ROOM.md](EDITORIAL-ROOM.md)                        | 投影後編輯室對抗（Step 2.0-R）：乾淨 context 外部尺                  |
-| [WRITER-PROMPT.md](../pipelines/WRITER-PROMPT.md)             | 寫手讀藍圖執行的派發模板                                             |
+| 檔案                                                          | 範圍                                                                         |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **本檔 PROJECTION.md**                                        | 投影方法論：研究 → 論點 + 骨架 + 減法 → 藍圖                                 |
+| [PROJECTION-PATTERNS.md](PROJECTION-PATTERNS.md)              | 文體族目錄：畫布下 8 個投影預設集＋3 正交模組＋通用構件庫（optional 查表層） |
+| [RESEARCH.md](RESEARCH.md)                                    | 怎麼把材料撈回來（投影的上游）                                               |
+| [EDITORIAL.md](EDITORIAL.md)                                  | 句子層 craft：voice、開場、結尾、密度、anchor 貫穿（投影的下游執行）         |
+| [graph.md](graph.md)                                          | 視覺化：投影決定放哪幾個 viz，graph.md 決定怎麼做                            |
+| [REWRITE-PIPELINE Step 2.0](../pipelines/REWRITE-PIPELINE.md) | 投影在 6-stage 流程裡的位置 + hard gate + orchestration                      |
+| [EDITORIAL-ROOM.md](EDITORIAL-ROOM.md)                        | 投影後編輯室對抗（Step 2.0-R）：乾淨 context 外部尺                          |
+| [WRITER-PROMPT.md](../pipelines/WRITER-PROMPT.md)             | 寫手讀藍圖執行的派發模板                                                     |
 
 投影跟 EDITORIAL 的分界：**投影管「這篇文章的結構與論點對不對」（宏觀），EDITORIAL 管「每個句子與段落好不好」（微觀）。** 一篇文章可以每句都漂亮（EDITORIAL 全過）卻整體空泛（投影沒做）——那正是本檔要補的洞。
 
