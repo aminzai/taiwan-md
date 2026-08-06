@@ -33,6 +33,7 @@ import {
   buildArchiveRecord,
   mergeComments,
   archiveRelPath,
+  reconcileArchive,
 } from './lib/archive.mjs';
 
 const ARCHIVE_ROOT = 'docs/feedback/archive';
@@ -240,9 +241,10 @@ function fetchIssueComments(issueNumber) {
 // 回傳 { scanned, synced }：synced 單獨看是 proxy 訊號 — 0 分不出「掃了 36 檔都沒新留言」
 // 跟「一檔都沒掃到（目錄消失／權限壞）」。scanned 讓收官數字是量出來的，不是手數的。
 function syncArchiveComments() {
-  if (!existsSync(ARCHIVE_ROOT)) return { scanned: 0, synced: 0 };
+  if (!existsSync(ARCHIVE_ROOT)) return { scanned: 0, synced: 0, ids: [] };
   let scanned = 0;
   let synced = 0;
+  const ids = [];
   for (const m of readdirSync(ARCHIVE_ROOT)) {
     const dir = join(ARCHIVE_ROOT, m);
     let files = [];
@@ -260,6 +262,7 @@ function syncArchiveComments() {
         continue;
       }
       scanned++;
+      ids.push(f.replace(/\.md$/, ''));
       const num = (content.match(/^issue_number:\s*(\d+)/m) || [])[1];
       if (!num) continue;
       const merged = mergeComments(content, fetchIssueComments(num));
@@ -269,7 +272,25 @@ function syncArchiveComments() {
       }
     }
   }
-  return { scanned, synced };
+  return { scanned, synced, ids };
+}
+
+// 拿 Supabase 全部 filed 的 id 當對賬另一邊的帳。讀失敗一律回 null（對賬印 unavailable，
+// 不讓一次網路抖動變成 routine fail）——但也不准把 null 讀成「對得起來」。
+async function fetchFiledIds() {
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_SERVICE_KEY;
+  if (!url || !key) return null;
+  try {
+    const res = await fetch(
+      `${url}/rest/v1/feedback?select=id&status=eq.filed`,
+      { headers: { apikey: key, Authorization: `Bearer ${key}` } },
+    );
+    if (!res.ok) return null;
+    return (await res.json()).map((r) => r.id);
+  } catch {
+    return null;
+  }
 }
 
 // ── main ──────────────────────────────────────────────────────────────────────
@@ -345,12 +366,29 @@ async function main() {
   // dry-run 不跑真實 scan，故印 skipped 而非 0——避免「沒掃」被讀成「掃過沒事」。
   const arch = args.commit ? syncArchiveComments() : null;
 
+  // HG12 對賬：filed 筆數 vs git 紀錄份數。缺席不留痕跡,所以要拿另一邊的帳來比,
+  // 不能只印「掃到幾份」（那是 proxy signal,per REFLEXES #82）。
+  let reconLine = 'archive-reconcile=skipped (dry-run)';
+  if (arch) {
+    const filedIds = args.seed ? null : await fetchFiledIds();
+    if (!filedIds) {
+      reconLine = 'archive-reconcile=unavailable (Supabase 讀不到,未對賬)';
+    } else {
+      const rec = reconcileArchive(filedIds, arch.ids);
+      reconLine =
+        rec.missing.length === 0
+          ? `archive-reconcile=${rec.archived}/${rec.filed} ✅`
+          : `⚠️ archive-reconcile=${rec.archived}/${rec.filed} · filed 但無 git 紀錄 ${rec.missing.length} 筆（HG12 破口）: ${rec.missing.slice(0, 5).join(', ')}${rec.missing.length > 5 ? ' …' : ''}`;
+    }
+  }
+
   console.log(
     `\n[triage] done · file=${summary.file} reject=${summary.reject} skip=${summary.skip} hold=${summary.hold} · ` +
       (arch
         ? `archive-scanned=${arch.scanned} archive-comments-synced=${arch.synced}`
         : `archive-scan=skipped (dry-run)`),
   );
+  console.log(`[triage] ${reconLine}`);
   return summary;
 }
 

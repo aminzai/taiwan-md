@@ -22,6 +22,7 @@ import {
   fenceUntrusted,
   sanitizeReaderText,
 } from './lib/classify.mjs';
+import { reconcileArchive } from './lib/archive.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const seed = JSON.parse(readFileSync(join(here, 'seed-feedback.json'), 'utf8'));
@@ -396,4 +397,39 @@ test('stripInvisibles counts and removes bidi controls', () => {
   const { text, removed } = stripInvisibles('a\u202eb\u200fc');
   assert.equal(text, 'abc');
   assert.equal(removed, 2);
+});
+
+// ── HG12 對賬（reconcileArchive）────────────────────────────────────────────────
+
+test('reconcileArchive: 每筆 filed 都有紀錄時無缺口', () => {
+  const rec = reconcileArchive(['a', 'b', 'c'], ['a', 'b', 'c']);
+  assert.deepEqual(rec, { filed: 3, archived: 3, missing: [] });
+});
+
+test('reconcileArchive: 抓出 filed 但沒有 git 紀錄的那幾筆', () => {
+  const rec = reconcileArchive(['a', 'b', 'c'], ['a']);
+  assert.equal(rec.filed, 3);
+  assert.deepEqual(rec.missing, ['b', 'c']);
+});
+
+test('reconcileArchive: 2026-06-11 justfont 那次的形狀（21 筆 filed 全缺紀錄）', () => {
+  // 那批由人類收束成 consolidated issue #1145 後在 triage 之外補標 filed,
+  // 繞過 archive 寫入。收官只印 archive-scanned=40 完全看不出來。
+  const cluster = Array.from({ length: 21 }, (_, i) => `justfont-${i}`);
+  const others = Array.from({ length: 40 }, (_, i) => `ok-${i}`);
+  const rec = reconcileArchive([...others, ...cluster], others);
+  assert.equal(rec.filed, 61);
+  assert.equal(rec.archived, 40);
+  assert.equal(rec.missing.length, 21);
+});
+
+test('reconcileArchive: 多出來的 archive 檔不算缺口（只單向查 filed→git）', () => {
+  const rec = reconcileArchive(['a'], ['a', 'stray']);
+  assert.deepEqual(rec.missing, []);
+  assert.equal(rec.archived, 2);
+});
+
+test('reconcileArchive: 空輸入不當成對得起來', () => {
+  const rec = reconcileArchive(['a', 'b'], []);
+  assert.equal(rec.missing.length, 2);
 });

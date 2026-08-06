@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
+
+- **pattern**: `out-of-band-status-transition-bypasses-sovereignty-layer`
+- **原則**：當某個保證（這裡是 HG12「Supabase 死了也不丟一筆」）的**實作掛在單一條自動路徑的副作用上**時，任何繞過那條路徑的狀態轉移都會靜默違反保證。`triage.mjs` 只在自己 `file` 一筆時才寫 `docs/feedback/archive/`；batch-cluster guard 把同 slug ≥5 筆判 `hold`（維持 `new`、產 consolidated report 給人類），而人類後續收束成一個 issue 並補標 `filed` 是**在 triage 之外**發生的——於是狀態變成 filed、issue 也開了、文章也改了，唯獨主權層那份 markdown 沒有人寫。更關鍵的是**收官數字看不出來**：每個 cycle 都印 `archive-scanned=40`，那是「數現有的檔」，永遠不會等於「應該有幾份」。**缺席不留痕跡，只能拿另一邊的帳來比。**
+- **觸發**：2026-08-07 本 routine 例行輪（隊列空第七天，因此有餘裕核 archive 那一半職責）。對賬 Supabase 發現 61 筆 `filed` 只有 40 份 git 紀錄，缺的 21 筆**全部集中在 2026-06-11 一天**（justfont 共同創辦人蘇煒翔逐段勘誤 21 處 → batch-cluster hold → 6/12 收束成 [issue #1145](https://github.com/frank890417/taiwan-md/issues/1145)，21 條全數查證採信 + 全文重寫 `ef8fab38e`）。讀者的回報本身沒有丟（Supabase + issue + 重寫後的文章都在），丟的是**主權層那份可 grep、可 diff、BaaS 死了還在的紀錄**。8/05、8/06、8/07 三個連續 cycle 的 memory 都寫了「archive 40 檔」當健康數字，沒有一個 cycle 拿 61 去比。
+- **✅ 已落地（本輪同波）**：(a) 21 份紀錄用 canonical `buildArchiveRecord()` 補齊（**不手寫**，避免格式漂移），全 61 份零 email 通過 HG2 掃描，issue #1145 的維護者回覆已 sync 進各自 §溝通紀錄；(b) 新增 `reconcileArchive()` 純函式 + 5 個 unit test（含 2026-06-11 那次的形狀 61/40/21），收官改印 `archive-reconcile=N/M`，缺口時 `⚠️` + 列出 id；讀不到 Supabase 印 `unavailable` 並明寫「不准把沒對賬讀成對得起來」；(c) HG12b 寫進 pipeline v1.3 + 薄殼 skill + cron mirror 三層。**回溯驗證**：把 8/6 那一刻的兩邊帳餵進新儀器，會印 `⚠️ archive-reconcile=40/61 · filed 但無 git 紀錄 21 筆` — 這支儀器若 8 週前就在，第一個 cycle 就會叫。
+- **可能層級**：候選 REFLEXES — 這是 #82 proxy signal 的一個清楚變體，但有自己的銳角：**不是「量了替身」，是「量了存在、沒量該存在」**（`archive-scanned` 本身不是替身，它誠實地數了檔案；錯在拿單邊帳當對賬）。同族：REFLEXES #84「發佈/生成產物需要對賬 ground truth，不能只憑自己的生成邏輯自洽」——本條是它在「保證的覆蓋率」而非「產物的正確性」上的形狀。判準候選：**任何寫成「一筆都不會丟」的保證，都要有一支對賬兩邊筆數的儀器，而不是只數自己這邊。**
+- **相關**：REFLEXES #82（proxy signal — 訊號要摸到 ground truth）、#84（產物對賬 ground truth）、#38（混維度 — `status='filed'` 同時承載「自動開了 issue」與「被人類收束進 consolidated issue」兩種來歷，而只有前者有主權層副作用）、#60（silent default = silent failure）、#69（每層自評都需要外部尺 — 收官自報的 archive 檔數就是自評）、FEEDBACK-TRIAGE-PIPELINE §Stage 4.5 + §HG12b
+- **verification_count**: 1
+
 ### 2026-08-06 manual（newsroom 健檢）— degradation-logged-daily-never-escalated：routine 如實記錄了 35% 斷崖十一天，因為 gate 量的是新鮮不是合理
 
 - **pattern**: `degradation-logged-daily-never-escalated`
@@ -381,9 +391,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：閘門編號是 routine 執行時唯一的短指涉（prompt 寫「逐條核 HG9/HG10」、收官寫「per HG9」），一旦同一個號碼在 canonical pipeline、薄殼 skill、cron prompt 三層各指不同的閘門，「照編號核一遍」這個動作就會**核到錯的東西而且全程零警報**——因為每一層自己讀起來都自洽。更糟的形狀是**新閘門插隊時直接複用了已被佔用的號碼**：`FEEDBACK-TRIAGE-PIPELINE.md` 內部 HG10 出現兩次（§機器身份 L55 = GH*TOKEN 必須 `ghs*`；§Hard gate 總表 L213 = suspected injection → `security-review` label），是同一份 canonical 檔自己跟自己打架。連帶後果是**安全性最高的那道閘門在操作層失去號碼**：skill 與 cron prompt 的 HG9/HG10 被 git-archive 與機器身份佔走，injection 偵測與 tilde fence 兩道在操作層完全沒被點名，routine prompt 的「🔴 HARD gate」四項清單裡也沒有它。編號是給人快速對照用的介面，介面漂移跟資料漂移一樣要對賬。
 - **觸發**：2026-08-06 twmd-feedback-triage 例行輪，讀 pipeline 全文 + 薄殼 skill 對照 cron prompt 時發現。三層現況：pipeline 總表 HG9=fence／HG10=injection；pipeline §機器身份 HG10=機器身份（與自家總表衝突）；skill 與 cron prompt HG9=git archive／HG10=機器身份。今日隊列空（連續第六天），injection 路徑未被走到，所以是**尚未咬人的潛伏漂移**——但下一次真的收到 suspected injection 回報時，照 prompt 核「HG10」的人會去驗 token 而不是驗 security-review label。
 - **可能層級**：pipeline + skill + cron prompt 三層同時重編號（建議：機器身份改 HG11、git archive 改 HG12，讓既有 HG9 fence／HG10 injection 維持不動，因為那兩個號碼在 2026-07-05 v1.1 就先佔了；並把 fence 與 injection 兩道補進 skill 與 cron prompt 的 HARD gate 清單）。
-- **✅ 已落地（2026-08-06 整合波）**：依上列方案三層同一波重編號完成（pipeline v1.2 + project skill + cron mirror），fence/injection 補進全部三層 HARD 清單，grep 對照表驗證零殘留撞號。**未在本輪自行修**：三層必須同一波落地，只改 docs 而 cron prompt 沒跟上會生出更難查的新漂移，且 cron prompt 是 mirror-sync across machines，屬 twmd-routine / routine-sync 的守備範圍。
+- **⚠️ 部分落地更正（2026-08-07 twmd-feedback-triage 實測）**：原記「三層同一波重編號完成（pipeline v1.2 + project skill + cron mirror）」**只有前兩層真的落地**。今晨這條 routine 收到的 cron prompt 仍寫「機器身份（2026-07-25 起，**HG10**）」與「收官前 git add（**HG9**）」，即 v1.2 之前的撞號版本——亦即**宿主機的 cron mirror 從未被改到**，而 v1.2 的 changelog 已聲稱同步。這正是本 entry 自己描述的病（介面漂移零警報）在**修補聲明層**再發一次：`grep 對照表驗證零殘留撞號` 那次驗證只掃了 repo 內的檔，沒掃 `~/.claude/scheduled-tasks/`，於是「已同步」是自報而非量出來的。**routine-sync 也接不到**：今晨 05:37 twmd-routine-sync 第十四輪回報「18 條全 in-sync 零漂移」，因為它對賬的是排程設定與 prompt 存在性，不是 prompt 內文對 canonical 閘門編號的語意一致性。**本輪已修** cron mirror 兩處編號 → HG11／HG12，並補上 HG12b。
+- **✅ 已落地（2026-08-06 整合波，repo 側）**：pipeline v1.2 + project skill 重編號完成，fence/injection 補進兩層 HARD 清單。**未在本輪自行修**：三層必須同一波落地，只改 docs 而 cron prompt 沒跟上會生出更難查的新漂移，且 cron prompt 是 mirror-sync across machines，屬 twmd-routine / routine-sync 的守備範圍。
 - **相關**：REFLEXES #56（pipeline canonical ↔ production drift = dormant entropy）、#38（混維度 = silent killer：同一個號碼承載兩種閘門）、#82（proxy signal：核了編號 ≠ 核了那道閘門）、#63（routine prompt = cron context 唯一指令面）、FEEDBACK-TRIAGE-PIPELINE §Hard gate 總表 + §機器身份
-- **verification_count**: 1
+- **verification_count**: 2（1 = 三層撞號本身；2 = 修補聲明自報已同步但 cron mirror 未動，2026-08-07 實測）
 
 ### 2026-08-06 twmd-spore-harvest-am — chrome-mcp-unattended-login-expiry：無人值守 harvest routine 依賴的登入態不會自己續期
 

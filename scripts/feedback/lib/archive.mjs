@@ -81,6 +81,25 @@ export function buildArchiveRecord(row, note) {
 }
 
 /**
+ * 對賬：Supabase 有幾筆 filed vs git 裡實際有幾份紀錄。
+ *
+ * 為什麼需要這個：archive 的寫入只掛在 triage.mjs 自動 file 的那條路徑上。任何
+ * 「在 triage 之外把 status 改成 filed」的動作（batch-cluster hold 的那批由人類收束成
+ * consolidated issue 後補標 filed，是已發生過的一次）都會繞過主權層，而且不會有人叫。
+ * 2026-06-11 justfont 21 連勘誤就是這樣缺了 21 份紀錄，8 週內沒有任何 cycle 發現——
+ * 因為收官只印 `archive-scanned=40`（數現有的檔），從來沒問「應該要有幾份」。
+ *
+ * 這是 REFLEXES #82 proxy signal 的一個 instance：數存在的東西不等於量出缺席。
+ * 缺席不留痕跡，所以必須拿另一邊的帳來比。
+ */
+export function reconcileArchive(filedIds, archivedIds) {
+  const archived = new Set(archivedIds || []);
+  const filed = [...new Set(filedIds || [])];
+  const missing = filed.filter((id) => !archived.has(id));
+  return { filed: filed.length, archived: archived.size, missing };
+}
+
+/**
  * 把 issue 新留言 append 進 §溝通紀錄。comments: [{id, author, createdAt, body}]。
  * 用 `<!-- comment:<id> -->` marker 去重，re-run 不重複。
  */

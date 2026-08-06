@@ -63,10 +63,14 @@ node scripts/feedback/triage.mjs --commit
   空值或缺失 = 停手，不要讓 `gh` 退回哲宇帳號把 issue 掛成維護者親開。
 - HG12 🔴 **git archive 主權層**：每筆 filed 寫 `docs/feedback/archive/`（無 email），
   issue 留言 sync 進 §溝通紀錄。**收官前 `git add docs/feedback/archive/`**（不進 git = 主權層失效）。
+- HG12b 🔴 **對賬**：收官看 `archive-reconcile=N/M`。`⚠️` = 有 filed 但無 git 紀錄（triage 之外
+  補標 filed 會繞過主權層）→ 用 `buildArchiveRecord()` 補齊，不要手寫。印 `unavailable`
+  **不等於**對得起來。只看 `archive-scanned=N` 是 proxy signal（數存在的檔，量不出缺席）。
 
 ## 收官
 
-`/twmd-finale` → memory 必含 BECOME ACK + file/reject/skip count + 開的 issue #N + archive 檔數 + Handoff。
+`/twmd-finale` → memory 必含 BECOME ACK、file/reject/skip count、開的 issue #N、archive 檔數、
+**`archive-reconcile=N/M` 對賬結果**、Handoff 三態。
 **commit 前**：`git add docs/feedback/archive/`（per HG12，讓回報+溝通紀錄落進 git）。
 
 ARGUMENTS: (none — script 自己讀 Supabase status='new')

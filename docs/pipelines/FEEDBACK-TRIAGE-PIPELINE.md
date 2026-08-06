@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.2'
-last_updated: 2026-08-06
-last_session: '2026-08-06-162507-hard-gate-renumber'
+current_version: 'v1.3'
+last_updated: 2026-08-07
+last_session: '2026-08-07-070000-twmd-feedback-triage（HG12b 主權層對賬）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -175,6 +175,26 @@ per MANIFESTO「知識在 git 不在黑箱 / 分散式不可殺滅」：feedback
 記錄產生器：[scripts/feedback/lib/archive.mjs](../../scripts/feedback/lib/archive.mjs)（純函式 + unit test）。
 完整：[docs/feedback/README.md](../../docs/feedback/README.md)。Supabase 死了也不丟一筆。
 
+**🔴 HG12b 對賬（2026-08-07 新增）**：archive 的寫入只掛在上面那條「triage 自動 file」的路徑上。
+**任何在 triage 之外把 status 改成 filed 的動作都會繞過主權層，而且不會有人叫**——batch-cluster
+hold 的那批由人類收束成 consolidated issue 後補標 filed，就是已經發生過的一次。收官因此不能只印
+`archive-scanned=N`（那是數現有的檔，per [REFLEXES #82](../semiont/REFLEXES.md) proxy signal），
+必須拿 Supabase 的 filed 筆數對賬：
+
+```
+[triage] archive-reconcile=61/61 ✅
+[triage] ⚠️ archive-reconcile=40/61 · filed 但無 git 紀錄 21 筆（HG12 破口）: <ids>
+```
+
+`reconcileArchive()` 是純函式（archive.mjs，5 個 unit test 含 2026-06-11 那次的形狀）。
+讀不到 Supabase 印 `unavailable`，**不准把「沒對賬」讀成「對得起來」**。
+
+**誕生**：2026-08-07 這條 routine 自己的 cycle 發現 61 筆 filed 只有 40 份 git 紀錄——2026-06-11
+justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://github.com/frank890417/taiwan-md/issues/1145)，
+21 條全數查證採信 + 全文重寫 `ef8fab38e`）整批缺紀錄，**8 週內每個 cycle 都印了 `archive-scanned=40`
+卻沒有一個 cycle 問「應該要有幾份」**。缺席不留痕跡，只能拿另一邊的帳來比。21 份已用 canonical
+`buildArchiveRecord()` 補齊（零 email，per HG2）。
+
 ---
 
 ## Stage 5 — FINALE
@@ -199,20 +219,21 @@ per MANIFESTO「知識在 git 不在黑箱 / 分散式不可殺滅」：feedback
 
 ## Hard gate 總表
 
-| #    | Gate                                                                              | Stage |
-| ---- | --------------------------------------------------------------------------------- | ----- |
-| HG1  | BECOME review mode ACK                                                            | 0     |
-| HG2  | issue body 無 email（PII）                                                        | 3     |
-| HG3  | 讀者文字 verbatim,不改寫                                                          | 3     |
-| HG4  | 每 issue 帶 feedback id provenance                                                | 3     |
-| HG5  | spam reject 不開 issue                                                            | 2     |
-| HG6  | dedupe（batch + 既有 issue）                                                      | 2     |
-| HG7  | status 回寫正確（filed/rejected/skip 不動）                                       | 4     |
-| HG8  | 不以維護者身份回覆/close/merge（留人類 gate）                                     | all   |
-| HG9  | 讀者自由文字淨化 + tilde fence（隱形字元剝除；可見文字一字不改）                  | 2-3   |
-| HG10 | suspected injection → `security-review` label + banner + 人類 gate，不 auto-act   | 2-3   |
-| HG11 | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手） | 0-3   |
-| HG12 | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）   | 4.5   |
+| #     | Gate                                                                               | Stage |
+| ----- | ---------------------------------------------------------------------------------- | ----- |
+| HG1   | BECOME review mode ACK                                                             | 0     |
+| HG2   | issue body 無 email（PII）                                                         | 3     |
+| HG3   | 讀者文字 verbatim,不改寫                                                           | 3     |
+| HG4   | 每 issue 帶 feedback id provenance                                                 | 3     |
+| HG5   | spam reject 不開 issue                                                             | 2     |
+| HG6   | dedupe（batch + 既有 issue）                                                       | 2     |
+| HG7   | status 回寫正確（filed/rejected/skip 不動）                                        | 4     |
+| HG8   | 不以維護者身份回覆/close/merge（留人類 gate）                                      | all   |
+| HG9   | 讀者自由文字淨化 + tilde fence（隱形字元剝除；可見文字一字不改）                   | 2-3   |
+| HG10  | suspected injection → `security-review` label + banner + 人類 gate，不 auto-act    | 2-3   |
+| HG11  | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手）  | 0-3   |
+| HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）    | 4.5   |
+| HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來 | 4.5   |
 
 > **編號沿革（2026-08-06）**：HG11／HG12 之前都借用了已被佔用的號碼——§機器身份自稱 HG10（跟本表 HG10=injection 撞號），薄殼 skill／cron prompt 把 git archive 稱作 HG9（跟本表 HG9=tilde fence 撞號）。三層對照後統一重編號：HG9=fence、HG10=injection 兩個「先佔」號碼維持不動（2026-07-05 v1.1 就存在），機器身份改稱 HG11、git archive 改稱 HG12。詳見 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)。
 
@@ -220,5 +241,6 @@ per MANIFESTO「知識在 git 不在黑箱 / 分散式不可殺滅」：feedback
 
 ---
 
+_v1.3 | 2026-08-07 twmd-feedback-triage routine — **HG12b 主權層對賬**：收官新增 `archive-reconcile=N/M`（`reconcileArchive()` 純函式 + 5 unit test），把 HG12 從「有沒有寫檔」升成「該有的份數在不在」。誕生：本 cycle 對賬發現 61 筆 filed 只有 40 份 git 紀錄，2026-06-11 justfont 21 連勘誤整批缺席 8 週無人發現（收官只印 `archive-scanned=40`，數存在的東西不會量出缺席）。同波：21 份紀錄用 canonical 產生器補齊（零 email）；修 cron mirror 仍用舊 HG9/HG10 舊號的漂移（v1.2 changelog 聲稱同步了 cron mirror，實際只同步了 repo 內薄殼 — self-reported 完成需外部尺，REFLEXES #69）。_
 _v1.2 | 2026-08-06 hard-gate-renumber session — 修 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)：§機器身份 HG10→**HG11**、Stage 4.5 GIT ARCHIVE 補號 **HG12**（原本借用薄殼層 HG9 別名），讓既有 HG9=fence／HG10=injection（2026-07-05 v1.1 先佔）維持不動；Hard gate 總表補 HG11／HG12 兩列 + 編號沿革註記；同波同步薄殼 skill（`.claude/skills/twmd-feedback-triage/SKILL.md`）與 cron mirror（`~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md`），並把 HG9/HG10 補進兩層的 HARD gate 清單（原本安全性最高的兩道在操作層完全沒被點名）。_
 _v1.1 | 2026-07-05 五病根治 session — Stage 2 新增 Prompt injection 三層防禦（隱形字元剝除／樣式偵測/tilde fence），Hard gate 總表補 HG9／HG10。_
