@@ -1,52 +1,52 @@
 {
- "generated_at": "2026-08-06T15:00:01+08:00",
+ "generated_at": "2026-08-06T17:06:53+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-06T14:59:58+08:00",
+ "snapshot_ts": "2026-08-06T17:06:50+08:00",
  "total_zh": 886,
  "langs": [
   {
    "lang": "en",
    "name": "English",
-   "fresh": 826,
+   "fresh": 827,
    "stale": 37,
-   "missing": 23,
-   "coverage_pct": 97.4,
+   "missing": 22,
+   "coverage_pct": 97.5,
    "fresh_delta": 0
   },
   {
    "lang": "ja",
    "name": "日本語",
-   "fresh": 841,
-   "stale": 27,
-   "missing": 18,
-   "coverage_pct": 98.0,
-   "fresh_delta": 2
-  },
-  {
-   "lang": "ko",
-   "name": "한국어",
-   "fresh": 839,
-   "stale": 29,
+   "fresh": 843,
+   "stale": 25,
    "missing": 18,
    "coverage_pct": 98.0,
    "fresh_delta": 0
   },
   {
-   "lang": "es",
-   "name": "Español",
-   "fresh": 834,
-   "stale": 35,
+   "lang": "ko",
+   "name": "한국어",
+   "fresh": 840,
+   "stale": 29,
    "missing": 17,
    "coverage_pct": 98.1,
-   "fresh_delta": 1
+   "fresh_delta": 0
+  },
+  {
+   "lang": "es",
+   "name": "Español",
+   "fresh": 835,
+   "stale": 35,
+   "missing": 16,
+   "coverage_pct": 98.2,
+   "fresh_delta": 0
   },
   {
    "lang": "fr",
    "name": "Français",
-   "fresh": 832,
+   "fresh": 833,
    "stale": 37,
-   "missing": 17,
-   "coverage_pct": 98.1,
+   "missing": 16,
+   "coverage_pct": 98.2,
    "fresh_delta": 0
   },
   {
@@ -61,17 +61,17 @@
   {
    "lang": "id",
    "name": "Indonesia",
-   "fresh": 542,
-   "stale": 9,
-   "missing": 335,
-   "coverage_pct": 62.2,
-   "fresh_delta": 1
+   "fresh": 544,
+   "stale": 8,
+   "missing": 334,
+   "coverage_pct": 62.3,
+   "fresh_delta": 0
   },
   {
    "lang": "pt",
    "name": "Português",
-   "fresh": 809,
-   "stale": 18,
+   "fresh": 812,
+   "stale": 15,
    "missing": 59,
    "coverage_pct": 93.3,
    "fresh_delta": 0
@@ -79,8 +79,8 @@
   {
    "lang": "hi",
    "name": "हिन्दी",
-   "fresh": 634,
-   "stale": 6,
+   "fresh": 636,
+   "stale": 4,
    "missing": 246,
    "coverage_pct": 72.2,
    "fresh_delta": 0
@@ -88,115 +88,115 @@
   {
    "lang": "ar",
    "name": "العربية",
-   "fresh": 719,
-   "stale": 7,
-   "missing": 160,
-   "coverage_pct": 81.9,
-   "fresh_delta": 2
+   "fresh": 722,
+   "stale": 5,
+   "missing": 159,
+   "coverage_pct": 82.1,
+   "fresh_delta": 0
   },
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 747,
-   "stale": 9,
-   "missing": 130,
-   "coverage_pct": 85.3,
-   "fresh_delta": 1
+   "fresh": 751,
+   "stale": 6,
+   "missing": 129,
+   "coverage_pct": 85.4,
+   "fresh_delta": 0
   }
  ],
- "gap_total": 1773,
- "gap_delta": -7,
+ "gap_total": 1753,
+ "gap_delta": 0,
  "rate_1h": {
-  "delta": 11,
-  "span_h": 1.96,
-  "per_hour": 5.6
+  "delta": 7,
+  "span_h": 1.61,
+  "per_hour": 4.4
  },
  "rate_24h": {
-  "delta": 10,
-  "span_h": 24.08,
-  "per_hour": 0.4
+  "delta": 28,
+  "span_h": 24.16,
+  "per_hour": 1.2
  },
- "eta_days": 13.2,
+ "eta_days": 16.6,
  "nodes": {
   "worker:desktop3090": {
-   "ok": 299,
-   "fail": 545,
-   "avg_s": 57.2,
+   "ok": 303,
+   "fail": 552,
+   "avg_s": 56.9,
    "top_fail": [
     [
      "no output written by tra",
-     335
+     341
     ],
     [
      "health [footnote-format]",
-     117
+     118
     ]
    ],
-   "last_activity": "2026-08-06T14:59:26+08:00"
+   "last_activity": "2026-08-06T16:54:00+08:00"
   },
   "worker:nemo4": {
-   "ok": 236,
-   "fail": 215,
-   "avg_s": 380.8,
+   "ok": 240,
+   "fail": 220,
+   "avg_s": 376.7,
    "top_fail": [
     [
      "no output written by tra",
-     84
+     87
     ],
     [
      "verify=1 [frontmatter no",
-     53
+     54
     ]
    ],
-   "last_activity": "2026-08-06T14:59:08+08:00"
+   "last_activity": "2026-08-06T16:14:47+08:00"
   },
   "worker:nemo": {
-   "ok": 229,
-   "fail": 205,
-   "avg_s": 354.9,
+   "ok": 233,
+   "fail": 214,
+   "avg_s": 350.7,
    "top_fail": [
     [
      "no output written by tra",
-     81
+     83
     ],
     [
      "verify=1 [frontmatter no",
-     55
+     60
     ]
    ],
-   "last_activity": "2026-08-06T14:58:05+08:00"
+   "last_activity": "2026-08-06T16:42:43+08:00"
   },
   "worker:nemo3": {
-   "ok": 184,
-   "fail": 215,
-   "avg_s": 455.3,
+   "ok": 187,
+   "fail": 218,
+   "avg_s": 455.1,
    "top_fail": [
     [
      "no output written by tra",
-     86
+     89
     ],
     [
      "verify=1 [frontmatter no",
      62
     ]
    ],
-   "last_activity": "2026-08-06T14:55:20+08:00"
+   "last_activity": "2026-08-06T16:11:19+08:00"
   },
   "worker:nemo2": {
-   "ok": 223,
-   "fail": 221,
-   "avg_s": 365.2,
+   "ok": 228,
+   "fail": 227,
+   "avg_s": 363.3,
    "top_fail": [
     [
      "no output written by tra",
-     76
+     80
     ],
     [
      "verify=1 [frontmatter no",
-     66
+     67
     ]
    ],
-   "last_activity": "2026-08-06T14:48:56+08:00"
+   "last_activity": "2026-08-06T17:04:34+08:00"
   },
   "endpoint:local": {
    "alive": true
@@ -218,49 +218,19 @@
   {
    "kind": "unified",
    "pid": "8492",
-   "uptime": "04-15:51:31",
+   "uptime": "04-17:58:23",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
-   "pid": "28529",
-   "uptime": "03:29:37",
+   "pid": "28414",
+   "uptime": "01:35:23",
    "langs": "en,es,fr,ko",
    "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-05T09:05:42+08:00",
-   "fresh_total": 7947,
-   "gap_total": 1755
-  },
-  {
-   "ts": "2026-08-05T09:20:52+08:00",
-   "fresh_total": 7947,
-   "gap_total": 1755
-  },
-  {
-   "ts": "2026-08-05T09:36:03+08:00",
-   "fresh_total": 7947,
-   "gap_total": 1755
-  },
-  {
-   "ts": "2026-08-05T09:51:14+08:00",
-   "fresh_total": 7947,
-   "gap_total": 1755
-  },
-  {
-   "ts": "2026-08-05T10:06:37+08:00",
-   "fresh_total": 7948,
-   "gap_total": 1754
-  },
-  {
-   "ts": "2026-08-05T10:21:58+08:00",
-   "fresh_total": 7948,
-   "gap_total": 1754
-  },
   {
    "ts": "2026-08-05T10:37:15+08:00",
    "fresh_total": 7948,
@@ -710,6 +680,36 @@
    "ts": "2026-08-06T14:59:58+08:00",
    "fresh_total": 7973,
    "gap_total": 1773
+  },
+  {
+   "ts": "2026-08-06T15:15:09+08:00",
+   "fresh_total": 7980,
+   "gap_total": 1766
+  },
+  {
+   "ts": "2026-08-06T15:30:20+08:00",
+   "fresh_total": 7986,
+   "gap_total": 1760
+  },
+  {
+   "ts": "2026-08-06T16:21:09+08:00",
+   "fresh_total": 7991,
+   "gap_total": 1755
+  },
+  {
+   "ts": "2026-08-06T16:36:24+08:00",
+   "fresh_total": 7993,
+   "gap_total": 1753
+  },
+  {
+   "ts": "2026-08-06T16:51:38+08:00",
+   "fresh_total": 7993,
+   "gap_total": 1753
+  },
+  {
+   "ts": "2026-08-06T17:06:50+08:00",
+   "fresh_total": 7993,
+   "gap_total": 1753
   }
  ]
 }
