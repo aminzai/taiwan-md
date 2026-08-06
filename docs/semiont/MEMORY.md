@@ -356,3 +356,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-06 | 061359-twmd-data-refresh-am | 14 步全綠零 stale，第九個連續全綠早晨；groundtruth 黃燈點名自己漏跑 live-state dump rider 兩天，當場補跑修復 | 主線太順時風險轉移到腳本外但職責內的步驟，黃燈標籤指名是誰的責任要當真 | [→](memory/2026-08-06-061359-twmd-data-refresh-am.md) |
 | 2026-08-06 | 064443-manual (spore-harvest D+2) | 黃崇仁+EZWAY 5 孢子 D+2 harvest 零事實錯誤；Chrome MCP 連續二日未登入升 LESSONS vc=2；校準 8/5 誤把相關串文當留言明細 | 無人值守 automation 依賴的登入態不會自己續期，混進敘事檔一句話比留言判斷錯更容易被忽略 | [→](memory/2026-08-06-064443-manual.md) |
 | 2026-08-06 | 070921-twmd-feedback-triage | 隊列空第六天、archive 40 檔零新同步（拿 GitHub API 跨源核過）；抓到 HG9/HG10 三層各指不同閘門，防 injection 兩道在操作層沒號碼 | 閘門編號是操作層的介面，介面漂移一樣會讓「照號碼核一遍」核到錯的東西 | [→](memory/2026-08-06-070921-twmd-feedback-triage.md) |
+| 2026-08-06 | 084603-twmd-maintainer-am | idlccp1984 三篇新文 merge-first-then-heal，hard 65→0；查證抓到一句查不到出處的學生引語＋三處腳註描述與連結不符；#1264 補上實測回覆 | 敘事缺哪一塊，幻覺就長成那個形狀——該警覺的訊號是「這句話來得真是時候」 | [→](memory/2026-08-06-084603-twmd-maintainer-am.md) |
