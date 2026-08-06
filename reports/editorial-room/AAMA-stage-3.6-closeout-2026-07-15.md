@@ -3,6 +3,8 @@ title: 'AAMA 台北搖籃計畫 — Stage 3.6 light closeout'
 date: 2026-07-15
 session: '2026-07-15-121155-manual'
 article: knowledge/Economy/AAMA台北搖籃計畫.md
+slug: AAMA台北搖籃計畫
+room: final-closeout
 ---
 
 # AAMA Stage 3.6 light closeout

@@ -1,6 +1,8 @@
 ---
 title: '吳明益 projection editorial room'
 article: knowledge/People/吳明益.md
+slug: 吳明益
+room: projection
 stage: 2.0-R
 date: 2026-07-28
 verdict: pass_with_nits

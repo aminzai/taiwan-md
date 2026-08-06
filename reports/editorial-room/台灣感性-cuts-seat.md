@@ -5,6 +5,8 @@ projection: reports/article-projection/台灣感性.md
 research: reports/research/2026-07/台灣感性.md
 date: 2026-07-17
 verdict: revise
+slug: 台灣感性
+room: projection
 ---
 
 # 減法主編審稿報告：台灣感性

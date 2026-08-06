@@ -1,3 +1,8 @@
+---
+slug: 台灣感性
+room: prose-structure
+---
+
 # 台灣感性 — 論點兌現審稿報告（prose-structure room / 論點兌現席）
 
 ## Read-receipt

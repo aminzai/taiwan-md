@@ -1,3 +1,8 @@
+---
+slug: 台灣感性
+room: projection
+---
+
 # 台灣感性 — 炎上／倫理席審稿報告
 
 **席位**：炎上／倫理（projection room）

@@ -91,6 +91,7 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profi
 
 ```
 □ Frontmatter 完整（title/description/date/category/tags/subcategory/author/featured/lastVerified/lastHumanReview）
+□ Frontmatter 含 researchReport 指向 research 檔（編輯台 slug 歸戶——缺了會讓看板出現「codename 卡在中間＋中文卡已出刊」的分裂雙卡；2026-08-06 newsroom 健檢盲點 B）
 □ 30 秒概覽存在（blockquote 格式，開頭 > **30 秒概覽：**）
 □ 正文小標題不是問句（除非問句本身是核心矛盾）
 □ 延伸閱讀區塊存在且格式正確：

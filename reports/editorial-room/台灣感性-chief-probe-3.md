@@ -1,3 +1,8 @@
+---
+slug: 台灣感性
+room: chief
+---
+
 # 台灣感性 — 總編探針 3：H2 載體還原
 
 冷讀範圍：`knowledge/Culture/台灣感性.md` 成品全文（含 frontmatter title/description）。未讀投影藍圖、未讀研究報告。

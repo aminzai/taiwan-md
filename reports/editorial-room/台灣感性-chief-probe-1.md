@@ -1,3 +1,8 @@
+---
+slug: 台灣感性
+room: chief
+---
+
 # 總編探針：門面兌現 — 台灣感性
 
 冷讀者：只讀 `knowledge/Culture/台灣感性.md` 成品全文（含 frontmatter），未看投影藍圖與研究報告。

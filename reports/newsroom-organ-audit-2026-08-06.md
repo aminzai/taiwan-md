@@ -101,3 +101,23 @@
 ---
 
 _研究執行：2026-08-06，主 session（Fable）＋3 Sonnet 研究席。發現中「帳本補登污染 wall-clock」「v3/v4 多版本藍圖」兩項的肇因包含本 session 自己 8/5-8/6 的馬祖工作——如實記錄。_
+
+---
+
+## 六、修復落地記錄（同日，/goal 完整自我進化）
+
+哲宇以 `/goal 完整自我進化` 授權閉環。roadmap 執行狀態：
+
+| #   | 修復                                     | 狀態                                                                                                                                                                                                                   |
+| --- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | verify key bug                           | ✅ 修復並實測（行道樹／蔡英文／大罷免 verify=done）                                                                                                                                                                    |
+| 2   | 幽靈列過濾                               | ✅ 五張幽靈卡歸戶母 slug，看板產線從 6 列降到 2 列真實在製                                                                                                                                                             |
+| 3   | projection 版本感知（supersedes＋mtime） | ✅ 馬祖 artifact 實測指向 v4                                                                                                                                                                                           |
+| 4   | slug 歸戶                                | ✅ 馬祖補 `researchReport:`（副效果：QF1 逐字保真檢查從此常駐啟動，並回寫 6 條修訂輪引語進 SSOT §9）；Stage 4 checklist 加一條；殘卡降級為無害重複（shipped），誤導消除。重複卡合併留待生成器 identity merge（future） |
+| 5   | 視窗＋sanity 儀器                        | ✅ RESEARCH_MONTHS 3→4（覆蓋回升 273，斷崖前 270 之上）＋`board-count.log` 每 run 落地、跌 >20% 發 ⚠️（已壓力測試觸發）。完整 rolling-window 留 future                                                                 |
+| 6   | 帳本 reship 語義                         | ✅ ship 站記 content sha12，變更即 append 新事件；向前生效、不回填不灌水                                                                                                                                               |
+| 7   | HANDOFF 路線                             | ✅ 裁決：規則保留＋誠實註記寫進 REWRITE-PIPELINE §派發鐵律（首測遵循率 5%、daily 兜底為實況、**禁止跨日事後補登**）                                                                                                    |
+| 8   | 維運補登                                 | ✅ 吳明益＋10 份靜默 room 檔補 slug/room frontmatter；靜默跳過改 warning；ARTICLE-DONE-LOG 補 5 條至當日                                                                                                               |
+| 9   | 範圍邊界明文                             | ✅ generator docstring 補記（SPORE/MAINTAINER/BABEL 不在 scope 及原因）                                                                                                                                                |
+
+自我進化迴路同步閉合：LESSONS ×2（`degradation-logged-daily-never-escalated`／`remedy-compliance-unmeasured`）、本報告歸檔、canonical 回寫（REWRITE-PIPELINE＋STAGE-4）、全部修補經主 session 獨立驗收（非 self-report 採信）。

@@ -5,6 +5,8 @@ reviewer: '順稿席'
 date: 2026-07-15
 round: 3
 verdict: PASS
+slug: 阿神
+room: final-prose
 ---
 
 # 阿神 — Stage 3.6 順稿複審 Round 3

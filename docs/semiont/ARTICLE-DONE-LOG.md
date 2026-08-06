@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-08-03
-last_session: '2026-08-03-140210-manual（黃崇仁 Fresh，standard profile 全編排）'
+last_updated: 2026-08-06
+last_session: '2026-08-06-manual（newsroom 健檢補登 5 條缺漏：馬祖/行道樹/EZWAY/吳明益/苯駢芘——recent_done 資料源落後 3 天的維運缺口，audit §2.4）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -59,6 +59,29 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 馬祖國際藝術島 — 2026-08-06 manual session 完成（一座沒有展館的美術館，把整座列島借來當展場）
+
+- **Article**: [knowledge/Art/馬祖國際藝術島.md](../../knowledge/Art/馬祖國際藝術島.md)
+- **Pipeline**: REWRITE-PIPELINE v9.5 — NEW（Fresh）模式。8/5 首 ship 後觀察者 callout「混亂、不立體」→ 回 Stage 2A 重投影（v3 三席全 revise 30 必改 → v4）→ 全篇重寫 → 原子重驗（7 ❌）＋外行冷讀新席（6/10→7/10）兩輪修訂
+- **spine**：立體群像。主軸「借」（空間／時間兩層，v4-r2 收回不套四層）
+- **Hook**：養雞場相思樹上一間用士官長棄船木料搭的樹屋
+- **品質**：7,798+ CJK ／ 48 腳註零孤兒 ／ hard=0 ／ 官網 API 一手材料 199 件作品
+- **Research**: [reports/research/2026-08/matsu-biennial.md](../../reports/research/2026-08/matsu-biennial.md) ＋ [官網一手補充](../../reports/research/2026-08/matsu-biennial-official-site.md)
+- **產出教訓**：LESSONS `self-consistent-gates-miss-reader-comprehension`（11 席全綠而讀者讀不懂）；外行冷讀席 dogfood 成功，候選常設席位
+
+### 台灣行道樹 — 2026-08-04 twmd-rewrite session 完成（一條用樹命名的路，和一百年沒做完的決定）
+
+- **Article**: [knowledge/Lifestyle/台灣行道樹.md](../../knowledge/Lifestyle/台灣行道樹.md)
+- **Pipeline**: REWRITE-PIPELINE v9.5 — NEW（Fresh）模式
+- **Research**: [reports/research/2026-08/台灣行道樹.md](../../reports/research/2026-08/台灣行道樹.md)
+
+### 台灣海關報關與 EZ WAY — 2026-08-04 manual session 完成（按下「申報相符」的那一下，你委任了誰）
+
+- **Article**: [knowledge/Lifestyle/台灣海關報關制度與EZWAY.md](../../knowledge/Lifestyle/台灣海關報關制度與EZWAY.md)
+- **Pipeline**: REWRITE-PIPELINE v9.5 — NEW（Fresh）模式，spine 第三型（多觀點立場議題：免稅門檻＋治理歸屬雙爭議）
+- **Research**: [reports/research/2026-08/台灣海關報關制度與EZWAY.md](../../reports/research/2026-08/台灣海關報關制度與EZWAY.md)
+- **衍生**：EZ WAY 孢子 #167/#168/#169 三平台；LESSONS `ordering-is-an-ethical-decision`
+
 ### 黃崇仁 — 2026-08-03 manual session 完成（他學的是醫學，一輩子把公司當病人救）
 
 - **Article**: [knowledge/People/黃崇仁.md](../../knowledge/People/黃崇仁.md)
@@ -72,6 +95,18 @@ read_strategy: 'on-demand'
 - **敏感素材處理**：哲宇拍板「如實寫、中立陳述」——27 萬股東變壁紙與 0.3 元回購推估獲利 180 億緊貼市場質疑並陳、內線交易刑事無罪定讞與民事賠 297 人 46 萬 3,102 元兩條並列、SBI 指控標明為個人聲明非司法認定、合肥晶合技轉因果鏈完整交代但不下定性判斷
 - **本篇驅動的 DNA 進化三條**：EDITORIAL v6.14 Title 第 5 原則（數字要有象徵重量，不是規格表）／v6.15 §後台洩漏 六形狀 ＋ `prose-health` §backstage 五組偵測器（878 篇校準 29 hits 零誤報）／LESSONS-INBOX +3（中立管語氣不管份量、具體數字非象徵重量、後台洩漏）
 - **驗證輪結果**：事實原子逐驗約 40 個原子零杜撰引語零數字錯誤（3,282 天與享壽 76 用 Python 獨立重算吻合）／炎上倫理 pass（量測爭議節 1,338 字元 > 收藏節 1,024，技轉節 1,907 全文最長）／論點兌現 echo map 7/7 全中／冷讀席 17 條可讀性訊號全數處理
+
+### 吳明益 — 2026-07-28 rewrite session 完成（用複眼把消失的台灣寫回來）
+
+- **Article**: [knowledge/People/吳明益.md](../../knowledge/People/吳明益.md)
+- **Pipeline**: REWRITE-PIPELINE v9.5 — 完整驗證＋data-viz 補齊（7/28 收官 commit）
+- **Research**: [reports/research/2026-07/吳明益.md](../../reports/research/2026-07/吳明益.md)
+
+### 苯駢芘食安事件 — 2026-07-26 rewrite session 完成（知情19天才通報，1,322家店最後才被算進帳）
+
+- **Article**: [knowledge/Society/苯駢芘食安事件.md](../../knowledge/Society/苯駢芘食安事件.md)
+- **Pipeline**: REWRITE-PIPELINE v9.5 — 全面重寫（把「隱匿」翻譯成制度問題，政治攻防降為並陳）
+- **Research**: [reports/research/2026-07/苯駢芘食安事件.md](../../reports/research/2026-07/苯駢芘食安事件.md)
 
 ### 外送專法 — 2026-07-25 外送專法 session 完成（法律砌好了地板，地板以上還是演算法的）
 

@@ -1,3 +1,10 @@
+---
+slug: 阿神
+room: final-factcheck
+article: knowledge/People/阿神.md
+date: 2026-07-15
+---
+
 # 阿神 — Stage 3.6 原子重驗（adversarial final fact-check）
 
 日期：2026-07-15

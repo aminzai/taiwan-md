@@ -13,7 +13,13 @@ public/api/dashboard-newsroom.json 給 /semiont/newsroom 看板與 making-of 頁
 
 觸發：哲宇 2026-07-16 goal directive「公開站前台可以看到編輯台（共享編輯台，
 第一階段唯讀；本地端 AI 操作、編輯台反映現況——直接分析 md/資料夾/記憶）」。
+
+範圍邊界（2026-08-06 器官健檢明文化）：本看板只涵蓋「文章生產 pipeline」
+（REWRITE/EVOLVE）。SPORE（社群貼文）、MAINTAINER（PR/issue 巡邏）、
+BABEL（多語同步）明文不在 scope——資料模型不合（非單篇走 11 站），
+各有自己的儀表（spore-metrics / babel pulse）。
 """
+import hashlib
 import json
 import os
 import re
@@ -37,8 +43,15 @@ DONE_LOG = os.path.join(ROOT, "docs/semiont/ARTICLE-DONE-LOG.md")
 LEDGER_DIR = os.path.join(ROOT, "reports/newsroom")
 LEDGER = os.path.join(LEDGER_DIR, "stage-events.jsonl")
 
-# 觀測窗：只掃近 N 個月的 research 月槽（歷史 435 檔不需要全上看板）
-RESEARCH_MONTHS = 3
+# 觀測窗：只掃近 N 個月的 research 月槽（歷史 435 檔不需要全上看板）。
+# 3 個月時髮引斷崖成因：月槽用「當月目錄」切，不是滑動天數——每月第一個
+# 研究檔一落地（月槽從 [m-2,m-1,m] 滑到 [m-1,m,m+1]），最舊的整月立刻
+# 一夜滑出（實例：2026-08 第一份研究檔落地當晚，2026-05 整月 129 篇滑出，
+# 上板數 -35%）。拉到 4 個月只是把斷崖延後、幅度變小，不是根治（真正的
+# 根治需要滑動天數窗，留給 #5 決策）；下方 board-count.log sanity log 是
+# 這次順手加的兜底，斷崖再出現至少會被看見（newsroom-organ-audit-
+# 2026-08-06.md §2.3 盲點 A）。
+RESEARCH_MONTHS = 4
 
 
 def read(path):
@@ -135,22 +148,35 @@ def rel(path):
     return os.path.relpath(path, ROOT).replace(os.sep, "/")
 
 
+def content_sha12(path):
+    """knowledge 檔內容 sha1 前 12 碼——P6 reship 偵測用（見 §9 帳本）。"""
+    try:
+        with open(path, "rb") as f:
+            return hashlib.sha1(f.read()).hexdigest()[:12]
+    except OSError:
+        return None
+
+
 def load_ledger():
     """讀事件帳本：逐行容忍壞資料（skip），絕不重寫、絕不排序——append-only。
 
-    回傳 (seen, observed_first, bootstrap_ts, is_empty)：
+    回傳 (seen, observed_first, bootstrap_ts, last_sha, is_empty)：
     - seen：已出現過的 (slug, stage, status) 組合集合（bootstrap／observed 皆算，
       這條決定「要不要再蓋一次」——已出現過就不重蓋，idempotent 的核心）
     - observed_first：組合 → 最早一筆 source=observed 的 ts。平行 session 可能
       對同一組合各自 append 一筆 observed 事件（union-merge），取最早那筆才是
       「真的第一次觀測到」
     - bootstrap_ts：組合 → source=bootstrap 的 ts（沿用舊 day-granularity 值）
+    - last_sha：組合 → 最後一筆帶 sha 欄位事件的 sha（P6 reship 偵測用，僅
+      ship 站會寫這欄；帳本 append-only 依序覆寫＝取檔案最後一筆。舊事件
+      沒有這欄的組合，這裡就是空——不回填，reship 判斷因此天然不會誤觸發）
     - is_empty：帳本是否為第一次跑（檔案不存在或無任何有效行）——決定這輪新
       出現的組合要記 bootstrap（沿用舊值，不假造歷史）還是 observed（now）
     """
     seen = set()
     observed_first = {}
     bootstrap_ts = {}
+    last_sha = {}
     valid_lines = 0
     if os.path.isfile(LEDGER):
         with open(LEDGER, encoding="utf-8") as f:
@@ -172,7 +198,10 @@ def load_ledger():
                         observed_first[key] = ts
                 elif src == "bootstrap" and key not in bootstrap_ts:
                     bootstrap_ts[key] = ts
-    return seen, observed_first, bootstrap_ts, valid_lines == 0
+                sha = ev.get("sha")
+                if sha:
+                    last_sha[key] = sha
+    return seen, observed_first, bootstrap_ts, last_sha, valid_lines == 0
 
 
 warnings = []
@@ -263,7 +292,13 @@ for month in month_dirs:
         )
 
 # ── 2. 投影 ───────────────────────────────────────────────────────
+# 版本感知：同文多藍圖（如 v3 被三席打回、v4 才是實際採用版）不能靠
+# os.listdir() 的檔案系統枚舉順序決勝——先收集全部投影檔，凡被任何其他
+# 檔案 supersedes: 指到的即非 head；同 slug 若仍有多個 head 候選，取檔案
+# mtime 最新者（newsroom-organ-audit-2026-08-06.md §2.3 盲點 C）。
 if os.path.isdir(PROJECTION_DIR):
+    _proj_entries = []  # (fn, path, fm, slug)
+    _proj_superseded = set()  # 被其他檔案 supersedes: 指到的檔名
     for fn in os.listdir(PROJECTION_DIR):
         if not fn.endswith(".md") or fn.startswith("_"):
             continue
@@ -276,16 +311,31 @@ if os.path.isdir(PROJECTION_DIR):
         if m and m.group(1) != slug:
             warnings.append(f"projection {fn}: 檔名 slug 與 frontmatter article 不一致（{m.group(1)}）")
             slug = m.group(1)
+        _proj_entries.append((fn, path, fm, slug))
+        sup = fm.get("supersedes", "")
+        if sup:
+            sup_fn = os.path.basename(sup)
+            if not sup_fn.endswith(".md"):
+                sup_fn += ".md"
+            _proj_superseded.add(sup_fn)
+
+    _proj_by_slug = {}
+    for fn, path, fm, slug in _proj_entries:
+        _proj_by_slug.setdefault(slug, []).append((fn, path, fm))
+
+    for slug, entries in _proj_by_slug.items():
+        heads = [e for e in entries if e[0] not in _proj_superseded] or entries
+        head_fn, head_path, head_fm = max(heads, key=lambda e: os.path.getmtime(e[1]))
         r = rec(slug)
-        r["spine_type"] = r["spine_type"] or fm.get("spine_type")
-        rr = fm.get("researchReport")
+        r["spine_type"] = r["spine_type"] or head_fm.get("spine_type")
+        rr = head_fm.get("researchReport")
         set_stage(
             slug,
             "projection",
-            status="done" if fm.get("projection_done") == "true" else "in-progress",
-            artifact=rel(path),
+            status="done" if head_fm.get("projection_done") == "true" else "in-progress",
+            artifact=rel(head_path),
             research_report=rr,
-            at=art_date(path, fm),
+            at=art_date(head_path, head_fm),
         )
 
 # ── 3. 編輯室（projection / prose / chief / final-*）──────────────
@@ -309,6 +359,7 @@ if os.path.isdir(ROOM_DIR):
                 slug, room = m.group(1), room or m.group(2)
                 warnings.append(f"editorial-room {fn}: 無 frontmatter slug，用檔名 fallback（{slug}）")
             else:
+                warnings.append(f"editorial-room {fn}: 無 frontmatter slug 且檔名無法解析，已跳過")
                 continue
         stage = ROOM_STAGE.get(room or "", f"room_{room}" if room else None)
         if not stage:
@@ -327,17 +378,36 @@ if os.path.isdir(ROOM_DIR):
             set_stage(slug, stage, **entry)
 
 # ── 4. 寫作 staging ────────────────────────────────────────────────
+# 工作檔（-closing／-final／-factcheck／-prose／-blocks（可帶日期）／
+# -evolve-blocks（可帶日期）／-evolve（可帶日期）等後綴）是母文章寫作過程
+# 的中繼產物，不是獨立文章——直接上板會長出幽靈列（實例：台灣行道樹-closing、
+# 苯駢芘食安事件-closing、苯駢芘食安事件-evolve-blocks-0728、台灣感性-factcheck，
+# newsroom-organ-audit-2026-08-06.md §2.3 盲點 C）。歸戶到去除後綴的母 slug，
+# 同母 slug 多個工作檔時取最新產物時間。
+_EVOLVE_WORKFILE_RE = re.compile(
+    r"^(.+?)-(closing|final|factcheck|prose|blocks?|evolve-blocks|evolve)(?:-\d+)?$"
+)
 if os.path.isdir(EVOLVE_DIR):
     for fn in os.listdir(EVOLVE_DIR):
-        if fn.endswith(".md"):
-            path = os.path.join(EVOLVE_DIR, fn)
-            set_stage(fn[:-3], "write", status="staged", artifact=rel(path), at=art_date(path))
+        if not fn.endswith(".md"):
+            continue
+        stem = fn[:-3]
+        path = os.path.join(EVOLVE_DIR, fn)
+        wm = _EVOLVE_WORKFILE_RE.match(stem)
+        slug = wm.group(1) if wm else stem
+        entry_at = art_date(path)
+        prev = rec(slug)["stages"].get("write")
+        if not prev or (entry_at or "") >= (prev.get("at") or ""):
+            set_stage(slug, "write", status="staged", artifact=rel(path), at=entry_at)
 
 # ── 5. audit（Stage 3.5/3.6）──────────────────────────────────────
 for (slug, which), info in audit_results.items():
     cur = rec(slug)["stages"].setdefault("verify", {"status": "in-progress"})
-    cur[f"stage{which}"] = info["result"]
-    cur[f"stage{which}_artifact"] = info["artifact"]
+    # 寫入 key 補回 L216 regex 吃掉的 "3" 前綴（捕捉組只留 5/6），跟下面
+    # 判定處的 stage35/stage36 對齊 —— 原本永遠讀到 None，兩審皆 PASS 也
+    # 卡 in-progress（newsroom-organ-audit-2026-08-06.md §2.2）。
+    cur[f"stage3{which}"] = info["result"]
+    cur[f"stage3{which}_artifact"] = info["artifact"]
     cur["at"] = info["at"]
     if cur.get("stage35") == "PASS" and cur.get("stage36") == "PASS":
         cur["status"] = "done"
@@ -443,7 +513,7 @@ ORDER = [
 ]
 
 # ── 9. wall-clock 事件帳本：補新事件 + 用帳本改寫 stages[stage].at ──
-_seen, _observed_first, _bootstrap_ts, _ledger_bootstrap = load_ledger()
+_seen, _observed_first, _bootstrap_ts, _last_sha, _ledger_bootstrap = load_ledger()
 _now_iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
 _new_events = []
 for _slug, _r in articles.items():
@@ -452,7 +522,25 @@ for _slug, _r in articles.items():
         if not _status:
             continue
         _key = (_slug, _stage, _status)
+        # P6：ship 站算目前 knowledge 檔內容 sha1 前 12 碼，供本輪判斷／記錄用
+        # （其他 stage 不算，維持完全不動的 dedup 語義）。
+        _sha = None
+        if _stage == "ship" and _info.get("artifact"):
+            _sha = content_sha12(os.path.join(ROOT, _info["artifact"]))
         if _key in _seen:
+            # reship 語義（僅 ship 站、向前生效）：(slug, ship, done) 已見過，
+            # 但帳本已記錄過的最新 sha 存在且跟現值不同＝內容被重寫過，補一筆
+            # 新事件（同 status、新 ts、新 sha）。舊事件沒 sha 的組合這裡永遠
+            # 拿不到比較基準，天然不觸發、也不回填（避免 95 篇灌水）——僅從
+            # 今以後開始記錄（newsroom-organ-audit-2026-08-06.md §2.3 盲點 B）。
+            if _stage == "ship" and _sha and _last_sha.get(_key) and _sha != _last_sha[_key]:
+                _new_events.append(
+                    {
+                        "ts": _now_iso, "slug": _slug, "stage": _stage, "status": _status,
+                        "source": "observed", "sha": _sha,
+                    }
+                )
+                _last_sha[_key] = _sha
             continue  # 這組合帳本裡出現過（bootstrap 或 observed 都算）：不重蓋
         if _ledger_bootstrap:
             # 帳本是空的＝第一次跑：把「現在已知」的狀態記下來，時間沿用舊的
@@ -460,11 +548,14 @@ for _slug, _r in articles.items():
             _ts, _src = (_info.get("at") or _now_iso), "bootstrap"
         else:
             _ts, _src = _now_iso, "observed"
-        _new_events.append(
-            {"ts": _ts, "slug": _slug, "stage": _stage, "status": _status, "source": _src}
-        )
+        _ev = {"ts": _ts, "slug": _slug, "stage": _stage, "status": _status, "source": _src}
+        if _sha:
+            _ev["sha"] = _sha
+        _new_events.append(_ev)
         _seen.add(_key)
         (_observed_first if _src == "observed" else _bootstrap_ts)[_key] = _ts
+        if _sha:
+            _last_sha[_key] = _sha
 
 if _new_events:
     os.makedirs(LEDGER_DIR, exist_ok=True)
@@ -569,6 +660,31 @@ def _sorted_articles(arts):
     by_date = sorted(arts.values(), key=newest, reverse=True)
     return sorted(by_date, key=lambda a: rank.get((a.get("priority") or "").strip(), 4))
 
+
+# ── 覆蓋率 sanity log：跟 stage-events.jsonl 同目錄、會被 commit 進 git，
+# 當跨日比較基準——月槽視窗髮引斷崖曾連續 11 天被 data-refresh routine
+# 如實記錄（176→180→182→183）卻從未升級為異常，因為 freshness gate 只驗
+# JSON mtime 是當天、不驗覆蓋率合理性（newsroom-organ-audit-2026-08-06.md
+# §2.3 盲點 A）。這裡只留痕跡＋比對前一次，不驅動任何 next_step／board_column
+# 邏輯，斷崖照常輸出不中斷，只多一條 warning 讓它至少被看見。
+BOARD_COUNT_LOG = os.path.join(LEDGER_DIR, "board-count.log")
+_board_total = len(articles)
+_prev_board_total = None
+if os.path.isfile(BOARD_COUNT_LOG):
+    with open(BOARD_COUNT_LOG, encoding="utf-8") as f:
+        _bc_lines = [ln for ln in f if ln.strip()]
+    if _bc_lines:
+        _bc_m = re.search(r"total=(\d+)", _bc_lines[-1])
+        if _bc_m:
+            _prev_board_total = int(_bc_m.group(1))
+if _prev_board_total and _board_total < _prev_board_total * 0.8:
+    _bc_pct = round((_prev_board_total - _board_total) / _prev_board_total * 100, 1)
+    warnings.append(
+        f"⚠️ 覆蓋率斷崖：{_prev_board_total}→{_board_total}（-{_bc_pct}%），檢查月槽視窗或資料來源"
+    )
+os.makedirs(LEDGER_DIR, exist_ok=True)
+with open(BOARD_COUNT_LOG, "a", encoding="utf-8") as f:
+    f.write(f"{_now_iso} total={_board_total} warnings={len(warnings)}\n")
 
 out = {
     "generated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),

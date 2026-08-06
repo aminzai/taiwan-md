@@ -360,6 +360,10 @@ contract 本來就設計成「執行者只讀一個 contract 跑一步」、看�
    `reports/newsroom/stage-events.jsonl`，每站 wall-clock 由此可量）。**產物落 commit 是
    可觀測性與跨 session 接力的底座**：compaction 或 session 死亡後，任何接力 session 從
    看板 next_step＋已 commit 產物就能續跑（2026-07-26 鎢供應鏈「前段無 commit 可引」教訓）。
+   **誠實註記（2026-08-06 newsroom 健檢）**：本步首測遵循率 ~5%（43 commit 中 2 個），
+   daily data-refresh 是實際兜底。規則維持——wall-clock 精度只有站上即時跑才量得到——但
+   帳本行由下一個任何 commit 帶走即可；**禁止跨日事後補登**（污染每站真實間隔量測，寧缺勿補，
+   馬祖案例已實證失真）。遵循率由 newsroom 健檢追蹤（LESSONS `remedy-compliance-unmeasured`）。
 3. **狀態不猜檔名**：所有 stage 產物路徑顯式宣告在 contract §OUTPUTS；
    任何 verifier／看板從 frontmatter 與顯式路徑取狀態（Sol 假陰性教訓）。
 

@@ -1,3 +1,8 @@
+---
+slug: 台灣感性
+room: chief
+---
+
 # 總編探針 4：連結成網
 
 冷讀對象：`knowledge/Culture/台灣感性.md`（含 frontmatter title/description，全文 31 則 footnote + 7 條延伸閱讀 + 2 個資料視覺化區塊）
