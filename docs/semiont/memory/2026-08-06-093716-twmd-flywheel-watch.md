@@ -44,6 +44,7 @@ flywheel-watch 有兩把尺（`[routine]` commit tag、MEMORY 索引的 session-
 本 session 新 handoff：
 
 - [ ] pending（給下一條 flywheel-watch）：maintainer 若明天仍簽 `twmd-maintainer-am`，代表這是新常態而非一次性，那時就去 ROUTINE.md 註 ¹ 補一句「commit 與 session-id 簽 `-am`，taskId 仍是 `-daily`」，讓別名有 SSOT 依據而不只是儀器裡的一行字典
+- [ ] pending（給下一條 flywheel-watch，別被自己騙）：別名修補在 `origin/main` 上，但這條 routine 跑的是指揮部工作樹裡的那份 `flywheel-watch.py`，而那棵樹平行跑 babel 產線、只在推送時順手併 origin（今天併過一次，落後 18 筆）。明天跑之前先 `git log -1 --format=%h -- scripts/tools/flywheel-watch.py` 對一下有沒有 `0b2f454b3`；沒有就是拿舊儀器量新世界，同一盞假警報會再亮一次
 - [ ] pending（給任何做 routine 觀測的 session）：這支儀器的兩把尺共用 taskId 這個鍵，還不是真正互相獨立。要真獨立得有一把不靠名字（例如比對 routine 產出的檔案指紋），但那要動到「從外面看」的成本結構，先記著不急做
 
 ## Beat 5 — 反芻
