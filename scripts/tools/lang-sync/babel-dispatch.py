@@ -934,6 +934,31 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                 proc = pproc
                 engine_label = "patch"
 
+    # Heavy-footnote structured-first（2026-08-06，OBSERVER-QUEUE #5 default-action 執行）：
+    # 整篇式對重腳註檔有已量測的天花板（~23fn，reports/babel-health-2026-07-18.md §G），
+    # ≥30fn 的 zh 檔（實測 148 篇）走整篇路徑幾乎必死，先燒一次 worker 再等 fallback
+    # 是純浪費。structured 引擎 Phase N 按 ≤15 條分批、腳註構造上守恆（pilot 6/6 全綠、
+    # 仍走同一組 verify trio），對 heavy 檔直接當 primary。只影響整篇重翻路徑：stale
+    # 的 patch 引擎照舊先試（局部重翻對 heavy 檔更省）。BABEL_STRUCTURED_FN_THRESHOLD
+    # 環境變數可調閾值（<=0 停用；預設 30）。
+    if proc is None and engine == "whole":
+        try:
+            _fn_threshold = int(os.environ.get("BABEL_STRUCTURED_FN_THRESHOLD", "30"))
+        except ValueError:
+            _fn_threshold = 30
+        if _fn_threshold > 0:
+            try:
+                _zh_fn_count = len(set(re.findall(
+                    r"^\[\^([^\]]+)\]:",
+                    (KNOWLEDGE / zh_path).read_text(encoding="utf-8"), re.M)))
+            except OSError:
+                _zh_fn_count = 0
+            if _zh_fn_count >= _fn_threshold:
+                engine = "structured"
+                engine_label = "structured-heavy"
+                log(f"⏫ heavy-footnote {_zh_fn_count}fn ≥ {_fn_threshold} → "
+                    f"structured-first ({lang}:{zh_path})")
+
     if proc is None:
         if engine == "structured":
             # 分段式引擎吃單篇介面（zh_path 相對 knowledge/、backend 單一 spec）。
