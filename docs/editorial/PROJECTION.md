@@ -147,6 +147,7 @@ Stage 0 的主軸句（「Shopping Design 花二十年把設計變成動詞」�
 article: knowledge/{Cat}/{slug}.md
 researchReport: reports/research/{YYYY-MM}/{slug}.md
 spine_type: 立體群像 | 矛盾驅動
+spine_pattern: P{N} {族名} # optional，查 PROJECTION-PATTERNS §〇；留空＝通用畫布
 projection_done: true
 date: YYYY-MM-DD
 ---
