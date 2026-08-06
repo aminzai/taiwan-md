@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T14:42:48+08:00",
-    "zhCommitHead": "e9b9fa8d5",
+    "lastUpdated": "2026-08-06T14:58:14+08:00",
+    "zhCommitHead": "5ad44270b",
     "totalZh": 886,
     "activeLanguages": [
       "en",
@@ -27,9 +27,9 @@
       },
       "ja": {
         "total_zh": 886,
-        "fresh": 839,
-        "stale": 18,
-        "metadata_stale": 11,
+        "fresh": 841,
+        "stale": 17,
+        "metadata_stale": 10,
         "missing": 18,
         "orphan": 0
       },
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 886,
-        "fresh": 717,
-        "stale": 4,
+        "fresh": 719,
+        "stale": 3,
         "metadata_stale": 4,
-        "missing": 161,
+        "missing": 160,
         "orphan": 0
       },
       "ru": {
         "total_zh": 886,
-        "fresh": 746,
+        "fresh": 747,
         "stale": 4,
         "metadata_stale": 5,
-        "missing": 131,
+        "missing": 130,
         "orphan": 0
       }
     },
@@ -10670,8 +10670,8 @@
           "sourceContentHash": "sha256:d585af78b77ed183",
           "sourceBodyHash": "sha256:57ec5065ff0c2c3f",
           "translatedAt": "2026-08-06T07:38:32+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "a17747b7",
+          "translationLastModified": "2026-08-06T14:42:49+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -27045,18 +27045,16 @@
         "ja": {
           "path": "ja/Art/taiwanese-curators-and-artistic-cultural-construction.md",
           "translatedFrom": "Art/台灣策展人與藝術文化建構.md",
-          "sourceCommitSha": "f99a9959",
-          "sourceContentHash": "sha256:01e74babf94ac8da",
-          "sourceBodyHash": "sha256:859c873057ee681d",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:9ea16a828e45af61",
+          "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
+          "translatedAt": "2026-08-06T06:56:46.061724+00:00",
           "translationLastCommit": "e8dd348a",
           "translationLastModified": "2026-05-15T13:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/taiwanese-curators-and-artistic-cultural-construction.md",
@@ -28210,8 +28208,8 @@
     },
     "Art/馬祖國際藝術島.md": {
       "zh": {
-        "lastCommit": "b2ba2000",
-        "lastModified": "2026-08-06T12:41:28+08:00",
+        "lastCommit": "5ad44270",
+        "lastModified": "2026-08-06T14:50:03+08:00",
         "contentHash": "sha256:40a2b482c1a66f16",
         "bodyHash": "sha256:55c20a0d0cb340b3"
       },
@@ -28226,8 +28224,8 @@
           "sourceContentHash": "sha256:8b0b4f1b5093e628",
           "sourceBodyHash": "sha256:1c2241b73b74008f",
           "translatedAt": "2026-08-06T07:38:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a17747b7",
+          "translationLastModified": "2026-08-06T14:42:49+08:00",
           "inferred": false,
           "footnoteDefs": 35,
           "status": "stale",
@@ -28278,8 +28276,8 @@
           "footnoteDefs": 48,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+184 -148"
+          "commitsBehind": 3,
+          "diffSummary": "+185 -148"
         },
         "ru": {
           "status": "missing"
@@ -55997,7 +55995,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/village-chief-system.md",
+          "translatedFrom": "Politics/村里長制度.md",
+          "sourceCommitSha": "837e22b9a",
+          "sourceContentHash": "sha256:cce4699f9fdc3697",
+          "sourceBodyHash": "sha256:48ef53002db1337d",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -93967,7 +93976,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/puli-shaoxing-wine.md",
+          "translatedFrom": "Food/埔里紹興酒.md",
+          "sourceCommitSha": "58a56e425",
+          "sourceContentHash": "sha256:206fc5a1d92e25e9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-06T06:47:37.250294+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/puli-shaoxing-wine.md",
@@ -103969,18 +103989,16 @@
         "ja": {
           "path": "ja/History/martial-law-era.md",
           "translatedFrom": "History/戒嚴時期.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:7647443db6f06a5f",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "translatedAt": "2026-08-06T07:38:32+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/martial-law-era.md",
@@ -114265,18 +114283,16 @@
         "ar": {
           "path": "ar/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:a5ce1cc1637b843d",
-          "sourceBodyHash": "sha256:3262816e651d35d1",
-          "translatedAt": "2026-07-25T07:56:03+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:61916e4f91798262",
+          "sourceBodyHash": "sha256:b069d77bfe98ff54",
+          "translatedAt": "2026-08-06T06:55:36.863908+00:00",
           "translationLastCommit": "340d034d",
           "translationLastModified": "2026-07-25T08:57:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/offshore-islands-and-maritime-culture.md",
