@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-06 | 084603-twmd-maintainer-am | idlccp1984 三篇新文 merge-first-then-heal，hard 65→0；查證抓到一句查不到出處的學生引語＋三處腳註描述與連結不符；#1264 補上實測回覆 | 敘事缺哪一塊，幻覺就長成那個形狀——該警覺的訊號是「這句話來得真是時候」 | [→](memory/2026-08-06-084603-twmd-maintainer-am.md) |
 | 2026-08-06 | 093716-twmd-flywheel-watch | 飛輪零靜默（24hr 56 commit／14 筆 routine 標記）；唯一警報是 maintainer 改簽 `-am` 引發的假陽性，儀器兩把尺共用 taskId 一起失手，補別名表修好 | 兩個檢查通道共用同一個識別鍵，名義上兩把尺實際上只有一把 | [→](memory/2026-08-06-093716-twmd-flywheel-watch.md) |
 | 2026-08-06 | 143909-manual | 參與選單贊助入口 ship（12 語系＋portaly utm）；接力把 ru 介面 121 行烏克蘭文誤植整批改回俄文，build 全綠 | 送錯語言跟沉默一樣是主權缺口；UI 字串層缺語言指紋儀器，已留 gate 候選 | [→](memory/2026-08-06-143909-manual.md) |
+| 2026-08-06 | 164219-manual | 馬祖三輪重寫（callout→重投影 v4→r2，外行冷讀席誕生）＋newsroom 健檢 roadmap 九條落地＋skill/dna 整合波；routine 依哲宇校正全數回滾（mouhouse 為主） | 內部一致性尺量不出外部有效性；錯的論點會砍掉對的材料 | [→](memory/2026-08-06-164219-manual.md) |
