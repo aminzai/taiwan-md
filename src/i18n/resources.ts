@@ -4638,27 +4638,28 @@ export const resourcesUI = {
 
     'resources.site.stat': 'Национальное статистическое управление',
     'resources.site.twse': 'Тайваньская фондовая биржа',
-    'resources.site.tpex': 'Центр торговлі акціями',
+    'resources.site.tpex': 'Центр торговли акциями',
 
-    'resources.site.github': 'Репозиторій проекту на GitHub',
-    'resources.site.contribute': 'Інструкція для учасників',
-    'resources.site.rss': 'RSS-підписка',
+    'resources.site.github': 'Репозиторий проекта на GitHub',
+    'resources.site.contribute': 'Инструкция для участников',
+    'resources.site.rss': 'RSS-подписка',
 
     // New community site names
-    'resources.site.electionMap': 'Карта виборів Тайваню',
+    'resources.site.electionMap': 'Карта выборов Тайваня',
     'resources.site.maskMap': 'Карта масок (2020)',
-    'resources.site.goodinfo': 'Goodinfo — інформація про тайванський ринок',
-    'resources.site.ccw': 'Альянс громадянського нагляду за парламентом',
-    'resources.site.thaubing': 'Прозора стоп-слід',
-    'resources.site.politicalDonation': 'Публічний запит політичних пожертв',
-    'resources.site.burgerMap': 'Карта бургерів Тайбея',
-    'resources.site.nightMarket': 'Додаток нічних ринків',
-    'resources.site.cofacts': 'Cofacts — правда чи ні?',
+    'resources.site.goodinfo': 'Goodinfo — информация о тайваньском рынке',
+    'resources.site.ccw': 'Альянс гражданского надзора за парламентом',
+    'resources.site.thaubing': 'Прозрачный след',
+    'resources.site.politicalDonation':
+      'Публичный запрос политических пожертвований',
+    'resources.site.burgerMap': 'Карта бургеров Тайбэя',
+    'resources.site.nightMarket': 'Приложение ночных рынков',
+    'resources.site.cofacts': 'Cofacts — правда или нет?',
     'resources.site.disfactory':
-      'Disfactory — незаконні фабрики на сільгоспугіддях',
+      'Disfactory — незаконные фабрики на сельхозугодьях',
     'resources.site.ptt': 'PTT BBS',
-    'resources.site.ptsNews': 'Новини PTS',
-    'resources.site.npgov': 'Портал національних парків',
+    'resources.site.ptsNews': 'Новости PTS',
+    'resources.site.npgov': 'Портал национальных парков',
     'resources.site.taiwanmd': 'Taiwan.md',
   },
   'zh-TW': {

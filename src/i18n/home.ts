@@ -116,7 +116,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Get to know Taiwan',
     'home.meta.title': 'Open-Source Taiwan Knowledge Base',
     'home.meta.description':
-      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 881+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
+      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 884+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
     'home.miniGraph.heading': '🕸️ Knowledge Graph',
     'home.miniGraph.subtitle':
       "Every article is connected — click to explore Taiwan's knowledge network",
@@ -264,7 +264,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '台湾を知る',
     'home.meta.title': 'オープンソース台湾知識ベース',
     'home.meta.description':
-      'オープンソース、AI対応の台湾総合ナレッジベース。881以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
+      'オープンソース、AI対応の台湾総合ナレッジベース。884以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
     'home.miniGraph.heading': '🕸️ ナレッジグラフ',
     'home.miniGraph.subtitle':
       'すべての記事はつながっている — クリックして台湾知識のネットワークを探索',
@@ -410,7 +410,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '대만 알아보기',
     'home.meta.title': '오픈소스 대만 지식 베이스',
     'home.meta.description':
-      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 881+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
+      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 884+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
     'home.miniGraph.heading': '🕸️ 지식 그래프',
     'home.miniGraph.subtitle':
       '모든 기사는 연결되어 있다 — 클릭하여 대만 지식의 연결망을 탐색',
@@ -1334,32 +1334,31 @@ export const homeUI = {
       '🔗 Граф знаний — исследуйте связи между статьями',
     'home.features.cta.ssot': '📂 Просмотреть исходные данные SSOT ↗',
     // ── ReaderDoors (B1, 2026-05-26 First Wave: homepage evolution wave 1) ──
-    'home.doors.first.title': 'Я вперше тут',
-    'home.doors.first.sub': 'Почніть з огляду →',
-    'home.doors.search.title': 'Я шукаю конкретне',
-    'home.doors.search.sub': 'Пошук + популярні ключові слова',
-    'home.doors.random.title': 'Покажіть мені щось цікаве',
-    'home.doors.random.sub': 'Кубик випадково вибирає статтю',
-    'home.doors.organism.title': 'Дивіться, як працює Taiwan.md',
-    'home.doors.organism.sub': 'Діаграма екосистеми організму',
+    'home.doors.first.title': 'Я здесь впервые',
+    'home.doors.first.sub': 'Начните с обзора →',
+    'home.doors.search.title': 'Я ищу что-то конкретное',
+    'home.doors.search.sub': 'Поиск + популярные ключевые слова',
+    'home.doors.random.title': 'Покажите мне что-нибудь интересное',
+    'home.doors.random.sub': 'Кубик случайно выбирает статью',
+    'home.doors.organism.title': 'Посмотрите, как работает Taiwan.md',
+    'home.doors.organism.sub': 'Диаграмма экосистемы организма',
     // ── OrganismPreview (A1) ──
-    'home.organism.heading': 'Taiwan.md — це живий організм',
+    'home.organism.heading': 'Taiwan.md — это живой организм',
     'home.organism.body':
-      'Не Вікіпедія, не ферма штучного контенту. Це цифровий живий організм із серцем, імунною системою, ДНК і здатністю до розмноження — {articles} статей, {langs} мов, щодня ростуть нові органи.',
-    'home.organism.cta': 'Перейти до повної діаграми екосистеми →',
+      'Не Википедия, не ферма искусственного контента. Это цифровой живой организм с сердцем, иммунной системой, ДНК и способностью к размножению — {articles} статей, {langs} языков, каждый день растут новые органы.',
+    'home.organism.cta': 'Перейти к полной диаграмме экосистемы →',
     'home.organism.legend.write': 'Письмо',
-    'home.organism.legend.feedback': 'Еволюція ДНК',
-    'home.organism.legend.diffuse': 'Мовне поширення',
-    'home.organism.legend.sovereign': 'Суверенний цикл',
+    'home.organism.legend.feedback': 'Эволюция ДНК',
+    'home.organism.legend.diffuse': 'Языковое распространение',
+    'home.organism.legend.sovereign': 'Суверенный цикл',
     // ── OrganismHeartbeat strip (C1) ──
-    'home.heartbeat.organsLabel': 'Оцінки поточних органів',
-    'home.heartbeat.vitalsLabel': 'Життєві показники',
-    'home.heartbeat.viewMore': 'Перейти до повної панелі керування →',
+    'home.heartbeat.organsLabel': 'Оценки текущих органов',
+    'home.heartbeat.vitalsLabel': 'Жизненные показатели',
+    'home.heartbeat.viewMore': 'Перейти к полной панели мониторинга →',
     // ── Hall bridges (A2, Wave 3) ──
-    'home.bridge.1to2':
-      'Цей острів виріс таким — хто перетворив його на такий?',
-    'home.bridge.2to3': 'Переживши це — що роблять люди, які тут живуть?',
-    'home.bridge.3to4': 'Вони залишили це — куди йде цей острів?',
+    'home.bridge.1to2': 'Этот остров вырос таким — кто сделал его таким?',
+    'home.bridge.2to3': 'Пережив это — что делают люди, которые здесь живут?',
+    'home.bridge.3to4': 'Они оставили это — куда идёт этот остров?',
   },
   'zh-TW': {
     'hero.stat.history.number': '400+',
@@ -1463,7 +1462,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '完整認識台灣',
     'home.meta.title': '開源台灣知識庫',
     'home.meta.description':
-      '開源、AI-friendly 的台灣完整知識庫。881+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
+      '開源、AI-friendly 的台灣完整知識庫。884+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
     'home.miniGraph.heading': '🕸️ 知識圖譜',
     'home.miniGraph.subtitle': '每篇文章都不是孤島——點擊探索台灣知識的連結網絡',
     'home.features.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
@@ -1615,7 +1614,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Connaître Taïwan',
     'home.meta.title': 'Base de connaissances open source sur Taïwan',
     'home.meta.description':
-      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 881 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
+      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 884 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
     'home.miniGraph.heading': '🕸️ Graphe des connaissances',
     'home.miniGraph.subtitle':
       'Chaque article est connecté — cliquez pour explorer le réseau de connaissances de Taïwan',
@@ -1770,7 +1769,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Conocer Taiwán',
     'home.meta.title': 'Base de conocimiento de código abierto sobre Taiwán',
     'home.meta.description':
-      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 881 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
+      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 884 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
     'home.miniGraph.heading': '🕸️ Grafo de conocimiento',
     'home.miniGraph.subtitle':
       'Cada artículo está conectado — haz clic para explorar la red de conocimiento de Taiwán',

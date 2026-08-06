@@ -6695,7 +6695,7 @@ export const mapUI = {
     'map.markers.taiwanEducationSystem.title': 'Тайваньский бурый медведь',
     'map.markers.taiwanEducationSystem.desc':
       'Белая V-образная отметина на груди — его визитная карточка: последний король тайваньских лесов и его незавершенная битва за сохранение вида',
-    'map.markers.taiwanMusicIndustry.title': 'Національні парки',
+    'map.markers.taiwanMusicIndustry.title': 'Национальные парки',
     'map.markers.taiwanMusicIndustry.desc':
       '36 197 кв. км, вмещающих 9 нацпарков, — чудо сохранения природы с самой высокой в мире плотностью',
     'map.markers.mandarinPopMusic.title': 'Нацпарки Тайваня',
