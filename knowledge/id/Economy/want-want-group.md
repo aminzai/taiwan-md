@@ -1,6 +1,6 @@
 ---
-title: 'Want Want: Dari Raja Kripik Beras ke Raksasa Media, Transisi Kekuasaan'
-description: "Pada 1976, Tsai Eng-meng berusia 19 tahun mengambil alih Yilan Food, dari diejek sebagai 'anak pemboros' hingga berkat teknologi kripik beras Jepang bangkit menjadi orang terkaya. Setelah mengakuisisi China Times Group pada 2008, kerajaan camilan ini bertransformasi menjadi raksasa media paling kontroversial di Taiwan, memicu gerakan anti-monopoli media yang tidak pernah terjadi sebelumnya."
+title: 'Want Want: Dari Raja Kue Beras ke Raksasa Media, Transisi Kekuasaan'
+description: 'Pada 1976, Tsai Eng-meng berusia 19 tahun mengambil alih Yilan Food, dari diejek sebagai "pemboros" hingga bangkit berkat teknologi kue beras Jepang menjadi orang terkaya. Setelah mengakuisisi China Times Group pada 2008, kerajaan camilan ini bertransformasi menjadi raksasa media paling kontroversial di Taiwan, memicu gerakan anti-monopoli media yang tak tertandingi dalam sejarah.'
 date: 2026-07-24
 category: 'Economy'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Grup Want Want',
     'Tsai Eng-meng',
     'Monopoli Media',
-    'Hubungan Dua Sisi',
+    'Hubungan Cross-Strait',
     'Perusahaan Taiwan',
   ]
 subcategory: 'Profil Perusahaan'
@@ -21,61 +21,61 @@ curation: 'incubating'
 translatedFrom: 'Economy/旺旺.md'
 sourceCommitSha: '03b3aaae8'
 sourceContentHash: 'sha256:8fc0adba07db27e5'
-translatedAt: '2026-08-05T14:12:47.537672+00:00'
+translatedAt: '2026-08-05T23:45:41.950017+00:00'
 ---
 
-> **Ringkasan 30 detik:** Kisah Want Want Group adalah salah satu transformasi paling drastis dalam sejarah bisnis Taiwan. Perusahaan ini bermula dari sebuah pabrik kaleng di Yilan, dan berkat kolaborasi teknologi dengan Jepang untuk mengembangkan kue beras, pada 1980-an merek ini menyapu seluruh Taiwan dan berhasil memasuki pasar Tiongkok. Namun, ketika pendiri Tsai Eng-meng pada 2008 membeli 《中國時報》、CTV, dan CTiTV atas nama pribadi, Want Want tidak lagi sekadar brand makanan, melainkan terlibat di pusat kontroversi politik lintas selat, kebebasan pers, dan monopoli media. Artikel ini menelusuri bagaimana perusahaan ini berubah dari 'camilan untuk anak-anak' menjadi 'raksasa yang memengaruhi demokrasi'.
+> **Ringkasan 30 Detik:** Kisah Want Want Group adalah salah satu transformasi paling drastis dalam sejarah bisnis Taiwan. Perusahaan ini bermula dari sebuah pabrik kaleng di Yilan, dan berkat kolaborasi teknis dengan Jepang untuk mengembangkan kue beras, pada tahun 1980-an menyapu seluruh Taiwan serta berhasil menembus pasar Tiongkok. Namun, ketika pendiri Tsai Eng-meng pada 2008 atas nama pribadi membeli _China Times_, CTV, dan CTi TV, Want Want tidak lagi sekadar brand makanan, melainkan terlibat di pusat kontroversi politik lintas selat, kebebasan pers, dan monopoli media. Artikel ini mengupas bagaimana perusahaan ini berubah dari "camilan untuk anak-anak" menjadi "raksasa yang memengaruhi demokrasi".
 
-Pada 1976, Tsai Eng-meng, putra keluarga kaya dari Jalan Dihua Taipei, baru berusia 19 tahun ketika mengambil alih jabatan direktur umum "Yilan Foods" yang dijalankan ayahnya. Saat itu ia tidak mengerti laporan keuangan sama sekali, dan tahun pertama saja rugi 100 juta dolar Taiwan baru, diejek oleh kalangan bisnis saat itu sebagai "pemboros"[^1]. Untuk membersihkan nama buruknya, ia berkali-kali datang ke Jepang mengunjungi pabrik kue beras besar "Iwatsuka Seika", menunggu di depan pintu selama dua tahun, hingga akhirnya bergerak hati pendirinya Keigo Hatsugo, dan mendapatkan lisensi teknologi kunci[^2]. Pada 1983, brand "Want Want" resmi lahir, logo Wang Wang yang berjalan megah sambil memutar bola mata itu kemudian menjadi kenangan kolektif yang melintasi kedua sisi selat dan tiga wilayah.
+Pada 1976, Tsai Eng-meng, anak kaya dari Jalan Dihua Taipei, berusia 19 tahun baru saja mengambil alih jabatan Direktur Umum "Yilan Food" yang dijalankan ayahnya. Saat itu dia tidak mengerti laporan keuangan sama sekali, tahun pertama saja rugi 100 juta Dolar Taiwan Baru, dan diejek kalangan bisnis sebagai "anak durhaka"[^1]. Untuk membersihkan nama buruknya, ia berkali-kali datang ke Jepang mengunjungi pabrik kue beras besar "Iwatsuka Seika", menunggu di depan pintu selama dua tahun, hingga akhirnya menyentuh hati pendiri Keigo Masao, dan memperoleh lisensi teknologi kunci[^2]. Pada 1983, brand "Want Want" resmi lahir, logo "Wang Wang" yang berjalan angkuh dengan mata terbelalak, kemudian menjadi kenangan kolektif yang melintasi Selat Taiwan dan tiga wilayah.
 
 ## Dari Anak Durhaka Kembali ke Raja Kue Beras Lintas Selat
 
-Tsai Eng-meng mengaitkan keberhasilan Want Want dengan "berkat dewa" dan "berani mengambil risiko". Pada 1992, ia melihat peluang reformasi dan pembukaan Tiongkok daratan, mendirikan pabrik pertamanya di Changsha, Hunan. Pada saat itu, ia menerapkan strategi "pemberian coba rasa", memungkinkan jutaan anak sekolah mencicipi Want Want Senbei secara gratis, dan dengan cepat membuka pasar. Pada akhir 1990-an, Want Want telah menjadi produsen kue beras terbesar di Tiongkok, dan kekayaan Tsai Eng-meng melonjak, menjadikannya orang terkaya Taiwan berkali-kali.
+Tsai Eng-meng mengaitkan keberhasilan Want Want dengan "berkah tuhan" dan "berani mengambil risiko". Pada 1992, ia melihat peluang dari kebijakan reformasi dan pembukaan Tiongkok daratan, mendirikan pabrik pertama di Changsha, Hunan. Saat itu ia menerapkan strategi "coba gratis", memungkinkan jutaan anak-anak sekolah mencicipi kue beras Want Want secara gratis, dengan cepat membuka pasar. Hingga akhir 1990-an, Want Want telah menjadi produsen kue beras terbesar di Tiongkok, kekayaan Tsai Eng-meng pun melonjak, berturut-turut menjadi orang terkaya di Taiwan.
 
-📝 Catatan Kurator: Lebih dari mitos pengelolaan, kenaikan Want Want adalah cerminan dari generasi pertama pengusaha Taiwan yang dengan tepat menangkap "dividen Tiongkok".
+📝 Catatan Kurator: Lebih dari mitos bisnis, kenaikan Want Want adalah cerminan bagaimana generasi pertama pengusaha Taiwan dengan tepat menangkap "bonus Tiongkok".
 
-Namun, model bisnis yang sangat bergantung pada pasar Tiongkok ini juga menanam benih kontroversi politik di masa depan. Keberhasilan Want Want di Tiongkok membuatnya membangun hubungan yang erat dengan otoritas setempat. Pada 2009, _CommonWealth Magazine_ mengungkap bahwa sebelum mengakuisisi China Times Group, Tsai Eng-meng pernah bertemu dengan Wang Yi, Kepala Kantor Urusan Taiwan. Laporan tersebut berjudul "Lapor Pak, Kami Membeli China Times", memicu kecemasan kolektif di masyarakat Taiwan mengenai penetrasi "media merah"[^3].
+Namun, model bisnis yang sangat bergantung pada pasar Tiongkok ini juga menanam benih kontroversi politik di kemudian hari. Keberhasilan Want Want di Tiongkok membuatnya menjalin hubungan yang erat dengan otoritas setempat. Tahun 2009, _Tianxia Magazine_ mengungkap bahwa sebelum mengakuisisi Grup China Times, Tsai Eng-meng pernah bertemu dengan Kepala Kantor Urusan Taiwan Wang Yi; laporan tersebut berjudul "Laporan Kepala, Kami Membeli 'China Times'", memicu kecemasan kolektif masyarakat Taiwan terkait infiltrasi "media merah"[^3].
 
 ## 2008: Akuisisi yang Mengubah Peta Media Taiwan
 
-Pada 4 November 2008, Tsai Eng-meng secara pribadi mengeluarkan dana 204 miliar dolar Taiwan untuk membeli grup China Times yang mengalami krisis keuangan. Transaksi ini mengalahkan Jimmy Lai dari Next Media yang juga berminat mengakuisisi saat itu[^4]. Tsai Eng-meng pernah mengakui di sidang publik bahwa dirinya dulu senang mengelola bisnis makanan, dan membeli media adalah untuk 'mempertaruhkan pertarungan pertahanan jati diri', agar tidak disalahartikan oleh publik sebagai seorang pengusaha Taiwan yang hanya tahu mencari uang[^5].
+Pada 4 November 2008, Tsai Eng-meng atas nama pribadi, mengeluarkan dana 20,4 miliar dolar Taiwan untuk membeli grup "China Times" yang mengalami krisis keuangan. Transaksi ini mengalahkan Jimmy Lai dari Next Media yang juga berminat mengakuisisi pada saat itu[^4]. Tsai Eng-meng pernah menyatakan di rapat pendengar umum bahwa dia sebelumnya dengan senang hati mengelola bisnis makanan, dan membeli media adalah untuk "mempertaruhkan pertarungan pertahanan jati diri", agar tidak disalahartikan oleh dunia luar sebagai pengusaha Taiwan yang hanya tahu mencari uang[^5].
 
-Namun kenyataannya berlawanan, setelah Grup Media Want Want China Times didirikan, kebijakan redaksinya sangat selaras dengan posisi pribadi Tsai Eng-meng. Pada 2012, saat menerima wawancara eksklusif The Washington Post, Tsai Eng-meng mengungkapkan pernyataan soal insiden Tiananmen seperti 'Saya tahu tidak benar bahwa begitu banyak orang meninggal', yang memicu kontroversi besar[^6]. Kemudian, Grup Want Want dituding oleh kalangan akademisi dan organisasi masyarakat sipil akan menciptakan 'raksasa media' karena akuisisi kasus China Network Systems, yang memicu gerakan anti-monopoli media yang krusial dalam sejarah demokrasi Taiwan.
+Namun hal itu berlawanan dengan harapan, setelah Grup Media Want Want China Times didirikan, kebijakan beritanya sangat selaras dengan pandangan pribadi Tsai Eng-meng. Pada 2012, Tsai Eng-meng menerima wawancara dari "The Washington Post", dan mengenai "Insiden Tiananmen 4 Juni" mengeluarkan pernyataan seperti "saya tahu tidak benar bahwa begitu banyak orang meninggal", yang memicu gelombang kontroversi besar[^6]. Kemudian, Grup Want Want tengah dikritik oleh akademisi dan organisasi masyarakat sipil karena kasus akuisisi China Network Systems, diduga akan membentuk "raksasa media", yang kemudian memicu "Gerakan Anti-Monopoli Media" yang krusial dalam sejarah demokrasi Taiwan.
 
 📝 Catatan Kurator: Seorang penjual senbei mulai menjual opini, dan orang Taiwan menyadari, di balik rasa manis camilan mungkin tersembunyi pahitnya pengaruh terhadap operasional demokrasi.
 
-## Surat Bukti Hukum dan Lingchi: Privatisasi Kekuasaan Media
+## Surat Teguran Hukum dan Lingchi: Privatisasi Kekuasaan Media
 
-Tindakan paling kontroversial Want Want tidak lain adalah menjadikan media sebagai alat serangan pribadi. Pada 2009, Kumpulan Want Want China Times mengirimkan surat bukti hukum kepada para sarjana dan wartawan yang mengkritik akuisisi mereka, seperti Kuan Chung-hsiang, Cheng Hsiu-ling, Lin Hsing-fei, dan lain-lain; hal ini merupakan preseden sangat jarang dalam sejarah jurnalisme Taiwan di mana media menuntut pengkritiknya[^4]. Selain itu, Anggota Legislatif Yeh Yi-chin yang saat itu menuntut Tsai Eng-meng menyerahkan surat kuasa di Yuan Legislatif, menjadi target serangan berita yang ditargetkan selama tiga hari berturut-turut dengan lebih dari 30 buah berita oleh media di bawah Kumpulan Want Want China Times; Yeh Yi-chin menggambarkannya sebagai sebuah「lingchi」[^7].
+Tindakan paling kontroversial Want Want adalah tidak lain menjadikan media sebagai alat serangan pribadi. Pada 2009, Grup Want Want China Times mengirimkan surat teguran hukum kepada sarjana dan wartawan yang mengkritik akuisisinya — seperti Kuan Chung-hsiang, Cheng Hsiu-ling, Lin Hsing-fei, dan lain-lain — hal yang menjadi preseden sangat jarang dalam sejarah jurnalisme Taiwan: media menuntut pengkritiknya[^4]. Selain itu, legislator Yeh Yi-chin pada masa itu, karena menuntut Tsai Eng-meng menyerahkan surat kuasa di Legislative Yuan, diserang berkelanjutan selama tiga hari dengan lebih dari 30 berita yang ditargetkan oleh media di bawah naungan Want Want; Yeh Yi-chin menggambarkan hal itu sebagai「pembantaian berulang」[^7].
 
-Sikap 「siapa yang mendukungku akan berjaya, siapa yang menentangku akan binasa」 ini pada akhirnya memicu meledaknya Gerakan Tolak China Times pada 2012 secara menyeluruh. Puluhan ribu mahasiswa dan massa turun ke jalan memprotes monopoli media dan sensor pidato. Tsai Eng-meng di rapat pendengaratan umum membela diri sebagai「anjing tenggelam」, menganggap dirinya sedang menjalani「pemeriksaan pemikiran」, namun masyarakat melihat seorang penguasa yang memegang koran dan stasiun televisi, berusaha mendefinisikan ulang profesionalisme jurnalistik Taiwan[^5].
+Sikap「siapa yang mendukungku makmur, siapa yang menentangku hancur」ini pada akhirnya memicu ledakan gerakan「Tolak China Times」pada 2012. Puluhan ribu mahasiswa dan massa turun ke jalan memprotes monopoli media dan sensor kebebasan berbicara. Tsai Eng-meng di rapat pendengar umum mengklaim dirinya sebagai「anjing yang jatuh ke air」, berpendapat bahwa dirinya sedang menjalani「pemeriksaan pemikiran」, namun masyarakat melihat seorang penguasa yang memegang koran dan stasiun televisi, yang justru berusaha mendefinisikan ulang profesionalisme jurnalisme Taiwan[^5].
 
 ## Setelah Berbalik: Posisi Want Want di Taiwan Kontemporer
 
-Sejak kini, Want Want Group tetap merupakan raksasa makanan multinasional, namun citra sosialnya di Taiwan sudah terpisah sepenuhnya dari brand camilan murni pada era 1980-an. Pada 2020, CTiTV karena pelanggaran berulang dan kegagalan pengendalian internal, akhirnya tidak memperoleh perpanjangan izin dari NCC dan turun dari TV kabel, hal ini dianggap sebagai penutup tertunda dari gerakan anti-monopoli media.
+Saat ini, Want Want Group tetap merupakan raksasa makanan multinasional, namun citra sosialnya di Taiwan sudah terpisah sepenuhnya dari brand camilan murni pada era 1980-an. Tahun 2020, CTi News (中天新聞台)因 pelanggaran berulang dan kegagalan pengendalian internal, akhirnya tidak mendapatkan perpanjangan izin dari NCC dan turun dari TV kabel, hal ini dianggap sebagai penutup tertunda dari gerakan anti-monopoli media.
 
-Tsai Eng-meng belakangan ini mulai mengelola media mandiri 「旺伯講古」, berusaha merebrand citra pribadi dan perusahaan melalui cara bercerita. Sementara putra keduanya Tsai Wang-chia di media sosial dengan citra humoris dan dekat ke rakyat memperhatian tidak sedikit netizen muda, strategi PR yang mencoba "depolitisasi" ini, sedang berusaha keras menemukan titik tumpu baru di masyarakat Taiwan yang sangat terbelah.
+Tsai Eng-meng belakangan ini mulai mengelola media mandiri "Want Bo Jiang Gu" (「旺伯講古」), berusaha membentuk ulang citra pribadi dan perusahaan melalui cara bercerita. Sementara putra keduanya Tsai Wang-jia di media sosial memperoleh perhatian cukup banyak netizen muda dengan citra humoris dan akrab, strategi PR yang mencoba "menghilangkan politik" ini berupaya keras menemukan titik tumpu baru di masyarakat Taiwan yang sangat terbelah.
 
-📝 Catatan Kurator: Kita tetap memakan Want Want Senbei, tetapi sekarang setiap gigitan, yang terbayang di hati mungkin bukan hanya rasa masa kecil, melainkan juga renungan terhadap struktur kekuasaan di balik si kecil mata juling itu.
+📝 Catatan Kurator: Kita tetap makan Want Want Senbei, tapi sekarang setiap gigitan, yang terbayang di hati mungkin bukan hanya rasa masa kecil, tapi juga renungan mendalam tentang struktur kekuasaan di balik si anak laki-laki memutar bola mata itu.
 
 ## Referensi
 
-[^1]: [Tahukah Anda? Saat usia 19 tahun, Tsai Eng-meng mengambil alih usaha keluarga, tetapi karena tidak mengerti laporan keuangan, tahun pertama saja rugi miliaran dolar Taiwan](https://www.facebook.com/FollowYourDreamsComeTrue/posts/1316460247179940/) — Posting publik Facebook
+[^1]: [Tahukah Anda? Saat Tsai Eng-meng Berusia 19 Tahun Mengambil Alih Bisnis Keluarga, Karena Tidak Mengerti Laporan Keuangan, Tahun Pertama Saja Rugi 100 Juta Dolar Taiwan](https://www.facebook.com/FollowYourDreamsComeTrue/posts/1316460247179940/) — Posting Publik Facebook
 
-[^2]: [Perjalanan kewirausahaan legendaris Tsai Eng-meng Want Want dari Tiongkok Daratan kembali ke Taiwan](https://www.wealth.com.tw/articles/90841180-556f-4570-8673-a35a7ec2cb8c) — Lihat tautan asli untuk detail lengkap
+[^2]: [Kisah Kiprah Legendaris Tsai Eng-meng Want Want dari Tiongkok Kembali ke Taiwan](https://www.wealth.com.tw/articles/90841180-556f-4570-8673-a35a7ec2cb8c) — Lihat Tautan Asli untuk Detail Lengkap
 
-[^3]: [Lapor Pak, Kami Membeli 'China Times'](https://www.cw.com.tw/article/article.action?id=5001838&page=5) — Lihat tautan asli untuk detail lengkap
+[^3]: [Laporan Kepala, Kami Membeli 'China Times'](https://www.cw.com.tw/article/article.action?id=5001838&page=5) — Lihat Tautan Asli untuk Detail Lengkap
 
-[^4]: [Kasus Akuisisi Want Want terhadap China Times, CTiTV, dan CTV](https://zh.wikipedia.org/zh-hant/%E6%97%BA%E6%97%BA%E4%BD%B5%E8%B3%BC%E4%B8%AD%E6%99%82%E4%B8%AD%E5%A4%A9%E4%B8%AD%E8%A6%96%E4%BA%8B%E4%BB%B6) — Entri Wikipedia
+[^4]: [Kasus Akuisisi Want Want atas China Times, CTi TV, dan CTV](https://zh.wikipedia.org/zh-hant/%E6%97%BA%E6%97%BA%E4%BD%B5%E8%B3%BC%E4%B8%AD%E6%99%82%E4%B8%AD%E5%A4%A9%E4%B8%AD%E8%A6%96%E4%BA%8B%E4%BB%B6) — Entri Wikipedia
 
-[^5]: [Tsai Eng-meng: Hadir Menerima 'Pemeriksaan Pemikiran'](https://news.ltn.com.tw/news/life/paper/581957) — Laporan Liberty Times
+[^5]: [Tsai Eng-meng: Hadir untuk Menerima 'Pemeriksaan Pemikiran'](https://news.ltn.com.tw/news/life/paper/581957) — Liputan Liberty Times
 
-[^6]: [Dari Taiwan: 'Pemeriksaan Pemikiran' Magnat Media](https://www.bbc.com/zhongwen/trad/taiwan_letters/2012/05/120510_twletter_byjameslin) — Laporan BBC News versi Cina
+[^6]: [Dari Taiwan: 'Pemeriksaan Pemikiran' Magnat Media](https://www.bbc.com/zhongwen/trad/taiwan_letters/2012/05/120510_twletter_byjameslin) — Liputan BBC News Bahasa Tionghoa
 
-[^7]: [Want Want Group Lakukan Sensor Diri Demi Keuntungan](https://www.peopo.org/news/91123) — Lihat tautan asli untuk detail lengkap
+[^7]: [Mengutamakan Keuntungan, Want Want Group Melakukan Sensor Diri](https://www.peopo.org/news/91123) — Lihat Tautan Asli untuk Detail Lengkap
 
-[^8]: [【Cerita Pak Want】'Direktur Want Usia 19 Tahun! Asal Usul Want Want: Yilan Foods - Bermula dari Kaleng Ikan!'](https://www.youtube.com/watch?v=Mdxcx5T1Sxs) — Rekaman video YouTube
+[^8]: [【Cerita Kakek Want】 'Ketua Want Berusia 19 Tahun! Asal Mula Want Want: Yilan Food - Bermula dari Kaleng Ikan!'](https://www.youtube.com/watch?v=Mdxcx5T1Sxs) — Rekaman Video YouTube
 
-[^9]: [Sejarah Perusahaan - Want Want Group](https://www.want-want.com/about/history) — Lihat tautan asli untuk detail lengkap
+[^9]: [Sejarah Perusahaan - Want Want Group](https://www.want-want.com/about/history) — Lihat Tautan Asli untuk Detail Lengkap
 
-[^10]: [Republik China Tidak Sama dengan 'Tiongkok' — Dialektika Hukum Terkait Pernyataan Want Want Group](https://tw.news.yahoo.com/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%B8%8D%E7%AD%89%E5%90%8C%E6%96%BC-%E4%B8%AD%E5%9C%8B-%E9%97%9C%E6%96%BC%E6%97%BA%E6%97%BA%E9%9B%86%E5%9C%98%E8%AA%AA%E6%B3%95%E7%9A%84%E6%B3%95%E5%BE%8B%E8%BE%AF%E8%AD%89-222000473.html) — Laporan Yahoo News
+[^10]: [Republik China Tidak Sama dengan 'Tiongkok' — Dialektika Hukum Terkait Pernyataan Want Want Group](https://tw.news.yahoo.com/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%B8%8D%E7%AD%89%E5%90%8C%E6%96%BC-%E4%B8%AD%E5%9C%8B-%E9%97%9C%E6%96%BC%E6%97%BA%E6%97%BA%E9%9B%86%E5%9C%98%E8%AA%AA%E6%B3%95%E7%9A%84%E6%B3%95%E5%BE%8B%E8%BE%AF%E8%AD%89-222000473.html) — Liputan Yahoo News
