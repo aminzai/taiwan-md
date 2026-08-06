@@ -103,8 +103,8 @@ TW_PATTERNS=(
 # inset-inline-start: 50% 在 RTL 會變成「從右邊算 50%」，配上固定方向的
 # translateX 反而偏移半個元素寬。置中沒有方向性，維持 physical 才對。
 ALLOWLIST=(
-  "src/components/Header.astro:1045|dropdown 置中：left:50% + translateX(-50%)"
-  "src/components/Header.astro:1092|dropdown 置中：left:50% + translateX(-50%)"
+  "src/components/Header.astro:1052|dropdown 置中：left:50% + translateX(-50%)"
+  "src/components/Header.astro:1099|dropdown 置中：left:50% + translateX(-50%)"
 )
 
 # ── 掛號中的債（受守護檔案裡「還沒還」的行）──────────────────────────────────
