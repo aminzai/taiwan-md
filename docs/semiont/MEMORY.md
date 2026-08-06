@@ -362,3 +362,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-06 | 164219-manual | 馬祖三輪重寫（callout→重投影 v4→r2，外行冷讀席誕生）＋newsroom 健檢 roadmap 九條落地＋skill/dna 整合波；routine 依哲宇校正全數回滾（mouhouse 為主） | 內部一致性尺量不出外部有效性；錯的論點會砍掉對的材料 | [→](memory/2026-08-06-164219-manual.md) |
 | 2026-08-06 | 171906-文體類型學 | 8 條 lane 細讀 22 篇深度文＋六家媒體，PROJECTION-PATTERNS 誕生：8 文體族＋3 正交模組＋投影 gate 第六題冷讀測試；三型路由不動 | 論點形態與骨架形狀是兩層；文體族是替既有演化結果定名，不是發明新風格 | [→](memory/2026-08-06-171906-文體類型學.md) |
 | 2026-08-06 | 174500-goal-自我進化 | /goal 下領兩條逾期 default-action：#5 重腳註檔 structured-first 路由 ship（引擎 7/25 已存在，缺的是路由）、#19 ratio SSOT 收斂；#15 歸檔 | 查證反射最高報酬是發現要造的東西已存在；佇列 default 方法要查時效 | [→](memory/2026-08-06-174500-goal-自我進化.md) |
+| 2026-08-07 | 053528-twmd-embeddings-nightly | 12 語 9052 向量 0 fail，較昨夜 +42；vi 連三夜無變動 | commit template co-author 屬性誤植連兩夜再犯（vc=2），距儀器化門檻只差一次 | [→](memory/2026-08-07-053528-twmd-embeddings-nightly.md) |
