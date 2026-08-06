@@ -366,3 +366,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-07 | 053754-twmd-routine-sync | 三層對賬第十四輪，18 條全 in-sync 零漂移；額外用 MCP 複核五條 enabled=false 皆對齊 ROUTINE.md §PAUSED 表 | 連續零漂移不是不用查的理由，是查完確認真的沒事 | [→](memory/2026-08-07-053754-twmd-routine-sync.md) |
 | 2026-08-07 | 061533-twmd-data-refresh-am | 14 步全綠零 stale，第十個連續全綠早晨；文章 884、本週新增 28；live-state rider 連兩天漂回 stale 補跑 | 主線太順時風險轉移到腳本外但職責內的步驟，同一 rider 連 2 天靠人工補跑該當儀器化訊號 | [→](memory/2026-08-07-061533-twmd-data-refresh-am.md) |
 | 2026-08-07 | 063603-twmd-spore-harvest-am | D+3 harvest 中止：Chrome MCP 連續 3 次回空清單，比前兩天更嚴重（完全未連線）；LESSONS vc 2→3 | 未登入跟未連線是不同斷點，只有前者被偵測；症狀薄時不貿然焊進前兩天故事線 | [→](memory/2026-08-07-063603-twmd-spore-harvest-am.md) |
+| 2026-08-07 | 072200-twmd-feedback-triage | 隊列空第七天；對賬揪出 61 筆 filed 只有 40 份 git 紀錄（6/11 justfont 21 連勘誤整批缺席八週），補齊並新增 archive-reconcile 閘門 | 收官數的是現有的檔，不拿另一邊的帳比，缺席永遠不會浮出來 | [→](memory/2026-08-07-072200-twmd-feedback-triage.md) |
