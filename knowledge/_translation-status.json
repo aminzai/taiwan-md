@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T10:07:01+08:00",
-    "zhCommitHead": "ba0fc9894",
+    "lastUpdated": "2026-08-06T10:52:36+08:00",
+    "zhCommitHead": "5949553d2",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -43,9 +43,9 @@
       },
       "es": {
         "total_zh": 883,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 20,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 15,
         "orphan": 0
       },
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 883,
-        "fresh": 631,
+        "fresh": 632,
         "stale": 4,
         "metadata_stale": 4,
-        "missing": 244,
+        "missing": 243,
         "orphan": 0
       },
       "ar": {
@@ -27175,8 +27175,8 @@
           "sourceContentHash": "sha256:6e2227266f254dbd",
           "sourceBodyHash": "sha256:c64c3872bb69a137",
           "translatedAt": "2026-08-05T23:40:55.291938+00:00",
-          "translationLastCommit": "11a9ed98",
-          "translationLastModified": "2026-08-04T17:31:53+08:00",
+          "translationLastCommit": "58f9b5d7",
+          "translationLastModified": "2026-08-06T10:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -28160,8 +28160,8 @@
       "zh": {
         "lastCommit": "1cf5c8dc",
         "lastModified": "2026-08-06T00:07:59+08:00",
-        "contentHash": "sha256:8b0b4f1b5093e628",
-        "bodyHash": "sha256:1c2241b73b74008f"
+        "contentHash": "sha256:a0ce47bc7f470dd6",
+        "bodyHash": "sha256:214a568369a41a24"
       },
       "translations": {
         "en": {
@@ -103852,18 +103852,16 @@
         "es": {
           "path": "es/History/martial-law-era.md",
           "translatedFrom": "History/戒嚴時期.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:7647443db6f06a5f",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "translatedAt": "2026-08-06T10:49:01+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/martial-law-era.md",
@@ -117147,8 +117145,8 @@
           "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
           "translatedAt": "2026-08-06T07:38:32+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "58f9b5d7",
+          "translationLastModified": "2026-08-06T10:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -117251,7 +117249,18 @@
           "diffSummary": "+17 -2"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/kinmen-county.md",
+          "translatedFrom": "Geography/金門縣.md",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
+          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
+          "translatedAt": "2026-08-06T07:38:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/kinmen-county.md",
