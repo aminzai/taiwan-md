@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T07:38:21+08:00",
-    "zhCommitHead": "83c9d6170",
+    "lastUpdated": "2026-08-06T09:22:37+08:00",
+    "zhCommitHead": "ec593b079",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 883,
-        "fresh": 836,
-        "stale": 19,
+        "fresh": 837,
+        "stale": 18,
         "metadata_stale": 12,
         "missing": 16,
         "orphan": 0
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 883,
-        "fresh": 537,
-        "stale": 7,
+        "fresh": 538,
+        "stale": 6,
         "metadata_stale": 6,
         "missing": 333,
         "orphan": 0
       },
       "pt": {
         "total_zh": 883,
-        "fresh": 807,
-        "stale": 14,
+        "fresh": 809,
+        "stale": 13,
         "metadata_stale": 5,
-        "missing": 57,
+        "missing": 56,
         "orphan": 0
       },
       "hi": {
@@ -91,16 +91,16 @@
       },
       "ar": {
         "total_zh": 883,
-        "fresh": 713,
-        "stale": 6,
+        "fresh": 716,
+        "stale": 4,
         "metadata_stale": 5,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "ru": {
         "total_zh": 883,
-        "fresh": 743,
-        "stale": 5,
+        "fresh": 744,
+        "stale": 4,
         "metadata_stale": 5,
         "missing": 130,
         "orphan": 0
@@ -8655,7 +8655,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:8fc0adba07db27e5",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-05T14:12:47.537672+00:00",
+          "translatedAt": "2026-08-05T23:45:41.950017+00:00",
           "translationLastCommit": "92d547c8",
           "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
@@ -21376,7 +21376,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/ptt-bulletin-board-system.md",
+          "translatedFrom": "Technology/PTT批踢踢.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:f28d98485199bc24",
+          "sourceBodyHash": "sha256:110038d2fb23bc2a",
+          "translatedAt": "2026-08-06T07:38:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/ptt-bulletin-board-system.md",
@@ -27160,16 +27171,16 @@
         "ja": {
           "path": "ja/Art/new-taipei-city-museum-of-art.md",
           "translatedFrom": "Art/新北市美術館.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:10e53513cef6450a",
-          "sourceBodyHash": "sha256:c5c8b0370d628478",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-08-05T23:40:55.291938+00:00",
           "translationLastCommit": "11a9ed98",
           "translationLastModified": "2026-08-04T17:31:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/new-taipei-city-museum-of-art.md",
@@ -27232,16 +27243,16 @@
         "id": {
           "path": "id/Art/new-taipei-city-museum-of-art.md",
           "translatedFrom": "Art/新北市美術館.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:ae965ccf6dfa996d",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-05T14:00:15.016917+00:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-08-05T23:41:27.731185+00:00",
           "translationLastCommit": "92d547c8",
           "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/new-taipei-city-museum-of-art.md",
@@ -27274,32 +27285,30 @@
         "ar": {
           "path": "ar/Art/new-taipei-city-museum-of-art.md",
           "translatedFrom": "Art/新北市美術館.md",
-          "sourceCommitSha": "1a3708b1e",
-          "sourceContentHash": "sha256:6437448f28af9601",
-          "sourceBodyHash": "sha256:c5c8b0370d628478",
-          "translatedAt": "2026-07-28T19:24:17+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-08-05T23:42:11.880321+00:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/new-taipei-city-museum-of-art.md",
           "translatedFrom": "Art/新北市美術館.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:10e53513cef6450a",
-          "sourceBodyHash": "sha256:c5c8b0370d628478",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-08-05T23:42:13.526942+00:00",
           "translationLastCommit": "b0a1dc89",
           "translationLastModified": "2026-08-04T17:31:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -28179,18 +28188,16 @@
         "pt": {
           "path": "pt/Art/matsu-biennial.md",
           "translatedFrom": "Art/馬祖國際藝術島.md",
-          "sourceCommitSha": "33deb7cf6",
-          "sourceContentHash": "sha256:7ed91655bf7dbf6e",
-          "sourceBodyHash": "sha256:886303e7465ef57e",
-          "translatedAt": "2026-08-05T16:59:05+08:00",
+          "sourceCommitSha": "1cf5c8dc5",
+          "sourceContentHash": "sha256:8b0b4f1b5093e628",
+          "sourceBodyHash": "sha256:1c2241b73b74008f",
+          "translatedAt": "2026-08-06T07:38:34+08:00",
           "translationLastCommit": "51394cf6",
           "translationLastModified": "2026-08-06T01:15:45+08:00",
           "inferred": false,
           "footnoteDefs": 44,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+42 -38"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -35319,7 +35326,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-low-birth-rate-crisis.md",
+          "translatedFrom": "Society/台灣少子化危機.md",
+          "sourceCommitSha": "d96dbc4bb",
+          "sourceContentHash": "sha256:22f624258f9ada15",
+          "sourceBodyHash": "sha256:be7b46d45d345648",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 73,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-low-birth-rate-crisis.md",
@@ -35896,8 +35914,8 @@
           "sourceContentHash": "sha256:cc5bd7cfca8af637",
           "sourceBodyHash": "sha256:073e34a439566b72",
           "translatedAt": "2026-08-05T16:59:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "872d4def",
+          "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -45370,8 +45388,8 @@
           "sourceContentHash": "sha256:39eab6090a3c571e",
           "sourceBodyHash": "sha256:831b02af043591c7",
           "translatedAt": "2026-08-05T16:59:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "872d4def",
+          "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -76530,8 +76548,8 @@
           "sourceContentHash": "sha256:0b4776a25d38b2ed",
           "sourceBodyHash": "sha256:126c0129a0743d8a",
           "translatedAt": "2026-08-05T16:59:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "872d4def",
+          "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -108580,8 +108598,8 @@
           "sourceContentHash": "sha256:a28bcadbb01460c5",
           "sourceBodyHash": "sha256:fdd1a6127fff34df",
           "translatedAt": "2026-08-05T16:59:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "872d4def",
+          "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -114875,18 +114893,16 @@
         "ar": {
           "path": "ar/Geography/lienchiang-county.md",
           "translatedFrom": "Geography/連江縣.md",
-          "sourceCommitSha": "2f3bfdbf7",
-          "sourceContentHash": "sha256:8ae350615e660491",
-          "sourceBodyHash": "sha256:2da5583381fa39ad",
-          "translatedAt": "2026-07-27T22:12:17+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:d4c098241e462d40",
+          "sourceBodyHash": "sha256:80a9df00758fba97",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/lienchiang-county.md",
@@ -117548,8 +117564,8 @@
           "sourceContentHash": "sha256:0275e27f1a1e4e68",
           "sourceBodyHash": "sha256:c3a7643c439033af",
           "translatedAt": "2026-08-05T16:59:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "872d4def",
+          "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
