@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T10:52:36+08:00",
-    "zhCommitHead": "5949553d2",
+    "lastUpdated": "2026-08-06T11:30:25+08:00",
+    "zhCommitHead": "5914954aa",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -27,10 +27,10 @@
       },
       "ja": {
         "total_zh": 883,
-        "fresh": 838,
+        "fresh": 839,
         "stale": 18,
         "metadata_stale": 11,
-        "missing": 16,
+        "missing": 15,
         "orphan": 0
       },
       "ko": {
@@ -67,9 +67,9 @@
       },
       "id": {
         "total_zh": 883,
-        "fresh": 539,
+        "fresh": 540,
         "stale": 6,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 332,
         "orphan": 0
       },
@@ -91,9 +91,9 @@
       },
       "ar": {
         "total_zh": 883,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 4,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 158,
         "orphan": 0
       },
@@ -28160,15 +28160,26 @@
       "zh": {
         "lastCommit": "1cf5c8dc",
         "lastModified": "2026-08-06T00:07:59+08:00",
-        "contentHash": "sha256:a0ce47bc7f470dd6",
-        "bodyHash": "sha256:214a568369a41a24"
+        "contentHash": "sha256:f72cd3f91ccaeec6",
+        "bodyHash": "sha256:c0a43ed8b2e735aa"
       },
       "translations": {
         "en": {
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Art/matsu-biennial.md",
+          "translatedFrom": "Art/馬祖國際藝術島.md",
+          "sourceCommitSha": "1cf5c8dc5",
+          "sourceContentHash": "sha256:8b0b4f1b5093e628",
+          "sourceBodyHash": "sha256:1c2241b73b74008f",
+          "translatedAt": "2026-08-06T07:38:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -103856,8 +103867,8 @@
           "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
           "translatedAt": "2026-08-06T10:49:01+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "bbf53e27",
+          "translationLastModified": "2026-08-06T10:52:37+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -117219,18 +117230,16 @@
         "id": {
           "path": "id/Geography/kinmen-county.md",
           "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-26T03:41:22+08:00",
+          "translatedAt": "2026-08-06T07:38:33+08:00",
           "translationLastCommit": "475cf65e",
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/kinmen-county.md",
@@ -117265,18 +117274,16 @@
         "ar": {
           "path": "ar/Geography/kinmen-county.md",
           "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-26T23:53:51+08:00",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/kinmen-county.md",
