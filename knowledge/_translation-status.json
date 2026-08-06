@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T15:03:11+08:00",
-    "zhCommitHead": "5f890abf9",
+    "lastUpdated": "2026-08-06T15:31:32+08:00",
+    "zhCommitHead": "9ba6c7601",
     "totalZh": 886,
     "activeLanguages": [
       "en",
@@ -27,9 +27,9 @@
       },
       "ja": {
         "total_zh": 886,
-        "fresh": 841,
+        "fresh": 842,
         "stale": 17,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
       },
@@ -67,17 +67,17 @@
       },
       "id": {
         "total_zh": 886,
-        "fresh": 542,
-        "stale": 5,
+        "fresh": 544,
+        "stale": 4,
         "metadata_stale": 4,
-        "missing": 335,
+        "missing": 334,
         "orphan": 0
       },
       "pt": {
         "total_zh": 886,
-        "fresh": 809,
+        "fresh": 810,
         "stale": 13,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 59,
         "orphan": 0
       },
@@ -91,17 +91,17 @@
       },
       "ar": {
         "total_zh": 886,
-        "fresh": 719,
+        "fresh": 721,
         "stale": 3,
-        "metadata_stale": 4,
-        "missing": 160,
+        "metadata_stale": 3,
+        "missing": 159,
         "orphan": 0
       },
       "ru": {
         "total_zh": 886,
-        "fresh": 748,
-        "stale": 4,
-        "metadata_stale": 5,
+        "fresh": 750,
+        "stale": 3,
+        "metadata_stale": 4,
         "missing": 129,
         "orphan": 0
       }
@@ -7357,8 +7357,8 @@
           "sourceContentHash": "sha256:cf4597f30d7e7bcc",
           "sourceBodyHash": "sha256:a8d57592acf3e770",
           "translatedAt": "2026-08-06T14:56:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ba6c760",
+          "translationLastModified": "2026-08-06T15:03:11+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -10075,7 +10075,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/circular-economy-and-resource-recycling.md",
+          "translatedFrom": "Economy/台灣循環經濟與資源再利用.md",
+          "sourceCommitSha": "f944f63b4",
+          "sourceContentHash": "sha256:7712a9730a5b61ed",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-06T07:20:38.919277+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/circular-economy-and-resource-recycling.md",
@@ -20394,7 +20405,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-audio-industry-development.md",
+          "translatedFrom": "Technology/台灣音響產業發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:807f358c49a8e2a5",
+          "sourceBodyHash": "sha256:ed41f6caa1b5d8ba",
+          "translatedAt": "2026-08-06T07:38:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-audio-industry-development.md",
@@ -27172,18 +27194,16 @@
         "id": {
           "path": "id/Art/taiwanese-curators-and-artistic-cultural-construction.md",
           "translatedFrom": "Art/台灣策展人與藝術文化建構.md",
-          "sourceCommitSha": "f99a9959c",
-          "sourceContentHash": "sha256:01e74babf94ac8da",
-          "sourceBodyHash": "sha256:859c873057ee681d",
-          "translatedAt": "2026-07-25T01:31:52+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:9ea16a828e45af61",
+          "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
+          "translatedAt": "2026-08-06T07:04:38.693390+00:00",
           "translationLastCommit": "597a2eac",
           "translationLastModified": "2026-07-25T02:46:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-curators-and-artistic-cultural-construction.md",
@@ -44809,18 +44829,16 @@
         "ja": {
           "path": "ja/Society/inclusive-travel-taiwan.md",
           "translatedFrom": "Society/台灣全齡共融旅遊與生活文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:8a4d3295bf443494",
-          "sourceBodyHash": "sha256:be2327c5c3e0748e",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:e1d1118d9876ba11",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-06T07:08:01.502099+00:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/inclusive-travel-taiwan.md",
@@ -104139,18 +104157,16 @@
         "pt": {
           "path": "pt/History/martial-law-era.md",
           "translatedFrom": "History/戒嚴時期.md",
-          "sourceCommitSha": "9ecd20d61",
-          "sourceContentHash": "sha256:7647443db6f06a5f",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "translatedAt": "2026-08-06T07:38:34+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/martial-law-era.md",
@@ -104171,34 +104187,30 @@
         "ar": {
           "path": "ar/History/martial-law-era.md",
           "translatedFrom": "History/戒嚴時期.md",
-          "sourceCommitSha": "9ecd20d61",
-          "sourceContentHash": "sha256:7647443db6f06a5f",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
-          "translatedAt": "2026-07-28T17:22:22+08:00",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/martial-law-era.md",
           "translatedFrom": "History/戒嚴時期.md",
-          "sourceCommitSha": "9ecd20d61",
-          "sourceContentHash": "sha256:7647443db6f06a5f",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
-          "translatedAt": "2026-07-28T08:53:36+08:00",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
           "translationLastCommit": "eed6fc9f",
           "translationLastModified": "2026-07-28T09:57:48+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -114359,18 +114371,16 @@
         "ru": {
           "path": "ru/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:a5ce1cc1637b843d",
-          "sourceBodyHash": "sha256:3262816e651d35d1",
-          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:61916e4f91798262",
+          "sourceBodyHash": "sha256:b069d77bfe98ff54",
+          "translatedAt": "2026-08-06T07:17:41.141114+00:00",
           "translationLastCommit": "a7bdcea4",
           "translationLastModified": "2026-07-25T23:36:19+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
