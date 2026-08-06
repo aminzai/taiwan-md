@@ -332,6 +332,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-06 manual（newsroom 健檢）— degradation-logged-daily-never-escalated：routine 如實記錄了 35% 斷崖十一天，因為 gate 量的是新鮮不是合理
+
+- **pattern**: `degradation-logged-daily-never-escalated`
+- **原則**：daily routine 的 freshness gate 只驗「JSON 是不是今天產的」（mtime），不驗「數字合不合理」（覆蓋率 sanity）。於是一個 -35% 的斷崖（newsroom 上板 270→176，成因：月槽視窗髮引滑動，當月第一個研究檔 commit 瞬間踢掉最舊整月）被每天如實記錄成普通數據點，11 天無一次升級為異常。**「記錄了」≠「看見了」**：對照組是同期免疫評分 60→57 的小鬆動被明確標記「首次鬆動，值得診斷型 routine 接手」——差別不在 routine 勤勞度，在**該指標有沒有預先定義的 delta 閾值**。判準候選：任何進 daily memory 的計數型指標，都要有「較前次 ±X% 即標記 alert」的機械閾值，否則 routine 只是抄表員。
+- **觸發**：2026-08-06 哲宇 directive newsroom 健檢。`docs/semiont/memory/2026-08-04-061404-twmd-data-refresh-am.md` 起連續記錄 176/180/182 無人反應；完整診斷 `reports/newsroom-organ-audit-2026-08-06.md` §2.3 盲點 A。
+- **可能層級**：候選 REFLEXES（sensor 判讀家族的新維度）或 refresh-data.sh Step 11 gate 直接加 delta 閾值（儀器化修法，一次到位）。
+- **相關**：REFLEXES #82（sensor delta 判讀鐵律——本條是它的缺席後果實證）、REFLEXES 存活≠生產 (f) 變體（「JSON 是今天的」= 存活，「數字合理」= 生產，freshness gate 混維度）、#69 (g)（form gate ≠ meaning gate 在 routine 監控層的形狀）。
+- **verification_count**: 1
+
+### 2026-08-06 manual（newsroom 健檢）— remedy-compliance-unmeasured：規則寫進十個 contract 逐字一致，遵循率 5%，而且沒有任何機制在量遵循率
+
+- **pattern**: `remedy-compliance-unmeasured`
+- **原則**：REFLEXES #56 講 canonical↔production drift，但本例是它的銳角變體：**這條規則本身就是一次診斷開出的藥方**（2026-07-26 v9.5 診斷「stage 產物不落 commit」根因 → HANDOFF 第 3 步「每 stage 跑 generate ＋隨手 commit」寫進全部 10 個 stage contract 逐字一致），而藥方 ship 之後**沒有任何機制量測藥有沒有被吃**——實測 43 個 rewrite commit 只有 2 個遵守（~5%），撐住系統的是每日 routine 兜底，v9.5 想量的每站真實 wall-clock 已被隔夜補登污染。寫規則的成本花了（10 檔同步維護），規則的效果沒發生，而且這個落差本身 20 天無人知曉。判準候選：**任何為修根因而立的新 SOP，ship 時要同時決定「誰、多久量一次遵循率」**——量不了就改成自動化（hook）或誠實降級（兜底即可），不留「沒人遵守的鐵律」。
+- **觸發**：2026-08-06 newsroom 健檢，歸檔迴路稽核席實測 2/43；完整報告 `reports/newsroom-organ-audit-2026-08-06.md` §三。本 session 自己 8/5-8/6 的馬祖工作正是失遵大宗（事後補登 10-36 小時），如實記錄。
+- **可能層級**：候選 REFLEXES（#56 新維度）；操作面二選一待哲宇拍板（roadmap #7：減法承認 daily 兜底 vs post-commit hook 自動化）。
+- **相關**：REFLEXES #56（dormant entropy——本條加上「藥方自身的 compliance 也是 drift 面」維度）、#63（routine prompt 是 cron 唯一指令面：HANDOFF 依賴 session 自覺，正是最弱的執行面）、#15（反覆浮現要儀器化——遵循率本身該被儀器化）。
+- **verification_count**: 1
+
 ### 2026-08-06 manual（馬祖國際藝術島 REWRITE）— self-consistent-gates-miss-reader-comprehension：八把意義尺共用同一個錯前提，於是一起全綠
 
 - **pattern**: `self-consistent-gates-miss-reader-comprehension`
