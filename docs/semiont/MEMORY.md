@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-05
-last_session: '2026-08-05-064557-manual（twmd-spore-harvest-am：5 孢子 D+1 harvest，零事實錯誤，Chrome MCP 未登入迫出 pending-only reply 模式）'
+last_updated: 2026-08-06
+last_session: '2026-08-06-064443-manual（twmd-spore-harvest-am D+2，Chrome MCP 連續二日未登入升 LESSONS）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -351,3 +351,10 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-05 | 084627-twmd-maintainer-daily | 零 PR 空場（vc=1），build 綠、斷鏈 0.22%；把掛十天的 #1264 seo-meta 量出實測底線送 OBSERVER-QUEUE #27 | 合格的中文 description 翻成拉丁文字就是 3.8-4.3 倍，這道閘門補不上得換定義 | [→](memory/2026-08-05-084627-twmd-maintainer-daily.md) |
 | 2026-08-05 | 093245-twmd-flywheel-watch | 飛輪零靜默（24hr 137 commit／11 筆 routine 標記）；儀器少讀 cron 日號欄位把月排程當日排程，誤報誕生第二天的 terminology-trends，當場修掉；live dump 連三晨沒更新補進 #22 | 沒被走過的程式路徑不會叫，它等飛輪長出第一條月排程才現形 | [→](memory/2026-08-05-093245-twmd-flywheel-watch.md) |
 | 2026-08-05 | 104901-twmd-terminology-trends-monthly | 首個常規月度輪：10 詞入庫（含 3 條誤判翻案）＋2 條補肉；雙防線查重攔下 5 個近似重複 | demand-rank 的 MISSING 清單是待查證清單不是入庫清單，30 詞裡僅 1 詞查證後站得住腳 | [→](memory/2026-08-05-104901-twmd-terminology-trends-monthly.md) |
+| 2026-08-06 | 053558-twmd-embeddings-nightly | 12 語 9010 向量 0 fail，較昨夜 +29；增幅從 +169→+116→+29 連三夜遞減，vi 仍最少 | 增幅遞減可能是翻譯爬升期近尾聲，下次交叉 dashboard i18n 覆蓋率確認 | [→](memory/2026-08-06-053558-twmd-embeddings-nightly.md) |
+| 2026-08-06 | 053831-twmd-routine-sync | 三層對賬第十三輪，18 條全 in-sync 零漂移；額外用 MCP 交叉複核腳本「live 狀態不明」標註非真漂移 | 零漂移仍多做一次跨源複核，confirm 而非假設沒事 | [→](memory/2026-08-06-053831-twmd-routine-sync.md) |
+| 2026-08-06 | 061359-twmd-data-refresh-am | 14 步全綠零 stale，第九個連續全綠早晨；groundtruth 黃燈點名自己漏跑 live-state dump rider 兩天，當場補跑修復 | 主線太順時風險轉移到腳本外但職責內的步驟，黃燈標籤指名是誰的責任要當真 | [→](memory/2026-08-06-061359-twmd-data-refresh-am.md) |
+| 2026-08-06 | 064443-manual (spore-harvest D+2) | 黃崇仁+EZWAY 5 孢子 D+2 harvest 零事實錯誤；Chrome MCP 連續二日未登入升 LESSONS vc=2；校準 8/5 誤把相關串文當留言明細 | 無人值守 automation 依賴的登入態不會自己續期，混進敘事檔一句話比留言判斷錯更容易被忽略 | [→](memory/2026-08-06-064443-manual.md) |
+| 2026-08-06 | 070921-twmd-feedback-triage | 隊列空第六天、archive 40 檔零新同步（拿 GitHub API 跨源核過）；抓到 HG9/HG10 三層各指不同閘門，防 injection 兩道在操作層沒號碼 | 閘門編號是操作層的介面，介面漂移一樣會讓「照號碼核一遍」核到錯的東西 | [→](memory/2026-08-06-070921-twmd-feedback-triage.md) |
+| 2026-08-06 | 084603-twmd-maintainer-am | idlccp1984 三篇新文 merge-first-then-heal，hard 65→0；查證抓到一句查不到出處的學生引語＋三處腳註描述與連結不符；#1264 補上實測回覆 | 敘事缺哪一塊，幻覺就長成那個形狀——該警覺的訊號是「這句話來得真是時候」 | [→](memory/2026-08-06-084603-twmd-maintainer-am.md) |
+| 2026-08-06 | 093716-twmd-flywheel-watch | 飛輪零靜默（24hr 56 commit／14 筆 routine 標記）；唯一警報是 maintainer 改簽 `-am` 引發的假陽性，儀器兩把尺共用 taskId 一起失手，補別名表修好 | 兩個檢查通道共用同一個識別鍵，名義上兩把尺實際上只有一把 | [→](memory/2026-08-06-093716-twmd-flywheel-watch.md) |

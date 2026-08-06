@@ -42,6 +42,11 @@ routine 一個月有 29 天被誤報靜默（2026-08-05 terminology-trends 首�
 handle。兩把都不中才算靜默——只認 commit tag 會把「跑完但 commit 沒帶 taskId」誤報成
 死亡（2026-07-26 distill-weekly 首例）。
 
+兩把尺都以 taskId 為鍵，所以 routine 改用語意名簽名時會一起失手：2026-08-06 maintainer
+merge 了三篇 PR、commit 與收官索引列都在，只因兩處都寫 `twmd-maintainer-am` 而非 taskId
+`twmd-maintainer-daily`（ROUTINE.md 註 ¹ 說的那個歷史殘留後綴），被報成靜默。`TASKID_ALIASES`
+只收 SSOT 自己寫明是同一條的別名。
+
 「有沒有留下痕跡」是效果的代理指標而非效果本身：空場 cycle（真的跑了但沒事可做）在
 這裡看起來跟死掉一樣。所以單條靜默只給 WARN，要不要當死掉看它上次 fire 時間再判；
 只有「整體零筆」才升 CRITICAL。這條限制是刻意的——把它做成零假陽性需要讀排程器的
@@ -77,7 +82,21 @@ COMMIT_TYPE_PREFIXES = {
     "memory",
     "rewrite",
 }
+# taskId 跟它的語意名不總是同一個字。`twmd-maintainer-daily` 這個 taskId 語意上是「am
+# 那班」（ROUTINE.md 註 ¹ 與 ²²：排程器不支援 taskId 改名，後綴是歷史殘留），所以 routine
+# session 很自然會用 `twmd-maintainer-am` 去落 commit 標題跟 session-id。兩把尺都以 taskId
+# 為鍵，於是 2026-08-06 那天 maintainer 明明 merge 了三篇 PR、也寫了收官索引列，仍被報成
+# 靜默。別名在這裡收斂回 taskId——不動營運機的排程，也不要求那條 routine 改簽名。
+# 只收「SSOT 自己就寫明是同一條」的別名，不做 -am/-pm/-daily 泛化：`twmd-maintainer-pm`
+# 是另一條（已退休）routine，泛化會讓它的痕跡去頂替 daily 的班。
+TASKID_ALIASES = {
+    "twmd-maintainer-am": "twmd-maintainer-daily",
+}
 
+
+def canonical_task_id(name):
+    """把 routine 簽名用的語意名收斂回排程表上的 taskId。"""
+    return TASKID_ALIASES.get(name, name)
 
 
 def local_node_name():
@@ -156,7 +175,11 @@ def memory_index_handles(window_start, now):
         except ValueError:
             continue
         if window_start <= stamp <= now:
-            hits.add(handle if handle.startswith("twmd-") else f"twmd-{handle}")
+            hits.add(
+                canonical_task_id(
+                    handle if handle.startswith("twmd-") else f"twmd-{handle}"
+                )
+            )
     return hits
 
 
@@ -295,10 +318,12 @@ def main():
         slug = m.group(1)
         task_in_subject = re.search(r"twmd-[a-z0-9-]+", l)
         if task_in_subject:
-            fired.add(task_in_subject.group(0))
+            fired.add(canonical_task_id(task_in_subject.group(0)))
         elif slug not in COMMIT_TYPE_PREFIXES:
-            fired.add(slug if slug.startswith("twmd-") else f"twmd-{slug}")
-    mentioned = set(re.findall(r"twmd-[a-z0-9-]+", log))
+            fired.add(
+                canonical_task_id(slug if slug.startswith("twmd-") else f"twmd-{slug}")
+            )
+    mentioned = {canonical_task_id(n) for n in re.findall(r"twmd-[a-z0-9-]+", log)}
 
     enabled = parse_enabled_routines()
     now = datetime.now(timezone.utc).astimezone()

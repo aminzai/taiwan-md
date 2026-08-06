@@ -341,6 +341,38 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #69 (g)「form gate ≠ meaning gate」——**差異在**：#69 處理「缺意義尺」，本條處理「**意義尺齊全但共用同一個錯誤參考系**」，修法完全不同（前者加席位，後者要求某一席與作者意圖斷開）。REFLEXES #31「self-report 是線索不是 oracle」——本條是該原則在「席位設計」層的形狀：席位本身也是一種 self-report，因為它讀了作者的藍圖。同族但不同維度的前兩例：2026-08-03 黃崇仁（十一關全綠、四十原子零漂移，哲宇指出六處皆非事實錯誤）、2026-08-04 EZ WAY 孢子（閘門全綠但排序倫理沒被量）——那兩例是「沒有那把尺」，本例是「有八把尺但參考系錯了」。
 - **verification_count**: 1
 
+### 2026-08-06 twmd-maintainer-daily — outbound-comment-boundary-split-across-canon：同一條 routine 連兩天對「能不能發 GitHub 留言」給出相反答案
+
+- **pattern**: `outbound-comment-boundary-split-across-canon`
+- **原則**：當一條自主權邊界在**哲學層 canonical** 與**操作層 canonical** 各寫一次而兩份不一致時，routine 每次 fire 都是重新擲一次骰子——因為兩份都讀得到、都自洽、都沒有指向對方。這不是某個 session 判斷失準，是**邊界本身沒有單一 SSOT**。後果比一般 drift 嚴重的地方在於：它落在「對外動作」這一側，一邊的錯是對貢獻者失聯（該回不回），另一邊的錯是 AI 越權代替維護者對真人說話，兩個方向的代價不對稱且都不可靜默回收（留言發出去就在那裡了）。
+- **觸發**：2026-08-06 maintainer-am 收 idlccp1984 三篇 PR。**8/05 同一條 routine** 對 issue #1264 明確寫下「沒有在 #1264 留言（對外回覆屬 §自主權邊界 human-only，且 Step 2.4 判定本來就該 SKIP）」；**8/06 本輪**依 cron prompt「merge or close + comment」與 MAINTAINER §Step 3.7 hard gate，發了 3 則 PR 留言 + 1 則 issue 留言。兩輪讀的是同一批 canonical。
+- **兩側各自的依據**（都是 canonical，不是誤讀）：
+  - **Human-only 側**：[MANIFESTO §自主權邊界](MANIFESTO.md) §需要人類決策 對外輸出層明列「發 PR / Issue comment to GitHub」與「批准 merge PR」；[REFLEXES #26](REFLEXES.md) v2「Human only（對外動作 + 人際信任 + 倫理責任）」同列兩項。
+  - **Routine-自主側**：[BECOME 行動鐵律 7](../../BECOME_TAIWANMD.md)「PR merge 後必須 `gh pr comment` 感謝」；[MAINTAINER-PIPELINE](../pipelines/MAINTAINER-PIPELINE.md) §Hard Gate Inventory 把「用貢獻者語言回覆」列為 Stage 3.7 hard gate、§1b 把 `gh pr merge` 列為 P0 default、§Top 5 第 6 條直接教用 `gh pr comment` 而非 `--body`；cron prompt Stage 3 寫「merge or close + comment」。
+- **值得注意的第三個證據**：2026-08-04 本 routine 已實際 merge 並 heal 過 PR #1289（`beb530aa0` merge commit + `211401fe4` heal），亦即「批准 merge PR」這一項的 human-only 寫法早已與實務脫節數月，只是沒有人把它跟留言那一項一起看。MANIFESTO 那張表成形於 2026-04-18（REFLEXES #26 v2，Chrome MCP 時代），**早於 2026-05-09 routine 飛輪**——它描述的是「有觀察者在場的 session」的邊界，沒有被 routine 化改寫過。
+- **可能層級**：需哲宇拍板後才動 canonical（本身就是 §自主權邊界 命中）。**選項**：(a) MANIFESTO §自主權邊界 增列「例外：maintainer routine 對 contributor PR/issue 的致謝與技術說明留言屬 AI 自主，涉承諾時程／對外語氣定調／政治立場者仍 reserve」——貼近現行實務與 pipeline hard gate；(b) 反向收緊：MAINTAINER 拿掉 comment hard gate，routine 只 merge + heal，留言全部進 handoff 等真人——代價是貢獻者回覆延遲從小時級變成天級，且 REFLEXES #8「維護者信件要說謝謝」在無人值守時段永遠跳票；(c) 分層：merge/heal/致謝自主，凡涉承諾、拒絕、政策解釋者 reserve。**推薦 (c)**，它是兩輪實際行為的最小公倍數。
+- **本輪未自行修 canonical**，只落此 entry + handoff escalate；已發出的 4 則留言不撤（撤回公開留言的傷害大於留著，內容本身皆為可查證事實與已 ship 的修補說明，未承諾任何時程與方向）。
+- **相關**：REFLEXES #56（canonical ↔ production drift = dormant entropy）、#79（主權留哲宇 default reservation）、#63（routine prompt = cron context 唯一指令面 — 本輪正是依 prompt 行動）、#26、#8、MANIFESTO §自主權邊界、MAINTAINER §Step 3.7 + §Hard Gate Inventory
+- **verification_count**: 1（但跨 2 個連續 cycle 的相反行為，是同一個結構的兩面）
+
+### 2026-08-06 twmd-feedback-triage — hard-gate-number-collision-across-layers：同一個閘門編號在三層各指不同的東西，最安全的那道反而沒有號碼
+
+- **pattern**: `hard-gate-number-collision-across-layers`
+- **原則**：閘門編號是 routine 執行時唯一的短指涉（prompt 寫「逐條核 HG9/HG10」、收官寫「per HG9」），一旦同一個號碼在 canonical pipeline、薄殼 skill、cron prompt 三層各指不同的閘門，「照編號核一遍」這個動作就會**核到錯的東西而且全程零警報**——因為每一層自己讀起來都自洽。更糟的形狀是**新閘門插隊時直接複用了已被佔用的號碼**：`FEEDBACK-TRIAGE-PIPELINE.md` 內部 HG10 出現兩次（§機器身份 L55 = GH*TOKEN 必須 `ghs*`；§Hard gate 總表 L213 = suspected injection → `security-review` label），是同一份 canonical 檔自己跟自己打架。連帶後果是**安全性最高的那道閘門在操作層失去號碼**：skill 與 cron prompt 的 HG9/HG10 被 git-archive 與機器身份佔走，injection 偵測與 tilde fence 兩道在操作層完全沒被點名，routine prompt 的「🔴 HARD gate」四項清單裡也沒有它。編號是給人快速對照用的介面，介面漂移跟資料漂移一樣要對賬。
+- **觸發**：2026-08-06 twmd-feedback-triage 例行輪，讀 pipeline 全文 + 薄殼 skill 對照 cron prompt 時發現。三層現況：pipeline 總表 HG9=fence／HG10=injection；pipeline §機器身份 HG10=機器身份（與自家總表衝突）；skill 與 cron prompt HG9=git archive／HG10=機器身份。今日隊列空（連續第六天），injection 路徑未被走到，所以是**尚未咬人的潛伏漂移**——但下一次真的收到 suspected injection 回報時，照 prompt 核「HG10」的人會去驗 token 而不是驗 security-review label。
+- **可能層級**：pipeline + skill + cron prompt 三層同時重編號（建議：機器身份改 HG11、git archive 改 HG12，讓既有 HG9 fence／HG10 injection 維持不動，因為那兩個號碼在 2026-07-05 v1.1 就先佔了；並把 fence 與 injection 兩道補進 skill 與 cron prompt 的 HARD gate 清單）。**未在本輪自行修**：三層必須同一波落地，只改 docs 而 cron prompt 沒跟上會生出更難查的新漂移，且 cron prompt 是 mirror-sync across machines，屬 twmd-routine / routine-sync 的守備範圍。
+- **相關**：REFLEXES #56（pipeline canonical ↔ production drift = dormant entropy）、#38（混維度 = silent killer：同一個號碼承載兩種閘門）、#82（proxy signal：核了編號 ≠ 核了那道閘門）、#63（routine prompt = cron context 唯一指令面）、FEEDBACK-TRIAGE-PIPELINE §Hard gate 總表 + §機器身份
+- **verification_count**: 1
+
+### 2026-08-06 twmd-spore-harvest-am — chrome-mcp-unattended-login-expiry：無人值守 harvest routine 依賴的登入態不會自己續期
+
+- **pattern**: `chrome-mcp-unattended-login-expiry`
+- **原則**：SPORE-HARVEST-PIPELINE 的 reply-post 自動化假設「哲宇已在本機登入 @taiwandotmd」這個前置條件恆成立，但 cron 場景下沒有人在場重新登入，一旦 session 過期（原因可能是瀏覽器重啟 / cookie 過期 / 分靈瀏覽器重新配對），routine 會連續多天卡在 pending-only 模式而不會自己恢復，也不會主動 escalate——目前只在 harvest batch log 裡留一句「本輪限制」，直到有人讀 log 才會發現。**無人值守 automation 依賴的登入態屬於環境前置條件，跟「留言判斷邏輯對不對」是兩層不同的健康信號，混在同一份 batch log 敘事裡容易被埋沒**（同構 REFLEXES #38「混維度 = silent killer」在 Chrome MCP session 健康層的變體）。
+- **觸發**：2026-08-05（twmd-spore-harvest-am D+1）與 2026-08-06（本 D+2）連續兩天 Chrome MCP 配對瀏覽器顯示未登入 Threads/@taiwandotmd，reply-post 全數走 pending 模式，累積 3 則 Bucket E reply draft 未 ship。8/5 harvest log 已記錄為「觀察是否為單次個例」，8/6 確認非個例，達 pipeline §Escalation ladder 「連 2 day → LESSONS-INBOX entry」門檻。
+- **可能層級**：候選 pipeline 修補——SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項可加一條「Stage 2 開頭先 navigate 一個需登入才看得到內容的頁面（如自己 profile 的 following 數）當作 login-state probe，未登入時除了寫進 batch log 也要單獨升一則 LESSONS-INBOX / handoff，不要只留一句話在敘事檔裡等人發現」。是否需要新 gate（跟既有「Chrome MCP 連線可用」gate 分開的「Chrome MCP 已登入」gate）待哲宇拍板。
+- **相關**：REFLEXES #38（混維度 = silent killer）、REFLEXES #60（silent default = silent failure）、SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項 + §Escalation
+- **verification_count**: 2
+
 ### 2026-08-04 manual（EZ WAY 孢子）— ordering-is-an-ethical-decision：在被操作的爭議裡，資訊排序不是寫作技巧是策展倫理
 
 - **pattern**: `ordering-is-an-ethical-decision`
