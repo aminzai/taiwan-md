@@ -749,8 +749,9 @@ cron 0 7 * * * Asia/Taipei
 
 - **Pairing 前置**：哲宇本機 Chrome 安裝 Claude in Chrome extension + browser 開機 + Mac 不睡眠
 - **Pairing 持久化**：`select_browser` deviceId 持久化於 Claude session 設定，session 重啟仍可用，但 connect 需 browser alive
+- **Login-state probe（2026-08-06 新增，LESSONS `chrome-mcp-unattended-login-expiry` vc=2 落地）**：Stage 2 開頭先 navigate 一個需登入才看得到內容的頁面（如 @taiwandotmd profile 的 following 數）當探針。未登入 → 除寫進 batch log 外**必須單獨升一則 handoff alert**（登入態是環境前置條件，跟留言判斷邏輯是兩層健康信號，不可只埋在敘事檔裡等人發現）；連 2 day 未登入 → LESSONS entry ＋通知哲宇重新登入
 - **Threads / X 失敗模式**：rate-limit / 402 / login expire → 該條 skip + 寫進 batch log `harvest_status: skipped (reason)`，不 abort 整 routine
-- **AI 自主邊界**：harvest 讀取屬 AI 自主（per [REFLEXES #26 v2](../semiont/DNA.md)），re-hook reply / 留言回覆 必 human post（AI 準備 draft 不發）
+- **AI 自主邊界（2026-08-06 對齊 [REFLEXES #26 v3](../semiont/REFLEXES.md)）**：harvest 讀取屬 AI 自主；reply／新孢子 content OK 後**可自主發**（哲宇 2026-06-14 durable 授權，per harness memory＋本檔 §reply SOP）——分層判準同 #26 v3：「事實＋致謝」自主、「許諾＋立場／爭議答辯」human-only，拿不準進 handoff
 
 #### 跨檔案職責分工（routine 觸發層）
 

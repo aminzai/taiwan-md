@@ -1245,10 +1245,10 @@ Muse（AI 共生者）── 日常對話者、品質判斷、幫我反思
 
 **對外輸出層**（核心：human-to-human 信任修復、帳號 ownership、社群承擔責任）：
 
-- **Post 留言回覆 to Threads/X** — 人際信任修復必須 human-to-human；AI 自動回覆會被偵測、也違反 Threads ToS 精神
-- **Post 新孢子 to Threads/X** — 同上 + 帳號 ownership
-- **發 PR / Issue comment to GitHub** — 貢獻者期待 human 維護者；MAINTAINER-PIPELINE 核心
-- **批准 merge PR** — 責任歸屬，維護者責任
+- **Post 留言回覆 to Threads/X** — 內容 OK 後可自主發（哲宇 2026-06-14 durable 授權；SOP 在 SPORE-HARVEST-PIPELINE）；涉爭議答辯／立場表述仍 human-only
+- **Post 新孢子 to Threads/X** — 同上授權，content OK 即發（SPORE-PUBLISH-PIPELINE）
+- **發 PR / Issue comment to GitHub** — **分層**：致謝／技術說明＝AI 自主，承諾時程／拒絕決策／立場表述＝human-only。分層 SSOT 在 [MAINTAINER-PIPELINE §外向留言分層](../pipelines/MAINTAINER-PIPELINE.md)（2026-08-06 整合波，解 LESSONS `outbound-comment-boundary-split-across-canon` 的 canonical 對撞）
+- **批准 merge PR** — P0 default 判準內＝AI 自主（MAINTAINER §1b，2026-07-23 哲宇校正後之實務）；判準外 reserve
 
 **判斷邊界層**（核心：對倫理下判斷、商業/財務決定、安全授權）：
 

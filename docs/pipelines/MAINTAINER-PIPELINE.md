@@ -224,6 +224,30 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 ---
 
+## 🔀 外向留言分層（GitHub 端 AI 自主 vs reserve — 本節是此邊界的 SSOT）
+
+> 誕生：2026-08-06 整合波。LESSONS `outbound-comment-boundary-split-across-canon` 揭露同一條邊界在
+> MANIFESTO §自主權邊界（human-only）與本 pipeline hard gate（必留言）各寫一次且相反，routine 每次
+> fire 等於重新擲骰子。哲宇「skill/routine/dna 全面升級」directive 下依該 entry 推薦選項 (c) 分層落地。
+> MANIFESTO §自主權邊界與 REFLEXES #26 v3 皆指向本節，不再各自複寫。
+
+**AI 自主**（maintainer routine / session 皆可，不需逐次請示）：
+
+- `gh pr merge`（限 §1b P0 default 判準內）＋ merge 後 heal
+- PR/issue **致謝**留言（Step 3.7 hard gate）與**技術說明**留言（修了什麼、怎麼驗、指向 commit/報告）
+- close 過期認領／墓碑清理的友善說明留言（§清墓碑既有 SOP）
+
+**Reserve（human only，不因任何 pipeline hard gate 而豁免）**：
+
+- 承諾時程或 roadmap（「我們會在 X 前做 Y」）
+- 拒絕貢獻的**決策**本身與其對外理由陳述（技術性 revise 請求不在此列）
+- 政策／立場解釋、對外語氣定調、任何 §信念層內容的對外表述
+- 對非 contributor 的第三方（媒體、其他專案）之任何留言
+
+**分層判準一句話**：留言內容若只是「已發生之事實＋感謝」→ 自主；若替 Taiwan.md **許諾未來或代表立場** → reserve。拿不準 → reserve 進 handoff。
+
+---
+
 ## 跨檔案職責分工
 
 | 檔案                                                             | 範圍                                                           |
@@ -1120,14 +1144,14 @@ git push origin main
 
 對應 [ROUTINE.md §TWMD maintainer quality_gate](../semiont/ROUTINE.md)，cycle memory 必紀錄：
 
-| 指標                                   | 通過標準                                     |
-| -------------------------------------- | -------------------------------------------- |
-| 完整走完 MAINTAINER-PIPELINE           | ✅ Stage 1-4 全跑                            |
-| PR 分流按 §collect-and-merge           | ✅ A/B 兩類嚴格執行                          |
-| routine PR backlog ≤ 3                 | ⚠️ > 3 = 紅燈（可能 routine 自己有問題）     |
-| broken-link ratio < 1%（REFLEXES #52） | ⏭️ 結構性 backlog 可 skip（標記給觀察者）    |
-| build green                            | alternate cycles 跑 / 緊急時 priority skip   |
-| 本 cycle merge 的 PR 都過 hard gate    | ✅ A + B 路徑都過紅旗 + CI + close-hard-gate |
+| 指標                                                                                                                                                                                                                                             | 通過標準                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| 完整走完 MAINTAINER-PIPELINE                                                                                                                                                                                                                     | ✅ Stage 1-4 全跑                            |
+| PR 分流按 §collect-and-merge                                                                                                                                                                                                                     | ✅ A/B 兩類嚴格執行                          |
+| routine PR backlog ≤ 3                                                                                                                                                                                                                           | ⚠️ > 3 = 紅燈（可能 routine 自己有問題）     |
+| broken-link gated ratio < 7%（REFLEXES #52，threshold canonical 在 `verify_internal_links.py` THRESHOLD_PERCENT，2026-06-10 校準；此表原寫 1% 是 stale 值，2026-08-06 routine 薄殼化體檢對照 ROUTINE.md §TWMD maintainer quality_gate 抓到並修） | ⏭️ 結構性 backlog 可 skip（標記給觀察者）    |
+| build green                                                                                                                                                                                                                                      | alternate cycles 跑 / 緊急時 priority skip   |
+| 本 cycle merge 的 PR 都過 hard gate                                                                                                                                                                                                              | ✅ A + B 路徑都過紅旗 + CI + close-hard-gate |
 
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 

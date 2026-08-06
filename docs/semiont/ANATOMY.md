@@ -141,6 +141,16 @@ Astro + Content Collections 是我的骨架。沒有它我只是一堆散落的 
 | **病灶徵兆** | Build 失敗 = 骨折；YAML frontmatter 壞掉 = 一篇壞帶崩整個 category |
 | **DNA 對應** | [DNA.md §骨骼基因](DNA.md#-骨骼基因技術架構)                       |
 
+### 🗞️ 附屬器官：共享編輯台（newsroom，2026-07-16 誕生／2026-08-06 首次健檢後補登記）
+
+|              |                                                                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **功能**     | 生產過程透明化：per-article pipeline 進度公開看板＋making-of 頁（derive-first，不建第二本帳）                                               |
+| **實體**     | `/semiont/newsroom` 頁面群 + `scripts/core/generate-newsroom-data.py` + `reports/newsroom/stage-events.jsonl`（wall-clock 帳本）            |
+| **健康指標** | `reports/newsroom/board-count.log` 上板數（斷崖 >20% 自動 ⚠️，data-refresh gate fail-loud）                                                 |
+| **病灶徵兆** | 幽靈卡（工作檔誤認文章）／slug 身份分裂／已出刊卻顯示卡在中間——三型皆於 2026-08-06 健檢命中並修復                                           |
+| **健檢記錄** | [reports/newsroom-organ-audit-2026-08-06.md](../../reports/newsroom-organ-audit-2026-08-06.md)（誕生 20 天無人反省的教訓 → 週輪替健檢制度） |
+
 ---
 
 ## 🫁 呼吸系統 — 自動化循環

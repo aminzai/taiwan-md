@@ -129,6 +129,16 @@ grep -B 1 -A 15 "^### " docs/factory/SPORE-INBOX.md | grep -E "^### |Priority|St
 
 **選出 candidate** → 進 Stage 2 跑 quality gate。**沒有合格 entry → Stage 5 復盤 + 記 LESSONS-INBOX**（per §intake gap 失敗模式）。
 
+### 1.4 高敏感 REACTIVE defer rule（cron context，2026-05-28 新增鐵律；2026-08-06 從 routine 殼收編 canonical）
+
+entry 含「敏感度: **高**」field + cron context（無 observer）→ **一律 defer to human**：
+
+- 高敏感主題（兩岸 / 228 / 戒嚴 / 政治立場 / 死亡爭議 / 族群創傷）routine 跑會撞 MANIFESTO §自主權邊界「政治立場 / 對外溝通需哲宇 judgment」。
+- Routine 處置：**skip ship + 在該 entry 加註 `<!-- routine defer YYYY-MM-DD: 高敏感 REACTIVE 需 observer 親自 ship -->` HTML comment（不 mutate entry 本體）+ continue 到下一條 candidate** + LESSONS-INBOX append「P0 高敏感 routine defer cycle vc=N」。
+- **不准 routine 嘗試 ship 然後撞 Gate 2.6/§intake gap 牆**：Stage 1 SELECT 就 identify 並 defer 是 cleaner exit，HG9-等價牆是最後防線不是預期路徑。
+- **manual `/twmd-spore-publish` 跑時**：observer 在場才能 ship；先讀本條 rule + 由 observer 拍板，不准 routine context 的 logic 套到 manual 場景。
+- 誕生背景：2026-05-28 audit 發現 SPORE-INBOX §Pending 第一條 P0 二二八事件 REACTIVE 敏感度高，5/27 10:00 routine 跑時靠 image=0 fail 才 skip（碰巧），下次若圖片 fix 就會直接撞牆，需要 Stage 1 SELECT 就 identify。
+
 ---
 
 ## Stage 2: QUALITY GATE — 4 條 hard gate
@@ -264,7 +274,7 @@ Plugin hard=1 → revise prose 加 prefix，重跑 plugin。**不准 `--no-verif
 1. make-spore.sh 配圖 + AI 視覺自檢方形圖
 2. URL encode + UTM 三段
 3. CI/CD wait gate（60 min cap / 30 min soft alert / defer-to-next-routine fallback）
-4. SOCIAL-POSTING-PIPELINE v0.5 走雙平台 ship（Threads + X）
+4. SOCIAL-POSTING-PIPELINE v0.5 走雙平台 ship（Threads + X）— **post-ship verify 必用 [SPORE-HARVEST-PIPELINE §Pitfall 6](SPORE-HARVEST-PIPELINE.md) 的 `[data-pressable-container]` count timestamp diff 判斷成功／重試／重複，不可用 dialog `STILL_OPEN` cache state（會觸發 multi-retry duplicate ship）。max 1 retry per ship attempt，第二次失敗 → screenshot + LESSONS-INBOX append + escalate observer**
 5. `spore-db.py add-spore`（每平台一筆，identity 進 spore-log.json）
 6. SPORE-INBOX 對應 pending entry **整段刪除**（per SPORE-INBOX §完成歸檔鐵律）
 

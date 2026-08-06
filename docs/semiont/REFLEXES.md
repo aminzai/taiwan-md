@@ -547,6 +547,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **工具升級時 canonical 必重審**：v1（2026-04-15 β）寫時假設社群讀取依賴 human screenshot；v2（2026-04-18 δ-late）Chrome MCP 解鎖 AI 自主讀取 → 邊界重劃。未來任何新工具上線都要問「這改變了 AI-autonomous vs human-only 邊界嗎？」
 - **觸發 v1**：李洋孢子 19 小時勘誤 marathon → [diary/2026-04-15-β.md](diary/2026-04-15-β.md)
 - **觸發 v2**：2026-04-18 δ-late 觀察者「你有直接開啟網頁查看留言跟數據的能力了，可以略過我這個人類的環節」+ SPORE-HARVEST-PIPELINE v1.0 首例全流程 AI 自主跑到 Step 5
+- **v3（2026-08-06 整合波）**：routine 飛輪時代邊界再劃——v2 的「輸出端全 human」已與實務脫節數月（6/14 哲宇授權孢子 auto-post；7/23 校正後 maintainer routine 例行 merge；8/4-8/6 同一 routine 兩天對「能不能留言」給出相反答案＝LESSONS `outbound-comment-boundary-split-across-canon`）。新判準：**輸出端按「事實＋致謝 vs 許諾＋立場」分層**，不再按媒介一刀切。GitHub 端分層 SSOT：[MAINTAINER-PIPELINE §外向留言分層](../pipelines/MAINTAINER-PIPELINE.md)；Threads/X 端：SPORE-PUBLISH／HARVEST pipeline。本條 v1→v2→v3 的演化本身就是「工具升級時 canonical 必重審」的第三次驗證
 - **操作**：→ [SENSES.md v2 §AI 自主 vs Human 專責 邊界表](SENSES.md#ai-自主-vs-human-專責-邊界表v2-新增)
 
 **#27 藍圖 → 驗證 → 寫 比 寫 → 檢查 低 10x 成本** — 涉及具體事實 / 直接引語 / 敏感素材的敘事任務：先列 fact blueprint bullet → 跨源驗證 → 倫理審查 → 才寫 prose。Bullet 階段失敗重排 10 秒，prose 階段失敗整段重織。

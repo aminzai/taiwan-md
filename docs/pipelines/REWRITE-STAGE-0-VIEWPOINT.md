@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-0-VIEWPOINT'
 description: 'REWRITE v9 stage contract — Stage 0 觀點：模式識別 / spine 類型判定 / 素材萃取 / 拆除防火牆 / 觀點成型 HARD GATE'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.5'
-last_updated: 2026-07-25
-last_session: '2026-07-26-rewrite-throughput（v9.5：新增 Step 0.1.6 run profile 選檔——lite/standard/flagship 路由，設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
+current_version: 'v9.6'
+last_updated: 2026-08-06
+last_session: '2026-08-06-pipeline-shell-lint瘦身（v9.6：主檔 §Cron 模式 + Routine 飛輪 verbatim 搬入本檔，主檔壓回 lint 550 行上限；v9.5 新增 Step 0.1.6 run profile 選檔——lite/standard/flagship 路由，設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -616,5 +616,118 @@ Stage 0 結束時 deliverable：
 - [x] **Stage 0 exit gate 儀器化過關（v7.3）**：`python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.md --stage 0` → `hard_fail=0`
 
 **沒過（含 exit gate hard_fail > 0）= 不進 Stage 1。** persona-only（有 persona、缺 ≥20 探索）會被 gate 擋下。
+
+---
+
+## Cron 模式 + Routine 飛輪（2026-08-06 從 REWRITE-PIPELINE.md 主檔 verbatim 搬入，pipeline-shell-lint 瘦身）
+
+> 主檔超過 550 行上限（lint 處方：內容長回索引了，該搬去 stage contract）。本節內容 verbatim
+> 搬自主檔原 §Cron 模式 + Routine 飛輪，掛在 Stage 0（pipeline 入口 contract）——defer signal
+> 的判斷發生在「進 Stage 0 之前」，Step 0.1.6 run profile 選檔也已在本檔記錄 cron context 的
+> 路由規則，兩者同源。主檔僅留一行 pointer；歷史敘事與教訓原封不動。
+
+> Cron 在單一 session 執行，無法真正分三個 session，但在 prompt 中強制分階段思考。
+
+### Token 預算分配
+
+| 階段      | 佔比   | 常見錯誤                          |
+| --------- | ------ | --------------------------------- |
+| Stage 1   | 35-40% | 搜太多、每個結果都 web_fetch 全文 |
+| Stage 2   | 40-45% | 前半段太細、後半段沒力            |
+| Stage 3-5 | 15-20% | 跳過驗證直接 commit               |
+
+### Cron 鐵律（與手動執行不同的地方）
+
+- **每批最多 1 篇**：v1 時期每批 3 篇，品質明顯不穩。改成每批 1 篇後品質大幅提升
+- **不要 `git add -A`**：只 add 改動的文章和同步後的 `src/content/` 對應目錄
+- **不要跑 `npm run build`**：Build 由 CI/CD 處理。sub-agent 跑 build 容易 timeout 且浪費資源
+- **至少 7 分鐘**：Stage 1 3min + Stage 2 2min + Stage 3-4 2min = 最低要求
+
+### 合法 defer signal（六條，2026-07-25 收攏 canonical）
+
+> **為什麼要有這張表**：`twmd-rewrite-daily` 每小時 fire 是哲宇刻意設定要消耗週額度
+> （per MEMORY §神經迴路 hourly-cron-intentional），所以 **defer 的預設答案是「不 defer」**。
+> 但 2026-06-22〜06-29 連續 7 個 instance 的 defer chain 顯示，有幾種情境 routine 每次
+> 都在灰區自己判斷、每次都重新論證一遍，vc=7 已充分驗證。哲宇 2026-07-25 拍板
+> （OBSERVER-QUEUE #13 到期預設）把它們寫成明列清單：**在表上的可以直接 defer 並一行帶過理由，
+> 不在表上的一律 ship**。目的是讓 defer 從「每次重新說服自己」變成「查表」，
+> 順便讓 defer noise 不再堆進 LESSONS。
+
+| #   | Signal                        | 判準                                                                                                              | 來源                                         |
+| --- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1   | 30 min duplicate              | 同一條 routine 30 分鐘內已 fire 過並 ship                                                                         | 既有                                         |
+| 2   | 同篇 race                     | 目標文章正被別的 session／PR 動                                                                                   | 既有                                         |
+| 3   | §自主權邊界 命中              | 政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通                                                                     | 既有（[MANIFESTO](../semiont/MANIFESTO.md)） |
+| 4   | last-4hr manual rewrite       | 近 4 小時內有 manual rewrite ship，**或 finale-cluster 整段 wall-clock window 內**（不是只看最後一個 commit）     | OBSERVER-QUEUE #13，vc=7                     |
+| 5   | post-promotion cooldown       | 剛 promote 的 DNA / EDITORIAL 規則還沒被任何一篇 dogfood 過 → 留給下一個 prime time，別讓新規則首發在無人 cron 上 | OBSERVER-QUEUE #13                           |
+| 6   | per-day throughput saturation | 當日已達 rewrite 產出上限（同日多篇 ship 後品質會掉，per §Cron 鐵律「每批最多 1 篇」的日層延伸）                  | OBSERVER-QUEUE #13                           |
+
+**Pre-flight gate（2026-07-24 memory vc=4 補進來）**：cron 進 Stage 0 之前先跑
+`bash scripts/tools/lib/check-parallel-actor.sh`。回 `ACTOR_BUSY` 且 busy 的是
+babel/fleet dispatcher 時走 signal 2 讓路——2026-07-24 兩條 rewrite-daily fire
+（143931 / 191048）都是撞上 fleet 才自行讓路的，但當時 pipeline 沒有這一步，
+是 session 自己想到的。想到不等於下次會想到，所以寫進來。
+
+**不在表上的 defer 一律視為違規**，要在 memory 寫明為什麼判斷表不夠用（那是 pipeline 的
+進化訊號，不是個案豁免）。
+
+### 選文指令
+
+```bash
+cd ~/taiwan-md && git pull
+# 佇列頂端，跳過已重寫的
+head -30 scripts/tools/rewrite-queue.txt
+git log --oneline --since='2026-03-20' | grep -i 'rewrite:' | head -30
+```
+
+### Commit 指令
+
+```bash
+bash scripts/core/sync.sh
+python3 scripts/tools/article-health.py knowledge/[Category]/[文章名].md --profile=rewrite-stage-4
+git add knowledge/[Category]/[文章名].md src/content/
+git commit -m "rewrite: [文章名] — EDITORIAL v6.3 + Pipeline v5.0"
+git push
+```
+
+### Cron 狀態
+
+| Cron                              | 狀態        | 說明                                                        |
+| --------------------------------- | ----------- | ----------------------------------------------------------- |
+| Taiwan.md Article Quality Rewrite | ❌ disabled | 每小時 1 篇，Opus model（舊）                               |
+| taiwan-md-rewrite (v1)            | ❌ disabled | 舊版每小時 3 篇，已淘汰                                     |
+| taiwan-md-content-sprint          | ❌ disabled | 內容衝刺（新文章），已淘汰                                  |
+| **twmd-rewrite-daily**            | ✅ active   | 16:16 daily Opus（per [ROUTINE.md](../semiont/ROUTINE.md)） |
+
+### Routine 飛輪整合（v6.1 升級為 full-cycle，2026-05-24 哲宇 directive）
+
+REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）。**v6.1.1 起每天 18:00 晚間自動跑「研究 → 寫文 → 孢子 → 發文 → harvest」全 cycle**（v6.1.1 從 00:00 搬到 18:00 對齊台灣社群 20:00-22:00 prime time post）：
+
+- **觸發**：`/twmd-rewrite` skill
+- **Model**：Opus
+- **Cadence**：每天 18:00 晚間（v6.1.1 — cycle 跑 ~150 min ~20:30 結束，spore post 落在台灣晚間社群活躍時段；v6.1 原 00:00 半夜 chain 已抽出）
+- **Skill SOP**：[`~/.claude/scheduled-tasks/twmd-rewrite-daily/SKILL.md`](https://github.com/anthropics/claude-code-skills)（local mirror）
+- **Stage chain（v6.1 full cycle）**：
+  ```
+  Stage 0 BECOME → Stage 1 git pull → Stage 2 article ship (REWRITE Stage 0-5 全跑) →
+  Stage 3 commit + push article → Stage 4 SPORE chain（PICK=剛 ship article / VERIFY / WRITE / SHIP）→
+  Stage 5 CI/CD wait gate v3.7（60 min cap，timeout → defer 不 abort）→
+  Stage 6 social post（both Threads + X default per Routine context v3.8；單發只在 article frontmatter 標 `platformExclude` 才觸發）→
+  Stage 7 SPORE-LOG + sporeLinks frontmatter + commit + push → Stage 8 /twmd-finale
+  ```
+- **Quality gate (article)**：article-health.py rewrite-stage-4 hard=0 warn=0 + 三源研究落檔 + 腳註合規 + frontmatter complete + word-count ≥ 4500
+- **Quality gate (spore)**：article-health.py prose-health hard=0 score ≤ 3 + spore-writing hard=0 + 配圖 generated + AI pre/post-ship verify 5+6 條 PASS
+- **Boundary**：本 routine 上限 ~150 min wall-clock（article ~60 min + spore prep ~15 min + CI wait ≤ 60 min + post ~10 min + log ~5 min）；超過 → spore defer + LESSONS entry（不 abort article ship）
+- **不問 observer 鐵律**：所有 decision point 走 [SPORE-PIPELINE §Routine context 自動決策 defaults table](../factory/SPORE-PIPELINE.md#-routine-context-自動決策-defaults-v37-新增)
+
+**為什麼 v6.1 升 full-cycle**（哲宇 2026-05-24 directive）：article ship 跟 spore 是同一條進化飛輪的兩端，分開跑會：
+
+1. 缺一致性（article + spore 不同步、不同 angle）
+2. Observer friction（每天要分兩次觸發、各自 review）
+3. Cycle smoothness 數據缺失（無法 measure article→spore→broadcast 整體 throughput）
+
+合一變 daily routine 後：每天 1 篇文章 + 1-2 條孢子（Threads ± X）自動發出，**進化飛輪自動轉**，observer 只在 escalation 時介入。
+
+完整 routine 規格 → [ROUTINE.md §TWMD rewrite (daily)](../semiont/ROUTINE.md)。設計脈絡 + cycle smoothness 數據 → [reports/spore-pipeline-evolution-2026-05-23-article-to-spore-to-broadcast-cycle.md](../../reports/spore-pipeline-evolution-2026-05-23-article-to-spore-to-broadcast-cycle.md)。
 
 ---
