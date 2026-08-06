@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-06 06:13
+last_generated: 2026-08-07 06:14
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,18 +12,18 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-06 06:13** · 頂層 \*.md 共 **259** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-07 06:14** · 頂層 \*.md 共 **261** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   484 | 26.6 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
-| `editorial-room/`       |    67 | 461.6 KB | —                                                    |
+| `research/`             |   494 | 27.0 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `editorial-room/`       |    69 | 487.2 KB | —                                                    |
 | `article-evolve/`       |    31 | 1.2 MB   | —                                                    |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
+| `article-projection/`   |    26 | 459.7 KB | —                                                    |
 | `weekly/`               |    26 | 5.1 MB   | Self-evolve weekly digest                            |
-| `article-projection/`   |    24 | 417.3 KB | —                                                    |
 | `routine-prompt-drift/` |    10 | 29.9 KB  | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
@@ -37,11 +37,11 @@ type: auto-index
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `news-lens/`            |     4 | 79.2 KB  | —                                                    |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 70.0 KB  | —                                                    |
+| `404-monitor/`          |     2 | 93.6 KB  | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
+| `newsroom/`             |     2 | 92.9 KB  | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
-| `newsroom/`             |     1 | 90.7 KB  | —                                                    |
 | `terminology-trends/`   |     1 | 5.0 KB   | —                                                    |
 | `visual/`               |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
@@ -154,8 +154,9 @@ type: auto-index
 - `2026-04-18` [ai-crawler-404-analysis-2026-04-18](ai-crawler-404-analysis-2026-04-18.md)
 - `2026-04-12` [traffic-analysis-2026-04-12](traffic-analysis-2026-04-12.md)
 
-### audit (19)
+### audit (20)
 
+- `2026-08-06` [newsroom-organ-audit-2026-08-06](newsroom-organ-audit-2026-08-06.md)
 - `2026-08-04` [prose-audit-full-corpus-2026-08-04](prose-audit-full-corpus-2026-08-04.md)
 - `2026-07-16` [article-quality-audit-2026-07-16](article-quality-audit-2026-07-16.md) — 全站品質審核：早期與貢獻者單薄文章盤點
 - `2026-06-13` [architecture-deep-audit-2026-06-13](architecture-deep-audit-2026-06-13.md)
@@ -229,8 +230,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (106)
+### ops (107)
 
+- `2026-08-06` [design-文體類型學升級-2026-08-06](design-文體類型學升級-2026-08-06.md) — 文體類型學升級設計報告 — 從三型到「畫布 × 文體族 × 正交模組」三層架構
 - `2026-08-05` [seo-meta-multilang-baseline-2026-08-05](seo-meta-multilang-baseline-2026-08-05.md) — seo-meta 多語言門檻校準的第一份實測底線
 - `2026-08-04` [design-build-cicd-speed-2026-08-04](design-build-cicd-speed-2026-08-04.md) — Build / CI / CD 加速深度研究 2026-08-04
 - `2026-08-04` [design-curation-tier-2026-08-04](design-curation-tier-2026-08-04.md) — Design: 查證狀態分層（草稿待進化區）
@@ -346,9 +348,11 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-08 (10 files)
+### 2026-08 (12 files)
 
-- Type breakdown: ops: 5 / evolution: 2 / audit: 1 / analysis: 1 / audit-routine: 1
+- Type breakdown: ops: 6 / audit: 2 / evolution: 2 / analysis: 1 / audit-routine: 1
+  - `2026-08-06` [design-文體類型學升級-2026-08-06](design-文體類型學升級-2026-08-06.md)
+  - `2026-08-06` [newsroom-organ-audit-2026-08-06](newsroom-organ-audit-2026-08-06.md)
   - `2026-08-05` [seo-meta-multilang-baseline-2026-08-05](seo-meta-multilang-baseline-2026-08-05.md)
   - `2026-08-04` [design-build-cicd-speed-2026-08-04](design-build-cicd-speed-2026-08-04.md)
   - `2026-08-04` [design-curation-tier-2026-08-04](design-curation-tier-2026-08-04.md)

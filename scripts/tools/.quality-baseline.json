@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-05T22:12:34Z",
-  "total": 883,
-  "flagged": 434,
+  "timestamp": "2026-08-06T22:14:01Z",
+  "total": 886,
+  "flagged": 435,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -833,6 +833,11 @@
       "file": "society/公共政策網路參與平臺.md",
       "score": 5,
       "reasons": "未人工審核; 連續bullet4行; 塑膠句1個; 稀薄段落×4"
+    },
+    {
+      "file": "society/2026年分科爭議.md",
+      "score": 4,
+      "reasons": "空洞詞5個; 未人工審核; 稀薄段落×3"
     },
     {
       "file": "society/國定假日.md",

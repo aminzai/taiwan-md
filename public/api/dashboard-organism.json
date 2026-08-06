@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T22:12:37.853Z",
+  "lastUpdated": "2026-08-06T22:14:04.446Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 27,
-        "articlesLast30Days": 235,
-        "totalArticles": 881
+        "articlesLast7Days": 28,
+        "articlesLast30Days": 232,
+        "totalArticles": 884
       }
     },
     {
@@ -26,11 +26,11 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 198,
-        "totalArticles": 881,
-        "humanReviewedPercent": 22.5,
+        "totalArticles": 884,
+        "humanReviewedPercent": 22.4,
         "v2Status": "需關注 — T1 review < 80% OR plugin pass < 90%",
         "v2Components": {
-          "review_coverage": 23.9,
+          "review_coverage": 23.8,
           "plugin_pass_rate": 70,
           "plugin_health": 100,
           "citation_density": 91.7,
@@ -113,18 +113,18 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 881,
-          "en": 866,
-          "ja": 865,
-          "ko": 866,
-          "es": 866,
-          "fr": 867,
+          "zh-TW": 884,
+          "en": 867,
+          "ja": 866,
+          "ko": 867,
+          "es": 868,
+          "fr": 868,
           "vi": 454,
-          "id": 540,
-          "pt": 817,
-          "hi": 629,
-          "ar": 713,
-          "ru": 737
+          "id": 546,
+          "pt": 821,
+          "hi": 635,
+          "ar": 719,
+          "ru": 748
         },
         "translationPct": 88,
         "langHealthDetails": {
@@ -143,7 +143,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 866,
+              "count": 867,
               "pct": 98
             },
             "score": 99
@@ -163,7 +163,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 865,
+              "count": 866,
               "pct": 98
             },
             "score": 79
@@ -183,7 +183,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 866,
+              "count": 867,
               "pct": 98
             },
             "score": 99
@@ -203,7 +203,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 866,
+              "count": 868,
               "pct": 98
             },
             "score": 99
@@ -223,7 +223,7 @@
               "pct": 25
             },
             "articles": {
-              "count": 867,
+              "count": 868,
               "pct": 98
             },
             "score": 84
@@ -244,7 +244,7 @@
             },
             "articles": {
               "count": 454,
-              "pct": 52
+              "pct": 51
             },
             "score": 82
           },
@@ -263,8 +263,8 @@
               "pct": 108
             },
             "articles": {
-              "count": 540,
-              "pct": 61
+              "count": 546,
+              "pct": 62
             },
             "score": 86
           },
@@ -283,7 +283,7 @@
               "pct": 108
             },
             "articles": {
-              "count": 817,
+              "count": 821,
               "pct": 93
             },
             "score": 99
@@ -303,8 +303,8 @@
               "pct": 108
             },
             "articles": {
-              "count": 629,
-              "pct": 71
+              "count": 635,
+              "pct": 72
             },
             "score": 90
           },
@@ -323,7 +323,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 713,
+              "count": 719,
               "pct": 81
             },
             "score": 72
@@ -343,8 +343,8 @@
               "pct": 0
             },
             "articles": {
-              "count": 737,
-              "pct": 84
+              "count": 748,
+              "pct": 85
             },
             "score": 74
           }

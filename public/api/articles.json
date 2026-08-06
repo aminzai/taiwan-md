@@ -429,6 +429,17 @@
     "path": "ru/People/ming-hua-yuan.md"
   },
   {
+    "title": "«Тянься»: сорок лет ранжирует «успех» Тайваня, стоя вблизи от капитала",
+    "description": "В июне 1981 года на изолированном острове под военным положением вышел финансовый журнал «Тянься», первый тираж в 10 000 экземпляров разошёлся за два дня. Инициатором стал экономист Као Сицзюнь, а душой — Инь Юньпэн, бывшая корреспондентом UPI, «Нью-Йорк Таймс» и «Азиатского Уолл-стрит Жорнал». Сорок лет спустя он стал одним из самых доверяемых медиа Тайваня и определителем «успеха» через рейтинги «Две тысячи», «50 крупнейших» и «Счастливые города». Источник его публичного доверия и источник его ранжирующей власти — одно и то же расстояние.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/commonwealth-magazine",
+    "readingTime": 155,
+    "featured": true,
+    "date": "2026-06-04",
+    "path": "ru/Society/commonwealth-magazine.md"
+  },
+  {
     "title": "«Чёрная и белая ложка» на Тайване: один корейский Netflix-шоу, 16 месяцев и вкусовой стресс-тест для 7 потребительских отраслей",
     "description": "В сентябре 2024 года Netflix-шоу «Чёрная и белая ложка: Кулинарные классовые войны» уже в неделю премьеры возглавило рейтинг просмотров на Тайване. В последующие 16 месяцев 9 корейских поваров-участников через коллаборации, гостевые визиты и эндорсменты проникли в тайваньские конвини-свежее питание, хендшейк-напитки, фастфуд-сети, буфеты пятизвездочных отелей, платформы доставки, корейские ресторанные цепочки и даже складной смартфон Galaxy Z — семь практически несвязанных отраслей. Бренд хендшейк-напитков «Шишэн», поддержанный Ким Тэ-соном, просуществовал 20 месяцев и закрылся 26 декабря 2025 года — это стал первый на Тайване системный обратный тест «эндорсмента повара из корейского вэрайети-шоу».",
     "category": "ru",
@@ -1010,6 +1021,23 @@
     "featured": true,
     "date": "2026-05-27",
     "path": "ja/Politics/2026-local-elections-taiwan.md"
+  },
+  {
+    "title": "2026年分科測驗不送分爭議：教育誠信的結構性危機",
+    "description": "2026 年 7 月分科測驗因強颱巴威首度延期，成績公布後爆發 149 件試題申訴，大考中心全數維持原案、一題都不送分。生物科兩個選項一模一樣、地理科題幹寫折線圖選項卻全是直方圖，官方回覆都是「不影響作答」。立委、家長與一份公民連署要的其實很簡單：拿出能被檢驗的依據，而不只是一句結論。",
+    "category": "Society",
+    "tags": [
+      "教育改革",
+      "分科測驗",
+      "大考中心",
+      "社會爭議",
+      "學生運動"
+    ],
+    "url": "https://taiwan.md/society/2026%E5%B9%B4%E5%88%86%E7%A7%91%E7%88%AD%E8%AD%B0",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "Society/2026年分科爭議.md"
   },
   {
     "title": "27 秒的精準：台南鱔魚意麵的日治起源與廖家傳承",
@@ -5587,8 +5615,8 @@
     "path": "ja/Society/taiwan-defense-modernization.md"
   },
   {
-    "title": "台湾の国際貿易政策：グローバル化の潮流の中で位置づけを探る",
-    "description": "台湾は貿易志向型経済として、CPTPP加盟、新南向政策など多元的な貿易戦略を推進し、地政学的制約の下で国際経済貿易空間の突破口を模索しています。",
+    "title": "台湾の国際貿易政策：グローバル化の波の中でポジションを模索する",
+    "description": "貿易志向型経済体である台湾が、CPTPP加盟や新南向政策など多元化した貿易戦略を推進し、地政学的制約の下で国際経貿空間の突破を図る。",
     "category": "ja",
     "tags": [
       "経済",
@@ -5597,10 +5625,10 @@
       "新南向",
       "ECFA",
       "FTA",
-      "国際経済貿易"
+      "国際経貿"
     ],
     "url": "https://taiwan.md/ja/economy/taiwan-international-trade-policy",
-    "readingTime": 23,
+    "readingTime": 22,
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/Economy/taiwan-international-trade-policy.md"
@@ -12272,6 +12300,24 @@
     "path": "People/江蕙.md"
   },
   {
+    "title": "池上便當：從月台上的木片盒到全台米食的代名詞",
+    "description": "從日治末期月台上的兩顆竹葉飯糰，到開枝散葉的連鎖品牌，池上便當用八十年把一個東台灣車站的名字變成台灣米的最高標準。薄木盒是一套濕度管理系統，1982 年的鎘米事件是米權從濁水溪移轉到花東縱谷的轉折，1996 年的仿冒潮則逼出了全台第一張地理標誌證明標章。",
+    "category": "Food",
+    "tags": [
+      "池上米",
+      "鐵路便當",
+      "悟饕",
+      "台東文化",
+      "飲食歷史",
+      "濁水溪米"
+    ],
+    "url": "https://taiwan.md/food/%E6%B1%A0%E4%B8%8A%E4%BE%BF%E7%95%B6",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-06",
+    "path": "Food/池上便當.md"
+  },
+  {
     "title": "竹筒飯：在火堆中與燃點博弈的獵人便當",
     "description": "竹筒飯並非單純的「容器料理」，而是一場精確的「水火博弈」。利用水在 100°C 沸騰的物理特性，讓易燃的竹管在火堆中支撐兩小時而不化為灰燼，這項源自狩獵文化的智慧，如今成為台灣原民食藝的代表。",
     "category": "Food",
@@ -14911,6 +14957,17 @@
     "path": "Music/金曲獎.md"
   },
   {
+    "title": "金門県：1949年あの56時間が、金門75年の運命を決めた",
+    "description": "金門は廈門の角嶼までわずか1.8キロ、台北まで358キロ。1387年、江夏侯周徳興が所城を築き「固若金湯、雄鎮海門」と命名。1949年10月25日未明2時、共軍3個団9,086人が古寧頭に上陸、国軍が56時間の激戦で撃退。1958年8月23日午後5時半から44日間、47万4,910発の砲弾が151平方キロの島に降り注ぎ、その後「単打双不打」で21年続いた。現在14.5万人が戸籍を置き、未明4時の水頭埠頭から廈門行きの船は台北行きの飛行機より多い。葉華成の曾孫は67年かけて謝罪を求めている。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/geography/kinmen-county",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ja/Geography/kinmen-county.md"
+  },
+  {
     "title": "金門縣：1949 年那 56 小時，決定了金門 75 年的命運",
     "description": "金門距廈門角嶼最近處只有 1.8 公里，距台北 358 公里。1387 年江夏侯周德興在這裡建所城取「固若金湯，雄鎮海門」之意。1949 年 10 月 25 日凌晨兩點共軍三個團 9,086 人在古寧頭灘頭登陸，國軍激戰 56 小時擊退。1958 年 8 月 23 日下午五點半開始的 44 天裡，474,910 發砲彈落在 151 平方公里的島上，後續單打雙不打又打了 21 年。今天 14.5 萬人設籍金門，凌晨四點的水頭碼頭駛往廈門的船比飛台北的飛機多。葉華成的曾孫等了 67 年要一個道歉。",
     "category": "Geography",
@@ -14920,17 +14977,6 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "Geography/金門縣.md"
-  },
-  {
-    "title": "金門縣：1949年の56時間が金門75年の運命を決定した",
-    "description": "金門は廈門角嶼まで最短1.8km、台北まで358km。1387年、江夏侯周徳興が「固若金湯（金湯のごとく固く）、雄鎮海門（海門を雄に鎮す）」の意を込めて所城を築いた。1949年10月25日未明2時、共軍3個団9,086人が古寧頭で上陸し、国軍は56時間激戦して撃退した。1958年8月23日午後5時半から44日間で151平方キロの島に474,910発の砲弾が落下し、その後の「単打双不打」でさらに21年続いた。現在14.5万人が金門に籍を置き、未明4時の水頭碼頭から廈門へ向かう船は台北行きの飛行機より多い。葉華成の曾孫は67年を待ち、一つの謝罪を求めている。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/geography/kinmen-county",
-    "readingTime": 70,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "ja/Geography/kinmen-county.md"
   },
   {
     "title": "金城武：從不被認出的「民眾」，到只想被世界遺忘的亞洲洲草",
@@ -17086,8 +17132,19 @@
     "path": "ja/Society/ma-ying-jeou-meme.md"
   },
   {
-    "title": "馬祖國際藝術島：把十年，釀成《島嶼釀》、《生紅過夏》、《拍楸》三句老話",
-    "description": "《拍楸－簍光．竹影》撐過了一整個冬天的東北季風，卻在隔年一場暴雨裡倒下。馬祖國際藝術島用《島嶼釀》《生紅過夏》《拍楸》三屆策展主題，把自己十年的轉身，釀成馬祖人本來就懂的語言：先發酵、再撐過考驗、最後打樁定錨。這套語言講得動軍事地景與集體記憶，卻還沒能算對自己的成長率，也還沒讓特約茶室裡的女性，親口說一次自己的故事。",
+    "title": "馬祖国際芸術島：展示館を持たない美術館、列島全体を借りて展示場に",
+    "description": "作品は養鶏場、雑貨店、予約必須のレストラン、そして南竿行きの船の中に。連江県政府と中華文化総会が共催する馬祖国際芸術島は、10年5回、四郷五島に点在し、自前の展示館を建てず、戦争の坑道、軍の映画館、店舗、船便すべてを借りて展示場とし、開館時間は店に合わせる。これが県長の言う「島嶼博物館」の最も具体的な姿であり、それら借りた空間には、すでに誰かが語りかけていた。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/art/matsu-biennial",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "ja/Art/matsu-biennial.md"
+  },
+  {
+    "title": "馬祖國際藝術島：一座沒有展館的美術館，把整座列島借來當展場",
+    "description": "作品放在養雞場、雜貨店、一家得先訂位才進得去的餐廳，還有一件在開往南竿的船上。連江縣政府與中華文化總會合辦的馬祖國際藝術島，十年五屆散在四鄉五島，沒有為自己蓋一座展館，打過仗的坑道、軍中電影院、店家與船班全部借來當展場，開放時間跟著店家走。這是縣長說的「島嶼博物館」最具體的樣子，而那些借來的空間裡，早就有人在說話。",
     "category": "Art",
     "tags": [
       "馬祖國際藝術島",
@@ -17098,7 +17155,7 @@
       "文化治理"
     ],
     "url": "https://taiwan.md/art/%E9%A6%AC%E7%A5%96%E5%9C%8B%E9%9A%9B%E8%97%9D%E8%A1%93%E5%B3%B6",
-    "readingTime": 51,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-08-05",
     "path": "Art/馬祖國際藝術島.md"
@@ -20601,7 +20658,7 @@
       "公共建設"
     ],
     "url": "https://taiwan.md/ja/art/new-taipei-city-museum-of-art",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-07-02",
     "path": "ja/Art/new-taipei-city-museum-of-art.md"
@@ -22628,6 +22685,24 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "ja/People/chiang-wei-shui.md"
+  },
+  {
+    "title": "蝦皮購物：橘色帝國的擴張軌跡與數位社會的博弈",
+    "description": "2015 年登台的蝦皮，用免運補貼打下 PChome 的江山，再用 2,500 間店到店把物流的最後一哩路收進自己手裡，如今韓國酷澎又從後面追上來。橘色招牌現在開到巷口，但騰訊持股的陸資疑雲、蟬聯高風險賣場首位的詐騙漏洞與每年數萬公噸的包裝廢棄物，也一起留在台灣的數位社會裡。",
+    "category": "Economy",
+    "tags": [
+      "電商",
+      "蝦皮",
+      "直播帶貨",
+      "物流革命",
+      "陸資爭議",
+      "酷澎競爭"
+    ],
+    "url": "https://taiwan.md/economy/Shopee",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "Economy/Shopee.md"
   },
   {
     "title": "複雜生活節：兩個醫學生的「未成功者論壇」，和一個世代不肯說自己夠好的五年",
@@ -27701,6 +27776,17 @@
     "path": "vi/Society/betel-nut.md"
   },
   {
+    "title": "Bea Cukai Taiwan dan EZ WAY: Saat Menekan \"Sesuai Deklarasi\", Siapa yang Anda Beri Kuasa?",
+    "description": "HP bergetar, notifikasi push menampilkan deretan nama barang yang sulit dipahami, Anda menekan \"Sesuai Deklarasi\", secara hukum menyelesaikan satu kuasa bea cukai. 7,59 juta orang di Taiwan telah mendaftar di Aplikasi ini. Setelah sebuah unggahan meledak pada Agustus 2026, banyak orang baru pertama kali memeriksa siapa yang mengoperasikannya: Kementerian Keuangan memegang 36,11%, saham pemerintah kurang dari separuh dari Jaringan Perdagangan Bea Cukai. Pada saat yang sama, ambang bebas pajak 2.000 yuan sedang diajukan untuk diturunkan oleh pemerintah untuk kali kedua. Siapa yang membayar rekening jalan pintas kenyamanan ini, dan siapa yang dari awal hingga akhir tidak bisa berkata-kata.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/lifestyle/ezway",
+    "readingTime": 174,
+    "featured": true,
+    "date": "2026-08-04",
+    "path": "id/Lifestyle/ezway.md"
+  },
+  {
     "title": "Becoming a Teacher: Forty Years of Reform and Collapse in Taiwan's Teacher Training System",
     "description": "In February 1994, the Legislative Yuan passed the Teacher Education Act, transforming the monopoly of normal schools into an open, pluralistic system — hailed at the time as a milestone in Taiwan's educational history. Thirty years later, the numbers are sobering: the original nine education universities were merged down to just three; in the 2020 academic year, enrollment shortfalls across teacher training institutions hit an all-time high; the teacher certification pass rate dropped to 52% in recent years; nearly half of teacher candidates treat teacher training as a backup plan; and 42% quit before obtaining their teaching certificates.",
     "category": "en",
@@ -28360,6 +28446,17 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "id/Lifestyle/hot-spring-culture.md"
+  },
+  {
+    "title": "Budaya Anime dan Manga Taiwan",
+    "description": "Doraemon, Slam Dunk, dan Sailor Moon adalah bahasa umum remaja Taiwan pada era 1980-an hingga 1990-an; Festival Anime Kaikaku telah diadakan lebih dari 40 kali sejak 1999 hingga kini, setiap edisi menarik lebih dari seratus ribu pengunjung; doujinshi dan cosplay melahirkan kreator 'Detention' dan 'Devotion'—budaya anime dan manga Taiwan bukan sekadar tiruan hiburan asing, melainkan kenangan bersama dan tanah subur kreasi dua generasi.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/culture/taiwan-anime-culture",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "id/Culture/taiwan-anime-culture.md"
   },
   {
     "title": "Budaya Bimbel Taiwan: Bangkit dan Runtuhnya Satu Jalan, serta Tagihan Kecemasan Seluruh Masyarakat",
@@ -33455,6 +33552,17 @@
     "path": "pt/Society/mainlanders-in-taiwan.md"
   },
   {
+    "title": "Controversia por la falta de asignación de puntos en el examen de especialización de 2026: una crisis estructural de integridad educativa",
+    "description": "En julio de 2026, el examen de especialización se retrasó por el tifón Bavi; tras los resultados, surgieron 149 reclamaciones que el Centro de Exámenes desestimó íntegramente.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/2026",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "es/Society/2026.md"
+  },
+  {
     "title": "Controvérsia sobre medicamentos veterinários em Taiwan",
     "description": "Em 1º de julho de 2026, entra em vigor um novo regulamento chamado \"Regulamento de Gestão para o Uso de Medicamentos de Uso Humano em Cães, Gatos e Animais Não Económicos\". Dos 701 medicamentos anunciados pelo governo, apenas 144 completaram o registo; o oxigénio medicinal de urgência tem zero registos. Mais de cem mil tutores assinaram uma petição a pedir o adiamento. É uma caixa que se arrasta desde 2012 e continua por fechar, e também a fresta onde esta ilha trata os animais de estimação como família, mas trata os seus medicamentos como mercadoria.",
     "category": "pt",
@@ -37757,16 +37865,16 @@
   },
   {
     "title": "El periodo de la ley marcial",
-    "description": "El 19 de mayo de 1949, Chen Cheng promulgó el decreto de ley marcial en la provincia de Taiwán. Treinta y ocho años después, el 15 de julio de 1987, Chiang Ching-kuo levantó la ley marcial. En las islas de Kinmen y Matsu hubo que esperar hasta 1992. ¿Qué vivieron en esos cinco años?",
+    "description": "El 19 de mayo de 1949, Chen Cheng promulgó el decreto de ley marcial en la provincia de Taiwán. 38 años después, el 15 de julio de 1987, Chiang Ching-kuo anunció el fin de la ley marcial. En las regiones de Kinmen y Matsu, la ley marcial no se levantó hasta 1992. Durante estos cinco años, ¿qué fue lo que vivieron?",
     "category": "es",
     "tags": [
-      "Ley marcial",
-      "Autoritarismo",
-      "Terror Blanco",
-      "Justicia transicional"
+      "ley marcial",
+      "autoritarismo",
+      "terror blanco",
+      "justicia transicional"
     ],
     "url": "https://taiwan.md/es/history/martial-law-era",
-    "readingTime": 54,
+    "readingTime": 63,
     "featured": true,
     "date": "2026-03-17",
     "path": "es/History/martial-law-era.md"
@@ -44236,6 +44344,17 @@
     "path": "pt/Geography/gueishan-island.md"
   },
   {
+    "title": "Ilha Internacional de Arte de Matsu: transformar dez anos nas três velhas expressões «Ilha Fermentada», «Vermelho Vivo Passa o Verão» e «Cravar Estacas»",
+    "description": "«Cravar Estacas – Luz do Cesto, Sombra do Bambu» resistiu a um inverno inteiro de monção nordeste, mas desabou num temporal no ano seguinte. A Ilha Internacional de Arte de Matsu usou os três temas curatoriais «Ilha Fermentada», «Vermelho Vivo Passa o Verão» e «Cravar Estacas» para transformar a sua própria viragem de dez anos na linguagem que o povo de Matsu já conhece: primeiro fermentar, depois resistir à prova, por fim cravar estacas e ancorar. Essa linguagem fala de paisagem militar e memória colectiva, mas ainda não conseguiu prestar contas da sua própria taxa de crescimento, nem fez com que as mulheres nas casas de chá especiais contassem a sua própria história com a própria boca.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/art/matsu-biennial",
+    "readingTime": 161,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "pt/Art/matsu-biennial.md"
+  },
+  {
     "title": "Ilhas Offshore e Cultura Marítima: Da Densidade Máxima dos Vãos de Pedra ao Sistema Legal de Ecolgia da Época dos Peixes Voladores",
     "description": "Menos de 600 vãos de pedra no mundo todo, Penghu tem 574. Uma tribo de ilhas dedicada à captura de peixes voladores transformou tabus em um sistema de gestão de recursos marítimos extremamente preciso",
     "category": "pt",
@@ -44797,7 +44916,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/geography/offshore-islands-and-maritime-culture",
-    "readingTime": 61,
+    "readingTime": 65,
     "featured": true,
     "date": "2026-03-22",
     "path": "en/Geography/offshore-islands-and-maritime-culture.md"
@@ -44808,7 +44927,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/geography/offshore-islands-and-maritime-culture",
-    "readingTime": 82,
+    "readingTime": 83,
     "featured": true,
     "date": "2026-03-22",
     "path": "es/Geography/offshore-islands-and-maritime-culture.md"
@@ -46010,6 +46129,17 @@
     "path": "id/Geography/changhua-county.md"
   },
   {
+    "title": "Kabupaten Kinmen: 56 Jam Tahun 1949, Menentukan Nasib Kinmen Selama 75 Tahun",
+    "description": "Kinmen berjarak 1,8 km dari Pulau Jiao Yu Xiamen, dan 358 km dari Taipei. Tahun 1387 Zhou Dexing membangun kota di sini dengan arti \"kuat seperti benteng emas, kokoh menengahi gerbang laut\". Pagi 25 Oktober 1949 pukul 02.00, tiga regimen TNI Tiongkok 9.086 orang mendarat di Pantai Guningtou, pasukan Nasionalis mempertahankan 56 jam. 23 Agustus 1958 pukul 17.30 selama 44 hari, 474.910 granat jatuh di pulau 151 km², lanjut \"ganjil tembak genap tidak\" 21 tahun. Kini 145 ribu warga terdaftar, pelabuhan Shuitou pukul 04.00 ke Xiamen lebih banyak dari penerbangan ke Taipei. Cucu buyut Ye Huacheng menunggu 67 tahun untuk permintaan maaf.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/geography/kinmen-county",
+    "readingTime": 180,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "id/Geography/kinmen-county.md"
+  },
+  {
     "title": "Kabupaten Miaoli: Kabupaten Hakka yang Keras Kepala, Memilih Walikota yang Menggandakan Utang Kas Daerah dalam Delapan Tahun",
     "description": "Pada era kolonial Jepang, produksi kapur barus Miaoli mencapai 95% total Taiwan, Sanyi memulai ukiran kayu dari sisa batang pohon kapur barus. Tahun 2002, Desa Beihe di Gongguan menggelar Festival Bunga Tung pertama. Tahun 2008, Liu Zheng-hong menerima kabupaten dengan utang 20,2 miliar, saat meninggalkan jabatan 2014 catatan utang mencapai 67,6 miliar. Di antaranya terjadi Zhu Feng-min minum pestisida, pembongkaran paksa Apotek Zhang, Gedung Bulat Hakka dibangun dengan 1,2 miliar jadi \"gedung nyamuk\". Saat ini 530 ribu orang tinggal di kabupaten dengan proporsi Hakka 62,5% teringgi kedua di seluruh Taiwan.",
     "category": "id",
@@ -46248,6 +46378,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "id/Technology/ai-development-in-taiwan.md"
+  },
+  {
+    "title": "Kebijakan Perdagangan Internasional Taiwan: Mencari Posisi di Tengah Arus Globalisasi",
+    "description": "Sebagai ekonomi berorientasi perdagangan, Taiwan mendorong strategi perdagangan beragam seperti keanggotaan CPTPP dan Kebijakan Baru Menuju Selatan, mencari terobosan ruang ekonomi internasional di bawah batasan geopolitik.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/taiwan-international-trade-policy",
+    "readingTime": 62,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "id/Economy/taiwan-international-trade-policy.md"
   },
   {
     "title": "Kecil Hijau: Legenda 25 Tahun dari Rambu Lalu Lintas hingga Simbol Nasional",
@@ -46658,17 +46799,6 @@
     "path": "en/Geography/kinmen-county.md"
   },
   {
-    "title": "Kinmen: 56 Jam pada 1949 Menentukan Nasib 75 Tahun Kinmen",
-    "description": "Jarak terdekat Kinmen ke Jiaoyu, Xiamen hanya 1,8 km, sedangkan ke Taipei 358 km. Pada tahun 1387, Jiangxia Hou Zhou Dexing membangun sebuah kota di sini dengan makna 'kokoh seperti air emas, kokoh sebagai gerbang laut'. Pada pukul 02.00 dini hari 25 Oktober 1949, tiga resimen dengan 9.086 tentara Komunis mendarat di pantai Gulingtou, Tentara Nasional bertempur selama 56 jam untuk mengusir mereka. Selama 44 hari yang dimulai pada pukul 17.30 pada 23 Agustus 1958, 474.910 peluru meriam jatuh di pulau seluas 151 km², dan perang 'tembak pada hari ganjil, berhenti pada hari genap' berlangsung selama 21 tahun berikutnya. Hari ini, 145.000 jiwa terdaftar di Kinmen, dan kapal dari Dermaga Shuitou menuju Xiamen pada pukul 04.00 dini hari lebih banyak daripada pesawat ke Taipei. Cicit Ye Huacheng menunggu 67 tahun untuk meminta permintaan maaf.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/geography/kinmen-county",
-    "readingTime": 208,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "id/Geography/kinmen-county.md"
-  },
-  {
     "title": "Kinmen: As 56 horas de 1949 que determinaram o destino de Kinmen por 75 anos",
     "description": "A distância mínima entre Kinmen e Xiamen é de apenas 1,8 km, contra 358 km até Taipé. Em 1387, o Duque de Jiangxia Zhou Dexing construiu a Fortaleza de Kinmen com o significado de \"sólida como ouro e água, guardando o porto marítimo\". Em 25 de outubro de 1949, às 2h, três regimentos do Exército Popular de Libertação (EPL), totalizando 9.086 homens, desembarcaram na praia de Kuningtou; as forças da ROC lutaram ferozmente por 56 horas até rechaçá-los. Entre 23 de agosto e 6 de outubro de 1958, 474.910 projéteis de artilharia caíram sobre a ilha de 151 km²; o padrão de \"fogos de um dia sim, outro não\" durou mais 21 anos. Hoje, 145.000 pessoas têm registro em Kinmen, e os barcos que saem do cais de Shuitou para Xiamen às 4h da manhã são mais numerosos que os voos para Taipé. O bisneto de Ye Huacheng espera por um pedido de desculpas há 67 anos.",
     "category": "pt",
@@ -47002,12 +47132,12 @@
     "path": "fr/People/koxinga.md"
   },
   {
-    "title": "Krisis Iklim Taiwan dan Transisi Net Zero: Hari Referendum Nuklir-3 Gagal, Pilihan Batas Fisik Baru Saja Dimulai",
-    "description": "Referendum Perpanjangan Operasi Nuklir-3 pada 23 Agustus 2025: 4,34 juta suara setuju, 74% menyetujui, tingkat partisipasi 29,53% tidak mencapai ambang batas. Referendum gagal, keesokan harinya Lai Ching-te mengeluarkan tiga prinsip, tujuh bulan kemudian Taipower pada 27 Maret 2026 mengajukan permohonan perpanjangan ke Komisi Keamanan Nuklir. 98% energi bergantung impor, 9 triliun dolar Taiwan untuk net zero, target panas bumi 200 MW hanya tercapai 7,4 MW, kapasitas angin lepas pantai peringkat ketujuh global, Tempat Penimbunan Akhir Onkalo, nuklir generasi keempat TerraPower——masalah energi pulau ini bukan pernah soal politik, melainkan soal batas fisik.",
+    "title": "Krisis Iklim Taiwan dan Transisi Net Zero: Hari Referendum Nuklir Tiga Gagal, Pilihan Batas Fisik Baru Saja Dimulai",
+    "description": "23 Agustus 2025 referendum perpanjangan operasi Nuklir Tiga: 4,34 juta suara setuju, 74% setuju, tingkat partisipasi 29,53% tidak mencapai ambang batas. Referendum gagal, keesokan harinya Lai Ching-te mengeluarkan tiga prinsip, tujuh bulan kemudian Taiwan Power Company pada 27 Maret 2026 mengajukan permohonan perpanjangan ke Badan Keamanan Nuklir. 98% energi bergantung impor, 9 triliun dolar Taiwan net zero, target panas bumi 200 MW hanya tercapai 7,4 MW, kapasitas terpasang angin lepas pantai peringkat ketujuh global, tempat pembuangan akhir Onkalo, nuklir generasi keempat TerraPower——masalah energi pulau ini bukan pernah soal politik, melainkan soal batas fisik.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/nature/taiwan-climate-change-net-zero-transition",
-    "readingTime": 254,
+    "readingTime": 250,
     "featured": true,
     "date": "2026-05-19",
     "path": "id/Nature/taiwan-climate-change-net-zero-transition.md"
@@ -47512,6 +47642,17 @@
     "featured": false,
     "date": "2026-06-24",
     "path": "fr/Nature/daan-river-yitian-sword.md"
+  },
+  {
+    "title": "L'ère de la loi martiale",
+    "description": "Le 19 mai 1949, Chen Cheng proclame la loi martiale dans la province de Taïwan. 38 ans plus tard, le 15 juillet 1987, Chiang Ching-kuo annonce la levée de la loi martiale. Pour les régions de Kinmen et Matsu, la levée n'intervint qu'en 1992. Que se sont-ils passé durant ces cinq années ?",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/martial-law-era",
+    "readingTime": 61,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "fr/History/martial-law-era.md"
   },
   {
     "title": "L'esprit open source à Taïwan — Ces ingénieurs qui codent par passion",
@@ -49463,17 +49604,6 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "fr/Society/learning-poverty-in-taiwan.md"
-  },
-  {
-    "title": "La période de la loi martiale",
-    "description": "Le 19 mai 1949, Chen Cheng promulgue la loi martiale dans la province de Taïwan. Trente-huit ans plus tard, le 15 juillet 1987, Chiang Ching-kuo annonce sa levée. Les régions de Kinmen et Matsu n'en sortiront qu'en 1992. Qu'ont-ils vécu pendant ces cinq années ?",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/history/martial-law-era",
-    "readingTime": 56,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "fr/History/martial-law-era.md"
   },
   {
     "title": "La photographie taïwanaise",
@@ -54976,17 +55106,6 @@
     "path": "en/People/mark-liu.md"
   },
   {
-    "title": "Martial Law Era",
-    "description": "On May 19, 1949, Chen Cheng issued the Taiwan Province martial law decree. 38 years later, on July 15, 1987, Chiang Ching-kuo announced its lifting. The Kinmen-Matsu region was not lifted until 1992. What did they live through in those five years?",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/history/martial-law-era",
-    "readingTime": 49,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "en/History/martial-law-era.md"
-  },
-  {
     "title": "Masa Darurat Militer",
     "description": "Pada 19 Mei 1949, Chen Cheng memberlakukan Perintah Darurat Militer Provinsi Taiwan. Tiga puluh delapan tahun kemudian, pada 15 Juli 1987, Chiang Ching-kuo mengumumkan pencabutan darurat militer. Darurat militer di Kinmen dan Matsu baru dicabut pada 1992. Apa yang mereka alami selama lima tahun tersebut?",
     "category": "id",
@@ -56069,6 +56188,17 @@
     "path": "en/Art/taiwanese-modern-poetry.md"
   },
   {
+    "title": "Modernisasi Pertanian Taiwan",
+    "description": "Menelusuri transformasi Taiwan dari pertanian tradisional menjadi pertanian presisi modern, termasuk pertanian organik, regenerasi pedesaan, pertanian rekreasi, dan model inovasi pengembangan lainnya",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/taiwan-agricultural-modernization",
+    "readingTime": 93,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Economy/taiwan-agricultural-modernization.md"
+  },
+  {
     "title": "Modernisation de l'agriculture taïwanaise",
     "description": "Examine le processus par lequel Taïwan est passée d'une agriculture traditionnelle à une agriculture moderne de précision, y compris les modèles innovants de développement tels que l'agriculture biologique, la revitalisation rurale et l'agritourisme",
     "category": "fr",
@@ -56713,12 +56843,12 @@
     "path": "fr/Culture/national-palace-museum.md"
   },
   {
-    "title": "Museo de Arte de Nuevo Taipéi: El matorral de cañas junto al río Dahan y una estética urbana «inconclusa»",
-    "description": "El 25 de abril de 2025, el Museo de Arte de Nuevo Taipéi abrió sus puertas en Yingge. Diseñado por Kris Yao con una inversión de casi 3.000 millones de TWD, este edificio utiliza la imagen de un «matorral de cañas» para sembrar arte en la periferia urbana, reflejando las tensiones de la infraestructura pública en Taiwán.",
+    "title": "Museo de Arte de Nuevo Taipéi: El matorral de juncos junto al río Dahan y una estética urbana «inconclusa»",
+    "description": "El 25 de abril de 2025, el Museo de Arte de Nuevo Taipéi abrió sus puertas en Yingge. Esta obra de Yao Jen-hsi, con un coste de casi 3.000 millones de TWD, busca sembrar arte en la periferia urbana bajo la imagen de un «museo entre juncos».",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/art/new-taipei-city-museum-of-art",
-    "readingTime": 36,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-07-02",
     "path": "es/Art/new-taipei-city-museum-of-art.md"
@@ -56861,12 +56991,12 @@
     "path": "id/Art/alien-art-centre.md"
   },
   {
-    "title": "Museum Seni New Taipei: Semak Belukar di Tepi Sungai Dahan, dan Sebuah Estetika Kota yang \"Belum Tuntas\"",
-    "description": "Pada 25 April 2025, Museum Seni New Taipei resmi dibuka di Yingge. Bangunan yang dirancang oleh Yao Ren-xi dengan biaya hampir 3 miliar dolar Taiwan ini mengusung konsep \"Museum di Tengah Semak Belukar\", berusaha menanam benih seni di pinggiran kota. Namun, dari keterlambatan proyek, penambahan anggaran, hingga kritik \"museum nyamuk\" pasca pembukaan, ia bukan hanya istana seni, melainkan juga cerminan pembangunan publik dan visi budaya Taiwan.",
+    "title": "Museum Seni New Taipei: Semak Belukar di Tepi Sungai Dahan, dan Sebuah Estetika Kota yang \"Belum Selesai\"",
+    "description": "Pada 25 April 2025, Museum Seni New Taipei resmi dibuka di Yingge. Bangunan yang dirancang oleh Yao Ren-xi dengan biaya hampir 3 miliar dolar Taiwan ini mengusung konsep \"museum di tengah semak belukar\", berusaha menanam benih seni di pinggiran kota. Namun, dari keterlambatan konstruksi, penambahan anggaran, hingga kritik \"museum nyamuk\" setelah dibuka, ia tidak hanya istana seni, melainkan juga cerminan pembangunan publik dan visi budaya Taiwan.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/art/new-taipei-city-museum-of-art",
-    "readingTime": 36,
+    "readingTime": 37,
     "featured": false,
     "date": "2026-07-02",
     "path": "id/Art/new-taipei-city-museum-of-art.md"
@@ -57562,7 +57692,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/art/new-taipei-city-museum-of-art",
-    "readingTime": 37,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-07-02",
     "path": "en/Art/new-taipei-city-museum-of-art.md"
@@ -60197,6 +60327,17 @@
     "path": "fr/Culture/archipelago-thinking.md"
   },
   {
+    "title": "Penyanyi Kreasi Suku Asli Kontemporer",
+    "description": "Dari A-Mei hingga Suming, Sangpuy, bagaimana penyanyi suku asli Taiwan mewariskan jiwa kuno dalam musik modern, menciptakan lanskap musik suku asli kontemporer yang unik",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/contemporary-indigenous-singer-songwriters",
+    "readingTime": 81,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Music/contemporary-indigenous-singer-songwriters.md"
+  },
+  {
     "title": "Pequenas e médias empresas e campeões invisíveis de Taiwan: 1,71 milhão de empresas comuns sustentando um milagre económico",
     "description": "O verdadeiro pilar da economia de Taiwan não são as \"montanhas sagradas protectoras\", mas 1,71 milhão de PMEs aparentemente comuns que criam 79% dos empregos, entre as quais vários campeões invisíveis controlam mercados de nicho globais — desde mestres de oficina nos anos 1960 até ao reino da manufactura de precisão de hoje.",
     "category": "pt",
@@ -60744,17 +60885,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "vi/Nature/taiwan-atlas-moth.md"
-  },
-  {
-    "title": "Pinang: Dari Buah Suci ke Karsinogen, Bayangan Kelas dan Tanah di dalam Satu Buah",
-    "description": "Pada tahun 1976, kios pinang di Caotun, Nantou membuka era \"Gadis Pinang\". Buah hijau ini yang dulunya adalah persembahan suci orang asli dan \"obat penawar mala\" bagi orang Han, kini menjadi bayangan konflik kelas dan tanah dalam masyarakat Taiwan akibat kontroversi kesehatan dan lingkungan.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/society/betel-nut",
-    "readingTime": 40,
-    "featured": false,
-    "date": "2026-07-25",
-    "path": "id/Society/betel-nut.md"
   },
   {
     "title": "Pineapple Cake: From Election Refreshments to a NT$25 Billion 'Golden Brick'",
@@ -61600,6 +61730,17 @@
     "path": "hi/Technology/ptt-bulletin-board-system.md"
   },
   {
+    "title": "PTT: a praça pública mais teimosa de Taiwan",
+    "description": "Um BBS montado num dormitório em 1995, que trinta anos depois ainda opera com interface de texto puro, mas moldou profundamente a linguagem da internet, o debate político e a memória coletiva de Taiwan",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/technology/ptt-bulletin-board-system",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "pt/Technology/ptt-bulletin-board-system.md"
+  },
+  {
     "title": "PTT: Ruang Publik Paling Tabah di Taiwan",
     "description": "Sebuah BBS yang dibangun di asrama pada tahun 1995, tiga puluh tahun kemudian masih beroperasi dengan antarmuka teks murni, namun secara mendalam membentuk bahasa internet, diskusi politik, dan kenangan kolektif Taiwan",
     "category": "id",
@@ -61731,7 +61872,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/geography/offshore-islands-and-maritime-culture",
-    "readingTime": 64,
+    "readingTime": 67,
     "featured": true,
     "date": "2026-03-22",
     "path": "id/Geography/offshore-islands-and-maritime-culture.md"
@@ -62160,6 +62301,17 @@
     "featured": false,
     "date": "2026-06-13",
     "path": "pt/History/bipartisan-good-policy.md"
+  },
+  {
+    "title": "Quatro-Quatro Sul: a vila militar da fábrica de armamentos, hoje parque cultural junto ao 101",
+    "description": "Em novembro de 1948, máquinas da 44.ª Fábrica de Armamentos de Qingdao chegaram a Keelung no \"Taikang Maru\"; operários e famílias de Shandong instalaram-se em armazéns japoneses em Sanzhangli e, no ano seguinte, construíram a primeira vila militar da ROC em Taiwan — preservada hoje como quatro casas de tijolo e telha vermelha frente ao Taipei 101.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/geography/44-south-village",
+    "readingTime": 167,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "pt/Geography/44-south-village.md"
   },
   {
     "title": "Quels zoos à Taïwan : le plus ancien n'est pas à Muzha, le plus grand n'est pas qu'un zoo",
@@ -64081,6 +64233,39 @@
     "path": "es/Geography/shilin.md"
   },
   {
+    "title": "Shopee : trajectoire d'expansion de l'empire orange et enjeux de la société numérique",
+    "description": "Arrivé à Taïwan en 2015, Shopee a conquis le marché de PChome grâce aux subventions de livraison gratuite, puis a pris le contrôle du dernier kilomètre avec 2 500 points de retrait ; aujourd''hui, le géant coréen Coupang gagne du terrain. Si l''enseigne orange est désormais omniprésente, les incertitudes sur les capitaux chinois (Tencent), la vulnérabilité face aux fraudes et les tonnes de déchets d''emballage pèsent sur la société numérique taïwana\\\\u200dwanaise.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/economy/shopee",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "fr/Economy/shopee.md"
+  },
+  {
+    "title": "Shopee: La trayectoria de expansión del imperio naranja y el juego en la sociedad digital",
+    "description": "Llegada a Taiwán en 2015, Shopee desplazó a PChome con subsidios de envío gratuito y expandió su logística con 2.500 tiendas propias; ahora enfrenta la competencia de Coupang. Sin embargo, persisten dudas sobre el capital chino (Tencent), vulnerabilidades ante fraudes y un alto impacto ambiental por residuos de embalaje.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/shopee",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "es/Economy/shopee.md"
+  },
+  {
+    "title": "Shopee: The Expansion Trajectory of the Orange Empire and the Dynamics of Digital Society",
+    "description": "Entering Taiwan in 2015, Shopee used free shipping subsidies to conquer PChome''s territory and expanded its \"Shopee Xpress\" to over 2,500 stores to control the last mile of logistics. Now, South Korea''s Coupang is catching up. While the orange brand is now on every street corner, concerns regarding Chinese capital, persistent fraud vulnerabilities, and massive packaging waste remain part of Taiwan''s digital landscape.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/economy/shopee",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "en/Economy/shopee.md"
+  },
+  {
     "title": "Shopping Design : la revue qui apprend à acheter du design et qui, à la fin, vous demande de la distinguer elle-même",
     "description": "Fondée en 2006 avec le blanc pour thème de son premier numéro, « Shopping Design » a transformé en vingt ans le design, de substantif de salle d’exposition en verbe du quotidien : arpenter les boutiques et choisir des objets. Ce qu’elle a vraiment appris à Taïwan, c’est que « distinguer » peut s’entraîner comme une capacité ; et elle a étendu cette capacité jusqu’à un palmarès annuel de cent, une revue trimestrielle et un festival, ainsi qu’à la licence unique de sa maison mère, qui mentionne à la fois « édition de revues » et « services publicitaires ». Ainsi, la revue qui enseigne à distinguer finit par vous demander de la distinguer, elle.",
     "category": "fr",
@@ -64266,6 +64451,17 @@
     "featured": false,
     "date": "2026-03-25",
     "path": "vi/Nature/taiwan-island-natural-history.md"
+  },
+  {
+    "title": "Sirih Pinang: Dari Buah Suci ke Karsinogen, Kelas Sosial dan Lanskap Tanah dalam Satu Buah",
+    "description": "Pada 1976, kios sirih pinang di Caotun, Nantou, memulai era \"Gadis Sirih Pinang\". Buah hijau yang dahulu menjadi persembahan suci orang asli dan \"obat penyingkir mala\" bagi orang Han, kini menjadi cerminan ketegangan kelas sosial dan tanah di Taiwan akibat kontroversi kesehatan dan lingkungan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/betel-nut",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "id/Society/betel-nut.md"
   },
   {
     "title": "Sisi Nan Cun: la aldea de dependientes del arsenal que hoy es un parque cultural junto al Taipei 101",
@@ -66836,6 +67032,17 @@
     "path": "en/Society/taiwan-design-research-institute.md"
   },
   {
+    "title": "Taiwan e a alfândega com o EZ WAY: ao clicar em \"Declaração conforme\", a quem você delegou",
+    "description": "O celular vibra, a notificação mostra uma lista de nomes de produtos difíceis de entender, você clica em \"Declaração conforme\" e, legalmente, completa uma procuração de despacho aduaneiro. Em todo Taiwan, 7,59 milhões de pessoas se registraram neste aplicativo; em agosto de 2026, uma postagem viralizou e muitos descobriram pela primeira vez quem o opera: a Customs Trade Network, uma empresa listada onde o Ministério das Finanças detém 36,11% — participação estatal abaixo da maioria. Ao mesmo tempo, o limite de isenção de 2.000 dólares taiwaneses está sendo proposto para redução pela segunda vez pelo governo. Quem pagou a conta deste atalho de conveniência e quem, do início ao fim, não pôde dizer uma palavra.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/lifestyle/ezway",
+    "readingTime": 166,
+    "featured": true,
+    "date": "2026-08-04",
+    "path": "pt/Lifestyle/ezway.md"
+  },
+  {
     "title": "Taiwan e Coreia do Norte: O Confronto Cinzento da Quarta Maior Nação Exportadora à Frota Fantasma",
     "description": "Taiwan já foi a quarta maior nação exportadora da Coreia do Norte, com computadores Acer e instalações sanitárias HCG visíveis em escritórios em Pyongyang. Esta história, que vai do comércio aquecido ao embargo total, entrelaça assistência agrícola secreta, contrabando marítimo e uma luta profunda de inteligência de segurança nacional.",
     "category": "pt",
@@ -69402,12 +69609,12 @@
     "path": "en/Economy/taiwanese-companies-realtek-semiconductor.md"
   },
   {
-    "title": "Taiwanese Curators and Artistic Cultural Construction",
-    "description": "From independent curating to museum systems, how Taiwanese curators construct contemporary art's cultural discourse and international dialogue",
+    "title": "Taiwanese Curators and the Construction of Art Culture",
+    "description": "From institutional beginnings in the early 1990s to today's international platforms, how Taiwanese curators have constructed local art discourse amidst globalization and found their voice within the international biennial system. A 30-year evolution of cultural identity and professional institution-building.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/art/taiwanese-curators-and-artistic-cultural-construction",
-    "readingTime": 46,
+    "readingTime": 51,
     "featured": true,
     "date": "2026-03-24",
     "path": "en/Art/taiwanese-curators-and-artistic-cultural-construction.md"
@@ -71600,6 +71807,17 @@
     "path": "en/History/taiwan-maritime-trade-history.md"
   },
   {
+    "title": "The Martial Law Era",
+    "description": "On May 19, 1949, Chen Cheng promulgated the Taiwan Provincial Martial Law. 38 years later, on July 15, 1987, Chiang Ching-kuo announced the lifting of martial law. The Kinmen and Matsu regions did not see the end of martial law until 1992. What did they endure during these five years?",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/martial-law-era",
+    "readingTime": 57,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "en/History/martial-law-era.md"
+  },
+  {
     "title": "The Mingjian Incinerator Battle: When 300,000 Tons of 'Garbage Debt' Collides with a Billion-Dollar Tea Country's Survival",
     "description": "Nantou County's accumulated garbage surpassed 310,000 tons by late 2024, triggering a 'garbage siege' crisis. County Chief Hsu Shu-hua plans to build a 500-ton-per-day incinerator in Xinmin Village, Mingjian Township, sparking a resistance coalition of over 250 scholars. This is a battle for survival involving a designated agricultural zone, a Chinese stripe-necked turtle habitat, and the supply chain for Taiwan's largest hand-shaken tea market.",
     "category": "en",
@@ -73724,6 +73942,23 @@
     "path": "vi/Economy/united-microelectronics-corporation.md"
   },
   {
+    "title": "UMC (United Microelectronics Corporation) — Pelopor Founderi Wafer Taiwan",
+    "description": "Founderi wafer pertama Taiwan, selama setengah abad menyaksikan dan mendorong perjalanan ajaib industri semikonduktor Taiwan dari nol",
+    "category": "id",
+    "tags": [
+      "Ekonomi",
+      "Perusahaan",
+      "Semikonduktor",
+      "Founderi Wafer",
+      "Teknologi"
+    ],
+    "url": "https://taiwan.md/id/economy/united-microelectronics-corporation",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "id/Economy/united-microelectronics-corporation.md"
+  },
+  {
     "title": "Un siècle d'aquarelle taïwanaise : de Kinichirō Ishikawa à Jian Zhongwei, un héritage séculaire",
     "description": "En 1907, Kinichirō Ishikawa arrive à Taïwan pour y enseigner, plantant la racine d'un siècle d'aquarelle sur l'île. Son élève Lan Yin Ding intègre la Royal Watercolour Society britannique en 1929 ; en 1934, des peintres locaux fondent de leur propre initiative l'Association artistique Taiyang. Après la guerre, Ma Baishui fusionne l'encre de Chine et l'aquarelle, tandis que Xi Dejin immortalise l'architecture traditionnelle taïwanaise. Dans les années 1990, trois associations coexistent et se connectent au réseau international IWS. Aujourd'hui, Jian Zhongwei s'illustre sur la scène internationale en tant que membre signataire à la fois de l'AWS et de la NWS. Ce parcours séculaire, de l'éducation coloniale normée aux compétitions internationales, relie la tradition du *plein air*, le système d'écoles normales et la communauté mondiale de l'aquarelle. La vitalité de l'aquarelle taïwanaise naît précisément de la tension entre institutions officielles et initiatives indigènes, entre racines locales et influences extérieures, entre tradition et compétition.",
     "category": "fr",
@@ -75186,11 +75421,11 @@
   },
   {
     "title": "Want Want: Dari Raja Kue Beras ke Raksasa Media, Transisi Kekuasaan",
-    "description": "Pada 1976, Tsai Eng-meng berusia 19 tahun mengambil alih Yilan Food, dari diejek sebagai \"pemboros harta\" hingga bangkit berkat teknologi kue beras Jepang menjadi orang terkaya. Setelah mengakuisisi Grup China Times pada 2008, kerajaan camilan ini bertransformasi menjadi raksasa media paling kontroversial di Taiwan, memicu gerakan anti-monopoli media yang tak terduga sebelumnya.",
+    "description": "Pada 1976, Tsai Eng-meng berusia 19 tahun mengambil alih Yilan Food, dari diejek sebagai \"pemboros\" hingga bangkit berkat teknologi kue beras Jepang menjadi orang terkaya. Setelah mengakuisisi China Times Group pada 2008, kerajaan camilan ini bertransformasi menjadi raksasa media paling kontroversial di Taiwan, memicu gerakan anti-monopoli media yang tak tertandingi dalam sejarah.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/economy/want-want-group",
-    "readingTime": 32,
+    "readingTime": 33,
     "featured": false,
     "date": "2026-07-24",
     "path": "id/Economy/want-want-group.md"
@@ -79545,6 +79780,17 @@
     "path": "ru/Geography/how-to-read-the-taiwan-map.md"
   },
   {
+    "title": "Какие зоопарки есть на Тайване: старейший не в Мучжи, а крупнейший — не просто зоопарк",
+    "description": "От Юаньцзай до ночевки в Музее морской биологии: зоопарки Тайваня — это не просто список семейных достопримечательностей, а маршрут по острову, выросший из городской жизни, туризма и морского образования.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/taiwan-zoos",
+    "readingTime": 100,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "ru/Society/taiwan-zoos.md"
+  },
+  {
     "title": "Као Чжунь-мин",
     "description": "Незнакомец, которого он никогда не встречал, заставил пастора поставить на кон жизнь и церковь — выбор веры за событием «Мэйлидао»",
     "category": "ru",
@@ -79631,6 +79877,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/Nature/cetaceans-of-taiwan.md"
+  },
+  {
+    "title": "Климат Тайваня",
+    "description": "Годовое количество осадков в 2,5 раза превышает мировое среднее, но Тайвань входит в двадцатку стран, страдающих от дефицита воды — климат Тайваня никогда не был таким, каким вы его представляете",
+    "category": "ru",
+    "tags": [
+      "география",
+      "климат",
+      "тайфуны",
+      "сезон мэйюй",
+      "изменение климата"
+    ],
+    "url": "https://taiwan.md/ru/geography/climate",
+    "readingTime": 56,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "ru/Geography/climate.md"
   },
   {
     "title": "Климатический кризис Тайваня и нетто-нулевая трансформация: после провала референдума по третьему АЭС выборы на пределе физических возможностей только начинаются",
@@ -81071,7 +81334,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/art/new-taipei-city-museum-of-art",
-    "readingTime": 33,
+    "readingTime": 35,
     "featured": false,
     "date": "2026-07-02",
     "path": "ru/Art/new-taipei-city-museum-of-art.md"
@@ -81275,10 +81538,21 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/geography/offshore-islands-and-maritime-culture",
-    "readingTime": 70,
+    "readingTime": 71,
     "featured": true,
     "date": "2026-03-22",
     "path": "ru/Geography/offshore-islands-and-maritime-culture.md"
+  },
+  {
+    "title": "Открытый культурный фонд: помогая самой неконтролируемой группе людей на Тайване, делать самую скучную из вещей",
+    "description": "В 2020 году карта масок вышла в сеть за три дня, все на Тайване помнят это чудо, но никто не помнит, кто помог проекту с отчётностью, контрактами, страховкой. Этот бэк-офис назывался Открытый культурный фонд — децентрализованное движение под лозунгом «никто не всемогущ», которое, чтобы хакеры могли продолжать хакерствовать, в итоге вынуждено было самому вырастить фонд, умеющий выставлять счета и подчиняющийся совету директоров. Через десять лет этот бэк-офис, который только хотел помогать с отчётностью, стал именем, которое вспоминают на международной арене, когда речь заходит о цифровых правах человека на Тайване.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/technology/open-culture-foundation",
+    "readingTime": 157,
+    "featured": false,
+    "date": "2026-06-03",
+    "path": "ru/Technology/open-culture-foundation.md"
   },
   {
     "title": "Официальные веб-сайты",
@@ -81385,6 +81659,17 @@
     "path": "ru/Geography/penghu-county.md"
   },
   {
+    "title": "Переезд Национального правительства на Тайвань и послевоенное восстановление",
+    "description": "Янь Цзянь пришел из Фуцзяня, стал свидетелем истории переезда Национального правительства на Тайвань в 1949 году. 1,2 млн военных и гражданских, 38 лет чрезвычайного положения, аграрная реформа — как эта история переплавила Тайвань?",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/history/kmt-government-relocation-and-postwar-reconstruction",
+    "readingTime": 55,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ru/History/kmt-government-relocation-and-postwar-reconstruction.md"
+  },
+  {
     "title": "Переходная справедливость на Тайване",
     "description": "Тайвань отменила почти шесть тысяч приговоров авторитарного периода, но практически ни один виновник не был привлечен к ответственности — этот разрыв сложнее для объяснения, чем сам Белый террор.",
     "category": "ru",
@@ -81397,11 +81682,11 @@
   },
   {
     "title": "Период военного положения",
-    "description": "19 мая 1949 года Чэнь Чэнь провозгласил указ о военном положении в провинции Тайвань. Через 38 лет, 15 июля 1987 года, Цзян Цзинго объявил о его снятии. На островах Цзиньмэнь и Мацзу военное положение сохранялось до 1992 года. Что пережили люди за эти пять лет?",
+    "description": "19 мая 1949 года Чэнь Чэнь провозгласил указ о военном положении в провинции Тайвань. Через 38 лет, 15 июля 1987 года, Цзян Цзинго объявил о его отмене. На островах Цзиньмэнь и Мацзу военное положение сохранялось до 1992 года. Что пережили их жители за эти пять лет?",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/history/martial-law-era",
-    "readingTime": 54,
+    "readingTime": 56,
     "featured": true,
     "date": "2026-03-17",
     "path": "ru/History/martial-law-era.md"
@@ -81836,6 +82121,17 @@
     "path": "ru/About/taiwan-official-resources-revisit.md"
   },
   {
+    "title": "Рождение учителя: сорок лет реформ и коллапса системы подготовки педагогов в Тайване",
+    "description": "В 1994 году Законодательный юань принял «Закон о подготовке педагогов», заменив «единую систему нормальных училищ» на «открытую многообразную подготовку», что тогда считалось вехой прогресса в истории образования Тайваня. Через тридцать лет цифры трезвы: из первоначальных 9 педагогических университетов после волны слияний осталось лишь 3, в 109 учебном году (2020) дефицит набора во все учреждения подготовки педагогов достиг исторического максимума — 1551 человек, проходной балл экзамена на квалификацию учителя в 112–113 учебных годах (2023–2024) упал до 52 % (новый минимум за последние годы), почти половина студентов-педагогов рассматривают курсы как «страховку», 42 % бросают до получения удостоверения учителя. Страна потратила тридцать лет на реформу системы подготовки кадров, а итог таков: желающих стать учителями становится меньше, а тех, кто остаётся, готовят всё дальше от реальной школы.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/becoming-a-teacher-taiwan-teacher-training",
+    "readingTime": 153,
+    "featured": true,
+    "date": "2026-04-12",
+    "path": "ru/Society/becoming-a-teacher-taiwan-teacher-training.md"
+  },
+  {
     "title": "Сакура-коу-су: путь домой ледникового наследия, от исчезновения к комплексной охране бассейна Тайваня — чудо",
     "description": "1917 год, японский ученый Одама Масамити обнаружил в Тайване ледниковое наследие «Сакура-коу-су», тайя называют его «Mnbang». После разрушения среды обитания и резкого сокращения популяции до 200 особей в 1995 году, благодаря разрушению плотин, искусственному восстановлению и инновационной технологии «безводного транспортирования» к 2023 году число достигло 18 000 особей, в последние годы хотя и колеблется, но стабильно держится выше 15 000, став успешным примером комплексной охраны бассейна Тайваня.",
     "category": "ru",
@@ -81924,6 +82220,17 @@
     "path": "ru/People/ximurong.md"
   },
   {
+    "title": "Симэндин: квартал развлечений, построенный японцами в 1896 году, через 130 лет всё ещё самая молодая улица Тайбэя",
+    "description": "В декабре 1908 года открылся Симэнь Хуньлоу, спроектированный Кондо Дзиро — Багуа тань и крестообразное здание Дзицзы лоу, два кирпичных рынковых корпуса, стали «Асакуса», подаренной японской империей Тайбэю. Через тридцать лет японцы ушли, в 1961 году вдоль трансляционной железной дороги выросли восемь зданий торгового центра Чжуньхуа, а в 1992 году их снесли вместе с путями. В 1999 году обозначили пешеходную зону, открылась линия Баньнань, и Симэндин превратился в открытую гостиную тайбэйских подростков. От пригородной территории эпохи Цин, через развлекательный спецрайон японского периода, послевоенную киноулицу, эпоху военного положения с MTV, послевоенные хип-хоп и скейтбординг — до кospлея и гей-баров 2026 года: под тем же Багуа тань уже сменилось пять поколений юношей.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/ximending",
+    "readingTime": 196,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "ru/Geography/ximending.md"
+  },
+  {
     "title": "Синь-французская война: восемь месяцев в Цзилуне и Даньшуе",
     "description": "Осенью 1884 года французский флот обстрелял порт Цзилун, высадился 2000 морских пехотинцев и оккупировал порт. Но семь месяцев они так и не смогли выбраться из гор Цзилуна. В ту же неделю 600 французских матросов высадились в Даньшуе, и за два часа их загнали обратно в море. К концу войны Франция получила Вьетнам, но отказалась от Тайваня. Цинская династия почти проиграла, но именно поэтому Тайвань из подчиненной территории превратился в провинцию.",
     "category": "ru",
@@ -81933,6 +82240,17 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "ru/History/sino-french-war-in-taiwan.md"
+  },
+  {
+    "title": "Система глав вей и ли: 7748 избраных глав, основная политическая единица Тайваня",
+    "description": "Офис главы ли в 5:30 утра, ежемесячное пособие на дела 45 000, более 60 % безпартийных — глава вей/ли — это должность, которая меньше всего похожа на «политическую» в выборах на Тайване, и в то же время наиболее полное доказательство демократизации Тайваня. От системы баоцзя эпохи японского правления до прямых выборов 1950 года — эти 7748 должностей по всему Тайваню, больше чем магазинов 7-Eleven, обеспечивают работу восьмидесяти лет местного посредничества.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/politics/village-chief-system",
+    "readingTime": 110,
+    "featured": false,
+    "date": "2026-05-27",
+    "path": "ru/Politics/village-chief-system.md"
   },
   {
     "title": "Система депутатов: почему она отличается от законодателей, и как SNTV осталась в местной политике на 30 лет",
@@ -82021,6 +82339,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ru/Music/contemporary-indigenous-singer-songwriters.md"
+  },
+  {
+    "title": "Содагрин: им потребовалось двадцать лет, чтобы узнать, что за своё название тоже приходится судиться",
+    "description": "В 2001 году на сцене премии «Цзиньсюань» Национального университета Чэньчэнь четыре студента создали группу, в 2003 году их открыл на фестивале Гунляо Линь Вэйчжэ, после проекта «Вивальди» они гастролировали по Пекину и Берлину, в 2019 году их подавили в суд, а только в 2023 году в «Сяоцзюйцян» они забрали обратно своё имя — Содагрин прошла двадцать лет, чтобы выучить урок: первая задача тайваньской инди-группы при дебюте — зарегистрировать название коллектива.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/music/sodagreen",
+    "readingTime": 237,
+    "featured": false,
+    "date": "2026-06-09",
+    "path": "ru/Music/sodagreen.md"
   },
   {
     "title": "Создатели гор: Ставка века — Тайваньская эпическая сага о полупроводниках, произнести название которой можно лишь стерев из него одно слово",
@@ -82171,6 +82500,17 @@
     "featured": false,
     "date": "2026-07-02",
     "path": "ru/History/sanxia-old-street.md"
+  },
+  {
+    "title": "Стартап-экосистема",
+    "description": "История развития тайваньской стартап-экосистемы: от ранних вызовов до современных акселераторов, венчурного окружения и стремления к созданию «единорогов»",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/economy/taiwan-startup-ecosystem-overview",
+    "readingTime": 94,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ru/Economy/taiwan-startup-ecosystem-overview.md"
   },
   {
     "title": "Стив Чен (Чэнь Шьцзюнь)",
@@ -84520,6 +84860,17 @@
     "path": "ru/People/tsai-ming-liang.md"
   },
   {
+    "title": "Цай Цзянья: четырежды королева «Золотой Мелодии», как сингапурец сделал Тайвань своей главной ареной",
+    "description": "От 1996 года, когда клавишник в сингапурском баре сказал ей заткнуться, до 2022 года, когда Цай Цзянья за одну ночь завоевала четыре награды на 33-й церемонии «Золотой Мелодии» — прошло 26 лет, за которые она стала единственной в истории китайскоязычной поп-музыки четырехкратной обладательницей награды лучшей певицы. Она не родилась на Тайване, но «Золотая Мелодия», место жительства, партнёры по творчеству и самые любимые публикой песни — всё это выросло на Тайване — история того, как иностранный артист обрёл местную идентичность, началась с решения 2006 года разорвать контракт с Warner Music, переехать в Тайбэй и основать студию «Тянья».",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/tanya-chua-singer",
+    "readingTime": 78,
+    "featured": true,
+    "date": "2026-04-28",
+    "path": "ru/People/tanya-chua-singer.md"
+  },
+  {
     "title": "Цао Синчэнь: от тирана кристаллических пластин к антикоммунистическому защитнику Тайваня «Восьминеотречённому обитателю»",
     "description": "В 1984 году предложил Моррису Чангу модель чистого кристаллического парка, но получил отказ; в 1995 году бросил вызов TSMC «моделью совместных предприятий». Основатель UMC, когда-то пропагандировавший «референдум об объединении», после неудач экспансии на материковый Китай и перемен в Гонконге в 2022 году пожертвовал 3 млрд тайваньских долларов на нужды обороны, совершив удивительную метаморфозу от технологического магната к антикоммунистическому вожду.",
     "category": "ru",
@@ -85904,6 +86255,17 @@
     "path": "ru/People/stanley-yen.md"
   },
   {
+    "title": "آخر أغنية للجزيرة: عام التنين لم ينقذ 0.695",
+    "description": "عام 2024 هو عام التنين، وكان التايوانيون يتسابقون للإنجاب طلباً للحظ، لكن هذا العام شهد انخفاضاً بـ 715 مولوداً عن سابقه، ولأول مرة منذ 48 عاماً يفشل سحر عام التنين. انهار معدل الخصوبة الإجمالي ليصل إلى 0.695. لكن الشفرة الحقيقية لم تكن أبداً أن التايوانيين لا ينجبون (فأكثر من 70% من الأزواج ينجبون طفلين أو أكثر)، بل أنهم لا يتزوجون؛ ومع ذلك صرفت الحكومة الأموال لعقد من الزمن على \"الخوف من الإنجاب\"، ولم تنجح أي دولة في العالم في شراء معدل الخصوبة بالمال.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-low-birth-rate-crisis",
+    "readingTime": 138,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "ar/Society/taiwan-low-birth-rate-crisis.md"
+  },
+  {
     "title": "آكل النمل الحرشفي التايواني",
     "description": "أكثر الثدييات تهريباً في العالم، وجدت ملاذاً آمناً في تايوان",
     "category": "ar",
@@ -86098,6 +86460,17 @@
     "path": "ar/People/george-leslie-mackay.md"
   },
   {
+    "title": "أكاديمية الدب الأسود: مدرسة دفاع مدني تأمل أن يأتي يوم لا تحتاج فيه للوجود",
+    "description": "في عام 2021، جلس خمسة متطوعين في مقهى لمدة خمس ساعات، وقرروا تعليم التايوانيين كيفية مواجهة الحرب — وبعد إقامة بضع فعاليات فقط، وجدوا أنفسهم مديونين بـ 210 آلاف. في العام التالي، غزت روسيا أوكرانيا، فتبرع تساو شينغ-تشنغ بـ 600 مليون، مطلقاً هدف «ثلاث سنوات، ثلاثة ملايين محارب من الدب الأسود». تعلم الأكاديمية استخدام رباط الضغط، والإخلاء، والوقاية من الاحتيال، وتصرح صراحة: «ليست تدريباً للميليشيا أبداً». وكلما كانت أكثر جدية في التعليم، أدرجتها الصين في قائمة «استقلال تايوان»، وتعاملها الداخل ككرة قدم سياسية. مدرسة ولدت بسبب الحرب، لكنها تأمل أن يأتي يوم لا تُستخدم فيها.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/kuma-academy-civil-defense-school",
+    "readingTime": 153,
+    "featured": false,
+    "date": "2026-06-21",
+    "path": "ar/Society/kuma-academy-civil-defense-school.md"
+  },
+  {
     "title": "أن تشي هيون",
     "description": "من التشجيع الاحترافي الكوري إلى مساعد أجنبي رئيسي في وينغ ستارز التابعة لتي إس جي هوكس، جلبت تجربة الأداء عبر الحدود إلى ملعب كاوهسيونغ الرئيسي؛ وأصبح جدول قبة تايبيه الكبرى لعام 2026 عقدة عامة لمراقبة تعديل إصابتها ودورها على خط التماس.",
     "category": "ar",
@@ -86175,6 +86548,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "ar/Society/where-did-taiwan-moral-education-go.md"
+  },
+  {
+    "title": "إد تشي: التايواني الذي علّم الذكاء الاصطناعي \"التفكير خطوة بخطوة\"، ونقل علم النفس المعرفي إلى الآلات",
+    "description": "إد تشي هو نائب رئيس الأبحاث في جوجل ديب مايند، ومؤلف مشارك في ورقة \"سلسلة التفكير\" التي مكّنت الذكاء الاصطناعي من \"الاستدلال خطوة بخطوة\". هذا التايواني الذي نشأ في دانشوي، حوّل مفهوم \"كيف يتعلم البشر\" من علم النفس المعرفي (نظرية المخطط لبياجيه) إلى منهجية لتعليم الآلات الاستدلال. وهذا الاختراق الذي غيّر مسار الذكاء الاصطناعي كلف حوالي خمسة آلاف دولار فقط، لأن المشكلة لم تكن أبدًا قابلة للحل بقوة الحوسبة وحدها.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chi-huai-hsin",
+    "readingTime": 99,
+    "featured": true,
+    "date": "2026-06-27",
+    "path": "ar/People/chi-huai-hsin.md"
   },
   {
     "title": "إدوارد يانغ: بمنطق المهندس الأبرد، صوّر وحدة القلوب الأشد حرارة",
@@ -86723,7 +87107,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/geography/offshore-islands-and-maritime-culture",
-    "readingTime": 57,
+    "readingTime": 59,
     "featured": true,
     "date": "2026-03-22",
     "path": "ar/Geography/offshore-islands-and-maritime-culture.md"
@@ -89442,6 +89826,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "ar/Geography/qingshui-cliff.md"
+  },
+  {
+    "title": "جزر ماتسو الدولية للفنون: متحف بلا قاعات عرض، يستعير الأرخبيل بأكمله ليكون فضاءً للمعرض",
+    "description": "تُوضع الأعمال في مزارع الدجاج، ومحلات البقالة، ومطعم لا يُدخل إلا بالحجز المسبق، وهناك عمل على متن السفينة المتجهة إلى نانغان. مهرجان ماتسو الدولي للفنون الذي تنظمه حكومة مقاطعة ليينجيانغ وجمعية الثقافة الصينية، يمتد على عشر سنوات وخمس دورات متناثرة في أربع بلدات وخمس جزر، دون أن يبني لنفسه قاعة عرض واحدة؛ فالأنفاق التي شهدت الحرب، ودور السينما العسكرية، والمتاجر، ورحلات العبارات كلها مستعارة كفضاءات عرض، وأوقات الفتح تتبع مواعيد المتاجر. هذا هو التجسيد الملموس لمفهوم \"متحف الجزر\" الذي تحدث عنه رئيس المقاطعة، وفي تلك الفضاءات المستعارة، كان هناك من يتحدث منذ زمن بعيد.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/art/matsu-biennial",
+    "readingTime": 182,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "ar/Art/matsu-biennial.md"
   },
   {
     "title": "جسد دافئ في الخامسة فجرًا: سلسلة توريد حساء اللحم البقري في تاينان وطزاجته",
@@ -92297,7 +92692,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/art/new-taipei-city-museum-of-art",
-    "readingTime": 28,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-07-02",
     "path": "ar/Art/new-taipei-city-museum-of-art.md"
@@ -92613,6 +93008,17 @@
     "path": "ar/Lifestyle/taoyuan-airport.md"
   },
   {
+    "title": "معتقدات تايوان الدينية: إمبراطورية الإيمان التي نمت في الخوف",
+    "description": "جزيرة ذات أعلى كثافة معابد في العالم وثاني أعلى ترتيب للحرية الدينية في آسيا، أكبر معتقدين فيها — وانغ ييه (王爺) وماتسو (媽祖) — أصولهما التاريخية مرتبطة بالوباء والموت. من المهاجرين العسكريين في القرن السابع عشر الذين حملوا تماثيل الآلهة وعبروا هيشوي قو (黑水溝)، إلى 94 نقطة في تقرير الحرية لعام 2025؛ من حظر ييغوان داو (一貫道) عام 1953، وتقنينه أول مرة بعد رفع الأحكام العرفية عام 1987، إلى المراكز البوذية الأربعة الكبرى والكنيسة المشيخية (長老教會) كل يسلك طريقه في علاقة الدين بالسياسة — إيمان تايوان ليس في النصوص المقدسة، بل في بخور زوايا الشوارع.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/culture/taiwan-religion-and-temple-culture",
+    "readingTime": 106,
+    "featured": true,
+    "date": "2026-04-28",
+    "path": "ar/Culture/taiwan-religion-and-temple-culture.md"
+  },
+  {
     "title": "معهد أبحاث التصميم في تايوان: المؤسسة التي تسلل التصميم سراً إلى المراكز الصحية وبطاقات الاقتراع",
     "description": "في عام 2022، بعد تجديد منطقة بيع التذاكر في محطة تشونغشان لمترو تايبيه، علق شخص قائلاً: \"أُنجِز بشكل جيد، لكن لا تفعل ذلك مجدداً\". مؤسسة نجت بفضل جائزة النقطة الذهبية، ومعرض التصميم الذي استقطب ملايين الزوار، والتصنيفات الدولية، لكن أكبر رهان لها يكمن في الأماكن التي \"لا تشعر بها\" — منطقة الانتظار في المركز الصحي في شيجي، وخط بطاقة الاقتراع التي في يدك. من كون \"صنع في تايوان\" مرادفاً للمنتجات المقلدة إلى \"قوة التصميم هي قوة الدولة\"، يريد معهد أبحاث التصميم في تايوان إثبات أن جزيرة التصنيع التعاقدي هذه تستطيع أن تقرر بنفسها كيف تبدو الأشياء، بما في ذلك طريقة تواصل الحكومة مع الناس.",
     "category": "ar",
@@ -92668,23 +93074,23 @@
     "path": "ar/Geography/chiayi-county.md"
   },
   {
-    "title": "مقاطعة كينمن: تلك الـ 56 ساعة في عام 1949، حددت مصير كينمن لـ 75 عامًا",
-    "description": "تبعد كينمن عن جزيرة جياو يو في شيامن 1.8 كيلومتر فقط، وعن تايبيه 358 كيلومترًا. بنى تشو ده شينغ، ماركيز جيانغ شيا، مدينة كينمن في عام 1387 مستمدًا الاسم من معنى \"ثابت كالمعدن، حارس البوابة البحرية\". في 25 أكتوبر 1949، هبطت ثلاثة أفواج من جيش التحرير الشعبي قوامها 9,086 جنديًا على شاطئ غونينغتو في الثانية فجرًا، وصدهم جيش الجمهورية الصينية بعد قتال استمر 56 ساعة. ابتداءً من 23 أغسطس 1958 الساعة الخامسة والنصف مساءً، سقط 474,910 قذيفة مدفعية على مساحة 151 كيلومترًا مربعًا خلال 44 يومًا، تلتها سياسة \"القصف في الأيام الفردية والتوقف في الزوجية\" لـ 21 عامًا. اليوم، يسكن المقاطعة 145 ألف نسمة مسجلين، وفي الرابعة فجرًا تغادر مرسى شويتو قوارب متجهة إلى شيامن أكثر من الطائرات المتجهة إلى تايبيه. حفيد ييه هوا تشنغ ينتظر اعتذارًا منذ 67 عامًا.",
+    "title": "مقاطعة كينمن: تلك الـ 56 ساعة في عام 1949، التي حددت مصير كينمن لـ 75 عاماً",
+    "description": "تبعد كينمن عن جزيرة جياويو في شيامن 1.8 كيلومتر فقط، وعن تايبيه 358 كيلومتراً. في عام 1387، بنى تشو ده-شينغ، ماركيز جيانغشيا، مدينة كينمن بمعنى \"ثابت كالمعدن، حارس البوابة البحرية\". في 25 أكتوبر 1949 الساعة 2 فجراً، هبطت ثلاثة أفواج من جيش التحرير الشعبي قوامها 9,086 جندياً في شاطئ غونينغتو، وصدها الجيش الوطني بعد قتال عنيف استمر 56 ساعة. بدءاً من 23 أغسطس 1958 الساعة 5:30 مساءً، سقطت 474,910 قذيفة مدفعية على الجزيرة البالغة 151 كيلومتراً مربعاً خلال 44 يوماً، تلتها سياسة \"القصف في الأيام الفردية والتوقف في الأيام الزوجية\" لـ 21 عاماً. اليوم يسكن كينمن 145,000 نسمة مسجلين، وفي الرابعة فجراً تغادر مرسى شويتو قوارب متجهة إلى شيامن أكثر من الطائرات المتجهة إلى تايبيه. حفيد يي هوا-تشينغ الأكبر انتظر 67 عاماً لاعتذار.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/geography/kinmen-county",
-    "readingTime": 157,
+    "readingTime": 158,
     "featured": false,
     "date": "2026-05-18",
     "path": "ar/Geography/kinmen-county.md"
   },
   {
-    "title": "مقاطعة ليانجيانغ: أبعد مقاطعات تايوان، وأقربها إلى الحرب الباردة",
-    "description": "من قمة جبل نانغان، تظهر مدينة فوتشو على بعد 16 كيلومترًا فقط. تايبيه تبعد 200 كيلومتر، ومقر مقاطعة ليانجيانغ يقع في الجانب الذي يسيطر عليه جيش التحرير الشعبي. في عام 1617، أسر شين يو رونغ 69 قرصانًا يابانيًا (واكو) تحت جبل دونغجو. في عام 1956، حول الجيش الوطني هذه الجزر الخمس إلى منطقة إدارة شؤون حربية. في عام 1992، أنهت كينمن وما تسو الأحكام العرفية متأخرة 5 سنوات عن تايوان. اليوم يسكن هنا 13,646 نسمة، ومعدل فقدان لغة ما تسو بلغ 94%، والاستفتاء المحلي الوحيد الذي مر في تايوان عام 2012 بشأن المقامرة لم يُنفّذ حتى اليوم. \"الدموع الزرقاء\" تجذب 200 ألف سائح سنويًا، لكن السكان المحليين يتذكرون حظر الإضاءة. مقاطعة مساحتها 28.8 كيلومترًا مربعًا، تضغط تاريخ تايوان الحربي البارد في ذاتها.",
+    "title": "مقاطعة ليانجيانغ: أبعد مقاطعة عن تايوان، وأقربها إلى الحرب الباردة",
+    "description": "من قمة نانغان، تظهر مدينة فوتشو على بعد 16 كيلومترًا فقط. تايبيه تبعد 200 كيلومتر، ومقر مقاطعة ليانجيانغ يقع في الجانب الذي يسيطر عليه الجيش الشيوعي. في عام 1617، أسر شين يو رونغ 69 قرصانًا يابانيًا (واكو) تحت جبل دونغجو. في 1956، حول الجيش الوطني الجزر الخمس إلى منطقة إدارة حربية. في 1992، أنهت جينمن وماتسو الأحكام العرفية متأخرتين 5 سنوات عن تايوان. اليوم يسكن هنا 13,646 نسمة، ومعدل فقدان لغة ماتسو بلغ 94%، والاستفتاء المحلي الوحيد الذي مرّ في 2012 بشأن الكازينوهات لا يزال دون تنفيذ. \"الدموع الزرقاء\" تجذب 200 ألف سائح سنويًا، لكن السكان المحليون يتذكرون قيود الإضاءة. مقاطعة بمساحة 28.8 كيلومترًا مربعًا، تضغط تاريخ تايوان الحربي البارد في ذاتها.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/geography/lienchiang-county",
-    "readingTime": 161,
+    "readingTime": 164,
     "featured": false,
     "date": "2026-05-18",
     "path": "ar/Geography/lienchiang-county.md"
@@ -93151,6 +93557,17 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "ar/People/nam-min-jung.md"
+  },
+  {
+    "title": "نبيذ شاوشينغ بوري: خمر تايوان الوطني الذي اخترعته حكومة منفية عام 1952",
+    "description": "تأسس المصنع عام 1917، ولم يُنتج أول دفعة من نبيذ شاوشينغ إلا في عام 1952 — جاء التوقيت مباشرة بعد انسحاب حكومة الكومينتانغ. قصة مصنع بوري للكحول هي تجربة حولت الحنين السياسي إلى سلعة باستخدام الأرز اللزج وماء الآبار. اليوم، عندما تلتقط نودلز الدجاج بنبيذ هوا دياو من متجر 7-11، فأنت تمسك بطعم من تاريخ تايوان ما بعد الحرب.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/food/puli-shaoxing-wine",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "ar/Food/puli-shaoxing-wine.md"
   },
   {
     "title": "نظام أعضاء المجالس المحلية: لماذا يختلف عن النواب، وبقاء نظام SNTV في السياسة المحلية لمدة 30 عاماً",
@@ -94424,6 +94841,17 @@
     "path": "hi/Society/military-service-in-taiwan.md"
   },
   {
+    "title": "किमन काउंटी: 1949 के वे 56 घंटे, जिन्होंने किमन के 75 वर्षों का भाग्य तय किया",
+    "description": "किमन, श्यामेन के च्याओ यू द्वीप से केवल 1.8 किमी दूर है, जबकि ताइपे से 358 किमी। 1387 में च्यांगशा हाउ चाउ तेह-ह्सिंग ने यहाँ किला बनवाया, जिसका अर्थ था \"सोने की तरह मजबूत, समुद्री द्वार का शक्तिशाली प्रहरी\"। 25 अक्टूबर 1949 को तड़के 2 बजे कम्युनिस्ट सेना की तीन रेजिमेंटों के 9,086 सैनिकों ने गुनिंगतौ तट पर लैंडिंग की, जिसे राष्ट्रवादी सेना ने 56 घंटों की भीषण लड़ाई में खदेड़ दिया। 23 अगस्त 1958 को शाम 5:30 बजे शुरू हुए 44 दिनों में, 474,910 तोप के गोले 151 वर्ग किमी के द्वीप पर गिरे, जिसके बाद \"एक दिन मार, दो दिन नहीं\" की नीति 21 साल चली। आज 1.45 लाख लोग किमन में पंजीकृत हैं, भोर 4 बजे शुई तौ बंदरगाह से श्यामेन जाने वाली नावें ताइपे जाने वाली उड़ानों से ज्यादा हैं। ये हुआ-चेंग के परपोते 67 साल से माफी की मांग कर रहे हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/geography/kinmen-county",
+    "readingTime": 169,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "hi/Geography/kinmen-county.md"
+  },
+  {
     "title": "की पो-हाओ ची: अर्थशास्त्र से ध्वनि-कला में आए व्यक्ति, जो एल्गोरिदम से एक सवाल पूछते हैं—क्या तुमने सचमुच सुना?",
     "description": "की पो-हाओ ची (पोहाओ ची), 1989 में जन्मे, ध्वनि कलाकार, संगीतकार, क्यूरेटर। नेशनल ताइवान यूनिवर्सिटी के अर्थशास्त्र विभाग से स्नातक, लंदन के गोल्डस्मिथ्स से संगीत में मास्टर्स; 2021 में MIT आर्ट, कल्चर एंड टेक्नोलॉजी मास्टर्स के रूप में हेरोल्ड एंड अर्लीन श्निट्जर पुरस्कार विजुअल आर्ट्स में प्रथम पुरस्कार प्राप्त किया। 2014 में ताइपे फाइन आर्ट्स अवार्ड के लिए चुने गए, नेशनल ताइवान म्यूजियम ऑफ फाइन आर्ट्स के प्रायोजन से नीदरलैंड्स के V2 रॉटरडैम में रेजिडेंसी, क्लाउड गेट डांस थिएटर के \"वांडरर्स प्रोजेक्ट\" के लिए चुने गए; 2015 में हेक्सी कॉरिडोर के साथ 1000 किलोमीटर से अधिक की यात्रा, 2017 में जोन साउंड क्रिएटिव स्टूडियो की स्थापना। 2025 में C-LAB DIVERSONICS में \"रिसाइटर 2.0\" प्रस्तुत किया, और \"वॉटरस्केप साइबरनेटिक्स\" के साथ आर्स इलेक्ट्रोनिका 2025 पॉलीफोनी ताइवान पैवेलियन के लिए चुने गए; मार्च 2026 में पेरिस IRCAM फोरम वर्कशॉप्स में भाग लिया, अप्रैल 2026 में \"लाइफ इन मोशन\" लॉस एंजिल्स के द म्यूजिक सेंटर में प्रदर्शित। वे एल्गोरिदम, GPS, AI सिंथेटिक ध्वनि, सेंसर का उपयोग करके दुनिया को मापते हैं, लेकिन हमेशा एक ही सवाल पूछते हैं: क्या \"सुनने\" का कार्य अभी भी अपनी इच्छा रखता है।",
     "category": "hi",
@@ -94937,6 +95365,23 @@
     "path": "hi/Politics/taiwan-election-process.md"
   },
   {
+    "title": "चू के-लियांग: ताइवान के शो-वेन्यू संस्कृति के राष्ट्रीय सम्राट",
+    "description": "ताइवान के शो-वेन्यू संस्कृति के प्रतिनिधि, राष्ट्रीय हास्य अभिनेता, 2017 में निधन",
+    "category": "hi",
+    "tags": [
+      "चू के-लियांग",
+      "शो-वेन्यू",
+      "हास्य",
+      "वैरायटी",
+      "ताइवानी"
+    ],
+    "url": "https://taiwan.md/hi/people/zhuge-liang-showman",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/People/zhuge-liang-showman.md"
+  },
+  {
     "title": "चू चिंग-वु: 1987 में तरल नाइट्रोजन तापमान की सीमा पार, उच्च-तापमान सुपरकंडक्टिविटी Tc=93K के सह-खोजकर्ता",
     "description": "1941 में हुनान में जन्मे, ताइवानी-अमेरिकी भौतिक विज्ञानी। जनवरी 1987 में वू माओ-कुन के साथ YBCO इट्रियम-बेरियम-कॉपर ऑक्साइड Tc=93K की सह-खोज की, तरल नाइट्रोजन तापमान की सीमा (77K) को पार कर उच्च-तापमान सुपरकंडक्टिविटी युग की शुरुआत की। 2001-2009 तक हांगकांग यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी के कुलपति रहे। मार्च 2026 में PNAS में Tc=151K का नया कीर्तिमान प्रकाशित, 85 वर्ष की आयु में भी सक्रिय शोध।",
     "category": "hi",
@@ -95095,6 +95540,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/People/chen-yingzhen.md"
+  },
+  {
+    "title": "चेन यू-शुन",
+    "description": "ताइवानी कॉमेडी फिल्म निर्देशक, 'ट्रॉपिकल फिश', 'द टॉप शेफ', 'माई मिसिंग वैलेंटाइन' के निर्माता",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/chen-yu-hsun-taiwan-comedy-film-magician",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/People/chen-yu-hsun-taiwan-comedy-film-magician.md"
   },
   {
     "title": "चेन वेई-इन",
@@ -95845,6 +96301,17 @@
     "path": "hi/Economy/taiwan-creator-economy.md"
   },
   {
+    "title": "ताइवान का ऑडियो उद्योग विकास",
+    "description": "OEM अनुबंध निर्माण से स्वदेशी ब्रांड तक, ताइवान के ऑडियो उद्योग की तकनीकी क्षमता और वैश्विक बाजार स्थिति",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/technology/taiwan-audio-industry-development",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/Technology/taiwan-audio-industry-development.md"
+  },
+  {
     "title": "ताइवान का औद्योगिक रूपांतरण और उन्नयन: विनिर्माण महाशक्ति से नवाचार महाशक्ति तक",
     "description": "ताइवान की औद्योगिक संरचना श्रम-गहन से ज्ञान-गहन की ओर स्थानांतरित हुई, 5+2 औद्योगिक नवाचार और 6 प्रमुख रणनीतिक उद्योगों जैसी नीतियों के माध्यम से पारंपरिक विनिर्माण के उन्नयन और उभरते उद्योगों के विकास को बढ़ावा दिया।",
     "category": "hi",
@@ -95887,6 +96354,17 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "hi/Society/taiwan-sports-olympics.md"
+  },
+  {
+    "title": "ताइवान का गेमिंग उद्योग और डिजिटल मनोरंजन",
+    "description": "प्रारंभिक एजेंटों से लेकर मूल डेवलपर्स तक, ताइवान ने वैश्विक गेमिंग बाजार में अपनी आवाज़ कैसे पाई",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/technology/taiwan-gaming-industry",
+    "readingTime": 42,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "hi/Technology/taiwan-gaming-industry.md"
   },
   {
     "title": "ताइवान का डिजिटल इमेजिंग और एनिमेशन उद्योग",
@@ -96560,6 +97038,22 @@
     "path": "hi/Culture/magazine.md"
   },
   {
+    "title": "ताइवान की पदयात्रा संस्कृति और नागरिक संरक्षण",
+    "description": "हज़ार किलोमीटर पदयात्रा संघ से iTrail प्लेटफ़ॉर्म तक, ताइवान की अनूठी पदयात्रा संरक्षण संस्कृति और नागरिक विज्ञान भावना का अन्वेषण",
+    "category": "hi",
+    "tags": [
+      "प्रकृति",
+      "पदयात्रा",
+      "नागरिक विज्ञान",
+      "पारिस्थितिक संरक्षण"
+    ],
+    "url": "https://taiwan.md/hi/nature/trail-culture-and-civic-stewardship",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/Nature/trail-culture-and-civic-stewardship.md"
+  },
+  {
     "title": "ताइवान की परिपत्र अर्थव्यवस्था और संसाधन पुनर्उपयोग",
     "description": "रैखिक अर्थव्यवस्था से परिपत्र अर्थव्यवस्था की ओर संक्रमण, ताइवान के संसाधन पुनर्चक्रण, अपशिष्ट प्रबंधन और सतत विकास मॉडल की खोज",
     "category": "hi",
@@ -96934,7 +97428,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/art/taiwanese-curators-and-artistic-cultural-construction",
-    "readingTime": 47,
+    "readingTime": 48,
     "featured": true,
     "date": "2026-03-24",
     "path": "hi/Art/taiwanese-curators-and-artistic-cultural-construction.md"
@@ -98069,17 +98563,6 @@
     "path": "hi/People/tsai-ming-liang.md"
   },
   {
-    "title": "त्साओ ह्सिंग-चेंग: वेफर टाइकून से चीन-विरोधी ताइवान रक्षक 'अष्ट-निवासी' तक",
-    "description": "1984 में मॉरिस चांग को वेफर फाउंड्री का प्रस्ताव दिया पर ठुकरा दिए गए, 1995 में 'जॉइंट वेंचर मॉडल' से TSMC को चुनौती दी। एकीकरण जनमत संग्रह के पैरोकार रहे UMC संस्थापक, मुख्यभूमि चीन में विस्तार की विफलता और हांगकांग उथल-पुथल के बाद, 2022 में 30 अरब न्यू ताइवान डॉलर राष्ट्रीय रक्षा के लिए दान कर, तकनीकी साम्राज्य प्रमुख से चीन-विरोधी सेनापति बनने का आश्चर्यजनक रूपांतरण पूरा किया।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
-    "readingTime": 56,
-    "featured": false,
-    "date": "2026-04-30",
-    "path": "hi/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md"
-  },
-  {
     "title": "त्सु ज़ोंग-चिंग",
     "description": "वियना से लौटे तालवाद्य अग्रणी, 40 वर्षों से अल्प-ज्ञात कला को जनसाधारण संगीत में बदलते हुए",
     "category": "hi",
@@ -98233,7 +98716,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/art/new-taipei-city-museum-of-art",
-    "readingTime": 30,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-07-02",
     "path": "hi/Art/new-taipei-city-museum-of-art.md"
@@ -99475,6 +99958,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "hi/Technology/rayark-games.md"
+  },
+  {
+    "title": "रॉबर्ट त्साओ (曹興誠): वेफर फाउंड्री के दिग्गज से ताइवान की रक्षा करने वाले \"आठ ना के निवासी\" तक",
+    "description": "1984 में मॉरिस चांग को वेफर फाउंड्री का प्रस्ताव दिया पर ठुकरा दिए गए, 1995 में \"संयुक्त उद्यम मॉडल\" से TSMC को चुनौती दी। कभी \"एकीकरण जनमत संग्रह\" का समर्थन करने वाले UMC के संस्थापक ने पश्चिम की ओर विस्तार की विफलता और हांगकांग के घटनाक्रम के बाद 2022 में 30 अरब न्यू ताइवान डॉलर राष्ट्रीय रक्षा के लिए दान किए, तकनीकी दिग्गज से कट्टर राष्ट्रवादी रक्षक बनने की चौंकाने वाली यात्रा पूरी की।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-04-30",
+    "path": "hi/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md"
   },
   {
     "title": "रोवर घटना: 181 लोग न जीत सके युद्ध, तौकेतो ने 45 मिनट में बात पूरी की",
@@ -101186,16 +101680,16 @@
   },
   {
     "title": "계엄 시기",
-    "description": "1949년 5월 19일, 천청이 대만성 계엄령을 선포했습니다. 38년 후, 1987년 7월 15일 장징궈가 계엄 해제를 선포했습니다. 진먼·마쭈 지역은 1992년에야 계엄이 해제되었습니다. 이 5년 동안 그들은 무엇을 겪었을까요?",
+    "description": "1949년 5월 19일, 천청(陳誠)이 타이완성의 계엄령을 선포했다. 38년 후인 1987년 7월 15일, 장징궈(蔣經國)가 계엄 해제를 선언했다. 금문과 마쭈 지역은 1992년에 이르러서야 계엄이 해제되었다. 이 5년 동안 그들은 무엇을 겪었는가?",
     "category": "ko",
     "tags": [
       "계엄",
       "권위주의",
-      "백색 테러",
-      "전환기 정의"
+      "백색공포",
+      "이행기 정의"
     ],
     "url": "https://taiwan.md/ko/history/martial-law-era",
-    "readingTime": 22,
+    "readingTime": 25,
     "featured": true,
     "date": "2026-03-17",
     "path": "ko/History/martial-law-era.md"
@@ -104379,7 +104873,7 @@
       "예술 담론"
     ],
     "url": "https://taiwan.md/ko/art/taiwanese-curators-and-artistic-cultural-construction",
-    "readingTime": 21,
+    "readingTime": 22,
     "featured": true,
     "date": "2026-03-24",
     "path": "ko/Art/taiwanese-curators-and-artistic-cultural-construction.md"
@@ -106267,6 +106761,17 @@
     "path": "ko/People/sun-yun-suan.md"
   },
   {
+    "title": "쇼피(Shopee): 오렌지 제국의 확장 궤적과 디지털 사회의 갈등",
+    "description": "2015년 타이완에 상륙한 쇼피는 배송비 보조금으로 PChome의 영토를 잠식하고, 2,500개 이상의 '쇼피 점포(蝦皮店到店)'를 통해 물류의 라스트 마일(Last Mile)을 장악했다. 이제 한국의 쿠팡이 그 뒤를 바짝 추격하고 있다. 오렌지색 간판은 골목 어귀까지 확장되었으나, 텐센트 지분과 관련된 중국 자본 의혹, 고위험 판매처 1위라는 사기 취약점, 그리고 매년 발생하는 수만 톤의 포장 폐기물은 타이완 디지털 사회의 과제로 남아 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/economy/shopee",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-08-05",
+    "path": "ko/Economy/shopee.md"
+  },
+  {
     "title": "수벙: 한 개의 만두 가게로 40년간 타이완 혁명을 양육하다",
     "description": "수벙(본명 시초회)은 중국에서 중공을 위한 지하 정보원을 했으나 토지 개혁 살육을 직접 목격하고 환멸을 느껴 타이완으로 돌아와 장제스를 암살하려다 실패하고 일본으로 밀입국했다. 그는 도쿄 이케부쿠로에 '신진미'라는 면가게를 열어 낮에는 만두를 팔고 밤에는 타이완 역사를 기록했으며, 이 가게 수입으로 40년간 타이완 독립운동을 지원하고 타이완인 400년사라는 타이완 민족 의식을 일깨우는 저서를 집필했다.",
     "category": "ko",
@@ -107746,7 +108251,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/geography/offshore-islands-and-maritime-culture",
-    "readingTime": 31,
+    "readingTime": 32,
     "featured": true,
     "date": "2026-03-22",
     "path": "ko/Geography/offshore-islands-and-maritime-culture.md"

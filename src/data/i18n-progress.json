@@ -1,95 +1,95 @@
 {
-  "total_zh": 8255,
-  "total_en": 868,
+  "total_zh": 8296,
+  "total_en": 869,
   "coverage_en": 10.5,
   "categories": {
-    "People": {
-      "zh": 240,
-      "en": 239
-    },
-    "ko": {
+    "ja": {
       "zh": 868,
       "en": 0
     },
-    "vi": {
-      "zh": 455,
-      "en": 0
-    },
-    "ar": {
-      "zh": 715,
-      "en": 0
-    },
-    "fr": {
+    "ko": {
       "zh": 869,
       "en": 0
     },
-    "pt": {
-      "zh": 819,
+    "es": {
+      "zh": 870,
       "en": 0
     },
-    "ja": {
-      "zh": 867,
+    "fr": {
+      "zh": 870,
+      "en": 0
+    },
+    "hi": {
+      "zh": 637,
+      "en": 0
+    },
+    "ar": {
+      "zh": 721,
+      "en": 0
+    },
+    "ru": {
+      "zh": 750,
+      "en": 0
+    },
+    "pt": {
+      "zh": 823,
       "en": 0
     },
     "Culture": {
       "zh": 72,
       "en": 71
     },
-    "es": {
-      "zh": 868,
-      "en": 0
-    },
-    "ru": {
-      "zh": 739,
-      "en": 0
-    },
-    "Society": {
-      "zh": 93,
-      "en": 93
-    },
-    "hi": {
-      "zh": 631,
-      "en": 0
-    },
     "id": {
-      "zh": 541,
+      "zh": 547,
       "en": 0
-    },
-    "Geography": {
-      "zh": 67,
-      "en": 63
-    },
-    "Technology": {
-      "zh": 60,
-      "en": 59
-    },
-    "Food": {
-      "zh": 66,
-      "en": 62
-    },
-    "Politics": {
-      "zh": 11,
-      "en": 11
     },
     "History": {
       "zh": 52,
       "en": 50
     },
+    "People": {
+      "zh": 240,
+      "en": 239
+    },
+    "vi": {
+      "zh": 455,
+      "en": 0
+    },
+    "Food": {
+      "zh": 67,
+      "en": 62
+    },
+    "Society": {
+      "zh": 94,
+      "en": 93
+    },
+    "Geography": {
+      "zh": 67,
+      "en": 63
+    },
     "Music": {
       "zh": 37,
       "en": 37
-    },
-    "Economy": {
-      "zh": 61,
-      "en": 61
     },
     "Nature": {
       "zh": 38,
       "en": 38
     },
+    "Economy": {
+      "zh": 62,
+      "en": 62
+    },
+    "Technology": {
+      "zh": 60,
+      "en": 59
+    },
     "Art": {
       "zh": 43,
       "en": 43
+    },
+    "Politics": {
+      "zh": 11,
+      "en": 11
     },
     "Lifestyle": {
       "zh": 33,
@@ -104,5 +104,5 @@
       "en": 9
     }
   },
-  "updated": "2026-08-06"
+  "updated": "2026-08-07"
 }
