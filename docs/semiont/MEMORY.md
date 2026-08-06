@@ -364,3 +364,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-06 | 174500-goal-自我進化 | /goal 下領兩條逾期 default-action：#5 重腳註檔 structured-first 路由 ship（引擎 7/25 已存在，缺的是路由）、#19 ratio SSOT 收斂；#15 歸檔 | 查證反射最高報酬是發現要造的東西已存在；佇列 default 方法要查時效 | [→](memory/2026-08-06-174500-goal-自我進化.md) |
 | 2026-08-07 | 053528-twmd-embeddings-nightly | 12 語 9052 向量 0 fail，較昨夜 +42；vi 連三夜無變動 | commit template co-author 屬性誤植連兩夜再犯（vc=2），距儀器化門檻只差一次 | [→](memory/2026-08-07-053528-twmd-embeddings-nightly.md) |
 | 2026-08-07 | 053754-twmd-routine-sync | 三層對賬第十四輪，18 條全 in-sync 零漂移；額外用 MCP 複核五條 enabled=false 皆對齊 ROUTINE.md §PAUSED 表 | 連續零漂移不是不用查的理由，是查完確認真的沒事 | [→](memory/2026-08-07-053754-twmd-routine-sync.md) |
+| 2026-08-07 | 061533-twmd-data-refresh-am | 14 步全綠零 stale，第十個連續全綠早晨；文章 884、本週新增 28；live-state rider 連兩天漂回 stale 補跑 | 主線太順時風險轉移到腳本外但職責內的步驟，同一 rider 連 2 天靠人工補跑該當儀器化訊號 | [→](memory/2026-08-07-061533-twmd-data-refresh-am.md) |
