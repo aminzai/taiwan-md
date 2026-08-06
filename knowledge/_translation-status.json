@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T14:58:14+08:00",
-    "zhCommitHead": "5ad44270b",
+    "lastUpdated": "2026-08-06T15:02:42+08:00",
+    "zhCommitHead": "652aad8b1",
     "totalZh": 886,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 886,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 24,
         "metadata_stale": 13,
-        "missing": 23,
+        "missing": 22,
         "orphan": 0
       },
       "ja": {
@@ -35,26 +35,26 @@
       },
       "ko": {
         "total_zh": 886,
-        "fresh": 839,
+        "fresh": 840,
         "stale": 13,
         "metadata_stale": 16,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "es": {
         "total_zh": 886,
-        "fresh": 833,
+        "fresh": 835,
         "stale": 20,
         "metadata_stale": 15,
-        "missing": 18,
+        "missing": 16,
         "orphan": 0
       },
       "fr": {
         "total_zh": 886,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 19,
         "metadata_stale": 18,
-        "missing": 17,
+        "missing": 16,
         "orphan": 0
       },
       "vi": {
@@ -67,9 +67,9 @@
       },
       "id": {
         "total_zh": 886,
-        "fresh": 541,
+        "fresh": 542,
         "stale": 5,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 335,
         "orphan": 0
       },
@@ -83,8 +83,8 @@
       },
       "hi": {
         "total_zh": 886,
-        "fresh": 634,
-        "stale": 2,
+        "fresh": 635,
+        "stale": 1,
         "metadata_stale": 4,
         "missing": 246,
         "orphan": 0
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 886,
-        "fresh": 747,
+        "fresh": 748,
         "stale": 4,
         "metadata_stale": 5,
-        "missing": 130,
+        "missing": 129,
         "orphan": 0
       }
     },
@@ -7334,19 +7334,63 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/shopee.md",
+          "translatedFrom": "Economy/Shopee.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:cf4597f30d7e7bcc",
+          "sourceBodyHash": "sha256:a8d57592acf3e770",
+          "translatedAt": "2026-08-06T14:56:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/shopee.md",
+          "translatedFrom": "Economy/Shopee.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:cf4597f30d7e7bcc",
+          "sourceBodyHash": "sha256:a8d57592acf3e770",
+          "translatedAt": "2026-08-06T14:56:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/shopee.md",
+          "translatedFrom": "Economy/Shopee.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:cf4597f30d7e7bcc",
+          "sourceBodyHash": "sha256:a8d57592acf3e770",
+          "translatedAt": "2026-08-06T14:56:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/shopee.md",
+          "translatedFrom": "Economy/Shopee.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:cf4597f30d7e7bcc",
+          "sourceBodyHash": "sha256:a8d57592acf3e770",
+          "translatedAt": "2026-08-06T14:56:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -9077,7 +9121,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-startup-ecosystem-overview.md",
+          "translatedFrom": "Economy/新創生態系.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:4ade9d7e43f9b0c2",
+          "sourceBodyHash": "sha256:07a9caf907dd16bd",
+          "translatedAt": "2026-08-06T07:38:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -27149,18 +27204,16 @@
         "hi": {
           "path": "hi/Art/taiwanese-curators-and-artistic-cultural-construction.md",
           "translatedFrom": "Art/台灣策展人與藝術文化建構.md",
-          "sourceCommitSha": "f99a9959c",
-          "sourceContentHash": "sha256:01e74babf94ac8da",
-          "sourceBodyHash": "sha256:859c873057ee681d",
-          "translatedAt": "2026-07-24T20:15:21+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:9ea16a828e45af61",
+          "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
+          "translatedAt": "2026-08-06T07:01:01.368401+00:00",
           "translationLastCommit": "d7b666ed",
           "translationLastModified": "2026-07-24T22:33:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwanese-curators-and-artistic-cultural-construction.md",
@@ -28270,8 +28323,8 @@
           "sourceContentHash": "sha256:8b0b4f1b5093e628",
           "sourceBodyHash": "sha256:1c2241b73b74008f",
           "translatedAt": "2026-08-06T07:38:36+08:00",
-          "translationLastCommit": "8dca8733",
-          "translationLastModified": "2026-08-06T04:54:56+08:00",
+          "translationLastCommit": "bb2e1cb7",
+          "translationLastModified": "2026-08-06T14:58:14+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "status": "stale",
@@ -46760,7 +46813,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/2026.md",
+          "translatedFrom": "Society/2026年分科爭議.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:4eaade85ced1c1e6",
+          "sourceBodyHash": "sha256:8fd8e7154014483c",
+          "translatedAt": "2026-08-06T14:56:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -93982,8 +94046,8 @@
           "sourceContentHash": "sha256:206fc5a1d92e25e9",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-06T06:47:37.250294+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bb2e1cb7",
+          "translationLastModified": "2026-08-06T14:58:14+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -104061,18 +104125,16 @@
         "id": {
           "path": "id/History/martial-law-era.md",
           "translatedFrom": "History/戒嚴時期.md",
-          "sourceCommitSha": "9ecd20d61",
-          "sourceContentHash": "sha256:7647443db6f06a5f",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "translatedAt": "2026-08-06T07:38:33+08:00",
           "translationLastCommit": "475cf65e",
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/martial-law-era.md",
@@ -114287,8 +114349,8 @@
           "sourceContentHash": "sha256:61916e4f91798262",
           "sourceBodyHash": "sha256:b069d77bfe98ff54",
           "translatedAt": "2026-08-06T06:55:36.863908+00:00",
-          "translationLastCommit": "340d034d",
-          "translationLastModified": "2026-07-25T08:57:26+08:00",
+          "translationLastCommit": "bb2e1cb7",
+          "translationLastModified": "2026-08-06T14:58:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
