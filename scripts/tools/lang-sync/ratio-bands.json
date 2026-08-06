@@ -1,0 +1,108 @@
+{
+  "_meta": {
+    "unit": "char_ratio_body",
+    "method": "譯文 body 字元數 / zh body 字元數（去 frontmatter 與腳註定義行；與 translation-ratio-check.sh 同法）",
+    "note": "數值 SSOT（OBSERVER-QUEUE #19，2026-08-06 收斂）。bytes 法已被 2026-07-25 ru 校準證偽（差 1.5 倍），新語言定 band 一律用 translation-ratio-check.sh 自己的輸出。audit-quality.py 的 size-ratio <0.5 CRITICAL 地板是另一把尺（bytes 全檔、抓截斷），不在本表。",
+    "updated": "2026-08-06",
+    "schema": "truncated_below = 判定 TRUNCATED（FAIL）的下界；healthy_min/healthy_max = 健全範圍；ratio < healthy_min（且 ≥ truncated_below）= THIN（WARN）；ratio > healthy_max = LONG（WARN）"
+  },
+  "bands": {
+    "en": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.2,
+      "healthy_max": 3.5,
+      "calibrated": "2026-04-11",
+      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+    },
+    "ja": {
+      "truncated_below": 0.8,
+      "healthy_min": 1.1,
+      "healthy_max": 1.5,
+      "calibrated": "2026-04-11",
+      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+    },
+    "ko": {
+      "truncated_below": 0.85,
+      "healthy_min": 1.2,
+      "healthy_max": 1.65,
+      "calibrated": "2026-04-11",
+      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+    },
+    "es": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.0,
+      "calibrated": "2026-04-11",
+      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+    },
+    "fr": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.0,
+      "calibrated": "2026-04-11",
+      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+    },
+    "de": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.0,
+      "calibrated": "2026-04-11",
+      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+    },
+    "vi": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.3,
+      "calibrated": "2026-07-18",
+      "note": "Stage 2 校準定案，實測 2.31-3.81，n=3"
+    },
+    "id": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.3,
+      "calibrated": "2026-07-18",
+      "note": "Stage 2 校準定案，實測 2.32-3.58，n=3"
+    },
+    "pt": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.3,
+      "calibrated": "2026-07-18",
+      "note": "Stage 2 校準定案，實測 2.44-3.97，n=4"
+    },
+    "hi": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 4.0,
+      "calibrated": "2026-07-18",
+      "note": "Stage 2 校準定案，實測 2.20-3.38，n=3；天城文預想較緊湊被實測推翻"
+    },
+    "ar": {
+      "truncated_below": 1.5,
+      "healthy_min": 2.0,
+      "healthy_max": 3.3,
+      "calibrated": "2026-07-25",
+      "note": "Stage 3 首批定案（本工具字元比實測 2.08-2.95 中位 2.65，n=21）"
+    },
+    "ru": {
+      "truncated_below": 1.6,
+      "healthy_min": 2.2,
+      "healthy_max": 3.9,
+      "calibrated": "2026-07-25",
+      "note": "Stage 3 首批定案（字元比實測 2.31-3.74 中位 2.93，n=29；俄語詞長，上限最高）。⚠️ 本表單位是「字元比」不是 bytes 比——首次定案時用 bytes 算差了 1.5 倍（西里爾 2 bytes/char vs 中文 3），band 訂太緊而把健康譯文全報 LONG。新語言定 band 一律用本工具自己的輸出，不另外算。"
+    },
+    "zh-TW": {
+      "truncated_below": 0.95,
+      "healthy_min": 1.0,
+      "healthy_max": 1.0,
+      "calibrated": "2026-04-11",
+      "note": "identity 語言（zh-TW == zh source）；目前掃描邏輯在 detect_lang 就把 zh/zh-TW 跳過，此列從未被讀取，保留供 schema 完整性"
+    },
+    "_default": {
+      "truncated_below": 0.55,
+      "healthy_min": 0.7,
+      "healthy_max": 1.3,
+      "note": "未列出語言的 fallback（translation-ratio-check.sh 中 RANGES.get(lang, default) 用）；不是校準過的真實語言 band"
+    }
+  }
+}

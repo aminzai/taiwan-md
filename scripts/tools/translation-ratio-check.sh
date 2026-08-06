@@ -70,7 +70,7 @@ fi
 
 # Run Python for accurate character counting (handles unicode properly)
 python3 <<PYEOF
-import re, sys, os
+import re, sys, os, json
 
 files = [$(printf '"%s",' "${FILES[@]}")]
 files = [f for f in files if f]
@@ -84,8 +84,15 @@ def detect_lang(path):
     if not m: return 'zh'
     return m.group(1)
 
-# Healthy ratio ranges
-RANGES = {
+# Healthy ratio ranges — SSOT 是 scripts/tools/lang-sync/ratio-bands.json
+# (OBSERVER-QUEUE #19，2026-08-06 收斂)。以下 _FALLBACK_RANGES 只在 JSON
+# 讀不到時（fresh-clone / 部分 checkout）當備援，數值與 JSON 逐字同步，
+# 別在這裡改數字——改 JSON。
+#
+# 教訓（2026-07-25 ru 校準）：本表單位是「字元比」不是 bytes 比——首次定案時
+# 用 bytes 算差了 1.5 倍（西里爾 2 bytes/char vs 中文 3），band 訂太緊而把
+# 健康譯文全報 LONG。新語言定 band 一律用本工具自己的輸出，不另外算。
+_FALLBACK_RANGES = {
     'en':    (1.50, 2.20, 3.50),   # (truncated_below, healthy_min, healthy_max)
     'ja':    (0.80, 1.10, 1.50),
     'ko':    (0.85, 1.20, 1.65),
@@ -100,12 +107,25 @@ RANGES = {
                                   # 2.08-2.95 中位 2.65，n=21）
     'ru':    (1.60, 2.20, 3.90),  # 2026-07-25 Stage 3 首批定案（字元比實測
                                   # 2.31-3.74 中位 2.93，n=29；俄語詞長，上限最高）
-                                  # ⚠️ 本表單位是「字元比」不是 bytes 比——首次定案時
-                                  # 用 bytes 算差了 1.5 倍（西里爾 2 bytes/char vs
-                                  # 中文 3），band 訂太緊而把健康譯文全報 LONG。
-                                  # 新語言定 band 一律用本工具自己的輸出，不另外算。
     'zh-TW': (0.95, 1.00, 1.00),
 }
+_FALLBACK_DEFAULT = (0.55, 0.70, 1.30)
+
+_BANDS_JSON_PATH = "scripts/tools/lang-sync/ratio-bands.json"
+try:
+    with open(_BANDS_JSON_PATH, encoding='utf-8') as _fh:
+        _bands_doc = json.load(_fh)
+    RANGES = {}
+    for _lang, _b in _bands_doc['bands'].items():
+        if _lang == '_default':
+            continue
+        RANGES[_lang] = (_b['truncated_below'], _b['healthy_min'], _b['healthy_max'])
+    _default_band = _bands_doc['bands']['_default']
+    DEFAULT_RANGE = (_default_band['truncated_below'], _default_band['healthy_min'], _default_band['healthy_max'])
+except Exception as _e:
+    print(f"⚠️  無法讀取 {_BANDS_JSON_PATH}（{_e}），fallback 用內嵌舊表", file=sys.stderr)
+    RANGES = _FALLBACK_RANGES
+    DEFAULT_RANGE = _FALLBACK_DEFAULT
 
 PASS = 0
 WARN = 0
@@ -168,7 +188,7 @@ for f in files:
     }
 
     # Determine verdict
-    trunc, healthy_min, healthy_max = RANGES.get(lang, (0.55, 0.70, 1.30))
+    trunc, healthy_min, healthy_max = RANGES.get(lang, DEFAULT_RANGE)
 
     if ratio < trunc:
         verdict = 'TRUNCATED'

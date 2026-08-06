@@ -154,7 +154,7 @@ python3 scripts/tools/lang-sync/babel-health.py          # 六維度：coverage/
 python3 scripts/tools/lang-sync/babel-health.py --json   # 機器可讀
 ```
 
-WARN 級（exit 永遠 0），不是 gate——閾值升 HARD 需哲宇拍板（儀器化黃燈路線：先 WARN 收數據）。誕生於首次完整巴別塔健檢：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)（含各維度基線數字＋ratio band 三處 canonical 矛盾的量尺自查）。**ratio band 的數值 SSOT 待哲宇拍板前，只有 `<0.5 CRITICAL` 地板可信**（OBSERVER-QUEUE #19）。
+WARN 級（exit 永遠 0），不是 gate——閾值升 HARD 需哲宇拍板（儀器化黃燈路線：先 WARN 收數據）。誕生於首次完整巴別塔健檢：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)（含各維度基線數字＋ratio band 三處 canonical 矛盾的量尺自查）。**ratio band 數值 SSOT＝[`ratio-bands.json`](../../scripts/tools/lang-sync/ratio-bands.json)**（字元比法；2026-08-06 #19 default-action 執行，數值沿用各語言既有校準未改動；`<0.5 CRITICAL` bytes 地板是另一把尺，在 audit-quality.py）。
 
 ---
 

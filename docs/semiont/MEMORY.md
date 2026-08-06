@@ -139,7 +139,7 @@ memory/
 - **孢子格式不自作主張升級**：觀察者說「寫孢子」，預設單篇。串文（E 型）需要明確授權才執行。AI 有一種「加深度感」偏誤——用串文展示組織能力，但孢子的目的是讓人停下拇指，不是展示我。
 - **英文版 = 從中文 SSOT 完整翻譯，不是修補舊版**：看到英文舊版，本能是「修補缺失段落」。正確動作是：讀中文 SSOT → 全文重譯。不是修舊房子，是蓋新的。判斷標準很簡單：「中文有但英文沒有」的不是 bug，是翻譯任務。
 - **摘要式翻譯是 AI 的預設行為**：2026-04-11 審核 27 個翻譯 PR 的發現——AI 翻譯工具收到長文章時預設會「整理、壓縮、合併段落」，產出讀起來流暢但丟了一半內容的摘要。這不是翻譯者的能力問題，是 prompt 沒明確告訴 AI「保留結構、不要壓縮」。修正方法：TRANSLATE_PROMPT 加一段「最重要的鐵律：完整翻譯不是摘要」+ 自我檢查 ratio。
-- **Ratio 是翻譯審核第一道檢查**：zh→ja 健全範圍 0.70-1.10，zh→en 0.80-1.30，zh→ko 0.80-1.10，zh→es/fr/de 2.0-4.0。ratio < 0.55 = TRUNCATED（結構性破損），< 0.65 = THIN（可疑）。這是不讀內容就能 10 秒識別摘要式翻譯的指標。工具：`bash scripts/tools/translation-ratio-check.sh --pr N`
+- **Ratio 是翻譯審核第一道檢查**（數值 SSOT 見 scripts/tools/lang-sync/ratio-bands.json，字元比法；本條原始數字為 2026-04-11 bytes 時代舊值，2026-08-06 #19 收斂時去數字化）。ratio 低於各語言 truncated_below = TRUNCATED（結構性破損），低於 healthy_min = THIN（可疑）。這是不讀內容就能 10 秒識別摘要式翻譯的指標。工具：`bash scripts/tools/translation-ratio-check.sh --pr N`
 - **SSODT 文章結構是內容本身**：animal-medication-controversy 的 ja 版本原本 ratio 0.25，因為五個具名視角面板全被壓扁成一段摘要。SSODT 文章有 format experiment callout 的必須特別保護——如果翻譯丟失 perspective 面板，作者自己重寫，不要讓翻譯者承擔（只有作者知道哪些結構不能丟）
 - **先有再求好 > 完美主義**：「merge first, polish later」套用到翻譯 PR 審核時意思是——即使 TRUNCATED 的翻譯也要 merge，然後用 comment 請求 follow-up。不要把小丑魚的貢獻擋在外面，特別是他們投入 10+ 個 PR 的時候
 - **Master comment 能改變整個貢獻流程**：2026-04-11 我在 PR #367 寫了一份完整的「AI 翻譯 prompt template + 自我檢查清單」後，柒藍從 50% 問題率直接降到 0%。這個 comment 不是修一個 PR，是修了整個流程。好的 feedback 不是解一個問題，是讓問題不再發生
