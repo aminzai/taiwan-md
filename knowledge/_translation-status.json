@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-06T09:59:18+08:00",
-    "zhCommitHead": "01c01d865",
+    "lastUpdated": "2026-08-06T10:07:01+08:00",
+    "zhCommitHead": "ba0fc9894",
     "totalZh": 883,
     "activeLanguages": [
       "en",
@@ -27,9 +27,9 @@
       },
       "ja": {
         "total_zh": 883,
-        "fresh": 837,
+        "fresh": 838,
         "stale": 18,
-        "metadata_stale": 12,
+        "metadata_stale": 11,
         "missing": 16,
         "orphan": 0
       },
@@ -8656,8 +8656,8 @@
           "sourceContentHash": "sha256:8fc0adba07db27e5",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-05T23:45:41.950017+00:00",
-          "translationLastCommit": "92d547c8",
-          "translationLastModified": "2026-08-06T02:51:02+08:00",
+          "translationLastCommit": "ba0fc989",
+          "translationLastModified": "2026-08-06T09:59:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "stale",
@@ -27247,8 +27247,8 @@
           "sourceContentHash": "sha256:6e2227266f254dbd",
           "sourceBodyHash": "sha256:c64c3872bb69a137",
           "translatedAt": "2026-08-05T23:41:27.731185+00:00",
-          "translationLastCommit": "92d547c8",
-          "translationLastModified": "2026-08-06T02:51:02+08:00",
+          "translationLastCommit": "ba0fc989",
+          "translationLastModified": "2026-08-06T09:59:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -32549,8 +32549,8 @@
           "sourceContentHash": "sha256:bc80c48817ccc98d",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-06T01:13:25.694069+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0fc989",
+          "translationLastModified": "2026-08-06T09:59:18+08:00",
           "inferred": false,
           "footnoteDefs": 50,
           "status": "fresh",
@@ -117143,18 +117143,16 @@
         "ja": {
           "path": "ja/Geography/kinmen-county.md",
           "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-25T15:19:31+08:00",
+          "translatedAt": "2026-08-06T07:38:32+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/kinmen-county.md",
