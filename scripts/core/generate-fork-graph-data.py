@@ -18,6 +18,11 @@ import sys
 
 import yaml
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 ROOT = os.path.join(os.path.dirname(__file__), "..", "..")
 TERM_DIR = os.path.join(ROOT, "data", "terminology")
 FEATURED = os.path.join(TERM_DIR, "_fork-graph-featured.yaml")

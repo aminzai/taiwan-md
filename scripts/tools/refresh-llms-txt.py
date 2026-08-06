@@ -32,6 +32,11 @@ import re
 import sys
 from pathlib import Path
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 ROOT = Path(__file__).resolve().parent.parent.parent
 LLMS_TXT = ROOT / "public" / "llms.txt"
 VITALS_JSON = ROOT / "public" / "api" / "dashboard-vitals.json"
@@ -54,7 +59,7 @@ def load_vitals() -> dict:
     if not VITALS_JSON.exists():
         print(f"⚠️  {VITALS_JSON} not found — run prebuild first", file=sys.stderr)
         sys.exit(2)
-    return json.loads(VITALS_JSON.read_text())
+    return json.loads(VITALS_JSON.read_text(encoding="utf-8"))
 
 
 def load_i18n_fresh_pct() -> dict:
@@ -62,7 +67,7 @@ def load_i18n_fresh_pct() -> dict:
     if not I18N_JSON.exists():
         return {}
     try:
-        data = json.loads(I18N_JSON.read_text())
+        data = json.loads(I18N_JSON.read_text(encoding="utf-8"))
         # Schema: data['languages'] = [{lang: 'en', freshPct: 96.0, ...}, ...]
         out = {}
         for entry in data.get("languages", []):
@@ -158,7 +163,7 @@ def main():
         print(f"❌ {LLMS_TXT} not found", file=sys.stderr)
         sys.exit(2)
 
-    original = LLMS_TXT.read_text()
+    original = LLMS_TXT.read_text(encoding="utf-8")
     vitals = load_vitals()
     fresh = load_i18n_fresh_pct()
     people = count_people_articles()
@@ -185,7 +190,7 @@ def main():
         sys.stdout.writelines(diff)
         return 0
 
-    LLMS_TXT.write_text(updated)
+    LLMS_TXT.write_text(updated, encoding="utf-8")
     cov = vitals["languageCoverage"]
     print(f"✓ llms.txt refreshed: zh {cov['zh-TW']} / en {cov['en']} / ja {cov['ja']} / ko {cov['ko']} / es {cov['es']} / fr {cov['fr']} / contributors {vitals['contributors']} / People ~{round_to_tens(people)}+")
     return 0

@@ -15,6 +15,12 @@ dashboard 資料。
 """
 import json
 import pathlib
+import sys
+
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
 
 SRC = pathlib.Path("reports/fork-census/registry.json")
 OUT = pathlib.Path("public/api/dashboard-forks.json")
