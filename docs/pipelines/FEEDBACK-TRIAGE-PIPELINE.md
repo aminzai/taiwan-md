@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.3'
-last_updated: 2026-08-07
-last_session: '2026-08-07-070000-twmd-feedback-triage（HG12b 主權層對賬）'
+current_version: 'v1.4'
+last_updated: 2026-08-08
+last_session: '2026-08-08-070000-twmd-feedback-triage（HG12c 留言層對賬）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -189,7 +189,38 @@ hold 的那批由人類收束成 consolidated issue 後補標 filed，就是已�
 `reconcileArchive()` 是純函式（archive.mjs，5 個 unit test 含 2026-06-11 那次的形狀）。
 讀不到 Supabase 印 `unavailable`，**不准把「沒對賬」讀成「對得起來」**。
 
-**誕生**：2026-08-07 這條 routine 自己的 cycle 發現 61 筆 filed 只有 40 份 git 紀錄——2026-06-11
+**🔴 HG12c 留言層對賬（2026-08-08 新增）**：HG12b 對的是「該有幾份紀錄」，**紀錄裡面的
+§溝通紀錄自己那條線沒有帳在比**。收官印的 `archive-comments-synced=N`，0 同時是「沒有新留言」
+跟「一則都抓不到」兩種根因的長相（[REFLEXES #38](../semiont/REFLEXES.md) 混維度）——舊版
+`fetchIssueComments()` 對所有失敗 `return []`，`gh` 掛掉／token 過期／API 變形時每個 issue 都
+「沒有新留言」，收官照樣印 `archive-comments-synced=0`，**跟一切正常長得一模一樣，沒有任何一天
+會變紅**。修法兩層：
+
+1. **根因分層**：`fetchIssueComments()` 抓不到回 `null`、真的沒留言才回 `[]`；`null` 時不寫檔
+   （不確定就不動 git 紀錄）。
+2. **拿線上的帳來比**：`reconcileComments()` 純函式比對每份紀錄「已收則數 vs 線上則數」，
+   三種結果分開報，因為它們是三種根本不同的事：
+
+```
+[triage] comment-reconcile=60/61 · 上游已刪留言 1 份紀錄,git 留著: #1252 ✅
+[triage] comment-reconcile=12/61 · ⚠️ 漏收 3 份紀錄（HG12c 破口）: #1205, #1252 …
+[triage] comment-reconcile=0/61 · ⚠️ 抓不到留言 61 份紀錄（未對賬,不等於對得起來）: …
+```
+
+| 方向                 | 意義                     | 處置                                              |
+| -------------------- | ------------------------ | ------------------------------------------------- |
+| archive **<** 線上   | sync 漏收                | **破口，要叫** — 查 sync 為什麼沒收到             |
+| archive **>** 線上   | 上游留言被刪，git 留住了 | 主權層正常運作，記錄不報警                        |
+| 線上抓不到（`null`） | gh / token / API 壞了    | **不准讀成對得起來**（同 HG12b unavailable 紀律） |
+
+**誕生**：2026-08-08 這條 routine 的 cycle 手動拿 GitHub API 跨源核 61 份紀錄，發現
+[issue #1252](https://github.com/frank890417/taiwan-md/issues/1252) archive 4 則、線上 3 則——
+7/29 那則答錯的留言後來在 GitHub 被刪掉，git 這邊留住了（主權層正是為此存在）。真正的發現是
+**這件事只能靠 session 手動核**：8/6 的 cycle 也做過一次同樣的手動跨源核（memory 記「archive 40 檔
+零新同步（拿 GitHub API 跨源核過）」），兩次都是人在補儀器沒有的那把尺（vc=2）。跟 HG12b 同一種
+病、低一層：**數自己寫了幾則，量不出該有幾則**。
+
+**誕生（HG12b）**：2026-08-07 這條 routine 自己的 cycle 發現 61 筆 filed 只有 40 份 git 紀錄——2026-06-11
 justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://github.com/frank890417/taiwan-md/issues/1145)，
 21 條全數查證採信 + 全文重寫 `ef8fab38e`）整批缺紀錄，**8 週內每個 cycle 都印了 `archive-scanned=40`
 卻沒有一個 cycle 問「應該要有幾份」**。缺席不留痕跡，只能拿另一邊的帳來比。21 份已用 canonical
@@ -199,7 +230,8 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ## Stage 5 — FINALE
 
-`/twmd-finale`。memory 必含：BECOME ACK + `file/reject/skip` count + 開了哪些 issue（#N + type）+ Handoff。
+`/twmd-finale`。memory 必含：BECOME ACK + `file/reject/skip` count + 開了哪些 issue（#N + type）+
+`archive-reconcile=N/M`（HG12b）+ `comment-reconcile=N/M`（HG12c）+ Handoff。
 
 接力：開出來的 issue 由下一個 `twmd-maintainer-am`（08:30）收割 → [MAINTAINER-PIPELINE](MAINTAINER-PIPELINE.md) Stage 2 Triage（`from-feedback` 跟一般 contributor issue 同流程,只是來源標記不同;newtopic 進 Step 2.1.1 [Content] digest 4-route dedupe）。
 
@@ -234,6 +266,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 | HG11  | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手）  | 0-3   |
 | HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）    | 4.5   |
 | HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來 | 4.5   |
+| HG12c | 對賬 §溝通紀錄 則數 vs 線上留言則數（`comment-reconcile=N/M`）；抓不到 ≠ 對得起來  | 4.5   |
 
 > **編號沿革（2026-08-06）**：HG11／HG12 之前都借用了已被佔用的號碼——§機器身份自稱 HG10（跟本表 HG10=injection 撞號），薄殼 skill／cron prompt 把 git archive 稱作 HG9（跟本表 HG9=tilde fence 撞號）。三層對照後統一重編號：HG9=fence、HG10=injection 兩個「先佔」號碼維持不動（2026-07-05 v1.1 就存在），機器身份改稱 HG11、git archive 改稱 HG12。詳見 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)。
 
@@ -241,6 +274,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.4 | 2026-08-08 twmd-feedback-triage routine — **HG12c 留言層對賬**：`comment-reconcile=N/M` 把 HG12b 從「該有幾份紀錄」往下延伸到「紀錄裡該有幾則留言」（`reconcileComments()` + `countArchivedComments()` 純函式 + 6 unit test）。同波修根因：`fetchIssueComments()` 從「所有失敗回 `[]`」改成「抓不到回 `null`、真的沒留言才回 `[]`」，`null` 時不寫檔——舊版讓「沒有新留言」跟「一則都抓不到」印出同一行 `archive-comments-synced=0`，實測把 `gh` 移出 PATH 跑一次，輸出跟健康的一次逐字相同（REFLEXES #38 混維度 / #52 不會變紅的免疫層）。誕生：本 cycle 手動拿 GitHub API 跨源核 61 份紀錄，抓到 #1252 archive 4 則 vs 線上 3 則（7/29 答錯的留言被刪，git 留住 = 主權層正常）；真正的發現是 8/6 的 cycle 也做過同一次手動跨源核（vc=2），兩次都是人在補儀器沒有的尺。_
 _v1.3 | 2026-08-07 twmd-feedback-triage routine — **HG12b 主權層對賬**：收官新增 `archive-reconcile=N/M`（`reconcileArchive()` 純函式 + 5 unit test），把 HG12 從「有沒有寫檔」升成「該有的份數在不在」。誕生：本 cycle 對賬發現 61 筆 filed 只有 40 份 git 紀錄，2026-06-11 justfont 21 連勘誤整批缺席 8 週無人發現（收官只印 `archive-scanned=40`，數存在的東西不會量出缺席）。同波：21 份紀錄用 canonical 產生器補齊（零 email）；修 cron mirror 仍用舊 HG9/HG10 舊號的漂移（v1.2 changelog 聲稱同步了 cron mirror，實際只同步了 repo 內薄殼 — self-reported 完成需外部尺，REFLEXES #69）。_
 _v1.2 | 2026-08-06 hard-gate-renumber session — 修 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)：§機器身份 HG10→**HG11**、Stage 4.5 GIT ARCHIVE 補號 **HG12**（原本借用薄殼層 HG9 別名），讓既有 HG9=fence／HG10=injection（2026-07-05 v1.1 先佔）維持不動；Hard gate 總表補 HG11／HG12 兩列 + 編號沿革註記；同波同步薄殼 skill（`.claude/skills/twmd-feedback-triage/SKILL.md`）與 cron mirror（`~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md`），並把 HG9/HG10 補進兩層的 HARD gate 清單（原本安全性最高的兩道在操作層完全沒被點名）。_
 _v1.1 | 2026-07-05 五病根治 session — Stage 2 新增 Prompt injection 三層防禦（隱形字元剝除／樣式偵測/tilde fence），Hard gate 總表補 HG9／HG10。_

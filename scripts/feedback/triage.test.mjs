@@ -22,7 +22,11 @@ import {
   fenceUntrusted,
   sanitizeReaderText,
 } from './lib/classify.mjs';
-import { reconcileArchive } from './lib/archive.mjs';
+import {
+  reconcileArchive,
+  reconcileComments,
+  countArchivedComments,
+} from './lib/archive.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const seed = JSON.parse(readFileSync(join(here, 'seed-feedback.json'), 'utf8'));
@@ -432,4 +436,62 @@ test('reconcileArchive: 多出來的 archive 檔不算缺口（只單向查 file
 test('reconcileArchive: 空輸入不當成對得起來', () => {
   const rec = reconcileArchive(['a', 'b'], []);
   assert.equal(rec.missing.length, 2);
+});
+
+// ── HG12c 留言層對賬（reconcileComments）──────────────────────────────────────
+
+test('countArchivedComments 數 marker 不數正文', () => {
+  const md = [
+    '## 溝通紀錄',
+    '<!-- comment:frank890417-2026-07-25T00:50:43Z -->',
+    '**frank890417** · 2026-07-25 00:50',
+    '內文裡就算寫了 <!-- comment 這幾個字也不該被算進去',
+    '<!-- comment:frank890417-2026-07-31T00:52:21Z -->',
+  ].join('\n');
+  assert.equal(countArchivedComments(md), 2);
+});
+
+test('reconcileComments: 收的則數跟線上一致就是對得起來', () => {
+  const cr = reconcileComments([
+    { issue: 1199, archived: 2, live: 2 },
+    { issue: 1272, archived: 1, live: 1 },
+  ]);
+  assert.equal(cr.checked, 2);
+  assert.equal(cr.aligned, 2);
+  assert.deepEqual(cr.missing, []);
+  assert.deepEqual(cr.unknown, []);
+});
+
+test('reconcileComments: archive 比線上少 = sync 漏收,要叫', () => {
+  const cr = reconcileComments([{ issue: 1205, archived: 1, live: 3 }]);
+  assert.equal(cr.aligned, 0);
+  assert.deepEqual(cr.missing, [{ issue: 1205, archived: 1, live: 3 }]);
+  assert.deepEqual(cr.deleted, []);
+});
+
+test('reconcileComments: 2026-07-29 那則的形狀（上游刪留言,git 留著,不報警）', () => {
+  // issue #1252 線上 3 則、archive 4 則：7/29 那則答錯的留言後來在 GitHub 被刪掉,
+  // git 這邊留住了。這正是主權層要做的事,不是破口——所以歸 deleted 不歸 missing。
+  const cr = reconcileComments([{ issue: 1252, archived: 4, live: 3 }]);
+  assert.deepEqual(cr.missing, []);
+  assert.equal(cr.deleted.length, 1);
+  assert.equal(cr.deleted[0].issue, 1252);
+});
+
+test('reconcileComments: 抓不到留言算 unknown,不算 aligned', () => {
+  // 這是本條 gate 的存在理由：gh 掛掉時舊版每則都回 [],於是每個 issue 都「沒有新留言」,
+  // 收官照樣印 archive-comments-synced=0,跟一切正常長得一模一樣。
+  const cr = reconcileComments([
+    { issue: 1199, archived: 2, live: null },
+    { issue: 1200, archived: 2, live: null },
+  ]);
+  assert.equal(cr.aligned, 0);
+  assert.equal(cr.unknown.length, 2);
+  assert.deepEqual(cr.missing, []);
+});
+
+test('reconcileComments: 空紀錄 + 線上也空 = 對得起來（不是 unknown）', () => {
+  const cr = reconcileComments([{ issue: 1286, archived: 0, live: 0 }]);
+  assert.equal(cr.aligned, 1);
+  assert.equal(cr.unknown.length, 0);
 });

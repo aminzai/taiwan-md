@@ -66,11 +66,15 @@ node scripts/feedback/triage.mjs --commit
 - HG12b 🔴 **對賬**：收官看 `archive-reconcile=N/M`。`⚠️` = 有 filed 但無 git 紀錄（triage 之外
   補標 filed 會繞過主權層）→ 用 `buildArchiveRecord()` 補齊，不要手寫。印 `unavailable`
   **不等於**對得起來。只看 `archive-scanned=N` 是 proxy signal（數存在的檔，量不出缺席）。
+- HG12c 🔴 **留言層對賬**：收官看 `comment-reconcile=N/M`。三個方向意義不同：
+  `⚠️ 漏收` = sync 沒收到（**破口，要查**）／`⚠️ 抓不到留言` = gh/token 壞了（**不准讀成對得起來**）／
+  `上游已刪留言…git 留著` = 留言在 GitHub 被刪、git 留住了（主權層正常，不是問題）。
+  只看 `archive-comments-synced=N` 是 proxy signal——0 分不出「沒有新留言」跟「一則都抓不到」。
 
 ## 收官
 
 `/twmd-finale` → memory 必含 BECOME ACK、file/reject/skip count、開的 issue #N、archive 檔數、
-**`archive-reconcile=N/M` 對賬結果**、Handoff 三態。
+**`archive-reconcile=N/M`（HG12b）+ `comment-reconcile=N/M`（HG12c）兩道對賬結果**、Handoff 三態。
 **commit 前**：`git add docs/feedback/archive/`（per HG12，讓回報+溝通紀錄落進 git）。
 
 ARGUMENTS: (none — script 自己讀 Supabase status='new')

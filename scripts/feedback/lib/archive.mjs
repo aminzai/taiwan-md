@@ -100,6 +100,53 @@ export function reconcileArchive(filedIds, archivedIds) {
 }
 
 /**
+ * 數一份 archive 檔已收了幾則留言（`<!-- comment:<id> -->` marker）。
+ */
+export function countArchivedComments(content) {
+  return [...String(content || '').matchAll(/<!-- comment:([^\s]+) -->/g)]
+    .length;
+}
+
+/**
+ * HG12c — 留言層對賬：archive 的 §溝通紀錄 vs GitHub 上實際的留言數。
+ *
+ * 為什麼要跟 HG12b 分開一道：HG12b 對的是「該有幾份紀錄」，留言是紀錄裡面的內容，
+ * 它自己那條線的健康完全沒有帳在比。收官只印 `archive-comments-synced=0`，而 0 同時是
+ * 「沒有新留言」跟「一則都抓不到」兩種根因的長相（REFLEXES #38 混維度）——抓不到的那種
+ * 靜默起來會跟前者一模一樣，而且每個 cycle 都長一樣，沒有任何一天會變紅。
+ *
+ * entries: [{ issue, archived, live }]，live=null 代表這次抓不到（不是 0 則留言）。
+ * 三種結果分開報，因為它們是三種根本不同的事：
+ *   - missing：archive 比 GitHub 少 → sync 漏收，**這是破口**，要叫
+ *   - deleted：archive 比 GitHub 多 → 上游留言被刪掉，git 留住了 → 主權層正常運作，記錄不報警
+ *   - unknown：這次沒抓到 live → 不准讀成對得起來（同 HG12b 的 unavailable 紀律）
+ */
+export function reconcileComments(entries) {
+  const missing = [];
+  const deleted = [];
+  const unknown = [];
+  let aligned = 0;
+  for (const e of entries || []) {
+    const archived = Number(e.archived || 0);
+    if (e.live === null || e.live === undefined) {
+      unknown.push({ issue: e.issue, archived });
+      continue;
+    }
+    const live = Number(e.live);
+    if (live > archived) missing.push({ issue: e.issue, archived, live });
+    else if (archived > live) deleted.push({ issue: e.issue, archived, live });
+    else aligned++;
+  }
+  return {
+    checked: (entries || []).length,
+    aligned,
+    missing,
+    deleted,
+    unknown,
+  };
+}
+
+/**
  * 把 issue 新留言 append 進 §溝通紀錄。comments: [{id, author, createdAt, body}]。
  * 用 `<!-- comment:<id> -->` marker 去重，re-run 不重複。
  */

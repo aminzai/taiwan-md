@@ -34,6 +34,8 @@ import {
   mergeComments,
   archiveRelPath,
   reconcileArchive,
+  reconcileComments,
+  countArchivedComments,
 } from './lib/archive.mjs';
 
 const ARCHIVE_ROOT = 'docs/feedback/archive';
@@ -209,6 +211,9 @@ function writeArchive(row, note) {
   }
 }
 
+// 抓不到一律回 null，抓到但真的沒留言才回 []。這兩件事以前共用 `[]`，於是
+// 「這則 issue 沒有新留言」跟「gh 掛了 / token 過期 / API 變形」印出來一模一樣
+// （都是 archive-comments-synced=0），沒有任何 cycle 會變紅（REFLEXES #38 混維度）。
 function fetchIssueComments(issueNumber) {
   try {
     const out = execFileSync(
@@ -232,7 +237,7 @@ function fetchIssueComments(issueNumber) {
       body: c.body,
     }));
   } catch {
-    return [];
+    return null;
   }
 }
 
@@ -241,10 +246,13 @@ function fetchIssueComments(issueNumber) {
 // 回傳 { scanned, synced }：synced 單獨看是 proxy 訊號 — 0 分不出「掃了 36 檔都沒新留言」
 // 跟「一檔都沒掃到（目錄消失／權限壞）」。scanned 讓收官數字是量出來的，不是手數的。
 function syncArchiveComments() {
-  if (!existsSync(ARCHIVE_ROOT)) return { scanned: 0, synced: 0, ids: [] };
+  if (!existsSync(ARCHIVE_ROOT))
+    return { scanned: 0, synced: 0, ids: [], commentEntries: [] };
   let scanned = 0;
   let synced = 0;
   const ids = [];
+  // HG12c 對賬用：每份紀錄「已收幾則 / 線上有幾則」，live=null 代表這次沒抓到。
+  const commentEntries = [];
   for (const m of readdirSync(ARCHIVE_ROOT)) {
     const dir = join(ARCHIVE_ROOT, m);
     let files = [];
@@ -265,14 +273,21 @@ function syncArchiveComments() {
       ids.push(f.replace(/\.md$/, ''));
       const num = (content.match(/^issue_number:\s*(\d+)/m) || [])[1];
       if (!num) continue;
-      const merged = mergeComments(content, fetchIssueComments(num));
+      const live = fetchIssueComments(num);
+      // 抓不到就不寫檔（不確定的時候不動 git 紀錄），但要記進對賬當 unknown。
+      const merged = live === null ? content : mergeComments(content, live);
       if (merged !== content) {
         writeFileSync(path, merged);
         synced++;
       }
+      commentEntries.push({
+        issue: Number(num),
+        archived: countArchivedComments(merged),
+        live: live === null ? null : live.length,
+      });
     }
   }
-  return { scanned, synced, ids };
+  return { scanned, synced, ids, commentEntries };
 }
 
 // 拿 Supabase 全部 filed 的 id 當對賬另一邊的帳。讀失敗一律回 null（對賬印 unavailable，
@@ -382,6 +397,33 @@ async function main() {
     }
   }
 
+  // HG12c 留言層對賬：§溝通紀錄 收的則數 vs GitHub 線上則數。
+  // archive-comments-synced=0 自己分不出「沒有新留言」跟「一則都抓不到」,要拿線上的帳來比。
+  let commentLine = 'comment-reconcile=skipped (dry-run)';
+  if (arch) {
+    const cr = reconcileComments(arch.commentEntries);
+    // 同一個 issue 可能對到多份紀錄（consolidated 那批）,列號碼時去重才讀得懂。
+    const issues = (rows) => {
+      const uniq = [...new Set(rows.map((r) => `#${r.issue}`))];
+      return uniq.slice(0, 5).join(', ') + (uniq.length > 5 ? ' …' : '');
+    };
+    const parts = [`comment-reconcile=${cr.aligned}/${cr.checked}`];
+    if (cr.missing.length)
+      parts.push(
+        `⚠️ 漏收 ${cr.missing.length} 份紀錄（HG12c 破口）: ${issues(cr.missing)}`,
+      );
+    if (cr.unknown.length)
+      parts.push(
+        `⚠️ 抓不到留言 ${cr.unknown.length} 份紀錄（未對賬,不等於對得起來）: ${issues(cr.unknown)}`,
+      );
+    if (cr.deleted.length)
+      parts.push(
+        `上游已刪留言 ${cr.deleted.length} 份紀錄,git 留著: ${issues(cr.deleted)}`,
+      );
+    const clean = !cr.missing.length && !cr.unknown.length;
+    commentLine = parts.join(' · ') + (clean ? ' ✅' : '');
+  }
+
   console.log(
     `\n[triage] done · file=${summary.file} reject=${summary.reject} skip=${summary.skip} hold=${summary.hold} · ` +
       (arch
@@ -389,6 +431,7 @@ async function main() {
         : `archive-scan=skipped (dry-run)`),
   );
   console.log(`[triage] ${reconLine}`);
+  console.log(`[triage] ${commentLine}`);
   return summary;
 }
 

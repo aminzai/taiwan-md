@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-08 twmd-feedback-triage — error-and-emptiness-share-one-return：抓不到跟沒有東西回同一個值，於是壞掉的那天跟正常的那天逐字相同
+
+- **pattern**: `error-and-emptiness-share-one-return`
+- **原則**：一個取數函式如果對「失敗」跟「真的是空的」回同一個值，它下游所有的計數、報告、綠燈都會繼承這個混維度，而且**故障的長相會跟健康的長相逐字相同**。這比 #82 proxy signal 更難察覺：proxy signal 至少量到了某個真實的東西（只是量錯層），這裡是**故障被編碼成一個合法的健康讀數**。判準一句話：任何 `catch { return [] }` / `return 0` / `return {}`，都要先問「這個空值跟真實的空，下游分得出來嗎？」分不出來就必須回 `null` 讓下游自己決定怎麼處理未知。
+- **觸發**：2026-08-08 本 routine 例行輪（隊列空第八天）。`triage.mjs` 的 `fetchIssueComments()` 對所有失敗 `return []`——`gh` 不在 PATH、token 過期、API 變形、rate limit，全部變成「這個 issue 沒有新留言」。於是 `mergeComments()` 不動、`synced` 不加、收官印 `archive-comments-synced=0`。**實測**：把 `gh` 移出 PATH 跑一次完整 `--commit`，輸出的那一行跟健康的那一次**逐字相同**。這一層跟昨天（8/07）補的 HG12b 是同一種病低一層——HG12b 對的是「該有幾份紀錄」，紀錄**裡面**的 §溝通紀錄自己那條線完全沒有帳在比。
+- **怎麼被發現的（這是本條的重點）**：不是儀器叫的，是 session 手動拿 GitHub API 逐 issue 核 61 份紀錄核出來的。而 **8/06 的 cycle 也做過一次一模一樣的手動跨源核**（memory row 原話：「archive 40 檔零新同步（拿 GitHub API 跨源核過）」）。兩個獨立 cycle、兩次都是人在補一把儀器沒有的尺，中間沒有任何機制記得這件事該被儀器化——**手動核過一次會留在 memory，不會留在管線裡**（REFLEXES #15 的又一次驗證：memory 是自律，canonical gate 才是閘門）。
+- **✅ 已落地（本輪同波，非 defer）**：(a) 根因分層——`fetchIssueComments()` 抓不到回 `null`、真的沒留言才回 `[]`，`null` 時**不寫檔**（不確定就不動 git 紀錄）；(b) `reconcileComments()` + `countArchivedComments()` 純函式 + 6 unit test，收官印 `comment-reconcile=N/M`，**三個方向分開報**：archive < 線上 = 漏收（破口，要叫）／archive > 線上 = 上游刪了留言而 git 留住（主權層正常運作，**不報警**）／抓不到 = unknown（不准讀成對得起來）；(c) HG12c 寫進 pipeline v1.4 + 薄殼 skill + cron mirror 三層。**反向驗證**：把 `gh` 移出 PATH 重跑，新的那一行從 `comment-reconcile=60/61 … ✅` 變成 `comment-reconcile=0/61 · ⚠️ 抓不到留言 61 份紀錄` — 這道閘門真的會變紅，不是裝飾（REFLEXES #52）。
+- **順帶查出的一件事（不是問題）**：[issue #1252](https://github.com/frank890417/taiwan-md/issues/1252) archive 有 4 則、線上只有 3 則。7/29 那則留言重複貼了 7/25 更正**前**的舊版問題（把「張寶成 ≠ 張又升」這個已被自己更正掉的錯誤又講了一次），7/31 道歉更正，之後那則錯的在 GitHub 被刪掉——**git 這邊留住了完整的四則**。這正是主權層存在的理由，所以新 gate 把這個方向歸類成記錄而非警報。
+- **可能層級**：候選 REFLEXES #38 的子規則（混維度的一種特定載體：**取數函式的回傳值**，而非 status enum / 計數器 / 閘門）。跟 8/07 `check-disabled-by-default-reports-green`（「沒開啟」跟「檢查通過」印同一個符號）是**同一個形狀的兩個 instance**，只是一個在檢查器輸出端、一個在取數輸入端——兩條合起來可能夠一條獨立反射：**「不知道」必須有自己的符號，不能借用「沒事」的那個。**
+- **相關**：REFLEXES #38（混維度 — 本條是它在取數層的形狀）、#52（immune system 沒在 fail loud）、#82（proxy signal — `archive-comments-synced` 是「我寫了幾則」不是「該有幾則」）、#60（silent default = silent failure）、#15（手動核過兩次才儀器化）、#69（外部尺 — GitHub API 是 archive 的外部尺）、8/07 `out-of-band-status-transition-bypasses-sovereignty-layer`（同族，上一層）、8/07 `check-disabled-by-default-reports-green`（同形狀，另一端）、FEEDBACK-TRIAGE-PIPELINE §HG12c
+- **verification_count**: 2（2026-08-06 手動跨源核一次 / 2026-08-08 手動跨源核第二次 + 本次儀器化）
+
 ### 2026-08-08 twmd-data-refresh-am — routine-prompt-omits-session-only-rider：routine 自己的指令面沒寫這一步，於是它只能靠 session 讀到黃燈才想起來做
 
 - **pattern**: `routine-prompt-omits-session-only-rider`
