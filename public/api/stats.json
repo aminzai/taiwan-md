@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9165,
+  "totalArticles": 9167,
   "totalCategories": 26,
   "estimatedContributors": 68,
-  "totalTags": 6023,
+  "totalTags": 6025,
   "categories": [
     {
       "name": "es",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Culture",
-      "count": 72
+      "count": 73
     },
     {
       "name": "People",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Economy",
-      "count": 62
+      "count": 63
     },
     {
       "name": "Technology",
@@ -192,13 +192,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9165,
+    "zh-TW": 9167,
     "en": 0
   },
-  "lastUpdated": "2026-08-06T22:13:52.756Z",
+  "lastUpdated": "2026-08-07T22:12:57.561Z",
   "stars": 1126,
   "forks": 170,
-  "zhPages": 884,
+  "zhPages": 886,
   "enPages": 869,
-  "totalPages": 884
+  "totalPages": 886
 }

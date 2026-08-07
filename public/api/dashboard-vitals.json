@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-08-06T22:14:04.446Z",
-  "totalArticles": 884,
+  "lastUpdated": "2026-08-07T22:13:09.503Z",
+  "totalArticles": 886,
   "contributors": 68,
   "stars": 1126,
   "forks": 170,
-  "articlesLast7Days": 28,
-  "articlesLast30Days": 232,
-  "humanReviewedPercent": 22.4,
+  "articlesLast7Days": 26,
+  "articlesLast30Days": 233,
+  "humanReviewedPercent": 22.3,
   "curation": {
     "verified": 2,
-    "incubating": 99,
+    "incubating": 101,
     "unmarked": 783
   },
   "featuredPercent": 20.1,
   "avgRevision": 8.1,
   "languageCoverage": {
-    "zh-TW": 884,
+    "zh-TW": 886,
     "en": 867,
     "ja": 866,
     "ko": 867,

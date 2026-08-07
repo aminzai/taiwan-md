@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T22:14:04.446Z",
+  "lastUpdated": "2026-08-07T22:13:09.503Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 28,
-        "articlesLast30Days": 232,
-        "totalArticles": 884
+        "articlesLast7Days": 26,
+        "articlesLast30Days": 233,
+        "totalArticles": 886
       }
     },
     {
@@ -26,17 +26,17 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 198,
-        "totalArticles": 884,
-        "humanReviewedPercent": 22.4,
+        "totalArticles": 886,
+        "humanReviewedPercent": 22.3,
         "v2Status": "需關注 — T1 review < 80% OR plugin pass < 90%",
         "v2Components": {
           "review_coverage": 23.8,
           "plugin_pass_rate": 70,
           "plugin_health": 100,
-          "citation_density": 91.7,
+          "citation_density": 91.8,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 3.4
+          "external_rulers": 3.3
         }
       }
     },
@@ -83,7 +83,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 8,
+        "recentContributors": 9,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239295,
@@ -113,7 +113,7 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 884,
+          "zh-TW": 886,
           "en": 867,
           "ja": 866,
           "ko": 867,
@@ -344,7 +344,7 @@
             },
             "articles": {
               "count": 748,
-              "pct": 85
+              "pct": 84
             },
             "score": 74
           }

@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-07T06:13:48+08:00",
-    "zhCommitHead": "3aa49689e",
-    "totalZh": 886,
+    "lastUpdated": "2026-08-08T06:12:52+08:00",
+    "zhCommitHead": "2bf78e3f6",
+    "totalZh": 888,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 826,
         "stale": 24,
         "metadata_stale": 14,
-        "missing": 22,
+        "missing": 24,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 835,
         "stale": 22,
         "metadata_stale": 11,
-        "missing": 18,
+        "missing": 20,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 840,
         "stale": 13,
         "metadata_stale": 16,
-        "missing": 17,
+        "missing": 19,
         "orphan": 0
       },
       "es": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 834,
         "stale": 21,
         "metadata_stale": 15,
-        "missing": 16,
+        "missing": 18,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 833,
         "stale": 19,
         "metadata_stale": 18,
-        "missing": 16,
+        "missing": 18,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 350,
         "stale": 34,
         "metadata_stale": 71,
-        "missing": 431,
+        "missing": 433,
         "orphan": 0
       },
       "id": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 536,
         "stale": 6,
         "metadata_stale": 5,
-        "missing": 339,
+        "missing": 341,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 804,
         "stale": 14,
         "metadata_stale": 5,
-        "missing": 63,
+        "missing": 65,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 633,
         "stale": 0,
         "metadata_stale": 4,
-        "missing": 249,
+        "missing": 251,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 713,
         "stale": 4,
         "metadata_stale": 4,
-        "missing": 165,
+        "missing": 167,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 886,
+        "total_zh": 888,
         "fresh": 743,
         "stale": 3,
         "metadata_stale": 4,
-        "missing": 136,
+        "missing": 138,
         "orphan": 0
       }
     },
@@ -13461,6 +13461,49 @@
           "footnoteDefs": 5,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/博客來.md": {
+      "zh": {
+        "lastCommit": "5e15a7d9",
+        "lastModified": "2026-08-07T08:53:18+08:00",
+        "contentHash": "sha256:204a3cf0ff763d30",
+        "bodyHash": "sha256:70cf0c01c1c3b9f1"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -120467,6 +120510,49 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Culture/中秋.md": {
+      "zh": {
+        "lastCommit": "5e15a7d9",
+        "lastModified": "2026-08-07T08:53:18+08:00",
+        "contentHash": "sha256:7cd741adb82e8c2f",
+        "bodyHash": "sha256:2e97e9085815c5e8"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },

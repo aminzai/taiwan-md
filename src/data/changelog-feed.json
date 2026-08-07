@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-08-06T22:13:54.037Z",
+  "generatedAt": "2026-08-07T22:12:58.880Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "2bf78e3f6fcd7542256c572ffc78e28e9c25ed41",
+      "date": "2026-08-08T05:40:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-08 05:39 — 第十五輪抓到跨波 changelog 漏收",
+      "articles": []
+    },
+    {
+      "hash": "f4eac713a8590f3777a643d8eac0a0b06fc7c9fd",
+      "date": "2026-08-08T05:39:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-routine-sync: 補收 feedback-triage 閘門編號漂移進 git",
+      "articles": []
+    },
+    {
+      "hash": "ba9a16ee7a6f9d1f5172f4022495047d50fe2e35",
+      "date": "2026-08-08T05:36:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-08 05:36 — 12 語 9054 向量 0 fail，co-author 誤植 vc=2 軌跡本夜中斷",
+      "articles": []
+    },
+    {
+      "hash": "82cf377a937cd6d5021121e62ae8b1016d216402",
+      "date": "2026-08-08T05:34:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-08 05:35",
+      "articles": []
+    },
+    {
+      "hash": "32fda72619acdc67f968e945447946c3b2cbc66a",
+      "date": "2026-08-07T09:02:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-07 08:41 — 三 PR 全 merge，抓到印綠勾卻沒連線的檢查器",
+      "articles": []
+    },
+    {
+      "hash": "3868042f13240a5011b29c58da2ea104b6b0b514",
+      "date": "2026-08-07T09:00:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: 三個 PR 全數 merge，抓到一支印綠勾卻從沒連過線的檢查器",
+      "articles": []
+    },
+    {
+      "hash": "5e15a7d9d7ea3c48c59b8ece275e864a35113340",
+      "date": "2026-08-07T08:53:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 中秋與博客來兩篇新文 merge 後修補 — 換掉查不到的來源，改正三處年份",
+      "articles": []
+    },
+    {
+      "hash": "bdae17e8b2f711dc055ee80890d1c38bef27b5e4",
+      "date": "2026-08-07T08:47:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1296 from idlccp1984/patch-532925",
+      "articles": []
+    },
+    {
+      "hash": "8986cba2a778f5cc5dbccd0c2f44bca8b9801dd5",
+      "date": "2026-08-07T08:47:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1295 from idlccp1984/patch-697760",
+      "articles": []
+    },
+    {
+      "hash": "1efa7c377c4c68d41dc267f53946e0ec7c820238",
+      "date": "2026-08-07T08:46:05+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1294 from stantheman0128/fix/prebuild-cp950-console",
+      "articles": []
+    },
+    {
+      "hash": "8263cdc64012a64a6e198c89a504922a1ca6b8e0",
+      "date": "2026-08-07T07:25:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-07 07:22 — 隊列空第七天，對賬揪出主權層缺 21 份",
+      "articles": []
+    },
+    {
+      "hash": "0ff80b2bdfe0499d9d74a7150b9db1903a964fdb",
+      "date": "2026-08-07T07:24:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 補回 21 份漏掉的讀者回報紀錄，並加一道會叫的對賬",
+      "articles": []
+    },
+    {
+      "hash": "757d43b641629c7f0f1a041af8493c3f4e98dd55",
+      "date": "2026-08-07T06:41:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-07 06:40 — D+3 harvest 中止，Chrome MCP 連續三天故障",
+      "articles": []
+    },
+    {
+      "hash": "f21e8edc0512b773a8a172e9ce23355f5ce64b28",
+      "date": "2026-08-07T06:16:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-07 06:16 — 14 步全綠零 stale，live-state rider 連兩天漂回",
+      "articles": []
+    },
+    {
+      "hash": "2e73071477f4343b029b0ffc461e5cf82a72c3ec",
+      "date": "2026-08-07T06:14:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 884、本週新增 28",
+      "articles": []
+    },
     {
       "hash": "3aa49689e43cb0d3eaba8a2d5bae139c1180e3f8",
       "date": "2026-08-07T05:38:53+08:00",
@@ -21,6 +126,27 @@
       "date": "2026-08-07T05:34:42+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-07 05:34",
+      "articles": []
+    },
+    {
+      "hash": "23d95891958734b1165ba9aacb28984b9d4d1588",
+      "date": "2026-08-06T23:08:13+08:00",
+      "author": "idlccp1984",
+      "message": "Create 博客來.md",
+      "articles": []
+    },
+    {
+      "hash": "be8328ba64320bad99eeda234991187fa2e0c3c0",
+      "date": "2026-08-06T22:43:47+08:00",
+      "author": "idlccp1984",
+      "message": "Create 中秋.md",
+      "articles": []
+    },
+    {
+      "hash": "0998b338b654e7bf5abf580a0e664e9e2f1285d0",
+      "date": "2026-08-06T18:01:48+08:00",
+      "author": "stantheman0128",
+      "message": "fix(prebuild): cp950-safe console output in 7 prebuild generators",
       "articles": []
     },
     {

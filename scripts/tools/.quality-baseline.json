@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-06T22:14:01Z",
-  "total": 886,
-  "flagged": 435,
+  "timestamp": "2026-08-07T22:13:05Z",
+  "total": 888,
+  "flagged": 436,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -233,6 +233,11 @@
       "file": "economy/紡織業.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句2個; 稀薄段落×1; 假推論密度×2"
+    },
+    {
+      "file": "economy/博客來.md",
+      "score": 4,
+      "reasons": "空洞詞8個; 未人工審核; 稀薄段落×2"
     },
     {
       "file": "economy/NET.md",
