@@ -9,12 +9,12 @@ description: （每天 07:00 Asia/Taipei = 23:00 UTC）。把讀者站上回報�
 
 業務邏輯 canonical：docs/pipelines/FEEDBACK-TRIAGE-PIPELINE.md（5 stage）+ 薄殼 skill .claude/skills/twmd-feedback-triage/SKILL.md。執行：
 1. `git checkout main && git pull origin main`。
-1b. 🔴 **機器身份（2026-07-25 起，HG10）**：開 issue 走 GitHub App，不用宿主機登入的哲宇帳號。第 2、3 步之前先掛 token：`export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"`（換不到會 exit 1，絕不回空字串）。驗一眼：`bash scripts/tools/gh-app-token.sh --whoami` 應印 `{"issues": "write", "metadata": "read"}`。**GH_TOKEN 空掉就停手**——空值會讓 gh 安靜退回哲宇身份，issue 掛錯作者而且沒人會叫。為什麼：讀者回報是機械轉錄，作者顯示成維護者等於 §自主權邊界在視覺層漏線；這條 routine 讀最多不可信文字，不該握有能推 main 的憑證。評估：reports/design-bot-identity-feedback-triage-2026-07-25.md。
+1b. 🔴 **機器身份（2026-07-25 起，HG11）**：開 issue 走 GitHub App，不用宿主機登入的哲宇帳號。第 2、3 步之前先掛 token：`export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"`（換不到會 exit 1，絕不回空字串）。驗一眼：`bash scripts/tools/gh-app-token.sh --whoami` 應印 `{"issues": "write", "metadata": "read"}`。**GH_TOKEN 空掉就停手**——空值會讓 gh 安靜退回哲宇身份，issue 掛錯作者而且沒人會叫。為什麼：讀者回報是機械轉錄，作者顯示成維護者等於 §自主權邊界在視覺層漏線；這條 routine 讀最多不可信文字，不該握有能推 main 的憑證。評估：reports/design-bot-identity-feedback-triage-2026-07-25.md。
 2. 先 dry-run 看分類：`node scripts/feedback/triage.mjs`（核 HG2 無 email / HG5 spam / HG6 dedupe）。
 3. 確認 OK 才 `node scripts/feedback/triage.mjs --commit` — 讀 Supabase status='new' → spam/dedupe/分類 → `gh issue create`（from-feedback label，只放 display_name 不放 email，讀者文字 verbatim；作者應顯示 `taiwanmd-semiont[bot]`）→ 回寫 status + triage_note → 寫 git 主權 archive `docs/feedback/archive/{YYYY-MM}/{id}.md` + sync issue 留言進 §溝通紀錄。
    需環境變數 SUPABASE_URL + SUPABASE_SERVICE_KEY；未設則 emit「feedback backend 未配置, skip」**不算 fail**（escalation 只看 quality gate）。
 4. 🔴 HARD gate：issue body 無 email（PII）/ 讀者文字不改寫 / **不以維護者身份回覆 close merge**（那留 MAINTAINER 人類 gate，per §自主權邊界）。
-5. **收官前 `git add docs/feedback/archive/`**（HG9，讓回報+溝通落進 git）；`git add` 相關 memory/archive → `git commit` 標 `🧬 [routine] twmd-feedback-triage: ...` → `git push origin main`（main-direct，不開 PR）。
-6. 跑 /twmd-finale 收官：memory 必含 BECOME ACK + file/reject/skip count + 開的 issue #N + archive 檔數 + Handoff 三態。
+5. **收官前 `git add docs/feedback/archive/`**（HG12，讓回報+溝通落進 git）；`git add` 相關 memory/archive → `git commit` 標 `🧬 [routine] twmd-feedback-triage: ...` → `git push origin main`（main-direct，不開 PR）。
+6. 跑 /twmd-finale 收官：memory 必含 BECOME ACK + file/reject/skip count + 開的 issue #N + archive 檔數 + **`archive-reconcile=N/M` 對賬結果**（HG12b，2026-08-07 起：`⚠️` = 有 filed 但無 git 紀錄，用 `buildArchiveRecord()` 補；印 `unavailable` 不等於對得起來；只看 `archive-scanned` 是 proxy signal）+ Handoff 三態。
 
 時序：07:00 開 from-feedback issue → 08:30 twmd-maintainer-am 同 cycle 收割 → 當天閉環。
