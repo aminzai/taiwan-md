@@ -426,8 +426,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **✅ 已落地（2026-08-06 整合波）**：login-state probe＋單獨 handoff alert＋連 2 day escalation 已寫進 SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項。
 - **instances**：
   - 2026-08-07 twmd-spore-harvest-am — 症狀升級：`list_connected_browsers` 連續 3 次呼叫皆回 `[]`（非「顯示登入按鈕」而是**完全沒有配對瀏覽器**），比 8/5-8/6 的「連線但未登入」更嚴重——連 metrics 都讀不到，harvest 整個 Stage 2 無法開始。這是 REFLEXES #70 Tier 2 device-dependent 的典型症狀（`list_connected_browsers` 回 `[]`），跟 6/05-6/07 那次 vc=3 escalation 是同一個 fail mode，非本次首見。累計三個連續日（8/5 未登入 → 8/6 未登入 → 8/7 完全未連線）harvest routine 核心功能（讀留言／ship reply）都無法完整執行，達 pipeline §Escalation ladder 「連 3 day → 暫停 routine + telegram alert」門檻。**本 session 判斷不自行執行暫停**（routine 基礎設施變更超出 spore-harvest 任務本身授權範圍，且今日症狀與前兩日不同，可能是暫時性斷線而非同一根因延續），改為升為最高優先 handoff 交哲宇拍板：確認本機 Chrome extension 是否還在跑／需要重新配對，並決定是否要依 REFLEXES #70 建議正式執行 ROUTINE.md §暫停 SOP。dashboard OVERDUE 4 條（#165/#166/#167/#168，皆 D+3）本輪未 harvest，continue 累積到下次成功連線的 cycle。
+  - 2026-08-08 twmd-spore-harvest-am — 第四個連續日，症狀維持在最嚴重層級：`tabs_context_mcp` 直接回「Claude in Chrome is not connected」（連 `list_connected_browsers` 回 `[]` 這層錯誤訊息都沒有，是擴充功能本身完全連不上，比 8/7 的「已連線但無配對瀏覽器」更下游一層）。連續四日跨過 escalation ladder 「連 3 day → 暫停 routine + telegram alert」門檻已一整天未處理。**本 session 動作**：(a) 用 `PushNotification` 主動通知哲宇（ladder 的 telegram alert 對應動作），內容為「Chrome MCP 連續 4 天無法連線，spore-harvest 核心功能全數卡住，需要本機重新啟動／登入擴充功能」(b) 仍不自行執行 ROUTINE.md §暫停 SOP（判斷與 8/7 相同：這是本機瀏覽器擴充功能的環境層故障，不是 spore-harvest 任務職責範圍內能修的東西，「暫停排程」本身是一個影響其他依賴 Chrome MCP 的 routine 的決定，應該由哲宇拍板而非本 routine 自行執行）(c) OVERDUE 佇列持續累積，本輪同樣未 harvest 任何一條。**如果哲宇下次 session 讀到這裡時 Chrome MCP 仍未連線，第五天起應視為 ladder 本身「暫停 routine」這一步的執行權責也需要重新界定**——目前的設計假設「escalate 到位就會被處理」，但四天的證據顯示光靠 escalate 不會讓故障自己消失，這個 gap 值得下次 distill 收斂。
 - **相關**：REFLEXES #38（混維度 = silent killer）、REFLEXES #60（silent default = silent failure）、REFLEXES #70（Routine fragility surface 四 tier — Tier 2 device-dependent，`list_connected_browsers` 回 `[]` 同型 6/05-6/07 vc=3 案例）、SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項 + §Escalation
-- **verification_count**: 3
+- **verification_count**: 4
 
 ### 2026-08-04 manual（EZ WAY 孢子）— ordering-is-an-ethical-decision：在被操作的爭議裡，資訊排序不是寫作技巧是策展倫理
 

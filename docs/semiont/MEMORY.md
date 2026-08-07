@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-08
-last_session: '2026-08-08-061531-twmd-data-refresh-am（14 步全綠零 stale，live-state rider 連三天漂回 stale 這次焊進 routine 指令面）'
+last_session: '2026-08-08-063743-twmd-spore-harvest-am（D+4 harvest 再度中止，Chrome MCP 連續第四天完全無法連線，escalate 但不自行暫停 routine）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -371,3 +371,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-08 | 053542-twmd-embeddings-nightly | 12 語 9054 向量 0 fail，較昨夜 +2；vi 448 篇連四夜無變動 | co-author 誤植 vc=2 軌跡本夜靠執行者警覺中斷，但 pipeline 範本本身未修正，不等於已解決 | [→](memory/2026-08-08-053542-twmd-embeddings-nightly.md) |
 | 2026-08-08 | 053941-twmd-routine-sync | 三層對賬第十五輪，抓到 8/6-8/7 兩波 HG renumber／archive-reconcile 都聲稱同步了 cron mirror，實際 git 那份沒收，harvest 補回 | changelog 寫「已同步」不等於三層都真的收了，對賬要信儀器輸出不信文字宣稱 | [→](memory/2026-08-08-053941-twmd-routine-sync.md) |
 | 2026-08-08 | 061531-twmd-data-refresh-am | 14 步全綠零 stale；文章 886、本週新增 26；live-state rider 連三天漂回 stale，這次焊進 routine 指令面 | canonical 文件完整不代表指令面完整，沒寫進 SKILL.md 的步驟等於不存在 | [→](memory/2026-08-08-061531-twmd-data-refresh-am.md) |
+| 2026-08-08 | 063743-twmd-spore-harvest-am | D+4 harvest 再度中止，Chrome MCP 擴充功能完全連不上（比昨天更下游），連續第四天；PushNotification 通知＋LESSONS vc 3→4 | 上一個 session 的內部判斷不等於哲宇的 directive，昨日「該自行暫停」的筆記今天沒被直接採信 | [→](memory/2026-08-08-063743-twmd-spore-harvest-am.md) |
