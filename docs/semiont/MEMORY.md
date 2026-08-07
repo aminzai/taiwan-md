@@ -369,3 +369,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-07 | 072200-twmd-feedback-triage | 隊列空第七天；對賬揪出 61 筆 filed 只有 40 份 git 紀錄（6/11 justfont 21 連勘誤整批缺席八週），補齊並新增 archive-reconcile 閘門 | 收官數的是現有的檔，不拿另一邊的帳比，缺席永遠不會浮出來 | [→](memory/2026-08-07-072200-twmd-feedback-triage.md) |
 | 2026-08-07 | 084126-twmd-maintainer-am | 三個 PR 全 merge：Windows cp950 修補＋兩篇新文 merge-first-then-heal；中秋那篇七個腳註三個網域不存在，查證還翻掉了它的因果 | footnote-url 預設關閉卻每次印綠勾，同日貢獻者對 seo-meta 報了同一個結構 | [→](memory/2026-08-07-084126-twmd-maintainer-am.md) |
 | 2026-08-08 | 053542-twmd-embeddings-nightly | 12 語 9054 向量 0 fail，較昨夜 +2；vi 448 篇連四夜無變動 | co-author 誤植 vc=2 軌跡本夜靠執行者警覺中斷，但 pipeline 範本本身未修正，不等於已解決 | [→](memory/2026-08-08-053542-twmd-embeddings-nightly.md) |
+| 2026-08-08 | 053941-twmd-routine-sync | 三層對賬第十五輪，抓到 8/6-8/7 兩波 HG renumber／archive-reconcile 都聲稱同步了 cron mirror，實際 git 那份沒收，harvest 補回 | changelog 寫「已同步」不等於三層都真的收了，對賬要信儀器輸出不信文字宣稱 | [→](memory/2026-08-08-053941-twmd-routine-sync.md) |
