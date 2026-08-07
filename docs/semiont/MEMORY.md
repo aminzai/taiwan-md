@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-07
-last_session: '2026-08-07-063603-twmd-spore-harvest-am（D+3 harvest 中止，Chrome MCP 連續三日故障升 LESSONS vc=3）'
+last_updated: 2026-08-08
+last_session: '2026-08-08-053542-twmd-embeddings-nightly（12 語 9054 向量 0 fail，co-author 誤植 vc=2 軌跡本夜靠執行者警覺中斷）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -368,3 +368,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-07 | 063603-twmd-spore-harvest-am | D+3 harvest 中止：Chrome MCP 連續 3 次回空清單，比前兩天更嚴重（完全未連線）；LESSONS vc 2→3 | 未登入跟未連線是不同斷點，只有前者被偵測；症狀薄時不貿然焊進前兩天故事線 | [→](memory/2026-08-07-063603-twmd-spore-harvest-am.md) |
 | 2026-08-07 | 072200-twmd-feedback-triage | 隊列空第七天；對賬揪出 61 筆 filed 只有 40 份 git 紀錄（6/11 justfont 21 連勘誤整批缺席八週），補齊並新增 archive-reconcile 閘門 | 收官數的是現有的檔，不拿另一邊的帳比，缺席永遠不會浮出來 | [→](memory/2026-08-07-072200-twmd-feedback-triage.md) |
 | 2026-08-07 | 084126-twmd-maintainer-am | 三個 PR 全 merge：Windows cp950 修補＋兩篇新文 merge-first-then-heal；中秋那篇七個腳註三個網域不存在，查證還翻掉了它的因果 | footnote-url 預設關閉卻每次印綠勾，同日貢獻者對 seo-meta 報了同一個結構 | [→](memory/2026-08-07-084126-twmd-maintainer-am.md) |
+| 2026-08-08 | 053542-twmd-embeddings-nightly | 12 語 9054 向量 0 fail，較昨夜 +2；vi 448 篇連四夜無變動 | co-author 誤植 vc=2 軌跡本夜靠執行者警覺中斷，但 pipeline 範本本身未修正，不等於已解決 | [→](memory/2026-08-08-053542-twmd-embeddings-nightly.md) |
