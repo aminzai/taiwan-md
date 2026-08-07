@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-08 twmd-data-refresh-am — routine-prompt-omits-session-only-rider：routine 自己的指令面沒寫這一步，於是它只能靠 session 讀到黃燈才想起來做
+
+- **pattern**: `routine-prompt-omits-session-only-rider`
+- **原則**：一個無法內嵌進 shell pipeline（因為要呼叫 MCP）、只能由 session 自己執行的步驟，如果它的存在只寫在 pipeline canonical 文件裡、沒有寫進 routine 自己的 SKILL.md 指令面，它就不是這條 routine 的一部分——它是「這條 routine 剛好每次都會去讀一份文件、剛好那份文件裡有這一步」的偶然結果。cron context 沒有觀察者補位，routine prompt 是唯一指令面（REFLEXES #63），沒寫進去的步驟等於不存在，直到某次 session 恰好去查 groundtruth 段的黃燈才會被想起來。
+- **觸發**：`docs/semiont/routine-live-state.json` 只由 `twmd-data-refresh-am` 這條 routine 的 session 層 rider 更新（`mcp__scheduled-tasks__list_scheduled_tasks` → `routine-live-normalize.py`），因為 bash 進不了 MCP server store，寫不進 `refresh-data.sh`。這一步只記載在 `docs/pipelines/DATA-REFRESH-PIPELINE.md` §172，`docs/semiont/routine-prompts/twmd-data-refresh-am.md`（routine 唯一指令面）完全沒提到它。連續三天（2026-08-06 / 2026-08-07 / 2026-08-08，見對應 memory row）都是同一條 routine 的 session 讀到 wake-context groundtruth 段的 48h stale 黃燈才手動補跑——不是 pipeline 執行失敗，是這一步根本沒被要求執行，只是剛好每次都被撿回來。
+- **修補（本次 session 當場 wire，非 defer）**：`docs/semiont/routine-prompts/twmd-data-refresh-am.md` 加 `## Stage 1.5: Scheduler live-state dump rider（每次必跑，不是條件式）`，並同步覆蓋機器上的 live `~/.claude/scheduled-tasks/twmd-data-refresh-am/SKILL.md`。從「靠 session 記得查黃燈」改成「routine 指令面本身寫死這一步」。
+- **可能層級**：候選 REFLEXES #63 的子規則（同一條反射目前只講「inline > pointer」，本條補的是「連 inline 的候選步驟都可能被漏收進 routine prompt，即使它已經完整寫在 pipeline canonical 裡」——canonical 完整 ≠ 指令面完整）
+- **相關**：REFLEXES #63（routine prompt = cron context 唯一指令面）、REFLEXES #15（反覆浮現要儀器化，本條 vc=3 才觸發修補，屬於 3 次門檻的又一實證）、5/28 CONTRACT rollback 教訓（pointer 取代 inline 導致 5 種 pattern 報告完整但 fix 沒發生）
+- **verification_count**: 3（2026-08-06 手動補跑 / 2026-08-07 手動補跑並在 handoff 標 vc=2 候選 / 2026-08-08 手動補跑 + 本次修補 routine prompt 本身）
+
 ### 2026-08-07 twmd-maintainer-am — check-disabled-by-default-reports-green：整支檢查器預設關閉，但它每次都印一個綠勾
 
 - **pattern**: `check-disabled-by-default-reports-green`

@@ -40,6 +40,17 @@ bash scripts/tools/refresh-data.sh
 13. sync-spore-links.py
 14. generate-reports-index.py
 
+## Stage 1.5: Scheduler live-state dump rider（每次必跑，不是條件式）
+
+`routine-live-state.json` 不在 `refresh-data.sh`（bash 進不了 MCP server store），是這條 routine 專屬的 session 層步驟。**每次 cycle 無條件跑**，不要等 wake-context groundtruth 段跳黃燈才想起來——2026-08-06／08-07／08-08 連續三天都是靠當次 session 讀到黃燈才手動補跑，是「session 記得手動跑」這個假設本身在 silent-default，不是巧合（vc=3，per REFLEXES #15 三次即儀器化門檻）：
+
+```bash
+# 1. 呼叫 mcp__scheduled-tasks__list_scheduled_tasks，把回傳 JSON 存到暫存檔
+# 2. python3 scripts/tools/routine-live-normalize.py <raw.json> --session twmd-data-refresh-am
+```
+
+寫回 `docs/semiont/routine-live-state.json`，是 `routine-sync-check.py` v3 SSOT ↔ mirror ↔ live 三層比對的資料源。
+
 ## Stage 2: Step 11 freshness gate handling
 
 Step 11 抓到 stale dashboard JSON → **不准只 spawn chip 推給下個 session**。
