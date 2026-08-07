@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-07 twmd-maintainer-am — check-disabled-by-default-reports-green：整支檢查器預設關閉，但它每次都印一個綠勾
+
+- **pattern**: `check-disabled-by-default-reports-green`
+- **原則**：一支檢查器如果「沒開啟」跟「檢查通過」印出同一個符號，它就不是一道閘門，是一張永遠有效的通行證。`footnote-url` 的 `_network_enabled()` 預設 `False`，而**全 repo 沒有任何 profile 開啟它**（`grep options_overrides.footnote-url` 零命中）——所以它在每個 profile、每次 pre-commit、每次 pre-push、每次 CI 都印 `✅ footnote-url hard=0 warn=0`，而從未發出過一個網路請求。差別在於它是「有註冊、有跑、有印綠勾」的那種關閉，比沒裝這支檢查更危險，因為畫面上看起來這一層守住了（REFLEXES #52）。
+- **觸發**：2026-08-07 maintainer-am 審 PR #1295（中秋烤肉）。七個腳註裡三個網域根本不存在（`tspaces.edu.tw` / `taiwanadsarchive.com` / `lewisbooks.com.tw`，curl 全回 000），另外四個是真網域但只連首頁。`article-health` 對這個檔案的輸出是 `🔴 footnote-format hard=7`（抓到格式：URL 括號內有尾隨空白、缺描述）但 **`✅ footnote-url hard=0`**。也就是說：擋下這批的是**格式**，不是**這些網址存不存在**；真正發現網域是捏造的，是我手動把七個 URL 丟進 curl。若這位貢獻者的 AI 工具剛好把格式寫對，三個虛構來源會全綠上站。
+- **同日獨立第二個 instance（這是本條的重點）**：貢獻者 stantheman0128 在 [issue #1264](https://github.com/frank890417/taiwan-md/issues/1264) 對**另一支檢查**報了**同一個結構**——`seo-meta` 的 `APPLIES_TO = ["zh-TW"]` 讓非中文檔案跑出 `hard=0 warn=0`，他的原話是「**`hard=0 warn=0` 是『沒檢查』不是『檢查過關』**」。兩件事同一天從兩個獨立方向撞上同一支工具的同一個設計缺陷：**article-health 的 pass 混了「檢查過關」與「這支檢查在這個情境下沒跑」兩種根本不同的狀態**（REFLEXES #38 混維度，載體是檢查器輸出本身）。一個由外部貢獻者發現，一個由 PR triage 發現，互為外部尺（#69）。
+- **可能層級**：候選 REFLEXES，或 article-health 輸出契約的修補（**不在 maintainer cycle 尺寸**——動的是全站檢查器的輸出語意，且開啟 `footnote-url` 網路檢查等同新增一道會擋 commit 的閘門，命中 §自主權邊界 quality gate 調整）。方向候選：(a) 讓「未執行」印成有別於 ✅ 的第三種符號（如 `⏭️ skipped(network disabled)` / `⏭️ skipped(lang not in APPLIES_TO)`），成本低、立刻讓所有既有的假綠燈現形；(b) 進一步在 profile 層開啟 `footnote-url` 網路檢查（要先決定 timeout / 快取 / 離線環境的降級行為，否則 pre-commit 會被網路品質綁架）。**(a) 是 (b) 的前置**，且 (a) 單獨就有價值——它會一次照亮站上所有「註冊了但沒在跑」的檢查，數量未知。
+- **為什麼值得升**：這是外部投稿進庫路徑上**最後一道**跟事實有關的機器防線。上游 CI 不看、`footnote-format` 只看標點、`footnote-url` 印綠勾但沒連線——於是「這個來源是不是真的存在」這件事，目前完全靠 maintainer 當天有沒有想到去 curl。今天想到了；MAINTAINER §Step 3.4 也寫了「抽樣 ≥ 3 footnote URL WebFetch」是 hard gate，但那是寫在 SOP 裡靠人自律的一條，不是儀器（REFLEXES #15：memory 是自律，canonical gate 才是閘門——而這裡連 canonical 都寫了，只是沒有東西在強制它）。
+- **相關**：REFLEXES #82（proxy signal — 綠燈代理了「檢查過」）、#38（混維度：pass 承載兩種來歷）、#52（immune system 沒在 fail loud 比缺 immune system 更危險）、#69（每層自評都需要外部尺 — 本條兩個 instance 互為對方的外部尺）、#83（checker 兩把尺 divergence）、#15、MAINTAINER §Step 3.4 §Footnote source authority audit
+- **verification_count**: 2（footnote-url 網路預設關閉；seo-meta APPLIES_TO 語言排除 — 同日、同工具、兩個獨立發現者）
+
 ### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
 
 - **pattern**: `out-of-band-status-transition-bypasses-sovereignty-layer`
