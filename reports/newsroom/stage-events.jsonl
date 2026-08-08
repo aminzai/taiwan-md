@@ -763,3 +763,10 @@
 {"ts": "2026-08-06T06:44:46Z", "slug": "台灣感性", "stage": "room_projection", "status": "unknown", "source": "observed"}
 {"ts": "2026-08-06T06:44:46Z", "slug": "台灣感性", "stage": "room_chief", "status": "unknown", "source": "observed"}
 {"ts": "2026-08-06T06:44:46Z", "slug": "蔡英文", "stage": "verify", "status": "done", "source": "observed"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "verify", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "b6a6a056911e"}
+{"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗-v3-retired", "stage": "projection", "status": "in-progress", "source": "observed"}
