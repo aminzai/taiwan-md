@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-09
-last_session: '2026-08-09-053446-twmd-embeddings-nightly（12 語 9055 向量 0 fail，co-author 屬性誤植根因真正修掉）'
+last_session: '2026-08-09-064210-twmd-spore-harvest-am（D+5 harvest 完成，Chrome MCP 連線恢復但帳號登入態未恢復）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-09 | 053446-twmd-embeddings-nightly | 12 語 9055 向量 0 fail；co-author 屬性誤植連三夜後，本夜把 pipeline 範本寫死型號的根因真正改掉，不再只靠執行者警覺 | 承諾的物理位置決定是否會被實現——連兩夜寫在 memory 裡的 pending，第三夜才有人真的去改那個字 | [→](memory/2026-08-09-053446-twmd-embeddings-nightly.md) |
 | 2026-08-09 | 053720-twmd-routine-sync | 三層對賬第十六輪，18 條全 in-sync 零漂移；上一輪補的 feedback-triage cron mirror 修補重驗未回退 | 連續零漂移仍完整跑一次對賬，不假設沒事 | [→](memory/2026-08-09-053720-twmd-routine-sync.md) |
 | 2026-08-09 | 061329-twmd-data-refresh-am | 14 步全綠零 stale，第十二個連續全綠早晨；文章 887、本週新增 30；Stage 1.5 live-state rider 昨夜焊進指令面後首次自然執行零提醒 | 造橋接到會被走的路上，遵循就不再需要意志力 | [→](memory/2026-08-09-061329-twmd-data-refresh-am.md) |
+| 2026-08-09 | 064210-twmd-spore-harvest-am | D+5 harvest 完成，Chrome MCP 連線恢復但帳號仍登出；黃崇仁 5 項指標三天精確持平判定 plateau；EZWAY 話題環境政治化純觀察 | 斷點退回登入層是修復訊號，跟連線層故障不是同一種噪音 | [→](memory/2026-08-09-064210-twmd-spore-harvest-am.md) |
