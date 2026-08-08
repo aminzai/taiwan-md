@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-08
-last_session: '2026-08-08-063743-twmd-spore-harvest-am（D+4 harvest 再度中止，Chrome MCP 連續第四天完全無法連線，escalate 但不自行暫停 routine）'
+last_updated: 2026-08-09
+last_session: '2026-08-09-011119-twmd-news-lens-weekly（W32 三源交叉，僅颱風白海豚一個強新聞候選，英文 metadata 缺口連續五週確認但家族窄化 6→4 篇，出口關閉 propose 0）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -376,3 +376,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-08 | 071725-twmd-feedback-triage | 隊列空第八天，三邊帳對齊；手動核 61 份紀錄的留言完整性，抓到取數層「抓不到」與「沒有」共用 `[]`，補 HG12c 留言層對賬 | 故障被編碼成合法的健康讀數，比量錯層更難察覺 | [→](memory/2026-08-08-071725-twmd-feedback-triage.md) |
 | 2026-08-08 | 085749-twmd-maintainer-am | 兩個貢獻者 PR 修好 pre-commit 對 867 篇中文檔名的靜默失效（含 article-health hard gate）；順線挖出 slug 閘門 guard 自我矛盾、上線至今零執行；CLI 兩個 Windows/獨立安裝問題 | 檢查器空掃描印的綠勾跟全數通過逐字相同，我自己先被騙了一次 | [→](memory/2026-08-08-085749-twmd-maintainer-am.md) |
 | 2026-08-08 | 093200-twmd-flywheel-watch | 飛輪零問題（24hr 13 commit／11 筆 routine 標記／六條有動靜），唯一靜默是這支儀器自己——8/7 收官卡在被產線佔住的工作樹，用 worktree 回收 | 收官路徑寫進 handoff 只活一天，8/3 發現 8/7 就掉了，升進 ROUTINE.md 註 ²⁰ | [→](memory/2026-08-08-093200-twmd-flywheel-watch.md) |
+| 2026-08-09 | 011119-twmd-news-lens-weekly | W32 三源交叉：本週僅颱風白海豚一個強新聞候選（未硬湊六條），英文 metadata 缺口連續五週確認但家族自然窄化 6→4 篇，出口關閉 propose 0 | 連續出現在榜單不等於問題持續惡化，曝光量本身有自然波動，過度解讀窄化是另一種說謊 | [→](memory/2026-08-09-011119-twmd-news-lens-weekly.md) |
