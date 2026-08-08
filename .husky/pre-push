@@ -83,7 +83,11 @@ elif command -v gh >/dev/null 2>&1; then
   while :; do
     started="$(gh run list --workflow=deploy.yml --status=in_progress --json startedAt -q '.[0].startedAt' 2>/dev/null)"
     [ -z "$started" ] && break           # 無 in-flight deploy → 放行
-    start_epoch="$(date -j -f "%Y-%m-%dT%H:%M:%SZ" "$started" +%s 2>/dev/null || echo 0)"
+    # -u 不可省：GitHub 回的 startedAt 是 UTC，但 macOS `date -j -f` 預設用「本機時區」
+    # 解讀輸入（格式字串裡的 Z 是字面量，不是時區指示）。在 Asia/Taipei 會讓 epoch 少
+    # 28800 秒，elapsed 因此永遠多算 8 小時 —— 恆大於 STUCK=900，於是每一次 push 都被
+    # 判成 zombie，「近完成就等它」這條分支從寫下來到 2026-08-09 從沒真正跑過一次。
+    start_epoch="$(date -j -u -f "%Y-%m-%dT%H:%M:%SZ" "$started" +%s 2>/dev/null || echo 0)"
     elapsed=$(( $(date -u +%s) - start_epoch ))
     if [ "$start_epoch" -eq 0 ] || [ "$elapsed" -lt "$THRESH" ]; then
       echo "🧬 pre-push: in-flight deploy 還早（${elapsed}s<${THRESH}s）— 直接 push，cancel-in-progress 接手 latest-wins"
