@@ -1,7 +1,315 @@
 {
-  "generatedAt": "2026-08-07T22:12:58.880Z",
+  "generatedAt": "2026-08-08T22:11:44.294Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "58a7e168e583557a558d37a5c057756f60ee6438",
+      "date": "2026-08-09T05:39:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-09 05:37 — 三層對賬第十六輪，18 條全 in-sync 零漂移",
+      "articles": []
+    },
+    {
+      "hash": "30a4b447cdc25cfddeb783686557ace86942cf1e",
+      "date": "2026-08-09T05:35:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-09 05:34 — 12 語 9055 向量 0 fail，co-author 誤植根因這夜真正修掉",
+      "articles": []
+    },
+    {
+      "hash": "901a6fb83330b2dd1671d71b0267ab1c5180c4b8",
+      "date": "2026-08-09T05:34:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: EMBEDDING-PIPELINE Stage 3 commit template 拿掉寫死的 co-author 型號",
+      "articles": []
+    },
+    {
+      "hash": "10b164731ff2285d4096570154bef3eae22615af",
+      "date": "2026-08-09T05:33:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-09 05:37",
+      "articles": []
+    },
+    {
+      "hash": "7c6ba58c06e09035e1ed8be863aec3cfd4bb223c",
+      "date": "2026-08-09T04:21:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-self-evolve-weekly @ 2026-08-09 04:19 — feedback-triage cron mirror 真正補齊，REFLEXES #67 加已同步宣稱變體",
+      "articles": []
+    },
+    {
+      "hash": "60f7db41102f5b5d85d04fc4e1fd200d00061854",
+      "date": "2026-08-09T04:18:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: feedback-triage cron mirror 真正補上 HG9/HG10 兩行，REFLEXES #67 加已同步宣稱變體",
+      "articles": []
+    },
+    {
+      "hash": "c15721ad72e79b3dd7a0ede3cec7edc0a7ffca2e",
+      "date": "2026-08-09T03:19:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill-weekly: W32 完整 distill — 新 REFLEXES #85 收斂三條「假綠燈」教訓，順手揪出另一條教訓自己的修補聲明也漂了一層",
+      "articles": []
+    },
+    {
+      "hash": "1e9c6f6488bc997aa3da29457b67728c88655d09",
+      "date": "2026-08-09T02:28:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-weekly-report-sun: 週報補記第二項修復——它是被自己的 pre-push 叫出來的",
+      "articles": []
+    },
+    {
+      "hash": "1cf1b3a20a00cc9b3cf8ad05a870f3828e8e05e6",
+      "date": "2026-08-09T02:26:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: pre-push 的 in-flight 判斷少一個 -u，把每次 push 都讀成殭屍",
+      "articles": []
+    },
+    {
+      "hash": "a8681c34e32d88e08765e6f3985fbaea84ad7553",
+      "date": "2026-08-09T02:25:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-weekly-report-sun @ 2026-08-09 02:03 — W32 體檢收官，順手抓到一條記錯的反射帳",
+      "articles": []
+    },
+    {
+      "hash": "8ec578646201651a63822c1d6f87b74de2b491a0",
+      "date": "2026-08-09T02:18:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-weekly-report-sun: W32 週體檢 — 四篇文全綠上線又被指出六處，沒有一處是事實錯誤",
+      "articles": []
+    },
+    {
+      "hash": "466f3ddd14daaae105a0155e634e86feac908e84",
+      "date": "2026-08-09T02:11:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: routine 對賬檢查器認得 ⏸️ 標記與機器標記，不再每天喊一次假警報",
+      "articles": []
+    },
+    {
+      "hash": "242e1fdebd92bbb773e8d8846142a9fa557df123",
+      "date": "2026-08-09T01:15:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W32 三源交叉 + 4 條候選（出口關閉）+ 英文 metadata 缺口家族 vc=5",
+      "articles": []
+    },
+    {
+      "hash": "a8ab203b4186942cf415c1084530f07cc0aeefc2",
+      "date": "2026-08-09T00:29:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 編輯台看板更新（新冠疫情與疫苗上線）",
+      "articles": []
+    },
+    {
+      "hash": "97f21da513f52b68e620a6086cf8385c3647df95",
+      "date": "2026-08-09T00:27:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Step 3.8 定稿站，原子守恆過關",
+      "articles": []
+    },
+    {
+      "hash": "29ff6f48185e8d4ff7e6ae0da4861216948586f2",
+      "date": "2026-08-09T00:14:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Stage 5 反向連結五篇",
+      "articles": []
+    },
+    {
+      "hash": "5c2cd88cb0ac8928bd97ad6bf4c5d7a1640ca1df",
+      "date": "2026-08-09T00:12:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] pipeline: 事實層更正必須回填 fact-pack（Stage 3 大驗證輪步 3-bis，HARD）",
+      "articles": []
+    },
+    {
+      "hash": "5c8344238c1dd802655e3b96da2a3805930cda35",
+      "date": "2026-08-09T00:10:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 兩席複驗回修十三處",
+      "articles": []
+    },
+    {
+      "hash": "a43eea9f737894677a08bb2cc3a09d95aed27258",
+      "date": "2026-08-08T23:54:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 v4 重寫落地，論點換成時間差",
+      "articles": []
+    },
+    {
+      "hash": "be62eb96bf55af5e44e66f1ee2cfd732a2c0a094",
+      "date": "2026-08-08T23:22:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: LESSONS 記三層教訓——論點層的後台洩漏、隱喻密度是論點體溫計、豁免區跟病灶不同軸",
+      "articles": []
+    },
+    {
+      "hash": "6d3421391134cbe4630bf3651a77c09470e9b7bf",
+      "date": "2026-08-08T23:20:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗投影 v4 換論點，v3 歸檔為證據鏈",
+      "articles": []
+    },
+    {
+      "hash": "49b8482c8851300cdcd63cbbce1f0257cf324aec",
+      "date": "2026-08-08T23:15:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 後台洩漏補到論點層，儀器加三組並修一個假陰性",
+      "articles": []
+    },
+    {
+      "hash": "3f52a0aefaf97599d3f5c6e5242827b7f6f5a8dd",
+      "date": "2026-08-08T22:56:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗大驗證輪四十二條批修落地",
+      "articles": []
+    },
+    {
+      "hash": "c0c753a5afb8beb7d0296681c6c23e2ba4868ae9",
+      "date": "2026-08-08T20:34:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗大驗證輪十二席收件與四十條修復單落檔",
+      "articles": []
+    },
+    {
+      "hash": "efec8e0c08ace9351df12ed4ba7db0c4e420b945",
+      "date": "2026-08-08T20:26:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗藍圖回填四處，並作廢一條我自己寫錯的指令",
+      "articles": []
+    },
+    {
+      "hash": "eb14649ae7e359d574992ffd34a00236714b949c",
+      "date": "2026-08-08T20:21:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Stage 2.5 門面句與引語保真三處收緊",
+      "articles": []
+    },
+    {
+      "hash": "a7a391591b69a49c3a703013b8af5732e7b3aeb0",
+      "date": "2026-08-08T20:16:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] Society/台灣新冠疫情與疫苗：Stage 2 fresh 正文落地",
+      "articles": []
+    },
+    {
+      "hash": "e1c95c9e47adfed62dfb6b00c487a66cff1a4bc7",
+      "date": "2026-08-08T19:41:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗投影編輯室三席審完，七項必改全數回修",
+      "articles": []
+    },
+    {
+      "hash": "69eded832ade12fdb6d74778eb6c33b6349beb77",
+      "date": "2026-08-08T19:32:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 persona 稽核與投影藍圖落檔",
+      "articles": []
+    },
+    {
+      "hash": "be909892dfdf2f32d288fa06b351c4c46e377ccc",
+      "date": "2026-08-08T19:17:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗研究報告合成單檔（五路 raw 全數 inline）",
+      "articles": []
+    },
+    {
+      "hash": "78876b41b8fa84b4fe6b145cd820087cbca722af",
+      "date": "2026-08-08T19:02:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Stage 1A 研究 A、B 落檔",
+      "articles": []
+    },
+    {
+      "hash": "9dc22d78bd540be26766c1365822e3328b14ff20",
+      "date": "2026-08-08T19:00:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Stage 1B 媒體入庫七張",
+      "articles": []
+    },
+    {
+      "hash": "f1da2d1621ce2704f6a2010a113b540e4d9ef001",
+      "date": "2026-08-08T18:48:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Stage 0 觀點成型落檔",
+      "articles": []
+    },
+    {
+      "hash": "e81335d9e639cb3b0fc621eb646898910cf27bbc",
+      "date": "2026-08-08T09:38:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-flywheel-watch: 飛輪在轉，靜默的又是這支儀器自己",
+      "articles": []
+    },
+    {
+      "hash": "c407ff41fbc5894349ae16d9ea2993ac1e5654c5",
+      "date": "2026-08-07T09:37:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-flywheel-watch: 飛輪零靜默零警報，maintainer 的別名補進 ROUTINE.md",
+      "articles": []
+    },
+    {
+      "hash": "24dbe9be90672d312e1ba2ef922f50be46df13e6",
+      "date": "2026-08-08T09:01:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-08 08:30 — 兩個 PR 修好免疫層靜默失效，再挖出一道從沒活過的閘門",
+      "articles": []
+    },
+    {
+      "hash": "b49b40cf646c6cd00928f1b33b10e40624001346",
+      "date": "2026-08-08T08:54:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: CLI 在 Windows 與獨立安裝下修好兩個 sync 問題",
+      "articles": []
+    },
+    {
+      "hash": "5e69cab4244ade70b770f8d212a08e797d3f2b19",
+      "date": "2026-08-08T08:45:37+08:00",
+      "author": "Po-Han Shih",
+      "message": "fix(husky): make pre-commit gates actually see staged CJK-named articles (#1298)",
+      "articles": []
+    },
+    {
+      "hash": "2b625bfca5a33b3a47be3a93264292bf7e9cb74a",
+      "date": "2026-08-08T08:45:34+08:00",
+      "author": "Po-Han Shih",
+      "message": "fix(gates): cp950-safe console output in the pre-commit and CI gate scripts (#1300)",
+      "articles": []
+    },
+    {
+      "hash": "8466acd52d83b9c886d3ccaeedf0b22942eca808",
+      "date": "2026-08-08T07:20:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 讀者回報隊列空第八天，補一道會叫的留言對賬",
+      "articles": []
+    },
+    {
+      "hash": "a5ca92f11a73664d245bb96a05e44a9a9a255b0a",
+      "date": "2026-08-08T06:40:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: D+4 harvest 中止，Chrome MCP 連續第四天無法連線",
+      "articles": []
+    },
+    {
+      "hash": "d1a5c6e06579d20985de0c0974e69d0e8660252d",
+      "date": "2026-08-08T06:21:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-08 06:18 — 14 步全綠零 stale，live-state rider 連三天後這次焊進指令面",
+      "articles": []
+    },
+    {
+      "hash": "20d1bc390adb07f409b29b30c4292d2e69fab4d9",
+      "date": "2026-08-08T06:18:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: live-state rider 寫進 data-refresh-am 指令面 — 連三天靠黃燈手動補跑",
+      "articles": []
+    },
+    {
+      "hash": "5f62bc7b559f92412f5fb783bce370a3f39e7bfc",
+      "date": "2026-08-08T06:15:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 886、本週新增 26",
+      "articles": []
+    },
     {
       "hash": "2bf78e3f6fcd7542256c572ffc78e28e9c25ed41",
       "date": "2026-08-08T05:40:35+08:00",

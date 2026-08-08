@@ -7310,7 +7310,7 @@
       "疾管署"
     ],
     "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%85%B1%E8%A1%9B%E7%94%9F%E8%88%87%E9%98%B2%E7%96%AB%E9%AB%94%E7%B3%BB",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-04-08",
     "path": "Society/台灣公共衛生與防疫體系.md"
@@ -10103,6 +10103,23 @@
     "featured": true,
     "date": "2026-03-20",
     "path": "Food/台灣新住民美食融合.md"
+  },
+  {
+    "title": "台灣新冠疫情與疫苗：買到的十八個月，和沒趕上的那一針",
+    "description": "2020 年 2 月 15 日，一名沒出過國的白牌車司機病逝，是台灣第一例 COVID-19 死亡。靠邊境管制與一張健保卡，台灣把大流行擋在門外將近十八個月，2020 年全年只有 799 例確診、7 人死亡。但第一批疫苗 2021 年 3 月才到，只有 11.7 萬劑；2022 年 Omicron 進來時，長者的第三劑還落在後面。那一年死亡年齡的中位數是 82 歲，比前一年多了十歲。承擔代價的另外幾群人——救濟被駁回的、離開醫院的、被關在宿舍裡的——很多到今天都沒有被算進任何一份統計。",
+    "category": "Society",
+    "tags": [
+      "COVID-19",
+      "疫苗",
+      "公共衛生",
+      "防疫政策",
+      "疫苗受害救濟"
+    ],
+    "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%88%87%E7%96%AB%E8%8B%97",
+    "readingTime": 163,
+    "featured": false,
+    "date": "2026-08-08",
+    "path": "Society/台灣新冠疫情與疫苗.md"
   },
   {
     "title": "台灣新偶像世代",
@@ -16252,7 +16269,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E5%94%90%E9%B3%B3",
-    "readingTime": 52,
+    "readingTime": 53,
     "featured": true,
     "date": "2026-05-16",
     "path": "People/唐鳳.md"
@@ -21147,7 +21164,7 @@
       "遠距醫療"
     ],
     "url": "https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E7%81%BD%E9%9B%A3%E9%86%AB%E7%99%82%E9%AB%94%E7%B3%BB",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-24",
     "path": "Technology/台灣災難醫療體系.md"

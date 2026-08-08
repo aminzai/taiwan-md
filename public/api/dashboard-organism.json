@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T22:13:09.503Z",
+  "lastUpdated": "2026-08-08T22:11:54.365Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 26,
-        "articlesLast30Days": 233,
-        "totalArticles": 886
+        "articlesLast7Days": 30,
+        "articlesLast30Days": 236,
+        "totalArticles": 887
       }
     },
     {
@@ -26,11 +26,11 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 198,
-        "totalArticles": 886,
+        "totalArticles": 887,
         "humanReviewedPercent": 22.3,
         "v2Status": "需關注 — T1 review < 80% OR plugin pass < 90%",
         "v2Components": {
-          "review_coverage": 23.8,
+          "review_coverage": 23.7,
           "plugin_pass_rate": 70,
           "plugin_health": 100,
           "citation_density": 91.8,
@@ -49,7 +49,7 @@
       "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-08-04T06:39:07.000Z"
+        "editorialLastModified": "2026-08-08T15:15:42.000Z"
       }
     },
     {
@@ -113,7 +113,7 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 886,
+          "zh-TW": 887,
           "en": 867,
           "ja": 866,
           "ko": 867,
