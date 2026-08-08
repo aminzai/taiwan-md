@@ -7,6 +7,7 @@ import {
   copyFileSync,
   writeFileSync,
   statSync,
+  rmSync,
 } from 'fs';
 import { join } from 'path';
 import { homedir } from 'os';
@@ -87,7 +88,9 @@ export async function runSync(opts = {}) {
     if (repoExists && opts.force) {
       if (!opts.silent)
         console.log(chalk.gray('  強制重新同步，移除舊資料...'));
-      run(`rm -rf "${KNOWLEDGE_DIR}"`);
+      // Node fs 而非 shell rm：Windows 沒有 rm，`sync --force` 會在這行直接失敗
+      // （issue #1301）。rmSync 跨平台，也省掉一次 shell 展開。
+      rmSync(KNOWLEDGE_DIR, { recursive: true, force: true });
     }
 
     // Ensure parent directory exists

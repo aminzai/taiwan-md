@@ -122,13 +122,29 @@ function isInRepo() {
 }
 
 /**
- * Get the knowledge base root path.
- * In-repo: <repo>/knowledge/
- * Standalone: ~/.taiwanmd/knowledge/
+ * Get the knowledge base root path — the directory that holds the category
+ * folders, not the git clone root.
+ *
+ * In-repo:    <repo>/knowledge/
+ * Standalone: ~/.taiwanmd/knowledge/knowledge/
+ *
+ * `sync` clones the whole repo *into* ~/.taiwanmd/knowledge/, so the articles
+ * sit one level deeper than the clone root. sync.js has always counted them at
+ * the nested path for its summary; this reader looked at the clone root and
+ * therefore found zero categories, which is why `read` and `cite` reported
+ * "找不到文章" on a standalone install while `search` (cache-backed) worked
+ * (issue #1301). Fall back to the clone root so an older flat layout, or a
+ * future sync that stops nesting, still resolves.
  */
 export function getKnowledgePath() {
   if (isInRepo()) {
     return path.join(REPO_ROOT, 'knowledge');
+  }
+  const nested = path.join(STANDALONE_KNOWLEDGE_DIR, 'knowledge');
+  try {
+    if (fs.statSync(nested).isDirectory()) return nested;
+  } catch {
+    // fall through to the clone root
   }
   return STANDALONE_KNOWLEDGE_DIR;
 }
