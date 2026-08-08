@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-06T06:43:11+08:00",
+  "_generated": "2026-08-09T06:41:33+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 159,
@@ -9039,9 +9039,9 @@
         "shares": 57
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-08-06 06:41",
-        "batch": "batch-2026-08-06-5-spores",
+        "dPlus": 5,
+        "harvestDate": "2026-08-09 06:40",
+        "batch": "batch-2026-08-09-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9074,6 +9074,16 @@
           "reposts": 25,
           "comments": 36,
           "shares": 57
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-09 06:40",
+          "batch": "batch-2026-08-09-2-spores",
+          "views": 38000,
+          "likes": 790,
+          "reposts": 25,
+          "comments": 36,
+          "shares": 57
         }
       ]
     },
@@ -9088,16 +9098,16 @@
       "url": "https://x.com/taiwandotmd/status/2084319140907786616",
       "template": "A2 首尾呼應（動機弧線：學醫→晶片→回到醫學）",
       "metrics": {
-        "views": 1255,
-        "likes": 2,
-        "reposts": 1,
-        "comments": 1,
+        "views": 1362,
+        "likes": 17,
+        "reposts": 2,
+        "comments": 2,
         "shares": 17
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-08-06 06:41",
-        "batch": "batch-2026-08-06-5-spores",
+        "dPlus": 5,
+        "harvestDate": "2026-08-09 06:40",
+        "batch": "batch-2026-08-09-2-spores",
         "source": "harvest+backfill"
       },
       "history": [
@@ -9130,6 +9140,16 @@
           "reposts": 1,
           "comments": null,
           "shares": 17
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-09 06:40",
+          "batch": "batch-2026-08-09-2-spores",
+          "views": 1362,
+          "likes": 17,
+          "reposts": 2,
+          "comments": 2,
+          "shares": null
         }
       ]
     },
@@ -9144,16 +9164,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181",
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
-        "views": 1705,
+        "views": 1744,
         "likes": 56,
-        "reposts": 2,
+        "reposts": 3,
         "comments": 2,
         "shares": 3
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-08-06 06:41",
-        "batch": "batch-2026-08-06-5-spores",
+        "dPlus": 5,
+        "harvestDate": "2026-08-09 06:40",
+        "batch": "batch-2026-08-09-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9176,6 +9196,16 @@
           "reposts": 2,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-09 06:40",
+          "batch": "batch-2026-08-09-2-spores",
+          "views": 1744,
+          "likes": 56,
+          "reposts": 3,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -9190,16 +9220,16 @@
       "url": "https://x.com/taiwandotmd/status/2084520918441951650",
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
-        "views": 264,
-        "likes": 10,
-        "reposts": 1,
-        "comments": 0,
+        "views": 298,
+        "likes": 2,
+        "reposts": 10,
+        "comments": 1,
         "shares": 2
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-08-06 06:41",
-        "batch": "batch-2026-08-06-5-spores",
+        "dPlus": 5,
+        "harvestDate": "2026-08-09 06:40",
+        "batch": "batch-2026-08-09-2-spores",
         "source": "harvest+backfill"
       },
       "history": [
@@ -9222,6 +9252,16 @@
           "reposts": 1,
           "comments": null,
           "shares": 2
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-09 06:40",
+          "batch": "batch-2026-08-09-2-spores",
+          "views": 298,
+          "likes": 2,
+          "reposts": 10,
+          "comments": 1,
+          "shares": null
         }
       ]
     },
