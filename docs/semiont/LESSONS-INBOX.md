@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-08 twmd-maintainer-am — gate-guard-contradicts-its-own-filter：守門的 if 條件，過濾掉的正好是它下一行要找的東西
+
+- **pattern**: `gate-guard-contradicts-its-own-filter`
+- **原則**：一道閘門若由「先算一個變數、再對那個變數下 if」兩段組成，這兩段會各自演化，而**沒有任何測試會發現它們已經互斥**。閘門不會報錯、不會缺席、不會印錯符號——它就是永遠不進入那個 if。跟 `check-disabled-by-default-reports-green` 的差別在於那條至少還印了一個（假的）綠勾，這條**連一行輸出都沒有**，因此連「有沒有在跑」都無從觀察。判準一句話：**任何 `if <變數> 命中 X` 的閘門，都要回頭確認那個變數的建構過程沒有把 X 排除掉。**
+- **觸發**：2026-08-08 maintainer-am 審 PR #1298 時，順著 `staged_md` 這條線往下讀 `.husky/pre-commit` 發現的（**不是 PR 報的，PR 只修 quotepath**）。第 103 行 `staged_md` 的定義結尾是 `grep -vE '^knowledge/(en|ja|ko|es|fr)/'`（明確排除這五個語言），第 136 行卻是 `echo "$staged_md" | grep -qE '^knowledge/(ja|ko|es|fr)/'`——**greps 的正好是兩行前被排除掉的東西，恆為 false**。這道閘門是 2026-07-17 `7f7271778`「slug 一致性升 pre-commit 閘門——巴別塔漂移防再犯」新增的，為了防止 98 檔 slug 漂移重演，**上線至今從未執行過一次**。實測全量掃描：目前有 **12 筆真實漂移**（`computex-taipei` / `i-am-from` / `founder` 三組 × ja/ko/es/fr 四語）。
+- **同檔第二個 instance（同一種「閘門看不見自己」）**：第 160 行的 hardcoded language array detector 只掃 `\.(ts|tsx|mjs|cjs|js|astro|sh)$`——而 `.husky/pre-commit` **沒有副檔名**，所以這支專門抓「寫死語言清單」的檢查器，從來沒有掃過那個自己就寫死了兩處語言清單的檔案（第 58 行與第 103 行都寫死 `en|ja|ko|es|fr`，而 `src/config/languages.ts` 註冊的是 11 個語言）。**實測目前無損害**：ar/hi/id/pt/ru/vi 共 3,933 檔的 `translatedFrom` 缺失數是 0（babel dispatcher 寫得正確），所以這是一顆還沒被踩到的地雷，不是正在流血的傷口——記錄下來是因為它下次會被手寫翻譯踩到，不是因為它現在痛。
+- **為什麼沒有當場修**：修 wiring 本身是三行，但**單修 wiring 會變成陷阱**——閘門一活，那 12 筆既有漂移會開始擋住任何碰到它們的 commit。而清償這 12 筆要 `git mv` + `config/redirects-manual.txt` 補 301 + `_translations.json`，動到的是**線上 URL**，命中 §自主權邊界（對外 / scope 邊界）且遠超 maintainer cycle 尺寸。兩者耦合，所以整包留給觀察者拍板（選項與成本見本 cycle memory §Handoff）。這是 MAINTAINER §核心原則「合法的 defer」第三種（contributor/observer judgment 必須），不是 over-defer。
+- **可能層級**：候選 REFLEXES，或折進 #83（checker 兩把尺 divergence）——本條是它的極端形式：**不是兩把尺不同調，是第二把尺根本沒被拿起來過**。跟 #52（immune system 沒在 fail loud）的關係是：#52 講的是壞掉時不叫，本條講的是**從來沒活過，所以也沒有東西可以叫**。
+- **相關**：REFLEXES #83（checker 兩把尺）、#52（immune 沒 fail loud）、#82（proxy signal）、#15（memory 是自律，canonical gate 才是閘門——這裡連 gate 都寫了，只是接錯線）、#69（外部尺）、8/07 `check-disabled-by-default-reports-green`（同族，印假綠勾那端）、8/08 `error-and-emptiness-share-one-return`
+- **verification_count**: 2（slug 閘門 guard 自我矛盾；hardcoded-lang detector 因副檔名豁免自己所在的檔案 — 同檔、同 cycle、兩個獨立位置）
+
 ### 2026-08-08 twmd-feedback-triage — error-and-emptiness-share-one-return：抓不到跟沒有東西回同一個值，於是壞掉的那天跟正常的那天逐字相同
 
 - **pattern**: `error-and-emptiness-share-one-return`
@@ -362,8 +373,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **同日獨立第二個 instance（這是本條的重點）**：貢獻者 stantheman0128 在 [issue #1264](https://github.com/frank890417/taiwan-md/issues/1264) 對**另一支檢查**報了**同一個結構**——`seo-meta` 的 `APPLIES_TO = ["zh-TW"]` 讓非中文檔案跑出 `hard=0 warn=0`，他的原話是「**`hard=0 warn=0` 是『沒檢查』不是『檢查過關』**」。兩件事同一天從兩個獨立方向撞上同一支工具的同一個設計缺陷：**article-health 的 pass 混了「檢查過關」與「這支檢查在這個情境下沒跑」兩種根本不同的狀態**（REFLEXES #38 混維度，載體是檢查器輸出本身）。一個由外部貢獻者發現，一個由 PR triage 發現，互為外部尺（#69）。
 - **可能層級**：候選 REFLEXES，或 article-health 輸出契約的修補（**不在 maintainer cycle 尺寸**——動的是全站檢查器的輸出語意，且開啟 `footnote-url` 網路檢查等同新增一道會擋 commit 的閘門，命中 §自主權邊界 quality gate 調整）。方向候選：(a) 讓「未執行」印成有別於 ✅ 的第三種符號（如 `⏭️ skipped(network disabled)` / `⏭️ skipped(lang not in APPLIES_TO)`），成本低、立刻讓所有既有的假綠燈現形；(b) 進一步在 profile 層開啟 `footnote-url` 網路檢查（要先決定 timeout / 快取 / 離線環境的降級行為，否則 pre-commit 會被網路品質綁架）。**(a) 是 (b) 的前置**，且 (a) 單獨就有價值——它會一次照亮站上所有「註冊了但沒在跑」的檢查，數量未知。
 - **為什麼值得升**：這是外部投稿進庫路徑上**最後一道**跟事實有關的機器防線。上游 CI 不看、`footnote-format` 只看標點、`footnote-url` 印綠勾但沒連線——於是「這個來源是不是真的存在」這件事，目前完全靠 maintainer 當天有沒有想到去 curl。今天想到了；MAINTAINER §Step 3.4 也寫了「抽樣 ≥ 3 footnote URL WebFetch」是 hard gate，但那是寫在 SOP 裡靠人自律的一條，不是儀器（REFLEXES #15：memory 是自律，canonical gate 才是閘門——而這裡連 canonical 都寫了，只是沒有東西在強制它）。
-- **相關**：REFLEXES #82（proxy signal — 綠燈代理了「檢查過」）、#38（混維度：pass 承載兩種來歷）、#52（immune system 沒在 fail loud 比缺 immune system 更危險）、#69（每層自評都需要外部尺 — 本條兩個 instance 互為對方的外部尺）、#83（checker 兩把尺 divergence）、#15、MAINTAINER §Step 3.4 §Footnote source authority audit
-- **verification_count**: 2（footnote-url 網路預設關閉；seo-meta APPLIES_TO 語言排除 — 同日、同工具、兩個獨立發現者）
+- **instances**：
+  - 2026-08-07 twmd-maintainer-am — `footnote-url` 網路預設關閉卻每次印 `✅ hard=0`（PR #1295 三個虛構網域全綠）→ 本 entry §觸發
+  - 2026-08-07 issue #1264 — `seo-meta` 的 `APPLIES_TO=["zh-TW"]` 讓非中文檔印 `hard=0 warn=0`，貢獻者原話「`hard=0 warn=0` 是『沒檢查』不是『檢查過關』」→ 本 entry §同日獨立第二個 instance
+  - 2026-08-08 twmd-maintainer-am — **掃到零個檔案也印同一行綠勾**：`check-slug-consistency.py` 在掃不到任何檔案時輸出 `✅ slug 一致性：0 檔全部與 en 對齊（白名單 0 案除外）`，與全數通過**逐字相同**。實測方式：把腳本複製到 repo 外執行（`ROOT = parents[2]` 因此指向沒有 `knowledge/` 的目錄），得到綠勾；同一支腳本在 repo 內跑則吐出 12 筆真實漂移。這一次差點讓我自己被騙——我先在 repo 外跑了一次拿到綠勾，把它當成「全站通過」寫進判斷，是後來兩把尺對不上才回頭查。**檢查器騙過的第一個人是拿它來檢查的人**（REFLEXES #59 的檢查器版本）→ [memory](memory/2026-08-08-085749-twmd-maintainer-am.md)
+- **可能層級補充（2026-08-08）**：三個 instance 橫跨兩支不同工具、三種不同成因（網路預設關閉 / 語言不適用 / 掃描範圍為空），但**輸出端完全相同**。8/08 `error-and-emptiness-share-one-return` 提的合併假說（「不知道」必須有自己的符號，不能借用「沒事」那個）到這裡已有第三個獨立支撐，且本次是**輸出端**而非取數端，補齊了另一半。建議 self-evolve-weekly 直接判獨立反射，不必再等下一個 instance。
+- **相關**：REFLEXES #82（proxy signal — 綠燈代理了「檢查過」）、#38（混維度：pass 承載兩種來歷）、#52（immune system 沒在 fail loud 比缺 immune system 更危險）、#69（每層自評都需要外部尺 — 本條兩個 instance 互為對方的外部尺）、#83（checker 兩把尺 divergence）、#59（製造數字的人最易被數字騙）、#24 第 8 種（驗證器空輸出假 PASS — 本條 8/08 instance 是它在「空輸入範圍」而非「空輸出」的形狀）、#15、8/08 `gate-guard-contradicts-its-own-filter`、MAINTAINER §Step 3.4 §Footnote source authority audit
+- **verification_count**: 3（footnote-url 網路預設關閉／seo-meta APPLIES_TO 語言排除／check-slug-consistency 空掃描印綠勾）
 
 ### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
 
