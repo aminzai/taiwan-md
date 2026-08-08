@@ -375,3 +375,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-08 | 063743-twmd-spore-harvest-am | D+4 harvest 再度中止，Chrome MCP 擴充功能完全連不上（比昨天更下游），連續第四天；PushNotification 通知＋LESSONS vc 3→4 | 上一個 session 的內部判斷不等於哲宇的 directive，昨日「該自行暫停」的筆記今天沒被直接採信 | [→](memory/2026-08-08-063743-twmd-spore-harvest-am.md) |
 | 2026-08-08 | 071725-twmd-feedback-triage | 隊列空第八天，三邊帳對齊；手動核 61 份紀錄的留言完整性，抓到取數層「抓不到」與「沒有」共用 `[]`，補 HG12c 留言層對賬 | 故障被編碼成合法的健康讀數，比量錯層更難察覺 | [→](memory/2026-08-08-071725-twmd-feedback-triage.md) |
 | 2026-08-08 | 085749-twmd-maintainer-am | 兩個貢獻者 PR 修好 pre-commit 對 867 篇中文檔名的靜默失效（含 article-health hard gate）；順線挖出 slug 閘門 guard 自我矛盾、上線至今零執行；CLI 兩個 Windows/獨立安裝問題 | 檢查器空掃描印的綠勾跟全數通過逐字相同，我自己先被騙了一次 | [→](memory/2026-08-08-085749-twmd-maintainer-am.md) |
+| 2026-08-08 | 093200-twmd-flywheel-watch | 飛輪零問題（24hr 13 commit／11 筆 routine 標記／六條有動靜），唯一靜默是這支儀器自己——8/7 收官卡在被產線佔住的工作樹，用 worktree 回收 | 收官路徑寫進 handoff 只活一天，8/3 發現 8/7 就掉了，升進 ROUTINE.md 註 ²⁰ | [→](memory/2026-08-08-093200-twmd-flywheel-watch.md) |
