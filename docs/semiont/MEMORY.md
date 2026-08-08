@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-09
-last_session: '2026-08-09-031153-twmd-distill-weekly（§未消化 32→22，新 REFLEXES #85 + 四家族補強，索引 rollup 110→40）'
+last_session: '2026-08-09-041906-twmd-self-evolve-weekly（feedback-triage cron mirror HG9/HG10 真正補齊，REFLEXES #67 加已同步宣稱變體）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -310,3 +310,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-09 | 011119-twmd-news-lens-weekly | W32 三源交叉：本週僅颱風白海豚一個強新聞候選（未硬湊六條），英文 metadata 缺口連續五週確認但家族自然窄化 6→4 篇，出口關閉 propose 0 | 連續出現在榜單不等於問題持續惡化，曝光量本身有自然波動，過度解讀窄化是另一種說謊 | [→](memory/2026-08-09-011119-twmd-news-lens-weekly.md) |
 | 2026-08-09 | 021939-twmd-weekly-report-sun | W32 週體檢：診斷五面零靜默死亡，修掉每天喊三次假警報的 routine 對賬檢查器，roadmap roll 出 AI crawler 新 P0；週報 Resend 200 寄達 bcc=15 | 每天被人工推翻的警報是注意力層的靜默債；免疫拖底那格叫外部尺，3.3 分 | [→](memory/2026-08-09-021939-twmd-weekly-report-sun.md) |
 | 2026-08-09 | 031153-twmd-distill-weekly | §未消化 32→22：新 REFLEXES #85（三 entry 合併）+ 四家族補強 + 3 條 housekeeping-done | 驗證已修好的宣稱不能只信 changelog，要上機器核對 | [→](memory/2026-08-09-031153-twmd-distill-weekly.md) |
+| 2026-08-09 | 041906-twmd-self-evolve-weekly | feedback-triage cron mirror HG9/HG10 真正補齊（v1.3 changelog 聲稱已修其實沒有）；REFLEXES #67 加已同步宣稱變體 vc=1→4 | 「已同步」宣稱被 3 個 session 當事實傳遞卻沒人現場重驗，關掉前先跑對賬工具 | [→](memory/2026-08-09-041906-twmd-self-evolve-weekly.md) |
