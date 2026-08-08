@@ -2,7 +2,7 @@
 title: 'Evolution Roadmap 2026-08-02'
 description: '週體檢 W31（weekly-report 2026-08-02）導出的進化規劃：07-26 版 P0 三項現況 / 新增 P0 三項（自主權內）/ P1 結構修補承接與新增 / P2 哲宇決策佇列刷新 / 30 天方向盤。取代 2026-07-26 版成為最新 session 間傳遞的進化計畫。'
 type: 'roadmap'
-status: 'active'
+status: 'superseded'
 current_version: 'v1.0'
 last_updated: 2026-08-02
 last_session: '2026-08-02-020000-twmd-weekly-report-sun'
@@ -12,6 +12,8 @@ related:
 ---
 
 # 進化規劃 — 2026-08-02
+
+> ⚠️ **已由 [evolution-roadmap-2026-08-09.md](evolution-roadmap-2026-08-09.md) 接手**（W32 週體檢 Stage 2.7 roll）。本檔保留為證據鏈，不再更新。
 
 > 依據：本週體檢（W31，weekly-report 2026-08-02）Stage 2.5 全身診斷 + Stage 2.7 三桶分流。
 > 原則：每一條都寫「證據 → 動作 → 完成判準」，不寫願望。P0 全部在 §自主權邊界內；
