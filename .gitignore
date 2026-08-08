@@ -9,7 +9,13 @@ public/spore-images/
 public/og-images/
 
 # dependencies
-node_modules/
+# 沒有結尾斜線是刻意的：semiont-worktree.sh 建 worktree 時把 node_modules 做成
+# 指向主工作樹的符號連結，而 git 眼中符號連結是檔案不是目錄，`node_modules/`
+# 這種只匹配目錄的寫法漏掉它。後果不是多一行雜訊——worktree-gc.sh 判「乾淨」
+# 的依據是未 commit 變更為零，於是每個用官方工具開的 worktree 都永遠有一筆，
+# 回收器上線至今對它自家開的 worktree 一次都沒能開火（2026-08-09 發現時積了
+# 10 個，最老的兩個多月）。
+node_modules
 
 # Python virtual envs（防禦性，實際 venv 在 ~/.config/taiwan-md/venv/ repo 外）
 venv/
