@@ -425,6 +425,84 @@ def _backstage_line_is_legit_backstage(text: str, offset: int) -> bool:
     return line_prefix.startswith("[^") or line_prefix.startswith(">")
 
 
+# ── §量詞隱喻「帳／本」(2026-08-08 哲宇 callout「說過幾次了不要用幾本『帳』或幾『本』
+# 這種寫法，中文沒有這種用法") ────────────────────────────────────────────────
+#
+# 中文的「帳」不用「本」當量詞來數，也不當可數的抽象物件用。「三本帳都還開著」
+# 「連帳都沒有開的那些人」「醫護那一本算得比較晚」「又一本沒有開的帳」——這是英文
+# books / open accounts 的直譯，中文讀起來不知所云。
+#
+# 合法殘餘（不在打擊面）：帳單（具體物）、算帳／秋後算帳（既有成語，但 §歐化 第 10 病
+# 另有「把帳算完」= settle the account 的獨立打擊面）、記帳、帳號、帳戶。
+#
+# 為什麼要儀器化：這是**復發**（哲宇「說過幾次了」）。而且它有結構性成因——當論點本身
+# 站不住時，寫手會抓一個抽象隱喻反覆敲，用重複製造連貫感的假象。所以這個 pattern 的
+# 密度同時是「隱喻壞了」與「論點可能壞了」的雙重訊號：≥3 處就該回頭問論點對不對。
+_RE_LEDGER_METAPHOR = re.compile(
+    # ⚠️ 帳(?!本)：排除「帳本」這個實體物名詞——臺灣漫遊錄的「第一本帳本」是真的帳本，
+    # 9,203 篇校準時它是唯一的假陽性家族（5/19 處），加負向前瞻後歸零。
+    r"[一二三四五六七八九十兩幾這那每][ ]?本[^，。！？\n]{0,6}帳(?!本)"
+    r"|帳[^，。！？\n]{0,4}(?:還|都)[^，。！？\n]{0,4}開著"
+    r"|(?:沒有|連)[^，。！？\n]{0,6}開[^，。！？\n]{0,3}的?帳"
+    r"|連帳[^，。！？\n]{0,6}(?:沒|未)"
+    r"|(?:那|這|哪)[ ]?一?本(?=[^，。！？\n]{0,8}(?:帳|算|審|收件))"
+    r"|(?:又|另)一本[^，。！？\n]{0,8}帳(?!本)"
+)
+
+# ── §英式接續「而」開頭句 (2026-08-08 哲宇 callout「下面的句子都很怪」) ──────────
+#
+# 「而『校正回歸』這個動作本身就是⋯」「而爭論的兩個關鍵詞被混為一談。」「而這一筆帳⋯」
+# 「而三本帳都還開著。」——句首「而」是英文 And / And so 的直譯接續。中文的「而」是
+# 句中轉折連接詞（「快而準」「起而行」），放句首當段落黏著劑是翻譯腔，而且它最常出現在
+# **作者發現前後兩句接不起來、需要一個詞把它們黏住**的時候——所以它同時是「這裡邏輯有洞」
+# 的指標。密度 ≥ 4 處觸發。
+#
+# 合法殘餘：句中的「而」（不在打擊面，本 regex 只抓句首與句號後）。
+_RE_ERSATZ_ER_LEAD = re.compile(r"(?:^|[。！？]\s*)而(?=[^，。！？\n]{4,})", re.M)
+
+
+# (j) 腳註第一人稱編輯自述（2026-08-08 哲宇 callout「有一堆後台洩漏文字，請好好檢查」）。
+# **本組的掃描面跟 (f)(g)(i) 相反：只掃腳註定義行。**
+#
+# 病灶：腳註是後台的合法的家，但合法的是「證據的狀態」，不是「我的動作」。
+#   ✅ 證據狀態：「該 PDF 為壓縮二進位流，無法擷取原始文字」「原始連結目前已失效」
+#   ❌ 編輯動作：「本文查證階段曾引用一組數字，複驗時發現不符，本文因此不再列出，本文亦不採用」
+# 差別在主詞：前者的主詞是那份資料，後者的主詞是我。讀者打開腳註想知道證據長什麼樣子，
+# 拿到的卻是一份工作日誌。而且「本文因此寫 X」是在告訴讀者他剛剛讀完的東西——多餘。
+#
+# 誕生事件：2026-08-08 台灣新冠疫情與疫苗。大驗證輪四十二條批修做了大量「降級／加但書」
+# 的動作，每一條都在腳註留下一句第一人稱交代，累積到「本文」在腳註區當主詞 41 次，
+# 而 prose-health 一條都沒報——因為 (f)(g)(i) 三組的行級排除把腳註整片豁免掉了。
+# 豁免區是按「行的種類」畫的，病灶卻是按「主詞是誰」分的，兩者不同軸，所以漏光。
+# 對應 REFLEXES #15（反覆浮現要儀器化）＋ #24（工具在說謊：豁免區造成的假陰性）。
+#
+# 打擊面：本文／本研究／筆者 當主詞 ＋ 8 字內接編輯動作動詞。
+# 不在打擊面（正確寫法，必須放行）：主詞是資料本身的狀態陳述、「原文…此處…」的對照說明。
+_RE_BACKSTAGE_FOOTNOTE_SELF = re.compile(
+    r"(?:本文|本研究|筆者)[^，。；、\n]{0,8}"
+    r"(?:不寫|不引|不採|不用|不使用|不加|不作|不列|不並列|不再|亦不"
+    r"|未引|未取得|未能|無法|改引|取整|只寫|僅寫|僅取|僅轉述|以轉述|採轉述"
+    r"|引用|使用|採用|寫成|複驗|查證|查核|核對|如實|分別引)"
+)
+
+
+def _backstage_line_is_footnote(text: str, offset: int) -> bool:
+    """本組的掃描面：只有腳註定義行才是打擊面（跟 _backstage_line_is_legit_backstage 相反）。"""
+    ls = text.rfind("\n", 0, offset) + 1
+    return text[ls : ls + 4].lstrip().startswith("[^")
+
+
+_BACKSTAGE_DETECTORS_FOOTNOTE_ONLY = [
+    (
+        _RE_BACKSTAGE_FOOTNOTE_SELF,
+        "腳註第一人稱編輯自述",
+        "腳註是後台的合法的家，但合法的是證據的狀態，不是編輯的動作。"
+        "把主詞從「本文」換回那份資料：「本文無法逐字核對該 PDF」→「該 PDF 無法擷取文字」；"
+        "「本文因此不再列出精確百分比」→ 直接刪（讀者讀完就看得到文章沒列）。",
+    ),
+]
+
+
 _BACKSTAGE_DETECTORS = [
     (
         _RE_BACKSTAGE_GRAMMAR_META,
@@ -1515,9 +1593,15 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
 
     # 第六、七組（round 2）：跳過 blockquote／腳註——那是這些內容的合法的家
     for regex, label, fix_hint in _BACKSTAGE_DETECTORS_PROSE_ONLY:
-        for m in list(regex.finditer(text_for_patterns))[:6]:
-            if _backstage_line_is_legit_backstage(text_for_patterns, m.start()):
-                continue
+        # ⚠️ 先排除再截斷（2026-08-08 修）：舊寫法 [:6] 先截斷、再做行級排除，
+        # 前 6 個 match 若剛好都落在腳註／策展人筆記，正文的真違規就被靜默丟掉——
+        # 豁免區把上限額度吃光，是 REFLEXES #24「工具在說謊」的假陰性型。
+        _hits = [
+            m
+            for m in regex.finditer(text_for_patterns)
+            if not _backstage_line_is_legit_backstage(text_for_patterns, m.start())
+        ][:6]
+        for m in _hits:
             line_no = _line_at_offset(text_for_patterns, m.start())
             ctx = _context_around(text_for_patterns, m.start(), m.end(), before=18, after=18)
             yield Violation(
@@ -1528,6 +1612,73 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 snippet=m.group(0)[:40],
                 editorial_ref="EDITORIAL.md §六 §後台洩漏",
                 fix_suggestion=fix_hint,
+            )
+
+    # 第十一形狀（2026-08-08）：掃描面相反——只掃腳註行。
+    # 腳註是後台的合法的家，但合法的是證據狀態不是編輯動作（見 (j) 註解）。
+    for regex, label, fix_hint in _BACKSTAGE_DETECTORS_FOOTNOTE_ONLY:
+        _hits = [
+            m
+            for m in regex.finditer(text_for_patterns)
+            if _backstage_line_is_footnote(text_for_patterns, m.start())
+        ][:6]
+        for m in _hits:
+            line_no = _line_at_offset(text_for_patterns, m.start())
+            ctx = _context_around(text_for_patterns, m.start(), m.end(), before=18, after=18)
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"後台洩漏／{label}（§後台洩漏）：{ctx}",
+                line=line_no,
+                snippet=m.group(0)[:40],
+                editorial_ref="EDITORIAL.md §六 §後台洩漏",
+                fix_suggestion=fix_hint,
+            )
+
+    # ── §量詞隱喻「帳／本」(2026-08-08) — WARN；≥3 處另附論點警訊 ──
+    _ledger = list(_RE_LEDGER_METAPHOR.finditer(text_for_patterns))
+    for m in _ledger[:6]:
+        line_no = _line_at_offset(text_for_patterns, m.start())
+        ctx = _context_around(text_for_patterns, m.start(), m.end(), before=16, after=16)
+        extra = ""
+        if len(_ledger) >= 3:
+            extra = (
+                f"（全文 {len(_ledger)} 處——同一個抽象隱喻反覆敲，"
+                "通常代表論點本身接不起來，正在用重複製造連貫感的假象。回頭檢查論點。）"
+            )
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"量詞隱喻「帳／本」（§量詞隱喻）：{ctx}",
+            line=line_no,
+            snippet=m.group(0)[:40],
+            editorial_ref="EDITORIAL.md §六 §量詞隱喻",
+            fix_suggestion=(
+                "中文的「帳」不用「本」數，也不當可數的抽象物件。"
+                "「三本帳都還開著」→ 直接寫那三件事各自的狀態；"
+                "「連帳都沒有開的那些人」→ 寫「這些人的處境從來沒有被統計過」。" + extra
+            ),
+        )
+
+    # ── §英式接續「而」開頭句 (2026-08-08) — 密度 ≥4 才報 ──
+    _er = list(_RE_ERSATZ_ER_LEAD.finditer(text_for_patterns))
+    if len(_er) >= 4:
+        for m in _er[:5]:
+            line_no = _line_at_offset(text_for_patterns, m.start())
+            ctx = _context_around(text_for_patterns, m.start(), m.end(), before=6, after=26)
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"句首「而」接續（§英式接續，全文 {len(_er)} 處）：{ctx}",
+                line=line_no,
+                snippet=m.group(0)[:20],
+                editorial_ref="EDITORIAL.md §六 §英式接續",
+                fix_suggestion=(
+                    "句首「而」是英文 And 的直譯接續。中文的「而」是句中轉折詞，"
+                    "放句首當段落黏著劑是翻譯腔——而且它最常出現在前後兩句本來就接不起來、"
+                    "需要一個詞把它們黏住的地方。刪掉「而」直接寫下一句；如果刪掉之後讀不通，"
+                    "那不是連接詞的問題，是那兩句之間真的缺一個論證。"
+                ),
             )
 
     # ════════════════════════════════════════════════════════════════
