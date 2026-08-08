@@ -14,14 +14,14 @@ tags:
 subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-featured: true
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:01e74babf94ac8da'
-sourceBodyHash: 'sha256:859c873057ee681d'
-translatedAt: '2026-07-25T05:00:16+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:9ea16a828e45af61'
+sourceBodyHash: 'sha256:b8ac47c9a8b9482f'
+translatedAt: '2026-08-06T08:14:22.429701+00:00'
 ---
 
 # Тайваньские кураторы и культурное строительство искусства

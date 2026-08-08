@@ -78,6 +78,21 @@ def _repo_rel(p: Path) -> str:
     except ValueError:
         return str(p)
 
+
+_ANSI_RE = re.compile(r"\x1b\[[0-9;]*m")
+
+
+def _strip_ansi(s: str) -> str:
+    """Drop SGR colour codes before matching on another tool's stdout.
+
+    Sub-tools colour their verdicts for humans; matching raw stdout means the
+    escape sequence sits between the whitespace and the word you are looking
+    for, so a padded-substring test like `" OK " in out` silently never fires.
+    Strip first, then match — otherwise the check degrades into a check-shaped
+    thing that always takes the else-branch."""
+    return _ANSI_RE.sub("", s)
+
+
 # Frontmatter fields that MUST match between zh and en (passthrough)
 # NOTE: `subcategory` deliberately excluded (2026-07-24) — it's a rendered
 # taxonomy label (terminology page, graph.astro nodes), not an internal key,
@@ -336,21 +351,42 @@ def main():
             ["bash", str(ratio_tool), _repo_rel(en_full)],
             capture_output=True, text=True,
         )
-        out = r.stdout + r.stderr
-        if "TRUNCATED" in out:
-            add("translation ratio", "FAIL", "TRUNCATED — re-translate")
-        elif "THIN" in out:
-            # ratio-check.sh itself treats THIN as WARN ("acceptable for merge +
-            # follow-up"), not a hard block — don't escalate what its own author
-            # didn't escalate.
-            add("translation ratio", "WARN", "THIN — below expected ratio band, spot-check recommended")
-        elif " OK " in out or " PASS " in out:
-            # Extract ratio
-            m = re.search(r"(\d+\.\d+)\s+\x1b", out) or re.search(r"(\d+\.\d+)", out)
-            ratio = m.group(1) if m else "?"
+        # Parse the verdict out of THIS file's own table row, not out of the
+        # whole stdout blob. Two reasons, both found live on 2026-08-09 when
+        # 34/34 healthy files reported "verdict unclear":
+        #   1. ratio-check prints the verdict wrapped in ANSI colour, so it
+        #      emits "\x1b[0;32mOK" — there is no space before "OK" and the
+        #      old `" OK " in out` test could never match. The PASS branch was
+        #      unreachable, so every healthy translation silently degraded to a
+        #      WARN. A gate that can only ever warn is decorative.
+        #   2. ratio-check's failure footer contains the literal sentence
+        #      "(TRUNCATED translations require rework)". Substring-matching the
+        #      whole output therefore reports TRUNCATED for a file whose real
+        #      verdict was URL_LOSS or MISSING_SECTIONS — right severity, wrong
+        #      cause, and the wrong remedy in the message.
+        # Row format is `{basename:<60} {ratio:>5.2f}  {colour}{verdict:<20}...`
+        # (see scripts/tools/translation-ratio-check.sh table printer).
+        out = _strip_ansi(r.stdout + r.stderr)
+        verdict, ratio = None, "?"
+        row_re = re.compile(
+            r"^" + re.escape(Path(en_full).name[:58]) + r"\s+(\S+)\s+(\S+)"
+        )
+        for line in out.splitlines():
+            m = row_re.match(line)
+            if m:
+                ratio, verdict = m.group(1), m.group(2)
+                break
+        if verdict is None:
+            add("translation ratio", "WARN", f"no row for this file: {out[:80]}")
+        elif verdict == "TRUNCATED":
+            add("translation ratio", "FAIL", f"TRUNCATED (ratio {ratio}) — re-translate")
+        elif verdict == "OK":
             add("translation ratio", "PASS", f"OK ({ratio})")
         else:
-            add("translation ratio", "WARN", f"verdict unclear: {out[:80]}")
+            # THIN / LONG / URL_LOSS / NO_URLS / MISSING_SECTIONS(n) / MISSING.
+            # ratio-check itself colours these yellow rather than red, so don't
+            # escalate past what its own author escalated.
+            add("translation ratio", "WARN", f"{verdict} (ratio {ratio}) — spot-check recommended")
     else:
         add("translation ratio", "WARN", "ratio tool not found")
 

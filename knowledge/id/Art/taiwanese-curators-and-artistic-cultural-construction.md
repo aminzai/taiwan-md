@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:01e74babf94ac8da'
-sourceBodyHash: 'sha256:859c873057ee681d'
-translatedAt: '2026-07-25T01:31:52+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:9ea16a828e45af61'
+sourceBodyHash: 'sha256:b8ac47c9a8b9482f'
+translatedAt: '2026-08-06T07:04:38.693390+00:00'
 ---
 
 # Kurator Taiwan dan Konstruksi Budaya Seni
@@ -94,15 +94,19 @@ _Hsu Wen-jui pernah menegaskan, pendidikan kurasi perlu membedakan perbedaan kur
 
 ## Prospek Masa Depan: Membangun Metodologi Kurasi Taiwan
 
-Meninjau lintasan 30 tahun kurator Taiwan, kita melihat alur evolusi yang jelas: dari eksperimen institusional awal, ke partisipasi dalam sistem biennale internasional, hingga praktik pelokalan pluralistik belakangan ini. Kurator Taiwan tidak lagi penerima pasif wacana kurasi internasional, tapi mulai mengajukan metodologi kurasi yang orisinal.
+Meninjau jejak perkembangan kurator Taiwan selama 30 tahun, kita dapat melihat alur evolusi yang jelas: dari eksperimen institusional awal, hingga partisipasi dalam sistem biennale internasional, dan ke praktik lokal yang beragam belakangan ini. Kurator Taiwan tidak lagi penerima pasif dari wacana kurasi internasional, melainkan mulai mengusulkan metodologi kurasi yang bersifat orisinal.
 
-Misalnya model "survei lapangan + pembangunan wacana + koneksi lokal" Gong Zhuo-jun, perspektif kurasi "latar belakang campuran + pandangan internasional" Nobuo Takamori, serta identitas komposit "seniman + kurator" Wang Chun-chieh, semuanya mewakili kontribusi unik kurator Taiwan di ekologi seni global.
+Misalnya, model "survei lapangan + konstruksi wacana + koneksi lokal" milik Kung Cho-chun, perspektif kurasi "latar belakang campuran + perspektif internasional" milik Kao Sen-hsin-nan, serta "identitas ganda sebagai seniman + kurator" milik Wang Chun-chieh, semuanya mewakili kontribusi unik kurator Taiwan dalam ekosistem seni global.
 
-Tapi yang paling penting, kurator Taiwan sedang belajar satu hal: **bagaimana sambil berpartisipasi dalam dialog internasional, mempertahankan kepedulian mendalam pada budaya lokal**. Kemampuan keseimbangan ini, mungkin justru adalah daya saing inti kurator Taiwan di peta seni global abad 21.
+Yang paling penting, kurator Taiwan sedang belajar satu hal: **bagaimana sambil berpartisipasi dalam dialog internasional, mempertahankan kepedulian mendalam terhadap budaya lokal**. Kemampuan keseimbangan ini, mungkin justru menjadi keunggulan kompetitif inti kurator Taiwan dalam peta seni global abad ke-21.
 
 ---
 
-_Penulisan artikel ini merujuk bahan primer dan wawancara dalam jumlah besar, semua nama orang dan peristiwa telah diverifikasi. Jika ditemukan kesalahan faktual, silakan laporkan melalui sistem Issue Taiwan.md._
+_Penulisan artikel ini merujuk pada sejumlah besar data primer dan konten wawancara, semua nama orang dan peristiwa telah diverifikasi. Jika ditemukan kesalahan fakta, silakan laporkan melalui sistem Issue Taiwan.md._
+
+**Bacaan Lanjutan**:
+
+- [Pulau Seni Internasional Matsu](/art/馬祖國際藝術島) — proyek kurasi sepuluh tahun yang diselenggarakan oleh Pemerintah Kabupaten Lienchiang, edisi ke-tiga dipimpin secara berdampingan oleh lima kurator, merupakan kasus konkret ekosistem kurasi Taiwan menuju berbasis tim dan desentralisasi
 
 ## Referensi
 

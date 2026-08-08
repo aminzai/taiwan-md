@@ -10,9 +10,9 @@ readingTime: 12
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:5bfd9c2eabdc2883'
-sourceBodyHash: 'sha256:acd1d73d033867e1'
+sourceCommitSha: '1febe45b'
+sourceContentHash: 'sha256:f2be686b40b1bfa3'
+sourceBodyHash: 'sha256:85fe560e3164601c'
 translatedAt: '2026-05-16T22:19:52+00:00'
 featured: false
 ---

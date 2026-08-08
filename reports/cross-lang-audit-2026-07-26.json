@@ -1,0 +1,1672 @@
+{
+  "summary": {
+    "zh_canonical_count": 868,
+    "translations_per_lang": {
+      "en": 832,
+      "ja": 860,
+      "ko": 864,
+      "es": 864,
+      "fr": 866,
+      "vi": 188,
+      "id": 300,
+      "pt": 484,
+      "hi": 369,
+      "ar": 343,
+      "ru": 370
+    },
+    "files_with_issues": 90,
+    "issues_by_severity": {
+      "critical": 78,
+      "high": 14,
+      "low": 22,
+      "medium": 15
+    },
+    "issues_by_type": {
+      "script_presence_english_leak": 59,
+      "body_lang_mismatch": 41,
+      "slug_mismatch": 14,
+      "frontmatter_missing": 15
+    }
+  },
+  "issues": [
+    {
+      "lang": "es",
+      "path": "es/Technology/facebook-in-taiwan.md",
+      "zh_source": "Technology/Facebook.md",
+      "slug": "facebook-in-taiwan",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 15587 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Technology/taiwan-bim-construction-tech.md",
+      "zh_source": "Technology/台灣BIM與營建科技.md",
+      "slug": "taiwan-bim-construction-tech",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 55843 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Technology/computex-taipei.md",
+      "zh_source": "Technology/Computex.md",
+      "slug": "computex-taipei",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `computex-taipei` ≠ en canonical `computex`",
+          "canonical": "computex",
+          "actual": "computex-taipei"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Technology/computex-taipei.md",
+      "zh_source": "Technology/Computex.md",
+      "slug": "computex-taipei",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `computex-taipei` ≠ en canonical `computex`",
+          "canonical": "computex",
+          "actual": "computex-taipei"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Technology/computex-taipei.md",
+      "zh_source": "Technology/Computex.md",
+      "slug": "computex-taipei",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `computex-taipei` ≠ en canonical `computex`",
+          "canonical": "computex",
+          "actual": "computex-taipei"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Technology/computex-taipei.md",
+      "zh_source": "Technology/Computex.md",
+      "slug": "computex-taipei",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `computex-taipei` ≠ en canonical `computex`",
+          "canonical": "computex",
+          "actual": "computex-taipei"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Technology/national-cultural-memory-bank.md",
+      "zh_source": "Technology/國家文化記憶庫.md",
+      "slug": "national-cultural-memory-bank",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 8209 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Technology/submarine-cables-taiwan-lifeline.md",
+      "zh_source": "Technology/海底電纜.md",
+      "slug": "submarine-cables-taiwan-lifeline",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 37287 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Technology/into-the-cellar-taiwan-game-podcast.md",
+      "zh_source": "Technology/不入地窖焉能睡覺.md",
+      "slug": "into-the-cellar-taiwan-game-podcast",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 16830 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Technology/into-the-cellar-taiwan-game-podcast.md",
+      "zh_source": "Technology/不入地窖焉能睡覺.md",
+      "slug": "into-the-cellar-taiwan-game-podcast",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 16490 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Art/post-martial-law-taiwanese-literature.md",
+      "zh_source": "Art/解嚴後台灣文學.md",
+      "slug": "post-martial-law-taiwanese-literature",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 19567 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Art/taiwan-new-media-art.md",
+      "zh_source": "Art/台灣新媒體藝術.md",
+      "slug": "taiwan-new-media-art",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 27972 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Art/tehching-hsieh-performance-artist.md",
+      "zh_source": "Art/謝德慶.md",
+      "slug": "tehching-hsieh-performance-artist",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 27413 字）"
+        }
+      ]
+    },
+    {
+      "lang": "hi",
+      "path": "hi/Lifestyle/hot-spring-culture.md",
+      "zh_source": "Lifestyle/溫泉文化.md",
+      "slug": "hot-spring-culture",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body latin = 0.6% (expected ≥ 50%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 0.6,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 99.4
+          }
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md",
+      "zh_source": "Lifestyle/台灣麻將與明星三缺一.md",
+      "slug": "taiwan-mahjong-and-celebrity-shortage",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 16573 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Lifestyle/taoyuan-airport.md",
+      "zh_source": "Lifestyle/桃園機場.md",
+      "slug": "taoyuan-airport",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 8021 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Lifestyle/mascot-culture-in-taiwan.md",
+      "zh_source": "Lifestyle/吉祥物.md",
+      "slug": "mascot-culture-in-taiwan",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 19602 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Lifestyle/national-highway-system.md",
+      "zh_source": "Lifestyle/高速公路.md",
+      "slug": "national-highway-system",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 17006 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/taiwan-generations.md",
+      "zh_source": "Society/台灣的年級生世代.md",
+      "slug": "taiwan-generations",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 35873 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
+      "zh_source": "Society/2026鄭習會與國共十年再會.md",
+      "slug": "2026-cheng-xi-meeting-kmt-ccp-decade-reunion",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 26744 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/united-front-tour-groups.md",
+      "zh_source": "Society/統戰團.md",
+      "slug": "united-front-tour-groups",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 22068 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Society/united-front-tour-groups.md",
+      "zh_source": "Society/統戰團.md",
+      "slug": "united-front-tour-groups",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 21851 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/united-front-tour-groups.md",
+      "zh_source": "Society/統戰團.md",
+      "slug": "united-front-tour-groups",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 21795 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/i-am-from.md",
+      "zh_source": "Society/我是OO人.md",
+      "slug": "i-am-from",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `i-am-from` ≠ en canonical `oo`",
+          "canonical": "oo",
+          "actual": "i-am-from"
+        },
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 35802 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/i-am-from.md",
+      "zh_source": "Society/我是OO人.md",
+      "slug": "i-am-from",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `i-am-from` ≠ en canonical `oo`",
+          "canonical": "oo",
+          "actual": "i-am-from"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Society/i-am-from.md",
+      "zh_source": "Society/我是OO人.md",
+      "slug": "i-am-from",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `i-am-from` ≠ en canonical `oo`",
+          "canonical": "oo",
+          "actual": "i-am-from"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/i-am-from.md",
+      "zh_source": "Society/我是OO人.md",
+      "slug": "i-am-from",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `i-am-from` ≠ en canonical `oo`",
+          "canonical": "oo",
+          "actual": "i-am-from"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/za-share.md",
+      "zh_source": "Society/雜學校.md",
+      "slug": "za-share",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 28061 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/za-share.md",
+      "zh_source": "Society/雜學校.md",
+      "slug": "za-share",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 28379 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Society/za-share.md",
+      "zh_source": "Society/雜學校.md",
+      "slug": "za-share",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 28381 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/chinese-taipei.md",
+      "zh_source": "Society/中華台北.md",
+      "slug": "chinese-taipei",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Society/chinese-taipei.md",
+      "zh_source": "Society/中華台北.md",
+      "slug": "chinese-taipei",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 44533 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/falun-gong-in-taiwan.md",
+      "zh_source": "Society/法輪功在台灣.md",
+      "slug": "falun-gong-in-taiwan",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 13799 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/complex-life-festival.md",
+      "zh_source": "Society/複雜生活節.md",
+      "slug": "complex-life-festival",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 63390 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/complex-life-festival.md",
+      "zh_source": "Society/複雜生活節.md",
+      "slug": "complex-life-festival",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 64138 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Society/complex-life-festival.md",
+      "zh_source": "Society/複雜生活節.md",
+      "slug": "complex-life-festival",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 64776 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/complex-life-festival.md",
+      "zh_source": "Society/複雜生活節.md",
+      "slug": "complex-life-festival",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 64663 字）"
+        }
+      ]
+    },
+    {
+      "lang": "vi",
+      "path": "vi/About/taiwan-official-resources.md",
+      "zh_source": "About/台灣官方網站資源.md",
+      "slug": "taiwan-official-resources",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date', 'category']"
+        }
+      ]
+    },
+    {
+      "lang": "id",
+      "path": "id/About/taiwan-official-resources.md",
+      "zh_source": "About/台灣官方網站資源.md",
+      "slug": "taiwan-official-resources",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date', 'category']"
+        }
+      ]
+    },
+    {
+      "lang": "vi",
+      "path": "vi/About/origin-story.md",
+      "zh_source": "About/緣起故事.md",
+      "slug": "origin-story",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "id",
+      "path": "id/About/origin-story.md",
+      "zh_source": "About/緣起故事.md",
+      "slug": "origin-story",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "pt",
+      "path": "pt/About/origin-story.md",
+      "zh_source": "About/緣起故事.md",
+      "slug": "origin-story",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "hi",
+      "path": "hi/About/origin-story.md",
+      "zh_source": "About/緣起故事.md",
+      "slug": "origin-story",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ar",
+      "path": "ar/About/origin-story.md",
+      "zh_source": "About/緣起故事.md",
+      "slug": "origin-story",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ru",
+      "path": "ru/About/origin-story.md",
+      "zh_source": "About/緣起故事.md",
+      "slug": "origin-story",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/About/founder.md",
+      "zh_source": "About/taiwan-md.md",
+      "slug": "founder",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/About/taiwan-md.md",
+      "zh_source": "About/taiwan-md.md",
+      "slug": "taiwan-md",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/About/founder.md",
+      "zh_source": "About/taiwan-md.md",
+      "slug": "founder",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/About/founder.md",
+      "zh_source": "About/taiwan-md.md",
+      "slug": "founder",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/About/founder.md",
+      "zh_source": "About/taiwan-md.md",
+      "slug": "founder",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/About/founder.md",
+      "zh_source": "About/taiwan-md.md",
+      "slug": "founder",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/About/seeing-taiwan-quotes.md",
+      "zh_source": "About/看見台灣引言集.md",
+      "slug": "seeing-taiwan-quotes",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Nature/taiwan-climate-change-net-zero-transition.md",
+      "zh_source": "Nature/台灣氣候危機與淨零轉型.md",
+      "slug": "taiwan-climate-change-net-zero-transition",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 64504 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/People/huai-te-indie-singer.md",
+      "zh_source": "People/壞特.md",
+      "slug": "huai-te-indie-singer",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 49256 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/hebe-tien-singer.md",
+      "zh_source": "People/田馥甄.md",
+      "slug": "hebe-tien-singer",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 35408 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/huang-shan-liao.md",
+      "zh_source": "People/黃山料.md",
+      "slug": "huang-shan-liao",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 46558 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/People/huang-shan-liao.md",
+      "zh_source": "People/黃山料.md",
+      "slug": "huang-shan-liao",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 46527 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/People/huang-shan-liao.md",
+      "zh_source": "People/黃山料.md",
+      "slug": "huang-shan-liao",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 46804 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/People/huang-shan-liao.md",
+      "zh_source": "People/黃山料.md",
+      "slug": "huang-shan-liao",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 46236 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/People/ji-lin-lian.md",
+      "zh_source": "People/季麟連.md",
+      "slug": "ji-lin-lian",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 33541 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/People/han-kuo-yu.md",
+      "zh_source": "People/韓國瑜.md",
+      "slug": "han-kuo-yu",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 21772 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/People/chen-shui-bian-controversial-president.md",
+      "zh_source": "People/陳水扁.md",
+      "slug": "chen-shui-bian-controversial-president",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 21941 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/chia-yung-chieh.md",
+      "zh_source": "People/賈永婕.md",
+      "slug": "chia-yung-chieh",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 28901 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/People/rainie-yang.md",
+      "zh_source": "People/楊丞琳.md",
+      "slug": "rainie-yang",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 34019 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/cheng-li-wun.md",
+      "zh_source": "People/鄭麗文.md",
+      "slug": "cheng-li-wun",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 27466 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/People/cheng-li-wun.md",
+      "zh_source": "People/鄭麗文.md",
+      "slug": "cheng-li-wun",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 27406 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Food/taiwan-banquet-culture.md",
+      "zh_source": "Food/台灣辦桌文化.md",
+      "slug": "taiwan-banquet-culture",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 46721 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Food/taiwan-specialty-home-cooking.md",
+      "zh_source": "Food/台灣手路菜.md",
+      "slug": "taiwan-specialty-home-cooking",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 14904 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Food/taiwan-specialty-home-cooking.md",
+      "zh_source": "Food/台灣手路菜.md",
+      "slug": "taiwan-specialty-home-cooking",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 14702 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/History/taiwan-emigration-history.md",
+      "zh_source": "History/台灣出國史.md",
+      "slug": "taiwan-emigration-history",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 30506 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/psychological-warfare.md",
+      "zh_source": "History/心戰.md",
+      "slug": "psychological-warfare",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 10017 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/History/psychological-warfare.md",
+      "zh_source": "History/心戰.md",
+      "slug": "psychological-warfare",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 10090 字）"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/History/psychological-warfare.md",
+      "zh_source": "History/心戰.md",
+      "slug": "psychological-warfare",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 9964 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/History/psychological-warfare.md",
+      "zh_source": "History/心戰.md",
+      "slug": "psychological-warfare",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 9938 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/taiwan-democratization-history.md",
+      "zh_source": "History/民主化.md",
+      "slug": "taiwan-democratization-history",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 15776 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/taiwan-democratization.md",
+      "zh_source": "History/台灣民主轉型.md",
+      "slug": "taiwan-democratization",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 26292 字）"
+        }
+      ]
+    },
+    {
+      "lang": "id",
+      "path": "id/Society/education-system-and-admissions-culture.md",
+      "zh_source": "History/大罷免.md",
+      "slug": "education-system-and-admissions-culture",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `education-system-and-admissions-culture` ≠ en canonical `great-recall-movement-2024`",
+          "canonical": "great-recall-movement-2024",
+          "actual": "education-system-and-admissions-culture"
+        }
+      ]
+    },
+    {
+      "lang": "id",
+      "path": "id/Society/social-movements-and-civic-participation.md",
+      "zh_source": "History/大罷免.md",
+      "slug": "social-movements-and-civic-participation",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `social-movements-and-civic-participation` ≠ en canonical `great-recall-movement-2024`",
+          "canonical": "great-recall-movement-2024",
+          "actual": "social-movements-and-civic-participation"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/taiwan-railway-history.md",
+      "zh_source": "History/台灣鐵道史.md",
+      "slug": "taiwan-railway-history",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-railway-history` ≠ en canonical `TBD-NEEDS-SLUG`",
+          "canonical": "TBD-NEEDS-SLUG",
+          "actual": "taiwan-railway-history"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/History/taiwan-railway-history.md",
+      "zh_source": "History/台灣鐵道史.md",
+      "slug": "taiwan-railway-history",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-railway-history` ≠ en canonical `TBD-NEEDS-SLUG`",
+          "canonical": "TBD-NEEDS-SLUG",
+          "actual": "taiwan-railway-history"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/History/taiwan-railway-history.md",
+      "zh_source": "History/台灣鐵道史.md",
+      "slug": "taiwan-railway-history",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-railway-history` ≠ en canonical `TBD-NEEDS-SLUG`",
+          "canonical": "TBD-NEEDS-SLUG",
+          "actual": "taiwan-railway-history"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/History/taiwan-railway-history.md",
+      "zh_source": "History/台灣鐵道史.md",
+      "slug": "taiwan-railway-history",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-railway-history` ≠ en canonical `TBD-NEEDS-SLUG`",
+          "canonical": "TBD-NEEDS-SLUG",
+          "actual": "taiwan-railway-history"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/taiwan-white-terror.md",
+      "zh_source": "History/台灣白色恐怖.md",
+      "slug": "taiwan-white-terror",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ja 原生文字字元（本文 24525 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/History/taiwan-white-terror.md",
+      "zh_source": "History/台灣白色恐怖.md",
+      "slug": "taiwan-white-terror",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.3% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.7,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/History/taiwan-white-terror.md",
+      "zh_source": "History/台灣白色恐怖.md",
+      "slug": "taiwan-white-terror",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 es 變音符號（本文 24926 字）"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/History/taiwan-white-terror.md",
+      "zh_source": "History/台灣白色恐怖.md",
+      "slug": "taiwan-white-terror",
+      "issues": [
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_DIACRITICS] 0 個 fr 變音符號（本文 25220 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Geography/taoyuan-city.md",
+      "zh_source": "Geography/桃園市.md",
+      "slug": "taoyuan-city",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 51259 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Geography/penghu-county.md",
+      "zh_source": "Geography/澎湖縣.md",
+      "slug": "penghu-county",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 48314 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Geography/nantou-county.md",
+      "zh_source": "Geography/南投縣.md",
+      "slug": "nantou-county",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 50714 字）"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Culture/taiwan-religion-and-temple-culture.md",
+      "zh_source": "Culture/台灣宗教與寺廟文化.md",
+      "slug": "taiwan-religion-and-temple-culture",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body ko_hangul = 0.0% (expected ≥ 5%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 100.0,
+            "han_pct": 0.0,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        },
+        {
+          "type": "script_presence_english_leak",
+          "severity": "critical",
+          "msg": "[NO_NATIVE_SCRIPT] 0 個 ko 原生文字字元（本文 35957 字）"
+        }
+      ]
+    }
+  ]
+}

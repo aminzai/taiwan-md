@@ -27,9 +27,10 @@ imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:86eae1d1c642a4eb'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 translatedAt: '2026-07-28T23:44:15.634559+00:00'
+sourceBodyHash: 'sha256:645f8f42e79639a7'
 ---
 
 > **Ringkasan 30 Detik:** Pada penutupan pasar 19 Mei 2026, nilai pasar TSMC mencapai 57,18 triliun yuan; satu perusahaan saja menduduki 31,51% Indeks Tertimbang Taiwan, sekitar 40% total kapitalisasi pasar saham Taiwan, dan 71% foundry kristal global. Ke-49 posisi di belakangnya dibagi oleh 12 holding keuangan, 11 perusahaan semikonduktor, 6 perusahaan elektronik kontrak, dan 5 veteran industri tradisional. Yang disebut tripod elektronik-keuangan-industri tradisional, sebenarnya didukung separuh badan oleh satu kaki industri elektronik; gelombang AI sejak 2024 mengangkat Quanta, Wistron, Wiwynn, dan Inventec dari kelas menengah ke atas, semakin meningkatkan konsentrasi. Membaca tabel 50 besar ini sama dengan membaca diagram struktur tubuh ekonomi Taiwan: di mana tulang belakangnya, di mana titik kegagalan tunggalnya, dan di mana organ-organ tersembunyi di luar tabel.

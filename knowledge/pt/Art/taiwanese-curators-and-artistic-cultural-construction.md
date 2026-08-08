@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:01e74babf94ac8da'
-sourceBodyHash: 'sha256:859c873057ee681d'
-translatedAt: '2026-07-24T20:15:18+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:9ea16a828e45af61'
+sourceBodyHash: 'sha256:b8ac47c9a8b9482f'
+translatedAt: '2026-08-06T07:33:52.042897+00:00'
 ---
 
 # Curadores de Taiwan e a Construção Cultural Artística
@@ -92,17 +92,21 @@ Esse fenômeno reflete uma nova etapa no desenvolvimento dos curadores taiwanese
 **Nota do Curador #3: Sobre a Educação Curatorial**
 _Hsu Wen-jui já apontou que a educação curatorial precisa distinguir as diferenças entre curador independente e curador institucional, bem como a formação nas diferentes fases da carreira. Curadores independentes precisam de maior capacidade de autonomia e integração de recursos; curadores institucionais necessitam de base acadêmica mais sólida e visão internacional. Mas, seja qual for o tipo, todos precisam de uma compreensão profunda da história da arte de Taiwan — isso é a raiz de toda prática curatorial._
 
-## Perspetivas Futuras: Construindo uma Metodologia Curatorial Taiwanesa
+## Perspetiva Futura: Construir uma Metodologia Curatorial de Taiwan
 
-Ao examinar a trajetória de 30 anos dos curadores taiwaneses, vê-se um fio evolutivo claro: dos primeiros experimentos institucionais à participação no sistema internacional de bienais, até as práticas locais diversificadas dos últimos anos. Os curadores de Taiwan deixaram de ser receptores passivos do discurso curatorial internacional para começar a propor metodologias curatoriais originais.
+Ao examinar a trajetória de desenvolvimento dos curadores de Taiwan ao longo de 30 anos, podemos ver uma linha evolutiva clara: desde as primeiras experiências institucionais, até à participação no sistema internacional de bienais, até às práticas locais diversificadas dos últimos anos. Os curadores de Taiwan já não são receptores passivos do discurso curatorial internacional, mas começam a propor metodologias curatoriais com originalidade.
 
-Por exemplo, o modelo de "pesquisa de campo + construção discursiva + conexão local" de Kung Cho-chun, a perspectiva curatorial de "origem mestiça + visão internacional" de Takashi Takamori, e a identidade composta de "artista + curador" de Wang Chun-chieh representam todos contribuições únicas dos curadores taiwaneses no ecossistema artístico global.
+Por exemplo, o modelo de "investigação de campo + construção discursiva + conexão local" de Kung Tzu-chun, a perspetiva curatorial de "origem mista + visão internacional" de Takamori Nobuo, e a identidade composta de "artista + curador" de Wang Chun-chieh, todos representam as contribuições únicas dos curadores de Taiwan no ecossistema artístico global.
 
-Mas o mais importante é que os curadores de Taiwan estão aprendendo uma coisa: **como manter uma profunda preocupação com a cultura local enquanto participam do diálogo internacional**. Essa capacidade de equilíbrio talvez seja precisamente a competitividade central dos curadores taiwaneses no mapa artístico global do século XXI.
+Mas o mais importante é que os curadores de Taiwan estão a aprender uma coisa: **como manter um profundo cuidado com a cultura local enquanto participam no diálogo internacional**. Essa capacidade de equilíbrio é talvez precisamente a competitividade central dos curadores de Taiwan no mapa artístico global do século XXI.
 
 ---
 
-_Este artigo foi escrito com base em extensa documentação de primeira mão e conteúdo de entrevistas; todos os nomes e eventos foram verificados. Caso sejam detectados erros factuais, por favor reportem através do sistema de Issues do Taiwan.md._
+_Este artigo foi escrito com base em extensas fontes primárias e conteúdo de entrevistas, com todos os nomes e eventos verificados. Se descobrir algum erro factual, por favor reporte através do sistema de Issues do Taiwan.md._
+
+**Leitura complementar**:
+
+- [Ilha Internacional de Arte de Matsu](/pt/art/matsu-biennial) — um plano curatorial de dez anos organizado pelo Governo do Condado de Lienchiang, cuja terceira edição foi liderada em conjunto por cinco curadores, constituindo um caso concreto da evolução do ecossistema curatorial de Taiwan para um modelo baseado em equipa e descentralizado
 
 ## Referências
 
