@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 85 條 #N 反射（last #85�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.19'
+current_version: 'v5.20'
 last_updated: 2026-08-09
-last_session: '2026-08-09-031153-twmd-distill-weekly（新增 #85「不知道」需要自己的符號 vc=7 跨 3 entry；#24 加形式 12 委派層 commit 格式漂移；#56 加 v7 閘門編號自身 drift；#63 加 canonical 完整≠指令面完整；#70 加 Tier 2 vc=8 chrome-mcp 四連日症狀逐日下探）'
+last_session: '2026-08-09-twmd-self-evolve-weekly（#67 加 routine-infra「已同步」claim 變體 vc=1→4：實際補齊 feedback-triage cron mirror 缺的 HG9/HG10 兩行並 routine-sync --harvest 收回 git SSOT，關閉 8/6 起延續 2 天的 changelog-claim-not-reverified 缺口）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -276,13 +276,14 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **相關**：REFLEXES #15 反覆浮現要儀器化（meta-rule）/ REFLEXES #41 CI timeout 是 capacity 設定（content-grows 兄弟 case）/ REFLEXES #59 製造數字的人最易被數字騙（gate 設計者就是被數字騙的人）/ REFLEXES #58 detection ≠ remediation（gate 抓出 ≠ threshold 對得起 corpus）
 - **跨檔關聯**：[scripts/plugins/paragraph-rhythm.py](../../scripts/plugins/paragraph-rhythm.py)（cap 5→13 commit f628f1cb2）+ [scripts/tools/instrumentation-audit.py](../../scripts/tools/instrumentation-audit.py)（三方對齊 SSOT）+ [LESSONS-INBOX §未消化清單 2026-06-06 viz驗證文 gate dogfood](LESSONS-INBOX.md) + distill handoff §pending「整片過期 gate audit」🔴 高優先
 
-**#67 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論**（2026-06-13 refactor-article 升 canonical vc=1，severity=structural）— 任何「X 已優化 / 已修 / 已確認」的審計或驗證結論，記錄的是它被驗那一刻的狀態，不會自己更新。引用一份三天前的 audit 當「現在的事實」，等於把過期快照當即時量測。高 stake decision（效能 regression / 安全 gate / 架構假設）前，重驗要用 runtime probe（counter / console / 實測），不靠讀碼推論或舊報告。
+**#67 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論**（2026-06-13 refactor-article 升 canonical vc=1，2026-08-09 twmd-self-evolve-weekly 加 routine-infra 「已同步」claim 變體 vc=4，severity=structural）— 任何「X 已優化 / 已修 / 已確認 / 已同步」的審計或驗證結論，記錄的是它被驗那一刻的狀態，不會自己更新。引用一份三天前的 audit 當「現在的事實」，等於把過期快照當即時量測。高 stake decision（效能 regression / 安全 gate / 架構假設 / routine 三層 SSOT 同步）前，重驗要用 runtime probe（counter / console / 實測 / 跑對賬工具），不靠讀碼推論或舊報告、也不靠 changelog 文字宣稱。
 
-- **規則**：(a) 引用「X 已驗過」的結論時標被驗的日期 + 方法；跨 ≥3 天或跨 session 的高 stake 引用必須重驗 (b) `.astro` / 大型元件「cache 是否生效」一律 runtime probe（如 buildGitInfoCache 加 console counter + dev server 同頁 request N 次）；「有 cache」是 binary 描述，cache「在正確 scope 生效」要 probe 才知道 (c) audit 報告的「已修 / 已確認」結論在引用前先對現碼 grep verify，不憑記憶
+- **規則**：(a) 引用「X 已驗過」的結論時標被驗的日期 + 方法；跨 ≥3 天或跨 session 的高 stake 引用必須重驗 (b) `.astro` / 大型元件「cache 是否生效」一律 runtime probe（如 buildGitInfoCache 加 console counter + dev server 同頁 request N 次）；「有 cache」是 binary 描述，cache「在正確 scope 生效」要 probe 才知道 (c) audit 報告的「已修 / 已確認」結論在引用前先對現碼 grep verify，不憑記憶 (d) **pipeline / routine changelog 寫「已同步 N 層」時，該宣稱本身是下一次讀者的線索不是事實**（2026-08-09 新增）——寫下這行字的那個 session 常常只實際同步了讀寫方便的那一層（如直接改機器上的 live 檔），git SSOT 或 cron mirror 另一層留在舊狀態；下一個引用此 changelog 的 session 必須實跑對應對賬工具（如 `routine-sync.py`）現場驗證，不能把 changelog 的「已同步」當已完成的既定事實繼續往下推論
 - **Boundary**：(a) 低 stake / 可逆操作不需重驗（讀碼推論夠用）(b) 有 CI gate 持續看守的結論（parity / flag_slow 哨兵）可信任 gate 而非每次 probe — 但 gate 自身要先過 #24 第 8 種 self-test
 - **觸發**：2026-06-13 refactor-article — (i) 6/10 build-audit 寫「git info cache 讀碼確認有 module-level cache」，3 天後一行 console probe 揭露 article.template frontmatter 裡第二份同名 cache 在 per-render scope 空轉，每頁重跑 git log（4,697 次子程序）(ii) 同 session 前一輪 handoff 寫「audit 熱點 #6 感測器未修」，重讀現碼證實 6/10 早已修——憑舊 audit 快照推論的過時情報
-- **相關**：REFLEXES #24「工具在說謊」（舊結論是說謊工具的時間維度變體）/ REFLEXES #16「peer / probe 是線索不是 source」（舊 audit 結論也是線索不是 source）/ REFLEXES #65「awareness instrument 自身要 cross-verify」（同 family — 受信任的不只是 tool，還有 tool 的舊輸出）
-- **跨檔關聯**：[reports/article-template-refactor-2026-06-13.md §1.2](../../reports/article-template-refactor-2026-06-13.md)（probe 戳破讀碼結論）+ [reports/refactor-verification-2026-06-13.md §4.1](../../reports/refactor-verification-2026-06-13.md)（#6 過時情報更正）+ [scripts/tools/build-parity-diff.sh](../../scripts/tools/build-parity-diff.sh)（self-test 哨兵）
+- **觸發（routine-infra 變體，2026-08-09）**：feedback-triage pipeline v1.2（2026-08-06 hard-gate-renumber）changelog 寫「同波同步薄殼 skill 與 cron mirror」，實際只同步了 repo 內薄殼層，cron mirror（`~/.claude/scheduled-tasks/.../SKILL.md`）漏收 HG9/HG10 兩行；v1.3（2026-08-07 archive-reconcile）changelog 再度沿用「已同步」的假設疊加新內容，缺口延續。8/8 twmd-routine-sync 對賬才第一次抓到（`--harvest` 補回三行）；8/9 twmd-distill-weekly 驗證另一條「已消化」entry 時，順手在機器上核對才發現同一個缺口其實只補了一半（HG9/HG10 仍缺）；同日 twmd-self-evolve-weekly 才把 HG9/HG10 兩行實際補齊到 cron mirror 並跑 `routine-sync.py --harvest` 收回 git SSOT，確認「三層一致」。同一個「已同步」宣稱在 3 個獨立 session（8/6 寫下、8/7 沿用、8/8 才被戳破）之間被當事實傳遞了 2 天沒人現場重驗
+- **相關**：REFLEXES #24「工具在說謊」（舊結論是說謊工具的時間維度變體）/ REFLEXES #16「peer / probe 是線索不是 source」（舊 audit 結論也是線索不是 source）/ REFLEXES #65「awareness instrument 自身要 cross-verify」（同 family — 受信任的不只是 tool，還有 tool 的舊輸出）/ REFLEXES #56「pipeline canonical ↔ production drift」（changelog「已同步」正是這種 drift 最容易偽裝成「已解決」的形式）
+- **跨檔關聯**：[reports/article-template-refactor-2026-06-13.md §1.2](../../reports/article-template-refactor-2026-06-13.md)（probe 戳破讀碼結論）+ [reports/refactor-verification-2026-06-13.md §4.1](../../reports/refactor-verification-2026-06-13.md)（#6 過時情報更正）+ [scripts/tools/build-parity-diff.sh](../../scripts/tools/build-parity-diff.sh)（self-test 哨兵）+ [scripts/tools/routine-sync.py](../../scripts/tools/routine-sync.py)（routine 三層對賬工具，本變體的 probe）
 
 **#69 每層自評都需要外部尺 — self-report-needs-external-ruler（meta-umbrella above #31 + #66）**（2026-06-14 twmd-distill-weekly 升 canonical vc=7 — 2026-06-07 routine-audit cycle 5 單週 5 instance 跨 writer 視覺/事實/手 + 2026-06-10 audit 5 agent 報告全帶誤讀 + 2026-06-10 audit-execution 四連攔，severity=structural）— Semiont 站在系統內部，對自己產出的讀數天生帶樂觀偏誤；真實永遠要靠**外面**的尺。每一層「自評」——事實 claim / 品質 claim / 視覺自檢 / 對自己手的回報 / 即時狀態 snapshot / 過去 N 天 baseline 的「正常」感覺——都需要外部 instrument 接住，沒有一層能自己抓到自己。本條是 #31（agent claim 不可信）+ #66（gate threshold 用真實產出 dogfood）的 meta-umbrella，比兩條 specific reflexes 高一層 scope。
 

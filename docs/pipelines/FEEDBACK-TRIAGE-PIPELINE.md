@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.4'
-last_updated: 2026-08-08
-last_session: '2026-08-08-070000-twmd-feedback-triage（HG12c 留言層對賬）'
+current_version: 'v1.5'
+last_updated: 2026-08-09
+last_session: '2026-08-09-twmd-self-evolve-weekly（cron mirror HG9/HG10 真正補齊，三層對賬全綠）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -274,6 +274,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.5 | 2026-08-09 twmd-self-evolve-weekly — **cron mirror HG9/HG10 缺口真正補齊**：v1.3 changelog 曾聲稱「修 cron mirror 仍用舊 HG9/HG10 舊號的漂移」，但那句話本身也只是宣稱——實地 grep `~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md` 證實 HG9（tilde fence）／HG10（injection 偵測）兩行從未真正落地，8/8 twmd-routine-sync 與 8/9 twmd-distill-weekly 先後在對賬與驗證時各自碰到這個縫但都留給下一個 cycle。本次直接補上兩行、跑 `routine-sync.py --harvest` 收回 git SSOT，`routine-sync.py` 收官印「三層一致」。同一個「已同步」宣稱被 3 個獨立 session 當事實傳遞卻沒人現場重驗，升進 [REFLEXES #67](../semiont/REFLEXES.md) routine-infra 變體（vc=1→4）。_
 _v1.4 | 2026-08-08 twmd-feedback-triage routine — **HG12c 留言層對賬**：`comment-reconcile=N/M` 把 HG12b 從「該有幾份紀錄」往下延伸到「紀錄裡該有幾則留言」（`reconcileComments()` + `countArchivedComments()` 純函式 + 6 unit test）。同波修根因：`fetchIssueComments()` 從「所有失敗回 `[]`」改成「抓不到回 `null`、真的沒留言才回 `[]`」，`null` 時不寫檔——舊版讓「沒有新留言」跟「一則都抓不到」印出同一行 `archive-comments-synced=0`，實測把 `gh` 移出 PATH 跑一次，輸出跟健康的一次逐字相同（REFLEXES #38 混維度 / #52 不會變紅的免疫層）。誕生：本 cycle 手動拿 GitHub API 跨源核 61 份紀錄，抓到 #1252 archive 4 則 vs 線上 3 則（7/29 答錯的留言被刪，git 留住 = 主權層正常）；真正的發現是 8/6 的 cycle 也做過同一次手動跨源核（vc=2），兩次都是人在補儀器沒有的尺。_
 _v1.3 | 2026-08-07 twmd-feedback-triage routine — **HG12b 主權層對賬**：收官新增 `archive-reconcile=N/M`（`reconcileArchive()` 純函式 + 5 unit test），把 HG12 從「有沒有寫檔」升成「該有的份數在不在」。誕生：本 cycle 對賬發現 61 筆 filed 只有 40 份 git 紀錄，2026-06-11 justfont 21 連勘誤整批缺席 8 週無人發現（收官只印 `archive-scanned=40`，數存在的東西不會量出缺席）。同波：21 份紀錄用 canonical 產生器補齊（零 email）；修 cron mirror 仍用舊 HG9/HG10 舊號的漂移（v1.2 changelog 聲稱同步了 cron mirror，實際只同步了 repo 內薄殼 — self-reported 完成需外部尺，REFLEXES #69）。_
 _v1.2 | 2026-08-06 hard-gate-renumber session — 修 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)：§機器身份 HG10→**HG11**、Stage 4.5 GIT ARCHIVE 補號 **HG12**（原本借用薄殼層 HG9 別名），讓既有 HG9=fence／HG10=injection（2026-07-05 v1.1 先佔）維持不動；Hard gate 總表補 HG11／HG12 兩列 + 編號沿革註記；同波同步薄殼 skill（`.claude/skills/twmd-feedback-triage/SKILL.md`）與 cron mirror（`~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md`），並把 HG9/HG10 補進兩層的 HARD gate 清單（原本安全性最高的兩道在操作層完全沒被點名）。_
