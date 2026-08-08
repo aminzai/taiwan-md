@@ -118,10 +118,12 @@ git add src/data/related/
 git diff --cached --quiet && { echo "no change, skip commit"; } || \
   git commit --no-verify -m "🧬 [routine] embeddings: nightly bge-m3 rebuild — $(date '+%Y-%m-%d %H:%M')
 
-Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>"
+Co-Authored-By: <實際執行本次 cron session 的 model 名稱，如 Claude Sonnet 5> <noreply@anthropic.com>"
 git ls-files src/data/related/ | head -1   # 立即驗證 staged 真的進 commit
 git push origin main
 ```
+
+**Co-author 必須如實填當下執行 model**，不要照抄範例文字。Cron session 指派的模型會變動（Sonnet / Opus 依排程設定），寫死特定型號會讓屬性連夜失準——2026-08-06〜08 三夜連續踩到同一個問題（第一二夜照抄範本產生錯誤屬性，第三夜靠執行者當場警覺手動修正），根因是這裡曾經寫死「Claude Opus 4.8 (1M context)」。
 
 `--no-verify` + 立即 `git ls-files` 驗證 per multi-core-commit-collision lesson（husky lint-staged stash × 平行 session 會 silent unstage）。**只 commit `src/data/related/`**（public/api/rag + public/api/related 是 gitignored fleet 產出，不入 commit）。無 diff（內容沒變）→ skip commit，不留空 commit。
 
