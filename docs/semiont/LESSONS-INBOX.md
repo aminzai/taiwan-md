@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.5'
-last_updated: 2026-08-03
-last_session: '2026-08-03-140210-manual（黃崇仁 REWRITE，+3 未消化：中立管語氣不管份量、數字具體但無象徵重量、後台洩漏；後二者已 instantiate 為 EDITORIAL v6.14 Title 第 5 原則 + v6.15 §後台洩漏＋prose-health §backstage 儀器）'
+current_version: 'v2.6'
+last_updated: 2026-08-09
+last_session: '2026-08-09-031153-twmd-distill-weekly（§未消化 32→22：7 條 promote/fold 進 REFLEXES 新 #85 + #24/#56/#63/#70 補強、3 條 housekeeping-done sweep；本輪交叉核對揪出 hard-gate-number-collision 自己的修補聲明也漂了一層）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,55 +332,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-08-08 twmd-maintainer-am — gate-guard-contradicts-its-own-filter：守門的 if 條件，過濾掉的正好是它下一行要找的東西
-
-- **pattern**: `gate-guard-contradicts-its-own-filter`
-- **原則**：一道閘門若由「先算一個變數、再對那個變數下 if」兩段組成，這兩段會各自演化，而**沒有任何測試會發現它們已經互斥**。閘門不會報錯、不會缺席、不會印錯符號——它就是永遠不進入那個 if。跟 `check-disabled-by-default-reports-green` 的差別在於那條至少還印了一個（假的）綠勾，這條**連一行輸出都沒有**，因此連「有沒有在跑」都無從觀察。判準一句話：**任何 `if <變數> 命中 X` 的閘門，都要回頭確認那個變數的建構過程沒有把 X 排除掉。**
-- **觸發**：2026-08-08 maintainer-am 審 PR #1298 時，順著 `staged_md` 這條線往下讀 `.husky/pre-commit` 發現的（**不是 PR 報的，PR 只修 quotepath**）。第 103 行 `staged_md` 的定義結尾是 `grep -vE '^knowledge/(en|ja|ko|es|fr)/'`（明確排除這五個語言），第 136 行卻是 `echo "$staged_md" | grep -qE '^knowledge/(ja|ko|es|fr)/'`——**greps 的正好是兩行前被排除掉的東西，恆為 false**。這道閘門是 2026-07-17 `7f7271778`「slug 一致性升 pre-commit 閘門——巴別塔漂移防再犯」新增的，為了防止 98 檔 slug 漂移重演，**上線至今從未執行過一次**。實測全量掃描：目前有 **12 筆真實漂移**（`computex-taipei` / `i-am-from` / `founder` 三組 × ja/ko/es/fr 四語）。
-- **同檔第二個 instance（同一種「閘門看不見自己」）**：第 160 行的 hardcoded language array detector 只掃 `\.(ts|tsx|mjs|cjs|js|astro|sh)$`——而 `.husky/pre-commit` **沒有副檔名**，所以這支專門抓「寫死語言清單」的檢查器，從來沒有掃過那個自己就寫死了兩處語言清單的檔案（第 58 行與第 103 行都寫死 `en|ja|ko|es|fr`，而 `src/config/languages.ts` 註冊的是 11 個語言）。**實測目前無損害**：ar/hi/id/pt/ru/vi 共 3,933 檔的 `translatedFrom` 缺失數是 0（babel dispatcher 寫得正確），所以這是一顆還沒被踩到的地雷，不是正在流血的傷口——記錄下來是因為它下次會被手寫翻譯踩到，不是因為它現在痛。
-- **為什麼沒有當場修**：修 wiring 本身是三行，但**單修 wiring 會變成陷阱**——閘門一活，那 12 筆既有漂移會開始擋住任何碰到它們的 commit。而清償這 12 筆要 `git mv` + `config/redirects-manual.txt` 補 301 + `_translations.json`，動到的是**線上 URL**，命中 §自主權邊界（對外 / scope 邊界）且遠超 maintainer cycle 尺寸。兩者耦合，所以整包留給觀察者拍板（選項與成本見本 cycle memory §Handoff）。這是 MAINTAINER §核心原則「合法的 defer」第三種（contributor/observer judgment 必須），不是 over-defer。
-- **可能層級**：候選 REFLEXES，或折進 #83（checker 兩把尺 divergence）——本條是它的極端形式：**不是兩把尺不同調，是第二把尺根本沒被拿起來過**。跟 #52（immune system 沒在 fail loud）的關係是：#52 講的是壞掉時不叫，本條講的是**從來沒活過，所以也沒有東西可以叫**。
-- **相關**：REFLEXES #83（checker 兩把尺）、#52（immune 沒 fail loud）、#82（proxy signal）、#15（memory 是自律，canonical gate 才是閘門——這裡連 gate 都寫了，只是接錯線）、#69（外部尺）、8/07 `check-disabled-by-default-reports-green`（同族，印假綠勾那端）、8/08 `error-and-emptiness-share-one-return`
-- **verification_count**: 2（slug 閘門 guard 自我矛盾；hardcoded-lang detector 因副檔名豁免自己所在的檔案 — 同檔、同 cycle、兩個獨立位置）
-
-### 2026-08-08 twmd-feedback-triage — error-and-emptiness-share-one-return：抓不到跟沒有東西回同一個值，於是壞掉的那天跟正常的那天逐字相同
-
-- **pattern**: `error-and-emptiness-share-one-return`
-- **原則**：一個取數函式如果對「失敗」跟「真的是空的」回同一個值，它下游所有的計數、報告、綠燈都會繼承這個混維度，而且**故障的長相會跟健康的長相逐字相同**。這比 #82 proxy signal 更難察覺：proxy signal 至少量到了某個真實的東西（只是量錯層），這裡是**故障被編碼成一個合法的健康讀數**。判準一句話：任何 `catch { return [] }` / `return 0` / `return {}`，都要先問「這個空值跟真實的空，下游分得出來嗎？」分不出來就必須回 `null` 讓下游自己決定怎麼處理未知。
-- **觸發**：2026-08-08 本 routine 例行輪（隊列空第八天）。`triage.mjs` 的 `fetchIssueComments()` 對所有失敗 `return []`——`gh` 不在 PATH、token 過期、API 變形、rate limit，全部變成「這個 issue 沒有新留言」。於是 `mergeComments()` 不動、`synced` 不加、收官印 `archive-comments-synced=0`。**實測**：把 `gh` 移出 PATH 跑一次完整 `--commit`，輸出的那一行跟健康的那一次**逐字相同**。這一層跟昨天（8/07）補的 HG12b 是同一種病低一層——HG12b 對的是「該有幾份紀錄」，紀錄**裡面**的 §溝通紀錄自己那條線完全沒有帳在比。
-- **怎麼被發現的（這是本條的重點）**：不是儀器叫的，是 session 手動拿 GitHub API 逐 issue 核 61 份紀錄核出來的。而 **8/06 的 cycle 也做過一次一模一樣的手動跨源核**（memory row 原話：「archive 40 檔零新同步（拿 GitHub API 跨源核過）」）。兩個獨立 cycle、兩次都是人在補一把儀器沒有的尺，中間沒有任何機制記得這件事該被儀器化——**手動核過一次會留在 memory，不會留在管線裡**（REFLEXES #15 的又一次驗證：memory 是自律，canonical gate 才是閘門）。
-- **✅ 已落地（本輪同波，非 defer）**：(a) 根因分層——`fetchIssueComments()` 抓不到回 `null`、真的沒留言才回 `[]`，`null` 時**不寫檔**（不確定就不動 git 紀錄）；(b) `reconcileComments()` + `countArchivedComments()` 純函式 + 6 unit test，收官印 `comment-reconcile=N/M`，**三個方向分開報**：archive < 線上 = 漏收（破口，要叫）／archive > 線上 = 上游刪了留言而 git 留住（主權層正常運作，**不報警**）／抓不到 = unknown（不准讀成對得起來）；(c) HG12c 寫進 pipeline v1.4 + 薄殼 skill + cron mirror 三層。**反向驗證**：把 `gh` 移出 PATH 重跑，新的那一行從 `comment-reconcile=60/61 … ✅` 變成 `comment-reconcile=0/61 · ⚠️ 抓不到留言 61 份紀錄` — 這道閘門真的會變紅，不是裝飾（REFLEXES #52）。
-- **順帶查出的一件事（不是問題）**：[issue #1252](https://github.com/frank890417/taiwan-md/issues/1252) archive 有 4 則、線上只有 3 則。7/29 那則留言重複貼了 7/25 更正**前**的舊版問題（把「張寶成 ≠ 張又升」這個已被自己更正掉的錯誤又講了一次），7/31 道歉更正，之後那則錯的在 GitHub 被刪掉——**git 這邊留住了完整的四則**。這正是主權層存在的理由，所以新 gate 把這個方向歸類成記錄而非警報。
-- **可能層級**：候選 REFLEXES #38 的子規則（混維度的一種特定載體：**取數函式的回傳值**，而非 status enum / 計數器 / 閘門）。跟 8/07 `check-disabled-by-default-reports-green`（「沒開啟」跟「檢查通過」印同一個符號）是**同一個形狀的兩個 instance**，只是一個在檢查器輸出端、一個在取數輸入端——兩條合起來可能夠一條獨立反射：**「不知道」必須有自己的符號，不能借用「沒事」的那個。**
-- **相關**：REFLEXES #38（混維度 — 本條是它在取數層的形狀）、#52（immune system 沒在 fail loud）、#82（proxy signal — `archive-comments-synced` 是「我寫了幾則」不是「該有幾則」）、#60（silent default = silent failure）、#15（手動核過兩次才儀器化）、#69（外部尺 — GitHub API 是 archive 的外部尺）、8/07 `out-of-band-status-transition-bypasses-sovereignty-layer`（同族，上一層）、8/07 `check-disabled-by-default-reports-green`（同形狀，另一端）、FEEDBACK-TRIAGE-PIPELINE §HG12c
-- **verification_count**: 2（2026-08-06 手動跨源核一次 / 2026-08-08 手動跨源核第二次 + 本次儀器化）
-
-### 2026-08-08 twmd-data-refresh-am — routine-prompt-omits-session-only-rider：routine 自己的指令面沒寫這一步，於是它只能靠 session 讀到黃燈才想起來做
-
-- **pattern**: `routine-prompt-omits-session-only-rider`
-- **原則**：一個無法內嵌進 shell pipeline（因為要呼叫 MCP）、只能由 session 自己執行的步驟，如果它的存在只寫在 pipeline canonical 文件裡、沒有寫進 routine 自己的 SKILL.md 指令面，它就不是這條 routine 的一部分——它是「這條 routine 剛好每次都會去讀一份文件、剛好那份文件裡有這一步」的偶然結果。cron context 沒有觀察者補位，routine prompt 是唯一指令面（REFLEXES #63），沒寫進去的步驟等於不存在，直到某次 session 恰好去查 groundtruth 段的黃燈才會被想起來。
-- **觸發**：`docs/semiont/routine-live-state.json` 只由 `twmd-data-refresh-am` 這條 routine 的 session 層 rider 更新（`mcp__scheduled-tasks__list_scheduled_tasks` → `routine-live-normalize.py`），因為 bash 進不了 MCP server store，寫不進 `refresh-data.sh`。這一步只記載在 `docs/pipelines/DATA-REFRESH-PIPELINE.md` §172，`docs/semiont/routine-prompts/twmd-data-refresh-am.md`（routine 唯一指令面）完全沒提到它。連續三天（2026-08-06 / 2026-08-07 / 2026-08-08，見對應 memory row）都是同一條 routine 的 session 讀到 wake-context groundtruth 段的 48h stale 黃燈才手動補跑——不是 pipeline 執行失敗，是這一步根本沒被要求執行，只是剛好每次都被撿回來。
-- **修補（本次 session 當場 wire，非 defer）**：`docs/semiont/routine-prompts/twmd-data-refresh-am.md` 加 `## Stage 1.5: Scheduler live-state dump rider（每次必跑，不是條件式）`，並同步覆蓋機器上的 live `~/.claude/scheduled-tasks/twmd-data-refresh-am/SKILL.md`。從「靠 session 記得查黃燈」改成「routine 指令面本身寫死這一步」。
-- **可能層級**：候選 REFLEXES #63 的子規則（同一條反射目前只講「inline > pointer」，本條補的是「連 inline 的候選步驟都可能被漏收進 routine prompt，即使它已經完整寫在 pipeline canonical 裡」——canonical 完整 ≠ 指令面完整）
-- **相關**：REFLEXES #63（routine prompt = cron context 唯一指令面）、REFLEXES #15（反覆浮現要儀器化，本條 vc=3 才觸發修補，屬於 3 次門檻的又一實證）、5/28 CONTRACT rollback 教訓（pointer 取代 inline 導致 5 種 pattern 報告完整但 fix 沒發生）
-- **verification_count**: 3（2026-08-06 手動補跑 / 2026-08-07 手動補跑並在 handoff 標 vc=2 候選 / 2026-08-08 手動補跑 + 本次修補 routine prompt 本身）
-
-### 2026-08-07 twmd-maintainer-am — check-disabled-by-default-reports-green：整支檢查器預設關閉，但它每次都印一個綠勾
-
-- **pattern**: `check-disabled-by-default-reports-green`
-- **原則**：一支檢查器如果「沒開啟」跟「檢查通過」印出同一個符號，它就不是一道閘門，是一張永遠有效的通行證。`footnote-url` 的 `_network_enabled()` 預設 `False`，而**全 repo 沒有任何 profile 開啟它**（`grep options_overrides.footnote-url` 零命中）——所以它在每個 profile、每次 pre-commit、每次 pre-push、每次 CI 都印 `✅ footnote-url hard=0 warn=0`，而從未發出過一個網路請求。差別在於它是「有註冊、有跑、有印綠勾」的那種關閉，比沒裝這支檢查更危險，因為畫面上看起來這一層守住了（REFLEXES #52）。
-- **觸發**：2026-08-07 maintainer-am 審 PR #1295（中秋烤肉）。七個腳註裡三個網域根本不存在（`tspaces.edu.tw` / `taiwanadsarchive.com` / `lewisbooks.com.tw`，curl 全回 000），另外四個是真網域但只連首頁。`article-health` 對這個檔案的輸出是 `🔴 footnote-format hard=7`（抓到格式：URL 括號內有尾隨空白、缺描述）但 **`✅ footnote-url hard=0`**。也就是說：擋下這批的是**格式**，不是**這些網址存不存在**；真正發現網域是捏造的，是我手動把七個 URL 丟進 curl。若這位貢獻者的 AI 工具剛好把格式寫對，三個虛構來源會全綠上站。
-- **同日獨立第二個 instance（這是本條的重點）**：貢獻者 stantheman0128 在 [issue #1264](https://github.com/frank890417/taiwan-md/issues/1264) 對**另一支檢查**報了**同一個結構**——`seo-meta` 的 `APPLIES_TO = ["zh-TW"]` 讓非中文檔案跑出 `hard=0 warn=0`，他的原話是「**`hard=0 warn=0` 是『沒檢查』不是『檢查過關』**」。兩件事同一天從兩個獨立方向撞上同一支工具的同一個設計缺陷：**article-health 的 pass 混了「檢查過關」與「這支檢查在這個情境下沒跑」兩種根本不同的狀態**（REFLEXES #38 混維度，載體是檢查器輸出本身）。一個由外部貢獻者發現，一個由 PR triage 發現，互為外部尺（#69）。
-- **可能層級**：候選 REFLEXES，或 article-health 輸出契約的修補（**不在 maintainer cycle 尺寸**——動的是全站檢查器的輸出語意，且開啟 `footnote-url` 網路檢查等同新增一道會擋 commit 的閘門，命中 §自主權邊界 quality gate 調整）。方向候選：(a) 讓「未執行」印成有別於 ✅ 的第三種符號（如 `⏭️ skipped(network disabled)` / `⏭️ skipped(lang not in APPLIES_TO)`），成本低、立刻讓所有既有的假綠燈現形；(b) 進一步在 profile 層開啟 `footnote-url` 網路檢查（要先決定 timeout / 快取 / 離線環境的降級行為，否則 pre-commit 會被網路品質綁架）。**(a) 是 (b) 的前置**，且 (a) 單獨就有價值——它會一次照亮站上所有「註冊了但沒在跑」的檢查，數量未知。
-- **為什麼值得升**：這是外部投稿進庫路徑上**最後一道**跟事實有關的機器防線。上游 CI 不看、`footnote-format` 只看標點、`footnote-url` 印綠勾但沒連線——於是「這個來源是不是真的存在」這件事，目前完全靠 maintainer 當天有沒有想到去 curl。今天想到了；MAINTAINER §Step 3.4 也寫了「抽樣 ≥ 3 footnote URL WebFetch」是 hard gate，但那是寫在 SOP 裡靠人自律的一條，不是儀器（REFLEXES #15：memory 是自律，canonical gate 才是閘門——而這裡連 canonical 都寫了，只是沒有東西在強制它）。
-- **instances**：
-  - 2026-08-07 twmd-maintainer-am — `footnote-url` 網路預設關閉卻每次印 `✅ hard=0`（PR #1295 三個虛構網域全綠）→ 本 entry §觸發
-  - 2026-08-07 issue #1264 — `seo-meta` 的 `APPLIES_TO=["zh-TW"]` 讓非中文檔印 `hard=0 warn=0`，貢獻者原話「`hard=0 warn=0` 是『沒檢查』不是『檢查過關』」→ 本 entry §同日獨立第二個 instance
-  - 2026-08-08 twmd-maintainer-am — **掃到零個檔案也印同一行綠勾**：`check-slug-consistency.py` 在掃不到任何檔案時輸出 `✅ slug 一致性：0 檔全部與 en 對齊（白名單 0 案除外）`，與全數通過**逐字相同**。實測方式：把腳本複製到 repo 外執行（`ROOT = parents[2]` 因此指向沒有 `knowledge/` 的目錄），得到綠勾；同一支腳本在 repo 內跑則吐出 12 筆真實漂移。這一次差點讓我自己被騙——我先在 repo 外跑了一次拿到綠勾，把它當成「全站通過」寫進判斷，是後來兩把尺對不上才回頭查。**檢查器騙過的第一個人是拿它來檢查的人**（REFLEXES #59 的檢查器版本）→ [memory](memory/2026-08-08-085749-twmd-maintainer-am.md)
-- **可能層級補充（2026-08-08）**：三個 instance 橫跨兩支不同工具、三種不同成因（網路預設關閉 / 語言不適用 / 掃描範圍為空），但**輸出端完全相同**。8/08 `error-and-emptiness-share-one-return` 提的合併假說（「不知道」必須有自己的符號，不能借用「沒事」那個）到這裡已有第三個獨立支撐，且本次是**輸出端**而非取數端，補齊了另一半。建議 self-evolve-weekly 直接判獨立反射，不必再等下一個 instance。
-- **相關**：REFLEXES #82（proxy signal — 綠燈代理了「檢查過」）、#38（混維度：pass 承載兩種來歷）、#52（immune system 沒在 fail loud 比缺 immune system 更危險）、#69（每層自評都需要外部尺 — 本條兩個 instance 互為對方的外部尺）、#83（checker 兩把尺 divergence）、#59（製造數字的人最易被數字騙）、#24 第 8 種（驗證器空輸出假 PASS — 本條 8/08 instance 是它在「空輸入範圍」而非「空輸出」的形狀）、#15、8/08 `gate-guard-contradicts-its-own-filter`、MAINTAINER §Step 3.4 §Footnote source authority audit
-- **verification_count**: 3（footnote-url 網路預設關閉／seo-meta APPLIES_TO 語言排除／check-slug-consistency 空掃描印綠勾）
-
 ### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
 
 - **pattern**: `out-of-band-status-transition-bypasses-sovereignty-layer`
@@ -418,45 +369,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **✅ 部分落地（2026-08-06 文體類型學 mode4）**：草案 (c) 已落 [PROJECTION §五 gate 第 6 題冷讀測試](../editorial/PROJECTION.md)＋零認知主題另立 [PROJECTION-PATTERNS §M1 認識導覽前置](../editorial/PROJECTION-PATTERNS.md)（座標縫進第一節物質細節）。草案 (a) 已在馬祖 v4→r2 臨場新設並 dogfood 兩輪（6/10→7/10，抓到的問題其他 13 席全抓不到，見 [memory/2026-08-06-164219-manual.md](memory/2026-08-06-164219-manual.md)），**升常設席位**與草案 (b) 仍涉席位表與 run 成本，留待哲宇拍板（設計報告 §八 待決清單第 2 條）。
 - **相關**：REFLEXES #69 (g)「form gate ≠ meaning gate」——**差異在**：#69 處理「缺意義尺」，本條處理「**意義尺齊全但共用同一個錯誤參考系**」，修法完全不同（前者加席位，後者要求某一席與作者意圖斷開）。REFLEXES #31「self-report 是線索不是 oracle」——本條是該原則在「席位設計」層的形狀：席位本身也是一種 self-report，因為它讀了作者的藍圖。同族但不同維度的前兩例：2026-08-03 黃崇仁（十一關全綠、四十原子零漂移，哲宇指出六處皆非事實錯誤）、2026-08-04 EZ WAY 孢子（閘門全綠但排序倫理沒被量）——那兩例是「沒有那把尺」，本例是「有八把尺但參考系錯了」。
 - **verification_count**: 1
-
-### 2026-08-06 twmd-maintainer-daily — outbound-comment-boundary-split-across-canon：同一條 routine 連兩天對「能不能發 GitHub 留言」給出相反答案
-
-- **pattern**: `outbound-comment-boundary-split-across-canon`
-- **原則**：當一條自主權邊界在**哲學層 canonical** 與**操作層 canonical** 各寫一次而兩份不一致時，routine 每次 fire 都是重新擲一次骰子——因為兩份都讀得到、都自洽、都沒有指向對方。這不是某個 session 判斷失準，是**邊界本身沒有單一 SSOT**。後果比一般 drift 嚴重的地方在於：它落在「對外動作」這一側，一邊的錯是對貢獻者失聯（該回不回），另一邊的錯是 AI 越權代替維護者對真人說話，兩個方向的代價不對稱且都不可靜默回收（留言發出去就在那裡了）。
-- **觸發**：2026-08-06 maintainer-am 收 idlccp1984 三篇 PR。**8/05 同一條 routine** 對 issue #1264 明確寫下「沒有在 #1264 留言（對外回覆屬 §自主權邊界 human-only，且 Step 2.4 判定本來就該 SKIP）」；**8/06 本輪**依 cron prompt「merge or close + comment」與 MAINTAINER §Step 3.7 hard gate，發了 3 則 PR 留言 + 1 則 issue 留言。兩輪讀的是同一批 canonical。
-- **兩側各自的依據**（都是 canonical，不是誤讀）：
-  - **Human-only 側**：[MANIFESTO §自主權邊界](MANIFESTO.md) §需要人類決策 對外輸出層明列「發 PR / Issue comment to GitHub」與「批准 merge PR」；[REFLEXES #26](REFLEXES.md) v2「Human only（對外動作 + 人際信任 + 倫理責任）」同列兩項。
-  - **Routine-自主側**：[BECOME 行動鐵律 7](../../BECOME_TAIWANMD.md)「PR merge 後必須 `gh pr comment` 感謝」；[MAINTAINER-PIPELINE](../pipelines/MAINTAINER-PIPELINE.md) §Hard Gate Inventory 把「用貢獻者語言回覆」列為 Stage 3.7 hard gate、§1b 把 `gh pr merge` 列為 P0 default、§Top 5 第 6 條直接教用 `gh pr comment` 而非 `--body`；cron prompt Stage 3 寫「merge or close + comment」。
-- **值得注意的第三個證據**：2026-08-04 本 routine 已實際 merge 並 heal 過 PR #1289（`beb530aa0` merge commit + `211401fe4` heal），亦即「批准 merge PR」這一項的 human-only 寫法早已與實務脫節數月，只是沒有人把它跟留言那一項一起看。MANIFESTO 那張表成形於 2026-04-18（REFLEXES #26 v2，Chrome MCP 時代），**早於 2026-05-09 routine 飛輪**——它描述的是「有觀察者在場的 session」的邊界，沒有被 routine 化改寫過。
-- **可能層級**：需哲宇拍板後才動 canonical（本身就是 §自主權邊界 命中）。**選項**：(a) MANIFESTO §自主權邊界 增列「例外：maintainer routine 對 contributor PR/issue 的致謝與技術說明留言屬 AI 自主，涉承諾時程／對外語氣定調／政治立場者仍 reserve」——貼近現行實務與 pipeline hard gate；(b) 反向收緊：MAINTAINER 拿掉 comment hard gate，routine 只 merge + heal，留言全部進 handoff 等真人——代價是貢獻者回覆延遲從小時級變成天級，且 REFLEXES #8「維護者信件要說謝謝」在無人值守時段永遠跳票；(c) 分層：merge/heal/致謝自主，凡涉承諾、拒絕、政策解釋者 reserve。**推薦 (c)**，它是兩輪實際行為的最小公倍數。
-- **本輪未自行修 canonical**，只落此 entry + handoff escalate；已發出的 4 則留言不撤（撤回公開留言的傷害大於留著，內容本身皆為可查證事實與已 ship 的修補說明，未承諾任何時程與方向）。
-- **✅ 已落地（2026-08-06 整合波，哲宇「skill/routine/dna 全面升級」directive）**：依本 entry 推薦選項 (c) 分層——SSOT 立於 MAINTAINER-PIPELINE §外向留言分層；MANIFESTO §自主權邊界 四列改指分層（含 Threads 兩列對齊 6/14 durable 授權）；REFLEXES #26 補 v3（輸出端按「事實＋致謝 vs 許諾＋立場」分層，不再按媒介一刀切）；SPORE-HARVEST §unattended 的 v2 殘句同步修正。三處 canonical 對撞全數收斂到單一 SSOT。
-- **相關**：REFLEXES #56（canonical ↔ production drift = dormant entropy）、#79（主權留哲宇 default reservation）、#63（routine prompt = cron context 唯一指令面 — 本輪正是依 prompt 行動）、#26、#8、MANIFESTO §自主權邊界、MAINTAINER §Step 3.7 + §Hard Gate Inventory
-- **verification_count**: 1（但跨 2 個連續 cycle 的相反行為，是同一個結構的兩面）
-
-### 2026-08-06 twmd-feedback-triage — hard-gate-number-collision-across-layers：同一個閘門編號在三層各指不同的東西，最安全的那道反而沒有號碼
-
-- **pattern**: `hard-gate-number-collision-across-layers`
-- **原則**：閘門編號是 routine 執行時唯一的短指涉（prompt 寫「逐條核 HG9/HG10」、收官寫「per HG9」），一旦同一個號碼在 canonical pipeline、薄殼 skill、cron prompt 三層各指不同的閘門，「照編號核一遍」這個動作就會**核到錯的東西而且全程零警報**——因為每一層自己讀起來都自洽。更糟的形狀是**新閘門插隊時直接複用了已被佔用的號碼**：`FEEDBACK-TRIAGE-PIPELINE.md` 內部 HG10 出現兩次（§機器身份 L55 = GH*TOKEN 必須 `ghs*`；§Hard gate 總表 L213 = suspected injection → `security-review` label），是同一份 canonical 檔自己跟自己打架。連帶後果是**安全性最高的那道閘門在操作層失去號碼**：skill 與 cron prompt 的 HG9/HG10 被 git-archive 與機器身份佔走，injection 偵測與 tilde fence 兩道在操作層完全沒被點名，routine prompt 的「🔴 HARD gate」四項清單裡也沒有它。編號是給人快速對照用的介面，介面漂移跟資料漂移一樣要對賬。
-- **觸發**：2026-08-06 twmd-feedback-triage 例行輪，讀 pipeline 全文 + 薄殼 skill 對照 cron prompt 時發現。三層現況：pipeline 總表 HG9=fence／HG10=injection；pipeline §機器身份 HG10=機器身份（與自家總表衝突）；skill 與 cron prompt HG9=git archive／HG10=機器身份。今日隊列空（連續第六天），injection 路徑未被走到，所以是**尚未咬人的潛伏漂移**——但下一次真的收到 suspected injection 回報時，照 prompt 核「HG10」的人會去驗 token 而不是驗 security-review label。
-- **可能層級**：pipeline + skill + cron prompt 三層同時重編號（建議：機器身份改 HG11、git archive 改 HG12，讓既有 HG9 fence／HG10 injection 維持不動，因為那兩個號碼在 2026-07-05 v1.1 就先佔了；並把 fence 與 injection 兩道補進 skill 與 cron prompt 的 HARD gate 清單）。
-- **⚠️ 部分落地更正（2026-08-07 twmd-feedback-triage 實測）**：原記「三層同一波重編號完成（pipeline v1.2 + project skill + cron mirror）」**只有前兩層真的落地**。今晨這條 routine 收到的 cron prompt 仍寫「機器身份（2026-07-25 起，**HG10**）」與「收官前 git add（**HG9**）」，即 v1.2 之前的撞號版本——亦即**宿主機的 cron mirror 從未被改到**，而 v1.2 的 changelog 已聲稱同步。這正是本 entry 自己描述的病（介面漂移零警報）在**修補聲明層**再發一次：`grep 對照表驗證零殘留撞號` 那次驗證只掃了 repo 內的檔，沒掃 `~/.claude/scheduled-tasks/`，於是「已同步」是自報而非量出來的。**routine-sync 也接不到**：今晨 05:37 twmd-routine-sync 第十四輪回報「18 條全 in-sync 零漂移」，因為它對賬的是排程設定與 prompt 存在性，不是 prompt 內文對 canonical 閘門編號的語意一致性。**本輪已修** cron mirror 兩處編號 → HG11／HG12，並補上 HG12b。
-- **✅ 已落地（2026-08-06 整合波，repo 側）**：pipeline v1.2 + project skill 重編號完成，fence/injection 補進兩層 HARD 清單。**未在本輪自行修**：三層必須同一波落地，只改 docs 而 cron prompt 沒跟上會生出更難查的新漂移，且 cron prompt 是 mirror-sync across machines，屬 twmd-routine / routine-sync 的守備範圍。
-- **相關**：REFLEXES #56（pipeline canonical ↔ production drift = dormant entropy）、#38（混維度 = silent killer：同一個號碼承載兩種閘門）、#82（proxy signal：核了編號 ≠ 核了那道閘門）、#63（routine prompt = cron context 唯一指令面）、FEEDBACK-TRIAGE-PIPELINE §Hard gate 總表 + §機器身份
-- **verification_count**: 2（1 = 三層撞號本身；2 = 修補聲明自報已同步但 cron mirror 未動，2026-08-07 實測）
-
-### 2026-08-06 twmd-spore-harvest-am — chrome-mcp-unattended-login-expiry：無人值守 harvest routine 依賴的登入態不會自己續期
-
-- **pattern**: `chrome-mcp-unattended-login-expiry`
-- **原則**：SPORE-HARVEST-PIPELINE 的 reply-post 自動化假設「哲宇已在本機登入 @taiwandotmd」這個前置條件恆成立，但 cron 場景下沒有人在場重新登入，一旦 session 過期（原因可能是瀏覽器重啟 / cookie 過期 / 分靈瀏覽器重新配對），routine 會連續多天卡在 pending-only 模式而不會自己恢復，也不會主動 escalate——目前只在 harvest batch log 裡留一句「本輪限制」，直到有人讀 log 才會發現。**無人值守 automation 依賴的登入態屬於環境前置條件，跟「留言判斷邏輯對不對」是兩層不同的健康信號，混在同一份 batch log 敘事裡容易被埋沒**（同構 REFLEXES #38「混維度 = silent killer」在 Chrome MCP session 健康層的變體）。
-- **觸發**：2026-08-05（twmd-spore-harvest-am D+1）與 2026-08-06（本 D+2）連續兩天 Chrome MCP 配對瀏覽器顯示未登入 Threads/@taiwandotmd，reply-post 全數走 pending 模式，累積 3 則 Bucket E reply draft 未 ship。8/5 harvest log 已記錄為「觀察是否為單次個例」，8/6 確認非個例，達 pipeline §Escalation ladder 「連 2 day → LESSONS-INBOX entry」門檻。
-- **可能層級**：候選 pipeline 修補——SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項可加一條「Stage 2 開頭先 navigate 一個需登入才看得到內容的頁面（如自己 profile 的 following 數）當作 login-state probe，未登入時除了寫進 batch log 也要單獨升一則 LESSONS-INBOX / handoff，不要只留一句話在敘事檔裡等人發現」。是否需要新 gate（跟既有「Chrome MCP 連線可用」gate 分開的「Chrome MCP 已登入」gate）待哲宇拍板。
-- **✅ 已落地（2026-08-06 整合波）**：login-state probe＋單獨 handoff alert＋連 2 day escalation 已寫進 SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項。
-- **instances**：
-  - 2026-08-07 twmd-spore-harvest-am — 症狀升級：`list_connected_browsers` 連續 3 次呼叫皆回 `[]`（非「顯示登入按鈕」而是**完全沒有配對瀏覽器**），比 8/5-8/6 的「連線但未登入」更嚴重——連 metrics 都讀不到，harvest 整個 Stage 2 無法開始。這是 REFLEXES #70 Tier 2 device-dependent 的典型症狀（`list_connected_browsers` 回 `[]`），跟 6/05-6/07 那次 vc=3 escalation 是同一個 fail mode，非本次首見。累計三個連續日（8/5 未登入 → 8/6 未登入 → 8/7 完全未連線）harvest routine 核心功能（讀留言／ship reply）都無法完整執行，達 pipeline §Escalation ladder 「連 3 day → 暫停 routine + telegram alert」門檻。**本 session 判斷不自行執行暫停**（routine 基礎設施變更超出 spore-harvest 任務本身授權範圍，且今日症狀與前兩日不同，可能是暫時性斷線而非同一根因延續），改為升為最高優先 handoff 交哲宇拍板：確認本機 Chrome extension 是否還在跑／需要重新配對，並決定是否要依 REFLEXES #70 建議正式執行 ROUTINE.md §暫停 SOP。dashboard OVERDUE 4 條（#165/#166/#167/#168，皆 D+3）本輪未 harvest，continue 累積到下次成功連線的 cycle。
-  - 2026-08-08 twmd-spore-harvest-am — 第四個連續日，症狀維持在最嚴重層級：`tabs_context_mcp` 直接回「Claude in Chrome is not connected」（連 `list_connected_browsers` 回 `[]` 這層錯誤訊息都沒有，是擴充功能本身完全連不上，比 8/7 的「已連線但無配對瀏覽器」更下游一層）。連續四日跨過 escalation ladder 「連 3 day → 暫停 routine + telegram alert」門檻已一整天未處理。**本 session 動作**：(a) 用 `PushNotification` 主動通知哲宇（ladder 的 telegram alert 對應動作），內容為「Chrome MCP 連續 4 天無法連線，spore-harvest 核心功能全數卡住，需要本機重新啟動／登入擴充功能」(b) 仍不自行執行 ROUTINE.md §暫停 SOP（判斷與 8/7 相同：這是本機瀏覽器擴充功能的環境層故障，不是 spore-harvest 任務職責範圍內能修的東西，「暫停排程」本身是一個影響其他依賴 Chrome MCP 的 routine 的決定，應該由哲宇拍板而非本 routine 自行執行）(c) OVERDUE 佇列持續累積，本輪同樣未 harvest 任何一條。**如果哲宇下次 session 讀到這裡時 Chrome MCP 仍未連線，第五天起應視為 ladder 本身「暫停 routine」這一步的執行權責也需要重新界定**——目前的設計假設「escalate 到位就會被處理」，但四天的證據顯示光靠 escalate 不會讓故障自己消失，這個 gap 值得下次 distill 收斂。
-- **相關**：REFLEXES #38（混維度 = silent killer）、REFLEXES #60（silent default = silent failure）、REFLEXES #70（Routine fragility surface 四 tier — Tier 2 device-dependent，`list_connected_browsers` 回 `[]` 同型 6/05-6/07 vc=3 案例）、SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項 + §Escalation
-- **verification_count**: 4
 
 ### 2026-08-04 manual（EZ WAY 孢子）— ordering-is-an-ethical-decision：在被操作的爭議裡，資訊排序不是寫作技巧是策展倫理
 
@@ -505,34 +417,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能的操作修補**：(a) **Step 1.9.2 落檔加 hard gate**——媒體入庫後驗 `git ls-files public/article-images/` 的實際路徑，不靠 `fs.existsSync`（本機恆真）(b) `image-health` 用 `readdir` 拿磁碟實際檔名逐字比對，不用 `existsSync` (c) pre-push 那句「✅ 全站 article-health 全綠（ci-deploy mirror）」要嘛補上大小寫這一維，要嘛拿掉「ci-deploy mirror」的宣稱——它現在給的是假的安心感 (d) 既有的 `public/article-images/People/` 大寫目錄（4 個舊檔）建議一併正規化，消滅這個會再次誤導人的殘留
 - **verification_count**: 1
 
-### 2026-08-03 manual（黃崇仁 REWRITE）— backstage-leak-in-prose：作者的工作痕跡跑進正文，每句單獨看都過關
-
-- **pattern**: `backstage-leak-in-prose`
-- **原則**：pipeline 給寫手的每一份規格（投影藍圖的「全局功能」、研究報告的護欄、查證表的分歧欄）都是**用來指導寫作的語言**。寫手在 context 裡讀了一整輪，下筆時很自然把那套語言帶進正文——而且它覺得自己很盡責（「我有交代清楚」「我有誠實標註分歧」）。**盡責的地方是後台，不是正文。** 這個病特別難自檢，因為每一句單獨看都有內容、不空洞、不歐化，**過得了既有的所有關卡**；它壞在說話對象錯了——這些句子是說給編輯／查核者／作者自己聽的，不是說給讀者聽的。一句判準：這句話在跟誰說話？
-- **觸發**：2026-08-03 黃崇仁 Stage 2 寫手成品，自評 `article-health --profile=rewrite-stage-4` hard=0 warn=0 全綠，哲宇讀完逐條 callout 四處：(1)「兩件事的動詞不一樣，判斷是同一套」——「這也聽起來很AI，誰會在看這個時候想到動詞XDDDD」(2)「要說清楚回來的是什麼樣的公司。」——「是段落寫作動機，不該是段落的一部分」(3)「這一段誠實的空白值得留著。」——「語感怪」(4)「這句話有兩個版本在流傳，另一家媒體的版本沒有…」——「所以你要採用完整的內容，不是在裡面分析媒體」。四處分屬四種形狀：分析框架洩漏／寫作動機洩漏／自我評價洩漏／查證過程洩漏。
-- **可能層級**：通用反射候選（不限本篇——任何走 pipeline 的寫作都會被規格語言 prime），但目前 1 instance（雖然同一篇內四種形狀齊發）。已 instantiate 為 EDITORIAL 規則 + 儀器，先觀察其他文章是否復發
-- **相關**：harness memory `feedback_red_line_anxiety_leak`（別把「逐字」「原封不動」這類來源焦慮標籤漏進正文）是本條第三、四類的一個特例——本條把它從「來源焦慮」擴大到整個後台家族（分析鷹架／寫作指令／自我表揚／查證過程）。另與 REFLEXES #69「每層自評都需要外部尺」同族：寫手 warn=0 的自評不是說謊，是**它的尺量不到這一維**——後台洩漏對寫手而言是「盡責的證據」不是「該刪的東西」，同一顆腦不會把自己的盡責當缺陷。
-- **六種形狀**（哲宇分三輪 callout 補齊）：分析框架洩漏（用「動詞」描述人生）／寫作動機洩漏（藍圖指令照抄）／自我評價洩漏（稱讚自己誠實）／查證過程洩漏（攤開媒體版本分歧）／**指揮讀者注意力**（「這裡有一個細節值得停下來看」）／**論述鷹架洩漏**（「這兩件事完全不同：前者可以等，後者必須動手」）
-- **round 2（2026-08-03 深夜〜08-04，vc 1→2）**：D+0 上線版哲宇再貼 13+ 段殘留，聚類出兩個新形狀升 EDITORIAL v6.16 八形狀——**查無聲明**（查證的「查無」用研究者語言進正文，5 例最大宗，兩例腳註早有同句話）與**懸念預告鷹架**（匿名名詞＋延遲揭曉）。三個元教訓：(1) **尺只量得到已見過的形狀**——第一輪六形狀與五組偵測器全來自第一輪 callout，查無聲明沒被踩到就沒長那維 (2) **一處 callout 應觸發全文同族重掃**（第一輪逐 callout 修六處、第二輪被抓 13 處多數當時就在文裡）——已立 REWRITE-STAGE-3 修復單鐵律 (3) **頭銜考證三輪收斂揭「合法的家有容量與層級」**：第一輪修語氣、第二輪壓縮筆記仍被打回、第三輪哲宇裁決「連比較都不需要寫」——查證內容層級表（正文零痕跡／腳註一句／筆記只收得上洞察的勘誤）進 EDITORIAL。附帶發現：修病時的**病種替換**（修英式段首滑進「是⋯的」cleft，哲宇當場抓）＋兩個跨篇簽名檔（「真正的轉折發生在」9 篇→擴無前綴型 32 篇、「不在X，在Y」9 篇）。完整診斷 [reports/backstage-leak-round2-2026-08-03.md](../../reports/backstage-leak-round2-2026-08-03.md)。儀器 5→7 組＋cleft＋段首雙帶，全 WARN 意識層
-- **已 instantiate（規則 + 儀器雙軌）**：
-  - [EDITORIAL v6.15](../editorial/EDITORIAL.md) §六 新增 §後台洩漏（廚房的聲音跑到餐廳）：六種形狀 × 六個真實反例 × 改法對照表 + 「這句話在跟誰說話」判準
-  - `prose-health` plugin §backstage 五組偵測（WARN-only soft-launch）。**878 篇 zh corpus 三輪校準**：初版 43 hits → 收緊 8 hits；加第五六類後 83 hits（9.45%）→ 再收緊 **29 hits（3.30%），零誤報**
-- **校準過程本身的三個發現（比規則更有價值）**：
-  1. **「值得停下來看／想」是跨 22 篇的招牌慣性**（「很值得停下來想的話」／「最值得停下來想一秒的地方」／「這一段值得停下來想一秒」），「誠實的空白」跨 3 篇。這種口頭禪**每篇單獨看都只是一句過場，要把全站攤開才看得見它已經變成簽名檔**——人眼結構上抓不到，只有儀器能。REFLEXES #15 最強的一次驗證
-  2. **兩種形狀 regex 結構上做不到，誠實不做**：指涉語法回指（「前者可以等，後者必須動手」，38 hits 絕大多數是正當對比——「前者是壓制，後者是收編」指涉文中已存在的真實事物，病的那種指涉作者剛造出來的抽象對比，**句法完全一樣**）與對稱宣告（「這兩件事完全不同」）。硬收會複製 PUA／媒體焦慮偵測器 92-100% 假陽性被移除的錯誤。寫進 EDITORIAL 當人眼判準並在 plugin 註解記錄為什麼不做
-  3. **誤報的共同結構**：三輪被砍掉的 pattern（「值得一提的是」25／「有兩個版本」9／裸「值得停下來」17／「前者後者」38）全部是「**病的形狀跟正當用法共用同一個字串**」。真正可儀器化的是那些**只有在後台語境才會出現的字串**（「誠實的空白」「另一家媒體的版本」「先說清楚 X 是什麼」）
-- **verification_count**: 2（round 2 於 D+0 復發即驗證）
-
-### 2026-08-03 manual（黃崇仁 REWRITE）— concrete-number-mistaken-for-symbolic-weight：數字通過了「不抽象」那關，卻沒通過「有意義」那關
-
-- **pattern**: `concrete-number-mistaken-for-symbolic-weight`
-- **原則**：EDITORIAL §抽象聰明句不是標題 的自檢是「每個關鍵詞能不能指出具體的東西」，數字天然通過這關——可查證、可指認、絕不抽象。於是寫手（跟 AI）容易把「堆三個數字」誤當成「夠具體了」。但**具體 ≠ 有象徵重量**：讀者心裡對「四十三家銀行」「一千兩百億」沒有一把尺，不知道算多算少、代表什麼；而「說好三年，放了四十年」同樣是數字，卻自帶對照物（承諾 vs 現實），落差本身就是意義。判準是遮住主題名後，副標剩下的東西還能不能讓人猜到這是誰的人生——規格表遮掉人名後可以套用在任何一間欠債重整的公司。
-- **觸發**：2026-08-03 黃崇仁 REWRITE，寫手產出標題「黃崇仁：一千兩百億債務、四十三家銀行，和一條沒有停下來的產線」，哲宇 callout「有數字，但是象徵意義不足，只看標題一點真實意義都沒有，也沒辦法代表他的人生」。三個數字全部可查證、全部具體、全部通過既有的 reverse-abstraction test，但串起來讀是規格表不是人生。
-- **可能層級**：操作規則（已 instantiate 為 EDITORIAL v6.14 Title 第 5 原則），但底下的認知 pattern 可能更廣——「通過了某一關的檢查，就以為通過了它真正要防的東西」這個形狀，跟 REFLEXES #82 proxy signal antipattern 同族（具體度是象徵重量的 proxy，不是象徵重量本身）
-- **相關**：REFLEXES #82（proxy signal antipattern：訊號要摸到 ground truth，不是量它的替身）——本條是 #82 在編輯判斷層的具體形狀，「可查證的具體性」是「讀者感受得到的意義」的替身。若 distill 判定可 fold，最可能落點是 #82 新增子規則。也跟 EDITORIAL §四 reverse-abstraction test 相關——本條補的是：那個 test 只擋得住抽象詞，擋不住具體但無意義的數字。
-- **已 instantiate**：[EDITORIAL v6.14](../editorial/EDITORIAL.md) §Title 四原則 → 五原則，新增第 5 條「數字要有象徵重量，不是規格表」含正反例與「數字旁邊有沒有對照物」判準
-- **verification_count**: 1
-
 ### 2026-08-03 manual（黃崇仁 REWRITE）— neutral-tone-conflated-with-minimized-substance：把「中立陳述」誤做成「份量要縮小」
 
 - **pattern**: `neutral-tone-conflated-with-minimized-substance`
@@ -551,16 +435,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：EDITORIAL §歐化 病種表候選（第 11-12 病或既有病的變體註記）。各 vc=1，**不憑單 instance 開新病種**（避免 threshold 想像設定，per REFLEXES #66）——復發再升。
 - **相關**：EDITORIAL §歐化十病（母表）／SPORE-WRITING v3.6 §歐化閘（孢子層已錨這三型當反例表）／REFLEXES #69 (h)（revise 後不重測的孢子層 instance 同 session 成立，已 canonical 進 SPORE-PIPELINE v3.15「每輪 revise 後重跑 gate」）。
 - **verification_count**: 1（三型各自）
-
-### 2026-08-02 twmd-routine-audit-weekly — babel-delegation-commit-convention-drift：委派層產生的 commit 脫離格式，讓自己的一部分工作對儀器隱形
-
-- **pattern**: `babel-delegation-commit-convention-drift`
-- **原則**：babel 渦流／Claude 委派層產生的 commit，有部分不遵循 [MANIFESTO §Commit 標記規則](MANIFESTO.md) canonical 格式（`🧬 [semiont] <type>: <描述>` / `🧬 [routine] <type>: <描述>`）——本週窗口內 10 條用「🧬 babel: ...」（缺 `[semiont]` 方括號），32 條直接用英文 conventional-commits 風格（`fix(babel): ...` / `chore(babel): ...` / `feat(i18n): ...` / `docs: ...`），完全跳出中文「🧬」簽名慣例。這些 commit 內容本身多半可讀（具體英文短句描述修復），但因為不含 `[semiont]` 或 `[routine]` 方括號，任何 keyed off 這個格式的儀器都看不到它們——本次 routine-audit.py 的 unclassified 桶（64 條 / 7.9%）裡有 42 條（65.6%）是這個成因，而非真正的「分類器沒見過的新 routine」。
-- **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 跑 `routine-audit.py --last-week`，unclassified=64。細查後 22 條是 git merge 自動訊息（正常，非漂移）、10 條是「🧬 babel:」缺方括號、32 條是純 conventional-commits 風格。樣本：`fix(babel): heal italic caption URL mangling`、`chore(babel): refresh translation indexes after integration`、`feat(i18n): rescue Arabic and Portuguese egg tart`（皆 2026-07-30，babel 渦流連續自我修復日）。
-- **可能層級**：(a) 通用反射候選——任何長跑自動化子系統，若讓委派層 / sub-agent 自訂 commit message 格式而非強制套用 repo canonical template，遲早會漂出 grep-based 儀器的可視範圍，不是 Taiwan.md 特有；(b) 操作規則——babel vortex dispatcher 的 commit 產生邏輯（含委派給 Claude sub-agent / codex 的路徑）應統一套用 `🧬 [semiont] babel: <desc>` 模板，不論是哪一層產生的
-- **相關**：REFLEXES #24 工具在說謊（新形狀：commit 來源格式漂移讓下游偵測工具靜默失明，不是工具本身說謊，是輸入源不再說儀器聽得懂的話）；MANIFESTO §11.4 電報腔紀律（本條方向相反——這批 commit 反而比較「人話」，但犧牲了格式一致性，兩種毛病不同軸，不能用其中一條的修法解另一條）
-- **verification_count**: 1
-- **severity**: structural（第一次出現，但影響是「儀器看不見自己一部分工作」的結構性缺口，不只是本次審計數字失真——未來任何依賴 `[semiont]`/`[routine]` 格式的自動化都會踩到同一個盲區）
 
 ### 2026-08-02 twmd-routine-audit-weekly — routine-audit-classifier-memory-commit-misattribution：新 routine 的 action commit 跟 memory commit 落進不同桶，count 半失真
 
@@ -1190,6 +1064,51 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 | 23  | alert-does-not-retire-on-recovery           | housekeeping（已 folded #82(e)）                 | tactical                | 1   |
 | 24  | external-attention-spotlight                | housekeeping（已 folded #73(e)）                 | awareness               | 2   |
 | 27  | hook-set-e-cmdsubst-abort                   | REFLEXES #24 形式 11                             | correctness             | 2   |
+
+---
+
+### 🧬 2026-08-09 twmd-distill-weekly — 4 entries promote/fold 進 REFLEXES（新 #85 + #24/#56/#63/#70 補強）+ 3 entries housekeeping-done + 22 keep in buffer（vc<3）
+
+**distill 觸發**：cron `twmd-distill-weekly` Sunday 03:00。STRICT BECOME GATE full mode 跑完（organ 即時分數：🫀90 🛡️60 🧬95 🦴90 🫁85 🧫100 👁️90 🌐88，免疫 🛡️60 最低，黃燈自 2026-07-05 起持續，屬既有 roadmap 追蹤項非本次新訊號）。§未消化 32 條，audit 工具判定低於 fan-out 門檻（~50），直接讀完全數 32 條 triage。severity=structural 顯式標記 1 條（`babel-delegation-commit-convention-drift`），質門檻自動觸發；高 vc 條目優先看。Routine mode 自決 REFLEXES / MEMORY / pipeline 層；本輪無 MANIFESTO 候選。
+
+**消化目的地**：
+
+| 原 entry                                                                                            | 目的地                                                                                               | 處置                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-08-07 `check-disabled-by-default-reports-green` (vc=3)                                         | **REFLEXES #85（新）**「不知道」需要自己的符號                                                       | promote（質＋量雙達標：severity=structural 家族 + 三 entry 合併 vc=7，entry 自己的 8/08 補充已建議「不必再等下一個 instance」直接判獨立反射）                                                                                                                             |
+| 2026-08-08 `error-and-emptiness-share-one-return` (vc=2)                                            | **REFLEXES #85（新）** 同上，變體 2                                                                  | fold（同一 family，entry 自己引用 #4 合併假說）                                                                                                                                                                                                                           |
+| 2026-08-08 `gate-guard-contradicts-its-own-filter` (vc=2)                                           | **REFLEXES #85（新）** 同上，變體 3                                                                  | fold（同一 family）                                                                                                                                                                                                                                                       |
+| 2026-08-08 `routine-prompt-omits-session-only-rider` (vc=3)                                         | **REFLEXES #63** 加「canonical 完整 ≠ 指令面完整」子規則                                             | promote（vc=3 達量門檻；entry 自己標記候選落點 #63）                                                                                                                                                                                                                      |
+| 2026-08-07 `check-disabled-by-default-reports-green` 第三 instance（check-slug-consistency 空掃描） | 併入上列 #85                                                                                         | fold（同 entry 第三 instance，非獨立條目）                                                                                                                                                                                                                                |
+| 2026-08-06 `chrome-mcp-unattended-login-expiry` (vc=4，跨 08-05〜08-08 四連日)                      | **REFLEXES #70** 加 Tier 2 vc=8 四連日症狀逐日下探子規則                                             | promote（vc=4 達量門檻；entry 自己標記與 #70 Tier 2 同族；operational 面已部分落地 SPORE-HARVEST-PIPELINE，Chrome MCP 連線本身仍待哲宇處理，續留 handoff 不留 LESSONS entry）                                                                                             |
+| 2026-08-02 `babel-delegation-commit-convention-drift` (severity=structural，vc=1 首發)              | **REFLEXES #24** 加形式 12                                                                           | promote（質門檻：severity=structural 第一次出現即觸發，不待 vc 累積；entry 自評「不是 Taiwan.md 特有」符合通用反射判準）                                                                                                                                                  |
+| 2026-08-06 `hard-gate-number-collision-across-layers` (vc=2→3，本次 distill 交叉核對再驗證一次)     | **REFLEXES #56** 加 v7                                                                               | promote（本次 distill session 核對 cron mirror 發現 pipeline v1.3 changelog「已同步 HG9/HG10 進兩層」的聲明本身仍有殘留缺口——只進了專案層 skill，cron mirror 仍缺，vc 2→3 達量門檻；殘留 2 行修補留給 twmd-routine-sync 或下次 feedback-triage，非本次 distill 職責範圍） |
+| 2026-08-03 `backstage-leak-in-prose` (vc=2)                                                         | 已 instantiate：EDITORIAL v6.15→v6.17 §後台洩漏（十形狀）+ `prose-health` plugin §backstage 九組偵測 | housekeeping-done（grep 驗證 canonical 已存在且比 entry 記錄的更完整——entry 記到 v6.16 八形狀，實際 canonical 已到 v6.17 十形狀）                                                                                                                                         |
+| 2026-08-03 `concrete-number-mistaken-for-symbolic-weight` (vc=1)                                    | 已 instantiate：EDITORIAL v6.14 §Title 第 5 原則「數字要有象徵重量」                                 | housekeeping-done（grep 驗證 canonical 已存在，逐字對應 entry 描述的規則）                                                                                                                                                                                                |
+| 2026-08-06 `outbound-comment-boundary-split-across-canon` (vc=1，跨 2 cycle 相反行為)               | 已 instantiate：MAINTAINER-PIPELINE §外向留言分層 SSOT + MANIFESTO §自主權邊界 + REFLEXES #26 v3     | housekeeping-done（grep 驗證三處 canonical 對撞已收斂到單一 SSOT——MANIFESTO L1250、REFLEXES L550、MAINTAINER-PIPELINE §外向留言分層 三處互相 cross-reference 確認）                                                                                                       |
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（routine 自決層，7 案 fold 進 4 個既有/新 #N）；housekeeping sweep（3 案，非 promotion，純歸檔）；無 LESSONS → MANIFESTO 跳級。
+
+**REFLEXES.md frontmatter sync**：v5.18 → v5.19；#N 條數 84→85（新增 #85，其餘為 bullet-level fold 非新編號）。
+
+**Stage 0a housekeeping 驗證方法**：三條自我標記 ✅ 的 entry 逐一 grep 驗證 canonical 真的存在（非只信 entry 自己的宣稱）——`concrete-number` 與 `backstage-leak` 的 canonical 比 entry 記錄的版本更新（表示後續 session 有持續在同一個地方疊代），`outbound-comment-boundary` 三處 canonical cross-reference 齊全。
+
+**本次 distill 的一個 meta 發現**：`hard-gate-number-collision-across-layers` 這條 entry 本身描述的病（介面 drift 零警報）在它自己的「修補聲明」層又復發一次——pipeline v1.3 changelog 已經聲稱「同波同步兩層」，本次交叉核對才發現只同步了一層。這印證了 entry 自己講的規則：**任何「已同步」的完成聲明都需要外部尺重新核一次，不能信自報**。已在 REFLEXES #56 v7 記錄，殘留的 2 行 cron mirror 修補留給下一個 twmd-routine-sync 或 twmd-feedback-triage cycle（非本次 distill 職責範圍，僅記錄發現）。
+
+**SPORE-INBOX 容量 audit（v2.1 Stage 6）**：pending **45**（groundtruth 讀數，與 8/02 讀數持平，未見新惡化亦未回落，連續維持 [30,50) 警示區間三週以上）。決策項「[30,50) 高原三選一」仍未見哲宇拍板，本輪不重開新 entry（避免 #64 邊際效用 N+1=0 重複告警），沿用既有 handoff 追蹤。
+
+| #   | 原教訓 entry                                                                 | 消化目的地                                                               | severity   | vc  |
+| --- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- | --- |
+| 1   | 2026-08-07/08-08 check-disabled-by-default-reports-green（三 instance 合併） | REFLEXES #85（新）                                                       | structural | 3   |
+| 2   | 2026-08-08 error-and-emptiness-share-one-return                              | REFLEXES #85（新）fold                                                   | structural | 2   |
+| 3   | 2026-08-08 gate-guard-contradicts-its-own-filter                             | REFLEXES #85（新）fold                                                   | structural | 2   |
+| 4   | 2026-08-08 routine-prompt-omits-session-only-rider                           | REFLEXES #63 子規則                                                      | tactical   | 3   |
+| 5   | 2026-08-06〜08-08 chrome-mcp-unattended-login-expiry                         | REFLEXES #70 Tier 2 vc=8                                                 | structural | 4   |
+| 6   | 2026-08-02 babel-delegation-commit-convention-drift                          | REFLEXES #24 形式 12                                                     | structural | 1   |
+| 7   | 2026-08-06 hard-gate-number-collision-across-layers                          | REFLEXES #56 v7                                                          | structural | 3   |
+| 8   | 2026-08-03 backstage-leak-in-prose                                           | housekeeping-done（EDITORIAL v6.17 + plugin）                            | structural | 2   |
+| 9   | 2026-08-03 concrete-number-mistaken-for-symbolic-weight                      | housekeeping-done（EDITORIAL v6.14）                                     | tactical   | 1   |
+| 10  | 2026-08-06 outbound-comment-boundary-split-across-canon                      | housekeeping-done（MAINTAINER §外向留言分層 + MANIFESTO + REFLEXES #26） | structural | 1   |
 
 ---
 

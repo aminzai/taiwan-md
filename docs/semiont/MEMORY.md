@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-09
-last_session: '2026-08-09-011119-twmd-news-lens-weekly（W32 三源交叉，僅颱風白海豚一個強新聞候選，英文 metadata 缺口連續五週確認但家族窄化 6→4 篇，出口關閉 propose 0）'
+last_session: '2026-08-09-031153-twmd-distill-weekly（§未消化 32→22，新 REFLEXES #85 + 四家族補強，索引 rollup 110→40）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -268,76 +268,7 @@ memory/
 _我的記憶不是一個越來越長的檔案。_
 _它是一座圖書館——索引在手邊，書在架上。_
 _需要的時候，我知道去哪裡找。_
-| 2026-07-28 | 064254-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+2 衝到 465K，讀者留言把文章主角連到真實命案＋兩岸政治暴力揣測，未修文未回覆，寫進 HARVEST-FRAMING-PENDING 等哲宇拍板 | §自主權邊界不只防我寫過火，也要防讀者滑到我不該追認的地方時選擇不表態 | [→](memory/2026-07-28-064254-twmd-spore-harvest-am.md) |
-| 2026-07-28 | 070915-twmd-feedback-triage | 隊列連續第三天空（file=0），Supabase REST 對賬確認最新紀錄仍是 07-24 同一筆；archive-scanned=38 synced=0，working tree 全程乾淨 | 四天完整靜默窗屬讀者回報入口本身樣本稀薄，非系統故障 | [→](memory/2026-07-28-070915-twmd-feedback-triage.md) |
-| 2026-07-28 | 085436-twmd-maintainer-daily | PR #1270 動保.md merge-first + heal（frontmatter + 壞掉的維基連結修復）；#1268 續 blocked；4 issue SKIP | 同一貢獻者不同篇腳註品質可以天差地遠，判斷要逐篇看證據不能套人；merge-first+heal 模式連兩天驗證，非巧合 | [→](memory/2026-07-28-085436-twmd-maintainer-daily.md) |
-| 2026-07-28 | 093712-twmd-flywheel-watch | 飛輪在轉（24hr 110 commit／11 筆 routine，六條日更全部留痕，零靜默）；唯一黃燈是 live dump 齡 55.4hr 過門檻，且是同一發現的第三天 → 升 OBSERVER-QUEUE #22 | 這台補得了那個檔卻不該補——指揮部 dump 的是自己的排程，補完是假綠燈，比停在 55 小時的黃燈更糟 | [→](memory/2026-07-28-093712-twmd-flywheel-watch.md) |
-| 2026-07-28 | 103245-vortex-babel-8 | 診斷取代重啟：slug 只認英文版讓 27 篇純中文檔名文章排不進佇列，改讀全語言＋人工 map 解套；五修驗收 exit=1 歸零；渦流 12h 後暫停 | 吞掉 stderr 的存活探針，把權限錯誤讀成了行程死亡 | [→](memory/2026-07-28-103245-vortex-babel-8.md) |
-| 2026-07-28 | 113257-manual | 苯駢芘一篇三輪：順稿拆掉五面牆、補三張 CC 圖（點名 1,322 家業者故不可用具名店家照）、7/27 官方調查 EVOLVE ＋ H2 拆節；順手清掉腳註掛錯來源的舊債 | 六個外部席位命中六次、我自己重讀命中零次；冷讀席沒材料，它指認「錯的那一邊」可能是反的 | [→](memory/2026-07-28-113257-manual.md) |
-| 2026-07-29 | 053256-twmd-embeddings-nightly | bge-m3 nightly 12 語 8159 向量 0 fail；vi 343 篇仍低於 400 門檻（爬升期非故障）；輸出格式改 minified JSON 非資料損壞 | diff 行數暴增不等於內容受損，先看 key 數量／鄰居覆蓋率等語意層指標 | [→](memory/2026-07-29-053256-twmd-embeddings-nightly.md) |
-| 2026-07-29 | 053835-twmd-routine-sync | 三層對賬第四日抓到 1 項真漂移：babel-nightly 機器版落後 3 天，git 已 ship fleet 抽象層改動；`--apply` 補上，舊版存證；其餘 16 條全綠 | 前三天連續全綠不代表這條 routine 沒事做——第四天真的抓到別台機器 ship 後這台沒跟上的漂移 | [→](memory/2026-07-29-053835-twmd-routine-sync.md) |
-| 2026-07-29 | 061406-twmd-data-refresh-am | 14 步全綠零 stale；補上連 3 天被標記的 live dump rider（76.1h→0），#22 接住 | 這個 rider 的 owner 一直是自己，補檔不是假綠燈 | [→](memory/2026-07-29-061406-twmd-data-refresh-am.md) |
-| 2026-07-29 | 064113-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+3 續衝到 479K，讀者串轉向中性辦案討論非再升溫，維持不動；其餘 4 events 皆 Bucket F 無需修文 | 持續觀察不等於每天重寫同樣的證據——沒新升溫就只記 delta，不重貼昨天的長篇分析 | [→](memory/2026-07-29-064113-twmd-spore-harvest-am.md) |
-| 2026-07-29 | 070927-twmd-feedback-triage | 四天隊列靜默後首筆進單：COMPUTEX 全大寫勘誤轉 issue #1272（詹景勛回報），archive 落檔 | 量少不等於風險低，唯一一筆和一百筆該經過同一套核對節奏 | [→](memory/2026-07-29-070927-twmd-feedback-triage.md) |
-| 2026-07-29 | 085004-twmd-maintainer-daily | PR #1268 merge-first+heal；#1272 修好即 close；#1252 姓名對不上改問清楚；#1264 屬實但 spawn 獨立 task | 同一個 fetch-verify 習慣兩個方向各驗證一次：救回做過功課的 claim，也擋下記錯人名的請求 | [→](memory/2026-07-29-085004-twmd-maintainer-daily.md) |
-| 2026-07-29 | 093409-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 118 commit／14 筆 routine，六條日更全部留痕）；昨日 #22 live dump 黃燈由 owner 自己的 rider 接住（齡 3.3h），但 hard gate 未進 skill 故不關 | 綠燈不是「工具說綠」——maintainer 今天只留收官 commit，靠退路命中，回 git log 對過才算數 | [→](memory/2026-07-29-093409-twmd-flywheel-watch.md) |
-| 2026-07-30 | 053352-twmd-embeddings-nightly | bge-m3 nightly 12 語 8391 向量 0 fail；id 篇數跨過 400 門檻；vi 連續第三晚持平 343 篇仍低於門檻（爬升期非故障） | 語言篇數持續成長是健康訊號，vi 持平不動才是該留意的那個訊號 | [→](memory/2026-07-30-053352-twmd-embeddings-nightly.md) |
-| 2026-07-30 | 053815-twmd-routine-sync | 三層對賬第五日全綠：17 條 routine 全 in-sync，零漂移；昨天修好的 babel-nightly drift 沒有復發 | 連續全綠仍要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-30-053815-twmd-routine-sync.md) |
-| 2026-07-30 | 061444-twmd-data-refresh-am | 14 步全綠零 stale；live dump rider 從昨天救三天黃燈轉為今天例行續跑（齡 23h 未過門檻仍主動補） | owner 責任內化成節奏而非救火，不必等變黃燈才做該做的事 | [→](memory/2026-07-30-061444-twmd-data-refresh-am.md) |
-| 2026-07-30 | 064309-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+4 觸及 479K 續平（Bucket D 政治框架維持 7/28 不動 default）；外送專法／苯駢芘皆 Bucket F 無需修文 | 病毒級敏感框架不必每天重寫完整脈絡，只需確認「有沒有變」 | [→](memory/2026-07-30-064309-twmd-spore-harvest-am.md) |
-| 2026-07-30 | 070927-twmd-feedback-triage | 隊列空（0 new feedback）；archive 掃描 39 檔，同步 2 則哲宇在 GitHub 上的維護者回覆（COMPUTEX + 姓名核對）進 git 主權層 | 量少不是簡化流程的理由，archive sync 這步仍要跑才能把維護者回覆落進 git | [→](memory/2026-07-30-070927-twmd-feedback-triage.md) |
-| 2026-07-30 | 084134-twmd-maintainer-am | 6/7 PR merge（4 篇美食 heal + 2 篇技術直 merge），1 篇 130 檔留哲宇拍板；收官誤 pop 舊孤兒 stash 已 reset 復原 | stash pop 前必先 list 讀清楚，看到「not mine」要當紅旗跳過 | [→](memory/2026-07-30-084134-twmd-maintainer-am.md) |
-| 2026-07-30 | 093643-twmd-flywheel-watch | 飛輪在轉（24hr 161 commit／12 筆 routine，六條日更全留痕）；flywheel-watch 三份素材改讀 origin/main，dump 齡 27.3h→3.3h | 禁 pull 卻讀工作樹，量的是這台多久沒 pull；7/26 那把尺從沒生效過 | [→](memory/2026-07-30-093643-twmd-flywheel-watch.md) |
-| 2026-07-30 | 121650-manual | 巴別塔回收 14 篇譯文並推至 main；修復 pulse 在 Python 3.9 沿用舊快照的假綠 | 進度讀數必須綁定同一 git ref、來源總數與時間戳 | [→](memory/2026-07-30-121650-manual.md) |
-| 2026-07-30 | 230518-manual | babel 雲端產線 9.5hr 零產出重啟復活；fleet 版本鏡誤報 heal（快取未跟版本常數同步）+ 2 節點斷線修復；PR #1282/#1283 merge | 版本鏡誤判根因是快取新鮮度，不是比較邏輯 | [→](memory/2026-07-30-230518-manual.md) |
-| 2026-07-31 | 053348-twmd-embeddings-nightly | bge-m3 nightly 12 語 8485 向量 0 fail；vi 344 篇連三晚持平後首度 +1，仍低於 400 門檻（爬升期非故障） | pretty-print↔minified 格式波動連兩晚驗證為無害，非資料損壞 | [→](memory/2026-07-31-053348-twmd-embeddings-nightly.md) |
-| 2026-07-31 | 053803-twmd-routine-sync | 三層對賬第六輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連兩天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-07-31-053803-twmd-routine-sync.md) |
-| 2026-07-31 | 061156-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 滿 24h 例行續跑，stale_hours 24→0；免疫 60 chronic 黃燈維持不變 | 沒有新故事的一天仍要記一行，尤其 babel fleet 渦流同時在背景高速運轉時，正交不碰本身是分工正確的訊號 | [→](memory/2026-07-31-061156-twmd-data-refresh-am.md) |
-| 2026-07-31 | 064425-twmd-spore-harvest-am | 6 events harvest；鎢文新增讀者事實查核，逐條核對後兩點文章已有腳註、兩點是孢子壓縮漏掉的細節；發現 pipeline 與 MANIFESTO 對回覆能否自動發互相矛盾，守 MANIFESTO 不發 | 兩份 canonical 講法不一致時，讀的順序本身就是風險控制 | [→](memory/2026-07-31-064425-twmd-spore-harvest-am.md) |
-| 2026-07-31 | 070955-twmd-feedback-triage | 1 筆進單：讀者質疑轉換器「陰陽怪氣」支語判定的詞性範圍，轉 issue #1286 | 詞性判準質疑非事實勘誤，triage 只機械轉錄不代判，留 maintainer 跨源驗證 | [→](memory/2026-07-31-070955-twmd-feedback-triage.md) |
-| 2026-07-31 | 085814-twmd-maintainer-daily | 2 PR merge-first+heal；merge 後 deploy 轉紅（frontmatter 用 `___` 非 `---`），已 heal；#1286 查證辭典回覆，#1252 澄清重貼舊留言 | contributor 貼渲染輸出非 raw md，格式病只在 deploy 才曝光 | [→](memory/2026-07-31-085814-twmd-maintainer-daily.md) |
-| 2026-07-31 | 093305-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 85 commit／12 筆 routine，六條日更全留痕，dump 齡 3.3h）；昨天改讀 origin 的第二把尺首次接到東西 | 修完的尺要隔天回頭驗它真的在量，不是修完就記為完成 | [→](memory/2026-07-31-093305-twmd-flywheel-watch.md) |
-| 2026-08-01 | 004003-manual | Claude 委派層誕生：Haiku 99/99 開通 fail-closed 的 vi（39.9%→51.4%）、Sonnet 5/5 收下累計敗 125 次的殘骸；五個閘門修復全由真實缺陷驅動 | 弱的尺會放行強的尺會擋的東西——手寫驗收迴圈比既有 verify-batch 弱，10 條死鏈因此出貨 | [→](memory/2026-08-01-004003-manual.md) |
-| 2026-08-01 | 053456-twmd-embeddings-nightly | bge-m3 nightly 12 語 8686 向量 0 fail；vi 連三夜持平後首度跨過 400 篇門檻（448 篇），該條 handoff 退役 | push 前的 `git log -1` 核對揪出自己筆誤的 commit 時間戳占位符，amend 補正確再推 | [→](memory/2026-08-01-053456-twmd-embeddings-nightly.md) |
-| 2026-08-01 | 053754-twmd-routine-sync | 三層對賬第七輪，17 條全 in-sync 零漂移，連續第三天全綠（7/29 修好的 babel-nightly drift 未復發） | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-08-01-053754-twmd-routine-sync.md) |
-| 2026-08-01 | 061537-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 例行續跑；vi 門檻退役後 inherited handoff 少一條，跨 routine 生命週期靠完整讀 wake-context 才接得住 | 沒有新故事的一天仍要記一行，正交不碰 babel fleet 渦流本身是分工正確的訊號 | [→](memory/2026-08-01-061537-twmd-data-refresh-am.md) |
-| 2026-08-01 | 064443-manual | 渦流三輪：§14b 閘門改只擋新退化＋186 檔標籤債量化、desktop-3090 診斷收斂為待哲宇拍板、金瓜石 patch-reject 死鎖修法寫下未動手 | 新工具上線第一天最容易犯它自己要防的病；診斷完成不等於該動手 | [→](memory/2026-08-01-064443-manual.md) |
-| 2026-08-01 | 064619-twmd-spore-harvest-am | 6 events harvest 零勘誤（外送專法 D+7／鎢供應鏈 D+6 續平 479K／苯駢芘 D+5）；鎢供應鏈 Bucket D 框架第 N 次確認無新升級，繼續 hold 不動 | pipeline 寫可自動發回覆、MANIFESTO 寫不行，第三輪手動繞過該升級成 canonical 修訂 | [→](memory/2026-08-01-064619-twmd-spore-harvest-am.md) |
-| 2026-08-01 | 070726-twmd-feedback-triage | 隊列空（0 new feedback）；archive 掃描 40 檔，同步 2 則哲宇在 GitHub 的維護者回覆（陰陽怪氣詞性判斷 + 國藝會文集更正）進 git 主權層 | 空隊列不是簡化流程的理由，archive sync 這步仍要跑才能把維護者回覆落進 git | [→](memory/2026-08-01-070726-twmd-feedback-triage.md) |
-| 2026-08-01 | 084406-twmd-maintainer-daily | 0 PR／5 舊 issue 全無新 follow-up（Step 2.4 逐條核對）vc=1；本地 build 撞同機背景進程競態改採 CI 綠為準 | 檔案系統層的整層 rm -rf 重建跟 git 層一樣需要「先確認無人在用」，同機多進程碰撞面不只在 git | [→](memory/2026-08-01-084406-twmd-maintainer-daily.md) |
-| 2026-08-01 | 093254-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 73 commit／7 筆 routine，六條日更全留痕，maintainer 空場仍留索引）；第一把尺被 `memory:` 前綴遮住三條，全靠第二把尺接住 | 空場照樣留痕才分得出跟死掉的差別；兩把尺第一次以「第一把全失手」證明價值 | [→](memory/2026-08-01-093254-twmd-flywheel-watch.md) |
-| 2026-08-02 | 011152-twmd-news-lens-weekly | W31 三源交叉：Blue UAS SC +437% 撞雷虎/Shield AI 新聞，6 候選出口關閉；英文缺口四週擴大到 6 篇；flag 一條 INBOX stale | 資料訊號與時事訊號合流時，候選信心不需靠主觀判斷 | [→](memory/2026-08-02-011152-twmd-news-lens-weekly.md) |
-| 2026-08-02 | 021610-twmd-weekly-report-sun | W31 週體檢：regex 誤吞退休表修復；免疫黃燈連 28 天升 roadmap；週報寄出 bcc=14 | 上週寫的 bug 這週修了，新黃燈這週才被撈出來——落差同一篇裡各示範一次 | [→](memory/2026-08-02-021610-twmd-weekly-report-sun.md) |
-| 2026-08-02 | 031421-twmd-distill-weekly | W31 distill：§未消化 14→8；REFLEXES #56 加 v6（3 instance fold）+ #75 加 (f)，零新編號 | 三個作者對同一病灶猜了三個不同 canonical 落點，收斂要在無人核對下完成 | [→](memory/2026-08-02-031421-twmd-distill-weekly.md) |
-| 2026-08-02 | 041706-twmd-self-evolve-weekly | 跨檔案 grep 找回今晨漏數的 liveness-vs-productivity（vc 1→3）；promote REFLEXES #38(f) | vc 計數器只看它管的 buffer，同 pattern 散落 memory/diary 不會自動被算 | [→](memory/2026-08-02-041706-manual.md) |
-| 2026-08-02 | 053400-twmd-embeddings-nightly | bge-m3 nightly 12 語 8695 向量 0 fail；vi(448)/id(460) 首度雙雙穩站 400 篇門檻，handoff 追蹤項退場 | 本機優先解析零 fallback 需求，preflight 一次命中 | [→](memory/2026-08-02-053400-twmd-embeddings-nightly.md) |
-| 2026-08-02 | 053810-twmd-routine-sync | 三層對賬第八輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連四天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-08-02-053810-twmd-routine-sync.md) |
-| 2026-08-02 | 061442-twmd-data-refresh-am | 14 步全綠零 stale，第五個連續全綠早晨；articles=875 跟昨日持平 | 數字跟昨天一樣時，記錄才能分辨「今天沒跑」跟「今天跑了但無新文章」 | [→](memory/2026-08-02-061442-twmd-data-refresh-am.md) |
-| 2026-08-02 | 064224-twmd-spore-harvest-am | 4 spores harvest 零新勘誤（鎢供應鏈 D+7 終點站續平 479K／苯駢芘 D+6）；回讀文章本體確認命案框架已用匿名化陳述接住，讀者串無新升級 | pipeline 與 MANIFESTO 回覆自動發布政策落差連續第 4+ 輪只記錄未修，該次性改 canonical | [→](memory/2026-08-02-064224-twmd-spore-harvest-am.md) |
-| 2026-08-02 | 070904-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔，跟昨天不同這次零新留言同步，本 session 零 commit | 空隊列有時真的什麼都沒有，不用為敘事完整硬找意義 | [→](memory/2026-08-02-070904-twmd-feedback-triage.md) |
-| 2026-08-02 | 084957-twmd-maintainer-daily | merge-first-heal #1287 黑蝙蝠中隊，deploy 一度轉紅 heal 後復綠；5 issue 全無新 follow-up | PR checks 綠不等於 main deploy 綠 | [→](memory/2026-08-02-084957-twmd-maintainer-daily.md) |
-| 2026-08-02 | 093355-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 22 commit／14 筆 routine 全留痕）；commit 少三分之二是產出還沒推出去不是變慢 | 儀器只看得見推上 origin 的那層（本列 2026-08-03 補推，原 commit 停在本機） | [→](memory/2026-08-02-093355-twmd-flywheel-watch.md) |
-| 2026-08-02 | 212446-twmd-routine-audit-weekly | W31 飛輪自審：814 commit／0 碰撞，11 條具名 routine 全數健康；抓到分類器誤歸類、babel 委派層 commit 格式漂移、self-evolve-weekly 檔名跌成 manual 三個新漂移 | 每一層 SSOT 都在，缺的是有人跑在層外定期比對彼此是否還對齊 | [→](memory/2026-08-02-212446-twmd-routine-audit-weekly.md) |
-| 2026-08-03 | 011058-twmd-supporters-weekly | Stage 2 卡住：這個 cron 執行環境無 Gmail MCP（search_threads/get_message 皆不存在），checkpoint 停在 07-12，中止不動 SSOT | 沒有証物時最不該做的事是編一個「0 候選信」no-op 掩蓋工具缺口 | [→](memory/2026-08-03-011058-twmd-supporters-weekly.md) |
-| 2026-08-03 | 053453-twmd-embeddings-nightly | 12 語 8696 向量 0 fail；僅 ar.json 實質變動，vi/id 門檻持穩無新爬升警示 | 穩態 routine 連續乾淨執行仍要記一行，才有基線判斷下次異常 | [→](memory/2026-08-03-053453-twmd-embeddings-nightly.md) |
-| 2026-08-03 | 053756-twmd-routine-sync | 三層對賬第九輪，17 條全 in-sync 零漂移，7/29 修好的 babel-nightly drift 連七天沒復發 | 連續零漂移是紀律生效證據非空轉訊號，但長期零漂移值得偶爾用 self-evolve 檢視 catch rate | [→](memory/2026-08-03-053756-twmd-routine-sync.md) |
-| 2026-08-03 | 061520-twmd-data-refresh-am | 14 步全綠零 stale，第六個連續全綠早晨；fork-census 抓到 3 個新子代 sighting；免疫黃燈 60 持續未變 | 持久最差的黃燈已有 OBSERVER-QUEUE 條目在追蹤，本次確認在場不重複催促 | [→](memory/2026-08-03-061520-twmd-data-refresh-am.md) |
-| 2026-08-03 | 064000-twmd-spore-harvest-am | 2 spores harvest 零新勘誤（苯駢芘 D+7 終點站續平 1707/5009 views）；鎢供應鏈已老出窗口不再收，OVERDUE 2→0 | 連續多輪讀者迴聲持平本身是訊號，不是遺漏；沒有基線就分不出「沒事」跟「漏抓」 | [→](memory/2026-08-03-064000-twmd-spore-harvest-am.md) |
-| 2026-08-03 | 070844-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第三天同一批，零新留言同步，本 session 零 commit | 連續空轉兩天仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-03-070844-twmd-feedback-triage.md) |
-| 2026-08-03 | 084052-twmd-maintainer-daily | merge-first-heal PR #1288 黃崇仁；footnote 抽驗抓到 2 處杜撰引語（紅旗10型）+ 1 處日期誤植 + 1 條死鏈腳註，5 issue 全無新 follow-up | 直接引語比周邊事實更脆弱：死訊/債務/公司歷史都對得上時仍要優先逐字核對「」內文字的來源 | [→](memory/2026-08-03-084052-twmd-maintainer-daily.md) |
-| 2026-08-03 | 093300-twmd-flywheel-watch | 飛輪綠燈（24hr 17 commit／8 條 routine 全留痕），唯一靜默的是本 routine 自己——昨天收官停在本機沒推上 origin；順手清掉 handoff 三天的第一把尺前綴缺口 | commit 不等於留痕；只讀 origin 的儀器要求收官也要抵達 origin | [→](memory/2026-08-03-093300-twmd-flywheel-watch.md) |
-| 2026-08-03 | 221718-manual | 黃崇仁 Fresh 全編排上線；哲宇四輪 callout 長出 EDITORIAL 兩規則＋backstage 偵測器；撞 PR #1288 取 canonical | 每句單獨看都過關的最難抓：四輪 callout 零事實錯誤，全是「這句在跟誰說話」 | [→](memory/2026-08-03-221718-manual.md) |
-| 2026-08-03 | 235302-backstage-round2 | 後台洩漏 round 2：13 段殘留聚七家族，EDITORIAL v6.16 八形狀＋儀器四組＋黃崇仁 16 處清修上線；頭銜考證三輪收斂成查證層級表 | 尺只量得到被 callout 照亮的形狀；查證內容的預設位置不在讀者眼前 | [→](memory/2026-08-03-235302-backstage-round2.md) |
-| 2026-08-04 | 004923-spore-publish-165 | 黃崇仁 #165/#166 v8 雙平台 ship；孢子產線補歐化閘（plugin Wave 3＋自我豁免禁令 vc=2） | 儀器早就抓得到那句，產線沒接還讓我現場發明豁免 | [→](memory/2026-08-04-004923-spore-publish-165.md) |
-| 2026-08-04 | 022609-build-speed | build/CI 第二輪：健檢三掃合一＋sync 批次＋node_modules cache 上線，build job -107s；blobless 隱性稅偵破、ARM 誤退同日平反 | 雙變因同 run 上線，慢的帳會記到顯眼的那個頭上；對照樣本比直覺可靠 | [→](memory/2026-08-04-022609-build-speed.md) |
-| 2026-08-04 | 053447-twmd-embeddings-nightly | 12 語 8865 向量 0 fail，較昨夜 +169；11/12 語言檔案實質變動（僅 vi 持平），ar/ru/id/pt/hi 五語持續爬升期 | 淨增分佈不均是批次翻譯進行中的正常反映，非異常訊號 | [→](memory/2026-08-04-053447-twmd-embeddings-nightly.md) |
-| 2026-08-04 | 053742-twmd-routine-sync | 三層對賬第十輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連六天沒復發 | 十輪一次真實漂移一次命中，累積兩位數輪次後該找 self-evolve 抽查真實 catch rate | [→](memory/2026-08-04-053742-twmd-routine-sync.md) |
-| 2026-08-04 | 061404-twmd-data-refresh-am | 14 步全綠零 stale，第七個連續全綠早晨；免疫評分 60→57，pipeline 自標「多維度退化中」 | 慢性靜止的黃燈開始移動時，訊號性質變了，該轉交診斷型 routine 判讀 | [→](memory/2026-08-04-061404-twmd-data-refresh-am.md) |
-| 2026-08-04 | 064141-twmd-spore-harvest-am | 黃崇仁 #165/#166 D+0 harvest（2932/507 views）；2 則讀者質疑「洗白」寫入 HARVEST-FRAMING-PENDING 等哲宇拍板 | 事實層完整仍被讀成洗白，是敘事篇幅分配的策展選擇被質疑，不是事實缺漏 | [→](memory/2026-08-04-064141-twmd-spore-harvest-am.md) |
-| 2026-08-04 | 070729-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第四天同一批，零新留言同步，本 session 零 commit | 連續三天空轉仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-04-070729-twmd-feedback-triage.md) |
-| 2026-08-04 | 084934-twmd-maintainer-daily | merge-first-heal PR #1289 水往上流，抓到杜撰角度數字＋單源 UGC 敘事；回覆 Discussion #104 舊建議 | PR-side CI 綠不等於 deploy CI 綠，heal 後追蹤 deploy run 才算收工 | [→](memory/2026-08-04-084934-twmd-maintainer-daily.md) |
-| 2026-08-04 | 093541-twmd-flywheel-watch | 飛輪零靜默（24hr 86 commit／11 筆 routine 標記）；唯一警報是 live dump 齡 51.3h，OBSERVER-QUEUE #22 復發並補證據 | 報告說「零 stale」只保證閘門名單內那幾樣，名單外的鏡子可以同時兩天半沒擦 | [→](memory/2026-08-04-093541-twmd-flywheel-watch.md) |
-| 2026-08-04 | 095220-curation-tier-design | 查證狀態分層設計＋同日拍板實作全上線（EVOLVE Mode 4）：三態投影、95 篇補標、lint 三看守、MAINTAINER/CONTRIBUTING 補段 | 分層判準看查證流程不看作者身份；從舊欄位推導新保證＝把歷史低標準包裝成今天的承諾 | [→](memory/2026-08-04-095220-curation-tier-design.md) |
+| 2026-07 | 月度彙整 | 29 篇，完整列已 verbatim 歸檔 | — | [→](memory/index-archive/2026-07.md) |
 | 2026-08-04 | 104614-支語研究 | 30 agent 艦隊 559 次搜索揭詞庫缺 2020-2026 兩個世代；49 新詞條＋8 加肉入庫，報告確立「誤判學」查證生態位 | 查證勝過糾察；多 agent 共享工具額度池要進 dispatch 預算 | [→](memory/2026-08-04-104614-支語研究.md) |
 | 2026-08-04 | 131111-twmd-routine-sync | 第十一輪對賬抓到真實漂移：新誕生的 twmd-terminology-trends-monthly 排程機器端缺項，apply+create 補建並驗證 in-sync | 例行對賬本身就是「新 routine 誕生未同步機器」的第一道防線，不必等 self-evolve 抽查才發現 | [→](memory/2026-08-04-131111-twmd-routine-sync.md) |
 | 2026-08-04 | 104614-支語研究-fork-graph | 語言分支樹 Mode 4 重生：修好空白四個月的圖（Phase 6 遷移斷 selector）、10 詞 hardcode 改詞庫 derive 41 精選＋198 條密度層、滲透時間形狀首次可見 | viz 頁要「長什麼樣」級驗收；接上 SSOT 後資料到呈現當日直通 | [→](memory/2026-08-04-104614-支語研究-fork-graph.md) |
@@ -378,3 +309,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-08 | 093200-twmd-flywheel-watch | 飛輪零問題（24hr 13 commit／11 筆 routine 標記／六條有動靜），唯一靜默是這支儀器自己——8/7 收官卡在被產線佔住的工作樹，用 worktree 回收 | 收官路徑寫進 handoff 只活一天，8/3 發現 8/7 就掉了，升進 ROUTINE.md 註 ²⁰ | [→](memory/2026-08-08-093200-twmd-flywheel-watch.md) |
 | 2026-08-09 | 011119-twmd-news-lens-weekly | W32 三源交叉：本週僅颱風白海豚一個強新聞候選（未硬湊六條），英文 metadata 缺口連續五週確認但家族自然窄化 6→4 篇，出口關閉 propose 0 | 連續出現在榜單不等於問題持續惡化，曝光量本身有自然波動，過度解讀窄化是另一種說謊 | [→](memory/2026-08-09-011119-twmd-news-lens-weekly.md) |
 | 2026-08-09 | 021939-twmd-weekly-report-sun | W32 週體檢：診斷五面零靜默死亡，修掉每天喊三次假警報的 routine 對賬檢查器，roadmap roll 出 AI crawler 新 P0；週報 Resend 200 寄達 bcc=15 | 每天被人工推翻的警報是注意力層的靜默債；免疫拖底那格叫外部尺，3.3 分 | [→](memory/2026-08-09-021939-twmd-weekly-report-sun.md) |
+| 2026-08-09 | 031153-twmd-distill-weekly | §未消化 32→22：新 REFLEXES #85（三 entry 合併）+ 四家族補強 + 3 條 housekeeping-done | 驗證已修好的宣稱不能只信 changelog，要上機器核對 | [→](memory/2026-08-09-031153-twmd-distill-weekly.md) |
