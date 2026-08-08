@@ -138,24 +138,54 @@ def parse_routine_table(ssot_path):
                 "skill": cells[3].strip("`"),
                 "model": cells[4],
                 "cadence": cells[5],
+                # 整列原文留著：⏸️ 與 🖥️ 標記可能落在任一欄，只讀單欄會誤判
+                # （2026-08-09 週體檢：founder-lens 的 ⏸️ 只寫在標題欄、cadence 欄
+                #   寫「週六 22:00」，本工具每天報一次假 drift，routine-sync 每天
+                #   手動 MCP 複核推翻一次。per REFLEXES #83 檢查器兩把尺）
+                "row": line,
             }
 
-    # ⏸️ PAUSED 副表（欄位不同：TaskId | 原 slot | 暫停日 | 原因）— 這些任務
-    # 在 SSOT 是「已知暫停」，live disabled 是預期，不算 orphan / enabled drift
+    # ⏸️ PAUSED 清單 — 這些任務在 SSOT 是「已知暫停」，live disabled 是預期。
+    # ROUTINE.md 的慣例是「暫停中的一律在上方排程表該列標 ⏸️，不另立表」，所以
+    # 這裡多半是已存在的列：要覆寫 paused 旗標，不能 setdefault（setdefault 對
+    # 已在排程表的列完全無作用，正是假 drift 的來源）。
     m = re.search(r"\*\*⏸️ PAUSED\*\*.*?(?=\n\n\*\*🪦|\n## |\Z)", text, re.DOTALL)
     if m:
         for tid in re.findall(r"`(twmd-[a-z0-9-]+)`", m.group(0)):
-            tasks.setdefault(
-                tid,
-                {
+            if tid in tasks:
+                tasks[tid]["paused"] = True
+            else:
+                tasks[tid] = {
                     "title": tid,
                     "cron": None,
                     "skill": None,
                     "model": None,
-                    "cadence": "⏸️ paused（PAUSED 副表）",
-                },
-            )
+                    "cadence": "⏸️ paused（PAUSED 清單）",
+                    "row": "",
+                    "paused": True,
+                }
     return tasks
+
+
+def local_node_name():
+    """本機節點名（`.taiwanmd/node-name.local`，gitignored）。給 🖥️ 節點標記比對用。
+
+    跟 routine-sync.py 同一份判斷。兩支工具讀同一張表卻只有一支認得節點標記，
+    會讓只跑在另一台的 routine（flywheel-watch）在這台每天被報成 live drift。
+    """
+    f = REPO_ROOT / ".taiwanmd" / "node-name.local"
+    try:
+        return f.read_text(encoding="utf-8").strip().splitlines()[0].strip()
+    except (OSError, IndexError):
+        return ""
+
+
+def belongs_to_this_node(row_text, node):
+    """排程表某列帶 `🖥️<節點名>` 時，只屬那台機器；沒有標記 = 所有營運機都該有。"""
+    m = re.search(r"🖥️\s*([A-Za-z0-9._-]+)", row_text or "")
+    if not m:
+        return True
+    return m.group(1).strip() == node
 
 
 def parse_mirror_frontmatter(skill_path):
@@ -219,7 +249,25 @@ def audit(warn_lines, hard_lines):
         else {}
     )
 
+    mirror_node = local_node_name()
+    if not mirror_node:
+        skipped = [
+            t for t, m in ssot_tasks.items() if re.search(r"🖥️", m.get("row", "") or "")
+        ]
+        if skipped:
+            # fail-loud：讀不到節點名時不靜靜縮小檢查範圍（per REFLEXES #60
+            # silent default = silent failure；routine-sync.py 同款哨兵）
+            print(
+                f"⚠️  讀不到 .taiwanmd/node-name.local — 帶 🖥️ 標記的 {len(skipped)} 列"
+                f"這次沒檢查：{', '.join(sorted(skipped))}",
+                file=sys.stderr,
+            )
     for task_id, meta in ssot_tasks.items():
+        # 🖥️ 節點標記：只屬另一台機器的 routine，這台本來就不該有 mirror
+        # （ROUTINE.md 註 ²⁰ 明寫「不是就整列跳過——否則營運機每天會被報成缺一條 prompt」）
+        if not belongs_to_this_node(meta.get("row", ""), mirror_node):
+            continue
+
         mirror_dir = mirror_dirs.get(task_id) or mirror_dirs.get(ALIASES.get(task_id, ""))
         if mirror_dir is None:
             results["missing"].append({"task_id": task_id, "meta": meta})
@@ -300,7 +348,13 @@ def audit(warn_lines, hard_lines):
         if age is not None and age > LIVE_DUMP_STALE_HOURS:
             results["live_dump"]["status"] = f"stale ({age:.0f}h > {LIVE_DUMP_STALE_HOURS}h)"
 
+        node = local_node_name()
         for task_id, meta in ssot_tasks.items():
+            # 🖥️ 節點標記：這列只屬另一台機器時，本機的 live dump 本來就看不到它，
+            # 拿不到 ≠ 漂移（dump 只列得出自己排程器裡的任務）。
+            if not belongs_to_this_node(meta.get("row", ""), node):
+                continue
+
             live = live_tasks.get(task_id) or live_tasks.get(ALIASES.get(task_id, ""))
             if live is None:
                 results["live_enabled_drift"].append(
@@ -309,7 +363,15 @@ def audit(warn_lines, hard_lines):
                 continue
 
             cadence = meta.get("cadence", "")
-            expect_disabled = ("⏸" in cadence) or ("disabled" in cadence.lower())
+            # ⏸️ 可能寫在標題欄或 cadence 欄，也可能只出現在 §PAUSED 清單——三處任一
+            # 命中都算 SSOT 宣告暫停。
+            row = meta.get("row", "")
+            expect_disabled = (
+                bool(meta.get("paused"))
+                or ("⏸" in cadence)
+                or ("⏸" in row)
+                or ("disabled" in cadence.lower())
+            )
             if bool(live.get("enabled")) == expect_disabled:
                 results["live_enabled_drift"].append(
                     {
