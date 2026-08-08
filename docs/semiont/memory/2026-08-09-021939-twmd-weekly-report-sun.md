@@ -38,6 +38,12 @@ Stage 2.5 前置的 live dump 由本 session 呼叫 MCP `list_scheduled_tasks` �
 
 值得記的是這支檢查器怎麼撐到今天：8/7 的 routine-sync 額外開了一次 MCP 手動複核五條 `enabled=false`，確認「皆對齊 §PAUSED 表」然後過關。每天早上都有一個 session 花力氣推翻自己的檢查器，推翻完就過去了，沒有人回頭修那把尺。
 
+## 桶 1 修復之二：pre-push 把每次 push 都讀成殭屍
+
+推收官 commit 時 pre-push hook 印「in-flight run 已跑 29155s（>900s = stuck/zombie）」，那個 run 實際只跑了 401 秒。`date -j -f` 在 macOS 用本機時區解讀輸入，而 GitHub 的 `startedAt` 是 UTC，格式字串裡的 `Z` 只是字面量——台北時區讓每次 elapsed 多算 28800 秒，恆大於 STUCK=900。「近完成就等它跑完免白白取消」這條分支從寫下來就沒跑過一次。`1cf1b3a20` 補 `-u`，四情境重驗（60s 還早／401s 與 600s 該等／1hr 仍判殭屍），ship 它的那次 push 自己印出「還早 105s<245s」。
+
+發現時機在寄出週報之後，所以信箱那一版只記一項修復，repo 與網頁版已補第二項並註明。
+
 ## 桶 2 / 桶 3 分流
 
 roadmap roll 出 `reports/evolution-roadmap-2026-08-09.md`，08-02 版標 superseded。新 P0 三項：英文 metadata 專項（vc=5，但要先判定缺口是否真在惡化）、重腳註翻譯驗收（引擎 7/25 已存在、8/6 完成路由，剩驗收）、AI crawler 成功率專項（本版新增）。P1 新增 i18n 語言指紋 gate 與 `external_rulers` 3.3。
@@ -87,5 +93,5 @@ roadmap roll 出 `reports/evolution-roadmap-2026-08-09.md`，08-02 版標 supers
 _v1.0 | 2026-08-09 02:21 +0800_
 _session twmd-weekly-report-sun — W32 體檢週：Stage 0-6 全跑、診斷五面、桶 1 修 1 項、roadmap roll、Resend 廣播 bcc=15_
 _誕生原因：週日 02:00 cron routine 觸發體檢週_
-_核心洞察：(1) 每天被手動推翻的警報是一種特殊的技術債，它消耗注意力卻不留下痕跡 (2) 同一張 SSOT 表被兩支工具用不同的尺讀，是 REFLEXES #83 的第二個獨立 instance (3) 免疫的 `external_rulers` 3.3 分，是本週所有教訓的儀表板讀數_
+_核心洞察：(0) 同一晚兩支儀器在說謊，第二支是被它自己在 push 時叫出來的 (1) 每天被手動推翻的警報是一種特殊的技術債，它消耗注意力卻不留下痕跡 (2) 同一張 SSOT 表被兩支工具用不同的尺讀，是 REFLEXES #83 的第二個獨立 instance (3) 免疫的 `external_rulers` 3.3 分，是本週所有教訓的儀表板讀數_
 _LESSONS-INBOX 候選：無（走 v2.3 DNA-first 閘門規則 (a)，直接補進 REFLEXES #83 驗證欄，不入 inbox）_
