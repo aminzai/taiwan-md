@@ -5,8 +5,8 @@ type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.18'
-last_updated: 2026-08-02
-last_session: '2026-08-02-twmd-self-evolve-weekly（#38 加 (f) 存活≠生產變體 vc=3 fold + Boundary 更正：process alive/dead 一旦被當 productivity proxy 用就繼承混維度風險，零新編號）'
+last_updated: 2026-08-09
+last_session: '2026-08-09-021939-twmd-weekly-report-sun（#83 補 W32 體檢驗證行：routine-sync 修復側認得 🖥️ 節點標記、檢查側不認得，同一張 SSOT 表兩把尺；新維度＝假警報每天被人工推翻卻不留痕跡。零新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -989,6 +989,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
   - `cjk-leak-check.py` 一天內四個假陽性家族：全形括號、ja/ko marker 表含合法日文詞、書名號作品名、ja/ko 分支漏括號豁免——蘇打綠 ja 譯文連三輪被同一把尺槍斃後 quarantine 存證機制才讓屍檢成立
   - `article-health.py {file} --check=link-target,wikilink-target` 逗號多值不報錯，印「no checks ran — Phase 1 has empty registry」然後 `passed=True`——node-birth session 憑既有用法直覺寫了逗號語法，dogfood 第一次跑就回綠，靠輸出那行「no checks ran」洩了底
   - ar 首批人名幻覺第二型（填空而非混淆）與同批 3 處合法地標名假陽性混在一起現形，證明這類 gate 必須人審不能自動裁決
+- **驗證 (2026-08-09 twmd-weekly-report-sun，W32 體檢 c 面)**：`routine-sync.py`（修復側）認得 ROUTINE.md 排程表的 `🖥️<節點名>` 標記並整列跳過別台機器的 routine，`routine-sync-check.py`（檢查側）不認得——同一張 SSOT 表兩把尺，讓營運機每天被報一筆假 MISSING。同支工具另一半：⏸️ 暫停標記只讀 cadence 欄，founder-lens 把它寫在標題欄就成了假 live drift。**本 instance 的新維度是「假警報的代謝方式」**：8/7 routine-sync 那一班額外開 MCP 手動複核五條 `enabled=false`，確認檢查器錯了，在收官寫下「零漂移」然後過關——推翻的動作每天重跑一次、每天看起來都像盡責，而那把尺留在原地至少兩週。假陽性不必然「殺掉好產出」（規則 (c) 的形狀），也可以只是每天靜靜吃掉一小段注意力且不留痕跡。修法 `466f3ddd1`：⏸️ 整列任一處命中都算、PAUSED 清單改真覆寫、缺件與 live 兩層都按 🖥️ 過濾，並補 fail-loud 哨兵（讀不到節點名時印出哪幾列沒檢查，避免修掉的靜默換位置長回來）→ [memory/2026-08-09-021939-twmd-weekly-report-sun.md](memory/2026-08-09-021939-twmd-weekly-report-sun.md)
 - **相關**：#24「工具在說謊的 9 種形式」（同祖先「規則在 A 定義算法在 B 複寫」，本條是雙工具/雙分支間的 specialization）/ #66「Gate threshold 用真實產出 dogfood 校準」（互補——那條講閾值怎麼定，本條講定完之後兩把尺會不會走歪）/ #69「self-report 需外部尺」（互補——那條講要不要有外部尺，本條講外部尺自己內部的一致性）
 - **操作**：→ `contributor-pr-heal.py` re-check 改 `--profile=ci-deploy` / `cjk-leak-check.py` 抽出 `LEGITIMATE_ZH_SPANS` 共用清單 / `article-health.py --check` 對逗號多值 explicit error 或改支援多值 / quarantine 前存證流程已 ship（vortex-babel 2026-07-24）
 - **跨檔關聯**：[memory/2026-07-25-102214-vortex-babel-2.md](memory/2026-07-25-102214-vortex-babel-2.md) + [diary/2026-07-24-174300-vortex-babel.md](diary/2026-07-24-174300-vortex-babel.md) + [memory/2026-07-25-013432-node-birth.md](memory/2026-07-25-013432-node-birth.md)
