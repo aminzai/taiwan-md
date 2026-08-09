@@ -578,6 +578,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical
 
+### 2026-07-27 twmd-supporters-weekly — cron-execution-env-tool-availability-drift：同一條 routine 在不同次 cron 執行環境裡，同一組 MCP 工具時有時無
+
+- **pattern**: cron-execution-env-tool-availability-drift
+- **原則**：Routine 的 canonical SOP 假設某類工具（本例 Gmail MCP `search_threads`/`get_message`）在每次 cron 執行環境裡都存在，但 scheduled-task 觸發的 session 實際掛載哪些 MCP server 會隨執行環境漂移——同一份 pipeline，2026-07-13 首跑能正常呼叫，之後三次連續執行完全找不到對應工具（`ToolSearch` 全量搜尋 + `mcp-registry` 查詢皆 0 匹配）。這跟「Stage 2 搜尋跑了但 0 候選信」是完全不同的訊號（REFLEXES #38 混維度），必須分開報告：前者是「這週真的沒有」，後者是「這次執行環境搆不到手」。**寧可誠實回報 blocked、不動 SSOT，也不能編造搜尋結果掩蓋工具缺口**（fabricate 一個假的「0 候選信」比空手而回更危險，因為它看起來像健康的例行公事）。
+- **觸發**：2026-07-27-011214-twmd-supporters-weekly — Stage 2 阻塞，`search_threads`/`get_message` 在本次 session 工具清單與 `ToolSearch` 全量搜尋皆不存在，跟 2026-07-13 首跑能正常呼叫的環境不同；誠實記為 `blocked`，checkpoint 不推進、無 commit。
+- **instances**：
+  - 2026-08-03-011058-twmd-supporters-weekly：第二次連續阻塞，`ToolSearch` 查了三次（"gmail search_threads get_message" / "gmail" / "mail" / "email search threads inbox"）+ `mcp-registry search_mcp_registry` 皆 0 匹配，確認不是「連了但沒授權」而是這個執行環境本身沒掛載 Gmail MCP server。累積贊助資料缺口達 3 週（07-12 → 08-03）。
+  - 2026-08-10（本次 twmd-supporters-weekly）：第三次連續阻塞，同樣的 `ToolSearch`（"gmail search_threads get_message email inbox" / "mail read message thread portaly"）+ `mcp-registry search_mcp_registry(["gmail","email","google workspace","mail"])` 皆 0 結果。checkpoint 仍停在 `2026-07-12T09:06:35Z`，累積缺口達 4 週。三次連續同型阻塞，達 verification_count≥3 自動 distill 門檻（per §Distill SOP 量門檻）。
+- **可能層級**：跨 routine 通用反射候選（任何依賴特定 MCP 工具的 cron routine 都可能撞到同一種「執行環境與工具清單不是穩定綁定」問題，不限 Gmail／supporters）
+- **相關**：REFLEXES #38（混維度=silent killer，「搜尋跑了回 0」vs「工具本身不存在」是同一 status 底下的兩種根本不同 cause）、REFLEXES #60（silent default = silent failure）
+- **verification_count**: 3
+- **severity**: structural（連續 3 個 cycle 讓這條 routine 完全無法履行職責，累積資料債持續擴大；且暴露的是「cron 執行環境與工具清單綁定關係不透明」這個更大範圍的基礎設施缺口，非本 routine 特有）
+- **defer**：根治方案（補掛 Gmail MCP connector 到 scheduled-task 執行環境 / 把本 routine 遷到有 Gmail 存取的機器 / 改用其他讀信管道）超出 routine 自主權（涉及 service account／connector 授權，per MANIFESTO §自主權邊界「身份授權（service account 新增/升級）— 不可授權 AI 自授權」），列入下方 §Defer 給觀察者拍板。
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
@@ -1149,6 +1163,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 | MAINTAINER polish-hint template 是否改「本篇若想我幫你改請說一聲」default 句式               | 改 template / 維持現狀                                               | 觀察記錄在 §已消化（polish-hint-default-broken，vc=1）                   |
 | Reader-funded > grant-funded 是否定為 sustainability 優先序                                  | 建 MEMBERSHIP-PIPELINE（Liberapay/GitHub Sponsors/Substack）/ 暫不動 | 觀察記錄在 §已消化（reader-funded-resilience，vc=1，severity=strategic） |
 | SPORE-INBOX [30,50) 高原三選一（減量 spore-pick / 加速 spore-publish / 拉高 auto-drop 閾值） | 三選一                                                               | SOP 已 ship 中間閾值（v2.1），entry 本身已 housekeeping-done             |
+
+**2026-08-10 twmd-supporters-weekly 新增 1 條**（P0，連續 3 個 cycle 阻塞，vc=3 達 distill 門檻）：
+
+| 候選                                                                                          | 動作（選項）                                                                                                          | 教訓 canonical / 現況                                                                                                       |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| twmd-supporters-weekly 執行環境無 Gmail MCP（`search_threads`/`get_message` 連續 3 週不存在） | (a) 幫這個 scheduled-task 補掛 Gmail MCP connector (b) 把本 routine 遷到有 Gmail 存取的機器/環境 (c) 改用其他讀信管道 | §未消化（cron-execution-env-tool-availability-drift，vc=3，severity=structural）；checkpoint 停在 2026-07-12，累積缺口 4 週 |
 
 ## ❌ 已歸檔（過時 / 撤回）
 
