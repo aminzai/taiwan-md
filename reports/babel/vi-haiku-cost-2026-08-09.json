@@ -1,0 +1,82 @@
+{
+  "measurement": "vi-haiku-delegation-cost",
+  "started_at": "2026-08-09T08:05:02+08:00",
+  "observer_baseline": {
+    "weekly_usage_pct": 11,
+    "source": "哲宇 2026-08-09 08:0x 口述"
+  },
+  "vi_at_start": {
+    "fresh": 347,
+    "stale": 37,
+    "missing": 434,
+    "coverage": "43.2%"
+  },
+  "plan": "每批 100 篇，每 agent 1 篇平行，model=haiku，跑到 vi missing+stale=0",
+  "cost_anchor_from_canon": "SQUEEZE §第五層 實測 Haiku ~78K token/篇、單篇 2-4 分",
+  "waves": [],
+  "agent_samples": [
+    {
+      "group": "G",
+      "article": "People/黃崇仁.md → vi/People/frank-huang-psmc.md",
+      "zh_bytes": 54631,
+      "out_bytes": 79075,
+      "subagent_tokens": 131322,
+      "duration_s": 555,
+      "tool_uses": 19,
+      "verify_after_heal": "18/18 全綠",
+      "note": "自述 exit 1 交件；81 個腳註網址被截成根域名，主 session 用新造的 restore-footnote-urls 修回"
+    },
+    {
+      "group": "N",
+      "article": "Lifestyle/台灣醫療與全民健保.md",
+      "subagent_tokens": 119042,
+      "duration_s": 877,
+      "tool_uses": 12,
+      "verify": "18/18 全綠（主 session 獨立複驗確認）",
+      "footnotes": "42/42 保留"
+    }
+  ],
+  "findings": [
+    "Haiku 在腳註密集的長文會整段丟掉腳註定義區：5 篇落地有 3 篇腳註 0 條（原稿 62-72 條），其中一篇只有 1.8KB 等於空殼",
+    "canonical SQUEEZE §第五層 早有規則：腳註>30／URL>40 應派 Sonnet 而非 Haiku。本批 100 篇裡 28 篇命中，第一波派單時未套用",
+    "主 session 並行 subagent 上限 20（實測撞到）",
+    "cjk-leak-check 的豁免清單漏一類：中文原稿用編號參考清單（非 [^N]: 腳註）時，出版單位的中文本名（動物友善／農業部動物保護資訊網／關懷生命協會）落在所有豁免區外被判洩漏。跟腳註來源標題同一家族——都會製造「改掉來源名換綠燈」的誘因。刻意不在批次中途改這支（線上產線正在呼叫，換判準會讓同批前後段用不同標準）；豁免要加在 LEGIT_ZH_SPANS 一處，per 該檔 2026-07-25 註解。"
+  ],
+  "cost_so_far": {
+    "samples": 2,
+    "mean_tokens": 125182,
+    "vs_anchor_78k": 1.6
+  },
+  "wave1": {
+    "dispatched": 25,
+    "completed_with_output": 12,
+    "died_output_limit": 8,
+    "tokens_successful_total": 1410225,
+    "tokens_per_article_mean": 117519,
+    "vs_canonical_anchor_78k": 1.51,
+    "note": "另 8 隻死於 32K 單次輸出上限，死前已讀完簡報+語言指南+原稿，token 已消耗但無產出"
+  },
+  "vi_now": {
+    "fresh": 359,
+    "stale": 40,
+    "missing": 419,
+    "coverage": "44.9%"
+  },
+  "vi_at_end": {
+    "fresh": 420,
+    "stale": 33,
+    "missing": 367,
+    "coverage": "50.8%"
+  },
+  "delta": {
+    "fresh_gain": 73,
+    "coverage": "43.2% → 50.8%"
+  },
+  "capacity_wall": {
+    "case": "Lifestyle/台灣行道樹.md（zh 70,898 bytes、72 腳註）",
+    "attempts": 3,
+    "agent_own_words": "單個 Edit/Write 操作在 token 預算內無法處理如此大量的內容",
+    "canonical_says": "SQUEEZE §第五層：引用密集（腳註>30／URL>40）→ Sonnet 委派",
+    "option_within_haiku_directive": "把單篇拆給多隻 Haiku（一隻正文、一隻腳註區），維持全 Haiku 又繞過單 session 容量"
+  }
+}
