@@ -123,6 +123,23 @@ def get_top_stale_missing(lang, top, skip_paths=None):
     return candidates[:top]
 
 
+def _group_label(i: int) -> str:
+    """0→A, 25→Z, 26→AA, 51→AZ, 52→BA…（Excel 欄名式，全大寫）
+
+    刻意不用 `chr(65 + i)`：它只在前 26 組是對的，第 27 組起吐出 `[` `\\` `]` `^`
+    `_` 這些字元，第 33 組起撞進小寫 a-z。在 macOS 這種不分大小寫的檔案系統上，
+    `_group-a.json` 與 `_group-A.json` 是同一個檔，後寫的直接蓋掉先寫的。
+    也刻意不用純數字：既有的 agent prompt 與 routine 都以字母指稱分組
+    （`_group-{group_letter}.json`），換成數字會讓那些呼叫端一起漂。
+    """
+    label = ""
+    i += 1
+    while i:
+        i, rem = divmod(i - 1, 26)
+        label = chr(65 + rem) + label
+    return label
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--lang", default="en")
@@ -264,10 +281,30 @@ def main():
     with open(out_dir / "_batch-manifest.json", "w") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 
+    written = {}
     for i, g in enumerate(groups):
-        letter = chr(65 + i)
-        with open(out_dir / f"_group-{letter}.json", "w") as f:
+        letter = _group_label(i)
+        path = out_dir / f"_group-{letter}.json"
+        with open(path, "w") as f:
             json.dump({"agent": letter, "articles": g}, f, ensure_ascii=False, indent=2)
+        written[letter] = len(g)
+
+    # 落地對賬：分組是「派工單」，少一份就是那幾篇永遠不會有人翻，而且不會有人叫。
+    # 2026-08-09 實撞：舊的 chr(65+i) 在第 27 組之後吐出 `[` `\` 這類字元，第 33 組
+    # 起撞進小寫 a-z，而 macOS 檔案系統不分大小寫 —— `_group-a.json` 直接蓋掉
+    # `_group-A.json`。要 100 組只落地 74 份，被蓋掉的正是排序最前、優先度最高的
+    # 前 26 篇，而工具照樣印「Total: 100 articles」。所以這裡不信迴圈跑完就等於
+    # 寫成功，改成回頭數檔案裡的實際篇數跟 manifest 對帳。
+    landed = 0
+    for letter in written:
+        with open(out_dir / f"_group-{letter}.json") as f:
+            landed += len(json.load(f)["articles"])
+    if landed != len(manifest_articles):
+        raise SystemExit(
+            f"❌ 分組落地對賬失敗：manifest {len(manifest_articles)} 篇，"
+            f"group 檔實際只有 {landed} 篇（{len(written)} 份檔）。"
+            "不要用這批任務派工——差額就是不會被翻譯也不會被察覺的文章。"
+        )
 
     # Stats
     print(f"✅ Manifest: {out_dir}/_batch-manifest.json")
@@ -282,10 +319,10 @@ def main():
     )
     print(f"   Wikilink targets: {resolved}/{total_targets} resolved to {args.lang} paths")
 
-    print(f"\n✅ {args.groups} group files: _group-{{A..{chr(64+args.groups)}}}.json")
+    print(f"\n✅ {len(groups)} group files: _group-{{{_group_label(0)}..{_group_label(len(groups)-1)}}}.json")
     for i, g in enumerate(groups):
         sizes = [(KNOWLEDGE / a["zh_path"]).stat().st_size for a in g]
-        print(f"   Group {chr(65+i)}: {len(g)} articles, total {sum(sizes):,} bytes")
+        print(f"   Group {_group_label(i)}: {len(g)} articles, total {sum(sizes):,} bytes")
 
     if missing_slugs:
         print(f"\n⚠️ {len(missing_slugs)} articles missing slug (used ASCII fallback):")
