@@ -96,6 +96,16 @@ def main() -> int:
             continue
         zh_urls = footnote_urls(zh_fn[fid][1])
         tr_urls = footnote_urls(tr_line)
+        # 中文腳註沒有連結、譯文卻長出一條 = 捏造來源（MANIFESTO §10）。
+        # 2026-08-09 疫情篇 [^85] 實撞：中文是一段純敘述（說明某個數字為何無法
+        # 核對），譯文憑空生出「衛福部函送立法院報告」的立法院連結，配上翻譯腔
+        # 的標題，整條註的內容跟原稿毫無關係。
+        # 這次是 URL 多重集多出一條才被抓到——但如果同一篇又剛好掉了一條真的
+        # 網址，一多一少會互相抵銷，數量閘門就全盲。所以要直接認這個形狀，
+        # 不倚賴總數。捏造的來源比缺來源嚴重：缺會被擋，捏造會被讀者相信。
+        if not zh_urls and tr_urls:
+            skipped.append((fid, f"❗中文原稿此註無連結，譯文卻有 {len(tr_urls)} 條 —— 疑似捏造來源，需人看"))
+            continue
         if not zh_urls or zh_urls == tr_urls:
             continue
         if len(tr_urls) < len(zh_urls):
@@ -124,13 +134,37 @@ def main() -> int:
                 restored.append((fid, a, b))
         tr_lines[idx] = new_line + ("\n" if not new_line.endswith("\n") else "")
 
+    # ── 腳註正文裡的 autolink ────────────────────────────────────────────
+    # 來源網址在腳註裡有第三種住法：不是開頭的 `[標題](網址)`，而是解釋文字中間
+    # 的 angle autolink——`自由時報報導（<https://news.ltn.com.tw/…>）另指出…`。
+    # 上面兩段邏輯都用 `](網址)` 抓連結，所以這種形態對它們是隱形的：2026-08-09
+    # 疫情篇 vi 版少 10 條網址而 verify 硬失敗，這支卻回報「可還原 0 個」。
+    #
+    # 譯者會掉它，是因為它長在句子裡——翻譯那句話時整個括號一起消失，而句子本身
+    # 讀起來完好。掉的是讀者查證的入口。
+    # 補回的方式跟上面同理：接在該行末尾，只增不改。它原本嵌在中文句子中間，
+    # 而譯文那句已經是越南語，插回原位需要判斷句子結構；接在尾端不需要。
+    any_url = re.compile(r"https?://[^\s)\]<>\"']+")
+    prose_restored = []
+    for fid, (idx, _) in tr_fn.items():
+        if fid not in zh_fn:
+            continue
+        cur = tr_lines[idx].rstrip("\n")
+        missing = [u for u in any_url.findall(zh_fn[fid][1]) if u not in cur]
+        if not missing:
+            continue
+        tr_lines[idx] = cur.rstrip() + " " + " ".join(f"（<{u}>）" for u in missing) + "\n"
+        prose_restored += [(fid, u) for u in missing]
+
     if not args.quiet:
+        for fid, u in prose_restored:
+            print(f"  [^{fid}] 補回正文 autolink → {u}")
         for fid, old, new in restored:
             print(f"  [^{fid}] {old}\n      → {new}")
         for fid, why in skipped:
             print(f"  ⚠️ [^{fid}] 不動：{why}")
         verb = "已還原" if args.apply else "可還原（預覽，加 --apply 寫回）"
-        print(f"{verb} {len(restored)} 個網址；需人看 {len(skipped)} 個")
+        print(f"{verb} {len(restored) + len(prose_restored)} 個網址；需人看 {len(skipped)} 個")
 
     # ── 圖說層 ──────────────────────────────────────────────────────────
     # CC 圖的出處網址在原稿出現兩次：一次在圖片下方的斜體圖說（`Photo: 攝影者,
@@ -244,7 +278,7 @@ def main() -> int:
         if not args.quiet:
             print(f"  全文層修復 {mangled} 個被改掉字元的網址（percent-encoding 竄改）")
 
-    if args.apply and (restored or cap_restored or mangled):
+    if args.apply and (restored or prose_restored or cap_restored or mangled):
         tr_path.write_text("".join(tr_lines), encoding="utf-8")
 
     return 1 if skipped else 0
