@@ -2,9 +2,7 @@
 title: 'Système médical et Assurance maladie nationale à Taïwan : un numéro un mondial à 99,6 %, soutenu par 12,61 %'
 description: "La carte d'assurance maladie du 1er mars 1995 a été produite dans l'urgence : six jours plus tôt, elle n'était même pas imprimée. Trente ans plus tard, le droit aux soins de 23 millions de personnes repose sur un taux de cotisation de 5,17 %, un taux de départs infirmiers au plus haut depuis dix ans à 12,61 %, et un tabou politique auquel personne n'a osé toucher depuis trente ans."
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: 'Santé et assurance maladie'
 tags:
   [
     'Assurance maladie nationale',
@@ -17,19 +15,28 @@ tags:
     'Yang Chih-liang',
     "Base de données de l'assurance maladie",
   ]
-readingTime: 22
+subcategory: 'Santé et assurance maladie'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
-featured: true
-translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:14d6c92447535914'
-sourceBodyHash: 'sha256:c1ead29e154aba6a'
-translatedAt: '2026-06-16T16:40:09Z'
+readingTime: 22
 image: '/article-images/lifestyle/nhi-taipei-building-2018.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg'
+datasets:
+  [
+    "{'id': '20254', 'name': '全民健康保險保險對象人數按類別性別年齡層統計', 'url': 'https://data.gov.tw/dataset/20254', 'agency': '衛生福利部中央健康保險署', 'update_freq': '每3月', 'why': '文中「39.8% 在用、54.8% 在繳」的世代結構，可對照年齡層投保人數自己拆', 'verified': datetime.date(2026, 6, 10)}",
+    "{'id': '7554', 'name': '衛生福利部全民健康保險會委員會議議事錄', 'url': 'https://data.gov.tw/dataset/7554', 'agency': '衛生福利部全民健康保險會', 'update_freq': '每1月', 'why': '5.17% 費率「維持不調整」在哪張會議桌上、用什麼理由決定，一手議事錄', 'verified': datetime.date(2026, 6, 10)}",
+    "{'id': '23719', 'name': '全民健康保險各級政府補助弱勢保險對象統計資料', 'url': 'https://data.gov.tw/dataset/23719', 'agency': '衛生福利部中央健康保險署', 'update_freq': '每1月', 'why': '「危難共擔、量能付費」的執行面：政府替誰繳了保費', 'verified': datetime.date(2026, 6, 10)}",
+  ]
+rationale: "{'why_this_hook': '從 1995 開辦的「準備時間只有三天」+ 「補充保費是個錯誤」這兩個自陳金句切入，避免落入「全球第一/血汗醫護」二元敘事；用核心矛盾「成功的制度設計鎖死制度更新的政治路徑」拉開深度。', 'whats_excluded': '失聯移工/黑戶嬰兒/海外停保族群只在「99.6% 盲區」段點到（議題涵蓋面太廣，獨立題目）；「歐巴馬學台灣」delegation 缺證據改寫為學界 + Sanders 引用鏈；Bloomberg #14 直接 refute 不展開方法論細節（節奏考量）。', 'where_it_hedges': 'Hsiao 顧問上任年份取 1989 task force conservative 版本（來源衝突 1988/1989/1991）；行政成本「長期 < 2%」標 hedge（首份報告出處未找到）；IC 卡明標 Slovenia 早 3.5 年（不寫「全球第一」）；醫師起訴率「美 400 倍」未引用（原始數據出處未追到）。', 'whos_pushing_back': '葉金川「總體醫師人數足夠」反五大皆空全面缺；李玉春自己造詞自己反對「點值是現象解」；鄭守夏 + 高若想 + 石崇良反「點值低 = 主因」單一歸因；Reinhardt「I have not advocated the single-payer model here because our government is too corrupt」設計者自反美國複製；70% 家戶買私保 evidence 反向 refute「NHI 鎖死私保」。'}"
+translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:879eb268c7fce9b0'
+sourceBodyHash: 'sha256:a5c8010bb09051a0'
+translatedAt: '2026-08-09T00:02:16.117166+00:00'
 ---
 
 # Système médical et Assurance maladie nationale à Taïwan : un numéro un mondial à 99,6 %, soutenu par 12,61 %
@@ -160,27 +167,26 @@ Quant au récit selon lequel « Obama aurait appris de Taïwan », les sources p
 
 Le marché de l’assurance privée constitue un autre contre-exemple. En 2004, le taux d’achat d’une assurance santé privée par les ménages taïwanais est de 72,3 % ; il était de 63,9 % en 1993, avant le lancement de l’assurance maladie nationale[^42]. L’hypothèse selon laquelle « l’assurance maladie universelle verrouille le marché privé » est donc inversée : neuf ans après le lancement, la pénétration des assurances privées parmi les ménages ne baisse pas, elle augmente de 8,4 points. Les Taïwanais sont pragmatiques : ils savent que l’assurance maladie est bonne, mais aussi que l’amélioration de chambre, les traitements non remboursés, les soins d’urgence à l’étranger, les soins de longue durée ou les thérapies ciblées contre le cancer relèvent de besoins extérieurs au panier de prestations de la NHI et nécessitent une assurance privée complémentaire. C’est aussi l’une des raisons structurelles pour lesquelles la question « l’assurance maladie suffit-elle ? » devient de plus en plus courante trente ans plus tard.
 
-## Trois phrases additionnées
+## Trois phrases ensemble
 
-Trente ans plus tard, la petite carte du 1er mars 1995 à minuit existe toujours, même si elle a aussi migré dans une application sous forme de QR code. Mais le même système repose sur trois éléments : 99,6 % de couverture, 5,17 % de taux de cotisation et 12,61 % de départs infirmiers. Les deux premiers font la fierté des Taïwanais ; le troisième est une facture que personne n’a osé régler depuis trente ans.
+Trente ans plus tard, la petite carte du 1er mars 1995 à minuit est toujours là, mais elle est désormais intégrée à une application sous forme de code QR. Pourtant, le même système tient debout sur trois piliers : un taux de couverture de 99,6 %, un taux de cotisation de 5,17 % et un taux de démission des infirmières de 12,61 %. Les deux premiers sont la fierté des Taïwanais ; le troisième est une facture que personne n’a osé payer pendant trente ans.
 
-Yeh Chin-chuan déclare en 2020 : « Le système actuel ne peut tenir au maximum que cinq ans de plus »[^22]. Yang Chih-liang dit en 2011, avant de démissionner après l’adoption en troisième lecture : « la cotisation complémentaire est une erreur »[^18]. Lee Yu-chun, qui a forgé l’expression des « quatre grandes spécialités désertées », affirme en 2024 : « la valeur du point est une solution symptomatique, pas une solution de fond »[^25]. Additionnées, ces trois phrases ne relèvent pas vraiment du pessimisme ; elles ressemblent plutôt à ce que trente ans de pratique ont accumulé et que certains osent enfin dire. Une assurance maladie numéro un mondial exige un investissement numéro un mondial ; mais « investissement » n’a jamais seulement voulu dire argent supplémentaire. Cela renvoie au revenu total du foyer, à la répartition interne dans les hôpitaux, au temps de travail des internes, à la charge des litiges médicaux et à la gouvernance des données. Chacune de ces questions est dix fois plus difficile qu’un ajustement de taux de cotisation.
+En 2020, Ye Jin-chuan affirmait : « Le système actuel ne pourra tenir que cinq ans de plus »[^22]. Avant de démissionner après la lecture définitive de la loi en 2011, Yang Chih-liang déclarait : « Les primes complémentaires étaient une erreur »[^18]. En 2024, Li Yu-chun, l’auteur même de l’expression « quatre vides » (四大皆空), affirmait : « Le point de valeur est une solution de phénomène, pas une solution fondamentale »[^25]. La somme de ces trois phrases n’est pas pessimiste ; elle ressemble davantage à des années de pratique accumulées pendant trente ans, dont quelqu’un ose enfin faire l’écho. Un système de santé universelle de premier rang nécessite des investissements de premier rang ; mais le mot « investissement » ne se résume jamais à ajouter de l’argent. Il renvoie au revenu total des ménages, à la répartition au sein des hôpitaux, aux heures de travail des médecins résidents, à la responsabilité dans les litiges médicaux, à la gouvernance des données. Chaque axe est dix fois plus difficile à résoudre qu’une simple modification du taux de cotisation.
 
-La raison pour laquelle William Hsiao choisit le modèle canadien en 1989 était que « the quality of services was very high »[^10]. Trente ans plus tard, le taux de couverture le plus élevé au monde à Taïwan repose sur des valeurs de point parmi les plus basses et un taux de départs infirmiers de 12,61 %. Le succès d’un système n’est pas l’antonyme de ses défauts : le succès lui-même a produit une dépendance politique au chemin des défauts. Pour en sortir, il ne faudra pas un nouveau « feu aux trousses de trois jours », mais le premier effort en trente ans pour toucher, un par un, aux territoires interdits que sont le « revenu total du foyer », la « répartition hospitalière » et le « droit de retrait des données ».
+En 1989, Xiao Qing-lun a choisi le modèle canadien parce que « la qualité des services était très élevée »[^10]. Trente ans plus tard, la couverture mondiale la plus élevée repose sur le point de paiement le plus bas et un taux de démission des infirmières de 12,61 %. Le succès d’un système n’est pas l’antonyme de ses défauts ; le succès lui-même crée une dépendance politique aux défauts. Pour en sortir, il ne suffit pas d’attendre le prochain « trois jours de feu aux fesses », mais de la première fois, depuis trente ans, que quelqu’un est prêt à toucher, un par un, aux zones interdites que sont le « revenu total des ménages », la « répartition hospitalière » et le « droit de retrait des données ».
 
-![Bâtiment principal de l’Hôpital de l’Université nationale de Taïwan](/article-images/lifestyle/ntuh-2014.webp)
-_Bâtiment principal de l’Hôpital de l’Université nationale de Taïwan. Fondé en 1895, c’est le plus grand centre médical du système d’assurance maladie taïwanais ; le 1er mars, il y a trente ans, lorsque l’Assurance maladie nationale a été lancée, on y utilisait aussi la carte d’identité à la place des cartes d’assurance maladie qui n’étaient pas encore imprimées._
-
----
-
-**Lectures complémentaires** :
-
-- [Loi médicale](/fr/society/medical-care-act) — la loi sur l’assurance maladie encadre les « prestations », la loi médicale encadre les « établissements » ; ensemble, elles forment les deux rails de la gouvernance médicale taïwanaise, côté paiement et côté institutions
-- [Histoire des deux lois taïwanaises sur la médecine régénérative racontée par un professionnel du secteur](/fr/society/taiwan-regenerative-medicine-laws) — hors du périmètre des remboursements de l’assurance maladie, les deux lois sur la médecine régénérative adoptées en 2024 constituent une autre voie de gouvernance, à côté des procédures standard de l’assurance maladie
-- [Controverses autour des médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — l’assurance maladie couvre les humains, pas les animaux ; le débat sur les médicaments pour animaux de compagnie sert de groupe de comparaison au système d’assurance maladie
-- [Système de médecine de catastrophe à Taïwan](/fr/technology/taiwan-disaster-medicine-system) — l’assurance maladie soutient les soins ordinaires, le système de médecine de catastrophe soutient les périodes exceptionnelles ; les deux systèmes co-construisent les dimensions normale et d’urgence de la gouvernance médicale publique à Taïwan
+![Bâtiment principal de l’Hôpital national Taïwan](/article-images/lifestyle/ntuh-2014.webp)
+_Bâtiment principal de l’Hôpital national Taïwan. Fondé en 1895, c’est le plus grand centre médical du système d’assurance maladie taïwanais ; le 1er mars, il y a trente ans, lors du lancement de l’assurance maladie universelle, on y utilisait également la carte d’identité nationale à la place de la carte d’assurance maladie qui n’était pas encore imprimée._
 
 ---
+
+**Pour aller plus loin** :
+
+- [Loi sur les établissements médicaux](/fr/society/medical-care-act) — La loi sur l’assurance maladie gère les « prestations », la loi sur les établissements médicaux gère les « institutions » ; ces deux lois constituent les volets prestations et institutionnels du double rail de la gouvernance médicale taïwanaise
+- [Histoire des deux lois sur la médecine régénérative taïwanaise et témoignages des professionnels](/fr/society/taiwan-regenerative-medicine-laws) — Au-delà des limites des prestations de l’assurance maladie, les deux lois sur la médecine régénérative ont été adoptées en 2024, constituant une autre voie de gouvernance en dehors du protocole standard de l’assurance maladie
+- [Controverses sur les médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — L’assurance maladie couvre les humains, pas les animaux ; la controverse sur les médicaments pour animaux sert de groupe de contrôle au système d’assurance maladie
+- [Système de médecine de catastrophe à Taïwan](/fr/technology/taiwan-disaster-medicine-system) — L’assurance maladie soutient les soins médicaux quotidiens, tandis que le système de médecine de catastrophe soutient les périodes exceptionnelles ; les deux systèmes co-construisent les aspects quotidiens et d’urgence de la gouvernance médicale publique taïwanaise
+- [Pandémie de COVID-19 et vaccins à Taïwan](/society/台灣新冠疫情與疫苗) — Cette carte d’assurance maladie a été utilisée en 2020 pour le système de nommage des masques, mis en place en deux semaines ; la même infrastructure de données a permis le bon fonctionnement des enquêtes épidémiologiques et des réservations de vaccins
 
 ## Données publiques
 
