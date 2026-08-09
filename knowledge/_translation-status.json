@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T04:35:27+08:00",
-    "zhCommitHead": "ec6767217",
+    "lastUpdated": "2026-08-10T05:57:07+08:00",
+    "zhCommitHead": "b1528cf66",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,9 +19,9 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 844,
+        "fresh": 847,
         "stale": 25,
-        "metadata_stale": 10,
+        "metadata_stale": 7,
         "missing": 12,
         "orphan": 0
       },
@@ -43,17 +43,17 @@
       },
       "es": {
         "total_zh": 891,
-        "fresh": 853,
-        "stale": 20,
-        "metadata_stale": 10,
+        "fresh": 856,
+        "stale": 19,
+        "metadata_stale": 8,
         "missing": 8,
         "orphan": 0
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 851,
+        "fresh": 853,
         "stale": 20,
-        "metadata_stale": 12,
+        "metadata_stale": 10,
         "missing": 8,
         "orphan": 0
       },
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 774,
+        "fresh": 775,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 113,
+        "missing": 112,
         "orphan": 0
       }
     },
@@ -9058,8 +9058,8 @@
           "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
           "translatedAt": "2026-08-09T21:15:01+08:00",
-          "translationLastCommit": "a12054ce",
-          "translationLastModified": "2026-07-31T06:06:30+08:00",
+          "translationLastCommit": "0eedbc0d",
+          "translationLastModified": "2026-08-10T04:35:27+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -21224,18 +21224,16 @@
         "fr": {
           "path": "fr/Technology/yam-yam-taiwan-portal.md",
           "translatedFrom": "Technology/蕃薯藤.md",
-          "sourceCommitSha": "781e16434",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
-          "translatedAt": "2026-07-06T00:39:49+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "b4fa7ea4",
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/yam-yam-taiwan-portal.md",
@@ -35706,18 +35704,16 @@
         "en": {
           "path": "en/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "44fcc812",
           "translationLastModified": "2026-07-28T03:43:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/xiaobei-department-store.md",
@@ -43312,18 +43308,16 @@
         "en": {
           "path": "en/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:bc15608a0bffd86f",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
           "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-07-28T04:03:49+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ja": {
           "path": "ja/Society/betel-nut.md",
@@ -44156,18 +44150,16 @@
         "es": {
           "path": "es/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-07-14T16:50:19Z",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-public-health-epidemic-response.md",
@@ -48647,18 +48639,16 @@
         "en": {
           "path": "en/Society/join-public-policy-platform.md",
           "translatedFrom": "Society/公共政策網路參與平臺.md",
-          "sourceCommitSha": "194696f07",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:e50c6305fdf357b3",
           "sourceBodyHash": "sha256:4fcd819359e5e6f4",
-          "translatedAt": "2026-06-22T00:40:58+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "29686eb5",
           "translationLastModified": "2026-06-22T01:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/join-public-policy-platform.md",
@@ -98570,8 +98560,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T20:34:09.503480+00:00",
-          "translationLastCommit": "7d418dbc",
-          "translationLastModified": "2026-08-09T18:44:47+08:00",
+          "translationLastCommit": "0eedbc0d",
+          "translationLastModified": "2026-08-10T04:35:27+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -101180,8 +101170,8 @@
           "sourceContentHash": "sha256:e1b77b1bcfa11b48",
           "sourceBodyHash": "sha256:8824b980fb94339c",
           "translatedAt": "2026-08-09T21:15:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0eedbc0d",
+          "translationLastModified": "2026-08-10T04:35:27+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -107650,34 +107640,30 @@
         "es": {
           "path": "es/History/animal-protection-in-taiwan.md",
           "translatedFrom": "History/動保.md",
-          "sourceCommitSha": "18460e84a",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:7522efdf3a40c32a",
           "sourceBodyHash": "sha256:1acff297b5650550",
-          "translatedAt": "2026-07-28T18:52:02+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/animal-protection-in-taiwan.md",
           "translatedFrom": "History/動保.md",
-          "sourceCommitSha": "18460e84a",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:7522efdf3a40c32a",
           "sourceBodyHash": "sha256:1acff297b5650550",
-          "translatedAt": "2026-07-28T19:24:16+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/animal-protection-in-taiwan.md",
@@ -109788,8 +109774,8 @@
           "sourceContentHash": "sha256:a9330a2eb23d9c97",
           "sourceBodyHash": "sha256:20dd14ee57321b53",
           "translatedAt": "2026-08-09T21:15:01+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "0eedbc0d",
+          "translationLastModified": "2026-08-10T04:35:27+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -117514,7 +117500,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/dadaocheng.md",
+          "translatedFrom": "Geography/大稻埕.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:a74434c8289b52c5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T21:05:16.277525+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -121220,18 +121217,16 @@
         "es": {
           "path": "es/Geography/taiwan-coastal-landforms-and-seascapes.md",
           "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
-          "sourceCommitSha": "e14a1529",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
-          "translatedAt": "2026-05-16T22:35:47Z",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taiwan-coastal-landforms-and-seascapes.md",
