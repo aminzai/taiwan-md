@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T22:11:48.165040Z",
+  "lastUpdated": "2026-08-09T22:38:12.943541Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 159,
@@ -49,7 +49,7 @@
       "url": "https://x.com/taiwandotmd/status/2084520918441951650",
       "highlight": "X 版單則含 inline UTM；同 v12 文案",
       "views_7d": null,
-      "views_latest": 298,
+      "views_latest": 302,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -65,7 +65,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181",
       "highlight": "按下申報相符那一下你委任了誰——把兩個被推翻的錯誤框架提到第二段正面回答，補替代路徑，保留八年沒編預算的問責",
       "views_7d": null,
-      "views_latest": 1744,
+      "views_latest": 1746,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -81,7 +81,7 @@
       "url": "https://x.com/taiwandotmd/status/2084319140907786616",
       "highlight": "同 #165 內容，X 單則貼文＋inline s166 UTM",
       "views_7d": null,
-      "views_latest": 1362,
+      "views_latest": 1379,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -321,7 +321,7 @@
     {
       "week": "2026-W32",
       "published": 5,
-      "avgViews": 10351
+      "avgViews": 10357
     }
   ],
   "harvestStatus": [
@@ -1872,8 +1872,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-08-09 06:40"
+      "harvestCount": 5,
+      "lastHarvest": "2026-08-10 06:38"
     },
     {
       "n": 166,
@@ -1882,8 +1882,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-08-09 06:40"
+      "harvestCount": 5,
+      "lastHarvest": "2026-08-10 06:38"
     },
     {
       "n": 167,
@@ -1892,8 +1892,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 3,
-      "lastHarvest": "2026-08-09 06:40"
+      "harvestCount": 4,
+      "lastHarvest": "2026-08-10 06:38"
     },
     {
       "n": 168,
@@ -1902,8 +1902,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 3,
-      "lastHarvest": "2026-08-09 06:40"
+      "harvestCount": 4,
+      "lastHarvest": "2026-08-10 06:38"
     },
     {
       "n": 169,
