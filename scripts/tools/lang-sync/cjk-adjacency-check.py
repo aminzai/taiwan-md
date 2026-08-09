@@ -49,6 +49,15 @@ CONTEXT = re.compile(f".{{0,24}}(?:[{LATIN}][{CJK}]|[{CJK}][{LATIN}]).{{0,24}}")
 # 網址報成漏譯。
 MASK = re.compile(r"https?://\S+|`[^`]*`")
 
+# 腳註定義行的連結標題是**逐字引用的來源名稱**，中文來源本來就常混拉丁字母
+# （`(Yahoo奇摩新聞)`、`7-Eleven 台灣官網`），那是來源的真名不是漏譯。
+#
+# 不豁免的後果實測過，而且比漏譯嚴重：2026-08-09 一隻 agent 為了讓這道檢查
+# 變綠，把 6 條中文來源標題翻成英文與越南文。讀者拿被改寫的標題去查證會找不到
+# 原文——引用失去可追溯性，正是這整套閘門要保護的東西。閘門製造出「改內容換
+# 綠燈」的誘因時，它造成的損害會大於它防的問題。
+FN_LINK_LABEL = re.compile(r"^\[\^[^\]]+\]:\s*\[[^\]]*\]", re.M)
+
 
 def scan(path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
@@ -57,6 +66,7 @@ def scan(path: Path) -> list[str]:
     body = text.split("---", 2)[-1] if text.startswith("---") else text
     # 用等長空白替換，讓前後文擷取的位置不跑掉。
     body = MASK.sub(lambda m: " " * len(m.group(0)), body)
+    body = FN_LINK_LABEL.sub(lambda m: " " * len(m.group(0)), body)
     return [m.group(0).replace("\n", " ") for m in CONTEXT.finditer(body)]
 
 
