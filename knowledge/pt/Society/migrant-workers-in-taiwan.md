@@ -1,17 +1,17 @@
 ---
-title: 'Trabalhadores migrantes internacionais: a «grande sala de estar» de 870 mil pessoas e a luta pela sobrevivência através dos oceanos'
-description: 'Até março de 2026, o número de trabalhadores migrantes em Taiwan chegou a 873 mil e, somados os que perderam contato com as autoridades, o total se aproxima de um milhão, representando mais de 5% da população residente do país. Este artigo analisa em profundidade as características da mão de obra da Indonésia, do Vietnã, das Filipinas e da Tailândia; examina a reivindicação pelo «fim do limite de permanência no trabalho» apresentada na Grande Marcha dos Trabalhadores Migrantes; e expõe de maneira equilibrada a inquietação popular, a fiscalização da oposição e a posição governamental favorável a uma admissão «condicionada» por trás do plano de receber trabalhadores migrantes indianos em 2026.'
+title: 'Trabalhadores migrantes internacionais: o "grande salão" de 870 mil e o cabo de guerra da sobrevivência além-mar'
+description: 'Em março de 2026, os trabalhadores migrantes em Taiwan atingiram 873 mil; somados aos desaparecidos, aproximam-se de um milhão, superando 5% da população residente. Análise aprofundada das características da força de trabalho da Indonésia, Vietnã, Filipinas e Tailândia, das reivindicações da Grande Marcha dos Migrantes pela "abolição do limite de anos de trabalho", e do debate em torno do plano de 2026 para trazer trabalhadores indianos — ansiedade pública, fiscalização da oposição e a postura "condicional" do governo.'
 date: 2026-04-28
-category: 'pt'
+category: 'Society'
 tags:
   [
-    'trabalhadores migrantes',
+    'Trabalhadores migrantes',
     'trabalhadores migrantes indianos',
-    'Estação Central de Taipé',
+    'Estação de Taipé',
     'política trabalhista',
     'questões sociais',
-    'Grande Marcha dos Trabalhadores Migrantes',
-    'Hung Sun-han',
+    'Grande Marcha dos Migrantes',
+    'Hung Shen-han',
   ]
 subcategory: '人權與平等'
 author: 'idlccp1984'
@@ -20,115 +20,122 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 30
 translatedFrom: 'Society/移工.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:56c198b69b8ecacd'
-sourceBodyHash: 'sha256:223753ff8fc1f5ae'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:097cf0d80bc1fd84'
+sourceBodyHash: 'sha256:518e84b411e7ba80'
+translatedAt: '2026-08-09T08:01:32+08:00'
 ---
 
-> **Visão geral em 30 segundos:** Em Taiwan, em 2026, uma em cada 26 pessoas é um trabalhador migrante internacional. O total já chegou a 873 mil e, se incluídos cerca de 94 mil trabalhadores migrantes que perderam contato com as autoridades, esse grupo de estrangeiros representa mais de 5% da população residente de Taiwan. Da cultura das transmissões ao vivo no saguão da Estação Central de Taipé à insistência no «fim do limite de permanência no trabalho» durante a Grande Marcha dos Trabalhadores Migrantes, passando pela onda de oposição aos trabalhadores migrantes indianos — cuja petição ultrapassou 40 mil assinaturas em abril de 2026 —, Taiwan encontra-se numa encruzilhada entre a extrema escassez de mão de obra e a inquietação quanto à inclusão social. Não se trata apenas de política trabalhista, mas de uma provação coletiva sobre como Taiwan define quem somos «nós».
+> **Visão geral em 30 segundos:** No Taiwan de 2026, uma em cada 26 pessoas é um trabalhador migrante internacional. O total já subiu para 873 mil; se contarmos os cerca de 94 mil migrantes desaparecidos, esse grupo de forasteiros já ultrapassa 5% da população residente de Taiwan. Do cultura de transmissões ao vivo no saguão da Estação de Taipé, à insistência da Grande Marcha dos Migrantes pela "abolição do limite de anos de trabalho", até a onda de "oposição aos trabalhadores migrantes indianos" cuja petição superou 40 mil assinaturas em abril de 2026, Taiwan encontra-se no cruzamento entre uma escassez extrema de mão de obra e a ansiedade pela inclusão social. Não é apenas política trabalhista; é uma prova coletiva sobre como Taiwan define "nós".
 
-Em 1989, Taiwan autorizou pela primeira vez a admissão de trabalhadores migrantes para atender às necessidades de grandes obras de infraestrutura [^1]. Trinta e sete anos depois, o papel desse grupo deixou de ser o de «mão de obra complementar» e passou a constituir um «pilar da estrutura social». Segundo as estatísticas mais recentes do Ministério do Trabalho, referentes ao fim de março de 2026, o número de trabalhadores migrantes em situação regular em Taiwan chegou a **873.347**, um crescimento expressivo em relação a dois anos antes [^2]. Incluindo os residentes de nacionalidade estrangeira, a população estrangeira em todo o país já ultrapassou 1,22 milhão de pessoas, cerca de 5,2% do total [^3].
+1989, Taiwan aprovou pela primeira vez a entrada de trabalhadores migrantes para fazer face a grandes obras [^1]. Trinta e sete anos depois, o papel desse grupo passou de "força de trabalho suplementar" para "pilar da estrutura social". Segundo as estatísticas mais recentes do Ministério do Trabalho, de março de 2026, o número de trabalhadores migrantes legais em Taiwan já atingia **873.347 pessoas**, um crescimento acentuado face a dois anos antes [^2]. Se somarmos a população residente de outras nacionalidades, o total de estrangeiros em Taiwan já ultrapassou 1,22 milhão, cerca de 5,2% [^3].
 
-### A realidade por trás dos dados: a composição de uma população de 873 mil pessoas
+### A realidade por trás dos números: a distribuição estrutural de 870 mil
 
-Entre esses 873 mil trabalhadores migrantes, aproximadamente 774 mil possuem autorização de trabalho válida. Cerca de 546 mil são **trabalhadores migrantes do setor produtivo** — 62,5% do total —, concentrados principalmente na fabricação de produtos metálicos (108 mil), de componentes eletrônicos (84 mil) e de alimentos (43 mil). Outros 228 mil são **trabalhadores migrantes da assistência social** — 37,5% — e constituem o único sustentáculo dos cuidados de longa duração para inúmeras famílias [^4].
+Nesses 873 mil trabalhadores migrantes, há cerca de 774 mil permissões de contratação válidas. Desses, os **trabalhadores migrantes industriais** somam cerca de 546 mil (62,5%), concentrados na indústria de produtos metálicos (108 mil), componentes eletrônicos (84 mil) e indústria alimentícia (43 mil); os **trabalhadores migrantes de assistência social** chegam a 228 mil (37,5%), sendo o único esteio do cuidado de longa duração de inúmeras famílias [^4].
 
-Contudo, os dados ocultam uma contradição profunda. Uma pesquisa realizada no fim de 2025 indicou que os setores industrial e de serviços de Taiwan tinham cerca de 263 mil vagas em aberto, enquanto, no mesmo período, quase 400 mil trabalhadores taiwaneses estavam desempregados [^5]. Isso alimenta o antigo debate sobre a «incompatibilidade entre vagas e desempregados»: muitos trabalhadores locais sem emprego não conseguem preencher as vagas dos setores chamados de 3K — difíceis, sujos e perigosos — devido a incompatibilidades de qualificação, idade ou localização. Os trabalhadores migrantes tornam-se, assim, a única fonte capaz de suprir essas funções de baixa remuneração e grande exigência física.
+Contudo, por trás dos dados esconde-se uma contradição profunda. Uma pesquisa de fim de 2025 mostrava que Taiwan tinha cerca de 263 mil vagas na indústria e nos serviços, mas, no mesmo período, perto de 400 mil trabalhadores nacionais estavam desempregados [^5]. Isso reacendeu o debate de longa data sobre o "descompasso entre vagas e desemprego": os desempregados nacionais muitas vezes não preenchem as vagas das indústrias 3K (penosas, sujas, perigosas) por incompatibilidade de competências, idade ou região, enquanto os migrantes se tornam a única fonte para preencher esses postos de baixos salários e alta intensidade física.
 
-### O saguão da Estação Central de Taipé: da «proibição de sentar» à cultura das transmissões ao vivo
+### O saguão da Estação de Taipé: da "proibição de sentar" à cultura de transmissão ao vivo
 
-Aos domingos, os encontros sobre o piso quadriculado em preto e branco do saguão da Estação Central de Taipé — conhecida localmente como Beiche — formam uma das manifestações mais visíveis da presença estrangeira em Taiwan. Durante a pandemia de 2020, essa tradição provocou intensos protestos devido à «proibição de sentar». Após debates sobre o direito ao espaço público e ao descanso dos trabalhadores migrantes, a medida evoluiu para o atual modelo de «abertura condicionada» [^6].
+Aos domingos, as reuniões no chão xadrez preto e branco do saguão da Estação de Taipé (Estação Principal) são a paisagem mais visível da vida forasteira em Taiwan. Essa tradição provocou intensos protestos em 2020, durante a pandemia, devido a uma "ordem de proibição de sentar", evoluindo depois, no debate sobre o direito ao espaço público e o direito ao descanso dos migrantes, para a atual "abertura condicional" [^6].
 
-Para os trabalhadores migrantes, o local não é apenas um entroncamento de transportes, mas também um **«estúdio de transmissão ao vivo»**. No saguão, é possível vê-los por toda parte transmitindo pelo celular, com conteúdos que vão da culinária de seus países às risadas entre amigos [^7].
+Para os migrantes, aqui não é apenas um nó de transportes, mas um ** "estúdio de transmissão"**. No saguão da Estação Principal, vê-se por todo lado migrantes transmitindo ao vivo pelo telemóvel, com conteúdos que vão da culinária da terra natal às gargalhadas com amigos [^7].
 
-- **Apoio psicológico**: as transmissões ao vivo são um cordão umbilical que atravessa o oceano e os mantém ligados à terra natal.
-- **Recuperação do protagonismo**: diante da câmera, eles deixam de ser apenas a força de trabalho convocada pelo empregador e tornam-se sujeitos com vida própria.
-- **Controvérsias**: o ruído, a ocupação do espaço e os custos de limpeza, contudo, continuam gerando reações polarizadas entre moradores e internautas, refletindo as dificuldades da gestão do espaço público.
+- **Apoio psicológico**: a transmissão ao vivo é o cordão umbilical que atravessa o oceano e os liga à terra natal.
+- **Recuperação da subjetividade**: diante da câmara, deixam de ser força de trabalho convocada pelo empregador e passam a ser sujeitos com vida própria.
+- **Controvérsias negativas**: porém, o ruído, a ocupação do espaço e os custos de limpeza que daí decorrem continuam a gerar reações polarizadas entre moradores e internautas, refletindo o dilema da gestão do espaço público.
 
-📝 Nota da curadoria: a luz dos suportes de celular usados nas transmissões é o único holofote que eles próprios podem controlar em terra estrangeira.
+📝 Nota do curador: o brilho dos suportes de telemóvel para transmissão é o único holofote que eles conseguem controlar em terra estranha.
 
-### Os quatro principais países de origem: quatro faces que sustentam Taiwan
+### Quatro países de origem: os quatro rostos que sustentam Taiwan
 
-Antes da admissão formal de trabalhadores migrantes da Índia, o panorama da mão de obra migrante em Taiwan era formado por Indonésia, Vietnã, Filipinas e Tailândia. A distribuição por nacionalidade e as taxas de perda de contato revelam realidades laborais muito distintas [^8]:
+Antes da entrada formal dos trabalhadores indianos, o mapa migratório de Taiwan era composto por Indonésia, Vietnã, Filipinas e Tailândia, cujas nacionalidades e taxas de desaparecimento revelam paisagens laborais radicalmente diferentes [^8]:
 
-#### Indonésia (329 mil pessoas): pilar dos cuidados de longa duração e a controvérsia do «custo zero»
+#### Indonésia (329 mil): pilar do cuidado de longa duração e a controvérsia da "taxa zero"
 
-A Indonésia é a maior origem de trabalhadores migrantes em Taiwan, e cerca de 75% deles atuam na assistência social. São os «familiares invisíveis» de incontáveis famílias taiwanesas, mas também se encontram no centro de uma disputa diplomática. Nos últimos anos, o governo indonésio tem promovido uma política de «custo zero», exigindo que os empregadores assumam as despesas de ida dos trabalhadores a Taiwan, o que provocou forte reação entre os empregadores taiwaneses. Com o contínuo crescimento do PIB per capita da Indonésia, a possibilidade de redução do interesse dos trabalhadores indonésios por Taiwan tornou-se uma preocupação latente para o sistema taiwanês de cuidados de longa duração.
+A Indonésia é o maior país de origem de trabalhadores migrantes de Taiwan, dos quais cerca de 75% trabalham na assistência social. São os "familiares invisíveis" de inúmeras famílias taiwanesas, mas também estão no centro de um cabo de guerra diplomático. Nos últimos anos, o governo indonésio tem promovido a política de "taxa zero", exigindo que o empregador arque com os custos da vinda do migrante, o que provocou forte reação dos empregadores taiwaneses. Com o PIB per capita da Indonésia em contínua alta, a disposição futura dos indonésios para vir a Taiwan tornou-se uma preocupação latente para o sistema de longa duração de Taiwan.
 
-#### Vietnã (294 mil pessoas): força principal da indústria e alto risco de perda de contato
+#### Vietnã (294 mil): força principal da manufatura e alto risco de desaparecimento
 
-Os trabalhadores migrantes vietnamitas constituem a principal força da indústria manufatureira tradicional e da pesca. No entanto, são também o grupo com a maior proporção de pessoas que perdem contato com as autoridades. A principal razão é o enorme peso das dívidas contraídas com intermediários antes da ida a Taiwan. Diante de condições precárias, eles ficam mais propensos a «fugir» para o mercado de trabalho clandestino em busca de rendimentos maiores.
+Os migrantes vietnamitas são a força absoluta da manufatura tradicional e da pesca. No entanto, são também o grupo com maior proporção de desaparecidos, principalmente devido à enorme pressão das dívidas com agências de intermediação contraídas antes da chegada, o que os leva, face a ambientes adversos, a optar mais facilmente por "fugir" para o mercado negro em busca de rendimentos mais altos.
 
-#### Filipinas (178 mil pessoas): indústria eletrônica e domínio do inglês
+#### Filipinas (178 mil): indústria eletrônica e vantagem do inglês
 
-Beneficiados pela maior difusão do inglês, os trabalhadores migrantes filipinos concentram-se na indústria de componentes eletrônicos de alta tecnologia. Graças à facilidade de comunicação, também são muito procurados para funções de cuidado em instituições e no setor de BPO, a terceirização de processos de negócios.
+Graças à maior difusão do inglês, os migrantes filipinos concentram-se na indústria de componentes eletrônicos de alta tecnologia. No cuidado institucionalizado e na indústria de BPO (terceirização de processos de negócios), também são muito procurados pela vantagem linguística.
 
-#### Tailândia (71 mil pessoas): a força por trás do horizonte urbano da construção civil
+#### Tailândia (71 mil): os impulsionadores do horizonte da construção
 
-Das obras rodoviárias da década de 1990 à atual construção de instalações de alta tecnologia de empresas como a TSMC, os trabalhadores migrantes tailandeses sempre foram uma força central da construção civil. Com o desenvolvimento da economia tailandesa, porém, seu número vem diminuindo ano após ano, revelando os desafios de competitividade enfrentados por Taiwan no mercado internacional de trabalho.
+Desde as autoestradas dos anos 1990 até à atual construção de fábricas de alta tecnologia como a TSMC, os migrantes tailandeses sempre foram a espinha dorsal da construção. Contudo, com o desenvolvimento económico da Tailândia, o número de migrantes tailandeses tem diminuído ano a ano, refletindo o desafio da competitividade de Taiwan no mercado internacional de mão de obra.
 
-### Grande Marcha dos Trabalhadores Migrantes: o clamor pelo fim do «limite de permanência no trabalho»
+### A Grande Marcha dos Migrantes: o brado pela abolição do "limite de anos de trabalho"
 
-Realizada a cada dois anos, a Grande Marcha dos Trabalhadores Migrantes voltou às ruas em dezembro de 2025. Além da antiga reivindicação pelo «direito de mudar livremente de empregador», o principal foco desta edição foi o **«fim do limite de permanência dos trabalhadores migrantes de colarinho azul, hoje entre 12 e 14 anos»** [^9].
+A bienal "Grande Marcha dos Migrantes" voltou às ruas em dezembro de 2025. Além da reivindicação de longa data pela "livre mudança de empregador", o foco central desta edição foi a ** "abolição do limite de anos de trabalho dos trabalhadores migrantes operários (12-14 anos)"** [^9].
 
-Embora o governo tenha promovido o «Programa de Retenção de Mão de Obra Técnica de Nível Intermediário» — que, até o início de 2026, havia aprovado mais de 62 mil pessoas — para permitir que trabalhadores migrantes experientes permaneçam em Taiwan, o direito de solicitar a permanência está inteiramente nas mãos do empregador. Além disso, o piso salarial exigido voltou a subir em 2026, fazendo com que muitos trabalhadores experientes ainda tenham de enfrentar a repatriação compulsória ao atingir o limite de permanência [^10].
+Embora o governo promova o "Plano de Retenção de Mão de Obra Técnica de Nível Intermédio" (até início de 2026 já aprovado para mais de 62 mil pessoas), visando permitir que migrantes experientes permaneçam a trabalhar em Taiwan, o direito de candidatura cabe inteiramente ao empregador, e o limiar salarial foi ainda elevado em 2026, fazendo com que muitos migrantes experientes, ao atingir o limite de anos, continuem a enfrentar o dilema da deportação obrigatória [^10].
 
-### Trabalhadores migrantes que perderam contato: 94 mil pessoas e a falência do sistema
+### Trabalhadores migrantes desaparecidos: ultrapassando 94 mil, a falha sistémica
 
-Até o início de 2026, o número de trabalhadores migrantes que haviam perdido contato com as autoridades em Taiwan chegou a **94 mil** [^11]. A principal razão não é uma suposta «inclinação natural à fuga», mas um conjunto de dificuldades sistêmicas:
+No início de 2026, o número de trabalhadores migrantes desaparecidos em Taiwan já atingia **94 mil** [^11]. O desaparecimento não se deve a uma "natureza propensa à fuga", mas a dilemas sistémicos:
 
-- **Taxas elevadas de intermediação**: muitos trabalhadores migrantes já chegam a Taiwan profundamente endividados, e desaparecer do sistema torna-se a única forma de quitar suas dívidas [^12].
-- **Trabalho forçado e descontos abusivos**: o Relatório sobre Tráfico de Pessoas dos Estados Unidos de 2025 indicou que ainda há, em Taiwan, casos de empregadores que retêm ilegalmente os salários de trabalhadores migrantes [^13].
-- **Tendência de melhora**: embora o total acumulado continue elevado, o número de novos casos de perda de contato desacelerou em 2025, indicando que as medidas de fiscalização e prevenção começam lentamente a produzir resultados.
+- **Altas taxas de intermediação**: os migrantes já chegam endividados, e o desaparecimento torna-se a única via para pagar as dívidas [^12].
+- **Trabalho forçado e retenção indevida**: o Relatório de Tráfico de Pessoas de 2025 dos EUA aponta que Taiwan ainda regista casos de empregadores que retêm ilegalmente salários de migrantes [^13].
+- **Tendência de melhoria**: embora o total acumulado permaneça alto, os novos desaparecidos em 2025 já mostram abrandamento, indicando que as medidas de fiscalização e prevenção começam a surtir efeito gradual.
 
-### A questão dos trabalhadores migrantes indianos: a admissão «condicionada» de 2026
+### A questão dos trabalhadores migrantes indianos: a entrada "condicional" de 2026
 
-Após a assinatura de um memorando de entendimento entre Taiwan e a Índia em 2024, a controvérsia atingiu um novo auge em abril de 2026. Diante da pressão de uma petição que ultrapassou **40 mil assinaturas**, o ministro do Trabalho, **Hung Sun-han**, apresentou no Yuan Legislativo, o Parlamento de Taiwan, **«duas condições prévias»** para a admissão desses trabalhadores [^14]:
+Após a assinatura do MOU entre Taiwan e Índia em 2024, a controvérsia atingiu novo pico em abril de 2026. Perante a pressão de uma petição que superou **40 mil** assinaturas, a ministra do Trabalho **Hung Shen-han** apresentou na Legislativa os ** "dois pré-requisitos" ** para a entrada [^14]:
 
-1. **Existência de demanda efetiva por parte das empresas**.
-2. **Compatibilidade do plano de execução indiano com as exigências e os mecanismos de controle de Taiwan**.
+1. **As empresas terem de facto necessidade**.
+2. **O plano de execução do lado indiano cumprir os nossos requisitos e controlos**.
 
-Hung Sun-han ressaltou: «Se esses dois princípios não forem cumpridos, não haverá admissão nem cronograma». A postura cautelosa procura responder à intensa fiscalização da oposição — a bancada do Kuomintang —, que sustenta ser contrária à inclusão de um novo país de origem enquanto o sistema atual, no qual 90 mil trabalhadores perderam contato com as autoridades, não for reformado [^15].
+Hung Shen-han sublinhou: "Se não se cumprirem estes dois princípios, não há questão de entrada, nem calendário." Essa atitude cautelosa visa responder à forte fiscalização da oposição (bancada do Kuomintang) — a oposição defende que "enquanto o atual sistema de 90 mil desaparecidos não for melhorado, opõe-se a novos países de origem" [^15].
 
-📝 Nota da curadoria: o pêndulo das políticas públicas busca um dificílimo ponto de equilíbrio entre a urgência da escassez de mão de obra e a coesão social.
+📝 Nota do curador: o pêndulo da política oscila entre a "urgência da falta de mão de obra" e a "coesão social", buscando o mais difícil dos equilíbrios.
 
-### Conclusão: equilibrar a escassez de mão de obra e a inclusão
+### Conclusão: equilibrar entre a falta de mão de obra e a inclusão
 
-Em 2026, Taiwan enfrenta a dupla pressão da baixa natalidade e da ruptura na reposição da força de trabalho. Admitir trabalhadores migrantes indianos e diversificar os países de origem são medidas necessárias para distribuir os riscos. Contudo, se não forem enfrentados os custos elevados de intermediação, a subnotificação dos trabalhadores que desaparecem do sistema e os preconceitos raciais velados da sociedade, o simples aumento do «número de pessoas» apenas aprofundará as contradições.
+O Taiwan de 2026 enfrenta a dupla pressão do envelhecimento populacional e da fratura da força de obra. Trazer trabalhadores indianos, diversificar os países de origem, é uma medida necessária para dispersar riscos. Contudo, se não se resolverem as altas taxas de intermediação, os números negros de desaparecidos e o preconceito racial latente na sociedade, o simples aumento do "número de pessoas" só aprofundará as contradições.
 
-Como Taiwan poderá, ao mesmo tempo que busca o desenvolvimento econômico, tratar de fato os trabalhadores migrantes como «futuros cidadãos», e não como mera «mão de obra complementar»? Essa tarefa não cabe apenas ao governo: é uma questão comum aos 23 milhões de taiwaneses.
+Como pode Taiwan, ao perseguir o desenvolvimento económico, passar a ver verdadeiramente os migrantes como "futuros nacionais" e não meramente "força de trabalho suplementar"? Não é apenas uma tarefa governamental, é o desafio comum dos 23 milhões de taiwaneses.
+
+---
+
+**Leitura complementar**:
+
+- [Taiwan COVID-19 e vacinas](/society/台灣新冠疫情與疫苗) — O confinamento de migrantes em Miaoli, em junho de 2021, foi um momento em que estas condições de trabalho e habitação foram levadas ao limite pela pandemia
+- [Sistema de saúde pública e prevenção epidémica de Taiwan](/pt/society/taiwan-public-health-epidemic-response) — Contexto institucional da inclusão dos migrantes no sistema de saúde pública e médica
 
 ---
 
 ### Referências
 
-[^1]: [Breve histórico da admissão de trabalhadores estrangeiros em Taiwan](https://www.mol.gov.tw/) — site oficial do Ministério do Trabalho. Consulte o conteúdo do link original para mais detalhes.
+[^1]: [Breve história da introdução de trabalhadores estrangeiros em Taiwan](https://www.mol.gov.tw/) — Site oficial do Ministério do Trabalho.：Ver conteúdo do link original
 
-[^2]: [Estatísticas sobre trabalhadores migrantes no fim de março de 2026: total supera 873 mil](https://statfy.mol.gov.tw/index12.aspx) — sistema de consulta estatística do Ministério do Trabalho. Consulte o conteúdo do link original para mais detalhes.
+[^2]: [Estatísticas de trabalhadores migrantes de março de 2026: ultrapassa a marca de 873 mil](https://statfy.mol.gov.tw/index12.aspx) — Rede de consultas estatísticas do Ministério do Trabalho.：Ver conteúdo do link original
 
-[^3]: [Vietnamitas foram embora, indianos ainda não chegaram: uma análise do panorama dos trabalhadores migrantes em Taiwan](https://www.taisounds.com/news/content/76/253133) — reportagem especial do TaiSounds. Consulte o conteúdo do link original para mais detalhes.
+[^3]: [Vietnamitas fugiram, indianos ainda não vieram: análise do mapa migratório de Taiwan](https://www.taisounds.com/news/content/76/253133) — Reportagem aprofundada do The Reporter.：Ver conteúdo do link original
 
-[^4]: [Estatísticas de trabalhadores migrantes por ramo da indústria manufatureira: relatório de março de 2026](https://www.champions.com.tw/index.php/news/newsletter/2027-2026-03-03) — Champions Online. Consulte o conteúdo do link original para mais detalhes.
+[^4]: [Estatísticas de trabalhadores migrantes por setor da manufatura: relatório de março de 2026](https://www.champions.com.tw/index.php/news/newsletter/2027-2026-03-03) — Chang Hong Online.：Ver conteúdo do link original
 
-[^5]: [Taiwan precisa admitir trabalhadores migrantes indianos? 260 mil vagas contra 400 mil desempregados](https://www.storm.mg/article/11122659) — artigo especial do The Storm Media.
+[^5]: [Taiwan precisa de trazer trabalhadores migrantes indianos? 260 mil vagas vs. 400 mil desempregados](https://www.storm.mg/article/11122659) — Storm Media.：Artigo especial da Storm Media
 
-[^6]: [Retrospectiva e situação atual da controvérsia sobre a proibição de sentar no saguão da Estação Central de Taipé](https://www.peopo.org/news/503289) — PeoPo Citizen Journalism.
+[^6]: [Retrospectiva e situação atual da controvérsia da proibição de sentar no saguão da Estação de Taipé](https://www.peopo.org/news/503289) — PeoPo Notícias Cidadãs.
 
-[^7]: [A cultura das transmissões ao vivo entre trabalhadores migrantes: a recuperação do protagonismo no cotidiano](https://www.cna.com.tw/culture/article/20230212w003) — reportagem da Central News Agency.
+[^7]: [Cultura de transmissão ao vivo dos migrantes: recuperando a subjetividade no quotidiano](https://www.cna.com.tw/culture/article/20230212w003) — Agência Central de Notícias.：Reportagem da CNA
 
-[^8]: [Distribuição dos trabalhadores migrantes por nacionalidade no fim de fevereiro de 2026](https://www.threads.com/@smilehumanbeing/post/DXJdUD5ko4n/) — debate temático sobre trabalhadores migrantes. Consulte o conteúdo do link original para mais detalhes.
+[^8]: [Estatísticas de distribuição por nacionalidade de trabalhadores migrantes de fevereiro de 2026](https://www.threads.com/@smilehumanbeing/post/DXJdUD5ko4n/) — Discussão temática sobre questões migratórias.：Ver conteúdo do link original
 
-[^9]: [Grande Marcha dos Trabalhadores Migrantes volta às ruas e reivindica o fim do limite de permanência](https://www.peopo.org/news/831618) — PeoPo Citizen Journalism.
+[^9]: [Grande Marcha dos Migrantes volta às ruas: clamor pela abolição do limite de anos](https://www.peopo.org/news/831618) — PeoPo Notícias Cidadãs.
 
-[^10]: [Programa de Retenção de Mão de Obra Técnica de Nível Intermediário: avaliação aprofundada dos resultados de 2026](https://ss1689.com/2026-%E4%B8%AD%E9%9A%8E%E6%8A%80%E8%A1%93%E4%BA%BA%E5%8A%9B%E9%80%B2%E9%9A%8E%E7%89%88%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90%EF%BC%9A%E4%B8%80%E8%88%AC%E5%A4%96%E5%8B%9E-vs-%E4%B8%AD%E9%9A%8E%E6%8A%80/) — análise aprofundada de uma agência de mão de obra. Consulte o conteúdo do link original para mais detalhes.
+[^10]: [Plano de Retenção de Mão de Obra Técnica de Nível Intermédio: avaliação aprofundada da eficácia de 2026](https://ss1689.com/2026-%E4%B8%AD%E9%9A%8E%E6%8A%80%E8%A1%93%E4%BA%BA%E5%8A%9B%E9%80%B2%E9%9A%8E%E7%89%88%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90%EF%BC%9A%E4%B8%80%E8%88%AC%E5%A4%96%E5%8B%9E-vs-%E4%B8%AD%E9%9A%8E%E6%8A%80/) — Análise aprofundada de agência de intermediação.：Ver conteúdo do link original
 
-[^11]: [Trabalhadores migrantes que perderam contato ultrapassam 94 mil: um problema estrutural que atinge 11% do total](https://www.21manpower.com.tw/%E5%A4%B1%E8%81%AF%E7%A7%BB%E5%B7%A5/36977/) — 21st Century Human Resources.
+[^11]: [Trabalhadores migrantes desaparecidos ultrapassam 94 mil: problema estrutural de 11% do total](https://www.21manpower.com.tw/%E5%A4%B1%E8%81%AF%E7%A7%BB%E5%B7%A5/36977/) — 21st Century Recursos Humanos.
 
-[^12]: [O debate sobre os trabalhadores migrantes indianos não pode ignorar as 90 mil pessoas desaparecidas do sistema nem o problema das taxas de intermediação](https://tw.news.yahoo.com/201000747.html) — reportagem do Yahoo Notícias.
+[^12]: [Debate sobre trabalhadores migrantes indianos: não ignorar os 90 mil desaparecidos e o dilema das taxas de intermediação](https://tw.news.yahoo.com/201000747.html) — Yahoo Notícias.：Reportagem do Yahoo Notícias
 
-[^13]: [Relatório sobre Tráfico de Pessoas dos Estados Unidos de 2025: situação dos direitos dos trabalhadores migrantes em Taiwan](https://www.ait.org.tw/zhtw/zhtw-2025-trafficking-in-persons-report-taiwan/) — Instituto Americano em Taiwan (AIT).
+[^13]: [Relatório de Tráfico de Pessoas de 2025 dos EUA: situação atual dos direitos dos migrantes em Taiwan](https://www.ait.org.tw/zhtw/zhtw-2025-trafficking-in-persons-report-taiwan/) — Instituto Americano em Taiwan (AIT).
 
-[^14]: [Ministro Hung Sun-han: admissão de trabalhadores migrantes indianos depende de duas condições e não tem cronograma](https://tw.news.yahoo.com/081213432.html) — reportagem do Yahoo Notícias.
+[^14]: [Ministra Hung Shen-han: entrada de trabalhadores migrantes indianos deve satisfazer dois pré-requisitos, sem calendário](https://tw.news.yahoo.com/081213432.html) — Yahoo Notícias.：Reportagem do Yahoo Notícias
 
-[^15]: [Duas condições para a vinda de trabalhadores migrantes indianos a Taiwan: controle cauteloso, sem precipitação](https://www.dpp.org.tw/anti_rumor/contents/426) — esclarecimento nos sites oficiais do Ministério do Trabalho e do Partido Democrático Progressista.
+[^15]: [Dois princípios para trabalhadores migrantes indianos em Taiwan: controlo prudente, sem precipitação](https://www.dpp.org.tw/anti_rumor/contents/426) — Ministério do Trabalho e site do DPP para esclarecimento.
