@@ -144,13 +144,24 @@ def main() -> int:
     # 讀起來完好。掉的是讀者查證的入口。
     # 補回的方式跟上面同理：接在該行末尾，只增不改。它原本嵌在中文句子中間，
     # 而譯文那句已經是越南語，插回原位需要判斷句子結構；接在尾端不需要。
-    any_url = re.compile(r"https?://[^\s)\]<>\"']+")
+    # 中文原稿的網址後面常緊跟全形標點——`…j.stem.2010.08.012）與 Moderna 公司…`。
+    # 只排除半形 `)` 的字元類會把 `）與` 一起吃進網址，接回去就成了
+    # `（<https://…012）與>）` 這種髒東西（實測污染 5 條腳註，而且它「看起來像
+    # 有補到」）。所以角括號 autolink 優先整段取出，剩下的裸網址才用排除全形
+    # 標點的字元類抓——維基網址裡的漢字（`zh-tw/蛋堡`）要留著，被排除的只有標點。
+    angle = re.compile(r"<(https?://[^>\s]+)>")
+    bare = re.compile(r"https?://[^\s)\]<>\"'（）【】「」『』《》〈〉，。、；：！？]+")
+
+    def prose_urls(line: str) -> list[str]:
+        out = angle.findall(line)
+        return out + bare.findall(angle.sub(lambda m: " " * len(m.group(0)), line))
+
     prose_restored = []
     for fid, (idx, _) in tr_fn.items():
         if fid not in zh_fn:
             continue
         cur = tr_lines[idx].rstrip("\n")
-        missing = [u for u in any_url.findall(zh_fn[fid][1]) if u not in cur]
+        missing = [u for u in prose_urls(zh_fn[fid][1]) if u not in cur]
         if not missing:
             continue
         tr_lines[idx] = cur.rstrip() + " " + " ".join(f"（<{u}>）" for u in missing) + "\n"
