@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-09T20:01:02+08:00",
+ "generated_at": "2026-08-09T21:01:43+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-09T20:00:59+08:00",
+ "snapshot_ts": "2026-08-09T21:01:40+08:00",
  "total_zh": 891,
  "langs": [
   {
@@ -20,7 +20,7 @@
    "stale": 24,
    "missing": 19,
    "coverage_pct": 97.9,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "ko",
@@ -105,39 +105,55 @@
   }
  ],
  "gap_total": 1296,
- "gap_delta": -1,
+ "gap_delta": 0,
  "rate_1h": {
-  "delta": 11,
-  "span_h": 1.02,
-  "per_hour": 10.8
+  "delta": 0,
+  "span_h": 1.01,
+  "per_hour": 0.0
  },
  "rate_24h": {
   "delta": 460,
   "span_h": 24.02,
   "per_hour": 19.1
  },
- "eta_days": 5.0,
+ "eta_days": null,
  "nodes": {
   "worker:nemo4": {
    "ok": 19,
-   "fail": 36,
+   "fail": 38,
    "avg_s": 342.4,
    "top_fail": [
     [
      "no output written by tra",
-     17
+     19
     ],
     [
      "verify=1 [frontmatter no",
      10
     ]
    ],
-   "last_activity": "2026-08-09T19:47:35+08:00"
+   "last_activity": "2026-08-09T20:11:29+08:00"
   },
   "worker:nemo3": {
    "ok": 17,
-   "fail": 43,
+   "fail": 44,
    "avg_s": 299.5,
+   "top_fail": [
+    [
+     "no output written by tra",
+     22
+    ],
+    [
+     "verify=1 [frontmatter no",
+     13
+    ]
+   ],
+   "last_activity": "2026-08-09T20:22:36+08:00"
+  },
+  "worker:nemo2": {
+   "ok": 25,
+   "fail": 41,
+   "avg_s": 242.0,
    "top_fail": [
     [
      "no output written by tra",
@@ -145,42 +161,26 @@
     ],
     [
      "verify=1 [frontmatter no",
-     13
-    ]
-   ],
-   "last_activity": "2026-08-09T19:43:34+08:00"
-  },
-  "worker:nemo2": {
-   "ok": 25,
-   "fail": 38,
-   "avg_s": 242.0,
-   "top_fail": [
-    [
-     "no output written by tra",
-     18
-    ],
-    [
-     "verify=1 [frontmatter no",
      7
     ]
    ],
-   "last_activity": "2026-08-09T19:27:18+08:00"
+   "last_activity": "2026-08-09T20:28:28+08:00"
   },
   "worker:nemo": {
    "ok": 16,
-   "fail": 30,
+   "fail": 32,
    "avg_s": 656.2,
    "top_fail": [
     [
      "no output written by tra",
-     13
+     15
     ],
     [
      "verify=1 [frontmatter no",
      8
     ]
    ],
-   "last_activity": "2026-08-09T19:59:45+08:00"
+   "last_activity": "2026-08-09T20:59:00+08:00"
   },
   "worker:macm4max": {
    "ok": 52,
@@ -200,19 +200,19 @@
   },
   "worker:desktop3090": {
    "ok": 24,
-   "fail": 51,
+   "fail": 57,
    "avg_s": 72.9,
    "top_fail": [
     [
      "no output written by tra",
-     39
+     42
     ],
     [
      "patch candidate rejected",
-     9
+     12
     ]
    ],
-   "last_activity": "2026-08-09T19:32:11+08:00"
+   "last_activity": "2026-08-09T20:44:10+08:00"
   },
   "endpoint:local": {
    "alive": true
@@ -234,39 +234,19 @@
   {
    "kind": "unified",
    "pid": "10684",
-   "uptime": "11:59:40",
+   "uptime": "13:00:21",
    "langs": "en,es,fr,ko",
    "workers": 2
   },
   {
    "kind": "unified",
    "pid": "10692",
-   "uptime": "11:59:40",
+   "uptime": "13:00:21",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-08T19:44:27+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T19:59:38+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T20:14:48+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T20:29:58+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
   {
    "ts": "2026-08-08T20:45:08+08:00",
    "fresh_total": 8045,
@@ -724,6 +704,26 @@
   },
   {
    "ts": "2026-08-09T20:00:59+08:00",
+   "fresh_total": 8505,
+   "gap_total": 1296
+  },
+  {
+   "ts": "2026-08-09T20:16:09+08:00",
+   "fresh_total": 8505,
+   "gap_total": 1296
+  },
+  {
+   "ts": "2026-08-09T20:31:20+08:00",
+   "fresh_total": 8505,
+   "gap_total": 1296
+  },
+  {
+   "ts": "2026-08-09T20:46:30+08:00",
+   "fresh_total": 8505,
+   "gap_total": 1296
+  },
+  {
+   "ts": "2026-08-09T21:01:40+08:00",
    "fresh_total": 8505,
    "gap_total": 1296
   }
