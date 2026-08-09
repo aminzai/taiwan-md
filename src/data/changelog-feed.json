@@ -1,7 +1,1407 @@
 {
-  "generatedAt": "2026-08-08T22:11:44.294Z",
+  "generatedAt": "2026-08-09T22:11:51.990Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "cb3db2cd6197a89bbf27225935ac9044cc33da19",
+      "date": "2026-08-10T05:37:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-10 05:37 — 三層對賬第十七輪，18 條全 in-sync 零漂移",
+      "articles": []
+    },
+    {
+      "hash": "c112576922a2149fd558c64abbf804192c8f3ba3",
+      "date": "2026-08-10T05:37:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-10 05:39 — 12 語重建 9557 向量 0 fail，較昨夜 +502",
+      "articles": []
+    },
+    {
+      "hash": "41cf7dd8937a4cdfe7a8be7484a4aecf5f3c5a29",
+      "date": "2026-08-10T05:35:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-10 05:37",
+      "articles": []
+    },
+    {
+      "hash": "31973795470dc60ae2976ac7173b8aeb2f614443",
+      "date": "2026-08-10T01:12:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-supporters-weekly @ 2026-08-10 01:11 — 第三次連續 Gmail MCP 缺席，Stage 2 阻塞，vc=3 升 LESSONS P0",
+      "articles": []
+    },
+    {
+      "hash": "56004afe6bbe4ab568653231934b0740a379b7f1",
+      "date": "2026-08-09T21:36:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge branch 'main' of https://github.com/frank890417/taiwan-md",
+      "articles": []
+    },
+    {
+      "hash": "09c47905ba52e4dee9e36348a9ab8d33d2bf9378",
+      "date": "2026-08-09T21:34:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary — 當我立的尺開始教別人破壞內容",
+      "articles": []
+    },
+    {
+      "hash": "a09324f6c0afb7aa41510609fa7da4e22cd887be",
+      "date": "2026-08-09T21:32:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 越南語委派五批 344 篇落地，vi 43.2%→81.8%",
+      "articles": []
+    },
+    {
+      "hash": "b995cb72c1031288499672753dd922724b31dc09",
+      "date": "2026-08-09T21:20:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-audit-weekly @ 2026-08-09 21:19 — 稽核工具兩條上週教訓本週證實更廣，第三條達 distill 門檻",
+      "articles": []
+    },
+    {
+      "hash": "c93e98311fc68e3da308ceb8211f1161f5e78fb1",
+      "date": "2026-08-09T21:18:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] routine-audit-weekly: 683 commits / 3 patterns / 1 distill-ready — 2026-08-09",
+      "articles": []
+    },
+    {
+      "hash": "1c6b116118058c7fbb8b1bd5d471234b59d19b6f",
+      "date": "2026-08-09T21:14:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ko 批次 11 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "268d1df6016fec98066835eda1fb650045a25bf9",
+      "date": "2026-08-09T21:14:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 6 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "df7b12510005f9c9ac3e46de12f7b8d34a2465c8",
+      "date": "2026-08-09T21:14:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: es 批次 7 篇（unified dispatcher, worker=macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "d83ea75d364a0ed283ab1ad87304427c4031e114",
+      "date": "2026-08-09T21:14:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en 批次 6 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "4c26d7c70210b095f92045249e050abc474f1849",
+      "date": "2026-08-09T21:01:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "29fd8db27ed32595f363c18af25538a69c201a07",
+      "date": "2026-08-09T20:01:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "c1df13bc6b56f7aba9d5d49a47b5421407c4d42b",
+      "date": "2026-08-09T19:47:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ja 批次 4 篇（unified dispatcher, worker=nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "7d418dbc5848c892812ba8cb0c30fe449dd3e674",
+      "date": "2026-08-09T18:44:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en 批次 9 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "03d69ef6842fb2e2ff8f2045acab0e776c32ef45",
+      "date": "2026-08-09T18:41:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: es 批次 8 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "f81038c98f25b3829617be3e17e9d54bb925211d",
+      "date": "2026-08-09T18:33:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 9 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "99bef8bf032f0919dfbf14a82d3e332cdce8e846",
+      "date": "2026-08-09T18:13:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "a43040d801175d943d226c4fe363bb15c8b8edb2",
+      "date": "2026-08-09T17:58:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ko 批次 11 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "2abd3c129ba10084e37d10c56ee5bffb7c7be954",
+      "date": "2026-08-09T17:44:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 11 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "5367f0f0953bc1d0d2ad3b2b3eea7ba2e01cbf01",
+      "date": "2026-08-09T17:35:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 6 篇（unified dispatcher, worker=nemo+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "2f92ca8cf79d49060a71f21668029131fdb269ba",
+      "date": "2026-08-09T17:28:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 8 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "73a1c9668fabb90c4d0b3d5511af986793889d89",
+      "date": "2026-08-09T17:13:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "a91edfbcdaf9d0e10b29609e69ec62cabe1f4cf5",
+      "date": "2026-08-09T16:11:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "8e2b663bb7b0e8b544928643d000324d999b647a",
+      "date": "2026-08-09T16:04:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 5 篇（unified dispatcher, worker=nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "54b3d411d37b3c4f34433597b4a0e988cf967222",
+      "date": "2026-08-09T15:58:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 6 篇（unified dispatcher, worker=nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "0fea4a402e55cd9d45ad69217242f5e26f4570de",
+      "date": "2026-08-09T15:57:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ja 批次 4 篇（unified dispatcher, worker=nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "80f03b9b7156e939c162d87b3f79973348d8c57e",
+      "date": "2026-08-09T15:50:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 4 篇（unified dispatcher, worker=nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "500805a0e20f4e99ed1c09835dc831b7b3775695",
+      "date": "2026-08-09T15:39:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 6 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "9e987267686f652e7cfc3ea95ec127f722c256b7",
+      "date": "2026-08-09T15:10:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2826c35bc147f841f377470437a713b75efebae4",
+      "date": "2026-08-09T15:02:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 4 篇（unified dispatcher, worker=nemo2+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "fd380fc0e8e887cff2343b158fdb98fdbc0341b5",
+      "date": "2026-08-09T14:18:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 6 篇（unified dispatcher, worker=nemo+nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "3632cb3f321cdab372fe86232ba17a1b2c4601b1",
+      "date": "2026-08-09T14:08:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "4c1f96e864214e1744dfac6ffb6f9e5c59d47551",
+      "date": "2026-08-09T13:35:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 3 篇（unified dispatcher, worker=nemo）",
+      "articles": []
+    },
+    {
+      "hash": "912a080b647d1a0050a9a98e4f1a4b044ab8f0df",
+      "date": "2026-08-09T13:07:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "1b04f313f4ec69846df1484e6828fccbb9eb0d3a",
+      "date": "2026-08-09T13:05:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 3 篇（unified dispatcher, worker=nemo+nemo2）",
+      "articles": []
+    },
+    {
+      "hash": "5afb5bc9291215c79d97ff50a50ac531e1088189",
+      "date": "2026-08-09T13:00:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 3 篇（unified dispatcher, worker=nemo+nemo2）",
+      "articles": []
+    },
+    {
+      "hash": "72e502b268333f043e6d31ebda6c27cad2565aa7",
+      "date": "2026-08-09T12:57:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ja 批次 3 篇（unified dispatcher, worker=nemo2）",
+      "articles": []
+    },
+    {
+      "hash": "bb871da7d868c0876932f6fa488581c5b8df499b",
+      "date": "2026-08-09T12:39:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（8 篇）",
+      "articles": []
+    },
+    {
+      "hash": "dcf2b59a66bfc3e2b25188afa8f1f37a58bca7ae",
+      "date": "2026-08-09T12:33:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（7 篇）",
+      "articles": []
+    },
+    {
+      "hash": "d12371689d9c2e103572bed9307135a8aef928f9",
+      "date": "2026-08-09T12:31:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "78a1733e5066d92489e8c14113461cfb4ba96b0b",
+      "date": "2026-08-09T12:30:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "0dbaebdad522f5b37c51aad89261e8ffe95c51aa",
+      "date": "2026-08-09T12:27:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "740ab7c1076166c95bb7f3d6d36342377104d537",
+      "date": "2026-08-09T12:26:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（9 篇）",
+      "articles": []
+    },
+    {
+      "hash": "ff2db37c0c3fe209620003cb407b78860a1446cd",
+      "date": "2026-08-09T12:23:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第五批續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "b5f0136b6f3d363f05955f16e326e60fadd771f3",
+      "date": "2026-08-09T12:21:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批 100 篇完成、第五批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "84eb9a9bb49c274885557e43c885a5c120d7e1b0",
+      "date": "2026-08-09T12:21:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批完成、第五批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "36dba622f15dbb0f0a33c2a706b7e8a6fed6827f",
+      "date": "2026-08-09T12:20:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "e6fc47ce15b605c3406c48d286fffefbd0842c8a",
+      "date": "2026-08-09T12:19:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（5 篇）",
+      "articles": []
+    },
+    {
+      "hash": "231daa8da31b3c99c2be9f5fb6bdc7f90d728d26",
+      "date": "2026-08-09T12:18:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "452b0efaf574c6ab9ca7bf2ec9d4454b85680f9f",
+      "date": "2026-08-09T12:18:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "b75c97112e0fc37f8dbd61ee19e2390bce0cbdd9",
+      "date": "2026-08-09T12:17:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "359784f8a70749338bbec20f3ce4a9ddcbaff032",
+      "date": "2026-08-09T12:13:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "cecc7fdf8f809907171f3671b2c6a3d4e886f432",
+      "date": "2026-08-09T12:13:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（6 篇）",
+      "articles": []
+    },
+    {
+      "hash": "969f5cdf28d5aed0420c0529c724658f8cac578c",
+      "date": "2026-08-09T12:12:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "5284bfd63bc48877507b48900dddac87b2650c35",
+      "date": "2026-08-09T12:11:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（9 篇）",
+      "articles": []
+    },
+    {
+      "hash": "998280b8a64666f15ba48cd1954e30780235a0ce",
+      "date": "2026-08-09T12:08:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "f2cb46c33e419db7d737e4ae33b638031a226a80",
+      "date": "2026-08-09T12:06:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "8be191c3ea1a63e71a84b885b9d6402bb9d5983d",
+      "date": "2026-08-09T12:05:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "d1229702d13898ec09b83c4431e689815c595ea6",
+      "date": "2026-08-09T12:05:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "83909701a6f07ec26c1c69d47a8a039b324f813c",
+      "date": "2026-08-09T12:04:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（6 篇）",
+      "articles": []
+    },
+    {
+      "hash": "86276212f44e69e3fc6524b1c9e2c65b326ff7f1",
+      "date": "2026-08-09T12:00:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: autolink 補漏層改對整份譯文問「有沒有」（6 檔）",
+      "articles": []
+    },
+    {
+      "hash": "ecebec6733727aab6e3d05035d3918823c99e2d2",
+      "date": "2026-08-09T11:57:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "4ef5c8b23dd19621a17ada535bd8a701fea4bc93",
+      "date": "2026-08-09T11:56:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（4 篇）",
+      "articles": []
+    },
+    {
+      "hash": "c946b259231686ec15d2871e5d3137eb3e371b59",
+      "date": "2026-08-09T11:54:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（6 篇）",
+      "articles": []
+    },
+    {
+      "hash": "401a385b1d4464f72f9bf14b465a3ea75a97f308",
+      "date": "2026-08-09T11:52:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "26f54190056a82560134b3653a6a105080318640",
+      "date": "2026-08-09T11:50:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 多來源補漏層別再製造重複（5 檔）",
+      "articles": []
+    },
+    {
+      "hash": "caf47868ebb978457ab79ee9b194c40741735848",
+      "date": "2026-08-09T11:49:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "ad96e35bb6b8ecfe1325a3fc98c144dfa2bc3170",
+      "date": "2026-08-09T11:49:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "29f4fec64a0bb8303192d814bfec3a6e1f22ec15",
+      "date": "2026-08-09T11:48:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "9421820fa0812318b2d5bd9d641136001a760f9e",
+      "date": "2026-08-09T11:47:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "6fd0d8979c6bfd7ec51295a99774c5d05ae5af22",
+      "date": "2026-08-09T11:47:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "9ffdd81ce875d98cd39fe94b729e3073f7ba1294",
+      "date": "2026-08-09T11:47:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "21046fb898ea885cf39b4562cf214846ae643cf1",
+      "date": "2026-08-09T11:46:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "beda1a308dcba4e796612455b430e3601352e374",
+      "date": "2026-08-09T11:45:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "dfc77f5fc8ca00fc35d87e6d7f8f3d3f294b0cff",
+      "date": "2026-08-09T11:44:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "e942fac8bf5835847f63c544fa6f338f6bd358fc",
+      "date": "2026-08-09T11:43:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "a27747eafe99b6516391b9a6928fd946ed2f1052",
+      "date": "2026-08-09T11:42:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "e861f12c3b7203a1b35e07a4279a9bf831815c3b",
+      "date": "2026-08-09T11:42:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "cc1ad9df9a40a870261ea0a0261980bd19ab782d",
+      "date": "2026-08-09T11:41:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "e291a9e4c46d9be131ae40ecb6e9635e7c7abb35",
+      "date": "2026-08-09T11:40:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "4e9dd74e1fb8f44d58c63139558a5ba801f79f73",
+      "date": "2026-08-09T11:39:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 網址竄改的第三種形狀 + 第四批續落地",
+      "articles": []
+    },
+    {
+      "hash": "60fee0588b893d31ebafc08efea8c63dd18ee441",
+      "date": "2026-08-09T11:37:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "2356c2632023f87b65e822eda39963bc99cb0f47",
+      "date": "2026-08-09T11:37:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "1c439e1859ed5c9bcae091e6fef7ebe842d13834",
+      "date": "2026-08-09T11:36:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "b9722d583dfa891daa31cd45ec1f5b42a92769f6",
+      "date": "2026-08-09T11:36:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（3 篇）",
+      "articles": []
+    },
+    {
+      "hash": "abe177af92ace68808aa069b812dff3f3482cc22",
+      "date": "2026-08-09T11:34:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "716b40a3302199980bd30ebbf76e46f63d100360",
+      "date": "2026-08-09T11:31:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 嘻哈篇的藝名與死連結還原",
+      "articles": []
+    },
+    {
+      "hash": "c8504b406992195aa0a1e62ed363540240abe235",
+      "date": "2026-08-09T11:31:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] editorial: 越南語指南補藝名／團名／機構名規則",
+      "articles": []
+    },
+    {
+      "hash": "ca5290f3f4612dc3906a2ed6e93c73ba02815998",
+      "date": "2026-08-09T11:28:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第四批續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "6b610ec4071eeb6b26b7b92023b014726a443386",
+      "date": "2026-08-09T11:28:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（2 篇）",
+      "articles": []
+    },
+    {
+      "hash": "5f65cbc39cd1c9595db426c36120ea0a01d88de2",
+      "date": "2026-08-09T11:27:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "d99ad44c366cc7822e6918c920fd91039ab2fb99",
+      "date": "2026-08-09T11:26:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語批次續落地（1 篇）",
+      "articles": []
+    },
+    {
+      "hash": "6ca2d1bdf4ee2cfa53b862620ac572cc4751a967",
+      "date": "2026-08-09T11:22:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "7b442657bfa51f8919b52214f46c3c84b9216172",
+      "date": "2026-08-09T11:22:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: cjk-leak-check 兩處死掉的豁免",
+      "articles": []
+    },
+    {
+      "hash": "e82650914b5355e4b22d7f5a74aa53cb508a0831",
+      "date": "2026-08-09T11:18:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續 8 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "12279a33c8fbb09ad170616f83fa52b570c2a6f7",
+      "date": "2026-08-09T11:17:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "c38d65a92ee96950bf072d6ee35ebfe3a52e5767",
+      "date": "2026-08-09T11:17:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "45a8f6ddedda5fdb8bd36214a8ca11407fd41fc5",
+      "date": "2026-08-09T11:14:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "b95727b9222a6e91f3047f952f257802d74689eb",
+      "date": "2026-08-09T11:12:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "c2e980e7de4b440ed7dd81e6a5837036b29afc38",
+      "date": "2026-08-09T11:12:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "e1f04dfc9405ab3082de81c8dd2c755f6b97c7bc",
+      "date": "2026-08-09T11:10:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地",
+      "articles": []
+    },
+    {
+      "hash": "c36bc812ce374d42c0ee5a8647ddd9106067495e",
+      "date": "2026-08-09T11:10:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續 6 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "686aa457d1cd5e84c905ac6aaed3885ee1f37ee2",
+      "date": "2026-08-09T11:05:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 3 篇（unified dispatcher, worker=nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "c0db9b9a7aaea5883f16ca2a33669a26bd4b9381",
+      "date": "2026-08-09T11:05:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "c82c148a2121d112cf09cc60b5e87cdfc5d94108",
+      "date": "2026-08-09T11:03:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續落地，兩篇卡關修好",
+      "articles": []
+    },
+    {
+      "hash": "772100f2ad644c9ee21bbe562995bcaf88896acb",
+      "date": "2026-08-09T11:01:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 第三批續 9 篇落地，修好新那層的全形括號 bug",
+      "articles": []
+    },
+    {
+      "hash": "396c31f2fa1d476feff848a4dd342d07b11f9b03",
+      "date": "2026-08-09T10:57:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 拆掉「為了綠燈刪內容」的誘因",
+      "articles": []
+    },
+    {
+      "hash": "162d09126fd5a3ca43659b78681c623d46b9b4ed",
+      "date": "2026-08-09T10:54:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第三批首波 8 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "c674b80fc22eb2ea5a0aa577ceaee49787afb11b",
+      "date": "2026-08-09T10:46:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 成本報告補第二波實測與品質對照",
+      "articles": []
+    },
+    {
+      "hash": "2cc7a67d9addfd2ba593582c6b12a8363d9b4015",
+      "date": "2026-08-09T10:46:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 補掉委派批次殘留的四處專有名詞漏譯",
+      "articles": []
+    },
+    {
+      "hash": "92d19d6a5102f2790be43dea1e8bf492089d56e3",
+      "date": "2026-08-09T10:38:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批剩餘四篇落地",
+      "articles": []
+    },
+    {
+      "hash": "d7b6c7048f4569d8bf4e80e163f26c3bfdb72218",
+      "date": "2026-08-09T10:37:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 100 篇收尾，三支儀器補上漏看的三種形態",
+      "articles": []
+    },
+    {
+      "hash": "9e49e52051ddb904d68cf49c567a694fddfb9211",
+      "date": "2026-08-09T10:23:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "d7a05566d2439db771ff3b3a698838540a11a9ec",
+      "date": "2026-08-09T10:22:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "4b199a2ba8fab26d5b63ef8d2bdf822dc4819c1b",
+      "date": "2026-08-09T10:19:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 6 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "e3fbf2dbfdd1dcaec45963f26c3959e1bb02b58b",
+      "date": "2026-08-09T10:19:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 委派層長出自己的 SOP，三支新儀器登記進 canonical",
+      "articles": []
+    },
+    {
+      "hash": "48f3c3d3b246d8737387b785376582fe35e9a5ec",
+      "date": "2026-08-09T10:13:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "614461671f96b2771000d073ab465d589a46c69d",
+      "date": "2026-08-09T10:11:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 7 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "a52c8c929e041e450dc40a40c0019278b5306598",
+      "date": "2026-08-09T10:11:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 停止複寫豁免清單，改成向 cjk-leak-check 借",
+      "articles": []
+    },
+    {
+      "hash": "930125ae770983beb5cae3305e7c487aecc1f52f",
+      "date": "2026-08-09T10:09:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 3 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "7bfb2ff8bbb567968f0c3341d56c431d09a7280b",
+      "date": "2026-08-09T10:09:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "d91de7e0c19b25bdad4f876c14a8b0d5be5ad6e6",
+      "date": "2026-08-09T10:08:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "4ee799c94697a638d7ab590a8d2b591b42c2151c",
+      "date": "2026-08-09T10:04:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "f8f0063ededcd2c22efc1b24b65d73bf057bf355",
+      "date": "2026-08-09T10:03:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "53d61f215b70165c6c7c7e6aa2c7c4f0ae6ad863",
+      "date": "2026-08-09T10:02:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "articles": []
+    },
+    {
+      "hash": "e2ff5145730c3e390a1eadd0183b6da79b5f970e",
+      "date": "2026-08-09T10:01:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 5 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "9303e03279d35e3afa649bc3f13612c43ce66026",
+      "date": "2026-08-09T10:01:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 兩支尺各補一類——HTML 屬性豁免、網址正規化等價",
+      "articles": []
+    },
+    {
+      "hash": "670e9eef52baf072deb4db948608e488563026fd",
+      "date": "2026-08-09T10:00:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 6 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "77b82d3e5caacdd122f11e2b7814d154558f00cc",
+      "date": "2026-08-09T09:59:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "35d3f3b2602583bf2cd75049d8d19540aec44085",
+      "date": "2026-08-09T09:59:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "4b730e722ce439fcb67001555904ae4dbcadf1f8",
+      "date": "2026-08-09T09:59:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "dfc02ffd4eb5354a492f73a8ddb73d659805db8a",
+      "date": "2026-08-09T09:58:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 5 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "5ce04bf50980021ebccfccfdf67abd780cf12013",
+      "date": "2026-08-09T09:51:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 9 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "52c18f8e2629d10438725f63a84d0c10dfd13ffd",
+      "date": "2026-08-09T09:49:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ko 批次 6 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "973a62aaa8bc7bbcff66e9e95b1aca3447c8fe9a",
+      "date": "2026-08-09T09:45:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: es 批次 6 篇（unified dispatcher, worker=macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "ff0eb97047420814c6c304b8716389eac9463383",
+      "date": "2026-08-09T09:45:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地，含連續失敗三次的台灣行道樹",
+      "articles": []
+    },
+    {
+      "hash": "2fa5903906fcfc12f0c73d39154a601a657b2b44",
+      "date": "2026-08-09T09:41:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "41b5d2e9d1478de541149774fe74266e69b1373d",
+      "date": "2026-08-09T09:40:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 3 篇落地，含一條捏造的來源",
+      "articles": []
+    },
+    {
+      "hash": "21d9a23a2546e3be6150a924d98d511fc335757c",
+      "date": "2026-08-09T09:39:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "13933862f3a3bde713e4d2ba360d7b1ef2a5c0a7",
+      "date": "2026-08-09T09:38:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-flywheel-watch: 飛輪零靜默零警報，這支儀器自己的兩條積欠也結清",
+      "articles": []
+    },
+    {
+      "hash": "4f5cdadde205a986e84390b8add0740a2407a0ec",
+      "date": "2026-08-09T09:38:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語第二批 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "5f41444760f4e3a8e35a70c2f963e958a2c4f493",
+      "date": "2026-08-09T09:36:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 3 篇（unified dispatcher, worker=macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "7bfd013ec9e3c690346bd4b256c25709af1098bb",
+      "date": "2026-08-09T09:34:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en 批次 6 篇（unified dispatcher, worker=desktop3090+macm4max）",
+      "articles": []
+    },
+    {
+      "hash": "a1fabceb801cdf9d4c34e51998a78b2e8b76d8e8",
+      "date": "2026-08-09T09:29:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 修好一篇上線 13 天的截斷譯文（吳明益）",
+      "articles": []
+    },
+    {
+      "hash": "ba5c965e3f9f094de6cf0afb550fe4c6345618fa",
+      "date": "2026-08-09T09:23:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語委派層的成本與容量量測落檔",
+      "articles": []
+    },
+    {
+      "hash": "305f61de751416703ae47089d0f349a1080443c3",
+      "date": "2026-08-09T09:23:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "articles": []
+    },
+    {
+      "hash": "a6edc86c394fccb2504249ee523b628fb33756d4",
+      "date": "2026-08-09T09:18:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "a06dc544545d32edb4bf5393e1d07ef85c61ff74",
+      "date": "2026-08-09T09:18:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 來源標題的豁免一般化到任何連結標籤（同家族第三次）",
+      "articles": []
+    },
+    {
+      "hash": "e915aec737a18dd2c20c081907c7a4495a72868c",
+      "date": "2026-08-09T09:17:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 3 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "f25abb9b97440090118eb60993bee6a516f5a902",
+      "date": "2026-08-09T09:16:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 2 篇落地（含陳建年重做版，金曲獎完整譯出）",
+      "articles": []
+    },
+    {
+      "hash": "91f8786557f8f5973cd54111be84c60098197fd4",
+      "date": "2026-08-09T09:14:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "5190bc14a3a20019b34e6e6cefc00cf3f7b84227",
+      "date": "2026-08-09T09:12:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 3 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "11e33c0adec3534ebfeada30dd9affc7b28ed71d",
+      "date": "2026-08-09T09:11:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "9305c2e0dcbc4ee78272c39d5f77b32af847ba74",
+      "date": "2026-08-09T09:11:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 3 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "07224570717a2cdd7e5da65676833229e00e3906",
+      "date": "2026-08-09T09:11:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "71d9011b34dbdcfe480d62966fa92a2bd457b68c",
+      "date": "2026-08-09T09:11:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "67d31a682007a40516775fd31abbab7af3456aa1",
+      "date": "2026-08-09T09:10:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "96fa4183f64ad639066595abfaf75e4a231c41d6",
+      "date": "2026-08-09T09:10:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 2 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "b1184a4d294e541c7b4ef9882de86a10266de36f",
+      "date": "2026-08-09T09:09:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "1fc61fe0141205f0682266b82e53fc87d6c54b5b",
+      "date": "2026-08-09T09:09:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "f68c6c0248206d9b838e16f6260ae40d080449ff",
+      "date": "2026-08-09T09:07:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 1 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "88b69fd1d5244a64bdcb10269bf42f540289d9f0",
+      "date": "2026-08-09T09:05:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 中山北路條通落地，模型改掉了網址裡的一個十六進位碼",
+      "articles": []
+    },
+    {
+      "hash": "d5e3a13fa15212f44a4fd2b9525ac388cfba5562",
+      "date": "2026-08-09T09:03:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再一批落地（含外送專法）",
+      "articles": []
+    },
+    {
+      "hash": "f51d6cccd91fafc0ab99bb15d9b101d543670736",
+      "date": "2026-08-09T09:02:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2f20535077567838510fc380cca25696323dfac6",
+      "date": "2026-08-09T09:00:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-09 08:40 — 兩篇新文 merge 後修補，挖出檢查器對中文檔名靜默全跳",
+      "articles": []
+    },
+    {
+      "hash": "68ff840ae5e7721fef60f6f8e0b666d332f0eca1",
+      "date": "2026-08-09T08:59:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再一批落地",
+      "articles": []
+    },
+    {
+      "hash": "4215a7d5a76b3764311d12deb91506a6d3d2ff59",
+      "date": "2026-08-09T08:59:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 漢字黏著尺的第二類假陽性——括號內的中文原名對照",
+      "articles": []
+    },
+    {
+      "hash": "c7c73b2cb19939584163aec44d897659546f11b1",
+      "date": "2026-08-09T08:57:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 兩條反射補今早的驗證，並修掉 pipeline 自己教錯的那條指令",
+      "articles": []
+    },
+    {
+      "hash": "7451e66d17861549321ccf241d772c9fde60f694",
+      "date": "2026-08-09T08:57:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 8 篇落地",
+      "articles": []
+    },
+    {
+      "hash": "2b0bcd5654d712906d3a22aa36727afade63f2c4",
+      "date": "2026-08-09T08:57:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 還原器學會補回「整條不見」的來源連結，不只修被改壞的",
+      "articles": []
+    },
+    {
+      "hash": "a376b5c0f2eb2d6ac5ddf1e93af0010ad23e1dcf",
+      "date": "2026-08-09T08:54:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 3 篇（校園順口溜、族群、偏鄉教育）",
+      "articles": []
+    },
+    {
+      "hash": "a4732608fa919465fe52021e21e92e66f059d6a1",
+      "date": "2026-08-09T08:53:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 四支檢查器跟一道譯文閘門看不見中文檔名的文章",
+      "articles": []
+    },
+    {
+      "hash": "5265948be4b6fb79326d2335709167f57ede6c64",
+      "date": "2026-08-09T08:53:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 6 篇，這波 agent 已能自己跑完四道閘",
+      "articles": []
+    },
+    {
+      "hash": "b7786dd5fd52d8b5d8b76107be38ec738bb80ea5",
+      "date": "2026-08-09T08:52:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 新閘門逼 agent 改寫中文來源標題換綠燈，比它防的病更嚴重",
+      "articles": []
+    },
+    {
+      "hash": "a923e393d561438a00b3d1641661a47f1f65b837",
+      "date": "2026-08-09T08:48:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 鬍鬚張與三商兩篇新文 merge 後修補 — 換掉一個死連結、正名兩個轉載來源",
+      "articles": []
+    },
+    {
+      "hash": "0da205195558aadeae855b8ef04412651e323fda",
+      "date": "2026-08-09T08:49:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 4 篇，漢字黏著這把新尺開始在 agent 端自己生效",
+      "articles": []
+    },
+    {
+      "hash": "cc3d34ea4cc95b4b42b7e1783f42ef29a12211c1",
+      "date": "2026-08-09T08:46:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語再 3 篇，驗收腳本補上「還在施工中」的護欄",
+      "articles": []
+    },
+    {
+      "hash": "fecfe0b8ba1b7aa49f2ec437d1fda1d3f99c1770",
+      "date": "2026-08-09T08:44:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1303 from idlccp1984/patch-126585",
+      "articles": []
+    },
+    {
+      "hash": "30bdee1af967c2bb9988f94c54f6555e965f9900",
+      "date": "2026-08-09T08:44:32+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1302 from idlccp1984/patch-615339",
+      "articles": []
+    },
+    {
+      "hash": "7a750b2eb71b2fc9935a028a4d25955f57a78161",
+      "date": "2026-08-09T08:40:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 越南語首批落地，並補上兩把委派層缺的尺",
+      "articles": []
+    },
+    {
+      "hash": "6473e5d0419143e85cb82872b4c269e3f83cf384",
+      "date": "2026-08-09T08:32:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 把「該長成什麼樣」算好放進派工單，agent 交件前先對靶",
+      "articles": []
+    },
+    {
+      "hash": "a3aa271c1844ea3d0a7b53ca452200912cb93f7f",
+      "date": "2026-08-09T08:28:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 撤掉我重複記的那筆 harvest，cron 兩小時前就做完了",
+      "articles": []
+    },
+    {
+      "hash": "f7131da50c056714985ca58ea8fac386a0f093c5",
+      "date": "2026-08-09T08:25:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 週報 v4.4 — 被提到的文章與頁面要能點得進去",
+      "articles": []
+    },
+    {
+      "hash": "3932f49383cc9e8dba5ed81f87569acddfe9a0cd",
+      "date": "2026-08-09T08:20:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] harvest: 黃崇仁 D+5 數字回填，順帶量出 Chrome MCP 的能力其實是分層的",
+      "articles": []
+    },
+    {
+      "hash": "fa73c9ce4fb6ced0c125f04e57eef1f5d5dcaeae",
+      "date": "2026-08-09T08:25:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 腳註還原器在整段消失時最安靜",
+      "articles": []
+    },
+    {
+      "hash": "293e3eedf8541be273fa56cbbd543654f2ef75e8",
+      "date": "2026-08-09T08:22:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 章節級 patch 路徑漏掉 wikilink 預轉，一個連結凍掉一條軌半小時",
+      "articles": []
+    },
+    {
+      "hash": "3774733a495f48fe668a2b02072fa691bbd12194",
+      "date": "2026-08-09T08:19:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 造一支把譯文腳註網址還原回原稿的儀器",
+      "articles": []
+    },
+    {
+      "hash": "9ab4598e41998c6a88793b4238d74024c18d43cb",
+      "date": "2026-08-09T08:07:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 超過 26 組的批次會靜默吃掉優先度最高的前 26 篇",
+      "articles": []
+    },
+    {
+      "hash": "9d0ed070776f89ff1657feb8dcb8400a8698184e",
+      "date": "2026-08-09T08:01:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "8241b36ae112dd9531b678c9f1bf43b9138d5096",
+      "date": "2026-08-09T07:57:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: worktree 回收器對自家開的 worktree 從來沒能開火",
+      "articles": []
+    },
+    {
+      "hash": "d62c4ea3325e83f3543d4c0a7c3e9b7ece1e74cb",
+      "date": "2026-08-09T07:52:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 重生譯文對映表，把新落地的 67 篇接進索引",
+      "articles": []
+    },
+    {
+      "hash": "66e8626febf705531680f3cb332c94599c845f82",
+      "date": "2026-08-09T07:49:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] cross-domain: 兩天份的巴別塔產出整併落地，並修好一支只會發警告的閘門",
+      "articles": []
+    },
+    {
+      "hash": "c57e4c9ad7f9b1910cb54ba92cca5b454f05e898",
+      "date": "2026-08-09T07:13:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 讀者回報隊列空第九天，查完上游取數層後決定不補新閘門",
+      "articles": []
+    },
+    {
+      "hash": "e26d078ac483a2ea1996db5498833299cd48f286",
+      "date": "2026-08-09T06:43:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-09 06:42 — Chrome MCP 連線恢復但帳號登入態未恢復，D+5 harvest 完成",
+      "articles": []
+    },
+    {
+      "hash": "9d9d044bfd11212f41fe07653439357f8a031693",
+      "date": "2026-08-09T06:41:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: D+5 harvest 黃崇仁+EZWAY 兩批孢子 — 2026-08-09",
+      "articles": []
+    },
+    {
+      "hash": "8591d8f478922ea46b5d2fef19155c2060767d6c",
+      "date": "2026-08-09T06:15:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-09 06:13 — 14 步全綠零 stale，Stage 1.5 rider 昨夜焊進指令面後首次自然執行零提醒",
+      "articles": []
+    },
+    {
+      "hash": "061c57751b004e7184c6fd704a35d95479e61b4d",
+      "date": "2026-08-09T06:12:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 887、本週新增 30",
+      "articles": []
+    },
     {
       "hash": "58a7e168e583557a558d37a5c057756f60ee6438",
       "date": "2026-08-09T05:39:05+08:00",
@@ -231,6 +1631,20 @@
       "date": "2026-08-08T18:48:54+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] rewrite: 新冠疫情與疫苗 Stage 0 觀點成型落檔",
+      "articles": []
+    },
+    {
+      "hash": "e8befb27ccc103d83d524725313a302a0f65558d",
+      "date": "2026-08-08T22:14:47+08:00",
+      "author": "idlccp1984",
+      "message": "Create 三商.md",
+      "articles": []
+    },
+    {
+      "hash": "db5fb4827f5ebd395ddc494f0824e3e022272d0b",
+      "date": "2026-08-08T21:53:08+08:00",
+      "author": "idlccp1984",
+      "message": "Create 鬍鬚張.md",
       "articles": []
     },
     {

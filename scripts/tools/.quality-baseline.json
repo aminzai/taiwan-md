@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-08T22:11:51Z",
-  "total": 889,
-  "flagged": 436,
+  "timestamp": "2026-08-09T22:11:59Z",
+  "total": 891,
+  "flagged": 438,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -178,6 +178,11 @@
       "file": "economy/台灣企業：聯發科技.md",
       "score": 6,
       "reasons": "未人工審核; 破折號13個; 後段清單堆砌40%; 無腳註"
+    },
+    {
+      "file": "economy/三商.md",
+      "score": 7,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 破折號12個; 分號6個; 稀薄段落×1"
     },
     {
       "file": "economy/台灣循環經濟與資源再利用.md",
@@ -1603,6 +1608,11 @@
       "file": "food/牛肉湯.md",
       "score": 6,
       "reasons": "未人工審核; 破折號10個; 後段清單堆砌36%; 稀薄段落×1"
+    },
+    {
+      "file": "food/鬍鬚張.md",
+      "score": 10,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句3個; 破折號10個; 分號11個; 稀薄段落×5"
     },
     {
       "file": "food/麻芛湯.md",

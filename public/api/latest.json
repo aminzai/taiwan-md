@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-08T22:11:59.663Z",
+  "_generated": "2026-08-09T22:12:07.770Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -56,6 +56,24 @@
         "date": "2026-08-09T00:14:24+08:00",
         "readingTime": 22,
         "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
+      },
+      {
+        "title": "台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年",
+        "desc": "1964 年三名台大商學系學生用 50 萬元創立三商行，從出口手工藝品開始。六十年後，它變成了美廉社、三商巧福、全家福與三商壽——台灣人每天的生活裡，幾乎都繞不開這家低調經營日常的集團。",
+        "category": "economy",
+        "href": "/economy/%E4%B8%89%E5%95%86",
+        "date": "2026-08-08T22:14:47+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空",
+        "desc": "1960 年，木匠張炎泉在台北雙連派出所對面擺起「雙連魯肉飯」路邊攤，因忙到沒空刮鬍子被顧客喚作「鬍鬚張」。六十六年後，這碗滷肉飯登上華航機上餐、中央廚房通過三重國際食安認證，招牌小碗魯肉飯卻凍漲八年。一個被罵出來的品牌，如何與便利商店打仗？",
+        "category": "food",
+        "href": "/food/%E9%AC%8D%E9%AC%9A%E5%BC%B5",
+        "date": "2026-08-08T21:53:08+08:00",
+        "readingTime": 12,
+        "image": ""
       },
       {
         "title": "博客來：從一家網路書店，到替台灣人拿捏「質感生活」的電商長子",
@@ -254,27 +272,18 @@
         "date": "2026-07-30T08:47:07+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "地瓜球：從唐代宮廷到中正橋下，一顆空心球裡的台灣韌性",
-        "desc": "這顆金黃小球的歷史跨越千年，從唐代的「碌堆」演化為台灣 1970 年代的惜物意外。它不僅是夜市點心，更是一場涉及 130°C 精準油溫與澱粉糊化的物理實驗。",
-        "category": "food",
-        "href": "/food/%E5%9C%B0%E7%93%9C%E7%90%83",
-        "date": "2026-07-30T08:47:00+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "士林：凱達格蘭族的地、漳泉械鬥的廟、現在每天晚上是台北最擁擠的夜市",
-        "desc": "晚上七點半，士林夜市路口的韓國觀光客舉著大雞排自拍，旁邊大南路 84 號的慈諴宮從 1796 年嘉慶元年站到 2026 年滿 230 歲。1859 年咸豐九年漳州人從這條街被泉州人燒出去，1860 庚申年潘永清在下樹林劃了大東路、大南路、大西路、大北路四條方正街道、把廟放在正中央。1909 年日本人在廟對面蓋市場、1955 年陽明戲院在文林路落成、1992 年豪大大雞排在台中發明、1999 年進駐士林。2002 年拆掉戰後增建的棚、2011 年新市場啟用、地下美食街從早到晚輪兩班人。廟還在原位置，但腳邊每天輪番兩座城。",
-        "category": "geography",
-        "href": "/geography/%E5%A3%AB%E6%9E%97",
-        "date": "2026-07-29T13:39:11+09:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
       }
     ],
     "en": [
+      {
+        "title": "The 2026 Advanced Subjects Test Controversy: A Structural Crisis of Educational Integrity",
+        "desc": "In July 2026, the Advanced Subjects Test was delayed for the first time due to Super Typhoon Bavi; following the release of results, 149 exam appeals were filed, all of which were rejected by the CEEC. With identical options in Biology and histogram errors in Geography, official responses merely claimed \"no impact on performance.\" Legislators, parents, and a civic petition are demanding verifiable evidence rather than mere conclusions.",
+        "category": "society",
+        "href": "/en/society/2026",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Shopping Design: A Magazine That Teaches You to Curate Design, Ultimately Asking You to Judge Itself",
         "desc": "Launched in 2006 with a white-themed first issue, Shopping Design has spent two decades turning 'design' from an exhibition-bound noun into a daily verb for browsing and selecting goods. What it truly taught Taiwan is that 'discernment' can be cultivated as a skill—and it expanded this skill into an annual Top 100 list, a quarterly magazine, a carnival, and even onto its parent company's single 'magazine publishing + advertising services' license. Thus, this magazine that teaches you to discern ultimately asks you to discern itself.",
@@ -535,18 +544,72 @@
         "date": "2026-07-27T18:53:04+08:00",
         "readingTime": 22,
         "image": "/article-images/geography/sisi-south-village-overview-2013.webp"
-      },
-      {
-        "title": "Beida Special District: Three Decades of Urban Planning and the University Town Living Experiment",
-        "desc": "From the 1895 Longenpu Battlefield to the 2026 MRT University Town, this is an in-depth encyclopedia about land, aesthetics, and selective identity.",
-        "category": "geography",
-        "href": "/en/geography/beida-special-district-sanxia",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "烏坵：離島の中の離島、忘れ去られた軍事の孤島と核廃棄物の影",
+        "desc": "烏坵は台湾で最も偏遠な行政区であり、大坵・小坵から構成される。行政上は金門に属しながら交通の命脈は台中に繋がるこの孤島は、かつて国共対峙の前線ゲリラ基地であった。本稿では烏坵嶼灯台の再点灯が持つ主体性の意義、興化語文化の継承、そして20年にわたる核廃棄物処分場選定をめぐる住民投票の論争を深く分析し、この辺境の島嶼が国家の物語の中で見せる孤独と韌性を描く。",
+        "category": "geography",
+        "href": "/ja/geography/wuqiu",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台湾のキュレーターと芸術文化の構築",
+        "desc": "1990年代初頭の機関的萌芽から今日の国際プラットフォームまで、台湾のキュレーターはグローバル化の波の中でいかにして本土の芸術ディスコースを構築し、国際ビエンナーレ体制の中でいかにして自らの声を見出してきたのか。文化的アイデンティティと専門的制度の30年にわたる進化の歴史。",
+        "category": "art",
+        "href": "/ja/art/taiwanese-curators-and-artistic-cultural-construction",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "李梅樹（り・ばいじゅ／リー・メイシュー）",
+        "desc": "一人の画家が36年かけて一座の廟を建て、アカデミズム美学を民間信仰に持ち込んだ",
+        "category": "people",
+        "href": "/ja/people/li-mei-shu",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "波特王 — 「ナンパ」エンタメから「ピンク」ハンターへ、法と主権の間で格闘するデジタルゲームプレイヤー",
+        "desc": "波特王（陳加晉）の職業人生の変遷は、台湾のクリエイターが両岸の商業利益の収奪者からデジタル主権の防衛者へと転換する過程を記録し、クリエイターと資本システムが長期にわたって絡み合う法的・所有権・財務の複雑性を明らかにします。",
+        "category": "people",
+        "href": "/ja/people/potter-king-youtuber",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台湾の全世代共融旅行と生活文化：人情味が最強のバリアフリー設備になるとき",
+        "desc": "家族の視点から、台湾社会が人情味と共融施設を通じて、超高齢社会への道のりで「家族みんなで旅行する」という意味をどう再定義しているかを観察する。",
+        "category": "society",
+        "href": "/ja/society/inclusive-travel-taiwan",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Shopee（蝦皮購物）：オレンジ色の帝国の拡張軌跡とデジタル社会の攻防",
+        "desc": "2015年に台湾進出したShopee（蝦皮購物）は、送料無料補助でPChomeの牙城を崩し、さらに2,500店舗以上の「店到店（店舗間配送）」で物流のラストワンマイルを自社で掌握した。今や韓国のCoupang（酷澎）が後から追い上げている。オレンジ色の看板は路地裏まで広がったが、テンセント（騰訊）出資による中国資本疑惑、高リスクモール首位を独占し続ける詐欺の脆弱性、年間数万トンの包装廃棄物も、台湾のデジタル社会に残された課題だ。",
+        "category": "economy",
+        "href": "/ja/economy/shopee",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "台湾交通システム：90分に圧縮された島の物語",
+        "desc": "1946年、台湾は一夜にして左ハンドルから右ハンドルに切り替わった。中央山脈が南北273キロにわたって縦貫し、36,000平方キロメートルの島を東西に二分している。60年後、高速鉄道（高鉄）が394キロを90分に圧縮し、雪山トンネルが宜蘭までの車での移動を2時間から40分に縮めた。さらに10年後、1,400万台のバイクがすべての交差点を埋め尽くした。この島の交通の物語は、そのアイデンティティの物語でもある。",
+        "category": "lifestyle",
+        "href": "/ja/lifestyle/transportation-system",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
       {
         "title": "国家人権博物館：涙の碑に書かれなかった名前",
         "desc": "1999年の国際人権デー、李登輝は緑島で「涙の碑」を自ら除幕しました。柏楊は28字で、すべての母親が長い夜に流した涙を書き尽くしましたが、加害者の名前は一人も書きませんでした。6年の準備、2018年の看板除幕、2025年の予算凍結。国家が自ら建て、自らが行ったことを記念する博物館です。しかし解厳から39年、一人の加害者も司法裁判を受けていません。",
@@ -753,72 +816,18 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 6,
         "image": "/article-images/food/dan-ta-hero.webp"
-      },
-      {
-        "title": "台湾の人工知能発展と未来戦略：ハードウェアの入場券は手に入れた、次の戦いはどこにあるのか",
-        "desc": "2024 年 10 月 8 日、ノーベル物理学賞は Hopfield と Hinton に授与され、翌日の化学賞は AlphaFold の 3 人に授与されました。同年 5 月 29 日、黄仁勲は台北の寧夏夜市（ナイトマーケット）で張忠謀と蚵仔煎（牡蠣オムレツ）を食べました。台湾は世界の AI サーバーの 90%、先端ウェハーの 72% を製造していますが、42 年にわたるニューラルネットワークと 50 年にわたるタンパク質フォールディング難題の解答には不在でした。PTT 創設者の杜奕瑾による Taiwan AI Labs から、国家科学及技術委員会が注力する繁体字中国語 LLM モデル TAIDE まで、この島は受託製造工場でいるだけで十分なのでしょうか。",
-        "category": "technology",
-        "href": "/ja/technology/artificial-intelligence-development-strategy",
-        "date": "2026-07-30T04:02:34+08:00",
-        "readingTime": 18,
-        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
-      },
-      {
-        "title": "台湾無人機産業：台中玩具飛機からブルーリストへ、一枚の入場券がサンダータイガーへ",
-        "desc": "2025年9月21日、サンダータイガー（雷虎科技）のOverkill FPV自爆型無人機がアメリカ国防省ブルーリスト（Blue UAS Cleared List）認証を取得——台湾初、かつ現時点で唯一の企業。リスト全体で39機種の完成機プラットフォーム、165コンポーネント中、台湾はわずか1枠を占めるにとどまる。2026年4月、米国超党派上院議員4名が共同で「Blue Skies for Taiwan Act」を提出し、台湾企業の迅速な通過レーン確立を要求。法案が存在すること自体が一つの事実を暴露している：台湾の参入が遅すぎるため、米国自ら立法でハードルを下げざるを得ない。台中で46年間ラジコン模型飛行機を作り続けてきた一社が、今オハイオ州に第二工場建設を計画している。",
-        "category": "technology",
-        "href": "/ja/technology/taiwan-drone-industry",
-        "date": "2026-07-29T13:39:11+09:00",
-        "readingTime": 16,
-        "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
-      },
-      {
-        "title": "台湾の海洋貿易史",
-        "desc": "大航海時代の台湾、国際貿易中心から海賊王国への興亡の伝説",
-        "category": "history",
-        "href": "/ja/history/taiwan-maritime-trade-history",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "台湾海峡危機と両岸関係の発展",
-        "desc": "金門の阿嬤の砲弾の記憶から台北の若者の仏系的日常まで、七十年にわたる台湾海峡危機が台湾人の集団心理をいかに形成してきたか",
-        "category": "history",
-        "href": "/ja/history/taiwan-strait-crises-and-cross-strait-relations",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "嘉義県：49万人が顔を阿里山に貸し、県庁所在地が太保にあることも誰も覚えていません",
-        "desc": "午前5時、東石沖のカキ棚はまだ海の中にあり、台湾全体の半分のカキがこの海から来ます。100キロ離れた阿里山では、1912年に二万坪まで開通した森林鉄道が全長66.6キロに及びます。その中間にある太保高速鉄道駅のそばでは、故宮南院が15年かけてようやく開館し、2018年の来館者は76万人でした。1991年に嘉義県庁が嘉義市から太保へ移転したとき、台湾全体は嘉義といえば嘉義市だと考えていました。35年が過ぎ、この県の49万人は、切り離された27万人の市を取り囲みながら暮らし、高齢化指数174%で台湾一となっています。",
-        "category": "geography",
-        "href": "/ja/geography/chiayi-county",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tashan_in_morning_glow.jpg"
-      },
-      {
-        "title": "台湾地図の読み方：サツマイモから衛星までの四百年",
-        "desc": "1554年、一人のポルトガル製図師が八枚の羊皮紙に「I. Fremosa」と呼ばれる曖昧な島を描いた。彼は一度もその島に足を踏み入れていない。470年後、Google Mapsに表示される台湾の形は、あなたがどの国にいるかによって変わる。これは技術の問題ではなく、政治の問題である。",
-        "category": "geography",
-        "href": "/ja/geography/how-to-read-the-taiwan-map",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "基隆市：台北に最も近い港、最も台北から見えない港",
-        "desc": "午前4時の崁仔頂魚市はまだ競売の声が響いている。糶手が閩南語で値をつけると、数秒のうちに一籃の魚が花蓮・宜蘭・八斗子の漁船から台北東区の日本料理店へと届く。1626年、スペイン人が和平島に旗を掲げ、1875年、沈葆、沈葆楨が「鶏籠」を「基地昌隆」に改名し、1984年にはここは世界第7位のコンテナ港だった。その後、三つのことが同時に起きた：高雄港に抜かれ、桃園空港が開業し、鉱山産業が崩壊した。現在36万人がここに住み、39%が台北へ通勤している。台北が見るのは衰退だが、海洋が見るのは一度もその場所を離れたことのない港である。",
-        "category": "geography",
-        "href": "/ja/geography/keelung-city",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 14,
-        "image": "/article-images/geography/keelung-hero.webp"
       }
     ],
     "ko": [
+      {
+        "title": "2026년 분과측험(分科測驗) 미정답 처리 논란: 교육 신뢰성의 구조적 위기",
+        "desc": "2026년 7월, 강력한 태풍 바위(Bavi)의 영향으로 분과측험이 사상 처음으로 연기되었다. 성적 발표 후 149건의 문항 이의 제기가 발생했으나, 대입시험센터는 모든 안을 원안대로 유지하며 단 한 문제도 정답 처리하지 않았다. 생물 과목의 선택지 중복, 지리 과목의 도표 오류 등에 대해 당국은 \"답안 작성에 영향이 없다\"라고만 답했다. 국회의원과 학부모, 시민 연서명단이 요구하는 것은 단순하다. 결론뿐 아니라 검증 가능한 근거를 제시하라는 것이다.",
+        "category": "society",
+        "href": "/ko/society/2026",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "타이완 전통 공예와 무형문화유산: 제도적 인정은 왔으나 제자(徒弟)는 사라졌다",
         "desc": "2022년 12월, 문화부는 고령 87세 토수사부(土水司阜) 소청량(蘇清良)을 '인간국보'로 지정했으나, 반년 후 그는 사망했다. 타이완은 2005년 와서 '중요 전통 공예 보존자'를 문자법(文資法)에 명시했으며, 일본보다 50년, 한국보다 43년 늦었다. 제도가 자리 잡았을 때, 제자 제도는 이미 1970-80년대 산업화 과정에서 붕괴되었다. 600여 명 전통 장사 중 50세 미만은 '소수'에 불과하다. 명단은 길어지지만, 가르칠 수 있는 사람은 줄어든다.",
@@ -1079,18 +1088,18 @@
         "date": "2026-07-27T22:09:24+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "샤오베이 백화점: 심야의 불빛 아래 타이완 잡화왕, 해산물 노점에서 '학부모의 구세주'가 되기까지 30년",
-        "desc": "1994년 타이난 샤오베이 야시장에서 시작된 샤오베이 백화점은 '24시간 영업'과 '남들이 팔지 않는 물건 판매'라는 전략을 통해, 폐업 위기의 해산물 가게에서 전국 100여 개 매장을 보유한 철물 유통의 선두주자로 성장했다. 학부모에게는 심야의 구세주이자, 이주 노동자에게는 고향의 향수를 달래주는 보급소이며, 타이완 소매업계에서 가장 끈질긴 생존 신화로 불린다.",
-        "category": "lifestyle",
-        "href": "/ko/lifestyle/xiaobei-department-store",
-        "date": "2026-07-27T22:09:24+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "Controverse sur l'absence de points attribués lors de l'examen de spécialisation 2026 : une crise structurelle de l'intégrité éducative",
+        "desc": "En juillet 2026, l'examen de spécialisation a été reporté pour la première fois en raison du typhon Bavi ; après la publication des résultats, 149 recours ont éclaté, mais le Centre d'examen a rejeté toutes les demandes. Entre doublons en biologie et erreurs de graphiques en géographie, les autorités affirment que cela « n'affecte pas la réponse ». Députés, parents et pétitionnaires exigent des preuves vérifiables plutôt que de simples conclusions.",
+        "category": "society",
+        "href": "/fr/society/2026",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "La Société poétique Li : un groupe contraint d'oublier le japonais, soutenant la revue de poésie chinoise la plus ancienne de Taïwan",
         "desc": "En 1958, un soldat japonais taïwanais de 36 ans publiait sous le nom de plume 'Huan Fu' son premier poème en chinois d'après-guerre, onze ans après avoir arrêté d'écrire en japonais. Six ans plus tard, lui et onze autres personnes réunis dans un salon du centre de Taïwan transformaient cette expérience de mutisme générationnel en une société poétique nommée 'Li' (le champignon comestible) — 60 ans de publication ininterrompue, écrivant la poétique locale des marges jusqu'aux manuels scolaires du collège.",
@@ -1351,18 +1360,27 @@
         "date": "2026-07-27T19:09:51+08:00",
         "readingTime": 10,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Taoyuan_Airport_Terminal_2_Aerial.jpg/1280px-Taoyuan_Airport_Terminal_2_Aerial.jpg"
-      },
-      {
-        "title": "Hsu Mei-hua : de l'opposition à Tsinghua UniLight à la grande révocation, une décennie sous un pseudonyme citoyen",
-        "desc": "« Hsu Mei-hua » n'est pas un vrai nom, mais un pseudonyme apparu à deux moments clés de la société civile taïwanaise — en 2015, elle a contribué à bloquer le projet d'acquisition de semi-conducteurs par le groupe chinois Tsinghua UniLight en tant que l'une des « Quatre Chevaliers », et en 2025, elle est devenue le centre de « financement participatif » le plus contre-intuitif de la vague de grande révocation : sans toucher un centime, elle a coordonné plus de vingt millions de dons citoyens.",
-        "category": "people",
-        "href": "/fr/people/hsu-mei-hua-financial-commentator",
-        "date": "2026-07-27T19:09:51+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "COMPUTEX: Tres grandes ferias de informática internacionales cerraron dos; la que queda crece en Taipéi",
+        "desc": "En junio de 2026, Jensen Huang subió al escenario de Taipéi diciendo «Qué bueno volver a casa», con el trasfondo mostrando zongzi de cerdo y patas de cerdo. Esa misma semana, tres CEOs se turnaron para dar conferencias; la taiwanesa HIWIN de Taichung cruzó por primera vez la frontera para conectar reductores a las articulaciones de los robots humanoides. Las alemanas CeBIT y estadounidenses COMDEX cerraron sus stands; esta feria de 45 años de antigüedad en Taipéi crece porque está arraigada en la isla donde se ensambla realmente el 90% de los servidores de IA del mundo.",
+        "category": "technology",
+        "href": "/es/technology/computex-taipei",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 28,
+        "image": "/article-images/technology/computex-nangang-floor-2011.webp"
+      },
+      {
+        "title": "Garza de corona negra: la especie de ensueño para los observadores de aves y el «ave torpe» del campus",
+        "desc": "De 4,000 registros de aves en la Sociedad Ornitológica de China entre 1985 y 1992, la garza de corona negra solo representaba 25. Treinta años después, es visible a diario en el Paseo de las Palmeras de la NTU y en el Parque Forestal de Da'an. Aunque se dice que «se ha vuelto valiente», la investigación de Yuan Hsiao-wei (NTU) desde 2010 apunta a otra respuesta: los campus urbanos de Taiwán con bosques densos y césped sin pesticidas han replicado su hábitat forestal de baja altitud original. El ave no ha cambiado; el entorno sí.",
+        "category": "nature",
+        "href": "/es/nature/malayan-night-heron",
+        "date": "2026-08-09T07:49:34+08:00",
+        "readingTime": 8,
+        "image": "/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp"
+      },
       {
         "title": "Cocina de las villas de dependientes militares en Taiwán",
         "desc": "Los sabores de distintas provincias traídos por la gran migración de 1949, desde las cocinas dentro de las cercas de bambú hasta la preservación del gusto tras la demolición de las villas de dependientes militares",
@@ -1580,8 +1598,8 @@
         "image": "/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp"
       },
       {
-        "title": "La telenovela de las ocho: Un fósforo «bárbaro» que enciende la culticidad y la nostalgia en el salón de Taiwán",
-        "desc": "Desde el drama de sufrimiento de Qiong Yao en los años 90 hasta el meme de *Thunder Fire* en los 2000, la telenovela de las ocho no es solo el sonido ambiental de los taiwaneses, sino un milagro industrial de «producción y emisión simultáneas» sincronizado con la realidad.",
+        "title": "El telenovela de las ocho: Un fósforo «bárbaro» que enciende el cine de culto y la nostalgia en los salones de Taiwán",
+        "desc": "Desde el drama de sufrimiento de Qiong Yao en los años 90 hasta el meme de *Thunder Fire* en los 2000, el telenovela de las ocho no es solo el sonido ambiental de los taiwaneses, sino un milagro industrial «grabado y emitido en directo» sincronizado con la realidad.",
         "category": "culture",
         "href": "/es/culture/taiwan-prime-time-drama",
         "date": "2026-07-27T22:09:24+08:00",
@@ -1614,24 +1632,6 @@
         "date": "2026-07-27T19:09:22+08:00",
         "readingTime": 15,
         "image": "/article-images/geography/yilan-hero.webp"
-      },
-      {
-        "title": "Hsu Mei-hua: Del movimiento anti-Tsung Kuang a la Gran Revocación, una década bajo un seudónimo ciudadano",
-        "desc": "\"Hsu Mei-hua\" no es un nombre real, sino un seudónimo que apareció en dos momentos clave de la sociedad civil taiwanesa: en 2015, como una de los \"Cuatro Jinetes\", bloqueó la adquisición de empresas taiwanesas de semiconductores por parte del grupo chino Tsung Kuang; en 2025, se convirtió en el centro de financiación ciudadana más contraintuitivo de la ola de la Gran Revocación: sin tocar ni un centavo, canalizó más de veinte millones en donaciones ciudadanas.",
-        "category": "people",
-        "href": "/es/people/hsu-mei-hua-financial-commentator",
-        "date": "2026-07-27T19:09:22+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Ji Linlian: de general pro-Chen Shui-bian a vicepresidente que pidió la expulsión de Han Kuo-yu del Kuomintang",
-        "desc": "El 29 de abril de 2026 por la tarde, en la reunión del Comité Permanente del Kuomintang (KMT). Ji Linlian, vicepresidente de 78 años, declaró ante las cámaras de los medios: \"Aunque me maten, no creeré que el hermano Guoyu haya hecho algo que traicione al partido para beneficio propio. Si lo hizo, Huang Fuxing sin duda dará un paso al frente por la justicia y propondrá la expulsión del hermano Guoyu del partido.\" Estas palabras provocaron que Chen Shui-bian saliera a decir que \"no sabía que había cambiado tanto\", porque quien lo ascendió a general de segunda clase hace 20 años fue precisamente Ah-Bian.",
-        "category": "people",
-        "href": "/es/people/ji-lin-lian",
-        "date": "2026-07-27T19:09:22+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ]
   }

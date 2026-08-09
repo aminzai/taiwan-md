@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-09 06:12
+last_generated: 2026-08-10 06:12
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-09 06:12** · 頂層 \*.md 共 **262** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-10 06:12** · 頂層 \*.md 共 **263** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -20,16 +20,16 @@ type: auto-index
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
 | `research/`             |   496 | 27.5 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `editorial-room/`       |    70 | 497.4 KB | —                                                    |
-| `article-evolve/`       |    31 | 1.2 MB   | —                                                    |
+| `article-evolve/`       |    32 | 1.2 MB   | —                                                    |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `article-projection/`   |    28 | 508.6 KB | —                                                    |
 | `weekly/`               |    28 | 5.6 MB   | Self-evolve weekly digest                            |
-| `routine-prompt-drift/` |    10 | 29.9 KB  | —                                                    |
+| `routine-prompt-drift/` |    22 | 52.7 KB  | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
+| `babel/`                |     8 | 8.2 MB   | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
 | `babel-quarantine/`     |     7 | 268.0 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
-| `babel/`                |     5 | 5.1 MB   | —                                                    |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
 | `news-lens/`            |     5 | 99.3 KB  | —                                                    |
@@ -37,7 +37,7 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 99.2 KB  | —                                                    |
+| `404-monitor/`          |     2 | 98.9 KB  | —                                                    |
 | `fork-census/`          |     2 | 37.0 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `newsroom/`             |     2 | 94.1 KB  | —                                                    |
@@ -178,8 +178,9 @@ type: auto-index
 - `2026-04-17` [cron-schedule-snapshot-2026-04-17](cron-schedule-snapshot-2026-04-17.md)
 - `2026-04-12` [i18n-qa-audit-2026-04-12](i18n-qa-audit-2026-04-12.md)
 
-### audit-routine (24)
+### audit-routine (25)
 
+- `2026-08-09` [routine-audit-2026-08-09](routine-audit-2026-08-09.md) — Routine audit 2026-08-09 (W32)
 - `2026-08-02` [routine-audit-2026-08-02](routine-audit-2026-08-02.md) — Routine audit 2026-08-02 (W31)
 - `2026-07-26` [routine-audit-2026-07-26](routine-audit-2026-07-26.md) — Routine audit 2026-07-26 (W30)
 - `2026-07-12` [routine-audit-2026-07-12](routine-audit-2026-07-12.md) — Routine audit 2026-07-12 (W28)
@@ -349,10 +350,11 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-08 (13 files)
+### 2026-08 (14 files)
 
-- Type breakdown: ops: 6 / evolution: 3 / audit: 2 / analysis: 1 / audit-routine: 1
+- Type breakdown: ops: 6 / evolution: 3 / audit-routine: 2 / audit: 2 / analysis: 1
   - `2026-08-09` [evolution-roadmap-2026-08-09](evolution-roadmap-2026-08-09.md)
+  - `2026-08-09` [routine-audit-2026-08-09](routine-audit-2026-08-09.md)
   - `2026-08-06` [design-文體類型學升級-2026-08-06](design-文體類型學升級-2026-08-06.md)
   - `2026-08-06` [newsroom-organ-audit-2026-08-06](newsroom-organ-audit-2026-08-06.md)
   - `2026-08-05` [seo-meta-multilang-baseline-2026-08-05](seo-meta-multilang-baseline-2026-08-05.md)
