@@ -27,6 +27,74 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 TZ_TPE = timezone(timedelta(hours=8))
+SITE = "https://taiwan.md"
+
+
+def site_url(path: str) -> str:
+    """站上路徑 → 絕對網址。信件與網頁版都吃絕對網址（相對連結在信箱裡是死的）。"""
+    return f"{SITE}/{path.strip('/')}/" if path.strip("/") else SITE
+
+
+def knowledge_url(rel_path: str) -> str | None:
+    """`knowledge/People/黃崇仁.md` → `https://taiwan.md/people/黃崇仁/`。
+
+    只認 zh SSOT（`knowledge/{Category}/{slug}.md`）；語系子目錄（knowledge/en/…）
+    與非兩層結構一律回 None，讓呼叫端退回純文字。
+    """
+    parts = rel_path.split("/")
+    if len(parts) != 3 or parts[0] != "knowledge" or not parts[2].endswith(".md"):
+        return None
+    category, slug = parts[1], parts[2][:-3]
+    if len(category) == 2 and category.islower():  # en / ja / ko / es / fr …
+        return None
+    return site_url(f"{category.lower()}/{slug}")
+
+
+def resolve_article_url(topic: str, candidates: set[str]) -> str | None:
+    """把 ARTICLE-DONE-LOG 的主題名對回站上網址。
+
+    DONE-LOG 寫的是人讀的主題（「台灣海關報關與 EZ WAY」），slug 可能不同
+    （`台灣海關報關制度與EZWAY`）。所以先精確比對、再比對去空白版本，最後才
+    比對 frontmatter title。**對不上一律回 None**——寧可讓那一列維持純文字，
+    也不要送一個猜出來的連結給讀者（猜錯的連結比沒有連結貴）。
+    """
+    norm = lambda s: re.sub(r"[\s·・－\-—_]", "", s).lower()
+    want = norm(topic)
+    exact, loose = [], []
+    for rel in candidates:
+        u = knowledge_url(rel)
+        if not u:
+            continue
+        slug = norm(rel.split("/")[-1][:-3])
+        if slug == want:
+            exact.append(u)
+        elif want and (want in slug or slug in want):
+            loose.append(u)
+    if len(exact) == 1:
+        return exact[0]
+    if not exact and len(loose) == 1:
+        return loose[0]
+    # slug 對不上 → 讀 frontmatter title 再試一次（唯一命中才採用）
+    hits = []
+    for rel in candidates:
+        u = knowledge_url(rel)
+        if not u:
+            continue
+        p = REPO_ROOT / rel
+        try:
+            head = p.read_text(encoding="utf-8")[:600]
+        except OSError:
+            continue
+        m = re.search(r"^title:\s*['\"]?(.+?)['\"]?\s*$", head, re.MULTILINE)
+        if not m:
+            continue
+        title = m.group(1)
+        # 站上標題慣例是「{主題}：{副標}」（EDITORIAL §三），而 DONE-LOG 記的是冒號
+        # 前那一段，所以整串比對必然落空——冒號前那段才是要比的東西。
+        forms = {norm(title), norm(re.split(r"[：:]", title, 1)[0])}
+        if want in forms:
+            hits.append(u)
+    return hits[0] if len(hits) == 1 else None
 
 
 def sh(cmd: list[str], cwd: Path | None = None) -> str:
@@ -275,7 +343,7 @@ def gather_done_log_recent(start: datetime) -> list[str]:
     ):
         topic, date_str, suffix = m.group(1).strip(), m.group(2), m.group(3).strip()
         if date_str >= cutoff:
-            entries.append(f"{date_str} — {topic}（{suffix}）")
+            entries.append({"date": date_str, "topic": topic, "suffix": suffix})
     return entries
 
 
@@ -501,7 +569,12 @@ def render(
             for a in top:
                 path = a.get("path", "?")
                 views = a.get("views", "?")
-                A(f"- `{path}` — {views} views")
+                # 外部感測的頁面一律附絕對網址：讀者看到「哪一頁最多人看」的第一個
+                # 反應就是想點進去（哲宇 2026-08-09 directive）
+                if path and path != "?":
+                    A(f"- [`{path}`]({site_url(path)}) — {views} views")
+                else:
+                    A(f"- `{path}` — {views} views")
             A("")
 
     sc = analytics.get("searchConsole7d", {})
@@ -597,8 +670,15 @@ def render(
     if done_log:
         A("## 六、本週交付的文章")
         A("")
+        A("> 網址欄是給週報第 3 章直接用的：文章被提到時要能點得進去。")
+        A("> 對不上的留空白（寧可純文字，不要送猜出來的連結）。")
+        A("")
+        touched_files = set(articles.get("touched_files", []))
         for entry in done_log[:12]:
-            A(f"- {entry}")
+            topic = entry["topic"]
+            url = resolve_article_url(topic, touched_files)
+            label = f"[{topic}]({url})" if url else topic
+            A(f"- {entry['date']} — {label}（{entry['suffix']}）")
         A("")
 
     # ── 七、教訓累積 ──────────────────────────────────
