@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T07:12:02+08:00",
-    "zhCommitHead": "42bc66096",
+    "lastUpdated": "2026-08-10T07:12:42+08:00",
+    "zhCommitHead": "61808c09d",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 775,
+        "fresh": 776,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 112,
+        "missing": 111,
         "orphan": 0
       }
     },
@@ -21261,8 +21261,8 @@
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
           "translatedAt": "2026-08-10T01:58:13+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
+          "translationLastCommit": "61808c09",
+          "translationLastModified": "2026-08-10T07:12:02+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -84653,7 +84653,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chia-yung-chieh.md",
+          "translatedFrom": "People/賈永婕.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:ef77f1a4a4a50fce",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T22:56:54.504394+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106780,8 +106791,8 @@
           "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
           "translatedAt": "2026-08-10T01:58:13+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
+          "translationLastCommit": "61808c09",
+          "translationLastModified": "2026-08-10T07:12:02+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -107702,8 +107713,8 @@
           "sourceContentHash": "sha256:7522efdf3a40c32a",
           "sourceBodyHash": "sha256:1acff297b5650550",
           "translatedAt": "2026-08-10T01:58:13+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "61808c09",
+          "translationLastModified": "2026-08-10T07:12:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -123984,8 +123995,8 @@
           "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
           "sourceBodyHash": "sha256:009e89e5797639ab",
           "translatedAt": "2026-08-10T01:58:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "61808c09",
+          "translationLastModified": "2026-08-10T07:12:02+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
