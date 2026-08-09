@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T13:05:22+08:00",
-    "zhCommitHead": "5afb5bc92",
+    "lastUpdated": "2026-08-09T13:35:15+08:00",
+    "zhCommitHead": "912a080b6",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -67,8 +67,8 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 552,
-        "stale": 7,
+        "fresh": 553,
+        "stale": 6,
         "metadata_stale": 4,
         "missing": 328,
         "orphan": 0
@@ -91,17 +91,17 @@
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 729,
-        "stale": 3,
+        "fresh": 731,
+        "stale": 1,
         "metadata_stale": 3,
         "missing": 156,
         "orphan": 0
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 4,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 126,
         "orphan": 0
       }
@@ -17168,18 +17168,16 @@
         "ar": {
           "path": "ar/Technology/taiwan-disaster-medicine-system.md",
           "translatedFrom": "Technology/台灣災難醫療體系.md",
-          "sourceCommitSha": "9c91f3657",
-          "sourceContentHash": "sha256:bdad2fe4c19ade1d",
-          "sourceBodyHash": "sha256:65d8bf2fc8ebb567",
-          "translatedAt": "2026-07-26T07:02:12+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:6c1de6e7d125ff24",
+          "sourceBodyHash": "sha256:fa56609bf3ed1f63",
+          "translatedAt": "2026-08-09T05:34:56.441756+00:00",
           "translationLastCommit": "2e905c86",
           "translationLastModified": "2026-07-26T08:49:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-disaster-medicine-system.md",
@@ -33094,8 +33092,8 @@
           "sourceContentHash": "sha256:879eb268c7fce9b0",
           "sourceBodyHash": "sha256:a5c8010bb09051a0",
           "translatedAt": "2026-08-09T00:41:18.073251+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "1b04f313",
+          "translationLastModified": "2026-08-09T13:05:23+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -46852,18 +46850,16 @@
         "id": {
           "path": "id/Society/migrant-workers-in-taiwan.md",
           "translatedFrom": "Society/移工.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:56c198b69b8ecacd",
-          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-08-09T08:01:31+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/migrant-workers-in-taiwan.md",
@@ -46900,18 +46896,16 @@
         "ar": {
           "path": "ar/Society/migrant-workers-in-taiwan.md",
           "translatedFrom": "Society/移工.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:56c198b69b8ecacd",
-          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
-          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-08-09T08:01:34+08:00",
           "translationLastCommit": "c802ed3a",
           "translationLastModified": "2026-07-25T23:17:07+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/migrant-workers-in-taiwan.md",
@@ -121647,18 +121641,16 @@
         "ru": {
           "path": "ru/Geography/kinmen-county.md",
           "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
-          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:3df55177e97b9f1c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T04:42:32.262615+00:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -127897,8 +127889,8 @@
           "sourceContentHash": "sha256:b03d6ffbe269bd62",
           "sourceBodyHash": "sha256:b5324c6cea623600",
           "translatedAt": "2026-08-09T08:01:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b04f313",
+          "translationLastModified": "2026-08-09T13:05:23+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
