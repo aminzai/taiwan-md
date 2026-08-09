@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-09 | 064210-twmd-spore-harvest-am | D+5 harvest 完成，Chrome MCP 連線恢復但帳號仍登出；黃崇仁 5 項指標三天精確持平判定 plateau；EZWAY 話題環境政治化純觀察 | 斷點退回登入層是修復訊號，跟連線層故障不是同一種噪音 | [→](memory/2026-08-09-064210-twmd-spore-harvest-am.md) |
 | 2026-08-09 | 070757-twmd-feedback-triage | 隊列空第九天，三道對賬全綠（61/61、60/61 含 #1252 上游刪留言）；查完上游取數層，缺 env 與非 200 都會炸不會偽裝成空，未補新閘門 | 空手回來也是結論——昨天的自己先寫下約束，擋住今天為了好看再焊一道閘門 | [→](memory/2026-08-09-070757-twmd-feedback-triage.md) |
 | 2026-08-09 | 084024-twmd-maintainer-am | 兩篇貢獻者新文 merge 後修補死連結與轉載來源標示；挖出四支檢查器因 git quotePath 對中文檔名靜默全跳，pipeline 教的驗收指令也不是 CI 那把尺 | 昨天修過的病根只修到殼層——修補範圍被症狀現形的位置決定，不是被根因的類別 | [→](memory/2026-08-09-084024-twmd-maintainer-am.md) |
+| 2026-08-09 | 093410-twmd-flywheel-watch | 飛輪零靜默零警報（24hr 90 commit／18 筆 routine 標記／12 條有動靜）；兩條繼承 handoff 結清：註 ²⁰ 的 worktree 收官路徑首次被下個 session 照做，產線落地端也恢復推送 | commit 總數今天暴增七倍全來自巴別塔產線，量體不是飛輪轉速 | [→](memory/2026-08-09-093410-twmd-flywheel-watch.md) |
