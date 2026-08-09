@@ -71,6 +71,23 @@ def main() -> int:
     zh_fn = collect(zh_text)
     tr_fn = collect("".join(tr_lines))
 
+    # 整段消失要吼出來，不能回報成「沒事做」。
+    # 2026-08-09 實撞：三篇委派譯文把整個腳註定義區丟掉（zh 62-72 條 → 譯文 0 條），
+    # 這支當時回報「可還原 0 個網址；需人看 0 個」——跟一篇完全健康的譯文逐字相同。
+    # 它比對的是「兩邊都有的腳註」，於是被比對物整批不存在時，它的沉默看起來像健康。
+    # 這正是它要防的那種病（來源失去可追溯性）最嚴重的形態，卻是它最安靜的時候。
+    if zh_fn and not tr_fn:
+        print(
+            f"❌ 譯文一條腳註定義都沒有，中文原稿有 {len(zh_fn)} 條 —— "
+            "整個腳註定義區在翻譯時掉了，不是網址被改。這篇要重翻，不是修網址。"
+        )
+        return 2
+    if zh_fn and len(tr_fn) < len(zh_fn) * 0.9:
+        print(
+            f"⚠️ 腳註條數落差大：中文 {len(zh_fn)} 條、譯文只有 {len(tr_fn)} 條 —— "
+            "先確認是不是漏譯，再談還原網址。"
+        )
+
     restored, skipped = [], []
     for fid, (idx, tr_line) in tr_fn.items():
         if fid not in zh_fn:
