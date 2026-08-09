@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T15:02:31+08:00",
-    "zhCommitHead": "fd380fc0e",
+    "lastUpdated": "2026-08-09T15:39:15+08:00",
+    "zhCommitHead": "9e9872676",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 837,
-        "stale": 21,
+        "fresh": 838,
+        "stale": 20,
         "metadata_stale": 18,
         "missing": 15,
         "orphan": 0
@@ -75,18 +75,18 @@
       },
       "pt": {
         "total_zh": 891,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 9,
         "metadata_stale": 3,
-        "missing": 57,
+        "missing": 56,
         "orphan": 0
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 646,
+        "fresh": 647,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 240,
+        "missing": 239,
         "orphan": 0
       },
       "ar": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 761,
+        "fresh": 763,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 126,
+        "missing": 124,
         "orphan": 0
       }
     },
@@ -14568,7 +14568,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/goat-milk-delivery.md",
+          "translatedFrom": "Economy/羊奶.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:d3d8b87838fde0c1",
+          "sourceBodyHash": "sha256:3f673eef58308631",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -25494,7 +25505,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/taiwanese-photography.md",
+          "translatedFrom": "Art/台灣攝影.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:9e4daeb9f4939ca2",
+          "sourceBodyHash": "sha256:80c79b7fd0c73431",
+          "translatedAt": "2026-08-09T15:02:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwanese-photography.md",
@@ -44056,18 +44078,16 @@
         "fr": {
           "path": "fr/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-07-14T16:51:23Z",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-08-09T07:24:59.703149+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/taiwan-public-health-epidemic-response.md",
@@ -44092,8 +44112,8 @@
           "sourceContentHash": "sha256:eca9dd4ad2636bc6",
           "sourceBodyHash": "sha256:bbdf3516f36f033d",
           "translatedAt": "2026-08-09T06:08:43.416064+00:00",
-          "translationLastCommit": "cf8b6758",
-          "translationLastModified": "2026-07-28T08:10:09+08:00",
+          "translationLastCommit": "2826c35b",
+          "translationLastModified": "2026-08-09T15:02:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -46943,8 +46963,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
+          "translationLastCommit": "2826c35b",
+          "translationLastModified": "2026-08-09T15:02:31+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -89016,8 +89036,8 @@
           "sourceContentHash": "sha256:bc132f506d9946e5",
           "sourceBodyHash": "sha256:ae4d7d2f8418495d",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2826c35b",
+          "translationLastModified": "2026-08-09T15:02:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -100515,7 +100535,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/chishang-bento.md",
+          "translatedFrom": "Food/池上便當.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:7c102d9a72b4f209",
+          "sourceBodyHash": "sha256:5f29317bb49115c6",
+          "translatedAt": "2026-08-09T15:02:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -131822,7 +131853,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/schoolyard-rhymes.md",
+          "translatedFrom": "Culture/校園順口溜.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:e5fd53530b9e999c",
+          "sourceBodyHash": "sha256:201c8b949857fdd7",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
