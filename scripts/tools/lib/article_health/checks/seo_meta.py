@@ -33,6 +33,7 @@ from __future__ import annotations
 import re
 from typing import Any, Iterator
 
+from ..langs import is_translation_path
 from ..types import FileTarget, Severity, Violation
 
 
@@ -63,20 +64,32 @@ _BRAND_PREFIX_PATTERNS = [
 ]
 
 
-def _is_excluded_path(path: str) -> bool:
-    """Hub pages 跟非 zh-TW 文章 skip."""
+def _is_excluded_path(path: str, applies_to: list[str] | None = None) -> bool:
+    """Hub pages 跟不在 scope 內的語言 skip.
+
+    `applies_to` 是 runner 解析後的語言範圍（見 runner.resolve_applies_to）。
+    給 None 時維持模組預設，也就是所有翻譯都排除，等同今天的行為。
+
+    這裡刻意不自己持有語言清單。原本寫死 en/ja/ko/es/fr 五語，停在出生戰役之前，
+    而且被 APPLIES_TO 完全遮住所以是死碼，放寬 APPLIES_TO 的那一刻覆蓋範圍會反過來
+    （issue #1264 的「兩道尺」）。語言清單吃 langs.py SSOT，語言政策吃 applies_to。
+    """
+    # Windows 的 str(Path) 是反斜線，不正規化的話下面每一條 "knowledge/" 比對都落空，
+    # 整支 check 在 Windows 開發機上等於沒跑過（Linux/CI 正常，所以一直沒被發現）。
+    path = path.replace("\\", "/")
     if "/_" in path:
         return True
     if path.endswith("_index.md"):
         return True
     if "knowledge/" not in path:
         return True
-    # Translation files
-    for prefix in ("knowledge/en/", "knowledge/ja/", "knowledge/ko/",
-                   "knowledge/es/", "knowledge/fr/"):
-        if prefix in path:
-            return True
-    return False
+    if not is_translation_path(path):
+        return False
+    if applies_to is None:
+        return True
+    if "*" in applies_to:
+        return False
+    return not any(f"knowledge/{lang}/" in path for lang in applies_to)
 
 
 _RE_CJK_CHAR = re.compile(r"[一-鿿㐀-䶿]")
@@ -99,7 +112,7 @@ def _looks_like_brand_prefix(desc: str) -> str | None:
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     """Detect SEO metadata length + template issues."""
-    if _is_excluded_path(str(target.path)):
+    if _is_excluded_path(str(target.path), config.get("applies_to")):
         return
 
     fm = target.frontmatter or {}

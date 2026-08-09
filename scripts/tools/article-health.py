@@ -45,6 +45,7 @@ from lib.article_health import (  # noqa: E402
     TRANSLATION_LANGS,
     run_checks,
 )
+from lib.article_health.runner import resolve_applies_to  # noqa: E402
 from lib.article_health.config import Config, ProfileConfig  # noqa: E402
 
 
@@ -140,11 +141,13 @@ def _cmd_fix(args) -> int:
         if not f.exists():
             continue
         target = load_target(f)
-        # APPLIES_TO filter — only run plugins that match this file's lang
-        applicable = [
-            m for m in fix_capable
-            if "*" in getattr(m, "APPLIES_TO", ["*"]) or target.lang in m.APPLIES_TO
-        ]
+        # APPLIES_TO filter — 走 runner 的同一個解析點，不在這裡自己抄一份，
+        # 否則 config 覆寫只對 run_checks 生效、對 --fix 不生效（又一組兩道尺）。
+        applicable = []
+        for m in fix_capable:
+            applies = resolve_applies_to(m, config, profile)
+            if "*" in applies or target.lang in applies:
+                applicable.append(m)
         if not applicable:
             continue
         any_change = False
