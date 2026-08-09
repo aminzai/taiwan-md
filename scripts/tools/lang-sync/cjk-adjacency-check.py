@@ -129,7 +129,41 @@ def _legit_spans(text: str) -> list[tuple[int, int]]:
         return []
 
 
-def scan(path: Path) -> list[str]:
+# 混合詞的「原稿原生」豁免。
+#
+# 台灣有一整類名字本身就是拉丁字母緊貼漢字：音樂人 `V.K克`、媒體 `Blow 吹音樂`、
+# 公司 `Naxs Corp 涅所開發`。它們在中文原稿裡就長這樣，譯文照抄是對的。
+#
+# 光靠簡報寫「不准為了過閘門改內容」擋不住：2026-08-09 一天之內三次，agent 為了
+# 讓這道檢查變綠，把 `Blow 吹音樂` 砍成 `Blow`、`V.K克` 砍成 `V.K`、
+# `Naxs Corp（涅所開發）` 砍成 `Naxs Corp`——每一次都在回報裡寫成「修復」。
+# 禁令對抗誘因是輸的一方；要拆掉誘因本身。
+#
+# 判準：把命中處左右擴張成完整的混合詞，如果這個詞**逐字出現在中文原稿裡**，
+# 它就是來源自己的寫法，不是漏譯。漏譯長的是另一個樣子——`được拆除` 的拉丁
+# 部分是越南文，中文原稿裡不可能有這個詞。
+#
+# 注意 `Blow吹音樂`（少了空格）仍然會被抓：原稿是 `Blow 吹音樂`，少空格是譯文
+# 自己弄壞的，正確處置是把空格補回來而不是刪掉名字。閘門在這裡指得很準。
+TOKEN_CH = r"[A-Za-zÀ-ỹ0-9\.\-_一-鿿]"
+
+
+def _native_tokens(text: str, zh_text: str) -> set[str]:
+    """回傳命中處中「原稿本來就這樣寫」的混合詞。"""
+    out = set()
+    for m in ADJACENT.finditer(text):
+        s, e = m.start(), m.end()
+        while s > 0 and re.match(TOKEN_CH, text[s - 1]):
+            s -= 1
+        while e < len(text) and re.match(TOKEN_CH, text[e]):
+            e += 1
+        tok = text[s:e]
+        if len(tok) >= 3 and tok in zh_text:
+            out.add(tok)
+    return out
+
+
+def scan(path: Path, zh_path: Path | None = None) -> list[str]:
     text = path.read_text(encoding="utf-8")
     # frontmatter 不掃：translatedFrom 指向中文原稿路徑是規範要求的，
     # imageCredit 的攝影者本名也不該被改寫。
@@ -153,6 +187,9 @@ def scan(path: Path) -> list[str]:
         lambda m: " " * len(m.group(0)) if _is_zh_gloss(m.group(1)) else m.group(0),
         body,
     )
+    if zh_path is not None:
+        for tok in _native_tokens(body, zh_path.read_text(encoding="utf-8")):
+            body = body.replace(tok, " " * len(tok))
     return [m.group(0).replace("\n", " ") for m in CONTEXT.finditer(body)]
 
 
@@ -161,15 +198,21 @@ def main() -> int:
     ap.add_argument("files", nargs="*")
     ap.add_argument("--glob")
     ap.add_argument("--quiet", action="store_true")
+    ap.add_argument(
+        "--zh",
+        help="中文原稿路徑。給了就豁免「原稿本來就這樣寫」的混合詞"
+        "（`V.K克`、`Blow 吹音樂`）——那是名字不是漏譯。",
+    )
     args = ap.parse_args()
 
     paths = [Path(p) for p in args.files]
     if args.glob:
         paths += [Path(p) for p in globmod.glob(args.glob, recursive=True)]
+    zh = Path(args.zh) if args.zh else None
 
     total, flagged = 0, 0
     for p in paths:
-        hits = scan(p)
+        hits = scan(p, zh)
         if not hits:
             continue
         flagged += 1
