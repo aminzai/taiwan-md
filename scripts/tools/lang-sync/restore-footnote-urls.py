@@ -34,6 +34,7 @@ import argparse
 import re
 import sys
 from pathlib import Path
+from urllib.parse import unquote
 
 FOOTNOTE_DEF = re.compile(r"^\[\^([^\]]+)\]:\s*(.*)$")
 # markdown target `](URL)` 與 angle-wrapped `](<URL>)` 兩種都收。
@@ -205,7 +206,45 @@ def main() -> int:
     if cap_restored and not args.quiet:
         print(f"  圖說層另還原 {cap_restored} 個出處網址")
 
-    if args.apply and (restored or cap_restored):
+    # ── 全文層：修被改掉幾個字元的網址 ────────────────────────────────────
+    # 模型會把 percent-encoding 改一碼：`%E8%A1%97`（街）寫成 `%E8%A1%8B`。
+    # 長度一樣、網域一樣、看起來一樣，點下去是死的。三次實撞（中山北路條通、
+    # 台灣美食總覽、國道系統）都是這個形狀，而它不挑位置——正文、圖說、圖片來源
+    # 清單都出現過，所以這一關放在全文層而不是綁在某種行上。
+    #
+    # 判準嚴到只認「幾乎就是同一條」：網域相同、長度相同、只差 1-3 個字元，
+    # 而且那條正確網址在譯文裡找不到。差得多一點就不動——那可能是另一個來源，
+    # 猜錯會把讀者送到錯的地方，比留著壞連結更糟。
+    text = "".join(tr_lines)
+    all_url = re.compile(r"https?://[^\s)\]<>\"']+")
+    zh_urls_all = set(all_url.findall(zh_text))
+    tr_urls_all = set(all_url.findall(text))
+    mangled = 0
+    for want in zh_urls_all - tr_urls_all:
+        host = want.split("/")[2] if want.count("/") > 2 else ""
+        if not host:
+            continue
+        for got in tr_urls_all - zh_urls_all:
+            if not got.startswith(f"{want[:8]}{host}"):
+                continue
+            # 兩種等價：(a) 解碼後完全相同——模型把 `(` 寫成 `%28` 這類正規化，
+            # 連結能用但逐位元組比對視為不同，站上規則是保留原稿寫法；
+            # (b) 長度相同且只差 1-3 個字元——真正的竄改。
+            same_after_decode = unquote(got) == unquote(want)
+            near_miss = (
+                len(got) == len(want)
+                and 1 <= sum(1 for a, b in zip(got, want) if a != b) <= 3
+            )
+            if same_after_decode or near_miss:
+                text = text.replace(got, want)
+                mangled += 1
+                break
+    if mangled:
+        tr_lines = text.splitlines(keepends=True)
+        if not args.quiet:
+            print(f"  全文層修復 {mangled} 個被改掉字元的網址（percent-encoding 竄改）")
+
+    if args.apply and (restored or cap_restored or mangled):
         tr_path.write_text("".join(tr_lines), encoding="utf-8")
 
     return 1 if skipped else 0
