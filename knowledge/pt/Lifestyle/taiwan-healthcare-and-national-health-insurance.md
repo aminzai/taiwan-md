@@ -33,10 +33,10 @@ datasets:
   ]
 rationale: "{'why_this_hook': '從 1995 開辦的「準備時間只有三天」+ 「補充保費是個錯誤」這兩個自陳金句切入，避免落入「全球第一/血汗醫護」二元敘事；用核心矛盾「成功的制度設計鎖死制度更新的政治路徑」拉開深度。', 'whats_excluded': '失聯移工/黑戶嬰兒/海外停保族群只在「99.6% 盲區」段點到（議題涵蓋面太廣，獨立題目）；「歐巴馬學台灣」delegation 缺證據改寫為學界 + Sanders 引用鏈；Bloomberg #14 直接 refute 不展開方法論細節（節奏考量）。', 'where_it_hedges': 'Hsiao 顧問上任年份取 1989 task force conservative 版本（來源衝突 1988/1989/1991）；行政成本「長期 < 2%」標 hedge（首份報告出處未找到）；IC 卡明標 Slovenia 早 3.5 年（不寫「全球第一」）；醫師起訴率「美 400 倍」未引用（原始數據出處未追到）。', 'whos_pushing_back': '葉金川「總體醫師人數足夠」反五大皆空全面缺；李玉春自己造詞自己反對「點值是現象解」；鄭守夏 + 高若想 + 石崇良反「點值低 = 主因」單一歸因；Reinhardt「I have not advocated the single-payer model here because our government is too corrupt」設計者自反美國複製；70% 家戶買私保 evidence 反向 refute「NHI 鎖死私保」。'}"
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:14d6c92447535914'
-sourceBodyHash: 'sha256:c1ead29e154aba6a'
-translatedAt: '2026-07-28T03:07:44+08:00'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:879eb268c7fce9b0'
+sourceBodyHash: 'sha256:a5c8010bb09051a0'
+translatedAt: '2026-08-09T00:41:18.073251+00:00'
 ---
 
 # Taiwan e o Seguro Saúde Universal: 99,6% Sustentado sobre 12,61% — o Número Um do Mundo
@@ -169,25 +169,24 @@ Mercado de seguros privados é outro _evidence_ contrário. Pesquisa 2004, taxa 
 
 ## Três frases somadas
 
-30 anos depois, aquele pequeno cartão da meia-noite de 1º de março de 1995 ainda lá está, só que agora entrou no _App_ virou QR code. Mas o mesmo sistema assenta em três lugares: 99,6% de cobertura, 5,17% de taxa, e 12,61% de rotatividade de enfermagem. Os dois primeiros são orgulho dos taiwaneses, o terceiro é a conta que 30 anos ninguém ousa tocar.
+30 anos depois, aquele pequeno cartão da meia-noite de 1 de março de 1995 ainda existe, só que agora entrou no App e virou QR code. Mas o mesmo sistema se sustenta em três pontos: 99,6% de cobertura, 5,17% de taxa de contribuição e 12,61% de taxa de rotatividade de enfermagem. Os dois primeiros são o orgulho dos taiwaneses, o terceiro é a conta que ninguém ousou mexer em 30 anos.
 
-Ye Jin-chuan 2020: "O sistema atual aguenta no máximo mais 5 anos"[^22]. Yang Chih-liang 2011, antes de renunciar após terceira leitura: "A taxa suplementar é um erro"[^18]. Li Yu-chun 2024, como autora original de "quatro grandes vazios": "Valor do ponto é solução de sintoma, não causa raiz"[^25]. Três frases somadas não são pessimistas, mais parecem as palavras que 30 anos de implementação acumularam, finalmente alguém ousa dizer em voz alta. O seguro saúde número um do mundo precisa de investimento número um do mundo; mas "investimento" estas duas palavras, nunca foi só pôr dinheiro. Aponta para renda total do agregado familiar, aponta para distribuição interna hospitalar, aponta para teto de horas de residentes, aponta para responsabilidade por disputas médicas, aponta para governança de dados. Cada uma dez vezes mais difícil que ajustar a taxa.
+Ye Jin-chuan disse em 2020: «O sistema atual aguenta no máximo mais 5 anos»[^22]. Yang Chih-liang disse antes de se demitir após a terceira leitura em 2011: «A taxa suplementar foi um erro»[^18]. Li Yu-chun, em 2024, como o próprio criador do termo «quatro grandes vazios», disse: «O valor do ponto é uma solução para o sintoma, não a solução de raiz»[^25]. As três frases somadas não são pessimistas; soam mais como as palavras que, após 30 anos de implementação acumulada, alguém finalmente ousa dizer em voz alta. O seguro saúde número um do mundo precisa do investimento número um do mundo; mas «investimento» nunca foi só colocar dinheiro. Aponta para a renda total dos lares, para a distribuição interna dos hospitais, para as horas de trabalho dos médicos residentes, para a responsabilidade em litígios médicos, para a governança de dados. Cada uma delas é dez vezes mais difícil que ajustar a taxa.
 
-Hsiao Cheng-lung 1989 escolheu modelo canadense porque "the quality of services was very high"[^10]. 30 anos depois em Taiwan, maior cobertura global assenta no menor valor do ponto de pagamento e rotatividade de enfermagem 12,61%. Sucesso do sistema não é antônimo de defeito — o próprio sucesso fabricou a dependência de caminho político dos defeitos. Para sair, não conta com próximos "três dias de fogo no rabo", conta com primeira vez em 30 anos alguém disposto a mexer, um a um, nas zonas proibidas da "renda total do agregado familiar", "distribuição hospitalar", "direito de saída de dados".
+A razão pela qual Hsiao Ching-lun escolheu o modelo canadense em 1989 foi «the quality of services was very high»[^10]. 30 anos depois, em Taiwan, a maior cobertura do mundo se sustenta no menor valor do ponto de pagamento e numa taxa de rotatividade de enfermagem de 12,61%. O sucesso do sistema não é o antônimo de defeito — o próprio sucesso criou a dependência de caminho político do defeito. Para sair disso, não conta com os próximos «três dias de fogo no rabo», conta com a primeira vez em 30 anos em que alguém está disposto a mexer, um a um, nos tabus da «renda total dos lares», da «distribuição hospitalar» e do «direito de saída de dados».
 
-![Edifício principal do Hospital da NTU](/article-images/lifestyle/ntuh-2014.webp)
-_Edifício principal do Hospital da NTU. Fundado em 1895, é o maior centro médico do sistema de seguro saúde de Taiwan; 30 anos atrás, 1º de março, na inauguração do seguro saúde universal, aqui também se usou bilhete de identidade no lugar dos cartões ainda não impressos._
+![台大醫院主建築](/article-images/lifestyle/ntuh-2014.webp)
+_Edifício principal do Hospital da NTU. Fundado em 1895, é o maior centro médico do sistema de seguro saúde de Taiwan; 30 anos atrás, em 1 de março, quando o seguro saúde universal iniciou, foi aqui também que se usou o bilhete de identidade no lugar dos cartões de seguro saúde que ainda não estavam impressos._
 
 ---
 
 **Leitura complementar**:
 
-- [Lei Médica](/society/醫療法) — Lei do seguro saúde rege "benefícios", Lei Médica rege "instituições"; duas leis compõem o duplo trilho da face de benefícios e face institucional da governança médica de Taiwan
-- [Confissão de profissional da indústria da dupla lei de medicina regenerativa de Taiwan](/society/台灣再生醫療雙法沿革從業人員告白) — Fora da fronteira de benefícios do seguro saúde, dupla lei de medicina regenerativa 2024 aprovada, é outro trilho de governança fora do SOP do seguro saúde
-- [Controvérsia de medicamentos veterinários de Taiwan](/society/台灣動物用藥爭議) — Seguro saúde cobre pessoas não animais; controvérsia de medicamentos para pets é grupo de controle do sistema de seguro saúde
-- [Sistema médico de desastres de Taiwan](/technology/台灣災難醫療體系) — Seguro saúde sustenta medicina quotidiana, sistema médico de desastres sustenta período de emergência; dois sistemas co-constroem a face comum e a face de emergência da governança médica pública de Taiwan
-
----
+- [Lei de Cuidados Médicos](/pt/society/medical-care-act) — A lei do seguro saúde rege os «benefícios», a lei de cuidados médicos rege as «instituições»; as duas leis constituem os trilhos duplos da face de benefícios e da face institucional da governança médica de Taiwan
+- [Confissão de profissionais sobre a evolução das duas leis de medicina regenerativa de Taiwan](/pt/society/taiwan-regenerative-medicine-laws) — Fora das fronteiras dos benefícios do seguro saúde, as duas leis de medicina regenerativa aprovadas em 2024 são outro trilho de governança fora do SOP do seguro saúde
+- [Controvérsia de medicamentos veterinários em Taiwan](/pt/society/taiwan-animal-drug-controversy) — O seguro saúde cobre pessoas, não animais; a controvérsia de medicamentos para pets é o grupo de controle do sistema de seguro saúde
+- [Sistema de medicina de desastre de Taiwan](/technology/台灣災難醫療體系) — O seguro saúde sustenta a medicina do dia a dia, o sistema de medicina de desastre sustenta os tempos de emergência; os dois sistemas co-constroem a face normal e a face de emergência da governança de saúde pública de Taiwan
+- [Pandemia de COVID-19 e vacinas em Taiwan](/society/台灣新冠疫情與疫苗) — Aquele cartão de seguro saúde em 2020 foi usado para o racionamento de máscaras com nome real, montado em duas semanas; a mesma base de dados também fez a investigação epidemiológica e o agendamento de vacinas funcionarem
 
 ## Dados públicos
 
