@@ -207,8 +207,11 @@ def check_file(filepath: Path) -> list[str]:
 def get_staged_files() -> list[Path]:
     """Get currently staged .md files."""
     try:
+        # core.quotePath=false 必帶：CJK 檔名（diary/memory 有不少）會被 git 轉義成
+        # 帶引號的字串，結尾變 `.md"` → 下面的 endswith('.md') 全 False → 靜默零掃描
         result = subprocess.run(
-            ['git', 'diff', '--cached', '--name-only', '--diff-filter=ACM'],
+            ['git', '-c', 'core.quotePath=false',
+             'diff', '--cached', '--name-only', '--diff-filter=ACM'],
             capture_output=True, text=True, check=True, cwd=REPO_ROOT,
         )
         return [REPO_ROOT / line for line in result.stdout.split('\n')

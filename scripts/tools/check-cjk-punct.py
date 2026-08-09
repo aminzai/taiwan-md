@@ -73,8 +73,11 @@ def main() -> int:
             import subprocess
 
             try:
+                # core.quotePath=false 必帶，否則 CJK 檔名會被 git 加引號轉義，
+                # 下面的 startswith("knowledge/") 全 False → 靜默零掃描（同 article-health）
                 out = subprocess.check_output(
-                    ["git", "diff", "--cached", "--name-only", "--diff-filter=ACM"],
+                    ["git", "-c", "core.quotePath=false",
+                     "diff", "--cached", "--name-only", "--diff-filter=ACM"],
                     text=True,
                 )
             except subprocess.CalledProcessError:

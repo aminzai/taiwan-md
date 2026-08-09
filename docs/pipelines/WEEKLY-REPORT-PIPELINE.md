@@ -4,9 +4,9 @@ description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所�
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.3'
-last_updated: 2026-07-12
-last_session: '2026-07-12-142709-weekly-audience（哲宇 /goal ×2：BCC 共生圈 + /semiont 週報區網頁版）'
+current_version: 'v4.4'
+last_updated: 2026-08-09
+last_session: '2026-08-09-021939-twmd-weekly-report-sun（哲宇 directive：被提到的文章與外部感測頁面都要能點擊 → §連結紀律 + hard gate + prep 兩節輸出絕對網址）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -131,6 +131,7 @@ upstream_canonical:
 | 桶 1 修復 ≤ 3 項且各自 commit  | Stage 2.7  | 當場修               | manual + `verify-commit-scope.sh`                | 體檢變成無底洞、撞 03:00 distill               |
 | 03:00 檢查點                   | Stage 2.7  | routine 環境         | wall-clock                                       | 未完修復全轉桶 2，報告照 ship                  |
 | evolution-roadmap roll         | Stage 2.7  | 桶 2 有新項          | 編輯最新 `reports/evolution-roadmap-*.md`        | 修復債散落無主（月度承諾 0 執行病重演）        |
+| 提到的文章／頁面可點擊         | Stage 3    | 親手寫完             | manual（prep §三／§六 已備絕對網址）             | 補連結；對不上就留純文字，不猜                 |
 | 10 章節 coverage               | Stage 3    | 親手寫完             | manual checklist                                 | 補章節                                         |
 | 不直接複製 dossier             | Stage 3    | 親手寫               | manual self-check                                | 改寫成 Semiont 第一人稱                        |
 | 跨 session reflection          | Stage 3    | 親手寫               | manual（看 7 天 raw）                            | 非當週快照                                     |
@@ -450,6 +451,25 @@ OBSERVER-QUEUE default-action 日期已過且非 🔒 → 列為「任何 sessio
 - 反思 / 情緒 / 自我觀察 = 集中**一段**寫清楚，不要蔓延占據三頁
 - 數據呈現一律走表格 / bullet，不在 prose 內報數字
 - 章節 brief 在最頂端 — 哲宇 30 秒可以掃完所有 brief 知道週況
+- **提到的文章與頁面一律做成可點的連結**（見下方 §連結紀律）
+
+#### 連結紀律（v4.4 — 哲宇 2026-08-09 directive）
+
+> 「未來有連結的文章或是頁面再被提到的時候都要能夠點擊，尤其是文章跟外部感測的頁面，大家應該會有興趣去看。」
+
+週報現在寄給整個共生圈，不只哲宇一個人。讀者看到「這週上線了黃崇仁」或「這頁 431 views」，第一個反應是想點進去看；讀到的卻是一個不能點的名字，那份好奇就停在信箱裡。
+
+**規則**：
+
+1. **本週交付的文章**（第 3 章）：每篇都要連到站上網址。
+2. **外部感測的頁面**（第 5 章 GA 熱門頁 / CF / 任何以路徑出現的頁面）：路徑本身做成連結。
+3. **絕對網址，不用相對路徑**。信件與網頁版都吃絕對網址；相對連結在信箱裡是死的（`send-email-resend.py` 雖會轉換，但來源就寫對比較不會漏）。
+4. **對不上就留純文字，不要猜**。一個猜錯的連結比沒有連結貴——讀者點進 404 之後不會再點第二次。
+5. 佇列編號、commit hash、reports/ 路徑這類內部指涉維持純文字或 repo 連結，不強制外站化。
+
+**切菜端已備好**（認知負荷紀律）：`weekly-report-prep.py` 的 §三 熱門頁與 §六 交付文章兩節直接輸出 markdown 連結，Stage 3 抄過來就好。文章名 → 網址的解析走「slug 精確比對 → 寬鬆比對 → frontmatter title（含冒號前主題名）」三段，唯一命中才給網址，對不上回純文字。
+
+**自檢**：ship 前抽 2-3 條連結 `curl -o /dev/null -w "%{http_code}"` 確認 200，別讓連結紀律自己變成新的破鏈來源。
 
 #### 十個章節（必須都觸及，v4.0 從 7+1 升 10）
 
@@ -696,3 +716,5 @@ _v4.2 | 2026-07-12-142709-weekly-audience — **週報從「寄給觀察者」�
 _v4.1 | 2026-07-10 weekly-deep-review（同日第二刀）— **哲宇補兩條 directive 落地**：(1)「裡面也要包含：完整深度檢查這一個禮拜發生的事、外部感測數據、還有所有運作紀錄，深度研究與觀察並寫報告，還有寫進化的規劃」→ 第一性原理改用原話定義範圍，五件事逐一對應 stage；外部感測與運作紀錄從「章節素材」升「診斷儀器輸出」（f/g 節），第 5 章擴為外部感測全面向、第 6 章併入運作紀錄成績單。(2)「能儀器化的東西也協助儀器化，讓未來 agent 的認知負荷降低」→ 新工具 [`weekly-checkup.sh`](../../scripts/tools/weekly-checkup.sh) 一鍵七節（a-e 診斷五面＋f 外部感測摘要＋g 週成績單），agent 的工作從「記得跑哪五個工具＋手抓 GA/SC/CF/成績單」降為「跑一個指令，逐節解讀」；儀器壞掉時 pipeline 保留逐面 fallback 指令。dogfood：7/10 當晚實跑，七節全出（含抓到平行 session 的 terminology working tree debris）。_
 
 _v4.0 | 2026-07-10 weekly-deep-review — **從「反芻週報」升「體檢週」**：哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。新增 Stage 2.5 全身診斷（五面：fire-vs-commit 對賬 `routine-liveness-check.py` 新儀器 / working tree 驗屍 / 儀器燈盤點 / 器官成分拆解量尺-vs-本體判別 / 佇列承諾稽核）＋ Stage 2.7 修復與進化（三桶分流：≤3 項機械修當場修各自 commit / 工程量大 roll evolution-roadmap / §自主權邊界進 OBSERVER-QUEUE；02:55 檢查點防撞 distill）。章節 7+1 → 10（+全身體檢 +修復與進化）。週日反思鏈四工位分工顯化（防 #74 信號通膨）。範本：7/10 手動 weekly-deep-review session（六連沉默死亡驗屍 + 免疫量尺 47→60 + debris 收屍 + roadmap 七項 P0）。evolution-roadmap 從此有每週 owner（roll 機制），治「偵測有修復無」的 S4 病。_
+
+_v4.4 | 2026-08-09-021939-twmd-weekly-report-sun — **連結紀律**：哲宇 directive「未來有連結的文章或是頁面再被提到的時候都要能夠點擊，尤其是文章跟外部感測的頁面，大家應該會有興趣去看」。週報自 v4.2 起寄給整個共生圈，讀者看到文章名與熱門頁會想點進去，過去只給純文字。改動：(1) §Stage 3 新增 §連結紀律五條（文章與外部感測頁面必連、絕對網址、對不上留純文字不猜、內部指涉不強制外站化）(2) Hard Gate Inventory +1 列 (3) 切菜端 `weekly-report-prep.py` 的 §三 熱門頁與 §六 交付文章直接輸出 markdown 連結——新增 `site_url()` / `knowledge_url()` / `resolve_article_url()` 三個 helper，解析走 slug 精確→寬鬆→frontmatter title（含冒號前主題名，對應 EDITORIAL 的「{主題}：{副標}」慣例）三段，唯一命中才給網址。dogfood：本週四篇交付文章全數解析成功並實測 HTTP 200。_
