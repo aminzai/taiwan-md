@@ -85,6 +85,8 @@ cjkleak = import_module("cjk-leak-check")
 
 import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（防新增，見 zh_chunk 抽取點）
 
+_whole = import_module("translate")  # materialize_resolved_wikilinks（見 _resolve_wikilinks）
+
 LANG_NAMES = st.LANG_NAMES
 load_lang_guide_sections = st.load_lang_guide_sections
 INLINE_FN_REF_RE = st.INLINE_FN_REF_RE
@@ -485,6 +487,46 @@ def _article_health_arg_path(out_path: Path, lang: str) -> tuple[Path, Path | No
     return link / out_path.name, tmp_root
 
 
+_WIKILINK_SCAN = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+
+
+def _resolve_wikilinks(chunk: str, lang: str) -> tuple[str, int]:
+    """把章節裡已有譯文的 `[[X]]` 先機械化成該語言的 markdown 連結。
+
+    v1.22 已經把「wikilink 路由從模型手上收回工具端」做進整篇路徑
+    （translate.py 用 manifest 的 wikilink_targets），但章節級 patch 路徑沒有
+    manifest，於是漏掉這道，模型收到生的 `[[台灣醫療與全民健保]]` 就把它當文字
+    翻——2026-08-09 實撞 ko 譯出 `[[대만 의료와 전국민건강보험]]`，指向一個不存在
+    的頁面，`wikilink-target` 硬閘擋下整篇、worker 連三次硬失敗被凍 30 分。
+    一個沒被預轉的連結，代價是一整條軌停半小時。
+
+    這裡自己從 `_translations.json` 反查該語言的譯文路徑（patch 路徑沒有
+    manifest 可用），解析不出來的保持原樣交給既有 prompt 與 hard gate，跟整篇
+    路徑同樣保守。
+    """
+    targets: dict[str, str] = {}
+    names = {m.group(1).strip() for m in _WIKILINK_SCAN.finditer(chunk)}
+    if not names:
+        return chunk, 0
+    try:
+        idx = json.loads((REPO / "knowledge/_translations.json").read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return chunk, 0
+    # _translations.json 是 {譯文路徑: zh 路徑}；這裡要的是反方向，且只取本語言。
+    zh_to_lang = {zh: tr for tr, zh in idx.items() if tr.startswith(f"{lang}/")}
+    for name in names:
+        for cand in (f"{name}.md", *(f"{c}/{name}.md" for c in (
+            "People", "Society", "History", "Culture", "Music", "Nature",
+            "Technology", "Food", "Art", "Lifestyle", "Geography", "Economy",
+            "Politics", "About",
+        ))):
+            hit = zh_to_lang.get(cand)
+            if hit:
+                targets[name] = "/" + hit[:-3] + "/"
+                break
+    return _whole.materialize_resolved_wikilinks(chunk, targets)
+
+
 def run_verify_trio(zh_path: str, out_path: Path, lang: str) -> tuple[bool, dict]:
     out_path = out_path.resolve()
 
@@ -657,6 +699,7 @@ def main() -> int:
         # zh_chunk 同時是 prompt 內容也是 _validate_chunk() 的 URL 比對基準，兩邊一致
         # 不會因為改了 URL 就誤判「模型漏抄連結」。
         zh_chunk, _ = _xlink.localize_body(zh_chunk, args.lang)
+        zh_chunk, _ = _resolve_wikilinks(zh_chunk, args.lang)
         c_metrics: dict = {}
         if FN_DEF_RE.search(zh_chunk):
             out, issues = translate_footnote_chapter(zh_chunk, args.lang, backend, c_metrics, tmp_dir)
