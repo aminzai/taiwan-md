@@ -1,14 +1,14 @@
 ---
-title: 'Prime-time Soap Operas: A Flame of Nostalgia and Cult in Taiwanese Living Rooms'
-description: 'From Qiong Yao''s melodramas in the 1990s to the "Thunder Fire" meme in the 2000s, prime-time soap operas are not only Taiwan''s ambient soundtrack but also an industrial miracle of "shoot-and-broadcast" synchronization with reality.'
+title: "The 8 O'Clock Drama: A Matchstick Ignites the Cult and Nostalgia of Taiwan's Living Rooms"
+description: 'From the melodramatic suffering of 1990s Qiong Yao to the "Pili Fire" memes of the 2000s, 8 o''clock dramas are not just background noise for Taiwanese people, but an industrial miracle of "filming and broadcasting simultaneously" that syncs with reality.'
 date: 2026-07-25
 category: 'Culture'
 tags:
   [
-    'Film & TV',
+    'Film and Television',
     'Pop Culture',
     'Taiwanese Language',
-    'Meme',
+    'Memes',
     'Social Observation',
   ]
 subcategory: '網路文化'
@@ -17,80 +17,81 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'Culture/八點檔.md'
-sourceCommitSha: '08a8c5ec8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c5c6c2825029a48f'
 sourceBodyHash: 'sha256:f0cb0ab3b5428edc'
-translatedAt: '2026-07-27T22:12:14+08:00'
+translatedAt: '2026-08-09T08:01:31+08:00'
 ---
 
-> **30-second overview**: Prime-time soap operas are the longest-running companions in Taiwan's television history, characterized by an extreme industrialization of "shoot-and-broadcast" that allows fictional plots to breathe in sync with real-world events. This low-budget "factory" operates with a budget just one-eighth of K-dramas but has evolved into a unique "cult meme" in the social media era due to its high narrative flexibility and spicy content. From "orange-squeezing punches" to "flying Michaels," prime-time soaps are not only background noise for middle-aged and older audiences but also a crucial repository for younger generations to remix and deconstruct Taiwan's cultural identity.
+> **30-Second Overview**: The 8 o'clock drama is the most enduring companion in the history of Taiwanese television. Its core lies in the extreme industrialization of "filming and broadcasting simultaneously," allowing fictional plots to breathe in sync with current events. This "manufacturing plant," operating on a low budget, has only one-eighth the budget of Korean dramas, yet it achieves astonishing viewership ratings exceeding 15%. Relying on extreme narrative flexibility and spicy content, it has evolved in the social media era into a unique "cult meme." From the "Orange-Breaking Fist" to the "Flying Michael," 8 o'clock dramas are not just background noise for middle-aged and elderly viewers in their living rooms, but have become a crucial material library for younger generations to remix and deconstruct Taiwan's cultural subjectivity.
 
-This is not a rehearsed play, but a race against time. In 2003, actor Qin Yang delivered the line "If I'm not happy, I'll give you a can of gasoline and a lighter" in _Thunder Fire_, which instantly ignited the nation and became a catchphrase for both political figures and common citizens.[^1] This drama genre, often dubbed "local dramas," costs only about NT$1.3 to 1.5 million per episode—far less than the millions typical for K-dramas—yet achieves astonishing ratings of over 15%.[^2]
+This is not a rehearsed play; this is a race against time. In 2003, actor Qin Yang delivered a line in _Taiwan Pili Fire_: "If I'm not happy, I'll send you a bucket of gasoline and a matchstick." This line, full of tension, instantly ignited the entire island, even becoming a catchphrase for political figures and commoners alike. [1](#user-content-fn-1) This dramatic form, jokingly referred to as "local drama," has a production cost per episode of only about 1.3 to 1.5 million New Taiwan Dollars, far lower than the tens of millions spent on Korean dramas, yet it can create shocking viewership ratings breaking 15%. [2](#user-content-fn-2)
 
-## Hyper-speed Production: An Industrial Miracle of Shooting Today, Broadcasting Tomorrow
+## Hyper-Speed Production: The Industrial Miracle of Filming Today, Broadcasting Tomorrow
 
-The most unique and surprising feature of Taiwan's prime-time soap operas is "On-dramas" (shooting while broadcasting). This model originated in the early 2000s during the ratings war, where TV stations had to respond with the speed of "shooting today, broadcasting tomorrow" to keep up with competitors' plot twists.[^3]
+The most unique and shocking feature of Taiwan's 8 o'clock dramas in the film and television industry is the "On-Air Drama" model (filming while broadcasting). This model originated in the viewership wars of the early 2000s. To respond to competitors' plot shifts, television stations had to possess the reaction speed of "filming today, broadcasting tomorrow." [3](#user-content-fn-3)
 
-In practical operations, main TV stations like CTi and SET produce at an extremely fast pace. Sets often use "four-cam" or even "five-cam" operations, completing a scene in an average of 15 to 20 minutes, producing about 2 to 3 hours of footage daily.[^4] The actors' situation is extremely harsh, often receiving their lines for the next day at 2 to 4 a.m., relying on on-the-spot improvisation and real-time adjustments from "Taiwanese language advisors" for pronunciation and emotional shifts.[^5]
+In practice, the shooting pace of major television stations like Formosa TV and Sanlih E-Television is extremely fast. Studios typically use "four-camera" or even "five-camera" setups, with an average scene completed in 15 to 20 minutes. Approximately 2 to 3 hours of finished footage must be produced daily. [4](#user-content-fn-4) The actors' situation is extremely harsh; they often receive the next day's script between 2 and 4 a.m., relying on on-the-spot improvisation and real-time correction by "Taiwanese language coaches" for pronunciation and emotional shifts. [5](#user-content-fn-5)
 
-This "ratings-centric" system gives the scripts tremendous flexibility. The writing team constantly monitors the ratings curve and online sentiment. If the ratings fall short of expectations, the plot can be drastically rewritten within 48 hours—such as suddenly making the protagonist amnesiac, changing their face, or forcibly redeeming the villain.[^6] Dramas like _Night Market Life_ and _A Happy Home_ have introduced high-conflict plot elements like paternity tests and car accidents due to fluctuations in ratings.
+This "viewership-centric system" grants the script immense flexibility. The writing team monitors viewership curves and online sentiment in real time. If ratings fall short of expectations, the plot can be significantly rewritten within 48 hours—for example, suddenly making the protagonist lose their memory, undergo facial changes, or forcibly whitewashing the villain. [6](#user-content-fn-6) Shows like _Night Market Life_ and _Family Harmony Brings Prosperity_ have all inserted high-conflict plot points such as paternity tests or chain car accidents due to viewership fluctuations.
 
-📝 **Curator's Note**: Prime-time soaps are not about making art; they're about making "company." They don't need to be refined; they need to be there when you turn on the TV after work, with familiar characters appearing on time.
+📝 Curator's Note: 8 o'clock dramas are not shooting art; they are shooting "companionship." They do not need to be exquisite; they need to ensure that when you get off work, go home, and flip the switch, those familiar characters appear on time.
 
-## Meme Era: From "Orange-Squeezing Punch" to "You're Just Saying Hello"
+## The Golden Age of Memes: From the "Orange-Breaking Fist" to "What are you doing?"
 
-The evolution of prime-time soaps mirrors the changing atmosphere of Taiwan society. In the late 1980s, Qiong Yao's _Six Dreams_ series pioneered filming in mainland China.[^7] By the 2000s, plots shifted toward local themes, business wars, and family conflicts, with car accidents, amnesia, face changes, and paternity tests becoming the four standard features.[^8]
+The evolution history of 8 o'clock dramas is also a microcosm of Taiwan's social atmosphere. In the late 1980s, Qiong Yao's _Six Dreams_ series pioneered the trend of filming in mainland China. [7](#user-content-fn-7) Entering the 2000s, plots shifted to emphasize local themes, business wars, and family struggles, with car accidents, amnesia, facial changes, and paternity tests becoming the four standard equipment pieces. [8](#user-content-fn-8)
 
-These plots once considered "melodramatic" have found a second life in the social media era. For middle-aged and older audiences, prime-time soaps are an emotional outlet; but for Gen Z, they are a repository of "contrasting cuteness."[^9] The more absurd the scenes—such as Le Hong crushing an orange with his "orange-squeezing punch" or Michael being thrown into the air and flipping after a car crash—the more likely they are to be edited into short videos and go viral on Threads or Instagram.[^10] In recent years, producers have actively "fed" memes, such as transforming the popular phrase "You're just saying hello" into the Taiwanese "Is le ha lo," successfully turning local dramas into a cross-generational "cult culture."[^11]
+These plots, once considered "dog-blood" (melodramatic/cliché), found a second life in the social media era. For middle-aged and elderly viewers, 8 o'clock dramas are an emotional outlet; but for Generation Z, they are a material library for "gap moe" (contrast charm). [9](#user-content-fn-9) The more scenes violate physical common sense—such as Lei Hong's "Orange-Breaking Fist" where he crushes an orange, or the "Flying Michael" where a character is hit by a car and flips in the air—the more likely they are to be edited into short videos and go viral on Threads or Instagram. [10](#user-content-fn-10) In recent years, producers have even actively "fed" memes, such as transforming the popular phrase "What are you doing?" into the Taiwanese Hokkien "Shi lie ha lo," successfully turning local dramas into a cross-generational "cult culture." [11](#user-content-fn-11)
 
-## Business Data and Long-Tail Effects of International Output
+## Long-Tail Effects of Commercial Data and International Export
 
-Despite recent impacts from streaming services, prime-time soap ratings mostly fall between 2% and 4%, but the derived business opportunities remain impressive.[^12] Product placements (PPL) are extremely flexible, with health supplements, real estate agents, and election ads being quickly incorporated within two episodes.[^13]
+Although viewership for 8 o'clock dramas has mostly fallen into the 2% to 4% range in recent years due to the impact of streaming services, the derivative business opportunities remain astonishing. [12](#user-content-fn-12) Product placement (PPL) is extremely flexible, ranging from health supplements and real estate to election advertisements, all of which can be quickly woven into two episodes. [13](#user-content-fn-13)
 
-In international markets, Taiwan's prime-time soaps demonstrate a strong "long-tail effect." _Farewell, My Love_ was continuously broadcast for over 5 years in Vietnam, with no end to its reruns.[^14] The universal structure of family ethics and karma makes these low-budget dramas easier to root in Southeast Asian Chinese communities than refined idol dramas.
+In the international market, Taiwan's 8 o'clock dramas demonstrate a powerful "long-tail effect." _The Indelible Memory_ (Yi Nan Wang) set a record in Vietnam with continuous broadcasting for over five years and endless reruns. [14](#user-content-fn-14) The universal structure of family ethics and karmic retribution allows these low-budget dramas to take root more easily in the Southeast Asian Chinese community than exquisite idol dramas.
 
-## Cross-border Production Model Comparison
+## Comparison of Cross-Border Production Models
 
-Placing Taiwan's prime-time soaps in an international context, their "ratings-centric" model contrasts sharply with the Korean and American systems.
+Placing Taiwan's 8 o'clock dramas in an international perspective, their "viewership-centric system" forms a sharp contrast with the Korean and American systems.
 
-| Item                             | Taiwan Prime-time Soap                             | Korean TV Drama                                    | American TV Series                         |
-| -------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------------ |
-| **Production Model**             | Shooting while broadcasting (ratings-centric)      | Script-centric (moving toward full pre-production) | Seasonal pre-production                    |
-| **Cost per Episode**             | NT$1.3 to 1.5 million                              | NT$15 to 30 million                                | Over NT$150 million                        |
-| **Script Flexibility**           | Extremely high (ending can be changed anytime)     | Medium (limited scope for changes)                 | Low (requires multiple layers of approval) |
-| **Synchronization with Society** | Instantly incorporate current events and pandemics | Delayed by over 6 months                           | Delayed by over 1 year                     |
+| Item                       | Taiwan 8 O'Clock Drama                              | Korean TV Drama                                | American TV Series                       |
+| -------------------------- | --------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
+| **Production Model**       | Filming while broadcasting (Viewership-centric)     | Writer-centric (Shifted to fully pre-produced) | Seasonal pre-production                  |
+| **Cost per Episode**       | 1.3 - 1.5 million NTD                               | 15 - 30 million NTD                            | Over 150 million NTD                     |
+| **Script Flexibility**     | Extremely High (Endings can be changed at any time) | Medium (Little room for change)                | Low (Requires multiple layers of review) |
+| **Social Synchronization** | Immediate inclusion of current events, pandemics    | Delayed by over 6 months                       | Delayed by over 1 year                   |
 
-📝 **Curator's Note**: When we mock the absurdity of prime-time soap plots, we are actually participating in a collective stress release.
+📝 Curator's Note: When we mock the absurdity of 8 o'clock drama plots, we are actually participating in a collective stress release.
 
 ## References
 
 ## Footnotes
 
-1. [The villain Liu Wensong's iconic line "I'll give you a can of gasoline and a lighter"](https://time.udn.com/udntime/story/122834/7311370) - UDN Time (2023) [↩](#user-content-fnref-1)
+1. [The classic quote of the villain character Liu Wencong: "Send you a can of gasoline and a matchstick"](https://time.udn.com/udntime/story/122834/7311370) - Bao Shi Guang (2023) [↩](#user-content-fnref-1)
 
-2. [The current situation and challenges of Taiwan dramas: Data tells the truth](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Taiwan Broadcasting and Television Program Production Association [↩](#user-content-fnref-2)
+1. [The current situation and dilemmas of Taiwanese dramas: Data tells you the truth](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Republic of China Broadcasting and Television Program Production Business Association [↩](#user-content-fnref-2)
 
-3. [Prime-time Soap Opera - Wikipedia, the Free Encyclopedia](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) - Wikipedia [↩](#user-content-fnref-3)
+1. [8 O'Clock Drama - Wikipedia, the free encyclopedia](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E9%BB%9E%E6%AA%94) - Wikipedia [↩](#user-content-fnref-3)
 
-4. [Gene Mutation of Local Dramas: Beyond Memes, How Young Audiences Influence Taiwanese Prime-time Soap Opera Ecosystem](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-4)
+1. [The gene mutation of local dramas: Not just memes, how young audiences affect the Taiwanese Hokkien 8 o'clock drama ecosystem?](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-4)
 
-5. [Actor Zhang Jia-wei reveals prime-time soap salaries: Receiving scripts at dawn is the norm](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) - ETtoday (2022) [↩](#user-content-fnref-5)
+1. [Actor Chang Chia-wei publicly reveals 8 o'clock drama salaries: Receiving scripts at dawn is the norm](https://www.facebook.com/ETtodaySTAR/videos/734168171101139/) - ETtoday (2022) [↩](#user-content-fnref-5)
 
-6. [Secrets of Prime-time Soap Writers! Adjusting with Ratings and Current Events in Real-time](https://www.youtube.com/watch?v=y6F2W97rwsY) - SET Entertainment News (2023) [↩](#user-content-fnref-6)
+1. [Secrets of 8 o'clock drama writers! Immediate shifts based on viewership and current events](https://www.youtube.com/watch?v=y6F2W97rwsY) - Sanlih Entertainment News (2023) [↩](#user-content-fnref-6)
 
-7. [Polishing the Prime-time Soap Brand: Taiwan Television Drama Reborn](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) - Taiwan Panorama Magazine (2002) [↩](#user-content-fnref-7)
+1. [Polishing the 8 o'clock drama brand -- Taiwanese TV dramas meet spring again](https://www.taiwan-panorama.com/Articles/Details?Guid=0b0e10e4-7a62-4531-8762-2e8089498916&CatId=7&postname=%E6%93%A6%E4%BA%AE%E5%85%AB%E9%BB%9E%E6%AA%94%E6%8B%9B%E7%89%8C%E2%94%80%E2%94%80%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E5%8A%87%E3%80%80%E5%86%8D%E9%80%A2%E6%98%A5) - Taiwan Panorama (2002) [↩](#user-content-fnref-7)
 
-8. [20 Years of Evolution in Taiwan Dramas: 2004's _Farewell, My Love_ Set the Record for Most Episodes in a Prime-time Soap](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) - New Fountain [↩](#user-content-fnref-8)
+1. [The 20-year evolution history of Taiwanese dramas: 2004's _The Indelible Memory_ created the record for the most episodes in the Taiwan 8 o'clock drama category](https://www.fountain.org.tw/statics/taiwan-tv-series-20-years/) - Xin Huo Shui [↩](#user-content-fnref-8)
 
-9. [Memes, Melodrama, and Companionship: The Trinity Attracting Young Audiences to Taiwanese Prime-time Soaps](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-9)
+1. [Memes, dog-blood, and companionship: The trinity of Taiwanese Hokkien 8 o'clock dramas attracting young audiences](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-9)
 
-10. [One Classic Meme a Day Until 2027 Day 102: Prime-time Soap Special Edition _Cha Cha_](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) - Threads [↩](#user-content-fnref-10)
+1. [One classic meme a day until 2027 Day102 8 O'Clock Drama Special Edition _Qia Qia_](https://www.threads.com/@classic.meme.daily/post/DYhM5KZgdzR/) - Threads [↩](#user-content-fnref-10)
 
-11. ["You're Just Saying Hello" Becomes Taiwanese "Is Le Ha Lo"!](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-11)
+1. ["What are you doing?" becomes Taiwanese! "Shi lie ha lo" goes viral](https://www.twreporter.org/a/young-adults-with-taiwanese-soap-opera) - The Reporter (2021) [↩](#user-content-fnref-11)
 
-12. [The Current Situation and Challenges of Taiwan Dramas: Data Tells the Truth: K-drama Production Costs Average Eight Times That of Taiwanese Dramas](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Taiwan Broadcasting and Television Program Production Association [↩](#user-content-fnref-12)
+1. [The current situation and dilemmas of Taiwanese dramas: Data tells you the truth: Korean drama production costs are on average about eight times that of Taiwanese dramas](http://www.vapat.org.tw/show.php?sname=%E7%94%A2%E6%A5%AD%E8%B3%87%E8%A8%8A&sid=132) - Republic of China Broadcasting and Television Program Production Business Association [↩](#user-content-fnref-12)
 
-13. [Regarding Product Placement in Prime-time Soaps: Product Placement is a Significant Revenue Source for TV Stations](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) - Threads (2024) [↩](#user-content-fnref-13)
+1. [About 8 o'clock drama placements: Placed products are a very important income source for television stations](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) - Threads (2024) [↩](#user-content-fnref-13)
 
-14. [_Farewell, My Love_ (2004 TV Drama) - Vietnam's Unforgettable First Love Record](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) - Wikipedia [↩](#user-content-fnref-14)
+1. [_The Indelible Memory_ (2004 TV Series) - Vietnam's unforgettable first love record](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) - Wikipedia [↩](#user-content-fnref-14)

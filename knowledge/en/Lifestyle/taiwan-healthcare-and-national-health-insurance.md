@@ -2,9 +2,7 @@
 title: 'Taiwan Healthcare and National Health Insurance: A World Number One Where 99.6% Rests on 12.61%'
 description: 'The National Health Insurance card used on March 1, 1995, was rushed out under extreme pressure: six days earlier, the cards had not even been printed. Thirty years later, the right to medical care for 23 million people rests on a 5.17% premium rate, a nursing turnover rate at a 10-year high of 12.61%, and a political taboo no one has dared touch for 30 years.'
 date: 2026-06-04
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: 'Healthcare and NHI'
 tags:
   [
     'National Health Insurance',
@@ -17,19 +15,28 @@ tags:
     'Yang Chih-liang',
     'National Health Insurance Research Database',
   ]
-readingTime: 22
+subcategory: 'Healthcare and NHI'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-04
 lastHumanReview: false
-featured: true
-translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:14d6c92447535914'
-sourceBodyHash: 'sha256:c1ead29e154aba6a'
-translatedAt: '2026-06-16T17:03:25Z'
+readingTime: 22
 image: '/article-images/lifestyle/nhi-taipei-building-2018.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg'
+datasets:
+  [
+    "{'id': '20254', 'name': '全民健康保險保險對象人數按類別性別年齡層統計', 'url': 'https://data.gov.tw/dataset/20254', 'agency': '衛生福利部中央健康保險署', 'update_freq': '每3月', 'why': '文中「39.8% 在用、54.8% 在繳」的世代結構，可對照年齡層投保人數自己拆', 'verified': datetime.date(2026, 6, 10)}",
+    "{'id': '7554', 'name': '衛生福利部全民健康保險會委員會議議事錄', 'url': 'https://data.gov.tw/dataset/7554', 'agency': '衛生福利部全民健康保險會', 'update_freq': '每1月', 'why': '5.17% 費率「維持不調整」在哪張會議桌上、用什麼理由決定，一手議事錄', 'verified': datetime.date(2026, 6, 10)}",
+    "{'id': '23719', 'name': '全民健康保險各級政府補助弱勢保險對象統計資料', 'url': 'https://data.gov.tw/dataset/23719', 'agency': '衛生福利部中央健康保險署', 'update_freq': '每1月', 'why': '「危難共擔、量能付費」的執行面：政府替誰繳了保費', 'verified': datetime.date(2026, 6, 10)}",
+  ]
+rationale: "{'why_this_hook': '從 1995 開辦的「準備時間只有三天」+ 「補充保費是個錯誤」這兩個自陳金句切入，避免落入「全球第一/血汗醫護」二元敘事；用核心矛盾「成功的制度設計鎖死制度更新的政治路徑」拉開深度。', 'whats_excluded': '失聯移工/黑戶嬰兒/海外停保族群只在「99.6% 盲區」段點到（議題涵蓋面太廣，獨立題目）；「歐巴馬學台灣」delegation 缺證據改寫為學界 + Sanders 引用鏈；Bloomberg #14 直接 refute 不展開方法論細節（節奏考量）。', 'where_it_hedges': 'Hsiao 顧問上任年份取 1989 task force conservative 版本（來源衝突 1988/1989/1991）；行政成本「長期 < 2%」標 hedge（首份報告出處未找到）；IC 卡明標 Slovenia 早 3.5 年（不寫「全球第一」）；醫師起訴率「美 400 倍」未引用（原始數據出處未追到）。', 'whos_pushing_back': '葉金川「總體醫師人數足夠」反五大皆空全面缺；李玉春自己造詞自己反對「點值是現象解」；鄭守夏 + 高若想 + 石崇良反「點值低 = 主因」單一歸因；Reinhardt「I have not advocated the single-payer model here because our government is too corrupt」設計者自反美國複製；70% 家戶買私保 evidence 反向 refute「NHI 鎖死私保」。'}"
+translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:879eb268c7fce9b0'
+sourceBodyHash: 'sha256:a5c8010bb09051a0'
+translatedAt: '2026-08-09T00:02:14.923381+00:00'
 ---
 
 # Taiwan Healthcare and National Health Insurance: A World Number One Where 99.6% Rests on 12.61%
@@ -160,25 +167,26 @@ As for the narrative that "Obama learned from Taiwan," publicly available source
 
 The private insurance market is another piece of counterevidence. A 2004 survey found that 72.3% of Taiwanese households had purchased private health insurance; in 1993, before NHI began, the figure was 63.9%[^42]. The assumption that "universal NHI locks out the private insurance market" is reversed: nine years after NHI began, private insurance household penetration had not fallen but risen by 8.4 percentage points. Taiwanese people are pragmatic. They know NHI is good, but they also know that room upgrades, self-pay therapies, overseas emergency care, long-term care, and targeted cancer drugs outside the NHI benefits package require private insurance supplementation. This is also the structural reason why, 30 years later, the question "Is NHI enough?" is becoming more common.
 
-## Three Sentences Together
+## Three Sentences Combined
 
-Thirty years later, that small card from midnight on March 1, 1995 is still here; it has simply entered an app and become a QR code. But the same system rests on three things: 99.6% coverage, a 5.17% premium rate, and a 12.61% nursing turnover rate. The first two are sources of Taiwanese pride. The third is a bill no one has dared touch for 30 years.
+Thirty years later, that small card from midnight on March 1, 1995, still exists; it has simply moved into apps as a QR code. But the same system is currently propped up by three figures: a 99.6% coverage rate, a 5.17% premium rate, and a 12.61% nursing turnover rate. The first two are a source of pride for the people of Taiwan; the third is an account that no one has dared to touch for 30 years.
 
-Yeh Ching-chuan said in 2020: "The current system can last at most another five years"[^22]. Yang Chih-liang said before resigning after the 2011 third reading: "The supplementary premium is a mistake"[^18]. Lee Yu-chun, as the person who coined the original phrase "four major specialties hollowed out," said in 2024: "Point value is a symptomatic explanation, not the root solution"[^25]. Put the three sentences together, and they are not exactly pessimistic. They sound more like statements finally spoken aloud after 30 years of accumulated practice. A world-leading NHI system needs world-leading investment. But "investment" has never meant only adding money. It points to total household income, internal hospital allocation, resident working hours, medical-dispute burden, and data governance. Each is ten times harder than adjusting the premium rate.
+In 2020, Yeh Chin-chuan said: "The current system can only hold out for five more years at most"[^22]. In 2011, before resigning following the third reading of the legislation, Yang Chih-liang said: "Supplementary premiums are a mistake"[^18]. In 2024, Li Yu-chun—the person who coined the term "Sida Jiekong" (all four elements being empty)—said: "The point value is a symptomatic solution, not a fundamental one"[^25]. Combined, these three sentences are not necessarily pessimistic; they sound more like words that someone finally dares to speak aloud after 30 years of implementation. The world's number-one health insurance requires world-class investment; but the word "investment" has never been just about adding money. It points toward total household income, internal hospital resource allocation, resident physician working hours, the bearing of medical disputes, and data governance. Every single one of these is ten times harder than adjusting premium rates.
 
-William Hsiao's reason for choosing the Canadian model in 1989 was that "the quality of services was very high"[^10]. Thirty years later, Taiwan's world-highest coverage rate rests on the lowest payment point values and a 12.61% nursing turnover rate. Institutional success is not the opposite of institutional defects. Success itself has produced the political path dependence of those defects. Getting out will not depend on the next "three days with a fire at our backsides." It will depend on someone, for the first time in 30 years, being willing to touch the taboo zones of "total household income," "hospital allocation," and "data opt-out rights" one by one.
+In 1989, Hsiao Ching-lun chose the Canadian model because "the quality of services was very high"[^10]. In Taiwan, 30 years later, the world's highest coverage rate rests upon the lowest payment point values and a nursing turnover rate of 12.61%. The success of a system is not the antonym of its flaws—success itself creates a political path dependency that generates these flaws. To move forward, we cannot rely on the next "three days of fire under one's buttocks"; we must rely on someone being willing, for the first time in 30 years, to tackle the forbidden zones of "total household income," "hospital allocation," and "the right to data withdrawal," one by one.
 
-![National Taiwan University Hospital main building](/article-images/lifestyle/ntuh-2014.webp)
-_The main building of National Taiwan University Hospital. Founded in 1895, it is the largest medical center in Taiwan's NHI system. Thirty years ago, when NHI launched on March 1, patients here also used national ID cards in place of NHI cards that had not yet been printed._
+![Main building of NTUH](/article-images/lifestyle/ntuh-2014.webp)
+_The main building of National Taiwan University Hospital (NTUH). Founded in 1895, it is the largest medical center in Taiwan's NHI system; on March 1, thirty years ago, during the launch of National Health Insurance, ID cards were used here to replace health insurance cards that had not yet been printed._
 
 ---
 
-**Further reading**:
+**Further Reading**:
 
-- [Medical Care Act](/en/society/medical-care-act) — The NHI Act governs "benefits," while the Medical Care Act governs "institutions"; together, the two laws form the benefits and institutional tracks of Taiwan's healthcare governance
-- [A Practitioner's Account of the Evolution of Taiwan's Two Regenerative Medicine Acts](/en/society/taiwan-regenerative-medicine-laws) — Beyond the boundary of NHI benefits, the two regenerative medicine acts passed in 2024 form another governance pathway outside NHI SOP
-- [Taiwan's Animal Drug Controversies](/en/society/taiwan-animal-drug-controversy) — NHI covers humans, not animals; disputes over pet medicines provide a comparison case for the NHI system
-- [Taiwan's Disaster Medicine System](/en/technology/taiwan-disaster-medicine-system) — NHI supports everyday healthcare, while the disaster medicine system supports extraordinary periods; the two systems together structure the normal and emergency faces of Taiwan's public medical governance
+- [Medical Care Act](/en/society/medical-care-act) — The NHI Act governs "benefits," while the Medical Care Act governs "institutions"; these two laws constitute the dual tracks of Taiwan's medical governance: the benefit side and the institutional side.
+- [Evolution of Taiwan's Regenerative Medicine Laws: A Professional's Confession](/en/society/taiwan-regenerative-medicine-laws) — Beyond the boundaries of NHI benefits, the two regenerative medicine laws passed in 2024, representing another governance track outside of NHI SOPs.
+- [Controversy over Veterinary Drugs in Taiwan](/en/society/taiwan-animal-drug-controversy) — NHI covers humans, not animals; the controversy over pet medication serves as a control group for the NHI system.
+- [Taiwan's Disaster Medicine System](/en/technology/taiwan-disaster-medicine-system) — NHI supports routine medical care, while the disaster medicine system supports extraordinary periods; these two systems together construct the normal and emergency aspects of Taiwan's public health governance.
+- [COVID-19 and Vaccines in Taiwan](/society/台灣新冠疫情與疫苗) — That same health insurance card was used for the real-name mask distribution system in 2020, set up within two weeks; the same underlying data infrastructure also enabled epidemic investigation and vaccine appointments to function.
 
 ---
 

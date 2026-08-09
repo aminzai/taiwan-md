@@ -1,7 +1,8 @@
 ---
-title: "Migrant Workers in Taiwan: The 870,000-Person 'Living Room' and a Cross-Ocean Struggle for Survival"
-description: "As of March 2026, Taiwan's migrant worker population has reached 873,000 — approaching one million when undocumented workers are included, representing over 5% of Taiwan's permanent resident population. This article analyzes the labor characteristics of workers from Indonesia, Vietnam, the Philippines, and Thailand; examines the Migrant Workers' Grand March demand to 'abolish the work tenure cap'; and presents a balanced account of the Indian migrant worker introduction plan of 2026 — including public anxiety, opposition party oversight, and the government's 'conditional' stance on recruitment."
-category: Society
+title: 'International Migrant Workers: The "Great Living Room" of 870,000 People and the Cross-Ocean Struggle for Survival'
+description: 'As of March 2026, migrant workers in Taiwan have reached 873,000; including those who have gone missing, the total approaches one million, accounting for over 5% of Taiwan''s resident population. This article provides an in-depth analysis of the labor characteristics of Indonesia, Vietnam, the Philippines, and Thailand, explores the demands of the Migrant Workers'' Grand March for "abolishing the work-year limit," and balances the public anxiety, opposition party oversight, and the government''s "conditional" stance behind the 2026 Indian migrant worker introduction plan.'
+date: 2026-04-28
+category: 'Society'
 tags:
   [
     'migrant workers',
@@ -9,125 +10,132 @@ tags:
     'Taipei Main Station',
     'labor policy',
     'social issues',
-    'Migrant Workers Grand March',
-    'Hong Shen-han',
+    "Migrant Workers' Grand March",
+    'Hung Shen-han',
   ]
+subcategory: '人權與平等'
 author: 'idlccp1984'
-date: 2026-04-28
-readingTime: 30
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-translatedFrom: Society/移工.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:56c198b69b8ecacd'
-sourceBodyHash: 'sha256:223753ff8fc1f5ae'
-translatedAt: '2026-04-30T22:50:13+08:00'
-featured: false
+readingTime: 30
+translatedFrom: 'Society/移工.md'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:097cf0d80bc1fd84'
+sourceBodyHash: 'sha256:518e84b411e7ba80'
+translatedAt: '2026-08-09T08:01:31+08:00'
 ---
 
-> **30-second overview:** In 2026's Taiwan, one in every 26 people is an international migrant worker. The total has climbed to 873,000; if the estimated 94,000 undocumented workers are included, this group now makes up more than 5% of Taiwan's permanent resident population. From live-streaming culture in Taipei Main Station's main hall, to the Migrant Workers' Grand March's insistence on "abolishing the work tenure cap," to the "anti-Indian migrant worker" petition that crossed 40,000 signatures in April 2026 — Taiwan is at a crossroads between acute labor shortage and anxiety about social cohesion. This is not merely labor policy; it is a collective trial in which Taiwan defines who counts as "us."
+> **30-Second Overview:** In 2026, Taiwan, one international migrant worker exists for every 26 people. The total number has risen to 873,000; including approximately 94,000 missing migrant workers, this group of foreigners now accounts for more than 5% of Taiwan's resident population. From the livestreaming culture in the lobby of Taipei Main Station to the insistence on "abolishing the work-year limit" during the Migrant Workers' Grand March, and the wave of "opposition to Indian migrant workers" where petition signatures exceeded 40,000 in April 2026, Taiwan stands at a crossroads of extreme labor shortages and social integration anxiety. This is not merely a labor policy issue, but a collective trial of how Taiwan defines "us."
 
-In 1989, Taiwan first authorized the import of migrant workers to support major construction projects[^1]. Thirty-seven years later, these people's role has shifted from "supplementary labor" to "pillar of social structure." According to the Ministry of Labor's latest statistics as of the end of March 2026, legal migrant workers in Taiwan number **873,347**, a substantial increase from two years ago[^2]. Adding non-citizen permanent residents, the total foreign population in Taiwan has exceeded 1.22 million, accounting for approximately 5.2%[^3].
+In 1989, Taiwan first approved the introduction of migrant workers to address major construction projects [^1]. Thirty-seven years later, the role of this group has shifted from "supplementary labor" to "pillar of social structure." According to the latest statistics from the Ministry of Labor as of late March 2026, the number of legal migrant workers in Taiwan has reached **873,347**, a significant increase from two years ago [^2]. Including non-citizen permanent residents, the foreign population in Taiwan has exceeded 1.22 million, accounting for approximately 5.2% [^3].
 
-### The Reality Behind the Numbers: Structural Distribution of 870,000 People
+### The Reality in Data: Structural Distribution of 870,000 People
 
-Of these 873,000 migrant workers, effective employment permits number about 774,000. **Industrial workers** account for approximately 546,000 (62.5%), concentrated primarily in metal products manufacturing (108,000), electronic component manufacturing (84,000), and food processing (43,000); **social welfare workers** reach 228,000 (37.5%), serving as the sole pillar of long-term care for countless families[^4].
+Of these 873,000 migrant workers, approximately 774,000 have valid employment permits. Among them, **industrial migrant workers** number about 546,000 (62.5%), primarily distributed in the metal products industry (108,000), electronic components industry (84,000), and food manufacturing industry (43,000); **social welfare migrant workers** number 228,000 (37.5%), serving as the sole pillar for countless families' long-term care needs [^4].
 
-Yet behind the numbers lies a profound contradiction. A late-2025 survey showed Taiwan's industrial and service sectors had approximately 263,000 vacancies, yet at the same time nearly 400,000 Taiwanese workers were unemployed[^5]. This has fueled a long-running debate over "vacancy-unemployment mismatch": unemployed Taiwanese workers are often unfit to fill positions in "3K" industries (kitsui — hard, kitanai — dirty, kiken — dangerous) due to skill gaps, age, or geographic mismatch, leaving migrant workers as the only source to fill these low-wage, high-labor gaps.
+However, deep contradictions lie behind the data. A late 2025 survey showed that Taiwan's industrial and service sector job vacancies numbered approximately 263,000, yet at the same time, nearly 400,000 local workers were unemployed [^5]. This has sparked a long-standing debate on "job-unemployment mismatch": unemployed local workers often lack the skills, age appropriateness, or geographic flexibility to fill vacancies in the 3K (Kulao, Zanglao, Xianlao — Hard, Dirty, Dangerous) industries, while migrant workers have become the only source filling these low-wage, high-labor gaps.
 
-### Taipei Main Station's Main Hall: From "No-Sitting Order" to Live-Streaming Culture
+### Taipei Main Station Lobby: From "Ban on Sitting" to Livestreaming Culture
 
-Every Sunday, the gathering on the black-and-white checkerboard floor of Taipei Main Station's main hall is Taiwan's most visible portrait of migrants far from home. This tradition was the subject of fierce protest when a "no-sitting order" was imposed during the 2020 pandemic, and subsequently evolved into "conditional permission" following a debate about public space rights and migrant workers' right to spend their days off as they choose[^6].
+Every Sunday, the gathering on the black-and-white checkered floor of Taipei Main Station (North Station) lobby is Taiwan's most conspicuous foreign landscape. This tradition sparked fierce protests during the 2020 pandemic due to the "Ban on Sitting" order, and subsequently evolved into the current "conditional opening" following debates on public space rights and migrant workers' leave rights [^6].
 
-For migrant workers, this is not merely a transit hub — it is a **"live-streaming room."** In the main hall of Taipei Main Station, you will find migrant workers live-streaming virtually everywhere, broadcasting content ranging from hometown food to laughter shared with friends[^7].
+For migrant workers, this place is not just a transportation hub, but a **"livestream room."** In the North Station lobby, migrant workers can be seen almost anywhere livestreaming on their phones, with content ranging from hometown food to laughter with friends [^7].
 
-- **Psychological support:** Live-streaming is the umbilical cord linking them across oceans to their families back home.
-- **Reclaiming subjectivity:** In front of the camera, they are no longer labor called upon by employers — they are people with a life of their own.
-- **Negative controversies:** The accompanying noise, space occupation, and cleaning costs nonetheless generate polarized reactions from local residents and online commentators, reflecting the difficulties of governing public space.
+- **Psychological Support**: Livestreaming serves as the umbilical cord connecting them across the ocean to their hometowns.
+- **Reclaiming Subjectivity**: In front of the camera, they are no longer labor power called upon by employers, but subjects with a sense of life.
+- **Negative Controversies**: However, the accompanying noise, space occupation, and cleaning costs continue to trigger polarized reactions from local public opinion and netizens, reflecting the dilemmas of public space governance.
 
-📝 Curator's Note: The glow of the live-streaming phone stand is the only spotlight they can control for themselves in a foreign land.
+📝 Curator's Note: The bright light of the livestream phone stand is the only spotlight they can control themselves in a foreign land.
 
-### The Four Source Countries: Four Faces Supporting Taiwan
+### Four Source Countries: Four Faces Supporting Taiwan
 
-Before the formal addition of Indian workers, Taiwan's migrant worker landscape was shaped by four countries — Indonesia, Vietnam, the Philippines, and Thailand — each with distinct labor profiles and rates of going undocumented[^8]:
+Before the formal addition of Indian migrant workers, Taiwan's migrant worker map was constituted by Indonesia, Vietnam, the Philippines, and Thailand, with nationalities and missing rates presenting vastly different labor landscapes [^8]:
 
-#### Indonesia (329,000): The Long-Term Care Pillar and the "Zero Fees" Controversy
+#### Indonesia (329,000): Long-term Care Pillar and the "Zero Fee" Controversy
 
-Indonesia is Taiwan's largest source country for migrant workers; about 75% are employed in social welfare work. They are the "invisible family members" in countless Taiwanese households, yet also at the center of a diplomatic tug-of-war. In recent years, the Indonesian government has pushed a "zero fees" policy requiring Taiwanese employers to bear the cost of bringing workers over, sparking strong resistance among employers. As Indonesia's per-capita GDP continues to rise, whether Indonesian workers' willingness to come to Taiwan will decline has become a hidden risk for Taiwan's long-term care system.
+Indonesia is Taiwan's largest source country for migrant workers, with approximately 75% engaged in social welfare work. They are the "invisible family members" of countless Taiwanese families, yet they are also at the center of diplomatic tug-of-wars. In recent years, the Indonesian government has pushed a "Zero Fee" policy, requiring employers to bear the costs of bringing migrant workers to Taiwan, triggering strong backlash from Taiwanese employers. As Indonesia's per capita GDP continues to rise, whether the willingness of Indonesian migrant workers to come to Taiwan will decrease has become a hidden concern for Taiwan's long-term care system.
 
-#### Vietnam (294,000): The Manufacturing Mainstay and Highest Undocumented Risk
+#### Vietnam (294,000): Mainstay of Manufacturing and High Missing Risk
 
-Vietnamese migrant workers are the absolute backbone of traditional manufacturing and the fishing industry. However, Vietnamese workers also have the highest rate of going undocumented — mainly because the heavy brokerage fees they pay before arriving in Taiwan leave them deeply in debt, making it more likely they will "run" into the black market in search of higher income when facing a difficult environment.
+Vietnamese migrant workers are the absolute mainstay of traditional manufacturing and fisheries. However, Vietnamese migrant workers also have the highest proportion of missing persons, primarily due to the immense debt pressure from agency fees before coming to Taiwan, leading them to choose "running away" into the black market for higher income when facing harsh environments.
 
-#### Philippines (178,000): Electronics Industry and English-Language Advantage
+#### Philippines (178,000): Electronics Industry and English Advantage
 
-Benefiting from their relatively higher English proficiency, Filipino migrant workers are heavily concentrated in the high-tech electronic component sector. In institutional care facilities and BPO (business process outsourcing) industries, Filipino workers are sought after for their communication advantages.
+Benefiting from a higher prevalence of English, Filipino migrant workers are mostly distributed in the high-tech electronic components industry. In institutional nursing and BPO (Business Process Outsourcing) industries, Filipino migrant workers are also highly favored for their communication advantages.
 
-#### Thailand (71,000): The Builders Behind the Skyline
+#### Thailand (71,000): The Pushers Behind the Construction Skyline
 
-From the national highway construction of the 1990s to the current construction of TSMC and other high-tech facilities, Thai migrant workers have consistently been the mainstay of the construction sector. However, as Thailand's economy develops, the number of Thai workers has declined year by year — reflecting the challenges Taiwan faces in the competitive international labor market.
+From the national highway construction in the 1990s to the construction of high-tech factories for companies like TSMC today, Thai migrant workers have always been the mainstay of the construction industry. However, with Thailand's economic development, the number of Thai migrant workers has declined year by year, reflecting challenges in Taiwan's competitiveness in the international labor market.
 
-### The Migrant Workers' Grand March: The Cry to Abolish the "Work Tenure Cap"
+### Migrant Workers' Grand March: The Cry to Abolish the "Work-Year Limit"
 
-The biennial "Migrant Workers' Grand March" returned in December 2025. Beyond the perennial demand to "freely transfer employers," the central focus of this edition was the demand to **"abolish the blue-collar migrant worker work tenure cap (12–14 years)"**[^9].
+The biennial "Migrant Workers' Grand March" made its appearance again in December 2025. In addition to the long-standing demand for "free employer switching," the core focus of this session was **"abolishing the work-year limit (12-14 years) for blue-collar migrant workers"** [^9].
 
-Although the government has promoted a "Mid-Level Technical Manpower Retention Scheme" (with over 62,000 approved as of early 2026), designed to allow experienced workers to remain in Taiwan, the scheme's application rights rest entirely with employers, and the wage threshold was further raised in 2026 — leaving many experienced workers still facing mandatory repatriation upon reaching their tenure limit[^10].
+Although the government promoted the "Intermediate Technical Human Resources Retention Plan" (approved for over 62,000 people as of early 2026), aiming to allow senior migrant workers to stay and work in Taiwan, the application power for this system lies entirely with employers, and the salary threshold was further raised in 2026, leading many experienced migrant workers to still face the dilemma of being repatriated after reaching the limit [^10].
 
-### Undocumented Workers: System Failure at 94,000
+### Missing Migrant Workers: Institutional Failure Breaking 94,000
 
-As of early 2026, the number of undocumented migrant workers in Taiwan has reached **94,000**[^11]. The primary cause of undocumented status is not "a natural inclination to run," but a set of systemic difficulties:
+As of early 2026, the number of missing migrant workers in Taiwan has reached **94,000** [^11]. The main reasons for going missing are not "innate love for running away," but systemic dilemmas:
 
-- **High brokerage fees:** Workers arrive already deeply in debt; going undocumented becomes the only way to pay it off[^12].
-- **Forced labor and wage theft:** The 2025 U.S. Trafficking in Persons Report notes that cases of employers illegally withholding migrant workers' wages still exist in Taiwan[^13].
-- **Improving trend:** Although cumulative numbers remain high, newly undocumented cases in 2025 have plateaued, suggesting that enforcement and prevention measures are gradually taking effect.
+- **High Agency Fees**: Migrant workers arrive in debt; going missing becomes the only way to repay debts [^12].
+- **Forced Labor and Deductions**: The 2025 U.S. Trafficking in Persons Report indicates that Taiwan still has cases of employers illegally withholding migrant workers' wages [^13].
+- **Improvement Trends**: Although the cumulative number remains high, the number of new missing persons in 2025 has slowed, showing that investigation and prevention measures are gradually taking effect.
 
-### The Indian Migrant Worker Issue: The 2026 "Conditional" Introduction
+### The Indian Migrant Worker Issue: "Conditional" Introduction in 2026
 
-After Taiwan and India signed an MOU in 2024, the controversy reached a new peak in April 2026. Facing a petition that had crossed **40,000 signatures**, Minister of Labor **Hong Shen-han** proposed two preconditions at the Legislative Yuan[^14]:
+After the ROC-India MOU was signed in 2024, the controversy reached a new peak in April 2026. Facing pressure from petitions exceeding **40,000** signatures, Minister of Labor **Hung Shen-han** proposed **"two prerequisites"** for the introduction in the Legislative Yuan [^14]:
 
-1. **There must be genuine demand from the business side.**
-2. **India's implementation plan must meet our requirements and oversight standards.**
+1. **Enterprises must have a genuine need.**
+2. **India's execution plan must meet our requirements and gatekeeping standards.**
 
-Hong emphasized: "If these two principles are not met, there is no question of introduction — and no timetable." This cautious approach responds to strong oversight from the opposition party (KMT caucus), which argues that "the existing system of 90,000 undocumented workers must be addressed before any new source countries are added"[^15].
+Hung Shen-han emphasized: "If these two principles are not met, there is no issue of introduction, nor is there a timeline." This cautious attitude is a response to the strong oversight by the opposition parties (Kuomintang caucus) — the opposition argues that "before the current system of 90,000 missing persons is improved, we oppose adding new source countries" [^15].
 
-📝 Curator's Note: The policy pendulum is seeking the most difficult balance between "urgency of labor shortage" and "social cohesion."
+📝 Curator's Note: The pendulum of policy swings between the "urgency of labor shortage" and "social cohesion," seeking the most difficult balance point.
 
-### Conclusion: Balancing Labor Shortage and Social Integration
+### Conclusion: Balancing Between Labor Shortage and Integration
 
-In 2026, Taiwan faces the dual pressures of a declining birth rate and a labor force cliff. Introducing Indian migrant workers and diversifying source countries is a necessary move to spread risk. However, without resolving high brokerage fees, the undocumented shadow population, and society's latent racial bias, simply increasing "numbers" will only deepen existing contradictions.
+In 2026, Taiwan faces the dual pressure of low birth rates and a broken labor force structure. Introducing Indian migrant workers and diversifying source countries is a necessary move to disperse risk. However, without resolving high agency fees, the black number of missing persons, and society's implicit racial biases, simply increasing "numbers" will only deepen contradictions.
 
-How can Taiwan, while pursuing economic development, genuinely regard migrant workers as "future compatriots" rather than purely as "supplementary labor"? This is not just a government homework assignment — it is a collective challenge for all 23 million people of Taiwan.
+How can Taiwan, while pursuing economic development, truly view migrant workers as "future citizens" rather than purely "supplementary labor"? This is not just a government task, but a common challenge for Taiwan's 23 million people.
+
+---
+
+**Further Reading**:
+
+- [Taiwan's COVID-19 Pandemic and Vaccines](/society/台灣新冠疫情與疫苗) — The migrant worker quarantine order in Miaoli in June 2021 was an instance where this labor and living situation was pushed to the limit under the pandemic.
+- [Taiwan's Public Health and Epidemic Prevention System](/en/society/taiwan-public-health-epidemic-response) — The institutional background of integrating migrant workers into the public health and medical system.
 
 ---
 
 ### References
 
-[^1]: [Overview of Taiwan's History of Introducing Foreign Workers](https://www.mol.gov.tw/) — Ministry of Labor official website.
+[^1]: [Introduction Process of Foreign Labor in Taiwan](https://www.mol.gov.tw/) — Ministry of Labor official website. : See original link content
 
-[^2]: [End of March 2026 Migrant Worker Statistics: Surpassing 873,000](https://statfy.mol.gov.tw/index12.aspx) — Ministry of Labor Statistics Query.
+[^2]: [Migrant Worker Statistics as of Late March 2026: Breaking the 873,000 Milestone](https://statfy.mol.gov.tw/index12.aspx) — Ministry of Labor Statistics Query Network. : See original link content
 
-[^3]: [Vietnamese Workers Gone, Indian Workers Not Yet Here: Analysis of Taiwan's Migrant Worker Landscape](https://www.taisounds.com/news/content/76/253133) — Taisounds in-depth report.
+[^3]: [Vietnamese Migrants Run Away, Indians Haven't Arrived Yet: Analysis of Taiwan's Migrant Worker Map](https://www.taisounds.com/news/content/76/253133) — The Reporter Deep Dive. : See original link content
 
-[^4]: [Migrant Workers by Industry Sector: March 2026 Report](https://www.champions.com.tw/index.php/news/newsletter/2027-2026-03-03) — Champions Online.
+[^4]: [Statistics of Migrant Workers by Manufacturing Industry Sector: March 2026 Report](https://www.champions.com.tw/index.php/news/newsletter/2027-2026-03-03) — Changhong Online. : See original link content
 
-[^5]: [Does Taiwan Need Indian Migrant Workers? 263,000 Vacancies vs. 400,000 Unemployed](https://www.storm.mg/article/11122659) — Storm Media.
+[^5]: [Does Taiwan Need to Introduce Indian Migrant Workers? 260,000 Vacancies vs. 400,000 Unemployed](https://www.storm.mg/article/11122659) — The News Lens. : The News Lens Special Article
 
-[^6]: [Taipei Main Station No-Sitting Order Controversy: Retrospective and Current Status](https://www.peopo.org/news/503289) — PeoPo Citizen News.
+[^6]: [Review and Current Status of the Taipei Main Station Lobby Ban on Sitting Controversy](https://www.peopo.org/news/503289) — PeoPo Citizens' News.
 
-[^7]: [Migrant Worker Live-Streaming Culture: Reclaiming Subjectivity from Daily Life](https://www.cna.com.tw/culture/article/20230212w003) — CNA.
+[^7]: [Migrant Worker Livestreaming Culture: Reclaiming Subjectivity from Daily Life](https://www.cna.com.tw/culture/article/20230212w003) — CNA (Central News Agency). : CNA Report
 
-[^8]: [End of February 2026 Migrant Worker Nationality Distribution Statistics](https://www.threads.com/@smilehumanbeing/post/DXJdUD5ko4n/) — Migrant worker topic discussion.
+[^8]: [Statistics on Migrant Worker Nationality Distribution as of Late February 2026](https://www.threads.com/@smilehumanbeing/post/DXJdUD5ko4n/) — Migrant Worker Issues Special Discussion. : See original link content
 
-[^9]: [Migrant Workers' Grand March Returns: Demanding Abolition of Tenure Cap](https://www.peopo.org/news/831618) — PeoPo Citizen News.
+[^9]: [Migrant Workers' Grand March Appears Again: Calling to Abolish Year Limit Restrictions](https://www.peopo.org/news/831618) — PeoPo Citizens' News.
 
-[^10]: [Mid-Level Technical Manpower Retention Scheme: 2026 In-Depth Assessment](https://ss1689.com/2026-%E4%B8%AD%E9%9A%8E%E6%8A%80%E8%A1%93%E4%BA%BA%E5%8A%9B%E9%80%B2%E9%9A%8E%E7%89%88%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90%EF%BC%9A%E4%B8%80%E8%88%AC%E5%A4%96%E5%8B%9E-vs-%E4%B8%AD%E9%9A%8E%E6%8A%80/) — HR intermediary in-depth analysis.
+[^10]: [Intermediate Technical Human Resources Retention Plan: In-Depth Evaluation of 2026 Effectiveness](https://ss1689.com/2026-%E4%B8%AD%E9%9A%8E%E6%8A%80%E8%A1%93%E4%BA%BA%E5%8A%9B%E9%80%B2%E9%9A%8E%E7%89%88%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90%EF%BC%9A%E4%B8%80%E8%88%AC%E5%A4%96%E5%8B%9E-vs-%E4%B8%AD%E9%9A%8E%E6%8A%80/) — In-depth Analysis of Human Resource Agencies. : See original link content
 
-[^11]: [Undocumented Migrant Workers Exceed 94,000: Structural Problem Representing 11% of Total](https://www.21manpower.com.tw/%E5%A4%B1%E8%81%AF%E7%A7%BB%E5%B7%A5/36977/) — 21st Century Human Resources.
+[^11]: [Missing Migrant Workers Break 94,000: A Structural Problem Accounting for 11% of Total](https://www.21manpower.com.tw/%E5%A4%B1%E8%81%AF%E7%A7%BB%E5%B7%A5/36977/) — 21st Century Human Resources.
 
-[^12]: [Debating Indian Migrant Workers: Don't Ignore the 90,000 Disappeared and the Brokerage Fee Dilemma](https://tw.news.yahoo.com/201000747.html) — Yahoo News.
+[^12]: [Debate on Indian Migrant Workers: Don't Ignore the Vanishing 90,000 and the Agency Fee Dilemma](https://tw.news.yahoo.com/201000747.html) — Yahoo News. : Yahoo News Report
 
-[^13]: [2025 U.S. Trafficking in Persons Report: Status of Migrant Worker Rights in Taiwan](https://www.ait.org.tw/zhtw/zhtw-2025-trafficking-in-persons-report-taiwan/) — American Institute in Taiwan (AIT).
+[^13]: [2025 U.S. Trafficking in Persons Report: Current Status of Migrant Worker Rights in Taiwan](https://www.ait.org.tw/zhtw/zhtw-2025-trafficking-in-persons-report-taiwan/) — American Institute in Taiwan (AIT).
 
-[^14]: [Minister Hong Shen-han: Introducing Indian Migrant Workers Requires Meeting Two Preconditions; No Timetable](https://tw.news.yahoo.com/081213432.html) — Yahoo News.
+[^14]: [Minister Hung Shen-han: Introduction of Indian Migrant Workers Requires Two Prerequisites, No Timeline](https://tw.news.yahoo.com/081213432.html) — Yahoo News. : Yahoo News Report
 
-[^15]: [Two Principles for Indian Migrant Workers Coming to Taiwan: Cautious Scrutiny, No Rush](https://www.dpp.org.tw/anti_rumor/contents/426) — Ministry of Labor and DPP official website clarification.
+[^15]: [Two Principles for Indian Migrant Workers Coming to Taiwan: Cautious Gatekeeping, No Rushing](https://www.dpp.org.tw/anti_rumor/contents/426) — Clarification from Ministry of Labor and DPP official website.
