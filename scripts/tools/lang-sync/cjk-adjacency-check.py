@@ -58,6 +58,32 @@ MASK = re.compile(r"https?://\S+|`[^`]*`")
 # 綠燈」的誘因時，它造成的損害會大於它防的問題。
 FN_LINK_LABEL = re.compile(r"^\[\^[^\]]+\]:\s*\[[^\]]*\]", re.M)
 
+# 括號內的中文原名對照是規範要求的寫法（`Tên tiếng Việt (中文原名)`），而中文
+# 原名本身可能含拉丁字——`(台灣海關報關制度與EZWAY)` 的「與EZWAY」就會觸發相鄰
+# 判定。這是誤判，而誤判在這支上的代價已經驗證過：它會逼 agent 把原名改掉來
+# 換綠燈，而原名正是讀者用來對照的錨。
+# 判準用「括號內容以漢字為主」，不是「括號內容有漢字」——後者會把
+# `(công益財團法人…)` 這種真的把首字翻掉的殘缺原名一起豁免，那是要抓的。
+PAREN = re.compile(r"[（(]([^）)]{2,80})[）)]")
+
+
+def _is_zh_gloss(inner: str) -> bool:
+    """括號內容是不是「完好的中文原名對照」。
+
+    只看漢字佔多數不夠——`(công益財團法人交流協會台北事務所)` 漢字壓倒性多數，
+    但首字的「公」被翻成 `công` 了，那是損壞的原名，正是要抓的東西。
+
+    真正的分界在拉丁字串的形態：中文原名裡合法出現的拉丁字是品牌與縮寫，
+    寫法是全大寫或含數字（`EZWAY`、`7-ELEVEN`、`AI`）；而漏譯留下的是小寫的
+    越南文單字直接黏在漢字上（`công益`、`人掏`）。所以要求括號內每一段拉丁
+    字串都不是純小寫，才算完好的原名。
+    """
+    cjk = len(re.findall(f"[{CJK}]", inner))
+    if cjk < 2:
+        return False
+    runs = re.findall(f"[{LATIN}]+", inner)
+    return all(not r.islower() for r in runs)
+
 
 def scan(path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
@@ -67,6 +93,10 @@ def scan(path: Path) -> list[str]:
     # 用等長空白替換，讓前後文擷取的位置不跑掉。
     body = MASK.sub(lambda m: " " * len(m.group(0)), body)
     body = FN_LINK_LABEL.sub(lambda m: " " * len(m.group(0)), body)
+    body = PAREN.sub(
+        lambda m: " " * len(m.group(0)) if _is_zh_gloss(m.group(1)) else m.group(0),
+        body,
+    )
     return [m.group(0).replace("\n", " ") for m in CONTEXT.finditer(body)]
 
 
