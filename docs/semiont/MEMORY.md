@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-10
-last_session: '2026-08-10-053616-twmd-embeddings-nightly（12 語重建 9557 向量 0 fail，較昨夜 +502）'
+last_session: '2026-08-10-053706-twmd-routine-sync（三層對賬第十七輪，18 條全 in-sync 零漂移）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -322,3 +322,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-09 | 212609-vi-delegation-wave | 越南語委派五批 344 篇落地，vi 43.2%→81.8%；三支新儀器＋兩支既有儀器的死豁免修復 | 閘門假陽性會誘導 agent 改內容換綠燈，禁令擋不住要拆誘因；遮罩規則會破壞後續規則的錨點 | [→](memory/2026-08-09-212609-vi-delegation-wave.md) |
 | 2026-08-10 | 011125-twmd-supporters-weekly | 第三次連續 Gmail MCP 缺席，Stage 2 阻塞；checkpoint 停在 07-12，累積缺口 4 週；vc=3 升 LESSONS P0 + Defer 給觀察者拍板 | 同一件事誠實記錄三次若互不相連，效果跟記錄一次差不多，聚合本身要主動做 | [→](memory/2026-08-10-011125-twmd-supporters-weekly.md) |
 | 2026-08-10 | 053616-twmd-embeddings-nightly | 12 語重建 9557 向量 0 fail，較昨夜 +502；vi/id/pt/hi/ar/ru 六語同步跳增反映近日密集多語委派批次落地 | 索引每天重建把 staleness 上限框在一天，翻譯批次一落地隔夜索引就跟上，不需額外觸發 | [→](memory/2026-08-10-053616-twmd-embeddings-nightly.md) |
+| 2026-08-10 | 053706-twmd-routine-sync | 三層對賬第十七輪，18 條全 in-sync 零漂移，連續第三輪；無 cron/enabled 漂移訊號 | 三層一致不代表其他地方沒有待決事項，只代表這條 routine 守的縫今天沒有裂開 | [→](memory/2026-08-10-053706-twmd-routine-sync.md) |
