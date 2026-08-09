@@ -116,7 +116,57 @@ def main() -> int:
         verb = "已還原" if args.apply else "可還原（預覽，加 --apply 寫回）"
         print(f"{verb} {len(restored)} 個網址；需人看 {len(skipped)} 個")
 
-    if args.apply and restored:
+    # ── 圖說層 ──────────────────────────────────────────────────────────
+    # CC 圖的出處網址在原稿出現兩次：一次在圖片下方的斜體圖說（`Photo: 攝影者,
+    # [標題](網址) — 授權`），一次在文末的圖片來源清單。譯文常保住清單、掉了圖說
+    # 裡那條——2026-08-09 醫療法 vi 版 4 條全這樣掉，verify 的 URL multiset 因此
+    # 硬失敗，而圖片本身 7 張都在。這是授權標示的缺口，不只是連結數對不上。
+    # 對齊方式跟腳註同理：圖說跟著圖片走，第 n 張圖的圖說對第 n 張圖的圖說，
+    # 數量不同就不動。
+    # 圖說是「以底線開頭的斜體行」，行尾常跟著授權字樣（`— CC BY 4.0._`），
+    # 所以不能要求 `)` 緊貼行尾——那寫法對真實圖說一行都匹配不到。
+    #
+    # 更關鍵的是不能用「有連結的圖說」來配對：實測譯文會把整條出處連結弄不見
+    # （醫療法 vi 版 zh 7 行有連結、譯文只剩 4 行），這時兩邊清單長度不同，
+    # 位置對應就失效，而那恰好是最需要救的情況。改用圖片本身當錨——圖說跟在
+    # 圖片後面，第 n 張圖的圖說對第 n 張圖的圖說，跟連結在不在無關。
+    img_re = re.compile(r"^!\[")
+
+    def caption_lines(lines: list[str]) -> list[int]:
+        out = []
+        for i, line in enumerate(lines):
+            if not img_re.match(line.lstrip()):
+                continue
+            for j in range(i + 1, min(i + 4, len(lines))):
+                s = lines[j].strip()
+                if not s:
+                    continue
+                if s.startswith("_"):
+                    out.append(j)
+                break
+        return out
+
+    zh_lines_all = zh_text.splitlines()
+    zh_cap_idx = caption_lines(zh_lines_all)
+    tr_idx = caption_lines([l.rstrip("\n") for l in tr_lines])
+    zh_caps = [zh_lines_all[i] for i in zh_cap_idx]
+    cap_restored = 0
+    if zh_caps and len(zh_caps) == len(tr_idx):
+        for zh_line, i in zip(zh_caps, tr_idx):
+            zh_urls = footnote_urls(zh_line)
+            tr_urls = footnote_urls(tr_lines[i])
+            if zh_urls == tr_urls or len(zh_urls) != len(tr_urls):
+                continue
+            it = iter(zh_urls)
+            tr_lines[i] = URL_IN_LINK.sub(lambda m: f"]({next(it)}", tr_lines[i].rstrip("\n")) + "\n"
+            cap_restored += sum(1 for a, b in zip(tr_urls, zh_urls) if a != b)
+    elif zh_caps and len(zh_caps) != len(tr_idx):
+        skipped.append(("圖說", f"圖說行數不同 zh={len(zh_caps)} 譯文={len(tr_idx)}，位置對應不可靠"))
+
+    if cap_restored and not args.quiet:
+        print(f"  圖說層另還原 {cap_restored} 個出處網址")
+
+    if args.apply and (restored or cap_restored):
         tr_path.write_text("".join(tr_lines), encoding="utf-8")
 
     return 1 if skipped else 0
