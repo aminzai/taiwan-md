@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T15:57:28+08:00",
-    "zhCommitHead": "80f03b9b7",
+    "lastUpdated": "2026-08-09T15:58:36+08:00",
+    "zhCommitHead": "0fea4a402",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -83,8 +83,8 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 647,
-        "stale": 2,
+        "fresh": 648,
+        "stale": 1,
         "metadata_stale": 3,
         "missing": 239,
         "orphan": 0
@@ -17186,8 +17186,8 @@
           "sourceContentHash": "sha256:6c1de6e7d125ff24",
           "sourceBodyHash": "sha256:fa56609bf3ed1f63",
           "translatedAt": "2026-08-09T06:08:01.592853+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "0fea4a40",
+          "translationLastModified": "2026-08-09T15:57:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -46913,8 +46913,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "0fea4a40",
+          "translationLastModified": "2026-08-09T15:57:28+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -47009,18 +47009,16 @@
         "hi": {
           "path": "hi/Society/migrant-workers-in-taiwan.md",
           "translatedFrom": "Society/移工.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:56c198b69b8ecacd",
-          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
-          "translatedAt": "2026-07-18T19:14:57+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-08-09T15:02:44+08:00",
           "translationLastCommit": "91a1ac19",
           "translationLastModified": "2026-07-19T01:44:57+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/migrant-workers-in-taiwan.md",
@@ -125334,8 +125332,8 @@
           "sourceContentHash": "sha256:7cd741adb82e8c2f",
           "sourceBodyHash": "sha256:2e97e9085815c5e8",
           "translatedAt": "2026-08-09T15:02:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fea4a40",
+          "translationLastModified": "2026-08-09T15:57:28+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
