@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T15:58:36+08:00",
-    "zhCommitHead": "0fea4a402",
+    "lastUpdated": "2026-08-09T16:04:23+08:00",
+    "zhCommitHead": "54b3d411d",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 648,
-        "stale": 1,
+        "fresh": 649,
+        "stale": 0,
         "metadata_stale": 3,
         "missing": 239,
         "orphan": 0
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 735,
+        "fresh": 736,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 763,
+        "fresh": 764,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 124,
+        "missing": 123,
         "orphan": 0
       }
     },
@@ -17277,8 +17277,8 @@
           "sourceContentHash": "sha256:28bc309b5fca7e7a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T06:16:59.874834+00:00",
-          "translationLastCommit": "bbbc2b9b",
-          "translationLastModified": "2026-07-26T10:51:04+08:00",
+          "translationLastCommit": "54b3d411",
+          "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -25533,8 +25533,8 @@
           "sourceContentHash": "sha256:9e4daeb9f4939ca2",
           "sourceBodyHash": "sha256:80c79b7fd0c73431",
           "translatedAt": "2026-08-09T15:02:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "54b3d411",
+          "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -44160,18 +44160,16 @@
         "hi": {
           "path": "hi/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d5",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-07-28T08:53:32+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-08-09T08:02:16.021553+00:00",
           "translationLastCommit": "d22f6eea",
           "translationLastModified": "2026-07-28T10:09:39+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-public-health-epidemic-response.md",
@@ -47013,8 +47011,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-08-09T15:02:44+08:00",
-          "translationLastCommit": "91a1ac19",
-          "translationLastModified": "2026-07-19T01:44:57+08:00",
+          "translationLastCommit": "54b3d411",
+          "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -48974,8 +48972,8 @@
           "sourceContentHash": "sha256:8fda1cde0f787fad",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T05:44:46.814289+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "54b3d411",
+          "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -100572,10 +100570,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/chishang-bento.md",
+          "translatedFrom": "Food/池上便當.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:7c102d9a72b4f209",
+          "sourceBodyHash": "sha256:5f29317bb49115c6",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/chishang-bento.md",
+          "translatedFrom": "Food/池上便當.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:7c102d9a72b4f209",
+          "sourceBodyHash": "sha256:5f29317bb49115c6",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106072,8 +106092,8 @@
           "sourceContentHash": "sha256:3c85e554c80495b9",
           "sourceBodyHash": "sha256:39ddb75027efa4b4",
           "translatedAt": "2026-08-09T08:01:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "54b3d411",
+          "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
