@@ -51,8 +51,13 @@ from lib.article_health.config import Config, ProfileConfig  # noqa: E402
 def _get_staged_md() -> list[Path]:
     """staged knowledge/*.md (zh-TW only — translations have own conventions)."""
     try:
+        # core.quotePath=false 必帶：git 預設會把含非 ASCII 的路徑整條加引號並轉義成
+        # "knowledge/Food/\351\254\215..."，下面的 startswith("knowledge/") 就永遠 False，
+        # 於是全站 CJK 檔名的文章在 pre-commit 靜默跳過（印的是「no zh-TW ... skipping」，
+        # 跟「真的沒 staged」逐字相同）。2026-08-08 已修 .husky 殼層，這裡是同型第二處。
         out = subprocess.check_output(
-            ["git", "diff", "--cached", "--name-only", "--diff-filter=ACM"],
+            ["git", "-c", "core.quotePath=false",
+             "diff", "--cached", "--name-only", "--diff-filter=ACM"],
             text=True,
         )
     except subprocess.CalledProcessError:

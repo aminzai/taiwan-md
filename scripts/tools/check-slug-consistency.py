@@ -58,8 +58,11 @@ def build_en_index():
 def main():
     staged = "--staged" in sys.argv
     if staged:
+        # core.quotePath=false 必帶：CJK 檔名不加這個會被 git 轉義成帶引號的字串，
+        # 下面的 startswith("knowledge/") 全 False → 靜默零掃描（同 article-health）
         out = subprocess.run(
-            ["git", "diff", "--cached", "--name-only", "--diff-filter=ACR"],
+            ["git", "-c", "core.quotePath=false",
+             "diff", "--cached", "--name-only", "--diff-filter=ACR"],
             cwd=ROOT, capture_output=True, text=True).stdout
         files = [ROOT / p for p in out.splitlines()
                  if p.startswith("knowledge/")
