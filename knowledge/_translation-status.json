@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T03:16:43+08:00",
-    "zhCommitHead": "336996601",
+    "lastUpdated": "2026-08-10T04:35:27+08:00",
+    "zhCommitHead": "ec6767217",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -27,10 +27,10 @@
       },
       "ja": {
         "total_zh": 891,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 16,
         "metadata_stale": 8,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "ko": {
@@ -51,9 +51,9 @@
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 850,
+        "fresh": 851,
         "stale": 20,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 8,
         "orphan": 0
       },
@@ -68,9 +68,9 @@
       "id": {
         "total_zh": 891,
         "fresh": 561,
-        "stale": 6,
+        "stale": 7,
         "metadata_stale": 4,
-        "missing": 320,
+        "missing": 319,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 773,
+        "fresh": 774,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 114,
+        "missing": 113,
         "orphan": 0
       }
     },
@@ -50253,7 +50253,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-regenerative-medicine-laws.md",
+          "translatedFrom": "Society/台灣再生醫療雙法沿革從業人員告白.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:067149f437c5a573",
+          "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98558,7 +98569,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T16:51:10.252679+00:00",
+          "translatedAt": "2026-08-09T20:34:09.503480+00:00",
           "translationLastCommit": "7d418dbc",
           "translationLastModified": "2026-08-09T18:44:47+08:00",
           "inferred": false,
@@ -98573,8 +98584,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T18:55:24.156959+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ad0de78",
+          "translationLastModified": "2026-08-10T03:16:43+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -98615,7 +98626,18 @@
           "reason": "hash-match-sha-lost"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/international-brand-localization-taiwan.md",
+          "translatedFrom": "Food/國際品牌在地化.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:9939199675a5453a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T19:31:16.856766+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "pt": {
           "status": "missing"
@@ -101166,7 +101188,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/formosa-chang.md",
+          "translatedFrom": "Food/鬍鬚張.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:e1b77b1bcfa11b48",
+          "sourceBodyHash": "sha256:8824b980fb94339c",
+          "translatedAt": "2026-08-09T15:02:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/formosa-chang.md",
@@ -106709,18 +106742,16 @@
         "fr": {
           "path": "fr/History/yingge-ceramics-old-street.md",
           "translatedFrom": "History/鶯歌陶瓷老街.md",
-          "sourceCommitSha": "1a3708b1e",
-          "sourceContentHash": "sha256:6023f24cf4042189",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
-          "translatedAt": "2026-07-06T00:39:49+08:00",
+          "translatedAt": "2026-08-10T01:58:13+08:00",
           "translationLastCommit": "b4fa7ea4",
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "vi": {
           "path": "vi/History/yingge-ceramics-old-street.md",
@@ -120580,8 +120611,8 @@
           "sourceContentHash": "sha256:c4a4c2010dd95827",
           "sourceBodyHash": "sha256:605dca39a0b5b5c5",
           "translatedAt": "2026-08-09T15:02:41+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "8ad0de78",
+          "translationLastModified": "2026-08-10T03:16:43+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
