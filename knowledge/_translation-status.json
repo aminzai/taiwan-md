@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T15:50:33+08:00",
-    "zhCommitHead": "500805a0e",
+    "lastUpdated": "2026-08-09T15:57:28+08:00",
+    "zhCommitHead": "80f03b9b7",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -27,10 +27,10 @@
       },
       "ja": {
         "total_zh": 891,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 17,
         "metadata_stale": 8,
-        "missing": 22,
+        "missing": 21,
         "orphan": 0
       },
       "ko": {
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 555,
+        "fresh": 556,
         "stale": 5,
         "metadata_stale": 4,
-        "missing": 327,
+        "missing": 326,
         "orphan": 0
       },
       "pt": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 734,
+        "fresh": 735,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 153,
+        "missing": 152,
         "orphan": 0
       },
       "ru": {
@@ -14137,7 +14137,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/books-com-tw.md",
+          "translatedFrom": "Economy/博客來.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:5bead514abf0635b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T07:44:42.876068+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -14565,7 +14576,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/goat-milk-delivery.md",
+          "translatedFrom": "Economy/羊奶.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:d3d8b87838fde0c1",
+          "sourceBodyHash": "sha256:3f673eef58308631",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/goat-milk-delivery.md",
@@ -46977,8 +46999,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-08-09T08:01:32+08:00",
-          "translationLastCommit": "840b87e9",
-          "translationLastModified": "2026-07-18T23:53:51+08:00",
+          "translationLastCommit": "80f03b9b",
+          "translationLastModified": "2026-08-09T15:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -100541,8 +100563,8 @@
           "sourceContentHash": "sha256:7c102d9a72b4f209",
           "sourceBodyHash": "sha256:5f29317bb49115c6",
           "translatedAt": "2026-08-09T15:02:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80f03b9b",
+          "translationLastModified": "2026-08-09T15:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -113330,8 +113352,8 @@
           "sourceContentHash": "sha256:a919906028755e92",
           "sourceBodyHash": "sha256:a29e7e59d8da2652",
           "translatedAt": "2026-08-09T15:02:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80f03b9b",
+          "translationLastModified": "2026-08-09T15:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -125306,7 +125328,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/mid-autumn-festival.md",
+          "translatedFrom": "Culture/中秋.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:7cd741adb82e8c2f",
+          "sourceBodyHash": "sha256:2e97e9085815c5e8",
+          "translatedAt": "2026-08-09T15:02:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/mid-autumn-festival.md",
