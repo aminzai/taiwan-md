@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T13:35:15+08:00",
-    "zhCommitHead": "912a080b6",
+    "lastUpdated": "2026-08-09T14:18:35+08:00",
+    "zhCommitHead": "3632cb3f3",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 891,
-        "fresh": 842,
-        "stale": 19,
+        "fresh": 844,
+        "stale": 17,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
@@ -67,40 +67,40 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 553,
-        "stale": 6,
+        "fresh": 554,
+        "stale": 5,
         "metadata_stale": 4,
         "missing": 328,
         "orphan": 0
       },
       "pt": {
         "total_zh": 891,
-        "fresh": 821,
-        "stale": 10,
+        "fresh": 822,
+        "stale": 9,
         "metadata_stale": 3,
         "missing": 57,
         "orphan": 0
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 643,
+        "fresh": 645,
         "stale": 3,
         "metadata_stale": 3,
-        "missing": 242,
+        "missing": 240,
         "orphan": 0
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 731,
+        "fresh": 732,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 156,
+        "missing": 155,
         "orphan": 0
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 758,
-        "stale": 4,
+        "fresh": 759,
+        "stale": 3,
         "metadata_stale": 3,
         "missing": 126,
         "orphan": 0
@@ -17061,16 +17061,16 @@
         "ja": {
           "path": "ja/Technology/taiwan-disaster-medicine-system.md",
           "translatedFrom": "Technology/台灣災難醫療體系.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:bdad2fe4c19ade1d",
-          "sourceBodyHash": "sha256:65d8bf2fc8ebb567",
-          "translatedAt": "2026-05-16T22:19:52+00:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:6c1de6e7d125ff24",
+          "sourceBodyHash": "sha256:fa56609bf3ed1f63",
+          "translatedAt": "2026-08-09T06:08:01.592853+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-disaster-medicine-system.md",
@@ -33123,8 +33123,8 @@
           "sourceContentHash": "sha256:879eb268c7fce9b0",
           "sourceBodyHash": "sha256:a5c8010bb09051a0",
           "translatedAt": "2026-08-09T01:10:43.132581+00:00",
-          "translationLastCommit": "66e8626f",
-          "translationLastModified": "2026-08-09T07:49:34+08:00",
+          "translationLastCommit": "4c1f96e8",
+          "translationLastModified": "2026-08-09T13:35:15+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -44004,18 +44004,16 @@
         "id": {
           "path": "id/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d5",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-07-28T06:15:57+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-08-09T06:08:43.416064+00:00",
           "translationLastCommit": "cf8b6758",
           "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-public-health-epidemic-response.md",
@@ -46776,18 +46774,16 @@
         "ja": {
           "path": "ja/Society/migrant-workers-in-taiwan.md",
           "translatedFrom": "Society/移工.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:56c198b69b8ecacd",
-          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
-          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-08-09T08:01:31+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/migrant-workers-in-taiwan.md",
@@ -46864,18 +46860,16 @@
         "pt": {
           "path": "pt/Society/migrant-workers-in-taiwan.md",
           "translatedFrom": "Society/移工.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:56c198b69b8ecacd",
-          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-08-09T08:01:32+08:00",
           "translationLastCommit": "840b87e9",
           "translationLastModified": "2026-07-18T23:53:51+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/migrant-workers-in-taiwan.md",
@@ -46910,18 +46904,16 @@
         "ru": {
           "path": "ru/Society/migrant-workers-in-taiwan.md",
           "translatedFrom": "Society/移工.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:56c198b69b8ecacd",
-          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
-          "translatedAt": "2026-07-25T17:25:47+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-08-09T08:01:36+08:00",
           "translationLastCommit": "ae2f8833",
           "translationLastModified": "2026-07-25T19:11:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -48843,7 +48835,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/2026.md",
+          "translatedFrom": "Society/2026年分科爭議.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:8fda1cde0f787fad",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T05:44:46.814289+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/2026.md",
@@ -84260,7 +84263,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/potter-king-youtuber.md",
+          "translatedFrom": "People/波特王.md",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-08-09T08:01:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/potter-king-youtuber.md",
@@ -105754,7 +105768,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/ponlai-rice.md",
+          "translatedFrom": "History/蓬萊米.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:3c85e554c80495b9",
+          "sourceBodyHash": "sha256:39ddb75027efa4b4",
+          "translatedAt": "2026-08-09T08:01:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/ponlai-rice.md",
@@ -121645,8 +121670,8 @@
           "sourceContentHash": "sha256:3df55177e97b9f1c",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T04:42:32.262615+00:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "4c1f96e8",
+          "translationLastModified": "2026-08-09T13:35:15+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
