@@ -280,7 +280,20 @@ def main() -> int:
                 len(got) == len(want)
                 and 1 <= sum(1 for a, b in zip(got, want) if a != b) <= 3
             )
-            if same_after_decode or near_miss:
+            # 第三種形狀：percent-encoding 序列被截掉幾個位元組。
+            # 實測澎湖 vi 版：`%E6%99%AF%E8%A7%80`（景觀）寫成 `%E6%99%80`，
+            # 長度差 18，上面兩條都認不出來，而連結是死的。
+            # 判準要求前 60 字元完全相同——同一台主機、同一條路徑走到一半才分岔，
+            # 那不可能是「另一個來源」，只可能是同一條被寫壞。60 這個長度已經
+            # 涵蓋 `https://upload.wikimedia.org/wikipedia/commons/thumb/x/xx/`
+            # 這種共同前綴，所以真正比對到的是檔名本身。
+            prefix_match = (
+                len(want) > 60
+                and len(got) > 60
+                and got[:60] == want[:60]
+                and abs(len(got) - len(want)) <= 40
+            )
+            if same_after_decode or near_miss or prefix_match:
                 text = text.replace(got, want)
                 mangled += 1
                 break
