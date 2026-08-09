@@ -72,6 +72,33 @@
     "fresh_gain": 73,
     "coverage": "43.2% → 50.8%"
   },
+  "wave2": {
+    "dispatched": 100,
+    "landed": 100,
+    "died_output_limit": 0,
+    "note": "第一波 8 隻死於 32K 單次輸出上限；簡報改成『第一步 Write、之後一律 cat >> 追加、腳註一次最多 15 條』之後歸零。長文不需要換模型，只需要不要把整份原稿與整份譯文同時抱在 context 裡。",
+    "new_failure_shapes": [
+      "整段區塊級 HTML（嵌入影片 div+iframe）被當成『不是內容』跳過——只有 URL 多重集少幾條時才會露出，而且發現後沒有修的辦法（重派一隻去翻 85KB 長文只為補 5 段不用翻的 HTML）。造出 restore-html-blocks.py。",
+      "腳註解釋文字中間的 angle autolink（`（<https://…>）`）對既有兩層還原邏輯完全隱形，一篇掉 10 條。restore-footnote-urls 補第三層。",
+      "捏造來源：中文腳註是純敘述、譯文生出一條立法院連結配翻譯腔標題。這次靠 URL 多重集多一條被抓到，但一多一少會互相抵銷，所以改成直接判準。",
+      "passthrough 欄位被翻譯（imageCredit 的攝影者本名 海老原耕平 → Kouhei Ebihara）。",
+      "作品名半譯（人名翻了、作品名留中文）：`\"Chu Huệ精選\"` 一篇 17 次，且書名號沒配對。"
+    ],
+    "gate_bug_found": "cjk-adjacency-check 的 MASK 先把 `[^N]` 抹成空白，害腳註來源標題豁免的行首錨永遠對不上——含小寫英文單字的中文新聞標題（`曹興誠：recall是青紅對決`）全部變成假陽性。這道閘門的假陽性有具體代價：agent 會改標題來換綠燈。"
+  },
+  "quality_comparison_2026_08_09": {
+    "metric": "cjk-adjacency-check 命中率（漢字直接黏在拉丁字母上＝專有名詞漏譯）",
+    "delegated_claude_subagent_with_gates": "5/185 檔（2.7%）、12 處",
+    "earlier_machine_cascade": "118/432 檔（27%）、641 處",
+    "reading": "同一個語言、同一批原稿，差一個數量級。差別不在模型強弱，在『有沒有一道專門抓這個形狀的尺，而且在交件前跑』。",
+    "legacy_backlog": {
+      "files": 118,
+      "instances": 641,
+      "severe_ge_10": 24,
+      "light_le_3": 76,
+      "status": "已量測未處理。118 檔超過 §自主權邊界（>50 檔），等哲宇決定要不要開一輪掃除。"
+    }
+  },
   "capacity_wall": {
     "case": "Lifestyle/台灣行道樹.md（zh 70,898 bytes、72 腳註）",
     "attempts": 3,
