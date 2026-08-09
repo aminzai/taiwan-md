@@ -58,6 +58,13 @@ MASK = re.compile(r"https?://\S+|`[^`]*`")
 # 綠燈」的誘因時，它造成的損害會大於它防的問題。
 FN_LINK_LABEL = re.compile(r"^\[\^[^\]]+\]:\s*\[[^\]]*\]", re.M)
 
+# 來源標題不一定住在 `[^N]:` 行——有些文章的參考資料是編號清單或項目清單
+# （`- [這些動畫通通都是台灣做的！ - PTS公共電視](url)`），標題一樣是逐字引用的
+# 中文原名。這是同一家族的第三次現形（前兩次：腳註定義行、括號內原名對照），
+# 所以判準一般化到「任何連結標籤」，但只在標籤以漢字為主時豁免：正文裡的越南文
+# 連結標籤混進一兩個漢字仍是漏譯，那種標籤是拉丁字為主，抓得到。
+LINK_LABEL = re.compile(r"\[([^\]\[]{1,120})\]\(")
+
 # 括號內的中文原名對照是規範要求的寫法（`Tên tiếng Việt (中文原名)`），而中文
 # 原名本身可能含拉丁字——`(台灣海關報關制度與EZWAY)` 的「與EZWAY」就會觸發相鄰
 # 判定。這是誤判，而誤判在這支上的代價已經驗證過：它會逼 agent 把原名改掉來
@@ -94,6 +101,10 @@ def scan(path: Path) -> list[str]:
     body = MASK.sub(lambda m: " " * len(m.group(0)), body)
     body = FN_LINK_LABEL.sub(lambda m: " " * len(m.group(0)), body)
     body = PAREN.sub(
+        lambda m: " " * len(m.group(0)) if _is_zh_gloss(m.group(1)) else m.group(0),
+        body,
+    )
+    body = LINK_LABEL.sub(
         lambda m: " " * len(m.group(0)) if _is_zh_gloss(m.group(1)) else m.group(0),
         body,
     )
