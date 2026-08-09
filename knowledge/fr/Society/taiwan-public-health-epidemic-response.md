@@ -2,6 +2,7 @@
 title: 'Santé publique et système de lutte contre les épidémies à Taïwan'
 description: "En 2003, la mise en quarantaine de l'hôpital Hoping a causé la mort de 30 personnes. Dix-sept ans plus tard, lorsque la COVID-19 a déferlé sur le monde, Taïwan a tenu 18 mois sans transmission communautaire grâce aux leçons douloureuses de cette catastrophe. Comment un traumatisme collectif est devenu la mémoire immunitaire d'une île."
 date: 2026-04-08
+category: 'Society'
 tags:
   [
     'santé publique',
@@ -12,17 +13,16 @@ tags:
     'CDC Taïwan',
   ]
 subcategory: 'Société'
-category: 'Society'
 author: 'Taiwan.md'
 featured: false
-readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
+readingTime: 14
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '49728f9d'
-sourceContentHash: 'sha256:84ffcc67e2e155cf'
-sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
-translatedAt: '2026-07-14T16:51:23Z'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:eca9dd4ad2636bc6'
+sourceBodyHash: 'sha256:bbdf3516f36f033d'
+translatedAt: '2026-08-09T07:24:59.703149+00:00'
 ---
 
 > **En 30 secondes :** En 2003, le SRAS a tué 73 personnes à Taïwan, et la mise en quarantaine précipitée de l'hôpital Hoping est restée comme un traumatisme collectif dans l'histoire de la santé publique du pays. Taïwan a ensuite reconstruit de fond en comble tout son système épidémiologique : le Centre de contrôle des maladies a été élevé en rang, le mécanisme du Centre de commandement central des épidémies (CECC) a été inscrit dans la loi, et les protocoles de contrôle des infections ont été entièrement revus. Lorsque la COVID-19 s'est propagée à l'échelle mondiale en 2020, Taïwan a maintenu une transmission communautaire quasi nulle pendant les 18 premiers mois — un exploit salué internationalement sous le nom de « modèle taïwanais ». En avril 2026, Taïwan a enregistré son premier cas autochtone de grippe aviaire H7N7 transmise à l'humain : le système de lutte contre les épidémies est à nouveau mis à l'épreuve.
