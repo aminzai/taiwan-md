@@ -51,7 +51,9 @@ CONTEXT = re.compile(f".{{0,24}}(?:[{LATIN}][{CJK}]|[{CJK}][{LATIN}]).{{0,24}}")
 # 的標題是影片的中文原名，讀者要拿它去找原片。既有的 cjk-leak-check 早在
 # 2026-07-27 就把這條列為「第十一家族」豁免了，這支上線時漏抄——同一份豁免
 # 清單分兩處維護，就會兩處不同步（那正是 cjk-leak-check 自己的註解寫過的病根）。
-MASK = re.compile(r"https?://\S+|`[^`]*`|<[^>]+>")
+# 腳註編號 `[^TWSE權重]`、`[^鴻源wiki]` 是識別碼不是內容——規範明寫「編號不動」，
+# 所以它們必然帶中文，而且必然緊貼越南語正文（引用點就在句子裡）。
+MASK = re.compile(r"https?://\S+|`[^`]*`|<[^>]+>|\[\^[^\]]+\]")
 
 # 腳註定義行的連結標題是**逐字引用的來源名稱**，中文來源本來就常混拉丁字母
 # （`(Yahoo奇摩新聞)`、`7-Eleven 台灣官網`），那是來源的真名不是漏譯。
@@ -96,6 +98,31 @@ def _is_zh_gloss(inner: str) -> bool:
     return all(not r.islower() for r in runs)
 
 
+def _legit_spans(text: str) -> list[tuple[int, int]]:
+    """借 cjk-leak-check 的「合法保留原文」清單，不自己再列一份。
+
+    這支上線一天之內長出六類假陽性（腳註來源標題／括號內原名對照／參考清單
+    連結標籤／HTML 屬性／腳註中文編號／書名號作品名），而其中至少三類
+    `cjk-leak-check` 早就有了——它的註解甚至寫過這個病根：「此前兩個分支各自
+    維護一套豁免，一天之內冒出七個假陽性家族，單看每次都像新的 edge case，
+    看七次才知道病在清單沒共用。」
+
+    我讀了那段註解，然後造了第三支尺、重演了同一個錯。所以這裡直接 import
+    它的清單而不是複寫：往後它加豁免，這支自動跟上。
+    """
+    try:
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location(
+            "cjkleak", Path(__file__).with_name("cjk-leak-check.py")
+        )
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod.legit_spans(text)
+    except Exception:  # noqa: BLE001 — 借不到就退回自己的遮罩，不讓檢查整支掛掉
+        return []
+
+
 def scan(path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
     # frontmatter 不掃：translatedFrom 指向中文原稿路徑是規範要求的，
@@ -103,6 +130,14 @@ def scan(path: Path) -> list[str]:
     body = text.split("---", 2)[-1] if text.startswith("---") else text
     # 用等長空白替換，讓前後文擷取的位置不跑掉。
     body = MASK.sub(lambda m: " " * len(m.group(0)), body)
+    # 借來的清單（書名號作品名、短引語、攝影者署名…）也遮掉，但**跳過括號那條**：
+    # 它遮所有短括號，而本支對括號有更銳利的判準（`_is_zh_gloss`：完好的中文原名
+    # 才豁免，首字被翻掉的殘缺原名 `(công益財團法人…)` 仍要抓）。借清單是為了不
+    # 重複發明，不是為了把自己已經磨利的地方磨鈍。
+    for s, e in _legit_spans(body):
+        if body[s] in "（(":
+            continue
+        body = body[:s] + " " * (e - s) + body[e:]
     body = FN_LINK_LABEL.sub(lambda m: " " * len(m.group(0)), body)
     body = PAREN.sub(
         lambda m: " " * len(m.group(0)) if _is_zh_gloss(m.group(1)) else m.group(0),
