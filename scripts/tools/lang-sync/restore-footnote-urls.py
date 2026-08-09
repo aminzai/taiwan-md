@@ -162,11 +162,17 @@ def main() -> int:
         return out + bare.findall(angle.sub(lambda m: " " * len(m.group(0)), line))
 
     prose_restored = []
+    # 「有沒有」要對整份譯文問，不是只問這一行。
+    # 譯文常把腳註裡的網址挪到別的位置（正文、圖片來源清單、另一條腳註），
+    # 只看本行會判成缺漏而再補一次——實測擎天崗篇因此多出 6 條，URL 總數
+    # 超過原稿，verify 反而硬失敗。這一層的目的是「來源沒有消失」，
+    # 只要它還在文件裡就達成了；補在哪一行是次要的。
+    whole = "".join(tr_lines)
     for fid, (idx, _) in tr_fn.items():
         if fid not in zh_fn:
             continue
         cur = tr_lines[idx].rstrip("\n")
-        missing = [u for u in prose_urls(zh_fn[fid][1]) if u not in cur]
+        missing = [u for u in prose_urls(zh_fn[fid][1]) if u not in whole]
         if not missing:
             continue
         tr_lines[idx] = cur.rstrip() + " " + " ".join(f"（<{u}>）" for u in missing) + "\n"
