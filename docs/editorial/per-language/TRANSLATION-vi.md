@@ -79,6 +79,32 @@ huấn luyện của nó.
 Phòng còn rẻ hơn chữa: **tên lạ thì phiên âm, kèm chữ Hán gốc trong ngoặc**,
 ví dụ «Hứa Tử Thu (許子秋)».
 
+### ⚠️ Nghệ danh, tên ban nhạc, tên tổ chức: KHÔNG dịch nghĩa đen
+
+Quy tắc Hán-Việt ở trên áp dụng cho **tên người thật**. Nghệ danh, tên ban
+nhạc, tên hãng và tên tổ chức là **nhãn hiệu**, không phải tên người — dịch
+nghĩa đen chúng thì độc giả không còn tra cứu được đối tượng nữa, đúng như
+việc dịch một tiêu đề nguồn thì độc giả không tìm lại được bài gốc.
+
+Ca thực tế (2026-08-09, mẻ vi thứ ba): rapper 壞特 (nghệ danh La-tinh `?te`)
+bị dịch thành **`Tệp Xấu`** — nghĩa đen là «tập tin hỏng». Wikilink cũng hỏng
+theo: `/people/tệp-xấu` là một đường dẫn không tồn tại. Cùng bài, 文化總會
+(General Association of Chinese Culture) thành `Văn hóa Tổng hội`.
+
+**Cách viết đúng**:
+
+- Nghệ danh đã có dạng La-tinh chính thức → dùng dạng đó: `?te（壞特）`,
+  `V.K`, `Blow 吹音樂`, `Naxs Corp（涅所開發）`.
+- Chưa có dạng La-tinh → giữ nguyên chữ Hán, chua nghĩa tiếng Việt trong ngoặc
+  **nếu** nghĩa đó thực sự giúp người đọc — không thay thế tên bằng nghĩa.
+- Tên tổ chức có tên tiếng Anh chính thức → dùng tên tiếng Anh đó, không tự
+  ghép âm Hán-Việt.
+- Wikilink của những mục này luôn tra `wikilink_targets` trong phiếu giao việc,
+  **không** tự tạo slug từ bản dịch của mình.
+
+Nguyên tắc chung phía sau: **cái gì độc giả dùng để tìm lại đối tượng thì
+không đổi** — tiêu đề nguồn, URL, nghệ danh, tên tổ chức đều thuộc nhóm này.
+
 ## 3. Địa danh — âm Hán-Việt truyền thống + ngoại lệ tránh trùng tên nội địa
 
 **Thành phố/huyện** (âm Hán-Việt là quy ước có sẵn trong địa lý học tiếng Việt, không phải phát minh riêng của Taiwan.md):
