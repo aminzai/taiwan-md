@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 85 條 #N 反射（last #85�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.20'
+current_version: 'v5.21'
 last_updated: 2026-08-09
-last_session: '2026-08-09-twmd-self-evolve-weekly（#67 加 routine-infra「已同步」claim 變體 vc=1→4：實際補齊 feedback-triage cron mirror 缺的 HG9/HG10 兩行並 routine-sync --harvest 收回 git SSOT，關閉 8/6 起延續 2 天的 changelog-claim-not-reverified 缺口）'
+last_session: '2026-08-09-084024-twmd-maintainer-am（#85 補變體 1 根因驗證：git core.quotePath 讓四支檢查器與 translatedFrom 閘門對中文檔名靜默全跳，且 8/08 的同根因修補只停在 .husky 殼層沒進它呼叫的檢查器；#83 補規則 (a) 首個文件層 instance：MAINTAINER Step 3.5 教的指令不帶 --profile=ci-deploy，照 SOP 走會拿到 CI 不認的綠燈，三處指令已補 profile）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -996,6 +996,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
   - `article-health.py {file} --check=link-target,wikilink-target` 逗號多值不報錯，印「no checks ran — Phase 1 has empty registry」然後 `passed=True`——node-birth session 憑既有用法直覺寫了逗號語法，dogfood 第一次跑就回綠，靠輸出那行「no checks ran」洩了底
   - ar 首批人名幻覺第二型（填空而非混淆）與同批 3 處合法地標名假陽性混在一起現形，證明這類 gate 必須人審不能自動裁決
 - **驗證 (2026-08-09 twmd-weekly-report-sun，W32 體檢 c 面)**：`routine-sync.py`（修復側）認得 ROUTINE.md 排程表的 `🖥️<節點名>` 標記並整列跳過別台機器的 routine，`routine-sync-check.py`（檢查側）不認得——同一張 SSOT 表兩把尺，讓營運機每天被報一筆假 MISSING。同支工具另一半：⏸️ 暫停標記只讀 cadence 欄，founder-lens 把它寫在標題欄就成了假 live drift。**本 instance 的新維度是「假警報的代謝方式」**：8/7 routine-sync 那一班額外開 MCP 手動複核五條 `enabled=false`，確認檢查器錯了，在收官寫下「零漂移」然後過關——推翻的動作每天重跑一次、每天看起來都像盡責，而那把尺留在原地至少兩週。假陽性不必然「殺掉好產出」（規則 (c) 的形狀），也可以只是每天靜靜吃掉一小段注意力且不留痕跡。修法 `466f3ddd1`：⏸️ 整列任一處命中都算、PAUSED 清單改真覆寫、缺件與 live 兩層都按 🖥️ 過濾，並補 fail-loud 哨兵（讀不到節點名時印出哪幾列沒檢查，避免修掉的靜默換位置長回來）→ [memory/2026-08-09-021939-twmd-weekly-report-sun.md](memory/2026-08-09-021939-twmd-weekly-report-sun.md)
+- **驗證 (2026-08-09 twmd-maintainer-am，規則 (a) 首次在 pipeline 文件層現形)**：前幾個 instance 的兩把尺都住在**程式**裡（heal 工具 vs CI）。這次住在 **canonical SOP 的 prose 裡**：[MAINTAINER-PIPELINE](../pipelines/MAINTAINER-PIPELINE.md) Step 3.5 教維護者跑 `python3 scripts/tools/article-health.py {file}`（不帶 profile），而破折號／全形分號的硬門檻只掛在 `ci-deploy` profile 上。實測同一支檔同一分鐘：不帶 profile 回 `✅ prose-health hard=0`，`--profile=ci-deploy` 回 `🔴 hard=1 · 全形分號 15 > 12`。**照 SOP 走會拿到一個 CI 不認的綠燈**，而且方向是「本機比 CI 鬆」——剛好是 `article-health.config.toml` 註解裡論證為不安全的那一側（pre-commit 嚴於 ci-deploy 才安全，因為過了嚴的必然過鬆的）。本輪兩篇貢獻者新文因此在 commit 後才被 pre-push 攔下。修法：Step 3.5、§Quick fix 清單、Hard Gate Inventory 三處的指令一律補 `--profile=ci-deploy`。**新維度**：規則 (a) 原本寫給「工具」，但一份教人下指令的文件也是一把尺——它規定的那條指令若不是部署閘門那條，等於用文件把兩把尺的分歧發給每一個照做的人 → [memory/2026-08-09-084024-twmd-maintainer-am.md](memory/2026-08-09-084024-twmd-maintainer-am.md)
 - **相關**：#24「工具在說謊的 9 種形式」（同祖先「規則在 A 定義算法在 B 複寫」，本條是雙工具/雙分支間的 specialization）/ #66「Gate threshold 用真實產出 dogfood 校準」（互補——那條講閾值怎麼定，本條講定完之後兩把尺會不會走歪）/ #69「self-report 需外部尺」（互補——那條講要不要有外部尺，本條講外部尺自己內部的一致性）
 - **操作**：→ `contributor-pr-heal.py` re-check 改 `--profile=ci-deploy` / `cjk-leak-check.py` 抽出 `LEGITIMATE_ZH_SPANS` 共用清單 / `article-health.py --check` 對逗號多值 explicit error 或改支援多值 / quarantine 前存證流程已 ship（vortex-babel 2026-07-24）
 - **跨檔關聯**：[memory/2026-07-25-102214-vortex-babel-2.md](memory/2026-07-25-102214-vortex-babel-2.md) + [diary/2026-07-24-174300-vortex-babel.md](diary/2026-07-24-174300-vortex-babel.md) + [memory/2026-07-25-013432-node-birth.md](memory/2026-07-25-013432-node-birth.md)
@@ -1018,6 +1019,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 **規則**：任何 `if <變數> 命中 X` 的閘門，回頭確認那個變數的建構過程沒有把 X 排除掉；任何 `catch { return [] }` / `return 0` / `return {}`，先問「這個空值跟真實的空，下游分得出來嗎？」分不出來就必須回 `null`／`undefined` 讓下游自己決定怎麼處理未知；任何「未執行」的檢查應該印出**有別於 ✅ 的第三種符號**（如 `⏭️ skipped(reason)`），而不是沉默地印同一個綠勾。
 
+- **驗證 (2026-08-09 twmd-maintainer-am，同日獨立命中並挖到變體 1 的根因)**：merge 兩篇貢獻者新文時 pre-commit 印「Frontmatter validation: 0 files scanned」與「🔍 staged: no zh-TW knowledge/\*.md staged, skipping」，而當下 staged 的正是兩篇**中文檔名**的 zh-TW 文章。根因不在檢查邏輯，在取檔那一行：`git diff --cached --name-only` 預設 `core.quotePath=true`，會把含非 ASCII 的路徑整條加引號並轉義成 `"knowledge/Food/\351\254\215..."`，於是 `startswith("knowledge/")` 與 `endswith(".md")` 一律對不上——**站上絕大多數文章是中文檔名，等於這些閘門對它們全部靜默跳過**。這正是變體 1 裡「`check-slug-consistency.py` 掃到零個檔案時印跟全數通過逐字相同的綠勾」那句的上游：它為什麼經常掃到零個。四支檢查器（`article-health.py` / `check-cjk-punct.py` — 諷刺的是中文標點檢查只掃得到非中文檔名 / `check-slug-consistency.py` / `check-canonical-frontmatter.py`）與 `.husky/pre-commit` 的 translatedFrom 閘門（譯文與原文同名，整道也全跳）已補 `-c core.quotePath=false`（`a4732608f`），實測 `_get_staged_md()` 對同一批 staged 檔從回 0 筆變 2 筆。**本 instance 的新維度是「修補自己也會停在症狀出現的那一層」**：8/08 PR #1298 才修好同一個 quotePath 病根，但只修了 `.husky/pre-commit` 殼層自己的三個取檔點，它**呼叫的**四支檢查器各自也在跑同一行 git 指令，沒被掃到——修補的範圍是由症狀現形的位置決定的，不是由根因所屬的類別決定的 → [memory/2026-08-09-084024-twmd-maintainer-am.md](memory/2026-08-09-084024-twmd-maintainer-am.md)
 - **相關**：#82（proxy signal — 本條的差異是「訊號選對了但根本沒量」，不是「量了替身」）/ #38（混維度 — 本條是它在檢查器輸出端與取數輸入端的具體形狀）/ #52（immune system 沒在 fail loud 比缺 immune system 更危險——本條的閘門更隱蔽：不是壞掉時不叫，是**從來沒活過所以沒有東西可以叫**）/ #59（製造數字的人最易被數字騙——檢查器騙過的第一個人是拿它來檢查的人）/ #69（每層自評都需要外部尺——三個變體分別由 PR triage、routine 例行、貢獻者 issue 三個獨立方向撞見，互為外部尺）/ #83（checker 兩把尺 divergence——鄰近但軸不同：那條講兩把尺不同調，本條講**第二把尺根本沒被拿起來過**）
 - **操作**：→ `article-health.py` 候選加「未執行」第三態符號（成本低，會一次照亮站上所有「註冊了但沒在跑」的檢查）/ `.husky/pre-commit` slug 閘門接線修復（3 行，但需先處理 12 筆既有漂移，命中 §自主權邊界，留 OBSERVER-QUEUE）/ `triage.mjs` `fetchIssueComments()` 已修（null vs [] 分流 + `comment-reconcile=N/M` 三分報告，per FEEDBACK-TRIAGE-PIPELINE §HG12c）
 

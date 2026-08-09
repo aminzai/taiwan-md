@@ -193,21 +193,21 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                                             | 觸發 stage  | 條件                                                     | 工具                                                    | 不過 = ?                     |
-| ------------------------------------------------ | ----------- | -------------------------------------------------------- | ------------------------------------------------------- | ---------------------------- |
-| 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                 | `gh issue/pr view N --json comments -q '.comments[-1]'` | skip 回覆                    |
-| 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                  | manual diff scan                                        | close + reason               |
-| [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記    | author profile + body 結構 + knowledge/ + INBOX grep    | close + reason / route 分流  |
-| ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR） | gh pr checks + view --json mergeable                    | n/a — routine 走 main-direct |
-| §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                | 紅旗 + CI + close-hard-gate decision matrix             | per-tier action              |
-| §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                            | 「我接手 X min 內可以修嗎」self-check                   | 改 polish 不 close           |
-| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                 | `gh pr merge` 先於 heal；禁 close-as-ship               | 改 merge + heal / leave open |
-| §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                               | 抽樣 ≥ 3 footnote URL WebFetch                          | request changes              |
-| pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                         | `.husky/pre-commit`                                     | 不 commit                    |
-| article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                          | `python3 scripts/tools/article-health.py {file}`        | request changes / heal       |
-| 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                   | manual (日文 PR → 日文 / 韓文 → 韓文)                   | rewrite reply                |
-| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                               | manual checklist 6 條                                   | 不算完成 cycle               |
-| memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                               | MEMORY-PIPELINE.md                                      | 失憶 = 下個 cycle 重複       |
+| Gate                                             | 觸發 stage  | 條件                                                     | 工具                                                                                                   | 不過 = ?                     |
+| ------------------------------------------------ | ----------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                 | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                    |
+| 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                  | manual diff scan                                                                                       | close + reason               |
+| [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記    | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流  |
+| ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR） | gh pr checks + view --json mergeable                                                                   | n/a — routine 走 main-direct |
+| §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                | 紅旗 + CI + close-hard-gate decision matrix                                                            | per-tier action              |
+| §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                            | 「我接手 X min 內可以修嗎」self-check                                                                  | 改 polish 不 close           |
+| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                 | `gh pr merge` 先於 heal；禁 close-as-ship                                                              | 改 merge + heal / leave open |
+| §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                               | 抽樣 ≥ 3 footnote URL WebFetch                                                                         | request changes              |
+| pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                         | `.husky/pre-commit`                                                                                    | 不 commit                    |
+| article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                          | `python3 scripts/tools/article-health.py {file} --profile=ci-deploy`（profile 不可省，見 Step 3.5 註） | request changes / heal       |
+| 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                   | manual (日文 PR → 日文 / 韓文 → 韓文)                                                                  | rewrite reply                |
+| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                               | manual checklist 6 條                                                                                  | 不算完成 cycle               |
+| memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                               | MEMORY-PIPELINE.md                                                                                     | 失憶 = 下個 cycle 重複       |
 
 ---
 
@@ -219,7 +219,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 2. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）
 3. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
 4. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
-5. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑）
+5. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑，且**必帶 `--profile=ci-deploy`**（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑。不帶 profile 會漏掉破折號／全形分號硬門檻，回一個 CI 不認的 hard=0）
 6. **Step 3.7 thank-you 用 `gh pr comment` 不是 `--body`** — `gh pr merge --body` 寫進 git log，貢獻者看不到
 
 ---
@@ -735,23 +735,23 @@ gh pr merge N --squash --delete-branch
 
 #### Quick fix 清單（看到這些不 close、改 polish）
 
-| Pattern                                                               | 工具 / 修法                                                                                    |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| `author: 'Manus AI' / 'ChatGPT' / 'Claude' / 'Semiont' / 'Taiwan.md'` | 1 行改 `'Taiwan.md Contributors'`                                                              |
-| `featured: true` 在 `lastHumanReview: false`                          | 1 行改 false                                                                                   |
-| `readingTime` 誇大                                                    | 1 行修正                                                                                       |
-| Footnote 多源格式（APA / 中文〈〉/ 缺 desc / angle-bracket）          | `python3 scripts/tools/footnote-format-fix.py --apply`                                         |
-| vague non-citation（「可參考相關文獻」）                              | 補一個維基或泛科學 source                                                                      |
-| §11 對位句型 / 破折號超標                                             | `python3 scripts/tools/article-health.py --check=prose-health`                                 |
-| 缺 `## 參考資料` / `## 延伸閱讀`                                      | append                                                                                         |
-| Path 錯位（檔案在 root 不在分類資料夾）                               | `git mv`                                                                                       |
-| frontmatter category vs path mismatch                                 | `git mv` 或改 frontmatter（canonical 14 類，per [SUBCATEGORY.md](../taxonomy/SUBCATEGORY.md)） |
-| 「參考來源」/「參考」非 canonical                                     | 改「參考資料」                                                                                 |
-| Broken `[[wikilink]]` 目標不存在                                      | 純文字（per neural circuit「目標 article 無 → 轉純文字」）                                     |
-| 列表中 `- [[X]] — desc`（Astro 不渲染）                               | `- [X](/category/slug) — desc` 或純文字                                                        |
-| frontmatter 重複 `---`                                                | 刪多餘那行                                                                                     |
-| tags 未 quote 純數字 `[2025, ...]`                                    | `['2025', ...]`                                                                                |
-| 阿翰式 placeholder「（此位置放...）」「TODO: 補...」                  | 根據 body 寫一段補上                                                                           |
+| Pattern                                                               | 工具 / 修法                                                                                                                                                                               |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `author: 'Manus AI' / 'ChatGPT' / 'Claude' / 'Semiont' / 'Taiwan.md'` | 1 行改 `'Taiwan.md Contributors'`                                                                                                                                                         |
+| `featured: true` 在 `lastHumanReview: false`                          | 1 行改 false                                                                                                                                                                              |
+| `readingTime` 誇大                                                    | 1 行修正                                                                                                                                                                                  |
+| Footnote 多源格式（APA / 中文〈〉/ 缺 desc / angle-bracket）          | `python3 scripts/tools/footnote-format-fix.py --apply`                                                                                                                                    |
+| vague non-citation（「可參考相關文獻」）                              | 補一個維基或泛科學 source                                                                                                                                                                 |
+| §11 對位句型 / 破折號超標                                             | `python3 scripts/tools/article-health.py <file> --profile=ci-deploy`（**不可省 profile**：破折號 >15／全形分號 >12 的硬門檻只掛在 ci-deploy，`--check=prose-health` 單跑會漏報成 hard=0） |
+| 缺 `## 參考資料` / `## 延伸閱讀`                                      | append                                                                                                                                                                                    |
+| Path 錯位（檔案在 root 不在分類資料夾）                               | `git mv`                                                                                                                                                                                  |
+| frontmatter category vs path mismatch                                 | `git mv` 或改 frontmatter（canonical 14 類，per [SUBCATEGORY.md](../taxonomy/SUBCATEGORY.md)）                                                                                            |
+| 「參考來源」/「參考」非 canonical                                     | 改「參考資料」                                                                                                                                                                            |
+| Broken `[[wikilink]]` 目標不存在                                      | 純文字（per neural circuit「目標 article 無 → 轉純文字」）                                                                                                                                |
+| 列表中 `- [[X]] — desc`（Astro 不渲染）                               | `- [X](/category/slug) — desc` 或純文字                                                                                                                                                   |
+| frontmatter 重複 `---`                                                | 刪多餘那行                                                                                                                                                                                |
+| tags 未 quote 純數字 `[2025, ...]`                                    | `['2025', ...]`                                                                                                                                                                           |
+| 阿翰式 placeholder「（此位置放...）」「TODO: 補...」                  | 根據 body 寫一段補上                                                                                                                                                                      |
 
 **Heal commit budget 校準**（per LESSONS-INBOX 2026-05-03 magical-feynman）：batch heal 階段成本被系統性低估（β-r3 反鏡像）。實測 idlccp1984 9 PR batch heal 階段佔總時長 ~50%（25/50 min）。**Batch discount 0.5x 不適用 heal 階段** — 預留 ≥ 30 min budget 跑 hook 多輪 retry。footnote-format-fix.py 吸收 80%，剩 wikilink + frontmatter + URL 邊界 case 仍需人工。
 
@@ -870,7 +870,10 @@ WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim。若
 
 ```bash
 # 1. 跑全 plugin gate（B 路徑 hard gate 必跑，PR-side CI 不等於 main deploy CI）
-python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md  # 全 plugin
+#    ⚠️ --profile=ci-deploy 必帶（2026-08-09 maintainer-am 現形，REFLEXES #83 規則 (a)）：
+#    不帶 profile 時破折號／全形分號的硬門檻不會掛上，同一支檔會回 hard=0，
+#    但 pre-push / CI 用的是 ci-deploy 那把尺 → 照本 SOP 走會拿到 CI 不認的綠燈。
+python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy  # 全 plugin
 
 # 2. 找對應 quick-fix 工具
 python3 scripts/tools/footnote-format-fix.py <file> --apply  # 若 footnote 格式異常
