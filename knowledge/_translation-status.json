@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T18:41:15+08:00",
-    "zhCommitHead": "f81038c98",
+    "lastUpdated": "2026-08-09T18:44:47+08:00",
+    "zhCommitHead": "03d69ef68",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 835,
+        "fresh": 836,
         "stale": 26,
         "metadata_stale": 11,
-        "missing": 19,
+        "missing": 18,
         "orphan": 0
       },
       "ja": {
@@ -35,10 +35,10 @@
       },
       "ko": {
         "total_zh": 891,
-        "fresh": 852,
+        "fresh": 853,
         "stale": 14,
         "metadata_stale": 16,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "es": {
@@ -51,10 +51,10 @@
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 839,
+        "fresh": 840,
         "stale": 20,
         "metadata_stale": 18,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "vi": {
@@ -10393,8 +10393,8 @@
           "sourceContentHash": "sha256:9985c51170111ca8",
           "sourceBodyHash": "sha256:a06f7b884fa31776",
           "translatedAt": "2026-08-09T15:34:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -14145,8 +14145,8 @@
           "sourceContentHash": "sha256:204a3cf0ff763d30",
           "sourceBodyHash": "sha256:70cf0c01c1c3b9f1",
           "translatedAt": "2026-08-09T10:51:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -14597,8 +14597,8 @@
           "sourceContentHash": "sha256:d3d8b87838fde0c1",
           "sourceBodyHash": "sha256:3f673eef58308631",
           "translatedAt": "2026-08-09T10:51:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -101158,7 +101158,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/formosa-chang.md",
+          "translatedFrom": "Food/鬍鬚張.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:e1b77b1bcfa11b48",
+          "sourceBodyHash": "sha256:8824b980fb94339c",
+          "translatedAt": "2026-08-09T15:34:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/formosa-chang.md",
@@ -102778,8 +102789,8 @@
           "sourceContentHash": "sha256:141f0927816304ea",
           "sourceBodyHash": "sha256:2a5b0fcaca37f869",
           "translatedAt": "2026-08-09T10:51:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -104764,8 +104775,8 @@
           "sourceContentHash": "sha256:31bbf088964cc84c",
           "sourceBodyHash": "sha256:41b23df405c1e58d",
           "translatedAt": "2026-08-09T10:51:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -105321,8 +105332,8 @@
           "sourceContentHash": "sha256:285a5868a3aa5597",
           "sourceBodyHash": "sha256:c3f4128a5ed93797",
           "translatedAt": "2026-08-09T10:51:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -125765,8 +125776,8 @@
           "sourceContentHash": "sha256:7cd741adb82e8c2f",
           "sourceBodyHash": "sha256:2e97e9085815c5e8",
           "translatedAt": "2026-08-09T10:51:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03d69ef6",
+          "translationLastModified": "2026-08-09T18:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -132314,13 +132325,35 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/schoolyard-rhymes.md",
+          "translatedFrom": "Culture/校園順口溜.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:e5fd53530b9e999c",
+          "sourceBodyHash": "sha256:201c8b949857fdd7",
+          "translatedAt": "2026-08-09T15:34:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/schoolyard-rhymes.md",
+          "translatedFrom": "Culture/校園順口溜.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:e5fd53530b9e999c",
+          "sourceBodyHash": "sha256:201c8b949857fdd7",
+          "translatedAt": "2026-08-09T15:34:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "es": {
           "status": "missing"
