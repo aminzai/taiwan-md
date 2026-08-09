@@ -46,27 +46,27 @@ Hòn đảo nhỏ này chỉ có diện tích 45 km², về mặt địa chất 
 
 ## Cư dân của biên giới nhiệt đới
 
-### Bọ tượng cầu背: Những viên ngọc có thể đi bộ
+### Bọ vòi voi lưng cầu（球背象鼻蟲）: Những viên ngọc có thể đi bộ
 
-Lan Yü có năm loài bọ tượng cầu背 (_Pachyrrhynchus_ spp.), cánh cứng癒 hợp, trọn đời không bay,
+Lan Yü có năm loài bọ vòi voi lưng cầu（球背象鼻蟲） (_Pachyrrhynchus_ spp.), cánh cứng liền nhau, trọn đời không bay,
 chỉ có thể bò chậm rãi trong rừng. Chính vì không thể bay vượt eo biển, chúng trở thành
 «chỉ báo sống» tin cậy nhất của sinh vật địa lý học —— phân bố đến đâu, chứng tỏ các đảo
 đó từng có liên kết với nhau.
 
 Hoa văn ánh kim loại trên thân chúng là một loại màu cảnh báo, báo cho kẻ săn mồi biết:
-ta không ngon. Chiến lược này đã hiệu lực hàng chục triệu năm,却 không chống nổi áp lực
-thu thập của con người. Hiện nay năm loài bọ tượng cầu背 trên Lan Yü đều đã được đưa vào
+ta không ngon. Chiến lược này đã hiệu lực hàng chục triệu năm, nhưng không chống nổi áp lực
+thu thập của con người. Hiện nay năm loài bọ vòi voi lưng cầu（球背象鼻蟲） trên Lan Yü đều đã được đưa vào
 danh sách bảo tồn.
 
 ### Bướm hoàng gia Magellan: Người đưa tin của Dòng Kuroshio
 
-Mỗi年春天, những người say mê bướm ở Đài Đông sẽ chờ trên đường rừng Lan Yü chờ đợi
+Mỗi mùa xuân, những người say mê bướm ở Đài Đông sẽ chờ trên đường rừng Lan Yü chờ đợi
 một loài bướm xuất hiện. Bướm hoàng gia Magellan (_Troides magellanus_) là loài bướm
 lớn nhất Đài Loan, cánh mở rộng gần 20 cm, màu vàng ngọc trên cánh sau dưới ánh nắng
 chảy động như một khối hổ phách biết bay.
 
 Phân bố của chúng từ Bắc Philippines kéo dài đến Lan Yü, được dòng không khí của Dòng
-Kuroshio chở đưa mà đến. Sâu chỉ ăn cây馬兜鈴 cảng (Aristolochia portensis), bướm
+Kuroshio chở đưa mà đến. Sâu chỉ ăn cây mộc hương（馬兜鈴） cảng (Aristolochia portensis), bướm
 trưởng thành cuộc đời ngắn ngủi, bay thấp tuần tra trong rừng. Do môi trường sống bị
 phá hủy và áp lực thu thập, hiện đã được xếp vào nhóm động vật hoang dã bảo vệ cấp 1
 của Đài Loan.
@@ -74,7 +74,7 @@ của Đài Loan.
 ### Cú mèo tai Lan Yü: Người gác đêm
 
 Ban đêm rừng Lan Yü thuộc về Cú mèo tai Lan Yü (_Otus elegans botelensis_). Loài cú mèo
-nhỏ xíu này là亚种 đặc hữu của Lan Yü, tiếng kêu trầm ấm và có nhịp điệu, người Tao
+nhỏ xíu này là phân loài đặc hữu của Lan Yü, tiếng kêu trầm ấm và có nhịp điệu, người Tao
 gọi chúng là «chim ma», truyền thuyết nếu cú mèo kêu trên mái nhà thì báo hiệu sắp có
 người qua đời.
 

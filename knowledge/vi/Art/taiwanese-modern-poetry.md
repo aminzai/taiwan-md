@@ -89,7 +89,7 @@ Các nhà thơ thế hệ mới như Trần Dục Huy, Cá Mập Hướng Biển
 
 ## Thơ ca Đài Loan trong khía cạnh quốc tế
 
-Khả năng nhìn thấy quốc tế của thơ hiện đại Đài Loan dần dần tăng lên. Những tác phẩm của các nhà thơ như Dư Quang Trung, Dương牧, Trần Lệ được dịch sang tiếng Anh, tiếng Pháp, tiếng Đức và nhiều ngôn ngữ khác. Phiên bản tiếng Anh và tiếng Thổ Nhĩ Kỳ của "Những giọng nói từ Đài Loan — Chọn lựa Thơ Hiện đại Đài Loan" được xuất bản, đánh dấu thơ ca Đài Loan bắt đầu tìm thấy vị trí trong bản đồ văn học thế giới.
+Khả năng nhìn thấy quốc tế của thơ hiện đại Đài Loan dần dần tăng lên. Những tác phẩm của các nhà thơ như Dư Quang Trung, Dương Mục（楊牧）, Trần Lệ được dịch sang tiếng Anh, tiếng Pháp, tiếng Đức và nhiều ngôn ngữ khác. Phiên bản tiếng Anh và tiếng Thổ Nhĩ Kỳ của "Những giọng nói từ Đài Loan — Chọn lựa Thơ Hiện đại Đài Loan" được xuất bản, đánh dấu thơ ca Đài Loan bắt đầu tìm thấy vị trí trong bản đồ văn học thế giới.
 
 **✦** "Ngôn ngữ thơ của một hòn đảo nhỏ, cuối cùng phải chứng minh giá trị của nó trong bối cảnh thế giới."
 
