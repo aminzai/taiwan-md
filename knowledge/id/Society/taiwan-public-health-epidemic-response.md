@@ -19,10 +19,10 @@ lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '49728f9d5'
-sourceContentHash: 'sha256:84ffcc67e2e155cf'
-sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
-translatedAt: '2026-07-28T06:15:57+08:00'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:eca9dd4ad2636bc6'
+sourceBodyHash: 'sha256:bbdf3516f36f033d'
+translatedAt: '2026-08-09T06:08:43.416064+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 2003, SARS di Taiwan menewaskan 73 orang, dan insiden penggelapan Rumah Sakit Heping menjadi trauma kolektif dalam sejarah kesehatan masyarakat. Kemudian Taiwan hampir membangun ulang seluruh sistem pencegahan wabahnya: Badan Pengendalian Penyakit (CDC) ditingkatkan, mekanisme Pusat Komando Epidemiologi Pusat (CECC) dilegalisasi, dan prosedur pengendalian infeksi direvisi menyeluruh. Pada 2020, saat COVID-19 menyebar global, Taiwan mempertahankan transmisi lokal hampir nol selama 18 bulan pertama, yang disebut komunitas internasional sebagai "Model Taiwan". Pada April 2026, Taiwan mencatat kasus pertama penularan flu burung H7N7 dari burung ke manusia secara lokal — sistem pencegahan wabah diuji kembali.
@@ -79,27 +79,25 @@ Inilah warisan SARS beroperasi: ada otoritas khusus (CDC), ada wewenang hukum (_
 | Kekurangan peralatan       | Sistem masker identitas dibangun 72 jam | 40-50 ribu masker langsung dibagikan ke peternak bebek |
 | Informasi tidak transparan | Konferensi pers harian                  | Pengumuman pengurutan genom real-time                  |
 
-## Asuransi Kesehatan: Infrastruktur Tersembunyi Pencegahan Wabah
+## Jaminan Kesehatan Nasional: Infrastruktur Tersembunyi Pencegahan Wabah
 
-Lapisan dasar sistem pencegahan wabah Taiwan, adalah Asuransi Kesehatan Nasional (台灣醫療與全民健保) yang diluncurkan 1995.
+Lapisan dasar sistem pencegahan wabah Taiwan, adalah **Jaminan Kesehatan Nasional** yang diluncurkan pada 1995.
 
-23,4 juta orang berbagi satu basis data Asuransi Kesehatan, satu kartu Asuransi Kesehatan. Kartu ini selama COVID-19 menjadi infrastruktur pencegahan wabah: sistem masker berbasis identitas bergantung pada verifikasi kartu Asuransi Kesehatan, penandaan riwayat perjalanan bergantung pada koneksi kartu Asuransi Kesehatan, catatan vaksinasi tertulis di kartu Asuransi Kesehatan. Tanpa basis data cakupan universal ini, Model Taiwan tidak mungkin terbentuk[^10].
+23,4 juta orang berbagi satu basis data jaminan kesehatan, satu kartu jaminan kesehatan. Kartu ini selama COVID-19 menjadi infrastruktur pencegahan wabah: pembelian masker _real-name_ mengandalkan kartu jaminan kesehatan, penandaan riwayat perjalanan mengandalkan koneksi kartu jaminan kesehatan, catatan vaksinasi tertulis di kartu jaminan kesehatan. Tanpa basis data penutup seluruh warga ini, model Taiwan tidak mungkin terbentuk[^10]。
 
-> **✦** "SARS adalah pelajaran paling pahit dalam sejarah kesehatan masyarakat Taiwan. Tapi pelajaran paling pahit, mengajar murid terbaik."
+> **✦** 「SARS adalah pelajaran paling pahit dalam sejarah kesehatan masyarakat Taiwan. Tapi pelajaran paling pahit, mengajar murid terbaik。」
 
-Dua puluh tiga tahun pasca-penggelapan Rumah Sakit Heping, bangunan itu masih berdiri di Jalan Zhonghua, Taipei. Beberapa tenaga medis yang masuk ke unit gawat darurat masih ingat kejadian tahun itu. Ho Sung-jung berkata ia tidak dendam, tapi luka itu "belum sepenuhnya sembuh". Mungkin tak perlu sembuh. Mungkin organ terpenting sebuah sistem pencegahan wabah, justru adalah ingatan akan rasa sakit.
+Dua puluh tiga tahun setelah penutupan Rumah Sakit Heping, bangunan itu tetap berdiri di Jalan Zhonghua, Kota Taipei. Beberapa tenaga medis yang masuk ke ruang gawat darurat masih ingat kejadian tahun itu. Ho Sung-jung berkata dia tidak keberatan, tapi luka itu「belum sepenuhnya sembuh」。Mungkin tidak perlu sembuh. Mungkin organ terpenting sebuah sistem pencegahan wabah, justru adalah mengingat rasa sakit。
 
-**Bacaan Lanjutan**
+**Bacaan Lanjutan**：
 
-- [Ruang Merokok Taipei: Kotak Kaca yang Bernapas di Kota Tanpa Rokok](/society/台北吸菸室) — Bab terbaru perebutan empat puluh tahun pengendalian tembakau, medan perang berpindah dari ruang tertutup ke luar ruangan
+- [Ruang Merokok Taipei: Di Kota Tanpa Rokok, Kotak Kaca yang Bernapas](/society/台北吸菸室) — Bab terbaru ekspedisi empat puluh tahun pengendalian rokok, medan perang bergeser dari ruang tertutup ke luar ruangan
 
-- [Kesehatan Taiwan dan Asuransi Kesehatan Nasional](/lifestyle/台灣醫療與全民健保) — Infrastruktur dasar sistem pencegahan wabah: basis data Asuransi Kesehatan 23,4 juta orang
-
-- [Audrey Tang](/people/唐鳳) — Menteri Digital di balik peta masker
-
-- [Sistem Medis Bencana Taiwan](/id/technology/taiwan-disaster-medicine-system) — Dari 921 ke SARS, bagaimana bencana mendorong evolusi medis
-
-- [Dua Undang-Undang Medis Regeneratif × 30 Tahun mRNA](/society/台灣再生醫療雙法沿革從業人員告白) — Narasi ganda pengadaan BNT 2021 + legislasi terapi sel, perspektif lanjutan pencegahan COVID artikel ini
+- [Kesehatan Taiwan dan Jaminan Kesehatan Nasional](/lifestyle/台灣醫療與全民健保) — Infrastruktur dasar sistem pencegahan wabah: basis data jaminan kesehatan 23,4 juta warga
+- [Audrey Tang (唐鳳)](/people/唐鳳) — Menterinya Digital di Balik Peta Masker
+- [Sistem Medis Bencana Taiwan](/id/technology/taiwan-disaster-medicine-system) — Dari 921 ke SARS, Bagaimana Bencana Mendorong Evolusi Medis
+- [Pandemi COVID-19 Taiwan dan Vaksin](/society/台灣新冠疫情與疫苗) — Sistem ini yang dibangun pasca-SARS, diuji penuh pada 2020–2023: perbatasan menahan wabah delapan belas bulan, namun vaksin dan dosis ketiga untuk lansia tidak sempat tiba
+- [Dua UU Medis Regeneratif × mRNA 30 Tahun](/society/台灣再生醫療雙法沿革從業人員告白) — Narasi ganda 2021: pengadaan BNT + legislasi terapi sel, perspektif lanjutan pencegahan wabah COVID 本文
 
 ## Referensi
 
