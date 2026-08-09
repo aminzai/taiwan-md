@@ -113,7 +113,12 @@ def main() -> int:
             # 少掉的那幾條是讀者查證的入口，掉了就等於這條註只剩一個孤證。
             # 跟圖說同一個處置：整組 `[標籤](網址)` 接到該行末尾，只增不改——
             # 插進翻好的句子中間需要判斷，接在尾端不需要。
-            missing = [u for u in zh_urls if u not in tr_urls]
+            # 比對用整行做子字串檢查，不是比對 `tr_urls`。
+            # `footnote_urls()` 只認 `](網址)`，而譯文可能把同一條來源寫成
+            # autolink `<網址>`——那時 tr_urls 是空的，這裡就判成「缺」再補一次，
+            # 同一條網址在一行裡出現兩遍（實測選舉公報篇 [^7]）。
+            # 該問的是「這條網址在這行裡嗎」，它以什麼語法寫成不重要。
+            missing = [u for u in zh_urls if u not in tr_line]
             zh_links = dict(re.findall(r"\[([^\]]*)\]\(\s*<?([^)>\s]+)", zh_fn[fid][1]))
             add = [
                 f"[{next((k for k, v in zh_links.items() if v == u), '來源')}]({u})"
