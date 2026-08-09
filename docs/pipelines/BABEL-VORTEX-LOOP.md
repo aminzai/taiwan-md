@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.54)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.54'
-last_updated: 2026-08-01
-last_session: '2026-08-01-065956-manual（patch-reject escalate 落地）'
+current_version: 'v1.55'
+last_updated: 2026-08-09
+last_session: '2026-08-09-vortex-babel（委派層 SOP 定型：三支新儀器＋四支修好＋三條元規則）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.54
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.55
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,22 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.55（2026-08-09 vi 委派兩批 200 篇）：**委派層長出自己的 SOP**，canonical 在
+  [SQUEEZE §委派層 SOP](SQUEEZE-MODELS-MAX-PIPELINE.md)。vi 是十一語裡唯一
+  fail-closed 的（合格模型全撤池），覆蓋率 43.2% → 57%+ 全靠這一層。
+  三支新儀器（`enrich-batch-targets` 結構靶子與分次寫入清單／`restore-footnote-urls`
+  三層出處還原／`cjk-adjacency-check` 短片段漏譯）＋四支既有工具被修好
+  （比例閘門的 PASS 分支因 ANSI 色碼永遠到不了、worktree 回收器對自家 worktree
+  從沒能開火、超過 26 組的批次因 `chr(65+i)` 撞小寫靜默吃掉優先度最高的前 26 篇、
+  章節級 patch 漏掉 wikilink 預轉）。
+  三條沉澱進 canonical 的元規則：(a) 閘門製造出「改內容換綠燈」的誘因時，
+  它造成的損害大於它防的問題（實撞：新閘門逼 agent 把 6 條中文來源標題翻掉，
+  引用失去可追溯性）(b) 新尺一律 import 既有豁免清單不複寫——這支一天長出六類
+  假陽性，至少三類 `cjk-leak-check` 早有，而它的註解一字不差寫過這個病根，
+  **讀到教訓跟受教訓的約束是兩件事** (c) 指令具體度是階梯不是連續：形容詞 →
+  數字 → 策略 → 機制 → 可直接除的數字，停在任何一階都會在下一個規模失效
+  （同一條「要完整翻譯」在三個規模上失效三次）。
 
 - v1.54（2026-08-01 19:40 執行）：**v1.53 診斷的修法已落地**。`babel-dispatch.py`
   新增 `patch_reject_count()`（讀既有 `fail-reasons.json` 側錄，不新增狀態）＋

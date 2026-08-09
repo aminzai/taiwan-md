@@ -47,6 +47,14 @@ python3 scripts/tools/lang-sync/babel-preflight.py
 SSOT：薄殼 wake prompt contract、固定 benchmark 報告面板、三重巡檢（存活≠生產）、
 自動進化硬條款。哲宇說「持續」「渦流」「loop」「一小時甦醒」就是這個模式。
 
+**委派模式**（2026-08-09 新增）：某語言 fail-closed（fleet 與雲端都沒有合格模型）
+時走 Claude sub-agent，讀 [SQUEEZE §委派層 SOP](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
+整節。它跟前兩種模式的差別是**寫檔的人會自己判斷**，所以要用前置儀器把結構補回去：
+`enrich-batch-targets.py` 出靶子與分次寫入清單、`cat >>` 追加而非 Edit、四道閘
+（比 dispatcher 的 trio 多一支漢字黏著）、主 session 60 秒靜置後獨立重驗。
+觸發語：「委派」「派 agent 翻」「fail-closed 的語言」，或某語言在 preflight
+拿不到任何合格 worker。
+
 ## Pipeline — 嚴格完整讀取後照做
 
 [SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md) 整份（priority 分流、cascade 順序、Tier 0a patch agent template、Z1-Z6 hard gate、**模型×語言適配表／入池門檻／排序原則／編組原則四節**全在那裡，本殼一律不複寫；模型名以 `translate.py DEFAULT_CASCADE_ID` 為準）。
