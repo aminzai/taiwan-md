@@ -97,8 +97,23 @@ def main() -> int:
         tr_urls = footnote_urls(tr_line)
         if not zh_urls or zh_urls == tr_urls:
             continue
+        if len(tr_urls) < len(zh_urls):
+            # 多來源腳註被翻成單來源（實測外送專法 [^52]：zh 3 條、譯文剩 1 條）。
+            # 少掉的那幾條是讀者查證的入口，掉了就等於這條註只剩一個孤證。
+            # 跟圖說同一個處置：整組 `[標籤](網址)` 接到該行末尾，只增不改——
+            # 插進翻好的句子中間需要判斷，接在尾端不需要。
+            missing = [u for u in zh_urls if u not in tr_urls]
+            zh_links = dict(re.findall(r"\[([^\]]*)\]\(\s*<?([^)>\s]+)", zh_fn[fid][1]))
+            add = [
+                f"[{next((k for k, v in zh_links.items() if v == u), '來源')}]({u})"
+                for u in missing
+            ]
+            if add:
+                tr_lines[idx] = tr_line.rstrip("\n").rstrip() + " " + " ".join(add) + "\n"
+                restored += [(fid, "(缺)", u) for u in missing]
+            continue
         if len(zh_urls) != len(tr_urls):
-            skipped.append((fid, f"連結數不同 zh={len(zh_urls)} 譯文={len(tr_urls)}，位置對應不可靠"))
+            skipped.append((fid, f"譯文連結比原稿多，不動（zh={len(zh_urls)} 譯文={len(tr_urls)}）"))
             continue
         # 位置替換：第 n 個連結換成中文原稿的第 n 個。
         it = iter(zh_urls)
@@ -155,11 +170,35 @@ def main() -> int:
         for zh_line, i in zip(zh_caps, tr_idx):
             zh_urls = footnote_urls(zh_line)
             tr_urls = footnote_urls(tr_lines[i])
-            if zh_urls == tr_urls or len(zh_urls) != len(tr_urls):
+            if zh_urls == tr_urls:
                 continue
-            it = iter(zh_urls)
-            tr_lines[i] = URL_IN_LINK.sub(lambda m: f"]({next(it)}", tr_lines[i].rstrip("\n")) + "\n"
-            cap_restored += sum(1 for a, b in zip(tr_urls, zh_urls) if a != b)
+            line = tr_lines[i].rstrip("\n")
+            if len(zh_urls) == len(tr_urls):
+                it = iter(zh_urls)
+                line = URL_IN_LINK.sub(lambda m: f"]({next(it)}", line)
+                cap_restored += sum(1 for a, b in zip(tr_urls, zh_urls) if a != b)
+            elif len(tr_urls) < len(zh_urls):
+                # 授權連結整條不見（實測 medical-care-act／computex／外送專法都是
+                # 這個形狀，各少 2-3 條）。這是 CC 授權的標示義務缺口，不是連結
+                # 數對不上而已。把 zh 有而譯文沒有的整組 `[標籤](網址)` 補到圖說
+                # 末尾——只增不改，一個字的譯文都不動；插進句子中間才需要判斷，
+                # 接在尾端不需要。
+                missing = [u for u in zh_urls if u not in tr_urls]
+                zh_links = dict(re.findall(r"\[([^\]]*)\]\(\s*<?([^)>\s]+)", zh_line))
+                add = []
+                for url in missing:
+                    label = next((k for k, v in zh_links.items() if v == url), "來源")
+                    add.append(f"[{label}]({url})")
+                if add:
+                    stripped = line.rstrip()
+                    tail = "_" if stripped.endswith("_") else ""
+                    core = stripped[:-1].rstrip() if tail else stripped
+                    line = f"{core} {' '.join(add)}{tail}"
+                    cap_restored += len(add)
+            else:
+                skipped.append(("圖說", f"譯文連結比原稿多，不動（zh={len(zh_urls)} 譯文={len(tr_urls)}）"))
+                continue
+            tr_lines[i] = line + "\n"
     elif zh_caps and len(zh_caps) != len(tr_idx):
         skipped.append(("圖說", f"圖說行數不同 zh={len(zh_caps)} 譯文={len(tr_idx)}，位置對應不可靠"))
 
