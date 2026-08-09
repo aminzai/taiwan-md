@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T12:57:36+08:00",
-    "zhCommitHead": "bb871da7d",
+    "lastUpdated": "2026-08-09T13:00:56+08:00",
+    "zhCommitHead": "72e502b26",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 551,
+        "fresh": 552,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 329,
+        "missing": 328,
         "orphan": 0
       },
       "pt": {
@@ -33021,8 +33021,8 @@
           "sourceContentHash": "sha256:879eb268c7fce9b0",
           "sourceBodyHash": "sha256:a5c8010bb09051a0",
           "translatedAt": "2026-08-09T00:41:34.480234+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "72e502b2",
+          "translationLastModified": "2026-08-09T12:57:36+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -54077,8 +54077,8 @@
           "sourceContentHash": "sha256:74ac37cae326eaa1",
           "sourceBodyHash": "sha256:9c1e23df6047812e",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "72e502b2",
+          "translationLastModified": "2026-08-09T12:57:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -56202,7 +56202,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/taiwanese-leopard-cat-conservation.md",
+          "translatedFrom": "Nature/台灣石虎保育.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bbca77501c197a81",
+          "sourceBodyHash": "sha256:76487fd0d26564e6",
+          "translatedAt": "2026-08-09T08:01:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/taiwanese-leopard-cat-conservation.md",
