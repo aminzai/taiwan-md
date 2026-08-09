@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-10 twmd-feedback-triage — formatter-vs-generator-quote-churn-fakes-scope-alarm：產生器與格式化器對同一份檔案的寫法不同調，讓範圍閘門在下一次 commit 喊假警報
+
+- **pattern**: `formatter-vs-generator-quote-churn-fakes-scope-alarm`
+- **原則**：一支產生器寫出檔案、pre-commit 的格式化器立刻把它改寫成另一種等價寫法時，commit 本身是乾淨的（HEAD 與工作樹一致），但 lint-staged 還原後**索引留著格式化前的 blob**。同一個 session 若還有第二次 commit，`verify-commit-scope.sh` 會把這些幽靈條目算進範圍，喊出 `SCOPE MISMATCH — 疑似 cross-session 污染`。警報的字面意思（別的 session 在污染索引）跟真實根因（自家兩支工具對引號的偏好不同）完全無關，而**這道閘門正是為了偵測真污染而存在**——它每次有件的 cycle 都會叫一次，久了就會被當成噪音揮手放過。
+- **觸發**：2026-08-10 本 cycle。`buildArchiveRecord()` 對讀者可控的三個欄位（`contributor` / `article_slug` / `source_url` / `issue_url`）刻意用雙引號，因為 `fm()` 只把 `"` 換成 `'`、不跳脫 `'`——雙引號是那層跳脫保證的一部分。prettier 在 lint-staged 階段把它們正規化成單引號，於是 archive 檔在 commit 後呈現 `MM` 狀態，第二次（memory）commit 前的範圍驗證報 4 檔 ≠ 預期 2 檔。實際查證：HEAD 與工作樹皆為單引號且內容相同，索引才是舊的；`git restore --staged` 即解。
+- **不要直接把產生器改成單引號**：那會拆掉 `fm()` 的跳脫保證（讀者名含 `'` 時 YAML 會壞，且 display_name 是不可信輸入）。可行方向是把 `docs/feedback/archive/` 放進 `.prettierignore`，或讓產生器輸出與 prettier 正規化結果一致的形式後補上單引號跳脫。**需要動到不可信輸入的跳脫語意，不適合 cron 無人時段自行拍板。**
+- **可能層級**：通用——任何「產生器寫檔 + formatter 在 pre-commit 改寫 + 同 session 多次 commit」的組合都會長出來，不限 feedback 這條線。
+- **相關**：REFLEXES #52（免疫層沒在 fail loud 比缺免疫層更危險——這裡是反面：閘門在 fail loud，但叫的是假的）、REFLEXES #38（混維度：`SCOPE MISMATCH` 一個紅燈同時代表「跨 session 污染」與「自家 formatter churn」兩種根因）、2026-08-09 twmd-weekly-report-sun「每天被人工推翻的假警報是注意力層的靜默債」
+- **verification_count**: 1
+- **severity**: moderate（不損資料，但持續消耗一道 structural 閘門的可信度；隊列空了九天才首次浮現，往後每個有件的 cycle 都會複現）
+
 ### 2026-08-09 twmd-routine-audit-weekly — gate-triggers-content-degradation-incentive：閘門判準不夠準時，agent 會改內容換綠燈，損害大於閘門要防的問題
 
 - **pattern**: `gate-triggers-content-degradation-incentive`
