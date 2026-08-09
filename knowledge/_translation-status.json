@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T05:57:07+08:00",
-    "zhCommitHead": "b1528cf66",
+    "lastUpdated": "2026-08-10T06:11:54+08:00",
+    "zhCommitHead": "cfe1797e6",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -75,18 +75,18 @@
       },
       "pt": {
         "total_zh": 891,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 9,
         "metadata_stale": 3,
-        "missing": 48,
+        "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 891,
         "fresh": 653,
-        "stale": 0,
+        "stale": 1,
         "metadata_stale": 3,
-        "missing": 235,
+        "missing": 234,
         "orphan": 0
       },
       "ar": {
@@ -50249,8 +50249,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "adb1c3bc",
+          "translationLastModified": "2026-08-10T05:57:07+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -98633,7 +98633,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/international-brand-localization-taiwan.md",
+          "translatedFrom": "Food/國際品牌在地化.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:9939199675a5453a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T21:49:30.749212+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ar": {
           "status": "missing"
@@ -117506,8 +117517,8 @@
           "sourceContentHash": "sha256:a74434c8289b52c5",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T21:05:16.277525+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "adb1c3bc",
+          "translationLastModified": "2026-08-10T05:57:07+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -127715,7 +127726,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/shopping-design.md",
+          "translatedFrom": "Culture/Shopping Design.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:31b89b73d6abd610",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T21:37:40.600279+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/shopping-design.md",
