@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-09T09:45:23+08:00",
-    "zhCommitHead": "ff0eb9704",
+    "lastUpdated": "2026-08-09T09:49:39+08:00",
+    "zhCommitHead": "973a62aaa",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -35,9 +35,9 @@
       },
       "ko": {
         "total_zh": 891,
-        "fresh": 840,
+        "fresh": 841,
         "stale": 13,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 21,
         "orphan": 0
       },
@@ -59,8 +59,8 @@
       },
       "vi": {
         "total_zh": 891,
-        "fresh": 437,
-        "stale": 44,
+        "fresh": 448,
+        "stale": 33,
         "metadata_stale": 71,
         "missing": 339,
         "orphan": 0
@@ -4560,9 +4560,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (43→0)"
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/hsien-ching-chen.md",
@@ -4855,9 +4855,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (20→0)"
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -4986,9 +4986,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (56→0)"
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -16763,8 +16763,8 @@
           "sourceContentHash": "sha256:6c1de6e7d125ff24",
           "sourceBodyHash": "sha256:fa56609bf3ed1f63",
           "translatedAt": "2026-08-09T00:06:19.946259+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "973a62aa",
+          "translationLastModified": "2026-08-09T09:45:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -22338,9 +22338,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (36→0)"
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -32296,8 +32296,8 @@
           "sourceContentHash": "sha256:879eb268c7fce9b0",
           "sourceBodyHash": "sha256:a5c8010bb09051a0",
           "translatedAt": "2026-08-09T00:01:49.821219+00:00",
-          "translationLastCommit": "15073a21",
-          "translationLastModified": "2026-07-30T23:35:43+08:00",
+          "translationLastCommit": "973a62aa",
+          "translationLastModified": "2026-08-09T09:45:24+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -35697,9 +35697,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (43→0)"
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -38412,9 +38412,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (41→0)"
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -40531,9 +40531,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (34→0)"
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -45011,9 +45011,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (38→0)"
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -45751,8 +45751,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "973a62aa",
+          "translationLastModified": "2026-08-09T09:45:24+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -49470,9 +49470,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -70649,9 +70649,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (51→0)"
+          "footnoteDefs": 51,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lu-guan-wei-junyiacademy-founder.md",
@@ -77538,9 +77538,9 @@
           "translationLastCommit": "f1eab97b",
           "translationLastModified": "2026-07-25T03:45:12+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (30→0)"
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -118967,18 +118967,16 @@
         "ko": {
           "path": "ko/Geography/kinmen-county.md",
           "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-26T03:41:20+08:00",
+          "translatedAt": "2026-08-09T08:39:37+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/kinmen-county.md",
@@ -118987,8 +118985,8 @@
           "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
           "translatedAt": "2026-08-09T08:39:36+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "973a62aa",
+          "translationLastModified": "2026-08-09T09:45:24+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -129387,8 +129385,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-08-09T08:01:31+08:00",
-          "translationLastCommit": "8c08b72c",
-          "translationLastModified": "2026-07-27T22:09:24+08:00",
+          "translationLastCommit": "973a62aa",
+          "translationLastModified": "2026-08-09T09:45:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
