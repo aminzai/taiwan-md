@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-10T02:07:10+08:00",
+ "generated_at": "2026-08-10T03:08:19+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-10T02:07:07+08:00",
+ "snapshot_ts": "2026-08-10T03:08:16+08:00",
  "total_zh": 891,
  "langs": [
   {
@@ -120,19 +120,19 @@
  "nodes": {
   "worker:nemo4": {
    "ok": 19,
-   "fail": 48,
+   "fail": 50,
    "avg_s": 342.4,
    "top_fail": [
     [
      "no output written by tra",
-     29
+     30
     ],
     [
      "verify=1 [frontmatter no",
      10
     ]
    ],
-   "last_activity": "2026-08-10T01:30:54+08:00"
+   "last_activity": "2026-08-10T02:56:31+08:00"
   },
   "worker:nemo3": {
    "ok": 17,
@@ -152,56 +152,40 @@
   },
   "worker:nemo2": {
    "ok": 26,
-   "fail": 52,
+   "fail": 54,
    "avg_s": 255.6,
    "top_fail": [
     [
      "no output written by tra",
-     30
+     32
     ],
     [
      "verify=1 [frontmatter no",
      7
     ]
    ],
-   "last_activity": "2026-08-10T02:06:30+08:00"
+   "last_activity": "2026-08-10T02:54:51+08:00"
   },
   "worker:nemo": {
    "ok": 16,
-   "fail": 43,
+   "fail": 45,
    "avg_s": 656.2,
    "top_fail": [
     [
      "no output written by tra",
-     26
+     28
     ],
     [
      "verify=1 [frontmatter no",
      8
     ]
    ],
-   "last_activity": "2026-08-10T00:46:17+08:00"
+   "last_activity": "2026-08-10T03:04:10+08:00"
   },
   "worker:macm4max": {
    "ok": 67,
-   "fail": 94,
+   "fail": 98,
    "avg_s": 79.6,
-   "top_fail": [
-    [
-     "no output written by tra",
-     55
-    ],
-    [
-     "patch candidate rejected",
-     16
-    ]
-   ],
-   "last_activity": "2026-08-10T02:05:35+08:00"
-  },
-  "worker:desktop3090": {
-   "ok": 29,
-   "fail": 85,
-   "avg_s": 73.2,
    "top_fail": [
     [
      "no output written by tra",
@@ -209,10 +193,26 @@
     ],
     [
      "patch candidate rejected",
+     16
+    ]
+   ],
+   "last_activity": "2026-08-10T03:04:33+08:00"
+  },
+  "worker:desktop3090": {
+   "ok": 29,
+   "fail": 90,
+   "avg_s": 73.2,
+   "top_fail": [
+    [
+     "no output written by tra",
+     63
+    ],
+    [
+     "patch candidate rejected",
      14
     ]
    ],
-   "last_activity": "2026-08-10T01:57:35+08:00"
+   "last_activity": "2026-08-10T02:57:11+08:00"
   },
   "endpoint:local": {
    "alive": true
@@ -234,39 +234,19 @@
   {
    "kind": "unified",
    "pid": "10684",
-   "uptime": "18:05:48",
+   "uptime": "19:06:57",
    "langs": "en,es,fr,ko",
    "workers": 2
   },
   {
    "kind": "unified",
    "pid": "10692",
-   "uptime": "18:05:48",
+   "uptime": "19:06:57",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-09T01:48:36+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:03:46+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:18:56+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:34:06+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
   {
    "ts": "2026-08-09T02:49:16+08:00",
    "fresh_total": 8045,
@@ -724,6 +704,26 @@
   },
   {
    "ts": "2026-08-10T02:07:07+08:00",
+   "fresh_total": 8524,
+   "gap_total": 1277
+  },
+  {
+   "ts": "2026-08-10T02:22:33+08:00",
+   "fresh_total": 8524,
+   "gap_total": 1277
+  },
+  {
+   "ts": "2026-08-10T02:37:44+08:00",
+   "fresh_total": 8524,
+   "gap_total": 1277
+  },
+  {
+   "ts": "2026-08-10T02:52:54+08:00",
+   "fresh_total": 8524,
+   "gap_total": 1277
+  },
+  {
+   "ts": "2026-08-10T03:08:16+08:00",
    "fresh_total": 8524,
    "gap_total": 1277
   }
