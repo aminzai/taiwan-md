@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T10:53:43+08:00",
-    "zhCommitHead": "f845ee7e8",
+    "lastUpdated": "2026-08-10T11:17:12+08:00",
+    "zhCommitHead": "6874276a6",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 568,
+        "fresh": 569,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 312,
+        "missing": 311,
         "orphan": 0
       },
       "pt": {
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 661,
+        "fresh": 664,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 226,
+        "missing": 223,
         "orphan": 0
       },
       "ar": {
@@ -6819,7 +6819,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-enterprise-chang-chun-petrochemical.md",
+          "translatedFrom": "Economy/台灣企業：長春石化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:52c5476d48498d3c",
+          "sourceBodyHash": "sha256:908aaa826fb63ea3",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-enterprise-chang-chun-petrochemical.md",
@@ -14256,7 +14267,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/books-com-tw.md",
+          "translatedFrom": "Economy/博客來.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:204a3cf0ff763d30",
+          "sourceBodyHash": "sha256:70cf0c01c1c3b9f1",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -32457,8 +32479,8 @@
           "sourceContentHash": "sha256:3a356e2fbd9898dc",
           "sourceBodyHash": "sha256:5171611c1ca72679",
           "translatedAt": "2026-08-10T09:48:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dccab47f",
+          "translationLastModified": "2026-08-10T10:53:43+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -46544,7 +46566,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/mainlanders-in-taiwan.md",
+          "translatedFrom": "Society/外省人.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:11472ed85277289a",
+          "sourceBodyHash": "sha256:78aa4d7a1743dd44",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/mainlanders-in-taiwan.md",
@@ -98698,7 +98731,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T20:34:09.503480+00:00",
+          "translatedAt": "2026-08-10T03:14:03.325000+00:00",
           "translationLastCommit": "0eedbc0d",
           "translationLastModified": "2026-08-10T04:35:27+08:00",
           "inferred": false,
@@ -115513,8 +115546,8 @@
           "sourceContentHash": "sha256:ac660158a4c72aea",
           "sourceBodyHash": "sha256:57ab1d8681d0c528",
           "translatedAt": "2026-08-09T15:02:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dccab47f",
+          "translationLastModified": "2026-08-10T10:53:43+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -131089,7 +131122,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-mandarin-evolution.md",
+          "translatedFrom": "Culture/台灣華語的演化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:201c74c4f0375352",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-10T02:54:45.666478+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"

@@ -22,9 +22,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'Art/數位荒原.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:94e9b57891092909'
-sourceBodyHash: 'sha256:15f9472d4c0b19f9'
+sourceCommitSha: 'a74c440b'
+sourceContentHash: 'sha256:f8ec8d5fb97942ca'
+sourceBodyHash: 'sha256:7bfa784449cb0cb6'
 translatedAt: '2026-06-16T17:03:25Z'
 image: '/article-images/art/nml-trial-issue-hero-2011.webp'
 imageCredit: "數位荒原 No Man's Land 試刊號封面（2011-11）"
