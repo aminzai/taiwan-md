@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-11
-last_session: '2026-08-11-053716-twmd-routine-sync（三層對賬第十八輪，18 條全 in-sync 零漂移）'
+last_session: '2026-08-11-061347-twmd-data-refresh-am（14 步全綠零 stale，Stage 1.5 rider 第三天自然執行）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-10 | 153608-manual-login-restore | 兩個登入態 P0 解除：supporters 四週空窗一次補齊（3 筆 monthly，NT$8,400）＋ 3 則積欠 reply 1 ship 2 判定不發；發現 harvest 漏掃巢狀留言層 | 感知器報「留言全貌」實際只量第一層，缺席不會在報告上留下空格 | [→](memory/2026-08-10-153608-manual-login-restore.md) |
 | 2026-08-11 | 053548-twmd-embeddings-nightly | 12 語重建 9557 向量 0 fail，跟昨夜 commit 內容逐位元相同，照規則跳過空 commit | 無 diff 是索引已追上 SSOT 的健康訊號，不是故障 | [→](memory/2026-08-11-053548-twmd-embeddings-nightly.md) |
 | 2026-08-11 | 053716-twmd-routine-sync | 三層對賬第十八輪，18 條全 in-sync 零漂移，連續第四輪；昨日兩登入態 P0 解除後 supporters Gmail 缺口項從 handoff 移除 retired | 三層一致不代表其他地方沒有待決事項，只代表這條 routine 守的縫今天沒有裂開 | [→](memory/2026-08-11-053716-twmd-routine-sync.md) |
+| 2026-08-11 | 061347-twmd-data-refresh-am | 14 步全綠零 stale；文章 889、本週新增 31；Stage 1.5 rider 第三天自然執行零提醒 | 造橋鋪路的效果從記得做變成不用記得 | [→](memory/2026-08-11-061347-twmd-data-refresh-am.md) |

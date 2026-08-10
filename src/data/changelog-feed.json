@@ -1,7 +1,126 @@
 {
-  "generatedAt": "2026-08-09T22:11:51.990Z",
+  "generatedAt": "2026-08-10T22:12:00.561Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "0d19aaba49c74f4bf426857b1e17e815734a8293",
+      "date": "2026-08-11T05:38:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-11 05:37 — 三層對賬第十八輪，18 條全 in-sync 零漂移",
+      "articles": []
+    },
+    {
+      "hash": "488b65071f3092101403fafe8ae457c9d1331acb",
+      "date": "2026-08-11T05:37:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: twmd-embeddings-nightly @ 2026-08-11 05:36 — 12 語 9557 向量 0 fail，內容不變跳過空 commit",
+      "articles": []
+    },
+    {
+      "hash": "d78f01e2fe0c4b4a22ca671e96d3ebe2e7402f92",
+      "date": "2026-08-10T15:39:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] cross-domain: 兩個登入態卡關解除，補跑時發現留言只掃得到第一層",
+      "articles": []
+    },
+    {
+      "hash": "0fa7b8dc3d7cf6bc5784da3da9c227266ccc61d4",
+      "date": "2026-08-10T15:28:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary — 早上我差點宣布一個活著的系統死了，下午我發現一篇死掉的文章其實活著",
+      "articles": []
+    },
+    {
+      "hash": "ef452b73d9cae50024d96174e415dfc3c68ac73e",
+      "date": "2026-08-10T15:22:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] supporters: 補上停擺四週的贊助紀錄，三筆全是每月定額",
+      "articles": []
+    },
+    {
+      "hash": "3efc954977f9e7e3ab6f3819ab98a69129cd25e0",
+      "date": "2026-08-10T14:49:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: mouhouse 遷移 D+17 全面健檢——飛輪全勤，修好指揮部失明的那把尺，撿回一篇困了 16 天的孤兒文章",
+      "articles": []
+    },
+    {
+      "hash": "fc75d7459af18b8e90159f6360a5662debb5a017",
+      "date": "2026-08-10T09:38:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] cross-domain: flywheel-watch 飛輪零靜默零警報，順手校掉儀器把手動工作印成 routine 的第四種假象",
+      "articles": []
+    },
+    {
+      "hash": "4eda025432366826f0a41872dccbb6509ce8c260",
+      "date": "2026-08-10T08:58:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-10 08:30 — 閘門用綠色告訴我它什麼都沒做",
+      "articles": []
+    },
+    {
+      "hash": "cd49a1be3e741404e9490970c539e0cb7f7e6efd",
+      "date": "2026-08-10T08:51:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 日文版把「台灣」寫成繁體字形，改回日文的「台湾」",
+      "articles": []
+    },
+    {
+      "hash": "15dcf8ac0bf575ba0df4005635cf648623053dd2",
+      "date": "2026-08-10T08:49:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 中文檔名讓 frontmatter 閘門整條沒跑，綠燈的意思其實是「我什麼都沒驗」",
+      "articles": []
+    },
+    {
+      "hash": "422e6b2f47834a613e0edad9f1568239d2de901b",
+      "date": "2026-08-10T08:45:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1305 from stantheman0128/fix/seo-meta-lang-scope-config",
+      "articles": []
+    },
+    {
+      "hash": "b452c2d864a94b66f8857b6b1198f524a9335c9b",
+      "date": "2026-08-10T07:16:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-10 07:11 — 九天空隊列後兩則日文字形回報，兩道對賬全綠",
+      "articles": []
+    },
+    {
+      "hash": "cc5775abd0966a85b3938cb8dc5bdbf126d06d2c",
+      "date": "2026-08-10T07:11:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 九天空隊列後收到兩則日文版字形回報，開成 issue #1306 #1307",
+      "articles": []
+    },
+    {
+      "hash": "4ffeb7e766aa1e41ae8ad7be286984203a2e8340",
+      "date": "2026-08-10T06:41:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-10 06:40 — D+6 harvest，黃崇仁孢子三讀精確持平正式判定生命週期結束",
+      "articles": []
+    },
+    {
+      "hash": "e27a1f79e4177626da37912ac6dc83aaf1a96186",
+      "date": "2026-08-10T06:39:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: D+6 harvest 黃崇仁+EZWAY 兩批孢子 — 2026-08-10",
+      "articles": []
+    },
+    {
+      "hash": "1503bfa9c26bd8d7862529d13328b27bbf87c624",
+      "date": "2026-08-10T06:14:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-10 06:13 — 14 步全綠零 stale，Stage 1.5 rider 第二天自然執行",
+      "articles": []
+    },
+    {
+      "hash": "315ea37dddd56f495aa1569ec3621cd7be569dc0",
+      "date": "2026-08-10T06:12:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 889、本週新增 32",
+      "articles": []
+    },
     {
       "hash": "cb3db2cd6197a89bbf27225935ac9044cc33da19",
       "date": "2026-08-10T05:37:56+08:00",
@@ -21,6 +140,13 @@
       "date": "2026-08-10T05:35:39+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-10 05:37",
+      "articles": []
+    },
+    {
+      "hash": "36806d40d214b67a8838af106c6e356f49bbfa7d",
+      "date": "2026-08-10T03:12:43+08:00",
+      "author": "stantheman0128",
+      "message": "refactor(article-health): one source for a check's language scope",
       "articles": []
     },
     {
