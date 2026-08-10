@@ -386,7 +386,11 @@ def main():
         print(f"  commit 總數 {len(lines)}，其中 [routine] 標記 {len(routine_commits)} 筆")
         if fired:
             print(f"  有動靜（commit 標記）：{', '.join(sorted(fired))}")
-        only_logged = sorted(logged - fired)
+        # 只印排程表裡真的有的 routine：第二把尺讀的是 MEMORY 索引列的 handle，
+        # 手動 session（如 `212609-vi-delegation-wave`）也會被補上 `twmd-` 前綴，
+        # 印出來會讓讀者以為排程表裡有一條叫 twmd-vi-delegation-wave 的 routine。
+        # 靜默判定本來就只走 enabled，這裡只收窄顯示面，不動判定（2026-08-10 校準第四種）。
+        only_logged = sorted((logged - fired) & set(enabled))
         if only_logged:
             print(f"  有動靜（只留收官索引）：{', '.join(only_logged)}")
         if silent:
