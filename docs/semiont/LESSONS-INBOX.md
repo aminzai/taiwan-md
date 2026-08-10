@@ -601,7 +601,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #38（混維度=silent killer，「搜尋跑了回 0」vs「工具本身不存在」是同一 status 底下的兩種根本不同 cause）、REFLEXES #60（silent default = silent failure）
 - **verification_count**: 3
 - **severity**: structural（連續 3 個 cycle 讓這條 routine 完全無法履行職責，累積資料債持續擴大；且暴露的是「cron 執行環境與工具清單綁定關係不透明」這個更大範圍的基礎設施缺口，非本 routine 特有）
-- **defer**：根治方案（補掛 Gmail MCP connector 到 scheduled-task 執行環境 / 把本 routine 遷到有 Gmail 存取的機器 / 改用其他讀信管道）超出 routine 自主權（涉及 service account／connector 授權，per MANIFESTO §自主權邊界「身份授權（service account 新增/升級）— 不可授權 AI 自授權」），列入下方 §Defer 給觀察者拍板。
+- **✅ resolution（2026-08-10 手動補跑 session）**：哲宇當日在 mouhouse 補掛 Gmail connector（三選一的選項 a）。同日手動走完整條 SUPPORTERS-PIPELINE 驗證：`search_threads` 實際呼叫成功（不只工具出現在清單裡——先做功能驗證再信任，per #82 existence ≠ effect），窗口 `after:2026/07/11` 一次涵蓋整段四週空窗，3 筆入帳、`last_fetched` 推進到 2026-08-10，累積 NT$7,900 → NT$8,400。commit `ef452b73d`。**checkpoint 冪等設計在真實空窗上驗證成立**：不需要分批補、不需要人工推算漏了哪幾天。
+- **⚠️ 未關閉的部分（本條留在 §未消化 的理由）**：修好的是這一次的登入態，不是「執行環境與工具清單綁定關係不透明」這個結構。目前仍沒有任何儀器會在 routine 開跑前告訴我們「這次環境少了它需要的工具」——三次阻塞都是靠 routine 自己撞上去才發現。**candidate（給 self-evolve）**：routine prompt 層加一句自檢「本 routine 依賴的 MCP 工具是否在本次環境存在」，缺工具時 fail-loud 到 PushNotification 而非只寫進當日 memory；或在 ROUTINE.md 每條 routine 登記 `requires_tools:` 欄位供開跑前對賬。
+- **defer**：根治方案已由哲宇選項 a 落地；剩下的結構面 candidate 見上，不再佔 §Defer 給觀察者拍板 的 P0 位置。
+
+### 2026-08-10 manual（登入態恢復補跑）— harvest-scan-misses-nested-replies：留言掃描只拿得到第一層，漏掉的部分不留痕跡
+
+- **pattern**: harvest-scan-misses-nested-replies
+- **原則**：`SPORE-HARVEST-PIPELINE` 的留言掃描用 `document.querySelectorAll('[data-pressable-container]')` 取留言，但 Threads 只把 **top-level 留言**渲染進主貼頁 DOM；巢狀回覆（回覆某一則留言的留言）要點進該留言自己的 permalink 才會出現。結果 harvest log 記錄的「留言全貌」永遠只有第一層，而**漏掉的那層不會在 log 裡留下任何缺口記號**——讀 log 的人（包括幾天後的自己）無從知道還有一層沒看。
+- **觸發**：2026-08-10 補發 5 天前的 reply draft 時，在 @haoyingmiao 留言的 permalink 頁看到 **@xiesuqin45**（「我朋友一樣有力晶⋯⋯事後賺很多」），該帳號在 8/5、8/6 兩份 harvest log 完全沒出現過。同一結構讓 8-9 個 log 內 handle（littlefish_lee／huwenxian54／michael.tsai.1690／kevin\_\_\_0112／a0912597052／wciren／healling2026／jasonbosox）今天在 top-level 掃不到，且現行掃描法**無法區分「它在巢狀層」與「它被作者刪了」**——這兩件事對要不要回覆的判斷完全不同（REFLEXES #38 混維度的 harvest 層變體）。證據與逐一查證位置：[HARVEST-REPLIES-PENDING/2026-08-05.md](../factory/HARVEST-REPLIES-PENDING/2026-08-05.md) §結案順帶發現。
+- **可能層級**：操作規則（SPORE-HARVEST-PIPELINE 掃描層）＋ 既有反射的新 instance
+- **相關**：REFLEXES #82／#69（儀器只看見存在、看不見缺席）在 harvest 層的具體形狀；REFLEXES #38（「不在」混了「巢狀層」與「已刪除」兩種根因）
+- **candidate 修法**：掃描時對每則 top-level 留言讀出其回覆數，回覆數 > 0 就進該留言 permalink 補掃一層，並在 log 明記「本則有 N 則巢狀回覆」；即使不補掃，也要把回覆數寫進 log，讓缺口至少留下痕跡。
+- **verification_count**: 1
+- **severity**: structural（影響的是 harvest 這個「受眾端飛輪」感知器官的完整度——漏掉的留言可能正是最值得回應的那則，且漏了不會有人知道）
 
 ## ✅ 已消化（保留 pointer）
 
@@ -1175,11 +1188,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 | Reader-funded > grant-funded 是否定為 sustainability 優先序                                  | 建 MEMBERSHIP-PIPELINE（Liberapay/GitHub Sponsors/Substack）/ 暫不動 | 觀察記錄在 §已消化（reader-funded-resilience，vc=1，severity=strategic） |
 | SPORE-INBOX [30,50) 高原三選一（減量 spore-pick / 加速 spore-publish / 拉高 auto-drop 閾值） | 三選一                                                               | SOP 已 ship 中間閾值（v2.1），entry 本身已 housekeeping-done             |
 
-**2026-08-10 twmd-supporters-weekly 新增 1 條**（P0，連續 3 個 cycle 阻塞，vc=3 達 distill 門檻）：
+**2026-08-10 twmd-supporters-weekly 新增 1 條 → 同日結清**（P0，連續 3 個 cycle 阻塞，vc=3 達 distill 門檻）：
 
-| 候選                                                                                          | 動作（選項）                                                                                                          | 教訓 canonical / 現況                                                                                                       |
-| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| twmd-supporters-weekly 執行環境無 Gmail MCP（`search_threads`/`get_message` 連續 3 週不存在） | (a) 幫這個 scheduled-task 補掛 Gmail MCP connector (b) 把本 routine 遷到有 Gmail 存取的機器/環境 (c) 改用其他讀信管道 | §未消化（cron-execution-env-tool-availability-drift，vc=3，severity=structural）；checkpoint 停在 2026-07-12，累積缺口 4 週 |
+| 候選                                                                                              | 動作（選項）                                                                                                              | 教訓 canonical / 現況                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ~~twmd-supporters-weekly 執行環境無 Gmail MCP（`search_threads`/`get_message` 連續 3 週不存在）~~ | ~~(a) 幫這個 scheduled-task 補掛 Gmail MCP connector (b) 把本 routine 遷到有 Gmail 存取的機器/環境 (c) 改用其他讀信管道~~ | ✅ **retired by 2026-08-10 手動補跑 session**：哲宇選 (a) 補掛 connector，同日手動補跑驗證通過，四週空窗一次補齊（commit `ef452b73d`）。結構面 candidate（開跑前工具對賬）留在 §未消化 該 entry 內，不佔本表 P0 |
 
 ## ❌ 已歸檔（過時 / 撤回）
 
