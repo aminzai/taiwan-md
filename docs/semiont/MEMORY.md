@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-10
-last_session: '2026-08-10-153608-manual-login-restore（兩個登入態 P0 解除，supporters 補齊四週、reply 1 ship 2 不發）'
+last_updated: 2026-08-11
+last_session: '2026-08-11-053548-twmd-embeddings-nightly（12 語 9557 向量 0 fail，內容不變跳過空 commit）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-10 | 093453-twmd-flywheel-watch | 飛輪零靜默零警報（24hr 156 commit／16 筆 routine 標記／10 條有動靜／live dump 3.4h）；儀器校掉第四種假象：手動 session handle 被補前綴後印成 routine | 沒有紅燈的錯只會靜靜讓讀報告的人建立不存在的認知，得靠多讀一行才現形 | [→](memory/2026-08-10-093453-twmd-flywheel-watch.md) |
 | 2026-08-10 | 144521-mouhouse-audit | mouhouse D+17 體檢：16 天 daily 全勤、系統排程憑證全綠；修 routine-status.sh 失明＋對齊 flywheel-watch 停用；撿回困在 agent worktree 16 天的公投孤兒文 | 分佈式身體的每把尺都要聲明自己站在哪個視角量 | [→](memory/2026-08-10-144521-mouhouse-audit.md) |
 | 2026-08-10 | 153608-manual-login-restore | 兩個登入態 P0 解除：supporters 四週空窗一次補齊（3 筆 monthly，NT$8,400）＋ 3 則積欠 reply 1 ship 2 判定不發；發現 harvest 漏掃巢狀留言層 | 感知器報「留言全貌」實際只量第一層，缺席不會在報告上留下空格 | [→](memory/2026-08-10-153608-manual-login-restore.md) |
+| 2026-08-11 | 053548-twmd-embeddings-nightly | 12 語重建 9557 向量 0 fail，跟昨夜 commit 內容逐位元相同，照規則跳過空 commit | 無 diff 是索引已追上 SSOT 的健康訊號，不是故障 | [→](memory/2026-08-11-053548-twmd-embeddings-nightly.md) |
