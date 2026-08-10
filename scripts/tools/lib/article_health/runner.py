@@ -14,6 +14,26 @@ from .types import (
 )
 
 
+def resolve_applies_to(
+    mod: Any,
+    config: Config,
+    profile: ProfileConfig | None,
+) -> list[str]:
+    """這支 check 要跑哪些語言 —— 語言範圍的唯一解析點。
+
+    優先序：profile 的 options_override > checks.<name>.options > 模組常數 > ["*"]。
+    沒有任何 config 時回傳模組自己宣告的 APPLIES_TO，所以預設行為不變。
+
+    語言範圍原本寫死在模組常數裡，同一份清單又在各 check 的路徑排除函式裡抄一次
+    （issue #1264 的「兩道尺」）。放到 config 之後，要放寬或依 profile 分流是設定
+    改動而不是程式改動，也不必再動兩個地方。
+    """
+    override = _resolve_options(config, profile, mod.CHECK_NAME).get("applies_to")
+    if override is not None:
+        return list(override)
+    return list(getattr(mod, "APPLIES_TO", ["*"]))
+
+
 def _select_checks(
     profile: ProfileConfig | None,
     config: Config,
@@ -30,8 +50,8 @@ def _select_checks(
 
     selected = []
     for mod in candidates:
-        # Respect APPLIES_TO lang filter
-        applies = getattr(mod, "APPLIES_TO", ["*"])
+        # Respect APPLIES_TO lang filter (config-overridable, single resolution point)
+        applies = resolve_applies_to(mod, config, profile)
         if "*" not in applies and target.lang not in applies:
             continue
         # Respect global checks.X.enabled
