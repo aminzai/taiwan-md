@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T11:21:57+08:00",
-    "zhCommitHead": "4e571d978",
+    "lastUpdated": "2026-08-10T11:46:54+08:00",
+    "zhCommitHead": "8893ccf79",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,8 +19,8 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 850,
-        "stale": 24,
+        "fresh": 851,
+        "stale": 23,
         "metadata_stale": 6,
         "missing": 11,
         "orphan": 0
@@ -51,9 +51,9 @@
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 856,
+        "fresh": 858,
         "stale": 20,
-        "metadata_stale": 8,
+        "metadata_stale": 6,
         "missing": 7,
         "orphan": 0
       },
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 570,
+        "fresh": 573,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 310,
+        "missing": 307,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 665,
+        "fresh": 667,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 222,
+        "missing": 220,
         "orphan": 0
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 745,
+        "fresh": 746,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 779,
+        "fresh": 780,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 107,
+        "missing": 106,
         "orphan": 0
       }
     },
@@ -10480,8 +10480,8 @@
           "sourceContentHash": "sha256:9985c51170111ca8",
           "sourceBodyHash": "sha256:a06f7b884fa31776",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8893ccf7",
+          "translationLastModified": "2026-08-10T11:21:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -14298,8 +14298,8 @@
           "sourceContentHash": "sha256:204a3cf0ff763d30",
           "sourceBodyHash": "sha256:70cf0c01c1c3b9f1",
           "translatedAt": "2026-08-10T09:48:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8893ccf7",
+          "translationLastModified": "2026-08-10T11:21:57+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -17369,16 +17369,16 @@
         "en": {
           "path": "en/Technology/taiwan-disaster-medicine-system.md",
           "translatedFrom": "Technology/台灣災難醫療體系.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:bdad2fe4c19ade1d",
-          "sourceBodyHash": "sha256:65d8bf2fc8ebb567",
-          "translatedAt": "2026-05-16T22:19:17Z",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:6c1de6e7d125ff24",
+          "sourceBodyHash": "sha256:fa56609bf3ed1f63",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-disaster-medicine-system.md",
@@ -40115,7 +40115,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/earthquakes-in-taiwan.md",
+          "translatedFrom": "Society/地震.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb48495c8ad7ee41",
+          "sourceBodyHash": "sha256:58b5b912b5042f24",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/earthquakes-in-taiwan.md",
@@ -48729,7 +48740,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/human-rights-and-gender-equality.md",
+          "translatedFrom": "Society/人權與性別平等.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:ce71eb5f023bad23",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-10T03:33:48.163089+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/human-rights-and-gender-equality.md",
@@ -49321,7 +49343,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwans-labeling-in-international-standards.md",
+          "translatedFrom": "Society/台灣在國際標準中的標示問題.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:5aa5d3ad7e4d012f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-10T03:40:22.494148+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwans-labeling-in-international-standards.md",
@@ -53223,7 +53256,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/taiwan-pangolin.md",
+          "translatedFrom": "Nature/台灣穿山甲.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:bc4a8eee501f028c",
+          "sourceBodyHash": "sha256:059668decdeffa13",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/taiwan-pangolin.md",
@@ -57406,7 +57450,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Nature/palakaw.md",
+          "translatedFrom": "Nature/Palakaw.md",
+          "sourceCommitSha": "4777e2548",
+          "sourceContentHash": "sha256:76692c261ac4ee59",
+          "sourceBodyHash": "sha256:7ec5f5cc7b44e03c",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/palakaw.md",
@@ -61379,7 +61434,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/huang-brothers-youtubers.md",
+          "translatedFrom": "People/黃氏兄弟.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:9cd24907e804d8a5",
+          "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
+          "translatedAt": "2026-08-10T09:48:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -66177,7 +66243,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/takeshi-kaneshiro.md",
+          "translatedFrom": "People/金城武.md",
+          "sourceCommitSha": "98251c6e6",
+          "sourceContentHash": "sha256:55178af9281f4694",
+          "sourceBodyHash": "sha256:17690ed615ebe1ca",
+          "translatedAt": "2026-08-10T09:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/takeshi-kaneshiro.md",
@@ -106713,18 +106790,16 @@
         "fr": {
           "path": "fr/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "59abe705e",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:3c85e554c80495b9",
           "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-06-26T00:38:47+08:00",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "5bc8a207",
           "translationLastModified": "2026-06-26T00:56:22+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/ponlai-rice.md",
@@ -133732,18 +133807,16 @@
         "fr": {
           "path": "fr/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-26T13:23:37+08:00",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "8c08b72c",
           "translationLastModified": "2026-07-27T22:09:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/taiwan-prime-time-drama.md",
