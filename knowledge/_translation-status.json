@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T09:48:08+08:00",
-    "zhCommitHead": "ff1fc0217",
+    "lastUpdated": "2026-08-10T10:53:43+08:00",
+    "zhCommitHead": "f845ee7e8",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,41 +19,41 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 848,
+        "fresh": 849,
         "stale": 24,
-        "metadata_stale": 7,
+        "metadata_stale": 6,
         "missing": 12,
         "orphan": 0
       },
       "ja": {
         "total_zh": 891,
-        "fresh": 854,
+        "fresh": 855,
         "stale": 16,
         "metadata_stale": 8,
-        "missing": 13,
+        "missing": 12,
         "orphan": 0
       },
       "ko": {
         "total_zh": 891,
-        "fresh": 865,
-        "stale": 14,
-        "metadata_stale": 6,
+        "fresh": 867,
+        "stale": 13,
+        "metadata_stale": 5,
         "missing": 6,
         "orphan": 0
       },
       "es": {
         "total_zh": 891,
-        "fresh": 856,
+        "fresh": 857,
         "stale": 19,
-        "metadata_stale": 8,
+        "metadata_stale": 7,
         "missing": 8,
         "orphan": 0
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 854,
+        "fresh": 855,
         "stale": 20,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 7,
         "orphan": 0
       },
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 567,
+        "fresh": 568,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 313,
+        "missing": 312,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 108,
+        "missing": 107,
         "orphan": 0
       }
     },
@@ -10472,8 +10472,8 @@
           "sourceContentHash": "sha256:9985c51170111ca8",
           "sourceBodyHash": "sha256:a06f7b884fa31776",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "90a43e7f",
+          "translationLastModified": "2026-08-10T09:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -14158,7 +14158,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/books-com-tw.md",
+          "translatedFrom": "Economy/博客來.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:5bead514abf0635b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-10T02:07:09.674130+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/books-com-tw.md",
@@ -32440,7 +32451,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/nightlife-and-ktv-culture.md",
+          "translatedFrom": "Lifestyle/夜生活與KTV文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3a356e2fbd9898dc",
+          "sourceBodyHash": "sha256:5171611c1ca72679",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/nightlife-and-ktv-culture.md",
@@ -44220,18 +44242,16 @@
         "ko": {
           "path": "ko/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-07-14T16:49:48Z",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-08-10T07:13:02+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-public-health-epidemic-response.md",
@@ -84723,8 +84743,8 @@
           "sourceContentHash": "sha256:ef77f1a4a4a50fce",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T22:56:54.504394+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "90a43e7f",
+          "translationLastModified": "2026-08-10T09:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -88015,7 +88035,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/yung-ching-wang-formosa-plastics-founder.md",
+          "translatedFrom": "People/王永慶.md",
+          "sourceCommitSha": "1e180a591",
+          "sourceContentHash": "sha256:09b83ca512f814fd",
+          "sourceBodyHash": "sha256:2035945bf29ced7a",
+          "translatedAt": "2026-08-10T09:48:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98695,7 +98726,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T17:25:56.434545+00:00",
+          "translatedAt": "2026-08-10T02:05:26.884442+00:00",
           "translationLastCommit": "c69cd260",
           "translationLastModified": "2026-08-10T01:58:03+08:00",
           "inferred": false,
@@ -98786,8 +98817,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T23:49:55.010738+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "90a43e7f",
+          "translationLastModified": "2026-08-10T09:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -101462,8 +101493,8 @@
           "sourceContentHash": "sha256:e1b77b1bcfa11b48",
           "sourceBodyHash": "sha256:8824b980fb94339c",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "90a43e7f",
+          "translationLastModified": "2026-08-10T09:48:09+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -106591,18 +106622,16 @@
         "es": {
           "path": "es/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "59abe705e",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:3c85e554c80495b9",
           "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-06-26T00:38:47+08:00",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "5bc8a207",
           "translationLastModified": "2026-06-26T00:56:22+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/ponlai-rice.md",
@@ -106881,18 +106910,16 @@
         "en": {
           "path": "en/History/yingge-ceramics-old-street.md",
           "translatedFrom": "History/鶯歌陶瓷老街.md",
-          "sourceCommitSha": "1a3708b1e",
-          "sourceContentHash": "sha256:6023f24cf4042189",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
-          "translatedAt": "2026-07-06T00:39:48+08:00",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "b4fa7ea4",
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ja": {
           "path": "ja/History/yingge-ceramics-old-street.md",
@@ -114487,18 +114514,16 @@
         "ko": {
           "path": "ko/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8",
-          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
-          "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:f212b82c110bd5ef",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-10T02:11:23.007433+00:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/disney-and-taiwan.md",
@@ -121515,18 +121540,16 @@
         "fr": {
           "path": "fr/Geography/taiwan-coastal-landforms-and-seascapes.md",
           "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
-          "sourceCommitSha": "e14a1529",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
-          "translatedAt": "2026-05-16T22:36:54Z",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taiwan-coastal-landforms-and-seascapes.md",
