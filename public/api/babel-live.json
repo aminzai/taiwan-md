@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-10T15:12:45+08:00",
+ "generated_at": "2026-08-10T17:12:11+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-10T15:12:42+08:00",
+ "snapshot_ts": "2026-08-10T17:12:08+08:00",
  "total_zh": 891,
  "langs": [
   {
@@ -108,13 +108,13 @@
  "gap_delta": 0,
  "rate_1h": {
   "delta": 0,
-  "span_h": 1.03,
+  "span_h": 1.23,
   "per_hour": 0.0
  },
  "rate_24h": {
-  "delta": 174,
-  "span_h": 24.04,
-  "per_hour": 7.2
+  "delta": 142,
+  "span_h": 24.24,
+  "per_hour": 5.9
  },
  "eta_days": null,
  "nodes": {
@@ -136,31 +136,6 @@
  },
  "dispatchers": [],
  "history": [
-  {
-   "ts": "2026-08-09T14:24:34+08:00",
-   "fresh_total": 8397,
-   "gap_total": 1404
-  },
-  {
-   "ts": "2026-08-09T14:39:57+08:00",
-   "fresh_total": 8401,
-   "gap_total": 1400
-  },
-  {
-   "ts": "2026-08-09T14:55:08+08:00",
-   "fresh_total": 8428,
-   "gap_total": 1373
-  },
-  {
-   "ts": "2026-08-09T15:10:20+08:00",
-   "fresh_total": 8428,
-   "gap_total": 1373
-  },
-  {
-   "ts": "2026-08-09T15:25:34+08:00",
-   "fresh_total": 8431,
-   "gap_total": 1370
-  },
   {
    "ts": "2026-08-09T15:40:49+08:00",
    "fresh_total": 8433,
@@ -613,6 +588,31 @@
   },
   {
    "ts": "2026-08-10T15:12:42+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1199
+  },
+  {
+   "ts": "2026-08-10T15:27:52+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1199
+  },
+  {
+   "ts": "2026-08-10T15:43:02+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1199
+  },
+  {
+   "ts": "2026-08-10T15:58:12+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1199
+  },
+  {
+   "ts": "2026-08-10T16:56:56+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1199
+  },
+  {
+   "ts": "2026-08-10T17:12:08+08:00",
    "fresh_total": 8602,
    "gap_total": 1199
   }
