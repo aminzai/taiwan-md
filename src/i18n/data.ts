@@ -513,7 +513,7 @@ export const dataUI = {
     'data.company.formosa-petrochemical': '台塑化',
     'data.company.mega-financial': '兆豐金融持株',
     'data.company.china-steel': '中鋼',
-    'data.company.taiwan-mobile': '台灣大哥大',
+    'data.company.taiwan-mobile': '台湾大哥大',
     'data.company.realtek': 'Realtek 瑞昱',
     'data.company.advantech': 'Advantech 研華',
     'data.company.formosa-plastics': '台塑',
@@ -535,7 +535,7 @@ export const dataUI = {
     'data.company.lite-on-technology': '光寶科技',
     'data.company.taiwan-cooperative-bank': '合庫金融持株',
     'data.company.catcher-technology': '可成科技',
-    'data.company.taiwan-high-speed-rail': '台灣高速鉄道',
+    'data.company.taiwan-high-speed-rail': '台湾高速鉄道',
     'data.company.htc': 'HTC 宏達電',
     'data.company.chang-chun-petrochemical': '長春石化',
     'data.company.chi-mei-corporation': '奇美實業',
@@ -649,11 +649,11 @@ export const dataUI = {
     'data.category.2.title': 'インタラクティブ地図と可視化',
     'data.category.2.description':
       'リアルタイムモニタリング、地理データ、環境可視化ツール',
-    'data.category.2.item.1.name': '台灣海底ケーブル動態マップ',
+    'data.category.2.item.1.name': '台湾海底ケーブル動態マップ',
     'data.category.2.item.1.desc':
       '市民が開発した海底ケーブルのリアルタイム監視、シビックテックの模範例',
     'data.category.2.item.2.name': '国土測量図資サービス',
-    'data.category.2.item.2.desc': '台灣の地図・航空写真・地籍データ',
+    'data.category.2.item.2.desc': '台湾の地図・航空写真・地籍データ',
     'data.category.2.item.3.name': '地震測報センター',
     'data.category.2.item.3.desc': 'リアルタイム地震情報と過去の記録',
     'data.category.2.item.4.name': '水利署防災情報ネットワーク',
@@ -667,7 +667,7 @@ export const dataUI = {
       'オープンソースコミュニティ、ファクトチェック、デジタル民主主義ツール',
     'data.category.3.item.1.name': 'g0v 零時政府',
     'data.category.3.item.1.desc':
-      '2012年に創設。マスクマップ、Cofacts、vTaiwan など台灣を変えたシビックテックプロジェクトを生み出す',
+      '2012年に創設。マスクマップ、Cofacts、vTaiwan など台湾を変えたシビックテックプロジェクトを生み出す',
     'data.category.3.item.2.name': 'KKTIX シビックテックイベント',
     'data.category.3.item.2.desc':
       'g0v ハッカソン、オープンデータコミュニティイベントのポータル',
@@ -686,15 +686,15 @@ export const dataUI = {
       '深層調査報道、ファクトチェック機関、データ駆動型メディア',
     'data.category.4.item.1.name': '報導者（The Reporter）',
     'data.category.4.item.1.desc':
-      '2015年に創設。台灣初の非営利深層調査メディア、重大な公共問題を何度も暴く',
-    'data.category.4.item.2.name': '台灣ファクトチェックセンター',
+      '2015年に創設。台湾初の非営利深層調査メディア、重大な公共問題を何度も暴く',
+    'data.category.4.item.2.name': '台湾ファクトチェックセンター',
     'data.category.4.item.2.desc':
       'IFCN 国際ファクトチェックネットワーク認証、Facebook 第三者ファクトチェックパートナー',
     'data.category.4.item.3.name': 'READr 読+',
     'data.category.4.item.3.desc':
       'データジャーナリズムとオープンデータ可視化報道',
     'data.category.4.item.4.name': '典藏 ARTouch',
-    'data.category.4.item.4.desc': '台灣のアートニュースと深層批評メディア',
+    'data.category.4.item.4.desc': '台湾のアートニュースと深層批評メディア',
 
     // Category 5: Academic & Research
     'data.category.5.title': '学術・研究',
@@ -703,30 +703,30 @@ export const dataUI = {
     'data.category.5.item.1.desc':
       'デジタルアーカイブとオンラインキュレーション',
     'data.category.5.item.2.name': '国家文化記憶バンク',
-    'data.category.5.item.2.desc': '台灣の文化的記憶のデジタル保存',
-    'data.category.5.item.3.name': '台灣生物多様性ネットワーク',
+    'data.category.5.item.2.desc': '台湾の文化的記憶のデジタル保存',
+    'data.category.5.item.3.name': '台湾生物多様性ネットワーク',
     'data.category.5.item.3.desc': '種の分布と生態観測データ',
-    'data.category.5.item.4.name': '台灣主権AIコーパス TAIC',
-    'data.category.5.item.4.desc': '台灣独自のAI学習データセット',
+    'data.category.5.item.4.name': '台湾主権AIコーパス TAIC',
+    'data.category.5.item.4.desc': '台湾独自のAI学習データセット',
 
     // Meta
-    'data.meta.title': 'データ台灣 -- Taiwan.md',
+    'data.meta.title': 'データ台湾 -- Taiwan.md',
     'data.meta.description':
-      '数字で読む島国：企業地図、オープンデータ、正確な台灣の輪郭とインタラクティブ可視化',
+      '数字で読む島国：企業地図、オープンデータ、正確な台湾の輪郭とインタラクティブ可視化',
 
     // Hero
-    'data.hero.title': 'データ台灣',
+    'data.hero.title': 'データ台湾',
     'data.hero.subtitle':
       'インタラクティブ可視化とオープンデータで、島の本当の姿を知る',
     'data.hero.description':
-      '台灣のデータをキュレーションする場です。企業地図からオープンデータまで、正確な台灣の輪郭からデジタル民主主義の実験まで――インタラクティブ可視化とオープンリソースで、数字が台灣の物語を語ります。',
+      '台湾のデータをキュレーションする場です。企業地図からオープンデータまで、正確な台湾の輪郭からデジタル民主主義の実験まで――インタラクティブ可視化とオープンリソースで、数字が台湾の物語を語ります。',
 
     // Enterprise Section
     'data.enterprise.title': '🏢 企業地図',
     'data.enterprise.story.p1':
       'ひとつの島がどうやってグローバルサプライチェーンを支えているのか？',
     'data.enterprise.story.p2':
-      'TSMCの時価総額2,670億ドルからFoxconnの87万人の従業員まで、台灣上位50社がこの島の経済的背骨を形成しています。12の半導体企業が「シリコンの盾」の名を証明し、12の金融持株会社が安定を支え、大手OEMがグローバルなデジタルライフをつないでいます。バブルチャートで台灣が世界人口の2%で世界GDPの4%を創出する秘密を探ってみましょう。',
+      'TSMCの時価総額2,670億ドルからFoxconnの87万人の従業員まで、台湾上位50社がこの島の経済的背骨を形成しています。12の半導体企業が「シリコンの盾」の名を証明し、12の金融持株会社が安定を支え、大手OEMがグローバルなデジタルライフをつないでいます。バブルチャートで台湾が世界人口の2%で世界GDPの4%を創出する秘密を探ってみましょう。',
     'data.enterprise.controls.sizeLabel': 'バブルサイズ：',
     'data.enterprise.controls.marketCap': '時価総額',
     'data.enterprise.controls.revenue': '売上高',
@@ -735,29 +735,29 @@ export const dataUI = {
     'data.enterprise.insights.heading': '主要インサイト',
     'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label':
-      'TSMCが台灣株式市場の時価総額に占める割合',
+      'TSMCが台湾株式市場の時価総額に占める割合',
     'data.enterprise.insights.card1.detail':
       '1社 ≈ 残り1,000社以上の上場企業の2/3',
     'data.enterprise.insights.card2.number': '72%',
     'data.enterprise.insights.card2.label':
       '上位50社が時価総額全体に占める割合',
     'data.enterprise.insights.card2.detail':
-      '台灣の株式市場は大企業に高度に集中',
+      '台湾の株式市場は大企業に高度に集中',
     'data.enterprise.insights.card3.number': '12社',
     'data.enterprise.insights.card3.label': '半導体企業が上位50入り',
     'data.enterprise.insights.card3.detail':
-      '「シリコンの盾」を実証 -- 半導体は台灣の国防',
+      '「シリコンの盾」を実証 -- 半導体は台湾の国防',
     'data.enterprise.insights.card4.number': '12社',
     'data.enterprise.insights.card4.label': '金融業が上位50入り',
     'data.enterprise.insights.card4.detail': '金融持株会社統合後の安定基盤',
     'data.enterprise.exploreLink': 'ランキング全体を見る →',
 
     // Taiwan vs World Section
-    'data.taiwanVsWorld.title': '🌏 世界における台灣の位置',
+    'data.taiwanVsWorld.title': '🌏 世界における台湾の位置',
     'data.taiwanVsWorld.story.p1':
-      'ベルギーほどの面積の島に2,300万人が暮らし、世界最先端のコンピュータチップの92%を生産しています。台灣の経済密度は驚異的です：スイスより小さい土地にオーストラリアより多い人口、一人当たりGDPは7万5千ドルに達します。',
+      'ベルギーほどの面積の島に2,300万人が暮らし、世界最先端のコンピュータチップの92%を生産しています。台湾の経済密度は驚異的です：スイスより小さい土地にオーストラリアより多い人口、一人当たりGDPは7万5千ドルに達します。',
     'data.taiwanVsWorld.story.p2':
-      'これらの数字は単なる統計ではありません――ありえない物語の設計図です。地球の面積のわずか0.32%がどうやって世界の富の4%を生み出すのか？世界最高のコンビニ密度からアジア1位の民主主義ランキングまで、8つの指標で台灣の規模を超えたグローバルな存在感を読み解きます。',
+      'これらの数字は単なる統計ではありません――ありえない物語の設計図です。地球の面積のわずか0.32%がどうやって世界の富の4%を生み出すのか？世界最高のコンビニ密度からアジア1位の民主主義ランキングまで、8つの指標で台湾の規模を超えたグローバルな存在感を読み解きます。',
 
     'data.taiwanVsWorld.area.number': '36,197 km²',
     'data.taiwanVsWorld.area.label': '面積 ≈ ベルギーと同程度',
@@ -800,9 +800,9 @@ export const dataUI = {
     'data.digitalDemocracy.title':
       '📡 デジタル民主主義タイムライン -- デジタルガバナンス30年の進化',
     'data.digitalDemocracy.story.p1':
-      '政府のデジタル化からデジタル民主主義へ：台灣の電子化政府からオープンガバメント、デジタルレジリエンスへの進化の旅路。',
+      '政府のデジタル化からデジタル民主主義へ：台湾の電子化政府からオープンガバメント、デジタルレジリエンスへの進化の旅路。',
     'data.digitalDemocracy.story.p2':
-      '各マイルストーンにカーソルを合わせて、台灣独自のデジタル民主主義の実験を詳しく見てみましょう。',
+      '各マイルストーンにカーソルを合わせて、台湾独自のデジタル民主主義の実験を詳しく見てみましょう。',
 
     'data.timeline.1997.title': '電子化政府計画の開始',
     'data.timeline.1997.desc': '政府サービスのデジタル化に着手',
@@ -815,7 +815,7 @@ export const dataUI = {
       'ひまわり運動の2年前、シビックテックの種が蒔かれた',
 
     'data.timeline.2013.title': 'data.gov.tw の開設',
-    'data.timeline.2013.desc': '台灣がオープンデータ時代に突入',
+    'data.timeline.2013.desc': '台湾がオープンデータ時代に突入',
 
     'data.timeline.2014.title': 'ひまわり運動',
     'data.timeline.2014.desc':
@@ -833,8 +833,8 @@ export const dataUI = {
     'data.timeline.2022.title': 'デジタル発展部の設立',
     'data.timeline.2022.desc': 'デジタルガバナンスを省庁レベルに格上げ（moda）',
 
-    'data.timeline.2023.title': 'TAIDE 台灣AIコーパス',
-    'data.timeline.2023.desc': '台灣の主権AI言語モデル',
+    'data.timeline.2023.title': 'TAIDE 台湾AIコーパス',
+    'data.timeline.2023.desc': '台湾の主権AI言語モデル',
 
     'data.timeline.2024.title': 'Plurality デジタル民主主義の輸出',
     'data.timeline.2024.desc': 'デジタル民主主義モデルを世界に輸出',
@@ -842,7 +842,7 @@ export const dataUI = {
     // Population Pyramid Section
     'data.population.title': '👥 人口構造：島の年齢ポートレート',
     'data.population.story.p1':
-      '2025年、台灣の中央値年齢は43歳を超えました。かつて若かったこの島は老いつつあります――ゆっくりとではなく、世界でも最速のペースで。',
+      '2025年、台湾の中央値年齢は43歳を超えました。かつて若かったこの島は老いつつあります――ゆっくりとではなく、世界でも最速のペースで。',
     'data.population.story.p2':
       'タイムラインをドラッグして、島の年齢ポートレートが半世紀でピラミッドから逆三角形にどう変わるか見てみましょう。',
 
@@ -863,20 +863,20 @@ export const dataUI = {
     'data.population.insights.card4.detail': '2,340万人 → 2,000万人未満へ',
 
     // Taiwan Shape Section
-    'data.taiwanShape.title': '🗺️ 台灣のかたち',
-    'data.taiwanComparison.title': 'AIが描いた台灣 vs 本物の台灣',
+    'data.taiwanShape.title': '🗺️ 台湾のかたち',
+    'data.taiwanComparison.title': 'AIが描いた台湾 vs 本物の台湾',
     'data.taiwanComparison.aiGenerated':
       'Claude Opus 4.6 生成（2025/3/22、意図的な歪みなし）',
     'data.taiwanComparison.correct': '正しい輪郭',
     'data.taiwanShape.story.p1':
-      'AIが描いた台灣はすべて間違っています。これが正しいバージョンです。',
+      'AIが描いた台湾はすべて間違っています。これが正しいバージョンです。',
     'data.taiwanShape.story.p2':
-      'ほとんどのAI画像生成モデルは、学習データに台灣の構造化された地理データが不足しています。その結果、形状の歪み、比率の誤り、さらには他の島との混同が起こります。Taiwan.md は正確でオープンソース、自由に使える台灣のSVG輪郭図を提供し、「台灣はどんな形をしているか」という問いに標準的な答えを示します。',
+      'ほとんどのAI画像生成モデルは、学習データに台湾の構造化された地理データが不足しています。その結果、形状の歪み、比率の誤り、さらには他の島との混同が起こります。Taiwan.md は正確でオープンソース、自由に使える台湾のSVG輪郭図を提供し、「台湾はどんな形をしているか」という問いに標準的な答えを示します。',
 
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
-      '台灣アウトラインアイコン -- アイコン・ロゴ・小サイズに最適',
+      '台湾アウトラインアイコン -- アイコン・ロゴ・小サイズに最適',
     'data.svg.card2.title': 'taiwan-simplemaps.svg',
     'data.svg.card2.description':
       'SimpleMaps 版 -- クリーンなベクター、Web埋め込みに最適',
@@ -895,9 +895,9 @@ export const dataUI = {
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 オープンデータとデジタル民主主義',
     'data.openData.story.p1':
-      '電子化から開放化へ：台灣デジタルガバナンス30年の進化',
+      '電子化から開放化へ：台湾デジタルガバナンス30年の進化',
     'data.openData.story.p2':
-      '1997年「電子化政府計画」の開始、2013年 data.gov.tw の開設で台灣は電子化政府からオープンガバメント時代へ。2015-2017年に3年連続「グローバルオープンデータ指標」第1位。g0v 零時政府がマスクマップと Cofacts ファクトチェックボットを生み出す。唐鳳のデジタル政務委員の実験により、台灣は世界のデジタル民主主義の実験場となった。',
+      '1997年「電子化政府計画」の開始、2013年 data.gov.tw の開設で台湾は電子化政府からオープンガバメント時代へ。2015-2017年に3年連続「グローバルオープンデータ指標」第1位。g0v 零時政府がマスクマップと Cofacts ファクトチェックボットを生み出す。唐鳳のデジタル政務委員の実験により、台湾は世界のデジタル民主主義の実験場となった。',
     'data.openData.story.p3':
       '市民がデータを理解する力を持ち、政府がデータを進んで公開するとき、民主主義は4年に一度の投票ではなく、毎日起こる協働になります。',
 
@@ -906,7 +906,7 @@ export const dataUI = {
     'data.knowledgeGraph.story.p1':
       'Taiwan.md の200本以上の記事はどのようにつながっているのか？',
     'data.knowledgeGraph.story.p2':
-      '歴史から地理へ、文化からテクノロジーへ、各記事は台灣の物語ネットワークにおけるひとつのノードです。タグの接続とHubの参照を通じて、散在する知識を生きたマップに織り上げます。クリックして台灣の知識の深層構造を探ってみましょう。',
+      '歴史から地理へ、文化からテクノロジーへ、各記事は台湾の物語ネットワークにおけるひとつのノードです。タグの接続とHubの参照を通じて、散在する知識を生きたマップに織り上げます。クリックして台湾の知識の深層構造を探ってみましょう。',
     'data.knowledgeGraph.ctaButton': 'ナレッジグラフを探索 →',
     'data.knowledgeGraph.ctaButton.description':
       'インタラクティブな記事接続ネットワーク',
