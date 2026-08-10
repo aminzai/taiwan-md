@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T07:52:19+08:00",
-    "zhCommitHead": "69fdcaf16",
+    "lastUpdated": "2026-08-10T08:17:16+08:00",
+    "zhCommitHead": "e12e5978c",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -27,10 +27,10 @@
       },
       "ja": {
         "total_zh": 891,
-        "fresh": 853,
+        "fresh": 854,
         "stale": 16,
         "metadata_stale": 8,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "ko": {
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 564,
+        "fresh": 566,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 316,
+        "missing": 314,
         "orphan": 0
       },
       "pt": {
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 657,
+        "fresh": 658,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "ar": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 776,
-        "stale": 1,
+        "fresh": 777,
+        "stale": 2,
         "metadata_stale": 3,
-        "missing": 111,
+        "missing": 109,
         "orphan": 0
       }
     },
@@ -10444,8 +10444,8 @@
           "sourceContentHash": "sha256:9985c51170111ca8",
           "sourceBodyHash": "sha256:a06f7b884fa31776",
           "translatedAt": "2026-08-09T15:02:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8492820e",
+          "translationLastModified": "2026-08-10T07:52:19+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -10455,7 +10455,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/mercuries-group.md",
+          "translatedFrom": "Economy/三商.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:9985c51170111ca8",
+          "sourceBodyHash": "sha256:a06f7b884fa31776",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -14681,8 +14692,8 @@
           "sourceContentHash": "sha256:d3d8b87838fde0c1",
           "sourceBodyHash": "sha256:3f673eef58308631",
           "translatedAt": "2026-08-09T15:02:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8492820e",
+          "translationLastModified": "2026-08-10T07:52:19+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -98727,8 +98738,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T21:49:30.749212+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8492820e",
+          "translationLastModified": "2026-08-10T07:52:19+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -98738,7 +98749,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/international-brand-localization-taiwan.md",
+          "translatedFrom": "Food/國際品牌在地化.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:9939199675a5453a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-09T23:49:55.010738+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         }
       }
     },
@@ -101381,8 +101403,8 @@
           "sourceContentHash": "sha256:c7f47c37ece6881d",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-09T22:52:31.421966+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8492820e",
+          "translationLastModified": "2026-08-10T07:52:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -107237,7 +107259,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/three-foreigners-witness-1895-taiwan.md",
+          "translatedFrom": "History/三個外國人看乙未.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:dd0456fc58fe6d55",
+          "sourceBodyHash": "sha256:f4c2468d7055a6c1",
+          "translatedAt": "2026-08-09T15:02:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/three-foreigners-witness-1895-taiwan.md",
@@ -113904,7 +113937,18 @@
           "reason": "hash-match-sha-lost"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/pingpu-peoples.md",
+          "translatedFrom": "History/平埔族.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:a919906028755e92",
+          "sourceBodyHash": "sha256:a29e7e59d8da2652",
+          "translatedAt": "2026-08-09T15:02:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/History/pingpu-peoples.md",
@@ -113963,7 +114007,18 @@
           "reason": "hash-match-sha-lost"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/pingpu-peoples.md",
+          "translatedFrom": "History/平埔族.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:a919906028755e92",
+          "sourceBodyHash": "sha256:a29e7e59d8da2652",
+          "translatedAt": "2026-08-09T15:02:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/History/pingpu-peoples.md",
@@ -116379,7 +116434,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/geography-and-geology.md",
+          "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:fd5b44b607710000",
+          "sourceBodyHash": "sha256:b019853dd2be5b1d",
+          "translatedAt": "2026-08-09T15:02:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/geography-and-geology.md",
@@ -132753,8 +132819,8 @@
           "sourceContentHash": "sha256:e5fd53530b9e999c",
           "sourceBodyHash": "sha256:201c8b949857fdd7",
           "translatedAt": "2026-08-09T15:02:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8492820e",
+          "translationLastModified": "2026-08-10T07:52:19+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
