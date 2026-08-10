@@ -192,8 +192,6 @@ Meningkatnya kesadaran kesehatan di kalangan konsumen modern mendorong transform
 
 Pendekatan premium berpusat pada daun teh _single-origin_ (asal satu kebun), dipadukan dengan kemitraan petani kecil untuk menjamin kualitas, serta memperkenalkan teknik baru seperti _cold brew_ (seduhan dingin) dan infusi nitrogen. Layanan kustomisasi menjadi lebih halus: opsi tingkat gula dan es bertambah, dan kombinasi topping personal menjadi standar. Desain toko kini menampilkan konter persiapan terbuka, dan pelatihan profesional bagi peracik minuman (barista teh) mengangkat kualitas layanan secara keseluruhan.
 
-**📝 Catatan Kurator:** Di sinilah letak ironi Taiwan — negeri yang menemukan minuman manis berkalori tinggi justru kini memimpin tren menjadikannya "lebih sehat". Bukan menghapus kenikmatan, melainkan merancang ulangnya.
-
 ### Penerapan Teknologi
 
 Di front peralatan cerdas, mesin dispenser gula-es otomatis dan peralatan ekstraksi teh standar telah menjadi arus utama, dengan sistem pengujian kualitas mulai diperkenalkan bertahap. Pada layanan digital, rekomendasi berbasis AI, analisis data keanggotaan, dan antrean berbasis janji (appointment) meningkatkan pengalaman pelanggan. Di aspek teknologi keberlanjutan, kemasan ramah lingkungan, peralatan hemat energi, dan daur ulang limbah merespons tuntutan lingkungan yang semakin ketat.
@@ -203,8 +201,6 @@ Di front peralatan cerdas, mesin dispenser gula-es otomatis dan peralatan ekstra
 ### Wadah Budaya Keseharian
 
 Minuman racikan tangan telah terjalin mendalam ke dalam keseharian orang Taiwan. "Ngobrol sambil ngemil minuman" telah menjadi pola sosial yang universal; kedai minuman racikan tangan adalah tempat lazim untuk kencan dan berkumpul; dan berbagi rasa baru telah menjadi topik di media sosial. Merek atau rasa tertentu bahkan membawa memori personal — teh susu mutiara sebelum ujian atau teh hijau ukuran besar saat lembur keduanya adalah cuplikan dari kehidupan emosional orang Taiwan. Kepadatan kedai minuman racikan tangan bahkan menjadi indikator informal tingkat urbanisasi; _night market_ (夜市, pasar malam) dan kawasan komersial terasa tidak lengkap tanpa mereka.
-
-**📝 Catatan Kurator:** Di Indonesia pun fenomena serupa sudah terjadi — kedai boba tumbuh menjamur di tiap sudut mall dan jalan, dan "yuk beli boba" menjadi frasa pergaulan sehari-hari. Yang menarik: sebagian besar pelaku industri ini, akarnya bisa ditelusuri kembali ke satu kota di Taiwan.
 
 ### Kontribusi Ekonomi
 
