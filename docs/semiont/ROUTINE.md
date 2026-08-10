@@ -40,29 +40,29 @@ upstream_canonical:
 
 > ⚠️ **cron 數值在本檔只出現在這張表**（v2.9 起）。yaml spec 區塊與週行程 grid 是 derived 視覺化，不再各自複寫 cron——同一個 cron 在同檔出現三個值是 2026-06-12 體檢抓到的 drift 根因之一（routine-audit 曾同時是 21:00 / 12:00 / 23:00）。
 
-| TaskId                            | Title                                | Cron (local +0800) | Skill                      | Model     | Cadence                        |
-| --------------------------------- | ------------------------------------ | ------------------ | -------------------------- | --------- | ------------------------------ |
-| `twmd-rewrite-daily`              | TWMD rewrite (daily) ¹⁰ ⏸️           | `0 19 * * *`       | `/twmd-rewrite`            | Opus      | ⏸️ 兩台皆停（註 ²¹）           |
-| `twmd-news-lens-weekly`           | TWMD news lens (weekly) ⁶            | `0 1 * * 0`        | `/twmd-evolve`             | Sonnet    | 週日 01:00                     |
-| `twmd-weekly-report-sun`          | TWMD weekly 體檢 (sun) ¹⁵            | `0 2 * * 0`        | `/twmd-weekly-report`      | Opus      | 週日 02:00                     |
-| `twmd-distill-weekly`             | TWMD distill (weekly) ⁷              | `0 3 * * 0`        | `/twmd-distill`            | Opus      | 週日 03:00                     |
-| `twmd-self-evolve-weekly`         | TWMD self-evolve (weekly)            | `0 4 * * 0`        | `/twmd-self-evolve`        | Opus      | 週日 04:00                     |
-| `twmd-babel-nightly`              | TWMD babel (nightly) ³ ⏸️            | `30 0 * * *`       | `/twmd-babel`              | Sonnet ¹¹ | ⏸️ 營運機暫停（見註 ¹⁹）       |
-| `twmd-embeddings-nightly`         | TWMD embeddings (nightly) ¹²         | `0 5 * * *`        | `/twmd-embeddings`         | Sonnet    | 每天 05:00                     |
-| `twmd-routine-sync`               | TWMD routine sync ¹⁸                 | `30 5 * * *`       | `/twmd-routine-sync`       | Sonnet    | 每天 05:30（晨鏈之前）         |
-| `twmd-data-refresh-am`            | TWMD data refresh ²²                 | `0 6 * * *`        | `/twmd-refresh`            | Sonnet    | 每天 06:00（唯一一班）         |
-| `twmd-spore-harvest-am`           | TWMD spore harvest (am) ²            | `30 6 * * *`       | `/twmd-spore-harvest`      | Opus      | 每天早上 06:30                 |
-| `twmd-feedback-triage`            | TWMD feedback triage ⁹               | `0 7 * * *`        | `/twmd-feedback-triage`    | Sonnet    | 每天早上 07:00                 |
-| `twmd-maintainer-daily`           | TWMD maintainer ¹                    | `30 8 * * *`       | `/twmd-maintainer`         | Opus      | 每天 08:30（唯一一班）         |
-| `twmd-spore-pick-daily`           | TWMD spore pick (daily) ⁶ 🧪⏸️       | `0 8 * * *`        | `/twmd-spore-pick`         | Sonnet    | ⏸️ live disabled（6/14 起）¹³  |
-| `twmd-spore-publish-daily`        | TWMD spore publish (daily) ⁸ 🧪⏸️    | `30 17 * * *`      | `/twmd-spore-publish`      | Opus      | ⏸️ live disabled（6/14 起）¹³  |
-| `twmd-routine-audit-weekly`       | TWMD routine audit (sun) ⁴           | `0 21 * * 0`       | `/twmd-routine-audit`      | Opus      | 週日 21:00                     |
-| `twmd-supporters-weekly`          | TWMD supporters sync (mon) ¹⁶        | `0 1 * * 1`        | `/twmd-supporters`         | Sonnet    | 週一 01:00                     |
-| `twmd-founder-lens-weekly`        | TWMD founder lens (sat) ¹⁷ ⏸️        | `0 22 * * 6`       | `/twmd-founder-lens`       | Opus      | 週六 22:00                     |
-| `twmd-flywheel-watch`             | TWMD flywheel watch ²⁰               | `30 9 * * *`       | `/twmd-flywheel-watch`     | Sonnet    | 每天 09:30 🖥️commander-macbook |
-| `twmd-terminology-trends-monthly` | TWMD terminology trends (monthly) ²⁴ | `30 10 5 * *`      | `/twmd-terminology-trends` | Opus      | 每月 5 日 10:30                |
+| TaskId                            | Title                                | Cron (local +0800) | Skill                      | Model     | Cadence                             |
+| --------------------------------- | ------------------------------------ | ------------------ | -------------------------- | --------- | ----------------------------------- |
+| `twmd-rewrite-daily`              | TWMD rewrite (daily) ¹⁰ ⏸️           | `0 19 * * *`       | `/twmd-rewrite`            | Opus      | ⏸️ 兩台皆停（註 ²¹）                |
+| `twmd-news-lens-weekly`           | TWMD news lens (weekly) ⁶            | `0 1 * * 0`        | `/twmd-evolve`             | Sonnet    | 週日 01:00                          |
+| `twmd-weekly-report-sun`          | TWMD weekly 體檢 (sun) ¹⁵            | `0 2 * * 0`        | `/twmd-weekly-report`      | Opus      | 週日 02:00                          |
+| `twmd-distill-weekly`             | TWMD distill (weekly) ⁷              | `0 3 * * 0`        | `/twmd-distill`            | Opus      | 週日 03:00                          |
+| `twmd-self-evolve-weekly`         | TWMD self-evolve (weekly)            | `0 4 * * 0`        | `/twmd-self-evolve`        | Opus      | 週日 04:00                          |
+| `twmd-babel-nightly`              | TWMD babel (nightly) ³ ⏸️            | `30 0 * * *`       | `/twmd-babel`              | Sonnet ¹¹ | ⏸️ 營運機暫停（見註 ¹⁹）            |
+| `twmd-embeddings-nightly`         | TWMD embeddings (nightly) ¹²         | `0 5 * * *`        | `/twmd-embeddings`         | Sonnet    | 每天 05:00                          |
+| `twmd-routine-sync`               | TWMD routine sync ¹⁸                 | `30 5 * * *`       | `/twmd-routine-sync`       | Sonnet    | 每天 05:30（晨鏈之前）              |
+| `twmd-data-refresh-am`            | TWMD data refresh ²²                 | `0 6 * * *`        | `/twmd-refresh`            | Sonnet    | 每天 06:00（唯一一班）              |
+| `twmd-spore-harvest-am`           | TWMD spore harvest (am) ²            | `30 6 * * *`       | `/twmd-spore-harvest`      | Opus      | 每天早上 06:30                      |
+| `twmd-feedback-triage`            | TWMD feedback triage ⁹               | `0 7 * * *`        | `/twmd-feedback-triage`    | Sonnet    | 每天早上 07:00                      |
+| `twmd-maintainer-daily`           | TWMD maintainer ¹                    | `30 8 * * *`       | `/twmd-maintainer`         | Opus      | 每天 08:30（唯一一班）              |
+| `twmd-spore-pick-daily`           | TWMD spore pick (daily) ⁶ 🧪⏸️       | `0 8 * * *`        | `/twmd-spore-pick`         | Sonnet    | ⏸️ live disabled（6/14 起）¹³       |
+| `twmd-spore-publish-daily`        | TWMD spore publish (daily) ⁸ 🧪⏸️    | `30 17 * * *`      | `/twmd-spore-publish`      | Opus      | ⏸️ live disabled（6/14 起）¹³       |
+| `twmd-routine-audit-weekly`       | TWMD routine audit (sun) ⁴           | `0 21 * * 0`       | `/twmd-routine-audit`      | Opus      | 週日 21:00                          |
+| `twmd-supporters-weekly`          | TWMD supporters sync (mon) ¹⁶        | `0 1 * * 1`        | `/twmd-supporters`         | Sonnet    | 週一 01:00                          |
+| `twmd-founder-lens-weekly`        | TWMD founder lens (sat) ¹⁷ ⏸️        | `0 22 * * 6`       | `/twmd-founder-lens`       | Opus      | 週六 22:00                          |
+| `twmd-flywheel-watch`             | TWMD flywheel watch ²⁰ ⏸️            | `30 9 * * *`       | `/twmd-flywheel-watch`     | Sonnet    | ⏸️ 停用（註 ²⁵）🖥️commander-macbook |
+| `twmd-terminology-trends-monthly` | TWMD terminology trends (monthly) ²⁴ | `30 10 5 * *`      | `/twmd-terminology-trends` | Opus      | 每月 5 日 10:30                     |
 
-**⏸️ PAUSED**：暫停中的一律在上方排程表該列標 ⏸️（不另立表，避免同一條在兩處各說各話）。目前 5 條：`twmd-spore-pick-daily` / `twmd-spore-publish-daily`（註 ¹³）、`twmd-babel-nightly`（註 ¹⁹）、`twmd-rewrite-daily`（註 ²¹）、`twmd-founder-lens-weekly`（註 ²³）。
+**⏸️ PAUSED**：暫停中的一律在上方排程表該列標 ⏸️（不另立表，避免同一條在兩處各說各話）。目前 6 條：`twmd-spore-pick-daily` / `twmd-spore-publish-daily`（註 ¹³）、`twmd-babel-nightly`（註 ¹⁹）、`twmd-rewrite-daily`（註 ²¹）、`twmd-founder-lens-weekly`（註 ²³）、`twmd-flywheel-watch`（註 ²⁵）。
 
 **🪦 已退休**（排程已刪除，不再對賬；退場不刪除紀錄，per MANIFESTO §時間是結構修補協議）：
 
@@ -89,6 +89,8 @@ parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調�
 ¹⁹ **babel 在營運機暫停（2026-07-25 哲宇 directive）** — mouhouse 上 `twmd-babel-nightly` live disabled，理由是同期巴別塔產線正由指揮部這台驅動算力軍團（fleet roasting），兩邊同時跑會互撞 git index 與 `_translations.json`（REFLEXES #68 / #40）。**這不是退休**：軍團批次收工後恢復即可，恢復走 §恢復暫停的 routine。
 
 ²⁴ **terminology-trends monthly（v2.20，2026-08-04 哲宇拍板「排定期 routine，月度就好」）** — `twmd-terminology-trends-monthly` 每月 5 日 10:30，用語保存計劃的月度趨勢觀察：SC 需求缺口 → 6-8 切面搜索 → 缺口對照（雙防線查重 HARD）→ 高信心入庫 ≤20 條/輪（帶肉＋證據 URL＋誤判四型誠信標註）→ `reports/terminology-trends/YYYY-MM.md` 月度趨勢短報告。長期累積成台灣視角的語言滲透時間序列。姿態站查證與保存不站出征（MANIFESTO §13 語言層）。Canonical [TERMINOLOGY-TRENDS-PIPELINE](../pipelines/TERMINOLOGY-TRENDS-PIPELINE.md)（7 stage + 6 hard gate）；誕生於 2026-08-04 支語深度研究 session（首輪研究版：30 sonnet agent 艦隊 559 次搜索、913 詞條、49 入庫；[報告](../../reports/terminology-zhiyu-deep-research-2026-08-04.md)）。刪除類／政治敏感判定（「是支語嗎」徽章）／大批重分類一律進 OBSERVER-QUEUE。本檔標 ⏸️ 是為了讓 `flywheel-watch` 不把它報成靜默——SSOT 說該跑卻沒跑，才叫警報。
+
+²⁵ **flywheel-watch 停用（2026-08-10 哲宇 directive「flywheel-watch 是我今天關的，因為幫助不大」）** — 每天一份「飛輪在轉」綠燈報告對觀察者資訊量太低：監看儀器的價值在異常時刻，日更綠燈是噪音。**這是暫停不是退休**：儀器 `flywheel-watch.py` 與 skill 原封不動，`/twmd-flywheel-watch` 手動可跑。註 ²⁰ 當初補的洞（飛輪缺席監看——曾靜默死 15 天全儀器無聲）由兩層承接：(a) `routine-status.sh` v2（同日 ship）在 BECOME groundtruth 補了 origin/main 雙視角——任何 session 在指揮部甦醒都會看到營運機過去 24hr 的 routine 痕跡，飛輪整體停轉時甦醒第一眼就是空清單，不需要專屬排程；(b) 週日 weekly-report 的 `routine-liveness-check.py` fire-vs-commit 對賬（週級，最長延遲 7 天）。兩層都是被動視角，補不回「主動 push 告警」——若未來需要，方向是 alert-only 模式（綠燈靜默、只在 WARN/CRITICAL 時 PushNotification），不是恢復日更。
 
 ²² **data refresh 整併一班（2026-07-26 哲宇 directive「data-refresh 我也想把 am／pm 整合成同一個」）** — 保留 06:00 那班（晨鏈 `data-refresh → spore-harvest 06:30 → feedback 07:00 → maintainer 08:30` 的前置，下游三條都吃它刷新的 dashboard 數據），23:00 夜班退休。夜班原本的服務對象是 19:00 的 rewrite，而 rewrite 2026-07-25 起改手動觸發（註 ²¹），夜班就失去理由。**taskId 仍是 `twmd-data-refresh-am`**：`-am` 後綴此後是歷史殘留不是語意，跟 `twmd-maintainer-daily` 同樣處置——改 taskId 要在每台機器 delete + create、mirror 改名、歷史 memory 的 grep 全斷，代價高於一個難看的後綴。真要改名再開一次工單。
 

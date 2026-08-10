@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-10 | 071122-twmd-feedback-triage | 空九天後首次有件：同一讀者兩則日文版字形回報開成 issue #1306/#1307；三道對賬全綠（63/63、62/63 含 #1252 上游刪留言） | 覆蓋率與新鮮度只量得到頁面有字，量不到字是否長成那個語言的樣子 | [→](memory/2026-08-10-071122-twmd-feedback-triage.md) |
 | 2026-08-10 | 085506-twmd-maintainer-am | merge #1305 前實測對照證實預設行為不變；#1304 沃草 7 腳註 5 條是媒體首頁，附實體出處請換源；修 ja「台灣」→「台湾」37 行 | 閘門用綠色說它什麼都沒做——同根因第三次咬人，修補範圍總由症狀位置決定 | [→](memory/2026-08-10-085506-twmd-maintainer-am.md) |
 | 2026-08-10 | 093453-twmd-flywheel-watch | 飛輪零靜默零警報（24hr 156 commit／16 筆 routine 標記／10 條有動靜／live dump 3.4h）；儀器校掉第四種假象：手動 session handle 被補前綴後印成 routine | 沒有紅燈的錯只會靜靜讓讀報告的人建立不存在的認知，得靠多讀一行才現形 | [→](memory/2026-08-10-093453-twmd-flywheel-watch.md) |
+| 2026-08-10 | 144521-mouhouse-audit | mouhouse D+17 體檢：16 天 daily 全勤、系統排程憑證全綠；修 routine-status.sh 失明＋對齊 flywheel-watch 停用；撿回困在 agent worktree 16 天的公投孤兒文 | 分佈式身體的每把尺都要聲明自己站在哪個視角量 | [→](memory/2026-08-10-144521-mouhouse-audit.md) |
