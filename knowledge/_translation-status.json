@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T11:17:12+08:00",
-    "zhCommitHead": "6874276a6",
+    "lastUpdated": "2026-08-10T11:21:57+08:00",
+    "zhCommitHead": "4e571d978",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 24,
         "metadata_stale": 6,
-        "missing": 12,
+        "missing": 11,
         "orphan": 0
       },
       "ja": {
@@ -51,9 +51,9 @@
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 855,
+        "fresh": 856,
         "stale": 20,
-        "metadata_stale": 9,
+        "metadata_stale": 8,
         "missing": 7,
         "orphan": 0
       },
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 569,
+        "fresh": 570,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 311,
+        "missing": 310,
         "orphan": 0
       },
       "pt": {
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 664,
+        "fresh": 665,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 744,
+        "fresh": 745,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 142,
+        "missing": 141,
         "orphan": 0
       },
       "ru": {
@@ -10370,7 +10370,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/mercuries-group.md",
+          "translatedFrom": "Economy/三商.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:9985c51170111ca8",
+          "sourceBodyHash": "sha256:a06f7b884fa31776",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -14281,7 +14292,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/books-com-tw.md",
+          "translatedFrom": "Economy/博客來.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:204a3cf0ff763d30",
+          "sourceBodyHash": "sha256:70cf0c01c1c3b9f1",
+          "translatedAt": "2026-08-10T09:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/books-com-tw.md",
@@ -26088,8 +26110,8 @@
           "sourceContentHash": "sha256:f8ec8d5fb97942ca",
           "sourceBodyHash": "sha256:7bfa784449cb0cb6",
           "translatedAt": "2026-06-16T17:03:25Z",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "4e571d97",
+          "translationLastModified": "2026-08-10T11:17:12+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -55929,7 +55951,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/endemic-species.md",
+          "translatedFrom": "Nature/特有種.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:b5dd2adc61c83c34",
+          "sourceBodyHash": "sha256:85b65db93a33ed95",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/endemic-species.md",
@@ -61187,7 +61220,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/henry-lee-forensic.md",
+          "translatedFrom": "People/李昌鈺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d64c72cf7c6361d3",
+          "sourceBodyHash": "sha256:6f5a343122533934",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/henry-lee-forensic.md",
@@ -98732,8 +98776,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-10T03:14:03.325000+00:00",
-          "translationLastCommit": "0eedbc0d",
-          "translationLastModified": "2026-08-10T04:35:27+08:00",
+          "translationLastCommit": "4e571d97",
+          "translationLastModified": "2026-08-10T11:17:12+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -106947,8 +106991,8 @@
           "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
           "translatedAt": "2026-08-10T07:13:01+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
+          "translationLastCommit": "4e571d97",
+          "translationLastModified": "2026-08-10T11:17:12+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -117625,18 +117669,16 @@
         "fr": {
           "path": "fr/Geography/wuqiu.md",
           "translatedFrom": "Geography/烏坵.md",
-          "sourceCommitSha": "bce742694",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translatedAt": "2026-08-10T07:13:01+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/wuqiu.md",
