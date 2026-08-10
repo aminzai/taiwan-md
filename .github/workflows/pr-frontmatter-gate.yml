@@ -74,12 +74,20 @@ jobs:
           # 把 main 新增檔誤報成 PR 改動——pr-review.yml PR #582 post-mortem）。
           # fork PR 的 head.sha 不在 local clone → fall back 到 merge commit 的
           # 兩個 parent（HEAD^1=base / HEAD^2=fork head，checkout@v5 已 fetch）。
-          FILES=$(git diff --name-only --diff-filter=ACMR \
+          # core.quotePath=false 不可省：預設 true 時中文檔名會被輸出成
+          # "knowledge/Society/\346\262\203\350\215\211.md"（含引號與八進位跳脫），
+          # 下面的 `^knowledge/.*\.md$` 比對整條落空 → 檔案被靜默丟掉 → count=0
+          # → validate 步驟 skip → job 綠燈。綠燈的意思變成「我什麼都沒驗」，
+          # 跟「驗過而且通過」在 UI 上長得一模一樣（PR #1304 沃草.md 實例：
+          # fence-wrapped frontmatter，正是本 gate 誕生要擋的東西，卻拿到 SUCCESS）。
+          # 同根因 2026-08-08 已在 .husky 修過（#1298），但只修到本地 hook 那一層，
+          # 這條 CI 沒被一起帶到 —— 修補範圍被症狀現形的位置決定，不是被根因的類別。
+          FILES=$(git -c core.quotePath=false diff --name-only --diff-filter=ACMR \
             "${{ github.event.pull_request.base.sha }}...${{ github.event.pull_request.head.sha }}" \
             2>/dev/null)
           if [ -z "$FILES" ] && git rev-parse HEAD^2 >/dev/null 2>&1; then
             echo "ℹ️  Falling back to merge-parents diff (likely fork PR)"
-            FILES=$(git diff --name-only --diff-filter=ACMR HEAD^1...HEAD^2)
+            FILES=$(git -c core.quotePath=false diff --name-only --diff-filter=ACMR HEAD^1...HEAD^2)
           fi
 
           # 全語系 knowledge/*.md（給 test-frontmatter，它自己驗 en/es/ja/ko 結構）
@@ -107,6 +115,17 @@ jobs:
           ZH_COUNT=$(printf '%s' "$ZH_KN" | grep -c . || true)
           echo "count=$ALL_COUNT" >> "$GITHUB_OUTPUT"
           echo "🔍 PR 改動 knowledge/ 檔：$ALL_COUNT（其中 zh-TW root $ZH_COUNT）"
+
+          # Fail-loud：diff 裡明明提到 knowledge/，過濾完卻一個都不剩 = 過濾器瞎了，
+          # 不是「這個 PR 沒動文章」。沒有這道對賬的話，任何新的檔名形狀（中文、
+          # 空白、引號、未來的 emoji）都會讓本 gate 靜靜退化成綠燈裝飾品。
+          # 量的是「我抓到的」對得上「diff 說有的」，不是只量我抓到幾個（REFLEXES #82）。
+          RAW_KN=$(printf '%s' "$FILES" | grep -c 'knowledge/' || true)
+          if [ "$RAW_KN" != "0" ] && [ "$ALL_COUNT" = "0" ]; then
+            echo "::error::diff 有 $RAW_KN 條 knowledge/ 路徑，過濾後卻是 0——檔名解析壞了，不是沒有改動。原始 diff："
+            printf '%s\n' "$FILES" | sed 's/^/    /'
+            exit 1
+          fi
 
       - name: Validate frontmatter (test-frontmatter + article-health)
         id: validate
