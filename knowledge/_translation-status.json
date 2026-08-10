@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T08:48:44+08:00",
-    "zhCommitHead": "3edad9caa",
+    "lastUpdated": "2026-08-10T09:47:33+08:00",
+    "zhCommitHead": "e1e05b9cb",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,8 +19,8 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 847,
-        "stale": 25,
+        "fresh": 848,
+        "stale": 24,
         "metadata_stale": 7,
         "missing": 12,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 566,
+        "fresh": 567,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 314,
+        "missing": 313,
         "orphan": 0
       },
       "pt": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 743,
+        "fresh": 744,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 143,
+        "missing": 142,
         "orphan": 0
       },
       "ru": {
@@ -10452,7 +10452,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/mercuries-group.md",
+          "translatedFrom": "Economy/三商.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:9985c51170111ca8",
+          "sourceBodyHash": "sha256:a06f7b884fa31776",
+          "translatedAt": "2026-08-09T15:02:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/mercuries-group.md",
@@ -26040,18 +26051,16 @@
         "en": {
           "path": "en/Art/no-mans-land-art-platform.md",
           "translatedFrom": "Art/數位荒原.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:94e9b57891092909",
-          "sourceBodyHash": "sha256:15f9472d4c0b19f9",
+          "sourceCommitSha": "a74c440b",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
           "translatedAt": "2026-06-16T17:03:25Z",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/no-mans-land-art-platform.md",
@@ -98763,8 +98772,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-10T00:33:04.864458+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -103133,8 +103142,8 @@
           "sourceContentHash": "sha256:141f0927816304ea",
           "sourceBodyHash": "sha256:2a5b0fcaca37f869",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -105119,8 +105128,8 @@
           "sourceContentHash": "sha256:31bbf088964cc84c",
           "sourceBodyHash": "sha256:41b23df405c1e58d",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -105676,8 +105685,8 @@
           "sourceContentHash": "sha256:285a5868a3aa5597",
           "sourceBodyHash": "sha256:c3f4128a5ed93797",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -113465,8 +113474,8 @@
           "sourceContentHash": "sha256:9c407c7793816591",
           "sourceBodyHash": "sha256:7e573e2650a593fd",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -114110,8 +114119,8 @@
           "sourceContentHash": "sha256:a919906028755e92",
           "sourceBodyHash": "sha256:a29e7e59d8da2652",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -115473,7 +115482,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/tectonic-plates-and-seismic-activity.md",
+          "translatedFrom": "Geography/台灣板塊運動與地震活動.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:ac660158a4c72aea",
+          "sourceBodyHash": "sha256:57ab1d8681d0c528",
+          "translatedAt": "2026-08-09T15:02:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/tectonic-plates-and-seismic-activity.md",
@@ -124252,8 +124272,8 @@
           "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
           "sourceBodyHash": "sha256:009e89e5797639ab",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -126313,8 +126333,8 @@
           "sourceContentHash": "sha256:7cd741adb82e8c2f",
           "sourceBodyHash": "sha256:2e97e9085815c5e8",
           "translatedAt": "2026-08-09T15:02:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b9eca2e",
+          "translationLastModified": "2026-08-10T08:48:45+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
