@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-10T11:46:54+08:00",
-    "zhCommitHead": "8893ccf79",
+    "lastUpdated": "2026-08-10T12:35:24+08:00",
+    "zhCommitHead": "b94bf66fe",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 891,
-        "fresh": 573,
+        "fresh": 577,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 307,
+        "missing": 303,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 667,
+        "fresh": 669,
         "stale": 1,
         "metadata_stale": 3,
-        "missing": 220,
+        "missing": 218,
         "orphan": 0
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 746,
+        "fresh": 748,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 140,
+        "missing": 138,
         "orphan": 0
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 780,
+        "fresh": 782,
         "stale": 2,
         "metadata_stale": 3,
-        "missing": 106,
+        "missing": 104,
         "orphan": 0
       }
     },
@@ -5276,7 +5276,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/taiwan-electronic-music-and-party-culture.md",
+          "translatedFrom": "Music/台灣電子音樂與派對文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:0beb5fc8433a2c70",
+          "sourceBodyHash": "sha256:b7a689926177f96c",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/taiwan-electronic-music-and-party-culture.md",
@@ -8513,7 +8524,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-companies-china-steel.md",
+          "translatedFrom": "Economy/台灣企業：中鋼.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:204bc05a0920a7fd",
+          "sourceBodyHash": "sha256:ec289a352e872076",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-companies-china-steel.md",
@@ -9971,7 +9993,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwanese-companies-realtek-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：瑞昱半導體.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:4a3e5b2147abfd30",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-10T03:52:05.370602+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwanese-companies-realtek-semiconductor.md",
@@ -27802,7 +27835,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/contemporary-art.md",
+          "translatedFrom": "Art/當代藝術.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:cff95ee8efddcd2b",
+          "sourceBodyHash": "sha256:33541e305c90768c",
+          "translatedAt": "2026-08-10T09:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/contemporary-art.md",
@@ -29707,7 +29751,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/first-image-creative.md",
+          "translatedFrom": "Art/首映創意.md",
+          "sourceCommitSha": "088a688b2",
+          "sourceContentHash": "sha256:24d3c436839c65a5",
+          "sourceBodyHash": "sha256:952b491f965877b0",
+          "translatedAt": "2026-08-10T09:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/first-image-creative.md",
@@ -39449,7 +39504,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/mingjian-incinerator.md",
+          "translatedFrom": "Society/名間焚化爐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4441b48a65d0629",
+          "sourceBodyHash": "sha256:8f8b961fdb887c42",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/mingjian-incinerator.md",
@@ -69418,7 +69484,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chu-tien-wen.md",
+          "translatedFrom": "People/朱天文.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:13c80c1f151f5c3e",
+          "sourceBodyHash": "sha256:bf6107b943cdb54e",
+          "translatedAt": "2026-08-10T09:48:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -93426,7 +93503,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/niu-cheng-ze-controversial-filmmaker-monga-director.md",
+          "translatedFrom": "People/鈕承澤.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:03252333a42bc60e",
+          "sourceBodyHash": "sha256:decf157a216cec86",
+          "translatedAt": "2026-08-10T09:48:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -100616,7 +100704,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/coffin-bread.md",
+          "translatedFrom": "Food/棺材板.md",
+          "sourceCommitSha": "b7f6ebf9b",
+          "sourceContentHash": "sha256:2019e39a8477f086",
+          "sourceBodyHash": "sha256:d70608d1aa149287",
+          "translatedAt": "2026-08-10T09:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/coffin-bread.md",
@@ -106794,8 +106893,8 @@
           "sourceContentHash": "sha256:3c85e554c80495b9",
           "sourceBodyHash": "sha256:39ddb75027efa4b4",
           "translatedAt": "2026-08-10T07:13:01+08:00",
-          "translationLastCommit": "5bc8a207",
-          "translationLastModified": "2026-06-26T00:56:22+08:00",
+          "translationLastCommit": "de5f2e28",
+          "translationLastModified": "2026-08-10T11:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -117748,8 +117847,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-08-10T07:13:01+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "de5f2e28",
+          "translationLastModified": "2026-08-10T11:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -121694,8 +121793,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-08-10T07:13:01+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "de5f2e28",
+          "translationLastModified": "2026-08-10T11:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -124436,7 +124535,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/water-running-uphill.md",
+          "translatedFrom": "Geography/水往上流.md",
+          "sourceCommitSha": "211401fe4",
+          "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
+          "sourceBodyHash": "sha256:009e89e5797639ab",
+          "translatedAt": "2026-08-10T09:48:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/water-running-uphill.md",
@@ -133811,8 +133921,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-08-10T07:13:01+08:00",
-          "translationLastCommit": "8c08b72c",
-          "translationLastModified": "2026-07-27T22:09:24+08:00",
+          "translationLastCommit": "de5f2e28",
+          "translationLastModified": "2026-08-10T11:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
