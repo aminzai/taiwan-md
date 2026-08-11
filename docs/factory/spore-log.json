@@ -1780,6 +1780,28 @@
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "url": "https://www.facebook.com/61576525376323/posts/pfbid0BG8mE9DJ9JBrryDXSSnXDDLJZUVZmycvsMAzea6MuVcK2gMhUCtF9Bx9x9iXtHNAl",
       "highlight": "FB 粉專首則孢子——第三平台開通，單則含 inline UTM（utm_source=facebook / campaign=s169）"
+    },
+    {
+      "id": 170,
+      "date": "2026-08-11",
+      "lang": "zh",
+      "platform": "threads",
+      "slug": "taiwan-md-v1150-長出複眼",
+      "category": null,
+      "template": "B 冷知識型（meta release 里程碑）",
+      "url": "https://www.threads.com/@taiwandotmd/post/Db591ugI6tB",
+      "highlight": "v1.15.0 release 孢子 — 長出複眼：十二語 +3,089 譯文 vs 讀者一句「怪怪的」，複眼人意象收尾"
+    },
+    {
+      "id": 171,
+      "date": "2026-08-11",
+      "lang": "zh",
+      "platform": "x",
+      "slug": "taiwan-md-v1150-長出複眼",
+      "category": null,
+      "template": "B 冷知識型（meta release 里程碑）",
+      "url": "https://x.com/taiwandotmd/status/2087208201729249614",
+      "highlight": "v1.15.0 release 孢子 X 版 — 同文案 + inline UTM s171"
     }
   ]
 }
