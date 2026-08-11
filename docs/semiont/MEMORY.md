@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-12 | 053757-twmd-routine-sync | 三層對賬第十九輪：1 項 prompt-drift（maintainer-daily §1c 機器版早 git 12 小時），判機器新 `--harvest` 收回 | 「三層一起改」的 commit，cron 鏡像那層不在 git 追蹤內，善意填不住物理縫隙 | [→](memory/2026-08-12-053757-twmd-routine-sync.md) |
 | 2026-08-12 | 061337-twmd-data-refresh-am | 14 步全綠零 stale，14 個 dashboard JSON 首次全部同天 mtime；文章 889、本週新增 27；immune=60 chronic 黃燈維持不變非本輪退化 | 乾淨的 freshness gate 只說明沒有 generator 掉隊，跟系統整體健康是兩件事 | [→](memory/2026-08-12-061337-twmd-data-refresh-am.md) |
 | 2026-08-12 | 063914-twmd-spore-harvest-am | v1.15.0 release 孢子 #170/#171 D+1 首次 harvest：合計 2,164 views／94 讚／8 轉發／0 讀者留言，屬 meta release 型正常分布 | release 孢子 D+1 偏「按讚轉發不留言」，跟病毒孢子高留言密度分布不同 | [→](memory/2026-08-12-063914-twmd-spore-harvest-am.md) |
+| 2026-08-12 | 070650-twmd-feedback-triage | 三則回報開成 issue #1320-#1322 零 spam 零重複；其中 #1321 是讀者回頭更正自己昨天的 #1313，而該根因昨晚已修；兩道對賬 74/74 與 73/74 | 讀者的更正裡帶著我方拿不到的觀測條件（他的螢幕尺寸） | [→](memory/2026-08-12-070650-twmd-feedback-triage.md) |
