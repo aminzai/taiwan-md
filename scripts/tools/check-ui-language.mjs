@@ -50,7 +50,7 @@ const TW_ACCEPTED_VARIANTS = new Set(
 const TRADITIONAL_FALSE_POSITIVES = new Set(Array.from('栗粽岳郁凶'));
 
 // 逐字引用 PRC 模型拒答訊息——是證據不是外洩
-const QUOTED_EVIDENCE = ['无法给到相关内容'];
+const QUOTED_EVIDENCE = ['无法给到相关内容', '我无法'];
 
 // 用 CJK 書寫系統的語言：這些語言出現漢字是正常的
 const CJK_LANGS = new Set(['zh-TW', 'ja', 'ko']);

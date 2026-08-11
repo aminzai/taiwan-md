@@ -4,6 +4,8 @@ import { LANGUAGE_DISPLAY_NAMES, DEFAULT_LANGUAGE } from '../config/languages';
 export type Locale = Lang;
 import { homeUI } from './home';
 import { aboutUI } from './about';
+// bench deep-page prose (en/ja/ko/zh-TW only; other langs fall back via FALLBACK_CHAIN)
+import { benchUI } from './bench';
 import { dataUI } from './data';
 import { contributeUI } from './contribute';
 import { changelogUI } from './changelog';
@@ -41,6 +43,7 @@ export const ui = {
     ...exploreUI.en,
     ...latestUI.en,
     ...timelineUI.en,
+    ...benchUI.en,
     'nav.aria-home': 'Taiwan.md Home',
     'nav.aria-img-label': 'Taiwan.md logo',
     'nav.aria-toggle-menu': 'Toggle navigation menu',
@@ -275,6 +278,7 @@ export const ui = {
     ...exploreUI.ja,
     ...latestUI.ja,
     ...timelineUI.ja,
+    ...benchUI.ja,
     'nav.aria-home': 'Taiwan.md ホーム',
     'nav.aria-img-label': 'Taiwan.md ロゴ',
     'nav.aria-toggle-menu': 'ナビゲーションメニューの切替',
@@ -498,6 +502,7 @@ export const ui = {
     ...exploreUI.ko,
     ...latestUI.ko,
     ...timelineUI.ko,
+    ...benchUI.ko,
     'nav.aria-home': 'Taiwan.md 홈',
     'nav.aria-img-label': 'Taiwan.md 로고',
     'nav.aria-toggle-menu': '내비게이션 메뉴 전환',
@@ -2601,6 +2606,7 @@ export const ui = {
     ...exploreUI['zh-TW'],
     ...latestUI['zh-TW'],
     ...timelineUI['zh-TW'],
+    ...benchUI['zh-TW'],
     'nav.aria-home': 'Taiwan.md 首頁',
     'nav.aria-img-label': 'Taiwan.md 標誌圖示',
     'nav.aria-toggle-menu': '開啟/關閉導航選單',
