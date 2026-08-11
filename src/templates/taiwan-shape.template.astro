@@ -182,15 +182,7 @@ const townsFiles = [
             <div class="svg-info">
               <h3>taiwan-icon.svg</h3>
               <p class="svg-desc">
-                {
-                  lang === 'en'
-                    ? 'Simple filled outline — great for icons, favicons, buttons.'
-                    : lang === 'ja'
-                      ? 'シンプルな塗りつぶし輪郭 — アイコン、favicon、ボタンに最適。'
-                      : lang === 'ko'
-                        ? '심플한 채워진 윤곽 — 아이콘, 파비콘, 버튼에 최적.'
-                        : '簡潔的填色輪廓 — 適合做 icon、favicon、按鈕。'
-                }
+                {t('taiwanShape.svg.icon.desc')}
               </p>
               <p class="svg-meta">Wikimedia Commons · CC</p>
               <div class="svg-actions">
@@ -224,15 +216,7 @@ const townsFiles = [
             <div class="svg-info">
               <h3>taiwan-simplemaps.svg</h3>
               <p class="svg-desc">
-                {
-                  lang === 'en'
-                    ? 'Clean vector — great for web embedding.'
-                    : lang === 'ja'
-                      ? 'クリーンなベクター — Web 埋め込みに最適。'
-                      : lang === 'ko'
-                        ? '깨끗한 벡터 — 웹 임베딩에 최적.'
-                        : '乾淨向量檔 — 適合網頁嵌入。'
-                }
+                {t('taiwanShape.svg.simplemaps.desc')}
               </p>
               <p class="svg-meta">SimpleMaps · 5 KB</p>
               <div class="svg-actions">
@@ -266,15 +250,7 @@ const townsFiles = [
             <div class="svg-info">
               <h3>taiwan-location-map.svg</h3>
               <p class="svg-desc">
-                {
-                  lang === 'en'
-                    ? 'Location map with lat/lon grid and city markers.'
-                    : lang === 'ja'
-                      ? '位置マップ — 経緯度・都市マーカー付き。'
-                      : lang === 'ko'
-                        ? '위치 지도 — 경위도 · 도시 마커 포함.'
-                        : '位置地圖 — 含經緯度網格與城市標記。'
-                }
+                {t('taiwanShape.svg.locationMap.desc')}
               </p>
               <p class="svg-meta">Wikimedia Commons · CC</p>
               <div class="svg-actions">
@@ -308,15 +284,7 @@ const townsFiles = [
             <div class="svg-info">
               <h3>taiwan-political-division.svg</h3>
               <p class="svg-desc">
-                {
-                  lang === 'en'
-                    ? 'County borders — colored administrative divisions.'
-                    : lang === 'ja'
-                      ? '県市境界 — カラー行政区分。'
-                      : lang === 'ko'
-                        ? '현시 경계 — 컬러 행정구역.'
-                        : '縣市邊界 — 彩色行政區劃。'
-                }
+                {t('taiwanShape.svg.politicalDivision.desc')}
               </p>
               <p class="svg-meta">Wikimedia Commons · CC</p>
               <div class="svg-actions">
@@ -887,6 +855,9 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
       display: flex;
       gap: 0.5rem;
       margin-top: 0.8rem;
+      /* #1310: let whole buttons drop to the next line instead of letting the
+         label break inside itself. */
+      flex-wrap: wrap;
     }
 
     /* Buttons */
@@ -903,6 +874,12 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
       justify-content: center;
       transition: all 0.15s;
       font-family: inherit;
+      /* #1310: Japanese has no spaces, so the browser is free to break a label
+         at any character — 「SVG をダウンロード」 was wrapping with a lone 「ド」
+         on the second line. Latin labels never showed it because they break at
+         spaces. Keep button labels on one line and let .svg-actions wrap whole
+         buttons instead. */
+      white-space: nowrap;
     }
     .btn-primary {
       background: #c73e3a;

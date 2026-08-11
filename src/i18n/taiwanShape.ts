@@ -1,5 +1,13 @@
 export const taiwanShapeUI = {
   en: {
+    'taiwanShape.svg.icon.desc':
+      'Simple filled outline — great for icons, favicons, buttons.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Clean vector — great for web embedding.',
+    'taiwanShape.svg.locationMap.desc':
+      'Location map with lat/lon grid and city markers.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'County borders — colored administrative divisions.',
     // Meta
     'taiwanShape.meta.title':
       "Taiwan's Shape — Open-Source Maps, SVG, GeoJSON & TopoJSON Data",
@@ -86,6 +94,14 @@ export const taiwanShapeUI = {
   },
 
   vi: {
+    'taiwanShape.svg.icon.desc':
+      'Đường viền tô đặc đơn giản — hợp cho biểu tượng, favicon, nút bấm.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vector gọn gàng — hợp để nhúng vào web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Bản đồ vị trí có lưới kinh vĩ độ và điểm đánh dấu thành phố.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Ranh giới huyện thị — các đơn vị hành chính được tô màu.',
     // Meta
     'taiwanShape.meta.title':
       'Hình dáng Đài Loan — Bộ dữ liệu bản đồ nguồn mở: SVG, GeoJSON, TopoJSON',
@@ -163,6 +179,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Đã sao chép',
   },
   id: {
+    'taiwanShape.svg.icon.desc':
+      'Garis luar terisi sederhana — cocok untuk ikon, favicon, tombol.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vektor bersih — cocok untuk disematkan di web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Peta lokasi dengan grid lintang/bujur dan penanda kota.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Batas kabupaten — pembagian administratif berwarna.',
     // Meta
     'taiwanShape.meta.title':
       'Bentuk Taiwan — Kumpulan Data Peta Sumber Terbuka: SVG, GeoJSON, TopoJSON',
@@ -244,6 +268,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Disalin',
   },
   pt: {
+    'taiwanShape.svg.icon.desc':
+      'Contorno preenchido simples — ideal para ícones, favicons e botões.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vetor limpo — ideal para incorporar na web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Mapa de localização com grelha de lat/lon e marcadores de cidades.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Limites de condados — divisões administrativas a cores.',
     // Meta
     'taiwanShape.meta.title':
       'O formato de Taiwan — Conjunto de dados cartográficos de código aberto: SVG, GeoJSON, TopoJSON',
@@ -326,6 +358,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Copiado',
   },
   hi: {
+    'taiwanShape.svg.icon.desc':
+      'सरल भरा हुआ आउटलाइन — आइकन, फ़ेविकॉन और बटन के लिए उपयुक्त।',
+    'taiwanShape.svg.simplemaps.desc':
+      'स्वच्छ वेक्टर — वेब में एम्बेड करने के लिए उपयुक्त।',
+    'taiwanShape.svg.locationMap.desc':
+      'स्थान मानचित्र — अक्षांश/देशांतर ग्रिड और शहर चिह्नों सहित।',
+    'taiwanShape.svg.politicalDivision.desc':
+      'काउंटी सीमाएँ — रंगीन प्रशासनिक विभाजन।',
     // Meta
     'taiwanShape.meta.title':
       'ताइवान का आकार — ओपन-सोर्स मानचित्र डेटासेट: SVG, GeoJSON, TopoJSON',
@@ -404,6 +444,13 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ कॉपी किया गया',
   },
   ar: {
+    'taiwanShape.svg.icon.desc':
+      'مخطط مصمت بسيط — مناسب للأيقونات وأيقونات المفضلة والأزرار.',
+    'taiwanShape.svg.simplemaps.desc': 'متجه نظيف — مناسب للتضمين في الويب.',
+    'taiwanShape.svg.locationMap.desc':
+      'خريطة موقع مع شبكة خطوط الطول والعرض وعلامات المدن.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'حدود المقاطعات — تقسيمات إدارية ملوّنة.',
     // Meta
     'taiwanShape.meta.title':
       'شكل تايوان — مجموعة بيانات خرائط مفتوحة المصدر: SVG، GeoJSON، TopoJSON',
@@ -482,6 +529,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ تم النسخ',
   },
   ru: {
+    'taiwanShape.svg.icon.desc':
+      'Простой залитый контур — подходит для иконок, фавиконов и кнопок.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Чистый вектор — подходит для встраивания в веб.',
+    'taiwanShape.svg.locationMap.desc':
+      'Карта расположения с сеткой широты/долготы и метками городов.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Границы уездов — административное деление в цвете.',
     // Meta
     'taiwanShape.meta.title':
       'Форма Тайваня — открытый набор картографических данных: SVG, GeoJSON, TopoJSON',
@@ -562,6 +617,11 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Скопировано',
   },
   'zh-TW': {
+    'taiwanShape.svg.icon.desc':
+      '簡潔的填色輪廓 — 適合做 icon、favicon、按鈕。',
+    'taiwanShape.svg.simplemaps.desc': '乾淨向量檔 — 適合網頁嵌入。',
+    'taiwanShape.svg.locationMap.desc': '位置地圖 — 含經緯度網格與城市標記。',
+    'taiwanShape.svg.politicalDivision.desc': '縣市邊界 — 彩色行政區劃。',
     // Meta
     'taiwanShape.meta.title':
       '台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON',
@@ -638,6 +698,13 @@ export const taiwanShapeUI = {
   },
 
   ja: {
+    'taiwanShape.svg.icon.desc':
+      'シンプルな塗りつぶし輪郭 — アイコン、favicon、ボタンに最適。',
+    'taiwanShape.svg.simplemaps.desc':
+      'クリーンなベクター — Web 埋め込みに最適。',
+    'taiwanShape.svg.locationMap.desc':
+      '位置マップ — 経緯度・都市マーカー付き。',
+    'taiwanShape.svg.politicalDivision.desc': '県市境界 — カラー行政区分。',
     'taiwanShape.meta.title':
       '台湾のかたち — オープンソース地図データ：SVG・GeoJSON・TopoJSON',
     'taiwanShape.meta.description':
@@ -713,6 +780,11 @@ export const taiwanShapeUI = {
   },
 
   ko: {
+    'taiwanShape.svg.icon.desc':
+      '심플한 채워진 윤곽 — 아이콘, 파비콘, 버튼에 최적.',
+    'taiwanShape.svg.simplemaps.desc': '깨끗한 벡터 — 웹 임베딩에 최적.',
+    'taiwanShape.svg.locationMap.desc': '위치 지도 — 경위도 · 도시 마커 포함.',
+    'taiwanShape.svg.politicalDivision.desc': '현시 경계 — 컬러 행정구역.',
     'taiwanShape.meta.title':
       '대만의 모양 — 오픈소스 지도 데이터: SVG · GeoJSON · TopoJSON',
     'taiwanShape.meta.description':
@@ -787,6 +859,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ 복사됨',
   },
   fr: {
+    'taiwanShape.svg.icon.desc':
+      'Contour plein et simple — parfait pour icônes, favicons et boutons.',
+    'taiwanShape.svg.simplemaps.desc':
+      "Vecteur épuré — parfait pour l'intégration web.",
+    'taiwanShape.svg.locationMap.desc':
+      'Carte de localisation avec grille lat/lon et repères de villes.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Limites des comtés — divisions administratives en couleur.',
     'taiwanShape.meta.title':
       'La forme de Taïwan — Cartes open source, données SVG, GeoJSON et TopoJSON',
     'taiwanShape.meta.description':
@@ -853,6 +933,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Copié',
   },
   es: {
+    'taiwanShape.svg.icon.desc':
+      'Contorno relleno simple — ideal para iconos, favicons y botones.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vector limpio — ideal para incrustar en la web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Mapa de ubicación con cuadrícula de lat/lon y marcadores de ciudades.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Límites de condados — divisiones administrativas en color.',
     'taiwanShape.meta.title':
       'La forma de Taiwán — Mapas de código abierto, datos SVG, GeoJSON y TopoJSON',
     'taiwanShape.meta.description':
