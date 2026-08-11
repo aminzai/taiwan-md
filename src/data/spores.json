@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-08-12T06:11:17+08:00",
+  "_generated": "2026-08-12T06:38:26+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 161,
     "articles": 77,
-    "withMetrics": 149
+    "withMetrics": 151
   },
   "spores": [
     {
@@ -9402,14 +9402,30 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Db591ugI6tB",
       "template": "B 冷知識型（meta release 里程碑）",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
+        "views": 758,
+        "likes": 43,
+        "reposts": 2,
+        "comments": 0,
         "shares": null
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-08-12 06:35",
+        "batch": "batch-2026-08-12-2-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-12 06:35",
+          "batch": "batch-2026-08-12-2-spores",
+          "views": 758,
+          "likes": 43,
+          "reposts": 2,
+          "comments": 0,
+          "shares": null
+        }
+      ]
     },
     {
       "id": 171,
@@ -9422,14 +9438,30 @@
       "url": "https://x.com/taiwandotmd/status/2087208201729249614",
       "template": "B 冷知識型（meta release 里程碑）",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 1406,
+        "likes": 51,
+        "reposts": 6,
+        "comments": 0,
+        "shares": 12
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-08-12 06:40",
+        "batch": "batch-2026-08-12-2-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-12 06:40",
+          "batch": "batch-2026-08-12-2-spores",
+          "views": 1406,
+          "likes": 51,
+          "reposts": 6,
+          "comments": 0,
+          "shares": 12
+        }
+      ]
     }
   ],
   "byArticle": {
