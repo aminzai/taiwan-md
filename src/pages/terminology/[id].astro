@@ -384,11 +384,17 @@ const faqEntries = [
   { q: `「${p.china}」台灣怎麼說？`, a: `台灣通常說「${p.taiwan}」。` },
   {
     q: `「${p.china}」算中國用語嗎？`,
-    a: isDiverging
-      ? `「${p.china}」兩岸都在用、正在分歧，台灣這邊習慣說「${taiwanPrimary}」。`
-      : isSameWordDiffFeel
-        ? `「${p.china}」兩岸都用，但語感不同；台灣這邊比較常說「${taiwanPrimary}」。`
-        : `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`,
+    // usage.note / usage.exceptions carries per-term scope qualifiers (issue
+    // #1286: 陰陽怪氣 adjective usage is MoE-dictionary standard Mandarin —
+    // only the verb usage is a China-internet usage). Fold it into the answer
+    // so the FAQ (and its JSON-LD mirror) never over-claims the whole word.
+    a:
+      (isDiverging
+        ? `「${p.china}」兩岸都在用、正在分歧，台灣這邊習慣說「${taiwanPrimary}」。`
+        : isSameWordDiffFeel
+          ? `「${p.china}」兩岸都用，但語感不同；台灣這邊比較常說「${taiwanPrimary}」。`
+          : `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`) +
+      (usageNote || ''),
   },
 ];
 
@@ -523,6 +529,25 @@ const faqLD = {
         {leadExtra && <span class="text-[#555]">{leadExtra}</span>}
       </p>
 
+      <!-- Scope / exception callout (issue #1286) — rendered high and loud so a
+           reader never walks away thinking the WHOLE word is a China-usage when
+           only part of it is (e.g. 陰陽怪氣: verb usage = China-internet, but the
+           adjective is MoE-dictionary standard Mandarin; 質量: physics "mass" is
+           legit everywhere). Source: usage.note / usage.exceptions in the YAML.
+           Placeholder values（「無」etc.）are scrubbed above. -->
+      {
+        usageNote && (
+          <aside class="mb-8 rounded-xl border-[1.5px] border-[#f0c36d] bg-[#fffaf0] p-4">
+            <h2 class="mb-1 text-[0.95rem] font-bold text-[#8a6d1a]">
+              ⚠️ 例外與適用範圍
+            </h2>
+            <p class="m-0 text-[0.92rem] leading-[1.8] text-[#5c4d1f]">
+              {usageNote}
+            </p>
+          </aside>
+        )
+      }
+
       <!-- fork_type explanation (gated: no unsupported historical claims) -->
       {
         showFork && forkLabel && forkBlurb && (
@@ -576,9 +601,10 @@ const faqLD = {
             <blockquote class="m-0 rounded-xl border-l-[3px] border-[#27ae60] bg-white px-5 py-4 text-[0.98rem] leading-[1.85] text-[#333]">
               {usageExample}
             </blockquote>
-            {usageNote && (
-              <p class="mt-2 text-[0.85rem] text-[#94a3b8]">{usageNote}</p>
-            )}
+            {/* usageNote moved to the ⚠️ 例外與適用範圍 callout above (issue
+                #1286) — it used to render here in small gray text, gated on
+                usageExample existing, which made it invisible on ~95% of the
+                entries that carry a real usage.exceptions value. */}
           </section>
         )
       }
