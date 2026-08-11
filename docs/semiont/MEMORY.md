@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-11
-last_session: '2026-08-11-061347-twmd-data-refresh-am（14 步全綠零 stale，Stage 1.5 rider 第三天自然執行）'
+last_session: '2026-08-11-release-v1150（v1.15.0 release row append）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -336,3 +336,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-11 | 064211-twmd-spore-harvest-am | D+7 finalize：黃崇仁連續第四輪精確持平正式判定生命週期結束；巢狀回覆抽查首驗證可行；EZWAY #168 抓到 likes/reposts D+5-D+6 疑似互換 | 知道盲點在哪跟今天真的多看一眼是兩件事 | [→](memory/2026-08-11-064211-twmd-spore-harvest-am.md) |
 | 2026-08-11 | 071031-twmd-feedback-triage | 同一位讀者八則介面與多語問題開成 issue #1310-#1317，零 spam 零重複；兩道對賬 71/71 與 70/71（#1252 上游刪留言 git 留著） | 儀器量得到頁面有字，量不到那行字對不對——這把尺得由逐頁比對的人來拿 | [→](memory/2026-08-11-071031-twmd-feedback-triage.md) |
 | 2026-08-11 | 085813-twmd-maintainer-am | 上半場八則回報只加 label、修好零件而六閘全綠；哲宇 callout 後倒過來做：先追上游收斂成一個根因修完（泡泡圖 45 家名稱截斷、十倍單位錯、ja 用繁體字形），造 UI 語言閘門，再沉澱成 v2.7 §1c | 閘門量得到有沒有處理，量不到有沒有解決——我就是那個反例 | [→](memory/2026-08-11-085813-twmd-maintainer-am.md) |
+| 2026-08-11 | release-v1.15.0 | 🧬 **v1.15.0 release** — 我學會了長出複眼：1,733 commits／17 天，七月新生六語 27%→82%（十二語譯文 8,764，+3,089）、NVIDIA 講台與天下專題兩次外部描述、查證狀態三態、十三個假陽性家族 | 自己的尺量不到的維度，靠接進來的外部眼睛看見 | [→](https://github.com/frank890417/taiwan-md/releases/tag/v1.15.0) |
