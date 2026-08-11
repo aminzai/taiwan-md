@@ -3591,7 +3591,7 @@ export const mapUI = {
       'Kekayaan spesies endemik Taiwan memperlihatkan keajaiban evolusi biogeografi kepulauan dan pentingnya pelestarian',
     'map.markers.taiwanRapHipHop.title': 'Keanekaragaman Ekologis',
     'map.markers.taiwanRapHipHop.desc':
-      'Luas Taiwan hanya mencakup 0.025% wilayah dunia, tetapi memiliki lebih dari 5万 spesies, dengan tutupan hutan sebesar 60.71% yang menempati peringkat ke-33 dunia',
+      'Luas Taiwan hanya mencakup 0.025% wilayah dunia, tetapi memiliki lebih dari 50.000 spesies, dengan tutupan hutan sebesar 60.71% yang menempati peringkat ke-33 dunia',
     'map.markers.taiwanElectronicMusic.title': 'Paus dan Lumba-Lumba Taiwan',
     'map.markers.taiwanElectronicMusic.desc':
       'Habitat bagi sepertiga spesies paus dan lumba-lumba dunia—dari perburuan paus pada masa lalu hingga wisata pengamatan paus masa kini, bagaimana Taiwan bertransformasi menjadi pusat penting penelitian ekologi laut?',
@@ -4917,7 +4917,7 @@ export const mapUI = {
       '2018 में मिशेलिन गाइड के लाल आवरण पर पहली बार「TAIPEI」छपा, जिसने ताइवान के भोजन उद्योग के औपचारिक रूप से अंतरराष्ट्रीय मूल्यांकन प्रणाली में प्रवेश को चिह्नित किया। सड़क किनारे के ठेलों से लेकर सितारा-प्राप्त रेस्तरां तक, आम लोगों के भोजन से लेकर उत्कृष्ट पाक-कला तक, ताइवान की भोजन संस्कृति अंतरराष्ट्रीय मंच पर परंपरा और नवाचार के आकर्षक संगम के रूप में उभरी है।',
     'map.markers.taiwanAgriculturalReform.title': 'रात्रि बाजार संस्कृति',
     'map.markers.taiwanAgriculturalReform.desc':
-      '164 पंजीकृत रात्रि बाजार、ताइनान में औसतन हर 3.8万人 पर एक रात्रि बाजार, मंदिर प्रांगण से अंतरराष्ट्रीय पर्यटन स्थल तक',
+      '164 पंजीकृत रात्रि बाजार、ताइनान में औसतन हर 38,000 लोगों पर एक रात्रि बाजार, मंदिर प्रांगण से अंतरराष्ट्रीय पर्यटन स्थल तक',
     'map.markers.taiwanTeaIndustry.title': 'हक्का खानपान संस्कृति',
     'map.markers.taiwanTeaIndustry.desc':
       'हक्का समुदाय की समृद्ध और विविध खानपान संस्कृति, लेई चा की गहरी सुगंध से लेकर जंगली अदरक के फूल में लिपटे चावल के पकवान के पर्वतीय स्वाद तक, मितव्ययी गृह-प्रबंधन और स्थानीय सामग्री के उपयोग से जुड़ी हक्का जीवन-बुद्धि को दर्शाती है',
@@ -5690,7 +5690,7 @@ export const mapUI = {
       'في عام 2018، ظهرت غلاف دليل ميشلان الأحمر لأول مرة بكلمة "تايبيه"، مما يشير إلى دخول صناعة المطاعم التايوانية رسميًا إلى نظام التقييم الدولي. من أكشاك الشوارع إلى المطاعم النجمية، ومن الطعام الشعبي إلى الأطباق الفاخرة، تظهر الثقافة الغذائية التايوانية على المسرح الدولي مظهرًا جذابًا يجمع بين التقليد والابتكار.',
     'map.markers.taiwanAgriculturalReform.title': 'ثقافة أسواق الليل',
     'map.markers.taiwanAgriculturalReform.desc':
-      '164 سوق ليل تحت الإشراف، يتوسط تاينان 38 ألفًا拥有一夜市 (يتمتع سوق ليل واحد لكل 38 ألف شخص)، من ساحات المعابد إلى الوجهات السياحية الدولية',
+      '164 سوق ليل تحت الإشراف، يتمتع في تاينان كل 38 ألف شخص بسوق ليل واحد، من ساحات المعابد إلى الوجهات السياحية الدولية',
     'map.markers.taiwanTeaIndustry.title': 'ثقافة الطعام الهكا',
     'map.markers.taiwanTeaIndustry.desc':
       'الثقافة الغذائية الغنية والمتنوعة لشعب الهكا، من الرائحة الغنية والكثيفة للشاي المخلوط إلى جو الجبال والغابات لأرزونج الزنجبيل البري، مما يعرض الحكمة الحياتية لشعب الهكا في الادخار والكفاح واستخدام المواد المحلية',
@@ -6021,7 +6021,7 @@ export const mapUI = {
     'map.markers.taiwanTyphoons.title':
       'هوانغ زينان: يوكيو ناكامورا في عالم الكتب ومصدر活水 (مياه حية) لتاريخ وتراث تايوان',
     'map.markers.taiwanTyphoons.desc':
-      'هوانغ زينان هو باحث في تاريخ وتراث تايوان، وجامع كتب، وروائي. بدأ مسيرته تحت الاسم المستعار Sizumaru على PTT، وأدار صفحة "مكتبة هوانغ شوي لاى" لمشاركة تاريخ تايوان وثقافة الكتب القديمة. له مؤلفات مثل "أكثر التاريخ التايواني إثارة للدهشة في تاريخ تايوان"، ويُعتبر يوكيو ناكامورا في عالم الكتب. انطلق من عائلة书香 في ليوجيو، تشيآي، حيث عمل الأب والابن بتقسيم南北 (الجنوب والشمال) لجمع الوثائق، ساعيًا لجعل التاريخ التايواني الجاد ممتعًا وشائعًا.',
+      'هوانغ زينان هو باحث في تاريخ وتراث تايوان، وجامع كتب، وروائي. بدأ مسيرته تحت الاسم المستعار Sizumaru على PTT، وأدار صفحة "مكتبة هوانغ شوي لاى" لمشاركة تاريخ تايوان وثقافة الكتب القديمة. له مؤلفات مثل "أكثر التاريخ التايواني إثارة للدهشة في تاريخ تايوان"، ويُعتبر يوكيو ناكامورا في عالم الكتب. انطلق من عائلةٍ عريقةٍ في حبّ الكتب في ليوجيو، تشيآي، حيث عمل الأب والابن بتقسيمٍ بين الجنوب والشمال لجمع الوثائق، ساعيًا لجعل التاريخ التايواني الجاد ممتعًا وشائعًا.',
     'map.markers.sunflowerMovement.title':
       'الحديقة الحيوانية وأخلاقيات عرض الحيوانات',
     'map.markers.sunflowerMovement.desc':
@@ -6048,7 +6048,7 @@ export const mapUI = {
       'أقدم نظام رعاية طويلة الأمد في العالم، لكنه يوجد في نفس الوقت أكبر نظام رعاية خفي',
     'map.markers.taiwanLaborMovement.title': 'البيئة والتنمية المستدامة',
     'map.markers.taiwanLaborMovement.desc':
-      'من جزيرة المداخن إلى تايوان صافية الكربون: طريق觉醒 (الاستيقاظ) لحركة البيئة على مدار 40 عامًا',
+      'من جزيرة المداخن إلى تايوان صافية الكربون: طريق الاستيقاظ لحركة البيئة على مدار 40 عامًا',
     'map.markers.taiwanHousingIssues.title': 'السكن الاجتماعي والعدالة السكنية',
     'map.markers.taiwanHousingIssues.desc':
       'كيف يمكن لتايوان تحقيق العدالة السكنية من خلال سياسة السكن الاجتماعي، لتمكين كل فرد من مكان آمن للعيش والعمل',
@@ -6806,7 +6806,7 @@ export const mapUI = {
     'map.markers.taiwanSocialMovements.title':
       'Земельная справедливость и традиционные территории тайваньских коренных народов',
     'map.markers.taiwanSocialMovements.desc':
-      'Изучение исторического контекста, правового развития, споров о划定 традиционных территорий и результатов работы Комиссии по трансформации справедливости для коренных народов Тайваня',
+      'Изучение исторического контекста, правового развития, споров о разграничении традиционных территорий и результатов работы Комиссии по трансформации справедливости для коренных народов Тайваня',
     'map.markers.taiwanMarriageEquality.title':
       'Однополые браки и гендерное равенство на Тайване',
     'map.markers.taiwanMarriageEquality.desc':

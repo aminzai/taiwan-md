@@ -52,6 +52,26 @@ elif [ -f "$REPO/scripts/tools/article-health.py" ] && command -v python3 >/dev/
   echo "🧬 pre-push: ✅ 全站 article-health 全綠（ci-deploy mirror）"
 fi
 
+# 2b. correctness gate — UI 字串層語言正確性。HARD fail → block。~0.2s。
+#     文章層有 cjk-leak-check 守著，src/i18n/*.ts 這層在 2026-08-11 之前一支都沒有，
+#     於是同一種病靠讀者回報了三次：8/06 俄文讀者看到烏克蘭文介面、8/10 taiwan-shape
+#     與回饋模組多語未譯（#1311/#1314）、8/11 ar 整段是簡體中文且用中國詞彙（#1318）。
+#     UI 字串在每一頁都出現，曝光量遠高於任何單篇文章——保護密度不該跟曝光量成反比。
+#     逃生：TWMD_SKIP_UI_LANG=1。
+if [ "${TWMD_SKIP_UI_LANG:-0}" = "1" ]; then
+  echo "🧬 pre-push: TWMD_SKIP_UI_LANG=1，跳過 UI 字串語言閘門（CI 仍會擋）"
+elif [ -f "$REPO/scripts/tools/check-ui-language.mjs" ] && command -v node >/dev/null 2>&1; then
+  if ! node "$REPO/scripts/tools/check-ui-language.mjs" >/dev/null 2>&1; then
+    echo ""
+    echo "🧬 pre-push: ⛔ UI 字串語言閘門有問題 — 某個語言的讀者會看到不是自己語言的字。"
+    echo "   明細：npm run check:ui-lang"
+    echo "   三類：SIMPLIFIED_LEAK（簡體外洩）／UNTRANSLATED_CJK（整串沒翻）／TABLE_DRIFT（字串表落後語言註冊表）"
+    echo "   逃生：TWMD_SKIP_UI_LANG=1 git push …（reflog 留痕）"
+    exit 1
+  fi
+  echo "🧬 pre-push: ✅ UI 字串語言閘門全綠"
+fi
+
 # 2b. orphan gate — 譯本 translatedFrom 指向已刪除的中文 source ＝ CD prebuild exit 2、deploy 不發生。
 #     pre-commit 只驗 staged，抓不到「rename/刪 zh 檔讓某語譯本變孤兒」這種 cross-file 後果。
 #     觸發：2026-06-28 流行音樂與金曲獎→金曲獎 rename，fr 譯本用雙引號漏掉 sed → orphan 滑到 CD 才爆。

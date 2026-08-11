@@ -65,7 +65,8 @@
     "prepare": "husky",
     "prebuild:gitinfo": "node scripts/core/build-git-info.mjs",
     "prebuild:redirects": "node scripts/core/generate-redirects.mjs",
-    "check:url-contract": "node scripts/tools/check-url-contract.mjs"
+    "check:url-contract": "node scripts/tools/check-url-contract.mjs",
+    "check:ui-lang": "node scripts/tools/check-ui-language.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.17",

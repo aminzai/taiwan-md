@@ -20,6 +20,20 @@ const translatePath = useTranslatedPath(lang);
 const companies = getCompanyConfigs(t);
 const fellOff = getFellOffCompanies(t);
 const sectors = [...new Set(companies.map((c) => c.sector))];
+
+// Source data is denominated in 億 (10^8) TWD, the unit Taiwanese filings use.
+// zh-TW readers keep it; everyone else gets billions, because the page used to
+// print the 億 figure under a "B" label and overstated every company tenfold
+// (#1317). The table and the bubble chart must use the same unit or a reader
+// comparing them sees two different numbers for one company.
+// zh-TW / ja / ko count in 億·억 natively, so they keep the source unit.
+// Everyone else gets billions.
+const MYRIAD_UNIT_LANGS = ['zh-TW', 'ja', 'ko'];
+const isZhPage = MYRIAD_UNIT_LANGS.includes(lang);
+const money = (v: number) =>
+  isZhPage
+    ? v.toLocaleString()
+    : (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
 ---
 
 <Layout
@@ -197,8 +211,8 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
                       {t(`data.sector.${c.sector}`)}
                     </span>
                   </td>
-                  <td class="num">{c.marketCap.toLocaleString()}</td>
-                  <td class="num">{c.revenue.toLocaleString()}</td>
+                  <td class="num">{money(c.marketCap)}</td>
+                  <td class="num">{money(c.revenue)}</td>
                   <td class="num">{c.employees.toLocaleString()}</td>
                   <td class="num">{c.founded}</td>
                 </tr>
@@ -228,8 +242,8 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
                   {t('data.companies.fellOff.marketCapNow')}
                 </span>
                 <span class="felloff-cap-value">
-                  {c.marketCapNow.toLocaleString()}{' '}
-                  <span class="felloff-cap-unit">億</span>
+                  {money(c.marketCapNow)}{' '}
+                  <span class="felloff-cap-unit">{isZhPage ? '億' : 'B'}</span>
                 </span>
               </div>
               <p class="felloff-reason">{c.reason}</p>
@@ -367,9 +381,38 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
         .attr('font-weight', '600')
         .attr('pointer-events', 'none');
 
+      // 億 is 10^8. The old code kept the 億-denominated number but relabelled
+      // it "B" (10^9) for every non-zh-TW reader, overstating every company
+      // tenfold. Convert the value instead of renaming the unit, and always
+      // say TWD — a bare "B" reads as USD to most readers (#1317).
+      const isZh = ['zh-TW', 'ja', 'ko'].includes(lang);
+      function metricNumber(v) {
+        if (currentMode === 'employees') return v.toLocaleString();
+        if (isZh) return v.toLocaleString();
+        return (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
+      }
       function metricUnit() {
-        if (currentMode === 'employees') return lang === 'zh-TW' ? ' 人' : '';
-        return lang === 'zh-TW' ? ' 億' : 'B';
+        if (currentMode === 'employees') return isZh ? ' 人' : '';
+        return isZh ? ' 億 TWD' : 'B TWD';
+      }
+
+      // Company names arrive as "<Latin> <漢字>" (en/es/fr/…) or "<漢字> <Latin>"
+      // (zh-TW/ja/ko). Splitting on the first space truncated 45 of the 70
+      // companies to a meaningless token — TSMC showed as "Taiwan", 中鋼
+      // (China Steel) as "China", and 台積電 / 台灣大哥大 became two
+      // indistinguishable "Taiwan" bubbles. Take the leading same-script run
+      // so each label stays whole in whatever script that language uses.
+      function shortLabel(name) {
+        const isCJK = (c) => /[㐀-鿿豈-﫿぀-ヿ]/.test(c);
+        const s = String(name || '').trim();
+        if (!s) return s;
+        const lead = isCJK(s[0]);
+        let out = '';
+        for (const ch of s) {
+          if (isCJK(ch) !== lead) break;
+          out += ch;
+        }
+        return out.trim() || s;
       }
 
       // Redraw each label from the CURRENT mode/sector. Labels used to be
@@ -383,7 +426,7 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
           el.text(null);
           if (currentSector !== 'all' && d.sector !== currentSector) return;
           const r = getRadius(d);
-          const shortName = d.name.split(' ')[0];
+          const shortName = shortLabel(d.name);
           if (r > 40) {
             el.append('tspan')
               .attr('x', 0)
@@ -395,7 +438,7 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
               .attr('dy', '1.2em')
               .attr('font-size', `${Math.min(10, r / 5)}px`)
               .attr('fill-opacity', 0.8)
-              .text(getValue(d).toLocaleString() + metricUnit());
+              .text(metricNumber(getValue(d)) + metricUnit());
           } else if (r > 20) {
             el.attr('font-size', `${Math.min(10, r / 3)}px`).text(shortName);
           } else {
@@ -411,11 +454,17 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
         revenue: lang === 'zh-TW' ? '營收' : 'Revenue',
         employees: lang === 'zh-TW' ? '員工' : 'Employees',
         founded: lang === 'zh-TW' ? '成立' : 'Founded',
-        unit: lang === 'zh-TW' ? '億 TWD' : '億 TWD',
+        unit: isZh ? '億 TWD' : 'B TWD',
         people: lang === 'zh-TW' ? '人' : '',
         year: lang === 'zh-TW' ? '年' : '',
         link: lang === 'zh-TW' ? '→ 看公司條目' : '→ Read article',
       };
+      // Same 億→B conversion as the bubble labels; tooltip and label must not
+      // disagree about the same company (#1317).
+      const money = (v) =>
+        isZh
+          ? v.toLocaleString()
+          : (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
 
       nodes
         .on('mouseover', (e, d) => {
@@ -425,8 +474,8 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
               `
             <strong>${d.name}</strong><br/>
             <span style="color:${colors[d.sector] || '#888'}">● ${d.ticker}</span><br/>
-            ${tooltipData.marketCap}：${d.marketCap.toLocaleString()} ${tooltipData.unit}<br/>
-            ${tooltipData.revenue}：${d.revenue.toLocaleString()} ${tooltipData.unit}<br/>
+            ${tooltipData.marketCap}：${money(d.marketCap)} ${tooltipData.unit}<br/>
+            ${tooltipData.revenue}：${money(d.revenue)} ${tooltipData.unit}<br/>
             ${tooltipData.employees}：${d.employees.toLocaleString()} ${tooltipData.people}<br/>
             ${tooltipData.founded}：${d.founded} ${tooltipData.year}
             ${d.articleUrl ? `<br/><span style="color:#7dd3fc">${tooltipData.link}</span>` : ''}
