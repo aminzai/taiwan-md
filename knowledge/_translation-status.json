@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-11T08:48:12+08:00",
-    "zhCommitHead": "c721906d8",
+    "lastUpdated": "2026-08-12T06:11:55+08:00",
+    "zhCommitHead": "df8c88633",
     "totalZh": 891,
     "activeLanguages": [
       "en",
@@ -19,89 +19,89 @@
     "summary": {
       "en": {
         "total_zh": 891,
-        "fresh": 841,
+        "fresh": 840,
         "stale": 26,
-        "metadata_stale": 11,
+        "metadata_stale": 12,
         "missing": 13,
         "orphan": 0
       },
       "ja": {
         "total_zh": 891,
-        "fresh": 848,
+        "fresh": 847,
         "stale": 16,
-        "metadata_stale": 8,
+        "metadata_stale": 9,
         "missing": 19,
         "orphan": 0
       },
       "ko": {
         "total_zh": 891,
-        "fresh": 860,
+        "fresh": 859,
         "stale": 14,
-        "metadata_stale": 11,
+        "metadata_stale": 12,
         "missing": 6,
         "orphan": 0
       },
       "es": {
         "total_zh": 891,
-        "fresh": 849,
+        "fresh": 848,
         "stale": 20,
-        "metadata_stale": 14,
+        "metadata_stale": 15,
         "missing": 8,
         "orphan": 0
       },
       "fr": {
         "total_zh": 891,
-        "fresh": 844,
+        "fresh": 843,
         "stale": 20,
-        "metadata_stale": 18,
+        "metadata_stale": 19,
         "missing": 9,
         "orphan": 0
       },
       "vi": {
         "total_zh": 891,
-        "fresh": 701,
+        "fresh": 700,
         "stale": 27,
-        "metadata_stale": 71,
+        "metadata_stale": 72,
         "missing": 92,
         "orphan": 0
       },
       "id": {
         "total_zh": 891,
-        "fresh": 561,
-        "stale": 7,
+        "fresh": 562,
+        "stale": 6,
         "metadata_stale": 4,
         "missing": 319,
         "orphan": 0
       },
       "pt": {
         "total_zh": 891,
-        "fresh": 824,
+        "fresh": 823,
         "stale": 9,
-        "metadata_stale": 3,
+        "metadata_stale": 4,
         "missing": 55,
         "orphan": 0
       },
       "hi": {
         "total_zh": 891,
-        "fresh": 653,
+        "fresh": 652,
         "stale": 0,
-        "metadata_stale": 3,
+        "metadata_stale": 4,
         "missing": 235,
         "orphan": 0
       },
       "ar": {
         "total_zh": 891,
-        "fresh": 736,
+        "fresh": 735,
         "stale": 1,
-        "metadata_stale": 3,
+        "metadata_stale": 4,
         "missing": 151,
         "orphan": 0
       },
       "ru": {
         "total_zh": 891,
-        "fresh": 773,
+        "fresh": 772,
         "stale": 1,
-        "metadata_stale": 3,
+        "metadata_stale": 4,
         "missing": 114,
         "orphan": 0
       }
@@ -19955,8 +19955,8 @@
           "sourceContentHash": "sha256:96b285db19941653",
           "sourceBodyHash": "sha256:96ecb5a6142f55f7",
           "translatedAt": "2026-08-11T08:45:00+08:00",
-          "translationLastCommit": "fe1d5bcd",
-          "translationLastModified": "2026-08-11T08:24:16+08:00",
+          "translationLastCommit": "f9e9b08a",
+          "translationLastModified": "2026-08-11T08:49:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -69144,9 +69144,9 @@
     },
     "People/王福瑞.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:59c2d496972724a5",
+        "lastCommit": "c5877264",
+        "lastModified": "2026-08-12T00:40:46+08:00",
+        "contentHash": "sha256:73a411edb3bee540",
         "bodyHash": "sha256:4ab6cbf6e5c250a3"
       },
       "translations": {
@@ -69161,8 +69161,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/People/fujui-wang.md",
@@ -69175,8 +69177,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/People/fujui-wang.md",
@@ -69189,8 +69193,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/People/fujui-wang.md",
@@ -69203,8 +69209,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/People/fujui-wang.md",
@@ -69217,8 +69225,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "vi": {
           "path": "vi/People/fujui-wang.md",
@@ -69231,8 +69241,10 @@
           "translationLastModified": "2026-08-09T11:18:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "id": {
           "status": "missing"
@@ -69248,8 +69260,10 @@
           "translationLastModified": "2026-07-29T06:30:49+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "hi": {
           "path": "hi/People/fujui-wang.md",
@@ -69262,8 +69276,10 @@
           "translationLastModified": "2026-07-29T20:51:17+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ar": {
           "path": "ar/People/fujui-wang.md",
@@ -69276,8 +69292,10 @@
           "translationLastModified": "2026-07-30T03:50:29+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ru": {
           "path": "ru/People/fujui-wang.md",
@@ -69290,8 +69308,10 @@
           "translationLastModified": "2026-07-30T04:50:29+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },
@@ -100803,16 +100823,16 @@
         "id": {
           "path": "id/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
+          "sourceCommitSha": "f712b724",
+          "sourceContentHash": "sha256:874c652bf8f5b63c",
           "sourceBodyHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "52652b1e",
-          "translationLastModified": "2026-08-10T22:14:34+08:00",
+          "translatedAt": "2026-08-10T22:14:34+08:00",
+          "translationLastCommit": "f9e9b08a",
+          "translationLastModified": "2026-08-11T08:49:36+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/hand-shaken-drink-culture.md",

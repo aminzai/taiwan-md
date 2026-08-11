@@ -1580,7 +1580,74 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-08-10",
+      "total_404": 4926,
+      "truncated": false,
+      "families": {
+        "probe-wellknown": {
+          "count": 85,
+          "bot": 3,
+          "browser": 82,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 950,
+          "bot": 173,
+          "browser": 180,
+          "empty": 597
+        },
+        "unknown": {
+          "count": 3305,
+          "bot": 1925,
+          "browser": 1380,
+          "empty": 0
+        },
+        "stale-asset": {
+          "count": 99,
+          "bot": 2,
+          "browser": 97,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 39,
+          "bot": 8,
+          "browser": 31,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 228,
+          "bot": 213,
+          "browser": 15,
+          "empty": 0
+        },
+        "bad-encoding": {
+          "count": 28,
+          "bot": 7,
+          "browser": 21,
+          "empty": 0
+        },
+        "md-extension": {
+          "count": 153,
+          "bot": 119,
+          "browser": 34,
+          "empty": 0
+        },
+        "untranslated-demand": {
+          "count": 32,
+          "bot": 22,
+          "browser": 10,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 7,
+          "bot": 6,
+          "browser": 1,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-08-10T22:11:07.184679+00:00"
+  "updated": "2026-08-11T22:11:15.941221+00:00"
 }

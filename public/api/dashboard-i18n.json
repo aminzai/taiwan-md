@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T22:11:59Z",
-  "max_total": 2172,
+  "generated": "2026-08-11T22:12:00Z",
+  "max_total": 2179,
   "modules": [
     {
       "name": "home",
@@ -22,10 +22,10 @@
     {
       "name": "about",
       "langs": {
-        "zh-TW": 269,
-        "en": 269,
-        "ja": 269,
-        "ko": 269,
+        "zh-TW": 272,
+        "en": 272,
+        "ja": 272,
+        "ko": 272,
         "es": 266,
         "fr": 266,
         "vi": 266,
@@ -175,18 +175,18 @@
     {
       "name": "taiwanShape",
       "langs": {
-        "zh-TW": 46,
-        "en": 46,
-        "ja": 46,
-        "ko": 46,
-        "es": 46,
-        "fr": 46,
-        "vi": 46,
-        "id": 46,
-        "pt": 46,
-        "hi": 46,
-        "ar": 46,
-        "ru": 46
+        "zh-TW": 50,
+        "en": 50,
+        "ja": 50,
+        "ko": 50,
+        "es": 50,
+        "fr": 50,
+        "vi": 50,
+        "id": 50,
+        "pt": 50,
+        "hi": 50,
+        "ar": 50,
+        "ru": 50
       }
     },
     {
@@ -208,17 +208,17 @@
     }
   ],
   "lang_totals": {
-    "zh-TW": { "keys": 2172, "coverage_pct": 100.0 },
-    "en": { "keys": 2172, "coverage_pct": 100.0 },
-    "ja": { "keys": 2173, "coverage_pct": 100.05 },
-    "ko": { "keys": 2173, "coverage_pct": 100.05 },
-    "es": { "keys": 2170, "coverage_pct": 99.91 },
-    "fr": { "keys": 2169, "coverage_pct": 99.86 },
-    "vi": { "keys": 2169, "coverage_pct": 99.86 },
-    "id": { "keys": 2169, "coverage_pct": 99.86 },
-    "pt": { "keys": 2169, "coverage_pct": 99.86 },
-    "hi": { "keys": 2169, "coverage_pct": 99.86 },
-    "ar": { "keys": 2169, "coverage_pct": 99.86 },
-    "ru": { "keys": 2169, "coverage_pct": 99.86 }
+    "zh-TW": { "keys": 2179, "coverage_pct": 100.0 },
+    "en": { "keys": 2179, "coverage_pct": 100.0 },
+    "ja": { "keys": 2180, "coverage_pct": 100.05 },
+    "ko": { "keys": 2180, "coverage_pct": 100.05 },
+    "es": { "keys": 2174, "coverage_pct": 99.77 },
+    "fr": { "keys": 2173, "coverage_pct": 99.72 },
+    "vi": { "keys": 2173, "coverage_pct": 99.72 },
+    "id": { "keys": 2173, "coverage_pct": 99.72 },
+    "pt": { "keys": 2173, "coverage_pct": 99.72 },
+    "hi": { "keys": 2173, "coverage_pct": 99.72 },
+    "ar": { "keys": 2173, "coverage_pct": 99.72 },
+    "ru": { "keys": 2173, "coverage_pct": 99.72 }
   }
 }

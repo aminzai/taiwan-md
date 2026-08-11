@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T22:12:11.015Z",
+  "lastUpdated": "2026-08-11T22:12:12.192Z",
   "languages": [
     "zh-TW",
     "en",
@@ -26,133 +26,133 @@
     "en": {
       "total": 878,
       "percentage": 98.5,
-      "fresh": 841,
-      "metadataStale": 11,
+      "fresh": 840,
+      "metadataStale": 12,
       "stale": 26,
       "missing": 13,
       "orphan": 0,
       "deficit": 13,
-      "freshPct": 94.4,
+      "freshPct": 94.3,
       "bodyFreshPct": 95.6
     },
     "ja": {
       "total": 872,
       "percentage": 97.9,
-      "fresh": 848,
-      "metadataStale": 8,
+      "fresh": 847,
+      "metadataStale": 9,
       "stale": 16,
       "missing": 19,
       "orphan": 0,
       "deficit": 19,
-      "freshPct": 95.2,
+      "freshPct": 95.1,
       "bodyFreshPct": 96.1
     },
     "ko": {
       "total": 885,
       "percentage": 99.3,
-      "fresh": 860,
-      "metadataStale": 11,
+      "fresh": 859,
+      "metadataStale": 12,
       "stale": 14,
       "missing": 6,
       "orphan": 0,
       "deficit": 6,
-      "freshPct": 96.5,
+      "freshPct": 96.4,
       "bodyFreshPct": 97.8
     },
     "es": {
       "total": 883,
       "percentage": 99.1,
-      "fresh": 849,
-      "metadataStale": 14,
+      "fresh": 848,
+      "metadataStale": 15,
       "stale": 20,
       "missing": 8,
       "orphan": 0,
       "deficit": 8,
-      "freshPct": 95.3,
+      "freshPct": 95.2,
       "bodyFreshPct": 96.9
     },
     "fr": {
       "total": 882,
       "percentage": 99,
-      "fresh": 844,
-      "metadataStale": 18,
+      "fresh": 843,
+      "metadataStale": 19,
       "stale": 20,
       "missing": 9,
       "orphan": 0,
       "deficit": 9,
-      "freshPct": 94.7,
+      "freshPct": 94.6,
       "bodyFreshPct": 96.7
     },
     "vi": {
       "total": 799,
       "percentage": 89.7,
-      "fresh": 701,
-      "metadataStale": 71,
+      "fresh": 700,
+      "metadataStale": 72,
       "stale": 27,
       "missing": 92,
       "orphan": 0,
       "deficit": 92,
-      "freshPct": 78.7,
+      "freshPct": 78.6,
       "bodyFreshPct": 86.6
     },
     "id": {
-      "total": 571,
-      "percentage": 64.1,
-      "fresh": 561,
+      "total": 572,
+      "percentage": 64.2,
+      "fresh": 562,
       "metadataStale": 4,
       "stale": 6,
-      "missing": 320,
+      "missing": 319,
       "orphan": 0,
-      "deficit": 320,
-      "freshPct": 63,
-      "bodyFreshPct": 63.4
+      "deficit": 319,
+      "freshPct": 63.1,
+      "bodyFreshPct": 63.5
     },
     "pt": {
       "total": 836,
       "percentage": 93.8,
-      "fresh": 824,
-      "metadataStale": 3,
+      "fresh": 823,
+      "metadataStale": 4,
       "stale": 9,
       "missing": 55,
       "orphan": 0,
       "deficit": 55,
-      "freshPct": 92.5,
+      "freshPct": 92.4,
       "bodyFreshPct": 92.8
     },
     "hi": {
       "total": 656,
       "percentage": 73.6,
-      "fresh": 653,
-      "metadataStale": 3,
+      "fresh": 652,
+      "metadataStale": 4,
       "stale": 0,
       "missing": 235,
       "orphan": 0,
       "deficit": 235,
-      "freshPct": 73.3,
+      "freshPct": 73.2,
       "bodyFreshPct": 73.6
     },
     "ar": {
       "total": 740,
       "percentage": 83.1,
-      "fresh": 736,
-      "metadataStale": 3,
+      "fresh": 735,
+      "metadataStale": 4,
       "stale": 1,
       "missing": 151,
       "orphan": 0,
       "deficit": 151,
-      "freshPct": 82.6,
+      "freshPct": 82.5,
       "bodyFreshPct": 82.9
     },
     "ru": {
       "total": 777,
       "percentage": 87.2,
-      "fresh": 773,
-      "metadataStale": 3,
+      "fresh": 772,
+      "metadataStale": 4,
       "stale": 1,
       "missing": 114,
       "orphan": 0,
       "deficit": 114,
-      "freshPct": 86.8,
+      "freshPct": 86.6,
       "bodyFreshPct": 87.1
     }
   },
@@ -522,11 +522,11 @@
         "deficit": 12
       },
       "id": {
-        "count": 43,
-        "fresh": 42,
+        "count": 44,
+        "fresh": 43,
         "stale": 1,
-        "missing": 21,
-        "deficit": 25
+        "missing": 20,
+        "deficit": 24
       },
       "pt": {
         "count": 51,
@@ -960,46 +960,46 @@
     "people": {
       "zh-TW": 240,
       "en": {
-        "count": 238,
-        "fresh": 235,
-        "stale": 3,
-        "missing": 2,
-        "deficit": 2
-      },
-      "ja": {
-        "count": 238,
-        "fresh": 237,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 2
-      },
-      "ko": {
-        "count": 237,
-        "fresh": 235,
-        "stale": 2,
-        "missing": 1,
-        "deficit": 3
-      },
-      "es": {
         "count": 237,
         "fresh": 234,
         "stale": 3,
+        "missing": 2,
+        "deficit": 3
+      },
+      "ja": {
+        "count": 237,
+        "fresh": 236,
+        "stale": 1,
         "missing": 1,
         "deficit": 3
+      },
+      "ko": {
+        "count": 236,
+        "fresh": 234,
+        "stale": 2,
+        "missing": 1,
+        "deficit": 4
+      },
+      "es": {
+        "count": 236,
+        "fresh": 233,
+        "stale": 3,
+        "missing": 1,
+        "deficit": 4
       },
       "fr": {
-        "count": 237,
-        "fresh": 233,
+        "count": 236,
+        "fresh": 232,
         "stale": 4,
         "missing": 1,
-        "deficit": 3
+        "deficit": 4
       },
       "vi": {
-        "count": 179,
-        "fresh": 171,
+        "count": 178,
+        "fresh": 170,
         "stale": 8,
         "missing": 42,
-        "deficit": 61
+        "deficit": 62
       },
       "id": {
         "count": 166,
@@ -1009,32 +1009,32 @@
         "deficit": 74
       },
       "pt": {
-        "count": 231,
-        "fresh": 231,
+        "count": 230,
+        "fresh": 230,
         "stale": 0,
         "missing": 9,
-        "deficit": 9
+        "deficit": 10
       },
       "hi": {
-        "count": 193,
-        "fresh": 193,
+        "count": 192,
+        "fresh": 192,
         "stale": 0,
         "missing": 47,
-        "deficit": 47
+        "deficit": 48
       },
       "ar": {
-        "count": 206,
-        "fresh": 206,
+        "count": 205,
+        "fresh": 205,
         "stale": 0,
         "missing": 34,
-        "deficit": 34
+        "deficit": 35
       },
       "ru": {
-        "count": 214,
-        "fresh": 214,
+        "count": 213,
+        "fresh": 213,
         "stale": 0,
         "missing": 26,
-        "deficit": 26
+        "deficit": 27
       }
     },
     "politics": {
@@ -1439,6 +1439,7 @@
       "Society/台灣教師的管教困境：從教鞭消失到不敢開口的二十年.md"
     ],
     "id": [
+      "People/王福瑞：從 200 份影印雜誌到 12 聲道喇叭的三十年.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",
       "Lifestyle/台灣醫療與全民健保：99.6% 撐在 12.61% 之上的世界第一.md",
@@ -1618,7 +1619,6 @@
       "History/福爾摩沙：西方人如何「發現」一座早就有人住的島.md",
       "Lifestyle/電競：從網咖小子到世界舞台，台灣韌性與機會的競技場.md",
       "Society/國立臺灣歷史博物館：第八展區叫「你也是寫歷史的人」.md",
-      "People/王福瑞：從 200 份影印雜誌到 12 聲道喇叭的三十年.md",
       "People/賈永婕：把明星社會資本一次次轉換成公共動員力的台灣實驗.md",
       "People/鄭麗文.md",
       "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
@@ -1686,7 +1686,6 @@
       "People/楊右任.md",
       "Economy/台灣企業：富邦金控.md",
       "Food/台灣冰品文化.md",
-      "Food/台灣手搖飲文化.md",
       "Food/台灣早餐文化.md",
       "Food/台灣發酵食品與醃製文化.md",
       "Food/台灣眷村菜.md",

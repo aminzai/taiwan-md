@@ -3236,7 +3236,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E7%8E%8B%E7%A6%8F%E7%91%9E",
-    "readingTime": 40,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-05-04",
     "path": "People/王福瑞.md"
@@ -26240,17 +26240,6 @@
     "path": "ja/Technology/ai-supply-chain-overseas-manufacturing.md"
   },
   {
-    "title": "AI ハードウェアのサプライチェーン：台湾がクラウドを機械に変える場所",
-    "description": "生成 AI はクラウドのサービスに見えますが、実際には一本の物理的な道路をまるごと必要とします。チップを設計する人、ウェハーを製造する人、パッケージングをする人、メモリ、電力、放熱、マザーボード、ラックを扱う人がいます。台湾の重要性は TSMC だけにあるのではなく、この道路の上にある多くの重要な関門がここに集中していることにあります。この共通の利益は本当に存在しますが、同時に電力と水、炭素排出、所得分配、海外での工場建設、地政学的リスクを伴い、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えていきます。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/technology/ai-hardware-supply-chain",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-07-11",
-    "path": "ja/Technology/ai-hardware-supply-chain.md"
-  },
-  {
     "title": "AI-индустрия искусственного интеллекта",
     "description": "От производства чипов NVIDIA к созданию AI-экосистемы: как Тайвань находит свою нишу в эпоху AI",
     "category": "ru",
@@ -26321,6 +26310,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "Technology/AI發展.md"
+  },
+  {
+    "title": "AIハードウェアサプライチェーン：台湾がクラウドをマシンに変える場所",
+    "description": "生成AIはクラウドサービスのように見えますが、実際には一連の物理的な道筋を必要とします：ある人はチップを設計し、ある人はウェーハを製造し、ある人はパッケージングを行い、さらにメモリ、電力、冷却、マザーボード、サーバーラックを処理する人々がいます。台湾の重要性はTSMC（台湾積体電路製造）の存在だけでなく、この道筋にある多くの重要な関門がここに集中していることにあります。この共通の利益は実在するものであり、水力・電力、炭素排出、所得分配、海外工場建設、地政学的リスクを伴いつつ、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えているのです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/ai-hardware-supply-chain",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ja/Technology/ai-hardware-supply-chain.md"
   },
   {
     "title": "Akademi Kecerdasan Buatan Taiwan: Telepon yang Tak Sempat Dituntaskan dan Sepuluh Ribu Insinyur AI",
@@ -29366,6 +29366,17 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "id/Food/taiwanese-noodle-culture.md"
+  },
+  {
+    "title": "Budaya Minuman Racikan Tangan Taiwan",
+    "description": "Dari teh susu mutiara hingga minuman teh premium: kebangkitan budaya minuman racikan tangan Taiwan dan ekspansi globalnya — industri yang lahir di Taichung tahun 1987 dan kini hadir di lebih dari 20 negara.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/hand-shaken-drink-culture",
+    "readingTime": 57,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "id/Food/hand-shaken-drink-culture.md"
   },
   {
     "title": "Budaya Pasar Malam: Gelombang Penarikan Mandat Terbesar dalam Sejarah dengan 33 Kasus yang Gagal, Mengukur Setiap Skala Demokrasi Taiwan",

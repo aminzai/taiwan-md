@@ -1,7 +1,217 @@
 {
-  "generatedAt": "2026-08-10T22:12:00.561Z",
+  "generatedAt": "2026-08-11T22:12:01.605Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "df8c8863363afaf51f6e901ecf88e80736f383cd",
+      "date": "2026-08-12T05:39:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-12 05:37 — 三層對賬第十九輪，抓到一個真跨層漂移",
+      "articles": []
+    },
+    {
+      "hash": "42e4fb8b43ea0140f06790406355ea7277db65c7",
+      "date": "2026-08-12T05:37:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-12 05:36 — 12 語 9558 向量 0 fail，id/ja 微調觸發正常 commit",
+      "articles": []
+    },
+    {
+      "hash": "6badbea667e438096c3313ea77266ee2de4700dc",
+      "date": "2026-08-12T05:37:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-routine-sync: 收進 maintainer-am §1c issue-default-fix 鐵律，機器版比 git 早 12 小時",
+      "articles": []
+    },
+    {
+      "hash": "2cd24569eee99074de475936f3ac31ea805d60b5",
+      "date": "2026-08-12T05:35:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-12 05:24",
+      "articles": []
+    },
+    {
+      "hash": "c5877264f09527bcc7f6a89d05edbcbd6b00b377",
+      "date": "2026-08-12T00:40:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 王福瑞延伸閱讀補張又升兩份國藝會文集（#1252）",
+      "articles": []
+    },
+    {
+      "hash": "e7d5a584aa5e84fbd2778c0ac76227ef9320182d",
+      "date": "2026-08-12T00:40:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: feedback widget 改吃介面字體 token，逐字分裂在 code 端根治（#1316）",
+      "articles": []
+    },
+    {
+      "hash": "040fbf5751e03dcc439b70e17e570a7c601b972c",
+      "date": "2026-08-12T00:40:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 詞庫例外欄位貫通渲染層，陰陽怪氣限定動詞用法（#1286）",
+      "articles": []
+    },
+    {
+      "hash": "a724a833d950005fe3252f56239a3397adc2071a",
+      "date": "2026-08-12T00:40:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: seo-meta 語言範圍 config 化，非中文防守線上線（#1264）",
+      "articles": []
+    },
+    {
+      "hash": "489985fac5d83322140e620256367e929908b8e2",
+      "date": "2026-08-12T00:40:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] i18n: /bench/ 長文真翻 en/ja/ko 三語（#1312）",
+      "articles": []
+    },
+    {
+      "hash": "57445b3e6aecb690bd53cdf34aa37cdb0f0bc500",
+      "date": "2026-08-12T00:04:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore: v1.15.0 release 孢子 #170/#171（Threads + X）— 長出複眼",
+      "articles": []
+    },
+    {
+      "hash": "61052d9bcd9f975b67129b257c9d598e73eea4e1",
+      "date": "2026-08-11T23:46:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: release-v1150 收官 — 標題被校正兩次的過程就是複眼主題本身",
+      "articles": []
+    },
+    {
+      "hash": "60872e70d73594c25d0704c296fe3db05b14dd4f",
+      "date": "2026-08-11T23:44:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: handoff 補上收官期間送達的 PR #1319",
+      "articles": []
+    },
+    {
+      "hash": "495c95a23852137496a6e4de16eca25483bb1fc1",
+      "date": "2026-08-11T23:42:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary — 我在自己的表格裡打了六個勾，然後哲宇問我修好了什麼",
+      "articles": []
+    },
+    {
+      "hash": "03b6335bcffe9510b7310988a1467cbeb32df73e",
+      "date": "2026-08-11T23:40:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: v1.15.0 認知層同步與 about 里程碑 — 長出複眼",
+      "articles": []
+    },
+    {
+      "hash": "786c0f847322305de29799753291664fafbc9594",
+      "date": "2026-08-11T19:29:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am 第二段 — 我自己就是那個反例",
+      "articles": []
+    },
+    {
+      "hash": "a2fa403a7b173111a7766f1557d6d7214d8d2cb4",
+      "date": "2026-08-11T19:26:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 日文與韓文頁面用台灣的字形寫自己的字",
+      "articles": []
+    },
+    {
+      "hash": "4b83d54d239ed0681338ef043f7bc68b9ceb8d39",
+      "date": "2026-08-11T19:18:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: taiwan-shape 的四行簡介只認三種語言，其餘八種掉回中文",
+      "articles": []
+    },
+    {
+      "hash": "6e9615913a3444bc33c344f5ebc6e318f4ee5978",
+      "date": "2026-08-11T19:13:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: maintainer 從分診台變回維護者——issue 的 default 是修好，不是分類好",
+      "articles": []
+    },
+    {
+      "hash": "dfa6b374cacef1fecca98863e4c9c998d7391aa7",
+      "date": "2026-08-11T19:09:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 俄文讀者找不到切換語言的按鈕，因為導覽列被六個裝飾表情符號撐爆了",
+      "articles": []
+    },
+    {
+      "hash": "1efda3851d3885f7755e33bfc9b309d1173846b5",
+      "date": "2026-08-11T18:56:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 讓每個語言的讀者看到自己的語言，並補上一直缺的那道閘門",
+      "articles": []
+    },
+    {
+      "hash": "f8aa7fa75713615feacca62c8c6e2a41797c60cd",
+      "date": "2026-08-11T09:00:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-11 08:30 — 追讀者回報的上游，撞到阿拉伯文頁面在講中國話",
+      "articles": []
+    },
+    {
+      "hash": "f9e9b08a44fafe78c7acce1b4282e4a9eb2a2928",
+      "date": "2026-08-11T08:49:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 兩篇貢獻者譯文 merge 後補回翻譯履歷與日文化的欄位",
+      "articles": []
+    },
+    {
+      "hash": "c721906d893e17bc2e38e6f5651c197614fd47ad",
+      "date": "2026-08-11T08:45:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1308 from tboydar/translate-ai-hardware-ja",
+      "articles": []
+    },
+    {
+      "hash": "b9a58640d21357a4d5bc0dfbcd8908d0aabb6f85",
+      "date": "2026-08-11T08:45:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1309 from benben6515/translate/id-hand-shaken-drink-culture",
+      "articles": []
+    },
+    {
+      "hash": "fe1d5bcdfa2e8d922d0181a942c301ba6135ac68",
+      "date": "2026-08-11T08:24:16+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "translate(ja): AI硬體供應鏈 → ai-hardware-supply-chain",
+      "articles": []
+    },
+    {
+      "hash": "ab6a1720b9d6ba62863cc5a8ebece5997b43ee83",
+      "date": "2026-08-11T07:12:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-11 07:10 — 八則回報全數轉成 issue，兩道對賬全綠",
+      "articles": []
+    },
+    {
+      "hash": "5232d2bc99ade08b6a424f9053d24a0b3885018f",
+      "date": "2026-08-11T07:09:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 同一位讀者一口氣送來八則站上問題，開成 issue #1310-#1317",
+      "articles": []
+    },
+    {
+      "hash": "3cfc49b148d70f921acca3ae44c06af4ed4c3568",
+      "date": "2026-08-11T06:44:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-11 06:42 — D+7 finalize，黃崇仁連續第四輪持平判定生命週期結束",
+      "articles": []
+    },
+    {
+      "hash": "f7439a6e70fc4ad58a1892ce2d4b4d9aed5baa15",
+      "date": "2026-08-11T06:41:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: D+7 finalize 黃崇仁+EZWAY 兩批孢子 — 2026-08-11",
+      "articles": []
+    },
+    {
+      "hash": "9d00a576b5b36900ef3651ae95d66ae6a7b32c57",
+      "date": "2026-08-11T06:15:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 889、本週新增 31",
+      "articles": []
+    },
     {
       "hash": "0d19aaba49c74f4bf426857b1e17e815734a8293",
       "date": "2026-08-11T05:38:21+08:00",
@@ -14,6 +224,20 @@
       "date": "2026-08-11T05:37:33+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] memory: twmd-embeddings-nightly @ 2026-08-11 05:36 — 12 語 9557 向量 0 fail，內容不變跳過空 commit",
+      "articles": []
+    },
+    {
+      "hash": "52652b1e61b60fb4df64cd392a68cd68ca3014d0",
+      "date": "2026-08-10T22:14:34+08:00",
+      "author": "benben",
+      "message": "fix(id): remove two fabricated Catatan Kurator blocks per review",
+      "articles": []
+    },
+    {
+      "hash": "471fed6570966abdc6c9d3eff2134f33d40b74b7",
+      "date": "2026-08-10T21:54:13+08:00",
+      "author": "benben",
+      "message": "translate(id): 台灣手搖飲文化 → hand-shaken-drink-culture",
       "articles": []
     },
     {

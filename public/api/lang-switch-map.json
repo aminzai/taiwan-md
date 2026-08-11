@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:11:56.693Z",
+  "generated_at": "2026-08-11T22:11:57.706Z",
   "languages": [
     "en",
     "ja",
@@ -13,7 +13,7 @@
     "ar",
     "ru"
   ],
-  "total_entries": 26145,
+  "total_entries": 26148,
   "registry": {
     "en": {
       "toZh": {
@@ -15674,6 +15674,7 @@
         "/id/food/golden-age-echoes-taiwan-tea-culture": "/food/%E8%8C%B6%E6%96%87%E5%8C%96",
         "/id/culture/golden-age-echoes-taiwan-tea-culture": "/food/%E8%8C%B6%E6%96%87%E5%8C%96",
         "/id/food/golden-croissant": "/food/%E9%87%91%E7%89%9B%E8%A7%92",
+        "/id/food/hand-shaken-drink-culture": "/food/%E5%8F%B0%E7%81%A3%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%87%E5%8C%96",
         "/id/food/heysong-soft-drinks": "/food/%E9%BB%91%E6%9D%BE",
         "/id/food/hsinkang-taffy": "/food/%E6%96%B0%E6%B8%AF%E9%A3%B4",
         "/id/food/marble-soda": "/food/%E5%BD%88%E7%8F%A0%E6%B1%BD%E6%B0%B4",
@@ -16376,6 +16377,8 @@
         "/food/茶文化": "/id/food/golden-age-echoes-taiwan-tea-culture",
         "/food/%E9%87%91%E7%89%9B%E8%A7%92": "/id/food/golden-croissant",
         "/food/金牛角": "/id/food/golden-croissant",
+        "/food/%E5%8F%B0%E7%81%A3%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%87%E5%8C%96": "/id/food/hand-shaken-drink-culture",
+        "/food/台灣手搖飲文化": "/id/food/hand-shaken-drink-culture",
         "/food/%E9%BB%91%E6%9D%BE": "/id/food/heysong-soft-drinks",
         "/food/黑松": "/id/food/heysong-soft-drinks",
         "/food/%E6%96%B0%E6%B8%AF%E9%A3%B4": "/id/food/hsinkang-taffy",
