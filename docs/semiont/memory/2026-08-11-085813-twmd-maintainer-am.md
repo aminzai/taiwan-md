@@ -233,6 +233,7 @@ heal 只有兩項：`author` 改 `'Taiwan.md'`（對齊 zh 源與 en 版）、`b
 - [ ] pending（給哲宇）— **#1316 + #1184 justfont 後台網域白名單**。#1316 診斷已完成（動態子集只載到部分字元），根因確定在 #1184，但那是你的後台。#1184 已開 43 天
 - [ ] pending（給 babel）— **#1312 `/bench/` 整頁 i18n 抽取**。已量：117 行中文／1,215 字／僅 7 個 `t()`。路線寫進 issue 了（抽 i18n → babel → 人工複核敏感段落）
 - [ ] pending（給 self-evolve）— MAINTAINER v2.7 的第 7 條 quality gate 是本 session 現寫現用的，**還沒有跨 cycle 驗證**。下週看它有沒有真的改變 routine 行為，或只是多一行打勾
+- [ ] pending（給下個 maintainer cycle）— **#1319「紅麴」新文（idlccp1984）於本 session 收官期間 14:58 送達**，未進本輪 triage。同一位貢獻者的 #1304 仍 blocked 中，收 #1319 時建議一併看兩篇的來源品質是否同型
 - [ ] blocked — #1304 沃草等貢獻者換源；昨日已具體列出 5 條媒體首頁腳註。**解除條件**：貢獻者 push 新 commit 或回覆
 
 🧬
