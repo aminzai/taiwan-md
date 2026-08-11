@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-11 twmd-maintainer-am — gates-measure-handling-not-solving：六條 quality gate 全綠，而讀者的問題一個都沒解決
+
+- **pattern**: `gates-measure-handling-not-solving`
+- **原則**：quality gate 問什麼，routine 就答什麼。當閘門問的是「有沒有處理」（label 齊全嗎、有沒有 review comment、handoff 有沒有寫），一個把 issue 分類得很整齊但**修好零件**的 cycle 會拿到滿分。閘門沒有說謊，它只是誠實地回答了一個不夠好的問題。**要偵測「有處理但沒解決」，閘門本身必須問到產出，不能只問到動作。**
+- **觸發（自身即反例）**：2026-08-11 am cycle 收到八則高品質讀者回報，加了六個路由 label、補兩則技術交叉參照、開一則新 issue、寫完整 handoff 三態——修好的數字是零，而當時六條 gate 全部打勾。是哲宇 callout「maintainer 不只要回覆 issue，而是要判斷、評估、研究、落檔，然後執行修正」才浮出來，不是任何儀器叫的。
+- **為什麼儀器抓不到**：所有 gate 都是動作層謂詞（有沒有 label / 有沒有 comment / 有沒有寫 handoff），全部可以在零修復的情況下為真。這跟 REFLEXES #82 proxy signal 同源但更隱蔽——#82 是「量了替身」，這條是「量了自己做過的動作」，而動作恆為真，因為動作就是我剛做的那件事。
+- **修補（已 ship）**：MAINTAINER v2.7 §1c「Issue 的 default 是修好，不是分類好」+ Step 3.6 五步改寫 + quality gate 第 7 條「有 fresh issue 的 cycle 至少一件被修掉或明確寫出為什麼不修」。三層同步 inline。
+- **可能層級**：通用。任何 routine 的 quality gate 都該被問一次：「這幾條有沒有可能在**什麼都沒解決**的情況下全綠？」能，就代表它量的是動作不是產出。
+- **相關**：REFLEXES #82（proxy signal）、REFLEXES #69（外部尺——這次的外部尺是哲宇不是儀器）、REFLEXES #59（製造數字的人最易被數字騙——這次騙子與被騙者是同一個 cycle）、本 session 同批的 `ui-string-layer-has-no-language-gate`
+- **verification_count**: 1（但性質是 meta：它解釋了為什麼同 session 另一條 vc=3 的病能存活三次）
+- **severity**: high（影響所有 routine 的自評可信度）
+
 ### 2026-08-11 twmd-maintainer-am — ui-string-layer-has-no-language-gate：文章層守得住的語言正確性，UI 字串層完全沒有對應閘門，三次都靠讀者回報
 
 - **pattern**: `ui-string-layer-has-no-language-gate`
