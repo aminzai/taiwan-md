@@ -20,7 +20,10 @@ Rewrite-stage-4 profile 升 HARD 對新文章強制達標.
 
 Skip:
   - Hub pages (knowledge/{Category}/_*.md) — 標準不同
-  - 非 zh-TW 文章 — 翻譯版的 frontmatter 由 sync layer 處理
+  - 語言範圍由 config applies_to 控制（issue #1264 方案 (d)）：預設 zh-TW only；
+    pre-commit profile 開全語言（WARN 防守線），ci-deploy 維持 zh-TW only，
+    存量超長譯文不進掃描範圍。非中文閾值住 config
+    [checks.seo-meta.options.translation_thresholds]，不住本模組。
 
 Canonical:
   - EDITORIAL.md §Title 五原則（敘事品質）+ §Description 四原則（physical SEO 品質）
@@ -110,9 +113,113 @@ def _looks_like_brand_prefix(desc: str) -> str | None:
     return None
 
 
+# ── 非中文（翻譯）長度檢查 — issue #1264 方案 (d) ─────────────────────────────
+# 量法：總字元數（Python len），不是 CJK 字數 —— 跟校準報告同一把尺
+# （reports/seo-meta-multilang-baseline-2026-08-05.md；REFLEXES #83 檢查器
+# 對自己與對外部標準要同調）。閾值不住這裡：住 article-health.config.toml
+# [checks.seo-meta.options.translation_thresholds]，語言範圍（applies_to）跟
+# 門檻值收斂成 config 單一來源。此處刻意沒有 fallback 數字 —— config 缺項時
+# fail-loud（yield WARN 說檢查沒執行），不靜默沿用想像值。
+
+
+def _resolve_translation_thresholds(
+    options: dict[str, Any], lang: str
+) -> dict[str, Any] | None:
+    """`translation_thresholds.<lang>` > `translation_thresholds.default` > None。
+
+    default 組接住未來出生的第 13+ 語言（新語言自動吃最寬的那把尺，
+    方向安全：寬尺只擋離群值，不產生新誤報）。
+    """
+    table = options.get("translation_thresholds") or {}
+    th = table.get(lang) or table.get("default")
+    return th if isinstance(th, dict) else None
+
+
+def _check_translation(
+    target: FileTarget, options: dict[str, Any]
+) -> Iterator[Violation]:
+    """翻譯版 title/description 長度 gate（僅上限，不設下限）。
+
+    存量 700+ 篇超長譯文由 profile 分流保護（ci-deploy 維持 zh-TW only），
+    這裡只對進了 applies_to 範圍的檔（pre-commit --staged 觸檔）做防守線。
+    """
+    lang = target.lang
+    fm = target.frontmatter or {}
+    title = (fm.get("title") or "").strip()
+    description = (fm.get("description") or "").strip()
+
+    th = _resolve_translation_thresholds(options, lang)
+    if th is None:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=DEFAULT_SEVERITY,
+            message=(
+                f"lang={lang} 在 seo-meta applies_to 範圍內，但 config 沒有對應的 "
+                "translation_thresholds（也沒有 default 組）— 長度檢查沒有執行"
+            ),
+            editorial_ref=EDITORIAL_REF,
+            fix_suggestion=(
+                "在 article-health.config.toml [checks.seo-meta.options.translation_thresholds] "
+                f"補 {lang} 或 default 組（title_max / desc_max）。"
+                "閾值只住 config 不住 code（issue #1264 兩把尺收斂）。"
+            ),
+        )
+        return
+
+    title_max = th.get("title_max")
+    desc_max = th.get("desc_max")
+    t_len = len(title)
+    d_len = len(description)
+
+    yield Violation(
+        check=CHECK_NAME,
+        severity=Severity.INFO,
+        message=(
+            f"frontmatter SEO ({lang}): title={t_len}字元 description={d_len}字元 "
+            f"(閾值 title ≤{title_max} / desc ≤{desc_max}，總字元數)"
+        ),
+        editorial_ref=EDITORIAL_REF,
+    )
+
+    if title and title_max and t_len > title_max:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=DEFAULT_SEVERITY,
+            message=f"title 太長（{lang}）— {t_len} 字元 > 上限 {title_max}",
+            line=1,
+            snippet=title[:80],
+            editorial_ref=EDITORIAL_REF,
+            fix_suggestion=(
+                "Google SERP title 截斷約 600px。核心關鍵字放前段；"
+                "譯文 title 不必逐字對映中文 title，可為該語言重下更短的標題。"
+            ),
+        )
+
+    if description and desc_max and d_len > desc_max:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=DEFAULT_SEVERITY,
+            message=f"description 太長（{lang}）— {d_len} 字元 > 上限 {desc_max}",
+            line=1,
+            snippet=description[:120] + "…",
+            editorial_ref=EDITORIAL_REF,
+            fix_suggestion=(
+                "合格的中文 description 忠實翻譯後天然膨脹 3.8-4.3 倍"
+                "（reports/seo-meta-multilang-baseline-2026-08-05.md），"
+                "修法不是硬砍譯文，是替該語言獨立寫一段落在閾值內的 description"
+                "（SERP snippet 給還沒點進來的讀者，截斷後就失去結尾語意）。"
+            ),
+        )
+
+
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     """Detect SEO metadata length + template issues."""
     if _is_excluded_path(str(target.path), config.get("applies_to")):
+        return
+
+    # 翻譯版走總字元數 + config 閾值；zh-TW 走下方既有 CJK 路徑，一個字不變。
+    if target.is_translation:
+        yield from _check_translation(target, config)
         return
 
     fm = target.frontmatter or {}

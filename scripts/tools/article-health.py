@@ -67,9 +67,11 @@ def _get_staged_md() -> list[Path]:
     for line in out.splitlines():
         if not line.startswith("knowledge/"):
             continue
-        if line.startswith(("knowledge/en/", "knowledge/ja/", "knowledge/ko/",
-                            "knowledge/es/", "knowledge/fr/")):
-            continue
+        # 2026-08-12 #1264：撤掉 collector 層的語言過濾。原本這裡寫死排除
+        # en/ja/ko/es/fr 五語（停在五語時代的清單，站上已 12 語）——效果是
+        # pre-commit --staged 對五個主要翻譯語言空轉、新六語反而通過的反向覆蓋。
+        # 語言分流唯一的家是 runner.resolve_applies_to（per-check applies_to +
+        # profile options_overrides），collector 只管「staged 的 knowledge md」。
         if not line.endswith(".md"):
             continue
         if Path(line).name.startswith("_"):
