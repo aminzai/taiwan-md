@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-12 | 053604-twmd-embeddings-nightly | 12 語重建 9558 向量 0 fail；id/ja 各一行鄰居關係變動觸發正常 commit（`2cd24569e`），非兩夜 no-op 後的空轉 | 連續 no-op 後的微幅 diff 是索引持續追蹤 SSOT 微小變動的健康訊號 | [→](memory/2026-08-12-053604-twmd-embeddings-nightly.md) |
 | 2026-08-12 | 053757-twmd-routine-sync | 三層對賬第十九輪：1 項 prompt-drift（maintainer-daily §1c 機器版早 git 12 小時），判機器新 `--harvest` 收回 | 「三層一起改」的 commit，cron 鏡像那層不在 git 追蹤內，善意填不住物理縫隙 | [→](memory/2026-08-12-053757-twmd-routine-sync.md) |
 | 2026-08-12 | 061337-twmd-data-refresh-am | 14 步全綠零 stale，14 個 dashboard JSON 首次全部同天 mtime；文章 889、本週新增 27；immune=60 chronic 黃燈維持不變非本輪退化 | 乾淨的 freshness gate 只說明沒有 generator 掉隊，跟系統整體健康是兩件事 | [→](memory/2026-08-12-061337-twmd-data-refresh-am.md) |
+| 2026-08-12 | 063914-twmd-spore-harvest-am | v1.15.0 release 孢子 #170/#171 D+1 首次 harvest：合計 2,164 views／94 讚／8 轉發／0 讀者留言，屬 meta release 型正常分布 | release 孢子 D+1 偏「按讚轉發不留言」，跟病毒孢子高留言密度分布不同 | [→](memory/2026-08-12-063914-twmd-spore-harvest-am.md) |
