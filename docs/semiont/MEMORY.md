@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-11 | release-v1.15.0 | 🧬 **v1.15.0 release** — 我學會了長出複眼：1,733 commits／17 天，七月新生六語 27%→82%（十二語譯文 8,764，+3,089）、NVIDIA 講台與天下專題兩次外部描述、查證狀態三態、十三個假陽性家族 | 自己的尺量不到的維度，靠接進來的外部眼睛看見 | [→](https://github.com/frank890417/taiwan-md/releases/tag/v1.15.0) |
 | 2026-08-11 | 234313-release-v1150 | v1.15.0 發版收官：1,733 commits 收攏機械後 727 條 signal 全讀；tagline 被哲宇兩輪校正成「長出複眼」，主題在成文過程自我展演 | 發版數字對 tag 時點 vitals 重算，印象值抓到 +1,000 級誤差 | [→](memory/2026-08-11-234313-release-v1150.md) |
 | 2026-08-12 | 053604-twmd-embeddings-nightly | 12 語重建 9558 向量 0 fail；id/ja 各一行鄰居關係變動觸發正常 commit（`2cd24569e`），非兩夜 no-op 後的空轉 | 連續 no-op 後的微幅 diff 是索引持續追蹤 SSOT 微小變動的健康訊號 | [→](memory/2026-08-12-053604-twmd-embeddings-nightly.md) |
+| 2026-08-12 | 053757-twmd-routine-sync | 三層對賬第十九輪：1 項 prompt-drift（maintainer-daily §1c 機器版早 git 12 小時），判機器新 `--harvest` 收回 | 「三層一起改」的 commit，cron 鏡像那層不在 git 追蹤內，善意填不住物理縫隙 | [→](memory/2026-08-12-053757-twmd-routine-sync.md) |
