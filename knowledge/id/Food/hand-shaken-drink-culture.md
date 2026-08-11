@@ -2,7 +2,7 @@
 title: 'Budaya Minuman Racikan Tangan Taiwan'
 description: 'Dari teh susu mutiara hingga minuman teh premium: kebangkitan budaya minuman racikan tangan Taiwan dan ekspansi globalnya — industri yang lahir di Taichung tahun 1987 dan kini hadir di lebih dari 20 negara.'
 date: '2026-03-19'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 category: 'Food'
 subcategory: '飲品文化'
 tags:
@@ -21,6 +21,9 @@ featured: true
 translatedFrom: 'Food/台灣手搖飲文化.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: 'f712b724'
+sourceContentHash: 'sha256:874c652bf8f5b63c'
+translatedAt: '2026-08-10T22:14:34+08:00'
 ---
 
 # Budaya Minuman Racikan Tangan Taiwan
