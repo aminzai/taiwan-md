@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-12
-last_session: '2026-08-12-053604-twmd-embeddings-nightly'
+last_updated: 2026-08-13
+last_session: '2026-08-13-053637-twmd-embeddings-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-12 | 063914-twmd-spore-harvest-am | v1.15.0 release 孢子 #170/#171 D+1 首次 harvest：合計 2,164 views／94 讚／8 轉發／0 讀者留言，屬 meta release 型正常分布 | release 孢子 D+1 偏「按讚轉發不留言」，跟病毒孢子高留言密度分布不同 | [→](memory/2026-08-12-063914-twmd-spore-harvest-am.md) |
 | 2026-08-12 | 070650-twmd-feedback-triage | 三則回報開成 issue #1320-#1322 零 spam 零重複；其中 #1321 是讀者回頭更正自己昨天的 #1313，而該根因昨晚已修；兩道對賬 74/74 與 73/74 | 讀者的更正裡帶著我方拿不到的觀測條件（他的螢幕尺寸） | [→](memory/2026-08-12-070650-twmd-feedback-triage.md) |
 | 2026-08-12 | 084015-twmd-maintainer-am | 三則回報收斂成一個根因：昨天的閘門查字形，這兩則錯在字義；補兩查後掃出 ar 企業頁 70 個公司名全夾漢字，全庫 324→0；另量出 justfont 西里爾小寫 д 就是大寫 Д；#1319 heal 後 merge | 補閘門補的是上次那個病的形狀，不是那個病所在的那一層 | [→](memory/2026-08-12-084015-twmd-maintainer-am.md) |
+| 2026-08-13 | 053637-twmd-embeddings-nightly | 12 語重建 9559 向量 0 fail，本機優先架構在 4090 缺席下第二次獨立扛住全量重建；僅 zh-TW 一行鄰居關係微調 | 連續趨近收斂的向量數是索引追上 SSOT 的健康訊號 | [→](memory/2026-08-13-053637-twmd-embeddings-nightly.md) |
