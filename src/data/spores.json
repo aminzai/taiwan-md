@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-12T06:38:26+08:00",
+  "_generated": "2026-08-13T06:42:47+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 161,
@@ -9402,16 +9402,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Db591ugI6tB",
       "template": "B 冷知識型（meta release 里程碑）",
       "metrics": {
-        "views": 758,
-        "likes": 43,
-        "reposts": 2,
+        "views": 1264,
+        "likes": 87,
+        "reposts": 4,
         "comments": 0,
         "shares": null
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-08-12 06:35",
-        "batch": "batch-2026-08-12-2-spores",
+        "dPlus": 2,
+        "harvestDate": "2026-08-13 06:42",
+        "batch": "batch-2026-08-13-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9422,6 +9422,16 @@
           "views": 758,
           "likes": 43,
           "reposts": 2,
+          "comments": 0,
+          "shares": null
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-08-13 06:42",
+          "batch": "batch-2026-08-13-2-spores",
+          "views": 1264,
+          "likes": 87,
+          "reposts": 4,
           "comments": 0,
           "shares": null
         }
@@ -9438,16 +9448,16 @@
       "url": "https://x.com/taiwandotmd/status/2087208201729249614",
       "template": "B 冷知識型（meta release 里程碑）",
       "metrics": {
-        "views": 1406,
-        "likes": 51,
-        "reposts": 6,
-        "comments": 0,
-        "shares": 12
+        "views": 20000,
+        "likes": 323,
+        "reposts": 47,
+        "comments": 3,
+        "shares": 58
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-08-12 06:40",
-        "batch": "batch-2026-08-12-2-spores",
+        "dPlus": 2,
+        "harvestDate": "2026-08-13 06:42",
+        "batch": "batch-2026-08-13-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9460,6 +9470,16 @@
           "reposts": 6,
           "comments": 0,
           "shares": 12
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-08-13 06:42",
+          "batch": "batch-2026-08-13-2-spores",
+          "views": 20000,
+          "likes": 323,
+          "reposts": 47,
+          "comments": 3,
+          "shares": 58
         }
       ]
     }
