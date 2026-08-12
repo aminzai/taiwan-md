@@ -65,7 +65,8 @@ elif [ -f "$REPO/scripts/tools/check-ui-language.mjs" ] && command -v node >/dev
     echo ""
     echo "🧬 pre-push: ⛔ UI 字串語言閘門有問題 — 某個語言的讀者會看到不是自己語言的字。"
     echo "   明細：npm run check:ui-lang"
-    echo "   三類：SIMPLIFIED_LEAK（簡體外洩）／UNTRANSLATED_CJK（整串沒翻）／TABLE_DRIFT（字串表落後語言註冊表）"
+    echo "   字形層：SIMPLIFIED_LEAK（簡體外洩）／UNTRANSLATED_CJK（整串沒翻）／TABLE_DRIFT（字串表落後語言註冊表）"
+    echo "   語意層：PRC_TERM（zh-TW 用中國用語）／UNREADABLE_FOR_LOCALE（這語言的讀者讀不到任何一個字）"
     echo "   逃生：TWMD_SKIP_UI_LANG=1 git push …（reflog 留痕）"
     exit 1
   fi
