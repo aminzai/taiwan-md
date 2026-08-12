@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9676,
+  "totalArticles": 9677,
   "totalCategories": 26,
   "estimatedContributors": 69,
-  "totalTags": 6114,
+  "totalTags": 6120,
   "categories": [
     {
       "name": "es",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Food",
-      "count": 68
+      "count": 69
     },
     {
       "name": "About",
@@ -192,13 +192,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9676,
+    "zh-TW": 9677,
     "en": 0
   },
-  "lastUpdated": "2026-08-11T22:12:00.522Z",
-  "stars": 1131,
+  "lastUpdated": "2026-08-12T22:11:57.691Z",
+  "stars": 1137,
   "forks": 170,
-  "zhPages": 889,
+  "zhPages": 890,
   "enPages": 883,
-  "totalPages": 889
+  "totalPages": 890
 }

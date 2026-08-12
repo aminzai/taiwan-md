@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-08-11T22:12:01.605Z",
+  "generatedAt": "2026-08-12T22:11:58.747Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "31323cd3798ba9657e09a1c00a58a5074392de82",
+      "date": "2026-08-13T05:38:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-13 05:37 — 三層對賬第二十輪，昨日修補沒有復發",
+      "articles": []
+    },
+    {
+      "hash": "1168c325c80c38ac1387fca2a4b0f2471861a945",
+      "date": "2026-08-13T05:37:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-13 05:36 — 12 語 9559 向量 0 fail，本機優先架構第二次獨立扛住全量重建",
+      "articles": []
+    },
+    {
+      "hash": "2cf2ca1854fc8dff3c7fcd565ca0bf876df42ffc",
+      "date": "2026-08-13T05:36:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-13 05:22",
+      "articles": []
+    },
+    {
+      "hash": "54635cf842464575d0264cba7566ff9ec3683659",
+      "date": "2026-08-12T09:10:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-12 08:40 — 閘門守住了上次被咬的那一口，沒守住那顆牙",
+      "articles": []
+    },
+    {
+      "hash": "31c1d52347404df66aa81fdc2276fd258e619719",
+      "date": "2026-08-12T08:59:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 俄文讀者看到的每一個小寫 д，畫的都是大寫 Д",
+      "articles": []
+    },
+    {
+      "hash": "c2db84cf9a9cab7d32dbfdfa91cd194ea5bf8095",
+      "date": "2026-08-12T08:59:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 阿拉伯文的企業頁其實是一張中文表",
+      "articles": []
+    },
+    {
+      "hash": "39e2ba5eedd7a77831dde366c4469b12c99b8e3e",
+      "date": "2026-08-12T08:59:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 介面字串的閘門只看得懂字形，看不懂字義",
+      "articles": []
+    },
+    {
+      "hash": "527f885073d765a09d88fa6456d4e308a8a453b7",
+      "date": "2026-08-12T09:06:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1319 from idlccp1984/patch-594196",
+      "articles": []
+    },
+    {
+      "hash": "e8de5c169397c0adca73ed0351fd42b81f799c9c",
+      "date": "2026-08-12T09:03:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 紅麴一文的 frontmatter 沒被包進 ---，還有兩張明天就過期的圖",
+      "articles": []
+    },
+    {
+      "hash": "57242fb4b173d4799dbe16523b4e20f1fe73280e",
+      "date": "2026-08-12T07:13:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-12 07:06 — 讀者回頭更正自己昨天的回報",
+      "articles": []
+    },
+    {
+      "hash": "a1c3da268d6d23856fac078b4435f6daff26f0b5",
+      "date": "2026-08-12T07:09:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 三則讀者回報開成 issue #1320-#1322，其中一則是讀者自己回頭更正昨天的回報",
+      "articles": []
+    },
+    {
+      "hash": "766bb650a4ddf56a9bfbf9dc4d3a3813f41b9a93",
+      "date": "2026-08-12T06:40:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-12 06:39 — release 孢子 D+1 零留言基準",
+      "articles": []
+    },
+    {
+      "hash": "7db768929d027f0ac99f92fc3c5c6d3290e2c5f9",
+      "date": "2026-08-12T06:38:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: v1.15.0 release 孢子 D+1 首次 harvest — 2026-08-12",
+      "articles": []
+    },
+    {
+      "hash": "9731e39db87b6b82561b8386b588273622728d72",
+      "date": "2026-08-12T06:15:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: twmd-data-refresh-am @ 2026-08-12 06:13 — 14 步全綠零 stale",
+      "articles": []
+    },
+    {
+      "hash": "dd08fb8f2c477e9f77dab5a36ce309c6f7f4afaf",
+      "date": "2026-08-12T06:13:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 889、本週新增 27",
+      "articles": []
+    },
     {
       "hash": "df8c8863363afaf51f6e901ecf88e80736f383cd",
       "date": "2026-08-12T05:39:20+08:00",
@@ -98,6 +203,13 @@
       "date": "2026-08-11T23:40:52+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] evolve: v1.15.0 認知層同步與 about 里程碑 — 長出複眼",
+      "articles": []
+    },
+    {
+      "hash": "964ea6c253f3a0304cd7e521b481522c2c5d0fd9",
+      "date": "2026-08-11T22:58:30+08:00",
+      "author": "idlccp1984",
+      "message": "Create 紅麴.md",
       "articles": []
     },
     {

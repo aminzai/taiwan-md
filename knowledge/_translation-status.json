@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-12T06:11:55+08:00",
-    "zhCommitHead": "df8c88633",
-    "totalZh": 891,
+    "lastUpdated": "2026-08-13T06:11:52+08:00",
+    "zhCommitHead": "31323cd37",
+    "totalZh": 892,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 840,
         "stale": 26,
         "metadata_stale": 12,
-        "missing": 13,
+        "missing": 14,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 847,
         "stale": 16,
         "metadata_stale": 9,
-        "missing": 19,
+        "missing": 20,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 859,
         "stale": 14,
         "metadata_stale": 12,
-        "missing": 6,
+        "missing": 7,
         "orphan": 0
       },
       "es": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 848,
         "stale": 20,
         "metadata_stale": 15,
-        "missing": 8,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 891,
-        "fresh": 843,
-        "stale": 20,
-        "metadata_stale": 19,
         "missing": 9,
         "orphan": 0
       },
+      "fr": {
+        "total_zh": 892,
+        "fresh": 843,
+        "stale": 20,
+        "metadata_stale": 19,
+        "missing": 10,
+        "orphan": 0
+      },
       "vi": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 700,
         "stale": 27,
         "metadata_stale": 72,
-        "missing": 92,
+        "missing": 93,
         "orphan": 0
       },
       "id": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 562,
         "stale": 6,
         "metadata_stale": 4,
-        "missing": 319,
+        "missing": 320,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 823,
         "stale": 9,
         "metadata_stale": 4,
-        "missing": 55,
+        "missing": 56,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 652,
         "stale": 0,
         "metadata_stale": 4,
-        "missing": 235,
+        "missing": 236,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 735,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 151,
+        "missing": 152,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 891,
+        "total_zh": 892,
         "fresh": 772,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 114,
+        "missing": 115,
         "orphan": 0
       }
     },
@@ -100419,6 +100419,49 @@
           "footnoteDefs": 70,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
+    "Food/紅麴.md": {
+      "zh": {
+        "lastCommit": "e8de5c16",
+        "lastModified": "2026-08-12T09:03:20+08:00",
+        "contentHash": "sha256:887c3be39222e6b9",
+        "bodyHash": "sha256:140c52cfad734a21"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
         },
         "ru": {
           "status": "missing"

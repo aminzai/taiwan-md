@@ -4,7 +4,7 @@
     "Art": 422,
     "Culture": 742,
     "Economy": 639,
-    "Food": 640,
+    "Food": 641,
     "Geography": 639,
     "History": 533,
     "Lifestyle": 321,
@@ -540,7 +540,11 @@
     {
       "date": "2026-08-10",
       "count": 1
+    },
+    {
+      "date": "2026-08-11",
+      "count": 1
     }
   ],
-  "updated": "2026-08-11"
+  "updated": "2026-08-12"
 }

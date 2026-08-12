@@ -1,26 +1,34 @@
 {
-  "total_zh": 8793,
+  "total_zh": 8794,
   "total_en": 883,
   "coverage_en": 10.0,
   "categories": {
-    "fr": {
-      "zh": 882,
+    "ja": {
+      "zh": 872,
+      "en": 0
+    },
+    "vi": {
+      "zh": 799,
       "en": 0
     },
     "ko": {
       "zh": 885,
       "en": 0
     },
-    "ru": {
-      "zh": 777,
+    "pt": {
+      "zh": 836,
+      "en": 0
+    },
+    "Art": {
+      "zh": 43,
+      "en": 43
+    },
+    "es": {
+      "zh": 883,
       "en": 0
     },
     "hi": {
       "zh": 656,
-      "en": 0
-    },
-    "pt": {
-      "zh": 836,
       "en": 0
     },
     "id": {
@@ -31,78 +39,70 @@
       "zh": 740,
       "en": 0
     },
+    "fr": {
+      "zh": 882,
+      "en": 0
+    },
     "People": {
       "zh": 240,
       "en": 239
     },
-    "vi": {
-      "zh": 799,
+    "ru": {
+      "zh": 777,
       "en": 0
     },
-    "ja": {
-      "zh": 872,
-      "en": 0
-    },
-    "es": {
-      "zh": 883,
-      "en": 0
+    "Society": {
+      "zh": 95,
+      "en": 94
     },
     "Food": {
-      "zh": 68,
+      "zh": 69,
       "en": 67
-    },
-    "Politics": {
-      "zh": 11,
-      "en": 11
-    },
-    "Art": {
-      "zh": 43,
-      "en": 43
     },
     "Economy": {
       "zh": 64,
+      "en": 64
+    },
+    "History": {
+      "zh": 52,
+      "en": 52
+    },
+    "Technology": {
+      "zh": 60,
+      "en": 59
+    },
+    "Geography": {
+      "zh": 67,
       "en": 64
     },
     "Culture": {
       "zh": 73,
       "en": 73
     },
-    "Society": {
-      "zh": 95,
-      "en": 94
-    },
-    "Lifestyle": {
-      "zh": 33,
-      "en": 31
-    },
-    "History": {
-      "zh": 52,
-      "en": 52
-    },
-    "Geography": {
-      "zh": 67,
-      "en": 64
-    },
     "Music": {
       "zh": 37,
       "en": 37
-    },
-    "Technology": {
-      "zh": 60,
-      "en": 59
-    },
-    "resources": {
-      "zh": 2,
-      "en": 2
     },
     "Nature": {
       "zh": 38,
       "en": 38
     },
+    "Lifestyle": {
+      "zh": 33,
+      "en": 31
+    },
     "About": {
       "zh": 8,
       "en": 9
+    },
+    "resources": {
+      "zh": 2,
+      "en": 2
+    },
+    "Politics": {
+      "zh": 11,
+      "en": 11
     }
   },
-  "updated": "2026-08-12"
+  "updated": "2026-08-13"
 }
