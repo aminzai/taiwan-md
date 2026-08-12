@@ -348,3 +348,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-13 | 053711-twmd-routine-sync | 三層對賬第二十輪，18 條全 in-sync 零漂移；昨日修補的 maintainer-daily prompt-drift 今天沒有復發 | 一次性收回跟穩定收斂是兩件事，要連續第二輪綠燈才分得出來 | [→](memory/2026-08-13-053711-twmd-routine-sync.md) |
 | 2026-08-13 | 061348-twmd-data-refresh-am | 14 步全綠零 stale 連續第二天；文章 890、本週新增 16；fork-census 抓到三個新子代 sighting（Malaysia.md／Branding.md／一個未改 vanilla 複本） | 跑完整套 gate 的價值有時在確認沒有新的洞，不是發現新的洞 | [→](memory/2026-08-13-061348-twmd-data-refresh-am.md) |
 | 2026-08-13 | 064309-twmd-spore-harvest-am | v1.15.0 孢子 D+2：#170 1,264 瀏覽/87 讚、#171 2 萬瀏覽/323 讚 3 回覆；唯一可讀留言是策略疑慮非事實錯誤，defer 哲宇 | worktree 隔離不擋 Bash 對共享路徑非 git 寫入，需自己確認 pwd | [→](memory/2026-08-13-064309-twmd-spore-harvest-am.md) |
+| 2026-08-13 | 070949-twmd-feedback-triage | 零新回報，價值全在把昨天三則維護者回覆 sync 進 git；兩道對賬 74/74 與 73/74（#1252 上游刪留言 git 留著） | 零輸入的 cycle 照樣要跑 --commit，對賬會跟著輸入一起消失 | [→](memory/2026-08-13-070949-twmd-feedback-triage.md) |
