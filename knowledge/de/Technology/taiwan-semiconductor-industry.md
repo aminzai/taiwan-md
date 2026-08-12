@@ -237,8 +237,7 @@ Die Existenz des „護國神山“ hängt nicht nur von TSMCs Technologie, staa
 
 ## Volles Ökosystem: Taiwan ist mehr als nur TSMC
 
-Die Wettbewerbsfähigkeit der taiwanischen Halbleiterindustrie erwächst aus dem gesamten Cluster, nicht aus TSMC allein. Auf der IC‑Design‑Seite gibt es MediaTek (Top 3 weltweit), Novatek, Realtek, Hisense? (*Richtek/瑞昱*), Qorvo? (奇景). Im Bereich Foundry neben TSMC existieren UMC, VIS (Global)?; hier bleiben die originalen Namen erhalten: UMC, Vanguard? actually "世界先進", "力積電", "日月光", "矽品", "京元電".  
-在後段封裝 übernimmt also 日月光 (Weltklasse), 矽品, 京元電. Die dritte Halbleiterkategorie stützt sich auf GlobalWafers (SiC‑Zogrown/長晶), Hanwei/漢磊 und WinSemi/穩懋 (GaN); Speicherchips stammen von 南亞科 und 華邦電; auf der Geräte‑ und Materialseite tragen Firmen wie 家登精密, 辛耘, 崇越 (teils unsichtbare Zulieferer) mit.
+Die Wettbewerbsfähigkeit der taiwanischen Halbleiterindustrie erwächst aus dem gesamten Cluster, nicht aus TSMC allein. Auf der IC‑Design‑Seite gibt es MediaTek (top 3 weltweit), Novatek, Realtek und Witsense. In der Foundry-Welt neben TSMC gibt es UMC, VIS (Vanguard), und PSMC. Die Packaging‑ und Test‑Stufe wird von ASE (weltweiter Spitzenplatz), Siliconware und Kimely übernommen. Die dritte Halbleiterkategorie wird von GlobalWafers (SiC‑Kristallzucht), HiWin und WinSemi (GaN) getragen; Speicherchips werden von Nanya Technology und Winbond gefertigt; auf der Geräte‑ und Materialseite tragen Hersteller wie Homeage Precision, Sinoperm und Choyoung als weniger sichtbare Zulieferer dazu.
 
 Ein Chip kann in Taiwan rund um den Kreis gefertigt werden, ohne grenzüberschreitenden Transport. Diese „kurze Kette“ wurde in der COVID‑Zeit von der Welt gesehen und seitdem in die Lieferketten‑Whitepaper aller großen Tech‑Konzerne geschrieben.
 
