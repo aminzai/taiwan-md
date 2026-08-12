@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-13 twmd-feedback-triage — zero-input-cycle-drops-the-reconciliation：沒有新輸入的那一輪，對賬動作會跟著輸入一起消失
+
+- **pattern**: `zero-input-cycle-drops-the-reconciliation`
+- **原則**：一條 routine 如果同時負責「轉錄新輸入」跟「保管既有紀錄」，這兩半的工作量不是同一個變數。輸入為零時第一半確實沒事做，第二半照舊有事做——但**最省事的路（跳過 commit 模式、印一行「今天沒有新回報」）會讓第二半靜默缺席，而收官報表看起來跟正常的一天幾乎一樣**。
+- **觸發**：2026-08-13 07:00 cycle。`triage.mjs` dry-run 印 `fetched 0 new feedback`。此時若不跑 `--commit`，留言 sync 與 HG12b／HG12c 兩道對賬全印 `skipped`，而 `file=0 reject=0 skip=0` 這行是真的、不會變紅。實際跑完 `--commit` 收到 3 則昨日維護者回覆進 git，兩道對賬 74/74 與 73/74。
+- **為什麼會發生**：這條線的 hard gate 表（HG12b／HG12c）寫得很完整，寫的是「收官要看這兩行印出什麼」，沒有寫「這兩行在什麼條件下根本不會被印出來」。零輸入是一個沒有人替它寫過分支的狀態。
+- **跟既有反射的關係**：HG12b 誕生時說的是「`archive-scanned=N` 數存在的檔，量不出缺席」（REFLEXES #82 proxy signal）。本條低一層：**這次缺席的候選對象不是紀錄，是核帳這個動作本身**。也跟 REFLEXES #38 混維度同族——`skipped` 跟 `✅` 在收官報表上都不是紅的，兩種根本不同的狀態共用「沒有壞消息」這個外觀。
+- **可能層級**：通用。任何「轉錄 + 保管」雙職責的 routine（feedback triage、harvest 回填、supporters sync）都該問：輸入為零時，我的保管那半邊有沒有跟著被跳過？
+- **修補候選**：(a) FEEDBACK-TRIAGE-PIPELINE Stage 1 明寫「零新回報仍跑 `--commit`」（目前只活在 memory 裡）(b) 讓 `triage.mjs` 在 dry-run 且 `fetched=0` 時主動提示「對賬未執行」，不要只印 `skipped`
+- **verification_count**: 1
+- **severity**: medium
+
+### 2026-08-13 twmd-feedback-triage — reflex-exists-but-not-a-step-on-this-line：REFLEXES #57 在這條 routine 上沒有落地成步驟
+
+- **pattern**: `reflex-exists-but-not-a-step-on-this-line`
+- **原則**：反射寫進 REFLEXES 目錄不等於它在每條 routine 上都有對應的執行位置。沒有落地成步驟的反射，靠的是當班 session 記不記得——而 routine 的設計前提正是「不依賴記性」。
+- **觸發**：2026-08-13 07:00 cycle。`check-parallel-actor.sh`（REFLEXES #57：routine 入口必須 detect parallel-actor）我是在準備 commit 時才想起來補跑的（結果 CLEAN）。這條 routine 的 cron prompt 與薄殼 skill 都沒有把它列進 Stage 0 的 gate 清單，BECOME §鐵律 5 提過工具名但那是甦醒層不是這條線的步驟。
+- **為什麼順序有意義**：事後跑只能確認「沒撞到」，入口跑才能「預防撞到」。今天工作範圍只有三個 archive 檔所以無傷，但這個豁免是範圍給的，不是流程給的。
+- **可能層級**：通用。值得掃一遍：REFLEXES 裡「入口必做」類的反射（#57 parallel-actor、#5 pre-commit dogfood）在 14 條 routine 的 Stage 0 裡各有幾條真的被寫成步驟？
+- **相關**：REFLEXES #15（反覆浮現要儀器化——memory 是自律，canonical SOP 才是閘門）、REFLEXES #57
+- **verification_count**: 1
+- **severity**: low-medium
+
 ### 2026-08-12 twmd-maintainer-am — gate-checks-form-not-meaning-one-layer-down：昨天補的閘門查字形，今天讀者送來兩則字義
 
 - **pattern**: `gate-checks-form-not-meaning-one-layer-down`
