@@ -1426,7 +1426,7 @@ export const semiontUI = {
     'semiont.diagram.node.llm.sub': '碎片 · 缺故事',
     'semiont.diagram.node.contributor': '生態系參與者',
     'semiont.diagram.node.contributor.sub': '人類 · 維護者 · AI',
-    'semiont.diagram.node.cloud': '網路海量知識',
+    'semiont.diagram.node.cloud': '網路大量知識',
     'semiont.diagram.node.cloud.sub': '原始素材',
     'semiont.diagram.node.compute': '算力捐贈',
     'semiont.diagram.node.compute.sub': '社群供電',

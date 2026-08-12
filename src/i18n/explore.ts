@@ -423,7 +423,7 @@ export const exploreUI = {
     'explore.hotSearches.term1': 'सेमीकंडक्टर',
     'explore.hotSearches.term2': 'रात्रि बाज़ार',
     'explore.hotSearches.term3': 'मूल निवासी',
-    'explore.hotSearches.term4': '二二八',
+    'explore.hotSearches.term4': '228 घटना',
     'explore.hotSearches.term5': 'TSMC',
     'explore.hotSearches.term6': 'बबल टी',
 

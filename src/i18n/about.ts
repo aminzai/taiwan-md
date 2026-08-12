@@ -287,10 +287,10 @@ export const aboutUI = {
     'about.press.inside': 'INSIDE',
     'about.press.inside.title':
       'Open-sourcing Taiwan! taiwan.md: In the Era of AI Answers, Let Countries Introduce Themselves with READMEs',
-    'about.press.abmedia': '動區動趨',
+    'about.press.abmedia': 'ABMedia',
     'about.press.abmedia.title':
       'How to Introduce Taiwan to Foreigners? Everyone Can Write About "The Incredible Everyday" for the World to See on Taiwan.md',
-    'about.press.ltn': '自由時報',
+    'about.press.ltn': 'Liberty Times',
     'about.press.ltn.title':
       'Reclaiming Taiwan\'s Narrative in the AI Era! New Media Artist Che-Yu Wu Launches "taiwan.md" Experiment',
     'about.press.ftnn': 'FTNN',
@@ -320,7 +320,7 @@ export const aboutUI = {
       '"Even when we face challenges internationally, I am proud of my country, proud of Taiwan. The further you go, the more deeply you realize — our home is already beautiful."',
     'about.team.founder.quote.cite': '— Che-Yu',
     'about.team.founder.name': 'Che-Yu Wu',
-    'about.team.founder.name.en': '吳哲宇',
+    'about.team.founder.name.en': 'Che-Yu Wu',
     'about.team.founder.tagline':
       'New Media Artist・MonoLab Founder・Taiwan.md Creator',
     'about.team.founder.bio':
@@ -2191,7 +2191,7 @@ export const aboutUI = {
     'about.press.inside': 'INSIDE',
     'about.press.inside.title':
       'Jadikan Taiwan sumber terbuka! taiwan.md: pada era jawaban AI, biarkan negara memperkenalkan dirinya melalui README',
-    'about.press.abmedia': '動區動趨',
+    'about.press.abmedia': 'ABMedia',
     'about.press.abmedia.title':
       'Bagaimana memperkenalkan Taiwan kepada orang asing? Siapa pun dapat menuliskan “keajaiban dalam keseharian” di Taiwan.md untuk dibaca dunia',
     'about.press.ltn': 'Liberty Times',
@@ -2706,7 +2706,7 @@ export const aboutUI = {
     'about.team.founder.quote':
       '“Mesmo quando somos tratados injustamente no cenário internacional ou enfrentamos uma situação mais perigosa, tenho orgulho do meu país, tenho orgulho de Taiwan. Quanto mais conheço o mundo, mais profundamente percebo que nosso lar é, na verdade, um lugar maravilhoso.”',
     'about.team.founder.quote.cite': '— Che-Yu',
-    'about.team.founder.name': '吳哲宇',
+    'about.team.founder.name': 'Che-Yu Wu',
     'about.team.founder.name.en': 'Che-Yu Wu',
     'about.team.founder.tagline':
       'Artista de novas mídias ・ Fundador do MonoLab ・ Idealizador do Taiwan.md',
@@ -4995,10 +4995,10 @@ export const aboutUI = {
     'about.press.inside': 'INSIDE',
     'about.press.inside.title':
       "Ouvrir Taiwan au monde ! taiwan.md : À l'ère des réponses de l'IA, laissons les pays se présenter avec des README",
-    'about.press.abmedia': '動區動趨',
+    'about.press.abmedia': 'ABMedia',
     'about.press.abmedia.title':
       "Comment présenter Taiwan aux étrangers ? Chacun peut écrire sur « l'incroyable quotidien » pour que le monde le voie sur Taiwan.md",
-    'about.press.ltn': '自由時報',
+    'about.press.ltn': 'Liberty Times',
     'about.press.ltn.title':
       "Récit narratif de Taiwan à l'ère de l'IA ! L'artiste nouveaux médias Che-Yu Wu lance l'expérience « taiwan.md »",
     'about.press.ftnn': 'FTNN',
@@ -5026,7 +5026,7 @@ export const aboutUI = {
       'Même face aux défis internationaux, je suis fier de mon pays, fier de Taiwan. Plus vous allez loin, plus vous réalisez profondément — notre foyer est déjà magnifique.',
     'about.team.founder.quote.cite': '— Che-Yu',
     'about.team.founder.name': 'Che-Yu Wu',
-    'about.team.founder.name.en': '吳哲宇',
+    'about.team.founder.name.en': 'Che-Yu Wu',
     'about.team.founder.tagline':
       'Artiste nouveaux médias・Fondateur de MonoLab・Créateur de Taiwan.md',
     'about.team.founder.bio':
@@ -5408,10 +5408,10 @@ export const aboutUI = {
     'about.press.inside': 'INSIDE',
     'about.press.inside.title':
       '¡Código Abierto para Taiwán!: taiwan.md: En la Era de las Respuestas de IA, Deja que los Países se Presenten con READMEs',
-    'about.press.abmedia': '動區動趨',
+    'about.press.abmedia': 'ABMedia',
     'about.press.abmedia.title':
       '¿Cómo Presentar Taiwán a los Extranjeros? Todos Pueden Escribir Sobre "Lo Increíble de lo Cotidiano" para que el Mundo lo Vea en Taiwan.md',
-    'about.press.ltn': '自由時報',
+    'about.press.ltn': 'Liberty Times',
     'about.press.ltn.title':
       '¡Recuperando la Narrativa de Taiwán en la Era de la IA! El Artista de Nuevos Medios Che-Yu Wu Lanza el Experimento "taiwan.md"',
     'about.press.ftnn': 'FTNN',
@@ -5439,7 +5439,7 @@ export const aboutUI = {
       '"Incluso cuando enfrentamos desafíos internacionales, estoy orgulloso de mi país, orgulloso de Taiwán. Cuanto más lejos vas, más profundamente comprendes — nuestro hogar ya es hermoso."',
     'about.team.founder.quote.cite': '— Che-Yu',
     'about.team.founder.name': 'Che-Yu Wu',
-    'about.team.founder.name.en': '吳哲宇',
+    'about.team.founder.name.en': 'Che-Yu Wu',
     'about.team.founder.tagline':
       'Artista de Nuevos Medios・Fundador de MonoLab・Creador de Taiwan.md',
     'about.team.founder.bio':

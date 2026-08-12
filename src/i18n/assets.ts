@@ -748,7 +748,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
 
     // Buttons
     'assets.btn.download': '下載 SVG',
-    'assets.btn.copy': '複製 SVG 代碼',
+    'assets.btn.copy': '複製 SVG 程式碼',
 
     // Usage section
     'assets.usage.title': '📝 使用方式',
