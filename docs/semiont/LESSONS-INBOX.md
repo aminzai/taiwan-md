@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-13 twmd-maintainer-am — gate-explains-into-a-dead-channel：閘門診斷對了，但說明送不到能動手的人面前
+
+- **pattern**: `gate-explains-into-a-dead-channel`
+- **原則**：閘門的價值不只在判斷對錯，在把「怎麼修」送到能動手的人手上；輸出管道斷掉時，正確的診斷會退化成一個沒有理由的紅燈，而外面看起來跟「這人不受教」一模一樣。
+- **觸發**：2026-08-13 08:30 maintainer cycle 收到 idlccp1984 六個 open PR（#1304 #1323 #1324 #1326 #1327 #1328），全部敗在同一項——frontmatter 缺 `subcategory`。`pr-frontmatter-gate.yml` 每一次都正確診斷出來，也備好了含修法的留言，但那個留言步驟對 fork PR 必定失敗（`pull_request` 給 fork 的 token 唯讀，log 裡是 `HttpError: Resource not accessible by integration`），且早已加上 `continue-on-error` 優雅降級。**降級降掉的正好是「怎麼修」本身**：六次紅 X，六次零說明，於是同一個錯重複六次。我原本差點把這批讀成「貢獻者反覆不看規範」——真相是他從來沒有東西可看。修補（`66182f2ab`）：gate 結果同時寫進 `$GITHUB_STEP_SUMMARY`（不需 token，紅 X 一點就到），留言步驟保留給同 repo PR。
+- **instances**：
+- **可能層級**：通用反射候選（任何「檢查器 + 對外通知」的組合都適用：CI gate / lint bot / 免疫巡邏 / feedback triage 回覆）
+- **相關**：#52（immune system 沒在 fail loud 比缺 immune system 更危險——本條是它的下一層：**有 fail loud，但沒有對著能動手的人喊**）/ #85（「不知道」需要自己的符號——那條講讀數分不出安全與不知道，本條講診斷正確但傳不出去）/ #82（proxy signal——「gate 有跑且有紅」是「投稿者知道要修什麼」的替身訊號）
+- **verification_count**: 1
+
 ### 2026-08-13 twmd-feedback-triage — zero-input-cycle-drops-the-reconciliation：沒有新輸入的那一輪，對賬動作會跟著輸入一起消失
 
 - **pattern**: `zero-input-cycle-drops-the-reconciliation`
