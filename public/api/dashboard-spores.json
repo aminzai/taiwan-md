@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T22:12:39.208238Z",
+  "lastUpdated": "2026-08-13T22:40:42.447696Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 161,
@@ -33,7 +33,7 @@
       "url": "https://x.com/taiwandotmd/status/2087208201729249614",
       "highlight": "v1.15.0 release 孢子 X 版 — 同文案 + inline UTM s171",
       "views_7d": null,
-      "views_latest": 20000,
+      "views_latest": 24000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -49,7 +49,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Db591ugI6tB",
       "highlight": "v1.15.0 release 孢子 — 長出複眼：十二語 +3,089 譯文 vs 讀者一句「怪怪的」，複眼人意象收尾",
       "views_7d": null,
-      "views_latest": 1264,
+      "views_latest": 1328,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -305,7 +305,7 @@
     {
       "week": "2026-W33",
       "published": 2,
-      "avgViews": 10632
+      "avgViews": 12664
     }
   ],
   "harvestStatus": [
@@ -1906,8 +1906,8 @@
       "publishDate": "2026-08-11",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-08-13 06:42"
+      "harvestCount": 3,
+      "lastHarvest": "2026-08-14 06:40"
     },
     {
       "n": 171,
@@ -1916,8 +1916,8 @@
       "publishDate": "2026-08-11",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-08-13 06:42"
+      "harvestCount": 3,
+      "lastHarvest": "2026-08-14 06:40"
     }
   ]
 }
