@@ -1,14 +1,16 @@
-```yaml
+---
 title: '痞客邦：一個平台如何把台灣人的日常保存成公共記憶'
 description: '從交大校園相簿到台灣生活內容平台，痞客邦如何在創作者自由、商業化、社群治理與數位記憶保存之間持續協商？'
 category: Technology
+subcategory: Digital Culture
 tags: [痞客邦, PIXNET, 部落格, 網路文化, 數位記憶]
 author: 'Taiwan.md Contributors'
 date: 2026-08-13
 readingTime: 9
 lastVerified: 2026-08-13
 lastHumanReview: false
-```
+---
+
 
 # 痞客邦：一個平台如何把台灣人的日常保存成公共記憶
 
