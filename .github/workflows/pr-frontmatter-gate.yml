@@ -25,6 +25,12 @@ name: PR Frontmatter Gate
 # Fork PR 權限：用 `pull_request`（非 pull_request_target），fork PR 的 token
 # 是唯讀，所以留言步驟會失敗——已加 continue-on-error 優雅降級；紅 X（job exit
 # code）不受 token 影響，永遠有效。跟 pr-review.yml 同一套 fork-safe 模式。
+#
+# ⚠️ 2026-08-13 校正：上面那句「紅 X 永遠有效」是對的，但不夠。紅 X 說「有問題」，
+#    不說「問題是什麼、怎麼修」——而說明只活在那個對 fork PR 必定失敗的留言步驟裡。
+#    後果實測：idlccp1984 連續 6 個 fork PR 敗在同一項（缺 subcategory），六次都
+#    沒拿到任何說明。所以 gate 結果現在同時寫進 $GITHUB_STEP_SUMMARY（不需 token，
+#    紅 X 一點就到）。留言步驟保留給同 repo PR，兩條管道並存。
 # ─────────────────────────────────────────────────────────────────────────────
 
 on:
@@ -172,6 +178,36 @@ jobs:
           echo "status=$STATUS" >> "$GITHUB_OUTPUT"
           echo ""
           echo "gate status = $STATUS"
+
+          # ── Job Summary：fork PR 唯一到得了投稿者眼前的管道（2026-08-13）──
+          # 下面那個留言步驟對 fork PR 永遠失敗（唯讀 token），已 continue-on-error
+          # 優雅降級——但「優雅降級」降掉的正是**怎麼修**這件事本身。投稿者看到的
+          # 只剩一個沒有理由的紅 X。實證：idlccp1984 連續 6 個 PR（#1304/#1323/
+          # #1324/#1326/#1327/#1328）敗在同一項（缺 subcategory），六次都沒收到
+          # 過任何一次說明，因為六次都是 fork PR。閘門診斷正確、輸出管道斷掉，
+          # 於是同一個錯重複六次——這是 REFLEXES #52「immune system 沒在 fail loud
+          # 比缺 immune system 更危險」的變體：它有 fail loud，只是沒對著人喊。
+          # Job Summary 不需要任何 token 權限，且紅 X 一點就到這一頁。
+          {
+            if [ "$STATUS" = "pass" ]; then
+              echo "## ✅ Frontmatter Gate 通過"
+            else
+              echo "## 🔴 Frontmatter Gate 未通過 — merge 前請先修"
+            fi
+            echo ""
+            echo '```'
+            cat gate-result.txt
+            echo '```'
+            if [ "$STATUS" != "pass" ]; then
+              echo ""
+              echo "### 最常見的修法"
+              echo "- **缺 \`subcategory\`** → 對照 [\`docs/taxonomy/SUBCATEGORY.md\`](https://github.com/${GITHUB_REPOSITORY}/blob/main/docs/taxonomy/SUBCATEGORY.md) 找該分類的子分類補上。這是目前最常見的一項。"
+              echo "- **YAML 被包在 \` \`\`\` \` code fence 裡**（不是真 frontmatter）→ 開頭與結尾的 \` \`\`\`yaml \` / \` \`\`\` \` 都換成 \`---\`，且必須貼在檔案最頂端。"
+              echo "- **腳註格式 / 半形標點 / wikilink** → 本地跑 \`python3 scripts/tools/footnote-format-fix.py <檔> --apply\` 與 \`python3 scripts/tools/article-health.py <檔> --profile=pre-commit --fix\`，多數可自動修。"
+              echo ""
+              echo "修好 push 到同一個 PR 分支，這條 gate 會自動重跑。"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Comment gate result on PR
         if: steps.files.outputs.count != '0' && always()
