@@ -80,7 +80,7 @@ if (EXPLICIT_FILES !== undefined) {
     // CI base ref 可用 TWMD_DIFF_BASE 覆蓋（default HEAD~1 保 deploy.yml 行為不變）
     const ciBase = process.env.TWMD_DIFF_BASE || 'HEAD~1';
     const cmd = STAGED_MODE
-      ? 'git diff --cached --name-only --diff-filter=ACM -- knowledge/'
+      ? 'git diff --cached --name-only --diff-filter=ACMR -- knowledge/'
       : `git diff --name-only ${ciBase} -- knowledge/`;
     const diff = execSync(cmd, { encoding: 'utf-8' });
     changedFiles = new Set(diff.trim().split('\n').filter(Boolean));

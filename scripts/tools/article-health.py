@@ -58,7 +58,7 @@ def _get_staged_md() -> list[Path]:
         # 跟「真的沒 staged」逐字相同）。2026-08-08 已修 .husky 殼層，這裡是同型第二處。
         out = subprocess.check_output(
             ["git", "-c", "core.quotePath=false",
-             "diff", "--cached", "--name-only", "--diff-filter=ACM"],
+             "diff", "--cached", "--name-only", "--diff-filter=ACMR"],
             text=True,
         )
     except subprocess.CalledProcessError:
