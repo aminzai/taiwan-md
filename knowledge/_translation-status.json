@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-13T06:11:52+08:00",
-    "zhCommitHead": "31323cd37",
-    "totalZh": 892,
+    "lastUpdated": "2026-08-14T06:12:36+08:00",
+    "zhCommitHead": "7af5d8cea",
+    "totalZh": 894,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 840,
         "stale": 26,
         "metadata_stale": 12,
-        "missing": 14,
+        "missing": 16,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 847,
         "stale": 16,
         "metadata_stale": 9,
-        "missing": 20,
+        "missing": 22,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 859,
         "stale": 14,
         "metadata_stale": 12,
-        "missing": 7,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 892,
-        "fresh": 848,
-        "stale": 20,
-        "metadata_stale": 15,
         "missing": 9,
         "orphan": 0
       },
+      "es": {
+        "total_zh": 894,
+        "fresh": 848,
+        "stale": 20,
+        "metadata_stale": 15,
+        "missing": 11,
+        "orphan": 0
+      },
       "fr": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 843,
         "stale": 20,
         "metadata_stale": 19,
-        "missing": 10,
+        "missing": 12,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 700,
         "stale": 27,
         "metadata_stale": 72,
-        "missing": 93,
+        "missing": 95,
         "orphan": 0
       },
       "id": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 562,
         "stale": 6,
         "metadata_stale": 4,
-        "missing": 320,
+        "missing": 322,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 823,
         "stale": 9,
         "metadata_stale": 4,
-        "missing": 56,
+        "missing": 58,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 652,
         "stale": 0,
         "metadata_stale": 4,
-        "missing": 236,
+        "missing": 238,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 735,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 152,
+        "missing": 154,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 892,
+        "total_zh": 894,
         "fresh": 772,
         "stale": 1,
         "metadata_stale": 4,
-        "missing": 115,
+        "missing": 117,
         "orphan": 0
       }
     },
@@ -8395,6 +8395,49 @@
           "footnoteDefs": 39,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/台灣離岸風電.md": {
+      "zh": {
+        "lastCommit": "566429f3",
+        "lastModified": "2026-08-13T08:52:21+08:00",
+        "contentHash": "sha256:b1ed4dc9af013a20",
+        "bodyHash": "sha256:6479c4ef0aacb1a4"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -18391,6 +18434,49 @@
           "footnoteDefs": 5,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Technology/功字裡的那根反斜線.md": {
+      "zh": {
+        "lastCommit": "5dcaeea4",
+        "lastModified": "2026-08-13T05:05:30+08:00",
+        "contentHash": "sha256:57b41e308a296fb4",
+        "bodyHash": "sha256:9af4500f829effce"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },

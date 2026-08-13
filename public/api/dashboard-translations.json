@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T22:12:09.701Z",
+  "lastUpdated": "2026-08-13T22:12:54.154Z",
   "languages": [
     "zh-TW",
     "en",
@@ -16,144 +16,144 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 890,
+      "total": 892,
       "percentage": 100,
-      "fresh": 890,
+      "fresh": 892,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 878,
-      "percentage": 98.4,
+      "percentage": 98.2,
       "fresh": 840,
       "metadataStale": 12,
       "stale": 26,
-      "missing": 14,
+      "missing": 16,
       "orphan": 0,
-      "deficit": 14,
-      "freshPct": 94.2,
-      "bodyFreshPct": 95.5
+      "deficit": 16,
+      "freshPct": 94,
+      "bodyFreshPct": 95.3
     },
     "ja": {
       "total": 872,
-      "percentage": 97.8,
+      "percentage": 97.5,
       "fresh": 847,
       "metadataStale": 9,
       "stale": 16,
-      "missing": 20,
+      "missing": 22,
       "orphan": 0,
-      "deficit": 20,
-      "freshPct": 95,
-      "bodyFreshPct": 96
+      "deficit": 22,
+      "freshPct": 94.7,
+      "bodyFreshPct": 95.7
     },
     "ko": {
       "total": 885,
-      "percentage": 99.2,
+      "percentage": 99,
       "fresh": 859,
       "metadataStale": 12,
       "stale": 14,
-      "missing": 7,
-      "orphan": 0,
-      "deficit": 7,
-      "freshPct": 96.3,
-      "bodyFreshPct": 97.6
-    },
-    "es": {
-      "total": 883,
-      "percentage": 99,
-      "fresh": 848,
-      "metadataStale": 15,
-      "stale": 20,
       "missing": 9,
       "orphan": 0,
       "deficit": 9,
-      "freshPct": 95.1,
-      "bodyFreshPct": 96.7
+      "freshPct": 96.1,
+      "bodyFreshPct": 97.4
+    },
+    "es": {
+      "total": 883,
+      "percentage": 98.8,
+      "fresh": 848,
+      "metadataStale": 15,
+      "stale": 20,
+      "missing": 11,
+      "orphan": 0,
+      "deficit": 11,
+      "freshPct": 94.9,
+      "bodyFreshPct": 96.5
     },
     "fr": {
       "total": 882,
-      "percentage": 98.9,
+      "percentage": 98.7,
       "fresh": 843,
       "metadataStale": 19,
       "stale": 20,
-      "missing": 10,
+      "missing": 12,
       "orphan": 0,
-      "deficit": 10,
-      "freshPct": 94.5,
-      "bodyFreshPct": 96.6
+      "deficit": 12,
+      "freshPct": 94.3,
+      "bodyFreshPct": 96.4
     },
     "vi": {
       "total": 799,
-      "percentage": 89.6,
+      "percentage": 89.4,
       "fresh": 700,
       "metadataStale": 72,
       "stale": 27,
-      "missing": 93,
+      "missing": 95,
       "orphan": 0,
-      "deficit": 93,
-      "freshPct": 78.5,
-      "bodyFreshPct": 86.5
+      "deficit": 95,
+      "freshPct": 78.3,
+      "bodyFreshPct": 86.4
     },
     "id": {
       "total": 572,
-      "percentage": 64.1,
+      "percentage": 64,
       "fresh": 562,
       "metadataStale": 4,
       "stale": 6,
-      "missing": 320,
+      "missing": 322,
       "orphan": 0,
-      "deficit": 320,
-      "freshPct": 63,
-      "bodyFreshPct": 63.5
+      "deficit": 322,
+      "freshPct": 62.9,
+      "bodyFreshPct": 63.3
     },
     "pt": {
       "total": 836,
-      "percentage": 93.7,
+      "percentage": 93.5,
       "fresh": 823,
       "metadataStale": 4,
       "stale": 9,
-      "missing": 56,
+      "missing": 58,
       "orphan": 0,
-      "deficit": 56,
-      "freshPct": 92.3,
-      "bodyFreshPct": 92.7
+      "deficit": 58,
+      "freshPct": 92.1,
+      "bodyFreshPct": 92.5
     },
     "hi": {
       "total": 656,
-      "percentage": 73.5,
+      "percentage": 73.4,
       "fresh": 652,
       "metadataStale": 4,
       "stale": 0,
-      "missing": 236,
+      "missing": 238,
       "orphan": 0,
-      "deficit": 236,
-      "freshPct": 73.1,
-      "bodyFreshPct": 73.5
+      "deficit": 238,
+      "freshPct": 72.9,
+      "bodyFreshPct": 73.4
     },
     "ar": {
       "total": 740,
-      "percentage": 83,
+      "percentage": 82.8,
       "fresh": 735,
       "metadataStale": 4,
       "stale": 1,
-      "missing": 152,
+      "missing": 154,
       "orphan": 0,
-      "deficit": 152,
-      "freshPct": 82.4,
-      "bodyFreshPct": 82.8
+      "deficit": 154,
+      "freshPct": 82.2,
+      "bodyFreshPct": 82.7
     },
     "ru": {
       "total": 777,
-      "percentage": 87.1,
+      "percentage": 86.9,
       "fresh": 772,
       "metadataStale": 4,
       "stale": 1,
-      "missing": 115,
+      "missing": 117,
       "orphan": 0,
-      "deficit": 115,
-      "freshPct": 86.5,
-      "bodyFreshPct": 87
+      "deficit": 117,
+      "freshPct": 86.4,
+      "bodyFreshPct": 86.8
     }
   },
   "matrix": {
@@ -398,83 +398,83 @@
       }
     },
     "economy": {
-      "zh-TW": 64,
+      "zh-TW": 65,
       "en": {
         "count": 62,
         "fresh": 59,
         "stale": 3,
-        "missing": 1,
-        "deficit": 2
+        "missing": 2,
+        "deficit": 3
       },
       "ja": {
         "count": 61,
         "fresh": 60,
         "stale": 1,
-        "missing": 3,
-        "deficit": 3
+        "missing": 4,
+        "deficit": 4
       },
       "ko": {
         "count": 63,
         "fresh": 61,
         "stale": 2,
-        "missing": 0,
-        "deficit": 1
+        "missing": 1,
+        "deficit": 2
       },
       "es": {
         "count": 63,
         "fresh": 61,
         "stale": 2,
-        "missing": 0,
-        "deficit": 1
+        "missing": 1,
+        "deficit": 2
       },
       "fr": {
         "count": 63,
         "fresh": 62,
         "stale": 1,
-        "missing": 0,
-        "deficit": 1
+        "missing": 1,
+        "deficit": 2
       },
       "vi": {
         "count": 54,
         "fresh": 52,
         "stale": 2,
-        "missing": 5,
-        "deficit": 10
+        "missing": 6,
+        "deficit": 11
       },
       "id": {
         "count": 34,
         "fresh": 33,
         "stale": 1,
-        "missing": 30,
-        "deficit": 30
+        "missing": 31,
+        "deficit": 31
       },
       "pt": {
         "count": 60,
         "fresh": 60,
         "stale": 0,
-        "missing": 4,
-        "deficit": 4
+        "missing": 5,
+        "deficit": 5
       },
       "hi": {
         "count": 54,
         "fresh": 54,
         "stale": 0,
-        "missing": 10,
-        "deficit": 10
+        "missing": 11,
+        "deficit": 11
       },
       "ar": {
         "count": 56,
         "fresh": 56,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 9,
+        "deficit": 9
       },
       "ru": {
         "count": 59,
         "fresh": 59,
         "stale": 0,
-        "missing": 5,
-        "deficit": 5
+        "missing": 6,
+        "deficit": 6
       }
     },
     "food": {
@@ -1198,88 +1198,90 @@
       }
     },
     "technology": {
-      "zh-TW": 60,
+      "zh-TW": 61,
       "en": {
         "count": 60,
         "fresh": 59,
         "stale": 1,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "ja": {
         "count": 59,
         "fresh": 58,
         "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 60,
         "fresh": 59,
         "stale": 1,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "es": {
         "count": 59,
         "fresh": 58,
         "stale": 1,
-        "missing": 0,
-        "deficit": 1
+        "missing": 1,
+        "deficit": 2
       },
       "fr": {
         "count": 59,
         "fresh": 58,
         "stale": 1,
-        "missing": 0,
-        "deficit": 1
+        "missing": 1,
+        "deficit": 2
       },
       "vi": {
         "count": 47,
         "fresh": 45,
         "stale": 2,
-        "missing": 10,
-        "deficit": 13
+        "missing": 11,
+        "deficit": 14
       },
       "id": {
         "count": 35,
         "fresh": 34,
         "stale": 1,
-        "missing": 25,
-        "deficit": 25
+        "missing": 26,
+        "deficit": 26
       },
       "pt": {
         "count": 56,
         "fresh": 56,
         "stale": 0,
-        "missing": 4,
-        "deficit": 4
+        "missing": 5,
+        "deficit": 5
       },
       "hi": {
         "count": 46,
         "fresh": 46,
         "stale": 0,
-        "missing": 14,
-        "deficit": 14
+        "missing": 15,
+        "deficit": 15
       },
       "ar": {
         "count": 52,
         "fresh": 52,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 9,
+        "deficit": 9
       },
       "ru": {
         "count": 53,
         "fresh": 53,
         "stale": 0,
-        "missing": 7,
-        "deficit": 7
+        "missing": 8,
+        "deficit": 8
       }
     }
   },
   "missing": {
     "en": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",
@@ -1296,6 +1298,8 @@
       "Lifestyle/收費站：國道上那消失的三秒鐘停頓.md"
     ],
     "ja": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",
@@ -1318,6 +1322,8 @@
       "Technology/台灣網路社群三十年——撈得回網址，撈不回照片的失土史.md"
     ],
     "ko": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Society/台灣新冠疫情與疫苗：買到的十八個月，和沒趕上的那一針.md",
       "Art/馬祖國際藝術島：一座沒有展館的美術館，把整座列島借來當展場.md",
@@ -1327,6 +1333,8 @@
       "Society/外送專法：法律砌好了地板，地板以上還是演算法的.md"
     ],
     "es": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Society/台灣新冠疫情與疫苗：買到的十八個月，和沒趕上的那一針.md",
       "Art/馬祖國際藝術島：一座沒有展館的美術館，把整座列島借來當展場.md",
@@ -1338,6 +1346,8 @@
       "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
     ],
     "fr": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Society/台灣新冠疫情與疫苗：買到的十八個月，和沒趕上的那一針.md",
       "Art/馬祖國際藝術島：一座沒有展館的美術館，把整座列島借來當展場.md",
@@ -1350,6 +1360,8 @@
       "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md"
     ],
     "vi": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/中華菱利：撐起台灣經濟的發財車.md",
       "History/消失的遊樂園：從「第一樂園」到猛鬼傳說，那些被都市計畫沒收的童年.md",
@@ -1445,6 +1457,8 @@
       "Society/台灣教師的管教困境：從教鞭消失到不敢開口的二十年.md"
     ],
     "id": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "People/王福瑞：從 200 份影印雜誌到 12 聲道喇叭的三十年.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
@@ -1766,6 +1780,8 @@
       "Technology/台灣電動車產業鏈發展.md"
     ],
     "pt": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",
@@ -1824,6 +1840,8 @@
       "Music/台灣民歌運動.md"
     ],
     "hi": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",
@@ -2062,6 +2080,8 @@
       "Technology/台灣5G網路建設與數位轉型.md"
     ],
     "ar": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",
@@ -2216,6 +2236,8 @@
       "Politics/直轄市山地原住民區長：2014 升格修法保留的民選自治職位.md"
     ],
     "ru": [
+      "Economy/台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰.md",
+      "Technology/「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅.md",
       "Food/樹林紅麴：酒廠走了，菌還留在香腸裡.md",
       "Economy/台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年.md",
       "Food/鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空.md",

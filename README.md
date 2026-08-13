@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **890 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,680 article-versions
+- 📖 **892 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,704 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,8 +95,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 890   |
-| 🇹🇼 Chinese (zh-TW)             | 890   |
+| 📄 Total articles (zh-TW SSOT) | 892   |
+| 🇹🇼 Chinese (zh-TW)             | 892   |
 | 🇺🇸 English (en)                | 883   |
 | 🇯🇵 日本語 (ja)                 | 872   |
 | 🇰🇷 한국어 (ko)                 | 885   |
@@ -106,9 +106,9 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 69    |
-| ⭐ GitHub Stars                | 1137  |
-| 🍴 Forks                       | 170   |
-| 📅 Articles last 7 days        | 16    |
+| ⭐ GitHub Stars                | 1141  |
+| 🍴 Forks                       | 171   |
+| 📅 Articles last 7 days        | 18    |
 | 📅 Articles last 30 days       | 234   |
 
 <!-- STATS:END -->
@@ -581,8 +581,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/ellenlee"><img src="https://avatars.githubusercontent.com/u/13810570?v=4" width="100px;" alt=""/><br /><sub><b>Ellen Lee</b></sub></a><br />💻 🖋️ 🌍</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
     <td align="center"><a href="https://github.com/stantheman0128"><img src="https://avatars.githubusercontent.com/u/79733497?v=4" width="100px;" alt=""/><br /><sub><b>Stan Shih</b></sub></a><br />💻 🌍 🐛</td>
+    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
     <td align="center"><a href="https://github.com/AgendaLu"><img src="https://avatars.githubusercontent.com/u/43836432?v=4" width="100px;" alt=""/><br /><sub><b>YiChengLu</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4" width="100px;" alt=""/><br /><sub><b>EryetChen</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>

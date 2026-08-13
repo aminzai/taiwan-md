@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-08-12T22:11:58.747Z",
+  "generatedAt": "2026-08-13T22:12:42.835Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "7af5d8cea509302f205a98061d93882f53e4d542",
+      "date": "2026-08-14T05:39:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-14 05:37 — 三層對賬第二十一輪，連續第三輪零漂移",
+      "articles": []
+    },
+    {
+      "hash": "ce7c38041c61a4d41f96d8cae40e6a340710b957",
+      "date": "2026-08-14T05:38:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-14 05:37 — 12 語 9561 向量 0 fail，本機優先架構第三夜獨立扛住全量重建",
+      "articles": []
+    },
+    {
+      "hash": "39b378e3a5e2e33f510987bed79fdff7950d9f0b",
+      "date": "2026-08-14T05:36:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-14 05:23",
+      "articles": []
+    },
+    {
+      "hash": "80f9e43a47a0815ebd8a026356fee5b86b7e5c11",
+      "date": "2026-08-13T09:07:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-13 08:40 — 六個 PR 敗在同一項，而閘門六次都沒能把話說出口",
+      "articles": []
+    },
+    {
+      "hash": "66182f2abc965b9ca32ad7572f0eb35f602af961",
+      "date": "2026-08-13T08:55:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 閘門診斷對了，但話沒送到投稿者面前",
+      "articles": []
+    },
+    {
+      "hash": "d206cf40cdf349b3c642a2af4b01cfaf1d72f7f4",
+      "date": "2026-08-13T08:53:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 改名一個檔案就能繞過本地的所有品質閘門",
+      "articles": []
+    },
+    {
+      "hash": "566429f3b653c84ae60135a3316d728b8eddc63b",
+      "date": "2026-08-13T08:52:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 離岸風電補 subcategory 並搬到 Economy",
+      "articles": []
+    },
+    {
+      "hash": "69a6fa68acf0d2e8cb8ad36140fd7d1f54e2c741",
+      "date": "2026-08-13T08:51:45+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1323 from idlccp1984/patch-310462",
+      "articles": []
+    },
+    {
+      "hash": "0c3fb42d2f7e25c6042cc20c86209f8b8b3c5e36",
+      "date": "2026-08-13T08:44:13+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1329 from stantheman0128/content/backslash-default-tax",
+      "articles": []
+    },
+    {
+      "hash": "21325b5eed2c52e33e51a63801ca9fc6eb7d565d",
+      "date": "2026-08-13T07:13:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: feedback-triage 兩條教訓進 LESSONS-INBOX",
+      "articles": []
+    },
+    {
+      "hash": "c8ba684099b818a3c2943a2dec33f9c20712daee",
+      "date": "2026-08-13T07:12:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-13 07:09 — 零新回報的一輪，價值全在核帳",
+      "articles": []
+    },
+    {
+      "hash": "1d1fe9079d41835785b8b11c5808460f89b95ef3",
+      "date": "2026-08-13T07:09:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 今天沒有新回報，把昨天三則維護者回覆收進 git",
+      "articles": []
+    },
+    {
+      "hash": "2b758b49412116637fddb408ff8f91f5f2a69fc6",
+      "date": "2026-08-13T06:45:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: v1.15.0 release 孢子 D+2 續追 — 2026-08-13",
+      "articles": []
+    },
+    {
+      "hash": "48459847038f456b2aa2cf65a8dde58e94b92979",
+      "date": "2026-08-13T06:15:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: twmd-data-refresh-am @ 2026-08-13 06:13 — 14 步全綠零 stale 連續第二天，fork-census 抓到三個新子代",
+      "articles": []
+    },
+    {
+      "hash": "ccf684e584349866ce5f6a40f5a0a7bc6bf67ed6",
+      "date": "2026-08-13T06:13:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 890、本週新增 16",
+      "articles": []
+    },
     {
       "hash": "31323cd3798ba9657e09a1c00a58a5074392de82",
       "date": "2026-08-13T05:38:34+08:00",
@@ -21,6 +126,20 @@
       "date": "2026-08-13T05:36:09+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-13 05:22",
+      "articles": []
+    },
+    {
+      "hash": "5dcaeea42d503049caa940284da5063453222141",
+      "date": "2026-08-13T05:05:30+08:00",
+      "author": "stantheman0128",
+      "message": "新增 Technology 文章：功字裡的那根反斜線",
+      "articles": []
+    },
+    {
+      "hash": "b5d021e08cbe8cef7b0a021752a03fc6fd0783e2",
+      "date": "2026-08-12T13:58:41+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣離岸風電.md",
       "articles": []
     },
     {

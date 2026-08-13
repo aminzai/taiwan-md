@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-12T22:12:06Z",
-  "total": 892,
-  "flagged": 439,
+  "timestamp": "2026-08-13T22:12:50Z",
+  "total": 894,
+  "flagged": 440,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -148,6 +148,11 @@
       "file": "economy/AAMA台北搖籃計畫.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句2個; 破折號5個; 分號7個"
+    },
+    {
+      "file": "economy/台灣離岸風電.md",
+      "score": 4,
+      "reasons": "空洞詞7個; 未人工審核; 塑膠句1個; 稀薄段落×1"
     },
     {
       "file": "economy/台灣企業：大立光電.md",

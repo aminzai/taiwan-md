@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9677,
+  "totalArticles": 9679,
   "totalCategories": 26,
   "estimatedContributors": 69,
-  "totalTags": 6120,
+  "totalTags": 6129,
   "categories": [
     {
       "name": "es",
@@ -35,6 +35,10 @@
     {
       "name": "ru",
       "count": 777
+    },
+    {
+      "name": "Technology",
+      "count": 61
     },
     {
       "name": "History",
@@ -86,11 +90,7 @@
     },
     {
       "name": "Economy",
-      "count": 64
-    },
-    {
-      "name": "Technology",
-      "count": 60
+      "count": 65
     },
     {
       "name": "Nature",
@@ -192,13 +192,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9677,
+    "zh-TW": 9679,
     "en": 0
   },
-  "lastUpdated": "2026-08-12T22:11:57.691Z",
-  "stars": 1137,
-  "forks": 170,
-  "zhPages": 890,
+  "lastUpdated": "2026-08-13T22:12:41.745Z",
+  "stars": 1141,
+  "forks": 171,
+  "zhPages": 892,
   "enPages": 883,
-  "totalPages": 890
+  "totalPages": 892
 }

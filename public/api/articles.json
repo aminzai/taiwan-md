@@ -495,6 +495,24 @@
     "path": "ko/Culture/renjian-magazine.md"
   },
   {
+    "title": "「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅",
+    "description": "語系 zh-TW 的 Windows 11 上，翻譯狀態腳本把掃到的四千多條路徑全丟進 root，Technology 變成零，同一週 Linux 的 CI 卻是綠的。腳本用正斜線切分類名，磁碟用反斜線，切不出來。更老的一層埋在字裡：Big5 的「功」第二個位元組就是 ASCII 反斜線，開發圈叫它許功蓋。路徑怎麼寫、字裡住了什麼符號，預設值都沒把這台機器算進去。Git 的 quotePath 是另一條線，成因不一樣。",
+    "category": "Technology",
+    "tags": [
+      "開源",
+      "Windows",
+      "Big5",
+      "UTF-8",
+      "字元編碼",
+      "繁體中文"
+    ],
+    "url": "https://taiwan.md/technology/%E5%8A%9F%E5%AD%97%E8%A3%A1%E7%9A%84%E9%82%A3%E6%A0%B9%E5%8F%8D%E6%96%9C%E7%B7%9A",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "Technology/功字裡的那根反斜線.md"
+  },
+  {
     "title": "「台湾の繊維産業：夕暮れの産業からオリンピック機能服を支える隠れたチャンピオンへ」",
     "description": "「かつて『夕暮れ』と見なされていた伝統産業が、ペットボトルや廃棄漁網、さらには工場排ガスを回収することで、2024年パリ五輪で世界代表チームのサステナブルな戦闘服を支え、台湾の製造業のレジリエンス（回復力）という物語を転換させている。」",
     "category": "ja",
@@ -11029,6 +11047,24 @@
     "featured": false,
     "date": "2026-05-11",
     "path": "Culture/雜誌.md"
+  },
+  {
+    "title": "台灣離岸風電：從台灣海峽的風雨試煉，到全球綠能供應鏈的生存之戰",
+    "description": "2025年底台灣離岸風電裝置容量突破4.4GW，面對地質挑戰、國產化政策調整、區塊開發選商爭議與全球科技大廠的綠電飢渴，這場海上綠能實驗如何重塑島嶼的能源命脈？",
+    "category": "Economy",
+    "tags": [
+      "離岸風電",
+      "能源轉型",
+      "台灣海峽",
+      "供應鏈",
+      "永續發展",
+      "能源安全"
+    ],
+    "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E9%9B%A2%E5%B2%B8%E9%A2%A8%E9%9B%BB",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "Economy/台灣離岸風電.md"
   },
   {
     "title": "台灣騎樓文化與街景",
