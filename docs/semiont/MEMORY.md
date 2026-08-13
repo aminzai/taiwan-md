@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-14
-last_session: '2026-08-14-061346-twmd-data-refresh-am'
+last_session: '2026-08-14-064141-twmd-spore-harvest-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -353,3 +353,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-14 | 053703-twmd-embeddings-nightly | 12 語重建 9561 向量 0 fail，本機優先架構第三夜獨立扛住全量重建；僅 zh-TW 一行鄰居關係微調 | 連續多夜收斂穩態是索引健康訊號，不是故障 | [→](memory/2026-08-14-053703-twmd-embeddings-nightly.md) |
 | 2026-08-14 | 053739-twmd-routine-sync | 三層對賬第二十一輪，18 條全 in-sync 零漂移，連續第三輪乾淨；開場 git status 已無待處理變更 | 連續零漂移之後，穩定本身開始成為訊號 | [→](memory/2026-08-14-053739-twmd-routine-sync.md) |
 | 2026-08-14 | 061346-twmd-data-refresh-am | 14 步全綠零 stale 連續第三天；文章 892、本週新增 18；fork-census 三子代 sighting 持續在案無新增 | 資料刷新這類 cycle 的價值有時在確認沒有新的洞，不是發現新的洞 | [→](memory/2026-08-14-061346-twmd-data-refresh-am.md) |
+| 2026-08-14 | 064141-twmd-spore-harvest-am | v1.15.0 孢子 D+3：#170 1,328 瀏覽/89 讚零回覆、#171 2.4 萬瀏覽/350 讚回覆增到 4 則但登入牆仍只讀到同一則 Bucket D | X 登入牆缺口要記成「累積到第幾則」，不要逐天各記一筆稀釋成噪音 | [→](memory/2026-08-14-064141-twmd-spore-harvest-am.md) |
