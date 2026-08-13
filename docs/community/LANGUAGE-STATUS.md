@@ -20,9 +20,12 @@
 | 🇮🇩 Bahasa Indonesia | `id`    | ✅ Active         | /id/ | 2026-07-19 啟用；最大移工社群母語＋新南向核心                                     |
 | 🇧🇷 Português        | `pt`    | ✅ Active         | /pt/ | 2026-07-19 啟用；唯一三源全確認缺口（巴西）                                       |
 | 🇮🇳 हिन्दी           | `hi`    | ✅ Active         | /hi/ | 2026-07-19 啟用；全球第三大語言、未覆蓋中人口最大                                 |
+| 🇸🇦 العربية          | `ar`    | ✅ Active         | /ar/ | 2026-07-25 啟用；首個 RTL 語言                                                    |
+| 🇷🇺 Русский          | `ru`    | ✅ Active         | /ru/ | 2026-07-25 啟用                                                                   |
 
 [evolve-report]: ../../reports/evolve-2026-07-18-language-branches.md
 [birth-report]: ../../reports/language-birth-2026-07-18.md
+[birth-report-ar-ru]: ../../reports/language-birth-2026-07-25.md
 
 ---
 
@@ -65,7 +68,13 @@ The `translatedFrom` field is the **most important** addition — it lets the sy
 
 ---
 
-## 🌱 我想加一個全新語言（th / de / ar / ...）
+## 🌏 2026-07-25 新增阿拉伯文與俄文
+
+阿拉伯文（ar）與俄文（ru）已完成內容、UI、路由與語言切換器接線並正式啟用；阿拉伯文也是站上第一個 RTL 語言。實作與驗證記錄見[出生戰役實錄][birth-report-ar-ru]。
+
+---
+
+## 🌱 我想加一個全新語言（th / de / bn / ...）
 
 **Contributor 可以做的**：
 
@@ -109,6 +118,7 @@ translatedFrom: 'Music/五月天.md'
 
 ---
 
+_v2.2 | 2026-08-13 — 補上已啟用的 ar / ru，移除把 ar 列為未來語言的舊說法_
 _v2.1 | 2026-07-19 — 四語 vi/id/pt/hi flip Active（出生戰役）_
 _v2.0 | 2026-07-18 — 對齊現實：es / fr 早已 active（本檔停在四月的 preview 描述三個月）；新增 🌱 Scaffolded 段（vi / id / pt / hi 選定）；文章數改指 dashboard 不寫死；新語言指南指向 LANGUAGE-BIRTH-CHECKLIST v2.0_
 _v1.0 | 2026-04-14 η session_

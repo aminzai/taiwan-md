@@ -6,15 +6,16 @@
 
 - [ ] 📄 新增文章
 - [ ] ✏️ 修改/更新現有文章
-- [ ] 🌐 翻譯（中→英 / 英→中）
+- [ ] 🌐 翻譯（zh-TW → 目標語言）
 - [ ] 🐛 修復錯誤（事實更正、錯字、連結失效）
 - [ ] 💻 技術改動（程式碼、樣式、設定）
 - [ ] 📚 文件更新（README、CONTRIBUTING 等）
 
 ## ✅ 自我檢查
 
-- [ ] 文章有完整的 frontmatter（title, description, date, tags, category）
-- [ ] `category` 用英文 + 對齊路徑（canonical：About / Art / Culture / Economy / Food / Geography / History / Language / Lifestyle / Music / Nature / People / Society / Technology — 不要用 `Infrastructure` / `transportation` 這類非 canonical 名稱）
+- [ ] 文章有完整的 frontmatter（title, description, date, tags, category；About 以外的 zh-TW 文章另需 subcategory）
+- [ ] `category` 用英文 + 對齊路徑（canonical：About / Art / Culture / Economy / Food / Geography / History / Lifestyle / Music / Nature / People / Politics / Society / Technology — 不要用 `Infrastructure` / `transportation` 這類非 canonical 名稱）
+- [ ] 翻譯檔有 `translatedFrom: 'Category/中文檔名.md'`，且指向存在的 zh-TW 原文
 - [ ] `author: 'Taiwan.md Contributors'`（不要寫 'Manus AI' / 'ChatGPT' / 'Claude' / 'Semiont' / 'Taiwan.md'）
 - [ ] `featured: false`（featured 由維護者統一管理，請勿設為 true）
 - [ ] **腳註用 canonical 格式**：`[^N]: [標題](URL) — 至少 10 字描述`（不要用 APA `Author. (date). Title. URL.` 或中文〈〉標點 — 維護者會跑 `bash scripts/tools/footnote-format-fix.sh --apply` 自動轉換，先按 canonical 格式寫可省一輪 polish）
