@@ -332,6 +332,42 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-14 twmd-feedback-triage — transcription-gates-guard-fidelity-not-consequence：整條轉錄線的閘門都在問「搬得對不對」，沒有一道在問「搬過去會傷到誰」
+
+- **pattern**: `transcription-gates-guard-fidelity-not-consequence`
+- **原則**：機械轉錄型的 routine（讀者回報轉 issue、留言回填、素材匯入）很自然會把閘門長成
+  **忠實度**的形狀 — 有沒有漏 PII、有沒有改到原文、有沒有包好邊界。這些全部通過之後，
+  「這段文字被搬到公開處會造成什麼後果」仍然是一個沒有人問的問題。忠實度閘門越完備，
+  這個缺口越不容易被看見，因為報表全綠。
+- **觸發**：2026-08-14 07:00 cycle。一筆掛在 vi 版新聞自由條目下的回報，內容與該文無關，
+  是一封檢舉信：指控具名私人涉及假結婚與非法工作，附跟監細節，並要求回報者身份保密。
+  `detectSpam` 不中（長、有條理、零連結、語氣正式），`detectInjection` 不中（真的沒有指令），
+  分類器判 `file`，準備開公開 `[Fact Check]` issue 收全文。三道 HARD gate 全會通過：
+  HG2 無 email ✅、HG3 verbatim 一字未改 ✅、HG9 隱形字元剝除加 fence ✅。
+  當班讀完內容後判斷不可開，沒跑 `--commit`。
+  證據：[reports/feedback-third-party-allegation-hold-2026-08-14.md](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)、
+  OBSERVER-QUEUE #28。
+- **為什麼會發生**：這條線的第一性原理寫的是「把讀者自己的原話 verbatim 機械性轉錄成 issue」，
+  等同代讀者填表單。那個類比在回報內容關於文章時完全成立，在回報內容關於**一個沒有出現在
+  對話裡的第三人**時就破了 — 代填表單的前提是填表人有權處分表單內容，而這裡被寫進去的人
+  不是回報者自己。
+- **跟既有 DNA 的關係**：MANIFESTO §自主權邊界已有「敏感素材決定 — AI 準備 blueprint，
+  人類 final call」，REFLEXES #79 的預設姿態也是 reserve。**canonical 有這條原則，
+  這條線上沒有它的執行位置** — 跟 8/13 的 `reflex-exists-but-not-a-step-on-this-line`
+  同族（反射存在不等於每條 routine 上都有對應步驟），差別在那次的後果是漏做，這次是差點做錯。
+  也跟 8/11 `gates-measure-handling-not-solving` 對稱：那次六條閘門全綠而好事沒發生，
+  這次三道閘門全綠而壞事差點發生。
+- **可能層級**：通用反射候選。任何把外部文字搬進公開處的產線都適用 — feedback triage、
+  peer ingestion、素材匯入、孢子引用讀者留言。共同的問題句是：**這段文字裡有沒有一個
+  沒到場的人？**
+- **相關**：REFLEXES #15（memory 是自律，canonical SOP 才是閘門）、REFLEXES #79、
+  LESSONS `reflex-exists-but-not-a-step-on-this-line`（8/13）、`gates-measure-handling-not-solving`（8/11）
+- **修補候選**：見 OBSERVER-QUEUE #28 三選項（(a) 第三人指控偵測走 `hold` ／
+  (b) `triage.mjs --exclude <id>` ／ (c) 靠 handoff 傳遞）。未自行執行：新增品質閘門
+  per BECOME §行動鐵律 10 屬強制 Full mode 的高風險動作，且判準訂寬會靜默擋掉正當勘誤。
+- **verification_count**: 1
+- **severity**: high（後果不可逆且對象是站外的私人）
+
 ### 2026-08-13 twmd-maintainer-am — gate-explains-into-a-dead-channel：閘門診斷對了，但說明送不到能動手的人面前
 
 - **pattern**: `gate-explains-into-a-dead-channel`
@@ -350,8 +386,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **為什麼會發生**：這條線的 hard gate 表（HG12b／HG12c）寫得很完整，寫的是「收官要看這兩行印出什麼」，沒有寫「這兩行在什麼條件下根本不會被印出來」。零輸入是一個沒有人替它寫過分支的狀態。
 - **跟既有反射的關係**：HG12b 誕生時說的是「`archive-scanned=N` 數存在的檔，量不出缺席」（REFLEXES #82 proxy signal）。本條低一層：**這次缺席的候選對象不是紀錄，是核帳這個動作本身**。也跟 REFLEXES #38 混維度同族——`skipped` 跟 `✅` 在收官報表上都不是紅的，兩種根本不同的狀態共用「沒有壞消息」這個外觀。
 - **可能層級**：通用。任何「轉錄 + 保管」雙職責的 routine（feedback triage、harvest 回填、supporters sync）都該問：輸入為零時，我的保管那半邊有沒有跟著被跳過？
-- **修補候選**：(a) FEEDBACK-TRIAGE-PIPELINE Stage 1 明寫「零新回報仍跑 `--commit`」（目前只活在 memory 裡）(b) 讓 `triage.mjs` 在 dry-run 且 `fetched=0` 時主動提示「對賬未執行」，不要只印 `skipped`
-- **verification_count**: 1
+- **instances**：
+  - 2026-08-14 twmd-feedback-triage — 同一結構的第二種入口：**輸入不為零但不能轉錄**。當天唯一一筆 `status=new` 是不可開成公開 issue 的內容（具名第三人指控，見 `transcription-gates-guard-fidelity-not-consequence`），而 `triage.mjs` 沒有單筆排除的參數，於是「不開這個 issue」的唯一走法就是整條 `--commit` 不跑，兩道對賬跟著一起消失。當班改用 canonical 純函式（`mergeComments` / `reconcileArchive` / `reconcileComments`）單獨跑完留言 sync 與兩道對賬（74/74 ✅、73/74 ✅），但那是手動補的，不是流程給的 → [報告](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)
+- **原則更新（2026-08-14）**：轉錄職責與保管職責綁在同一個 `--commit` 開關上，只要轉錄那半因為**任何**理由停手，保管那半就跟著停。零輸入只是其中一種理由。修補方向因此從「零輸入也要跑 `--commit`」擴大成「**讓保管那半有自己的入口**」。
+- **修補候選**：(a) FEEDBACK-TRIAGE-PIPELINE Stage 1 明寫「零新回報仍跑 `--commit`」（目前只活在 memory 裡）(b) 讓 `triage.mjs` 在 dry-run 且 `fetched=0` 時主動提示「對賬未執行」，不要只印 `skipped` (c) **新增（8/14）**：`triage.mjs --exclude <id>`，或把留言 sync + 兩道對賬拆成獨立子指令，讓保管那半不依賴轉錄那半是否跑得動
+- **verification_count**: 2
 - **severity**: medium
 
 ### 2026-08-13 twmd-feedback-triage — reflex-exists-but-not-a-step-on-this-line：REFLEXES #57 在這條 routine 上沒有落地成步驟

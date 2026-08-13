@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-14 | 053739-twmd-routine-sync | 三層對賬第二十一輪，18 條全 in-sync 零漂移，連續第三輪乾淨；開場 git status 已無待處理變更 | 連續零漂移之後，穩定本身開始成為訊號 | [→](memory/2026-08-14-053739-twmd-routine-sync.md) |
 | 2026-08-14 | 061346-twmd-data-refresh-am | 14 步全綠零 stale 連續第三天；文章 892、本週新增 18；fork-census 三子代 sighting 持續在案無新增 | 資料刷新這類 cycle 的價值有時在確認沒有新的洞，不是發現新的洞 | [→](memory/2026-08-14-061346-twmd-data-refresh-am.md) |
 | 2026-08-14 | 064141-twmd-spore-harvest-am | v1.15.0 孢子 D+3：#170 1,328 瀏覽/89 讚零回覆、#171 2.4 萬瀏覽/350 讚回覆增到 4 則但登入牆仍只讀到同一則 Bucket D | X 登入牆缺口要記成「累積到第幾則」，不要逐天各記一筆稀釋成噪音 | [→](memory/2026-08-14-064141-twmd-spore-harvest-am.md) |
+| 2026-08-14 | 071530-twmd-feedback-triage | 唯一一筆新回報是指控具名私人的檢舉信，攔下不開 issue、狀態不動、升 OBSERVER-QUEUE #28；兩道對賬 74/74 與 73/74 改用純函式單獨跑完 | 三道閘門都站在回報者那側，沒有一道站在被寫進文字裡的第三人那側 | [→](memory/2026-08-14-071530-twmd-feedback-triage.md) |
