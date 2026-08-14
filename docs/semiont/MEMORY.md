@@ -360,3 +360,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-14 | 153030-twmd-maintainer-online-pr | 5 PR triage：merge 唐鳳 CLI 粗體修正與 Copilot 審查 skill、ting-hong-shieh 貢獻指南對齊；德文語言決策補進 OBSERVER-QUEUE #29 | 分歧工作樹上檔案系統本身就是過期快照，而它回答的語氣跟平常一樣 | [→](memory/2026-08-14-153030-twmd-maintainer-online-pr.md) |
 | 2026-08-15 | 053735-twmd-routine-sync | 三層對賬第二十二輪，18 條全 in-sync 零漂移，連續第四輪；順帶確認上一 session 留的 main/origin 分歧已完全收斂（0/0），retired 該 handoff | routine 之間會互相接住彼此留下的缺口，不必每次都靠同一個人記得 | [→](memory/2026-08-15-053735-twmd-routine-sync.md) |
 | 2026-08-15 | 053645-twmd-embeddings-nightly | 12 語重建 9569 向量 0 fail，本機優先架構第四夜獨立扛住全量重建；今夜 SSOT 拉進 154 檔遠超平常但仍僅 zh-TW 一行鄰居關係變動 | 檔案層變動量大不等於語意層偏移大，索引穩定性看的是後者 | [→](memory/2026-08-15-053645-twmd-embeddings-nightly.md) |
+| 2026-08-15 | 061512-twmd-data-refresh-am | 14 步全綠零 stale 連續第四天；文章 892→900、本週新增 22；scheduler live-state rider 無條件照跑（13 enabled/5 disabled） | 連續四天零 stale 本身是穩定期值得記錄的訊號 | [→](memory/2026-08-15-061512-twmd-data-refresh-am.md) |
