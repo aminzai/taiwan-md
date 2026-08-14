@@ -46,7 +46,14 @@ staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter
 # Parser/config changes must preserve the CJK-aware GFM contract locally,
 # before CI. Article edits themselves need no special lint: the parser handles
 # valid CJK-adjacent emphasis at render time.
-if echo "$staged_any" | grep -qE '^(astro\.config\.mjs|package(-lock)?\.json|tests/markdown-cjk\.test\.mjs)$'; then
+#
+# 清單必須含「設定檔自己」與所有 marked 呼叫點（2026-08-14 PR #1336 審查補）：
+# 原清單只有 astro.config / package*.json / 測試檔，唯獨漏掉 src/utils/marked-cjk.mjs
+# ——那是這道契約的唯一設定點，改它才最該重跑測試，卻是唯一不會觸發的檔。
+# 守門條款不守自己，是 REFLEXES #82 proxy signal 的一種：守了周邊、沒守本體。
+# renderer 呼叫點一起納入：它們各自實作 renderer.heading 的 tokens→parseInline，
+# 改壞了會讓 `**` 重新印進 <h2>（那正是 #1336 修掉的第二個根因）。
+if echo "$staged_any" | grep -qE '^(astro\.config\.mjs|package(-lock)?\.json|tests/markdown-cjk\.test\.mjs|src/utils/marked-cjk\.mjs|src/utils/article-render\.ts|src/lib/semiont-(diary|newsroom|page|weekly)\.ts)$'; then
   npm run test:markdown || exit 1
 fi
 if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then

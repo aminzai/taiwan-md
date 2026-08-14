@@ -46,6 +46,11 @@ on:
       - 'package.json'
       - 'package-lock.json'
       - 'tests/markdown-cjk.test.mjs'
+      # 設定檔自己與所有 marked 呼叫點也要觸發（2026-08-14 PR #1336 審查補）：
+      # 少了這幾條，改 marked-cjk.mjs 或任何 renderer 的 PR 都不會跑到那道契約測試。
+      - 'src/utils/marked-cjk.mjs'
+      - 'src/utils/article-render.ts'
+      - 'src/lib/semiont-*.ts'
       - '.github/workflows/pr-frontmatter-gate.yml'
 
 permissions:
