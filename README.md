@@ -35,7 +35,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 - 🎭 **Curated, not encyclopedic** — every page answers "why this matters"
 - 📐 **Three-layer depth** — 30-sec overview → 5-min read → full article
 - 🎨 **Literary curatorial style** — Noto Serif TC, essay-driven, inspired by 報導者
-- 🛡️ **14-dimension quality scanner** — automated detection of hollow AI content, list-dumping, quality decay
+- 🛡️ **Article health scanner** — automated detection of hollow AI content, citation gaps, broken links, structural drift, and more
 - 🔍 **SEO optimized** — JSON-LD structured data, Open Graph, per-article OG cards, RSS feeds
 - 💾 **Wikimedia Commons** — CC-licensed images with local caching
 - 📝 **Zero-code contribution** — forms, AI prompts, or email
@@ -138,10 +138,10 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 ## 📚 Sub-Category — 圖書館編目系統
 
-Like a well-organized library, every article in Taiwan.md is classified into a **subcategory** — a second-level taxonomy within each of the 13 main categories. This system is inspired by museum taxonomy and library classification:
+Like a well-organized library, Taiwan.md uses **subcategories** as a second-level taxonomy within its 14 main categories. This system is inspired by museum taxonomy and library classification:
 
-- **86% coverage** — 583 of 680 Chinese articles carry a `subcategory` frontmatter field
-- **~100 subcategories** across 13 categories, following MECE principles (Mutually Exclusive, Collectively Exhaustive)
+- **Required for new zh-TW articles** outside About — the frontmatter gate rejects a missing `subcategory`
+- **Category-specific taxonomy** — canonical values live in `docs/taxonomy/SUBCATEGORY.md`
 - **Reader-oriented** — organized by "what would I want to explore?" rather than academic hierarchy
 - **Machine-readable** — the `subcategory` field powers the knowledge graph clustering and Hub page navigation
 
@@ -251,8 +251,8 @@ bun dev           # 或 npm run dev — 啟動前自動 sync (~16s) → http://l
 
 ```
 taiwan-md/
-├── knowledge/       ← 📖 SSOT — 13 分類中文文章 + en/es/ja 翻譯
-├── src/             ← 🌐 Astro v5 網站（pages, layouts, components, i18n）
+├── knowledge/       ← 📖 SSOT — 14 分類中文文章 + 11 個翻譯語言目錄
+├── src/             ← 🌐 Astro v6 網站（pages, layouts, components, i18n）
 ├── scripts/         ← ⚙️ 腳本（core/tools/utils）→ 詳見 scripts/README.md
 ├── docs/            ← 📚 專案文件（9 子目錄）→ 詳見 docs/README.md
 │   └── semiont/     ← 🧠 語意共生體認知層（MANIFESTO / ANATOMY / DNA / CONSCIOUSNESS）
@@ -266,11 +266,11 @@ taiwan-md/
 └── CODE_OF_CONDUCT / SECURITY  ← 社群規範
 ```
 
-**Tech:** Astro v5 · GitHub Pages · marked.js · D3.js · Google Fonts (Noto Serif TC)  
-**SSOT:** All content lives in `knowledge/`. Website is a projection. `scripts/core/sync.sh` syncs to `src/content/`.  
-**SEO:** JSON-LD · Open Graph · per-article OG cards (`/og/[category]/[slug]`) · Twitter Cards · RSS · `<meta ai-summary>`  
-**i18n:** zh-TW (default SSOT) + en + ja + ko + es + fr + vi + id + pt + hi — 9 languages via translation cascade（codex + 本機 qwen3.6 主權捕手 + free tier；vi/id/pt/hi 2026-07-19 出生）  
-**Quality:** 14-dimension automated scanner + editorial pipeline. See [EDITORIAL.md](./docs/editorial/EDITORIAL.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
+**Tech:** Astro v6 · GitHub Pages · marked.js · D3.js · Google Fonts (Noto Serif TC)<br>
+**SSOT:** All content lives in `knowledge/`. Website is a projection. `scripts/core/sync.sh` syncs to `src/content/`.<br>
+**SEO:** JSON-LD · Open Graph · per-article OG cards (`/og/[category]/[slug]`) · Twitter Cards · RSS · `<meta ai-summary>`<br>
+**i18n:** zh-TW (default SSOT) + en + ja + ko + es + fr + vi + id + pt + hi + ar + ru — 12 languages via the translation cascade<br>
+**Quality:** Automated article-health checks + editorial pipeline. See [EDITORIAL.md](./docs/editorial/EDITORIAL.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
@@ -419,13 +419,13 @@ Every `.md` file in the root directory is an organ of this organism. Together, t
 
 The organism has an automated immune system that detects and fights "hollow AI content" — articles that look polished but carry no real substance:
 
-| Tool                                                        | Function                                                                                                                                                                                                              |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `python3 scripts/tools/article-health.py --all`             | SSOT 健檢入口（11 plugins）— scans articles for plastic phrases, dash abuse, list-dump, quality decay, citation health, wikilink resolution, format structure, image health, terminology, cross-reference reciprocity |
-| `--profile=release-pr`                                      | Strictest profile — fail on warn, all plugins active                                                                                                                                                                  |
-| `--check=prose-health` / `--check=footnote-density` / etc.  | Run a single plugin only. List all: `--list-checks`                                                                                                                                                                   |
-| [EDITORIAL.md §塑膠偵測](./docs/editorial/EDITORIAL.md)     | Human-readable guide to detecting "plastic" writing — five species of hollow sentences that AI loves to generate                                                                                                      |
-| [REWRITE-PIPELINE.md](./docs/editorial/REWRITE-PIPELINE.md) | Four-file orchestration pipeline that prevents quality collapse: Pipeline (flow) → RESEARCH-TEMPLATE (research) → EDITORIAL (writing) → QUALITY-CHECKLIST (verification)                                              |
+| Tool                                                        | Function                                                                                                                                                                                                 |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `python3 scripts/tools/article-health.py --all`             | SSOT 健檢入口 — scans articles for plastic phrases, dash abuse, list-dump, quality decay, citation health, wikilink resolution, format structure, image health, terminology, cross-reference reciprocity |
+| `--profile=release-pr`                                      | Strictest profile — fail on warn, all plugins active                                                                                                                                                     |
+| `--check=prose-health` / `--check=footnote-density` / etc.  | Run a single plugin only. List all: `--list-checks`                                                                                                                                                      |
+| [EDITORIAL.md §塑膠偵測](./docs/editorial/EDITORIAL.md)     | Human-readable guide to detecting "plastic" writing — five species of hollow sentences that AI loves to generate                                                                                         |
+| [REWRITE-PIPELINE.md](./docs/editorial/REWRITE-PIPELINE.md) | Four-file orchestration pipeline that prevents quality collapse: Pipeline (flow) → RESEARCH-TEMPLATE (research) → EDITORIAL (writing) → QUALITY-CHECKLIST (verification)                                 |
 
 ### 🌱 How the Organism Evolves
 
@@ -539,7 +539,7 @@ When someone says "your content is biased," the answer isn't to swing to the opp
 - [x] 🌐 100% i18n coverage (zh-TW + en) + es + ja
 - [x] 📊 GA4 analytics + [live dashboard](https://taiwan.md/dashboard)
 - [x] 🖥️ CLI tool (`npx taiwanmd` — read, search, quiz, RAG, validate)
-- [x] 🛡️ 14-dimension quality scanner (v3.0)
+- [x] 🛡️ Automated article health scanner
 - [x] 🏭 Spore factory — social card generation pipeline
 - [ ] 🗺️ Interactive Taiwan map (TopoJSON, multi-layer)
 - [ ] 📅 Taiwan 400-year history timeline

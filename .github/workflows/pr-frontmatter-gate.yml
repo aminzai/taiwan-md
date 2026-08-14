@@ -38,6 +38,7 @@ on:
     types: [opened, synchronize, reopened]
     branches: [main]
     paths:
+      - 'CONTRIBUTING.md'
       - 'knowledge/**'
       - 'scripts/core/test-frontmatter.mjs'
       - 'scripts/tools/article-health.py'
@@ -51,6 +52,7 @@ on:
       - 'src/utils/marked-cjk.mjs'
       - 'src/utils/article-render.ts'
       - 'src/lib/semiont-*.ts'
+      - 'tests/contributor-frontmatter-template.test.mjs'
       - '.github/workflows/pr-frontmatter-gate.yml'
 
 permissions:
@@ -81,6 +83,9 @@ jobs:
         run: npm ci --prefer-offline --no-audit
       - name: Verify CJK Markdown parser contract
         run: npm run test:markdown
+
+      - name: Validate contributor frontmatter template
+        run: node --test tests/contributor-frontmatter-template.test.mjs
 
       # article-health.py 是純 stdlib，不需 pip install；ubuntu-latest 內建 python3
 

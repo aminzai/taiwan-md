@@ -18,41 +18,43 @@ scripts/
 
 ## 🔴 core/ — Build Pipeline（npm run build 自動觸發）
 
-| 腳本                          | 語言 | 用途                                                          |
-| ----------------------------- | ---- | ------------------------------------------------------------- |
-| `sync.sh`                     | bash | 同步 knowledge/ → src/content/（SSOT 複製）                   |
-| `generate-api.js`             | node | 產生 `public/api/*.json`（文章列表、搜尋索引）                |
-| `generate-dashboard-data.js`  | node | 產生 Dashboard 4 支 JSON API                                  |
-| `generate-map-markers.js`     | node | 產生地圖標記資料                                              |
-| `generate-content-stats.js`\* | node | 被 generate-api 呼叫，統計各分類文章數                        |
-| `build-search-index.mjs`      | node | 建構全文搜尋索引                                              |
-| `post-build-check.mjs`        | node | Build 後煙霧測試（驗證頁面數量、分類健康）                    |
-| `test-frontmatter.mjs`        | node | Pre-commit hook：驗證 frontmatter 格式                        |
-| `generate-og-images.mjs`      | node | **自動化 OG 圖產生器 v3** — 支援多語系、增量生成、JPG 85 壓縮 |
+| 腳本                         | 語言 | 用途                                                          |
+| ---------------------------- | ---- | ------------------------------------------------------------- |
+| `sync.sh`                    | bash | 同步 knowledge/ → src/content/（SSOT 複製）                   |
+| `generate-api.js`            | node | 產生 `public/api/*.json`（文章列表、搜尋索引）                |
+| `generate-dashboard-data.js` | node | 產生 Dashboard 4 支 JSON API                                  |
+| `generate-map-markers.js`    | node | 產生地圖標記資料                                              |
+| `build-search-index.mjs`     | node | 建構全文搜尋索引                                              |
+| `post-build-check.mjs`       | node | Build 後煙霧測試（驗證頁面數量、分類健康）                    |
+| `test-frontmatter.mjs`       | node | Pre-commit hook：驗證 frontmatter 格式                        |
+| `generate-og-images.mjs`     | node | **自動化 OG 圖產生器 v3** — 支援多語系、增量生成、JPG 85 壓縮 |
 
 **執行順序**：`sync.sh` → `generate-*.js` → `generate-og-images.mjs` → Astro build → `post-build-check.mjs`
 
 ## 🟡 tools/ — 日常操作
 
-| 腳本                     | 語言 | 用途                                                                                                                                                 |
-| ------------------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `article-health.py`      | py   | **SSOT 11 plugin 健檢入口** — prose-health / footnote-density / format-structure / wikilink-target / image-health / terminology / cross-reference 等 |
-| `review-pr.sh`           | bash | PR 自動初審（frontmatter + 品質 + 安全 4 層檢查）                                                                                                    |
-| `rewrite-pipeline.sh`    | bash | 文章改寫流程輔助（Stage 1-5 互動引導）                                                                                                               |
-| `translate.sh`           | bash | 翻譯文章（呼叫 AI + 品質驗證）                                                                                                                       |
-| `update-stats.sh`        | bash | 更新 README 統計數字（文章數/語言覆蓋等）                                                                                                            |
-| `manage-featured.sh`     | bash | 管理 featured 文章標記                                                                                                                               |
-| `assign-subcategory.cjs` | node | 批次指派子分類（讀 taxonomy → 寫 frontmatter）                                                                                                       |
-| `check-freshness.js`     | node | 檢查文章新鮮度（lastVerified 過期預警）                                                                                                              |
+| 腳本                        | 語言 | 用途                                                                                                                                       |
+| --------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `article-health.py`         | py   | **SSOT 健檢入口** — prose-health / footnote-density / format-structure / wikilink-target / image-health / terminology / cross-reference 等 |
+| `review-pr.sh`              | bash | PR 自動初審（frontmatter + 品質 + 安全 4 層檢查）                                                                                          |
+| `rewrite-pipeline.sh`       | bash | 文章改寫流程輔助（Stage 1-5 互動引導）                                                                                                     |
+| `translate.sh`              | bash | 翻譯文章（呼叫 AI + 品質驗證）                                                                                                             |
+| `update-stats.sh`           | bash | 更新 README 統計數字（文章數/語言覆蓋等）                                                                                                  |
+| `manage-featured.sh`        | bash | 管理 featured 文章標記                                                                                                                     |
+| `assign-subcategory.cjs`    | node | 批次指派子分類（讀 taxonomy → 寫 frontmatter）                                                                                             |
+| `check-freshness.js`        | node | 檢查文章新鮮度（lastVerified 過期預警）                                                                                                    |
+| `generate-content-stats.js` | node | 統計各分類文章數並產生 `src/data/content-stats.json`                                                                                       |
 
 **常用指令**：
 
 ```bash
-python3 scripts/tools/article-health.py --all                            # 全量掃描（11 plugin）
+python3 scripts/tools/article-health.py --all                            # 全量掃描
 python3 scripts/tools/article-health.py knowledge/Art/X.md               # 單檔掃描
 python3 scripts/tools/article-health.py knowledge/Art/X.md --check=prose-health  # 單一 plugin
 python3 scripts/tools/article-health.py --all --profile=release-pr       # release strict mode
 bash scripts/tools/review-pr.sh 123                                      # 審核 PR #123
+python3 -m pip install -r requirements-test.txt                          # 首次安裝測試依賴
+python3 -m pytest tests -q                                               # 完整 Python 測試
 
 # --- OG Image 相關 (v3 統一架構) ---
 npm run og:generate                                   # 增量產圖 (JPG 85, ?shot=1 模式)
@@ -101,4 +103,4 @@ npm run og:generate -- --lang ko --category food      # 產出韓文食物系列
 
 ---
 
-_最後更新：2026-04-23 (v3 OG 自動化)_
+_最後更新：2026-08-13_

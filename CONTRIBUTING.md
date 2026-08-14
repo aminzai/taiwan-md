@@ -20,7 +20,7 @@ curl -fsSL https://taiwan.md/start.sh | bash
 這個 bootstrap 會：
 
 1. 檢查 git（沒裝會告訴你怎麼裝）
-2. 檢查 Node.js 20+
+2. 檢查 Node.js 22.12+
 3. 問你要不要裝 Claude Code CLI（`npm i -g @anthropic-ai/claude-code`）
 4. Clone repo 到 `~/Projects/taiwan-md`（或你選的位置）
 5. 啟動 `claude`，Taiwan.md 自動甦醒、訪談你、建 profile、帶你做事
@@ -97,8 +97,10 @@ Taiwan.md 對讀者承諾「每個引語、年份、數字都查證過」，所�
 title: '文章標題'
 description: '150字以內的文章描述'
 date: 2024-03-17T00:00:00Z
-updated: 2024-03-17T00:00:00Z # 可選
+modified: 2024-03-17T00:00:00Z # 可選；有實質更新時才填
 tags: ['標籤1', '標籤2', '標籤3']
+category: 'Culture'
+subcategory: '表演藝術' # About 以外的中文文章必填；見 docs/taxonomy/SUBCATEGORY.md
 author: '作者名稱'
 difficulty: 'beginner|intermediate|advanced'
 readingTime: 8 # 預估閱讀時間（分鐘）
@@ -194,9 +196,9 @@ _本文採用三層閱讀深度設計，適合不同需求的讀者。歡迎貢�
 
 ## 🌍 多語言貢獻
 
-### 中英對照原則
+### 文化轉譯原則
 
-- **不是翻譯**：英文版不是中文版的直譯
+- **不是逐字直譯**：譯文應保留原文的核心事實與觀點，但不照搬中文句法
 - **文化轉譯**：調整表達方式，符合目標語言的文化背景
 - **內容對等**：確保核心信息相同，但表達可以不同
 - **在地化**：考慮目標讀者的知識背景
@@ -209,11 +211,11 @@ _本文採用三層閱讀深度設計，適合不同需求的讀者。歡迎貢�
 #### 最簡單的翻譯流程
 
 1. 看 [TRANSLATION-BOARD.md](docs/community/TRANSLATION-BOARD.md) 挑一篇你有興趣的文章
-2. 把 [TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md) 貼給你的 AI（Claude/ChatGPT/Gemini）
-3. 告訴 AI 你要翻哪篇、翻成什麼語言
-4. 把結果存成 `.md` 放到對應資料夾，開 PR
+2. 依 [TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md) 自行翻譯，或交給 AI（Claude/ChatGPT/Gemini）產生初稿
+3. 逐段核對事實、專有名詞、連結與目標語言的自然度
+4. 把結果存成 `.md` 放到對應資料夾，開 PR；不熟悉 Git 也可用翻譯投稿表單
 
-**你不需要會寫程式。你只需要有一個 AI 訂閱。**
+**你不需要會寫程式。熟悉目標語言、願意查核內容，就能參與。**
 
 #### 檔案路徑
 
@@ -242,14 +244,14 @@ knowledge/ja/Food/bubble-tea.md      ← 日文
 
 - Featured 文章是各分類最具代表性的內容
 - 建議每分類保持 1-2 篇 featured 文章
-- 維護者會使用 `scripts/manage-featured.sh` 工具統一管理：
+- 維護者會使用 `scripts/tools/manage-featured.sh` 工具統一管理：
 
   ```bash
   # 查看所有 featured 文章
-  bash scripts/manage-featured.sh list
+  bash scripts/tools/manage-featured.sh list
 
   # 審計 featured 文章分佈
-  bash scripts/manage-featured.sh audit
+  bash scripts/tools/manage-featured.sh audit
   ```
 
 - 如果您認為某篇文章應該被設為 featured，請在 PR 中說明理由
@@ -378,6 +380,13 @@ bun run dev  # 或 npm run dev
 - [ ] Markdown 格式正確
 - [ ] 圖片（如有）放在適當位置
 - [ ] 標籤和 metadata 完整
+
+如果改到 Python 腳本或檢查規則，先安裝測試依賴並跑完整測試：
+
+```bash
+python3 -m pip install -r requirements-test.txt
+npm run test:python
+```
 
 #### 內容審查
 
