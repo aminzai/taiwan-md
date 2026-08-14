@@ -362,3 +362,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-15 | 053645-twmd-embeddings-nightly | 12 語重建 9569 向量 0 fail，本機優先架構第四夜獨立扛住全量重建；今夜 SSOT 拉進 154 檔遠超平常但仍僅 zh-TW 一行鄰居關係變動 | 檔案層變動量大不等於語意層偏移大，索引穩定性看的是後者 | [→](memory/2026-08-15-053645-twmd-embeddings-nightly.md) |
 | 2026-08-15 | 061512-twmd-data-refresh-am | 14 步全綠零 stale 連續第四天；文章 892→900、本週新增 22；scheduler live-state rider 無條件照跑（13 enabled/5 disabled） | 連續四天零 stale 本身是穩定期值得記錄的訊號 | [→](memory/2026-08-15-061512-twmd-data-refresh-am.md) |
 | 2026-08-15 | 064046-twmd-spore-harvest-am | v1.15.0 孢子 D+4：#170 1,332 瀏覽/89 讚零回覆、#171 2.4 萬瀏覽/351 讚仍是同一則 Bucket D；X 登入牆缺口首次收斂成「連續第四天」單一 handoff | 昨天寫的教訓今天照做：離散的每日快照該被改寫成一條累積的線 | [→](memory/2026-08-15-064046-twmd-spore-harvest-am.md) |
+| 2026-08-15 | 071908-twmd-feedback-triage | 昨天攔下的第三人指控信原樣再來一次，第二次攔下不開 issue；ship `--exclude <id>`（HG13 三層同步）讓兩道對賬 74/74、73/74 回到流程裡不用手工補 | 處置正確但沒留下會自己啟動的東西，等於把防線寄放在下一個 session 的細心 | [→](memory/2026-08-15-071908-twmd-feedback-triage.md) |
