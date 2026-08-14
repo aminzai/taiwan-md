@@ -3421,6 +3421,24 @@
     "path": "Technology/半導體產業.md"
   },
   {
+    "title": "叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現",
+    "description": "1947 年，新竹芎林的范揚開在放學後背著約 2.5 公斤的冰桶賣冰。1950 至 1970 年代，腳踏車小販用一枚橡膠球喇叭把冰送進巷子。從港口製冰、澱粉口感到孩子承擔的融冰風險，叭噗保存的不是三色外觀，而是一種靠聲音、器物與勞動讓食物遇見人的方法。",
+    "category": "Food",
+    "tags": [
+      "叭噗",
+      "冰淇淋",
+      "台灣飲食",
+      "街頭文化",
+      "製冰業",
+      "地方記憶"
+    ],
+    "url": "https://taiwan.md/food/%E5%8F%AD%E5%99%97%E5%86%B0",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "Food/叭噗冰.md"
+  },
+  {
     "title": "可視化モジュールカタログ：台湾のデータを見る19の方法",
     "description": "Taiwan.mdの記事可視化モジュールの実例集——実際の台湾の居住、人口、医療、国会データを用いて、各種tw-*可視化モジュールを一度ずつレンダリングし、graph.mdの構文と設計原則と合わせてご覧いただけます。",
     "category": "ja",
@@ -13467,6 +13485,17 @@
     "path": "ja/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
   },
   {
+    "title": "沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐",
+    "description": "成立於 2013 年的沃草（Watchout）是台灣公民科技與獨立媒體的先驅。從太陽花學運的資訊傳播、公民學院的思辨教育，到與國際 NGO 合作發布民防指南，沃草如何透過數位工具守護台灣民主？",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/society/%E6%B2%83%E8%8D%89",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "Society/沃草.md"
+  },
+  {
     "title": "沈文程：從清泉崗修機員到雙金歌王",
     "description": "沈文程，台灣跨足音樂與主持的雙金藝人。從越戰末期的飛機維修員到紅遍全台的《心事誰人知》，他以真誠與幽默在金曲與金鐘獎項上刻下姓名。",
     "category": "People",
@@ -13666,6 +13695,23 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "ja/Food/wheel-cakes-imagawayaki.md"
+  },
+  {
+    "title": "防空避難：一張地圖裡，台灣還沒回答的問題",
+    "description": "2025年春天，內政部說台灣已有8萬2千多處防空避難處所；台北市的地下停車場、捷運與商場，則在警報響起時變成另一張城市地圖。問題不只是容量夠不夠，而是高樓居民、老人、兒童與行動不便者，能否在三分鐘內找到一條真的走得通、進得去、留得下來的路。",
+    "category": "Society",
+    "tags": [
+      "防空避難",
+      "民防",
+      "社會韌性",
+      "都市治理",
+      "全社會防衛韌性"
+    ],
+    "url": "https://taiwan.md/society/%E9%98%B2%E7%A9%BA%E9%81%BF%E9%9B%A3",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "Society/防空避難.md"
   },
   {
     "title": "兩廳院：從威權符號到全民藝文殿堂的轉型之路",
@@ -14488,6 +14534,17 @@
     "featured": false,
     "date": "2026-07-10",
     "path": "People/林昶佐.md"
+  },
+  {
+    "title": "林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣",
+    "description": "2024年8月11日，巴黎羅蘭蓋洛斯球場上，林郁婷以壓倒性姿態摘下台灣奧運史上首面拳擊金牌。從鶯歌國中的地下拳館出發，她歷經東京奧運挫敗、四強賽對手的「X」手勢挑釁、國際政治博弈與全球跨國網路霸凌。本文深度解構其「魔法師」哲學、長年陪練員李承威的幕後貢獻、技術演變、性別科學、文化大學教職、社會凝聚力與拳擊四后的革命情感，並收錄 2026 年 World Boxing 正式認可其參賽資格的最新史詩進展。",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/people/%E6%9E%97%E9%83%81%E5%A9%B7",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "People/林郁婷.md"
   },
   {
     "title": "林書豪：15日間に2回解雇されてからTPBLダブルMVPで引退するまでのバスケットボール人生",
@@ -19718,6 +19775,24 @@
     "path": "People/幾米.md"
   },
   {
+    "title": "掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史",
+    "description": "從雲林虎尾街頭的傳統布袋戲班，到電視螢幕上萬人空巷的《雲州大儒俠》，再到現代特效與數位偶戲的跨界重生，黃海岱家族如何用一雙巧手撐起台灣數十年的庶民娛樂與文化記憶？",
+    "category": "Culture",
+    "tags": [
+      "布袋戲",
+      "黃海岱",
+      "雲州大儒俠",
+      "素還真",
+      "台灣文化",
+      "傳統藝術"
+    ],
+    "url": "https://taiwan.md/culture/%E9%9B%BB%E8%A6%96%E5%B8%83%E8%A2%8B%E6%88%B2",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "Culture/電視布袋戲.md"
+  },
+  {
     "title": "曾博恩：笑いどころは計算できても、社会は読み切れません",
     "description": "1990 年生まれの曾博恩は、建国中学の机と椅子の上で聴いたイヤホンから、台湾大学での外文・心理の二専攻、ロンドン大学の脳と心の科学、パリ第六大学の統合生物学修士を経て、博士課程出願の直前にスタンドアップコメディへ転身しました。謝政豪と薩泰爾娛樂を共同創業し、台湾のトークショーをカミディの Open Mic から 1 万 3 千人の台北アリーナ（小巨蛋）へ押し上げましたが、同じ神経科学者の精密さで、鄭南榕ネタ、配達員動画、娯楽税訴訟における社会感情の重さを読み誤りました。",
     "category": "ja",
@@ -19931,6 +20006,23 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "ja/Geography/houtong-cat-village.md"
+  },
+  {
+    "title": "痞客邦：一個平台如何把台灣人的日常保存成公共記憶",
+    "description": "從交大校園相簿到台灣生活內容平台，痞客邦如何在創作者自由、商業化、社群治理與數位記憶保存之間持續協商？",
+    "category": "Culture",
+    "tags": [
+      "痞客邦",
+      "PIXNET",
+      "部落格",
+      "網路文化",
+      "數位記憶"
+    ],
+    "url": "https://taiwan.md/culture/%E7%97%9E%E5%AE%A2%E9%82%A6",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "Culture/痞客邦.md"
   },
   {
     "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
@@ -20744,6 +20836,24 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "Technology/傳奇網路與台灣線上遊戲出海.md"
+  },
+  {
+    "title": "圓山大飯店：紅色宮殿裡的祕密隧道與權力交替",
+    "description": "從日治神社遺址到蔣宋美齡的國賓館，圓山大飯店不僅是台灣最具代表性的宮殿建築，更在祕密隧道與紅牆之間，見證了從威權巔峰到民主組黨的荒謬與傳奇。",
+    "category": "History",
+    "tags": [
+      "建築",
+      "蔣宋美齡",
+      "民主進步黨",
+      "地標",
+      "冷戰",
+      "楊卓成"
+    ],
+    "url": "https://taiwan.md/history/%E5%9C%93%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "History/圓山大飯店.md"
   },
   {
     "title": "媽祖與大道公的愛情傳說：台灣最浪漫的氣象預報",
@@ -22924,6 +23034,23 @@
     "featured": false,
     "date": "2026-08-05",
     "path": "Economy/Shopee.md"
+  },
+  {
+    "title": "衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場",
+    "description": "1992 年，民間運動把高雄衛武營從軍事用地的未來拉回公共討論；2018 年 10 月 13 日，歷經 15 年、107.5 億元的工程開幕。四個廳院藏在榕樹般的屋頂下，但這座建築真正要回答的，是藝術能不能在沒有買票以前先成為城市日常。",
+    "category": "Art",
+    "tags": [
+      "衛武營",
+      "高雄",
+      "建築",
+      "表演藝術",
+      "文化平權"
+    ],
+    "url": "https://taiwan.md/art/%E8%A1%9B%E6%AD%A6%E7%87%9F",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-08-14",
+    "path": "Art/衛武營.md"
   },
   {
     "title": "複雜生活節：兩個醫學生的「未成功者論壇」，和一個世代不肯說自己夠好的五年",
@@ -50815,7 +50942,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/taiwan-scooter-culture",
-    "readingTime": 63,
+    "readingTime": 64,
     "featured": true,
     "date": "2026-03-25",
     "path": "es/Lifestyle/taiwan-scooter-culture.md"

@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-14 06:13
+last_generated: 2026-08-15 06:12
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-14 06:13** · 頂層 \*.md 共 **264** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-15 06:12** · 頂層 \*.md 共 **265** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -37,7 +37,7 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 129.4 KB | —                                                    |
+| `404-monitor/`          |     2 | 119.6 KB | —                                                    |
 | `fork-census/`          |     2 | 37.8 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `newsroom/`             |     2 | 94.5 KB  | —                                                    |
@@ -233,8 +233,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (108)
+### ops (109)
 
+- `2026-08-14` [feedback-third-party-allegation-hold-2026-08-14](feedback-third-party-allegation-hold-2026-08-14.md) — 讀者回報裡的第三人指控：一則不能開成 public issue 的回報
 - `2026-08-10` [routine-mouhouse-health-2026-08-10](routine-mouhouse-health-2026-08-10.md)
 - `2026-08-06` [design-文體類型學升級-2026-08-06](design-文體類型學升級-2026-08-06.md) — 文體類型學升級設計報告 — 從三型到「畫布 × 文體族 × 正交模組」三層架構
 - `2026-08-05` [seo-meta-multilang-baseline-2026-08-05](seo-meta-multilang-baseline-2026-08-05.md) — seo-meta 多語言門檻校準的第一份實測底線
@@ -352,9 +353,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-08 (15 files)
+### 2026-08 (16 files)
 
-- Type breakdown: ops: 7 / evolution: 3 / audit-routine: 2 / audit: 2 / analysis: 1
+- Type breakdown: ops: 8 / evolution: 3 / audit-routine: 2 / audit: 2 / analysis: 1
+  - `2026-08-14` [feedback-third-party-allegation-hold-2026-08-14](feedback-third-party-allegation-hold-2026-08-14.md)
   - `2026-08-10` [routine-mouhouse-health-2026-08-10](routine-mouhouse-health-2026-08-10.md)
   - `2026-08-09` [evolution-roadmap-2026-08-09](evolution-roadmap-2026-08-09.md)
   - `2026-08-09` [routine-audit-2026-08-09](routine-audit-2026-08-09.md)

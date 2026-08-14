@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9679,
+  "totalArticles": 9687,
   "totalCategories": 26,
-  "estimatedContributors": 69,
-  "totalTags": 6129,
+  "estimatedContributors": 71,
+  "totalTags": 6148,
   "categories": [
     {
       "name": "es",
@@ -42,7 +42,7 @@
     },
     {
       "name": "History",
-      "count": 52
+      "count": 53
     },
     {
       "name": "id",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Society",
-      "count": 95
+      "count": 97
     },
     {
       "name": "pt",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Food",
-      "count": 69
+      "count": 70
     },
     {
       "name": "About",
@@ -74,11 +74,11 @@
     },
     {
       "name": "Culture",
-      "count": 73
+      "count": 75
     },
     {
       "name": "People",
-      "count": 240
+      "count": 241
     },
     {
       "name": "Music",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Art",
-      "count": 43
+      "count": 44
     },
     {
       "name": "resources",
@@ -163,6 +163,10 @@
       "count": 23
     },
     {
+      "name": "高雄",
+      "count": 23
+    },
+    {
       "name": "客家",
       "count": 23
     },
@@ -183,22 +187,32 @@
       "count": 22
     },
     {
-      "name": "高雄",
-      "count": 22
-    },
-    {
       "name": "台南",
       "count": 21
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9679,
+    "zh-TW": 9687,
     "en": 0
   },
-  "lastUpdated": "2026-08-13T22:12:41.745Z",
-  "stars": 1141,
-  "forks": 171,
-  "zhPages": 892,
+  "lastUpdated": "2026-08-14T22:12:28.666Z",
+  "stars": 1145,
+  "forks": 172,
+  "zhPages": 900,
+  "languagePages": {
+    "zh-TW": 900,
+    "en": 883,
+    "ja": 872,
+    "ko": 885,
+    "es": 883,
+    "fr": 882,
+    "vi": 799,
+    "id": 572,
+    "pt": 836,
+    "hi": 656,
+    "ar": 740,
+    "ru": 777
+  },
   "enPages": 883,
-  "totalPages": 892
+  "totalPages": 900
 }
