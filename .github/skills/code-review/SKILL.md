@@ -63,7 +63,7 @@ description: Taiwan.md 的 PR 審查規則。審 taiwan-md 的 pull request 時�
 
 全站有 14 處字面星號是**刻意**的，分兩類：
 
-- 塗銷書名：`Memoirs of ****`（11 語都有）
+- 塗銷書名：`Memoirs of \*\*\*\*`（多語版都有）
 - 審查過的粗話：`F**k`、`f*** …`、`F*** you`、`« **** ta mère »`
 
 （本節刻意不用粗體包住含星號的 code span——那個寫法會讓 prettier 的
