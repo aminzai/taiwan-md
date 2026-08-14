@@ -91,7 +91,7 @@ Le 30 octobre 2013, _Above the Clouds_ est projeté en avant-première en plein 
 
 Le 1er novembre, le film sort en salles. Personne ne s'attend à ce qui suit.
 
-Le premier week-end : 11 millions de NT$, un record pour un documentaire taïwanais. Dix jours plus tard : 35 millions, dépassant _The Old Boys Cycling Round Taiwan_ comme documentaire le plus rentable de l'histoire du pays. Vingt-neuf jours après la sortie, le cap des 100 millions est franchi — troisième film taïwanais à y parvenir en 2013. Le 5 janvier 2014, après soixante-six jours d'exploitation, le compteur dépasse 200 millions. Au total : **220 millions de NT$\*\*.
+Le premier week-end : 11 millions de NT$, un record pour un documentaire taïwanais. Dix jours plus tard : 35 millions, dépassant _The Old Boys Cycling Round Taiwan_ comme documentaire le plus rentable de l'histoire du pays. Vingt-neuf jours après la sortie, le cap des 100 millions est franchi — troisième film taïwanais à y parvenir en 2013. Le 5 janvier 2014, après soixante-six jours d'exploitation, le compteur dépasse 200 millions. Au total : **220 millions de NT\$**.
 
 Sorti à Singapour en 2014, il devient le documentaire en langue chinoise le plus rentable de l'histoire cinématographique de la cité-État. Au Japon, il est distribué sous le titre _天空からの招待状_ (_Une invitation venue du ciel_).
 

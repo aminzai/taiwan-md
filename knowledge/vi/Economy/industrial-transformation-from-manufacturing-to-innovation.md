@@ -72,7 +72,7 @@ Ngày 15 tháng 12 năm 1980, Khu khoa học công nghệ Kiểm Trì chính th�
 
 Lịch sử xây dựng nền tảng ngành bán dẫn có thể truy vết về năm 1973 khi Ban Nghiên cứu Điện tử IER được thành lập, năm 1976 nhận bản quyền công nghệ bán dẫn RCA và gửi 19 kỹ sư đào tạo tại Mỹ (bao gồm Cao Hùng Chí, Thị Văn Tài...), những người này trở thành nhân tài kỹ thuật cho các công ty như Công ty Điện tử Hữu hạn (1980), TSMC (1987), và Công ty Thế giới Tiên tiến[^6]. Trong vòng 14 năm, Đài Loan đã xây dựng từ con số không đến chuỗi cung ứng hoàn chỉnh của ngành bán dẫn, và năm 2024 thị phần toàn cầu của TSMC trong ngành chế tạo bán dẫn đạt hơn 60%[^7], là nguồn gốc của danh xưng "Núi Bảo vệ Quốc gia".
 
-### Giai đoạn thứ tư: Thời kỳ nền kinh tế kiến thức (2000 đến nay)\*\*
+### Giai đoạn thứ tư: Thời kỳ nền kinh tế kiến thức (2000 đến nay)
 
 Đài Loan chuyển sang công nghiệp dựa trên kiến thức và hướng tới công nghệ. Ngành bán dẫn chiếm vị trí đầu bảng xuất khẩu toàn cầu, máy móc tinh tế từ thiết bị chuyên dụng đến thiết bị tự động hóa toàn nhà, công nghiệp sinh học y tế tiếp tục phát triển trong lĩnh vực dược phẩm và thiết bị y tế, trong khi công nghệ xanh lại xây dựng chuỗi cung ứng tiềm năng trong lĩnh vực năng lượng mặt trời và gió.
 
@@ -86,17 +86,17 @@ Vào thập niên 1960-1990, bốn con rắn châu Á (Đài Loan, Hàn Quốc, 
 
 ## Các thách thức chính trong chuyển đổi
 
-### Khó khăn của đường cong cười\*\*
+### Khó khăn của đường cong cười
 
 Người sáng lập của công ty Acer Hàn Quốc, Hồng Quốc Dũng (施振榮), năm 1992 đề xuất "đường cong cười" (Smile Curve) mô tả đúng thực của chuỗi giá trị sản xuất: hai đầu của đường cong (đầu trái "nghiên cứu thiết kế", đầu phải "thương hiệu kênh bán lẻ") có giá trị gia tăng cao, phần giữa "sản xuất" có giá trị gia tăng thấp nhất[^8]. Ngành điện tử của Đài Loan lâu nay tập trung vào phần giữa của đường cong, làm nhà thực hiện bán dẫn hàng đầu thế giới nhưng lợi nhuận giới hạn chỉ trong khoảng 3-5%. Dù năm 1990, doanh thu ngành PC của Đài Loan vượt 1 tỷ USD, lợi nhuận hầu hết chảy về các công ty trên một tay như Intel, Microsoft và các công ty dưới một tay như Dell, HP, doanh nghiệp địa phương chỉ thực sự giữ lại lợi nhuận hạn chế.
 
 Để vượt qua đường cong cười, có hai con đường: đi lên trên cao hướng nghiên cứu phát triển (như thiết bị hàn in micro EUV của ASML, công nghệ tiên tiến của TSMC), hoặc đi xuống dưới hướng thương hiệu (như hệ sinh thái iPhone của Apple), cả hai đều cần 10-20 năm tích lũy, đây là thách thức cốt lõi của sự nâng cấp công nghiệp của Đài Loan kể từ thập niên 1990. TSMC chọn đi hướng trái (nghiên cứu công nghệ tiên tiến), còn các công ty như HP, điện thoại di động chọn đi hướng phải (thương hiệu riêng), nhưng chỉ có số ít doanh nghiệp của Đài Loan thành công khi vượt qua phần giữa của đường cong, hầu hết các doanh nghiệp truyền thống vẫn đang tìm kiếm con đường chuyển đổi số tại đáy của đường cong.
 
-### Khó khăn của công nghiệp truyền thống\*\*
+### Khó khăn của công nghiệp truyền thống
 
 Công nghiệp truyền thống của Đài Loan đang gặp nhiều thách thức. Áp lực chi phí đến từ giá đất, lao động và năng lượng tăng cao, luật môi trường ngày càng nghiêm ngặt, cộng thêm việc đồng tiền TWD tăng giá làm giảm sức cạnh tranh xuất khẩu. Sự chênh lệch kỹ thuật phản ánh bởi đầu tư vào nghiên cứu và phát triển không đủ, thiếu các công nghệ cốt lõi, sản phẩm có giá trị gia tăng thấp. Trên phía thị trường, do nhu cầu ngày càng đa dạng và vòng sống sản phẩm ngắn, cùng với nhu cầu tùy chỉnh tăng lên, buộc các công ty phải điều chỉnh linh hoạt quy trình sản xuất.
 
-### Thách thức về cấu trúc nhân lực\*\*
+### Thách thức về cấu trúc nhân lực
 
 Chuyển đổi công nghiệp cần đi kèm với sự điều chỉnh cấu trúc nhân lực đồng thời. Các điểm nghẽn chính hiện tại là sự chênh lệch giữa kỹ năng truyền thống và nhu cầu của các ngành mới, thế hệ trẻ không muốn đầu tư vào công nghiệp sản xuất, cùng áp lực cạnh tranh toàn cầu trong bối cảnh vụ đua thu hút nhân tài.
 
@@ -206,11 +206,11 @@ Về phía đổi mới, chính phủ hướng tới tăng tỷ trọng đầu t
 
 Từ nhà máy bán dẫn sang nhà máy hàng đầu toàn cầu, TSMC sở hữu công nghệ tiên tiến nhất thế giới, có khách hàng danh giá như Apple và NVIDIA, đồng thời tạo hiệu ứng tập trung của toàn bộ chuỗi cung ứng bán dẫn của Đài Loan. Được thành lập năm 1987 bởi Hồng Quốc Dũng, TSMC đã trở thành giai đoạn không thể thay thế của sản xuất bán dẫn toàn cầu.
 
-### Hành trình thương hiệu của Giant\*\*
+### Hành trình thương hiệu của Giant
 
 Giant (Công ty Cơ khí Giant) do Hồng Kim Đức (Liu Jin-Tian) thành lập tại Khu vực Kiểm Trì năm 1972, ban đầu chuyên cung cấp dịch vụ sản xuất xe đạp cho các thương hiệu nước ngoài như Schwinn. Khi Schwinn chuyển đơn sang khu vực biên giới phía đông năm 1980, Hồng Kim Đức quyết định tự khai thác thương hiệu "Giant" để xuất khẩu sang châu Âu, mở đầu tại Hà Lan năm 1986, vào Trung Quốc năm 1992. Năm 2024, doanh thu toàn cầu của Giant xuất khẩu xe đạp đạt hơn 6 triệu chiếc, trở thành một trong những thương hiệu xe đạp hàng đầu thế giới, là ví dụ tiêu biểu của việc chuyển đổi từ sản xuất thay thế sang quản lý thương hiệu. Sản phẩm của Giant bao gồm khung xe carbon, xe hỗ trợ điện, và mạng lưới sản xuất và xuất khẩu toàn cầu liên tục mở rộng.
 
-### "Vua chip" của MediaTek\*\*
+### "Vua chip" của MediaTek
 
 MediaTek được thành lập riêng rẽ từ Công ty Điện tử Hữu hạn năm 1997, ban đầu chuyên cung cấp chip lưu trữ quang nâng cấp DVD, và chuyển sang thị trường chip điện thoại di động năm 2003[^10]. Phương pháp giải pháp "Turn-key Solution" (một giải pháp toàn diện) của MediaTek cho phép các công ty sản xuất điện thoại giá rẻ tại Trung Quốc nhanh chóng sản xuất, đóng vai trò xác định vị thế hàng đầu thế giới về chip điện thoại giá rẻ vào thập niên 2010; và năm 2019 ra mắt series chip 5G cao cấp Dimensity, cạnh tranh trực tiếp với Qualcomm trên thị trường SoC cao cấp. Năm 2024, thị phần toàn cầu của MediaTek trong ngành chip điện thoại di động đạt hơn 30%, trở thành doanh nghiệp bán dẫn fabless tiêu biểu của Đài Loan, đồng thời là minh chứng cho kết quả cụ thể của việc xác định vị thế thị trường cao cấp và đầu tư rất lớn vào nghiên cứu và phát triển.
 

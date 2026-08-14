@@ -35,7 +35,7 @@ translatedAt: '2026-07-26T22:20:02+08:00'
 
 Khi các quốc gia khác tập trung vào việc xây dựng hạ tầng không rào cản chuẩn hóa, Đài Loan lại đi một con đường riêng biệt: **dù thiết bị vẫn chưa đủ hoàn hảo, xã hội dùng "tấm lòng người dân" để bù đắp khoảng trống**. Thống kê của Cục Du lịch cho thấy, dù chỉ có khoảng 30% điểm du lịch đáp ứng tiêu chuẩn quốc tế không rào cản, mức độ hài lòng của gia đình người khuyết tật và khiếm thị vẫn đạt 85%.
 
-Bí quyết đằng sau con số này là: ** người Đài Loan sẽ "nhìn thấy nhu cầu"**. Khi thấy người dùng xe đẩy, người khiếm thị hoặc người cao tuổi cần hỗ trợ, người lạ sẽ chủ động giơ tay giúp đỡ — mạng lưới an toàn phi chính thức này bù đắp những thiếu sót của các biện pháp chính thức.
+Bí quyết đằng sau con số này là: **người Đài Loan sẽ "nhìn thấy nhu cầu"**. Khi thấy người dùng xe đẩy, người khiếm thị hoặc người cao tuổi cần hỗ trợ, người lạ sẽ chủ động giơ tay giúp đỡ — mạng lưới an toàn phi chính thức này bù đắp những thiếu sót của các biện pháp chính thức.
 
 ## Số liệu phản ánh nhu cầu khẩn cấp: Đài Loan đang nhanh chóng lão hóa
 
@@ -156,7 +156,7 @@ Sự "nhìn thấy nhu cầu" này không phải là quy định chính sách, m
 
 ### Thể hiện sức mạnh xã hội trong đời thường
 
-Ví dụ về vlog đời sống của YouTuber vô thị ** "Chúng tôi cùng Tsai**, ta có thể thấy gia đình Đài Loan làm sao thực hiện "tương tác nhỏ" trong cuộc sống hàng ngày:
+Ví dụ về vlog đời sống của YouTuber vô thị **"Chúng tôi cùng Tsai**, ta có thể thấy gia đình Đài Loan làm sao thực hiện "tương tác nhỏ" trong cuộc sống hàng ngày:
 
 **Cảnh ăn uống**:
 

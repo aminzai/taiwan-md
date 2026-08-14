@@ -53,7 +53,7 @@ Hiệu suất của hội nhạc Đài Loan trên sân cờ quốc tế đã chu
 
 #### Cuộc thi Hợp Tác Thế giới (World Choir Games, WCG)
 
-Được gọi là "Olympic hợp tác", WCG là sân chơi cao nhứt để các đội thể hiện năng lực của mình. Năm 2024 tại New Zealand, 9 đội của Đài Loan tham gia và giành được **10 huy chương vàng và 3 bạc** ấn tượng [^11] [^12]. Trong đó, đội hợp tác của trường trung học Bảo Lai, Cao Hùng, đã vượt qua khó khăn sau thiên tai và ** ba năm liền chiếm vị trí số 1 thế giới** [^13] [^14] [^15].
+Được gọi là "Olympic hợp tác", WCG là sân chơi cao nhứt để các đội thể hiện năng lực của mình. Năm 2024 tại New Zealand, 9 đội của Đài Loan tham gia và giành được **10 huy chương vàng và 3 bạc** ấn tượng [^11] [^12]. Trong đó, đội hợp tác của trường trung học Bảo Lai, Cao Hùng, đã vượt qua khó khăn sau thiên tai và **ba năm liền chiếm vị trí số 1 thế giới** [^13] [^14] [^15].
 
 Trở lại năm 2004 tại thành phố Nuremberg, Đức, các đội của Đài Loan đã khẳng định tài năng. **Đội Hợp Tác Nam Trinh Nam** đoạt giải vàng trong nhóm hợp tác nội thất nam tại kỳ thi thứ ba, đứng đầu bảng xếp hạng thế giới về hợp tác nam nội thất [^16] [^17]. Ngoài ra, **Đội Hợp Tác Nội Thất Thái Bắc** cũng đạt kết quả xuất sắc, giúp Đài Loan xây dựng danh tiếng vững mạnh tại châu Âu [^18].
 

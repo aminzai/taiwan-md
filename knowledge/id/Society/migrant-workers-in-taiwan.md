@@ -70,7 +70,7 @@ Dari pembangunan jalan tol nasional era 1990-an hingga pembangunan pabrik high-t
 
 ### Parade Besar Tenaga Kerja Migran: Teriakan Membatalkan "Batas Masa Kerja"
 
-"Parade Besar Tenaga Kerja Migran" yang digelar setiap dua tahun kembali digelar pada Desember 2025. Selain tuntutan lama "bebas berganti majikan", fokus paling inti kali ini adalah ** "membatalkan batas masa kerja tenaga kerja migran biru (12-14 tahun)"** [^9].
+"Parade Besar Tenaga Kerja Migran" yang digelar setiap dua tahun kembali digelar pada Desember 2025. Selain tuntutan lama "bebas berganti majikan", fokus paling inti kali ini adalah **"membatalkan batas masa kerja tenaga kerja migran biru (12-14 tahun)"** [^9].
 
 Meskipun pemerintah mendorong "Program Penyimpanan Tenaga Ahli Menengah" (per awal 2026 telah disetujui lebih dari 62.000 orang), bertujuan agar tenaga kerja migran berpengalaman bisa tetap bekerja di Taiwan, hak pengajuan program sepenuhnya ada di tangan majikan, dan ambang upah pada 2026 lebih dinaikkan lagi, menyebabkan banyak tenaga kerja migran berpengalaman saat masa kerja habis tetap menghadapi dilema harus dikembalikan [^10].
 
@@ -84,7 +84,7 @@ Per awal 2026, jumlah tenaga kerja migran hilang kontak di seluruh Taiwan telah 
 
 ### Isu Tenaga Kerja Migran India: Penarikan "Bersyarat" 2026
 
-Setelah Taiwan-India menandatangani MOU 2024, kontroversi pada April 2026 mencapai puncak baru. Menghadapi tekanan petisi melebihi **40.000 orang**, Menteri Tenaga Kerja **Hong Shen-han** di Yuan Legislatif mengajukan ** "dua prasyarat" ** penarikan [^14]：
+Setelah Taiwan-India menandatangani MOU 2024, kontroversi pada April 2026 mencapai puncak baru. Menghadapi tekanan petisi melebihi **40.000 orang**, Menteri Tenaga Kerja **Hong Shen-han** di Yuan Legislatif mengajukan **"dua prasyarat"** penarikan [^14]：
 
 1. **Sisi perusahaan memang memiliki kebutuhan nyata**.
 2. **Rencana pelaksanaan sisi India memenuhi persyaratan dan pengawasan kita**.

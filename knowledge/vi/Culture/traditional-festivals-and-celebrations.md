@@ -180,7 +180,7 @@ Văn hóa lễ hội ở Đài Loan hiếm khi là "thuần" truyền thống, m
 
 Văn hóa lễ hội ở Đài Loan có sức sống nhờ sự đổi mới liên tục chứ không phải vì giữ gìn: Mỗi thế hệ đều sẽ tái hiện và điều chỉnh lại các dạng lễ hội có sẵn theo nhu cầu của thời điểm.
 
-** Đó là bản chất đối lập của lễ hội ở Đài Loan: Họ tồn tại bởu vì thay đổi, tồn tại bởu vì thích nghi với thời đại.**
+**Đó là bản chất đối lập của lễ hội ở Đài Loan: Họ tồn tại bởu vì thay đổi, tồn tại bởu vì thích nghi với thời đại.**
 
 ## Thách thức mới của lễ hội trong thời đại toàn cầu hóa
 

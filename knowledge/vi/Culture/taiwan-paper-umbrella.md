@@ -99,4 +99,4 @@ Tuy nhiên, câu chuyện của ô giấy Mỹ Nông đã cung cấp cho các ng
 
 [^9]: [Làng văn hóa ô giấy nguyên tên Mỹ Nông — Trang du lịch Kinh Hạ Long](https://khh.travel/zh-tw/attractions/detail/78/) — Tình trạng hiện tại của làng văn hóa ô giấy Mỹ Nông, kết hợp đánh bóng, bảo tàng, nhân dịch và ẩm thực Hakka
 
-[^10]: [Luận văn thạo sĩ Trường Đại học Công nghiệp Đông Nam\*\*, Viện Nghiên cứu Văn hóa Hakka](https://cloud.hakka.gov.tw/site/hakka/public/attachment/106paper/106B0003_2.pdf) — Nghiên cứu học thuật về khó khăn truyền thống nghề thủ công ô giấy Mỹ Nông và mong muốn của thế hệ trẻ kế thừa
+[^10]: [Luận văn thạo sĩ Trường Đại học Công nghiệp Đông Nam, Viện Nghiên cứu Văn hóa Hakka](https://cloud.hakka.gov.tw/site/hakka/public/attachment/106paper/106B0003_2.pdf) — Nghiên cứu học thuật về khó khăn truyền thống nghề thủ công ô giấy Mỹ Nông và mong muốn của thế hệ trẻ kế thừa

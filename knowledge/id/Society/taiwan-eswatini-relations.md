@@ -107,7 +107,7 @@ Badankerja sama ini berevolusi mengikuti kondisi kedua negara, melampaui lapisan
 
 Di luar pertanian dan pendidikan, medis adalah sisi paling berat dan paling konkrit hubungan ini.
 
-Angka prevalensi HIV dewasa (15–49 tahun) Eswatini **27,2%**, tertinggi dunia\*\*[^16]. Angka di baliknya: tanpa terapi antiretroviral (ART), seluruh generasi akan dihapuskan.
+Angka prevalensi HIV dewasa (15–49 tahun) Eswatini **27,2%**, tertinggi dunia[^16]. Angka di baliknya: tanpa terapi antiretroviral (ART), seluruh generasi akan dihapuskan.
 
 Bantuan medis Taiwan kalau hanya difahami kerangka "diplomasi medis" terlalu tipis. Tim medis bertempat di Eswatini di bawah sistem Universitas Medis Taipei mencakup dokter, perawat, apoteker, dan staf administrasi, cakupan kerja: pelayanan klinis, pelatihan tenaga, kesehatan masyarakat, pendidikan medis, dan penerapan medis cerdas[^15]. Pekerjaan konkrit: membantu Eswatini mendirikan sistem ujian nasional dokter dan sistem pembentukan dokter umum, menyelesaikan operasi saraf pertama Eswatini, dokter Universitas Medis Taipei lama menjabat sebagai **satu-satunya spesialis jantung di rumah sakit negeri Eswatini**, pelayanan medis tahunan melebihi 10 ribu kali. Ini semua punya nama, catatan operasi, nomor rawat inap — aksi nyata melampaui "bantuan" abstrak.
 

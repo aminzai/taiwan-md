@@ -42,6 +42,10 @@ on:
       - 'scripts/core/test-frontmatter.mjs'
       - 'scripts/tools/article-health.py'
       - 'scripts/tools/lib/article_health/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'tests/markdown-cjk.test.mjs'
       - '.github/workflows/pr-frontmatter-gate.yml'
 
 permissions:
@@ -70,6 +74,8 @@ jobs:
 
       - name: Install dependencies (gray-matter for test-frontmatter)
         run: npm ci --prefer-offline --no-audit
+      - name: Verify CJK Markdown parser contract
+        run: npm run test:markdown
 
       # article-health.py 是純 stdlib，不需 pip install；ubuntu-latest 內建 python3
 

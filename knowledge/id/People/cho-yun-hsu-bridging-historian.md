@@ -165,31 +165,31 @@ Hsu Cho-yun menulis hampir empat puluh karya seumur hidupnya, topik mencakup sej
 
 **(I) Pengantar: Sejarah Besar Tiongkok untuk Pembaca Rakyat Biasa**
 
-- ** _Sungai Abadi: Titik Balik dan Pengembangan Sejarah Budaya Tiongkok_ (Hansheng, 2006) [^40]**: Karyanya yang paling luas tersebar. Perspektif sungai panjang difusi dan kontraksi peradaban, membaca sejarah budaya Tiongkok tanpa batas dinasti dalam 270.000 kata.
+- **_Sungai Abadi: Titik Balik dan Pengembangan Sejarah Budaya Tiongkok_ (Hansheng, 2006) [^40]**: Karyanya yang paling luas tersebar. Perspektif sungai panjang difusi dan kontraksi peradaban, membaca sejarah budaya Tiongkok tanpa batas dinasti dalam 270.000 kata.
 
 **(II) Lanjutan: Batas Dalam/Luar Peradaban**
 
-- ** _Wo Zhe Yu Ta Zhe: Fenji Neiwai dalam Sejarah Tiongkok_ (Times Culture, 2009) [^44]**: Menangani masalah identitas Tiongkok, kerangka enam sistem.
-- ** _Huaxia Lunshu: Perubahan Sebuah Komunitas Kompleks_ (Universitas Normal Guangxi, 2015) [^46]**: Definisi prosedural "Tiongkok", interaksi dinamis empat variabel pemerintahan, ekonomi, masyarakat, budaya.
-- ** _Jingwei Huaxia_ (Edisi Diperbarui Hong Kong Sanlian, 2024) [^47]**: Delapan kali revisi, perluasan格局 dari daratan ke laut.
+- **_Wo Zhe Yu Ta Zhe: Fenji Neiwai dalam Sejarah Tiongkok_ (Times Culture, 2009) [^44]**: Menangani masalah identitas Tiongkok, kerangka enam sistem.
+- **_Huaxia Lunshu: Perubahan Sebuah Komunitas Kompleks_ (Universitas Normal Guangxi, 2015) [^46]**: Definisi prosedural "Tiongkok", interaksi dinamis empat variabel pemerintahan, ekonomi, masyarakat, budaya.
+- **_Jingwei Huaxia_ (Edisi Diperbarui Hong Kong Sanlian, 2024) [^47]**: Delapan kali revisi, perluasan格局 dari daratan ke laut.
 
 **(III) Karya Representatif Akademik: Ilmu Sosial ke Sejarah Tiongkok**
 
-- ** _Xi Zhou Shi_ (Sejarah Dinasti Zhou Barat) (Lianjing, 1984, Edisi 2 1986, Revisi Edisi 3 1990/1993, Edisi Diperbarui Sanlian Beijing 1994, Edisi Diperbarui Baru Lianjing 2020) [^21]**: Penelitian asal-usul kesadaran "Huaxia" melalui kelompok kekerabatan.
-- ** _Han Agriculture_ (Edisi Inggris University of Washington Press, 1980, kemudian diterjemahkan ke _Han Agriculture: Pembentukan Ekonomi Petani Tionghoa Awal_) [^19]**: Rekonstruksi kuantitatif kehidupan petani Dinasti Han, jaringan ekonomi pasar.
-- ** _Ancient China in Transition_ (Edisi Inggris _Ancient China in Transition_ Stanford University Press, 1965) [^16]**: Tesis doktoral diubah, analisis kuantitatif mobilitas sosial Musim Semi dan Gugur, dikomentari Fei Zhengqing sebagai "a little classic".
-- ** _Qiu Gu Bian_ (Lianjing, 1982) [^20]**: Evolusi sistem birokrasi sipil pusat/daerah dari kuno hingga Qin-Han.
+- **_Xi Zhou Shi_ (Sejarah Dinasti Zhou Barat) (Lianjing, 1984, Edisi 2 1986, Revisi Edisi 3 1990/1993, Edisi Diperbarui Sanlian Beijing 1994, Edisi Diperbarui Baru Lianjing 2020) [^21]**: Penelitian asal-usul kesadaran "Huaxia" melalui kelompok kekerabatan.
+- **_Han Agriculture_ (Edisi Inggris University of Washington Press, 1980, kemudian diterjemahkan ke _Han Agriculture: Pembentukan Ekonomi Petani Tionghoa Awal_) [^19]**: Rekonstruksi kuantitatif kehidupan petani Dinasti Han, jaringan ekonomi pasar.
+- **_Ancient China in Transition_ (Edisi Inggris _Ancient China in Transition_ Stanford University Press, 1965) [^16]**: Tesis doktoral diubah, analisis kuantitatif mobilitas sosial Musim Semi dan Gugur, dikomentari Fei Zhengqing sebagai "a little classic".
+- **_Qiu Gu Bian_ (Lianjing, 1982) [^20]**: Evolusi sistem birokrasi sipil pusat/daerah dari kuno hingga Qin-Han.
 
 **(IV) Autobiografi dan Pemikiran Masa Tua**
 
-- ** _Xin Lu Li Cheng_ (Perjalanan Hati) (Wenxing, 1964 / Biografi Sastra, 1979 / Universitas Xiamen, 2015) [^50]**: Autobiografi pemuda berusia 34 tahun, perjalanan belajar dan berpikir dari Xiamen ke Taipei ke Chicago.
-- ** _Meiguo Liu Shi Nian Cang Sang: Jianwen Yi Ge Huaren_ (Lima Puluh Tahun Perubahan di Amerika: Observasi Seorang Tionghoa) (Lianjing, 2019) [^51]**: Observasi setengah abad hidupnya di Amerika dan diagnosis masyarakat Amerika.
-- ** _Wang Li Zou, Andun Ziji_ (Masuk ke Dalam, Menata Diri) (Penerbit Harian Beijing, 2022, kolaborasi dengan Feng Jun-wen) [^52]**: Catatan pemikiran pada usia 89 tahun, buku penataan untuk era yang gelisah.
+- **_Xin Lu Li Cheng_ (Perjalanan Hati) (Wenxing, 1964 / Biografi Sastra, 1979 / Universitas Xiamen, 2015) [^50]**: Autobiografi pemuda berusia 34 tahun, perjalanan belajar dan berpikir dari Xiamen ke Taipei ke Chicago.
+- **_Meiguo Liu Shi Nian Cang Sang: Jianwen Yi Ge Huaren_ (Lima Puluh Tahun Perubahan di Amerika: Observasi Seorang Tionghoa) (Lianjing, 2019) [^51]**: Observasi setengah abad hidupnya di Amerika dan diagnosis masyarakat Amerika.
+- **_Wang Li Zou, Andun Ziji_ (Masuk ke Dalam, Menata Diri) (Penerbit Harian Beijing, 2022, kolaborasi dengan Feng Jun-wen) [^52]**: Catatan pemikiran pada usia 89 tahun, buku penataan untuk era yang gelisah.
 
 **(V) Populer dan Wawancara**
 
-- ** Seri _Hsu Cho-yun Mengatakan Sejarah_ (Lima Jilid) [^53]**: Versi populer Sejarah Besar.
-- ** _Hsu Cho-yun十日谈: Geju Dangjin Shijie Yu Renlei Weilai_ (Hsu Cho-yun十日谈: Struktur Dunia Saat Ini dan Masa Depan Manusia) (Hong Kong Sanlian) [^54]**: Kumpulan pemikiran tentang struktur dunia di masa tuanya.
+- **Seri _Hsu Cho-yun Mengatakan Sejarah_ (Lima Jilid) [^53]**: Versi populer Sejarah Besar.
+- **_Hsu Cho-yun十日谈: Geju Dangjin Shijie Yu Renlei Weilai_ (Hsu Cho-yun十日谈: Struktur Dunia Saat Ini dan Masa Depan Manusia) (Hong Kong Sanlian) [^54]**: Kumpulan pemikiran tentang struktur dunia di masa tuanya.
 
 📝 **Jika hanya bisa membaca satu: Mulailah dari _Sungai Abadi_.** Jika ingin memahami metodologi sejarahnya: kata pengantar edisi baru _Xi Zhou Shi_ lebih kuat daripada buku itu sendiri. Jika ingin memahami pandangan keseluruhannya tentang Tiongkok: _Wo Zhe Yu Ta Zhe_ paling padat. Jika ingin memahami orang ini: _Xin Lu Li Cheng_ dan _Wang Li Zou, Andun Ziji_ dibaca bersama.
 

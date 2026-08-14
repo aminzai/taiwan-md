@@ -21,7 +21,8 @@
  * 六語頁面過去全部渲染成中文（含一個簡體字 bug：脚注）。作者寫的資料內容（tw-* 區塊
  * 裡的文字）不受影響，那是 babel 翻譯的範圍，不是這層的責任。
  */
-import { marked } from 'marked';
+// marked 一律從 marked-cjk 取（CJK 強調修正的唯一設定點，見該檔案首註）
+import { marked } from './marked-cjk.mjs';
 import type { Lang } from '../config/languages';
 
 // ── VIZ_STRINGS：renderer 自產 UI 字串的全語對照表（非作者資料，是 renderer 輸出）──
@@ -227,13 +228,18 @@ function resolveWikilinks(md: string) {
 const renderer = new marked.Renderer();
 
 // Inject id attributes on headings for TOC anchor links
-renderer.heading = ({ text, depth }) => {
+// ⚠️ 用 tokens 走 parseInline，不要直接吐 `text`：marked v5+ 的 `text` 是**未解析
+// 的原文**，`## **粗體**：標題` 會把 `**` 原封不動印在 <h2> 裡（2026-08-14 全站
+// 掃到 25 頁）。id 仍由原文計算，錨點與既有 TOC 連結不變（TableOfContents 讀
+// id 屬性、內文再 strip tags，所以目錄同步少掉那兩顆星）。
+// 必須是 function 而非 arrow：要拿到 marked 綁定的 this.parser。
+renderer.heading = function ({ text, tokens, depth }) {
   const id = text
     .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w\u4e00-\u9fff-]/g, '')
     .slice(0, 60);
-  return `<h${depth} id="${id}">${text}</h${depth}>`;
+  return `<h${depth} id="${id}">${this.parser.parseInline(tokens)}</h${depth}>`;
 };
 
 renderer.link = ({ href, title, text }) => {

@@ -81,7 +81,7 @@ Năm 1994, Công ty Thực phẩm Đại nhà được đưa "bánh cuốn Nhậ
 - **Lựa chọn lành mạnh**: Gạo tím, gạo đa dạng thay thế gạo trắng, kèm hạt hạnh nhân và đậu hũ để tăng chất xơ.
 - **Phong trào thực vật**: Các tiệm như "Tăng Rau" ở Taoyuan, nghiên cứu ra "bánh mì hột thịt thực vật" hấp dẫn cả người ăn chay, đưa bánh mì hột lên bàn đề tài thực vật phong cách [^18].
 
-### Phân tích số liệu về "hội carb" và "thuốc ngủ mạnh nhất"\*\*
+### Phân tích số liệu về "hội carb" và "thuốc ngủ mạnh nhất"
 
 Trên các cộng đồng mạng xã hội Đài Loan, bánh mì hột thường được chọc ghẹo gọi là "thuốc ngủ mạnh nhất".
 

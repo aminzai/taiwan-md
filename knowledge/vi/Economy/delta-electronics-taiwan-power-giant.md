@@ -84,11 +84,11 @@ Thậm chí còn gây kinh ngạc hơn là những thay đổi mang lại bởi 
 
 Cùng với sự bùng nổ ứng dụng trí tuệ nhân tạo, nhu cầu năng lượng điện của các trung tâm dữ liệu toàn cầu tăng đột biến. Meta, Google và những gã khổng lồ công nghệ khác đang xây dựng những siêu trung tâm dữ liệu với nhu cầu năng lượng lên tới 1GW (gigawatt) — tương đương với nhu cầu điện của một thành phố có 260.000 cư dân.
 
-**Thách thức nằm ở tốc độ của sự tiến hóa công nghệ.**Những con chip AI thế hệ mới đặt ra yêu cầu chưa từng có đối với quản lý năng lượng, công suất tăng từ 400-800 watt truyền thống lên 8.000 watt hoặc thậm chí cao hơn. Delta đang phát triển hệ thống cấp nguồn điện một chiều cao áp 800 volt và hệ thống ±400 volt, dự kiến sản xuất hàng loạt từ nửa năm 2026 trở đi.
+**Thách thức nằm ở tốc độ của sự tiến hóa công nghệ.** Những con chip AI thế hệ mới đặt ra yêu cầu chưa từng có đối với quản lý năng lượng, công suất tăng từ 400-800 watt truyền thống lên 8.000 watt hoặc thậm chí cao hơn. Delta đang phát triển hệ thống cấp nguồn điện một chiều cao áp 800 volt và hệ thống ±400 volt, dự kiến sản xuất hàng loạt từ nửa năm 2026 trở đi.
 
 Theo tờ Taipei Times, các nhà máy của Delta tại Đài Loan, Thái Lan và Hoa Kỳ đã hoạt động hết công suất, năm 2025 sau khi thêm ba nhà máy ở Thái Lan, năm nay sẽ tiếp tục mở rộng sản năng.
 
-**Nhưng sức cạnh tranh của Delta không chỉ nằm ở sản năng, mà nằm ở khả năng tích hợp hệ thống.**Nó không chỉ là nhà cung cấp linh kiện, mà là nhà cung cấp giải pháp hoàn chỉnh. Khi các nhà sản xuất ô tô cần hệ thống truyền động xe điện, Delta có thể cung cấp giải pháp toàn diện từ bộ sạc trên xe tới motor dẫn động. Khi trung tâm dữ liệu cần cải tạo để tiết kiệm năng lượng, Delta có thể cung cấp dịch vụ một cửa từ cấp nguồn tới điều hòa không khí.
+**Nhưng sức cạnh tranh của Delta không chỉ nằm ở sản năng, mà nằm ở khả năng tích hợp hệ thống.** Nó không chỉ là nhà cung cấp linh kiện, mà là nhà cung cấp giải pháp hoàn chỉnh. Khi các nhà sản xuất ô tô cần hệ thống truyền động xe điện, Delta có thể cung cấp giải pháp toàn diện từ bộ sạc trên xe tới motor dẫn động. Khi trung tâm dữ liệu cần cải tạo để tiết kiệm năng lượng, Delta có thể cung cấp dịch vụ một cửa từ cấp nguồn tới điều hòa không khí.
 
 ## Triết lý kinh doanh tiết kiệm: Biến bảo vệ môi trường thành sức cạnh tranh
 
@@ -124,7 +124,7 @@ Niềm tin bảo vệ môi trường của Trịnh Sùng Hóa xuất phát từ 
 
 50 năm sau, quyết định đó đã trở thành sức cạnh tranh cốt lõi của Delta. Khi toàn thế giới hướng tới phát thải ròng bằng không, công nghệ tiết kiệm năng lượng của Delta không chỉ là sản phẩm, mà còn là công cụ của con người để ứng phó với biến đổi khí hậu.
 
-**Bảo vệ môi trường không phải chi phí, mà là nguồn sức cạnh tranh.**Câu nói này vào năm 2000 nghe có vẻ là chủ nghĩa lý tưởng, nhưng vào năm 2026 đã trở thành hiểu biết kinh doanh thông thường.
+**Bảo vệ môi trường không phải chi phí, mà là nguồn sức cạnh tranh.** Câu nói này vào năm 2000 nghe có vẻ là chủ nghĩa lý tưởng, nhưng vào năm 2026 đã trở thành hiểu biết kinh doanh thông thường.
 
 ## Sự khôn ngoan của sự tiếp nối
 

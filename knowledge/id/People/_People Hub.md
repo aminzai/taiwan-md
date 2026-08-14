@@ -154,7 +154,7 @@ André Chiang (江振誠) | Wu Pao-chun (吳寶春)
 
 ## 🌟 Tokoh populer (sorotan lintas negara/arena budaya populer)
 
-Dalam penulisan profil tokoh di Taiwan.md, **“tokoh populer”** merujuk pada dua hal. Pertama, label `**tokoh populer`\*\* dalam `tags` suatu artikel, agar konsisten di dalam situs dan seluruh rantai alat. Kedua, arena bersama orang-orang ini: cara penonton Taiwan mengubah popularitas menjadi teks publik melalui antrean, dukungan penggemar, kolaborasi produk, dan kontrak duta merek.
+Dalam penulisan profil tokoh di Taiwan.md, **“tokoh populer”** merujuk pada dua hal. Pertama, label `**tokoh populer**` dalam `tags` suatu artikel, agar konsisten di dalam situs dan seluruh rantai alat. Kedua, arena bersama orang-orang ini: cara penonton Taiwan mengubah popularitas menjadi teks publik melalui antrean, dukungan penggemar, kolaborasi produk, dan kontrak duta merek.
 
 Sejak dekade 2020-an, arena tersebut makin sering hadir di lorong stadion, jalur antrean kedai minuman racikan, dan depan lemari pendingin minimarket. Lee Da-hye (李多慧), Byeon Ha-yul (邊荷律), Nam Min-jeong (南珉貞), dan Lee Ju-eun (李珠珢) menjadikan pemandu sorak asal Korea bagian dari konten bisbol profesional; sementara Kim Ji-na (金針菇) dan Muscleshan (肌肉山山) menunjukkan cara “kreator berkewarganegaraan Korea yang tinggal di Taiwan” mengubah kehidupan sehari-hari menjadi karya yang dapat diikuti dalam jangka panjang.
 
