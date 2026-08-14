@@ -1,6 +1,6 @@
 {
   "name": "taiwanmd",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest"
@@ -30,17 +30,24 @@
   },
   "homepage": "https://taiwan.md",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.0.0"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
     "chalk": "^5.3.0",
     "cli-table3": "^0.6.5",
     "commander": "^12.1.0",
-    "marked": "^15.0.0",
+    "marked": "^17.0.4",
+    "marked-cjk-friendly": "0.1.0",
     "marked-terminal": "^7.3.0",
     "minisearch": "^7.2.0",
     "yaml": "^2.8.3",
     "zod": "^4.3.6"
+  },
+  "//overrides": "marked-terminal@7.3.0 宣告 peer marked '>=1 <16'（沒有更新的 release），但 marked-cjk-friendly 需要 marked 16+ 的 rules.inline.delLDelim。實測 marked-terminal 在 marked 17 上功能正常（英文與 CJK 粗體都有 ANSI），所以這裡把它的 peer 對齊本套件的 marked，讓 npm ci / npm install 在本 workspace 能解析。此欄位對安裝 taiwanmd 的使用者無效（npm 忽略依賴的 overrides），使用者端本來就會 nest 一份 marked@15 給這兩個 plugin 用而不影響執行；上游修好 peer 範圍後可移除。",
+  "overrides": {
+    "marked-terminal": {
+      "marked": "$marked"
+    }
   }
 }
