@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.5'
-last_updated: 2026-08-09
-last_session: '2026-08-09-twmd-self-evolve-weekly（cron mirror HG9/HG10 真正補齊，三層對賬全綠）'
+current_version: 'v1.6'
+last_updated: 2026-08-15
+last_session: '2026-08-15-twmd-feedback-triage（--exclude <id>：攔一筆不再需要整條 --commit 停擺）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -97,6 +97,25 @@ node scripts/feedback/triage.mjs --commit    # 讀 Supabase + 真開 issue
 ```bash
 node scripts/feedback/triage.mjs             # dry-run（不開 issue,只印決策）
 ```
+
+**當班判斷某筆不能開成公開 issue 時**（例：指涉具名第三人的指控，見 §不能轉錄的那一筆）：
+
+```bash
+node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
+```
+
+排除那一筆之後照樣跑完 `--commit`，**留言 sync 與 HG12b／HG12c 兩道對賬不會跟著消失**。
+被排除的筆 `status` 維持 `new`（怎麼收尾留人類），排除與打錯的 id 都印在報表上，不靜默。
+
+### 不能轉錄的那一筆（2026-08-15 v1.6 新增）
+
+`--exclude` 只解決「攔下來之後流程還能跑完」，**不解決「誰來攔」**——當班要自己讀完內容再動手。
+判斷式：這段文字搬到公開 issue 會傷到誰？**指涉具名的私人、附上跟監所得的居住／工作細節、
+要求身份保密的檢舉信**，三道現行 HARD gate（HG2 無 email／HG3 verbatim／HG9 fence）全部會通過，
+分類器會判 `file`。命中就 `--exclude` 攔下、`status` 不動、升 [OBSERVER-QUEUE](../semiont/OBSERVER-QUEUE.md) 等哲宇拍板
+（per §自主權邊界「敏感素材決定 — AI 準備 blueprint，人類 final call」）。
+偵測器要不要長出來（判準校準屬高風險，BECOME §行動鐵律 10 強制 Full mode）仍在 OBSERVER-QUEUE #28。
+案例：[reports/feedback-third-party-allegation-hold-2026-08-14.md](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)。
 
 env（`~/.taiwanmd-feedback.env`,**不在 repo**）：`SUPABASE_URL` + `SUPABASE_SERVICE_KEY`。
 
@@ -267,6 +286,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 | HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）    | 4.5   |
 | HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來 | 4.5   |
 | HG12c | 對賬 §溝通紀錄 則數 vs 線上留言則數（`comment-reconcile=N/M`）；抓不到 ≠ 對得起來  | 4.5   |
+| HG13  | 攔一筆用 `--exclude <id>` 跑完 `--commit`，不要整條不跑（否則兩道對賬跟著消失）    | 1-4.5 |
 
 > **編號沿革（2026-08-06）**：HG11／HG12 之前都借用了已被佔用的號碼——§機器身份自稱 HG10（跟本表 HG10=injection 撞號），薄殼 skill／cron prompt 把 git archive 稱作 HG9（跟本表 HG9=tilde fence 撞號）。三層對照後統一重編號：HG9=fence、HG10=injection 兩個「先佔」號碼維持不動（2026-07-05 v1.1 就存在），機器身份改稱 HG11、git archive 改稱 HG12。詳見 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)。
 
@@ -274,6 +294,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.6 | 2026-08-15 twmd-feedback-triage routine — **`--exclude <id>`：攔一筆不再需要整條停擺**。8/14 攔下的第三人指控那筆（`status` 維持 `new`）今天原樣再出現一次，而 `triage.mjs` 沒有單筆排除參數，「不開這個 issue」的唯一走法是整條 `--commit` 不跑——留言 sync 與兩道對賬跟著轉錄那半一起消失（LESSONS `zero-input-cycle-drops-the-reconciliation` 第 3 個 instance，vc=3）。8/14 當班用純函式手動補跑對賬，本次把它變成流程給的：`parseArgs` 收 `--exclude`（可重複／逗號串）、`partitionExcluded()` 純函式 + 5 unit test，排除與**打錯的 id** 都印在報表上（silent default = silent failure，REFLEXES #60）；`main()` 改成只有被當指令跑才執行，讓純函式可被 test import。這是 OBSERVER-QUEUE #28 三選項裡的 (b)——純操作面閘門，不碰判準；(a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
 _v1.5 | 2026-08-09 twmd-self-evolve-weekly — **cron mirror HG9/HG10 缺口真正補齊**：v1.3 changelog 曾聲稱「修 cron mirror 仍用舊 HG9/HG10 舊號的漂移」，但那句話本身也只是宣稱——實地 grep `~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md` 證實 HG9（tilde fence）／HG10（injection 偵測）兩行從未真正落地，8/8 twmd-routine-sync 與 8/9 twmd-distill-weekly 先後在對賬與驗證時各自碰到這個縫但都留給下一個 cycle。本次直接補上兩行、跑 `routine-sync.py --harvest` 收回 git SSOT，`routine-sync.py` 收官印「三層一致」。同一個「已同步」宣稱被 3 個獨立 session 當事實傳遞卻沒人現場重驗，升進 [REFLEXES #67](../semiont/REFLEXES.md) routine-infra 變體（vc=1→4）。_
 _v1.4 | 2026-08-08 twmd-feedback-triage routine — **HG12c 留言層對賬**：`comment-reconcile=N/M` 把 HG12b 從「該有幾份紀錄」往下延伸到「紀錄裡該有幾則留言」（`reconcileComments()` + `countArchivedComments()` 純函式 + 6 unit test）。同波修根因：`fetchIssueComments()` 從「所有失敗回 `[]`」改成「抓不到回 `null`、真的沒留言才回 `[]`」，`null` 時不寫檔——舊版讓「沒有新留言」跟「一則都抓不到」印出同一行 `archive-comments-synced=0`，實測把 `gh` 移出 PATH 跑一次，輸出跟健康的一次逐字相同（REFLEXES #38 混維度 / #52 不會變紅的免疫層）。誕生：本 cycle 手動拿 GitHub API 跨源核 61 份紀錄，抓到 #1252 archive 4 則 vs 線上 3 則（7/29 答錯的留言被刪，git 留住 = 主權層正常）；真正的發現是 8/6 的 cycle 也做過同一次手動跨源核（vc=2），兩次都是人在補儀器沒有的尺。_
 _v1.3 | 2026-08-07 twmd-feedback-triage routine — **HG12b 主權層對賬**：收官新增 `archive-reconcile=N/M`（`reconcileArchive()` 純函式 + 5 unit test），把 HG12 從「有沒有寫檔」升成「該有的份數在不在」。誕生：本 cycle 對賬發現 61 筆 filed 只有 40 份 git 紀錄，2026-06-11 justfont 21 連勘誤整批缺席 8 週無人發現（收官只印 `archive-scanned=40`，數存在的東西不會量出缺席）。同波：21 份紀錄用 canonical 產生器補齊（零 email）；修 cron mirror 仍用舊 HG9/HG10 舊號的漂移（v1.2 changelog 聲稱同步了 cron mirror，實際只同步了 repo 內薄殼 — self-reported 完成需外部尺，REFLEXES #69）。_

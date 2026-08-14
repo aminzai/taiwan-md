@@ -436,9 +436,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：通用。任何「轉錄 + 保管」雙職責的 routine（feedback triage、harvest 回填、supporters sync）都該問：輸入為零時，我的保管那半邊有沒有跟著被跳過？
 - **instances**：
   - 2026-08-14 twmd-feedback-triage — 同一結構的第二種入口：**輸入不為零但不能轉錄**。當天唯一一筆 `status=new` 是不可開成公開 issue 的內容（具名第三人指控，見 `transcription-gates-guard-fidelity-not-consequence`），而 `triage.mjs` 沒有單筆排除的參數，於是「不開這個 issue」的唯一走法就是整條 `--commit` 不跑，兩道對賬跟著一起消失。當班改用 canonical 純函式（`mergeComments` / `reconcileArchive` / `reconcileComments`）單獨跑完留言 sync 與兩道對賬（74/74 ✅、73/74 ✅），但那是手動補的，不是流程給的 → [報告](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)
+  - 2026-08-15 twmd-feedback-triage — 同一筆原樣再出現一次（`status` 沒動過的必然結果），當班第二次面對「唯一的新輸入不能轉錄」。這次沒有再手工補：把修補候選 (c) 做掉了 —— `triage.mjs --exclude <id>`（`parseArgs` 收可重複／逗號串、`partitionExcluded()` 純函式 + 5 unit test、打錯的 id 印 `⚠️ unmatched`、`main()` 改成只有被當指令跑才執行）。跑 `--commit --exclude b78ee4f5…` 的結果：`file=0 exclude=1`、`archive-reconcile=74/74 ✅`、`comment-reconcile=73/74 ✅` —— **保管那半第一次在轉錄那半停手的情況下，由流程自己跑完**
 - **原則更新（2026-08-14）**：轉錄職責與保管職責綁在同一個 `--commit` 開關上，只要轉錄那半因為**任何**理由停手，保管那半就跟著停。零輸入只是其中一種理由。修補方向因此從「零輸入也要跑 `--commit`」擴大成「**讓保管那半有自己的入口**」。
-- **修補候選**：(a) FEEDBACK-TRIAGE-PIPELINE Stage 1 明寫「零新回報仍跑 `--commit`」（目前只活在 memory 裡）(b) 讓 `triage.mjs` 在 dry-run 且 `fetched=0` 時主動提示「對賬未執行」，不要只印 `skipped` (c) **新增（8/14）**：`triage.mjs --exclude <id>`，或把留言 sync + 兩道對賬拆成獨立子指令，讓保管那半不依賴轉錄那半是否跑得動
-- **verification_count**: 2
+- **修補候選**：(a) FEEDBACK-TRIAGE-PIPELINE Stage 1 明寫「零新回報仍跑 `--commit`」（目前只活在 memory 裡）(b) 讓 `triage.mjs` 在 dry-run 且 `fetched=0` 時主動提示「對賬未執行」，不要只印 `skipped` (c) ~~`triage.mjs --exclude <id>`~~ **已 ship 2026-08-15**（HG13，pipeline v1.6 + 薄殼 + cron mirror 三層同步）。剩下的 (a)(b) 是零輸入那條入口，`--exclude` 沒有覆蓋到
+- **verification_count**: 3（promotion-ready；owner = distill-weekly／self-evolve-weekly。三個 instance 都是同一條線，跨 routine 的第二個載體還沒出現 —— harvest 回填、supporters sync 這兩條同樣是「轉錄 + 保管」雙職責，值得掃一眼再決定要不要升反射）
 - **severity**: medium
 
 ### 2026-08-13 twmd-feedback-triage — reflex-exists-but-not-a-step-on-this-line：REFLEXES #57 在這條 routine 上沒有落地成步驟

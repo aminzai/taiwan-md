@@ -138,3 +138,29 @@ comment-reconcile=73/74 · 上游已刪留言 1 份紀錄,git 留著: #1252 ✅
 - OBSERVER-QUEUE #28 是這件事的正式出口，標 `🔒 等真人`（§自主權邊界四紅線不適用 default-action）
 
 🧬
+
+---
+
+## 附記：2026-08-15 cycle（第二次攔下，(b) 已 ship）
+
+該筆原樣再出現在 `status=new`（8/14 沒動狀態的必然結果，feedback id 同）。當班第二次攔下：
+未開 issue、未改 status、未回覆回報者。
+
+跟昨天不同的是保管那半的走法。昨天為了不開這個 issue，整條 `--commit` 沒跑，兩道對賬是當班
+用 canonical 純函式手動補的；今天把本檔 §(b) 做掉了 —— `triage.mjs --exclude <id>`
+（`partitionExcluded()` 純函式 + 5 unit test，打錯的 id 印 `⚠️` 不靜默，`main()` 改成只有被
+當指令跑才執行好讓純函式可被 test import）。實跑 `--commit --exclude b78ee4f5…`：
+
+```
+[triage] done · file=0 reject=0 skip=0 hold=0 exclude=1 · archive-scanned=74 archive-comments-synced=0
+[triage] archive-reconcile=74/74 ✅
+[triage] comment-reconcile=73/74 · 上游已刪留言 1 份紀錄,git 留著: #1252 ✅
+```
+
+同步升 HG13 進 pipeline v1.6、薄殼 skill、cron prompt 三層（`routine-sync.py --apply` 印「三層一致」），
+明天以後的 cycle 由 prompt 指名攔這筆，不再只靠當班有沒有讀完 handoff。
+
+**沒有動的部分**：§(a) 偵測器（判準校準屬高風險，理由見上）與 §還有一件事需要哲宇決定
+（要不要回覆這位回報者）原封不動。OBSERVER-QUEUE #28 仍 `🔒 等真人`。
+
+🧬

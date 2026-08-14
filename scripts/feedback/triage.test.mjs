@@ -27,6 +27,7 @@ import {
   reconcileComments,
   countArchivedComments,
 } from './lib/archive.mjs';
+import { parseArgs, partitionExcluded } from './triage.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const seed = JSON.parse(readFileSync(join(here, 'seed-feedback.json'), 'utf8'));
@@ -494,4 +495,55 @@ test('reconcileComments: 空紀錄 + 線上也空 = 對得起來（不是 unknow
   const cr = reconcileComments([{ issue: 1286, archived: 0, live: 0 }]);
   assert.equal(cr.aligned, 1);
   assert.equal(cr.unknown.length, 0);
+});
+
+// ── --exclude（2026-08-15 · 讓「攔一筆」不必整條 --commit 停擺）────────────────
+
+test('parseArgs: --exclude 可重複,也接受逗號串', () => {
+  const a = parseArgs([
+    'node',
+    'triage.mjs',
+    '--commit',
+    '--exclude',
+    'aaa',
+    '--exclude',
+    'bbb,ccc',
+  ]);
+  assert.equal(a.commit, true);
+  assert.deepEqual(a.exclude, ['aaa', 'bbb', 'ccc']);
+});
+
+test('parseArgs: 沒給 --exclude 時是空陣列（預設不排除任何人）', () => {
+  assert.deepEqual(parseArgs(['node', 'triage.mjs', '--commit']).exclude, []);
+});
+
+test('partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄', () => {
+  const rows = [{ id: 'aaa' }, { id: 'bbb' }, { id: 'ccc' }];
+  const p = partitionExcluded(rows, ['bbb']);
+  assert.deepEqual(
+    p.kept.map((r) => r.id),
+    ['aaa', 'ccc'],
+  );
+  assert.deepEqual(
+    p.excluded.map((r) => r.id),
+    ['bbb'],
+  );
+  assert.deepEqual(p.unmatched, []);
+});
+
+test('partitionExcluded: 打錯的 id 要回報成 unmatched,不能靜默', () => {
+  // 靜默的代價：當班以為攔住了,實際照開一個公開 issue（REFLEXES #60 silent default）。
+  const p = partitionExcluded([{ id: 'aaa' }], ['typo-id']);
+  assert.deepEqual(
+    p.kept.map((r) => r.id),
+    ['aaa'],
+  );
+  assert.deepEqual(p.unmatched, ['typo-id']);
+});
+
+test('partitionExcluded: 沒有 --exclude 時原樣通過', () => {
+  const rows = [{ id: 'aaa' }];
+  const p = partitionExcluded(rows, []);
+  assert.equal(p.kept, rows);
+  assert.deepEqual(p.excluded, []);
 });
