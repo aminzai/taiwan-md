@@ -6,11 +6,26 @@
  */
 
 import chalk from 'chalk';
-import { marked } from 'marked';
+import { Marked } from 'marked';
 import { markedTerminal } from 'marked-terminal';
+import markedCjkFriendly from 'marked-cjk-friendly';
 
-// Configure marked with terminal renderer
-marked.use(markedTerminal());
+/**
+ * 終端機用的 marked 實例（2026-08-14）。
+ *
+ * 兩個刻意的決定：
+ *
+ * 1. `markedCjkFriendly()`：CommonMark／GFM 的 delimiter flanking 規則把 CJK
+ *    標點當一般標點，於是 `**完整句。**下一句` 的收尾 `**` 不算 right-flanking，
+ *    整組 `**` 就原封不動印在讀者的終端機上。站台端同一個病由
+ *    `src/utils/marked-cjk.mjs` 修掉；CLI 走自己的依賴樹，所以要各修一次。
+ *    （commonmark/commonmark-spec#650，2020 年開到現在。）
+ *
+ * 2. `new Marked(...)` 而不是對 marked 模組單例跑 `marked.use()`：
+ *    單例污染會讓行為變成「誰先 import 誰決定」的隱性耦合。用獨立實例，
+ *    這支檔案就是 CLI 唯一的 marked 設定點。
+ */
+const marked = new Marked(markedTerminal(), markedCjkFriendly());
 
 /**
  * Category to emoji mapping
