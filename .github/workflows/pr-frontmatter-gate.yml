@@ -105,6 +105,15 @@ jobs:
             [[ -z "$f" ]] && continue
             [[ "$f" =~ ^knowledge/.*\.md$ ]] || continue
             [[ -f "$f" ]] || continue          # 防 diff-filter edge case：檔真的要在 HEAD 上
+            # `_` 開頭的不是文章（Hub / roadmap / vault 入口，不建置上站）。
+            # article-health.py 自己找檔時本來就跳過它們（該檔 L74 / L91），但這裡
+            # 是逐檔明確傳入，繞過了那條規則——於是任何 PR 只要碰到一個 Hub 檔，
+            # 就會被那個檔案「本來就有」的問題（缺 subcategory、既有斷 wikilink）
+            # 連坐判紅，而貢獻者改的根本不是那些東西。同一支檢查器對「自己找的檔」
+            # 與「別人餵的檔」兩把尺，per REFLEXES #83。
+            # 觸發：2026-08-14 PR #1336（唐鳳）只改 `_People Hub.md` 一行標記語法，
+            # 被該檔 main 上既有的 frontmatter hard=6 / wikilink hard=19 擋下。
+            [[ "$(basename "$f")" == _* ]] && continue
             ALL_KN+="$f"$'\n'
             # zh-TW root = knowledge/<大寫開頭分類>/…；排除 knowledge/<小寫語系碼>/…
             if [[ "$f" =~ ^knowledge/[A-Z][A-Za-z]*/.*\.md$ ]]; then
