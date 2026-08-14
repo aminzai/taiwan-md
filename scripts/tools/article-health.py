@@ -45,7 +45,6 @@ from lib.article_health import (  # noqa: E402
     TRANSLATION_LANGS,
     run_checks,
 )
-from lib.article_health.runner import resolve_applies_to  # noqa: E402
 from lib.article_health.config import Config, ProfileConfig  # noqa: E402
 
 
@@ -58,7 +57,7 @@ def _get_staged_md() -> list[Path]:
         # 跟「真的沒 staged」逐字相同）。2026-08-08 已修 .husky 殼層，這裡是同型第二處。
         out = subprocess.check_output(
             ["git", "-c", "core.quotePath=false",
-             "diff", "--cached", "--name-only", "--diff-filter=ACMR"],
+             "diff", "--cached", "--name-only", "--diff-filter=ACM"],
             text=True,
         )
     except subprocess.CalledProcessError:
@@ -67,11 +66,9 @@ def _get_staged_md() -> list[Path]:
     for line in out.splitlines():
         if not line.startswith("knowledge/"):
             continue
-        # 2026-08-12 #1264：撤掉 collector 層的語言過濾。原本這裡寫死排除
-        # en/ja/ko/es/fr 五語（停在五語時代的清單，站上已 12 語）——效果是
-        # pre-commit --staged 對五個主要翻譯語言空轉、新六語反而通過的反向覆蓋。
-        # 語言分流唯一的家是 runner.resolve_applies_to（per-check applies_to +
-        # profile options_overrides），collector 只管「staged 的 knowledge md」。
+        if line.startswith(("knowledge/en/", "knowledge/ja/", "knowledge/ko/",
+                            "knowledge/es/", "knowledge/fr/")):
+            continue
         if not line.endswith(".md"):
             continue
         if Path(line).name.startswith("_"):
@@ -143,13 +140,11 @@ def _cmd_fix(args) -> int:
         if not f.exists():
             continue
         target = load_target(f)
-        # APPLIES_TO filter — 走 runner 的同一個解析點，不在這裡自己抄一份，
-        # 否則 config 覆寫只對 run_checks 生效、對 --fix 不生效（又一組兩道尺）。
-        applicable = []
-        for m in fix_capable:
-            applies = resolve_applies_to(m, config, profile)
-            if "*" in applies or target.lang in applies:
-                applicable.append(m)
+        # APPLIES_TO filter — only run plugins that match this file's lang
+        applicable = [
+            m for m in fix_capable
+            if "*" in getattr(m, "APPLIES_TO", ["*"]) or target.lang in m.APPLIES_TO
+        ]
         if not applicable:
             continue
         any_change = False
@@ -479,6 +474,23 @@ def main() -> int:
         return cmd_list_checks()
     if args.inventory:
         return cmd_inventory()
+
+    # 未知的 --check 名字要當場炸，不能靜默跑 0 項還 exit 0（REFLEXES #83 (d)）。
+    # 病史：2026-08-14 在一棵還沒有 fence-prose 的樹上跑 `--check=fence-prose`，
+    # 輸出是「(no checks ran)」+ exit 0，grep 🔴 得 0 —— 跟「全站乾淨」逐字無法
+    # 區分，差點被當成驗收通過寫進收官報告。打錯字、跑在舊 checkout、plugin 還沒
+    # merge，三種情況都會走到這裡，而三種都不該回綠。
+    if args.check:
+        from lib.article_health import registry as _reg
+        known = {m.CHECK_NAME for m in _reg.discover_checks().values()}
+        if args.check not in known:
+            print(
+                f"⚠️  未知的 check 名稱：{args.check}\n"
+                f"   已註冊的有：{', '.join(sorted(known))}\n"
+                f"   （若這個 plugin 剛加，確認目前的 checkout 有那個檔案）",
+                file=sys.stderr,
+            )
+            return 2
 
     # Resolve file list
     if args.staged:
