@@ -332,6 +332,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-14 twmd-maintainer-pr-triage — working-tree-itself-is-the-stale-snapshot：量尺不是舊的，是我站的地板是舊的
+
+- **pattern**: `working-tree-itself-is-the-stale-snapshot`
+- **原則**：`REFLEXES #67`「已驗過帶時間戳」講的是**別把舊結論當現況**——舊 audit、舊 changelog、舊 handoff。但它預設了一件事：你手上的檔案系統是現況，只有「結論」會過期。當 session 跑在一棵跟 `origin` 分歧的工作樹上時，這個預設不成立：`git grep`、`ls`、`cat`、`node -p require(...)`、`node_modules` 全部同時退化成歷史快照，而它們回答問題的**語氣跟平常一模一樣**——檔案不存在就是不存在，套件找不到就是找不到，沒有任何一句話提醒你量的是幾天前。舊結論至少還帶著一個日期可以懷疑；**舊的檔案系統連可懷疑的表面都沒有**。這是 #67 的環境層變體，也是 #82「訊號要摸到 ground truth」在取數**基準面**上的形狀：不是量了替身，是站在替身上量。
+- **觸發**：2026-08-14 maintainer PR triage cycle，本機 `main` 落後 `origin/main` 135 個 commit（babel 脈搏產線佔用該工作樹、130+ commit 未推送，狀態在進場前就存在）。同一個 session 內連踩三次，每次都差一步就把錯的東西送出去：
+  1. `git grep src/utils/marked-cjk.mjs` 回「不存在」→ 差點對 audreyt 的 PR #1337／#1338 發出「你的 skill 與程式註解引用了不存在的路徑」這條 review。實際上該檔在 `origin/main` 上好好的（#1336 昨天 merge 進去）。
+  2. `node -p require('./package.json')` 回「無 `test:python` script」＋`requirements-test.txt` 不存在 → 差點把 ting-hong-shieh 的 PR #1332 判成「新增了兩條跑不起來的指令」，而那個 PR 的**主旨恰恰是修「文件說的跟實際做的對不上」**。判錯的話等於用一個過期的量尺去否定一個修過期量尺的 PR。
+  3. 為了在合併後的樹上跑測試，`ln -s` 主樹的 `node_modules` → `npm run test:markdown` 回 `ERR_MODULE_NOT_FOUND: marked-cjk-friendly`。讀起來完全像「這個合併把東西弄壞了」，實際上是那份 `node_modules` 對應的是 135 個 commit 前的 `package.json`。在乾淨 worktree `npm ci` 後同一條指令 8/8 綠。
+- **前兩次的共同結尾**：都是靠**改用 `git show origin/main:<path>` 重驗**才發現自己在量歷史，不是靠任何工具叫我。第三次是靠錯誤訊息剛好指名了套件名。三次都沒有閘門攔。
+- **已 ship 的修法（同 cycle）**：`scripts/tools/lib/check-parallel-actor.sh` 的 `REMOTE_AHEAD` 分支原本只講 push 會不會被 ref-lock reject（訊息是 push 導向的），現在加印落後的 commit 數 ＋ 一句讀取層警告，明寫「本地 git grep / ls / cat / require / node_modules 反映的是 N 個 commit 前的狀態，審 PR 與對賬事實前改用 `git show origin/main:<path>` 或開 worktree（且該 worktree 要自己 `npm ci`，不要 symlink 主樹那份）」。實測：主工作樹跑印出 146 落後 ＋ 警告，乾淨 worktree 跑維持 CLEAN 不誤報。**訊號本來就存在**——這支腳本今天早上進場時就報了 `REMOTE_AHEAD ⚠️`，我讀成「等一下 push 要先 rebase」，沒讀成「你接下來讀的每一個檔案都是歷史」。這是「訊號存在 ≠ 訊號有效」的又一次：修法不是加新訊號，是把既有訊號講到它真正的後果那一層。
+- **可能層級**：REFLEXES #67 加子規則（環境層變體）較合適，不必新編號——但 boundary 值得寫清楚：**#67 現行五條規則全部針對「引用的結論」，沒有一條針對「執行環境本身」**。另一個可能的歸屬是 #82（proxy signal），但角度差一層：#82 是「量了替身」，本條是「站在替身上量真的東西」。
+- **相關**：[REFLEXES #67](REFLEXES.md)（已驗過帶時間戳——本條是它的環境層變體）／[REFLEXES #82](REFLEXES.md)（proxy signal——差一層：基準面 vs 訊號）／[REFLEXES #57](REFLEXES.md)（routine 入口必須 detect parallel-actor——本條把該偵測的**輸出語意**從 push 層擴到讀取層）／[REFLEXES #68](REFLEXES.md)（多核心 git 協調——工作樹被產線長期佔用是這條的既有場景，但既有紀律只談 commit/push 碰撞，沒談讀取失真）
+- **verification_count**: 1（同 session 三個獨立現形；per 2026-08-02 self-evolve「vc=1 只證明登記處只出現一次」，這條的三次是同日同 session，計 1 但列全三例）
+- **severity**: structural（不是某支工具的 bug，是「session 對自己所在位置的假設」這一層；只要 babel 產線繼續長期佔用主工作樹，每一個在該樹上跑的 review／對賬類 routine 都在這個風險裡）
+
 ### 2026-08-14 twmd-maintainer-am — doc-and-validator-drift-has-no-reconciler：說明書跟驗證器各自演化，中間沒有東西在對賬
 
 - **pattern**: `doc-and-validator-drift-has-no-reconciler`
