@@ -7049,6 +7049,18 @@
       "source": "threads"
     },
     {
+      "spore": 170,
+      "dPlus": 4,
+      "at": "2026-08-15 06:39",
+      "batch": "batch-2026-08-15-2-spores",
+      "views": 1332,
+      "likes": 89,
+      "reposts": 4,
+      "comments": 0,
+      "shares": 1,
+      "source": "threads"
+    },
+    {
       "spore": 171,
       "dPlus": 1,
       "at": "2026-08-12 06:40",
@@ -7082,6 +7094,18 @@
       "reposts": 52,
       "comments": 4,
       "shares": 59,
+      "source": "x"
+    },
+    {
+      "spore": 171,
+      "dPlus": 4,
+      "at": "2026-08-15 06:39",
+      "batch": "batch-2026-08-15-2-spores",
+      "views": 24000,
+      "likes": 351,
+      "reposts": 51,
+      "comments": 4,
+      "shares": 60,
       "source": "x"
     }
   ]
