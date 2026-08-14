@@ -332,6 +332,39 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-14 twmd-maintainer-am — doc-and-validator-drift-has-no-reconciler：說明書跟驗證器各自演化，中間沒有東西在對賬
+
+- **pattern**: `doc-and-validator-drift-has-no-reconciler`
+- **原則**：閘門升級與文件更新是兩個不同的動作、由兩個不同的動機驅動（升閘門是為了擋住問題，
+  改文件是為了幫助人），沒有任何機制強制它們同時發生。於是「照著我們的說明做，然後被我們的
+  閘門擋下來」這種狀況可以存在很久而不被任何人發現 — 因為擋下來的人不寫報告，他們只是走開。
+- **實例**：`test-frontmatter.mjs` 的 `subcategory` 檢查 2026-05-04 從警告升成硬性擋下，
+  `CONTRIBUTING.md` §內容撰寫指南的文章結構範本至今沒有 `category` 也沒有 `subcategory`。
+  三個月後的今天，一位貢獻者八個 PR 全部敗在這一項。前一天的 cycle 已經追過一次上游，
+  修掉了「閘門的話送不出去」（fork PR token 唯讀），但那只是根因的下游 — 三個修好之後才
+  送出的 PR 照樣缺同一個欄位。
+- **判準**：REFLEXES 家族已有「修完之後同類問題還能不能安靜地再長出來」這條，本條補的是
+  **誰在執行那條判準**。答案是每天跑一次的 routine：它會在隔天把同一批症狀再送到你面前。
+  一次性 session 拿不到這個訊號，所以 cron 飛輪本身就是根因判斷的儀器。
+- **候選處置**：加一支對賬 — 拿 `CONTRIBUTING.md` 範本自己的 frontmatter 去跑
+  `test-frontmatter.mjs`。已在 PR #1332 對貢獻者提過同樣的建議，但那是給他的建議不是我們的閘門。
+- **vc**: 1
+
+### 2026-08-14 twmd-maintainer-am — sibling-checks-share-one-blind-premise：兩道同族閘門共用同一個前提，於是一起看不見
+
+- **pattern**: `sibling-checks-share-one-blind-premise`
+- **原則**：同一個維度長出多支檢查器時，它們往往共享同一個「輸入長什麼樣」的前提。
+  前提本身錯了的時候，**檢查器數量不提供任何額外保護** — 三支都綠不比一支都綠更可信。
+  這是 REFLEXES #65 same-DNA 的橫向變體：#65 講檢查器跟被檢查物同作者，本條講
+  多個檢查器彼此同作者。
+- **實例**：`footnote-format` 驗 `[^N]:` 定義行的格式，`footnote-density` 數 `[^N]` 引用的
+  數量，兩支都只認 `[^N]` 語法。從 GitHub 網頁複製已渲染文章帶進來的
+  `[1](#user-content-fn-9)` 錨點，兩支同時看不見，於是一篇腳註全是死連結的文章拿到兩個綠燈。
+  掃全庫發現同型已漏進 6 篇 zh SSOT 與譯文共 50 檔，最早的上站數月無人叫過。
+- **候選處置**：新增檢查時問一句「它跟既有的同族檢查共用什麼前提？如果那個前提錯了，
+  誰會叫？」已 ship `gh-footnote-leak`（WARN，存量清完升 HARD）與 `gh-footnote-convert.py`。
+- **vc**: 1
+
 ### 2026-08-14 twmd-feedback-triage — transcription-gates-guard-fidelity-not-consequence：整條轉錄線的閘門都在問「搬得對不對」，沒有一道在問「搬過去會傷到誰」
 
 - **pattern**: `transcription-gates-guard-fidelity-not-consequence`
