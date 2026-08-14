@@ -14,7 +14,7 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
 
-import { Marked } from 'marked';
+import { Marked, marked as globalMarked } from 'marked';
 import { marked } from '../src/utils/marked-cjk.mjs';
 
 test('CJK 句末標點後的收尾 ** 會收成 <strong>', () => {
@@ -54,6 +54,37 @@ test('刻意轉義的星號維持字面（如審查過的書名／粗話）', ()
   const html = marked.parseInline(String.raw`\*\*不是粗體\*\*`);
   assert.equal(html, '**不是粗體**');
   assert.doesNotMatch(html, /<strong>/);
+});
+
+test('不污染 marked 全域單例（設定只活在本站實例裡）', () => {
+  // 2026-08-14 code review：舊版對單例跑 marked.use()，行為變成「誰先 import
+  // 誰決定」的隱性耦合（cli/src/lib/render.js 就對單例跑 markedTerminal()）。
+  // 改用 new Marked() 之後，單例必須維持原廠行為——這條測試就是那個保證。
+  assert.equal(
+    globalMarked.parseInline('**沒有人組織，沒有人指揮。**g0v社群'),
+    '**沒有人組織，沒有人指揮。**g0v社群',
+    '全域 marked 單例被污染了：設定應該只在 marked-cjk.mjs 的實例上',
+  );
+});
+
+test('標題走 tokens 解析，不把 ** 印進 <h2>，且 id 仍由原文計算', () => {
+  // 對照 article-render.ts / semiont-*.ts 的 renderer.heading 修正：
+  // marked 的 `text` 是未解析原文，直接吐會讓 `**` 出現在標題裡（全站 25 頁）。
+  // id 的推導刻意與 article-render.ts 逐字一致——錨點不能因為這個修正而變。
+  const renderer = new marked.Renderer();
+  renderer.heading = function ({ text, tokens, depth }) {
+    const id = text
+      .toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w\u4e00-\u9fff-]/g, '')
+      .slice(0, 60);
+    return `<h${depth} id="${id}">${this.parser.parseInline(tokens)}</h${depth}>`;
+  };
+  const html = marked.parse('## **公民科技**：火力展示\n', { renderer });
+  assert.match(html, /<strong>公民科技<\/strong>/);
+  assert.doesNotMatch(html, /\*\*/);
+  // id 由原文算：星號與全形冒號被 strip，錨點與修正前相同
+  assert.match(html, /id="公民科技火力展示"/);
 });
 
 test('非 CJK 輸入行為不變', () => {
