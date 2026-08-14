@@ -38,10 +38,12 @@ on:
     types: [opened, synchronize, reopened]
     branches: [main]
     paths:
+      - 'CONTRIBUTING.md'
       - 'knowledge/**'
       - 'scripts/core/test-frontmatter.mjs'
       - 'scripts/tools/article-health.py'
       - 'scripts/tools/lib/article_health/**'
+      - 'tests/contributor-frontmatter-template.test.mjs'
       - '.github/workflows/pr-frontmatter-gate.yml'
 
 permissions:
@@ -70,6 +72,9 @@ jobs:
 
       - name: Install dependencies (gray-matter for test-frontmatter)
         run: npm ci --prefer-offline --no-audit
+
+      - name: Validate contributor frontmatter template
+        run: node --test tests/contributor-frontmatter-template.test.mjs
 
       # article-health.py 是純 stdlib，不需 pip install；ubuntu-latest 內建 python3
 
