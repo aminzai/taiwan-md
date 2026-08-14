@@ -39,7 +39,7 @@ No es porque los taiwaneses amen especialmente las motocicletas. Es porque el de
 
 ## No es una elección, es la única opción
 
-Taipéi tiene [metro]([[台灣捷運發展史|歷史捷運發展史]]), con una red que superaba los 131 km en 2025. ¿Pero fuera de Taipéi? Taichung no tuvo su primera línea de metro hasta 2021. Tainan y Hsinchu siguen sin transporte ferroviario. Las dos líneas del metro de Kaohsiung juntas mueven menos de 200 000 pasajeros diarios, y el último tramo entre las estaciones sigue dependiendo de la motocicleta.
+Taipéi tiene [[台灣捷運發展史|metro]], con una red que superaba los 131 km en 2025. ¿Pero fuera de Taipéi? Taichung no tuvo su primera línea de metro hasta 2021. Tainan y Hsinchu siguen sin transporte ferroviario. Las dos líneas del metro de Kaohsiung juntas mueven menos de 200 000 pasajeros diarios, y el último tramo entre las estaciones sigue dependiendo de la motocicleta.
 
 Esa es la verdadera causa de la densidad de motocicletas en Taiwán: no es una preferencia cultural, es una brecha de infraestructura. Taipéi tiene unas 400 motocicletas por cada mil habitantes, la cifra más baja de toda la isla. En Pingtung, Yunlin y Chiayi, la proporción se dispara a más de 800 por mil: allí, un autobús puede tardar 40 minutos, mientras que en moto llegas al pueblo en cinco.
 
@@ -106,7 +106,7 @@ La realidad es que, de las 700 000 motocicletas nuevas registradas en 2025, la p
 
 ## El abuelo del taller de la esquina
 
-Casi en cada esquina de Taiwán hay un taller de motocicletas. No son solo lugares de reparación: en la época en que no existían [tiendas de conveniencia]([[台灣便利商店文化|cultura de las tiendas de conveniencia]]), los talleres eran centros de transporte comunitario, núcleos de chismorreo y, ocasionalmente, aparcamientos improvisados para los niños del vecindario.
+Casi en cada esquina de Taiwán hay un taller de motocicletas. No son solo lugares de reparación: en la época en que no existían [[台灣便利商店文化|tiendas de conveniencia]], los talleres eran centros de transporte comunitario, núcleos de chismorreo y, ocasionalmente, aparcamientos improvisados para los niños del vecindario.
 
 La mayoría de estos talleres son negocios de una sola persona o de una pareja, que viven del mantenimiento de vehículos de combustión. El impacto de la electrificación es directo: una motocicleta eléctrica casi no necesita mantenimiento tradicional —sin aceite, sin bujías, sin correas—. Una Gogoro vuelve al servicio técnico oficial con mucha menos frecuencia que una KYMCO GP 125.
 

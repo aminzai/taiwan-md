@@ -127,4 +127,4 @@ Hagamos números:
 - Sin un punto de referencia unificado, la desinformación es difícil de verificar rápidamente.
 - La historia de Taiwán será contada por otros.
 
-\*\*Riesgo de SÍ
+**Riesgo de SÍ**

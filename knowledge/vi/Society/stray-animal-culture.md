@@ -367,7 +367,7 @@ Sự thật là, hai bên không phải khối thống nhất.
 
 Báo cáo năm 2023 của PanSci đặt sự đối lập này vào góc nhìn của PanSci:
 
-> **"Trên sân chiến phức tạp của vấn đề này, các nhóm bảo vệ động vật và bảo tồn thiên nhiên dường như lâu lắm vẫn cứ tranh đua. Nhưng nếu bỏ qua khung lập trường nhị phân, hai bên thực tế đều là những người quan tâm đến động vật.**Nhiều năm tranh luận theo các con đường khác nhau để tình huống hoàn toàn bế tắc, cả hai bên ngày càng cực đoan hơn."[^8]
+> **"Trên sân chiến phức tạp của vấn đề này, các nhóm bảo vệ động vật và bảo tồn thiên nhiên dường như lâu lắm vẫn cứ tranh đua. Nhưng nếu bỏ qua khung lập trường nhị phân, hai bên thực tế đều là những người quan tâm đến động vật.** Nhiều năm tranh luận theo các con đường khác nhau để tình huống hoàn toàn bế tắc, cả hai bên ngày càng cực đoan hơn."[^8]
 
 PanSci trích một phép so sánh: "**Bộ Nông nghiệp cứ như sâu rơi vào bài toán xe điện! Rõ ràng lâu rồi vấn đề chó hoang đã vượt quá bài toán khoa học, trở thành bài toán chính trị**."[^8]
 

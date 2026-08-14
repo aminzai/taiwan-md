@@ -15,7 +15,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
 import matter from 'gray-matter';
-import { marked } from 'marked';
+import { marked } from '../utils/marked-cjk.mjs';
 
 // ── Types ──────────────────────────────────────────────
 
@@ -84,13 +84,15 @@ const ROOM_ORDER: Record<string, number> = {
 function createRenderer(): marked.Renderer {
   const renderer = new marked.Renderer();
 
-  renderer.heading = ({ text, depth }) => {
+  // tokens → parseInline（同 article-render.ts）：`text` 是未解析原文，
+  // 直接吐會把 `**` 印在標題裡。id 仍取原文，錨點不變。
+  renderer.heading = function ({ text, tokens, depth }) {
     const id = text
       .toLowerCase()
       .replace(/\s+/g, '-')
       .replace(/[^\w一-鿿-]/g, '')
       .slice(0, 60);
-    return `<h${depth} id="${id}">${text}</h${depth}>\n`;
+    return `<h${depth} id="${id}">${this.parser.parseInline(tokens)}</h${depth}>\n`;
   };
 
   renderer.link = ({ href, title, text }) => {

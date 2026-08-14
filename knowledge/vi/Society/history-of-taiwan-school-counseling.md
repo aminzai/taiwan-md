@@ -115,7 +115,7 @@ Các nhà nghiên cứu trong luận văn đề xuất bốn đề xuất, mỗi
 
 **Thứ ba, xây dựng chỉ tiêu đo lường năng lực và kết quả phát triển toàn người của học sinh.** Mô hình quốc gia ASCA vào năm 2014 rõ ràng định nghĩa một tập hợp các chỉ tiêu có thể đo lường năng lực hoặc kết quả phát triển của học sinh trong ba khía cạnh cá nhân/xã hội, học tập và nghề nghiệp. Đài Loan hiện chưa tích lũy được sự thống nhất về nội dung năng lực chuyên môn của giáo viên tư vốn trường học[^2].
 
-**Thứ tư, nhấn mạnh vào bồi dưỡng năng lực chuyên môn của giáo viên tư vốn trường học.** Đài Loan hiện chưa thực sự thu hút được sự công nhận từ các bên liên quan về chất lượng và hiệu quả của chương trình tư vốn trường học, cũng thiếu sự thống nhất xây dựng tiêu chuẩn năng lực chuyên môn của giáo viên tư vốn trường học trong nước, còn cách tiếp cận chương trình đào tạo chuyên ngành tư vốn trường học vẫn còn xa lạh.\*\*
+**Thứ tư, nhấn mạnh vào bồi dưỡng năng lực chuyên môn của giáo viên tư vốn trường học.** Đài Loan hiện chưa thực sự thu hút được sự công nhận từ các bên liên quan về chất lượng và hiệu quả của chương trình tư vốn trường học, cũng thiếu sự thống nhất xây dựng tiêu chuẩn năng lực chuyên môn của giáo viên tư vốn trường học trong nước, còn cách tiếp cận chương trình đào tạo chuyên ngành tư vốn trường học vẫn còn xa lạh.
 
 Vào năm 2025, khảo sát chuyên đề của Tạp chí thanh niên và Hội mạn dục tâm lý trẻ em và thanh niên Đài Loan phát hiện, 1,3% học sinh trung học cơ sở và trung học phổ thông bị xâm hại bởi việc lộ ra hình ảnh riêng tư bị xuất khẩu. Các học sinh này có nguy cơ tự sướng là 5,16 lần so với bình thường[^4]. Vấn đề sức khỏe tâm lý của trẻ em đang xấu hóa với tốc độ nhanh hơn so với việc xây dựng hệ thống.
 

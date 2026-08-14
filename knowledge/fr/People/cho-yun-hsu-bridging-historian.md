@@ -172,31 +172,31 @@ Hsu Cho-yun a laissé près de quarante ouvrages de sa vie, couvrant l'histoire 
 
 **(I) Introduction : Grande histoire de la Chine pour les civils**
 
-- ** _Fleuves éternels : Les tournants et le développement de l'histoire et de la culture chinoises_ (2006, Hansheng)**[^40] : Son œuvre la plus largement diffusée. Perspective du long cours de la diffusion et de la contraction de la civilisation, on y lit une histoire de la culture chinoise sans frontières dynastiques en 270 000 caractères.
+- **_Fleuves éternels : Les tournants et le développement de l'histoire et de la culture chinoises_ (2006, Hansheng)**[^40] : Son œuvre la plus largement diffusée. Perspective du long cours de la diffusion et de la contraction de la civilisation, on y lit une histoire de la culture chinoise sans frontières dynastiques en 270 000 caractères.
 
 **(II) Avancé : Les frontières intérieures et extérieures de la civilisation**
 
-- ** _Moi et l'Autre : Les frontières intérieures et extérieures dans l'histoire de la Chine_ (2009, Times Culture)**[^44] : Traite des questions d'identité chinoise, cadre de six systèmes.
-- ** _Discours Huaxia : Les changements d'une communauté complexe_ (2015, Presses de l'Université normale du Guangxi)**[^46] : Définition processuelle de la « Chine », entrelacement de quatre variables : pouvoir, économie, société, culture.
-- ** _Jingwei Huaxia_ (version augmentée de 2024 aux Presses Sanlian de Hong Kong)**[^47] : Huit révisions, élargissement de la perspective « du continent vers l'océan ».
+- **_Moi et l'Autre : Les frontières intérieures et extérieures dans l'histoire de la Chine_ (2009, Times Culture)**[^44] : Traite des questions d'identité chinoise, cadre de six systèmes.
+- **_Discours Huaxia : Les changements d'une communauté complexe_ (2015, Presses de l'Université normale du Guangxi)**[^46] : Définition processuelle de la « Chine », entrelacement de quatre variables : pouvoir, économie, société, culture.
+- **_Jingwei Huaxia_ (version augmentée de 2024 aux Presses Sanlian de Hong Kong)**[^47] : Huit révisions, élargissement de la perspective « du continent vers l'océan ».
 
 **(III) Œuvres représentatives académiques : Sciences sociales entrant dans l'histoire de la Chine**
 
-- ** _Histoire de la dynastie Zhou occidentale_ (Lianjing, 1984, 2e éd. 1986, révisée 3e éd. 1990/1993, version augmentée aux Presses Sanlian de Pékin 1994, nouvelle version augmentée 2020 Lianjing)**[^21] : Étude de l'origine de la construction de la conscience « Huaxia » par les groupes de parenté.
-- ** _Agriculture de la dynastie Han_ (version anglaise aux Presses de l'Université de Washington, 1980, traduite ensuite en _Agriculture de la dynastie Han : La formation de l'économie paysanne de la Chine ancienne_)**[^19] : Reconstruction quantitative de la vie paysanne de la dynastie Han, réseaux économiques de marché.
-- ** _Essais sur l'histoire sociale de la Chine ancienne_ (version anglaise _Ancient China in Transition_ 1965 Stanford University Press)**[^16] : Réécriture de la thèse de doctorat, analyse quantitative de la mobilité sociale à l'époque des Printemps et Automnes et des Royaumes combattants, qualifié de « a little classic » par John K. Fairbank.
-- ** _Qiu Gu Bian_ (Lianjing, 1982)**[^20] : Évolution du système des fonctionnaires central/local de l'Antiquité aux Qin et Han.
+- **_Histoire de la dynastie Zhou occidentale_ (Lianjing, 1984, 2e éd. 1986, révisée 3e éd. 1990/1993, version augmentée aux Presses Sanlian de Pékin 1994, nouvelle version augmentée 2020 Lianjing)**[^21] : Étude de l'origine de la construction de la conscience « Huaxia » par les groupes de parenté.
+- **_Agriculture de la dynastie Han_ (version anglaise aux Presses de l'Université de Washington, 1980, traduite ensuite en _Agriculture de la dynastie Han : La formation de l'économie paysanne de la Chine ancienne_)**[^19] : Reconstruction quantitative de la vie paysanne de la dynastie Han, réseaux économiques de marché.
+- **_Essais sur l'histoire sociale de la Chine ancienne_ (version anglaise _Ancient China in Transition_ 1965 Stanford University Press)**[^16] : Réécriture de la thèse de doctorat, analyse quantitative de la mobilité sociale à l'époque des Printemps et Automnes et des Royaumes combattants, qualifié de « a little classic » par John K. Fairbank.
+- **_Qiu Gu Bian_ (Lianjing, 1982)**[^20] : Évolution du système des fonctionnaires central/local de l'Antiquité aux Qin et Han.
 
 **(IV) Autobiographie et pensée de vieillesse**
 
-- ** _Parcours du cœur_ (1964, Wenxing / 1979 Biographie littéraire / 2015 Université de Xiamen)**[^50] : Autobiographie de jeunesse à 34 ans, le parcours intellectuel de Xiamen à Taipei à Chicago.
-- ** _Soixante ans de vicissitudes en Amérique : Les observations d'un Chinois_ (2019, Lianjing)**[^51] : Ses observations de sa demi-siècle de vie aux États-Unis et son diagnostic de la société américaine.
-- ** _Aller vers l'intérieur, s'apaiser soi-même_ (2022, Presses du Journal de Pékin, en collaboration avec Feng Jun-wen)**[^52] : Notes de pensée à 89 ans, un livre d'apaisement pour une époque turbulente.
+- **_Parcours du cœur_ (1964, Wenxing / 1979 Biographie littéraire / 2015 Université de Xiamen)**[^50] : Autobiographie de jeunesse à 34 ans, le parcours intellectuel de Xiamen à Taipei à Chicago.
+- **_Soixante ans de vicissitudes en Amérique : Les observations d'un Chinois_ (2019, Lianjing)**[^51] : Ses observations de sa demi-siècle de vie aux États-Unis et son diagnostic de la société américaine.
+- **_Aller vers l'intérieur, s'apaiser soi-même_ (2022, Presses du Journal de Pékin, en collaboration avec Feng Jun-wen)**[^52] : Notes de pensée à 89 ans, un livre d'apaisement pour une époque turbulente.
 
 **(V) Vulgarisation et interviews**
 
-- ** Série _Hsu Cho-yun dit l'histoire_ (5 volumes)**[^53] : Version vulgarisée de la grande histoire.
-- ** _Dix jours de conversation avec Hsu Cho-yun : La configuration du monde actuel et l'avenir de l'humanité_ (Presses Sanlian de Hong Kong)**[^54] : Synthèse de sa pensée sur la configuration du monde dans sa vieillesse.
+- **Série _Hsu Cho-yun dit l'histoire_ (5 volumes)**[^53] : Version vulgarisée de la grande histoire.
+- **_Dix jours de conversation avec Hsu Cho-yun : La configuration du monde actuel et l'avenir de l'humanité_ (Presses Sanlian de Hong Kong)**[^54] : Synthèse de sa pensée sur la configuration du monde dans sa vieillesse.
 
 📝 **Si vous ne devez en lire qu'un : commencez par _Fleuves éternels_.** Si vous voulez comprendre sa méthodologie historique : la préface de la nouvelle version augmentée de _Histoire de la dynastie Zhou occidentale_ est plus puissante que le livre lui-même. Si vous voulez comprendre sa vision globale de la Chine : _Moi et l'Autre_ est le plus condensé. Si vous voulez comprendre cet homme : lisez _Parcours du cœur_ et _Aller vers l'intérieur, s'apaiser soi-même_ ensemble.
 

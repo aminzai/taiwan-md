@@ -126,6 +126,6 @@ La gastronomía de Tainan no es una simple reunión de platos ricos. Es el siste
 - [¿Cómo puede el salteado de anguila llamarse sincero? — Independent Review @天下](https://opinion.cw.com.tw/blog/profile/194/article/8595)
 - [Crónica gastronómica de Tainan: El clásico fideo con anguila de Sakariiba ● Liao — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
 - [El Wujiaogang de la era Qing en Tainan ya no existe; calles históricas preservan el legado del puerto — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
-- [Cultura y mapa de la sopa de ter</strong>ter\*\* de Tainan](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
+- [Cultura y mapa de la sopa de ternera de Tainan](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
 - [¡El vermicelli con corazón de cerdo de A-ming que lleva vendiéndose casi 70 años! Prepárate para la fila — ETtoday Travel](https://travel.ettoday.net/article/2931941.htm)
 - [A-ming Pork Heart Vermicelli, recomendado por Michelin Bib Gourmand｜El puesto más popular de la calle Baoan — Bonnie's Food Talk](https://foodieteller.com/amin-pig-heart/)

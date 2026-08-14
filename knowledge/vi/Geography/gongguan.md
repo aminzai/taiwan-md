@@ -153,13 +153,13 @@ Sau khi Thái Anh Văn qua đời năm 1969, các sinh viên của ông Trương
 
 Điểm bắt đầu của sự kiện là **ngày 4 tháng 12 năm 1972**[^6].
 
-Vào ngày ấy, "hội thảo quốc gia" của hội sinh viên Đại học được tổ chức, thảo luận về một bài báo "tiếng nói của một công dân nhỏ" (đặt tên là "Bóng độc tác" - một bài viết được xem là được chính phủ Nhân dân Trung Hoa chỉ thị). Trưởng bộ môn Triết học **Trương Ngọc Ấn** phản đối mạnh mẽ với bài viết, bị **sinh viên lớp hai của viện nghiên cứu Triết học **Phạm Hù** phản bác[^6]. Trương Ngọc Ấn công khai chỉ trích Phạm Hù là "**một sinh viên chuyên nghiệp**" - tức là một sinh viên được sắp xếp bởi các đơn vị điều tra để giám sát sinh viên. Sinh viên lớp năm cuối **Trần Kiếnnhất\*\* đã tế ngũ Trương Ngọc Ấn ngay lập tức.
+Vào ngày ấy, "hội thảo quốc gia" của hội sinh viên Đại học được tổ chức, thảo luận về một bài báo "tiếng nói của một công dân nhỏ" (đặt tên là "Bóng độc tác" - một bài viết được xem là được chính phủ Nhân dân Trung Hoa chỉ thị). Trưởng bộ môn Triết học **Trương Ngọc Ấn** phản đối mạnh mẽ với bài viết, bị sinh viên lớp hai của viện nghiên cứu Triết học **Phạm Hù** phản bác[^6]. Trương Ngọc Ấn công khai chỉ trích Phạm Hù là "**một sinh viên chuyên nghiệp**" - tức là một sinh viên được sắp xếp bởi các đơn vị điều tra để giám sát sinh viên. Sinh viên lớp năm cuối **Trần Kiếnnhất** đã tế ngũ Trương Ngọc Ấn ngay lập tức.
 
 Phạm Hù đã khiếu nại với Hiệu trưởng **Nguyễn Văn Hùng**. Văn phòng Dịch vụ Hướng dẫn của Đại học đã yêu cầu trưởng bộ môn Triết học **Trần Kiếnnhất** hủy bỏ chức vụ giáo viên hướng dẫn của Trương Ngọc Ấn, và Trần Kiếnnhất cũng bị xử phạt vì lý do "phát tán nghi ngờ đối với sinh viên" một lần[^6].
 
 **Giai đoạn thứ hai: ngày 12 tháng 2 năm 1973**[^6].
 
-Trần Kiếnnhất và sinh viên viện nghiên cứu nhân sinh **Trương Đạo Linh** bị bắt giữ bởi Bộ Tổng hợp. **Ngày hôm sau (ngày 13 tháng 2)**, Bộ Tổng hợp đã kiểm tra ngôi nhà của Trương Ngọc Ấn. Giảng viên bộ môn Triết học **Trương Ngọc Ấn** và giảng viên **Văn Minh Bảo** bị bắt giữ bởi Tổng hợp với tội danh "**phát tán cho người khác**"\*\*. Dù Trương Ngọc Ấn và Văn Minh Bảo sau đó đã được giải phóng bởi Hiệu trưởng Đại học Đài Loan, nhưng Trương Ngọc Ấn không được thăng chức sau khi kết thúc học kỳ, và Văn Minh Bảo cũng không được gia hạn từ tháng 6 năm 1974[^6].
+Trần Kiếnnhất và sinh viên viện nghiên cứu nhân sinh **Trương Đạo Linh** bị bắt giữ bởi Bộ Tổng hợp. **Ngày hôm sau (ngày 13 tháng 2)**, Bộ Tổng hợp đã kiểm tra ngôi nhà của Trương Ngọc Ấn. Giảng viên bộ môn Triết học **Trương Ngọc Ấn** và giảng viên **Văn Minh Bảo** bị bắt giữ bởi Tổng hợp với tội danh "**phát tán cho người khác**". Dù Trương Ngọc Ấn và Văn Minh Bảo sau đó đã được giải phóng bởi Hiệu trưởng Đại học Đài Loan, nhưng Trương Ngọc Ấn không được thăng chức sau khi kết thúc học kỳ, và Văn Minh Bảo cũng không được gia hạn từ tháng 6 năm 1974[^6].
 
 **Giai đoạn thứ ba: bắt đầu từ tháng 6 năm 1973**[^6].
 

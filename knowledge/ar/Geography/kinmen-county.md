@@ -215,11 +215,11 @@ translatedAt: '2026-08-06T07:38:36+08:00'
 
 5 صور داخلية:
 
-- **§من كينمن تنظر إلى شيامن**: \*\*[برج جو-قوانغ، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:Juguang_Tower,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09. برج جو-قوانغ خارج البوابة الشمالية لبلدة جينتشينغ، بني 1952 على طراز القصور.
-- **§الخامسة والنصف مساءً (فقرة 23 أغسطس)**: \*\*[نفق جيا-شان، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:Jhaishan_Tunnel,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09. نفق جيا-شان، اكتمل الحفر 1961-1965.
-- **§أربعة أحرف 1387 (فقرة تجمع شان-هو)**: \*\*[قرية كينمن الثقافية، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:The_Kinmen_cultural_village,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09. قرية شان-هو الثقافية الشعبية.
-- **§أربعة أحرف 1387 (فقرة شارع موفان)**: \*\*[شارع مو-فان، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:Mo_fan_Street,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09-21. شارع موفان في كينمن، بني 1924 على يد مغتربين عائدين.
-- **§أربعة أحرف 1387 (فقرة إله الأسد الريحي)**: \*\*[إله الأسد الريحي في كينمن](https://commons.wikimedia.org/wiki/File:Wind_Lion_God_in_Kimmen_DSC_3309.jpg) — تصوير: P95521708، CC BY-SA 4.0، 2018-06-06. إله الأسد الريحي في كينمن، أسود حجرية في مداخل القرى لكبح شر الرياح.
+- **§من كينمن تنظر إلى شيامن**: [برج جو-قوانغ، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:Juguang_Tower,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09. برج جو-قوانغ خارج البوابة الشمالية لبلدة جينتشينغ، بني 1952 على طراز القصور.
+- **§الخامسة والنصف مساءً (فقرة 23 أغسطس)**: [نفق جيا-شان، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:Jhaishan_Tunnel,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09. نفق جيا-شان، اكتمل الحفر 1961-1965.
+- **§أربعة أحرف 1387 (فقرة تجمع شان-هو)**: [قرية كينمن الثقافية، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:The_Kinmen_cultural_village,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09. قرية شان-هو الثقافية الشعبية.
+- **§أربعة أحرف 1387 (فقرة شارع موفان)**: [شارع مو-فان، كينمن، تايوان](https://commons.wikimedia.org/wiki/File:Mo_fan_Street,_Kinmen,_Taiwan.JPG) — تصوير: (WT-shared) Shoestring، CC BY-SA 4.0، 2009-09-21. شارع موفان في كينمن، بني 1924 على يد مغتربين عائدين.
+- **§أربعة أحرف 1387 (فقرة إله الأسد الريحي)**: [إله الأسد الريحي في كينمن](https://commons.wikimedia.org/wiki/File:Wind_Lion_God_in_Kimmen_DSC_3309.jpg) — تصوير: P95521708، CC BY-SA 4.0، 2018-06-06. إله الأسد الريحي في كينمن، أسود حجرية في مداخل القرى لكبح شر الرياح.
 
 شروط الترخيص: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**.
 

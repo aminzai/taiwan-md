@@ -42,6 +42,13 @@ staged_files=$(git diff --cached --name-only)
 # staged_any 在下面的 language registry sync check（第一個消費者）之前就要有值；
 # 原本只在檔案末段的憑證掃描前才賦值，那個 check 因此永遠拿到空字串。
 staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR 2>/dev/null || true)
+
+# Parser/config changes must preserve the CJK-aware GFM contract locally,
+# before CI. Article edits themselves need no special lint: the parser handles
+# valid CJK-adjacent emphasis at render time.
+if echo "$staged_any" | grep -qE '^(astro\.config\.mjs|package(-lock)?\.json|tests/markdown-cjk\.test\.mjs)$'; then
+  npm run test:markdown || exit 1
+fi
 if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then
   python3 scripts/tools/memory-index-lint.py || exit 1
 fi

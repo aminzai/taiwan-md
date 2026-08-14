@@ -49,7 +49,7 @@ Trước khi chữ Hán đến Đài Loan, những bài thơ đã vang lên tạ
 
 Hình thức văn học sớm nhất của Đài Loan là văn học truyền miệng của các dân tộc nói tiếng Austronesia — thần thoại, truyền thuyết, các bài hát lễ nghi, những bài hát lao động. Những tiếng nói được truyền lại qua các thế hệ này là dòng máu mẹ của văn học Đài Loan, cũng là kho tàng văn học bị đánh giá thấp nhất.
 
-**Bài *Sáng tạo* của dân tộc Thái Uyên nói rằng trái đất bắt đầu từ một hạt giống, bài hát *Tám tầng hòa âm* của dân tộc Bố Nông để cho tiếng nói xếp chồng lên nhau như những thung lũng. **Bài _Truyền thuyết Cổ lâu_ của dân tộc Bạch Linh ghi lại lịch sử vinh quang của các vị cộng chủ và những chiến binh, bài hát _Lễ biển_ của dân tộc Á Mỹ vừa là lời tôn vinh cho Thái Bình Dương, vừa là sự suy tư sâu sắc về vòng tuần hoàn sinh tử.
+**Bài _Sáng tạo_ của dân tộc Thái Uyên nói rằng trái đất bắt đầu từ một hạt giống, bài hát _Tám tầng hòa âm_ của dân tộc Bố Nông để cho tiếng nói xếp chồng lên nhau như những thung lũng.** Bài _Truyền thuyết Cổ lâu_ của dân tộc Bạch Linh ghi lại lịch sử vinh quang của các vị cộng chủ và những chiến binh, bài hát _Lễ biển_ của dân tộc Á Mỹ vừa là lời tôn vinh cho Thái Bình Dương, vừa là sự suy tư sâu sắc về vòng tuần hoàn sinh tử.
 
 Những tác phẩm văn học truyền miệng này mang một đặc điểm là "**thơ là cuộc sống, cuộc sống là thơ**" — không có ranh giới giữa sáng tạo và cuộc sống hàng ngày, mỗi lần hát đều là sự tái sinh của văn học. Chúng không chỉ là văn học, mà còn là những người mang vác kiến thức sinh thái, những suy tư triết học và những ký ức xã hội.
 
