@@ -1,11 +1,11 @@
 ---
 title: 'MAINTAINER-PIPELINE'
-description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal) / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
+description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Git merge 優先 (merge-first-then-heal) / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.7'
-last_updated: 2026-08-11
-last_session: '2026-08-11-085813-twmd-maintainer-am'
+current_version: 'v2.6'
+last_updated: 2026-07-23
+last_session: '2026-07-23-214453-idlccp-clownfish-instrument'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -55,7 +55,7 @@ upstream_canonical:
 │            ├── Step 3.3 §Close 前 hard gate「我接手 X min 內可以修嗎」    │
 │            ├── Step 3.4 §Footnote source authority audit                 │
 │            ├── Step 3.5 Polish / Heal commit                             │
-│            ├── Step 3.6 Issue act（判斷→評估→研究→落檔→執行）           │
+│            ├── Step 3.6 Issue act (reply / label / close)                │
 │            │     └── Step 3.6.b [Content] issue act 4-route templates    │
 │            └── Step 3.7 回覆 (gh pr comment / gh issue comment)          │
 │              ↳ 預算 50-60% / Hard gates: 紅旗 + Close + Footnote          │
@@ -168,46 +168,6 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 工具：`scripts/tools/cherry-merge-prs.sh`（**native `gh pr merge` 優先**；fallback 禁止預設 close）。
 
-### 1c. Issue 的 default 是修好，不是分類好（維護者不是分診台）⭐ v2.7
-
-> **哲宇 2026-08-11 directive**：「maintainer 不只要回覆 issue，而是要協助回應、判斷、評估、研究、落檔，然後執行相關的修正與自我進化或是網站更新，這樣才有意義。」
->
-> 觸發：同日 am cycle 收到讀者八則高品質回報，我加了路由 label、補了交叉參照、寫了 handoff——**修好的數字是零**，而六條 quality gate 全過。閘門量的是「有沒有處理」，不是「有沒有解決」。這條原則存在，就是因為當時那六條尺看不出差別。
-
-§1 的 default-action 講的是 **PR**（該 merge 就 merge，不要 close 也不要 defer）。這條是它在 **issue** 側缺的那一半：**issue 進來，default 是把它修掉，不是把它分好類**。
-
-分類是必要的第一步，但停在那裡等於把工作外包給下一個 cycle 的自己——而下一個 cycle 的自己會再分一次類。issue backlog 不會因為 label 齊全而變短。
-
-#### 五步，缺一不可
-
-| 步驟     | 意思                           | 停在這裡的失敗長相                              |
-| -------- | ------------------------------ | ----------------------------------------------- |
-| **回應** | 讓回報者知道被看見了           | 只回應 = 客服，庫存不動                         |
-| **判斷** | 這是真的嗎？重現得出來嗎？     | 照單全收 = 把回報者的診斷當結論（REFLEXES #16） |
-| **評估** | 影響多大？根因在哪一層？       | 只看症狀 = 修了表面，下週原地長回來             |
-| **研究** | 追到上游，找出它為什麼會發生   | 不追 = 每次都從頭再痛一次                       |
-| **落檔** | 寫下判斷依據與否定的路         | 不寫 = 下一個人重跑一次同樣的死路               |
-| **執行** | 真的改掉，並讓它無法安靜地復發 | 不執行 = 前五步都只是很有條理的拖延             |
-
-#### 判準一句話
-
-**cycle 結束時，如果 issue 只是被分類得更整齊，那這個 cycle 沒有產出。**
-
-#### 「追上游」是本條的核心動作
-
-讀者回報的是**症狀**，不是根因。維護者的價值在於把 N 個症狀收斂成 1 個根因，然後修根因。
-
-2026-08-11 的 worked example：讀者 @Pigcasso6 三天送十則回報，看起來是十個各自獨立的 bug（某頁沒翻譯、某按鈕換行、某控件消失、某標點是半形）。往上游追之後，其中五則指向**同一件事**——`src/i18n/*.ts` 這層沒有任何閘門在檢查「這裡的字是不是該語言」。修完根因後，順手撈出兩件讀者沒看到的：ar 的 `/data/` 整段是簡體中文且用中國詞彙，以及 en 區塊裡一句沒翻的正體中文。
-
-**十則回報 → 一個根因 → 一道閘門**。這才是維護者這個角色的槓桿所在；逐則回覆「感謝回報，已記錄」是它的反面。
-
-#### 邊界（哪些仍然不自己修）
-
-- §自主權邊界 命中（政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通）→ reserve，per REFLEXES #79
-- 需要改 zh SSOT 內容實質的（走 REWRITE-PIPELINE，不在 maintainer heal 範圍）
-- 需要對回報者本人說話的（人類 gate，per §外向留言分層）
-- **真的評估過而選擇不做**，且在 memory 裡寫明「為什麼不做」——這跟沒做是兩件事，前者是判斷，後者是省略
-
 ### 2. 策展不是百科
 
 百科全書追求完整性（什麼都要有）。Taiwan.md 追求策展性（選什麼、怎麼說）。
@@ -246,8 +206,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 | pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                         | `.husky/pre-commit`                                                                                    | 不 commit                    |
 | article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                          | `python3 scripts/tools/article-health.py {file} --profile=ci-deploy`（profile 不可省，見 Step 3.5 註） | request changes / heal       |
 | 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                   | manual (日文 PR → 日文 / 韓文 → 韓文)                                                                  | rewrite reply                |
-| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                               | manual checklist 7 條                                                                                  | 不算完成 cycle               |
-| **Issue 有修或有判斷** ⭐ v2.7                   | Stage 3.6   | 有 fresh issue 的 cycle                                  | commit hash 或 memory 裡的不修理由                                                                     | cycle 無產出                 |
+| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                               | manual checklist 6 條                                                                                  | 不算完成 cycle               |
 | memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                               | MEMORY-PIPELINE.md                                                                                     | 失憶 = 下個 cycle 重複       |
 
 ---
@@ -256,13 +215,12 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 > 從 LESSONS-INBOX / memory 抽 ship-then-retract / friction 高的 step。Cycle 開始前主動掃一次。
 
-1. **§1c Issue 要修不是要分類** ⭐ — cycle 結束時 issue 只是被分類得更整齊 = 這個 cycle 沒有產出（2026-08-11 哲宇校正）
-2. **§1b Git merge 優先** ⭐ — 收 PR = `gh pr merge` 先；**禁** content 進 main 後 `gh pr close`（2026-07-23 哲宇校正）
-3. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）
-4. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
-5. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
-6. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑，且**必帶 `--profile=ci-deploy`**（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑。不帶 profile 會漏掉破折號／全形分號硬門檻，回一個 CI 不認的 hard=0）
-7. **Step 3.7 thank-you 用 `gh pr comment` 不是 `--body`** — `gh pr merge --body` 寫進 git log，貢獻者看不到
+1. **§1b Git merge 優先** ⭐ — 收 PR = `gh pr merge` 先；**禁** content 進 main 後 `gh pr close`（2026-07-23 哲宇校正）
+2. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）
+3. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
+4. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
+5. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑，且**必帶 `--profile=ci-deploy`**（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑。不帶 profile 會漏掉破折號／全形分號硬門檻，回一個 CI 不認的 hard=0）
+6. **Step 3.7 thank-you 用 `gh pr comment` 不是 `--body`** — `gh pr merge --body` 寫進 git log，貢獻者看不到
 
 ---
 
@@ -398,6 +356,36 @@ gh run list --limit 5 --workflow="i18n Smoke Test" --json conclusion,status,crea
 ```
 
 **Red flag**：連續 ≥ 2 次 failure on main → CI 壞了 → Stage 3.5 第一個 polish item 是修 CI（per 2026-05-11 PM cycle 教訓：merge 路徑無 build 觸發 + PR-side CI ≠ main deploy CI 是已知 silent gap）。
+
+### Step 1.5b: 每個 open PR 的 CI 有沒有被 arm（2026-08-14 新增）
+
+Step 1.5 查的是 **main** 的 CI 健康。它不會告訴你「**這個 PR** 的 CI 到底有沒有跑過」——而對第一次投稿的 fork contributor，GitHub 預設**一條都不跑**，全部停在 `action_required` 等維護者按「Approve and run workflows」。
+
+```bash
+# 每個 open PR 一行：有幾條 check、有沒有卡在待批准
+for n in $(gh pr list --state open --json number -q '.[].number'); do
+  br=$(gh pr view $n --json headRefName -q .headRefName)
+  pend=$(gh api repos/frank890417/taiwan-md/actions/runs \
+    --jq "[.workflow_runs[] | select(.head_branch==\"$br\" and .conclusion==\"action_required\")] | length")
+  echo "#$n checks=$(gh pr checks $n 2>/dev/null | grep -c . || echo 0) 待批准=$pend"
+done
+```
+
+**判準**：`checks=0` 且 `待批准>0` → 這個 PR **沒有任何 CI 跑過**。批准後再進 Stage 3，不要把「沒有紅燈」讀成「綠燈」。
+
+**為什麼要有這一步**：`gh pr checks` 對這種 PR 回的是「no checks reported on the '<branch>' branch」——那句話讀起來像中性資訊，不像紅旗。維護者很容易在「四條綠、一條沒看到」的印象下 merge，而實際上是「零條跑過」。這是 [REFLEXES #82](../semiont/REFLEXES.md) 存在代理有效的一個變體：**workflow 檔存在 ≠ 這個 PR 的 workflow 有跑**。
+
+**批准指令**（確認 PR 內容無害之後才按，等同讓對方的程式碼在我們的 runner 上跑）：
+
+```bash
+gh api repos/frank890417/taiwan-md/actions/runs --jq \
+  '.workflow_runs[] | select(.head_branch=="<branch>" and .conclusion=="action_required") | .id' \
+  | while read id; do gh api -X POST "repos/frank890417/taiwan-md/actions/runs/$id/approve"; done
+```
+
+⚠️ **重跑不會套用新的 workflow**：`gh run rerun` 沿用當初那次的 workflow 快照。如果你在 base 上修了 workflow 才想讓這個 PR 重驗，得有**新的 PR 事件**（新 commit / reopen）才會生效。2026-08-14 PR #1336 踩過：base 修好了、rerun 三次都還是舊行為。
+
+**觸發**：2026-08-14 PR #1336（唐鳳，首次投稿）五條 workflow 全停在 `action_required`，審查跑到一半才發現這個 PR 從頭到尾沒有任何 CI。本 pipeline 當時沒有任何一步會問這件事。
 
 ---
 
@@ -938,42 +926,13 @@ gh pr merge <new-PR> --squash --delete-branch  # maintainer 自己 PR 可 auto-m
 - 不 force-push 到 main（per ROUTINE.md deny list）
 - pre-commit hook 全過後才 push（不 `--no-verify` 除非命中 pre-existing 紅旗與本 commit 無關 + 明寫 commit message）
 
-### Step 3.6: Issue act（判斷 → 評估 → 研究 → 落檔 → 執行）⭐ v2.7
+### Step 3.6: Issue act（reply / label / close）
 
-> ⚠️ **本 step 在 v2.7 之前叫「reply / label / close」，那個名字本身就是病灶**：它把 issue 描述成待路由的郵件，而不是待解決的問題。改名不是修辭，是把 §1c 的五步變成這一步的實際形狀。
-
-對每個 Stage 2.1 分類的 issue，**先跑分流，再跑處置**。
-
-#### 分流：這則 issue 我這個 cycle 能不能修掉？
-
-| 判斷                             | 動作                                                                |
-| -------------------------------- | ------------------------------------------------------------------- |
-| **能重現 + 修法明確 + < 30 min** | **本 cycle 修掉**，commit + close + 附 commit hash                  |
-| **能重現 + 根因在別層**          | 追上游（見下），修根因；症狀 issue 全部連帶 close                   |
-| **重現不出來**                   | 說明試過什麼、環境為何、需要什麼補充資訊——不要只留「無法重現」      |
-| **修得動但 > 30 min**            | 拆：本 cycle 先修可切出來的那塊，剩下留明確 handoff（不是整則丟掉） |
-| **命中 §自主權邊界**             | reserve，附 options + 成本 + 推薦 default（per §Step 4.4 特例）     |
-| **評估後決定不做**               | close + 寫明為什麼不做——**這是判斷，不是省略**                      |
-
-#### 追上游（多則症狀 → 一個根因）
-
-收到 ≥ 2 則指向同一表面的回報時，**先不要逐則修**，問一句：
-
-> 「這幾則是不是同一個地方破的？那個地方為什麼沒有東西在守？」
-
-命中的話，處置順序是 **修根因 → 補閘門 → 連帶 close 所有症狀 issue**，而不是逐則打補丁。判準：如果修完之後同類問題還能安靜地再長出來，那就還沒修到根因。
-
-#### 修完之後必做的兩件事
-
-1. **補上讓它無法安靜復發的東西**——閘門、測試、lint、CI step。沒有這一步，同一則 issue 會在三個月後換一個號碼回來
-2. **驗證是真的好了**，不是「我改了所以應該好了」。UI 改動就真的開瀏覽器看一眼；資料改動就對一次 ground truth。**改完不看 = 只完成了一半**（REFLEXES #69 外部尺）
-
-#### 回覆的內容分層
+對每個 Stage 2.1 分類的 issue：
 
 - **接受**：具體說明做了什麼改動，感謝貢獻
 - **拒絕**：先肯定投稿的努力 → 說明具體原因 → 提供替代方案
 - **入 backlog**：先 reply 告知會處理 + 標 label + 入 ARTICLE-INBOX 或 Discussion
-- **修好了**：附 commit hash + 一句人話說改了什麼 + 若有補閘門也講（讓回報者看見他的回報變成了結構）
 
 #### 回覆 issue 必附 commit hash
 
@@ -1218,19 +1177,14 @@ git push origin main
 
 對應 [ROUTINE.md §TWMD maintainer quality_gate](../semiont/ROUTINE.md)，cycle memory 必紀錄：
 
-| 指標                                                                                                                                                                                                                                             | 通過標準                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| 完整走完 MAINTAINER-PIPELINE                                                                                                                                                                                                                     | ✅ Stage 1-4 全跑                                        |
-| PR 分流按 §collect-and-merge                                                                                                                                                                                                                     | ✅ A/B 兩類嚴格執行                                      |
-| routine PR backlog ≤ 3                                                                                                                                                                                                                           | ⚠️ > 3 = 紅燈（可能 routine 自己有問題）                 |
-| broken-link gated ratio < 7%（REFLEXES #52，threshold canonical 在 `verify_internal_links.py` THRESHOLD_PERCENT，2026-06-10 校準；此表原寫 1% 是 stale 值，2026-08-06 routine 薄殼化體檢對照 ROUTINE.md §TWMD maintainer quality_gate 抓到並修） | ⏭️ 結構性 backlog 可 skip（標記給觀察者）                |
-| build green                                                                                                                                                                                                                                      | alternate cycles 跑 / 緊急時 priority skip               |
-| 本 cycle merge 的 PR 都過 hard gate                                                                                                                                                                                                              | ✅ A + B 路徑都過紅旗 + CI + close-hard-gate             |
-| **有 fresh issue 的 cycle，至少有一件被實際修掉，或明確寫出為什麼不修** ⭐ v2.7                                                                                                                                                                  | ✅ 有 commit hash 或有寫明判斷／❌ 全部只加 label 就收工 |
-
-> **最後一條為什麼存在**：2026-08-11 am cycle 收到八則讀者回報，加了六個路由 label、補了兩則交叉參照、開了一則新 issue、寫了完整 handoff——**修好的數字是零**，而當時的六條 gate 全部打勾。閘門量得到「有沒有處理」，量不到「有沒有解決」，所以那個 cycle 看起來很健康。這條補的就是那個差別（per §1c）。
->
-> 「明確判斷不修」是合法的通過條件，但理由要寫進 memory；**沉默地沒修不算**。
+| 指標                                                                                                                                                                                                                                             | 通過標準                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| 完整走完 MAINTAINER-PIPELINE                                                                                                                                                                                                                     | ✅ Stage 1-4 全跑                            |
+| PR 分流按 §collect-and-merge                                                                                                                                                                                                                     | ✅ A/B 兩類嚴格執行                          |
+| routine PR backlog ≤ 3                                                                                                                                                                                                                           | ⚠️ > 3 = 紅燈（可能 routine 自己有問題）     |
+| broken-link gated ratio < 7%（REFLEXES #52，threshold canonical 在 `verify_internal_links.py` THRESHOLD_PERCENT，2026-06-10 校準；此表原寫 1% 是 stale 值，2026-08-06 routine 薄殼化體檢對照 ROUTINE.md §TWMD maintainer quality_gate 抓到並修） | ⏭️ 結構性 backlog 可 skip（標記給觀察者）    |
+| build green                                                                                                                                                                                                                                      | alternate cycles 跑 / 緊急時 priority skip   |
+| 本 cycle merge 的 PR 都過 hard gate                                                                                                                                                                                                              | ✅ A + B 路徑都過紅旗 + CI + close-hard-gate |
 
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 
@@ -1365,10 +1319,6 @@ Branch protection：需 1 approval，`enforce_admins: false`。目前策略：�
 > **「先 merge，再 heal。」** — Git merge 優先。Close 不是收割。
 
 ---
-
-\_v2.7 | 2026-08-11 twmd-maintainer-am — **§1c「Issue 的 default 是修好，不是分類好」升核心原則**，補上 §1 default-action 只講 PR 沒講 issue 的那一半。同波：Step 3.6 從「reply / label / close」改名並重寫為「判斷 → 評估 → 研究 → 落檔 → 執行」五步 + 追上游（多則症狀收斂成一個根因）+ 修完必補閘門與必驗證；Quality gate 從 6 條升 7 條（有 fresh issue 的 cycle 至少要有一件被修掉或明確判斷不修）；Hard Gate Inventory + Top-N + ASCII spine 同步。
-
-誕生：哲宇 directive「maintainer 不只要回覆 issue，而是要協助回應、判斷、評估、研究、落檔，然後執行相關的修正與自我進化或是網站更新，這樣才有意義」。觸發實例是同日 am cycle 自己——八則讀者回報全部只加了 label，修好零件，而六條 gate 全綠。同 session dogfood 驗證新原則：追上游把十則回報收斂成一個根因（`src/i18n/*.ts` 沒有語言正確性閘門），修掉 ar 的簡體中文、六語缺譯的回饋模組、俄文被擠掉的語言切換鈕、企業泡泡圖 45 家公司的名稱截斷與十倍單位錯誤，並造 `check-ui-language.mjs` 接上 pre-push 與 CI。\_
 
 _v2.6 | 2026-07-23 idlccp-clownfish-instrument — **§1b Git merge 優先（merge-first-then-heal）** 升核心原則：contributor PR ship 必須 `gh pr merge`（或等價 merge commit 讓 PR 標 MERGED）後再 main heal；**禁止** content 進 main + `gh pr close`。補 Hard Gate / Top 5 / Step 3.2 / 三級判斷 / 合併策略 / 歷史教訓。誕生：idlccp1984 9 PR 誤 close → 哲宇「要也是 pr merge 然後再來修」→ `-s ours` 補 MERGED。LESSONS `close-as-ship-breaks-merged-contract`。_
 
