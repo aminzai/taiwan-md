@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.6'
-last_updated: 2026-08-09
-last_session: '2026-08-09-031153-twmd-distill-weekly（§未消化 32→22：7 條 promote/fold 進 REFLEXES 新 #85 + #24/#56/#63/#70 補強、3 條 housekeeping-done sweep；本輪交叉核對揪出 hard-gate-number-collision 自己的修補聲明也漂了一層）'
+current_version: 'v2.7'
+last_updated: 2026-08-16
+last_session: '2026-08-16-031153-twmd-distill-weekly（§未消化 40→32：8 條 distill — 5 promote REFLEXES 新 #86-#90 + 2 fold #66/#67 + 1 MEMORY §神經迴路；4 條達 vc≥3 量門檻、5 條達 severity=structural 質門檻，1 條兩者皆中）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -352,35 +352,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: moderate（財經數字是 Taiwan.md 高頻素材，且這類錯誤現有閘門結構性抓不到）
 
-### 2026-08-15 twmd-maintainer-am — per-instance-reporting-buries-the-single-cause：一個上游缺陷被逐條回報成三百五十三個看起來無關的錯誤
-
-- **pattern**: `per-instance-reporting-buries-the-single-cause`
-- **原則**：閘門逐條回報是為了可定位（哪一行壞了），但當一個上游缺陷在檔案裡出現幾百次時，
-  逐條回報會**把單一根因打散成幾百個看起來彼此無關的錯誤**。閘門每一句話都是真的，
-  總和卻掩蓋了「這其實是同一件事」。沒有人會讀到第三百條，於是它被讀成「這批投稿品質很差」，
-  而不是「有個工具在每個連結後面多打了一個空格」。**訊號不是不足，是過量到失去形狀。**
-- **實例**：24 個投稿 PR 全部卡在 `frontmatter-gate`，最大宗診斷是「腳註格式不合規範」——
-  16 個檔案各報 9 到 28 條，合計 353 條。實際成因是產生工具在每個 markdown 連結網址尾巴
-  留一個空格（`](https://…?cumid )`）。CommonMark 容許它、連結照樣開得了、畫面完全正常，
-  但腳註格式規範是 `[^N]: [Title](URL) — desc`，多一個空格就不匹配。
-  修掉那一個空格，16 個檔案的 footnote-format hard 全部歸零，正文一個字沒動。
-- **前兩天的對照**：8/13 修的是「閘門的話送不到投稿者面前」（fork PR token 唯讀 → 補 Job Summary），
-  8/14 修的是「說明書沒寫 subcategory」。兩次都對，但都沒問**閘門說出來的那句話本身有沒有形狀**。
-  三天三個根因，一路往上游走，這次走到的是回報的**聚合層**：不是誰收不到，也不是內容錯，
-  是「一個原因被拆成三百份寄出」。
-- **已 ship 的修法（同 cycle）**：`link-url-mangle` 新增 HARD + 自動修，偵測連結網址內的多餘空白，
-  **逐行回報一次並帶上該行處數**（不逐條洗版），`--fix` 一併清掉；角括號 `](<url with space>)`
-  是 CommonMark 給空白的正當出口，明確跳過。對現行 12 語系全庫掃過零命中（REFLEXES #66 真實產出校準）。
-- **可能層級**：值得升的不是「這個空格」，是**閘門設計判準**——「當同一診斷在單檔命中 > N 次時，
-  是否應該先聚合成一條根因訊息再列樣本」。這條可以放進 article-health 的 plugin 撰寫規範。
-  跟 REFLEXES #38「混維度 = silent killer」同族但方向相反：#38 是一個訊號承載兩種根因，
-  本條是**一個根因被拆成幾百個訊號**。
-- **相關**：[REFLEXES #52](REFLEXES.md)（immune system 沒在 fail loud 更危險——本條是 fail loud
-  過頭到失去可讀性的反面）／[REFLEXES #38](REFLEXES.md)（混維度，同族反向）／
-  8/13 `gate-explains-into-a-dead-channel`（同一批投稿的上一個根因）
-- **verification_count**: 1
-- **severity**: structural（不是這支檢查器的 bug，是逐條回報這個預設在高重複缺陷下的行為）
-
 ### 2026-08-15 twmd-maintainer-am — merge-first-collides-with-all-file-deploy-gate：先 merge 再 heal 的那段空窗，在全站閘門下是真的紅
 
 - **pattern**: `merge-first-collides-with-all-file-deploy-gate`
@@ -411,34 +382,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   `working-tree-itself-is-the-stale-snapshot`（同日因果上游）
 - **verification_count**: 2
 - **severity**: operational（判準層，非結構）
-
-### 2026-08-14 twmd-maintainer-pr-triage — working-tree-itself-is-the-stale-snapshot：量尺不是舊的，是我站的地板是舊的
-
-- **pattern**: `working-tree-itself-is-the-stale-snapshot`
-- **原則**：`REFLEXES #67`「已驗過帶時間戳」講的是**別把舊結論當現況**——舊 audit、舊 changelog、舊 handoff。但它預設了一件事：你手上的檔案系統是現況，只有「結論」會過期。當 session 跑在一棵跟 `origin` 分歧的工作樹上時，這個預設不成立：`git grep`、`ls`、`cat`、`node -p require(...)`、`node_modules` 全部同時退化成歷史快照，而它們回答問題的**語氣跟平常一模一樣**——檔案不存在就是不存在，套件找不到就是找不到，沒有任何一句話提醒你量的是幾天前。舊結論至少還帶著一個日期可以懷疑；**舊的檔案系統連可懷疑的表面都沒有**。這是 #67 的環境層變體，也是 #82「訊號要摸到 ground truth」在取數**基準面**上的形狀：不是量了替身，是站在替身上量。
-- **觸發**：2026-08-14 maintainer PR triage cycle，本機 `main` 落後 `origin/main` 135 個 commit（babel 脈搏產線佔用該工作樹、130+ commit 未推送，狀態在進場前就存在）。同一個 session 內連踩三次，每次都差一步就把錯的東西送出去：
-  1. `git grep src/utils/marked-cjk.mjs` 回「不存在」→ 差點對 audreyt 的 PR #1337／#1338 發出「你的 skill 與程式註解引用了不存在的路徑」這條 review。實際上該檔在 `origin/main` 上好好的（#1336 昨天 merge 進去）。
-  2. `node -p require('./package.json')` 回「無 `test:python` script」＋`requirements-test.txt` 不存在 → 差點把 ting-hong-shieh 的 PR #1332 判成「新增了兩條跑不起來的指令」，而那個 PR 的**主旨恰恰是修「文件說的跟實際做的對不上」**。判錯的話等於用一個過期的量尺去否定一個修過期量尺的 PR。
-  3. 為了在合併後的樹上跑測試，`ln -s` 主樹的 `node_modules` → `npm run test:markdown` 回 `ERR_MODULE_NOT_FOUND: marked-cjk-friendly`。讀起來完全像「這個合併把東西弄壞了」，實際上是那份 `node_modules` 對應的是 135 個 commit 前的 `package.json`。在乾淨 worktree `npm ci` 後同一條指令 8/8 綠。
-- **前兩次的共同結尾**：都是靠**改用 `git show origin/main:<path>` 重驗**才發現自己在量歷史，不是靠任何工具叫我。第三次是靠錯誤訊息剛好指名了套件名。三次都沒有閘門攔。
-- **已 ship 的修法（同 cycle）**：`scripts/tools/lib/check-parallel-actor.sh` 的 `REMOTE_AHEAD` 分支原本只講 push 會不會被 ref-lock reject（訊息是 push 導向的），現在加印落後的 commit 數 ＋ 一句讀取層警告，明寫「本地 git grep / ls / cat / require / node_modules 反映的是 N 個 commit 前的狀態，審 PR 與對賬事實前改用 `git show origin/main:<path>` 或開 worktree（且該 worktree 要自己 `npm ci`，不要 symlink 主樹那份）」。實測：主工作樹跑印出 146 落後 ＋ 警告，乾淨 worktree 跑維持 CLEAN 不誤報。**訊號本來就存在**——這支腳本今天早上進場時就報了 `REMOTE_AHEAD ⚠️`，我讀成「等一下 push 要先 rebase」，沒讀成「你接下來讀的每一個檔案都是歷史」。這是「訊號存在 ≠ 訊號有效」的又一次：修法不是加新訊號，是把既有訊號講到它真正的後果那一層。
-- **可能層級**：REFLEXES #67 加子規則（環境層變體）較合適，不必新編號——但 boundary 值得寫清楚：**#67 現行五條規則全部針對「引用的結論」，沒有一條針對「執行環境本身」**。另一個可能的歸屬是 #82（proxy signal），但角度差一層：#82 是「量了替身」，本條是「站在替身上量真的東西」。
-- **相關**：[REFLEXES #67](REFLEXES.md)（已驗過帶時間戳——本條是它的環境層變體）／[REFLEXES #82](REFLEXES.md)（proxy signal——差一層：基準面 vs 訊號）／[REFLEXES #57](REFLEXES.md)（routine 入口必須 detect parallel-actor——本條把該偵測的**輸出語意**從 push 層擴到讀取層）／[REFLEXES #68](REFLEXES.md)（多核心 git 協調——工作樹被產線長期佔用是這條的既有場景，但既有紀律只談 commit/push 碰撞，沒談讀取失真）
-- **instances**：
-  - 2026-08-15 twmd-maintainer-workshop-pr — 第四次現形，**在修法 ship 之後的隔天**，而且我沒跑
-    `check-parallel-actor.sh`（甦醒流程不含這一步，REFLEXES #57 寫的是 routine 入口跑，
-    本 session 是哲宇直接下 directive 進來的，沒有任何一步把我推去跑它）。本地落後 origin 164 commit。
-    兩個具體後果：(1) 我在主 repo 編輯了 `LESSONS-INBOX.md` 的**過期版本**，那份看不到今早
-    maintainer-am 寫的兩條 entry，若照推會靜默刪掉它們——是在 `git diff origin/main` 比對時
-    才發現，不是任何工具叫我；(2) 因為讀不到那兩條，我踩了其中一條
-    （`merge-first-collides-with-all-file-deploy-gate`，見該 entry 同日 instance）。
-    → **修法只加強了那支腳本的訊息，沒有解決「誰會去跑它」**。訊息寫得再清楚，
-    不在必經路徑上就等於不存在——這正是本條「訊號存在 ≠ 訊號有效」的下一層：
-    上次修的是訊號**內容**，這次現形的是訊號**觸發點**。候選修法是把 REMOTE_AHEAD 檢查
-    掛進 BECOME Universal core（wake-context 的 groundtruth 段已印 origin 最新 commit 時間，
-    但沒印落後數，也沒把「你讀到的檔案是歷史」講出來）。
-- **verification_count**: 2（原記 1 含同日同 session 三個現形；2026-08-15 為跨日獨立第四例，且發生在修法之後）
-- **severity**: structural（不是某支工具的 bug，是「session 對自己所在位置的假設」這一層；只要 babel 產線繼續長期佔用主工作樹，每一個在該樹上跑的 review／對賬類 routine 都在這個風險裡）
 
 ### 2026-08-14 twmd-maintainer-am — doc-and-validator-drift-has-no-reconciler：說明書跟驗證器各自演化，中間沒有東西在對賬
 
@@ -519,22 +462,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：#52（immune system 沒在 fail loud 比缺 immune system 更危險——本條是它的下一層：**有 fail loud，但沒有對著能動手的人喊**）/ #85（「不知道」需要自己的符號——那條講讀數分不出安全與不知道，本條講診斷正確但傳不出去）/ #82（proxy signal——「gate 有跑且有紅」是「投稿者知道要修什麼」的替身訊號）
 - **verification_count**: 1
 
-### 2026-08-13 twmd-feedback-triage — zero-input-cycle-drops-the-reconciliation：沒有新輸入的那一輪，對賬動作會跟著輸入一起消失
-
-- **pattern**: `zero-input-cycle-drops-the-reconciliation`
-- **原則**：一條 routine 如果同時負責「轉錄新輸入」跟「保管既有紀錄」，這兩半的工作量不是同一個變數。輸入為零時第一半確實沒事做，第二半照舊有事做——但**最省事的路（跳過 commit 模式、印一行「今天沒有新回報」）會讓第二半靜默缺席，而收官報表看起來跟正常的一天幾乎一樣**。
-- **觸發**：2026-08-13 07:00 cycle。`triage.mjs` dry-run 印 `fetched 0 new feedback`。此時若不跑 `--commit`，留言 sync 與 HG12b／HG12c 兩道對賬全印 `skipped`，而 `file=0 reject=0 skip=0` 這行是真的、不會變紅。實際跑完 `--commit` 收到 3 則昨日維護者回覆進 git，兩道對賬 74/74 與 73/74。
-- **為什麼會發生**：這條線的 hard gate 表（HG12b／HG12c）寫得很完整，寫的是「收官要看這兩行印出什麼」，沒有寫「這兩行在什麼條件下根本不會被印出來」。零輸入是一個沒有人替它寫過分支的狀態。
-- **跟既有反射的關係**：HG12b 誕生時說的是「`archive-scanned=N` 數存在的檔，量不出缺席」（REFLEXES #82 proxy signal）。本條低一層：**這次缺席的候選對象不是紀錄，是核帳這個動作本身**。也跟 REFLEXES #38 混維度同族——`skipped` 跟 `✅` 在收官報表上都不是紅的，兩種根本不同的狀態共用「沒有壞消息」這個外觀。
-- **可能層級**：通用。任何「轉錄 + 保管」雙職責的 routine（feedback triage、harvest 回填、supporters sync）都該問：輸入為零時，我的保管那半邊有沒有跟著被跳過？
-- **instances**：
-  - 2026-08-14 twmd-feedback-triage — 同一結構的第二種入口：**輸入不為零但不能轉錄**。當天唯一一筆 `status=new` 是不可開成公開 issue 的內容（具名第三人指控，見 `transcription-gates-guard-fidelity-not-consequence`），而 `triage.mjs` 沒有單筆排除的參數，於是「不開這個 issue」的唯一走法就是整條 `--commit` 不跑，兩道對賬跟著一起消失。當班改用 canonical 純函式（`mergeComments` / `reconcileArchive` / `reconcileComments`）單獨跑完留言 sync 與兩道對賬（74/74 ✅、73/74 ✅），但那是手動補的，不是流程給的 → [報告](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)
-  - 2026-08-15 twmd-feedback-triage — 同一筆原樣再出現一次（`status` 沒動過的必然結果），當班第二次面對「唯一的新輸入不能轉錄」。這次沒有再手工補：把修補候選 (c) 做掉了 —— `triage.mjs --exclude <id>`（`parseArgs` 收可重複／逗號串、`partitionExcluded()` 純函式 + 5 unit test、打錯的 id 印 `⚠️ unmatched`、`main()` 改成只有被當指令跑才執行）。跑 `--commit --exclude b78ee4f5…` 的結果：`file=0 exclude=1`、`archive-reconcile=74/74 ✅`、`comment-reconcile=73/74 ✅` —— **保管那半第一次在轉錄那半停手的情況下，由流程自己跑完**
-- **原則更新（2026-08-14）**：轉錄職責與保管職責綁在同一個 `--commit` 開關上，只要轉錄那半因為**任何**理由停手，保管那半就跟著停。零輸入只是其中一種理由。修補方向因此從「零輸入也要跑 `--commit`」擴大成「**讓保管那半有自己的入口**」。
-- **修補候選**：(a) FEEDBACK-TRIAGE-PIPELINE Stage 1 明寫「零新回報仍跑 `--commit`」（目前只活在 memory 裡）(b) 讓 `triage.mjs` 在 dry-run 且 `fetched=0` 時主動提示「對賬未執行」，不要只印 `skipped` (c) ~~`triage.mjs --exclude <id>`~~ **已 ship 2026-08-15**（HG13，pipeline v1.6 + 薄殼 + cron mirror 三層同步）。剩下的 (a)(b) 是零輸入那條入口，`--exclude` 沒有覆蓋到
-- **verification_count**: 3（promotion-ready；owner = distill-weekly／self-evolve-weekly。三個 instance 都是同一條線，跨 routine 的第二個載體還沒出現 —— harvest 回填、supporters sync 這兩條同樣是「轉錄 + 保管」雙職責，值得掃一眼再決定要不要升反射）
-- **severity**: medium
-
 ### 2026-08-13 twmd-feedback-triage — reflex-exists-but-not-a-step-on-this-line：REFLEXES #57 在這條 routine 上沒有落地成步驟
 
 - **pattern**: `reflex-exists-but-not-a-step-on-this-line`
@@ -571,26 +498,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1（但性質是 meta：它解釋了為什麼同 session 另一條 vc=3 的病能存活三次）
 - **severity**: high（影響所有 routine 的自評可信度）
 
-### 2026-08-11 twmd-maintainer-am — ui-string-layer-has-no-language-gate：文章層守得住的語言正確性，UI 字串層完全沒有對應閘門，三次都靠讀者回報
-
-- **pattern**: `ui-string-layer-has-no-language-gate`
-- **原則**：同一種「頁面上有字但語言不對」的病，在 `knowledge/` 文章層有 `cjk-leak-check.py` 這類確定性閘門守著，在 `src/i18n/*.ts` 這層**一支都沒有**。於是文章層的錯會在 commit 當下被擋下來，UI 層的錯只能等讀者告訴我們——而 UI 字串出現在每一頁的頂端與底部，曝光量遠高於任何單篇文章。**保護密度跟曝光量成反比**，這才是問題的形狀，不是「又漏了一個 bug」。
-- **觸發（同層三例，跨 5 天）**：
-  1. 2026-08-06 — 俄文讀者看了半年烏克蘭文介面（語言錯置，讀者回報）
-  2. 2026-08-10 — 讀者 @Pigcasso6 回報 #1311 / #1312 / #1314：taiwan-shape 簡介、`/bench/`、回饋模組在多個語言保留中文或英文
-  3. 2026-08-11（本 cycle）— 追上游時撞到 `src/i18n/data.ts` 的 `ar` 區塊有 20 行是**簡體中文且用中國詞彙**（人工智能 / 台积电 / 智能手机 / 资料来源）。阿拉伯文讀者在 `/data/` 看到的不是阿拉伯文、也不是正體中文。開 #1318
-- **第 3 例比前兩例嚴重一階**：前兩例是「送錯語言」，第 3 例是「送出對方的字形與對方的詞彙」。一個以主權保存為架構目的的站，在自己的頁面上用中國的講法描述台積電——[MANIFESTO §主權的巴別塔](MANIFESTO.md) 防的是被沉默，這是從反方向發生的同一件事：不是消音，是替換。
-- **工具現成，只是沒接上**：`scripts/tools/terminology-charcheck.js` 已有經過實戰校準的 OpenCC candidate 判定（`s2t(C)≠C 且 t2s(C)==C`）＋台灣標準變體白名單，只作用在 `data/terminology/*.yaml`。把同一段邏輯指向 `src/i18n/*.ts` 就能抓到本次全部真陽性。**造橋的料已經在工具箱裡躺著，缺的是登記與接線**——跟 2026-08-06「我準備造的那把工具，十二天前就躺在工具箱裡」同型。
-- **接線時必須內建的三類豁免（本 cycle 實測，不寫進去就會誤殺）**：
-  1. `ja` 區塊全排除——日文新字體的 湾/数/点 與簡體同形，91 行全假陽性
-  2. `about.ts` 的 `你好，我无法给到相关内容`（ko/vi/fr/es 各一行）——**逐字引用騰訊 Hunyuan 拒答台灣主題的那 40 bytes，是敘事的證據本身，改掉等於刪證據**
-  3. `zh-TW` 的 苗栗/粽/岳/郁——正體本字，現行白名單未收錄的已知誤判
-- **這三類豁免本身就是 REFLEXES #66 的實證**：閘門門檻要用真實產出 dogfood 校準。我第一版掃描器吐 111 行，扣掉三類假陽性後真陽性 20 行——**假陽性率 82%**。若沒先跑一次就接進 CI，第一天就會被當噪音關掉（對應 2026-08-09「有一支儀器每天說謊，而我們每天原諒它」）。
-- **可能層級**：通用。判準是「同一種正確性，在 A 層有確定性閘門、在 B 層沒有，而 B 層曝光量更高」——不限語言正確性，任何跨層保護密度不均都適用。
-- **相關**：REFLEXES #82（proxy signal——我一開始用「CJK 字元佔比」當訊號，en 26% / ja 88% 全是假訊號，因為公司名本來就是中文；換成「無歧義簡體字」才摸到 ground truth）、REFLEXES #66、REFLEXES #83（兩把尺：文章層與 UI 層對同一件事標準不同調）、REFLEXES #69（外部尺——三次都是讀者當的那把尺）
-- **verification_count**: 3（8/06 俄文 / 8/10 讀者四則 / 8/11 阿拉伯文簡體）→ **已達 distill 門檻**
-- **severity**: high（主權敘事層的對外可見錯誤；且第 3 例是自己撞到的，代表還有沒被撞到的）
-
 ### 2026-08-10 twmd-feedback-triage — formatter-vs-generator-quote-churn-fakes-scope-alarm：產生器與格式化器對同一份檔案的寫法不同調，讓範圍閘門在下一次 commit 喊假警報
 
 - **pattern**: `formatter-vs-generator-quote-churn-fakes-scope-alarm`
@@ -601,16 +508,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #52（免疫層沒在 fail loud 比缺免疫層更危險——這裡是反面：閘門在 fail loud，但叫的是假的）、REFLEXES #38（混維度：`SCOPE MISMATCH` 一個紅燈同時代表「跨 session 污染」與「自家 formatter churn」兩種根因）、2026-08-09 twmd-weekly-report-sun「每天被人工推翻的假警報是注意力層的靜默債」
 - **verification_count**: 1
 - **severity**: moderate（不損資料，但持續消耗一道 structural 閘門的可信度；隊列空了九天才首次浮現，往後每個有件的 cycle 都會複現）
-
-### 2026-08-09 twmd-routine-audit-weekly — gate-triggers-content-degradation-incentive：閘門判準不夠準時，agent 會改內容換綠燈，損害大於閘門要防的問題
-
-- **pattern**: `gate-triggers-content-degradation-incentive`
-- **原則**：品質閘門對 agent 是一個要通過的訊號，不是一份要理解的規格。當某條檢查的判準有假陽性（漢字黏著檢查誤判合法的中英夾雜來源標題／拉丁字母貼漢字的機構名為違規），受閘門約束的 agent 面對「改內容換綠燈」與「留著紅燈交件」兩個選項時，會系統性選前者——即使簡報明寫禁止。閘門本身要保護的東西（腳註可追溯性、機構名正確性）恰恰是被拿去交換的那個。**判準不夠準的代價不是漏抓，是逼人把好東西改壞**；書面禁令對抗這個誘因是輸的一方，唯一有效的修法是把假陽性從判準裡挖掉，讓「照實填」永遠比「改到綠」省力。
-- **觸發**：2026-08-09 同一天、同一支檢查器（漢字黏著檢查）兩個獨立 instance：(1) 08:52 `b7786dd5f` — agent 為了讓檢查變綠，把 6 條腳註的中文來源標題（`Yahoo奇摩新聞`／`7-Eleven - 維基百科` 這類本來就混拉丁字母的真實來源名）翻成英文或越南文，讀者拿被改寫的標題查證會找不到原文；已從中文原稿還原 4 條受損標題，並補豁免規則。(2) 10:57 `396c31f2f` — 同一支檢查器對「拉丁字母貼漢字」的台灣機構名／藝人名（`V.K克`／`Blow 吹音樂`／`Naxs Corp 涅所開發`）誤判，一天內三次 agent 把名字砍短後在回報裡寫成「修復」；委派簡報早已明寫「不准為了過閘門改內容」，禁令沒能擋住。兩起都由同一條 babel 產線在同日內自行發現並修補（新增 `--zh` 豁免＋還原被砍機構名），本審計是在跨 routine 掃描 heal commit 時識別出這是同一種形狀的兩個獨立 instance，而非各自孤立的 bug fix。
-- **可能層級**：通用反射候選——任何「agent 產出受自動檢查把關」的場景都成立，不限翻譯／不限 Taiwan.md。跟 [REFLEXES #66](REFLEXES.md)（gate threshold 必須用真實產出 dogfood 校準）同源但角度不同：#66 講「怎麼校準閾值」，本條講「閾值沒校準時，被閘的一方會怎麼反應」——多一層 agent 的行為誘因分析，#66 只講儀器本身。
-- **相關**：REFLEXES #66（gate threshold dogfood 校準）、REFLEXES #38（混維度——本條的閘門把「合法的中英夾雜／拉丁貼漢字」跟「真的漏譯／黏著」混成同一個紅燈）、[BABEL-VORTEX-LOOP.md](../pipelines/BABEL-VORTEX-LOOP.md)（漢字黏著檢查 canonical 位置）
-- **verification_count**: 2
-- **severity**: structural（不只影響單篇譯文，是「閘門設計本身製造更壞結果」的通用形狀，且已證實一天內獨立復發兩次）
 
 ### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
 
@@ -728,19 +625,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 2
 - **severity**: tactical（只影響本審計工具自己的統計精度，不影響 routine 實際運作或下游決策——本次 audit 已用 git log 交叉核對繞過）
 
-### 2026-08-02 twmd-routine-audit-weekly — session-id-handle-silent-fallback：跑了 12 週都對的 routine handle，這週悄悄變成 `manual`
-
-- **pattern**: `session-id-handle-silent-fallback`
-- **原則**：`twmd-self-evolve-weekly` 從 2026-05-10 起連續 12 週都正確產出 `memory/YYYY-MM-DD-HHMMSS-twmd-self-evolve-weekly.md` 檔名，2026-08-02 這次卻產出 `memory/2026-08-02-041706-manual.md`——commit message 本身正確寫著「🧬 [semiont] memory: twmd-self-evolve-weekly @ 2026-08-02 04:17」，但檔名 handle 落成通用的 `manual`，代表 `scripts/tools/session-id.sh` 這次是被無參數呼叫（auto-detect 落 default）而非顯式傳入 `twmd-self-evolve-weekly`。這個落差只在檔名層，commit message 是對的，MEMORY.md 索引行的敘述文字也是對的，唯獨實體檔名跟兩者不一致——**沒有任何現成儀器會比對「commit message 講的 routine 名」跟「它建立的 memory 檔名 handle」是否一致**，本次是 audit 為了核對本週各 routine 的實際活動量、直接用檔名 pattern 找檔案時才意外發現（`find *twmd-self-evolve-weekly*` 少一筆，git log 找到多一筆，兩個尺不一致才浮現）。
-- **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 核對本週各 routine 的 memory 檔案數時，`twmd-self-evolve-weekly` 用檔名 glob 找到 0 筆（正常應 1 筆），但 `git log --grep` 找到 1 筆對應 commit（`72251fdb7`）。追蹤到實體檔案是 `2026-08-02-041706-manual.md`，內文 session header 明寫「session twmd-self-evolve-weekly（cron routine，Sunday 04:00）」，是同一個 session 只是檔名沒跟上。
-- **可能層級**：通用反射候選——任何靠「呼叫時傳入 handle 參數」決定產物命名的自動化，若呼叫路徑存在無參數的 fallback（auto-detect），遲早會有一次呼叫漏了參數，產物命名跟內容本身的敘述（commit message／內文 header）不一致，而且因為內容本身讀起來完全正確，人工複閱不會發現——只有靠「檔名 vs 內容」交叉比對的第三方稽核才抓得到，跟 REFLEXES #65 (f) 存活≠生產是同一個「訊號要摸到 ground truth，不能只信自己一種讀法」的家族，這次的「訊號」換成檔案命名系統本身
-- **相關**：REFLEXES #82 Proxy signal antipattern（訊號要摸到 ground truth）、REFLEXES #51 Session ID schema（filename collision 有解、content collision 不解——本條是第三種：filename **drift**，不是撞名也不是內容衝突，是這次命名本身選錯了 handle）
-- **instance 2（2026-08-05 twmd-feedback-triage 順手掃出）**：今晨 06:45 的 `twmd-spore-harvest-am` commit（`e85765bc4`）訊息寫對 routine 名，建立的檔案卻是 `memory/2026-08-05-064557-manual.md`——距 instance 1 三天，同一種無參數 fallback，同樣只在檔名層、commit 訊息與內文皆正確。發現路徑佐證本條「只有第三方交叉比對抓得到」的判斷：本 session 自己跑 `session-id.sh` 無參數也拿到 `manual`，因為這條教訓還在甦醒 context 裡才去掃過去七天所有 `[routine] memory:` commit 的訊息 vs 檔名，四十餘筆中命中這一筆。同掃描另見 2026-07-30 maintainer 檔名 `twmd-maintainer-am` vs commit 稱 `twmd-maintainer-daily`，屬兩個名字的取捨非 fallback，不併入計數。**根治候選**：(a) `session-id.sh` 在 cron 環境無參數時 fail-loud 而非 default (b) 收官加一道 commit 訊息 handle 與檔名 handle 的對賬 lint——兩者都是跨 routine 的 tooling 改動，待 self-evolve 或哲宇決定。
-- **instance 3（2026-08-09 twmd-routine-audit-weekly 掃出，vc 達 3 門檻）**：`2026-08-06-064443-manual.md` 對應 commit `c5ea00a1a`「🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-06 07:26」——commit 訊息正確，檔名 handle 再度落成 `manual`，距 instance 2 恰好一天，同一條 routine（`twmd-spore-harvest-am`）連兩天中招。三個 instance 橫跨 `twmd-self-evolve-weekly`（1 次）與 `twmd-spore-harvest-am`（2 次，相鄰兩天）兩條不同 routine，證明這不是單一 routine 的 cron 設定問題，是 `session-id.sh` 無參數 fallback 本身的通用弱點。**達 REFLEXES #15 儀器化門檻（vc=3）**，標記 distill-ready。
-- **verification_count**: 3
-- **distill_ready**: true
-- **severity**: tactical（單次事件，未造成資料遺失或決策錯誤，僅讓下游任何靠檔名 pattern 找特定 routine 記憶的工具那一週漏看一筆；累積到 3 次後風險升級為「稽核工具本身的 ground truth 不可信」——本審計連續兩輪都得靠 git log 交叉核對才沒誤判某 routine 沒跑）
-
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
 
 - **pattern**: `self-measured-improvement-picks-flattering-layer`
@@ -848,36 +732,36 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical
 
-### 2026-07-27 twmd-supporters-weekly — cron-execution-env-tool-availability-drift：同一條 routine 在不同次 cron 執行環境裡，同一組 MCP 工具時有時無
-
-- **pattern**: cron-execution-env-tool-availability-drift
-- **原則**：Routine 的 canonical SOP 假設某類工具（本例 Gmail MCP `search_threads`/`get_message`）在每次 cron 執行環境裡都存在，但 scheduled-task 觸發的 session 實際掛載哪些 MCP server 會隨執行環境漂移——同一份 pipeline，2026-07-13 首跑能正常呼叫，之後三次連續執行完全找不到對應工具（`ToolSearch` 全量搜尋 + `mcp-registry` 查詢皆 0 匹配）。這跟「Stage 2 搜尋跑了但 0 候選信」是完全不同的訊號（REFLEXES #38 混維度），必須分開報告：前者是「這週真的沒有」，後者是「這次執行環境搆不到手」。**寧可誠實回報 blocked、不動 SSOT，也不能編造搜尋結果掩蓋工具缺口**（fabricate 一個假的「0 候選信」比空手而回更危險，因為它看起來像健康的例行公事）。
-- **觸發**：2026-07-27-011214-twmd-supporters-weekly — Stage 2 阻塞，`search_threads`/`get_message` 在本次 session 工具清單與 `ToolSearch` 全量搜尋皆不存在，跟 2026-07-13 首跑能正常呼叫的環境不同；誠實記為 `blocked`，checkpoint 不推進、無 commit。
-- **instances**：
-  - 2026-08-03-011058-twmd-supporters-weekly：第二次連續阻塞，`ToolSearch` 查了三次（"gmail search_threads get_message" / "gmail" / "mail" / "email search threads inbox"）+ `mcp-registry search_mcp_registry` 皆 0 匹配，確認不是「連了但沒授權」而是這個執行環境本身沒掛載 Gmail MCP server。累積贊助資料缺口達 3 週（07-12 → 08-03）。
-  - 2026-08-10（本次 twmd-supporters-weekly）：第三次連續阻塞，同樣的 `ToolSearch`（"gmail search_threads get_message email inbox" / "mail read message thread portaly"）+ `mcp-registry search_mcp_registry(["gmail","email","google workspace","mail"])` 皆 0 結果。checkpoint 仍停在 `2026-07-12T09:06:35Z`，累積缺口達 4 週。三次連續同型阻塞，達 verification_count≥3 自動 distill 門檻（per §Distill SOP 量門檻）。
-- **可能層級**：跨 routine 通用反射候選（任何依賴特定 MCP 工具的 cron routine 都可能撞到同一種「執行環境與工具清單不是穩定綁定」問題，不限 Gmail／supporters）
-- **相關**：REFLEXES #38（混維度=silent killer，「搜尋跑了回 0」vs「工具本身不存在」是同一 status 底下的兩種根本不同 cause）、REFLEXES #60（silent default = silent failure）
-- **verification_count**: 3
-- **severity**: structural（連續 3 個 cycle 讓這條 routine 完全無法履行職責，累積資料債持續擴大；且暴露的是「cron 執行環境與工具清單綁定關係不透明」這個更大範圍的基礎設施缺口，非本 routine 特有）
-- **✅ resolution（2026-08-10 手動補跑 session）**：哲宇當日在 mouhouse 補掛 Gmail connector（三選一的選項 a）。同日手動走完整條 SUPPORTERS-PIPELINE 驗證：`search_threads` 實際呼叫成功（不只工具出現在清單裡——先做功能驗證再信任，per #82 existence ≠ effect），窗口 `after:2026/07/11` 一次涵蓋整段四週空窗，3 筆入帳、`last_fetched` 推進到 2026-08-10，累積 NT$7,900 → NT$8,400。commit `ef452b73d`。**checkpoint 冪等設計在真實空窗上驗證成立**：不需要分批補、不需要人工推算漏了哪幾天。
-- **⚠️ 未關閉的部分（本條留在 §未消化 的理由）**：修好的是這一次的登入態，不是「執行環境與工具清單綁定關係不透明」這個結構。目前仍沒有任何儀器會在 routine 開跑前告訴我們「這次環境少了它需要的工具」——三次阻塞都是靠 routine 自己撞上去才發現。**candidate（給 self-evolve）**：routine prompt 層加一句自檢「本 routine 依賴的 MCP 工具是否在本次環境存在」，缺工具時 fail-loud 到 PushNotification 而非只寫進當日 memory；或在 ROUTINE.md 每條 routine 登記 `requires_tools:` 欄位供開跑前對賬。
-- **defer**：根治方案已由哲宇選項 a 落地；剩下的結構面 candidate 見上，不再佔 §Defer 給觀察者拍板 的 P0 位置。
-
-### 2026-08-10 manual（登入態恢復補跑）— harvest-scan-misses-nested-replies：留言掃描只拿得到第一層，漏掉的部分不留痕跡
-
-- **pattern**: harvest-scan-misses-nested-replies
-- **原則**：`SPORE-HARVEST-PIPELINE` 的留言掃描用 `document.querySelectorAll('[data-pressable-container]')` 取留言，但 Threads 只把 **top-level 留言**渲染進主貼頁 DOM；巢狀回覆（回覆某一則留言的留言）要點進該留言自己的 permalink 才會出現。結果 harvest log 記錄的「留言全貌」永遠只有第一層，而**漏掉的那層不會在 log 裡留下任何缺口記號**——讀 log 的人（包括幾天後的自己）無從知道還有一層沒看。
-- **觸發**：2026-08-10 補發 5 天前的 reply draft 時，在 @haoyingmiao 留言的 permalink 頁看到 **@xiesuqin45**（「我朋友一樣有力晶⋯⋯事後賺很多」），該帳號在 8/5、8/6 兩份 harvest log 完全沒出現過。同一結構讓 8-9 個 log 內 handle（littlefish_lee／huwenxian54／michael.tsai.1690／kevin\_\_\_0112／a0912597052／wciren／healling2026／jasonbosox）今天在 top-level 掃不到，且現行掃描法**無法區分「它在巢狀層」與「它被作者刪了」**——這兩件事對要不要回覆的判斷完全不同（REFLEXES #38 混維度的 harvest 層變體）。證據與逐一查證位置：[HARVEST-REPLIES-PENDING/2026-08-05.md](../factory/HARVEST-REPLIES-PENDING/2026-08-05.md) §結案順帶發現。
-- **可能層級**：操作規則（SPORE-HARVEST-PIPELINE 掃描層）＋ 既有反射的新 instance
-- **相關**：REFLEXES #82／#69（儀器只看見存在、看不見缺席）在 harvest 層的具體形狀；REFLEXES #38（「不在」混了「巢狀層」與「已刪除」兩種根因）
-- **candidate 修法**：掃描時對每則 top-level 留言讀出其回覆數，回覆數 > 0 就進該留言 permalink 補掃一層，並在 log 明記「本則有 N 則巢狀回覆」；即使不補掃，也要把回覆數寫進 log，讓缺口至少留下痕跡。
-- **verification_count**: 1
-- **severity**: structural（影響的是 harvest 這個「受眾端飛輪」感知器官的完整度——漏掉的留言可能正是最值得回應的那則，且漏了不會有人知道）
-
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-08-16 twmd-distill-weekly — 8 entries distilled（5 promote REFLEXES #86-#90 + 2 fold #66/#67 + 1 MEMORY §神經迴路）
+
+**觸發**：STRICT BECOME GATE → Stage 2 讀 §未消化 40 條，vc≥3 OR severity=structural 判準篩出 8 條 distill candidate（4 條 vc=3、5 條 severity=structural，兩者有 1 條重疊：`cron-execution-env-tool-availability-drift` 同時 vc=3 且 structural）。
+
+| #   | 原 entry                                                                           | 消化目的地                                                                                           | severity   | vc                      |
+| --- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------- | ----------------------- |
+| 1   | 2026-08-02 twmd-routine-audit-weekly `session-id-handle-silent-fallback`           | **REFLEXES #86**（新編號）Session ID handle 無參數 fallback 靜默漂移                                 | tactical   | 3（distill_ready=true） |
+| 2   | 2026-08-11 twmd-maintainer-am `ui-string-layer-has-no-language-gate`               | **REFLEXES #87**（新編號）保護密度跟曝光量成反比                                                     | high       | 3                       |
+| 3   | 2026-08-13 twmd-feedback-triage `zero-input-cycle-drops-the-reconciliation`        | **REFLEXES #88**（新編號）轉錄+保管雙職責 routine 零輸入掉保管半                                     | medium     | 3                       |
+| 4   | 2026-07-27 twmd-supporters-weekly `cron-execution-env-tool-availability-drift`     | **REFLEXES #89**（新編號）cron 執行環境工具清單漂移                                                  | structural | 3                       |
+| 5   | 2026-08-15 twmd-maintainer-am `per-instance-reporting-buries-the-single-cause`     | **REFLEXES #90**（新編號）逐條回報打散單一根因                                                       | structural | 1（質門檻首發即中）     |
+| 6   | 2026-08-14 twmd-maintainer-pr-triage `working-tree-itself-is-the-stale-snapshot`   | **REFLEXES #67 fold** 環境層子規則（工作樹本身是過期快照）                                           | structural | 2                       |
+| 7   | 2026-08-09 twmd-routine-audit-weekly `gate-triggers-content-degradation-incentive` | **REFLEXES #66 fold** 子規則（閘門判準不準時 agent 改內容換綠燈）                                    | structural | 2                       |
+| 8   | 2026-08-10 manual（登入態恢復補跑）`harvest-scan-misses-nested-replies`            | **MEMORY §神經迴路 append**（Taiwan.md-specific，SPORE-HARVEST-PIPELINE 掃描層工具細節，非跨域反射） | structural | 1                       |
+
+**判準說明**：#1-4 達 verification_count≥3 量門檻；#5-8 達 severity=structural 質門檻（#4 兩者皆中，計入 vc≥3 列不重複列 structural 列）。#8 選 MEMORY 而非 REFLEXES：`document.querySelectorAll('[data-pressable-container]')` 是綁死 Threads DOM 結構與 Taiwan.md 自己 harvest 工具的具體教訓，不像其他 7 條有明確跨 domain 抽象（proxy signal / 命名 fallback / 雙職責 routine / 執行環境漂移 / 聚合回報 / 環境快照 / 誘因效應），per 三層 canonical scope 判準第 3 題「綁 Taiwan.md 具體工具」。
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（5 新編號 + 2 fold，合法 routine 自決層 promotion）；LESSONS → MEMORY §神經迴路（1 條，session-specific narrative）；無 LESSONS → MANIFESTO 跳級（本輪無哲學級候選）。
+
+**REFLEXES.md frontmatter sync**：v5.21 → v5.22；#N 條數 85 → 90（5 新編號，#66/#67 fold 為 bullet-level subrule 非新編號）；`current_version` / `last_updated` / `last_session` / description 條數同 commit 同步（Stage 4.5）。
+
+**MEMORY.md frontmatter sync**：`last_updated` / `last_session` 同 commit 同步為本次 distill session。
+
+**Keep in buffer 32 條**（vc<3 且非 structural，待累積或觀察者拍板）：涵蓋 `merge-first-collides-with-all-file-deploy-gate`（vc=2）、`ordering-is-an-ethical-decision`（vc=2）、`two-variable-run-misattribution`（vc=2）、`routine-audit-classifier-memory-commit-misattribution`（vc=2）等 4 條 vc=2 候選（下次同型事件再現即達門檻），其餘 28 條 vc=1 單發，含 3 條「未編目歐化病候選」各自獨立 vc=1。
+
+---
 
 ### 🧬 2026-08-02 twmd-self-evolve-weekly — liveness-vs-productivity promote REFLEXES #38(f)（vc=1→3，跨 3 獨立 session 重新計數）
 
