@@ -332,6 +332,56 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-15 twmd-maintainer-am — per-instance-reporting-buries-the-single-cause：一個上游缺陷被逐條回報成三百五十三個看起來無關的錯誤
+
+- **pattern**: `per-instance-reporting-buries-the-single-cause`
+- **原則**：閘門逐條回報是為了可定位（哪一行壞了），但當一個上游缺陷在檔案裡出現幾百次時，
+  逐條回報會**把單一根因打散成幾百個看起來彼此無關的錯誤**。閘門每一句話都是真的，
+  總和卻掩蓋了「這其實是同一件事」。沒有人會讀到第三百條，於是它被讀成「這批投稿品質很差」，
+  而不是「有個工具在每個連結後面多打了一個空格」。**訊號不是不足，是過量到失去形狀。**
+- **實例**：24 個投稿 PR 全部卡在 `frontmatter-gate`，最大宗診斷是「腳註格式不合規範」——
+  16 個檔案各報 9 到 28 條，合計 353 條。實際成因是產生工具在每個 markdown 連結網址尾巴
+  留一個空格（`](https://…?cumid )`）。CommonMark 容許它、連結照樣開得了、畫面完全正常，
+  但腳註格式規範是 `[^N]: [Title](URL) — desc`，多一個空格就不匹配。
+  修掉那一個空格，16 個檔案的 footnote-format hard 全部歸零，正文一個字沒動。
+- **前兩天的對照**：8/13 修的是「閘門的話送不到投稿者面前」（fork PR token 唯讀 → 補 Job Summary），
+  8/14 修的是「說明書沒寫 subcategory」。兩次都對，但都沒問**閘門說出來的那句話本身有沒有形狀**。
+  三天三個根因，一路往上游走，這次走到的是回報的**聚合層**：不是誰收不到，也不是內容錯，
+  是「一個原因被拆成三百份寄出」。
+- **已 ship 的修法（同 cycle）**：`link-url-mangle` 新增 HARD + 自動修，偵測連結網址內的多餘空白，
+  **逐行回報一次並帶上該行處數**（不逐條洗版），`--fix` 一併清掉；角括號 `](<url with space>)`
+  是 CommonMark 給空白的正當出口，明確跳過。對現行 12 語系全庫掃過零命中（REFLEXES #66 真實產出校準）。
+- **可能層級**：值得升的不是「這個空格」，是**閘門設計判準**——「當同一診斷在單檔命中 > N 次時，
+  是否應該先聚合成一條根因訊息再列樣本」。這條可以放進 article-health 的 plugin 撰寫規範。
+  跟 REFLEXES #38「混維度 = silent killer」同族但方向相反：#38 是一個訊號承載兩種根因，
+  本條是**一個根因被拆成幾百個訊號**。
+- **相關**：[REFLEXES #52](REFLEXES.md)（immune system 沒在 fail loud 更危險——本條是 fail loud
+  過頭到失去可讀性的反面）／[REFLEXES #38](REFLEXES.md)（混維度，同族反向）／
+  8/13 `gate-explains-into-a-dead-channel`（同一批投稿的上一個根因）
+- **verification_count**: 1
+- **severity**: structural（不是這支檢查器的 bug，是逐條回報這個預設在高重複缺陷下的行為）
+
+### 2026-08-15 twmd-maintainer-am — merge-first-collides-with-all-file-deploy-gate：先 merge 再 heal 的那段空窗，在全站閘門下是真的紅
+
+- **pattern**: `merge-first-collides-with-all-file-deploy-gate`
+- **原則**：MAINTAINER §1b「先 merge 再 heal」保護的是貢獻者的 Merged 狀態與譜系，這條沒有問題。
+  但 `deploy.yml` 跑的是 `article-health --all --profile=ci-deploy`（全站掃描、hard 即擋），
+  於是**從 merge 落地到 heal 推上去之間的每一秒，站台部署都是紅的**。單一 PR 這個窗口大約一分鐘，
+  可以接受；**一批 22 篇、每篇都需要人工 polish（分號、圖片授權）的話，這個窗口是幾小時到幾天**。
+  §Step 3.3 決策表寫「> 30 min 且純格式 → merge + 排 polish 進 backlog」，那一行沒有考慮到
+  全站閘門的存在——backlog 期間站台不會等你。
+- **實例**：本 cycle merge #1346 帝雉（未 polish）於 00:58 落地，deploy run `3008fc6d` **failure**；
+  00:59 推上 heal 後 `0b38889d` success。78 秒的紅，如實出現在 Actions 紀錄上。
+  這也正是本 cycle 決定**只 merge 一篇、不整批 merge** 的理由：另外 22 篇沒有任何一篇能靠
+  機械修復到 hard=0（分號需改寫散文、外部圖片熱連結需逐張授權判斷）。
+- **判準候選**：merge 前先問「這篇 heal 到 hard=0 需要幾分鐘」——能在同一個 push 週期內完成才 merge，
+  否則留 open 並把修法講清楚給投稿者（本 cycle 採後者，一則累積式留言涵蓋整批）。
+- **相關**：[MAINTAINER §1b](../pipelines/MAINTAINER-PIPELINE.md)（merge-first-then-heal）／
+  §Step 3.3 決策表（「> 30 min 純格式 → merge + backlog」這行需要但書）／
+  [REFLEXES #71](REFLEXES.md)（Default 是行動不是 defer——本條是它的邊界條件，不是反例）
+- **verification_count**: 1
+- **severity**: operational（判準層，非結構）
+
 ### 2026-08-14 twmd-maintainer-pr-triage — working-tree-itself-is-the-stale-snapshot：量尺不是舊的，是我站的地板是舊的
 
 - **pattern**: `working-tree-itself-is-the-stale-snapshot`
