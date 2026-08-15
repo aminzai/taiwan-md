@@ -5,7 +5,7 @@ type: 'pipeline-sub-canonical'
 status: 'canonical'
 current_version: 'v9.2'
 last_updated: 2026-08-15
-last_session: '2026-08-15-095913-manual（v9.2 新增 Step 1.7.5 整合與清理——orchestrator 六條報告品質判準（合成層零任務指涉/verification 決定形態/Findings 事實自足/引語可驗/negative 集中/量級 300-800），「整合是編輯不是搬運」；v9.1 同日：搜尋量天花板制 fan-out ~70-80 上限 100。哲宇 directive；診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
+last_session: '2026-08-15-095913-manual（v9.2 新增 Step 1.7.5 整合與清理——orchestrator 六條報告品質判準（合成層零任務指涉/verification 決定形態/Findings 事實自足/引語可驗/negative 集中/量級 300-800），「整合是編輯不是搬運」；v9.1 同日：搜尋量改天花板制，全篇 ~150（Stage 0 20-30＋fan-out ~120-130，四隻各 ~30），措辭禁「下限」。哲宇 directive；診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -23,7 +23,7 @@ upstream_canonical:
 
 |                  |                                                                                                                                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **職責**         | 帶 Stage 0 問題執行搜尋（合計 ~70-80、上限 100；中≥35/英≥15/一手≥12/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）**                                          |
+| **職責**         | 帶 Stage 0 問題執行搜尋（**全篇 ~150 總量中的 Stage 1 份額 ~120-130，四隻各 ~30**；中≥40/英≥20/一手≥15/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）**       |
 | **執行者**       | orchestrator（主 session）＋ N 個 parallel Sonnet 研究 agent（prompt 一律 [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md) 填槽，禁即興）                                                    |
 | **INPUTS**       | research report §觀點成型（Stage 0 產物）；RESEARCH.md；RESEARCH-AGENT-PROMPT.md                                                                                                                 |
 | **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md`（八段合成單檔；sibling raw 收件後 consolidate 刪除）                                                                                                      |
@@ -64,25 +64,34 @@ upstream_canonical:
 - `docs/editorial/RESEARCH.md`（方法論：搜尋策略、來源判斷、避坑指南）
 - `docs/editorial/RESEARCH-TEMPLATE.md`（填空模板）
 
-### Step 1.1: 搜尋深度 — 全篇 ~100 為天花板（v9.1，2026-08-15 哲宇 directive；含來源多樣性配額）
+### Step 1.1: 搜尋深度 — **一篇文章總量 ~150 次**（v9.1，2026-08-15 哲宇 directive；含來源多樣性配額）
 
-**Stage 1 fan-out 合計目標 ~70-80 次、硬上限 100 次**（含 Stage 0 的 ~20 = 全篇 ~100-120，
-對齊好時期實測量級：justfont 全篇 120 含 callout verify、毒馬鈴薯 85 來源）。
-**到量即收——超跑不是美德**：超出的搜尋生產的主要是「待驗證線索＋攻防敘事」塞爆報告，
-不是可寫的事實（2026-08-15 量測：245 次搜尋的報告品質劣於 120 次的，diagnosis 見
-[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)）。
+> 🚨 **150 是「整篇文章的總搜尋量」，不是每隻 agent 的量**（2026-08-15 哲宇校正）。
+> 誤讀成 per-agent 會把全篇推到 400-600 次——**實測「每隻 agent 100」效果沒有比較好**，
+> 多出來的只是待驗證線索與攻防敘事。
+
+**總量分配**：全篇 ~150 次＝ **Stage 0 探索 20-30** ＋ **Stage 1 fan-out 合計 ~120-130**。
+四隻 agent 分工 → **每隻 ~30 次（30-40 帶），到量即收**；三隻則各 ~40。
+
+⚠️ **配額的措辭會決定超跑**（本 session 實證）：文策院四隻 agent 的 prompt 寫「搜尋**下限** 25 次」，
+實跑 58／71／52／39＝220，全篇衝到 245。**prompt 一律寫「配額 N 次、到量即收」，
+禁用「下限／至少／越多越好」**——同樣的數字換個詞，行為完全不同。診斷與量測斷代：
+[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
 
 | 來源類別                                 | 最低配額 | 為什麼                                                             |
 | ---------------------------------------- | -------- | ------------------------------------------------------------------ |
-| **中文**                                 | ≥ 35     | 在地視角、當地報導、社群記憶                                       |
-| **英文 / 國際 / 學術**                   | **≥ 15** | 國際視角 + triangulation；攻擊「57% 報告英文來源 = 0」的系統性缺口 |
-| **一手**（官方/政府/年報/法規/學術論文） | ≥ 12     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
+| **中文**                                 | ≥ 40     | 在地視角、當地報導、社群記憶                                       |
+| **英文 / 國際 / 學術**                   | **≥ 20** | 國際視角 + triangulation；攻擊「57% 報告英文來源 = 0」的系統性缺口 |
+| **一手**（官方/政府/年報/法規/學術論文） | ≥ 15     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
 | **反方 / 批評**（perspective scan）      | ≥ 5      | 跨陣營對立 spectrum，落 `rationale.whats_excluded`                 |
 
-> **v9.1 收斂理由**（2026-08-15 哲宇 directive「分頭 search 要求降低到 100」）：v6.4 的
-> 「≥80 下限、超跑光榮」文化讓實際搜尋量膨脹到 200-245 次；量測顯示**品質不隨量升**——
-> 4-6 月 100-120 次時代的報告（justfont 651 行零 meta-noise）養出的文章比 245 次時代的
-> 好。多樣性配額保留（它防單源依賴，跟總量無關），總量改天花板制。
+> **v9.1 收斂理由**（2026-08-15 哲宇 directive「分頭 search 要求降低」＋兩次校正定案：
+> 「以文章**總**搜尋量為基準，每隻 agent 100 效果沒有比較好」→「全篇抓 150 次左右，
+> Stage 0 20-30」）：v6.4 的「≥80 **下限**、超跑光榮」文化讓實際量膨脹到 245 次；量測顯示
+> **品質不隨量升**——4-6 月的報告（justfont 全篇 120、651 行零 meta-noise）養出的文章比
+> 245 次時代的好。**改動的是「下限→天花板」與「per-agent 明確化」，不是砍研究深度**：
+> 全篇 150 其實高於 v6.4 名目的 100，只是不再獎勵無上限超跑。多樣性配額原樣保留
+> （它防單源依賴，跟總量無關）。
 >
 > **v6.4 歷史**（2026-06-04）：量測 226 份歷史 report — 57% 英文來源 = 0、42% distinct ≤ 10，
 > 哲宇 directive「搜尋總數 80+、對標研究所論文標準」把下限從 40 提到 80。**「對標論文」的
@@ -92,7 +101,7 @@ upstream_canonical:
 
 - **多語系不是 nice-to-have**：英文/國際來源是 default 不是例外。真正只有中文來源的題目（極在地的兩岸/戒嚴細節）→ 在 §搜尋日誌 明寫「本題英文來源稀少，因為 X」，不要靜默跳過（對應 research-report-health en==0 HARD）
 
-> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**每 agent 配額 15-20 次、prompt 明寫到量即收**，aggregate ~70-80）。單 agent 自跑適合 standard tier（~40）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**。
+> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**每 agent 配額 = 120-130 ÷ agent 數，四隻即 ~30、三隻即 ~40；prompt 明寫「配額 N 次、到量即收」**）。單 agent 自跑適合 standard tier（~40）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**——挖不完是誠實的缺口，硬挖是報告肥大的來源。
 
 **v5.1 升級理由**（2026-05-11 cranky-newton）：v2.17 訂 ≥ 20 是相對 12 次淺研究的下限。實戰累積後（NMTH Fresh / 政治人物 batch / 認知作戰深度文）顯示 20 次仍會留下「單源依賴」風險（同一篇 ltn 報導被 5 atom 綁住 = over-citing 紅旗），40 次才開始有 triangulation 空間。
 

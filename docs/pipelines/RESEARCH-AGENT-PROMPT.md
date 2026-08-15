@@ -82,7 +82,7 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 
 ## Orchestrator 派發 SOP（四步）
 
-1. **切子領域**：depth 文按子題切 N 個 agent（**每 agent 搜尋配額 15-20、到量即收，aggregate ~70-80、硬上限 100** per [Step 1.1 v9.1](REWRITE-STAGE-1A-RESEARCH.md)）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
+1. **切子領域**：depth 文按子題切 N 個 agent。**配額算法：整篇文章總量 ~150 次（Stage 0 佔 20-30）→ Stage 1 fan-out 合計 ~120-130 → 除以 agent 數＝每隻 ~30（四隻）／~40（三隻）**，per [Step 1.1 v9.1](REWRITE-STAGE-1A-RESEARCH.md)。⚠️ **150 是整篇總量不是每隻的量**——實測「每隻 100」效果沒有比較好（哲宇 2026-08-15）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
 2. **填槽**（速查表見下）→ **copy 通用模板整塊**，只動 `{SLOT}`，**禁增刪改寫規則文字**。Anti-example 至少帶 2 條（從 §Anti-example 庫挑最近／最像的——sub-agent 是 pattern matcher，反例比規則有效）。
 3. **Spawn**：`general-purpose` + Sonnet（breadth+extract 夠用；contested atom 的複查才 escalate Opus）。Explore 是 read-only 不能落檔，研究 agent 一律 general-purpose。
 4. **收件**：走 [Step 1.8-bis 三步](REWRITE-STAGE-1A-RESEARCH.md#step-18-bis-async-agent-時代的-raw-保全-sopv772026-07-05-️)——先驗檔案真的存在於 repo（agent 宣稱 ≠ 存在，不存在就把 notification `<result>` verbatim 代寫），再跑收件 gate，FAIL 不准合成：
@@ -93,17 +93,17 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 
 ## 填槽速查表
 
-| 槽                                                | 填什麼                                                               | 範例                                              |
-| ------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- |
-| `{TOPIC}`                                         | 文章主題一句話                                                       | 台灣茶文化 100 年縱觀                             |
-| `{ARTICLE_SLUG}`                                  | `knowledge/{Cat}/{slug}.md` 的 slug                                  | 台灣茶文化                                        |
-| `{AGENT_LETTER}`                                  | 分部代號                                                             | A / B / C / D                                     |
-| `{SUBTOPIC_SCOPE}`                                | 該 agent 負責的子領域一句話                                          | 古典茶根源＋茶藝復興運動                          |
-| `{QUESTION_LIST}`                                 | 要挖的問題清單（含要 falsify 的預設假設，逐條）                      | 「茶藝」一詞 1977 婁子匡說——查證或推翻            |
-| `{QUOTA}`                                         | 該 agent 搜尋配額（WebSearch+WebFetch 合計；**天花板制，到量即收**） | 15-20                                             |
-| `{EN_QUOTA}` / `{PRIMARY_QUOTA}` / `{OPPO_QUOTA}` | 英文／一手／反方配額（per Step 1.1 比例縮放）                        | 4 / 3 / 2                                         |
-| `{OUT_PATH}`                                      | `reports/research/{YYYY-MM}/{slug}-research-{X}.md`                  | reports/research/2026-07/台灣茶文化-research-D.md |
-| `{ANTI_EXAMPLES}`                                 | 從 §Anti-example 庫挑 ≥2 條貼上                                      | 見下                                              |
+| 槽                                                | 填什麼                                                                                                                                  | 範例                                              |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| `{TOPIC}`                                         | 文章主題一句話                                                                                                                          | 台灣茶文化 100 年縱觀                             |
+| `{ARTICLE_SLUG}`                                  | `knowledge/{Cat}/{slug}.md` 的 slug                                                                                                     | 台灣茶文化                                        |
+| `{AGENT_LETTER}`                                  | 分部代號                                                                                                                                | A / B / C / D                                     |
+| `{SUBTOPIC_SCOPE}`                                | 該 agent 負責的子領域一句話                                                                                                             | 古典茶根源＋茶藝復興運動                          |
+| `{QUESTION_LIST}`                                 | 要挖的問題清單（含要 falsify 的預設假設，逐條）                                                                                         | 「茶藝」一詞 1977 婁子匡說——查證或推翻            |
+| `{QUOTA}`                                         | 該 agent 搜尋配額（WebSearch+WebFetch 合計；**天花板制，到量即收；禁寫「下限／至少」——會邀請超跑，文策院四隻寫「下限 25」實跑 39-71**） | 30（四隻）／40（三隻）                            |
+| `{EN_QUOTA}` / `{PRIMARY_QUOTA}` / `{OPPO_QUOTA}` | 英文／一手／反方配額（per Step 1.1 比例縮放）                                                                                           | 5 / 4 / 2                                         |
+| `{OUT_PATH}`                                      | `reports/research/{YYYY-MM}/{slug}-research-{X}.md`                                                                                     | reports/research/2026-07/台灣茶文化-research-D.md |
+| `{ANTI_EXAMPLES}`                                 | 從 §Anti-example 庫挑 ≥2 條貼上                                                                                                         | 見下                                              |
 
 ---
 
@@ -136,10 +136,12 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
    不可從英文摘要推導。
 2. **WebSearch 的聚合摘要不是來源**：搜尋結果本身帶連結，把你依賴的每條結果 URL 逐一轉錄進報告。
    要引逐字的 claim → WebFetch 進原頁取逐字＋URL，不引搜尋摘要的轉述。
-3. 搜尋配額 {QUOTA} 次（**目標即天花板，到量即收尾——超跑不是美德**，超出的搜尋只會生產
-   更多待驗證線索塞爆報告，v2.0 哲宇 directive）。配額內優先序：英文／國際／學術 ≥ {EN_QUOTA}、
-   一手（官方沿革頁／政府統計／法規／學術論文）≥ {PRIMARY_QUOTA}、反方／批評視角 ≥ {OPPO_QUOTA}。
-   真的搜不到某類 → 在 §4 negative findings 明寫「本題 X 類來源稀少，因為…」，不靜默跳過。
+3. **搜尋配額 {QUOTA} 次＝天花板，到量立刻收尾寫報告**（不是下限、不是目標、超跑不是美德）。
+   整篇文章的總搜尋量是 ~150 次，你拿到的是其中分給你的一份；**多搜的不會變成更好的文章，
+   只會變成塞爆報告的待驗證線索**。配額內優先序：英文／國際／學術 ≥ {EN_QUOTA}、一手
+   （官方沿革頁／政府統計／法規／學術論文）≥ {PRIMARY_QUOTA}、反方／批評視角 ≥ {OPPO_QUOTA}。
+   配額用完仍有子題沒挖完 → §4 誠實寫「本題還缺 X，配額內未及查」，**不加碼硬挖**；
+   真的搜不到某類 → §4 明寫「本題 X 類來源稀少，因為…」，不靜默跳過。
 4. **高風險 atom（年份／人名／金額／引語／獎項屆次／統計）≥ 2 獨立來源交叉**。互相矛盾時
    不靜默取一——把分歧版本全列出＋各自來源＋你的判斷與理由。
 5. **數字三查**：單位（台斤 vs 公斤 vs 台幣美元）、統計口徑（單月快照 vs 全年、母體含不含子類）、

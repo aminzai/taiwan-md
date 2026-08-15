@@ -5,7 +5,7 @@ type: 'pipeline-canonical'
 status: 'canonical'
 current_version: 'v9.7'
 last_updated: 2026-08-15
-last_session: '2026-08-15-095913-manual（v9.7 研究層品質波：哲宇 directive「大幅梳理 REWRITE-PIPELINE / RESEARCH-AGENT-PROMPT 讓未來產出高品質研究與文體＋整合 session 要有判斷好報告的準則」——STAGE-1A v9.2 新增 Step 1.7.5 整合與清理六判準＋搜尋量天花板制（fan-out ~70-80 上限 100）；RESEARCH-AGENT-PROMPT v2.1 好報告形態正面範本＋契約第 6 條 Findings 寫世界不寫任務；research-report-health v4 合成層過程噪音 gate。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
+last_session: '2026-08-15-095913-manual（v9.7 研究層品質波：哲宇 directive「大幅梳理 REWRITE-PIPELINE / RESEARCH-AGENT-PROMPT 讓未來產出高品質研究與文體＋整合 session 要有判斷好報告的準則」——STAGE-1A v9.2 新增 Step 1.7.5 整合與清理六判準＋搜尋量天花板制（全篇 ~150：Stage 0 20-30＋fan-out ~120-130，四隻各 ~30）；RESEARCH-AGENT-PROMPT v2.1 好報告形態正面範本＋契約第 6 條 Findings 寫世界不寫任務；research-report-health v4 合成層過程噪音 gate。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
