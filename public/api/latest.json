@@ -1,8 +1,269 @@
 {
-  "_generated": "2026-08-14T22:12:48.120Z",
+  "_generated": "2026-08-15T22:12:32.454Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案",
+        "desc": "1957 年取得礦權、1974 年開始開採的花蓮新城山礦場，2017 年獲准再挖 20 年，卻因未先完成原住民族諮商同意而在 2021 年遭最高行政法院撤銷展限。判決改變了程序，沒有立刻讓爆破停止；2026 年補辦環評時，安全、還地與關場計畫仍由部落繼續追問。",
+        "category": "history",
+        "href": "/history/%E4%BA%9E%E6%B3%A5%E6%96%B0%E5%9F%8E%E5%B1%B1%E7%A4%A6%E5%A0%B4%E4%BA%8B%E4%BB%B6",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本",
+        "desc": "1950年代三階段土地改革讓佃農成為自耕農，也把地主補償、共有地爭議與農業資本轉向工業的矛盾一起寫進台灣經濟起飛的起點。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E5%9C%9F%E5%9C%B0%E6%94%B9%E9%9D%A9",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "嘉南大圳：水不夠種滿所有田，才有了三年輪作",
+        "desc": "1920 年開工、1930 年完工的嘉南大圳，把烏山頭水庫與 1 萬多公里水路接進嘉南平原，曾支撐約 15 萬公頃農地。它最值得理解的地方，不是八田與一的單人傳記，而是水不夠時，農民如何共同承擔分配。",
+        "category": "history",
+        "href": "/history/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子",
+        "desc": "1982 年，低放射性廢棄物被送進達悟族人的家園；1998 年，族人以「驅逐惡靈」要求搬走，台電也曾承諾 2002 年底前遷出。四十多年後，蘭嶼留下的不只是一座貯存場，而是一場關於安全、同意與誰能決定家園的未完協商。",
+        "category": "history",
+        "href": "/history/%E8%98%AD%E5%B6%BC%E6%A0%B8%E5%BB%A2%E6%96%99",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "漯底山：53 公尺高的海濱泥火山，軍事禁區留下的月世界",
+        "desc": "高雄彌陀的漯底山以泥岩惡地、兩個小型噴泥口與戰地遺跡並存，走一圈約 2 公里的步道，看見海岸地景如何被軍事管制保存下來。",
+        "category": "geography",
+        "href": "/geography/%E6%BC%AF%E5%BA%95%E5%B1%B1",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣 VTuber：V皮之外，誰在把虛擬偶像帶進現實？",
+        "desc": "2017 年 Yahoo TV 推出虎妮，台灣 VTuber 從企業內容實驗走到 2025 年累計逾 3,000 位出道。它既讓高雄林小姐在不露臉的前提下做政治時事直播，也讓南一與公視把角色帶進教育和公共內容；與此同時，本土創作者仍在日本企業勢的成熟產業鏈與台灣觀眾的互動習慣之間找路。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3VTuber",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 28,
+        "image": ""
+      },
+      {
+        "title": "原住民族姓名：從親名到「豆」「風」，名字如何寫下關係",
+        "desc": "原住民族姓名不只由個人名構成，還可能連著親名、氏族名、家屋名與生命階段。賽夏族「豆」「風」等少見漢姓，保存了氏族名、歷史登記與家族記憶交會後的線索。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%A7%93%E5%90%8D",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "台灣獸迷文化：從網路社群走進公共場域",
+        "desc": "台灣獸迷如何從二○○○年代的網路社群，走進高雄圖書館與跨國年會，在角色創作、獸裝、組織與公益之間建立自己的公共性。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E7%8D%B8%E8%BF%B7%E6%96%87%E5%8C%96",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "噶瑪蘭族：香蕉絲與重新被叫回的名字",
+        "desc": "從蘭陽平原的河海聚落、1878 年加禮宛戰役到 2002 年復名，噶瑪蘭族如何用族語、祭儀、海岸生活與香蕉絲編織，把曾被行政分類抹去的族名帶回家庭、部落與公共記憶。這篇文章也區分官方認定、族人認同與文化復振三個不同層次，說明復名之後仍未結束的身分與傳承問題。",
+        "category": "culture",
+        "href": "/culture/%E5%99%B6%E7%91%AA%E8%98%AD%E6%97%8F",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出",
+        "desc": "2024 年巴黎文化奧運的 500 份茄芷袋禮包一小時內發送完畢。它從臺南後壁的藺草與石碖出發，歷經尼龍網布與設計轉譯；真正被帶上國際舞台的，不是被洗白的鄉愁，而是一段仍可辨認的常民勞動。",
+        "category": "culture",
+        "href": "/culture/%E8%8C%84%E8%8A%B7%E8%A2%8B",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "阿美族年齡階級：替時代命名的部落制度",
+        "desc": "從 3 至 5 歲一組的共同訓練，到以「電腦」「民國」與地方事件命名的年齡組，阿美族把公共工作、祭典秩序與歷史記憶交給一套會隨時代改寫的制度；當這套制度進入都市，傳承也開始面對族語流失與表演化的考驗。",
+        "category": "culture",
+        "href": "/culture/%E9%98%BF%E7%BE%8E%E6%97%8F%E5%B9%B4%E9%BD%A1%E9%9A%8E%E7%B4%9A",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 10,
+        "image": "https://aborgpedia.alcd.center/?option=com_fileman&view=file&routed=1&name=%E9%98%BF%E7%BE%8E%E6%97%8F-1.jpg&folder=%E6%97%8F%E7%BE%A4%E9%A1%9E%E5%B1%AC%2F%E9%98%BF%E7%BE%8E%E6%97%8F&container=fileman-files"
+      },
+      {
+        "title": "烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃",
+        "desc": "烏魚被西部沿海漁民叫作「信魚」，帶來冬至前後短暫的收成。烏魚子把一對卵巢交給去血、鹽漬、壓製與乾燥；口湖養殖、沿近海魚汛與產地標示的拉扯，讓這片金黃不只是年菜，也是一段台灣西岸回應海況與時間的技藝。",
+        "category": "food",
+        "href": "/food/%E7%83%8F%E9%AD%9A%E5%AD%90",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 12,
+        "image": "https://www.taiwan-panorama.com/s3/tw-panorama.com/Uploads/2023/01/61028450-37eb-4649-ad08-c3cd033bb7bf/14.jpg?w=1080&mode=crop&format=webp&quality=80"
+      },
+      {
+        "title": "燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉",
+        "desc": "1967 年，麥幸夫在台北武昌街以東陽燒臘行起家；1988 年，新東陽從香港延攬燒臘師傅，讓掛在玻璃櫃裡的叉燒、燒肉與油雞走進便當盒。這不是一段單純的移植史：香港的燒味技藝，最後被台灣人的配菜、價格與外帶習慣重新編排，成為街角最熟悉的異鄉味。",
+        "category": "food",
+        "href": "/food/%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": null,
+        "image": "https://img.youtube.com/vi/_idnM8SSQ6c/0.jpg"
+      },
+      {
+        "title": "總統府：一座總督府辦公樓，如何變成民主的開放現場",
+        "desc": "1912 年動工、1919 年落成的總統府，曾是殖民政府的權力象徵、戰後的介壽館，也曾在戒嚴時期成為禁區。它今天仍是總統辦公的地方，卻也讓一般人排隊走進去，讓建築的每一面牆都碰到台灣不同時代的記憶。",
+        "category": "art",
+        "href": "/art/%E7%B8%BD%E7%B5%B1%E5%BA%9C",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "Threads 在台灣：從「我吃一點」到埃及學生證，一條動態牆怎麼長成數位夜市",
+        "desc": "2025 年底，一張在埃及人面獅身像附近拾得的台大學生證，在 Threads 上被轉成跨國協尋；同一面動態牆裡，日韓旅客的美食照會招來「你好，我吃一點」貓咪。台灣的「脆」把廢文、互助、迷因與公共討論擠在一起，讓陌生人短暫坐上同一桌，再把故事接力送遠。",
+        "category": "technology",
+        "href": "/technology/Threads%E5%9C%A8%E5%8F%B0%E7%81%A3",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 45,
+        "image": ""
+      },
+      {
+        "title": "吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼",
+        "desc": "1982 年出生台北的吳季剛，5 歲開始替洋娃娃做衣服，2009 年讓蜜雪兒．歐巴馬穿上他的白色禮服。台灣教室用他的故事談性別刻板印象，但更該問的是：孩子何以要先成功，才被允許自在喜歡洋娃娃？",
+        "category": "people",
+        "href": "/people/%E5%90%B3%E5%AD%A3%E5%89%9B",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史",
+        "desc": "從海產店面談走上補教講臺，呂捷用故事推動正課，卻也要求學生回到史料、史實與史觀。",
+        "category": "people",
+        "href": "/people/%E5%91%82%E6%8D%B7",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師",
+        "desc": "從 2009 年紐約被媒體追訪，到 2016 年在台南開設牙醫診所，陳幸妤如何在政治家庭的注視下，把生活帶回牙醫專業？",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E5%B9%B8%E5%A6%A4",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "黃土水：一尊從失蹤中回來的臺灣現代雕塑",
+        "desc": "他在東京學會西洋雕塑，卻在異鄉的目光裡逐步找到臺灣；一件失蹤七十年的大理石作品，讓這段藝術史重新現身。",
+        "category": "people",
+        "href": "/people/%E9%BB%83%E5%9C%9F%E6%B0%B4",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 8,
+        "image": "https://collections.culture.tw/files/12/JPG640/111009430000.JPG"
+      },
+      {
+        "title": "學測：一場只考三天，卻把高中三年折成一張分數表的考試",
+        "desc": "從 1954 年聯考、1994 年學測到今日的分科測驗，理解台灣大學入學制度如何在單一標準與多元選才之間調整，也釐清學測、分科測驗與重考的不同路徑。",
+        "category": "society",
+        "href": "/society/%E5%AD%B8%E6%B8%AC",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔",
+        "desc": "2020 年口罩短缺時，台灣把工具機、紡織、軍方與政府接成一條供應鏈，40 天完成 92 條產線。真正值得記住的，是這套平時分散、危機時能協作的製造能力。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣垃圾車文化：當世界名曲變成公民社會的集體召喚",
+        "desc": "從貝多芬的《給愛麗絲》到巴達澤夫斯卡的《少女的祈禱》，台灣街頭響起的垃圾車旋律不只是清運信號，更是一場歷時半世紀、塑造全球罕見高回收率與獨特鄰里凝結力的社會行為實驗。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%9E%83%E5%9C%BE%E8%BB%8A%E9%9F%B3%E6%A8%82",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "小綠人：從倒數計時到交通訊號的邊界",
+        "desc": "小綠人出現之前，行人先讀的是靜態紅、綠人形；臺北把它變成倒數動畫後，它又成為地方創意、都市傳說與交通安全辯論的載體。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%B0%8F%E7%B6%A0%E4%BA%BA",
+        "date": "2026-08-15T17:13:46+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "台灣鐵路便當：把一段漫長旅程裝進圓盒裡",
+        "desc": "1914 年月台叫賣、1956 年沒有餐車的飛快車、1961 年先炸後滷的排骨，以及 2000 年重新排隊的懷舊便當：一份為移動而生的餐點，如何變成台灣共同記憶。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E9%90%B5%E8%B7%AF%E4%BE%BF%E7%95%B6",
+        "date": "2026-08-15T17:07:58+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "櫻花鉤吻鮭：冰河孑遺的歸鄉路，從瀕危到流域整體保育的台灣奇蹟",
+        "desc": "1917年，日本學者大島正滿在台灣發現冰河孑遺生物「櫻花鉤吻鮭」，泰雅族稱之為「Mnbang」。歷經棲地破壞與族群銳減至1995年僅200餘尾的危機，透過拆壩、人工復育與創新「無水運輸」技術，至2023年達1.8萬尾高峰，近年雖有波動，但已穩定維持在1.5萬尾以上，成為台灣流域整體保育的成功典範。",
+        "category": "nature",
+        "href": "/nature/%E6%AB%BB%E8%8A%B1%E9%89%A4%E5%90%BB%E9%AE%AD",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "陳致中：從第一家庭光環到「排黑條款」下的政治浮沉",
+        "desc": "2008年，陳致中因海外洗錢案被迫中斷學業返台，開啟他與司法爭議交織的政治生涯。他曾兩度以選區最高票當選高雄市議員，卻也三度因案解職。2023年「排黑條款」通過後，其政治之路看似終結，他卻轉向 Threads 等社群平台，與父親陳水扁以「Water」等幽默互動，展現出非典型的父子關係與數位回歸。",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E8%87%B4%E4%B8%AD",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "咖波：一隻不像貓的貓，如何變成台灣人的聊天語言",
+        "desc": "從 2014 年的原創貼圖到漫畫、遊戲、展覽與咖波屋，亞拉如何讓一隻像貓又像蟲的角色，住進台灣人的日常對話。",
+        "category": "culture",
+        "href": "/culture/%E5%92%96%E6%B3%A2",
+        "date": "2026-08-15T16:21:54+08:00",
+        "readingTime": 6,
+        "image": "/article-images/culture/capoo-taipei-station-2025.jpg"
+      },
+      {
+        "title": "台灣科技說故事：100 分的晶片，60 分的麥克風",
+        "desc": "台灣做得出一百分的晶片，卻習慣用供應商簡報的語氣講它。同一顆晶片，高通講成神話、聯發科講成規格表；NVIDIA 一顆都不親手做，淨利卻是代工方的兩倍。這 40 分的差距，市場早就把帳算好了，而且帳單就印在淨利率上。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E8%AA%AA%E6%95%85%E4%BA%8B",
+        "date": "2026-08-15T16:21:54+08:00",
+        "readingTime": 16,
+        "image": "/article-images/technology/tsmc-fab-14b-2025.webp"
+      },
+      {
+        "title": "帝雉：千元鈔背面的王者，愈容易遇見愈要退一步",
+        "desc": "1906 年，古費洛從鄒族頭飾上的兩根黑白尾羽辨認出帝雉。牠後來登上千元鈔票，成為台灣高山最容易被記住的特有鳥類。但 2024 年鳥類紅皮書的「暫無危機」，與法律上的珍貴稀有保育類身分並不矛盾。大雪山和塔塔加真正該練習的，是遇見牠時退一步。",
+        "category": "nature",
+        "href": "/nature/%E5%B8%9D%E9%9B%89",
+        "date": "2026-08-14T18:58:16+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現",
         "desc": "1947 年，新竹芎林的范揚開在放學後背著約 2.5 公斤的冰桶賣冰。1950 至 1970 年代，腳踏車小販用一枚橡膠球喇叭把冰送進巷子。從港口製冰、澱粉口感到孩子承擔的融冰風險，叭噗保存的不是三色外觀，而是一種靠聲音、器物與勞動讓食物遇見人的方法。",
@@ -11,270 +272,27 @@
         "date": "2026-08-14T09:10:04+08:00",
         "readingTime": 13,
         "image": ""
-      },
-      {
-        "title": "衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場",
-        "desc": "1992 年，民間運動把高雄衛武營從軍事用地的未來拉回公共討論；2018 年 10 月 13 日，歷經 15 年、107.5 億元的工程開幕。四個廳院藏在榕樹般的屋頂下，但這座建築真正要回答的，是藝術能不能在沒有買票以前先成為城市日常。",
-        "category": "art",
-        "href": "/art/%E8%A1%9B%E6%AD%A6%E7%87%9F",
-        "date": "2026-08-14T07:12:43+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "圓山大飯店：紅色宮殿裡的祕密隧道與權力交替",
-        "desc": "從日治神社遺址到蔣宋美齡的國賓館，圓山大飯店不僅是台灣最具代表性的宮殿建築，更在祕密隧道與紅牆之間，見證了從威權巔峰到民主組黨的荒謬與傳奇。",
-        "category": "history",
-        "href": "/history/%E5%9C%93%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97",
-        "date": "2026-08-14T05:47:32+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐",
-        "desc": "成立於 2013 年的沃草（Watchout）是台灣公民科技與獨立媒體的先驅。從太陽花學運的資訊傳播、公民學院的思辨教育，到與國際 NGO 合作發布民防指南，沃草如何透過數位工具守護台灣民主？",
-        "category": "society",
-        "href": "/society/%E6%B2%83%E8%8D%89",
-        "date": "2026-08-13T13:03:57+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史",
-        "desc": "從雲林虎尾街頭的傳統布袋戲班，到電視螢幕上萬人空巷的《雲州大儒俠》，再到現代特效與數位偶戲的跨界重生，黃海岱家族如何用一雙巧手撐起台灣數十年的庶民娛樂與文化記憶？",
-        "category": "culture",
-        "href": "/culture/%E9%9B%BB%E8%A6%96%E5%B8%83%E8%A2%8B%E6%88%B2",
-        "date": "2026-08-13T12:55:46+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "「功」字裡的那根反斜線：台灣工程師每天付的兩層預設稅",
-        "desc": "語系 zh-TW 的 Windows 11 上，翻譯狀態腳本把掃到的四千多條路徑全丟進 root，Technology 變成零，同一週 Linux 的 CI 卻是綠的。腳本用正斜線切分類名，磁碟用反斜線，切不出來。更老的一層埋在字裡：Big5 的「功」第二個位元組就是 ASCII 反斜線，開發圈叫它許功蓋。路徑怎麼寫、字裡住了什麼符號，預設值都沒把這台機器算進去。Git 的 quotePath 是另一條線，成因不一樣。",
-        "category": "technology",
-        "href": "/technology/%E5%8A%9F%E5%AD%97%E8%A3%A1%E7%9A%84%E9%82%A3%E6%A0%B9%E5%8F%8D%E6%96%9C%E7%B7%9A",
-        "date": "2026-08-13T05:05:30+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "防空避難：一張地圖裡，台灣還沒回答的問題",
-        "desc": "2025年春天，內政部說台灣已有8萬2千多處防空避難處所；台北市的地下停車場、捷運與商場，則在警報響起時變成另一張城市地圖。問題不只是容量夠不夠，而是高樓居民、老人、兒童與行動不便者，能否在三分鐘內找到一條真的走得通、進得去、留得下來的路。",
-        "category": "society",
-        "href": "/society/%E9%98%B2%E7%A9%BA%E9%81%BF%E9%9B%A3",
-        "date": "2026-08-13T00:33:14+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣",
-        "desc": "2024年8月11日，巴黎羅蘭蓋洛斯球場上，林郁婷以壓倒性姿態摘下台灣奧運史上首面拳擊金牌。從鶯歌國中的地下拳館出發，她歷經東京奧運挫敗、四強賽對手的「X」手勢挑釁、國際政治博弈與全球跨國網路霸凌。本文深度解構其「魔法師」哲學、長年陪練員李承威的幕後貢獻、技術演變、性別科學、文化大學教職、社會凝聚力與拳擊四后的革命情感，並收錄 2026 年 World Boxing 正式認可其參賽資格的最新史詩進展。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E9%83%81%E5%A9%B7",
-        "date": "2026-08-12T14:06:03+08:00",
-        "readingTime": 25,
-        "image": ""
-      },
-      {
-        "title": "樹林紅麴：酒廠走了，菌還留在香腸裡",
-        "desc": "樹林曾是全台灣唯一的紅麴製造工場，紅露酒的故鄉。2004 年酒廠走入歷史，原址成了科技園區，但紅麴以香腸、醬料與文化節的形式，繼續在樹林的街道上發酵。",
-        "category": "food",
-        "href": "/food/%E7%B4%85%E9%BA%B4",
-        "date": "2026-08-12T09:03:20+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "王福瑞：從 200 份影印雜誌到 12 聲道喇叭的三十年",
-        "desc": "1993 年，24 歲的王福瑞用程式設計師薪水，在自家影印機印 200 份《NOISE》實驗音樂雜誌，售價 15 到 30 元一本。三十年後（2020）他在就在藝術空間掛起多面體 12 聲道全指向喇叭，作品是大病過後身體裡人工血管的細碎頻率。從一個人的 DIY 廠牌到美術館的展廳，他用三十年讓「噪音」這個詞從邊緣 fanzine 圈的暗號，走進台灣聲音藝術的合法語彙。",
-        "category": "people",
-        "href": "/people/%E7%8E%8B%E7%A6%8F%E7%91%9E",
-        "date": "2026-08-12T00:40:46+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/wang-fujui-noise-silence-2020.webp"
-      },
-      {
-        "title": "台灣新冠疫情與疫苗：買到的十八個月，和沒趕上的那一針",
-        "desc": "2020 年 2 月 15 日，一名沒出過國的白牌車司機病逝，是台灣第一例 COVID-19 死亡。靠邊境管制與一張健保卡，台灣把大流行擋在門外將近十八個月，2020 年全年只有 799 例確診、7 人死亡。但第一批疫苗 2021 年 3 月才到，只有 11.7 萬劑；2022 年 Omicron 進來時，長者的第三劑還落在後面。那一年死亡年齡的中位數是 82 歲，比前一年多了十歲。承擔代價的另外幾群人——救濟被駁回的、離開醫院的、被關在宿舍裡的——很多到今天都沒有被算進任何一份統計。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%88%87%E7%96%AB%E8%8B%97",
-        "date": "2026-08-09T00:27:04+08:00",
-        "readingTime": 32,
-        "image": "/article-images/society/covid-vaccination-expo-dome-2021.webp"
-      },
-      {
-        "title": "當地震來襲時，誰在值班？台灣災難醫療體系的制度密碼",
-        "desc": "從921地震到花蓮強震，台灣如何建構出以急診科為核心的災難醫療網？制度設計的精妙之處不在設備，而在「誰值班」的巧思。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E7%81%BD%E9%9B%A3%E9%86%AB%E7%99%82%E9%AB%94%E7%B3%BB",
-        "date": "2026-08-09T00:14:24+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "唐鳳：她每一次有名的決定，都是在拒絕「天才」這個標籤",
-        "desc": "8 歲被同學踹昏、14 歲拒絕保送建中、24 歲跨性別出櫃但拒絕當代言人、35 歲入閣談的第一個條件是「沒辦公室」。2025 年 12 月 2 日她在斯德哥爾摩接受 Right Livelihood Award，台上說的不是「我」，是「我們」。",
-        "category": "people",
-        "href": "/people/%E5%94%90%E9%B3%B3",
-        "date": "2026-08-09T00:14:24+08:00",
-        "readingTime": 14,
-        "image": "/article-images/people/audrey-tang-portrait-2016.webp"
-      },
-      {
-        "title": "台灣公共衛生與防疫體系",
-        "desc": "2003 年和平醫院封院死了 30 個人。十七年後 COVID-19 全球大爆發，台灣靠那場災難的教訓撐了 18 個月零社區感染。一場創傷如何變成一座島嶼的免疫記憶。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%85%B1%E8%A1%9B%E7%94%9F%E8%88%87%E9%98%B2%E7%96%AB%E9%AB%94%E7%B3%BB",
-        "date": "2026-08-09T00:14:24+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "國際移工：87 萬人的「大客廳」與跨越海洋的生存拉鋸",
-        "desc": "截至 2026 年 3 月，在台移工已達 87.3 萬人，加上失聯者總數接近百萬，佔台灣常住人口逾 5%。本文深度解析印尼、越南、菲律賓、泰國四國勞動力特色，探討移工大遊行對「廢除工作年限」的訴求，並平衡呈現 2026 年印度移工引進計畫背後的民意焦慮、在野黨監督與政府的「條件式」引進立場。",
-        "category": "society",
-        "href": "/society/%E7%A7%BB%E5%B7%A5",
-        "date": "2026-08-09T00:14:24+08:00",
-        "readingTime": 30,
-        "image": ""
-      },
-      {
-        "title": "台灣醫療與全民健保：99.6% 撐在 12.61% 之上的世界第一",
-        "desc": "1995 年 3 月 1 日的健保卡是火燒屁股趕出來的：六天前連卡都沒印好。30 年後，2,300 萬人的就醫權利撐在 5.17% 費率、護理離職率 10 年新高 12.61%、跟 30 年沒人敢動的政治禁忌上。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D",
-        "date": "2026-08-09T00:14:24+08:00",
-        "readingTime": 22,
-        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
-      },
-      {
-        "title": "台灣企業：三商——三杯咖啡、一雙鞋與一張保單裡的六十年",
-        "desc": "1964 年三名台大商學系學生用 50 萬元創立三商行，從出口手工藝品開始。六十年後，它變成了美廉社、三商巧福、全家福與三商壽——台灣人每天的生活裡，幾乎都繞不開這家低調經營日常的集團。",
-        "category": "economy",
-        "href": "/economy/%E4%B8%89%E5%95%86",
-        "date": "2026-08-08T22:14:47+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "鬍鬚張：一碗被名廚罵出來的滷肉飯，賣上了四萬英呎高空",
-        "desc": "1960 年，木匠張炎泉在台北雙連派出所對面擺起「雙連魯肉飯」路邊攤，因忙到沒空刮鬍子被顧客喚作「鬍鬚張」。六十六年後，這碗滷肉飯登上華航機上餐、中央廚房通過三重國際食安認證，招牌小碗魯肉飯卻凍漲八年。一個被罵出來的品牌，如何與便利商店打仗？",
-        "category": "food",
-        "href": "/food/%E9%AC%8D%E9%AC%9A%E5%BC%B5",
-        "date": "2026-08-08T21:53:08+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "博客來：從一家網路書店，到替台灣人拿捏「質感生活」的電商長子",
-        "desc": "1995 年底創辦、1996 年開站的博客來，是台灣第一家網路書店。它靠著「7-ELEVEN 取貨付款」這招，替整個台灣網購市場拆除了信任與物流的炸彈；其後加入統一超商，長成全台規模最大的線上圖書與質感生活通路。這篇文要看的，是它如何把一箱箱書送到你巷口，最後長成了統一集團數位版圖中最具原生基因的老長子。",
-        "category": "economy",
-        "href": "/economy/%E5%8D%9A%E5%AE%A2%E4%BE%86",
-        "date": "2026-08-06T23:08:13+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "煙火、醬油與滿月：台灣中秋烤肉民俗的演變與集體記憶",
-        "desc": "台灣的中秋節會烤肉，多數人以為是「一家烤肉萬家香」那支醬油廣告造成的。但翻回 1980 年代的報紙，烤肉出現得比廣告更早：1982 年新竹的烤肉爐外銷不景氣、廠商轉內銷，才是那年中秋滿街炭火的起點。這篇要看的，是一則廣告詞如何後來居上，變成一整座島嶼共同的節慶記憶。",
-        "category": "culture",
-        "href": "/culture/%E4%B8%AD%E7%A7%8B",
-        "date": "2026-08-06T22:43:47+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "馬祖國際藝術島：一座沒有展館的美術館，把整座列島借來當展場",
-        "desc": "作品放在養雞場、雜貨店、一家得先訂位才進得去的餐廳，還有一件在開往南竿的船上。連江縣政府與中華文化總會合辦的馬祖國際藝術島，十年五屆散在四鄉五島，沒有為自己蓋一座展館，打過仗的坑道、軍中電影院、店家與船班全部借來當展場，開放時間跟著店家走。這是縣長說的「島嶼博物館」最具體的樣子，而那些借來的空間裡，早就有人在說話。",
-        "category": "art",
-        "href": "/art/%E9%A6%AC%E7%A5%96%E5%9C%8B%E9%9A%9B%E8%97%9D%E8%A1%93%E5%B3%B6",
-        "date": "2026-08-06T14:50:03+08:00",
-        "readingTime": 17,
-        "image": "/article-images/art/matsu-biennial-qinbi-village-2025.webp"
-      },
-      {
-        "title": "池上便當：從月台上的木片盒到全台米食的代名詞",
-        "desc": "從日治末期月台上的兩顆竹葉飯糰，到開枝散葉的連鎖品牌，池上便當用八十年把一個東台灣車站的名字變成台灣米的最高標準。薄木盒是一套濕度管理系統，1982 年的鎘米事件是米權從濁水溪移轉到花東縱谷的轉折，1996 年的仿冒潮則逼出了全台第一張地理標誌證明標章。",
-        "category": "food",
-        "href": "/food/%E6%B1%A0%E4%B8%8A%E4%BE%BF%E7%95%B6",
-        "date": "2026-08-06T01:48:23+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "2026年分科測驗不送分爭議：教育誠信的結構性危機",
-        "desc": "2026 年 7 月分科測驗因強颱巴威首度延期，成績公布後爆發 149 件試題申訴，大考中心全數維持原案、一題都不送分。生物科兩個選項一模一樣、地理科題幹寫折線圖選項卻全是直方圖，官方回覆都是「不影響作答」。立委、家長與一份公民連署要的其實很簡單：拿出能被檢驗的依據，而不只是一句結論。",
-        "category": "society",
-        "href": "/society/2026%E5%B9%B4%E5%88%86%E7%A7%91%E7%88%AD%E8%AD%B0",
-        "date": "2026-08-05T21:51:00+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "蝦皮購物：橘色帝國的擴張軌跡與數位社會的博弈",
-        "desc": "2015 年登台的蝦皮，用免運補貼打下 PChome 的江山，再用 2,500 間店到店把物流的最後一哩路收進自己手裡，如今韓國酷澎又從後面追上來。橘色招牌現在開到巷口，但騰訊持股的陸資疑雲、蟬聯高風險賣場首位的詐騙漏洞與每年數萬公噸的包裝廢棄物，也一起留在台灣的數位社會裡。",
-        "category": "economy",
-        "href": "/economy/Shopee",
-        "date": "2026-08-05T21:07:08+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "台灣水果王國：這座島嶼把每一顆水果都當成生命跟記憶在種",
-        "desc": "從玉井山坡的清晨、麻豆文旦老欉、濱江凌晨拍賣、削果皮的阿嬤，到荔枝椿象跟外籍移工的果園：這座亞熱帶島嶼把水果變成一種跟土地、跟世代、跟世界對話的方式。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
-        "date": "2026-08-04T18:41:16+08:00",
-        "readingTime": 16,
-        "image": "/article-images/food/fruit-kingdom-mango-fangliao-2009.webp"
-      },
-      {
-        "title": "台灣行道樹：一條用樹命名的路，和一百年沒做完的決定",
-        "desc": "彰化市茄苳路二段 292 號，門牌是一棵樹齡眾說紛紜的老茄苳取的——路配合樹，不是樹配合路。從 1898 年田代安定的植樹論、1980 年代狂種的黑板樹，到 2026 年六千多人連署要求禁止斷頭式修剪，每一代台灣人都替街上的樹做過決定。只是那份寫著「一律禁止」的修剪指引，到今天還只是「供各機關參考運用」。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E8%A1%8C%E9%81%93%E6%A8%B9",
-        "date": "2026-08-04T18:38:23+08:00",
-        "readingTime": 18,
-        "image": "/article-images/lifestyle/jiji-green-tunnel-camphor-2017.webp"
-      },
-      {
-        "title": "台灣海關報關與 EZ WAY：按下「申報相符」的那一下，你委任了誰",
-        "desc": "手機震一下，推播上是一串看不太懂的品名，你按下「申報相符」，法律上完成的是一份報關委任。全台有 759 萬人註冊過這個 App，2026 年 8 月一則貼文炸開後，很多人才第一次去查它是誰在營運：財政部持股 36.11%、官股未過半的關貿網路。同一時間，2,000 元免稅門檻正被政府第二次提出調降。這條便民捷徑的帳，誰付了、誰又從頭到尾沒能說上話。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E6%B5%B7%E9%97%9C%E5%A0%B1%E9%97%9C%E5%88%B6%E5%BA%A6%E8%88%87EZWAY",
-        "date": "2026-08-04T14:37:09+08:00",
-        "readingTime": 16,
-        "image": "/article-images/lifestyle/ezway-customs-taoyuan-airport-2024.webp"
-      },
-      {
-        "title": "國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕",
-        "desc": "從麥當勞玉米濃湯到必勝客「獵奇」披薩，國際品牌如何透過在地化策略融入台灣生活？本文橫跨速食、量販與超商，解析品牌如何轉化文化張力，並特別更新家樂福更名為「萬家福」與「樂家康」後的最新佈局。",
-        "category": "food",
-        "href": "/food/%E5%9C%8B%E9%9A%9B%E5%93%81%E7%89%8C%E5%9C%A8%E5%9C%B0%E5%8C%96",
-        "date": "2026-08-04T10:19:04+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "新港飴：從雨天意外到廟口百年的文化記憶",
-        "desc": "1891年，嘉義民雄小販盧欺頭因連日陰雨使花生糖受潮，意外將其與麥芽糖、麵粉揉合，創造出形似老鼠的「鳥鼠仔糖」。這顆因「惜物」而生的軟飴，隨後在嘉義新港奉天宮廟口扎根，從庶民零嘴晉升為日治時期博覽會的獲獎名產，成為台灣進香文化中不可或缺的甜味記憶。",
-        "category": "food",
-        "href": "/food/%E6%96%B0%E6%B8%AF%E9%A3%B4",
-        "date": "2026-08-04T10:19:04+08:00",
-        "readingTime": 6,
-        "image": ""
-      },
-      {
-        "title": "黃崇仁：他學的是醫學，一輩子把公司當病人救",
-        "desc": "黃崇仁在美國拿的是醫學博士，三十八歲才辭掉教職去做掃描器。2012 年力晶以每股 0.29 元下市，約二十七萬名股東的股票變成壁紙，銀行團要他個人背書八百億或下台，他兩個都不選，寫信給四十三家銀行說自己不紓困，一塊一塊賣掉資產保住產線。九年後公司回到股市。同一套不清算的邏輯救回了工廠，也讓他在三毛錢的價位買回自己的股票。",
-        "category": "people",
-        "href": "/people/%E9%BB%83%E5%B4%87%E4%BB%81",
-        "date": "2026-08-04T00:29:54+08:00",
-        "readingTime": 26,
-        "image": "/article-images/people/huang-chong-jen-honorary-doctorate-2022.webp"
       }
     ],
     "en": [
+      {
+        "title": "The Formosan Landlocked Salmon: A Glacial Relict's Journey Home — From the Brink of Extinction to Taiwan's Watershed Conservation Miracle",
+        "desc": "In 1917, Japanese scholar Oshima Masamitsu discovered the Formosan landlocked salmon, a glacial relict called 'Mnbang' by the Atayal people. After habitat destruction reduced the population to just 200-plus fish in 1995, more than two decades of effort combining dam removal, artificial breeding, and the innovative 'waterless transport' technique brought the population to a peak of 18,000 in 2023. Though slightly affected by natural disasters in recent years, numbers have stabilized above 15,000 — a successful model for Taiwan's watershed-integrated conservation.",
+        "category": "nature",
+        "href": "/en/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Chen Chih-chung: From the Spotlight of the First Family to Political Ups and Downs Under the 'Blacklisting Clause'",
+        "desc": "In 2008, Chen Chih-chung was forced to interrupt his studies and return to Taiwan due to an overseas money laundering case, beginning a political career intertwined with judicial controversies. He was elected Kaohsiung City Councilor twice with the highest vote share in his constituency, yet was also removed from office three times due to legal cases. After the passage of the 'blacklisting clause' in 2023, his political path appeared to reach an end, but he turned to social media platforms such as Threads, engaging in humorous interactions with his father Chen Shui-bian under the nickname 'Water,' showcasing an unconventional father-son relationship and a digital comeback.",
+        "category": "people",
+        "href": "/en/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "The 2026 Advanced Subjects Test Controversy: A Structural Crisis of Educational Integrity",
         "desc": "In July 2026, the Advanced Subjects Test was delayed for the first time due to Super Typhoon Bavi; following the release of results, 149 exam appeals were filed, all of which were rejected by the CEEC. With identical options in Biology and histogram errors in Geography, official responses merely claimed \"no impact on performance.\" Legislators, parents, and a civic petition are demanding verifiable evidence rather than mere conclusions.",
@@ -526,27 +544,27 @@
         "date": "2026-07-27T18:53:04+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "The Ten Major Construction Projects: A NT$200 Billion Gamble Backed by US$1 Billion in Foreign Reserves",
-        "desc": "In 1973, Taiwan held just US$1 billion in foreign exchange reserves, yet Chiang Ching-kuo announced an investment of approximately NT$300 billion in the Ten Major Construction Projects. This was not merely an economic pivot in response to the oil crisis and diplomatic isolation, but also a political narrative that repackaged blueprints inherited from Japanese colonial rule and transformed them into a source of national identity.",
-        "category": "history",
-        "href": "/en/history/ten-major-construction-projects",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "44 South Village: An Arsenal Dependents’ Village, Now a Cultural and Creative Park Beside Taipei 101",
-        "desc": "In late November 1948, machinery from the Combined Logistics 44th Arsenal in Qingdao was loaded in six batches onto the Taikang and shipped to Keelung. In December, factory workers and their families arrived and moved into the former Japanese Army Xingya warehouses at Sanzhangli on Taipei’s eastern edge; Shandong dialect echoed through warehouse rooms with no walls. The following year, they built their own dependents’ housing south of the factory compound — Taiwan’s first military dependents’ village established by the Republic of China government. Field- and general-grade officers lived in West Village, company-grade officers in East Village, and Shandong technicians without military status in South Village. In 1980, the arsenal moved to Sanxia and was renamed Factory 206; West Village was demolished and became Zhongtuo public housing, while East Village residents were relocated to Zhongzhen public housing near Youth Park. Only South Village remained, because its residents were technicians and were not covered by the Ministry of National Defense dependents’ housing redevelopment regulations. In 1998, all residents moved into World Trade New Village; in 1999, a fire destroyed part of the housing; in 2001, a cultural-heritage dispute was settled with a decision to preserve four buildings; and on October 25, 2003, the Xinyi Public Assembly Hall and Military Dependents’ Village Cultural Park opened — facing the Taipei 101 then under construction.",
-        "category": "geography",
-        "href": "/en/geography/44-south-village",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/sisi-south-village-overview-2013.webp"
       }
     ],
     "ja": [
+      {
+        "title": "サクラマス：氷河期の遺産が故郷へ帰る道 ― 絶滅の淵から流域全体の保全へと至る台湾の奇跡",
+        "desc": "1917年、日本の学者・大島正満が台湾で氷河期の遺存生物「サクラマス（櫻花鉤吻鮭）」を発見しました。タイヤル族はこの魚を「Mnbang」と呼びます。生息地の破壊と個体数の激減により、1995年にはわずか200尾余りにまで追い込まれましたが、ダムの撤去、人工繁殖、そして革新的な「無水輸送」技術を通じて、2023年には1万8000尾という過去最高を記録しました。近年は変動が見られますが、1万5000尾以上の水準で安定しており、台湾における流域全体の保全の成功事例となっています。",
+        "category": "nature",
+        "href": "/ja/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "陳致中：第一家庭の光から「排黒条項」下の政治的浮沈へ",
+        "desc": "2008年、陳致中は海外マネーロンダリング事件により学業を中断し台湾に帰国せざるを得なくなり、司法問題と絡み合った政治人生が始まった。彼は2度にわたって選挙区最高得票で高雄市議員に選出されたが、3度にわたり職を解かれた。2023年に「排黒条項」が可決されたことで、その政治の道は終焉を迎えたかに見えたが、彼はThreadsなどのソーシャルメディアプラットフォームに転じ、父・陳水扁との「Water」などのユーモラスなやり取りを通じて、型破りな父子関係とデジタルへの回帰を見せている。",
+        "category": "people",
+        "href": "/ja/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "烏坵：離島の中の離島、忘れ去られた軍事の孤島と核廃棄物の影",
         "desc": "烏坵は台湾で最も偏遠な行政区であり、大坵・小坵から構成される。行政上は金門に属しながら交通の命脈は台中に繋がるこの孤島は、かつて国共対峙の前線ゲリラ基地であった。本稿では烏坵嶼灯台の再点灯が持つ主体性の意義、興化語文化の継承、そして20年にわたる核廃棄物処分場選定をめぐる住民投票の論争を深く分析し、この辺境の島嶼が国家の物語の中で見せる孤独と韌性を描く。",
@@ -798,27 +816,27 @@
         "date": "2026-07-30T09:46:44+09:00",
         "readingTime": 22,
         "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
-      },
-      {
-        "title": "苗栗県：客家の硬頸の県、8年で県庫の負債を倍増させた県長を選んだ場所",
-        "desc": "日本統治期の苗栗の樟脳は台湾全体の 95% を占め、三義は樟脳製造後の樹根を利用して木彫を始めました。2002 年、公館の北河村で第 1 回桐花祭が開かれました。2008 年、劉政鴻は 202 億元の負債を抱えた県を引き継ぎ、2014 年の退任時には帳簿上 676 億元になっていました。その間には、朱馮敏の農薬自殺、張薬房の強制撤去、1.2 億元を投じた客家円楼の蚊子館化が起きました。現在、53 万人が客家人口比率 62.5% と台湾で 2 番目に高いこの県に暮らしています。",
-        "category": "geography",
-        "href": "/ja/geography/miaoli-county",
-        "date": "2026-07-30T04:02:34+08:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
-      },
-      {
-        "title": "エッグタルト：マカオの修道院から台湾の「一斉追随」へと至る集合的記憶",
-        "desc": "1998 年に起きた急騰急落の「エッグタルト騒動」は、台湾社会における「一斉追随」型の消費行動を定義しただけでなく、台湾のケンタッキーフライドチキンを「フライドチキンに足を引っ張られたエッグタルト店」へと転換させることにもなりました。",
-        "category": "food",
-        "href": "/ja/food/portuguese-egg-tart-in-taiwan",
-        "date": "2026-07-30T04:02:34+08:00",
-        "readingTime": 6,
-        "image": "/article-images/food/dan-ta-hero.webp"
       }
     ],
     "ko": [
+      {
+        "title": "벚꽃 곤들매기: 빙하 시대 잔존종의 귀향길, 멸종 위기에서 유역 전체 보전으로 이끈 대만의 기적",
+        "desc": "1917년, 일본 학자 오오시마 마사미츠가 대만에서 빙하 시대 잔존 생물인 「벚꽃 곤들매기」를 발견하였으며, 타이야족은 이를 「음방(Mnbang)」이라 불렀다. 서식지 파괴와 개체 수 급감으로 1995년 겨우 200여 마리만 남은 위기를 겪은 후, 댐 철거, 인공 증식, 혁신적인 「무수 운송(無水運輸)」 기술을 통해 2023년 1만 8천 마리라는 최고치를 기록하였고, 최근 다소 변동이 있으나 1만 5천 마리 이상으로 안정적으로 유지되며 대만 유역 전체 보전의 성공적 사례가 되었다.",
+        "category": "nature",
+        "href": "/ko/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "진치중: 제1가족의 광채에서 '배흑조항' 아래 정치적 부침까지",
+        "desc": "2008년, 진치중은 해외 자금세탁 사건으로 학업을 중단하고 귀국할 수밖에 없었으며, 이로써 사법적 논쟁과 얽힌 정치 경력이 시작되었다. 그는 두 차례 선거구 최다 득표로 가오슝시 의원에 당선되었으나, 세 차례 사건으로 직위에서 해임되기도 했다. 2023년 '배흑조항' 통과 후 그의 정치적 길은 마감된 듯했으나, 그는 Threads 등 소셜 미디어로 방향을 전환하여 아버지 천수볜과 'Water' 등 유머러스한 상호작용을 통해 비전통적인 부자 관계와 디지털 복귀를 보여주었다.",
+        "category": "people",
+        "href": "/ko/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "2026년 분과측험(分科測驗) 미정답 처리 논란: 교육 신뢰성의 구조적 위기",
         "desc": "2026년 7월, 강력한 태풍 바위(Bavi)의 영향으로 분과측험이 사상 처음으로 연기되었다. 성적 발표 후 149건의 문항 이의 제기가 발생했으나, 대입시험센터는 모든 안을 원안대로 유지하며 단 한 문제도 정답 처리하지 않았다. 생물 과목의 선택지 중복, 지리 과목의 도표 오류 등에 대해 당국은 \"답안 작성에 영향이 없다\"라고만 답했다. 국회의원과 학부모, 시민 연서명단이 요구하는 것은 단순하다. 결론뿐 아니라 검증 가능한 근거를 제시하라는 것이다.",
@@ -1070,27 +1088,27 @@
         "date": "2026-07-29T13:39:11+09:00",
         "readingTime": 18,
         "image": "/article-images/society/ntu-hospital-pond-2011.webp"
-      },
-      {
-        "title": "황금시대의 여운: 대만 차 문화의 변천과 공예",
-        "desc": "1930년대 열강들이 생산량 제한 협정을 맺으면서 대만을 배제했고, 그 결과 대만 홍차는 329만 kg에서 580만 kg으로 급증했다. 90년 후, 같은 섬에서는 30분마다 버블티 가게가 문을 연다.",
-        "category": "culture",
-        "href": "/ko/culture/taiwanese-tea-culture-and-living-aesthetics",
-        "date": "2026-07-29T01:33:17+08:00",
-        "readingTime": 20,
-        "image": "/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp"
-      },
-      {
-        "title": "8시 드라마: 성냥불 하나가 태완의 거실에 피워낸 컬트와 향수",
-        "desc": "1990년대 칭야오(瓊瑤)식 신파극부터 2000년대 '피력화(霹靂火)' 밈까지, 8시 드라마는 단순한 배경음을 넘어 현실과 동기화되어 제작되는 '실시간 방영'의 산업적 기적이다.",
-        "category": "culture",
-        "href": "/ko/culture/taiwan-prime-time-drama",
-        "date": "2026-07-27T22:09:24+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "La trucha de Formosa: el regreso de un relicto glacial, de la extinción inminente a un modelo de conservación de cuenca en Taiwán",
+        "desc": "En 1917, el académico japonés Masao Ōshima descubrió en Taiwán la trucha de Formosa (*Oncorhynchus masou formosanus*), un organismo relicto de la era glacial que los pueblos atayal denominan «Mnbang». Tras décadas de degradación de su hábitat y un descenso poblacional que en 1915 la redujo a apenas unos 200 ejemplares, la demolición de presas, la cría artificial y una innovadora técnica de «transporte en secolo de huevos embrionados» permitieron que la población alcanzara un máximo de 18 000 ejemplares en 2023. Aunque en años recientes se han registrado fluctuaciones, la cifra se ha estabilizado por encima de los 15 000 ejemplares, convirtiéndose en un caso de éxito de conservación integral de cuencas hidrográficas en Taiwán.",
+        "category": "nature",
+        "href": "/es/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Chen Chih-chung: del resplandor de la primera familia a las vicisitudes políticas bajo la \"cláusula de exclusión de antecedentes penales\"",
+        "desc": "En 2008, Chen Chih-chung se vio obligado a interrumpir sus estudios y regresar a Taiwán debido al caso de lavado de dinero en el extranjero que involucró a su familia, iniciando así una carrera política entrelazada con controversias judiciales. Fue elegido dos veces como concejal de Kaohsiung con la mayor votación de su distrito, pero también fue destituido de su cargo en tres ocasiones por causas judiciales. Tras la aprobación de la \"cláusula de exclusión de antecedentes penales\" en 2023, su carrera política parecía haber llegado a su fin; sin embargo, se volcó en plataformas sociales como Threads, donde interactuó con su padre Chen Shui-bian con humor bajo el apodo \"Water\", mostrando una relación paterno-filial atípica y un regreso al ámbito digital.",
+        "category": "people",
+        "href": "/es/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "COMPUTEX: Tres grandes ferias de informática internacionales cerraron dos; la que queda crece en Taipéi",
         "desc": "En junio de 2026, Jensen Huang subió al escenario de Taipéi diciendo «Qué bueno volver a casa», con el trasfondo mostrando zongzi de cerdo y patas de cerdo. Esa misma semana, tres CEOs se turnaron para dar conferencias; la taiwanesa HIWIN de Taichung cruzó por primera vez la frontera para conectar reductores a las articulaciones de los robots humanoides. Las alemanas CeBIT y estadounidenses COMDEX cerraron sus stands; esta feria de 45 años de antigüedad en Taipéi crece porque está arraigada en la isla donde se ensambla realmente el 90% de los servidores de IA del mundo.",
@@ -1342,27 +1360,27 @@
         "date": "2026-07-27T22:09:24+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Condado de Hsinchu: 235 años de fe en los Yi-min y el ingreso per cápita más alto de Taiwán, conviviendo junto al mismo río Touqian",
-        "desc": "En el invierno de 1788, en la ladera de una colina en Xinpu, se colocó la fundación de un Pabellón Bao-chong para enterrar conjuntamente a más de doscientos milicianos yi-min (voluntarios justos) de origen Hakka caídos durante la rebelión de Lin Shuangwen. 235 años después, el ritual rotativo de los quince lián-zhuang (alianzas de aldeas) del Festival de los Yi-min, celebrado cada año el vigésimo día del séptimo mes lunar, sigue en marcha. A 5 kilómetros de distancia, en la ciudad de Zhubei, el ingreso per cápita de 1.442 millones de dólares taiwaneses en 2025 se alzó con el primer lugar entre las 368 divisiones municipales de todo Taiwán, atraído por la fábrica de obleas de 2 nanómetros de la Fase II de Baoshan de TSMC. El 67.8% de la población del Condado de Hsinchu es de origen Hakka, la proporción más alta de Taiwán. Pero entre los 220,000 habitantes de Zhubei, sede del condado, los jóvenes Hakka que pueden permitirse comprar una casa en su propia tierra natal son cada vez menos.",
-        "category": "geography",
-        "href": "/es/geography/hsinchu-county",
-        "date": "2026-07-27T19:09:22+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/hsinchu-county-hero.webp"
-      },
-      {
-        "title": "Yilan: Dos veces eligió su propio destino, la llanura de Lanyang nunca miró atrás",
-        "desc": "La noche del 13 de diciembre de 1987, Chen Dingnan se sentó frente a Wang Yung-ching en el estudio de Chinese Television, bloqueando el proyecto Liugqing fuera de la llanura de Lanyang. Diecinueve años después, el 16 de junio de 2006, el túnel Xueshan abrió al tráfico; el viaje de Taipéi a Yilan se redujo de dos horas a 40 minutos. En los diez años siguientes a la apertura, este granero de arroz vio nacer 6.137 viviendas agrícolas; el precio del terreno por ping pasó de 4.000 yuanes a 20.000 yuanes. En 2023, solo el condado de Yilan emitió el 35% de los permisos de construcción de viviendas agrícolas de toda la isla. Un lugar tomó decisiones en dos momentos clave de la historia; la llanura de Lanyang aceptó el precio y el regalo juntos.",
-        "category": "geography",
-        "href": "/es/geography/yilan-county",
-        "date": "2026-07-27T19:09:22+08:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/yilan-hero.webp"
       }
     ],
     "fr": [
+      {
+        "title": "Le saumon de Formose : le retour au pays d'un vestige glaciaire, de la mise en danger à la conservation intégrée du bassin versant, un miracle taïwanais",
+        "desc": "En 1917, le chercheur japonais Masamitsu Ōshima découvrit à Taïwan un vestige glaciaire, le « saumon de Formose », appelé « Mnbang » par les Atayal. Après une destruction de son habitat et un déclin de sa population, tombant à seulement plus de 200 individus en 1995, des efforts de démantèlement de barrages, de reproduction artificielle et une technique innovante de « transport d'œufs embryonnés hors de l'eau » ont permis d'atteindre un pic de 18 000 individus en 2023. Bien que des fluctuations aient été observées ces dernières années, la population se maintient désormais de manière stable au-dessus de 15 000 individus, faisant de cette espèce un modèle de réussite en matière de conservation intégrée du bassin versant à Taïwan.",
+        "category": "nature",
+        "href": "/fr/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Chen Chih-chung : de l'aura de la première famille aux aléas politiques sous l'« anti-corruption clause »",
+        "desc": "En 2008, Chen Chih-chung a été contraint d'interrompre ses études et de revenir à Taïwan en raison de l'affaire de blanchiment d'argent à l'étranger impliquant sa famille, inaugurant une carrière politique entremêlée de controverses judiciaires. Il a été élu deux fois conseiller municipal de Kaohsiung avec le plus grand score de sa circonscription, mais a également été révoqué trois fois en raison de ses affaires judiciaires. Après l'adoption de l'« anti-corruption clause » en 2023, sa voie politique semblait close, mais il s'est tourné vers les plateformes sociales comme Threads, où ses interactions humoristiques avec son père Chen Shui-bian sous le nom « Water » ont révélé une relation père-fils atypique et un retour numérique.",
+        "category": "people",
+        "href": "/fr/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Controverse sur l'absence de points attribués lors de l'examen de spécialisation 2026 : une crise structurelle de l'intégrité éducative",
         "desc": "En juillet 2026, l'examen de spécialisation a été reporté pour la première fois en raison du typhon Bavi ; après la publication des résultats, 149 recours ont éclaté, mais le Centre d'examen a rejeté toutes les demandes. Entre doublons en biologie et erreurs de graphiques en géographie, les autorités affirment que cela « n'affecte pas la réponse ». Députés, parents et pétitionnaires exigent des preuves vérifiables plutôt que de simples conclusions.",
@@ -1614,27 +1632,27 @@
         "date": "2026-07-27T22:09:24+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "Xiaobei Department Store : Le roi de l'épicerie taïwanaise sous les lumières de la nuit, de l'étal de fruits de mer au « sauveur des parents » en trente ans",
-        "desc": "Ayant débuté en 1994 au marché de nuit de Xiaobei à Tainan, Xiaobei Department Store a transformé une échoppe de produits de la mer proche de la faillite en un leader de la quincaillerie avec plus de 190 magasins à Taïwan, grâce à une stratégie d'ouverture « 24h/24 » et de vente de « produits que les autres ne vendent pas ».",
-        "category": "lifestyle",
-        "href": "/fr/lifestyle/xiaobei-department-store",
-        "date": "2026-07-27T22:09:24+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Taoyuan : les importations-exportations de Taïwan, le plus grand nombre de Hakkas, le plus grand nombre de travailleurs migrants, tout sur ce plateau",
-        "desc": "Le 19 novembre 1977, en fin d'après-midi, des dizaines de milliers de personnes ont encerclé le commissariat de Zhongli. La police a ouvert le feu et tué Wen-Kuo Jiang, étudiant de l'Université centrale, et Chang-Ping Zhang, 19 ans. Hsin-Liang Xu a été élu magistrat du comté de Taoyuan avec 230 000 voix contre 140 000. Trois mois plus tard, le 26 février 1979, l'aéroport international Zhongshan de Taoyuan a ouvert ses portes, transférant la porte d'entrée et de sortie de Taïwan du port de Keelung vers ce plateau. Le 25 décembre 2014, Taoyuan a été élevée au rang de municipalité spéciale, devenant la dernière des six municipalités. Aujourd'hui, 2,35 millions de personnes vivent sur ce plateau de 1 221 kilomètres carrés, avec plus de 800 000 Hakkas, le plus grand nombre du pays, et 132 158 travailleurs migrants, également le plus grand nombre du pays. Taoyuan est la frontière la plus diversifiée de Taïwan.",
-        "category": "geography",
-        "href": "/fr/geography/taoyuan-city",
-        "date": "2026-07-27T19:09:51+08:00",
-        "readingTime": 10,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Taoyuan_Airport_Terminal_2_Aerial.jpg/1280px-Taoyuan_Airport_Terminal_2_Aerial.jpg"
       }
     ],
     "vi": [
+      {
+        "title": "Cá hồi hoa anh đào: Hành trình trở về của loài cá bản xứ tồn sót từ thời băng, từ bờ đáy nguy cấp đến thành công bảo hộ toàn bộ lưu vực sông của Đài Loan",
+        "desc": "Năm 1917, một nhà khoa học Nhật Bản đã phát hiện ra loài cá bản xứ tồn sót từ thời băng \"cá hồi hoa anh đào\" tại Đài Loan, được người Atayal gọi là \"Mnbang\". Sau nhiều năm bị xâm hại đất cư trú và giảm số lượng cá xuống chỉ còn khoảng 200 con vào năm 1995, nhờ việc xóa bỏ các con đập, nuôi trồng nhân tạo và công nghệ \"vận chuyển trứng sinh con không cần nước\" sáng tạo, đến năm 2023, quần dân số đã đạt đỉnh 18.000 con. Dù gần đây có sóng xu hướng biến động nhẹ, nhưng chúng đã duy trì ổn định trên mức 15.000 con trở lên, trở thành mẫu thành công của chương trình bảo hộ toàn bộ lưu vực sông của Đài Loan.",
+        "category": "nature",
+        "href": "/vi/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Trần Trí Trung: Từ ánh mạt của “gia đình đầu tiên” đến sự trôi chảy chính trị dưới “quyền lọc đen”",
+        "desc": "Năm 2008, Trần Trí Trung buộc phải rời học vì vụ laundering của gia đình, mở ra sự nghiệp chính trị gắn liền với tranh chấm tư pháp. Ông từng được chọn ghế nghị sĩ thành phố Kaohsiung với phiếu cao nhất hai lần, nhưng cũng bị loại bỏ ba lần do vụ án. Sau khi “quyền lọc đen” của Luật Chọn và Loại bỏ Người gió chức được thông qua vào năm 2023, con đường chính trị của ông rõ ràng đã kết thúc. Tuy nhiên, ông chuyển sang sử dụng các nền tảng xã hội mới như Threads, tương tác hài hước với cha mình Trần Thuật Bìn thông qua tên gọi “Water”, khắm phơi một mối quan hệ cha con phi tiêu chính trị truyền thống.",
+        "category": "people",
+        "href": "/vi/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Hội Thơ Lưỡi: Một nhóm người bị buộc quên tiếng Nhật, vượt qua Đài Loan với tạp chí thơ dài đời nhất",
         "desc": "Năm 1958, một người Đài Loan 36 tuổi từng là binh sĩ Nhật phát hành thơ tiếng Trung đầu tiên sau chiến tranh bằng bút danh \"Hoàn Phu\", cách đó 11 năm kể từ khi dừng viết tiếng Nhật. Sáu năm sau, anh ấy và mười một người khác tại một phòng khách ở miền Trung Đài Loan quyết định thành lập \"Lưỡi\" - một hội thơ - biến những trải nghiệm mất tiếng lời của thế hệ này thành một tạp chí thơ dài đời nhất Đài Loan trong 60 năm, đưa thơ bản địa vào sách giáo khoa trung học.",
@@ -1886,27 +1904,27 @@
         "date": "2026-07-27T19:03:33+08:00",
         "readingTime": 10,
         "image": ""
-      },
+      }
+    ],
+    "id": [
       {
-        "title": "Bò đàn họa: Từ chiến thiệt tại chùa chiến đến vũ trụ giữa bàn tay của《Đường Lê Kiếm Du Ký》",
-        "desc": "Vào ngày 2 tháng 3 năm 1970, truyền hình công ty Huang Jun-hsiu của Shih Yen-wen khiến các nhà máy ở Đài Loan ngừng hoạt động, học sinh vắng lớp, đạt tỷ lệ xem trên toàn quốc lên tới 97%; sau bốn năm, chính phủ cấm phát vì lý do 'hạn chế người nông dân và công nhân làm việc bình thường'. Kiến trúc nghệ thuật này trên Đài Loan qua qua áp lực hoàng quốc, chiến tranh, và cuộc cách mạng thẻ VCD, cuối cùng mở ra thị trường hoạt hình toàn cầu thông qua《Đường Lê Kiếm Du Ký》.",
-        "category": "culture",
-        "href": "/vi/culture/taiwanese-glove-puppetry-budaixi",
-        "date": "2026-07-27T19:03:33+08:00",
+        "title": "Salmon Sakura: Jalan Pulang Warisan Era Pleistosen, Dari Keterancam Hingga Konservasi Wilayah Seluruh Taiwan",
+        "desc": "Pada tahun 1917, ilmuwan Jepang Daisō Masamitsu (大島正滿) menemukan spesies warisan era Pleistosen 'Salmon Sakura' di Taiwan, yang disebut 'Mnbang' oleh Suku Atayal (泰雅族). Setelah habitat hancur dan populasi menurun drastis menjadi sekitar 200 ekor pada tahun 1995, melalui pemecahan bendungan, pemulihan buatan, dan teknologi inovatif 'transportasi tanpa air', jumlah mencapai puncak 18.000 ekor pada tahun 2023. Meskipun fluktuasi baru-baru ini, populasi tetap stabil di atas 15.000 ekor, menjadikannya contoh sukses konservasi wilayah seluruh Taiwan.",
+        "category": "nature",
+        "href": "/id/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "Hôn lễ, tang lễ, lễ mừng và nghi thức vòng đời tại Đài Loan",
-        "desc": "Từ mười hai lễ vật đính hôn đến văn hóa biện trác, khám phá cách nghi thức vòng đời tại Đài Loan tìm kiếm sự cân bằng giữa truyền thống và hiện đại",
-        "category": "culture",
-        "href": "/vi/culture/taiwanese-life-ceremony-traditions",
-        "date": "2026-07-27T19:03:33+08:00",
-        "readingTime": "14",
+        "title": "Chen Chih-chung: Dari Lingkaran Keluarga Terkemuka hingga Kemunduran Politik di Bawah Pasal Anti-Pencucian Uang",
+        "desc": "Pada tahun 2008, Chen Chih-chung terpaksa memutuskan studi dan kembali ke Taiwan setelah kasus pencucian uang luar negeri yang melibatkan keluarganya, membuka karir politiknya yang dipenuhi konflik peradilan. Ia pernah dipilih dua kali sebagai anggota dewan kota Kaohsiung dengan suara terbanyak, tetapi juga tiga kali dipecat karena kasusnya. Setelah pasal anti-pencucian uang dalam UU Pemilu 2023 lulus, jejak kariernya sepertinya berakhir. Namun, ia beralih ke platform sosial seperti Threads, di mana ia berinteraksi dengan ayahnya, Chen Shui-bian, dengan cara santai dan lucu, menunjukkan hubungan keluarga yang tidak konvensional dan kembali ke dunia digital.",
+        "category": "people",
+        "href": "/id/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
         "image": ""
-      }
-    ],
-    "id": [
+      },
       {
         "title": "Budaya Minuman Racikan Tangan Taiwan",
         "desc": "Dari teh susu mutiara hingga minuman teh premium: kebangkitan budaya minuman racikan tangan Taiwan dan ekspansi globalnya — industri yang lahir di Taichung tahun 1987 dan kini hadir di lebih dari 20 negara.",
@@ -2158,27 +2176,27 @@
         "date": "2026-07-27T19:04:11+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "Insiden Mudan: Benturan Peradaban dan Kebangkitan Kedaulatan di Lembah Shimen",
-        "desc": "Pada tahun 1874, sebuah tindakan militer yang dipicu oleh kecelakaan laut menjadikan Lembah Shimen di ujung selatan Taiwan sebagai pusat guncangan dalam tatanan Asia Timur modern. Ini bukan hanya batu ujian bagi ekspansi Kekaisaran Jepang, tetapi juga titik balik takdir bagi Dinasti Qing untuk beralih dari pertahanan perbatasan menuju tata kelola yang aktif.",
-        "category": "history",
-        "href": "/id/history/mudan-incident",
-        "date": "2026-07-27T19:04:11+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Perang Sino-Prancis: Delapan Bulan di Keelung dan Tamsui",
-        "desc": "Musim gugur 1884, armada Prancis membombardir Pelabuhan Keelung, 2.000 marinir mendarat dan menduduki pelabuhan. Namun mereka menghabiskan tujuh bulan tanpa pernah keluar dari pegunungan Keelung. Minggu yang sama, 600 prajurit laut Prancis mendarat di Tamsui, dalam dua jam dikembalikan ke laut. Perang berakhir, Prancis mendapatkan Vietnam, melepaskan Taiwan. Pengadilan Qing hampir kalah, justru membuat Taiwan dari wilayah kependudukan menjadi sebuah provinsi.",
-        "category": "history",
-        "href": "/id/history/sino-french-war-in-taiwan",
-        "date": "2026-07-27T19:04:11+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "pt": [
+      {
+        "title": "Salmão-formosa-de-cabeça-arqueada: a rota de regresso a casa de uma relíquia da era glacial, do perigo de extinção ao milagre taiwanês de conservação integral de bacias hidrográficas",
+        "desc": "Em 1917, o académico japonês Ōshima Masamitsu descobriu em Taiwan o \"salmão-formosa-de-cabeça-arqueada\", uma relíquia da era glacial, que o povo Atayal chama de \"Mnbang\". Após a destruição do habitat e o declínio populacional até uma crise de apenas 200 e poucos exemplares em 1995, através da remoção de barragens, reprodução artificial e da inovadora tecnologia de \"transporte sem água\", a população atingiu um pico de 18 mil exemplares em 2023; embora com flutuações nos últimos anos, mantém-se estável acima de 15 mil, tornando-se um modelo de sucesso da conservação integral de bacias hidrográficas em Taiwan.",
+        "category": "nature",
+        "href": "/pt/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Chen Zhi-zhong: da 'luz do primeiro casal' à 'cláusula anti-lavagem de dinheiro' e à ascensão digital",
+        "desc": "Em 2008, Chen Zhi-zhong, filho do ex-presidente Chen Shui-bian, foi forçado a interromper seus estudos por um caso de lavagem de dinheiro internacional, desencadeando uma carreira política marcada por controvérsias judiciais. Ele foi eleito duas vezes com o maior número de votos na câmara municipal de Kaohsiung, mas teve três mandatos cassados por motivos legais. Após a aprovação da 'cláusula anti-lavagem de dinheiro' em 2023, sua trajetória política parecia terminar, mas ele encontrou novas oportunidades nas plataformas digitais como Threads, onde interage com seu pai, Chen Shui-bian, de forma descontraída e humorística, construindo uma imagem pública inédita.",
+        "category": "people",
+        "href": "/pt/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Período de Lei Marcial",
         "desc": "Em 19 de maio de 1949, Chen Cheng promulgou a Lei Marcial da Província de Taiwan. 38 anos depois, em 15 de julho de 1987, Chiang Ching-kuo anunciou o fim da lei marcial. A região de Kinmen e Matsu só teve a lei marcial suspensa em 1992. O que aquelas pessoas viveram durante esses cinco anos?",
@@ -2430,27 +2448,27 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": 12,
         "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
-      },
-      {
-        "title": "Chen Chien-nien: o Rei do Golden Melody do Posto Policial, a Canção que o Avô Deixou e o Neto Transformou em Oceano",
-        "desc": "Nasceu a 1 de agosto de 1967 na aldeia Nanwang, Peinan, Taitung. Formou-se na academia de polícia em 1986 e foi destacado para Kuan-shan, Taitung, servindo 30 anos e 10 meses na polícia. Aos 33 anos, em 1999, lançou o primeiro álbum de composições próprias \"Oceano\". No 11º Golden Melody Awards em 2000, venceu Jacky Cheung, Wang Leehom, David Tao e Richie Jen, conquistando o Melhor Intérprete Masculino de Mandarim; no mesmo ano, ganhou também Melhor Compositor com \"Mito\". No momento do prémio, ainda era policial. Em setembro do mesmo ano, pediu transferência para Lan-yu para evitar tumultos, onde ficou 17 anos até se aposentar. O avô materno Lu Sen-pao é o autor de \"Belas Espigas de Arroz\"; o neto levou trinta anos para retomar essa linha musical.",
-        "category": "people",
-        "href": "/pt/people/chen-chien-nien",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 8,
-        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
-      },
-      {
-        "title": "Cicada: dezesseis anos de gravações de campo, do furacão Morakot de 2009 às geleiras inter-hemisféricas de 2025",
-        "desc": "Fundada em Taipé em 2009, a Cicada é uma banda independente totalmente instrumental, sem vocais. A pianista fundadora Chiang Chih-chieh (mestra em História da Arte pela Universidade Nacional das Artes de Taipé) compôs as primeiras peças após ver as notícias sobre o furacão Morakot naquele ano. Ao longo dos dezesseis anos seguintes, eles transformaram o desaparecimento das costas de Taiwan, a ecologia marinha e as nascentes das montanhas e florestas em uma série de álbuns sem vocais — da costa oeste (\"Desvanecimento das Fronteiras\" 2013), à costa leste do Pacífico (\"Olhando o Nível do Mar\" 2015), até as nascentes da Cordilheira Central (\"Habitando Acima das Nascentes\" 2022, uma expedição de 15 dias e 120 km). Compuseram a trilha do filme japonês \"Aquele Homem\" e venceram o Prêmio de Música Excelente da Academia Japonesa de Cinema. Em 2025, \"Fitando a Fronteira Branca\" levou seu trabalho de campo para fora de Taiwan pela primeira vez, seguindo rios glaciais pela Groenlândia, Islândia e Nova Zelândia, antes de retornar à Montanha Neve para encontrar vestígios de geleiras antigas.",
-        "category": "people",
-        "href": "/pt/people/cicada-band",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 24,
-        "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
       }
     ],
     "hi": [
+      {
+        "title": "साकुरा हुक्ड-जबड़ा सालमन: हिमयुगीन अवशेष की घर-वापसी की राह, संकटग्रस्त से समग्र जलागम संरक्षण तक ताइवान का चमत्कार",
+        "desc": "1917 में, जापानी विद्वान ओशिमा मासामित्सु ने ताइवान में हिमयुगीन अवशेष जीव \"साकुरा हुक्ड-जबड़ा सालमन\" की खोज की, जिसे ताइयाल जनजाति \"एम्नबांग\" कहती है। आवास विनाश और 1995 में आबादी के घटकर केवल 200 से अधिक रह जाने के संकट से गुजरने के बाद, बांध हटाने, कृत्रिम प्रजनन और अभिनव \"जल-रहित परिवहन\" तकनीक के माध्यम से, 2023 तक संख्या 18,000 के शिखर पर पहुंच गई, हाल के वर्षों में उतार-चढ़ाव के बावजूद यह 15,000 से ऊपर स्थिर बनी हुई है, जो ताइवान के समग्र जलागम संरक्षण का सफल आदर्श बन गई है।",
+        "category": "nature",
+        "href": "/hi/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "चेन चिह-चुंग: पहले परिवार की आभा से \"काला धन विरोधी खंड\" के तहत राजनीतिक उतार-चढ़ाव तक",
+        "desc": "2008 में, चेन चिह-चुंग को विदेशी मनी लॉन्ड्रिंग मामले के कारण पढ़ाई बीच में छोड़कर ताइवान लौटना पड़ा, जिससे न्यायिक विवादों से घिरी उनकी राजनीतिक यात्रा शुरू हुई। वे दो बार अपने निर्वाचन क्षेत्र से सर्वाधिक मतों से काऊशुंग नगर पार्षद चुने गए, लेकिन तीन बार मामलों के कारण पद से हटाए भी गए। 2023 में \"काला धन विरोधी खंड\" पारित होने के बाद, उनका राजनीतिक मार्ग समाप्त होता प्रतीत हुआ, फिर भी वे थ्रेड्स जैसे सोशल मीडिया प्लेटफॉर्म की ओर मुड़े, जहां पिता चेन शुई-बियान के साथ \"वॉटर\" जैसे हास्यपूर्ण संवादों के माध्यम से, उन्होंने एक असामान्य पिता-पुत्र संबंध और डिजिटल वापसी प्रदर्शित की।",
+        "category": "people",
+        "href": "/hi/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "ताइवान का रेल इतिहास: \"फेफड़ों की बीमारी वाली रेल\", \"काले सिर वाले\", और वह वंशावली जिसने अपना विदेशी नाम खो दिया",
         "desc": "एक सड़क जिसे जापानियों ने \"फेफड़ों की बीमारी वाली रेल\" कहकर गाली दी थी, वह 100 से अधिक वर्षों में कैसे रोजाना 2 लाख लोगों को ढोने वाली हाई-स्पीड धमनी बन गई।",
@@ -2702,27 +2720,27 @@
         "date": "2026-07-27T19:06:05+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "हॉलिन काउंटी: 129 वर्षों तक अदृश्य रहे साकीलाया जनजाति, ताइलुक़े का नाम वापस मिलने के बाद 0403 भूकंप ने उसे फिर दूर कर दिया",
-        "desc": "1878 में चिंग सेना ने दागुहुवान बोली के प्रमुख गु मु-पालिक को काजू के पेड़ पर बांधकर कठोर मृत्यु दी, साकीलाया जनजाति 129 वर्षों तक अमे जनजाति में छिप गई; 2004 में ताइलुक़े जनजाति तायाल जनजाति से अलग होकर 12वीं जनजाति बनी, 2007 में चेन शुई-बियान सरकार ने दूसरे कार्यकाल में साकीलाया को 13वीं जनजाति मान्यता दी; 3 अप्रैल 2024 की सुबह 7:58 बजे की 98 सेकंड की भूकंप (7.1 तीव्रता) ने ताइलुक़े राष्ट्रीय उद्यान के यान्ज़ी माउथ, ज़ियूडोंग और साकांग ट्रेल को एक साथ नष्ट कर दिया, 2024 में पर्यटक केवल 2.1 लाख थे, सामान्य वर्षों में 66 लाख थे। पहाड़ और समुद्र के बीच सबसे पतली 5 किमी की जमीन पर, 6 आदिवासी जनजातियों का भाग्य हमेशा प्लेट टेक्टॉनिक्स के साथ हिला है।",
-        "category": "geography",
-        "href": "/hi/geography/hualien-county",
-        "date": "2026-07-27T19:06:05+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg"
-      },
-      {
-        "title": "लिंकौ न्यू टाउन: उत्तर ताइवान के पथ में एक नए उद्यमी महानगर के बदलाव और चुनौतियाँ",
-        "desc": "1970 के दशक में, ताइवान सरकार ने ताइपे के लोगों की आबादी प्रतिकूलता को कम करने के लिए लिंकौ टेरेन पर 'गार्डन सिटी' नए शहर के रूप में नियोजित किया। दशकों के विकास के बाद, यह क्षेत्र जो प्रारंभ में परिवहन की सुविधा और कार्यक्षमता की कमी के कारण 'भूत शहर' कहलाता था, 2017 में हवाई अड्डे के मेट्रो के सफार चलने के बाद जल्दी से बढ़ती आबादी, उद्योगों के उन्नयन के साथ, उत्तर ताइवान के सबसे तेज़ और सक्रिय महानगरों में से एक बन गया।हालाँकि, परिवहन के बंदावन और जलवायु के आर्द्र ठंडी आवश्यकताएँ जैसी चुनौतियाँ अभी तक पूरी नहीं हो पाई हैं।",
-        "category": "geography",
-        "href": "/hi/geography/linkou-new-town",
-        "date": "2026-07-27T19:06:05+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "ar": [
+      {
+        "title": "سمك السلمون المعلق بالزهرة: طريق العودة إلى الوطن من الإرث الجليدي، من التهديد إلى حماية الأنهار الشاملة في تايوان، معجزة تايوان",
+        "desc": "في عام 1917، اكتشف الباحث الياباني أوشيما ماسايتشي في تايوان كائنًا موروثًا من العصر الجليدي يُدعى 'سمك السلمون المعلق بالزهرة'، وتسمى هذه الأنواع في قبيلة التايّا بـ 'Mnbang'. بعد تدمير المواطن الطبيعية وانخفاض عدد الأفراد إلى حوالي 200 في عام 1995، أدى تفكيك السدود، وإعادة التربية الاصطناعية، وتطوير تقنية 'النقل بدون ماء' إلى بلوغ عدد 18,000 في عام 2023. على الرغم من التقلبات الأخيرة، ظل العدد مستقرًا فوق 15,000، مما جعله نموذجًا ناجحًا لحماية الأنهار الشاملة في تايوان.",
+        "category": "nature",
+        "href": "/ar/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "تشين تشي-تشونغ: من هالة \"العائلة الأولى\" إلى الغياب السياسي تحت \"بند استبعاد المجرمين\"",
+        "desc": "في عام 2008، أُجبر تشين تشي-تشونغ على 중단 دراسته والعودة إلى تايوان بسبب قضية غسيل أموال في الخارج، لتبدأ مسيرته السياسية المتشابكة مع الخلافات القضائية. فاز مرتين بأعلى الأصوات في دائرته كعضو في مجلس مدينة كاوهسيونغ، لكنه أُقيل من منصبه ثلاث مرات بسبب القضايا. بعد إقرار \"بند استبعاد المجرمين\" في عام 2023، بدا أن طريقه السياسي قد انتهى، غير أنه اتجه إلى منصات التواصل الاجتماعي مثل Threads، حيث تفاعل مع والده تشين شوي-بيان بروح الدعابة عبر لقب \"Water\"، مظهراً علاقة أب وابن غير تقليدية وعودة رقمية.",
+        "category": "people",
+        "href": "/ar/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "أربعة مقاييس خارج الأزرق والأخضر: من قطعة أرض إلى بطاقة تأمين صحي، سياسات تايوان التي تجاوزت أصولها السياسية",
         "desc": "قارئ سئم من تبادل الشتائم بين الأزرق والأخضر على مائدة الطعام، وأراد أن يتذكر ما هو جيد حقاً لتايوان. لذا وجدنا إحدى عشرة سياسة على مدى سبعين عاماً، من إصلاح الأراضي بمصادرة الأراضي الزراعية في عهد الاستبداد، ورفع الأحكام العرفية، والتأمين الصحي الشامل، إلى زواج المثليين ومشروع البنية التحتية الاستشرافية اللذين لا يزالان موضع جدل. تعمدنا عدم استخدام مقياس الأزرق والأخضر، واستبدلناه بأربعة مقاييس: معيشة الناس، الديمقراطية، الحقوق المدنية، والسيادة. الاستنتاج غير بديهي بعض الشيء: السياسات التي تجاوزت أصولها الحزبية، غالباً ما كان يوم ولادتها هو اليوم الذي شهد أعنف الجدالات.",
@@ -2974,27 +2992,27 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": null,
         "image": "/article-images/people/edward-yang-beach-set-1983.webp"
-      },
-      {
-        "title": "تطور الرياضة في تايوان والأولمبياد: فريق يُدعى «تايبيه الصينية»",
-        "desc": "في مونتريال 1976، طالبت كندا بتغيير الاسم إلى «Taiwan»، واعتبر تشيانغ تشينغ-كيو ذلك عارًا وطنيًا فانسحب الفريق. في باريس 2024، ليلة تتويج ثنائي «لين-يانغ» بذهبية زوجي الرجال للمرة الثانية على التوالي، غنى الحضور بأكمله كلمات نشيد العلم الوطني مع رفع علم زهرة البرقوق — من «تايوان» التي لم تستطع الدخول، إلى عالم بدأ يناديها بـ Taiwan، هذه القبعة المسماة «تايبيه الصينية» تحمل ثقل كل ذهبية تحققت في كل جيل.",
-        "category": "society",
-        "href": "/ar/society/taiwan-sports-olympics",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
-      },
-      {
-        "title": "المراسلون: عشر سنوات من إنقاذ الصحافة الاستقصائية من كونها مشروعًا تجاريًا إلى جعلها ملكًا عامًا",
-        "desc": "من 4 متبرعين دوريين إلى 8,000 شهريًا، من ثلاثية \"حقول الدموع السمكية\" إلى ملف 2026 عن العمل الموحد، التكاليف التي أحرقها \"المراسلون\" على مدى عشر سنوات — ثمانية أشهر من العمل السري، تحقيقات عبر ثلاث دول، مطابقة سنوات من سجلات الانتهاكات — هي بالضبط ما لا يريد أحد دفع ثمن مشاهدته في عصر الخوارزميات. استخدم المجتمع المدني في هذه الجزيرة طريقة خصم التبرعات الشهرية من الغرباء، لتحويل الصحافة الاستقصائية من بند تجاري في وسائل الإعلام التجارية، إلى ملك عام يُرعى باستمرار لكن يُحترق بشكل أسرع وأسرع.",
-        "category": "society",
-        "href": "/ar/society/the-reporter-investigative-journalism",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/the-reporter-brand-logo.webp"
       }
     ],
     "ru": [
+      {
+        "title": "Сакура-коу-су: путь домой ледникового наследия, от исчезновения к комплексной охране бассейна Тайваня — чудо",
+        "desc": "1917 год, японский ученый Одама Масамити обнаружил в Тайване ледниковое наследие «Сакура-коу-су», тайя называют его «Mnbang». После разрушения среды обитания и резкого сокращения популяции до 200 особей в 1995 году, благодаря разрушению плотин, искусственному восстановлению и инновационной технологии «безводного транспортирования» к 2023 году число достигло 18 000 особей, в последние годы хотя и колеблется, но стабильно держится выше 15 000, став успешным примером комплексной охраны бассейна Тайваня.",
+        "category": "nature",
+        "href": "/ru/nature/formosan-landlocked-salmon",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Чэнь Чжицзун: от семейного антрополога до политической катастрофы под «законом против чёрных»",
+        "desc": "В 2008 году Чэнь Чжицзун вынужденно прервал учёбы и вернулся на Тайвань из-за дела о переводе денег за рубежом, что запустило его политическую карьеру, переплетённую с судебными спорами. Он дважды победил на выборах в муниципальный совет Кэйхунь с наибольшим количеством голосов, но трижды был отстранён от должности из-за дел. После прохождения в 2023 году закона о борьбе с коррупцией его политический путь, казалось бы, завершился, однако он переключился на платформы новых социальных сетей, такие как Threads, где в шутливом диалоге с отцом Чэнь Сюйбин он демонстрирует необычную семейную динамику и цифровое возвращение.",
+        "category": "people",
+        "href": "/ru/people/chen-chih-chung",
+        "date": "2026-08-15T16:29:46+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Японский колониальный период на Тайване (1895–1945)",
         "desc": "С 1895 по 1945 год Япония управляла Тайванем 50 лет, проведя всестороннюю модернизацию и институциональное управление, одновременно реализуя политику ассимиляции, что глубоко повлияло на развитие тайваньского общества.",
@@ -3246,24 +3264,6 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": 24,
         "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
-      },
-      {
-        "title": "Ко Чжитан: выросший за морем, поёт только для тех, кто готов сесть и послушать",
-        "desc": "В 2013 году студента подшутили однокурсники, записав его на вокальный конкурс — он исполнил две песни Coldplay под гитару и זכה. Его звали Ко Чжитан, низкий бархатный голос, которого назвали «голосом дядюшки», и неторопливый темп позволили ему занять небольшое, но глубокое место в тайваньской инди-музыке. Он вырос за морем, писал песни в Мумбаи на сломанной гитаре, пел у входа в столетний лавку в Тайчжун для жителей напротив. Чэнь Цзяньци девять лет выпускал его три альбома, ни разу не подгоняя; в 2025 году его переработка и исполнение песни «Ответ Бога» для хакка-телесериала принесло «Золотой колокол».",
-        "category": "people",
-        "href": "/ru/people/ke-zhi-tang-musician",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 18,
-        "image": "/article-images/people/kowen-ko-portrait.webp"
-      },
-      {
-        "title": "Кьелл Н. Линдгрен: от рождения в Тайбэе до низкой околоземной орбиты — тайваньский врач, игравший на волынке в космосе",
-        "desc": "Родившийся в Тайбэе в 1973 году Кьелл Н. Линдгрен (林琪兒) — первый космонавт NASA, родившийся на Тайване. После окончания Военной авиационной академии США ошибка в диагнозе «астма» лишила его шансов стать летчиком; 11 лет позже повторное обследование в NASA опровергло заключение, и в 2009 году его выбрали в 20-й набор космонавтов из 3565 претендентов. Всего он провел на орбите 312 дней. В апреле 2026 года он посетил Тайвань в составе делегации «Freedom 250» и заявил в Президентском дворце: «Моя карьера космонавта NASA началась на Тайване».",
-        "category": "people",
-        "href": "/ru/people/lin-chi-er-astronaut",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 14,
-        "image": "/article-images/people/lindgren-emu-2014.webp"
       }
     ]
   }

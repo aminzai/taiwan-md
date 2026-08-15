@@ -1,7 +1,881 @@
 {
-  "generatedAt": "2026-08-14T22:12:29.937Z",
+  "generatedAt": "2026-08-15T22:12:14.556Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d8b215ab7d87bf0c5d9509abbe4a39112addceed",
+      "date": "2026-08-16T05:39:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-16 05:37 — 三層對賬第二十三輪，連續第五輪零漂移",
+      "articles": []
+    },
+    {
+      "hash": "5ba57efb98b73203848051eaa3d3c65411778156",
+      "date": "2026-08-16T05:38:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-16 05:36 — 連續第三夜僅 zh-TW 微幅變動",
+      "articles": []
+    },
+    {
+      "hash": "cb65c0dfc68ee5927ea9386f94a8e831e2346246",
+      "date": "2026-08-16T05:36:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-16 05:07",
+      "articles": []
+    },
+    {
+      "hash": "34cc30492720ab6cc52ab6060c163915384c7b85",
+      "date": "2026-08-16T04:21:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 補上自身 commit hash，不留佔位符",
+      "articles": []
+    },
+    {
+      "hash": "bf8949a0fd6b1bc4a712888bed3b75a5af178c07",
+      "date": "2026-08-16T04:20:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 建造與登記是兩個不同步的代謝，升 REFLEXES #91",
+      "articles": []
+    },
+    {
+      "hash": "cb3f234f0fe160a276861c40ef9d0534c8a0daad",
+      "date": "2026-08-16T03:21:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] distill: 40 條教訓讀完，5 條 promote REFLEXES #86-90 + 2 fold + 1 MEMORY",
+      "articles": []
+    },
+    {
+      "hash": "1cc6a8a03a6e6d82128235ddad77c0c055d09b53",
+      "date": "2026-08-16T02:19:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diagnose: 404 監測快照更新至 2026-08-14",
+      "articles": []
+    },
+    {
+      "hash": "bea1c7d344263e02685203c13221163a9fc3cf9a",
+      "date": "2026-08-16T02:19:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-weekly-report-sun @ 2026-08-16 02:03 收官 + Beat 5 反芻",
+      "articles": []
+    },
+    {
+      "hash": "ecfd1a3de7b7e55fa1aca71e60beea065050c7b6",
+      "date": "2026-08-16T02:16:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] report: W33 週體檢 — 一週沒寫文章，改了十幾把量文章的尺",
+      "articles": []
+    },
+    {
+      "hash": "aebe093c9e37d643e650173780165fb5293a13db",
+      "date": "2026-08-16T02:11:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 週報切菜工具的「本週交付文章」那一節，空的時候要說自己是空的",
+      "articles": []
+    },
+    {
+      "hash": "c26cf88bb20375cfabdc990b099e126604455fe9",
+      "date": "2026-08-16T02:09:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 404 根因那條實驗判定命中，掛了九天的黃燈可以收了",
+      "articles": []
+    },
+    {
+      "hash": "c9f75a3af53a677cf4c3d9ac69d2b88a65d4c36a",
+      "date": "2026-08-16T01:15:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W33 三源交叉 + 3 條候選（出口關閉）+ 兩條既有 ARTICLE-INBOX 候選被本週新聞驗證時效",
+      "articles": []
+    },
+    {
+      "hash": "b516e2a72ab0b43cc4a5d4050b5e719c3eb20748",
+      "date": "2026-08-15T17:22:54+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1364 from idlccp1984/patch-330342",
+      "articles": []
+    },
+    {
+      "hash": "2949add8ed0d9ac4b0aaa0509ae001c9b7918082",
+      "date": "2026-08-15T17:22:52+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1363 from idlccp1984/patch-884180",
+      "articles": []
+    },
+    {
+      "hash": "a02869bc64496ce3625598699350201aee495869",
+      "date": "2026-08-15T17:22:51+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1362 from idlccp1984/patch-556218",
+      "articles": []
+    },
+    {
+      "hash": "8c04d70f24aa8452dc6540f5907a811ffa905837",
+      "date": "2026-08-15T17:22:49+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1361 from idlccp1984/patch-364662",
+      "articles": []
+    },
+    {
+      "hash": "a92dd92829a39cb7afb968ff9c50ee809778c3f3",
+      "date": "2026-08-15T17:22:47+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1360 from idlccp1984/patch-962604",
+      "articles": []
+    },
+    {
+      "hash": "fa0cfc0d4b3121723f1a828d8cc0300981d96f3e",
+      "date": "2026-08-15T17:22:45+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1359 from idlccp1984/patch-43041",
+      "articles": []
+    },
+    {
+      "hash": "3995685a2aad83cc3a5585b3dc95b52e6522fe91",
+      "date": "2026-08-15T17:22:44+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1358 from idlccp1984/patch-516570",
+      "articles": []
+    },
+    {
+      "hash": "c7204ed496f3691386d23905d2beab5ad3ac29d9",
+      "date": "2026-08-15T17:22:42+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1357 from idlccp1984/patch-994437",
+      "articles": []
+    },
+    {
+      "hash": "7e0bbc451836ca4dea5495a48c219657fa33f89e",
+      "date": "2026-08-15T17:22:40+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1356 from idlccp1984/patch-840219",
+      "articles": []
+    },
+    {
+      "hash": "0df0f96096ddf5ffc508f6b2295ad7fea1d5ef57",
+      "date": "2026-08-15T17:22:38+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1355 from idlccp1984/patch-392263",
+      "articles": []
+    },
+    {
+      "hash": "2089958d4c4be51a7eed6519c7311a277a87762c",
+      "date": "2026-08-15T17:22:36+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1354 from idlccp1984/patch-860021",
+      "articles": []
+    },
+    {
+      "hash": "2a4185f2048b37e0a9827eeba2ac15f693996c56",
+      "date": "2026-08-15T17:22:35+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1353 from idlccp1984/patch-912690",
+      "articles": []
+    },
+    {
+      "hash": "d9fcf586e6d7c43da5e4d04f328e55cf786594eb",
+      "date": "2026-08-15T17:22:33+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1352 from idlccp1984/patch-284309",
+      "articles": []
+    },
+    {
+      "hash": "cd661d21bf1eb143dab9b2158726b37573707b71",
+      "date": "2026-08-15T17:22:31+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1351 from idlccp1984/patch-484630",
+      "articles": []
+    },
+    {
+      "hash": "750f8ca5b3e643206fd47d23eb1a029435e2bcd5",
+      "date": "2026-08-15T17:22:29+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1350 from idlccp1984/patch-367058",
+      "articles": []
+    },
+    {
+      "hash": "cfb66644984494c78ed47df4cd381a8de1abc7ed",
+      "date": "2026-08-15T17:22:28+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1349 from idlccp1984/patch-728305",
+      "articles": []
+    },
+    {
+      "hash": "aa67ba72bf78339a4240a02e0532d1f3a20e55b3",
+      "date": "2026-08-15T17:22:26+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1348 from idlccp1984/patch-59166",
+      "articles": []
+    },
+    {
+      "hash": "e872eba168403feed8d641034e4a690192e3484e",
+      "date": "2026-08-15T17:22:24+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1345 from idlccp1984/patch-94910",
+      "articles": []
+    },
+    {
+      "hash": "4518ebc24f2eb1cd6d0e3944f11ea8bb01b5503a",
+      "date": "2026-08-15T17:22:22+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1344 from idlccp1984/patch-408484",
+      "articles": []
+    },
+    {
+      "hash": "bf1b76b0e6298fa26295b8f879659d7cc69dc834",
+      "date": "2026-08-15T17:22:21+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1343 from idlccp1984/patch-481347",
+      "articles": []
+    },
+    {
+      "hash": "f3feeae0c432706ac7586077e2b005444333e4ab",
+      "date": "2026-08-15T17:22:19+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1342 from idlccp1984/patch-699774",
+      "articles": []
+    },
+    {
+      "hash": "5de1a67edd23fe0eef79bca8a809b915677cca62",
+      "date": "2026-08-15T17:22:17+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1341 from idlccp1984/patch-108353",
+      "articles": []
+    },
+    {
+      "hash": "c83bdd2b4c73be679cf2e57f32bd5dad2c3921e9",
+      "date": "2026-08-15T17:22:15+08:00",
+      "author": "Taiwan.md",
+      "message": "Merge pull request #1340 from idlccp1984/patch-742805",
+      "articles": []
+    },
+    {
+      "hash": "4a95859b1fb29ad452b678eac051714a2966538e",
+      "date": "2026-08-15T17:13:46+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 補上 idlccp1984 投稿批次的格式修復，站台部署恢復綠燈",
+      "articles": [
+        {
+          "url": "/art/總統府",
+          "name": "總統府"
+        },
+        {
+          "url": "/culture/台灣VTuber",
+          "name": "台灣VTuber"
+        },
+        {
+          "url": "/culture/台灣原住民族姓名",
+          "name": "台灣原住民族姓名"
+        },
+        {
+          "url": "/culture/台灣獸迷文化",
+          "name": "台灣獸迷文化"
+        }
+      ]
+    },
+    {
+      "hash": "13aa41c1d07b17aa5df9a6eabfef78b3952b91d6",
+      "date": "2026-08-15T17:10:17+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1339 from idlccp1984/patch-594917",
+      "articles": []
+    },
+    {
+      "hash": "409d0b085cf7d264c8f59c07dda2dcc1e9e19ac4",
+      "date": "2026-08-15T17:09:48+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 嘉南大圳 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/history/嘉南大圳",
+          "name": "嘉南大圳"
+        }
+      ]
+    },
+    {
+      "hash": "dd5d056459a07dc0fc59d6daf581a45a446c4980",
+      "date": "2026-08-15T17:09:45+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 噶瑪蘭族 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/culture/噶瑪蘭族",
+          "name": "噶瑪蘭族"
+        }
+      ]
+    },
+    {
+      "hash": "94108deebb6421f583fe11e02c5e70d3f80f03a2",
+      "date": "2026-08-15T17:09:42+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 茄芷袋 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/culture/茄芷袋",
+          "name": "茄芷袋"
+        }
+      ]
+    },
+    {
+      "hash": "c7651f8a38ac9ecf3d73dd52bf4c2fb7eaff0b00",
+      "date": "2026-08-15T17:09:40+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 吳季剛 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/people/吳季剛",
+          "name": "吳季剛"
+        }
+      ]
+    },
+    {
+      "hash": "65ecb42dec241c2feda32d631a6fe99e6f34e320",
+      "date": "2026-08-15T17:09:37+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 台灣獸迷文化 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/culture/台灣獸迷文化",
+          "name": "台灣獸迷文化"
+        }
+      ]
+    },
+    {
+      "hash": "f276fcb7b5319ed93929bcb5130a680e119c2411",
+      "date": "2026-08-15T17:09:35+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 小綠人 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/lifestyle/小綠人",
+          "name": "小綠人"
+        }
+      ]
+    },
+    {
+      "hash": "5a678489f77495ac56838c34916c6f23cc6d6e9b",
+      "date": "2026-08-15T17:09:31+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 呂捷 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/people/呂捷",
+          "name": "呂捷"
+        }
+      ]
+    },
+    {
+      "hash": "97c6f6f8af934042741dc50d0fd0efc5a27890e8",
+      "date": "2026-08-15T17:09:29+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: Threads在台灣 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/technology/Threads在台灣",
+          "name": "Threads在台灣"
+        }
+      ]
+    },
+    {
+      "hash": "98d7ff65bef6a58952f954e1fb3e77cfcf4cbef8",
+      "date": "2026-08-15T17:09:26+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 台灣VTuber — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/culture/台灣VTuber",
+          "name": "台灣VTuber"
+        }
+      ]
+    },
+    {
+      "hash": "c6a05416ec3e6681f510bb0316b59a3e1285e78f",
+      "date": "2026-08-15T17:09:24+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 台灣垃圾車音樂 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣垃圾車音樂",
+          "name": "台灣垃圾車音樂"
+        }
+      ]
+    },
+    {
+      "hash": "05b8d78529fd4c365ca667ae86405c61ec5c3561",
+      "date": "2026-08-15T17:09:21+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 總統府 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/art/總統府",
+          "name": "總統府"
+        }
+      ]
+    },
+    {
+      "hash": "83ce4f0de59f7f7d9ed3bae9b8eab6bdc0039175",
+      "date": "2026-08-15T17:09:18+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 阿美族年齡階級 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/culture/阿美族年齡階級",
+          "name": "阿美族年齡階級"
+        }
+      ]
+    },
+    {
+      "hash": "65b15094aaeee15762c918e913d2437b58e40e6f",
+      "date": "2026-08-15T17:09:16+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 烏魚子 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/food/烏魚子",
+          "name": "烏魚子"
+        }
+      ]
+    },
+    {
+      "hash": "3989d30cbd83de31c6da64940b73c5e53058512d",
+      "date": "2026-08-15T17:09:13+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 燒臘便當 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/food/燒臘便當",
+          "name": "燒臘便當"
+        }
+      ]
+    },
+    {
+      "hash": "befe7eaa2268e346f5fc12c56c1e6083c8e3c70e",
+      "date": "2026-08-15T17:09:10+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 蘭嶼核廢料 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/history/蘭嶼核廢料",
+          "name": "蘭嶼核廢料"
+        }
+      ]
+    },
+    {
+      "hash": "a3c8425a20c391522b5bc8e5b4c0aa4552c29063",
+      "date": "2026-08-15T17:09:08+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 亞泥新城山礦場事件 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/history/亞泥新城山礦場事件",
+          "name": "亞泥新城山礦場事件"
+        }
+      ]
+    },
+    {
+      "hash": "bfc2f4982a2e1955dcd073940cbd09944e1c90e4",
+      "date": "2026-08-15T17:09:05+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 口罩國家隊 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/economy/口罩國家隊",
+          "name": "口罩國家隊"
+        }
+      ]
+    },
+    {
+      "hash": "a882b21c7ed7d3f7981e1d76258bee3371187ab2",
+      "date": "2026-08-15T17:09:03+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 學測 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/society/學測",
+          "name": "學測"
+        }
+      ]
+    },
+    {
+      "hash": "7fb328fa169ee5c82b5adbe7cd23621efba00daf",
+      "date": "2026-08-15T17:09:00+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 台灣原住民族姓名 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/culture/台灣原住民族姓名",
+          "name": "台灣原住民族姓名"
+        }
+      ]
+    },
+    {
+      "hash": "e737bf5c79b2b00afb260c873a6ea1541fed6add",
+      "date": "2026-08-15T17:08:57+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 陳幸妤 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/people/陳幸妤",
+          "name": "陳幸妤"
+        }
+      ]
+    },
+    {
+      "hash": "5857923f7a48ccb7845612c8038b078fcdaf4d56",
+      "date": "2026-08-15T17:08:55+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 漯底山 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/geography/漯底山",
+          "name": "漯底山"
+        }
+      ]
+    },
+    {
+      "hash": "f4765d303ecefc440341be1b61fa17b444fe7cd7",
+      "date": "2026-08-15T17:08:32+08:00",
+      "author": "Taiwan.md",
+      "message": "test",
+      "articles": [
+        {
+          "url": "/history/台灣土地改革",
+          "name": "台灣土地改革"
+        }
+      ]
+    },
+    {
+      "hash": "7aa3c8d7dd0378c911227bbf1a2699aa0d04c85b",
+      "date": "2026-08-15T17:08:25+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 黃土水 — 網址尾空格、全形分號、版權圖改文字連結",
+      "articles": [
+        {
+          "url": "/people/黃土水",
+          "name": "黃土水"
+        }
+      ]
+    },
+    {
+      "hash": "5be5dd34e2dd701c9f517ad31073870e859a1e51",
+      "date": "2026-08-15T17:07:58+08:00",
+      "author": "Taiwan.md",
+      "message": "🧬 [semiont] heal: 台灣鐵路便當 — 網址尾空格、全形分號、subcategory、中國用語",
+      "articles": [
+        {
+          "url": "/art/總統府",
+          "name": "總統府"
+        },
+        {
+          "url": "/culture/台灣VTuber",
+          "name": "台灣VTuber"
+        },
+        {
+          "url": "/culture/台灣原住民族姓名",
+          "name": "台灣原住民族姓名"
+        },
+        {
+          "url": "/culture/台灣獸迷文化",
+          "name": "台灣獸迷文化"
+        }
+      ]
+    },
+    {
+      "hash": "8362b9583b13ae2d55e94eff6bb645d35c5d2a8d",
+      "date": "2026-08-15T16:37:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 編輯台帳本 — Stage 0 到 1B 的實際時間戳",
+      "articles": []
+    },
+    {
+      "hash": "3650f9e2ff12b7154ec7e235ebd1a9175c46e7c0",
+      "date": "2026-08-15T16:23:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 1B — 20 路讀者稽核 + 媒體深掃，兩輪增補收口",
+      "articles": []
+    },
+    {
+      "hash": "c728d9120511908959261d6a52605d944cef77a6",
+      "date": "2026-08-15T16:18:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 增補 E 第二輪 — 問責面補齊，格式回契約",
+      "articles": []
+    },
+    {
+      "hash": "a7af1bd161ed314f965be7d23428513d3d36cd3e",
+      "date": "2026-08-15T16:15:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 persona 增補 F — 號子的空洞補起來了",
+      "articles": []
+    },
+    {
+      "hash": "894c28507f8f3702868b1a4019bb39b74753f0ad",
+      "date": "2026-08-15T16:12:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: REFLEXES #85 補一個變體 2 的新 instance — 收件儀器的溯源率碰到分母 0 不會叫",
+      "articles": []
+    },
+    {
+      "hash": "4e428f3992d1b4c51c3e3fb8d80769d331ae8456",
+      "date": "2026-08-15T16:11:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 persona 增補 E — 收入結構一手拿到",
+      "articles": []
+    },
+    {
+      "hash": "3a2156c6f777d346789171841ea5cedd1494e21e",
+      "date": "2026-08-15T15:54:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 1A 合成單檔 — 八段 SSOT，depth gate 全綠",
+      "articles": []
+    },
+    {
+      "hash": "34397542a04eba28bda273dcee1a76224b388e68",
+      "date": "2026-08-15T15:45:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 lane D 第二輪 — WFE 屆次查證失敗，誠實並列",
+      "articles": []
+    },
+    {
+      "hash": "18f4456b10aeab8ed184c2692f718c159ff6112a",
+      "date": "2026-08-15T15:44:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 1A lane B raw — 每天實際在做什麼（含斷源補救）",
+      "articles": []
+    },
+    {
+      "hash": "a2ab21b658274be4545bc6338cc143677993e219",
+      "date": "2026-08-15T15:42:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 1A lane C raw — 組織治理與身分張力",
+      "articles": []
+    },
+    {
+      "hash": "e560a2f113ad88eb7a3c1d7c5158ac9481deff15",
+      "date": "2026-08-15T15:41:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 1A lane D raw — 轉投資、技術史、世界座標",
+      "articles": []
+    },
+    {
+      "hash": "6b5e9f37d73bb750c70d03bf893081ba33721f83",
+      "date": "2026-08-15T15:38:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 1A lane A raw — 身世與制度選擇",
+      "articles": []
+    },
+    {
+      "hash": "9ae7626af91b676593f5cd6bd6fc5b6b39e61386",
+      "date": "2026-08-15T15:28:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣證券交易所 Stage 0 觀點成型 — 立體群像 + P6 機構傳記",
+      "articles": []
+    },
+    {
+      "hash": "df2fdb39aa1969375ef42aeafca73971a60f6a63",
+      "date": "2026-08-15T16:37:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 工作坊三份投稿收官 + 四條教訓入庫",
+      "articles": []
+    },
+    {
+      "hash": "f3161f5377301b6933b0d6f11c496fd309c146eb",
+      "date": "2026-08-15T16:29:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] immune: 把讀者看得到的「Manus AI」署名換回貢獻者署名",
+      "articles": [
+        {
+          "url": "/nature/櫻花鉤吻鮭",
+          "name": "櫻花鉤吻鮭"
+        },
+        {
+          "url": "/people/陳致中",
+          "name": "陳致中"
+        }
+      ]
+    },
+    {
+      "hash": "6d762f5accdd60a6a83f7bfed87711bfb1f039f4",
+      "date": "2026-08-15T16:21:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 工作坊兩篇投稿 merge 後修補署名、事實與腳註格式",
+      "articles": [
+        {
+          "url": "/culture/咖波",
+          "name": "咖波"
+        },
+        {
+          "url": "/technology/台灣科技說故事",
+          "name": "台灣科技說故事"
+        }
+      ]
+    },
+    {
+      "hash": "390db29a81146af1a2eff02c7289e91eda7aa00a",
+      "date": "2026-08-15T16:19:14+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1366 from ytchen175/codex/add-capoo-article",
+      "articles": []
+    },
+    {
+      "hash": "55dd489a953a00f5a85d49c1f4a3933c24fd09de",
+      "date": "2026-08-15T16:19:11+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1367 from wegoliao/article/tech-storytelling",
+      "articles": []
+    },
+    {
+      "hash": "0df538d8cdbcf936fd508a654d8997999971a618",
+      "date": "2026-08-15T16:05:26+08:00",
+      "author": "wegoliao@gmail.com",
+      "message": "cross-link：為〈台灣科技說故事〉建立雙向延伸閱讀（Stage 5）",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：宏達電",
+          "name": "台灣企業：宏達電"
+        },
+        {
+          "url": "/economy/台灣企業：聯發科技",
+          "name": "台灣企業：聯發科技"
+        },
+        {
+          "url": "/people/黃仁勳",
+          "name": "黃仁勳"
+        },
+        {
+          "url": "/technology/NVIDIA在台灣",
+          "name": "NVIDIA在台灣"
+        }
+      ]
+    },
+    {
+      "hash": "fb255218d7a7b863eed2e7a4bdb6770a4f02b0e3",
+      "date": "2026-08-15T16:05:10+08:00",
+      "author": "wegoliao@gmail.com",
+      "message": "新文章：台灣科技說故事（100 分的晶片，60 分的麥克風）",
+      "articles": [
+        {
+          "url": "/technology/台灣科技說故事",
+          "name": "台灣科技說故事"
+        }
+      ]
+    },
+    {
+      "hash": "f9905533215fe7d6a987cda7ce2e99c42c56c6bb",
+      "date": "2026-08-15T16:04:57+08:00",
+      "author": "ytchen175",
+      "message": "docs: add Bugcat Capoo article",
+      "articles": [
+        {
+          "url": "/culture/咖波",
+          "name": "咖波"
+        }
+      ]
+    },
+    {
+      "hash": "906e5acf479a1c9c95e61262141ffd486a234256",
+      "date": "2026-08-15T12:25:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: tokens.css 補上 :root:lang(ko) 缺的閉合括號，救回全站 79 個顏色 token",
+      "articles": []
+    },
+    {
+      "hash": "d8075b27e541a9386f93cce34a88a710a96924bf",
+      "date": "2026-08-15T09:10:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-15 08:41 — 追上游追到回報層",
+      "articles": []
+    },
+    {
+      "hash": "7c5902f9806a6187298cdd6731bb0714e595e093",
+      "date": "2026-08-15T09:00:13+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣土地改革.md",
+      "articles": [
+        {
+          "url": "/history/台灣土地改革",
+          "name": "台灣土地改革"
+        }
+      ]
+    },
+    {
+      "hash": "0b38889d634ef0812dcc9748c5e53bcf104cb4c3",
+      "date": "2026-08-15T08:58:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 帝雉補查證狀態、降全形分號，並救回 prettier 弄壞的兩條圖片連結",
+      "articles": [
+        {
+          "url": "/nature/帝雉",
+          "name": "帝雉"
+        }
+      ]
+    },
+    {
+      "hash": "f71bdae8cd01485d019ece7d72616ce6731c8b27",
+      "date": "2026-08-15T08:53:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] immune: 網址裡的一個空格，變成三百五十三個看起來無關的錯誤",
+      "articles": []
+    },
+    {
+      "hash": "3008fc6d6b3993e2117f71fb0b82f5a6e8821e7f",
+      "date": "2026-08-15T08:57:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1346 from idlccp1984/patch-792410",
+      "articles": []
+    },
+    {
+      "hash": "8f488e3bc7e4984dd0d3ad14c9a82d8291b03cf4",
+      "date": "2026-08-15T08:45:59+08:00",
+      "author": "idlccp1984",
+      "message": "Update 漯底山.md",
+      "articles": [
+        {
+          "url": "/geography/漯底山",
+          "name": "漯底山"
+        }
+      ]
+    },
+    {
+      "hash": "40b38404e9728406a6cf32af5e6c54db965515aa",
+      "date": "2026-08-15T07:23:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-15 07:19 收官",
+      "articles": []
+    },
+    {
+      "hash": "3e0a65b9963621c91ca8151a164fb8e807901fe7",
+      "date": "2026-08-15T07:18:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 攔一筆不再需要讓整條停擺",
+      "articles": []
+    },
+    {
+      "hash": "1747ce1d98d2b7b1c3045104597e1f9a841b0e6d",
+      "date": "2026-08-15T06:42:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-15 06:41 收官",
+      "articles": []
+    },
+    {
+      "hash": "ea228abfd498c888738704f87946be97bcdcbf1d",
+      "date": "2026-08-15T06:40:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: v1.15.0 release 孢子 D+4 續追 — 2026-08-15",
+      "articles": []
+    },
+    {
+      "hash": "37d7d2a2306b58de7ccd14424666f0f1a8b00716",
+      "date": "2026-08-15T06:16:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-15 06:15 — 14 步全綠零 stale 連續第四天",
+      "articles": []
+    },
+    {
+      "hash": "3f79b186de0a5133f25942f1fac08dc707e2bc14",
+      "date": "2026-08-15T06:14:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 900、本週新增 22",
+      "articles": []
+    },
     {
       "hash": "5075b93d735475d7a1bc8444da3b9935c3a886a1",
       "date": "2026-08-15T05:38:54+08:00",
@@ -22,6 +896,270 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-15 05:23",
       "articles": []
+    },
+    {
+      "hash": "51b97780428b4c35cac0d3e9b8265e88ee2e55bf",
+      "date": "2026-08-15T02:19:07+08:00",
+      "author": "idlccp1984",
+      "message": "Create 陳幸妤.md",
+      "articles": [
+        {
+          "url": "/people/陳幸妤",
+          "name": "陳幸妤"
+        }
+      ]
+    },
+    {
+      "hash": "6d22efc36f6bae054d1edb0c18417c75b3331ac8",
+      "date": "2026-08-15T02:10:06+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣原住民族姓名.md",
+      "articles": [
+        {
+          "url": "/culture/台灣原住民族姓名",
+          "name": "台灣原住民族姓名"
+        }
+      ]
+    },
+    {
+      "hash": "e97ff7f18b374de49c48f6f2017315e84c536302",
+      "date": "2026-08-15T02:03:41+08:00",
+      "author": "idlccp1984",
+      "message": "Create 學測.md",
+      "articles": [
+        {
+          "url": "/society/學測",
+          "name": "學測"
+        }
+      ]
+    },
+    {
+      "hash": "d839d3bac6debf313d153d97b65fafadadd4c272",
+      "date": "2026-08-15T01:43:24+08:00",
+      "author": "idlccp1984",
+      "message": "Create 口罩國家隊.md",
+      "articles": [
+        {
+          "url": "/economy/口罩國家隊",
+          "name": "口罩國家隊"
+        }
+      ]
+    },
+    {
+      "hash": "ce052e9d65d0434f74bd59ac00616931e3f07553",
+      "date": "2026-08-15T01:21:19+08:00",
+      "author": "idlccp1984",
+      "message": "Create 亞泥新城山礦場事件.md",
+      "articles": [
+        {
+          "url": "/history/亞泥新城山礦場事件",
+          "name": "亞泥新城山礦場事件"
+        }
+      ]
+    },
+    {
+      "hash": "7c3c4f1dae08590ee2ba1fe11be7332490b4979b",
+      "date": "2026-08-15T00:59:35+08:00",
+      "author": "idlccp1984",
+      "message": "Create 蘭嶼核廢料.md",
+      "articles": [
+        {
+          "url": "/history/蘭嶼核廢料",
+          "name": "蘭嶼核廢料"
+        }
+      ]
+    },
+    {
+      "hash": "045ff4f0150ec0834c758e11aea0f3473b68faf8",
+      "date": "2026-08-15T00:56:36+08:00",
+      "author": "idlccp1984",
+      "message": "Create 燒臘便當.md",
+      "articles": [
+        {
+          "url": "/food/燒臘便當",
+          "name": "燒臘便當"
+        }
+      ]
+    },
+    {
+      "hash": "1dabe95ded93173b5850591ece314ab8cd0ea28b",
+      "date": "2026-08-15T00:27:23+08:00",
+      "author": "idlccp1984",
+      "message": "Create 烏魚子.md",
+      "articles": [
+        {
+          "url": "/food/烏魚子",
+          "name": "烏魚子"
+        }
+      ]
+    },
+    {
+      "hash": "3ea8ff9b38e90ae72c6939a1295678bf9f92f9a6",
+      "date": "2026-08-14T23:57:39+08:00",
+      "author": "idlccp1984",
+      "message": "Create 阿美族年齡階級.md",
+      "articles": [
+        {
+          "url": "/culture/阿美族年齡階級",
+          "name": "阿美族年齡階級"
+        }
+      ]
+    },
+    {
+      "hash": "604c8e3cb5b38674e6a931090dbbb2c5399626a9",
+      "date": "2026-08-14T23:56:00+08:00",
+      "author": "idlccp1984",
+      "message": "Create 總統府.md",
+      "articles": [
+        {
+          "url": "/art/總統府",
+          "name": "總統府"
+        }
+      ]
+    },
+    {
+      "hash": "0972ada34a39bdd4d38257f3ed3849ff6b0fd902",
+      "date": "2026-08-14T23:39:49+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣垃圾車音樂.md",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣垃圾車音樂",
+          "name": "台灣垃圾車音樂"
+        }
+      ]
+    },
+    {
+      "hash": "28a83a3a3638cbbd58c390554391649055fa1c42",
+      "date": "2026-08-14T23:16:12+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣VTuber.md",
+      "articles": [
+        {
+          "url": "/culture/台灣VTuber",
+          "name": "台灣VTuber"
+        }
+      ]
+    },
+    {
+      "hash": "b516a884ae2d53f7e23d62ca4fa747548b42da74",
+      "date": "2026-08-14T22:51:14+08:00",
+      "author": "idlccp1984",
+      "message": "Update Threads在台灣.md",
+      "articles": [
+        {
+          "url": "/technology/Threads在台灣",
+          "name": "Threads在台灣"
+        }
+      ]
+    },
+    {
+      "hash": "cf957714859b920b02802117a44a04f979e13bc3",
+      "date": "2026-08-14T22:03:23+08:00",
+      "author": "idlccp1984",
+      "message": "Create 呂捷.md",
+      "articles": [
+        {
+          "url": "/people/呂捷",
+          "name": "呂捷"
+        }
+      ]
+    },
+    {
+      "hash": "205ad4fd5acd8ca0ee735fc2852cf2e2ba6bb067",
+      "date": "2026-08-14T20:11:01+08:00",
+      "author": "idlccp1984",
+      "message": "Update 小綠人.md",
+      "articles": [
+        {
+          "url": "/lifestyle/小綠人",
+          "name": "小綠人"
+        }
+      ]
+    },
+    {
+      "hash": "782003c47840224922cf2e0c8cc55ed074490caf",
+      "date": "2026-08-14T19:10:29+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣獸迷文化.md",
+      "articles": [
+        {
+          "url": "/culture/台灣獸迷文化",
+          "name": "台灣獸迷文化"
+        }
+      ]
+    },
+    {
+      "hash": "7dc2f2ee19a4f5f5f8cc12af3b25f29eca4e5705",
+      "date": "2026-08-14T18:58:16+08:00",
+      "author": "idlccp1984",
+      "message": "Create 帝雉.md",
+      "articles": [
+        {
+          "url": "/nature/帝雉",
+          "name": "帝雉"
+        }
+      ]
+    },
+    {
+      "hash": "a4860c960b51d656218ab5281d8822ef7324b4ae",
+      "date": "2026-08-14T18:21:11+08:00",
+      "author": "idlccp1984",
+      "message": "Create 吳季剛.md",
+      "articles": [
+        {
+          "url": "/people/吳季剛",
+          "name": "吳季剛"
+        }
+      ]
+    },
+    {
+      "hash": "6c8a18771e98cad07cc7453ba2975ce4faa8f852",
+      "date": "2026-08-14T18:07:39+08:00",
+      "author": "idlccp1984",
+      "message": "Create 茄芷袋.md",
+      "articles": [
+        {
+          "url": "/culture/茄芷袋",
+          "name": "茄芷袋"
+        }
+      ]
+    },
+    {
+      "hash": "ad053cda56a261b235a59aa4e44029f3219d7c57",
+      "date": "2026-08-14T17:57:01+08:00",
+      "author": "idlccp1984",
+      "message": "Create 噶瑪蘭族.md",
+      "articles": [
+        {
+          "url": "/culture/噶瑪蘭族",
+          "name": "噶瑪蘭族"
+        }
+      ]
+    },
+    {
+      "hash": "ff99ed802a3a985a83cdda4bb5b70bd7fadca29f",
+      "date": "2026-08-14T17:48:25+08:00",
+      "author": "idlccp1984",
+      "message": "Create 嘉南大圳.md",
+      "articles": [
+        {
+          "url": "/history/嘉南大圳",
+          "name": "嘉南大圳"
+        }
+      ]
+    },
+    {
+      "hash": "adf344f88d7ca6fcf2c6ef33208340798628ebc3",
+      "date": "2026-08-14T17:40:48+08:00",
+      "author": "idlccp1984",
+      "message": "Create 黃土水.md",
+      "articles": [
+        {
+          "url": "/people/黃土水",
+          "name": "黃土水"
+        }
+      ]
     },
     {
       "hash": "ff36fca7f5681453896865137e5fde38b31d584b",
@@ -64,6 +1202,18 @@
       "author": "Wu Che Yu",
       "message": "Merge pull request #1337 from audreyt/chore/copilot-code-review-skill",
       "articles": []
+    },
+    {
+      "hash": "a2a9e792d7412b6b3aef26bb33e13737078583d2",
+      "date": "2026-08-14T13:08:57+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣鐵路便當.md",
+      "articles": [
+        {
+          "url": "/food/台灣鐵路便當",
+          "name": "台灣鐵路便當"
+        }
+      ]
     },
     {
       "hash": "cecb5bcf5f3fae46b56fc6102713d1c61b1d9213",

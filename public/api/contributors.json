@@ -1,34 +1,34 @@
 {
-  "lastUpdated": "2026-08-14T22:12:30.747Z",
+  "lastUpdated": "2026-08-15T22:12:14.749Z",
   "totals": {
-    "contributors": 71,
+    "contributors": 73,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 7787,
+      "commits": 7877,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-15 05:38:54 +0800",
+      "lastCommitAt": "2026-08-16 05:39:51 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1367,
-        "system": 4477,
-        "translation": 1909
+        "content": 1394,
+        "system": 4499,
+        "translation": 1911
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 237,
+      "commits": 262,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-14 07:12:43 +0800",
+      "lastCommitAt": "2026-08-15 09:00:13 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 237,
+        "content": 262,
         "system": 0,
         "translation": 0
       }
@@ -463,6 +463,13 @@
       "types": ["💻", "🖋️"]
     },
     {
+      "login": "wegoliao",
+      "name": "wegoliao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10190551?v=4",
+      "profileUrl": "https://github.com/wegoliao",
+      "types": ["🖋️"]
+    },
+    {
       "login": "jessejs0202",
       "name": "jessejs0202",
       "avatarUrl": "https://avatars.githubusercontent.com/u/247524286?v=4",
@@ -594,6 +601,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/271172009?v=4",
       "profileUrl": "https://github.com/sageotomo",
       "types": ["💻"]
+    },
+    {
+      "login": "ytchen175",
+      "name": "ytchen175",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58975450?v=4",
+      "profileUrl": "https://github.com/ytchen175",
+      "types": ["🖋️"]
     },
     {
       "login": "Rushyuheng",
@@ -788,14 +802,14 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 237,
+      "commits": 262,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-14 07:12:43 +0800",
+      "lastCommitAt": "2026-08-15 09:00:13 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 237,
+        "content": 262,
         "system": 0,
         "translation": 0
       }
@@ -860,16 +874,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 7787,
+      "commits": 7877,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-15 05:38:54 +0800",
+      "lastCommitAt": "2026-08-16 05:39:51 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1367,
-        "system": 4477,
-        "translation": 1909
+        "content": 1394,
+        "system": 4499,
+        "translation": 1911
       }
     },
     {
@@ -1001,8 +1015,8 @@
       }
     }
   ],
-  "weeklyActive": 6,
-  "monthlyActive": 7,
+  "weeklyActive": 7,
+  "monthlyActive": 9,
   "recentlyJoined": [
     {
       "login": "stantheman0128",
@@ -1044,6 +1058,34 @@
         "content": 0,
         "system": 5,
         "translation": 1
+      }
+    },
+    {
+      "login": "ytchen175",
+      "commits": 1,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58975450?v=4",
+      "profileUrl": "https://github.com/ytchen175",
+      "firstCommitAt": "2026-08-15 16:04:57 +0800",
+      "lastCommitAt": "2026-08-15 16:04:57 +0800",
+      "primaryArea": "content",
+      "breakdown": {
+        "content": 1,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
+      "login": "wegoliao",
+      "commits": 2,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10190551?v=4",
+      "profileUrl": "https://github.com/wegoliao",
+      "firstCommitAt": "2026-08-15 16:05:10 +0800",
+      "lastCommitAt": "2026-08-15 16:05:26 +0800",
+      "primaryArea": "content",
+      "breakdown": {
+        "content": 2,
+        "system": 0,
+        "translation": 0
       }
     }
   ]

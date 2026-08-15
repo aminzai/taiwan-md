@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-14T22:12:37Z",
-  "total": 902,
-  "flagged": 447,
+  "timestamp": "2026-08-15T22:12:22Z",
+  "total": 923,
+  "flagged": 463,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -181,8 +181,8 @@
     },
     {
       "file": "economy/台灣企業：聯發科技.md",
-      "score": 6,
-      "reasons": "未人工審核; 破折號13個; 後段清單堆砌40%; 無腳註"
+      "score": 7,
+      "reasons": "未人工審核; 破折號13個; 後段清單堆砌43%; 無腳註"
     },
     {
       "file": "economy/三商.md",
@@ -250,6 +250,11 @@
       "reasons": "空洞詞8個; 未人工審核; 稀薄段落×2"
     },
     {
+      "file": "economy/口罩國家隊.md",
+      "score": 5,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 稀薄段落×2"
+    },
+    {
       "file": "economy/NET.md",
       "score": 6,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句3個; 稀薄段落×4"
@@ -257,7 +262,7 @@
     {
       "file": "technology/Threads在台灣.md",
       "score": 11,
-      "reasons": "空洞詞8個; 未人工審核; 連續bullet5行; 塑膠句3個; 後段清單堆砌54%; 稀薄段落×5; 引用荒漠(零腳註)"
+      "reasons": "空洞詞15個; 未人工審核; 塑膠句13個; 分號12個; 稀薄段落×5"
     },
     {
       "file": "technology/AI供應鏈海外設廠.md",
@@ -435,6 +440,11 @@
       "reasons": "未人工審核; 連續bullet4行; 塑膠句3個; 稀薄段落×3; 無腳註"
     },
     {
+      "file": "art/總統府.md",
+      "score": 8,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句3個; 分號10個; 稀薄段落×2"
+    },
+    {
       "file": "art/紀柏豪.md",
       "score": 4,
       "reasons": "空洞詞7個; 破折號14個; 分號6個"
@@ -571,8 +581,8 @@
     },
     {
       "file": "lifestyle/台灣垃圾車音樂.md",
-      "score": 6,
-      "reasons": "未人工審核; 破折號7個; 後段清單堆砌40%; 稀薄段落×1; 無腳註"
+      "score": 4,
+      "reasons": "空洞詞7個; 未人工審核; 稀薄段落×2"
     },
     {
       "file": "lifestyle/台灣髮型介紹.md",
@@ -623,11 +633,6 @@
       "file": "lifestyle/遊覽車.md",
       "score": 5,
       "reasons": "空洞詞7個; 未人工審核; 破折號10個; 稀薄段落×1"
-    },
-    {
-      "file": "lifestyle/小綠人.md",
-      "score": 8,
-      "reasons": "年份4個; 未人工審核; 塑膠句1個; 後段清單堆砌45%; 稀薄段落×1; 價值上升詞×5"
     },
     {
       "file": "lifestyle/小北百貨.md",
@@ -848,6 +853,11 @@
       "file": "society/認知作戰.md",
       "score": 4,
       "reasons": "空洞詞6個; 未人工審核; 分號5個; 稀薄段落×1"
+    },
+    {
+      "file": "society/學測.md",
+      "score": 6,
+      "reasons": "空洞詞8個; 未人工審核; 塑膠句4個; 稀薄段落×2"
     },
     {
       "file": "society/台灣邦交國與國際外交.md",
@@ -1118,6 +1128,11 @@
       "file": "people/蔣中正.md",
       "score": 6,
       "reasons": "未人工審核; 塑膠句2個; 破折號12個; 分號6個; 價值上升詞×3"
+    },
+    {
+      "file": "people/黃土水.md",
+      "score": 5,
+      "reasons": "空洞詞8個; 未人工審核; 塑膠句3個; 分號7個"
     },
     {
       "file": "people/李智凱.md",
@@ -1445,6 +1460,11 @@
       "reasons": "年份2個; 未人工審核; 後段清單堆砌50%; 稀薄段落×1"
     },
     {
+      "file": "people/陳幸妤.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句1個; 分號9個"
+    },
+    {
       "file": "people/麟洋配.md",
       "score": 5,
       "reasons": "空洞詞14個; 塑膠句1個; 分號8個; 稀薄段落×1"
@@ -1473,6 +1493,11 @@
       "file": "people/戴資穎.md",
       "score": 6,
       "reasons": "空洞詞12個; 塑膠句2個; 套路結尾; 無腳註"
+    },
+    {
+      "file": "people/呂捷.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句5個; 分號8個"
     },
     {
       "file": "people/大支.md",
@@ -1630,6 +1655,11 @@
       "reasons": "未人工審核; 破折號14個; 後段清單堆砌79%; 稀薄段落×6; 品質衰退前22%後2%; 引用荒漠(零腳註)"
     },
     {
+      "file": "food/烏魚子.md",
+      "score": 6,
+      "reasons": "年份3個; 未人工審核; 塑膠句1個; 分號7個; 稀薄段落×2"
+    },
+    {
       "file": "food/台灣手搖飲文化.md",
       "score": 5,
       "reasons": "未人工審核; 連續bullet4行; 分號9個; 稀薄段落×1"
@@ -1653,6 +1683,11 @@
       "file": "food/台灣小吃.md",
       "score": 8,
       "reasons": "未人工審核; 連續bullet5行; 塑膠句1個; 分號11個; 稀薄段落×3; 無腳註"
+    },
+    {
+      "file": "food/燒臘便當.md",
+      "score": 6,
+      "reasons": "未人工審核; 塑膠句3個; 分號5個; 稀薄段落×2"
     },
     {
       "file": "food/油飯.md",
@@ -1720,6 +1755,11 @@
       "reasons": "空洞詞6個; 未人工審核; 塑膠句6個; 分號4個; 稀薄段落×6"
     },
     {
+      "file": "food/台灣鐵路便當.md",
+      "score": 4,
+      "reasons": "塑膠句5個; 分號4個"
+    },
+    {
       "file": "food/茶文化.md",
       "score": 10,
       "reasons": "年份僅0個; 未人工審核; 連續bullet4行; 破折號8個; 後段清單堆砌33%; 稀薄段落×2"
@@ -1743,6 +1783,11 @@
       "file": "food/金牛角.md",
       "score": 5,
       "reasons": "年份僅1個; 未人工審核; 塑膠句1個"
+    },
+    {
+      "file": "history/亞泥新城山礦場事件.md",
+      "score": 7,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句4個; 分號7個; 稀薄段落×2"
     },
     {
       "file": "history/源興牛與牛肉湯的歷史.md",
@@ -1845,6 +1890,11 @@
       "reasons": "年份僅0個; 無URL來源; 空洞詞7個; 未人工審核; 塑膠句6個; 稀薄段落×1"
     },
     {
+      "file": "history/蘭嶼核廢料.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句3個; 分號4個"
+    },
+    {
       "file": "history/台灣選舉與政黨政治.md",
       "score": 7,
       "reasons": "空洞詞14個; 未人工審核; 塑膠句1個; 破折號15個; 分號7個"
@@ -1853,6 +1903,16 @@
       "file": "history/台灣白色恐怖.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句1個; 套路結尾"
+    },
+    {
+      "file": "history/嘉南大圳.md",
+      "score": 7,
+      "reasons": "空洞詞7個; 未人工審核; 塑膠句3個; 分號9個; 稀薄段落×1"
+    },
+    {
+      "file": "history/台灣土地改革.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句6個"
     },
     {
       "file": "history/台灣與北朝鮮關係.md",
@@ -1921,8 +1981,8 @@
     },
     {
       "file": "geography/漯底山.md",
-      "score": 6,
-      "reasons": "年份2個; 未人工審核; 後段清單堆砌38%; 稀薄段落×2"
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句1個; 分號4個; 稀薄段落×6"
     },
     {
       "file": "geography/烏坵.md",
@@ -2035,6 +2095,11 @@
       "reasons": "未人工審核; 塑膠句1個; 破折號11個; 後段清單堆砌38%; 無腳註"
     },
     {
+      "file": "culture/咖波.md",
+      "score": 7,
+      "reasons": "空洞詞8個; 未人工審核; 塑膠句5個; 分號9個"
+    },
+    {
       "file": "culture/澎湖民俗文化.md",
       "score": 6,
       "reasons": "年份僅0個; 破折號10個; 稀薄段落×1"
@@ -2121,8 +2186,8 @@
     },
     {
       "file": "culture/台灣VTuber.md",
-      "score": 7,
-      "reasons": "空洞詞6個; 連續bullet5行; 塑膠句5個; 稀薄段落×3"
+      "score": 8,
+      "reasons": "空洞詞11個; 塑膠句4個; 分號12個; 稀薄段落×5"
     },
     {
       "file": "culture/台灣動漫文化.md",
@@ -2143,6 +2208,11 @@
       "file": "culture/台灣華語的演化.md",
       "score": 7,
       "reasons": "年份僅1個; 未人工審核; 塑膠句5個"
+    },
+    {
+      "file": "culture/阿美族年齡階級.md",
+      "score": 6,
+      "reasons": "年份僅1個; 空洞詞6個; 未人工審核; 塑膠句2個"
     },
     {
       "file": "culture/布袋戲.md",
@@ -2215,6 +2285,11 @@
       "reasons": "塑膠句9個; 分號10個; 稀薄段落×3"
     },
     {
+      "file": "culture/台灣原住民族姓名.md",
+      "score": 6,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句2個; 分號7個; 稀薄段落×3"
+    },
+    {
       "file": "culture/九天玄女信仰.md",
       "score": 5,
       "reasons": "未人工審核; 塑膠句2個; 後段清單堆砌31%; 稀薄段落×1"
@@ -2233,6 +2308,11 @@
       "file": "culture/紙傘.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句2個; 稀薄段落×2"
+    },
+    {
+      "file": "culture/茄芷袋.md",
+      "score": 5,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 分號12個"
     },
     {
       "file": "culture/關聖帝君信仰.md",

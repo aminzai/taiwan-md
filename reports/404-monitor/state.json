@@ -1869,7 +1869,7 @@
     },
     {
       "date": "2026-08-14",
-      "total_404": 4923,
+      "total_404": 4573,
       "truncated": false,
       "families": {
         "bad-encoding": {
@@ -1878,58 +1878,58 @@
           "browser": 25,
           "empty": 0
         },
-        "stale-asset": {
-          "count": 162,
-          "bot": 0,
-          "browser": 162,
+        "probe-wellknown": {
+          "count": 107,
+          "bot": 6,
+          "browser": 101,
           "empty": 0
         },
-        "probe-wellknown": {
-          "count": 106,
-          "bot": 7,
-          "browser": 99,
+        "stale-asset": {
+          "count": 157,
+          "bot": 0,
+          "browser": 157,
           "empty": 0
         },
         "unknown": {
-          "count": 2798,
-          "bot": 1957,
-          "browser": 841,
+          "count": 2716,
+          "bot": 1813,
+          "browser": 903,
           "empty": 0
         },
         "scanner": {
-          "count": 747,
+          "count": 593,
           "bot": 82,
-          "browser": 224,
-          "empty": 441
+          "browser": 168,
+          "empty": 343
         },
         "slug-variant": {
-          "count": 543,
-          "bot": 440,
-          "browser": 103,
+          "count": 406,
+          "bot": 326,
+          "browser": 80,
           "empty": 0
         },
         "md-extension": {
-          "count": 220,
-          "bot": 115,
-          "browser": 105,
+          "count": 263,
+          "bot": 87,
+          "browser": 176,
           "empty": 0
         },
         "untranslated-demand": {
-          "count": 95,
-          "bot": 69,
-          "browser": 26,
+          "count": 78,
+          "bot": 58,
+          "browser": 20,
           "empty": 0
         },
         "missing-asset": {
-          "count": 7,
-          "bot": 2,
+          "count": 9,
+          "bot": 4,
           "browser": 5,
           "empty": 0
         },
         "renamed-or-truncated": {
-          "count": 23,
-          "bot": 20,
-          "browser": 3,
+          "count": 22,
+          "bot": 14,
+          "browser": 8,
           "empty": 0
         },
         "cross-lang-slug": {
@@ -1941,5 +1941,5 @@
       }
     }
   ],
-  "updated": "2026-08-15T18:09:14.328465+00:00"
+  "updated": "2026-08-15T22:11:25.343053+00:00"
 }

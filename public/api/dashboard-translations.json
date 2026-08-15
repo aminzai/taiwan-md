@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T22:12:41.497Z",
+  "lastUpdated": "2026-08-15T22:12:26.527Z",
   "languages": [
     "zh-TW",
     "en",
@@ -16,144 +16,144 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 900,
+      "total": 921,
       "percentage": 100,
-      "fresh": 900,
+      "fresh": 921,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 878,
-      "percentage": 97.3,
-      "fresh": 839,
-      "metadataStale": 12,
-      "stale": 27,
-      "missing": 24,
+      "percentage": 95.1,
+      "fresh": 827,
+      "metadataStale": 16,
+      "stale": 35,
+      "missing": 45,
       "orphan": 0,
-      "deficit": 24,
-      "freshPct": 93,
-      "bodyFreshPct": 94.3
+      "deficit": 45,
+      "freshPct": 89.6,
+      "bodyFreshPct": 91.3
     },
     "ja": {
       "total": 872,
-      "percentage": 96.7,
-      "fresh": 846,
-      "metadataStale": 9,
-      "stale": 17,
-      "missing": 30,
+      "percentage": 94.5,
+      "fresh": 834,
+      "metadataStale": 13,
+      "stale": 25,
+      "missing": 51,
       "orphan": 0,
-      "deficit": 30,
-      "freshPct": 93.8,
-      "bodyFreshPct": 94.8
+      "deficit": 51,
+      "freshPct": 90.4,
+      "bodyFreshPct": 91.8
     },
     "ko": {
       "total": 885,
-      "percentage": 98.1,
-      "fresh": 858,
-      "metadataStale": 12,
-      "stale": 15,
-      "missing": 17,
+      "percentage": 95.9,
+      "fresh": 846,
+      "metadataStale": 16,
+      "stale": 23,
+      "missing": 38,
       "orphan": 0,
-      "deficit": 17,
-      "freshPct": 95.1,
-      "bodyFreshPct": 96.5
+      "deficit": 38,
+      "freshPct": 91.7,
+      "bodyFreshPct": 93.4
     },
     "es": {
       "total": 883,
-      "percentage": 97.9,
-      "fresh": 847,
-      "metadataStale": 15,
-      "stale": 21,
-      "missing": 19,
+      "percentage": 95.7,
+      "fresh": 835,
+      "metadataStale": 19,
+      "stale": 29,
+      "missing": 40,
       "orphan": 0,
-      "deficit": 19,
-      "freshPct": 93.9,
-      "bodyFreshPct": 95.6
+      "deficit": 40,
+      "freshPct": 90.5,
+      "bodyFreshPct": 92.5
     },
     "fr": {
       "total": 882,
-      "percentage": 97.8,
-      "fresh": 842,
-      "metadataStale": 19,
-      "stale": 21,
-      "missing": 20,
+      "percentage": 95.6,
+      "fresh": 830,
+      "metadataStale": 23,
+      "stale": 29,
+      "missing": 41,
       "orphan": 0,
-      "deficit": 20,
-      "freshPct": 93.3,
-      "bodyFreshPct": 95.5
+      "deficit": 41,
+      "freshPct": 89.9,
+      "bodyFreshPct": 92.4
     },
     "vi": {
       "total": 799,
-      "percentage": 88.6,
-      "fresh": 699,
-      "metadataStale": 72,
-      "stale": 28,
-      "missing": 103,
+      "percentage": 86.6,
+      "fresh": 691,
+      "metadataStale": 71,
+      "stale": 37,
+      "missing": 124,
       "orphan": 0,
-      "deficit": 103,
-      "freshPct": 77.5,
-      "bodyFreshPct": 85.5
+      "deficit": 124,
+      "freshPct": 74.9,
+      "bodyFreshPct": 82.6
     },
     "id": {
       "total": 572,
-      "percentage": 63.4,
-      "fresh": 562,
-      "metadataStale": 4,
-      "stale": 6,
-      "missing": 330,
+      "percentage": 62,
+      "fresh": 552,
+      "metadataStale": 7,
+      "stale": 13,
+      "missing": 351,
       "orphan": 0,
-      "deficit": 330,
-      "freshPct": 62.3,
-      "bodyFreshPct": 62.7
+      "deficit": 351,
+      "freshPct": 59.8,
+      "bodyFreshPct": 60.6
     },
     "pt": {
       "total": 836,
-      "percentage": 92.7,
-      "fresh": 822,
-      "metadataStale": 4,
-      "stale": 10,
-      "missing": 66,
+      "percentage": 90.6,
+      "fresh": 810,
+      "metadataStale": 8,
+      "stale": 18,
+      "missing": 87,
       "orphan": 0,
-      "deficit": 66,
-      "freshPct": 91.1,
-      "bodyFreshPct": 91.6
+      "deficit": 87,
+      "freshPct": 87.8,
+      "bodyFreshPct": 88.6
     },
     "hi": {
       "total": 656,
-      "percentage": 72.7,
-      "fresh": 651,
-      "metadataStale": 4,
-      "stale": 1,
-      "missing": 246,
+      "percentage": 71.1,
+      "fresh": 640,
+      "metadataStale": 8,
+      "stale": 8,
+      "missing": 267,
       "orphan": 0,
-      "deficit": 246,
-      "freshPct": 72.2,
-      "bodyFreshPct": 72.6
+      "deficit": 267,
+      "freshPct": 69.3,
+      "bodyFreshPct": 70.2
     },
     "ar": {
       "total": 740,
-      "percentage": 82,
-      "fresh": 735,
-      "metadataStale": 4,
-      "stale": 1,
-      "missing": 162,
+      "percentage": 80.2,
+      "fresh": 723,
+      "metadataStale": 8,
+      "stale": 9,
+      "missing": 183,
       "orphan": 0,
-      "deficit": 162,
-      "freshPct": 81.5,
-      "bodyFreshPct": 81.9
+      "deficit": 183,
+      "freshPct": 78.3,
+      "bodyFreshPct": 79.2
     },
     "ru": {
       "total": 777,
-      "percentage": 86.1,
-      "fresh": 771,
-      "metadataStale": 4,
-      "stale": 2,
-      "missing": 125,
+      "percentage": 84.2,
+      "fresh": 761,
+      "metadataStale": 8,
+      "stale": 8,
+      "missing": 146,
       "orphan": 0,
-      "deficit": 125,
-      "freshPct": 85.5,
-      "bodyFreshPct": 85.9
+      "deficit": 146,
+      "freshPct": 82.4,
+      "bodyFreshPct": 83.3
     }
   },
   "matrix": {
@@ -238,561 +238,561 @@
       }
     },
     "art": {
-      "zh-TW": 44,
+      "zh-TW": 45,
       "en": {
         "count": 41,
         "fresh": 40,
         "stale": 1,
-        "missing": 2,
-        "deficit": 3
+        "missing": 3,
+        "deficit": 4
       },
       "ja": {
         "count": 42,
         "fresh": 41,
         "stale": 1,
-        "missing": 1,
-        "deficit": 2
+        "missing": 2,
+        "deficit": 3
       },
       "ko": {
         "count": 42,
         "fresh": 42,
         "stale": 0,
-        "missing": 2,
-        "deficit": 2
+        "missing": 3,
+        "deficit": 3
       },
       "es": {
         "count": 41,
         "fresh": 40,
         "stale": 1,
-        "missing": 3,
-        "deficit": 3
+        "missing": 4,
+        "deficit": 4
       },
       "fr": {
         "count": 41,
         "fresh": 40,
         "stale": 1,
-        "missing": 2,
-        "deficit": 3
+        "missing": 3,
+        "deficit": 4
       },
       "vi": {
         "count": 40,
         "fresh": 37,
         "stale": 3,
-        "missing": 3,
-        "deficit": 4
+        "missing": 4,
+        "deficit": 5
       },
       "id": {
         "count": 26,
         "fresh": 25,
         "stale": 1,
-        "missing": 18,
-        "deficit": 18
+        "missing": 19,
+        "deficit": 19
       },
       "pt": {
         "count": 43,
         "fresh": 40,
         "stale": 3,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "hi": {
         "count": 25,
         "fresh": 25,
         "stale": 0,
-        "missing": 19,
-        "deficit": 19
+        "missing": 20,
+        "deficit": 20
       },
       "ar": {
         "count": 36,
         "fresh": 36,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 9,
+        "deficit": 9
       },
       "ru": {
         "count": 39,
         "fresh": 39,
         "stale": 0,
-        "missing": 5,
-        "deficit": 5
-      }
-    },
-    "culture": {
-      "zh-TW": 75,
-      "en": {
-        "count": 71,
-        "fresh": 69,
-        "stale": 2,
-        "missing": 4,
-        "deficit": 4
-      },
-      "ja": {
-        "count": 72,
-        "fresh": 69,
-        "stale": 3,
-        "missing": 3,
-        "deficit": 3
-      },
-      "ko": {
-        "count": 73,
-        "fresh": 70,
-        "stale": 3,
-        "missing": 2,
-        "deficit": 2
-      },
-      "es": {
-        "count": 73,
-        "fresh": 70,
-        "stale": 3,
-        "missing": 2,
-        "deficit": 2
-      },
-      "fr": {
-        "count": 72,
-        "fresh": 70,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 3
-      },
-      "vi": {
-        "count": 63,
-        "fresh": 62,
-        "stale": 1,
-        "missing": 2,
-        "deficit": 12
-      },
-      "id": {
-        "count": 51,
-        "fresh": 51,
-        "stale": 0,
-        "missing": 24,
-        "deficit": 24
-      },
-      "pt": {
-        "count": 67,
-        "fresh": 66,
-        "stale": 1,
-        "missing": 8,
-        "deficit": 8
-      },
-      "hi": {
-        "count": 59,
-        "fresh": 59,
-        "stale": 0,
-        "missing": 16,
-        "deficit": 16
-      },
-      "ar": {
-        "count": 60,
-        "fresh": 60,
-        "stale": 0,
-        "missing": 15,
-        "deficit": 15
-      },
-      "ru": {
-        "count": 68,
-        "fresh": 68,
-        "stale": 0,
-        "missing": 7,
-        "deficit": 7
-      }
-    },
-    "economy": {
-      "zh-TW": 65,
-      "en": {
-        "count": 62,
-        "fresh": 59,
-        "stale": 3,
-        "missing": 2,
-        "deficit": 3
-      },
-      "ja": {
-        "count": 61,
-        "fresh": 60,
-        "stale": 1,
-        "missing": 4,
-        "deficit": 4
-      },
-      "ko": {
-        "count": 63,
-        "fresh": 61,
-        "stale": 2,
-        "missing": 1,
-        "deficit": 2
-      },
-      "es": {
-        "count": 63,
-        "fresh": 61,
-        "stale": 2,
-        "missing": 1,
-        "deficit": 2
-      },
-      "fr": {
-        "count": 63,
-        "fresh": 62,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 2
-      },
-      "vi": {
-        "count": 54,
-        "fresh": 52,
-        "stale": 2,
-        "missing": 6,
-        "deficit": 11
-      },
-      "id": {
-        "count": 34,
-        "fresh": 33,
-        "stale": 1,
-        "missing": 31,
-        "deficit": 31
-      },
-      "pt": {
-        "count": 60,
-        "fresh": 60,
-        "stale": 0,
-        "missing": 5,
-        "deficit": 5
-      },
-      "hi": {
-        "count": 54,
-        "fresh": 54,
-        "stale": 0,
-        "missing": 11,
-        "deficit": 11
-      },
-      "ar": {
-        "count": 56,
-        "fresh": 56,
-        "stale": 0,
-        "missing": 9,
-        "deficit": 9
-      },
-      "ru": {
-        "count": 59,
-        "fresh": 59,
-        "stale": 0,
         "missing": 6,
         "deficit": 6
       }
     },
+    "culture": {
+      "zh-TW": 80,
+      "en": {
+        "count": 71,
+        "fresh": 67,
+        "stale": 4,
+        "missing": 9,
+        "deficit": 9
+      },
+      "ja": {
+        "count": 72,
+        "fresh": 67,
+        "stale": 5,
+        "missing": 8,
+        "deficit": 8
+      },
+      "ko": {
+        "count": 73,
+        "fresh": 68,
+        "stale": 5,
+        "missing": 7,
+        "deficit": 7
+      },
+      "es": {
+        "count": 73,
+        "fresh": 68,
+        "stale": 5,
+        "missing": 7,
+        "deficit": 7
+      },
+      "fr": {
+        "count": 72,
+        "fresh": 68,
+        "stale": 4,
+        "missing": 7,
+        "deficit": 8
+      },
+      "vi": {
+        "count": 63,
+        "fresh": 60,
+        "stale": 3,
+        "missing": 7,
+        "deficit": 17
+      },
+      "id": {
+        "count": 51,
+        "fresh": 49,
+        "stale": 2,
+        "missing": 29,
+        "deficit": 29
+      },
+      "pt": {
+        "count": 67,
+        "fresh": 64,
+        "stale": 3,
+        "missing": 13,
+        "deficit": 13
+      },
+      "hi": {
+        "count": 59,
+        "fresh": 57,
+        "stale": 2,
+        "missing": 21,
+        "deficit": 21
+      },
+      "ar": {
+        "count": 60,
+        "fresh": 58,
+        "stale": 2,
+        "missing": 20,
+        "deficit": 20
+      },
+      "ru": {
+        "count": 68,
+        "fresh": 66,
+        "stale": 2,
+        "missing": 12,
+        "deficit": 12
+      }
+    },
+    "economy": {
+      "zh-TW": 66,
+      "en": {
+        "count": 60,
+        "fresh": 57,
+        "stale": 3,
+        "missing": 3,
+        "deficit": 6
+      },
+      "ja": {
+        "count": 59,
+        "fresh": 58,
+        "stale": 1,
+        "missing": 5,
+        "deficit": 7
+      },
+      "ko": {
+        "count": 61,
+        "fresh": 59,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 5
+      },
+      "es": {
+        "count": 61,
+        "fresh": 59,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 5
+      },
+      "fr": {
+        "count": 61,
+        "fresh": 60,
+        "stale": 1,
+        "missing": 2,
+        "deficit": 5
+      },
+      "vi": {
+        "count": 54,
+        "fresh": 51,
+        "stale": 3,
+        "missing": 7,
+        "deficit": 12
+      },
+      "id": {
+        "count": 33,
+        "fresh": 32,
+        "stale": 1,
+        "missing": 32,
+        "deficit": 33
+      },
+      "pt": {
+        "count": 58,
+        "fresh": 58,
+        "stale": 0,
+        "missing": 6,
+        "deficit": 8
+      },
+      "hi": {
+        "count": 52,
+        "fresh": 52,
+        "stale": 0,
+        "missing": 12,
+        "deficit": 14
+      },
+      "ar": {
+        "count": 54,
+        "fresh": 54,
+        "stale": 0,
+        "missing": 10,
+        "deficit": 12
+      },
+      "ru": {
+        "count": 57,
+        "fresh": 57,
+        "stale": 0,
+        "missing": 7,
+        "deficit": 9
+      }
+    },
     "food": {
-      "zh-TW": 70,
+      "zh-TW": 73,
       "en": {
         "count": 63,
         "fresh": 61,
         "stale": 2,
-        "missing": 4,
-        "deficit": 7
+        "missing": 7,
+        "deficit": 10
       },
       "ja": {
         "count": 60,
         "fresh": 58,
         "stale": 2,
-        "missing": 7,
-        "deficit": 10
+        "missing": 10,
+        "deficit": 13
       },
       "ko": {
         "count": 63,
         "fresh": 61,
         "stale": 2,
-        "missing": 2,
-        "deficit": 7
+        "missing": 5,
+        "deficit": 10
       },
       "es": {
         "count": 63,
         "fresh": 62,
         "stale": 1,
-        "missing": 3,
-        "deficit": 7
+        "missing": 6,
+        "deficit": 10
       },
       "fr": {
         "count": 63,
         "fresh": 61,
         "stale": 2,
-        "missing": 3,
-        "deficit": 7
+        "missing": 6,
+        "deficit": 10
       },
       "vi": {
         "count": 56,
         "fresh": 54,
         "stale": 2,
-        "missing": 5,
-        "deficit": 14
+        "missing": 8,
+        "deficit": 17
       },
       "id": {
         "count": 44,
         "fresh": 43,
         "stale": 1,
-        "missing": 22,
-        "deficit": 26
+        "missing": 25,
+        "deficit": 29
       },
       "pt": {
         "count": 51,
         "fresh": 50,
         "stale": 1,
-        "missing": 16,
-        "deficit": 19
+        "missing": 19,
+        "deficit": 22
       },
       "hi": {
         "count": 43,
         "fresh": 43,
         "stale": 0,
-        "missing": 25,
-        "deficit": 27
+        "missing": 28,
+        "deficit": 30
       },
       "ar": {
         "count": 43,
         "fresh": 43,
         "stale": 0,
-        "missing": 24,
-        "deficit": 27
+        "missing": 27,
+        "deficit": 30
       },
       "ru": {
         "count": 46,
         "fresh": 46,
         "stale": 0,
-        "missing": 21,
-        "deficit": 24
+        "missing": 24,
+        "deficit": 27
       }
     },
     "geography": {
       "zh-TW": 67,
       "en": {
         "count": 66,
-        "fresh": 64,
-        "stale": 2,
+        "fresh": 63,
+        "stale": 3,
         "missing": 1,
         "deficit": 1
       },
       "ja": {
         "count": 66,
-        "fresh": 63,
-        "stale": 3,
+        "fresh": 62,
+        "stale": 4,
         "missing": 0,
         "deficit": 1
       },
       "ko": {
         "count": 66,
-        "fresh": 65,
-        "stale": 1,
+        "fresh": 64,
+        "stale": 2,
         "missing": 0,
         "deficit": 1
       },
       "es": {
         "count": 66,
-        "fresh": 63,
-        "stale": 3,
+        "fresh": 62,
+        "stale": 4,
         "missing": 0,
         "deficit": 1
       },
       "fr": {
         "count": 64,
-        "fresh": 62,
-        "stale": 2,
+        "fresh": 61,
+        "stale": 3,
         "missing": 1,
         "deficit": 3
       },
       "vi": {
-        "count": 63,
+        "count": 64,
         "fresh": 61,
-        "stale": 2,
+        "stale": 3,
         "missing": 1,
-        "deficit": 4
+        "deficit": 3
       },
       "id": {
         "count": 32,
-        "fresh": 32,
-        "stale": 0,
+        "fresh": 31,
+        "stale": 1,
         "missing": 35,
         "deficit": 35
       },
       "pt": {
         "count": 63,
-        "fresh": 62,
-        "stale": 1,
+        "fresh": 61,
+        "stale": 2,
         "missing": 4,
         "deficit": 4
       },
       "hi": {
         "count": 37,
-        "fresh": 37,
-        "stale": 0,
+        "fresh": 36,
+        "stale": 1,
         "missing": 30,
         "deficit": 30
       },
       "ar": {
         "count": 48,
-        "fresh": 48,
-        "stale": 0,
+        "fresh": 47,
+        "stale": 1,
         "missing": 19,
         "deficit": 19
       },
       "ru": {
         "count": 59,
-        "fresh": 58,
-        "stale": 1,
+        "fresh": 57,
+        "stale": 2,
         "missing": 8,
         "deficit": 8
       }
     },
     "history": {
-      "zh-TW": 53,
+      "zh-TW": 57,
       "en": {
         "count": 50,
         "fresh": 46,
         "stale": 4,
-        "missing": 1,
-        "deficit": 3
+        "missing": 5,
+        "deficit": 7
       },
       "ja": {
         "count": 50,
         "fresh": 49,
         "stale": 1,
-        "missing": 3,
-        "deficit": 3
+        "missing": 7,
+        "deficit": 7
       },
       "ko": {
         "count": 50,
         "fresh": 49,
         "stale": 1,
-        "missing": 1,
-        "deficit": 3
+        "missing": 5,
+        "deficit": 7
       },
       "es": {
         "count": 49,
         "fresh": 49,
         "stale": 0,
-        "missing": 1,
-        "deficit": 4
+        "missing": 5,
+        "deficit": 8
       },
       "fr": {
         "count": 48,
         "fresh": 46,
         "stale": 2,
-        "missing": 2,
-        "deficit": 5
+        "missing": 6,
+        "deficit": 9
       },
       "vi": {
         "count": 43,
         "fresh": 43,
         "stale": 0,
-        "missing": 3,
-        "deficit": 10
+        "missing": 7,
+        "deficit": 14
       },
       "id": {
         "count": 38,
         "fresh": 37,
         "stale": 1,
-        "missing": 15,
-        "deficit": 15
+        "missing": 19,
+        "deficit": 19
       },
       "pt": {
         "count": 51,
         "fresh": 50,
         "stale": 1,
-        "missing": 2,
-        "deficit": 2
+        "missing": 6,
+        "deficit": 6
       },
       "hi": {
         "count": 43,
         "fresh": 43,
         "stale": 0,
-        "missing": 9,
-        "deficit": 10
+        "missing": 13,
+        "deficit": 14
       },
       "ar": {
         "count": 48,
         "fresh": 48,
         "stale": 0,
-        "missing": 5,
-        "deficit": 5
+        "missing": 9,
+        "deficit": 9
       },
       "ru": {
         "count": 45,
         "fresh": 45,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 12,
+        "deficit": 12
       }
     },
     "lifestyle": {
       "zh-TW": 33,
       "en": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 27,
+        "stale": 3,
         "missing": 2,
         "deficit": 3
       },
       "ja": {
         "count": 31,
-        "fresh": 30,
-        "stale": 1,
+        "fresh": 28,
+        "stale": 3,
         "missing": 1,
         "deficit": 2
       },
       "ko": {
         "count": 32,
-        "fresh": 31,
-        "stale": 1,
+        "fresh": 29,
+        "stale": 3,
         "missing": 1,
         "deficit": 1
       },
       "es": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 27,
+        "stale": 3,
         "missing": 2,
         "deficit": 3
       },
       "fr": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 27,
+        "stale": 3,
         "missing": 2,
         "deficit": 3
       },
       "vi": {
-        "count": 26,
+        "count": 28,
         "fresh": 25,
-        "stale": 1,
+        "stale": 3,
         "missing": 2,
-        "deficit": 7
+        "deficit": 5
       },
       "id": {
         "count": 22,
-        "fresh": 22,
-        "stale": 0,
+        "fresh": 20,
+        "stale": 2,
         "missing": 11,
         "deficit": 11
       },
       "pt": {
         "count": 30,
-        "fresh": 30,
-        "stale": 0,
+        "fresh": 28,
+        "stale": 2,
         "missing": 3,
         "deficit": 3
       },
       "hi": {
         "count": 24,
-        "fresh": 24,
-        "stale": 0,
+        "fresh": 22,
+        "stale": 2,
         "missing": 9,
         "deficit": 9
       },
       "ar": {
         "count": 28,
-        "fresh": 28,
-        "stale": 0,
+        "fresh": 26,
+        "stale": 2,
         "missing": 5,
         "deficit": 5
       },
       "ru": {
         "count": 27,
-        "fresh": 27,
-        "stale": 0,
+        "fresh": 25,
+        "stale": 2,
         "missing": 6,
         "deficit": 6
       }
@@ -878,163 +878,163 @@
       }
     },
     "nature": {
-      "zh-TW": 38,
+      "zh-TW": 39,
       "en": {
-        "count": 38,
-        "fresh": 37,
+        "count": 37,
+        "fresh": 36,
         "stale": 1,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 2
       },
       "ja": {
-        "count": 38,
-        "fresh": 38,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
-      },
-      "ko": {
-        "count": 38,
-        "fresh": 38,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
-      },
-      "es": {
-        "count": 38,
-        "fresh": 38,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
-      },
-      "fr": {
         "count": 37,
         "fresh": 37,
         "stale": 0,
-        "missing": 0,
-        "deficit": 1
+        "missing": 1,
+        "deficit": 2
+      },
+      "ko": {
+        "count": 37,
+        "fresh": 37,
+        "stale": 0,
+        "missing": 1,
+        "deficit": 2
+      },
+      "es": {
+        "count": 37,
+        "fresh": 37,
+        "stale": 0,
+        "missing": 1,
+        "deficit": 2
+      },
+      "fr": {
+        "count": 36,
+        "fresh": 36,
+        "stale": 0,
+        "missing": 1,
+        "deficit": 3
       },
       "vi": {
-        "count": 29,
-        "fresh": 28,
+        "count": 28,
+        "fresh": 27,
         "stale": 1,
-        "missing": 4,
-        "deficit": 9
+        "missing": 5,
+        "deficit": 11
       },
       "id": {
+        "count": 31,
+        "fresh": 31,
+        "stale": 0,
+        "missing": 7,
+        "deficit": 8
+      },
+      "pt": {
+        "count": 37,
+        "fresh": 37,
+        "stale": 0,
+        "missing": 1,
+        "deficit": 2
+      },
+      "hi": {
         "count": 32,
         "fresh": 32,
         "stale": 0,
         "missing": 6,
-        "deficit": 6
-      },
-      "pt": {
-        "count": 38,
-        "fresh": 38,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
-      },
-      "hi": {
-        "count": 33,
-        "fresh": 33,
-        "stale": 0,
-        "missing": 5,
-        "deficit": 5
+        "deficit": 7
       },
       "ar": {
-        "count": 38,
-        "fresh": 38,
+        "count": 37,
+        "fresh": 37,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 2
       },
       "ru": {
-        "count": 38,
-        "fresh": 38,
+        "count": 37,
+        "fresh": 37,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 2
       }
     },
     "people": {
-      "zh-TW": 241,
+      "zh-TW": 245,
       "en": {
-        "count": 237,
-        "fresh": 233,
-        "stale": 4,
-        "missing": 3,
-        "deficit": 4
-      },
-      "ja": {
-        "count": 237,
-        "fresh": 235,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 4
-      },
-      "ko": {
-        "count": 236,
-        "fresh": 233,
-        "stale": 3,
-        "missing": 2,
-        "deficit": 5
-      },
-      "es": {
-        "count": 236,
-        "fresh": 232,
-        "stale": 4,
-        "missing": 2,
-        "deficit": 5
-      },
-      "fr": {
         "count": 236,
         "fresh": 231,
         "stale": 5,
-        "missing": 2,
-        "deficit": 5
+        "missing": 7,
+        "deficit": 9
+      },
+      "ja": {
+        "count": 236,
+        "fresh": 233,
+        "stale": 3,
+        "missing": 6,
+        "deficit": 9
+      },
+      "ko": {
+        "count": 235,
+        "fresh": 231,
+        "stale": 4,
+        "missing": 6,
+        "deficit": 10
+      },
+      "es": {
+        "count": 235,
+        "fresh": 230,
+        "stale": 5,
+        "missing": 6,
+        "deficit": 10
+      },
+      "fr": {
+        "count": 235,
+        "fresh": 229,
+        "stale": 6,
+        "missing": 6,
+        "deficit": 10
       },
       "vi": {
-        "count": 178,
-        "fresh": 169,
-        "stale": 9,
-        "missing": 43,
-        "deficit": 63
+        "count": 177,
+        "fresh": 167,
+        "stale": 10,
+        "missing": 47,
+        "deficit": 68
       },
       "id": {
-        "count": 166,
-        "fresh": 165,
-        "stale": 1,
-        "missing": 75,
-        "deficit": 75
+        "count": 165,
+        "fresh": 163,
+        "stale": 2,
+        "missing": 79,
+        "deficit": 80
       },
       "pt": {
-        "count": 230,
-        "fresh": 229,
-        "stale": 1,
-        "missing": 10,
-        "deficit": 11
+        "count": 229,
+        "fresh": 227,
+        "stale": 2,
+        "missing": 14,
+        "deficit": 16
       },
       "hi": {
-        "count": 192,
-        "fresh": 191,
-        "stale": 1,
-        "missing": 48,
-        "deficit": 49
+        "count": 191,
+        "fresh": 189,
+        "stale": 2,
+        "missing": 52,
+        "deficit": 54
       },
       "ar": {
-        "count": 205,
-        "fresh": 205,
-        "stale": 0,
-        "missing": 35,
-        "deficit": 36
+        "count": 204,
+        "fresh": 203,
+        "stale": 1,
+        "missing": 39,
+        "deficit": 41
       },
       "ru": {
-        "count": 213,
-        "fresh": 212,
-        "stale": 1,
-        "missing": 27,
-        "deficit": 28
+        "count": 212,
+        "fresh": 210,
+        "stale": 2,
+        "missing": 31,
+        "deficit": 33
       }
     },
     "politics": {
@@ -1118,172 +1118,176 @@
       }
     },
     "society": {
-      "zh-TW": 97,
+      "zh-TW": 98,
       "en": {
         "count": 90,
         "fresh": 87,
         "stale": 3,
-        "missing": 4,
-        "deficit": 7
+        "missing": 5,
+        "deficit": 8
       },
       "ja": {
         "count": 89,
         "fresh": 88,
         "stale": 1,
-        "missing": 7,
-        "deficit": 8
+        "missing": 8,
+        "deficit": 9
       },
       "ko": {
         "count": 92,
         "fresh": 91,
         "stale": 1,
-        "missing": 5,
-        "deficit": 5
+        "missing": 6,
+        "deficit": 6
       },
       "es": {
         "count": 92,
         "fresh": 90,
         "stale": 2,
-        "missing": 4,
-        "deficit": 5
+        "missing": 5,
+        "deficit": 6
       },
       "fr": {
         "count": 92,
         "fresh": 89,
         "stale": 3,
-        "missing": 4,
-        "deficit": 5
+        "missing": 5,
+        "deficit": 6
       },
       "vi": {
         "count": 80,
         "fresh": 77,
         "stale": 3,
-        "missing": 13,
-        "deficit": 17
+        "missing": 14,
+        "deficit": 18
       },
       "id": {
         "count": 56,
         "fresh": 56,
         "stale": 0,
-        "missing": 41,
-        "deficit": 41
+        "missing": 42,
+        "deficit": 42
       },
       "pt": {
         "count": 89,
         "fresh": 88,
         "stale": 1,
-        "missing": 8,
-        "deficit": 8
+        "missing": 9,
+        "deficit": 9
       },
       "hi": {
         "count": 63,
         "fresh": 63,
         "stale": 0,
-        "missing": 34,
-        "deficit": 34
+        "missing": 35,
+        "deficit": 35
       },
       "ar": {
         "count": 75,
         "fresh": 74,
         "stale": 1,
-        "missing": 22,
-        "deficit": 22
+        "missing": 23,
+        "deficit": 23
       },
       "ru": {
         "count": 80,
         "fresh": 80,
         "stale": 0,
-        "missing": 17,
-        "deficit": 17
+        "missing": 18,
+        "deficit": 18
       }
     },
     "technology": {
-      "zh-TW": 61,
+      "zh-TW": 62,
       "en": {
         "count": 60,
-        "fresh": 59,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
-      },
-      "ja": {
-        "count": 59,
-        "fresh": 58,
-        "stale": 1,
+        "fresh": 57,
+        "stale": 3,
         "missing": 2,
         "deficit": 2
       },
+      "ja": {
+        "count": 59,
+        "fresh": 56,
+        "stale": 3,
+        "missing": 3,
+        "deficit": 3
+      },
       "ko": {
         "count": 60,
-        "fresh": 59,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "fresh": 57,
+        "stale": 3,
+        "missing": 2,
+        "deficit": 2
       },
       "es": {
         "count": 59,
-        "fresh": 58,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 2
+        "fresh": 56,
+        "stale": 3,
+        "missing": 2,
+        "deficit": 3
       },
       "fr": {
         "count": 59,
-        "fresh": 58,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 2
+        "fresh": 56,
+        "stale": 3,
+        "missing": 2,
+        "deficit": 3
       },
       "vi": {
         "count": 47,
-        "fresh": 45,
-        "stale": 2,
-        "missing": 11,
-        "deficit": 14
+        "fresh": 43,
+        "stale": 4,
+        "missing": 12,
+        "deficit": 15
       },
       "id": {
         "count": 35,
-        "fresh": 34,
-        "stale": 1,
-        "missing": 26,
-        "deficit": 26
+        "fresh": 33,
+        "stale": 2,
+        "missing": 27,
+        "deficit": 27
       },
       "pt": {
         "count": 56,
-        "fresh": 56,
-        "stale": 0,
-        "missing": 5,
-        "deficit": 5
+        "fresh": 54,
+        "stale": 2,
+        "missing": 6,
+        "deficit": 6
       },
       "hi": {
         "count": 46,
-        "fresh": 46,
-        "stale": 0,
-        "missing": 15,
-        "deficit": 15
+        "fresh": 45,
+        "stale": 1,
+        "missing": 16,
+        "deficit": 16
       },
       "ar": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
-        "missing": 9,
-        "deficit": 9
+        "fresh": 50,
+        "stale": 2,
+        "missing": 10,
+        "deficit": 10
       },
       "ru": {
         "count": 53,
         "fresh": 53,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 9,
+        "deficit": 9
       }
     }
   },
   "missing": {
     "en": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1303,13 +1307,34 @@
       "Culture/澎湖民俗文化.md",
       "Food/台灣辦桌：暴雨裡照樣開桌的武場，和一套正在收棚的人神鬼三界.md",
       "Geography/連江縣：離台灣最遠的縣，是離冷戰最近的縣.md",
-      "Lifestyle/收費站：國道上那消失的三秒鐘停頓.md"
+      "Lifestyle/收費站：國道上那消失的三秒鐘停頓.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "ja": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1335,13 +1360,34 @@
       "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md",
       "Society/外送專法：法律砌好了地板，地板以上還是演算法的.md",
       "Society/毒馬鈴薯：200 ppm 之外，還有 30 ppm、14 天、與 15 年的食安傷疤.md",
-      "Technology/台灣網路社群三十年——撈得回網址，撈不回照片的失土史.md"
+      "Technology/台灣網路社群三十年——撈得回網址，撈不回照片的失土史.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "ko": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1354,13 +1400,34 @@
       "Lifestyle/台灣行道樹：一條用樹命名的路，和一百年沒做完的決定.md",
       "People/黃崇仁：他學的是醫學，一輩子把公司當病人救.md",
       "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md",
-      "Society/外送專法：法律砌好了地板，地板以上還是演算法的.md"
+      "Society/外送專法：法律砌好了地板，地板以上還是演算法的.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "es": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1375,13 +1442,34 @@
       "People/黃崇仁：他學的是醫學，一輩子把公司當病人救.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
       "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md",
-      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
+      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "fr": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1397,13 +1485,34 @@
       "People/黃崇仁：他學的是醫學，一輩子把公司當病人救.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
-      "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md"
+      "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "vi": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1501,14 +1610,37 @@
       "Society/台灣在國際標準中的標示問題.md",
       "Society/人權與性別平等.md",
       "Society/民主制度：從1987解嚴到2024賴清德，台灣民主三十七年的座標.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
       "Geography/台灣島嶼地理特色與形成.md",
-      "Society/台灣教師的管教困境：從教鞭消失到不敢開口的二十年.md"
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/台灣教師的管教困境：從教鞭消失到不敢開口的二十年.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "id": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Economy/HTC：從Android開路先鋒到VR轉型之路.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1626,7 +1758,6 @@
       "People/周天成：台灣羽球一哥，揮出世界第二的高度.md",
       "People/田馥甄：S.H.E 千萬銷量之後，把偶像體制一件件丟掉的歌手.md",
       "People/彎彎：給一代上班族一張臉的光頭人，和讓它「變成歷史人物」的胡家瑋.md",
-      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
       "People/草東沒有派對：從陽明山草東街到兩座金曲最佳樂團的十二年.md",
       "People/幾米：被當成療癒系的那些圖，是一個血癌倖存者從玻璃缸裡帶回來的.md",
       "People/沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上.md",
@@ -1779,7 +1910,6 @@
       "Economy/兆豐金控：四家行庫合併、台商全球金融夥伴、2016 紐約罰款風暴.md",
       "Economy/台泥：台灣第一上市公司的綠色轉型傳奇.md",
       "Economy/奇美實業：許文龍的壓克力王國與博物館夢想.md",
-      "Economy/HTC：從Android開路先鋒到VR轉型之路.md",
       "Economy/台灣企業：玉山金控 — 黃永仁的專業經理人銀行.md",
       "Economy/台灣企業：瑞昱半導體.md",
       "Economy/台灣企業：長春石化.md",
@@ -1815,11 +1945,19 @@
       "Lifestyle/夜生活與KTV文化.md",
       "Society/人權與性別平等.md",
       "Art/台灣藝術教育與學院發展.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
       "Culture/台灣文化創意園區發展.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
       "Economy/仁寶電腦.md",
       "Economy/台灣企業：台塑集團.md",
       "Economy/和碩聯合科技 (Pegatron) - 電子代工的隱形冠軍.md",
       "Economy/台灣企業：國泰金控.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
       "Geography/北投溫泉街：1697 採硫到 2026 浴博，同一片山泉換了四代住民.md",
       "Geography/台灣島嶼地理特色與形成.md",
       "Geography/台灣農業地景與產業分布.md",
@@ -1828,18 +1966,31 @@
       "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md",
       "Geography/永康街：日本教授住過、外省人逃難來，現在是日韓觀光客的台北.md",
       "Geography/牯嶺街：日人留下的書街、楊德昌的少年、國府的宮殿.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
       "Nature/島嶼的山海之巔：台灣國家公園的生態與地景.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
       "Politics/直轄市山地原住民區長：2014 升格修法保留的民選自治職位.md",
       "Politics/議員制度：為什麼跟立委不一樣，SNTV 留在地方政治的 30 年.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md",
       "Technology/半導體用水與台灣水資源：晶圓廠旁邊的水庫.md",
       "Technology/台灣5G網路建設與數位轉型.md",
       "Technology/台灣電動車產業鏈發展.md"
     ],
     "pt": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -1901,13 +2052,35 @@
       "Food/台灣素食文化.md",
       "Food/台灣麵包與烘焙.md",
       "Music/台灣台語歌曲演進：從阿伯歌到文青新寵的身份翻轉.md",
-      "Music/台灣民歌運動.md"
+      "Music/台灣民歌運動.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "hi": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -2029,7 +2202,6 @@
       "Politics/2026 九合一選舉：在 AI 認知作戰時代的民主基礎建設壓力測試.md",
       "Politics/村里長制度：7,748 個民選首長，台灣最基層的政治單元.md",
       "Culture/藍染：兩百年後，種回同一株馬藍.md",
-      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
       "People/草東沒有派對：從陽明山草東街到兩座金曲最佳樂團的十二年.md",
       "People/幾米：被當成療癒系的那些圖，是一個血癌倖存者從玻璃缸裡帶回來的.md",
       "People/沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上.md",
@@ -2143,19 +2315,40 @@
       "Music/當代原住民創作歌手.md",
       "Society/台灣在國際標準中的標示問題.md",
       "Society/民主制度：從1987解嚴到2024賴清德，台灣民主三十七年的座標.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
       "Geography/公館：日本帝國的研究室、戒嚴期的地下沙龍、台大學生的炸雞排，500 公尺三個世紀.md",
       "Geography/北投溫泉街：1697 採硫到 2026 浴博，同一片山泉換了四代住民.md",
       "Geography/大龍峒：保安宮的香、孔廟的鐘、圓山的青天白日，三個時代的台北信仰.md",
       "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md",
       "Geography/牯嶺街：日人留下的書街、楊德昌的少年、國府的宮殿.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
       "Politics/中選會制度：行政立法雙重節制的反直覺設計.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md",
       "Technology/台灣5G網路建設與數位轉型.md"
     ],
     "ar": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -2307,19 +2500,41 @@
       "People/鈕承澤.md",
       "People/鍾理和：美濃1915，倒在血泊裡的筆耕者.md",
       "Music/台灣民歌運動.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
       "Culture/台灣文化創意園區發展.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
       "Geography/公館：日本帝國的研究室、戒嚴期的地下沙龍、台大學生的炸雞排，500 公尺三個世紀.md",
       "Geography/四四南村：兵工廠的眷村，現在是 101 旁的文創園區.md",
       "Geography/大龍峒：保安宮的香、孔廟的鐘、圓山的青天白日，三個時代的台北信仰.md",
       "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md",
       "Geography/永康街：日本教授住過、外省人逃難來，現在是日韓觀光客的台北.md",
-      "Politics/直轄市山地原住民區長：2014 升格修法保留的民選自治職位.md"
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Politics/直轄市山地原住民區長：2014 升格修法保留的民選自治職位.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ],
     "ru": [
+      "Culture/咖波：一隻不像貓的貓，如何變成台灣人的聊天語言.md",
+      "Nature/帝雉：千元鈔背面的王者，愈容易遇見愈要退一步.md",
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
+      "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
       "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
+      "Food/台灣鐵路便當：把一段漫長旅程裝進圓盒裡.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
       "Society/沃草：從國會無雙到全民防衛，台灣公民科技的十年實踐.md",
@@ -2387,7 +2602,6 @@
       "People/Howhow：把業配攤在陽光下的人，和他一個人撐起的越來越貴的誠實.md",
       "Politics/2026 九合一選舉：在 AI 認知作戰時代的民主基礎建設壓力測試.md",
       "People/田馥甄：S.H.E 千萬銷量之後，把偶像體制一件件丟掉的歌手.md",
-      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
       "People/沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上.md",
       "People/羅大佑：唱盡台灣失根的人，自己搬了十九次家還在找路.md",
       "Society/颱風假：誰的假，誰的班.md",
@@ -2423,7 +2637,7 @@
       "People/林宥嘉：從 25 分滿分的〈Creep〉，到承認自己不需要完美的 17 年.md",
       "Society/台灣原住民族教育與語言復振的交界：小學護得住，中學接不住.md",
       "Music/台灣音樂祭文化：一座島嶼為什麼需要這麼多場戶外派對.md",
-      "Technology/Threads 在台灣：從 Twitter 代餐到「脆」文化主戰場.md",
+      "Technology/Threads 在台灣：從「我吃一點」到埃及學生證，一條動態牆怎麼長成數位夜市.md",
       "Economy/經濟奇蹟：從地瓜簽到台積電，兩千萬人拼出來的翻身故事.md",
       "Food/台灣冰品文化.md",
       "Food/台灣手搖飲文化.md",
@@ -2438,9 +2652,26 @@
       "People/林青霞.md",
       "People/鈕承澤.md",
       "Society/台灣在國際標準中的標示問題.md",
+      "Art/總統府：一座總督府辦公樓，如何變成民主的開放現場.md",
+      "Culture/原住民族姓名：從親名到「豆」「風」，名字如何寫下關係.md",
+      "Culture/噶瑪蘭族：香蕉絲與重新被叫回的名字.md",
+      "Culture/茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出.md",
+      "Culture/阿美族年齡階級：替時代命名的部落制度.md",
+      "Economy/口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔.md",
+      "Food/烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃.md",
+      "Food/燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉.md",
       "Geography/北投溫泉街：1697 採硫到 2026 浴博，同一片山泉換了四代住民.md",
       "Geography/大龍峒：保安宮的香、孔廟的鐘、圓山的青天白日，三個時代的台北信仰.md",
-      "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md"
+      "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md",
+      "History/亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案.md",
+      "History/台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本.md",
+      "History/嘉南大圳：水不夠種滿所有田，才有了三年輪作.md",
+      "History/蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子.md",
+      "People/吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼.md",
+      "People/呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史.md",
+      "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
+      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
+      "Society/學測：一場只考三天，卻把高中三年折成一張分數表的考試.md"
     ]
   },
   "statusSource": "translation-status.json",

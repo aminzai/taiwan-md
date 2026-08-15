@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9687,
+  "totalArticles": 9708,
   "totalCategories": 26,
-  "estimatedContributors": 71,
-  "totalTags": 6148,
+  "estimatedContributors": 73,
+  "totalTags": 6228,
   "categories": [
     {
       "name": "es",
@@ -38,11 +38,11 @@
     },
     {
       "name": "Technology",
-      "count": 61
+      "count": 62
     },
     {
       "name": "History",
-      "count": 53
+      "count": 57
     },
     {
       "name": "id",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Society",
-      "count": 97
+      "count": 98
     },
     {
       "name": "pt",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Food",
-      "count": 70
+      "count": 73
     },
     {
       "name": "About",
@@ -74,27 +74,27 @@
     },
     {
       "name": "Culture",
-      "count": 75
+      "count": 80
     },
     {
       "name": "People",
-      "count": 241
+      "count": 245
     },
     {
       "name": "Music",
       "count": 37
     },
     {
+      "name": "Economy",
+      "count": 66
+    },
+    {
       "name": "Geography",
       "count": 67
     },
     {
-      "name": "Economy",
-      "count": 65
-    },
-    {
       "name": "Nature",
-      "count": 38
+      "count": 39
     },
     {
       "name": "Lifestyle",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Art",
-      "count": 44
+      "count": 45
     },
     {
       "name": "resources",
@@ -116,7 +116,7 @@
     },
     {
       "name": "人物",
-      "count": 57
+      "count": 58
     },
     {
       "name": "企業",
@@ -139,6 +139,10 @@
       "count": 26
     },
     {
+      "name": "民主化",
+      "count": 25
+    },
+    {
       "name": "半導體",
       "count": 25
     },
@@ -148,10 +152,6 @@
     },
     {
       "name": "原住民",
-      "count": 24
-    },
-    {
-      "name": "民主化",
       "count": 24
     },
     {
@@ -188,19 +188,19 @@
     },
     {
       "name": "台南",
-      "count": 21
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9687,
+    "zh-TW": 9708,
     "en": 0
   },
-  "lastUpdated": "2026-08-14T22:12:28.666Z",
-  "stars": 1145,
-  "forks": 172,
-  "zhPages": 900,
+  "lastUpdated": "2026-08-15T22:12:13.515Z",
+  "stars": 1148,
+  "forks": 179,
+  "zhPages": 921,
   "languagePages": {
-    "zh-TW": 900,
+    "zh-TW": 921,
     "en": 883,
     "ja": 872,
     "ko": 885,
@@ -214,5 +214,5 @@
     "ru": 777
   },
   "enPages": 883,
-  "totalPages": 900
+  "totalPages": 921
 }

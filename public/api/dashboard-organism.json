@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T22:12:41.497Z",
+  "lastUpdated": "2026-08-15T22:12:26.527Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 22,
+        "articlesLast7Days": 28,
         "articlesLast30Days": 240,
-        "totalArticles": 900
+        "totalArticles": 921
       }
     },
     {
@@ -26,17 +26,17 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 198,
-        "totalArticles": 900,
-        "humanReviewedPercent": 22,
+        "totalArticles": 921,
+        "humanReviewedPercent": 21.5,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 23.4,
+          "review_coverage": 22.9,
           "plugin_pass_rate": 70,
           "plugin_health": 100,
-          "citation_density": 91.8,
+          "citation_density": 92.2,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 3.2
+          "external_rulers": 3.1
         }
       }
     },
@@ -46,7 +46,7 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 95,
+      "score": 80,
       "trend": "up",
       "metrics": {
         "editorialLastModified": "2026-08-08T15:15:42.000Z"
@@ -83,7 +83,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 14,
+        "recentContributors": 17,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239295,
@@ -109,11 +109,11 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 89,
+      "score": 88,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 900,
+          "zh-TW": 921,
           "en": 881,
           "ja": 870,
           "ko": 883,
@@ -126,7 +126,7 @@
           "ar": 738,
           "ru": 775
         },
-        "translationPct": 89,
+        "translationPct": 88,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -144,9 +144,9 @@
             },
             "articles": {
               "count": 881,
-              "pct": 98
+              "pct": 96
             },
-            "score": 99
+            "score": 98
           },
           "ja": {
             "ui": {
@@ -164,9 +164,9 @@
             },
             "articles": {
               "count": 870,
-              "pct": 97
+              "pct": 94
             },
-            "score": 79
+            "score": 78
           },
           "ko": {
             "ui": {
@@ -184,9 +184,9 @@
             },
             "articles": {
               "count": 883,
-              "pct": 98
+              "pct": 96
             },
-            "score": 99
+            "score": 98
           },
           "es": {
             "ui": {
@@ -204,9 +204,9 @@
             },
             "articles": {
               "count": 881,
-              "pct": 98
+              "pct": 96
             },
-            "score": 99
+            "score": 98
           },
           "fr": {
             "ui": {
@@ -224,9 +224,9 @@
             },
             "articles": {
               "count": 880,
-              "pct": 98
+              "pct": 96
             },
-            "score": 84
+            "score": 83
           },
           "vi": {
             "ui": {
@@ -244,9 +244,9 @@
             },
             "articles": {
               "count": 797,
-              "pct": 89
+              "pct": 87
             },
-            "score": 97
+            "score": 96
           },
           "id": {
             "ui": {
@@ -264,9 +264,9 @@
             },
             "articles": {
               "count": 571,
-              "pct": 63
+              "pct": 62
             },
-            "score": 87
+            "score": 86
           },
           "pt": {
             "ui": {
@@ -284,9 +284,9 @@
             },
             "articles": {
               "count": 834,
-              "pct": 93
+              "pct": 91
             },
-            "score": 99
+            "score": 98
           },
           "hi": {
             "ui": {
@@ -304,9 +304,9 @@
             },
             "articles": {
               "count": 654,
-              "pct": 73
+              "pct": 71
             },
-            "score": 91
+            "score": 90
           },
           "ar": {
             "ui": {
@@ -324,9 +324,9 @@
             },
             "articles": {
               "count": 738,
-              "pct": 82
+              "pct": 80
             },
-            "score": 73
+            "score": 72
           },
           "ru": {
             "ui": {
@@ -344,7 +344,7 @@
             },
             "articles": {
               "count": 775,
-              "pct": 86
+              "pct": 84
             },
             "score": 74
           }

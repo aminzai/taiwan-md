@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-16T02:07:05+08:00",
-  "fetched_by": "2026-08-16-020617-twmd-weekly-report-sun",
+  "fetched_at": "2026-08-16T06:11:48+08:00",
+  "fetched_by": "twmd-data-refresh-am",
   "source": "mcp scheduled-tasks list_scheduled_tasks",
   "note": "S1 根治第一塊磚（dna-audit 2026-07-05）：live scheduler 狀態 git 可見化。只含 twmd-/taiwanmd- 任務（私人 routine 已過濾），消費者 = routine-sync-check.py v3 三層比對。",
   "enabled_count": 13,
@@ -27,24 +27,24 @@
       "description": "TWMD data refresh (am) — daytime 06:00 dashboard 14-step sync (v3.0 inline + STRICT BECOME, main-direct)",
       "cronExpression": "0 6 * * *",
       "enabled": true,
-      "lastRunAt": "2026-08-14T22:09:32.549Z",
-      "nextRunAt": "2026-08-15T22:09:15.000Z"
+      "lastRunAt": "2026-08-15T22:09:35.014Z",
+      "nextRunAt": "2026-08-16T22:09:15.000Z"
     },
     {
       "taskId": "twmd-distill-weekly",
       "description": "TWMD distill (weekly) — Sunday 03:00 LESSONS-INBOX 三層 distill (MANIFESTO/REFLEXES/MEMORY) + SPORE-INBOX 容量 audit (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 3 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-08-08T19:04:15.176Z",
-      "nextRunAt": "2026-08-15T19:04:13.000Z"
+      "lastRunAt": "2026-08-15T19:04:32.849Z",
+      "nextRunAt": "2026-08-22T19:04:13.000Z"
     },
     {
       "taskId": "twmd-embeddings-nightly",
       "description": "TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild → src/data/related (reader related-articles) + public/api/rag (RAG vectors). Local mac-m4max primary + fleet fallback (v1.1 2026-07-05). Sovereignty-preserving, graceful-skip if embed host down. Canonical EMBEDDING-PIPELINE, thin shell, sonnet.",
       "cronExpression": "0 5 * * *",
       "enabled": true,
-      "lastRunAt": "2026-08-14T21:05:46.324Z",
-      "nextRunAt": "2026-08-15T21:05:29.000Z"
+      "lastRunAt": "2026-08-15T21:05:48.836Z",
+      "nextRunAt": "2026-08-16T21:05:29.000Z"
     },
     {
       "taskId": "twmd-founder-lens-weekly",
@@ -91,16 +91,16 @@
       "description": "（每天 05:30 Asia/Taipei = 21:30 UTC）。讓這台機器上的 routine prompt 與排程設定，跟 git 裡的 routine SSOT 對齊；對不上就修，修不了就報。",
       "cronExpression": "30 5 * * *",
       "enabled": true,
-      "lastRunAt": "2026-08-14T21:35:53.633Z",
-      "nextRunAt": "2026-08-15T21:35:36.000Z"
+      "lastRunAt": "2026-08-15T21:35:56.065Z",
+      "nextRunAt": "2026-08-16T21:35:36.000Z"
     },
     {
       "taskId": "twmd-self-evolve-weekly",
       "description": "TWMD self-evolve (weekly) — Sunday 04:00 LONGINGS-driven 真實 ship canonical 修改 (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 4 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-08-08T20:08:56.176Z",
-      "nextRunAt": "2026-08-15T20:08:54.000Z"
+      "lastRunAt": "2026-08-15T20:09:13.899Z",
+      "nextRunAt": "2026-08-22T20:08:54.000Z"
     },
     {
       "taskId": "twmd-spore-harvest-am",
@@ -112,7 +112,7 @@
     },
     {
       "taskId": "twmd-spore-pick-daily",
-      "description": "TWMD spore pick (daily 08:00) — propose 3 candidates → SPORE-INBOX + HG10 multi-dim gate。[實驗 2026-06-12]",
+      "description": "TWMD spore pick (daily 08:00) — propose 3 candidates → SPORE-INBOX + HG10 multi-dim gate。[🧪 2026-06-12 哲宇拍板重開實驗：5/28 因自動發文未過審+事實查核不嚴被關；現 REWRITE Stage 3.5/3.6 + lastVerified gate + SPORE-VERIFY 17 gate 已 wired。觀察條款見 ROUTINE.md v2.10]",
       "cronExpression": "0 8 * * *",
       "enabled": false,
       "lastRunAt": null,
@@ -120,7 +120,7 @@
     },
     {
       "taskId": "twmd-spore-publish-daily",
-      "description": "TWMD spore publish (daily 17:30) — SPORE-INBOX 挑 1 條過 5 hard gate（含 lastVerified≤90d 事實查核代理）→ 自動 ship 雙平台 + 復盤。[實驗 2026-06-12]",
+      "description": "TWMD spore publish (daily 17:30) — SPORE-INBOX 挑 1 條過 5 hard gate（含 lastVerified≤90d 事實查核代理）→ 自動 ship 雙平台 + 復盤。[🧪 2026-06-12 哲宇拍板重開實驗：連 3 ship cycle 需 0 dup / 0 事實 callout，任一爆即 pause 回 OBSERVER-QUEUE。觀察條款見 ROUTINE.md v2.10]",
       "cronExpression": "30 17 * * *",
       "enabled": false,
       "lastRunAt": null,
