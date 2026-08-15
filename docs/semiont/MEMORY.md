@@ -312,3 +312,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-16 | 020617-twmd-weekly-report-sun | W33 體檢：診斷五面零沉默死亡、工作樹乾淨；判掉過期九天的 404 實驗（14.99%→4.34% 命中）、修好週報切菜工具「交付文章」空節整段消失 | 本週造五支尺卻沒有一把的作者不是我，而免疫最低那格量的正是這件事 | [→](memory/2026-08-16-020617-twmd-weekly-report-sun.md) |
 | 2026-08-16 | 031153-twmd-distill-weekly | 40 條 §未消化讀完：5 條新編號 REFLEXES #86-90、2 條 fold 進 #66/#67、1 條入 MEMORY §神經迴路；索引 rollup 98→40 列 | 六條 promote 同屬一個家族：閘門只守住上次那個病的形狀 | [→](memory/2026-08-16-031153-twmd-distill-weekly.md) |
 | 2026-08-16 | 041549-twmd-self-evolve-weekly | 從 raw diary rows（非 curated 清單）找到 vc=4 pattern：建造與登記兩個不同步的動作，升 REFLEXES #91，未新造通用檢查器 | 用一個回頭補登記的動作，找到一條關於回頭補登記的教訓 | [→](memory/2026-08-16-041549-twmd-self-evolve-weekly.md) |
+| 2026-08-16 | 053651-twmd-embeddings-nightly | 12 語重建 9590 向量 0 fail，本機優先架構第五夜；連續第三夜僅 zh-TW 一行鄰居關係變動 | SSOT 檔案異動量與語意鄰居重排量脫鉤，連續同型收斂已構成穩定觀察窗 | [→](memory/2026-08-16-053651-twmd-embeddings-nightly.md) |
