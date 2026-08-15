@@ -1,12 +1,12 @@
 ---
 title: 'REFLEXES'
-description: '跨 session 程序記憶 catalog — 90 條 #N 反射（last #90，部分編號 historical 凋亡；本行是條數唯一 SSOT，counts-drift lint 對賬），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
+description: '跨 session 程序記憶 catalog — 91 條 #N 反射（last #91，部分編號 historical 凋亡；本行是條數唯一 SSOT，counts-drift lint 對賬），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.22'
+current_version: 'v5.23'
 last_updated: 2026-08-16
-last_session: '2026-08-16-twmd-distill-weekly（加 #86-#90 五條新反射：session-id handle 無參數 fallback 靜默漂移 vc=3 / UI 字串層無語言閘門 vc=3 / 轉錄+保管雙職責 routine 零輸入掉保管半 vc=3 / cron 執行環境工具清單漂移 vc=3 structural / 逐條回報打散單一根因 structural；#66 加 gate 判準不準時的 agent 誘因子規則、#67 加工作樹本身是過期快照的環境層子規則；MEMORY §神經迴路 append harvest 巢狀回覆掃描缺口）'
+last_session: '2026-08-16-twmd-self-evolve-weekly（加 #91：建造與登記是兩個不同步的代謝，落差不會自己被發現 vc=4——DIARY §反覆出現的思考四次獨立浮現，跟 #86/#88/#89 同屬登記層家族，收斂為通用陳述）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -167,6 +167,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #88 | 轉錄 + 保管雙職責 routine，轉錄那半停手時保管那半會跟著消失                                                             | §七 |
 | #89 | cron 執行環境掛載的工具清單不是穩定綁定，routine 隔幾次執行就摸不到手                                                   | §七 |
 | #90 | 逐條回報把單一根因打散成看起來彼此無關的幾百個錯誤                                                                      | §七 |
+| #91 | 建造與登記是兩個不同步的代謝，落差不會自己被發現                                                                        | §七 |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -1043,8 +1044,16 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 **#90 逐條回報把單一根因打散成看起來彼此無關的幾百個錯誤**（2026-08-16 twmd-distill-weekly 升 canonical severity=structural 首次即達質門檻 — 2026-08-15 twmd-maintainer-am）— 閘門逐條回報是為了可定位（哪一行壞了），但當一個上游缺陷在檔案裡出現幾百次時，逐條回報會**把單一根因打散成幾百個看起來彼此無關的錯誤**。閘門每一句話都是真的，總和卻掩蓋了「這其實是同一件事」。沒有人會讀到第三百條，於是它被讀成「這批投稿品質很差」，而不是「有個工具在每個連結後面多打了一個空格」。**訊號不是不足，是過量到失去形狀。**觸發：24 個投稿 PR 全部卡在 `frontmatter-gate`，最大宗診斷是「腳註格式不合規範」——16 個檔案各報 9 到 28 條，合計 353 條，實際成因是產生工具在每個 markdown 連結網址尾巴留一個空格，CommonMark 容許它、連結照樣開得了，但腳註格式規範 `[^N]: [Title](URL) — desc` 多一個空格就不匹配。修掉那一個空格，16 個檔案的 footnote-format hard 全部歸零，正文一個字沒動。已 ship 的修法：`link-url-mangle` 新增 HARD + 自動修，偵測連結網址內的多餘空白，**逐行回報一次並帶上該行處數**（不逐條洗版），`--fix` 一併清掉；角括號 `](<url with space>)` 是 CommonMark 給空白的正當出口，明確跳過。**跟 #38「混維度 = silent killer」同族但方向相反**：#38 是一個訊號承載兩種根因，本條是**一個根因被拆成幾百個訊號**。**相關**：#52（immune system 沒在 fail loud 比缺 immune system 更危險——本條是 fail loud 過頭到失去可讀性的反面）、#38（混維度，同族反向）。**操作**：造任何閘門時多問一句：「當同一診斷在單檔命中 > N 次時，是否應該先聚合成一條根因訊息再列樣本」——這條可以放進 article-health 的 plugin 撰寫規範。
 
+**#91 建造與登記是兩個不同步的代謝，落差不會自己被發現**（2026-08-16 twmd-self-evolve-weekly 升 canonical vc=4）— 造出一個新東西（工具、pipeline、寫法、分類、臨場發明的角色）跟把它寫進對應的 canonical 登記表，是兩個獨立動作；後者沒做完，前者對系統其餘部分等於不存在——不是「還沒造出來」的舊債形狀，是「造好了但只有造它的那個 session 知道」的新債形狀。
+
+- **觸發**：2026-07-26 twmd-self-evolve-weekly 全表對賬揪出 `twmd-routine-sync`／`twmd-supporters-weekly` 兩條 routine 誕生時漏登記進 ROUTINE.md 排程表（違反本檔第 50 行「新 routine 誕生必須同 commit 補表」，僥倖靠 fallback 沒現形）→ 2026-08-02 twmd-self-evolve-weekly 再指出「vc=1 只證明登記處只出現一次，不證明這件事只發生一次」——連「反覆次數」這個計數本身都是一種登記，登記不全會讓次數被低估 → 2026-08-06 goal-自我進化 diary 把三個獨立 instance 並排看出同一個債務形狀轉變：引擎造好但需求佇列不知道／新寫法長出來但型別表裝不下／臨場發明的席位沒被 canonical 收編，「建造的速度超過了命名的速度，於是知識開始在自己體內失散」→ 2026-08-16 twmd-weekly-report-sun 撞見第四例：切菜工具的「本週交付文章」章節逢空白就整節消失，因為它沒有登記「有交付但沒進本週分類」跟「真的沒交付」的差別，當場修法是永遠印該節、空的時候印警告附最後一筆日期
+- **操作**：新能力（工具／pipeline／型別／分類／臨場角色）誕生的當下，順手問一句「這個東西的登記表在哪裡，我寫進去了嗎？」。**已有機械對賬的子案例維持機械**：routine 誕生 → `routine-sync-check.py` 三層對賬（daily cron 已連續 22+ 輪零漂移）；GA4 event param → `instrumentation-audit.py` 三方對齊（CI gate）。**沒有機械對賬的子案例維持人工提問，不強行造一個通用登記檢查器**——vc=4 尚不足以支撐一個新的跨域儀器，硬造會重演 2026-05-28「儀器化也會 over-engineer」的教訓（見 MEMORY §神經迴路同日條目）
+- **驗證**：4 次（routine 登記表漏填 / self-evolve 計數簿本身的登記盲點 / 引擎+型別+席位三個並列 instance / weekly-report 交付分類登記缺口）
+- **元規則**：跟 #86（session-id handle fallback 讓命名跟內容脫鉤）、#88（轉錄+保管雙職責 routine 保管那半靜默消失）、#89（cron 工具清單登記漂移）是同一個「登記層」家族的四個不同載體——命名登記／保管登記／工具登記／一般性建造登記。本條是收斂這個家族的通用陳述，不重複前三條各自的操作細節。
+
 ---
 
+_v5.23 | 2026-08-16 twmd-self-evolve-weekly — 加 #91 建造與登記是兩個不同步的代謝，落差不會自己被發現（vc=4：7/26 routine 登記表漏填 + 8/02 self-evolve 計數簿本身的登記盲點 + 8/06 引擎/型別/席位三個並列 instance + 8/16 weekly-report 交付分類登記缺口）。DIARY §反覆出現的思考清單本身未收錄此 pattern（本次從 raw diary rows 直接找到，非從既有 curated list），跟 #86/#88/#89 同屬「登記層」家族但收斂通用陳述層級；未新造機械檢查器（vc=4 不足以支撐新儀器，子案例已有的機械對賬——routine-sync-check.py / instrumentation-audit.py——維持現狀，沒有子案例的維持人工提問，防 2026-05-28「儀器化也會 over-engineer」重演）。_
 _v5.22 | 2026-08-16 twmd-distill-weekly — 加 #86-#90 五條新反射：#86 session-id handle 無參數 fallback 靜默漂移（vc=3 跨兩條 routine）+ #87 UI 字串層無語言正確性閘門而文章層有、保護密度跟曝光量成反比（vc=3 三獨立語言）+ #88 轉錄+保管雙職責 routine 零輸入或部分排除時保管半靜默消失（vc=3，已 ship `--exclude` 接住）+ #89 cron 執行環境掛載工具清單不穩定綁定（vc=3 structural，三連撞 supporters-weekly Gmail MCP）+ #90 逐條回報把單一根因打散成幾百個看似無關的錯誤（severity=structural 首發即達質門檻，16 檔 353 條腳註格式錯全是同一處網址尾空格）；#66 加子規則「閘門判準不準時 agent 會改內容換綠燈」（vc=2 同日兩獨立 instance）+ #67 加子規則「工作樹本身是過期快照的環境層變體」（跨日兩例，第二例因讀不到過期 LESSONS-INBOX 而漏踩另一條剛寫的教訓）；MEMORY §神經迴路 append harvest 巢狀回覆掃描缺口（Taiwan.md-specific，未升反射）；LESSONS-INBOX §未消化 40→32（8 條 distill：5 新編號 + 2 fold 既有反射 + 1 MEMORY）_
 _v5.19 | 2026-08-09 twmd-distill-weekly — 加 #85「不知道」需要自己的符號，不能借用「沒事」的那個（vc=7 跨 3 獨立 entry 同日收斂：8/07 `check-disabled-by-default-reports-green`(vc=3) + 8/08 `error-and-emptiness-share-one-return`(vc=2) + 8/08 `gate-guard-contradicts-its-own-filter`(vc=2)，severity=structural）；零新編號 fold 四處：#24 加形式 12（委派層 commit 格式漂移讓儀器對自己一部分工作隱形，severity=structural，vc=1 首發即質門檻觸發）+ #56 加 v7（閘門編號跨三層 drift，「已同步」聲明本身兩輪都只驗過部分層，vc=3）+ #63 加「canonical 完整 ≠ 指令面完整」（routine-live-state rider 連三天漏收進指令面，vc=3）+ #70 加 Tier 2 vc=8（chrome-mcp 四連日症狀逐日下探不同抽象層，escalation ladder 未把「惡化程度」納入判斷）；LESSONS-INBOX §未消化 32→22（3 條 housekeeping-done sweep + 7 條 promote/fold 進本檔 4 處，22 條 vc<3 或 §自主權邊界 keep buffer）_
 _v5.17 | 2026-08-02 twmd-distill-weekly — 零新編號：#56 加 v6（守門工具掃描範圍/分類規則跟不上生產側架構演化，vc=3 fold 三 instance：`check-hardcoded-langs.sh` 漏 cli/workers 分發層 + `routine-sync-check.py` PAUSED regex 吞已退休表 + `routine-audit.py` babel tag pattern 跟不上 fleet 標記慣例）+ #75 加 (f)（衍生物繼承的是素材不是驗證，vc=1 structural — 苯駢芘孢子壓縮新造句與原文不符）；操作面同步 [SPORE-HARVEST-PIPELINE.md 5-bucket 但書](../factory/SPORE-HARVEST-PIPELINE.md)（敏感事件已處理邊界延續）+ [SPORE-VERIFY.md v1.6](../factory/SPORE-VERIFY.md)（事實藍圖「已驗證來源」不再整欄免驗）；LESSONS-INBOX §未消化 14→8（3 條 promote/fold 進本檔 + 1 條 pipeline 但書 + 1 條 pipeline 事實藍圖 + 1 條 housekeeping sweep 已 cover in SQUEEZE pipeline，6 條 vc<3 keep buffer）。v5.16 footer entry 缺漏（frontmatter 已於 8/1 bump 但無對應footer row，本行一併記錄此 gap，不回頭補造內容）_
