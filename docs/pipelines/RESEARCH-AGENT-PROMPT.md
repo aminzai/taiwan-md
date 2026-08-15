@@ -3,9 +3,9 @@ title: 'RESEARCH-AGENT-PROMPT'
 description: '研究 sub-agent 派發通用 prompt 模板 + 分部報告輸出模板 — copy → 填槽 → spawn，禁即興改寫（源頭解決 prompt 飄移）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.0'
+current_version: 'v2.1'
 last_updated: 2026-08-15
-last_session: '2026-08-15-095913-manual（v2.0 事實層與過程層分離＋配額天花板：哲宇 directive「報告充滿待驗證結論與自我澄清、最近文章後台洩漏根因在報告層；分頭 search 降到 100」。量測斷代證據：reports/research-report-hygiene-evolution-2026-08-15.md）'
+last_session: '2026-08-15-095913-manual（v2.1 好報告形態正面範本段——報告是給 writer 的食物不是工作日誌，三特徵附高鐵/justfont 實例；v2.0 同日：事實層與過程層分離＋配額天花板。哲宇 directive；量測斷代：reports/research-report-hygiene-evolution-2026-08-15.md）'
 upstream_canonical:
   - 'REWRITE-PIPELINE.md'
   - '../editorial/RESEARCH.md'
@@ -148,6 +148,20 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 6. **簡體來源警戒**：簡體搜尋結果混入中國品牌／中國市場視角時明確標注，不可誤植為台灣脈絡
    （反例：冷泡茶研究差點把中國品牌「小茗同學」寫成台灣品牌）。
 7. **機構歷史年份查官方沿革頁**，不信二手轉述（北藝大研究所成立年二手全錯的教訓）。
+
+## 好報告的形態（正面範本——先知道要長成什麼樣，契約才有意義）
+
+> 量測證據（[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)）：
+> 養出好文章的報告（毒馬鈴薯／justfont／台灣高鐵）有共同形態，跟行數無關（147 行與 1,699 行都能好）。
+
+**一句話**：報告是給 writer 的**食物**，不是給 orchestrator 的**工作日誌**。每一段都該通過這個測試——「這句話在陳述世界，還是在陳述我的工作？」
+
+三個特徵（附 2026-04 台灣高鐵報告的實例）：
+
+1. **事實自足**：每條 finding 是「精確事實＋來源＋信度」，不需要讀者知道研究過程也能用。
+   ✅「1999.05 日本政府承諾低利貸款，打破既有合約框架。1999.12.28 台灣新幹線財團取代歐鐵。2001.02 歐鐵向 ICC 提訴，2004.03 判決賠償 6,500 萬美元」——四個事實原子，日期綁事件，直接可寫。
+2. **查證結論以「決定」形態存在，收在該收的地方**：justfont 面對當事人 21 條勘誤，每條處置壓成一行收 frontmatter verification 三層——`'「業界僅有一人」舊文 claim：BIOS 真實文章查無此句 → 不寫'`。攻防過程零殘留。
+3. **引語逐字＋出處＋場合**：✅「我太天真了。我誤判了乘客運量，也誤判了政府的可信度。」（殷琪，PTV 2011.08.02）——writer 拿到就能織進敘事。
 
 ## 輸出契約（違反任一條 = 收件 gate FAIL 退件）
 1. 【五段骨架】依序：§1 搜尋軌跡 / §2 Findings / §3 引語庫 / §4 negative findings / §5 質地素材。

@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-1A-RESEARCH'
 description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋 ≥80 配額 / 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 來源逐條可溯'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.1'
+current_version: 'v9.2'
 last_updated: 2026-08-15
-last_session: '2026-08-15-095913-manual（v9.1 Step 1.1 搜尋量改天花板制：fan-out 合計 ~70-80、硬上限 100、每 agent 15-20 到量即收——哲宇 directive「分頭 search 降到 100」；姊妹改動 RESEARCH-AGENT-PROMPT v2.0 事實層/過程層分離。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
+last_session: '2026-08-15-095913-manual（v9.2 新增 Step 1.7.5 整合與清理——orchestrator 六條報告品質判準（合成層零任務指涉/verification 決定形態/Findings 事實自足/引語可驗/negative 集中/量級 300-800），「整合是編輯不是搬運」；v9.1 同日：搜尋量天花板制 fan-out ~70-80 上限 100。哲宇 directive；診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -23,7 +23,7 @@ upstream_canonical:
 
 |                  |                                                                                                                                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **職責**         | 帶 Stage 0 問題執行搜尋（≥80，中≥40/英≥20/一手≥15/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT                                                                                            |
+| **職責**         | 帶 Stage 0 問題執行搜尋（合計 ~70-80、上限 100；中≥35/英≥15/一手≥12/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）**                                          |
 | **執行者**       | orchestrator（主 session）＋ N 個 parallel Sonnet 研究 agent（prompt 一律 [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md) 填槽，禁即興）                                                    |
 | **INPUTS**       | research report §觀點成型（Stage 0 產物）；RESEARCH.md；RESEARCH-AGENT-PROMPT.md                                                                                                                 |
 | **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md`（八段合成單檔；sibling raw 收件後 consolidate 刪除）                                                                                                      |
@@ -39,7 +39,8 @@ upstream_canonical:
 - [ ] 每份分部報告收件當下 `agent-report-health.py {file} --claimed {配額}` exit 0（FAIL 不准合成）
 - [ ] 全部 raw verbatim 落 report §8（收到通知的第一個動作；禁 scratchpad／tmp）
 - [ ] sibling raw 檔 consolidate 進主檔後刪除
-- [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0）
+- [ ] **整合與清理六條判準過（Step 1.7.5）**——合成層零任務指涉、verification 三層是「決定」形態、Findings 事實自足
+- [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0／**合成層過程噪音 ≤3**）
 - [ ] frontmatter 核心矛盾（或組織主軸＋facet）已鎖
 
 ## HANDOFF（stage 完成時）
@@ -329,6 +330,32 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 3. **驗**：跑 `research-report-health.py`，§8 inline 密度自然 ≥ 120；`ls reports/research/{YYYY-MM}/{slug}-*.md` 應只剩主檔一個。
 
 **為什麼是單檔不是分檔**：(a) findability——一個 slug 一個 research SSOT，grep / re-use / reader-callout 追源只開一個檔；(b) writer 只需 Read 一個檔就有全部 raw texture（分檔要 Read N 個，容易漏讀 = 飄移根因之一）；(c) 歸檔完整性——散落的 sibling 容易在 cleanup / worktree gc 時漏掉一兩個（呼應本 session 的圖檔差點變孤兒）。**中繼站的存在只為 async 落檔安全（鐵律 8），一旦合成完成它的任務就結束了。**
+
+#### 1.7.5 整合與清理——orchestrator 的報告品質判準（v9.2，2026-08-15 哲宇 directive）🧹
+
+> **觸發**：哲宇「整合的 session 要負責整合跟清理時，也要有怎麼判斷是不是好的研究報告的準則或階段」。
+> 病史：2026-07-12 起八份報告每份帶 70-160 個 falsify 攻防標記，writer 讀報告被 prime 出正文
+> 校正焦慮（後台洩漏上游根因）；orchestrator 只做了「搬運＋蒸餾」沒做「編輯」。
+> 量測與正反範本：[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
+
+**定位**：收件（1.8-bis）與合成單檔（1.7.4）之後、跑 1.7.3 hard gate 之前的**編輯動作**。
+**整合是編輯，不是搬運**：§8 raw 是 verbatim 聖域（永不改），但 §1-§7 合成層是 orchestrator
+**親筆寫給 writer 的食物**——agent 分部報告若帶過程敘事（契約第 6 條漏接），合成層必須
+重寫成乾淨世界陳述，不是原樣抄上來。
+
+**六條判準（合成完自問，兼作「這是不是好報告」的驗收清單）**：
+
+| #   | 判準                                                                                                             | 驗法                                                                                     |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| a   | **合成層零任務指涉**——沒有「任務假設」「Stage 0 說」「原以為」「需再核實」                                       | 儀器：`research-report-health.py` v4 合成層過程噪音 check（≤3 pass / >10 hard）          |
+| b   | **查證結論住 frontmatter verification 三層**，每條是「決定」形態（「→ 不寫」「→ 採 X」「→ 併列」），不是攻防敘事 | 人眼掃 frontmatter：每條能不能一秒讀出「writer 該怎麼處置」                              |
+| c   | **Findings 事實自足**——隨機抽三段，問「這在陳述世界還是陳述我的工作？」                                          | 抽測；被推翻的版本不在 Findings（推翻過程只活在 §1 軌跡一行與 §8 raw）                   |
+| d   | **引語庫逐字＋URL＋Ctrl-F 標記**，記者轉述與直引分開標                                                           | 既有 §4 規範；抽 2 條實際 Ctrl-F                                                         |
+| e   | **negative findings 集中一處**，誠實列缺口但不瀰漫到每段複述                                                     | 掃 §4 以外的「查無／未找到」是否重複出現                                                 |
+| f   | **合成層量級 300-800 行帶**（不含 §8 raw）——超過先問「是不是把過程當內容」                                       | `sed -n '1,/^## §\?8/p' {report} \| wc -l`；好時期範本：高鐵 267 全檔、justfont 651 全檔 |
+
+**沒過 = 繼續清理，不是繼續搜尋**。判準 a-c 不過的原因幾乎都是「合成時偷懶把 agent 輸出
+當成品」；回去重寫合成層，不要回去加搜尋量（加量只會生產更多待清理的材料）。
 
 #### 1.7.3 HARD GATE：`research-report-health.py` 🔬
 

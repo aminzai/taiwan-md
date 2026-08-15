@@ -81,8 +81,15 @@ falsification-first 心法本身沒有錯——錯的是把 falsify 的**過程*
 
 writer 主食段（§1 觀點、§3 Findings、§4 引語庫、§6 fact-pack）依 4.1 新規則清洗：過程敘事改乾淨事實陳述，被推翻的版本從 Findings 移除（§5 護欄保留給 verifier 用，§8 raw 永不改）。
 
+## 四之二、第二波（同日，哲宇 directive「大幅梳理＋整合 session 要有判斷好報告的準則或階段」）
+
+- **research-report-health.py v4「合成層過程噪音」gate**：掃 §8 raw 之前、剔除 §5 護欄段的任務指涉詞（≤3 pass / 4-10 warn / >10 hard）。校準實測：justfont 0、毒馬鈴薯 0、茶文化 0（其 falsify 全在 §8 raw，範圍設計正確）、黃崇仁 77 → hard FAIL（正確攔截）、文策院清洗後 0。把今天的診斷 grep 變成常設 gate（MANIFESTO §14 高儀器化）。
+- **STAGE-1A v9.2 新增 Step 1.7.5「整合與清理」**：orchestrator 在合成之後、hard gate 之前的編輯階段，六條報告品質判準（a 合成層零任務指涉〔儀器〕／b verification 三層是「決定」形態／c Findings 事實自足抽測／d 引語可驗／e negative findings 集中／f 合成層 300-800 行帶）。核心句：**整合是編輯，不是搬運**——agent 分部輸出帶過程敘事時，合成層重寫成乾淨世界陳述，raw 只活在 §8。沒過 = 繼續清理，不是繼續搜尋。
+- **RESEARCH-AGENT-PROMPT v2.1「好報告的形態」正面範本段**：報告是給 writer 的食物不是工作日誌；三特徵（事實自足／查證結論以決定形態收 frontmatter／引語逐字＋出處）附台灣高鐵與 justfont 逐字實例——先知道要長成什麼樣，契約才有意義。
+- **REWRITE-PIPELINE v9.7**：Hard Gate Inventory「研究報告 SSOT health」行對齊 v4 check 與 Step 1.7.5。
+
 ## 五、殘留問題（不在本波處理）
 
 - 2026-07 中至 08 的既有報告不回頭清洗（歷史證據鏈保留；只有仍要餵 writer 的活報告才清洗）。
-- `agent-report-health.py` 的體積下限（≥8KB）與軌跡下限可能反向鼓勵灌水，值得下一輪 weekly self-evolve 用新量級重校閾值。
+- `agent-report-health.py` 的體積下限（≥8KB）與軌跡下限可能反向鼓勵灌水，值得下一輪 weekly self-evolve 用新量級重校閾值；它自己也還沒有 meta-noise check（分部報告層的過程敘事目前靠契約第 6 條＋主報告層 v4 gate 雙防，分部層儀器化留給下輪）。
 - EDITORIAL §後台洩漏可考慮補一句上游指標（報告層的洩漏防治 → 本報告），交由下次 editorial 修訂順手帶入。
