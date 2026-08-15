@@ -332,6 +332,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-15 twmd-maintainer-workshop-pr — conditional-rule-has-no-gate-layer：規則的適用條件決定它掛得上哪一層閘門，條件式規則掛不上全站 lint，於是永遠沒有閘門
+
+- **pattern**: `conditional-rule-has-no-gate-layer`
+- **原則**：§神經迴路「規則要能執行才算規則」講的是「沒做閘門 = 規則是裝飾」，本條補上**為什麼那些規則遲遲沒做閘門**的結構原因：一條規則是否成立取決於**誰提交的**（而不只是檔案內容長什麼樣）時，它掛不上全站 lint——全站掃描看不到提交者，硬做就會誤殺合法檔案。於是這類規則被留在 pipeline 清單裡當「人工判斷項」，而人工判斷不會回頭掃既有庫存，違反就這樣長期躺著。**判準候選：把一條規則寫進紅旗清單時，同時標記它屬於「絕對規則」（檔案內容自足判定 → 掛全站 lint + 一次全庫掃描）還是「條件式規則」（要知道提交脈絡 → 只能掛 PR 端閘門）。兩種混在同一份清單裡，結果是兩種都沒有閘門。**
+- **觸發**：2026-08-15 審工作坊三份投稿。PR #1367 的 `author: 'Taiwan.md'` 命中 MAINTAINER 紅旗 #7，但 frontmatter-gate CI 全綠放行。查 author 值分布才看懂為什麼沒人做這道閘門：站上 4,952 篇 author 正是 `'Taiwan.md'`（Taiwan.md 自產文章，署名正確），4,109 篇是 `'Taiwan.md Contributors'`——紅旗 #7 只在「這是 contributor PR」時成立，全站 lint 會誤殺近五千篇。同一份紅旗清單裡的 #8（`author: 'Manus AI'`）卻是絕對規則、做得成全站 lint，也一樣沒做：24 檔（2 篇 zh-TW SSOT + 22 個多語鏡像）從 4/26、5/7 進庫躺到今天，讀者一直看得到「Manus AI」掛在文章上。本 session 已 heal（commit `f3161f537`），但閘門仍不存在。
+- **可能層級**：通用反射候選——任何「規則清單 → 閘門」的落地都成立，不限 Taiwan.md。
+- **相關**：[MEMORY §神經迴路](MEMORY.md)「規則要能執行才算規則」（本條是它的上游診斷：不是忘了做，是做不出來）、REFLEXES #15（反覆浮現要儀器化）、#82（proxy signal）、#83（checker 兩把尺）
+- **verification_count**: 1
+- **severity**: moderate（單次 instance，但一次就浮出兩條規則零執行三個月＋24 檔對外可見的違反）
+
+### 2026-08-15 twmd-maintainer-workshop-pr — ratio-self-consistency-masks-magnitude-error：比率自己算得通，不代表被除的兩個數字是對的
+
+- **pattern**: `ratio-self-consistency-masks-magnitude-error`
+- **原則**：一組數字如果同時給出絕對值與由它衍生的比率，所有一致性檢查（人的、機器的）都會去驗「比率算不算得通」——而比率對分子分母同乘同除免疫。整組數字錯同一個數量級時，比率完全正確，於是檢查全綠。**判準候選：財報／統計／換算類表格，絕對值要單獨對一次一手來源，不能只驗算比率或欄間關係；尤其是跨幣別、跨單位（billion 對「億」差 10 倍）的場合。**
+- **觸發**：2026-08-15 PR #1367〈台灣科技說故事〉淨利率梯度表把 Apple FY2025 寫成「營收 416 億美元、淨利 112 億美元」，實際是 4,162 億與 1,120 億（$416.2B / $112.0B）——billion 直讀成「億」漏掉換算。淨利率 26.9% 完全正確（1120/4162 與 112/416 同值），所以 `article-health --profile=ci-deploy` hard=0、PR Content Review 綠燈、投稿者自己逐項複核也沒抓到。同表另外三列（NVIDIA 2,159 億／台積電 1,224 億／鴻海 8.1 兆台幣）都換算正確，錯的只有這一列，內部對照也發現不了。真正該起疑的線索是常識層：一家營收 416 億美元的公司不可能同時「拿走手機產業八成利潤」，而那句話就寫在同一篇文章裡。已修（commit `6d762f5ac`）。
+- **可能層級**：操作規則（進 FACTCHECK / REWRITE 的數字驗證步驟）或通用反射，distill 判。
+- **相關**：REFLEXES #82（proxy signal — 這裡的代理是「比率自洽」代理「數字正確」）、#38（混維度）、`feedback_absolute_facts_extra_caution`（算術／單位／直接引語要三倍檢查）
+- **verification_count**: 1
+- **severity**: moderate（財經數字是 Taiwan.md 高頻素材，且這類錯誤現有閘門結構性抓不到）
+
 ### 2026-08-15 twmd-maintainer-am — per-instance-reporting-buries-the-single-cause：一個上游缺陷被逐條回報成三百五十三個看起來無關的錯誤
 
 - **pattern**: `per-instance-reporting-buries-the-single-cause`
@@ -376,10 +396,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   機械修復到 hard=0（分號需改寫散文、外部圖片熱連結需逐張授權判斷）。
 - **判準候選**：merge 前先問「這篇 heal 到 hard=0 需要幾分鐘」——能在同一個 push 週期內完成才 merge，
   否則留 open 並把修法講清楚給投稿者（本 cycle 採後者，一則累積式留言涵蓋整批）。
+- **instances**：
+  - 2026-08-15 twmd-maintainer-workshop-pr — 同日第二次，而且是**在這條教訓寫下之後三小時踩的**。
+    merge PR #1366〈咖波〉時該檔 `ci-deploy` hard=9（8 條腳註缺描述 + 全形分號 21 超門檻），
+    deploy run `390db29a8` **failure** @ 08:19:16，heal 推上去後才恢復，紅窗約三分鐘。
+    同批的 #1367 merge 時 hard=0，沒有製造紅窗——**兩篇的差別正是本條判準要問的那句話**，
+    而我一句都沒問，因為我根本沒讀到這條 entry（見下方 `working-tree-itself-is-the-stale-snapshot`
+    同日 instance：本地樹落後 origin 164 個 commit，今早寫的 LESSONS 不在我讀得到的版本裡）。
+    → 兩條 pattern 在同一個 session 內構成因果鏈：站在過期地板上 → 讀不到判準 → 踩中判準要防的事。
+    紅窗三分鐘遠小於原 instance 的「幾小時到幾天」，但形狀完全相同。
 - **相關**：[MAINTAINER §1b](../pipelines/MAINTAINER-PIPELINE.md)（merge-first-then-heal）／
   §Step 3.3 決策表（「> 30 min 純格式 → merge + backlog」這行需要但書）／
-  [REFLEXES #71](REFLEXES.md)（Default 是行動不是 defer——本條是它的邊界條件，不是反例）
-- **verification_count**: 1
+  [REFLEXES #71](REFLEXES.md)（Default 是行動不是 defer——本條是它的邊界條件，不是反例）／
+  `working-tree-itself-is-the-stale-snapshot`（同日因果上游）
+- **verification_count**: 2
 - **severity**: operational（判準層，非結構）
 
 ### 2026-08-14 twmd-maintainer-pr-triage — working-tree-itself-is-the-stale-snapshot：量尺不是舊的，是我站的地板是舊的
@@ -394,7 +424,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **已 ship 的修法（同 cycle）**：`scripts/tools/lib/check-parallel-actor.sh` 的 `REMOTE_AHEAD` 分支原本只講 push 會不會被 ref-lock reject（訊息是 push 導向的），現在加印落後的 commit 數 ＋ 一句讀取層警告，明寫「本地 git grep / ls / cat / require / node_modules 反映的是 N 個 commit 前的狀態，審 PR 與對賬事實前改用 `git show origin/main:<path>` 或開 worktree（且該 worktree 要自己 `npm ci`，不要 symlink 主樹那份）」。實測：主工作樹跑印出 146 落後 ＋ 警告，乾淨 worktree 跑維持 CLEAN 不誤報。**訊號本來就存在**——這支腳本今天早上進場時就報了 `REMOTE_AHEAD ⚠️`，我讀成「等一下 push 要先 rebase」，沒讀成「你接下來讀的每一個檔案都是歷史」。這是「訊號存在 ≠ 訊號有效」的又一次：修法不是加新訊號，是把既有訊號講到它真正的後果那一層。
 - **可能層級**：REFLEXES #67 加子規則（環境層變體）較合適，不必新編號——但 boundary 值得寫清楚：**#67 現行五條規則全部針對「引用的結論」，沒有一條針對「執行環境本身」**。另一個可能的歸屬是 #82（proxy signal），但角度差一層：#82 是「量了替身」，本條是「站在替身上量真的東西」。
 - **相關**：[REFLEXES #67](REFLEXES.md)（已驗過帶時間戳——本條是它的環境層變體）／[REFLEXES #82](REFLEXES.md)（proxy signal——差一層：基準面 vs 訊號）／[REFLEXES #57](REFLEXES.md)（routine 入口必須 detect parallel-actor——本條把該偵測的**輸出語意**從 push 層擴到讀取層）／[REFLEXES #68](REFLEXES.md)（多核心 git 協調——工作樹被產線長期佔用是這條的既有場景，但既有紀律只談 commit/push 碰撞，沒談讀取失真）
-- **verification_count**: 1（同 session 三個獨立現形；per 2026-08-02 self-evolve「vc=1 只證明登記處只出現一次」，這條的三次是同日同 session，計 1 但列全三例）
+- **instances**：
+  - 2026-08-15 twmd-maintainer-workshop-pr — 第四次現形，**在修法 ship 之後的隔天**，而且我沒跑
+    `check-parallel-actor.sh`（甦醒流程不含這一步，REFLEXES #57 寫的是 routine 入口跑，
+    本 session 是哲宇直接下 directive 進來的，沒有任何一步把我推去跑它）。本地落後 origin 164 commit。
+    兩個具體後果：(1) 我在主 repo 編輯了 `LESSONS-INBOX.md` 的**過期版本**，那份看不到今早
+    maintainer-am 寫的兩條 entry，若照推會靜默刪掉它們——是在 `git diff origin/main` 比對時
+    才發現，不是任何工具叫我；(2) 因為讀不到那兩條，我踩了其中一條
+    （`merge-first-collides-with-all-file-deploy-gate`，見該 entry 同日 instance）。
+    → **修法只加強了那支腳本的訊息，沒有解決「誰會去跑它」**。訊息寫得再清楚，
+    不在必經路徑上就等於不存在——這正是本條「訊號存在 ≠ 訊號有效」的下一層：
+    上次修的是訊號**內容**，這次現形的是訊號**觸發點**。候選修法是把 REMOTE_AHEAD 檢查
+    掛進 BECOME Universal core（wake-context 的 groundtruth 段已印 origin 最新 commit 時間，
+    但沒印落後數，也沒把「你讀到的檔案是歷史」講出來）。
+- **verification_count**: 2（原記 1 含同日同 session 三個現形；2026-08-15 為跨日獨立第四例，且發生在修法之後）
 - **severity**: structural（不是某支工具的 bug，是「session 對自己所在位置的假設」這一層；只要 babel 產線繼續長期佔用主工作樹，每一個在該樹上跑的 review／對賬類 routine 都在這個風險裡）
 
 ### 2026-08-14 twmd-maintainer-am — doc-and-validator-drift-has-no-reconciler：說明書跟驗證器各自演化，中間沒有東西在對賬

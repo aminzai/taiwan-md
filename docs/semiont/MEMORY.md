@@ -364,3 +364,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-15 | 064046-twmd-spore-harvest-am | v1.15.0 孢子 D+4：#170 1,332 瀏覽/89 讚零回覆、#171 2.4 萬瀏覽/351 讚仍是同一則 Bucket D；X 登入牆缺口首次收斂成「連續第四天」單一 handoff | 昨天寫的教訓今天照做：離散的每日快照該被改寫成一條累積的線 | [→](memory/2026-08-15-064046-twmd-spore-harvest-am.md) |
 | 2026-08-15 | 071908-twmd-feedback-triage | 昨天攔下的第三人指控信原樣再來一次，第二次攔下不開 issue；ship `--exclude <id>`（HG13 三層同步）讓兩道對賬 74/74、73/74 回到流程裡不用手工補 | 處置正確但沒留下會自己啟動的東西，等於把防線寄放在下一個 session 的細心 | [→](memory/2026-08-15-071908-twmd-feedback-triage.md) |
 | 2026-08-15 | 084121-twmd-maintainer-am | 25 PR 升 Full mode。24 篇敗在同一道閘門，追上游到回報層：353 條「腳註格式錯」其實是每個網址尾多一個空格，補進 link-url-mangle（全庫零誤判） | 一個根因被逐條報成三百多個錯時，訊號是過量到失去形狀 | [→](memory/2026-08-15-084121-twmd-maintainer-am.md) |
+| 2026-08-15 | 163406-twmd-maintainer-workshop-pr | 工作坊三份投稿：兩篇 merge 後修 Apple 數字錯一個數量級與腳註格式，一篇卡在人物門檻與來源獨立性留 open；順線清掉 24 檔讀者看得到的「Manus AI」署名 | 比率自洽會掩蓋整組數字錯一個數量級，所有檢查器對此結構性失明 | [→](memory/2026-08-15-163406-twmd-maintainer-workshop-pr.md) |
