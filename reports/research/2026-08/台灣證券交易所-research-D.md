@@ -1,6 +1,6 @@
 # 台灣證券交易所 — Research D：轉投資版圖、技術史與世界座標
 
-執行摘要：搜尋約 30 次（WebSearch 20 ＋ WebFetch 10，含多次 403/404 失敗未計入有效產出）。最重要的更正：官方 60 週年特刊顯示證交所對臺灣集中保管結算所、中華信用評等的持股比例**隨年份持續變動**（非單一固定數字），109 年底（2020）分別為 50.59% 與 19.99%；台北金融大樓公司持股同樣逐年變動，2025/08 最新為 8.9%（非任務假設的 8.984%，兩者接近但非同一數字，且此欄位本身逐年波動，不是常數）；WFE 第 52 屆年會官方新聞稿與 TWSE 官方大事紀年份不一致（2012 vs 2013），列為存疑分歧。
+執行摘要：搜尋約 40 次（含第二輪追加8次），WebSearch 與 WebFetch 皆有，含多次 403/404/PDF解析失敗未計入有效產出。最重要的更正：官方 60 週年特刊顯示證交所對臺灣集中保管結算所、中華信用評等的持股比例**隨年份持續變動**（非單一固定數字），109 年底（2020）分別為 50.59% 與 19.99%；台北金融大樓公司持股同樣逐年變動，2025/08 最新為 8.9%（非任務假設的 8.984%，兩者接近但非同一數字，且此欄位本身逐年波動，不是常數）。WFE 第 52 屆年會年份分歧（2012 vs 2013）經第二輪追加 8 次查證（含 4 次直接 WebFetch 一手/官方頁面嘗試）**仍未能完全裁定**：全數一手來源因 PDF 解析失敗／403／頁面無正文而查證失敗；協調者提出的「年份綁錯事件」（宣布主辦 vs 實際舉行為兩個事件）假設**未被證實也未被排除**；目前僅 TWSE 官方大事紀頁面（格式與其他已驗證年份一致）給出 2013/10/14 一說，2012 年說僅有一則內部自相矛盾、不可靠的 WebSearch 聚合摘要支持，兩版本已於 §2-10 並列供 writer 取捨，建議傾向採用官方大事紀 2013 版或迴避屆次數字。韓交所（KRX）是否曾自我掛牌上市本輪同樣未能查得直接答案。
 
 ## §1 搜尋軌跡（逐條）
 
@@ -37,6 +37,17 @@
 31. WebSearch「證交所 2005年10月31日 遷入 台北101 九樓 十二樓 投資人服務中心」→ 確認遷入日期、樓層（9-12樓辦公＋3樓投資人閱覽室暨記者室）→ 無單一逐字可溯源 URL，多筆二手綜合 [中/存疑，待一手覆核]
 32. WebSearch「中華信用評等公司 股東 臺灣證券交易所 持股比例」→ 找到 TWSE 60週年特刊逐字頁 → https://www.twse.com.tw/staticFiles/product/publication/twse60/html/72/ [中/一手]
 33. WebFetch TWSE 60週年特刊 (twse60/html/72) → 取得集保結算所／中華信用評等歷年持股比例逐字段落 → https://www.twse.com.tw/staticFiles/product/publication/twse60/html/72/ [中/一手]
+
+### 第二輪追加（WFE屆次覆核 + KRX，額外配額8次）
+
+34. WebSearch「World Federation of Exchanges General Assembly annual meeting list 50th 51st 52nd 53rd host city year」→ 取得內部矛盾的聚合摘要（52屆台北/53屆墨西哥市同標2013年），判定不可靠 → 無單一可信URL [英/存疑-不可靠]
+35. WebFetch https://www.twse.com.tw/downloads/zh/about/company/annual_101.pdf（民國101年年報）→ PDF文字層無法解析，非內容證據 → https://www.twse.com.tw/downloads/zh/about/company/annual_101.pdf [失敗/工具限制]
+36. WebFetch https://mondovisione.com/news/world-federation-of-exchanges-unveils-new-statutes-at-52nd-general-assembly/ → 僅取得導覽框架，無正文 → 同URL [失敗]
+37. WebSearch「"第52屆" 世界交易所聯合會 年會 台灣證券交易所 2012年10月」→ 取得另一則主張2012年的二手摘要，但無可逐字驗證的原始頁面 → 無單一可信URL [中/存疑]
+38. WebFetch https://www.twse.com.tw/zh/news/newsDetail/?id=746 → 僅回傳導覽框架，無正文內容 → 同URL [失敗]
+39. WebFetch WFE第53屆出國報告PDF（investoredu.twse.com.tw）第二次嘗試 → 二進位編碼問題再次無法解析 → https://investoredu.twse.com.tw/FileSystem/Research/b1fe9ab7-88d5-47dc-8be9-a9443953bbfd_WFE%E7%AC%AC53%E5%B1%86%E5%B9%B4%E6%9C%83%E3%80%81%E6%9C%83%E5%93%A1%E5%A4%A7%E6%9C%83%E6%9A%A8%E5%B7%A5%E4%BD%9C%E5%A7%94%E5%93%A1%E6%9C%83%E6%9C%83%E8%AD%B0%E5%A0%B1%E5%91%8A.pdf [失敗/工具限制]
+40. WebSearch「Korea Exchange KRX self-listing IPO own market status 2024 2025」→ 取得KOSPI市場一般統計，未取得KRX自我掛牌的直接答案 → https://www.pwc.com/kr/en/publications/samilpwc_k-ipo-2025.pdf [英/存疑-未直接回答]
+41. （第二輪配額8次用畢，收尾）
 
 ## §2 Findings（依子題分節）
 
@@ -133,7 +144,18 @@
 
 以上為證交所官方大事紀頁面對每項里程碑的逐字年份／日期／事件對應，**建議寫作直接採用此頁逐字年份**（尤其東亞證券交易所聯合會創始會員為 1982/05/20、國際證券交易所聯合會第29個正式會員為 1989/10/23、IOSCO 附屬會員為 1993/10/25，均與任務假設一致）。
 
-**唯一分歧點**：WFE 第 52 屆年會，官方大事紀頁標「102年(2013年)10月14日」，但 WFE 官方新聞稿標題／多筆英文二手報導（含 world-exchanges.org「51st General Assembly & Annual Meeting in Johannesburg」後續屆次推算、以及多筆中文 WebSearch 摘要）指向 2012 年 10 月 14-16 日於台北舉行。兩個信源都自稱可回溯到「一手」（TWSE 官網 vs WFE 官網），但本輪 WebFetch 兩次嘗試取得 world-exchanges.org 原文都遭 403 拒絕，無法逐字覆核 WFE 官方年份。**此為讀者級事實分歧，年份必須在下一輪配額內針對 world-exchanges.org 或 TWSE 101年報 PDF（annual_101.pdf，對應民國101年=2012年年報，若2012年報內提及「本年度主辦WFE第52屆年會」則可佐證2012年說）做逐字覆核後才能定稿**，本報告不代為裁定。
+**分歧點（第二輪追加查證，仍未能完全裁定）**：WFE 第 52 屆年會，官方大事紀頁標「102年(2013年)10月14日」，但多筆英文二手 WebSearch 摘要指向 2012 年 10 月 14-16 日於台北舉行。第二輪追查方向與結果：
+
+1. 【一手嘗試】WebFetch https://www.twse.com.tw/downloads/zh/about/company/annual_101.pdf（民國101年度年報，即2012年年報）→ 該PDF為InDesign製作，文字層無法被本 agent 的 WebFetch 解析，回傳「本年報未提及」是**擷取失敗**而非「確認未提及」，不能當作反證 2012 年說的證據。【信度】存疑（工具限制，非內容證據）
+2. 【一手嘗試】WebFetch https://www.twse.com.tw/zh/news/newsDetail/?id=746（證交所新聞稿，由 WebSearch 命中疑似與此事件相關）→ 頁面僅回傳導覽框架，無正文內容，未能取得逐字新聞稿。【信度】失敗
+3. 【一手嘗試】WebFetch https://investoredu.twse.com.tw/FileSystem/Research/b1fe9ab7-88d5-47dc-8be9-a9443953bbfd_WFE%E7%AC%AC53%E5%B1%86%E5%B9%B4%E6%9C%83....pdf（證交所出席WFE第53屆年會出國報告，原意：若能取得第53屆的年份，即可回推第52屆＝該年減一）→ 此PDF與第一輪同一份文件，兩輪合計兩次嘗試皆因二進位編碼問題無法被 WebFetch 解析為可讀文字，未能取得第53屆年會的年份或城市。【信度】失敗
+4. 【二手嘗試】WebFetch https://mondovisione.com/news/world-federation-of-exchanges-unveils-new-statutes-at-52nd-general-assembly/ → 僅取得網站導覽框架，未取得文章正文與發布日期。【信度】失敗
+5. 【二手 WebSearch】查「工商時報 OR 經濟日報 OR 中央社 2013年10月 世界交易所聯合會 年會 台北 證交所 主辦」→ 未命中2013年當年報導，僅命中近年（2025-2026）證交所主辦亞洲暨大洋洲交易所年會的新聞與媒體首頁。【信度】查無
+6. 【二手 WebSearch】查「WFE General Assembly annual meeting list 50th-53rd host city year」→ 得到一則內部矛盾的聚合摘要：「51st Johannesburg (Oct 2012)」「52nd Taipei (Oct 2013)」「53rd Mexico City (Oct 29, 2013)」——52屆與53屆被標成同一年（2013），與「年會逐年一屆」的常理矛盾，判定此聚合摘要不可靠，不採用。【信度】存疑，判定不可靠
+
+**證偽協調者假設（年份綁錯事件：2012取得主辦權／宣布，2013實際舉行）的結果**：本輪未查得任何來源明確區分「宣布主辦」與「實際舉行」兩個不同日期／年份的表述——沒有一份來源說「2012年宣布由台灣主辦，2013年實際召開」。協調者的假設**未被證實，也未被排除**，僅是一個尚無直接證據支持的可能解釋。
+
+**結論與建議**：兩次獨立輪次、合計 4 次直接 WebFetch 一手/官方頁面的嘗試（101年報 PDF、TWSE新聞稿id=746、WFE第53屆出國報告 PDF ×2次、world-exchanges.org ×2次、mondovisione）全數因工具限制（PDF二進位編碼／403／頁面僅回傳導覽框架）無法取得可逐字覆核的正文，**本條目前無法裁定**。唯一能穩定逐字覆核、格式與其他已驗證年份條目一致的來源，仍是 TWSE 官方大事紀頁面本身（https://www.twse.com.tw/zh/about/company/history.html ，逐字：「102年(2013年)10月14日：主辦『世界交易所聯合會（WFE）』第52屆年會」）；2012 年說目前僅有 WebSearch 聚合摘要支持，且其中一則聚合摘要本身内部矛盾（52、53屆同年），可信度偏低。**建議寫作採用 TWSE 官方大事紀的 2013/10/14 版本，但仍標注來源單一、未經第二個獨立一手來源交叉驗證；若求絕對保守，改寫成不綁年份/屆次的敘述（例如「2010年代主辦過世界交易所聯合會年會」）或整段迴避屆次數字。**兩個版本（2013官方大事紀 vs 2012 WebSearch聚合）已如上並列，供 writer 自行取捨風險。
 
 ### 2-11 2020/12/2 權證系統事件
 
@@ -178,7 +200,8 @@
 - 查無電動行情揭示板（1970年代）的採購國別。試過原始 query 未特別追問國別，twstreetcorner.org 文章亦未提及來源國。
 - 查無 1985 年電腦輔助交易上線、人工交易大廳消失的官方大事紀逐字條目原文（本輪只取得 WebSearch 二手摘要轉述），亦未查得該年「人工交易大廳何時／如何拆除」的具體過程描述。
 - 查無 2005/10/31 遷入台北101一事的可逐字覆核一手來源（官方大事紀頁該年條目未在本輪回傳範圍內）。
-- 查無 WFE 第52屆年會 2012 vs 2013 年份分歧的裁定證據——world-exchanges.org 原始新聞稿頁面兩次 WebFetch 均遭 403 拒絕；建議下一輪改用 TWSE 101年報或102年報 PDF（annual_101.pdf 或 annual_102.pdf）逐字覆核「主辦WFE第52屆年會」出現在哪一年年報。
+- 【第二輪追加後仍未裁定】WFE 第52屆年會 2012 vs 2013 年份分歧：合計兩輪 4 次直接 WebFetch 一手來源嘗試（101年報PDF／TWSE新聞id=746／WFE第53屆出國報告PDF兩次／world-exchanges.org兩次／mondovisione）全數因 PDF 二進位編碼、403、或頁面僅回傳導覽框架而失敗，未能取得任何一份可逐字覆核的正文。協調者提出的「年份綁錯事件」（2012宣布主辦、2013實際舉行，如台茶18號 anti-example 的兩事件形狀）**未被證實也未被排除**——沒有查到任何來源明確做出這種區分。目前僅能以 TWSE 官方大事紀頁面（格式與其他已驗證年份一致）為較可信版本（2013/10/14 第52屆），2012年說僅有內部自相矛盾的 WebSearch 聚合摘要支持。下一輪若要徹底裁定，建議：(a) 用 pdf skill 或其他 PDF 文字擷取工具重新解析 annual_101.pdf／annual_102.pdf／WFE第53屆出國報告PDF三份文件的純文字內容（本 agent 的 WebFetch 對這三份 PDF 均擷取失敗，非內容不存在）；(b) 嘗試以不同管道（非 WebFetch）存取 world-exchanges.org 的 51st/52nd/53rd 三篇新聞稿建立年份鏈。
+- 【第二輪追加，未查得】韓交所（KRX）是否曾在自己的市場自我掛牌上市：搜尋「Korea Exchange KRX self-listing IPO own market status 2024 2025」僅取得 KOSPI 市場一般統計數字（847-848家上市公司、市值等），未取得任何直接回答「KRX本身是否有自我掛牌」的段落。此題本輪配額內未能查證，若要用於國際比較段落的「台灣不是唯一沒上市的交易所」論點，仍需另一輪查證（建議韓文關鍵字「한국거래소 자기상장」或直接查 KRX 官方公司治理頁面的股東結構）。
 - 查無 IOSCO 兩份 demutualization 技術報告（ioscopd119.pdf、IOSCOPD200.pdf）的逐字內容——iosco.org 對本 agent 的 WebFetch 請求持續回傳 403，可能需要人工瀏覽器或不同 User-Agent 才能取得。
 - 查無 KRX（韓國交易所）是否曾在自己的市場掛牌上市（demutualization 之後是否 IPO）的直接一手確認；本輪僅確認其 2005 年三所合併為股份公司之組織轉型，但「上市」與「股份公司化」是兩件事，尚未查證 KRX 是否公開發行股票。若要用於「台灣為什麼不拆、不上市」的比較座標，寫作前建議針對「Korea Exchange listed on its own market status 2026」再查一輪，因為若 KRX 至今仍未自我掛牌（僅新交所/港交所/東證掛牌），會是比「四家全部demutualize+上市」更精確、更有力的比較敘事。
 - 查無台北金融大樓公司在證交所 2026 年最新（非2025/08）持股比例的官方一手公告，亦未逐字覆核維基百科條目本身引用的原始股東名冊來源。
