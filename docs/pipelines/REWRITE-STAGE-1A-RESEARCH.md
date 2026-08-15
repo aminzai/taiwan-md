@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-1A-RESEARCH'
 description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋 ≥80 配額 / 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 來源逐條可溯'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+current_version: 'v9.1'
+last_updated: 2026-08-15
+last_session: '2026-08-15-095913-manual（v9.1 Step 1.1 搜尋量改天花板制：fan-out 合計 ~70-80、硬上限 100、每 agent 15-20 到量即收——哲宇 directive「分頭 search 降到 100」；姊妹改動 RESEARCH-AGENT-PROMPT v2.0 事實層/過程層分離。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -63,23 +63,35 @@ upstream_canonical:
 - `docs/editorial/RESEARCH.md`（方法論：搜尋策略、來源判斷、避坑指南）
 - `docs/editorial/RESEARCH-TEMPLATE.md`（填空模板）
 
-### Step 1.1: 搜尋深度 ≥ 80 次（v6.4，含來源多樣性配額）
+### Step 1.1: 搜尋深度 — 全篇 ~100 為天花板（v9.1，2026-08-15 哲宇 directive；含來源多樣性配額）
 
-**搜尋至少 80 次**（v6.4 升級，自 v5.1 ≥ 40 提高；含 Stage 0 的 ≥ 20 = 全篇 ≥ 100 次）：
+**Stage 1 fan-out 合計目標 ~70-80 次、硬上限 100 次**（含 Stage 0 的 ~20 = 全篇 ~100-120，
+對齊好時期實測量級：justfont 全篇 120 含 callout verify、毒馬鈴薯 85 來源）。
+**到量即收——超跑不是美德**：超出的搜尋生產的主要是「待驗證線索＋攻防敘事」塞爆報告，
+不是可寫的事實（2026-08-15 量測：245 次搜尋的報告品質劣於 120 次的，diagnosis 見
+[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)）。
 
 | 來源類別                                 | 最低配額 | 為什麼                                                             |
 | ---------------------------------------- | -------- | ------------------------------------------------------------------ |
-| **中文**                                 | ≥ 40     | 在地視角、當地報導、社群記憶                                       |
-| **英文 / 國際 / 學術**                   | **≥ 20** | 國際視角 + triangulation；攻擊「57% 報告英文來源 = 0」的系統性缺口 |
-| **一手**（官方/政府/年報/法規/學術論文） | ≥ 15     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
+| **中文**                                 | ≥ 35     | 在地視角、當地報導、社群記憶                                       |
+| **英文 / 國際 / 學術**                   | **≥ 15** | 國際視角 + triangulation；攻擊「57% 報告英文來源 = 0」的系統性缺口 |
+| **一手**（官方/政府/年報/法規/學術論文） | ≥ 12     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
 | **反方 / 批評**（perspective scan）      | ≥ 5      | 跨陣營對立 spectrum，落 `rationale.whats_excluded`                 |
 
-> **v6.4 升級理由**（2026-06-04）：量測 226 份歷史 report — **57% 英文/國際/學術來源 = 0、42% distinct 來源 ≤ 10**。對標 gold standard [毒馬鈴薯認知作戰.md](../../reports/research/2026-04/毒馬鈴薯認知作戰.md)（85 來源 / 1,699 行 / §1-§N 分章 / 每 claim 標信度）vs 退化後的 synthesized fact-pack（~200 行）差近 9 倍。哲宇 directive「搜尋總數 80+、對標研究所論文標準」。**這 4 條配額由 `research-report-health.py` 儀器化驗收**（en==0 / primary==0 = HARD），不是 aspirational。
+> **v9.1 收斂理由**（2026-08-15 哲宇 directive「分頭 search 要求降低到 100」）：v6.4 的
+> 「≥80 下限、超跑光榮」文化讓實際搜尋量膨脹到 200-245 次；量測顯示**品質不隨量升**——
+> 4-6 月 100-120 次時代的報告（justfont 651 行零 meta-noise）養出的文章比 245 次時代的
+> 好。多樣性配額保留（它防單源依賴，跟總量無關），總量改天花板制。
+>
+> **v6.4 歷史**（2026-06-04）：量測 226 份歷史 report — 57% 英文來源 = 0、42% distinct ≤ 10，
+> 哲宇 directive「搜尋總數 80+、對標研究所論文標準」把下限從 40 提到 80。**「對標論文」的
+> 正解是信度結構（每 claim 標信度、一手可溯、negative findings 誠實），不是行數與搜尋次數**
+> ——毒馬鈴薯 gold standard 的厚是事實密度的厚，不是過程敘事的厚。4 條配額仍由
+> `research-report-health.py` 儀器化驗收（en==0 / primary==0 = HARD）。
 
-- 研究深度直接決定文章品質——40 次仍會留單源依賴風險，80 次才有 triangulation 餘裕、找到反方、挖到非 Wikipedia 層級的具體錨點（引語、場景、日期）
 - **多語系不是 nice-to-have**：英文/國際來源是 default 不是例外。真正只有中文來源的題目（極在地的兩岸/戒嚴細節）→ 在 §搜尋日誌 明寫「本題英文來源稀少，因為 X」，不要靜默跳過（對應 research-report-health en==0 HARD）
 
-> ⚠️ **≥80 是 fan-out aggregate，不是單 agent 串行能達到的**（2026-06-04 v2 實驗實證）：minimal-guidance 單一 Opus research agent 串行只跑到 ~36 次就接近 token 上限。**要達 80+ 必須照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent**（按 §A/§B/§C/§D 子領域切，每 agent ~20-30 次，aggregate ≥80），orchestrator 合 §8 raw + §6 fact-pack。單 agent 自跑只適合 standard tier（≥40）；硬要 depth ≥80 而不 fan-out → 在 §未達標誠實說明 記缺口，不灌水硬湊。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數的硬達標**。
+> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**每 agent 配額 15-20 次、prompt 明寫到量即收**，aggregate ~70-80）。單 agent 自跑適合 standard tier（~40）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**。
 
 **v5.1 升級理由**（2026-05-11 cranky-newton）：v2.17 訂 ≥ 20 是相對 12 次淺研究的下限。實戰累積後（NMTH Fresh / 政治人物 batch / 認知作戰深度文）顯示 20 次仍會留下「單源依賴」風險（同一篇 ltn 報導被 5 atom 綁住 = over-citing 紅旗），40 次才開始有 triangulation 空間。
 
