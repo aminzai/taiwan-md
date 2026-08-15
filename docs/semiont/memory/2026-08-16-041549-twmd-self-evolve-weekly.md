@@ -34,7 +34,7 @@ Full mode，`wake-context.py` 完整讀到 `wake:END` sentinel（227,831 bytes /
 
 **決定不 ship 的部分**：沒有新造一個通用「登記檢查器」腳本。vc=4 是四個異質 instance（routine 表、計數機制、臨場分類、週報章節），彼此的「登記表」形態完全不同，沒有共同的機械可檢查對象。已有機械對賬的子案例（routine-sync-check.py 連續 22+ 輪零漂移、instrumentation-audit.py CI gate）本身健康，不需要疊加。強行造一個跨域儀器會重演 2026-05-28「儀器化也會 over-engineer」的教訓（MEMORY §神經迴路同日條目：ROUTINE-PROMPT-CONTRACT v1.0 把 inline guidance 抽成 meta pointer 反而讓 5 種 fix-未發生 pattern 蔓延），這次判斷是本 session Stage 4 的 anti-bias check 現場 apply，不是事後合理化。
 
-Commit：`{COMMIT_HASH}`（`🧬 [semiont] evolve: 建造與登記是兩個不同步的代謝，升 REFLEXES #91`），push origin main。
+Commit：`bf8949a0f`（`🧬 [routine] evolve: 建造與登記是兩個不同步的代謝，升 REFLEXES #91`），push origin main。
 
 ## 收官 checklist
 
