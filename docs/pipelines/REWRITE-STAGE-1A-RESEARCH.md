@@ -1,6 +1,6 @@
 ---
 title: 'REWRITE-STAGE-1A-RESEARCH'
-description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋 ≥80 配額 / 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 來源逐條可溯'
+description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋配額天花板制（全篇 ~150）/ 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 整合與清理六判準'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
 current_version: 'v9.2'
@@ -107,7 +107,7 @@ upstream_canonical:
 
 **v2.17 原版觸發**：2026-04-18 當日 11 篇音樂人批次中，12-15 次搜尋的 Cicada / 草東 / 康士坦 / 魏如萱 雖然 pass format-check，但小標題淪為編年史，缺乏場景/意象級的敘事錨點，研究深度是根本原因。
 
-**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。80 次搜尋的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
+**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。fan-out 配額（~120-130）的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
 
 ### Step 1.2: 結尾素材鎖定
 

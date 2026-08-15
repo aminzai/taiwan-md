@@ -15,7 +15,7 @@ sister_docs:
 audience: 'orchestrator-session-spawning-research-agents'
 ---
 
-# RESEARCH-AGENT-PROMPT.md — 研究 sub-agent 通用派發模板 v2.0
+# RESEARCH-AGENT-PROMPT.md — 研究 sub-agent 通用派發模板 v2.1
 
 > **為什麼存在**（2026-07-12 台灣茶文化 panorama，哲宇 directive「從源頭解決」）：每個 session spawn 研究 agent 時即興手寫 prompt → 格式立刻飄移。該次即興 prompt 寫了「每 finding 標【來源】URL」，agent 在多來源場景自行發明「WebSearch 綜合（站名、站名）」aggregate 寫法——84 條來源行僅 ~35% 帶 URL，footnote 斷源；同時自創「三塊各一 section」結構，五段骨架與收件儀器全對不上。**Prompt 即興 = 每次重新思考 = 每次重新犯錯。** 本檔是唯一的 spawn prompt SSOT：copy 整塊 → 填 `{SLOT}` → spawn。
 >
