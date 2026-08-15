@@ -320,3 +320,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-09 | 093410-twmd-flywheel-watch | 飛輪零靜默零警報（24hr 90 commit／18 筆 routine 標記／12 條有動靜）；兩條繼承 handoff 結清：註 ²⁰ 的 worktree 收官路徑首次被下個 session 照做，產線落地端也恢復推送 | commit 總數今天暴增七倍全來自巴別塔產線，量體不是飛輪轉速 | [→](memory/2026-08-09-093410-twmd-flywheel-watch.md) |
 | 2026-08-09 | 211904-twmd-routine-audit-weekly | W32 飛輪自審：683 commit／31 heal／0 碰撞；分類器誤歸類確認波及多數 routine（vc1→2），session-id 檔名漂移第三例達 distill 門檻（vc2→3），新記閘門誘因教訓 | 稽核工具的可信度跟飛輪一樣要跨週累積驗證，一次審計看不出形狀 | [→](memory/2026-08-09-211904-twmd-routine-audit-weekly.md) |
 | 2026-08-09 | 212609-vi-delegation-wave | 越南語委派五批 344 篇落地，vi 43.2%→81.8%；三支新儀器＋兩支既有儀器的死豁免修復 | 閘門假陽性會誘導 agent 改內容換綠燈，禁令擋不住要拆誘因；遮罩規則會破壞後續規則的錨點 | [→](memory/2026-08-09-212609-vi-delegation-wave.md) |
+| 2026-08-14 | 120739-twmd-pr1336-review | 唐鳳首次投稿的 CJK 粗體引擎修正 merge；順線修掉閘門拿文章的尺量 Hub 檔、補上十一語系第一支結構檢查 fence-prose、MAINTAINER 補「這個 PR 的 CI 有沒有被 arm」那一步 | 沒有紅燈不是綠燈——訊號不存在比訊號說謊難防，因為沒有東西可以懷疑 | [→](memory/2026-08-14-120739-twmd-pr1336-review.md) |
+| 2026-08-15 | 095913-manual | 文策院走到投影藍圖（Stage 0→1A→1B→2.0 全過 gate）；哲宇 callout 研究報告充滿待驗證結論後轉產線進化：斷代量測十九份報告、事實層與過程層分離、搜尋量改天花板制 | 報告的文體會變成文章的文體；同樣的數字寫「下限」與「配額到量即收」產出的行為完全不同 | [→](memory/2026-08-15-095913-manual.md) |
