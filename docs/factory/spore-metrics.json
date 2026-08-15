@@ -7061,6 +7061,18 @@
       "source": "threads"
     },
     {
+      "spore": 170,
+      "dPlus": 5,
+      "at": "2026-08-16 06:39",
+      "batch": "batch-2026-08-16-2-spores",
+      "views": 1336,
+      "likes": 89,
+      "reposts": 4,
+      "comments": 0,
+      "shares": 1,
+      "source": "manual"
+    },
+    {
       "spore": 171,
       "dPlus": 1,
       "at": "2026-08-12 06:40",
@@ -7107,6 +7119,18 @@
       "comments": 4,
       "shares": 60,
       "source": "x"
+    },
+    {
+      "spore": 171,
+      "dPlus": 5,
+      "at": "2026-08-16 06:39",
+      "batch": "batch-2026-08-16-2-spores",
+      "views": 24000,
+      "likes": 351,
+      "reposts": 52,
+      "comments": 4,
+      "shares": 60,
+      "source": "manual"
     }
   ]
 }

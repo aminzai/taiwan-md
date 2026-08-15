@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T22:12:10.703199Z",
+  "lastUpdated": "2026-08-15T22:39:40.309620Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 161,
@@ -49,7 +49,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Db591ugI6tB",
       "highlight": "v1.15.0 release 孢子 — 長出複眼：十二語 +3,089 譯文 vs 讀者一句「怪怪的」，複眼人意象收尾",
       "views_7d": null,
-      "views_latest": 1332,
+      "views_latest": 1336,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -305,7 +305,7 @@
     {
       "week": "2026-W33",
       "published": 2,
-      "avgViews": 12666
+      "avgViews": 12668
     }
   ],
   "harvestStatus": [
@@ -1906,8 +1906,8 @@
       "publishDate": "2026-08-11",
       "daysSincePublish": 5,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-08-15 06:39"
+      "harvestCount": 5,
+      "lastHarvest": "2026-08-16 06:39"
     },
     {
       "n": 171,
@@ -1916,8 +1916,8 @@
       "publishDate": "2026-08-11",
       "daysSincePublish": 5,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-08-15 06:39"
+      "harvestCount": 5,
+      "lastHarvest": "2026-08-16 06:39"
     }
   ]
 }
