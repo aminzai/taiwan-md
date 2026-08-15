@@ -15,7 +15,7 @@ sister_docs:
 audience: 'orchestrator-session-spawning-research-agents'
 ---
 
-# RESEARCH-AGENT-PROMPT.md — 研究 sub-agent 通用派發模板 v1.0
+# RESEARCH-AGENT-PROMPT.md — 研究 sub-agent 通用派發模板 v2.0
 
 > **為什麼存在**（2026-07-12 台灣茶文化 panorama，哲宇 directive「從源頭解決」）：每個 session spawn 研究 agent 時即興手寫 prompt → 格式立刻飄移。該次即興 prompt 寫了「每 finding 標【來源】URL」，agent 在多來源場景自行發明「WebSearch 綜合（站名、站名）」aggregate 寫法——84 條來源行僅 ~35% 帶 URL，footnote 斷源；同時自創「三塊各一 section」結構，五段骨架與收件儀器全對不上。**Prompt 即興 = 每次重新思考 = 每次重新犯錯。** 本檔是唯一的 spawn prompt SSOT：copy 整塊 → 填 `{SLOT}` → spawn。
 >
@@ -31,7 +31,7 @@ audience: 'orchestrator-session-spawning-research-agents'
 
 - **Search**：`BraveSearch` → `SerperSearch` cascade（讀 `~/.config/taiwan-md/credentials/.env` 的 `BRAVE_API_KEY` / `SERPER_API_KEY`）
 - **Fetch**：`MojLawFetch`（全國法規資料庫專用 parser，逐條 verbatim + 條號，零 LLM 成本——**這是本次真正解掉的痛點**：WebFetch 對 law.moj.gov.tw 有 125 字截斷政策 + PDF 二進位解析失敗，四份 Sonnet 研究報告全部卡在這裡）→ `JinaFetch`（`r.jina.ai` 通用 fallback，含 PDF／JS render）
-- **Digest**（2026-07-24 補完）：`OpenRouterDigest`（免費層，key rotation 沿用 lang-sync 同一組 `~/.config/taiwan-md/credentials/openrouter.key` + `openrouter-keys/*.key`）→ `OllamaDigest`（本機 GPU，沿用 lang-sync `backends/ollama.py` 的 `num_ctx` 動態估算，防止靜默截斷）。把 `batch` 產出的 raw 逐一丟進 digest cascade，輸出跟 Path A agent 同格式的 markdown（【來源】/【逐字】/【信度】/【falsify 註記】），直接餵 `agent-report-health.py`。
+- **Digest**（2026-07-24 補完）：`OpenRouterDigest`（免費層，key rotation 沿用 lang-sync 同一組 `~/.config/taiwan-md/credentials/openrouter.key` + `openrouter-keys/*.key`）→ `OllamaDigest`（本機 GPU，沿用 lang-sync `backends/ollama.py` 的 `num_ctx` 動態估算，防止靜默截斷）。把 `batch` 產出的 raw 逐一丟進 digest cascade，輸出跟 Path A agent 同格式的 markdown（【來源】/【逐字】/【信度】；v2.0 起【falsify 註記】已自契約移除，fleet digest 的輸出模板待同步），直接餵 `agent-report-health.py`。
 
 用法：
 
@@ -82,7 +82,7 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 
 ## Orchestrator 派發 SOP（四步）
 
-1. **切子領域**：depth 文按子題切 N 個 agent（每 agent 搜尋配額 ~20-30，aggregate ≥ 80 per [Step 1.1](REWRITE-STAGE-1A-RESEARCH.md#step-11-搜尋深度--80-次v64含來源多樣性配額)）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
+1. **切子領域**：depth 文按子題切 N 個 agent（**每 agent 搜尋配額 15-20、到量即收，aggregate ~70-80、硬上限 100** per [Step 1.1 v9.1](REWRITE-STAGE-1A-RESEARCH.md)）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
 2. **填槽**（速查表見下）→ **copy 通用模板整塊**，只動 `{SLOT}`，**禁增刪改寫規則文字**。Anti-example 至少帶 2 條（從 §Anti-example 庫挑最近／最像的——sub-agent 是 pattern matcher，反例比規則有效）。
 3. **Spawn**：`general-purpose` + Sonnet（breadth+extract 夠用；contested atom 的複查才 escalate Opus）。Explore 是 read-only 不能落檔，研究 agent 一律 general-purpose。
 4. **收件**：走 [Step 1.8-bis 三步](REWRITE-STAGE-1A-RESEARCH.md#step-18-bis-async-agent-時代的-raw-保全-sopv772026-07-05-️)——先驗檔案真的存在於 repo（agent 宣稱 ≠ 存在，不存在就把 notification `<result>` verbatim 代寫），再跑收件 gate，FAIL 不准合成：
@@ -93,17 +93,17 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 
 ## 填槽速查表
 
-| 槽                                                | 填什麼                                              | 範例                                              |
-| ------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------- |
-| `{TOPIC}`                                         | 文章主題一句話                                      | 台灣茶文化 100 年縱觀                             |
-| `{ARTICLE_SLUG}`                                  | `knowledge/{Cat}/{slug}.md` 的 slug                 | 台灣茶文化                                        |
-| `{AGENT_LETTER}`                                  | 分部代號                                            | A / B / C / D                                     |
-| `{SUBTOPIC_SCOPE}`                                | 該 agent 負責的子領域一句話                         | 古典茶根源＋茶藝復興運動                          |
-| `{QUESTION_LIST}`                                 | 要挖的問題清單（含要 falsify 的預設假設，逐條）     | 「茶藝」一詞 1977 婁子匡說——查證或推翻            |
-| `{QUOTA}`                                         | 該 agent 搜尋下限（WebSearch+WebFetch 合計）        | 20-30                                             |
-| `{EN_QUOTA}` / `{PRIMARY_QUOTA}` / `{OPPO_QUOTA}` | 英文／一手／反方配額（per Step 1.1 比例縮放）       | 5 / 4 / 2                                         |
-| `{OUT_PATH}`                                      | `reports/research/{YYYY-MM}/{slug}-research-{X}.md` | reports/research/2026-07/台灣茶文化-research-D.md |
-| `{ANTI_EXAMPLES}`                                 | 從 §Anti-example 庫挑 ≥2 條貼上                     | 見下                                              |
+| 槽                                                | 填什麼                                                               | 範例                                              |
+| ------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- |
+| `{TOPIC}`                                         | 文章主題一句話                                                       | 台灣茶文化 100 年縱觀                             |
+| `{ARTICLE_SLUG}`                                  | `knowledge/{Cat}/{slug}.md` 的 slug                                  | 台灣茶文化                                        |
+| `{AGENT_LETTER}`                                  | 分部代號                                                             | A / B / C / D                                     |
+| `{SUBTOPIC_SCOPE}`                                | 該 agent 負責的子領域一句話                                          | 古典茶根源＋茶藝復興運動                          |
+| `{QUESTION_LIST}`                                 | 要挖的問題清單（含要 falsify 的預設假設，逐條）                      | 「茶藝」一詞 1977 婁子匡說——查證或推翻            |
+| `{QUOTA}`                                         | 該 agent 搜尋配額（WebSearch+WebFetch 合計；**天花板制，到量即收**） | 15-20                                             |
+| `{EN_QUOTA}` / `{PRIMARY_QUOTA}` / `{OPPO_QUOTA}` | 英文／一手／反方配額（per Step 1.1 比例縮放）                        | 4 / 3 / 2                                         |
+| `{OUT_PATH}`                                      | `reports/research/{YYYY-MM}/{slug}-research-{X}.md`                  | reports/research/2026-07/台灣茶文化-research-D.md |
+| `{ANTI_EXAMPLES}`                                 | 從 §Anti-example 庫挑 ≥2 條貼上                                      | 見下                                              |
 
 ---
 
