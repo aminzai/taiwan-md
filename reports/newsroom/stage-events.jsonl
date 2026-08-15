@@ -770,3 +770,5 @@
 {"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "verify", "status": "in-progress", "source": "observed"}
 {"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "b6a6a056911e"}
 {"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗-v3-retired", "stage": "projection", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-15T07:28:35Z", "slug": "台灣證券交易所", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-15T07:28:35Z", "slug": "台灣證券交易所", "stage": "research", "status": "done", "source": "observed"}
