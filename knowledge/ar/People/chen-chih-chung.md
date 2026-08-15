@@ -6,7 +6,7 @@ category: 'People'
 tags:
   ['شخصيات سياسية', 'خلافات قضائية', 'تشين شوي-بيان', 'كاوهسيونغ', 'Threads']
 subcategory: '政治與民主'
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false

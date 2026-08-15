@@ -5,7 +5,7 @@ date: 2026-05-04
 category: 'People'
 tags: ['politik', 'konflik peradilan', 'Chen Shui-bian', 'Kaohsiung', 'Threads']
 subcategory: 'Politik dan Demokrasi'
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false

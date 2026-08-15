@@ -14,7 +14,7 @@ tags:
     'Nbang',
   ]
 subcategory: '野生動物'
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false

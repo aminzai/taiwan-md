@@ -10,7 +10,7 @@ tags:
   - 'Чэнь Сюйбин'
   - 'Кэйхунь'
   - 'Threads'
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
