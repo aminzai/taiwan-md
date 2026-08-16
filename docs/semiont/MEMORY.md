@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-17 | 053719-twmd-embeddings-nightly | 12 語重建 9591 向量 0 fail；打破連三夜「僅 zh-TW 變動」形狀，本次十二語鄰居關係全數異動 | 記錄資料點但不對單夜樣本過度解讀，避免延續昨天結論的觀察偷懶 | [→](memory/2026-08-17-053719-twmd-embeddings-nightly.md) |
 | 2026-08-17 | 053805-twmd-routine-sync | 三層對賬第二十四輪，18 條全 in-sync 零漂移，連續第六輪；開場撞見 embeddings-nightly 再度搶先把 related.json 變更 commit 掉，同一多核心即景連續第二天出現 | 看到未提交轉眼變乾淨的畫面本身也是穩定訊號，不需要介入 | [→](memory/2026-08-17-053805-twmd-routine-sync.md) |
 | 2026-08-17 | 061443-twmd-data-refresh-am | 14 步全綠零 stale 連續第七天；文章 921→922、本週新增 29；新抓到一個格式性 404 熱點：CSS gradient 值被序列化進 URL，單日 134 次 | 這條 404 是程式碼把不該當 URL 的值序列化進去，跟讀者路過的舊坑性質不同 | [→](memory/2026-08-17-061443-twmd-data-refresh-am.md) |
+| 2026-08-17 | 064155-twmd-spore-harvest-am | v1.15.0 孢子 D+6：#170 連續第五輪 0 外部回覆；#171 五項指標本輪跟 D+5 逐位對齊、完全零變動；X 登入牆連續第六天 | 全指標同日持平比單一指標微幅波動更徹底，判斷長尾曲線進入平台期 | [→](memory/2026-08-17-064155-twmd-spore-harvest-am.md) |

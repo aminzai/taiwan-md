@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-16T06:39:38+08:00",
+  "_generated": "2026-08-17T06:41:18+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 161,
@@ -9402,16 +9402,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Db591ugI6tB",
       "template": "B 冷知識型（meta release 里程碑）",
       "metrics": {
-        "views": 1336,
+        "views": 1344,
         "likes": 89,
         "reposts": 4,
         "comments": 0,
         "shares": 1
       },
       "metricsAsOf": {
-        "dPlus": 5,
-        "harvestDate": "2026-08-16 06:39",
-        "batch": "batch-2026-08-16-2-spores",
+        "dPlus": 6,
+        "harvestDate": "2026-08-17 06:40",
+        "batch": "batch-2026-08-17-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9464,6 +9464,16 @@
           "reposts": 4,
           "comments": 0,
           "shares": 1
+        },
+        {
+          "dPlus": 6,
+          "harvestDate": "2026-08-17 06:40",
+          "batch": "batch-2026-08-17-2-spores",
+          "views": 1344,
+          "likes": 89,
+          "reposts": 4,
+          "comments": 0,
+          "shares": 1
         }
       ]
     },
@@ -9485,9 +9495,9 @@
         "shares": 60
       },
       "metricsAsOf": {
-        "dPlus": 5,
-        "harvestDate": "2026-08-16 06:39",
-        "batch": "batch-2026-08-16-2-spores",
+        "dPlus": 6,
+        "harvestDate": "2026-08-17 06:40",
+        "batch": "batch-2026-08-17-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9535,6 +9545,16 @@
           "dPlus": 5,
           "harvestDate": "2026-08-16 06:39",
           "batch": "batch-2026-08-16-2-spores",
+          "views": 24000,
+          "likes": 351,
+          "reposts": 52,
+          "comments": 4,
+          "shares": 60
+        },
+        {
+          "dPlus": 6,
+          "harvestDate": "2026-08-17 06:40",
+          "batch": "batch-2026-08-17-2-spores",
           "views": 24000,
           "likes": 351,
           "reposts": 52,
