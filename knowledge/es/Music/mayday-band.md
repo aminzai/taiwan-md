@@ -1,6 +1,6 @@
 ---
 title: 'Mayday'
-description: 'En 1997, cinco estudiantes de secundaria del Affiliated Senior High School of National Taiwan Normal University se inscribieron en el festival野台開唱 usando sus alias de BBS. Treinta años después, vendieron 320.000 entradas en diez minutos en el Taipei Dome, cantaron 30 veces en el Nido de Pájaro de Pekín, y también pronunciaron desde ese mismo escenario cuatro palabras que rompieron el corazón de los taiwaneses.'
+description: 'En 1997, cuatro estudiantes de secundaria del Affiliated Senior High School of National Taiwan Normal University se inscribieron en el festival野台開唱 usando sus alias de BBS. Treinta años después, vendieron 320.000 entradas en diez minutos en el Taipei Dome, cantaron 30 veces en el Nido de Pájaro de Pekín, y también pronunciaron desde ese mismo escenario cuatro palabras que rompieron el corazón de los taiwaneses.'
 category: Music
 tags:
   [
@@ -34,7 +34,7 @@ featured: false
 
 El 7 de julio de 1999, una cola interminable se formó frente a las tiendas de discos en Ximending, Taipéi. Se lanzó oficialmente un CD titulado _Primer álbum de estudio de Mayday_ (ni siquiera se molestaron en buscarle un nombre creativo) [^1]. La mayoría de quienes compraban el disco eran adolescentes de secundaria que no sabían que lo que tenían en las manos reescribiría las reglas comerciales de toda la industria musical china en las siguientes tres décadas.
 
-## Cinco chicos del Affiliated Senior High School of National Taiwan Normal University
+## Cuatro chicos del mismo instituto, y un baterista que llegó dos años después
 
 La historia de Mayday comienza en un instituto. En 1995, en el Affiliated Senior High School of National Taiwan Normal University de Taipéi, Ashin (Chen Hsin-hong, de Beitou, nacido en 1975) y Monster (Wen Shang-yi, de Hsinchu, nacido en 1976) se conocieron en el club de guitarra [^2]. Ambos reclutaron a compañeros de clase para formar «So Band», ensayando en un sótano. Ashin se encargaba de la voz, Monster tocaba la guitarra; más tarde, Masha (Tsai Sheng-yan, de Kaohsiung, nacido en 1977) asumió el bajo, y Shih Tou (Shih Chin-hang, de Taipéi, nacido en 1975) completó la segunda guitarra [^3].
 

@@ -1,6 +1,6 @@
 ---
 title: 'Mayday'
-description: 'Năm 1997, năm học sinh trung học Đài Bắc người Việt đã báo danh tại cuộc biểu diễn nhạc sử dụng tên từ BBS. Ba mươi năm sau, họ bán hết 320.000 vé cho cuộc diễn ở sân vận động Đài Bắc trong vòng 10 phút, biểu diễn 30 trận tại sân chim ưng Bắc Kinh, nhưng cũng nói ra bốn chữ làm tan vỡ trái tim người Đài Loan trên cùng một sân khấu.'
+description: 'Năm 1997, bốn học sinh trung học Sư phạm Đài Bắc đã báo danh tại cuộc biểu diễn nhạc sử dụng tên từ BBS. Ba mươi năm sau, họ bán hết 320.000 vé cho cuộc diễn ở sân vận động Đài Bắc trong vòng 10 phút, biểu diễn 30 trận tại sân chim ưng Bắc Kinh, nhưng cũng nói ra bốn chữ làm tan vỡ trái tim người Đài Loan trên cùng một sân khấu.'
 date: 2026-03-23
 category: 'Music'
 tags:
@@ -34,7 +34,7 @@ translatedAt: '2026-08-09T12:06:28+08:00'
 
 Vào ngày 7 tháng 7 năm 1999, ngoài các cửa hàng đĩa ở Tây Môn Đức, Đài Bắc xếp hàng dài vô tận. Một đĩa CD có tên là "Mayday Bản ghi âm sáng tác đầu tiên" (thậm chí tên album cũng không bận tâm đặt tên) chính thức phát hành [^1]. Phần lớn những người mua đĩa là học sinh trung học mười mấy tuổi, họ không biết rằng thứ mà họ nắm tay sẽ viết lại toàn bộ các quy luật thương mại của ngành công nghiệp âm nhạc tiếng Hoa trong ba mươi năm tiếp theo.
 
-## Năm học sinh của Đại học Sư phạm Đài Bắc
+## Bốn học sinh cùng một trường trung học, và một tay trống đến muộn hai năm
 
 Câu chuyện Mayday phải bắt đầu từ một trường trung học. Năm 1995, tại Trường Trung học Sư phạm Thành phố Đài Bắc, Nguyên Tùng Hùng (Trần Tín Hùng, người Bắc Đầu, sinh năm 1975) và Quái Thú (Uẩn Thượng Dịch, người Tân Trúc, sinh năm 1976) gặp nhau ở câu lạc bộ guitar [^2]. Hai người kéo theo bạn cùng lớp tổ chức "So Band", luyện tập ở tầng hầm. Nguyên Tùng Hùng chịu trách nhiệm hát, Quái Thú đàn guitar, sau đó Mã Tây (Thái Thăng Yên, người Cao Hùng, sinh năm 1977) đảm nhận bass, Thạch Đầu (Thạch Cẩm Hàng, người Đài Bắc, sinh năm 1975) thêm vào chiếc guitar thứ hai [^3].
 

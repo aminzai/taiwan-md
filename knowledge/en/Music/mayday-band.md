@@ -1,6 +1,6 @@
 ---
 title: 'Mayday'
-description: "In 1997, five Affiliated High School students signed up for a music festival using a BBS username. Thirty years later they sold 320,000 tickets to Taipei Dome in ten minutes, played 30 shows at Beijing's Bird's Nest — and at that same stage said four words that broke Taiwan's heart."
+description: "In 1997, four Affiliated High School students signed up for a music festival using a BBS username. Thirty years later they sold 320,000 tickets to Taipei Dome in ten minutes, played 30 shows at Beijing's Bird's Nest — and at that same stage said four words that broke Taiwan's heart."
 category: 'Music'
 tags:
   - 'Mayday'
@@ -31,7 +31,7 @@ featured: false
 
 On July 7, 1999, a line stretched endlessly outside a record store in Taipei's Ximending district. A CD called _Mayday's First Album_ (they didn't even bother giving it a proper name) was officially released [^1]. Most buyers were teenagers. They had no idea that what they held in their hands would rewrite the commercial rules of the entire Mandarin music industry for the next three decades.
 
-## Five Kids from Five Taiwanese Cities
+## Four Kids from One High School, and a Drummer Who Came Two Years Late
 
 Mayday's story starts at a high school. In 1995, at Taipei Municipal Affiliated Senior High School, Ashin (陳信宏, born in Beitou, Taipei, 1975) and Monster (溫尚翊, born in Hsinchu, 1976) met in the guitar club [^2]. They pulled together classmates to form "So Band," rehearsing in basements. Ashin sang, Monster played guitar. Later, Masa (蔡昇晏, born in Kaohsiung, 1977) picked up the bass, and Stone (石錦航, born in Taipei, 1975) filled in as second guitarist [^3].
 

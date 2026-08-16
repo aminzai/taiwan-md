@@ -1,6 +1,6 @@
 ---
 title: 'Mayday'
-description: 'Em 1997, cinco estudantes da Affiliated Senior High School of National Taiwan Normal University subiram ao palco de um festival usando um codinome de BBS. Trinta anos depois, esgotaram 320 mil ingressos no Taipei Dome em dez minutos, fizeram 30 shows no Ninho de Pássaro de Pequim, mas também disseram no mesmo palco as quatro palavras que partiram o coração dos taiwaneses.'
+description: 'Em 1997, quatro estudantes da Affiliated Senior High School of National Taiwan Normal University subiram ao palco de um festival usando um codinome de BBS. Trinta anos depois, esgotaram 320 mil ingressos no Taipei Dome em dez minutos, fizeram 30 shows no Ninho de Pássaro de Pequim, mas também disseram no mesmo palco as quatro palavras que partiram o coração dos taiwaneses.'
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Music'
@@ -33,7 +33,7 @@ translatedAt: '2026-07-25T17:25:36+08:00'
 
 A 7 de julho de 1999, formava-se uma fila interminável diante das lojas de discos de Hsimenting, em Taipé. Um CD chamado _Primeiro Álbum de Criações do Mayday_ (nem nome de álbum propriamente dito tinham) era lançado oficialmente [^1]. Quem comprava eram sobretudo adolescentes de ensino médio. Não sabiam que seguravam nas mãos algo que, nos trinta anos seguintes, reescreveria as regras comerciais de toda a indústria musical de língua chinesa.
 
-## Cinco garotos da Affiliated Senior High School of National Taiwan Normal University
+## Quatro garotos do mesmo colégio, e um baterista que chegou dois anos depois
 
 A história do Mayday começa numa escola secundária. Em 1995, na Affiliated Senior High School of National Taiwan Normal University (師大附中), Ashin (Chen Xin-hong, nascido em Peitou, 1975) e Monster (Wen Shang-i, nascido em Hsinchu, 1976) conheceram-se no clube de guitarra [^2]. Juntaram colegas e formaram a «So Band», ensaiando num porão. Ashin cantava, Monster tocava guitarra; depois Masa (Tsai Sheng-yen, nascido em Kaohsiung, 1977) assumiu o baixo e Stone (Shih Chin-hang, nascido em Taipé, 1975) entrou como segundo guitarrista [^3].
 

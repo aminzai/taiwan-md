@@ -1,6 +1,6 @@
 ---
 title: 'Mayday — Le groupe qui a réinventé le rock mandarin'
-description: "En 1997, cinq lycéens de Taipei se sont inscrits à un festival underground avec un pseudonyme BBS. Trente ans plus tard, ils ont écoulé 320 000 billets en dix minutes à la grande salle de Taipei, rempli le Nid d'Oiseau de Pékin trente fois — et prononcé quatre mots qui ont brisé le cœur de Taïwan."
+description: "En 1997, quatre lycéens de Taipei se sont inscrits à un festival underground avec un pseudonyme BBS. Trente ans plus tard, ils ont écoulé 320 000 billets en dix minutes à la grande salle de Taipei, rempli le Nid d'Oiseau de Pékin trente fois — et prononcé quatre mots qui ont brisé le cœur de Taïwan."
 category: Music
 tags:
   [
@@ -34,7 +34,7 @@ translatedAt: '2026-04-15T17:32:16+08:00'
 
 Le 7 juillet 1999, devant les disquaires du quartier Ximending à Taipei, une file d'attente s'étirait à perte de vue. Un CD intitulé _Premier album de compositions de Mayday_ — le groupe n'avait même pas cherché de vrai titre — venait de sortir [^1]. Ceux qui faisaient la queue étaient pour la plupart des lycéens. Ils ignoraient que ce qu'ils tenaient entre les mains allait, au cours des trente années suivantes, réécrire les règles commerciales de toute l'industrie musicale sinophone.
 
-## Cinq gamins du même lycée
+## Quatre gamins du même lycée, et un batteur arrivé deux ans plus tard
 
 L'histoire de Mayday commence dans un établissement scolaire. En 1995, au lycée Shida Fuzhong de Taipei, Ashin (陳信宏, originaire de Beitou, né en 1975) et Monster (溫尚翊, originaire de Hsinchu, né en 1976) se rencontrent au club de guitare [^2]. Ils recrutent des camarades pour former le groupe « So Band » et s'entraînent dans un sous-sol. Ashin chante, Monster joue de la guitare ; bientôt Masa (蔡昇晏, originaire de Kaohsiung, né en 1977) prend la basse, et Stone (石錦航, originaire de Taipei, né en 1975) vient doubler à la guitare [^3].
 
