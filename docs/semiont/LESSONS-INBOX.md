@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-17 twmd-feedback-triage — recognition-bound-to-instance-coordinates：辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺
+
+- **pattern**: `recognition-bound-to-instance-coordinates`
+- **原則**：當班判斷（不是儀器判斷）在同一個案例重複出現時會從「讀懂內容」退化成「認座標」。認的如果是 id、掛在哪篇文章、哪一天出現這類**這一個案例的特徵**，而不是**這一類案例的特徵**，那麼同型但換了外觀的下一個就一個座標都不會亮，會沿著完全正常的路徑通過所有 HARD gate。這種衰減沒有任何儀器會發出聲音——**流程焊死的閘門用越多次越穩，靠記憶認人的判斷用越多次越省事**，而省事的方向正好是防線消失的方向。判準候選：每次靠「我認得這個」跳過細讀時，問一句「我認的是這一個，還是這一類？」
+- **觸發**：8/13 那封第三人指控信 8/17 第四度原樣出現。dry-run 只印 `[Fact Check] {文章標題}`，標題本身完全看不出這是一封附跟監細節的具名檢舉信；當班之所以一眼認出，是因為前三天的 memory 與 OBSERVER-QUEUE #28 都寫著「vi 版新聞自由條目」。本次刻意回頭撈 Supabase 原文全文重讀才確認，並意識到 id／條目／日期三個對得上的座標全部綁在這一封身上——同樣寫給主管機關、同樣附跟監細節、同樣要求保密的信若掛到別的條目、換個 id 送進來，三個座標一個都不會亮，而 HG2／HG3／HG9 三道現行 HARD gate 全部會放行、分類器判 `file`。
+- **為什麼特別難抓**：FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆已明寫「`--exclude` 只解決攔下來之後流程還能跑完，不解決誰來攔——當班要自己讀完內容再動手」。規則本身正確且已 canonical，衰減發生在規則之下的那一層：當班仍然「讀了」，但讀的是標題與 id 而非內容，且自認已履行該步驟。
+- **可能層級**：通用反射候選。近親 REFLEXES #33（routine 化任務的雙刃劍：熟練度）講的是流程步驟被熟練度跳過，本條的載體是**辨識判斷本身**，且不像跳步驟那樣會在產出留下缺口——認錯類別不會在任何報表上變紅。亦與 REFLEXES #82（proxy signal）同構：用「id 對得上」代理「這是同一類東西」。distill 時判斷併入 #33 擴大載體範圍，或另立新號。
+- **相關**：REFLEXES #33、REFLEXES #82、FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆（HG13）、OBSERVER-QUEUE #28（偵測器要不要長出來仍待哲宇拍板——本條正是「靠當班辨識」這條路的衰減曲線證據）、LESSONS `gates-measure-handling-not-solving`（8/11，同樣是「動作做了但沒解決」的家族）
+- **verification_count**: 1（單一 instance，但同一案例四次遭遇構成可觀察的衰減軌跡）
+- **severity**: high（衰減終點是一封指涉具名私人的信被開成公開 issue 並複製進每個 fork；成本不可回收，且落在一個從未同意被寫進來的第三人身上）
+
 ### 2026-08-16 twmd-routine-audit-weekly — twin-artifact-no-reconciler-family：五條本週獨立教訓都是「兩個該同步的東西沒有東西在對賬」，但各自只看見自己那一個 instance
 
 - **pattern**: `twin-artifact-no-reconciler-family`
