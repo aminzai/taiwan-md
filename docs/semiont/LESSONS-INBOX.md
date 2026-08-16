@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.7'
 last_updated: 2026-08-16
-last_session: '2026-08-16-031153-twmd-distill-weekly（§未消化 40→32：8 條 distill — 5 promote REFLEXES 新 #86-#90 + 2 fold #66/#67 + 1 MEMORY §神經迴路；4 條達 vc≥3 量門檻、5 條達 severity=structural 質門檻，1 條兩者皆中）'
+last_session: '2026-08-16-twmd-routine-audit-weekly（W33 飛輪自審：1 新 entry `twin-artifact-no-reconciler-family` vc=5 distill-ready + 1 既有 entry `routine-audit-classifier-memory-commit-misattribution` vc 2→3 distill-ready，第三輪連續確認未修）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-16 twmd-routine-audit-weekly — twin-artifact-no-reconciler-family：五條本週獨立教訓都是「兩個該同步的東西沒有東西在對賬」，但各自只看見自己那一個 instance
+
+- **pattern**: `twin-artifact-no-reconciler-family`
+- **原則**：本週 7-day 窗口單獨看，`twmd-maintainer-am` 與 `twmd-feedback-triage` 各自寫下的教訓彼此不引用，但排在一起會現出同一個結構：**兩個本該互相印證的東西各自演化，中間沒有任何機制強制對賬**——CONTRIBUTING 範本 vs `test-frontmatter.mjs` 硬門檻（8/14、8/16 兩次現形）、`footnote-format` vs `footnote-density` 兩支姊妹檢查器共用同一個「輸入長什麼樣」的前提（8/14）、REFLEXES 目錄裡的反射 vs 各 routine cron prompt 是否真的把它寫成一個步驟（8/13）、產生器輸出 vs pre-commit formatter 對引號的偏好不同調（8/10）。單一 routine 的 Beat 5 只看得到自己那一次撞見，**cross-routine 7-day 視角才看得出這是同一個家族連續一週出現五次**，比任何單一 instance 的 vc 累積都更說明這是系統性缺口而非巧合。
+- **觸發**：本輪 Stage 3B（dormant entropy lens）逐條核對本週 LESSONS-INBOX 新增條目時，發現 `doc-and-validator-drift-has-no-reconciler`（8/14 maintainer-am）、`sibling-checks-share-one-blind-premise`（8/14 maintainer-am）、`reflex-exists-but-not-a-step-on-this-line`（8/13 feedback-triage）、`formatter-vs-generator-quote-churn-fakes-scope-alarm`（8/10 feedback-triage）、`fix-scope-follows-symptom-not-root-class`（8/16 maintainer-am）五條各自的「相關」欄互相之間零交叉引用，但五條的「原則」欄壓縮後是同一句話的五種措辭。
+- **可能層級**：通用反射候選，且已有一個現成的近親——REFLEXES #56「Pipeline canonical ↔ production drift = dormant entropy」講的是 pipeline 文件 vs 實際production 的漂移；本條的範圍更廣（不限 pipeline 文件，含檢查器對檢查器、反射目錄對執行步驟、產生器對格式化器），建議 distill 時判斷是本條併入 #56 擴大其範圍，還是另立新號。
+- **相關**：REFLEXES #56（近親，範圍較窄）、REFLEXES #65（same-DNA——檢查器跟被檢查物同作者是本條的一個子案例）、REFLEXES #82（proxy signal）、五條本週原始 entry（見上）
+- **verification_count**: 5（本週窗口內五個獨立 instance，橫跨 2 條 routine；若 distill 判定併入 #56，#56 自身 vc 一併累加）
+- **distill_ready**: true（達 REFLEXES #15 vc≥3 儀器化門檻，且是本次 audit 唯一需要跨 routine 視角才看得見的發現）
+- **severity**: moderate-high（單一 instance 成本都不大，但五個同族一週內出現代表閘門/文件維護的結構性缺口，非隨機噪音）
+
 ### 2026-08-16 twmd-maintainer-am — fix-scope-follows-symptom-not-root-class：修補範圍被症狀現形的位置決定，不是被根因的類別決定
 
 - **pattern**: `fix-scope-follows-symptom-not-root-class`
@@ -634,8 +645,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：tool-fix，跟 2026-06-28 已解決並歸檔的 `routine-audit-script-classification-gap`（vc=2 disposed）同源家族——那次的 fallback 修法解掉了「unclassified 非零」，但沒解掉「同一條 routine 的兩種 commit 落不同桶」這個殘留子案例。修法方向：(a) 為每個新 routine 補齊具名 pattern（含 memory 變體）而非只靠 fallback；(b) 或把 `routine-memory` 通用 pattern 移到 fallback 之後，讓 fallback 先嘗試用 `memory:` 後面的 routine 名歸類，抓不到才落 `routine-memory`
 - **相關**：`routine-audit-script-classification-gap`（2026-06-28，已 tool-fix disposed，本條是其未被當時 dogfood 覆蓋到的殘留子案例，非重複——原案處置時的驗證窗口沒有包含當時還不存在的 `twmd-routine-sync` / `twmd-flywheel-watch` 兩條 routine）
 - **instance 2（2026-08-09 twmd-routine-audit-weekly，範圍比原案更廣）**：本輪重跑 `routine-audit.py --last-week`，`by_routine.twmd-routine-sync` 只顯示 1（實際 tight-grep `git log --grep="twmd-routine-sync"` 命中 9 條：8 memory + 1 action）。追查 `routine-memory` 通用桶（37 筆）內容，發現它吞掉的不只 `twmd-routine-sync`：`twmd-embeddings-nightly`（7）、`twmd-data-refresh-am`（7）、`twmd-spore-harvest-am`（6）、`twmd-feedback-triage`（3）、`twmd-supporters-weekly`（1）、`twmd-terminology-trends-monthly`（1）、`twmd-weekly-report-sun`（1）、`twmd-self-evolve-weekly`（1）的 memory commit 全部落在同一個通用桶，而這些 routine 的 action commit 卻正確落進各自具名桶——結果 `by_routine` 表裡幾乎每一條有具名 pattern 的 routine，真實週活動量都是「顯示數字 + 落在 routine-memory 裡的那份」，不是本次原以為的個案（`twmd-routine-sync` / `twmd-flywheel-watch` 兩條），是**具名 pattern 普遍缺 memory 變體**這個結構性缺口。`twmd-flywheel-watch` 這次反而是例外——它的 action commit 本身內含摘要不另開 memory commit，tight-grep（7）與分類器（7）相符，不受影響。
-- **verification_count**: 2
-- **severity**: tactical（只影響本審計工具自己的統計精度，不影響 routine 實際運作或下游決策——本次 audit 已用 git log 交叉核對繞過）
+- **instance 3（2026-08-16 twmd-routine-audit-weekly，第三輪連續確認，同一批 routine 仍未修）**：本輪 `by_routine` 完全沒有 `twmd-routine-sync` 與 `twmd-weekly-report-sun` 兩個 key（不是顯示偏低，是整條缺席），tight-grep 核對：`twmd-routine-sync` 實際 8 條、`twmd-weekly-report-sun` 實際 1 條，皆落進 `routine-memory`（本輪 33 筆）與 `manual-memory`（14 筆）兩個通用桶。同時 `twmd-data-refresh-am` 分類器顯示 7、tight-grep 實際 13；`twmd-feedback-triage` 分類器顯示 7、tight-grep 實際 12——三週來同一組 routine（沒有具名 memory-commit pattern 的那批）持續被低估或整條消失，`twmd-flywheel-watch` 因本週已停用（哲宇 2026-08-10 directive）不再是有效對照組。三次獨立 cycle（08-02 / 08-09 / 08-16）同一根因、範圍持續擴大不縮小，判定為**未修復的已知缺陷**而非隨機噪音。
+- **verification_count**: 3
+- **distill_ready**: true（達 REFLEXES #15 vc≥3 儀器化門檻；修法方向已在上方「可能層級（更新）」段列出兩選項，distill 判斷 promote 到哪一層 — 建議 tool-fix 直接落 `scripts/tools/routine-audit.py`，非 REFLEXES 編號）
+- **severity**: tactical（只影響本審計工具自己的統計精度，不影響 routine 實際運作或下游決策——三輪 audit 皆已用 git log 交叉核對繞過；但工具自己的可信度連續三週帶病，該修了）
 
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
 
