@@ -4,7 +4,7 @@ description: 'Der Linkshänder, der einen 2,5-Milliarden-NT$-Höchstvertrag unte
 date: 2026-03-22
 category: 'People'
 tags: ['Personen', 'Baseball', 'Sport', 'Profisportler', 'MLB', 'NPB', 'Japanische Liga']
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

@@ -4,7 +4,7 @@ description: 'Ein in Taiwan lebender koreanischer Creator baut mit Fitness und z
 date: 2026-05-13
 category: 'People'
 tags: ['Popkultur-Persönlichkeit', 'Muskelberg', 'Korea', 'YouTuber', 'Koreaner in Taiwan', 'Convenience-Store', 'Taiwan']
-subcategory: 'Popkultur-Persönlichkeit'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

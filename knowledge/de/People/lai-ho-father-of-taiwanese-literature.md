@@ -4,7 +4,7 @@ description: 'Kurz vor dem Neujahrsabend 1943 verbrannte der berühmte Arzt Lai 
 date: 2026-04-28
 category: 'People'
 tags: ['Lai Ho', 'Taiwanesische Literatur', 'Changhua', 'Japanische Kolonialzeit', 'Medizingeschichte', 'Soziale Bewegung']
-subcategory: 'Literatur'
+subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28

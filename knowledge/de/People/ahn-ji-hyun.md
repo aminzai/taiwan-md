@@ -4,7 +4,7 @@ description: 'Von der professionellen Cheerleader-Szene in Korea zu den Wing Sta
 date: 2026-05-13
 category: 'People'
 tags: ['Popkultur-Persönlichkeit', 'Ahn Ji-hyun', 'Südkorea', 'Cheerleading', 'Taiwan Steel Eagles', 'Wing Stars', 'Kaohsiung']
-subcategory: 'Popkultur-Persönlichkeit'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

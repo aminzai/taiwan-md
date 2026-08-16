@@ -4,7 +4,7 @@ description: '1937 in Guilin, Guangxi, geboren, Sohn von Pai Chung-hsi. 1956 Stu
 date: 2026-03-19
 category: 'People'
 tags: ['Literatur', 'Moderne Literatur', 'Menschen von Taipei', 'Crystal Boys', 'Kunqu', 'Pai Chung-hsi']
-subcategory: 'Literatur'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

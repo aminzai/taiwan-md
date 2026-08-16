@@ -4,7 +4,7 @@ description: 'Das widersprüchliche Leben vom Agrarökonomprofessor zum ersten d
 date: 2026-03-22
 category: 'People'
 tags: ['Personen', 'Politik', 'Demokratisierung', 'Präsident']
-subcategory: 'Politik & Demokratie'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

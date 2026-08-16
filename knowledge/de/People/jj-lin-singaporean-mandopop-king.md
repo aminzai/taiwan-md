@@ -10,7 +10,7 @@ tags:
   - 'Singapur'
   - 'Popmusik'
   - 'Golden Melody Award'
-subcategory: 'Musik'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

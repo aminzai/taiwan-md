@@ -4,7 +4,7 @@ description: 'Taiwanesische Gewichtheberin, Medaillengewinnerin bei drei Olympis
 date: 2026-03-19
 category: 'People'
 tags: ['Personen', 'Kuo Hsing-chun', 'Gewichtheben', 'Olympia', 'Goldmedaille', 'Sportlerin', 'Taiwan', 'Amis', 'Indigene Völker']
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16

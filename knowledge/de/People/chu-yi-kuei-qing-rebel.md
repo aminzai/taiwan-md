@@ -4,7 +4,7 @@ description: 'Der Aufstieg von Zhu Yigui im Jahr 1721 wird von einem Entezüchte
 date: 2026-03-24
 category: 'People'
 tags: ['Taiwanische Geschichte', 'Qing-Dynastie-Zeit', 'Rebellion', 'Zhu Yigui', 'König der Entenmutter']
-subcategory: 'Historische Figur'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false

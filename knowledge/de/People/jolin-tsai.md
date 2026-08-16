@@ -4,7 +4,7 @@ description: 'Die Diva, die kein Genie ist – von einer Tanzlehrerin als „kei
 date: 2026-03-24
 category: 'People'
 tags: ['Personen', 'Sängerin', 'Showbusiness', 'LGBTQ+-Rechte', 'Popmusik', 'Golden Melody Award']
-subcategory: 'Musik'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

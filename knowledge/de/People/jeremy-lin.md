@@ -4,7 +4,7 @@ description: 'Highschool-Staatsmeister ohne Stipendium, im Draft übergangen, in
 date: 2026-03-19
 category: 'People'
 tags: ['Personen', 'Basketball', 'Taiwanesisch-Amerikaner', 'NBA', 'Linsanity', 'Harvard University', 'P.League+', 'TPBL']
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16

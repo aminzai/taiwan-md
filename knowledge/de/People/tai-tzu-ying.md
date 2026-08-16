@@ -4,7 +4,7 @@ description: 'Rekordhalterin mit 214 Wochen als Weltranglistenerste, die taiwane
 date: 2026-03-21
 category: 'People'
 tags: ['Personen', 'Tai Tzu-ying', 'Badminton', 'Weltranglistenerste', 'Olympia', 'Sportlerin', 'Taiwan']
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-21

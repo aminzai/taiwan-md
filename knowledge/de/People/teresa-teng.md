@@ -15,7 +15,7 @@ tags:
     'Soldatenliebling',
     'Kalter Krieg',
   ]
-subcategory: 'Musik'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-20

@@ -4,7 +4,7 @@ description: 'Ein Schriftsteller erschuf die erste moderne Tanzkompanie der chin
 date: 2026-03-23
 category: 'People'
 tags: ['Personen', 'Tanz', 'Kunst', 'Darstellende Kunst', 'Cloud Gate Dance Theatre of Taiwan']
-subcategory: 'Kunst & Kreativität'
+subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

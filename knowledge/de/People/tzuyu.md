@@ -4,7 +4,7 @@ description: 'Ein Mädchen aus Tainan, das nie Politik gesprochen hat, wurde dur
 date: 2026-04-14
 category: 'People'
 tags: ['Chou Tzu-yu', 'TWICE', 'Korea', 'K-POP', 'Flaggen-Vorfall', 'Taiwanesische Identität', 'Popmusik']
-subcategory: 'Musik & Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-14

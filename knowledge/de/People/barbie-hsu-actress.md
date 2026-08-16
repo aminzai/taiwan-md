@@ -5,7 +5,7 @@ date: 2026-04-28
 category: 'People'
 tags:
   ['Barbie Hsu', 'Big S', 'Wang Xiaofei', 'Koo Jun-yup', 'Meteor Garden', 'Beauty King', 'Entertainment 100%']
-subcategory: 'Film & Drama'
+subcategory: '電影與戲劇'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-28

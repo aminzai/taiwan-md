@@ -4,7 +4,7 @@ description: '1997 hat ein schüchterner 18-jähriger Junge die Geschichte der c
 date: 2026-03-23
 category: 'People'
 tags: ['Personen', 'Jay Chou', 'Chinesischsprachige Popmusik', 'Sänger', 'Songwriting', 'R&B', 'China-Stil']
-subcategory: 'Musik & Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

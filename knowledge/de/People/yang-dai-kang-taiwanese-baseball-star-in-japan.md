@@ -4,7 +4,7 @@ description: 'Geboren am 17.01.1987 in Taitung, Amis, früherer Name Yang Chung-
 date: 2026-03-19
 category: 'People'
 tags: ['Sport', 'Baseball', 'NPB', 'Amis', 'Indigene Völker', 'Outfielder']
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

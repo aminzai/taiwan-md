@@ -4,7 +4,7 @@ description: 'Von der Königin der Qiong-Yao-Filme zur Martial-Arts-Legende – 
 date: 2026-03-19
 category: 'People'
 tags: ['Brigitte Lin', 'Schauspielerin', 'Qiong-Yao-Film', 'Dongfang Bubai', 'Chinesischsprachiger Film']
-subcategory: 'Film & Drama'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19

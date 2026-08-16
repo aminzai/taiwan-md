@@ -10,7 +10,7 @@ tags:
   - 'Diva'
   - 'LGBTQ+ Gleichberechtigung'
   - 'Popmusik'
-subcategory: 'Musik'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

@@ -4,7 +4,7 @@ description: 'Am 9. Juni 2000 debütierte ein singapurisches Mädchen mit „Hea
 date: 2026-04-19
 category: 'People'
 tags: ['Musik', 'Popmusik', 'Sängerin', 'Golden Melody Award', 'Singapur', 'Chinesischsprachige Musik', 'Künstliche Intelligenz']
-subcategory: 'Musik & Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-19

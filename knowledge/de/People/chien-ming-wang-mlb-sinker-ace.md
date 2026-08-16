@@ -4,7 +4,7 @@ description: '1980 in Tainan geboren, ist Wang Chien-ming der repräsentativste 
 date: 2026-03-19
 category: 'People'
 tags: ['Sport', 'Baseball', 'MLB', 'New York Yankees', 'Pitcher in Amerika', 'Team Taiwan']
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
