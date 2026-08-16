@@ -371,7 +371,35 @@ bun run dev  # 或 npm run dev
 - [ ] **有來源**：至少 5 個可查證來源（含 URL），2+ 一手來源
 - [ ] **策展人聲音**：每 2-3 段有一句觀點或反思，不只是資料堆疊
 - [ ] **禁止 bullet list 灌水**：用敘事散文寫作，bullet list 僅用於真正的清單
-- [ ] **prose-health 分數 ≤ 3**：跑 `python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health` 確認
+
+#### 送 PR 前跑這一行（跟 CI 同一把尺）
+
+```bash
+python3 scripts/tools/article-health.py knowledge/<Cat>/<檔名>.md --profile=ci-deploy
+```
+
+**一定要帶 `--profile=ci-deploy`。** 只跑 `--check=prose-health` 會漏掉下面幾道硬門檻，
+本機看到 `hard=0`、送上來還是被 CI 擋——這是最常見的來回原因。
+
+看到 `hard=0 ... passed=True` 才算過。多數格式問題可以自動修：
+
+```bash
+python3 scripts/tools/article-health.py knowledge/<Cat>/<檔名>.md --profile=ci-deploy --fix
+```
+
+#### 會擋下 merge 的硬門檻（`--fix` 修不掉的要自己動手）
+
+| 門檻                           | 限制                                   | 怎麼修                                                                                                         |
+| ------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **全形分號 `；`**              | 單篇 ≤ 12 處                           | 拆成句號分句，或改用逗號。這條 `--fix` 不會動，因為要改寫散文                                                  |
+| **破折號 `——`**                | 每 1500 字 ≤ 15 處                     | 改用「，即」「（）」「：」或分句（見 [MANIFESTO §11](./docs/semiont/MANIFESTO.md)）                            |
+| **外部圖片熱連結**             | 不可直接 `![](https://別人的網域/...)` | 圖片存進 `public/article-images/`，改成 `/article-images/檔名`；並確認授權可用                                 |
+| **腳註格式**                   | `[^N]: [標題](URL) — 描述`             | `--fix` 可自動轉換；從 GitHub 網頁複製貼上的 `[1](#user-content-fn-1)` 錨點不算腳註                            |
+| **`subcategory` / `featured`** | About 以外中文文章必填                 | 見 [`docs/taxonomy/SUBCATEGORY.md`](./docs/taxonomy/SUBCATEGORY.md)；`featured` 一律填 `false`（由維護者管理） |
+
+> 這幾道門檻在 CI 上叫 `frontmatter-gate`。它失敗時會把完整清單寫進 GitHub Actions 的
+> **Summary** 頁（點紅色 ✗ 就看得到），fork PR 因為 token 是唯讀的不會收到 PR 留言，
+> 請直接看 Summary。
 
 #### 一般自我檢查
 
