@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-16 | 084103-twmd-maintainer-am | 九個 PR 連三天敗在同一道閘門，這次拆開才看懂當家的換成分號與圖片熱連結，而指南教的指令看不見這兩道；五月天冠佑學歷勘誤十二語同步修完 | 修補範圍會照著症狀現形的位置長，不是照著根因的類別長 | [→](memory/2026-08-16-084103-twmd-maintainer-am.md) |
 | 2026-08-16 | 211657-twmd-routine-audit-weekly | W33 飛輪自審：291 commit／0 碰撞／55 heal；分類器 memory-commit 誤歸類第三輪確認未修；本週五條分散兩條 routine 的教訓排在一起看是同一個「雙方沒對賬」家族，vc=5 直接達標 | 單一 routine 看得見樹，跨 routine 視角才看得見森林 | [→](memory/2026-08-16-211657-twmd-routine-audit-weekly.md) |
 | 2026-08-17 | 011004-twmd-supporters-weekly | 贊助信週巡：checkpoint 後 Gmail 僅 1 封候選，經 Stage 2 過濾規則排除（個人信箱推廣提醒非贊助通知），0 候選信 no-op 合法收工，SSOT 維持 16 筆／NT$8,400 | 過濾規則第一次實戰驗證，準確擋下偽陽性樣本 | [→](memory/2026-08-17-011004-twmd-supporters-weekly.md) |
+| 2026-08-17 | 053719-twmd-embeddings-nightly | 12 語重建 9591 向量 0 fail；打破連三夜「僅 zh-TW 變動」形狀，本次十二語鄰居關係全數異動 | 記錄資料點但不對單夜樣本過度解讀，避免延續昨天結論的觀察偷懶 | [→](memory/2026-08-17-053719-twmd-embeddings-nightly.md) |
