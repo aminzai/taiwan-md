@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-15T22:12:22Z",
-  "total": 923,
-  "flagged": 463,
+  "timestamp": "2026-08-16T22:11:54Z",
+  "total": 924,
+  "flagged": 464,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -83,6 +83,11 @@
       "file": "economy/台灣企業：巨大機械.md",
       "score": 16,
       "reasons": "年份僅0個; 空洞詞18個; 未人工審核; 塑膠句6個; 套路結尾; 稀薄段落×5; 無腳註; 價值上升詞×4"
+    },
+    {
+      "file": "economy/生活市集.md",
+      "score": 5,
+      "reasons": "空洞詞7個; 未人工審核; 塑膠句5個"
     },
     {
       "file": "economy/台灣企業：兆豐金控.md",

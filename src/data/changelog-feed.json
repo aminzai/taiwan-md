@@ -1,7 +1,147 @@
 {
-  "generatedAt": "2026-08-15T22:12:14.556Z",
+  "generatedAt": "2026-08-16T22:11:46.610Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a7006e2bee0551c3b8b86e44866147e00cf4d279",
+      "date": "2026-08-17T05:39:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-17 05:38 — 三層對賬第二十四輪，連續第六輪零漂移",
+      "articles": []
+    },
+    {
+      "hash": "c4789aa910323882f080ac94734bb71b8c68c5b7",
+      "date": "2026-08-17T05:38:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-17 05:37 — 十二語同夜全動，打破連三夜僅 zh-TW 形狀",
+      "articles": []
+    },
+    {
+      "hash": "02f774ea971b9be955883ac8c1eb6f5056421e39",
+      "date": "2026-08-17T05:36:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-17 05:19",
+      "articles": []
+    },
+    {
+      "hash": "be57f9b0ab124acdf96a7fb5444dc8b5a4a1a750",
+      "date": "2026-08-17T01:11:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-supporters-weekly @ 2026-08-17 01:10 — 0 候選信 no-op，過濾規則首次實戰驗證",
+      "articles": []
+    },
+    {
+      "hash": "d5743d728d3cc0a7dbd5d6a8b7683565764c60fb",
+      "date": "2026-08-16T21:18:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-audit-weekly @ 2026-08-16 21:16 — 分類器舊病第三輪未修，新家族發現只在跨 routine 視角顯形",
+      "articles": []
+    },
+    {
+      "hash": "80d4a8ce3d1cde2ad3151770b3094510cd4a77a6",
+      "date": "2026-08-16T21:16:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] routine-audit-weekly: 291 commits / 3 patterns / 2 distill-ready — 2026-08-16",
+      "articles": []
+    },
+    {
+      "hash": "53d1a232b8e429a90a226d2994de71752440d674",
+      "date": "2026-08-16T09:09:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-16 08:41 — 第三天才問對問題",
+      "articles": []
+    },
+    {
+      "hash": "8cdc91e1994590c3926f58f309631bd2b7bb225b",
+      "date": "2026-08-16T09:05:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 兩件維護判斷升佇列——人物門檻與早餐雙篇重疊",
+      "articles": []
+    },
+    {
+      "hash": "ce41f96adffa8f5edac4b85e9687181f0470eea8",
+      "date": "2026-08-16T08:56:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 貢獻指南第二處也在教錯誤的檢查指令",
+      "articles": []
+    },
+    {
+      "hash": "6b3f5d292dbf68f436b91ee4701090b1ba6b1cee",
+      "date": "2026-08-16T08:55:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] immune: 擋住九個 PR 的那三道門檻，貢獻指南從來沒寫過",
+      "articles": []
+    },
+    {
+      "hash": "d182e5d85a1cdbefb81848a50539cb31c73bee87",
+      "date": "2026-08-16T08:53:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 五月天 — 冠佑不是師大附中出身，十二語同步勘誤 per @Sybil Kwok",
+      "articles": [
+        {
+          "url": "/about/文章如何誕生",
+          "name": "文章如何誕生"
+        },
+        {
+          "url": "/music/五月天",
+          "name": "五月天"
+        }
+      ]
+    },
+    {
+      "hash": "0d4646eadae8d1841ba56a65b99b828b1acc1982",
+      "date": "2026-08-16T09:00:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1371 from idlccp1984/patch-608872",
+      "articles": []
+    },
+    {
+      "hash": "e43a29ea459cda56797e9383e7b48ce35438c7fd",
+      "date": "2026-08-16T08:58:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "heal: 生活市集 — 補 subcategory 與 featured，frontmatter 欄位順序對齊",
+      "articles": [
+        {
+          "url": "/economy/生活市集",
+          "name": "生活市集"
+        }
+      ]
+    },
+    {
+      "hash": "b563e310caaa63f171698823b0a53a8a17507ea2",
+      "date": "2026-08-16T07:11:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 五月天鼓手學歷勘誤開成 issue，第三人指控信第三次攔下",
+      "articles": []
+    },
+    {
+      "hash": "98d7f99461654bbdda0be4b132bceb14bb8d2843",
+      "date": "2026-08-16T06:41:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-16 06:40 — X 登入牆連續第五天",
+      "articles": []
+    },
+    {
+      "hash": "b48b0e2c7ea5d1ab84677d48da4dce179111c156",
+      "date": "2026-08-16T06:39:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: v1.15.0 release 孢子 D+5 續追 — 2026-08-16",
+      "articles": []
+    },
+    {
+      "hash": "812e623632e71cad77fcdcde146f2e02fc8e3db0",
+      "date": "2026-08-16T06:15:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-16 06:14 — 14 步全綠零 stale 連續第五天",
+      "articles": []
+    },
+    {
+      "hash": "029cff7917fd1aff22bd9d3a6c46e46e1b12c539",
+      "date": "2026-08-16T06:13:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 921、本週新增 28",
+      "articles": []
+    },
     {
       "hash": "d8b215ab7d87bf0c5d9509abbe4a39112addceed",
       "date": "2026-08-16T05:39:51+08:00",
@@ -85,6 +225,18 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] twmd-news-lens-weekly: W33 三源交叉 + 3 條候選（出口關閉）+ 兩條既有 ARTICLE-INBOX 候選被本週新聞驗證時效",
       "articles": []
+    },
+    {
+      "hash": "851acbd58c684be38f9fecbaa9415de2ac0959ff",
+      "date": "2026-08-15T18:47:33+08:00",
+      "author": "idlccp1984",
+      "message": "Create 生活市集.md",
+      "articles": [
+        {
+          "url": "/economy/生活市集",
+          "name": "生活市集"
+        }
+      ]
     },
     {
       "hash": "b516e2a72ab0b43cc4a5d4050b5e719c3eb20748",

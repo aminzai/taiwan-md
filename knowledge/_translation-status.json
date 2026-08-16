@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-16T06:12:08+08:00",
-    "zhCommitHead": "d8b215ab7",
-    "totalZh": 923,
+    "lastUpdated": "2026-08-17T06:11:40+08:00",
+    "zhCommitHead": "a7006e2be",
+    "totalZh": 924,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 923,
-        "fresh": 827,
-        "stale": 35,
+        "total_zh": 924,
+        "fresh": 825,
+        "stale": 37,
         "metadata_stale": 16,
-        "missing": 45,
+        "missing": 46,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 923,
-        "fresh": 834,
-        "stale": 25,
+        "total_zh": 924,
+        "fresh": 832,
+        "stale": 27,
         "metadata_stale": 13,
-        "missing": 51,
+        "missing": 52,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 923,
-        "fresh": 846,
-        "stale": 23,
+        "total_zh": 924,
+        "fresh": 844,
+        "stale": 25,
         "metadata_stale": 16,
-        "missing": 38,
+        "missing": 39,
         "orphan": 0
       },
       "es": {
-        "total_zh": 923,
-        "fresh": 835,
-        "stale": 29,
+        "total_zh": 924,
+        "fresh": 833,
+        "stale": 31,
         "metadata_stale": 19,
-        "missing": 40,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 923,
-        "fresh": 830,
-        "stale": 29,
-        "metadata_stale": 23,
         "missing": 41,
         "orphan": 0
       },
+      "fr": {
+        "total_zh": 924,
+        "fresh": 828,
+        "stale": 31,
+        "metadata_stale": 23,
+        "missing": 42,
+        "orphan": 0
+      },
       "vi": {
-        "total_zh": 923,
-        "fresh": 691,
-        "stale": 37,
+        "total_zh": 924,
+        "fresh": 689,
+        "stale": 39,
         "metadata_stale": 71,
-        "missing": 124,
+        "missing": 125,
         "orphan": 0
       },
       "id": {
-        "total_zh": 923,
-        "fresh": 552,
-        "stale": 13,
+        "total_zh": 924,
+        "fresh": 550,
+        "stale": 15,
         "metadata_stale": 7,
-        "missing": 351,
+        "missing": 352,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 923,
-        "fresh": 810,
-        "stale": 18,
+        "total_zh": 924,
+        "fresh": 808,
+        "stale": 20,
         "metadata_stale": 8,
-        "missing": 87,
+        "missing": 88,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 923,
-        "fresh": 640,
-        "stale": 8,
+        "total_zh": 924,
+        "fresh": 638,
+        "stale": 10,
         "metadata_stale": 8,
-        "missing": 267,
+        "missing": 268,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 923,
-        "fresh": 723,
-        "stale": 9,
+        "total_zh": 924,
+        "fresh": 722,
+        "stale": 10,
         "metadata_stale": 8,
-        "missing": 183,
+        "missing": 184,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 923,
-        "fresh": 761,
-        "stale": 8,
+        "total_zh": 924,
+        "fresh": 760,
+        "stale": 9,
         "metadata_stale": 8,
-        "missing": 146,
+        "missing": 147,
         "orphan": 0
       }
     },
@@ -3393,10 +3393,10 @@
     },
     "Music/五月天.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:2d73cb00a5f5d254",
-        "bodyHash": "sha256:7f6b080a953be003"
+        "lastCommit": "d182e5d8",
+        "lastModified": "2026-08-16T08:53:57+08:00",
+        "contentHash": "sha256:d0269e2f1779f743",
+        "bodyHash": "sha256:70e0b74692ddad14"
       },
       "translations": {
         "en": {
@@ -3406,12 +3406,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-05-01T13:19:11+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "ja": {
           "path": "ja/Music/mayday-band.md",
@@ -3420,12 +3422,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-05-01T19:52:32+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "ko": {
           "path": "ko/Music/mayday-band.md",
@@ -3434,12 +3438,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-04-14T09:55:38+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "es": {
           "path": "es/Music/mayday-band.md",
@@ -3448,12 +3454,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-05-01T22:19:10+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "fr": {
           "path": "fr/Music/mayday-band.md",
@@ -3462,12 +3470,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-04-15T17:32:16+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "vi": {
           "path": "vi/Music/mayday-band.md",
@@ -3476,12 +3486,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-08-09T12:06:28+08:00",
-          "translationLastCommit": "0dbaebda",
-          "translationLastModified": "2026-08-09T12:27:15+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "id": {
           "path": "id/Music/mayday-band.md",
@@ -3490,12 +3502,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-07-26T23:43:18+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "pt": {
           "path": "pt/Music/mayday-band.md",
@@ -3504,12 +3518,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-07-25T17:25:36+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "hi": {
           "path": "hi/Music/mayday-band.md",
@@ -3518,12 +3534,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-07-26T03:58:12+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "ar": {
           "path": "ar/Music/mayday-band.md",
@@ -3532,12 +3550,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-07-26T07:02:12+08:00",
-          "translationLastCommit": "3fcb6b42",
-          "translationLastModified": "2026-07-30T05:53:52+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "ru": {
           "path": "ru/Music/mayday-band.md",
@@ -3546,12 +3566,14 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "d182e5d8",
+          "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         }
       }
     },
@@ -5628,6 +5650,49 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/生活市集.md": {
+      "zh": {
+        "lastCommit": "e43a29ea",
+        "lastModified": "2026-08-16T08:58:44+08:00",
+        "contentHash": "sha256:a28b59d150358ce1",
+        "bodyHash": "sha256:45330c3b732890b9"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -50852,10 +50917,10 @@
     },
     "About/文章如何誕生.md": {
       "zh": {
-        "lastCommit": "984fb789",
-        "lastModified": "2026-07-19T09:56:17+08:00",
-        "contentHash": "sha256:92fcb394123e4aee",
-        "bodyHash": "sha256:b8984a2133e5738f"
+        "lastCommit": "d182e5d8",
+        "lastModified": "2026-08-16T08:53:57+08:00",
+        "contentHash": "sha256:4dc98dc84117c5d8",
+        "bodyHash": "sha256:2679dec9ddab6dbc"
       },
       "translations": {
         "en": {
@@ -50869,8 +50934,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/About/how-an-article-is-born.md",
@@ -50883,8 +50950,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/About/how-an-article-is-born.md",
@@ -50897,8 +50966,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/About/how-an-article-is-born.md",
@@ -50911,8 +50982,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/About/how-an-article-is-born.md",
@@ -50925,8 +50998,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/About/how-an-article-is-born.md",
@@ -50939,8 +51014,10 @@
           "translationLastModified": "2026-07-24T18:09:37+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/About/how-an-article-is-born.md",
@@ -50953,8 +51030,10 @@
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/About/how-an-article-is-born.md",
@@ -50967,8 +51046,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/About/how-an-article-is-born.md",
@@ -50981,8 +51062,10 @@
           "translationLastModified": "2026-08-02T14:00:47+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "status": "missing"

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9708,
+  "totalArticles": 9709,
   "totalCategories": 26,
   "estimatedContributors": 73,
-  "totalTags": 6228,
+  "totalTags": 6232,
   "categories": [
     {
       "name": "es",
@@ -86,7 +86,7 @@
     },
     {
       "name": "Economy",
-      "count": 66
+      "count": 67
     },
     {
       "name": "Geography",
@@ -192,15 +192,15 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9708,
+    "zh-TW": 9709,
     "en": 0
   },
-  "lastUpdated": "2026-08-15T22:12:13.515Z",
-  "stars": 1148,
-  "forks": 179,
-  "zhPages": 921,
+  "lastUpdated": "2026-08-16T22:11:45.472Z",
+  "stars": 1149,
+  "forks": 180,
+  "zhPages": 922,
   "languagePages": {
-    "zh-TW": 921,
+    "zh-TW": 922,
     "en": 883,
     "ja": 872,
     "ko": 885,
@@ -214,5 +214,5 @@
     "ru": 777
   },
   "enPages": 883,
-  "totalPages": 921
+  "totalPages": 922
 }

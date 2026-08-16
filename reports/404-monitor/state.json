@@ -1939,7 +1939,74 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-08-15",
+      "total_404": 4137,
+      "truncated": false,
+      "families": {
+        "unknown": {
+          "count": 1807,
+          "bot": 910,
+          "browser": 886,
+          "empty": 11
+        },
+        "stale-asset": {
+          "count": 200,
+          "bot": 0,
+          "browser": 200,
+          "empty": 0
+        },
+        "probe-wellknown": {
+          "count": 74,
+          "bot": 4,
+          "browser": 70,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 1365,
+          "bot": 10,
+          "browser": 89,
+          "empty": 1266
+        },
+        "untranslated-demand": {
+          "count": 62,
+          "bot": 40,
+          "browser": 22,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 386,
+          "bot": 322,
+          "browser": 64,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 20,
+          "bot": 11,
+          "browser": 9,
+          "empty": 0
+        },
+        "bad-encoding": {
+          "count": 33,
+          "bot": 14,
+          "browser": 19,
+          "empty": 0
+        },
+        "md-extension": {
+          "count": 169,
+          "bot": 54,
+          "browser": 115,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 21,
+          "bot": 8,
+          "browser": 13,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-08-15T22:11:25.343053+00:00"
+  "updated": "2026-08-16T22:10:56.097761+00:00"
 }

@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-15T22:12:29.412Z",
+  "lastUpdated": "2026-08-16T22:12:01.743Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 2,
+  "count": 4,
   "alerts": [
     {
       "id": "immune-status",
@@ -13,12 +13,28 @@
       "firstSeen": "2026-07-05"
     },
     {
+      "id": "cf-404-unknown-path-2026-08-15-5d3553d1",
+      "severity": "yellow",
+      "message": "2026-08-15 unknown family 單一路徑 '/en/dashboard/linear-gradient(90deg,%20rgb(167,%20201,%2087),%20rgb(143,%20184,%2094))' 命中 134 > 100/day",
+      "source": "reports/404-monitor/latest.json",
+      "owner": "twmd-maintainer",
+      "firstSeen": "2026-08-16"
+    },
+    {
       "id": "exp-overdue-EXP-2026-07-17-G",
       "severity": "yellow",
       "message": "UNKNOWNS EXP-2026-07-17-G 驗證日 2026-08-07 已過期未判定",
       "source": "UNKNOWNS.md",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-08-08"
+    },
+    {
+      "id": "routine-silent-twmd-self-evolve-weekly",
+      "severity": "yellow",
+      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-08-15T20:09 fire 後 26h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "source": "routine-live-state.json × git log",
+      "owner": "twmd-self-evolve-weekly",
+      "firstSeen": "2026-08-16"
     }
   ]
 }
