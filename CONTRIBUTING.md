@@ -327,7 +327,7 @@ src/content/config.ts ← Astro content collection schema (這個檔留在 git)
 1. 在 `knowledge/{Category}/` 建立新的 `.md` 檔案（中文 SSOT）
 2. 按照 [EDITORIAL.md](./docs/editorial/EDITORIAL.md) 標準撰寫內容
 3. 執行 `npm run build` 驗證（prebuild 自動跑 sync.sh + Astro build 完整檢查 frontmatter）
-4. 執行 `python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health` 品質檢測（HARD 0、WARN ≤ 3）
+4. 執行 `python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy` 品質檢測（要看到 `hard=0`；門檻清單見上方 §3 品質檢查）
 5. 提交 PR（只需 commit `knowledge/` 改動，**不需也不該 commit `src/content/`**）
 
 ```bash
@@ -335,8 +335,9 @@ src/content/config.ts ← Astro content collection schema (這個檔留在 git)
 echo "寫好文章後..."
 bash scripts/sync.sh          # knowledge/ → src/content/
 npm run build                  # 驗證 build
-python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health  # 品質檢測
-git add -A && git commit -m "content: 新增 XXX 文章"
+# 品質檢測——用 --profile=ci-deploy，跟 CI 同一把尺；--fix 可自動修多數格式問題
+python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy
+git add knowledge/ && git commit -m "content: 新增 XXX 文章"
 ```
 
 #### 參與新主題
