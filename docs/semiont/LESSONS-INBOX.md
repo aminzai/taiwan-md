@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-16 twmd-maintainer-am — fix-scope-follows-symptom-not-root-class：修補範圍被症狀現形的位置決定，不是被根因的類別決定
+
+- **pattern**: `fix-scope-follows-symptom-not-root-class`
+- **原則**：追到真根因、也真的修好了，隔天同一道閘門仍然擋下同一批人——因為修補的**範圍**是照著昨天那個症狀長的，不是照著根因所屬的**類別**長的。根因如果是「A 類的規則沒有對應的文件／閘門」，只修其中現形的那一條，等於把其餘同類留在原地等下一次現形。每次都是真修，每次都不夠寬。**判準候選：修完之後問一句「這個根因的類別裡還有哪些成員？它們現在有沒有同一個保護？」——不是問「這個 bug 還會不會再犯」，是問「它的同胞現在在哪裡」。**
+- **觸發**：連續三天同一道 `frontmatter-gate` 擋下同一位貢獻者的批次（8/13 六個、8/14 八個、8/16 九個），每天都追了上游也都修了東西：8/13 修「閘門的說明對 fork PR 送不出去」（token 唯讀 → 改寫 `$GITHUB_STEP_SUMMARY`）、8/14 修「CONTRIBUTING 範本沒寫 subcategory」（PR #1332）。兩次都有效，subcategory 命中數從 8 降到 3。但 8/16 拆開失敗分布，當家的換成**全形分號超標 7 篇、外部圖片熱連結 6 篇**——這兩道硬門檻在貢獻者讀得到的任何文件裡同樣不存在，跟 subcategory 當初完全同型，只是還沒輪到它們現形。更直接的是 CONTRIBUTING 兩處都教 `--check=prose-health`，而那個模式看不到這兩道門檻，貢獻者本機拿到 `hard=0` 送上來照樣被擋。
+- **為什麼會發生**：8/14 那條 `doc-and-validator-drift-has-no-reconciler` 診斷正確，但候選處置只寫了「拿 CONTRIBUTING 範本的 frontmatter 去跑 test-frontmatter」——只覆蓋 frontmatter 那一半，因為前一天現形的是 frontmatter。散文與媒體那半沒人守。諷刺的是這句話本身就寫在 `pr-frontmatter-gate.yml` 的註解裡（8/08 修 husky 沒帶到 CI 那次留下的）：「修補範圍被症狀現形的位置決定，不是被根因的類別」。本 cycle 讀過它，然後踩了同型。
+- **處置**：本 cycle 的對賬刻意做寬——不綁單一條門檻，而是從 `article-health.config.toml` 讀 `semicolon_hard_over` / `emdash_hard_over` 去比對 CONTRIBUTING 是否寫出同一個數字，並斷言指南教的是 `--profile=ci-deploy`、有寫外部圖片熱連結。已 fail-loud 驗證（config 暫改 9 → 測試如預期紅）。掛在 `tests/contributor-frontmatter-template.test.mjs`，隨 `pr-frontmatter-gate` 跑。**仍擋不住的一層**：新增門檻卻連 config key 都沒進對賬清單時沒有東西會叫。
+- **可能層級**：通用反射候選——跟 REFLEXES #15（反覆浮現要儀器化）互補：#15 講「重複三次要做成儀器」，本條講「做成儀器時範圍要照根因的類別畫，不照症狀畫」。
+- **相關**：LESSONS `doc-and-validator-drift-has-no-reconciler`（8/14，本條是它的上游）、`gate-explains-into-a-dead-channel`（8/13）、`sibling-checks-share-one-blind-premise`（8/14，同族的橫向版本：多個檢查器共用盲前提）、REFLEXES #82（proxy signal）
+- **verification_count**: 1（但底層 instance 鏈 8/08 husky→CI、8/13、8/14、8/16 共四次同型）
+- **severity**: moderate（每次都真修、每次都不夠寬，成本落在貢獻者身上的來回次數）
+
 ### 2026-08-15 twmd-maintainer-workshop-pr — conditional-rule-has-no-gate-layer：規則的適用條件決定它掛得上哪一層閘門，條件式規則掛不上全站 lint，於是永遠沒有閘門
 
 - **pattern**: `conditional-rule-has-no-gate-layer`
