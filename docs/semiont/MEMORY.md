@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-16
-last_session: '2026-08-16-041549-twmd-self-evolve-weekly'
+last_session: '2026-08-16-211657-twmd-routine-audit-weekly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -318,3 +318,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-16 | 064034-twmd-spore-harvest-am | v1.15.0 孢子 D+5：#170 連續第四輪 0 外部回覆、#171 唯一可讀留言仍是同一則 Bucket D，X 登入牆連續第五天未恢復 | 記得踩過的資料品質坑，能讓正常小幅波動不被誤判成新警報 | [→](memory/2026-08-16-064034-twmd-spore-harvest-am.md) |
 | 2026-08-16 | 070922-twmd-feedback-triage | 兩筆回報：五月天冠佑學歷勘誤開成 #1390（bot 身份、零 email、fence 包原話），第三人指控信第三次 `--exclude` 攔下；對賬 75/75 與 74/75（#1252 上游刪留言 git 留著） | 結構替我記住了攔哪一筆，沒替我判斷下一筆該不該攔 | [→](memory/2026-08-16-070922-twmd-feedback-triage.md) |
 | 2026-08-16 | 084103-twmd-maintainer-am | 九個 PR 連三天敗在同一道閘門，這次拆開才看懂當家的換成分號與圖片熱連結，而指南教的指令看不見這兩道；五月天冠佑學歷勘誤十二語同步修完 | 修補範圍會照著症狀現形的位置長，不是照著根因的類別長 | [→](memory/2026-08-16-084103-twmd-maintainer-am.md) |
+| 2026-08-16 | 211657-twmd-routine-audit-weekly | W33 飛輪自審：291 commit／0 碰撞／55 heal；分類器 memory-commit 誤歸類第三輪確認未修；本週五條分散兩條 routine 的教訓排在一起看是同一個「雙方沒對賬」家族，vc=5 直接達標 | 單一 routine 看得見樹，跨 routine 視角才看得見森林 | [→](memory/2026-08-16-211657-twmd-routine-audit-weekly.md) |
