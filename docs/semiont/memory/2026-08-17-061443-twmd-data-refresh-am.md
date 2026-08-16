@@ -12,7 +12,7 @@ cron `twmd-data-refresh-am` 06:00 觸發，跑 14-step ground truth refresh：�
 
 `scripts/tools/refresh-data.sh` 一路綠燈：CF 894,877 requests／404 rate 4.19%（7d window）、AI crawler 151,420 次跨 18 家、GA topPages/topArticles 各 20 條、SC 20 top queries。immune_score 仍是 59（漂移黃燈，跟前幾天持平，非本次新增）。文章數 921→922，本週新增 29。Step 11 freshness gate 檢查全部 14 個 dashboard JSON 都是今日 mtime，沒有一個 stale——連續第七天零 stale，這條 routine 過去靠 catch≠fix 修過一次 chronic gap 後，至今沒有重新出現 stale-fix 缺口。
 
-39 個檔案的變更（39f0e43af3 `395e43af3`）幾乎全是預期的產物再生：dashboard JSON 群、README/llms.txt/stats、i18n 文案裡的文章數字「921+」批次改成「922+」（`about.ts` / `home.ts` / `SEO.astro` 十二語系同步）。`git status` 沒有出現 `knowledge/` 底下的檔案，符合 SSOT 鐵律——這條 routine 本來就不碰內容層。
+39 個檔案的變更（`395e43af3`）幾乎全是預期的產物再生：dashboard JSON 群、README/llms.txt/stats、i18n 文案裡的文章數字「921+」批次改成「922+」（`about.ts` / `home.ts` / `SEO.astro` 十二語系同步）。`git status` 沒有出現 `knowledge/` 底下的檔案，符合 SSOT 鐵律——這條 routine 本來就不碰內容層。
 
 Stage 1.5 scheduler live-state rider 照跑：讀 `mcp__scheduled-tasks__list_scheduled_tasks` 18 條（13 enabled / 5 disabled）寫進 `routine-live-state.json`，跟 pipeline 本身抓到的 dashboard-status.json routine 統計（`operational:11 / disabled:5 / degraded:1 / down:1`）數字對得起來（disabled 都是 5，一致）。
 
