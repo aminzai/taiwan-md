@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-17 | 064155-twmd-spore-harvest-am | v1.15.0 孢子 D+6：#170 連續第五輪 0 外部回覆；#171 五項指標本輪跟 D+5 逐位對齊、完全零變動；X 登入牆連續第六天 | 全指標同日持平比單一指標微幅波動更徹底，判斷長尾曲線進入平台期 | [→](memory/2026-08-17-064155-twmd-spore-harvest-am.md) |
 | 2026-08-17 | 071012-twmd-feedback-triage | 選單用詞建議「數據→資料」開成 #1440，第三人指控信第四次 `--exclude` 攔下；對賬 76/76 與 75/76（#1252 上游刪留言 git 留著） | dry-run 標題認不出信的性質，每次都要重讀原文，不能靠昨天的 id 認人 | [→](memory/2026-08-17-071012-twmd-feedback-triage.md) |
 | 2026-08-17 | 091549-twmd-maintainer-am | 71 個 open PR 有 59 個是 draft，真實待審 12；擋住投稿的非正典 subcategory 部分是自家 auto-heal 填的，修三缺陷＋新增 subcategory-valid | grep 數違規漏掉沒行號那條，把不合格 PR 算進可 merge 那疊 | [→](memory/2026-08-17-091549-twmd-maintainer-am.md) |
+| 2026-08-17 | 173659-budget-page | /budget 總預算十年策展頁 ship：Mode 4 報告先行、六隻 agent 抓研究與主計總處一手表、九區 inline SVG＋詩句 kicker，115 年度三讀三天後上線 | 把「時期」畫成底色帶之後，錯的時期會自己站在圖上；推翻要寫成結論形態不寫成驚訝 | [→](memory/2026-08-17-173659-budget-page.md) |
