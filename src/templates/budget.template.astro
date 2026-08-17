@@ -1,0 +1,695 @@
+---
+/**
+ * budget.template.astro — /budget「總預算十年」策展頁（12 語共用 template）。
+ *
+ * 設計報告：reports/design-ly-budget-page-2026-08-17.md（EVOLVE Mode 4）
+ * 資料 SSOT：src/data/ly-budget.json（scripts/tools/build-ly-budget.py 生成，單位億元）
+ * 圖表：src/components/budget/*（SSR inline SVG + 資料表 fallback，無 D3）
+ * 文案：src/i18n/budget.ts（zh-TW / en；其他語言 fallback → en）
+ *
+ * 八區節奏：一行詩句 kicker → 一句斷言 H2 → 圖 → 兩段。
+ * 政治題：立體群像，雙方具名並排，評價詞只在引語內並歸屬說話者。
+ */
+import { existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+import '../styles/budget.css';
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import LineChart from '../components/budget/LineChart.astro';
+import StackedArea from '../components/budget/StackedArea.astro';
+import RankBars from '../components/budget/RankBars.astro';
+import SmallMultiples from '../components/budget/SmallMultiples.astro';
+import ExecutionBars from '../components/budget/ExecutionBars.astro';
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from '../i18n/utils';
+import { getLangSwitchPath } from '../utils/getLangSwitchPath';
+import ly from '../data/ly-budget.json';
+import { fmtYi, fmtPct } from '../utils/budgetViz';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const translatePath = useTranslatedPath(lang);
+const zh = lang === 'zh-TW';
+const L = zh ? 'zh' : 'en';
+const pick = (o: any) => (o && typeof o === 'object' && (o.zh || o.en) ? o[L] ?? o.en ?? o.zh : o);
+
+// ── 年度序列 ─────────────────────────────────────────────────────────
+const years = ly.years;
+const ce = years.map((y) => y.ce);
+const fyOf = (c: number) => String(c - 1911);
+const latest = years[years.length - 1];
+const first = years[0];
+const growth = latest.legal && first.legal ? ((latest.legal - first.legal) / first.legal) * 100 : null;
+const eras = ly.eras.map((e) => ({
+  from: e.from,
+  to: e.to,
+  label: `${pick(e.president)}｜${pick(e.ly)}`,
+  short: pick(e.ly),
+  cls: e.cls,
+}));
+const erasShort = ly.eras.map((e) => ({ from: e.from, to: e.to, label: pick(e.ly), cls: e.cls }));
+
+// ── 政事別 ───────────────────────────────────────────────────────────
+const fnCats = ly.functions.map((f, i) => ({
+  id: f.id,
+  label: pick(f),
+  cls: i < 8 ? `bg-cat-${i}` : 'bg-cat-other',
+}));
+const fnValues = ly.functions.map((f) => ce.map((c) => (ly.functionsByYear as any)[fyOf(c)]?.[f.id] ?? 0));
+
+// ── 機關別 ───────────────────────────────────────────────────────────
+const agMeta = ly.agencies as any[];
+const agByYear = ly.agenciesByYear as Record<string, Record<string, number>>;
+const yNow = fyOf(latest.ce);
+const yThen = fyOf(first.ce);
+const rankRows = agMeta
+  .filter((a) => agByYear[yNow]?.[a.id] !== undefined && a.id !== 'reserve')
+  .map((a) => ({
+    id: a.id,
+    label: pick(a),
+    now: agByYear[yNow][a.id],
+    then: agByYear[yThen]?.[a.id] ?? null,
+    highlight: !!a.highlight,
+    note: a.note ? pick(a.note) : undefined,
+  }))
+  .sort((a, b) => b.now - a.now);
+const rankTop = rankRows.slice(0, 22);
+// 小倍數：105 與 115 都有值的機關，index 105=100，取 115 年度最大的 16 個
+const multiPanels = agMeta
+  .filter((a) => agByYear[yThen]?.[a.id] && agByYear[yNow]?.[a.id] && a.id !== 'reserve')
+  .map((a) => {
+    const base = agByYear[yThen][a.id];
+    const values = ce.map((c) => {
+      const v = agByYear[fyOf(c)]?.[a.id];
+      return v === undefined ? null : (v / base) * 100;
+    });
+    const last = agByYear[yNow][a.id];
+    return {
+      id: a.id,
+      label: pick(a),
+      values,
+      endText: fmtPct(((last - base) / base) * 100, 0),
+      highlight: !!a.highlight,
+      note: a.note ? pick(a.note) : undefined,
+      _now: last,
+    };
+  })
+  .sort((a, b) => b._now - a._now)
+  .filter((p, i, arr) => i < 15 || p.highlight)
+  .slice(0, 16);
+
+// ── 執行率 ───────────────────────────────────────────────────────────
+const execRows = years
+  .filter((y) => y.legal)
+  .map((y) => ({
+    label: String(y.ce),
+    budget: y.legal as number,
+    actual: y.final ?? null,
+    rate: y.execRate ?? null,
+  }));
+
+// ── 事件／刪凍／文化／聲音 ────────────────────────────────────────────
+const events = [...ly.events].sort((a, b) => a.date.localeCompare(b.date));
+const cuts114 = (ly.cuts as any)['114'];
+const cuts115 = (ly.cuts as any)['115'];
+const culture = ly.culture as any;
+const voices = ly.voices as any;
+const defense = ly.defenseNato2026 as any;
+const special = ly.specialBudgets as any[];
+const days = ly.days as any[];
+const sources = (ly.meta as any).sources as any[];
+
+// ── 延伸閱讀（存在才連；跨語走 lang-switch registry）────────────────
+async function related(zhPath: string, knowledgeFile: string) {
+  if (!existsSync(resolve(process.cwd(), 'knowledge', knowledgeFile))) return null;
+  try {
+    const r = await getLangSwitchPath(zhPath);
+    const entry = (r.langs as any)[lang];
+    return entry?.has ? entry.link : zhPath;
+  } catch {
+    return zhPath;
+  }
+}
+const relTaicca = await related('/economy/文化內容策進院', 'Economy/文化內容策進院.md');
+const relPts = await related('/society/公視', 'Society/公視.md');
+const relRecall = await related('/history/大罷免', 'History/大罷免.md');
+const relPolitics = await related('/society/台灣政治環境與選舉制度', 'Society/台灣政治環境與選舉制度.md');
+
+const passedDate = cuts115.date as string;
+const toc = [
+  ['s0', t('budget.toc.s0')],
+  ['s1', t('budget.toc.s1')],
+  ['s2', t('budget.toc.s2')],
+  ['s3', t('budget.toc.s3')],
+  ['s4', t('budget.toc.s4')],
+  ['s5', t('budget.toc.s5')],
+  ['s6', t('budget.toc.s6')],
+  ['s7', t('budget.toc.s7')],
+];
+const kindLabel = (k: string) =>
+  k === 'cut' ? t('budget.s4.kind.cut') : k === 'freeze' ? t('budget.s4.kind.freeze') : t('budget.s4.kind.kept');
+const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-freeze' : 'is-kept');
+---
+
+<Layout
+  lang={lang}
+  title={t('budget.meta.title')}
+  description={t('budget.meta.description')}
+  readerSettings={true}
+>
+  <main class="budget-page min-h-screen">
+    <PageHero
+      eyebrow={t('budget.hero.eyebrow')}
+      title={t('budget.hero.title')}
+      subtitle={t('budget.hero.subtitle')}
+      titleSize="clamp"
+      containerWidth="wide"
+    >
+      <blockquote class="bp-kicker bp-hero-verse">{t('budget.hero.verse')}</blockquote>
+      <div class="bp-hero-stats">
+        <div class="bp-stat">
+          <div class="bp-stat-v">{fmtYi(latest.legal, lang)}</div>
+          <div class="bp-stat-l">{t('budget.hero.stat.legal')}</div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{passedDate}</div>
+          <div class="bp-stat-l">{t('budget.hero.stat.passed')} · {t('budget.hero.stat.passed.sub')}</div>
+        </div>
+        <div class="bp-stat is-warm">
+          <div class="bp-stat-v">{fmtYi(cuts115.cut, lang)}<small>{fmtPct(-cuts115.cut_pct, 2)}</small></div>
+          <div class="bp-stat-l">{t('budget.hero.stat.cut')} · {t('budget.hero.stat.cut.sub')}</div>
+        </div>
+        <div class="bp-stat is-cool">
+          <div class="bp-stat-v">{growth === null ? '—' : fmtPct(growth, 0)}</div>
+          <div class="bp-stat-l">{t('budget.hero.stat.growth')} · {t('budget.hero.stat.growth.sub')}</div>
+        </div>
+      </div>
+      <nav class="bp-toc" aria-label={t('budget.hero.jump')}>
+        {toc.map(([id, label]) => <a href={`#${id}`}>{label}</a>)}
+      </nav>
+    </PageHero>
+
+    <!-- §0 預算怎麼過（流程資訊圖表） -->
+    <section class="bp-section" id="s0">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s0.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s0.h2')}</h2>
+        <p class="bp-lede">{t('budget.s0.lede')}</p>
+        <ol class="bp-flow" aria-label={t('budget.s0.h2')}>
+          {
+            [1, 2, 3, 4, 5, 6, 7].map((n) => (
+              <li class={`bp-flow-step ${n <= 4 ? 'is-before' : n === 5 ? 'is-during' : 'is-after'}`}>
+                <div class="bp-flow-num">{n}</div>
+                <h3 class="bp-flow-title">{t(`budget.s0.step${n}.title` as any)}</h3>
+                <dl class="bp-flow-meta">
+                  <div>
+                    <dt>{t('budget.s0.col.actor')}</dt>
+                    <dd>{t(`budget.s0.step${n}.actor` as any)}</dd>
+                  </div>
+                  <div>
+                    <dt>{t('budget.s0.col.when')}</dt>
+                    <dd>{t(`budget.s0.step${n}.when` as any)}</dd>
+                  </div>
+                </dl>
+                <p class="bp-flow-what">{t(`budget.s0.step${n}.what` as any)}</p>
+                <p class="bp-flow-law">{t(`budget.s0.step${n}.law` as any)}</p>
+                <p class="bp-flow-actual">
+                  <span class="bp-flow-actual-k">{t('budget.s0.col.actual')}</span>
+                  {t(`budget.s0.step${n}.actual` as any)}
+                </p>
+              </li>
+            ))
+          }
+        </ol>
+        <p class="bp-note">{t('budget.s0.note')}</p>
+      </div>
+    </section>
+
+    <!-- §1 十年河流 -->
+    <section class="bp-section" id="s1">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s1.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s1.h2')}</h2>
+        <p class="bp-lede">{t('budget.s1.lede')}</p>
+        <LineChart
+          id="c-river"
+          title={t('budget.s1.chart.title')}
+          years={ce}
+          lang={lang}
+          eras={eras}
+          series={[
+            { id: 'proposed', label: t('budget.s1.series.proposed'), values: years.map((y) => y.proposed), cls: 'bg-mute', dashed: true },
+            { id: 'legal', label: t('budget.s1.series.legal'), values: years.map((y) => y.legal), cls: 'bg-s0', area: true },
+            { id: 'final', label: t('budget.s1.series.final'), values: years.map((y) => y.final), cls: 'bg-s1' },
+          ]}
+          annots={[
+            { year: 2023, seriesId: 'legal', text: t('budget.s1.annot.2023'), dir: 'up' },
+            { year: 2025, seriesId: 'proposed', text: t('budget.s1.annot.2025'), dir: 'up' },
+          ]}
+          source={zh ? '主計總處各年度立法院審議結果新聞稿；行政院各年度總決算新聞稿' : 'DGBAS review-result releases; Executive Yuan final-account releases'}
+        />
+        <div class="bp-prose">
+          <p>{t('budget.s1.p1')}</p>
+          <p>{t('budget.s1.p2')}</p>
+        </div>
+        <div>
+          <LineChart
+            id="c-gdp"
+            title={t('budget.s1.chart2.title')}
+            years={ce}
+            lang={lang}
+            unit="%"
+            yMax={40}
+            height={300}
+            eras={erasShort}
+            series={[
+              { id: 'gdp', label: t('budget.s1.series.gdp'), values: years.map((y) => y.gdpPct), cls: 'bg-s0' },
+              { id: 'debt', label: t('budget.s1.series.debt'), values: years.map((y) => y.debtPct), cls: 'bg-s2' },
+            ]}
+            source={zh ? '主計總處 115 年度總說明參考表 4；財政部國庫署債務概況表（115 為預算案預估）' : 'DGBAS FY2026 general explanation table 4; NTA debt tables (FY2026 = estimate)'}
+          />
+        </div>
+        <p class="bp-note">{t('budget.s1.note')}</p>
+      </div>
+    </section>
+
+    <!-- §2 錢往哪裡去 -->
+    <section class="bp-section" id="s2">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s2.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s2.h2')}</h2>
+        <p class="bp-lede">{t('budget.s2.lede')}</p>
+        <StackedArea
+          id="c-fn-abs"
+          title={t('budget.s2.chart.title')}
+          years={ce}
+          cats={fnCats}
+          values={fnValues}
+          lang={lang}
+          source={zh ? '主計總處 115 年度總說明參考表 6（105–113 決算審定數、114 法定、115 預算案）' : 'DGBAS FY2026 general explanation, table 6 (FY2016–24 final, FY2025 legal, FY2026 proposal)'}
+        />
+        <div class="bp-prose">
+          <p>{t('budget.s2.p1')}</p>
+          <p>{t('budget.s2.p2')}</p>
+        </div>
+        <div>
+          <StackedArea
+            id="c-fn-share"
+            title={t('budget.s2.chart2.title')}
+            years={ce}
+            cats={fnCats}
+            values={fnValues}
+            mode="share"
+            lang={lang}
+            height={340}
+            minLabelPx={9}
+          />
+        </div>
+        <p class="bp-note">{t('budget.s2.note')}</p>
+      </div>
+    </section>
+
+    <!-- §3 部會的十年 -->
+    <section class="bp-section" id="s3">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s3.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s3.h2')}</h2>
+        <p class="bp-lede">{t('budget.s3.lede')}</p>
+        <RankBars
+          id="c-rank"
+          title={t('budget.s3.chart.title')}
+          rows={rankTop}
+          nowLabel={t('budget.s3.now')}
+          thenLabel={t('budget.s3.then')}
+          lang={lang}
+          source={zh ? '主計總處歲出機關別預算總表（主管別）；115 為行政院提案數' : 'DGBAS expenditure by supervising agency; FY2026 = proposal'}
+        />
+        <div class="bp-prose">
+          <p>{t('budget.s3.p1')}</p>
+          <p>{t('budget.s3.p2')}</p>
+        </div>
+        <SmallMultiples
+          id="c-multi"
+          title={t('budget.s3.chart2.title')}
+          years={ce}
+          panels={multiPanels}
+          yMin={80}
+          yMax={300}
+          baseline={100}
+          cols={4}
+          lang={lang}
+          source={zh ? '同上；105 年度＝100，改制機關視為同一序列' : 'Same as above; FY2016 = 100, renamed agencies treated as one series'}
+        />
+        <p class="bp-note">{t('budget.s3.note')}</p>
+      </div>
+    </section>
+
+    <!-- §4 立法院的手 -->
+    <section class="bp-section" id="s4">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s4.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s4.h2')}</h2>
+        <p class="bp-lede">{t('budget.s4.lede')}</p>
+        <LineChart
+          id="c-cut"
+          title={t('budget.s4.chart.title')}
+          years={ce}
+          lang={lang}
+          unit="%"
+          yMax={8}
+          height={300}
+          eras={eras}
+          series={[{ id: 'cut', label: t('budget.s4.series.cut'), values: years.map((y) => y.cutPct), cls: 'bg-s1', area: true }]}
+          annots={[
+            { year: 2025, seriesId: 'cut', text: t('budget.s4.annot.2025'), dir: 'up' },
+            { year: 2026, seriesId: 'cut', text: t('budget.s4.annot.2026'), dir: 'up' },
+          ]}
+          source={zh ? '主計總處各年度立法院審議結果新聞稿；115 年度以 480 億 ÷ 原列 30,349.74 億計' : 'DGBAS review-result releases; FY2026 = 48B ÷ 3,034.974B proposed'}
+        />
+        <div class="bp-prose">
+          <p>{t('budget.s4.p1')}</p>
+          <p>{t('budget.s4.p2')}</p>
+        </div>
+        <h3 class="bp-h3">{t('budget.s4.table.h')}</h3>
+        <div class="bp-two">
+          {
+            [
+              [t('budget.s4.fy114'), cuts114],
+              [t('budget.s4.fy115'), cuts115],
+            ].map(([head, c]: any) => (
+              <div class="bp-tbl-wrap">
+                <table class="bp-cuts">
+                  <caption class="bp-cuts-cap">
+                    {head} · {zh ? '原列' : 'proposed'} {fmtYi(c.proposed, lang)} → {zh ? '法定' : 'legal'} {fmtYi(c.legal, lang)}（−{fmtYi(c.cut, lang)}，{c.cut_pct}%）
+                  </caption>
+                  <thead>
+                    <tr>
+                      <th>{t('budget.s4.table.item')}</th>
+                      <th>{t('budget.s4.table.value')}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {c.items.map((it: any) => (
+                      <tr>
+                        <td>
+                          <span class={`bp-tag ${kindCls(it.kind)}`}>{kindLabel(it.kind)}</span>
+                          {pick(it)}
+                        </td>
+                        <td>
+                          {pick(it.value)}
+                          {it.source && (
+                            <a class="bp-src no-external-icon" aria-label="source" href={it.source} target="_blank" rel="noopener">
+                              ↗
+                            </a>
+                          )}
+                        </td>
+                      </tr>
+                    ))}
+                    {c.frozen_note && (
+                      <tr>
+                        <td colspan="2" class="bp-cell-note">
+                          {pick(c.frozen_note)}
+                        </td>
+                      </tr>
+                    )}
+                  </tbody>
+                </table>
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- §5 兩年的角力 -->
+    <section class="bp-section" id="s5">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s5.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s5.h2')}</h2>
+        <p class="bp-lede">{t('budget.s5.lede')}</p>
+
+        <h3 class="bp-h3">{t('budget.s5.days.h')}</h3>
+        <div class="bp-days">
+          {
+            days.map((d) => (
+              <a class="bp-day no-external-icon" href={d.source} target="_blank" rel="noopener">
+                <div class="bp-day-n">
+                  {d.n}
+                  <small> {t('budget.s5.days.unit')}</small>
+                </div>
+                <div class="bp-day-who">{pick(d.who)}</div>
+                <div class="bp-day-q">{pick(d)}</div>
+              </a>
+            ))
+          }
+        </div>
+
+        <h3 class="bp-h3">{t('budget.s5.timeline.h')}</h3>
+        <ol class="bp-timeline">
+          {
+            events.map((e) => (
+              <li class={`bp-tl-item ${e.kind === 'pass' ? 'is-pass' : e.kind === 'key' ? 'is-key' : ''}`}>
+                <div class="bp-tl-date">{e.date}</div>
+                <div>
+                  <div class="bp-tl-title">
+                    {pick(e)}
+                    {e.source && (
+                      <a class="bp-src no-external-icon" aria-label="source" href={e.source} target="_blank" rel="noopener">
+                        ↗
+                      </a>
+                    )}
+                  </div>
+                </div>
+              </li>
+            ))
+          }
+        </ol>
+
+        <h3 class="bp-h3">{t('budget.s5.culture.h')}</h3>
+        <div class="bp-tbl-wrap">
+          <table class="bp-cuts bp-culture">
+            <thead>
+              <tr>
+                <th>{t('budget.s5.culture.item')}</th>
+                <th>{zh ? '114 年度（2025）' : 'FY2025'}</th>
+                <th>{zh ? '115 年度（2026）' : 'FY2026'}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {
+                culture.rows.map((r: any) => (
+                  <tr>
+                    <td>
+                      {r.kind && <span class={`bp-tag ${r.kind === 'cut' ? 'is-cut' : r.kind === 'freeze' ? 'is-freeze' : ''}`}>{r.kind === 'cut' ? t('budget.s4.kind.cut') : r.kind === 'freeze' ? t('budget.s4.kind.freeze') : zh ? '刪／凍' : 'cut/frozen'}</span>}
+                      {pick(r)}
+                    </td>
+                    <td>{pick(r.y114)}</td>
+                    <td>{pick(r.y115)}</td>
+                  </tr>
+                ))
+              }
+            </tbody>
+          </table>
+        </div>
+        <div class="bp-prose">
+          <p>{t('budget.s5.culture.p1')}</p>
+        </div>
+
+        <h3 class="bp-h3">{t('budget.s5.voices.h')}</h3>
+        <div class="bp-versus">
+          {
+            [
+              ['side-a', voices.gov],
+              ['side-b', voices.opp],
+              ['side-c', voices.third],
+            ].map(([cls, v]: any) => (
+              <div class={`bp-side ${cls}`}>
+                <h4>{pick(v)}</h4>
+                <ul>
+                  {v.items.map((it: any) => (
+                    <li>
+                      {pick(it)}
+                      {it.source && (
+                        <a class="bp-src no-external-icon" aria-label="source" href={it.source} target="_blank" rel="noopener">
+                          ↗
+                        </a>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))
+          }
+        </div>
+        <p class="bp-note">{t('budget.s5.note')}</p>
+      </div>
+    </section>
+
+    <!-- §6 編了，花了多少 -->
+    <section class="bp-section" id="s6">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s6.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s6.h2')}</h2>
+        <p class="bp-lede">{t('budget.s6.lede')}</p>
+        <ExecutionBars
+          id="c-exec"
+          title={t('budget.s6.chart.title')}
+          rows={execRows}
+          lang={lang}
+          source={zh ? '行政院各年度總決算新聞稿（執行率＝決算 ÷ 法定預算，自算）' : 'Executive Yuan final-account releases (rate = final ÷ legal, computed)'}
+        />
+        <div class="bp-prose">
+          <p>{t('budget.s6.p1')}</p>
+          <p>{t('budget.s6.p2')}</p>
+        </div>
+
+        <h3 class="bp-h3">{t('budget.s6.defense.h')}</h3>
+        <figure class="bg-chart bp-defense">
+          <h4 class="bg-chart-title">
+            {t('budget.s6.defense.total')} {defense.total.toLocaleString('en-US')} · {defense.gdp_pct}% GDP
+          </h4>
+          <div class="bp-stackbar" role="img" aria-label={`${t('budget.s6.defense.total')} ${defense.total}`}>
+            {
+              defense.parts.map((p: any, i: number) => (
+                <div class={`bp-stackseg bg-cat-${i}`} style={`flex: ${p.amount} 0 0`}>
+                  <span class="bp-stackseg-v">{p.amount.toLocaleString('en-US')}</span>
+                </div>
+              ))
+            }
+          </div>
+          <ul class="bp-stacklegend">
+            {
+              defense.parts.map((p: any, i: number) => (
+                <li>
+                  <span class={`bg-swatch bg-cat-${i}`} aria-hidden="true" /> {pick(p)}：{p.amount.toLocaleString('en-US')}
+                </li>
+              ))
+            }
+          </ul>
+          <figcaption class="bg-chart-src">
+            {t('budget.s6.defense.function')}：{defense.function_only.toLocaleString('en-US')} · <a href={defense.source} target="_blank" rel="noopener">DGBAS</a> · <a href={defense.source2} target="_blank" rel="noopener">MyGoPen</a>
+          </figcaption>
+        </figure>
+
+        <h3 class="bp-h3">{t('budget.s6.special.h')}</h3>
+        <div class="bp-guide">
+          {
+            special.map((s: any) => (
+              <div class="bp-guide-card">
+                <h4>{pick(s)}</h4>
+                <p>
+                  <b>{t('budget.s6.special.period')} {s.period}</b>
+                  <br />
+                  {pick(s.amount)}
+                  {s.source && (
+                    <a class="bp-src no-external-icon" aria-label="source" href={s.source} target="_blank" rel="noopener">
+                      ↗
+                    </a>
+                  )}
+                </p>
+              </div>
+            ))
+          }
+        </div>
+        <p class="bp-note">{t('budget.s6.note')}</p>
+      </div>
+    </section>
+
+    <!-- §7 怎麼讀 -->
+    <section class="bp-section" id="s7">
+      <div class="bp-wrap">
+        <blockquote class="bp-kicker">{t('budget.s7.kicker')}</blockquote>
+        <h2 class="bp-h2">{t('budget.s7.h2')}</h2>
+        <div class="bp-guide">
+          {
+            [1, 2, 3, 4, 5, 6].map((n) => (
+              <div class="bp-guide-card">
+                <h4>{t(`budget.s7.g${n}.h` as any)}</h4>
+                <p>{t(`budget.s7.g${n}.p` as any)}</p>
+              </div>
+            ))
+          }
+        </div>
+
+        <h3 class="bp-h3">{t('budget.s7.sources.h')}</h3>
+        <div class="bp-prose">
+          <p>{t('budget.s7.sources.p')}</p>
+        </div>
+        <ul class="bp-sources">
+          {
+            sources.map((s: any) => (
+              <li>
+                <a href={s.url} target="_blank" rel="noopener">
+                  {pick(s)}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+        <div class="bp-related">
+          <a href="https://github.com/frank890417/taiwan-md/blob/main/src/data/ly-budget.json" target="_blank" rel="noopener">⬇︎ {t('budget.s7.download')}</a>
+          <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank" rel="noopener">✎ {t('budget.s7.corrections')}</a>
+        </div>
+        <p class="bg-chart-src">{t('budget.hero.updated')} {(ly.meta as any).generated}</p>
+
+        <h3 class="bp-h3">{t('budget.s7.related.h')}</h3>
+        <div class="bp-related">
+          {relTaicca && <a href={relTaicca}>🎬 {t('budget.s7.related.taicca')}</a>}
+          {relPts && <a href={relPts}>📺 {t('budget.s7.related.pts')}</a>}
+          {relRecall && <a href={relRecall}>🗳️ {t('budget.s7.related.recall')}</a>}
+          {relPolitics && <a href={relPolitics}>🏛️ {t('budget.s7.related.politics')}</a>}
+          <a href={translatePath('/data')}>📊 {t('budget.s7.related.data')}</a>
+          <a href={translatePath('/companies')}>🏢 {t('budget.s7.related.companies')}</a>
+          <a href={translatePath('/opendata')}>🗂️ {t('budget.s7.related.opendata')}</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    // 漸進增強：折線圖 hover 交叉線 + 讀 <title> 顯示 tooltip。無 JS 時原生 <title> 仍可用。
+    document.querySelectorAll<HTMLElement>('.bg-chart[data-chart="line"]').forEach((fig) => {
+      const svg = fig.querySelector('svg');
+      if (!svg) return;
+      const dots = Array.from(svg.querySelectorAll<SVGCircleElement>('circle.bg-dot'));
+      if (!dots.length) return;
+      const tip = document.createElement('div');
+      tip.className = 'bg-tip';
+      fig.appendChild(tip);
+      const vb = svg.viewBox.baseVal;
+      const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('class', 'bg-hover-line');
+      line.setAttribute('y1', '0');
+      line.setAttribute('y2', String(vb.height));
+      line.style.display = 'none';
+      svg.appendChild(line);
+      const xs = Array.from(new Set(dots.map((d) => +d.getAttribute('cx')!))).sort((a, b) => a - b);
+      svg.addEventListener('pointermove', (ev) => {
+        const r = svg.getBoundingClientRect();
+        const px = ((ev.clientX - r.left) / r.width) * vb.width;
+        let best = xs[0];
+        for (const x of xs) if (Math.abs(x - px) < Math.abs(best - px)) best = x;
+        line.setAttribute('x1', String(best));
+        line.setAttribute('x2', String(best));
+        line.style.display = '';
+        const rows = dots
+          .filter((d) => +d.getAttribute('cx')! === best)
+          .map((d) => d.querySelector('title')?.textContent || '')
+          .filter(Boolean);
+        tip.innerHTML = rows.map((s) => `<div>${s}</div>`).join('');
+        tip.classList.add('is-on');
+        const fr = fig.getBoundingClientRect();
+        const left = ((best / vb.width) * r.width) + (r.left - fr.left);
+        tip.style.left = `${Math.min(Math.max(8, left + 12), fr.width - 270)}px`;
+        tip.style.top = `${r.top - fr.top + 8}px`;
+      });
+      svg.addEventListener('pointerleave', () => {
+        line.style.display = 'none';
+        tip.classList.remove('is-on');
+      });
+    });
+  </script>
+</Layout>

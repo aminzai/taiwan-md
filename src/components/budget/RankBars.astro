@@ -1,0 +1,157 @@
+---
+/**
+ * RankBars — 排序橫條（今年值）＋ 起點年幽靈標記（dumbbell）＋ 增減標籤。
+ * 一列一機關；`highlight` 的列上色，其餘退灰當脈絡（graph.md §三.10）。
+ */
+import { scaleLinear, niceTicks, fmtAxis, fmtYi, fmtPct } from '../../utils/budgetViz';
+
+export interface Row {
+  id: string;
+  label: string;
+  /** 今年值（億元） */
+  now: number;
+  /** 起點年值（億元），可 null */
+  then?: number | null;
+  highlight?: boolean;
+  /** 額外小字（例：主管機關改制註記） */
+  note?: string;
+}
+interface Props {
+  title: string;
+  rows: Row[];
+  nowLabel: string;
+  thenLabel?: string;
+  source?: string;
+  lang?: string;
+  id?: string;
+  /** 每列高度 px */
+  rowH?: number;
+}
+const {
+  title,
+  rows,
+  nowLabel,
+  thenLabel,
+  source,
+  lang = 'zh-TW',
+  id,
+  rowH = 26,
+} = Astro.props;
+
+const W = 760;
+const M = { l: 118, r: 128, t: 28, b: 24 };
+const iw = W - M.l - M.r;
+const H = M.t + rows.length * rowH + M.b;
+const max = Math.max(...rows.map((r) => Math.max(r.now, r.then ?? 0)));
+const ticks = niceTicks(max, 4);
+const top = ticks[ticks.length - 1];
+const x = scaleLinear(0, top, M.l, M.l + iw);
+const zh = lang === 'zh-TW';
+const uid =
+  id ||
+  `rb-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const barH = Math.max(8, rowH - 12);
+---
+
+<figure class="bg-chart" data-chart="rank" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  <svg
+    viewBox={`0 0 ${W} ${H}`}
+    role="img"
+    aria-labelledby={`${uid}-h`}
+    class="bg-svg"
+    preserveAspectRatio="xMidYMid meet"
+  >
+    <title id={`${uid}-t`}>{title}</title>
+    {
+      ticks.map((t) => (
+        <g class="bg-grid">
+          <line x1={x(t)} x2={x(t)} y1={M.t - 6} y2={M.t + rows.length * rowH} />
+          <text x={x(t)} y={M.t - 10} text-anchor="middle" class="bg-tick">
+            {fmtAxis(t)}
+          </text>
+        </g>
+      ))
+    }
+    {
+      rows.map((r, i) => {
+        const cy = M.t + i * rowH + rowH / 2;
+        const delta = r.then != null && r.then > 0 ? ((r.now - r.then) / r.then) * 100 : null;
+        return (
+          <g class={`bg-row ${r.highlight ? 'is-hi' : ''}`} data-id={r.id}>
+            <text x={M.l - 10} y={cy + 4} text-anchor="end" class="bg-rowlab">
+              {r.label}
+            </text>
+            <rect
+              x={x(0)}
+              y={cy - barH / 2}
+              width={Math.max(0, x(r.now) - x(0))}
+              height={barH}
+              rx={3}
+              class="bg-bar"
+            >
+              <title>{`${r.label} · ${nowLabel}：${fmtYi(r.now, lang)}${r.then != null ? `｜${thenLabel}：${fmtYi(r.then, lang)}` : ''}`}</title>
+            </rect>
+            {r.then != null && (
+              <line
+                x1={x(r.then)}
+                x2={x(r.then)}
+                y1={cy - barH / 2 - 3}
+                y2={cy + barH / 2 + 3}
+                class="bg-then"
+              />
+            )}
+            <text x={x(Math.max(r.now, r.then ?? 0)) + 6} y={cy + 4} class="bg-val">
+              {fmtAxis(r.now)}
+              {delta !== null && (
+                <tspan class={delta >= 0 ? 'bg-up' : 'bg-down'}> {fmtPct(delta, 0)}</tspan>
+              )}
+            </text>
+          </g>
+        );
+      })
+    }
+    {/* 圖例（兩個 marker 需要說明：條＝今年、直槓＝起點年） */}
+    <g class="bg-legend" transform={`translate(${M.l}, ${H - 6})`}>
+      <rect x={0} y={-9} width={14} height={8} rx={2} class="bg-bar" />
+      <text x={18} y={-2} class="bg-tick">{nowLabel}</text>
+      {thenLabel && (
+        <>
+          <line x1={78} x2={78} y1={-12} y2={2} class="bg-then" />
+          <text x={84} y={-2} class="bg-tick">{thenLabel}</text>
+        </>
+      )}
+    </g>
+  </svg>
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '機關' : 'Agency'}</th>
+            {thenLabel && <th class="num">{thenLabel}</th>}
+            <th class="num">{nowLabel}</th>
+            {thenLabel && <th class="num">{zh ? '增減' : 'Change'}</th>}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => {
+              const delta = r.then != null && r.then > 0 ? ((r.now - r.then) / r.then) * 100 : null;
+              return (
+                <tr>
+                  <td>{r.label}{r.note && <small class="bg-note"> {r.note}</small>}</td>
+                  {thenLabel && <td class="num">{r.then != null ? Math.round(r.then).toLocaleString('en-US') : '—'}</td>}
+                  <td class="num">{Math.round(r.now).toLocaleString('en-US')}</td>
+                  {thenLabel && <td class="num">{delta === null ? '—' : fmtPct(delta, 1)}</td>}
+                </tr>
+              );
+            })
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

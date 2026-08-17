@@ -1,0 +1,133 @@
+---
+/**
+ * SmallMultiples — 多組同型趨勢的小倍數格（graph.md §二「多組同型趨勢」）。
+ * 每格一機關；共用 y 值域（indexed 模式：起點年 = 100，讀「誰長得快」）。
+ * 每格標名 + 終點值；表格 fallback 一張。
+ */
+import { scaleLinear, linePath, areaPath } from '../../utils/budgetViz';
+
+export interface Panel {
+  id: string;
+  label: string;
+  /** 已 indexed 或原值皆可（此元件不換算，由呼叫端決定） */
+  values: (number | null)[];
+  /** 終點顯示字串（例 '+142%' 或 '3,860 億'） */
+  endText?: string;
+  highlight?: boolean;
+  /** 額外小字（例：機關改制） */
+  note?: string;
+}
+interface Props {
+  title: string;
+  years: number[];
+  panels: Panel[];
+  /** 共用 y 值域（indexed 模式建議 [50, 300]） */
+  yMin?: number;
+  yMax?: number;
+  /** 基準線（indexed 模式 = 100） */
+  baseline?: number;
+  cols?: number;
+  source?: string;
+  lang?: string;
+  id?: string;
+}
+const {
+  title,
+  years,
+  panels,
+  yMin = 0,
+  yMax,
+  baseline,
+  cols = 4,
+  source,
+  lang = 'zh-TW',
+  id,
+} = Astro.props;
+
+const allVals = panels.flatMap((p) => p.values.filter((v): v is number => v !== null));
+const top = yMax ?? Math.max(...allVals) * 1.05;
+const pw = 180;
+const ph = 96;
+const gap = 12;
+const rows = Math.ceil(panels.length / cols);
+const W = cols * pw + (cols - 1) * gap;
+const H = rows * (ph + gap);
+const inner = { l: 6, r: 6, t: 20, b: 8 };
+const x = scaleLinear(years[0], years[years.length - 1], inner.l, pw - inner.r);
+const y = scaleLinear(yMin, top, ph - inner.b, inner.t);
+const zh = lang === 'zh-TW';
+const uid =
+  id ||
+  `sm-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+---
+
+<figure class="bg-chart bg-multiples" data-chart="multiples" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  <svg
+    viewBox={`0 0 ${W} ${H}`}
+    role="img"
+    aria-labelledby={`${uid}-h`}
+    class="bg-svg"
+    preserveAspectRatio="xMidYMid meet"
+  >
+    <title id={`${uid}-t`}>{title}</title>
+    {
+      panels.map((p, i) => {
+        const cx = (i % cols) * (pw + gap);
+        const cy = Math.floor(i / cols) * (ph + gap);
+        const pts = p.values
+          .map((v, k) => (v === null ? null : { x: x(years[k]), y: y(Math.min(v, top)) }))
+          .filter((q): q is { x: number; y: number } => q !== null);
+        const last = pts[pts.length - 1];
+        return (
+          <g transform={`translate(${cx},${cy})`} class={`bg-panel ${p.highlight ? 'is-hi' : ''}`} data-id={p.id}>
+            <rect x={0} y={0} width={pw} height={ph} rx={8} class="bg-panel-bg" />
+            {baseline !== undefined && baseline >= yMin && baseline <= top && (
+              <line x1={inner.l} x2={pw - inner.r} y1={y(baseline)} y2={y(baseline)} class="bg-baseline" />
+            )}
+            {pts.length > 1 && (
+              <path d={areaPath(pts, pts.map((q) => ({ x: q.x, y: y(Math.max(yMin, baseline ?? yMin)) })))} class="bg-area" />
+            )}
+            <path d={linePath(pts)} class="bg-line" fill="none" />
+            {last && <circle cx={last.x} cy={last.y} r={2.6} class="bg-dot" />}
+            <text x={inner.l + 2} y={13} class="bg-panel-lab">
+              {p.label}
+            </text>
+            {p.endText && (
+              <text x={pw - inner.r - 2} y={13} text-anchor="end" class="bg-panel-end">
+                {p.endText}
+              </text>
+            )}
+            <title>{`${p.label}${p.endText ? '：' + p.endText : ''}`}</title>
+          </g>
+        );
+      })
+    }
+  </svg>
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '機關' : 'Agency'}</th>
+            {years.map((yr) => <th class="num">{yr}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            panels.map((p) => (
+              <tr>
+                <td>{p.label}{p.note && <small class="bg-note"> {p.note}</small>}</td>
+                {p.values.map((v) => (
+                  <td class="num">{v === null ? '—' : Math.round(v).toLocaleString('en-US')}</td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

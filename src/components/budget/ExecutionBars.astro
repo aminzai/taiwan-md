@@ -1,0 +1,98 @@
+---
+/**
+ * ExecutionBars — 「編了多少、花了多少」：每列一年，灰軌＝法定預算數（100%），
+ * 實心條＝決算數；條尾標執行率。bullet-chart 簡化版。
+ */
+import { fmtYi } from '../../utils/budgetViz';
+
+export interface ERow {
+  label: string; // 年度
+  budget: number; // 法定預算（億元）
+  actual: number | null; // 決算數（億元）
+  rate: number | null; // 執行率 %
+  note?: string;
+}
+interface Props {
+  title: string;
+  rows: ERow[];
+  source?: string;
+  lang?: string;
+  id?: string;
+  rowH?: number;
+}
+const { title, rows, source, lang = 'zh-TW', id, rowH = 28 } = Astro.props;
+const W = 760;
+const M = { l: 64, r: 150, t: 22, b: 10 };
+const iw = W - M.l - M.r;
+const H = M.t + rows.length * rowH + M.b;
+const max = Math.max(...rows.map((r) => Math.max(r.budget, r.actual ?? 0)));
+const x = (v: number) => M.l + (v / max) * iw;
+const zh = lang === 'zh-TW';
+const uid =
+  id ||
+  `eb-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const barH = Math.max(10, rowH - 12);
+---
+
+<figure class="bg-chart" data-chart="execution" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-labelledby={`${uid}-h`} class="bg-svg" preserveAspectRatio="xMidYMid meet">
+    <title id={`${uid}-t`}>{title}</title>
+    <g class="bg-legend" transform={`translate(${M.l}, ${M.t - 8})`}>
+      <rect x={0} y={-8} width={14} height={8} rx={2} class="bg-track" />
+      <text x={18} y={0} class="bg-tick">{zh ? '法定預算' : 'Legal budget'}</text>
+      <rect x={90} y={-8} width={14} height={8} rx={2} class="bg-bar" />
+      <text x={108} y={0} class="bg-tick">{zh ? '決算（實際支出）' : 'Final accounts (actual)'}</text>
+    </g>
+    {
+      rows.map((r, i) => {
+        const cy = M.t + i * rowH + rowH / 2;
+        return (
+          <g class="bg-row" data-year={r.label}>
+            <text x={M.l - 10} y={cy + 4} text-anchor="end" class="bg-rowlab">{r.label}</text>
+            <rect x={M.l} y={cy - barH / 2} width={x(r.budget) - M.l} height={barH} rx={3} class="bg-track">
+              <title>{`${r.label} ${zh ? '法定預算' : 'budget'}：${fmtYi(r.budget, lang)}`}</title>
+            </rect>
+            {r.actual !== null && (
+              <rect x={M.l} y={cy - barH / 2 + 2} width={Math.max(0, x(r.actual) - M.l)} height={barH - 4} rx={2} class="bg-bar">
+                <title>{`${r.label} ${zh ? '決算' : 'actual'}：${fmtYi(r.actual, lang)}（${r.rate?.toFixed(1)}%）`}</title>
+              </rect>
+            )}
+            <text x={x(Math.max(r.budget, r.actual ?? 0)) + 6} y={cy + 4} class="bg-val">
+              {r.rate === null ? (zh ? '決算未出' : 'n/a') : `${r.rate.toFixed(1)}%`}
+              {r.note && <tspan class="bg-val-sub"> {r.note}</tspan>}
+            </text>
+          </g>
+        );
+      })
+    }
+  </svg>
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '年度' : 'Year'}</th>
+            <th class="num">{zh ? '法定預算（億元）' : 'Budget (NT$100M)'}</th>
+            <th class="num">{zh ? '決算（億元）' : 'Actual (NT$100M)'}</th>
+            <th class="num">{zh ? '執行率' : 'Rate'}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <td>{r.label}{r.note && <small class="bg-note"> {r.note}</small>}</td>
+                <td class="num">{Math.round(r.budget).toLocaleString('en-US')}</td>
+                <td class="num">{r.actual === null ? '—' : Math.round(r.actual).toLocaleString('en-US')}</td>
+                <td class="num">{r.rate === null ? '—' : `${r.rate.toFixed(1)}%`}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

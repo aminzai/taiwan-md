@@ -1,0 +1,267 @@
+---
+/**
+ * LineChart — /budget 折線圖（SSR inline SVG + 資料表 fallback）。
+ * 多序列、可加「時期底色帶」（政權期）與逐點註記；y 軸預設從 0 起（誠實座標軸）。
+ */
+import {
+  scaleLinear,
+  niceTicks,
+  linePath,
+  areaPath,
+  fmtAxis,
+  fmtYi,
+} from '../../utils/budgetViz';
+
+export interface Series {
+  id: string;
+  label: string;
+  values: (number | null)[];
+  /** CSS class for stroke colour（bg-s0 / bg-s1 / bg-s2 / bg-mute） */
+  cls?: string;
+  /** 畫成面積（底色淡）而非只有線 */
+  area?: boolean;
+  dashed?: boolean;
+}
+export interface Era {
+  from: number; // CE year (inclusive)
+  to: number; // CE year (inclusive)
+  label: string;
+  /** 帶寬不夠時用的短標籤 */
+  short?: string;
+  cls?: string;
+}
+export interface Annot {
+  year: number;
+  seriesId: string;
+  text: string;
+  /** 'up' 文字放點上方 / 'down' 放下方 */
+  dir?: 'up' | 'down';
+}
+interface Props {
+  title: string;
+  years: number[];
+  series: Series[];
+  unit?: '億' | '%';
+  yMax?: number;
+  eras?: Era[];
+  annots?: Annot[];
+  source?: string;
+  tableTitle?: string;
+  lang?: string;
+  height?: number;
+  id?: string;
+}
+const {
+  title,
+  years,
+  series,
+  unit = '億',
+  yMax,
+  eras = [],
+  annots = [],
+  source,
+  tableTitle,
+  lang = 'zh-TW',
+  height = 340,
+  id,
+} = Astro.props;
+
+const W = 760;
+const H = height;
+// 右邊界依最長末端標籤動態算（CJK ~12px/字、拉丁 ~6.5px/字），避免標籤出框
+const estW = (str: string) =>
+  Array.from(str).reduce((a, c) => a + (c.charCodeAt(0) > 255 ? 12 : 6.5), 0);
+const longest = Math.max(0, ...series.map((s) => estW(s.label)));
+const M = { l: 58, r: Math.max(118, Math.min(220, longest + 16)), t: 22, b: 34 };
+const iw = W - M.l - M.r;
+const ih = H - M.t - M.b;
+
+const allVals = series.flatMap((s) => s.values.filter((v): v is number => v !== null));
+const dataMax = Math.max(0, ...allVals);
+const ticks = niceTicks(yMax ?? dataMax, 5);
+const top = ticks[ticks.length - 1];
+const x = scaleLinear(years[0], years[years.length - 1], M.l, M.l + iw);
+const y = scaleLinear(0, top, M.t + ih, M.t);
+
+const paths = series.map((s) => {
+  const pts = s.values
+    .map((v, i) => (v === null ? null : { x: x(years[i]), y: y(v), i, v }))
+    .filter((p): p is { x: number; y: number; i: number; v: number } => p !== null);
+  const last = pts.length ? pts[pts.length - 1] : null;
+  return {
+    s,
+    d: linePath(pts),
+    area: s.area ? areaPath(pts, pts.map((p) => ({ x: p.x, y: y(0) }))) : '',
+    pts,
+    last,
+  };
+});
+
+// 末端標籤防重疊：依 y 排序後最小間距 14px
+const endLabels = paths
+  .filter((p) => p.last)
+  .map((p) => ({ p, ly: y(p.last!.v), label: p.s.label, cls: p.s.cls || 'bg-s0' }))
+  .sort((a, b) => a.ly - b.ly);
+for (let i = 1; i < endLabels.length; i++) {
+  if (endLabels[i].ly - endLabels[i - 1].ly < 14) endLabels[i].ly = endLabels[i - 1].ly + 14;
+}
+
+const eraBands = eras.map((e) => {
+  const x0 = Math.max(M.l, x(Math.max(e.from, years[0]) - 0.5));
+  const x1 = Math.min(M.l + iw, x(Math.min(e.to, years[years.length - 1]) + 0.5));
+  const w = x1 - x0;
+  const text = w < 150 && e.short ? e.short : e.label;
+  // 估字寬：CJK 每字 ~10.5px；帶太窄就靠邊錨定，讓字往圖內長
+  const est = Array.from(text).reduce((a, c) => a + (c.charCodeAt(0) > 255 ? 10.5 : 6), 0);
+  let anchor: 'start' | 'middle' | 'end' = 'middle';
+  let tx = (x0 + x1) / 2;
+  if (est > w) {
+    if (x0 <= M.l + 1) {
+      anchor = 'start';
+      tx = x0 + 4;
+    } else if (x1 >= M.l + iw - 1) {
+      anchor = 'end';
+      tx = x1 - 4;
+    }
+  }
+  return { ...e, x0, x1, text, anchor, tx };
+});
+const zh = lang === 'zh-TW';
+// 決定性 id（SSR 每次 build 一致）：沒給 id 就用標題字元和
+const uid =
+  id ||
+  `lc-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+---
+
+<figure class="bg-chart" data-chart="line" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  <svg
+    viewBox={`0 0 ${W} ${H}`}
+    role="img"
+    aria-labelledby={`${uid}-h`}
+    class="bg-svg"
+    preserveAspectRatio="xMidYMid meet"
+  >
+    <title id={`${uid}-t`}>{title}</title>
+    {/* 時期底色帶 */}
+    {
+      eraBands.map((e) => (
+        <g class={`bg-era ${e.cls || ''}`}>
+          <rect x={e.x0} y={M.t} width={Math.max(0, e.x1 - e.x0)} height={ih} />
+          <text x={e.tx} y={M.t + 12} text-anchor={e.anchor} class="bg-era-lab">
+            {e.text}
+          </text>
+        </g>
+      ))
+    }
+    {/* y 格線 + 刻度 */}
+    {
+      ticks.map((t) => (
+        <g class="bg-grid">
+          <line x1={M.l} x2={M.l + iw} y1={y(t)} y2={y(t)} />
+          <text x={M.l - 8} y={y(t) + 4} text-anchor="end" class="bg-tick">
+            {fmtAxis(t, unit)}
+          </text>
+        </g>
+      ))
+    }
+    {/* x 刻度：每年一格，寬度不夠時隔年標 */}
+    {
+      years.map((yr, i) => (
+        <text
+          x={x(yr)}
+          y={M.t + ih + 20}
+          text-anchor="middle"
+          class="bg-tick"
+          opacity={years.length > 8 && i % 2 === 1 ? 0 : 1}
+        >
+          {yr}
+        </text>
+      ))
+    }
+    <line x1={M.l} x2={M.l + iw} y1={y(0)} y2={y(0)} class="bg-axis" />
+    {/* 序列 */}
+    {
+      paths.map((p) => (
+        <g class={`bg-series ${p.s.cls || 'bg-s0'}`} data-series={p.s.id}>
+          {p.area && <path d={p.area} class="bg-area" />}
+          <path
+            d={p.d}
+            class="bg-line"
+            fill="none"
+            stroke-dasharray={p.s.dashed ? '5 4' : undefined}
+          />
+          {p.pts.map((pt) => (
+            <circle cx={pt.x} cy={pt.y} r={3.2} class="bg-dot">
+              <title>{`${years[pt.i]} · ${p.s.label}：${unit === '%' ? pt.v.toFixed(1) + '%' : fmtYi(pt.v, lang)}`}</title>
+            </circle>
+          ))}
+        </g>
+      ))
+    }
+    {/* 末端直接標籤（取代圖例） */}
+    {
+      endLabels.map((e) => (
+        <text
+          x={M.l + iw + 8}
+          y={e.ly + 4}
+          class={`bg-endlab ${e.cls}`}
+        >
+          {e.label}
+        </text>
+      ))
+    }
+    {/* 註記 */}
+    {
+      annots.map((a) => {
+        const s = series.find((s) => s.id === a.seriesId);
+        const i = years.indexOf(a.year);
+        if (!s || i < 0 || s.values[i] === null) return null;
+        const px = x(a.year);
+        const py = y(s.values[i] as number);
+        const up = a.dir !== 'down';
+        const ty = up ? py - 14 : py + 20;
+        return (
+          <g class="bg-annot">
+            <line x1={px} x2={px} y1={py} y2={up ? ty + 4 : ty - 12} />
+            <text x={px} y={ty} text-anchor="middle">
+              {a.text}
+            </text>
+          </g>
+        );
+      })
+    }
+  </svg>
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{tableTitle || (zh ? '資料表' : 'Data table')}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '年度' : 'Year'}</th>
+            {series.map((s) => <th class="num">{s.label}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            years.map((yr, i) => (
+              <tr>
+                <td>{yr}</td>
+                {series.map((s) => (
+                  <td class="num">
+                    {s.values[i] === null
+                      ? '—'
+                      : unit === '%'
+                        ? `${(s.values[i] as number).toFixed(1)}%`
+                        : (s.values[i] as number).toLocaleString('en-US')}
+                  </td>
+                ))}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>
