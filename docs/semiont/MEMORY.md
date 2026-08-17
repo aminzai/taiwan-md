@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-18
-last_session: '2026-08-18-053727-twmd-routine-sync'
+last_session: '2026-08-18-061508-twmd-data-refresh-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-17 | 201935-manual | 模板層 127 處中文 fallback 清零（122 key × 12 語、26 檔），造模板層與渲染層兩支閘門；順手修掉自己閘門把「占比」判成簡體、擋到別人 commit 的假陽性 | 五次拿代理當尺量真正想知道的事；假陰性更難發現，因為沒有東西可以懷疑 | [→](memory/2026-08-17-201935-manual.md) |
 | 2026-08-18 | 053727-twmd-routine-sync | 三層對賬第二十五輪，18 條全 in-sync 零漂移，連續第七輪；origin 未落後，未動任何檔案 | 這條 routine 存在本身讓漂移沒有累積空間就被清掉 | [→](memory/2026-08-18-053727-twmd-routine-sync.md) |
 | 2026-08-18 | 053730-twmd-embeddings-nightly | 12 語重建 9591 向量 0 fail；昨夜十二語同動的資料點沒延續，今夜收斂回僅 en 一語微幅變動 | 記單夜資料點不下判斷，隔夜驗證了保留判斷是對的 | [→](memory/2026-08-18-053730-twmd-embeddings-nightly.md) |
+| 2026-08-18 | 061508-twmd-data-refresh-am | 14 步全綠零 stale 連續第八天；貢獻者 73→74；昨日新抓的格式性 404 熱點（CSS gradient 序列化進 URL）今天未在新一天資料重現 | 單日消失是訊號不是結論，多輪觀察窗才能確認根因是否已修 | [→](memory/2026-08-18-061508-twmd-data-refresh-am.md) |
