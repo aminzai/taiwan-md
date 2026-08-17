@@ -41,7 +41,7 @@ _KEYWORD_BOOSTS: dict[str, list[tuple[str, list[str]]]] = {
         ("語言與文字", ["語言", "母語", "注音", "外來語"]),
         ("工藝與美學", ["花布", "工藝", "茶道", "製香"]),
         ("出版與媒體", ["雜誌", "漫畫", "媒體"]),
-        ("老街與商圈", ["老街"]),
+        ("區域特色", ["老街"]),
         ("運動文化", ["棒球", "巧固球"]),
     ],
     "Economy": [
@@ -56,16 +56,18 @@ _KEYWORD_BOOSTS: dict[str, list[tuple[str, list[str]]]] = {
         ("庶民經濟", ["夜市"]),
     ],
     "Society": [
-        ("社會制度", ["兵役", "當兵", "義務役", "役男", "教召", "金馬獎", "替代役", "制度", "颱風假"]),
         ("民主與政治", ["選舉", "政治", "太陽花", "野百合", "民主"]),
         ("國際關係", ["邦交", "外交", "國際"]),
         ("媒體與言論", ["媒體", "新聞", "言論", "迷因"]),
         ("人權與平等", ["人權", "同婚", "性別", "移工"]),
         ("社會運動", ["社運", "公民", "抗議"]),
-        ("社區與日常", ["社區", "里長", "阿姨", "日常"]),
+        ("社區與日常", ["社區", "里長", "阿姨", "日常", "颱風假"]),
         ("教育", ["教育", "升學", "學校"]),
         ("社會福利", ["長照", "社會住宅", "福利"]),
-        ("社會韌性", ["災難", "志工", "韌性", "國防"]),
+        # 原本「社會制度」（兵役那組）不是正典標籤，2026-08-17 併進社會韌性；
+        # 該分類原本就有一組 災難/志工/韌性/國防 的關鍵字，兩組合併成一條。
+        ("社會韌性", ["兵役", "當兵", "義務役", "役男", "教召", "替代役",
+                      "災難", "志工", "韌性", "國防"]),
     ],
     "Lifestyle": [
         ("城市生活", ["便利商店", "超商", "垃圾車", "騎樓", "小綠人"]),
@@ -78,23 +80,23 @@ _KEYWORD_BOOSTS: dict[str, list[tuple[str, list[str]]]] = {
         ("交通與基礎設施", ["交通", "基建", "基礎設施"]),
     ],
     "Technology": [
-        ("網路與社群", ["PTT", "批踢踢", "社群", "網路"]),
+        ("社群與數位文化", ["PTT", "批踢踢", "社群", "網路"]),
     ],
     "Food": [
         ("經典小吃", ["小吃", "夜市", "滷肉", "牛肉麵"]),
         ("飲品文化", ["珍奶", "手搖", "咖啡", "豆漿"]),
     ],
     "People": [
-        ("政治人物", ["總統", "市長", "立委", "政治"]),
-        ("企業家", ["創辦人", "董事長", "企業家"]),
+        ("政治與民主", ["總統", "市長", "立委", "政治"]),
+        ("科技與企業", ["創辦人", "董事長", "企業家"]),
     ],
     "Nature": [
-        ("生態保育", ["保育", "生態", "瀕危"]),
-        ("地質地形", ["地質", "地形", "火山", "溫泉"]),
+        ("保育與環境", ["保育", "生態", "瀕危"]),
+        ("地質與地熱", ["地質", "地形", "火山", "溫泉"]),
     ],
     "Music": [
         ("流行音樂", ["流行", "歌手", "樂團"]),
-        ("原住民音樂", ["原住民"]),
+        ("當代原住民音樂", ["原住民"]),
     ],
     "Art": [
         ("文學", ["文學", "小說", "詩"]),
@@ -110,9 +112,16 @@ def _parse_taxonomy_file() -> dict[str, list[str]]:
     text = _TAXONOMY_PATH.read_text(encoding="utf-8")
     result: dict[str, list[str]] = {}
     current: str | None = None
-    # ### 📜 History（歷史） or ### History
+    # ### 📜 History（歷史） / ### People（人物）— 已大致完成 / ### History
+    # 2026-08-17：原本這條 regex 用 `\s*$` 收尾，於是標題後面多一句註解就整節
+    # 認不出來。實際命中的是 `### 👥 People（人物）— 已大致完成`：People 這節
+    # 從來沒被解析過，它下面 13 個子分類全部被歸進上一個 current（Nature）。
+    # 後果有兩層——(a) People 在 SSOT 眼中「沒有任何合法子分類」，auto-heal 只好
+    # 退回 _KEYWORD_BOOSTS 那兩個非正典標籤（政治人物 / 企業家）並寫進投稿者的
+    # frontmatter；(b) Nature 的合法清單被灌進「體育」「音樂與表演」這些 People
+    # 的子分類。兩層都沒有任何東西在對賬，所以壞了多久沒人知道。
     header_re = re.compile(
-        r"^###\s+(?:[^\w]*\s*)?([A-Za-z]+)(?:（[^）]+）)?\s*$",
+        r"^###\s+(?:[^\w]*\s*)?([A-Za-z]+)(?:（[^）]+）)?(?:\s*[—–-].*)?\s*$",
         re.MULTILINE,
     )
     # | 子分類名 | 說明 |
@@ -145,13 +154,36 @@ def _parse_taxonomy_file() -> dict[str, list[str]]:
 
 
 def allowed_subcategories(category: str) -> list[str]:
+    """該分類的合法子分類。SUBCATEGORY.md 是唯一 SSOT。
+
+    2026-08-17：原本這裡把 `_KEYWORD_BOOSTS` 的標籤 union 進回傳值，理由寫的是
+    「即使 taxonomy 解析漏掉也要включ進來」。但那等於讓推論表自己決定什麼叫合法——
+    boost 表打錯或用了非正典名字時，不但不會被發現，還會透過 auto-heal 寫進投稿者
+    的 frontmatter，變成 SSOT 裡根本不存在的子分類。實測 8 個標籤這樣漂出去
+    （People 的「政治人物」「企業家」、Nature 的「生態保育」「地質地形」等）。
+    現在改成：SSOT 有這個分類 → 只認 SSOT；SSOT 沒有 → 回空（讓上游 warn 缺值，
+    而不是拿推論表補一個假的正典）。boost 表與 SSOT 的一致性由 `boost_label_drift()`
+    對賬，接在測試與 lint 上，壞了要出聲。
+    """
+    return list(_parse_taxonomy_file().get(category, []))
+
+
+def boost_label_drift() -> list[tuple[str, str]]:
+    """回傳 [(category, label)]：_KEYWORD_BOOSTS 用了 SSOT 沒有的子分類名。
+
+    推論表跟 taxonomy 是兩份會各自演化的東西，中間需要有人對賬
+    （REFLEXES #91 / LESSONS twin-artifact-no-reconciler-family）。空 list = 對齊。
+    """
     tax = _parse_taxonomy_file()
-    names = list(tax.get(category, []))
-    # Always include keyword-boost labels even if taxonomy parse missed them
-    for sub, _ in _KEYWORD_BOOSTS.get(category, []):
-        if sub not in names:
-            names.append(sub)
-    return names
+    drift: list[tuple[str, str]] = []
+    for category, rules in _KEYWORD_BOOSTS.items():
+        canon = set(tax.get(category, []))
+        if not canon:
+            continue  # SSOT 沒收這個分類，另案處理，不在本對賬範圍
+        for sub, _ in rules:
+            if sub not in canon:
+                drift.append((category, sub))
+    return drift
 
 
 def suggest_subcategory(
