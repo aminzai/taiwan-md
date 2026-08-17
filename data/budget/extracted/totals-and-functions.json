@@ -1,0 +1,649 @@
+{
+  "unit": "千元",
+  "years": {
+    "105": {
+      "ce": 2016,
+      "proposed": {
+        "revenue": 1844600000,
+        "expenditure": 1998200000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=25581"
+      },
+      "legal": {
+        "revenue": 1822400000,
+        "expenditure": 1976000000,
+        "cut_by_ly": -22200000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=25581"
+      },
+      "final_account": {
+        "expenditure": 1939947000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 98.18,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 179700000,
+        "國防支出": 309296000,
+        "教育科學文化支出": 382377000,
+        "經濟發展支出": 266721000,
+        "社會福利支出": 460068000,
+        "社區發展及環境保護支出": 17456000,
+        "退休撫卹支出": 146829000,
+        "債務支出": 113204000,
+        "一般補助及其他支出": 64296000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5339313000,
+        "ratio_pct_of_3yr_avg_gdp": 32.9697,
+        "as_of": "民國105年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 11.05,
+        "gdp_nominal": 17555268000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "106": {
+      "ce": 2017,
+      "proposed": {
+        "revenue": 1845700000,
+        "expenditure": 1998000000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=23541"
+      },
+      "legal": {
+        "revenue": 1841100000,
+        "expenditure": 1974000000,
+        "cut_by_ly": -24000000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=23541"
+      },
+      "final_account": {
+        "expenditure": 1927301000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 97.63,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 176006000,
+        "國防支出": 305698000,
+        "教育科學文化支出": 401290000,
+        "經濟發展支出": 256727000,
+        "社會福利支出": 472195000,
+        "社區發展及環境保護支出": 16437000,
+        "退休撫卹支出": 137882000,
+        "債務支出": 101811000,
+        "一般補助及其他支出": 59255000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5353029000,
+        "ratio_pct_of_3yr_avg_gdp": 31.5699,
+        "as_of": "民國106年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.7,
+        "gdp_nominal": 18012387000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "107": {
+      "ce": 2018,
+      "proposed": {
+        "revenue": 1897400000,
+        "expenditure": 1991800000,
+        "source": "https://www.dgbas.gov.tw/ct.asp?xItem=42441&ctNode=5624&mp=1"
+      },
+      "legal": {
+        "revenue": 1919200000,
+        "expenditure": 1966900000,
+        "cut_by_ly": -24900000,
+        "source": "https://www.dgbas.gov.tw/ct.asp?xItem=42441&ctNode=5624&mp=1"
+      },
+      "final_account": {
+        "expenditure": 1909412000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 97.08,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 185066000,
+        "國防支出": 313740000,
+        "教育科學文化支出": 386653000,
+        "經濟發展支出": 233090000,
+        "社會福利支出": 487343000,
+        "社區發展及環境保護支出": 18003000,
+        "退休撫卹支出": 127650000,
+        "債務支出": 100725000,
+        "一般補助及其他支出": 57142000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5373528000,
+        "ratio_pct_of_3yr_avg_gdp": 30.6512,
+        "as_of": "民國107年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.37,
+        "gdp_nominal": 18420039000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "108": {
+      "ce": 2019,
+      "proposed": {
+        "revenue": 1977000000,
+        "expenditure": 2022000000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=26834"
+      },
+      "legal": {
+        "revenue": 1992400000,
+        "expenditure": 1998000000,
+        "cut_by_ly": -24000000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=26834"
+      },
+      "final_account": {
+        "expenditure": 1955807000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 97.89,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 185368000,
+        "國防支出": 324121000,
+        "教育科學文化支出": 406952000,
+        "經濟發展支出": 241661000,
+        "社會福利支出": 490250000,
+        "社區發展及環境保護支出": 18543000,
+        "退休撫卹支出": 133836000,
+        "債務支出": 98207000,
+        "一般補助及其他支出": 56869000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5327369000,
+        "ratio_pct_of_3yr_avg_gdp": 29.6439,
+        "as_of": "民國108年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.31,
+        "gdp_nominal": 18974097000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "109": {
+      "ce": 2020,
+      "proposed": {
+        "revenue": 2102200000,
+        "expenditure": 2102200000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=24406"
+      },
+      "legal": {
+        "revenue": 2107000000,
+        "expenditure": 2077600000,
+        "cut_by_ly": -24600000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=24406"
+      },
+      "final_account": {
+        "expenditure": 2039353000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 98.16,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 190774000,
+        "國防支出": 335527000,
+        "教育科學文化支出": 412059000,
+        "經濟發展支出": 250087000,
+        "社會福利支出": 523399000,
+        "社區發展及環境保護支出": 22940000,
+        "退休撫卹支出": 143394000,
+        "債務支出": 95373000,
+        "一般補助及其他支出": 65800000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5535896000,
+        "ratio_pct_of_3yr_avg_gdp": 29.9742,
+        "as_of": "民國109年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.18,
+        "gdp_nominal": 20023752000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "110": {
+      "ce": 2021,
+      "proposed": {
+        "revenue": 2045000000,
+        "expenditure": 2161500000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=27272"
+      },
+      "legal": {
+        "revenue": 2053400000,
+        "expenditure": 2135900000,
+        "cut_by_ly": -25600000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=27272"
+      },
+      "final_account": {
+        "expenditure": 2089066000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 97.81,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 195755000,
+        "國防支出": 346220000,
+        "教育科學文化支出": 411940000,
+        "經濟發展支出": 250575000,
+        "社會福利支出": 556750000,
+        "社區發展及環境保護支出": 20793000,
+        "退休撫卹支出": 145844000,
+        "債務支出": 88208000,
+        "一般補助及其他支出": 72981000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5708896000,
+        "ratio_pct_of_3yr_avg_gdp": 29.8281,
+        "as_of": "民國110年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 9.59,
+        "gdp_nominal": 21773291000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "111": {
+      "ce": 2022,
+      "proposed": {
+        "revenue": 2239100000,
+        "expenditure": 2278400000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=209620"
+      },
+      "legal": {
+        "revenue": 2267000000,
+        "expenditure": 2251100000,
+        "cut_by_ly": -27300000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=209620"
+      },
+      "final_account": {
+        "expenditure": 2213956000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 98.35,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 204601000,
+        "國防支出": 354648000,
+        "教育科學文化支出": 441462000,
+        "經濟發展支出": 255273000,
+        "社會福利支出": 615100000,
+        "社區發展及環境保護支出": 26233000,
+        "退休撫卹支出": 147195000,
+        "債務支出": 82895000,
+        "一般補助及其他支出": 86549000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 5920494000,
+        "ratio_pct_of_3yr_avg_gdp": 29.2268,
+        "as_of": "民國111年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 9.7,
+        "gdp_nominal": 22820430000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "112": {
+      "ce": 2023,
+      "proposed": {
+        "revenue": null,
+        "expenditure": 2719100000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230687"
+      },
+      "legal": {
+        "revenue": null,
+        "expenditure": 2689100000,
+        "cut_by_ly": -30000000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230687"
+      },
+      "final_account": {
+        "expenditure": 2627776000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 97.72,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 225580000,
+        "國防支出": 386964000,
+        "教育科學文化支出": 481781000,
+        "經濟發展支出": 476170000,
+        "社會福利支出": 706810000,
+        "社區發展及環境保護支出": 28085000,
+        "退休撫卹支出": 148620000,
+        "債務支出": 83267000,
+        "一般補助及其他支出": 90499000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 6057789000,
+        "ratio_pct_of_3yr_avg_gdp": 28.1245,
+        "as_of": "民國112年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 11.14,
+        "gdp_nominal": 23596734000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "113": {
+      "ce": 2024,
+      "proposed": {
+        "revenue": 2709200000,
+        "expenditure": 2881800000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744"
+      },
+      "legal": {
+        "revenue": 2725200000,
+        "expenditure": 2851900000,
+        "cut_by_ly": -29900000,
+        "source": "https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=232744"
+      },
+      "final_account": {
+        "expenditure": 2784179000,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，決算審定數)",
+        "execution_rate_pct": 97.63,
+        "rate_basis": "決算數/法定預算數（審議後數）；自算"
+      },
+      "functions": {
+        "一般政務支出": 238322000,
+        "國防支出": 416170000,
+        "教育科學文化支出": 538090000,
+        "經濟發展支出": 434136000,
+        "社會福利支出": 781264000,
+        "社區發展及環境保護支出": 27878000,
+        "退休撫卹支出": 169770000,
+        "債務支出": 88752000,
+        "一般補助及其他支出": 89797000,
+        "basis": "final",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 6147987000,
+        "ratio_pct_of_3yr_avg_gdp": 27.0471,
+        "as_of": "民國113年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.88,
+        "gdp_nominal": 25592854000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "114": {
+      "ce": 2025,
+      "proposed": {
+        "revenue": 3153366190,
+        "expenditure": 3132468909,
+        "source": "WebSearch synthesis (未直接開啟主計總處「114年度中央政府總預算案立法院審議結果」新聞稿逐字核對，原始頁面URL未尋得；建議查證 dgbas.gov.tw News n=3602 附近 s=233xxx)"
+      },
+      "legal": {
+        "revenue": 3164804000,
+        "expenditure": 2924967000,
+        "cut_by_ly": -207501909,
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6，上年度預算數欄)"
+      },
+      "final_account": {
+        "expenditure": null,
+        "execution_rate_pct": null,
+        "rate_basis": null,
+        "source": null,
+        "notes": "114/115年度尚無決算審定數（114為法定預算數，115為提案數）"
+      },
+      "functions": {
+        "一般政務支出": 264871000,
+        "國防支出": 459075000,
+        "教育科學文化支出": 582882000,
+        "經濟發展支出": 417057000,
+        "社會福利支出": 815476000,
+        "社區發展及環境保護支出": 29366000,
+        "退休撫卹支出": 181138000,
+        "債務支出": 106308000,
+        "一般補助及其他支出": 68794000,
+        "basis": "legal",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 6073045000,
+        "ratio_pct_of_3yr_avg_gdp": 25.2497,
+        "as_of": "民國114年度（NTA每半年更新一次，原始檔未標明確切月份）",
+        "source": "https://lgd.nta.gov.tw/newlgd/opendata/D3-09.csv"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.69,
+        "gdp_nominal": 27361215000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    },
+    "115": {
+      "ce": 2026,
+      "proposed": {
+        "revenue": 2862253191,
+        "expenditure": 3034974371,
+        "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx ; https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
+      },
+      "legal": {
+        "revenue": null,
+        "expenditure": 2986974371,
+        "cut_by_ly": -48000000,
+        "source": "https://www.cna.com.tw/news/aipl/202608140278.aspx — 僅新聞交叉校對，非主計總處新聞稿原文（三讀日期2026-08-14，發稿當下查無主計總處「115年度中央政府總預算案立法院審議結果」新聞稿），歲入審議後數CNA報導6019.9939億元增列，因果不明確不予採信，故revenue留null"
+      },
+      "final_account": {
+        "expenditure": null,
+        "execution_rate_pct": null,
+        "rate_basis": null,
+        "source": null,
+        "notes": "114/115年度尚無決算審定數（114為法定預算數，115為提案數）"
+      },
+      "functions": {
+        "一般政務支出": 302524000,
+        "國防支出": 548815000,
+        "教育科學文化支出": 556628000,
+        "經濟發展支出": 427465000,
+        "社會福利支出": 831798000,
+        "社區發展及環境保護支出": 26609000,
+        "退休撫卹支出": 184417000,
+        "債務支出": 106308000,
+        "一般補助及其他支出": 50410000,
+        "basis": "proposed",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表6)"
+      },
+      "debt_outstanding_1yr_plus": {
+        "amount": 6750300000,
+        "ratio_pct_of_3yr_avg_gdp": 26.5,
+        "as_of": "115年度總預算案預估數（非決算，非NTA半年報）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (表3-1)"
+      },
+      "gdp_ratio_pct": {
+        "value": 10.62,
+        "gdp_nominal": 28591052000,
+        "basis": "中央政府歲出總額 / 國內生產毛額（當年名目GDP）",
+        "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf (參考表4)"
+      }
+    }
+  },
+  "special_budgets": [
+    {
+      "name": "前瞻基礎建設計畫",
+      "legal_basis": "前瞻基礎建設特別條例",
+      "period": "106-115（2017-2026，含展延）",
+      "phases": null,
+      "total_authorized": null,
+      "executed_to_date": null,
+      "notes": [
+        "搜尋到兩組不一致的總額數字：(a) 8年840億元上限(4年420億元＋展延4年不超過原規模)；(b) 8年8,824.9億元。兩者差距達10倍，判斷(b)可能為誤植或指全部特別預算(非僅前瞻)，未能第一手核實，故total_authorized留null。",
+        "另查得「106-113年度已編列4期特別預算，合計約7,697億元」之說法，同樣未第一手核實。",
+        "第5期特別預算（114年度起編列）存在，頁面 https://www.dgbas.gov.tw/News_Content.aspx?s=233630&n=3797 僅列出文件下載連結，未能開啟內部PDF取得金額，配額用盡未能追查。",
+        "建議下一輪研究直接開啟 dgbas.gov.tw 前瞻基礎建設計畫專區歷年特別決算/特別預算總說明PDF逐期核對。"
+      ]
+    },
+    {
+      "name": "新式戰機採購特別預算",
+      "legal_basis": "中央政府新式戰機採購特別條例",
+      "period": "109-115（2020-2026，7年期）",
+      "phases": null,
+      "total_authorized": 250000000,
+      "executed_to_date": {
+        "amount": 247239000,
+        "as_of": "115年度（規劃編列數，非決算）",
+        "source": "WebSearch synthesis，引用立法院「中央政府新式戰機採購特別預算案（109年度至115年度）審查報告」https://www.president.gov.tw/File/Doc/db468453-09f2-48ca-8bbb-31eedcb9fe08 ，未直接開啟PDF逐字核對，建議查證"
+      },
+      "notes": [
+        "法定上限2,500億元；規劃編列數2,472.39億元，兩者來自WebSearch摘要而非第一手PDF逐字核對。"
+      ]
+    },
+    {
+      "name": "海空戰力提升計畫採購特別預算",
+      "legal_basis": "中央政府海空戰力提升計畫採購特別條例",
+      "period": "111-115（2022-2026，5年期）",
+      "phases": null,
+      "total_authorized": 240000000,
+      "executed_to_date": {
+        "amount": 237300000,
+        "as_of": "115年度（規劃編列數，非決算）",
+        "source": "WebSearch synthesis，引用立法院「中央政府海空戰力提升計畫採購特別預算案（111年度至115年度）審查報告」https://www.president.gov.tw/File/Doc/f74a3364-0a8d-4cd0-b872-8b81e692f818 ，未直接開啟PDF逐字核對，建議查證"
+      },
+      "notes": [
+        "法定上限2,400億元；規劃編列數2,373億元，兩者來自WebSearch摘要而非第一手PDF逐字核對。"
+      ]
+    },
+    {
+      "name": "嚴重特殊傳染性肺炎防治及紓困振興特別預算",
+      "legal_basis": "嚴重特殊傳染性肺炎防治及紓困振興特別條例",
+      "period": "109-111（2020-2022）",
+      "phases": [
+        {
+          "phase": "原預算",
+          "amount": 60000000,
+          "source": "WebSearch synthesis，未第一手核實"
+        },
+        {
+          "phase": "第1次追加",
+          "amount": 150000000,
+          "source": "WebSearch synthesis，未第一手核實"
+        },
+        {
+          "phase": "第2次追加",
+          "amount": 209900000,
+          "source": "WebSearch synthesis，未第一手核實"
+        },
+        {
+          "phase": "第3次追加",
+          "amount": 260000000,
+          "source": "WebSearch synthesis，未第一手核實"
+        }
+      ],
+      "total_authorized": 840000000,
+      "executed_to_date": {
+        "amount": 679900000,
+        "as_of": "111年度（4次編列加總，可能仍有未捕捉之追加，例如某些資料顯示上限840,0億元與此加總不符）",
+        "source": "中央社 https://www.cna.com.tw/news/firstnews/202105315004.aspx （條例修法上限840,0億元部分）；各次追加金額為WebSearch摘要，未逐一開啟主計總處 https://www.dgbas.gov.tw/cl.aspx?n=1963 專區PDF核對"
+      },
+      "notes": [
+        "4次編列加總為679,900,000千元(6,799億)，與840,0百萬元(8,400億)法定上限有落差，可能還有未查到的追加預算，建議查證dgbas.gov.tw/cl.aspx?n=1963專區。"
+      ]
+    },
+    {
+      "name": "中央政府因應國際情勢強化經濟社會及民生國安韌性特別預算",
+      "legal_basis": "因應國際情勢強化經濟社會及民生國安韌性特別條例（推定名稱，未逐字核對條例全名）",
+      "period": "114-116（2025-2027）",
+      "phases": [
+        {
+          "phase": "114年度分配數",
+          "amount": 279500000,
+          "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
+        },
+        {
+          "phase": "115年度分配數",
+          "amount": 124200000,
+          "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
+        },
+        {
+          "phase": "116年度分配數",
+          "amount": 146300000,
+          "source": "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11333/235176/b%E7%B8%BD%E8%AA%AA%E6%98%8E.pdf"
+        }
+      ],
+      "total_authorized": 550000000,
+      "executed_to_date": {
+        "amount": 544700000,
+        "as_of": "審議後數（含普發現金1萬元；立法院審議結果，減列53億元）",
+        "source": "data/budget/raw/fy115-renxing-specialbudget-ly-shenyi-jieguo-dgbas.html"
+      },
+      "notes": [
+        "原提案名稱另見「強化經濟社會及民生國安韌性特別預算」，與brief中「強化經濟社會及國土安全韌性特別預算」用字略有出入，未查得後者用字之官方文件，暫以主計總處新聞稿原文為準。"
+      ]
+    },
+    {
+      "name": "丹娜絲颱風及七二八豪雨災後復原重建特別預算",
+      "legal_basis": "未查得條例全名",
+      "period": "114-115（2025-2026，於fy115總說明中多次提及）",
+      "phases": null,
+      "total_authorized": null,
+      "executed_to_date": null,
+      "notes": [
+        "fy115-zongshuoming-dgbas.pdf 多處提及本特別預算但未見具體金額表格（僅在敘述文字中列名），配額用盡未能另行搜尋金額來源，留待下一輪研究。"
+      ]
+    },
+    {
+      "name": "花蓮馬太鞍溪堰塞湖災後重建特別預算",
+      "legal_basis": "未查得",
+      "period": "115年度前後（立法院預算中心已有評估報告 nodeid=56248）",
+      "phases": null,
+      "total_authorized": null,
+      "executed_to_date": null,
+      "notes": [
+        "僅在立法院預算中心報告清單頁看到標題，未開啟內容，金額未查證。"
+      ]
+    }
+  ],
+  "notes": [
+    "單位：全檔統一為千元（新臺幣）。原始來源部分為億元（立法院審議結果新聞稿）、部分為百萬元（主計總處115年度總說明PDF「參考表4/6」），已依比例換算為千元，換算倍數：億元×100,000；百萬元×1,000。",
+    "functions（政事別）逐年資料唯一來源為 data/budget/raw/fy115-zongshuoming-dgbas.pdf 內「參考表6 歷年中央政府歲入歲出淨收支概況表」，該表特別註記：39年度至113年度係決算審定數（審計部審定）、114年度係法定預算數、115年度係預算案數 — 故105-113年functions.basis=final、114=legal、115=proposed，與totals-by-year不同年份的資料基準刻意保持一致對應。",
+    "final_account.execution_rate_pct 為本研究自算（決算數÷法定預算數×100），非主計總處/審計部原始報告直接給出的數字；105-113年皆可自算，114/115年無決算數故無法自算。",
+    "FY112（102年度不是，是112年度=2023）歲入原列/審議後數未查得（配額限制下僅取得歲出面數字），totals-by-year.csv中112年度revenue欄位留空。",
+    "FY114 proposed（原列，行政院提出數）revenue/expenditure係WebSearch摘要結果、非直接WebFetch主計總處新聞稿原文核對，正式頁面URL未尋得（僅找到追加預算審議結果頁 s=235260），建議下一輪核實。",
+    "FY115 legal（立法院三讀後）revenue留null：中央社報導「審議結果增列6019億9939萬元」數字異常龐大且無法與其他數字合理勾稽（可能為特別預算合併計算或報導誤植），未採信；expenditure（審議後2兆9,869.74億元，減列480億元）採信中央社數字並標註為新聞交叉校對而非主計總處原始新聞稿（三讀當下即2026-08-14，發稿3天後查無主計總處對應新聞稿）。",
+    "debt_outstanding_1yr_plus 105-114年度資料來自財政部國庫署『歷年各級政府債務概況表』CSV（data/budget/raw/fy105-114-debt-outstanding-nta.csv），僅含中央政府列且為半年更新，年度對應之確切月份未於原始檔案標明；115年度該CSV尚無資料，改用fy115總說明PDF表3-1『預估債務未償餘額』6兆7,503億元（預算案預估數，非決算數、非NTA半年報格式），已於該年度debt欄位as_of註明差異。",
+    "gdp_ratio_pct 全年度統一來自同一份文件（fy115-zongshuoming-dgbas.pdf「參考表4 歷年各級政府淨支出對國內生產毛額之比率」），比率欄為『中央政府支出總額對國內生產毛額之比率』，與debt占GDP比率是不同分母年份平均方式（GDP比率為當年GDP；debt比率為前3年度GDP平均數），兩者不可互相替代使用。",
+    "special_budgets 六筆中，僅『強化經濟社會及民生國安韌性特別預算』(114-116年度)金額為第一手主計總處新聞稿逐字核對；其餘（前瞻基礎建設、新式戰機、海空戰力提升、紓困振興、丹娜絲颱風、馬太鞍溪堰塞湖）金額多數為WebSearch摘要或缺漏，已於各筆notes標註查證建議，未第一手驗證者一律不納入totals-by-year/functions-by-year這兩張核心CSV，僅存於JSON的special_budgets區塊供後續追查。",
+    "本次研究WebSearch+WebFetch合計已達40次配額上限，機關別資料由另一位agent負責、本研究未觸碰。"
+  ]
+}

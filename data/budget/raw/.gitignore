@@ -1,0 +1,3 @@
+# 大型一手原檔不進 git（README-E1/E2 有 URL 可重抓）；小型 xls/csv/html 表保留供對賬
+*.pdf
+*-detail-*.xls
