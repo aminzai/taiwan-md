@@ -6,7 +6,6 @@ import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const isEn = lang === 'en';
 ---
 
 <!-- Immune System -->
@@ -52,10 +51,10 @@ const isEn = lang === 'en';
   </div>
 
   <h3 class="subsection-title">
-    {isEn ? '📋 Citation Health' : '📋 引用健康度'}
+    {t('dashboard.immune.citationHealth.title')}
   </h3>
   <p class="queue-desc">
-    {isEn ? 'How verifiable is the knowledge?' : '知識的可驗證性'}
+    {t('dashboard.immune.citationHealth.desc')}
   </p>
   <div class="citation-health" id="citation-health"></div>
 

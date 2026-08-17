@@ -2,10 +2,10 @@
 // SectionI18nCoverage — 🔤 UI Translation Coverage section (#i18n-ui-coverage):
 // UI string (src/i18n/) key coverage per language. Ids/classes are a contract
 // with src/scripts/dashboard-client.js and src/styles/dashboard/ — do not rename.
-import { getLangFromUrl } from '../../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
-const isEn = lang === 'en';
+const t = useTranslations(lang);
 ---
 
 <!--
@@ -17,15 +17,11 @@ const isEn = lang === 'en';
 -->
 <section class="section" id="i18n-ui-coverage">
   <h2 class="section-title">
-    {isEn ? '🔤 UI Translation Coverage' : '🔤 介面字串翻譯覆蓋率'}
+    {t('dashboard.i18nCoverage.title')}
     <span class="section-timestamp" data-source="i18n"></span>
   </h2>
   <p class="section-subtitle">
-    {
-      isEn
-        ? 'How many UI strings (src/i18n/) each language has translated. Differs from article-level translation above.'
-        : '各語言在 src/i18n/ 12 module × 介面字串的翻譯覆蓋率。與上方文章層級翻譯不同。'
-    }
+    {t('dashboard.i18nCoverage.subtitle')}
   </p>
   <div class="translation-bars" id="i18n-bars"></div>
   <div class="translation-matrix-wrapper">
