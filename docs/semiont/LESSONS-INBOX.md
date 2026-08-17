@@ -332,6 +332,30 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-17 twmd-maintainer-am — healer-authors-the-drift-it-validates：自動修補工具填出正典裡不存在的值，而合法性又由它自己認定
+
+- **pattern**: `healer-authors-the-drift-it-validates`
+- **原則**：一支 auto-heal 工具如果同時擁有「填什麼值」與「什麼值算合法」兩個權力，它產出的錯誤就沒有任何外部面可以現形。這比「檢查器與被檢查物同作者」（REFLEXES #65）更封閉一層——#65 是同一顆腦寫了尺與被量物，本條是**尺的刻度由被量物自己追加**：`allowed_subcategories()` 把推論表 `_KEYWORD_BOOSTS` 的標籤 union 進合法清單，於是推論表寫錯一個名字，那個錯名字當場變成「正典」，auto-heal 再把它寫進投稿者的 frontmatter。錯誤路徑完整且全綠：填錯 → 自認合法 → 寫進別人的檔案 → 沒有檢查會問。判準候選：任何「會寫值」的工具，它判斷合法性的來源必須跟它產生候選值的來源**物理分離**，且兩者之間要有一支對賬。
+- **觸發**：追 idlccp1984 8/15-8/16 那批 65 個 PR 為什麼卡在 frontmatter-gate。最大宗 blocker 是缺 `subcategory`（26 件），追進去發現三層疊在一起：(1) 解析 `SUBCATEGORY.md` 的 regex 用 `\s*$` 收尾，`### 👥 People（人物）— 已大致完成` 整節認不出來，People 的 13 個子分類全被歸進上一個 current（Nature）；(2) `_KEYWORD_BOOSTS` 有 8 個標籤是 SSOT 裡不存在的名字（People 的「政治人物」「企業家」、Nature 的「生態保育」「地質地形」、Music 的「原住民音樂」等）；(3) `allowed_subcategories()` 把那些標籤 union 進合法清單。三層合起來：**投稿者 frontmatter 裡那些「亂填的 subcategory」，有一部分是我們自己填的**。
+- **為什麼一直沒被發現**：隔壁欄位 `curation` 有驗舉值（非法值 → HARD，`curation_consistency`），`subcategory` 只驗欄位在不在。同一份 frontmatter 兩把尺（REFLEXES #83）。而分類體系壞掉不會有任何畫面報錯——分群跟導覽讀到不存在的子分類就是靜默少一格。
+- **已修**：三個缺陷同 commit 修掉（`8ba8c6726`）+ 新增 `boost_label_drift()` 對賬 + 5 條測試 + 新增 `subcategory-valid` 檢查。
+- **同時記一個校準沒出錯的對照**：`subcategory-valid` 上線前先拿全庫 914 篇 dogfood（REFLEXES #66），211 篇 / 135 個相異取值會命中，且形狀顯示是 **SSOT 自己漏收**（`Geography 縣市` 22 篇、`People 音樂` 13 篇）而非文章寫錯，於是定 WARN 不定 HARD。這是本 cycle 唯一一次先驗再下結論的地方，也是唯一沒出錯的地方。
+- **可能層級**：通用反射候選。近親 REFLEXES #65（same-DNA 陷阱）與 #83（兩把尺），但本條的特徵是**寫入權與合法性判定權集中在同一支工具**，比「同作者」更具體可檢：可以直接 grep「哪些工具既產生值又定義 allowed set」。
+- **相關**：REFLEXES #65、#83、#91（建造與登記不同步——`assign-subcategory.cjs` 存在多時卻從未接進 heal 鏈是同一天發現的另一個 instance）、LESSONS `twin-artifact-no-reconciler-family`（8/16，本條可視為該家族最封閉的一種形態）
+- **verification_count**: 1
+- **severity**: high（錯誤會被寫進**別人的**檔案，且跨 fork 複製；分類體系是導覽與知識圖譜的基礎，壞了不報錯）
+
+### 2026-08-17 twmd-maintainer-am — open-count-conflates-queue-with-inventory：把 open 數當待審量，兩個 cycle 連續放大同一個假警報
+
+- **pattern**: `open-count-conflates-queue-with-inventory`
+- **原則**：`gh pr list --state open` 回的是**庫存**，不是**佇列**。draft 在流程上是投稿者自己宣告「還在寫，先別審」，把它算進 backlog 會讓 alarm 憑空脹大，而且脹大的方向剛好是讓人覺得「維護塌了」。最容易拿到的那個數字通常不是要量的那個數字——這是 REFLEXES #82（proxy signal）在維護面的變體：用 `open` 這個狀態代理「在等我」這件事。判準候選：任何要拿來當工作量或警報依據的清單，先問「這裡面有多少是對方還沒說可以動的？」
+- **觸發**：本 cycle Stage 1 掃到 71 個 open PR，命中 High-stake #1 升 Full mode，前半段的分析全都建立在「71 個積壓」上。查 `isDraft` 才發現 **59 個是 draft，真實待審只有 12 個**（idlccp1984 佔 8）。回頭看 8/16 的 maintainer memory 寫「九個 PR 連三天敗在同一道閘門」，那個數字很可能也含 draft——**同一個誤讀連續兩個 cycle**，而兩次都沒有任何步驟會叫。
+- **為什麼是結構性的**：MAINTAINER-PIPELINE §Step 1.3 的指令 `gh pr list --state open --json number,title,author,createdAt,labels,isDraft,...` 其實有抓 `isDraft`，但**分流表沒有任何一列以它為準**，只有 C 路徑（`[node]` PR）那段寫了「Draft = 認領中，不是待審」。也就是說規則存在但只掛在一種 PR 上，一般 contributor PR 沒有那一步。
+- **修補候選**：Stage 1.3 加一句「先分 draft / ready 再報數，backlog 與空場 vc 只計 ready」；或直接把 Stage 1 的 PR 清單指令改成預設 `--draft=false` 並另行單獨報 draft 數。
+- **相關**：REFLEXES #82（proxy signal）、REFLEXES #76（multi-cycle trend window——本條正好是「連續兩 cycle 同一誤讀」才看得出來）、MAINTAINER-PIPELINE §Step 1.3 / §空場 cycle 紀律（vc 計數若含 draft 會同時失真）
+- **verification_count**: 2（8/16 與 8/17 兩個 cycle）
+- **severity**: moderate（不直接壞資料，但會讓維護判斷建立在放大三到六倍的 backlog 上，並污染空場 vc 這個 escalation 依據）
+
 ### 2026-08-17 twmd-feedback-triage — recognition-bound-to-instance-coordinates：辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺
 
 - **pattern**: `recognition-bound-to-instance-coordinates`
