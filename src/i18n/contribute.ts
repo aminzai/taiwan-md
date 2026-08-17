@@ -1717,9 +1717,9 @@ export const contributeUI = {
     'contribute.how.language.icon': '📁',
     'contribute.how.language.title': 'Chuyển đổi ngôn ngữ',
     'contribute.how.language.desc.html':
-      'Bạn có thể chuyển đổi giữa <strong>中文</strong> và <strong>English</strong> ở góc trên bên phải. Tiếng Trung là nội dung chính (SSOT), còn bản tiếng Anh đang tiếp tục được dịch.',
+      'Bạn có thể chuyển đổi giữa <strong>tiếng Trung phồn thể</strong> và <strong>English</strong> ở góc trên bên phải. Tiếng Trung là nội dung chính (SSOT), còn bản tiếng Anh đang tiếp tục được dịch.',
     'contribute.how.language.code.html':
-      'taiwan.md/ → 中文<br />taiwan.md/en/ → English',
+      'taiwan.md/ → tiếng Trung phồn thể<br />taiwan.md/en/ → English',
     'contribute.how.md.icon': '📝',
     'contribute.how.md.title': 'Nút .md',
     'contribute.how.md.desc.html':
@@ -1831,7 +1831,7 @@ export const contributeUI = {
     'contribute.org.government.desc':
       'Cung cấp dữ liệu mở chính thức, số liệu thống kê và văn kiện chính sách. Hỗ trợ kiểm chứng thông tin và hiệu chỉnh nội dung. Cấp phép sử dụng nội dung ấn phẩm của chính phủ hoặc hình ảnh theo giấy phép CC.',
     'contribute.org.government.example':
-      'Ví dụ: Bộ Văn hóa, Cục Du lịch, Hội đồng Dân tộc Nguyên住, Bộ Nông nghiệp, Quốc sử quán',
+      'Ví dụ: Bộ Văn hóa, Cục Du lịch, Hội đồng Dân tộc Nguyên trú, Bộ Nông nghiệp, Quốc sử quán',
 
     // Org: Academic
     'contribute.org.academic.icon': '🎓',
@@ -1972,7 +1972,7 @@ export const contributeUI = {
       '<strong>Gửi qua PR:</strong> AI giúp bạn tạo tệp Markdown có thể gửi trực tiếp',
     'contribute.guides.translation.languages': '🌏 Mở rộng sang 4+ ngôn ngữ',
     'contribute.guides.translation.languages.live':
-      '<strong>Đã ra mắt:</strong> 中文、English、Español、日本語、한국어',
+      '<strong>Đã ra mắt:</strong> tiếng Trung phồn thể, English, Español, 日本語, 한국어',
     'contribute.guides.translation.languages.coming':
       '<strong>Sắp ra mắt:</strong> Français、Deutsch、Tiếng Việt、Bahasa Indonesia、ภาษาไทย、العربية',
     'contribute.guides.translation.languages.you':
@@ -2551,7 +2551,7 @@ export const contributeUI = {
       '<strong>Kirim melalui PR:</strong> AI membantu Anda menghasilkan berkas Markdown yang siap dikirim',
     'contribute.guides.translation.languages': '🌏 Perluas ke 4+ Bahasa',
     'contribute.guides.translation.languages.live':
-      '<strong>Sudah tersedia:</strong> 中文、English、Español、日本語、한국어',
+      '<strong>Sudah tersedia:</strong> Mandarin aksara tradisional, English, Español, 日本語, 한국어',
     'contribute.guides.translation.languages.coming':
       '<strong>Segera hadir:</strong> Français、Deutsch、Tiếng Việt、Bahasa Indonesia、ภาษาไทย、العربية',
     'contribute.guides.translation.languages.you':
@@ -2882,9 +2882,9 @@ export const contributeUI = {
     'contribute.how.language.icon': '📁',
     'contribute.how.language.title': 'Alternância de idioma',
     'contribute.how.language.desc.html':
-      'No canto superior direito, você pode alternar entre <strong>中文</strong> e <strong>English</strong>. O chinês é o conteúdo principal (SSOT), e a tradução para o inglês está em andamento.',
+      'No canto superior direito, você pode alternar entre <strong>chinês tradicional</strong> e <strong>English</strong>. O chinês é o conteúdo principal (SSOT), e a tradução para o inglês está em andamento.',
     'contribute.how.language.code.html':
-      'taiwan.md/ → 中文<br />taiwan.md/en/ → English',
+      'taiwan.md/ → chinês tradicional<br />taiwan.md/en/ → English',
     'contribute.how.md.icon': '📝',
     'contribute.how.md.title': 'Botão .md',
     'contribute.how.md.desc.html':
@@ -3139,7 +3139,7 @@ export const contributeUI = {
       '<strong>Envie por PR:</strong> a IA ajuda você a produzir um arquivo Markdown pronto para envio',
     'contribute.guides.translation.languages': '🌏 Expansão para 4+ idiomas',
     'contribute.guides.translation.languages.live':
-      '<strong>Já disponíveis:</strong> 中文、English、Español、日本語、한국어',
+      '<strong>Já disponíveis:</strong> chinês tradicional, English, Español, 日本語, 한국어',
     'contribute.guides.translation.languages.coming':
       '<strong>Em breve:</strong> Français、Deutsch、Tiếng Việt、Bahasa Indonesia、ภาษาไทย、العربية',
     'contribute.guides.translation.languages.you':

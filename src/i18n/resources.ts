@@ -1707,7 +1707,7 @@ export const resourcesUI = {
       'Năm viện này cấu thành chế độ phân lập ngũ quyền độc đáo của Đài Loan, mô hình duy nhất trên thế giới.',
     'resources.sub.ministries': 'Các bộ, hội đồng và cơ quan',
     'resources.sub.ministries.desc':
-      'Từ Bộ Phát triển Kỹ thuật số đến Hội đồng Dân tộc Nguyên住, mỗi cơ quan đều có chuyên mục dữ liệu mở riêng.',
+      'Từ Bộ Phát triển Kỹ thuật số đến Hội đồng Dân tộc Nguyên trú, mỗi cơ quan đều có chuyên mục dữ liệu mở riêng.',
     'resources.sub.localGov': 'Chính quyền địa phương',
     'resources.sub.localGov.desc':
       '22 huyện, thành phố với 22 phong cách quản trị địa phương. Cuộc đua thành phố thông minh giữa sáu đô thị trực thuộc trung ương đang định nghĩa lại dịch vụ dành cho người dân.',

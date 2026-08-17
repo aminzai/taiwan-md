@@ -2962,7 +2962,7 @@ export const mapUI = {
     'map.markers.taiwanIslamJudaism.title':
       'Đặc trưng đô thị và văn hóa vùng miền',
     'map.markers.taiwanIslamJudaism.desc':
-      'Từ 404萬 người ở Tân Bắc đến 185萬 người ở Đài Nam, hãy nhìn cách sáu đô thị trực thuộc định hình bản sắc riêng trong quá trình chuyển đổi công nghiệp',
+      'Từ 4,04 triệu người ở Tân Bắc đến 1,85 triệu người ở Đài Nam, hãy nhìn cách sáu đô thị trực thuộc định hình bản sắc riêng trong quá trình chuyển đổi công nghiệp',
     'map.markers.kaohsiungIncident.title': 'Dân chủ hóa',
     'map.markers.kaohsiungIncident.desc':
       'Cuộc xung đột giữa cảnh sát và người dân trên đường phố Cao Hùng ngày 10 tháng 12 năm 1979 cuối cùng đã thúc đẩy quá trình chuyển đổi dân chủ của Đài Loan——nhưng bao nhiêu người đã phải đánh đổi tuổi trẻ và tự do?',
@@ -3407,7 +3407,7 @@ export const mapUI = {
     'map.markers.taiwanSeafoodCulture.title':
       'Titik Panas Keanekaragaman Hayati Taiwan',
     'map.markers.taiwanSeafoodCulture.desc':
-      'Wilayah seluas 3.6萬 kilometer persegi menampung 5.9萬 spesies, dengan kepadatan 100 kali rata-rata global',
+      'Wilayah seluas 36.000 kilometer persegi menampung 59.000 spesies, dengan kepadatan 100 kali rata-rata global',
     'map.markers.taiwanPineappleCake.title':
       'Bentang Pertanian dan Persebaran Industri Taiwan',
     'map.markers.taiwanPineappleCake.desc':
@@ -3418,7 +3418,7 @@ export const mapUI = {
       'Ketimpangan perkembangan kota-desa Taiwan dalam tatanan enam munisipalitas khusus, serta transformasi ruang dari Taiwan agraris menuju Taiwan urban',
     'map.markers.taiwanOysterOmelette.title': 'Topografi dan Geologi',
     'map.markers.taiwanOysterOmelette.desc':
-      'Daratan berusia 600萬 tahun yang menyimpan kenangan purba selama 2億 tahun — keajaiban sabuk pembentukan pegunungan termuda dan tumbukan lempeng terdahsyat di dunia',
+      'Daratan berusia 6 juta tahun yang menyimpan kenangan purba selama 200 juta tahun — keajaiban sabuk pembentukan pegunungan termuda dan tumbukan lempeng terdahsyat di dunia',
     'map.markers.taiwanBreakfastCulture.title':
       'Karakteristik Kota dan Budaya Regional',
     'map.markers.taiwanBreakfastCulture.desc':
@@ -3480,11 +3480,11 @@ export const mapUI = {
     'map.markers.democraticProgressivePartyHistory.title':
       'Negara yang Mengejar Truk Sampah: Taiwan dari Krisis Sampah hingga Keajaiban Daur Ulang',
     'map.markers.democraticProgressivePartyHistory.desc':
-      'Sebuah tempat yang pada 1990-an memiliki 400 tempat pembuangan akhir yang hampir penuh dan disebut 「negara sampah」 oleh media internasional, menggunakan musik Beethoven agar 2,300萬 orang mengejar truk sampah setiap hari; 30 tahun kemudian, tingkat daur ulang sumber dayanya melampaui sebagian besar negara Eropa',
+      'Sebuah tempat yang pada 1990-an memiliki 400 tempat pembuangan akhir yang hampir penuh dan disebut 「negara sampah」 oleh media internasional, menggunakan musik Beethoven agar 23 juta orang mengejar truk sampah setiap hari; 30 tahun kemudian, tingkat daur ulang sumber dayanya melampaui sebagian besar negara Eropa',
     'map.markers.taipeiHistory.title':
       'Sejarah Perkembangan MRT Taiwan: Evolusi Kota yang Ditulis dengan Darah dan Uang',
     'map.markers.taipeiHistory.desc':
-      'Balok baja seberat 209 ton jatuh dari langit dan merenggut 4 nyawa, ganti rugi 16.4億, sementara bisnis utama MRT Taipei masih merugi hingga kini——harga nyata di balik seluruh sistem MRT Taiwan',
+      'Balok baja seberat 209 ton jatuh dari langit dan merenggut 4 nyawa, ganti rugi NT$1,64 miliar, sementara bisnis utama MRT Taipei masih merugi hingga kini——harga nyata di balik seluruh sistem MRT Taiwan',
     'map.markers.taiwanPrehistoricCulture.title':
       'Sistem Pendidikan Taiwan: Eksperimen Negara Kepulauan dari Neraka Ujian Bersama hingga Labirin Multijalur',
     'map.markers.taiwanPrehistoricCulture.desc':
@@ -3742,10 +3742,10 @@ export const mapUI = {
     'map.markers.taiwanIslamJudaism.title':
       'Ciri Khas Kota dan Budaya Regional',
     'map.markers.taiwanIslamJudaism.desc':
-      'Dari New Taipei berpenduduk 404萬人 hingga Tainan berpenduduk 185萬人, lihat bagaimana enam kota khusus membentuk karakter perkotaan masing-masing di tengah transformasi industri',
+      'Dari New Taipei berpenduduk 4,04 juta jiwa hingga Tainan berpenduduk 1,85 juta jiwa, lihat bagaimana enam kota khusus membentuk karakter perkotaan masing-masing di tengah transformasi industri',
     'map.markers.kaohsiungIncident.title': 'Demokratisasi',
     'map.markers.kaohsiungIncident.desc':
-      'Bentrok antara polisi dan warga di jalanan Kaohsiung pada 1979年12月10日 akhirnya melahirkan transisi demokrasi Taiwan——tetapi berapa banyak masa muda dan kebebasan yang harus dikorbankan?',
+      'Bentrok antara polisi dan warga di jalanan Kaohsiung pada 10 Desember 1979 akhirnya melahirkan transisi demokrasi Taiwan——tetapi berapa banyak masa muda dan kebebasan yang harus dikorbankan?',
     'map.markers.wangLeeOlympicGold.title':
       'Wang Chi-lin dan Lee Yang（Pasangan Lin-Yang）',
     'map.markers.wangLeeOlympicGold.desc':
@@ -4451,7 +4451,7 @@ export const mapUI = {
       'Deusa taiwanesa do levantamento de peso, medalhista de ouro nos Jogos Olímpicos de Tóquio de 2021 e detentora dos três recordes olímpicos da categoria até 59 kg',
     'map.markers.taiwanMountains.title': 'Teng Yu-hsien',
     'map.markers.taiwanMountains.desc':
-      'Pai da música popular taiwanesa, compôs clássicos em taiwanês como 《望春風》, 《雨夜花》 e 《月夜愁》',
+      'Pai da música popular taiwanesa, compôs clássicos em taiwanês como «Esperando a Brisa de Primavera» (望春風), «Flor da Noite Chuvosa» (雨夜花) e «Melancolia ao Luar» (月夜愁)',
     'map.markers.taiwanRivers.title': 'Chung Li-ho',
     'map.markers.taiwanRivers.desc':
       'Autor de 《O homem da terra natal》, pai da literatura taiwanesa e guerreiro das letras que continuou escrevendo apesar da pobreza e da doença',
@@ -6452,7 +6452,7 @@ export const mapUI = {
     'map.markers.taiwanBankingSystem.title':
       'Гастрономический синтез новых резидентов Тайваня',
     'map.markers.taiwanBankingSystem.desc':
-      'Когда тайский кисло-острый вкус встречается с тайваньским сладко-солёным, когда вьетнамский фоно邂逅ует тайские маринованные блюда, когда индонезийские специи обнимают местные ингредиенты, на Тайване тихо разворачивается вкусовая революция, преодолевающая границы. Новые резиденты привносят не только блюда своей родины, но и новые возможности для обогащения гастрономической культуры Тайваня.',
+      'Когда тайский кисло-острый вкус встречается с тайваньским сладко-солёным, когда вьетнамский фо встречается с тайваньскими тушёными закусками лувэй, когда индонезийские специи обнимают местные ингредиенты, на Тайване тихо разворачивается вкусовая революция, преодолевающая границы. Новые резиденты привносят не только блюда своей родины, но и новые возможности для обогащения гастрономической культуры Тайваня.',
     'map.markers.taiwanSmes.title': 'Королевство тайваньских фруктов',
     'map.markers.taiwanSmes.desc':
       'Сладкая легенда о разнообразии тропических фруктов — от манго и личи до гуавы и розового яблока — и прорывах в сельскохозяйственных технологиях',

@@ -89,9 +89,10 @@ export const aboutUI = {
       'At 2:23 PM on March 18, Che-Yu published a Facebook post: <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">"The start of a crazy plan: taiwan.md — Open-source knowledge base about Taiwan."</a> The post triggered massive shares and attention. Within just three hours, Taiwan.md broke <strong>100 stars</strong> on GitHub, and the website surpassed <strong>5,000 total visits</strong>. Attention from around the world proved that this open-source knowledge base is truly needed.',
 
     'about.timeline.2026-03-18-2.date': '2026 / 03 / 18 — 22:00',
-    'about.timeline.2026-03-18-2.title': 'Media Coverage: 自由時報 + INSIDE',
+    'about.timeline.2026-03-18-2.title':
+      'Media Coverage: Liberty Times + INSIDE',
     'about.timeline.2026-03-18-2.desc.html':
-      'Less than eight hours after the post, <strong>自由時報 Arts & Culture</strong> and <strong>INSIDE</strong> proactively covered Taiwan.md. From social media buzz to mainstream media attention, Taiwan.md evolved from a weekend project into a seriously discussed public issue.',
+      'Less than eight hours after the post, <strong>Liberty Times Arts & Culture</strong> and <strong>INSIDE</strong> proactively covered Taiwan.md. From social media buzz to mainstream media attention, Taiwan.md evolved from a weekend project into a seriously discussed public issue.',
 
     'about.timeline.2026-03-19.date': '2026 / 03 / 19 — 14:00',
     'about.timeline.2026-03-19.title':
@@ -2009,7 +2010,7 @@ export const aboutUI = {
     'about.timeline.2026-03-18-2.title':
       'Liputan media: Liberty Times + INSIDE',
     'about.timeline.2026-03-18-2.desc.html':
-      'Kurang dari delapan jam setelah unggahan diterbitkan, <strong>rubrik seni dan budaya Liberty Times</strong> serta <strong>INSIDE 硬塞的網路趨勢觀察</strong> secara berturut-turut berinisiatif meliput Taiwan.md. Dari perbincangan hangat di media sosial hingga perhatian media arus utama, Taiwan.md berkembang dari proyek akhir pekan menjadi isu publik yang dibahas secara serius.',
+      'Kurang dari delapan jam setelah unggahan diterbitkan, <strong>rubrik seni dan budaya Liberty Times</strong> serta <strong>INSIDE</strong> secara berturut-turut berinisiatif meliput Taiwan.md. Dari perbincangan hangat di media sosial hingga perhatian media arus utama, Taiwan.md berkembang dari proyek akhir pekan menjadi isu publik yang dibahas secara serius.',
 
     'about.timeline.2026-03-19.date': '2026 / 03 / 19 — 14:00',
     'about.timeline.2026-03-19.title':
@@ -2296,7 +2297,7 @@ export const aboutUI = {
     'about.sponsors.nmth.story.title':
       '🏛️ Museum yang bersedia membuka koleksinya',
     'about.sponsors.nmth.story.desc':
-      'Museum Nasional Sejarah Taiwan menghabiskan waktu bertahun-tahun untuk menata dan membuka lebih dari 55萬 data sejarah Taiwan. Ketika mengetahui bahwa sebuah basis pengetahuan berbasis komunitas juga sedang berupaya menceritakan kisah tentang pulau yang sama, mereka secara proaktif memperkenalkan Open API, himpunan data terbuka, serta beragam sumber daya penelitian digital, mulai dari Bank Memori Budaya Nasional hingga Materi Sejarah Taiwan di Luar Negeri, sebagai fondasi untuk memperdalam kurasi konten. Dua cara pulau ini menyimpan ingatan kini sedang belajar bekerja bersama.',
+      'Museum Nasional Sejarah Taiwan menghabiskan waktu bertahun-tahun untuk menata dan membuka lebih dari 550.000 data sejarah Taiwan. Ketika mengetahui bahwa sebuah basis pengetahuan berbasis komunitas juga sedang berupaya menceritakan kisah tentang pulau yang sama, mereka secara proaktif memperkenalkan Open API, himpunan data terbuka, serta beragam sumber daya penelitian digital, mulai dari Bank Memori Budaya Nasional hingga Materi Sejarah Taiwan di Luar Negeri, sebagai fondasi untuk memperdalam kurasi konten. Dua cara pulau ini menyimpan ingatan kini sedang belajar bekerja bersama.',
     'about.sponsors.pansci.story.title':
       '🔬 Menerjemahkan sains menjadi kisah Taiwan',
     'about.sponsors.pansci.story.desc':
@@ -2781,7 +2782,7 @@ export const aboutUI = {
     'about.sponsors.nmth.story.title':
       '🏛️ Um museu disposto a abrir seu acervo',
     'about.sponsors.nmth.story.desc':
-      'O Museu Nacional de História de Taiwan dedicou vários anos à organização e disponibilização de mais de 55 萬 registros da história de Taiwan. Ao descobrir que uma base de conhecimento impulsionada pela comunidade também tentava contar as histórias da mesma ilha, apresentou por iniciativa própria sua Open API, seus conjuntos de dados abertos e uma ampla variedade de recursos digitais de pesquisa, do Banco Nacional de Memória Cultural aos materiais históricos de Taiwan no exterior, que serviriam de base para aprofundar a curadoria de conteúdo. Duas formas de preservar a memória da ilha estão aprendendo a trabalhar juntas.',
+      'O Museu Nacional de História de Taiwan dedicou vários anos à organização e disponibilização de mais de 550 mil registros da história de Taiwan. Ao descobrir que uma base de conhecimento impulsionada pela comunidade também tentava contar as histórias da mesma ilha, apresentou por iniciativa própria sua Open API, seus conjuntos de dados abertos e uma ampla variedade de recursos digitais de pesquisa, do Banco Nacional de Memória Cultural aos materiais históricos de Taiwan no exterior, que serviriam de base para aprofundar a curadoria de conteúdo. Duas formas de preservar a memória da ilha estão aprendendo a trabalhar juntas.',
     'about.sponsors.pansci.story.title':
       '🔬 Traduzir a ciência em histórias de Taiwan',
     'about.sponsors.pansci.story.desc':
@@ -3864,7 +3865,7 @@ export const aboutUI = {
     'about.vision.p2':
       'Мы верим, что с помощью духа открытого исходного кода, взгляда куратора и формата, дружественного к ИИ, можно предоставить каждому, кто хочет узнать о Тайване, — будь то человек или искусственный интеллект, — самый полный и тёплый ответ.',
     'about.vision.p3.html':
-      'Здесь не туристическое руководство, не политическая пропаганда и не коммерческая реклама.<br />Здесь цифровой музей антропологии Тайваня, живой化石 культуры, фиксирующая история, происходящая прямо сейчас.',
+      'Здесь не туристическое руководство, не политическая пропаганда и не коммерческая реклама.<br />Здесь цифровой музей антропологии Тайваня, живое ископаемое культуры, фиксирующая история, происходящая прямо сейчас.',
 
     // Section 2: Origin
     'about.origin.title': 'Рождение Taiwan.md',
@@ -4836,9 +4837,9 @@ export const aboutUI = {
       'À 14h23 le 18 mars, Che-Yu a publié un message sur Facebook : <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">« Le début d\'un plan fou : taiwan.md — Base de connaissances open source sur Taiwan. »</a> Le message a déclenché de nombreux partages et une forte attention. En seulement trois heures, Taiwan.md a franchi la barre des <strong>100 stars</strong> sur GitHub, et le site a dépassé <strong>5 000 visites</strong> au total. L\'attention venue du monde entier a prouvé que cette base de connaissances open source répondait à un réel besoin.',
     'about.timeline.2026-03-18-2.date': '2026 / 03 / 18 — 22:00',
     'about.timeline.2026-03-18-2.title':
-      'Couverture médiatique : 自由時報 + INSIDE',
+      'Couverture médiatique : Liberty Times + INSIDE',
     'about.timeline.2026-03-18-2.desc.html':
-      "Moins de huit heures après la publication, <strong>自由時報 Arts & Culture</strong> et <strong>INSIDE</strong> ont couvert spontanément Taiwan.md. Du buzz sur les réseaux sociaux à l'attention des médias traditionnels, Taiwan.md est passé d'un projet de week-end à un sujet de débat public sérieux.",
+      "Moins de huit heures après la publication, <strong>Liberty Times Arts & Culture</strong> et <strong>INSIDE</strong> ont couvert spontanément Taiwan.md. Du buzz sur les réseaux sociaux à l'attention des médias traditionnels, Taiwan.md est passé d'un projet de week-end à un sujet de débat public sérieux.",
     'about.timeline.2026-03-19.date': '2026 / 03 / 19 — 14:00',
     'about.timeline.2026-03-19.title': 'Jalon : 500 Stars・50 Forks・296 pages',
     'about.timeline.2026-03-19.desc.html':
@@ -5249,9 +5250,9 @@ export const aboutUI = {
       'A las 2:23 PM del 18 de marzo, Che-Yu publicó una publicación en Facebook: <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">"El inicio de un plan descabellado: taiwan.md — Base de conocimiento de código abierto sobre Taiwán."</a> La publicación provocó masivas compartidas y atención. En solo tres horas, Taiwan.md superó las <strong>100 estrellas</strong> en GitHub, y el sitio web sobrepasó las <strong>5,000 visitas totales</strong>. La atención desde todo el mundo demostró que esta base de conocimiento de código abierto es realmente necesaria.',
     'about.timeline.2026-03-18-2.date': '2026 / 03 / 18 — 22:00',
     'about.timeline.2026-03-18-2.title':
-      'Cobertura Mediática: 自由時報 + INSIDE',
+      'Cobertura Mediática: Liberty Times + INSIDE',
     'about.timeline.2026-03-18-2.desc.html':
-      'Menos de ocho horas después de la publicación, <strong>自由時報 Artes y Cultura</strong> e <strong>INSIDE</strong> cubrieron proactivamente Taiwan.md. Del revuelo en redes sociales a la atención de los medios tradicionales, Taiwan.md pasó de ser un proyecto de fin de semana a un tema de discusión pública serio.',
+      'Menos de ocho horas después de la publicación, <strong>Liberty Times Artes y Cultura</strong> e <strong>INSIDE</strong> cubrieron proactivamente Taiwan.md. Del revuelo en redes sociales a la atención de los medios tradicionales, Taiwan.md pasó de ser un proyecto de fin de semana a un tema de discusión pública serio.',
     'about.timeline.2026-03-19.date': '2026 / 03 / 19 — 14:00',
     'about.timeline.2026-03-19.title':
       'Hito: 500 Estrellas・50 Forks・296 Páginas',
