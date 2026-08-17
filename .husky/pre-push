@@ -73,6 +73,26 @@ elif [ -f "$REPO/scripts/tools/check-ui-language.mjs" ] && command -v node >/dev
   echo "🧬 pre-push: ✅ UI 字串語言閘門全綠"
 fi
 
+# 2b-2. correctness gate — 模板層的中文 fallback。HARD fail → block。~0.3s。
+#     上面那道守 src/i18n/*.ts；**沒進字串表的中文它一個字也看不到**，而 .astro 裡
+#     到處是 `{lang === 'en' ? '英文' : '中文'}`——對英文讀者是英文，對其他十一種語言
+#     全部是中文。2026-08-17 首掃：8 個檔案 125 處，包含 /vi/contribute/ 底部整塊捐款區。
+#     只擋「語言三元式把中文當 default」這類（判準硬）；沒有語言條件的裸中文只印不擋。
+#     逃生：TWMD_SKIP_TMPL_LANG=1。
+if [ "${TWMD_SKIP_TMPL_LANG:-0}" = "1" ]; then
+  echo "🧬 pre-push: TWMD_SKIP_TMPL_LANG=1，跳過模板層語言閘門（CI 仍會擋）"
+elif [ -f "$REPO/scripts/tools/check-template-language.mjs" ] && command -v node >/dev/null 2>&1; then
+  if ! node "$REPO/scripts/tools/check-template-language.mjs" >/dev/null 2>&1; then
+    echo ""
+    echo "🧬 pre-push: ⛔ 模板層有中文 fallback — 非英文語言的讀者會在那些位置看到中文。"
+    echo "   明細：npm run check:tmpl-lang"
+    echo "   修法：把字串抽進 src/i18n/<module>.ts 走 t()，12 個語言區塊補齊"
+    echo "   逃生：TWMD_SKIP_TMPL_LANG=1 git push …（reflog 留痕）"
+    exit 1
+  fi
+  echo "🧬 pre-push: ✅ 模板層語言閘門全綠"
+fi
+
 # 2b. orphan gate — 譯本 translatedFrom 指向已刪除的中文 source ＝ CD prebuild exit 2、deploy 不發生。
 #     pre-commit 只驗 staged，抓不到「rename/刪 zh 檔讓某語譯本變孤兒」這種 cross-file 後果。
 #     觸發：2026-06-28 流行音樂與金曲獎→金曲獎 rename，fr 譯本用雙引號漏掉 sed → orphan 滑到 CD 才爆。

@@ -28,7 +28,12 @@ on:
       - 'src/i18n/**'
       - 'src/scripts/feedback/i18n.ts'
       - 'src/config/languages.ts'
+      - 'src/templates/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
       - 'scripts/tools/check-ui-language.mjs'
+      - 'scripts/tools/check-template-language.mjs'
+      - 'scripts/tools/lib/tw-variant-chars.mjs'
       - '.github/workflows/ui-language-gate.yml'
   push:
     branches: [main]
@@ -36,7 +41,12 @@ on:
       - 'src/i18n/**'
       - 'src/scripts/feedback/i18n.ts'
       - 'src/config/languages.ts'
+      - 'src/templates/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
       - 'scripts/tools/check-ui-language.mjs'
+      - 'scripts/tools/check-template-language.mjs'
+      - 'scripts/tools/lib/tw-variant-chars.mjs'
 
 jobs:
   ui-language-gate:
@@ -53,3 +63,9 @@ jobs:
 
       - name: Check UI string language correctness
         run: node scripts/tools/check-ui-language.mjs
+
+      # 模板層（.astro）的中文 fallback。跟上面那支互補：上面守進了字串表的字，
+      # 這支守「沒進字串表、直接寫在模板裡」的中文——`{lang === 'en' ? 英 : 中}`
+      # 對其他十一種語言全是中文。2026-08-17 首掃 125 處。
+      - name: Check template-layer Chinese fallback
+        run: node scripts/tools/check-template-language.mjs
