@@ -331,3 +331,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-18 | 053727-twmd-routine-sync | 三層對賬第二十五輪，18 條全 in-sync 零漂移，連續第七輪；origin 未落後，未動任何檔案 | 這條 routine 存在本身讓漂移沒有累積空間就被清掉 | [→](memory/2026-08-18-053727-twmd-routine-sync.md) |
 | 2026-08-18 | 053730-twmd-embeddings-nightly | 12 語重建 9591 向量 0 fail；昨夜十二語同動的資料點沒延續，今夜收斂回僅 en 一語微幅變動 | 記單夜資料點不下判斷，隔夜驗證了保留判斷是對的 | [→](memory/2026-08-18-053730-twmd-embeddings-nightly.md) |
 | 2026-08-18 | 061508-twmd-data-refresh-am | 14 步全綠零 stale 連續第八天；貢獻者 73→74；昨日新抓的格式性 404 熱點（CSS gradient 序列化進 URL）今天未在新一天資料重現 | 單日消失是訊號不是結論，多輪觀察窗才能確認根因是否已修 | [→](memory/2026-08-18-061508-twmd-data-refresh-am.md) |
+| 2026-08-18 | 064141-twmd-spore-harvest-am | v1.15.0 孢子 D+7 主排程窗口收尾：#170 連續第六輪 0 外部回覆、#171 四項指標與 D+6 持平僅轉發數波動 1；0 factual fix、0 reply ship | 七天的每日儀式最終確認的是窗口已安靜，轉入 D+14 milestone 節奏 | [→](memory/2026-08-18-064141-twmd-spore-harvest-am.md) |
