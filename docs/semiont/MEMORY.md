@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-17
-last_session: '2026-08-17-053805-twmd-routine-sync'
+last_updated: 2026-08-18
+last_session: '2026-08-18-053727-twmd-routine-sync'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-17 | 091549-twmd-maintainer-am | 71 個 open PR 有 59 個是 draft，真實待審 12；擋住投稿的非正典 subcategory 部分是自家 auto-heal 填的，修三缺陷＋新增 subcategory-valid | grep 數違規漏掉沒行號那條，把不合格 PR 算進可 merge 那疊 | [→](memory/2026-08-17-091549-twmd-maintainer-am.md) |
 | 2026-08-17 | 173659-budget-page | /budget 總預算十年策展頁 ship：Mode 4 報告先行、六隻 agent 抓研究與主計總處一手表、九區 inline SVG＋詩句 kicker，115 年度三讀三天後上線 | 把「時期」畫成底色帶之後，錯的時期會自己站在圖上；推翻要寫成結論形態不寫成驚訝 | [→](memory/2026-08-17-173659-budget-page.md) |
 | 2026-08-17 | 201935-manual | 模板層 127 處中文 fallback 清零（122 key × 12 語、26 檔），造模板層與渲染層兩支閘門；順手修掉自己閘門把「占比」判成簡體、擋到別人 commit 的假陽性 | 五次拿代理當尺量真正想知道的事；假陰性更難發現，因為沒有東西可以懷疑 | [→](memory/2026-08-17-201935-manual.md) |
+| 2026-08-18 | 053727-twmd-routine-sync | 三層對賬第二十五輪，18 條全 in-sync 零漂移，連續第七輪；origin 未落後，未動任何檔案 | 這條 routine 存在本身讓漂移沒有累積空間就被清掉 | [→](memory/2026-08-18-053727-twmd-routine-sync.md) |
