@@ -111,11 +111,11 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
-| 👥 Contributors                | 73    |
-| ⭐ GitHub Stars                | 1149  |
+| 👥 Contributors                | 74    |
+| ⭐ GitHub Stars                | 1150  |
 | 🍴 Forks                       | 180   |
-| 📅 Articles last 7 days        | 29    |
-| 📅 Articles last 30 days       | 235   |
+| 📅 Articles last 7 days        | 21    |
+| 📅 Articles last 30 days       | 229   |
 
 <!-- STATS:END -->
 
@@ -644,9 +644,10 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/NeilLee93"><img src="https://avatars.githubusercontent.com/u/97795790?v=4" width="100px;" alt=""/><br /><sub><b>NeilLee93</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/TWjohnwang"><img src="https://avatars.githubusercontent.com/u/108091299?v=4" width="100px;" alt=""/><br /><sub><b>TWjohnwang</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/howieyoung"><img src="https://avatars.githubusercontent.com/u/12218074?v=4" width="100px;" alt=""/><br /><sub><b>Howie Young</b></sub></a><br />💻 🛡️</td>
-    <td align="center"><a href="https://github.com/XasonLai"><img src="https://avatars.githubusercontent.com/u/12758654?v=4" width="100px;" alt=""/><br /><sub><b>XasonLai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/rhosiqs"><img src="https://avatars.githubusercontent.com/u/101655495?v=4" width="100px;" alt=""/><br /><sub><b>rhosiqs</b></sub></a><br />💻</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/XasonLai"><img src="https://avatars.githubusercontent.com/u/12758654?v=4" width="100px;" alt=""/><br /><sub><b>XasonLai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/chenyi-wu"><img src="https://avatars.githubusercontent.com/u/66383520?v=4" width="100px;" alt=""/><br /><sub><b>Chen-Yi Wu</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/joe32140"><img src="https://avatars.githubusercontent.com/u/6942982?v=4" width="100px;" alt=""/><br /><sub><b>Chao-Chun (Joe) Hsu</b></sub></a><br />💻 🐛</td>
     <td align="center"><a href="https://github.com/cwlin0131"><img src="https://avatars.githubusercontent.com/u/101349007?v=4" width="100px;" alt=""/><br /><sub><b>cwlin0131</b></sub></a><br />🖋️</td>
@@ -654,9 +655,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/brianhu-tw"><img src="https://avatars.githubusercontent.com/u/9028425?v=4" width="100px;" alt=""/><br /><sub><b>Brian Hu</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/AndyWang505"><img src="https://avatars.githubusercontent.com/u/71600455?v=4" width="100px;" alt=""/><br /><sub><b>Andy Wang</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Aaron2464"><img src="https://avatars.githubusercontent.com/u/31269964?v=4" width="100px;" alt=""/><br /><sub><b>Aaron2464</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/idlccp02"><img src="https://avatars.githubusercontent.com/u/233878411?v=4" width="100px;" alt=""/><br /><sub><b>idlccp02</b></sub></a><br />🖋️</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/idlccp02"><img src="https://avatars.githubusercontent.com/u/233878411?v=4" width="100px;" alt=""/><br /><sub><b>idlccp02</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/alstontsai0816"><img src="https://avatars.githubusercontent.com/u/194244853?v=4" width="100px;" alt=""/><br /><sub><b>我們一家都很蔡</b></sub></a><br />🐛</td>
     <td align="center"><a href="https://github.com/tboydar-agent"><img src="https://avatars.githubusercontent.com/u/265199589?v=4" width="100px;" alt=""/><br /><sub><b>tboydar-agent</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/kouchun"><img src="https://avatars.githubusercontent.com/kouchun" width="100px;" alt=""/><br /><sub><b>kouchun</b></sub></a><br />🌍</td>
@@ -664,9 +665,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/Phaapnag"><img src="https://avatars.githubusercontent.com/Phaapnag" width="100px;" alt=""/><br /><sub><b>Phaapnag</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/chaoshanhsu"><img src="https://avatars.githubusercontent.com/chaoshanhsu" width="100px;" alt=""/><br /><sub><b>chaoshanhsu</b></sub></a><br />🐛</td>
     <td align="center"><a href="https://github.com/twlilirentw-coder"><img src="https://avatars.githubusercontent.com/twlilirentw-coder" width="100px;" alt=""/><br /><sub><b>twlilirentw-coder</b></sub></a><br />🐛</td>
-    <td align="center"><a href="https://github.com/notoriouslab"><img src="https://avatars.githubusercontent.com/notoriouslab" width="100px;" alt=""/><br /><sub><b>notoriouslab</b></sub></a><br />🤔</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/notoriouslab"><img src="https://avatars.githubusercontent.com/notoriouslab" width="100px;" alt=""/><br /><sub><b>notoriouslab</b></sub></a><br />🤔</td>
     <td align="center"><a href="https://github.com/tan-i-ham"><img src="https://avatars.githubusercontent.com/tan-i-ham" width="100px;" alt=""/><br /><sub><b>tan-i-ham</b></sub></a><br />🤔</td>
   </tr>
 </table>

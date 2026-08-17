@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-17 06:12
+last_generated: 2026-08-18 06:13
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,13 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-17 06:12** · 頂層 \*.md 共 **266** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-18 06:13** · 頂層 \*.md 共 **267** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   498 | 27.7 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   503 | 27.9 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `editorial-room/`       |    70 | 497.4 KB | —                                                    |
 | `article-evolve/`       |    32 | 1.2 MB   | —                                                    |
 | `weekly/`               |    30 | 6.0 MB   | Self-evolve weekly digest                            |
@@ -37,10 +37,10 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 99.4 KB  | —                                                    |
-| `fork-census/`          |     2 | 37.8 KB  | —                                                    |
+| `404-monitor/`          |     2 | 108.9 KB | —                                                    |
+| `fork-census/`          |     2 | 38.6 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`             |     2 | 95.8 KB  | —                                                    |
+| `newsroom/`             |     2 | 96.1 KB  | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`        |     1 | 52.5 KB  | —                                                    |
 | `terminology-trends/`   |     1 | 5.0 KB   | —                                                    |
@@ -234,8 +234,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (109)
+### ops (110)
 
+- `2026-08-17` [design-ly-budget-page-2026-08-17](design-ly-budget-page-2026-08-17.md) — design-ly-budget-page-2026-08-17
 - `2026-08-14` [feedback-third-party-allegation-hold-2026-08-14](feedback-third-party-allegation-hold-2026-08-14.md) — 讀者回報裡的第三人指控：一則不能開成 public issue 的回報
 - `2026-08-10` [routine-mouhouse-health-2026-08-10](routine-mouhouse-health-2026-08-10.md)
 - `2026-08-06` [design-文體類型學升級-2026-08-06](design-文體類型學升級-2026-08-06.md) — 文體類型學升級設計報告 — 從三型到「畫布 × 文體族 × 正交模組」三層架構
@@ -354,9 +355,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-08 (17 files)
+### 2026-08 (18 files)
 
-- Type breakdown: ops: 8 / audit-routine: 3 / evolution: 3 / audit: 2 / analysis: 1
+- Type breakdown: ops: 9 / audit-routine: 3 / evolution: 3 / audit: 2 / analysis: 1
+  - `2026-08-17` [design-ly-budget-page-2026-08-17](design-ly-budget-page-2026-08-17.md)
   - `2026-08-16` [routine-audit-2026-08-16](routine-audit-2026-08-16.md)
   - `2026-08-14` [feedback-third-party-allegation-hold-2026-08-14](feedback-third-party-allegation-hold-2026-08-14.md)
   - `2026-08-10` [routine-mouhouse-health-2026-08-10](routine-mouhouse-health-2026-08-10.md)

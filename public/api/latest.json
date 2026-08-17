@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-16T22:12:04.816Z",
+  "_generated": "2026-08-17T22:13:13.506Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -276,6 +276,15 @@
     ],
     "en": [
       {
+        "title": "Taiwan's Convenience Store Culture",
+        "desc": "A convenience-store kingdom with one of the world's highest densities, where 7-Eleven and FamilyMart's localized innovations have redefined modern lifestyles",
+        "category": "lifestyle",
+        "href": "/en/lifestyle/convenience-store-culture",
+        "date": "2026-08-16T15:08:49+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
         "title": "The Formosan Landlocked Salmon: A Glacial Relict's Journey Home — From the Brink of Extinction to Taiwan's Watershed Conservation Miracle",
         "desc": "In 1917, Japanese scholar Oshima Masamitsu discovered the Formosan landlocked salmon, a glacial relict called 'Mnbang' by the Atayal people. After habitat destruction reduced the population to just 200-plus fish in 1995, more than two decades of effort combining dam removal, artificial breeding, and the innovative 'waterless transport' technique brought the population to a peak of 18,000 in 2023. Though slightly affected by natural disasters in recent years, numbers have stabilized above 15,000 — a successful model for Taiwan's watershed-integrated conservation.",
         "category": "nature",
@@ -534,15 +543,6 @@
         "href": "/en/history/resolution-on-taiwans-future",
         "date": "2026-07-27T18:53:04+08:00",
         "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Sanxia Old Street: Power Struggles Beneath Red Brick Arcades and an Unfinished Heritage Experiment",
-        "desc": "Recognized by FIABCI with the Global Excellence in Construction Award in 2007, Sanxia Old Street served as Taiwan's first large-scale \"restoration project\" pilot. From the Qing Dynasty's \"Sanjiaoyong\" indigo dyeing trade to the 2016 tragedy of the flagstone road's removal, this red-brick street records Taiwan's intense struggle between heritage preservation and tourism development.",
-        "category": "history",
-        "href": "/en/history/sanxia-old-street",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 12,
         "image": ""
       }
     ],

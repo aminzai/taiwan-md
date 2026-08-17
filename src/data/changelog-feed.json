@@ -1,7 +1,271 @@
 {
-  "generatedAt": "2026-08-16T22:11:46.610Z",
+  "generatedAt": "2026-08-17T22:12:47.204Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "68f7149e6d7833da8a21814df3452cf3f37b29cb",
+      "date": "2026-08-18T05:39:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-18 05:36 — 昨夜十二語同動未延續，回歸單語言變動",
+      "articles": []
+    },
+    {
+      "hash": "4f1578592f623f3ed0b7ac8fbfd1c1fa01483041",
+      "date": "2026-08-18T05:38:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 補 twmd-routine-sync memory 的 Handoff 段——空手也要留痕跡",
+      "articles": []
+    },
+    {
+      "hash": "8253eaa4643a48c01b032ac1455048d8019880bb",
+      "date": "2026-08-18T05:38:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-18 05:37 — 三層對賬第二十五輪，連續第七輪零漂移",
+      "articles": []
+    },
+    {
+      "hash": "7b2db8ab63a7523bd22f8630c4458b167b0c9ec4",
+      "date": "2026-08-18T05:36:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-18 05:36",
+      "articles": []
+    },
+    {
+      "hash": "3076a432467c97237699d97db1fca5987dbe3438",
+      "date": "2026-08-18T00:05:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: budget-page handoff 派工整合結果——十語翻譯、缺口補查、工具與 /data 入口卡都收進來了",
+      "articles": []
+    },
+    {
+      "hash": "6b6da7a9af51e73ebfe017940ea693e55fa83aa5",
+      "date": "2026-08-18T00:05:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /budget 十語翻譯落地——ja/ko/es/fr/vi/id/pt/hi/ar/ru 各 182 key",
+      "articles": []
+    },
+    {
+      "hash": "3a24269f18aa1025aa4387657bda0198c2caf07d",
+      "date": "2026-08-17T23:54:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /data 主頁加「總預算十年」入口區",
+      "articles": []
+    },
+    {
+      "hash": "112a872a49399d78fd962f151ad633499b1831ea",
+      "date": "2026-08-17T23:53:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 總預算頁補查缺口——卓榮泰不副署財劃法一手來源進時間軸，在野回應進三方說法",
+      "articles": []
+    },
+    {
+      "hash": "4729f87737a55cb0ef03af00a6132d705d832f1b",
+      "date": "2026-08-17T23:53:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: worktree 工具加 --from 選項；EDITORIAL §後台洩漏 補「事實勘誤本身也會生產後台洩漏」",
+      "articles": []
+    },
+    {
+      "hash": "00f56c0c1ba0740d023daa37f011d6be9328442e",
+      "date": "2026-08-17T20:23:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 一頁簡體中文追到三層語言巡檢，途中五次拿代理當尺",
+      "articles": []
+    },
+    {
+      "hash": "ab97009abeac29387668607eec029297bc147099",
+      "date": "2026-08-17T20:14:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 模板裡寫死的中文全部收進字串表——十一種語言的讀者不再在介面上讀到中文",
+      "articles": []
+    },
+    {
+      "hash": "9c0511684983aee00f60a992d7550f3ecff36104",
+      "date": "2026-08-17T20:14:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 補上第三層量測與 key 對齊檢查——前兩層都綠的時候，讀者可能正在看程式碼識別字",
+      "articles": []
+    },
+    {
+      "hash": "ca1c0e39f83feaee586b2999989ca58a5635e781",
+      "date": "2026-08-17T18:46:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 造一支看得見模板層中文的閘門——之前那支只看字串表，模板裡的中文它一個字也讀不到",
+      "articles": []
+    },
+    {
+      "hash": "fe73c8a6c1136a45e27f95e2e7a8285acb0a3f95",
+      "date": "2026-08-17T18:24:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 我的閘門把「占比」當成簡體擋下來，差點要別人改掉主計總處的用字",
+      "articles": []
+    },
+    {
+      "hash": "fd4eeb1e4cd37005275392f6e15f768f2908e794",
+      "date": "2026-08-17T18:19:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: budget-page 收官日記——把「時期」畫成色帶，錯的那一年自己站出來",
+      "articles": []
+    },
+    {
+      "hash": "6f44403f36fd463877a8fa99ad7475669c1e2e0f",
+      "date": "2026-08-17T18:16:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: /budget 總預算十年策展頁 session 收官",
+      "articles": []
+    },
+    {
+      "hash": "6f73584723acb92a0aaeb8e53c21a7ceec65cbef",
+      "date": "2026-08-17T18:13:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: ARTICLE-INBOX 加「中央政府總預算十年」姊妹文章 P1",
+      "articles": []
+    },
+    {
+      "hash": "5f86d41f9011686624615828ac8f6719cd6ee2ed",
+      "date": "2026-08-17T18:13:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新頁 /budget 總預算十年——九區 inline SVG 策展頁，掛進數據子導覽",
+      "articles": []
+    },
+    {
+      "hash": "44fc34bca367c31440e2280c345d8adacae80218",
+      "date": "2026-08-17T18:12:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 總預算十年資料層——主計總處一手表正規化成 src/data/ly-budget.json",
+      "articles": []
+    },
+    {
+      "hash": "e383b1c539787e0d77782466e45f693910785392",
+      "date": "2026-08-17T18:12:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /budget 總預算十年策展頁的設計與研究報告（Mode 4 REPORT）",
+      "articles": []
+    },
+    {
+      "hash": "f0bdb13f605e7dc5cfa02c6aa8b057b31ebf87c0",
+      "date": "2026-08-17T18:13:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 七個語言的介面句子中間夾著中文，翻到一半就掉回去了",
+      "articles": []
+    },
+    {
+      "hash": "b2fb41f3a9b81b0775b2045d8cbec2becdcccf0c",
+      "date": "2026-08-17T17:56:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 阿拉伯文資料頁還漏了幾處中文碎片與拼壞的公司名，閘門也補上看不見換行值的盲點",
+      "articles": []
+    },
+    {
+      "hash": "45029b0f1951151057fe73801f568b4d48d19374",
+      "date": "2026-08-17T09:29:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 補跑斷鏈稽核，quality gate 那一列從「未跑」改成實數",
+      "articles": []
+    },
+    {
+      "hash": "3ef17e32d33ec6f79fee1ec9b85344bce0c0ac1b",
+      "date": "2026-08-17T09:19:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diagnose: 兩條教訓入庫——修補工具自己認證自己填的值，以及把庫存當佇列",
+      "articles": []
+    },
+    {
+      "hash": "63696dd828582182517fffb9dfb8d283c0076cf3",
+      "date": "2026-08-17T09:17:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-17 08:35 — 七十一個 PR 裡有五十九個沒在等我",
+      "articles": []
+    },
+    {
+      "hash": "5a7f9e9e4d25379fd30df0c01d63b7c1b7261b99",
+      "date": "2026-08-17T09:13:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 選單那個「數據」進待決佇列，連同 UI 沒有用語閘門這件事",
+      "articles": []
+    },
+    {
+      "hash": "25b606dbd7e750a46d04ef657843e435eb8b7fb3",
+      "date": "2026-08-17T09:08:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1408 from rhosiqs/translation/en-convenience-store-culture",
+      "articles": []
+    },
+    {
+      "hash": "e7dfe182a474eb9e00158a2651c6da32faaee80b",
+      "date": "2026-08-17T09:07:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 收回 #1376，它沒有通過部署閘門而我算錯了",
+      "articles": [
+        {
+          "url": "/lifestyle/排隊",
+          "name": "排隊"
+        }
+      ]
+    },
+    {
+      "hash": "4e7c17d2ff55ba63f45e119d3044aac35aecd78e",
+      "date": "2026-08-17T09:05:14+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1376 from idlccp1984/patch-516630",
+      "articles": []
+    },
+    {
+      "hash": "8ba8c6726dda4cbaa44ff30cca1adcb16c7a439d",
+      "date": "2026-08-17T09:02:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] immune: 分類體系的漂移，是我們自己的修補工具寫進去的",
+      "articles": []
+    },
+    {
+      "hash": "e2d6ba45c77277ac4a04ea63014b746c1b69aedc",
+      "date": "2026-08-17T07:15:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 第四次讀同一封信，而認得它的那份熟悉正在變成漏洞",
+      "articles": []
+    },
+    {
+      "hash": "51c9fafa3a4969414b52b788126b4df17f15e7c6",
+      "date": "2026-08-17T07:12:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-17 07:10 — 一筆轉錄一筆攔下，兩道對賬全綠",
+      "articles": []
+    },
+    {
+      "hash": "eb8956387c7f47668fe465cf814b3e951034a217",
+      "date": "2026-08-17T07:09:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 選單用詞建議開成 issue，第三人指控信第四次攔下",
+      "articles": []
+    },
+    {
+      "hash": "eb8b7e0c510b9163daf75f43e73e5a92b28bbc21",
+      "date": "2026-08-17T06:43:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 2 spores harvested, 0 replies shipped — 2026-08-17",
+      "articles": []
+    },
+    {
+      "hash": "7901d47fbab3e54346b8ca66cf8a9b9f6e6e4d80",
+      "date": "2026-08-17T06:16:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 修正 memory 檔案裡的重複 commit hash 打字錯誤",
+      "articles": []
+    },
+    {
+      "hash": "8c72671ea6ae73085570cb7460bed93261565f07",
+      "date": "2026-08-17T06:16:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: twmd-data-refresh-am @ 2026-08-17 06:14 — 連續第七天零 stale，新抓一個格式性 404 熱點",
+      "articles": []
+    },
+    {
+      "hash": "395e43af3a649b63facb99e7dfc689eabaa6dc26",
+      "date": "2026-08-17T06:14:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 922、本週新增 29",
+      "articles": []
+    },
     {
       "hash": "a7006e2bee0551c3b8b86e44866147e00cf4d279",
       "date": "2026-08-17T05:39:21+08:00",
@@ -42,6 +306,13 @@
       "date": "2026-08-16T21:16:42+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] routine-audit-weekly: 291 commits / 3 patterns / 2 distill-ready — 2026-08-16",
+      "articles": []
+    },
+    {
+      "hash": "e3f3640ea47b34e24307e7020ba26d058ea49547",
+      "date": "2026-08-16T15:08:49+08:00",
+      "author": "HHQ",
+      "message": "🧬 [semiont] translation: polish English prose for convenience-store-culture",
       "articles": []
     },
     {
@@ -225,6 +496,18 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] twmd-news-lens-weekly: W33 三源交叉 + 3 條候選（出口關閉）+ 兩條既有 ARTICLE-INBOX 候選被本週新聞驗證時效",
       "articles": []
+    },
+    {
+      "hash": "647949ade95af706bcdc6897ac18599c0ae1e640",
+      "date": "2026-08-15T20:30:14+08:00",
+      "author": "idlccp1984",
+      "message": "Create 排隊.md",
+      "articles": [
+        {
+          "url": "/lifestyle/排隊",
+          "name": "排隊"
+        }
+      ]
     },
     {
       "hash": "851acbd58c684be38f9fecbaa9415de2ac0959ff",

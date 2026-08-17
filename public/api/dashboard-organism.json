@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T22:11:58.797Z",
+  "lastUpdated": "2026-08-17T22:12:59.831Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 29,
-        "articlesLast30Days": 235,
+        "articlesLast7Days": 21,
+        "articlesLast30Days": 229,
         "totalArticles": 922
       }
     },
@@ -46,10 +46,10 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 80,
+      "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-08-08T15:15:42.000Z"
+        "editorialLastModified": "2026-08-17T15:53:58.000Z"
       }
     },
     {
@@ -83,7 +83,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 17,
+        "recentContributors": 18,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239295,
