@@ -6,6 +6,18 @@
  * 書寫紀律：MANIFESTO §11（對位句型 ≤3／破折號節制／零晶晶體）；
  * kicker 是詩句層，H2 是斷言層（graph.md §三.1），兩者不互相取代。
  */
+// 其他語言的 182 key 由翻譯 sub-agent 落在 data/budget/i18n/{lang}.json（對賬：scripts/tools/check-budget-i18n.py）
+import ja from '../../data/budget/i18n/ja.json';
+import ko from '../../data/budget/i18n/ko.json';
+import es from '../../data/budget/i18n/es.json';
+import fr from '../../data/budget/i18n/fr.json';
+import pt from '../../data/budget/i18n/pt.json';
+import hi from '../../data/budget/i18n/hi.json';
+import ar from '../../data/budget/i18n/ar.json';
+import ru from '../../data/budget/i18n/ru.json';
+import vi from '../../data/budget/i18n/vi.json';
+import id from '../../data/budget/i18n/id.json';
+
 export const budgetUI = {
   en: {
     'budget.meta.title': 'Budget Decade — Taiwan’s central government budget, 2016–2026',
@@ -484,4 +496,14 @@ export const budgetUI = {
     'budget.toc.s6': '編了，花了多少',
     'budget.toc.s7': '怎麼讀',
   },
+  ja,
+  ko,
+  es,
+  fr,
+  pt,
+  hi,
+  ar,
+  ru,
+  vi,
+  id,
 } as const;
