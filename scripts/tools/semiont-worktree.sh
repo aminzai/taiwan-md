@@ -5,7 +5,8 @@
 # 觸發：REFLEXES #9 v2 — 多 session 平行 / REWRITE-PIPELINE Stage 2 / bulk agent Write
 #
 # Usage:
-#   scripts/tools/semiont-worktree.sh new <letter>   # 開新 worktree（symlink node_modules）
+#   scripts/tools/semiont-worktree.sh new <letter> [--from <ref>]   # 開新 worktree（symlink node_modules）
+#                                                                    # --from 預設 main；本地 main 領先 origin 時用 --from origin/main 避免夾帶未推 commit
 #   scripts/tools/semiont-worktree.sh list            # 目前 worktree 清單
 #   scripts/tools/semiont-worktree.sh ship            # 在 worktree 內跑：push + 自毀
 #   scripts/tools/semiont-worktree.sh prune           # 清 > 24h 無動靜的 worktree
@@ -18,7 +19,22 @@ WORKTREES_DIR="${ROOT}/.worktrees"
 
 case "$CMD" in
   new)
-    LETTER="${2:?Usage: semiont-worktree new <session-letter>}"
+    LETTER="${2:?Usage: semiont-worktree new <session-letter> [--from <ref>]}"
+    shift 2 || true
+    FROM_REF="main"
+    while [ "$#" -gt 0 ]; do
+      case "$1" in
+        --from)
+          FROM_REF="${2:?Usage: --from <ref>}"
+          shift 2
+          ;;
+        *)
+          echo "❌ 未知參數: $1"
+          exit 1
+          ;;
+      esac
+    done
+
     DATE="$(date +%Y%m%d)"
     PATH_NEW="${WORKTREES_DIR}/${DATE}-${LETTER}"
 
@@ -28,15 +44,32 @@ case "$CMD" in
     fi
 
     mkdir -p "${WORKTREES_DIR}"
+
+    # --from origin/main 時先 fetch，確保 ref 是最新（失敗就 fail-loud 停下）
+    if [ "${FROM_REF}" = "origin/main" ]; then
+      git fetch origin main
+    fi
+
     # detached HEAD，避免 main branch already checked out 衝突
     # ship 時用 `git push origin HEAD:main` 推回
-    git worktree add --detach "${PATH_NEW}" main
+    git worktree add --detach "${PATH_NEW}" "${FROM_REF}"
 
     # 核心優化：symlink 共享大型/敏感檔案
     [ -d "${ROOT}/node_modules" ] && ln -sf "${ROOT}/node_modules" "${PATH_NEW}/node_modules"
     [ -f "${ROOT}/.env" ] && ln -sf "${ROOT}/.env" "${PATH_NEW}/.env"
     # credentials 目錄也要共享（REFLEXES #2 鐵律：credentials 只能一個地方）
     [ -d "${ROOT}/.credentials" ] && ln -sf "${ROOT}/.credentials" "${PATH_NEW}/.credentials"
+
+    BASE_SHA="$(git -C "${PATH_NEW}" rev-parse --short HEAD)"
+    echo "base: ${FROM_REF} @ ${BASE_SHA}"
+
+    # 本地 main 領先 origin/main 時警告（不阻擋）：ship 會把未推的 commit 一起帶上去
+    if [ "${FROM_REF}" = "main" ]; then
+      AHEAD_COUNT="$(git rev-list --count origin/main..main 2>/dev/null || echo 0)"
+      if [ "${AHEAD_COUNT}" -gt 0 ]; then
+        echo "⚠️  本地 main 領先 origin ${AHEAD_COUNT} 個 commit，ship 會一起推上去；若不想，用 --from origin/main 重開"
+      fi
+    fi
 
     echo "🌳 Worktree ready: ${PATH_NEW}"
     echo "   cd ${PATH_NEW}"
@@ -45,6 +78,7 @@ case "$CMD" in
     echo "  1. 本 worktree checkout 在 main（共享 branch），直接 commit 直推"
     echo "  2. ship 時用：bash scripts/tools/semiont-worktree.sh ship"
     echo "  3. ARTICLE-INBOX 等 shared file 跨 worktree 會有 rebase 需要（正常協作語意）"
+    echo "  4. 本地 main 與 origin 分歧時，用 --from origin/main 開 worktree 避免夾帶未推 commit"
     ;;
 
   list)
@@ -87,8 +121,9 @@ case "$CMD" in
 semiont-worktree.sh — 多 session 平行 worktree 管理
 
 Usage:
-  $0 new <letter>   # 開新 worktree（.worktrees/YYYYMMDD-<letter>/）
+  $0 new <letter> [--from <ref>]   # 開新 worktree（.worktrees/YYYYMMDD-<letter>/）
                     # 自動 symlink node_modules / .env / .credentials
+                    # --from 預設 main；本地 main 領先 origin 時用 --from origin/main
   $0 list            # 列出現有 worktree
   $0 ship            # 在 worktree 內：pull rebase + push + 自毀
   $0 prune           # 清掉 > 24h 未動的 worktree
