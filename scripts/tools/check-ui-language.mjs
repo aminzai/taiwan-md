@@ -10,13 +10,29 @@
  *   2026-08-10  讀者 @Pigcasso6 回報 taiwan-shape / bench / 回饋模組多語未譯（#1311/#1312/#1314）
  *   2026-08-11  ar 區塊整段是簡體中文且用中國詞彙（#1318）
  *
- * 本工具查五件事：
+ * 本工具查六件事：
  *
  *   1. SIMPLIFIED_LEAK — 任何語言區塊出現無歧義簡體字。Taiwan.md 全站不該有簡體。
  *   2. UNTRANSLATED_CJK — 非 CJK 語言的區塊裡整串都是中文（= 根本沒翻）。
  *   3. TABLE_DRIFT — 前端字串表的語言集合落後 LANGUAGES_REGISTRY（靜默 fallback 英文）。
  *   4. PRC_TERM — zh-TW 區塊用了中國用語（2026-08-12 新增，見下）。
- *   5. CJK_FRAGMENT — 非 CJK 語言區塊夾著漢字碎片（2026-08-12 新增，見下）。
+ *   5. UNREADABLE_FOR_LOCALE — 非 CJK 語言的值裡有漢字、卻沒有半個該語言讀得到的字元
+ *      （2026-08-12 新增，是 #1320 的真正形狀；見 §5 註解）。
+ *   6. CJK_FRAGMENT — 非 CJK 語言的值裡，漢字碎片**夾在**該語言的字裡（2026-08-17 新增，
+ *      ⚠️ 警示級不擋 push；見 §6 註解）。
+ *
+ * ── 換行的值看不見（2026-08-17 v3）────────────────────────────────────────
+ *
+ * v1/v2 只認 `'key': 'value'` 寫在同一行的條目。prettier 會把長值折到下一行：
+ *
+ *     'data.category.1.item.1.desc':
+ *       '2020 年，工程師用這裡的資料在 72 小時內做出口罩地圖，⋯',
+ *
+ * 於是 UNTRANSLATED_CJK / UNREADABLE_FOR_LOCALE / PRC_TERM 全部對這種條目失明——
+ * 而**越長的值越可能是整段沒翻的句子**，閘門恰好漏掉最該抓的那一批：en 區塊
+ * 六條 `data.category.*.desc` 整句中文、ar 區塊一句阿拉伯文中間夾著「民間」，
+ * 全庫掃描報「全綠」。v3 把「key 在這行、值在下一行」當同一個條目解析。
+ * （SIMPLIFIED_LEAK 逐行看字形，本來就不受影響。）
  *
  * ── 為什麼 v1 的三件事不夠（2026-08-12 讀者連續回報第三天）────────────────
  *
@@ -48,11 +64,18 @@
  *      文章上實戰過的 A 類表）。像「質量」「程序」這種要讀上下文才判得準的，
  *      留給 terminology-prose-fix.py 的語境規則，不進這道閘門——
  *      閘門寧可漏，不可誤殺（2026-08-09 LESSONS：假陽性高的閘門會讓人改壞內容換綠燈）
- *   e. CJK_FRAGMENT 放行 CJK_OK_KEYS——少數 key 本來就該保留漢字原文
- *      （站名 Taiwan.md、逐字引用的證據、刻意並列原文的詞條）
+ *   e. UNREADABLE_FOR_LOCALE / CJK_FRAGMENT 放行 CJK_OK_KEYS——少數 key 本來就該
+ *      保留漢字原文（站名 Taiwan.md、逐字引用的證據、刻意並列原文的詞條）
+ *   f. CJK_FRAGMENT 不管**邊緣**的漢字：`'Taiwan Semiconductor 台積電'` 這種
+ *      「拉丁名 + 漢字原名」的雙語標示是 en/fr/es 刻意的設計，只有漢字**夾在**
+ *      該語言的字中間（`تطوير民間، نموذج`）才是翻到一半掉回中文；括號 / 引號裡的
+ *      `(漢字)` 是各語言指南 §2 明文允許的原文注記，也放行。想看邊緣雙語標示
+ *      的清單用 --verbose。
  *
  * 用法：
- *   node scripts/tools/check-ui-language.mjs           # 報告（exit 1 = 有真陽性）
+ *   node scripts/tools/check-ui-language.mjs           # 報告（exit 1 = 有真陽性；⚠️ 級不算）
+ *   node scripts/tools/check-ui-language.mjs --strict  # ⚠️ 級也算 fail
+ *   node scripts/tools/check-ui-language.mjs --verbose # 連邊緣雙語標示（ℹ️）一起列
  *   node scripts/tools/check-ui-language.mjs --json
  *   npm run check:ui-lang
  */
@@ -148,6 +171,9 @@ const CJK_OK_KEYS = [
   '.lang.ja',
   '.lang.zh',
   '.lang.ko',
+  // /bench 的命題刻意雙語並列：頁面語言放主句，另一語言放副句（zh-TW 頁配英文副句、
+  // en 頁配中文原句）。這是 sovereignty bench 的設計，中文原句是被展示的對象。
+  'bench.thesis.question.sub',
 ];
 
 /**
@@ -173,6 +199,71 @@ function parseEntry(line) {
     /^\s*['"]?([\w.$-]+)['"]?\s*:\s*(['"])((?:\\.|(?!\2).)*)\2/,
   );
   return m ? { key: m[1], value: m[3] } : null;
+}
+
+/** 這行只有 key（`'key':`），值被 prettier 折到下一行 */
+function parseKeyOnly(line) {
+  const m = line.match(/^\s*['"]?([\w.$-]+)['"]?\s*:\s*$/);
+  return m ? m[1] : null;
+}
+
+/** 整行只是一個字串字面值（折行後的值那一行） */
+function parseValueOnly(line) {
+  const m = line.match(/^\s*(['"])((?:\\.|(?!\1).)*)\1\s*,?\s*$/);
+  return m ? m[2] : null;
+}
+
+/**
+ * 把「key 在這行、值在下一行」的條目接起來。回傳 { key, value, line }，
+ * line 指向**值**所在的行（讀者要跳去修的是那一行）。
+ * 折行條目吃掉兩行；同行條目一行。
+ */
+function entryAt(lines, i) {
+  const same = parseEntry(lines[i]);
+  if (same) return { ...same, line: i + 1, span: 1 };
+  const key = parseKeyOnly(lines[i]);
+  if (key && i + 1 < lines.length) {
+    const value = parseValueOnly(lines[i + 1]);
+    if (value !== null) return { key, value, line: i + 2, span: 2 };
+  }
+  return null;
+}
+
+/**
+ * CJK_FRAGMENT（§6）：漢字**夾在**該語言可讀字元之間。
+ * 先挖掉括號 / 引號裡的原文注記（`(漢字)` 是各語言指南 §2 明文允許的），
+ * 再看每一段漢字 run 前後是否都還有該語言自己的字元。
+ * 邊緣漢字（`'Taiwan Semiconductor 台積電'`）不算——那是雙語標示。
+ */
+const ANNOTATION_RE =
+  /\([^)]*\)|（[^）]*）|\[[^\]]*\]|「[^」]*」|『[^』]*』|《[^》]*》|〈[^〉]*〉|«[^»]*»|"[^"]*"|“[^”]*”/g;
+const CJK_RUN_RE = /[㐀-鿿豈-﫿]+/g;
+
+// 台股掛牌後綴（矽力-KY / 某某-DR）：漢字名字後面黏著的 -KY 是名字的一部分，
+// 不是「碎片後面還有拉丁字」。
+const TICKER_SUFFIX_RE = /^[-‐–][A-Z]{1,3}\b/;
+
+function cjkFragments(value, lang) {
+  const own = ownScriptRe(lang);
+  const stripped = value.replace(ANNOTATION_RE, ' ');
+  const out = [];
+  for (const m of stripped.matchAll(CJK_RUN_RE)) {
+    const before = stripped.slice(0, m.index);
+    const after = stripped
+      .slice(m.index + m[0].length)
+      .replace(TICKER_SUFFIX_RE, '');
+    if (own.test(before) && own.test(after)) out.push(m[0]);
+  }
+  return out;
+}
+
+/** 邊緣雙語標示（ℹ️ 只在 --verbose 列）：有漢字、可讀、但不是碎片 */
+function isEdgeBilingual(value, lang) {
+  return (
+    CJK_RE.test(value) &&
+    ownScriptRe(lang).test(value) &&
+    cjkFragments(value, lang).length === 0
+  );
 }
 
 function leakedSimplified(str) {
@@ -210,7 +301,10 @@ function scanFile(file) {
   const rel = path.relative(ROOT, file);
   const lines = fs.readFileSync(file, 'utf8').split('\n');
   const findings = [];
+  const infos = [];
   let lang = null;
+
+  // 逐行：語言區塊邊界 + 字形層（SIMPLIFIED_LEAK 看的是字，不管條目怎麼折行）
   lines.forEach((line, i) => {
     const h = LANG_HEADER.exec(line);
     if (h) {
@@ -233,37 +327,42 @@ function scanFile(file) {
         });
       }
     }
+  });
 
-    if (!CJK_LANGS.has(lang)) {
-      const m =
-        line.match(/:\s*'([^']{8,})'/) || line.match(/:\s*"([^"]{8,})"/);
-      if (m && looksUntranslated(m[1])) {
-        findings.push({
-          kind: 'UNTRANSLATED_CJK',
-          file: rel,
-          lang,
-          line: i + 1,
-          text: line.trim().slice(0, 100),
-        });
-      }
+  // 逐條目：語意層。同行與折行（key 一行、值下一行）都當一個條目看（v3）。
+  lang = null;
+  for (let i = 0; i < lines.length; i++) {
+    const h = LANG_HEADER.exec(lines[i]);
+    if (h) {
+      lang = h[1];
+      continue;
     }
+    if (!lang) continue;
+    const entry = entryAt(lines, i);
+    if (!entry) continue;
+    if (entry.span === 2) i += 1; // 值那一行已經吃掉
+    const valueLine = lines[entry.line - 1];
+    if (isQuotedEvidence(valueLine)) continue;
+    const text = valueLine.trim().slice(0, 100);
+    const base = { file: rel, lang, line: entry.line, text };
 
-    const entry = parseEntry(line);
+    // 豁免 e：這些 key 本來就該帶漢字（endonym / 逐字證據 / 刻意並列原文）
+    const exempt = CJK_OK_KEYS.some((k) => entry.key.includes(k));
+
+    // 2. 整串都是中文 = 根本沒翻（報了這條就不再往下報 5/6，同一條目一個病名）
+    if (!CJK_LANGS.has(lang) && !exempt && looksUntranslated(entry.value)) {
+      findings.push({ kind: 'UNTRANSLATED_CJK', ...base });
+      continue;
+    }
 
     // 4. zh-TW 用了中國用語（字形對、詞彙錯 — #1322）
-    if (lang === 'zh-TW' && entry) {
-      const hits = prcTerms(entry.value);
-      for (const [bad, good] of hits) {
-        findings.push({
-          kind: 'PRC_TERM',
-          file: rel,
-          lang,
-          line: i + 1,
-          chars: `${bad} → ${good}`,
-          text: line.trim().slice(0, 100),
-        });
+    if (lang === 'zh-TW') {
+      for (const [bad, good] of prcTerms(entry.value)) {
+        findings.push({ kind: 'PRC_TERM', ...base, chars: `${bad} → ${good}` });
       }
     }
+
+    if (CJK_LANGS.has(lang) || exempt || !CJK_RE.test(entry.value)) continue;
 
     // 5. 這個字串沒留給該語言的讀者任何讀得到的東西（#1320 的真正形狀）
     //
@@ -276,23 +375,32 @@ function scanFile(file) {
     //    ar 的 'الاسم' 有阿拉伯文、en 的 'TSMC 台積電' 有拉丁字母，讀者都接得住；
     //    ar 的 '國泰金控' 兩者皆無 —— 阿拉伯讀者看到的就是一串完全讀不到的字。
     //    改成這個判準後假陽性歸零（見 §校準紀錄）。
-    if (!CJK_LANGS.has(lang) && entry) {
-      const exempt = CJK_OK_KEYS.some((k) => entry.key.includes(k));
-      const hasCJK = CJK_RE.test(entry.value);
-      const readable = ownScriptRe(lang).test(entry.value);
-      if (hasCJK && !readable && !exempt) {
-        findings.push({
-          kind: 'UNREADABLE_FOR_LOCALE',
-          file: rel,
-          lang,
-          line: i + 1,
-          chars: `無 ${lang} 可讀字元`,
-          text: line.trim().slice(0, 100),
-        });
-      }
+    const readable = ownScriptRe(lang).test(entry.value);
+    if (!readable) {
+      findings.push({
+        kind: 'UNREADABLE_FOR_LOCALE',
+        ...base,
+        chars: `無 ${lang} 可讀字元`,
+      });
+      continue;
     }
-  });
-  return findings;
+
+    // 6. 讀得到，但漢字碎片夾在句子中間（翻到一半掉回中文）—— ⚠️ 警示級。
+    //    'تطوير民間، نموذج' 這種：阿拉伯讀者讀得到前後、讀不到中間那兩個字。
+    //    邊緣漢字（'Taiwan Semiconductor 台積電'）不報，見豁免 f。
+    const frags = cjkFragments(entry.value, lang);
+    if (frags.length) {
+      findings.push({
+        kind: 'CJK_FRAGMENT',
+        severity: 'warn',
+        ...base,
+        chars: [...new Set(frags)].join('、'),
+      });
+    } else if (isEdgeBilingual(entry.value, lang)) {
+      infos.push({ kind: 'EDGE_BILINGUAL', ...base });
+    }
+  }
+  return { findings, infos };
 }
 
 function checkTableDrift() {
@@ -323,37 +431,68 @@ function checkTableDrift() {
 }
 
 const asJson = process.argv.includes('--json');
+const strict = process.argv.includes('--strict');
+const verbose = process.argv.includes('--verbose');
 const files = fs
   .readdirSync(I18N_DIR)
   .filter((f) => f.endsWith('.ts') && f !== 'utils.ts')
   .map((f) => path.join(I18N_DIR, f));
 
-let findings = files.flatMap(scanFile).concat(checkTableDrift());
+const scanned = files.map(scanFile);
+const findings = scanned.flatMap((s) => s.findings).concat(checkTableDrift());
+const infos = scanned.flatMap((s) => s.infos);
+const hard = findings.filter((f) => f.severity !== 'warn');
+const warns = findings.filter((f) => f.severity === 'warn');
+
+function printList(list) {
+  for (const f of list.slice(0, 40)) {
+    if (f.kind === 'TABLE_DRIFT') console.log(`  ${f.file} — ${f.detail}`);
+    else
+      console.log(
+        `  ${f.file} [${f.lang}] L${f.line}` +
+          (f.chars ? ` 「${f.chars}」` : '') +
+          `\n     ${f.text}`,
+      );
+  }
+  if (list.length > 40) console.log(`  … 另 ${list.length - 40} 筆`);
+}
 
 if (asJson) {
-  console.log(JSON.stringify({ findings }, null, 2));
+  console.log(JSON.stringify({ findings, infos: verbose ? infos : undefined }, null, 2));
 } else {
   console.log('# UI 字串語言閘門\n');
-  if (!findings.length) {
-    console.log('✅ 無簡體外洩、無整串未譯、字串表與語言註冊表同步');
+  if (!hard.length) {
+    console.log('✅ 無簡體外洩、無整串未譯、無該語言讀不到的漢字、字串表與語言註冊表同步');
   } else {
     const byKind = {};
-    for (const f of findings) (byKind[f.kind] ||= []).push(f);
+    for (const f of hard) (byKind[f.kind] ||= []).push(f);
     for (const [kind, list] of Object.entries(byKind)) {
       console.log(`\n## ${kind}（${list.length}）\n`);
-      for (const f of list.slice(0, 40)) {
-        if (f.kind === 'TABLE_DRIFT') console.log(`  ${f.file} — ${f.detail}`);
-        else
-          console.log(
-            `  ${f.file} [${f.lang}] L${f.line}` +
-              (f.chars ? ` 「${f.chars}」` : '') +
-              `\n     ${f.text}`,
-          );
-      }
-      if (list.length > 40) console.log(`  … 另 ${list.length - 40} 筆`);
+      printList(list);
     }
-    console.log(`\n總計 ${findings.length} 筆`);
+    console.log(`\n總計 ${hard.length} 筆真陽性`);
+  }
+  if (warns.length) {
+    console.log(
+      `\n## ⚠️ CJK_FRAGMENT（${warns.length}，警示級${strict ? '，--strict 下算 fail' : '，不擋 push'}）\n`,
+    );
+    printList(warns);
+    console.log(
+      '\n  非 CJK 語言的句子中間夾著漢字碎片：讀者讀得到前後、讀不到中間那幾個字。' +
+        '\n  幾乎都是翻到一半掉回中文，修法是把那幾個字翻成該語言。',
+    );
+  }
+  if (infos.length) {
+    if (verbose) {
+      console.log(`\n## ℹ️ EDGE_BILINGUAL（${infos.length}，雙語標示，僅列出）\n`);
+      printList(infos);
+    } else {
+      console.log(
+        `\nℹ️ 另有 ${infos.length} 筆非 CJK 語言區塊帶邊緣漢字的雙語標示` +
+          '（如 en 的「Taiwan Semiconductor 台積電」）——刻意設計，不報；--verbose 列出',
+      );
+    }
   }
 }
 
-process.exit(findings.length ? 1 : 0);
+process.exit(hard.length || (strict && warns.length) ? 1 : 0);

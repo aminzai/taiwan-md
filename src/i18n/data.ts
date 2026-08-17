@@ -153,7 +153,7 @@ export const dataUI = {
       'Structured datasets and statistical platforms released by government agencies',
     'data.category.1.item.1.name': 'Government Open Data Platform',
     'data.category.1.item.1.desc':
-      '2020 年，工程師用這裡的資料在 72 小時內做出口罩地圖，解決全國藥局排隊問題',
+      'In 2020, engineers used this data to build the mask-availability map in 72 hours, ending nationwide pharmacy queues',
     'data.category.1.item.2.name': 'DGBAS Statistical Database',
     'data.category.1.item.2.desc':
       'Population, economy, price indices and core national statistics',
@@ -192,16 +192,16 @@ export const dataUI = {
       'Open source communities, fact-checking, and digital democracy tools',
     'data.category.3.item.1.name': 'g0v (gov-zero)',
     'data.category.3.item.1.desc':
-      '2012 年創立，催生了口罩地圖、Cofacts、vTaiwan 等改變台灣的公民科技專案',
+      'Founded in 2012; birthplace of the mask map, Cofacts, vTaiwan and other civic-tech projects that changed Taiwan',
     'data.category.3.item.2.name': 'g0v Hackathon Events',
     'data.category.3.item.2.desc':
       'Bimonthly hackathons and open data community events',
     'data.category.3.item.3.name': 'Cofacts',
     'data.category.3.item.3.desc':
-      'LINE 群組轉傳的假消息，任何人都能提交查核，已累積數萬筆查核紀錄',
+      'Anyone can submit hoaxes forwarded in LINE groups for fact-checking; tens of thousands of checks logged so far',
     'data.category.3.item.4.name': 'vTaiwan',
     'data.category.3.item.4.desc':
-      '用 Polis 演算法找共識，成功影響 Uber 管理條例、遠距教學法規等政策',
+      'Uses the Polis algorithm to find consensus; shaped policies from Uber regulation to distance-learning rules',
     'data.category.3.item.5.name': 'JOIN Platform',
     'data.category.3.item.5.desc':
       'Government proposals, petitions, and policy discussions',
@@ -212,10 +212,10 @@ export const dataUI = {
       'Investigative reporting, fact-checking organizations, and data-driven media',
     'data.category.4.item.1.name': 'The Reporter',
     'data.category.4.item.1.desc':
-      '2015 年創立，台灣第一個非營利深度調查媒體，多次揭露重大公共議題',
+      "Founded in 2015, Taiwan's first non-profit investigative newsroom, behind repeated exposés on major public issues",
     'data.category.4.item.2.name': 'Taiwan FactCheck Center',
     'data.category.4.item.2.desc':
-      'IFCN 國際事實查核聯盟認證，Facebook 第三方查核夥伴',
+      'IFCN-certified; a Facebook third-party fact-checking partner',
     'data.category.4.item.3.name': 'READr',
     'data.category.4.item.3.desc':
       'Data journalism and open data visualization',
@@ -3514,7 +3514,7 @@ export const dataUI = {
     'data.companies.story.p1':
       'في عامين اثنين فقط، أعاد بناء البنية التحتية للذكاء الاصطناعي كتابة ترتيب الشركات في تايوان. تستحوذ TSMC وحدها على 43.8% من السوق كاملةً (صعوداً من 39%)، وتشكّل أكبر 10 أسهم وزناً نحو 61% منها.',
     'data.companies.story.p2':
-      'بعد TSMC، كل الصاعدين ينتمون إلى سلسلة توريد الذكاء الاصطناعي: قفزت دلتا للإلكترونيات إلى المركز الثاني خلال عام واحد بفضل وحدات الطاقة للذكاء الاصطناعي (تضاعفت قيمتها السوقية نحو خمس مرات)، وانفجرت ميدياتك، ودخلت أسماء مثل تايوان يونيون تكنولوجي وAVC وكرومازون وأكسنت وياجيو — من لوحات PCB والركائز إلى التبريد والاختبار والشبكات — ضمن أكبر 50 شركة، فأزاحت نحو 20 وجهاً قديماً.',
+      'بعد TSMC، كل الصاعدين ينتمون إلى سلسلة توريد الذكاء الاصطناعي: قفزت دلتا (Delta) إلى المركز الثاني خلال عام واحد بفضل وحدات الطاقة للذكاء الاصطناعي (تضاعفت قيمتها السوقية نحو خمس مرات)، وانفجرت ميدياتك (MediaTek)، ودخلت أسماء مثل Elite Material وAVC وChroma وAccton وYageo — من لوحات PCB والركائز إلى التبريد والاختبار والشبكات — ضمن أكبر 50 شركة، فأزاحت نحو 20 وجهاً قديماً.',
     'data.companies.table.heading': '📋 الترتيب الكامل',
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'الشركة',
@@ -3526,12 +3526,12 @@ export const dataUI = {
     'data.companies.insights.heading': '🔍 رؤى أساسية',
     'data.companies.insights.card1.number': '43.8%',
     'data.companies.insights.card1.label':
-      'حصة تايكرو من القيمة السوقية الإجمالية',
+      'حصة TSMC من إجمالي القيمة السوقية لبورصة تايوان',
     'data.companies.insights.card1.detail':
       'ارتفعت من 39%، شركة واحدة تعادل أربعة أخماس مجموع كل ما تبقى',
     'data.companies.insights.card2.number': '61%',
     'data.companies.insights.card2.label':
-      'الأسهم ذات الأوزان العشرة الكبرى تمثل من القيمة السوقية',
+      'حصة أكبر 10 أسهم وزناً من إجمالي القيمة السوقية',
     'data.companies.insights.card2.detail':
       'تركز عالٍ في عدد قليل من الأسهم الكبيرة',
     'data.companies.insights.card3.number': 'حوالي 20',
@@ -3541,16 +3541,16 @@ export const dataUI = {
       'PCB/اللوحات الداعمة، التبريد، الاختبار، الاتصالات، لم تكن موجودة على القائمة قبل عامين',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
-      'عدد شركات التمويل والتحكم في أكبر 50',
+      'عدد الشركات المالية القابضة ضمن أكبر 50',
     'data.companies.insights.card4.detail':
       'بعد الدمج، أصبحت الحجر الأساس الأكثر استقرارًا في المؤشر',
     'data.companies.fellOff.title': '📉 من سقط من القائمة',
     'data.companies.fellOff.intro':
-      'إعادة التسعير الخاصة بالذكاء الاصطناعي لها أيضًا خاسرون. أسماء هذه الأمة—الصلب، الأسمنت، النسيج، الدراجات الهوائية، الأبطال السابقون في الهواتف الذكية—انزاحت من القائمة العشرين الأولى عندما تدفقت الأموال نحو سلسلة التوريد الخاصة بالذكاء الاصطناعي.',
+      'لإعادة التسعير في عصر الذكاء الاصطناعي خاسرون أيضاً. هذه الأسماء المألوفة لدى كل تايواني — الصلب والأسمنت والنسيج والدراجات ونجم الهواتف الذكية السابق — انزلقت خارج قائمة أكبر 50 شركة عندما تدفقت الأموال نحو سلسلة توريد الذكاء الاصطناعي.',
     'data.companies.fellOff.marketCapNow': 'القيمة السوقية الحالية',
     'data.companies.method.heading': '📝 شرح المنهجية',
     'data.companies.method.body':
-      'تم استنتاج القيمة السوقية من خلال وزن مؤشر كل سهم في 2026/06 على TWSE، مضروبًا في القيمة السوقية الإجمالية للسوق المرساة بواسطة تايكرو (حوالي 59 تريليون دولار تايواني / 43.8%). الإيرادات هي إجمالي الإيرادات المدمجة لعام 2025 (تطبق شركات التمويل والتحكم على إيرادات التشغيل المدمجة، بما في ذلك التأمين). عدد الموظفين هو تقريب، مع محاولة الاعتماد على معايير المجموعة/المدمجة، لكن نطاق الاعتراف يختلف بين الشركات، لذا يُنظر إلى محور عدد الموظفين على أنه ترتيب حجمي، وليس كمقارنة دقيقة.',
+      'تم استنتاج القيمة السوقية من خلال وزن مؤشر كل سهم في 2026/06 على TWSE، مضروبًا في القيمة السوقية الإجمالية للسوق المرساة بواسطة TSMC (حوالي 59 تريليون دولار تايواني / 43.8%). الإيرادات هي إجمالي الإيرادات المدمجة لعام 2025 (تُحتسب للشركات المالية القابضة إيرادات التشغيل المدمجة، بما في ذلك التأمين). عدد الموظفين هو تقريب، مع محاولة الاعتماد على معايير المجموعة/المدمجة، لكن نطاق الاعتراف يختلف بين الشركات، لذا يُنظر إلى محور عدد الموظفين على أنه ترتيب حجمي، وليس كمقارنة دقيقة.',
     'data.companies.related': '📖 قراءة إضافية',
 
     // Category 1: Government Open Data
@@ -3579,7 +3579,7 @@ export const dataUI = {
       'أدوات المراقبة الفورية والبيانات الجغرافية والتصوير البيئي',
     'data.category.2.item.1.name': 'خريطة ديناميكية لكابلات تايوان البحرية',
     'data.category.2.item.1.desc':
-      'مراقبة الكابلات البحرية في الوقت الفعلي من تطوير民間، نموذج للتكنولوجيا المدنية',
+      'مراقبة فورية للكابلات البحرية طوّرها المجتمع المدني، نموذج للتكنولوجيا المدنية',
     'data.category.2.item.2.name': 'سحابة خدمات الخرائط والمسح الوطني',
     'data.category.2.item.2.desc':
       'بيانات خرائط تايوان، الصور الجوية، الملكية العقارية',
@@ -3663,7 +3663,7 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'كيف يمكن لجزيرة أن تدعم سلسلة التوريد العالمية؟',
     'data.enterprise.story.p2':
-      'من قيمة تايكرو السوقية البالغة 267 مليار دولار إلى 870 ألف موظف في فوكسيكونغ، تشكل أكبر 50 شركة في تايوان العمود الفقري الاقتصادي لهذه الجزيرة. تؤكد 12 شركة من أشباه الموصلات اسم "درع السيليكون"، وتدعم 12 شركة من التمويل والتحكم الاستقرار المالي، وتربط عملاق التصنيع الحياة الرقمية العالمية. استكشف بخريطة الفقاعات كيف تخلق تايوان 4% من الناتج المحلي الإجمالي العالمي بنسبة 2% من سكان العالم.',
+      'من القيمة السوقية لشركة TSMC البالغة 267 مليار دولار إلى 870 ألف موظف في فوكسكون (Foxconn)، تشكل أكبر 50 شركة في تايوان العمود الفقري الاقتصادي لهذه الجزيرة. تؤكد 12 شركة من أشباه الموصلات اسم «درع السيليكون»، وتدعم 12 شركة مالية قابضة الاستقرار المالي، وتربط عمالقة التصنيع التعاقدي الحياة الرقمية العالمية. استكشف بخريطة الفقاعات كيف تخلق تايوان 4% من الناتج المحلي الإجمالي العالمي بنسبة 2% من سكان العالم.',
     'data.enterprise.controls.sizeLabel': 'حجم الفقاعة:',
     'data.enterprise.controls.marketCap': 'القيمة السوقية',
     'data.enterprise.controls.revenue': 'الإيرادات',
@@ -3672,7 +3672,7 @@ export const dataUI = {
     'data.enterprise.insights.heading': 'رؤى رئيسية',
     'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label':
-      'تمثل شركة تايوان سيكوندكتورز (TSMC) من إجمالي القيمة السوقية لسوق تايوان للأسهم',
+      'حصة TSMC من إجمالي القيمة السوقية لبورصة تايوان',
     'data.enterprise.insights.card1.detail':
       'شركة واحدة ≈ ثلثا (2/3) الشركات المدرجة الأخرى مجتمعة',
     'data.enterprise.insights.card2.number': '72%',
@@ -3714,7 +3714,7 @@ export const dataUI = {
     'data.taiwanVsWorld.semiconductor.label':
       'الحصة العالمية من الرقائق المتقدمة',
     'data.taiwanVsWorld.semiconductor.context':
-      'تحتكر شركة تايوان سيكوندكتورز (TSMC) عمليات التصنيع أقل من 7 نانومتر، قلب الأجهزة الرقمية العالمية',
+      'تحتكر TSMC عمليات التصنيع بدقة أقل من 7 نانومتر، قلب الأجهزة الرقمية العالمية',
 
     'data.taiwanVsWorld.democracy.number': 'المرتبة 12',
     'data.taiwanVsWorld.democracy.label': 'ترتيب مؤشر الديمقراطية',
