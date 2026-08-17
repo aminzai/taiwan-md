@@ -325,3 +325,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-17 | 061443-twmd-data-refresh-am | 14 步全綠零 stale 連續第七天；文章 921→922、本週新增 29；新抓到一個格式性 404 熱點：CSS gradient 值被序列化進 URL，單日 134 次 | 這條 404 是程式碼把不該當 URL 的值序列化進去，跟讀者路過的舊坑性質不同 | [→](memory/2026-08-17-061443-twmd-data-refresh-am.md) |
 | 2026-08-17 | 064155-twmd-spore-harvest-am | v1.15.0 孢子 D+6：#170 連續第五輪 0 外部回覆；#171 五項指標本輪跟 D+5 逐位對齊、完全零變動；X 登入牆連續第六天 | 全指標同日持平比單一指標微幅波動更徹底，判斷長尾曲線進入平台期 | [→](memory/2026-08-17-064155-twmd-spore-harvest-am.md) |
 | 2026-08-17 | 071012-twmd-feedback-triage | 選單用詞建議「數據→資料」開成 #1440，第三人指控信第四次 `--exclude` 攔下；對賬 76/76 與 75/76（#1252 上游刪留言 git 留著） | dry-run 標題認不出信的性質，每次都要重讀原文，不能靠昨天的 id 認人 | [→](memory/2026-08-17-071012-twmd-feedback-triage.md) |
+| 2026-08-17 | 091549-twmd-maintainer-am | 71 個 open PR 有 59 個是 draft，真實待審 12；擋住投稿的非正典 subcategory 部分是自家 auto-heal 填的，修三缺陷＋新增 subcategory-valid | grep 數違規漏掉沒行號那條，把不合格 PR 算進可 merge 那疊 | [→](memory/2026-08-17-091549-twmd-maintainer-am.md) |
