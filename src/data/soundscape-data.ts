@@ -351,6 +351,50 @@ export const categories: SoundCategory[] = [
         date: '2026-04',
         icon: '🛵',
       },
+      {
+        file: 'taichung-dali-bin-lorry-melody-fur-elise.mp3',
+        location: {
+          'zh-TW': '台中大里',
+          en: 'Taichung Dali',
+          ja: '台中・大里',
+          ko: '타이중 다리',
+          fr: 'Taichung, Dali',
+          es: 'Taichung, Dali',
+        },
+        description: {
+          'zh-TW': '垃圾車音樂（給愛麗絲）',
+          en: 'Garbage truck melody (Für Elise)',
+          ja: 'ゴミ収集車の音楽（エリーゼのために）',
+          ko: '쓰레기차 음악 (엘리제를 위하여)',
+          fr: 'Mélodie du camion-poubelle (Für Elise)',
+          es: 'Melodía del camión de la basura (Für Elise)',
+        },
+        contributor: 'iigmir',
+        date: '2026-07',
+        icon: '🚛',
+      },
+      {
+        file: 'taichung-taiping-politician-greeting.mp3',
+        location: {
+          'zh-TW': '台中太平',
+          en: 'Taichung Taiping',
+          ja: '台中・太平',
+          ko: '타이중 타이핑',
+          fr: 'Taichung, Taiping',
+          es: 'Taichung, Taiping',
+        },
+        description: {
+          'zh-TW': '一位準備 2026 年選舉的當地政治人物（許書豪）在機車往來的大街上打招呼',
+          en: 'A local politician (Hsu-Shu-Hao) running in the 2026 election greets people on a street with a huge flow of motorbikes.',
+          ja: '',
+          ko: '',
+          fr: '',
+          es: '',
+        },
+        contributor: 'iigmir',
+        date: '2026-08',
+        icon: '📢',
+      }
     ],
     wishlist: [
       {
