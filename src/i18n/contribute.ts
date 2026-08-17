@@ -566,6 +566,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 Copy',
     'contribute.copy.copied': '✅ Copied',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Real-Time Dashboard',
+    'contribute.form.anonymousdefault': 'Anonymous Contributor',
+    'contribute.guides.writing.fulllink': '→ Full EDITORIAL Guide',
+    'contribute.guides.ai.fulllink': '→ Full AI Prompt',
+    'contribute.guides.translation.boardlink': '→ Translation Board',
+    'contribute.guides.images.warningtext':
+      '⛔ No Unsplash, Google Images, or social media screenshots',
+    'contribute.support.title': '💚 Support with a Donation',
+    'contribute.support.desc':
+      'If our writing helps you understand Taiwan a little better, consider backing the coral reef. Donations go to AI compute, translation, and community events — plus domain fees and the small miscellaneous IT costs that keep this alive (the servers mostly live on GitHub, so that line item stays low). Every amount helps this digital sovereignty project breathe another day.',
+    'contribute.support.socialproof.html':
+      '<strong>NT${amount}</strong> received from <strong>{count}</strong> supporter{plural} · <a href="/en/about#sponsors">see who →</a>',
+    'contribute.support.monthly.title': 'Monthly Subscription',
+    'contribute.support.monthly.desc':
+      'A recurring commitment. Turns into a growing tree (🌱→🌿→🌳) over time on the About page.',
+    'contribute.support.monthly.cta': 'Support Monthly →',
+    'contribute.support.onetime.title': 'One-time',
+    'contribute.support.onetime.desc':
+      'A single gesture of support. Leave a message — we read every one.',
+    'contribute.support.onetime.cta': 'Support Once →',
+    'contribute.cli.title': '🖥️ CLI — Explore from Your Terminal',
+    'contribute.cli.desc':
+      'Search, read, audit, and explore 900+ Taiwan articles without leaving your terminal. Built for AI agents, contributors, and maintainers. Now with Claude Desktop / Cursor MCP integration.',
+    'contribute.cli.search.title': 'Search & Read',
+    'contribute.cli.search.desc':
+      'Fuzzy search in Chinese & English. Interactive TUI. Read articles in 4 languages.',
+    'contribute.cli.discover.title': 'Discover & Play',
+    'contribute.cli.discover.desc':
+      'Daily picks, 5-question quiz, random discovery. Learn Taiwan every day.',
+    'contribute.cli.ainative.title': 'AI-Native',
+    'contribute.cli.ainative.desc':
+      'RAG context for LLMs, verified citations (anti-hallucination), and a Model Context Protocol server for Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Contribute & Audit',
+    'contribute.cli.audit.desc':
+      'Draft new articles, run the Stage 3.5 Hallucination Audit on any slug (5-pattern detector enforcing MANIFESTO §10), browse the article inbox.',
+    'contribute.cli.organism.title': 'Organism Introspection',
+    'contribute.cli.organism.desc':
+      'Read Semiont vital signs from your terminal: 8-organ health scores, GA / Search Console / Cloudflare sense data, and Portaly supporter totals (PII-scrubbed).',
+    'contribute.cli.discussion': 'Discussion',
   },
   ja: {
     // Meta
@@ -1131,6 +1171,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 コピー',
     'contribute.copy.copied': '✅ コピー済み',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'リアルタイムダッシュボード',
+    'contribute.form.anonymousdefault': '匿名の貢献者',
+    'contribute.guides.writing.fulllink': '→ 完全版 EDITORIAL ガイド',
+    'contribute.guides.ai.fulllink': '→ 完全版 AI プロンプト',
+    'contribute.guides.translation.boardlink': '→ 翻訳ボード',
+    'contribute.guides.images.warningtext':
+      '⛔ Unsplash、Google 画像、SNS スクリーンショットの使用は禁止',
+    'contribute.support.title': '💚 寄付で支援する',
+    'contribute.support.desc':
+      '私たちの記事が台湾への理解を少しでも深める助けになれば、サンゴ礁の支援としてご寄付をご検討ください。寄付金は AI 計算リソース、翻訳、コミュニティイベントに充てられます。加えてドメイン代や、サイトを維持するための小さな IT 諸経費にも使われます（サーバーは主に GitHub 上で稼働しているため、その項目は比較的安価です）。少額でも、このデジタル主権プロジェクトが一日でも長く息づける力になります。',
+    'contribute.support.socialproof.html':
+      '<strong>NT${amount}</strong> を <strong>{count}</strong> 人の支援者から受け取っています · <a href="/about#sponsors">支援者を見る →</a>',
+    'contribute.support.monthly.title': '月額サブスクリプション',
+    'contribute.support.monthly.desc':
+      '継続的な支援。About ページでは、時間が経つにつれ成長する木（🌱→🌿→🌳）に変わる。',
+    'contribute.support.monthly.cta': '毎月支援する →',
+    'contribute.support.onetime.title': '一回限り',
+    'contribute.support.onetime.desc':
+      '一度の支援。メッセージを残してください。すべてお読みしています。',
+    'contribute.support.onetime.cta': '一度支援する →',
+    'contribute.cli.title': '🖥️ CLI — ターミナルから探索',
+    'contribute.cli.desc':
+      'ターミナルから離れずに、900 本以上の台湾記事を検索・閲覧・監査・探索できる。AI エージェント、貢献者、メンテナーのために構築。Claude Desktop / Cursor MCP 統合に対応。',
+    'contribute.cli.search.title': '検索と閲覧',
+    'contribute.cli.search.desc':
+      '中国語・英語のあいまい検索。インタラクティブな TUI。4 言語で記事を読める。',
+    'contribute.cli.discover.title': '発見と遊び',
+    'contribute.cli.discover.desc':
+      '毎日のおすすめ、5問クイズ、ランダム発見。毎日台湾を学べる。',
+    'contribute.cli.ainative.title': 'AIネイティブ',
+    'contribute.cli.ainative.desc':
+      'LLM向けRAGコンテキスト、検証済み引用（ハルシネーション防止）、Claude Desktop / Cursor用Model Context Protocolサーバー。',
+    'contribute.cli.audit.title': '貢献と監査',
+    'contribute.cli.audit.desc':
+      '新記事の草稿作成、任意のslugに対するStage 3.5ハルシネーション監査（MANIFESTO §10を強制する5パターン検出器）、記事インボックスの閲覧。',
+    'contribute.cli.organism.title': '有機体自己観察',
+    'contribute.cli.organism.desc':
+      'ターミナルからSemiontのバイタルサインを確認：8臓器の健康スコア、GA / Search Console / Cloudflareの感覚データ、Portalyサポーター総数（PII除去済み）。',
+    'contribute.cli.discussion': 'ディスカッション',
   },
   ko: {
     // Meta
@@ -1697,6 +1777,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 복사',
     'contribute.copy.copied': '✅ 복사됨',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': '실시간 대시보드',
+    'contribute.form.anonymousdefault': '익명 기여자',
+    'contribute.guides.writing.fulllink': '→ 전체 EDITORIAL 가이드',
+    'contribute.guides.ai.fulllink': '→ 전체 AI 프롬프트',
+    'contribute.guides.translation.boardlink': '→ 번역 보드',
+    'contribute.guides.images.warningtext':
+      '⛔ Unsplash, Google 이미지, 소셜 미디어 스크린샷 사용 불가',
+    'contribute.support.title': '💚 기부를 통해 후원하기',
+    'contribute.support.desc':
+      '이 글들이 대만에 대한 이해를 조금이라도 넓혀준다면, 산호초를 지키는 데 힘을 보태 주세요. 기부금은 AI 컴퓨트, 번역, 커뮤니티 이벤트에 쓰이며, 도메인 비용과 프로젝트를 유지하는 소소한 IT 비용에도 사용됩니다(서버는 대부분 GitHub에 있으므로 해당 항목은 적습니다). 어떤 금액이든 이 디지털 주권 프로젝트가 하루 더 숨 쉬는 데 도움이 됩니다.',
+    'contribute.support.socialproof.html':
+      '<strong>{count}</strong>명의 후원자로부터 <strong>NT${amount}</strong> 후원 · <a href="/about#sponsors">후원자 보기 →</a>',
+    'contribute.support.monthly.title': '월간 구독',
+    'contribute.support.monthly.desc':
+      '매달 이어지는 약속. About 페이지에서 시간이 지날수록 자라는 나무(🌱→🌿→🌳)로 변한다.',
+    'contribute.support.monthly.cta': '매달 후원 →',
+    'contribute.support.onetime.title': '일회성',
+    'contribute.support.onetime.desc':
+      '한 번의 후원. 메시지를 남겨라 — 모든 메시지를 읽는다.',
+    'contribute.support.onetime.cta': '한 번 후원 →',
+    'contribute.cli.title': '🖥️ CLI — 터미널에서 탐색',
+    'contribute.cli.desc':
+      '터미널을 벗어나지 않고 Taiwan 기사 900여 편을 검색, 읽기, 감사, 탐색한다. AI 에이전트, 기여자, 유지보수자를 위해 만들었다. 이제 Claude Desktop / Cursor MCP 통합 지원.',
+    'contribute.cli.search.title': '검색 및 읽기',
+    'contribute.cli.search.desc':
+      '중국어·영어 퍼지 검색. 인터랙티브 TUI. 4개 언어로 기사 읽기.',
+    'contribute.cli.discover.title': '발견 & 플레이',
+    'contribute.cli.discover.desc':
+      '데일리 픽, 5문항 퀴즈, 랜덤 발견. 매일 대만 배우기.',
+    'contribute.cli.ainative.title': 'AI 네이티브',
+    'contribute.cli.ainative.desc':
+      'LLM용 RAG 컨텍스트, 검증된 인용(환각 방지), Claude Desktop / Cursor용 Model Context Protocol 서버.',
+    'contribute.cli.audit.title': '기여 & 감사',
+    'contribute.cli.audit.desc':
+      '새 글 초안 작성, slug별 Stage 3.5 환각 감사 실행(MANIFESTO §10 강제 5패턴 감지기), ARTICLE-INBOX 열람.',
+    'contribute.cli.organism.title': '오가니즘 성찰',
+    'contribute.cli.organism.desc':
+      '터미널에서 Semiont 활력 징후 확인: 8기관 건강 점수, GA / Search Console / Cloudflare 감각 데이터, Portaly 후원자 합계(PII 제거).',
+    'contribute.cli.discussion': '토론',
   },
   vi: {
     // Meta
@@ -2279,6 +2399,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 Sao chép',
     'contribute.copy.copied': '✅ Đã sao chép',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Bảng điều khiển thời gian thực',
+    'contribute.form.anonymousdefault': 'Người đóng góp ẩn danh',
+    'contribute.guides.writing.fulllink': '→ Xem đầy đủ hướng dẫn EDITORIAL',
+    'contribute.guides.ai.fulllink': '→ Xem đầy đủ Prompt AI',
+    'contribute.guides.translation.boardlink': '→ Bảng nhiệm vụ dịch thuật',
+    'contribute.guides.images.warningtext':
+      '⛔ Không dùng Unsplash, Google Images hay ảnh chụp màn hình mạng xã hội',
+    'contribute.support.title': '💚 Ủng hộ bằng một khoản đóng góp',
+    'contribute.support.desc':
+      'Nếu những bài viết ở đây giúp bạn hiểu thêm một chút về Đài Loan, hãy cân nhắc tưới nước cho rạn san hô này. Khoản đóng góp được dùng để mua sức tính toán AI, chi phí dịch thuật và tổ chức hoạt động cộng đồng — cùng với phí tên miền và những chi phí IT lặt vặt khác giúp trang web này tồn tại (máy chủ chủ yếu chạy trên GitHub nên khoản này khá thấp). Mỗi khoản đóng góp giúp dự án chủ quyền số này thở thêm một ngày nữa.',
+    'contribute.support.socialproof.html':
+      'Đã nhận <strong>NT${amount}</strong> từ <strong>{count}</strong> người ủng hộ · <a href="/about#sponsors">xem là ai →</a>',
+    'contribute.support.monthly.title': 'Đăng ký hàng tháng',
+    'contribute.support.monthly.desc':
+      'Một cam kết đều đặn. Trên trang Giới thiệu, nó lớn dần thành cây (🌱→🌿→🌳) theo thời gian.',
+    'contribute.support.monthly.cta': 'Ủng hộ hàng tháng →',
+    'contribute.support.onetime.title': 'Một lần',
+    'contribute.support.onetime.desc':
+      'Một tấm lòng ủng hộ một lần. Để lại lời nhắn — chúng tôi đọc hết.',
+    'contribute.support.onetime.cta': 'Ủng hộ một lần →',
+    'contribute.cli.title': '🖥️ CLI — Khám phá ngay từ terminal',
+    'contribute.cli.desc':
+      'Tìm kiếm, đọc, kiểm tra và khám phá hơn 900 bài viết về Đài Loan mà không cần rời khỏi terminal. Được xây dựng cho AI agent, người đóng góp và người bảo trì. Nay đã tích hợp Claude Desktop / Cursor qua MCP.',
+    'contribute.cli.search.title': 'Tìm kiếm và đọc',
+    'contribute.cli.search.desc':
+      'Tìm kiếm mờ bằng tiếng Trung và tiếng Anh. TUI tương tác. Đọc bài viết bằng 4 ngôn ngữ.',
+    'contribute.cli.discover.title': 'Khám phá và chơi',
+    'contribute.cli.discover.desc':
+      'Gợi ý mỗi ngày, đố vui 5 câu hỏi, khám phá ngẫu nhiên. Mỗi ngày biết thêm một chút về Đài Loan.',
+    'contribute.cli.ainative.title': 'Sinh ra cho AI',
+    'contribute.cli.ainative.desc':
+      'Ngữ cảnh RAG cho LLM, trích dẫn đã xác minh (chống ảo giác), và một máy chủ Model Context Protocol cho Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Đóng góp và kiểm tra',
+    'contribute.cli.audit.desc':
+      'Soạn bài viết mới, chạy kiểm tra ảo giác Stage 3.5 trên bất kỳ slug nào (bộ phát hiện 5 mẫu thực thi MANIFESTO §10), duyệt hộp bài viết chờ xử lý.',
+    'contribute.cli.organism.title': 'Tự quan sát sinh thể',
+    'contribute.cli.organism.desc':
+      'Đọc các chỉ số sinh tồn của Semiont ngay từ terminal: điểm sức khỏe của 8 cơ quan, dữ liệu cảm nhận từ GA / Search Console / Cloudflare, và tổng số người ủng hộ trên Portaly (đã lược bỏ thông tin cá nhân).',
+    'contribute.cli.discussion': 'Thảo luận',
   },
   id: {
     // Meta
@@ -2863,6 +3023,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 Salin',
     'contribute.copy.copied': '✅ Tersalin',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Dasbor Real-Time',
+    'contribute.form.anonymousdefault': 'Kontributor Anonim',
+    'contribute.guides.writing.fulllink': '→ Panduan EDITORIAL Lengkap',
+    'contribute.guides.ai.fulllink': '→ Prompt AI Lengkap',
+    'contribute.guides.translation.boardlink': '→ Papan Tugas Terjemahan',
+    'contribute.guides.images.warningtext':
+      '⛔ Tidak Boleh Unsplash, Google Images, atau Tangkapan Layar Media Sosial',
+    'contribute.support.title': '💚 Dukung dengan Donasi',
+    'contribute.support.desc':
+      'Jika tulisan kami membantu Anda memahami Taiwan sedikit lebih baik, pertimbangkan untuk merawat terumbu karang ini. Donasi digunakan untuk komputasi AI, terjemahan, dan acara komunitas — ditambah biaya domain dan berbagai biaya IT kecil yang membuat situs ini tetap hidup (server sebagian besar berjalan di GitHub, jadi biaya itu tetap rendah). Setiap jumlah membantu proyek kedaulatan digital ini bertahan satu hari lagi.',
+    'contribute.support.socialproof.html':
+      'Telah menerima <strong>NT${amount}</strong> dari <strong>{count}</strong> pendukung · <a href="/about#sponsors">lihat siapa saja →</a>',
+    'contribute.support.monthly.title': 'Langganan Bulanan',
+    'contribute.support.monthly.desc':
+      'Komitmen berkelanjutan. Di halaman Tentang, ini tumbuh menjadi pohon (🌱→🌿→🌳) seiring waktu.',
+    'contribute.support.monthly.cta': 'Dukung Setiap Bulan →',
+    'contribute.support.onetime.title': 'Sekali Bayar',
+    'contribute.support.onetime.desc':
+      'Dukungan sekali saja. Tinggalkan pesan — kami membaca semuanya.',
+    'contribute.support.onetime.cta': 'Dukung Sekali →',
+    'contribute.cli.title': '🖥️ CLI — Jelajahi dari Terminal Anda',
+    'contribute.cli.desc':
+      'Cari, baca, audit, dan jelajahi 900+ artikel Taiwan tanpa meninggalkan terminal. Dibangun untuk agen AI, kontributor, dan maintainer. Kini terintegrasi dengan Claude Desktop / Cursor lewat MCP.',
+    'contribute.cli.search.title': 'Cari dan Baca',
+    'contribute.cli.search.desc':
+      'Pencarian fuzzy dalam bahasa Mandarin & Inggris. TUI interaktif. Baca artikel dalam 4 bahasa.',
+    'contribute.cli.discover.title': 'Temukan dan Bermain',
+    'contribute.cli.discover.desc':
+      'Pilihan harian, kuis 5 pertanyaan, penemuan acak. Kenali Taiwan setiap hari.',
+    'contribute.cli.ainative.title': 'AI-Native',
+    'contribute.cli.ainative.desc':
+      'Konteks RAG untuk LLM, kutipan terverifikasi (anti-halusinasi), dan server Model Context Protocol untuk Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Kontribusi dan Audit',
+    'contribute.cli.audit.desc':
+      'Susun artikel baru, jalankan Audit Halusinasi Stage 3.5 pada slug apa pun (detektor 5 pola yang menegakkan MANIFESTO §10), jelajahi kotak masuk artikel.',
+    'contribute.cli.organism.title': 'Introspeksi Organisme',
+    'contribute.cli.organism.desc':
+      'Baca tanda vital Semiont dari terminal Anda: skor kesehatan 8 organ, data sensor GA / Search Console / Cloudflare, dan total pendukung Portaly (data pribadi telah disamarkan).',
+    'contribute.cli.discussion': 'Diskusi',
   },
   pt: {
     // Meta
@@ -3451,6 +3651,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 Copiar',
     'contribute.copy.copied': '✅ Copiado',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Painel em tempo real',
+    'contribute.form.anonymousdefault': 'Contribuidor anônimo',
+    'contribute.guides.writing.fulllink': '→ Guia EDITORIAL completo',
+    'contribute.guides.ai.fulllink': '→ Prompt de IA completo',
+    'contribute.guides.translation.boardlink': '→ Quadro de traduções',
+    'contribute.guides.images.warningtext':
+      '⛔ Nada de Unsplash, Google Images ou capturas de tela de redes sociais',
+    'contribute.support.title': '💚 Apoie com uma doação',
+    'contribute.support.desc':
+      'Se nossos textos ajudam você a entender um pouco mais sobre Taiwan, considere regar este recife de coral. As doações vão para computação de IA, tradução e eventos da comunidade — além das taxas de domínio e dos pequenos custos de TI que mantêm o site no ar (os servidores ficam majoritariamente no GitHub, então esse item de custo permanece baixo). Cada valor ajuda este projeto de soberania digital a respirar mais um dia.',
+    'contribute.support.socialproof.html':
+      '<strong>NT${amount}</strong> recebidos de <strong>{count}</strong> apoiadores · <a href="/about#sponsors">veja quem →</a>',
+    'contribute.support.monthly.title': 'Assinatura mensal',
+    'contribute.support.monthly.desc':
+      'Um compromisso recorrente. Na página Sobre, ele vira uma árvore (🌱→🌿→🌳) que cresce com o tempo.',
+    'contribute.support.monthly.cta': 'Apoiar mensalmente →',
+    'contribute.support.onetime.title': 'Doação única',
+    'contribute.support.onetime.desc':
+      'Um gesto pontual de apoio. Deixe uma mensagem — lemos todas.',
+    'contribute.support.onetime.cta': 'Apoiar uma vez →',
+    'contribute.cli.title': '🖥️ CLI — Explore a partir do seu terminal',
+    'contribute.cli.desc':
+      'Busque, leia, audite e explore mais de 900 artigos sobre Taiwan sem sair do terminal. Feito para agentes de IA, colaboradores e mantenedores. Agora com integração MCP para Claude Desktop / Cursor.',
+    'contribute.cli.search.title': 'Buscar e ler',
+    'contribute.cli.search.desc':
+      'Busca difusa em chinês e inglês. TUI interativa. Leitura de artigos em 4 idiomas.',
+    'contribute.cli.discover.title': 'Descobrir e brincar',
+    'contribute.cli.discover.desc':
+      'Seleções diárias, quiz de 5 perguntas, descoberta aleatória. Conheça um pouco de Taiwan todos os dias.',
+    'contribute.cli.ainative.title': 'Nativo de IA',
+    'contribute.cli.ainative.desc':
+      'Contexto RAG para LLMs, citações verificadas (contra alucinação) e um servidor Model Context Protocol para Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Contribuir e auditar',
+    'contribute.cli.audit.desc':
+      'Redija novos artigos, rode a Auditoria de Alucinação Stage 3.5 em qualquer slug (detector de 5 padrões que aplica o MANIFESTO §10), navegue pela caixa de entrada de artigos.',
+    'contribute.cli.organism.title': 'Introspecção do organismo',
+    'contribute.cli.organism.desc':
+      'Leia os sinais vitais do Semiont pelo terminal: pontuações de saúde de 8 órgãos, dados de percepção do GA / Search Console / Cloudflare, e totais de apoiadores do Portaly (dados pessoais removidos).',
+    'contribute.cli.discussion': 'Discussão',
   },
   hi: {
     // Meta
@@ -4033,6 +4273,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 कॉपी करें',
     'contribute.copy.copied': '✅ कॉपी हो गया',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'रीयल-टाइम डैशबोर्ड',
+    'contribute.form.anonymousdefault': 'गुमनाम योगदानकर्ता',
+    'contribute.guides.writing.fulllink': '→ पूरा EDITORIAL गाइड देखें',
+    'contribute.guides.ai.fulllink': '→ पूरा AI प्रॉम्प्ट देखें',
+    'contribute.guides.translation.boardlink': '→ अनुवाद बोर्ड देखें',
+    'contribute.guides.images.warningtext':
+      '⛔ Unsplash, Google Images या सोशल मीडिया स्क्रीनशॉट मान्य नहीं',
+    'contribute.support.title': '💚 दान देकर सहयोग करें',
+    'contribute.support.desc':
+      'अगर हमारे लेखों ने ताइवान को थोड़ा और समझने में आपकी मदद की है, तो इस प्रवाल भित्ति को सींचने पर विचार करें। दान की राशि AI कंप्यूटिंग, अनुवाद और सामुदायिक कार्यक्रमों में लगती है — साथ ही डोमेन शुल्क और उन छोटी-छोटी IT लागतों में भी, जो इसे चालू रखती हैं (सर्वर ज़्यादातर GitHub पर ही चलते हैं, इसलिए यह मद कम रहता है)। हर राशि इस डिजिटल संप्रभुता परियोजना को एक दिन और साँस लेने में मदद करती है।',
+    'contribute.support.socialproof.html':
+      'अब तक <strong>NT${amount}</strong> मिल चुका है <strong>{count}</strong> समर्थकों से · <a href="/about#sponsors">देखें कौन हैं →</a>',
+    'contribute.support.monthly.title': 'मासिक सदस्यता',
+    'contribute.support.monthly.desc':
+      'एक सतत प्रतिबद्धता। About पेज पर यह समय के साथ बढ़ते पेड़ (🌱→🌿→🌳) में बदल जाता है।',
+    'contribute.support.monthly.cta': 'हर महीने सहयोग करें →',
+    'contribute.support.onetime.title': 'एकबारगी',
+    'contribute.support.onetime.desc':
+      'सहयोग का एक भाव, बस एक बार। संदेश छोड़ें — हम हर एक को पढ़ते हैं।',
+    'contribute.support.onetime.cta': 'एक बार सहयोग करें →',
+    'contribute.cli.title': '🖥️ CLI — अपने टर्मिनल से एक्सप्लोर करें',
+    'contribute.cli.desc':
+      'टर्मिनल छोड़े बिना 900+ ताइवान लेख खोजें, पढ़ें, ऑडिट करें और एक्सप्लोर करें। AI एजेंट, योगदानकर्ताओं और मेंटेनर के लिए बनाया गया। अब Claude Desktop / Cursor MCP इंटीग्रेशन के साथ।',
+    'contribute.cli.search.title': 'खोजें और पढ़ें',
+    'contribute.cli.search.desc':
+      'चीनी और अंग्रेज़ी में फ़ज़ी सर्च। इंटरैक्टिव TUI। 4 भाषाओं में लेख पढ़ें।',
+    'contribute.cli.discover.title': 'जानें और खेलें',
+    'contribute.cli.discover.desc':
+      'रोज़ की पसंद, 5 सवालों की क्विज़, रैंडम खोज। हर दिन ताइवान के बारे में कुछ नया जानें।',
+    'contribute.cli.ainative.title': 'AI-नेटिव',
+    'contribute.cli.ainative.desc':
+      'LLM के लिए RAG कॉन्टेक्स्ट, सत्यापित उद्धरण (हैलुसिनेशन-रोधी), और Claude Desktop / Cursor के लिए एक Model Context Protocol सर्वर।',
+    'contribute.cli.audit.title': 'योगदान और ऑडिट',
+    'contribute.cli.audit.desc':
+      'नए लेख का मसौदा बनाएं, किसी भी slug पर Stage 3.5 हैलुसिनेशन ऑडिट चलाएं (MANIFESTO §10 लागू करने वाला 5-पैटर्न डिटेक्टर), लेख इनबॉक्स ब्राउज़ करें।',
+    'contribute.cli.organism.title': 'जीव आत्मनिरीक्षण',
+    'contribute.cli.organism.desc':
+      'अपने टर्मिनल से Semiont के जीवन-संकेत पढ़ें: 8 अंगों के स्वास्थ्य स्कोर, GA / Search Console / Cloudflare संवेदी डेटा, और Portaly समर्थक कुल योग (PII हटाया गया)।',
+    'contribute.cli.discussion': 'चर्चा',
   },
   ar: {
     // Meta
@@ -4601,6 +4881,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 نسخ',
     'contribute.copy.copied': '✅ تم النسخ',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'لوحة القيادة في الوقت الفعلي',
+    'contribute.form.anonymousdefault': 'مساهم مجهول',
+    'contribute.guides.writing.fulllink': '→ دليل EDITORIAL الكامل',
+    'contribute.guides.ai.fulllink': '→ أمر الذكاء الاصطناعي الكامل',
+    'contribute.guides.translation.boardlink': '→ لوحة الترجمة',
+    'contribute.guides.images.warningtext':
+      '⛔ ممنوع استخدام Unsplash أو صور Google أو لقطات شاشة من وسائل التواصل الاجتماعي',
+    'contribute.support.title': '💚 ادعم بتبرع',
+    'contribute.support.desc':
+      'إذا كانت كتاباتنا تساعدك على فهم تايوان بشكل أفضل قليلاً، ففكر في دعم هذا الشعاب المرجانية. تُستخدم التبرعات في حوسبة الذكاء الاصطناعي، والترجمة، وفعاليات المجتمع — بالإضافة إلى رسوم النطاق والتكاليف التقنية الصغيرة المتفرقة التي تُبقي الموقع حياً (تعمل الخوادم غالبًا على GitHub، لذا يبقى هذا البند منخفضًا). كل مبلغ يساعد هذا المشروع الرقمي للسيادة على التنفس يومًا آخر.',
+    'contribute.support.socialproof.html':
+      'تم استلام <strong>NT${amount}</strong> من <strong>{count}</strong> داعم · <a href="/about#sponsors">شاهد من هم →</a>',
+    'contribute.support.monthly.title': 'اشتراك شهري',
+    'contribute.support.monthly.desc':
+      'التزام متكرر. في صفحة "حول"، يتحول بمرور الوقت إلى شجرة تنمو (🌱→🌿→🌳).',
+    'contribute.support.monthly.cta': 'ادعم شهريًا →',
+    'contribute.support.onetime.title': 'تبرع لمرة واحدة',
+    'contribute.support.onetime.desc':
+      'لفتة دعم لمرة واحدة. اترك رسالة — نقرأها جميعًا.',
+    'contribute.support.onetime.cta': 'ادعم مرة واحدة →',
+    'contribute.cli.title': '🖥️ CLI — استكشف من سطر الأوامر',
+    'contribute.cli.desc':
+      'ابحث، واقرأ، وراجع، واستكشف أكثر من 900 مقال عن تايوان دون مغادرة الطرفية. مصمم لوكلاء الذكاء الاصطناعي والمساهمين والمشرفين. يدعم الآن التكامل مع Claude Desktop / Cursor عبر MCP.',
+    'contribute.cli.search.title': 'بحث وقراءة',
+    'contribute.cli.search.desc':
+      'بحث ضبابي بالصينية والإنجليزية. واجهة نصية تفاعلية (TUI). قراءة المقالات بأربع لغات.',
+    'contribute.cli.discover.title': 'اكتشف والعب',
+    'contribute.cli.discover.desc':
+      'اختيارات يومية، اختبار من 5 أسئلة، اكتشاف عشوائي. تعرّف على تايوان كل يوم.',
+    'contribute.cli.ainative.title': 'مصمم للذكاء الاصطناعي',
+    'contribute.cli.ainative.desc':
+      'سياق RAG لنماذج اللغة الكبيرة، استشهادات موثقة (لمكافحة الهلوسة)، وخادم Model Context Protocol لـ Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'المساهمة والمراجعة',
+    'contribute.cli.audit.desc':
+      'اكتب مسودات مقالات جديدة، وشغّل تدقيق هلوسة Stage 3.5 على أي slug (كاشف بخمسة أنماط يطبّق MANIFESTO §10)، وتصفح صندوق المقالات الواردة.',
+    'contribute.cli.organism.title': 'استبطان الكائن',
+    'contribute.cli.organism.desc':
+      'اقرأ العلامات الحيوية لـ Semiont من الطرفية: درجات صحة 8 أعضاء، بيانات الإدراك من GA / Search Console / Cloudflare، وإجمالي داعمي Portaly (بعد إزالة البيانات الشخصية).',
+    'contribute.cli.discussion': 'نقاش',
   },
   ru: {
     // Meta
@@ -5181,6 +5501,46 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 Копировать',
     'contribute.copy.copied': '✅ Скопировано',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Панель в реальном времени',
+    'contribute.form.anonymousdefault': 'Анонимный участник',
+    'contribute.guides.writing.fulllink': '→ Полное руководство EDITORIAL',
+    'contribute.guides.ai.fulllink': '→ Полный промпт для ИИ',
+    'contribute.guides.translation.boardlink': '→ Доска переводов',
+    'contribute.guides.images.warningtext':
+      '⛔ Никаких Unsplash, Google Images и скриншотов из соцсетей',
+    'contribute.support.title': '💚 Поддержать пожертвованием',
+    'contribute.support.desc':
+      'Если наши статьи помогают вам чуть лучше понять Тайвань, подумайте о том, чтобы поддержать этот коралловый риф. Пожертвования идут на вычисления ИИ, перевод и мероприятия сообщества — а также на оплату домена и небольшие технические расходы, которые поддерживают сайт живым (серверы в основном размещены на GitHub, поэтому эта статья расходов остаётся низкой). Любая сумма помогает этому проекту цифрового суверенитета продержаться ещё один день.',
+    'contribute.support.socialproof.html':
+      'Уже получено <strong>NT${amount}</strong> от <strong>{count}</strong> участников · <a href="/about#sponsors">посмотреть, кто →</a>',
+    'contribute.support.monthly.title': 'Ежемесячная подписка',
+    'contribute.support.monthly.desc':
+      'Регулярная поддержка. На странице «О проекте» со временем превращается в растущее дерево (🌱→🌿→🌳).',
+    'contribute.support.monthly.cta': 'Поддерживать ежемесячно →',
+    'contribute.support.onetime.title': 'Разовое пожертвование',
+    'contribute.support.onetime.desc':
+      'Разовый жест поддержки. Оставьте сообщение — мы читаем каждое.',
+    'contribute.support.onetime.cta': 'Поддержать разово →',
+    'contribute.cli.title': '🖥️ CLI — Исследуйте из терминала',
+    'contribute.cli.desc':
+      'Ищите, читайте, проверяйте и изучайте более 900 статей о Тайване, не выходя из терминала. Создано для ИИ-агентов, участников и мейнтейнеров. Теперь с интеграцией Claude Desktop / Cursor через MCP.',
+    'contribute.cli.search.title': 'Поиск и чтение',
+    'contribute.cli.search.desc':
+      'Нечёткий поиск на китайском и английском. Интерактивный TUI. Чтение статей на 4 языках.',
+    'contribute.cli.discover.title': 'Открытия и игра',
+    'contribute.cli.discover.desc':
+      'Подборка дня, викторина из 5 вопросов, случайное открытие. Узнавайте о Тайване каждый день.',
+    'contribute.cli.ainative.title': 'Создано для ИИ',
+    'contribute.cli.ainative.desc':
+      'RAG-контекст для LLM, проверенные цитаты (защита от галлюцинаций) и сервер Model Context Protocol для Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Вклад и аудит',
+    'contribute.cli.audit.desc':
+      'Создавайте черновики новых статей, запускайте аудит галлюцинаций Stage 3.5 для любого slug (детектор из 5 паттернов, применяющий MANIFESTO §10), просматривайте входящие статьи.',
+    'contribute.cli.organism.title': 'Самонаблюдение организма',
+    'contribute.cli.organism.desc':
+      'Читайте показатели жизнедеятельности Semiont из терминала: оценки здоровья 8 органов, данные восприятия GA / Search Console / Cloudflare и суммарные показатели поддержки Portaly (без персональных данных).',
+    'contribute.cli.discussion': 'Обсуждение',
   },
   'zh-TW': {
     // Meta
@@ -5715,6 +6075,45 @@ export const contributeUI = {
     // Copy button
     'contribute.copy.button': '📋 複製',
     'contribute.copy.copied': '✅ 已複製',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': '即時監測面板',
+    'contribute.form.anonymousdefault': '匿名貢獻者',
+    'contribute.guides.writing.fulllink': '→ 完整寫作方法論（EDITORIAL.md）',
+    'contribute.guides.ai.fulllink': '→ 完整 AI 寫作助手 Prompt',
+    'contribute.guides.translation.boardlink': '→ 翻譯看板',
+    'contribute.guides.images.warningtext':
+      '⛔ 禁止 Unsplash、Google 圖片搜尋、社群媒體截圖',
+    'contribute.support.title': '💚 金流支持',
+    'contribute.support.desc':
+      '如果這裡的文字讓你對台灣多理解了一點，歡迎回頭灌溉這座珊瑚礁。贊助款項會用於購買 AI 算力、翻譯與社群活動，還有網域費用以及各種零星的資訊服務支出（伺服器大部分都架在 GitHub 上，這塊成本壓得很低）——每一份支持，都讓這座數位主權計畫多呼吸一天。',
+    'contribute.support.socialproof.html':
+      '目前已收到 <strong>NT${amount}</strong> 來自 <strong>{count}</strong> 位支持者 · <a href="/about#sponsors">看看他們是誰 →</a>',
+    'contribute.support.monthly.title': '每月定額',
+    'contribute.support.monthly.desc':
+      '持續的承諾。在 About 頁面會隨著累計金額從 🌱 新芽長成 🌿 小樹、🌳 大樹。',
+    'contribute.support.monthly.cta': '每月支持 →',
+    'contribute.support.onetime.title': '一次性贊助',
+    'contribute.support.onetime.desc':
+      '一次的心意。可以留言給我們，每一則我們都會讀。',
+    'contribute.support.onetime.cta': '單次支持 →',
+    'contribute.cli.title': '🖥️ CLI — 從終端機探索台灣',
+    'contribute.cli.desc':
+      '不離開終端機，搜尋、閱讀、審計、探索 900+ 篇台灣知識文章。為 AI agents、貢獻者、維護者設計。v0.6 新增 Claude Desktop / Cursor MCP 整合。',
+    'contribute.cli.search.title': '搜尋 & 閱讀',
+    'contribute.cli.search.desc': '中英文模糊搜尋、互動式 TUI、四語閱讀。',
+    'contribute.cli.discover.title': '探索 & 玩',
+    'contribute.cli.discover.desc':
+      '每日精選、5 題問答、隨機探索。每天認識台灣一點。',
+    'contribute.cli.ainative.title': 'AI 原生',
+    'contribute.cli.ainative.desc':
+      'RAG pipe 給 LLM、`cite` 出可驗證來源對抗幻覺、MCP server 一行 config 接入 Claude Desktop / Cursor。',
+    'contribute.cli.audit.title': '貢獻 & 審計',
+    'contribute.cli.audit.desc':
+      '引導式新增文章、對任何 slug 跑 Stage 3.5 幻覺審計（5 pattern detector，執行 MANIFESTO §10 幻覺鐵律）、瀏覽 ARTICLE-INBOX。',
+    'contribute.cli.organism.title': '生命體內觀',
+    'contribute.cli.organism.desc':
+      '從終端機讀 Semiont 生命徵象：8 器官健康分數、三源感知數據（GA / SC / CF）、Portaly 贊助統計（PII 自動遮罩）。',
+    'contribute.cli.discussion': '討論',
   },
   es: {
     'contribute.meta.title': 'Quiero Contribuir — Taiwan.md',
@@ -6234,6 +6633,46 @@ export const contributeUI = {
     'contribute.organism.readmore': 'Lee la historia completa en Acerca de →',
     'contribute.copy.button': '📋 Copiar',
     'contribute.copy.copied': '✅ Copiado',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Panel en tiempo real',
+    'contribute.form.anonymousdefault': 'Contribuyente anónimo',
+    'contribute.guides.writing.fulllink': '→ Guía EDITORIAL completa',
+    'contribute.guides.ai.fulllink': '→ Prompt de IA completo',
+    'contribute.guides.translation.boardlink': '→ Tablero de traducción',
+    'contribute.guides.images.warningtext':
+      '⛔ Sin Unsplash, Google Images ni capturas de redes sociales',
+    'contribute.support.title': '💚 Apoya con una donación',
+    'contribute.support.desc':
+      'Si nuestra escritura te ayuda a entender un poco mejor Taiwán, considera apoyar el arrecife de coral. Las donaciones se destinan a cómputo de IA, traducción y eventos comunitarios, además de los gastos de dominio y los pequeños costos informáticos varios que mantienen esto vivo (los servidores viven principalmente en GitHub, así que ese gasto se mantiene bajo). Cada cantidad ayuda a que este proyecto de soberanía digital respire un día más.',
+    'contribute.support.socialproof.html':
+      '<strong>NT${amount}</strong> recibidos de <strong>{count}</strong> apoyantes · <a href="/about#sponsors">ver quiénes →</a>',
+    'contribute.support.monthly.title': 'Suscripción mensual',
+    'contribute.support.monthly.desc':
+      'Un compromiso recurrente. Se convierte en un árbol que crece (🌱→🌿→🌳) con el tiempo en la página Acerca de.',
+    'contribute.support.monthly.cta': 'Apoyar mensualmente →',
+    'contribute.support.onetime.title': 'Puntual',
+    'contribute.support.onetime.desc':
+      'Un gesto de apoyo puntual. Deja un mensaje — leemos todos.',
+    'contribute.support.onetime.cta': 'Apoyar una vez →',
+    'contribute.cli.title': '🖥️ CLI — Explora desde tu terminal',
+    'contribute.cli.desc':
+      'Busca, lee, audita y explora más de 900 artículos sobre Taiwán sin salir de tu terminal. Creado para agentes de IA, colaboradores y mantenedores. Ahora con integración MCP para Claude Desktop / Cursor.',
+    'contribute.cli.search.title': 'Buscar y leer',
+    'contribute.cli.search.desc':
+      'Búsqueda difusa en chino e inglés. TUI interactiva. Lee artículos en 4 idiomas.',
+    'contribute.cli.discover.title': 'Descubrir y jugar',
+    'contribute.cli.discover.desc':
+      'Selección diaria, quiz de 5 preguntas, descubrimiento aleatorio. Aprende sobre Taiwán cada día.',
+    'contribute.cli.ainative.title': 'Nativo de IA',
+    'contribute.cli.ainative.desc':
+      'Contexto RAG para LLMs, citas verificadas (contra alucinaciones) y un servidor Model Context Protocol para Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Contribuir y auditar',
+    'contribute.cli.audit.desc':
+      'Redacta nuevos artículos, ejecuta la Auditoría de Alucinaciones Stage 3.5 en cualquier slug (detector de 5 patrones que aplica el §10 del MANIFESTO), explora la bandeja de artículos.',
+    'contribute.cli.organism.title': 'Introspección del organismo',
+    'contribute.cli.organism.desc':
+      'Lee las constantes vitales de Semiont desde tu terminal: puntuaciones de salud de 8 órganos, datos de GA / Search Console / Cloudflare, y totales de patrocinadores de Portaly (sin datos personales).',
+    'contribute.cli.discussion': 'Discusión',
   },
   fr: {
     'contribute.meta.title': 'Je veux contribuer — Taiwan.md',
@@ -6750,5 +7189,45 @@ export const contributeUI = {
     'contribute.organism.readmore': "Lire l'histoire complète sur À propos →",
     'contribute.copy.button': '📋 Copier',
     'contribute.copy.copied': '✅ Copié',
+    // Support Section (Portaly donation) + CLI Section (2026-08-17 i18n fallback fix)
+    'contribute.organism.dashboardlink': 'Tableau de bord en temps réel',
+    'contribute.form.anonymousdefault': 'Contributeur anonyme',
+    'contribute.guides.writing.fulllink': '→ Guide EDITORIAL complet',
+    'contribute.guides.ai.fulllink': '→ Prompt IA complet',
+    'contribute.guides.translation.boardlink': '→ Tableau de traduction',
+    'contribute.guides.images.warningtext':
+      "⛔ Pas d'Unsplash, de Google Images ni de captures d'écran de réseaux sociaux",
+    'contribute.support.title': '💚 Soutenir par un don',
+    'contribute.support.desc':
+      'Si nos articles vous aident à mieux comprendre Taïwan, pensez à nourrir ce récif corallien. Les dons financent le calcul IA, la traduction et les événements communautaires — ainsi que les frais de domaine et les petits coûts informatiques divers qui font tourner le site (les serveurs vivent surtout sur GitHub, ce poste reste donc léger). Chaque don aide ce projet de souveraineté numérique à respirer un jour de plus.',
+    'contribute.support.socialproof.html':
+      '<strong>{amount} NT$</strong> reçus de la part de <strong>{count}</strong> donateurs · <a href="/about#sponsors">voir qui →</a>',
+    'contribute.support.monthly.title': 'Abonnement mensuel',
+    'contribute.support.monthly.desc':
+      'Un engagement récurrent. Sur la page À propos, il fait pousser un arbre (🌱→🌿→🌳) au fil du temps.',
+    'contribute.support.monthly.cta': 'Soutenir chaque mois →',
+    'contribute.support.onetime.title': 'Don ponctuel',
+    'contribute.support.onetime.desc':
+      'Un geste de soutien ponctuel. Laissez un message — nous les lisons tous.',
+    'contribute.support.onetime.cta': 'Faire un don ponctuel →',
+    'contribute.cli.title': '🖥️ CLI — Explorez depuis votre terminal',
+    'contribute.cli.desc':
+      'Cherchez, lisez, auditez et explorez plus de 900 articles sur Taïwan sans quitter votre terminal. Conçu pour les agents IA, les contributeurs et les mainteneurs. Intègre désormais Claude Desktop / Cursor via MCP.',
+    'contribute.cli.search.title': 'Rechercher et lire',
+    'contribute.cli.search.desc':
+      'Recherche floue en chinois et en anglais. TUI interactive. Lecture des articles en 4 langues.',
+    'contribute.cli.discover.title': 'Découvrir et jouer',
+    'contribute.cli.discover.desc':
+      'Sélection du jour, quiz de 5 questions, découverte aléatoire. Apprenez quelque chose sur Taïwan chaque jour.',
+    'contribute.cli.ainative.title': "Pensé pour l'IA",
+    'contribute.cli.ainative.desc':
+      'Contexte RAG pour les LLM, citations vérifiées (anti-hallucination) et un serveur Model Context Protocol pour Claude Desktop / Cursor.',
+    'contribute.cli.audit.title': 'Contribuer et auditer',
+    'contribute.cli.audit.desc':
+      "Rédigez de nouveaux articles, lancez l'audit d'hallucination Stage 3.5 sur n'importe quel slug (détecteur à 5 motifs qui applique le MANIFESTO §10), parcourez la boîte de réception des articles.",
+    'contribute.cli.organism.title': "Introspection de l'organisme",
+    'contribute.cli.organism.desc':
+      'Lisez les constantes vitales de Semiont depuis votre terminal : scores de santé des 8 organes, données de perception GA / Search Console / Cloudflare, et totaux des soutiens Portaly (données personnelles filtrées).',
+    'contribute.cli.discussion': 'Discussion',
   },
 } as const;

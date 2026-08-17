@@ -327,3 +327,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-17 | 071012-twmd-feedback-triage | 選單用詞建議「數據→資料」開成 #1440，第三人指控信第四次 `--exclude` 攔下；對賬 76/76 與 75/76（#1252 上游刪留言 git 留著） | dry-run 標題認不出信的性質，每次都要重讀原文，不能靠昨天的 id 認人 | [→](memory/2026-08-17-071012-twmd-feedback-triage.md) |
 | 2026-08-17 | 091549-twmd-maintainer-am | 71 個 open PR 有 59 個是 draft，真實待審 12；擋住投稿的非正典 subcategory 部分是自家 auto-heal 填的，修三缺陷＋新增 subcategory-valid | grep 數違規漏掉沒行號那條，把不合格 PR 算進可 merge 那疊 | [→](memory/2026-08-17-091549-twmd-maintainer-am.md) |
 | 2026-08-17 | 173659-budget-page | /budget 總預算十年策展頁 ship：Mode 4 報告先行、六隻 agent 抓研究與主計總處一手表、九區 inline SVG＋詩句 kicker，115 年度三讀三天後上線 | 把「時期」畫成底色帶之後，錯的時期會自己站在圖上；推翻要寫成結論形態不寫成驚訝 | [→](memory/2026-08-17-173659-budget-page.md) |
+| 2026-08-17 | 201935-manual | 模板層 127 處中文 fallback 清零（122 key × 12 語、26 檔），造模板層與渲染層兩支閘門；順手修掉自己閘門把「占比」判成簡體、擋到別人 commit 的假陽性 | 五次拿代理當尺量真正想知道的事；假陰性更難發現，因為沒有東西可以懷疑 | [→](memory/2026-08-17-201935-manual.md) |

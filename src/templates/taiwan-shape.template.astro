@@ -382,15 +382,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
           }
         </div>
         <p class="geo-note">
-          {
-            lang === 'en'
-              ? 'All 22 counties and cities are included above. Township boundary data extracted from '
-              : lang === 'ja'
-                ? '22 県市すべてを上記に収録。町丁目境界データの出典は '
-                : lang === 'ko'
-                  ? '22개 현시 전체를 위에 수록. 향진 경계 데이터 출처는 '
-                  : '以上已收錄全部 22 縣市。鄉鎮界資料出自 '
-          }
+          {t('taiwanShape.geo.townsSourceNote')}
           <a
             href="https://github.com/waiting7777/taiwan-vue-components/tree/master/src/json"
             target="_blank"
@@ -545,15 +537,7 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
               target="_blank"
               rel="noopener noreferrer">政府資料開放平臺 (data.gov.tw)</a
             > —
-            {
-              lang === 'en'
-                ? 'Official Taiwan government open data, including administrative boundary shapefiles from the Ministry of the Interior.'
-                : lang === 'ja'
-                  ? '台湾政府のオープンデータ公式ポータル、内政部の行政境界シェープファイルを含む。'
-                  : lang === 'ko'
-                    ? '대만 정부의 공식 오픈 데이터, 내정부의 행정 경계 셰이프 파일 포함.'
-                    : '政府官方開放資料平台，包含內政部發布的行政區界 shapefile。'
-            }
+            {t('taiwanShape.source.dataGovTw.desc')}
           </li>
           <li>
             <a
@@ -561,15 +545,7 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
               target="_blank"
               rel="noopener noreferrer">Natural Earth</a
             > —
-            {
-              lang === 'en'
-                ? 'Public domain global map data at 1:10m, 1:50m, and 1:110m scales. Great for small-scale world maps that include Taiwan.'
-                : lang === 'ja'
-                  ? 'パブリックドメインのグローバル地図データ、1:10m、1:50m、1:110m スケール。小スケールの世界地図に最適。'
-                  : lang === 'ko'
-                    ? '퍼블릭 도메인 글로벌 지도 데이터, 1:10m, 1:50m, 1:110m 축척. 소축척 세계 지도에 최적.'
-                    : '公有領域全球地圖資料，1:10m / 1:50m / 1:110m 三種比例尺。適合做含台灣的世界地圖。'
-            }
+            {t('taiwanShape.source.naturalEarth.desc')}
           </li>
           <li>
             <a
@@ -577,15 +553,7 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
               target="_blank"
               rel="noopener noreferrer">OpenStreetMap (Taiwan relation)</a
             > —
-            {
-              lang === 'en'
-                ? "OSM's community-edited map of Taiwan, downloadable as OSM XML or PBF via Overpass API and Geofabrik."
-                : lang === 'ja'
-                  ? 'OSM コミュニティが編集した台湾地図、Overpass API と Geofabrik 経由で OSM XML または PBF としてダウンロード可能。'
-                  : lang === 'ko'
-                    ? 'OSM 커뮤니티가 편집한 대만 지도, Overpass API와 Geofabrik을 통해 OSM XML 또는 PBF로 다운로드 가능.'
-                    : 'OSM 社群編輯的台灣地圖，可透過 Overpass API 與 Geofabrik 下載 OSM XML 或 PBF。'
-            }
+            {t('taiwanShape.source.osm.desc')}
           </li>
           <li>
             <a
@@ -593,29 +561,13 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
               target="_blank"
               rel="noopener noreferrer">GADM — Taiwan</a
             > —
-            {
-              lang === 'en'
-                ? 'Global Administrative Areas database, Taiwan administrative boundaries at levels 0-3 in Shapefile, GeoPackage, KMZ, and R formats.'
-                : lang === 'ja'
-                  ? 'グローバル行政区域データベース、台湾の行政境界 0-3 レベルを Shapefile、GeoPackage、KMZ、R 形式で提供。'
-                  : lang === 'ko'
-                    ? '글로벌 행정구역 데이터베이스, 대만 행정 경계 0-3 레벨을 Shapefile, GeoPackage, KMZ, R 형식으로 제공.'
-                    : '全球行政區資料庫，台灣行政區界 0-3 級，提供 Shapefile / GeoPackage / KMZ / R 格式。'
-            }
+            {t('taiwanShape.source.gadm.desc')}
           </li>
           <li>
             <a href="https://g0v.tw/" target="_blank" rel="noopener noreferrer"
               >g0v.tw</a
             > —
-            {
-              lang === 'en'
-                ? "Taiwan's civic tech community. Many g0v projects publish cleaned-up map data and visualizations as open source."
-                : lang === 'ja'
-                  ? '台湾のシビックテックコミュニティ。多くの g0v プロジェクトがクリーンアップされた地図データと可視化をオープンソースで公開。'
-                  : lang === 'ko'
-                    ? '대만의 시빅 테크 커뮤니티. 많은 g0v 프로젝트가 정제된 지도 데이터와 시각화를 오픈소스로 공개.'
-                    : '台灣公民科技社群。許多 g0v 專案以開源形式發布整理過的地圖資料和視覺化。'
-            }
+            {t('taiwanShape.source.g0v.desc')}
           </li>
         </ul>
       </div>
@@ -631,39 +583,15 @@ import { Country, Taipei, Kaohsiung } from 'taiwan-vue-components';
             <strong>taiwan-icon-wiki.svg</strong> · <strong
               >taiwan-location-map.svg</strong
             > · <strong>taiwan-political-division.svg</strong> —
-            {
-              lang === 'en'
-                ? 'Wikimedia Commons, Creative Commons.'
-                : lang === 'ja'
-                  ? 'Wikimedia Commons、クリエイティブ・コモンズ。'
-                  : lang === 'ko'
-                    ? 'Wikimedia Commons, 크리에이티브 커먼즈.'
-                    : 'Wikimedia Commons，Creative Commons 授權。'
-            }
+            {t('taiwanShape.license.wikimedia.desc')}
           </li>
           <li>
             <strong>taiwan-simplemaps.svg</strong> —
-            {
-              lang === 'en'
-                ? 'SimpleMaps, free for personal and commercial use with attribution.'
-                : lang === 'ja'
-                  ? 'SimpleMaps、帰属表示付きで個人・商用利用無料。'
-                  : lang === 'ko'
-                    ? 'SimpleMaps, 출처 표시 하에 개인 및 상업적 이용 무료.'
-                    : 'SimpleMaps，標註來源後可免費商業使用。'
-            }
+            {t('taiwanShape.license.simplemaps.desc')}
           </li>
           <li>
             <strong>taiwan-country.topo.json · taiwan-towns-*.topo.json</strong> —
-            {
-              lang === 'en'
-                ? 'Extracted from '
-                : lang === 'ja'
-                  ? '出典：'
-                  : lang === 'ko'
-                    ? '출처: '
-                    : '出自 '
-            }<a
+            {t('taiwanShape.license.extractedFromPrefix')}<a
               href="https://github.com/waiting7777/taiwan-vue-components"
               target="_blank"
               rel="noopener noreferrer">waiting7777/taiwan-vue-components</a

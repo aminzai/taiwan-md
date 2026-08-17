@@ -413,6 +413,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Taiwan.md provides accurate, open-source, freely usable SVG outlines — a definitive answer for every scenario that needs to know "what does Taiwan look like."',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Explore the full open-source map archive',
+    'data.taiwanShape.teaser.desc':
+      'SVG outlines, TopoJSON for counties and townships, usage examples in D3.js, Leaflet, Python, and Vue, plus administrative code references and other open data sources — all on one dedicated page.',
+    'data.taiwanShape.teaser.cta': "Go to Taiwan's Shape →",
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -436,12 +443,16 @@ export const dataUI = {
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title':
       '📡 Open Data & Digital Democracy — 30 Years of Digitization, g0v, and the Audrey Tang Effect',
+    'data.openData.heading': '📊 Open Data',
     'data.openData.story.p1':
       'Taiwan\'s digital democracy journey began in 1997 with the "Electronic Government Program," but the real transformation came in 2012 when the Executive Yuan made a pivotal decision: shift from "electronic government" to "open government." The launch of data.gov.tw in 2013 marked Taiwan\'s entry into the open data era.',
     'data.openData.story.p2':
       "What makes Taiwan unique is the g0v (gov-zero) movement — a civic tech community that doesn't just criticize government, but rebuilds it. Since 2012, g0v has held over 60 hackathons, generating 900+ projects, from the COVID-19 mask availability map (600 million queries in peak days) to Cofacts fact-checking bot (100,000+ suspicious messages processed).",
     'data.openData.story.p3':
       'The 2016 appointment of g0v participant Audrey Tang as Digital Minister institutionalized this collaboration. Taiwan now leads in "radical transparency" — from PDIS collaborative meetings to vTaiwan\'s algorithmic consensus-building. The 2022 establishment of the Ministry of Digital Affairs (moda) elevated digital governance to cabinet level, pushing initiatives like TAIDE (Taiwan\'s sovereign AI model) and "digital resilience" (submarine cable backup plans).',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Articles Added',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title':
@@ -873,6 +884,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'ほとんどのAI画像生成モデルは、学習データに台湾の構造化された地理データが不足しています。その結果、形状の歪み、比率の誤り、さらには他の島との混同が起こります。Taiwan.md は正確でオープンソース、自由に使える台湾のSVG輪郭図を提供し、「台湾はどんな形をしているか」という問いに標準的な答えを示します。',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ オープンソース地図データ全集へ',
+    'data.taiwanShape.teaser.desc':
+      'SVG 輪郭、県市と町丁目レベルの TopoJSON、D3.js / Leaflet / Python / Vue の使用例、行政区コード対照、その他のオープンデータソース — すべて専用ページに。',
+    'data.taiwanShape.teaser.cta': '台湾のかたちへ →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -894,12 +911,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 オープンデータとデジタル民主主義',
+    'data.openData.heading': '📊 オープンデータ',
     'data.openData.story.p1':
       '電子化から開放化へ：台湾デジタルガバナンス30年の進化',
     'data.openData.story.p2':
       '1997年「電子化政府計画」の開始、2013年 data.gov.tw の開設で台湾は電子化政府からオープンガバメント時代へ。2015-2017年に3年連続「グローバルオープンデータ指標」第1位。g0v 零時政府がマスクマップと Cofacts ファクトチェックボットを生み出す。唐鳳のデジタル政務委員の実験により、台湾は世界のデジタル民主主義の実験場となった。',
     'data.openData.story.p3':
       '市民がデータを理解する力を持ち、政府がデータを進んで公開するとき、民主主義は4年に一度の投票ではなく、毎日起こる協働になります。',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': '新規記事数',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ ナレッジグラフ',
@@ -1327,6 +1348,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       '대부분의 AI 이미지 생성 모델은 훈련 데이터에 타이완의 구조화된 지리 데이터가 부족합니다. 그 결과 형태 왜곡, 비율 오류, 심지어 다른 섬과의 혼동이 일어납니다. Taiwan.md는 정확하고, 오픈소스이며, 자유롭게 사용 가능한 타이완 SVG 윤곽도를 제공하여 "타이완은 어떻게 생겼나"라는 질문에 표준 답안을 제시합니다.',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ 오픈소스 지도 데이터 전체 보기',
+    'data.taiwanShape.teaser.desc':
+      'SVG 윤곽, 현시와 향진 수준의 TopoJSON, D3.js / Leaflet / Python / Vue 사용 예제, 행정구역 코드 대조, 다른 오픈 데이터 소스 — 모두 전용 페이지에서.',
+    'data.taiwanShape.teaser.cta': '대만의 모양으로 →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -1348,12 +1375,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 오픈 데이터와 디지털 민주주의',
+    'data.openData.heading': '📊 오픈 데이터',
     'data.openData.story.p1':
       '전자화에서 개방화로: 타이완 디지털 거버넌스 30년 진화',
     'data.openData.story.p2':
       '1997년 "전자화정부 계획" 시작, 2013년 data.gov.tw 출범으로 타이완은 전자정부에서 개방정부 시대로 전환. 2015-2017년 3년 연속 "글로벌 오픈 데이터 지표" 1위. g0v 영시정부가 마스크 지도와 Cofacts 팩트체크 봇을 탄생시킴. 탕펑의 디지털 정무위원 실험으로 타이완은 글로벌 디지털 민주주의의 실험장이 됨.',
     'data.openData.story.p3':
       '시민이 데이터를 이해할 능력을 갖추고, 정부가 데이터를 기꺼이 공개할 때, 민주주의는 4년에 한 번의 투표가 아니라 매일 일어나는 협업이 됩니다.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': '추가 기사',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ 지식 그래프',
@@ -1821,6 +1852,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Dữ liệu huấn luyện của phần lớn mô hình tạo ảnh AI thiếu dữ liệu địa lý có cấu trúc về Đài Loan. Hệ quả là hình dáng bị bóp méo, tỷ lệ sai lệch, thậm chí bị nhầm lẫn với các hòn đảo khác. Taiwan.md cung cấp bản đồ đường nét Đài Loan định dạng SVG chính xác, mã nguồn mở và có thể tự do sử dụng, tạo ra đáp án chuẩn cho mọi tình huống cần biết「Đài Loan trông như thế nào」.',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Khám phá toàn bộ dữ liệu bản đồ mã nguồn mở',
+    'data.taiwanShape.teaser.desc':
+      'Đường viền SVG, TopoJSON cấp quận/huyện và xã/thị trấn, ví dụ sử dụng D3.js, Leaflet, Python, Vue, bảng đối chiếu mã hành chính, các nguồn dữ liệu mã nguồn mở khác — tất cả trên một trang riêng.',
+    'data.taiwanShape.teaser.cta': 'Đến Hình dạng Đài Loan →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -1844,12 +1882,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Dữ liệu mở và dân chủ số',
+    'data.openData.heading': '📊 Dữ liệu mở',
     'data.openData.story.p1':
       'Từ điện tử hóa đến mở hóa: ba mươi năm phát triển của quản trị số Đài Loan',
     'data.openData.story.p2':
       'Năm 1997,「Kế hoạch Chính phủ điện tử」được khởi động; năm 2013, data.gov.tw đi vào hoạt động, đưa Đài Loan từ chính phủ điện tử bước vào kỷ nguyên chính phủ mở. Trong giai đoạn 2015-2017, Đài Loan ba lần liên tiếp đứng đầu「Chỉ số Dữ liệu Mở Toàn cầu」. g0v Chính phủ Không giờ đã ươm tạo bản đồ khẩu trang và chatbot kiểm chứng thông tin Cofacts. Những thử nghiệm của Bộ trưởng Kỹ thuật số Audrey Tang đã biến Đài Loan thành phòng thí nghiệm dân chủ số của thế giới.',
     'data.openData.story.p3':
       'Khi công dân có khả năng hiểu dữ liệu và chính phủ sẵn sàng công bố dữ liệu, dân chủ không chỉ là cuộc bỏ phiếu bốn năm một lần, mà là sự hợp tác diễn ra mỗi ngày.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Bài viết đã thêm',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Đồ thị tri thức',
@@ -2319,6 +2361,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Sebagian besar data pelatihan model pembuat gambar AI tidak memiliki data geografis Taiwan yang terstruktur. Akibatnya, bentuknya terdistorsi, proporsinya tidak akurat, bahkan tertukar dengan pulau lain. Taiwan.md menyediakan gambar kontur SVG Taiwan yang akurat, bersumber terbuka, dan bebas digunakan, sehingga tersedia jawaban baku untuk setiap kebutuhan yang mempertanyakan「seperti apa bentuk Taiwan」.',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Jelajahi arsip peta sumber terbuka lengkap',
+    'data.taiwanShape.teaser.desc':
+      'Kontur SVG, TopoJSON tingkat kabupaten/kota dan kecamatan, contoh penggunaan D3.js, Leaflet, Python, dan Vue, referensi kode administratif, serta sumber data terbuka lainnya — semuanya di satu halaman khusus.',
+    'data.taiwanShape.teaser.cta': 'Ke Bentuk Taiwan →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -2342,12 +2391,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Data Terbuka dan Demokrasi Digital',
+    'data.openData.heading': '📊 Data Terbuka',
     'data.openData.story.p1':
       'Dari digitalisasi menuju keterbukaan：tiga puluh tahun evolusi tata kelola digital Taiwan',
     'data.openData.story.p2':
       '「Program Pemerintahan Elektronik」dimulai pada 1997，data.gov.tw diluncurkan pada 2013，dan Taiwan beralih dari era pemerintahan elektronik menuju pemerintahan terbuka. Pada 2015-2017，Taiwan tiga kali berturut-turut menduduki peringkat pertama「Indeks Data Terbuka Global」. g0v menginkubasi peta masker dan bot pemeriksa fakta Cofacts. Eksperimen menteri digital Audrey Tang menjadikan Taiwan sebagai laboratorium demokrasi digital dunia.',
     'data.openData.story.p3':
       'Ketika warga mampu memahami data dan pemerintah bersedia merilis data，demokrasi bukan sekadar pemungutan suara empat tahun sekali，melainkan kolaborasi yang berlangsung setiap hari.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Artikel Ditambahkan',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Graf Pengetahuan',
@@ -2830,6 +2883,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Os dados de treinamento da maioria dos modelos de geração de imagens por IA carecem de dados geográficos estruturados sobre Taiwan. O resultado são formas distorcidas, proporções incorretas e até confusão com outras ilhas. Taiwan.md oferece contornos SVG corretos, de código aberto e de uso livre de Taiwan, garantindo uma referência padrão para todas as situações em que é preciso saber «qual é o formato de Taiwan».',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Explorar o arquivo completo de mapas de código aberto',
+    'data.taiwanShape.teaser.desc':
+      'Contornos SVG, TopoJSON por município e distrito, exemplos de uso em D3.js, Leaflet, Python e Vue, referências de códigos administrativos e outras fontes de dados abertos — tudo em uma página dedicada.',
+    'data.taiwanShape.teaser.cta': 'Ir para a forma de Taiwan →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -2853,12 +2913,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Dados abertos e democracia digital',
+    'data.openData.heading': '📊 Dados abertos',
     'data.openData.story.p1':
       'Da digitalização à abertura: trinta anos de evolução da governança digital de Taiwan',
     'data.openData.story.p2':
       'O «Plano de Governo Eletrônico» foi lançado em 1997 e o data.gov.tw entrou no ar em 2013, levando Taiwan da era do governo eletrônico à do governo aberto. Entre 2015-2017, Taiwan ocupou o primeiro lugar no «Índice Global de Dados Abertos» por três vezes consecutivas. A comunidade g0v incubou o mapa de máscaras e o robô de verificação de fatos Cofacts. As experiências de Audrey Tang como ministra digital transformaram Taiwan em um laboratório mundial de democracia digital.',
     'data.openData.story.p3':
       'Quando os cidadãos conseguem compreender os dados e o governo se dispõe a divulgá-los, a democracia deixa de ser apenas uma votação a cada quatro anos e passa a ser uma colaboração diária.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Artigos adicionados',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Grafo de conhecimento',
@@ -3325,6 +3389,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'अधिकांश AI छवि निर्माण मॉडलों के प्रशिक्षण डेटा में ताइवान के संरचित भौगोलिक डेटा की कमी है। नतीजतन आकार विकृत होता है, अनुपात बिगड़ जाते हैं और कभी-कभी इसे अन्य द्वीपों से भी मिला दिया जाता है। Taiwan.md ताइवान की सही, मुक्त-स्रोत और स्वतंत्र रूप से उपयोग योग्य SVG रूपरेखा उपलब्ध कराता है, ताकि हर उस परिस्थिति के लिए एक मानक उत्तर हो जहाँ यह जानना ज़रूरी है कि「ताइवान कैसा दिखता है」।',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ पूरा ओपन-सोर्स मानचित्र संग्रह देखें',
+    'data.taiwanShape.teaser.desc':
+      'SVG रूपरेखा, ज़िला और नगर स्तर का TopoJSON, D3.js / Leaflet / Python / Vue के उपयोग उदाहरण, प्रशासनिक कोड संदर्भ, और अन्य मुक्त डेटा स्रोत — सब कुछ एक समर्पित पेज पर।',
+    'data.taiwanShape.teaser.cta': 'ताइवान के आकार पर जाएँ →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -3348,12 +3418,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 मुक्त डेटा और डिजिटल लोकतंत्र',
+    'data.openData.heading': '📊 मुक्त डेटा',
     'data.openData.story.p1':
       'डिजिटलीकरण से खुलेपन तक：ताइवान के डिजिटल शासन का तीस वर्षों का विकास',
     'data.openData.story.p2':
       '1997 में「ई-सरकार योजना」शुरू हुई，2013 में data.gov.tw ऑनलाइन हुआ और ताइवान ने ई-सरकार से खुले शासन के युग में प्रवेश किया। 2015-2017 के दौरान उसने लगातार तीन बार「वैश्विक मुक्त डेटा सूचकांक」में पहला स्थान हासिल किया।g0v ज़ीरो आवर सरकार ने मास्क मानचित्र और Cofacts तथ्य-जाँच बॉट विकसित किए।ऑड्री तांग के डिजिटल मंत्री-स्तरीय प्रयोगों ने ताइवान को डिजिटल लोकतंत्र की वैश्विक प्रयोगशाला बना दिया।',
     'data.openData.story.p3':
       'जब नागरिकों में डेटा समझने की क्षमता हो और सरकार डेटा जारी करने को तैयार हो，तब लोकतंत्र केवल हर चार वर्ष में होने वाला मतदान नहीं रहता，बल्कि हर दिन जारी रहने वाला सहयोग बन जाता है。',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'जोड़े गए लेख',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ ज्ञान ग्राफ़',
@@ -3822,6 +3896,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'في بيانات تدريب معظم نماذج توليد الصور بالذكاء الاصطناعي، تفتقر إلى بيانات جغرافية هيكلية عن تايوان. النتيجة هي تشويه الشكل، تشوه النسب، وحتى الخلط بينها وبين جزر أخرى. يوفر Taiwan.md حدود SVG صحيحة ومفتوحة المصدر وقابلة للاستخدام الحر، لتوفير إجابة قياسية لكل مشهد يحتاج إلى معرفة "كيف تبدو تايوان".',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ استكشف الأرشيف الكامل لخرائط مفتوحة المصدر',
+    'data.taiwanShape.teaser.desc':
+      'خطوط SVG الخارجية، وTopoJSON على مستوى المقاطعات والبلدات، وأمثلة استخدام في D3.js وLeaflet وPython وVue، بالإضافة إلى مراجع الرموز الإدارية ومصادر البيانات المفتوحة الأخرى — كل ذلك في صفحة مخصصة.',
+    'data.taiwanShape.teaser.cta': 'الانتقال إلى شكل تايوان →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -3845,12 +3926,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 البيانات المفتوحة والديمقراطية الرقمية',
+    'data.openData.heading': '📊 البيانات المفتوحة',
     'data.openData.story.p1':
       'من الإلكتروني إلى المفتوح: ثلاثون عامًا من التطور في الحوكمة الرقمية لتايوان',
     'data.openData.story.p2':
       'بدأ "مشروع الحكومة الإلكترونية" في عام 1997، وعُملت data.gov.tw في عام 2013، انتقلت تايوان من حكومة إلكترونية إلى عصر الحكومة المفتوحة. في الفترة من 2015 إلى 2017، احتلت المرتبة الأولى في "مؤشر البيانات المفتوحة العالمي" ثلاث مرات متتالية. حاضنة g0v (الحكومة الصفرية) أنتجت خريطة أقنعة الوجه وروبوت التحقق من الحقائق Cofacts. تجربة وزير الشؤون الرقمية تانغ فونغ جعلت تايوان ساحة تجريبية للديمقراطية الرقمية العالمية.',
     'data.openData.story.p3':
       'عندما يكون لدى المواطنين القدرة على فهم البيانات، وتكون الحكومة مستعدة لإطلاق البيانات، لا تكون الديمقراطية مجرد تصويت يحدث كل أربع سنوات، بل هي تعاون يحدث كل يوم.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'المقالات المضافة',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ مخطط المعرفة',
@@ -4326,6 +4411,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'В обучающих данных большинства моделей генерации изображений ИИ отсутствуют структурированные географические данные о Тайване. В результате контуры искажаются, пропорции нарушаются, а остров иногда путают с другими. Taiwan.md предоставляет правильные, открытые и свободно используемые SVG-контурные карты Тайваня, обеспечивая стандартный ответ для любого сценария, где требуется знать «как выглядит Тайвань».',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Изучить полный архив карт с открытым кодом',
+    'data.taiwanShape.teaser.desc':
+      'Контуры SVG, TopoJSON для уездов, городов и посёлков, примеры использования в D3.js, Leaflet, Python и Vue, справочники административных кодов и другие источники открытых данных — всё на одной специальной странице.',
+    'data.taiwanShape.teaser.cta': 'Перейти к форме Тайваня →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -4349,12 +4441,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Открытые данные и цифровая демократия',
+    'data.openData.heading': '📊 Открытые данные',
     'data.openData.story.p1':
       'От электронного к открытому: тридцатилетняя эволюция цифрового управления Тайваня',
     'data.openData.story.p2':
       'В 1997 году был запущен «План электронного правительства», а в 2013 году начал работу data.gov.tw, ознаменовав переход Тайваня от электронного правительства к эпохе открытого правительства. В 2015–2017 годах Тайвань трижды подряд занимал первое место в «Глобальном индексе открытых данных». Проект g0v (Нулевое правительство) инкубировал «Карту масок» и бота проверки фактов Cofacts. Цифровой эксперимент министра по цифровым вопросам Тан Фэна превратил Тайвань в полигон для цифровой демократии в мировом масштабе.',
     'data.openData.story.p3':
       'Когда граждане способны понимать данные, а правительство готово их раскрывать, демократия становится не просто голосованием раз в четыре года, а ежедневным сотрудничеством.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Добавленные статьи',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Граф знаний',
@@ -4766,6 +4862,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       '大多數 AI 圖像生成模型的訓練資料中，缺乏結構化的台灣地理資料。結果就是形狀扭曲、比例失真、甚至跟其他島嶼搞混。 Taiwan.md 提供正確、開源、可自由使用的台灣 SVG 輪廓圖，讓每個需要「台灣長什麼樣子」的場景都有標準答案。',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ 前往完整開源地圖資料集',
+    'data.taiwanShape.teaser.desc':
+      'SVG 輪廓、縣市與鄉鎮級 TopoJSON、D3.js / Leaflet / Python / Vue 使用範例、行政區代碼對照、其他開源資料來源——全部在專屬頁面。',
+    'data.taiwanShape.teaser.cta': '前往台灣的形狀 →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description': '台灣輪廓 Icon — 適合 icon、logo、小尺寸',
@@ -4785,11 +4887,15 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 開放資料與數位民主',
+    'data.openData.heading': '📊 開放資料',
     'data.openData.story.p1': '從電子化到開放化：台灣數位治理的三十年進化',
     'data.openData.story.p2':
       '1997 年「電子化政府計畫」啟動，2013 年 data.gov.tw 上線，台灣從電子化政府跨入開放政府時代。 2015-2017 年三度蟬聯「全球開放資料指標」第一名。g0v 零時政府孵化口罩地圖、Cofacts 事實查核機器人。唐鳳的數位政委實驗，讓台灣成為全球數位民主的實驗場。',
     'data.openData.story.p3':
       '當公民有能力理解數據、政府願意釋出數據，民主就不只是四年一次的投票，而是每天都在發生的協作。',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': '新增文章',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ 知識圖譜',
@@ -5214,6 +5320,13 @@ export const dataUI = {
       "La plupart des modèles de génération d'images par IA manquent de données géographiques structurées pour Taiwan dans leurs ensembles d'entraînement. Résultat : les images de Taiwan générées par l'IA sont souvent déformées, disproportionnées ou confondues avec d'autres îles.",
     'data.taiwanShape.story.p2':
       "Taiwan.md fournit des contours SVG précis, open source et libres d'utilisation — une réponse définitive pour chaque situation nécessitant de savoir « à quoi ressemble Taiwan ».",
+
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      "🗺️ Explorer l'archive complète de cartes open source",
+    'data.taiwanShape.teaser.desc':
+      "Contours SVG, TopoJSON au niveau des comtés et des communes, exemples d'utilisation avec D3.js, Leaflet, Python et Vue, correspondance des codes administratifs et autres sources de données open source — le tout sur une page dédiée.",
+    'data.taiwanShape.teaser.cta': 'Aller à la forme de Taïwan →',
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
       'Contour simple — Idéal pour icônes, logos, petites tailles',
@@ -5235,12 +5348,16 @@ export const dataUI = {
       "Licence : tous les fichiers SVG sous CC BY-SA 4.0. Libre d'utilisation, de modification et d'usage commercial — il suffit de mentionner la source.",
     'data.openData.title':
       "📡 Données ouvertes et démocratie numérique — 30 ans de numérisation, g0v et l'effet Audrey Tang",
+    'data.openData.heading': '📊 Données ouvertes',
     'data.openData.story.p1':
       "Le parcours de démocratie numérique de Taiwan a commencé en 1997 avec le « Programme de gouvernement électronique », mais la vraie transformation est survenue en 2012 lorsque le Yuan exécutif a pris une décision cruciale : passer du « gouvernement électronique » au « gouvernement ouvert ». Le lancement de data.gov.tw en 2013 a marqué l'entrée de Taiwan dans l'ère des données ouvertes.",
     'data.openData.story.p2':
       "Ce qui rend Taiwan unique, c'est le mouvement g0v (gov-zero) — une communauté de technologie civique qui ne se contente pas de critiquer le gouvernement, mais le reconstruit. Depuis 2012, g0v a organisé plus de 60 hackathons, générant plus de 900 projets, de la carte de disponibilité des masques COVID-19 (600 millions de requêtes les jours de pointe) au bot de vérification des faits Cofacts (plus de 100 000 messages suspects traités).",
     'data.openData.story.p3':
       "La nomination en 2016 d'Audrey Tang, participante de g0v, comme ministre du Numérique a institutionnalisé cette collaboration. Taiwan est désormais leader en « transparence radicale » — des réunions collaboratives PDIS à la construction algorithmique de consensus de vTaiwan. La création en 2022 du Ministère des Affaires numériques (moda) a élevé la gouvernance numérique au niveau ministériel, impulsant des initiatives comme TAIDE (modèle d'IA souverain de Taiwan) et la « résilience numérique » (plans de secours pour les câbles sous-marins).",
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Articles ajoutés',
     'data.knowledgeGraph.title':
       '🕸️ Graphe de connaissances — Le paysage interconnecté de Taiwan',
     'data.knowledgeGraph.story.p1':
@@ -5658,6 +5775,13 @@ export const dataUI = {
       'La mayoría de los modelos de generación de imágenes con IA carecen de datos geográficos estructurados sobre Taiwán en sus conjuntos de entrenamiento. El resultado: las imágenes de Taiwán generadas por IA suelen estar distorsionadas, desproporcionadas o confundidas con otras islas.',
     'data.taiwanShape.story.p2':
       'Taiwan.md ofrece contornos SVG precisos, de código abierto y de uso libre — una respuesta definitiva para cada situación que necesite saber "cómo es Taiwán".',
+
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Explorar el archivo completo de mapas de código abierto',
+    'data.taiwanShape.teaser.desc':
+      'Contornos SVG, TopoJSON a nivel de condado y municipio, ejemplos de uso en D3.js, Leaflet, Python y Vue, referencias de códigos administrativos y otras fuentes de datos abiertos — todo en una página dedicada.',
+    'data.taiwanShape.teaser.cta': 'Ir a la forma de Taiwán →',
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
       'Contorno simple — Ideal para iconos, logotipos y tamaños pequeños',
@@ -5679,12 +5803,16 @@ export const dataUI = {
       'Licencia: Todos los archivos SVG bajo CC BY-SA 4.0. Uso, modificación y uso comercial libres — solo se requiere atribución.',
     'data.openData.title':
       '📡 Datos Abiertos y Democracia Digital — 30 Años de Digitalización, g0v y el Efecto Audrey Tang',
+    'data.openData.heading': '📊 Datos abiertos',
     'data.openData.story.p1':
       'El recorrido de democracia digital de Taiwán comenzó en 1997 con el "Programa de Gobierno Electrónico", pero la verdadera transformación llegó en 2012 cuando el Yuan Ejecutivo tomó una decisión crucial: pasar de "gobierno electrónico" a "gobierno abierto". El lanzamiento de data.gov.tw en 2013 marcó la entrada de Taiwán en la era de los datos abiertos.',
     'data.openData.story.p2':
       'Lo que hace único a Taiwán es el movimiento g0v (gov-zero) — una comunidad de tecnología cívica que no solo critica al gobierno, sino que lo reconstruye. Desde 2012, g0v ha realizado más de 60 hackatones, generando más de 900 proyectos, desde el mapa de disponibilidad de mascarillas COVID-19 (600 millones de consultas en días pico) hasta el bot de verificación Cofacts (más de 100.000 mensajes sospechosos procesados).',
     'data.openData.story.p3':
       'El nombramiento en 2016 de Audrey Tang, participante de g0v, como Ministra Digital institucionalizó esta colaboración. Taiwán ahora lidera en "transparencia radical" — desde las reuniones colaborativas PDIS hasta la construcción de consenso algorítmico de vTaiwan. La creación en 2022 del Ministerio de Asuntos Digitales (moda) elevó la gobernanza digital a nivel ministerial, impulsando iniciativas como TAIDE (modelo de IA soberano de Taiwán) y la "resiliencia digital" (planes de respaldo de cables submarinos).',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Artículos añadidos',
     'data.knowledgeGraph.title':
       '🕸️ Grafo de Conocimiento — El Paisaje Interconectado de Taiwán',
     'data.knowledgeGraph.story.p1':

@@ -281,6 +281,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       'Maybe a hundred years from now, when someone wants to know what Taiwanese people cared about in 2026, what they read will be what this coral reef left behind.',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'Open Real-Time Dashboard',
+    'about.organism.dashboard.desc':
+      'Monitor vital signs, health scores, translation coverage, and growth timeline in real-time.',
+
     // Press cards
     'about.press.cna': 'CNA 中央社',
     'about.press.cna.title':
@@ -762,6 +767,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       'もしかしたら百年後、2026年の台湾の人々が何を大切にしていたかを誰かが知りたいと思ったとき、読むのはこのサンゴ礁が残したものかもしれません。',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'リアルタイムダッシュボードを開く',
+    'about.organism.dashboard.desc':
+      'バイタルサイン、ヘルススコア、翻訳カバレッジ、成長タイムラインをリアルタイムで監視。',
+
     // Press cards
     'about.press.cna': '中央社 CNA',
     'about.press.cna.title':
@@ -1235,6 +1245,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       '어쩌면 100년 후, 누군가 2026년 대만 사람들이 무엇에 관심을 가졌는지 알고 싶을 때, 그들이 읽게 되는 것은 이 산호초가 남긴 것일지도 모릅니다.',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': '실시간 모니터링 대시보드 열기',
+    'about.organism.dashboard.desc':
+      '생명 징후, 건강 점수, 번역 커버리지, 성장 타임라인을 실시간 모니터링한다.',
+
     // Press cards
     'about.press.cna': 'CNA 중앙통신사',
     'about.press.cna.title':
@@ -1700,6 +1715,11 @@ export const aboutUI = {
     'about.organism.ending.p2': 'Nó vẫn còn rất trẻ. Bạn đến thật đúng lúc.',
     'about.organism.ending.p3':
       'Có lẽ một trăm năm sau, khi ai đó muốn biết người Đài Loan năm 2026 quan tâm điều gì, thứ họ đọc chính là những gì rạn san hô này để lại.',
+
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'Mở bảng theo dõi thời gian thực',
+    'about.organism.dashboard.desc':
+      'Theo dõi thời gian thực các dấu hiệu sinh tồn, điểm sức khỏe, tỷ lệ bao phủ bản dịch và trục thời gian tăng trưởng.',
 
     // Press cards
     'about.press.cna': 'Thông tấn xã Trung ương CNA',
@@ -2185,6 +2205,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       'Mungkin seratus tahun lagi, ketika seseorang ingin mengetahui apa yang dipedulikan orang Taiwan pada tahun 2026, yang mereka baca adalah sesuatu yang ditinggalkan oleh terumbu karang ini.',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'Buka Dasbor Pemantauan Langsung',
+    'about.organism.dashboard.desc':
+      'Pantau tanda vital, skor kesehatan, cakupan terjemahan, dan linimasa pertumbuhan secara langsung.',
+
     // Press cards
     'about.press.cna': 'Central News Agency CNA',
     'about.press.cna.title':
@@ -2668,6 +2693,12 @@ export const aboutUI = {
     'about.organism.ending.p3':
       'Talvez, daqui a cem anos, quando alguém quiser saber com o que as pessoas de Taiwan se importavam em 2026, leia justamente o que este recife de coral deixou para trás.',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta':
+      'Abrir painel de monitoramento em tempo real',
+    'about.organism.dashboard.desc':
+      'Monitore sinais vitais, pontuações de saúde, cobertura das traduções e linha do tempo do crescimento em tempo real.',
+
     // Press cards
     'about.press.cna': 'Agência Central de Notícias CNA',
     'about.press.cna.title':
@@ -3148,6 +3179,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       'शायद सौ साल बाद, जब कोई जानना चाहेगा कि 2026 में ताइवान के लोग किन बातों की परवाह करते थे, तो वे इसी प्रवाल भित्ति की छोड़ी हुई सामग्री पढ़ रहे होंगे।',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'रीयल-टाइम डैशबोर्ड खोलें',
+    'about.organism.dashboard.desc':
+      'जीवन-संकेत, स्वास्थ्य स्कोर, अनुवाद कवरेज और विकास समयरेखा को रीयल-टाइम में देखें।',
+
     // Press cards
     'about.press.cna': 'सेंट्रल न्यूज़ एजेंसी CNA',
     'about.press.cna.title':
@@ -3622,6 +3658,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       'ربما بعد مئة عام، عندما يريد شخص معرفة ما كان يهم تايوانيين عام 2026، سيقرأون ما تركته هذه الشعاب المرجانية.',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'فتح لوحة المراقبة الفورية',
+    'about.organism.dashboard.desc':
+      'راقب العلامات الحيوية، ودرجات الصحة، وتغطية الترجمة، ومحور النمو في الوقت الفعلي.',
+
     // Press cards
     'about.press.cna': 'وكالة الأنباء المركزية CNA',
     'about.press.cna.title':
@@ -4092,6 +4133,12 @@ export const aboutUI = {
     'about.organism.ending.p2': 'Она ещё молода. Вы пришли в самое время.',
     'about.organism.ending.p3':
       'Возможно, через сто лет, когда кто-то захочет узнать, что было важно для людей на Тайване в 2026 году, они прочитают именно то, что оставила эта коралловая рифовая система.',
+
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta':
+      'Открыть панель мониторинга в реальном времени',
+    'about.organism.dashboard.desc':
+      'Отслеживайте жизненные показатели, оценки здоровья, покрытие переводов и хронологию роста в реальном времени.',
 
     // Press cards
     'about.press.cna': 'Центральное агентство новостей CNA',
@@ -4566,6 +4613,11 @@ export const aboutUI = {
     'about.organism.ending.p3':
       '也許一百年後，有人想知道 2026 年的台灣人在乎什麼的時候，他們讀的就是這座珊瑚礁留下來的東西。',
 
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': '開啟即時監測面板',
+    'about.organism.dashboard.desc':
+      '即時監測生命徵象、健康分數、翻譯覆蓋率與成長時間軸。',
+
     // Press cards
     'about.press.cna': '中央社 CNA',
     'about.press.cna.title':
@@ -4990,6 +5042,11 @@ export const aboutUI = {
       'Il est encore jeune. Vous arrivez au bon moment.',
     'about.organism.ending.p3':
       "Peut-être que dans cent ans, quand quelqu'un voudra savoir ce qui tenait à cœur aux Taïwanais en 2026, ce qu'il lira sera ce que ce récif de corail aura laissé derrière lui.",
+
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'Ouvrir le tableau de bord en temps réel',
+    'about.organism.dashboard.desc':
+      'Suivez en temps réel les signes vitaux, les scores de santé, la couverture de traduction et la chronologie de croissance.',
     'about.press.cna': 'CNA 中央社',
     'about.press.cna.title':
       "De TSMC aux tantes des petits-déjeuners : la base de connaissances Taiwan.md raconte l'histoire de Taiwan à l'ère de l'IA",
@@ -5403,6 +5460,11 @@ export const aboutUI = {
     'about.organism.ending.p2': 'Aún es joven. Llegas en el momento justo.',
     'about.organism.ending.p3':
       'Quizás dentro de cien años, cuando alguien quiera saber qué les importaba a los taiwaneses en 2026, lo que lean será lo que este arrecife dejó atrás.',
+
+    // Dashboard CTA (organism section)
+    'about.organism.dashboard.cta': 'Abrir panel de monitoreo en tiempo real',
+    'about.organism.dashboard.desc':
+      'Monitorea en tiempo real las señales vitales, las puntuaciones de salud, la cobertura de traducción y la línea de tiempo de crecimiento.',
     'about.press.cna': 'CNA 中央社',
     'about.press.cna.title':
       'De TSMC a las Tías de la Tienda de Desayuno: La Base de Conocimiento Taiwan.md Cuenta la Historia de Taiwán en la Era de la IA',

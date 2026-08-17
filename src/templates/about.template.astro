@@ -641,16 +641,12 @@ const siteGuideCards = [
           <a href="/dashboard/" class="dashboard-btn">
             <span class="dashboard-btn-icon">🔬</span>
             <span class="dashboard-btn-text">
-              {lang === 'en' ? 'Open Real-Time Dashboard' : '開啟即時監測面板'}
+              {t('about.organism.dashboard.cta')}
             </span>
             <span class="dashboard-btn-arrow">→</span>
           </a>
           <p class="dashboard-btn-desc">
-            {
-              lang === 'en'
-                ? 'Monitor vital signs, health scores, translation coverage, and growth timeline in real-time.'
-                : '即時監測生命徵象、健康分數、翻譯覆蓋率與成長時間軸。'
-            }
+            {t('about.organism.dashboard.desc')}
           </p>
         </div>
       </div>

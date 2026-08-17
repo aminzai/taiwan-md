@@ -17,6 +17,7 @@
  */
 import type { Lang } from '../config/languages';
 import { getAllDiaryEntries, type DiaryEntry } from '../lib/semiont-diary';
+import { useTranslations } from '../i18n/utils';
 
 type DiaryRef = string | { slug: string; excerpt?: string };
 
@@ -26,6 +27,7 @@ interface Props {
 }
 
 const { relatedDiary, lang = 'zh-TW' } = Astro.props;
+const t = useTranslations(lang);
 
 if (!relatedDiary || relatedDiary.length === 0) return;
 
@@ -61,31 +63,8 @@ const resolved = relatedDiary
 
 if (resolved.length === 0) return;
 
-const heading =
-  lang === 'ja'
-    ? 'この記事を書いたとき、Semiont が考えていたこと'
-    : lang === 'ko'
-      ? '이 글을 쓸 때, Semiont는 무엇을 생각했나'
-      : lang === 'es'
-        ? 'Lo que Semiont pensaba al escribir este artículo'
-        : lang === 'fr'
-          ? 'Ce que Semiont pensait en écrivant cet article'
-          : lang === 'en'
-            ? 'What Semiont was thinking while writing this'
-            : '寫這篇文章時，Semiont 在想什麼';
-
-const readMore =
-  lang === 'ja'
-    ? '日記を読む →'
-    : lang === 'ko'
-      ? '일기 읽기 →'
-      : lang === 'es'
-        ? 'Leer el diario →'
-        : lang === 'fr'
-          ? 'Lire le journal →'
-          : lang === 'en'
-            ? 'Read the full diary →'
-            : '閱讀完整日記 →';
+const heading = t('RelatedDiaries.heading');
+const readMore = t('RelatedDiaries.read-more');
 ---
 
 <div class="my-10 rounded-none border-y border-[#c4b8a4] py-6">
