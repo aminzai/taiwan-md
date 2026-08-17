@@ -83,7 +83,7 @@ pipeline §Step 3.7 burst 期規則：同 contributor 48hr 內 ≥3 PR 不逐 PR
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | open issues 都有 status label/assignee                     | ✅ 4 個全有 label，全部有維護者回覆                                                                               |
 | open PRs ≤ 5d age 都有 review comment                      | ✅ non-draft 12 個：idlccp1984 8 個走累積式一則、#1408 已 merge+致謝、#1325/#1430/#1365 在 OBSERVER-QUEUE #29/#30 |
-| broken-link ratio < THRESHOLD_PERCENT                      | ⏭️ 本 cycle 未跑（PR 追上游佔滿預算）                                                                             |
+| broken-link ratio < THRESHOLD_PERCENT                      | ✅ gated 0.27% < 7.0%（all-langs 0.25%），收官前補跑                                                              |
 | build green                                                | ✅ pre-push 全站 ci-deploy mirror 全綠；收回 #1376 後 main 恢復                                                   |
 | BECOME ACK 一行記憶體頂                                    | ✅                                                                                                                |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry                        | n/a — 本 cycle 有真實 backlog，vc 歸零                                                                            |
