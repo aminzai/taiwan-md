@@ -332,6 +332,7 @@ function scanFile(file) {
   });
 
   // 逐條目：語意層。同行與折行（key 一行、值下一行）都當一個條目看（v3）。
+  const keysByLang = new Map();
   lang = null;
   for (let i = 0; i < lines.length; i++) {
     const h = LANG_HEADER.exec(lines[i]);
@@ -342,6 +343,8 @@ function scanFile(file) {
     if (!lang) continue;
     const entry = entryAt(lines, i);
     if (!entry) continue;
+    if (!keysByLang.has(lang)) keysByLang.set(lang, new Set());
+    keysByLang.get(lang).add(entry.key);
     if (entry.span === 2) i += 1; // 值那一行已經吃掉
     const valueLine = lines[entry.line - 1];
     if (isQuotedEvidence(valueLine)) continue;
@@ -402,6 +405,32 @@ function scanFile(file) {
       infos.push({ kind: 'EDGE_BILINGUAL', ...base });
     }
   }
+  // 7. KEY_PARITY — 某語言少了 zh-TW 有的 key。⚠️ 警示級。
+  //
+  // 為什麼是警示不是硬擋：全庫既有缺口就有幾百個（budget.* 只有 zh/en、
+  // about.timeline 的 2026-07-26 與 08-11 兩則在 8 個語言缺席），硬擋等於第一天
+  // 就紅。但這個數字必須看得見——2026-08-17 一隻 subagent 為了驗自己新加的 key
+  // 有沒有 12 語齊全，被迫自己用 vite ssrLoadModule 現造一把尺（Node ESM 解不了
+  // `ui.ts` 的 extensionless import）。同一份判準每個人各造一次，就是 REFLEXES #83。
+  // 用文字解析而非 import，所以不依賴任何 runtime。
+  const zhKeys = keysByLang.get('zh-TW');
+  if (zhKeys && zhKeys.size) {
+    for (const [l, ks] of keysByLang) {
+      if (l === 'zh-TW') continue;
+      const missing = [...zhKeys].filter((k) => !ks.has(k));
+      if (missing.length)
+        findings.push({
+          kind: 'KEY_PARITY',
+          severity: 'warn',
+          file: rel,
+          lang: l,
+          line: 0,
+          chars: `缺 ${missing.length} 個 key`,
+          text: missing.slice(0, 3).join(' / '),
+        });
+    }
+  }
+
   return { findings, infos };
 }
 
@@ -479,14 +508,26 @@ if (asJson) {
     console.log(`\n總計 ${hard.length} 筆真陽性`);
   }
   if (warns.length) {
-    console.log(
-      `\n## ⚠️ CJK_FRAGMENT（${warns.length}，警示級${strict ? '，--strict 下算 fail' : '，不擋 push'}）\n`,
-    );
-    printList(warns);
-    console.log(
-      '\n  非 CJK 語言的句子中間夾著漢字碎片：讀者讀得到前後、讀不到中間那幾個字。' +
-        '\n  幾乎都是翻到一半掉回中文，修法是把那幾個字翻成該語言。',
-    );
+    // 警示級要按 kind 分開印。⚠️ 別偷懒共用一個標題：v3 首版把 KEY_PARITY 的命中
+    // 印在「CJK_FRAGMENT」的大標底下，讀報告的人會拿著錯的病名去修。
+    const WARN_NOTE = {
+      CJK_FRAGMENT:
+        '  非 CJK 語言的句子中間夾著漢字碎片：讀者讀得到前後、讀不到中間那幾個字。\n' +
+        '  幾乎都是翻到一半掉回中文，修法是把那幾個字翻成該語言。',
+      KEY_PARITY:
+        '  某語言少了 zh-TW 有的 key → 該處靜默 fallback 到 FALLBACK_CHAIN 的下一個語言，\n' +
+        '  讀者看到的是別人的語言而不是錯誤。全庫既有缺口就有幾百個，所以只印不擋；\n' +
+        '  但**新加的 key 一定要 12 語齊全**，不然你剛補的洞會以另一種面貌留在原地。',
+    };
+    const byWarn = {};
+    for (const f of warns) (byWarn[f.kind] ||= []).push(f);
+    for (const [kind, list] of Object.entries(byWarn)) {
+      console.log(
+        `\n## ⚠️ ${kind}（${list.length}，警示級${strict ? '，--strict 下算 fail' : '，不擋 push'}）\n`,
+      );
+      printList(list);
+      if (WARN_NOTE[kind]) console.log('\n' + WARN_NOTE[kind]);
+    }
   }
   if (infos.length) {
     if (verbose) {

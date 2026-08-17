@@ -248,12 +248,40 @@ function langAliases(text) {
   return out;
 }
 
-/** 把字串字面值換成佔位符，讓 ?: 計數不被字串裡的標點干擾 */
+/**
+ * 把字串字面值換成佔位符，讓 ?: 計數不被字串裡的標點干擾。
+ *
+ * ⚠️ 一定要單趟逐字掃，不能三個 regex 依序 replace。三趟版本會這樣壞掉：
+ * 遇到 `"OSM's community-edited data"` 時，第一趟的單引號 regex 從 `'s` 那個撇號
+ * 開始配對，一路吃到後面某個不相關的單引號，把中間的 `?` 或 `:` 一起吞掉——於是
+ * 那個三元式的 default 分支被誤判成「不是 default」，**整條漏抓**。
+ * taiwan-shape 裡 OpenStreetMap 與 g0v.tw 兩條就是這樣躲過首掃的（2026-08-17
+ * 由一隻 subagent 追出來報回；假陰性比假陽性難發現，因為沒有東西可以懷疑）。
+ */
 function blankStrings(s) {
-  return s
-    .replace(/'(?:\\.|[^'\\])*'/g, "'∎'")
-    .replace(/"(?:\\.|[^"\\])*"/g, '"∎"')
-    .replace(/`(?:\\.|[^`\\])*`/g, '`∎`');
+  let out = '';
+  let quote = null;
+  for (let i = 0; i < s.length; i++) {
+    const c = s[i];
+    if (quote) {
+      if (c === '\\') {
+        i++; // 跳過被轉義的字元
+        continue;
+      }
+      if (c === quote) {
+        out += `∎${c}`;
+        quote = null;
+      }
+      continue; // 字串內容整段丟掉
+    }
+    if (c === "'" || c === '"' || c === '`') {
+      quote = c;
+      out += c;
+      continue;
+    }
+    out += c;
+  }
+  return out;
 }
 
 /**
