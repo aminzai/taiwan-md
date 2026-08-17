@@ -19,6 +19,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import * as OpenCC from 'opencc-js';
+import { TW_ACCEPTED_VARIANTS as twVariants } from './lib/tw-variant-chars.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TERM_DIR = path.resolve(__dirname, '../../data/terminology');
@@ -27,14 +28,17 @@ const t2s = OpenCC.Converter({ from: 't', to: 'cn' }); // 繁→簡（判 candid
 
 // 判「台灣欄含簡體字」不能只看 OpenCC 有沒有轉換：台灣標準本來就用一批「簡體長相」的
 // 字（游/台/表/污/群/吃/峰/床…），OpenCC 會硬把它們「更正」成 遊/臺/錶/汙/羣/喫/峯/牀
-// 造成大量誤報（全庫實測這類 dual-status 字有 12 種、真外洩只有「乌」1 種）。
+// 造成大量誤報。
 //
 // 正解：程式化判 candidate（s2t(C)≠C 且 t2s(C)==C ⇒ C 是某簡繁對的簡體側），再扣掉
-// 「台灣標準採用的 dual-status 白名單」。白名單由全庫 taiwan 欄實際出現的 candidate 反推
-// （2026-07-10），台灣人真的會這樣寫、不算外洩。留一點常見 dual-status 字前瞻。
-const TW_ACCEPTED_VARIANTS = new Set(
-  Array.from('群里吃台峰托雇床霉游秘采布污表制复范志于后系着克涂松咨采夹'),
-);
+// 「台灣標準採用的 dual-status 白名單」。
+//
+// 2026-08-17：白名單從本檔搬到 scripts/tools/lib/tw-variant-chars.mjs 當 SSOT。
+// 原因是 check-ui-language.mjs 也需要同一份判準，兩邊各自維護一份就是 REFLEXES #83
+// 「一個判準散成兩把尺」——而且實際發生了：那支用 knowledge/ 939 篇語料重校後多了
+// 20 個台灣標準用字（占／岩／斗／杰⋯），這支還停在 v1 的 12 個。詞庫欄位是台灣中文，
+// 用中文區塊那份（放寬版）。校準紀錄與加字判準寫在該模組檔頭。
+const TW_ACCEPTED_VARIANTS = twVariants;
 function leakedSimplifiedChars(s) {
   const out = [];
   for (const c of s) {

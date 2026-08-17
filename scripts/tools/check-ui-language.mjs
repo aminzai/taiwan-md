@@ -83,6 +83,10 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import * as OpenCC from 'opencc-js';
+import {
+  TW_ACCEPTED_VARIANTS,
+  NON_CJK_ACCEPTED_VARIANTS,
+} from './lib/tw-variant-chars.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '../..');
@@ -91,13 +95,8 @@ const I18N_DIR = path.join(ROOT, 'src/i18n');
 const s2t = OpenCC.Converter({ from: 'cn', to: 't' });
 const t2s = OpenCC.Converter({ from: 't', to: 'cn' });
 
-// 台灣標準採用的 dual-status 字（跟 terminology-charcheck.js 同一份，勿各自維護）
-const TW_ACCEPTED_VARIANTS = new Set(
-  Array.from('群里吃台峰托雇床霉游秘采布污表制复范志于后系着克涂松咨采夹'),
-);
-
-// 正體本字，OpenCC candidate 判定的已知誤判（2026-08-11 全庫實測反推）
-const TRADITIONAL_FALSE_POSITIVES = new Set(Array.from('栗粽岳郁凶'));
+// 白名單住 scripts/tools/lib/tw-variant-chars.mjs（跟 terminology-charcheck.js 共用同一份
+// SSOT，含校準語料與加字判準）。中文區塊放寬、非中日韓區塊維持嚴格——見該檔 §分區設計。
 
 // 逐字引用 PRC 模型拒答訊息——是證據不是外洩
 const QUOTED_EVIDENCE = ['无法给到相关内容', '我无法'];
@@ -266,12 +265,15 @@ function isEdgeBilingual(value, lang) {
   );
 }
 
-function leakedSimplified(str) {
+function leakedSimplified(str, lang) {
+  // 中文區塊放寬（作者在合法書寫台灣中文／引用外語來源標題／寫真人姓名），
+  // 非中日韓區塊維持嚴格（那裡的「湾」「国」幾乎都是譯文掉回中文）。
+  const allow =
+    lang === 'zh-TW' ? TW_ACCEPTED_VARIANTS : NON_CJK_ACCEPTED_VARIANTS;
   const out = [];
   for (const c of str) {
     if (!CJK_RE.test(c)) continue;
-    if (TW_ACCEPTED_VARIANTS.has(c) || TRADITIONAL_FALSE_POSITIVES.has(c))
-      continue;
+    if (allow.has(c)) continue;
     if (s2t(c) !== c && t2s(c) === c) out.push(c);
   }
   return out;
@@ -315,7 +317,7 @@ function scanFile(file) {
     if (isQuotedEvidence(line)) return;
 
     if (!SKIP_SIMPLIFIED.has(lang)) {
-      const chars = leakedSimplified(line);
+      const chars = leakedSimplified(line, lang);
       if (chars.length) {
         findings.push({
           kind: 'SIMPLIFIED_LEAK',
@@ -458,11 +460,15 @@ function printList(list) {
 }
 
 if (asJson) {
-  console.log(JSON.stringify({ findings, infos: verbose ? infos : undefined }, null, 2));
+  console.log(
+    JSON.stringify({ findings, infos: verbose ? infos : undefined }, null, 2),
+  );
 } else {
   console.log('# UI 字串語言閘門\n');
   if (!hard.length) {
-    console.log('✅ 無簡體外洩、無整串未譯、無該語言讀不到的漢字、字串表與語言註冊表同步');
+    console.log(
+      '✅ 無簡體外洩、無整串未譯、無該語言讀不到的漢字、字串表與語言註冊表同步',
+    );
   } else {
     const byKind = {};
     for (const f of hard) (byKind[f.kind] ||= []).push(f);
@@ -484,7 +490,9 @@ if (asJson) {
   }
   if (infos.length) {
     if (verbose) {
-      console.log(`\n## ℹ️ EDGE_BILINGUAL（${infos.length}，雙語標示，僅列出）\n`);
+      console.log(
+        `\n## ℹ️ EDGE_BILINGUAL（${infos.length}，雙語標示，僅列出）\n`,
+      );
       printList(infos);
     } else {
       console.log(
