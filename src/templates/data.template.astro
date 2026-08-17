@@ -12,6 +12,8 @@ import {
   sectorColors,
 } from '../utils/dataConfig';
 import contentStats from '../data/content-stats.json';
+import ly from '../data/ly-budget.json';
+import { fmtYi, fmtPct } from '../utils/budgetViz';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -24,6 +26,18 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
 
 // Get categories from centralized config
 const dataCategories = getCategories(t);
+
+// Budget teaser section — three numbers pulled live from the /budget SSOT
+// (src/data/ly-budget.json), same derivation as src/templates/budget.template.astro
+// so the two pages never disagree.
+const budgetYears = ly.years;
+const budgetLatest = budgetYears[budgetYears.length - 1];
+const budgetFirst = budgetYears[0];
+const budgetCuts115 = (ly.cuts as any)['115'];
+const budgetGrowth =
+  budgetLatest.legal && budgetFirst.legal
+    ? ((budgetLatest.legal - budgetFirst.legal) / budgetFirst.legal) * 100
+    : null;
 ---
 
 <Layout
@@ -572,6 +586,65 @@ const dataCategories = getCategories(t);
         <div class="explore-more">
           <a href={translatePath('/companies')} class="explore-link">
             {t('data.enterprise.exploreLink')}
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Central Budget Teaser -->
+    <section class="budget-section" id="budget">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="story-intro">
+        <h2 class="section-title">{t('data.budget.teaser.title')}</h2>
+        <div class="story-text">
+          <p>{t('data.budget.teaser.story.p1')}</p>
+          <p>{t('data.budget.teaser.story.p2')}</p>
+        </div>
+      </div>
+
+      <div class="insights">
+        <div class="insight-grid">
+          <div class="insight-card">
+            <div class="insight-number">
+              {fmtYi(budgetLatest.legal, lang)}
+            </div>
+            <div class="insight-label">
+              {t('data.budget.teaser.card1.label')}
+            </div>
+            <div class="insight-detail">
+              {t('data.budget.teaser.card1.detail')}
+            </div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">
+              {fmtYi(budgetCuts115.cut, lang)}
+              <small>{fmtPct(-budgetCuts115.cut_pct, 1)}</small>
+            </div>
+            <div class="insight-label">
+              {t('data.budget.teaser.card2.label')}
+            </div>
+            <div class="insight-detail">
+              {t('data.budget.teaser.card2.detail')}
+            </div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">
+              {budgetGrowth === null ? '—' : fmtPct(budgetGrowth, 0)}
+            </div>
+            <div class="insight-label">
+              {t('data.budget.teaser.card3.label')}
+            </div>
+            <div class="insight-detail">
+              {t('data.budget.teaser.card3.detail')}
+            </div>
+          </div>
+        </div>
+        <div class="explore-more">
+          <a href={translatePath('/budget')} class="explore-link">
+            {t('data.budget.teaser.cta')}
           </a>
         </div>
       </div>
@@ -1162,6 +1235,12 @@ const dataCategories = getCategories(t);
 
     /* Enterprise Section */
     .companies-section {
+      padding: 2rem 0 4rem;
+    }
+
+    /* Budget Teaser Section — reuses .story-intro / .insights / .insight-card
+       from the Enterprise section above; only the section padding is new. */
+    .budget-section {
       padding: 2rem 0 4rem;
     }
 

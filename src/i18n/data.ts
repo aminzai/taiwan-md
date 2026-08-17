@@ -284,6 +284,24 @@ export const dataUI = {
       'Post-consolidation, financial sector provides stability',
     'data.enterprise.exploreLink': 'View full ranking →',
 
+    // Budget Teaser Section
+    'data.budget.teaser.title':
+      '💰 Budget Decade — How Taiwan Splits Its NT$3 Trillion',
+    'data.budget.teaser.story.p1':
+      "Taiwan's FY2026 central budget passed its third reading on August 14 — the latest ever recorded. Legal spending has grown from NT$1.98T to NT$2.99T over the decade.",
+    'data.budget.teaser.story.p2':
+      "This page draws on DGBAS's own tables, broken into nine areas, with a source data table behind every chart — so every number traces back to where it came from.",
+    'data.budget.teaser.card1.label': 'FY2026 legal expenditure',
+    'data.budget.teaser.card1.detail':
+      'Up from NT$1.98T a decade earlier, in FY2016',
+    'data.budget.teaser.card2.label': 'Cut by the Legislative Yuan',
+    'data.budget.teaser.card2.detail':
+      "Heads' special allowances, overseas travel and media publicity took the deepest cuts",
+    'data.budget.teaser.card3.label': 'Ten-year growth',
+    'data.budget.teaser.card3.detail':
+      'Legal expenditure grew more than 50% from FY2016 to FY2026',
+    'data.budget.teaser.cta': 'See the full Budget Decade →',
+
     // Taiwan vs World Section
     'data.taiwanVsWorld.title': "🌏 Taiwan's Position in the World",
     'data.taiwanVsWorld.story.p1':
@@ -4744,6 +4762,22 @@ export const dataUI = {
     'data.enterprise.insights.card4.label': '金融業入榜前 50',
     'data.enterprise.insights.card4.detail': '金控整併後的穩定力量',
     'data.enterprise.exploreLink': '查看完整排名 →',
+
+    // Budget Teaser Section
+    'data.budget.teaser.title': '💰 總預算十年：政府怎麼分三兆元',
+    'data.budget.teaser.story.p1':
+      '115 年度中央政府總預算今年 8 月 14 日才三讀，創下歷來最晚紀錄；法定歲出十年間從 1.98 兆一路長到 2.99 兆。',
+    'data.budget.teaser.story.p2':
+      '這頁用主計總處第一手資料表，拆成九個區塊看錢的去向；每張圖都附原始資料表，看得到源頭也看得到明細。',
+    'data.budget.teaser.card1.label': '115 年度法定歲出',
+    'data.budget.teaser.card1.detail': '十年前，105 年度只有 1.98 兆',
+    'data.budget.teaser.card2.label': '立法院減列',
+    'data.budget.teaser.card2.detail':
+      '首長特別費、國外旅費與媒體宣傳費是刪減重點',
+    'data.budget.teaser.card3.label': '十年增幅',
+    'data.budget.teaser.card3.detail':
+      '105 年度到 115 年度，法定歲出成長逾五成',
+    'data.budget.teaser.cta': '看完整總預算十年 →',
 
     // Taiwan vs World Section
     'data.taiwanVsWorld.title': '🌏 台灣在世界的位置',
