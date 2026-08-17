@@ -174,6 +174,21 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分、誰在長、立法院砍在哪、錢有沒有花掉
+
+- **Type**: `NEW`
+- **Category**: Politics
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-08-17 by 2026-08-17-173659-budget-page session（EVOLVE Mode 4 定案方案 D：/budget 頁講圖，文章講故事，走 REWRITE-PIPELINE 帶腳註、babel 翻 12 語）
+- **Notes**:
+  - 資料層現成：`src/data/ly-budget.json`（十一年度機關別／政事別／執行率／刪凍／事件，逐筆帶來源）＋ 四份研究報告 `reports/research/2026-08/ly-budget-research-{A,B,C,D}.md`（已過 agent-report-health）
+  - 立體群像：府會同黨九年刪減比例窄帶（1.0–1.25%）→ 114 年度 6.62% → 115 年度 1.58% 但三讀拖到 8/14；文化部媒宣費 4,738 萬連兩年歸零；國防 9,495 億 vs 政事別 5,488 億的口徑教學；執行率 97–98% 與分母故事
+  - 政治題：雙方具名並排（李遠／視盟 vs 張雅屏／在野付委條件），評價詞歸屬說話者，不裁決（MANIFESTO §自主權邊界）
+  - 缺口待補：原民會／客委會媒體費、憲法法庭、華視數字；卓榮泰不副署財劃法（2025-12-15）一手連結；115 年度三讀後機關別法定表（主計總處上架後重跑 builder）
+  - 文章內視覺化用 tw-line／tw-stack／tw-bars 模組（graph.md），不重造 /budget 的 SVG
+- **Reference**: [reports/design-ly-budget-page-2026-08-17.md](../../reports/design-ly-budget-page-2026-08-17.md) §四 方案 D、§三 研究綜整
+
 ### 支語誤判學 NEW — 流傳清單錯誤率不低，六型誤判＋官方辭典自身矛盾的誠信切角
 
 - **Type**: `NEW`
