@@ -67,10 +67,17 @@ def _files_from_pr(pr: int) -> list[Path]:
     for line in r.stdout.splitlines():
         line = line.strip()
         if line.startswith("knowledge/") and line.endswith(".md"):
-            # only zh-TW root categories
+            # only zh-TW root categories（含落在 knowledge/ 根目錄的投稿檔——
+            # 2026-08-18 之前 len(parts) >= 3 把 knowledge/啾啾鞋.md 這種路徑錯位檔
+            # 靜默濾掉，整支工具印 usage exit 2，看起來像用法錯不像 PR 沒檔案；
+            # 路徑錯位本身是 heal 要處理的病，不能在入口就看不見）
             parts = Path(line).parts
-            if len(parts) >= 3 and parts[1] not in {"en", "ja", "ko", "es", "fr"}:
+            if len(parts) == 2:
                 paths.append(Path(line))
+            elif len(parts) >= 3 and parts[1] not in {"en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru", "de", "all"}:
+                paths.append(Path(line))
+    if not paths:
+        print(f"⚠️ PR #{pr} 沒有 zh-TW knowledge/*.md 檔可 heal（只有譯文／非 knowledge 檔？）", file=sys.stderr)
     return paths
 
 
