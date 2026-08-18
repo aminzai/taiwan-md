@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-18
-last_session: '2026-08-18-061508-twmd-data-refresh-am'
+last_session: '2026-08-18-144749-academia-sinica'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-18 | 070912-twmd-feedback-triage | 全批只有一筆而它就是第五次攔下的第三人指控信，零轉錄；對賬 76/76 與 75/76，收下維護者在 #1440 的回覆 | HG13 守的是攔一筆的副作用，不讓保管那半跟著關掉 | [→](memory/2026-08-18-070912-twmd-feedback-triage.md) |
 | 2026-08-18 | 091153-twmd-maintainer-am | idlccp1984 卡四天的七篇全數 merge；iigmir 聲景補四語並把在選參選人改通稱；德文兩批 59 檔補登併案並回覆 tboydar | 在投稿者分支上讀工具，量到的是我們昨天的樣子 | [→](memory/2026-08-18-091153-twmd-maintainer-am.md) |
 | 2026-08-18 | 073025-chen-chih-chung-rewrite | 陳致中從 AI 投稿 stub（1,511 字／0 圖）走完 v9 七站產線到 7,760 字 62 腳註並 ff 上線；spine 與私德邊界由哲宇拍板 | 我把論證形狀架在跟當事人本人申辯相同的結構上，只有乾淨 context 的席位看得見 | [→](memory/2026-08-18-073025-chen-chih-chung-rewrite.md) |
+| 2026-08-18 | 144749-academia-sinica | 中央研究院從無到有走完 v9 七站並 ship（7,873 字／56 腳註）；兩個 H2 各站在一個編造或無源的數字上，滿分溯源率沒攔下；順修 research-report-health §8 起點 bug | 收件 gate 驗的是來源行有沒有帶 URL，不是引文在不在那個 URL 裡 | [→](memory/2026-08-18-144749-academia-sinica.md) |

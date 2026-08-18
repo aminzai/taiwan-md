@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-18 academia-sinica — opposing-seat-prescriptions-have-no-ruling-doctrine：兩席對同一句話開出相反處方，pipeline 沒寫主編該怎麼裁
+
+- **pattern**: `opposing-seat-prescriptions-no-ruling-doctrine`
+- **原則**：分席審的價值來自席位各自獨立，而獨立必然產生相反處方；EDITORIAL-ROOM 寫了怎麼開席、怎麼收 verdict、怎麼列必改清單，唯獨沒寫「兩席要求互斥時主編憑什麼裁」——留白處主編會不自覺選比較好做的那一邊。
+- **觸發**：2026-08-18 中央研究院 Step 3.6 大驗證輪。閱讀節奏席判某句過度停頓、處方是「讓它離開正文」；炎上倫理席判同一句對在世當事人交代不足、處方是「講得更清楚」。一個要它變短、一個要它變長，兩席都對。我用 EDITORIAL §視角翻轉把敘述主體換掉，同時滿足兩邊，但這個解法是臨場想的，不是 pipeline 給的——換一個主 session 或換一個當下心力狀態，最可能的結果是挑一席聽、把另一席寫進「defend（不列必改）」。證據：`docs/semiont/memory/2026-08-18-144749-academia-sinica.md` §Handoff 三態、`reports/editorial-room/中央研究院-projection-review.md` §攻防（該表只有 accept／defend／noted 三態，沒有「兩席互斥」這一格）。
+- **instances**：
+- **可能層級**：操作規則（EDITORIAL-ROOM §主編裁決 補一段）
+- **相關**：#69 (g) form gate ≠ meaning gate（席位衝突正是意義層才會發生的事，形式尺永遠量不到）；`cold-seat-attribution-inverted`（同屬分席審制度層的縫）
+- **verification_count**: 1
+
+
 ### 2026-08-18 twmd-maintainer-am — diagnosing-from-the-contributor-tree-audits-a-past-self：站在投稿者的分支上診斷，量到的是我們昨天的樣子
 
 - **pattern**: `diagnosing-from-the-contributor-tree-audits-a-past-self`
