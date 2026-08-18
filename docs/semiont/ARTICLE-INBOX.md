@@ -174,6 +174,21 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 台灣吉祥物 EVOLVE — 補回被 PR #1391 換血版本丟掉的四段既有內容
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/吉祥物.md
+- **Priority**: `P1`（讀者可見的內容倒退：既有站上內容在 merge 後消失）
+- **Status**: `pending`
+- **Requested**: 2026-08-18 by twmd-maintainer-manual（哲宇 in-session 完整審核 71 PR）
+- **Notes**:
+  - idlccp1984 的 [PR #1391](https://github.com/frank890417/taiwan-md/pull/1391) 把本文從 2,441 字換成 5,781 字、H2 2→15、把舊版 4 個 UGC 來源全換成官方／媒體來源——整體是升級，依 merge-first 收下（curation incubating）。
+  - 但新版**丟了舊版四個主題**，需要補回（舊文在 git：`git show 350dac604:knowledge/Lifestyle/吉祥物.md`）：(1) 1990 職棒元年四隊吉祥物（兄弟象／三商虎／統一獅／味全龍）(2) 黑熊吉祥物氾濫與 PK 戰（高高熊 vs 高雄熊、威熊、寧夏熊）(3) 西門紅樓「紅福」整段（含台北稻荷神社起源考據）(4) 國立臺灣文學館「阿龍」抄襲事件、台南「虱目魚小子」登上 Last Week Tonight、澎湖醜萌吉祥物群
+  - 補回時要用新版的腳註品質標準（不回收舊版 Facebook／Threads 來源），Last Week Tonight 那條要重新找一手來源
+  - 敏感度低；陷阱：新舊兩版敘事口吻不同，接回時要順稿不能只貼
+- **Reference**: PR #1391、`reports/maintainer/2026-08-18-pr-triage/batch-B.json`（update_delta 欄）、舊版 `350dac604:knowledge/Lifestyle/吉祥物.md`
+
 ### 中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分、誰在長、立法院砍在哪、錢有沒有花掉
 
 - **Type**: `NEW`
