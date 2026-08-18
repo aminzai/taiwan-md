@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 91 條 #N 反射（last #91�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.23'
-last_updated: 2026-08-16
-last_session: '2026-08-16-twmd-self-evolve-weekly（加 #91：建造與登記是兩個不同步的代謝，落差不會自己被發現 vc=4——DIARY §反覆出現的思考四次獨立浮現，跟 #86/#88/#89 同屬登記層家族，收斂為通用陳述）'
+current_version: 'v5.24'
+last_updated: 2026-08-18
+last_session: '2026-08-18-164330-twmd-maintainer-manual（#67 環境層變體加第三例「寫入面」vc=3：8/14 session 從過期工作樹副本 Write 回 MAINTAINER-PIPELINE，靜默砍掉 v2.7 §1c 四天無人發現；候選修法 canonical 版本單調不降 pre-commit 尺）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -286,7 +286,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 **#67 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論**（2026-06-13 refactor-article 升 canonical vc=1，2026-08-09 twmd-self-evolve-weekly 加 routine-infra 「已同步」claim 變體 vc=4，severity=structural）— 任何「X 已優化 / 已修 / 已確認 / 已同步」的審計或驗證結論，記錄的是它被驗那一刻的狀態，不會自己更新。引用一份三天前的 audit 當「現在的事實」，等於把過期快照當即時量測。高 stake decision（效能 regression / 安全 gate / 架構假設 / routine 三層 SSOT 同步）前，重驗要用 runtime probe（counter / console / 實測 / 跑對賬工具），不靠讀碼推論或舊報告、也不靠 changelog 文字宣稱。
 
-- **子規則：環境層變體 — 工作樹本身可以是過期快照，不只是結論會過期**（2026-08-14 twmd-maintainer-pr-triage，2026-08-15 twmd-maintainer-workshop-pr 跨日第二例）：本條原本五條規則全部針對「引用的結論」會過期，預設「你手上的檔案系統是現況」。當 session 跑在一棵跟 origin 分歧的工作樹上時，這個預設不成立——`git grep`、`ls`、`cat`、`node -p require(...)`、`node_modules` 全部同時退化成歷史快照，而它們回答問題的語氣跟平常一模一樣，沒有任何一句話提醒你量的是幾天前。舊結論至少還帶著日期可以懷疑；**舊的檔案系統連可懷疑的表面都沒有**。觸發：本機 `main` 落後 `origin/main` 135-164 個 commit（babel 產線長期佔用工作樹），同一 session 內連撞三次「git grep 回不存在」「require 回缺 script」「symlink 的 node_modules 回 ERR_MODULE_NOT_FOUND」，全部靠 `git show origin/main:<path>` 重驗才發現自己在量歷史。已 ship：`check-parallel-actor.sh` 的 `REMOTE_AHEAD` 分支加印落後 commit 數 + 讀取層警告；**尚未解決**：訊號存在但不在必經路徑上——BECOME 甦醒流程不含這一步，第二例是在修法 ship 後隔天、觀察者直接 directive 進場（未跑 routine 入口）踩中同一個洞，且因此讀不到過期的 `LESSONS-INBOX.md` 而漏踩另一條剛寫的教訓。候選修法：把 `REMOTE_AHEAD` 檢查掛進 BECOME Universal core（wake-context groundtruth 段已印 origin 最新 commit 時間，但沒印落後數）。
+- **子規則：環境層變體 — 工作樹本身可以是過期快照，不只是結論會過期**（2026-08-14 twmd-maintainer-pr-triage，2026-08-15 twmd-maintainer-workshop-pr 跨日第二例）：本條原本五條規則全部針對「引用的結論」會過期，預設「你手上的檔案系統是現況」。當 session 跑在一棵跟 origin 分歧的工作樹上時，這個預設不成立——`git grep`、`ls`、`cat`、`node -p require(...)`、`node_modules` 全部同時退化成歷史快照，而它們回答問題的語氣跟平常一模一樣，沒有任何一句話提醒你量的是幾天前。舊結論至少還帶著日期可以懷疑；**舊的檔案系統連可懷疑的表面都沒有**。觸發：本機 `main` 落後 `origin/main` 135-164 個 commit（babel 產線長期佔用工作樹），同一 session 內連撞三次「git grep 回不存在」「require 回缺 script」「symlink 的 node_modules 回 ERR_MODULE_NOT_FOUND」，全部靠 `git show origin/main:<path>` 重驗才發現自己在量歷史。已 ship：`check-parallel-actor.sh` 的 `REMOTE_AHEAD` 分支加印落後 commit 數 + 讀取層警告；**尚未解決**：訊號存在但不在必經路徑上——BECOME 甦醒流程不含這一步，第二例是在修法 ship 後隔天、觀察者直接 directive 進場（未跑 routine 入口）踩中同一個洞，且因此讀不到過期的 `LESSONS-INBOX.md` 而漏踩另一條剛寫的教訓。候選修法：把 `REMOTE_AHEAD` 檢查掛進 BECOME Universal core（wake-context groundtruth 段已印 origin 最新 commit 時間，但沒印落後數）。 **第三例：寫入面（2026-08-18 twmd-maintainer-manual 補驗，vc=3）**——前兩例都是「讀到過期」，8/14 pr1336-review session 是**從過期副本寫回去**：它在自記「分歧工作樹上檔案系統本身就是過期快照」的同一天，把 `MAINTAINER-PIPELINE.md` 的過期副本加上 Step 1.5b 後 Write 回 canonical（`539d9495d`），靜默把 8/11 哲宇 directive 的 v2.7 §1c／Step 3.6 五步／quality gate 第 7 條／frontmatter 全砍回 v2.6。四天無人發現：skill 殼仍指 §1c、routine-sync 三層對賬只比 cron mirror↔skill↔ROUTINE.md 不比 pipeline canonical、frontmatter `current_version` 降版沒有任何尺在看。8/18 manual 是在讀 v2.8 改動位置時撞見 §1c 缺席，`git log -S'### 1c'` 才追到。**寫入面比讀取面更貴**：讀錯只讓一個 session 帶盲點，寫錯讓 canonical 本身退化，之後每個 session 都帶著同一個洞醒來。候選修法（儀器）：pre-commit 對 `docs/**` canonical 檔比對 frontmatter `current_version` vs `HEAD:` 版本，降版即 fail-loud（counts-drift lint 已有「canonical frontmatter 新鮮度」維度，加「單調不降」一維）。
 
 - **規則**：(a) 引用「X 已驗過」的結論時標被驗的日期 + 方法；跨 ≥3 天或跨 session 的高 stake 引用必須重驗 (b) `.astro` / 大型元件「cache 是否生效」一律 runtime probe（如 buildGitInfoCache 加 console counter + dev server 同頁 request N 次）；「有 cache」是 binary 描述，cache「在正確 scope 生效」要 probe 才知道 (c) audit 報告的「已修 / 已確認」結論在引用前先對現碼 grep verify，不憑記憶 (d) **pipeline / routine changelog 寫「已同步 N 層」時，該宣稱本身是下一次讀者的線索不是事實**（2026-08-09 新增）——寫下這行字的那個 session 常常只實際同步了讀寫方便的那一層（如直接改機器上的 live 檔），git SSOT 或 cron mirror 另一層留在舊狀態；下一個引用此 changelog 的 session 必須實跑對應對賬工具（如 `routine-sync.py`）現場驗證，不能把 changelog 的「已同步」當已完成的既定事實繼續往下推論
 - **Boundary**：(a) 低 stake / 可逆操作不需重驗（讀碼推論夠用）(b) 有 CI gate 持續看守的結論（parity / flag_slow 哨兵）可信任 gate 而非每次 probe — 但 gate 自身要先過 #24 第 8 種 self-test

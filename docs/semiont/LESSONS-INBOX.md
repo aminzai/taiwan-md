@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.7'
 last_updated: 2026-08-19
-last_session: '2026-08-19-053717-twmd-embeddings-nightly（新 entry `retyping-shell-substitution-loses-the-substitution` vc=3 直接觸發 pipeline 修補，不等 distill）'
+last_session: '2026-08-19-053717-twmd-embeddings-nightly（新 entry `retyping-shell-substitution-loses-the-substitution` vc=3 直接觸發 pipeline 修補）；同波併入 2026-08-18-164330-twmd-maintainer-manual（三條 maintainer entry 標 ✅ 落 MAINTAINER；open-count 加 draft-as-proxy vc=3；sibling-checks 加 liveness/classifier 同盲例 vc=2；twin-artifact 加 canonical↔薄殼 第六例；shared-tool-quota 加 Wikimedia CDN 429 vc=2）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -379,6 +379,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **為什麼閘門接不住**：worktree 的提示、`check-parallel-actor.sh`、pre-commit 全都只看「有沒有人同時在改」，沒有一支在問「**你現在站的這棵樹，是不是你以為的那棵**」。REFLEXES #67「已驗過帶時間戳」講的是結論要帶時間戳，本條再往前一步：**觀察本身要帶座標**，而 checkout 會靜默改掉座標。
 - **修補候選**：(a) MAINTAINER-PIPELINE Stage 2 加一句「在 PR 分支上讀到疑似工具缺陷時，先 `git log --oneline main -- <該檔>` 對一次，或把檔案帶回 main 樹重跑」；(b) 更省事的做法是把「診斷投稿失敗」的 SOP 直接寫成「把 PR 的內容檔帶進 main 樹跑」而不是「checkout PR 分支」——本 cycle 後半改用這個方式，七篇的真實 blocker 一次就對了。
 - **相關**：REFLEXES #67（已驗過帶時間戳）、#82（proxy signal——樹是「gate 用的樹」的代理）、#73（查證反射 < 建造反射：先動手讀碼、後才想到查 git log）、LESSONS `healer-authors-the-drift-it-validates`（8/17，本條重驗的正是那一條）
+- **✅ 已 instantiate（2026-08-18 twmd-maintainer-manual）**：修補候選 (b) 落 [MAINTAINER-PIPELINE v2.8 §診斷投稿失敗：把 PR 內容檔帶進 main 樹跑，不 checkout PR 分支](../pipelines/MAINTAINER-PIPELINE.md)＋Top-N 第 3 條。同日 68 個 draft PR 的 Phase A 分析全部用 `contributor-pr-heal.py --from-pr N` 帶進 worktree 跑，零 checkout。
 - **verification_count**: 1
 - **severity**: moderate（不壞資料，但會憑空製造已解問題的工單，且推導出的「修補方案」可能指向大規模重構）
 
@@ -390,6 +391,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **這條的價值在於它反駁了自己前一版的結論**：8/13 那筆的處置寫完就結案了，沒有留任何「之後要回來量」的鉤子。如果不是這批 PR 剛好又出現在同一道 gate 下，「Job Summary 已修好」會一直是帳面上的完成狀態。
 - **修補候選**：(a) 對 fork PR 這種留言必定失敗的情境，改用 **PR review**（`pull_request_review` 走的是不同權限面）或在 CI 之外由 maintainer routine 主動代 po 說明留言；(b) 更根本的：`frontmatter-gate` 這類「投稿者自己修得動」的失敗，maintainer cycle 的 default 應該是**直接 push 修補到對方分支**（`maintainerCanModify` 預設為 true），而不是等對方讀懂說明再自己修——本 cycle 七篇就是這樣一次清掉的；(c) 任何「修好說明管道」的處置，收官時要附一個**下次回來量的條件**（下一批同型失敗有沒有下降），否則等於沒有驗收。
 - **相關**：LESSONS `gate-explains-into-a-dead-channel`（8/13，本條是它的成效複驗）、REFLEXES #82（管道存在 ≠ 訊息送達，existence-vs-effect 的溝通層變體）、REFLEXES #52（fail loud 要對著人喊）、MAINTAINER §1b merge-first-then-heal
+- **✅ 已 instantiate（2026-08-18 twmd-maintainer-manual）**：修補候選 (b) 落 [MAINTAINER-PIPELINE v2.8 §1b P1「heal 直接 push 到 PR head 分支」升格式債 default](../pipelines/MAINTAINER-PIPELINE.md)＋§為什麼 P1 是 default 段（含邊界：改格式不改散文）。(c)「修好說明管道要附下次回來量的條件」尚未儀器化，留 buffer。
 - **verification_count**: 1
 - **severity**: moderate（會讓「已修補」的帳面狀態掩蓋掉實際未改善的投稿者體驗）
 
@@ -414,7 +416,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **為什麼是結構性的**：MAINTAINER-PIPELINE §Step 1.3 的指令 `gh pr list --state open --json number,title,author,createdAt,labels,isDraft,...` 其實有抓 `isDraft`，但**分流表沒有任何一列以它為準**，只有 C 路徑（`[node]` PR）那段寫了「Draft = 認領中，不是待審」。也就是說規則存在但只掛在一種 PR 上，一般 contributor PR 沒有那一步。
 - **修補候選**：Stage 1.3 加一句「先分 draft / ready 再報數，backlog 與空場 vc 只計 ready」；或直接把 Stage 1 的 PR 清單指令改成預設 `--draft=false` 並另行單獨報 draft 數。
 - **相關**：REFLEXES #82（proxy signal）、REFLEXES #76（multi-cycle trend window——本條正好是「連續兩 cycle 同一誤讀」才看得出來）、MAINTAINER-PIPELINE §Step 1.3 / §空場 cycle 紀律（vc 計數若含 draft 會同時失真）
-- **verification_count**: 2（8/16 與 8/17 兩個 cycle）
+- **instances**：
+  - 2026-08-18 twmd-maintainer-manual（哲宇 in-session）— 71 open = 68 draft + 3 ready。再往下一層：draft 本身也是代理——這 68 個是 GitHub 網頁「Create pull request ▾」分割鈕**記住上次選擇**的產物（投稿者 8/15 先開 9 個 ready，同日起全部變 draft；body 全是空模板、建立後零更新、三則維護者留言含明講「draft 動不了」零回應、之後仍持續開 draft）。「draft = 投稿者宣告還在寫」這個前提對網頁投稿者不成立，要三個 ground-truth 訊號一起判。→ 落地 MAINTAINER v2.8 §Draft PR 處置 + Step 1.3「先分 ready / draft 再報數」
+- **✅ 已 instantiate（2026-08-18）**：修補候選落 [MAINTAINER-PIPELINE v2.8 Step 1.3](../pipelines/MAINTAINER-PIPELINE.md)（backlog／空場 vc／High-stake #1 只計 ready）＋ §Draft PR 處置。
+- **verification_count**: 3（8/16、8/17 兩個 cycle 誤讀 + 8/18 draft-as-proxy 下一層）
 - **severity**: moderate（不直接壞資料，但會讓維護判斷建立在放大三到六倍的 backlog 上，並污染空場 vc 這個 escalation 依據）
 
 ### 2026-08-17 twmd-feedback-triage — recognition-bound-to-instance-coordinates：辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺
@@ -435,7 +440,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：本輪 Stage 3B（dormant entropy lens）逐條核對本週 LESSONS-INBOX 新增條目時，發現 `doc-and-validator-drift-has-no-reconciler`（8/14 maintainer-am）、`sibling-checks-share-one-blind-premise`（8/14 maintainer-am）、`reflex-exists-but-not-a-step-on-this-line`（8/13 feedback-triage）、`formatter-vs-generator-quote-churn-fakes-scope-alarm`（8/10 feedback-triage）、`fix-scope-follows-symptom-not-root-class`（8/16 maintainer-am）五條各自的「相關」欄互相之間零交叉引用，但五條的「原則」欄壓縮後是同一句話的五種措辭。
 - **可能層級**：通用反射候選，且已有一個現成的近親——REFLEXES #56「Pipeline canonical ↔ production drift = dormant entropy」講的是 pipeline 文件 vs 實際production 的漂移；本條的範圍更廣（不限 pipeline 文件，含檢查器對檢查器、反射目錄對執行步驟、產生器對格式化器），建議 distill 時判斷是本條併入 #56 擴大其範圍，還是另立新號。
 - **相關**：REFLEXES #56（近親，範圍較窄）、REFLEXES #65（same-DNA——檢查器跟被檢查物同作者是本條的一個子案例）、REFLEXES #82（proxy signal）、五條本週原始 entry（見上）
-- **verification_count**: 5（本週窗口內五個獨立 instance，橫跨 2 條 routine；若 distill 判定併入 #56，#56 自身 vc 一併累加）
+- **instances（distill_ready 後續）**：
+  - 2026-08-18 twmd-maintainer-manual — 第六個 instance 而且是最貴的：`docs/pipelines/MAINTAINER-PIPELINE.md`（canonical）vs `.claude/skills/twmd-maintainer/SKILL.md`（薄殼）：8/14 `539d9495d` 把 canonical 從 v2.7 覆寫回 v2.6（8/11 哲宇 directive §1c 整段消失），薄殼仍寫「完整 SOP：MAINTAINER-PIPELINE §1c」。routine-sync 三層對賬比的是 cron mirror↔薄殼↔ROUTINE.md，**pipeline canonical 不在任何對賬的一邊**；frontmatter `current_version` 由 v2.7 降到 v2.6 也沒有尺在看。四天後才由人在讀改動位置時撞見。修法候選同 REFLEXES #67 第三例：canonical 版本單調不降的 pre-commit 尺 ＋ 薄殼引用的 §anchor 存在性檢查（`§1c` 這種引用要能 grep 到 canonical 的 heading）。
+- **verification_count**: 6（本週窗口內五個獨立 instance ＋ 8/18 canonical↔薄殼 一例；若 distill 判定併入 #56，#56 自身 vc 一併累加）
 - **distill_ready**: true（達 REFLEXES #15 vc≥3 儀器化門檻，且是本次 audit 唯一需要跨 routine 視角才看得見的發現）
 - **severity**: moderate-high（單一 instance 成本都不大，但五個同族一週內出現代表閘門/文件維護的結構性缺口，非隨機噪音）
 
@@ -553,7 +560,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   掃全庫發現同型已漏進 6 篇 zh SSOT 與譯文共 50 檔，最早的上站數月無人叫過。
 - **候選處置**：新增檢查時問一句「它跟既有的同族檢查共用什麼前提？如果那個前提錯了，
   誰會叫？」已 ship `gh-footnote-leak`（WARN，存量清完升 HARD）與 `gh-footnote-convert.py`。
-- **vc**: 1
+- **instances**：
+  - 2026-08-18 twmd-maintainer-manual — `routine-audit.py`（分類器）與 `routine-liveness-check.py`（沉默死亡偵測）共用同一個前提「routine 的 commit 標題含它的 handle」。self-evolve-weekly 8/16 04:20 兩個 commit 標題是 `[routine] evolve: …升 REFLEXES #91`／`[routine] heal: 補上自身 commit hash`，memory 檔跟 evolve 同一個 commit——分類器把它算進通用桶（`routine-audit-classifier-memory-commit-misattribution` 第 N 例），liveness 直接判「50.1h 零 git 痕跡」掛黃燈兩天。兩支檢查器都綠不比一支綠可信。**已修**：liveness 改讀 `--name-only` 的 memory 檔名（`YYYY-MM-DD-HHMMSS-{handle}.md` 是 MEMORY-PIPELINE canonical 命名，比 subject 可靠）→ silentDeaths 0，evidence 指到檔名。分類器同一修法待 distill 一併裁（vc=3 entry 已 distill_ready）。
+- **vc**: 2
 
 ### 2026-08-14 twmd-feedback-triage — transcription-gates-guard-fidelity-not-consequence：整條轉錄線的閘門都在問「搬得對不對」，沒有一道在問「搬過去會傷到誰」
 
