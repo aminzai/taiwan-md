@@ -1,8 +1,8 @@
 {
-  "_generated": "2026-08-18T11:54:47+08:00",
+  "_generated": "2026-08-18T14:37:01+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 163,
+    "spores": 164,
     "articles": 77,
     "withMetrics": 151
   },
@@ -9613,6 +9613,26 @@
       "date": "2026-08-18",
       "url": "https://x.com/taiwandotmd/status/2089561276938666168",
       "template": "C 短版（214 字，同角度）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 174,
+      "slug": "budget-總預算十年",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "facebook",
+      "date": "2026-08-18",
+      "url": "https://www.facebook.com/61576525376323/posts/pfbid02iQux9KoUcNtxZHLVdFQ9R2oFXTH8X3EQmauC8XJ3CoUacveZVPKFXoqphTxwbzYwl",
+      "template": "C-FB 粉專版（575 字，同事實池＋九區導覽＋邀請分享）",
       "metrics": {
         "views": null,
         "likes": null,

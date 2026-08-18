@@ -1,5 +1,5 @@
 ---
-spore_number: '#172（Threads）／#173（X）— 2026-08-18 哲宇親發，spore-db.py add-spore 已登記'
+spore_number: '#172（Threads）／#173（X）／#174（Facebook）— 2026-08-18 哲宇親發，spore-db.py add-spore 已登記'
 article: src/pages/budget.astro（/budget 頁，非 knowledge/ 文章；資料 SSOT 是 src/data/ly-budget.json，文案 SSOT 是 src/i18n/budget.ts）
 date: 2026-08-18
 session: 2026-08-18-twmd-spore-budget-decade（sub-agent 草稿，未執行 SHIP）
@@ -358,7 +358,9 @@ _v1 | 2026-08-18 — sub-agent 草稿，依 SPORE-PIPELINE.md 階段 1–3 ＋�
 | --- | --- | --- | --- | --- |
 | 172 | Threads | Version C 全文（440 字，UTM s172） | <https://www.threads.com/@taiwandotmd/post/DcKsP3Co9jm> | `public/spore-images/budget-decade-01..10.png`（gitignored；alt 與設定見同目錄 README） |
 | 173 | X | Version C 短版（214 字，UTM s173） | <https://x.com/taiwandotmd/status/2089561276938666168> | 同上擇取 |
+| 174 | Facebook 粉專 | Version C-FB（575 字，UTM s174） | <https://www.facebook.com/61576525376323/posts/pfbid02iQux9KoUcNtxZHLVdFQ9R2oFXTH8X3EQmauC8XJ3CoUacveZVPKFXoqphTxwbzYwl> | 同一組十張 |
 
 配圖十張定稿順序：01 hero 四張數字卡 → 02 預算七站前四站 → 03 十年河流 → 04 政事別占比堆疊 → 05 機關排序（國防 5,614 vs 文化 273）→ 06 立法院刪減比例 → 07 文化與公共媒體兩年對照 → 08 各機關十年小倍數 → 09 占比斜率＋四大支出成長率 → 10 三種「拖了幾天」。08–10 由 `scripts/tools/page-shots.mjs square`（spec `data/budget/spore-shots.json`）產生；口徑卡與執行率兩張退為 alt 備用（哲宇 8/18 指示）。
 
 _v2 | 2026-08-18 — SHIP 紀錄補上；Version C 為最終稿；spore-log.json #172/#173 已寫。_
+_v3 | 2026-08-18 — FB 粉專版 C-FB 發出，#174 登記（permalink.php?story_fbid 形式轉 canonical /posts/pfbid 形式，spore-db 不收 query string）；三平台同日同事實池。_
