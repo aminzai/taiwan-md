@@ -7179,6 +7179,42 @@
       "comments": 4,
       "shares": 60,
       "source": "harvest"
+    },
+    {
+      "spore": 172,
+      "dPlus": 1,
+      "at": "2026-08-19 06:40",
+      "batch": "batch-2026-08-19-3-spores",
+      "views": 4074,
+      "likes": 266,
+      "reposts": 57,
+      "comments": 9,
+      "shares": 49,
+      "source": "harvest"
+    },
+    {
+      "spore": 173,
+      "dPlus": 1,
+      "at": "2026-08-19 06:40",
+      "batch": "batch-2026-08-19-3-spores",
+      "views": 5918,
+      "likes": 361,
+      "reposts": 125,
+      "comments": 4,
+      "shares": 56,
+      "source": "harvest"
+    },
+    {
+      "spore": 174,
+      "dPlus": 1,
+      "at": "2026-08-19 06:40",
+      "batch": "batch-2026-08-19-3-spores",
+      "views": null,
+      "likes": 1,
+      "reposts": null,
+      "comments": 1,
+      "shares": 1,
+      "source": "harvest"
     }
   ]
 }
