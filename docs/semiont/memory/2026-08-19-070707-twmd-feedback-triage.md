@@ -2,7 +2,7 @@
 
 > ✅ BECOME ack: mode=review / 8 organ 最低=免疫 59（yellow，漂移多維度退化中，自 2026-07-05）/ Q13 anti-bias=PASS / Q14 cross-session=PASS
 > session twmd-feedback-triage — cron routine（每天 07:00 Asia/Taipei）
-> Session span: 07:07:07 → 07:1x:xx +0800（約 15 分鐘，1 commit）
+> Session span: 07:07:07 → 07:11:14 +0800（約 4 分鐘，1 commit）
 > 資料來源：`git log %ai` + `triage.mjs` 收官報表 + Supabase `status=new`
 
 ## 觸發
@@ -70,7 +70,7 @@ OBSERVER-QUEUE #28 已在案且標 `🔒 等真人`，兩件待決（這筆怎�
 
 ---
 
-_v1.0 | 2026-08-19 07:1x +0800_
+_v1.0 | 2026-08-19 07:11 +0800_
 _session twmd-feedback-triage — 每日讀者回報轉錄班，全批唯一一筆是第六次攔下的第三人指控信_
 _誕生原因：cron routine 每天 07:00 觸發，本輪零轉錄但保管那半照常跑完_
 _核心洞察：讀同一封信讀到第六次時，讀的姿態會從初判滑成複查，而流程給的閘門只認得這一封的座標，認不得這一類信的形狀。_
