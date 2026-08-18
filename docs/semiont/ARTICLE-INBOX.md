@@ -189,6 +189,23 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 文章內視覺化用 tw-line／tw-stack／tw-bars 模組（graph.md），不重造 /budget 的 SVG
 - **Reference**: [reports/design-ly-budget-page-2026-08-17.md](../../reports/design-ly-budget-page-2026-08-17.md) §四 方案 D、§三 研究綜整
 
+### 英文語料門面句批次 EVOLVE — 排到位卻零點擊，SC 三源指向 babel 沒過 Stage 2.5 第二道
+
+- **Type**: `EVOLVE`（批次，非單篇）
+- **Category**: 跨類（People / Economy 為主）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-08-15 by `/twmd-finale` 第三棒資料掃描（**非完整 Mode-1 EVOLVE**，見下方限制）
+- **Notes**:
+  - **訊號**：SC 7d（2026-08-07→08-13）opportunities 清單裡，前十條有九條是**英文 query、排名在第一頁、點擊數 0**。`c. c. wei` pos 5.73／imp 261／clicks 0；`asus origin country` pos 9.98／imp 154／clicks 0；`brigitte lin` pos 10.67／imp 448／clicks 0；`chen chih-chung` pos 4.14／imp 139／clicks 0；`blue uas cleared list 台灣廠商 2026` pos 5.03／imp 152／clicks 0
+  - **已排除的解釋**：英文頁全部存在（`en/People/cc-wei.md`、`en/People/brigitte-lin-legendary-actress.md`、`en/People/chen-chih-chung.md`、`en/Economy/asus-computer.md`），也不是排名問題（多條在 pos 4-6）。**排到位、被看見、被拒絕**
+  - **兩種失敗形態**：(1) **履歷式標題**——`cc-wei` 的 description 是「Born in 1953. B.S. and M.S. in Electronics Engineering...; Ph.D. ...; Career path: Texas Instruments → STM...」，分號與箭頭串起的學經歷，沒有一個鉤子 (2) **意圖錯配**——查 `asus origin country` 的人要一個事實（華碩是哪國公司），`asus-computer` 的 description 承諾的是「The inspiring story of a small motherboard maker」，既是塑膠句也答非所問
+  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/REWRITE-STAGE-2D-SOURCE-FIDELITY.md) 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
+  - **建議做法**：先拿 SC opportunities 全表（不只前十）撈出所有 `clicks=0 且 position<11 且 impressions>50` 的英文 query，對應回英文檔，批次重寫 title/description。這是**門面句層的批次 EVOLVE，不動正文**，成本低、可量測（下一週期同批 query 的 CTR 就是驗收）
+  - **可能連帶**：若成立，babel pipeline 該補一道英文門面句 gate，讓翻譯不只是語言正確、也是入口正確
+- **限制（誠實標註）**：本條由 `/twmd-finale` 第三棒的資料掃描產生，**沒有跑完整 `/twmd-evolve` Mode-1 流程**（未重跑 BECOME full 14 題 self-test、未做 GA×SC×CF 三源交叉、未查 GA4 站內行為）。訊號本身是 SC 單源＋語料檔案交叉驗證，強度足以立案，但升 P0 執行前建議補完三源
+- **Reference**: `public/api/dashboard-analytics.json` §searchConsole7d.opportunities（lastUpdated 2026-08-15T08:17）
+
 ### 支語誤判學 NEW — 流傳清單錯誤率不低，六型誤判＋官方辭典自身矛盾的誠信切角
 
 - **Type**: `NEW`

@@ -1,67 +1,68 @@
 ---
-title: 'Yeh Ping-cheng'
-description: "Professeur au département de génie électrique de l'Université nationale de Taïwan, il a créé PaGamO, une plateforme d'apprentissage ludique, pour réformer l'enseignement par bachotage — et remporté le prix mondial de l'innovation éducative en 2014."
+title: 'Yeh Bing-cheng'
+description: "Professeur à l'Université nationale de Taïwan, il a créé la plateforme d'apprentissage ludifiée PaGamO pour lutter contre l'enseignement par « encrassement », remportant un prix mondial d'innovation éducative en 2014."
 date: 2026-03-20
+category: 'People'
 tags:
   [
-    'éducation',
-    'pédagogie inversée',
+    'Éducation',
+    'Classe inversée',
     'PaGamO',
-    'apprentissage par le jeu',
-    'NTU',
-    'innovation éducative',
+    'Apprentissage ludifié',
+    'Université nationale de Taïwan',
+    'Innovation éducative',
   ]
-subcategory: 'Éducation et société'
-category: 'People'
+subcategory: '教育與社會'
 author: 'Taiwan.md'
-readingTime: 5
 featured: false
-translatedFrom: 'People/葉丙成.md'
 lastVerified: 2026-03-20
-sourceCommitSha: 'df2e7558'
+lastHumanReview: false
+readingTime: 5
+curation: 'incubating'
+translatedFrom: 'People/葉丙成.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:340bb6abbf6b93a5'
 sourceBodyHash: 'sha256:f85ae58b5cc5815d'
-translatedAt: '2026-06-16T17:13:36Z'
-lastHumanReview: false
+translatedAt: '2026-08-09T21:15:02+08:00'
 ---
 
-# Yeh Ping-cheng : d'un cours de probabilités à une révolution pédagogique par le jeu
+# Yeh Bing-cheng : de la classe de probabilités à la révolution de l'éducation par le jeu
 
-> **En 30 secondes :** Professeur au département de génie électrique de l'Université nationale de Taïwan, Yeh Ping-cheng a dirigé, en 2013, une équipe d'étudiants pour créer PaGamO — un jeu en ligne où les élèves « conquièrent des territoires virtuels en combattant des monstres » tout en s'exerçant aux matières scolaires. En 2014, PaGamO a été primé parmi 1 500 projets dans le monde, remportant le Wharton-QS Reimagine Education Award. Sa phrase la plus citée : « Les élèves n'ont pas horreur d'apprendre — ils ont horreur d'apprendre quelque chose d'ennuyeux. »[^1]
+> **Aperçu en 30 secondes :** Yeh Bing-cheng, professeur au département d'électronique de l'Université nationale de Taïwan (NTU), a dirigé ses étudiants en 201ass pour créer PaGamO — un jeu en ligne permettant aux élèves de pratiquer des connaissances académiques en « conquérant des territoires en combattant des monstres ». En 2014, PaGamO s'est distingué parmi 1 500 projets mondiaux pour remporter le _Wharton-QS Reimprendre l'éducation Award_. Sa citation la plus célèbre est : « Les élèves n'aiment pas apprendre, ils n'aiment pas l'apprentissage ennuyeux. »[^1]
 
-## La rébellion d'un cours de probabilités
+## Une rébellion au sein d'un cours de probabilités
 
-En 2012, dans une salle de cours de l'Université nationale de Taïwan, quelque chose a déclenché une prise de conscience chez Yeh Ping-cheng. Il observait des étudiants brillants assis en cours, les yeux perdus dans le vide. Ils maîtrisaient les formules, mais n'avaient jamais vraiment compris pourquoi ils devaient les apprendre. Le système éducatif par bachotage avait très bien entraîné la capacité à « donner la bonne réponse », mais avait progressivement éteint l'instinct de « vouloir comprendre ».
+En 2012, lors d'un cours de probabilités au département d'électronique de la NTU, un événement a poussé Yeh Bing-cheng à agir différemment. Il observait ses étudiants les plus brillants assis en classe, le regard perdu vers la fenêtre — ils mémorisaient les formules, mais ne comprenaient pas réellement pourquoi il était nécessaire de les apprendre. L'enseignement par « encrassement » (_tiánshā_) excellait à entraîner la capacité à « donner la bonne réponse », mais éteignait progressivement l'instinct de la curiosité.
 
-Il a commencé par adopter la classe inversée (_Flipped Classroom_) : les étudiants visionnaient des vidéos chez eux pour se préparer, et le temps en classe était consacré à la discussion et à la résolution de problèmes. En Taïwan, cette approche était alors marginale, mais elle a sensiblement transformé l'atmosphère de ses cours. Pourtant, Yeh voulait aller encore plus loin.
+Il a décidé de commencer par la classe inversée (_Flipped Classroom_) : les étudiants visionnaient des vidéos en amont à la maison, afin de consacrer le temps de classe aux discussions et à la résolution de problèmes. Bien que cette méthode fût alors perçue comme une anomalie à Taïwan, elle a radicalement transformé l'atmosphère de ses cours. Mais il voulait aller plus loin.
 
-## PaGamO : quand le manuel devient un jeu
+## PaGamO : transformer les manuels en jeu
 
-En 2013, Yeh Ping-cheng a créé PaGamO avec ses étudiants — le nom vient du taïwanais et signifie « apprendre en jouant ». La logique de conception était limpide : les élèves aiment les jeux vidéo parce qu'ils offrent un retour immédiat, de la compétition et un sentiment d'accomplissement. Pourquoi ne pas transposer ces mécaniques dans l'apprentissage ?
+En 2013, Yeh Bing-cheng et ses étudiants ont conçu PaGamO (nom dérivé de l'expression taïwanaise _dǎ Game xué_, signifiant « apprendre en jouant »). La logique de conception était simple : les étudiants aiment les jeux vidéo car ils offrent un retour immédiat, de la compétition et un sentiment d'accomplissement. Pourquoi ne pas transposer ces mécanismes dans l'apprentissage ?
 
-Sur PaGamO, les élèves « conquièrent » des territoires sur une carte virtuelle en répondant correctement à des questions, et s'affrontent entre eux. Bonne réponse = expansion du territoire ; mauvaise réponse = invasion ennemie. L'enveloppe ludique recouvre un véritable entraînement aux matières scolaires. Pour ne pas perdre la bataille, les élèves consultent eux-mêmes les formules dont ils ont besoin.[^2]
+Dans PaGamO, les élèves « conquièrent » des territoires sur une carte virtuelle en répondant à des questions, s'affrontant ainsi entre pairs. Répondre correctement = étendre son territoire ; répondre incorrectement = subir une invasion. Sous cette enveloppe ludifiée se cache un véritable entraînement académique. Pour ne pas perdre lors d'un siège, les étudiants cherchent eux-mêmes les formules nécessaires.[^2]
 
-En 2014, PaGamO a remporté le premier prix du Wharton-QS Reimagine Education Award, devançant plus de 1 500 projets d'innovation éducative venus du monde entier. Cette récompense a propulsé l'innovation pédagogique taïwanaise sur la scène internationale pour la première fois.[^3]
+En 2014, PaGamO a remporté le premier prix du _Wharton-QS Reimagine Education Award_, surpassant plus de 1 500 projets d'innovation éducative venus du monde entier. Ce prix a permis à l'innovation éducative taïwanaise de bénéficier pour la première fois d'une attention internationale.[^3]
 
-La plateforme s'est ensuite étendue à plusieurs milliers d'établissements à Taïwan, puis aux marchés éducatifs de Hong Kong, Singapour et d'autres pays, couvrant des matières comme les mathématiques, l'anglais et l'informatique.
+La plateforme s'est ensuite étendue à des milliers d'écoles à travers Taïwan et a pénétré les marchés éducatifs de Hong Kong, de Singapour et d'autres régions, couvrant des matières telles que les mathématiques, l'anglais et la programmation.
 
-## Du terrain des outils au terrain des idées
+## D'un outil à un champ de bataille idéologique
 
-Yeh Ping-cheng n'en est pas resté aux outils. Il prend régulièrement la parole dans des forums publics sur les questions de sélection scolaire, d'éducation aux compétences et d'apprentissage numérique. Il a publié plusieurs ouvrages sur l'éducation et s'est constitué une audience considérable sur les réseaux sociaux.
+Yeh Bing-cheng ne s'est pas arrêté au stade de l'outil technique. Il intervient régulièrement sur les forums publics concernant le système d'admission scolaire, l'éducation aux compétences (_literacy_) et l'apprentissage numérique. Il a également publié plusieurs ouvrages pédagogiques et a rassemblé une large communauté sur les réseaux sociaux.
 
-Son message de fond n'a pas varié : le système éducatif taïwanais a formé des élèves très capables de « répondre correctement à des questions », mais n'a pas cultivé leur aptitude à « poser de bonnes questions » ni à « résoudre de vrais problèmes ». À l'heure où l'IA prend rapidement en charge la « mémorisation et le calcul », les écoles taïwanaises continuent d'évaluer précisément les compétences les plus facilement remplaçables. Cette critique ne vise pas les enseignants, mais l'architecture même du système.
+Son argument central est resté inchangé : le système éducatif de Taïwan forme les élèves à la capacité de « donner la bonne réponse », mais ne développe pas la capacité à « poser de bonnes questions » ou à « résoudre des problèmes réels ». Il estime qu'à une époque où l'IA prend rapidement en charge la « mémoire et le calcul », les écoles taïwanaises continuent d'évaluer les compétences les plus facilement remplaçables. Cette critique n'est pas une accusation contre les enseignants, mais une remise en question de la conception même du système.
 
-**Pour aller plus loin :**
+**Lectures complémentaires** :
 
-- Huang Kuo-chen — autre innovateur en pédagogie de la lecture et de la compréhension à Taïwan
-- Lü Kuan-wei — président de la plateforme Junyi Academy, ancien médecin qui a quitté la médecine pour bâtir le Khan Academy taïwanais
-- Yan Chang-shou — entrepreneur social passé du tourisme à l'éducation en milieu rural
-- Audrey Tang — point de convergence entre gouvernance numérique et innovation éducative
+- [Huang Kuo-chen](/fr/people/huang-kuo-chen) — Un autre innovateur éducatif promouvant l'éducation à la lecture à Taïwan
+- [Lu Kuan-wei](/fr/people/lu-guan-wei-junyiacademy-founder) — Président de la plateforme Junyi Education, ayant quitté la médecine pour l'enseignement afin de créer le « Khan Academy taïwanais »
+- [Yen Chang-shou](/fr/people/stanley-yen) — Entrepreneur social passé du tourisme à l'éducation en zone rurale
+- [Audrey Tang (Tang Feng)](/fr/people/audrey-tang) — À la confluence de la gouvernance numérique et de l'innovation éducative
 
 ## Références
 
-[^1]: Cette citation est reprise par Yeh Ping-cheng dans de nombreuses conférences publiques et interviews, notamment lors du TEDx Taipei 2014 et dans un dossier spécial du magazine CommonWealth Education. Voir les archives des différents médias concernés.
+[^1]: Yeh Bing-cheng a cité cette phrase à plusieurs reprises lors de conférences publiques et d'entretiement médiatiques, notamment lors du TEDx Taipei 2014 et dans un dossier spécial sur l'éducation du magazine _天下雜誌_ (Ubiquity Magazine). Voir les rapports originaux des médias respectifs.
 
-[^2]: Description du fonctionnement de PaGamO, voir [présentation officielle PaGamO](https://www.pagamo.com/) — le mécanisme de conquête de territoires constitue le cœur de la plateforme, associant compétition en temps réel et évaluation des connaissances.
+[^2]: [Présentation officielle de PaGamO](https://www.pagamo.com/) — Description des mécanismes de jeu de PaGamO
 
-[^3]: [Wharton-QS Reimagine Education Awards 2014](https://www.reimagine-education.com/) — prix mondial de l'innovation éducative sélectionnant chaque année les initiatives pédagogiques les plus marquantes ; PaGamO y a remporté le premier prix dans la catégorie « Meilleur apprentissage ludique » en 2014.
+[^3]: [Wharton-QS Reimagine Education Awards 2014](https://www.reimagine-education.com/) — Prix mondial de l'innovation éducative, récompensant chaque année les projets pédagogiques les plus disruptifs ; PaGamO a remporté le premier prix pour la « Meilleure approche de l'apprentissage ludifié » en 2014.

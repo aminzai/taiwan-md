@@ -1,232 +1,233 @@
 ---
-title: 'Le tourisme inclusif à Taïwan : quand la chaleur humaine devient la meilleure accessibilité'
-description: "Du point de vue familial, cette analyse explore comment Taïwan redéfinit le voyage multigénérationnel à l'approche d'une société super-vieillissante, grâce à la générosité des habitants et aux infrastructures inclusives."
+title: "Tourisme et culture de la vie intergénérationnelle à Taïwan : quand la chaleur humaine devient le meilleur dispositif d'accessibilité"
+description: "Observer depuis la perspective familiale comment la société taïwanaise redéfinit le sens d'un « voyage en famille » grâce à la chaleur humaine et aux dispositifs d'inclusion, sur la voie d'une société ultra-agée."
 date: 2026-03-23
+category: 'Society'
 tags:
   [
-    'tourisme inclusif',
-    'accessibilité',
-    'société super-vieillissante',
+    'inclusion intergénérationnelle',
+    'tourisme accessible',
+    'société ultra-agée',
     'culture familiale',
     'résilience sociale',
   ]
-subcategory: 'Accessibilité et inclusion'
-category: 'Society'
+subcategory: '無障礙與共融'
 author: 'alstontsai0816'
 featured: false
-lastHumanReview: false
 lastVerified: 2026-03-23
+lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8a4d3295bf443494'
 sourceBodyHash: 'sha256:be2327c5c3e0748e'
-translatedAt: '2026-04-14T12:32:24+08:00'
+translatedAt: '2026-08-09T21:15:02+08:00'
 ---
 
 > **En 30 secondes :**
-> À Taïwan, les véritables infrastructures d'accessibilité ne se résument pas aux rampes et aux ascenseurs — elles tiennent avant tout à la _chaleur humaine_ : cette solidarité informelle qui pousse un inconnu à céder spontanément sa place ou à aider une famille avec un fauteuil roulant.
-> Alors que Taïwan s'apprête à basculer officiellement en **société super-vieillissante en 2025** (plus de 20 % de la population ayant 65 ans ou plus), le tourisme tous âges confondus passe du statut de « besoin spécifique » à celui de « besoin universel ».
-> Ce phénomène dépasse la simple question de politique publique : il témoigne de la culture familiale et de la résilience sociale propres à Taïwan.
+> À Taïwan, le véritable dispositif d'accessibilité ne se résume pas aux rampes et aux ascenseurs, mais réside dans la « chaleur humaine » — cette entente sociale tacite qui pousse à céder spontanément sa place et à porter assistance lorsqu'on voit une famille accompagnée d'une personne en fauteuil roulant.
+> Avec l'entrée imminente de Taïwan dans une **société ultra-agée en 2025** (plus de 20 % de population âgée de 65 ans et plus), le tourisme intergénérationnel évolue d'une « demande spécifique » vers une « demande universelle ».
+> Il ne s'agit pas seulement d'une question de politique publique, mais bien de l'expression d'une culture familiale unique et de la résilience sociale taïwanaise.
 
-## Une réalité contre-intuitive : la chaleur humaine surpasse les équipements
+## Une réalité contre-intuitive : la chaleur humaine prime sur les équipements
 
-**Le succès du tourisme accessible à Taïwan ne repose pas sur la perfection des infrastructures, mais sur le capital social de la société.**
+**Le succès du tourisme accessible à Taïwan ne tient pas à la perfection de ses infrastructures, mais à sa软实力 (soft power) sociale.**
 
-Quand d'autres pays misent sur la standardisation des équipements, Taïwan a emprunté une voie singulière : **combler les lacunes matérielles par la chaleur des relations humaines**. Selon les statistiques de l'Administration du tourisme, même si seuls environ 30 % des sites touristiques taïwanais répondent aux normes internationales d'accessibilité, le taux de satisfaction des familles de personnes handicapées lors de voyages atteint 85 %.
+Alors que les pays du monde entier se concentrent sur la construction de dispositifs d'accessibilité standardisés, Taïwan a emprunté une voie singulière : **combler les lacunes par la « chaleur humaine » lorsque les infrastructures physiques restent insuffisantes**. Les statistiques de l'Administration du Tourisme indiquent que, même si seulement environ 30 % des sites touristiques de Taïwan atteignent les normes internationales d'accessibilité, la satisfaction des familles de personnes handicapées lors de leurs voyages atteint 85 %.
 
-Le secret de ce chiffre : **les Taïwanais savent « lire la situation »**. Lorsqu'un utilisateur de fauteuil roulant, une personne malvoyante ou un aîné a visiblement besoin d'aide, les inconnus tendent spontanément la main — ce filet de sécurité informel compense efficacement les insuffisances des équipements officiels.
+Le secret derrière ce chiffre réside dans le fait que **les Taïwanais « lisent la situation »**. Face à l'usage d'un fauteuil roulant, à la déficience visuelle ou aux besoins des aînés, des inconnus tendent spontanément la main — ce filet de sécurité social informel comble les insuffisances des dispositifs formels.
 
-## L'urgence derrière les chiffres : Taïwan vieillit à grande vitesse
+## L'urgence derrière les chiffres : le vieillissement rapide de Taïwan
 
-### Compte à rebours vers la société super-vieillissante
+### Le compte à rebours d'une société ultra-agée
 
-Taïwan connaît l'un des rythmes de vieillissement démographique **les plus rapides du monde**. Selon les dernières projections du Conseil national du développement :
+La vitesse de vieillissement de la population de Taïwan est **la plus rapide au monde**. Selon les dernières estimations de la Commission du Développement National (NDC) :
 
-- **2025** : Taïwan entrera officiellement dans la catégorie « société super-vieillissante » (65 ans et plus dépassant 20 % de la population)
-- **Situation actuelle (2024)** : 7 comtés et villes ont déjà franchi ce seuil
-- **Vitesse remarquable** : Taïwan n'a mis que 7 ans pour passer de la société vieillissante (14 %) à la société super-vieillissante (20 %), contre 12 ans au Japon et 37 ans en Allemagne
+- **En 2025** : Taïwan entrera officiellement dans le statut de « société ultra-agée » (20 % de population âgée de 65 ans et plus)
+- **Situation actuelle (2024)** : Sept comtés et villes ont déjà franchi le pas vers une société ultra-agée
+- **Vitesse impressionnante** : Taïwan n'a mis que 7 ans pour passer d'une société âgée (14 %) à une société ultra-agée (20 %), un rythme bien plus rapide que les 12 ans du Japon ou les 37 ans de l'Allemagne
 
-### Réalité du handicap
+### La réalité démographique des personnes handicapées
 
-- **Effectif total** : environ **1,19 million** de personnes en situation de handicap à Taïwan (soit environ 5 % de la population)
-- **Tendance au vieillissement** : 53,8 % d'entre elles ont 65 ans ou plus, soulignant le fort chevauchement entre handicap et grand âge
-- **Demande touristique** : environ **350 000 voyages** par an issus de familles comprenant des personnes handicapées
+- **Effectif total** : Environ **1,19 million** de personnes handicapées à Taïwan (soit environ 5 % de la population totale)
+- **Tendance au vieillissement** : Parmi elles, **53,8 %** ont 65 ans et plus, révélant une forte superposition entre handicap et grand âge
+- **Demande de tourisme** : Environ **350 000 voyages** par an répondent aux besoins des familles de personnes handicapées
 
-Ces données pointent vers une réalité incontournable : **l'inclusion tous âges n'est plus une question de bienveillance envers les plus vulnérables, mais un enjeu de survie pour la société taïwanaise**.
+Ces chiffres pointent vers une réalité cruciale : **l'inclusion intergénérationnelle n'est plus une question de bienveillance envers les « faibles », mais un problème de « survie » pour la société taïwanaise**.
 
 ## Le modèle taïwanais : de l'« accessibilité » à l'« inclusion »
 
-### Première phase : les infrastructures physiques (années 1990–2010)
+### Première phase : Construction des infrastructures (années 1990-2010)
 
-En application de la _Loi sur la protection des droits des personnes handicapées_, Taïwan a massivement investi dans les équipements d'accessibilité :
+En application de la _Loi sur la protection des droits des personnes handicapées_, Taïwan a commencé à construire massivement des dispositifs d'accessibilité :
 
-- Métro : ascenseurs sans obstacles sur toutes les lignes, dalles podotactiles, annonces vocales
-- Zones panoramiques nationales : les 13 directions régionales des parcs naturels ont progressivement amélioré leur accessibilité
-- Sites touristiques : environ 200 sites ont désormais obtenu une certification d'accessibilité
+- **Réseau MRT** : Ascenseurs accessibles sur toute la ligne, pavés de guidage pour malvoyants, annonces sonores
+- **Parcs nationaux** : Les 13 bureaux de gestion des parcs nationaux ont progressivement amélioré l'environnement accessible
+- **Sites touristiques** : Environ 200 sites ont déjà obtenu une certification d'accessibilité
 
-### Deuxième phase : la qualité de service (années 2010–2020)
+### Deuxième phase : Soft power des services (années 2010-2020)
 
-La politique s'est tournée vers l'humanisation des services :
+Le tournant politique vers des « services humanisés » :
 
-- **Dofu Holidays** : émergence d'agences spécialisées dans le tourisme accessible, proposant des itinéraires personnalisés
-- **Fondation Phoenix Travel** : premier service de bus accessibles à l'échelle nationale
-- **Association Sunabletaipei** : création d'une base de données et d'un système d'évaluation des sites accessibles
+- **Vacances DuoFu** : Émergence d'opérateurs touristiques spécialisés dans l'accessibilité, offrant une planification de voyage sur mesure
+- **Fondation Phoenix Tourism** : Lancement du premier service de bus accessible à l'échelle nationale
+- **Association Xing Wu Ai** : Mise en place d'une base de données de sites accessibles et d'un système d'évaluation
 
-### Troisième phase : l'inclusion sociale (années 2020 à aujourd'hui)
+### Troisième phase : Inclusion sociale (années 2020 à nos jours)
 
-Du « soin spécialisé » vers le « design universel » :
+Un passage de la « protection spéciale » au « design universel » :
 
-- Certification **Villes-amies des aînés** de l'OMS : Taipei, Tainan, Chiayi et plusieurs autres villes membres
-- Concept **inclusif tous âges** : prendre en compte non plus seulement les personnes handicapées, mais les besoins de toutes les tranches d'âge
-- Évolution du tourisme familial : les voyages réunissant trois générations deviennent la norme
+- **Certification Villes amies des aînés de l'OMS** : Taipei, Tainan, Chiayi et d'autres villes ont rejoint le réseau
+- **Concept d'« amabilité pour tous les âges »** : Non seulement pour les personnes handicapées, mais pour les besoins de toutes les tranches d'âge
+- **Transformation du modèle de voyage familial** : Le voyage de trois générations sous un même toit devient la norme
 
-## L'écologie singulière du voyage en famille à Taïwan
+## L'écosystème unique du voyage familial à Taïwan
 
-### La sagesse du partage intergénérationnel
+### La répartition intelligente des rôles au sein d'une famille élargie
 
-À Taïwan, le voyage en famille dépasse rarement le cadre de la « famille nucléaire » à deux générations. La configuration la plus courante est celle de **trois générations réunies**, voire d'une **mobilisation familiale élargie** :
+À Taïwan, le voyage familial est rarement l'excursion de la « famille nucléaire » à deux générations ; il s'agit plus souvent d'une « famille élargie à trois générations » voire d'une « mobilisation familiale » :
 
-- **Les aînés** : apportent la connaissance du terrain et l'expérience de vie
-- **La génération intermédiaire** : assume la planification et les responsabilités financières
-- **Les jeunes** : prennent en charge la technologie et les efforts physiques
+- **Les aînés** : Apportent leur connaissance du terroir et leur expérience de vie
+- **La génération intermédiaire** : Assure la planification et la responsabilité financière
+- **La jeune génération** : Prend en charge l'application technologique et les activités physiques
 
-Cette répartition des rôles crée naturellement **un réseau de soin intégré** — chaque membre est à la fois soignant et soigné.
+Ce modèle de répartition forme naturellement un **réseau de soins intégré** — chaque membre est à la fois celui qui est soigné et celui qui soigne.
 
-### La complicité silencieuse de ceux qui « lisent la situation »
+### L'entente sociale du « lecture de la situation »
 
-La société taïwanaise cultive une forme unique d'intelligence situationnelle :
+La société taïwanaise possède une culture unique d'« observation des signes » :
 
-- **Au restaurant** : à la vue d'un fauteuil roulant, le serveur déplace spontanément les tables, propose de lire le menu à voix haute
-- **Dans les transports en commun** : face à une famille avec fauteuil roulant, les passagers cèdent leurs places sans qu'on le leur demande
-- **Sur les sites touristiques** : lorsqu'une personne malvoyante cherche ses repères, d'autres visiteurs se transforment naturellement en guides improvisés
+- **Dans les restaurants** : En voyant un usager de fauteuil roulant, le personnel déplace spontanément les tables et propose une lecture du menu
+- **Transports publics** : Devant une famille poussant un fauteuil, les passagers cèdent spontanément leur place
+- **Sur les sites** : Lorsqu'un malvoyant a besoin d'un guide, les autres touristes forment naturellement une « aide visuelle humaine »
 
-Cette aptitude à « lire la situation » n'est pas une obligation institutionnelle, mais une habitude sociale — **un accord implicite d'inclusion**.
+Cette lecture de la situation n'est pas une prescription institutionnelle, mais une habitude sociale — un **accord d'inclusion non écrit**.
 
-## Écarts et avancées entre politique et pratique
+## Décalages et percées entre politique et pratique
 
-### Orientations nationales
+### Disposition des politiques centrales
 
-**Agence nationale de santé du ministère de la Santé et du Bien-être** : promotion de la certification OMS Ville-amie des aînés, aujourd'hui rejointe par 22 gouvernements locaux
+**Administration de la santé nationale du Ministère de la Santé et du Bien-être (MOHW)** : Promotion de la certification Villes amies des aînés de l'OMS, avec 22 comtés et villes déjà engagés
 
-- **Huit dimensions** : espaces publics et bâtiments, transports, logement, participation sociale, respect et inclusion sociale, participation citoyenne et emploi, communication et information, services de santé et soins de longue durée
+- **Huit dimensions** : Espaces publics accessibles et sûrs, transports en commun, logement, participation sociale, respect des aînés et intégration sociale, participation citoyenne et emploi, communications et informations, services de santé et soins de longue durée
 
-**Administration du tourisme du ministère des Transports** : création du portail « Tourisme accessible à Taïwan »
+**Administration du Tourisme du Ministère des Transports** : Mise en place du « Réseau de tourisme accessible de Taïwan »
 
-- Informations sur les équipements d'accessibilité de plus de **200 sites**
-- Plans d'amélioration de l'accessibilité dans les **13 zones panoramiques nationales**
-- Révisions et améliorations régulières menées avec les associations de personnes handicapées
+- Informations sur les dispositifs d'accessibilité de plus de **200 sites**
+- Plans d'amélioration de l'accessibilité pour les **13 parcs nationaux**
+- Examens et améliorations réguliers avec les groupes de personnes handicapées
 
-### Initiatives locales remarquables
+### Cas d'innovation locale
 
-**Taipei** : première ville taïwanaise orientée vers le « design universel » en matière de tourisme
+**Ville de Taipei** : Première ville touristique au monde axée sur le « design universel »
 
-- **Téléphérique de Maokong** : wagons entièrement accessibles, cartes tactiles en relief pour les malvoyants
-- **Palais national du musée du Sud** : parcours sans obstacle dans l'ensemble du musée, service de prêt d'équipements
+- **Système de téléphérique (Cat Ropeway)** : Wagons entièrement accessibles sur toute la ligne, permettant aux malvoyants de toucher des cartes en relief
+- **Musée national du Palais (succursale du Sud)** : Circuits accessibles dans toute l'enceinte, avec service de prêt d'aides techniques
 
-**Tainan** : tourisme accessible intégré au patrimoine historique
+**Ville de Tainan** : Tourisme accessible mêlant histoire et culture
 
-- **Valorisation des monuments** : aménagement de cheminements accessibles dans le respect de l'intégrité des sites
-- **Circuit du vieux Tainan** : itinéraires à pied adaptés aux fauteuils roulants dans la cité historique
+- **Réhabilitation des monuments historiques** : Mise en place de circuits accessibles tout en préservant l'intégrité des biens culturels
+- **Visite de la ville ancienne** : Développement d'itinéraires pédestres adaptés aux fauteuils roulants
 
-## Les forces civiles : quand les entreprises rencontrent la responsabilité sociale
+## La force du secteur privé : quand les entreprises rencontrent la responsabilité sociale
 
-### Agences spécialisées dans le tourisme accessible
+### Opérateurs spécialisés dans le tourisme accessible
 
-**Dofu Holidays** :
+**Vacances DuoFu** :
 
-- Modèle de service : « Voyager avec son majordome », avec accompagnateur professionnel dédié
-- Services innovants : transport adapté à domicile, itinéraires sur mesure
-- Développement international : routes accessibles à Kyoto (Japon) et Séoul (Corée)
+- Modèle de service : « Voyagez avec un majordome », offrant un accompagnateur professionnel dédié
+- Services innovants : Transport en véhicule de réadaptation jusqu'au domicile, planification d'itinéraires sur mesure
+- Expansion internationale : Développement de circuits accessibles à Kyoto (Japon) et Séoul (Corée du Sud)
 
-**Fondation Phoenix Travel** :
+**Fondation Phoenix Tourism** :
 
-- Investissement matériel : premiers grands cars accessibles de Taïwan
-- Philosophie : « Le voyage est un droit fondamental, qui ne saurait être confisqué par une limitation physique »
+- Investissement matériel : Premiers grands bus de tourisme accessibles à l'échelle nationale
+- Philosophie de service : « Le voyage est un droit fondamental, il ne doit pas être privé en raison de limitations physiques »
 
-### Innovation technologique
+### Innovation technologique et assistance
 
-**Application Sunabletaipei** : plateforme d'information accessible par crowdsourcing
+**Application Xing Wu Ai** : Plateforme d'information sur l'accessibilité par externalisation collective
 
-- **Signalement communautaire** : mise à jour en temps réel de l'état des équipements d'accessibilité
-- **Planification d'itinéraires** : parcours personnalisés selon les besoins
-- **Entraide communautaire** : les utilisateurs se soutiennent mutuellement pour résoudre leurs problèmes de voyage
+- **Retours des utilisateurs** : Mise à jour en temps réel de l'état des dispositifs d'accessibilité
+- **Planification d'itinéraires** : Fourniture d'itinéraires personnalisés selon les besoins spécifiques
+- **Soutien communautaire** : Entraide entre utilisateurs pour résoudre les problèmes de voyage
 
-## La profondeur culturelle : le phénomène « Notre famille est plutôt différente »
+## Profondeur culturelle : Phénoménologie de l'expression « Toute ma famille s'appelle Tsai »
 
-### La résilience au quotidien
+### L'expression de la résilience au quotidien
 
-La chaîne YouTube « Notre famille est plutôt différente » — tenue par un vidéaste malvoyant — illustre la façon dont les familles taïwanaises pratiquent une « micro-inclusion » au quotidien :
+Prenez l'exemple des enregistrements de vie du YouTuber malvoyant « Toute ma famille s'appelle Tsai » : on y voit comment les familles taïwanaises réalisent une « micro-inclusion » au quotidien :
 
 **Scènes de repas** :
 
-- Le membre malvoyant choisit ses plats au toucher et à l'odorat
-- Les proches fournissent naturellement une « description de l'environnement » (« À ta droite, il y a une soupe »)
-- Le personnel du restaurant demande spontanément s'il peut aider, sans chercher à s'éloigner
+- Le membre malvoyant choisit les plats par le toucher et l'odorat
+- La famille fournit naturellement une « description de l'environnement » (« Il y a une soupe à votre droite »)
+- Le personnel du restaurant propose spontanément son aide, au lieu d'éviter la situation
 
-**Déplacements** :
+**Processus de déplacement** :
 
-- La famille développe un « langage de navigation » personnel (« Trois pas devant, il y a des marches »)
-- Les inconnus s'écartent ou préviennent des dangers spontanément
-- Les annonces vocales des transports en commun deviennent une « navigation partagée » pour toute la famille
+- La famille développe un « langage de navigation » unique (« Trois marches devant, il y a des escaliers »)
+- Les inconnus cèdent spontanément le passage ou signalent les dangers
+- Les annonces sonores des transports publics deviennent le « système de navigation commun » de toute la famille
 
-### Valeur éducative : une leçon de vie invisible
+### Valeur éducative : Leçons de vie invisibles
 
-La véritable richesse de ce mode de voyage multigénérationnel réside dans l'**éducation à l'empathie** qu'il offre aux jeunes générations :
+La valeur la plus profonde de ce modèle de « voyage à trois générations » réside dans l'**éducation à l'empathie** pour la jeune génération :
 
-- Apprendre à **ralentir** : s'ajuster au rythme des aînés et des proches à mobilité réduite
-- Développer la **capacité d'observation** : repérer les obstacles et les besoins dans l'environnement
-- Construire un **sens des responsabilités** : chacun a le devoir de prendre soin des autres
-- Comprendre la **diversité** : accepter la coexistence de capacités différentes
+- Apprendre à « ralentir » : S'adapter au rythme des aînés et des membres à mobilité réduite
+- Développer l'**« observation »** : Repérer les obstacles et les besoins dans l'environnement
+- Établir un **« sens des responsabilités »** : Chacun a l'obligation de prendre soin des autres
+- Comprendre la **« diversité »** : Accepter la coexistence de différents états de capacité
 
-Cet apprentissage n'est pas un « cours de développement personnel » délibérément planifié, mais un **exercice naturel d'empathie** qui émerge dans la réalité du voyage.
+Cette éducation n'est pas un « cours de caractère » délibérément organisé, mais une **pratique de l'empathie** qui survient naturellement dans des situations de voyage réelles.
 
-## Défis et perspectives : quand le besoin devient universel
+## Défis et avenir : lorsque la demande devient la norme
 
-### Défis concrets
+### Défis réels
 
-**Limites des infrastructures** :
+**Limitations matérielles** :
 
-- Difficultés d'adaptation des bâtiments historiques (ex. : vieille rue de Lukang, Jiufen)
-- Contraintes topographiques des sites naturels (ex. : gorges de Taroko, accès au mont Yushan)
-- Coûts de rénovation pour les petits prestataires
+- Difficulté de réhabilitation des bâtiments historiques (comme les vieilles rues de Lukang ou Jiufen)
+- Contraintes topographiques des paysages naturels (comme la gorge de Taroko ou les départs de randonnée du mont Yushan)
+- Poids des coûts de rénovation pour les petites entreprises
 
-**Ressources humaines** :
+**Ressources humaines de service** :
 
-- Insuffisance des accompagnateurs professionnels
-- Manque de formation au service aux personnes handicapées pour le personnel de première ligne
-- Barrières linguistiques (communication entre aides-soignantes étrangères et familles taïwanaises)
+- Pénurie de personnel de soins spécialisé
+- Manque de formation des personnels de première ligne aux services pour personnes handicapées
+- Obstacles de communication linguistique (entre les aides-soignantes étrangères et les familles taïwanaises)
 
-**Barrières d'attitude** :
+**Obstacles d'attitude** :
 
-- Certains prestataires considèrent encore les clients handicapés comme une « source de complications »
-- Situations où l'aide, bien intentionnée, est mal exécutée
-- Attitudes surprotectrices ou qui « traitent l'autre comme un malade »
+- Certains opérateurs considèrent encore les clients handicapés comme une « gêne »
+- Situation où l'« aide bienveillante » est maladroite ou incorrecte
+- Attitude de protection excessive ou de « traitement en malade »
 
-### Perspectives d'avenir : la valeur internationale du modèle taïwanais
+### Perspectives futures : La valeur internationale du modèle taïwanais
 
 **Tendances politiques** :
 
-- **Objectif 2030** : toutes les zones panoramiques nationales répondent aux normes OMS d'accessibilité
-- **Harmonisation réglementaire** : intégration interministérielle entre la _Loi sur les droits des personnes handicapées_ et les _Réglementations sur le développement du tourisme_
-- **Certification internationale** : ambition de devenir le premier pays d'Asie certifié « destination accessible »
+- **Objectif 2030** : Atteindre les normes d'accessibilité de l'OMS pour tous les parcs nationaux
+- **Intégration réglementaire** : Inter-ministériel entre la _Loi sur la protection des droits des personnes handicapées_ et la _Loi sur le développement du tourisme_
+- **Certification internationale** : Candidature pour devenir le premier « pays amical du tourisme accessible » en Asie
 
 **Évolution sociale** :
-Taïwan est en train de forger une « culture de l'inclusion » originale, dont le cœur n'est pas « prendre soin des plus faibles » mais « reconnaître la diversité » — comprendre que chaque individu a des capacités et des besoins différents, et que la société a pour responsabilité de **créer un environnement où chacun peut participer**.
+Taïwan est en train de former une culture de l'« inclusion » unique, dont le cœur n'est pas la « protection des faibles », mais la « reconnaissance de la diversité » — comprendre que chacun a des capacités et des besoins différents, et que la responsabilité de la société est de **créer un environnement permettant à tous de participer**.
 
-Cette culture pourrait bien être la contribution la plus précieuse de Taïwan au monde : **la preuve qu'une société inclusive n'attend pas d'avoir des infrastructures parfaites, mais peut commencer par la compréhension entre les personnes**.
+Cette culture pourrait être la contribution la plus précieuse de Taïwan au monde : **prouver qu'une société inclusive n'a pas besoin d'attendre une infrastructure parfaite, mais peut commencer par la compréhension entre les personnes**.
 
 ---
 
 ### Références / Sources
 
-1. [Ministère de l'Intérieur, Bureau des statistiques : statistiques des personnes âgées 2024](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
-2. [Administration du tourisme : portail du tourisme accessible à Taïwan](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
-3. [Agence nationale de santé : programme Villes-amies des aînés](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
-4. [Association pour le développement du tourisme accessible à Taïwan](http://www.goodtours.com.tw/)
-5. [Dofu Holidays : services de tourisme accessible](https://www.dfholidays.com/tw/)
-6. [Chaîne YouTube : Notre famille est plutôt différente](https://www.youtube.com/@alston0816)
-7. [Plateforme de randonnée forestière taïwanaise : section tourisme accessible](https://recreation.forest.gov.tw/Topic/FOO)
-8. [Fondation Phoenix Travel : promotion des bus accessibles](https://event.travel.com.tw/accessibleBus/)
-9. [Association Sunabletaipei](https://www.facebook.com/sunabletaipei/)
-10. Conseil national du développement : _Projections démographiques de la République de Chine_ (octobre 2024)
+1. [Bureau des statistiques du Ministère de l'Intérieur : Statistiques de la population âgée en 2024 (113e année)](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
+2. [Administration du Tourisme du Ministère des Transports : Réseau d'information sur le tourisme accessible](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
+3. [Administration de la santé nationale du Ministère de la Santé et du Bien-être : Plan de promotion des Villes amies des aînés](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
+4. [Association de développement du tourisme accessible de Taïwan](http://www.goodtours.com.tw/)
+5. [Vacances DuoFu : Services de tourisme accessible](https://www.dfholidays.com/tw/)
+6. [Chaîne YouTube : Toute ma famille s'appelle Tsai](https://www.youtube.com/@alston0816)
+7. [Réseau de tourisme de montagne de Taïwan : Zone de tourisme accessible](https://recreation.forest.gov.tw/Topic/FOO)
+8. [Fondation Phoenix Tourism : Promotion des bus accessibles](https://event.travel.com.tw/accessibleBus/)
+9. [Association de promotion des ressources Xing Wu Ai](https://www.facebook.com/sunabletaipei/)
+10. Commission du Développement National : _Estimation de la population de la République de Chine_ (octobre 2024)

@@ -464,6 +464,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 2
 - **severity**: operational（判準層，非結構）
 
+### 2026-08-15 manual — negative-claim-consensus-is-not-evidence：N 隻 agent 一致回報「做不到」不構成證據，只是同一個工具限制被重複 N 次
+
+- **pattern**: `negative-claim-consensus-is-not-evidence`
+- **原則**：[REFLEXES #31](REFLEXES.md) 管的是 agent 的**正向** claim（「我做完了」「全綠」）不可盡信；本條是它的鏡像面——agent 的**負向** claim（「查無」「403 進不去」「這條路不通」）同樣是線索不是事實，而且更難懷疑，因為**多隻 agent 一致回報同一個失敗會被 orchestrator 讀成證據強度**。實際上它們共用同一套工具，撞的是同一個限制；N 次重複不是 N 個獨立來源，是同一個觀測條件的 N 份副本。orchestrator 把「四份一致」合成進報告時的措辭（「系統性阻擋而非個別失敗」）本身就是把相關性誤讀成獨立性的產物。**判準候選：把 N 份一致的失敗當結論之前，先問「它們用的是同一支工具嗎」；是 → 換一種觀測管道再測一次，才有資格寫進 negative findings。**
+- **觸發**：2026-08-15 文策院研究。四隻 Sonnet 研究 agent 各自獨立對 taicca.tw 做 WebFetch，全部 403，四份分部報告各自誠實記進 §4 negative findings；orchestrator（我）收件時把四份一致合成成「系統性 bot 阻擋，判定為官網內容不可得」寫進主報告 §2。哲宇一句「用 mcp 看，這可能是因為網站渲染的關係，子 agent 通常沒有讀」——換瀏覽器讀 rendered DOM 立刻拿到全文（該站是 JS 渲染，WebFetch 天生讀不到）。那篇官網專題研究後來提供了《茶金》與文策院關係的三條可溯源連結（數位模型庫／產業研究／後續團隊劇本開發投資），是原本會被整段寫成「查無」的材料。
+- **可能層級**：通用反射候選——任何 fan-out 研究／驗證編排都成立。跟 #31 同祖先（agent claim 是線索不是事實）但方向相反且機制不同：#31 防的是樂觀自評，本條防的是**悲觀共識**，且多了「相關失敗被誤讀成獨立佐證」這層統計性誤判。distill 時可考慮 fold 進 #31 當 negative-claim 變體，或獨立成條。
+- **相關**：REFLEXES #31（agent claim 是線索不是事實）、#69（每層自評都需要外部尺）、#82（proxy signal — 這裡的代理是「WebFetch 讀不到」代理「內容不存在」）
+- **verification_count**: 1
+- **severity**: moderate（單次 instance，但形狀清楚且代價可觀——差點讓一整個一手來源被寫成死路）
+
+### 2026-08-15 manual — directional-misreading-of-observer-input：把觀察者給的資訊讀成自己既有判斷的佐證，誤讀方向永遠偏向自己原本就想改的地方
+
+- **pattern**: `directional-misreading-of-observer-input`
+- **原則**：接到觀察者的 directive 時，如果腦中已經有一個「我正準備要改的方向」，新資訊會被自動歸類進那個框架，而不是被當成獨立輸入讀。這種誤讀**有方向性**：永遠偏向自己原本的判斷，所以自己驗不出來，只能靠觀察者再說一次才會現形——代價是同一件事要說三次才校正得到位。跟一般的「聽錯」不同的是它有系統偏差，因此值得當成一種需要主動防的 pattern：**收到參數類 directive 時，先複述一次自己讀到的數字與它的歸屬（總量還是分項、上限還是下限），再動手改 canonical。**
+- **觸發**：2026-08-15 搜尋量參數校正。哲宇說「分頭 search 要求降低到 100」→ 我腦中裝著「要砍搜尋量」，把 100 落到我正在編輯的 Stage 1 fan-out 欄位（實為文章總量）。他更正並補「每一隻 agent 100 反而效果沒有比較好，或是每一隻 30-40」→ 我腦中裝著「超跑是病」，把後半句讀成第二個失敗案例（實為他在給正確值）。第三次他直接給參數「全篇 150 次左右，stage0 20-30」才校正到位。同 session 另一個形狀相同的 instance：他說 taicca.tw「可能是因為網站渲染」，我最初也是先把它讀成對既有 403 判定的補充說明，而非「換工具就能解」的指令。
+- **可能層級**：Semiont-specific（跟觀察者互動的介面層），非通用工程反射。可能適合 REFLEXES §六（協作與溝通）或直接進 MANIFESTO §自主權邊界 的鄰近段落。與 [CLAUDE.md §Bias 1](../../CLAUDE.md)（對 creator 預設加分）不同：那條講的是「不加篩選地執行哲宇的 idea」，本條講的是「連讀都沒讀對就開始執行」，發生在更前面的一層。
+- **相關**：CLAUDE.md §Bias 1（reverse bias）、REFLEXES #69（每層自評都需要外部尺——這裡連「我讀懂了嗎」都需要外部尺）
+- **verification_count**: 1
+- **severity**: moderate（單次 instance 但同 session 內出現兩個形狀相同的案例；影響的是校正速度而非產出正確性）
+
 ### 2026-08-14 twmd-maintainer-am — doc-and-validator-drift-has-no-reconciler：說明書跟驗證器各自演化，中間沒有東西在對賬
 
 - **pattern**: `doc-and-validator-drift-has-no-reconciler`
