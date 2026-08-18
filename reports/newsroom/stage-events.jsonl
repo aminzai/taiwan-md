@@ -778,3 +778,6 @@
 {"ts": "2026-08-15T22:12:30Z", "slug": "台灣科技說故事", "stage": "ship", "status": "done", "source": "observed", "sha": "6bdb2b944ac2"}
 {"ts": "2026-08-16T22:12:02Z", "slug": "inbox:早餐雙篇重疊整併 EVOLVE — 〈台灣豆漿與早餐店〉× 〈台灣早餐文化〉", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-08-17T22:13:11Z", "slug": "inbox:中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-18T02:18:27Z", "slug": "台灣早餐文化", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T02:18:27Z", "slug": "台灣早餐文化", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T02:18:27Z", "slug": "台灣早餐文化", "stage": "ship", "status": "done", "source": "observed", "sha": "ed947741e52b"}
