@@ -26,6 +26,7 @@ import {
   useTranslatedPath,
 } from '../i18n/utils';
 import { getLangSwitchPath } from '../utils/getLangSwitchPath';
+import { getArticlesIndex } from '../utils/articles-index';
 import ly from '../data/ly-budget.json';
 import { fmtYi, fmtPct } from '../utils/budgetViz';
 
@@ -122,21 +123,48 @@ const special = ly.specialBudgets as any[];
 const days = ly.days as any[];
 const sources = (ly.meta as any).sources as any[];
 
-// ── 延伸閱讀（存在才連；跨語走 lang-switch registry）────────────────
-async function related(zhPath: string, knowledgeFile: string) {
-  if (!existsSync(resolve(process.cwd(), 'knowledge', knowledgeFile))) return null;
+// ── 延伸閱讀（存在才連；跨語走 lang-switch registry；另開分頁）───────
+// 每一區底下一排站內相關文章 chip。zh 路徑當 key，其他語言用 lang-switch registry 找對應譯文，
+// 沒譯文就退回 zh 頁；標題從該語言的 articles index 取。knowledge/ 檔不存在就不出現（例：文策院尚未推上 origin）。
+type RelCard = { href: string; title: string; desc: string };
+const _idx = await getArticlesIndex(lang);
+const _idxZh = lang === 'zh-TW' ? _idx : await getArticlesIndex('zh-TW');
+async function related(catDir: string, zhSlug: string): Promise<RelCard | null> {
+  if (!existsSync(resolve(process.cwd(), 'knowledge', catDir, `${zhSlug}.md`))) return null;
+  const cat = catDir.toLowerCase();
+  const zhPath = `/${cat}/${zhSlug}`;
+  const zhEntry = (_idxZh.get(cat) || []).find((a) => a.slug === zhSlug);
+  let href = zhPath;
+  let entry = zhEntry;
   try {
     const r = await getLangSwitchPath(zhPath);
-    const entry = (r.langs as any)[lang];
-    return entry?.has ? entry.link : zhPath;
+    const e = (r.langs as any)[lang];
+    if (e?.has && e.link) {
+      href = e.link;
+      const slug = decodeURIComponent(e.link.replace(/\/$/, '').split('/').pop() || '');
+      entry = (_idx.get(cat) || []).find((a) => a.slug === slug) || zhEntry;
+    }
   } catch {
-    return zhPath;
+    /* registry 讀不到就退回 zh */
   }
+  const full = entry?.title || zhSlug;
+  // chip 只顯示主標（冒號前），完整標題與 description 放 title 屬性
+  return { href, title: full.split(/[：:—–]/)[0].trim() || full, desc: `${full}${entry?.description ? ' — ' + entry.description : ''}` };
 }
-const relTaicca = await related('/economy/文化內容策進院', 'Economy/文化內容策進院.md');
-const relPts = await related('/society/公視', 'Society/公視.md');
-const relRecall = await related('/history/大罷免', 'History/大罷免.md');
-const relPolitics = await related('/society/台灣政治環境與選舉制度', 'Society/台灣政治環境與選舉制度.md');
+async function relatedList(items: [string, string][]): Promise<RelCard[]> {
+  const out = await Promise.all(items.map(([c, s]) => related(c, s)));
+  return out.filter((x): x is RelCard => !!x);
+}
+const REL = {
+  s0: await relatedList([['Society', '台灣政治環境與選舉制度'], ['Technology', '開源社群與g0v'], ['Society', '公共政策網路參與平臺']]),
+  s1: await relatedList([['Economy', '發票'], ['Lifestyle', '台灣醫療與全民健保']]),
+  s2: await relatedList([['Society', '台灣長期照顧制度發展'], ['Society', '台灣少子化危機'], ['Lifestyle', '台灣醫療與全民健保'], ['Society', '台灣國防與軍事現代化'], ['Society', '台灣高等教育擴張與退場']]),
+  s3: await relatedList([['Society', '台灣邦交國與國際外交'], ['Society', '台灣體育發展與奧運'], ['Economy', '台灣農業現代化發展'], ['Lifestyle', '台灣的公車系統'], ['Society', '國宅與居住正義']]),
+  s4: await relatedList([['History', '大罷免'], ['Politics', '2026 九合一選舉'], ['Society', '台灣政治環境與選舉制度']]),
+  s5: await relatedList([['Society', '公視'], ['Economy', '文化內容策進院'], ['Society', '台灣媒體與新聞自由'], ['Society', '報導者'], ['History', '國家人權博物館'], ['History', '台灣轉型正義'], ['Society', '台灣設計研究院']]),
+  s6: await relatedList([['Technology', '雪山隧道'], ['Lifestyle', '台灣的公車系統'], ['Society', '台灣國防與軍事現代化']]),
+  s7: await relatedList([['Economy', '文化內容策進院'], ['Society', '公視'], ['History', '大罷免'], ['Society', '台灣政治環境與選舉制度']]),
+};
 
 const passedDate = cuts115.date as string;
 const toc = [
@@ -225,6 +253,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </ol>
         <p class="bp-note">{t('budget.s0.note')}</p>
+        {REL.s0.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s0.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -273,6 +311,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           />
         </div>
         <p class="bp-note">{t('budget.s1.note')}</p>
+        {REL.s1.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s1.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -309,6 +357,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           />
         </div>
         <p class="bp-note">{t('budget.s2.note')}</p>
+        {REL.s2.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s2.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -344,6 +402,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           source={zh ? '同上；105 年度＝100，改制機關視為同一序列' : 'Same as above; FY2016 = 100, renamed agencies treated as one series'}
         />
         <p class="bp-note">{t('budget.s3.note')}</p>
+        {REL.s3.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s3.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -421,6 +489,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
             ))
           }
         </div>
+        {REL.s4.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s4.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -525,6 +603,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </div>
         <p class="bp-note">{t('budget.s5.note')}</p>
+        {REL.s5.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s5.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -595,6 +683,16 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
           }
         </div>
         <p class="bp-note">{t('budget.s6.note')}</p>
+        {REL.s6.length > 0 && (
+          <div class="bp-related is-inline">
+            <span class="bp-related-k">{t('budget.s7.related.h')}</span>
+            {REL.s6.map((r) => (
+              <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+                {r.title}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
 
@@ -637,10 +735,11 @@ const kindCls = (k: string) => (k === 'cut' ? 'is-cut' : k === 'freeze' ? 'is-fr
 
         <h3 class="bp-h3">{t('budget.s7.related.h')}</h3>
         <div class="bp-related">
-          {relTaicca && <a href={relTaicca}>🎬 {t('budget.s7.related.taicca')}</a>}
-          {relPts && <a href={relPts}>📺 {t('budget.s7.related.pts')}</a>}
-          {relRecall && <a href={relRecall}>🗳️ {t('budget.s7.related.recall')}</a>}
-          {relPolitics && <a href={relPolitics}>🏛️ {t('budget.s7.related.politics')}</a>}
+          {REL.s7.map((r) => (
+            <a href={r.href} target="_blank" rel="noopener" title={r.desc}>
+              📖 {r.title}
+            </a>
+          ))}
           <a href={translatePath('/data')}>📊 {t('budget.s7.related.data')}</a>
           <a href={translatePath('/companies')}>🏢 {t('budget.s7.related.companies')}</a>
           <a href={translatePath('/opendata')}>🗂️ {t('budget.s7.related.opendata')}</a>

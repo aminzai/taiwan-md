@@ -807,3 +807,26 @@ text.bg-endlab { stroke: none; }
     line-height: 1;
   }
 }
+
+/* ── 每區底下的站內延伸閱讀 chip（另開分頁） ────────────────────────── */
+.budget-page .bp-related.is-inline {
+  margin: var(--space-4) 0 0;
+  gap: 0.45rem;
+  align-items: center;
+}
+.budget-page .bp-related.is-inline a {
+  font-size: 0.82rem;
+  padding: 0.3rem 0.75rem;
+  border-color: var(--bg-grid);
+  color: var(--bg-ink-soft);
+}
+.budget-page .bp-related.is-inline a:hover {
+  color: var(--bg-ink);
+  border-color: var(--color-accent);
+}
+.budget-page .bp-related-k {
+  font-size: 0.78rem;
+  color: var(--bg-ink-soft);
+  letter-spacing: 0.04em;
+  margin-inline-end: 0.2rem;
+}
