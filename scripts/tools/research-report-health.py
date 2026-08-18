@@ -101,6 +101,18 @@ URL_RE = re.compile(r"https?://[^\s\)\]\>\"'，。、；]+")
 # v3（2026-07-12 茶文化）：容忍 §-prefix heading（## §8 = ## 8）。原 regex 只認「## 8.」，
 # 漏掉 §-前綴寫法 → §8 指到 1,303 行 repo raw 卻判密度 0。§ 是 codebase 慣用 section 標記，
 # 儀器不該對它脆裂。同步放寬 END regex。
+# v4（2026-08-18 中央研究院）：§8 起點改取「第一個」命中，不再每命中就覆蓋。
+# 病：head regex `8[\.\s、]` 刻意寬鬆（要吃 `## 8` 也要吃 `## 8.1` 分節型），但下方迴圈原本
+# 寫成 `start = i` 無條件覆蓋 → **最後一個 §8.x 子節標題變成起點**，它前面的 inline raw 全被
+# 跳過。兩種真實佈局都中招：(a) 中央研究院報告 §8 下 inline 四份 agent raw 後面接一段
+# 「## §8.O」orchestrator 補查 → 只算到 §8.O；(b) 台灣設計研究院 v3 用 `## 8.1`～`## 8.5`
+# 分節、沒有純 `## 8` → 只算到 8.5 的 16 行（實際 86）。失敗方向是**假陰性**（擋下合格報告），
+# 會誘導 orchestrator 去補救一個不存在的洞。
+# 為什麼不收緊 regex 改吃不到子節：那會讓 (b) 這種合法佈局整個偵測不到（密度歸零），比原 bug 更糟。
+# 為什麼 first-match 不會被「報告前段引用八段模板」錨太前而高估：457 份 corpus dogfood 實測，
+# last→first 只有 4 份量測改變，**全部是往上修正低估**（+185/+70/+20/+6），零份被灌水
+# （REFLEXES #66：閾值與 regex 改動用真實產出校準，不憑想像——本次正是想像被 corpus 推翻）。
+# 對應 REFLEXES #65「awareness instrument 自身 regex/parser 必須 cross-verify ground truth」。
 S8_HEAD_RE = re.compile(r"^##\s*§?\s*8[\.\s、]")
 # §8 結束 = 下一個 §9-19 numbered section，或已知的 trailing 非編號段（flag/參考/附錄/圖片來源）。
 # 後者避免「§8 跑到 EOF 把 §flag 的 knowledge/*.md 引用誤當 raw pointer」的 bleed（2026-07-12
@@ -190,7 +202,10 @@ def analyze_s8(txt: str, report_path: Path):
     start = end = None
     for i, l in enumerate(lines):
         if S8_HEAD_RE.match(l):
-            start = i
+            # v4：只取第一個 §8 家族標題當起點。原本無條件 `start = i` 會讓後面的
+            # `## §8.O` / `## 8.5` 這類子節標題把起點推到最後一節，前面的 raw 全被跳過。
+            if start is None:
+                start = i
         elif start is not None and S8_END_RE.match(l):
             end = i
             break
