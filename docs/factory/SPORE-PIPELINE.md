@@ -469,6 +469,8 @@ bash scripts/tools/make-spore.sh /art/臺灣漫遊錄/
 
 [REFLEXES #26 v2](../semiont/DNA.md) 合規：產圖 = AI 自主；發文 to Threads/X = AI 透過 Chrome MCP 輸入文案 + osascript clipboard paste 貼圖 + **觀察者明確確認後點發佈**。
 
+**非文章頁的配圖（資料頁／專題頁的圖表截圖，v3.16，2026-08-18）**：`make-spore.sh` 只做文章卡；/budget 這類站上頁面要「截某個圖表或區塊當發文圖」用 `scripts/tools/page-shots.mjs square`——吃一份 spec（selector＋viewport＋alt，例：`data/budget/spore-shots.json`），對正式站截圖：隱藏浮動 chrome、等 justfont `jf-active`、只截目標元素的 union bbox（先把 viewport 拉到整頁高再量，量測與截圖同一幾何）、白底補成 1280×1280、每張回報最小實體字高（< 22px 警告），並寫 README（設定＋alt）。同一支的 `sections` 模式給頁面驗收（整頁＋逐 section，desktop／mobile／dark）。production-origin 鐵律與 AI 視覺自檢同樣適用。
+
 **Git 記錄邊界**（v2.7）：
 
 - `public/spore-images/*.png` 是 derived asset，若 `.gitignore` 已忽略**不要 force-add**
@@ -861,3 +863,5 @@ _v3.12 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— Stage 4 新�
 _v3.13 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— production-origin gate 加入字型實載驗證：日星鑄字行標題必須以 FontFaceSet 對完整標題字元通過 `load()`／`check()` 才能截圖；修正產圖器錯等 `lanyanghei`、timeout 後仍以 fallback 存檔的漏洞。_
 
 _v3.14 | 2026-07-14 台北吸菸室 #155/#156 finale — 完整吸收本次 ship friction：(1) 圖卡缺陷分 HARD 資訊受損／SOFT 排版瑕疵，末字孤行可由觀察者明確拍板發布但須留痕；(2) binary clipboard 成為 Chrome 圖片上傳首選；(3) post 成功訊號建立優先序，禁止 profile lag 觸發重發；(4) Threads 以 author-scoped search exact hook 回收 canonical URL，X 由 sent alert 回收 status URL並跟隨實際 t.co 驗 UTM；(5) X rich editor 多 newline 僅於驗證層正規化。實戰結果：Threads `DaxYe4Sk52Q`、X `2076992601543327976`，雙平台 direct post + image + UTM 全通過。_
+
+_v3.16 | 2026-08-18 /budget 總預算十年孢子（哲宇 directive「把這次使用來截圖的儀器留起來納入自己的系統」）— §配圖 新增非文章頁配圖工具 `scripts/tools/page-shots.mjs`（square 孢子圖／sections 驗收圖），spec 範例 `data/budget/spore-shots.json`。觸發：預算頁十張配圖前後寫了三支臨時 .mjs 用完刪；bbox 量測與 fullPage 截圖幾何不一致切掉一行的教訓寫進工具註解。_
