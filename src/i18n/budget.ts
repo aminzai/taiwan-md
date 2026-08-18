@@ -119,13 +119,13 @@ export const budgetUI = {
     // §2 functions
     'budget.s2.kicker':
       'Three parts in ten to the old, the young, the sick, the poor;\ntwo parts to schools and laboratories;\ntwo more to guns and soldiers’ pay.',
-    'budget.s2.h2': 'Social welfare has been the largest function all decade; defense climbed to third in FY2026, only NT$7.8B behind education',
+    'budget.s2.h2': 'Social welfare has been the largest function all decade; defense reached a ten-year-high 18.1% share, only NT$7.8B behind education',
     'budget.s2.lede':
       'The government sorts every dollar into nine “functions”. Read the stacked area for the total and how each band thickens; read the 100% view for shares. Note the basis: FY2016–FY2024 are audited final accounts, FY2025 is the legal budget, FY2026 is the proposal — the only ten-year series DGBAS publishes on one table.',
     'budget.s2.chart.title': 'Expenditure by function, FY2016–FY2026 (NT$100M)',
     'budget.s2.chart2.title': 'Share of expenditure by function, FY2016–FY2026',
     'budget.s2.p1':
-      'Social welfare rose from NT$460B to NT$832B and never left first place; the idea that welfare “overtook” education recently is wrong — it was already ahead in FY2016. Defense went from NT$309B to NT$549B and passed economic development in FY2026. Education, science and culture grew too, from NT$382B to NT$557B, but its share slipped from 19.7% to 18.3%.',
+      'Social welfare rose from NT$460B to NT$832B and never left first place; the idea that welfare “overtook” education recently is wrong — it was already ahead in FY2016. Defense went from NT$309B to NT$549B and its share from 15.9% to 18.1%, a ten-year high; it slipped to fourth in FY2023–24 when economic-development spending swelled, and was back in third by FY2025. Education, science and culture grew too, from NT$382B to NT$557B, but its share slipped from 19.7% to 18.3%, tied with FY2023 for the decade’s low.',
     'budget.s2.p2':
       'The two flat bands are pensions and debt service: pensions moved from NT$147B to NT$184B, debt service stayed near NT$100B as interest rates and outstanding debt both fell. Community and environment, at NT$27B, is the thinnest band on the chart and the easiest to lose sight of.',
     'budget.s2.note':
@@ -359,13 +359,13 @@ export const budgetUI = {
 
     'budget.s2.kicker':
       '十分之三給了老小病弱，\n兩分給了學校與實驗室，\n再兩分給了槍砲與軍餉。',
-    'budget.s2.h2': '社會福利十年都是第一大支出。國防在 115 年度升到第三，跟教科文只差 78 億',
+    'budget.s2.h2': '社會福利十年都是第一大支出，國防占比升到十年最高的 18.1%，跟教科文只差 78 億',
     'budget.s2.lede':
       '政府把每一塊錢歸進九個「政事別」。看堆疊面積讀總量與每一層的厚薄，看 100% 版讀占比。口徑要先說：105–113 年度是審計部審定的決算數、114 年度是法定預算數、115 年度是預算案數——這是主計總處唯一在同一張表上給出的十年序列。',
     'budget.s2.chart.title': '歲出政事別，105–115 年度（億元）',
     'budget.s2.chart2.title': '歲出政事別占比，105–115 年度',
     'budget.s2.p1':
-      '社會福利從 4,601 億走到 8,318 億，十年沒離開過第一位。「社福最近才超越教科文」的說法是錯的，105 年度它就已經領先。國防從 3,093 億到 5,488 億，115 年度超過經濟發展。教育科學文化也在長，3,824 億到 5,566 億，但占比從 19.7% 滑到 18.3%。',
+      '社會福利從 4,601 億走到 8,318 億，十年沒離開過第一位。「社福最近才超越教科文」的說法是錯的，105 年度它就已經領先。國防從 3,093 億到 5,488 億，占比從 15.9% 升到 18.1%，是十年最高。112、113 年度它一度落到第四，那兩年經濟發展支出放大，114 年度回到第三。教育科學文化也在長，3,824 億到 5,566 億，但占比從 19.7% 滑到 18.3%，跟 112 年度並列十年最低。',
     'budget.s2.p2':
       '兩條幾乎平的帶子是退休撫卹與債務：退撫從 1,468 億到 1,844 億，債務支出一直在一千億上下，利率與未償餘額同時往下走。社區發展及環保只有 266 億，是圖上最薄、也最容易被忽略的一層。',
     'budget.s2.note':
