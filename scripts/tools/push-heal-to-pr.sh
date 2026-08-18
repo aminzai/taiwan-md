@@ -57,10 +57,16 @@ head_ref="$(jq -r .headRefName <<<"$meta")"
 fork_owner="$(jq -r .headRepositoryOwner.login <<<"$meta")"
 fork_repo="$(jq -r .headRepository.name <<<"$meta")"
 
-git fetch -q origin "pull/$PR/head"
-base="$(git rev-parse FETCH_HEAD)"
+# 先直接抓 fork 的分支（權威源）；origin 的 refs/pull/N/head 是 GitHub 側複製，實測會落後幾秒
+# 造成 non-fast-forward 被拒（2026-08-18 Y2 兩次）。抓不到 fork 才退回 pull/N/head。
+if git fetch -q "https://github.com/$fork_owner/$fork_repo.git" "refs/heads/$head_ref" 2>/dev/null; then
+  base="$(git rev-parse FETCH_HEAD)"
+else
+  git fetch -q origin "pull/$PR/head"
+  base="$(git rev-parse FETCH_HEAD)"
+fi
 if [ "$base" != "$head_sha" ]; then
-  echo "⚠️ FETCH_HEAD ($base) ≠ gh headRefOid ($head_sha)，PR 剛被推過新 commit？以 FETCH_HEAD 為準" >&2
+  echo "⚠️ 抓到的 head ($base) ≠ gh headRefOid ($head_sha)——PR 剛被推過新 commit？以剛抓到的為準（fork 分支是權威源）" >&2
 fi
 
 # 暫時 index：從 base tree 出發，只換掉指定 path
