@@ -2,9 +2,10 @@
 /**
  * SmallMultiples — 多組同型趨勢的小倍數格（graph.md §二「多組同型趨勢」）。
  * 每格一機關；共用 y 值域（indexed 模式：起點年 = 100，讀「誰長得快」）。
- * 每格標名 + 終點值；表格 fallback 一張。
+ * v2：每格是獨立的 <svg> 放在 CSS grid 裡（桌機 4 欄、手機 2 欄自然回流），不再是一張 756 寬的大 SVG
+ * 縮到 324px；標籤與終點值估寬會撞就分兩行（en 全名不再壓字）；表格 fallback 一張。
  */
-import { scaleLinear, linePath, areaPath } from '../../utils/budgetViz';
+import { scaleLinear, linePath, areaPath, estTextW } from '../../utils/budgetViz';
 
 export interface Panel {
   id: string;
@@ -19,6 +20,7 @@ export interface Panel {
 }
 interface Props {
   title: string;
+  subtitle?: string;
   years: number[];
   panels: Panel[];
   /** 共用 y 值域（indexed 模式建議 [50, 300]） */
@@ -33,6 +35,7 @@ interface Props {
 }
 const {
   title,
+  subtitle,
   years,
   panels,
   yMin = 0,
@@ -47,63 +50,60 @@ const {
 const allVals = panels.flatMap((p) => p.values.filter((v): v is number => v !== null));
 const top = yMax ?? Math.max(...allVals) * 1.05;
 const pw = 180;
-const ph = 96;
-const gap = 12;
-const rows = Math.ceil(panels.length / cols);
-const W = cols * pw + (cols - 1) * gap;
-const H = rows * (ph + gap);
-const inner = { l: 6, r: 6, t: 20, b: 8 };
-const x = scaleLinear(years[0], years[years.length - 1], inner.l, pw - inner.r);
-const y = scaleLinear(yMin, top, ph - inner.b, inner.t);
+const inner = { l: 8, r: 8, t: 22, b: 10 };
 const zh = lang === 'zh-TW';
 const uid =
   id ||
   `sm-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const x = scaleLinear(years[0], years[years.length - 1], inner.l, pw - inner.r);
+// 標籤太長：先縮字（11.5 → 10），再不行就截尾加「…」（全名在 <title> 與資料表）
+const fitLabel = (label: string) => {
+  const maxW = pw - inner.l - inner.r - 4;
+  if (estTextW(label, 11.5, 6.4) <= maxW) return { text: label, size: 11.5 };
+  if (estTextW(label, 10, 5.6) <= maxW) return { text: label, size: 10 };
+  let t = label;
+  while (t.length > 2 && estTextW(t + '…', 10, 5.6) > maxW) t = t.slice(0, -1);
+  return { text: t.trimEnd() + '…', size: 10 };
+};
+const geo = panels.map((p) => {
+  const lab = fitLabel(p.label);
+  const twoLine = estTextW(lab.text, lab.size, lab.size * 0.56) + estTextW(p.endText || '', 11, 6.2) + 22 > pw;
+  const ph = twoLine ? 112 : 98;
+  const headH = twoLine ? 38 : inner.t;
+  const y = scaleLinear(yMin, top, ph - inner.b, headH);
+  const pts = p.values
+    .map((v, k) => (v === null ? null : { x: x(years[k]), y: y(Math.min(v, top)) }))
+    .filter((q): q is { x: number; y: number } => q !== null);
+  const last = pts[pts.length - 1];
+  return { p, lab, ph, twoLine, y, pts, last, base: y(Math.max(yMin, baseline ?? yMin)), baseY: baseline !== undefined && baseline >= yMin && baseline <= top ? y(baseline) : null };
+});
 ---
 
-<figure class="bg-chart bg-multiples" data-chart="multiples" id={uid}>
+<figure class="bg-chart bg-multiples" data-chart="multiples" id={uid} style={`--bg-cols:${cols}`}>
   <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
-  <svg
-    viewBox={`0 0 ${W} ${H}`}
-    role="img"
-    aria-labelledby={`${uid}-h`}
-    class="bg-svg"
-    preserveAspectRatio="xMidYMid meet"
-  >
-    <title id={`${uid}-t`}>{title}</title>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  <div class="bg-multi-grid" role="img" aria-labelledby={`${uid}-h`}>
     {
-      panels.map((p, i) => {
-        const cx = (i % cols) * (pw + gap);
-        const cy = Math.floor(i / cols) * (ph + gap);
-        const pts = p.values
-          .map((v, k) => (v === null ? null : { x: x(years[k]), y: y(Math.min(v, top)) }))
-          .filter((q): q is { x: number; y: number } => q !== null);
-        const last = pts[pts.length - 1];
-        return (
-          <g transform={`translate(${cx},${cy})`} class={`bg-panel ${p.highlight ? 'is-hi' : ''}`} data-id={p.id}>
-            <rect x={0} y={0} width={pw} height={ph} rx={8} class="bg-panel-bg" />
-            {baseline !== undefined && baseline >= yMin && baseline <= top && (
-              <line x1={inner.l} x2={pw - inner.r} y1={y(baseline)} y2={y(baseline)} class="bg-baseline" />
-            )}
-            {pts.length > 1 && (
-              <path d={areaPath(pts, pts.map((q) => ({ x: q.x, y: y(Math.max(yMin, baseline ?? yMin)) })))} class="bg-area" />
-            )}
-            <path d={linePath(pts)} class="bg-line" fill="none" />
-            {last && <circle cx={last.x} cy={last.y} r={2.6} class="bg-dot" />}
-            <text x={inner.l + 2} y={13} class="bg-panel-lab">
-              {p.label}
+      geo.map(({ p, lab, ph, twoLine, pts, last, base, baseY }) => (
+        <svg viewBox={`0 0 ${pw} ${ph}`} class={`bg-panel ${p.highlight ? 'is-hi' : ''}`} data-id={p.id} preserveAspectRatio="xMidYMid meet">
+          <title>{`${p.label}${p.endText ? '：' + p.endText : ''}`}</title>
+          <rect x={0} y={0} width={pw} height={ph} rx={8} class="bg-panel-bg" />
+          {baseY !== null && <line x1={inner.l} x2={pw - inner.r} y1={baseY} y2={baseY} class="bg-baseline" />}
+          {pts.length > 1 && <path d={areaPath(pts, pts.map((q) => ({ x: q.x, y: base })))} class="bg-area" />}
+          <path d={linePath(pts)} class="bg-line" fill="none" />
+          {last && <circle cx={last.x} cy={last.y} r={2.6} class="bg-dot" />}
+          <text x={inner.l + 2} y={14} class="bg-panel-lab" style={`font-size:${lab.size}px`}>
+            {lab.text}
+          </text>
+          {p.endText && (
+            <text x={pw - inner.r - 2} y={twoLine ? 30 : 14} text-anchor="end" class="bg-panel-end">
+              {p.endText}
             </text>
-            {p.endText && (
-              <text x={pw - inner.r - 2} y={13} text-anchor="end" class="bg-panel-end">
-                {p.endText}
-              </text>
-            )}
-            <title>{`${p.label}${p.endText ? '：' + p.endText : ''}`}</title>
-          </g>
-        );
-      })
+          )}
+        </svg>
+      ))
     }
-  </svg>
+  </div>
   {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
   <details class="bg-table">
     <summary>{zh ? '資料表' : 'Data table'}</summary>

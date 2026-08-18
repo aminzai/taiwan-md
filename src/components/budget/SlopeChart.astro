@@ -1,0 +1,143 @@
+---
+/**
+ * SlopeChart — 恰兩個時點的變化（graph.md §二「slope（剛好兩點）」）。
+ * 用在 /budget §2：政事別占比 105 → 115 年度，九類各一條線，兩端直接標名與值；
+ * `highlight` 的列上色，其餘退灰（graph.md §三.10）。取代 v1 的 100% 堆疊面積——
+ * Datawrapper：「If you want to show that one share overtook another one, consider a line chart instead」。
+ * 寬 760／窄 400 兩套幾何；資料表 fallback。
+ */
+import { scaleLinear, estTextW, fitText, CHART_WIDTHS } from '../../utils/budgetViz';
+
+export interface SRow {
+  id: string;
+  label: string;
+  left: number;
+  right: number;
+  /** colour slot class（bg-cat-N）；沒給或 highlight=false 時退灰 */
+  cls?: string;
+  highlight?: boolean;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  leftLabel: string;
+  rightLabel: string;
+  rows: SRow[];
+  /** 值格式：'%' 顯示一位小數加 %；'raw' 原樣 */
+  unit?: '%' | 'raw';
+  source?: string;
+  lang?: string;
+  id?: string;
+  height?: number;
+}
+const { title, subtitle, leftLabel, rightLabel, rows, unit = '%', source, lang = 'zh-TW', id, height = 420 } = Astro.props;
+const zh = lang === 'zh-TW';
+const uid =
+  id ||
+  `sl-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const fmt = (v: number) => (unit === '%' ? `${v.toFixed(1)}%` : String(v));
+const vMax = Math.max(...rows.flatMap((r) => [r.left, r.right]));
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? Math.round(height * 0.95) : height;
+  const lw = Math.max(...rows.map((r) => estTextW(`${r.label} ${fmt(r.left)}`, 12, 6.6)));
+  const rw = Math.max(...rows.map((r) => estTextW(`${fmt(r.right)} ${r.label}`, 12, 6.6)));
+  const M = {
+    l: Math.min(narrow ? 150 : 250, lw + 16),
+    r: Math.min(narrow ? 150 : 250, rw + 16),
+    t: 30,
+    b: 14,
+  };
+  // 標籤放不進側欄（en 長名＋手機）：縮字→截尾（全名在 <title> 與表）
+  const valW = Math.max(...rows.map((r) => estTextW(fmt(r.right), 12, 6.6))) + 6;
+  const fitL = rows.map((r) => fitText(r.label, M.l - 12 - valW, 12, 10));
+  const fitR = rows.map((r) => fitText(r.label, M.r - 12 - valW, 12, 10));
+  const iw = W - M.l - M.r;
+  const ih = H - M.t - M.b;
+  const y = scaleLinear(0, vMax * 1.04, M.t + ih, M.t);
+  const xL = M.l;
+  const xR = M.l + iw;
+  // 兩端標籤防重疊：各自依 y 排、最小間距 13px
+  const place = (vals: number[]) => {
+    const ord = vals.map((v, i) => ({ i, y: y(v) })).sort((a, b) => a.y - b.y);
+    for (let k = 1; k < ord.length; k++) if (ord[k].y - ord[k - 1].y < 13) ord[k].y = ord[k - 1].y + 13;
+    const out = new Array(vals.length).fill(0);
+    ord.forEach((o) => (out[o.i] = o.y));
+    return out;
+  };
+  const lyL = place(rows.map((r) => r.left));
+  const lyR = place(rows.map((r) => r.right));
+  return { W, H, M, iw, ih, y, xL, xR, lyL, lyR, narrow, fitL, fitR };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart" data-chart="slope" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg viewBox={`0 0 ${L.W} ${L.H}`} role="img" aria-labelledby={`${uid}-h`} class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`} preserveAspectRatio="xMidYMid meet">
+        <title>{title}</title>
+        <text x={L.xL} y={L.M.t - 12} text-anchor="middle" class="bg-tick bg-slope-head">{leftLabel}</text>
+        <text x={L.xR} y={L.M.t - 12} text-anchor="middle" class="bg-tick bg-slope-head">{rightLabel}</text>
+        <line x1={L.xL} x2={L.xL} y1={L.M.t} y2={L.M.t + L.ih} class="bg-axis" />
+        <line x1={L.xR} x2={L.xR} y1={L.M.t} y2={L.M.t + L.ih} class="bg-axis" />
+        {/* 灰列先畫、強調列後畫（蓋在上面） */}
+        {[...rows.map((r, i) => ({ r, i }))]
+          .sort((a, b) => Number(!!a.r.highlight) - Number(!!b.r.highlight))
+          .map(({ r, i }) => {
+            const y0 = L.y(r.left);
+            const y1 = L.y(r.right);
+            return (
+              <g class={`bg-slope-row ${r.highlight ? 'is-hi' : ''} ${r.highlight && r.cls ? r.cls : ''}`} data-id={r.id}>
+                <line x1={L.xL} x2={L.xR} y1={y0} y2={y1} class="bg-line" />
+                <circle cx={L.xL} cy={y0} r={L.narrow ? 3 : 3.6} class="bg-dot">
+                  <title>{`${r.label} · ${leftLabel}：${fmt(r.left)}`}</title>
+                </circle>
+                <circle cx={L.xR} cy={y1} r={L.narrow ? 3 : 3.6} class="bg-dot">
+                  <title>{`${r.label} · ${rightLabel}：${fmt(r.right)}`}</title>
+                </circle>
+                <text x={L.xL - 8} y={L.lyL[i] + 4} text-anchor="end" class="bg-endlab" style={`font-size:${L.fitL[i].size}px`}>
+                  {L.fitL[i].text}
+                  <tspan class="bg-endlab-v"> {fmt(r.left)}</tspan>
+                </text>
+                <text x={L.xR + 8} y={L.lyR[i] + 4} class="bg-endlab" style={`font-size:${L.fitR[i].size}px`}>
+                  <tspan class="bg-endlab-v">{fmt(r.right)} </tspan>
+                  {L.fitR[i].text}
+                </text>
+              </g>
+            );
+          })}
+      </svg>
+    ))
+  }
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '類別' : 'Category'}</th>
+            <th class="num">{leftLabel}</th>
+            <th class="num">{rightLabel}</th>
+            <th class="num">{zh ? '變化（百分點）' : 'Change (pp)'}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <td>{r.label}</td>
+                <td class="num">{fmt(r.left)}</td>
+                <td class="num">{fmt(r.right)}</td>
+                <td class="num">{`${r.right - r.left > 0 ? '+' : ''}${(r.right - r.left).toFixed(1)}`}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

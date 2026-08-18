@@ -6,7 +6,7 @@
  * 書寫紀律：MANIFESTO §11（對位句型 ≤3／破折號節制／零晶晶體）；
  * kicker 是詩句層，H2 是斷言層（graph.md §三.1），兩者不互相取代。
  */
-// 其他語言的 182 key 由翻譯 sub-agent 落在 data/budget/i18n/{lang}.json（對賬：scripts/tools/check-budget-i18n.py）
+// 其他語言的 219 key（v1 182 ＋ v2 37）由翻譯 sub-agent 落在 data/budget/i18n/{lang}.json（對賬：scripts/tools/check-budget-i18n.py）
 import ja from '../../data/budget/i18n/ja.json';
 import ko from '../../data/budget/i18n/ko.json';
 import es from '../../data/budget/i18n/es.json';
@@ -121,7 +121,7 @@ export const budgetUI = {
       'Three parts in ten to the old, the young, the sick, the poor;\ntwo parts to schools and laboratories;\ntwo more to guns and soldiers’ pay.',
     'budget.s2.h2': 'Social welfare has been the largest function all decade; defense reached a ten-year-high 18.1% share, only NT$7.8B behind education',
     'budget.s2.lede':
-      'The government sorts every dollar into nine “functions”. Read the stacked area for the total and how each band thickens; read the 100% view for shares. Note the basis: FY2016–FY2024 are audited final accounts, FY2025 is the legal budget, FY2026 is the proposal — the only ten-year series DGBAS publishes on one table.',
+      'The government sorts every dollar into nine “functions”. Read the stacked area for the total and how each band thickens; read the slope for whose share rose and whose fell between FY2016 and FY2026. Note the basis: FY2016–FY2024 are audited final accounts, FY2025 is the legal budget, FY2026 is the proposal — the only ten-year series DGBAS publishes on one table.',
     'budget.s2.chart.title': 'Expenditure by function, FY2016–FY2026 (NT$100M)',
     'budget.s2.chart2.title': 'Share of expenditure by function, FY2016–FY2026',
     'budget.s2.p1':
@@ -195,8 +195,8 @@ export const budgetUI = {
       'Of the money written down,\nninety-seven parts in a hundred are truly spent;\nthe rest is carry-over and what never got used.',
     'budget.s6.h2': 'Final-account execution ran 97–98% for nine straight years; the story hides in the denominator',
     'budget.s6.lede':
-      'The grey track is the legal budget, the blue bar is the final account audited later. Execution rate here is final ÷ legal, without supplementary budgets. It is a rate of spending, not a measure of whether the spending worked.',
-    'budget.s6.chart.title': 'Legal budget vs final accounts, FY2016–FY2024 (NT$100M)',
+      'Each bar is one year’s legal budget; the blue is the share the audited final account took of it, the pale tail is what went unspent. Execution rate here is final ÷ legal, without supplementary budgets. It is a rate of spending, not a measure of whether the spending worked.',
+    'budget.s6.chart.title': 'Execution rate = final accounts ÷ legal budget, FY2016–FY2024',
     'budget.s6.p1':
       'FY2025 is the textbook case for denominators: against the post-cut legal budget of NT$2.925T, the NT$2.934T final account looks like overspending; against the NT$3.007T available after the NT$81.9B supplementary budget, it is 97.6% executed. Same number, two stories.',
     'budget.s6.p2':
@@ -260,6 +260,45 @@ export const budgetUI = {
     'budget.toc.s5': 'Two-year contest',
     'budget.toc.s6': 'Spent',
     'budget.toc.s7': 'How to read',
+
+    // v2（2026-08-18）：三分鐘版 takeaway、黏頂子導覽、圖表斷言標題、日曆條、量表——reports/design-budget-page-v2-2026-08-18.md
+    'budget.hero.brief': 'The three-minute version: eight sentences',
+    'budget.toc.s0.take': 'A budget passes seven stations in three branches over eighteen months; FY2026 sat at station three 257 days past the deadline.',
+    'budget.toc.s1.take': 'Legal expenditure grew from NT$1.98T to NT$2.99T (+51%); as a share of GDP it stayed near 10% all decade.',
+    'budget.toc.s2.take': 'Social welfare stayed the largest function (27.4%); defense rose to a ten-year-high 18.1% share; education is the only big-four function whose share fell.',
+    'budget.toc.s3.take': 'Labor and Economic Affairs more than doubled, Finance shrank 14%; Defense added NT$241.3B, the largest increase of any ministry.',
+    'budget.toc.s4.take': 'The Legislative Yuan cut 1.04–1.25% for eight years, 6.62% in FY2025, 1.58% in FY2026.',
+    'budget.toc.s5.take': 'FY2026 was sent in August 2025 and passed 14 August 2026; “how late” has three counts — 351, 266, 115 days — each attributed.',
+    'budget.toc.s6.take': 'Execution ran 97–98% for nine straight years, leaving NT$36.1B–67.7B unspent a year; the “NT$949.5B” defense figure is four blocks added together.',
+    'budget.toc.s7.take': 'Every number has a twin that is also true: proposed/legal/final, cut/frozen, general/special budget.',
+    'budget.subnav.label': 'Sections',
+    'budget.s0.overview': 'Seven stations at a glance',
+    'budget.s1.chart.gap': 'LY cut',
+    'budget.s1.chart2.take': 'Spending stayed at 9.6–11.1% of GDP; the debt ratio fell from 33.0% to 25.2%',
+    'budget.s2.chart2.take': 'Shares over ten years: welfare 23.7% → 27.4%, defense 15.9% → 18.1%, education 19.7% → 18.3%',
+    'budget.s2.legend.share': 'FY2026 value · share',
+    'budget.s2.slope.left': 'FY2016',
+    'budget.s2.slope.right': 'FY2026',
+    'budget.s2.growth.take': 'Among the four big functions education grew slowest: +46%, vs welfare +81%, defense +77%, economic development +60%',
+    'budget.s2.growth.sub': 'Growth FY2016 → FY2026 (audited final → proposal)',
+    'budget.s3.chart2.take': 'With FY2016 = 100, Labor reached 254, Economic Affairs 251, Finance 86',
+    'budget.s3.table.share': 'Share of FY2026',
+    'budget.s4.band': 'Eight-year band',
+    'budget.s5.cal.title': 'FY2026’s year in the legislature: sent, deadline, referred, passed',
+    'budget.s5.cal.sub': 'Top: the calendar and six milestones. Bottom: three counts of “how late”, all measured back from the passage date',
+    'budget.s5.cal.approved': 'Cabinet approved',
+    'budget.s5.cal.sent': 'Delivered to LY',
+    'budget.s5.cal.deadline': 'Budget Act §51 deadline',
+    'budget.s5.cal.fystart': 'Fiscal year starts',
+    'budget.s5.cal.referred': 'Referred to committee',
+    'budget.s5.cal.passed': 'Passed',
+    'budget.s5.cal.s54': 'Running under §54',
+    'budget.s5.cal.note': 'The three counts start from different points (Cabinet approval, delivery, referral); the chart measures all of them back from 2026-08-14. Delivery to passage: 348 days; statutory deadline to passage: 257 days.',
+    'budget.s6.exec.spent': 'Executed (final ÷ legal)',
+    'budget.s6.exec.unspent': 'Unspent',
+    'budget.s6.exec.take': 'Each year 1.6–2.9% of the legal budget went unspent; the most was FY2024’s NT$67.7B',
+    'budget.s6.defense.tick': '“Defense” function line',
+    'budget.tip.close': 'Close',
   },
   'zh-TW': {
     'budget.meta.title': '總預算十年 — 中央政府總預算 2016–2026 的分配、增減與執行',
@@ -361,7 +400,7 @@ export const budgetUI = {
       '十分之三給了老小病弱，\n兩分給了學校與實驗室，\n再兩分給了槍砲與軍餉。',
     'budget.s2.h2': '社會福利十年都是第一大支出，國防占比升到十年最高的 18.1%，跟教科文只差 78 億',
     'budget.s2.lede':
-      '政府把每一塊錢歸進九個「政事別」。看堆疊面積讀總量與每一層的厚薄，看 100% 版讀占比。口徑要先說：105–113 年度是審計部審定的決算數、114 年度是法定預算數、115 年度是預算案數——這是主計總處唯一在同一張表上給出的十年序列。',
+      '政府把每一塊錢歸進九個「政事別」。看堆疊面積讀總量與每一層的厚薄，看斜率圖讀十年間占比誰升誰降。口徑要先說：105–113 年度是審計部審定的決算數、114 年度是法定預算數、115 年度是預算案數——這是主計總處唯一在同一張表上給出的十年序列。',
     'budget.s2.chart.title': '歲出政事別，105–115 年度（億元）',
     'budget.s2.chart2.title': '歲出政事別占比，105–115 年度',
     'budget.s2.p1':
@@ -431,8 +470,8 @@ export const budgetUI = {
       '寫下來的錢，\n一百塊裡有九十七塊會真的花出去。\n剩下的是保留款，和沒花完的。',
     'budget.s6.h2': '連續九年決算執行率都在 97–98% 之間，故事藏在分母',
     'budget.s6.lede':
-      '灰軌是法定預算，藍條是事後審定的決算。這裡的執行率＝決算 ÷ 法定預算，不含追加預算。它量的是錢有沒有花出去，不是花得對不對。',
-    'budget.s6.chart.title': '法定預算 vs 決算，105–113 年度（億元）',
+      '每一條是一個年度的法定預算，藍色是事後審定的決算占它的比例，右邊淺色是沒花完的部分。這裡的執行率＝決算 ÷ 法定預算，不含追加預算。它量的是錢有沒有花出去，不是花得對不對。',
+    'budget.s6.chart.title': '決算執行率＝決算 ÷ 法定預算，105–113 年度',
     'budget.s6.p1':
       '114 年度是分母的教科書案例：對三讀後的 2.925 兆算，決算 2.934 兆看起來是超支。對追加 819 億之後可支用的 3.007 兆算，是執行 97.6%。同一個數字，兩個故事。',
     'budget.s6.p2':
@@ -495,6 +534,45 @@ export const budgetUI = {
     'budget.toc.s5': '兩年的角力',
     'budget.toc.s6': '編了，花了多少',
     'budget.toc.s7': '怎麼讀',
+
+    // v2（2026-08-18）：三分鐘版 takeaway、黏頂子導覽、圖表斷言標題、日曆條、量表——reports/design-budget-page-v2-2026-08-18.md
+    'budget.hero.brief': '三分鐘版：八句話讀完這一頁',
+    'budget.toc.s0.take': '預算走七站、經三個院、要一年半。115 年度在第三站卡了 257 天。',
+    'budget.toc.s1.take': '法定歲出十年從 1.98 兆長到 2.99 兆（+51%），占 GDP 十年都在一成上下。',
+    'budget.toc.s2.take': '社福十年都是第一大支出（27.4%）。國防占比升到十年最高的 18.1%，教科文是四大支出裡唯一占比下滑的。',
+    'budget.toc.s3.take': '勞動部、經濟部十年翻一倍多，財政部少 14%。國防部多了 2,413 億，是增加最多的部會。',
+    'budget.toc.s4.take': '立法院刪減比例八年落在 1.04–1.25%，114 年度 6.62%，115 年度 1.58%。',
+    'budget.toc.s5.take': '115 年度總預算 2025 年 8 月送院、2026 年 8 月 14 日三讀。「拖了幾天」有 351、266、115 三種算法，各歸說話者。',
+    'budget.toc.s6.take': '決算執行率連續九年 97–98%，沒花完的錢每年 360 到 677 億。國防「9,495 億」是四塊積木加起來的。',
+    'budget.toc.s7.take': '每個數字都有一個也是真的雙胞胎：提案／法定／決算、刪除／凍結、總預算／特別預算。',
+    'budget.subnav.label': '本頁章節',
+    'budget.s0.overview': '七站總覽',
+    'budget.s1.chart.gap': '立法院刪減',
+    'budget.s1.chart2.take': '歲出占 GDP 十年在 9.6–11.1% 之間，債務比從 33.0% 降到 25.2%',
+    'budget.s2.chart2.take': '占比十年：社福 23.7% → 27.4%、國防 15.9% → 18.1%、教科文 19.7% → 18.3%',
+    'budget.s2.legend.share': '115 年度值 · 占比',
+    'budget.s2.slope.left': '105 年度',
+    'budget.s2.slope.right': '115 年度',
+    'budget.s2.growth.take': '四大支出裡教科文十年成長最慢：+46%，社福 +81%、國防 +77%、經濟發展 +60%',
+    'budget.s2.growth.sub': '105 → 115 年度成長率（105 年度決算審定數 → 115 年度預算案數）',
+    'budget.s3.chart2.take': '以 105 年度＝100，勞動部走到 254、經濟部 251，財政部 86',
+    'budget.s3.table.share': '占 115 年度歲出',
+    'budget.s4.band': '八年窄帶',
+    'budget.s5.cal.title': '115 年度總預算在立法院的一年：送院、期限、付委、三讀',
+    'budget.s5.cal.sub': '上：日曆與六個節點。下：三種「拖了幾天」，一律從三讀日往回量',
+    'budget.s5.cal.approved': '院會通過',
+    'budget.s5.cal.sent': '送達立法院',
+    'budget.s5.cal.deadline': '預算法 §51 期限',
+    'budget.s5.cal.fystart': '年度開始',
+    'budget.s5.cal.referred': '付委',
+    'budget.s5.cal.passed': '三讀',
+    'budget.s5.cal.s54': '依 §54 運作',
+    'budget.s5.cal.note': '三個天數的起點各不相同（院會通過、送院、付委），圖上一律從 2026-08-14 往回量。送達到三讀 348 天，法定期限到三讀 257 天。',
+    'budget.s6.exec.spent': '已執行（決算 ÷ 法定）',
+    'budget.s6.exec.unspent': '未執行',
+    'budget.s6.exec.take': '每年法定預算有 1.6–2.9% 沒花完，最多的一年是 113 年度的 677 億',
+    'budget.s6.defense.tick': '政事別「國防」',
+    'budget.tip.close': '關閉',
   },
   ja,
   ko,

@@ -52,24 +52,59 @@ export function areaPath(top: Pt[], bottom: Pt[]): string {
   return `${up} ${down} Z`;
 }
 
-/** 億元 → 顯示字串。≥ 10,000 億顯示「X.XX 兆」，否則「X,XXX 億」。 */
+/**
+ * 億元 → 顯示字串。
+ * zh：≥ 10,000 億顯示「X.XX 兆」，否則「X,XXX 億」。
+ * en：≥ 10,000 億 → NT$X.XXT；≥ 10 億 → NT$X.XB；否則 NT$X00M（480 億 = NT$48.0B，不是 NT$48000M）。
+ */
 export function fmtYi(v: number | null | undefined, lang = 'zh-TW'): string {
   if (v === null || v === undefined || Number.isNaN(v)) return '—';
   const zh = lang === 'zh-TW';
-  if (Math.abs(v) >= 10000) {
+  const a = Math.abs(v);
+  if (a >= 10000) {
     const t = v / 10000;
     return zh ? `${t.toFixed(2)} 兆` : `NT$${t.toFixed(2)}T`;
   }
-  const n = Math.round(v).toLocaleString('en-US');
-  return zh ? `${n} 億` : `NT$${n}00M`;
+  if (zh) return `${Math.round(v).toLocaleString('en-US')} 億`;
+  if (a >= 10) return `NT$${(v / 10).toFixed(1)}B`;
+  return `NT$${Math.round(v * 100).toLocaleString('en-US')}M`;
 }
 
-/** 短版（軸刻度用）：兆／億 不帶單位詞尾（由軸標題說明）。 */
-export function fmtAxis(v: number, unit: '億' | '%' = '億'): string {
+/** 短版（軸刻度用）：兆／億 不帶單位詞尾（由軸標題說明）；英文頁用 T。 */
+export function fmtAxis(v: number, unit: '億' | '%' = '億', lang = 'zh-TW'): string {
   if (unit === '%') return `${v}%`;
-  if (Math.abs(v) >= 10000) return `${(v / 10000).toFixed(v % 10000 === 0 ? 0 : 1)}兆`;
+  const zh = lang === 'zh-TW';
+  if (Math.abs(v) >= 10000) {
+    const t = (v / 10000).toFixed(v % 10000 === 0 ? 0 : 1);
+    return zh ? `${t}兆` : `${t}T`;
+  }
   return `${Math.round(v).toLocaleString('en-US')}`;
 }
+
+/** 估字寬（SVG 佈局用）：CJK ~12px/字、拉丁 ~6.5px/字（11–12px 字級）。 */
+export function estTextW(str: string, cjk = 12, latin = 6.5): number {
+  return Array.from(str).reduce((a, c) => a + (c.charCodeAt(0) > 255 ? cjk : latin), 0);
+}
+
+/**
+ * 把一段標籤塞進 maxW：先用原字級，放不下就縮到 minSize，再放不下就截尾加「…」
+ * （全名仍在 <title> 與資料表；截字只發生在極長的英文機關名）。
+ */
+export function fitText(str: string, maxW: number, size = 12, minSize = 10): { text: string; size: number } {
+  const w = (t: string, sz: number) => estTextW(t, sz, sz * 0.55);
+  if (w(str, size) <= maxW) return { text: str, size };
+  if (w(str, minSize) <= maxW) return { text: str, size: minSize };
+  let t = str;
+  while (t.length > 2 && w(t + '…', minSize) > maxW) t = t.slice(0, -1);
+  return { text: t.trimEnd() + '…', size: minSize };
+}
+
+/** 圖表兩套幾何：寬版 760（桌機）／窄版 380（≤720px 手機，顯示比例約 0.89），CSS 只顯示其一。 */
+export const CHART_WIDTHS = [
+  { key: 'wide', W: 760 },
+  { key: 'narrow', W: 380 },
+] as const;
+export type ChartWidthKey = (typeof CHART_WIDTHS)[number]['key'];
 
 /** 百分比字串，帶正負號（增減用）。 */
 export function fmtPct(v: number | null | undefined, digits = 1): string {
