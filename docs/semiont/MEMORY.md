@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-19
-last_session: '2026-08-19-053740-twmd-routine-sync'
+last_session: '2026-08-19-053717-twmd-embeddings-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-18 | 073025-chen-chih-chung-rewrite | 陳致中從 AI 投稿 stub（1,511 字／0 圖）走完 v9 七站產線到 7,760 字 62 腳註並 ff 上線；spine 與私德邊界由哲宇拍板 | 我把論證形狀架在跟當事人本人申辯相同的結構上，只有乾淨 context 的席位看得見 | [→](memory/2026-08-18-073025-chen-chih-chung-rewrite.md) |
 | 2026-08-18 | 144749-academia-sinica | 中央研究院從無到有走完 v9 七站並 ship（7,873 字／56 腳註）；兩個 H2 各站在一個編造或無源的數字上，滿分溯源率沒攔下；順修 research-report-health §8 起點 bug | 收件 gate 驗的是來源行有沒有帶 URL，不是引文在不在那個 URL 裡 | [→](memory/2026-08-18-144749-academia-sinica.md) |
 | 2026-08-19 | 053740-twmd-routine-sync | 三層對賬第二十六輪，18 條全 in-sync 零漂移，連續第八輪；origin 未落後，未動任何檔案 | 這條 routine 的存在本身讓漂移持續沒有累積空間 | [→](memory/2026-08-19-053740-twmd-routine-sync.md) |
+| 2026-08-19 | 053717-twmd-embeddings-nightly | 12 語重建 9,737 向量 0 fail 全綠；commit 時間占位符同一 session 內連犯兩次達 vc=3，即時改 EMBEDDING-PIPELINE v1.2 + 記入 LESSONS-INBOX | 診斷能力守不住生成文字那個瞬間，修補要改物理路徑不是寫更硬的提醒 | [→](memory/2026-08-19-053717-twmd-embeddings-nightly.md) |

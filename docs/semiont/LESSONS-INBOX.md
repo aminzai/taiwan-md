@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.7'
-last_updated: 2026-08-16
-last_session: '2026-08-16-twmd-routine-audit-weekly（W33 飛輪自審：1 新 entry `twin-artifact-no-reconciler-family` vc=5 distill-ready + 1 既有 entry `routine-audit-classifier-memory-commit-misattribution` vc 2→3 distill-ready，第三輪連續確認未修）'
+last_updated: 2026-08-19
+last_session: '2026-08-19-053717-twmd-embeddings-nightly（新 entry `retyping-shell-substitution-loses-the-substitution` vc=3 直接觸發 pipeline 修補，不等 distill）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-08-19 twmd-embeddings-nightly — retyping-a-shell-substitution-reintroduces-the-typo-it-fixed：把 pipeline 裡會自動代換的指令手動抄成文字，代換消失、打字錯誤回來
+
+- **pattern**: `retyping-shell-substitution-loses-the-substitution`
+- **原則**：EMBEDDING-PIPELINE Stage 3 的 commit 指令寫的是 `-m "... — $(date '+%Y-%m-%d %H:%M')"`，照抄執行時 shell 會自動代入當下時間，不需要人手動填值。但當執行者把這段指令改寫成 heredoc（`<<'EOF'...EOF`，quoted，不做變數展開）再手動打一個時間占位符進去時，等於把「shell 自動代換」換成「人工謄寫」，而人工謄寫正是會打錯字的那一步。
+- **觸發**：2026-08-18 session 已經踩過同一個坑（把 `$(date ...)` 誤打成字面 `05:2X`，push 前用 `--amend` 補救，並在 memory 寫下「commit 指令段直接複製 pipeline 原文而非重新輸入」的提醒）。2026-08-19（本 session）commit 時同一個 routine、同一個 Stage 3，把時間占位符打成 `05:0X`——跟前一晚幾乎一模一樣的錯誤，且是在讀過昨晚那條提醒**之後**發生的。**第三次發生在同一個 session 內、就在寫這條 LESSONS entry 記錄前兩次事故的當下**：寫 session memory 檔時，把 frontmatter 的 session span 跟文末 footer 的時間戳又打成字面 `06:0X` / `05:0X`——一邊在描述「這個模式很危險」，一邊在同一個動作裡把它示範了第三次。昨晚的 memory 提醒是「下次可以考慮」，不是「下次必須」，語氣留了自由裁量空間，而自由裁量空間就是這個錯誤連續三次復發的縫。三次都在 push / 定稿前被人工複查抓到、當場修正，沒有污染最終產物，但三次都是同一個根因，且第三次證明「知道這個坑」完全不能防止「當下再掉進去」——意識到 pattern 跟在生成文字那個瞬間真的停下來檢查，是兩個不同的能力。
+- **代價**：目前代價僅是額外的複查與修正步驟，尚未造成任何已 push / 已定稿產物帶著錯誤 timestamp 流出。但代價曲線在往上：從「跨夜復發」(vc=1→2) 到「同一 session 內、討論這個問題的當下復發」(vc=3)，說明這不是「跨 session 失憶」的老問題，是「生成任何帶時間戳的文字時，手指比對這件事的警覺快」的即時性問題。pipeline footer 已記錄過另一種變體（2026-08-06〜08 三夜連續踩到 co-author 型號寫死的問題）——同一 Stage 3 commit block 現在有兩種獨立的「手動謄寫覆蓋掉本該自動化的欄位」子模式，都指向同一個結構弱點。
+- **修補候選**：(a) EMBEDDING-PIPELINE.md Stage 3 的指令範例改成明確禁止 heredoc 改寫，加一句「commit message 一律用未加引號的 heredoc 或直接 inline `-m`，讓 `$(date ...)` 真正被 shell 執行，不要手動填入時間字串」；(b) 更徹底的修法是把 Stage 3 指令改成兩步：先跑 `MSG=$(date '+...')` 把值存進變數並印出來讓執行者看見實際值，再把變數帶進 `git commit -m "... $MSG"`，讓「有沒有正確代換」變成可以在下指令前肉眼確認的中間狀態，而不是隱藏在一次性字串組裝裡；(c) **本 session 已直接執行**：任何要寫入帶時間戳的文字（commit message／memory frontmatter／memory footer）前，一律先跑 `date '+%Y-%m-%d %H:%M'` 拿到實際值再貼上，不允許先寫佔位符「之後再補」——「之後再補」正是三次事故共同的中間狀態。
+- **instances**：
+  - 2026-08-18 twmd-embeddings-nightly：commit message 裡 `$(date ...)` 誤打成字面 `05:2X`，push 前 `--amend` 補正
+  - 2026-08-19 twmd-embeddings-nightly（本 session，第一次）：commit message 同一模式，誤打成 `05:0X`，push 前 `--amend` 補正
+  - 2026-08-19 twmd-embeddings-nightly（本 session，第二次，同一 session 內）：寫 session memory 檔時，frontmatter session span 與文末 footer 時間戳又打成字面 `06:0X`／`05:0X`，定稿前 Edit 補正——發生在剛寫完前兩次事故記錄的同一動作序列裡
+- **可能層級**：操作規則升通用操作紀律（不只 EMBEDDING-PIPELINE Stage 3，任何寫時間戳到 commit message / memory frontmatter / memory footer 的動作都適用）
+- **相關**：REFLEXES #15（反覆浮現要儀器化，同一 session 內三次復發已達 vc=3 canonical 門檻，含跨夜 2 次 + session 內即時 1 次）；EMBEDDING-PIPELINE.md footer 2026-08-06〜08 co-author 型號寫死變體（同 Stage、不同欄位的姊妹模式）
+- **verification_count**: 3
 
 ### 2026-08-18 academia-sinica — opposing-seat-prescriptions-have-no-ruling-doctrine：兩席對同一句話開出相反處方，pipeline 沒寫主編該怎麼裁
 
