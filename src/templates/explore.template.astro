@@ -104,6 +104,7 @@ interface PickArticle {
   categoryColor: string;
   coverImage?: string;
   featured: boolean;
+  curation?: 'incubating' | 'verified';
 }
 
 const categoryFolders: Array<[string, string, string]> = [
@@ -151,6 +152,10 @@ for (const [slug, folder, emoji] of categoryFolders) {
             // 一致；無圖 → undefined → ArticleCard 退回分類色 placeholder。不用 OG 卡。
             coverImage: data.image || undefined,
             featured: !!data.featured,
+            curation:
+              data.curation === 'incubating' || data.curation === 'verified'
+                ? data.curation
+                : undefined,
           });
         }
       } catch {}
@@ -197,6 +202,7 @@ interface PopularArticle {
   readingTime: number;
   footnotes: number;
   views: number;
+  curation?: 'incubating' | 'verified';
 }
 
 const slugToFolder = new Map(categoryFolders.map(([s, f]) => [s, f]));
@@ -253,6 +259,10 @@ try {
       readingTime: data.readingTime || 10,
       footnotes,
       views: item.views || 0,
+      curation:
+        data.curation === 'incubating' || data.curation === 'verified'
+          ? data.curation
+          : undefined,
     });
   }
 } catch {
@@ -510,6 +520,7 @@ const routedCats = categoryList;
                 footnotes={p.footnotes}
                 coverImage={p.coverImage}
                 imageLoading={i < 2 ? 'eager' : 'lazy'}
+                curation={p.curation}
                 openIn="same-tab"
                 dataAttrs={{ 'data-ga-section': 'explore_featured' }}
               />
@@ -548,6 +559,7 @@ const routedCats = categoryList;
                 footnotes={p.footnotes}
                 coverImage={p.coverImage}
                 imageLoading={i < 2 ? 'eager' : 'lazy'}
+                curation={p.curation}
                 openIn="same-tab"
                 dataAttrs={{ 'data-ga-section': 'explore_popular' }}
               />

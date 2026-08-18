@@ -384,6 +384,7 @@ const jsonLd = JSON.stringify({
                           : undefined
                       }
                       footnotes={entry.footnotes}
+                      curation={entry.curation}
                       openIn="same-tab"
                       dataAttrs={{ 'data-ga-section': 'timeline_page' }}
                     />
@@ -410,6 +411,7 @@ const jsonLd = JSON.stringify({
                             categoryLabel={cfg.name}
                             categoryIcon={cfg.icon}
                             categoryColor={cfg.color || '#64748b'}
+                            curation={entry.curation}
                             openIn="same-tab"
                             dataAttrs={{ 'data-ga-section': 'timeline_page' }}
                           />

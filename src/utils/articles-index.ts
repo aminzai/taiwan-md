@@ -26,6 +26,21 @@ export interface ArticleSummary {
   readingTime?: number; // frontmatter readingTime (分鐘)
   tags?: string[]; // frontmatter tags
   footnotes?: number; // count of [^n]: footnote definitions (引用深度訊號)
+  /** 查證狀態三態（reports/design-curation-tier-2026-08-04.md）：
+   * 'incubating' = 🌱 進化中 · 社群貢獻，'verified' = 🔎 已深度查證，
+   * undefined = 一般正式文章（缺省，多數）。只認顯式 frontmatter 值，不從
+   * lastHumanReview 等其他欄位推導。非 zh-TW 語言：frontmatter 缺 curation
+   * 時，若有 `translatedFrom` 指回 zh-TW 來源，繼承來源文章的 curation
+   * （見 buildIndex 內 zhCurationMap）。 */
+  curation?: 'incubating' | 'verified';
+}
+
+/** 只接受顯式 'incubating' / 'verified' 字串；其他任何值（含 true/false/其他
+ * 字串）一律視為未設定，避免舊資料的雜訊被誤讀成查證狀態。 */
+function normalizeCuration(
+  value: unknown,
+): 'incubating' | 'verified' | undefined {
+  return value === 'incubating' || value === 'verified' ? value : undefined;
 }
 
 const CATEGORY_MAPPING: Record<string, string> = {
@@ -64,6 +79,25 @@ async function buildIndex(
   lang: string,
 ): Promise<Map<string, ArticleSummary[]>> {
   const result = new Map<string, ArticleSummary[]>();
+
+  // 譯文層 curation 繼承（非 zh-TW only）：先把 zh-TW 索引攤成
+  // `folderName/slug` → curation 的 lookup map（folderName 對齊 frontmatter
+  // `translatedFrom: 'History/蓬萊米.md'` 的路徑寫法，不是 catSlug）。下面逐檔
+  // fallback 用：譯文自己沒標 curation、但找得到來源 zh 文章時，沿用來源的
+  // 查證狀態，讀者在任何語言都看得到同一篇文章的階段標籤。
+  let zhCurationMap: Map<string, 'incubating' | 'verified'> | null = null;
+  if (lang !== 'zh-TW') {
+    const zhIndex = await getArticlesIndex('zh-TW');
+    zhCurationMap = new Map();
+    for (const [catSlug, zhArticles] of zhIndex) {
+      const folderName = CATEGORY_MAPPING[catSlug];
+      if (!folderName) continue;
+      for (const a of zhArticles) {
+        if (a.curation) zhCurationMap.set(`${folderName}/${a.slug}`, a.curation);
+      }
+    }
+  }
+
   for (const [catSlug, folderName] of Object.entries(CATEGORY_MAPPING)) {
     const folderPath =
       lang === 'zh-TW'
@@ -82,6 +116,15 @@ async function buildIndex(
           // Footnote definitions ([^n]:) — citation-depth signal, same count
           // explore.template uses for its featured deep-dive cards.
           const footnotes = (fileContent.match(/^\[\^\d+\]:/gm) || []).length;
+          let curation = normalizeCuration(fm.curation);
+          if (
+            !curation &&
+            zhCurationMap &&
+            typeof fm.translatedFrom === 'string'
+          ) {
+            const zhKey = fm.translatedFrom.replace(/\.md$/, '');
+            curation = zhCurationMap.get(zhKey);
+          }
           articles.push({
             title: fm.title || articleSlug,
             slug: articleSlug,
@@ -92,6 +135,7 @@ async function buildIndex(
               typeof fm.readingTime === 'number' ? fm.readingTime : undefined,
             tags: Array.isArray(fm.tags) ? fm.tags : undefined,
             footnotes,
+            curation,
           });
         } catch {
           // unreadable file — skip silently

@@ -923,6 +923,34 @@
 :root[data-theme='dark'] .category-page .article-card-stat {
   color: var(--color-ink-soft);
 }
+/* 查證狀態 pill (.article-card-stage，2026-08-18) — 沿用 §curation 深色面
+ * 同一套 color-mix(accent) 配方（見上方 .curation-notice / .curation-badge
+ * dark 規則），accent 在 dark token 是淺藍 #60a5fa，跟 --color-ink 的近白
+ * 前景在深色底上對比遠高於 4.5:1。standard 態沒有語意色，退到中性 surface。 */
+:root[data-theme='dark'] .explore-page .article-card-stage.is-incubating,
+:root[data-theme='dark'] .latest-page .article-card-stage.is-incubating,
+:root[data-theme='dark'] .timeline-page .article-card-stage.is-incubating,
+:root[data-theme='dark'] .category-page .article-card-stage.is-incubating {
+  border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+  background: color-mix(in srgb, var(--color-accent) 14%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .explore-page .article-card-stage.is-verified,
+:root[data-theme='dark'] .latest-page .article-card-stage.is-verified,
+:root[data-theme='dark'] .timeline-page .article-card-stage.is-verified,
+:root[data-theme='dark'] .category-page .article-card-stage.is-verified {
+  border-color: color-mix(in srgb, var(--color-accent) 55%, transparent);
+  background: color-mix(in srgb, var(--color-accent) 20%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .explore-page .article-card-stage.is-standard,
+:root[data-theme='dark'] .latest-page .article-card-stage.is-standard,
+:root[data-theme='dark'] .timeline-page .article-card-stage.is-standard,
+:root[data-theme='dark'] .category-page .article-card-stage.is-standard {
+  border-color: var(--color-border);
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  color: var(--color-ink-soft);
+}
 /* Thumb placeholder bg (#f8fafc / #e8efec) + foot divider (#f1f5f9). */
 :root[data-theme='dark']
   .explore-page

@@ -92,6 +92,15 @@ const presentCats = CAT_ORDER.filter((c) =>
   articles.some((a) => a.category === c),
 );
 
+// 查證狀態階段 filter（reports/design-curation-tier-2026-08-04.md）——
+// 「全部階段」永遠顯示，其餘三態只在該階段有文章時才出現對應 chip。
+const stageCounts = {
+  incubating: articles.filter((a) => a.curation === 'incubating').length,
+  verified: articles.filter((a) => a.curation === 'verified').length,
+  standard: articles.filter((a) => !a.curation).length,
+};
+const hasStageSplit = stageCounts.incubating > 0 || stageCounts.verified > 0;
+
 const localeFor = (l: string) =>
   l === 'en' ? 'en-US' : l === 'zh-TW' ? 'zh-TW' : l;
 
@@ -175,33 +184,80 @@ const navMonthsData = navMonths.map((m) => ({
     <div
       class="mx-auto max-w-[var(--container-wide)] px-6 pb-24 max-[768px]:px-4"
     >
-      {/* Category filter chips */}
+      {/* Category + 查證階段 filter chips (two rows, both AND-combined client-side) */}
       <div
         id="latest-filters"
-        class="sticky top-[64px] z-20 -mx-4 mb-6 flex flex-wrap gap-2 border-b border-[#e2e8f0] bg-white/95 px-4 py-3 backdrop-blur-sm max-[768px]:top-[56px] max-[768px]:flex-nowrap max-[768px]:overflow-x-auto"
+        class="sticky top-[64px] z-20 -mx-4 mb-6 flex flex-col gap-2 border-b border-[#e2e8f0] bg-white/95 px-4 py-3 backdrop-blur-sm max-[768px]:top-[56px]"
       >
-        <button
-          class="latest-chip whitespace-nowrap rounded-full border border-[#10b981] bg-[#10b981] px-3 py-1.5 text-xs font-semibold text-white transition-all"
-          data-cat="all"
-        >
-          {t('latest.filterAll')}<span class="ml-1 opacity-70"
-            >{articles.length}</span
+        <div class="flex flex-wrap gap-2 max-[768px]:flex-nowrap max-[768px]:overflow-x-auto">
+          <button
+            class="latest-chip whitespace-nowrap rounded-full border border-[#10b981] bg-[#10b981] px-3 py-1.5 text-xs font-semibold text-white transition-all"
+            data-cat="all"
           >
-        </button>
+            {t('latest.filterAll')}<span class="ml-1 opacity-70"
+              >{articles.length}</span
+            >
+          </button>
+          {
+            presentCats.map((c) => {
+              const cfg = cats[c] || {};
+              const count = articles.filter((a) => a.category === c).length;
+              return (
+                <button
+                  class="latest-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
+                  data-cat={c}
+                >
+                  {cfg.icon} {cfg.name}
+                  <span class="ml-1 opacity-60">{count}</span>
+                </button>
+              );
+            })
+          }
+        </div>
         {
-          presentCats.map((c) => {
-            const cfg = cats[c] || {};
-            const count = articles.filter((a) => a.category === c).length;
-            return (
+          hasStageSplit && (
+            <div class="flex flex-wrap items-center gap-2 max-[768px]:flex-nowrap max-[768px]:overflow-x-auto">
+              <span class="mr-1 shrink-0 text-[0.68rem] font-semibold uppercase tracking-[0.08em] text-[#94a3b8]">
+                {t('latest.stageFilterLabel')}
+              </span>
               <button
-                class="latest-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
-                data-cat={c}
+                class="latest-stage-chip whitespace-nowrap rounded-full border border-[#1a3c34] bg-[#1a3c34] px-3 py-1.5 text-xs font-semibold text-white transition-all"
+                data-stage="all"
               >
-                {cfg.icon} {cfg.name}
-                <span class="ml-1 opacity-60">{count}</span>
+                {t('latest.stageAll')}
+                <span class="ml-1 opacity-70">{articles.length}</span>
               </button>
-            );
-          })
+              {stageCounts.incubating > 0 && (
+                <button
+                  class="latest-stage-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
+                  data-stage="incubating"
+                >
+                  🌱 {t('curation.stage.incubating')}
+                  <span class="ml-1 opacity-60">
+                    {stageCounts.incubating}
+                  </span>
+                </button>
+              )}
+              {stageCounts.standard > 0 && (
+                <button
+                  class="latest-stage-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
+                  data-stage="standard"
+                >
+                  {t('curation.stage.standard')}
+                  <span class="ml-1 opacity-60">{stageCounts.standard}</span>
+                </button>
+              )}
+              {stageCounts.verified > 0 && (
+                <button
+                  class="latest-stage-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
+                  data-stage="verified"
+                >
+                  🔎 {t('curation.stage.verified')}
+                  <span class="ml-1 opacity-60">{stageCounts.verified}</span>
+                </button>
+              )}
+            </div>
+          )
         }
       </div>
 
@@ -274,10 +330,12 @@ const navMonthsData = navMonths.map((m) => ({
                         }
                         footnotes={a.footnotes}
                         tags={a.tags}
+                        curation={a.curation}
                         openIn="same-tab"
                         extraClass="latest-row [content-visibility:auto] [contain-intrinsic-size:auto_140px]"
                         dataAttrs={{
                           'data-cat': a.category,
+                          'data-stage': a.curation ?? 'standard',
                           'data-ga-section': 'latest_page',
                         }}
                       />
@@ -307,17 +365,26 @@ const navMonthsData = navMonths.map((m) => ({
 <script is:inline>
   (function () {
     var chips = document.querySelectorAll('.latest-chip');
+    var stageChips = document.querySelectorAll('.latest-stage-chip');
     var rows = document.querySelectorAll('.latest-row');
     var dayGroups = document.querySelectorAll('.timeline-day');
     var navLinks = document.querySelectorAll('.timeline-nav-link');
     var navMonthEls = document.querySelectorAll('.timeline-nav-month');
 
-    // ── Category filter: toggle cards, then collapse empty day-groups +
-    //    sync the left date-nav rail (visibility + per-day counts). ──
-    function apply(cat) {
+    var currentCat = 'all';
+    var currentStage = 'all';
+
+    // ── Category × 查證階段 filter (AND'd): toggle cards, then collapse
+    //    empty day-groups + sync the left date-nav rail (visibility +
+    //    per-day counts). ──
+    function apply() {
       rows.forEach(function (r) {
-        r.style.display =
-          cat === 'all' || r.getAttribute('data-cat') === cat ? '' : 'none';
+        var matchesCat =
+          currentCat === 'all' || r.getAttribute('data-cat') === currentCat;
+        var matchesStage =
+          currentStage === 'all' ||
+          r.getAttribute('data-stage') === currentStage;
+        r.style.display = matchesCat && matchesStage ? '' : 'none';
       });
       dayGroups.forEach(function (g) {
         var visible = g.querySelectorAll(
@@ -355,6 +422,7 @@ const navMonthsData = navMonths.map((m) => ({
 
     chips.forEach(function (chip) {
       chip.addEventListener('click', function () {
+        currentCat = chip.getAttribute('data-cat');
         chips.forEach(function (c) {
           var active = c === chip;
           c.classList.toggle('border-[#10b981]', active);
@@ -364,7 +432,25 @@ const navMonthsData = navMonths.map((m) => ({
           c.classList.toggle('bg-white', !active);
           c.classList.toggle('text-[#64748b]', !active);
         });
-        apply(chip.getAttribute('data-cat'));
+        apply();
+      });
+    });
+
+    // ── 查證階段 filter row — 同一顆 apply() 疊加，active 色用深綠 #1a3c34
+    //    跟分類列的 emerald #10b981 區分開，兩列各自獨立高亮。 ──
+    stageChips.forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        currentStage = chip.getAttribute('data-stage');
+        stageChips.forEach(function (c) {
+          var active = c === chip;
+          c.classList.toggle('border-[#1a3c34]', active);
+          c.classList.toggle('bg-[#1a3c34]', active);
+          c.classList.toggle('text-white', active);
+          c.classList.toggle('border-[#e2e8f0]', !active);
+          c.classList.toggle('bg-white', !active);
+          c.classList.toggle('text-[#64748b]', !active);
+        });
+        apply();
       });
     });
 

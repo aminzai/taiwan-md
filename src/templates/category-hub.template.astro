@@ -30,6 +30,7 @@ import {
 import type { Lang } from '../config/languages';
 import type { SubcategoryGroup } from '../utils/category-static-paths';
 import subcatJson from '../data/subcategory-i18n.json';
+import { getArticlesIndex } from '../utils/articles-index';
 
 interface ArticleSummary {
   slug: string;
@@ -77,6 +78,18 @@ const {
 // zh-TW: '' (root URL convention)
 // non-zh: '/{lang}' prefix
 const langUrlPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+
+// ── 查證狀態三態 lookup（reports/design-curation-tier-2026-08-04.md）────────
+// Props（topPicks/articles/groups）的建構端是 src/utils/category-static-paths.ts
+// （本次改動範圍外），它不 emit curation。不去動那個檔案，改用
+// src/utils/articles-index.ts 的既有索引（同一批 knowledge/ 檔案，另一條已有
+// 的讀取路徑，module-level 快取，這裡是第二次讀不是重掃）現查現補一個
+// slug → curation 的小 map，下面render 時用它取代 Props 裡永遠是 undefined
+// 的 article.curation。
+const curationIndex = await getArticlesIndex(lang);
+const curationBySlug = new Map(
+  (curationIndex.get(category) || []).map((a) => [a.slug, a.curation]),
+);
 
 // Load economic data for economy category
 let taiexData: any[] = [];
@@ -562,6 +575,7 @@ const otherCategories = categories
                               ? article.updated.slice(0, 7)
                               : undefined
                           }
+                          curation={curationBySlug.get(article.slug)}
                           openIn="same-tab"
                         />
                       </li>
@@ -669,6 +683,7 @@ const otherCategories = categories
                                 ? article.updated.slice(0, 7)
                                 : undefined
                             }
+                            curation={curationBySlug.get(article.slug)}
                             openIn="same-tab"
                             extraClass={
                               article.featured ? 'hub-row-featured' : ''
