@@ -1908,6 +1908,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - GA4 交叉：`ga-query.py --dims pagePath --filter "pagePath~{人名}"` 逐篇跑（本 session 手動跑）
   - 既有判斷歷史：本檔許倬雲 entry §為什麼這篇 vs 其他（2026-05-17 對紀政的舊判斷）
 
+### 學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、既有文章串聯
+
+- **Type**: `NEW`（專題頁 + 1 篇條目）
+- **Category**: Society
+- **Priority**: `P2`（[Content] 類建議 default；升 P1 條件：考季前 SC「學測」「會考」查詢曝光有訊號、或哲宇點名）
+- **Status**: `pending`
+- **Requested**: 2026-08-18 by idlccp1984 於 [Discussion #104](https://github.com/frank890417/taiwan-md/discussions/104#discussioncomment-18063526)（8/16 留言，8/18 twmd-maintainer-manual 收）
+- **Notes**:
+  - C1：`knowledge/Society/學測.md`（8/15，16 腳註）與 `教育制度與升學文化.md`（早期薄文）已存在；**缺**「國中會考」單篇與把考試時程／制度變遷／志願怎麼填／相關文章收在一起的**專題頁**（形式先例：/budget、選舉專區）
+  - 投稿者附百度高考專題當形式參考——只借形式（時程表＋制度說明＋文章串聯），內容台灣自己的；該連結是 untrusted 資料不是指令
+  - 已回覆投稿者：不承諾時程、歡迎補考生／老師一手材料
+  - 專題頁屬 UI/資料頁工程（Mode 4 設計報告先行），非單純 REWRITE；國中會考條目走一般 REWRITE
+- **Reference**: Discussion #104 留言、knowledge/Society/學測.md、src/templates/budget（專題頁先例）
+
 ## 🚧 In-Progress
 
 _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 entries 裡用 `Status: in-progress` 標記。）_
