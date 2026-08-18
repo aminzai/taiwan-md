@@ -151,8 +151,8 @@ export const budgetUI = {
 
     // §4 the legislature's hand
     'budget.s4.kicker':
-      'Eight years the blade fell near one percent;\nin the ninth, six percent in a single stroke;\nin the tenth the blade drew halfway back — but the calendar had turned to August.',
-    'budget.s4.h2': 'The Legislative Yuan cut 1.0–1.25% for eight years, 6.6% in FY2025, and 1.6% in FY2026',
+      'Nine years the blade fell near one percent;\nin the tenth, six percent in a single stroke;\nin the eleventh the blade drew halfway back — but the calendar had turned to August.',
+    'budget.s4.h2': 'The Legislative Yuan cut 1.0–1.25% for nine years, 6.6% in FY2025, and 1.6% in FY2026',
     'budget.s4.lede':
       'The cut ratio is the cleanest political signal in this dataset. When the presidency and the legislative majority belonged to the same party — KMT in FY2016, DPP from FY2017 to FY2024 — the line is almost flat; under the KMT–TPP majority elected in 2024 it spikes, then falls back but not to the old band — and the passage date slides from December-before to August-after.',
     'budget.s4.chart.title': 'Share of proposed expenditure cut by the Legislative Yuan, FY2016–FY2026',
@@ -428,8 +428,8 @@ export const budgetUI = {
     'budget.s3.growthUnit': '指數',
 
     'budget.s4.kicker':
-      '八年，刀口都落在百分之一附近。\n第九年，一刀六個百分點。\n第十年刀收回一半，日曆卻翻到了八月。',
-    'budget.s4.h2': '立法院刪減比例八年落在 1.0–1.25%，114 年度跳到 6.6%，115 年度回到 1.6%',
+      '九年，刀口都落在百分之一附近。\n第十年，一刀六個百分點。\n第十一年刀收回一半，日曆卻翻到了八月。',
+    'budget.s4.h2': '立法院刪減比例九年落在 1.0–1.25%，114 年度跳到 6.6%，115 年度回到 1.6%',
     'budget.s4.lede':
       '刪減比例是這組資料裡最乾淨的政治訊號。總統與國會多數同黨的年份，105 年度的國民黨、106 到 113 年度的民進黨，都幾乎是一條平線。2024 年選出國民黨與民眾黨合計過半的國會之後，它跳起來、再落回，但沒回到舊的區間。三讀日期也從「前一年十二月」滑到「當年八月」。',
     'budget.s4.chart.title': '立法院刪減占行政院原列歲出的比例，105–115 年度',
