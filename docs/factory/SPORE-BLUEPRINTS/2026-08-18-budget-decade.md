@@ -1,5 +1,5 @@
 ---
-spore_number: 'TBD（未 ship；spore-log.json 2026-08-18 快照最大 id=171，下一組預留 #172/#173）'
+spore_number: '#172（Threads）／#173（X）— 2026-08-18 哲宇親發，spore-db.py add-spore 已登記'
 article: src/pages/budget.astro（/budget 頁，非 knowledge/ 文章；資料 SSOT 是 src/data/ly-budget.json，文案 SSOT 是 src/i18n/budget.ts）
 date: 2026-08-18
 session: 2026-08-18-twmd-spore-budget-decade（sub-agent 草稿，未執行 SHIP）
@@ -11,8 +11,8 @@ narrative_ethics_gate_passed: 'n/a（未觸發死亡／創傷／未成年四問�
 fact_check_table_passed: true
 prose_health_passed: true
 spore_writing_passed: true
-ci_cd_wait_gate: 'n/a — 本檔停在發佈前草稿，未跑 SHIP，未 post，未寫 spore-db'
-status: 'DRAFT ONLY — 政治題，發佈前必須由哲宇本人過目確認，不得由 AI 自動 ship'
+ci_cd_wait_gate: 'passed — /budget v2（4c2ac607e）11:39 上線後才發，配圖對 production 截'
+status: 'SHIPPED — Version C 由哲宇本人過目後親自貼文（Threads 全文＋X 短版），AI 未點發佈'
 ---
 
 # Spore 候選草稿（未發布）— 總預算十年 /budget
@@ -327,3 +327,16 @@ bash scripts/tools/make-spore.sh /budget/ --size square
 ---
 
 _v1 | 2026-08-18 — sub-agent 草稿，依 SPORE-PIPELINE.md 階段 1–3 ＋階段 4 子項（不含發佈）產出。哲宇原話切角＋兩版提案（A 第一人稱好奇／B 數字衝擊）；「大幅度下降」框架已用頁面 SSOT 數字校正；配圖工具現況確認不可直接跑（`.hero-title` selector 不存在於 budget.template.astro），已寫清楚手動 spec 與修復路徑但不在本次授權內動工具。_
+
+---
+
+## SHIP 紀錄（2026-08-18，哲宇親發）
+
+| # | 平台 | 版本 | URL | 配圖 |
+| --- | --- | --- | --- | --- |
+| 172 | Threads | Version C 全文（440 字，UTM s172） | <https://www.threads.com/@taiwandotmd/post/DcKsP3Co9jm> | `public/spore-images/budget-decade-01..10.png`（gitignored；alt 與設定見同目錄 README） |
+| 173 | X | Version C 短版（214 字，UTM s173） | <https://x.com/taiwandotmd/status/2089561276938666168> | 同上擇取 |
+
+配圖十張定稿順序：01 hero 四張數字卡 → 02 預算七站前四站 → 03 十年河流 → 04 政事別占比堆疊 → 05 機關排序（國防 5,614 vs 文化 273）→ 06 立法院刪減比例 → 07 文化與公共媒體兩年對照 → 08 各機關十年小倍數 → 09 占比斜率＋四大支出成長率 → 10 三種「拖了幾天」。08–10 由 `scripts/tools/page-shots.mjs square`（spec `data/budget/spore-shots.json`）產生；口徑卡與執行率兩張退為 alt 備用（哲宇 8/18 指示）。
+
+_v2 | 2026-08-18 — SHIP 紀錄補上；Version C 為最終稿；spore-log.json #172/#173 已寫。_
