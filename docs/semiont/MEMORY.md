@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-19 | 053740-twmd-routine-sync | 三層對賬第二十六輪，18 條全 in-sync 零漂移，連續第八輪；origin 未落後，未動任何檔案 | 這條 routine 的存在本身讓漂移持續沒有累積空間 | [→](memory/2026-08-19-053740-twmd-routine-sync.md) |
 | 2026-08-19 | 053717-twmd-embeddings-nightly | 12 語重建 9,737 向量 0 fail 全綠；commit 時間占位符同一 session 內連犯兩次達 vc=3，即時改 EMBEDDING-PIPELINE v1.2 + 記入 LESSONS-INBOX | 診斷能力守不住生成文字那個瞬間，修補要改物理路徑不是寫更硬的提醒 | [→](memory/2026-08-19-053717-twmd-embeddings-nightly.md) |
 | 2026-08-19 | 061325-twmd-data-refresh-am | 14 步全綠零 stale 連續第九天；貢獻者持平 74；上週新抓的格式性 404 熱點連續第三天未在新資料重現 | 多輪不重現比單輪更接近可判定已解決，但仍待人工追蹤根因 | [→](memory/2026-08-19-061325-twmd-data-refresh-am.md) |
+| 2026-08-19 | 064514-twmd-spore-harvest-am | budget-總預算十年三平台 D+1 首輪；讀者問「體育部呢」查站內 JSON 驗出運動部排名 24 落在頁面前 22 大機關榜外，回覆已發＋登記 EVOLVE candidate；X 登入牆延續 | 讀者的「頁面沒看到」不一定是事實錯誤，這次是呈現截斷，跨源驗證不必外部搜尋 | [→](memory/2026-08-19-064514-twmd-spore-harvest-am.md) |
