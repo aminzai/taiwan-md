@@ -111,7 +111,7 @@ status: 'DRAFT ONLY — 政治題，發佈前必須由哲宇本人過目確認�
 
 真正讓人停下來的，是把十年攤開後看到的變化：教育科學文化預算占比從 19.7% 滑到 18.3%，是十年最低；文化部主管預算十年漲了 65%，卻從沒超過總預算的 1%。
 
-完整故事 👉 {URL}
+完整頁面 👉 {URL}
 ```
 
 **字數（不含 hook／URL 行）**：277 字，4 段，段落密度落在 60–79 字之間，符合 4–5 段呼吸 sweet spot。
@@ -161,7 +161,7 @@ python3 scripts/tools/article-health.py <tmp-file-with-frontmatter> --check=spor
 
 今年吵得最兇的媒體宣傳費，只有 4,738 萬，占文化部 296 億的 0.16%，卻連續第二年被整條刪光，是今年唯一被全刪媒宣費的部會。
 
-完整故事 👉 {URL}
+完整頁面 👉 {URL}
 ```
 
 **字數（不含 hook／URL 行）**：251 字，4 段，段落落在 52–72 字之間，符合 4–5 段呼吸 sweet spot。
@@ -213,7 +213,7 @@ python3 scripts/tools/article-health.py <tmp-file-with-frontmatter> --check=spor
 
 這是 Taiwan.md 的特別企劃：把主計總處十一年的原始表攤開，做成一頁最完整、每筆帶來源的政府預算立體說明。錢怎麼編、誰審、流到哪、砍在哪、花了多少，希望越多人看得懂越好。
 
-完整故事 👉 https://taiwan.md/budget/
+完整頁面 👉 https://taiwan.md/budget/
 ```
 
 ### 事實對賬（全部 src/data/ly-budget.json）
@@ -254,20 +254,20 @@ prose-health hard=0 warn=0；spore-writing hard=0 warn=0；對位 0；破折號 
 
 ```text
 # Threads self-reply（暫編 #172，實際編號待 spore-db.py add-spore 當下核發）
-完整故事 👉 https://taiwan.md/budget/?utm_source=threads&utm_medium=spore&utm_campaign=s172
+完整頁面 👉 https://taiwan.md/budget/?utm_source=threads&utm_medium=spore&utm_campaign=s172
 
 # X inline（暫編 #173）
-完整故事 👉 https://taiwan.md/budget/?utm_source=x&utm_medium=spore&utm_campaign=s173
+完整頁面 👉 https://taiwan.md/budget/?utm_source=x&utm_medium=spore&utm_campaign=s173
 ```
 
 **若選 Version B**：
 
 ```text
 # Threads self-reply（暫編 #172）
-完整故事 👉 https://taiwan.md/budget/?utm_source=threads&utm_medium=spore&utm_campaign=s172
+完整頁面 👉 https://taiwan.md/budget/?utm_source=threads&utm_medium=spore&utm_campaign=s172
 
 # X inline（暫編 #173）
-完整故事 👉 https://taiwan.md/budget/?utm_source=x&utm_medium=spore&utm_campaign=s173
+完整頁面 👉 https://taiwan.md/budget/?utm_source=x&utm_medium=spore&utm_campaign=s173
 ```
 
 > 編號依 `docs/factory/spore-log.json` 2026-08-18 快照最大 id=171 推算下一組為 #172/#173；若兩版都要發（分兩天），第二則再往下編 #174/#175。**實際編號以 SHIP 當下 `spore-db.py add-spore` 回傳為準**，本檔未執行該指令，不構成保留。
