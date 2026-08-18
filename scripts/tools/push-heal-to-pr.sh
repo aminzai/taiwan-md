@@ -57,16 +57,23 @@ head_ref="$(jq -r .headRefName <<<"$meta")"
 fork_owner="$(jq -r .headRepositoryOwner.login <<<"$meta")"
 fork_repo="$(jq -r .headRepository.name <<<"$meta")"
 
-# 先直接抓 fork 的分支（權威源）；origin 的 refs/pull/N/head 是 GitHub 側複製，實測會落後幾秒
-# 造成 non-fast-forward 被拒（2026-08-18 Y2 兩次）。抓不到 fork 才退回 pull/N/head。
-if git fetch -q "https://github.com/$fork_owner/$fork_repo.git" "refs/heads/$head_ref" 2>/dev/null; then
-  base="$(git rev-parse FETCH_HEAD)"
+# base 取法（2026-08-18 兩次修）：
+# 1. 直接問 fork 分支的 sha（ls-remote，權威源）——origin 的 refs/pull/N/head 是 GitHub 側複製，
+#    實測落後幾秒，commit-tree 的 parent 會變舊 head 而被 non-fast-forward 拒絕（Y2 兩次）。
+# 2. 不讀 FETCH_HEAD——多個子代共用同一棵 worktree 時，別人的 `git fetch` 會在 fetch 與 rev-parse
+#    之間把 FETCH_HEAD 蓋掉，base 變成別的 PR 的 commit（Y1 #1377 一次）。用 ls-remote 拿到的 sha
+#    當 base，fetch 只負責把物件抓進來。
+fork_url="https://github.com/$fork_owner/$fork_repo.git"
+base="$(git ls-remote "$fork_url" "refs/heads/$head_ref" 2>/dev/null | awk '{print $1}')"
+if [ -n "$base" ]; then
+  git fetch -q "$fork_url" "refs/heads/$head_ref" 2>/dev/null || true
 else
-  git fetch -q origin "pull/$PR/head"
-  base="$(git rev-parse FETCH_HEAD)"
+  base="$head_sha"
+  git fetch -q origin "pull/$PR/head" 2>/dev/null || true
 fi
+git cat-file -e "$base^{commit}" 2>/dev/null || { echo "❌ 抓不到 base commit $base（fork 分支 fetch 失敗？）" >&2; exit 2; }
 if [ "$base" != "$head_sha" ]; then
-  echo "⚠️ 抓到的 head ($base) ≠ gh headRefOid ($head_sha)——PR 剛被推過新 commit？以剛抓到的為準（fork 分支是權威源）" >&2
+  echo "⚠️ fork 分支 head ($base) ≠ gh headRefOid ($head_sha)——PR 剛被推過新 commit？以 fork 分支為準" >&2
 fi
 
 # 暫時 index：從 base tree 出發，只換掉指定 path
