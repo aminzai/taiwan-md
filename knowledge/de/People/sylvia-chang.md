@@ -1,5 +1,5 @@
 ---
-title: 'Sylvia Chang: Von Chiayi über den Original-Interpreten von „Kindheit“ zur Regisseurin von „Love Education“'
+title: 'Sylvia Chang: Von Chiayi über die Original-Interpretin von „Kindheit“ zur Regisseurin von „Love Education“'
 description: '1953 in Chiayi geboren, startete Sylvia Chang mit 17 über „Tagträumer“ in die Schauspielkarriere. „Kindheit“ (Komposition: Lo Ta-yu, 1981) ist ihr Lied; „Der Preis der Liebe“ (Komposition: Jonathan Lee, 1992) ist ihr bekanntester Hit. 1986 gewann sie für „Mein bestes Jahr“ den Golden-Horse-Preis als beste Hauptdarstellerin; 2017 war sie für „Love Education“ als beste Regisseurin und für das beste Originaldrehbuch nominiert. Über fünfzig Jahre als Schauspielerin, Regisseurin und Sängerin.'
 date: 2026-03-19
 category: 'People'
@@ -20,7 +20,7 @@ sourceContentHash: 'sha256:cae38e5da76e99fb'
 translatedAt: '2026-08-18T02:04:20+08:00'
 ---
 
-# Sylvia Chang: Von Chiayi über den Original-Interpreten von „Kindheit“ zur Regisseurin von „Love Education“
+# Sylvia Chang: Von Chiayi über die Original-Interpretin von „Kindheit“ zur Regisseurin von „Love Education“
 
 > **30-Sekunden-Überblick:** Sylvia Chang wurde 1953 in Chiayi geboren und startete mit 17 über „Tagträumer“ in die Schauspielkarriere.[^1] „Kindheit“ (Text und Musik: Lo Ta-yu, 1981) ist das Lied, das sie singt; „Der Preis der Liebe“ (Komposition: Jonathan Lee, 1992) ist eines ihrer bekanntesten Werke.[^2] 1986 gewann sie mit dem von ihr selbst geschriebenen, Regie geführten und gespielten „Mein bestes Jahr“ den Golden-Horse-Preis als beste Hauptdarstellerin;[^3] 2017 war „Love Education“ für den Golden Horse als beste Regie nominiert. Sie bewegt sich seit über fünfzig Jahren zwischen den Identitäten Schauspielerin, Regisseurin und Sängerin.
 
@@ -72,9 +72,9 @@ Ihre Karriere umspannt über fünfzig Jahre – keine ihrer drei Identitäten al
 
 In den 2020ern beteiligt sie sich weiter an Film- und Bühnenproduktionen und war mehrfach Jurypräsidentin der Golden Horse Awards, wo sie mit ihrem grenzüberschreitenden Blick das taiwanesische Kino beurteilte. Junge Cineasten fördert sie durch direkte Zusammenarbeit – neue Schöpfer erhalten bei tatsächlichen Dreharbeiten respektvolle Gleichberechtigung, statt durch Vorträge belehrt zu werden.
 
-Sie besitzt eine besondere Vermittlerposition in der taiwanesischen Filmbranche: Sie wurde einerseits von der Taiwan New Wave geprägt und ist andererseits eine Seniorin, die später den Blick junger Regisseure beeinflusste. Diese Rolle des Mittelsmanns macht ihre Existenz bedeutsam für die Kontinuität der taiwanesischen Filmgeschichte.
+Sie besitzt eine besondere Vermittlerposition in der taiwanesischen Filmbranche: Sie wurde einerseits von der Taiwan New Wave geprägt und ist andererseits eine Seniorin, die später den Blick junger Regisseure beeinflusste. Diese Rolle als Brückenbauerin macht ihre Existenz bedeutsam für die Kontinuität der taiwanesischen Filmgeschichte.
 
-Fünf Jahrzehnte Karriere, ohne in einer einzigen Identität stehen zu bleiben – das selbst ist ihre eindrucksvollste Demonstration für die taiwanesische Unterhaltungsbranche: Ein Mensch kann zugleich ein echter Schauspieler, ein echter Regisseur und eine echte Sängerin sein, ohne sich zwischen ihnen entscheiden zu müssen.
+Fünf Jahrzehnte Karriere, ohne in einer einzigen Identität stehen zu bleiben – das selbst ist ihre eindrucksvollste Demonstration für die taiwanesische Unterhaltungsbranche: Ein Mensch kann zugleich eine echte Schauspielerin, eine echte Regisseurin und eine echte Sängerin sein, ohne sich zwischen ihnen entscheiden zu müssen.
 
 **Gängige Erzählung → präzisere Lesart:** Sylvia Chang wird oft als „Allround-Unterhalterin“ beschrieben. Das klingt nach einem Kompliment, birgt aber die Gefahr der Verharmlosung. Ihre drei Identitäten – Schauspielerin, Regisseurin, Sängerin – sind keine gleichzeitig betriebene Talenteschau, sondern ernsthafte schöpferische Arbeiten mit je eigener Vertiefung in verschiedenen Phasen; jede verdient eine eigene Bewertung.
 

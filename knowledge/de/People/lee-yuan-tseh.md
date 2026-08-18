@@ -18,9 +18,9 @@ translatedAt: '2026-08-18T01:38:27+08:00'
 
 # Li Yuan-che
 
-> **30-Sekunden-Überblick:** Li Yuan-che (geb. 19.11.1936), ein in Hsinchu geborener Chemiker. 1986 erhielt er gemeinsam mit Dudley R. Herschbach und John C. Polanyi den Nobelpreis für Chemie für seine bahnbrechenden Beiträge zur Dynamik chemischer Reaktionen. Die von ihm entwickelte Kreuzmolekularstrahl-Technik ermöglichte es Wissenschaftlern erstmals, den Ablauf chemischer Reaktionen zu „sehen“ – und machte ihn zum ersten taiwanesischen Nobelpreisträger der Naturwissenschaften.
+> **30-Sekunden-Überblick:** Li Yuan-che (geb. 19.11.1936) ist ein in Hsinchu geborener Chemiker. 1986 erhielt er gemeinsam mit Dudley R. Herschbach und John C. Polanyi den Nobelpreis für Chemie für seine bahnbrechenden Beiträge zur Dynamik chemischer Reaktionen. Die von ihm entwickelte Kreuzmolekularstrahl-Technik ermöglichte es Wissenschaftlern erstmals, den Ablauf chemischer Reaktionen zu „sehen“ – und machte ihn zum ersten taiwanesischen Nobelpreisträger der Naturwissenschaften.
 
-Am 19. November 1936 wurde Li Yuan-che in Hsinchu-Stadt im damaligen Hsinchu-Präfektur (heute Bezirk Ost, Hsinchu) geboren – in der Zeit der japanischen Kolonialherrschaft. Sein Vater Li Tse-fan war ein bekannter Aquarellmaler und Rektor einer Grundschule; die von Kunst und Bildung geprägte Familiengeschichte schulte seinen scharfen Beobachtungssinn. Schon als Kind zerlegte er gern Radios und Wecker, um zu verstehen, wie sie funktionieren – diese Neugier veränderte später die Chemie.
+Am 19. November 1936 wurde Li Yuan-che in Hsinchu-Stadt in der damaligen Hsinchu-Präfektur (heute Bezirk Ost, Hsinchu) geboren – in der Zeit der japanischen Kolonialherrschaft. Sein Vater Li Tse-fan war ein bekannter Aquarellmaler und Rektor einer Grundschule; die von Kunst und Bildung geprägte Familiengeschichte schulte seinen scharfen Beobachtungssinn. Schon als Kind zerlegte er gern Radios und Wecker, um zu verstehen, wie sie funktionieren – diese Neugier veränderte später die Chemie.
 
 ## Der Bildungsweg: Von Hsinchu auf die Weltbühne
 
@@ -42,7 +42,7 @@ Die Technik erlaubte Wissenschaftlern erstmals, jeden Schritt einer chemischen R
 
 Am 15. Oktober 1986 gab die Königlich Schwedische Akademie der Wissenschaften bekannt, den Nobelpreis für Chemie an Herschbach, Li Yuan-che und Polanyi zu verleihen – für ihre „Beiträge zur Dynamik chemischer Elementarprozesse“, mit denen sich der Ablauf chemischer Reaktionen besser verstehen lässt.
 
-Als die Nachricht von Li Yuan-ches Auszeichnung Taiwan erreichte, stand die Insel Kopf. Es war der erste Nobelpreis der Naturwissenschaften für Taiwan – ein Beweis, dass Taiwan in der Lage ist, weltklasse Wissenschaftstalente hervorzubringen. Li Yuan-che schenkte eine seiner Medaillen seiner alten Schule, der Hsinchu-Oberschule. Sein Satz: „Der Nobelpreis ist nicht allein mein Verdienst – die Hsinchu-Oberschule hat mich gemacht.“
+Als die Nachricht von Li Yuan-ches Auszeichnung Taiwan erreichte, stand die Insel Kopf. Es war der erste Nobelpreis der Naturwissenschaften für Taiwan – ein Beweis, dass Taiwan in der Lage ist, Weltklasse-Wissenschaftstalente hervorzubringen. Li Yuan-che schenkte eine seiner Medaillen seiner alten Schule, der Hsinchu-Oberschule. Sein Satz: „Der Nobelpreis ist nicht allein mein Verdienst – die Hsinchu-Oberschule hat mich gemacht.“
 
 Interessant ist: Die Nobelpreis-Nationalität Li Yuan-ches war die amerikanische. Doch das schmälerte den Stolz der Taiwaner nicht – sie wussten, dass dieses in Hsinchu aufgewachsene, Hokkien sprechende Kind das taiwanesische Fundament im Blut trug.
 
@@ -68,7 +68,7 @@ Li Yuan-che gehört zu den ersten taiwanesischen Wissenschaftlern, die sich um U
 
 Von 2011 bis 2014 amtierte er als Präsident des Internationalen Wissenschaftsrats und förderte die globale wissenschaftliche Zusammenarbeit. Heute ist er Ehrenpräsident des Institute for Advanced Research der Universität Nagoya und weiterhin in der internationalen Wissenschaftsgemeinschaft aktiv.
 
-Li Yuan-ches Arbeiten wurden zigfach zitiert; viele seiner Schüler sind selbst bekannte Wissenschaftler geworden. Darauf aber ist er am stolzesten: bewiesen zu haben, dass auch ein „Taiwanesenhohl“ – ein taiwanesisches Kind – auf der Weltbühne glänzen kann.
+Li Yuan-ches Arbeiten wurden zigfach zitiert; viele seiner Schüler sind selbst bekannte Wissenschaftler geworden. Darauf aber ist er am stolzesten: bewiesen zu haben, dass auch ein „Gín-á“ (taiwanesisches Kind) auf der Weltbühne glänzen kann.
 
 ## Die Weitergabe des wissenschaftlichen Geistes
 

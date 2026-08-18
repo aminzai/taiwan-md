@@ -38,7 +38,7 @@ Die westliche Musikausbildung der Normalschule war im Taiwan der 1920er- und 193
 
 Columbia gehörte damals zu den größten kommerziellen Schallplattenfirmen Taiwans. Als Hauskomponist verpflichtet zu sein, bedeutete, ins Zentrum des Produktionssystems der taiwanesischen Popmusik vorzudringen – seine Werke hatten kommerzielle Aufnahme- und Vertriebswege. Diese Struktur war eine entscheidende Voraussetzung dafür, dass sich „Aprilregen“ schnell verbreiten konnte.
 
-Die Erstaufnahme von „Frühlingswind“ sang Chun Chun (Liu Qingxiang); der genaue Monat der Erstveröffentlichung muss noch durch zeitgenössische Quellen belegt werden. Die Eingangszeile „Einsam ohne Begleitung unter der Lampe, der Frühlingswind weht mir ins Gesicht“ gehört zu den ersten Hokkien-Liedern der Geschichte, die die Innnenwelt einer heiratsfähigen jungen Frau in moderne Sprachmelodie fassten. Die Melodiestruktur folgt westlichem harmonischem Rahmen, doch die Sprachmelodie des Texts ist ganz die mündliche Alltagssprache des taiwanesischen Landes. Mit dem in der Normalschule Gelernten fand Deng Yuxian für die Tonhöhen des Hokkien die passendsten Tonfiguren.
+Die Erstaufnahme von „Frühlingswind“ sang Chun Chun (Liu Qingxiang); der genaue Monat der Erstveröffentlichung muss noch durch zeitgenössische Quellen belegt werden. Die Eingangszeile „Einsam ohne Begleitung unter der Lampe, der Frühlingswind weht mir ins Gesicht“ gehört zu den ersten Hokkien-Liedern der Geschichte, die die Innenwelt einer heiratsfähigen jungen Frau in moderne Sprachmelodie fassten. Die Melodiestruktur folgt westlichem harmonischem Rahmen, doch die Sprachmelodie des Texts ist ganz die mündliche Alltagssprache des taiwanesischen Landes. Mit dem in der Normalschule Gelernten fand Deng Yuxian für die Tonhöhen des Hokkien die passendsten Tonfiguren.
 
 ## „Aprilregen“: Die vier Hauptwerke
 
@@ -72,7 +72,7 @@ In den folgenden Jahrzehnten brachten die Coverversionen von Teresa Teng und Jod
 
 > 🎙️ **Kuratorennotiz:** Deng Yuxians 39 Jahre sind die unausgewogenste Zeitverteilung der taiwanesischen Liedgeschichte: Der Schaffensgipfel konzentriert sich auf 1933 bis 1934 – nicht einmal zwei Jahre, vier Lieder; danach Schweigen unter Kriegszensur, dann der Tod mit 39.
 >
-> Doch die vier Lieder des „Aprilregens“ leben achtzig Jahre länger als er. „Frühlingswind“ ist bis heute eines der alten Lieder, deren Melodie die meisten Menschen in Taiwan summen können – nicht weil es in Lehrbüchern steht, sondern weil die Melodie bei jeder Generation Neuninterpretation Raum lässt.
+> Doch die vier Lieder des „Aprilregens“ leben achtzig Jahre länger als er. „Frühlingswind“ ist bis heute eines der alten Lieder, deren Melodie die meisten Menschen in Taiwan summen können – nicht weil es in Lehrbüchern steht, sondern weil die Melodie bei jeder Generation Neuinterpretation Raum lässt.
 >
 > Ein Hakka schreibt Hokkien-Lieder, die westliche Schulung der Normalschule trifft auf die Kulturzensur der Kolonialzeit – seine Schaffensbedingungen waren selbst ein Schnittpunkt vielfältiger Kräfte. Was er an diesem Schnittpunkt hinterließ, sind die frühesten Koordinaten der taiwanesischen Popmusik.
 >
