@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-18 twmd-maintainer-am — diagnosing-from-the-contributor-tree-audits-a-past-self：站在投稿者的分支上診斷，量到的是我們昨天的樣子
+
+- **pattern**: `diagnosing-from-the-contributor-tree-audits-a-past-self`
+- **原則**：`git checkout pr/N` 之後，跟著換掉的不只是被審的內容，**還有整套檢查器**。那個分支停在投稿者 fork 的那一刻，於是任何「我們的工具壞了」的結論，其實是「我們的工具在他 fork 那天壞了」。而 CI 跑的 gate 用的是 main 的工具（3-dot merge-base checkout），兩邊可以給出完全不同的答案。**要對工具下結論，就得站在工具的家裡下**——診斷投稿失敗要分兩層問：這個檔在**現在的** main 尺下如何（把檔案帶過來），以及這個分支自己帶了什麼（僅限判斷投稿者當時看到什麼）。
+- **觸發**：本 cycle 追 idlccp1984 七個 PR 為什麼卡在 `frontmatter-gate`，在 `pr/1372` 的樹上讀 `taxonomy_subcat.py`，「發現」三個結構性缺陷（People 標題 regex 漏解析、8 個 boost 標籤非正典、`allowed_subcategories()` union 自己的推論表），還做完了全庫 212 篇非正典 subcategory 的 blast radius 分析——**才發現這三個缺陷昨天早上（`8ba8c6726`）已經全部修掉了，修的人是前一輪的同一條 routine**。main 上 `boost_label_drift()` 回空、People/Nature 解析正確。我不是找到了新病，我是在讀一份昨天的病歷，還差點要照著它再開一次刀。
+- **代價**：本 cycle 約三分之一的診斷時間花在重驗一件已解的事；更貴的是差一點就要對 212 篇文章的 subcategory 做批次重構（>50 檔，命中 §自主權邊界），而那個念頭完全建立在一份過期的樹上。攔下它的不是任何閘門，是順手 `git log --grep` 查了一下有沒有人動過這支檔案。
+- **為什麼閘門接不住**：worktree 的提示、`check-parallel-actor.sh`、pre-commit 全都只看「有沒有人同時在改」，沒有一支在問「**你現在站的這棵樹，是不是你以為的那棵**」。REFLEXES #67「已驗過帶時間戳」講的是結論要帶時間戳，本條再往前一步：**觀察本身要帶座標**，而 checkout 會靜默改掉座標。
+- **修補候選**：(a) MAINTAINER-PIPELINE Stage 2 加一句「在 PR 分支上讀到疑似工具缺陷時，先 `git log --oneline main -- <該檔>` 對一次，或把檔案帶回 main 樹重跑」；(b) 更省事的做法是把「診斷投稿失敗」的 SOP 直接寫成「把 PR 的內容檔帶進 main 樹跑」而不是「checkout PR 分支」——本 cycle 後半改用這個方式，七篇的真實 blocker 一次就對了。
+- **相關**：REFLEXES #67（已驗過帶時間戳）、#82（proxy signal——樹是「gate 用的樹」的代理）、#73（查證反射 < 建造反射：先動手讀碼、後才想到查 git log）、LESSONS `healer-authors-the-drift-it-validates`（8/17，本條重驗的正是那一條）
+- **verification_count**: 1
+- **severity**: moderate（不壞資料，但會憑空製造已解問題的工單，且推導出的「修補方案」可能指向大規模重構）
+
+### 2026-08-18 twmd-maintainer-am — reopened-channel-still-needs-someone-to-walk-down-it：把管道接回去，不等於訊息有到
+
+- **pattern**: `reopened-channel-still-needs-someone-to-walk-down-it`
+- **原則**：修好一條斷掉的說明管道之後，成效要看**對方的行為有沒有變**，不是看管道通了沒。一條需要對方主動點進去才讀得到的管道（Actions → 紅 X → Job Summary），對一個只看到 PR 頁面紅叉的投稿者來說，跟斷掉的差別很小。**「我們現在有講」跟「他現在知道」之間還隔著一個他要不要走過去。**
+- **觸發**：8/13 記過 `gate-explains-into-a-dead-channel`（fork PR token 唯讀 → gate 的說明留言必定 403），當天的修補是把說明改寫進 `$GITHUB_STEP_SUMMARY`，理由寫「不需 token，紅 X 一點就到」。本 cycle 回頭量：idlccp1984 8/15 送的七個 PR，全部在修補上線**之後**，全部敗在同一項，**三天零修正**。管道確實通了（我在 run log 裡確認 Job Summary 有寫出來），但沒有人走下去。真正讓這七篇動起來的，是這個 cycle 直接把修補 push 到他的分支。
+- **這條的價值在於它反駁了自己前一版的結論**：8/13 那筆的處置寫完就結案了，沒有留任何「之後要回來量」的鉤子。如果不是這批 PR 剛好又出現在同一道 gate 下，「Job Summary 已修好」會一直是帳面上的完成狀態。
+- **修補候選**：(a) 對 fork PR 這種留言必定失敗的情境，改用 **PR review**（`pull_request_review` 走的是不同權限面）或在 CI 之外由 maintainer routine 主動代 po 說明留言；(b) 更根本的：`frontmatter-gate` 這類「投稿者自己修得動」的失敗，maintainer cycle 的 default 應該是**直接 push 修補到對方分支**（`maintainerCanModify` 預設為 true），而不是等對方讀懂說明再自己修——本 cycle 七篇就是這樣一次清掉的；(c) 任何「修好說明管道」的處置，收官時要附一個**下次回來量的條件**（下一批同型失敗有沒有下降），否則等於沒有驗收。
+- **相關**：LESSONS `gate-explains-into-a-dead-channel`（8/13，本條是它的成效複驗）、REFLEXES #82（管道存在 ≠ 訊息送達，existence-vs-effect 的溝通層變體）、REFLEXES #52（fail loud 要對著人喊）、MAINTAINER §1b merge-first-then-heal
+- **verification_count**: 1
+- **severity**: moderate（會讓「已修補」的帳面狀態掩蓋掉實際未改善的投稿者體驗）
+
 ### 2026-08-17 twmd-maintainer-am — healer-authors-the-drift-it-validates：自動修補工具填出正典裡不存在的值，而合法性又由它自己認定
 
 - **pattern**: `healer-authors-the-drift-it-validates`
