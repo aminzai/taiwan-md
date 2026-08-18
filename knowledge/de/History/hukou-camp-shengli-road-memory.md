@@ -33,7 +33,7 @@ Entlang der einen Seite der Shengli-Straße lagen Militärmauer und Wohnhäuser 
 
 Der Erschütterungseffekt des Hukou-Lagers für die taiwanische Gesellschaft erreichte 2013 seinen Höhepunkt.
 
-Der Unteroffizier Hong Zhongqiu aus der 542. Brigade der Hukou-Panzerdivision starb aufgrund missbräuchlicher Disziplinarmaßnahmen kurz vor seiner Entlassung aus dem Dienst. Diese Tragödie führte dazu, dass 250.000 Menschen in weißen Hemden auf der Ketagalan-Dan Road protestierten, was schließlich zu einer wesentlichen Reform des Militärstrafgesetzbuchs führte. Für die Menschen in Hukou war das der schwerste Schatten hinter den Toren der Anlage – und ließ den Namen Shengli-Straße in den landesweiten Nachrichten besonders bitter wirken.
+Der Unteroffizier Hong Zhongqiu aus der 542. Brigade der Hukou-Panzerdivision starb aufgrund missbräuchlicher Disziplinarmaßnahmen kurz vor seiner Entlassung aus dem Dienst. Diese Tragödie führte dazu, dass 250.000 Menschen in weißen Hemden auf der Ketagalan-Allee protestierten, was schließlich zu einer wesentlichen Reform des Militärstrafgesetzbuchs führte. Für die Menschen in Hukou war das der schwerste Schatten hinter den Toren der Anlage – und ließ den Namen Shengli-Straße in den landesweiten Nachrichten besonders bitter wirken.
 
 > 📝 Notiz des Kurators: In Hukou hat die Geschichte zwei Spuren hinterlassen: eine ist der Machtanspruch im Jahr 1964, die andere das Erwachen für Menschenrechte im Jahr 2013.
 

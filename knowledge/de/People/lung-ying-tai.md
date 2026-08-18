@@ -1,15 +1,15 @@
 ---
-title: 'Lung Ying-tai: Daliao 1952, vom „Wildfeuer-Band“ (野火集) zur ersten Kulturmisterin Taiwans – die öffentliche Intellektuelle'
+title: 'Lung Ying-tai: Daliao 1952, vom „Wildfeuer-Band“ (野火集) zur ersten Kulturministerin Taiwans – die öffentliche Intellektuelle'
 description: 'Lung Ying-tai wurde am 13. Februar 1952 im Kreis Daliao, Landkreis Kaohsiung (heute Bezirk Daliao, Kaohsiung), geboren; ihre Heimat ist Hengshan, Hunan, Vater Lung Huai-sheng war Hunaner, Mutter Ying Mei-chun stammte aus Chun''an, Zhejiang.[^1] Master of English and American Literature an der Kansas State University; zum Doktor existieren zwei Versionen nebeneinander (PhD Englisch Kansas State oder PhD Germanistik NYU), P0⚠️ Hinweis zur weiteren Verifikation.[^1] Im Dezember 1985 wurde „Wildfeuer-Band“ erstmals als Buch veröffentlicht – 21 Tage, 24 Nachauflagen, in 4 Monaten über 100.000 Exemplare.[^2] 2009 erschien „Das große Flussgroße Meer 1949“ (大江大海一九四九).[^3] 2012 nahm sie die Ernennung von Präsident Ma Ying-jeou an und wurde die erste Kulturministerin Taiwans, bis sie 2014 zurücktrat.[^4]'
-date: 2026-03-22
+date: 2026-03-19
 category: 'People'
 tags: ['Personen', 'Lung Ying-tai', 'Literatur', 'Public Intellectual', 'Kulturministerin', 'Wildfeuer-Band', 'Taiwan']
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-22
+lastVerified: 2026-05-07
 lastHumanReview: true
-readingTime: 8
+readingTime: 7
 translatedFrom: 'People/龍應台.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:efaa1720b84e525c'
@@ -42,7 +42,7 @@ Im Dezember 1985 wurden die Artikel erstmals als „Wildfeuer-Band“ (野火集
 
 > 📝 **Kuratorennotiz:** Die gängige Erzählung lautet, „Wildfeuer-Band“ sei die Aufklärungslektüre der taiwanesischen Demokratisierung. Präziser gesagt: Es bot unter bestimmten gesellschaftlichen Bedingungen (vor und nach der Aufhebung des Kriegsrechts, Aufstieg des Mittelklassebewusstseins) eine „Wut, die auf Texten beruht“. Ihre Artikel gaben den Lesern das Gefühl: Man darf wütend sein, und man kann mit Begründung wütend sein. Diese Funktion dringt stärker durch als jede Parole.
 
-## Hauptwerke: „Lieber André“, „Ich will nicht weinen“ (目送), „Das große Meer 1949“
+## Hauptwerke: „Lieber André“, „Nachblicken“ (目送), „Das große Meer 1949“
 
 „Lieber André“ dokumentiert den Briefwechsel zwischen ihr und ihrem Sohn über die Grenzen von Taiwan und Deutschland hinweg; „Ich will nicht weinen“ umfasst ihre Reflexionen über das Vergehen des Lebens und die Eltern-Kind-Beziehung – beide weit verbreitet auf beiden Seiten der Straße. Die meistzitierte Passage aus „Ich will nicht weinen“ ist ihre Definition der Eltern-Kind-Beziehung:
 

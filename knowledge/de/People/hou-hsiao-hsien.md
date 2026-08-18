@@ -311,7 +311,7 @@ Der über sieben Jahre entstandene „Der Assassin“ wurde zu Hous filmischem V
 - **Extreme Ästhetik**: gepriesen als „einer der visuell schönsten Filme“
 - **Kulturelle Tiefe**: die Tang-Kultur mit modernem Blick neu gedeutet
 
-Doch er fand auch „Gefallen, aber keine Resonanz an den Kinokassen“ – ein Beweis, dass Hou stets Ert purist der Kunst blieb.
+Doch er fand auch „Gefallen, aber keine Resonanz an den Kinokassen“ – ein Beweis, dass Hou stets ein Purist der Kunst blieb.
 
 ## Das kulturelle Erbe des Paten des Taiwan New Cinema
 

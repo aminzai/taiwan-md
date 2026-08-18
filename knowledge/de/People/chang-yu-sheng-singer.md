@@ -8,7 +8,7 @@ tags:
     'Chang Yu-sheng',
     'Taiwanesische Popmusik',
     'Singer-Songwriter',
-    'Karaoke-Live-Taipei-Ich',
+    'Karaoke Live · Taipeh · Ich',
     'Küss mich Nana',
     'A-mei',
   ]

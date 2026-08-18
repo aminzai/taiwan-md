@@ -5,10 +5,10 @@ date: 2026-05-13
 category: 'People'
 tags:
   [
-    'pop culture figures',
+    'Popkultur-Persönlichkeit',
     'Lee Ah-young',
-    'South Korea',
-    'cheerleading',
+    'Südkorea',
+    'Cheerleading',
     'Fubon Guardians',
     'Fubon Angels',
     'CPBL',

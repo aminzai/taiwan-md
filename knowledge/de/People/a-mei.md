@@ -28,19 +28,19 @@ translatedAt: '2026-08-13T03:30:00+08:00'
 
 # A-mei: Die Puyuma-Diva, von „Schwestern“ 1996 zu fünf Shows im Taipeh Dome 2024
 
-> **30-Sekunden-Überblick:** A-mei wurde am 9. August 1972 im Dorf Daba Liujiuu im Bezirk Beinan des Landkreises Taitong geboren, Sängerin der Puyuma, englischer Name A-mei, Stammesname Kulilay Amit.[^1] 1996 verkaufte ihr Debüt „Schwestern“ 1,21 Mio. in Taiwan und 4 Mio. in Asien; Produzent war Chang Yu-sheng, mit traditionellen Puyuma-Gesangsstimmen.[^1] 2015 gab sie mit „Utopia“ zehn Konzerte in Folge in der Taipeh Arena.[^2] Im Dezember 2024 spielte sie mit ASMeiR MAXXX fünf Shows im Taipeh Dome, Produktionskosten 200 Mio. NT$, mit Heißluftballon vor Ort.[^3] Karriere-Gesamtverkäufe über 50 Mio. Exemplare.[^1]
+> **30-Sekunden-Überblick:** A-mei wurde am 9. August 1972 im Dorf Daba Liujiuu im Bezirk Beinan des Landkreises Taitung geboren, Sängerin der Puyuma, englischer Name A-mei, Stammesname Kulilay Amit.[^1] 1996 verkaufte ihr Debüt „Schwestern“ 1,21 Mio. in Taiwan und 4 Mio. in Asien; Produzent war Chang Yu-sheng, mit traditionellen Puyuma-Gesangsstimmen.[^1] 2015 gab sie mit „Utopia“ zehn Konzerte in Folge in der Taipeh Arena.[^2] Im Dezember 2024 spielte sie mit ASMeiR MAXXX fünf Shows im Taipeh Dome, Produktionskosten 200 Mio. NT$, mit Heißluftballon vor Ort.[^3] Karriere-Gesamtverkäufe über 50 Mio. Exemplare.[^1]
 
 ## Das Puyuma-Dorf Daba Liujiuu: Der Ausgangspunkt einer indigenen Sängerin
 
-Am 9. August 1972 wurde A-mei im Dorf Daba Liujiuu im Bezirk Beinan des Landkreises Taitong geboren, ihr Stammesname ist Kulilay Amit.[^1] Sie wuchs in der Musiktradition der Puyuma auf; die Harmonien von Mutter und Schwester waren ihr erster Musikunterricht.
+Am 9. August 1972 wurde A-mei im Dorf Daba Liujiuu im Bezirk Beinan des Landkreises Taitung geboren, ihr Stammesname ist Kulilay Amit.[^1] Sie wuchs in der Musiktradition der Puyuma auf; die Harmonien von Mutter und Schwester waren ihr erster Musikunterricht.
 
-Die Familie war arm; als Jugendliche trat A-mei zusammen mit ihrer Schwester Sayun in Restaurants und Auftrittsorten in Taitong auf und besserte mit ihrem Gesang das Haushaltsbudget auf.[^1] Diese Jahre des Singens in den Nächten Taiwans wurden später zur wichtigsten Grundlage ihrer Bühnen-Explosivität.
+Die Familie war arm; als Jugendliche trat A-mei zusammen mit ihrer Schwester Sayun in Restaurants und Auftrittsorten in Taitung auf und besserte mit ihrem Gesang das Haushaltsbudget auf.[^1] Diese Jahre des Singens in den Nächten Taiwans wurden später zur wichtigsten Grundlage ihrer Bühnen-Explosivität.
 
 1996 erschütterte ihr Debüt „Schwestern“ die chinesischsprachige Musikwelt: 1,21 Mio. in Taiwan, 4 Mio. in Asien.[^1] Sie durchbrach das Klischee der Mehrheitsgesellschaft über indigene Sänger: Indigene haben nicht nur traditionelle Kultur, sondern können auch in der modernen Popmusik auf dem höchsten Platz stehen.
 
 ## Chang Yu-sheng: Der Seelenproduzent hinter „Schwestern“
 
-Der Erfolg von „Schwestern“ ist ohne Produzenten Chang Yu-sheng undenkbar. 1995 wählte Chang Yu-sheng die in Taitong singende A-mei aus und beschloss, ihr Debütalbum zu produzieren.[^1] Diese Entscheidung veränderte die Schicksale zweier Menschen: A-mei wurde zur Diva einer Generation, Chang Yu-sheng hinterließ sein wichtigstes produktorisches Vermächtnis.
+Der Erfolg von „Schwestern“ ist ohne Produzenten Chang Yu-sheng undenkbar. 1995 wählte Chang Yu-sheng die in Taitung singende A-mei aus und beschloss, ihr Debütalbum zu produzieren.[^1] Diese Entscheidung veränderte die Schicksale zweier Menschen: A-mei wurde zur Diva einer Generation, Chang Yu-sheng hinterließ sein wichtigstes produktorisches Vermächtnis.
 
 Chang Yu-sheng mischte in „Schwestern“ mutig traditionelle Puyuma-Gesänge ein; er lud A-meis Mutter und Schwester zum Chorgesang ein und gab diesem Pop-Album ein echtes indigenes Gruppengedächtnis.[^1] Im Mainstream-Plattenmarkt von 1996 war das ein seltener Versuch.
 
@@ -92,7 +92,7 @@ Vom Restaurant-Auftritt in den Nächten Taitungs bis zu fünf Shows im Taipeh Do
 
 ## Referenzen
 
-[^1]: [Wikipedia: A-mei](https://zh.wikipedia.org/wiki/張惠妹) – bestätigt Geburtsdatum 9. August 1972, Dorf Daba Liujiuu, Beinan, Taitong, Stammesname Kulilay Amit, Produzent Chang Yu-sheng, Debüt „Schwestern“ 1,21 Mio. Taiwan/4 Mio. Asien und Karriere-Gesamt 50 Mio.
+[^1]: [Wikipedia: A-mei](https://zh.wikipedia.org/wiki/張惠妹) – bestätigt Geburtsdatum 9. August 1972, Dorf Daba Liujiuu, Beinan, Taitung, Stammesname Kulilay Amit, Produzent Chang Yu-sheng, Debüt „Schwestern“ 1,21 Mio. Taiwan/4 Mio. Asien und Karriere-Gesamt 50 Mio.
 
 [^2]: [Wikipedia: Utopia-Welttournee](https://zh.wikipedia.org/wiki/烏托邦世界巡城演唱會) – bestätigt April 2015 Taipeh Arena „Utopia“ mit 10 Shows (nicht 20).
 

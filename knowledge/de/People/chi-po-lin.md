@@ -129,7 +129,7 @@ Sein Erbe überquerte die Grenze des Lebens:
 - Der erste Satellit des **Formosa-Satelliten-8-Konstellation** trägt den Namen „Chi-Po-lin-Satellit“
 - 2018 wurde die **Beyond-Beauty-Chi-Po-lin-Stiftung** gegründet, die 600.000 Luftaufnahmen und fast tausend Stunden dynamisches Material übernahm
 - 2019 entstand der **Chi-Po-lin-Raum** in Tamsui (Zhongzheng Road 316-1, Bezirk Tamsui, New Taipei City)
-- Der Schulcampus der Dongpu-Grundschule in Xinyi, Nantou, plante einen **„Berlin-Pfad“** (柏林小徑) ein
+- Der Schulcampus der Dongpu-Grundschule in Xinyi, Nantou, plante einen **„Chi-Po-lin-Pfad“** (柏林小徑) ein
 - Auf dem Jinbaoshan-Friedhof gibt es ein Chi-Po-lin-Denkmal, neben Teresa Teng, King Hu und Li Tien-lu
 
 ### Werkeverzeichnis

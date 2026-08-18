@@ -1,5 +1,5 @@
 ---
-title: 'JJ Lin: Singapur 1981, vom „Jiangnan“ zur JJ20-Krone des chinesischsprachigen Cantopop'
+title: 'JJ Lin: Singapur 1981, vom „Jiangnan“ zur JJ20-Krone des chinesischsprachigen Mandopop'
 description: 'Geboren am 27.03.1981 in Singapur. Mit 4 Jahren begann er Klavier zu lernen. 2003 Debütalbum „Musikreisender“ (1,2 Mio. in Asien). 2004 „Jiangnan“ / „Der zweite Himmel“ (1,8 Mio.). 2024/04 Herzerkrankung, benötigt tägliche Medikamente. JJ20-FINAL-LAP-Tour (2024–25, 40 Städte, 77 Shows, 2,6 Mio. Zuschauer). 2024/11 Biografie „Jenseits der Noten: JJ Lins 20 Jahre“.'
 date: 2026-03-19
 category: 'People'

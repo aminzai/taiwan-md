@@ -52,7 +52,7 @@ Der Golden Glove bewertet die Outfield-Verteidigung, nicht den Schlag. Das heiß
 
 NPB-Karriere (Ham + Giants): 1322 Spiele, 105 Homeruns, 482 RBIs, Schlagdurchschnitt .270, 141 gestohlene Bases.[^1]
 
-105 Homeruns sind ein wichtiger Meilenstein taiwanesischer Feldspieler in der NPB-Geschichte. Er vereint zugleich Genussschlagkraft und Schnelligkeit – unter den NPB-Outfieldern ein seltener Allround-Typ.
+105 Homeruns sind ein wichtiger Meilenstein taiwanesischer Feldspieler in der NPB-Geschichte. Er vereint zugleich Extra-Base-Hits und Schnelligkeit – unter den NPB-Outfieldern ein seltener Allround-Typ.
 
 141 gestohlene Bases bestätigen diese Allround-Natur: Unter den NPB-Outfieldern gibt es extrem wenige Spieler, die zugleich 100 Homeruns und 100 gestohlene Bases erreichen; Yang gehört dazu.
 

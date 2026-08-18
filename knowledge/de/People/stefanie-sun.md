@@ -43,7 +43,7 @@ Die Produzentin dieses Liedes, Lee Shih-shiong, ließ sich von dem Hokkien-Kinde
 
 In der ersten Woche wurden 30.000 verkauft, Ende Juli über 300.000, schließlich 330.000 – der Jahresverkaufschampion Taiwans 2000. Das zweite Album des Folgejahres erreichte 380.000 und verteidigte den Titel.[^7]
 
-Taiwan im Jahr 2000 hatte gerade die Panik des 921-Erdbebens überwunden und die Angst um die Jahrtausendwende hinter sich gelassen. Im selben Jahr debütierte Jay Chou (周杰倫), Maydays „Es lebe die Liebe“ wurde zum Synonym der Jugend. Stefanie Sun schlug sich als Außenseiterin mit einem Lied aus einem Hokkien-Kinderlied in das akustische Gedächtnis dieses neuen Jahrhundertaugbinns.
+Taiwan im Jahr 2000 hatte gerade die Panik des 921-Erdbebens überwunden und die Angst um die Jahrtausendwende hinter sich gelassen. Im selben Jahr debütierte Jay Chou (周杰倫), Maydays „Es lebe die Liebe“ wurde zum Synonym der Jugend. Stefanie Sun schlug sich als Außenseiterin mit einem Lied aus einem Hokkien-Kinderlied in das akustische Gedächtnis dieses neuen Jahrhundertbeginns.
 
 > **📝 Kuratorennotiz**
 > Stefanie Suns Stimme hat eine besondere Textur: leicht rauchig, mit einer strömenden Leichtigkeit ohne Absicht. In einem chinesischsprachigen Popmarkt, der stark auf Technik-Schau setzte, wurde sie für „mühelos“ bekannt. Hinter diesem „Mühelos“ stecken jahrzehntelanges Klaviertraining und ein ästhetisches Urteil, das bewusst auf Überpräsentation verzichtet.
@@ -58,7 +58,7 @@ Stefanie Sun besiegte Jay Chou um eine Stimme und gewann den Preis für den best
 
 Diese eine Stimme Differenz wurde seither immer wieder zitiert. Doch was sie wirklich beschreibt, ist nicht der Wettbewerb, sondern der Beginn einer Epoche – zwei völlig unterschiedliche Musikrichtungen starteten fast gleichzeitig. Jay Chou revolutionierte mit chinesischsprachigem Rap die Musiksprache, Stefanie Sun baute mit Gefühlsvermittlung ein Stimmenreich auf. Sie teilten sich einen Markt und gingen jeweils auf völlig unterschiedlichen Spuren.
 
-Die Gesamtverkäufe in Asien überstiegen 30 Millionen – die erfolgreichste neue und malaysische Sängerin chinesischer Musik in Sachen Albumverkäufe.[^9]
+Die Gesamtverkäufe in Asien überstiegen 30 Millionen – die in Sachen Albumverkäufe erfolgreichste Sängerin chinesischer Musik aus Singapur und Malaysia.[^9]
 
 ## „Männer: Jay Chou. Frauen: Stefanie Sun.“
 

@@ -1,7 +1,7 @@
 ---
 title: 'Cheng Nan-jung: Der Mann, der Benzin in seiner Zeitschrift anzündete'
 description: 'Als 1947 das 228-Ereignis ausbrach, versteckte sich eine Familie in der Hankou-Straße in Taipeh zitternd im Haus. Der Vater Cheng Mu-sen war ein „Festländer“ aus Fuzhou – auf der Straße jagte man gerade Festländer. Erst die taiwanesischen Nachbarn von nebenan versteckten sie und retteten der Familie das Leben. Sieben Monate später wurde der älteste Sohn des Paares geboren und auf den Namen Nan-jung getauft. Einundvierzig Jahre später, dieser von Taiwanern gerettete „Festlandsjunge“, zündete für das Recht aller Taiwaner zu sprechen in seiner eigenen Zeitschriftenredaktion Benzin an.'
-date: 2026-04-01
+date: 2026-03-25
 category: 'People'
 tags:
   [
@@ -9,14 +9,14 @@ tags:
     'Cheng Nan-jung',
     'Taiwan',
     'Meinungsfreiheit',
-    '227-Ereignis',
+    '228-Ereignis',
     'Demokratie',
   ]
 subcategory: '政治與民主'
-author: 'Taiwan.md'
-featured: false
-lastVerified: 2026-04-01
-lastHumanReview: true
+author: 'Taiwan.md Contributors'
+featured: true
+lastVerified: 2026-05-13
+lastHumanReview: false
 readingTime: 10
 translatedFrom: 'People/鄭南榕.md'
 sourceCommitSha: '18157ab5d'
