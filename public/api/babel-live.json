@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-18T13:02:25+08:00",
+ "generated_at": "2026-08-18T14:10:23+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-18T13:02:19+08:00",
+ "snapshot_ts": "2026-08-18T14:10:17+08:00",
  "total_zh": 892,
  "langs": [
   {
@@ -108,12 +108,12 @@
  "gap_delta": 0,
  "rate_1h": {
   "delta": 0,
-  "span_h": 1.06,
+  "span_h": 1.13,
   "per_hour": 0.0
  },
  "rate_24h": {
   "delta": 0,
-  "span_h": 25.78,
+  "span_h": 26.91,
   "per_hour": 0.0
  },
  "eta_days": null,
@@ -136,16 +136,6 @@
  },
  "dispatchers": [],
  "history": [
-  {
-   "ts": "2026-08-17T07:27:11+08:00",
-   "fresh_total": 8602,
-   "gap_total": 1210
-  },
-  {
-   "ts": "2026-08-17T07:42:24+08:00",
-   "fresh_total": 8602,
-   "gap_total": 1210
-  },
   {
    "ts": "2026-08-17T07:57:36+08:00",
    "fresh_total": 8602,
@@ -613,6 +603,16 @@
   },
   {
    "ts": "2026-08-18T13:02:19+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1210
+  },
+  {
+   "ts": "2026-08-18T13:55:03+08:00",
+   "fresh_total": 8602,
+   "gap_total": 1210
+  },
+  {
+   "ts": "2026-08-18T14:10:17+08:00",
    "fresh_total": 8602,
    "gap_total": 1210
   }
