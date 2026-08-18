@@ -384,17 +384,17 @@ export const categories: SoundCategory[] = [
           es: 'Taichung, Taiping',
         },
         description: {
-          'zh-TW': '一位準備 2026 年選舉的當地政治人物（許書豪）在機車往來的大街上打招呼',
-          en: 'A local politician (Hsu-Shu-Hao) running in the 2026 election greets people on a street with a huge flow of motorbikes.',
-          ja: '',
-          ko: '',
-          fr: '',
-          es: '',
+          'zh-TW': '2026 年選舉期間，一位地方參選人在機車往來的大街上沿路拜票',
+          en: 'During the 2026 election season, a local candidate canvasses along a street busy with scooters.',
+          ja: '2026年の選挙期間中、地元の候補者がバイクの行き交う通りで支持を訴える',
+          ko: '2026년 선거 기간, 오토바이가 오가는 거리에서 지역 후보가 유세하는 소리',
+          fr: 'Pendant les élections de 2026, un candidat local fait campagne dans une rue parcourue de scooters.',
+          es: 'Durante las elecciones de 2026, un candidato local hace campaña en una calle transitada por escúteres.',
         },
         contributor: 'iigmir',
         date: '2026-08',
         icon: '📢',
-      }
+      },
     ],
     wishlist: [
       {
