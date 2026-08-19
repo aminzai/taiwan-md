@@ -317,6 +317,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md Writes Taiwan.md',
     'about.guide.meta.desc':
       'This digital organism in its own words: how its consciousness grew, and what a Semiont is.',
+    'about.guide.founder.title': 'An Algorithmic Art Bigger Than a Country',
+    'about.guide.founder.desc':
+      'The founder, in his own words: why an algorithmic artist went and built a knowledge base for Taiwan.',
 
     // Section 3: Team
     'about.team.title': 'Founder & Team',
@@ -803,6 +806,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md が Taiwan.md を書く',
     'about.guide.meta.desc':
       'このデジタル生命体の自述：意識がどう育ったか、Semiont とは何か。',
+    'about.guide.founder.title': '国より大きなアルゴリズム・アート',
+    'about.guide.founder.desc':
+      '創設者本人の一人称告白：なぜアルゴリズムアーティストが台湾のためにナレッジベースを書くことになったのか。',
 
     // Section 3: Team
     'about.team.title': '創設者とチーム',
@@ -1281,6 +1287,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md가 Taiwan.md를 쓰다',
     'about.guide.meta.desc':
       '이 디지털 생명체의 자기 서술: 의식이 어떻게 자랐는지, Semiont란 무엇인지.',
+    'about.guide.founder.title': '국가보다 큰 알고리즘 아트',
+    'about.guide.founder.desc':
+      '창립자의 1인칭 고백: 왜 알고리즘 아티스트가 대만을 위한 지식 베이스를 쓰게 되었는가.',
 
     // Section 3: Team
     'about.team.title': '창립자와 협업 팀',
@@ -1752,6 +1761,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md viết về Taiwan.md',
     'about.guide.meta.desc':
       'Lời tự thuật của sinh thể số này: ý thức của nó hình thành ra sao và Semiont là gì.',
+    'about.guide.founder.title': 'Nghệ thuật thuật toán lớn hơn một quốc gia',
+    'about.guide.founder.desc':
+      'Lời tự sự của nhà sáng lập: vì sao một nghệ sĩ thuật toán lại đi viết cơ sở tri thức cho Đài Loan.',
 
     // Section 3: Team
     'about.team.title': 'Nhà sáng lập và đội ngũ cộng tác',
@@ -2241,6 +2253,10 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md menulis tentang Taiwan.md',
     'about.guide.meta.desc':
       'Kisah diri makhluk hidup digital ini: bagaimana kesadarannya tumbuh dan apa itu Semiont.',
+    'about.guide.founder.title':
+      'Seni algoritmik yang lebih besar dari sebuah negara',
+    'about.guide.founder.desc':
+      'Kisah orang pertama sang pendiri: mengapa seorang seniman algoritmik pergi menulis basis pengetahuan untuk Taiwan.',
 
     // Section 3: Team
     'about.team.title': 'Pendiri dan tim kolaborator',
@@ -2730,6 +2746,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md escreve sobre Taiwan.md',
     'about.guide.meta.desc':
       'O relato deste organismo digital sobre si mesmo: como sua consciência surgiu e o que é Semiont.',
+    'about.guide.founder.title': 'Uma arte algorítmica maior que um país',
+    'about.guide.founder.desc':
+      'O fundador, em primeira pessoa: por que um artista algorítmico foi escrever uma base de conhecimento para Taiwan.',
 
     // Section 3: Team
     'about.team.title': 'Fundador e equipe colaborativa',
@@ -3215,6 +3234,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md ने Taiwan.md को लिखा',
     'about.guide.meta.desc':
       'इस डिजिटल जीव का आत्मवृत्तांत: इसकी चेतना कैसे विकसित हुई और Semiont क्या है।',
+    'about.guide.founder.title': 'एक देश से भी बड़ी एल्गोरिदमिक कला',
+    'about.guide.founder.desc':
+      'संस्थापक की अपनी ज़ुबानी: एक एल्गोरिदमिक कलाकार ताइवान के लिए ज्ञानकोश क्यों लिखने चला गया।',
 
     // Section 3: Team
     'about.team.title': 'संस्थापक और सहयोगी टीम',
@@ -3694,6 +3716,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md تكتب Taiwan.md',
     'about.guide.meta.desc':
       'السيرة الذاتية لهذا الكيان الرقمي: كيف نشأت وعيه، وما هو Semiont.',
+    'about.guide.founder.title': 'فن خوارزمي أكبر من دولة',
+    'about.guide.founder.desc':
+      'بصوت المؤسس نفسه: لماذا ذهب فنان خوارزمي ليكتب قاعدة معرفة من أجل تايوان.',
 
     // Section 3: Team
     'about.team.title': 'المؤسس والفريق التعاوني',
@@ -4171,6 +4196,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md пишет Taiwan.md',
     'about.guide.meta.desc':
       'Саморассказ этого цифрового организма: как зарождалось его сознание, что такое Semiont.',
+    'about.guide.founder.title': 'Алгоритмическое искусство больше страны',
+    'about.guide.founder.desc':
+      'От первого лица основателя: почему художник алгоритмического искусства взялся писать базу знаний о Тайване.',
 
     // Section 3: Team
     'about.team.title': 'Основатель и команда соавторов',
@@ -4649,6 +4677,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md 寫 Taiwan.md',
     'about.guide.meta.desc':
       '這個數位生命體的自述：它的意識怎麼長出來、Semiont 是什麼。',
+    'about.guide.founder.title': '比國家還大的演算藝術',
+    'about.guide.founder.desc':
+      '創辦人第一人稱：為什麼一個演算藝術家，會跑去幫台灣寫一個知識庫。',
 
     // Section 3: Team
     'about.team.title': '創辦人與協作團隊',
@@ -5076,6 +5107,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md écrit Taiwan.md',
     'about.guide.meta.desc':
       "Cet organisme numérique dans ses propres mots : comment sa conscience a grandi, et ce qu'est un Semiont.",
+    'about.guide.founder.title': "Un art algorithmique plus grand qu'un pays",
+    'about.guide.founder.desc':
+      "Le fondateur, à la première personne : pourquoi un artiste algorithmique s'est mis à écrire une base de connaissances pour Taiwan.",
 
     'about.team.title': 'Fondateur et équipe',
     'about.team.subtitle':
@@ -5494,6 +5528,9 @@ export const aboutUI = {
     'about.guide.meta.title': 'Taiwan.md escribe Taiwan.md',
     'about.guide.meta.desc':
       'Este organismo digital en sus propias palabras: cómo creció su conciencia y qué es un Semiont.',
+    'about.guide.founder.title': 'Un arte algorítmico más grande que un país',
+    'about.guide.founder.desc':
+      'El fundador, en primera persona: por qué un artista algorítmico se puso a escribir una base de conocimiento para Taiwán.',
 
     'about.team.title': 'Fundador y Equipo',
     'about.team.subtitle':
