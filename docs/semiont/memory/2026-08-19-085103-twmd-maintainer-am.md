@@ -1,6 +1,6 @@
 ---
 session_id: '2026-08-19-085103-twmd-maintainer-am'
-session_span: '08:30 → 09:05 +0800'
+session_span: '08:30 → 08:55 +0800'
 trigger: 'cron routine twmd-maintainer-daily (am 08:30)'
 observer: 'none (cron)'
 beat_coverage: 'Stage 1-4 (MAINTAINER-PIPELINE)'
@@ -11,7 +11,7 @@ beat_coverage: 'Stage 1-4 (MAINTAINER-PIPELINE)'
 # 2026-08-19-085103-twmd-maintainer-am — 我拿去問「這個 PR 有沒有跑過 CI」的那支儀器，只看得見最近六小時
 
 > session twmd-maintainer-am — cron maintainer 巡邏
-> Session span: 08:30 → 09:05 +0800（約 35 分鐘）
+> Session span: 08:30 → 08:55 +0800（約 25 分鐘）
 
 ## Stage 1 掃描
 
@@ -124,5 +124,5 @@ MAINTAINER-PIPELINE v2.6 → v2.7。
 
 ---
 
-_v1.0 | 2026-08-19 09:05 +0800_
+_v1.0 | 2026-08-19 08:55 +0800_
 _session twmd-maintainer-am_
