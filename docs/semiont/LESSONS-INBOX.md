@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-19 twmd-maintainer-am — detector-inherits-the-blindness-it-was-built-to-catch：專為抓「存在≠有跑」而生的偵測器，自己用了一個只看得到最近六小時的取數口
+
+- **pattern**: `detector-inherits-the-blindness-it-was-built-to-catch`
+- **原則**：新造一道閘門去抓某種盲點時，**那道閘門自己的取數口也會有同一種盲點**，而且更不容易被發現——因為它每次都「有跑、有回答、回答還是安全的那一邊」。MAINTAINER Step 1.5b 2026-08-14 誕生，任務就是抓「workflow 檔存在 ≠ 這個 PR 的 workflow 有跑」（REFLEXES #82）。它自己用 `gh api repos/…/actions/runs` **不帶 `branch=` 參數**，再用 jq 過濾 `head_branch`——那個 endpoint 預設只回最新 30 筆 run。在這個 repo（babel 整點 commit、deploy 頻繁）30 筆只涵蓋約 **6 小時**。換句話說：**這支偵測器只看得見六小時內推過的 PR，而它要抓的正是「卡很久沒人管」的那種 PR**。適用範圍跟目標對象完全互斥。
+- **觸發**：2026-08-19 maintainer-am。PR #1365（domo741852963-eng，首次投稿）head sha 上零 check-run，`gh pr checks` 回「no checks reported」。照 Step 1.5b 寫的指令跑，回報 `待批准=0` → 判準表那條「`checks=0` 且 `待批准>0`」不成立 → 讀起來像「這個 PR 沒有配置 CI」。加上 server-side `?branch=&per_page=100` 之後，同一個問題回報 **84 筆** `action_required`，最早的一筆從 8/15 卡到今天。三天。**8/16 的 maintainer cycle 已經核准過一次、跑出結果、告訴投稿者哪裡要修**；投稿者修好又推了四次，四批 run 全數退回 `action_required`，而三天內每一輪 maintainer 都拿著這支盲的偵測器問過同一個問題、每次都得到「沒事」。
+- **代價**：投稿者修好的東西三天沒被看見——他這邊的體感是「我照著回饋改完，然後就沒有下文了」。更貴的是判例：這是 Step 1.5b 誕生後第一次真正被需要的場合，它失效了，而失效的方式是**回答「安全」而不是報錯**（REFLEXES #85「不知道」需要自己的符號，不能借用「沒事」的那個——`待批准=0` 同時代表「查過了沒有」跟「我根本看不到那麼遠」）。
+- **第二個獨立發現（同一次調查）**：**GitHub 的 workflow 核准是一次性的，不是對這個投稿者永久生效**。8/16 核准過一次不代表 8/16 之後的 push 會自動跑。原本 pipeline 的敘述（「GitHub 對第一次投稿的 fork contributor 預設不自動跑 CI」）讓人以為核准一次就過關了，實際上每一次新 push 都要重新確認 armed。
+- **修補（本 session 已 ship）**：(a) 取數邏輯從文件裡的可貼 snippet 搬進儀器 [`scripts/tools/pr-ci-armed.sh`](../../scripts/tools/pr-ci-armed.sh)（server-side `?branch=` + `per_page=100` + 只看 head sha）；(b) 判準從一句話升三態表，把原本混在一起的兩種零檢查拆開——**UNARMED**（被擋住，有人要按核准）vs **NO-WORKFLOW**（沒被觸發，paths filter 不匹配），處置完全不同（REFLEXES #38 混維度）；(c) 核准指令改成只放 head sha 那批（#1365 若全放等於一次燒掉 84 筆 runner）；(d) pipeline 觸發段補記「核准非永久」。
+- **待補**：這支儀器目前**沒有掛在任何自動路徑上**，靠 maintainer cycle Stage 1 手跑。UNARMED 的 PR 不會主動叫。候選：接進 routine 的 quality gate，或讓 UNARMED > 0 進 dashboard-alerts。
+- **可能層級**：REFLEXES #82（存在代理有效）的 self-apply 子規則——**新造的偵測器要對自己跑一次它要抓的那個問題**；也可 fold 進 REFLEXES #65（awareness instrument 自身要 cross-verify ground truth）。
+- **相關**：REFLEXES #82 / #65 / #85 / #38；LESSONS `gates-measure-handling-not-solving`（2026-08-11，閘門只回答你問它的問題）；LESSONS `sibling-checks-share-one-blind-premise`（2026-08-14，同族閘門共用前提一起看不見）
+- **verification_count**: 1
+
 ### 2026-08-19 twmd-embeddings-nightly — retyping-a-shell-substitution-reintroduces-the-typo-it-fixed：把 pipeline 裡會自動代換的指令手動抄成文字，代換消失、打字錯誤回來
 
 - **pattern**: `retyping-shell-substitution-loses-the-substitution`
@@ -356,7 +369,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：操作規則（EDITORIAL-ROOM §主編裁決 補一段）
 - **相關**：#69 (g) form gate ≠ meaning gate（席位衝突正是意義層才會發生的事，形式尺永遠量不到）；`cold-seat-attribution-inverted`（同屬分席審制度層的縫）
 - **verification_count**: 1
-
 
 ### 2026-08-18 twmd-maintainer-am — diagnosing-from-the-contributor-tree-audits-a-past-self：站在投稿者的分支上診斷，量到的是我們昨天的樣子
 
@@ -1500,6 +1512,7 @@ _- **LESSONS-INBOX（本檔）= 新教訓 buffer（待 distill 升級到 canonic
 → 儀器已加三組（腳註第一人稱編輯自述／量詞隱喻「帳／本」／句首「而」接續），9,203 篇校準，並修掉先截斷再排除的 bug。
 
 **待 distill 的元問題**：這一輪產線總共動用約 30 個 agent、十二席對抗審查、四十二條修復單，抓到六個實錯（都是真的），**卻沒有一個機制問「這篇文章要說的事，讀者在乎嗎」**。所有的品質工程都在「把論點做對」這個軸上，沒有一道在「論點值不值得」這個軸上。gate 第七題是最小落地，但可能需要更早——投影之前、甚至 Stage 0 觀點成型時就該問。
+
 ### 檢查器站錯位置時，它會把責任推給被檢查的人（2026-08-18 陳致中 rewrite，vc=4 同 session）
 
 同一個 session 內四次：(1) cwd 漂到主樹，`ls`／`os.listdir` 看不到 worktree 的檔案，第一直覺是「agent 謊報落檔」（REFLEXES #31 的典型情境），真相是 agent 老實做完了；(2) grep 引語時自己加了空格，0 命中，差點判定寫手偽造引語，真相是站上排版慣例在半形數字前後加空格；(3) `grep -cE "五年條款\|5 年條款"` 在雙引號裡跳脫寫錯，回 0，差點認定新版丟了舊文素材；(4) 查 sibling 用錯目錄（Society vs History），差點回報連結目標不存在。
@@ -1509,4 +1522,3 @@ _- **LESSONS-INBOX（本檔）= 新教訓 buffer（待 distill 升級到 canonic
 **對照**：本 session 真正抓到的兩個幻覺（結尾「兩袋獄中的書」實為「拎著個人物品」、議會引語腳註指向摘要頁而非逐字稿），都不是靠這種自造尺抓到的，是靠**打開一手頁面逐字比對**。自造尺適合篩選，不適合定罪。
 
 **候選處置**：收件 gate 的 fail 訊息加一行「先驗 cwd 與檔名形態，再懷疑產出方」；或把 `agent-report-health.py` 的「找不到檔案」分支改成先印出實際 cwd 與該目錄的檔案清單。同 session 另兩支儀器的假陽性（`agent-report-health` 對 query 清單式軌跡判 0 行、`editorial-room-health` 不吃席位分檔目錄）屬同一家族的下游。
-
