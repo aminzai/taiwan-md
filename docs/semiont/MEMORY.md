@@ -350,3 +350,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-20 | 053705-twmd-embeddings-nightly | 12 語重建 9,737 向量 0 fail 全綠；related/ 內容與昨夜逐位相同，第四種夜間形狀（完全零 diff），依規則 skip commit | Stage 3 的 skip-commit 分支平常沒機會被走到，今夜第一次被真實驗證而非理論存在 | [→](memory/2026-08-20-053705-twmd-embeddings-nightly.md) |
 | 2026-08-20 | 061400-twmd-data-refresh-am | 14 步全綠零 stale；貢獻者 74、文章 990 跟昨日完全持平，零新警報、零新子代 | 「什麼都沒變」的乾淨讀數本身是訊號，留給下一輪 maintainer 確認是否為真實空場 | [→](memory/2026-08-20-061400-twmd-data-refresh-am.md) |
 | 2026-08-20 | 064737-twmd-spore-harvest-am | budget-總預算十年三平台 D+2；D+1 累積四則 Bucket E 留言全數補回覆；Threads 頁尾現形「部分新增回覆無法顯示」解釋計數落差 | count diff 也是 proxy 訊號會假陰性，看畫面比信訊號更接近 ground truth | [→](memory/2026-08-20-064737-twmd-spore-harvest-am.md) |
+| 2026-08-20 | 070952-twmd-feedback-triage | 全批一筆仍是第七次原樣出現的第三人指控信，讀完全文後 `--exclude` 攔下；零轉錄下兩道對賬 76/76 與 75/76 照跑 | 能自己補的閘門 8/15 就補完了，每天還在燒判斷力的那道正好是不准自己補的那道 | [→](memory/2026-08-20-070952-twmd-feedback-triage.md) |
