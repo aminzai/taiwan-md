@@ -1,7 +1,451 @@
 {
-  "generatedAt": "2026-08-18T22:12:15.590Z",
+  "generatedAt": "2026-08-19T22:12:25.518Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "1e46ecfca36871f0e0adf0028556429c977539e3",
+      "date": "2026-08-20T05:39:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-20 05:37 — 三層對賬第二十七輪，連續第九輪零漂移",
+      "articles": []
+    },
+    {
+      "hash": "06567c869e5f23bd6f7f99f40e5ed5ef40b6b917",
+      "date": "2026-08-20T05:38:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-20 05:38 — 12 語重建 9,737 向量全綠，related/ 與昨夜逐位相同，Stage 3 skip-commit 分支首次真實驗證",
+      "articles": []
+    },
+    {
+      "hash": "383229c788409987dd6d27e09497b2b46d217bdf",
+      "date": "2026-08-20T01:17:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "✍️ 語感修復：比國家還大的演算藝術 — AI 味與歐化語句深度順稿",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "705c8bd40a09fc43630919c815c9d40bef977f0b",
+      "date": "2026-08-20T01:02:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "7db315a5a9f5a6af38c240293f3fa223c6a58358",
+      "date": "2026-08-20T00:01:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "d5b4a072322502eed5de3e81bc776b7e17263983",
+      "date": "2026-08-19T23:00:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "bd7a81d9fb730b2905fd7e9b0d1fd9318189923b",
+      "date": "2026-08-19T22:14:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "a84e283696e6906c1653785de5a1de6232f4439e",
+      "date": "2026-08-19T21:13:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "de522feb023b508a60ce87af158df010aafff89d",
+      "date": "2026-08-19T20:12:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "fe86465933e7634be8a1d36e273113c081ca5f5b",
+      "date": "2026-08-19T19:10:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "f787d2a93d310919fffc06448c4d213fcae069c4",
+      "date": "2026-08-19T18:09:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "fce1593db4abf196619ad71a565d770ee397e3ce",
+      "date": "2026-08-19T17:08:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "614341d7fd8ce6536ce2cfb00bcee35bed32e583",
+      "date": "2026-08-19T16:16:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: algorithmic-art-evolve 續——§8e v3 上線後用新尺回掃自己的 memory 與 diary，各抓到一處英式開場，改掉；handoff 加中央研究院順稿候選",
+      "articles": []
+    },
+    {
+      "hash": "36d5c8e320198d8fc5217d47a20a61d5f7fb70db",
+      "date": "2026-08-19T16:15:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 英式短句開場第三輪——prose-health §8e v3 升計分＋pre-commit 觸檔 HARD，EDITORIAL 第 9 病補骨架判準，REWRITE 2C／3 同步",
+      "articles": []
+    },
+    {
+      "hash": "2ce19fa416bfe0565519ac167b50087f9a24007f",
+      "date": "2026-08-19T16:07:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "5b28c6bacaf411ddbd7a5049d748884154bdf4ea",
+      "date": "2026-08-19T15:59:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 比國家還大的演算藝術 — 哲宇 callout「英文短句開頭殘留」，全篇再順一輪",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "5c20806b89171de20866692cf04654aadc3549b1",
+      "date": "2026-08-19T15:57:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: algorithmic-art-evolve 收官——替哲宇寫他的第一人稱長文，查證住報告、聲音住正文",
+      "articles": []
+    },
+    {
+      "hash": "eeb93aa65f668e27fa6d2ec1f5e2728150809f6a",
+      "date": "2026-08-19T15:39:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: tw-article 文內嵌入卡——graph.md 第 20 個模組，共用 ArticleCard 長出 embed 密度",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "aab81dfdf096868129e88d229e31c1c7e64118f0",
+      "date": "2026-08-19T15:06:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "8c7b3cb5d5edd2efbd4e40d41e9189ca6d2236e4",
+      "date": "2026-08-19T14:41:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: 比國家還大的演算藝術 — 補 Search Console 六個月曲線（哲宇提供後台截圖）",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "d69c0492c2e33e3aa1f33ac26c7bd2f5ed844967",
+      "date": "2026-08-19T14:04:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "30392eb4e70e9e82c51fb131694d52bfabd32101",
+      "date": "2026-08-19T13:03:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "e89738c1a4b52c0c13ca26e1783835393cb47dbd",
+      "date": "2026-08-19T12:10:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 比國家還大的演算藝術 — 哲宇兩條裁決（俄語段壓縮／結尾收回生態系）",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "c9385aa9e6c47890326cb42881cd95e1d4652f9b",
+      "date": "2026-08-19T12:02:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "dff58ed30d555b3dae06ea62dd1c12a0bfe556aa",
+      "date": "2026-08-19T12:02:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 比國家還大的演算藝術 — 新章〈我要的是一個說書人〉＋巴別塔補俄語版一手線",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "b376acd90cd8127ea8e31cf7bd57b9a0fd13c9d4",
+      "date": "2026-08-19T11:12:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: /about「再往裡面看一層」加第四張卡 — 比國家還大的演算藝術（12 語）",
+      "articles": []
+    },
+    {
+      "hash": "039dfd1a249169ab35288b873ba146d6a77c28ed",
+      "date": "2026-08-19T11:11:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 比國家還大的演算藝術 — 哲宇三條 callout（歸屬錯置／廢話句／弱過場）",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "41cd731cdb354d520e8756a2f0b2cdbfc3ca828d",
+      "date": "2026-08-19T11:01:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "3f3df7bd9be84a33003d2536393f1acb38feb017",
+      "date": "2026-08-19T10:53:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 比國家還大的演算藝術 — 哲宇四條 callout 落地（錯字／後台洩漏／事實反寫／全篇順稿）",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "cb8ad2fd1478cca42eb8fe4ac4aa3b41b18e0ceb",
+      "date": "2026-08-19T09:39:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 比國家還大的演算藝術 深度進化（4,500 → 7,315 字，13 張圖，57 腳註）",
+      "articles": [
+        {
+          "url": "/about/比國家還大的演算藝術",
+          "name": "比國家還大的演算藝術"
+        }
+      ]
+    },
+    {
+      "hash": "1e282f67c27b8f1bb9ebfd3adac6a2a1df76aece",
+      "date": "2026-08-19T09:14:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2ce16527d0f2f24c378e18bfa912920073c671cb",
+      "date": "2026-08-19T09:17:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 補收官後那三件事——跨日 span、v2.9 合併、deploy 驗證",
+      "articles": []
+    },
+    {
+      "hash": "42e48af3c0855b9071d3992dd51407ebd2ef59a4",
+      "date": "2026-08-19T08:59:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: twmd-maintainer-manual 收官——71 PR 全審完，60 篇上站，途中死了一次",
+      "articles": []
+    },
+    {
+      "hash": "0aee4b39b3f38df0f4a91fbf4704eb7a12a3000a",
+      "date": "2026-08-18T18:56:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 分號／破折號閘門把 *圖：…* 星號斜體圖說也當來源標註，不再算進正文",
+      "articles": []
+    },
+    {
+      "hash": "6ed6813ec775373413021065ba69582655cdff4b",
+      "date": "2026-08-18T18:55:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: push-heal-to-pr 不再讀 FETCH_HEAD——共用 worktree 裡別人的 fetch 會把它蓋掉",
+      "articles": []
+    },
+    {
+      "hash": "374d069a7a9ed7f45acc3e74663c194f3604fe07",
+      "date": "2026-08-18T18:54:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: push-heal-to-pr 改從 fork 分支直接 fetch，不靠會落後幾秒的 refs/pull/N/head",
+      "articles": []
+    },
+    {
+      "hash": "916159480408a4ede77f4096f9c4f4907311bb3e",
+      "date": "2026-08-18T18:34:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: contributor-pr-heal --from-pr 看得見落在 knowledge/ 根目錄的投稿檔了",
+      "articles": []
+    },
+    {
+      "hash": "0ad39aefbfd7078f9631a881619c381056eabfac",
+      "date": "2026-08-18T18:33:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: ARTICLE-INBOX 加「吉祥物 EVOLVE」P1——PR #1391 換血版丟了舊版四段，merge 後要補回",
+      "articles": []
+    },
+    {
+      "hash": "140a246f0a99528e7481e5350839bd32c2d931b8",
+      "date": "2026-08-18T18:32:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 文章卡長出「階段」標籤——🌱 進化中／正式文章／🔎 深度策展，/latest 加階段 filter",
+      "articles": []
+    },
+    {
+      "hash": "c15eed663c941357a0f0c8a02c653c4432062094",
+      "date": "2026-08-18T18:27:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: OBSERVER-QUEUE 收三件需要哲宇的 PR 決策——About/ 代言兩篇、#1450 覆寫查證文、#30 補兩個同型人物門檻案",
+      "articles": []
+    },
+    {
+      "hash": "b4fad36f67ddee31bba774e4e2121020e13a4522",
+      "date": "2026-08-18T17:22:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: ARTICLE-INBOX 加「學測／會考專題頁 + 國中會考條目」P2",
+      "articles": []
+    },
+    {
+      "hash": "b1f85ee28bac600dbb2c07b4bc34003b9c6a24f9",
+      "date": "2026-08-18T17:22:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] tool: push-heal-to-pr.sh——把 heal 過的檔用 git plumbing 推回投稿者分支，不 checkout",
+      "articles": []
+    },
+    {
+      "hash": "94a45b17a7f9d66a9fd33ea0b1650ce05a478a0d",
+      "date": "2026-08-18T17:06:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 兩支每天被人工推翻的假警報——liveness 只看 commit 標題、EXP 到期檢查讀不懂刪除線",
+      "articles": []
+    },
+    {
+      "hash": "ed68d39e083dcb512e156799a568f406387be4cd",
+      "date": "2026-08-18T17:06:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: MAINTAINER v2.8——格式債直接 push 到對方分支、診斷帶進 main 樹跑、draft 先分開報數；同 commit 還原 8/14 被過期副本砍掉的 v2.7 §1c",
+      "articles": []
+    },
+    {
+      "hash": "d8fd0f7ee5e07a02a1d987861899a0845ca26c63",
+      "date": "2026-08-18T19:42:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research: 比國家還大的演算藝術 Stage 1 合成＋投影藍圖＋編輯室三席（depth gate PASS）",
+      "articles": []
+    },
+    {
+      "hash": "9101ae5659d745dc583ccac327ccd95b01a450fe",
+      "date": "2026-08-18T19:14:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "f52b90005d275cbcc1d393d00e35ce193b2a2122",
+      "date": "2026-08-18T18:46:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research: 比國家還大的演算藝術 Stage 0 觀點成型（立體群像／P2 方法論肖像／standard-lite；38 條探索搜尋，gate hard_fail=0）",
+      "articles": []
+    },
+    {
+      "hash": "8468087c2ac2e4fa65a24fbcad492e207f6522b2",
+      "date": "2026-08-19T08:54:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: memory 的收官時間我寫了一個還沒到的鐘點",
+      "articles": []
+    },
+    {
+      "hash": "5d6ac105862a554bb4b30238215eb92c3ce1fb9d",
+      "date": "2026-08-19T08:53:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-19 08:51 — 我拿去問「這個 PR 有沒有跑過 CI」的那支儀器，只看得見最近六小時",
+      "articles": []
+    },
+    {
+      "hash": "17fbda7a7772ba6e04a89044711f20074f76c913",
+      "date": "2026-08-19T08:53:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diagnose: #1365 技術面已全綠更新進待決佇列，偵測器自身盲點記進 LESSONS",
+      "articles": []
+    },
+    {
+      "hash": "9463d4ed771ad3124ce7fd1cf75f46e338a8dbf4",
+      "date": "2026-08-19T08:52:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 抓「這個 PR 有沒有跑過 CI」的那段指令，只看得見最近六小時",
+      "articles": []
+    },
+    {
+      "hash": "844f65fb5735cdc7e9093708e126140083ba39f0",
+      "date": "2026-08-19T07:11:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 把 memory 裡的時間占位符換成實數",
+      "articles": []
+    },
+    {
+      "hash": "9d00f6ef9566d63e92e0780cef3c4e200039e9dd",
+      "date": "2026-08-19T07:11:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 全批唯一那筆是第六次攔下的檢舉信，零轉錄下兩道對賬照常跑完",
+      "articles": []
+    },
+    {
+      "hash": "64a70a623876612623a90c315c5dfd3951ac3c07",
+      "date": "2026-08-19T06:46:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-19 06:45 — 讀者問缺漏，答案在自家資料庫裡不用外部搜尋",
+      "articles": []
+    },
+    {
+      "hash": "4c4c0ead5f085f06f089c3cd6cc50ac17181cd1a",
+      "date": "2026-08-19T06:44:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 3 spores harvested, 1 reply shipped — 2026-08-19",
+      "articles": []
+    },
+    {
+      "hash": "5df2708b69164437292be522417b4f00d36ad2fa",
+      "date": "2026-08-19T06:14:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-19 06:13 — 14 步全綠零 stale 連續第九天，貢獻者持平 74",
+      "articles": []
+    },
+    {
+      "hash": "1aed45da667063475e90b7d4d4dbd69d029b297d",
+      "date": "2026-08-19T06:12:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh: am 14-step ground truth sync — 2026-08-19 06:xx",
+      "articles": []
+    },
     {
       "hash": "5d37063b92d332cbfe09593a5a42dd2e78295df8",
       "date": "2026-08-19T05:42:38+08:00",
