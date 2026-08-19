@@ -1,10 +1,10 @@
 ---
 title: 'Chiang Wei-shui: Der Arzt, der mit einer „Klinischen Vorlesung“ den Erreger der Kolonie diagnostizierte'
-description: '1921 veröffentlichte der Arzt Chiang Wei-shui seine „Klinische Vorlesung“ (臨床講義), in der er Taiwan als „Schwachkopf der Weltkultur“ personifizierte und die Krankheitsursache als geistige Unterernährung diagnostizierte. Er gründete den Taiwanesischen Kulturverein und mit der Taiwanesischen Volkspartei die erste legale Partei; sein Leben verbrachte er mit über einem Dutzend Gefängnisaufenthalten und webte zwischen dem Da'an-Krankenhaus und dem „Chunfengdeyi“-Klubhaus ein Netz des Erwachens. Sein praktischer Nachlass lautet: „Landsleute, schließt euch zusammen; vereint sind wir wahrhaft stark.“'
+description: '1921 veröffentlichte der Arzt Chiang Wei-shui seine „Klinische Vorlesung“ (臨床講義), in der er Taiwan als „Schwachkopf der Weltkultur“ personifizierte und die Krankheitsursache als geistige Unterernährung diagnostizierte. Er gründete den Taiwanesischen Kulturverein und mit der Taiwanesischen Volkspartei die erste legale Partei; sein Leben verbrachte er mit über einem Dutzend Gefängnisaufenthalten und webte zwischen dem Da''an-Krankenhaus und dem „Chunfengdeyi“-Klubhaus ein Netz des Erwachens. Sein praktischer Nachlass lautet: „Landsleute, schließt euch zusammen; vereint sind wir wahrhaft stark.“'
 date: 2026-04-28
 category: 'People'
 subcategory: '歷史人物'
-tags: ['Chiang Wei-shui', 'Taiwanesischer Kulturverein', 'Taiwanesische Volkspartei', 'Japanische Kolonialzeit', 'Kulturelle Aufklärung', 'Da'an-Krankenhaus', 'Klinische Vorlesung']
+tags: ['Chiang Wei-shui', 'Taiwanesischer Kulturverein', 'Taiwanesische Volkspartei', 'Japanische Kolonialzeit', 'Kulturelle Aufklärung', 'Da''an-Krankenhaus', 'Klinische Vorlesung']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28
