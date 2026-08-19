@@ -867,9 +867,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **pattern**: shared-tool-quota-pool-in-fanout
 - **原則**：大規模 fan-out 的工具額度（WebSearch session 200 次上限）是全部子代理共享的池，dispatch 設計要把額度當資源預算；額度耗盡的 fallback（WebFetch 直搜引擎頁）與誠實回報（searches_performed 如實填 0）該寫進 prompt 契約
 - **觸發**：2026-08-04 支語研究 30 agent 艦隊，後段 3 agent WebSearch 全 fail（200/200）自行 WebFetch 直搜救回並誠實填 0 → memory/2026-08-04-104614-支語研究.md
-- **可能層級**：通用反射（REFLEXES #45 OpenRouter hourly budget 同族——「共享額度池進 dispatch 預算」的 WebSearch instance）
+- **instances**：
+  - 2026-08-18 twmd-maintainer-manual — 8 隻 Phase B 執行子代同時對 60 篇 PR 跑 `image-ingest.mjs`，共用同一出口 IP 撞 `upload.wikimedia.org` 全站 429（Retry-After 600），Y7/Y8 各等 650-900 秒仍 429，整批最慢的 Y4 拖 70 分鐘。繞法（子代自己找到、主 session 轉發）：Commons API 與 `/thumb/…/1280px-<檔名>` 縮圖路徑不受同一限流，抓縮圖後以本機檔餵 image-ingest；或直接改 upload.wikimedia.org 直連（image-health 本來列為合法 CC 來源）。**修補候選**：`image-ingest.mjs` 收到 429 時自動退回 1280px 縮圖路徑（尺寸遠超站上顯示需求），不必等人轉發繞法
+- **可能層級**：通用反射（REFLEXES #45 OpenRouter hourly budget 同族——「共享額度池進 dispatch 預算」的 WebSearch instance；8/18 再加 Wikimedia CDN instance）
 - **相關**：#45
-- **verification_count**: 1
+- **verification_count**: 2
 - **severity**: tactical
 
 ### 2026-08-04 支語研究 — dedup-layer-silent-degradation：入庫查重的對照層會靜默退化

@@ -1,0 +1,784 @@
+[
+  {
+    "number": 1433,
+    "title": "Create 報禁解除.md",
+    "path": "knowledge/Technology/報禁解除.md",
+    "is_update": false,
+    "heal_exit_code": 0,
+    "hard_before": 1,
+    "hard_after": [],
+    "warn_after_count": 10,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Taiwan_daily_newspaper.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public Domain (confirmed via API, matches caption)"
+      }
+    ],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {
+        "url": "https://www.president.gov.tw/NEWS/12800",
+        "http_status": 302,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.airitilibrary.com/Article/Detail/10161007-200804-x-95-183-212-a",
+        "http_status": 403,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/feat/archives/2019/12/29/2003728351",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors' (near AI-flavored generic author, not exact red-flag match)",
+      "hard_before showed contributor's original frontmatter had category='History' while file path is Technology/ — heal auto-corrected category to match path, but content (press-freedom/media deregulation history) arguably doesn't fit Technology at all; subcategory '戰後與威權' is also not in the Technology taxonomy list",
+      "word count 3028/4500 CJK (67%) — under depth threshold",
+      "4 對位句型/塑膠句 warnings (all soft, editable)"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "涉戒嚴後媒體管制與報禁解除史，引用學術論文（林麗雲）、卓越新聞獎基金會口述記錄、總統府新聞稿、光華雜誌與轉型正義組織等多元來源，呈現政治控制退場後市場集中/promotion war等問題，非單一觀點宣傳。",
+    "content_summary": "追溯台灣報禁從1951年限制31家報紙到1988年解除的制度史，強調解除後媒體從政治控制轉為市場控制（促銷戰、所有權集中），非簡單的自由化敘事。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "確認 category 是否該從 Technology 改為 History 或 Society（內容是報業/新聞自由史，非科技產業；heal已自動把contributor原填的History校正回符合路徑的Technology，但這反而暴露了選錯路徑的可能性）",
+        "est_min": 5
+      },
+      {
+        "action": "補 subcategory 有效值（目前 戰後與威權 不在 Technology taxonomy）",
+        "est_min": 3
+      },
+      {
+        "action": "補 1-2 張圖片達媒體密度下限（目前只有 1 張首圖）",
+        "est_min": 15
+      },
+      {
+        "action": "補足字數至 4500 門檻（目前 3028，缺 1472 字）",
+        "est_min": 30
+      },
+      {
+        "action": "修 4 處對位句型/塑膠句",
+        "est_min": 10
+      }
+    ],
+    "notes": "footnote HTTP 403（airiti）為常見學術資料庫防爬蟲擋 HEAD/curl，非真的失效連結；president.gov.tw 302 為正常重導向。內容與來源品質整體良好，主要問題是格式/字數缺口與可能的分類錯位。"
+  },
+  {
+    "number": 1434,
+    "title": "Create 慈濟.md",
+    "path": "knowledge/Society/慈濟.md",
+    "is_update": false,
+    "heal_exit_code": 0,
+    "hard_before": 3,
+    "hard_after": [],
+    "warn_after_count": 21,
+    "semicolon_body_count": 6,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tzu_Chi_Foundation_in_Hualien_(3991128820).jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 2.0 (confirmed via API, matches caption)"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://women.nmth.gov.tw/?p=19339",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.cambridge.org/core/journals/voluntas/article/becoming-ingo-a-case-study-on-taiwans-tzu-chi-in-the-united-states/76A258E3FC9F053D191C52C7CE04E9F8",
+        "http_status": 302,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.brookings.edu/articles/taiwans-humanitarian-aiddisaster-relief-wither-or-prosper/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'",
+      "hard_before: 原始 frontmatter 缺 subcategory 與 featured 必要欄位（heal 自動補上）",
+      "延伸閱讀 section 用 ### 而非慣用的 ## 層級",
+      "description 太短 54字 < 100字下限",
+      "未涵蓋慈濟已知的公共爭議（如內湖園區開發案、政治獻金爭議），內容整體偏正面，但非明顯政治宣傳——引用獨立學術期刊（Voluntas）與智庫（Brookings）而非僅組織自述，文末段落也主動提出對大型宗教組織問責透明度的批判性反思"
+    ],
+    "notability": {
+      "wiki": "n/a (organization)",
+      "mainstream_media": "yes (Cambridge/Voluntas academic journal, Brookings Institution, National Museum of Taiwan History, 國史館)",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "宗教慈善組織條目，引用學術論文、智庫、官方博物館史料與慈濟官方歷史並陳，非一面倒讚頌；但未觸及該組織過往公共爭議，屬選材侷限。",
+    "content_summary": "從1966年花蓮五毛錢竹筒歲月起家，追溯慈濟如何發展成醫療、教育、國際賑災網絡，並以2024年花蓮地震研究說明其志工網絡如何轉化為災害應變能力。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "補 rationale block 4 必要欄位",
+        "est_min": 5
+      },
+      {
+        "action": "description 補到 100+字",
+        "est_min": 5
+      },
+      {
+        "action": "### 延伸閱讀 改成 ## 延伸閱讀",
+        "est_min": 2
+      },
+      {
+        "action": "補 1-2 張圖片達媒體密度下限",
+        "est_min": 15
+      },
+      {
+        "action": "補足字數至 4500（目前 3056，缺 1444 字）",
+        "est_min": 30
+      },
+      {
+        "action": "6 處全形分號改句號（皆為連接獨立子句的 clause 型，可直接拆句）",
+        "est_min": 10
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "number": 1435,
+    "title": "Create 台灣進屋脫鞋.md",
+    "path": "knowledge/Lifestyle/台灣進屋脫鞋.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 2,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：24 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 32,
+    "semicolon_body_count": 24,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E6%8A%95%E6%96%87%E7%89%A9%E9%A4%A8-%E5%92%8C%E5%BC%8F.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0 (confirmed via API, matches caption)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2008-02-09_interior_of_a_former_Japanese_house_in_Chiayi%2C_Taiwan.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 2.0 (confirmed via API, matches caption)"
+      }
+    ],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {
+        "url": "https://www.airitilibrary.com/Article/Detail/U0017-1309202111091200",
+        "http_status": 403,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://travel.tycg.gov.tw/zh-tw/travel/attraction/997",
+        "http_status": 302,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.kumataiwanlife.com/%E9%97%9C%E6%96%BC%E5%8F%B0%E7%81%A3%E7%9A%84%E7%94%9F%E6%B4%BB%E7%92%B0%E5%A2%83%EF%BC%9A%E8%84%AB%E9%9E%8B%E5%97%8E%EF%BC%9F/",
+        "http_status": 301,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md' — EXACT match to the red-flag author-value list",
+      "HARD FAIL: 24 全形分號 > 12 門檻",
+      "subcategory '生活習慣' 不在 taxonomy",
+      "description 太短 46字 < 100字下限"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非政治敏感題材（住宅生活習慣民俗）。",
+    "content_summary": "探討台灣進屋脫鞋習慣的多元成因——非單一硬性規則，而是受住宅格局、日治玄關建築影響、地面材質、家庭與公共場所規範共同形塑的生活腳本，並特別強調身心障礙等使用者差異，來源含1篇碩士論文與多個官方館舍規範。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "24 處全形分號改句號或其他標點（hard gate 卡關，全數為 clause 型連接獨立子句，需逐一手動拆句避免破壞語意）",
+        "est_min": 30
+      },
+      {
+        "action": "description 補到 100+字",
+        "est_min": 5
+      },
+      {
+        "action": "補 subcategory 有效值",
+        "est_min": 3
+      },
+      {
+        "action": "3 處塑膠句/對位句型修正",
+        "est_min": 10
+      }
+    ],
+    "notes": "內容品質高、來源紮實（13 條腳註含學術論文＋官方館舍資訊，並清楚標示生活觀察類文章「非全台統計」的限制），主要卡在格式紀律（分號）而非內容問題。author='Taiwan.md' 是本批唯一的作者欄位精確紅旗案例，值得特別留意。"
+  },
+  {
+    "number": 1436,
+    "title": "Create 台灣顯示器產業.md",
+    "path": "knowledge/Technology/台灣顯示器產業.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：13 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 36,
+    "semicolon_body_count": 13,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First%20MicroLED.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0 (confirmed via API, matches caption)"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Wall%20%28Samsung%20MicroLED%20display%29.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0 (confirmed via API, matches caption)"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://50th.itri.org.tw/en/history/optoelectronics/24/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.president.gov.tw/News/23634",
+        "http_status": 302,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12073280/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md' — EXACT match to the red-flag author-value list",
+      "hard_before 含 3 處 [[wikilink]] 殘留（heal 已修掉）+ 13 全形分號超標（heal 修不掉分號，剛好壓線超標）",
+      "subcategory '光電與顯示' 不在 taxonomy",
+      "文末出現『本 TXT 版本不下載圖片，也不附帶圖片檔案...』這類疑似 AI 工具輸出格式殘留的自我說明文字，讀起來不像文章正文該有的內容",
+      "字數僅 3146/4500（70%，缺 30%）"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非政治敏感（產業科技史）。",
+    "content_summary": "追溯台灣顯示器產業從1996年第一片TFT-LCD、2002年全球市占第二，到近年轉型Micro LED與場域整合方案的歷程，強調規模競賽轉向系統整合能力；兩張示意圖皆明確標註「非台灣業者產品或本文產業歷史證據」，避免圖文誤導。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "13 處全形分號改句號（剛好壓線超標 1 處，全為 clause 型）",
+        "est_min": 15
+      },
+      {
+        "action": "description 補到 100+字",
+        "est_min": 5
+      },
+      {
+        "action": "補 subcategory 有效值",
+        "est_min": 3
+      },
+      {
+        "action": "刪除或改寫文末『本TXT版本不下載圖片』等疑似 AI 工具殘留說明文字，改為標準圖片來源格式",
+        "est_min": 5
+      },
+      {
+        "action": "補足字數至 4500（缺 1354 字）",
+        "est_min": 30
+      },
+      {
+        "action": "tw-versus 視覺模組補來源標註",
+        "est_min": 3
+      }
+    ],
+    "notes": "文末圖片授權補充段落用語奇怪（『本TXT版本』），建議請投稿者或直接改寫成標準圖片來源格式；此措辭本身雖非造假但值得留意是否為未經清理的 AI 生成殘留。"
+  },
+  {
+    "number": 1437,
+    "title": "Create 台北車站.md",
+    "path": "knowledge/History/台北車站.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 30,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：40 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 42,
+    "semicolon_body_count": 40,
+    "semicolon_style": "mixed",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Taipei_Main_Station_platform_3_May_2025.jpg/960px-Taipei_Main_Station_platform_3_May_2025.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY 4.0 (confirmed via API, matches caption)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TRA_Taipei_Station_%26_Taipei_Station_Underground_Mall_20041227.jpg/1280px-TRA_Taipei_Station_%26_Taipei_Station_Underground_Mall_20041227.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public Domain (confirmed via API, matches caption)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Taipei_Main_Station_Floor_Map.gif",
+        "source_type": "Wikimedia Commons",
+        "license": "MISMATCH: caption claims CC BY-SA 3.0, Wikimedia API actually shows CC BY 2.5 (also tagged GFDL / 'License migration redundant')"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/60%E5%85%83%E8%87%BA%E9%90%B5%E6%8E%92%E9%AA%A8%E4%BE%BF%E7%95%B6_%2813344634153%29.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 2.0 (confirmed via API, matches caption)"
+      }
+    ],
+    "footnote_total": 26,
+    "footnote_sample": [
+      {
+        "url": "https://storymaps.arcgis.com/stories/382a42af07f948bf85922daf07505204",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://opinion.udn.com/opinion/story/12369/4577231",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.taiwangazette.org/news/2021/5/12/from-free-china-to-little-indonesia-taipei-main-station-and-its-contested-spaces",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "LICENSE MISMATCH: 樓層圖圖說標示 CC BY-SA 3.0，Wikimedia 實際登記為 CC BY 2.5（另含 GFDL）",
+      "HARD FAIL: 40 處全形分號，全批最嚴重（遠超 12 門檻）",
+      "26 條腳註中多數描述被 heal 工具自動填入 placeholder「詳見原始連結內文資料補充」而非真正描述內容（heal-tool 產物，非投稿者原意，但降低了目前版本的可追溯性，建議之後補上真實描述）",
+      "缺 ## 延伸閱讀 section",
+      "缺 rationale block",
+      "AI 抽象 metaphor 密度警告（累計 2 處）"
+    ],
+    "notability": {
+      "wiki": "n/a (地標，非人物)",
+      "mainstream_media": "yes (公視新聞網、聯合報鳴人堂、英文 Taiwan Gazette、學術論文)",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "涉及印尼籍移工在大廳聚會/開齋節活動的公共空間使用權爭議，2012-2020年多次衝突與政策拉鋸（含2020年防疫禁坐令）。引用公視、聯合報鳴人堂評論、英文 Taiwan Gazette 等多方觀點，呈現站方管理考量與人權團體訴求兩端，屬平衡處理而非煽動。",
+    "content_summary": "以四代站體變遷（1891火車碼頭→1901停車場→1939現代主義站房→1989地下化）為軸，探討台北車站如何從交通節點演變為承載移工聚會、鐵路便當文化、地下街社交生活的複合公共空間，並反思大廳禁坐等使用權爭議。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge（工作量全批最大，但內容深度與來源品質也是數一數二，值得投入）",
+    "heal_plan": [
+      {
+        "action": "40 處全形分號逐一改寫（部分是圖說欄位分隔符，可考慮改用其他標點；正文部分多為獨立子句可直接改句號）",
+        "est_min": 45
+      },
+      {
+        "action": "修正樓層圖授權標示 CC BY-SA 3.0 → 實際 CC BY 2.5",
+        "est_min": 5
+      },
+      {
+        "action": "補 ## 延伸閱讀 section",
+        "est_min": 10
+      },
+      {
+        "action": "補 rationale block",
+        "est_min": 5
+      },
+      {
+        "action": "26 條腳註中被 heal 填入 placeholder 的部分補上真實描述（非 hard gate 必要，但提升可追溯性）",
+        "est_min": 20
+      },
+      {
+        "action": "5 處對位句型/塑膠句修正",
+        "est_min": 10
+      }
+    ],
+    "notes": "本篇是9篇中內容深度與來源品質最高的之一（26條腳註橫跨學術論文、國家檔案、公視、聯合報、英文媒體），但格式紀律問題也最多（分號40處為全批最高）。建議優先派工修復而非簡單自動 heal。"
+  },
+  {
+    "number": 1438,
+    "title": "Create 諸葛四郎.md",
+    "path": "knowledge/People/諸葛四郎.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 1,
+    "hard_after": [
+      "image-health: 圖片檔不存在: /article-images/national-taiwan-museum-of-comics-taichung-4.jpg"
+    ],
+    "warn_after_count": 21,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [],
+    "footnote_total": 8,
+    "footnote_sample": [
+      {
+        "url": "https://www.moc.gov.tw/News_Content.aspx?n=105&s=218169",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false,
+        "note": "HEAD request returns 404 due to server quirk; GET confirmed 200"
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/feat/archives/2024/04/21/2003816718",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&RNO=2004.029.0399",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "HARD FAIL: 引用的本地圖片路徑不存在（/article-images/national-taiwan-museum-of-comics-taichung-4.jpg）——但該圖片本身在 Wikimedia Commons 確實存在（CC BY-SA 4.0），只是投稿者沒有實際把圖片下載進版庫，屬可修復的技術缺口，非造假",
+      "footnote [^8] 用『詳見原始連結內文資料補充』placeholder（heal工具自動填入）"
+    ],
+    "notability": {
+      "wiki": "yes (諸葛四郎 與 葉宏甲 兩條 zh.wikipedia 條目皆存在，200)",
+      "mainstream_media": "yes (Taipei Times, Openbook閱讀誌, 國立臺灣師範大學碩士論文)",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "涉白色恐怖（葉宏甲入獄）但處理審慎——明確寫『這段歷史不能只寫成「審查害死漫畫」』避免單一因果簡化，引用學術論文與新竹市文化局史料佐證，非煽動性敘事。",
+    "content_summary": "以漫畫家葉宏甲白色恐怖入獄經歷為起點，追溯其創作的諸葛四郎角色如何風靡1960年代，又因1967年漫畫審查制度而消失，最後透過博物館典藏與2022年動畫重新進入公共文化視野。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "用 image-ingest 工具把 Wikimedia CC BY-SA 4.0 圖片實際下載進 public/article-images/（或改為直連 Wikimedia URL，同其他PR做法）",
+        "est_min": 10
+      },
+      {
+        "action": "補 rationale block",
+        "est_min": 5
+      },
+      {
+        "action": "補 subcategory 有效值（漫畫家與創作者不在taxonomy）",
+        "est_min": 3
+      },
+      {
+        "action": "補足字數至 4500（目前 2657，缺 1843 字＝41%，全批第二大缺口）",
+        "est_min": 40
+      },
+      {
+        "action": "補影片素材（目前 0 iframe，People 題材通常有官方影片可嵌）",
+        "est_min": 15
+      },
+      {
+        "action": "3 處塑膠句/對位句型修正",
+        "est_min": 10
+      }
+    ],
+    "notes": "字數缺口較大（41%），內容本身完整但深度需擴充；圖片問題是最容易修的一項（來源已確認存在，純粹是沒下載進本地）。"
+  },
+  {
+    "number": 1439,
+    "title": "Create 呱吉.md",
+    "path": "knowledge/People/呱吉.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 1,
+    "hard_after": [
+      "image-health: 圖片檔不存在: /article-images/taipei-city-council-hall-front-view-20201031.jpg"
+    ],
+    "warn_after_count": 34,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [],
+    "footnote_total": 12,
+    "footnote_sample": [
+      {
+        "url": "https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=T1&legisId=T1&themeId=1250b1f46d13d83f30143138454d28cd&dataLevel=A&prvCode=63&cityCode=000&areaCode=00&deptCode=000&liCode=0000",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.judicial.gov.tw/tw/cp-1454-254033-5664d-1.html",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.bnext.com.tw/article/82620/nsfw-bye-2025",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "HARD FAIL: 引用本地圖片路徑不存在（/article-images/taipei-city-council-hall-front-view-20201031.jpg）——與1438同款問題，Wikimedia來源確認存在（CC BY-SA 4.0，Solomon203 攝），可修復",
+      "缺 ## 延伸閱讀 section",
+      "缺 rationale block",
+      "8+ 處對位句型（數量偏多但屬 warn 非 hard）"
+    ],
+    "notability": {
+      "wiki": "yes (邱威傑 zh.wikipedia 200)",
+      "mainstream_media": "yes (公視、風傳媒、數位時代、鏡週刊、Taipei Times、Taiwan News、科技報橘/中央社授權轉載)",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "呱吉（邱威傑）為前台北市議員、在世公眾人物。內容平衡呈現其從網紅到從政的歷程，含大量自我批判引語（承認判斷失誤、財務管理疏失），非單方吹捧亦非攻擊；未特別聚焦政黨/意識形態立場，聚焦網路政治與組織治理主題。",
+    "content_summary": "追溯呱吉（邱威傑）從YouTube頻道《上班不要看》的選里長企劃玩笑，如何演變成2018年台北市議員參選並當選，並記錄他推動的『民主開箱』透明化選民服務模式，最後以2025年頻道解散收尾，反思網紅參政的組織治理挑戰。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "用 image-ingest 下載 Wikimedia 圖片到 public/article-images/（或改直連 Wikimedia URL）",
+        "est_min": 10
+      },
+      {
+        "action": "補 ## 延伸閱讀 section",
+        "est_min": 10
+      },
+      {
+        "action": "補 rationale block",
+        "est_min": 5
+      },
+      {
+        "action": "description 補到 100+字（目前88字，接近）",
+        "est_min": 3
+      },
+      {
+        "action": "補足字數至 4500（目前 3657，缺 843 字＝19%，全批較小缺口）",
+        "est_min": 20
+      },
+      {
+        "action": "對位句型集中修正（數量多但單處修正快）",
+        "est_min": 15
+      }
+    ],
+    "notes": "來源品質高（12條腳註幾乎全是主流媒體＋官方資料），內容平衡不帶風向，字數缺口相對其他篇較小（19%），是heal投入報酬率較高的一篇。"
+  },
+  {
+    "number": 1442,
+    "title": "Create 台鐵鳴日號.md",
+    "path": "knowledge/Lifestyle/台鐵鳴日號.md",
+    "is_update": false,
+    "heal_exit_code": 0,
+    "hard_before": 1,
+    "hard_after": [],
+    "warn_after_count": 11,
+    "semicolon_body_count": 1,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0 (confirmed via API, matches frontmatter/caption)"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "MISMATCH: caption claims 'Public Domain', Wikimedia API actually shows 'Attribution' license (臺灣鐵路管理局 provided, attribution required)"
+      }
+    ],
+    "footnote_total": 15,
+    "footnote_sample": [
+      {
+        "url": "https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.shoppingdesign.com.tw/post/view/9915",
+        "http_status": 302,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "featured: true — 紅旗！新投稿直接設 true，通常應由主編決定是否精選",
+      "LICENSE MISMATCH: 『鳴日列車_03.jpg』圖說寫『Public Domain』，Wikimedia 實際登記為『Attribution』（臺灣鐵路管理局提供，需署名）",
+      "內文帶有強烈商業行銷語氣（『移動的五星殿堂』『低調奢華』『米其林級饗宴』『尊爵黑』），且反覆點名特定民營企業（雄獅旅遊、晶華酒店、晶華軒）及具體菜色（蟹西施泡飯），讀起來像觀光/餐飲業配稿而非中立百科內容",
+      "字數僅 1766/4500（39%），是全批最短、缺口最大（61%）的一篇",
+      "缺 ## 延伸閱讀、缺 ## 圖片來源 section",
+      "腳註 [^13] 為 Facebook 官方貼文連結（品牌官方帳號，非負面 UGC，但屬社群媒體來源而非新聞/學術一手來源）",
+      "參考文獻標題用『(References)』而非站上慣用的『參考資料』"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非政治敏感。",
+    "content_summary": "介紹台鐵觀光列車鳴日號與鳴日廚房的設計改造歷程，強調柏成設計師邱柏文的『減法美學』如何獲得日本Good Design Award與德國iF金質獎肯定。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge，但需主session/主編確認 featured:true 是否合理，並留意商業行銷語氣是否需要編輯室改寫",
+    "heal_plan": [
+      {
+        "action": "featured 改回 false（除非主編決定精選）",
+        "est_min": 1
+      },
+      {
+        "action": "修正『鳴日列車_03.jpg』授權標示（Public Domain → Attribution，補署名要求）",
+        "est_min": 5
+      },
+      {
+        "action": "補 ## 延伸閱讀、## 圖片來源 section（目前用非標準 heading）",
+        "est_min": 10
+      },
+      {
+        "action": "description 補到 100+字（目前89字）",
+        "est_min": 3
+      },
+      {
+        "action": "補足字數至 4500（缺 2734 字＝61%，全批最大缺口，需要實質擴寫非小修）",
+        "est_min": 45
+      },
+      {
+        "action": "評估並淡化商業行銷語氣、減少對特定商業品牌的置入式強調",
+        "est_min": 20
+      }
+    ],
+    "notes": "featured:true 是本檔最需要主session注意的紅旗；字數缺口（61%）全批最大，商業行銷腔調也是全批最明顯的一篇，建議heal-then-merge但同時flag給主編做語氣審查。"
+  },
+  {
+    "number": 1443,
+    "title": "Create 台中國家歌劇院.md",
+    "path": "knowledge/Art/台中國家歌劇院.md",
+    "is_update": false,
+    "heal_exit_code": 0,
+    "hard_before": 0,
+    "hard_after": [],
+    "warn_after_count": 14,
+    "semicolon_body_count": 2,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/2017-10-29_National_Taichung_Theater.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "MISMATCH: frontmatter/caption claims CC BY-SA 4.0, Wikimedia API actually shows CC BY 2.0. File itself resolves (200)."
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Construction_of_National_Taichung_Theater_20131114.jpg",
+        "source_type": "Wikimedia Commons (claimed)",
+        "license": "N/A — URL returns HTTP 404, file does not exist on Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/National_Taichung_Theater_interior_20161125.jpg",
+        "source_type": "Wikimedia Commons (claimed)",
+        "license": "N/A — URL returns HTTP 404, file does not exist on Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/National_Taichung_Theater_Level_6_Sky_Garden_2019.jpg",
+        "source_type": "Wikimedia Commons (claimed)",
+        "license": "N/A — URL returns HTTP 404, file does not exist on Wikimedia Commons"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/National_Taichung_Theater_at_night_20210914.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 2.0 (confirmed via API, matches caption)"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://zh.wikipedia.org/zh-hant/臺中國家歌劇院",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.npac-ntt.org/about/architecture/design",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.moma.org/collection/works/193051",
+        "http_status": 403,
+        "ugc": false,
+        "fabricated": "inconclusive (bot-block on museum site, cannot confirm the specific 'permanent collection' claim it supports)"
+      }
+    ],
+    "red_flags": [
+      "3 of 5 圖片連結是 HTTP 404 — Wikimedia Commons 上實際不存在這些檔名（施工現場圖、室內圖、空中花園圖），疑似生成內容時憑空捏造看起來合理的檔名（典型 LLM confabulation 模式），非單純授權標示問題，是本批唯一出現『疑似捏造來源連結』證據的PR",
+      "首圖授權標示 CC BY-SA 4.0，Wikimedia 實際登記為 CC BY 2.0 — 授權標示錯誤",
+      "文章通篇充斥誇張行銷式 superlative 語言（『全球最難蓋的建築』『世界建築史上的奇蹟』『台灣向世界遞出的一張最精采的當代建築名片』，結尾『建築就能超越框架，成為生命本身』），article-health 自動標記『套路結尾』與9個空洞詞、8處對位句型——整體文風高度疑似未經編輯的AI直出，而非孤立的塑膠句問題",
+      "宣稱 MoMA 將『實體模型與設計圖稿納入永久館藏』——具體強主張，來源[^6]連結回傳403無法直接驗證，需要人工二次查證",
+      "腳註 [^3] 來源是巨虹建設（營造公司自家網站選粹）、[^10] 是中興保全科技（保全公司網站專欄）——皆為商業公司網站而非新聞媒體/學術/官方一手來源，佐證施工細節的可信度較弱",
+      "多數腳註被 heal 填入『詳見原始連結內文資料補充』placeholder"
+    ],
+    "notability": {
+      "wiki": "n/a (建築地標，非人物)",
+      "mainstream_media": "yes (ArchDaily, MoMA collection page（未能驗證細節）, 文化部, 維基百科)",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非政治敏感（建築文化題材）。",
+    "content_summary": "介紹伊東豊雄設計的台中國家歌劇院『美聲涵洞』無柱無樑曲牆建築，從2005年競圖、克服工程挑戰到2016年開館，並詳述會員票價制度。",
+    "update_delta": null,
+    "verdict_suggestion": "leave-open — 3張404圖片是內容誠信疑慮而非單純heal能解決的格式問題，需要投稿者或主session先確認圖片真實來源再決定如何處理，建議不要在未查明前直接merge",
+    "heal_plan": [
+      {
+        "action": "⚠️ 向投稿者或主session確認3張404圖片（施工現場/室內/空中花園）的正確Wikimedia檔名或是否確實存在——若查無對應圖片，需整段圖說與圖片引用移除或替換為真實存在的圖片",
+        "est_min": 20
+      },
+      {
+        "action": "修正首圖授權標示 CC BY-SA 4.0 → 實際 CC BY 2.0",
+        "est_min": 5
+      },
+      {
+        "action": "人工查證 MoMA 永久館藏的具體主張（目前來源403無法驗證），找不到佐證則軟化措辭",
+        "est_min": 15
+      },
+      {
+        "action": "改寫全篇過度行銷式 superlative 語言與套路結尾，降低宣傳腔調",
+        "est_min": 30
+      },
+      {
+        "action": "補齊 ## 延伸閱讀（目前只有1條無連結的條目）",
+        "est_min": 10
+      },
+      {
+        "action": "description 補到 100+字（目前61字）",
+        "est_min": 5
+      }
+    ],
+    "notes": "本篇是全批中唯一有『圖片URL疑似捏造』具體證據的PR（3/5張圖404），加上強烈行銷腔調文風，建議verdict從預設的heal-then-merge降為leave-open，需要人工先確認圖片來源真實性再決定是否進入heal流程；MoMA館藏主張也需要二次查證。article-health的hard/warn門檻本身沒有攔到這個問題，因為它只檢查本地 /article-images/ 路徑是否存在，不會對外部熱連結圖片URL做存活驗證——這是檢查器的已知盲區，值得回報給主session。"
+  }
+]

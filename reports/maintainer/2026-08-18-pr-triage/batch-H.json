@@ -1,0 +1,543 @@
+[
+  {
+    "number": 1444,
+    "title": "Create 啾啾鞋.md",
+    "path": "knowledge/啾啾鞋.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 0,
+    "hard_before": 2,
+    "hard_after": [],
+    "warn_after_count": 28,
+    "semicolon_body_count": 0,
+    "semicolon_style": "none",
+    "hotlink_images": [],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://ioh.tw/articles/ioharticles-%E5%B0%88%E8%A8%AA-%E5%95%BE%E5%95%BE%E9%9E%8B",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.cheers.com.tw/article/article.action?id=5092225",
+        "http_status": 403,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.nownews.com/news/6771850",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "4x 內嵌『📝 策展人筆記：』AI 工具遺留的策展註解直接留在正文，需在 merge 前刪除",
+      "28 warn 中大量對位句型／塑膠句（'不是 X，而是 Y' 反覆出現 12+ 次）",
+      "heal 後 category 欄位被誤判為 '啾啾鞋.md'（因原始檔案放在 knowledge/ 根目錄而非 knowledge/People/ 子資料夾，assign-subcategory 與 --from-pr 的 checkout filter 都因此失效）— 需搬移檔案到 knowledge/People/啾啾鞋.md 並手動把 category 改回 'People'",
+      "author: 'Taiwan.md Contributors'（本批 idlccp1984 全部 PR 共用值，非既有慣例的 'Taiwan.md'，非幻覺但值得留意批次一致性）",
+      "0 張圖片，media-richness/image-health 對 spore-publish 屬 hard gate 失格（雖不擋 ci-deploy）",
+      "description 過短（79 字 < 100 字下限）"
+    ],
+    "notability": {
+      "wiki": "yes",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "無政治敏感內容，純 YouTuber 人物報導",
+    "content_summary": "介紹 YouTuber 啾啾鞋（謝任杰）從翻譯迷因起家、刪除舊作轉型為知識型創作者的歷程，取材自 IOH／信傳媒／世新大學／Knowing／Cheers／翻轉教育／NOWnews 等 10 篇專訪與報導，直接引語均有明確出處，內容紮實、幻覺跡象低，但文風大量套用『不是 X 而是 Y』對位句型，且內嵌『策展人筆記』AI 遺留物需清理。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "把檔案從 knowledge/啾啾鞋.md 搬到 knowledge/People/啾啾鞋.md，category 改回 'People'",
+        "est_min": 3
+      },
+      {
+        "action": "刪除 4 處『📝 策展人筆記：』內嵌段落（或改寫融入正文）",
+        "est_min": 5
+      },
+      {
+        "action": "改寫對位句型/塑膠句密集處（28 warn）",
+        "est_min": 15
+      },
+      {
+        "action": "description 補到 100-160 字 canonical 長度",
+        "est_min": 3
+      },
+      {
+        "action": "補至少 1 張圖片（media-richness gate）",
+        "est_min": 10
+      }
+    ],
+    "notes": "--from-pr 對此檔案失敗（exit=2 usage error）：_files_from_pr() 的 filter 要求 len(Path(path).parts) >= 3，但本檔路徑 knowledge/啾啾鞋.md 只有 2 段（無分類子資料夾），過濾後清單為空觸發 print_help()。已改用手動 git fetch pull/1444/head + git show 取出內容寫入 WT 後，改用明確路徑呼叫 heal_file()（非 --from-pr）繞過此 bug；此 bug 本身也是 red flag（同批可能還有其他根目錄誤放檔案受影響，建議另開 issue 修 contributor-pr-heal.py 的 parts>=3 filter）。hard_before=2 為推論值（heal 套用 2 筆 frontmatter-format 修正後 hard=0，未有獨立跑過 heal 前的 recheck）。"
+  },
+  {
+    "number": 1445,
+    "title": "Create 這群人.md",
+    "path": "knowledge/People/這群人.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "image-health: 圖片檔不存在: /article-images/people/tgop-recording-studio.jpg",
+      "image-health: 圖片檔不存在: /article-images/people/tgop-steadicam-operator.jpg",
+      "image-health: 圖片檔不存在: /article-images/people/tgop-changchun-film-studio.jpg",
+      "image-health: frontmatter image 檔不存在: /article-images/people/tgop-recording-studio.jpg"
+    ],
+    "warn_after_count": 39,
+    "semicolon_body_count": 0,
+    "semicolon_style": "none",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Intermediapost_Recording_Studio.jpg",
+        "source_type": "Wikimedia Commons（本地路徑引用但檔案未實際下載入庫）",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:John_E_Fry_Steadicam_Operator_UK.jpg",
+        "source_type": "Wikimedia Commons（本地路徑引用但檔案未實際下載入庫）",
+        "license": "Public domain"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Changchun_Film_Studio.jpg",
+        "source_type": "Wikimedia Commons（本地路徑引用但檔案未實際下載入庫）",
+        "license": "CC BY-SA 4.0"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://ent.ltn.com.tw/news/breakingnews/4971637",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://news.tvbs.com.tw/entertainment/2361254",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.storm.mg/lifestyle/5004689",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "3 處對位句型/塑膠句密集（~15+ 次『不是 X 而是 Y』）",
+      "3x 內嵌『📝 策展人筆記：』AI 遺留物",
+      "3 張圖片路徑引用但檔案未實際存於 public/article-images/people/（image-health hard gate x4）——但正文誠實聲明這些是通用製作場景示意圖、非 TGOP 實景，且 Wikimedia Commons 授權資訊經核對正確（CC BY-SA 3.0 / Public domain / CC BY-SA 4.0 皆與圖說相符）",
+      "字數 3856 CJK 略低於 4500 depth 門檻（-14%）"
+    ],
+    "notability": {
+      "wiki": "yes",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "無政治敏感內容",
+    "content_summary": "深度報導 YouTuber 團體「這群人」從 2011 年成軍到 2023 年宣布停更的歷程，聚焦分潤、勞動分工、平台轉型等組織性問題而非八卦，rationale block 完整（why_this_hook/whats_excluded/where_it_hedges/whos_pushing_back），圖說誠實標示為示意圖並正確附 CC 授權，是本批次中查證與媒體倫理處理最嚴謹的一篇，僅受同批共通的對位句型/策展人筆記問題與圖片未落地影響。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "依 CC 授權下載 3 張 Wikimedia Commons 圖片、轉 WebP 存入 public/article-images/people/（含授權標註），對齊 Media Floor: Ingest CC 慣例",
+        "est_min": 15
+      },
+      {
+        "action": "刪除 3 處『📝 策展人筆記：』",
+        "est_min": 5
+      },
+      {
+        "action": "改寫對位句型密集處",
+        "est_min": 15
+      }
+    ],
+    "notes": null
+  },
+  {
+    "number": 1446,
+    "title": "Create 東港迎王船.md",
+    "path": "knowledge/Culture/東港迎王船.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 0,
+    "hard_before": 0,
+    "hard_after": [],
+    "warn_after_count": 38,
+    "semicolon_body_count": 0,
+    "semicolon_style": "none",
+    "hotlink_images": [
+      {
+        "url": "https://ezgo.ardswc.gov.tw/zh-tw/column/3869/",
+        "source_type": "政府網站（農業部農業易遊網）— 圖片以原生 <figure><img src=\"/article-images/...\"/> HTML 語法引用本地路徑，但該檔案實際不存在於 public/article-images/culture/",
+        "license": "未標示授權，僅標明出處"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://ezgo.ardswc.gov.tw/zh-tw/column/3869/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://nchdb.boch.gov.tw/assets/overview/folklore/20190515000004",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.ioe.sinica.edu.tw/WebTools/FilesDownload.ashx?Siteid=530164240637641451&Menuid=530404247153600426&TB=PeriodicalsContent&CN=PCID&fd=Periodicals_PDF&CNV=PDF&Pname=etf002-003.pdf&MSID=3",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "唯一圖片以原生 HTML <img> 語法引用 /article-images/culture/donggang-wangye-boat.jpg，檔案實際不存在於 public/；image-health plugin 只解析 markdown ![]() 語法，因此完全沒偵測到這張『看似存在』的圖片，也沒算進媒體計數（media-richness/paragraph-rhythm 因此回報 0 媒體）——這是 checker 的偵測盲區，不只是這篇文章的問題，值得另開 issue",
+      "subcategory '民間信仰與祭典' 不在 taxonomy 合法值內，需改為『宗教與民俗』或『節慶與禮俗』",
+      "footnote 編號跳過 9（1-8,10 共 9 條，無 [^9]）——非致命但不尋常，可能是編輯時刪除單一條目後未重新編號",
+      "無『策展人筆記』遺留物、無 UGC 來源、無對位句型過度使用問題，是本批中對位句型出現頻率相對可控的一篇（雖仍有 warn）"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "宗教民俗主題（王爺信仰、燒王船），敘事平衡且尊重：明確肯認信仰系統與學術詮釋可能不一致但並存，正面處理商業化/觀光化對信仰場域的衝擊，未見單一立場宣傳或煽動語言",
+    "content_summary": "介紹屏東東港迎王平安祭典（三年一科、王船建造、七角頭轎班、送王儀式）如何維繫地方社會與海洋文化記憶，取材自內政部宗教文化地圖、國家文化資產網、農業部、臺灣文獻館、北藝大、中研院民族所、光華雜誌等官方與學術來源，無 UGC，是本批引用品質最高的文章之一。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "把 subcategory 改為合法值『宗教與民俗』（或『節慶與禮俗』）",
+        "est_min": 2
+      },
+      {
+        "action": "下載農業部圖片頁圖片存入 public/article-images/culture/donggang-wangye-boat.jpg，或改用 markdown ![]() 語法讓 image-health 正確偵測",
+        "est_min": 10
+      },
+      {
+        "action": "補 30 秒概覽 blockquote 與延伸閱讀 section",
+        "est_min": 10
+      }
+    ],
+    "notes": "footnote-format-fix 對此檔輸出 '✅ All footnotes canonical'，heal 全程 hard=0、Modified 0 file(s)，是本批唯一一次跑就乾淨的 PR。"
+  },
+  {
+    "number": 1447,
+    "title": "Create 台灣捐血.md",
+    "path": "knowledge/Society/台灣捐血.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 3,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — max match candidates 皆低信心 (民主與政治/社區與日常/社會運動 ratio=0.47) [advanced-review-required]",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`"
+    ],
+    "warn_after_count": 16,
+    "semicolon_body_count": 0,
+    "semicolon_style": "none",
+    "hotlink_images": [
+      {
+        "url": "https://images.unsplash.com/photo-1615461066841-6116e61058f4?q=80&w=1200&auto=format&fit=crop",
+        "source_type": "企業 CDN（Unsplash 圖庫，示意圖非台灣實景）",
+        "license": "Unsplash License（免費商用，但未落地存檔）"
+      }
+    ],
+    "footnote_total": 12,
+    "footnote_sample": [
+      {
+        "url": "https://udn.com/news/story/7266/7777852",
+        "http_status": 404,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.threads.com/@hakkahot/post/DGgXVAGTHZn/",
+        "http_status": 200,
+        "ugc": true,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "footnote [^5]（聯合新聞網，全文核心數據『捐血率 8.08% 世界第一』的主要引用來源，正文引用 3 次）目前回傳 HTTP 404，等於文章標題級主張的支撐連結已失效",
+      "[^14] 在正文（開頭第一段 WHO 高收入國家中位數 2.89% 的引語）被引用，但參考資料清單中根本沒有定義 [^14]（只到 [^12]）——懸空/幻覺腳註",
+      "[^4]、[^9]、[^10] 三條定義了卻從未在正文中被引用——孤兒腳註，顯示引用清單與正文編輯不同步",
+      "footnote [^7] 引用 Threads 貼文（@hakkahot）作為『1974 年以前血牛歷史』這個嚴肅歷史/醫療倫理主張的來源，UGC 社群貼文不足以支撐這類具體歷史考證",
+      "外部圖片熱連結（Unsplash 示意圖，非台灣實景），需落地存檔",
+      "缺 subcategory（hard gate），assign-subcategory.cjs 對此檔案自動比對信心過低（各候選 ratio 僅 0.47）需人工指定",
+      "tags 含『轉型正義』一詞，用在捐血制度史上稍嫌用詞過重/範疇跳躍，建議編輯時重新評估",
+      "字數僅 1475 CJK，遠低於 4500 depth 門檻（-67%），是本批最單薄的一篇，內容深度不足以撐起『奇蹟』『世界第一』的標題規格",
+      "內嵌『📝 策展人筆記：』1 處"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "無直接政治敏感內容，但『血牛』歷史敘事與『轉型正義』標籤化用詞需查證後再定調，避免用詞誇大或錯置歷史脈絡",
+    "content_summary": "介紹台灣捐血率長年居世界前列的制度史（從血牛買賣到無償捐血）與血荒隱憂，取材涵蓋官方（血液基金會/WHO）、媒體（udn/公視/經濟日報）與學術（ScienceDirect）來源，但夾雜 1 條 Threads UGC 歷史考證引用、1 條懸空腳註、3 條孤兒腳註，以及核心統計數據的主要來源連結已 404，內容深度與查證嚴謹度明顯低於同批其他文章。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "補 subcategory（建議『社會福利』或『社會韌性』，人工確認）",
+        "est_min": 3
+      },
+      {
+        "action": "下載 Unsplash 圖片落地存入 public/article-images/society/",
+        "est_min": 10
+      },
+      {
+        "action": "修復或移除 [^5] 死連結（udn.com 404），找替代來源佐證 8.08% 數據",
+        "est_min": 10
+      },
+      {
+        "action": "補上 [^14] 定義或改正文引用編號；補上 [^4][^9][^10] 的正文引用點或移除孤兒腳註",
+        "est_min": 10
+      },
+      {
+        "action": "評估是否替換 [^7] Threads UGC 來源為正式媒體/學術文獻",
+        "est_min": 15
+      },
+      {
+        "action": "刪除『📝 策展人筆記：』遺留物；補足字數至 4500 CJK 門檻或降級為非 depth 分類",
+        "est_min": 30
+      }
+    ],
+    "notes": "與 #1448 內容逐字相同（見 duplicate_of 分析），heal 僅在此 PR 上執行一次。"
+  },
+  {
+    "number": 1448,
+    "title": "Add article on Taiwan's blood donation success story",
+    "path": "knowledge/Society/台灣捐血.md",
+    "is_update": false,
+    "duplicate_of": 1447,
+    "heal_exit_code": null,
+    "hard_before": null,
+    "hard_after": null,
+    "warn_after_count": null,
+    "semicolon_body_count": null,
+    "semicolon_style": null,
+    "hotlink_images": [],
+    "footnote_total": null,
+    "footnote_sample": [],
+    "red_flags": [
+      "與 #1447 逐字元完全相同（`diff` exit code 0，72 行零差異），同一投稿者對同路徑開了兩個內容一致的 PR"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "同 #1447（內容相同）",
+    "content_summary": "與 #1447『Create 台灣捐血.md』內容逐字相同（byte-for-byte identical），未另行分析內容——所有分析結論見 #1447。",
+    "update_delta": null,
+    "verdict_suggestion": "close",
+    "heal_plan": [],
+    "notes": "createdAt 1447=2026-08-18T07:55:55Z 早於 1448=2026-08-18T07:57:31Z，故以 #1447 為 canonical、heal 只跑在 #1447。建議 close #1448 並在留言中說明與 #1447 重複、感謝投稿並引導對方之後改用單一 PR 投稿同一篇文章。"
+  },
+  {
+    "number": 1449,
+    "title": "Create 手語視訊轉譯.md",
+    "path": "knowledge/Society/手語視訊轉譯.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...` (x3)",
+      "prose-health: 全形分號超硬門檻：25 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 31,
+    "semicolon_body_count": 25,
+    "semicolon_style": "mixed",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sign_language_interpreter.jpg（經由 private-us-east-1.manuscdn.com 簽章暫存連結引用，非直連 Wikimedia）",
+        "source_type": "AI 工具暫存連結（manuscdn.com，Manus AI session file，簽章網址含未來到期時間戳，會失效）",
+        "license": "CC BY 2.0（Wikimedia 原始頁面核對相符）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Closed_captioning_symbol.svg（經由 manuscdn.com 簽章暫存連結引用）",
+        "source_type": "AI 工具暫存連結（manuscdn.com）",
+        "license": "Public domain（Wikimedia 原始頁面核對相符）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Pictograms-nps-accessibility-closed_captioning.svg（經由 manuscdn.com 簽章暫存連結引用）",
+        "source_type": "AI 工具暫存連結（manuscdn.com）",
+        "license": "Public domain（Wikimedia 原始頁面核對相符）"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://moda.gov.tw/ADI/news/latest-news/13178",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0050046",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://news.pts.org.tw/article/731166",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "3 張圖片皆經由 private-us-east-1.manuscdn.com 的簽章暫存連結引用（AWS 風格 Policy/Signature/Key-Pair-Id 參數，內含未來到期 epoch time），這類連結會過期失效——但圖說正確附上真正的 Wikimedia Commons 來源頁與授權（經 API 核對 CC BY 2.0 / Public domain 均相符），只是實作時該用 Wikimedia 直連或落地存檔、卻用了 AI 工具（Manus）的暫存 session 檔案網址",
+      "25 處全形分號觸發硬門檻（>12），但抽樣後屬『混合』：部份是『第一…；第二…；第三…；第四…』列舉分隔（不該動），部份是連接兩個獨立子句（該改句號）——需人工逐條篩，不能整批機械替換",
+      "8 個主要小標題誤用 H1 `# ` 而非 H2 `## `（僅『延伸閱讀』『參考資料』用了 ##），與全站慣例不符，article-health 的 format-structure check 未偵測到這個問題（偵測盲區，建議另開 issue）",
+      "subcategory '政策與制度' 不在 taxonomy 合法值內，正確候選應為『無障礙與共融』",
+      "字數 4421 CJK，僅比 4500 門檻少 2%，接近達標"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "身心障礙者資訊平權/CRPD 政策議題，屬公共服務評論非黨派政治；敘事平衡，明確區分官方說法、地方執行落差與待解問題，未見單一立場宣傳",
+    "content_summary": "深入分析台灣 2024 年上線的手語視訊轉譯服務（VRS）如何回應聽語障者的資訊平權需求，並檢視服務時間、跨機關銜接、AI 字幕分工、資料治理等制度缺口，全文 10 條引用皆為政府/法規/公視等一手來源、零 UGC，rationale block 完整，是本批內容深度與查證品質最高的一篇，僅受圖片存放方式與標題階層等技術性問題影響。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "改用 Wikimedia Commons 原始連結直接下載 3 張圖片、轉存 public/article-images/society/ 並更新 src",
+        "est_min": 15
+      },
+      {
+        "action": "逐條篩 25 處全形分號：列舉分隔保留，獨立子句連接改句號/逗號",
+        "est_min": 20
+      },
+      {
+        "action": "8 個 `# ` 小標題改為 `## `",
+        "est_min": 5
+      },
+      {
+        "action": "subcategory 改為『無障礙與共融』",
+        "est_min": 2
+      }
+    ],
+    "notes": null
+  },
+  {
+    "number": 1450,
+    "title": "Update 台灣便利商店文化.md",
+    "path": "knowledge/Lifestyle/台灣便利商店文化.md",
+    "is_update": true,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 2,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...` (x2)"
+    ],
+    "warn_after_count": 14,
+    "semicolon_body_count": 0,
+    "semicolon_style": "none",
+    "hotlink_images": [
+      {
+        "url": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663254471402/SmoCPNMsNYFcuQNw.jpg",
+        "source_type": "AI 工具暫存連結（Manus AI user_upload session file，無授權資訊、無可信來源標示）",
+        "license": "未標示／不明"
+      },
+      {
+        "url": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663254471402/EEKEBITDkYISGoaf.jpg",
+        "source_type": "AI 工具暫存連結（Manus AI user_upload session file）",
+        "license": "未標示／不明"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://taiwan.md/society/%E5%A4%A9%E4%B8%8B%E9%9B%9C%E8%AA%8C/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": true
+      },
+      {
+        "url": "https://www.facebook.com/twreporter/posts/3052507964997055/",
+        "http_status": null,
+        "ugc": true,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.threads.com/@taiwandata/post/DSzER1nEd68/",
+        "http_status": null,
+        "ugc": true,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "footnote [^1] 標示為『天下雜誌』的一篇報導，實際 URL 卻指向 taiwan.md 自己站內的 /society/天下雜誌/ 頁面（本站關於天下雜誌『這本雜誌』的介紹文，不是天下雜誌寫的便利商店報導）——等於把自家內部頁面偽裝成外部媒體來源，是虛構/誤導型引用",
+      "正文引用 [^13]、[^17]，但參考資料只定義到 [^10]——兩條懸空腳註，顯示這篇是從更長草稿裁切下來、引用清單沒同步更新",
+      "2 張圖片皆為 files.manuscdn.com 的 Manus AI 使用者上傳暫存連結，無授權/來源資訊，且該網域本身就是 AI 工具產物的強指紋",
+      "正文結尾殘留『📝 **策展人筆記：**』一段（說明本文『策展角度』的 AI 工具輸出，未清除即發布）",
+      "至少 4 條腳註引用 UGC/自媒體：[^2] Facebook 貼文、[^6] Threads 貼文、[^5] 志祺七七個人部落格、[^8] 標示『台北旅遊網』實為 YouTube 影片連結（來源標示與實際連結不符）",
+      "刪除既有文章全部 5 條腳註（統一超商官網／公視新聞／自由財經／全家官網／經濟部統計處）與 3 條策展延伸閱讀連結（台灣感性／發票／台灣企業：統一企業），這些是先前 P2 修補批次（f712b7242, 2026-05-16）已核實修正過幻覺數據（含『台灣便利商店密度』本身）之後留下的版本",
+      "字數從 3276 CJK 砍到 2125 CJK（-35%），H2 從 9 個砍到 6 個，且新版完全沒有『延伸閱讀』區塊",
+      "subcategory 改成『生活與日常』不在 taxonomy 合法值內（原本 '城市生活' 是合法值）"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "無政治敏感內容",
+    "content_summary": "把既有『台灣便利商店文化』一篇原已通過至少兩輪事實修補（含 2026-05-16 batch-200 P2C 幻覺數據修正）的完整文章，替換成一篇更短、citation 完整性明顯較差（含自我引用造假、懸空腳註、UGC 來源、AI 工具暫存圖片連結、未清除策展註解）的新版本，論述角度（社會安全網/勞動現實）本身有新意，但執行品質與查證嚴謹度遠低於被取代的原文。",
+    "update_delta": {
+      "words_before": 3276,
+      "words_after": 2125,
+      "footnotes_before": 5,
+      "footnotes_after": 10,
+      "h2_before": 9,
+      "h2_after": 6,
+      "removed_topics": [
+        "便利商店引進與在地化史（7-Eleven 1980 登陸、全家 1988 跟進、雙雄品牌定位差異）",
+        "世界第一的便利商店密度（總店數/人口密度/地理密度統計、國際比較、都市/鄉鎮分布）",
+        "7-11 與全家的競爭與創新（品牌定位、數位/物流/金融服務清單）",
+        "鮮食革命（關東煮引進史、便當演變、麵包甜點、品質管控體系）",
+        "生活服務整合平台（繳費服務、物流取貨站、數位生活服務清單）",
+        "24 小時生活文化（夜貓族客群、都市燈塔效應、社交空間）",
+        "社會文化影響（生活型態改變、經濟社會效應、文化認同象徵）",
+        "數位轉型與未來發展（科技應用、永續經營挑戰、未來趨勢）",
+        "便利商店的文化意涵（收尾段落）",
+        "延伸閱讀 3 條雙向連結（台灣感性／發票／台灣企業：統一企業）"
+      ],
+      "added_topics": [
+        "世界級的密度與物流奇蹟（店取物流、電商末端據點）",
+        "深夜裡的萬能發電廠（超過 5000 項服務）",
+        "社會安全網：被忽略的公益角色（兒童求助站、高齡支柱、急難救助）",
+        "飲食文化：都市人的共享食堂（茶葉蛋）",
+        "萬能店員的代價：高壓下的勞動現實（防疫查驗、暴力事件）",
+        "結語：島嶼上的永恆燈火"
+      ],
+      "main_frontmatter_curation": "main 版本：category='Lifestyle' subcategory='城市生活'（合法值）author='Taiwan.md' featured=true lastHumanReview=false lastVerified=2026-03-19 readingTime=7｜PR 版本：category='Lifestyle'（不變）subcategory='生活與日常'（不在 taxonomy 合法值內）author='Taiwan.md Contributors' featured=true（不變）lastHumanReview=false（不變）lastVerified=2026-08-17 readingTime=12。無圖片 frontmatter 欄位（兩版皆無）。",
+      "main_last_commits": "d520299ba (2026-07-18, 只改 1 行延伸閱讀連結) / 50617dc14 (2026-07-13, 只改 1 行延伸閱讀連結) / f712b7242 (2026-05-16, batch-200 P2 修補：31 insertions/197 deletions，含修正『台灣便利商店密度』等幻覺數據) / 4b6d28c54 (2026-05-08, 全站 frontmatter 正規化) / 14c7b362c (2026-05-02, idlccp1984 PR follow-up polish)。本文最後一次實質內容重寫是 2026-05-16 的事實修補批次，非近期才深度 REWRITE 過；但確實在 3 個月內被系統性查證過至少一次。"
+    },
+    "verdict_suggestion": "leave-open",
+    "heal_plan": [],
+    "notes": "已依指示先備份 main 版本到 scratchpad/main-1450.md 才執行 heal。此 PR verdict 一律 leave-open，需哲宇親自看 diff 裁決是否要保留新論述角度但重新查證執行，或直接關閉維持原文。備份位置：/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md/bb517e35-638e-44d6-b484-bedc420e4cf0/scratchpad/main-1450.md"
+  }
+]

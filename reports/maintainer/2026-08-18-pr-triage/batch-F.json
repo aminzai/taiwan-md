@@ -1,0 +1,374 @@
+[
+  {
+    "number": 1423,
+    "title": "Create 西門紅樓.md",
+    "path": "knowledge/Art/西門紅樓.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 6,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 line 16 — https://www-ws.gov.taipei/Download.ashx?...（curl 驗證：HTTP 404，連結已失效，非單純熱連結問題）",
+      "image-health: 外部圖片熱連結 line 48 — 同網域，curl 驗證 HTTP 404",
+      "image-health: 外部圖片熱連結 line 68 — 同網域，curl 驗證 HTTP 404"
+    ],
+    "warn_after_count": 37,
+    "semicolon_body_count": 10,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://www-ws.gov.taipei/Download.ashx?u=...b97259ac...", "source_type": "政府網站（臺北市文化局）", "license": "無法確認——curl 回傳 404，連結本身已死"},
+      {"url": "https://www-ws.gov.taipei/Download.ashx?u=...76069...", "source_type": "政府網站（臺北市文化局）", "license": "無法確認——curl 回傳 404"},
+      {"url": "https://www-ws.gov.taipei/Download.ashx?u=...d6fe49b3...", "source_type": "政府網站（臺北市文化局）", "license": "無法確認——curl 回傳 404"}
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {"url": "https://culture.gov.taipei/cp.aspx?n=EAA3D79E3A42931C", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://nchdb.boch.gov.tw/assets/overview/monument/19970220000003", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://supertaste.tvbs.com.tw/travel/350345", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "3 張圖全部熱連結至臺北市府 Download.ashx 動態端點，且 curl 驗證全部已回傳 404——不是「應該 cache」的一般熱連結警告，而是三張圖現在就是死圖，heal 不能只是搬到本地快取（會快取到 404），必須先找到可用的來源網址"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治敏感主題；古蹟活化與文化治理的策展史，多源引用（臺北市文化局、國家文化資產網、學術論文、TVBS），無單一立場問題。",
+    "content_summary": "西門紅樓從 1908 年市場建築到今日文創展演空間的沿革，強調「活化不是一次性工程」的治理視角；取材含官方館所資料、學術研究（古蹟再利用治理）、TVBS 專題，無明顯幻覺跡象，但三張圖片來源已失效需要重新尋源。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "重新尋找 3 張西門紅樓圖片的可用來源（臺北市文化局官網或 Wikimedia Commons 上是否有西門紅樓圖片），下載後存入 public/article-images/", "est_min": 15},
+      {"action": "分號 10 處已在硬門檻內，不需處理", "est_min": 0}
+    ],
+    "notes": "heal 已把 frontmatter-format 4 處自動修好。全部 3 張圖片熱連結目前已死（404），這比一般「應快取」的熱連結警告更急迫——若照 heal 建議直接把死連結存成本地快取，會把 404 一起快取進來，需要先確認臺北市文化局官網當前頁面上是否還有這些圖，或改用其他授權清楚的圖源（如 Wikimedia Commons 搜尋西門紅樓）。"
+  },
+  {
+    "number": 1424,
+    "title": "Create 九二一集集地震.md",
+    "path": "knowledge/History/九二一集集地震.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 7,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 line 29 — scweb.cwa.gov.tw（curl 驗證 HTTP 200，正常，僅需快取）",
+      "image-health: 外部圖片熱連結 line 43 — ourisland.pts.org.tw（curl 驗證當下 HTTP 503，但公視我們的島全站含首頁同時 503，判斷為該站當下維運/流量問題，非此連結本身失效，建議 heal 前重新確認一次）",
+      "image-health: 外部圖片熱連結 line 107 — taiwan-panorama.com（curl 直連 403，但帶 Referer header 後 HTTP 200 屬正常防盜鏈行為，非死連結）",
+      "image-health: 外部圖片熱連結 line 113 — taiwan-panorama.com（同上，帶 Referer 後 200）",
+      "image-health: 外部圖片熱連結 line 119 — taiwan-panorama.com（同上，帶 Referer 後 200）",
+      "image-health: 外部圖片熱連結 line 127 — ourisland.pts.org.tw（同 line 43，站台當下 503）",
+      "prose-health: 全形分號超硬門檻：19 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 35,
+    "semicolon_body_count": 19,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://scweb.cwa.gov.tw/webdata/OLDEQ/199909/1999092101471573043.gif", "source_type": "政府網站（中央氣象署）", "license": "官方地震報告圖，HTTP 200"},
+      {"url": "https://ourisland.pts.org.tw/sites/default/files/u795/1_3.jpg", "source_type": "公廣集團媒體（公視我們的島）", "license": "查核當下站台整站 503，需重查"},
+      {"url": "https://www.taiwan-panorama.com/s3/.../1999_8a.jpg", "source_type": "政府出資媒體（台灣光華雜誌）", "license": "HTTP 200（需 Referer），無明確授權聲明"},
+      {"url": "https://www.taiwan-panorama.com/s3/.../1999_B1.jpg", "source_type": "政府出資媒體（台灣光華雜誌）", "license": "同上"},
+      {"url": "https://www.taiwan-panorama.com/s3/.../1999_C7.jpg", "source_type": "政府出資媒體（台灣光華雜誌）", "license": "同上"},
+      {"url": "https://ourisland.pts.org.tw/sites/default/files/u795/3_2.jpg", "source_type": "公廣集團媒體（公視我們的島）", "license": "同 line 43，站台當下 503"}
+    ],
+    "footnote_total": 8,
+    "footnote_sample": [
+      {"url": "https://scweb.cwa.gov.tw/special/19990921/1999092101471273043.htm", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.nmns.edu.tw/park_921/about/introduction/index.html", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://921.yam.org.tw/statement/", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "重大格式缺陷（自動化工具未偵測到）：正文引用標記全部用裸括號 [1][2]...[8]（37 處），只有參考資料清單本身的 8 個 [^1]-[^8] 是正確的 caret 格式。remark 腳註外掛只認 [^N]，[1] 這種寫法在網站上不會被渲染成可點擊腳註、只會顯示成純文字「[1]」。footnote-format-fix.py 與 article-health 的 footnote-format/footnote-url 檢查都回報 passed=true，是工具的盲點，需要人工全文替換 [N]→[^N]。"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治敏感主題；921 地震與災後重建，中央氣象署／公視／光華雜誌／國震中心多源引用，敘事平衡（強調韌性不是天生美德而是制度成果），無單一立場問題。",
+    "content_summary": "以光復國中操場隆起、石岡壩災損與 921 地震教育園區的原址保存為主軸，討論台灣選擇「留下痕跡」而非抹平重建的災後記憶政策；取材扎實（中央氣象署、水利署、國震中心、公視、光華雜誌），但正文引用格式有系統性錯誤（見 red_flags）。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "把正文所有裸括號引用 [1]～[8]（共 37 處）改成正確的 [^1]～[^8] caret 格式，需逐一核對不要動到已經正確的參考資料清單本身", "est_min": 15},
+      {"action": "分號從 19 處減到 ≤12（多為可拆成兩句的獨立子句，樣本：「南投的最大震度到達 7 級；震動沿著中部平原...」可直接改句號）", "est_min": 10},
+      {"action": "重新確認公視我們的島 2 個圖片連結（查核當下整站 503）是否恢復，再決定快取或換源", "est_min": 5},
+      {"action": "快取 4 張可正常存取的圖片（cwa.gov.tw + taiwan-panorama.com x3）到 public/article-images/", "est_min": 10}
+    ],
+    "notes": "最值得注意的是引用格式 bug（見 red_flags），這是內容能不能正確渲染成可點擊腳註的問題，比表面上的 hard=7 更重要，且是自動化工具完全沒抓到的盲點，主 session 決策時應優先處理。"
+  },
+  {
+    "number": 1425,
+    "title": "Create 台灣鹽業.md",
+    "path": "knowledge/History/台灣鹽業.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: 缺 'subcategory' 欄位 — History 類文章必須對應 SUBCATEGORY.md — max match 三個候選同分 (ratio=0.47)：殖民與帝國／社會與日常史／經濟發展史 [advanced-review-required]",
+      "prose-health: 全形分號超硬門檻：16 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 34,
+    "semicolon_body_count": 16,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {"url": "https://www.archives.gov.tw/tw/arctw/69-1878.html", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.swcoast-nsa.gov.tw/zh-tw/attraction/details/369", "http_status": 302, "ugc": false, "fabricated": false},
+      {"url": "https://www.twtainan.net/zh-tw/attractions/detail/489/", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "結構性問題：PR 原始提交路徑是 knowledge/台灣鹽業.md（沒有分類資料夾），但 frontmatter 內已寫 category: History——path 與 frontmatter 不一致，導致 contributor-pr-heal.py 的 --from-pr 路徑過濾器（要求 knowledge/<分類>/<檔名> 至少 3 段）直接跳過此檔，回報 usage error exit 2。本次分析階段已手動把檔案搬到 knowledge/History/台灣鹽業.md 才能跑後續 heal／檢查；Phase B 若要合併，需注意這個路徑落差不是內容問題而是流程斷點，同型問題未來其他無分類資料夾的 PR 可能重複發生（工具本身有一個小 bug 值得回報）。"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治敏感主題；產業史敘事跨越明鄭、清代專賣、日治殖民徵收、戰後工業化，對殖民時期土地徵收（1941 台灣人鹽田強制併購）有明確指出但非煽動性描述，多源官方資料佐證。",
+    "content_summary": "台灣天日曬鹽從 1665 年陳永華修築鹽埕到 2002 年最後一次機械收鹽的 338 年產業史，強調鹽田不只是傳統工藝而是牽動殖民統治、專賣制度與全球貿易的基礎設施；11 條腳註全數為官方檔案/觀光署/文化部/學術資料，敘事嚴謹，未見幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory 欄位——三個候選同分，比對站內既有同型「跨時代產業史」文章（蓬萊米.md、19世紀的樟腦戰爭.md 皆用「殖民與帝國」），建議採「殖民與帝國」，但仍建議人工過目後定案", "est_min": 3},
+      {"action": "分號從 16 處減到 ≤12（皆為可拆句的獨立子句樣本）", "est_min": 8},
+      {"action": "確認合併時檔案最終落點為 knowledge/History/台灣鹽業.md（本次分析已手動搬移，Phase B 沿用即可）", "est_min": 1}
+    ],
+    "notes": "全文最乾淨的一篇——無圖片（零熱連結問題）、腳註全部 canonical、無 UGC 或未查核來源。唯一實質待決是 subcategory 三選一，工具給的候選同分無法自動判定，需要人工看內容比重（文章雖起於 1665 年，但約六成篇幅在講日治工業化與戰後機械化，經濟發展史角度也站得住），可與哲宇/主 session 討論。"
+  },
+  {
+    "number": 1426,
+    "title": "Create 冷氣與能源貧窮議題.md",
+    "path": "knowledge/Society/冷氣與能源貧窮議題.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 line 31 — private-us-east-1.manuscdn.com（AI 工具暫存連結，curl 驗證當下 HTTP 200）",
+      "image-health: 外部圖片熱連結 line 51 — 同網域",
+      "image-health: 外部圖片熱連結 line 105 — 同網域",
+      "prose-health: 全形分號超硬門檻：20 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 25,
+    "semicolon_body_count": 20,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../taipei-old-apartment-cc0.jpg?Policy=...", "source_type": "AI 工具暫存連結（Manus AI sandbox session file，非原始 Wikimedia URL）", "license": "圖說聲稱來自 Wikimedia Commons CC0（攝影者 Daderot），但實際嵌入網址是 Manus AI 的私有 session CDN，非 Wikimedia 官方網址"},
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../puli-community-cc0.jpg?Policy=...", "source_type": "AI 工具暫存連結（同上）", "license": "圖說聲稱 Wikimedia CC0（攝影者 Saimmx），但走 Manus AI session CDN"},
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../taipei-illegal-architecture-cc0.jpg?Policy=...", "source_type": "AI 工具暫存連結（同上）", "license": "圖說聲稱 Wikimedia CC0（攝影者 Movez），但走 Manus AI session CDN"}
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {"url": "https://www.twycc.org.tw/blog/p-1/energy-poverty-in-taiwan-825", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://enews.moenv.gov.tw/page/.../1f39ec6d-...", "http_status": 403, "ugc": false, "fabricated": false},
+      {"url": "https://save3000.moeaea.gov.tw/applyweb/outweb/buyapply/online/step1PersonCellphone.aspx", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "重大：frontmatter 帶 `curation: verified`。此欄位是站上真實渲染的信任徽章欄位（src/content/config.ts 定義為 z.enum(['verified','incubating'])；article.template.astro 明確寫『verified → 🔎 已深度查證徽章（只認顯式值，不從 lastHumanReview 推導——早期低標準的 true 會變假保證）』）。一篇從未進過 Taiwan.md 查證流程的投稿 PR 自帶 verified 值，若原樣合併會讓網站對讀者顯示「已深度查證」徽章，是會誤導讀者的假保證，必須在合併前改成 incubating 或整段拿掉。",
+      "圖片來源是 AI agent 工具（Manus AI）的私有 sandbox session 檔案網址，而非圖說宣稱的 Wikimedia 原始網址——這類 URL 內嵌 AWS 簽章與到期時間戳（policy 中 AWS:EpochTime=1788220800，約對應 2026-12-28），代表這 3 張圖片極可能在該日期前後失效，且更早失效的風險也存在（sandbox session 通常比簽章到期日更早被清除）。",
+      "frontmatter 帶完整的 rationale 區塊（why_this_hook/whats_excluded/where_it_hedges/whos_pushing_back），這是 Taiwan.md 內部 PROJECTION.md 投影方法論的欄位命名慣例，顯示投稿者可能在用某種模仿站內編輯流程的自動化工具產文，非必然是壞事但值得知會"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "社會政策議題（能源貧窮／居住熱安全），非統獨/選舉敏感類；多源引用（青年氣候聯盟、台大風險中心、公視、中央與地方政府公告）並明確做出資料層級區分（政策公告/研究結果/本文建議），論述立場是政策倡議但有謹慎的 hedging，非煽動性單一觀點。",
+    "content_summary": "以居住熱安全取代單純節電責任論，主張能源貧窮同時是支付能力、住宅品質與取得能力三層次問題，並提出到府診斷、社區改造與資料治理的具體政策路徑；引用多為官方公告與智庫報告，論述紮實，但 curation:verified 與圖片來源是必須在合併前處理的問題。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "把 frontmatter `curation: verified` 改成 `incubating`（或整段移除），避免對讀者顯示假的查證徽章——這一步應視為合併前的硬性前提，優先度高於其他 heal 項目", "est_min": 1},
+      {"action": "3 張圖改走真正的 Wikimedia Commons 原始網址（圖說已經寫出檔名與攝影者，可直接去 commons.wikimedia.org 找到對應檔案頁）並下載快取，取代 Manus AI 的暫存連結", "est_min": 15},
+      {"action": "分號從 20 處減到 ≤12", "est_min": 10}
+    ],
+    "notes": "內容品質本身不差（政策論述扎實、多方觀點平衡），但 curation:verified 這個欄位問題是本批 9 篇裡最需要主 session 特別注意的一項——不是格式瑕疵，是會在網站上顯示錯誤信任標章的問題，建議合併前一定要處理掉。"
+  },
+  {
+    "number": 1427,
+    "title": "Create Yahoo-kimo.md",
+    "path": "knowledge/Economy/Yahoo-kimo.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 42,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：33 處 > 12（§quality-scan #8c HARD gate，本批最高）"
+    ],
+    "warn_after_count": 42,
+    "semicolon_body_count": 33,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yahoo!_Kimo_logo_2019.png", "source_type": "Wikimedia Commons", "license": "Public domain（API 驗證：未達原創性門檻的文字標誌）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yahoo!_Mail_Logo_(1997-2009).svg", "source_type": "Wikimedia Commons", "license": "Public domain（API 驗證）"}
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {"url": "https://promo.campaign.yahoo.com.tw/corpblog/history.php", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cna.com.tw/news/afe/202307040216.aspx", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://commons.wikimedia.org/wiki/File:Yahoo!_Mail_Logo_(1997-2009", "http_status": 404, "ugc": false, "fabricated": false, "note": "腳註 [^10] 網址本身少了結尾 .svg（且括號未跳脫，markdown 連結在第一個 ) 就被截斷），curl 驗證確實 404；補上 .svg 後（.../Yahoo!_Mail_Logo_(1997-2009).svg）驗證為 HTTP 200，是純格式錯誤不是死內容"}
+    ],
+    "red_flags": [
+      "腳註 [^10] 網址格式錯誤（缺副檔名 + 括號未跳脫）導致連結實際上死掉，屬於自動化工具沒抓到的具體 bug，需人工修正"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治敏感主題；純企業史（Yahoo!奇摩從入口網站到電商分拆），引用中央社/風傳媒/台糖月刊/關鍵評論網/Yahoo官方公告，多角度呈現，無單一立場問題。",
+    "content_summary": "Yahoo!奇摩從 2001 年入口網站合併到 2024 年電商業務與統一集團合資的 20 餘年企業史，聚焦「整合到分拆」的商業邏輯轉折；10 條腳註來源多元（官方部落格、中央社、台糖月刊、風傳媒、關鍵評論網），數字引用皆有明確出處與時間點區分，未見幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "修正腳註 [^10] 網址：補回結尾 .svg，並處理括號跳脫問題避免 markdown 連結被截斷", "est_min": 3},
+      {"action": "分號從 33 處減到 ≤12（本批最重，約 22 處需要拆句或改寫，但全部是「兩個獨立子句用分號接」的樣式，機械風險低）", "est_min": 20}
+    ],
+    "notes": "本篇 heal_before hard=42 是本批最高（heal 前工具尚未套用 --fix，frontmatter/footnote 格式問題多但都被 heal 自動修掉了），heal 後只剩分號一項，是本批唯一「heal 前後落差最大」的案例，值得作為 contributor-pr-heal.py 效益的參考點。"
+  },
+  {
+    "number": 1428,
+    "title": "Create 國立臺灣博物館.md",
+    "path": "knowledge/Culture/國立臺灣博物館.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: 缺 'subcategory' 欄位 — Culture 類文章必須對應 SUBCATEGORY.md — 候選同分 (ratio=0.47)：工藝與美學／族群文化 [advanced-review-required]",
+      "prose-health: 全形分號超硬門檻：20 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 40,
+    "semicolon_body_count": 20,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Taiwan_Museum_front_view_20070730.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（API 驗證，攝影 Guillaume Paumier，文中署名正確）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/National_Taiwan_Museum%27s_lobby.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 4.0（API 驗證，攝影 Scchiang，文中署名正確）"}
+    ],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {"url": "https://www.ntm.gov.tw/News_Content.aspx?n=5651&s=243375", "http_status": 200, "ugc": false, "fabricated": false, "note": "HEAD 請求回 404，GET 請求回 200——臺博館官網 HEAD 方法支援不佳，非真死連結"},
+      {"url": "https://ihc.cip.gov.tw/EJournal/EJournalCat/605", "http_status": 200, "ugc": false, "fabricated": false, "note": "同上，HEAD 誤判 404，GET 驗證正常 200"},
+      {"url": "https://event.culture.tw/mocweb/reg/NTM/Detail.init.ctr?actId=90088", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "分類可能不是最佳歸位：站內同型「古蹟活化＋策展史」文章（本批 #1423 西門紅樓）被工具正確歸類到 Art／表演藝術；而 Art 分類下另有「策展與教育」子分類（範例含金馬賓館——同樣是古蹟建築改為藝文空間的案例），比 Culture 下的「工藝與美學」或「族群文化」更貼合本文以建築史＋策展權力為主軸的內容。建議 Phase B 討論是否該把本文改歸 Art／策展與教育，而非只在 Culture 內二選一補 subcategory"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "涉殖民史與原住民議題（臺博館前身為總督府博物館、近年推動文物返鄉共作）；敘事平衡，明確指出博物館「決定哪些東西進櫃、用什麼名字標籤」的權力性質，也呈現原民共作「不等於問題已解決」的保留態度，非單一觀點或美化殖民/去脈絡化描述。",
+    "content_summary": "從 1908 年總督府博物館到今日四館共構的國立臺灣博物館，主線是「誰有權展示臺灣」——從商品陳列館的殖民分類邏輯，到近年與原住民源出社群共作策展的轉型；11 條腳註含官方館舍頁、學術期刊、原民文獻電子期刊，敘事層次清楚，未見幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory（若維持 Culture 分類，工藝與美學／族群文化擇一；若考慮改歸 Art／策展與教育，需要更高層級的分類決策，建議提交哲宇/主 session 判斷）", "est_min": 5},
+      {"action": "分號從 20 處減到 ≤12", "est_min": 10}
+    ],
+    "notes": "頁面測試腳註時 HEAD 請求對 ntm.gov.tw 與 ihc.cip.gov.tw 誤判 404，改用 GET 才驗證是 200——這兩個官方網域的伺服器對 HEAD method 支援不佳，日後若用純 HEAD 驗證這類 .gov.tw 網址要注意假陽性。"
+  },
+  {
+    "number": 1429,
+    "title": "Create 第一次總統直選.md",
+    "path": "knowledge/Politics/第一次總統直選.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": 5,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: 缺 'subcategory' 欄位 — Politics 類文章必須對應 SUBCATEGORY.md（工具未給出候選——SUBCATEGORY.md 文件本身沒有列出 Politics 這個大類的子分類表，是文件缺口，非本文問題）",
+      "prose-health: 全形分號超硬門檻：24 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 20,
+    "semicolon_body_count": 24,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/President_Lee_teng_hui_(cropped).png", "source_type": "Wikimedia Commons", "license": "Attribution（API 驗證，作者：中華民國總統府）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Wild-lily-movement.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（API 驗證）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/9/95/TaipeiROCPresidentialOfficeBuilding.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（API 驗證）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Taiwan_presidential_election_results,_1996-2024.png", "source_type": "Wikimedia Commons", "license": "CC BY-SA 4.0（API 驗證）"}
+    ],
+    "footnote_total": 12,
+    "footnote_sample": [
+      {"url": "https://focustaiwan.tw/politics/202603235001", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://web.cec.gov.tw/english/article/24", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.jstor.org/stable/44288523", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "高度政治敏感題材（總統直選＋飛彈危機＋兩岸關係）。處理相當謹慎：呈現四組候選人而非只寫贏家，明確用「這是現任政府對歷史的政治詮釋，讀者應把它與中選會選制資料、國史館史料整理及學術研究並讀」區隔官方敘事與學術分析，並在飛彈與投票的因果推論上多次用「可能」「不能直接歸因」收斂措辭。多源引用（中選會、國史館、中研院、NDU Press、紐約時報、路透、JSTOR、FPRI），是本批平衡度最高的政治題材文章。",
+    "content_summary": "1996 年台灣首次總統直選的制度史，主線是解嚴、國會全面改選、地方首長直選到總統直選的一條制度路徑，並交叉呈現同期台海飛彈危機如何進入選民判斷的環境；12 條腳註跨官方史料、學術期刊與國際媒體，對因果關係與官方敘事的定性都有明確 hedging，未見幻覺或煽動性語言。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory——SUBCATEGORY.md 文件沒列 Politics 大類，但站內既有 14 篇 Politics 文章中 8 篇用「選舉制度」，本文主題（總統直選制度史）高度吻合，建議直接採用「選舉制度」", "est_min": 2},
+      {"action": "分號從 24 處減到 ≤12", "est_min": 12}
+    ],
+    "notes": "本批唯一觸及兩岸/飛彈危機等高敏感題材的文章，但處理方式是本批最謹慎的——建議 Phase B 若要抽查本批「政治平衡度」，優先看這篇當範例。SUBCATEGORY.md 文件本身缺 Politics 大類這件事，可另外開一張小票登記（不影響本文合併）。"
+  },
+  {
+    "number": 1431,
+    "title": "Create 婦女新知.md",
+    "path": "knowledge/Society/婦女新知.md",
+    "is_update": false,
+    "duplicate_of": 1432,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：20 處 > 12（§quality-scan #8c HARD gate）"
+    ],
+    "warn_after_count": 40,
+    "semicolon_body_count": 20,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Awakening_Foundation_on_Taiwan_Pride_2005.jpg", "source_type": "Wikimedia Commons", "license": "Public domain（API 驗證，攝影 Atinncnu，2005-10-15，文中署名正確）"}
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {"url": "https://women.nmth.gov.tw/?p=2127", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.awakening.org.tw/about", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://awakening.lib.tku.edu.tw/intro.aspx", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "涉性別平權社會運動題材，非統獨/選舉類。敘事納入組織內部路線分歧（1997 公娼事件的婦權派/性權派衝突）與外部批評（英文研究稱其為「菁英維持、無大規模會員」），非單向歌頌，平衡度高。",
+    "content_summary": "婦女新知從 1982 年戒嚴時期雜誌到 1987 年改組基金會，推動性別平等教育法與家庭暴力防治法的組織史，兼談 1997 年公娼事件暴露的路線分歧；10 條腳註以臺史博女性史料網站為主幹，敘事完整且對組織限制有誠實檢討，未見幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "分號從 20 處減到 ≤12", "est_min": 10},
+      {"action": "（可選加值）從 #1432 移入其獨有的具體素材：李元貞訪談引語（Fountain 專訪）、1988 年董監事會議決策細節、性別平等教育法立法過程數據（4 場公聽會/29次全組會議/10次分組會議）、葉永誌事件——這些是 1432 有而本文沒有的具體歷史細節，值得在 heal 時一併補強", "est_min": 15}
+    ],
+    "notes": "與 #1432（History/婦女新知.md）同題重複投稿比對結論：本文（#1431）建議保留為正式版本。理由——(1) 分類正確：Society／人權與平等精準對應 SUBCATEGORY.md「人權、性別平等、同婚、居住正義」定義，且與站內既有 knowledge/Society/人權與性別平等.md、knowledge/Society/台灣同婚與性別平權.md 兩篇姊妹文可互相延伸閱讀（#1432 的延伸閱讀區塊本身也連到這兩篇 Society 文章，等於自證 Society 才是正確歸位）；History／戰後與威權則偏向「國府遷台、戒嚴、白色恐怖」等威權政權本身的敘事，婦女新知是現存且持續運作的 NGO，用「歷史」框架收束不如「社會」框架貼切。(2) 格式更乾淨：#1432 有腳註標記損毀（`[*3*](#user-content-fn-8)` 無法渲染成可點擊腳註）、參考資料標題重複兩次（## 參考資料 出現兩次）、腳註清單編號順序混亂（1,2,8,3,5,9,6,7,4,10,11）、且多數腳註註解只寫「詳見原始連結內文資料補充」這種樣板空話，而非個別摘要；本文腳註全部有具體、逐條不同的來源摘要。(3) 圖片來源更乾淨：本文圖片直連 Wikimedia 官方網址，#1432 的婦女新知行動照則是透過 i0.wp.com（WordPress 圖片代理，二手轉載自 Taiwan Insight 部落格）取得，非原始出處。(4) 本文獨有 1998 年家庭暴力防治法／鄧如雯案專節，是婦運史上重要的立法成果，#1432 完全沒提到。 建議處置：#1432 close，並在關閉留言中說明——內容與 #1431 高度重複（創辦過程、1987 華西街遊行、性別平等教育法通過過程等主線事實幾乎相同），但感謝其獨有的具體素材（李元貞訪談引語、1988 年決策細節、性平法立法數據），會在 heal #1431 時一併採用，避免站上出現兩篇同主題文章互相競爭 SEO 與讀者信任。"
+  },
+  {
+    "number": 1432,
+    "title": "Create 婦女新知.md",
+    "path": "knowledge/History/婦女新知.md",
+    "is_update": false,
+    "duplicate_of": 1431,
+    "heal_exit_code": 1,
+    "hard_before": 1,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 line 28 — i0.wp.com（WordPress 圖片代理，curl 驗證 HTTP 200，非 Wikimedia 網域故不在熱連結白名單內）"
+    ],
+    "warn_after_count": 12,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [
+      {"url": "https://i0.wp.com/taiwaninsight.org/wp-content/uploads/2021/07/awakening_foundation_on_taiwan_pride_2005.jpg", "source_type": "第三方部落格圖片代理（WordPress Jetpack CDN，轉載自 Taiwan Insight，非原始出處）", "license": "圖說聲稱來源頁標示 Public Domain，但未直接對照 Wikimedia 原始檔案頁（同一張照片 #1431 已直接連到 Wikimedia 官方網址並經 API 驗證為 Public domain）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_fashined_ladies_of_Taiwan_1930s.jpg", "source_type": "Wikimedia Commons", "license": "圖說聲稱 Public Domain（因 Wikimedia API 查詢時遇到速率限制未能即時二次驗證，但站方格式與其他已驗證案例一致，可信度高）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/彭蓉妹、周紅綢、邱金蓮合照，約1930.jpg", "source_type": "Wikimedia Commons", "license": "圖說聲稱 Public Domain（同上，因速率限制未能即時二次驗證）"}
+    ],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {"url": "https://women.nmth.gov.tw/?p=2115", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.fountain.org.tw/interview/li-yuan-chen", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.womengroups.org.tw/OnePage.aspx?tid=1&id=1475", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "腳註標記損毀：line 30 圖說用 `[*3*](#user-content-fn-8)` 這種殘留的 GitHub-flavored anchor 語法，不是站上認得的 [^3] 格式，實際渲染會顯示成純文字而非可點擊腳註連結",
+      "「## 參考資料」標題重複出現兩次（line 122 與 line 126），中間夾一段圖片授權備註文字，屬結構缺陷",
+      "腳註清單編號順序混亂：實際排列為 [^1] [^2] [^8] [^3] [^5] [^9] [^6] [^7] [^4] [^10] [^11]，不是遞增序，閱讀體感差（heal 只修正了 1/11 個腳註格式，其餘順序問題未被工具處理）",
+      "9 條非圖片腳註中有 7 條的註解文字只寫「— 詳見原始連結內文資料補充」這種樣板空話，未逐條寫出各來源實際提供了什麼佐證，查證透明度低於 #1431",
+      "與 #1431 高度重複（見 notes duplicate_of 分析）"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "涉性別平權社會運動題材，非統獨/選舉類。內容涵蓋李元貞親口回顧戒嚴時期辦雜誌的政治考量（「學黨外啊，辦雜誌」）與 1988 年組織路線決策，敘事有第一手訪談引語支撐，也保留「中產階級婦運」的外部批評，非單向歌頌。",
+    "content_summary": "婦女新知從 1982 年創刊到 2004 年性別平等教育法通過的組織史，以李元貞訪談引語為敘事骨幹，細節含 1988 年董監事會議決定專注修法路線、性平法草案研擬的公聽會與會議次數統計；史實與 #1431 高度重疊，但补充了直接引語與立法過程的具體數字，唯格式缺陷（腳註損毀、標題重複、樣板化註解）較多。",
+    "update_delta": null,
+    "verdict_suggestion": "close",
+    "heal_plan": [
+      {"action": "（若哲宇決定改採合併路線而非直接關閉）修正 line 30 損毀腳註標記 [*3*](#user-content-fn-8) → [^3]", "est_min": 2},
+      {"action": "移除重複的「## 參考資料」標題", "est_min": 1},
+      {"action": "腳註清單改回遞增排序 1-11", "est_min": 5},
+      {"action": "把「詳見原始連結內文資料補充」的 7 條樣板註解換成個別來源摘要", "est_min": 10}
+    ],
+    "notes": "與 #1431（Society/婦女新知.md）同題重複投稿，比對結論見 #1431 的 notes 欄位。建議處置：close，附感謝說明——本文史實與 #1431 重疊約六至七成（創辦過程、1987 華西街遊行、性別平等教育法通過），但李元貞訪談引語、1988 年董監事會議決策細節、性平法立法過程數據（4 場公聽會/29次全組會議/10次分組會議）、葉永誌事件是本文獨有且有價值的素材，建議 heal #1431 時一併採用，而不是讓兩篇同主題文章並存在站上互相稀釋。若哲宇認為兩篇框架角度（Society 現況組織 vs History 戒嚴年代脈絡）差異夠大值得都留，則需另外處理：(a) 為其中一篇改 slug 避免路徑衝突疑慮（目前兩者檔名同為「婦女新知.md」但在不同分類資料夾，技術上可並存但語意上是同主題重複），(b) 修好本文列出的格式缺陷，(c) 兩篇互相加延伸閱讀連結而非各自獨立。這一步是編輯決策而非純技術 heal，超出 Phase A 分析範圍，留給主 session／哲宇定案。"
+  }
+]

@@ -1,0 +1,755 @@
+[
+  {
+    "number": 1377,
+    "title": "Create 排隊.md",
+    "path": "knowledge/Lifestyle/排隊.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 1,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：66 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 87,
+    "semicolon_body_count": 66,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Taipei_Main_Station_platform_3_May_2025.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY 4.0（API 驗證相符）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2014年台灣選民排隊等候投票.jpg/960px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public domain（API 驗證相符）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Queue_for_2018_Taiwanese_local_elections_at_Yixue_Junior_High_School.jpg/960px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報，未逐一 API 驗證）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/01.29_...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY 2.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/02.18_...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY 2.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visitors_Buying_Starbucks_Coffee...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC0 1.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Queue_of_Guests_Apply_to_4G...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC0 1.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Queue_of_Buying_Popiah...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC0 1.0（圖說自報）"
+      }
+    ],
+    "footnote_total": 38,
+    "footnote_sample": [
+      {
+        "url": "https://thereader.mitpress.mit.edu/on-queuing-the-cognitive-logic-behind-lines/",
+        "http_status": "403（疑似 bot 阻擋，非確認死鏈）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.thenewslens.com/article/73157",
+        "http_status": "403（疑似 bot 阻擋，非確認死鏈）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.setn.com/news/152978",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md'（紅旗清單明確列出的值）",
+      "7/38 條腳註（^3 ^8 ^10 ^14 ^15 ^23 ^29）文字為「詳見原始連結內文資料補充」，疑似未填完的樣板佔位文字而非真實引用描述",
+      "lastHumanReview: false（未經人工審閱）"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非政治敏感主題（排隊文化史）；文中出現的選舉排隊照片僅作場景說明，無單一政治立場問題。",
+    "content_summary": "台灣排隊文化史，從 1979 年台北市「排隊運動」追溯到捷運月台、叫號機、防疫排隊與投票隊伍；大量援引學術研究與政府史料，並刻意標註史料侷限（如清代/日治史料無法直接證明「排隊」行為），避免過度推論，未見明顯幻覺跡象，但敘事略長、格式硬傷多。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 66→<12（拆句號/頓號，逐段改寫）",
+        "est_min": 45
+      },
+      {
+        "action": "補齊 7 處腳註佔位文字「詳見原始連結內文資料補充」為具體描述",
+        "est_min": 15
+      },
+      {
+        "action": "author 欄位改為避免紅旗值（如具體貢獻者名或專案慣用非紅旗署名）",
+        "est_min": 2
+      }
+    ],
+    "notes": "content 品質高，主要卡在格式硬門檻（分號）與作者欄位；兩條 403 疑似 bot 阻擋非確認死鏈，建議之後用瀏覽器二次確認。"
+  },
+  {
+    "number": 1378,
+    "title": "Update 台灣鐵路便當.md",
+    "path": "knowledge/Food/台灣鐵路便當.md",
+    "is_update": true,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — Food 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類",
+      "prose-health: 全形分號超硬門檻：29 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 50,
+    "semicolon_body_count": 29,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Taiwan_Railway_Bento_No.1_20190615.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（API 驗證相符）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/TRA_EMC1205_through_Yongjing_Station_20030617.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報，未逐一 API 驗證）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Taiwan_Railway_Bento_No.5_20201017.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TRA_Rice_Box_corrugated_boxes_in_TRA_EMC610_20101203.jpg/1280px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0（API 驗證相符）"
+      }
+    ],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {
+        "url": "https://www.th.gov.tw/News_Content/35/10062/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.railway.gov.tw/tra-tip-web/tip/tip00C/tipC21/view?...",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.eater.com/2019/3/6/18241749/bento-box-best-food-train-stations-taiwan",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'（非精確命中紅旗清單值，但屬集體／機構式署名）",
+      "主分支既有版本 lastHumanReview:true + curation:'incubating'，PR 版本兩欄位皆消失（lastHumanReview 重置為 false）——疑似投稿者從舊版分支出，若直接合併會覆蓋既有審閱狀態",
+      "PR 版本移除了主分支「2000 年懷舊便當限量一千個、二十分鐘內售罄、總量約九萬個」的具體數字，且其唯一來源（《台灣光華》2003 報導 [^3]）也一併從參考資料中消失——可能是移除未經查證的舊敘述，也可能是遺失已有來源的內容，需人工判斷"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "n/a（飲食文化史，無政治敏感內容）。",
+    "content_summary": "臺鐵便當發展史，PR 版本新增兩個章節（菜飯與排骨的保存搭配、線上訂便當與 2010 年車廂十二箱配送場景）、腳註數由 9 增至 13；同時修掉主分支原本失效／來源不明的三條腳註（含一則格式錯亂的 Facebook 連結），但拿掉了主分支「限量一千個/二十分鐘售罄/九萬個」這組具體數字。",
+    "update_delta": {
+      "words_before": 5169,
+      "words_after": 8439,
+      "footnotes_before": 9,
+      "footnotes_after": 13,
+      "h2_before": 7,
+      "h2_after": 10,
+      "removed_topics": [
+        "2000 年台灣鐵路懷舊便當「限量一千個、二十分鐘內售罄、總量約九萬個」具體數字（原引自《台灣光華》2003 報導，該來源本身也一併被移除）",
+        "主分支收錄的格式錯亂 Facebook 貼文腳註，以及兩個索引性質不明的腳註頁（fcdc.org.tw 摘要頁、moda.gov.tw AI 資料集頁）"
+      ],
+      "added_topics": [
+        "菜飯與排骨的保存、搭配系統（新增第四節）",
+        "臺鐵網路訂票預便當服務與配送規則（新增第九節）",
+        "2010 年 EMU600 車廂內十二箱便當堆置的『最後一哩配送』場景（新增小節＋新圖）"
+      ]
+    },
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "補 subcategory: '飲食與地方'（沿用主分支既有值）",
+        "est_min": 2
+      },
+      {
+        "action": "縮減全形分號 29→<12",
+        "est_min": 30
+      },
+      {
+        "action": "決定 lastHumanReview / curation 欄位是否保留主分支既有值或重置（需人工判斷，非機械修復）",
+        "est_min": 5
+      },
+      {
+        "action": "交叉核對被移除的『限量一千個/二十分鐘售罄/九萬個』數字是否該保留（找替代來源或確認移除合理）",
+        "est_min": 10
+      }
+    ],
+    "notes": "本批唯一 Update PR。主分支版本已是 lastHumanReview:true + curation:incubating 的既有素材，PR 版本內容擴充、修掉舊腳註，但同時把審閱狀態欄位重置為未審——這是『改善 vs 覆蓋』的判斷點，建議主 session 特別留意，不要機械式直接以 PR 版本覆蓋。"
+  },
+  {
+    "number": 1379,
+    "title": "Create 台灣郵票.md",
+    "path": "knowledge/Culture/台灣郵票.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 7,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — Culture 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類 — max match: 族群文化 (ratio=0.47); advanced-review-required",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src（×3）",
+      "prose-health: 全形分號超硬門檻：23 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 39,
+    "semicolon_body_count": 23,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://www.post.gov.tw/post/FileCenter/post_ww2/stamp_pic/stamp_bpic/D524_01.1B.jpg",
+        "source_type": "政府網站（中華郵政）",
+        "license": "授權不明"
+      },
+      {
+        "url": "https://www.post.gov.tw/post/FileCenter/post_ww2/stamp_pic/stamp_bpic/D524_02.2B.jpg",
+        "source_type": "政府網站（中華郵政）",
+        "license": "授權不明"
+      },
+      {
+        "url": "https://file.moc.gov.tw/001/Upload/474/relpic/10738/186197/ce979385-e503-4c6a-bf9b-71e93a822aec.jpeg",
+        "source_type": "政府網站（文化部）",
+        "license": "授權不明"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://www.moc.gov.tw/en/News_Content2.aspx?n=507&s=186197",
+        "http_status": "404（真實伺服器回應，非 bot 阻擋——確認死鏈）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.post.gov.tw/post/internet/Philately/index.jsp?ID=505010102",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/feat/archives/2022/05/17/2003778316",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'",
+      "[^1]（文化部 Taipei Post Office 頁面）確認為死鏈（404，非 bot 阻擋），且該腳註被引用 3 次，是劉銘傳 1888 設局史實與臺北郵局建築沿革等關鍵敘述的唯一來源",
+      "3 張熱連結圖片來自政府網站（中華郵政、文化部），未標示明確授權條款"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "涉及清代、日治、戰後政權更迭與 1895 台灣民主國郵票、金馬防衛郵票等題材，敘事平衡，明確標註『誰被畫進來、誰被省略』的批判視角，非單一政治宣傳。",
+    "content_summary": "以郵票圖像史追溯台灣政權更迭（清代大龍票、台灣民主國、日治加蓋票、戰後金圓券郵票、原住民族文化郵票），核心論點是『郵票不是完整歷史，而是政權選擇讓人看見的歷史』；史觀平衡、批判視角強，主要硬傷是關鍵腳註死鏈與政府圖片授權不明。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "修復或替換 [^1] 文化部死鏈（找 Wayback Machine 存檔或替代政府頁面）",
+        "est_min": 10
+      },
+      {
+        "action": "縮減全形分號 23→<12",
+        "est_min": 25
+      },
+      {
+        "action": "3 張政府網站圖片：確認授權或改用有明確授權來源替代",
+        "est_min": 15
+      },
+      {
+        "action": "人工補 subcategory（自動比對僅 0.47 未過閾值，需人工選定）",
+        "est_min": 5
+      }
+    ],
+    "notes": "[^1] 死鏈是本文最需要處理的問題，因為它是三項關鍵歷史事實的唯一來源；建議 heal 時優先處理。"
+  },
+  {
+    "number": 1380,
+    "title": "Create 林獻堂.md",
+    "path": "knowledge/People/林獻堂.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 6,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：25 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 45,
+    "semicolon_body_count": 25,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/...Lin_Hsien-tang...jpg/500px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public domain（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/...The_Lin_Family_House_at_Wufeng...jpg/960px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY 3.0（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lin_Panlong...at_London.jpg/960px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public domain（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Diary_of_Lin_Hsien-tang_1933-07-28.jpg/960px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public domain（圖說自報）"
+      }
+    ],
+    "footnote_total": 16,
+    "footnote_sample": [
+      {
+        "url": "https://www.president.gov.tw/NEWS/19865",
+        "http_status": "200（follow 302 後）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://ascdc.digitalarchives.tw/subject_1679.html",
+        "http_status": "200（GET；HEAD 回 400，伺服器不支援 HEAD）",
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'"
+    ],
+    "notability": {
+      "wiki": "yes（zh.wikipedia.org 200）",
+      "mainstream_media": "yes（Taipei Times、總統府、國立臺灣圖書館、中研院皆有引用）",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "談 1921-1934 臺灣議會設置請願運動、1947 年 228 事件中林獻堂救援嚴家淦等內容，文中明確標註『不能把一位地方菁英的救援行動寫成228不是族群衝突的單一證明』，處理極為謹慎、多源引證，是本批對政治敏感史實處理最審慎的一篇。",
+    "content_summary": "林獻堂生平：從霧峰仕紳到非武裝抗日領袖，涵蓋臺灣文化協會、臺灣議會設置請願運動、1927 年環球旅行、霧峰一新會（女性教育）、228 事件角色；16 條腳註涵蓋官方史料、學術論文、博物館特展，敘事複雜度處理得宜，不神化也不簡化，未見幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 25→<12",
+        "est_min": 30
+      }
+    ],
+    "notes": "本批 9 篇中內容與史料品質最高的一篇，唯一卡點是格式硬門檻（分號），無需額外查證。"
+  },
+  {
+    "number": 1381,
+    "title": "Create 台灣手語.md",
+    "path": "knowledge/Culture/台灣手語.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 1,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：39 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 53,
+    "semicolon_body_count": 39,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Taipei_School_For_The_Hearing_Impaired_main_gate_20220528.jpg/1280px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2007TaipeiOlympicDayRun_Deaflympics2009_SignLanguage.jpg/1280px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0 或 2.5 TW（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2007TaipeiOlympicDayRun_SignLanguageTranslator.jpg/960px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0 或 2.5 TW（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2007Taipei101RunUp_PressConference_SignLanguageInterpreter_Host.jpg/1280px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 多版本（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2007Taipei101RunUp_WarmingUp_SignLanguagePerformance.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 多版本（圖說自報）"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://taiwansign.ccu.edu.tw/p/404-1055-483.php?Lang=zh-tw",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&sms=169B8E91BB75571F&s=427CD4A11DDA05C4",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'",
+      "frontmatter 多一個 `researchReport: 'reports/research/2026-08/台灣手語.md'` 欄位（本批其他 8 篇未見），指向內部研究報告路徑，非紅旗但值得留意是否該路徑真的存在"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非兩岸/統獨政治敏感，屬語言政策與身心障礙權益倡議主題；引用《國家語言發展法》條文與官方政策資料，多源、論述平衡。",
+    "content_summary": "台灣手語作為自然語言的歷史與現狀：日治時期台南/台北啟聰學校起源、南北方言差異、手語中文與台灣手語的區辨、2019 年《國家語言發展法》承認其國家語言地位後仍待落實的資源缺口；10 條腳註含語言學研究、政府法規、教育部報導，論證嚴謹。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 39→<12（本批分號密度最高，預估工時最長）",
+        "est_min": 50
+      }
+    ],
+    "notes": "本批唯一分號數最高（39 處）；建議確認 researchReport 指向的檔案是否存在。"
+  },
+  {
+    "number": 1382,
+    "title": "Create 沈葆楨.md",
+    "path": "knowledge/People/沈葆楨.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 5,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — People 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類",
+      "prose-health: 全形分號超硬門檻：24 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 30,
+    "semicolon_body_count": 24,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sing%20Bo-ting2.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public domain（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20180922_億載金城.jpg/1280px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY 4.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1875%20Taiwan.svg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0 Taiwan（圖說自報）"
+      }
+    ],
+    "footnote_total": 16,
+    "footnote_sample": [
+      {
+        "url": "https://historic.tainan.gov.tw/index.php?option=module&lang=cht&task=pageinfo&id=59&index=5",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://zh.wikisource.org/zh-hant/會籌全臺大局疏",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://ihc.cip.gov.tw/EJournal/EJournalCat/104",
+        "http_status": "200（GET；HEAD 回 404，伺服器不支援 HEAD）",
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'",
+      "原始 frontmatter `category: History` 與檔案路徑 knowledge/People/ 不符（heal 已自動修正為 People）；與 PR #1383（施琅）同一模式，可能是投稿者對這批人物條目的分類慣性問題"
+    ],
+    "notability": {
+      "wiki": "yes",
+      "mainstream_media": "n/a（歷史人物，改以博物館/學術出版社/政府檔案佐證）",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "處理清代『開山撫番』與原住民族土地自主權議題極為謹慎，大量引用原住民族委員會《原住民族文獻》期刊提供批判視角，明確反駁『開路即開發』的單一現代化敘事，是本批對殖民/擴張史觀處理最平衡的文章之一。",
+    "content_summary": "沈葆楨來台背景（牡丹社事件、福州船政）、億載金城與恆春設縣、開山撫番對原住民族的影響、鄭成功祠奏請，以及與晚清台灣建省的關係；16 條腳註涵蓋維基文庫奏摺原文、中研院、故宮、劍橋大學出版社研究，考據紮實。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 24→<12",
+        "est_min": 30
+      },
+      {
+        "action": "人工補 subcategory（自動比對未過閾值，需人工選定 People 子分類，如「歷史人物」）",
+        "est_min": 5
+      }
+    ],
+    "notes": "原始 category 欄位寫 History 但檔案在 People/ 資料夾（heal 已自動改正），與 1383 同一模式；建議主 session 一併確認同批其他人物 PR 是否也有此狀況，且判斷這篇本質偏「人物傳記」還是「歷史事件」較合適。"
+  },
+  {
+    "number": 1383,
+    "title": "Create 施琅.md",
+    "path": "knowledge/People/施琅.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 5,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：23 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 42,
+    "semicolon_body_count": 23,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Generaal_Shi_Lang...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "Public Domain Mark 1.0（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Taiwan_di_li_tu_LOC_gm71005037.jpg/1280px-...jpg",
+        "source_type": "Wikimedia Commons（原件美國國會圖書館）",
+        "license": "Public Domain Mark 1.0（圖說自報）"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://www.mnd.gov.tw/File/32218",
+        "http_status": "200（GET；HEAD 回 405，伺服器不支援 HEAD）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://zh.wikisource.org/zh-hant/恭陳臺灣棄留疏",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.cambridge.org/core/journals/modern-asian-studies/article/hero-or-villain-the-evolving-legacy-of-shi-lang-in-china-and-taiwan/...",
+        "http_status": "302（正常導向）",
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'",
+      "原始 frontmatter `category: History` 與檔案路徑 knowledge/People/ 不符（heal 已自動修正為 People，同 1382）"
+    ],
+    "notability": {
+      "wiki": "yes",
+      "mainstream_media": "n/a（歷史人物）",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "施琅是兩岸政治論述高度敏感人物（中國官方敘事常將其作為「武力統一」象徵）；本文明確引用 Ronald C. Po 學術研究直接處理『中國官方視為英雄／台灣視為降將或叛徒』的框架對立，不選邊站，並補充施琅征台後成為最大地主海商的批判視角，是本批對兩岸敏感歷史人物處理最審慎的一篇。",
+    "content_summary": "施琅生平：從鄭氏部將到清軍主將，1683 年澎湖海戰擊敗鄭氏水師；文中特別引用最新研究指出〈恭陳臺灣棄留疏〉並非施琅一人促成台灣『留治』決策，並補述施琅戰後在台灣的土地與貿易利益；9 條腳註含奏疏原文（維基文庫）、國防部研究、劍橋大學出版社期刊。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 23→<12",
+        "est_min": 30
+      }
+    ],
+    "notes": "政治處理品質高，唯一卡點是分號格式；category/path 不符問題已由 heal 自動修正。"
+  },
+  {
+    "number": 1384,
+    "title": "Create 吳鳳傳說.md",
+    "path": "knowledge/History/吳鳳傳說.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 4,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：20 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 40,
+    "semicolon_body_count": 20,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/吳鳳廟畫像1.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/嘉義吳鳳廟.JPG",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0（圖說自報）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/吳鳳廟前殿.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Statue_of_Wu_Feng_in_Chiayi_Park_20240328.jpg/500px-...jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（圖說自報）"
+      }
+    ],
+    "footnote_total": 14,
+    "footnote_sample": [
+      {
+        "url": "https://www.th.gov.tw/Epaper_Content/236/7216/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://storystudio.tw/article/gushi/wu-feng",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.twmemory.org/1988-12-31-終結神話，拆除吳鳳銅像事件/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors'"
+    ],
+    "notability": {
+      "wiki": "n/a（傳說／歷史人物條目，非在世人物）",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "處理『吳鳳神話』這個高度敏感的原漢關係／殖民教育宣傳議題，明確以鄒族視角批判殖民與國民政府教育體制如何『抬高吳鳳、壓扁鄒族』，引用 1988 年拆銅像運動與 1989 年正名阿里山鄉的原運史；立場鮮明但史料紮實、無煽動性用詞，批判對象是殖民/威權教育體制而非特定當代政治群體，是本批對原漢史觀處理最深刻的一篇。",
+    "content_summary": "吳鳳傳說如何從清代地方志裡版本不一的通事故事，經日治總督府改造成『殺身成仁』教化寓言、編入教科書，戰後國民政府延續神話並以其命名阿里山鄉，直到 1988-89 年原住民族運動拆除銅像、正名成功；14 條腳註含中研院、國史館臺灣文獻館、學術論文，未見幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 20→<12（本批已算較少）",
+        "est_min": 25
+      }
+    ],
+    "notes": "內容與史觀品質高，唯一卡點是分號格式；3 處半形冒號（cjk-punct）已由 heal 自動修正。"
+  },
+  {
+    "number": 1385,
+    "title": "Create 香蕉白話.md",
+    "path": "knowledge/Culture/香蕉白話.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": 2,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src",
+      "prose-health: 全形分號超硬門檻：18 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 38,
+    "semicolon_body_count": 18,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://insight.ipcf.org.tw/s/Item/Content/611eaffc85f64f9496a69b9abe55c084.jpg",
+        "source_type": "政府關聯機構網站（原住民族文化事業基金會・原視界）",
+        "license": "授權不明（圖說僅標示攝影者陳以箴，未附授權條款）"
+      }
+    ],
+    "footnote_total": 7,
+    "footnote_sample": [
+      {
+        "url": "https://audio.nmth.gov.tw/audio/芎蕉白話-台灣話變音/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.thenewslens.com/article/101971",
+        "http_status": "403（疑似 bot 阻擋，與本批其他 thenewslens.com 樣本一致）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.peopo.org/news/261047",
+        "http_status": "200（GET 確認；HEAD 無回應）",
+        "ugc": true,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author='Taiwan.md'（本批唯一精確命中紅旗清單值的案例，其他多用「Taiwan.md Contributors」變體）",
+      "frontmatter 多一個 `terminology_exempt: true` 欄位（本批其他 8 篇未見），需確認是否為刻意豁免原住民族語詞彙的一般用語檢查，還是誤植",
+      "1 張非 Wikimedia 熱連結圖片授權不明"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "涉及平埔族群（大武壠族）語言與 1915 年噍吧哖事件抗日記憶的推論性連結，文章刻意保持認識論上的誠實——反覆強調『聽起來合理』與『已被證明』之間的差距，不把民間傳說當定論，處理得宜，無政治煽動性。",
+    "content_summary": "香蕉白話（南台灣部落秘密語言現象）的起源考察：從 1930 年淺井惠倫錄音、1894 年《雲林縣采訪冊》式的地方紀錄，到不同部落（小林、阿里關、四重溪）各自的版本差異，並明確拒絕把它簡化成單一起源的『抗日密碼』傳說；7 條腳註含博物館、學術書目、原住民族媒體，論證克制、不誇大，是本批 footnote 密度最低但認識論最誠實的一篇。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "縮減全形分號 18→<12（本批分號數最少，工時最短）",
+        "est_min": 20
+      },
+      {
+        "action": "1 張原視界圖片：查詢是否有明確授權聲明，若無則另尋替代或取得授權確認",
+        "est_min": 10
+      },
+      {
+        "action": "author 欄位改為避免紅旗值",
+        "est_min": 2
+      }
+    ],
+    "notes": "author='Taiwan.md' 是本批唯一精確命中紅旗清單值的案例；peopo.org 為公民新聞平台，內容屬田野採訪報導非一般 UGC 留言，已在 footnote_sample 標記 ugc=true 供主 session 判斷但不代表不可信。"
+  }
+]

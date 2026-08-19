@@ -1,0 +1,133 @@
+[
+  {
+    "number": 1386,
+    "path": "knowledge/Society/電網韌性.md",
+    "actions": [
+      "curation 欄位刪除非法敘述值，改由 curation-tag 重設",
+      "rationale 4 個非 canonical key 改名（angle→why_this_hook／taiwanRelevance→which_framing／whyNow→where_it_hedges／historicalContext→whos_pushing_back）",
+      "2 張 manuscdn.com 簽章暫存圖收進 public/article-images/society/（Taiwan_Power_Company_Grid.jpg CC BY-SA 3.0 Yoxem／TPC_Department_of_Transmission... CC0 玄史生）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "598a5a547484b100ede8612885fbf81167e49091",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "e9e16f6cc655cc46780b60540c9a472ab20b3e06",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1387,
+    "path": "knowledge/Culture/排灣族琉璃珠.md",
+    "actions": [
+      "body 全形分號 25→12（13 處改句號）",
+      "author 'Taiwan.md' → 'Taiwan.md Contributors'",
+      "[^8] moc.gov.tw 404 → 換 Wayback Machine 存檔連結（2025-10-06 snapshot，內容核對相符）",
+      "延伸閱讀 2 條失效內部連結（目標頁不存在）改純文字",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "a90805a83c824fb89bd12f317248c77de6bba0de",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "0d083cec3fd68c65a3b7861dbbb0a0493e2a5a1d",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1388,
+    "path": "knowledge/Technology/台灣自行車產業.md",
+    "actions": [
+      "補 subcategory: 電動車與移動",
+      "3 張 Unsplash 泛用庫存圖（與主題無具體地理/品牌關聯）移除（Phase A 描述寫『兩張』，實際 hard gate 命中 3 張，全數移除）",
+      "[^5] Facebook 貼文（UGC 來源）移除腳註定義與 2 處引用",
+      "線 37 無腳註匿名直接引語（歸給『產業史研究者』）拿掉引號改為敘述",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c39005c8d7b351fa919d9bfac3fcbfd8a6692226",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "754dc6dfdb3579e9b84dad4d9f5de81310845fd8",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "A-Team 成立年份 2002 vs 2003 矛盾、內容深度不足等 Phase A red flags 屬散文層問題，本輪未動（只做格式 heal）"
+  },
+  {
+    "number": 1391,
+    "path": "knowledge/Lifestyle/吉祥物.md",
+    "actions": [
+      "body 全形分號 37→12（25 處改句號）",
+      "curation incubating",
+      "照 PR 新版本 merge，未接回舊版四段落內容（新舊版取捨另交主 session 開 ARTICLE-INBOX EVOLVE 條目）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "aa9d696f6ddfd0fb65f3ec609dab5e5332c8598a",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "bf66a7edd11a01c428607cbf4ecfabaf50553968",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1393,
+    "path": "knowledge/People/木曜4超玩.md",
+    "actions": [
+      "補 subcategory: 數位與媒體（人工挑選，自動比對候選『政治與民主』相似度僅 0.47 不適用）",
+      "body 全形分號 22→10（12 處改句號）",
+      "[^1] 台電月刊連結 404、CDX 查無任何 Wayback 存檔 → 移除腳註定義與 5 處引用；相關段落（一日台電員工）改無腳註敘述，文中仍具名『台電月刊／台電官方文章』保留可追溯性",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "1b55dfc6ce3923b3a79dcb0ac719665d73543d59",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "ff24709d393b909f54688f957fbe9321c7a26945",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "全篇 0 張圖片是 warn（媒體不足），非本輪 hard gate 範圍，未處理"
+  },
+  {
+    "number": 1394,
+    "path": "knowledge/People/Joeman.md",
+    "actions": [
+      "author 'Taiwan.md' → 'Taiwan.md Contributors'",
+      "manuscdn.com 簽章暫存圖收進 public/article-images/People/（背後為 Wikimedia File:Joeman-0617.jpg，CC BY-SA 4.0，本人上傳，VRT ticket 已核對）",
+      "body 全形分號 25→12（13 處改句號）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "495de6017abd38cf22a90371c4066eebe74a9925",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "91ef72aa4a13f3f24942fc0c1ec686985ca3bdb7",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1396,
+    "path": "knowledge/People/蒼藍鴿.md",
+    "actions": [
+      "body 全形分號 31→12（18 處改句號；6 條圖說／授權行的 12 處分號保留不動）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c8294338852366fbedc942df8574ddfb83c31ff2",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "004ae0ef410f06ef5f22e139be681072ec28a663",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  }
+]
