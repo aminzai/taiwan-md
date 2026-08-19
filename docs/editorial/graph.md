@@ -418,7 +418,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 
 **自動閘門**：`python3 scripts/tools/article-health.py {file} --check=viz-health`。v3.0 檢查面：來源標註（圖表模組＋**timeline/versus/stat**，2026-07-16 起）/ 「如上圖」AI-blind 指示語 / **結構檢查**（slope 恰 2 時點、line ≤3 序列、stack ≤5 類、waffle 加總 ≈100、pyramid 恰 3 欄、multiples 2-20 組、空資料列 malformed 偵測——寫錯欄位數 renderer 會靜默略過，這層在發布前把它叫出來）。default WARN；`rewrite-stage-4` profile 升 HARD。
 
-**像素閘門**（2026-06-12 儀器化）：`node scripts/tools/viz-shot.mjs`（dev server 跑著時對頁面上每個 tw-\* 模組逐元件截圖，light/dark/mobile 三變體，模組清單自動偵測）。產出的 PNG 要**逐張人眼看過**才算驗證完成。為什麼是鐵律：markup 存在 ≠ 視覺正確——v1.0 的 quote/heatmap 在 production 壞了六天而 curl 驗證全綠，因為當時只驗了 class 名存在沒看像素。**模組樣式 / renderer / 全站 prose CSS 變更必跑**（全站樣式改動會 cascade 進模組，像素層才看得到）。
+**像素閘門**（2026-06-12 儀器化）：`node scripts/tools/viz-shot.mjs`（dev server 跑著時對頁面上每個 tw-\* 模組逐元件截圖，light/dark/mobile 三變體，模組清單自動偵測）。產出的 PNG 要**逐張人眼看過**才算驗證完成。為什麼是鐵律：markup 存在 ≠ 視覺正確——v1.0 的 quote/heatmap 在 production 壞了六天而 curl 驗證全綠，因為當時只驗了 class 名存在沒看像素。**模組樣式 / renderer / 全站 prose CSS 變更必跑**（全站樣式改動會 cascade 進模組，像素層才看得到）。驗證 2026-08-19：`tw-article` 首發 DOM 六張卡全解析、computed style 逐項對，dark 截圖才看見文字欄浮一塊方框——dark-polish 廣域 `[class*='card']` 6% 白底在 body／title／desc 四層疊加；同兩天內第二例（前一例是 GSC 截圖 aspect 2.506 被護欄擋下）。四變體截圖是模組「完成」的定義，不是選項。
 
 ---
 
