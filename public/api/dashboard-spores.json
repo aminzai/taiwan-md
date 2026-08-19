@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T22:12:21.862917Z",
+  "lastUpdated": "2026-08-19T22:44:39.211033Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 164,
@@ -50,7 +50,7 @@
       "url": "https://x.com/taiwandotmd/status/2089561276938666168",
       "highlight": "/budget 孢子 X 版 — 同角度短版 + inline UTM s173",
       "views_7d": null,
-      "views_latest": 5918,
+      "views_latest": 9644,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -66,7 +66,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DcKsP3Co9jm",
       "highlight": "/budget 總預算十年策展頁孢子（非文章頁）— 國防 5,614 億 vs 文化部 273 億差二十倍、教科文四大支出唯一占比下滑＋成長最慢 +46%、媒宣費 4,738 萬連兩年全刪、115 年度 8/14 三讀史上最晚；配圖 budget-decade-01..10（page-shots.mjs）；UTM s172",
       "views_7d": null,
-      "views_latest": 4074,
+      "views_latest": 4678,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -306,7 +306,7 @@
     {
       "week": "2026-W34",
       "published": 3,
-      "avgViews": 4996
+      "avgViews": 7161
     }
   ],
   "harvestStatus": [
@@ -1927,8 +1927,8 @@
       "publishDate": "2026-08-18",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-08-19 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-08-20 06:44"
     },
     {
       "n": 173,
@@ -1937,8 +1937,8 @@
       "publishDate": "2026-08-18",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-08-19 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-08-20 06:44"
     },
     {
       "n": 174,
@@ -1947,8 +1947,8 @@
       "publishDate": "2026-08-18",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-08-19 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-08-20 06:44"
     }
   ]
 }
