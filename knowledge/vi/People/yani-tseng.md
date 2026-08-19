@@ -47,7 +47,7 @@ Giải vô địch LPGA McDonald's năm 2008, cô đã đánh bại thủ lĩnh 
 
 Cùng năm, cô còn giành chức vô địch tại LPGA State Farm Classic, tổng cộng 2 chức vô địch trong năm.
 
-📝 \*\*Kỹ năng golf của Trần Yân Nhi không nằm ở sức mạnh bùng nổ, mà ở sự chính xác tuyệt đối trong kiểm soát khoảng cách và sự ổn định tâm lý dưới áp lực cao. Gậy sắt của cô chính xác đến mức bạn có thể thấy cô muốn bóng rơi ở đâu – sự tự tin này, ở một người mới chuyên nghiệp 19 tuổi, rất hiếm.
+📝 **Kỹ năng golf của Trần Yân Nhi không nằm ở sức mạnh bùng nổ, mà ở sự chính xác tuyệt đối trong kiểm soát khoảng cách và sự ổn định tâm lý dưới áp lực cao. Gậy sắt của cô chính xác đến mức bạn có thể thấy cô muốn bóng rơi ở đâu – sự tự tin này, ở một người mới chuyên nghiệp 19 tuổi, rất hiếm.**
 
 ## 2010-2012: Thời kỳ thống trị golf nữ
 

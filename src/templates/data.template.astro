@@ -12,6 +12,8 @@ import {
   sectorColors,
 } from '../utils/dataConfig';
 import contentStats from '../data/content-stats.json';
+import ly from '../data/ly-budget.json';
+import { fmtYi, fmtPct } from '../utils/budgetViz';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -24,6 +26,18 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
 
 // Get categories from centralized config
 const dataCategories = getCategories(t);
+
+// Budget teaser section — three numbers pulled live from the /budget SSOT
+// (src/data/ly-budget.json), same derivation as src/templates/budget.template.astro
+// so the two pages never disagree.
+const budgetYears = ly.years;
+const budgetLatest = budgetYears[budgetYears.length - 1];
+const budgetFirst = budgetYears[0];
+const budgetCuts115 = (ly.cuts as any)['115'];
+const budgetGrowth =
+  budgetLatest.legal && budgetFirst.legal
+    ? ((budgetLatest.legal - budgetFirst.legal) / budgetFirst.legal) * 100
+    : null;
 ---
 
 <Layout
@@ -293,37 +307,13 @@ const dataCategories = getCategories(t);
       <div class="shape-cta-card">
         <div class="shape-cta-content">
           <h3>
-            {
-              lang === 'en'
-                ? '🗺️ Explore the full open-source map archive'
-                : lang === 'ja'
-                  ? '🗺️ オープンソース地図データ全集へ'
-                  : lang === 'ko'
-                    ? '🗺️ 오픈소스 지도 데이터 전체 보기'
-                    : '🗺️ 前往完整開源地圖資料集'
-            }
+            {t('data.taiwanShape.teaser.title')}
           </h3>
           <p>
-            {
-              lang === 'en'
-                ? 'SVG outlines, TopoJSON for counties and townships, usage examples in D3.js, Leaflet, Python, and Vue, plus administrative code references and other open data sources — all on one dedicated page.'
-                : lang === 'ja'
-                  ? 'SVG 輪郭、県市と町丁目レベルの TopoJSON、D3.js / Leaflet / Python / Vue の使用例、行政区コード対照、その他のオープンデータソース — すべて専用ページに。'
-                  : lang === 'ko'
-                    ? 'SVG 윤곽, 현시와 향진 수준의 TopoJSON, D3.js / Leaflet / Python / Vue 사용 예제, 행정구역 코드 대조, 다른 오픈 데이터 소스 — 모두 전용 페이지에서.'
-                    : 'SVG 輪廓、縣市與鄉鎮級 TopoJSON、D3.js / Leaflet / Python / Vue 使用範例、行政區代碼對照、其他開源資料來源——全部在專屬頁面。'
-            }
+            {t('data.taiwanShape.teaser.desc')}
           </p>
           <a href={translatePath('/taiwan-shape')} class="btn btn-primary">
-            {
-              lang === 'en'
-                ? "Go to Taiwan's Shape →"
-                : lang === 'ja'
-                  ? '台湾のかたちへ →'
-                  : lang === 'ko'
-                    ? '대만의 모양으로 →'
-                    : '前往台灣的形狀 →'
-            }
+            {t('data.taiwanShape.teaser.cta')}
           </a>
         </div>
       </div>
@@ -453,7 +443,7 @@ const dataCategories = getCategories(t);
           class="section-title"
           style="margin-top: 5rem; margin-bottom: 2rem;"
         >
-          📊 開放資料
+          {t('data.openData.heading')}
         </h3>
         <div class="data-categories-grid">
           {
@@ -601,6 +591,65 @@ const dataCategories = getCategories(t);
       </div>
     </section>
 
+    <!-- Central Budget Teaser -->
+    <section class="budget-section" id="budget">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="story-intro">
+        <h2 class="section-title">{t('data.budget.teaser.title')}</h2>
+        <div class="story-text">
+          <p>{t('data.budget.teaser.story.p1')}</p>
+          <p>{t('data.budget.teaser.story.p2')}</p>
+        </div>
+      </div>
+
+      <div class="insights">
+        <div class="insight-grid">
+          <div class="insight-card">
+            <div class="insight-number">
+              {fmtYi(budgetLatest.legal, lang)}
+            </div>
+            <div class="insight-label">
+              {t('data.budget.teaser.card1.label')}
+            </div>
+            <div class="insight-detail">
+              {t('data.budget.teaser.card1.detail')}
+            </div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">
+              {fmtYi(budgetCuts115.cut, lang)}
+              <small>{fmtPct(-budgetCuts115.cut_pct, 1)}</small>
+            </div>
+            <div class="insight-label">
+              {t('data.budget.teaser.card2.label')}
+            </div>
+            <div class="insight-detail">
+              {t('data.budget.teaser.card2.detail')}
+            </div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">
+              {budgetGrowth === null ? '—' : fmtPct(budgetGrowth, 0)}
+            </div>
+            <div class="insight-label">
+              {t('data.budget.teaser.card3.label')}
+            </div>
+            <div class="insight-detail">
+              {t('data.budget.teaser.card3.detail')}
+            </div>
+          </div>
+        </div>
+        <div class="explore-more">
+          <a href={translatePath('/budget')} class="explore-link">
+            {t('data.budget.teaser.cta')}
+          </a>
+        </div>
+      </div>
+    </section>
+
     <!-- Footer -->
     <footer class="data-footer">
       <div class="section-divider">
@@ -741,9 +790,40 @@ const dataCategories = getCategories(t);
         .attr('font-weight', '600')
         .attr('pointer-events', 'none');
 
+      // 億 is 10^8. The old code kept the 億-denominated number but relabelled
+      // it "B" (10^9) for every non-zh-TW reader, overstating every company
+      // tenfold: TSMC's 590,000 億 (NT$59T) read as "590,000 B" = NT$590T.
+      // Convert the value instead of renaming the unit, and always say TWD —
+      // a bare "B" reads as USD to most readers (#1317).
+      // zh-TW / ja / ko count in 億·억 natively; everyone else gets billions.
+      const isZh = ['zh-TW', 'ja', 'ko'].includes(lang);
+      function metricNumber(v) {
+        if (currentMode === 'employees') return v.toLocaleString();
+        if (isZh) return v.toLocaleString();
+        return (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
+      }
       function metricUnit() {
-        if (currentMode === 'employees') return lang === 'zh-TW' ? ' 人' : '';
-        return lang === 'zh-TW' ? ' 億' : 'B';
+        if (currentMode === 'employees') return isZh ? ' 人' : '';
+        return isZh ? ' 億 TWD' : 'B TWD';
+      }
+
+      // Company names arrive as "<Latin> <漢字>" (en/es/fr/…) or "<漢字> <Latin>"
+      // (zh-TW/ja/ko). Splitting on the first space truncated 45 of the 70
+      // companies to a meaningless token — TSMC showed as "Taiwan", 中鋼
+      // (China Steel) as "China", and 台積電 / 台灣大哥大 became two
+      // indistinguishable "Taiwan" bubbles. Take the leading same-script run
+      // so each label stays whole in whatever script that language uses.
+      function shortLabel(name) {
+        const isCJK = (c) => /[㐀-鿿豈-﫿぀-ヿ]/.test(c);
+        const s = String(name || '').trim();
+        if (!s) return s;
+        const lead = isCJK(s[0]);
+        let out = '';
+        for (const ch of s) {
+          if (isCJK(ch) !== lead) break;
+          out += ch;
+        }
+        return out.trim() || s;
       }
 
       // Redraw each label from the CURRENT mode/sector. Labels used to be
@@ -757,7 +837,7 @@ const dataCategories = getCategories(t);
           el.text(null);
           if (currentSector !== 'all' && d.sector !== currentSector) return;
           const r = getRadius(d);
-          const shortName = d.name.split(' ')[0];
+          const shortName = shortLabel(d.name);
           if (r > 40) {
             el.append('tspan')
               .attr('x', 0)
@@ -769,7 +849,7 @@ const dataCategories = getCategories(t);
               .attr('dy', '1.2em')
               .attr('font-size', `${Math.min(10, r / 5)}px`)
               .attr('fill-opacity', 0.8)
-              .text(getValue(d).toLocaleString() + metricUnit());
+              .text(metricNumber(getValue(d)) + metricUnit());
           } else if (r > 20) {
             el.attr('font-size', `${Math.min(10, r / 3)}px`).text(shortName);
           } else {
@@ -786,10 +866,16 @@ const dataCategories = getCategories(t);
         revenue: lang === 'zh-TW' ? '營收' : 'Revenue',
         employees: lang === 'zh-TW' ? '員工' : 'Employees',
         founded: lang === 'zh-TW' ? '成立' : 'Founded',
-        unit: lang === 'zh-TW' ? '億 TWD' : 'B TWD',
+        unit: isZh ? '億 TWD' : 'B TWD',
         people: lang === 'zh-TW' ? '人' : '',
         year: lang === 'zh-TW' ? '年' : '',
       };
+      // Same 億→B conversion as the bubble labels; tooltip and label must not
+      // disagree about the same company (#1317).
+      const money = (v) =>
+        isZh
+          ? v.toLocaleString()
+          : (v / 10).toLocaleString(undefined, { maximumFractionDigits: 1 });
 
       nodes
         .on('mouseover', (e, d) => {
@@ -799,8 +885,8 @@ const dataCategories = getCategories(t);
               `
             <strong>${d.name}</strong><br/>
             <span style="color:${colors[d.sector] || '#888'}">● ${d.sector}</span><br/>
-            ${tooltipData.marketCap}：${d.marketCap.toLocaleString()} ${tooltipData.unit}<br/>
-            ${tooltipData.revenue}：${d.revenue.toLocaleString()} ${tooltipData.unit}<br/>
+            ${tooltipData.marketCap}：${money(d.marketCap)} ${tooltipData.unit}<br/>
+            ${tooltipData.revenue}：${money(d.revenue)} ${tooltipData.unit}<br/>
             ${tooltipData.employees}：${d.employees.toLocaleString()} ${tooltipData.people}<br/>
             ${tooltipData.founded}：${d.founded} ${tooltipData.year}
           `,
@@ -925,7 +1011,12 @@ const dataCategories = getCategories(t);
   </script>
 
   <!-- Chart.js Visualization Script -->
-  <script define:vars={{ contentStats, lang }}>
+  <script
+    define:vars={{
+      contentStats,
+      articlesAddedLabel: t('data.chart.articlesAdded'),
+    }}
+  >
     // Load Chart.js
     const chartScript = document.createElement('script');
     chartScript.src =
@@ -934,7 +1025,6 @@ const dataCategories = getCategories(t);
     document.head.appendChild(chartScript);
 
     function initContentCharts() {
-      const isEn = lang === 'en';
       const stats = contentStats;
 
       // Category Distribution Chart (Doughnut)
@@ -1020,7 +1110,7 @@ const dataCategories = getCategories(t);
             labels: growthData.map((d) => d.date),
             datasets: [
               {
-                label: isEn ? 'Articles Added' : '新增文章',
+                label: articlesAddedLabel,
                 data: growthData.map((d) => d.count),
                 borderColor: '#3b82f6',
                 backgroundColor: 'rgba(59, 130, 246, 0.1)',
@@ -1145,6 +1235,12 @@ const dataCategories = getCategories(t);
 
     /* Enterprise Section */
     .companies-section {
+      padding: 2rem 0 4rem;
+    }
+
+    /* Budget Teaser Section — reuses .story-intro / .insights / .insight-card
+       from the Enterprise section above; only the section padding is new. */
+    .budget-section {
       padding: 2rem 0 4rem;
     }
 

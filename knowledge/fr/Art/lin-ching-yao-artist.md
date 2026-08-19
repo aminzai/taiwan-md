@@ -112,11 +112,11 @@ La question qu'il continue de poser aujourd'hui est toujours celle qu'il avait �
 
 ## Pour aller plus loin
 
-- \*\*[FAB DAO et le projet Project %](/fr/art/fab-dao) — Les six artistes du projet Project % et la structure des NFT solidaires
-- \*\*[Wang Xinren (Aluan)](/fr/art/wang-hsin-jen-artist) — Artiste du même groupe du projet Project %, premier artiste taiwanais publié sur Art Blocks
-- \*\*[Wang Liansheng (Shrimp Dad)](/fr/art/wang-lien-cheng-artist) — Série « Civilisation » du projet Project %, lauréat du Lumen Award
-- \*\*[L'art des nouveaux médias à Taiwan](/fr/art/taiwan-new-media-art) — L'art génératif dans le contexte historique de l'art des nouveaux médias à Taiwan
-- \*\*[Chi Bo-hao](/fr/art/chi-po-hao-musician) — Artiste sonore appartenant au même écosystème que le C-LAB Taiwan Sound Lab, co-exposant au DIVERSONICS 2025
+- **[FAB DAO et le projet Project %](/fr/art/fab-dao)** — Les six artistes du projet Project % et la structure des NFT solidaires
+- **[Wang Xinren (Aluan)](/fr/art/wang-hsin-jen-artist)** — Artiste du même groupe du projet Project %, premier artiste taiwanais publié sur Art Blocks
+- **[Wang Liansheng (Shrimp Dad)](/fr/art/wang-lien-cheng-artist)** — Série « Civilisation » du projet Project %, lauréat du Lumen Award
+- **[L'art des nouveaux médias à Taiwan](/fr/art/taiwan-new-media-art)** — L'art génératif dans le contexte historique de l'art des nouveaux médias à Taiwan
+- **[Chi Bo-hao](/fr/art/chi-po-hao-musician)** — Artiste sonore appartenant au même écosystème que le C-LAB Taiwan Sound Lab, co-exposant au DIVERSONICS 2025
 
 ## Références
 

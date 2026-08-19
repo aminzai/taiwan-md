@@ -62,6 +62,12 @@ const siteGuideCards = [
     title: t('about.guide.meta.title'),
     desc: t('about.guide.meta.desc'),
   },
+  {
+    icon: '🕰️',
+    href: '/about/比國家還大的演算藝術',
+    title: t('about.guide.founder.title'),
+    desc: t('about.guide.founder.desc'),
+  },
 ];
 ---
 
@@ -480,6 +486,17 @@ const siteGuideCards = [
           </div>
 
           <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">
+              {t('about.timeline.2026-08-11.date')}
+            </div>
+            <div class="timeline-content">
+              <h3>{t('about.timeline.2026-08-11.title')}</h3>
+              <p set:html={t('about.timeline.2026-08-11.desc.html')} />
+            </div>
+          </div>
+
+          <div class="timeline-item">
             <div class="timeline-marker pulse"></div>
             <div class="timeline-date">{t('about.timeline.ongoing.date')}</div>
             <div class="timeline-content">
@@ -630,16 +647,12 @@ const siteGuideCards = [
           <a href="/dashboard/" class="dashboard-btn">
             <span class="dashboard-btn-icon">🔬</span>
             <span class="dashboard-btn-text">
-              {lang === 'en' ? 'Open Real-Time Dashboard' : '開啟即時監測面板'}
+              {t('about.organism.dashboard.cta')}
             </span>
             <span class="dashboard-btn-arrow">→</span>
           </a>
           <p class="dashboard-btn-desc">
-            {
-              lang === 'en'
-                ? 'Monitor vital signs, health scores, translation coverage, and growth timeline in real-time.'
-                : '即時監測生命徵象、健康分數、翻譯覆蓋率與成長時間軸。'
-            }
+            {t('about.organism.dashboard.desc')}
           </p>
         </div>
       </div>

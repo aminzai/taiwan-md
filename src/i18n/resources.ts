@@ -1707,7 +1707,7 @@ export const resourcesUI = {
       'Năm viện này cấu thành chế độ phân lập ngũ quyền độc đáo của Đài Loan, mô hình duy nhất trên thế giới.',
     'resources.sub.ministries': 'Các bộ, hội đồng và cơ quan',
     'resources.sub.ministries.desc':
-      'Từ Bộ Phát triển Kỹ thuật số đến Hội đồng Dân tộc Nguyên住, mỗi cơ quan đều có chuyên mục dữ liệu mở riêng.',
+      'Từ Bộ Phát triển Kỹ thuật số đến Hội đồng Dân tộc Nguyên trú, mỗi cơ quan đều có chuyên mục dữ liệu mở riêng.',
     'resources.sub.localGov': 'Chính quyền địa phương',
     'resources.sub.localGov.desc':
       '22 huyện, thành phố với 22 phong cách quản trị địa phương. Cuộc đua thành phố thông minh giữa sáu đô thị trực thuộc trung ương đang định nghĩa lại dịch vụ dành cho người dân.',
@@ -3886,7 +3886,7 @@ export const resourcesUI = {
     'resources.curator.culture':
       '🔍 قلة من يعرفون أن كثافة المتاحف في تايوان من أعلى الكثافات في آسيا. لكن الأرقام هي مجرد سطح، والمميز حقًا هو الثقافة "الحية": أكثر من 15,000 احتفال معبد سنويًا، و16 لغة للسكان الأصليين، ومسابقات الأغاني الجبلية للهاكا. ثقافة تايوان ليست فقط في خزائن الزجاج، بل تمشي في الشوارع.',
     'resources.curator.media':
-      '🔍 ما مدى تأثير PTT؟ خلال استفتاء عام 2018، أثرت كمية المناقشات في لوحة PTT八卦 (Bagua) مباشرة في معدل الإقبال على التصويت. وجود "The Reporter" (المُرصد) أكثر إثارة للدهشة: تحقيق صحفي يعتمد كليًا على التبرعات، وترشح لعدة سنوات متتالية لجائزة الصحافة الآسيوية. في عصر انتشار الأخبار الكاذبة، تمتلك تايوان في الوقت نفسه أكثر ثقافة للمستخدمين نشاطًا وأجدى مجتمع للتحقق من الحقائق. هذا التناقض نفسه هو حيوية الديمقراطية.',
+      '🔍 ما مدى تأثير PTT؟ خلال استفتاء عام 2018، أثرت كمية المناقشات في لوحة Gossiping (八卦) على PTT مباشرة في معدل الإقبال على التصويت. وجود "The Reporter" (المُرصد) أكثر إثارة للدهشة: تحقيق صحفي يعتمد كليًا على التبرعات، وترشح لعدة سنوات متتالية لجائزة الصحافة الآسيوية. في عصر انتشار الأخبار الكاذبة، تمتلك تايوان في الوقت نفسه أكثر ثقافة للمستخدمين نشاطًا وأجدى مجتمع للتحقق من الحقائق. هذا التناقض نفسه هو حيوية الديمقراطية.',
     'resources.curator.economy':
       '🔍 بينما تتجادل الدول حول "قانون الرقائق" بشأن مبلغ الدعم المطلوب، قضت تايوان 30 عامًا في كتابة الإجابة على الرقائق: جزيرة صغيرة بدون نفط أو مناجم حديد، اعتمدت على الكفاءات البشرية وتقنيات النانو للسيطرة على 92% من طاقة إنتاج الرقائق المتقدمة عالميًا. هذا الرقم أضاف كلمة إلى تقارير البنتاغون: "درع السيليكون".',
     'resources.curator.community':
@@ -3917,7 +3917,7 @@ export const resourcesUI = {
     'resources.featured.tsmc':
       'أكثر شركة أشباه موصلات قيمة في العالم، تنتج 92% من الرقائق المتقدمة التي تقود الذكاء الاصطناعي والهواتف الذكية والحواسيب الفائقة.',
     'resources.featured.twse':
-      'قلب السوق الرأسمالي في تايوان، مسقط رأس تاسكوم و鸿海 (Foxconn).',
+      'قلب السوق الرأسمالي في تايوان، مسقط رأس تاتونغ وهون هاي (Foxconn).',
     'resources.featured.nhi':
       'التأمين الصحي الشامل الذي يغطي 99.9% من السكان ويستهلك 6.6% فقط من الناتج المحلي الإجمالي، نموذج تدرس له خبراء السياسات الصحية العالمية.',
 
@@ -4218,7 +4218,7 @@ export const resourcesUI = {
     'resources.projects.food.title': '🍔 Карта вкусной еды',
     'resources.projects.food.burger.name': 'Карта бургерных Тайбэя',
     'resources.projects.food.burger.desc':
-      'Интерактивная карта рейтинга бургерных Тайбэя с分级 по качеству (T0-T6), фильтрация по административным районам',
+      'Интерактивная карта рейтинга бургерных Тайбэя с разбивкой по уровням качества (T0–T6), фильтрация по административным районам',
     'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
 
     'resources.projects.nightmarket.title': '🌙 Навигация по ночным рынкам',
@@ -4944,7 +4944,7 @@ export const resourcesUI = {
     'resources.featured.twreporter':
       '華語世界非營利調查報導的先驅，深入探討環境、社會與政治議題。',
     'resources.featured.ptt':
-      '台灣最大的網路論壇。自 1995 年以來，每日 20 萬活躍用戶驅動獨特的「鄉民民主」。',
+      '台灣最大的網路論壇。自 1995 年以來，每日 20 萬活躍使用者驅動獨特的「鄉民民主」。',
     'resources.featured.ptsNews':
       '台灣公共電視新聞，獨立、公正的報導，公共利益新聞的黃金標準。',
 
@@ -4957,7 +4957,7 @@ export const resourcesUI = {
     'resources.featured.g0v':
       '全球最具影響力的公民科技社群，催生 COVID 口罩地圖、vTaiwan 審議平台，以及一位數位部長。',
     'resources.featured.cofacts':
-      'LINE 上的群眾協作事實查核，數百萬用戶以 AI 輔助驗證對抗假訊息。',
+      'LINE 上的群眾協作事實查核，數百萬使用者以 AI 輔助驗證對抗假訊息。',
     'resources.featured.taiwanmd':
       '你現在正在看的這個專案，開源、社群協作的台灣百科全書。',
 

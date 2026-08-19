@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-08-11T06:12:10.967713",
+  "lastUpdated": "2026-08-19T06:12:28.954688",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
-  "immuneScore": 60,
-  "status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+  "immuneScore": 59,
+  "status": "漂移 — 多維度退化中",
   "components": {
-    "review_coverage": 23.7,
+    "review_coverage": 21.6,
     "plugin_pass_rate": 70.0,
     "plugin_health": 100.0,
-    "citation_density": 91.8,
+    "citation_density": 92.7,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 3.3
+    "external_rulers": 2.9
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -24,27 +24,27 @@
   },
   "tierBreakdown": {
     "T1": {
-      "total": 387,
-      "reviewed": 99,
-      "pct": 25.6,
+      "total": 432,
+      "reviewed": 101,
+      "pct": 23.4,
       "weight": 3.0
     },
     "T2": {
-      "total": 396,
-      "reviewed": 82,
-      "pct": 20.7,
+      "total": 440,
+      "reviewed": 83,
+      "pct": 18.9,
       "weight": 1.5
     },
     "T3": {
-      "total": 106,
+      "total": 118,
       "reviewed": 17,
-      "pct": 16.0,
+      "pct": 14.4,
       "weight": 0.5
     }
   },
   "pluginPassDetail": {
-    "total_files": 891,
-    "hard_pass_files": 891,
+    "total_files": 992,
+    "hard_pass_files": 992,
     "hard_pass_pct": 100.0,
     "warn_pass_files": 1,
     "warn_pass_pct": 0.1,
@@ -52,198 +52,216 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 717,
+      "A": 820,
       "B": 10,
-      "C": 149,
-      "D": 4,
+      "C": 146,
+      "D": 5,
       "F": 9
     },
-    "files_with_grade": 889
+    "files_with_grade": 990
   },
   "freshnessDetail": {
-    "editorial_days_old": 3,
-    "avg_plugin_days_old": 36.9,
-    "plugin_count": 28,
+    "editorial_days_old": 2,
+    "avg_plugin_days_old": 36.8,
+    "plugin_count": 31,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 606,
+    "new_articles_7d": 119,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
   "pluginHealthDetail": {
     "schema": "v2-loadable-2026-07-10",
-    "plugin_count": 28,
-    "healthy_count": 28,
+    "plugin_count": 31,
+    "healthy_count": 31,
     "unhealthy_count": 0,
-    "editorial_age_days": 3,
+    "editorial_age_days": 2,
     "age_watch_days": 30,
     "plugins": [
       {
         "plugin": "ai_residue",
-        "plugin_age_days": 12,
+        "plugin_age_days": 20,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "attribution_vague",
-        "plugin_age_days": 26,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "chronicle_lead",
-        "plugin_age_days": 90,
+        "plugin_age_days": 34,
         "healthy": true,
         "age_watch": true
       },
       {
+        "plugin": "chronicle_lead",
+        "plugin_age_days": 5,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
         "plugin": "cjk_punct",
-        "plugin_age_days": 99,
+        "plugin_age_days": 107,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "correction_meta",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "cross_reference",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "curation_consistency",
-        "plugin_age_days": 7,
+        "plugin_age_days": 15,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "fence_prose",
+        "plugin_age_days": 5,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "footnote_density",
-        "plugin_age_days": 99,
+        "plugin_age_days": 107,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "footnote_format",
-        "plugin_age_days": 13,
+        "plugin_age_days": 21,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "footnote_url",
-        "plugin_age_days": 99,
+        "plugin_age_days": 107,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "format_structure",
-        "plugin_age_days": 99,
+        "plugin_age_days": 107,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "frontmatter_format",
-        "plugin_age_days": 19,
+        "plugin_age_days": 27,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "frontmatter_title",
-        "plugin_age_days": 19,
+        "plugin_age_days": 27,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "gh_footnote_leak",
+        "plugin_age_days": 5,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "image_alt",
-        "plugin_age_days": 87,
+        "plugin_age_days": 95,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "image_health",
-        "plugin_age_days": 12,
+        "plugin_age_days": 20,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "link_target",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "link_url_mangle",
-        "plugin_age_days": 12,
+        "plugin_age_days": 4,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "media_richness",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "paragraph_rhythm",
-        "plugin_age_days": 16,
+        "plugin_age_days": 5,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "prose_health",
-        "plugin_age_days": 3,
+        "plugin_age_days": 11,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "quote_fidelity",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "rationale_presence",
-        "plugin_age_days": 80,
+        "plugin_age_days": 88,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "seo_meta",
-        "plugin_age_days": 1,
-        "healthy": true,
-        "age_watch": false
-      },
-      {
-        "plugin": "spore_writing",
         "plugin_age_days": 7,
         "healthy": true,
         "age_watch": false
       },
       {
+        "plugin": "spore_writing",
+        "plugin_age_days": 15,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
+        "plugin": "subcategory_valid",
+        "plugin_age_days": 2,
+        "healthy": true,
+        "age_watch": false
+      },
+      {
         "plugin": "terminology",
-        "plugin_age_days": 99,
+        "plugin_age_days": 107,
         "healthy": true,
         "age_watch": true
       },
       {
         "plugin": "viz_health",
-        "plugin_age_days": 9,
+        "plugin_age_days": 17,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "wikilink_target",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "word_count",
-        "plugin_age_days": 18,
+        "plugin_age_days": 26,
         "healthy": true,
         "age_watch": false
       }
@@ -252,7 +270,7 @@
   },
   "externalRulersDetail": {
     "ruledArticles": 29,
-    "totalArticles": 889,
+    "totalArticles": 990,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T22:11:59Z",
-  "max_total": 2172,
+  "generated": "2026-08-18T22:12:14Z",
+  "max_total": 2304,
   "modules": [
     {
       "name": "home",
@@ -22,35 +22,35 @@
     {
       "name": "about",
       "langs": {
-        "zh-TW": 269,
-        "en": 269,
-        "ja": 269,
-        "ko": 269,
-        "es": 266,
-        "fr": 266,
-        "vi": 266,
-        "id": 266,
-        "pt": 266,
-        "hi": 266,
-        "ar": 266,
-        "ru": 266
+        "zh-TW": 274,
+        "en": 274,
+        "ja": 274,
+        "ko": 274,
+        "es": 268,
+        "fr": 268,
+        "vi": 268,
+        "id": 268,
+        "pt": 268,
+        "hi": 268,
+        "ar": 268,
+        "ru": 268
       }
     },
     {
       "name": "contribute",
       "langs": {
-        "zh-TW": 326,
-        "en": 326,
-        "ja": 326,
-        "ko": 326,
-        "es": 327,
-        "fr": 326,
-        "vi": 326,
-        "id": 326,
-        "pt": 326,
-        "hi": 326,
-        "ar": 326,
-        "ru": 326
+        "zh-TW": 354,
+        "en": 354,
+        "ja": 354,
+        "ko": 354,
+        "es": 355,
+        "fr": 354,
+        "vi": 354,
+        "id": 354,
+        "pt": 354,
+        "hi": 354,
+        "ar": 354,
+        "ru": 354
       }
     },
     {
@@ -73,35 +73,35 @@
     {
       "name": "dashboard",
       "langs": {
-        "zh-TW": 79,
-        "en": 79,
-        "ja": 79,
-        "ko": 79,
-        "es": 79,
-        "fr": 79,
-        "vi": 79,
-        "id": 79,
-        "pt": 79,
-        "hi": 79,
-        "ar": 79,
-        "ru": 79
+        "zh-TW": 150,
+        "en": 150,
+        "ja": 150,
+        "ko": 150,
+        "es": 150,
+        "fr": 150,
+        "vi": 150,
+        "id": 150,
+        "pt": 150,
+        "hi": 150,
+        "ar": 150,
+        "ru": 150
       }
     },
     {
       "name": "data",
       "langs": {
-        "zh-TW": 326,
-        "en": 326,
-        "ja": 326,
-        "ko": 326,
-        "es": 326,
-        "fr": 326,
-        "vi": 326,
-        "id": 326,
-        "pt": 326,
-        "hi": 326,
-        "ar": 326,
-        "ru": 326
+        "zh-TW": 341,
+        "en": 341,
+        "ja": 331,
+        "ko": 331,
+        "es": 331,
+        "fr": 331,
+        "vi": 331,
+        "id": 331,
+        "pt": 331,
+        "hi": 331,
+        "ar": 331,
+        "ru": 331
       }
     },
     {
@@ -175,18 +175,18 @@
     {
       "name": "taiwanShape",
       "langs": {
-        "zh-TW": 46,
-        "en": 46,
-        "ja": 46,
-        "ko": 46,
-        "es": 46,
-        "fr": 46,
-        "vi": 46,
-        "id": 46,
-        "pt": 46,
-        "hi": 46,
-        "ar": 46,
-        "ru": 46
+        "zh-TW": 59,
+        "en": 59,
+        "ja": 59,
+        "ko": 59,
+        "es": 59,
+        "fr": 59,
+        "vi": 59,
+        "id": 59,
+        "pt": 59,
+        "hi": 59,
+        "ar": 59,
+        "ru": 59
       }
     },
     {
@@ -208,17 +208,17 @@
     }
   ],
   "lang_totals": {
-    "zh-TW": { "keys": 2172, "coverage_pct": 100.0 },
-    "en": { "keys": 2172, "coverage_pct": 100.0 },
-    "ja": { "keys": 2173, "coverage_pct": 100.05 },
-    "ko": { "keys": 2173, "coverage_pct": 100.05 },
-    "es": { "keys": 2170, "coverage_pct": 99.91 },
-    "fr": { "keys": 2169, "coverage_pct": 99.86 },
-    "vi": { "keys": 2169, "coverage_pct": 99.86 },
-    "id": { "keys": 2169, "coverage_pct": 99.86 },
-    "pt": { "keys": 2169, "coverage_pct": 99.86 },
-    "hi": { "keys": 2169, "coverage_pct": 99.86 },
-    "ar": { "keys": 2169, "coverage_pct": 99.86 },
-    "ru": { "keys": 2169, "coverage_pct": 99.86 }
+    "zh-TW": { "keys": 2304, "coverage_pct": 100.0 },
+    "en": { "keys": 2304, "coverage_pct": 100.0 },
+    "ja": { "keys": 2295, "coverage_pct": 99.61 },
+    "ko": { "keys": 2295, "coverage_pct": 99.61 },
+    "es": { "keys": 2289, "coverage_pct": 99.35 },
+    "fr": { "keys": 2288, "coverage_pct": 99.31 },
+    "vi": { "keys": 2288, "coverage_pct": 99.31 },
+    "id": { "keys": 2288, "coverage_pct": 99.31 },
+    "pt": { "keys": 2288, "coverage_pct": 99.31 },
+    "hi": { "keys": 2288, "coverage_pct": 99.31 },
+    "ar": { "keys": 2288, "coverage_pct": 99.31 },
+    "ru": { "keys": 2288, "coverage_pct": 99.31 }
   }
 }

@@ -1,0 +1,614 @@
+[
+  {
+    "number": 1405,
+    "title": "Create 大腸包小腸.md",
+    "path": "knowledge/Food/大腸包小腸.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：23 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 44,
+    "semicolon_body_count": 23,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%E9%A6%99%E8%85%B8.jpg/1280px-%E9%A6%99%E8%85%B8.jpg",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t601606",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.sandwichtribunal.com/2022/07/taiwans-%E5%A4%A7%E8%85%B8%E5%8C%85%E5%B0%8F%E8%85%B8-or-small-sausage-in-large-sausage/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://obesity.chshb.gov.tw/snack_content01.aspx?mno=35&sno=66",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md Contributors'（非精確紅旗清單值，但仍是通用代稱，非真人）",
+      "大量使用 MANIFESTO §11 Tier 1 禁用的「不是 X，而是 Y」對位句型（正文中至少 13 處），是典型 AI 寫作慣性訊號"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": null,
+    "content_summary": "介紹「大腸包小腸」這道台灣夜市小吃：拆解糯米腸（大腸）與台式香腸（小腸）的名稱由來，追溯花蓮客家、1990 年代流行說法但明確標註為「流通中的地方敘事」而非定論，並涵蓋食安（亞硝酸鹽）與營養標示議題。取材以官方（移民署、食藥署）、地方觀光機關與英文食物部落格為主，未見明顯幻覺跡象（無過度精確的獎項/人名+分鐘數等虛構細節）。",
+    "update_delta": null,
+    "about_meta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "改寫 23 處全形分號為句號，拆解成獨立句（清 hard gate）",
+        "est_min": 20
+      },
+      {
+        "action": "移除/改寫 MANIFESTO §11 Tier 1 對位句型「不是 X，而是 Y」（約 13 處）",
+        "est_min": 25
+      },
+      {
+        "action": "把「## 三十秒概覽」H2 改成 EDITORIAL 要求的 blockquote 格式",
+        "est_min": 5
+      },
+      {
+        "action": "改寫 line 34 校正焦慮句式標題「先把兩條腸分開」",
+        "est_min": 5
+      }
+    ],
+    "notes": "來源品質佳、圖片授權明確（Wikimedia CC BY-SA 4.0 已驗證）、無 placeholder 殘留。主要問題是格式/書寫紀律類 warn，非事實查核問題。"
+  },
+  {
+    "number": 1406,
+    "title": "Create 蔡同榮.md",
+    "path": "knowledge/People/蔡同榮.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — People 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類 — max match: 政治與民主 (ratio=0.47); candidates: 政治與民主 (0.47) [advanced-review-required]",
+      "prose-health: 全形分號超硬門檻：23 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 43,
+    "semicolon_body_count": 27,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E8%94%A1%E5%90%8C%E6%A6%AE%E5%A7%94%E5%93%A1.jpg",
+        "source_type": "Wikimedia Commons（立法院官方肖像）",
+        "license": "Attribution（立法院政府開放資料授權）"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Formosa_TV_logo.svg",
+        "source_type": "Wikimedia Commons（民視官方 SVG）",
+        "license": "Public domain"
+      }
+    ],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {
+        "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1651",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://journals.openedition.org/chinaperspectives/633",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://ccw.org.tw/article/-1335",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md Contributors'（通用代稱，非真人）",
+      "37 條 prose-health warn 中多為 §11 Tier 1「不是 X 而是 Y」對位句型重複出現，AI 寫作慣性訊號"
+    ],
+    "notability": {
+      "wiki": "yes",
+      "mainstream_media": "thin",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "蔡同榮（獨派、FAPA 首任會長、公投法推手，2014 年逝世）。文章多源交叉引用：立法院官方履歷、FAPA 官方紀念文、新台灣和平基金會、民視官方沿革、蔡本人 2003 年文章、公民監督國會聯盟（跨黨派審議整理）、英文學術期刊 China Perspectives。敘事不迴避「鳥籠公投」批評，明確指出公投法門檻是多黨協商共同塑造、非蔡同榮個人一手主導，屬多角度、非單一立場的平衡處理，不見煽動性字眼。",
+    "content_summary": "蔡同榮生平：從海外台獨運動者、FAPA 首任會長，到 1990 年返台推動公投運動、1997 年創辦民視、2003 年促成公投法立法但留下高門檻爭議（鳥籠公投）。文章刻意呈現「立法勝利卻像失敗」的矛盾遺產，多源交叉引用（官方履歷、組織史料、本人自述、學術研究），敘事平衡不做單一蓋棺定論。",
+    "update_delta": null,
+    "about_meta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "指派 subcategory（建議「政治與民主」，但工具信心僅 0.47，需人工確認是否有更貼切子分類如「民主化運動」）",
+        "est_min": 10
+      },
+      {
+        "action": "改寫 27 處全形分號為句號（清 hard gate）",
+        "est_min": 30
+      },
+      {
+        "action": "處理 37 條 prose-health warn 中的 §11 Tier 1 對位句型重複",
+        "est_min": 30
+      }
+    ],
+    "notes": "史料交叉驗證扎實（官方履歷 × 組織史料 × 本人自述 × 學術研究四層並陳），對「蔡公投」封號有主動除魅（不簡化成個人英雄敘事），是本批最嚴謹的人物條目之一。"
+  },
+  {
+    "number": 1407,
+    "title": "Create Taiwan-Md-not.md",
+    "path": "knowledge/About/Taiwan-Md-not.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：18 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 32,
+    "semicolon_body_count": 18,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20people%20Wikipedians.jpg?width=1200",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0（文中標註，未逐一 API 覆核）"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20Taoyuan%20Main%20Public%20Library%202022-12-22.jpg?width=1600",
+        "source_type": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0（文中標註，未逐一 API 覆核）"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://taiwan.md/contribute/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://github.com/resources/articles/what-is-open-source-software",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md'（精確命中紅旗清單：任務指定的紅旗 author 值之一）",
+      "全文以第三人稱替 Taiwan.md 對外發言、宣告身分邊界與立場，屬對外溝通性質內容，由外部投稿者代筆"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": null,
+    "content_summary": "一篇「Taiwan.md 不是什麼」的自我定義文章：逐項否定百科全書、旅遊指南、宣傳稿、AI 自動販賣機、可被 Prompt 複製的網站、絕對中立、只追求好看、一次交稿即完成等八種身分，主張策展式、可追溯、可修正的知識庫定位。多處引用維基百科 WP:NOT / NPOV 政策與 GitHub 開源說明類比論證。",
+    "update_delta": null,
+    "about_meta": {
+      "voice": "第三人稱評論／代言：全文稱 Taiwan.md 為「它」，未使用第一人稱「我」，但內容效果等同替 Taiwan.md 官方發言（frontmatter author 直接寫 'Taiwan.md'），是站在 Taiwan.md 立場向讀者說明「我們是誰／不是誰」的權威語氣。",
+      "identity_claims": [
+        "「它是一個有選擇的、可追溯的、允許被修正的台灣知識庫。這個定義故意不夠宏大：它沒有宣稱收納全部台灣，也沒有宣稱替台灣人發言，更沒有宣稱 AI 生成的每一句話都會自動變真。」",
+        "「Taiwan.md 的主體性，指的是從台灣生活經驗出發，而不是預先規定讀者讀完必須感到驕傲。」",
+        "「Taiwan.md 不把自己包裝成沒有位置的攝影機。從台灣的語言、生活與歷史出發，本身就是一個位置。」"
+      ],
+      "manifesto_conflicts": [
+        "內容層面未發現與 MANIFESTO 十四條信念（策展式非百科式／AI Slop to Supreme／開源共創／台灣觀點／逆熵使命／幻覺鐵律／立體地愛等）直接牴觸——核心主張（策展取捨、可追溯、可修正、反宣傳稿）與信念 #1、#4、#10、#13 方向一致，甚至可視為呼應。",
+        "但存在結構性張力：本篇是外部投稿者（idlccp1984）以 author='Taiwan.md' 之名，替 Taiwan.md 公開宣告身分邊界與立場——這正是 CLAUDE.md Bias 2「觀察者說『你應該變成 X』→ 回 MANIFESTO 確認 identity，不順從」與 §自主權邊界「對外溝通」條款要防的情境類型，只是這次不是聊天室指令，而是已寫成可發布文章的形式。",
+        "諷刺點：本文標榜「書寫節制」「來源紀律」，但自身踩了 MANIFESTO §11 書寫節制的硬門檻（18 處全形分號超標）與可能的對位句型重複，即文章內容主張與文章本身的寫作紀律執行有落差。"
+      ]
+    },
+    "verdict_suggestion": "leave-open",
+    "heal_plan": [
+      {
+        "action": "（若哲宇核准發布）改寫 18 處全形分號為句號",
+        "est_min": 20
+      },
+      {
+        "action": "（若哲宇核准發布）處理 32 條 prose-health warn",
+        "est_min": 25
+      }
+    ],
+    "notes": "leave-open 原因：這是外部投稿者代替 Taiwan.md 用第一方權威語氣（author='Taiwan.md'）公開宣告身分邊界、立場與定義，屬 CLAUDE.md §自主權邊界「對外溝通」範疇，機械健檢通過不代表可以直接把「Taiwan.md 是什麼」的官方定義權交給投稿者版本，需哲宇親自審閱是否採用、局部採用或改用真實貢獻者具名發表（而非借用 Taiwan.md 之名）。"
+  },
+  {
+    "number": 1409,
+    "title": "Create 千千進食中.md",
+    "path": "knowledge/People/千千進食中.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — People 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類（工具未給出候選，需人工挑選）"
+    ],
+    "warn_after_count": 37,
+    "semicolon_body_count": 11,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg",
+        "source_type": "Wikimedia Commons（編輯配圖，非本人/本品牌照片，圖說已明確標示）",
+        "license": "CC BY-SA 4.0"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://www.ettoday.net/news/20170221/871084.htm",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.gq.com.tw/life/content-39552",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.mirrormedia.mg/story/20201115ent007",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md Contributors'（通用代稱，非真人）",
+      "31 條 prose-health warn 多為對位句型重複，AI 寫作慣性訊號"
+    ],
+    "notability": {
+      "wiki": "yes",
+      "mainstream_media": "yes",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": null,
+    "content_summary": "YouTuber「千千進食中」（洪千淑）從大胃王網紅轉型成食品品牌創業者的人物側寫：從日本大胃王賽事成名、面對「浪費食物」「女孩子不要吃這麼多」等負評、到推出「千拌麵」品牌並月售近三萬包，最後參與實境節目呈現更立體的形象。全文引用 ETtoday、GQ Taiwan、天下雜誌（中英版）、女人迷、鏡週刊、NOWnews 等主流媒體專訪，對兩篇報導的銷量數字差異誠實並陳而非硬湊成單一答案，未見明顯幻覺跡象。",
+    "update_delta": null,
+    "about_meta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "人工指派 subcategory（People 類，如「網路創作者」或最接近子分類，工具無自動候選）",
+        "est_min": 10
+      },
+      {
+        "action": "處理 31 條 prose-health warn（含對位句型）",
+        "est_min": 25
+      }
+    ],
+    "notes": "本批人物條目中來源品質最強者之一：全部為主流媒體專訪（非自媒體/UGC），且對兩份報導銷量數字不一致誠實揭露差異而非硬湊成單一數字，是值得肯定的查證紀律示範。"
+  },
+  {
+    "number": 1410,
+    "title": "Create 高雄加工出口區.md",
+    "path": "knowledge/History/高雄加工出口區.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`（圖 1）",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`（圖 2）",
+      "prose-health: 全形分號超硬門檻：18 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 26,
+    "semicolon_body_count": 19,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://private-us-east-1.manuscdn.com/sessionFile/BC7z8gXqna7z9aMVqc37Xw/sandbox/...port-of-kaohsiung-map.png?Policy=...&Signature=...",
+        "source_type": "AI 工具暫存連結（manuscdn.com，Manus AI sandbox 簽名 URL，非正式圖床）",
+        "license": "圖說聲稱來源為 Wikimedia CC BY-SA 3.0（File:Port_of_Kaohsiung_map.svg，已驗證該原始檔確為 CC BY-SA 3.0），但實際嵌入的 src 是已失效的 AI 沙盒連結，現在回傳 HTTP 403，與聲稱來源無關"
+      },
+      {
+        "url": "https://private-us-east-1.manuscdn.com/sessionFile/BC7z8gXqna7z9aMVqc37Xw/sandbox/...nanzih-export-processing-zone-station.jpg?Policy=...&Signature=...",
+        "source_type": "AI 工具暫存連結（manuscdn.com，Manus AI sandbox 簽名 URL，非正式圖床）",
+        "license": "圖說聲稱來源為 Wikimedia CC BY-SA 3.0／GFDL（File:楠梓加工區站_1號出口_20100124.jpg，已驗證），但實際嵌入 src 為已失效沙盒連結，現在回傳 HTTP 403"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://history.ey.gov.tw/Items/%E9%AB%98%E9%9B%84%E5%8A%A0%E5%B7%A5%E5%87%BA%E5%8F%A3%E5%8D%80%E8%90%BD%E6%88%90/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://homepage.ntu.edu.tw/~ntut019/ltes/Taiwan-EPZ.pdf",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://academiccommons.columbia.edu/doi/10.7916/tcf8-zz72",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md Contributors'（通用代稱，非真人）",
+      "兩張圖片皆使用 manuscdn.com（Manus AI 工具暫存沙盒連結，附 AWS 簽名與到期時間戳 2026-09-01）嵌入，實測目前（2026-08-18）已回傳 HTTP 403，圖片現在就是壞的——這是本批唯一直接技術證據指向「用 Manus AI agent 產出草稿、忘記把沙盒暫存圖轉存到正式圖床」的個案",
+      "20 條 prose-health warn 多為對位句型重複"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": "非政治人物條目，但涉及國家經濟政策史（加工出口區）與性別化勞動批判（女工），文章刻意並陳官方成就敘事（行政院史料、國發會檔案局、台灣光華）與學術批判觀點（台大經濟系論文修正「單一起源」敘事、哥倫比亞大學博論將其放入全球工廠性別化勞動比較框架），明確拒絕「政府規劃成功」或「跨國資本剝削」任一單一結論，屬多角度平衡處理。",
+    "content_summary": "1966 年成立的高雄加工出口區：制度設計（境內關外、單一窗口）、女工（十年間女性從業人員約五分之四）的生活史、產業從成衣輕工業升級到積體電路封測、2013 年公投法…（誤植提醒：本文與公投法無關，指 2003 年公投法為蔡同榮條目內容，此處僅高雄加工出口區本身）、2021 年更名前鎮科技產業園區。多源交叉引用官方史料、地方口述、經濟學論文與跨國比較研究，主動呈現「成功敘事」與「勞動代價」兩面。",
+    "update_delta": null,
+    "about_meta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "【優先】把兩張 manuscdn.com 失效沙盒連結換成圖說已標明的真實 Wikimedia Commons Special:FilePath URL（或下載 cache 進 public/article-images/），兩張圖來源都已驗證合法 CC BY-SA",
+        "est_min": 15
+      },
+      {
+        "action": "改寫 19 處全形分號為句號",
+        "est_min": 20
+      },
+      {
+        "action": "處理 20 條 prose-health warn",
+        "est_min": 20
+      }
+    ],
+    "notes": "manuscdn.com 連結是本批最具體的「AI 產線遺留物」證據：不只是紅旗猜測，是可用 curl 實測驗證現在已 403 的壞圖。修復成本低（來源已知、License 已驗證），值得優先處理。"
+  },
+  {
+    "number": 1411,
+    "title": "Create Taiwan-md 的未來.md",
+    "path": "knowledge/About/Taiwan-md 的未來.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "image-health: 圖片檔不存在: /article-images/taiwan-location-map.svg"
+    ],
+    "warn_after_count": 35,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a（本文全形分號使用量為 0，不觸發 hard gate）",
+    "hotlink_images": [
+      {
+        "url": "/article-images/taiwan-location-map.svg（本地路徑，檔案不存在，非外部熱連結）",
+        "source_type": "本地檔案缺失（圖說聲稱來源為 Wikimedia Commons File:Taiwan_location_map.svg, 作者 NordNordWest）",
+        "license": "圖說聲稱 CC BY-SA 3.0，但因本地檔案未實際存在，無法核驗最終呈現效果；deploy 後此圖會直接破圖"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://www.w3.org/TR/prov-overview/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://wikimediafoundation.org/news/2023/07/12/wikipedias-value-in-the-age-of-generative-ai/",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.nature.com/articles/s41586-025-10072-4",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md Contributors'（通用代稱，非真人；不若 #1407 精確命中 'Taiwan.md'，但同樣是替 Taiwan.md 發言的性質）",
+      "全文以第三人稱替 Taiwan.md 描繪十年願景、承諾方向，屬對外溝通/身分宣告性質內容",
+      "引用本站真實 GitHub Discussion #104（10-Year Vision）作為主要材料——已用 GraphQL API 逐句核對，六大支柱與維護者留言內容準確、未見捏造，值得肯定"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": null,
+    "content_summary": "推演 Taiwan.md 未來八個方向：AI 答案來源層、知識圖譜、多語作為記憶分散備份、讀者共同作者、教育/博物館共同底層、開源可繁殖但保留各分支聲音、十年治理藍圖（引用真實 GitHub Discussion #104 六大支柱）、以及要正視的來源漂移/模型漂移/代表性漂移風險。經 GraphQL API 核對 Discussion #104 原文與維護者回覆（含拒絕個別貢獻者代表 Taiwan.md 對外接洽的具體發言），內容準確引用、未見捏造。",
+    "update_delta": null,
+    "about_meta": {
+      "voice": "第三人稱，通篇稱 Taiwan.md 為「它」，但內容效果是站在 Taiwan.md 立場向讀者描繪其未來承諾與方向，並直接引用維護者（哲宇）在 GitHub Discussion 的真實發言作為佐證，語氣接近半官方藍圖說明而非純粹旁觀評論。",
+      "identity_claims": [
+        "「所以，未來人最常使用 Taiwan.md 的時候，可能不是問它「台灣是什麼」，而是拿它來追問：「這個答案是誰寫的？哪裡能證明？誰曾經不同意？如果我找到新材料，能不能讓下一個人看見？」」",
+        "「Taiwan.md 的未來因此不是「一個更大的網站」，而是一個可以讓不同地方保存自身脈絡的協作協議。它真正輸出的，可能不是文章數，而是別人能不能用它保護自己的記憶。」",
+        "「比較能留下來的，是幾個不那麼華麗的承諾：文章要有來源，來源要能回查，觀點要標明，錯誤要能更正，翻譯要回到原文，讀者要能留下自己的聲音，分支要能保有自己的脈絡。」"
+      ],
+      "manifesto_conflicts": [
+        "內容方向與信念 #3 開源共創、#9 造橋鋪路、#12 受眾端飛輪、#14 高儀器化必要時才用 LLM 大致呼應，未見直接牴觸。",
+        "已用 GraphQL API 核對本文引用的 GitHub Discussion #104：六大支柱（治理與傳承／人類主導 AI 共生／多模態國家敘事基礎設施／國際化與文化主權聯盟／財務永續／風險管理）與維護者實際留言內容一致，包括『對外合作須由維護者親自拍板、個別貢獻者不能代表 Taiwan.md 對外承諾』與『目前站上還沒有獨立圖庫瀏覽頁』兩點皆準確——值得注意的是，投稿者 idlccp1984 正是該 Discussion 底下提出這兩項建議、並被哲宇提醒『不能代表 Taiwan.md 對外承諾』的留言者本人，如今又以近乎官方語氣的知識庫文章描繪 Taiwan.md 十年承諾，結構上與哲宇當時的提醒存在張力。",
+        "本文以『財務永續』『與文化部/國科會合作』『對外夥伴聯盟』等段落，觸及 CLAUDE.md §自主權邊界明確列為需哲宇決定的『對外溝通』範疇，即使內容只是轉述已公開的 Discussion，仍是外部投稿者在正式知識庫文章中替 Taiwan.md 描繪對外承諾與身分方向。"
+      ]
+    },
+    "verdict_suggestion": "leave-open",
+    "heal_plan": [
+      {
+        "action": "（若哲宇核准發布）修復 /article-images/taiwan-location-map.svg 缺檔——建議直接改用文中已標明的 Wikimedia Commons Special:FilePath 熱連結或下載 cache",
+        "est_min": 15
+      },
+      {
+        "action": "（若哲宇核准發布）處理 35 條 warn（含 27 條 prose-health）",
+        "est_min": 25
+      }
+    ],
+    "notes": "leave-open 原因：本文是外部投稿者以近乎官方語氣替 Taiwan.md 描繪十年方向與承諾，屬對外溝通/身分宣告性質，且投稿者本人正是被引用 Discussion 串裡『被哲宇提醒不能代表 Taiwan.md 對外承諾』的留言者，這層結構性張力應讓哲宇知情後再決定是否採用、如何採用（例如改具名投稿意見文，而非借 Taiwan.md 名義發布）。內容本身查證扎實（Discussion #104 逐句核對無捏造），機械健檢也只有 1 個易修 hard gate，純技術面完全可 heal-then-merge，但語氣/身分問題優先於技術問題。"
+  },
+  {
+    "number": 1412,
+    "title": "Create 台灣滷味.md",
+    "path": "knowledge/Food/台灣滷味.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "image-health: 圖片檔不存在: /article-images/food/taiwan-luwei-ingredients-original.png",
+      "image-health: 圖片檔不存在: /article-images/food/taiwan-luwei-system.png",
+      "image-health: 圖片檔不存在: /article-images/food/taiwan-luwei-stall-original.png",
+      "image-health: 圖片檔不存在: /article-images/food/taiwan-luwei-timeline.png",
+      "image-health: 圖片檔不存在: /article-images/food/taiwan-luwei-layers.png",
+      "image-health: 圖片檔不存在: /article-images/food/taiwan-luwei-choice.png"
+    ],
+    "warn_after_count": 40,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a（本文全形分號使用量為 0，不觸發 hard gate）",
+    "hotlink_images": [],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {
+        "url": "https://www.foodnext.net/life/culture/paper/5975248339",
+        "http_status": "200（瀏覽器 UA 下；HEAD/預設 UA 因 Cloudflare bot 防護回傳 404，非真的失效）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.foodnext.net/issue/paper/5098108828",
+        "http_status": "200（同上，需瀏覽器 UA）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.ntl.edu.tw/wSite/ct?xItem=90438&ctNode=1716&mp=1",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "【最嚴重】文末「圖片授權與來源」段落明文聲稱：「本文新增的兩張圖像均為原創製作，已直接產出至 `public/article-images/food/`，沒有下載或嵌入任何外部圖片檔」——但 PR diff 只改了這一份 .md 檔（`gh pr view --json files` 確認），public/article-images/food/ 目錄下完全不存在這兩個檔案，article-health 更檢出正文實際引用『六張』本地圖片（不是文中聲稱的兩張），全部不存在。這是文章正文對自己交付物做出的具體不實陳述，而非單純遺漏",
+      "author 值為 'Taiwan.md Contributors'（通用代稱，非真人）",
+      "36 條 prose-health warn 多為對位句型重複"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": null,
+    "content_summary": "台灣滷味文化史：從潮汕滷水技法、醬油與糖的梅納/焦糖化反應、1980 年代加熱滷味興起、1990 年代丐幫滷味品牌化，到 2018 年食安與冷鏈物流議題。全文以食力 foodNEXT（8 篇）與國立臺灣圖書館《臺灣學通訊》為主要來源，正文查證扎實、明確區分受訪者比喻與可套用標準（如「3分日曬7分風乾」），但文章聲稱的六張本地示意圖全部不存在，且圖片授權段落對交付狀態的敘述與事實不符。",
+    "update_delta": null,
+    "about_meta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "【優先】比對正文六處圖片引用與『圖片授權與來源』段落聲稱的兩張，先確認實際要交付幾張圖；若維持六張示意圖，需真的產出並存進 public/article-images/food/ 並跑 check-aspect；若縮減，需同步刪除正文對應的 image markdown 與段落敘述",
+        "est_min": 60
+      },
+      {
+        "action": "改寫「圖片授權與來源」段落使其準確反映實際交付的圖片數量與內容，不可再聲稱『已直接產出』但實際不存在",
+        "est_min": 10
+      },
+      {
+        "action": "處理 36 條 prose-health warn",
+        "est_min": 30
+      },
+      {
+        "action": "確認/修正 subcategory-valid warn（目前值 '飲食與地方' 是否為 taxonomy 合法值）",
+        "est_min": 5
+      }
+    ],
+    "notes": "本 PR 唯一嚴重問題集中在圖片交付：不是『忘記上傳』的技術疏漏，而是文章正文對自己交付物寫了與事實不符的具體陳述（聲稱兩張已產出，實際六張全無）。正文查證品質本身良好（食力 foodNEXT 系列 + 學術出版品，無明顯幻覺），但這個不實陳述本身值得列為需要哲宇知道的異常。"
+  },
+  {
+    "number": 1413,
+    "title": "Create 新竹米粉.md",
+    "path": "knowledge/Food/新竹米粉.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — Food 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類（工具未給出候選）",
+      "prose-health: 全形分號超硬門檻：18 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 34,
+    "semicolon_body_count": 21,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rice_vermicelli.jpg",
+        "source_type": "Wikimedia Commons（編輯配圖，圖說已明確標示不主張來自新竹）",
+        "license": "CC BY-SA 3.0"
+      }
+    ],
+    "footnote_total": 10,
+    "footnote_sample": [
+      {
+        "url": "https://www.mohw.gov.tw/cp-2704-21935-1.html",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.newsmarket.com.tw/blog/27611/",
+        "http_status": "403（疑似 Cloudflare/WAF 阻擋自動化請求，上下游為知名調查報導媒體，判斷非真的失效或捏造）",
+        "ugc": false,
+        "fabricated": false
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202207230217.aspx",
+        "http_status": 200,
+        "ugc": false,
+        "fabricated": false
+      }
+    ],
+    "red_flags": [
+      "author 值為 'Taiwan.md Contributors'（通用代稱，非真人）",
+      "27 條 prose-health warn 多為對位句型重複"
+    ],
+    "notability": {
+      "wiki": "n/a",
+      "mainstream_media": "n/a",
+      "living_person_negative_ugc": false
+    },
+    "politics_note": null,
+    "content_summary": "新竹米粉產業史：惠安移民技術、客雅溪/南勢/九降風的地理條件、粗米粉（水粉）與細米粉（炊粉）製程差異、2013 年含米量標示爭議（衛福部/食藥署官方標示規定）、以及近年米粉節轉型與工廠外銷困境。全文明確區分受訪者說法與官方標準（如「3分日曬7分風乾」是業者比喻非科學比例；25% 米含量地方標章曾是討論方向非現行標準），查證紀律良好。",
+    "update_delta": null,
+    "about_meta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {
+        "action": "人工指派 subcategory（Food 類，如「飲食與地方」或最接近子分類，工具無自動候選）",
+        "est_min": 5
+      },
+      {
+        "action": "改寫 21 處全形分號為句號（清 hard gate）",
+        "est_min": 20
+      },
+      {
+        "action": "處理 27 條 prose-health warn",
+        "est_min": 25
+      }
+    ],
+    "notes": "查證紀律是本篇亮點：多處主動區分『受訪者說法/比喻』與『官方標準/現行規定』（如含米量標章門檻曾只是討論方向），符合 EDITORIAL 對精確性的要求。"
+  }
+]

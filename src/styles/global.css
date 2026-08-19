@@ -541,6 +541,74 @@ html.jf-active .prose :is(h1, h2, h3, h4, h5, h6) {
 }
 
 /* ==========================================================================
+ * 西里爾字母修補 — justfont 的小寫 д 畫的是大寫 Д 的字形
+ *
+ * 2026-08-12 追 #1321（俄文讀者找不到語言切換鈕）時，順著導覽列往下看，
+ * 撞到一個沒有人回報過、但每個俄文讀者每天都在看的東西：
+ *
+ *   「Исследовать」在站上長成「ИсслеДовать」
+ *   「Создано」長成「СоЗдано」
+ *
+ * justfont 的六支中文字型會套到全部 12 個語言（Layout.astro 的 SDK 設定
+ * 沒有任何語言判斷），而它們的西里爾字母是附贈的，沒畫全。用 canvas 量：
+ *
+ *   font            д 上緣 / Д 上緣      о 上緣 / О 上緣（對照組）
+ *   jf-lanyanghei        1.000  ← 同一個字形       0.678
+ *   jf-jinxuanlatte      0.793  ← 偏大             0.678
+ *   Arial                0.725                     0.727
+ *
+ *   jf-lanyanghei 的 д 跟 Д 連寬度（73.3）與下緣（4.2）都逐位元相同 ——
+ *   它就是同一個字形。這是量出來的，不是看出來的。
+ *
+ * 只有西里爾壞掉：拉丁 a/A e/A g/G 與希臘 α/Α 的比值都跟 Arial 一致，
+ * 阿拉伯文與天城文則根本沒收錄（自動 fallback）。所以修補要剛好只蓋
+ * 西里爾，不能整包換掉 —— 換掉的話 ru 站上的 Taiwan.md 字標與拉丁標題
+ * 會一起失去品牌字型，用一個錯換另一個錯。
+ *
+ * 作法：宣告一支 unicode-range 只涵蓋西里爾區段的字族，指向系統字型，
+ * 然後把它「插在 justfont 前面」。瀏覽器逐字元挑字族：西里爾字元命中
+ * CyrillicFix，其餘全部照舊落回 justfont。字標不受影響。
+ *
+ * 這些規則必須放在 @layer 外面才蓋得過 justfont SDK 執行期注入的
+ * unlayered <style>（理由同上面 .hero-title 那段）。
+ * ========================================================================== */
+@font-face {
+  font-family: 'CyrillicFix';
+  src:
+    local('Helvetica Neue'), local('Segoe UI'), local('Roboto'),
+    local('DejaVu Sans'), local('Arial');
+  unicode-range:
+    U+0400-04FF, U+0500-052F, U+2DE0-2DFF, U+A640-A69F, U+1C80-1C8F;
+}
+@font-face {
+  font-family: 'CyrillicFixSerif';
+  src:
+    local('Georgia'), local('Times New Roman'), local('DejaVu Serif'),
+    local('Liberation Serif');
+  unicode-range:
+    U+0400-04FF, U+0500-052F, U+2DE0-2DFF, U+A640-A69F, U+1C80-1C8F;
+}
+
+/* 未來多一個西里爾語系（uk / bg / sr…）只要加進這個 :is() 清單 */
+html:is([lang='ru'], [lang='uk'], [lang='bg'], [lang='sr']).jf-active
+  :is(h1, h2, h3, h4, h5, h6, nav, button, main p, main li, main td) {
+  font-family:
+    'CyrillicFix', 'jf-lanyanghei', 'jf-jinxuanlatte', 'Noto Sans TC',
+    sans-serif;
+}
+html:is([lang='ru'], [lang='uk'], [lang='bg'], [lang='sr']).jf-active
+  :is(.hero-title, main blockquote) {
+  font-family:
+    'CyrillicFixSerif', 'rixingsong-semibold', 'jf-lanyangming',
+    'Noto Serif TC', serif;
+}
+html:is([lang='ru'], [lang='uk'], [lang='bg'], [lang='sr']).jf-active
+  .prose
+  :is(h1, h2, h3, h4, h5, h6) {
+  font-family: 'CyrillicFix', 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+}
+
+/* ==========================================================================
  * Global @keyframes — animation names that need to be referenced from
  * inline `animation: var(--anim) ...` rules (which can't resolve inside
  * Tailwind arbitrary utilities unless the keyframes live at a global

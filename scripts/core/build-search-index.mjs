@@ -38,6 +38,11 @@ const CATEGORY_MAP = {
   society: 'Society',
   economy: 'Economy',
   lifestyle: 'Lifestyle',
+  // 2026-08-18 哲宇 directive「搜尋索引納入 about」：About 類（緣起故事／
+  // Taiwan.md 寫 Taiwan.md／文章如何誕生／創作者長文…）之前整個資料夾不進
+  // 索引，站內搜「珊瑚礁」「晶種」找不到自己是怎麼來的。URL 走 /about/<slug>，
+  // client 只拿 u 當 href，不依 category 分流，加這一列零副作用。
+  about: 'About',
 };
 
 // ── CJK bigram tokenizer ──

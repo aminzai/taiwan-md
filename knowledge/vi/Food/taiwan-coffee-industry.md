@@ -40,7 +40,7 @@ Nhưng con số kỳ lạ khiến người ta tò mò không thể nhậm ngậm
 
 Năm 1911, các chuyên gia của Bộ Tác Địa Nhật Bản, Tadao Anjō, đã ghi chép chi tiết về quá trình chuyên nghiệp hóa canh tác cà phê tại Đài Loan trong "Báo cáo Vườn Trồng Cây Hằng Nước Nhiệt Đới". Đây không phải là các thí nghiệm nông nghiệp ngẫu nhiên — người Nhật thực hiện các phép đo lường hệ thống về đất đai, lượng mưa, ánh sáng mặt trời và độ dốc tại các khu vực như Đảo Chang, Chi Binh, Cổ Khe Hạ Bông, và đồng bằng Trường Giang ở tỉnh Hạ Long, xây dựng các điểm canh tác theo kế hoạch.
 
-Năm 1938, ngành cà phê Đài Loan đạt đỉnh cao lịch sử. Từ tỉnh Bắc Kinh đến thành phố Kinh Hải, thậm chí cả vùng Đông Bắc cũng có các vườn cà phê, thị xã Dau Lu có ** nhà máy xử lý cà phê lớn nhất châu Á**. Quy mô này khiến người ta phải suy nghĩ lại: sự sụt giảm của ngành cà phê Đài Loan có phải do không phù hợp để trồng trọt không phải chỉ vì thế?
+Năm 1938, ngành cà phê Đài Loan đạt đỉnh cao lịch sử. Từ tỉnh Bắc Kinh đến thành phố Kinh Hải, thậm chí cả vùng Đông Bắc cũng có các vườn cà phê, thị xã Dau Lu có **nhà máy xử lý cà phê lớn nhất châu Á**. Quy mô này khiến người ta phải suy nghĩ lại: sự sụt giảm của ngành cà phê Đài Loan có phải do không phù hợp để trồng trọt không phải chỉ vì thế?
 
 > **⚠️ Góc đối mâu**  
 > Về thời gian nhập khẩu cà pheyến nước, có hai quan điểm trong học thuật: James W. Davidson ghi nhận việc nhập khẩu từ San Francisco vào năm 1881 và Tadao Anjō ghi nhận việc nhập khẩu từ Manila vào năm 1884. Hai thời điểm cách nhau 3 năm, phản ánh tính không đầy đủ của các hồ sơ ban đầu.
@@ -80,7 +80,7 @@ Ngày 28 tháng 8, buổi auction trực tuyến của các lô giành thưởng
 
 ## Hiện Tượng Ngư Tế Lân: Cách Một Chiến Thắng Thay Đổi Hệ Sinh Thái Ngành Công Nghiệp
 
-Vào tháng 6 năm 2016, Ngư Tế Lân của Simple Kaffa ở thủ đô Đài Loan đã chiếm giải thưởng chương trình hoàng kim thế giới về cà phê tại Dublin, Ireland, trở thành ** người đầu tiên châu Á**. Sức mạnh của chiến thắng này vượt xa thành tựu của một người hoặc một quán hàng.
+Vào tháng 6 năm 2016, Ngư Tế Lân của Simple Kaffa ở thủ đô Đài Loan đã chiếm giải thưởng chương trình hoàng kim thế giới về cà phê tại Dublin, Ireland, trở thành **người đầu tiên châu Á**. Sức mạnh của chiến thắng này vượt xa thành tựu của một người hoặc một quán hàng.
 
 Công thức chiến thắng của Ngư Tế Lân rất thú vị: **hạt cà phê Artisan Panama + công nghệ pha chế của Đài Loan + cách trình bày sáng tạo**. Ông chứng minh một điều: một chiếc cà phê tốt có thể khiến hạt cà phê tốt khai thác tối đa 120% khả năng. Ý tưởng này thay đổi hoàn toàn tư duy về ngành cà phê Đài Loan: từ "trồng tốt" chuyển sang "pha chế tốt".
 
@@ -151,7 +151,7 @@ Bước tiếp theo của ngành cà phê Đàiloan sẽ là gì?
 
 **Xuất khẩu công nghệ** đang diễn ra. Công nghệ rang xay, phương pháp pha chế của Đàiloan đang xuất khẩu sang Đông Nam Á và Trung Quốc. Loại "sức mạnh mềm" này có thể đem lại giá trị hơn xuất khẩu sản phẩm.
 
-**Đổi mới văn hóa** có tiềm năng lớn hơn. Văn hóa cà phê độc đáo của Đàiloan — kết hợp sự tinh tế của Nhật Bản, tiện lợi của phương Tây, và sự thoáng thoáng của châu Âu — đang tạo nên phong cách riêng. ** "Văn hóa cà phê Đàiloan" có thể trở thành nội dung quan trọng của văn hóa xuất khẩu trong tương lai**.
+**Đổi mới văn hóa** có tiềm năng lớn hơn. Văn hóa cà phê độc đáo của Đàiloan — kết hợp sự tinh tế của Nhật Bản, tiện lợi của phương Tây, và sự thoáng thoáng của châu Âu — đang tạo nên phong cách riêng. **"Văn hóa cà phê Đàiloan" có thể trở thành nội dung quan trọng của văn hóa xuất khẩu trong tương lai**.
 
 **Nâng cấp ngành công nghiệp** vẫn có không gian. Từ tiêu thụ nhập khẩu đơn thuần, đến công nghệ đổi mới, thương hiệu xuất khẩu, ngành cà phê Đàiloan vẫn còn nhiều con đường để đi. Chìa khóa là cách cân bằng giữa "kinh tế quy mô" và "chất lượng cao".
 

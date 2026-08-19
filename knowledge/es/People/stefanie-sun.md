@@ -52,7 +52,7 @@ El productor de esta canción, Lee Shih Shiong, se inspiró en la canción infan
 
 En su primera semana vendió 30 000 copias, superó las 300 000 a finales de julio y alcanzó finalmente las 330 000, coronándose campeona de ventas anual en Taiwán en 2000. Al año siguiente, su segundo álbum vendió 380 000 copias y revalidó el título.[^7]
 
-El Taiwán de 2000 acababa de superar el trauma del terremoto del 21 de septiembre y la ansiedad de la profecia del error del milenio. Ese mismo año, [[Jay Chou]] debutó, y «Ai Qing Wansui» (Larga vida al amor) de Mayday se convirtió en el himno de una generación. Stefanie Sun, como foránea, se incrustó en la memoria auditiva de aquel inicio de siglo con una canción adaptada de una rima infantil en hokkien.
+El Taiwán de 2000 acababa de superar el trauma del terremoto del 21 de septiembre y la ansiedad de la profecia del error del milenio. Ese mismo año, [Jay Chou](/es/people/jay-chou/) debutó, y «Ai Qing Wansui» (Larga vida al amor) de Mayday se convirtió en el himno de una generación. Stefanie Sun, como foránea, se incrustó en la memoria auditiva de aquel inicio de siglo con una canción adaptada de una rima infantil en hokkien.
 
 > **📝 Nota del curador**
 > La voz de Stefanie Sun tiene una textura particular: ligeramente rasposa, combinada con una fluidez que no parece forzada. En un mercado de música pop en chino que depende en gran medida de la exhibición técnica, ella es conocida por su "facilidad aparente". Detrás de esa "facilidad" hay más de una década de formación pianística y un juicio estético que elige no sobreactuar.
@@ -89,7 +89,7 @@ Fue la primera cantante en la historia de los Premios Golden Melody en ganar tan
 
 Ese mismo año lanzó _Yi Mei De Yi Tian_ (Un día perfecto), fusionando rock, música electrónica y lounge, expandiendo claramente su territorio musical y saliendo del encasillamiento de "cantante de baladas".
 
-> \*\*💡 ¿Sabías que...?
+> **💡 ¿Sabías que...?**
 > La inspiración para «Tian Hei Hei» proviene de «Tian Wu Wu», una antigua canción infantil que se transmite en las regiones de hokkien y describe una tormenta inminente. La canción de debut que Lee Shih Shiong compuso a partir de ella lleva una tensión latente: las buenas cosas no siempre llegan en paz.
 
 ## Los siete años de silencio

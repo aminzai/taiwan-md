@@ -1,16 +1,16 @@
 ---
 // SectionActivity — 🔔 Recent Activity section (#activity). Ids/classes are a
 // contract with src/scripts/dashboard-client.js and src/styles/dashboard/ — do not rename.
-import { getLangFromUrl } from '../../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
-const isEn = lang === 'en';
+const t = useTranslations(lang);
 ---
 
 <!-- Recent Activity -->
 <section class="section" id="activity">
   <h2 class="section-title">
-    {isEn ? '🔔 Recent Activity' : '🔔 最近活動'}
+    {t('dashboard.activity.title')}
     <span class="section-timestamp" data-source="articles"></span>
   </h2>
   <div class="activity-feed" id="activity-feed"></div>

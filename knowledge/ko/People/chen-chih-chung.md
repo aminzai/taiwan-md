@@ -5,7 +5,7 @@ date: 2026-05-04
 category: 'People'
 tags: ['정치인', '사법 논쟁', '천수볜', '가오슝', 'Threads']
 subcategory: '政治與民主'
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false

@@ -54,6 +54,34 @@ const url =
     --twmd-fb-accent: #1a3c34;
     --twmd-fb-accent2: #2563eb;
   }
+  /* ── UI chrome 字體固定走系統 stack（issue #1316）──
+   *
+   * justfont SDK（Layout.astro `_setFont` config）對 `button` 做 site-wide
+   * 注入：runtime 在 <head> 尾端 append 一個 unlayered <style>，規則形如
+   * `.jf-active button { font-family: jf-lanyanghei }`（單一字名、無 fallback
+   * chain；注入形式見 global.css §.hero-title override 註解）。widget 的
+   * fab／chip／送出 都是 <button>，全被打中；而 jf-lanyanghei 走 dynamic
+   * subsetting，授權網域設定不完整時（#1184）只載到部分字元 → 「送出」的
+   * 「送」「出」兩個字各落在不同字體的逐字分裂。
+   *
+   * Widget 是 UI chrome，本來就不該吃 justfont 展示字型 → 明確指定站上
+   * 標準介面字 token --font-interface（tokens.css，含 ja/ko per-language
+   * override，#1306）。
+   *
+   * Specificity 論證（SDK 注入是 unlayered 且 runtime append 在所有靜態
+   * stylesheet 之後 = 平手時 SDK 贏，所以必須嚴格勝出，不能靠 source order）：
+   *   - SDK：`.jf-active button`                    (0,0,1,1)
+   *   - 本規則：`#twmd-feedback *`                  (1,0,0,0) ← ID 恆勝
+   *   - selpill 掛在 document.body、不在 root 內，另給
+   *     `html body button.twmd-fb-selpill`          (0,0,1,3) ← 也勝
+   */
+  #twmd-feedback,
+  #twmd-feedback * {
+    font-family: var(--font-interface, 'Noto Sans TC', sans-serif);
+  }
+  html body button.twmd-fb-selpill {
+    font-family: var(--font-interface, 'Noto Sans TC', sans-serif);
+  }
   .twmd-fb-fab {
     position: fixed;
     left: 1rem;
@@ -102,12 +130,9 @@ const url =
     border: 1px solid rgba(26, 60, 52, 0.14);
     border-radius: 14px;
     box-shadow: 0 16px 48px rgba(0, 0, 0, 0.22);
-    font-family:
-      'Inter',
-      system-ui,
-      -apple-system,
-      'Noto Sans TC',
-      sans-serif;
+    /* 與上方 #1316 規則同 token；保留在 panel 層自我文件化（ad-hoc 'Inter'
+       stack 已移除，統一走站上 --font-interface）。 */
+    font-family: var(--font-interface, 'Noto Sans TC', sans-serif);
     color: #1f2937;
   }
   .twmd-fb-head {

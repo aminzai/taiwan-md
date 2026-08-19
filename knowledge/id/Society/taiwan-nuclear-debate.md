@@ -213,7 +213,7 @@ Tahun itu November, pemerintah umumkan skema kompensasi mundur: 2,55 miliar seka
 
 > **✦** Kalimat Lanyu "kita tidak ambil satu sen pun", adalah suara **paling patut didengar, paling sering terlewat** seluruh debat nuklir. Ia ngingetin: biaya nuklir **tak cuma di tagihan listrik**. Saat kedua kubu hitung "per kWh berapa", "kurangi karbon berapa ton", ada biaya satu, dibayar segolongan orang **tak punya kursi meja keputusan**, pakai empat puluh tahun tanah dan martabat diam bayar.
 
-![Perkampungan tradisional suku Tao Lanyu. Tempat simpan limbah rendah 1982 di sini, janji pindah lompat sampai sekarang. Gambar rumah bawah tanah Tao, **bukan** tempat simpan sendiri.](/article-images/society/lanyu-tao-underground-house.webp)
+![Perkampungan tradisional suku Tao Lanyu. Tempat simpan limbah rendah 1982 di sini, janji pindah lompat sampai sekarang. Gambar rumah bawah tanah Tao, bukan tempat simpan sendiri.](/article-images/society/lanyu-tao-underground-house.webp)
 
 ## Napas Bertahan Sepuluh Hari, Uranium Bertahan Sembilan Belas Bulan
 

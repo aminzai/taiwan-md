@@ -1,14 +1,14 @@
 ---
-title: 'Showba: The King of Taiwan''s Groceries, a 30-Year Journey from Seafood Stall to "Parent''s Lifesaver" Under Midnight Lights'
-description: 'Starting in Tainan''s Xiaobei Night Market in 1994, Showba (小北百貨) transformed from a failing seafood shop into a hardware retail leader with over 190 stores across Taiwan by leveraging a "24-hour operation" and a strategy of "selling what others won''t."'
+title: 'Xiao Bei Department Store: Taiwan''s Grocery King in the Late-Night Lights, from a Seafood Stall to a "Parent''s Savior" Over Three Decades'
+description: 'Founded in 1994 at Tainan''s Xiao Bei Night Market, Xiao Bei Department Store leveraged a "24-hour operation" and a "sell what others won''t" strategy to transform from a near-bankrupt seafood shop into a hardware retail leader with over 190 stores island-wide. It is a late-night savior for parents, a supply station for migrant workers'' nostalgia, and Taiwan''s retail sector''s most resilient survival miracle.'
 date: 2026-07-25
 category: 'Lifestyle'
 tags:
   [
     'Retail',
     'Tainan',
-    'Entrepreneurship',
-    'Hardware Store',
+    'Entrepreneurship Story',
+    'Hardware Department Store',
     'Digital Transformation',
   ]
 subcategory: '城市生活'
@@ -17,75 +17,76 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Lifestyle/小北百貨.md'
-sourceCommitSha: '08a8c5ec8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:93955fe44e7691af'
 sourceBodyHash: 'sha256:08eacf8247ffcb10'
-translatedAt: '2026-07-27T22:12:14+08:00'
+translatedAt: '2026-08-10T01:58:13+08:00'
 ---
 
-> **30-Second Overview:** In 1994, due to poor management at a seafood stall in Tainan's Xiaobei Night Market, founder Huang Pu-wen decided to invest his remaining 1 million TWD to renovate it into a hardware and grocery store. Following a chance encounter where a customer knocked on the door late at night seeking help, Showba pioneered Taiwan's first 24-hour hardware retail model. Rather than pursuing modern retail "sales per square foot," the store insists on retaining low-turnover, niche items—ranging from professional plumbing parts to cassette tapes. Today, under second-generation leadership, Showba is navigating the growing pains and rebirth of digital transformation, attempting to preserve its "human-centric convenience" in the era of e-commerce.
+> **Thirty-Second Overview:** In 1994, a seafood shop at Tainan's Xiao Bei Night Market was struggling to stay afloat. Founder Huang Pu-wen decided to invest the remaining 1 million NTD to convert it into a hardware and grocery store. A chance encounter with a customer seeking help late at night led Xiao Bei to pioneer Taiwan's first 24-hour hardware retail model. Rather than pursuing the modern retail metric of "sales per square meter," the store insisted on keeping low-turnover niche items, ranging from professional plumbing parts to audio cassettes. Today, under second-generation management, Xiao Bei is undergoing the growing pains and rebirth of digital transformation, striving to preserve that "human-touch convenience" in the e-commerce era.
 
-### From Seafood Stir-fry to Hardware Giant: A Grand Transformation
+### From Seafood Stir-fry to Hardware Department Store: A Glamorous Turnaround
 
-In the 1990s, Tainan's Xiaobei Night Market was a hub of food and crowds. At the time, Huang Pu-wen (黃卜文), who had suffered from polio, operated a seafood stir-fry restaurant with his brothers. Although business once flourished, intensifying competition in the dining market led to declining profits[^1](#user-content-fnref-1). In 1994, facing the greatest crisis of his entrepreneurial career, Huang decided to close the seafood shop and invest his remaining 1 million TWD into erecting a simple stall on the same site. He pivoted to selling affordable hardware and groceries, retaining the night market's name: "Showba" (小北百貨) [^2](#user-content-fnref-2).
+In the 1990s, Tainan's Xiao Bei Night Market was a hub of food and crowds. Huang Pu-wen, who suffered from polio, and his family brothers ran a seafood stir-fry shop there. Although business was once booming, profits gradually declined as competition in the dining market intensified [1](#user-content-fn-1). In 1994, Huang faced the biggest crisis of his entrepreneurial life. He decided to close the seafood shop, invest the remaining 1 million NTD in capital, set up a simple shed on the same spot, and switch to selling affordable hardware and groceries. He kept the night market's name, naming it "Xiao Bei Department Store" [2](#user-content-fn-2).
 
-The early days of the transition were difficult; Huang once suffered losses of up to 500,000 TWD due to theft. To protect his life's work, he decided to sleep directly in the store. One late night, an urgent knocking woke him from a deep sleep—a customer desperately needed daily necessities. This experience of "opening late at night" sparked an epiphany for Huang: if convenience stores can operate 24 hours a day, why can't hardware stores?[^3](#user-content-fnref-3) His brother, Huang Yi-hung (黃義弘), later recalled this secret to success with a tone that was casual yet resolute:
+The early days of the transition were not easy. Huang encountered theft, losing goods worth up to 500,000 NTD. To protect his hard work, he decided to sleep directly inside the store. One late night, a series of urgent knocks on the door woke him from his sleep. It turned out a customer urgently needed to buy daily necessities. This experience of "opening the door late at night" gave Huang a flash of inspiration: If convenience stores can operate 24 hours, why not hardware and grocery stores? [3](#user-content-fn-3) Huang's younger brother, Huang Yi-hung, later recalled this secret to success with a calm demeanor that hid a fierce determination:
 
-> "Because we always do the things others don't want to do, sell the things others don't want to sell, and retain the talent that others cannot keep!"[^4](#user-content-fnref-6)
+> "Because we always do what others don't want to do, sell what others don't want to sell, and keep talent that others can't retain!" [4](#user-content-fn-6)
 
-📝 **Curator's Note:** Showba's success did not stem from sophisticated big data predictions, but from an entrepreneur's intuitive response to human needs in the face of adversity.
+📝 Curator's Note: Xiao Bei's success did not come from precise big-data predictions, but from a founder's intuitive response to people's needs in adversity.
 
-### The 24-Hour "Parent's Lifesaver"
+### The "Parent's Savior" That Never Closes for 24 Hours
 
-On Taiwanese social media platforms, Showba is most frequently referred to as the "Parent's Lifesaver." Many parents share similar experiences: late at night, a child suddenly remembers they need colored paper, a recorder, or a jump rope for tomorrow's art class; with most stores already closed, the brightly lit Showba becomes their only hope[^5](#user-content-fnref-9). This social function of "emergency relief" has established a profound emotional connection between Showba and the Taiwanese retail market[^6](#user-content-fnref-4).
+On Taiwan's social media platforms, Xiao Bei Department Store is most frequently referred to as the "Parent's Savior." Many parents have had similar experiences: late at night, a child suddenly remembers they need colored paper, a recorder, or a jump rope for art class the next day. With most shops already closed, the brightly lit Xiao Bei Department Store becomes the only hope [5](#user-content-fn-9). This "emergency relief" social function has allowed Xiao Bei to build a strong emotional connection in Taiwan's retail market [6](#user-content-fn-4).
 
-Showba's display philosophy runs counter to the "sales per square foot" efficiency pursued by modern convenience stores. They insist on "selling what others won't," even if it means stocking low-turnover, niche items that might only sell a few times a year—such as cassette tapes, specialized toilet fittings, fisherman's aprons, or even rice sieves used in traditional wedding rituals[^7](#user-content-fnref-5). Store managers know these obscure goods intimately; if a customer asks for the _mǎ-da_ (罵瘩, a dialect term for a baseball bat), staff can immediately pinpoint its exact floor and aisle[^7](#user-content-fnref-5).
+Xiao Bei's display philosophy runs counter to the "sales per square meter" pursued by modern convenience stores. They insist on "selling what others won't sell." Even for low-turnover, niche items that might sell only a few times a year—such as audio cassettes, special specification toilet parts, fisherman's aprons, or even rice sieves used for wedding ceremonies—the store always keeps inventory [7](#user-content-fn-5). Store managers know these niche items by heart. When a customer asks for the Taiwanese Hokkien pronunciation of "ma-dah" (baseball bat), the staff can immediately point out exactly which floor and aisle it is located on [7](#user-content-fn-5).
 
-| Category                  | Representative Niche Items                                                  | Social Function                                        |
-| :------------------------ | :-------------------------------------------------------------------------- | :----------------------------------------------------- |
-| **Stationery & Crafts**   | Recorders, jump ropes, colored paper, protest placards                      | Resolving "due tomorrow" student crises                |
-| **Professional Hardware** | Specialized toilet fittings, curved laundry brushes, clay oven chicken bags | Meeting plumbing repair and traditional cooking needs  |
-| **General Groceries**     | Cassette tapes, rice sieves, 9-TWD plastic raincoats                        | Serving the elderly and preserving traditional customs |
+| Category                  | Representative Niche Products                                             | Social Function                                      |
+| ------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Stationery & Arts**     | Recorders, jump ropes, colored paper, large posters                       | Solves students' "due tomorrow" crises               |
+| **Professional Hardware** | Special-spec toilet parts, curved laundry brushes, clay oven chicken bags | Meets plumbing repair and traditional cooking needs  |
+| **Daily Groceries**       | Audio cassettes, rice sieves, 9-NTD plastic raincoats                     | Serves the elderly and preserves traditional customs |
 
-### Decision-Making Where You Can Hear the Cannon Fire
+### Let Those Who Hear the Cannons Make Decisions
 
-Unlike many chain systems that rely heavily on centralized management, Showba grants its store managers immense authority. At Showba, over 90% of staff are full-time employees, and most managers are veteran staff members who even hold shares in their respective stores[^4](#user-content-fnref-6). During his lifetime, Huang Pu-wen had a unique method for selecting talent: he would place an extra 1,000 TWD in an employee's pay envelope to test whether they would proactively return it, using this to identify honest and trustworthy managers[^3](#user-content-fnref-3).
+Unlike many chain systems that rely heavily on centralized management, Xiao Bei Department Store grants store managers significant authority. At Xiao Bei, the proportion of full-time employees exceeds 90 percent, and store managers are mostly senior employees, some of whom even hold shares in the stores [4](#user-content-fn-6). Huang Pu-wen had a unique standard for selecting talent during his lifetime: he would place an extra 1,000 NTD in the payroll envelope to test if the employee would voluntarily return it, thereby selecting honest and trustworthy cadres [3](#user-content-fn-3).
 
-This "people-oriented" management style is reflected in the differentiated operations of each store. For example, branches near industrial zones specifically increase stock of the heavy, scented shampoos preferred by migrant workers; meanwhile, branches near schools place stationery and craft tools in the most prominent positions. Even the tradition of "water carrying service" (helping customers carry heavy crates of water to their cars), despite being a physical burden on staff, is regarded as an unshakeable part of the corporate spirit[^8](#user-content-fnref-15).
+This "people-centric" management style is reflected in the differentiated operations of each store. For example, stores near industrial zones specifically stock up on strong-scented shampoo and detergent preferred by foreign laborers; stores near school districts place stationery and arts tools in the most prominent positions. Even the "water carrying service" (helping customers carry cases of water to their cars), which places a heavier burden on employees, is viewed as an unshakable corporate spirit [8](#user-content-fn-15).
 
-### The Second Generation's Digital Growing Pains and Vision
+### The Young General's Digital Growing Pains and Vision
 
-In 2017, founder Huang Pu-wen passed away suddenly from a myocardial infarction at the age of 54[^9](#user-content-fnref-7). The following year, his successor, Huang Jian-tang (黃健瑭), took over as General Manager at the age of 28, embarking on the digitalization of this traditional hardware business. This was a "leveling up" challenge: Showba bypassed physical membership cards to directly implement a digital App membership system, which has now surpassed 1.5 million members[^6](#user_content-fnref-4)[^10](#user-content-fnref-16).
+In 2017, founder Huang Pu-wen died suddenly of a myocardial infarction at the age of 54 [9](#user-content-fn-7). The following year, Huang Jian-tang took over as general manager at the age of 28, launching the digitalization journey of this traditional hardware store. This was a challenge of "leveling up": Xiao Bei skipped physical membership cards and directly promoted a digital App membership system, with the number of members now exceeding 1.5 million [6](#user-content-fn-4)[10](#user-content-fn-16).
 
-However, the greatest challenge of succession lay not in the technology, but in communicating with the older generation. Huang Jian-tang once stated bluntly:
+However, the biggest challenge of succession was not the system, but communication with the older generation. Huang Jian-tang stated frankly:
 
-> "90% of my uncle's judgments were correct, which is why we are where we are today, but times have changed."[^8](#user-content-fnref-15)
+> "Uncle was right 90% of the time, which is why we are here today, but the times are different now." [8](#user-content-fn-15)
 
-Facing competition from Poya (寶雅) launching its "Poya Home" (寶家) brand, Huang Jian-tang has simultaneously invested 1 billion TWD in building a smart logistics center in Hukou, Hsinchu, while insisting on retaining those "unprofitable but service-oriented" items. He refused to imitate competitors by canceling bagging services, believing that when others sacrifice service for efficiency, Showba's "doing a little extra" becomes its strongest competitive differentiator[^8](#user-content-fnref-15).
+Facing the challenge from Poya's establishment of the "Poya Family" membership, Huang Jian-tang invested 1 billion NTD in building a smart logistics center in Hukou, Hsinchu, while insisting on keeping those "unprofitable but people-serving" items. He refused to imitate competitors by canceling bagging services, believing that when others pursue efficiency at the expense of service, Xiao Bei's "doing a little more" becomes its strongest differentiated competitive advantage [8](#user-content-fn-15).
 
-📝 **Curator's Note:** While contemporary retail discusses AI and automation, Showba proves in the most "down-to-earth" way: as long as you can solve someone else's urgent problem, you become irreplaceable.
+📝 Curator's Note: Contemporary retail talks about AI and automation, but Xiao Bei proves with its "most rustic" approach that as long as you can solve others' emergencies, you are irreplaceable.
 
 ### References
 
 ## Footnotes
 
-1. [Showba - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8) [↩](#user-content-fnref-1)
+1. [Xiao Bei Department Store - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8) [↩](#user-content-fnref-1)
 
-1. [About the Establishment of Showba Charity Foundation](https://www.showba.com.tw/foundation_page) [↩](#user-content-fnref-2)
+1. [About the Establishment of the Xiao Bei Charity Foundation](https://www.showba.com.tw/foundation_page) [↩](#user-content-fnref-2)
 
-1. [Small Goods, Big Impact: The Legend of Showba's Rise - Wealth Magazine](https://www.wealth.com.tw/articles/9d879a6c-6ea8-40fd-b4ec-93a2e95675e2) [↩](#user-content-fnref-3) [↩2](#user-content-fnref-3-2)
+1. [Small Commodities Do Great Deeds: The Legendary Origin of Xiao Bei Department Store - Financial Digest Biweekly](https://www.wealth.com.tw/articles/9d879a6c-6ea8-40fd-b4ec-93a2e95675e2) [↩](#user-content-fnref-3) [↩2](#user-content-fnref-3-2)
 
-1. ["Only taking the business others won't do" — Passing of Showba Founder Huang Pu-wen - The News Lens](https://www.thenewslens.com/article/81726) [↩](#user-content-fnref-6) [↩2](#user-content-fnref-6-2)
+1. ["Only Picking Up Business Others Refuse to Do" — Founder of Xiao Bei Department Store Huang Pu-wen Passes Away - The News Lens Key Comment](https://www.thenewslens.com/article/81726) [↩](#user-content-fnref-6) [↩2](#user-content-fnref-6-2)
 
-1. [Showba's "Top 10 Best-Selling Products" Released! Japanese Customers Sweep Up 2 Items - LINE TODAY](https://today.line.me/tw/v3/article/JPqO0Ox) [↩](#user-content-fnref-9)
+1. [Xiao Bei Department Store "Top 10 Best-Selling Products" Revealed! Japanese Tourists Sweep Up 2 Items - LINE TODAY](https://today.line.me/tw/v3/article/JPqO0Ox) [↩](#user-content-fnref-9)
 
-1. [From Hardware Store to the "Taiwanese version of Don Quijote": What is Showba's secret strength? - Manager Magazine](https://www.managertoday.com.tw/articles/view/70262) [↩](#user-content-fnref-4) [↩2](#user-content-fnref-4-2)
+1. [From Hardware Store to "Taiwanese Don Quixote," What Is Xiao Bei's Confidence? - Manager Magazine](https://www.managertoday.com.tw/articles/view/70262) [↩](#user-content-fnref-4) [↩2](#user-content-fnref-4-2)
 
-1. [The Legend of the King of Taiwan's Groceries - Business Weekly](https://www.businessweekly.com.tw/business/indep/38576) [↩](#user-content-fnref-5) [↩2](#user_content-fnref-5-2)
+1. [The Legend of Taiwan's Grocery King - Commercial Weekly](https://www.businessweekly.com.tw/business/indep/38576) [↩](#user-content-fnref-5) [↩2](#user-content-fnref-5-2)
 
-1. [Showba's Young General: Huang Jian-tang expands the "Sell Everything" spirit - Economic Daily News](https://money.udn.com/money/story/123622/9074721) [↩](#user-content-fnref-15) [↩2](#user-content-fnref-15-2) [↩3](#user-content-fnref-15-3)
+1. [Xiao Bei's Young General Huang Jian-tang Carries Forward the Spirit of "Selling Everything" - Economic Daily](https://money.udn.com/money/story/123622/9074721) [↩](#user-content-fnref-15) [↩2](#user-content-fnref-15-2) [↩3](#user-content-fnref-15-3)
 
-1. [News of Showba Founder's Sudden Death at age 54 - Yahoo News Taiwan](https://tw.news.yahoo.com/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%A9%9A%E5%82%B3%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%B9%B454%E6%AD%B2-070814253.html) [↩](#user-content-fnref-7)
+1. [Xiao Bei Founder Dies Suddenly at Age 54 - Yahoo奇mo News](https://tw.news.yahoo.com/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%A9%9A%E5%82%B3%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%B9%B454%E6%AD%B2-070814253.html) [↩](#user-content-fnref-7)
 
-1. [Showba grows against the tide during the pandemic, expanding physical retail through digitalization - Sun Rise Medium](https://sunrisemedium.com/p/53/showba-digital-transformation) [↩](#user-content-fnref-16)
+1. [Xiao Bei Grows Against the Trend During the Pandemic, Expanding Physical Retail Lines Through Digitalization - Xu Times](https://sunrisemedium.com/p/53/showba-digital-transformation) [↩](#user-content-fnref-16)

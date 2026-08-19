@@ -1,4 +1,8 @@
-"""Regression tests for the Prettier italic-caption URL mangle healer."""
+"""Regression tests for the link-URL corruption healer.
+
+Two families: Prettier italic-caption mangling, and stray whitespace left
+inside link destinations by generation tools (2026-08-15 contributor batch).
+"""
 
 from pathlib import Path
 
@@ -100,3 +104,71 @@ def test_fix_dry_run_does_not_write(tmp_path):
 
     assert link_url_mangle.fix(target, {"dry_run": True}) == 1
     assert path.read_text(encoding="utf-8") == before
+
+
+# ── whitespace inside link destinations (2026-08-15) ──────────────────────────
+# One space before `)` per link, produced by whatever generated the article.
+# The link still resolves, so nothing renders wrong — but footnote-format then
+# reports every affected footnote as its own "格式不合規範", turning a single
+# upstream defect into hundreds of unrelated-looking errors.
+
+
+def test_flags_and_fixes_trailing_space_in_footnote_url(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "[^1]: [原民會：噶瑪蘭族](https://www.cip.gov.tw/zh-tw/tribe/info.html?cumid ) — 政府官方族群介紹。",
+    )
+
+    assert len(list(link_url_mangle.check(target, {}))) == 1
+    assert link_url_mangle.fix(target, {}) == 1
+
+    healed = path.read_text(encoding="utf-8")
+    assert "info.html?cumid) — 政府官方族群介紹。" in healed
+    assert len(list(link_url_mangle.check(load_target(path), {}))) == 0
+
+
+def test_fixes_trailing_space_in_image_url(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "![蘭陽平原遺址分布。](https://www.lym.gov.tw/images/20200928-e-kj-122-08.jpg )",
+    )
+
+    assert link_url_mangle.fix(target, {}) == 1
+    assert "122-08.jpg)" in path.read_text(encoding="utf-8")
+
+
+def test_counts_every_whitespace_link_on_one_line(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "See [a](https://a.example/x ) and [b](https://b.example/y ).",
+    )
+
+    # Reported once per line, but every link is repaired.
+    assert len(list(link_url_mangle.check(target, {}))) == 1
+    assert link_url_mangle.fix(target, {}) == 2
+
+    healed = path.read_text(encoding="utf-8")
+    assert "[a](https://a.example/x)" in healed
+    assert "[b](https://b.example/y)" in healed
+
+
+def test_leaves_clean_urls_untouched(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "[^1]: [乾淨的來源](https://example.com/a?b=c) — 沒有多餘空白。",
+    )
+
+    assert len(list(link_url_mangle.check(target, {}))) == 0
+    assert link_url_mangle.fix(target, {}) == 0
+
+
+def test_respects_angle_bracket_destination(tmp_path):
+    """`<…>` is CommonMark's sanctioned way to carry a literal space — leave it."""
+    path, target = _target(
+        tmp_path,
+        "[spec](<https://example.com/a b>)",
+    )
+
+    assert len(list(link_url_mangle.check(target, {}))) == 0
+    assert link_url_mangle.fix(target, {}) == 0
+    assert "<https://example.com/a b>" in path.read_text(encoding="utf-8")

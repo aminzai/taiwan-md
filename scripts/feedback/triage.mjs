@@ -15,6 +15,13 @@
  *   node scripts/feedback/triage.mjs                      # dry-run,讀 Supabase（需 env）
  *   node scripts/feedback/triage.mjs --seed <file.json>   # dry-run,讀 JSON fixture（離線測試）
  *   node scripts/feedback/triage.mjs --commit             # 真的開 issue + 回寫（routine 用）
+ *   node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
+ *                                                        # 同上,但指名跳過某筆（status 不動）
+ *
+ * --exclude 存在的理由：當班判斷某筆不能開成公開 issue（例：指涉具名第三人的指控)時,
+ * 若沒有單筆排除的辦法,唯一走法是整條 --commit 不跑 —— 留言 sync 與 HG12b/HG12c 兩道
+ * 對賬會跟著轉錄那半一起消失（LESSONS `zero-input-cycle-drops-the-reconciliation`）。
+ * 被排除的筆 status 維持 new（留給人類決定怎麼收尾）,且一定印在報表上,不靜默。
  *
  * env（正式跑才需要,放 ~/.taiwanmd-feedback.env 或環境變數）：
  *   SUPABASE_URL, SUPABASE_SERVICE_KEY
@@ -27,6 +34,7 @@ import {
   readdirSync,
 } from 'node:fs';
 import { dirname, join } from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { execFileSync } from 'node:child_process';
 import { triageBatch } from './lib/classify.mjs';
 import {
@@ -42,16 +50,39 @@ const ARCHIVE_ROOT = 'docs/feedback/archive';
 
 const REPO = 'frank890417/taiwan-md';
 
-function parseArgs(argv) {
-  const a = { commit: false, seed: null, limit: 50 };
+export function parseArgs(argv) {
+  const a = { commit: false, seed: null, limit: 50, exclude: [] };
   for (let i = 2; i < argv.length; i++) {
     const v = argv[i];
     if (v === '--commit') a.commit = true;
     else if (v === '--dry-run') a.commit = false;
     else if (v === '--seed') a.seed = argv[++i];
     else if (v === '--limit') a.limit = parseInt(argv[++i], 10) || 50;
+    // 可重複,也接受逗號串（--exclude a,b）。
+    else if (v === '--exclude')
+      a.exclude.push(
+        ...String(argv[++i] || '')
+          .split(',')
+          .map((s) => s.trim())
+          .filter(Boolean),
+      );
   }
   return a;
+}
+
+/**
+ * 把 --exclude 指名的筆從這一輪的轉錄裡拿掉。回傳 { kept, excluded, unmatched }。
+ * unmatched = 指名了但這批裡沒有的 id —— 一定要報出來,否則一個打錯字的 id 會讓當班
+ * 以為攔住了,實際照開（silent default = silent failure,REFLEXES #60）。
+ */
+export function partitionExcluded(rows, excludeIds) {
+  const want = new Set(excludeIds || []);
+  if (want.size === 0) return { kept: rows, excluded: [], unmatched: [] };
+  const kept = [];
+  const excluded = [];
+  for (const r of rows) (want.has(r.id) ? excluded : kept).push(r);
+  const seen = new Set(excluded.map((r) => r.id));
+  return { kept, excluded, unmatched: [...want].filter((id) => !seen.has(id)) };
 }
 
 // ── data source ───────────────────────────────────────────────────────────────
@@ -324,6 +355,21 @@ async function main() {
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
   }
 
+  // --exclude：當班指名不轉錄的筆先拿掉（status 不動),讓保管那半（留言 sync + 兩道對賬）
+  // 不必為了攔一筆而整條停擺。排除永遠印出來,打錯的 id 也印。
+  const part = partitionExcluded(rows, args.exclude);
+  for (const r of part.excluded) {
+    console.log(
+      `  EXCLUDE id=${r.id} · --exclude 指名跳過（status 維持 new,留人類決定收尾）`,
+    );
+  }
+  for (const id of part.unmatched) {
+    console.log(
+      `  ⚠️ --exclude id=${id} 在這批 status=new 裡找不到（沒有攔到任何東西,確認 id 是否打錯）`,
+    );
+  }
+  rows = part.kept;
+
   const existing = args.commit ? listOpenIssues() : [];
   const results = triageBatch(rows, existing);
 
@@ -425,7 +471,9 @@ async function main() {
   }
 
   console.log(
-    `\n[triage] done · file=${summary.file} reject=${summary.reject} skip=${summary.skip} hold=${summary.hold} · ` +
+    `\n[triage] done · file=${summary.file} reject=${summary.reject} skip=${summary.skip} hold=${summary.hold}` +
+      (part.excluded.length ? ` exclude=${part.excluded.length}` : '') +
+      ' · ' +
       (arch
         ? `archive-scanned=${arch.scanned} archive-comments-synced=${arch.synced}`
         : `archive-scan=skipped (dry-run)`),
@@ -435,7 +483,13 @@ async function main() {
   return summary;
 }
 
-main().catch((e) => {
-  console.error('[triage] FATAL:', e.message);
-  process.exit(1);
-});
+// 只有被當指令跑才執行 main；被 test 或其他 script import 時只拿純函式
+// （parseArgs / partitionExcluded），不會順手打 Supabase。
+const invokedDirectly =
+  process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+if (invokedDirectly) {
+  main().catch((e) => {
+    console.error('[triage] FATAL:', e.message);
+    process.exit(1);
+  });
+}

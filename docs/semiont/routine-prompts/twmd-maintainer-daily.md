@@ -53,6 +53,17 @@ bash scripts/tools/routine-status.sh
 - Maintainer-am 08:30 跑時 morning chain (06:00 refresh / 06:30 harvest / 08:00 pick) 已清完所有可動 backlog → vc=7+ 空場是 schedule mismatch 不是 organism healthy
 - 不要用「default-action 反向第 4 種 performative work」自我合理化第 N 次空場
 
+**鐵律（2026-08-11 哲宇 directive）— issue 的 default 是修好，不是分類好**：
+
+> 「maintainer 不只要回覆 issue，而是要協助回應、判斷、評估、研究、落檔，然後執行相關的修正與自我進化或是網站更新，這樣才有意義。」
+
+- **cycle 結束時 issue 只是被分類得更整齊 = 這個 cycle 沒有產出**。加 label / 補交叉參照 / 寫 handoff 都不算解決
+- 五步：**判斷**（重現得出來嗎）→ **評估**（根因在哪一層）→ **研究**（追上游）→ **落檔**→ **執行**（真的改掉）
+- **追上游優先於逐則修**：≥ 2 則指向同一表面 → 先問「這幾則是不是同一個地方破的？那裡為什麼沒有東西在守？」→ 修根因 + 補閘門 + 連帶 close
+- 修完必做：(a) 補上讓它無法安靜復發的閘門 (b) **真的驗證**（UI 改動開瀏覽器看、資料改動對 ground truth）
+- 「評估後決定不修」合法，但要寫明理由；**沉默地沒修不算**
+- 邊界：§自主權邊界 → reserve；改 zh SSOT → 走 REWRITE；對回報者說話 → 人類 gate
+
 真實 backlog 時 act：B 路徑 PR 5 層免疫 → merge or close + comment per `~/.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_reply_to_contributors.md`。Broken-link 超過 gated 閾值（canonical 在 verify-internal-links.sh THRESHOLD_PERCENT，2026-06-10 校準 7%）→ sweep + fix。Build red → diagnose + heal commit。
 
 ---
@@ -69,6 +80,7 @@ Quality gate 6 條：
 | build green | ✅/❌ |
 | BECOME ACK 一行記憶體頂 | ✅/❌ |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry | ✅/❌ |
+| 有 fresh issue 的 cycle 至少一件被修掉或明確寫出為什麼不修 | ✅/❌ |
 
 Handoff 三態必寫（pending / blocked / retired）。
 

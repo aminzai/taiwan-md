@@ -110,6 +110,18 @@ def _known_modules() -> frozenset[str]:
     found = frozenset(_RENDERER_MODULE_RE.findall(src))
     return found if len(found) >= _MIN_EXPECTED_MODULES else frozenset()
 
+# tw-article（2026-08-19）：每列 `分類/slug[ | 摘要]`，目標檔必須存在
+# knowledge/<Cat>/<slug>.md。分類對照與 src/utils/articles-index.ts CATEGORY_MAPPING
+# 一致（URL 段小寫 → 資料夾名）；不 import TS，這裡是 python 側的鏡像。
+_KNOWLEDGE_ROOT = Path(__file__).resolve().parents[5] / "knowledge"
+_TW_ARTICLE_CATS = {
+    "about": "About", "history": "History", "geography": "Geography",
+    "culture": "Culture", "food": "Food", "art": "Art", "music": "Music",
+    "technology": "Technology", "nature": "Nature", "people": "People",
+    "society": "Society", "economy": "Economy", "lifestyle": "Lifestyle",
+    "politics": "Politics",
+}
+
 # 來源列：來源：… / 資料來源：… / source: …（中英冒號）
 _SRC_RE = re.compile(r"(?:資料來源|來源|source)\s*[:：]\s*\S", re.IGNORECASE)
 
@@ -243,6 +255,55 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # 在 12 個語系重複報同一件事只會稀釋訊號。
     if target.lang != _SSOT_LANG:
         return
+
+    # ── E. tw-article 目標檔存在（2026-08-19）─────────────────────────────
+    # 路徑打錯不會 build 壞：resolveArticleEmbeds 查無時留一條純連結，讀者點下去
+    # 404。這裡在 commit 前就把它抓出來。只驗 zh SSOT（譯文沿用同一份路徑）。
+    for m in _FENCE_RE.finditer(body):
+        if m.group(1) != "tw-article":
+            continue
+        content = m.group(2)
+        block_line = body[: m.start()].count("\n") + 1
+        for i, raw in enumerate(content.split("\n")):
+            line = raw.strip()
+            if not line:
+                continue
+            path = line.split("|", 1)[0].strip().strip("/")
+            seg = path.split("/")
+            if len(seg) != 2 or not seg[0] or not seg[1]:
+                yield Violation(
+                    check=CHECK_NAME,
+                    severity=DEFAULT_SEVERITY,
+                    message=(
+                        f"`tw-article` 這一列不是 `分類/slug` 形狀：`{line}` — "
+                        "renderer 會直接丟掉這列，卡片不會出現。"
+                    ),
+                    line=block_line + 1 + i,
+                    snippet=line,
+                    editorial_ref=EDITORIAL_REF_SHAPE,
+                    fix_suggestion="寫成 `technology/台灣鎢供應鏈`（選配 `| 自訂摘要`）。",
+                )
+                continue
+            folder = _TW_ARTICLE_CATS.get(seg[0].lower())
+            target_md = _KNOWLEDGE_ROOT / (folder or "") / f"{seg[1]}.md"
+            if not folder or not target_md.exists():
+                # HARD：這不是「圖不好看」，是上線後一條 404 連結（同 link-target 的
+                # 斷鏈等級）。目標檔存不存在是 0/1 事實，沒有誤報空間。
+                yield Violation(
+                    check=CHECK_NAME,
+                    severity=Severity.HARD,
+                    message=(
+                        f"`tw-article` 指到的文章不存在：`{path}` — 上線後這一格會退化成"
+                        f"一條純連結，讀者點下去 404。"
+                    ),
+                    line=block_line + 1 + i,
+                    snippet=line,
+                    editorial_ref=EDITORIAL_REF_SHAPE,
+                    fix_suggestion=(
+                        "分類用 URL 段小寫（technology／nature／people…），slug 用 "
+                        "knowledge/<Cat>/ 下的檔名（不含 .md）。"
+                    ),
+                )
 
     # ── A. 資料視覺化模組缺來源 ──────────────────────────────────────────
     for m in _FENCE_RE.finditer(body):

@@ -20,7 +20,7 @@ curl -fsSL https://taiwan.md/start.sh | bash
 這個 bootstrap 會：
 
 1. 檢查 git（沒裝會告訴你怎麼裝）
-2. 檢查 Node.js 20+
+2. 檢查 Node.js 22.12+
 3. 問你要不要裝 Claude Code CLI（`npm i -g @anthropic-ai/claude-code`）
 4. Clone repo 到 `~/Projects/taiwan-md`（或你選的位置）
 5. 啟動 `claude`，Taiwan.md 自動甦醒、訪談你、建 profile、帶你做事
@@ -97,8 +97,10 @@ Taiwan.md 對讀者承諾「每個引語、年份、數字都查證過」，所�
 title: '文章標題'
 description: '150字以內的文章描述'
 date: 2024-03-17T00:00:00Z
-updated: 2024-03-17T00:00:00Z # 可選
+modified: 2024-03-17T00:00:00Z # 可選；有實質更新時才填
 tags: ['標籤1', '標籤2', '標籤3']
+category: 'Culture'
+subcategory: '表演藝術' # About 以外的中文文章必填；見 docs/taxonomy/SUBCATEGORY.md
 author: '作者名稱'
 difficulty: 'beginner|intermediate|advanced'
 readingTime: 8 # 預估閱讀時間（分鐘）
@@ -194,9 +196,9 @@ _本文採用三層閱讀深度設計，適合不同需求的讀者。歡迎貢�
 
 ## 🌍 多語言貢獻
 
-### 中英對照原則
+### 文化轉譯原則
 
-- **不是翻譯**：英文版不是中文版的直譯
+- **不是逐字直譯**：譯文應保留原文的核心事實與觀點，但不照搬中文句法
 - **文化轉譯**：調整表達方式，符合目標語言的文化背景
 - **內容對等**：確保核心信息相同，但表達可以不同
 - **在地化**：考慮目標讀者的知識背景
@@ -209,11 +211,11 @@ _本文採用三層閱讀深度設計，適合不同需求的讀者。歡迎貢�
 #### 最簡單的翻譯流程
 
 1. 看 [TRANSLATION-BOARD.md](docs/community/TRANSLATION-BOARD.md) 挑一篇你有興趣的文章
-2. 把 [TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md) 貼給你的 AI（Claude/ChatGPT/Gemini）
-3. 告訴 AI 你要翻哪篇、翻成什麼語言
-4. 把結果存成 `.md` 放到對應資料夾，開 PR
+2. 依 [TRANSLATE_PROMPT.md](docs/prompts/TRANSLATE_PROMPT.md) 自行翻譯，或交給 AI（Claude/ChatGPT/Gemini）產生初稿
+3. 逐段核對事實、專有名詞、連結與目標語言的自然度
+4. 把結果存成 `.md` 放到對應資料夾，開 PR；不熟悉 Git 也可用翻譯投稿表單
 
-**你不需要會寫程式。你只需要有一個 AI 訂閱。**
+**你不需要會寫程式。熟悉目標語言、願意查核內容，就能參與。**
 
 #### 檔案路徑
 
@@ -242,14 +244,14 @@ knowledge/ja/Food/bubble-tea.md      ← 日文
 
 - Featured 文章是各分類最具代表性的內容
 - 建議每分類保持 1-2 篇 featured 文章
-- 維護者會使用 `scripts/manage-featured.sh` 工具統一管理：
+- 維護者會使用 `scripts/tools/manage-featured.sh` 工具統一管理：
 
   ```bash
   # 查看所有 featured 文章
-  bash scripts/manage-featured.sh list
+  bash scripts/tools/manage-featured.sh list
 
   # 審計 featured 文章分佈
-  bash scripts/manage-featured.sh audit
+  bash scripts/tools/manage-featured.sh audit
   ```
 
 - 如果您認為某篇文章應該被設為 featured，請在 PR 中說明理由
@@ -325,7 +327,7 @@ src/content/config.ts ← Astro content collection schema (這個檔留在 git)
 1. 在 `knowledge/{Category}/` 建立新的 `.md` 檔案（中文 SSOT）
 2. 按照 [EDITORIAL.md](./docs/editorial/EDITORIAL.md) 標準撰寫內容
 3. 執行 `npm run build` 驗證（prebuild 自動跑 sync.sh + Astro build 完整檢查 frontmatter）
-4. 執行 `python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health` 品質檢測（HARD 0、WARN ≤ 3）
+4. 執行 `python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy` 品質檢測（要看到 `hard=0`；門檻清單見上方 §3 品質檢查）
 5. 提交 PR（只需 commit `knowledge/` 改動，**不需也不該 commit `src/content/`**）
 
 ```bash
@@ -333,8 +335,9 @@ src/content/config.ts ← Astro content collection schema (這個檔留在 git)
 echo "寫好文章後..."
 bash scripts/sync.sh          # knowledge/ → src/content/
 npm run build                  # 驗證 build
-python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health  # 品質檢測
-git add -A && git commit -m "content: 新增 XXX 文章"
+# 品質檢測——用 --profile=ci-deploy，跟 CI 同一把尺；--fix 可自動修多數格式問題
+python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy
+git add knowledge/ && git commit -m "content: 新增 XXX 文章"
 ```
 
 #### 參與新主題
@@ -369,7 +372,35 @@ bun run dev  # 或 npm run dev
 - [ ] **有來源**：至少 5 個可查證來源（含 URL），2+ 一手來源
 - [ ] **策展人聲音**：每 2-3 段有一句觀點或反思，不只是資料堆疊
 - [ ] **禁止 bullet list 灌水**：用敘事散文寫作，bullet list 僅用於真正的清單
-- [ ] **prose-health 分數 ≤ 3**：跑 `python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health` 確認
+
+#### 送 PR 前跑這一行（跟 CI 同一把尺）
+
+```bash
+python3 scripts/tools/article-health.py knowledge/<Cat>/<檔名>.md --profile=ci-deploy
+```
+
+**一定要帶 `--profile=ci-deploy`。** 只跑 `--check=prose-health` 會漏掉下面幾道硬門檻，
+本機看到 `hard=0`、送上來還是被 CI 擋——這是最常見的來回原因。
+
+看到 `hard=0 ... passed=True` 才算過。多數格式問題可以自動修：
+
+```bash
+python3 scripts/tools/article-health.py knowledge/<Cat>/<檔名>.md --profile=ci-deploy --fix
+```
+
+#### 會擋下 merge 的硬門檻（`--fix` 修不掉的要自己動手）
+
+| 門檻                           | 限制                                   | 怎麼修                                                                                                         |
+| ------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **全形分號 `；`**              | 單篇 ≤ 12 處                           | 拆成句號分句，或改用逗號。這條 `--fix` 不會動，因為要改寫散文                                                  |
+| **破折號 `——`**                | 每 1500 字 ≤ 15 處                     | 改用「，即」「（）」「：」或分句（見 [MANIFESTO §11](./docs/semiont/MANIFESTO.md)）                            |
+| **外部圖片熱連結**             | 不可直接 `![](https://別人的網域/...)` | 圖片存進 `public/article-images/`，改成 `/article-images/檔名`；並確認授權可用                                 |
+| **腳註格式**                   | `[^N]: [標題](URL) — 描述`             | `--fix` 可自動轉換；從 GitHub 網頁複製貼上的 `[1](#user-content-fn-1)` 錨點不算腳註                            |
+| **`subcategory` / `featured`** | About 以外中文文章必填                 | 見 [`docs/taxonomy/SUBCATEGORY.md`](./docs/taxonomy/SUBCATEGORY.md)；`featured` 一律填 `false`（由維護者管理） |
+
+> 這幾道門檻在 CI 上叫 `frontmatter-gate`。它失敗時會把完整清單寫進 GitHub Actions 的
+> **Summary** 頁（點紅色 ✗ 就看得到），fork PR 因為 token 是唯讀的不會收到 PR 留言，
+> 請直接看 Summary。
 
 #### 一般自我檢查
 
@@ -378,6 +409,13 @@ bun run dev  # 或 npm run dev
 - [ ] Markdown 格式正確
 - [ ] 圖片（如有）放在適當位置
 - [ ] 標籤和 metadata 完整
+
+如果改到 Python 腳本或檢查規則，先安裝測試依賴並跑完整測試：
+
+```bash
+python3 -m pip install -r requirements-test.txt
+npm run test:python
+```
 
 #### 內容審查
 

@@ -5,11 +5,11 @@
 // src/styles/dashboard/ — do not rename.
 import fs from 'fs';
 import path from 'path';
-import { getLangFromUrl } from '../../i18n/utils';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 import { LANGUAGE_DISPLAY_NAMES } from '../../config/languages.mjs';
 
 const lang = getLangFromUrl(Astro.url);
-const isEn = lang === 'en';
+const t = useTranslations(lang);
 
 // ── 🩺 營運狀態 section 資料（2026-07-24，per
 //    reports/design-dashboard-status-section-2026-07-24.md §六）
@@ -27,15 +27,17 @@ const opsStatus = fs.existsSync(opsStatusPath)
   : null;
 
 function opsRelTime(iso) {
-  if (!iso) return isEn ? 'never fired' : '從未 fire';
+  if (!iso) return t('dashboard.ops.time.never');
   const diffMs = Date.now() - new Date(iso).getTime();
-  if (diffMs < 0) return isEn ? 'just now' : '剛剛';
+  if (diffMs < 0) return t('dashboard.ops.time.justNow');
   const mins = Math.floor(diffMs / 60000);
-  if (mins < 60) return isEn ? `${mins}m ago` : `${mins} 分鐘前`;
+  if (mins < 60)
+    return t('dashboard.ops.time.minutesAgo').replace('{n}', String(mins));
   const hours = Math.floor(mins / 60);
-  if (hours < 24) return isEn ? `${hours}h ago` : `${hours} 小時前`;
+  if (hours < 24)
+    return t('dashboard.ops.time.hoursAgo').replace('{n}', String(hours));
   const days = Math.floor(hours / 24);
-  return isEn ? `${days}d ago` : `${days} 天前`;
+  return t('dashboard.ops.time.daysAgo').replace('{n}', String(days));
 }
 
 function opsGapArrow(delta) {
@@ -44,10 +46,10 @@ function opsGapArrow(delta) {
 }
 
 const OPS_STATUS_LABEL = {
-  operational: isEn ? 'Operational' : '正常',
-  degraded: isEn ? 'Degraded' : '延遲',
-  down: isEn ? 'Down' : '中斷',
-  disabled: isEn ? 'Disabled' : '已停用',
+  operational: t('dashboard.ops.status.operational'),
+  degraded: t('dashboard.ops.status.degraded'),
+  down: t('dashboard.ops.status.down'),
+  disabled: t('dashboard.ops.status.disabled'),
 };
 
 const opsRoutineItems = opsStatus?.routines?.items ?? [];
@@ -73,29 +75,23 @@ const opsDeploys = opsStatus?.deploys ?? null;
 -->
 <section class="section" id="ops-status">
   <h2 class="section-title">
-    {isEn ? '🩺 Operational Status' : '🩺 營運狀態'}
+    {t('dashboard.ops.title')}
   </h2>
   <p class="section-subtitle">
-    {
-      isEn
-        ? "Is this organism's automation alive right now — routine flywheel, babel translation infra, recent incidents."
-        : '這個生命體的自動化器官現在活著嗎——routine 飛輪、巴別塔翻譯基建、最近事件。'
-    }
+    {t('dashboard.ops.subtitle')}
   </p>
 
   {
     opsStaleHours !== null && opsStaleHours > 48 && (
       <p class="ops-stale-note">
-        {isEn
-          ? `⚠️ Routine snapshot is ${opsStaleHours}h old — data-refresh rider hasn't run`
-          : `⚠️ 排程快照齡 ${opsStaleHours}h — data-refresh rider 未跑`}
+        {t('dashboard.ops.staleNote').replace('{n}', String(opsStaleHours))}
       </p>
     )
   }
 
   <!-- Routine 飛輪狀態列 -->
   <h3 class="subsection-title">
-    {isEn ? '🔁 Routine Flywheel' : '🔁 Routine 飛輪'}
+    {t('dashboard.ops.routineFlywheel')}
   </h3>
   {
     opsStatus?.routines ? (
@@ -125,23 +121,21 @@ const opsDeploys = opsStatus?.deploys ?? null;
         </div>
         {opsRoutinesDisabled.length > 0 && (
           <p class="ops-disabled-note">
-            {isEn ? 'Disabled: ' : '已停用：'}
-            {opsRoutinesDisabled.map((r) => r.id).join(isEn ? ', ' : '、')}
+            {t('dashboard.ops.disabledPrefix')}
+            {opsRoutinesDisabled
+              .map((r) => r.id)
+              .join(t('dashboard.ops.disabledSeparator'))}
           </p>
         )}
       </>
     ) : (
-      <p class="ops-empty">
-        {isEn
-          ? 'Routine data unavailable this build.'
-          : '這次 build 沒有 routine 資料。'}
-      </p>
+      <p class="ops-empty">{t('dashboard.ops.routineEmpty')}</p>
     )
   }
 
   <!-- 巴別塔覆蓋 -->
   <h3 class="subsection-title">
-    {isEn ? '🌐 Babel Coverage' : '🌐 巴別塔覆蓋'}
+    {t('dashboard.ops.babelCoverage')}
   </h3>
   {
     opsBabel ? (
@@ -167,9 +161,10 @@ const opsDeploys = opsStatus?.deploys ?? null;
           ))}
         </div>
         <p class="ops-babel-summary">
-          {isEn
-            ? `Gap total ${opsBabel.gap_total} (${opsGapArrow(opsBabel.gap_delta_vs_prev)} vs prev snapshot) · fresh +${opsBabel.fresh_delta_24h} in 24h`
-            : `總缺口 ${opsBabel.gap_total}（${opsGapArrow(opsBabel.gap_delta_vs_prev)} vs 上一快照）· 近 24h fresh +${opsBabel.fresh_delta_24h}`}
+          {t('dashboard.ops.babelSummary')
+            .replace('{gap}', String(opsBabel.gap_total))
+            .replace('{arrow}', opsGapArrow(opsBabel.gap_delta_vs_prev))
+            .replace('{fresh}', String(opsBabel.fresh_delta_24h))}
         </p>
         <div class="ops-babel-nodes">
           {opsBabelNodes.map((n) => (
@@ -189,24 +184,18 @@ const opsDeploys = opsStatus?.deploys ?? null;
         </div>
       </>
     ) : (
-      <p class="ops-empty">
-        {isEn
-          ? 'Babel data unavailable this build.'
-          : '這次 build 沒有巴別塔資料。'}
-      </p>
+      <p class="ops-empty">{t('dashboard.ops.babelEmpty')}</p>
     )
   }
 
   <!-- 最近事件 -->
   <h3 class="subsection-title">
-    {isEn ? '🚨 Recent Incidents' : '🚨 最近事件'}
+    {t('dashboard.ops.recentIncidents')}
   </h3>
   <div class="ops-incidents">
     {
       opsIncidents.length === 0 ? (
-        <p class="ops-empty">
-          {isEn ? 'No active incidents.' : '目前沒有事件。'}
-        </p>
+        <p class="ops-empty">{t('dashboard.ops.noIncidents')}</p>
       ) : (
         opsIncidents.map((inc) => (
           <div class="ops-incident-row">
@@ -223,9 +212,7 @@ const opsDeploys = opsStatus?.deploys ?? null;
   {
     opsDeploys && opsDeploys.length > 0 && (
       <>
-        <h3 class="subsection-title">
-          {isEn ? '🚀 Recent Deploys' : '🚀 最近部署'}
-        </h3>
+        <h3 class="subsection-title">{t('dashboard.ops.recentDeploys')}</h3>
         <div class="ops-deploys">
           {opsDeploys.map((d) => (
             <div class="ops-deploy-row">

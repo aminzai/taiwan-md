@@ -167,31 +167,31 @@ Hsu Cho-yun escribió casi cuarenta obras a lo largo de su vida, cubriendo la hi
 
 **(I) Introducción: La gran historia de China para el pueblo llano**
 
-- ** _Ríos y ríos eternos: los puntos de inflexión y el desarrollo de la historia y la cultura de China_ (2006, Hansheng)** [^40]: Su obra más ampliamente difundida. La perspectiva del largo río de la difusión y contracción de la civilización, leyendo una historia de la cultura de China sin líneas de dinastías en 270.000 caracteres.
+- **_Ríos y ríos eternos: los puntos de inflexión y el desarrollo de la historia y la cultura de China_ (2006, Hansheng)** [^40]: Su obra más ampliamente difundida. La perspectiva del largo río de la difusión y contracción de la civilización, leyendo una historia de la cultura de China sin líneas de dinastías en 270.000 caracteres.
 
 **(II) Avanzado: Los límites internos y externos de la civilización**
 
-- ** _Yo y el otro: los límites internos y externos en la historia de China_ (2009, Editorial Times)** [^44]: Trata el problema de la identidad china, marco de seis sistemas.
-- ** _Huaxia Lunshu: los cambios de una comunidad compleja_ (2015, Universidad Normal de Guangxi)** [^46]: Define "China" de forma procesual, interacción dinámica de cuatro variables: poder, economía, sociedad, cultura.
-- ** _Jingwei Huaxia_ (2024, versión aumentada de Hong Kong Sanlian)** [^47]: Ocho revisiones, expansión del panorama "desde el continente hasta el mar".
+- **_Yo y el otro: los límites internos y externos en la historia de China_ (2009, Editorial Times)** [^44]: Trata el problema de la identidad china, marco de seis sistemas.
+- **_Huaxia Lunshu: los cambios de una comunidad compleja_ (2015, Universidad Normal de Guangxi)** [^46]: Define "China" de forma procesual, interacción dinámica de cuatro variables: poder, economía, sociedad, cultura.
+- **_Jingwei Huaxia_ (2024, versión aumentada de Hong Kong Sanlian)** [^47]: Ocho revisiones, expansión del panorama "desde el continente hasta el mar".
 
 **(III) Obras representativas académicas: Ciencias sociales aplicadas a la historia de China**
 
-- ** _Western Zhou Shi_ (1984, Editorial Lianjing, 1986 segunda edición, 1990/1993 tercera edición revisada, 1994 versión aumentada de Sanlian en Beijing, 2020 nueva versión aumentada)** [^21]: Estudio sobre el origen de la conciencia de "Huaxia" construida por grupos de linaje.
-- ** _Han Agriculture_ (1980, versión en inglés de la Universidad de Washington, posteriormente traducida a la versión en chino _Han Agriculture: La formación de la economía campesina temprana de China_)** [^19]: Reconstrucción cuantitativa de la vida campesina de la dinastía Han y la red de la economía de mercado.
-- ** _Ancient China in Transition_ (versión en inglés _Ancient China in Transition_, 1965, Editorial de la Universidad de Stanford)** [^16]: Reescritura de la tesis doctoral, análisis cuantitativo de la movilidad social durante los Estados Combatientes y el período de Primaveras y Otoños, calificado por John K. Fairbank como "a little classic".
-- ** _Qiu Gu Bian_ (1982, Editorial Lianjing)** [^20]: Evolución del sistema de funcionarios civiles central/local de la antigüedad hasta Qin-Han.
+- **_Western Zhou Shi_ (1984, Editorial Lianjing, 1986 segunda edición, 1990/1993 tercera edición revisada, 1994 versión aumentada de Sanlian en Beijing, 2020 nueva versión aumentada)** [^21]: Estudio sobre el origen de la conciencia de "Huaxia" construida por grupos de linaje.
+- **_Han Agriculture_ (1980, versión en inglés de la Universidad de Washington, posteriormente traducida a la versión en chino _Han Agriculture: La formación de la economía campesina temprana de China_)** [^19]: Reconstrucción cuantitativa de la vida campesina de la dinastía Han y la red de la economía de mercado.
+- **_Ancient China in Transition_ (versión en inglés _Ancient China in Transition_, 1965, Editorial de la Universidad de Stanford)** [^16]: Reescritura de la tesis doctoral, análisis cuantitativo de la movilidad social durante los Estados Combatientes y el período de Primaveras y Otoños, calificado por John K. Fairbank como "a little classic".
+- **_Qiu Gu Bian_ (1982, Editorial Lianjing)** [^20]: Evolución del sistema de funcionarios civiles central/local de la antigüedad hasta Qin-Han.
 
 **(IV) Autobiografía y pensamiento tardío**
 
-- ** _Xin Lu Li Cheng_ (1964, Wenxing / 1979 Biographical Literature / 2015 Universidad de Xiamen)** [^50]: Autobiografía de juventud a los 34 años, el proceso de aprendizaje y pensamiento desde Xiamen a Taipéi y a Chicago.
-- ** _Meiguo Liu Shi Nian Cang Sang: Un chino observa_ (2019, Editorial Lianjing)** [^51]: Sus observaciones de medio siglo en los Estados Unidos y su diagnóstico de la sociedad estadounidense.
-- ** _Wang Li Zou, Andun Ziji_ (2022, Editorial del Diario de Beijing, en colaboración con Feng Jun-wen)** [^52]: Notas de pensamiento a los 89 años, un libro de establecimiento para una era impaciente.
+- **_Xin Lu Li Cheng_ (1964, Wenxing / 1979 Biographical Literature / 2015 Universidad de Xiamen)** [^50]: Autobiografía de juventud a los 34 años, el proceso de aprendizaje y pensamiento desde Xiamen a Taipéi y a Chicago.
+- **_Meiguo Liu Shi Nian Cang Sang: Un chino observa_ (2019, Editorial Lianjing)** [^51]: Sus observaciones de medio siglo en los Estados Unidos y su diagnóstico de la sociedad estadounidense.
+- **_Wang Li Zou, Andun Ziji_ (2022, Editorial del Diario de Beijing, en colaboración con Feng Jun-wen)** [^52]: Notas de pensamiento a los 89 años, un libro de establecimiento para una era impaciente.
 
 **(V) Divulgación y entrevistas**
 
-- ** Serie _Hsu Cho-yun dice historia_ (cinco volúmenes)** [^53]: Versión divulgativa de la gran historia.
-- ** _Diez días de charla de Hsu Cho-yun: La estructura del mundo actual y el futuro de la humanidad_ (Hong Kong Sanlian)** [^54]: Recopilación de su pensamiento sobre la estructura del mundo en sus últimos años.
+- **Serie _Hsu Cho-yun dice historia_ (cinco volúmenes)** [^53]: Versión divulgativa de la gran historia.
+- **_Diez días de charla de Hsu Cho-yun: La estructura del mundo actual y el futuro de la humanidad_ (Hong Kong Sanlian)** [^54]: Recopilación de su pensamiento sobre la estructura del mundo en sus últimos años.
 
 📝 **Si solo se puede leer uno: comience con _Ríos y ríos eternos_.** Si quiere entender su metodología histórica: el prefacio de la nueva versión aumentada de _Western Zhou Shi_ es más poderoso que el libro en sí. Si quiere entender su visión general de China: _Yo y el otro_ es el más condensado. Si quiere entender a esta persona: lea _Xin Lu Li Cheng_ y _Wang Li Zou, Andun Ziji_ juntos.
 

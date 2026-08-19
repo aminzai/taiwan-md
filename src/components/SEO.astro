@@ -10,6 +10,7 @@ import {
 } from '../config/languages';
 import { getLiveArticleCount } from '../utils/liveStats';
 import { getLangSwitchPath } from '../utils/getLangSwitchPath';
+import { useTranslations } from '../i18n/utils';
 
 // Live article count from prebuilt vitals so SEO meta tracks reality.
 // 2026-06-10 audit #5: hoisted to module-level cache (was a per-render
@@ -42,6 +43,7 @@ interface Props {
 }
 
 const { lang = 'zh-TW' } = Astro.props;
+const t = useTranslations(lang);
 const {
   title,
   description = lang === 'zh-TW'
@@ -284,8 +286,8 @@ const organizationLD = {
   logo: `${siteUrl}/images/taiwan-social.jpg`,
   description:
     lang === 'zh-TW'
-      ? '開源、AI-friendly 的台灣知識庫 — 一個會呼吸的數位生命體，889+ 篇深度策展文章、6 種語言、社群共編。'
-      : 'Open-source, AI-friendly knowledge base about Taiwan — a digital organism with 889+ curated articles in 6 languages, co-edited by the community.',
+      ? '開源、AI-friendly 的台灣知識庫 — 一個會呼吸的數位生命體，990+ 篇深度策展文章、6 種語言、社群共編。'
+      : 'Open-source, AI-friendly knowledge base about Taiwan — a digital organism with 990+ curated articles in 6 languages, co-edited by the community.',
   slogan:
     lang === 'zh-TW'
       ? '策展島嶼的深度敘事'
@@ -604,9 +606,7 @@ const breadcrumbLD = generateBreadcrumbLD();
 <link
   rel="alternate"
   type="application/rss+xml"
-  title={lang === 'en'
-    ? 'Taiwan.md RSS Feed (English)'
-    : 'Taiwan.md RSS 動態消息'}
+  title={t('SEO.rss-feed-title')}
   href={`${siteUrl}/feed.xml`}
 />
 

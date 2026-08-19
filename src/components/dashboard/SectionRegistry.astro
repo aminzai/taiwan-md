@@ -6,7 +6,6 @@ import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const isEn = lang === 'en';
 ---
 
 <!-- Article Registry -->
@@ -58,7 +57,7 @@ const isEn = lang === 'en';
 
   <div class="registry-table-controls">
     <button class="column-toggle-btn" id="column-toggle-btn">
-      {isEn ? '⚙️ Show all columns' : '⚙️ 顯示所有欄位'}
+      {t('dashboard.registry.columnToggle')}
     </button>
   </div>
   <div class="registry-table-wrapper">
@@ -72,19 +71,19 @@ const isEn = lang === 'en';
             >{t('dashboard.registry.col.category')}</th
           >
           <th class="sortable" data-sort="subcategory"
-            >{isEn ? 'Subcategory' : '子分類'}</th
+            >{t('dashboard.registry.col.subcategory')}</th
           >
           <th class="sortable" data-sort="date"
             >{t('dashboard.registry.col.date')}</th
           >
           <th class="sortable" data-sort="lastModified"
-            >{isEn ? 'Modified' : '最後修改'}</th
+            >{t('dashboard.registry.col.modified')}</th
           >
           <th class="sortable" data-sort="qualityScore"
-            >{isEn ? 'Quality' : '品質'}</th
+            >{t('dashboard.registry.col.quality')}</th
           >
           <th class="sortable" data-sort="formatIssues"
-            >{isEn ? 'Format' : '格式'}</th
+            >{t('dashboard.registry.col.format')}</th
           >
           <th class="sortable" data-sort="lastHumanReview"
             >{t('dashboard.registry.col.reviewed')}</th

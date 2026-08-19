@@ -1,127 +1,128 @@
 ---
-title: 'Formes côtières et paysages marins de Taïwan'
-description: "Rares sont les endroits sur Terre où l'on peut partir du sommet d'une montagne de près de 4 000 mètres et plonger dans une fosse océanique à 7 500 mètres de profondeur en moins de 150 kilomètres. Taïwan le peut. Le littoral de cette île est le théâtre d'un accident de la route au ralenti — d'une beauté à couper le souffle."
+title: 'Reliefs côtiers et paysages maritimes de Taïwan'
+description: "Sur Terre, peu d'endroits permettent de partir du sommet d'une montagne à près de 4 000 mètres pour plonger dans un fossé océanique de 7 500 mètres de profondeur en moins de 150 kilomètres. Taïwan le peut. La ligne de côte de cette île est un chantier de collision en cours — d'une beauté à couper le souffle."
 date: 2026-03-24
+category: 'Geography'
 tags:
   [
-    'formes côtières',
-    'paysages marins',
-    'tectonique des plaques',
-    'processus géologiques',
-    'paysages naturels',
+    'Reliefs côtiers',
+    'Paysages maritimes',
+    'Tectonique des plaques',
+    'Processus géologiques',
+    'Paysages naturels',
   ]
-subcategory: 'Reliefs et géologie'
-category: 'Geography'
+subcategory: '地形與地質'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 10
-featured: true
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: true
+difficulty: 'intermediate'
+readingTime: 10
+curation: 'incubating'
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
-sourceCommitSha: 'e14a1529'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:9ce361db9a5c3b1a'
 sourceBodyHash: 'sha256:39bde765a3b7a746'
-translatedAt: '2026-05-16T22:36:54Z'
+translatedAt: '2026-08-10T07:13:01+08:00'
 ---
 
-> **En 30 secondes :** Du sommet de Yushan (3 952 m) jusqu'à la fosse de Ryukyu (-7 507 m) au large de la côte est, le dénivelé vertical dépasse 11 000 mètres pour une distance horizontale inférieure à 150 kilomètres. Ce chiffre fait de Taïwan l'une des îles au gradient topographique le plus abrupt du monde — une densité verticale supérieure à celle qu'on obtiendrait en projetant l'Everest dans la fosse des Mariannes. Et tout cela s'est forgé en seulement cinq millions d'années.
+> **En 30 secondes :** Du sommet du Mont Yushan (3 952 mètres) au fossé de Ryukyu dans les eaux profondes de l'est (–7 507 mètres), le dénivelé vertical dépasse 11 000 mètres sur une distance horizontale de moins de 150 kilomètres. Ce chiffre fait de Taïwan l'une des îles au gradient topographique le plus raide au monde — plus « concentré » que sauter du sommet de l'Everest dans le fossé des Mariannes. Et tout cela n'a pris que 5 millions d'années.
 
-## Une collision au ralenti : cinq millions d'années, et ça n'est pas encore fini
+## Une collision en ralenti : 5 millions d'années, pas encore terminées
 
-En avril 2023, le parc géologique de Yehliu a publié un chiffre qui a fait frémir plus d'un géologue : le cou de la Reine ne mesure plus que 120 centimètres de circonférence.
+En avril 2023, le Parc géologique de Yehliu a révélé un chiffre inquiétant : le cou de la « Reine » ne mesure plus que 120 centimètres.
 
-Il y a quinze ans, il en mesurait encore 143. À raison d'un à deux centimètres par an, cette reine de grès vieille de quinze millions d'années devrait tenir environ cinq ans de plus. Une équipe de l'Université nationale de technologie de Taipei travaille sur une technique de consolidation imitant le processus naturel du grès, mais tous les géologues le savent : on ne peut pas arrêter la respiration d'une île.
+Il y a 15 ans, sa circonférence cervicale était de 143 centimètres. En perdant 1 à 2 centimètres par an, cette reine géologique âgée de 15 millions d'années ne devrait plus tenir debout que cinq ans environ. Une équipe de l'Université nationale de technologie de Taïwan (NCTU) développe une « technologie de renforcement du grès imitant la nature » pour tenter de prolonger sa vie, mais tous les géologues le savent : on ne peut pas empêcher une île de respirer.
 
-> 📝 **Note de curation :** Ce qui fascine le plus dans le littoral de Taïwan, ce n'est pas sa beauté — c'est son vivant. Ce n'est pas une carte postale, c'est un documentaire en cours de tournage. Quinze à dix-huit mille séismes par an, un soulèvement crustal de cinq à sept millimètres par an, une érosion éolienne d'un à deux centimètres par an — cette île grandit et s'efface simultanément.
+📝 **Perspective curatorial :** Ce qui rend les côtes de Taïwan les plus fascinantes, ce n'est pas leur beauté : c'est leur « vitalité ». Il ne s'agit pas d'une carte postale de paysage, mais d'un documentaire en cours de tournage. 15 000 à 18 000 séismes par an, une élévation de la croûte terrestre de 5 à 7 millimètres par an, une érosion éolienne de 1 à 2 centimètres par an : cette île grandit et s'aplatit simultanément.
 
-L'histoire de la Reine, c'est l'histoire de tout le littoral : **le rivage de Taïwan naît et disparaît en même temps.**
+L'histoire de la « Reine » est en réalité celle de toute la ligne de côte : **les côtes de Taïwan naissent et disparaissent en même temps.**
 
-## 11 459 mètres de dénivelé : le théâtre géologique le plus dense du monde
+## Un dénivelé vertical de 11 459 mètres : le théâtre géologique le plus encombré du monde
 
-Prenons la mesure de ce littoral sous un autre angle.
+Changeons de perspective pour comprendre les côtes de Taïwan.
 
-Yushan culmine à 3 952 mètres — le point le plus haut de l'Asie du Nord-Est. À moins de 150 kilomètres à l'est, sous les eaux du Pacifique, la fosse de Ryukyu descend à 7 507 mètres de profondeur. Du sommet au fond des abysses, le dénivelé atteint 11 459 mètres.
+Le Mont Yushan, 3 952 mètres, le plus haut sommet d'Asie du Nord-Est. À moins de 150 kilomètres à l'est, sous la mer, le fossé de Ryukyu plonge à 7 507 mètres. Du sommet au fond marin, le dénivelé vertical est de 11 459 mètres.
 
-Qu'est-ce que cela représente ? Si l'on plaçait l'Everest (8 849 m) dans cet espace vertical, il n'en remplirait que 77 %. Or la base de l'Everest s'étend sur plus de 400 kilomètres — Taïwan concentre un dénivelé encore plus grand sur moins de la moitié de cette distance horizontale.
+Que signifie cela ? Si l'on place l'Everest (8 849 mètres) dans ce dénivelé, il ne remplit que 77 % de l'espace. La base de l'Everest fait plus de 400 kilomètres de large : Taïwan a comprimé un espace vertical plus grand dans une distance horizontale inférieure à la moitié.
 
-> **Encadré : La « densité topographique extrême » de Taïwan**
+> **Encadré : La « densité extrême » des reliefs de Taïwan**
 >
-> - 🏔️ Point culminant : Yushan, 3 952 m
-> - 🌊 Point le plus profond : fosse de Ryukyu, -7 507 m
-> - 📏 Distance horizontale : < 150 km
-> - 📐 Dénivelé vertical : 11 459 m
-> - ⏱️ Durée de formation : environ 5 millions d'années
-> - 🔄 Taux de soulèvement actuel : 5 à 7 mm/an
-> - 🔄 Taux d'érosion : environ 5,3 mm/an
->   (Sources : Administration du parc national de Yushan, Britannica, Central Geological Survey)
+> - 🏔️ Point culminant : Mont Yushan 3 952 mètres
+> - 🌊 Point le plus profond : Fossé de Ryukyu –7 507 mètres
+> - 📏 Distance horizontale : < 150 kilomètres
+> - 📐 Dénivelé vertical : 11 459 mètres
+> - ⏱️ Temps de formation : Environ 5 millions d'années
+> - 🔄 Taux d'élévation actuel : 5 à 7 millimètres par an
+> - 🔄 Taux d'érosion : Environ 5,3 millimètres par an
+>   (Sources : Bureau de gestion du parc national du Mont Yushan, Britannica, Bureau central de géologie et de minéralogie)
 
-Il y a cinq millions d'années, la plaque philippine a commencé à percuter la plaque eurasiatique à raison de sept à huit centimètres par an. Cette collision n'a pas cessé. Taïwan n'est pas le vestige d'une ancienne collision de plaques — c'est **aujourd'hui même** le lieu de cette collision. Le marbre des falaises de Qingshui s'est formé il y a 250 millions d'années, reposant tranquillement au fond des mers. Cinq millions d'années de compression l'ont projeté à près d'un millier de mètres d'altitude, avant qu'une faille ne le tranche net, créant une paroi verticale de 800 mètres de haut.
+Il y a 5 millions d'années, la plaque de la mer des Philippines entrait en collision avec la plaque eurasiatique à une vitesse de 7 à 8 centimètres par an. Cette collision n'a toujours pas cessé. Taïwan n'est pas un vestige « subi » par la collision des plaques : elle **est** le site actuel de la collision. Le marbre des falaises de Qingshui s'est formé il y a 250 millions d'années, reposant paisiblement au fond de la mer profonde. La compression de 5 millions d'années l'a soulevé de près de mille mètres, puis une faille l'a tranché net, créant une falaise verticale de 800 mètres de dénivelé.
 
-Depuis la route Suhua, chaque bloc de roche blanche sous vos pieds était autrefois le squelette calcaire d'organismes marins.
+En regardant vers le bas depuis la route côtière de Suhua, chaque rocher blanc sous vos pieds était autrefois le reste d'un organisme marin.
 
-## Quatre rivages, quatre caractères d'une même île
+## Quatre côtes, quatre personnalités pour une île
 
-Parce que la collision est inégalement répartie en angle et en intensité, les quatre côtes de Taïwan ont développé des personnalités radicalement différentes.
+En raison de l'angle et de la force inégaux de cette collision, les quatre côtes de Taïwan ont développé des « personnalités » radicalement différentes.
 
-### Côte est : la violence
+### La côte est : Violente
 
-À l'est, l'île fait face à la collision de plein fouet — les montagnes jaillissent directement des fonds marins. Les 21 kilomètres de falaises ininterrompues de Qingshui constituent l'un des rares paysages de « falaises marines » au monde. Ici, pas de plage, pas d'amortisseur : seulement la roche et le Pacifique, face à face.
+L'est est la face directe de la collision : les montagnes s'élèvent directement du fond de la mer. Les falaises de Qingshui, avec leurs 21 kilomètres de falaises continues, constituent un paysage de « falaises marines » rare dans le monde. Ici, pas de plages, pas de tampon, seulement une confrontation directe entre les rochers et l'océan Pacifique.
 
-Les terrasses de Shitipng à Hualien ressemblent à une capsule temporelle à ciel ouvert : des plateformes de récifs coralliens en gradins, chaque « marche » marquant le niveau de la mer à une époque différente. La couche supérieure date d'il y a 120 000 ans et témoigne du niveau marin maximal atteint lors du dernier interglaciaire.
+Les gradins de Shihping à Hualien ressemblent à une capsule temporelle retournée : des terrasses de récifs coralliens en escalier, chaque « marche » étant une trace du niveau de la mer à différentes périodes. Le niveau de récif le plus élevé date de 120 000 ans, enregistrant le moment où les eaux étaient les plus hautes lors de la dernière période interglaciaire.
 
-### Côte ouest : la douceur, mais en sursis
+### La côte ouest : Douce, mais en train de disparaître
 
-La côte ouest est le revers de la collision. La rivière Zhuoshui charrie chaque année quarante millions de tonnes de sédiments vers la mer ; au fil de millions d'années, ces apports ont comblé et formé la plaine qui constitue aujourd'hui la moitié occidentale de Taïwan. On y trouve des lagunes, des zones humides, et les plus grandes barres de sable du pays.
+La côte ouest est l'arrière de la collision : le fleuve Zhuoshui apporte 40 millions de tonnes de sédiments en mer chaque année, formant les plaines de la moitié ouest de Taïwan au fil de millions d'années. Il y a des lagunes, des zones humides et la plus grande plage de sable de Taïwan.
 
-Mais ce rivage paisible paie un tribut lourd.
+Mais cette côte douce paie un prix.
 
-> 📝 **Une île en train de disparaître :** Waisanding, le plus grand banc de sable de Taïwan, s'étendait sur 3 205 hectares en 1984. En 2020, il n'en restait plus que 1 138 — soit une réduction de 65 % en trente-six ans. Les chercheurs prévoient sa submersion d'ici 2028. Les causes vont au-delà de la simple érosion naturelle : le complexe pétrochimique de Liuqing a intercepté les sédiments lors de ses remblais, tandis que les barrages en amont ont coupé l'apport en matériaux. Waisanding a perdu toute source d'alimentation. Il servait autrefois de brise-lames aux ostréiculteurs côtiers de Yunlin et Chiayi ; dans les années 1960, quelques centaines de personnes y vivaient encore. Aujourd'hui, seul un phare subsiste sur ce banc.
+📝 **Une île en train de disparaître :** L'île de Wuziqi (Outer Umbrella Top), la plus grande plage de sable de Taïwan, couvrait 3 205 hectares en 1984. En 2020, il ne restait que 1 138 hectares : une réduction de 65 % en 36 ans. Les études prévoient qu'elle sera submergée sous le niveau de la mer d'ici 2028. Les causes ne sont pas seulement l'érosion naturelle : l'endiguement des sédiments par le complexe pétrochimique de Liuyung (Six Light) et les barrages de rétention en amont ont coupé l'approvisionnement en sable, privant l'île de Wuziqi de son « apport sanguin ». Elle a autrefois servi de bouclier aux ostréiculteurs des côtes de Yunlin et Chia-Yi ; des centaines de personnes y habitaient encore dans les années 1960. Aujourd'hui, une seule balise reste sur l'île.
 
-Le littoral yunlinois recule de dix à quinze mètres par an. Ce n'est pas une prophétie lointaine du changement climatique — c'est une réalité en cours.
+La côte de Yunlin recule de 10 à 15 mètres par an. Il ne s'agit pas d'une prédiction lointaine du changement climatique : c'est ce qui se passe actuellement.
 
-### Côte nord : la salle de classe géologique
+### La côte nord : Une classe de géologie
 
-Le littoral nord est un chef-d'œuvre d'érosion différentielle. Des couches rocheuses dures et tendres alternent en affleurement ; les vagues creusent sélectivement les roches molles et épargnent les dures, sculptant ainsi les formes insolites que l'on admire à Yehliu.
+La côte nord est le chef-d'œuvre de l'érosion différentielle. Les couches rocheuses dures et tendres alternent à la surface ; les vagues creusent sélectivement les roches tendres et laissent les roches dures, sculptant les formes incroyables de Yehliu.
 
-La circonférence du cou de la Reine perd un à deux centimètres par an. La Roche de l'éléphant s'est fracturée en décembre 2023. La disparition de ces formations n'est pas accidentelle — c'est une nécessité géologique. L'érosion marine ne s'arrête pas pour les touristes.
+Le cou de la « Reine » perd 1 à 2 centimètres par an. La roche en forme de trompe d'éléphant s'est brisée en décembre 2023. La disparition de ces repères n'est pas un accident, mais une nécessité géologique : l'érosion marine ne s'arrête pas pour les touristes.
 
-### Côte sud : le paradis tropical en compte à rebours
+### La côte sud : Le compte à rebours du paradis tropical
 
-Kenting est le seul littoral de récif corallien tropical de Taïwan. En se promenant sur son boulevard, on foule une roche blanche composée de coraux vieux de 120 000 ans — après le retrait des eaux de l'interglaciaire précédent, la croûte terrestre a soulevé ces anciens récifs de plus de 200 mètres.
+Kenting est la seule côte corallienne tropicale de Taïwan. En marchant sur la rue principale de Kenting, les rochers blancs sous vos pieds sont les restes de coraux vieux de 120 000 ans : après le retrait des eaux de la dernière période interglaciaire, la croûte terrestre a soulevé ces anciens récifs de plus de 200 mètres.
 
-Sous la surface, les récifs actuels abritent soixante espèces de coraux constructeurs et plus de 1 200 espèces de poissons, avec une densité biologique comparable à celle de la forêt amazonienne. Pourtant, l'été 2020 a vu Taïwan connaître le plus grand épisode de blanchissement corallien jamais enregistré. Une équipe de l'Academia Sinica a relevé 28 250 colonies sur 62 sites à travers l'île ; la conclusion est glaçante : Xiao Liuqiu devrait perdre 55 % de ses coraux, et le Cap Bitou ainsi que Kenting environ 30 %.
+Les récifs coralliens modernes sous la mer abritent 60 espèces de coraux constructeurs de récifs et plus de 1 200 espèces de poissons, avec une densité biologique comparable à celle de la forêt amazonienne. Mais en été 2020, Taïwan a connu l'événement de blanchissement des coraux le plus important jamais enregistré. Une équipe de l'Academia Sinica a recensé 28 250 colonies de coraux sur 62 points d'échantillonnage à travers le pays ; la conclusion est glaçante : Xiao Liouqiu (Petite île Liouqiu) perdra 55 % de ses coraux, et le coin nord-est ainsi que Kenting environ 30 %.
 
-> « Les coraux du Cap Bitou, qui avaient survécu à 1998, ont connu en 2020 leur premier grand blanchissement jamais enregistré. »
-> — Dr. Kuo Zhaoyang, Centre de recherche sur la biodiversité, Academia Sinica
+> « Les coraux du coin nord-est, qui avaient échappé au blanchissement en 1998, ont connu leur premier blanchissement massif enregistré en 2020. »
+> —— Dr Guo Zhaoyang, Centre de recherche sur la biodiversité, Academia Sinica
 
-L'ironie la plus cruelle : les eaux chaudes qui ont permis l'existence des récifs de Taïwan sont aujourd'hui en train de les tuer.
+Le plus ironique est que les eaux chaudes qui permettent à Taïwan d'avoir des récifs coralliens sont en train de les tuer.
 
-## Deux horloges pour une même île
+## Deux horloges pour une île
 
-Le littoral de Taïwan tourne simultanément sur deux horloges.
+Les côtes de Taïwan font tourner deux horloges simultanément.
 
-**L'horloge géologique** avance vers le haut : avec un soulèvement de cinq à sept millimètres par an, les falaises de Qingshui seront cinquante à soixante-dix mètres plus hautes dans dix mille ans. De nouveaux récifs coralliens grandissent en silence sous la surface ; chaque centimètre carré de tissu corallien abrite entre un et cinq millions de cellules de zooxanthelles, transformant jour et nuit la lumière solaire en squelettes calcaires. Une colonie de trois mètres de diamètre a peut-être trois cents ans d'existence, et elle sera là pour les trois cents prochaines années.
+**L'horloge géologique** monte : un taux d'élévation de 5 à 7 millimètres par an signifie que dans dix mille ans, les falaises de Qingshui seront 50 à 70 mètres plus hautes. De nouveaux récifs coralliens poussent sous la surface ; dans un centimètre carré de tissu corallien vivent 1 à 5 millions de cellules de zooxanthelles, transformant la lumière du soleil en squelette calcaire jour et nuit. Une colonie de coraux de 3 mètres de diamètre a peut-être poussé pendant 300 ans ; elle assistera aux 300 prochaines années.
 
-**L'horloge humaine** compte à rebours : Waisanding a perdu 65 % de sa superficie en trente-six ans. La Reine de Yehliu tient peut-être encore cinq ans. Le blanchissement de 2020 a emporté trente à cinquante-cinq pour cent des coraux. Le niveau de la mer monte de 3,4 millimètres par an, et la subsidence des terres dans le sud-ouest de l'île porte le taux de montée relative à cinq à sept millimètres par an.
+**L'horloge humaine** descend : l'île de Wuziqi a réduit sa superficie de 65 % en 36 ans. La « Reine » de Yehliu ne tiendra probablement plus debout que cinq ans. Le blanchissement des coraux de 2020 a emporté 30 à 55 % des coraux. Le niveau de la mer monte de 3,4 millimètres par an ; sur la côte sud-ouest, en raison de l'affaissement du sol, le taux de montée relatif atteint 5 à 7 millimètres par an.
 
-> 📝 **Note de curation :** L'histoire du littoral de Taïwan n'est pas simplement celle d'une « destruction de la nature par l'homme ». L'île elle-même est le produit d'une « destruction » qui dure depuis cinq millions d'années — collision de plaques, failles, érosion marine. Les activités humaines (remblais de Liuqing, réchauffement climatique lié aux émissions de carbone) ne font qu'introduire une nouvelle variation dans le tempo géologique naturel. Le problème n'est pas la destruction en soi, c'est la vitesse — ce que la géologie accomplit en millions d'années, nous l'avons reproduit en quelques décennies.
+📝 **Perspective curatorial :** L'histoire des côtes de Taïwan n'est pas simplement « les humains détruisent la nature ». Cette île est elle-même le résultat d'une « destruction » continue de 5 millions d'années — collision de plaques, fractures de failles, érosion marine. Les activités humaines (endiguement des sédiments par Liuyung, réchauffement climatique par les émissions de carbone) n'ajoutent qu'une nouvelle variation au rythme naturel géologique. Le problème n'est pas la destruction elle-même, mais la vitesse : ce que la géologie a accompli en des millions d'années, nous l'avons fait en quelques décennies.
 
-Sur les 1 600 hectares de la lagune de Qigu, deux à trois mille spatules à face noire viennent hiverner chaque année, représentant plus de soixante pour cent de la population mondiale. Sur les vasières de la côte ouest, les crabes violonistes possèdent une horloge biologique d'une précision remarquable : ils commencent à agiter leur grande pince pour la parade nuptiale trente minutes avant la marée basse — et, même transportés en laboratoire, ils maintiennent le rythme des marées de leur biotope d'origine pendant des semaines.
+Sur les 1 600 hectares d'eau du lac lagunaire de Qiguj, 2 000 à 3 000 [pluviers siffleurs à face noire](/fr/nature/black-faced-spoonbill/) viennent passer l'hiver chaque année, représentant plus de 60 % de la population mondiale. Les crabes violonistes sur les vasières de la côte ouest possèdent une horloge biologique précise ; ils commencent à agiter leur grande pince pour la parade nuptiale 30 minutes avant la marée basse — même en laboratoire, ils continuent d'agir selon le rythme des marées de leur habitat original pendant plusieurs semaines.
 
-Ces animaux ne savent pas que Waisanding est en train de disparaître. Ils vivent simplement selon leur propre horloge.
+Ces organismes ignorent que l'île de Wuziqi est en train de disparaître. Ils vivent simplement selon leur propre horloge.
 
-Et le littoral de Taïwan — continue à s'élever imperceptiblement à chaque séisme, et à reculer imperceptiblement à chaque vague. Naissant et disparaissant en même temps. Comme tout ce qui vit.
+Et la ligne de côte de Taïwan — s'élève légèrement à chaque séisme, recule légèrement à chaque vague. Naît et disparaît simultanément. Comme tout ce qui est vivant.
 
 ## Références
 
-1. [La crise du cou de la Reine à Yehliu — ETtoday (2023)](https://travel.ettoday.net/article/2083088.htm)
-2. [Technique de consolidation imitant le grès naturel, NTUT — UDN (2024)](https://udn.com/news/story/6928/8440128)
-3. [Profondeur de la fosse de Ryukyu — Britannica](https://www.britannica.com/place/Ryukyu-Trench)
-4. [Altitude de Yushan et taux de soulèvement — Administration du parc national de Yushan](https://www.ysnp.gov.tw/FAQ/C007000?ID=c7939bca-5d9f-4fde-8c82-9931afbc9289)
-5. [Prévisions de disparition de Waisanding — NOWnews (2021)](https://www.nownews.com/news/5196813)
-6. [Impact du complexe Liuqing sur Waisanding — Thinking Taiwan](https://www.thinkingtaiwan.com/content/4449)
-7. [Blanchissement corallien de 2020 — Our Island (Ourisland)](https://ourisland.pts.org.tw/content/7392)
-8. [Au moins un tiers des coraux morts lors du blanchissement — Liberty Times (2021)](https://news.ltn.com.tw/news/life/breakingnews/3408990)
-9. [Littoral de Taïwan — Wikipédia](https://zh.wikipedia.org/zh-hant/台灣海岸)
-10. [Présentation détaillée du littoral taïwanais — Water Resources Agency, MOEA](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088)
+1. [Crise de la fracture du cou de la Reine de Yehliu — Rapport ETtoday (2023)](https://travel.ettoday.net/article/2083088.htm)
+2. [Technologie de renforcement du grès imitant la nature de l'Université nationale de technologie de Taïwan — Union News Network (2024)](https://udn.com/news/story/6928/8440128)
+3. [Profondeur du fossé de Ryukyu — Britannica](https://www.britannica.com/place/Ryukyu-Trench)
+4. [Altitude du Mont Yushan et taux d'élévation — Bureau de gestion du parc national du Mont Yushan](https://www.ysnp.gov.tw/FAQ/C007000?ID=c7939bca-5d9f-4fde-8c82-9931afbc9289)
+5. [Prévision de disparition de l'île de Wuziqi — NOWnews (2021)](https://www.nownews.com/news/5196813)
+6. [Impact de Liuyung sur l'île de Wuziqi — Think Magazine](https://www.thinkingtaiwan.com/content/4449)
+7. [Blanchissement des coraux en 2020 — Notre île](https://ourisland.pts.org.tw/content/7392)
+8. [Au moins 1/3 des coraux blanchis meurent — Liberty Times (2021)](https://news.ltn.com.tw/news/life/breakingnews/3408990)
+9. [Côtes de Taïwan — Wikipédia](https://zh.wikipedia.org/zh-hant/台灣海岸)
+10. [Présentation détaillée des côtes de Taïwan — Bureau des ressources hydrauliques, Ministère des affaires économiques](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088)

@@ -40,7 +40,7 @@ Contudo, por trás dos dados esconde-se uma contradição profunda. Uma pesquisa
 
 Aos domingos, as reuniões no chão xadrez preto e branco do saguão da Estação de Taipé (Estação Principal) são a paisagem mais visível da vida forasteira em Taiwan. Essa tradição provocou intensos protestos em 2020, durante a pandemia, devido a uma "ordem de proibição de sentar", evoluindo depois, no debate sobre o direito ao espaço público e o direito ao descanso dos migrantes, para a atual "abertura condicional" [^6].
 
-Para os migrantes, aqui não é apenas um nó de transportes, mas um ** "estúdio de transmissão"**. No saguão da Estação Principal, vê-se por todo lado migrantes transmitindo ao vivo pelo telemóvel, com conteúdos que vão da culinária da terra natal às gargalhadas com amigos [^7].
+Para os migrantes, aqui não é apenas um nó de transportes, mas um **"estúdio de transmissão"**. No saguão da Estação Principal, vê-se por todo lado migrantes transmitindo ao vivo pelo telemóvel, com conteúdos que vão da culinária da terra natal às gargalhadas com amigos [^7].
 
 - **Apoio psicológico**: a transmissão ao vivo é o cordão umbilical que atravessa o oceano e os liga à terra natal.
 - **Recuperação da subjetividade**: diante da câmara, deixam de ser força de trabalho convocada pelo empregador e passam a ser sujeitos com vida própria.
@@ -70,7 +70,7 @@ Desde as autoestradas dos anos 1990 até à atual construção de fábricas de a
 
 ### A Grande Marcha dos Migrantes: o brado pela abolição do "limite de anos de trabalho"
 
-A bienal "Grande Marcha dos Migrantes" voltou às ruas em dezembro de 2025. Além da reivindicação de longa data pela "livre mudança de empregador", o foco central desta edição foi a ** "abolição do limite de anos de trabalho dos trabalhadores migrantes operários (12-14 anos)"** [^9].
+A bienal "Grande Marcha dos Migrantes" voltou às ruas em dezembro de 2025. Além da reivindicação de longa data pela "livre mudança de empregador", o foco central desta edição foi a **"abolição do limite de anos de trabalho dos trabalhadores migrantes operários (12-14 anos)"** [^9].
 
 Embora o governo promova o "Plano de Retenção de Mão de Obra Técnica de Nível Intermédio" (até início de 2026 já aprovado para mais de 62 mil pessoas), visando permitir que migrantes experientes permaneçam a trabalhar em Taiwan, o direito de candidatura cabe inteiramente ao empregador, e o limiar salarial foi ainda elevado em 2026, fazendo com que muitos migrantes experientes, ao atingir o limite de anos, continuem a enfrentar o dilema da deportação obrigatória [^10].
 
@@ -84,7 +84,7 @@ No início de 2026, o número de trabalhadores migrantes desaparecidos em Taiwan
 
 ### A questão dos trabalhadores migrantes indianos: a entrada "condicional" de 2026
 
-Após a assinatura do MOU entre Taiwan e Índia em 2024, a controvérsia atingiu novo pico em abril de 2026. Perante a pressão de uma petição que superou **40 mil** assinaturas, a ministra do Trabalho **Hung Shen-han** apresentou na Legislativa os ** "dois pré-requisitos" ** para a entrada [^14]:
+Após a assinatura do MOU entre Taiwan e Índia em 2024, a controvérsia atingiu novo pico em abril de 2026. Perante a pressão de uma petição que superou **40 mil** assinaturas, a ministra do Trabalho **Hung Shen-han** apresentou na Legislativa os **"dois pré-requisitos"** para a entrada [^14]:
 
 1. **As empresas terem de facto necessidade**.
 2. **O plano de execução do lado indiano cumprir os nossos requisitos e controlos**.

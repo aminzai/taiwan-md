@@ -116,7 +116,7 @@ Trong đó, ca khúc thứ ba là "[Miffy]".
 
 Ca khúc này **xin lỗi** cho **Cảnh Minh Huy**, một nhà hoạt động xã hội. Cảnh Minh Huy là một chuyên gia phân tích dòng tiền tiền mã tả, dành trang trọng theo dõi các vụ gian lận biên giới và tội phạm tiền mã tả, vạch ngân cho nạn nhân. [^9] Điệp khúc "[Miffy]" là "dường như có ánh sáng", câu này lấy từ những lời cảm nghĩ của Cảnh Minh Huy về sự nghiệp mình trong cuộc đời.
 
-Vị trí đặc biệt của ca khúc này trong tác phẩm của Nẻo Và Núi: đây là một **bài hát xin lỗi của các nhà sáng tạo nữ dành cho một nhà hoạt động xã hội nữ\*\***. Trong lịch sử âm nhạc tiếng Hoa của Đài Loan, các ca khúc xin lỗi cho các nhân vật nữ thực tế không phổ biến. Viết xin lỗi cho các nhà hoạt động xã hội nữ thực sự, các nhà sĩ nữ chưa từng có trong nhiều thập kỷ. [^9]
+Vị trí đặc biệt của ca khúc này trong tác phẩm của Nẻo Và Núi: đây là một **bài hát xin lỗi của các nhà sáng tạo nữ dành cho một nhà hoạt động xã hội nữ**. Trong lịch sử âm nhạc tiếng Hoa của Đài Loan, các ca khúc xin lỗi cho các nhân vật nữ thực tế không phổ biến. Viết xin lỗi cho các nhà hoạt động xã hội nữ thực sự, các nhà sĩ nữ chưa từng có trong nhiều thập kỷ. [^9]
 
 Toàn bộ album xoay quanh các chủ đề "ẩn giấu", "lời cấm", "xấu hổ", tập trung vào trải nghiệm thể xác và ký ức cảm xúc mà các phụ nữ trải qua trong quá trình lớn lên. [^9] Đây là chuyển đổi rõ rệt nhất từ album thứ nhất sang thứ hai của Nẻo Và Núi: từ "viết về những lo âu mọi người đều có" đến "viết về những điều sâu thẳm mà chỉ phụ nữ mới trải qua".
 

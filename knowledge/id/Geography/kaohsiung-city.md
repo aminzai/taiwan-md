@@ -101,7 +101,7 @@ Pabrik minyak lebih awal. Pabrik Minyak CPC Kaohsiung di kaki Gunung Banping Dis
 
 1965 Pemerintah tetapkan "Metode Bimbingan Pengolahan Impor Kapal Tua", Qianzhen, Caoza wilayah mulai hancurin kapal.「Tiap hari kira-kira 20 ribu pekerja di dermaga hancurin kapal, rata-rata tiap hari bisa hancurin hingga 10.000 ton plat baja, bikin Taiwan dapat julukan 'Raja Hancurin Kapal' dunia」[^7]。1973 Kota Kaohsiung catat volume hancurin kapal dunia nomor 1. 1986 Kawasan Industri Hancurin Kapal Daren Gong satu tanker Canary ledakan sisa minyak di tangki bawah, bikin 16 orang meninggal, ratusan luka.「1989 Otoritas Pelabuhan Kaohsiung tarik kembali Kawasan Khusus Hancurin Kapal Daren, ganti jadi Pusat Kontainer Kelima. 1990, industri hancurin kapal resmi terpaksa mundur tengah jalan」[^7]。Satu industri nomor 1 dunia, dua puluh tahun hilang.
 
-> **✦** 「**「Secara berurutan muat satu ringan, dua ringan, lima ringan dkk empat puluhan pabrik besar, jadi wilayah pencemar terbesar resmi diakui.」**（Reporter《Petrokimia Zombie yang Tak Mati》[^5]\*\*）
+> **✦** 「**「Secara berurutan muat satu ringan, dua ringan, lima ringan dkk empat puluhan pabrik besar, jadi wilayah pencemar terbesar resmi diakui.」**（Reporter《Petrokimia Zombie yang Tak Mati》[^5]）
 
 Memori orang Kaohsiung soal sejarah ini pecah banget. 1971 sampai 1980-an, industri berat adalah bangga Kaohsiung, juga kantong gaji Kaohsiung. Tapi waktu yang sama, warga Houjin mulai nemuin atap rumah abunya tebal banget, nelayan Dalinpu mulai nemuin ikan di jaringnya kurang. Trus 1987.
 
@@ -135,7 +135,7 @@ Tahun 1979 yang sama, Januari AS putus hubungan diplomatik sama Republik Tiongko
 
 Bentrokan sampe malam malam. Tiga hari kemudian, 13 Desember pagi 6, Kepala Staf Keamanan gelar penangkapan massal se-pulau. Chen Chu, Lin Yi-hsiung, Annette Lu, Chang Chun-hung pagi-pagi berurutan ditangkap. Huang Hsin-chieh 14 Desember pagi di Yuan Lembaga Chuanfa ditangkap. Shih Ming-teh lari 26 hari, 8 Januari 1980 di rumah warga ditangkap. Total 152 orang terlibat.
 
-> **✦** 「**「18 April, pengadilan militer keluarkan putusan akhir, 8 orang semua bersalah, Shih Ming-teh dihukum penjara seumur hidup, Huang Hsin-chieh 14 tahun penjara, Yao Chia-wen, Chang Chun-hung, Lin Yi-hsiung, Annette Lu, Chen Chu, Lin Hung-hsuan masing-masing hukuman penjara 12 tahun.」**（Wikipedia entri Peristiwa Formosa[^12]）\*\*
+> **✦** 「**「18 April, pengadilan militer keluarkan putusan akhir, 8 orang semua bersalah, Shih Ming-teh dihukum penjara seumur hidup, Huang Hsin-chieh 14 tahun penjara, Yao Chia-wen, Chang Chun-hung, Lin Yi-hsiung, Annette Lu, Chen Chu, Lin Hung-hsuan masing-masing hukuman penjara 12 tahun.」**（Wikipedia entri Peristiwa Formosa[^12]）
 
 Pengadilan militer besar dari 18 Maret 1980 selama 9 hari, terdakwa pake 15 pengacara pembela, termasuk Jiang Pengjian, Frank Hsieh, You Ching, Chen Shui-bian, Su Tseng-chang, Chang Chun-hsiung. Chen Shui-bian tanggung Huang Hsin-chieh. **Kemudian segromolan pengacara ini semua jadi tokoh gerakan non-KMT**: Chen Shui-bian nanti terpilih Presiden, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung jadi Perdana Mentri, You Ching jadi Bupati Taipei, Jiang Pengjian jadi Ketua DPP pertama.
 
@@ -257,7 +257,7 @@ Struktur populasi: Hoklo mayoritas (1684 Qing bikin Kabupaten Fengshan后 orang 
 
 Banding Keelung 360 ribu, Kaohsiung 7 kali lebih; banding Taipei 2,4 juta, Kaohsiung sedikit lebih. Tapi keunikan kota ini bukan jumlah populasi, tapi jangkauan: **Pantai Xiziwan, kampung Namasia, kapal penyeberangan Qijin, payung kertas Meinong di satu koordinat administratif hidup berdampingan**. Ini satu-satunya kota langsung Taiwan yang sekaligus punya inti kota, kawasan industri berat, enklave Hakka, tiga kelompok suku asli pegunungan.
 
-> **✦** 「**「Asal Kota Kaohsiung 11 distrik sama asal Kabupaten Kaohsiung 27 kecamatan/kota, gabung jadi 38 distrik (termasuk 3 distrik gunung suku asli kota langsung).」**（Wikipedia entri Pembagian Administratif Kota Kaohsiung[^17]）\*\*
+> **✦** 「**「Asal Kota Kaohsiung 11 distrik sama asal Kabupaten Kaohsiung 27 kecamatan/kota, gabung jadi 38 distrik (termasuk 3 distrik gunung suku asli kota langsung).」**（Wikipedia entri Pembagian Administratif Kota Kaohsiung[^17]）
 
 ## 2018 Gelombang Han, 2020 Pemecatan
 

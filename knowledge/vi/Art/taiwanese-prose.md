@@ -155,7 +155,7 @@ Giá trị duy nhất của văn xuôi Đài Loan, không chỉ nằm ở chỗ 
 
 Trong một thời đại mà "tốc độ" và "hiệu quả" là những giá trị chủ đạo, văn xuôi Đài Loan kiên trì "thẩm mỹ của sự chậm rãi": quan sát chậm rãi, cảm nhận chậm rãi, viết lách chậm rãi. Sự kiên trì này, bản thân nó chính là một lập trường văn hoá.
 
-**Quan trọng hơn là, văn xuôi Đài Loan chứng minh khả năng dân chủ hóa của văn học.**Nó không cần kiến thức sâu sắc, không cần kỹ thuật phức tạp, chỉ cần quan sát và cảm xúc chân thành. Bất kỳ ai cũng có thể là tác giả văn xuôi, mỗi trải nghiệm sống của mỗi cá nhân đều xứng đáng được viết ra.
+**Quan trọng hơn là, văn xuôi Đài Loan chứng minh khả năng dân chủ hóa của văn học.** Nó không cần kiến thức sâu sắc, không cần kỹ thuật phức tạp, chỉ cần quan sát và cảm xúc chân thành. Bất kỳ ai cũng có thể là tác giả văn xuôi, mỗi trải nghiệm sống của mỗi cá nhân đều xứng đáng được viết ra.
 
 Đây có lẽ chính là đóng góp lớn nhất của văn xuôi Đài Loan: nó để văn học trở về cuộc sống, để viết lách trở về mỗi người xung quanh ta. Trong làn sóng toàn cầu hóa, "phổ biến ở địa phương" này, chính là sức mềm văn học quý báu nhất của Đài Loan.
 

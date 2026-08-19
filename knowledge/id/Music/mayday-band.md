@@ -1,6 +1,6 @@
 ---
 title: 'Mayday'
-description: 'Pada tahun 1997, lima siswa SMA dari Sekolah Menengah Atas Normal Taipei mendaftar dalam festival musik "Wild Stage" menggunakan nama samaran di BBS. Tiga puluh tahun kemudian, mereka menjual 320.000 tiket dalam waktu sepuluh menit di Taipei Dome, tampil 30 kali di Stadium Nasional Beijing (Bird''s Nest), namun juga mengucapkan empat kata yang membuat hati orang Taiwan hancur di panggung yang sama.'
+description: 'Pada tahun 1997, empat siswa SMA dari Sekolah Menengah Atas Normal Taipei mendaftar dalam festival musik "Wild Stage" menggunakan nama samaran di BBS. Tiga puluh tahun kemudian, mereka menjual 320.000 tiket dalam waktu sepuluh menit di Taipei Dome, tampil 30 kali di Stadium Nasional Beijing (Bird''s Nest), namun juga mengucapkan empat kata yang membuat hati orang Taiwan hancur di panggung yang sama.'
 date: 2026-03-23
 category: 'Music'
 tags:
@@ -35,7 +35,7 @@ translatedAt: '2026-07-26T23:43:18+08:00'
 
 Pada 7 Juli 1999, antrian tak berujung terbentuk di luar toko kaset di Ximending, Taipei. Sebuah CD berjudul _Mayday First Creation Album_ (yang bahkan tidak mau repot-repot diberi nama album yang lebih rapi) resmi dirilis [^1]. Pembeli kaset tersebut sebagian besar adalah siswa SMA berusia belasan tahun; mereka tidak tahu bahwa benda yang mereka pegang akan menulis ulang aturan bisnis seluruh industri musik Mandarin dalam tiga puluh tahun ke depan.
 
-## Lima Anak dari Sekolah Menengah Atas Normal Taipei
+## Empat Anak dari Sekolah yang Sama, dan Seorang Drummer yang Datang Dua Tahun Kemudian
 
 Kisah Mayday harus dimulai dari sebuah sekolah menengah. Pada tahun 1995, di Sekolah Menengah Atas Normal Taipei, Ashin (Chen Hsin-hung, berasal dari Beitou, lahir 1975) dan Monster (Wen Shang-yi, berasal dari Hsinchu, lahir 1976) bertemu di klub gitar [^2]. Keduanya mengajak teman sekelas membentuk "So Band" dan berlatih di ruang bawah tanah. Ashin menangani vokal, Monster bermain gitar, kemudian Martha (Chai Sheng-yan, berasal dari Kaohsiung, lahir 1977) mengambil alih bass, dan Stone (Shih Chin-hang, berasal dari Taipei, lahir 1975) mengisi posisi gitar kedua [^3].
 

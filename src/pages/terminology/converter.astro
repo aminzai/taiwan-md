@@ -71,6 +71,11 @@ interface TermEntry {
     china?: string;
     hongkong?: string;
   };
+  usage?: {
+    example?: string;
+    note?: string;
+    exceptions?: string;
+  };
   notes?: string;
   sources?: string[];
 }
@@ -81,6 +86,11 @@ interface ConversionRule {
   forkType: string;
   category: string;
   id: string;
+  /** Per-term scope qualifier from usage.note / usage.exceptions (issue #1286:
+   *  e.g. 陰陽怪氣 — only the VERB usage is a China-internet usage; the
+   *  adjective is MoE-dictionary standard Mandarin). Rendered under the
+   *  suggestion row so the tool never over-claims the whole word. */
+  note?: string;
 }
 
 const termDir = resolve(process.cwd(), 'data/terminology');
@@ -103,6 +113,16 @@ for (const file of files) {
       const id = d.id || file.replace('.yaml', '');
       const target = taiwanVal;
       const chinaRaw = chinaVal;
+
+      // Per-term scope qualifier (issue #1286). usage.note takes precedence,
+      // usage.exceptions is the widespread legacy field (~190 entries).
+      // Placeholder「無」means "no exception" — treat as absent.
+      const usageNoteRaw = String(d?.usage?.note || d?.usage?.exceptions || '')
+        .split('\n')
+        .join(' ')
+        .trim();
+      const note =
+        usageNoteRaw && usageNoteRaw !== '無' ? usageNoteRaw : undefined;
 
       // Step 1: Clean the raw china value (strip annotations, take first slash variant)
       const chinaCleaned = cleanChinaSource(chinaRaw);
@@ -129,6 +149,7 @@ for (const file of files) {
           forkType,
           category,
           id,
+          note, // undefined is dropped by JSON.stringify — no payload cost
         });
         seenSources.add(chinaTraditional);
       }
@@ -147,6 +168,7 @@ for (const file of files) {
           forkType,
           category,
           id: id + '_simp',
+          note,
         });
         seenSources.add(chinaSimplified);
       }
@@ -165,6 +187,7 @@ for (const file of files) {
           forkType,
           category,
           id: id + '_orig',
+          note,
         });
         seenSources.add(chinaCleaned);
       }
@@ -205,6 +228,9 @@ for (const r of rules) {
     forkType: r.forkType,
     category: r.category,
     id: r.id,
+    // note deliberately NOT carried: it qualifies the CN term's scope
+    // (「僅動詞用法屬中國網路用語」), which reads as nonsense under a
+    // TW→CN suggestion row.
   });
   seenReverseSources.add(r.target);
 }
@@ -893,6 +919,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
             ${m.count > 1 ? `<span class="change-count">×${m.count}</span>` : ''}
             <a href="${TERM_PAGE_BASE}${encodeURIComponent(termPageId(m.id))}" class="term-link" title="詞源頁">📖</a>
             <a href="${GITHUB_BASE}${encodeURIComponent(m.id)}.yaml" target="_blank" rel="noopener" class="github-link" title="查看 YAML 原始碼">🔗</a>
+            ${m.note ? `<span class="change-note">⚠️ ${escHtml(m.note)}</span>` : ''}
           </li>
         `;
     }
@@ -1332,6 +1359,14 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
   .change-count {
     font-size: 0.78rem;
     color: #888;
+  }
+  /* Per-term scope qualifier (issue #1286) — full-width second line inside the
+     flex-wrap .change-item, so「陰陽怪氣 → 怪裡怪氣」can say「僅動詞用法」. */
+  .change-note {
+    flex-basis: 100%;
+    font-size: 0.8rem;
+    line-height: 1.6;
+    color: #8a6d1a;
   }
   .term-link {
     margin-left: auto;

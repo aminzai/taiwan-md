@@ -1,0 +1,110 @@
+[
+  {
+    "number": 1425,
+    "path": "knowledge/History/台灣鹽業.md",
+    "actions": [
+      "subcategory 補「殖民與帝國」（三候選同分，比照站內蓬萊米.md／19世紀的樟腦戰爭.md 同型跨時代產業史慣例）",
+      "分號 16→12（僅轉可獨立成句的 4 處為句號，未動列表/腳註/blockquote）",
+      "curation incubating",
+      "路徑 knowledge/台灣鹽業.md → knowledge/History/台灣鹽業.md（依 frontmatter category 對齊資料夾，push 時 --delete 舊路徑）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "a61bd414bbef272abee112b0f95056cb4058da88",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "16c0e7108c88b59502d9548f567053ccdc206530",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "全文最乾淨一篇，無圖片問題、腳註全部 canonical。push-heal-to-pr.sh 首次 fetch 到的 FETCH_HEAD 與 gh headRefOid 不一致（疑似 GitHub pull ref 快取延遲），重 fetch 後一致，DRY_RUN 覆核過才正式 push。"
+  },
+  {
+    "number": 1426,
+    "path": "knowledge/Society/冷氣與能源貧窮議題.md",
+    "actions": [
+      "curation verified→incubating（投稿者自填信任徽章值，非站上查證流程結果，特別指示要求強制改）",
+      "3 張圖從 Manus AI 私有 sandbox session URL（private-us-east-1.manuscdn.com，AWS 簽章 2026-12-28 到期）改收 Wikimedia Commons CC0 原始檔案：taipei-old-apartment-cc0.webp／puli-community-cc0.webp／taipei-illegal-architecture-cc0.webp，存入 public/article-images/society/",
+      "分號 20→5（未動有 4 個分號的圖說行）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "2b1523b1c0ffb5086fcd6878d76cced3a109f348",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "de87c043a1db4f842f04144f89b5988d7b2e292f",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "3 張圖 ingest 過程多次遇 Wikimedia HTTP 429（速率限制），第一張重試 4 次（每次間隔 25 秒）才成功，第二、三張直接成功；核對 3 個檔名皆與圖說宣稱的 Wikimedia Commons 頁面、攝影者、CC0 授權相符才收進。"
+  },
+  {
+    "number": 1427,
+    "path": "knowledge/Economy/Yahoo-kimo.md",
+    "actions": [
+      "修 [^10] 死鏈：URL 缺副檔名＋括號未跳脫（.../File:Yahoo!_Mail_Logo_(1997-2009) 在第一個 ) 被截斷），補 .svg 並把括號 percent-encode 成 %28%29，curl 驗證 200",
+      "分號 33→10（含 2 處圖說保留原樣）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "77e6f23216982fe5817460733a4d2a91d23f0578",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "65d2b7e12a63924990b7fb23b11b1a8e1c9a3ae6",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "subcategory 已存在（企業列傳），不需補。本批分號密度最高（heal 前 hard=33），全數為可拆句的獨立子句樣式，機械轉換風險低。"
+  },
+  {
+    "number": 1428,
+    "path": "knowledge/Culture/國立臺灣博物館.md",
+    "actions": [
+      "subcategory 補「藝術園區」（工藝與美學／族群文化兩候選同分，比照站內國立故宮博物院.md 同型國家博物館慣例，非字面直譯 SUBCATEGORY.md「博物館／文資類」但取既有精確前例）",
+      "分號 20→6（含 3 處圖說保留原樣）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "4ce29d97d6f8264463e708b2fa734f4c5d0f42a0",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "9e95cb7a11e822d675f0518acf019efbb2334c93",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "Phase A red_flag 提出「或許該歸 Art／策展與教育」的分類討論；本次維持 Culture（PR frontmatter 原值），選用站內既有精確前例（故宮博物院）而非 Culture 段兩個同分候選，避免主觀二選一。"
+  },
+  {
+    "number": 1429,
+    "path": "knowledge/Politics/第一次總統直選.md",
+    "actions": [
+      "subcategory 補「選舉制度」（SUBCATEGORY.md 未列 Politics 大類子分類表，比照站內 14 篇 Politics 文章中 7 篇既有慣例）",
+      "分號 24→10（保留 1 處三段排比修辭句「從國民大會代表投票...到...；從...到...；從...到...」未拆，避免破壞刻意的排比節奏）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "0cbc25416b376089d606092d4685a5c1603bd4d9",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "f9f1949395e7e8211e750b72e6430ab1594755bf",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "本批唯一觸及兩岸／飛彈危機等高敏感題材文章；所有分號轉句號僅動標點，未觸碰 hedging 用語（「可能」「不能直接歸因」等既有措辭原樣保留）。"
+  },
+  {
+    "number": 1431,
+    "path": "knowledge/Society/婦女新知.md",
+    "actions": [
+      "分號 20→7（含 4 處圖說保留原樣；另保留 2 處刻意排比修辭句未拆，如結尾「先用刊物建立語言，再用語言建立組織；先讓個人經驗能被聽見...」）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "6b051e31b7035ef406b9bc416c49c3601cfd5778",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "0a8b84ba931fdf2a64b4c6f979ab6f931dda00ac",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "subcategory（人權與平等）已正確，不需補。特別指示只處理本篇，#1432（同題重複投稿）未動、仍為 OPEN draft，留給主 session 依 Phase A 比對結論處理 close。"
+  }
+]

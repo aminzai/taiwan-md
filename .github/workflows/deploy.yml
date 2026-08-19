@@ -93,6 +93,8 @@ jobs:
       - name: Install dependencies
         if: steps.node-modules-cache.outputs.cache-hit != 'true'
         run: npm ci --prefer-offline --no-audit
+      - name: Verify CJK Markdown parser contract
+        run: npm run test:markdown
       - name: Validate frontmatter (changed files)
         run: node scripts/core/test-frontmatter.mjs --ci
 

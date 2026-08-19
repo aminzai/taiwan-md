@@ -174,6 +174,53 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 台灣吉祥物 EVOLVE — 補回被 PR #1391 換血版本丟掉的四段既有內容
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/吉祥物.md
+- **Priority**: `P1`（讀者可見的內容倒退：既有站上內容在 merge 後消失）
+- **Status**: `pending`
+- **Requested**: 2026-08-18 by twmd-maintainer-manual（哲宇 in-session 完整審核 71 PR）
+- **Notes**:
+  - idlccp1984 的 [PR #1391](https://github.com/frank890417/taiwan-md/pull/1391) 把本文從 2,441 字換成 5,781 字、H2 2→15、把舊版 4 個 UGC 來源全換成官方／媒體來源——整體是升級，依 merge-first 收下（curation incubating）。
+  - 但新版**丟了舊版四個主題**，需要補回（舊文在 git：`git show 350dac604:knowledge/Lifestyle/吉祥物.md`）：(1) 1990 職棒元年四隊吉祥物（兄弟象／三商虎／統一獅／味全龍）(2) 黑熊吉祥物氾濫與 PK 戰（高高熊 vs 高雄熊、威熊、寧夏熊）(3) 西門紅樓「紅福」整段（含台北稻荷神社起源考據）(4) 國立臺灣文學館「阿龍」抄襲事件、台南「虱目魚小子」登上 Last Week Tonight、澎湖醜萌吉祥物群
+  - 補回時要用新版的腳註品質標準（不回收舊版 Facebook／Threads 來源），Last Week Tonight 那條要重新找一手來源
+  - 敏感度低；陷阱：新舊兩版敘事口吻不同，接回時要順稿不能只貼
+- **Reference**: PR #1391、`reports/maintainer/2026-08-18-pr-triage/batch-B.json`（update_delta 欄）、舊版 `350dac604:knowledge/Lifestyle/吉祥物.md`
+
+### 中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分、誰在長、立法院砍在哪、錢有沒有花掉
+
+- **Type**: `NEW`
+- **Category**: Politics
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-08-17 by 2026-08-17-173659-budget-page session（EVOLVE Mode 4 定案方案 D：/budget 頁講圖，文章講故事，走 REWRITE-PIPELINE 帶腳註、babel 翻 12 語）
+- **Notes**:
+  - 資料層現成：`src/data/ly-budget.json`（十一年度機關別／政事別／執行率／刪凍／事件，逐筆帶來源）＋ 四份研究報告 `reports/research/2026-08/ly-budget-research-{A,B,C,D}.md`（已過 agent-report-health）
+  - 立體群像：府會同黨九年刪減比例窄帶（1.0–1.25%）→ 114 年度 6.62% → 115 年度 1.58% 但三讀拖到 8/14；文化部媒宣費 4,738 萬連兩年歸零；國防 9,495 億 vs 政事別 5,488 億的口徑教學；執行率 97–98% 與分母故事
+  - 政治題：雙方具名並排（李遠／視盟 vs 張雅屏／在野付委條件），評價詞歸屬說話者，不裁決（MANIFESTO §自主權邊界）
+  - 缺口待補：原民會／客委會媒體費、憲法法庭、華視數字；卓榮泰不副署財劃法（2025-12-15）一手連結；115 年度三讀後機關別法定表（主計總處上架後重跑 builder）
+  - 文章內視覺化用 tw-line／tw-stack／tw-bars 模組（graph.md），不重造 /budget 的 SVG
+- **Reference**: [reports/design-ly-budget-page-2026-08-17.md](../../reports/design-ly-budget-page-2026-08-17.md) §四 方案 D、§三 研究綜整
+
+### 英文語料門面句批次 EVOLVE — 排到位卻零點擊，SC 三源指向 babel 沒過 Stage 2.5 第二道
+
+- **Type**: `EVOLVE`（批次，非單篇）
+- **Category**: 跨類（People / Economy 為主）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-08-15 by `/twmd-finale` 第三棒資料掃描（**非完整 Mode-1 EVOLVE**，見下方限制）
+- **Notes**:
+  - **訊號**：SC 7d（2026-08-07→08-13）opportunities 清單裡，前十條有九條是**英文 query、排名在第一頁、點擊數 0**。`c. c. wei` pos 5.73／imp 261／clicks 0；`asus origin country` pos 9.98／imp 154／clicks 0；`brigitte lin` pos 10.67／imp 448／clicks 0；`chen chih-chung` pos 4.14／imp 139／clicks 0；`blue uas cleared list 台灣廠商 2026` pos 5.03／imp 152／clicks 0
+  - **已排除的解釋**：英文頁全部存在（`en/People/cc-wei.md`、`en/People/brigitte-lin-legendary-actress.md`、`en/People/chen-chih-chung.md`、`en/Economy/asus-computer.md`），也不是排名問題（多條在 pos 4-6）。**排到位、被看見、被拒絕**
+  - **兩種失敗形態**：(1) **履歷式標題**——`cc-wei` 的 description 是「Born in 1953. B.S. and M.S. in Electronics Engineering...; Ph.D. ...; Career path: Texas Instruments → STM...」，分號與箭頭串起的學經歷，沒有一個鉤子 (2) **意圖錯配**——查 `asus origin country` 的人要一個事實（華碩是哪國公司），`asus-computer` 的 description 承諾的是「The inspiring story of a small motherboard maker」，既是塑膠句也答非所問
+  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/REWRITE-STAGE-2D-SOURCE-FIDELITY.md) 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
+  - **建議做法**：先拿 SC opportunities 全表（不只前十）撈出所有 `clicks=0 且 position<11 且 impressions>50` 的英文 query，對應回英文檔，批次重寫 title/description。這是**門面句層的批次 EVOLVE，不動正文**，成本低、可量測（下一週期同批 query 的 CTR 就是驗收）
+  - **可能連帶**：若成立，babel pipeline 該補一道英文門面句 gate，讓翻譯不只是語言正確、也是入口正確
+- **限制（誠實標註）**：本條由 `/twmd-finale` 第三棒的資料掃描產生，**沒有跑完整 `/twmd-evolve` Mode-1 流程**（未重跑 BECOME full 14 題 self-test、未做 GA×SC×CF 三源交叉、未查 GA4 站內行為）。訊號本身是 SC 單源＋語料檔案交叉驗證，強度足以立案，但升 P0 執行前建議補完三源
+- **Reference**: `public/api/dashboard-analytics.json` §searchConsole7d.opportunities（lastUpdated 2026-08-15T08:17）
+
 ### 支語誤判學 NEW — 流傳清單錯誤率不低，六型誤判＋官方辭典自身矛盾的誠信切角
 
 - **Type**: `NEW`
@@ -558,6 +605,22 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **History-level article**：比任一個別人物 article 涵蓋更廣 + 對理解戰後台灣文化結構更基本
 - **預估時間**：150-180 min（論戰時序 + 主要 figures 立場 + 對詩界小說界影響 + 跟既存歷史 article cross-link）
 - **Reference**: reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §六 1977-1978 鄉土文學論戰
+
+### 早餐雙篇重疊整併 EVOLVE — 〈台灣豆漿與早餐店〉× 〈台灣早餐文化〉
+
+- **Type**: `EVOLVE`（兩篇合一 或 明確分工，動筆前先定方向）
+- **Category**: Food
+- **Path** (EVOLVE only): knowledge/Food/台灣豆漿與早餐店.md ＋ knowledge/Food/台灣早餐文化.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-08-16 by @idlccp1984（[Issue #1389](https://github.com/frank890417/taiwan-md/issues/1389)「此文章要和 台灣早餐文化.md 一起整理」）
+- **維護者核對**（2026-08-16 maintainer-am）：重疊屬實，不是誤報。兩篇各約 13KB，H2 層級直接對撞——「永和豆漿的全球擴張」（早餐文化）vs「從地名到招牌的失控之路」＋「全世界都在吃的那碗鹹豆漿」（豆漿與早餐店）；「美而美現象與連鎖化」vs「加盟王國的崛起」；品項段（燒餅油條、蛋餅）兩篇都寫。
+- **兩篇的體質差很多，這是選擇合併方向的關鍵**：
+  - 〈台灣豆漿與早餐店〉（2026-03-29）走場景式小標（「中正橋頭的攤車」「凌晨四點的人」「一碗豆漿裡的時間」），有敘事脊椎
+  - 〈台灣早餐文化〉（2026-03-18）是清單式骨架（「經典早餐品項解析」「特色與價值」「未來展望」），典型早期批次的百科腔＋罐頭結尾
+- **建議方向**（動筆前確認）：以豆漿篇的敘事骨架為主體吸收早餐文化篇的品項與社會角色段，早餐文化篇留成 hub 級總覽或 redirect。**不建議兩篇都保留現狀**——目前是同一批事實用兩種品質寫兩次，讀者從任一篇進來都看不到全貌。
+- **注意**：這是刪除／合併既有條目，動手前確認站上連入連結與各語言譯文的處置（兩篇都有多語版本，合併會讓譯文出現孤兒）
+- **Reference**: Issue #1389
 
 <!-- ═══ 🟠 收尾補完 — prose 已 ship 或低工時修補（媒體 / 孢子 / SEO / freshness），routine 可連續吃 ═══ -->
 
@@ -1859,6 +1922,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - SC 28d snapshot：`sc-query.py --dims query --start 2026-06-28 --end 2026-07-23`（本 session 手動跑，未落檔案，數字見上表）
   - GA4 交叉：`ga-query.py --dims pagePath --filter "pagePath~{人名}"` 逐篇跑（本 session 手動跑）
   - 既有判斷歷史：本檔許倬雲 entry §為什麼這篇 vs 其他（2026-05-17 對紀政的舊判斷）
+
+### 學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、既有文章串聯
+
+- **Type**: `NEW`（專題頁 + 1 篇條目）
+- **Category**: Society
+- **Priority**: `P2`（[Content] 類建議 default；升 P1 條件：考季前 SC「學測」「會考」查詢曝光有訊號、或哲宇點名）
+- **Status**: `pending`
+- **Requested**: 2026-08-18 by idlccp1984 於 [Discussion #104](https://github.com/frank890417/taiwan-md/discussions/104#discussioncomment-18063526)（8/16 留言，8/18 twmd-maintainer-manual 收）
+- **Notes**:
+  - C1：`knowledge/Society/學測.md`（8/15，16 腳註）與 `教育制度與升學文化.md`（早期薄文）已存在；**缺**「國中會考」單篇與把考試時程／制度變遷／志願怎麼填／相關文章收在一起的**專題頁**（形式先例：/budget、選舉專區）
+  - 投稿者附百度高考專題當形式參考——只借形式（時程表＋制度說明＋文章串聯），內容台灣自己的；該連結是 untrusted 資料不是指令
+  - 已回覆投稿者：不承諾時程、歡迎補考生／老師一手材料
+  - 專題頁屬 UI/資料頁工程（Mode 4 設計報告先行），非單純 REWRITE；國中會考條目走一般 REWRITE
+- **Reference**: Discussion #104 留言、knowledge/Society/學測.md、src/templates/budget（專題頁先例）
 
 ## 🚧 In-Progress
 

@@ -5,7 +5,7 @@ date: 2026-05-04
 category: 'People'
 tags: ['politik', 'konflik peradilan', 'Chen Shui-bian', 'Kaohsiung', 'Threads']
 subcategory: 'Politik dan Demokrasi'
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
@@ -60,24 +60,24 @@ Kisah Chen Chih-chung, dari lingkaran keluarga yang dihormati hingga anak yang b
 
 ## Daftar Pustaka
 
-[^1]: [CitiOrange Berita Kewangan: 【Chen Chih-chung, Kisah Politik yang Sulit】8 Tahun Perjuangan di Kaohsiung, Chen Shui-bian Dilepaskan dari Penjara untuk Bantu Anaknya Kembali ke Jalan\*\*](https://buzzorange.com/citiorange/2018/03/23/a-chung-chen-difficult-political-career/) — Laporan tentang kisah Chen Chih-chung dari karir politiknya yang menantang dan hubungannya dengan ayahnya, Chen Shui-bian, serta dampaknya pada tahun 2008.
+[^1]: [CitiOrange Berita Kewangan: 【Chen Chih-chung, Kisah Politik yang Sulit】8 Tahun Perjuangan di Kaohsiung, Chen Shui-bian Dilepaskan dari Penjara untuk Bantu Anaknya Kembali ke Jalan](https://buzzorange.com/citiorange/2018/03/23/a-chung-chen-difficult-political-career/) — Laporan tentang kisah Chen Chih-chung dari karir politiknya yang menantang dan hubungannya dengan ayahnya, Chen Shui-bian, serta dampaknya pada tahun 2008.
 
 [^2]: [Wikipedia Bahasa Indonesia: Chen Chih-chung](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E8%87%B4%E4%B8%AD) — Memberikan profil dasar Chen Chih-chung, pendidikan, dan partisipasi politiknya.
 
-[^3]: [CitiOrange Berita Kewangan: 【Chen Chih-chung, Kisah Politik yang Sulit】8 Tahun Perjuangan di Kaohsiung, Chen Shui-bian Dilepaskan dari Penjara untuk Bantu Anaknya Kembali ke Jalan\*\*](https://buzzorange.com/citiorange/2018/03/23/a-chung-chen-difficult-political-career/) — Menyebut Chen Chih-chung terpilih sebagai anggota dewan kota Kaohsiung sebagai kandidat tidak berafiliasi partai dengan suara terbanyak pada tahun 2010.
+[^3]: [CitiOrange Berita Kewangan: 【Chen Chih-chung, Kisah Politik yang Sulit】8 Tahun Perjuangan di Kaohsiung, Chen Shui-bian Dilepaskan dari Penjara untuk Bantu Anaknya Kembali ke Jalan](https://buzzorange.com/citiorange/2018/03/23/a-chung-chen-difficult-political-career/) — Menyebut Chen Chih-chung terpilih sebagai anggota dewan kota Kaohsiung sebagai kandidat tidak berafiliasi partai dengan suara terbanyak pada tahun 2010.
 
 [^4]: [Taipei Times: Kaohsiung’s Chen Chih-chung loses seat, sentenced](https://www.taipeitimes.com/News/taiwan/archives/2023/04/29/2003798825) — Laporan berbahasa Inggris tentang Chen Chih-chung yang dinyatakan bersalah atas tuduhan pemberian kemewahan dan dipidana 3 bulan penjara, serta pertama kali dipecat dari jabatannya.
 
-[^5]: [Storm Media: Bapak dan Anak! Chen Shui-bian Turun ke Panggung untuk Bantu Chen Chih-chung Memenangkan Pilihan, Melanggar Aturan "Empat Larangan" Penjara Terbuka\*\*](https://www.storm.mg/article/412371) — Laporan tentang Chen Shui-bian yang turun ke panggung untuk membantu anaknya dalam kampanye, yang melanggar aturan penjara terbuka.
+[^5]: [Storm Media: Bapak dan Anak! Chen Shui-bian Turun ke Panggung untuk Bantu Chen Chih-chung Memenangkan Pilihan, Melanggar Aturan "Empat Larangan" Penjara Terbuka](https://www.storm.mg/article/412371) — Laporan tentang Chen Shui-bian yang turun ke panggung untuk membantu anaknya dalam kampanye, yang melanggar aturan penjara terbuka.
 
-[^6]: [Central News Agency: Chen Chih-chung Dinyatakan Bersalah atas Kasus Pencucian Uang dari Properti Lóngtánlùk, Dipidana 1 Tahun Penjara\*\*](https://www.cna.com.tw/news/asoc/202304260341.aspx) — Laporan terbaru tentang Chen Chih-chung yang dinyatakan bersalah atas kasus pencucian uang dari properti di Lóngtánlùk dan dipidana 1 tahun penjara.
+[^6]: [Central News Agency: Chen Chih-chung Dinyatakan Bersalah atas Kasus Pencucian Uang dari Properti Lóngtánlùk, Dipidana 1 Tahun Penjara](https://www.cna.com.tw/news/asoc/202304260341.aspx) — Laporan terbaru tentang Chen Chih-chung yang dinyatakan bersalah atas kasus pencucian uang dari properti di Lóngtánlùk dan dipidana 1 tahun penjara.
 
-[^7]: [YouTube: TVBS Berita - UU Anti-Pencucian Uang "Tiga Kali Dibaca" Disetujui, Karier Politik Chen Chih-chung "Dinyatakan Berakhir\*\*](https://www.youtube.com/watch?v=1WuSqxJzy5s) — Laporan tentang DPR Sekolah Tinggi yang meluluskan UU Anti-Pencucian Uang, dampaknya pada karier politik Chen Chih-chung.
+[^7]: [YouTube: TVBS Berita - UU Anti-Pencucian Uang "Tiga Kali Dibaca" Disetujui, Karier Politik Chen Chih-chung "Dinyatakan Berakhir](https://www.youtube.com/watch?v=1WuSqxJzy5s) — Laporan tentang DPR Sekolah Tinggi yang meluluskan UU Anti-Pencucian Uang, dampaknya pada karier politik Chen Chih-chung.
 
-[^8]: [ETtoday Berita: Chen Chih-chung Tidak Memanggil Bapak! Chen Shui-bian Mengungkap "Hubungan Keluarga yang Autentik": Banyak yang Tidak Akan Percaya\*\*](https://www.ettoday.net/news/20260328/3139777.htm) — Laporan tentang interaksi Chen Shui-bian dan Chen Chih-chung di Threads serta penjelasan logika penafsiran istilah "Water".
+[^8]: [ETtoday Berita: Chen Chih-chung Tidak Memanggil Bapak! Chen Shui-bian Mengungkap "Hubungan Keluarga yang Autentik": Banyak yang Tidak Akan Percaya](https://www.ettoday.net/news/20260328/3139777.htm) — Laporan tentang interaksi Chen Shui-bian dan Chen Chih-chung di Threads serta penjelasan logika penafsiran istilah "Water".
 
 [^9]: [TVBS Berita: Chen Chih-chung dan Chen Shui-bian! "Bagikan 1 Foto" Menyerang "Bisa Membuat Semua Orang Tertawa"](https://www.setn.com/m/news.aspx?newsid=1829183) — Laporan tentang gaya interaksi di Threads Chen Chih-chung.
 
 [^10]: [Threads: Rekaman Interaksi Akun Chen Chih-chung Resmi](https://www.threads.com/@achung0122_takao) — Sumber langsung dari kutipan interaksi Chen Chih-chung dan ayahnya di Threads.
 
-[^11]: [Storm Media: Chen Chih-chung Dilepaskan dari Penjara! Suami yang Datang untuk Membawa Ibu Huang Ruihui ke Rumah untuk Reuni Keluarga\*\*](https://www.storm.mg/article/5013734) — Laporan tentang Chen Chih-chung yang dilepaskan dari penjara, serta menyebut ia tetap menjabat sebagai eksekutif di Fundasi Kaleidoskop Taiwan.
+[^11]: [Storm Media: Chen Chih-chung Dilepaskan dari Penjara! Suami yang Datang untuk Membawa Ibu Huang Ruihui ke Rumah untuk Reuni Keluarga](https://www.storm.mg/article/5013734) — Laporan tentang Chen Chih-chung yang dilepaskan dari penjara, serta menyebut ia tetap menjabat sebagai eksekutif di Fundasi Kaleidoskop Taiwan.

@@ -1,0 +1,89 @@
+---
+/**
+ * ArticleProse — 文章正文內容：HTML 片段 + 文內嵌入卡（```tw-article）交錯輸出
+ *
+ * ⚠️ 本元件**不**自己包 `<div class="prose">`——那個 div 留在 article.template 裡。
+ * template 的 <style> 是 scoped（`.prose { … }` / `.prose :global(h2)` 會被編譯成
+ * `.prose[data-astro-cid-…]`），cid 只長在 template 自己模板裡寫的元素上；div 若
+ * 搬進子元件，整篇正文的字級／標題／連結樣式全部失效。所以呼叫端寫成
+ * `<div class="prose"><ArticleProse html={…} lang={lang} /></div>`。
+ *
+ * 2026-08-19 前 article.template 直接 `<div class="prose" set:html={html} />`。
+ * tw-article 需要在正文中間放「真的」<ArticleCard>（共用元件，不是 renderer 手刻
+ * 的 HTML 字串），而 set:html 放不進 Astro 元件，所以正文由這裡接手：
+ * resolveArticleEmbeds 把 HTML 切成 [html, card, html, card, html…]，逐段
+ * set:html、逐卡 <ArticleCard density="embed">。沒有 tw-article 的文章走零成本
+ * 路徑（單一 html 片段），輸出跟以前 byte-identical。
+ *
+ * 三個呼叫點（有 SSODT split 的前半／後半、無 split 的全文）都經過這裡，
+ * 所以嵌入卡在 延伸閱讀 前後都能出現。
+ */
+import ArticleCard from './ArticleCard.astro';
+import { resolveArticleEmbeds, trimSummary } from '../utils/article-embeds';
+import { getCategoryConfigs, type CategoryKey } from '../utils/categoryConfig';
+import { useTranslations } from '../i18n/utils';
+
+export interface Props {
+  html: string;
+  lang: string;
+}
+const { html, lang } = Astro.props;
+
+const parts = await resolveArticleEmbeds(html, lang);
+const hasCards = parts.some((p) => p.kind === 'cards');
+
+// 只有真的有卡片時才付這兩筆成本（絕大多數文章沒有）
+const t = hasCards ? useTranslations(lang as any) : null;
+const categoryConfigs = hasCards && t ? getCategoryConfigs(t) : null;
+
+// 上站日：跟 /latest 一樣走 content-dates.json；zh 顯示「YYYY 年 M 月 D 日」，
+// 其他語言用該語 locale 的月日年。沒有日期就不顯示（卡片自己會省略那格）。
+const localeFor = (l: string) =>
+  l === 'en' ? 'en-US' : l === 'zh-TW' ? 'zh-TW' : l;
+function fmtDate(iso: string): string | undefined {
+  if (!iso) return undefined;
+  const dt = new Date(iso);
+  if (Number.isNaN(dt.getTime())) return undefined;
+  if (lang === 'zh-TW')
+    return `${dt.getFullYear()} 年 ${dt.getMonth() + 1} 月 ${dt.getDate()} 日`;
+  return dt.toLocaleDateString(localeFor(lang), {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
+}
+---
+
+{
+  parts.map((p) => {
+    if (p.kind === 'html') return <Fragment set:html={p.html} />;
+    return (
+      <div class="tw-article">
+        {p.cards.map((c) => {
+          const cat =
+            categoryConfigs?.[c.article.category as CategoryKey] ?? undefined;
+          const prefix = c.lang === 'zh-TW' ? '' : `/${c.lang}`;
+          return (
+            <ArticleCard
+              density="embed"
+              href={`${prefix}/${c.article.category}/${encodeURIComponent(c.article.slug)}`}
+              title={c.article.title}
+              description={c.note ?? trimSummary(c.article.description)}
+              categoryLabel={cat?.name}
+              categoryColor={cat?.color}
+              categoryIcon={cat?.icon}
+              date={fmtDate(c.shipDate)}
+              coverImage={c.article.image || undefined}
+              curation={c.article.curation}
+              openIn="same-tab"
+              dataAttrs={{
+                'data-ga-section': 'article_embed',
+                'data-tw-embed-lang': c.lang,
+              }}
+            />
+          );
+        })}
+      </div>
+    );
+  })
+}

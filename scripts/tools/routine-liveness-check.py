@@ -75,16 +75,42 @@ TAG_PATTERNS: dict[str, list[str]] = {
 
 
 def _git_subjects(since: datetime, until: datetime) -> list[str]:
+    """每個 commit 一行：`<hash> <subject> | <改到的 memory 檔名>`。
+
+    2026-08-18 補 memory 檔名（`--name-only` 只取 docs/semiont/memory/ 下的檔）：
+    self-evolve-weekly 8/16 04:20 的兩個 commit 標題是 `[routine] evolve: …升 REFLEXES #91`
+    與 `[routine] heal: 補上自身 commit hash`，memory 檔跟 evolve 同一個 commit、沒有獨立的
+    `[routine] memory: twmd-self-evolve-weekly @ …`——只 grep subject 就得到「零 git 痕跡」，
+    黃燈掛了兩天而 routine 明明跑完了。memory 檔名帶 handle 是 MEMORY-PIPELINE 的 canonical
+    命名（`YYYY-MM-DD-HHMMSS-{handle}.md`），比 commit 標題可靠；subject 仍保留給
+    沒寫 memory 只 ship 的 routine。同族：LESSONS `routine-audit-classifier-memory-commit-misattribution`。
+    """
     out = subprocess.run(
         [
             "git", "log",
             f"--since={since.isoformat()}",
             f"--until={until.isoformat()}",
-            "--pretty=format:%h %s",
+            "--pretty=format:@@%h %s",
+            "--name-only",
         ],
         cwd=REPO_ROOT, capture_output=True, text=True, check=False,
     )
-    return [l for l in out.stdout.splitlines() if l.strip()]
+    lines: list[str] = []
+    cur: str | None = None
+    mem: list[str] = []
+
+    def _flush() -> None:
+        if cur is not None:
+            lines.append(cur + (" | " + " ".join(mem) if mem else ""))
+
+    for raw in out.stdout.splitlines():
+        if raw.startswith("@@"):
+            _flush()
+            cur, mem = raw[2:], []
+        elif raw.strip() and cur is not None and raw.startswith("docs/semiont/memory/"):
+            mem.append(raw.rsplit("/", 1)[-1])
+    _flush()
+    return [l for l in lines if l.strip()]
 
 
 def check(grace_hours: float, window_hours: float) -> dict:

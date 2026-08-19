@@ -106,15 +106,19 @@ const navConfig = [
   }
   // 2026-06-10: /opendata（OpenData 策展）lives under 數據 subnav.
   // 2026-06-23: /companies（企業地圖完整版）also lives under 數據 subnav.
+  // 2026-08-17: /budget（總預算十年）also lives under 數據 subnav.
   if (item.path === '/data') {
     const opendataPath = navHref('/opendata');
     const companiesPath = navHref('/companies');
+    const budgetPath = navHref('/budget');
     active =
       active ||
       currentPath.startsWith('/opendata') ||
       currentPath.startsWith(opendataPath) ||
       currentPath.startsWith('/companies') ||
-      currentPath.startsWith(companiesPath);
+      currentPath.startsWith(companiesPath) ||
+      currentPath.startsWith('/budget') ||
+      currentPath.startsWith(budgetPath);
   }
   return {
     ...item,
@@ -141,6 +145,7 @@ const mobileSubLinks: Record<string, { href: string; label: string }[]> = {
   '/data': [
     { href: navHref('/opendata'), label: `🗂️ ${t('nav.data.curation')}` },
     { href: navHref('/companies'), label: `🏢 ${t('nav.data.enterprise')}` },
+    { href: navHref('/budget'), label: `🧾 ${t('nav.data.budget')}` },
   ],
   '/resources': [{ href: navHref('/mcp'), label: `🔌 ${t('nav.mcp')}` }],
   '/semiont': [
@@ -417,6 +422,12 @@ const categoryList = [
                           class="dropdown-item dropdown-section-header"
                         >
                           🏢 {t('nav.data.enterprise')}
+                        </a>
+                        <a
+                          href={navHref('/budget')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          🧾 {t('nav.data.budget')}
                         </a>
                         <div class="dropdown-divider" />
                         <a

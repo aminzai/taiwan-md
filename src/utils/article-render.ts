@@ -21,7 +21,8 @@
  * 六語頁面過去全部渲染成中文（含一個簡體字 bug：脚注）。作者寫的資料內容（tw-* 區塊
  * 裡的文字）不受影響，那是 babel 翻譯的範圍，不是這層的責任。
  */
-import { marked } from 'marked';
+// marked 一律從 marked-cjk 取（CJK 強調修正的唯一設定點，見該檔案首註）
+import { marked } from './marked-cjk.mjs';
 import type { Lang } from '../config/languages';
 
 // ── VIZ_STRINGS：renderer 自產 UI 字串的全語對照表（非作者資料，是 renderer 輸出）──
@@ -227,13 +228,18 @@ function resolveWikilinks(md: string) {
 const renderer = new marked.Renderer();
 
 // Inject id attributes on headings for TOC anchor links
-renderer.heading = ({ text, depth }) => {
+// ⚠️ 用 tokens 走 parseInline，不要直接吐 `text`：marked v5+ 的 `text` 是**未解析
+// 的原文**，`## **粗體**：標題` 會把 `**` 原封不動印在 <h2> 裡（2026-08-14 全站
+// 掃到 25 頁）。id 仍由原文計算，錨點與既有 TOC 連結不變（TableOfContents 讀
+// id 屬性、內文再 strip tags，所以目錄同步少掉那兩顆星）。
+// 必須是 function 而非 arrow：要拿到 marked 綁定的 this.parser。
+renderer.heading = function ({ text, tokens, depth }) {
   const id = text
     .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w\u4e00-\u9fff-]/g, '')
     .slice(0, 60);
-  return `<h${depth} id="${id}">${text}</h${depth}>`;
+  return `<h${depth} id="${id}">${this.parser.parseInline(tokens)}</h${depth}>`;
 };
 
 renderer.link = ({ href, title, text }) => {
@@ -327,6 +333,39 @@ function renderTwModule(lang: string, raw: string): string {
     raw.startsWith('*')
       ? { label: raw.slice(1).trim(), hi: true }
       : { label: raw, hi: false };
+
+  if (lang === 'tw-article') {
+    // 文內嵌入站內文章卡（2026-08-19）。每列一篇：`分類/slug` 或 `/分類/slug`，
+    // 選配 `| 一句自訂摘要`（覆蓋該篇 frontmatter description；譯文層會被翻譯）。
+    // renderer 是純字串層、拿不到別篇的 frontmatter，所以這裡只吐一個帶資料屬性
+    // 的 placeholder，裡面先放一條真的 <a>：RSS／llms.txt／任何沒走 Astro 後處理
+    // 的消費端看到的就是一條站內連結，不是空殼。文章頁的 ArticleProse.astro 會
+    // 把整個 .tw-article-slot 換成共用 <ArticleCard density="embed">。
+    // 為什麼不直接在這裡組卡片 HTML：卡片 markup 的單一真相是 ArticleCard.astro
+    // （2026-06-14「拿來共用才有意義」），renderer 手刻一份就是第二份。
+    const items = lines
+      .map((l) => {
+        const [rawPath = '', ...rest] = l.split('|');
+        const path = rawPath.trim().replace(/^\/+|\/+$/g, '');
+        const seg = path.split('/');
+        if (seg.length !== 2 || !seg[0] || !seg[1]) return null;
+        const note = rest.join('|').trim();
+        return { cat: seg[0].toLowerCase(), slug: seg[1], note };
+      })
+      .filter((x): x is { cat: string; slug: string; note: string } => !!x);
+    if (items.length === 0) return '';
+    const slots = items
+      .map(
+        (it) =>
+          `<div class="tw-article-slot" data-tw-cat="${_esc(it.cat)}" data-tw-slug="${_esc(it.slug)}"` +
+          (it.note
+            ? ` data-tw-note="${_esc(it.note).replace(/"/g, '&quot;')}"`
+            : '') +
+          `><a href="/${_esc(it.cat)}/${encodeURIComponent(it.slug)}">${_esc(it.slug)}</a></div>`,
+      )
+      .join('');
+    return `<div class="tw-article">${slots}</div>`;
+  }
 
   if (lang === 'tw-figure') {
     // line1: 大數字（含 -> / → 視為 before→after）；line2: 說明；line3: 來源

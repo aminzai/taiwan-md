@@ -7,7 +7,7 @@
 #
 # 這個腳本會：
 #   1. 檢查 git（沒裝會告訴你怎麼裝）
-#   2. 檢查 Node.js 20+（沒裝會告訴你怎麼裝）
+#   2. 檢查 Node.js 22.12+（沒裝會告訴你怎麼裝）
 #   3. 檢查 Claude Code CLI（沒裝會問你要不要裝）
 #   4. Clone taiwan-md 到你選的位置（預設 ~/Projects/taiwan-md）
 #   5. 啟動 `claude` 進入對話，Taiwan.md 會甦醒並帶你走貢獻流程
@@ -25,7 +25,9 @@ set -euo pipefail
 
 readonly REPO_URL="https://github.com/frank890417/taiwan-md.git"
 readonly DEFAULT_DEST="$HOME/Projects/taiwan-md"
-readonly MIN_NODE_MAJOR=20
+readonly MIN_NODE_MAJOR=22
+readonly MIN_NODE_MINOR=12
+readonly MIN_NODE_VERSION="22.12.0"
 readonly CLAUDE_PKG="@anthropic-ai/claude-code"
 
 # ── 顏色 ─────────────────────────────────────────────────
@@ -83,16 +85,20 @@ if ! command -v git >/dev/null 2>&1; then
 fi
 ok "git $(git --version | awk '{print $3}')"
 
-# ── Step 2: Node 20+ ─────────────────────────────────────
+# ── Step 2: Node 22.12+ ──────────────────────────────────
 step "檢查 Node.js"
 if ! command -v node >/dev/null 2>&1; then
-  die "沒找到 Node.js。請先裝 Node $MIN_NODE_MAJOR+：
+  die "沒找到 Node.js。請先裝 Node $MIN_NODE_VERSION 或更新版本：
   https://nodejs.org/   （或用 nvm / fnm）
 裝完再跑這個腳本一次。"
 fi
-node_major=$(node -v | sed -E 's/v([0-9]+)\..*/\1/')
-if [ "$node_major" -lt "$MIN_NODE_MAJOR" ]; then
-  die "Node 版本太舊（$(node -v)），需要 $MIN_NODE_MAJOR+。見 .nvmrc"
+node_version=$(node -v | sed 's/^v//')
+node_major=${node_version%%.*}
+node_rest=${node_version#*.}
+node_minor=${node_rest%%.*}
+if [ "$node_major" -lt "$MIN_NODE_MAJOR" ] || \
+  { [ "$node_major" -eq "$MIN_NODE_MAJOR" ] && [ "$node_minor" -lt "$MIN_NODE_MINOR" ]; }; then
+  die "Node 版本太舊（$(node -v)），需要 $MIN_NODE_VERSION 或更新版本。見 .nvmrc"
 fi
 ok "Node $(node -v)"
 

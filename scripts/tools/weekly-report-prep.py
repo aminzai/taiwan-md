@@ -347,6 +347,20 @@ def gather_done_log_recent(start: datetime) -> list[str]:
     return entries
 
 
+def done_log_last_entry_date() -> str | None:
+    """Latest entry date in ARTICLE-DONE-LOG, regardless of window.
+
+    Used to tell "沒交付" apart from "交付了但沒登記" when §六 comes up empty.
+    """
+    p = REPO_ROOT / "docs/semiont/ARTICLE-DONE-LOG.md"
+    if not p.exists():
+        return None
+    dates = re.findall(
+        r"^### [^\n—]+? — (20\d{2}-\d{2}-\d{2})", p.read_text(), re.MULTILINE
+    )
+    return max(dates) if dates else None
+
+
 def gather_handoff() -> str:
     """Read latest session memory file's Handoff section."""
     memdir = REPO_ROOT / "docs/semiont/memory"
@@ -667,9 +681,12 @@ def render(
         A("")
 
     # ── 六、本週完成的文章 ────────────────────────────
+    # 這一節永遠印出來。空的時候要說「空的」而不是整節消失——
+    # 缺席不留痕跡的話，讀 dossier 的人只會看到 §五 後面接 §七，
+    # 不會意識到有一節本該在那裡（REFLEXES #82 訊號不存在比訊號說謊難防）。
+    A("## 六、本週交付的文章")
+    A("")
     if done_log:
-        A("## 六、本週交付的文章")
-        A("")
         A("> 網址欄是給週報第 3 章直接用的：文章被提到時要能點得進去。")
         A("> 對不上的留空白（寧可純文字，不要送猜出來的連結）。")
         A("")
@@ -679,7 +696,20 @@ def render(
             url = resolve_article_url(topic, touched_files)
             label = f"[{topic}]({url})" if url else topic
             A(f"- {entry['date']} — {label}（{entry['suffix']}）")
+    else:
+        last_seen = done_log_last_entry_date()
+        A(f"⚠️ **ARTICLE-DONE-LOG 這 7 天沒有任何 entry**（最後一筆：{last_seen or '找不到任何 entry'}）。")
         A("")
+        A("這一節空掉有兩種可能，寫週報前要先分辨是哪一種：")
+        A("")
+        A("1. 這週真的沒有交付文章 → 照實寫。")
+        A("2. 有交付但沒人 append DONE-LOG → 那是 [ARTICLE-INBOX §完成歸檔鐵律]"
+          "(../../../docs/semiont/ARTICLE-INBOX.md) 斷了，")
+        A("   而且會同時弄瞎 [BRANCH-PIPELINE 的 dedup 三查](../../../docs/pipelines/BRANCH-PIPELINE.md)"
+          "第二層（已 ship 主題會重新進 inbox）。")
+        A("")
+        A("用 `git log --since='7 days ago' --diff-filter=A --name-only -- 'knowledge/*.md'` 對一次就知道。")
+    A("")
 
     # ── 七、教訓累積 ──────────────────────────────────
     if lessons:

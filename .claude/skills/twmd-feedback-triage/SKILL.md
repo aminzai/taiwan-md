@@ -47,6 +47,9 @@ node scripts/feedback/triage.mjs
 
 # 確認 OK 才 --commit（真開 issue + 回寫 status）
 node scripts/feedback/triage.mjs --commit
+
+# 某筆不能開成公開 issue（例：指涉具名第三人的指控）→ 排除那筆但照樣跑完（HG13）
+node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
 ```
 
 未配置 Supabase（`SUPABASE_URL`/`SUPABASE_SERVICE_KEY` 缺）→ emit「feedback backend 未配置,skip」,**不算 fail**（escalation 只看 quality gate）。
@@ -70,6 +73,11 @@ node scripts/feedback/triage.mjs --commit
   `⚠️ 漏收` = sync 沒收到（**破口，要查**）／`⚠️ 抓不到留言` = gh/token 壞了（**不准讀成對得起來**）／
   `上游已刪留言…git 留著` = 留言在 GitHub 被刪、git 留住了（主權層正常，不是問題）。
   只看 `archive-comments-synced=N` 是 proxy signal——0 分不出「沒有新留言」跟「一則都抓不到」。
+- HG13 🔴 **攔一筆用 `--exclude <id>`，不要整條不跑**：判斷某筆不能開成公開 issue 時（**指涉
+  具名私人、跟監細節、要求身份保密的檢舉信** — 三道 HARD gate 全會放行、分類器會判 `file`），
+  用 `--exclude` 排除後照樣 `--commit`，`status` 維持 `new` 留人類決定收尾，兩道對賬不受影響。
+  整條 `--commit` 不跑 = 保管那半跟著轉錄那半一起消失（LESSONS
+  `zero-input-cycle-drops-the-reconciliation`）。攔下後升 OBSERVER-QUEUE 等哲宇，**不自己回覆回報者**。
 
 ## 收官
 

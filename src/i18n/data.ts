@@ -33,7 +33,7 @@ export const dataUI = {
       'Far Eastern New Century 遠東新世紀',
     'data.company.ctbc-financial': 'CTBC Financial 中信金控',
     'data.company.yuanta-financial': 'Yuanta Financial 元大金控',
-    'data.company.giant-manufacturing': 'Giant Manufacturing 巨大',
+    'data.company.giant-manufacturing': 'Giant Manufacturing 巨大機械',
     'data.company.first-financial': 'First Financial 第一金控',
     'data.company.formosa-chemicals': 'Formosa Chemicals 台化',
     'data.company.fareastone': 'FarEasTone 遠傳電信',
@@ -113,8 +113,8 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Company',
     'data.companies.table.sector': 'Sector',
-    'data.companies.table.marketCap': 'Market Cap (億 TWD)',
-    'data.companies.table.revenue': '2025 Revenue (億 TWD)',
+    'data.companies.table.marketCap': 'Market Cap (B TWD)',
+    'data.companies.table.revenue': '2025 Revenue (B TWD)',
     'data.companies.table.employees': 'Employees',
     'data.companies.table.founded': 'Founded',
     'data.companies.insights.heading': '🔍 Key Insights',
@@ -153,7 +153,7 @@ export const dataUI = {
       'Structured datasets and statistical platforms released by government agencies',
     'data.category.1.item.1.name': 'Government Open Data Platform',
     'data.category.1.item.1.desc':
-      '2020 年，工程師用這裡的資料在 72 小時內做出口罩地圖，解決全國藥局排隊問題',
+      'In 2020, engineers used this data to build the mask-availability map in 72 hours, ending nationwide pharmacy queues',
     'data.category.1.item.2.name': 'DGBAS Statistical Database',
     'data.category.1.item.2.desc':
       'Population, economy, price indices and core national statistics',
@@ -192,16 +192,16 @@ export const dataUI = {
       'Open source communities, fact-checking, and digital democracy tools',
     'data.category.3.item.1.name': 'g0v (gov-zero)',
     'data.category.3.item.1.desc':
-      '2012 年創立，催生了口罩地圖、Cofacts、vTaiwan 等改變台灣的公民科技專案',
+      'Founded in 2012; birthplace of the mask map, Cofacts, vTaiwan and other civic-tech projects that changed Taiwan',
     'data.category.3.item.2.name': 'g0v Hackathon Events',
     'data.category.3.item.2.desc':
       'Bimonthly hackathons and open data community events',
     'data.category.3.item.3.name': 'Cofacts',
     'data.category.3.item.3.desc':
-      'LINE 群組轉傳的假消息，任何人都能提交查核，已累積數萬筆查核紀錄',
+      'Anyone can submit hoaxes forwarded in LINE groups for fact-checking; tens of thousands of checks logged so far',
     'data.category.3.item.4.name': 'vTaiwan',
     'data.category.3.item.4.desc':
-      '用 Polis 演算法找共識，成功影響 Uber 管理條例、遠距教學法規等政策',
+      'Uses the Polis algorithm to find consensus; shaped policies from Uber regulation to distance-learning rules',
     'data.category.3.item.5.name': 'JOIN Platform',
     'data.category.3.item.5.desc':
       'Government proposals, petitions, and policy discussions',
@@ -212,10 +212,10 @@ export const dataUI = {
       'Investigative reporting, fact-checking organizations, and data-driven media',
     'data.category.4.item.1.name': 'The Reporter',
     'data.category.4.item.1.desc':
-      '2015 年創立，台灣第一個非營利深度調查媒體，多次揭露重大公共議題',
+      "Founded in 2015, Taiwan's first non-profit investigative newsroom, behind repeated exposés on major public issues",
     'data.category.4.item.2.name': 'Taiwan FactCheck Center',
     'data.category.4.item.2.desc':
-      'IFCN 國際事實查核聯盟認證，Facebook 第三方查核夥伴',
+      'IFCN-certified; a Facebook third-party fact-checking partner',
     'data.category.4.item.3.name': 'READr',
     'data.category.4.item.3.desc':
       'Data journalism and open data visualization',
@@ -283,6 +283,24 @@ export const dataUI = {
     'data.enterprise.insights.card4.detail':
       'Post-consolidation, financial sector provides stability',
     'data.enterprise.exploreLink': 'View full ranking →',
+
+    // Budget Teaser Section
+    'data.budget.teaser.title':
+      '💰 Budget Decade — How Taiwan Splits Its NT$3 Trillion',
+    'data.budget.teaser.story.p1':
+      "Taiwan's FY2026 central budget passed its third reading on August 14 — the latest ever recorded. Legal spending has grown from NT$1.98T to NT$2.99T over the decade.",
+    'data.budget.teaser.story.p2':
+      "This page draws on DGBAS's own tables, broken into nine areas, with a source data table behind every chart — so every number traces back to where it came from.",
+    'data.budget.teaser.card1.label': 'FY2026 legal expenditure',
+    'data.budget.teaser.card1.detail':
+      'Up from NT$1.98T a decade earlier, in FY2016',
+    'data.budget.teaser.card2.label': 'Cut by the Legislative Yuan',
+    'data.budget.teaser.card2.detail':
+      "Heads' special allowances, overseas travel and media publicity took the deepest cuts",
+    'data.budget.teaser.card3.label': 'Ten-year growth',
+    'data.budget.teaser.card3.detail':
+      'Legal expenditure grew more than 50% from FY2016 to FY2026',
+    'data.budget.teaser.cta': 'See the full Budget Decade →',
 
     // Taiwan vs World Section
     'data.taiwanVsWorld.title': "🌏 Taiwan's Position in the World",
@@ -386,32 +404,39 @@ export const dataUI = {
       "Drag the timeline to see how an island's age portrait transforms from pyramid to inverted triangle over half a century.",
 
     'data.population.insights.card1.title': 'Median Age',
-    'data.population.insights.card1.subtitle': '歲',
+    'data.population.insights.card1.subtitle': 'years old',
     'data.population.insights.card1.detail': '30 → 43 → 57 years',
 
     'data.population.insights.card2.title': 'Birth Rate',
-    'data.population.insights.card2.subtitle': '生育率',
+    'data.population.insights.card2.subtitle': 'fertility rate',
     'data.population.insights.card2.detail': '0.87',
 
     'data.population.insights.card3.title': '65+ Population',
-    'data.population.insights.card3.subtitle': '65歲以上',
+    'data.population.insights.card3.subtitle': 'aged 65 and over',
     'data.population.insights.card3.detail': '18%',
 
     'data.population.insights.card4.title': 'Total Population',
-    'data.population.insights.card4.subtitle': '萬人',
+    'data.population.insights.card4.subtitle': 'ten thousand people',
     'data.population.insights.card4.detail': '23.4M → <20M',
 
     // Taiwan Shape Section
     'data.taiwanShape.title':
       "🗺️ The Shape of Taiwan — AI Can't Draw Taiwan Correctly. Here's the Real Version.",
-    'data.taiwanComparison.title': 'AI 畫的台灣 vs 真正的台灣',
+    'data.taiwanComparison.title': 'Taiwan as AI Draws It vs the Real Taiwan',
     'data.taiwanComparison.aiGenerated':
       'Generated by Claude Opus 4.6 (2025/3/22, no deliberate distortion)',
-    'data.taiwanComparison.correct': '正確輪廓',
+    'data.taiwanComparison.correct': 'Correct outline',
     'data.taiwanShape.story.p1':
       'Most AI image generation models lack structured geographic data for Taiwan in their training sets. The result: AI-generated images of Taiwan are often distorted, disproportionate, or confused with other islands.',
     'data.taiwanShape.story.p2':
       'Taiwan.md provides accurate, open-source, freely usable SVG outlines — a definitive answer for every scenario that needs to know "what does Taiwan look like."',
+
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Explore the full open-source map archive',
+    'data.taiwanShape.teaser.desc':
+      'SVG outlines, TopoJSON for counties and townships, usage examples in D3.js, Leaflet, Python, and Vue, plus administrative code references and other open data sources — all on one dedicated page.',
+    'data.taiwanShape.teaser.cta': "Go to Taiwan's Shape →",
 
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
@@ -436,12 +461,16 @@ export const dataUI = {
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title':
       '📡 Open Data & Digital Democracy — 30 Years of Digitization, g0v, and the Audrey Tang Effect',
+    'data.openData.heading': '📊 Open Data',
     'data.openData.story.p1':
       'Taiwan\'s digital democracy journey began in 1997 with the "Electronic Government Program," but the real transformation came in 2012 when the Executive Yuan made a pivotal decision: shift from "electronic government" to "open government." The launch of data.gov.tw in 2013 marked Taiwan\'s entry into the open data era.',
     'data.openData.story.p2':
       "What makes Taiwan unique is the g0v (gov-zero) movement — a civic tech community that doesn't just criticize government, but rebuilds it. Since 2012, g0v has held over 60 hackathons, generating 900+ projects, from the COVID-19 mask availability map (600 million queries in peak days) to Cofacts fact-checking bot (100,000+ suspicious messages processed).",
     'data.openData.story.p3':
       'The 2016 appointment of g0v participant Audrey Tang as Digital Minister institutionalized this collaboration. Taiwan now leads in "radical transparency" — from PDIS collaborative meetings to vTaiwan\'s algorithmic consensus-building. The 2022 establishment of the Ministry of Digital Affairs (moda) elevated digital governance to cabinet level, pushing initiatives like TAIDE (Taiwan\'s sovereign AI model) and "digital resilience" (submarine cable backup plans).',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Articles Added',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title':
@@ -527,7 +556,7 @@ export const dataUI = {
     'data.company.far-eastern-new-century': '遠東新世紀',
     'data.company.ctbc-financial': '中信金融持株',
     'data.company.yuanta-financial': '元大金融持株',
-    'data.company.giant-manufacturing': 'Giant 巨大',
+    'data.company.giant-manufacturing': 'ジャイアント Giant',
     'data.company.first-financial': '第一金融持株',
     'data.company.formosa-chemicals': '台化',
     'data.company.fareastone': '遠傳電信',
@@ -873,6 +902,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'ほとんどのAI画像生成モデルは、学習データに台湾の構造化された地理データが不足しています。その結果、形状の歪み、比率の誤り、さらには他の島との混同が起こります。Taiwan.md は正確でオープンソース、自由に使える台湾のSVG輪郭図を提供し、「台湾はどんな形をしているか」という問いに標準的な答えを示します。',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ オープンソース地図データ全集へ',
+    'data.taiwanShape.teaser.desc':
+      'SVG 輪郭、県市と町丁目レベルの TopoJSON、D3.js / Leaflet / Python / Vue の使用例、行政区コード対照、その他のオープンデータソース — すべて専用ページに。',
+    'data.taiwanShape.teaser.cta': '台湾のかたちへ →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -894,12 +929,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 オープンデータとデジタル民主主義',
+    'data.openData.heading': '📊 オープンデータ',
     'data.openData.story.p1':
       '電子化から開放化へ：台湾デジタルガバナンス30年の進化',
     'data.openData.story.p2':
       '1997年「電子化政府計画」の開始、2013年 data.gov.tw の開設で台湾は電子化政府からオープンガバメント時代へ。2015-2017年に3年連続「グローバルオープンデータ指標」第1位。g0v 零時政府がマスクマップと Cofacts ファクトチェックボットを生み出す。唐鳳のデジタル政務委員の実験により、台湾は世界のデジタル民主主義の実験場となった。',
     'data.openData.story.p3':
       '市民がデータを理解する力を持ち、政府がデータを進んで公開するとき、民主主義は4年に一度の投票ではなく、毎日起こる協働になります。',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': '新規記事数',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ ナレッジグラフ',
@@ -983,7 +1022,7 @@ export const dataUI = {
     'data.company.far-eastern-new-century': '위안둥신스지',
     'data.company.ctbc-financial': '중신금융지주',
     'data.company.yuanta-financial': '위안다금융지주',
-    'data.company.giant-manufacturing': 'Giant 쥐다',
+    'data.company.giant-manufacturing': '자이언트 Giant',
     'data.company.first-financial': '디이금융지주',
     'data.company.formosa-chemicals': '타이화',
     'data.company.fareastone': '위안촨전신',
@@ -1327,6 +1366,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       '대부분의 AI 이미지 생성 모델은 훈련 데이터에 타이완의 구조화된 지리 데이터가 부족합니다. 그 결과 형태 왜곡, 비율 오류, 심지어 다른 섬과의 혼동이 일어납니다. Taiwan.md는 정확하고, 오픈소스이며, 자유롭게 사용 가능한 타이완 SVG 윤곽도를 제공하여 "타이완은 어떻게 생겼나"라는 질문에 표준 답안을 제시합니다.',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ 오픈소스 지도 데이터 전체 보기',
+    'data.taiwanShape.teaser.desc':
+      'SVG 윤곽, 현시와 향진 수준의 TopoJSON, D3.js / Leaflet / Python / Vue 사용 예제, 행정구역 코드 대조, 다른 오픈 데이터 소스 — 모두 전용 페이지에서.',
+    'data.taiwanShape.teaser.cta': '대만의 모양으로 →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -1348,12 +1393,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 오픈 데이터와 디지털 민주주의',
+    'data.openData.heading': '📊 오픈 데이터',
     'data.openData.story.p1':
       '전자화에서 개방화로: 타이완 디지털 거버넌스 30년 진화',
     'data.openData.story.p2':
       '1997년 "전자화정부 계획" 시작, 2013년 data.gov.tw 출범으로 타이완은 전자정부에서 개방정부 시대로 전환. 2015-2017년 3년 연속 "글로벌 오픈 데이터 지표" 1위. g0v 영시정부가 마스크 지도와 Cofacts 팩트체크 봇을 탄생시킴. 탕펑의 디지털 정무위원 실험으로 타이완은 글로벌 디지털 민주주의의 실험장이 됨.',
     'data.openData.story.p3':
       '시민이 데이터를 이해할 능력을 갖추고, 정부가 데이터를 기꺼이 공개할 때, 민주주의는 4년에 한 번의 투표가 아니라 매일 일어나는 협업이 됩니다.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': '추가 기사',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ 지식 그래프',
@@ -1517,8 +1566,8 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Doanh nghiệp',
     'data.companies.table.sector': 'Ngành',
-    'data.companies.table.marketCap': 'Vốn hóa thị trường（trăm triệu TWD）',
-    'data.companies.table.revenue': 'Doanh thu 2025（trăm triệu TWD）',
+    'data.companies.table.marketCap': 'Vốn hóa thị trường (tỷ TWD)',
+    'data.companies.table.revenue': 'Doanh thu 2025 (tỷ TWD)',
     'data.companies.table.employees': 'Số nhân viên',
     'data.companies.table.founded': 'Thành lập',
     'data.companies.insights.heading': '🔍 Nhận định chính',
@@ -1821,6 +1870,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Dữ liệu huấn luyện của phần lớn mô hình tạo ảnh AI thiếu dữ liệu địa lý có cấu trúc về Đài Loan. Hệ quả là hình dáng bị bóp méo, tỷ lệ sai lệch, thậm chí bị nhầm lẫn với các hòn đảo khác. Taiwan.md cung cấp bản đồ đường nét Đài Loan định dạng SVG chính xác, mã nguồn mở và có thể tự do sử dụng, tạo ra đáp án chuẩn cho mọi tình huống cần biết「Đài Loan trông như thế nào」.',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Khám phá toàn bộ dữ liệu bản đồ mã nguồn mở',
+    'data.taiwanShape.teaser.desc':
+      'Đường viền SVG, TopoJSON cấp quận/huyện và xã/thị trấn, ví dụ sử dụng D3.js, Leaflet, Python, Vue, bảng đối chiếu mã hành chính, các nguồn dữ liệu mã nguồn mở khác — tất cả trên một trang riêng.',
+    'data.taiwanShape.teaser.cta': 'Đến Hình dạng Đài Loan →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -1844,12 +1900,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Dữ liệu mở và dân chủ số',
+    'data.openData.heading': '📊 Dữ liệu mở',
     'data.openData.story.p1':
       'Từ điện tử hóa đến mở hóa: ba mươi năm phát triển của quản trị số Đài Loan',
     'data.openData.story.p2':
       'Năm 1997,「Kế hoạch Chính phủ điện tử」được khởi động; năm 2013, data.gov.tw đi vào hoạt động, đưa Đài Loan từ chính phủ điện tử bước vào kỷ nguyên chính phủ mở. Trong giai đoạn 2015-2017, Đài Loan ba lần liên tiếp đứng đầu「Chỉ số Dữ liệu Mở Toàn cầu」. g0v Chính phủ Không giờ đã ươm tạo bản đồ khẩu trang và chatbot kiểm chứng thông tin Cofacts. Những thử nghiệm của Bộ trưởng Kỹ thuật số Audrey Tang đã biến Đài Loan thành phòng thí nghiệm dân chủ số của thế giới.',
     'data.openData.story.p3':
       'Khi công dân có khả năng hiểu dữ liệu và chính phủ sẵn sàng công bố dữ liệu, dân chủ không chỉ là cuộc bỏ phiếu bốn năm một lần, mà là sự hợp tác diễn ra mỗi ngày.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Bài viết đã thêm',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Đồ thị tri thức',
@@ -2016,8 +2076,8 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Perusahaan',
     'data.companies.table.sector': 'Industri',
-    'data.companies.table.marketCap': 'Kapitalisasi pasar (ratusan juta TWD)',
-    'data.companies.table.revenue': 'Pendapatan 2025 (ratusan juta TWD)',
+    'data.companies.table.marketCap': 'Kapitalisasi pasar (miliar TWD)',
+    'data.companies.table.revenue': 'Pendapatan 2025 (miliar TWD)',
     'data.companies.table.employees': 'Jumlah karyawan',
     'data.companies.table.founded': 'Didirikan',
     'data.companies.insights.heading': '🔍 Wawasan utama',
@@ -2319,6 +2379,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Sebagian besar data pelatihan model pembuat gambar AI tidak memiliki data geografis Taiwan yang terstruktur. Akibatnya, bentuknya terdistorsi, proporsinya tidak akurat, bahkan tertukar dengan pulau lain. Taiwan.md menyediakan gambar kontur SVG Taiwan yang akurat, bersumber terbuka, dan bebas digunakan, sehingga tersedia jawaban baku untuk setiap kebutuhan yang mempertanyakan「seperti apa bentuk Taiwan」.',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Jelajahi arsip peta sumber terbuka lengkap',
+    'data.taiwanShape.teaser.desc':
+      'Kontur SVG, TopoJSON tingkat kabupaten/kota dan kecamatan, contoh penggunaan D3.js, Leaflet, Python, dan Vue, referensi kode administratif, serta sumber data terbuka lainnya — semuanya di satu halaman khusus.',
+    'data.taiwanShape.teaser.cta': 'Ke Bentuk Taiwan →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -2342,12 +2409,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Data Terbuka dan Demokrasi Digital',
+    'data.openData.heading': '📊 Data Terbuka',
     'data.openData.story.p1':
       'Dari digitalisasi menuju keterbukaan：tiga puluh tahun evolusi tata kelola digital Taiwan',
     'data.openData.story.p2':
       '「Program Pemerintahan Elektronik」dimulai pada 1997，data.gov.tw diluncurkan pada 2013，dan Taiwan beralih dari era pemerintahan elektronik menuju pemerintahan terbuka. Pada 2015-2017，Taiwan tiga kali berturut-turut menduduki peringkat pertama「Indeks Data Terbuka Global」. g0v menginkubasi peta masker dan bot pemeriksa fakta Cofacts. Eksperimen menteri digital Audrey Tang menjadikan Taiwan sebagai laboratorium demokrasi digital dunia.',
     'data.openData.story.p3':
       'Ketika warga mampu memahami data dan pemerintah bersedia merilis data，demokrasi bukan sekadar pemungutan suara empat tahun sekali，melainkan kolaborasi yang berlangsung setiap hari.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Artikel Ditambahkan',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Graf Pengetahuan',
@@ -2514,8 +2585,8 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Empresa',
     'data.companies.table.sector': 'Setor',
-    'data.companies.table.marketCap': 'Valor de mercado (100 milhões de TWD)',
-    'data.companies.table.revenue': 'Receita de 2025 (100 milhões de TWD)',
+    'data.companies.table.marketCap': 'Valor de mercado (mil milhões de TWD)',
+    'data.companies.table.revenue': 'Receita de 2025 (mil milhões de TWD)',
     'data.companies.table.employees': 'Número de funcionários',
     'data.companies.table.founded': 'Fundação',
     'data.companies.insights.heading': '🔍 Principais conclusões',
@@ -2830,6 +2901,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'Os dados de treinamento da maioria dos modelos de geração de imagens por IA carecem de dados geográficos estruturados sobre Taiwan. O resultado são formas distorcidas, proporções incorretas e até confusão com outras ilhas. Taiwan.md oferece contornos SVG corretos, de código aberto e de uso livre de Taiwan, garantindo uma referência padrão para todas as situações em que é preciso saber «qual é o formato de Taiwan».',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Explorar o arquivo completo de mapas de código aberto',
+    'data.taiwanShape.teaser.desc':
+      'Contornos SVG, TopoJSON por município e distrito, exemplos de uso em D3.js, Leaflet, Python e Vue, referências de códigos administrativos e outras fontes de dados abertos — tudo em uma página dedicada.',
+    'data.taiwanShape.teaser.cta': 'Ir para a forma de Taiwan →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -2853,12 +2931,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Dados abertos e democracia digital',
+    'data.openData.heading': '📊 Dados abertos',
     'data.openData.story.p1':
       'Da digitalização à abertura: trinta anos de evolução da governança digital de Taiwan',
     'data.openData.story.p2':
       'O «Plano de Governo Eletrônico» foi lançado em 1997 e o data.gov.tw entrou no ar em 2013, levando Taiwan da era do governo eletrônico à do governo aberto. Entre 2015-2017, Taiwan ocupou o primeiro lugar no «Índice Global de Dados Abertos» por três vezes consecutivas. A comunidade g0v incubou o mapa de máscaras e o robô de verificação de fatos Cofacts. As experiências de Audrey Tang como ministra digital transformaram Taiwan em um laboratório mundial de democracia digital.',
     'data.openData.story.p3':
       'Quando os cidadãos conseguem compreender os dados e o governo se dispõe a divulgá-los, a democracia deixa de ser apenas uma votação a cada quatro anos e passa a ser uma colaboração diária.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Artigos adicionados',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Grafo de conhecimento',
@@ -3027,8 +3109,8 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'कंपनी',
     'data.companies.table.sector': 'उद्योग',
-    'data.companies.table.marketCap': 'बाजार पूंजीकरण（करोड़ TWD）',
-    'data.companies.table.revenue': '2025 राजस्व（करोड़ TWD）',
+    'data.companies.table.marketCap': 'बाजार पूंजीकरण (अरब TWD)',
+    'data.companies.table.revenue': '2025 राजस्व (अरब TWD)',
     'data.companies.table.employees': 'कर्मचारी संख्या',
     'data.companies.table.founded': 'स्थापना',
     'data.companies.insights.heading': '🔍 प्रमुख निष्कर्ष',
@@ -3325,6 +3407,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'अधिकांश AI छवि निर्माण मॉडलों के प्रशिक्षण डेटा में ताइवान के संरचित भौगोलिक डेटा की कमी है। नतीजतन आकार विकृत होता है, अनुपात बिगड़ जाते हैं और कभी-कभी इसे अन्य द्वीपों से भी मिला दिया जाता है। Taiwan.md ताइवान की सही, मुक्त-स्रोत और स्वतंत्र रूप से उपयोग योग्य SVG रूपरेखा उपलब्ध कराता है, ताकि हर उस परिस्थिति के लिए एक मानक उत्तर हो जहाँ यह जानना ज़रूरी है कि「ताइवान कैसा दिखता है」।',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ पूरा ओपन-सोर्स मानचित्र संग्रह देखें',
+    'data.taiwanShape.teaser.desc':
+      'SVG रूपरेखा, ज़िला और नगर स्तर का TopoJSON, D3.js / Leaflet / Python / Vue के उपयोग उदाहरण, प्रशासनिक कोड संदर्भ, और अन्य मुक्त डेटा स्रोत — सब कुछ एक समर्पित पेज पर।',
+    'data.taiwanShape.teaser.cta': 'ताइवान के आकार पर जाएँ →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -3348,12 +3436,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 मुक्त डेटा और डिजिटल लोकतंत्र',
+    'data.openData.heading': '📊 मुक्त डेटा',
     'data.openData.story.p1':
       'डिजिटलीकरण से खुलेपन तक：ताइवान के डिजिटल शासन का तीस वर्षों का विकास',
     'data.openData.story.p2':
       '1997 में「ई-सरकार योजना」शुरू हुई，2013 में data.gov.tw ऑनलाइन हुआ और ताइवान ने ई-सरकार से खुले शासन के युग में प्रवेश किया। 2015-2017 के दौरान उसने लगातार तीन बार「वैश्विक मुक्त डेटा सूचकांक」में पहला स्थान हासिल किया।g0v ज़ीरो आवर सरकार ने मास्क मानचित्र और Cofacts तथ्य-जाँच बॉट विकसित किए।ऑड्री तांग के डिजिटल मंत्री-स्तरीय प्रयोगों ने ताइवान को डिजिटल लोकतंत्र की वैश्विक प्रयोगशाला बना दिया।',
     'data.openData.story.p3':
       'जब नागरिकों में डेटा समझने की क्षमता हो और सरकार डेटा जारी करने को तैयार हो，तब लोकतंत्र केवल हर चार वर्ष में होने वाला मतदान नहीं रहता，बल्कि हर दिन जारी रहने वाला सहयोग बन जाता है。',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'जोड़े गए लेख',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ ज्ञान ग्राफ़',
@@ -3407,124 +3499,131 @@ export const dataUI = {
   },
   ar: {
     // Company Names (50 companies)
-    'data.company.taiwan-semiconductor': '台積電 TSMC',
-    'data.company.hon-hai-foxconn': '鴻海 Foxconn',
-    'data.company.mediatek': '聯發科 MediaTek',
-    'data.company.delta-electronics': '台達電 Delta',
-    'data.company.ase-group': '日月光 ASE',
-    'data.company.quanta-computer': '廣達 Quanta',
-    'data.company.cathay-financial': '國泰金控',
-    'data.company.fubon-financial': '富邦金控',
-    'data.company.chunghwa-telecom': '中華電信',
-    'data.company.umc': '聯電 UMC',
-    'data.company.uni-president': '統一企業',
-    'data.company.evergreen-marine': '長榮海運',
-    'data.company.asustek': '華碩 ASUS',
-    'data.company.pegatron': '和碩 Pegatron',
-    'data.company.formosa-petrochemical': '台塑化',
-    'data.company.mega-financial': '兆豐金控',
-    'data.company.china-steel': '中鋼',
-    'data.company.taiwan-mobile': '台灣大哥大',
-    'data.company.realtek': '瑞昱 Realtek',
-    'data.company.advantech': '研華 Advantech',
-    'data.company.formosa-plastics': '台塑',
-    'data.company.wistron': '緯創 Wistron',
-    'data.company.nan-ya-plastics': '南亞塑膠',
-    'data.company.compal-electronics': '仁寶 Compal',
-    'data.company.largan-precision': '大立光 Largan',
-    'data.company.acer': '宏碁 Acer',
-    'data.company.e-sun-financial': '玉山金控',
-    'data.company.taiwan-cement': '台泥',
-    'data.company.far-eastern-new-century': '遠東新世紀',
-    'data.company.ctbc-financial': '中信金控',
-    'data.company.yuanta-financial': '元大金控',
-    'data.company.giant-manufacturing': '巨大 Giant',
-    'data.company.first-financial': '第一金控',
-    'data.company.formosa-chemicals': '台化',
-    'data.company.fareastone': '遠傳電信',
-    'data.company.hua-nan-financial': '華南金控',
-    'data.company.lite-on-technology': '光寶科技',
-    'data.company.taiwan-cooperative-bank': '合庫金控',
-    'data.company.catcher-technology': '可成科技',
-    'data.company.taiwan-high-speed-rail': '台灣高鐵',
-    'data.company.htc': '宏達電 HTC',
-    'data.company.chang-chun-petrochemical': '長春石化',
-    'data.company.chi-mei-corporation': '奇美實業',
-    'data.company.wiwynn': '緯穎科技',
-    'data.company.powerchip-semiconductor': '力積電',
-    'data.company.unimicron-technology': '欣興電子',
-    'data.company.silergy': '矽力-KY',
-    'data.company.inventec': '英業達',
-    'data.company.hiwin-technologies': '上銀科技',
-    'data.company.novatek': '聯詠科技',
+    'data.company.taiwan-semiconductor': 'TSMC',
+    'data.company.hon-hai-foxconn': 'Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta',
+    'data.company.ase-group': 'ASE',
+    'data.company.quanta-computer': 'Quanta',
+    'data.company.cathay-financial': 'Cathay Financial',
+    'data.company.fubon-financial': 'Fubon Financial',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUS',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial',
+    'data.company.china-steel': 'China Steel',
+    'data.company.taiwan-mobile': 'Taiwan Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal',
+    'data.company.largan-precision': 'Largan',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.Sun Financial',
+    'data.company.taiwan-cement': 'Taiwan Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial',
+    'data.company.yuanta-financial': 'Yuanta Financial',
+    'data.company.giant-manufacturing': 'Giant',
+    'data.company.first-financial': 'First Financial',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'FarEasTone',
+    'data.company.hua-nan-financial': 'Hua Nan Financial',
+    'data.company.lite-on-technology': 'Lite-On Technology',
+    'data.company.taiwan-cooperative-bank': 'Taiwan Cooperative Bank',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.taiwan-high-speed-rail': 'Taiwan High Speed Rail',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'KY',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
 
     // Top-50 new entrants (2026 AI supply-chain repricing)
-    'data.company.elite-material': '台光電 Elite Material',
-    'data.company.accton': '智邦 Accton',
-    'data.company.avc': '奇鋐 AVC',
-    'data.company.chroma-ate': '致茂 Chroma',
-    'data.company.hon-precision': '鴻勁 Hon Precision',
-    'data.company.jentech': '健策 Jentech',
-    'data.company.gold-circuit': '金像電 Gold Circuit',
-    'data.company.nanya-technology': '南亞科 Nanya',
-    'data.company.yageo': '國巨 Yageo',
-    'data.company.nan-ya-pcb': '南電 Nan Ya PCB',
-    'data.company.taishin-shinkong': '台新新光金 Taishin',
-    'data.company.global-unichip': '創意 GUC',
-    'data.company.bizlink': '貿聯 BizLink',
-    'data.company.zhen-ding': '臻鼎 Zhen Ding',
-    'data.company.sinopac-financial': '永豐金 SinoPac',
-    'data.company.winbond': '華邦電 Winbond',
-    'data.company.winway': '穎崴 WinWay',
-    'data.company.king-slide': '川湖 King Slide',
-    'data.company.kyec': '京元電子 KYEC',
-    'data.company.kgi-financial': '凱基金 KGI',
+    'data.company.elite-material': 'Elite Material',
+    'data.company.accton': 'Accton',
+    'data.company.avc': 'AVC',
+    'data.company.chroma-ate': 'Chroma',
+    'data.company.hon-precision': 'Hon Precision',
+    'data.company.jentech': 'Jentech',
+    'data.company.gold-circuit': 'Gold Circuit',
+    'data.company.nanya-technology': 'Nanya',
+    'data.company.yageo': 'Yageo',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB',
+    'data.company.taishin-shinkong': 'Taishin',
+    'data.company.global-unichip': 'GUC',
+    'data.company.bizlink': 'BizLink',
+    'data.company.zhen-ding': 'Zhen Ding',
+    'data.company.sinopac-financial': 'SinoPac',
+    'data.company.winbond': 'Winbond',
+    'data.company.winway': 'WinWay',
+    'data.company.king-slide': 'King Slide',
+    'data.company.kyec': 'KYEC',
+    'data.company.kgi-financial': 'KGI',
 
     // New AI-era sectors
-    'data.sector.networking': '網通',
-    'data.sector.cooling': '散熱',
-    'data.sector.testing': '測試',
+    'data.sector.networking': 'الشبكات',
+    'data.sector.cooling': 'التبريد',
+    'data.sector.testing': 'الاختبار',
 
     // Fell-off-the-list reasons (displaced by the AI supply chain)
-    'data.fellOff.china-steel': '钢铁行业景气低迷，连年亏损，未搭上人工智能',
-    'data.fellOff.htc': '智能手机溃败，VR/XR 未能撑起规模',
-    'data.fellOff.taiwan-cement': '水泥主业疲弱，储能转型尚未放量',
+    'data.fellOff.china-steel':
+      'ركود في قطاع الحديد والصلب وخسائر متتالية لسنوات، ولم تلحق بموجة الذكاء الاصطناعي',
+    'data.fellOff.htc':
+      'انهيار في الهواتف الذكية، ولم تنجح نظارات VR/XR في تحقيق حجم كافٍ',
+    'data.fellOff.taiwan-cement':
+      'ضعف في نشاط الأسمنت الأساسي، وتحوّل تخزين الطاقة لم يبلغ بعد حجماً مؤثراً',
     'data.fellOff.far-eastern-new-century':
-      '聚酯化纤景气向下，传统产业缺乏人工智能题材',
-    'data.fellOff.giant-manufacturing': '自行车库存去化，营收连续三年衰退',
+      'تراجع في البوليستر والألياف الكيميائية، والصناعات التقليدية تفتقر إلى قصة الذكاء الاصطناعي',
+    'data.fellOff.giant-manufacturing':
+      'تصريف مخزون الدراجات، وتراجع الإيرادات ثلاث سنوات متتالية',
 
     // Standalone /companies page
-    'data.companies.meta.title': '台湾前 50 大企业 — 人工智能时代的洗牌',
+    'data.companies.meta.title':
+      'أكبر 50 شركة في تايوان — إعادة ترتيب الأوراق في عصر الذكاء الاصطناعي',
     'data.companies.meta.description':
-      '用互动泡泡图看台湾市值前 50 大上市企业的市值、营收与员工数，以及人工智能供应链如何重写排行榜（2026/06 snapshot）。',
-    'data.companies.hero.title': '台湾前 50 大企业',
-    'data.companies.hero.subtitle': '泡泡面积即市值，2300 万人岛屿的产业版图',
+      'رسم فقاعي تفاعلي لأكبر 50 شركة مدرجة في تايوان من حيث القيمة السوقية والإيرادات وعدد الموظفين، وكيف أعادت سلسلة توريد الذكاء الاصطناعي كتابة الترتيب (لقطة 2026/06).',
+    'data.companies.hero.title': 'أكبر 50 شركة في تايوان',
+    'data.companies.hero.subtitle':
+      'مساحة الفقاعة هي القيمة السوقية — خريطة صناعات جزيرة يسكنها 23 مليون نسمة',
     'data.companies.hero.description':
-      '泡泡越大＝市值越高，颜色代表产业。可切换营收／员工数、点产业标签筛选、拖曳泡泡。',
+      'كلما كبرت الفقاعة ارتفعت القيمة السوقية، واللون يدل على القطاع. يمكنك التبديل إلى الإيرادات أو عدد الموظفين، والتصفية بالضغط على وسم القطاع، وسحب الفقاعات.',
     'data.companies.snapshot':
-      '📊 资料来源：TWSE、2025 全年营收公告、各公司年报 · snapshot 2026/06（近似值，不构成投资建议）',
-    'data.companies.story.title': '人工智能浪潮把整座岛重新定价',
+      '📊 المصادر: بورصة تايوان (TWSE)، وإعلانات إيرادات عام 2025 كاملاً، والتقارير السنوية للشركات · لقطة 2026/06 (قيم تقريبية، ولا تُعد نصيحة استثمارية)',
+    'data.companies.story.title':
+      'موجة الذكاء الاصطناعي تعيد تسعير الجزيرة بأكملها',
     'data.companies.story.p1':
-      '短短两年，人工智能建置就重写了台湾的企业排行。台积电一家就占了全市场 43.8%（从 39% 一路垫高），前 10 大权重股合计约 61%。',
+      'في عامين اثنين فقط، أعاد بناء البنية التحتية للذكاء الاصطناعي كتابة ترتيب الشركات في تايوان. تستحوذ TSMC وحدها على 43.8% من السوق كاملةً (صعوداً من 39%)، وتشكّل أكبر 10 أسهم وزناً نحو 61% منها.',
     'data.companies.story.p2':
-      'TSMC 之后，涨上来的全是人工智能供应链：台达电靠人工智能电源一年冲上第 2（市值翻约 5 倍），联发科爆量，台光电、奇鋐、致茂、智邦、国巨一票 PCB/载板、散热、测试、网通名字挤进前 50，把约 20 家旧面孔换了下去。',
-    'data.companies.table.heading': '📋 完整排名',
+      'بعد TSMC، كل الصاعدين ينتمون إلى سلسلة توريد الذكاء الاصطناعي: قفزت دلتا (Delta) إلى المركز الثاني خلال عام واحد بفضل وحدات الطاقة للذكاء الاصطناعي (تضاعفت قيمتها السوقية نحو خمس مرات)، وانفجرت ميدياتك (MediaTek)، ودخلت أسماء مثل Elite Material وAVC وChroma وAccton وYageo — من لوحات PCB والركائز إلى التبريد والاختبار والشبكات — ضمن أكبر 50 شركة، فأزاحت نحو 20 وجهاً قديماً.',
+    'data.companies.table.heading': '📋 الترتيب الكامل',
     'data.companies.table.rank': '#',
-    'data.companies.table.company': '企业',
-    'data.companies.table.sector': '产业',
-    'data.companies.table.marketCap': '市值（亿 TWD）',
-    'data.companies.table.revenue': '2025 营收（亿 TWD）',
-    'data.companies.table.employees': '员工数',
-    'data.companies.table.founded': '成立',
-    'data.companies.insights.heading': '🔍 关键洞察',
+    'data.companies.table.company': 'الشركة',
+    'data.companies.table.sector': 'القطاع',
+    'data.companies.table.marketCap': 'القيمة السوقية (مليار دولار تايواني)',
+    'data.companies.table.revenue': 'إيرادات 2025 (مليار دولار تايواني)',
+    'data.companies.table.employees': 'عدد الموظفين',
+    'data.companies.table.founded': 'سنة التأسيس',
+    'data.companies.insights.heading': '🔍 رؤى أساسية',
     'data.companies.insights.card1.number': '43.8%',
     'data.companies.insights.card1.label':
-      'حصة تايكرو من القيمة السوقية الإجمالية',
+      'حصة TSMC من إجمالي القيمة السوقية لبورصة تايوان',
     'data.companies.insights.card1.detail':
       'ارتفعت من 39%، شركة واحدة تعادل أربعة أخماس مجموع كل ما تبقى',
     'data.companies.insights.card2.number': '61%',
     'data.companies.insights.card2.label':
-      'الأسهم ذات الأوزان العشرة الكبرى تمثل من القيمة السوقية',
+      'حصة أكبر 10 أسهم وزناً من إجمالي القيمة السوقية',
     'data.companies.insights.card2.detail':
       'تركز عالٍ في عدد قليل من الأسهم الكبيرة',
     'data.companies.insights.card3.number': 'حوالي 20',
@@ -3534,16 +3633,16 @@ export const dataUI = {
       'PCB/اللوحات الداعمة، التبريد، الاختبار، الاتصالات، لم تكن موجودة على القائمة قبل عامين',
     'data.companies.insights.card4.number': '12',
     'data.companies.insights.card4.label':
-      'عدد شركات التمويل والتحكم في أكبر 50',
+      'عدد الشركات المالية القابضة ضمن أكبر 50',
     'data.companies.insights.card4.detail':
       'بعد الدمج، أصبحت الحجر الأساس الأكثر استقرارًا في المؤشر',
     'data.companies.fellOff.title': '📉 من سقط من القائمة',
     'data.companies.fellOff.intro':
-      'إعادة التسعير الخاصة بالذكاء الاصطناعي لها أيضًا خاسرون. أسماء هذه الأمة—الصلب، الأسمنت، النسيج، الدراجات الهوائية، الأبطال السابقون في الهواتف الذكية—انزاحت من القائمة العشرين الأولى عندما تدفقت الأموال نحو سلسلة التوريد الخاصة بالذكاء الاصطناعي.',
+      'لإعادة التسعير في عصر الذكاء الاصطناعي خاسرون أيضاً. هذه الأسماء المألوفة لدى كل تايواني — الصلب والأسمنت والنسيج والدراجات ونجم الهواتف الذكية السابق — انزلقت خارج قائمة أكبر 50 شركة عندما تدفقت الأموال نحو سلسلة توريد الذكاء الاصطناعي.',
     'data.companies.fellOff.marketCapNow': 'القيمة السوقية الحالية',
     'data.companies.method.heading': '📝 شرح المنهجية',
     'data.companies.method.body':
-      'تم استنتاج القيمة السوقية من خلال وزن مؤشر كل سهم في 2026/06 على TWSE، مضروبًا في القيمة السوقية الإجمالية للسوق المرساة بواسطة تايكرو (حوالي 59 تريليون دولار تايواني / 43.8%). الإيرادات هي إجمالي الإيرادات المدمجة لعام 2025 (تطبق شركات التمويل والتحكم على إيرادات التشغيل المدمجة، بما في ذلك التأمين). عدد الموظفين هو تقريب، مع محاولة الاعتماد على معايير المجموعة/المدمجة، لكن نطاق الاعتراف يختلف بين الشركات، لذا يُنظر إلى محور عدد الموظفين على أنه ترتيب حجمي، وليس كمقارنة دقيقة.',
+      'تم استنتاج القيمة السوقية من خلال وزن مؤشر كل سهم في 2026/06 على TWSE، مضروبًا في القيمة السوقية الإجمالية للسوق المرساة بواسطة TSMC (حوالي 59 تريليون دولار تايواني / 43.8%). الإيرادات هي إجمالي الإيرادات المدمجة لعام 2025 (تُحتسب للشركات المالية القابضة إيرادات التشغيل المدمجة، بما في ذلك التأمين). عدد الموظفين هو تقريب، مع محاولة الاعتماد على معايير المجموعة/المدمجة، لكن نطاق الاعتراف يختلف بين الشركات، لذا يُنظر إلى محور عدد الموظفين على أنه ترتيب حجمي، وليس كمقارنة دقيقة.',
     'data.companies.related': '📖 قراءة إضافية',
 
     // Category 1: Government Open Data
@@ -3572,7 +3671,7 @@ export const dataUI = {
       'أدوات المراقبة الفورية والبيانات الجغرافية والتصوير البيئي',
     'data.category.2.item.1.name': 'خريطة ديناميكية لكابلات تايوان البحرية',
     'data.category.2.item.1.desc':
-      'مراقبة الكابلات البحرية في الوقت الفعلي من تطوير民間، نموذج للتكنولوجيا المدنية',
+      'مراقبة فورية للكابلات البحرية طوّرها المجتمع المدني، نموذج للتكنولوجيا المدنية',
     'data.category.2.item.2.name': 'سحابة خدمات الخرائط والمسح الوطني',
     'data.category.2.item.2.desc':
       'بيانات خرائط تايوان، الصور الجوية، الملكية العقارية',
@@ -3656,7 +3755,7 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'كيف يمكن لجزيرة أن تدعم سلسلة التوريد العالمية؟',
     'data.enterprise.story.p2':
-      'من قيمة تايكرو السوقية البالغة 267 مليار دولار إلى 870 ألف موظف في فوكسيكونغ، تشكل أكبر 50 شركة في تايوان العمود الفقري الاقتصادي لهذه الجزيرة. تؤكد 12 شركة من أشباه الموصلات اسم "درع السيليكون"، وتدعم 12 شركة من التمويل والتحكم الاستقرار المالي، وتربط عملاق التصنيع الحياة الرقمية العالمية. استكشف بخريطة الفقاعات كيف تخلق تايوان 4% من الناتج المحلي الإجمالي العالمي بنسبة 2% من سكان العالم.',
+      'من القيمة السوقية لشركة TSMC البالغة 267 مليار دولار إلى 870 ألف موظف في فوكسكون (Foxconn)، تشكل أكبر 50 شركة في تايوان العمود الفقري الاقتصادي لهذه الجزيرة. تؤكد 12 شركة من أشباه الموصلات اسم «درع السيليكون»، وتدعم 12 شركة مالية قابضة الاستقرار المالي، وتربط عمالقة التصنيع التعاقدي الحياة الرقمية العالمية. استكشف بخريطة الفقاعات كيف تخلق تايوان 4% من الناتج المحلي الإجمالي العالمي بنسبة 2% من سكان العالم.',
     'data.enterprise.controls.sizeLabel': 'حجم الفقاعة:',
     'data.enterprise.controls.marketCap': 'القيمة السوقية',
     'data.enterprise.controls.revenue': 'الإيرادات',
@@ -3665,7 +3764,7 @@ export const dataUI = {
     'data.enterprise.insights.heading': 'رؤى رئيسية',
     'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label':
-      'تمثل شركة تايوان سيكوندكتورز (TSMC) من إجمالي القيمة السوقية لسوق تايوان للأسهم',
+      'حصة TSMC من إجمالي القيمة السوقية لبورصة تايوان',
     'data.enterprise.insights.card1.detail':
       'شركة واحدة ≈ ثلثا (2/3) الشركات المدرجة الأخرى مجتمعة',
     'data.enterprise.insights.card2.number': '72%',
@@ -3707,7 +3806,7 @@ export const dataUI = {
     'data.taiwanVsWorld.semiconductor.label':
       'الحصة العالمية من الرقائق المتقدمة',
     'data.taiwanVsWorld.semiconductor.context':
-      'تحتكر شركة تايوان سيكوندكتورز (TSMC) عمليات التصنيع أقل من 7 نانومتر، قلب الأجهزة الرقمية العالمية',
+      'تحتكر TSMC عمليات التصنيع بدقة أقل من 7 نانومتر، قلب الأجهزة الرقمية العالمية',
 
     'data.taiwanVsWorld.democracy.number': 'المرتبة 12',
     'data.taiwanVsWorld.democracy.label': 'ترتيب مؤشر الديمقراطية',
@@ -3815,6 +3914,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'في بيانات تدريب معظم نماذج توليد الصور بالذكاء الاصطناعي، تفتقر إلى بيانات جغرافية هيكلية عن تايوان. النتيجة هي تشويه الشكل، تشوه النسب، وحتى الخلط بينها وبين جزر أخرى. يوفر Taiwan.md حدود SVG صحيحة ومفتوحة المصدر وقابلة للاستخدام الحر، لتوفير إجابة قياسية لكل مشهد يحتاج إلى معرفة "كيف تبدو تايوان".',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ استكشف الأرشيف الكامل لخرائط مفتوحة المصدر',
+    'data.taiwanShape.teaser.desc':
+      'خطوط SVG الخارجية، وTopoJSON على مستوى المقاطعات والبلدات، وأمثلة استخدام في D3.js وLeaflet وPython وVue، بالإضافة إلى مراجع الرموز الإدارية ومصادر البيانات المفتوحة الأخرى — كل ذلك في صفحة مخصصة.',
+    'data.taiwanShape.teaser.cta': 'الانتقال إلى شكل تايوان →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -3838,12 +3944,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 البيانات المفتوحة والديمقراطية الرقمية',
+    'data.openData.heading': '📊 البيانات المفتوحة',
     'data.openData.story.p1':
       'من الإلكتروني إلى المفتوح: ثلاثون عامًا من التطور في الحوكمة الرقمية لتايوان',
     'data.openData.story.p2':
       'بدأ "مشروع الحكومة الإلكترونية" في عام 1997، وعُملت data.gov.tw في عام 2013، انتقلت تايوان من حكومة إلكترونية إلى عصر الحكومة المفتوحة. في الفترة من 2015 إلى 2017، احتلت المرتبة الأولى في "مؤشر البيانات المفتوحة العالمي" ثلاث مرات متتالية. حاضنة g0v (الحكومة الصفرية) أنتجت خريطة أقنعة الوجه وروبوت التحقق من الحقائق Cofacts. تجربة وزير الشؤون الرقمية تانغ فونغ جعلت تايوان ساحة تجريبية للديمقراطية الرقمية العالمية.',
     'data.openData.story.p3':
       'عندما يكون لدى المواطنين القدرة على فهم البيانات، وتكون الحكومة مستعدة لإطلاق البيانات، لا تكون الديمقراطية مجرد تصويت يحدث كل أربع سنوات، بل هي تعاون يحدث كل يوم.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'المقالات المضافة',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ مخطط المعرفة',
@@ -4319,6 +4429,13 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       'В обучающих данных большинства моделей генерации изображений ИИ отсутствуют структурированные географические данные о Тайване. В результате контуры искажаются, пропорции нарушаются, а остров иногда путают с другими. Taiwan.md предоставляет правильные, открытые и свободно используемые SVG-контурные карты Тайваня, обеспечивая стандартный ответ для любого сценария, где требуется знать «как выглядит Тайвань».',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Изучить полный архив карт с открытым кодом',
+    'data.taiwanShape.teaser.desc':
+      'Контуры SVG, TopoJSON для уездов, городов и посёлков, примеры использования в D3.js, Leaflet, Python и Vue, справочники административных кодов и другие источники открытых данных — всё на одной специальной странице.',
+    'data.taiwanShape.teaser.cta': 'Перейти к форме Тайваня →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
@@ -4342,12 +4459,16 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 Открытые данные и цифровая демократия',
+    'data.openData.heading': '📊 Открытые данные',
     'data.openData.story.p1':
       'От электронного к открытому: тридцатилетняя эволюция цифрового управления Тайваня',
     'data.openData.story.p2':
       'В 1997 году был запущен «План электронного правительства», а в 2013 году начал работу data.gov.tw, ознаменовав переход Тайваня от электронного правительства к эпохе открытого правительства. В 2015–2017 годах Тайвань трижды подряд занимал первое место в «Глобальном индексе открытых данных». Проект g0v (Нулевое правительство) инкубировал «Карту масок» и бота проверки фактов Cofacts. Цифровой эксперимент министра по цифровым вопросам Тан Фэна превратил Тайвань в полигон для цифровой демократии в мировом масштабе.',
     'data.openData.story.p3':
       'Когда граждане способны понимать данные, а правительство готово их раскрывать, демократия становится не просто голосованием раз в четыре года, а ежедневным сотрудничеством.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Добавленные статьи',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ Граф знаний',
@@ -4432,7 +4553,7 @@ export const dataUI = {
     'data.company.far-eastern-new-century': '遠東新世紀',
     'data.company.ctbc-financial': '中信金控',
     'data.company.yuanta-financial': '元大金控',
-    'data.company.giant-manufacturing': '巨大 Giant',
+    'data.company.giant-manufacturing': '巨大機械 捷安特',
     'data.company.first-financial': '第一金控',
     'data.company.formosa-chemicals': '台化',
     'data.company.fareastone': '遠傳電信',
@@ -4642,6 +4763,22 @@ export const dataUI = {
     'data.enterprise.insights.card4.detail': '金控整併後的穩定力量',
     'data.enterprise.exploreLink': '查看完整排名 →',
 
+    // Budget Teaser Section
+    'data.budget.teaser.title': '💰 總預算十年：政府怎麼分三兆元',
+    'data.budget.teaser.story.p1':
+      '115 年度中央政府總預算今年 8 月 14 日才三讀，創下歷來最晚紀錄；法定歲出十年間從 1.98 兆一路長到 2.99 兆。',
+    'data.budget.teaser.story.p2':
+      '這頁用主計總處第一手資料表，拆成九個區塊看錢的去向；每張圖都附原始資料表，看得到源頭也看得到明細。',
+    'data.budget.teaser.card1.label': '115 年度法定歲出',
+    'data.budget.teaser.card1.detail': '十年前，105 年度只有 1.98 兆',
+    'data.budget.teaser.card2.label': '立法院減列',
+    'data.budget.teaser.card2.detail':
+      '首長特別費、國外旅費與媒體宣傳費是刪減重點',
+    'data.budget.teaser.card3.label': '十年增幅',
+    'data.budget.teaser.card3.detail':
+      '105 年度到 115 年度，法定歲出成長逾五成',
+    'data.budget.teaser.cta': '看完整總預算十年 →',
+
     // Taiwan vs World Section
     'data.taiwanVsWorld.title': '🌏 台灣在世界的位置',
     'data.taiwanVsWorld.story.p1':
@@ -4759,6 +4896,12 @@ export const dataUI = {
     'data.taiwanShape.story.p2':
       '大多數 AI 圖像生成模型的訓練資料中，缺乏結構化的台灣地理資料。結果就是形狀扭曲、比例失真、甚至跟其他島嶼搞混。 Taiwan.md 提供正確、開源、可自由使用的台灣 SVG 輪廓圖，讓每個需要「台灣長什麼樣子」的場景都有標準答案。',
 
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ 前往完整開源地圖資料集',
+    'data.taiwanShape.teaser.desc':
+      'SVG 輪廓、縣市與鄉鎮級 TopoJSON、D3.js / Leaflet / Python / Vue 使用範例、行政區代碼對照、其他開源資料來源——全部在專屬頁面。',
+    'data.taiwanShape.teaser.cta': '前往台灣的形狀 →',
+
     // SVG Cards
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description': '台灣輪廓 Icon — 適合 icon、logo、小尺寸',
@@ -4769,7 +4912,7 @@ export const dataUI = {
     'data.svg.card4.title': 'taiwan-political-division.svg',
     'data.svg.card4.description': '行政區劃圖 — 縣市分區、完整邊界',
     'data.svg.button.download': '下載 SVG',
-    'data.svg.button.copy': '複製代碼',
+    'data.svg.button.copy': '複製程式碼',
     'data.svg.button.copied': '✅ 已複製',
     'data.svg.button.failed': '❌ 複製失敗',
     'data.svg.usage.heading': '📝 使用方式',
@@ -4778,11 +4921,15 @@ export const dataUI = {
 
     // Open Data Section (legacy, now part of digital democracy)
     'data.openData.title': '📡 開放資料與數位民主',
+    'data.openData.heading': '📊 開放資料',
     'data.openData.story.p1': '從電子化到開放化：台灣數位治理的三十年進化',
     'data.openData.story.p2':
       '1997 年「電子化政府計畫」啟動，2013 年 data.gov.tw 上線，台灣從電子化政府跨入開放政府時代。 2015-2017 年三度蟬聯「全球開放資料指標」第一名。g0v 零時政府孵化口罩地圖、Cofacts 事實查核機器人。唐鳳的數位政委實驗，讓台灣成為全球數位民主的實驗場。',
     'data.openData.story.p3':
       '當公民有能力理解數據、政府願意釋出數據，民主就不只是四年一次的投票，而是每天都在發生的協作。',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': '新增文章',
 
     // Knowledge Graph Section
     'data.knowledgeGraph.title': '🕸️ 知識圖譜',
@@ -4864,7 +5011,7 @@ export const dataUI = {
       'Far Eastern New Century 遠東新世紀',
     'data.company.ctbc-financial': 'CTBC Financial 中信金控',
     'data.company.yuanta-financial': 'Yuanta Financial 元大金控',
-    'data.company.giant-manufacturing': 'Giant Manufacturing 巨大',
+    'data.company.giant-manufacturing': 'Giant Manufacturing 巨大機械',
     'data.company.first-financial': 'First Financial 第一金控',
     'data.company.formosa-chemicals': 'Formosa Chemicals 台化',
     'data.company.fareastone': 'FarEasTone 遠傳電信',
@@ -4939,8 +5086,8 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Entreprise',
     'data.companies.table.sector': 'Secteur',
-    'data.companies.table.marketCap': 'Capitalisation boursière (億 TWD)',
-    'data.companies.table.revenue': "Chiffre d'affaires 2025 (億 TWD)",
+    'data.companies.table.marketCap': 'Capitalisation boursière (Md TWD)',
+    'data.companies.table.revenue': "Chiffre d'affaires 2025 (Md TWD)",
     'data.companies.table.employees': 'Effectifs',
     'data.companies.table.founded': 'Fondée',
     'data.companies.insights.heading': '🔍 Points clés',
@@ -5207,6 +5354,13 @@ export const dataUI = {
       "La plupart des modèles de génération d'images par IA manquent de données géographiques structurées pour Taiwan dans leurs ensembles d'entraînement. Résultat : les images de Taiwan générées par l'IA sont souvent déformées, disproportionnées ou confondues avec d'autres îles.",
     'data.taiwanShape.story.p2':
       "Taiwan.md fournit des contours SVG précis, open source et libres d'utilisation — une réponse définitive pour chaque situation nécessitant de savoir « à quoi ressemble Taiwan ».",
+
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      "🗺️ Explorer l'archive complète de cartes open source",
+    'data.taiwanShape.teaser.desc':
+      "Contours SVG, TopoJSON au niveau des comtés et des communes, exemples d'utilisation avec D3.js, Leaflet, Python et Vue, correspondance des codes administratifs et autres sources de données open source — le tout sur une page dédiée.",
+    'data.taiwanShape.teaser.cta': 'Aller à la forme de Taïwan →',
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
       'Contour simple — Idéal pour icônes, logos, petites tailles',
@@ -5228,12 +5382,16 @@ export const dataUI = {
       "Licence : tous les fichiers SVG sous CC BY-SA 4.0. Libre d'utilisation, de modification et d'usage commercial — il suffit de mentionner la source.",
     'data.openData.title':
       "📡 Données ouvertes et démocratie numérique — 30 ans de numérisation, g0v et l'effet Audrey Tang",
+    'data.openData.heading': '📊 Données ouvertes',
     'data.openData.story.p1':
       "Le parcours de démocratie numérique de Taiwan a commencé en 1997 avec le « Programme de gouvernement électronique », mais la vraie transformation est survenue en 2012 lorsque le Yuan exécutif a pris une décision cruciale : passer du « gouvernement électronique » au « gouvernement ouvert ». Le lancement de data.gov.tw en 2013 a marqué l'entrée de Taiwan dans l'ère des données ouvertes.",
     'data.openData.story.p2':
       "Ce qui rend Taiwan unique, c'est le mouvement g0v (gov-zero) — une communauté de technologie civique qui ne se contente pas de critiquer le gouvernement, mais le reconstruit. Depuis 2012, g0v a organisé plus de 60 hackathons, générant plus de 900 projets, de la carte de disponibilité des masques COVID-19 (600 millions de requêtes les jours de pointe) au bot de vérification des faits Cofacts (plus de 100 000 messages suspects traités).",
     'data.openData.story.p3':
       "La nomination en 2016 d'Audrey Tang, participante de g0v, comme ministre du Numérique a institutionnalisé cette collaboration. Taiwan est désormais leader en « transparence radicale » — des réunions collaboratives PDIS à la construction algorithmique de consensus de vTaiwan. La création en 2022 du Ministère des Affaires numériques (moda) a élevé la gouvernance numérique au niveau ministériel, impulsant des initiatives comme TAIDE (modèle d'IA souverain de Taiwan) et la « résilience numérique » (plans de secours pour les câbles sous-marins).",
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Articles ajoutés',
     'data.knowledgeGraph.title':
       '🕸️ Graphe de connaissances — Le paysage interconnecté de Taiwan',
     'data.knowledgeGraph.story.p1':
@@ -5312,7 +5470,7 @@ export const dataUI = {
       'Far Eastern New Century 遠東新世紀',
     'data.company.ctbc-financial': 'CTBC Financial 中信金控',
     'data.company.yuanta-financial': 'Yuanta Financial 元大金控',
-    'data.company.giant-manufacturing': 'Giant Manufacturing 巨大',
+    'data.company.giant-manufacturing': 'Giant Manufacturing 巨大機械',
     'data.company.first-financial': 'First Financial 第一金控',
     'data.company.formosa-chemicals': 'Formosa Chemicals 台化',
     'data.company.fareastone': 'FarEasTone 遠傳電信',
@@ -5387,8 +5545,9 @@ export const dataUI = {
     'data.companies.table.rank': '#',
     'data.companies.table.company': 'Empresa',
     'data.companies.table.sector': 'Sector',
-    'data.companies.table.marketCap': 'Capitalización bursátil (億 TWD)',
-    'data.companies.table.revenue': 'Ingresos 2025 (億 TWD)',
+    'data.companies.table.marketCap':
+      'Capitalización bursátil (mil millones TWD)',
+    'data.companies.table.revenue': 'Ingresos 2025 (mil millones TWD)',
     'data.companies.table.employees': 'Empleados',
     'data.companies.table.founded': 'Fundación',
     'data.companies.insights.heading': '🔍 Claves principales',
@@ -5650,6 +5809,13 @@ export const dataUI = {
       'La mayoría de los modelos de generación de imágenes con IA carecen de datos geográficos estructurados sobre Taiwán en sus conjuntos de entrenamiento. El resultado: las imágenes de Taiwán generadas por IA suelen estar distorsionadas, desproporcionadas o confundidas con otras islas.',
     'data.taiwanShape.story.p2':
       'Taiwan.md ofrece contornos SVG precisos, de código abierto y de uso libre — una respuesta definitiva para cada situación que necesite saber "cómo es Taiwán".',
+
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title':
+      '🗺️ Explorar el archivo completo de mapas de código abierto',
+    'data.taiwanShape.teaser.desc':
+      'Contornos SVG, TopoJSON a nivel de condado y municipio, ejemplos de uso en D3.js, Leaflet, Python y Vue, referencias de códigos administrativos y otras fuentes de datos abiertos — todo en una página dedicada.',
+    'data.taiwanShape.teaser.cta': 'Ir a la forma de Taiwán →',
     'data.svg.card1.title': 'taiwan-icon.svg',
     'data.svg.card1.description':
       'Contorno simple — Ideal para iconos, logotipos y tamaños pequeños',
@@ -5671,12 +5837,16 @@ export const dataUI = {
       'Licencia: Todos los archivos SVG bajo CC BY-SA 4.0. Uso, modificación y uso comercial libres — solo se requiere atribución.',
     'data.openData.title':
       '📡 Datos Abiertos y Democracia Digital — 30 Años de Digitalización, g0v y el Efecto Audrey Tang',
+    'data.openData.heading': '📊 Datos abiertos',
     'data.openData.story.p1':
       'El recorrido de democracia digital de Taiwán comenzó en 1997 con el "Programa de Gobierno Electrónico", pero la verdadera transformación llegó en 2012 cuando el Yuan Ejecutivo tomó una decisión crucial: pasar de "gobierno electrónico" a "gobierno abierto". El lanzamiento de data.gov.tw en 2013 marcó la entrada de Taiwán en la era de los datos abiertos.',
     'data.openData.story.p2':
       'Lo que hace único a Taiwán es el movimiento g0v (gov-zero) — una comunidad de tecnología cívica que no solo critica al gobierno, sino que lo reconstruye. Desde 2012, g0v ha realizado más de 60 hackatones, generando más de 900 proyectos, desde el mapa de disponibilidad de mascarillas COVID-19 (600 millones de consultas en días pico) hasta el bot de verificación Cofacts (más de 100.000 mensajes sospechosos procesados).',
     'data.openData.story.p3':
       'El nombramiento en 2016 de Audrey Tang, participante de g0v, como Ministra Digital institucionalizó esta colaboración. Taiwán ahora lidera en "transparencia radical" — desde las reuniones colaborativas PDIS hasta la construcción de consenso algorítmico de vTaiwan. La creación en 2022 del Ministerio de Asuntos Digitales (moda) elevó la gobernanza digital a nivel ministerial, impulsando iniciativas como TAIDE (modelo de IA soberano de Taiwán) y la "resiliencia digital" (planes de respaldo de cables submarinos).',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Artículos añadidos',
     'data.knowledgeGraph.title':
       '🕸️ Grafo de Conocimiento — El Paisaje Interconectado de Taiwán',
     'data.knowledgeGraph.story.p1':

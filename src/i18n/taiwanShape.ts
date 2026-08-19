@@ -1,5 +1,13 @@
 export const taiwanShapeUI = {
   en: {
+    'taiwanShape.svg.icon.desc':
+      'Simple filled outline — great for icons, favicons, buttons.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Clean vector — great for web embedding.',
+    'taiwanShape.svg.locationMap.desc':
+      'Location map with lat/lon grid and city markers.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'County borders — colored administrative divisions.',
     // Meta
     'taiwanShape.meta.title':
       "Taiwan's Shape — Open-Source Maps, SVG, GeoJSON & TopoJSON Data",
@@ -78,6 +86,24 @@ export const taiwanShapeUI = {
       'Every file on this page is open source. Here are the exact origins and licenses:',
 
     // Download
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'All 22 counties and cities are included above. Township boundary data extracted from ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Official Taiwan government open data, including administrative boundary shapefiles from the Ministry of the Interior.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Public domain global map data at 1:10m, 1:50m, and 1:110m scales. Great for small-scale world maps that include Taiwan.',
+    'taiwanShape.source.osm.desc':
+      "OSM's community-edited map of Taiwan, downloadable as OSM XML or PBF via Overpass API and Geofabrik.",
+    'taiwanShape.source.g0v.desc':
+      "Taiwan's civic tech community. Many g0v projects publish cleaned-up map data and visualizations as open source.",
+    'taiwanShape.source.gadm.desc':
+      'Global Administrative Areas database, Taiwan administrative boundaries at levels 0-3 in Shapefile, GeoPackage, KMZ, and R formats.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, free for personal and commercial use with attribution.',
+    'taiwanShape.license.extractedFromPrefix': 'Extracted from ',
     'taiwanShape.download.svg': 'Download SVG',
     'taiwanShape.download.topo': 'Download TopoJSON',
     'taiwanShape.download.all': 'Download all (ZIP)',
@@ -86,6 +112,14 @@ export const taiwanShapeUI = {
   },
 
   vi: {
+    'taiwanShape.svg.icon.desc':
+      'Đường viền tô đặc đơn giản — hợp cho biểu tượng, favicon, nút bấm.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vector gọn gàng — hợp để nhúng vào web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Bản đồ vị trí có lưới kinh vĩ độ và điểm đánh dấu thành phố.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Ranh giới huyện thị — các đơn vị hành chính được tô màu.',
     // Meta
     'taiwanShape.meta.title':
       'Hình dáng Đài Loan — Bộ dữ liệu bản đồ nguồn mở: SVG, GeoJSON, TopoJSON',
@@ -156,6 +190,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'Mọi tệp trên trang này đều là nguồn mở. Dưới đây là thông tin đầy đủ về nguồn và giấy phép:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Trên đã bao gồm đầy đủ 22 huyện và thành phố. Dữ liệu ranh giới xã, thị trấn trích từ ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Nền tảng dữ liệu mở chính thức của chính phủ, bao gồm Shapefile ranh giới hành chính do Bộ Nội vụ phát hành.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Dữ liệu bản đồ toàn cầu thuộc phạm vi công cộng, với ba tỷ lệ 1:10m / 1:50m / 1:110m. Phù hợp để tạo bản đồ thế giới có Đài Loan.',
+    'taiwanShape.source.osm.desc':
+      'Bản đồ Đài Loan do cộng đồng OSM biên tập, tải về dưới dạng OSM XML hoặc PBF qua Overpass API và Geofabrik.',
+    'taiwanShape.source.g0v.desc':
+      'Cộng đồng công nghệ dân sự Đài Loan. Nhiều dự án g0v công bố dữ liệu bản đồ đã được làm sạch và các trực quan hóa dưới dạng nguồn mở.',
+    'taiwanShape.source.gadm.desc':
+      'Cơ sở dữ liệu khu vực hành chính toàn cầu, ranh giới hành chính Đài Loan cấp 0-3, cung cấp định dạng Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, giấy phép Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, sử dụng miễn phí cho mục đích thương mại khi ghi rõ nguồn.',
+    'taiwanShape.license.extractedFromPrefix': 'Trích từ ',
     'taiwanShape.download.svg': 'Tải SVG',
     'taiwanShape.download.topo': 'Tải TopoJSON',
     'taiwanShape.download.all': 'Tải tất cả (ZIP)',
@@ -163,6 +215,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Đã sao chép',
   },
   id: {
+    'taiwanShape.svg.icon.desc':
+      'Garis luar terisi sederhana — cocok untuk ikon, favicon, tombol.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vektor bersih — cocok untuk disematkan di web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Peta lokasi dengan grid lintang/bujur dan penanda kota.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Batas kabupaten — pembagian administratif berwarna.',
     // Meta
     'taiwanShape.meta.title':
       'Bentuk Taiwan — Kumpulan Data Peta Sumber Terbuka: SVG, GeoJSON, TopoJSON',
@@ -237,6 +297,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'Setiap berkas di halaman ini bersifat sumber terbuka. Berikut adalah informasi lengkap mengenai sumber dan lisensinya:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Seluruh 22 kabupaten dan kota tercantum di atas. Data batas kecamatan diambil dari ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Platform data terbuka resmi pemerintah, mencakup Shapefile batas wilayah administratif yang diterbitkan oleh Kementerian Dalam Negeri.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Data peta global berstatus domain publik dalam tiga skala: 1:10m / 1:50m / 1:110m. Cocok untuk membuat peta dunia yang mencakup Taiwan.',
+    'taiwanShape.source.osm.desc':
+      'Peta Taiwan hasil suntingan komunitas OSM, dapat diunduh sebagai OSM XML atau PBF melalui Overpass API dan Geofabrik.',
+    'taiwanShape.source.g0v.desc':
+      'Komunitas teknologi warga Taiwan. Banyak proyek g0v memublikasikan data peta yang sudah dirapikan dan visualisasinya sebagai sumber terbuka.',
+    'taiwanShape.source.gadm.desc':
+      'Basis data wilayah administratif global, batas wilayah administratif Taiwan tingkat 0-3, tersedia dalam format Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, berlisensi Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, gratis untuk penggunaan komersial dengan mencantumkan sumber.',
+    'taiwanShape.license.extractedFromPrefix': 'Diambil dari ',
     'taiwanShape.download.svg': 'Unduh SVG',
     'taiwanShape.download.topo': 'Unduh TopoJSON',
     'taiwanShape.download.all': 'Unduh Semua (ZIP)',
@@ -244,6 +322,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Disalin',
   },
   pt: {
+    'taiwanShape.svg.icon.desc':
+      'Contorno preenchido simples — ideal para ícones, favicons e botões.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vetor limpo — ideal para incorporar na web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Mapa de localização com grelha de lat/lon e marcadores de cidades.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Limites de condados — divisões administrativas a cores.',
     // Meta
     'taiwanShape.meta.title':
       'O formato de Taiwan — Conjunto de dados cartográficos de código aberto: SVG, GeoJSON, TopoJSON',
@@ -319,6 +405,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'Todos os arquivos desta página são de código aberto. Confira abaixo as informações completas sobre fontes e licenças:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Todos os 22 condados e cidades estão incluídos acima. Dados de limites de distritos extraídos de ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Plataforma oficial de dados abertos do governo, incluindo shapefiles de limites administrativos publicados pelo Ministério do Interior.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Dados globais de mapas em domínio público, nas escalas 1:10m / 1:50m / 1:110m. Ideal para mapas-múndi que incluem Taiwan.',
+    'taiwanShape.source.osm.desc':
+      'Mapa de Taiwan editado pela comunidade do OSM, disponível para download em OSM XML ou PBF via Overpass API e Geofabrik.',
+    'taiwanShape.source.g0v.desc':
+      'Comunidade de tecnologia cívica de Taiwan. Muitos projetos g0v publicam dados de mapas tratados e visualizações em código aberto.',
+    'taiwanShape.source.gadm.desc':
+      'Banco de dados global de áreas administrativas, com limites administrativos de Taiwan nos níveis 0-3, disponível nos formatos Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, licença Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, uso comercial gratuito com atribuição.',
+    'taiwanShape.license.extractedFromPrefix': 'Extraído de ',
     'taiwanShape.download.svg': 'Baixar SVG',
     'taiwanShape.download.topo': 'Baixar TopoJSON',
     'taiwanShape.download.all': 'Baixar tudo (ZIP)',
@@ -326,6 +430,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Copiado',
   },
   hi: {
+    'taiwanShape.svg.icon.desc':
+      'सरल भरा हुआ आउटलाइन — आइकन, फ़ेविकॉन और बटन के लिए उपयुक्त।',
+    'taiwanShape.svg.simplemaps.desc':
+      'स्वच्छ वेक्टर — वेब में एम्बेड करने के लिए उपयुक्त।',
+    'taiwanShape.svg.locationMap.desc':
+      'स्थान मानचित्र — अक्षांश/देशांतर ग्रिड और शहर चिह्नों सहित।',
+    'taiwanShape.svg.politicalDivision.desc':
+      'काउंटी सीमाएँ — रंगीन प्रशासनिक विभाजन।',
     // Meta
     'taiwanShape.meta.title':
       'ताइवान का आकार — ओपन-सोर्स मानचित्र डेटासेट: SVG, GeoJSON, TopoJSON',
@@ -397,6 +509,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'इस पृष्ठ की प्रत्येक फ़ाइल ओपन-सोर्स है।स्रोत और लाइसेंस की पूरी जानकारी नीचे दी गई है:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'उपरोक्त में सभी 22 जिलों और शहरों को शामिल किया गया है। तहसील सीमा डेटा स्रोत ',
+    'taiwanShape.source.dataGovTw.desc':
+      'तैवान सरकार का आधिकारिक ओपन डेटा, जिसमें गृह मंत्रालय द्वारा जारी प्रशासनिक सीमा shapefiles शामिल हैं।',
+    'taiwanShape.source.naturalEarth.desc':
+      'पब्लिक डोमेन वैश्विक मानचित्र डेटा, 1:10m / 1:50m / 1:110m — तीन स्केल उपलब्ध। ताइवान सहित विश्व मानचित्र बनाने के लिए उपयुक्त।',
+    'taiwanShape.source.osm.desc':
+      'OSM समुदाय द्वारा संपादित ताइवान का नक्शा, Overpass API और Geofabrik के ज़रिये OSM XML या PBF में डाउनलोड किया जा सकता है।',
+    'taiwanShape.source.g0v.desc':
+      'ताइवान का सिविक टेक समुदाय। कई g0v परियोजनाएँ साफ़-सुथरे नक्शा डेटा और विज़ुअलाइज़ेशन को ओपन सोर्स के रूप में प्रकाशित करती हैं।',
+    'taiwanShape.source.gadm.desc':
+      'वैश्विक प्रशासनिक क्षेत्र डेटाबेस, ताइवान की प्रशासनिक सीमाएँ 0-3 स्तर पर, Shapefile / GeoPackage / KMZ / R फ़ॉर्मेट में उपलब्ध।',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, Creative Commons लाइसेंस।',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, स्रोत का उल्लेख करने पर निःशुल्क व्यावसायिक उपयोग के लिए उपलब्ध।',
+    'taiwanShape.license.extractedFromPrefix': 'स्रोत: ',
     'taiwanShape.download.svg': 'SVG डाउनलोड करें',
     'taiwanShape.download.topo': 'TopoJSON डाउनलोड करें',
     'taiwanShape.download.all': 'सभी डाउनलोड करें (ZIP)',
@@ -404,6 +534,13 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ कॉपी किया गया',
   },
   ar: {
+    'taiwanShape.svg.icon.desc':
+      'مخطط مصمت بسيط — مناسب للأيقونات وأيقونات المفضلة والأزرار.',
+    'taiwanShape.svg.simplemaps.desc': 'متجه نظيف — مناسب للتضمين في الويب.',
+    'taiwanShape.svg.locationMap.desc':
+      'خريطة موقع مع شبكة خطوط الطول والعرض وعلامات المدن.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'حدود المقاطعات — تقسيمات إدارية ملوّنة.',
     // Meta
     'taiwanShape.meta.title':
       'شكل تايوان — مجموعة بيانات خرائط مفتوحة المصدر: SVG، GeoJSON، TopoJSON',
@@ -475,6 +612,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'كل ملف على هذه الصفحة مفتوح المصدر. فيما يلي معلومات المصدر والترخيص الكاملة:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'تم تضمين جميع المقاطعات والمدن الـ22 أعلاه. بيانات حدود البلدات والقرى من ',
+    'taiwanShape.source.dataGovTw.desc':
+      'منصة البيانات المفتوحة الرسمية للحكومة، تتضمن ملفات shapefile للحدود الإدارية الصادرة عن وزارة الداخلية.',
+    'taiwanShape.source.naturalEarth.desc':
+      'بيانات خرائط عالمية في الملك العام بثلاثة مقاييس: 1:10m / 1:50m / 1:110m. مناسبة لإعداد خرائط عالمية تشمل تايوان.',
+    'taiwanShape.source.osm.desc':
+      'خريطة تايوان التي يحرّرها مجتمع OSM، ويمكن تنزيلها بصيغة OSM XML أو PBF عبر Overpass API وGeofabrik.',
+    'taiwanShape.source.g0v.desc':
+      'مجتمع التكنولوجيا المدنية في تايوان. تنشر مشاريع g0v كثيرة بيانات خرائط منظّمة وتصورات بصرية كمصادر مفتوحة.',
+    'taiwanShape.source.gadm.desc':
+      'قاعدة بيانات المناطق الإدارية العالمية، حدود تايوان الإدارية للمستويات 0-3، متوفرة بصيغ Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons، ترخيص Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps، مجاني للاستخدام التجاري مع ذكر المصدر.',
+    'taiwanShape.license.extractedFromPrefix': 'مأخوذ من ',
     'taiwanShape.download.svg': 'تنزيل SVG',
     'taiwanShape.download.topo': 'تنزيل TopoJSON',
     'taiwanShape.download.all': 'تنزيل الكل (ZIP)',
@@ -482,6 +637,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ تم النسخ',
   },
   ru: {
+    'taiwanShape.svg.icon.desc':
+      'Простой залитый контур — подходит для иконок, фавиконов и кнопок.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Чистый вектор — подходит для встраивания в веб.',
+    'taiwanShape.svg.locationMap.desc':
+      'Карта расположения с сеткой широты/долготы и метками городов.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Границы уездов — административное деление в цвете.',
     // Meta
     'taiwanShape.meta.title':
       'Форма Тайваня — открытый набор картографических данных: SVG, GeoJSON, TopoJSON',
@@ -555,6 +718,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'Каждый файл на этой странице является открытым. Ниже приведена полная информация об источниках и лицензиях:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Выше приведены все 22 уезда и города. Границы посёлков получены из ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Официальная платформа открытых данных правительства Тайваня, включающая Shapefile административных границ, опубликованные Министерством внутренних дел.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Глобальные картографические данные в общественном достоянии, три масштаба: 1:10m / 1:50m / 1:110m. Подходят для создания мировых карт, включающих Тайвань.',
+    'taiwanShape.source.osm.desc':
+      'Карта Тайваня, редактируемая сообществом OSM; доступна для загрузки в формате OSM XML или PBF через Overpass API и Geofabrik.',
+    'taiwanShape.source.g0v.desc':
+      'Тайваньское сообщество гражданских технологий. Многие проекты g0v публикуют вычищенные картографические данные и визуализации с открытым исходным кодом.',
+    'taiwanShape.source.gadm.desc':
+      'Глобальная база данных административных территорий. Границы административных единиц Тайваня уровней 0-3, форматы: Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, лицензия Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, бесплатное использование в коммерческих целях при указании источника.',
+    'taiwanShape.license.extractedFromPrefix': 'Источник: ',
     'taiwanShape.download.svg': 'Скачать SVG',
     'taiwanShape.download.topo': 'Скачать TopoJSON',
     'taiwanShape.download.all': 'Скачать всё (ZIP)',
@@ -562,6 +743,11 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Скопировано',
   },
   'zh-TW': {
+    'taiwanShape.svg.icon.desc':
+      '簡潔的填色輪廓 — 適合做 icon、favicon、按鈕。',
+    'taiwanShape.svg.simplemaps.desc': '乾淨向量檔 — 適合網頁嵌入。',
+    'taiwanShape.svg.locationMap.desc': '位置地圖 — 含經緯度網格與城市標記。',
+    'taiwanShape.svg.politicalDivision.desc': '縣市邊界 — 彩色行政區劃。',
     // Meta
     'taiwanShape.meta.title':
       '台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON',
@@ -630,6 +816,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       '這個頁面上的每個檔案都是開源的。以下是完整的來源與授權資訊：',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      '以上已收錄全部 22 縣市。鄉鎮界資料出自 ',
+    'taiwanShape.source.dataGovTw.desc':
+      '政府官方開放資料平台，包含內政部發布的行政區界 shapefile。',
+    'taiwanShape.source.naturalEarth.desc':
+      '公有領域全球地圖資料，1:10m / 1:50m / 1:110m 三種比例尺。適合做含台灣的世界地圖。',
+    'taiwanShape.source.osm.desc':
+      'OSM 社群編輯的台灣地圖，可透過 Overpass API 與 Geofabrik 下載 OSM XML 或 PBF。',
+    'taiwanShape.source.g0v.desc':
+      '台灣公民科技社群。許多 g0v 專案以開源形式發布整理過的地圖資料和視覺化。',
+    'taiwanShape.source.gadm.desc':
+      '全球行政區資料庫，台灣行政區界 0-3 級，提供 Shapefile / GeoPackage / KMZ / R 格式。',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons，Creative Commons 授權。',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps，標註來源後可免費商業使用。',
+    'taiwanShape.license.extractedFromPrefix': '出自 ',
     'taiwanShape.download.svg': '下載 SVG',
     'taiwanShape.download.topo': '下載 TopoJSON',
     'taiwanShape.download.all': '下載全部（ZIP）',
@@ -638,6 +842,13 @@ export const taiwanShapeUI = {
   },
 
   ja: {
+    'taiwanShape.svg.icon.desc':
+      'シンプルな塗りつぶし輪郭 — アイコン、favicon、ボタンに最適。',
+    'taiwanShape.svg.simplemaps.desc':
+      'クリーンなベクター — Web 埋め込みに最適。',
+    'taiwanShape.svg.locationMap.desc':
+      '位置マップ — 経緯度・都市マーカー付き。',
+    'taiwanShape.svg.politicalDivision.desc': '県市境界 — カラー行政区分。',
     'taiwanShape.meta.title':
       '台湾のかたち — オープンソース地図データ：SVG・GeoJSON・TopoJSON',
     'taiwanShape.meta.description':
@@ -705,6 +916,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       'このページのすべてのファイルはオープンソースです。正確な出典とライセンス：',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      '22 県市すべてを上記に収録。町丁目境界データの出典は ',
+    'taiwanShape.source.dataGovTw.desc':
+      '台湾政府のオープンデータ公式ポータル、内政部の行政境界シェープファイルを含む。',
+    'taiwanShape.source.naturalEarth.desc':
+      'パブリックドメインのグローバル地図データ、1:10m、1:50m、1:110m スケール。小スケールの世界地図に最適。',
+    'taiwanShape.source.osm.desc':
+      'OSM コミュニティが編集した台湾地図、Overpass API と Geofabrik 経由で OSM XML または PBF としてダウンロード可能。',
+    'taiwanShape.source.g0v.desc':
+      '台湾のシビックテックコミュニティ。多くの g0v プロジェクトがクリーンアップされた地図データと可視化をオープンソースで公開。',
+    'taiwanShape.source.gadm.desc':
+      'グローバル行政区域データベース、台湾の行政境界 0-3 レベルを Shapefile、GeoPackage、KMZ、R 形式で提供。',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons、クリエイティブ・コモンズ。',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps、帰属表示付きで個人・商用利用無料。',
+    'taiwanShape.license.extractedFromPrefix': '出典：',
     'taiwanShape.download.svg': 'SVG をダウンロード',
     'taiwanShape.download.topo': 'TopoJSON をダウンロード',
     'taiwanShape.download.all': 'すべてダウンロード（ZIP）',
@@ -713,6 +942,11 @@ export const taiwanShapeUI = {
   },
 
   ko: {
+    'taiwanShape.svg.icon.desc':
+      '심플한 채워진 윤곽 — 아이콘, 파비콘, 버튼에 최적.',
+    'taiwanShape.svg.simplemaps.desc': '깨끗한 벡터 — 웹 임베딩에 최적.',
+    'taiwanShape.svg.locationMap.desc': '위치 지도 — 경위도 · 도시 마커 포함.',
+    'taiwanShape.svg.politicalDivision.desc': '현시 경계 — 컬러 행정구역.',
     'taiwanShape.meta.title':
       '대만의 모양 — 오픈소스 지도 데이터: SVG · GeoJSON · TopoJSON',
     'taiwanShape.meta.description':
@@ -780,6 +1014,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.intro':
       '이 페이지의 모든 파일은 오픈소스입니다. 정확한 출처와 라이선스:',
 
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      '22개 현시 전체를 위에 수록. 향진 경계 데이터 출처는 ',
+    'taiwanShape.source.dataGovTw.desc':
+      '대만 정부의 공식 오픈 데이터, 내정부의 행정 경계 셰이프 파일 포함.',
+    'taiwanShape.source.naturalEarth.desc':
+      '퍼블릭 도메인 글로벌 지도 데이터, 1:10m, 1:50m, 1:110m 축척. 소축척 세계 지도에 최적.',
+    'taiwanShape.source.osm.desc':
+      'OSM 커뮤니티가 편집한 대만 지도, Overpass API와 Geofabrik을 통해 OSM XML 또는 PBF로 다운로드 가능.',
+    'taiwanShape.source.g0v.desc':
+      '대만의 시빅 테크 커뮤니티. 많은 g0v 프로젝트가 정제된 지도 데이터와 시각화를 오픈소스로 공개.',
+    'taiwanShape.source.gadm.desc':
+      '글로벌 행정구역 데이터베이스, 대만 행정 경계 0-3 레벨을 Shapefile, GeoPackage, KMZ, R 형식으로 제공.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, 크리에이티브 커먼즈.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, 출처 표시 하에 개인 및 상업적 이용 무료.',
+    'taiwanShape.license.extractedFromPrefix': '출처: ',
     'taiwanShape.download.svg': 'SVG 다운로드',
     'taiwanShape.download.topo': 'TopoJSON 다운로드',
     'taiwanShape.download.all': '전체 다운로드 (ZIP)',
@@ -787,6 +1039,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ 복사됨',
   },
   fr: {
+    'taiwanShape.svg.icon.desc':
+      'Contour plein et simple — parfait pour icônes, favicons et boutons.',
+    'taiwanShape.svg.simplemaps.desc':
+      "Vecteur épuré — parfait pour l'intégration web.",
+    'taiwanShape.svg.locationMap.desc':
+      'Carte de localisation avec grille lat/lon et repères de villes.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Limites des comtés — divisions administratives en couleur.',
     'taiwanShape.meta.title':
       'La forme de Taïwan — Cartes open source, données SVG, GeoJSON et TopoJSON',
     'taiwanShape.meta.description':
@@ -846,6 +1106,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.heading': '⚖️ Licence et attribution',
     'taiwanShape.license.intro':
       'Chaque fichier de cette page est open source. Voici les origines et licences exactes :',
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Tous les 22 comtés et villes sont inclus ci-dessus. Les données de limites des cantons proviennent de ',
+    'taiwanShape.source.dataGovTw.desc':
+      "Plateforme officielle de données ouvertes du gouvernement taïwanais, incluant les fichiers Shapefile de limites administratives publiés par le Ministère de l'Intérieur.",
+    'taiwanShape.source.naturalEarth.desc':
+      'Données cartographiques mondiales dans le domaine public, aux échelles 1:10m / 1:50m / 1:110m. Idéal pour les cartes du monde incluant Taïwan.',
+    'taiwanShape.source.osm.desc':
+      "Carte de Taïwan éditée par la communauté OSM, téléchargeable en OSM XML ou PBF via l'API Overpass et Geofabrik.",
+    'taiwanShape.source.g0v.desc':
+      'Communauté taïwanaise de technologie civique. De nombreux projets g0v publient en open source des données cartographiques nettoyées et des visualisations.',
+    'taiwanShape.source.gadm.desc':
+      'Base de données mondiale des zones administratives, limites administratives de Taïwan aux niveaux 0-3, disponible en formats Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, licence Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, utilisation commerciale gratuite avec attribution de la source.',
+    'taiwanShape.license.extractedFromPrefix': 'Extrait de ',
     'taiwanShape.download.svg': 'Télécharger le SVG',
     'taiwanShape.download.topo': 'Télécharger le TopoJSON',
     'taiwanShape.download.all': 'Tout télécharger (ZIP)',
@@ -853,6 +1131,14 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Copié',
   },
   es: {
+    'taiwanShape.svg.icon.desc':
+      'Contorno relleno simple — ideal para iconos, favicons y botones.',
+    'taiwanShape.svg.simplemaps.desc':
+      'Vector limpio — ideal para incrustar en la web.',
+    'taiwanShape.svg.locationMap.desc':
+      'Mapa de ubicación con cuadrícula de lat/lon y marcadores de ciudades.',
+    'taiwanShape.svg.politicalDivision.desc':
+      'Límites de condados — divisiones administrativas en color.',
     'taiwanShape.meta.title':
       'La forma de Taiwán — Mapas de código abierto, datos SVG, GeoJSON y TopoJSON',
     'taiwanShape.meta.description':
@@ -913,6 +1199,24 @@ export const taiwanShapeUI = {
     'taiwanShape.license.heading': '⚖️ Licencia y atribución',
     'taiwanShape.license.intro':
       'Todos los archivos de esta página son de código abierto. Aquí están los orígenes exactos y las licencias:',
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Se han incluido los 22 condados y ciudades anteriores. Los datos de límites de pueblos y distritos proceden de ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Plataforma oficial de datos abiertos del gobierno, que incluye Shapefiles de límites administrativos publicados por el Ministerio del Interior.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Datos cartográficos globales de dominio público en tres escalas: 1:10m / 1:50m / 1:110m. Ideales para mapas mundiales que incluyen Taiwán.',
+    'taiwanShape.source.osm.desc':
+      'Mapa de Taiwán editado por la comunidad de OSM, descargable como OSM XML o PBF a través de Overpass API y Geofabrik.',
+    'taiwanShape.source.g0v.desc':
+      'Comunidad de tecnología civica de Taiwán. Muchos proyectos g0v publican datos de mapas depurados y visualizaciones como código abierto.',
+    'taiwanShape.source.gadm.desc':
+      'Base de datos de áreas administrativas globales. Límites administrativos de Taiwán en niveles 0-3, disponibles en formatos Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, licencia Creative Commons.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, uso comercial gratuito con atribución.',
+    'taiwanShape.license.extractedFromPrefix': 'Extraído de ',
     'taiwanShape.download.svg': 'Descargar SVG',
     'taiwanShape.download.topo': 'Descargar TopoJSON',
     'taiwanShape.download.all': 'Descargar todo (ZIP)',

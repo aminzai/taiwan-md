@@ -66,7 +66,7 @@ Anh sau này phản hồi giai đoạn này là bài học quan trọng nhất:
 
 > "Đường Hương Kiến rất thân thiện với người trẻ, hiểu ý tưởng của họ. Anh ta có tầm nhìn rộng, không từ chối thử nghiệm điều mới chỉ vì sở thích cá nhân. Những điều này dần dần ảnh hưởng đến Trần Giàn Quý, chỉ mới 20 tuổi, đang khám phá sáng tác âm nhạc và tương lai của mình."[^3]
 
-Đường Hương Kiến dạy anh không phải về kỹ thuật âm nhạc (những thứ anh đã tự học), mà là ** vai trò đa năng của người sản xuất âm nhạc**. Một người sản xuất cần đồng thời là người sáng tác, đàm phán, bảo vệ chất lượng, nhà tâm lý, phiên dịch (dịch mô tả mơ hồ của ca sĩ thành lời chỉ dẫn cụ thể có thể thực hiện được cho kỹ thuật viên). [^3]
+Đường Hương Kiến dạy anh không phải về kỹ thuật âm nhạc (những thứ anh đã tự học), mà là **vai trò đa năng của người sản xuất âm nhạc**. Một người sản xuất cần đồng thời là người sáng tác, đàm phán, bảo vệ chất lượng, nhà tâm lý, phiên dịch (dịch mô tả mơ hồ của ca sĩ thành lời chỉ dẫn cụ thể có thể thực hiện được cho kỹ thuật viên). [^3]
 
 📝 Ghi chú của người hội họa: Định hình nghề nghiệp của Trần Giàn Quý không phải từ ngành âm nhạc, mà là "nhìn thấy một nhạc sĩ già trong gia đình làm thế nào chuyển đổi vai trò". Góc nhìn này sau này giúp anh xử lý tốt các ca sĩ "khó định nghĩa".
 

@@ -330,7 +330,7 @@ Bài viết sử dụng 6 bức ảnh có giấy phép CC và công cộng, tấ
 
 [^3]: [Dalongdong Bảo An Miếu (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E9%BE%8D%E5%B3%92%E4%BF%9D%E5%AE%89%E5%AE%AE) — Năm 1742 (năm 7 của Qianlong) tại Bảo Lãnh Băng xây dựng bằng tre, linh hồn Bảo Sĩ Đế được đưa về từ chùa Các Nhân tử ở Bãi Rừng Hồng, Quảng Châu; năm 1830 (năm 10 của Daiguang) chính thức hoàn thành; ngày 30 tháng 6 năm 2003 tổ chức lễ “xả đất hoành tráng”; năm 2021 lễ hội Bảo Sĩ Đế được đăng ký làm tài sản văn hóa dân gian.
 
-[^4]: [Tạp chí Bảo Hoàng Hà Nội: Làm cho UNESCO thấy Bảo An Miếu — Lêu Văn-chi một cách khác\*\*](https://www.taiwan-panorama.com/Articles/Details?Guid=279e69ef-fe97-4b8e-b379-ae00b5d23bed&CatId=8) — Ghi lại chi tiết quá trình sửa chữa Bảo An Miếu do Lêu Văn-chi chỉ đạo từ 1995-2002, bao gồm lý do từ bỏ hỗ trợ chính phủ, nội dung báo cáo giải thưởng UNESCO khu vực châu Á.
+[^4]: [Tạp chí Bảo Hoàng Hà Nội: Làm cho UNESCO thấy Bảo An Miếu — Lêu Văn-chi một cách khác](https://www.taiwan-panorama.com/Articles/Details?Guid=279e69ef-fe97-4b8e-b379-ae00b5d23bed&CatId=8) — Ghi lại chi tiết quá trình sửa chữa Bảo An Miếu do Lêu Văn-chi chỉ đạo từ 1995-2002, bao gồm lý do từ bỏ hỗ trợ chính phủ, nội dung báo cáo giải thưởng UNESCO khu vực châu Á.
 
 [^5]: [Di tích Ngọn Sơn (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E5%9C%93%E5%B1%B1%E9%81%BA%E5%9D%80) — Di tích Ngọn Sơn được phát hiện vào ngày 7 tháng 3 năm 1897 bởi các nhà nghiên cứu Nhật Bản Ishikawa Jiro và Miyamura Eiichi. Năm 1953-1954, giáo sư Trường Đại học Hà Nội Shih Chuang-jou dẫn dắt học trò khảo cổ hệ thống.
 

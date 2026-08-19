@@ -5,8 +5,18 @@ One-shot pipeline for contributor knowledge/*.md that typically fail on
 format rather than content:
 
   1. footnote-format-fix (GH refs / numbered lists / yaml fence / APA)
-  2. article-health --fix (frontmatter / link-target decode+fuzzy / …)
-  3. article-health re-check → print hard/warn + advanced-review bucket
+  2. assign-subcategory (缺 subcategory 的 hard fail — 見下方註)
+  3. article-health --fix (frontmatter / link-target decode+fuzzy / …)
+  4. article-health re-check → print hard/warn + advanced-review bucket
+
+2026-08-17：第 2 步是本次補上的。`assign-subcategory.cjs` 從以前就在
+scripts/tools/ 裡，但從來沒有被這條 heal 鏈叫過——於是「缺 subcategory」
+這個 hard fail 每次都得有人手動補，或者根本沒補。實測 idlccp1984 8/15-8/16
+的 67 個 PR：65 個敗在 frontmatter-gate，跑完 footnote-fix + article-health
+--fix 之後還有 49 個是 hard，其中 26 個（超過一半）的唯一 blocker 就是缺
+subcategory——而這 26 個全部都是這支既有工具三秒鐘能填好的。
+工具造出來了但沒有接到需要它的那條路上，跟 REFLEXES #91「建造與登記是兩個
+不同步的代謝」同型。
 
 Usage:
   python3 scripts/tools/contributor-pr-heal.py knowledge/Economy/萊爾富.md
@@ -28,6 +38,9 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
+
+# assign-subcategory.cjs 掃整個 knowledge/，一批只需跑一次
+_subcat_done = {"ran": False}
 
 
 def _run(cmd: list[str], dry: bool = False) -> subprocess.CompletedProcess:
@@ -54,10 +67,17 @@ def _files_from_pr(pr: int) -> list[Path]:
     for line in r.stdout.splitlines():
         line = line.strip()
         if line.startswith("knowledge/") and line.endswith(".md"):
-            # only zh-TW root categories
+            # only zh-TW root categories（含落在 knowledge/ 根目錄的投稿檔——
+            # 2026-08-18 之前 len(parts) >= 3 把 knowledge/啾啾鞋.md 這種路徑錯位檔
+            # 靜默濾掉，整支工具印 usage exit 2，看起來像用法錯不像 PR 沒檔案；
+            # 路徑錯位本身是 heal 要處理的病，不能在入口就看不見）
             parts = Path(line).parts
-            if len(parts) >= 3 and parts[1] not in {"en", "ja", "ko", "es", "fr"}:
+            if len(parts) == 2:
                 paths.append(Path(line))
+            elif len(parts) >= 3 and parts[1] not in {"en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru", "de", "all"}:
+                paths.append(Path(line))
+    if not paths:
+        print(f"⚠️ PR #{pr} 沒有 zh-TW knowledge/*.md 檔可 heal（只有譯文／非 knowledge 檔？）", file=sys.stderr)
     return paths
 
 
@@ -124,7 +144,23 @@ def heal_file(path: Path, dry_run: bool) -> dict:
     r1 = subprocess.run(fn_cmd, cwd=REPO, capture_output=True, text=True)
     print(r1.stdout.strip() or r1.stderr.strip())
 
-    # 2. article-health --fix
+    # 2. assign-subcategory —— 缺 subcategory 是這條路上最大宗的 hard fail
+    # 這支是 whole-knowledge/ 掃描且 idempotent（已有 subcategory 的直接 skip，
+    # 實測 903 檔 skip / 0 誤動），所以整批 heal 時跑一次就夠。對不上關鍵字
+    # 會印 NO MATCH 而不是亂填——填不出來要讓人看見，不能靜默放行。
+    if not dry_run and not _subcat_done["ran"]:
+        _subcat_done["ran"] = True
+        rs = subprocess.run(
+            ["node", str(REPO / "scripts/tools/assign-subcategory.cjs")],
+            cwd=REPO,
+            capture_output=True,
+            text=True,
+        )
+        for line in rs.stdout.splitlines():
+            if "NO MATCH" in line or "NO INSERT POINT" in line or line.startswith("✅"):
+                print(f"  {line}")
+
+    # 3. article-health --fix
     ah_cmd = [
         sys.executable,
         str(REPO / "scripts/tools/article-health.py"),
@@ -138,7 +174,7 @@ def heal_file(path: Path, dry_run: bool) -> dict:
     if r2.stderr.strip():
         print(r2.stderr.strip(), file=sys.stderr)
 
-    # 3. re-check —— 必須用部署閘門的同一個 profile
+    # 4. re-check —— 必須用部署閘門的同一個 profile
     # 2026-07-25：此處原本不帶 --profile（走預設，較寬），於是 heal 完自報
     # hard=0 而 CI 的 ci-deploy sweep 是 hard=12，PR #1248（旺旺）就這樣
     # 帶紅了 main。heal 工具的「已修好」如果不是用部署的尺量的，那是一句

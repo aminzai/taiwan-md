@@ -50,7 +50,7 @@ Tháng 2 năm 2026, một fanpage tự nhận "Tôi là người Đài Bắc" đ
 ![Fanpage "Cao Hùng sống tốt" bật mở "Tôi là người XX và nguồn gốc của họ", liệt kê công ty kinh doanh, nguồn nội dung và câu lệnh AI vẫn còn sót lại](/article-images/society/woo-prompt-takaogoodday.webp)
 _Bộ hướng dẫn bật mở của fanpage "Cao Hùng sống tốt" tháng 2 năm 2026: liệt kê cấu trúc kinh doanh của trang web LIFE, nội dung chủ yếu đến từ Trung Thiên, câu lệnh AI vẫn còn sót lại "Loại bỏ các từ nhạy cảm, tăng cường sử dụng ngôn ngữ địa phương Đài Loan", và đánh dấu địa chỉ văn phòng ở đường Cơ Hồ, Nội Hồ. (Nguồn: Cao Hùng sống tốt Threads, báo cáo nhận xét trích dẫn)_
 
-> \*\*📝 Ghi chú của người tổ chức\_
+> **📝 Ghi chú của người tổ chức\_**
 > Chú ý câu lệnh này đang nói gì. "Loại bỏ các từ nhạy cảm", định sẵn bản thảo gốc có các từ không nên để độc giả Đài Loan nhìn thấy. "Tăng cường sử dụng ngôn ngữ địa phương Đài Loan", định sẵn sản phẩm cuối cùng phải giả mạo là do người dân Đài Loan viết. Nói cách khác, đây không phải là một biên tập viên fanpage đang "bắn bỏ", mà là một dây chuyền sản xuất thực hiện hai việc: xoá bỏ nhãn hiệu gốc, rồi dán nhãn "địa phương". Toàn bộ kỹ thuật bình thường bị che giấu đằng sau sản phẩm cuối cùng, lần này quy trình sản xuất tự lộ bí mật.
 
 ## Trang phía sau ở đường Cơ Hồ 10 Nội Hồ

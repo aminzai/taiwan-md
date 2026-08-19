@@ -121,10 +121,10 @@ featured: false
 
 ## 더 읽기
 
-- \*\*[타이완 예능 프로그램](/culture/台灣綜藝節目) — 엔터테인먼트 산업의 캐릭터 디자인과 시청자 상호작용 메커니즘
-- \*\*[타이완 밈](/ko/culture/taiwan-meme-culture) — 언어유희, 못생긴 귀여움, 반전 귀여움이 타이완 인터넷에서 전파되는 방식
-- \*\*[전련복리센터](/ko/economy/pxmart-supermarket) — 푸리푸리 배후의 브랜드 운영과 IP 전략
-- \*\*[타이완 반달가슴곰](/ko/nature/taiwanese-black-bear) — 문화 토템으로서의 생물학적 원형과 보전 이슈
+- **[타이완 예능 프로그램](/culture/台灣綜藝節目)** — 엔터테인먼트 산업의 캐릭터 디자인과 시청자 상호작용 메커니즘
+- **[타이완 밈](/ko/culture/taiwan-meme-culture)** — 언어유희, 못생긴 귀여움, 반전 귀여움이 타이완 인터넷에서 전파되는 방식
+- **[전련복리센터](/ko/economy/pxmart-supermarket)** — 푸리푸리 배후의 브랜드 운영과 IP 전략
+- **[타이완 반달가슴곰](/ko/nature/taiwanese-black-bear)** — 문화 토템으로서의 생물학적 원형과 보전 이슈
 
 ## 참고 자료
 

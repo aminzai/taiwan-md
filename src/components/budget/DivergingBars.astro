@@ -1,0 +1,121 @@
+---
+/**
+ * DivergingBars — 分歧條（0 在中線）：增減百分比／增減額。
+ * 正負兩色（暖＝減、冷＝增，跟 tw-bars 一致），highlight 列加深，其餘退灰。
+ */
+import { scaleLinear, fmtPct, fmtDelta } from '../../utils/budgetViz';
+
+export interface DRow {
+  id: string;
+  label: string;
+  /** 主值（%）——條長 */
+  pct: number | null;
+  /** 附註金額（億元），顯示在條尾 */
+  amount?: number | null;
+  highlight?: boolean;
+  note?: string;
+}
+interface Props {
+  title: string;
+  rows: DRow[];
+  source?: string;
+  lang?: string;
+  id?: string;
+  rowH?: number;
+  /** 軸上限（%），沒給就取資料極值 */
+  clamp?: number;
+}
+const { title, rows, source, lang = 'zh-TW', id, rowH = 24, clamp } = Astro.props;
+const W = 760;
+const M = { l: 118, r: 118, t: 26, b: 12 };
+const iw = W - M.l - M.r;
+const H = M.t + rows.length * rowH + M.b;
+const vals = rows.map((r) => Math.abs(r.pct ?? 0));
+const ext = clamp ?? Math.max(10, ...vals);
+const x = scaleLinear(-ext, ext, M.l, M.l + iw);
+const zh = lang === 'zh-TW';
+const uid =
+  id ||
+  `db-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const barH = Math.max(8, rowH - 10);
+const ticks = [-ext, -ext / 2, 0, ext / 2, ext];
+---
+
+<figure class="bg-chart" data-chart="diverging" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-labelledby={`${uid}-h`} class="bg-svg" preserveAspectRatio="xMidYMid meet">
+    <title id={`${uid}-t`}>{title}</title>
+    {
+      ticks.map((t) => (
+        <g class="bg-grid">
+          <line x1={x(t)} x2={x(t)} y1={M.t - 6} y2={M.t + rows.length * rowH} class={t === 0 ? 'bg-zero' : ''} />
+          <text x={x(t)} y={M.t - 10} text-anchor="middle" class="bg-tick">
+            {t > 0 ? '+' : ''}{Math.round(t)}%
+          </text>
+        </g>
+      ))
+    }
+    {
+      rows.map((r, i) => {
+        const cy = M.t + i * rowH + rowH / 2;
+        const v = r.pct ?? 0;
+        const vv = Math.max(-ext, Math.min(ext, v));
+        const x0 = x(0);
+        const x1 = x(vv);
+        const pos = v >= 0;
+        return (
+          <g class={`bg-row ${r.highlight ? 'is-hi' : ''} ${pos ? 'is-up' : 'is-down'}`} data-id={r.id}>
+            <text x={M.l - 10} y={cy + 4} text-anchor="end" class="bg-rowlab">{r.label}</text>
+            {r.pct !== null && (
+              <rect
+                x={Math.min(x0, x1)}
+                y={cy - barH / 2}
+                width={Math.max(1, Math.abs(x1 - x0))}
+                height={barH}
+                rx={3}
+                class="bg-bar"
+              >
+                <title>{`${r.label}：${fmtPct(v)}${r.amount != null ? `（${fmtDelta(r.amount, lang)}）` : ''}`}</title>
+              </rect>
+            )}
+            <text
+              x={pos ? x1 + 6 : x1 - 6}
+              y={cy + 4}
+              text-anchor={pos ? 'start' : 'end'}
+              class="bg-val"
+            >
+              {r.pct === null ? '—' : fmtPct(v, 0)}
+              {r.amount != null && <tspan class="bg-val-sub"> {fmtDelta(r.amount, lang)}</tspan>}
+            </text>
+          </g>
+        );
+      })
+    }
+  </svg>
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '項目' : 'Item'}</th>
+            <th class="num">{zh ? '增減 %' : 'Change %'}</th>
+            <th class="num">{zh ? '增減額（億元）' : 'Change (NT$100M)'}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            rows.map((r) => (
+              <tr>
+                <td>{r.label}{r.note && <small class="bg-note"> {r.note}</small>}</td>
+                <td class="num">{r.pct === null ? '—' : fmtPct(r.pct, 1)}</td>
+                <td class="num">{r.amount == null ? '—' : (r.amount > 0 ? '+' : '') + Math.round(r.amount).toLocaleString('en-US')}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

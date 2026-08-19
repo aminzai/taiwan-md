@@ -14,6 +14,7 @@ import EventTracker from '../components/EventTracker.astro';
 
 import type { Lang } from '../config/languages';
 import { getLanguage } from '../config/languages';
+import { useTranslations } from '../i18n/utils';
 
 interface Props {
   title: string;
@@ -67,6 +68,7 @@ interface Props {
 }
 
 const { lang = 'zh-TW' } = Astro.props;
+const t = useTranslations(lang);
 // Text direction — read from the LANGUAGES registry (SSOT: src/config/languages.ts
 // `dir` field). Every language defaults to 'ltr' unless the registry marks it
 // 'rtl' (2026-07-25: ar is the site's first RTL language). Keeping this a
@@ -511,7 +513,16 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
 
     <Header />
 
-    <script is:inline>
+    <script
+      is:inline
+      define:vars={{
+        _i18nSearchHintEmpty: t('nav.search-modal.type-to-search'),
+        _i18nSearchHintNone: t('nav.search-modal.no-results'),
+        _i18nSearchLoading: t('nav.search-modal.loading'),
+        _i18nSearchMoreTemplate: t('nav.search-modal.more-results'),
+        _i18nSearchLangBadgeZh: t('nav.search-modal.lang-badge-zh'),
+      }}
+    >
       // ── CJK bigram query tokenizer ──
       var _STOP_BIGRAMS = new Set([
         '不是',
@@ -802,7 +813,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
       }
 
       function _renderResult(item, idx, q) {
-        var langBadge = item.lang === 'en' ? 'EN' : '中';
+        var langBadge = item.lang === 'en' ? 'EN' : _i18nSearchLangBadgeZh;
         var title = item.t || '';
         var desc = item.d || '';
         return (
@@ -834,10 +845,8 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         // 伺服器端渲染的空狀態（提示 + 熱門搜尋 chips），清空時還原
         var _emptyStateHTML = results.innerHTML;
         var modal = document.getElementById('search-modal');
-        var hintEmpty = isEn
-          ? 'Type to search across all articles'
-          : '輸入關鍵字搜尋所有文章';
-        var hintNone = isEn ? 'No results found' : '找不到相關文章';
+        var hintEmpty = _i18nSearchHintEmpty;
+        var hintNone = _i18nSearchHintNone;
 
         // GA4 search tracking (debounced)
         var _gaDebounceTimer = null;
@@ -893,9 +902,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           // Single-char queries are handled by prefix match
           if (_searchMode === 'loading') {
             results.innerHTML =
-              '<div class="search-hint">' +
-              (isEn ? 'Loading...' : '載入中...') +
-              '</div>';
+              '<div class="search-hint">' + _i18nSearchLoading + '</div>';
             return;
           }
           var matches = _doSearch(q, lang);
@@ -913,9 +920,10 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
             if (matches.length > 12) {
               html +=
                 '<div class="search-hint">' +
-                (isEn
-                  ? '...and ' + (matches.length - 12) + ' more'
-                  : '...還有 ' + (matches.length - 12) + ' 篇') +
+                _i18nSearchMoreTemplate.replace(
+                  '{n}',
+                  String(matches.length - 12),
+                ) +
                 '</div>';
             }
             results.innerHTML = html;

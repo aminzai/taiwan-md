@@ -770,3 +770,32 @@
 {"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "verify", "status": "in-progress", "source": "observed"}
 {"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "b6a6a056911e"}
 {"ts": "2026-08-08T16:29:00Z", "slug": "台灣新冠疫情與疫苗-v3-retired", "stage": "projection", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-15T07:28:35Z", "slug": "台灣證券交易所", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-15T07:28:35Z", "slug": "台灣證券交易所", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-15T22:12:30Z", "slug": "台灣科技說故事", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-15T22:12:30Z", "slug": "台灣科技說故事", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-15T22:12:30Z", "slug": "台灣科技說故事", "stage": "projection", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-15T22:12:30Z", "slug": "台灣科技說故事", "stage": "ship", "status": "done", "source": "observed", "sha": "6bdb2b944ac2"}
+{"ts": "2026-08-16T22:12:02Z", "slug": "inbox:早餐雙篇重疊整併 EVOLVE — 〈台灣豆漿與早餐店〉× 〈台灣早餐文化〉", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-17T22:13:11Z", "slug": "inbox:中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "ship", "status": "done", "source": "observed", "sha": "0fa93a28a93d"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "room_projection", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "verify", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "ship", "status": "done", "source": "observed", "sha": "6e6c49306371"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "ship", "status": "done", "source": "observed", "sha": "542a8a9aa86d"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "8ab4e8da802a"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "inbox:英文語料門面句批次 EVOLVE — 排到位卻零點擊，SC 三源指向 babel", "stage": "inbox", "status": "pending", "source": "observed"}

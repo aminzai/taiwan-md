@@ -26,6 +26,25 @@ export interface ArticleSummary {
   readingTime?: number; // frontmatter readingTime (分鐘)
   tags?: string[]; // frontmatter tags
   footnotes?: number; // count of [^n]: footnote definitions (引用深度訊號)
+  /** 查證狀態三態（reports/design-curation-tier-2026-08-04.md）：
+   * 'incubating' = 🌱 進化中 · 社群貢獻，'verified' = 🔎 已深度查證，
+   * undefined = 一般正式文章（缺省，多數）。只認顯式 frontmatter 值，不從
+   * lastHumanReview 等其他欄位推導。非 zh-TW 語言：frontmatter 缺 curation
+   * 時，若有 `translatedFrom` 指回 zh-TW 來源，繼承來源文章的 curation
+   * （見 buildIndex 內 zhCurationMap）。 */
+  curation?: 'incubating' | 'verified';
+  /** 譯文層 frontmatter `translatedFrom: 'Technology/台灣鎢供應鏈.md'`（zh-TW
+   * 來源檔的 Folder/slug.md 寫法）。zh-TW 自己沒有。文內嵌入卡（tw-article）靠
+   * 它把作者寫的 zh 路徑對回這一語的譯文，見 getArticleByZhPath。 */
+  translatedFrom?: string;
+}
+
+/** 只接受顯式 'incubating' / 'verified' 字串；其他任何值（含 true/false/其他
+ * 字串）一律視為未設定，避免舊資料的雜訊被誤讀成查證狀態。 */
+function normalizeCuration(
+  value: unknown,
+): 'incubating' | 'verified' | undefined {
+  return value === 'incubating' || value === 'verified' ? value : undefined;
 }
 
 const CATEGORY_MAPPING: Record<string, string> = {
@@ -64,6 +83,26 @@ async function buildIndex(
   lang: string,
 ): Promise<Map<string, ArticleSummary[]>> {
   const result = new Map<string, ArticleSummary[]>();
+
+  // 譯文層 curation 繼承（非 zh-TW only）：先把 zh-TW 索引攤成
+  // `folderName/slug` → curation 的 lookup map（folderName 對齊 frontmatter
+  // `translatedFrom: 'History/蓬萊米.md'` 的路徑寫法，不是 catSlug）。下面逐檔
+  // fallback 用：譯文自己沒標 curation、但找得到來源 zh 文章時，沿用來源的
+  // 查證狀態，讀者在任何語言都看得到同一篇文章的階段標籤。
+  let zhCurationMap: Map<string, 'incubating' | 'verified'> | null = null;
+  if (lang !== 'zh-TW') {
+    const zhIndex = await getArticlesIndex('zh-TW');
+    zhCurationMap = new Map();
+    for (const [catSlug, zhArticles] of zhIndex) {
+      const folderName = CATEGORY_MAPPING[catSlug];
+      if (!folderName) continue;
+      for (const a of zhArticles) {
+        if (a.curation)
+          zhCurationMap.set(`${folderName}/${a.slug}`, a.curation);
+      }
+    }
+  }
+
   for (const [catSlug, folderName] of Object.entries(CATEGORY_MAPPING)) {
     const folderPath =
       lang === 'zh-TW'
@@ -82,6 +121,15 @@ async function buildIndex(
           // Footnote definitions ([^n]:) — citation-depth signal, same count
           // explore.template uses for its featured deep-dive cards.
           const footnotes = (fileContent.match(/^\[\^\d+\]:/gm) || []).length;
+          let curation = normalizeCuration(fm.curation);
+          if (
+            !curation &&
+            zhCurationMap &&
+            typeof fm.translatedFrom === 'string'
+          ) {
+            const zhKey = fm.translatedFrom.replace(/\.md$/, '');
+            curation = zhCurationMap.get(zhKey);
+          }
           articles.push({
             title: fm.title || articleSlug,
             slug: articleSlug,
@@ -92,6 +140,11 @@ async function buildIndex(
               typeof fm.readingTime === 'number' ? fm.readingTime : undefined,
             tags: Array.isArray(fm.tags) ? fm.tags : undefined,
             footnotes,
+            curation,
+            translatedFrom:
+              typeof fm.translatedFrom === 'string'
+                ? fm.translatedFrom
+                : undefined,
           });
         } catch {
           // unreadable file — skip silently
@@ -138,9 +191,7 @@ export function getArticlesIndex(
  * ──────────────────────────────────────────────────────────────────────────*/
 
 const _semanticRelated = new Map<string, Promise<Record<string, string[]>>>();
-function loadSemanticRelated(
-  lang: string,
-): Promise<Record<string, string[]>> {
+function loadSemanticRelated(lang: string): Promise<Record<string, string[]>> {
   let entry = _semanticRelated.get(lang);
   if (!entry) {
     entry = readFile(
@@ -163,9 +214,7 @@ function loadSemanticRelated(
 // Flat `${cat}/${slug}` → ArticleSummary lookup, memoised per lang. Lets the
 // semantic neighbour slugs resolve back to full summaries for the card render.
 const _bySlug = new Map<string, Promise<Map<string, ArticleSummary>>>();
-function getBySlugIndex(
-  lang: string,
-): Promise<Map<string, ArticleSummary>> {
+function getBySlugIndex(lang: string): Promise<Map<string, ArticleSummary>> {
   let entry = _bySlug.get(lang);
   if (!entry) {
     entry = getArticlesIndex(lang).then((index) => {
@@ -295,4 +344,71 @@ export async function getLatestArticles(
   // same-second batch entries in index order.
   out.sort((x, y) => Date.parse(y.date) - Date.parse(x.date));
   return out.slice(0, limit);
+}
+
+/* ───────────────────────────────────────────────────────────────────────────
+ * 文內嵌入卡（tw-article，2026-08-19）— 由 zh 路徑解析到「這一語」的文章
+ *
+ * 作者在正文寫的是 zh 路徑（`technology/台灣鎢供應鏈`），十二語譯文的 slug 卻是
+ * 各語自己的（en: taiwan-tungsten-supply-chain）。這裡用譯文 frontmatter 的
+ * `translatedFrom: 'Technology/台灣鎢供應鏈.md'` 反查；找不到譯文就退回 zh 文章
+ * 本身（連到 zh 頁），讀者至少不會撞 404。呼叫端用回傳的 `lang` 組 href。
+ * ──────────────────────────────────────────────────────────────────────────*/
+
+export interface ResolvedArticleRef {
+  article: ArticleSummary;
+  /** 實際命中的語言：可能等於請求的 lang，也可能退回 'zh-TW' */
+  lang: string;
+}
+
+// per-lang：`Folder/slug.md`（translatedFrom 寫法）→ 該語 ArticleSummary
+const _byTranslatedFrom = new Map<
+  string,
+  Promise<Map<string, ArticleSummary>>
+>();
+function getByTranslatedFromIndex(
+  lang: string,
+): Promise<Map<string, ArticleSummary>> {
+  let entry = _byTranslatedFrom.get(lang);
+  if (!entry) {
+    entry = getArticlesIndex(lang).then((index) => {
+      const flat = new Map<string, ArticleSummary>();
+      for (const [, articles] of index) {
+        for (const a of articles) {
+          if (a.translatedFrom) flat.set(a.translatedFrom, a);
+        }
+      }
+      return flat;
+    });
+    _byTranslatedFrom.set(lang, entry);
+  }
+  return entry;
+}
+
+export async function getArticleByZhPath(
+  lang: string,
+  catSlug: string,
+  zhSlug: string,
+): Promise<ResolvedArticleRef | null> {
+  const cat = catSlug.toLowerCase();
+  const zh = (await getBySlugIndex('zh-TW')).get(`${cat}/${zhSlug}`);
+  if (lang === 'zh-TW') return zh ? { article: zh, lang: 'zh-TW' } : null;
+  const folder = CATEGORY_MAPPING[cat];
+  if (folder) {
+    const hit = (await getByTranslatedFromIndex(lang)).get(
+      `${folder}/${zhSlug}.md`,
+    );
+    if (hit) return { article: hit, lang };
+  }
+  return zh ? { article: zh, lang: 'zh-TW' } : null;
+}
+
+/** 該文章的 git 上站時間（與 /latest 同一份 content-dates.json），沒有就空字串。 */
+export async function getArticleShipDate(
+  lang: string,
+  catSlug: string,
+  slug: string,
+): Promise<string> {
+  const dates = await loadContentDates();
+  return dates[latestUrlKey(lang, catSlug, slug)] ?? '';
 }

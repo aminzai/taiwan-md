@@ -2962,7 +2962,7 @@ export const mapUI = {
     'map.markers.taiwanIslamJudaism.title':
       'Đặc trưng đô thị và văn hóa vùng miền',
     'map.markers.taiwanIslamJudaism.desc':
-      'Từ 404萬 người ở Tân Bắc đến 185萬 người ở Đài Nam, hãy nhìn cách sáu đô thị trực thuộc định hình bản sắc riêng trong quá trình chuyển đổi công nghiệp',
+      'Từ 4,04 triệu người ở Tân Bắc đến 1,85 triệu người ở Đài Nam, hãy nhìn cách sáu đô thị trực thuộc định hình bản sắc riêng trong quá trình chuyển đổi công nghiệp',
     'map.markers.kaohsiungIncident.title': 'Dân chủ hóa',
     'map.markers.kaohsiungIncident.desc':
       'Cuộc xung đột giữa cảnh sát và người dân trên đường phố Cao Hùng ngày 10 tháng 12 năm 1979 cuối cùng đã thúc đẩy quá trình chuyển đổi dân chủ của Đài Loan——nhưng bao nhiêu người đã phải đánh đổi tuổi trẻ và tự do?',
@@ -3407,7 +3407,7 @@ export const mapUI = {
     'map.markers.taiwanSeafoodCulture.title':
       'Titik Panas Keanekaragaman Hayati Taiwan',
     'map.markers.taiwanSeafoodCulture.desc':
-      'Wilayah seluas 3.6萬 kilometer persegi menampung 5.9萬 spesies, dengan kepadatan 100 kali rata-rata global',
+      'Wilayah seluas 36.000 kilometer persegi menampung 59.000 spesies, dengan kepadatan 100 kali rata-rata global',
     'map.markers.taiwanPineappleCake.title':
       'Bentang Pertanian dan Persebaran Industri Taiwan',
     'map.markers.taiwanPineappleCake.desc':
@@ -3418,7 +3418,7 @@ export const mapUI = {
       'Ketimpangan perkembangan kota-desa Taiwan dalam tatanan enam munisipalitas khusus, serta transformasi ruang dari Taiwan agraris menuju Taiwan urban',
     'map.markers.taiwanOysterOmelette.title': 'Topografi dan Geologi',
     'map.markers.taiwanOysterOmelette.desc':
-      'Daratan berusia 600萬 tahun yang menyimpan kenangan purba selama 2億 tahun — keajaiban sabuk pembentukan pegunungan termuda dan tumbukan lempeng terdahsyat di dunia',
+      'Daratan berusia 6 juta tahun yang menyimpan kenangan purba selama 200 juta tahun — keajaiban sabuk pembentukan pegunungan termuda dan tumbukan lempeng terdahsyat di dunia',
     'map.markers.taiwanBreakfastCulture.title':
       'Karakteristik Kota dan Budaya Regional',
     'map.markers.taiwanBreakfastCulture.desc':
@@ -3480,11 +3480,11 @@ export const mapUI = {
     'map.markers.democraticProgressivePartyHistory.title':
       'Negara yang Mengejar Truk Sampah: Taiwan dari Krisis Sampah hingga Keajaiban Daur Ulang',
     'map.markers.democraticProgressivePartyHistory.desc':
-      'Sebuah tempat yang pada 1990-an memiliki 400 tempat pembuangan akhir yang hampir penuh dan disebut 「negara sampah」 oleh media internasional, menggunakan musik Beethoven agar 2,300萬 orang mengejar truk sampah setiap hari; 30 tahun kemudian, tingkat daur ulang sumber dayanya melampaui sebagian besar negara Eropa',
+      'Sebuah tempat yang pada 1990-an memiliki 400 tempat pembuangan akhir yang hampir penuh dan disebut 「negara sampah」 oleh media internasional, menggunakan musik Beethoven agar 23 juta orang mengejar truk sampah setiap hari; 30 tahun kemudian, tingkat daur ulang sumber dayanya melampaui sebagian besar negara Eropa',
     'map.markers.taipeiHistory.title':
       'Sejarah Perkembangan MRT Taiwan: Evolusi Kota yang Ditulis dengan Darah dan Uang',
     'map.markers.taipeiHistory.desc':
-      'Balok baja seberat 209 ton jatuh dari langit dan merenggut 4 nyawa, ganti rugi 16.4億, sementara bisnis utama MRT Taipei masih merugi hingga kini——harga nyata di balik seluruh sistem MRT Taiwan',
+      'Balok baja seberat 209 ton jatuh dari langit dan merenggut 4 nyawa, ganti rugi NT$1,64 miliar, sementara bisnis utama MRT Taipei masih merugi hingga kini——harga nyata di balik seluruh sistem MRT Taiwan',
     'map.markers.taiwanPrehistoricCulture.title':
       'Sistem Pendidikan Taiwan: Eksperimen Negara Kepulauan dari Neraka Ujian Bersama hingga Labirin Multijalur',
     'map.markers.taiwanPrehistoricCulture.desc':
@@ -3591,7 +3591,7 @@ export const mapUI = {
       'Kekayaan spesies endemik Taiwan memperlihatkan keajaiban evolusi biogeografi kepulauan dan pentingnya pelestarian',
     'map.markers.taiwanRapHipHop.title': 'Keanekaragaman Ekologis',
     'map.markers.taiwanRapHipHop.desc':
-      'Luas Taiwan hanya mencakup 0.025% wilayah dunia, tetapi memiliki lebih dari 5万 spesies, dengan tutupan hutan sebesar 60.71% yang menempati peringkat ke-33 dunia',
+      'Luas Taiwan hanya mencakup 0.025% wilayah dunia, tetapi memiliki lebih dari 50.000 spesies, dengan tutupan hutan sebesar 60.71% yang menempati peringkat ke-33 dunia',
     'map.markers.taiwanElectronicMusic.title': 'Paus dan Lumba-Lumba Taiwan',
     'map.markers.taiwanElectronicMusic.desc':
       'Habitat bagi sepertiga spesies paus dan lumba-lumba dunia—dari perburuan paus pada masa lalu hingga wisata pengamatan paus masa kini, bagaimana Taiwan bertransformasi menjadi pusat penting penelitian ekologi laut?',
@@ -3742,10 +3742,10 @@ export const mapUI = {
     'map.markers.taiwanIslamJudaism.title':
       'Ciri Khas Kota dan Budaya Regional',
     'map.markers.taiwanIslamJudaism.desc':
-      'Dari New Taipei berpenduduk 404萬人 hingga Tainan berpenduduk 185萬人, lihat bagaimana enam kota khusus membentuk karakter perkotaan masing-masing di tengah transformasi industri',
+      'Dari New Taipei berpenduduk 4,04 juta jiwa hingga Tainan berpenduduk 1,85 juta jiwa, lihat bagaimana enam kota khusus membentuk karakter perkotaan masing-masing di tengah transformasi industri',
     'map.markers.kaohsiungIncident.title': 'Demokratisasi',
     'map.markers.kaohsiungIncident.desc':
-      'Bentrok antara polisi dan warga di jalanan Kaohsiung pada 1979年12月10日 akhirnya melahirkan transisi demokrasi Taiwan——tetapi berapa banyak masa muda dan kebebasan yang harus dikorbankan?',
+      'Bentrok antara polisi dan warga di jalanan Kaohsiung pada 10 Desember 1979 akhirnya melahirkan transisi demokrasi Taiwan——tetapi berapa banyak masa muda dan kebebasan yang harus dikorbankan?',
     'map.markers.wangLeeOlympicGold.title':
       'Wang Chi-lin dan Lee Yang（Pasangan Lin-Yang）',
     'map.markers.wangLeeOlympicGold.desc':
@@ -4451,7 +4451,7 @@ export const mapUI = {
       'Deusa taiwanesa do levantamento de peso, medalhista de ouro nos Jogos Olímpicos de Tóquio de 2021 e detentora dos três recordes olímpicos da categoria até 59 kg',
     'map.markers.taiwanMountains.title': 'Teng Yu-hsien',
     'map.markers.taiwanMountains.desc':
-      'Pai da música popular taiwanesa, compôs clássicos em taiwanês como 《望春風》, 《雨夜花》 e 《月夜愁》',
+      'Pai da música popular taiwanesa, compôs clássicos em taiwanês como «Esperando a Brisa de Primavera» (望春風), «Flor da Noite Chuvosa» (雨夜花) e «Melancolia ao Luar» (月夜愁)',
     'map.markers.taiwanRivers.title': 'Chung Li-ho',
     'map.markers.taiwanRivers.desc':
       'Autor de 《O homem da terra natal》, pai da literatura taiwanesa e guerreiro das letras que continuou escrevendo apesar da pobreza e da doença',
@@ -4917,7 +4917,7 @@ export const mapUI = {
       '2018 में मिशेलिन गाइड के लाल आवरण पर पहली बार「TAIPEI」छपा, जिसने ताइवान के भोजन उद्योग के औपचारिक रूप से अंतरराष्ट्रीय मूल्यांकन प्रणाली में प्रवेश को चिह्नित किया। सड़क किनारे के ठेलों से लेकर सितारा-प्राप्त रेस्तरां तक, आम लोगों के भोजन से लेकर उत्कृष्ट पाक-कला तक, ताइवान की भोजन संस्कृति अंतरराष्ट्रीय मंच पर परंपरा और नवाचार के आकर्षक संगम के रूप में उभरी है।',
     'map.markers.taiwanAgriculturalReform.title': 'रात्रि बाजार संस्कृति',
     'map.markers.taiwanAgriculturalReform.desc':
-      '164 पंजीकृत रात्रि बाजार、ताइनान में औसतन हर 3.8万人 पर एक रात्रि बाजार, मंदिर प्रांगण से अंतरराष्ट्रीय पर्यटन स्थल तक',
+      '164 पंजीकृत रात्रि बाजार、ताइनान में औसतन हर 38,000 लोगों पर एक रात्रि बाजार, मंदिर प्रांगण से अंतरराष्ट्रीय पर्यटन स्थल तक',
     'map.markers.taiwanTeaIndustry.title': 'हक्का खानपान संस्कृति',
     'map.markers.taiwanTeaIndustry.desc':
       'हक्का समुदाय की समृद्ध और विविध खानपान संस्कृति, लेई चा की गहरी सुगंध से लेकर जंगली अदरक के फूल में लिपटे चावल के पकवान के पर्वतीय स्वाद तक, मितव्ययी गृह-प्रबंधन और स्थानीय सामग्री के उपयोग से जुड़ी हक्का जीवन-बुद्धि को दर्शाती है',
@@ -5690,7 +5690,7 @@ export const mapUI = {
       'في عام 2018، ظهرت غلاف دليل ميشلان الأحمر لأول مرة بكلمة "تايبيه"، مما يشير إلى دخول صناعة المطاعم التايوانية رسميًا إلى نظام التقييم الدولي. من أكشاك الشوارع إلى المطاعم النجمية، ومن الطعام الشعبي إلى الأطباق الفاخرة، تظهر الثقافة الغذائية التايوانية على المسرح الدولي مظهرًا جذابًا يجمع بين التقليد والابتكار.',
     'map.markers.taiwanAgriculturalReform.title': 'ثقافة أسواق الليل',
     'map.markers.taiwanAgriculturalReform.desc':
-      '164 سوق ليل تحت الإشراف، يتوسط تاينان 38 ألفًا拥有一夜市 (يتمتع سوق ليل واحد لكل 38 ألف شخص)، من ساحات المعابد إلى الوجهات السياحية الدولية',
+      '164 سوق ليل تحت الإشراف، يتمتع في تاينان كل 38 ألف شخص بسوق ليل واحد، من ساحات المعابد إلى الوجهات السياحية الدولية',
     'map.markers.taiwanTeaIndustry.title': 'ثقافة الطعام الهكا',
     'map.markers.taiwanTeaIndustry.desc':
       'الثقافة الغذائية الغنية والمتنوعة لشعب الهكا، من الرائحة الغنية والكثيفة للشاي المخلوط إلى جو الجبال والغابات لأرزونج الزنجبيل البري، مما يعرض الحكمة الحياتية لشعب الهكا في الادخار والكفاح واستخدام المواد المحلية',
@@ -5743,7 +5743,7 @@ export const mapUI = {
     'map.markers.taiwanSeafoodCulture.title':
       'مراكز التنوع البيولوجي في تايوان',
     'map.markers.taiwanSeafoodCulture.desc':
-      'ت擠س 59,000 نوع من الكائنات الحية ضمن 36,000 كيلومتر مربع من الجزيرة، والكثافة أعلى بمئة مرة من المتوسط العالمي',
+      'تتزاحم 59,000 نوع من الكائنات الحية ضمن 36,000 كيلومتر مربع من الجزيرة، والكثافة أعلى بمئة مرة من المتوسط العالمي',
     'map.markers.taiwanPineappleCake.title':
       'مناظر الزراعة والتوزيع الصناعي في تايوان',
     'map.markers.taiwanPineappleCake.desc':
@@ -6019,9 +6019,9 @@ export const mapUI = {
     'map.markers.taiwanEarthquakes.desc':
       'مؤلف "حورية البحر" و"يوم مشاهدة البحر"، ممثل بارز للأدب المحلي في إيلان',
     'map.markers.taiwanTyphoons.title':
-      'هوانغ زينان: يوكيو ناكامورا في عالم الكتب ومصدر活水 (مياه حية) لتاريخ وتراث تايوان',
+      'هوانغ زينان: «تاكينوتشي يوتاكا» عالم جمع الكتب، ومنبع حيّ لتاريخ تايوان وتراثها',
     'map.markers.taiwanTyphoons.desc':
-      'هوانغ زينان هو باحث في تاريخ وتراث تايوان، وجامع كتب، وروائي. بدأ مسيرته تحت الاسم المستعار Sizumaru على PTT، وأدار صفحة "مكتبة هوانغ شوي لاى" لمشاركة تاريخ تايوان وثقافة الكتب القديمة. له مؤلفات مثل "أكثر التاريخ التايواني إثارة للدهشة في تاريخ تايوان"، ويُعتبر يوكيو ناكامورا في عالم الكتب. انطلق من عائلة书香 في ليوجيو، تشيآي، حيث عمل الأب والابن بتقسيم南北 (الجنوب والشمال) لجمع الوثائق، ساعيًا لجعل التاريخ التايواني الجاد ممتعًا وشائعًا.',
+      'هوانغ زينان هو باحث في تاريخ وتراث تايوان، وجامع كتب، وروائي. بدأ مسيرته تحت الاسم المستعار Sizumaru على PTT، وأدار صفحة "مكتبة هوانغ شوي لاى" لمشاركة تاريخ تايوان وثقافة الكتب القديمة. له مؤلفات مثل "أكثر التاريخ التايواني إثارة للدهشة في تاريخ تايوان"، ويُعتبر يوكيو ناكامورا في عالم الكتب. انطلق من عائلةٍ عريقةٍ في حبّ الكتب في ليوجيو، تشيآي، حيث عمل الأب والابن بتقسيمٍ بين الجنوب والشمال لجمع الوثائق، ساعيًا لجعل التاريخ التايواني الجاد ممتعًا وشائعًا.',
     'map.markers.sunflowerMovement.title':
       'الحديقة الحيوانية وأخلاقيات عرض الحيوانات',
     'map.markers.sunflowerMovement.desc':
@@ -6048,7 +6048,7 @@ export const mapUI = {
       'أقدم نظام رعاية طويلة الأمد في العالم، لكنه يوجد في نفس الوقت أكبر نظام رعاية خفي',
     'map.markers.taiwanLaborMovement.title': 'البيئة والتنمية المستدامة',
     'map.markers.taiwanLaborMovement.desc':
-      'من جزيرة المداخن إلى تايوان صافية الكربون: طريق觉醒 (الاستيقاظ) لحركة البيئة على مدار 40 عامًا',
+      'من جزيرة المداخن إلى تايوان صافية الكربون: طريق الاستيقاظ لحركة البيئة على مدار 40 عامًا',
     'map.markers.taiwanHousingIssues.title': 'السكن الاجتماعي والعدالة السكنية',
     'map.markers.taiwanHousingIssues.desc':
       'كيف يمكن لتايوان تحقيق العدالة السكنية من خلال سياسة السكن الاجتماعي، لتمكين كل فرد من مكان آمن للعيش والعمل',
@@ -6452,7 +6452,7 @@ export const mapUI = {
     'map.markers.taiwanBankingSystem.title':
       'Гастрономический синтез новых резидентов Тайваня',
     'map.markers.taiwanBankingSystem.desc':
-      'Когда тайский кисло-острый вкус встречается с тайваньским сладко-солёным, когда вьетнамский фоно邂逅ует тайские маринованные блюда, когда индонезийские специи обнимают местные ингредиенты, на Тайване тихо разворачивается вкусовая революция, преодолевающая границы. Новые резиденты привносят не только блюда своей родины, но и новые возможности для обогащения гастрономической культуры Тайваня.',
+      'Когда тайский кисло-острый вкус встречается с тайваньским сладко-солёным, когда вьетнамский фо встречается с тайваньскими тушёными закусками лувэй, когда индонезийские специи обнимают местные ингредиенты, на Тайване тихо разворачивается вкусовая революция, преодолевающая границы. Новые резиденты привносят не только блюда своей родины, но и новые возможности для обогащения гастрономической культуры Тайваня.',
     'map.markers.taiwanSmes.title': 'Королевство тайваньских фруктов',
     'map.markers.taiwanSmes.desc':
       'Сладкая легенда о разнообразии тропических фруктов — от манго и личи до гуавы и розового яблока — и прорывах в сельскохозяйственных технологиях',
@@ -6806,7 +6806,7 @@ export const mapUI = {
     'map.markers.taiwanSocialMovements.title':
       'Земельная справедливость и традиционные территории тайваньских коренных народов',
     'map.markers.taiwanSocialMovements.desc':
-      'Изучение исторического контекста, правового развития, споров о划定 традиционных территорий и результатов работы Комиссии по трансформации справедливости для коренных народов Тайваня',
+      'Изучение исторического контекста, правового развития, споров о разграничении традиционных территорий и результатов работы Комиссии по трансформации справедливости для коренных народов Тайваня',
     'map.markers.taiwanMarriageEquality.title':
       'Однополые браки и гендерное равенство на Тайване',
     'map.markers.taiwanMarriageEquality.desc':

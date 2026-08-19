@@ -182,7 +182,7 @@ La fréquence de révision constitutionnelle dans les démocraties n'est génér
 
 ## Pourquoi ce chiffre est important
 
-En élargissant encore la perspective, dans les récits de la [démocratisation](/fr/history/taiwan-democratization-history/) et de la [transition démocratique taïwanaise](/fr/history/taiwan-democratization/), le seuil du droit de vote est souvent traité comme une « question formelle » — moins visible que l'équité électorale, l'alternance politique ou la liberté de la presse. Mais ce seuil d'âge touche à la ** définition fondamentale de « qui est citoyen »** :
+En élargissant encore la perspective, dans les récits de la [démocratisation](/fr/history/taiwan-democratization-history/) et de la [transition démocratique taïwanaise](/fr/history/taiwan-democratization/), le seuil du droit de vote est souvent traité comme une « question formelle » — moins visible que l'équité électorale, l'alternance politique ou la liberté de la presse. Mais ce seuil d'âge touche à la **définition fondamentale de « qui est citoyen »** :
 
 - Le seuil de 20 ans signifie que la société taïwanaise considère par défaut que les jeunes de 18-19 ans « **ne sont pas encore des citoyens politiques à part entière** »
 - Or ces mêmes personnes sont **déjà des sujets de responsabilité civile à part entière, des sujets de responsabilité pénale, des contribuables, des assujettis au service militaire**

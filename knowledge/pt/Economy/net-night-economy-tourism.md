@@ -44,7 +44,7 @@ Após 2010, marcas internacionais de fast fashion como Uniqlo, Zara e H&M entrar
 
 ### Loja Flagship Yongfu Lou: A Guardiã do Marco Urbano do Distrito Oriental
 
-O caso mais famoso ocorreu em 2019. Quando o restaurante histórico do Distrito Oriental, "Yongfu Lou", fechou as portas devido aos altos aluguéis, a NET assumiu o local com um aluguel mensal de **3,2 milhões de NT$** (o total de 12 anos de aluguel é de aproximadamente 480 milhões de NT$), criando uma loja flagship de três andares com mais de 770 ping (aproximadamente 2.560 m²). [^9] [^10] Essa estratégia de "desenvolver lojas de rua grandes e elegantes" permitiu que a NET, mesmo sob o ataque de gigantes internacionais, ultrapassasse a marca de **8 bilhões de NT$\*\* em receita em 2024, mantendo firmemente a liderança entre as marcas de vestuário locais. [^11] [^12]
+O caso mais famoso ocorreu em 2019. Quando o restaurante histórico do Distrito Oriental, "Yongfu Lou", fechou as portas devido aos altos aluguéis, a NET assumiu o local com um aluguel mensal de **3,2 milhões de NT$** (o total de 12 anos de aluguel é de aproximadamente 480 milhões de NT$), criando uma loja flagship de três andares com mais de 770 ping (aproximadamente 2.560 m²). [^9] [^10] Essa estratégia de "desenvolver lojas de rua grandes e elegantes" permitiu que a NET, mesmo sob o ataque de gigantes internacionais, ultrapassasse a marca de **8 bilhões de NT\$** em receita em 2024, mantendo firmemente a liderança entre as marcas de vestuário locais. [^11] [^12]
 
 ### Loja Minsheng de Tainan: O Renascimento Suave de um Edifício Histórico
 

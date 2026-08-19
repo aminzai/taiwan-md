@@ -80,7 +80,7 @@ Năm đó, chủ nhà là Canada. Canada đã công nhận Bắc Kinh sớm từ
 
 Nói cách khác, những người muốn để Đài Loan được gọi là "Đài Loan", chính là Hội đồng Olympic quốc tế. Những người nhất định từ chối, là Đài Bắc.
 
-Quyết định cuối cùng được Tưởng Kinh Quốc phê duyệt. Chính phủ Trung Hoa Dân Quốc coi "Đài Loan" như một thỏa hiệp làm giảm thứ bậc quốc gia: chấp nhận nó, tức là ngấm ngầm thừa nhân bản thân chỉ là một chính quyền địa phương trên một hòn đảo, từ bỏ nhân thống pháp lý để đại diện toàn bộ Trung Quốc. Vì vậy, trước ngày khai mạc, đoàn đại diện Đài Loan chọn hủy tham dự, cả toàn đoàn quay trở về nhà[^7]. Một nhà nghiên cứu sau đó đánh giá quyết định này như thế nào: "**it was the KMT that made this decision. It was an own goal, basically.**" (Đó là Quốc Dân Đảng tự mình có quyết định này. Cơ bản là một bàn thua tự inflicted.).\*\*[^8]
+Quyết định cuối cùng được Tưởng Kinh Quốc phê duyệt. Chính phủ Trung Hoa Dân Quốc coi "Đài Loan" như một thỏa hiệp làm giảm thứ bậc quốc gia: chấp nhận nó, tức là ngấm ngầm thừa nhân bản thân chỉ là một chính quyền địa phương trên một hòn đảo, từ bỏ nhân thống pháp lý để đại diện toàn bộ Trung Quốc. Vì vậy, trước ngày khai mạc, đoàn đại diện Đài Loan chọn hủy tham dự, cả toàn đoàn quay trở về nhà[^7]. Một nhà nghiên cứu sau đó đánh giá quyết định này như thế nào: "**it was the KMT that made this decision. It was an own goal, basically.**" (Đó là Quốc Dân Đảng tự mình có quyết định này. Cơ bản là một bàn thua tự inflicted.).[^8]
 
 > **⚠️ Quan điểm gây tranh cãi**
 >

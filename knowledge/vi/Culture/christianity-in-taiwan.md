@@ -91,7 +91,7 @@ Thách thức đáng kể hơn đến từ các vấn đề xã hội. Trong 10 
 
 [^6]: [Trong thập kỷ 1970, Giáo hội Long Lão Khách giáo tại Đài Loan đã công bố ba tuyên bố chính trị quan trọng](https://www.threads.com/@sixmouths.sixsuns/post/C-49a7PyKXi) — Threads @sixmouths.sixsuns, 2024-08-20
 
-[^7]: [【Báo cáo thăm dò tôn giáo Giáo hội Khách giáo Đài Loan năm 2024】Tỷ lệ người theo đạo Khách giáo giảm xuống còn 3.03%\*\*](https://ct.org.tw/html/news/3-3.php?cat=80&article=1403123) — Báo chí Hội Thảo Giáo hội Khách giáo, 2026-01-30
+[^7]: [【Báo cáo thăm dò tôn giáo Giáo hội Khách giáo Đài Loan năm 2024】Tỷ lệ người theo đạo Khách giáo giảm xuống còn 3.03%](https://ct.org.tw/html/news/3-3.php?cat=80&article=1403123) — Báo chí Hội Thảo Giáo hội Khách giáo, 2026-01-30
 
 [^8]: [Sau khi rơi chìm—Những điều chúng ta biết về vấn đề giáo hội Đài Loan](https://shop.campus.org.tw/cm/ebooks/EVAL/20211112/202112Eval3.htm) — Tạp chí Khuôn khổ, 2021-12
 

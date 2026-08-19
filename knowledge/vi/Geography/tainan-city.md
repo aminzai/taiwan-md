@@ -178,7 +178,7 @@ Gốc rễ đồ ăn vặt Đài Nam cũng nén vào trục thời gian cuối T
 
 Ngày 28 tháng 12 năm 2009, **Công viên Quốc gia Đài Giang** được thành lập. Trang web chính thức của Công viên Quốc gia Đài Giang từng chữ: "**Ngày 28 tháng 12 năm 2009 được thành lập, công viên quốc gia thứ tám của Đài Loan, cũng là công viên quốc gia loại đô thị đầu tiên của Đài Loan**." [^21]
 
-Lãnh thổ 4.905 hecta, tổng diện tích biển đất 39.310 hecta. 2 địa điểm loại quốc tế độ ẩm (** cửa sông Tào Văn, bốn cỏ**) + 2 địa điểm quốc gia độ ẩm (**đầm muối Bảy Cổ, cửa sông Yên Thủy**). Công viên quốc gia **duy nhất loại đầm lầu của Đài Loan** [^21].
+Lãnh thổ 4.905 hecta, tổng diện tích biển đất 39.310 hecta. 2 địa điểm loại quốc tế độ ẩm (**cửa sông Tào Văn, bốn cỏ**) + 2 địa điểm quốc gia độ ẩm (**đầm muối Bảy Cổ, cửa sông Yên Thủy**). Công viên quốc gia **duy nhất loại đầm lầu của Đài Loan** [^21].
 
 Nhưng ý nghĩa thực sự của công viên quốc gia này không nằm trên bản đồ, nằm ở tiếng súng cuối năm 1992.
 

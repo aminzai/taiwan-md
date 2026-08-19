@@ -1,0 +1,218 @@
+---
+/**
+ * StackedArea — 政事別／機關群 的堆疊面積圖（絕對值或占比 100%）。
+ * 直接在右端標類別名；圖下另給一列 HTML 圖例（色票＋名稱＋末年值＋占比，DOM 文字、AI 可讀）——
+ * 九類超過 dataviz 序列梯的 7–8 槽，圖例是「識別通道」，直接標籤只補充；表格 fallback。
+ * 顏色跟隨類別 slot 不跟隨排名。v2：寬 760／窄 400 兩套幾何，右邊界依最長標籤估寬（en 不再出框）。
+ */
+import { scaleLinear, niceTicks, areaPath, linePath, fmtAxis, fmtYi, estTextW, fitText, CHART_WIDTHS } from '../../utils/budgetViz';
+
+export interface Cat {
+  id: string;
+  label: string;
+  /** colour slot class：bg-cat-0..7 / bg-cat-other */
+  cls: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  years: number[];
+  cats: Cat[];
+  /** values[catIndex][yearIndex]，單位億元 */
+  values: number[][];
+  mode?: 'abs' | 'share';
+  source?: string;
+  lang?: string;
+  height?: number;
+  id?: string;
+  /** 右端標籤最少要多高才標（避免細帶塞字），單位 px */
+  minLabelPx?: number;
+  /** 圖下 HTML 圖例（預設開） */
+  legend?: boolean;
+  shareLabel?: string;
+}
+const {
+  title,
+  subtitle,
+  years,
+  cats,
+  values,
+  mode = 'abs',
+  source,
+  lang = 'zh-TW',
+  height = 380,
+  id,
+  minLabelPx = 11,
+  legend = true,
+  shareLabel,
+} = Astro.props;
+
+const zh = lang === 'zh-TW';
+const n = years.length;
+const totals = years.map((_, yi) => cats.reduce((a, _c, ci) => a + (values[ci]?.[yi] ?? 0), 0));
+const norm = (ci: number, yi: number) => {
+  const v = values[ci]?.[yi] ?? 0;
+  return mode === 'share' ? (totals[yi] ? (v / totals[yi]) * 100 : 0) : v;
+};
+const dataMax = mode === 'share' ? 100 : Math.max(...totals);
+const ticks = mode === 'share' ? [0, 25, 50, 75, 100] : niceTicks(dataMax, 5);
+const top = ticks[ticks.length - 1];
+// 累積
+const cum: number[][] = [];
+let base = new Array(n).fill(0);
+for (let ci = 0; ci < cats.length; ci++) {
+  const row = years.map((_, yi) => base[yi] + norm(ci, yi));
+  cum.push(row);
+  base = row;
+}
+const uid =
+  id ||
+  `sa-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const fmtCell = (v: number) =>
+  mode === 'share' ? `${v.toFixed(1)}%` : Math.round(v).toLocaleString('en-US');
+const endLabelText = (ci: number) =>
+  mode === 'share' ? `${norm(ci, n - 1).toFixed(0)}%` : fmtAxis(norm(ci, n - 1), '億', lang);
+
+function layout(W: number, narrow: boolean) {
+  const H = narrow ? Math.round(height * 0.8) : height;
+  const longest = Math.max(0, ...cats.map((c, ci) => estTextW(`${c.label} ${endLabelText(ci)}`)));
+  const M = {
+    l: narrow ? 44 : 58,
+    r: narrow ? Math.max(90, Math.min(140, longest + 14)) : Math.max(120, Math.min(230, longest + 18)),
+    t: 16,
+    b: 34,
+  };
+  const iw = W - M.l - M.r;
+  const ih = H - M.t - M.b;
+  const x = scaleLinear(years[0], years[n - 1], M.l, M.l + iw);
+  const y = scaleLinear(0, top, M.t + ih, M.t);
+  const layers = cats.map((c, ci) => {
+    const lower = ci === 0 ? new Array(n).fill(0) : cum[ci - 1];
+    const upper = cum[ci];
+    const topPts = years.map((yr, yi) => ({ x: x(yr), y: y(upper[yi]) }));
+    const botPts = years.map((yr, yi) => ({ x: x(yr), y: y(lower[yi]) }));
+    const lastMid = (y(upper[n - 1]) + y(lower[n - 1])) / 2;
+    const lastH = y(lower[n - 1]) - y(upper[n - 1]);
+    return { c, ci, d: areaPath(topPts, botPts), topLine: linePath(topPts), lastMid, lastH, lastVal: norm(ci, n - 1) };
+  });
+  // 右端標籤：由上到下排、避免重疊；太薄的層不標（值留圖例與表格）
+  const minPx = narrow ? Math.max(minLabelPx, 13) : minLabelPx;
+  const valW = Math.max(...layers.map((l) => estTextW(endLabelText(l.ci), 12, 6.6))) + 6;
+  const labels = layers
+    .map((l) => ({ ...l, ly: l.lastMid, show: l.lastH >= minPx, fit: fitText(l.c.label, M.r - 14 - valW, 12, 10) }))
+    .sort((a, b) => a.ly - b.ly);
+  for (let i = 1; i < labels.length; i++) {
+    if (labels[i].ly - labels[i - 1].ly < 13) labels[i].ly = labels[i - 1].ly + 13;
+  }
+  const step = narrow ? 5 : n > 8 ? 2 : 1;
+  const xTicks = years.filter((_, i) => i % step === 0 || i === n - 1);
+  return { W, H, M, iw, ih, x, y, layers, labels, xTicks, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart" data-chart="stacked" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg
+        viewBox={`0 0 ${L.W} ${L.H}`}
+        role="img"
+        aria-labelledby={`${uid}-h`}
+        class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`}
+        preserveAspectRatio="xMidYMid meet"
+      >
+        <title>{title}</title>
+        {ticks.map((t) => (
+          <g class="bg-grid">
+            <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(t)} y2={L.y(t)} />
+            <text x={L.M.l - 8} y={L.y(t) + 4} text-anchor="end" class="bg-tick">
+              {mode === 'share' ? `${t}%` : fmtAxis(t, '億', lang)}
+            </text>
+          </g>
+        ))}
+        {L.xTicks.map((yr) => (
+          <text x={L.x(yr)} y={L.M.t + L.ih + 20} text-anchor="middle" class="bg-tick">
+            {yr}
+          </text>
+        ))}
+        {L.layers.map((l) => (
+          <g class={`bg-layer ${l.c.cls}`} data-cat={l.c.id}>
+            <path d={l.d} class="bg-fill">
+              <title>{`${l.c.label}：${years[n - 1]} ${mode === 'share' ? l.lastVal.toFixed(1) + '%' : fmtYi(l.lastVal, lang)}`}</title>
+            </path>
+          </g>
+        ))}
+        {/* 層與層之間 1.5px 的表面縫（dataviz：2px surface gap） */}
+        {L.layers.slice(0, -1).map((l) => (
+          <path d={l.topLine} class="bg-seam" fill="none" />
+        ))}
+        <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.y(0)} y2={L.y(0)} class="bg-axis" />
+        {L.labels
+          .filter((l) => l.show)
+          .map((l) => (
+            <g class={`bg-endlab-g ${l.c.cls}`}>
+              <line x1={L.M.l + L.iw + 2} x2={L.M.l + L.iw + 8} y1={l.lastMid} y2={l.ly} class="bg-leader" />
+              <text x={L.M.l + L.iw + 11} y={l.ly + 4} class="bg-endlab" style={`font-size:${l.fit.size}px`}>
+                {l.fit.text}
+                <tspan class="bg-endlab-v"> {endLabelText(l.ci)}</tspan>
+              </text>
+            </g>
+          ))}
+      </svg>
+    ))
+  }
+  {
+    legend && (
+      <ul class="bg-legend-list" aria-label={zh ? '圖例' : 'Legend'}>
+        {cats.map((c, ci) => (
+          <li>
+            <span class={`bg-swatch ${c.cls}`} aria-hidden="true" />
+            <span class="bg-legend-name">{c.label}</span>
+            <span class="bg-legend-val">
+              {mode === 'share'
+                ? `${norm(ci, n - 1).toFixed(1)}%`
+                : `${fmtYi(values[ci]?.[n - 1] ?? 0, lang)} · ${((values[ci]?.[n - 1] ?? 0) / (totals[n - 1] || 1) * 100).toFixed(1)}%`}
+            </span>
+          </li>
+        ))}
+        {shareLabel && <li class="bg-legend-note">{shareLabel}</li>}
+      </ul>
+    )
+  }
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '類別' : 'Category'}</th>
+            {years.map((yr) => <th class="num">{yr}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {
+            cats.map((c, ci) => (
+              <tr>
+                <td>
+                  <span class={`bg-swatch ${c.cls}`} aria-hidden="true" /> {c.label}
+                </td>
+                {years.map((_, yi) => (
+                  <td class="num">{fmtCell(norm(ci, yi))}</td>
+                ))}
+              </tr>
+            ))
+          }
+          <tr class="bg-total">
+            <td>{zh ? '合計' : 'Total'}</td>
+            {totals.map((t) => (
+              <td class="num">{mode === 'share' ? '100%' : Math.round(t).toLocaleString('en-US')}</td>
+            ))}
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

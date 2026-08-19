@@ -53,7 +53,7 @@ translatedAt: '2026-07-24T20:15:21+08:00'
 
 संश्लेषण गति बढ़ने के बाद, शोधकर्ता व्यवस्थित रूप से विभिन्न शर्करा अणुओं के कैंसर कोशिकाओं, विषाणुओं, जीवाणुओं पर प्रभाव का परीक्षण कर सके। ची-हुई वोंग की प्रयोगशाला तब से विश्व की सबसे तेज़ ग्लाइकोकेमिस्ट्री शोध प्रयोगशालाओं में से एक बन गई।
 
-📝 **स्क्रिप्स के पुरस्कार उद्धरण में उनके शोध को इस प्रकार सारांशित किया गया: "Wong's discoveries and technologies have fundamentally shaped our understanding of complex carbohydrates and glycoproteins, as well as uncovered new therapeutic strategies to treat major diseases."** ग्लाइकोसाइंस का परिदृश्य, उनके कारण बदल गया।\*\*
+📝 **स्क्रिप्स के पुरस्कार उद्धरण में उनके शोध को इस प्रकार सारांशित किया गया: "Wong's discoveries and technologies have fundamentally shaped our understanding of complex carbohydrates and glycoproteins, as well as uncovered new therapeutic strategies to treat major diseases."** ग्लाइकोसाइंस का परिदृश्य, उनके कारण बदल गया।
 
 ## ग्लाइकोप्रोटीन टीके: कैंसर के विरुद्ध नया मार्ग
 

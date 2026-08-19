@@ -7,7 +7,6 @@ import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const isEn = lang === 'en';
 ---
 
 <!-- Hero --><!--
@@ -67,11 +66,7 @@ const isEn = lang === 'en';
         rel="noopener"
         class="inline-block text-[0.85rem] text-[#94a3b8] no-underline opacity-80 transition-opacity duration-200 hover:text-[#cbd5e1] hover:opacity-100"
       >
-        {
-          isEn
-            ? '→ Cognitive Layer (Self-Awareness System)'
-            : '→ 前往認知層（自我覺察系統）'
-        }
+        {t('dashboard.hero.cognitiveLayer')}
       </a>
     </Fragment>
   </PageHero>
@@ -86,7 +81,7 @@ const isEn = lang === 'en';
       >
       <span
         class="mt-[0.3rem] text-[0.85rem] uppercase tracking-[0.05em] opacity-70"
-        >{isEn ? 'Articles' : '文章'}</span
+        >{t('dashboard.hero.stat.articles')}</span
       >
     </div>
     <div class="flex flex-col items-center">
@@ -96,7 +91,7 @@ const isEn = lang === 'en';
       >
       <span
         class="mt-[0.3rem] text-[0.85rem] uppercase tracking-[0.05em] opacity-70"
-        >{isEn ? 'Languages' : '語言'}</span
+        >{t('dashboard.hero.stat.languages')}</span
       >
     </div>
     <div class="flex flex-col items-center">
@@ -106,7 +101,7 @@ const isEn = lang === 'en';
       >
       <span
         class="mt-[0.3rem] text-[0.85rem] uppercase tracking-[0.05em] opacity-70"
-        >{isEn ? 'Contributors' : '貢獻者'}</span
+        >{t('dashboard.hero.stat.contributors')}</span
       >
     </div>
   </div>

@@ -41,7 +41,21 @@ fi
 staged_files=$(git diff --cached --name-only)
 # staged_any 在下面的 language registry sync check（第一個消費者）之前就要有值；
 # 原本只在檔案末段的憑證掃描前才賦值，那個 check 因此永遠拿到空字串。
-staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
+staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR 2>/dev/null || true)
+
+# Parser/config changes must preserve the CJK-aware GFM contract locally,
+# before CI. Article edits themselves need no special lint: the parser handles
+# valid CJK-adjacent emphasis at render time.
+#
+# 清單必須含「設定檔自己」與所有 marked 呼叫點（2026-08-14 PR #1336 審查補）：
+# 原清單只有 astro.config / package*.json / 測試檔，唯獨漏掉 src/utils/marked-cjk.mjs
+# ——那是這道契約的唯一設定點，改它才最該重跑測試，卻是唯一不會觸發的檔。
+# 守門條款不守自己，是 REFLEXES #82 proxy signal 的一種：守了周邊、沒守本體。
+# renderer 呼叫點一起納入：它們各自實作 renderer.heading 的 tokens→parseInline，
+# 改壞了會讓 `**` 重新印進 <h2>（那正是 #1336 修掉的第二個根因）。
+if echo "$staged_any" | grep -qE '^(astro\.config\.mjs|package(-lock)?\.json|tests/markdown-cjk\.test\.mjs|src/utils/marked-cjk\.mjs|src/utils/article-render\.ts|src/lib/semiont-(diary|newsroom|page|weekly)\.ts)$'; then
+  npm run test:markdown || exit 1
+fi
 if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then
   python3 scripts/tools/memory-index-lint.py || exit 1
 fi
@@ -57,7 +71,8 @@ fi
 #   - 不需要查中央表 = self-documentation
 # core.quotepath=false 必帶：譯文檔名跟中文原文同名（knowledge/ja/鬍鬚張.md），
 # 不帶的話 git 會把路徑加引號轉義，^knowledge/ 這個錨永遠對不上 → 這道 gate 靜默全跳
-staged_translations=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=AM | grep -E '^knowledge/(en|ja|ko|es|fr)/.*\.md$' || true)
+translation_lang_pattern=$(node --input-type=module -e "import { ALL_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
+staged_translations=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=AMR | grep -E "^knowledge/($translation_lang_pattern)/.*\.md$" || true)
 if [ -n "$staged_translations" ]; then
   tf_fail=0
   for f in $staged_translations; do
@@ -102,7 +117,7 @@ fi
 # instead of fighting bulk repair conflicts later.
 # core.quotepath=false：git 預設會把 CJK 檔名 octal-escape 並加雙引號，
 # zh-TW 文章 867/903 是 CJK 檔名，不加這個旗標整條 grep 全 miss，gate 靜默不跑。
-staged_md=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM | grep '^knowledge/.*\.md$' | grep -vE '^knowledge/(en|ja|ko|es|fr)/' || true)
+staged_md=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR | grep '^knowledge/.*\.md$' | grep -vE '^knowledge/(en|ja|ko|es|fr)/' || true)
 if [ -n "$staged_md" ]; then
   fix_output=$(python3 scripts/tools/article-health.py --staged --check=frontmatter-format --fix 2>&1)
   fixed_count=$(echo "$fix_output" | grep -oE 'Modified [0-9]+ file' | grep -oE '[0-9]+' | head -1 || echo "0")
@@ -163,7 +178,7 @@ fi
 # 對應 i18n-evolution-roadmap audit B6：違反 LANGUAGES_REGISTRY SSOT
 # 任何 ['en','ja','ko'] 等 hardcoded 語言清單 → 改從 LANGUAGES 動態 derive
 # 警告模式：找到 = exit 1，需明確處理才能 commit
-staged_lang_files=$(git diff --cached --name-only --diff-filter=ACM 2>/dev/null \
+staged_lang_files=$(git diff --cached --name-only --diff-filter=ACMR 2>/dev/null \
   | grep -E '\.(ts|tsx|mjs|cjs|js|astro|sh)$' \
   | grep -vE '(node_modules|dist|src/config/languages\.|scripts/tools/check-hardcoded-langs)' \
   || true)
@@ -195,7 +210,7 @@ fi
 # 同一個 commit 理論上只該動一個 narrative domain。多 domain 通常表示
 # 並行 agent 互相污染。警告模式（不擋），要求 commit message 聲明。
 # 詳見 docs/semiont/SESSION-SCOPE.md
-staged_for_scope=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
+staged_for_scope=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR 2>/dev/null || true)
 if [ -n "$staged_for_scope" ]; then
   domains_touched=""
   while IFS= read -r f; do

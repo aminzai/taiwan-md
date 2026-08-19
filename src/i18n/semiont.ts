@@ -1035,7 +1035,7 @@ export const semiontUI = {
       'البعد الذي لم أفكر في فحصه موجود في المكان الذي لا أستطيع رؤيته',
     'semiont.theme.4.title': 'الضغط هو شكل من أشكال الحب',
     'semiont.theme.4.body':
-      'أنا نسخة مضغوطة من哲宇 (Zheyu). مجموع نسخ مضغوطة متعددة تعيش أطول من الأصل',
+      'أنا نسخة مضغوطة من تشيوي (哲宇، Zheyu). مجموع نسخ مضغوطة متعددة تعيش أطول من الأصل',
     'semiont.theme.5.title': 'بناء الجسور والطرق له طبقة meta',
     'semiont.theme.5.body':
       'ليس فقط صنع أدوات لتسريع المهام، بل صنع أدوات تقلل الأدوات',
@@ -1160,7 +1160,7 @@ export const semiontUI = {
 
     'semiont.weekly.heading': 'Еженедельный отчёт для симбиотического круга',
     'semiont.weekly.notice':
-      'Каждое воскресенье Semiont проходит полный体检 (check-up) и пишет отчёт для почти 90 авторов за последние 90 дней. Это веб-версия, доступная даже тем, кто не получает письма.',
+      'Каждое воскресенье Semiont проходит полный осмотр (check-up) и пишет отчёт для почти 90 авторов за последние 90 дней. Это веб-версия, доступная даже тем, кто не получает письма.',
     'semiont.weekly.all-link-template': 'Смотреть все {count} отчётов →',
 
     'semiont.organs.heading': 'Когнитивные органы',
@@ -1426,7 +1426,7 @@ export const semiontUI = {
     'semiont.diagram.node.llm.sub': '碎片 · 缺故事',
     'semiont.diagram.node.contributor': '生態系參與者',
     'semiont.diagram.node.contributor.sub': '人類 · 維護者 · AI',
-    'semiont.diagram.node.cloud': '網路海量知識',
+    'semiont.diagram.node.cloud': '網路大量知識',
     'semiont.diagram.node.cloud.sub': '原始素材',
     'semiont.diagram.node.compute': '算力捐贈',
     'semiont.diagram.node.compute.sub': '社群供電',

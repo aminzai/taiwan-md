@@ -1038,6 +1038,11 @@ def _uneditable_punct_predicate(text: str):
             return True
         if st.startswith("_") and st.rstrip().endswith("_"):
             return True
+        # 星號斜體圖說 *圖：…* 跟底線斜體是同一種來源標註（2026-08-18 Y1 執行子代抓到：
+        # 投稿者用 *…* 寫圖說，整行分號被當正文計數，五篇因此誤超門檻）；粗體 **…** 不算圖說。
+        if (st.startswith("*") and not st.startswith("**")
+                and st.rstrip().endswith("*") and not st.rstrip().endswith("**")):
+            return True
         for a, b in title_spans:
             if a <= start < b:
                 return True

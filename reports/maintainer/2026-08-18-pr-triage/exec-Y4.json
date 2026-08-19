@@ -1,0 +1,132 @@
+[
+  {
+    "number": 1410,
+    "path": "knowledge/History/高雄加工出口區.md",
+    "actions": [
+      "兩張已失效 manuscdn 熱連結圖改為 Commons API 直取原檔並 ingest：圖1 (Port_of_Kaohsiung_map.svg, Luuva, CC BY-SA 3.0) → public/article-images/history/kaohsiung-port-map.svg；圖2 (楠梓加工區站1號出口, 龍本, CC BY-SA 3.0) → public/article-images/history/nanzih-epz-station-exit1-2010.webp",
+      "全形分號 18→12（僅換 6 處獨立子句句號，不動圖說／blockquote）",
+      "curation 原已 incubating，確認未變"
+    ],
+    "hard_final": 0,
+    "heal_commit": "ebfb9f7bcedc9932c2d5a18e6dafb6deb9ddd209",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "7d4561c6d8330c72071f2e2e6094a3a8c1002a00",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "圖2 (nanzih) 因 upload.wikimedia.org 原檔尺寸下載持續 HTTP 429（環境內其他並行 session 共用出口 IP 撞到 Wikimedia 限流，Retry-After 600），多輪重試後才由背景重試取得成功。"
+  },
+  {
+    "number": 1412,
+    "path": "knowledge/Food/台灣滷味.md",
+    "actions": [
+      "移除正文引用的 6 張不存在本機路徑圖（原文聲稱已產出至 public/article-images/food/ 但實際未 ingest，屬不實陳述）",
+      "刪除文末失實的「圖片授權與來源」段落",
+      "curation 原已 incubating，確認未變"
+    ],
+    "hard_final": 0,
+    "heal_commit": "bc7c72ef4d03e75b568999fc6ecc442540c42e24",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "b62871027c41d8bf842334b8ccf6aaf3701d0e23",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1413,
+    "path": "knowledge/Food/新竹米粉.md",
+    "actions": [
+      "補 subcategory: 主食與米麵（Food 類，taxonomy 合法值）",
+      "全形分號 18→12（僅換 6 處獨立子句句號，不動 blockquote／圖說）",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "1200bee75d8085a09ab1d4f108c7a9530092c6c1",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "f85e4f48a6b770d7224a3602ce690651808cf5d1",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1414,
+    "path": "knowledge/Culture/大甲媽祖遶境.md",
+    "actions": [
+      "修正 subcategory「信仰與民俗」→「宗教與民俗」（taxonomy 合法值）",
+      "featured true→false",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "9d6f6678ade943e25141d33103b424b6fa5e0f86",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "7c8eca18e38b050aa4010d4428c425c8161fffdd",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "hard 原本就是 0（無圖片／分號問題），本波只修 subcategory 與 featured。"
+  },
+  {
+    "number": 1415,
+    "path": "knowledge/Culture/拼板舟.md",
+    "actions": [
+      "修正 subcategory「海洋文化與傳統技術」（不在 taxonomy）→「族群文化」",
+      "4 張本機路徑圖（原文聲稱已 cache 但實際未 ingest）改為 Commons API 直取原檔並 ingest：Ponso_no_Tao.jpg (Unknown author, PD)、雅美族伊瓦達斯社拼板舟.jpg (氏子, CC BY-SA 4.0)、Yami_ipanitika.jpg (Bernard Gagnon, CC BY-SA 3.0)、Tao_people_and_their_boats_circa_1935.jpg (Unknown author, PD) → public/article-images/culture/lanyu-tatala-*",
+      "全形分號 50→12（僅換獨立子句句號，不動表格內 6 處分號／圖說／blockquote）",
+      "author 'Taiwan.md' → 'Taiwan.md Contributors'",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "1c192788226dc890c9950b546f6a5e1a9d208779",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "d66215afe7637e350d0c89e624ef5a7a9dd643e2",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "4 張圖經 Commons API 逐一驗證，確認與原文圖說聲稱的真實 Wikimedia 檔案一致（作者／授權相符）；因 Wikimedia 429 限流，改用 /thumb/.../1280px- 縮圖路徑（不受同一限流）下載後以本機檔案餵給 image-ingest.mjs 完成收錄。"
+  },
+  {
+    "number": 1416,
+    "path": "knowledge/Geography/安坑輕軌.md",
+    "actions": [
+      "補 subcategory: 交通與基礎設施",
+      "移除企業 CDN（新北大眾捷運官方）熱連結圖與 frontmatter image/imageCredit/imageLicense 欄位（非 Wikimedia 來源，依規則移除而非收錄）",
+      "全形分號 25→0（僅換獨立子句句號）",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c1f6836cacb5b328a9542e96a2980ffb166964ab",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "dee88739a61df07b5304fa1fd45207ba6e0322ca",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1417,
+    "path": "knowledge/Food/醬油.md",
+    "actions": [
+      "frontmatter image 指向不存在 assets 路徑，正文熱連結圖為已失效 manuscdn 沙盒連結；圖說已載明真實 Wikimedia 檔名，改用 Commons API 直取原檔並 ingest：Wanjashan_soy_sauce_VeganWarrior.jpg (VeganWarrior, CC BY 2.0) → public/article-images/food/wanjashan-soy-sauce-2006.webp",
+      "全形分號 22→0（僅換獨立子句句號，不動圖說／授權行／HTML comment）",
+      "author 'Taiwan.md' → 'Taiwan.md Contributors'",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "dab0de0c1b51e44e7c04e8756e195d285beff500",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "de71ee49cfa85dd7f72c03d7abef806b76ff7b17",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "8 條腳註格式為「[作者名，〈](URL)」缺篇名（僅標題被截斷，作者名與 URL 正確），footnote-format 非 hard 未觸發，未修——供主 session 判斷是否需人工補篇名。[^1] URL 內有一個未跳脫字元「醍」疑似編碼損毀，footnote-url check 亦未標記為 hard，同樣留待人工核實。"
+  }
+]

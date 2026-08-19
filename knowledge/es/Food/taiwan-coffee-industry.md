@@ -104,7 +104,7 @@ Según estadísticas de la Organización Internacional del Café (OIC), **el con
 
 ¿Cuál es el motor de este rápido crecimiento? La respuesta es muy práctica: **la revolución de la conveniencia**.
 
-La popularización de cadenas como Starbucks, 85°C, Louisa y cama transformó el café de «consumo especial» en «necesidad cotidiana**. **Louisa, con 524 sucursales, ya superó a Starbucks, con 500\*\*, convirtiéndose en la marca de café con más puntos de venta en Taiwán. Pero el verdadero motor de la revolución fue el café de las tiendas de conveniencia.
+La popularización de cadenas como Starbucks, 85°C, Louisa y cama transformó el café de «consumo especial» en «necesidad cotidiana». **Louisa, con 524 sucursales, ya superó a Starbucks, con 500**, convirtiéndose en la marca de café con más puntos de venta en Taiwán. Pero el verdadero motor de la revolución fue el café de las tiendas de conveniencia.
 
 **City Cafe de 7-11 vende 280 millones de tazas al año, con ingresos que superan los 15,000 millones de dólares taiwaneses**. Cada tienda vende en promedio más de 150 tazas al día. Let's Cafe de FamilyMart y Hi Cafe de Liteon, estos cafés recién preparados a precios accesibles redujeron enormemente la barrera de consumo. Aunque la calidad no es comparable a la de una cafetería profesional, el precio de 35 a 50 dólares taiwaneses y la disponibilidad en cada esquina hicieron que más personas desarrollaran el hábito de beber café.
 

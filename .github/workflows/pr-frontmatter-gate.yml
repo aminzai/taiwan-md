@@ -25,6 +25,12 @@ name: PR Frontmatter Gate
 # Fork PR 權限：用 `pull_request`（非 pull_request_target），fork PR 的 token
 # 是唯讀，所以留言步驟會失敗——已加 continue-on-error 優雅降級；紅 X（job exit
 # code）不受 token 影響，永遠有效。跟 pr-review.yml 同一套 fork-safe 模式。
+#
+# ⚠️ 2026-08-13 校正：上面那句「紅 X 永遠有效」是對的，但不夠。紅 X 說「有問題」，
+#    不說「問題是什麼、怎麼修」——而說明只活在那個對 fork PR 必定失敗的留言步驟裡。
+#    後果實測：idlccp1984 連續 6 個 fork PR 敗在同一項（缺 subcategory），六次都
+#    沒拿到任何說明。所以 gate 結果現在同時寫進 $GITHUB_STEP_SUMMARY（不需 token，
+#    紅 X 一點就到）。留言步驟保留給同 repo PR，兩條管道並存。
 # ─────────────────────────────────────────────────────────────────────────────
 
 on:
@@ -32,10 +38,21 @@ on:
     types: [opened, synchronize, reopened]
     branches: [main]
     paths:
+      - 'CONTRIBUTING.md'
       - 'knowledge/**'
       - 'scripts/core/test-frontmatter.mjs'
       - 'scripts/tools/article-health.py'
       - 'scripts/tools/lib/article_health/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'tests/markdown-cjk.test.mjs'
+      # 設定檔自己與所有 marked 呼叫點也要觸發（2026-08-14 PR #1336 審查補）：
+      # 少了這幾條，改 marked-cjk.mjs 或任何 renderer 的 PR 都不會跑到那道契約測試。
+      - 'src/utils/marked-cjk.mjs'
+      - 'src/utils/article-render.ts'
+      - 'src/lib/semiont-*.ts'
+      - 'tests/contributor-frontmatter-template.test.mjs'
       - '.github/workflows/pr-frontmatter-gate.yml'
 
 permissions:
@@ -59,11 +76,16 @@ jobs:
       - name: Setup Node (with npm cache)
         uses: actions/setup-node@v5
         with:
-          node-version: 22
+          node-version-file: '.nvmrc'
           cache: npm
 
       - name: Install dependencies (gray-matter for test-frontmatter)
         run: npm ci --prefer-offline --no-audit
+      - name: Verify CJK Markdown parser contract
+        run: npm run test:markdown
+
+      - name: Validate contributor frontmatter template
+        run: node --test tests/contributor-frontmatter-template.test.mjs
 
       # article-health.py 是純 stdlib，不需 pip install；ubuntu-latest 內建 python3
 
@@ -90,7 +112,7 @@ jobs:
             FILES=$(git -c core.quotePath=false diff --name-only --diff-filter=ACMR HEAD^1...HEAD^2)
           fi
 
-          # 全語系 knowledge/*.md（給 test-frontmatter，它自己驗 en/es/ja/ko 結構）
+          # 全語系 knowledge/*.md（給 test-frontmatter，它自己驗翻譯檔結構）
           ALL_KN=""
           # 只 zh-TW root knowledge/<Category>/*.md（給 article-health --profile=pre-commit，
           # 該 profile 是 zh-TW 導向；翻譯檔交給 test-frontmatter）
@@ -99,6 +121,15 @@ jobs:
             [[ -z "$f" ]] && continue
             [[ "$f" =~ ^knowledge/.*\.md$ ]] || continue
             [[ -f "$f" ]] || continue          # 防 diff-filter edge case：檔真的要在 HEAD 上
+            # `_` 開頭的不是文章（Hub / roadmap / vault 入口，不建置上站）。
+            # article-health.py 自己找檔時本來就跳過它們（該檔 L74 / L91），但這裡
+            # 是逐檔明確傳入，繞過了那條規則——於是任何 PR 只要碰到一個 Hub 檔，
+            # 就會被那個檔案「本來就有」的問題（缺 subcategory、既有斷 wikilink）
+            # 連坐判紅，而貢獻者改的根本不是那些東西。同一支檢查器對「自己找的檔」
+            # 與「別人餵的檔」兩把尺，per REFLEXES #83。
+            # 觸發：2026-08-14 PR #1336（唐鳳）只改 `_People Hub.md` 一行標記語法，
+            # 被該檔 main 上既有的 frontmatter hard=6 / wikilink hard=19 擋下。
+            [[ "$(basename "$f")" == _* ]] && continue
             ALL_KN+="$f"$'\n'
             # zh-TW root = knowledge/<大寫開頭分類>/…；排除 knowledge/<小寫語系碼>/…
             if [[ "$f" =~ ^knowledge/[A-Z][A-Za-z]*/.*\.md$ ]]; then
@@ -172,6 +203,36 @@ jobs:
           echo "status=$STATUS" >> "$GITHUB_OUTPUT"
           echo ""
           echo "gate status = $STATUS"
+
+          # ── Job Summary：fork PR 唯一到得了投稿者眼前的管道（2026-08-13）──
+          # 下面那個留言步驟對 fork PR 永遠失敗（唯讀 token），已 continue-on-error
+          # 優雅降級——但「優雅降級」降掉的正是**怎麼修**這件事本身。投稿者看到的
+          # 只剩一個沒有理由的紅 X。實證：idlccp1984 連續 6 個 PR（#1304/#1323/
+          # #1324/#1326/#1327/#1328）敗在同一項（缺 subcategory），六次都沒收到
+          # 過任何一次說明，因為六次都是 fork PR。閘門診斷正確、輸出管道斷掉，
+          # 於是同一個錯重複六次——這是 REFLEXES #52「immune system 沒在 fail loud
+          # 比缺 immune system 更危險」的變體：它有 fail loud，只是沒對著人喊。
+          # Job Summary 不需要任何 token 權限，且紅 X 一點就到這一頁。
+          {
+            if [ "$STATUS" = "pass" ]; then
+              echo "## ✅ Frontmatter Gate 通過"
+            else
+              echo "## 🔴 Frontmatter Gate 未通過 — merge 前請先修"
+            fi
+            echo ""
+            echo '```'
+            cat gate-result.txt
+            echo '```'
+            if [ "$STATUS" != "pass" ]; then
+              echo ""
+              echo "### 最常見的修法"
+              echo "- **缺 \`subcategory\`** → 對照 [\`docs/taxonomy/SUBCATEGORY.md\`](https://github.com/${GITHUB_REPOSITORY}/blob/main/docs/taxonomy/SUBCATEGORY.md) 找該分類的子分類補上。這是目前最常見的一項。"
+              echo "- **YAML 被包在 \` \`\`\` \` code fence 裡**（不是真 frontmatter）→ 開頭與結尾的 \` \`\`\`yaml \` / \` \`\`\` \` 都換成 \`---\`，且必須貼在檔案最頂端。"
+              echo "- **腳註格式 / 半形標點 / wikilink** → 本地跑 \`python3 scripts/tools/footnote-format-fix.py <檔> --apply\` 與 \`python3 scripts/tools/article-health.py <檔> --profile=pre-commit --fix\`，多數可自動修。"
+              echo ""
+              echo "修好 push 到同一個 PR 分支，這條 gate 會自動重跑。"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Comment gate result on PR
         if: steps.files.outputs.count != '0' && always()

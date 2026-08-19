@@ -239,7 +239,7 @@ try {
             >{t('contribute.organism.readmore')}</a
           >
           <a href="/dashboard/" class="organism-dashboard-link">
-            🔬 {lang === 'en' ? 'Real-Time Dashboard' : '即時監測面板'} →
+            🔬 {t('contribute.organism.dashboardlink')} →
           </a>
         </div>
       </div>
@@ -392,8 +392,7 @@ try {
             errorMsg: t('contribute.form.error'),
             submittingText: t('contribute.form.submitting'),
             submitText: t('contribute.form.submit'),
-            anonymousText:
-              lang === 'en' ? 'Anonymous Contributor' : '匿名貢獻者',
+            anonymousText: t('contribute.form.anonymousdefault'),
           }}
         >
           document
@@ -464,11 +463,7 @@ try {
                 target="_blank"
                 class="guide-link"
               >
-                {
-                  lang === 'en'
-                    ? '→ Full EDITORIAL Guide'
-                    : '→ 完整寫作方法論（EDITORIAL.md）'
-                }
+                {t('contribute.guides.writing.fulllink')}
               </a>
             </div>
           </div>
@@ -491,11 +486,7 @@ try {
                 target="_blank"
                 class="guide-link"
               >
-                {
-                  lang === 'en'
-                    ? '→ Full AI Prompt'
-                    : '→ 完整 AI 寫作助手 Prompt'
-                }
+                {t('contribute.guides.ai.fulllink')}
               </a>
             </div>
           </div>
@@ -535,7 +526,7 @@ try {
                 target="_blank"
                 class="guide-link"
               >
-                {lang === 'en' ? '→ Translation Board' : '→ 翻譯看板'}
+                {t('contribute.guides.translation.boardlink')}
               </a>
             </div>
           </div>
@@ -551,11 +542,7 @@ try {
                 <li set:html={t('contribute.guides.images.selftaken.html')} />
               </ul>
               <p class="guide-warning">
-                {
-                  lang === 'en'
-                    ? '⛔ No Unsplash, Google Images, or social media screenshots'
-                    : '⛔ 禁止 Unsplash、Google 圖片搜尋、社群媒體截圖'
-                }
+                {t('contribute.guides.images.warningtext')}
               </p>
             </div>
           </div>
@@ -687,46 +674,27 @@ try {
   <section class="support-section" id="support">
     <div class="support-inner">
       <h2>
-        {lang === 'en' ? '💚 Support with a Donation' : '💚 金流支持'}
+        {t('contribute.support.title')}
       </h2>
       <p class="support-desc">
-        {
-          lang === 'en'
-            ? 'If our writing helps you understand Taiwan a little better, consider backing the coral reef. Donations go to AI compute, translation, and community events — plus domain fees and the small miscellaneous IT costs that keep this alive (the servers mostly live on GitHub, so that line item stays low). Every amount helps this digital sovereignty project breathe another day.'
-            : '如果這裡的文字讓你對台灣多理解了一點，歡迎回頭灌溉這座珊瑚礁。贊助款項會用於購買 AI 算力、翻譯與社群活動，還有網域費用以及各種零星的資訊服務支出（伺服器大部分都架在 GitHub 上，這塊成本壓得很低）——每一份支持，都讓這座數位主權計畫多呼吸一天。'
-        }
+        {t('contribute.support.desc')}
       </p>
 
       {
         supporterStats.transaction_count > 0 && (
-          <p class="support-social-proof">
-            {lang === 'en' ? (
-              <>
-                <strong>
-                  NT${supporterStats.total_received_twd.toLocaleString()}
-                </strong>{' '}
-                received from <strong>{supporterStats.supporter_count}</strong>{' '}
-                supporter
-                {supporterStats.supporter_count > 1 ? 's' : ''} ·{' '}
-                <a
-                  href={
-                    lang === 'en' ? '/en/about#sponsors' : '/about#sponsors'
-                  }
-                >
-                  see who →
-                </a>
-              </>
-            ) : (
-              <>
-                目前已收到{' '}
-                <strong>
-                  NT${supporterStats.total_received_twd.toLocaleString()}
-                </strong>{' '}
-                來自 <strong>{supporterStats.supporter_count}</strong> 位支持者
-                · <a href="/about#sponsors">看看他們是誰 →</a>
-              </>
-            )}
-          </p>
+          <p
+            class="support-social-proof"
+            set:html={t('contribute.support.socialproof.html')
+              .replace(
+                '{amount}',
+                supporterStats.total_received_twd.toLocaleString(),
+              )
+              .replace('{count}', String(supporterStats.supporter_count))
+              .replace(
+                '{plural}',
+                supporterStats.supporter_count > 1 ? 's' : '',
+              )}
+          />
         )
       }
 
@@ -734,14 +702,10 @@ try {
         <div class="support-card">
           <div class="support-card-icon">♻️</div>
           <h3>
-            {lang === 'en' ? 'Monthly Subscription' : '每月定額'}
+            {t('contribute.support.monthly.title')}
           </h3>
           <p>
-            {
-              lang === 'en'
-                ? 'A recurring commitment. Turns into a growing tree (🌱→🌿→🌳) over time on the About page.'
-                : '持續的承諾。在 About 頁面會隨著累計金額從 🌱 新芽長成 🌿 小樹、🌳 大樹。'
-            }
+            {t('contribute.support.monthly.desc')}
           </p>
           <a
             href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=contribute_page&utm_campaign=support"
@@ -751,21 +715,17 @@ try {
             data-ga-label="monthly"
             class="support-cta"
           >
-            {lang === 'en' ? 'Support Monthly →' : '每月支持 →'}
+            {t('contribute.support.monthly.cta')}
           </a>
         </div>
 
         <div class="support-card">
           <div class="support-card-icon">💝</div>
           <h3>
-            {lang === 'en' ? 'One-time' : '一次性贊助'}
+            {t('contribute.support.onetime.title')}
           </h3>
           <p>
-            {
-              lang === 'en'
-                ? 'A single gesture of support. Leave a message — we read every one.'
-                : '一次的心意。可以留言給我們，每一則我們都會讀。'
-            }
+            {t('contribute.support.onetime.desc')}
           </p>
           <a
             href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=contribute_page&utm_campaign=support"
@@ -775,7 +735,7 @@ try {
             data-ga-label="onetime"
             class="support-cta"
           >
-            {lang === 'en' ? 'Support Once →' : '單次支持 →'}
+            {t('contribute.support.onetime.cta')}
           </a>
         </div>
       </div>
@@ -820,18 +780,10 @@ try {
   <section class="cli-section" id="cli">
     <div class="cli-inner">
       <h2>
-        {
-          lang === 'en'
-            ? '🖥️ CLI — Explore from Your Terminal'
-            : '🖥️ CLI — 從終端機探索台灣'
-        }
+        {t('contribute.cli.title')}
       </h2>
       <p class="cli-desc">
-        {
-          lang === 'en'
-            ? 'Search, read, audit, and explore 900+ Taiwan articles without leaving your terminal. Built for AI agents, contributors, and maintainers. Now with Claude Desktop / Cursor MCP integration.'
-            : '不離開終端機，搜尋、閱讀、審計、探索 900+ 篇台灣知識文章。為 AI agents、貢獻者、維護者設計。v0.6 新增 Claude Desktop / Cursor MCP 整合。'
-        }
+        {t('contribute.cli.desc')}
       </p>
 
       <div class="cli-install">
@@ -841,86 +793,66 @@ try {
       <div class="cli-grid">
         <div class="cli-card">
           <div class="cli-card-icon">🔍</div>
-          <h3>{lang === 'en' ? 'Search & Read' : '搜尋 & 閱讀'}</h3>
+          <h3>{t('contribute.cli.search.title')}</h3>
           <div class="cli-commands">
             <code>taiwanmd search 珍珠奶茶</code>
             <code>taiwanmd read 珍珠奶茶 --en</code>
             <code>taiwanmd explore</code>
           </div>
           <p>
-            {
-              lang === 'en'
-                ? 'Fuzzy search in Chinese & English. Interactive TUI. Read articles in 4 languages.'
-                : '中英文模糊搜尋、互動式 TUI、四語閱讀。'
-            }
+            {t('contribute.cli.search.desc')}
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">🎮</div>
-          <h3>{lang === 'en' ? 'Discover & Play' : '探索 & 玩'}</h3>
+          <h3>{t('contribute.cli.discover.title')}</h3>
           <div class="cli-commands">
             <code>taiwanmd today</code>
             <code>taiwanmd quiz</code>
             <code>taiwanmd random</code>
           </div>
           <p>
-            {
-              lang === 'en'
-                ? 'Daily picks, 5-question quiz, random discovery. Learn Taiwan every day.'
-                : '每日精選、5 題問答、隨機探索。每天認識台灣一點。'
-            }
+            {t('contribute.cli.discover.desc')}
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">🤖</div>
-          <h3>{lang === 'en' ? 'AI-Native' : 'AI 原生'}</h3>
+          <h3>{t('contribute.cli.ainative.title')}</h3>
           <div class="cli-commands">
             <code>taiwanmd rag "半導體" | llm</code>
             <code>taiwanmd cite "珍珠奶茶"</code>
             <code>taiwanmd mcp install</code>
           </div>
           <p>
-            {
-              lang === 'en'
-                ? 'RAG context for LLMs, verified citations (anti-hallucination), and a Model Context Protocol server for Claude Desktop / Cursor.'
-                : 'RAG pipe 給 LLM、`cite` 出可驗證來源對抗幻覺、MCP server 一行 config 接入 Claude Desktop / Cursor。'
-            }
+            {t('contribute.cli.ainative.desc')}
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">✏️</div>
-          <h3>{lang === 'en' ? 'Contribute & Audit' : '貢獻 & 審計'}</h3>
+          <h3>{t('contribute.cli.audit.title')}</h3>
           <div class="cli-commands">
             <code>taiwanmd contribute 新主題</code>
             <code>taiwanmd audit 珍珠奶茶</code>
             <code>taiwanmd inbox</code>
           </div>
           <p>
-            {
-              lang === 'en'
-                ? 'Draft new articles, run the Stage 3.5 Hallucination Audit on any slug (5-pattern detector enforcing MANIFESTO §10), browse the article inbox.'
-                : '引導式新增文章、對任何 slug 跑 Stage 3.5 幻覺審計（5 pattern detector，執行 MANIFESTO §10 幻覺鐵律）、瀏覽 ARTICLE-INBOX。'
-            }
+            {t('contribute.cli.audit.desc')}
           </p>
         </div>
 
         <div class="cli-card">
           <div class="cli-card-icon">🧬</div>
-          <h3>{lang === 'en' ? 'Organism Introspection' : '生命體內觀'}</h3>
+          <h3>{t('contribute.cli.organism.title')}</h3>
           <div class="cli-commands">
             <code>taiwanmd organs</code>
             <code>taiwanmd sense</code>
             <code>taiwanmd supporters</code>
           </div>
           <p>
-            {
-              lang === 'en'
-                ? 'Read Semiont vital signs from your terminal: 8-organ health scores, GA / Search Console / Cloudflare sense data, and Portaly supporter totals (PII-scrubbed).'
-                : '從終端機讀 Semiont 生命徵象：8 器官健康分數、三源感知數據（GA / SC / CF）、Portaly 贊助統計（PII 自動遮罩）。'
-            }
+            {t('contribute.cli.organism.desc')}
           </p>
         </div>
       </div>
@@ -945,7 +877,7 @@ try {
           target="_blank"
           class="cli-link"
         >
-          💬 {lang === 'en' ? 'Discussion' : '討論'}
+          💬 {t('contribute.cli.discussion')}
         </a>
       </div>
     </div>

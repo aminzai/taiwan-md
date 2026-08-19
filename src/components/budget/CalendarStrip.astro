@@ -1,0 +1,192 @@
+---
+/**
+ * CalendarStrip — 一條有比例的時間軸（/budget §5：115 年度總預算從送院到三讀）。
+ * 上：月份刻度＋事件標記（院會通過／送達／法定期限／年度開始／付委／三讀）＋一段塗底（§54 運作期）。
+ * 下：幾條「天數」bar，全部從同一個錨點（三讀日）往回量，各標說話者——三個數字三個起點，圖上不裁決。
+ * 寬 760／窄 400 兩套幾何；資料表 fallback（標記＋天數）。
+ */
+import { scaleLinear, estTextW, CHART_WIDTHS } from '../../utils/budgetViz';
+
+export interface Marker {
+  date: string; // YYYY-MM-DD
+  label: string;
+  kind?: 'pass' | 'key' | 'plain';
+}
+export interface Span {
+  days: number;
+  label: string; // 說話者
+  quote?: string;
+}
+interface Props {
+  title: string;
+  subtitle?: string;
+  start: string;
+  end: string;
+  markers: Marker[];
+  shade?: { from: string; to: string; label: string };
+  spans?: Span[];
+  /** 天數 bar 的終點（預設 = end） */
+  anchor?: string;
+  daysUnit?: string;
+  source?: string;
+  lang?: string;
+  id?: string;
+}
+const { title, subtitle, start, end, markers, shade, spans = [], anchor, daysUnit, source, lang = 'zh-TW', id } = Astro.props;
+const zh = lang === 'zh-TW';
+const uid =
+  id ||
+  `cs-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const DAY = 86400000;
+const t = (d: string) => Date.parse(`${d}T00:00:00Z`);
+const t0 = t(start);
+const t1 = t(end);
+const tA = t(anchor || end);
+const dU = daysUnit || (zh ? '天' : 'days');
+// 月份刻度：每月 1 日
+const months: { t: number; label: string; year: boolean }[] = [];
+{
+  const d = new Date(t0);
+  d.setUTCDate(1);
+  if (d.getTime() < t0) d.setUTCMonth(d.getUTCMonth() + 1);
+  while (d.getTime() <= t1) {
+    months.push({ t: d.getTime(), label: String(d.getUTCMonth() + 1), year: d.getUTCMonth() === 0 });
+    d.setUTCMonth(d.getUTCMonth() + 1);
+  }
+}
+const yearsIn = Array.from(new Set([new Date(t0).getUTCFullYear(), ...months.map((m) => new Date(m.t).getUTCFullYear())]));
+const sortedMarkers = [...markers].sort((a, b) => t(a.date) - t(b.date));
+const fmtD = (d: string) => (zh ? d.slice(5).replace('-', '/') : d.slice(5).replace('-', '/'));
+const spanStart = (s: Span) => new Date(tA - s.days * DAY).toISOString().slice(0, 10);
+
+function layout(W: number, narrow: boolean) {
+  const M = { l: narrow ? 10 : 16, r: narrow ? 10 : 16 };
+  const iw = W - M.l - M.r;
+  const x = scaleLinear(t0, t1, M.l, M.l + iw);
+  // 標記標籤：最多三層，逐層找不撞字的位置（手機常需要第三層）
+  const est = (s: string) => estTextW(`${s} 00/00`, narrow ? 10.5 : 11, narrow ? 5.8 : 6);
+  const placed = sortedMarkers.map((m) => ({ m, x: x(t(m.date)), lvl: 0, w: est(m.label) }));
+  const lastAt: (typeof placed)[number][] = [];
+  for (const p of placed) {
+    let lvl = 0;
+    while (lvl < 2) {
+      const prev = lastAt[lvl];
+      if (!prev || p.x - prev.x >= (prev.w + p.w) / 2 + 6) break;
+      lvl++;
+    }
+    p.lvl = lvl;
+    lastAt[lvl] = p;
+  }
+  const levels = Math.max(0, ...placed.map((p) => p.lvl)) + 1;
+  const axisY = 34 + levels * 18;
+  const spanH = 20;
+  const spanGap = narrow ? 30 : 26;
+  const spansTop = axisY + 46;
+  const H = spansTop + spans.length * spanGap + 8;
+  const whoW = (s: string) => estTextW(s, narrow ? 10.5 : 11, narrow ? 5.8 : 6);
+  return { W, H, M, iw, x, axisY, spanH, spanGap, spansTop, placed, narrow, whoW };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
+---
+
+<figure class="bg-chart" data-chart="calendar" id={uid}>
+  <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg viewBox={`0 0 ${L.W} ${L.H}`} role="img" aria-labelledby={`${uid}-h`} class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`} preserveAspectRatio="xMidYMid meet">
+        <title>{title}</title>
+        {/* 塗底（例：§54 運作期） */}
+        {shade && (
+          <g class="bg-cal-shade">
+            <rect x={L.x(t(shade.from))} y={L.axisY - 22} width={Math.max(0, L.x(t(shade.to)) - L.x(t(shade.from)))} height={30} />
+            <text x={(L.x(t(shade.from)) + L.x(t(shade.to))) / 2} y={L.axisY + 32} text-anchor="middle" class="bg-cal-shade-lab">
+              {shade.label}
+            </text>
+          </g>
+        )}
+        {/* 月份刻度 */}
+        {months.map((m) => (
+          <g class="bg-grid">
+            <line x1={L.x(m.t)} x2={L.x(m.t)} y1={L.axisY - 4} y2={L.axisY + 4} />
+            {(!L.narrow || m.year || Number(m.label) % 3 === 1) && (
+              <text x={L.x(m.t)} y={L.axisY + 16} text-anchor="middle" class="bg-tick">
+                {m.year ? `${new Date(m.t).getUTCFullYear()}/${m.label}` : m.label}
+              </text>
+            )}
+          </g>
+        ))}
+        <line x1={L.M.l} x2={L.M.l + L.iw} y1={L.axisY} y2={L.axisY} class="bg-axis" />
+        {/* 事件標記 */}
+        {L.placed.map(({ m, x, lvl }) => (
+          <g class={`bg-cal-mark ${m.kind === 'pass' ? 'is-pass' : m.kind === 'key' ? 'is-key' : ''}`}>
+            <line x1={x} x2={x} y1={L.axisY} y2={L.axisY - (26 + lvl * 18)} />
+            <circle cx={x} cy={L.axisY} r={L.narrow ? 3.4 : 4} />
+            <text
+              x={x}
+              y={L.axisY - (30 + lvl * 18)}
+              text-anchor={x < L.M.l + 40 ? 'start' : x > L.M.l + L.iw - 40 ? 'end' : 'middle'}
+              class="bg-cal-lab"
+            >
+              {m.label}
+              <tspan class="bg-cal-date"> {fmtD(m.date)}</tspan>
+            </text>
+          </g>
+        ))}
+        {/* 天數 bar：從錨點往回量 */}
+        {spans.map((s, i) => {
+          const y = L.spansTop + i * L.spanGap;
+          const x0 = Math.max(L.M.l, L.x(tA - s.days * DAY));
+          const x1 = L.x(tA);
+          // 說話者標籤：左邊放得下就放左邊，放不下（bar 幾乎滿軸）就放進 bar 內起點
+          const inside = x0 - 6 - L.whoW(s.label) < L.M.l;
+          return (
+            <g class="bg-cal-span">
+              <rect x={x0} y={y} width={Math.max(1, x1 - x0)} height={L.spanH - 6} rx={3} />
+              <text x={x1 - 6} y={y + L.spanH / 2 + 2} text-anchor="end" class="bg-cal-span-n">
+                {s.days} {dU}
+              </text>
+              <text
+                x={inside ? x0 + 6 : x0 - 6}
+                y={y + L.spanH / 2 + 2}
+                text-anchor={inside ? 'start' : 'end'}
+                class={`bg-cal-span-who ${inside ? 'is-inside' : ''}`}
+              >
+                {s.label}
+              </text>
+              <title>{`${s.label}：${s.days} ${dU}${s.quote ? ' · ' + s.quote : ''}`}</title>
+            </g>
+          );
+        })}
+      </svg>
+    ))
+  }
+  {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
+  <details class="bg-table">
+    <summary>{zh ? '資料表' : 'Data table'}</summary>
+    <div class="bg-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>{zh ? '日期' : 'Date'}</th>
+            <th>{zh ? '事件' : 'Event'}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sortedMarkers.map((m) => (
+            <tr>
+              <td>{m.date}</td>
+              <td>{m.label}</td>
+            </tr>
+          ))}
+          {spans.map((s) => (
+            <tr>
+              <td>{`${spanStart(s)} → ${anchor || end}`}</td>
+              <td>{`${s.label}：${s.days} ${dU}${s.quote ? '（' + s.quote + '）' : ''}`}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </details>
+</figure>

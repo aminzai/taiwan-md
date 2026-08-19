@@ -93,7 +93,7 @@ De la fábrica de perillas de Hon Hai Plastic con 100.000 dólares taiwaneses al
 >
 > La retirada de 2023 bajo el lema «elegir la concesión» es un caso raro en la historia electoral taiwanesa: un candidato que renuncia voluntariamente a una competitividad ya consolidada. 900.000 firmas no son poca cosa, pero él eligió no activarlas. La forma de esta retirada merece más registro que la espectacularidad de la entrada.
 
-Desde las fábricas de Shenzhen, el ensamblaje por contrato para Apple, las vacunas de la Fundación Yongling hasta la conferencia de prensa de la «Gran Alianza de la Opinión Pública Mayoritaria»: la trayectoria de Gou es un corte transversal de superposición entre la era de la manufactura taiwanesa y la posmanufactura. No es solo un empresario: es la representación personal de la globalización de la industria electrónica taiwanesa, y también un caso completo de la cuestión de esta generación sobre «cómo participan los empresarios en la esfera pública\*\*.
+Desde las fábricas de Shenzhen, el ensamblaje por contrato para Apple, las vacunas de la Fundación Yongling hasta la conferencia de prensa de la «Gran Alianza de la Opinión Pública Mayoritaria»: la trayectoria de Gou es un corte transversal de superposición entre la era de la manufactura taiwanesa y la posmanufactura. No es solo un empresario: es la representación personal de la globalización de la industria electrónica taiwanesa, y también un caso completo de la cuestión de esta generación sobre «cómo participan los empresarios en la esfera pública».
 
 **Lectura complementaria:** [Terry Gou — Wikipedia](https://zh.wikipedia.org/zh-tw/郭台銘) ｜ [Grupo Hon Hai: Perfil del fundador](https://www.honhai.com/zh-tw/about/group-profile/founder)
 

@@ -1,11 +1,11 @@
 ---
 title: 'EMBEDDING-PIPELINE'
-description: 'bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state v1.1: local mac-m4max nightly rebuild with fleet fallback, sovereignty-preserving (embeddings computed in-house, never outsourced).'
+description: 'bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state v1.2: local mac-m4max nightly rebuild with fleet fallback, sovereignty-preserving (embeddings computed in-house, never outsourced).'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-07-05
-last_session: '2026-07-05-221922-git-identity'
+current_version: 'v1.2'
+last_updated: 2026-08-19
+last_session: '2026-08-19-053717-twmd-embeddings-nightly'
 sister_docs:
   - 'REMOTE-GPU-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -115,8 +115,9 @@ node -e '
 
 ```bash
 git add src/data/related/
+NOW="$(date '+%Y-%m-%d %H:%M')"; echo "commit timestamp: $NOW"   # 先落地成變數並印出來，肉眼確認過再往下走
 git diff --cached --quiet && { echo "no change, skip commit"; } || \
-  git commit --no-verify -m "🧬 [routine] embeddings: nightly bge-m3 rebuild — $(date '+%Y-%m-%d %H:%M')
+  git commit --no-verify -m "🧬 [routine] embeddings: nightly bge-m3 rebuild — $NOW
 
 Co-Authored-By: <實際執行本次 cron session 的 model 名稱，如 Claude Sonnet 5> <noreply@anthropic.com>"
 git ls-files src/data/related/ | head -1   # 立即驗證 staged 真的進 commit
@@ -124,6 +125,8 @@ git push origin main
 ```
 
 **Co-author 必須如實填當下執行 model**，不要照抄範例文字。Cron session 指派的模型會變動（Sonnet / Opus 依排程設定），寫死特定型號會讓屬性連夜失準——2026-08-06〜08 三夜連續踩到同一個問題（第一二夜照抄範本產生錯誤屬性，第三夜靠執行者當場警覺手動修正），根因是這裡曾經寫死「Claude Opus 4.8 (1M context)」。
+
+**時間戳一律用 `$NOW` 變數代入，禁止把 `$(date ...)` 手動改寫成 heredoc 再自己填一個占位符**（如 `05:2X`）「之後再補」——「之後再補」正是這個坑本身。2026-08-18／2026-08-19 連續兩夜（且 08-19 同一 session 內第二次，發生在寫 LESSONS 記錄第一次事故的當下）把時間欄位手動謄寫成字面占位符，push / 定稿前才靠人工複查抓到。先跑 `NOW=$(date ...)` 並印出來，是把「有沒有代換成功」變成下指令前就能肉眼確認的中間狀態，而不是賭一次性字串組裝不會手滑。完整教訓：[LESSONS-INBOX `retyping-shell-substitution-loses-the-substitution`](../semiont/LESSONS-INBOX.md)（vc=3）。
 
 `--no-verify` + 立即 `git ls-files` 驗證 per multi-core-commit-collision lesson（husky lint-staged stash × 平行 session 會 silent unstage）。**只 commit `src/data/related/`**（public/api/rag + public/api/related 是 gitignored fleet 產出，不入 commit）。無 diff（內容沒變）→ skip commit，不留空 commit。
 
@@ -146,6 +149,8 @@ git push origin main
 ROUTINE.md SSOT 一行登記在排程表。修排程先改 ROUTINE.md 再 sync 任務檔。
 
 ---
+
+_v1.2 | 2026-08-19 twmd-embeddings-nightly session | **Stage 3 commit timestamp 改先落變數再代入**：`$(date ...)` 直接嵌進 heredoc 字串改成先 `NOW=$(date ...)` 存變數並印出來確認，再用 `$NOW` 代入 commit message。觸發：2026-08-18／2026-08-19 連續兩夜（含 08-19 同一 session 內二次）把時間占位符手動謄寫成字面文字（`05:2X`／`05:0X`），push / 定稿前才靠人工複查抓到，LESSONS-INBOX `retyping-shell-substitution-loses-the-substitution` vc=3 canonical 門檻。修法把「有沒有代換成功」變成下指令前肉眼可確認的中間狀態。_
 
 _v1.1 | 2026-07-05 git-identity session | **keystone 遷回本機**：主節點 laptop-4090 → mac-m4max（127.0.0.1），§前置 解析改「本機優先 + fleet 備援（補 status 檢查）」。觸發：4090 實體離線 18 天、committed 索引凍在 6/17 連 18 夜 graceful skip（escalation vc=3），哲宇拍板「在我這台 Mac 上跑 bge-m3 更單純」。主權不變：意思的座標仍在地端算。_
 

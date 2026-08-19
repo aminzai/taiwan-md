@@ -120,7 +120,7 @@ Budaya barbeku Kuartal Chine di Taiwan bukan tradisi lama, melainkan "kejadian i
 
 **Hasil Evolusi 40 Tahun**: Hari ini 87% keluarga Taiwan mengadakan barbeku pada Kuartal Chine, "tradisi baru" ini lebih populer daripada banyak tradisi lama.
 
-### Hari Enam: Dari Memori Penyair ke Olimpiade Laut\*\*
+### Hari Enam: Dari Memori Penyair ke Olimpiade Laut
 
 Kompetisi perahu dragon Taiwan berkembang dari ritual memori penyair Qi Xi ke bentuk olahraga memiliki daya saing internasional:
 
@@ -134,7 +134,7 @@ Kompetisi perahu dragon Taiwan berkembang dari ritual memori penyair Qi Xi ke be
 
 ## Festival Budaya Minoritas: Dialog Antara Masa Lalu dan Modern
 
-### Festival Panen Aliu: Warisan Turunan dari Generasi\*\*
+### Festival Panen Aliu: Warisan Turunan dari Generasi
 
 Festival panen Aliu (9-11 September pada musim panen millet) bukan sekadar merayakan panen, melainkan pulah menampilkan sistem turunan generasi:
 
@@ -147,7 +147,7 @@ Festival panen Aliu (9-11 September pada musim panen millet) bukan sekadar meray
 
 **Tantangan Modern dan Adaptasi**: Banyak remaja Aliu bekerja di kota besar, hanya dapat "naik level" selama festival panen. bentuk "partisipasi migran" ini justru memperkuat fungsi identitas festival.
 
-### Festival Ikan Terbang Kachang: Kecerdasan Ekologi Laut\*\*
+### Festival Ikan Terbang Kachang: Kecerdasan Ekologi Laut
 
 Festival ikan terbang suku Kachang di Pulau Lan adalah contoh kecerdasan ekologi maritim: melalui sistem larangan yang rumit untuk mengontrol jumlah penangkapan ikan, menjaga keseimbangan ekologi laut. Sistem manajemen ekologi tradisional ini, kemudian ditemukan kembali dalam ilmu konservasi laut modern.
 
@@ -158,7 +158,7 @@ Festival ikan terbang suku Kachang di Pulau Lan adalah contoh kecerdasan ekologi
 
 ## Logika Festival Taiwan di Baliknya
 
-### Kemampuan Mengubah Krisis Menjadi Festival\*\*
+### Kemampuan Mengubah Krisis Menjadi Festival
 
 Budaya festival Taiwan unik karena "kemampuan mengubah krisis":
 
@@ -167,7 +167,7 @@ Budaya festival Taiwan unik karena "kemampuan mengubah krisis":
 - Kesulitan ekonomi → Budaya barbeku
 - Dampak modernisasi → Kebudayaan minoritas bangkit kembali
 
-### "Campuran" Bukan "Murni" Karakter Budaya\*\*
+### "Campuran" Bukan "Murni" Karakter Budaya
 
 Budaya festival Taiwan jarang menjadi "tradisi murni", melainkan "campuran" dari berbagai pengaruh:
 
@@ -184,15 +184,15 @@ Budaya festival Taiwan memiliki kehidupan karena terus berinovasi, bukan karena 
 
 ## Tantangan Baru Festival di Era Globalisasi
 
-### Dua Sisi Pisau Festival Terowongan\*\*
+### Dua Sisi Pisau Festival Terowongan
 
 Festival seperti perambatan Mazu dan kunang-kunang Sinxi menjadi daya tarik pariwisata internasional, membawa manfaat ekonomi sekaligus menghadapi risiko overkomersialisasi. Bagaimana menyeimbangkan promosi internasional dengan makna lokal adalah masalah penting budaya festival Taiwan saat ini.
 
-### Pola Baru Warisan Turunan\*\*
+### Pola Baru Warisan Turunan
 
 Generasi muda menggunakan media sosial untuk menemukan kembali daya tarik budaya festival, namun cara mereka berpartisipasi berbeda dengan generasi sebelumnya: foto selfie, video dinamis, live streaming—bentuk partisipasi baru ini menentukan apakah akan mengubah esensi festival.
 
-### Koneksi Sosial di Tengah Tata Sosial yang Modern\*\*
+### Koneksi Sosial di Tengah Tata Sosial yang Modern
 
 Di Taiwan yang modern dan kota, festival tradisional menyediakan kesempatan "sosial paksa" yang jarang. Baik kembali ke kampung halaman, mengikuti perambatan, atau barbeku komunitas, festival kembali mengorganisir kembali ikatan sosial orang modern.
 

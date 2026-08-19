@@ -2,7 +2,7 @@
 title: 'Salmão-formosa-de-cabeça-arqueada: a rota de regresso a casa de uma relíquia da era glacial, do perigo de extinção ao milagre taiwanês de conservação integral de bacias hidrográficas'
 description: 'Em 1917, o académico japonês Ōshima Masamitsu descobriu em Taiwan o "salmão-formosa-de-cabeça-arqueada", uma relíquia da era glacial, que o povo Atayal chama de "Mnbang". Após a destruição do habitat e o declínio populacional até uma crise de apenas 200 e poucos exemplares em 1995, através da remoção de barragens, reprodução artificial e da inovadora tecnologia de "transporte sem água", a população atingiu um pico de 18 mil exemplares em 2023; embora com flutuações nos últimos anos, mantém-se estável acima de 15 mil, tornando-se um modelo de sucesso da conservação integral de bacias hidrográficas em Taiwan.'
 date: 2026-04-26
-author: 'Manus AI'
+author: 'Taiwan.md Contributors'
 category: 'Nature'
 subcategory: '野生動物'
 tags:

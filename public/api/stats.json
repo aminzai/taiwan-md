@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9675,
+  "totalArticles": 9856,
   "totalCategories": 26,
-  "estimatedContributors": 68,
-  "totalTags": 6114,
+  "estimatedContributors": 74,
+  "totalTags": 6523,
   "categories": [
     {
       "name": "es",
@@ -14,67 +14,71 @@
     },
     {
       "name": "fr",
-      "count": 882
+      "count": 884
     },
     {
       "name": "en",
-      "count": 883
+      "count": 885
     },
     {
       "name": "ja",
-      "count": 872
+      "count": 879
     },
     {
       "name": "vi",
-      "count": 799
+      "count": 801
     },
     {
       "name": "hi",
-      "count": 656
+      "count": 669
     },
     {
       "name": "ru",
-      "count": 777
+      "count": 787
+    },
+    {
+      "name": "Technology",
+      "count": 66
     },
     {
       "name": "History",
-      "count": 52
+      "count": 64
     },
     {
       "name": "id",
-      "count": 571
+      "count": 590
     },
     {
       "name": "ar",
-      "count": 740
+      "count": 753
     },
     {
       "name": "Politics",
-      "count": 11
+      "count": 13
     },
     {
       "name": "Society",
-      "count": 95
+      "count": 107
     },
     {
       "name": "pt",
-      "count": 836
+      "count": 848
     },
     {
       "name": "Food",
-      "count": 68
+      "count": 78
     },
     {
       "name": "About",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Culture",
-      "count": 73
+      "count": 91
     },
     {
       "name": "People",
-      "count": 240
+      "count": 261
     },
     {
       "name": "Music",
@@ -82,27 +86,23 @@
     },
     {
       "name": "Geography",
-      "count": 67
+      "count": 69
     },
     {
       "name": "Economy",
-      "count": 64
-    },
-    {
-      "name": "Technology",
-      "count": 60
+      "count": 70
     },
     {
       "name": "Nature",
-      "count": 38
+      "count": 40
     },
     {
       "name": "Lifestyle",
-      "count": 33
+      "count": 38
     },
     {
       "name": "Art",
-      "count": 43
+      "count": 47
     },
     {
       "name": "resources",
@@ -116,7 +116,7 @@
     },
     {
       "name": "人物",
-      "count": 57
+      "count": 58
     },
     {
       "name": "企業",
@@ -135,6 +135,10 @@
       "count": 29
     },
     {
+      "name": "民主化",
+      "count": 27
+    },
+    {
       "name": "AI",
       "count": 26
     },
@@ -151,12 +155,16 @@
       "count": 24
     },
     {
-      "name": "民主化",
+      "name": "歷史",
       "count": 24
     },
     {
-      "name": "歷史",
-      "count": 24
+      "name": "YouTuber",
+      "count": 23
+    },
+    {
+      "name": "原住民族",
+      "count": 23
     },
     {
       "name": "音樂",
@@ -181,24 +189,30 @@
     {
       "name": "政治",
       "count": 22
-    },
-    {
-      "name": "高雄",
-      "count": 22
-    },
-    {
-      "name": "台南",
-      "count": 21
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9675,
+    "zh-TW": 9856,
     "en": 0
   },
-  "lastUpdated": "2026-08-10T22:11:59.517Z",
-  "stars": 1128,
-  "forks": 170,
-  "zhPages": 889,
-  "enPages": 883,
-  "totalPages": 889
+  "lastUpdated": "2026-08-18T22:12:14.165Z",
+  "stars": 1151,
+  "forks": 180,
+  "zhPages": 990,
+  "languagePages": {
+    "zh-TW": 990,
+    "en": 885,
+    "ja": 879,
+    "ko": 885,
+    "es": 883,
+    "fr": 884,
+    "vi": 801,
+    "id": 590,
+    "pt": 848,
+    "hi": 669,
+    "ar": 753,
+    "ru": 787
+  },
+  "enPages": 885,
+  "totalPages": 990
 }

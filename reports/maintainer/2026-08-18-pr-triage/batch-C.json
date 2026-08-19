@@ -1,0 +1,299 @@
+[
+  {
+    "number": 1397,
+    "title": "Create 多米多羅.md",
+    "path": "knowledge/People/多米多羅.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — People 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類",
+      "prose-health: 全形分號超硬門檻：22 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 53,
+    "semicolon_body_count": 22,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 8,
+    "footnote_sample": [
+      {"url": "https://dailyview.tw/popular/detail/27457", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.ettoday.net/news/20260607/3179329.htm", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.mirrormedia.mg/story/20230616edi006", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "author='Taiwan.md Contributors' — 但這是站上房規慣例 (People/ 下 156 篇用 'Taiwan.md'、80 篇用 'Taiwan.md Contributors')，不是可疑值"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "n/a — 網路評論型 YouTuber 人物文，非政治議題；2023 性騷爭議段落並列雙方陳述與一二審不同結果（一審判賠 10 萬、二審撤銷），未預設立場",
+    "content_summary": "多米多羅（YouTuber）以「日文警察」人設糾正八曜和茶日文文案爆紅，2026 年再評論黃山料作品；文章也處理 2023 年性騷爭議的一二審不同結果。全文取材自 DailyView／ETtoday／Yahoo／自由時報／Mirror Media 等主流媒體，無明顯幻覺跡象，對性騷爭議保持雙方陳述並陳、不下定論。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "手動指定 subcategory（auto-assign NO MATCH，需人工判斷，建議「數位與媒體」或近似值）", "est_min": 5},
+      {"action": "全形分號 22→≤12：把約 10 處分號改句號或重組子句", "est_min": 20},
+      {"action": "（optional）對位句型／塑膠句 53 個 warn 抽樣改寫，非必要但建議至少處理密度最高的 3-4 段", "est_min": 25}
+    ],
+    "notes": "無圖片、無 hotlink 疑慮。全文品質高，主要卡在機械式 hard gate（subcategory 缺欄位 + 分號超標），內容本身無需大改。"
+  },
+  {
+    "number": 1398,
+    "title": "Create 陳文郁.md",
+    "path": "knowledge/People/陳文郁.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：38 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 48,
+    "semicolon_body_count": 38,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chen_Wen-Yu_1.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（與文中標示相符）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chen_Wen-Yu_bred_the_new_species_of_oriental_pickling_melon.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（未逐一 API 覆核，文中聲稱相符）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Watermelon_seedless.jpg", "source_type": "Wikimedia Commons", "license": "公有領域（文中聲稱相符）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（文中聲稱相符）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Watermelons.jpg", "source_type": "Wikimedia Commons", "license": "CC BY 2.0（文中聲稱相符）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Growing_watermelon.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（文中聲稱相符）"}
+    ],
+    "footnote_total": 17,
+    "footnote_sample": [
+      {"url": "https://www.taiwan-panorama.com/Articles/Details?Guid=042c103c-4776-4d83-8348-b01abef574ec", "http_status": 403, "ugc": false, "fabricated": false},
+      {"url": "https://www.taipeitimes.com/News/taiwan/archives/2012/12/18/2003550438", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=4613", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "n/a — 已故農業育種家，無政治敏感內容",
+    "content_summary": "陳文郁（已故，2012年逝世）是台灣「西瓜大王」，培育無籽西瓜「鳳山一號」並創辦農友種苗。文章取材台灣光華、農業部褒揚令、國史館出版品、Taipei Times、微笑台灣、上下游等一手/官方/深度報導，對「世界第一」等爭議說法刻意保守處理（只稱「台灣第一」），對獎項數字與傳記軼事都做了來源分層標註，品質極高。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "全形分號 38→≤12：本篇密度最高，需系統性改寫約 26 處", "est_min": 35},
+      {"action": "subcategory '農業與育種' 不在 taxonomy 合法值內，需重新指定（建議「歷史人物」或「科學與學術」）", "est_min": 3},
+      {"action": "（optional）補 rationale block、[^15] Taiwan Today 為孤兒腳註（未在正文引用，需補引用或刪除）、description 太短需補至 100 字以上", "est_min": 10}
+    ],
+    "notes": "taiwan-panorama.com HEAD 回 403 疑似 bot 阻擋（非真的失效，未用 GET 覆核）。圖片授權全數以 Wikimedia API 覆核與文中聲稱一致（僅圖1完整覆核，其餘依文中聲稱記錄未逐一驗證）。"
+  },
+  {
+    "number": 1399,
+    "title": "Create 三鶯線.md",
+    "path": "knowledge/Geography/三鶯線.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：28 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 46,
+    "semicolon_body_count": 36,
+    "semicolon_style": "mixed",
+    "hotlink_images": [
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/New_Taipei_Metro_Sanying_Line_EMU_20230830.jpg", "source_type": "Wikimedia Commons", "license": "Attribution（API 覆核與文中標示一致）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/YinggeStation_Frontal.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 3.0（API 覆核與文中標示一致）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Minquan_Old_Street%2C_Sanxia%2C_Taiwan.jpg", "source_type": "Wikimedia Commons", "license": "CC BY 2.0（API 覆核與文中標示一致）"}
+    ],
+    "footnote_total": 23,
+    "footnote_sample": [
+      {"url": "https://www.dorts.ntpc.gov.tw/about/route/1MJjdJr7dAv6", "http_status": 302, "ugc": false, "fabricated": false},
+      {"url": "https://www.cna.com.tw/news/aloc/202607010166.aspx", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.civilmedia.tw/archives/98649", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "麥仔園土地徵收爭議段落並陳居民（公民行動影音紀錄資料庫、台灣人權促進會）與市府說法，非單一觀點，屬地方治理爭議非統獨/選舉範疇",
+    "content_summary": "新北捷運三鶯線 2026/6/30 通車報導型深度文，涵蓋工程時間線、轉乘設計、運能爭議（兩節車廂）、公車接駁、公共藝術，以及麥仔園機廠土地徵收與居民居住權爭議。取材涵蓋官方（新北捷運工程局、交通局）、主流媒體（中央社、聯合報、Taipei Times）與公民團體（公民行動影音紀錄資料庫、台灣人權促進會），數字精確且逐條標明出處，品質很高。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "全形分號 28→≤12：約 20 處需改寫（部分在表格儲存格內，需留意風格差異）", "est_min": 25},
+      {"action": "（optional）paragraph-rhythm 與 description 太短等 warn 順手修", "est_min": 10}
+    ],
+    "notes": "與 PR #1400 是同路徑同內容的重複 PR（diff 完全一致），heal 只在本 PR 跑一次；#1400 標記 duplicate_of=1399。dorts.ntpc.gov.tw 回 302 屬正常轉址，非失效。"
+  },
+  {
+    "number": 1400,
+    "title": "Update print statement from 'Hello' to 'Goodbye'",
+    "path": "knowledge/Geography/三鶯線.md",
+    "is_update": false,
+    "duplicate_of": 1399,
+    "heal_exit_code": null,
+    "hard_before": null,
+    "hard_after": null,
+    "warn_after_count": null,
+    "semicolon_body_count": null,
+    "semicolon_style": null,
+    "hotlink_images": [],
+    "footnote_total": null,
+    "footnote_sample": [],
+    "red_flags": [
+      "PR 標題「Update print statement from 'Hello' to 'Goodbye'」與內容完全無關，疑似 contributor 誤用模板標題或測試殘留"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "n/a（同 #1399）",
+    "content_summary": "與 #1399 內容逐字相同（用 `gh pr diff 1399` 與 `gh pr diff 1400` 存檔後 diff 比對，229 行完全一致、無任何差異）。判定為重複提交，非獨立內容。",
+    "update_delta": null,
+    "verdict_suggestion": "close",
+    "heal_plan": [],
+    "notes": "未對本 PR 執行 heal（依指示只在較完整/優先的 #1399 上跑一次）。建議 close 並在留言中引導 idlccp1984 之後用同一個 PR 補交，而非重開重複 PR；標題與內容不符也值得順帶提醒。"
+  },
+  {
+    "number": 1401,
+    "title": "Create Cheap.md",
+    "path": "knowledge/People/Cheap.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`"
+    ],
+    "warn_after_count": 17,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [
+      {"url": "https://attach.setn.com/newsimages/2023/11/10/4400461-PH.jpg", "source_type": "新聞媒體 CDN（三立 setn.com）", "license": "授權不明"},
+      {"url": "https://attach.setn.com/newsimages/2023/11/10/4400459-PH.jpg", "source_type": "新聞媒體 CDN（三立 setn.com）", "license": "授權不明"},
+      {"url": "https://attach.setn.com/newsimages/2023/11/10/4400462-PH.jpg", "source_type": "新聞媒體 CDN（三立 setn.com）", "license": "授權不明"},
+      {"url": "https://attach.setn.com/newsimages/2023/11/10/4400460-PH.jpg", "source_type": "新聞媒體 CDN（三立 setn.com）", "license": "授權不明"}
+    ],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {"url": "https://www.youth.ntpc.gov.tw/youth/ch/app/data/view?module=youth0011&id=96&serno=5c015432-b0ef-4ec6-91eb-8768a24b35f1", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://newtalk.tw/news/view/2023-07-13/879609", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "4 張圖全部熱連結到 setn.com 商業新聞 CDN，非 Wikimedia／PD 來源，授權狀態不明（可能是該新聞網站的專有配圖，非自由授權）",
+      "「圖片來源」段落文字寫『文中五張圖片』，但正文實際只有 4 張 ![...] 圖片標籤 — 數字與內容不符"
+    ],
+    "notability": {"wiki": "no", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "n/a — 網紅／交通倡議人物文，非政黨政治議題",
+    "content_summary": "Cheap（鄭才暐）從《世紀帝國》講歷史的 YouTuber 轉型為交通路權倡議者，文章處理歷史內容爭議、路權遊行、《帝王條款》畫作爭議與挺 Joeman 的朋友倫理爭議。取材 ETtoday／UDN／TVBS／風傳媒／Newtalk／自由時報／三立／TNL 等主流媒體，無 UGC 直接引用來源，對爭議保持雙方觀點並陳。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "4 張 setn.com 熱連結圖片：確認授權或替換為可信授權來源（Wikimedia／PD），若確定要留用需 cache 到 public/article-images/People/ 並改本地路徑", "est_min": 20},
+      {"action": "修正「圖片來源」段落『五張圖片』與實際 4 張的數字不符", "est_min": 2},
+      {"action": "（optional）12 個對位句型 prose-health warn 抽樣修改", "est_min": 15}
+    ],
+    "notes": "唯一需要哲宇明確拍板的點：4 張商業新聞網 CDN 配圖的授權適法性（news媒體專有配圖 vs 合理使用），與其他 7 篇的 Wikimedia CC 圖片性質不同，建議merge前先確認要留用還是換圖。"
+  },
+  {
+    "number": 1402,
+    "title": "Create 太魯閣族.md",
+    "path": "knowledge/Culture/太魯閣族.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 0,
+    "hard_before": null,
+    "hard_after": [],
+    "warn_after_count": 30,
+    "semicolon_body_count": 2,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Meeting_of_the_Truku_tribal_figures_and_the_Japanese_authorities.jpg", "source_type": "Wikimedia Commons", "license": "Public domain（API 覆核與文中標示一致）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Truku_female_carrying_firewood.jpg", "source_type": "Wikimedia Commons", "license": "Public domain（API 覆核與文中標示一致）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Truku_people.jpg", "source_type": "Wikimedia Commons", "license": "Public domain（API 覆核與文中標示一致）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Truku_women_with_clothings_for_formal_and_everyday_use.jpg", "source_type": "Wikimedia Commons", "license": "Public domain（API 覆核與文中標示一致）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%AA%E9%AD%AF%E9%96%A3%E5%B3%BD%E8%B0%B7%E8%88%87%E7%AB%8B%E9%9C%A7%E6%BA%AA%E4%B9%8B%E7%BE%8E.jpg", "source_type": "Wikimedia Commons", "license": "CC BY-SA 4.0（API 覆核與文中標示一致）"}
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {"url": "https://www.cna.com.tw/news/acul/202408310089.aspx", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cip.gov.tw/zh-tw/tribe/grid-list/F0736660B8023670D0636733C6861689/info.html?cumid=8F19BF08AE220D65", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://ihc.cip.gov.tw/EJournal/EJournalCat/249", "http_status": 404, "ugc": false, "fabricated": false, "note": "HEAD 404 但 GET 200，伺服器不支援 HEAD 的假警報，非真的失效"}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "原住民族議題（正名運動、傳統領域、1914 太魯閣戰役）— 多源並陳（原民會官方、學術文章、國家文化記憶庫族人訪談、中央社），戰役死傷數字兩種統計口徑並列不強行統一，屬平衡處理，非單一觀點",
+    "content_summary": "太魯閣族從 2004 年正名到耆老黃長興耗時十年踏查 300+ 個舊部落據點的當代敘事，涵蓋 1914 年太魯閣戰役、織布 tminun、gaya 規範、家屋形式、狩獵與製刀文化、祖靈祭 mgay bari。取材原住民族委員會、臺北市原住民族文化知識網、學術期刊、國家文化記憶庫訪談、中央社、國家公園主題網，是本批次中 hard=0、品質最整齊的一篇。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "subcategory '史前與原住民' 不在 Culture taxonomy 合法值內（合法值含「族群文化」），會靜默壞掉分類，需改為「族群文化」", "est_min": 3}
+    ],
+    "notes": "唯一 heal 後 hard=0 直接過 ci-deploy gate 的一篇；只剩一個 subcategory 快速修正值得做，其餘都是 warn 可留待常態編輯週期。"
+  },
+  {
+    "number": 1403,
+    "title": "Create 蔡衍明.md",
+    "path": "knowledge/People/蔡衍明.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：26 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 30,
+    "semicolon_body_count": 28,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {"url": "https://zh.wikisource.org/zh-hant/臺灣臺北地方法院113年度訴字第3051號民事判決", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://news.ltn.com.tw/news/society/breakingnews/5514319", "http_status": 403, "ugc": false, "fabricated": false, "note": "HEAD 403 疑似 bot 阻擋，GET 覆核回 200，非真的失效"},
+      {"url": "https://www.want-want.com/tw/about/history", "http_status": 567, "ugc": false, "fabricated": false, "note": "HEAD/GET 皆回非標準 567，疑似官網反爬蟲機制，未能確認是否真的失效，建議人工瀏覽器覆核"}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "蔡衍明是在世爭議人物（旺旺集團董事長，長期被指親中）。本文範圍刻意限縮在他控告台灣維基媒體協會的名譽權訴訟（一二審皆敗訴），不處理其政治立場本身；引註全部來自法院判決原文（司法院裁判書系統經 wikisource 收錄）與主流媒體（自由時報、聯合報、世界日報）、NGO 政策分析（開放文化基金會）、維基媒體基金會官方聲明，無一則 UGC 來源；文中並附讀者與法律聲明，明確排除未經法院認定的犯罪指控與訴訟中爭議當「已證實事實」處理——是本批次政治敏感處理最謹慎的一篇",
+    "content_summary": "蔡衍明兩次（一審、二審）控告台灣維基媒體協會、要求「容忍他自由編輯」自己的維基百科條目均敗訴。文章拆解平台／協會／管理員／基金會四層權責，說明法院判決邏輯（協會無實質編輯管理權、公共人物可受公評範圍、名譽回復請求的界線），並帶入國際脈絡（開放文化基金會的平台法制分析）。全文附研究限制聲明，用詞極度謹慎（「主張」「認定」「分析」三分），是本批次證據紀律最高的一篇。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "全形分號 26→≤12：約 18 處需改寫", "est_min": 22},
+      {"action": "subcategory '企業家與公共爭議' 不在 taxonomy 合法值內，需改指定（本文核心是平台治理／名譽權訴訟，建議「政治與民主」或「科技與企業」，需哲宇拍板較貼切的一個）", "est_min": 5},
+      {"action": "補「延伸閱讀」section（目前缺）", "est_min": 5},
+      {"action": "（optional）補 rationale block、目前 0 張圖需評估是否加圖（法院/維基百科相關 CC 素材）", "est_min": 15}
+    ],
+    "notes": "want-want.com 官網 curl 回應非標準 567（可能是反爬蟲），建議人工瀏覽器二次確認該連結是否仍可正常開啟。subcategory 定值需要哲宇判斷（訴訟性質橫跨政治／企業兩類）。"
+  },
+  {
+    "number": 1404,
+    "title": "Create 歡樂無法黨.md",
+    "path": "knowledge/Politics/歡樂無法黨.md",
+    "is_update": false,
+    "duplicate_of": null,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — Politics 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類",
+      "image-health: 外部圖片熱連結 — 圖片應 cache 到 public/article-images/ 並改 src=`/article-images/...`",
+      "prose-health: 全形分號超硬門檻：17 處 > 12（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+    ],
+    "warn_after_count": 42,
+    "semicolon_body_count": 17,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://pdis.nat.gov.tw/assets/imgs/bd6de5956479ae028b84d4b3c6e9196d9bf766f1.jpeg", "source_type": "政府網站（PDIS 唐鳳團隊）", "license": "CC BY 4.0 International（文中聲稱，未逐一 API 覆核但 PDIS 官方部落格常態採用此授權，可信度高）"}
+    ],
+    "footnote_total": 15,
+    "footnote_sample": [
+      {"url": "https://party.moi.gov.tw/News_Content.aspx?n=16090&s=266629", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.bbc.com/news/10194757", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://electionresults.parliament.uk/political-parties/12/by-elections", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "歡樂無法黨為 2019 年網紅發起的諷刺／公民教育型政黨（非統獨或選舉對決議題），已於 2021 年遭內政部廢止備案；文章多源並陳（公視、中央社、Yahoo、關鍵評論網、內政部官方公告、PDIS 官方祝福文）並帶入四個國際案例（冰島 Best Party、波蘭啤酒愛好者黨、英國 Monster Raving Loony Party、德國 Die PARTEI）做比較，屬低敏感度、平衡處理的政治文化題材",
+    "content_summary": "歡樂無法黨是邱威傑（呱吉）、張志祺、陳子見於 2019 年創立的諷刺／公民教育政黨，以香菜蛋糕、柴犬柚子列不分區第一名等趣味手法降低政治參與門檻，2021 年因未完成法人登記遭內政部廢止備案。文章把它定位為「公開化政黨程序的公民教育實驗」而非失敗的政黨嘗試，並附四個國際諷刺政黨案例做比較框架，取材公視、中央社、內政部公告、PDIS、關鍵評論網等，考證扎實。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory（現有 Politics 分類慣例值：選舉制度／2026 選舉專題／公民監督／政治文化，建議本篇用「政治文化」）", "est_min": 2},
+      {"action": "cache 1 張 pdis.nat.gov.tw 熱連結圖片到 public/article-images/Politics/", "est_min": 5},
+      {"action": "全形分號 17→≤12：約 6-8 處需改寫", "est_min": 12},
+      {"action": "（optional）word-count 與 media-richness warn 順手看一下", "est_min": 5}
+    ],
+    "notes": "knowledge/Politics/ 是既存分類（12 篇既有文章）但未列在 docs/taxonomy/SUBCATEGORY.md 的 12 大主題文件裡——這是既有文件債，非本 PR 造成，僅供主 session 參考（可能值得另開 task 補文件）。"
+  }
+]

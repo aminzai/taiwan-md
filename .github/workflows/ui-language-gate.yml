@@ -1,0 +1,71 @@
+name: UI language gate
+
+# UI 字串層的語言正確性閘門（多語介面免疫層）。
+#
+# 防的 bug class：某個語言的讀者打開頁面，看到的字不是自己的語言——
+# 可能是簡體中文、可能是沒翻的正體中文、可能是靜默 fallback 的英文。
+# 三種都不會報錯、不會變紅，頁面「有字」，所有既有儀器都說健康。
+#
+# 為什麼需要獨立一支：knowledge/ 文章層早就有 cjk-leak-check.py 守著
+# 「這篇譯文是不是還留著中文」，src/i18n/*.ts 這層在 2026-08-11 之前
+# 一支都沒有。而 UI 字串出現在每一頁的頂端與底部，曝光量遠高於任何
+# 單篇文章——保護密度跟曝光量成反比，是這個洞的真正形狀。
+#
+# 靠讀者回報了三次才被補上：
+#   2026-08-06  俄文讀者看了半年的烏克蘭文介面
+#   2026-08-10  @Pigcasso6 回報 taiwan-shape / bench / 回饋模組多語未譯（#1311 #1312 #1314）
+#   2026-08-11  ar 區塊整段是簡體中文且用中國詞彙（#1318）
+#
+# 純 node + opencc-js，不需 build。體例照 rtl-safe-css.yml（單一 gate + 窄 paths）。
+#
+# ⚠️ 這支刻意帶三類豁免（ja 新字體 / 逐字引用 PRC 拒答訊息 / 台灣正體本字），
+# 詳見 scripts/tools/check-ui-language.mjs 檔頭。改判準前先讀那段：
+# 未校準版本的假陽性率是 82%，會在第一天就被當噪音關掉。
+
+on:
+  pull_request:
+    paths:
+      - 'src/i18n/**'
+      - 'src/scripts/feedback/i18n.ts'
+      - 'src/config/languages.ts'
+      - 'src/templates/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
+      - 'scripts/tools/check-ui-language.mjs'
+      - 'scripts/tools/check-template-language.mjs'
+      - 'scripts/tools/lib/tw-variant-chars.mjs'
+      - '.github/workflows/ui-language-gate.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'src/i18n/**'
+      - 'src/scripts/feedback/i18n.ts'
+      - 'src/config/languages.ts'
+      - 'src/templates/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
+      - 'scripts/tools/check-ui-language.mjs'
+      - 'scripts/tools/check-template-language.mjs'
+      - 'scripts/tools/lib/tw-variant-chars.mjs'
+
+jobs:
+  ui-language-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install opencc-js
+        run: npm install --no-save opencc-js
+
+      - name: Check UI string language correctness
+        run: node scripts/tools/check-ui-language.mjs
+
+      # 模板層（.astro）的中文 fallback。跟上面那支互補：上面守進了字串表的字，
+      # 這支守「沒進字串表、直接寫在模板裡」的中文——`{lang === 'en' ? 英 : 中}`
+      # 對其他十一種語言全是中文。2026-08-17 首掃 125 處。
+      - name: Check template-layer Chinese fallback
+        run: node scripts/tools/check-template-language.mjs

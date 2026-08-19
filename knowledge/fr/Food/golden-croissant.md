@@ -34,8 +34,8 @@ Juger un authentique croissant doré de Sanxia ne se fait pas sur sa légèreté
 | :--------------------- | :--------------------------------------------- | :--------------------------------------------- |
 | **Âme**                | Technique du feuilleté chinois                 | Fermentation et feuilletage au beurre          |
 | **Texture**            | Ferme, dur, sans alvéoles                      | Léger, croustillant, alvéoles en nid d'abeille |
-| \*\*Clé de fabrication | Passages répétés au laminoir                   | Pliages à basse température                    |
-| \*\*Meilleure partie   | Les pointes (les plus dures et croustillantes) | Le cœur alvéolé                                |
+| **Clé de fabrication** | Passages répétés au laminoir                   | Pliages à basse température                    |
+| **Meilleure partie**   | Les pointes (les plus dures et croustillantes) | Le cœur alvéolé                                |
 
 Cette approche « robuste » reflète l'esthétique alimentaire des premières générations taïwanaises : nourriture grasse, parfumée et rassasiante. Pour les habitants de Sanxia, les deux pointes dorées et croustillantes, presque biscuitées, sont l'essence même de cette pâtisserie.
 

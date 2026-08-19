@@ -1,6 +1,18 @@
-"""link-url-mangle — catch prettier-mangled & at-risk image-caption link URLs.
+"""link-url-mangle — catch link URLs corrupted by whatever wrote them.
 
-Two patterns, both rooted in one prettier behaviour:
+Three patterns. The first two are rooted in one prettier behaviour; the third
+comes from the other end of the pipe (generation tools), but the failure shape
+is the same: something wrote a link destination that is not what the author
+meant, and the damage is invisible in the rendered page.
+
+  HARD — whitespace inside a markdown link destination, e.g.
+         `[原民會：噶瑪蘭族](https://www.cip.gov.tw/…?cumid )`. CommonMark
+         tolerates it (the link still resolves), so nothing renders wrong and
+         no build goes red — but `[^N]: [Title](URL) — desc` no longer matches
+         the footnote-format gate, and every affected footnote reports as its
+         own "格式不合規範" error. One stray byte per link, hundreds of
+         errors, zero signal about the common cause. Normalising is lossless:
+         a trailing/leading space is never part of a URL.
 
   HARD — a markdown link destination contains a literal `*` (e.g.
          `](https://commons.wikimedia.org/wiki/File:…立柱*2025-12-02.jpg)`).
@@ -21,7 +33,15 @@ Two patterns, both rooted in one prettier behaviour:
          prettier leaves it alone). `<…>` angle-bracket wrapping does NOT help
          inside italic.
 
-Trigger: 2026-06-21 cicada-media EVOLVE — a hero caption's Commons URL
+Trigger (whitespace): 2026-08-15 twmd-maintainer-am — 24 contributor PRs from
+one batch all failed the PR gate. The reported surface was "腳註格式不合規範"
+×353 across 16 files; the cause was a single generation artefact putting one
+space before every `)`. Fixing it cleared every footnote-format hard failure in
+those files without touching a word of prose. Recorded because the shape
+recurs: a checker that reports per-instance turns one upstream defect into
+hundreds of unrelated-looking errors, and nobody reads the 300th one.
+
+Trigger (prettier): 2026-06-21 cicada-media EVOLVE — a hero caption's Commons URL
 (`…翠池_汪大智_05.jpg`) got silently mangled to `*05.jpg` by pre-commit
 prettier; a later audit found 13 already-broken files (科技園區發展 /
 houtong-cat-village / 沈伯洋 across langs) plus ~49 at-risk. The breakage is
@@ -55,6 +75,13 @@ _CAPTION_LINK = re.compile(
     r"(?:<(https?://[^>\n]+)>|(https?://(?:[^\s()]|\([^()\s]*\))+))"
     r"\)"
 )
+
+# HARD: whitespace inside a markdown link destination — `](https://… )` or
+# `](  https://…)`. Angle-bracket destinations (`](<url with space>)`) are the
+# CommonMark-sanctioned way to carry a literal space, so they are left alone.
+# The URL body itself must not contain whitespace: a real space would have to
+# be %20, so any bare space here is padding introduced by whatever wrote it.
+_URL_WHITESPACE = re.compile(r"\]\((\s*https?://[^)<>]*?\s+)\)")
 
 # WARN at-risk: percent-encoded Commons URL ending in `_<digits>` before the
 # image extension, sitting in an italic caption line.
@@ -108,6 +135,30 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             )
             continue
 
+        # HARD — stray whitespace inside a link destination. Reported once per
+        # line with a count, not once per link: the whole point of this check is
+        # that the per-instance view buried the single upstream cause.
+        ws_hits = _URL_WHITESPACE.findall(line)
+        if ws_hits:
+            sample = ws_hits[0].strip()
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.HARD,
+                message=(
+                    f"連結網址內有多餘空白（本行 {len(ws_hits)} 處）：…{sample[-40:]}⎵)。"
+                    "網址裡的空白一定是產生工具留下的，真正的空白會是 %20。"
+                    "它不會讓連結壞掉，但會讓 footnote-format 逐條回報「格式不合規範」，"
+                    "一個上游缺陷變成幾百個看起來無關的錯誤。修：`--fix` 可自動清掉。"
+                ),
+                line=line_no,
+                snippet=line.strip()[:90],
+                editorial_ref=EDITORIAL_REF,
+                fix_suggestion=(
+                    "跑 `python3 scripts/tools/article-health.py <檔> --fix`；"
+                    "若空白是刻意的（極罕見），把網址包進 `<…>` 角括號。"
+                ),
+            )
+
         # WARN — at-risk: CJK Commons URL with trailing `_NN` inside an italic caption.
         if _is_italic_caption(line) and _ATRISK_URL.search(line):
             yield Violation(
@@ -147,6 +198,17 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
     healed: list[str] = []
 
     for line in lines:
+        # Strip padding whitespace out of link destinations first, so the
+        # caption/mangle transforms below see canonical URLs. Lossless: a real
+        # space inside a URL must be percent-encoded, and `<…>` destinations
+        # are excluded by the pattern.
+        def _tighten(match: re.Match[str]) -> str:
+            nonlocal changes
+            changes += 1
+            return f"]({match.group(1).strip()})"
+
+        line, _ = _URL_WHITESPACE.subn(_tighten, line)
+
         is_caption = _is_italic_caption(line)
         moved_links: list[str] = []
 

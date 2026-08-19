@@ -201,7 +201,7 @@ Das 50 melhores escolas secundarias de Taiwan, 42 estão nas seis metrópoles. E
 - **Taichung**: 3.
 - **Kaohsiung**: 4.
 - **Tainan**: 2.
-- \*\*<strong>Yunlin, Chiayi, Taitung, Hualien</strong>: Apenas 1 cada.
+- <strong>Yunlin, Chiayi, Taitung, Hualien</strong>: Apenas 1 cada.
 
 **Disparidade de médicos por habitante:**
 
