@@ -25,7 +25,9 @@ quality-scan dims:
   - §8d run-on 長句：≥62 字 + ≥8 停頓 = 沒呼吸的辭藻湯。WARN-only soft-launch。
   - §8e 英文式短句開場：≤8 字平述句（。結尾、無數字）+ 接長句 = topic-sentence 腔。
     排除設問（？）與具體場景句。WARN-only soft-launch。corpus 校準見
-    reports/prose-instrument-upgrade-2026-07-19.md。
+    reports/prose-instrument-upgrade-2026-07-19.md。**2026-08-19 v3 升計分**（≥3 處 +1、
+    ≥6 處 +2）：第二帶判準從「句首定調詞」改為「宣告型謂語且無事件體標記」、量整段展開，
+    哲宇同日兩次點名同一篇文章的英式開場而 v2 報 0，校準數字見常數區註解。
   - Tier1 補「強加對比收束句」：根本是兩件事 / 兩本帳 / 不同的語言（散文對位變體）。
                              12. (LIST-DUMP — deferred)
                              14. (QUALITY-DECAY — deferred)
@@ -137,10 +139,28 @@ _ENGLISH_OPENER_RATIO = 3.5      # 後接句 ≥ 開場句的幾倍
 # 大量是健康的中文短句節奏（「他愣了三秒。」「他叫辯士。」）。round 2 病例的共同指紋
 # 是宣告不是短：「這個頭銜在轉述裡長大過」（這個＋隱喻斷言）「從結果看，這是⋯」。
 # 指紋 = 句首「這/那/真正/從結果/但」類定調詞（場景短句「博士之後他去了巴黎」放行）。
-_ENGLISH_OPENER_BAND2_MAX = 14   # 第二帶上限
+_ENGLISH_OPENER_BAND2_MAX = 15   # 第二帶上限（2026-08-19 14→15：「所以文章真正的本體是那份研究報告。」15 字）
 _RE_OPENER_DECLARATIVE_LEAD = re.compile(
     r"^(?:這(?:個|些|種|是|一切|兩件事)?|那(?:個|些|種)?|真正|從結果|但|所謂)"
 )
+# 第二帶 v3（2026-08-19 哲宇 directive「文章裡面還是有很多英文短句在開頭殘留」，點名
+# 「這些翻譯很多是在我家跑的。」「純粹之後才輪到後面那一段。」）：v2 的兩個門檻讓第二帶
+# 名存實亡——(a) 句首定調詞清單太窄：「純粹之後⋯」「寫完之後⋯」「搬家日記是⋯」「維基百科上
+# 也⋯」全是宣告句卻不以 這/那/真正 起頭；(b) 3.5× 落差對 12 字開場要後接 ≥42 字，正常展開
+# 句 30-40 字永遠搆不到。實測：今天那篇改稿前 15 處人眼認定的英式開場，v2 報 0。
+# v3 判準：宣告型 = 句首定調詞 **或**（謂語帶判斷／存在／能願／副詞定調：是/有/叫/可以/都/
+# 也/很/一直/就/才/在⋯的/得到 **且** 不帶事件體標記 了/著/過/起來/出來/下去/進去/回來），
+# 後接改量「段落剩餘 ≥40 字」（不只下一句），落差降到 1.5×。冒號收尾與含引號的開場句豁免
+# （那是引語／列舉的引子，中文本來的寫法）。
+# 校準（2026-08-19，983 篇 zh corpus）：v2 744 hits／403 篇 → v3 2,133 hits／650 篇；
+# 新增命中抽樣 45 條人眼判：「市場太小是結構性問題。」「日本是他們的第二個家。」「語言也是
+# 閃靈的聲音核心。」這類判斷句主題句佔絕大多數，場景句（「那天是他的最後一堂課。」）約
+# 一成。今天那篇改稿前 15 處 v3 抓 11。放寬是刻意的：哲宇要的是嚴格執行，這條從 WARN-only
+# 升為計分項（見 check() §8e）。
+_ENGLISH_OPENER_BAND2_REST_MIN = 40   # 第二帶：段落剩餘中文字數 ≥ 此值
+_ENGLISH_OPENER_BAND2_RATIO = 1.5     # 第二帶：下一句 ≥ 開場句的幾倍（放寬自 3.5）
+_RE_OPENER_STATIVE = re.compile(r"(?:是|有|叫|可以|都|也|很|一直|就|才|在.{0,8}的|得到)")
+_RE_OPENER_EVENT = re.compile(r"(?:了|著|過|起來|出來|下去|進去|回來)")
 
 # ── 「是⋯的」cleft 長片語型（§歐化第 7 病動詞片語變體，2026-08-04 哲宇 directive）──
 # 第 7 病 plugin 抓 curated 評價形容詞（「是隨便的」「是顯而易見的」）；哲宇 callout
@@ -830,10 +850,19 @@ def _detect_english_openers(body: str) -> list[tuple[int, str, int, int]]:
         opener_len = len(_CJK_CHAR.findall(first))
         if opener_len == 0 or opener_len > _ENGLISH_OPENER_BAND2_MAX:
             continue
-        # 第一帶（≤8 字）：無條件進入 ratio 判斷；第二帶（9-14 字）：句首要有宣告型
-        # 定調詞才進入（場景短句放行——中文短句節奏是健康的，宣告短句才是英式腔）
-        if opener_len > _ENGLISH_OPENER_MAX_CHARS and not _RE_OPENER_DECLARATIVE_LEAD.match(first):
+        # 冒號收尾（引語／列舉的引子）與含引號的開場句是中文本來的寫法，不是 topic-sentence
+        if "：" in first or "「" in first:
             continue
+        # 第一帶（≤8 字）：無條件進入 ratio 判斷；第二帶（9-15 字）：要是宣告型才進入——
+        # v3 宣告型＝句首定調詞 或 （判斷／存在／能願謂語 且 無事件體標記）。場景句
+        # （「他愣了三秒。」「博士之後他去了巴黎。」）帶 了／著／過 放行。
+        band2 = opener_len > _ENGLISH_OPENER_MAX_CHARS
+        if band2:
+            declarative = bool(_RE_OPENER_DECLARATIVE_LEAD.match(first)) or (
+                bool(_RE_OPENER_STATIVE.search(first)) and not _RE_OPENER_EVENT.search(first)
+            )
+            if not declarative:
+                continue
         # 具體場景定調句（句首數字：年份 / 日期）是自然中文敘事節奏（「1978 年通車。」
         # 長段），不是英文抽象 topic-sentence 腔。2026-08-04 收緊為「句首數字才豁免」：
         # 「真正的轉彎發生在 1987 年。」數字在句尾，是宣告句帶年份，round 2 靠舊的
@@ -846,9 +875,16 @@ def _detect_english_openers(body: str) -> list[tuple[int, str, int, int]]:
         m2 = re.match(r"^([^。！？\n]{1,200}[。！？]?)", rest)
         next_seg = m2.group(1) if m2 else rest
         next_len = len(_CJK_CHAR.findall(next_seg))
-        if next_len >= _ENGLISH_OPENER_NEXT_MIN and next_len >= opener_len * _ENGLISH_OPENER_RATIO:
-            lead = len(para) - len(para.lstrip())
-            hits.append((start + lead, first, opener_len, next_len))
+        lead = len(para) - len(para.lstrip())
+        if not band2:
+            if next_len >= _ENGLISH_OPENER_NEXT_MIN and next_len >= opener_len * _ENGLISH_OPENER_RATIO:
+                hits.append((start + lead, first, opener_len, next_len))
+            continue
+        # 第二帶：量的是「短開場 + 整段展開」，不只下一句（「寫完之後有三席審稿進去。結構
+        # 主編看⋯。減法主編⋯。」下一句 14 字但整段 60 字，仍是 topic-sentence 骨架）
+        rest_len = len(_CJK_CHAR.findall(rest))
+        if rest_len >= _ENGLISH_OPENER_BAND2_REST_MIN and next_len >= opener_len * _ENGLISH_OPENER_BAND2_RATIO:
+            hits.append((start + lead, first, opener_len, rest_len))
     return hits
 
 
@@ -1110,6 +1146,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             return None
     emdash_hard_over = _hard_over("emdash_hard_over")
     semicolon_hard_over = _hard_over("semicolon_hard_over")
+    english_opener_hard_over = _hard_over("english_opener_hard_over")
 
     # Use body without protected regions for pattern detection so code
     # blocks / link URLs don't trigger false positives.
@@ -1309,20 +1346,48 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             ),
         )
 
-    # ── 8e. 英文式超短句開場 (soft-launch WARN，不計分) — 哲宇 directive ──
-    for off, opener, olen, nlen in _detect_english_openers(body)[:8]:
+    # ── 8e. 英文式短句開場 — 2026-08-19 起計分（哲宇 directive「未來嚴格執行歐化檢查」）──
+    # ≥3 處 +1、≥6 處 +2：一篇散文長到一萬字出現三四處還算節奏，六處以上整篇就是英文段落
+    # 骨架（今天那篇改稿前 15 處）。
+    english_openers = _detect_english_openers(body)
+    if len(english_openers) >= 6:
+        score += 2
+        reasons.append(f"英式短句開場{len(english_openers)}處")
+    elif len(english_openers) >= 3:
+        score += 1
+        reasons.append(f"英式短句開場{len(english_openers)}處")
+    # 觸檔即硬 gate（同 7/19 破折號／分號的 pre-commit 路徑）：profile 設 english_opener_hard_over
+    # 時超量升 HARD。2026-08-19 校準：992 篇 zh 裡 >10 處只有 24 篇（97.6% ≤ 9），門檻 10 只
+    # 會在你碰到那 24 篇時逼你順稿，新文章寫到 10 處以上就是整篇英文骨架。ci-deploy 不設。
+    if english_opener_hard_over is not None and len(english_openers) > english_opener_hard_over:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"英文式短句開場超硬門檻：{len(english_openers)} 處 > {english_opener_hard_over}"
+                f"（§歐化第 9 病 HARD gate，2026-08-19 哲宇 directive「嚴格執行歐化檢查」）"
+            ),
+            editorial_ref="EDITORIAL.md §歐化語法 §英文式短句開場",
+            fix_suggestion=(
+                f"這是 pre-commit HARD gate：你改到的檔英式短句開場必須降到 ≤ {english_opener_hard_over}。"
+                "逐處把短開場接進後句，或用具體人事時地起頭；下面 WARN 列了每一處。"
+            ),
+        )
+    for off, opener, olen, nlen in english_openers[:12]:
         line_no = _line_at_offset(body, off)
         yield Violation(
             check=CHECK_NAME,
             severity=Severity.WARN,
-            message=f"英文式短句開場 (§歐化：開場{olen}字→接{nlen}字)：「{opener}」",
+            message=f"英文式短句開場 (§歐化第 9 病：開場{olen}字→段落展開{nlen}字)：「{opener}」",
             line=line_no,
             snippet=opener[:60],
             editorial_ref="EDITORIAL.md §歐化語法 §英文式短句開場",
             fix_suggestion=(
-                "段落以超短句定調再展開，是英文 topic-sentence 腔（哲宇 anti-example："
-                "「協議並沒有收尾。自救會指控…」）。中文自然行文直接流進主題：把短開場併入"
-                "後句，或改成有具體人事時地的句子起頭，不要孤立一個四五字短句當引子。"
+                "段落以一句短平述句定調再展開，是英文 topic-sentence 腔（哲宇 anti-example："
+                "「協議並沒有收尾。自救會指控…」「這些翻譯很多是在我家跑的。我家裡有一張 3090…」）。"
+                "中文自然行文直接流進主題：把短開場接進後句（「翻譯這一層有很大一部分是在我家跑的："
+                "重型的策展工作交給雲端，翻譯本身就交給家裡那張 3090…」），或用具體人事時地的句子起頭。"
+                "冒號引出引語（「我那天的收尾是：」）與日期起頭的場景句是中文本來的寫法，不算。"
             ),
         )
 

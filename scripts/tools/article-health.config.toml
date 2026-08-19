@@ -96,6 +96,11 @@ fail_on = "hard"
 [profiles.pre-commit.options_overrides.prose-health]
 emdash_hard_over = 15
 semicolon_hard_over = 12
+# ── 英式短句開場「觸檔即硬」（2026-08-19 哲宇 directive「未來嚴格執行歐化檢查跟改善」）──
+# §8e v3 同日升計分（≥3 +1 / ≥6 +2，rewrite-stage-3 score-budget 會咬）；這裡再加
+# pre-commit 觸檔即硬：你改到的檔 >10 處就擋 commit。校準：992 篇 zh 裡 >10 處僅 24 篇，
+# 碰到才清。ci-deploy 全站掃描【刻意不設】（legacy grandfather，同 7/19 路徑）。
+english_opener_hard_over = 10
 
 # ── seo-meta 全語言防守線（2026-08-12 issue #1264 方案 (d)）─────────────────────
 # 只在 pre-commit（--staged 觸檔）把 seo-meta 的語言範圍開到全語言（WARN 級，

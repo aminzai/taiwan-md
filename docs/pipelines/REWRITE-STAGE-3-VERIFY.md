@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-3-VERIFY'
 description: 'REWRITE v9 stage contract — Stage 3：事實鐵三角 / FACTCHECK / story atom / spine sync / 成品總驗三關（原子重驗 fan-out）/ 大驗證輪編排 / Step 3.8 定稿站'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.5'
-last_updated: 2026-07-26
-last_session: '2026-07-26-rewrite-throughput（v9.5：大驗證輪三輪合一＋變更節定向複驗＋Step 3.8 定稿站 fact-atom-diff 硬閘；設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
+current_version: 'v9.6'
+last_updated: 2026-08-19
+last_session: '2026-08-19-154834-algorithmic-art-evolve（v9.6：Step 3.6.2 順稿席加英式短句開場殘留判準，指定冷讀席而非主 session；prose-health §8e v3 計分＋HARD 門檻同步）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -308,6 +308,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 - **文章機械自述**：「得單獨給 X 一個段落」這類 writer 對自己結構的旁白，刪
 - **一致性殘渣**：30 秒概覽與 description 是否還跟修正後的正文一致（「畢業」vs 休學、被正文砍掉的場景是否還留在 description）；結尾排比的指涉是否 dangling（正文已刪的支線還留在結尾）；策展人筆記裡是否還引用已勘誤的舊事實
 - **中英夾雜殘留**（beat 掉 → 贏過）
+- **英式短句開場殘留**（v9.6，2026-08-19）：逐段念段首句，短平述句定調再展開的段落骨架一律接回敘事（判準與三類不算見 [EDITORIAL §歐化 第 9 病第三輪](../editorial/EDITORIAL.md)）。這一條交給**冷讀席**而不是主 session：理由跟句子一起生的人讀不出自己的段首句是在「先立再展開」——哲宇同日兩次點同一篇，第一輪主 session 順過、工具報 0，冷讀才看見 15 處。工具門檻：`prose-health` §8e ≥3 處計分、pre-commit >10 HARD
 - 工具：`paragraph-rhythm` + `prose-health` + 念出來
 
 #### Step 3.6.3: 視覺同步（媒體 × 敘事對位）
@@ -396,6 +397,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
    **判準**：施工單上每一條事實層裁決，都要能指出它在 fact-pack 的哪一行也被改了；
    指不出來＝這條沒做完。（與 §量詞隱喻／§後台洩漏那種**表達層**裁決不同——表達層
    的家族重掃在步 2，事實層的上游回填在這裡，兩者都要做。）
+
 4. **變更節定向複驗**（哲宇對「席位看的是修復前文本」的疑慮，v9.5 的回答）：
    批修完成後派 **1 個 Sonnet verifier 只讀被動過的節**（falsification 姿態，含該節
    footnote 綁定），加跑 deterministic 工具全套（article-health 兩 profile＋prose-flow
