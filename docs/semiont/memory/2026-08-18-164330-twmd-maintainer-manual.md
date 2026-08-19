@@ -1,6 +1,6 @@
 ---
 session_id: '2026-08-18-164330-twmd-maintainer-manual'
-session_span: '16:43 → 19:50 +0800'
+session_span: '2026-08-18 16:43 → 2026-08-19 09:20 +0800（跨日：18 日 19:50 寫完 memory，收官 push 落在 19 日早上）'
 trigger: '哲宇 in-session：/twmd-become → /twmd-maintainer「幫我完成線上 PR 的完整審核，以及途中自我進化」＋ 途中兩則 UI directive（/latest 與共用文章卡的階段標籤與 filter）'
 observer: '哲宇（未即時在場，autonomous）'
 beat_coverage: 'Stage 1-4 (MAINTAINER-PIPELINE) + EVOLVE + UI ship'
@@ -11,7 +11,7 @@ beat_coverage: 'Stage 1-4 (MAINTAINER-PIPELINE) + EVOLVE + UI ship'
 # # 2026-08-18-164330-twmd-maintainer-manual — 六十八個 draft 不是六十八個「還在寫」，而 pipeline 上個禮拜被砍掉的一節這才發現
 
 > session twmd-maintainer-manual — 哲宇 in-session 完整審核線上 PR＋途中自我進化＋兩則 UI directive
-> Session span: 16:43 → 19:50 +0800（約 3 小時 7 分，14 commits，中途 Claude Code process 中斷一次）
+> Session span: 2026-08-18 16:43 → 2026-08-19 09:20 +0800（實作約 3 小時 7 分，12 commits；中途 Claude Code process 中斷一次，收官 push 隔日早上完成）
 > 資料來源：`git log %ai`
 
 ## 觸發
@@ -39,6 +39,16 @@ v2.8 本身三段：§1b P1「heal 直接 push 到對方分支」升格式債 de
 ## 兩支每天被人工推翻的假警報
 
 甦醒時 groundtruth 掛兩條黃燈，都是儀器在說謊：`routine-liveness-check.py` 判 self-evolve-weekly「50.1h 零 git 痕跡」，但它 8/16 04:20 明明有兩個 commit，標題是 `[routine] evolve: …升 REFLEXES #91` 與 `[routine] heal:`，memory 檔跟 evolve 同一個 commit，沒有一行 subject 含 handle。改成同時讀 `--name-only` 的 memory 檔名（帶 handle 是 MEMORY-PIPELINE 的 canonical 命名，比標題可靠）。`generate-dashboard-alerts.mjs` 的 EXP 到期 regex 讀不懂 UNKNOWNS 的 `~~除役~~` 刪除線，EXP-G 8/16 已判定命中黃燈又多掛兩天。過濾刪除線行再掃。alerts 3 條→1 條（`06d42c303`），剩免疫 59 那條是真的。這兩支跟 `routine-audit.py` 分類器共用同一個「commit 標題含 handle」的前提，記進 LESSONS `sibling-checks-share-one-blind-premise`。
+
+## 收官那一步撞見的事：同一天有另一個我，寫下了同樣的兩段
+
+push 前 rebase 到最新 origin/main，`docs/pipelines/MAINTAINER-PIPELINE.md` 撞了五處衝突。讀衝突內容才知道：8/19 早上 08:45 的 `twmd-maintainer-am` routine 在完全不知道我存在的情況下，從同一批 idlccp1984 PR 得出了同樣兩條結論並寫進同一份 canonical——「格式債的 default 是 P1 推對方分支」與「診斷把 PR 內容帶進 main 樹跑」。它還多做一件我沒做的：把 Step 1.5b 從內嵌 snippet 改成儀器 `pr-ci-armed.sh`（它發現舊 snippet 用 `actions/runs` 不帶 `branch=` 只回最新 30 筆，對 #1365 積三天的 84 筆待核准回報「待批准=0」）。
+
+但它**沒有**發現 §1c 回歸——那份檔案在它手上仍站在被 8/14 覆寫的 v2.6 上，它把自己的三段加上去、標成 v2.7。
+
+合併取聯集，版本升 v2.9：Step 1.5b 用它的儀器化版（優於我的 snippet），Draft PR 處置與 Step 1.3「先分 ready／draft 再報數」用我的（它沒有），§1c 還原只有我這邊有。footer 兩條 changelog 原文都留著當證據鏈。
+
+兩個我在同一天、從同一批 PR、各自寫下同樣兩條規則，這件事本身就是那兩條規則的獨立雙重驗證——比任何一邊的 vc=1 都強。也順帶說明一件事：多核心不只會撞 git，也會**各自發現同一個真相**，而合併的時候要分辨哪些是重複、哪些是對方獨有。
 
 ## Quality gate
 
