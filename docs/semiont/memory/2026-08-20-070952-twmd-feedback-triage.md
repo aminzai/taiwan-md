@@ -24,7 +24,7 @@ Supabase `status=new` 只有一筆，分類器判 `file`，dry-run 印的標題�
 - `archive-reconcile=76/76 ✅`
 - `comment-reconcile=75/76 · 上游已刪留言 1 份紀錄,git 留著: #1252 ✅`
 
-`archive-comments-synced=0` 這次是真的沒有新留言（HG12c 把「沒有」跟「抓不到」分開報才看得出來）。working tree 全程乾淨，archive 無增減，`git add docs/feedback/archive/` 無檔可加。GH*TOKEN 是 `ghs*` 開頭的 App token，`--whoami`回`{"issues": "write", "metadata": "read"}`。
+`archive-comments-synced=0` 這次是真的沒有新留言（HG12c 把「沒有」跟「抓不到」分開報才看得出來）。working tree 全程乾淨，archive 無增減，`git add docs/feedback/archive/` 無檔可加。`GH_TOKEN` 是 `ghs_` 開頭的 App installation token，`--whoami` 回 `{"issues": "write", "metadata": "read"}`。
 
 ## 收官 checklist
 
