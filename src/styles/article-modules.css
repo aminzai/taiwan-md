@@ -63,6 +63,7 @@
 
 /* 共用容器外距 + 卡片底 */
 .tw-figure,
+.tw-article,
 .tw-stat,
 .tw-stat-wrap,
 .tw-versus,
@@ -1445,4 +1446,77 @@
     opacity: 1;
     transform: none;
   }
+}
+
+/* ── tw-article 文內嵌入卡（2026-08-19）────────────────────────────────────
+   容器只管在正文裡的外距與多卡堆疊間距；卡片本體是共用 ArticleCard（.is-embed），
+   樣式住在 ArticleCard.astro。renderer 的 fallback（沒走 Astro 後處理時，例如
+   RSS 讀者）是 .tw-article-slot 裡一條純連結，給它最低限度的可讀樣式。 */
+.tw-article {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.prose .tw-article .article-card.is-embed {
+  margin: 0;
+}
+/* 卡片內元素不吃 .prose 的段落／標題排版（h4 標題、p 摘要都在卡片自己的節奏裡） */
+.prose .tw-article .article-card-title,
+.prose .tw-article .article-card-desc {
+  margin: 0;
+}
+/* .prose :global(a) 給正文連結上色＋底線；卡片是整張 <a>，這兩樣都要拿掉，
+   標題／摘要顏色回到卡片自己的 token（詳細規則見 ArticleCard.astro .is-embed）。
+   選擇器多疊一層 .prose 是為了贏過 template scoped 規則的 specificity。 */
+.prose .tw-article a.article-card,
+.prose .tw-article a.article-card:hover {
+  color: var(--color-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 12px;
+}
+@media (max-width: 640px) {
+  .prose .tw-article a.article-card,
+  .prose .tw-article a.article-card:hover {
+    padding-bottom: 10px;
+  }
+}
+.prose .tw-article .article-card-title {
+  color: var(--color-ink);
+}
+.prose .tw-article .article-card:hover .article-card-title {
+  color: var(--color-accent);
+}
+.prose .tw-article .article-card-desc {
+  color: var(--color-ink-soft);
+}
+/* dark-polish 有一條廣域規則 `[class*='card']` 給所有 class 含 card 的元素上 6% 白底
+   ——.article-card-body／-toprow／-title／-desc 全中，四層疊起來文字欄會浮出一塊
+   淺色方框（2026-08-19 深色截圖抓到）。卡片本體吃那 6% 沒問題（跟站上其他深色
+   卡一致），後代全部歸零。選擇器疊到 (0,6,0) 才贏得過那條 (0,5,0)。 */
+:root[data-theme='dark'] .tw-article .article-card.is-embed .article-card-body,
+:root[data-theme='dark']
+  .tw-article
+  .article-card.is-embed
+  .article-card-toprow,
+:root[data-theme='dark']
+  .tw-article
+  .article-card.is-embed
+  .article-card-toprow-left,
+:root[data-theme='dark'] .tw-article .article-card.is-embed .article-card-title,
+:root[data-theme='dark'] .tw-article .article-card.is-embed .article-card-desc,
+:root[data-theme='dark']
+  .tw-article
+  .article-card.is-embed
+  .article-card-updated {
+  background: transparent;
+}
+.tw-article-slot a {
+  display: inline-block;
+  padding: 0.35em 0.75em;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-family: var(--font-interface);
+  font-size: 0.9em;
+  text-decoration: none;
 }

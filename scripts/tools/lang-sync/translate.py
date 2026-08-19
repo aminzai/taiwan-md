@@ -619,6 +619,10 @@ Rules:
    only the lines INSIDE the block. (Observed corruption: tw-bars → tw-vars,
    tw-pyramid → tw-pylamid, tw-multiples → tw-multiable; the renderer does not
    recognise those and silently degrades the chart into a raw code block.)
+   Inside a ```tw-article block each line is `category/slug` (a site path,
+   optionally followed by ` | one-line summary`): copy the path part BEFORE the
+   `|` byte-for-byte (it is a zh-TW file path — do NOT translate or transliterate
+   it); translate only the summary text after the `|` if present.
 
 Output format — EXACTLY these four marked sections, in this order:
 ===TITLE===

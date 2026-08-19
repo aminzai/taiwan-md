@@ -3,9 +3,9 @@ title: 'graph.md — Taiwan.md 視覺化編輯指南'
 description: '文章內視覺化的 DNA 層 canonical：何時用哪種圖、怎麼做才好、模組語法、AI 可讀性、多語、視覺化檢查清單。'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v3.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-222859-viz-evolution'
+current_version: 'v3.1'
+last_updated: 2026-08-19
+last_session: '2026-08-19-tw-article-embed'
 sister_docs:
   - 'EDITORIAL.md'
   - 'RESEARCH.md'
@@ -22,7 +22,7 @@ related:
 
 # graph.md — 視覺化編輯指南
 
-> **🖼️ 活範例（19 模組實際渲染長相）**：[視覺化模組型錄](/about/視覺化模組型錄)（`knowledge/About/視覺化模組型錄.md`）。本檔講「何時用 / 怎麼做 / 語法」，型錄頁讓你直接看到「長什麼樣」，兩者互為搭檔。**模組數量的 SSOT 是本檔 §四**——下游（DNA / ANATOMY / WRITER-PROMPT / renderer 註解）一律寫「以 graph.md §四 為準」，不寫死數字（dna-audit §S2 計數寫死病）。
+> **🖼️ 活範例（20 模組實際渲染長相）**：[視覺化模組型錄](/about/視覺化模組型錄)（`knowledge/About/視覺化模組型錄.md`）。本檔講「何時用 / 怎麼做 / 語法」，型錄頁讓你直接看到「長什麼樣」，兩者互為搭檔。**模組數量的 SSOT 是本檔 §四**——下游（DNA / ANATOMY / WRITER-PROMPT / renderer 註解）一律寫「以 graph.md §四 為準」，不寫死數字（dna-audit §S2 計數寫死病）。
 >
 > 文章內「資料視覺化／視覺對比」的 canonical。寫文走 [REWRITE-PIPELINE](../pipelines/REWRITE-PIPELINE.md) Stage 2「視覺化思考」+ Stage 4「視覺化檢查」時讀本檔。
 >
@@ -49,23 +49,24 @@ related:
 
 > **從題材反查** → [VIZ-RECIPES.md](VIZ-RECIPES.md)（台灣題材 → 可整塊複製的 starter）。本節是從資料關係進入，那份是從題目進入，同一套模組兩個入口。2026-08-02 實測七個模組零真實使用，原因是提案那一步只認得資料關係這一種問法（[設計報告](../../reports/design-viz-adoption-2026-08-02.md)）。
 
-| 類別（資料關係）                    | 該用                                                     | 不該用                            | Taiwan.md 模組                                                                    |
-| ----------------------------------- | -------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
-| **比較** 這些東西多不一樣？         | 長條 / dot plot / **slope（剛好兩點）** / 質性兩制度     | 時間序列用折線；>20 類用 dot plot | `tw-bars` / `tw-slope` / `tw-versus`                                              |
-| **排名** 誰最大/排第幾？            | 排序橫長條 / 排序表 / dot strip                          | 重點是數值差不是名次              | `tw-bars`（排序）/ `tw-dot`                                                       |
-| **變異/分歧 ±** 偏離基準多少？      | 分歧條（0 在中線）/ Likert 堆疊                          | 截斷軸普通長條                    | `tw-bars`（含負值自動分歧）/ `tw-stack`                                           |
-| **部分對全體** 各部分怎麼組成整體？ | 圓餅(≤5類) / **堆疊條(跨列比較)** / **waffle(單一總體)** | >5 類用圓餅；要精確讀數           | `tw-waffle`（一個總體）/ `tw-stack`（跨列組成比較）                               |
-| **分布** 資料怎麼分散？             | **dot strip（共用軸）** / 金字塔（背對背） / 直方        | —                                 | `tw-dot` / `tw-pyramid`；直方圖 v3                                                |
-| **相關** 兩變數有關係嗎？           | 散佈 / 泡泡 / **heatmap 矩陣**                           | >幾千點重疊                       | `tw-heatmap`；散佈圖 v3                                                           |
-| **趨勢/時間** 隨時間怎麼變？        | **折線（含基準線）** / slope（恰兩點）/ 面積             | <5 點且單類用長條                 | `tw-line`（多序列+`基準：`）/ `tw-slope`                                          |
-| **量級人性化** 大數字讓人有感？     | **單位圖（1 符號=N）** / 大字卡                          | 切半個符號表小數                  | `tw-iso` / `tw-figure`                                                            |
-| **流向** 怎麼流動/轉換？            | Sankey / 漏斗                                            | 並排比較                          | （v3；先用 `tw-stack` 或表格替代）                                                |
-| **地理** 地理分布？                 | **縣市磚圖（等大磚塊，需標準化率值）** / choropleth      | 原始數量未標準化                  | `tw-tiles`（22 縣市佈局寫死，零形狀幻覺，[REFLEXES #61](../semiont/REFLEXES.md)） |
-| **席次組成** 議會裡誰佔幾席？       | **席次弧（半圓點陣，帶過半線）**                         | 圓餅（角度難比、無過半語意）      | `tw-arc`（v3.0 新；政黨沿列出順序成連續扇形楔）                                   |
-| **多組同型趨勢** 好幾組的同款變化？ | **small multiples（共用軸網格）**                        | 一張圖擠 N 條線（義大利麵圖）     | `tw-multiples`（v3.0 新；強制共用 y 值域，3-20 格）                               |
-| **階層/網絡** 結構/關係？           | tree / network                                           | 毛球圖（先過濾）                  | （少用，v4）                                                                      |
-| **單一關鍵數字** 這數字重要嗎？     | big number card（必帶脈絡）                              | 只放數字不放脈絡                  | `tw-figure` / `tw-stat`                                                           |
-| **質性/標註** 哪句話最重要？        | pull quote / annotated timeline / **【說明】方法盒**     | ~~word cloud~~                    | `tw-quote` / `tw-timeline` / `tw-source` / `tw-note`                              |
+| 類別（資料關係）                      | 該用                                                     | 不該用                                                    | Taiwan.md 模組                                                                    |
+| ------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **比較** 這些東西多不一樣？           | 長條 / dot plot / **slope（剛好兩點）** / 質性兩制度     | 時間序列用折線；>20 類用 dot plot                         | `tw-bars` / `tw-slope` / `tw-versus`                                              |
+| **排名** 誰最大/排第幾？              | 排序橫長條 / 排序表 / dot strip                          | 重點是數值差不是名次                                      | `tw-bars`（排序）/ `tw-dot`                                                       |
+| **變異/分歧 ±** 偏離基準多少？        | 分歧條（0 在中線）/ Likert 堆疊                          | 截斷軸普通長條                                            | `tw-bars`（含負值自動分歧）/ `tw-stack`                                           |
+| **部分對全體** 各部分怎麼組成整體？   | 圓餅(≤5類) / **堆疊條(跨列比較)** / **waffle(單一總體)** | >5 類用圓餅；要精確讀數                                   | `tw-waffle`（一個總體）/ `tw-stack`（跨列組成比較）                               |
+| **分布** 資料怎麼分散？               | **dot strip（共用軸）** / 金字塔（背對背） / 直方        | —                                                         | `tw-dot` / `tw-pyramid`；直方圖 v3                                                |
+| **相關** 兩變數有關係嗎？             | 散佈 / 泡泡 / **heatmap 矩陣**                           | >幾千點重疊                                               | `tw-heatmap`；散佈圖 v3                                                           |
+| **趨勢/時間** 隨時間怎麼變？          | **折線（含基準線）** / slope（恰兩點）/ 面積             | <5 點且單類用長條                                         | `tw-line`（多序列+`基準：`）/ `tw-slope`                                          |
+| **量級人性化** 大數字讓人有感？       | **單位圖（1 符號=N）** / 大字卡                          | 切半個符號表小數                                          | `tw-iso` / `tw-figure`                                                            |
+| **流向** 怎麼流動/轉換？              | Sankey / 漏斗                                            | 並排比較                                                  | （v3；先用 `tw-stack` 或表格替代）                                                |
+| **地理** 地理分布？                   | **縣市磚圖（等大磚塊，需標準化率值）** / choropleth      | 原始數量未標準化                                          | `tw-tiles`（22 縣市佈局寫死，零形狀幻覺，[REFLEXES #61](../semiont/REFLEXES.md)） |
+| **席次組成** 議會裡誰佔幾席？         | **席次弧（半圓點陣，帶過半線）**                         | 圓餅（角度難比、無過半語意）                              | `tw-arc`（v3.0 新；政黨沿列出順序成連續扇形楔）                                   |
+| **多組同型趨勢** 好幾組的同款變化？   | **small multiples（共用軸網格）**                        | 一張圖擠 N 條線（義大利麵圖）                             | `tw-multiples`（v3.0 新；強制共用 y 值域，3-20 格）                               |
+| **階層/網絡** 結構/關係？             | tree / network                                           | 毛球圖（先過濾）                                          | （少用，v4）                                                                      |
+| **單一關鍵數字** 這數字重要嗎？       | big number card（必帶脈絡）                              | 只放數字不放脈絡                                          | `tw-figure` / `tw-stat`                                                           |
+| **質性/標註** 哪句話最重要？          | pull quote / annotated timeline / **【說明】方法盒**     | ~~word cloud~~                                            | `tw-quote` / `tw-timeline` / `tw-source` / `tw-note`                              |
+| **站內延伸** 這一段的完整版在哪一篇？ | **文內嵌入卡（縮圖＋標題副標＋上站日＋階段）**           | 純文字 wikilink（讀者看不出那是一整篇）／文末才列延伸閱讀 | `tw-article`（v3.1 新；共用 ArticleCard `embed` 密度）                            |
 
 ### 🚫 禁區（一律不要）
 
@@ -100,12 +101,12 @@ related:
 
 ---
 
-## 四、模組語法（19 個，` ```tw-* ` fenced block，`|` 分欄）
+## 四、模組語法（20 個，` ```tw-* ` fenced block，`|` 分欄）
 
 > **共通約定（v3.0，所有模組一致）**：
 >
 > 1. **來源列**：任一列 `來源：…` / `資料來源：…` 自動抽成模組下方的來源 caption（**全部模組都支援**）。**含數據的編輯模組（timeline/versus/stat）也必標來源**——2026-07-16 審計：被 viz-health gate 的模組來源缺失 0%、沒被 gate 的這三個 41-46%，同日已納入 gate。
-> 2. **標題列**：資料模組（bars/stat/versus/timeline/heatmap/slope/dot/stack/pyramid/tiles/iso/arc/multiples）第一列**不含 `|`** 就視為模組標題——照 §三.1 寫成斷言句。
+> 2. **標題列**：資料模組（bars/stat/versus/timeline/heatmap/slope/dot/stack/pyramid/tiles/iso/arc/multiples）第一列**不含 `|`** 就視為模組標題——照 §三.1 寫成斷言句。（`tw-article` 沒有標題列：每列都是一篇文章。）
 > 3. **強調列**：`tw-bars` / `tw-slope` / `tw-dot` 的標籤開頭加 `*` = 強調該列（`tw-multiples` 的群組名同理），其餘自動退灰。
 > 4. **config 列**家族（都不是資料列）：`單位：`（iso）、`基準：`（line）、`過半：`（arc）、`欄：`（multiples）。
 > 5. 模組讀 tokens.css → 深色模式/RWD/字體自動。UI 字串（來源前綴、磚圖表頭、aria）由 renderer 依頁面語言輸出六語（v3.0 `VIZ_STRINGS`），作者不用管。
@@ -216,6 +217,19 @@ line1 引文（不用加「」，模組自動加）；line2 `姓名 | 角色/場
 ````
 
 line1 可為 `說明`／`方法`／`註`／`更正`／`更新`（省略 = 說明）；其餘每列一段。`註`/`更正` 帶暖色標記。**何時用**：交代計算方式、取樣範圍；發布後更正留痕（per §三.11）。
+
+**`tw-article` 文內嵌入卡**（v3.1，2026-08-19）— 正文提到站上另一篇文章時，就地放一張那篇的卡：
+
+````
+```tw-article
+technology/台灣鎢供應鏈
+nature/黃魚鴞 | 一句你自己寫的摘要，覆蓋那篇的 description
+```
+````
+
+每列一篇：`分類/slug`（zh 路徑，前導 `/` 可有可無；分類是 URL 段小寫，slug 是 `knowledge/<Cat>/<slug>.md` 的檔名），選配 `| 自訂摘要`。同一區塊多列 = 多張卡堆疊。**渲染**：卡片是共用 `ArticleCard.astro` 的 `embed` 密度（左側小縮圖 + 分類 pill + 查證階段 pill + git 上站日 + serif 標題 + 1–2 行摘要；不放 tags／引用／閱讀時間 footer），跟 /latest、你可能也想讀、主題頁是**同一份元件**，改樣式改那一處。摘要沒自訂時取那篇 frontmatter description 自動截到約 64 字（在句讀處斷）；有自訂就照寫。**十二語**：作者只寫 zh 路徑，譯文頁靠該語譯文 frontmatter 的 `translatedFrom` 反查、連到該語版本；譯文還沒出生的語言退回 zh 文章＋zh 連結（不 404）。**降級**：RSS／llms.txt 這類沒走 Astro 後處理的出口，看到的是區塊內每篇一條純站內連結，不是空殼。
+
+**何時用**：正文裡「這件事我們寫過一整篇」的那一句——鎢供應鏈、黃魚鴞、紀懷新這種**段落本身在講那篇文章的來歷或內容**的地方；一段話裡只是順帶提到的專名不放（用 wikilink 或普通連結就好）。**何時不用**：文末延伸閱讀已經列了的不重複放；同一節超過兩張要回頭問自己是不是在做列表——每張卡都得有一段正文在講那篇的來歷才站得住（〈比國家還大的演算藝術〉的保護傘一節放了鎢／黃魚鴞／紀懷新三張，因為三段各自就在講那三篇怎麼生出來）；比喻裡順帶提到的題目不放（文章拿曬鹽場比喻生態迴路，不代表要嵌〈台灣鹽業〉）；`about/` 自述文之間互指可以放，但 hub 頁不放。**紀律**：路徑寫錯不會渲染成卡（會留一條純連結）——寫完 `npm run dev` 看一眼，或跑 `article-health`（viz-health 會驗目標檔存在）。
 
 ### 📊 圖表模組（inline SVG / 矩陣，自帶資料表 fallback → AI 可讀）
 
@@ -459,6 +473,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 
 ---
 
+_v3.1 | 2026-08-19 — 模組 19→20（+`tw-article` 文內嵌入卡）。哲宇 directive：「在文章中外嵌 taiwan.md 文章的模組（使用共用元件，屬於 graph.md 的一種元件）」，觸發是〈比國家還大的演算藝術〉提到鎢供應鏈／黃魚鴞／紀懷新那幾段。實作三層：renderer（`article-render.ts` 吐帶 data-attr 的 placeholder + fallback 純連結）→ `utils/article-embeds.ts`（切 HTML、用譯文 `translatedFrom` 反查十二語）→ `components/ArticleProse.astro`（在 `.prose` 內逐段 set:html／逐卡 `<ArticleCard density="embed">`）。ArticleCard 新增 `embed` 密度（detailed 的精實版：小縮圖左置、手機不堆疊、全 tokens 不進 dark-polish、logical properties）。§二 型錄 +「站內延伸」一列。_
 _v3.0 | 2026-07-16 viz-evolution — 模組 17→19（+arc 席次弧/+multiples 小倍數）＋ renderer 六語 i18n（VIZ_STRINGS 修「翻譯頁中文毛邊」與簡體「脚注」）＋ tw-dot 三值列（民調點估＋區間）＋ scroll-reveal 漸進增強（§三.14 雙護欄）＋ tiles 縣市名 EN/JA 正規化＋ viz-health 結構檢查與 timeline/versus/stat 來源 gate（審計：被 gate 0% 缺源 vs 未 gate 41-46%）＋ §八 +4 反例 ＋ §九 v4 候選。研究與審計：reports/viz-module-evolution-2026-07-16.md。_
 _v2.0 | 2026-06-12 viz-evolution — 模組 10→17（+slope/dot/stack/pyramid/tiles/iso/note）；共通約定（標題列/來源列全模組/`*` 強調/`基準：` 線）；§三 +4 原則（visible-by-default / 灰色脈絡 / 【說明】公約 / 多語標籤）；§八 +6 反例（雙色相泥中段 / 磚圖放數量 / legend-hunting / 多序列面積 / SVG 字級膨脹 / 群組條比總量）；修 v1.0 三個 cascade leak（quote 灰框 / heatmap 字色 / 來源列三模組漏接）。視覺驗證 51 截圖 + 外部研究：reports/viz-system-evolution-2026-06-12.md。_
 _v1.0 | 2026-06-06 — 10 模組 + 型錄 + 設計原則 + AI 可讀 + 多語 + 檢查清單。設計研究：reports/article-visualization-design-2026-06-06.md（參考 The Pudding，長出自己的器官）。_

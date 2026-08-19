@@ -21,6 +21,7 @@ import ArticleHero from '../components/ArticleHero.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import ArticleSidebar from '../components/ArticleSidebar.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import ArticleProse from '../components/ArticleProse.astro';
 import Perspectives from '../components/Perspectives.astro';
 import SporeFootprint from '../components/SporeFootprint.astro';
 import DiaryTeaser from '../components/DiaryTeaser.astro';
@@ -468,9 +469,16 @@ const encodedTitle = encodeURIComponent(title);
 
         <!-- Prose body (split at 延伸閱讀 if SSODT sections present) -->
         {
+          /* 正文容器走 ArticleProse：```tw-article 文內嵌入卡在這一層換成共用
+            <ArticleCard density="embed">（2026-08-19，見 utils/article-embeds.ts）。
+            用 JSX 註解不用 HTML 註解——HTML 註解會被烤進每一頁的 dist。 */
+        }
+        {
           hasSSoDT && splitIndex !== -1 ? (
             <>
-              <div class="prose" set:html={contentBeforeReading} />
+              <div class="prose">
+                <ArticleProse html={contentBeforeReading} lang={lang} />
+              </div>
               {/* ── SSODT sections between article body and 延伸閱讀 ── */}
               {frontmatter.perspectives &&
                 frontmatter.perspectives.length > 0 && (
@@ -504,11 +512,15 @@ const encodedTitle = encodeURIComponent(title);
                 frontmatter={frontmatter}
                 lang={lang}
               />
-              <div class="prose" set:html={contentAfterReading} />
+              <div class="prose">
+                <ArticleProse html={contentAfterReading} lang={lang} />
+              </div>
             </>
           ) : (
             <>
-              <div class="prose" set:html={processedContent} />
+              <div class="prose">
+                <ArticleProse html={processedContent} lang={lang} />
+              </div>
               {/* 無 SSODT split 的文章（多數 About / 短文）footer 也要能掛日記 */}
               {frontmatter.relatedDiary &&
               frontmatter.relatedDiary.length > 0 ? (
