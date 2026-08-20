@@ -24,7 +24,7 @@ featured: true
 lastVerified: 2026-07-28
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/吳明益.md'
-image: '/article-images/People/zhonghua-market-1965.jpg'
+image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
@@ -81,16 +81,16 @@ El marco de la escritura naturalista también le llevó a una transición. Lo no
 
 ## El centro comercial Zhonghua fue derribado, pero él lo escribió de vuelta
 
-![Vista exterior del centro comercial Zhonghua en 1965; un bloque de locales públicos situado en un lado de Ximending, con gente y vehículos transitando](/article-images/People/zhonghua-market-1965.jpg)
+![Vista exterior del centro comercial Zhonghua en 1965; un bloque de locales públicos situado en un lado de Ximending, con gente y vehículos transitando](/article-images/people/zhonghua-market-1965.jpg)
 _Centro comercial Zhonghua, 1965. Agencia de Información del Ejecutivo. Este bloque de locales, inaugurado en 1961 y demolido en 1992, es el prototipo espacial de la infancia de Wu Ming-yi y de "El mago del paso elevado". Dominio público._
 
 El centro comercial Zhonghua se inauguró el 22 de abril de 1961 y sus secciones fueron demolidas en octubre de 1992 por razones que incluían la soterración del ferrocarril, el metro y el plan de la avenida arbolada de Zhonghua Road. [^1] Para la generación media que ha transitado Ximending, aquel lugar era el olor de los soportales y la sombra del paso elevado, un labiente en el que se perdían tras la escuela, no una entrada en la historia arquitectónica. Tras su desaparición, solo quedaron fotos y relatos orales. Hasta que en 2011, _El mago del paso elevado_ trajo de vuelta al papel el Zhonghua de los años 80. [^2]
 
 En la novela aparecen un misterioso mago en el paso elevado, una cebra luminosa y el pequeño hijo de la zapatería. Wu Ming-yi le dijo a OKAPI: "¡El centro comercial Zhonghua era un lugar verdaderamente extraordinario; toda la magia estaba allí!". [^4] La magia aquí cumple una función estructural. El centro comercial en sí ha desaparecido, pero la magia permite que el espacio perdido sea nuevamente transitable. La primera aplicación social de los ojos compuestos a la "desaparición" recae en la memoria urbana: quién recuerda aún a las familias que cocinaban bajo los soportales, o quién puede señalar el orden de los edificios de Zhongxiao, Ren'ai, Xinyi y Heping.
 
-![Neones y multitudes bajo los soportales del centro comercial Zhonghua durante la noche; los letreros y luces crean la densidad urbana de la Ximending de los años 80](/article-images/People/zhonghua-market-night.jpg)
+![Neones y multitudes bajo los soportales del centro comercial Zhonghua durante la noche; los letreros y luces crean la densidad urbana de la Ximending de los años 80](/article-images/people/zhonghua-market-night.jpg)
 
-![Vista de los soportales del primer piso del edificio "Xin" del centro comercial Zhonghua: letreros de tiendas, columnas y escala peatonal](/article-images/People/zhonghua-market-xin.jpg)
+![Vista de los soportales del primer piso del edificio "Xin" del centro comercial Zhonghua: letreros de tiendas, columnas y escala peatonal](/article-images/people/zhonghua-market-xin.jpg)
 _Vista nocturna del centro comercial Zhonghua (imagen histórica). Los neones y soportales previos a la demolición son la memoria visual que regresa repetidamente en la novela y la serie de PTS. Vía Wikimedia Commons, CC BY 3.0._
 
 El 20 de febrero de 2021 se estrenó la serie de PTS _El mago del paso elevado_, dirigida por Yang Ya-che. [^10] El set en Sanchiao ocupaba unas dos a dos punto cinco hectáreas; los informes indican que el presupuesto para escenografía fue de unos ochenta millones, recreando casi cincuenta tiendas. Los medios estiman que el coste total de producción fue de unos doscientos millones, mientras que el departamento de programas declara unos veinte millones por episodio. Estos tres niveles de cifras son distintos y no deben confundirse como "una inversión de doscientos millones en escenografía". [^11] Tras el fin del rodaje, ese centro comercial ficticio sería demolido una vez más: la demolición real fue en 1992; la virtual ocurrió alrededor de 2020. Dos desapariciones superpuestas en un mismo pasillo. Los informes también mencionan que las vías y los cobertizos se completaron al máximo, conectando con la memoria del rodaje de _A Love in Vergance_ de Hou Hsiao-hsien. [^11] El sonido de los trabajadores retirando los letreros suena como el fin definitivo de una era que ya había terminado.
@@ -191,7 +191,7 @@ Fuente: Guardian / Liberty Times / Sentinel (vía oficial) / Critical Kaopying
 
 ## El viento marino de las librerías de Hualien y las nubes a dos mil metros
 
-![Retrato de Wu Ming-yi en la Universidad Dong Hwa: cabello corto, camisa clara, expresión tranquila](/article-images/People/wu-ming-yi-ndhu.jpg)
+![Retrato de Wu Ming-yi en la Universidad Dong Hwa: cabello corto, camisa clara, expresión tranquila](/article-images/people/wu-ming-yi-ndhu.jpg)
 _Wu Ming-$\\yi$. Profesor del Departamento de Literatura China de la Universidad Dong Hwa; enseña y escribe en Hualien desde hace mucho tiempo. Foto: National Dong Hwa University / Attribution._
 
 Tras los premios y las traducciones, los ojos compuestos tienen una segunda vida: lo transmedia y lo local. En 2014, _Luz flotante_ (浮光) fue un ensayo fotográfico publicado por la editorial New Classic, elevando la escritura de la imagen de un subgénero de la prosa naturalista a un experimento independiente. [^33] En 2019 se publicó la colección de relatos _Tierra de lluvia amarga_, que incluye 〈Las nubes a dos mil metros〉, sobre un abogado que, tras la muerte de su esposa, busca archivos de una novela inacabada y recuerdos de la piel de un leopardo de niebla taiwanés. [^27] En 2025, Chen Xin-yi convirtió este relato en una experiencia de VR titulada 〈Las nubes a dos mil metros〉 (_The Clouds Are Two Thousand Meters Up_), que ganó el Grand Prize en la sección Venice Immersive del 82.º Festival de Venecia. [^28] El relato literario se convierte en una altura que se puede recorrer. Al quitarse el casco, el espectador permanece suspendido entre la piel del leopardo y los archivos incompletos. El Museo de Arte de la Universidad Normal de Beijing también realizó una exposición inmersiva basada en este VR, conectando la memoria de los bosques y el leopardo con el cuerpo del público urbano.

@@ -24,7 +24,7 @@ featured: true
 lastVerified: 2026-07-28
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/吳明益.md'
-image: '/article-images/People/zhonghua-market-1965.jpg'
+image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
@@ -81,16 +81,16 @@ The framework of nature writing later led him to shift. Non-fiction can write sp
 
 ## The Zhonghua Commercial Building Was Demolished; He Wrote It Back
 
-![Exterior of the Zhonghua Commercial Building in 1965, a connected public comprehensive commercial building standing on one side of Ximending, with crowds and vehicles passing between them](/article-images/People/zhonghua-market-1965.jpg)
+![Exterior of the Zhonghua Commercial Building in 1965, a connected public comprehensive commercial building standing on one side of Ximending, with crowds and vehicles passing between them](/article-images/people/zhonghua-market-1965.jpg)
 _Zhonghua Commercial Building, 1965. Photographed by the Bureau of Information, Executive Yuan. This connected commercial building, opened in 1961 and demolished in 1992, is the spatial prototype for Wu Ming-yi’s childhood shoe shop and \_The Magician on the Bridge_. Public Domain.\_
 
 The Zhonghua Commercial Building was opened on April 22, 1961, and demolished building-by-building in October 1992, with reasons including the underground railway, the MRT, and the Zhonghua Road tree-lined avenue plan. [^1] For the middle generation who walked through Ximending, that place was the smell of arcades and the shadow of the overpass, a maze one would钻 into after school, not an architectural history entry. After the commercial building disappeared, memory remained only in photos and oral accounts. Until 2011, _The Magician on the Bridge_ wrote the 1980s Zhonghua Commercial Building back onto paper. [^2]
 
 In the novel, there is the mysterious magician on the overpass, the glowing zebra crossing, and the little boy from the shoe shop, Xiao Bu Dian (Little Dot). Wu Ming-yi told OKAPI: "The Zhonghua Commercial Building was truly a bizarre place; all the magic was within it!" [^4] Magic here performs structural work. The commercial building itself has already vanished; magic allows the vanishing space to be walked again. The first social application of compound eyes to "vanishing" falls on urban memory: who still remembers the families who cooked in the arcades, who can still point out the order of the Loyalty, Filial Piety, Benevolence, and Love buildings.
 
-![Neon and arcade crowds in the night at the Zhonghua Commercial Building, with signs and lights overlapping to form the street density of 1980s Ximending](/article-images/People/zhonghua-market-night.jpg)
+![Neon and arcade crowds in the night at the Zhonghua Commercial Building, with signs and lights overlapping to form the street density of 1980s Ximending](/article-images/people/zhonghua-market-night.jpg)
 
-![Arcade view on the first floor of the 'Xin' (Faithfulness) Building of the Zhonghua Commercial Building: shop signs, column rows, and pedestrian scale](/article-images/People/zhonghua-market-xin.jpg)
+![Arcade view on the first floor of the 'Xin' (Faithfulness) Building of the Zhonghua Commercial Building: shop signs, column rows, and pedestrian scale](/article-images/people/zhonghua-market-xin.jpg)
 _Zhonghua Commercial Building night view (historical image). The neon and arcades before demolition are visual memories repeatedly returned to in the novel and the PTS drama. Photo via Wikimedia Commons, CC BY 3.0._
 
 On February 20, 2021, the PTS drama _The Magician on the Bridge_ premiered, directed by Yang Ya-che. [^10] The Xizhi set was approximately two to two and a half hectares; reports stated the set construction budget was about eighty million NTD, reconstructing nearly fifty storefronts. The media called the total production cost about two hundred million NTD; the program department orally stated the budget per episode was about twenty million NTD. These three numbers are at different levels and cannot be mixed into "investing two hundred million to build the set." [^11] After wrap, that fake commercial building would be demolished again: the real demolition was in 1992, the virtual demolition around 2020; the two vanishings overlapped on the same corridor. Reports also mentioned the railway tracks and car sheds were built to full capacity, corresponding to the line of memory from Hou Hsiao-hsien’s _ Dust in the Wind_. [^11] The sound of set workers removing signs was like ending an already ended era once more.
@@ -191,7 +191,7 @@ Source: Guardian / Liberty Times / Sentinel reprinted official draft / Key Comme
 
 ## The Sea Breeze in the Hualien Bookstore, and Clouds at Two Thousand Meters
 
-![Portrait of Wu Ming-yi at a National Dong Hwa University event: short hair, light-colored shirt, calm expression](/article-images/People/wu-ming-yi-ndhu.jpg)
+![Portrait of Wu Ming-yi at a National Dong Hwa University event: short hair, light-colored shirt, calm expression](/article-images/people/wu-ming-yi-ndhu.jpg)
 _Wu Ming-yi. Professor at the Department of Chinese Literature, National Dong Hwa University, teaching and writing in Hualien for a long time. Photo: National Dong Hwa University / Attribution._
 
 After awards and translations, compound eyes have a second life: cross-media and locality. _Floating Light_ (2014) is a photography essay; the publisher, New Classic, pulled image writing from the side branch of nature essays into independent experimentation. [^33] In 2019, the short story collection _Land of Bitter Rain_ was published, including _Clouds at Two Thousand Meters_, which writes about a lawyer searching for an unfinished novel file and memories of Taiwan clouded leopard skins after his wife’s death. [^27] In 2025, Chen Hsin-yi turned this into VR _Clouds at Two Thousand Meters_ (_The Clouds Are Two Thousand Meters Up_), winning the Grand Prize (Immersive Section Grand Prize) at the 82nd Venice Film Festival’s Venice Immersive section. [^28] A literary short story becomes a height one can walk into. After removing the helmet, the audience still stays between the clouded leopard skin and the unfinished file. The National Museum of Prehistory also used this VR as the core for an immersive exhibition, connecting mountain forests and clouded leopard memories back to the bodies of urban audiences.
