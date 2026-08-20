@@ -33,6 +33,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -128,7 +129,59 @@ def _checkout_pr_file(pr: int, rel: Path) -> bool:
     return True
 
 
-def heal_file(path: Path, dry_run: bool) -> dict:
+_RE_AUTHOR = re.compile(r"(?m)^author:[ \t]*(['\"]?)(.+?)\1[ \t]*$")
+_RE_FEATURED_TRUE = re.compile(r"(?m)^featured:[ \t]*true[ \t]*$")
+_RE_AI_PRODUCT = re.compile(
+    r"\b(manus\s*ai|chatgpt|gpt-[0-9]|claude|gemini|copilot|perplexity|deepseek)\b", re.I
+)
+_CANONICAL_AUTHOR = "Taiwan.md Contributors"
+
+
+def _heal_contributor_frontmatter(rel: Path, dry_run: bool) -> None:
+    """紅旗 #6/#7/#8 的 1 行修法（MAINTAINER §Step 3.3 quick-fix 清單既有條目）。
+
+    2026-08-20 maintainer-am：這三條紅旗在 pipeline 裡白紙黑字寫了幾個月，但沒有任何
+    機器在查——只活在維護者逐篇看 frontmatter 的眼睛裡。同一批 26 個投稿有 8 個帶紅旗
+    #7、3 個帶 #6，而 heal 鏈跑完 article-health 回 hard=0，於是其中兩篇被推了 heal
+    commit 之後紅旗還原封不動留著。§神經迴路「規則要能執行才算規則」的又一次。
+
+    為什麼修在這裡而不是做成 article-health 全站 plugin：`author: 'Taiwan.md'` 對
+    Semiont 自己走 REWRITE 產線寫的文章是**正確**的署名，全站現有 401 篇 zh 是這個值。
+    「這個署名是不是偽造」只有在「這個檔來自外部投稿」這個脈絡下才成立，而那個脈絡只有
+    這條路徑知道。做成全站 lint 會一次誤殺 401 篇好文章（REFLEXES #66：閾值要用真實
+    產出 dogfood 校準，不是憑想像設）。
+    """
+    text = rel.read_text(encoding="utf-8")
+    fm_end = text.find("\n---", 4)
+    if not text.startswith("---") or fm_end == -1:
+        return
+    head, body = text[: fm_end + 4], text[fm_end + 4:]
+    changed = []
+
+    m = _RE_AUTHOR.search(head)
+    if m:
+        value = m.group(2).strip()
+        low = value.lower()
+        bogus = _RE_AI_PRODUCT.search(value) or (
+            low.startswith(("taiwan.md", "taiwanmd", "臺灣.md", "台灣.md", "semiont"))
+            and "contributor" not in low
+        )
+        if bogus:
+            head = head[: m.start()] + f"author: '{_CANONICAL_AUTHOR}'" + head[m.end():]
+            changed.append(f"author {value!r} → '{_CANONICAL_AUTHOR}'（紅旗 #7/#8）")
+
+    if _RE_FEATURED_TRUE.search(head):
+        head = _RE_FEATURED_TRUE.sub("featured: false", head)
+        changed.append("featured true → false（紅旗 #6：精選由維護者統一管理）")
+
+    if not changed:
+        return
+    print(f"  🚩 投稿紅旗 {'(dry-run) ' if dry_run else ''}{rel.name}：" + "；".join(changed))
+    if not dry_run:
+        rel.write_text(head + body, encoding="utf-8")
+
+
+def heal_file(path: Path, dry_run: bool, from_pr: bool = False) -> dict:
     rel = path if path.is_absolute() else REPO / path
     if not rel.exists():
         return {"path": str(path), "error": "missing"}
@@ -159,6 +212,13 @@ def heal_file(path: Path, dry_run: bool) -> dict:
         for line in rs.stdout.splitlines():
             if "NO MATCH" in line or "NO INSERT POINT" in line or line.startswith("✅"):
                 print(f"  {line}")
+
+    # 2.5 投稿專屬紅旗：署名與精選（MAINTAINER §Step 2.3 紅旗 #6/#7/#8）
+    # 只在 --from-pr 模式跑：這三條修法的前提是「這個檔來自外部投稿」，而只有那條
+    # 路徑握有這個脈絡。裸路徑模式（維護者手動指一篇 knowledge/ 檔）不碰，否則會把
+    # Semiont 自己寫的 401 篇 'Taiwan.md' 署名靜默改掉。
+    if from_pr:
+        _heal_contributor_frontmatter(rel, dry_run)
 
     # 3. article-health --fix
     ah_cmd = [
@@ -276,7 +336,7 @@ def main() -> int:
     any_hard = False
     for f in uniq:
         print(f"\n═══ {f} ═══")
-        res = heal_file(f, args.dry_run)
+        res = heal_file(f, args.dry_run, from_pr=bool(args.from_pr))
         results.append(res)
         if res.get("hard", 0) not in (0,):
             any_hard = True
