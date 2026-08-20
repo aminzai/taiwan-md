@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-20
-last_session: '2026-08-20-061400-twmd-data-refresh-am'
+last_session: '2026-08-20-084151-twmd-maintainer-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -351,3 +351,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-20 | 061400-twmd-data-refresh-am | 14 步全綠零 stale；貢獻者 74、文章 990 跟昨日完全持平，零新警報、零新子代 | 「什麼都沒變」的乾淨讀數本身是訊號，留給下一輪 maintainer 確認是否為真實空場 | [→](memory/2026-08-20-061400-twmd-data-refresh-am.md) |
 | 2026-08-20 | 064737-twmd-spore-harvest-am | budget-總預算十年三平台 D+2；D+1 累積四則 Bucket E 留言全數補回覆；Threads 頁尾現形「部分新增回覆無法顯示」解釋計數落差 | count diff 也是 proxy 訊號會假陰性，看畫面比信訊號更接近 ground truth | [→](memory/2026-08-20-064737-twmd-spore-harvest-am.md) |
 | 2026-08-20 | 070952-twmd-feedback-triage | 全批一筆仍是第七次原樣出現的第三人指控信，讀完全文後 `--exclude` 攔下；零轉錄下兩道對賬 76/76 與 75/76 照跑 | 能自己補的閘門 8/15 就補完了，每天還在燒判斷力的那道正好是不准自己補的那道 | [→](memory/2026-08-20-070952-twmd-feedback-triage.md) |
+| 2026-08-20 | 084151-twmd-maintainer-am | 33 篇投稿 backlog 清到 11，28 篇上站；分號拆句與投稿紅旗兩支工具補進 heal 鏈；大寫 People 圖片資料夾收掉 | 替紅旗造的全站閘門差點誤擋 401 篇自產文，接住我的是上線前多量的那次分母 | [→](memory/2026-08-20-084151-twmd-maintainer-am.md) |

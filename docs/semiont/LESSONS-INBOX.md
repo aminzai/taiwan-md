@@ -332,6 +332,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-20 twmd-maintainer-am — documented-red-flag-with-no-enforcer：紅旗清單寫了幾個月，沒有任何機器在查
+
+**現象**：MAINTAINER-PIPELINE §Step 2.3 的十條紅旗裡，#6（投稿者自設 `featured: true`）與 #7／#8（`author` 偽造成 `'Taiwan.md'` / AI 產品名）都白紙黑字寫著，Step 3.3 連修法都寫好了（「1 行改 `'Taiwan.md Contributors'`」）。今天這批 26 個投稿，8 個帶 #7、3 個帶 #6——而 `contributor-pr-heal.py` 不修、`article-health --profile=ci-deploy` 回 hard=0。結果是我在建好閘門之前，已經替 #1467 與 #1458 推了 heal commit，紅旗原封不動留在裡面。**是我自己漏掉、隔幾分鐘後對整批做 frontmatter 稽核才發現的**，不是任何儀器叫出來的。
+
+**跟既有反射的關係**：這是 §神經迴路「規則要能執行才算規則」在投稿審核層的又一個 instance，也是 [REFLEXES #87](REFLEXES.md)「保護密度跟曝光量成反比」的變體——只是這次反比的不是曝光量而是**規則的年紀**：寫得越早、越被當成常識的規則，越沒有人回頭問「這條有東西在守嗎」。
+
+**修補（已 ship，commit `c920ebe91`）**：三條紅旗的修法進 `contributor-pr-heal.py`。
+
+**這次差點犯的第二個錯，比第一個更值得記**：我第一版是把它做成 `article-health` 的全站 plugin（`author-identity`，hard）。寫完跑 `--list-checks` 確認註冊成功、拿一篇文章 dogfood 也過了——**看起來完全正確**。接著順手量了一次全站語料：`author: 'Taiwan.md'` 在 zh 有 **401 篇**，因為那對 Semiont 自己走 REWRITE 產線寫的文章是**正確**的署名。那道 gate 一旦上線會一次誤殺 401 篇好文章。
+
+差別在一個沒被寫進紅旗條文的前提：「這個署名是不是偽造」只有在「這個檔來自外部投稿」的脈絡下才成立，而全站 lint 沒有那個脈絡。所以檢查最後掛在 `--from-pr` 路徑（裸路徑模式明確不碰），這是 [REFLEXES #66](REFLEXES.md)「閾值要用真實產出 dogfood 校準，不是憑想像設」——救我的不是設計時的謹慎，是**上線前多量了一次全站分母**。
+
+**候選反射（vc=1）**：規則升格成閘門時，除了問「判準對不對」，要多問一句「**這條判準的前提在哪一層成立**」。同一句話在投稿脈絡是紅旗、在自產脈絡是正確值；把它掛錯層，閘門會忠實地執行一個在那一層根本不成立的規則。今天同一個 cycle 還有第二個同型：`punct-cleanup --fix` 的驗收原本跑整篇 `article-health`，於是本來就有無關 hard 的投稿永遠不敢寫檔——把「我這次改壞了嗎」跟「這篇本來就有別的問題嗎」讀成同一個燈（[REFLEXES #38](REFLEXES.md) 混維度），改成只比 delta 才對。
+
+**Reference**：commit `19e7373b2`（punct-cleanup --fix）、`c920ebe91`（紅旗 healer）、本日 memory 檔
+
 ### 2026-08-19 twmd-maintainer-am — detector-inherits-the-blindness-it-was-built-to-catch：專為抓「存在≠有跑」而生的偵測器，自己用了一個只看得到最近六小時的取數口
 
 - **pattern**: `detector-inherits-the-blindness-it-was-built-to-catch`

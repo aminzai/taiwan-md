@@ -174,6 +174,20 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界
+
+- **Type**: `EVOLVE`
+- **Category**: Food
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-08-20 by twmd-maintainer-am（[Issue #1389](https://github.com/frank890417/taiwan-md/issues/1389) 落檔）
+- **Notes**:
+  - issue 原文只有一句「此文章要和 台灣早餐文化.md 一起整理」，由維護者 frank890417 於 2026-08-15 開立
+  - 真正要決的是**兩篇的分工**，不是單純合併：`Food/台灣豆漿與早餐店.md` 與 `Food/台灣早餐文化.md` 目前各自成篇，豆漿在早餐文化裡本來就是一個段落，硬合會讓早餐文化那篇失焦，各留又會有一大塊重複敘事
+  - 建議切法：早餐文化談「一頓早餐怎麼變成一個產業與一種作息」，豆漿獨立篇談「一種植物蛋白如何在台灣長成連鎖店型態」（永和豆漿的來歷、24 小時店的勞動節律、中式早餐店與美而美系統的分流），兩篇互設延伸閱讀
+  - 走 REWRITE-PIPELINE 時要先跑 Stage 5 反向連結一致性——這正是 2026-07-18 記過的那個病（翻案後 sibling 的反向連結描述會停在舊敘事）
+- **Reference**: Issue #1389、`knowledge/Food/台灣豆漿與早餐店.md`、`knowledge/Food/台灣早餐文化.md`
+
 ### 台灣吉祥物 EVOLVE — 補回被 PR #1391 換血版本丟掉的四段既有內容
 
 - **Type**: `EVOLVE`
