@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-21 twmd-maintainer-am — prescribed-verification-unavailable-to-unattended-runs：pipeline 指名的兩條驗證路徑，對真正需要它們的那種 session 都是關著的
+
+- **pattern**: `prescribed-verification-unavailable-to-unattended-runs`
+- **原則**：SOP 寫「改完要驗證」時，要一起問「**跑這條 SOP 的執行者拿得到那個驗證工具嗎**」。MAINTAINER §1c 與 REFLEXES #69 都明文要求 UI 改動「就真的開瀏覽器看一眼」、資料改動「對一次 ground truth」——但這兩句是在有觀察者在場的 session 裡寫的。cron routine 是無人值守的，`preview_start` 對這種 session **設計上直接拒絕**（「Dev servers can't be started from unattended sessions — nobody is present to approve the command」）。退一步的 build gate 今天也不可用：本機 `npm run build` 因 `marked-cjk-friendly` 在 `package.json` 卻不在 `node_modules` 而紅。**規定的兩條路同時關著，而規定本身沒有第三條**。
+- **觸發**：2026-08-21 maintainer-am 為 issue #1496 改 `src/layouts/Layout.astro` 的搜尋計數與渲染筆數（commit `98291fd89`）。這是站台每一頁都會載入的 layout 檔，正是最該眼睛看過的那種改動。實際只能退到：(a) 把改動前後的計數邏輯抽成獨立 node script 跑對照（80 筆語料，舊版報 30、新版報 80）(b) 把 inline script 抽出來 `node --check` 驗語法。**兩者驗的都是「我寫的邏輯照我想的跑」，不是「讀者看到對的東西」**——同一顆腦的尺（REFLEXES #65 (f)）。真正的外部尺（瀏覽器渲染、CI build）今天一條都沒碰到。
+- **代價**：這次的改動風險低（純計數與 slice 上限，且 CI 端會跑 build），所以代價目前是零。但**這個缺口不會只在低風險改動上出現**：任何 routine cycle 只要順手修了一個 UI/樣式/渲染層的東西，它都只能自我驗證然後宣稱通過，而 quality gate 那條「有 fresh issue 的 cycle 至少一件被修掉」正在鼓勵 routine 去修這類東西。**閘門要求產出、SOP 要求驗證、環境不給驗證工具**——三者今天第一次同時到齊。
+- **跟既有反射的關係**：不是 #82（訊號存在但無效），是更前面一層——**訊號通道對這個執行者根本不存在**，而 SOP 沒有為這個執行者寫替代條款。跟 `gate-explains-into-a-dead-channel`（2026-08-13，閘門診斷對了但說明送不到能動手的人面前）同構，只是方向相反：那次是輸出送不出去，這次是輸入拿不到。
+- **修補候選**：(a) MAINTAINER §1c 的「真的開瀏覽器看一眼」加但書，明列 unattended session 的替代驗證階梯（邏輯對照 script → `node --check` → 等 CI 綠燈後回頭確認），並要求把「用了哪一階」寫進 memory，不准只寫「已驗證」；(b) 讓 routine 在改到 `src/` 之後**必須**在 memory 記下對應 CI run 的結論，把驗證責任明確移交給 CI 這把外部尺，而不是留在自我宣稱；(c) 修本機 build（裝 `marked-cjk-friendly`），至少把兩條路恢復一條——但這只解今天這台機器，解不掉「瀏覽器對 cron 永遠關著」這個結構。**推薦 (a)+(b)**：(c) 是必要的環境修補，不是架構解。
+- **可能層級**：操作規則（MAINTAINER §1c 補但書）＋ 候選反射（「規定驗證方式前先確認執行者拿不拿得到那個工具」，跨 pipeline 通用）
+- **相關**：REFLEXES #69（外部尺）／#65 (f)（same-DNA 尺）／`gates-measure-handling-not-solving`（2026-08-11）／`gate-explains-into-a-dead-channel`（2026-08-13）
+- **verification_count**: 1
+
 ### 2026-08-21 twmd-feedback-triage — report-line-keyed-on-mutable-display-string：報表拿會變的顯示字串當識別欄，同一筆重複出現時在視覺上斷了連續性
 
 **現象**：`b78ee4f5` 那封第三人檢舉信第八次原樣出現，而我第一眼把它讀成新進來的一筆，寫下的第一句判斷是錯的。原因在報表那一行：`triage.mjs` 的 FILE 行印的是 `[分類] 文章標題`，而這筆回報掛在新聞自由條目底下——那個條目有十幾個語言版本，今天它抽到越南文的 `Truyền thông và tự do báo chí tại Đài Loan`。前七輪的 memory／handoff 全用中文記著「第三人指控信」，沒有一處長得像這串字。同一個 id、同一段文字，顯示欄換個語言就換一副面孔。reject／skip 那兩個分支反而都印了 id，只有真的要開 issue 的那一支沒印。
