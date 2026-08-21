@@ -735,17 +735,20 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           });
           var topScore = raw.length > 0 ? raw[0].score : 0;
           var cutoff = topScore * 0.02;
-          var matches = raw
-            .filter(function (r) {
-              return r.score >= cutoff;
-            })
-            .slice(0, 30);
+          var relevant = raw.filter(function (r) {
+            return r.score >= cutoff;
+          });
+          var matches = relevant.slice(0, 30);
           // Sort: current language first
           matches.sort(function (a, b) {
             var aLang = a.lang === lang ? 0 : 1;
             var bLang = b.lang === lang ? 0 : 1;
             return aLang - bLang;
           });
+          // 命中總數要算在裁切之前。舊版用 matches.length 當「共幾篇」，
+          // 那是 slice(0, 30) 之後的數字 — 量到的是自己的上限，不是語料庫
+          // （issue #1496：「…還有 N 篇」因此永遠不會超過 18）。
+          matches.totalMatches = relevant.length;
           return matches;
         }
         // Fallback: indexOf
@@ -763,6 +766,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         matches.sort(function (a, b) {
           return (a.lang === lang ? 0 : 1) - (b.lang === lang ? 0 : 1);
         });
+        matches.totalMatches = matches.length;
         return matches;
       }
 
@@ -906,23 +910,28 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
             return;
           }
           var matches = _doSearch(q, lang);
-          _lastMatchCount = matches.length;
+          var total =
+            matches.totalMatches != null
+              ? matches.totalMatches
+              : matches.length;
+          _lastMatchCount = total;
           if (matches.length === 0) {
             results.innerHTML =
               '<div class="search-hint">' + hintNone + '</div>';
           } else {
+            // 面板本來就會捲動（.search-results max-height 400px / overflow-y auto），
+            // 舊的 12 筆上限讓捲軸沒東西可捲，剩下的直接變成讀者到不了的死路。
             var html = matches
-              .slice(0, 12)
               .map(function (it, i) {
                 return _renderResult(it, i, q);
               })
               .join('');
-            if (matches.length > 12) {
+            if (total > matches.length) {
               html +=
                 '<div class="search-hint">' +
                 _i18nSearchMoreTemplate.replace(
                   '{n}',
-                  String(matches.length - 12),
+                  String(total - matches.length),
                 ) +
                 '</div>';
             }
