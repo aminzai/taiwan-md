@@ -383,7 +383,11 @@ async function main() {
     }
     if (r.decision === 'file') {
       console.log(`  ${tag} [${r.issue.type}] ${r.issue.title}`);
-      console.log(`         labels: ${r.issue.labels.join(', ')}`);
+      // id 印在 FILE 行上:報表原本只有 type + 文章標題,而標題會隨文章語言換一副面孔,
+      // 當班無法一眼認出「這筆昨天看過」。認得一筆靠的該是它的 id,不是它今天穿什麼。
+      console.log(
+        `         id=${r.row.id} · labels: ${r.issue.labels.join(', ')}`,
+      );
       if (args.commit) {
         const created = createIssue(r.issue);
         await writeBackStatus(r.row.id, 'filed', created, r.note);

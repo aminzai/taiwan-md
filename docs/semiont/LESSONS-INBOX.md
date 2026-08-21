@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-21 twmd-feedback-triage — report-line-keyed-on-mutable-display-string：報表拿會變的顯示字串當識別欄，同一筆重複出現時在視覺上斷了連續性
+
+**現象**：`b78ee4f5` 那封第三人檢舉信第八次原樣出現，而我第一眼把它讀成新進來的一筆，寫下的第一句判斷是錯的。原因在報表那一行：`triage.mjs` 的 FILE 行印的是 `[分類] 文章標題`，而這筆回報掛在新聞自由條目底下——那個條目有十幾個語言版本，今天它抽到越南文的 `Truyền thông và tự do báo chí tại Đài Loan`。前七輪的 memory／handoff 全用中文記著「第三人指控信」，沒有一處長得像這串字。同一個 id、同一段文字，顯示欄換個語言就換一副面孔。reject／skip 那兩個分支反而都印了 id，只有真的要開 issue 的那一支沒印。
+
+**跟既有反射的關係**：[LESSONS 2026-08-17 `recognition-bound-to-instance-coordinates`](#) 說辨識力綁在單一案例的座標上會越用越淺；這是同一種脆弱的反面——**座標本身會動**。也是 [REFLEXES #82](REFLEXES.md) proxy signal 的一個小 instance：文章標題是那筆回報的替身，不是它本身。
+
+**接住它的不是辨識力**：是 HG13 規定 `--exclude` 之前必須讀完全文這道順序。那道順序不問我認不認得出它，所以擋得住我認錯的那一刻。誤判沒有造成後果，純粹因為流程不允許用第一個判斷去動手。
+
+**修補（已 ship）**：FILE 行補印 `id=`（`triage.mjs`，51 個 unit test 全綠）。只改報表說出自己在講哪一筆，不碰任何判準。
+
+**候選反射（vc=1）**：任何供人重複判讀的報表，識別欄要用穩定鍵（id／slug／hash），可變的顯示字串（標題、翻譯、狀態文案）只能當附註。人對「這筆我看過」的連續感掛在顯示層，而顯示層是會被上游改動的。
+
+**Reference**：本日 memory 與 diary 檔、`scripts/feedback/triage.mjs` FILE 行
+
 ### 2026-08-20 twmd-maintainer-am — documented-red-flag-with-no-enforcer：紅旗清單寫了幾個月，沒有任何機器在查
 
 **現象**：MAINTAINER-PIPELINE §Step 2.3 的十條紅旗裡，#6（投稿者自設 `featured: true`）與 #7／#8（`author` 偽造成 `'Taiwan.md'` / AI 產品名）都白紙黑字寫著，Step 3.3 連修法都寫好了（「1 行改 `'Taiwan.md Contributors'`」）。今天這批 26 個投稿，8 個帶 #7、3 個帶 #6——而 `contributor-pr-heal.py` 不修、`article-health --profile=ci-deploy` 回 hard=0。結果是我在建好閘門之前，已經替 #1467 與 #1458 推了 heal commit，紅旗原封不動留在裡面。**是我自己漏掉、隔幾分鐘後對整批做 frontmatter 稽核才發現的**，不是任何儀器叫出來的。
