@@ -1,22 +1,22 @@
 {
-  "total_zh": 8971,
+  "total_zh": 9041,
   "total_en": 885,
-  "coverage_en": 9.9,
+  "coverage_en": 9.8,
   "categories": {
-    "vi": {
-      "zh": 801,
-      "en": 0
+    "People": {
+      "zh": 275,
+      "en": 239
     },
-    "Society": {
-      "zh": 107,
-      "en": 94
-    },
-    "ko": {
-      "zh": 885,
+    "fr": {
+      "zh": 884,
       "en": 0
     },
     "ar": {
       "zh": 753,
+      "en": 0
+    },
+    "ko": {
+      "zh": 885,
       "en": 0
     },
     "pt": {
@@ -27,82 +27,82 @@
       "zh": 590,
       "en": 0
     },
-    "ja": {
-      "zh": 879,
-      "en": 0
+    "Culture": {
+      "zh": 102,
+      "en": 73
     },
     "hi": {
       "zh": 669,
       "en": 0
     },
-    "fr": {
-      "zh": 884,
-      "en": 0
-    },
-    "History": {
-      "zh": 64,
-      "en": 52
-    },
-    "es": {
-      "zh": 883,
-      "en": 0
-    },
-    "Technology": {
-      "zh": 66,
-      "en": 59
-    },
-    "People": {
-      "zh": 261,
-      "en": 239
+    "Food": {
+      "zh": 86,
+      "en": 68
     },
     "ru": {
       "zh": 787,
       "en": 0
     },
-    "Nature": {
-      "zh": 40,
-      "en": 38
-    },
-    "Food": {
-      "zh": 78,
-      "en": 68
-    },
-    "Culture": {
-      "zh": 91,
-      "en": 73
+    "es": {
+      "zh": 883,
+      "en": 0
     },
     "Economy": {
-      "zh": 70,
+      "zh": 76,
       "en": 65
     },
-    "Art": {
-      "zh": 47,
-      "en": 43
+    "vi": {
+      "zh": 801,
+      "en": 0
     },
-    "Geography": {
-      "zh": 69,
-      "en": 64
+    "ja": {
+      "zh": 882,
+      "en": 0
+    },
+    "Technology": {
+      "zh": 67,
+      "en": 59
     },
     "Lifestyle": {
-      "zh": 38,
+      "zh": 41,
       "en": 31
+    },
+    "Art": {
+      "zh": 48,
+      "en": 43
+    },
+    "Nature": {
+      "zh": 41,
+      "en": 38
+    },
+    "History": {
+      "zh": 77,
+      "en": 52
+    },
+    "Society": {
+      "zh": 110,
+      "en": 94
+    },
+    "Geography": {
+      "zh": 74,
+      "en": 64
     },
     "Music": {
       "zh": 37,
       "en": 37
     },
+    "Politics": {
+      "zh": 14,
+      "en": 11
+    },
     "About": {
       "zh": 9,
       "en": 9
-    },
-    "Politics": {
-      "zh": 13,
-      "en": 11
     },
     "resources": {
       "zh": 2,
       "en": 2
     }
   },
-  "updated": "2026-08-20"
+  "updated": "2026-08-22"
 }

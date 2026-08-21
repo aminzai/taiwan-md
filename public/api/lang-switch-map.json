@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:12:21.514Z",
+  "generated_at": "2026-08-21T22:12:00.236Z",
   "languages": [
     "en",
     "ja",
@@ -13,7 +13,7 @@
     "ar",
     "ru"
   ],
-  "total_entries": 26383,
+  "total_entries": 26392,
   "registry": {
     "en": {
       "toZh": {
@@ -2723,6 +2723,7 @@
         "/ja/culture/penghu-folk-culture": "/culture/%E6%BE%8E%E6%B9%96%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96",
         "/ja/culture/plurk-taiwan-microblog": "/culture/%E5%99%97%E6%B5%AAPlurk",
         "/ja/culture/renjian-magazine": "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C",
+        "/ja/culture/schoolyard-rhymes": "/culture/%E6%A0%A1%E5%9C%92%E9%A0%86%E5%8F%A3%E6%BA%9C",
         "/ja/culture/shopping-design": "/culture/Shopping%20Design",
         "/ja/culture/sky-lanterns-pingxi": "/culture/%E5%A4%A9%E7%87%88",
         "/ja/culture/taiwan-advertising-history": "/culture/%E5%8F%B0%E7%81%A3%E5%BB%A3%E5%91%8A%E5%8F%B2",
@@ -2848,6 +2849,7 @@
         "/ja/food/hakka-food-culture": "/food/%E5%AE%A2%E5%AE%B6%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
         "/ja/food/hand-shaken-drink-culture": "/food/%E5%8F%B0%E7%81%A3%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%87%E5%8C%96",
         "/ja/food/heysong-soft-drinks": "/food/%E9%BB%91%E6%9D%BE",
+        "/ja/food/hsinkang-taffy": "/food/%E6%96%B0%E6%B8%AF%E9%A3%B4",
         "/ja/food/international-brand-localization-taiwan": "/food/%E5%9C%8B%E9%9A%9B%E5%93%81%E7%89%8C%E5%9C%A8%E5%9C%B0%E5%8C%96",
         "/ja/food/ma-wai-soup": "/food/%E9%BA%BB%E8%8A%9B%E6%B9%AF",
         "/ja/food/marble-soda": "/food/%E5%BD%88%E7%8F%A0%E6%B1%BD%E6%B0%B4",
@@ -2867,6 +2869,7 @@
         "/ja/food/stinky-tofu": "/food/%E8%87%AD%E8%B1%86%E8%85%90",
         "/ja/food/sugar-onion-tang-tsung": "/food/%E7%B3%96%E8%94%A5",
         "/ja/food/sun-cake": "/food/%E5%A4%AA%E9%99%BD%E9%A4%85",
+        "/ja/food/sweet-potato-balls": "/food/%E5%9C%B0%E7%93%9C%E7%90%83",
         "/ja/food/tainan-central-west-district-street-food-culture": "/food/%E5%8F%B0%E5%8D%97%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E6%96%87%E5%8C%96",
         "/ja/food/taiwan-apple-bread": "/food/%E8%98%8B%E6%9E%9C%E9%BA%B5%E5%8C%85",
         "/ja/food/taiwan-banquet-culture": "/food/%E5%8F%B0%E7%81%A3%E8%BE%A6%E6%A1%8C%E6%96%87%E5%8C%96",
@@ -3688,6 +3691,8 @@
         "/culture/噗浪Plurk": "/ja/culture/plurk-taiwan-microblog",
         "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C": "/ja/culture/renjian-magazine",
         "/culture/人間雜誌": "/ja/culture/renjian-magazine",
+        "/culture/%E6%A0%A1%E5%9C%92%E9%A0%86%E5%8F%A3%E6%BA%9C": "/ja/culture/schoolyard-rhymes",
+        "/culture/校園順口溜": "/ja/culture/schoolyard-rhymes",
         "/culture/Shopping%20Design": "/ja/culture/shopping-design",
         "/culture/Shopping Design": "/ja/culture/shopping-design",
         "/culture/%E5%A4%A9%E7%87%88": "/ja/culture/sky-lanterns-pingxi",
@@ -3934,6 +3939,8 @@
         "/food/台灣手搖飲文化": "/ja/food/hand-shaken-drink-culture",
         "/food/%E9%BB%91%E6%9D%BE": "/ja/food/heysong-soft-drinks",
         "/food/黑松": "/ja/food/heysong-soft-drinks",
+        "/food/%E6%96%B0%E6%B8%AF%E9%A3%B4": "/ja/food/hsinkang-taffy",
+        "/food/新港飴": "/ja/food/hsinkang-taffy",
         "/food/%E5%9C%8B%E9%9A%9B%E5%93%81%E7%89%8C%E5%9C%A8%E5%9C%B0%E5%8C%96": "/ja/food/international-brand-localization-taiwan",
         "/food/國際品牌在地化": "/ja/food/international-brand-localization-taiwan",
         "/food/%E9%BA%BB%E8%8A%9B%E6%B9%AF": "/ja/food/ma-wai-soup",
@@ -3972,6 +3979,8 @@
         "/food/糖蔥": "/ja/food/sugar-onion-tang-tsung",
         "/food/%E5%A4%AA%E9%99%BD%E9%A4%85": "/ja/food/sun-cake",
         "/food/太陽餅": "/ja/food/sun-cake",
+        "/food/%E5%9C%B0%E7%93%9C%E7%90%83": "/ja/food/sweet-potato-balls",
+        "/food/地瓜球": "/ja/food/sweet-potato-balls",
         "/food/%E5%8F%B0%E5%8D%97%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E6%96%87%E5%8C%96": "/ja/food/tainan-central-west-district-street-food-culture",
         "/food/台南中西區美食小吃文化": "/ja/food/tainan-central-west-district-street-food-culture",
         "/food/%E8%98%8B%E6%9E%9C%E9%BA%B5%E5%8C%85": "/ja/food/taiwan-apple-bread",
