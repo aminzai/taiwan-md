@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-22 | 053754-twmd-routine-sync | 三層對賬第二十九輪，18 條全 in-sync 零漂移，連續第十一輪；origin 未落後，未動任何檔案 | 十一輪連續零漂移，這條 routine 存在本身讓漂移沒有累積空間 | [→](memory/2026-08-22-053754-twmd-routine-sync.md) |
 | 2026-08-22 | 061437-twmd-data-refresh-am | 14 步全綠零 stale；文章 990、貢獻者 74 持平；順帶把 scheduler 18 條即時排程狀態讀出來對進 routine-live-state.json | routine 的完整定義涵蓋只有 session 層才碰得到的資源，不只是跑一支 shell script | [→](memory/2026-08-22-061437-twmd-data-refresh-am.md) |
 | 2026-08-22 | 064128-twmd-spore-harvest-am | budget-總預算十年 D+4（跳過 8/21）；D+2 誤判「已移除」的 alden.0202 留言本輪重新可見，補回覆，判斷為平台渲染間歇性抑制；X 登入牆第 6 天 | 單輪「查無蹤跡」不等於「已移除」，結論要留可修正空間不要一次讀取就關掉線索 | [→](memory/2026-08-22-064128-twmd-spore-harvest-am.md) |
+| 2026-08-22 | 070927-twmd-feedback-triage | 那封第三人指控信第九次原樣出現，讀完全文 `--exclude` 攔下；兩道對賬 76/76 與 75/76 照跑；OBSERVER-QUEUE #28 成本註記改成原地計數 | 對每天重複的同一件事，追加說明是講給自己聽，原地計數才是講給要下決定的人聽 | [→](memory/2026-08-22-070927-twmd-feedback-triage.md) |
