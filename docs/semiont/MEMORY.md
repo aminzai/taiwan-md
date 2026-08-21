@@ -356,3 +356,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-21 | 180845-twmd-feedback-triage | 那封第三人指控信第八次原樣出現，讀完全文 `--exclude` 攔下；兩道對賬 76/76 與 75/76 照跑；FILE 行補印 feedback id | 報表拿會變的文章標題當識別欄，同一筆換個語言我就認不出來 | [→](memory/2026-08-21-180845-twmd-feedback-triage.md) |
 | 2026-08-21 | 181117-twmd-maintainer-am | 55 open 清到 17，38 篇上站（31 篇投稿自己就 hard=0）；查維基改用 API 推翻兩個人物門檻預設；#1496 修掉一個在說謊的搜尋計數 | 讀者回報看不完，底下是那個數字量的是搜尋器自己的上限不是語料庫 | [→](memory/2026-08-21-181117-twmd-maintainer-am.md) |
 | 2026-08-22 | 053538-twmd-embeddings-nightly | 12 語重建 9,807 向量 0 fail 全綠（較上次 +70 篇）；zh-TW／ja 微幅變動照常 commit + push；發現 08-21 一夜完全無紀錄，跟既知 skip 形狀不同 | 只看今晚綠燈看不見前天的空白，缺口要往回翻索引才找得到 | [→](memory/2026-08-22-053538-twmd-embeddings-nightly.md) |
+| 2026-08-22 | 053754-twmd-routine-sync | 三層對賬第二十九輪，18 條全 in-sync 零漂移，連續第十一輪；origin 未落後，未動任何檔案 | 十一輪連續零漂移，這條 routine 存在本身讓漂移沒有累積空間 | [→](memory/2026-08-22-053754-twmd-routine-sync.md) |
