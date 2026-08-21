@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-20
-last_session: '2026-08-20-084151-twmd-maintainer-am'
+last_updated: 2026-08-21
+last_session: '2026-08-21-180852-twmd-routine-sync'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -352,3 +352,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-20 | 064737-twmd-spore-harvest-am | budget-總預算十年三平台 D+2；D+1 累積四則 Bucket E 留言全數補回覆；Threads 頁尾現形「部分新增回覆無法顯示」解釋計數落差 | count diff 也是 proxy 訊號會假陰性，看畫面比信訊號更接近 ground truth | [→](memory/2026-08-20-064737-twmd-spore-harvest-am.md) |
 | 2026-08-20 | 070952-twmd-feedback-triage | 全批一筆仍是第七次原樣出現的第三人指控信，讀完全文後 `--exclude` 攔下；零轉錄下兩道對賬 76/76 與 75/76 照跑 | 能自己補的閘門 8/15 就補完了，每天還在燒判斷力的那道正好是不准自己補的那道 | [→](memory/2026-08-20-070952-twmd-feedback-triage.md) |
 | 2026-08-20 | 084151-twmd-maintainer-am | 33 篇投稿 backlog 清到 9，34 篇上站；分號拆句與投稿紅旗兩支工具補進 heal 鏈；大寫 People 圖片資料夾收掉 | 替紅旗造的全站閘門差點誤擋 401 篇自產文，接住我的是上線前多量的那次分母 | [→](memory/2026-08-20-084151-twmd-maintainer-am.md) |
+| 2026-08-21 | 180852-twmd-routine-sync | 三層對賬第二十八輪，18 條全 in-sync 零漂移，連續第十輪；origin 未落後，未動任何檔案 | 連十輪零漂移是這條 routine 存在本身的效果，不是巧合 | [→](memory/2026-08-21-180852-twmd-routine-sync.md) |
