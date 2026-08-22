@@ -1,0 +1,26 @@
+id: 漂亮飯
+category: food
+subcategory: 飲食文化
+fork_type: C
+display:
+  taiwan: 網美餐廳 / 網美餐 / 好拍的店
+  china: 漂亮飯（吃漂亮飯、漂亮餐）
+etymology:
+  origin: 指擺盤精緻、燈光夢幻、專門為了拍照打卡而存在的餐點，價格偏高而味道未必相稱。是中國餐飲業與社群行銷結合造出的行銷詞，小紅書上與「約會」「生日」「出片」等關鍵字綁定推播，已成為餐廳開幕的固定操作流程（找博主、拍打卡照）。
+  taiwan_path: 台灣講同一件事說「網美餐廳」「網美店」「很好拍」「拍起來很漂亮但普通」，「網美」是台灣自己長出來的詞。
+  china_path: 小紅書餐飲筆記標籤 → 行銷套路名稱 → 消費現象的統稱。
+  fork_point: '~2023'
+  fork_cause: 兩地各自長出描述同一種消費現象的詞，台灣以「網美」為核心構詞，中國以「漂亮飯」為核心構詞。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: emerging
+notes: |
+  觀察詞：2026-08 台灣 Threads 已有貼文直接把「漂亮飯」點名為支語（8,989 瀏覽），
+  也已出現變體「漂亮餐」，有網友指出它就是台灣講的「網美餐廳」。
+  台灣本有的「網美」構詞能力很強（網美餐廳／網美牆／網美照），是現成的對應資產。
+sources:
+  - https://www.cbndata.com/information/294273
+  - https://www.threads.com/@peng_simin/post/DMzKS4rTAza
+added: '2026-08-22'
+updated: '2026-08-22'

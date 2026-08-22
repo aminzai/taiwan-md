@@ -1,0 +1,27 @@
+id: 金色飛賊
+category: names
+subcategory: 譯名
+fork_type: B
+display:
+  taiwan: 金探子
+  china: 金色飛賊 / 金飛賊
+english: Golden Snitch
+etymology:
+  origin: 《哈利波特》魁地奇比賽中那顆會飛的小金球。台灣皇冠出版社版本譯為「金探子」，中國人民文學出版社版本譯為「金色飛賊」（部分段落作「金飛賊」）。兩岸各自獨立翻譯同一套小說，人名、咒語、器物名產生大量分歧，這顆金球是其中最常被拿出來對照的一個。
+  taiwan_path: 皇冠版譯者取「探」字扣住它的功能——在場上探來探去、要被搜捕的目標，讀起來像個小生物的暱稱。
+  china_path: 人文社版取 snitch 的「賊」義，直譯成金色的飛賊。
+  fork_cause: 1949 後兩岸出版體系分立，同一部外文作品各自發包翻譯，譯名無從統一。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+status: stable
+notes: |
+  遊戲與周邊商品是這組譯名最容易混入台灣的管道——《哈利波特：魔法覺醒》等中國研發的手遊
+  在台灣上線時多次出現簡轉繁但沿用陸譯的情況，台灣玩家社群長期在做譯名校正。
+  2026-08 Threads 上仍有貼文為此討論（3,624 瀏覽）。這類分歧屬於翻譯史，不是語言滲透，
+  但對讀者來說同樣是「這個詞台灣怎麼說」的實用查詢。
+sources:
+  - https://harrypotter.fandom.com/zh/wiki/金色飛賊
+  - https://www.hpfl.net/forum/thread/35470
+added: '2026-08-22'
+updated: '2026-08-22'

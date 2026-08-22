@@ -66,6 +66,9 @@ interface TermEntry {
   category?: string;
   subcategory?: string;
   fork_type?: string;
+  /** false = 不進轉換器規則（同詞不同語感類，盲目取代會改壞正確的台灣文字）。
+   *  預設 undefined 等同 true，2,400 條既有條目行為不變。 */
+  auto_convert?: boolean;
   display: {
     taiwan: string;
     china?: string;
@@ -104,6 +107,13 @@ for (const file of files) {
   const raw = await readFile(join(termDir, file), 'utf-8');
   try {
     const d = parseYaml(raw) as TermEntry;
+    // 2026-08-22: opt out of find-and-replace for pairs where the china-side
+    // word is ALSO legitimate Taiwanese usage in another sense. Blind
+    // replacement corrupts correct text — 挺胸 → 蠻胸, 力挺 → 力蠻,
+    // 網路流量 → 網路點閱率, 值得肯定 → 值得一定. The per-term page still
+    // renders (it explains the 語感 difference); only the converter skips it.
+    // Set `auto_convert: false` on such entries — see _template.yaml.
+    if (d?.auto_convert === false) continue;
     // Support both display.{china,taiwan} and top-level {china,taiwan} formats
     const chinaVal = d?.display?.china || (d as any)?.china;
     const taiwanVal = d?.display?.taiwan || (d as any)?.taiwan;
