@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-23 | 053608-twmd-embeddings-nightly | 12 語重建 9,838 向量 0 fail 全綠；本機端點直連免 fallback；ja／zh-TW 各 1 行微幅變動照常 commit + push | 兩項先前 vc 教訓（本機優先端點＋動態語言清單）落地後這夜跑得無感，正是該有的樣子 | [→](memory/2026-08-23-053608-twmd-embeddings-nightly.md) |
 | 2026-08-23 | 053737-twmd-routine-sync | 三層對賬第三十輪，18 條全 in-sync 零漂移，連續第十二輪；origin 未落後，未動任何檔案 | 十二輪連續零漂移，這條 routine 存在本身讓漂移沒有累積空間 | [→](memory/2026-08-23-053737-manual.md) |
 | 2026-08-23 | 061502-twmd-data-refresh-am | 14 步全綠零 stale；文章 1057→1087，貢獻者 75 持平；補上過期 48 小時的 scheduler live dump（照 routine prompt 固定步驟，非讀到黃燈才補） | 把「補 live dump」從讀到黃燈才想起，換成固定步驟每次無條件跑 | [→](memory/2026-08-23-061502-twmd-data-refresh-am.md) |
+| 2026-08-23 | 065927-twmd-spore-harvest-am | 用語保存副詞層首次收割 4 則正面回覆＋1 條疑問確認已收錄；budget 三平台 D+5 持平；X 局部露出語源補充留言 | 罕見字碼位打錯連兩次同方向，是系統性映射偏差不是手滑 | [→](memory/2026-08-23-065927-twmd-spore-harvest-am.md) |
