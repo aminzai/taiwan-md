@@ -365,3 +365,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-23 | 011557-terminology-adverbs | 一則問「為什麼不用蠻改用挺」的貼文查下去，被點名的十一個詞有十個在教育部辭典裡；詞庫補副詞層 15 條、補肉 5 條（含自家水準條目斷言過頭的校正），孢子 #175/#176 | 為 A 出口設的護欄，B 出口用另一套假設讀同一份資料時不會繼承 | [→](memory/2026-08-23-011557-terminology-adverbs.md) |
 | 2026-08-23 | 020617-twmd-weekly-report-sun | W34 體檢：一週入庫 156 篇讓文章破千，免疫兩格與語言器官同時下滑，分子沒動分母漲一成七；桶 1 補登三篇沒登記的交付、接上陳致中與陳幸妤的互鏈 | Googlebot 53% 與全站 404 率 2.71% 方向相反，因為成功率把 301 轉址算成失敗 | [→](memory/2026-08-23-020617-twmd-weekly-report-sun.md) |
 | 2026-08-23 | 021729-search-results-page | issue #1496 /search 十二語上線（排序＋時間篩選＋URL 狀態＋popup 入口）；dogfood 揪出索引斷詞只認 ASCII，ar/ru/hi 母語搜尋自出生 0 筆，修後 ar 0→593 | 尺長在造尺者聽得見的頻率上；母語逐語驗收才照得到斷詞層聾點 | [→](memory/2026-08-23-021729-search-results-page.md) |
+| 2026-08-23 | 031233-rawlink-divergence | 功能頁 .md 按鈕改吃真實分類表（十一語＋hub fallback）；筆電分歧解剖後撿回兩件被困真資料再 reset | 分歧解決順序：驗屍→backup→搶救→reset；append-only log 的「整理」本身是破壞 | [→](memory/2026-08-23-031233-rawlink-divergence.md) |
