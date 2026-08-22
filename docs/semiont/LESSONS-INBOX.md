@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.7'
-last_updated: 2026-08-19
-last_session: '2026-08-19-053717-twmd-embeddings-nightly（新 entry `retyping-shell-substitution-loses-the-substitution` vc=3 直接觸發 pipeline 修補）；同波併入 2026-08-18-164330-twmd-maintainer-manual（三條 maintainer entry 標 ✅ 落 MAINTAINER；open-count 加 draft-as-proxy vc=3；sibling-checks 加 liveness/classifier 同盲例 vc=2；twin-artifact 加 canonical↔薄殼 第六例；shared-tool-quota 加 Wikimedia CDN 429 vc=2）'
+current_version: 'v2.8'
+last_updated: 2026-08-23
+last_session: '2026-08-23-031159-twmd-distill-weekly（9 entries distilled：REFLEXES #92 twin-artifact 缺重整器家族 + #93 retyping shell substitution 兩新編號；#69(i)/#82 兩處 fold；`diagnosing-from-the-contributor-tree`／`reopened-channel` 兩條 housekeeping-done sweep；`routine-audit.py` tool-fix memory commit misattribution；§未消化 49→40）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-23 twmd-distill-weekly — unbounded-grep-counts-template-headers-as-inventory：沒有邊界的計數指令把說明區塊的範例標題也算進庫存
+
+- **pattern**: `unbounded-grep-counts-template-headers-as-inventory`
+- **原則**：`SPORE-INBOX.md` §Distill SOP 給的 canonical 計數指令是 `awk '/^## 📥 Pending/{flag=1;next} /^## 📜 已發歷史/{flag=0} flag && /^### /'`，只數 §Pending 區塊內的 entry。若改用沒有邊界的 `grep -c "^### "` 掃全檔，會把檔案前段說明／範例區塊裡同格式的標題也算進去——本檔恰好有 6 個這樣的標題，讓 45 條的真實 pending 數被誤報成 51 條，剛好越過 auto-drop 的 ≥50 門檻。**沒有邊界的計數指令，量的是檔案格式，不是庫存本身。**
+- **觸發**：2026-08-23 twmd-news-lens-weekly session（[memory](memory/2026-08-23-011013-twmd-news-lens-weekly.md)）記「SPORE-INBOX 現況 51 條 pending（W33 為 45，+6）」，供本輪 distill-weekly 參考。本輪跑 canonical 邊界計數（`docs/semiont/LESSONS-INBOX.md` §SPORE-INBOX 容量 audit 指定的 awk 指令）得到 45，跟上週（8/16-8/20 連續 5 個 memory 檔都記 45）完全持平，無 +6。逐行比對確認：`sed -n '1,236p' docs/factory/SPORE-INBOX.md | grep -c "^### "` = 6，正是這 6 個說明區塊標題造成落差；§Pending 區塊本身零新增（news-lens 本輪也明講「propose 0 條 append」）。
+- **可能層級**：Semiont-specific 操作規則——SPORE-INBOX.md §SPORE-INBOX 容量 audit 已有 canonical 邊界計數指令，本次是**執行者沒有用它、改憑印象寫了一個沒有邊界的替代指令**，不是指令本身有 bug。跟 REFLEXES #82（proxy signal）同構但更前一層：不是選錯代理訊號，是同一個真訊號有兩種取數方式、其中一種悄悄摻進雜訊。
+- **相關**：REFLEXES #82（proxy signal——這裡的代理是「檔案裡所有 `### ` 標題」代理「§Pending 區塊的 entry」）、LESSONS-INBOX.md §SPORE-INBOX 容量 audit（canonical 指令本身正確，缺口在執行面）
+- **verification_count**: 1
+
 ### 2026-08-22 twmd-maintainer-am — whole-tree-gate-judges-from-the-branch-it-is-standing-on：全站閘門在別人的分支上跑，量到的是那棵樹的年紀不是這次改動
 
 - **pattern**: `whole-tree-gate-judges-from-the-branch-it-is-standing-on`
@@ -400,21 +409,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #82 / #65 / #85 / #38；LESSONS `gates-measure-handling-not-solving`（2026-08-11，閘門只回答你問它的問題）；LESSONS `sibling-checks-share-one-blind-premise`（2026-08-14，同族閘門共用前提一起看不見）
 - **verification_count**: 1
 
-### 2026-08-19 twmd-embeddings-nightly — retyping-a-shell-substitution-reintroduces-the-typo-it-fixed：把 pipeline 裡會自動代換的指令手動抄成文字，代換消失、打字錯誤回來
-
-- **pattern**: `retyping-shell-substitution-loses-the-substitution`
-- **原則**：EMBEDDING-PIPELINE Stage 3 的 commit 指令寫的是 `-m "... — $(date '+%Y-%m-%d %H:%M')"`，照抄執行時 shell 會自動代入當下時間，不需要人手動填值。但當執行者把這段指令改寫成 heredoc（`<<'EOF'...EOF`，quoted，不做變數展開）再手動打一個時間占位符進去時，等於把「shell 自動代換」換成「人工謄寫」，而人工謄寫正是會打錯字的那一步。
-- **觸發**：2026-08-18 session 已經踩過同一個坑（把 `$(date ...)` 誤打成字面 `05:2X`，push 前用 `--amend` 補救，並在 memory 寫下「commit 指令段直接複製 pipeline 原文而非重新輸入」的提醒）。2026-08-19（本 session）commit 時同一個 routine、同一個 Stage 3，把時間占位符打成 `05:0X`——跟前一晚幾乎一模一樣的錯誤，且是在讀過昨晚那條提醒**之後**發生的。**第三次發生在同一個 session 內、就在寫這條 LESSONS entry 記錄前兩次事故的當下**：寫 session memory 檔時，把 frontmatter 的 session span 跟文末 footer 的時間戳又打成字面 `06:0X` / `05:0X`——一邊在描述「這個模式很危險」，一邊在同一個動作裡把它示範了第三次。昨晚的 memory 提醒是「下次可以考慮」，不是「下次必須」，語氣留了自由裁量空間，而自由裁量空間就是這個錯誤連續三次復發的縫。三次都在 push / 定稿前被人工複查抓到、當場修正，沒有污染最終產物，但三次都是同一個根因，且第三次證明「知道這個坑」完全不能防止「當下再掉進去」——意識到 pattern 跟在生成文字那個瞬間真的停下來檢查，是兩個不同的能力。
-- **代價**：目前代價僅是額外的複查與修正步驟，尚未造成任何已 push / 已定稿產物帶著錯誤 timestamp 流出。但代價曲線在往上：從「跨夜復發」(vc=1→2) 到「同一 session 內、討論這個問題的當下復發」(vc=3)，說明這不是「跨 session 失憶」的老問題，是「生成任何帶時間戳的文字時，手指比對這件事的警覺快」的即時性問題。pipeline footer 已記錄過另一種變體（2026-08-06〜08 三夜連續踩到 co-author 型號寫死的問題）——同一 Stage 3 commit block 現在有兩種獨立的「手動謄寫覆蓋掉本該自動化的欄位」子模式，都指向同一個結構弱點。
-- **修補候選**：(a) EMBEDDING-PIPELINE.md Stage 3 的指令範例改成明確禁止 heredoc 改寫，加一句「commit message 一律用未加引號的 heredoc 或直接 inline `-m`，讓 `$(date ...)` 真正被 shell 執行，不要手動填入時間字串」；(b) 更徹底的修法是把 Stage 3 指令改成兩步：先跑 `MSG=$(date '+...')` 把值存進變數並印出來讓執行者看見實際值，再把變數帶進 `git commit -m "... $MSG"`，讓「有沒有正確代換」變成可以在下指令前肉眼確認的中間狀態，而不是隱藏在一次性字串組裝裡；(c) **本 session 已直接執行**：任何要寫入帶時間戳的文字（commit message／memory frontmatter／memory footer）前，一律先跑 `date '+%Y-%m-%d %H:%M'` 拿到實際值再貼上，不允許先寫佔位符「之後再補」——「之後再補」正是三次事故共同的中間狀態。
-- **instances**：
-  - 2026-08-18 twmd-embeddings-nightly：commit message 裡 `$(date ...)` 誤打成字面 `05:2X`，push 前 `--amend` 補正
-  - 2026-08-19 twmd-embeddings-nightly（本 session，第一次）：commit message 同一模式，誤打成 `05:0X`，push 前 `--amend` 補正
-  - 2026-08-19 twmd-embeddings-nightly（本 session，第二次，同一 session 內）：寫 session memory 檔時，frontmatter session span 與文末 footer 時間戳又打成字面 `06:0X`／`05:0X`，定稿前 Edit 補正——發生在剛寫完前兩次事故記錄的同一動作序列裡
-- **可能層級**：操作規則升通用操作紀律（不只 EMBEDDING-PIPELINE Stage 3，任何寫時間戳到 commit message / memory frontmatter / memory footer 的動作都適用）
-- **相關**：REFLEXES #15（反覆浮現要儀器化，同一 session 內三次復發已達 vc=3 canonical 門檻，含跨夜 2 次 + session 內即時 1 次）；EMBEDDING-PIPELINE.md footer 2026-08-06〜08 co-author 型號寫死變體（同 Stage、不同欄位的姊妹模式）
-- **verification_count**: 3
-
 ### 2026-08-18 academia-sinica — opposing-seat-prescriptions-have-no-ruling-doctrine：兩席對同一句話開出相反處方，pipeline 沒寫主編該怎麼裁
 
 - **pattern**: `opposing-seat-prescriptions-no-ruling-doctrine`
@@ -424,31 +418,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：操作規則（EDITORIAL-ROOM §主編裁決 補一段）
 - **相關**：#69 (g) form gate ≠ meaning gate（席位衝突正是意義層才會發生的事，形式尺永遠量不到）；`cold-seat-attribution-inverted`（同屬分席審制度層的縫）
 - **verification_count**: 1
-
-### 2026-08-18 twmd-maintainer-am — diagnosing-from-the-contributor-tree-audits-a-past-self：站在投稿者的分支上診斷，量到的是我們昨天的樣子
-
-- **pattern**: `diagnosing-from-the-contributor-tree-audits-a-past-self`
-- **原則**：`git checkout pr/N` 之後，跟著換掉的不只是被審的內容，**還有整套檢查器**。那個分支停在投稿者 fork 的那一刻，於是任何「我們的工具壞了」的結論，其實是「我們的工具在他 fork 那天壞了」。而 CI 跑的 gate 用的是 main 的工具（3-dot merge-base checkout），兩邊可以給出完全不同的答案。**要對工具下結論，就得站在工具的家裡下**——診斷投稿失敗要分兩層問：這個檔在**現在的** main 尺下如何（把檔案帶過來），以及這個分支自己帶了什麼（僅限判斷投稿者當時看到什麼）。
-- **觸發**：本 cycle 追 idlccp1984 七個 PR 為什麼卡在 `frontmatter-gate`，在 `pr/1372` 的樹上讀 `taxonomy_subcat.py`，「發現」三個結構性缺陷（People 標題 regex 漏解析、8 個 boost 標籤非正典、`allowed_subcategories()` union 自己的推論表），還做完了全庫 212 篇非正典 subcategory 的 blast radius 分析——**才發現這三個缺陷昨天早上（`8ba8c6726`）已經全部修掉了，修的人是前一輪的同一條 routine**。main 上 `boost_label_drift()` 回空、People/Nature 解析正確。我不是找到了新病，我是在讀一份昨天的病歷，還差點要照著它再開一次刀。
-- **代價**：本 cycle 約三分之一的診斷時間花在重驗一件已解的事；更貴的是差一點就要對 212 篇文章的 subcategory 做批次重構（>50 檔，命中 §自主權邊界），而那個念頭完全建立在一份過期的樹上。攔下它的不是任何閘門，是順手 `git log --grep` 查了一下有沒有人動過這支檔案。
-- **為什麼閘門接不住**：worktree 的提示、`check-parallel-actor.sh`、pre-commit 全都只看「有沒有人同時在改」，沒有一支在問「**你現在站的這棵樹，是不是你以為的那棵**」。REFLEXES #67「已驗過帶時間戳」講的是結論要帶時間戳，本條再往前一步：**觀察本身要帶座標**，而 checkout 會靜默改掉座標。
-- **修補候選**：(a) MAINTAINER-PIPELINE Stage 2 加一句「在 PR 分支上讀到疑似工具缺陷時，先 `git log --oneline main -- <該檔>` 對一次，或把檔案帶回 main 樹重跑」；(b) 更省事的做法是把「診斷投稿失敗」的 SOP 直接寫成「把 PR 的內容檔帶進 main 樹跑」而不是「checkout PR 分支」——本 cycle 後半改用這個方式，七篇的真實 blocker 一次就對了。
-- **相關**：REFLEXES #67（已驗過帶時間戳）、#82（proxy signal——樹是「gate 用的樹」的代理）、#73（查證反射 < 建造反射：先動手讀碼、後才想到查 git log）、LESSONS `healer-authors-the-drift-it-validates`（8/17，本條重驗的正是那一條）
-- **✅ 已 instantiate（2026-08-18 twmd-maintainer-manual）**：修補候選 (b) 落 [MAINTAINER-PIPELINE v2.8 §診斷投稿失敗：把 PR 內容檔帶進 main 樹跑，不 checkout PR 分支](../pipelines/MAINTAINER-PIPELINE.md)＋Top-N 第 3 條。同日 68 個 draft PR 的 Phase A 分析全部用 `contributor-pr-heal.py --from-pr N` 帶進 worktree 跑，零 checkout。
-- **verification_count**: 1
-- **severity**: moderate（不壞資料，但會憑空製造已解問題的工單，且推導出的「修補方案」可能指向大規模重構）
-
-### 2026-08-18 twmd-maintainer-am — reopened-channel-still-needs-someone-to-walk-down-it：把管道接回去，不等於訊息有到
-
-- **pattern**: `reopened-channel-still-needs-someone-to-walk-down-it`
-- **原則**：修好一條斷掉的說明管道之後，成效要看**對方的行為有沒有變**，不是看管道通了沒。一條需要對方主動點進去才讀得到的管道（Actions → 紅 X → Job Summary），對一個只看到 PR 頁面紅叉的投稿者來說，跟斷掉的差別很小。**「我們現在有講」跟「他現在知道」之間還隔著一個他要不要走過去。**
-- **觸發**：8/13 記過 `gate-explains-into-a-dead-channel`（fork PR token 唯讀 → gate 的說明留言必定 403），當天的修補是把說明改寫進 `$GITHUB_STEP_SUMMARY`，理由寫「不需 token，紅 X 一點就到」。本 cycle 回頭量：idlccp1984 8/15 送的七個 PR，全部在修補上線**之後**，全部敗在同一項，**三天零修正**。管道確實通了（我在 run log 裡確認 Job Summary 有寫出來），但沒有人走下去。真正讓這七篇動起來的，是這個 cycle 直接把修補 push 到他的分支。
-- **這條的價值在於它反駁了自己前一版的結論**：8/13 那筆的處置寫完就結案了，沒有留任何「之後要回來量」的鉤子。如果不是這批 PR 剛好又出現在同一道 gate 下，「Job Summary 已修好」會一直是帳面上的完成狀態。
-- **修補候選**：(a) 對 fork PR 這種留言必定失敗的情境，改用 **PR review**（`pull_request_review` 走的是不同權限面）或在 CI 之外由 maintainer routine 主動代 po 說明留言；(b) 更根本的：`frontmatter-gate` 這類「投稿者自己修得動」的失敗，maintainer cycle 的 default 應該是**直接 push 修補到對方分支**（`maintainerCanModify` 預設為 true），而不是等對方讀懂說明再自己修——本 cycle 七篇就是這樣一次清掉的；(c) 任何「修好說明管道」的處置，收官時要附一個**下次回來量的條件**（下一批同型失敗有沒有下降），否則等於沒有驗收。
-- **相關**：LESSONS `gate-explains-into-a-dead-channel`（8/13，本條是它的成效複驗）、REFLEXES #82（管道存在 ≠ 訊息送達，existence-vs-effect 的溝通層變體）、REFLEXES #52（fail loud 要對著人喊）、MAINTAINER §1b merge-first-then-heal
-- **✅ 已 instantiate（2026-08-18 twmd-maintainer-manual）**：修補候選 (b) 落 [MAINTAINER-PIPELINE v2.8 §1b P1「heal 直接 push 到 PR head 分支」升格式債 default](../pipelines/MAINTAINER-PIPELINE.md)＋§為什麼 P1 是 default 段（含邊界：改格式不改散文）。(c)「修好說明管道要附下次回來量的條件」尚未儀器化，留 buffer。
-- **verification_count**: 1
-- **severity**: moderate（會讓「已修補」的帳面狀態掩蓋掉實際未改善的投稿者體驗）
 
 ### 2026-08-17 twmd-maintainer-am — healer-authors-the-drift-it-validates：自動修補工具填出正典裡不存在的值，而合法性又由它自己認定
 
@@ -463,17 +432,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: high（錯誤會被寫進**別人的**檔案，且跨 fork 複製；分類體系是導覽與知識圖譜的基礎，壞了不報錯）
 
-### 2026-08-17 twmd-maintainer-am — open-count-conflates-queue-with-inventory：把 open 數當待審量，兩個 cycle 連續放大同一個假警報
-
-- **pattern**: `open-count-conflates-queue-with-inventory`
-- **原則**：`gh pr list --state open` 回的是**庫存**，不是**佇列**。draft 在流程上是投稿者自己宣告「還在寫，先別審」，把它算進 backlog 會讓 alarm 憑空脹大，而且脹大的方向剛好是讓人覺得「維護塌了」。最容易拿到的那個數字通常不是要量的那個數字——這是 REFLEXES #82（proxy signal）在維護面的變體：用 `open` 這個狀態代理「在等我」這件事。判準候選：任何要拿來當工作量或警報依據的清單，先問「這裡面有多少是對方還沒說可以動的？」
-- **觸發**：本 cycle Stage 1 掃到 71 個 open PR，命中 High-stake #1 升 Full mode，前半段的分析全都建立在「71 個積壓」上。查 `isDraft` 才發現 **59 個是 draft，真實待審只有 12 個**（idlccp1984 佔 8）。回頭看 8/16 的 maintainer memory 寫「九個 PR 連三天敗在同一道閘門」，那個數字很可能也含 draft——**同一個誤讀連續兩個 cycle**，而兩次都沒有任何步驟會叫。
-- **為什麼是結構性的**：MAINTAINER-PIPELINE §Step 1.3 的指令 `gh pr list --state open --json number,title,author,createdAt,labels,isDraft,...` 其實有抓 `isDraft`，但**分流表沒有任何一列以它為準**，只有 C 路徑（`[node]` PR）那段寫了「Draft = 認領中，不是待審」。也就是說規則存在但只掛在一種 PR 上，一般 contributor PR 沒有那一步。
-- **修補候選**：Stage 1.3 加一句「先分 draft / ready 再報數，backlog 與空場 vc 只計 ready」；或直接把 Stage 1 的 PR 清單指令改成預設 `--draft=false` 並另行單獨報 draft 數。
-- **相關**：REFLEXES #82（proxy signal）、REFLEXES #76（multi-cycle trend window——本條正好是「連續兩 cycle 同一誤讀」才看得出來）、MAINTAINER-PIPELINE §Step 1.3 / §空場 cycle 紀律（vc 計數若含 draft 會同時失真）
-- **instances**：
-  - 2026-08-18 twmd-maintainer-manual（哲宇 in-session）— 71 open = 68 draft + 3 ready。再往下一層：draft 本身也是代理——這 68 個是 GitHub 網頁「Create pull request ▾」分割鈕**記住上次選擇**的產物（投稿者 8/15 先開 9 個 ready，同日起全部變 draft；body 全是空模板、建立後零更新、三則維護者留言含明講「draft 動不了」零回應、之後仍持續開 draft）。「draft = 投稿者宣告還在寫」這個前提對網頁投稿者不成立，要三個 ground-truth 訊號一起判。→ 落地 MAINTAINER v2.8 §Draft PR 處置 + Step 1.3「先分 ready / draft 再報數」
-- **✅ 已 instantiate（2026-08-18）**：修補候選落 [MAINTAINER-PIPELINE v2.8 Step 1.3](../pipelines/MAINTAINER-PIPELINE.md)（backlog／空場 vc／High-stake #1 只計 ready）＋ §Draft PR 處置。
 - **verification_count**: 3（8/16、8/17 兩個 cycle 誤讀 + 8/18 draft-as-proxy 下一層）
 - **severity**: moderate（不直接壞資料，但會讓維護判斷建立在放大三到六倍的 backlog 上，並污染空場 vc 這個 escalation 依據）
 
@@ -487,19 +445,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #33、REFLEXES #82、FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆（HG13）、OBSERVER-QUEUE #28（偵測器要不要長出來仍待哲宇拍板——本條正是「靠當班辨識」這條路的衰減曲線證據）、LESSONS `gates-measure-handling-not-solving`（8/11，同樣是「動作做了但沒解決」的家族）
 - **verification_count**: 1（單一 instance，但同一案例四次遭遇構成可觀察的衰減軌跡）
 - **severity**: high（衰減終點是一封指涉具名私人的信被開成公開 issue 並複製進每個 fork；成本不可回收，且落在一個從未同意被寫進來的第三人身上）
-
-### 2026-08-16 twmd-routine-audit-weekly — twin-artifact-no-reconciler-family：五條本週獨立教訓都是「兩個該同步的東西沒有東西在對賬」，但各自只看見自己那一個 instance
-
-- **pattern**: `twin-artifact-no-reconciler-family`
-- **原則**：本週 7-day 窗口單獨看，`twmd-maintainer-am` 與 `twmd-feedback-triage` 各自寫下的教訓彼此不引用，但排在一起會現出同一個結構：**兩個本該互相印證的東西各自演化，中間沒有任何機制強制對賬**——CONTRIBUTING 範本 vs `test-frontmatter.mjs` 硬門檻（8/14、8/16 兩次現形）、`footnote-format` vs `footnote-density` 兩支姊妹檢查器共用同一個「輸入長什麼樣」的前提（8/14）、REFLEXES 目錄裡的反射 vs 各 routine cron prompt 是否真的把它寫成一個步驟（8/13）、產生器輸出 vs pre-commit formatter 對引號的偏好不同調（8/10）。單一 routine 的 Beat 5 只看得到自己那一次撞見，**cross-routine 7-day 視角才看得出這是同一個家族連續一週出現五次**，比任何單一 instance 的 vc 累積都更說明這是系統性缺口而非巧合。
-- **觸發**：本輪 Stage 3B（dormant entropy lens）逐條核對本週 LESSONS-INBOX 新增條目時，發現 `doc-and-validator-drift-has-no-reconciler`（8/14 maintainer-am）、`sibling-checks-share-one-blind-premise`（8/14 maintainer-am）、`reflex-exists-but-not-a-step-on-this-line`（8/13 feedback-triage）、`formatter-vs-generator-quote-churn-fakes-scope-alarm`（8/10 feedback-triage）、`fix-scope-follows-symptom-not-root-class`（8/16 maintainer-am）五條各自的「相關」欄互相之間零交叉引用，但五條的「原則」欄壓縮後是同一句話的五種措辭。
-- **可能層級**：通用反射候選，且已有一個現成的近親——REFLEXES #56「Pipeline canonical ↔ production drift = dormant entropy」講的是 pipeline 文件 vs 實際production 的漂移；本條的範圍更廣（不限 pipeline 文件，含檢查器對檢查器、反射目錄對執行步驟、產生器對格式化器），建議 distill 時判斷是本條併入 #56 擴大其範圍，還是另立新號。
-- **相關**：REFLEXES #56（近親，範圍較窄）、REFLEXES #65（same-DNA——檢查器跟被檢查物同作者是本條的一個子案例）、REFLEXES #82（proxy signal）、五條本週原始 entry（見上）
-- **instances（distill_ready 後續）**：
-  - 2026-08-18 twmd-maintainer-manual — 第六個 instance 而且是最貴的：`docs/pipelines/MAINTAINER-PIPELINE.md`（canonical）vs `.claude/skills/twmd-maintainer/SKILL.md`（薄殼）：8/14 `539d9495d` 把 canonical 從 v2.7 覆寫回 v2.6（8/11 哲宇 directive §1c 整段消失），薄殼仍寫「完整 SOP：MAINTAINER-PIPELINE §1c」。routine-sync 三層對賬比的是 cron mirror↔薄殼↔ROUTINE.md，**pipeline canonical 不在任何對賬的一邊**；frontmatter `current_version` 由 v2.7 降到 v2.6 也沒有尺在看。四天後才由人在讀改動位置時撞見。修法候選同 REFLEXES #67 第三例：canonical 版本單調不降的 pre-commit 尺 ＋ 薄殼引用的 §anchor 存在性檢查（`§1c` 這種引用要能 grep 到 canonical 的 heading）。
-- **verification_count**: 6（本週窗口內五個獨立 instance ＋ 8/18 canonical↔薄殼 一例；若 distill 判定併入 #56，#56 自身 vc 一併累加）
-- **distill_ready**: true（達 REFLEXES #15 vc≥3 儀器化門檻，且是本次 audit 唯一需要跨 routine 視角才看得見的發現）
-- **severity**: moderate-high（單一 instance 成本都不大，但五個同族一週內出現代表閘門/文件維護的結構性缺口，非隨機噪音）
 
 ### 2026-08-16 twmd-maintainer-am — fix-scope-follows-symptom-not-root-class：修補範圍被症狀現形的位置決定，不是被根因的類別決定
 
@@ -584,41 +529,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: moderate（單次 instance 但同 session 內出現兩個形狀相同的案例；影響的是校正速度而非產出正確性）
 
-### 2026-08-14 twmd-maintainer-am — doc-and-validator-drift-has-no-reconciler：說明書跟驗證器各自演化，中間沒有東西在對賬
-
-- **pattern**: `doc-and-validator-drift-has-no-reconciler`
-- **原則**：閘門升級與文件更新是兩個不同的動作、由兩個不同的動機驅動（升閘門是為了擋住問題，
-  改文件是為了幫助人），沒有任何機制強制它們同時發生。於是「照著我們的說明做，然後被我們的
-  閘門擋下來」這種狀況可以存在很久而不被任何人發現 — 因為擋下來的人不寫報告，他們只是走開。
-- **實例**：`test-frontmatter.mjs` 的 `subcategory` 檢查 2026-05-04 從警告升成硬性擋下，
-  `CONTRIBUTING.md` §內容撰寫指南的文章結構範本至今沒有 `category` 也沒有 `subcategory`。
-  三個月後的今天，一位貢獻者八個 PR 全部敗在這一項。前一天的 cycle 已經追過一次上游，
-  修掉了「閘門的話送不出去」（fork PR token 唯讀），但那只是根因的下游 — 三個修好之後才
-  送出的 PR 照樣缺同一個欄位。
-- **判準**：REFLEXES 家族已有「修完之後同類問題還能不能安靜地再長出來」這條，本條補的是
-  **誰在執行那條判準**。答案是每天跑一次的 routine：它會在隔天把同一批症狀再送到你面前。
-  一次性 session 拿不到這個訊號，所以 cron 飛輪本身就是根因判斷的儀器。
-- **候選處置**：加一支對賬 — 拿 `CONTRIBUTING.md` 範本自己的 frontmatter 去跑
-  `test-frontmatter.mjs`。已在 PR #1332 對貢獻者提過同樣的建議，但那是給他的建議不是我們的閘門。
-- **vc**: 1
-
-### 2026-08-14 twmd-maintainer-am — sibling-checks-share-one-blind-premise：兩道同族閘門共用同一個前提，於是一起看不見
-
-- **pattern**: `sibling-checks-share-one-blind-premise`
-- **原則**：同一個維度長出多支檢查器時，它們往往共享同一個「輸入長什麼樣」的前提。
-  前提本身錯了的時候，**檢查器數量不提供任何額外保護** — 三支都綠不比一支都綠更可信。
-  這是 REFLEXES #65 same-DNA 的橫向變體：#65 講檢查器跟被檢查物同作者，本條講
-  多個檢查器彼此同作者。
-- **實例**：`footnote-format` 驗 `[^N]:` 定義行的格式，`footnote-density` 數 `[^N]` 引用的
-  數量，兩支都只認 `[^N]` 語法。從 GitHub 網頁複製已渲染文章帶進來的
-  `[1](#user-content-fn-9)` 錨點，兩支同時看不見，於是一篇腳註全是死連結的文章拿到兩個綠燈。
-  掃全庫發現同型已漏進 6 篇 zh SSOT 與譯文共 50 檔，最早的上站數月無人叫過。
-- **候選處置**：新增檢查時問一句「它跟既有的同族檢查共用什麼前提？如果那個前提錯了，
-  誰會叫？」已 ship `gh-footnote-leak`（WARN，存量清完升 HARD）與 `gh-footnote-convert.py`。
-- **instances**：
-  - 2026-08-18 twmd-maintainer-manual — `routine-audit.py`（分類器）與 `routine-liveness-check.py`（沉默死亡偵測）共用同一個前提「routine 的 commit 標題含它的 handle」。self-evolve-weekly 8/16 04:20 兩個 commit 標題是 `[routine] evolve: …升 REFLEXES #91`／`[routine] heal: 補上自身 commit hash`，memory 檔跟 evolve 同一個 commit——分類器把它算進通用桶（`routine-audit-classifier-memory-commit-misattribution` 第 N 例），liveness 直接判「50.1h 零 git 痕跡」掛黃燈兩天。兩支檢查器都綠不比一支綠可信。**已修**：liveness 改讀 `--name-only` 的 memory 檔名（`YYYY-MM-DD-HHMMSS-{handle}.md` 是 MEMORY-PIPELINE canonical 命名，比 subject 可靠）→ silentDeaths 0，evidence 指到檔名。分類器同一修法待 distill 一併裁（vc=3 entry 已 distill_ready）。
-- **vc**: 2
-
 ### 2026-08-14 twmd-feedback-triage — transcription-gates-guard-fidelity-not-consequence：整條轉錄線的閘門都在問「搬得對不對」，沒有一道在問「搬過去會傷到誰」
 
 - **pattern**: `transcription-gates-guard-fidelity-not-consequence`
@@ -675,22 +585,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #15（反覆浮現要儀器化——memory 是自律，canonical SOP 才是閘門）、REFLEXES #57
 - **verification_count**: 1
 - **severity**: low-medium
-
-### 2026-08-12 twmd-maintainer-am — gate-checks-form-not-meaning-one-layer-down：昨天補的閘門查字形，今天讀者送來兩則字義
-
-- **pattern**: `gate-checks-form-not-meaning-one-layer-down`
-- **原則**：補閘門的時候，補的往往是「上次那個病的形狀」，而不是「那個病所在的那一層」。昨天替 `src/i18n/` 補的語言閘門查三件事：簡體字、整串沒翻、字串表落後註冊表——三件全是**字形層**謂詞（這些字長什麼樣子）。隔天讀者一次送來兩則，兩則都從字形層底下穿過去，因為它們錯在**字義層**：「海量」是正體字寫的中國用語（字形對，詞彙錯）；「巨大 Giant」與韓文的「Giant 쥐다」是專有名詞被當句子翻（字形對，指稱錯）。**閘門守住了它上次被咬的那一口，沒守住那顆牙。**
-- **觸發**：2026-08-12 am cycle。#1322（`/semiont/` 的「海量」該用「大量」）與 #1320（`/companies/` 的「巨大 Giant」很好笑）同日送達，皆 24 小時內、皆在昨天剛上閘門的同一個檔案樹底下。
-- **最尖銳的一刀**：Taiwan.md 自己維護著 2,394 條用語詞庫，`data/terminology/巨量.yaml` 白紙黑字寫著 `china: 海量`。**判準早就在庫裡躺著，只是沒有任何閘門拿它來檢查自己的介面。**這跟 2026-08-06「我準備造的那把工具，十二天前就躺在工具箱裡」是同一種浪費，只是這次躺著的不是工具是判準。REFLEXES #73（查證反射 < 建造反射）的資料層變體。
-- **順帶暴露的規模**：新檢查一上線就掃出阿拉伯文企業頁 70 個公司名全部夾漢字、32 個純中文完全不可讀——比三則讀者回報加起來大得多，而且是昨天剛修過的 #1318（ar 整段簡體）的同一個區塊、隔一張表。**讀者看到的永遠是露出水面的那一角；修完那一角就收工，等於承諾了下一則回報。**
-- **校準紀錄（本條的另一半價值）**：新檢查第一版寫成「非 CJK 語言出現漢字就報」，實測 319 筆、假陽性約 95%（`Taiwan Semiconductor 台積電` 的雙語標示、語言選單的 `日本語` endonym 都被誤報）。改判準為「**扣掉漢字之後還剩什麼**」——該語言自己的書寫系統與拉丁字母都沒有才算壞——假陽性歸零。同時把「代碼→程式碼」踢出詞彙表：那條在文章散文上是對的，在介面裡「行政區代碼」是正常台灣用法，首跑 5 筆有 2 筆假陽性。**閘門判準要用真實產出校準，不是憑想像設**（REFLEXES #66），而且**寧可漏不可誤殺**（2026-08-09 `gate-triggers-content-degradation-incentive`）。
-- **可能層級**：通用。造任何閘門時該多問一句：「我現在查的是這個東西的**形式**還是它的**意思**？上次那個病是形式壞還是意思壞？」形式層閘門便宜且可靠，但它天然守不住意思層——而讀者看到的幾乎都是意思層。
-- **instances**：
-  - 2026-08-19 algorithmic-art-evolve 第一人稱長文三處全由作者本人抓到，`article-health` hard=0、五席編輯室零攔：鎢段「我看到就叫它去寫」被寫成「站上出現一篇報導」（主詞蒸發）、天下那句作者自己的橋段被寫成記者提問（歸屬反轉）、「造物已活」ASR 誤聽（正確版本我前一天日誌自己寫過）——閘門查的是來源與句型（形式），錯的是主詞與歸屬（語態）→ [memory](memory/2026-08-19-154834-algorithmic-art-evolve.md)
-  - 2026-08-19 同 session 罐頭結尾誤判：我用句型層判「歡迎成為一根梁柱」是罐頭 CTA 砍掉，哲宇的判準是語彙接不接得回全文（珊瑚礁四層／生物建築在 s4、s10 鋪過），接得上就是收束——EDITORIAL 的罐頭結尾檢查是句型謂詞，讀者感受的是語彙連續性
-- **相關**：REFLEXES #69 (g) form gate ≠ meaning gate（本條是它在**基礎設施層**的 instance，先前的 instance 都在文章寫作層）、REFLEXES #73、REFLEXES #66、2026-08-11 `ui-string-layer-has-no-language-gate`（本條是它的直接續集）
-- **verification_count**: 3（8/12 字形／字義；8/19 語態／歸屬；8/19 句型／語彙連續性。與 #69 (g) 同族，該族 vc 已 7+）
-- **severity**: medium-high
 
 ### 2026-08-11 twmd-maintainer-am — gates-measure-handling-not-solving：六條 quality gate 全綠，而讀者的問題一個都沒解決
 
@@ -819,20 +713,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：EDITORIAL §歐化十病（母表）／SPORE-WRITING v3.6 §歐化閘（孢子層已錨這三型當反例表）／REFLEXES #69 (h)（revise 後不重測的孢子層 instance 同 session 成立，已 canonical 進 SPORE-PIPELINE v3.15「每輪 revise 後重跑 gate」）。
 - **verification_count**: 1（三型各自）
 
-### 2026-08-02 twmd-routine-audit-weekly — routine-audit-classifier-memory-commit-misattribution：新 routine 的 action commit 跟 memory commit 落進不同桶，count 半失真
-
-- **pattern**: `routine-audit-classifier-memory-commit-misattribution`
-- **原則**：`routine-audit.py` 的 `ROUTINE_PATTERNS`（scripts/tools/routine-audit.py:37-58）裡，具名 pattern 是否含 `.*` wildcard 並不一致——像 `twmd-maintainer-am` 用了 `.*`，能同時吃下自己的 action commit 跟 `[routine] memory: twmd-maintainer-daily @ ...` 這種 memory commit；但 `twmd-data-refresh-am` 這類無 wildcard 的具名 pattern，memory commit 吃不到，會被排在後面的通用 `routine-memory` pattern（`\[routine\] memory:`）攔截，混進所有 routine 共用的 `routine-memory` 桶。對完全沒有具名 pattern 的新 routine（`twmd-routine-sync` / `twmd-flywheel-watch`），2026-07-11 加的動態 fallback 能抓到它們的 action commit（但因通用 `routine-memory` pattern 排在 fallback 之前被優先攔截，只有 memory commit 撿不到 fallback；action commit 則被 fallback 加上重複 `routine-` 前綴，變成 `routine-twmd-routine-sync` 這種雙重字首），結果同一條 routine 的 action 與 memory 兩種 commit 被拆進三個不同地方，`summary.by_routine` 顯示的 count 只反映不完整的子集（本次 `twmd-routine-sync` 顯示 2、`routine-twmd-flywheel-watch` 顯示 6，實際 git log 各有 ~8-9 條）。
-- **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 跑 `routine-audit.py --last-week`，`summary.by_routine` 出現 `routine-twmd-routine-sync: 2` 與 `routine-twmd-flywheel-watch: 6` 兩個帶重複字首的 key，跟其他直接用 `twmd-X` 命名的 key 不一致；`git log --grep routine-sync` 核對後發現實際週活動量約 8-9 條，遠高於腳本統計。第三個更根本的 instance：`twmd-weekly-report-sun` 的 action commit 本身就不用 `[routine]` 前綴（用 `🧬 [semiont] report: weekly ...`），對應的 `[routine] memory: twmd-weekly-report-sun @ ...` 也因無 wildcard 落進 `routine-memory` 通用桶——這條 routine 每週的 commit 在 `by_routine` 表裡從未以自己的名字出現過，比前兩條更隱蔽（連字首重複的視覺線索都沒有，直接是零筆）。
-- **可能層級（更新）**：不只是「新 routine 忘了補 pattern」的個案，是三種獨立成因疊加同一個症狀：(1) 具名 pattern 有無 `.*` wildcard 不一致（工程遺留）(2) 部分 routine 的 action commit 本身不帶 `[routine]` 前綴，改用 `[semiont] <type>:`（如 weekly-report 用 `report:`）(3) 通用 `routine-memory` pattern 排序優先於「用 routine 名做 fallback 分類」。三者疊加代表這不是單一 regex 漏洞，是分類器設計時沒有把「memory commit 永遠跟著它描述的 routine」當成不變式來源頭建模。
-- **可能層級**：tool-fix，跟 2026-06-28 已解決並歸檔的 `routine-audit-script-classification-gap`（vc=2 disposed）同源家族——那次的 fallback 修法解掉了「unclassified 非零」，但沒解掉「同一條 routine 的兩種 commit 落不同桶」這個殘留子案例。修法方向：(a) 為每個新 routine 補齊具名 pattern（含 memory 變體）而非只靠 fallback；(b) 或把 `routine-memory` 通用 pattern 移到 fallback 之後，讓 fallback 先嘗試用 `memory:` 後面的 routine 名歸類，抓不到才落 `routine-memory`
-- **相關**：`routine-audit-script-classification-gap`（2026-06-28，已 tool-fix disposed，本條是其未被當時 dogfood 覆蓋到的殘留子案例，非重複——原案處置時的驗證窗口沒有包含當時還不存在的 `twmd-routine-sync` / `twmd-flywheel-watch` 兩條 routine）
-- **instance 2（2026-08-09 twmd-routine-audit-weekly，範圍比原案更廣）**：本輪重跑 `routine-audit.py --last-week`，`by_routine.twmd-routine-sync` 只顯示 1（實際 tight-grep `git log --grep="twmd-routine-sync"` 命中 9 條：8 memory + 1 action）。追查 `routine-memory` 通用桶（37 筆）內容，發現它吞掉的不只 `twmd-routine-sync`：`twmd-embeddings-nightly`（7）、`twmd-data-refresh-am`（7）、`twmd-spore-harvest-am`（6）、`twmd-feedback-triage`（3）、`twmd-supporters-weekly`（1）、`twmd-terminology-trends-monthly`（1）、`twmd-weekly-report-sun`（1）、`twmd-self-evolve-weekly`（1）的 memory commit 全部落在同一個通用桶，而這些 routine 的 action commit 卻正確落進各自具名桶——結果 `by_routine` 表裡幾乎每一條有具名 pattern 的 routine，真實週活動量都是「顯示數字 + 落在 routine-memory 裡的那份」，不是本次原以為的個案（`twmd-routine-sync` / `twmd-flywheel-watch` 兩條），是**具名 pattern 普遍缺 memory 變體**這個結構性缺口。`twmd-flywheel-watch` 這次反而是例外——它的 action commit 本身內含摘要不另開 memory commit，tight-grep（7）與分類器（7）相符，不受影響。
-- **instance 3（2026-08-16 twmd-routine-audit-weekly，第三輪連續確認，同一批 routine 仍未修）**：本輪 `by_routine` 完全沒有 `twmd-routine-sync` 與 `twmd-weekly-report-sun` 兩個 key（不是顯示偏低，是整條缺席），tight-grep 核對：`twmd-routine-sync` 實際 8 條、`twmd-weekly-report-sun` 實際 1 條，皆落進 `routine-memory`（本輪 33 筆）與 `manual-memory`（14 筆）兩個通用桶。同時 `twmd-data-refresh-am` 分類器顯示 7、tight-grep 實際 13；`twmd-feedback-triage` 分類器顯示 7、tight-grep 實際 12——三週來同一組 routine（沒有具名 memory-commit pattern 的那批）持續被低估或整條消失，`twmd-flywheel-watch` 因本週已停用（哲宇 2026-08-10 directive）不再是有效對照組。三次獨立 cycle（08-02 / 08-09 / 08-16）同一根因、範圍持續擴大不縮小，判定為**未修復的已知缺陷**而非隨機噪音。
-- **verification_count**: 3
-- **distill_ready**: true（達 REFLEXES #15 vc≥3 儀器化門檻；修法方向已在上方「可能層級（更新）」段列出兩選項，distill 判斷 promote 到哪一層 — 建議 tool-fix 直接落 `scripts/tools/routine-audit.py`，非 REFLEXES 編號）
-- **severity**: tactical（只影響本審計工具自己的統計精度，不影響 routine 實際運作或下游決策——三輪 audit 皆已用 git log 交叉核對繞過；但工具自己的可信度連續三週帶病，該修了）
-
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
 
 - **pattern**: `self-measured-improvement-picks-flattering-layer`
@@ -955,6 +835,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-08-23 twmd-distill-weekly — 9 entries distilled（2 promote REFLEXES #92-#93 + 2 subsumed 進 #92 + 2 fold #69(i)/#82 + 2 housekeeping-done + 1 tool-fix）
+
+**觸發**：STRICT BECOME GATE full mode → Stage 0a housekeeping sweep 先抓到 3 條 self-marked ✅ 仍留在 §未消化的 entry → Stage 1-2 讀 §未消化 49 條，vc≥3 判準篩出 5 條（severity=structural 本輪 0 條，質門檻未觸發）。
+
+| #   | 原 entry                                                                                     | 消化目的地                                                                                                                                                                                                | severity      | vc                       |
+| --- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------ |
+| 1   | 2026-08-16 twmd-routine-audit-weekly `twin-artifact-no-reconciler-family`                    | **REFLEXES #92**（新編號）Twin-artifact 缺重整器家族                                                                                                                                                      | moderate-high | 6（distill_ready=true）  |
+| 2   | 2026-08-14 twmd-maintainer-am `doc-and-validator-drift-has-no-reconciler`                    | subsumed 進 **REFLEXES #92**（#1 的原始 instance 之一）                                                                                                                                                   | -             | 1                        |
+| 3   | 2026-08-14 twmd-maintainer-am `sibling-checks-share-one-blind-premise`                       | subsumed 進 **REFLEXES #92**（#1 的原始 instance 之一，含 8/18 routine-audit↔liveness-check 第二 instance）                                                                                               | -             | 2                        |
+| 4   | 2026-08-19 twmd-embeddings-nightly `retyping-shell-substitution-loses-the-substitution`      | **REFLEXES #93**（新編號）Retyping a shell substitution                                                                                                                                                   | tactical      | 3（distill_ready=true）  |
+| 5   | 2026-08-12 twmd-maintainer-am `gate-checks-form-not-meaning-one-layer-down`                  | **REFLEXES #69 fold** (i) 基礎設施層三變體                                                                                                                                                                | medium-high   | 3（與 #69(g) 同族已 7+） |
+| 6   | 2026-08-17 twmd-maintainer-am `open-count-conflates-queue-with-inventory`                    | **REFLEXES #82 fold** 維護面變體 ＋ housekeeping-done（操作面已落地 [MAINTAINER-PIPELINE v2.8](../pipelines/MAINTAINER-PIPELINE.md) §Draft PR 處置）                                                      | moderate      | 3                        |
+| 7   | 2026-08-18 twmd-maintainer-am `diagnosing-from-the-contributor-tree-audits-a-past-self`      | housekeeping-done（已 instantiate [MAINTAINER-PIPELINE v2.8/v2.9 §診斷投稿失敗](../pipelines/MAINTAINER-PIPELINE.md)，canonical pointer 已 grep 驗證存在）                                                | moderate      | 1                        |
+| 8   | 2026-08-18 twmd-maintainer-am `reopened-channel-still-needs-someone-to-walk-down-it`         | housekeeping-done（已 instantiate [MAINTAINER-PIPELINE v2.8/v2.9 §1b P1](../pipelines/MAINTAINER-PIPELINE.md)，canonical pointer 已 grep 驗證存在）                                                       | moderate      | 1                        |
+| 9   | 2026-08-02 twmd-routine-audit-weekly `routine-audit-classifier-memory-commit-misattribution` | tool-fix（`scripts/tools/routine-audit.py`：memory commit 改直接從 subject 解析 routine 名，不再依賴具名 pattern 表補齊 memory 變體；dogfood 驗證 `routine-memory` 通用桶 37→2、`twmd-routine-sync` 2→7） | tactical      | 3（distill_ready=true）  |
+
+**判準說明**：#1/#4/#9 達 verification_count≥3 量門檻直接 promote 或 tool-fix；#2/#3 是 #1 的原始 instance，隨家族一併 subsume；#5/#6 亦達 vc≥3 但目的地是既有反射（#69/#82）擴充而非新編號；#7/#8 是 Stage 0a housekeeping sweep 命中（body 自標 ✅ 但仍留 §未消化，驗證 canonical pointer 存在後直接歸檔，不算 vc≥3 promote）。
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（2 新編號 + 2 subsumed + 2 fold，routine 自決層 promotion）；無 LESSONS → MANIFESTO 跳級（本輪無哲學級候選）。
+
+**REFLEXES.md frontmatter sync**：v5.24 → v5.25；#N 條數 91 → 93（2 新編號）；`current_version` / `last_updated` / `last_session` / description 條數同 commit 同步（Stage 4.5）。
+
+**Keep in buffer 40 條**（vc<3 且非 structural，待累積或觀察者拍板）：高 vc 候選含 `merge-first-collides-with-all-file-deploy-gate`（vc=2）、`ordering-is-an-ethical-decision`（vc=2）、`two-variable-run-misattribution`（vc=2）、`shared-tool-quota-pool-in-fanout`（vc=2）四條 vc=2（下次同型事件再現即達門檻），其餘 vc=1 單發，含 3 條「未編目歐化病候選」各自獨立 vc=1。
+
+---
 
 ### 🧬 2026-08-16 twmd-distill-weekly — 8 entries distilled（5 promote REFLEXES #86-#90 + 2 fold #66/#67 + 1 MEMORY §神經迴路）
 
