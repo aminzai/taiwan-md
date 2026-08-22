@@ -15,10 +15,12 @@ rationale:
   where_it_hedges: '童年記憶採策展式轉述，不宣稱每位乘客都有相同經驗。'
   whos_pushing_back: '捷運分流、營運公司更替與路線調整，讓 307 的「公車之王」稱號必須放回年份理解。'
 readingTime: 8
+curation: incubating
 ---
+
 ![2013 年行駛 307 路線的首都客運 027-U5](https://commons.wikimedia.org/wiki/Special:FilePath/%E9%A6%96%E9%83%BD%E5%AE%A2%E9%81%8B_027-U5_307.jpg?width=1280)
 
-*圖：首都客運 027-U5 行駛 307 路線，2013 年。作者「捷利」，CC BY-SA 4.0。圖片來自 Wikimedia Commons 檔案頁。[^8]*
+_圖：首都客運 027-U5 行駛 307 路線，2013 年。作者「捷利」，CC BY-SA 4.0。圖片來自 Wikimedia Commons 檔案頁。[^8]_
 
 [檔案頁](https://commons.wikimedia.org/wiki/File:%E9%A6%96%E9%83%BD%E5%AE%A2%E9%81%8B_027-U5_307.jpg)
 
@@ -107,7 +109,7 @@ readingTime: 8
 
 ![首都客運 EAA-150 行駛 307 路線](https://commons.wikimedia.org/wiki/Special:FilePath/%E9%A6%96%E9%83%BD%E5%AE%A2%E9%81%8BEAA-150_307.jpg?width=1280)
 
-*圖：首都客運 EAA-150 行駛 307 路線。作者「捷利」，CC BY-SA 4.0。圖片採 Wikimedia Commons 檔案頁 的自由授權熱網址嵌入，未下載圖片。[^9]*
+_圖：首都客運 EAA-150 行駛 307 路線。作者「捷利」，CC BY-SA 4.0。圖片採 Wikimedia Commons 檔案頁 的自由授權熱網址嵌入，未下載圖片。[^9]_
 
 [檔案頁](https://commons.wikimedia.org/wiki/File:%E9%A6%96%E9%83%BD%E5%AE%A2%E9%81%8BEAA-150_307.jpg)
 
