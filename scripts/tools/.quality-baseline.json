@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-08-21T22:12:14Z",
-  "total": 1059,
-  "flagged": 663,
+  "timestamp": "2026-08-22T22:12:31Z",
+  "total": 1089,
+  "flagged": 691,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -268,6 +268,11 @@
       "file": "economy/台灣國際貿易政策.md",
       "score": 4,
       "reasons": "未人工審核; 分號5個; 稀薄段落×7"
+    },
+    {
+      "file": "economy/中壢.md",
+      "score": 7,
+      "reasons": "空洞詞5個; 塑膠句4個; 英式短句開場6處; 稀薄段落×6"
     },
     {
       "file": "economy/台灣企業：義美食品.md",
@@ -770,6 +775,11 @@
       "reasons": "未人工審核; 塑膠句2個; 英式短句開場4處; 無腳註"
     },
     {
+      "file": "lifestyle/台灣高鐵.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句7個; 英式短句開場3處"
+    },
+    {
       "file": "lifestyle/保齡球.md",
       "score": 6,
       "reasons": "未人工審核; 塑膠句1個; 教科書開場; 稀薄段落×3"
@@ -845,6 +855,11 @@
       "reasons": "空洞詞7個; 未人工審核; 塑膠句5個"
     },
     {
+      "file": "lifestyle/307taipeibus.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句3個; 稀薄段落×2"
+    },
+    {
       "file": "lifestyle/台灣騎樓文化與街景.md",
       "score": 6,
       "reasons": "年份僅0個; 塑膠句4個; 破折號7個"
@@ -885,6 +900,11 @@
       "reasons": "未人工審核; 塑膠句1個; 英式短句開場7處"
     },
     {
+      "file": "lifestyle/六福村.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句4個; 稀薄段落×2"
+    },
+    {
       "file": "society/學習貧窮.md",
       "score": 6,
       "reasons": "空洞詞9個; 未人工審核; 連續bullet4行; 稀薄段落×2"
@@ -908,6 +928,11 @@
       "file": "society/台北吸菸室.md",
       "score": 8,
       "reasons": "空洞詞16個; 未人工審核; 分號10個; 英式短句開場7處"
+    },
+    {
+      "file": "society/賽鴿.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句4個; 英式短句開場8處"
     },
     {
       "file": "society/社區大學黃武雄.md",
@@ -1090,6 +1115,11 @@
       "reasons": "空洞詞5個; 塑膠句1個; 稀薄段落×4"
     },
     {
+      "file": "society/義消.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句2個; 英式短句開場7處"
+    },
+    {
       "file": "society/檳榔.md",
       "score": 13,
       "reasons": "年份僅0個; 未人工審核; 塑膠句4個; 後段清單堆砌60%; 稀薄段落×1; 品質衰退前20%後6%"
@@ -1268,6 +1298,11 @@
       "file": "society/台灣再生醫療雙法沿革從業人員告白.md",
       "score": 5,
       "reasons": "空洞詞7個; 未人工審核; 分號9個; 英式短句開場3處"
+    },
+    {
+      "file": "society/民主進步黨成立.md",
+      "score": 5,
+      "reasons": "空洞詞13個; 未人工審核; 稀薄段落×2"
     },
     {
       "file": "about/台灣官方網站資源.md",
@@ -1505,6 +1540,11 @@
       "reasons": "空洞詞13個; 未人工審核; 塑膠句3個; 分號10個"
     },
     {
+      "file": "people/3度C.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句6個"
+    },
+    {
       "file": "people/Ceylan.md",
       "score": 4,
       "reasons": "空洞詞7個; 未人工審核; 塑膠句2個; 分號6個"
@@ -1690,6 +1730,11 @@
       "reasons": "空洞詞6個; 塑膠句3個; 破折號8個; 套路結尾; 稀薄段落×1"
     },
     {
+      "file": "people/蔡黑皮.md",
+      "score": 10,
+      "reasons": "未人工審核; 塑膠句3個; 破折號8個; 分號10個; 英式短句開場7處; 稀薄段落×2"
+    },
+    {
       "file": "people/朴星垠.md",
       "score": 5,
       "reasons": "未人工審核; 塑膠句2個; 分號4個; 稀薄段落×3"
@@ -1708,6 +1753,11 @@
       "file": "people/陳建年.md",
       "score": 6,
       "reasons": "未人工審核; 破折號14個; 分號5個; 英式短句開場3處; 稀薄段落×1"
+    },
+    {
+      "file": "people/林佳辰.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句5個; 稀薄段落×1"
     },
     {
       "file": "people/杜潘芳格.md",
@@ -1766,8 +1816,8 @@
     },
     {
       "file": "people/肌肉山山.md",
-      "score": 7,
-      "reasons": "年份僅0個; 僅2個URL; 未人工審核; 稀薄段落×3"
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句6個; 英式短句開場3處"
     },
     {
       "file": "people/呂冠緯.md",
@@ -1798,6 +1848,11 @@
       "file": "people/廖添丁.md",
       "score": 4,
       "reasons": "空洞詞7個; 未人工審核; 塑膠句4個"
+    },
+    {
+      "file": "people/Cheap.md",
+      "score": 6,
+      "reasons": "空洞詞7個; 未人工審核; 塑膠句3個; 英式短句開場6處"
     },
     {
       "file": "people/林昶佐.md",
@@ -1835,9 +1890,19 @@
       "reasons": "空洞詞7個; 未人工審核; 塑膠句3個; 分號5個; 英式短句開場6處"
     },
     {
+      "file": "people/丁日昌.md",
+      "score": 6,
+      "reasons": "未人工審核; 塑膠句5個; 英式短句開場7處"
+    },
+    {
       "file": "people/魏如萱.md",
       "score": 4,
       "reasons": "塑膠句1個; 破折號14個; 分號4個"
+    },
+    {
+      "file": "people/八炯.md",
+      "score": 7,
+      "reasons": "空洞詞6個; 未人工審核; 塑膠句5個; 英式短句開場6處"
     },
     {
       "file": "people/蔡阿嘎.md",
@@ -1908,6 +1973,11 @@
       "file": "people/蔡瑞月.md",
       "score": 5,
       "reasons": "未人工審核; 塑膠句8個; 英式短句開場5處"
+    },
+    {
+      "file": "people/林心如.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句8個"
     },
     {
       "file": "people/蔡健雅.md",
@@ -2045,6 +2115,11 @@
       "reasons": "空洞詞6個; 未人工審核; 塑膠句3個; 英式短句開場4處"
     },
     {
+      "file": "people/陳幸妤.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句1個; 分號6個; 稀薄段落×1"
+    },
+    {
       "file": "people/葉國一.md",
       "score": 4,
       "reasons": "空洞詞5個; 塑膠句1個; 分號7個; 英式短句開場3處"
@@ -2073,6 +2148,11 @@
       "file": "people/李梅樹.md",
       "score": 4,
       "reasons": "未人工審核; 分號4個; 後段清單堆砌31%"
+    },
+    {
+      "file": "people/鐵牛杰哥.md",
+      "score": 9,
+      "reasons": "未人工審核; 塑膠句2個; 破折號11個; 分號9個; 英式短句開場3處; 稀薄段落×2"
     },
     {
       "file": "people/周天成.md",
@@ -2120,6 +2200,11 @@
       "reasons": "空洞詞5個; 未人工審核; 分號6個; 稀薄段落×1"
     },
     {
+      "file": "people/韋宗成.md",
+      "score": 6,
+      "reasons": "未人工審核; 塑膠句14個; 英式短句開場3處"
+    },
+    {
       "file": "people/鄭成功.md",
       "score": 8,
       "reasons": "未人工審核; 塑膠句2個; 破折號12個; 英式短句開場5處; 後段清單堆砌37%; 無腳註"
@@ -2158,6 +2243,11 @@
       "file": "people/徐熙媛.md",
       "score": 5,
       "reasons": "年份4個; 未人工審核; 破折號6個; 稀薄段落×4"
+    },
+    {
+      "file": "people/聖凱師.md",
+      "score": 6,
+      "reasons": "年份3個; 未人工審核; 塑膠句4個; 英式短句開場3處; 稀薄段落×1"
     },
     {
       "file": "people/廖鴻基.md",
@@ -2520,6 +2610,16 @@
       "reasons": "空洞詞6個; 未人工審核; 塑膠句10個; 分號10個; 稀薄段落×1"
     },
     {
+      "file": "history/1935新竹臺中地震.md",
+      "score": 4,
+      "reasons": "未人工審核; 英式短句開場4處; 後段清單堆砌35%"
+    },
+    {
+      "file": "history/瘧疾根除.md",
+      "score": 6,
+      "reasons": "空洞詞14個; 未人工審核; 塑膠句1個; 英式短句開場6處"
+    },
+    {
       "file": "history/綠島監獄.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句2個; 稀薄段落×3"
@@ -2558,6 +2658,11 @@
       "file": "history/戒嚴時期.md",
       "score": 4,
       "reasons": "後段清單堆砌36%; 稀薄段落×2"
+    },
+    {
+      "file": "history/台灣漁業起源.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句1個; 英式短句開場8處"
     },
     {
       "file": "history/心戰.md",
@@ -2755,6 +2860,11 @@
       "reasons": "空洞詞5個; 未人工審核; 塑膠句9個"
     },
     {
+      "file": "geography/林安泰古厝.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句4個; 稀薄段落×1"
+    },
+    {
       "file": "geography/台灣板塊運動與地震活動.md",
       "score": 4,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 分號4個"
@@ -2920,6 +3030,11 @@
       "reasons": "塑膠句2個; 後段清單堆砌34%; 無腳註"
     },
     {
+      "file": "geography/台中捷運.md",
+      "score": 5,
+      "reasons": "空洞詞7個; 未人工審核; 塑膠句8個"
+    },
+    {
       "file": "geography/台灣河川系統與水文特色.md",
       "score": 5,
       "reasons": "未人工審核; 分號12個; 後段清單堆砌32%"
@@ -2938,6 +3053,11 @@
       "file": "geography/地形與地質.md",
       "score": 13,
       "reasons": "年份僅0個; 空洞詞9個; 未人工審核; 塑膠句2個; 後段清單堆砌55%; 稀薄段落×3; 無腳註; 假推論密度×2"
+    },
+    {
+      "file": "geography/文湖線.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句4個; 英式短句開場8處"
     },
     {
       "file": "geography/台中市.md",
@@ -2963,6 +3083,11 @@
       "file": "geography/水往上流.md",
       "score": 5,
       "reasons": "未人工審核; 套路結尾; 稀薄段落×5"
+    },
+    {
+      "file": "geography/板南線.md",
+      "score": 5,
+      "reasons": "空洞詞6個; 未人工審核; 塑膠句5個"
     },
     {
       "file": "geography/台灣溫泉地景.md",
@@ -3033,6 +3158,11 @@
       "file": "culture/台灣手語.md",
       "score": 8,
       "reasons": "空洞詞7個; 未人工審核; 塑膠句6個; 分號10個; 稀薄段落×1"
+    },
+    {
+      "file": "culture/原住民織布.md",
+      "score": 5,
+      "reasons": "空洞詞6個; 未人工審核; 塑膠句2個; 英式短句開場5處; 稀薄段落×1"
     },
     {
       "file": "culture/台灣原住民族16族文化地圖.md",
@@ -3163,6 +3293,11 @@
       "file": "culture/農曆七月.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句3個; 分號4個"
+    },
+    {
+      "file": "culture/國家圖書館.md",
+      "score": 5,
+      "reasons": "空洞詞9個; 塑膠句6個"
     },
     {
       "file": "culture/台灣聲景.md",
@@ -3318,6 +3453,11 @@
       "file": "culture/國立臺灣博物館.md",
       "score": 5,
       "reasons": "空洞詞6個; 未人工審核; 塑膠句3個; 分號6個"
+    },
+    {
+      "file": "culture/彈珠檯.md",
+      "score": 5,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句4個; 英式短句開場3處"
     }
   ]
 }

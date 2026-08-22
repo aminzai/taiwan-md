@@ -1,8 +1,8 @@
 {
-  "_generated": "2026-08-22T06:40:05+08:00",
+  "_generated": "2026-08-23T06:11:35+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 164,
+    "spores": 166,
     "articles": 77,
     "withMetrics": 154
   },
@@ -9750,6 +9750,46 @@
           "shares": 1
         }
       ]
+    },
+    {
+      "id": 175,
+      "slug": "用語保存副詞層",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-08-23",
+      "url": "https://www.threads.com/@taiwandotmd/post/DcWa9mnI4vJ",
+      "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 176,
+      "slug": "用語保存副詞層",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-08-23",
+      "url": "https://x.com/taiwandotmd/status/2091212353874678264",
+      "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {

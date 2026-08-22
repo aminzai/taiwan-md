@@ -1,7 +1,660 @@
 {
-  "generatedAt": "2026-08-21T22:12:04.279Z",
+  "generatedAt": "2026-08-22T22:12:21.118Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "267714509f778204a47100815a2c8ec37ca83447",
+      "date": "2026-08-23T05:38:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-23 05:37 — 三層對賬第三十輪，連續第十二輪零漂移",
+      "articles": []
+    },
+    {
+      "hash": "7bb7e109ad748e9437a9649e186a62053055dbff",
+      "date": "2026-08-23T05:37:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-23 05:36 — 12 語重建 9,838 向量全綠，本機端點無 fallback",
+      "articles": []
+    },
+    {
+      "hash": "66885f4f9c1cf7c6c2d980c949631f7241bc6082",
+      "date": "2026-08-23T05:35:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-23 05:35",
+      "articles": []
+    },
+    {
+      "hash": "df30ec31393cb4d5751925a5c06c85bef17d502d",
+      "date": "2026-08-23T04:19:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 補回上個 commit memory 裡的 commit hash 佔位符",
+      "articles": []
+    },
+    {
+      "hash": "5917195369e60ebf2ca8b78c1ad072865a29e2d7",
+      "date": "2026-08-23T04:19:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: canonical 版本降版尺真實落地，REFLEXES #92 修法 (a) 從候選轉 ship",
+      "articles": []
+    },
+    {
+      "hash": "e43762aef9da0ff76e246d7567bd2ea6fcba2812",
+      "date": "2026-08-23T03:31:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 脈搏 cron 停用與 backup branch 刪除，兩條 handoff 收攏",
+      "articles": []
+    },
+    {
+      "hash": "d4bdc740897682f8d84ad0f5b7d53916a0b04248",
+      "date": "2026-08-23T03:23:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] distill: 9 條教訓消化，twin-artifact 家族升 #92，修好審計工具自己那個病",
+      "articles": []
+    },
+    {
+      "hash": "2aa6e16c933265577968a4dc202847d7f852377a",
+      "date": "2026-08-23T03:15:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: rawlink 全家族修復＋筆電分歧解剖的收官紀錄",
+      "articles": []
+    },
+    {
+      "hash": "b8b64142cb09262da4cdf8a909d292ad21717744",
+      "date": "2026-08-23T03:11:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 功能頁的 .md 按鈕不再指向不存在的分類 Hub 檔",
+      "articles": []
+    },
+    {
+      "hash": "397f614956c5db981c1bef68efae312877185a33",
+      "date": "2026-08-23T03:06:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 撿回困在筆電裡的兩件真資料（演算藝術 projection 編修＋17 行 making-of）",
+      "articles": []
+    },
+    {
+      "hash": "9813c0a63d98e2c3a5a62fdc6a2cdfd0e0cdea5d",
+      "date": "2026-08-23T02:50:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 給十二種語言蓋搜尋頁，發現其中三種從來聽不見自己",
+      "articles": []
+    },
+    {
+      "hash": "b0078d70eabac543bd1f45ad63e0fce5f4947ae6",
+      "date": "2026-08-23T02:45:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] search: 完整搜尋結果頁 /search 十二語上線（issue #1496）",
+      "articles": []
+    },
+    {
+      "hash": "6c93d18268dbe54421ef50b7fb32f30ce2ededf0",
+      "date": "2026-08-23T02:45:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] search: 搜尋引擎開出 /search 頁的契約，popup 長出完整結果入口",
+      "articles": []
+    },
+    {
+      "hash": "6f9b7793cdcd1236fa8d2adc1d6b74d298a52a67",
+      "date": "2026-08-23T02:45:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] search: /search 頁 12 語介面字串上線",
+      "articles": []
+    },
+    {
+      "hash": "ea3dc7c14b3065a336bc4a222fdac36219e8380d",
+      "date": "2026-08-23T02:44:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] search: 索引長出日期欄位，並讓阿拉伯文俄文印地文的母語詞第一次進索引",
+      "articles": []
+    },
+    {
+      "hash": "8da4d0b246554a2d0993ba1eecaf966fcd47ab88",
+      "date": "2026-08-23T02:25:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] design: /search 完整搜尋結果頁設計報告（issue #1496，Mode 4 藍圖先行）",
+      "articles": []
+    },
+    {
+      "hash": "7725311dca00ee2040d1997d204e3396fd6515de",
+      "date": "2026-08-23T02:23:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory+diary: 這週的三個分數往下，沒有一個是因為東西壞了",
+      "articles": []
+    },
+    {
+      "hash": "15da20fe3a6a8a37228313f3d53dac2143c33f56",
+      "date": "2026-08-23T02:19:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] report: W34 週體檢 — 門開到最大的一週，三個分數因此往下",
+      "articles": []
+    },
+    {
+      "hash": "0d47779c5aa1a4890f619b662146b6836e797346",
+      "date": "2026-08-23T02:13:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: roadmap 收進 W34 體檢的三個新發現",
+      "articles": []
+    },
+    {
+      "hash": "fa7059f7a56de085ed8738b95cfde947a2380cb5",
+      "date": "2026-08-23T02:11:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 姊姊跟弟弟的條目現在看得見對方",
+      "articles": [
+        {
+          "url": "/people/陳幸妤",
+          "name": "陳幸妤"
+        },
+        {
+          "url": "/people/陳致中",
+          "name": "陳致中"
+        }
+      ]
+    },
+    {
+      "hash": "eb1634ba6b81dba0df2c7d09824891be7afecb33",
+      "date": "2026-08-23T02:10:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 補登三篇走完產線卻沒進完成日誌的文章",
+      "articles": []
+    },
+    {
+      "hash": "5d14dbfa9e9cf97ea2a5f8135b563979c6f7d75b",
+      "date": "2026-08-23T01:15:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore: #175/#176 用語保存副詞層上線，兩平台哲宇親發",
+      "articles": []
+    },
+    {
+      "hash": "b5b2c6d4731b023b7e6bade9aea64e12710293e8",
+      "date": "2026-08-23T01:06:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore: #175 用語保存副詞層公告草稿，等哲宇過目",
+      "articles": []
+    },
+    {
+      "hash": "49472184fa3b578fb9b378bb973e8214f1732685",
+      "date": "2026-08-23T01:21:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 支語清單十個查得到，而我只擋了想得到的那扇門",
+      "articles": []
+    },
+    {
+      "hash": "725aa023ef7d0aa27900ba2180cf6ce72c2485fb",
+      "date": "2026-08-23T01:15:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W34 三源交叉 + 4 條候選（出口關閉）",
+      "articles": []
+    },
+    {
+      "hash": "aff0759a2891fdd0990c2f37e1e4cef81d284aac",
+      "date": "2026-08-22T11:44:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] queue: 句構級的語言滲透要不要開容器，進待決 #38",
+      "articles": []
+    },
+    {
+      "hash": "37ae99833b7a9b914a7e1c8069d3e8ad4a501c93",
+      "date": "2026-08-22T11:43:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] terminology: 從一則 Threads 貼文查到副詞層，補 15 條詞條與轉換器的取代開關",
+      "articles": []
+    },
+    {
+      "hash": "9743cfb0d4421584bb4ed02d4b6b7c8480cb5407",
+      "date": "2026-08-22T09:26:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 補跑斷鏈閘門，把收官表那格從「未跑」改成實測值",
+      "articles": []
+    },
+    {
+      "hash": "ff0bae714d695a1ab0780f45affa85bf9a0e5f8a",
+      "date": "2026-08-22T09:24:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-22 09:22 — 36 篇上站，順手把一道站錯樹的閘門修對",
+      "articles": []
+    },
+    {
+      "hash": "b12fbf56899bc610d19928f6419b00503207c3f5",
+      "date": "2026-08-22T09:13:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 兩篇漁業史互相看得見對方",
+      "articles": [
+        {
+          "url": "/history/台灣漁業現代化",
+          "name": "台灣漁業現代化"
+        }
+      ]
+    },
+    {
+      "hash": "d5306920e7ca7e22a554346c7f42f9d9f50dd296",
+      "date": "2026-08-22T09:13:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1545 from idlccp1984/patch-406381",
+      "articles": []
+    },
+    {
+      "hash": "ad6842824ea18d10f256dcf3205cae61fb2510ae",
+      "date": "2026-08-22T09:13:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1545）：檔名改成台灣漁業起源（原檔名讀不通）、補一條連回台灣漁業現代化的延伸閱讀、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/history/台灣漁業起源",
+          "name": "台灣漁業起源"
+        }
+      ]
+    },
+    {
+      "hash": "13c7fbcdb3d1a540a721f2c507e26e958169ed65",
+      "date": "2026-08-22T09:11:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 今晨合併的二十篇投稿補上查證狀態，先掛「進化中」再讓讀者看見",
+      "articles": [
+        {
+          "url": "/culture/國家圖書館",
+          "name": "國家圖書館"
+        },
+        {
+          "url": "/geography/文湖線",
+          "name": "文湖線"
+        },
+        {
+          "url": "/geography/板南線",
+          "name": "板南線"
+        },
+        {
+          "url": "/geography/林安泰古厝",
+          "name": "林安泰古厝"
+        }
+      ]
+    },
+    {
+      "hash": "66caafb630e5cacca744b9bfc4da2f1717af30d5",
+      "date": "2026-08-22T09:09:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1544 from idlccp1984/patch-236571",
+      "articles": []
+    },
+    {
+      "hash": "949c4174bfe98081cfca67a39155bc084805cf69",
+      "date": "2026-08-22T09:09:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1537 from idlccp1984/patch-211620",
+      "articles": []
+    },
+    {
+      "hash": "ce2ea909b2d18f9f5da1ef75a54a199661a5c5a3",
+      "date": "2026-08-22T09:09:33+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1548 from idlccp1984/patch-337582",
+      "articles": []
+    },
+    {
+      "hash": "1b5f555f429ad66d295e8c1fe322f083900247f0",
+      "date": "2026-08-22T09:09:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1559 from idlccp1984/patch-155550",
+      "articles": []
+    },
+    {
+      "hash": "5fe40c16a354bf41ebc0c94710492c7dfc4f2f55",
+      "date": "2026-08-22T09:09:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1471 from idlccp1984/patch-910180",
+      "articles": []
+    },
+    {
+      "hash": "7d3fb081bc80d51cd838294a9bc091cfe39a06e7",
+      "date": "2026-08-22T09:09:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1466 from idlccp1984/patch-888431",
+      "articles": []
+    },
+    {
+      "hash": "8958a5ed9ad93a9c94d2cea01e1fc1d5f726bdea",
+      "date": "2026-08-22T09:08:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1559）：檔案搬進 History/ 資料夾（原本少一層路徑）、三張 CC BY 3.0 國家文化記憶庫照片收進庫、移除一張 CC BY-NC 授權與站方 CC BY-SA 不相容的照片",
+      "articles": [
+        {
+          "url": "/history/1935新竹臺中地震",
+          "name": "1935新竹臺中地震"
+        }
+      ]
+    },
+    {
+      "hash": "0f1c2eb1b494c1308e5cb7be1e50ffc3ae3c3533",
+      "date": "2026-08-22T09:06:47+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1483 from idlccp1984/patch-538495",
+      "articles": []
+    },
+    {
+      "hash": "cbf5d50a1ae55b05b93ea8a00184bcd4af7a96f1",
+      "date": "2026-08-22T09:06:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1538 from idlccp1984/patch-81931",
+      "articles": []
+    },
+    {
+      "hash": "50d221f018f0159852ba860b327bcee293a02aa7",
+      "date": "2026-08-22T09:06:41+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1525 from idlccp1984/patch-100014",
+      "articles": []
+    },
+    {
+      "hash": "6774cb1b8d51cb15b5630afca6d4eadf9c1d8ec5",
+      "date": "2026-08-22T09:06:37+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1550 from idlccp1984/patch-414422",
+      "articles": []
+    },
+    {
+      "hash": "8c994e5b37bc3a785d01d78b3e671b771f709fb2",
+      "date": "2026-08-22T09:06:34+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1558 from idlccp1984/patch-771810",
+      "articles": []
+    },
+    {
+      "hash": "b2a63e2bff58e5258cb811d777f761d6ac1dc0e6",
+      "date": "2026-08-22T09:06:31+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1561 from idlccp1984/patch-446218",
+      "articles": []
+    },
+    {
+      "hash": "17ac49eb5beb606c8727033c2416858fb74e304b",
+      "date": "2026-08-22T09:06:27+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1565 from idlccp1984/patch-91844",
+      "articles": []
+    },
+    {
+      "hash": "b27be7f8bbf6711dda11113cfe3444258ba065fc",
+      "date": "2026-08-22T09:05:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1471）：破折號 33 處依 MANIFESTO §11.2 改標點降到 11 處、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/people/蔡黑皮",
+          "name": "蔡黑皮"
+        }
+      ]
+    },
+    {
+      "hash": "4e74495ea2b6b78012e88bc789e45539d689353d",
+      "date": "2026-08-22T09:05:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1466）：破折號 25 處依 MANIFESTO §11.2 改標點降到 13 處、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/people/鐵牛杰哥",
+          "name": "鐵牛杰哥"
+        }
+      ]
+    },
+    {
+      "hash": "9830f442a15835bcd0ca40843489b4b62b56e446",
+      "date": "2026-08-22T09:03:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1561）：移除一張沒進庫的國家文化記憶庫配圖（文字引用與腳註保留）、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/culture/彈珠檯",
+          "name": "彈珠檯"
+        }
+      ]
+    },
+    {
+      "hash": "828e5bc50a97f461ff658f301fb062958d8658c1",
+      "date": "2026-08-22T09:02:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1483）：全形分號 28 處拆成句號、補 subcategory 交通與移動／featured、category 對齊路徑",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣高鐵",
+          "name": "台灣高鐵"
+        }
+      ]
+    },
+    {
+      "hash": "2414d550bfed973bb4dbbdd0520fee4eb70dacde",
+      "date": "2026-08-22T09:00:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1538）：作者欄改集體署名、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/politics/原住民族正名",
+          "name": "原住民族正名"
+        }
+      ]
+    },
+    {
+      "hash": "e64a7fba4bedd7cfa45cf7ca6c6dafb8a4c9f630",
+      "date": "2026-08-22T08:58:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1525）：腳註格式八處補說明、category 對齊路徑、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/people/3度C",
+          "name": "3度C"
+        }
+      ]
+    },
+    {
+      "hash": "65acd39dcca65f421004724a1664209e87e44a1a",
+      "date": "2026-08-22T08:55:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1550）：category 欄位改回 Geography 對齊路徑、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/geography/台中捷運",
+          "name": "台中捷運"
+        }
+      ]
+    },
+    {
+      "hash": "d48e11006315326b8570598a7dd0da18d286e0c1",
+      "date": "2026-08-22T08:55:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1558）：category 欄位改回 People 對齊路徑、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/people/丁日昌",
+          "name": "丁日昌"
+        }
+      ]
+    },
+    {
+      "hash": "e0419e1848b0af76d1374660c7dcf9195afde9f9",
+      "date": "2026-08-22T08:55:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1565）：category 欄位改回 Economy 對齊路徑、查證狀態標 incubating",
+      "articles": [
+        {
+          "url": "/economy/中壢",
+          "name": "中壢"
+        }
+      ]
+    },
+    {
+      "hash": "8659f4f79a35bdf5d6762ec6c4357586c567e10d",
+      "date": "2026-08-22T08:51:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1564 from idlccp1984/patch-839512",
+      "articles": []
+    },
+    {
+      "hash": "fdb7a765bd6e8d85c8e084bb6e853f8c014e80ba",
+      "date": "2026-08-22T08:51:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1563 from idlccp1984/patch-989224",
+      "articles": []
+    },
+    {
+      "hash": "dccf54b0ca007fad0add293a76f2f08ad2448c5a",
+      "date": "2026-08-22T08:51:49+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1562 from idlccp1984/patch-75293",
+      "articles": []
+    },
+    {
+      "hash": "884deac2d2091a1178faddf0bdf6c29c77e79c50",
+      "date": "2026-08-22T08:51:45+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1560 from idlccp1984/patch-407541",
+      "articles": []
+    },
+    {
+      "hash": "dbb9c6397c862d17de425e63069b9048ca54fd69",
+      "date": "2026-08-22T08:51:42+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1557 from idlccp1984/patch-540047",
+      "articles": []
+    },
+    {
+      "hash": "5df8ba7ef86dd0419b516c7001df16475a1c6aa2",
+      "date": "2026-08-22T08:51:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1556 from idlccp1984/patch-701328",
+      "articles": []
+    },
+    {
+      "hash": "6a00ca16c98ba148541e607c57e9854187086d9b",
+      "date": "2026-08-22T08:51:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1555 from idlccp1984/patch-484064",
+      "articles": []
+    },
+    {
+      "hash": "2e35f05f038f1180ced44dfc1aab2cdf037bda6f",
+      "date": "2026-08-22T08:51:32+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1554 from idlccp1984/patch-211683",
+      "articles": []
+    },
+    {
+      "hash": "d711abdb134d46ec567774f780769bf337f1cc61",
+      "date": "2026-08-22T08:51:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1553 from idlccp1984/patch-29975",
+      "articles": []
+    },
+    {
+      "hash": "10fefead626a72cadb3c796f14cb3934e8060aac",
+      "date": "2026-08-22T08:51:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1552 from idlccp1984/patch-668775",
+      "articles": []
+    },
+    {
+      "hash": "c0e55f7415417128b7faa83ba1ee4d43d8d731ba",
+      "date": "2026-08-22T08:51:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1551 from idlccp1984/patch-180929",
+      "articles": []
+    },
+    {
+      "hash": "20e8ac6f619fe49e0971f7056b7858e4be4c2a7b",
+      "date": "2026-08-22T08:51:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1549 from idlccp1984/patch-464070",
+      "articles": []
+    },
+    {
+      "hash": "09436f9f4ec3eb020bbf900b96b45bddceec515e",
+      "date": "2026-08-22T08:51:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1547 from idlccp1984/patch-225873",
+      "articles": []
+    },
+    {
+      "hash": "b2732dbb936b1f5c73e0a3e1212fa1550c149c7e",
+      "date": "2026-08-22T08:51:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1546 from idlccp1984/patch-92257",
+      "articles": []
+    },
+    {
+      "hash": "a75bf92aa228355610dd13c40a35373d10be4faf",
+      "date": "2026-08-22T08:51:08+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1543 from idlccp1984/patch-163109",
+      "articles": []
+    },
+    {
+      "hash": "dfb61c5cfe83a4e66dbe1fcf2d6a02cea1e0992a",
+      "date": "2026-08-22T08:51:05+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1542 from idlccp1984/patch-177585",
+      "articles": []
+    },
+    {
+      "hash": "5ac65b083053fd8f16181bda54107818750a74e2",
+      "date": "2026-08-22T08:51:02+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1541 from idlccp1984/patch-193959",
+      "articles": []
+    },
+    {
+      "hash": "d077ec13bd79579c1ca30903647c473f5cd9505b",
+      "date": "2026-08-22T08:50:59+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1540 from idlccp1984/patch-646118",
+      "articles": []
+    },
+    {
+      "hash": "bb4173da82a78d6304308483ba7d6382feff9f35",
+      "date": "2026-08-22T08:50:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1539 from idlccp1984/patch-949943",
+      "articles": []
+    },
+    {
+      "hash": "825a8901a0f3266333d24955616b81e448a3094d",
+      "date": "2026-08-22T08:50:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1536 from aminzai/translate/ja-black-bat-squadron",
+      "articles": []
+    },
+    {
+      "hash": "a391033404eec927f930d772afdc3db99bd289b2",
+      "date": "2026-08-22T07:11:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 同一封檢舉信第九次攔下，成本註記改成原地計數",
+      "articles": []
+    },
+    {
+      "hash": "cd1ca2e20cc958cd9301acd0c5dbc1e72e53e63b",
+      "date": "2026-08-22T06:42:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-22 06:41 — D+2 誤判已消失的留言本輪重新可見，補回覆",
+      "articles": []
+    },
+    {
+      "hash": "babb2b1ee9cfb142bbe282db4d3c7196289bbfe8",
+      "date": "2026-08-22T06:41:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 3 spores harvested, 1 reply shipped — 2026-08-22",
+      "articles": []
+    },
+    {
+      "hash": "106e9df29a4be507d4cce7f126a40d1013ddac06",
+      "date": "2026-08-22T06:15:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-22 06:14 — 14 步全綠零 stale，順帶把 scheduler live-state 讀出來對進 SSOT",
+      "articles": []
+    },
+    {
+      "hash": "cee3c6fb08c0fb501f07c71e8af7878e83f0416a",
+      "date": "2026-08-22T06:13:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh: am 14-step ground truth sync — 2026-08-22 06:xx",
+      "articles": []
+    },
     {
       "hash": "58888a09dabaa5e9e83a7627fca3176bffeef3fb",
       "date": "2026-08-22T05:38:26+08:00",
@@ -21,6 +674,363 @@
       "date": "2026-08-22T05:35:03+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-22 05:35",
+      "articles": []
+    },
+    {
+      "hash": "8a783e275e8c2a9180c993abff9754c42a742ff0",
+      "date": "2026-08-22T01:24:37+08:00",
+      "author": "idlccp1984",
+      "message": "Create 中壢.md",
+      "articles": [
+        {
+          "url": "/economy/中壢",
+          "name": "中壢"
+        }
+      ]
+    },
+    {
+      "hash": "a8c36dcfa7c05dfc5985f7e79163a86cd70d7fcc",
+      "date": "2026-08-22T00:55:46+08:00",
+      "author": "idlccp1984",
+      "message": "Update 八炯.md",
+      "articles": [
+        {
+          "url": "/people/八炯",
+          "name": "八炯"
+        }
+      ]
+    },
+    {
+      "hash": "1263182f6b4a7f8fc8e9309d6e8fd2348f9bb5b5",
+      "date": "2026-08-21T23:41:32+08:00",
+      "author": "idlccp1984",
+      "message": "Create 民主進步黨成立.md",
+      "articles": [
+        {
+          "url": "/society/民主進步黨成立",
+          "name": "民主進步黨成立"
+        }
+      ]
+    },
+    {
+      "hash": "1a821c522c60b1a743fa30b344a2c2b6ee31b168",
+      "date": "2026-08-21T23:28:57+08:00",
+      "author": "idlccp1984",
+      "message": "Create 六福村.md",
+      "articles": [
+        {
+          "url": "/lifestyle/六福村",
+          "name": "六福村"
+        }
+      ]
+    },
+    {
+      "hash": "5b53d14daa55ab96775d4641109037f9366eb49c",
+      "date": "2026-08-21T22:42:54+08:00",
+      "author": "idlccp1984",
+      "message": "Create 彈珠檯.md",
+      "articles": [
+        {
+          "url": "/culture/彈珠檯",
+          "name": "彈珠檯"
+        }
+      ]
+    },
+    {
+      "hash": "8cc1f5ad812d59433a7e61f3ed659dda32dc13c8",
+      "date": "2026-08-21T22:39:41+08:00",
+      "author": "idlccp1984",
+      "message": "Create 韋宗成.md",
+      "articles": [
+        {
+          "url": "/people/韋宗成",
+          "name": "韋宗成"
+        }
+      ]
+    },
+    {
+      "hash": "f653ae793c3e996143f21ad001d0dd1b7f4c83b3",
+      "date": "2026-08-21T22:17:37+08:00",
+      "author": "idlccp1984",
+      "message": "Create History1935台中地震.md",
+      "articles": []
+    },
+    {
+      "hash": "42db82311383176f4b8e354b0c9c9224acf9a665",
+      "date": "2026-08-21T22:09:08+08:00",
+      "author": "idlccp1984",
+      "message": "Create 丁日昌.md",
+      "articles": [
+        {
+          "url": "/people/丁日昌",
+          "name": "丁日昌"
+        }
+      ]
+    },
+    {
+      "hash": "6dbba7ae98196a39d889979d4df262ac5428a507",
+      "date": "2026-08-21T21:56:30+08:00",
+      "author": "idlccp1984",
+      "message": "Create 林心如.md",
+      "articles": [
+        {
+          "url": "/people/林心如",
+          "name": "林心如"
+        }
+      ]
+    },
+    {
+      "hash": "90102b4973dfd7811b3145136b2e9551243a6090",
+      "date": "2026-08-21T21:42:23+08:00",
+      "author": "idlccp1984",
+      "message": "Create 307taipeibus.md",
+      "articles": [
+        {
+          "url": "/lifestyle/307taipeibus",
+          "name": "307taipeibus"
+        }
+      ]
+    },
+    {
+      "hash": "ccd808058d074ae262dca8c9027abdc4996f4627",
+      "date": "2026-08-21T21:37:49+08:00",
+      "author": "idlccp1984",
+      "message": "Create 韓國人在台灣.md",
+      "articles": [
+        {
+          "url": "/society/韓國人在台灣",
+          "name": "韓國人在台灣"
+        }
+      ]
+    },
+    {
+      "hash": "445a73ced52c49c017517b85b11f9bc34938dd64",
+      "date": "2026-08-21T21:34:05+08:00",
+      "author": "idlccp1984",
+      "message": "Update 肌肉山山.md",
+      "articles": [
+        {
+          "url": "/people/肌肉山山",
+          "name": "肌肉山山"
+        }
+      ]
+    },
+    {
+      "hash": "8ec7b4256ba8c9ff529422b0491e31d18e55cae9",
+      "date": "2026-08-21T21:03:10+08:00",
+      "author": "idlccp1984",
+      "message": "Create 賽鴿.md",
+      "articles": [
+        {
+          "url": "/society/賽鴿",
+          "name": "賽鴿"
+        }
+      ]
+    },
+    {
+      "hash": "2e227925f2688b783f2c6c497f138a16760eca45",
+      "date": "2026-08-21T21:00:27+08:00",
+      "author": "idlccp1984",
+      "message": "Create 聖凱師.md",
+      "articles": [
+        {
+          "url": "/people/聖凱師",
+          "name": "聖凱師"
+        }
+      ]
+    },
+    {
+      "hash": "affef3566d4373b0df981a97a2f32ebddbbfeac1",
+      "date": "2026-08-21T20:53:37+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台中捷運.md",
+      "articles": []
+    },
+    {
+      "hash": "040c78ba897592f6d92df384518a47c3b6cc4f67",
+      "date": "2026-08-21T20:52:06+08:00",
+      "author": "idlccp1984",
+      "message": "Create 西螺大橋.md",
+      "articles": [
+        {
+          "url": "/history/西螺大橋",
+          "name": "西螺大橋"
+        }
+      ]
+    },
+    {
+      "hash": "97a771aebf1b84db25f9a268fd23392aa49d9e60",
+      "date": "2026-08-21T20:38:43+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台中捷運.md",
+      "articles": [
+        {
+          "url": "/geography/台中捷運",
+          "name": "台中捷運"
+        }
+      ]
+    },
+    {
+      "hash": "c005ea84e24d8794b1cc35de303ebd0b36cda898",
+      "date": "2026-08-21T20:37:35+08:00",
+      "author": "idlccp1984",
+      "message": "Create 板南線.md",
+      "articles": [
+        {
+          "url": "/geography/板南線",
+          "name": "板南線"
+        }
+      ]
+    },
+    {
+      "hash": "0166a77c6eeec57cf76c928f95936a9b63a7b67b",
+      "date": "2026-08-21T20:03:19+08:00",
+      "author": "idlccp1984",
+      "message": "Create Cheap.md",
+      "articles": [
+        {
+          "url": "/people/Cheap",
+          "name": "Cheap"
+        }
+      ]
+    },
+    {
+      "hash": "2e54f68f0c9be077f59352e7330a9761e7930ad8",
+      "date": "2026-08-21T19:57:56+08:00",
+      "author": "idlccp1984",
+      "message": "Create 國家圖書館.md",
+      "articles": [
+        {
+          "url": "/culture/國家圖書館",
+          "name": "國家圖書館"
+        }
+      ]
+    },
+    {
+      "hash": "8db3b763955950ebb04e478792ab6203df09c745",
+      "date": "2026-08-21T19:55:27+08:00",
+      "author": "idlccp1984",
+      "message": "Create 文湖線.md",
+      "articles": [
+        {
+          "url": "/geography/文湖線",
+          "name": "文湖線"
+        }
+      ]
+    },
+    {
+      "hash": "99a7d8b3918db009b35b606a571156781b133a5d",
+      "date": "2026-08-21T19:53:45+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣漁業始.md",
+      "articles": [
+        {
+          "url": "/history/台灣漁業始",
+          "name": "台灣漁業始"
+        }
+      ]
+    },
+    {
+      "hash": "c1dbe2402ca8bc38e07585b95f01265ebb7c4e76",
+      "date": "2026-08-21T19:52:26+08:00",
+      "author": "idlccp1984",
+      "message": "Create 林佳辰.md",
+      "articles": [
+        {
+          "url": "/people/林佳辰",
+          "name": "林佳辰"
+        }
+      ]
+    },
+    {
+      "hash": "cf2d4d9739699157fad80aa58550419c21facaef",
+      "date": "2026-08-21T19:49:03+08:00",
+      "author": "idlccp1984",
+      "message": "Create 瘧疾根除.md",
+      "articles": [
+        {
+          "url": "/history/瘧疾根除",
+          "name": "瘧疾根除"
+        }
+      ]
+    },
+    {
+      "hash": "ecd624545fc00712f5be4a1a31f2d6625392ee4f",
+      "date": "2026-08-21T19:44:48+08:00",
+      "author": "idlccp1984",
+      "message": "Create 義消.md",
+      "articles": [
+        {
+          "url": "/society/義消",
+          "name": "義消"
+        }
+      ]
+    },
+    {
+      "hash": "7c0520cb91ffb9b862923740b0d27fd68fbb1b85",
+      "date": "2026-08-21T19:41:56+08:00",
+      "author": "idlccp1984",
+      "message": "Add article on Taiwan's fisheries modernization",
+      "articles": [
+        {
+          "url": "/history/台灣漁業現代化",
+          "name": "台灣漁業現代化"
+        }
+      ]
+    },
+    {
+      "hash": "e8baa7307a951880291e228e5a8cb6efb448c16c",
+      "date": "2026-08-21T19:38:07+08:00",
+      "author": "idlccp1984",
+      "message": "Create 林安泰古厝.md",
+      "articles": [
+        {
+          "url": "/geography/林安泰古厝",
+          "name": "林安泰古厝"
+        }
+      ]
+    },
+    {
+      "hash": "7c99cd4b7d4866f40756f266984f560db7319611",
+      "date": "2026-08-21T19:24:54+08:00",
+      "author": "idlccp1984",
+      "message": "Create 原住民織布.md",
+      "articles": [
+        {
+          "url": "/culture/原住民織布",
+          "name": "原住民織布"
+        }
+      ]
+    },
+    {
+      "hash": "abce25441e1dfe419fdcc1a8403b904247b31605",
+      "date": "2026-08-21T19:18:49+08:00",
+      "author": "idlccp1984",
+      "message": "Add document on Indigenous Peoples' name rectification movement",
+      "articles": [
+        {
+          "url": "/politics/原住民族正名",
+          "name": "原住民族正名"
+        }
+      ]
+    },
+    {
+      "hash": "62aa6a49419edf054ebb6aa5f8ac32c38c06fd07",
+      "date": "2026-08-21T19:11:41+08:00",
+      "author": "idlccp1984",
+      "message": "Create article on Shihmen Reservoir history and impact",
+      "articles": [
+        {
+          "url": "/history/石門水庫",
+          "name": "石門水庫"
+        }
+      ]
+    },
+    {
+      "hash": "c7f0af2430d1f8a3adec7ece0bce596fcdbd7b47",
+      "date": "2026-08-21T19:08:49+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 黑蝙蝠中隊 -> black-bat-squadron",
       "articles": []
     },
     {
@@ -390,6 +1400,13 @@
       "articles": []
     },
     {
+      "hash": "4b321e911987f56c06bcf835628cadc6ddbf553b",
+      "date": "2026-08-20T22:53:34+08:00",
+      "author": "idlccp1984",
+      "message": "Update 鐵牛杰哥.md",
+      "articles": []
+    },
+    {
       "hash": "56b89c7915e77d75d5b4b0ff38227f31fee8b1ce",
       "date": "2026-08-20T21:45:50+08:00",
       "author": "idlccp1984",
@@ -486,6 +1503,13 @@
       ]
     },
     {
+      "hash": "41777aa4ead5f63842bbad982ea4313057ee56fb",
+      "date": "2026-08-20T18:08:20+08:00",
+      "author": "idlccp1984",
+      "message": "Update 3度C.md",
+      "articles": []
+    },
+    {
       "hash": "768afaf0f987dda25afa8af3dcb9f6402e227bc2",
       "date": "2026-08-20T17:58:19+08:00",
       "author": "idlccp1984",
@@ -506,6 +1530,18 @@
         {
           "url": "/society/社區大學黃武雄",
           "name": "社區大學黃武雄"
+        }
+      ]
+    },
+    {
+      "hash": "4d0f944498b3f42a5835020b1be9c1787b877a08",
+      "date": "2026-08-20T17:55:26+08:00",
+      "author": "idlccp1984",
+      "message": "Create 3度C.md",
+      "articles": [
+        {
+          "url": "/people/3度C",
+          "name": "3度C"
         }
       ]
     },
@@ -1679,6 +2715,18 @@
       "articles": []
     },
     {
+      "hash": "644f920b42dcabf633909e58ffc8e58a2c54588a",
+      "date": "2026-08-20T08:34:06+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣高鐵.md",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣高鐵",
+          "name": "台灣高鐵"
+        }
+      ]
+    },
+    {
       "hash": "cc44753abb2c86a2047c5ee29a4d14fc8c6d7ef2",
       "date": "2026-08-20T08:30:18+08:00",
       "author": "idlccp1984",
@@ -1867,6 +2915,18 @@
       ]
     },
     {
+      "hash": "edb9e64cee9d0afc6c5f5c04f363677e2c125707",
+      "date": "2026-08-20T02:21:40+08:00",
+      "author": "idlccp1984",
+      "message": "Create 蔡黑皮.md",
+      "articles": [
+        {
+          "url": "/people/蔡黑皮",
+          "name": "蔡黑皮"
+        }
+      ]
+    },
+    {
       "hash": "1b9ee45b8b054e4a22f048de14d3fda1f750336d",
       "date": "2026-08-20T01:46:45+08:00",
       "author": "idlccp1984",
@@ -1932,6 +2992,18 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
       "articles": []
+    },
+    {
+      "hash": "eeb02dd0fcb00c1b6b23853553b18e177977f7e0",
+      "date": "2026-08-20T00:34:43+08:00",
+      "author": "idlccp1984",
+      "message": "Update fmt.Println message from 'Hello' to 'Goodbye'",
+      "articles": [
+        {
+          "url": "/people/鐵牛杰哥",
+          "name": "鐵牛杰哥"
+        }
+      ]
     },
     {
       "hash": "91e14d5c8e4bbcc9cc16e91c1c86e71d50d97ba3",

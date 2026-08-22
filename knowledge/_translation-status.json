@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-22T06:11:58+08:00",
-    "zhCommitHead": "58888a09d",
-    "totalZh": 1059,
+    "lastUpdated": "2026-08-23T06:12:15+08:00",
+    "zhCommitHead": "267714509",
+    "totalZh": 1089,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1059,
-        "fresh": 828,
-        "stale": 40,
+        "total_zh": 1089,
+        "fresh": 825,
+        "stale": 43,
         "metadata_stale": 12,
-        "missing": 179,
+        "missing": 209,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1059,
-        "fresh": 831,
-        "stale": 37,
+        "total_zh": 1089,
+        "fresh": 828,
+        "stale": 41,
         "metadata_stale": 14,
-        "missing": 177,
+        "missing": 206,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1059,
-        "fresh": 841,
-        "stale": 32,
+        "total_zh": 1089,
+        "fresh": 838,
+        "stale": 35,
         "metadata_stale": 12,
-        "missing": 174,
+        "missing": 204,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1059,
-        "fresh": 833,
-        "stale": 37,
+        "total_zh": 1089,
+        "fresh": 830,
+        "stale": 40,
         "metadata_stale": 13,
-        "missing": 176,
+        "missing": 206,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1059,
-        "fresh": 834,
-        "stale": 38,
+        "total_zh": 1089,
+        "fresh": 831,
+        "stale": 41,
         "metadata_stale": 12,
-        "missing": 175,
+        "missing": 205,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1059,
-        "fresh": 681,
-        "stale": 46,
+        "total_zh": 1089,
+        "fresh": 679,
+        "stale": 48,
         "metadata_stale": 73,
-        "missing": 259,
+        "missing": 289,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1059,
-        "fresh": 561,
-        "stale": 22,
+        "total_zh": 1089,
+        "fresh": 558,
+        "stale": 25,
         "metadata_stale": 7,
-        "missing": 469,
+        "missing": 499,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1059,
-        "fresh": 811,
-        "stale": 28,
+        "total_zh": 1089,
+        "fresh": 808,
+        "stale": 31,
         "metadata_stale": 9,
-        "missing": 211,
+        "missing": 241,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1059,
-        "fresh": 644,
-        "stale": 16,
+        "total_zh": 1089,
+        "fresh": 641,
+        "stale": 19,
         "metadata_stale": 9,
-        "missing": 390,
+        "missing": 420,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1059,
-        "fresh": 727,
-        "stale": 18,
+        "total_zh": 1089,
+        "fresh": 724,
+        "stale": 21,
         "metadata_stale": 8,
-        "missing": 306,
+        "missing": 336,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1059,
-        "fresh": 761,
-        "stale": 18,
+        "total_zh": 1089,
+        "fresh": 758,
+        "stale": 21,
         "metadata_stale": 8,
-        "missing": 272,
+        "missing": 302,
         "orphan": 0
       }
     },
@@ -11870,6 +11870,49 @@
           "footnoteDefs": 6,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Economy/中壢.md": {
+      "zh": {
+        "lastCommit": "e0419e18",
+        "lastModified": "2026-08-22T08:55:18+08:00",
+        "contentHash": "sha256:3f3f25a1e182e634",
+        "bodyHash": "sha256:6cb4b7b4b4465b09"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -33819,10 +33862,10 @@
     },
     "Lifestyle/台灣高鐵.md": {
       "zh": {
-        "lastCommit": "dd39065b",
-        "lastModified": "2026-06-10T17:45:23+08:00",
-        "contentHash": "sha256:d4cd6040714e7d5e",
-        "bodyHash": "sha256:437f56550a534c16"
+        "lastCommit": "828e5bc5",
+        "lastModified": "2026-08-22T09:02:15+08:00",
+        "contentHash": "sha256:7eee4ee1da01de9e",
+        "bodyHash": "sha256:094ad60d8ed39c9f"
       },
       "translations": {
         "en": {
@@ -33836,8 +33879,10 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-high-speed-rail.md",
@@ -33850,8 +33895,10 @@
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-high-speed-rail.md",
@@ -33864,8 +33911,10 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-high-speed-rail.md",
@@ -33878,8 +33927,10 @@
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "fr": {
           "path": "fr/Lifestyle/taiwan-high-speed-rail.md",
@@ -33892,8 +33943,10 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-high-speed-rail.md",
@@ -33906,8 +33959,10 @@
           "translationLastModified": "2026-08-09T11:49:18+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-high-speed-rail.md",
@@ -33920,8 +33975,10 @@
           "translationLastModified": "2026-07-29T21:44:59+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-high-speed-rail.md",
@@ -33934,8 +33991,10 @@
           "translationLastModified": "2026-07-27T05:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "hi": {
           "path": "hi/Lifestyle/taiwan-high-speed-rail.md",
@@ -33948,8 +34007,10 @@
           "translationLastModified": "2026-07-31T09:04:04+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-high-speed-rail.md",
@@ -33962,8 +34023,10 @@
           "translationLastModified": "2026-07-31T06:57:53+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-high-speed-rail.md",
@@ -33976,8 +34039,10 @@
           "translationLastModified": "2026-07-31T07:47:27+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+85 -94"
         }
       }
     },
@@ -36104,6 +36169,49 @@
         }
       }
     },
+    "Lifestyle/307taipeibus.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:c1027a26b2054b2e",
+        "bodyHash": "sha256:48c6ab2b08ee901b"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "Lifestyle/台灣騎樓文化與街景.md": {
       "zh": {
         "lastCommit": "69b3afd9",
@@ -37809,6 +37917,49 @@
         }
       }
     },
+    "Lifestyle/六福村.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:e4d0887ad2be656b",
+        "bodyHash": "sha256:185b659b9a1b47ea"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "Society/早餐店阿姨與社區情報網.md": {
       "zh": {
         "lastCommit": "f712b724",
@@ -38493,6 +38644,49 @@
           "footnoteDefs": 43,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Society/賽鴿.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:d0ed7e2e79c2c939",
+        "bodyHash": "sha256:6cf19e1bf39b46d2"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -45367,6 +45561,49 @@
         }
       }
     },
+    "Society/義消.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:d8d43029d63e623c",
+        "bodyHash": "sha256:6218b05cdabde2d3"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "Society/檳榔.md": {
       "zh": {
         "lastCommit": "69b3afd9",
@@ -51593,6 +51830,49 @@
         }
       }
     },
+    "Society/韓國人在台灣.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:89564eca20ccb1a4",
+        "bodyHash": "sha256:aa22cde38abe8c50"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "Society/國定假日.md": {
       "zh": {
         "lastCommit": "ddb9590b",
@@ -52661,6 +52941,49 @@
           "footnoteDefs": 29,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Society/民主進步黨成立.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:23cebf6a8b8bd2b2",
+        "bodyHash": "sha256:35243ed7adf1417f"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -61991,6 +62314,49 @@
         }
       }
     },
+    "Politics/原住民族正名.md": {
+      "zh": {
+        "lastCommit": "2414d550",
+        "lastModified": "2026-08-22T09:00:34+08:00",
+        "contentHash": "sha256:201301d5ef8902fa",
+        "bodyHash": "sha256:64a6bc7308f455d1"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "People/李昂.md": {
       "zh": {
         "lastCommit": "0f8fae0a",
@@ -63571,6 +63937,49 @@
         "lastModified": "2026-08-20T09:13:32+08:00",
         "contentHash": "sha256:19eba63c27c61c88",
         "bodyHash": "sha256:18e7518b3acc71b4"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
+    "People/3度C.md": {
+      "zh": {
+        "lastCommit": "e64a7fba",
+        "lastModified": "2026-08-22T08:58:23+08:00",
+        "contentHash": "sha256:71bd23c9a7becdb3",
+        "bodyHash": "sha256:ac800d2068dd019e"
       },
       "translations": {
         "en": {
@@ -71799,6 +72208,49 @@
         }
       }
     },
+    "People/蔡黑皮.md": {
+      "zh": {
+        "lastCommit": "b27be7f8",
+        "lastModified": "2026-08-22T09:05:46+08:00",
+        "contentHash": "sha256:327f845229c57b76",
+        "bodyHash": "sha256:444f47f53f64d84b"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "People/紀政.md": {
       "zh": {
         "lastCommit": "0f8fae0a",
@@ -73632,6 +74084,49 @@
           "footnoteDefs": 27,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/林佳辰.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:01095c6558739f1a",
+        "bodyHash": "sha256:02ef30b3db036283"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -75478,10 +75973,10 @@
     },
     "People/肌肉山山.md": {
       "zh": {
-        "lastCommit": "69b3afd9",
-        "lastModified": "2026-08-04T10:19:04+08:00",
-        "contentHash": "sha256:a9c781639a414788",
-        "bodyHash": "sha256:d1cce1c9cb32c2ba"
+        "lastCommit": "445a73ce",
+        "lastModified": "2026-08-21T21:34:05+08:00",
+        "contentHash": "sha256:03fd31754989ad8f",
+        "bodyHash": "sha256:f9337f3e9a513dcd"
       },
       "translations": {
         "en": {
@@ -75495,8 +75990,8 @@
           "translationLastModified": "2026-08-04T15:22:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "ja": {
           "path": "ja/People/muscle-mountain.md",
@@ -75509,8 +76004,8 @@
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "ko": {
           "path": "ko/People/muscle-mountain.md",
@@ -75523,8 +76018,8 @@
           "translationLastModified": "2026-08-04T15:27:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "es": {
           "path": "es/People/muscle-mountain.md",
@@ -75537,8 +76032,8 @@
           "translationLastModified": "2026-08-04T15:23:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "fr": {
           "path": "fr/People/muscle-mountain.md",
@@ -75551,8 +76046,8 @@
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "vi": {
           "path": "vi/People/muscle-mountain.md",
@@ -75566,9 +76061,7 @@
           "inferred": false,
           "footnoteDefs": 0,
           "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "reason": "footnote-loss (9→0)"
         },
         "id": {
           "path": "id/People/muscle-mountain.md",
@@ -75581,8 +76074,8 @@
           "translationLastModified": "2026-08-05T03:30:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "pt": {
           "path": "pt/People/muscle-mountain.md",
@@ -75595,8 +76088,8 @@
           "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "hi": {
           "path": "hi/People/muscle-mountain.md",
@@ -75609,8 +76102,8 @@
           "translationLastModified": "2026-08-04T19:07:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "ar": {
           "path": "ar/People/muscle-mountain.md",
@@ -75623,8 +76116,8 @@
           "translationLastModified": "2026-08-04T19:08:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "ru": {
           "path": "ru/People/muscle-mountain.md",
@@ -75637,8 +76130,8 @@
           "translationLastModified": "2026-08-04T15:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         }
       }
     },
@@ -77557,10 +78050,10 @@
     },
     "People/陳致中.md": {
       "zh": {
-        "lastCommit": "1389f8ce",
-        "lastModified": "2026-08-18T11:33:27+08:00",
-        "contentHash": "sha256:4579b258cbd91e97",
-        "bodyHash": "sha256:8defbb790c6ab1f0"
+        "lastCommit": "fa7059f7",
+        "lastModified": "2026-08-23T02:11:06+08:00",
+        "contentHash": "sha256:4b7b7aff6ea75a34",
+        "bodyHash": "sha256:560772bbc10e04f9"
       },
       "translations": {
         "en": {
@@ -78568,6 +79061,49 @@
           "footnoteDefs": 7,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/Cheap.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:0feccf50e70e790f",
+        "bodyHash": "sha256:bec1cc9ae32ba029"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -80365,6 +80901,49 @@
         }
       }
     },
+    "People/丁日昌.md": {
+      "zh": {
+        "lastCommit": "d48e1100",
+        "lastModified": "2026-08-22T08:55:37+08:00",
+        "contentHash": "sha256:feb8dc67f30db2e2",
+        "bodyHash": "sha256:75dbc702aa896f78"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "People/魏如萱.md": {
       "zh": {
         "lastCommit": "4a7c2bfc",
@@ -80509,10 +81088,10 @@
     },
     "People/八炯.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:6599b2ad4c30bd09",
-        "bodyHash": "sha256:bc866bec1fdcbd6f"
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:6cb3c6ef00fae4cb",
+        "bodyHash": "sha256:04a00b8b001b29b2"
       },
       "translations": {
         "en": {
@@ -80526,8 +81105,8 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "ja": {
           "path": "ja/People/pa-chiung-political-youtuber.md",
@@ -80540,8 +81119,8 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "ko": {
           "path": "ko/People/pa-chiung-political-youtuber.md",
@@ -80554,8 +81133,8 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "es": {
           "path": "es/People/pa-chiung-political-youtuber.md",
@@ -80568,8 +81147,8 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "fr": {
           "path": "fr/People/pa-chiung-political-youtuber.md",
@@ -80582,8 +81161,8 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "vi": {
           "path": "vi/People/pa-chiung-political-youtuber.md",
@@ -80596,8 +81175,8 @@
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "id": {
           "path": "id/People/pa-chiung-political-youtuber.md",
@@ -80610,8 +81189,8 @@
           "translationLastModified": "2026-07-25T12:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "pt": {
           "path": "pt/People/pa-chiung-political-youtuber.md",
@@ -80624,8 +81203,8 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "hi": {
           "path": "hi/People/pa-chiung-political-youtuber.md",
@@ -80638,8 +81217,8 @@
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "ar": {
           "path": "ar/People/pa-chiung-political-youtuber.md",
@@ -80652,8 +81231,8 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         },
         "ru": {
           "path": "ru/People/pa-chiung-political-youtuber.md",
@@ -80666,8 +81245,8 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→16)"
         }
       }
     },
@@ -83534,6 +84113,49 @@
           "footnoteDefs": 5,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/林心如.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:c1b202e80c7e4a1d",
+        "bodyHash": "sha256:74473841bc53291c"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -90972,10 +91594,10 @@
     },
     "People/陳幸妤.md": {
       "zh": {
-        "lastCommit": "4a95859b",
-        "lastModified": "2026-08-15T17:13:46+08:00",
-        "contentHash": "sha256:f05d982817b2d344",
-        "bodyHash": "sha256:c5347fb36d8163ea"
+        "lastCommit": "fa7059f7",
+        "lastModified": "2026-08-23T02:11:06+08:00",
+        "contentHash": "sha256:84ffac689843ddd3",
+        "bodyHash": "sha256:98cbd8f687f836db"
       },
       "translations": {
         "en": {
@@ -92585,6 +93207,49 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/鐵牛杰哥.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:44d400b2603edbd4",
+        "bodyHash": "sha256:a49aff32abaf37ae"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -95244,6 +95909,49 @@
         }
       }
     },
+    "People/韋宗成.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:2f3feb8df34cdc45",
+        "bodyHash": "sha256:3e236311319150f0"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "People/鄭成功.md": {
       "zh": {
         "lastCommit": "a7cf3076",
@@ -97253,6 +97961,49 @@
           "footnoteDefs": 7,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/聖凱師.md": {
+      "zh": {
+        "lastCommit": "2e227925",
+        "lastModified": "2026-08-21T21:00:27+08:00",
+        "contentHash": "sha256:f3c744060676c5c3",
+        "bodyHash": "sha256:c6156a33a327be28"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -112721,6 +113472,92 @@
         }
       }
     },
+    "History/1935新竹臺中地震.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:6676da6439aa0dbf",
+        "bodyHash": "sha256:7541a1d205619b0c"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
+    "History/瘧疾根除.md": {
+      "zh": {
+        "lastCommit": "cf2d4d97",
+        "lastModified": "2026-08-21T19:49:03+08:00",
+        "contentHash": "sha256:1a44b37b859d8b1a",
+        "bodyHash": "sha256:04c29c7226490085"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "History/綠島監獄.md": {
       "zh": {
         "lastCommit": "bd0134b2",
@@ -113002,6 +113839,49 @@
           "footnoteDefs": 10,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/台灣漁業現代化.md": {
+      "zh": {
+        "lastCommit": "b12fbf56",
+        "lastModified": "2026-08-22T09:13:55+08:00",
+        "contentHash": "sha256:84a9ef52691dd2f8",
+        "bodyHash": "sha256:68c0d956335b9413"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -113772,6 +114652,49 @@
         }
       }
     },
+    "History/石門水庫.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:d8b88408a353bacc",
+        "bodyHash": "sha256:6772a9de43938945"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "History/退出聯合國.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -114088,6 +115011,49 @@
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/台灣漁業起源.md": {
+      "zh": {
+        "lastCommit": "ad684282",
+        "lastModified": "2026-08-22T09:13:23+08:00",
+        "contentHash": "sha256:50b4c719b7719ddb",
+        "bodyHash": "sha256:5ae2ca3119e7bd26"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -118323,6 +119289,49 @@
         }
       }
     },
+    "History/西螺大橋.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:7b2e3a974f8b4cf7",
+        "bodyHash": "sha256:0367fe0da1bfd005"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "History/台灣原住民族歷史與正名運動.md": {
       "zh": {
         "lastCommit": "1e674def",
@@ -119435,7 +120444,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/black-bat-squadron.md",
+          "translatedFrom": "History/黑蝙蝠中隊.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "c7f0af24",
+          "translationLastModified": "2026-08-21T19:08:49+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ko": {
           "path": "ko/History/black-bat-squadron.md",
@@ -121508,6 +122528,49 @@
         "lastModified": "2026-08-20T12:44:08+08:00",
         "contentHash": "sha256:c8f833e6836a370f",
         "bodyHash": "sha256:26c6e79fd91efe41"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
+    "Geography/林安泰古厝.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:47d89dc0ac03a566",
+        "bodyHash": "sha256:7079616fec64f3a7"
       },
       "translations": {
         "en": {
@@ -128239,6 +129302,49 @@
         }
       }
     },
+    "Geography/台中捷運.md": {
+      "zh": {
+        "lastCommit": "65acd39d",
+        "lastModified": "2026-08-22T08:55:56+08:00",
+        "contentHash": "sha256:930e1cf08d9847c7",
+        "bodyHash": "sha256:ac8494ae079b5eb8"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "Geography/嘉義市.md": {
       "zh": {
         "lastCommit": "31a05c44",
@@ -129164,6 +130270,49 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Geography/文湖線.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:29a9bdcb5a7c80ff",
+        "bodyHash": "sha256:e1f4ab46f62a48fb"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -130870,6 +132019,49 @@
           "footnoteDefs": 6,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Geography/板南線.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:373c365c77c6b0b9",
+        "bodyHash": "sha256:dc5113e65f4b7030"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -133495,6 +134687,49 @@
         "lastModified": "2026-08-18T18:49:19+08:00",
         "contentHash": "sha256:01678a90a6beb87a",
         "bodyHash": "sha256:4eaa3ae985aa0bf5"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
+    "Culture/原住民織布.md": {
+      "zh": {
+        "lastCommit": "7c99cd4b",
+        "lastModified": "2026-08-21T19:24:54+08:00",
+        "contentHash": "sha256:d6b33427d383d025",
+        "bodyHash": "sha256:d806fd1fb93df2e0"
       },
       "translations": {
         "en": {
@@ -137826,6 +139061,49 @@
           "footnoteDefs": 9,
           "status": "stale",
           "reason": "footnote-loss (10→9)"
+        }
+      }
+    },
+    "Culture/國家圖書館.md": {
+      "zh": {
+        "lastCommit": "13c7fbcd",
+        "lastModified": "2026-08-22T09:11:37+08:00",
+        "contentHash": "sha256:89f7b31c20a6e3b0",
+        "bodyHash": "sha256:214b93be591bc953"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },
@@ -143846,6 +145124,49 @@
           "footnoteDefs": 8,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Culture/彈珠檯.md": {
+      "zh": {
+        "lastCommit": "9830f442",
+        "lastModified": "2026-08-22T09:03:25+08:00",
+        "contentHash": "sha256:4aad559049b3c7a7",
+        "bodyHash": "sha256:293b5ab02d696e13"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     }

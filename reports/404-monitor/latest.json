@@ -1,515 +1,676 @@
 {
-  "date": "2026-08-20",
-  "total_404": 4035,
+  "date": "2026-08-21",
+  "total_404": 5161,
   "truncated": false,
   "families": {
-    "bad-encoding": {
-      "count": 121,
-      "bot": 113,
-      "browser": 8,
-      "empty": 0
-    },
     "stale-asset": {
-      "count": 168,
+      "count": 233,
       "bot": 4,
-      "browser": 164,
-      "empty": 0
-    },
-    "probe-wellknown": {
-      "count": 86,
-      "bot": 7,
-      "browser": 79,
+      "browser": 229,
       "empty": 0
     },
     "scanner": {
-      "count": 878,
-      "bot": 192,
-      "browser": 132,
-      "empty": 554
+      "count": 849,
+      "bot": 53,
+      "browser": 460,
+      "empty": 336
     },
-    "unknown": {
-      "count": 2078,
-      "bot": 1516,
-      "browser": 562,
-      "empty": 0
-    },
-    "slug-variant": {
-      "count": 449,
-      "bot": 398,
-      "browser": 51,
+    "probe-wellknown": {
+      "count": 94,
+      "bot": 6,
+      "browser": 88,
       "empty": 0
     },
     "untranslated-demand": {
-      "count": 91,
-      "bot": 78,
-      "browser": 13,
+      "count": 81,
+      "bot": 47,
+      "browser": 34,
       "empty": 0
     },
-    "md-extension": {
-      "count": 130,
-      "bot": 104,
-      "browser": 26,
+    "unknown": {
+      "count": 3172,
+      "bot": 2575,
+      "browser": 597,
       "empty": 0
     },
     "missing-asset": {
-      "count": 13,
-      "bot": 1,
-      "browser": 12,
+      "count": 52,
+      "bot": 23,
+      "browser": 29,
+      "empty": 0
+    },
+    "slug-variant": {
+      "count": 414,
+      "bot": 273,
+      "browser": 141,
+      "empty": 0
+    },
+    "bad-encoding": {
+      "count": 30,
+      "bot": 8,
+      "browser": 22,
+      "empty": 0
+    },
+    "md-extension": {
+      "count": 213,
+      "bot": 146,
+      "browser": 67,
       "empty": 0
     },
     "renamed-or-truncated": {
-      "count": 18,
-      "bot": 12,
-      "browser": 6,
+      "count": 19,
+      "bot": 10,
+      "browser": 9,
       "empty": 0
     },
     "cross-lang-slug": {
-      "count": 3,
-      "bot": 3,
-      "browser": 0,
+      "count": 4,
+      "bot": 1,
+      "browser": 3,
       "empty": 0
     }
   },
   "top_paths": [
     {
-      "path": "/terminology/%3Cstrange-chars%3E",
-      "hits": 63,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "path": "/wp-admin/index.php",
+      "hits": 253,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
       "suggest": null
     },
     {
       "path": "/_astro/FeedbackWidget.CtvzgLzb.css",
-      "hits": 60,
+      "hits": 67,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/.well-known/traffic-advice",
-      "hits": 33,
-      "family": "probe-wellknown",
-      "ua": "Chrome Privacy Preserving Prefetch Proxy",
-      "suggest": null
-    },
-    {
       "path": "/.env",
-      "hits": 30,
+      "hits": 54,
       "family": "scanner",
       "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36",
       "suggest": null
     },
     {
+      "path": "/_astro/ArticleCard.NdgBuHxI.css",
+      "hits": 49,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
       "path": "/.well-known/assetlinks.json",
-      "hits": 29,
+      "hits": 32,
       "family": "probe-wellknown",
       "ua": "GoogleAssociationService",
       "suggest": null
     },
     {
-      "path": "/fetch",
+      "path": "/.well-known/traffic-advice",
       "hits": 27,
+      "family": "probe-wellknown",
+      "ua": "Chrome Privacy Preserving Prefetch Proxy",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.DnnGPkW0.css",
+      "hits": 26,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.CXPeqfF2.css",
+      "hits": 25,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/music/%E5%8F%B0%E7%81%A3%E5%98%BB%E5%93%88%E8%88%87%E9%A5%E2%80%99%E8%88%8C%E7%99%BC%E5%B1%95/",
+      "hits": 22,
+      "family": "bad-encoding",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/en/food/taiwan-banquet-culture/",
+      "hits": 18,
+      "family": "untranslated-demand",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "suggest": ["es", "fr", "ja", "ko", "vi"]
+    },
+    {
+      "path": "/cdn-cgi/l/email-protection",
+      "hits": 18,
+      "family": "probe-wellknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/ArticleCard.BQoN7FnQ.css",
+      "hits": 16,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "hits": 13,
+      "family": "probe-wellknown",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/hoket.php",
+      "hits": 12,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/geography/%C4%90%C6%B0%E1%BB%9Dng-S%C6%A1n-B%E1%BA%AFc",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/credentials.json",
+      "hits": 10,
       "family": "unknown",
       "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/_astro/ArticleCard.NdgBuHxI.css",
-      "hits": 19,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/admin/function.php",
-      "hits": 18,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/Layout.CXPeqfF2.css",
-      "hits": 18,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/economy/JUU1JThGJU",
-      "hits": 18,
+      "path": "/Dockerfile",
+      "hits": 10,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/lock360.php",
-      "hits": 15,
+      "path": "/privatekey.key",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/admin.php",
+      "hits": 10,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/about.php",
-      "hits": 15,
+      "path": "/docker/.env",
+      "hits": 10,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/assets/favicon.ico",
+      "hits": 10,
+      "family": "missing-asset",
+      "ua": "Go-http-client/2.0",
+      "suggest": null
+    },
+    {
+      "path": "/.claude.json",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/.astro/manifest.json",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/private-key",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/public/env.js",
+      "hits": 10,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.DuQvyK5A.css",
+      "hits": 10,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/one.php",
+      "hits": 9,
       "family": "scanner",
       "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "//aa.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/p-blog.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/wp-includes/pomo/install.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/.continue/config.json",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/ups.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/img/favicon.ico",
+      "hits": 8,
+      "family": "missing-asset",
+      "ua": "Go-http-client/2.0",
+      "suggest": null
+    },
+    {
+      "path": "/staging/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/atomlib.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/wp-admin/network/chosen.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/.aider.conf.yml",
+      "hits": 8,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/shell20211028.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/csa.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/f22.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/cx.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/4PJcpMFsD8B.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/wpxml.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/en/geography/lienchiang-county/",
+      "hits": 8,
+      "family": "untranslated-demand",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "suggest": ["ar", "es", "fr", "ja", "ko", "pt", "ru", "vi"]
+    },
+    {
+      "path": "/ko/food/%E5%8F%B0%E7%81%A3%E6%97%A9%E9%A4%90%E6%96%87%E5%8C%96",
+      "hits": 8,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+      "suggest": "/ko/food/taiwan-breakfast-culture"
+    },
+    {
+      "path": "//2019/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//cms/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//news/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//2020/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "python-requests/2.25.1",
+      "suggest": null
+    },
+    {
+      "path": "//wp1/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//website/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/radio.php",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "//sito/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//wordpress/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//blog/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//web/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//site/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//xmlrpc.php",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/234717/index.php",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "//test/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//wp2/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//shop/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "//wp/wp-includes/wlwmanifest.xml",
+      "hits": 7,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/coffexium.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/env.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/constants.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/runtime-config.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/settings.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/res/favicon.ico",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/byp.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/firebase-service-account.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/.env.prod.bak",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/images/01.jpg",
+      "hits": 6,
+      "family": "missing-asset",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
       "path": "/_astro/article.XcIAQMKm.css",
-      "hits": 15,
+      "hits": 6,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.DnnGPkW0.css",
-      "hits": 14,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/new4.php",
-      "hits": 13,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-content/plugins/index.php",
-      "hits": 13,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/ArticleCard.BQoN7FnQ.css",
-      "hits": 13,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/nox.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/themes.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/css.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/network/plugins.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/ar.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/abcd.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/class.php",
-      "hits": 12,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/cdn-cgi/rum",
-      "hits": 12,
-      "family": "probe-wellknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/class-t.api.php",
-      "hits": 11,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/file9.php",
-      "hits": 10,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/network/wp-conflg.php",
-      "hits": 10,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fr/terminology/%E5%BB%B6%E9%81%B2%E8%BC%89%E5%85%A5/",
-      "hits": 10,
+      "path": "/v1/graphql",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/randkeyword.php",
-      "hits": 10,
+      "path": "/zolando.php",
+      "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/k.php",
-      "hits": 10,
+      "path": "/index/function.php",
+      "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/403.php",
-      "hits": 10,
+      "path": "/wp-content/uploads/2023/08/logo-gold.png",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/themes/admin.php",
+      "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-admin/about.php",
-      "hits": 10,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fwe.php",
-      "hits": 9,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/culture/%3Cstrange-chars%3E",
-      "hits": 9,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/fv.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/user/about.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-content/index.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/404.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/ip",
-      "hits": 8,
+      "path": "/service_account.json",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/lsd.php",
-      "hits": 8,
+      "path": "/wp-slss.php",
+      "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-content/plugins/wp-login.php",
-      "hits": 8,
+      "path": "/packed.php",
+      "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/gifclass4.php",
-      "hits": 8,
+      "path": "/assets/images/doc.php",
+      "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-admin/includes/index.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-login.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/129.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/music/%E5%8F%B0%E7%81%A3%E5%98%BB%E5%93%88%E8%88%87%E9%A5%E2%80%99%E8%88%8C%E7%99%BC%E5%B1%95/",
-      "hits": 8,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15",
-      "suggest": null
-    },
-    {
-      "path": "/proxy",
-      "hits": 8,
+      "path": "/details/images/favicon.ico",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot)",
-      "suggest": null
-    },
-    {
-      "path": "/economy/%3Cstrange-chars%3E",
-      "hits": 7,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/ar/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/ar/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/society/%3Cstrange-chars%3E",
-      "hits": 7,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/.git/config",
-      "hits": 7,
-      "family": "scanner",
-      "ua": "Go-http-client/1.1",
-      "suggest": null
-    },
-    {
-      "path": "/sf.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/admin.php/admin.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/x.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/buds1.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/ms.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "//item.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/buy.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/network/admin.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/jlex.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-content/upgrade-temp-backup/wp-login.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/doc.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
@@ -520,113 +681,94 @@
       "suggest": null
     },
     {
-      "path": "/samll.php",
+      "path": "/wp-includes/Text/wp-conflg.php",
       "hits": 6,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/xper1.php",
-      "hits": 6,
+      "path": "/zoo2.php",
+      "hits": 5,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.DuQvyK5A.css",
-      "hits": 6,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "path": "/values.yaml",
+      "hits": 5,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/id/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
+      "path": "/docker-compose.yaml",
       "hits": 5,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "hi",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
-    },
-    {
-      "path": "/food/%3Cstrange-chars%3E",
-      "hits": 5,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/es/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
+      "path": "/1",
       "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/technology/digital-id-and-digital-government"
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
     },
     {
-      "path": "/id/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
+      "path": "/assets/favicon-aOK6_042.ico",
       "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/lifestyle/taiwan-education-system"
+      "family": "missing-asset",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
     },
     {
-      "path": "/en/food/taiwan-banquet-culture/",
+      "path": "/news5c/assets/images/logo.svg",
+      "hits": 5,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/this_is_a_new_hello_world.php",
+      "hits": 5,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/en/culture/penghu-folk-culture/",
       "hits": 5,
       "family": "untranslated-demand",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
       "suggest": ["es", "fr", "ja", "ko", "vi"]
     },
     {
-      "path": "/fr/music/%E9%87%91%E6%9B%B2%E7%8D%8E.md",
+      "path": "/wp-json/",
       "hits": 5,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ko/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/cdn-cgi/l/email-protection",
-      "hits": 5,
-      "family": "probe-wellknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/article-images/people/angus-chiang-runway-portrait.jpg",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_9) AppleWebKit/581.9 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/581.9 Edg/105.0.1560.65",
-      "suggest": null
-    },
-    {
-      "path": "/en/society/index.html/",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/wp-conflg.php",
-      "hits": 4,
       "family": "scanner",
-      "ua": "",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/sitemap.xml",
+      "hits": 5,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/article-images/people/huang-shan-liao-book-signing.jpg",
+      "hits": 5,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/596.10 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/596.10 Edg/105.0.2436.14",
+      "suggest": null
+    },
+    {
+      "path": "/en/lifestyle/taiwan-coffee-culture",
+      "hits": 5,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
@@ -644,10 +786,17 @@
       "suggest": null
     },
     {
-      "path": "/hg.php",
+      "path": "/assets/fire_admin/images/logo.png",
       "hits": 4,
       "family": "scanner",
-      "ua": "",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/static/icon/bjch.png",
+      "hits": 4,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
@@ -658,35 +807,56 @@
       "suggest": null
     },
     {
-      "path": "/fzh",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-      "suggest": null
-    },
-    {
-      "path": "/mail.php",
+      "path": "/82.php",
       "hits": 4,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/nature/%3Cstrange-chars%3E",
+      "path": "/@fs/root/.env",
       "hits": 4,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "family": "scanner",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/res/favicon.ico",
+      "path": "/nox.php",
+      "hits": 4,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/Alvin9999/https/fanfan1.net/daohang/",
       "hits": 4,
       "family": "unknown",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "/wp-admin/js/widgets/index.php",
+      "path": "/kerang.php",
+      "hits": 4,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/.aws/credentials",
+      "hits": 4,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/api/v1/env",
+      "hits": 4,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/plugins/seoplugins/index.php",
       "hits": 4,
       "family": "scanner",
       "ua": "",
@@ -700,80 +870,24 @@
       "suggest": null
     },
     {
-      "path": "/zoo2.php",
-      "hits": 4,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/bossu.php",
-      "hits": 4,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/images/01.jpg",
-      "hits": 4,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-      "suggest": null
-    },
-    {
-      "path": "/wp-content/themes/astra/inc/ki1k.php",
-      "hits": 4,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/icons/favicon.ico",
+      "path": "/dist/.vite/manifest.json",
       "hits": 4,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/aaabbbccc",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-      "suggest": null
-    },
-    {
-      "path": "/wp-content/uploads/2023/08/logo-gold.png",
-      "hits": 4,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-      "suggest": null
-    },
-    {
-      "path": "/1",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-      "suggest": null
-    },
-    {
-      "path": "/assets/favicon-aOK6_042.ico",
-      "hits": 4,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-      "suggest": null
-    },
-    {
-      "path": "/filemanager/dialog.php",
+      "path": "/wp-admin/css/wp-conflg.php",
       "hits": 4,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-content/uploads/2023/02/1677572030-814390417fe413b.png",
+      "path": "/css/index.php",
       "hits": 4,
       "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "ua": "",
       "suggest": null
     },
     {
@@ -784,259 +898,207 @@
       "suggest": null
     },
     {
-      "path": "//wp-includes/l10n/themes.php",
+      "path": "/samll.php",
       "hits": 4,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/4PJcpMFsD8B.php",
+      "path": "/wp-login.php",
       "hits": 4,
       "family": "scanner",
-      "ua": "",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/dehnl.php",
-      "hits": 4,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fb",
+      "path": "/en/society/index.html/",
       "hits": 4,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/assets/GanjingAbout-Cb73sJYd.js",
+      "path": "/_astro/Layout.Dtv9EtcH.css",
       "hits": 4,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/id/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
+      "path": "/article-images/geography/kinmen-hero.png",
       "hits": 4,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "hi",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "suggest": null
     },
     {
-      "path": "/ko/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
+      "path": "/.DS_Store",
       "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/config.php",
-      "hits": 4,
-      "family": "scanner",
+      "family": "unknown",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/en/economy/industrial-transformation-taiwanese-economic-trajectory/",
+      "path": "/fr/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
+      "hits": 4,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
+    },
+    {
+      "path": "/en/art/indigenous-literature-traditions-and-revival/",
       "hits": 4,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
       "suggest": null
     },
     {
-      "path": "/ja/society/poisoned-potato-cognitive-warfare-taiwan/",
+      "path": "/technology/miin",
       "hits": 4,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": ["en", "es", "fr", "ko", "vi"]
+      "family": "cross-lang-slug",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+      "suggest": "/technology/%E8%BF%B7%E9%9F%B3Miin"
     },
     {
-      "path": "/vi/culture/lich-su-quang-cao-dai-loan",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/People/a-mei/",
+      "path": "/technology/history-of-taiwans-online-community-migration",
       "hits": 4,
       "family": "unknown",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/pt/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/lifestyle/taiwan-education-system"
+      "path": "/.git/config",
+      "hits": 4,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (l9scan/2.0.331313e2339313e27363e2237313; +https://leakix.net)",
+      "suggest": null
     },
     {
-      "path": "/_astro/Layout.DPtgTrvF.css",
+      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E5%AE%A2%E5%AE%B6%E9%9F%B3%E6%A5%BD/",
+      "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.B3tQCe_b.css",
       "hits": 3,
       "family": "stale-asset",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/people/%3Cstrange-chars%3E",
-      "hits": 3,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/ko/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/wp-includes/SimplePie/wp-conflg.php",
+      "path": "/btyuio.php",
       "hits": 3,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/vi/people/koxinga/null",
+      "path": "/bxroot.php",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/504.php",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/fzh",
       "hits": 3,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://de",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "//w3lls.php",
+      "path": "/akismet.php",
       "hits": 3,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-includes/pomo/install.php",
+      "path": "/667.php",
       "hits": 3,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/bs1.php",
+      "path": "/society/%E6%B0%91%E4%B8%BB%E9%80%B2%E6%AD%A5%E9%BB%A8%E6%88%90%E7%AB%8B/linear-gradient(to%20right,%20rgba(26,%2060,%2052,%200.04),%20rgba(0,%200,%200,%200))",
       "hits": 3,
-      "family": "scanner",
-      "ua": "",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ova.php",
+      "path": "/_astro/Layout.Cw6J-7SH.css",
       "hits": 3,
-      "family": "scanner",
-      "ua": "",
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/pt/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
+      "path": "/en/culture/taiwan-comics-and-animation-culture/",
       "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/miru1.php",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/es/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/ko/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/wp-admin/css/colors/blue/index.php",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/ru/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/id/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/pt/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
+      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E6%90%96%E6%BB%BE%E6%A5%BD%E7%99%BA%E5%B1%95%E5%8F%B2/",
       "hits": 3,
       "family": "unknown",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
       "suggest": null
     },
     {
-      "path": "/ja/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
+      "path": "/music/%E5%8F%B0%E6%B9%BE%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82/",
       "hits": 3,
-      "family": "slug-variant",
+      "family": "unknown",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/digital-id-and-digital-government"
+      "suggest": null
     },
     {
-      "path": "/ru/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
+      "path": "/sw.js",
       "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/technology/open-source-and-g0v"
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "suggest": null
     },
     {
-      "path": "/hi/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
+      "path": "/people/li%C3%AAn-vinh",
       "hits": 3,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "id",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/wefile.php",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/images.php",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/geography/%E6%9E%97%E5%AE%89%E6%B3%B0%E5%8F%A4%E5%8E%9D/linear-gradient(to%20right,%20rgba(26,%2060,%2052,%200.04),%20rgba(0,%200,%200,%200))",
+      "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
     },
     {
       "path": "/manage.php",
@@ -1053,35 +1115,42 @@
       "suggest": null
     },
     {
-      "path": "/wp-conflg.php",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/api/webhook",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/class9.php",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fwc",
+      "path": "/icons/favicon.ico",
       "hits": 3,
       "family": "unknown",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "/news5c/assets/images/logo.svg",
+      "path": "/aaabbbccc",
+      "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/wp-admin/user/chosen.php",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/db.php/new.php",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/uploads/2023/02/1677572030-814390417fe413b.png",
+      "hits": 3,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/fwc",
       "hits": 3,
       "family": "unknown",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
@@ -1095,557 +1164,347 @@
       "suggest": null
     },
     {
-      "path": "/es/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
+      "path": "/fb",
       "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/history/%3Cstrange-chars%3E",
-      "hits": 3,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "/ru/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
+      "path": "/assets/GanjingAbout-Cb73sJYd.js",
+      "hits": 3,
+      "family": "missing-asset",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/en/people/lee-ju-eun-singer",
+      "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%E9%9F%B3%E6%A5%BD/",
       "hits": 3,
       "family": "unknown",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
       "suggest": null
     },
     {
-      "path": "/phpinfo.php",
+      "path": "/society/toxic-potatoes-cognitive-warfare",
       "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/backend/.env",
+      "path": "/About/%E6%AF%94%E5%9C%8B%E5%AE%B6%E9%82%84%E5%A4%A7%E7%9A%84%E6%BC%94%E7%AE%97%E8%97%9D%E8%A1%93/",
       "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ja/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
+      "path": "/ar/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
       "hits": 3,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/society/taiwan-political-landscape-and-electoral-system"
+      "suggest": "/ar/technology/taiwan-semiconductor-industry"
     },
     {
-      "path": "/.aws/credentials",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/.env.backup",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/read",
+      "path": "/art/the-mountain-makers-a-centurys-bet",
       "hits": 3,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/api/.env",
+      "path": "/reports/research/2026-06/%E7%AC%A0%E8%A9%A9%E7%A4%BE.md",
       "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "family": "md-extension",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
       "suggest": null
     },
     {
-      "path": "/info.php",
+      "path": "/history/%E5%8F%B0%E7%81%A3%E7%B3%96%E6%A5%AD%E5%8F%B2",
       "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/contact",
+      "path": "/Technology/%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E8%AA%AA%E6%95%85%E4%BA%8B/",
       "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/.env.bak",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/.env.production",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/technology/computex-taipei/",
+      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
       "hits": 3,
       "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": "/en/technology/computex"
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/434.2.961627397 Mobile/15E148 Safari/604.1",
+      "suggest": "/ja/economy/mediatek"
     },
     {
-      "path": "/.env.old",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/xmlrpc.php",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-      "suggest": null
-    },
-    {
-      "path": "/src/.env",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/config.php.bak",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/Layout.BJ61y9-X.css",
-      "hits": 3,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1",
-      "suggest": null
-    },
-    {
-      "path": "/fr/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/.aws/config",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/.env.local",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/culture/taiwan-night-market-culture-and-street-food/",
+      "path": "/people/shen-pei-yang",
       "hits": 3,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/people/%E4%BA%94%E6%9C%88%E5%A4%A9",
+      "path": "/society/taiwan-and-eswatini",
       "hits": 3,
       "family": "unknown",
-      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/config/.env",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/download",
+      "path": "/society/black-bear-academy",
       "hits": 3,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot)",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/en/people/park-sung-eun/",
+      "path": "/society/taiwan-and-paraguay",
       "hits": 3,
-      "family": "renamed-or-truncated",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-      "suggest": "/en/people/park-sung-eun-actress"
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36",
+      "suggest": null
     },
     {
-      "path": "/ja/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
+      "path": "/society/%C4%90%C3%A0i-B%E1%BA%AFc-h%C3%BAt-thu%E1%BB%91c",
       "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (HTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petal",
+      "suggest": null
+    },
+    {
+      "path": "/economy/%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB.md",
+      "hits": 3,
+      "family": "md-extension",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.",
+      "suggest": null
+    },
+    {
+      "path": "/society/taiwan-media-and-press-freedom",
+      "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/en/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/",
+      "hits": 3,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot",
+      "suggest": null
+    },
+    {
+      "path": "/reports/research/2026-04/%E6%9E%97%E8%89%AF.md",
+      "hits": 3,
+      "family": "md-extension",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/es/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
+      "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/ptt-bulletin-board-system"
+      "suggest": "/es/society/sunflower-movement"
     },
     {
-      "path": "/.env.development",
-      "hits": 3,
+      "path": "/sf.php",
+      "hits": 2,
       "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "ua": "",
       "suggest": null
     },
     {
-      "path": "/sitemap.xml",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36 (compatible; AhrefsSiteAudit/6.1; +http://ahre",
-      "suggest": null
-    },
-    {
-      "path": "/ko/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/.well-known/security.txt",
-      "hits": 3,
-      "family": "probe-wellknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/terminology/%E7%A7%81%E8%A8%8A",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/en/geography/lienchiang-county/",
-      "hits": 3,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": ["ar", "es", "fr", "ja", "ko", "pt", "ru", "vi"]
-    },
-    {
-      "path": "/es/semiont/",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/contact-us",
-      "hits": 3,
+      "path": "/669092/index.php",
+      "hits": 2,
       "family": "scanner",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "ua": "",
       "suggest": null
     },
     {
-      "path": "/ja/history/democratic-transition",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:130.0) Gecko/20100101 Firefox/130.0",
-      "suggest": null
-    },
-    {
-      "path": "/ko/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/en/lifestyle/toll-station",
-      "hits": 3,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-      "suggest": ["es", "fr", "ja", "ko", "vi"]
-    },
-    {
-      "path": "/about/t%E1%BA%A1i-sao-%C4%91%C3%A0i-loan-c%E1%BA%A7n-kho-tri-th%E1%BB%A9c-c%E1%BB%A7a-ri%C3%AAng-m%C3%ACnh",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/music/truyen-thong-am-nhac-ban-dia-dai-loan",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ko/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)",
-      "suggest": null
-    },
-    {
-      "path": "/lifestyle/Pixnet",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)",
-      "suggest": null
-    },
-    {
-      "path": "/debug/default/view",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
-      "suggest": null
-    },
-    {
-      "path": "/@fs/proc/self/environ",
-      "hits": 3,
+      "path": "/rclone.conf",
+      "hits": 2,
       "family": "unknown",
       "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
       "suggest": null
     },
     {
-      "path": "/people/Lin%20Youjia",
-      "hits": 3,
+      "path": "/economy/ch%C3%ADnh-s%C3%A1ch-th%C6%B0%C6%A1ng-m%E1%BA%A1i-qu%E1%BB%91c-t%E1%BA%BF",
+      "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.137 Safari/537.36",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/vi/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
+      "path": "/vi/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/history/taiwan-democratization"
+      "suggest": "/vi/society/taiwan-political-landscape-and-electoral-system"
     },
     {
-      "path": "/ru/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
+      "path": "/assets/fonts/Inter-Medium.woff2",
       "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/society/sunflower-movement"
+      "family": "missing-asset",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 AVG/150.0.0.0",
+      "suggest": null
     },
     {
-      "path": "/_astro/Layout.B3tQCe_b.css",
+      "path": "/289.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/images/favicon-196x196.png",
+      "hits": 2,
+      "family": "missing-asset",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/society/United%20Front%20Work",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.CzeECMOH.css",
       "hits": 2,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/en/art/%E7%8E%8B%E9%80%A3%E6%99%9F",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
-      "suggest": "/en/art/wang-lien-cheng-artist"
-    },
-    {
-      "path": "/pt/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
+      "path": "/fr/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/sunflower-movement"
+      "suggest": "/fr/society/media-and-press-freedom-in-taiwan"
     },
     {
-      "path": "/wp-includes/images/wlw/wp-login.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/htaccess.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/pt/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/pt/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/es/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/en/culture/penghu-folk-culture/",
-      "hits": 2,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-      "suggest": ["es", "fr", "ja", "ko", "vi"]
-    },
-    {
-      "path": "/sitemap_index.xml",
+      "path": "/history/%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B/linear-gradient(135deg,%20rgba(146,%2064,%2014,%200.133),%20rgba(146,%2064,%2014,%200.267))",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36 (compatible; AhrefsSiteAudit/6.1; +http://ahre",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/hi/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/wp-content/plugins/about.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/vi/society/commonwealth-magazine/null",
+      "path": "/article-images/people/yin-yan-liang-tang-prize-reception.jpg",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://de",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/society/c%C3%B4ng-l%C3%BD-l%C3%A0m-vi%E1%BB%87c-h%E1%BA%A1n-ch%E1%BA%BF-%C4%91%C3%A0o-vi%C3%AAn-k%C3%A8m-theo-tranh-ch%E1%BA%A5p-k%E1%BB%B5-h%C3%A0ng-x%C3%B3m",
+      "path": "/history/%E5%8F%B0%E7%81%A3%E8%87%AA%E4%BE%86%E6%B0%B4%E5%8F%B2",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/pop.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/pt/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/vi/society/the-reporter-investigative-journalism/null",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://de",
-      "suggest": null
-    },
-    {
-      "path": "//aa.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/people/Culture/%E5%8F%B0%E7%81%A3%E7%B6%9C%E8%97%9D.md",
+      "path": "/knowledge/en/Economy/economic-miracle.md",
       "hits": 2,
       "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/vi/economy/evergreen-marine/null",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+http",
-      "suggest": null
-    },
-    {
-      "path": "/en/geography/%E4%B8%AD%E5%B1%B1%E5%8C%97%E8%B7%AF%E6%A2%9D%E9%80%9A/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": "/en/geography/zhongshan-north-road-tiaotong"
-    },
-    {
-      "path": "/ko/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
+      "path": "/ja/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/lifestyle/taiwan-education-system"
+      "suggest": "/ja/society/media-and-press-freedom-in-taiwan"
     },
     {
-      "path": "//av.php",
+      "path": "/history/%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B/linear-gradient(to%20right,%20rgba(26,%2060,%2052,%200.04),%20rgba(0,%200,%200,%200))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/filemanager.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.BT7QFo_O.css",
+      "path": "/ko/people/%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83/",
       "hits": 2,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
-      "suggest": null
-    },
-    {
-      "path": "/art/%3Cstrange-chars%3E",
-      "hits": 2,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/ru/economy/taiwan-uniform-invoice/null",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+http",
-      "suggest": null
-    },
-    {
-      "path": "/economy/%EB%8C%80%EB%A7%8C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%A3%BC%EB%AC%B8-%EC%A0%9C%EC%9E%91",
-      "hits": 2,
-      "family": "unknown",
+      "family": "slug-variant",
       "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
+      "suggest": "/ko/people/constant-and-change-band"
     },
     {
-      "path": "/ty.php",
+      "path": "/5PJcpMFsD8B.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/en/economy/%E7%94%9F%E6%B4%BB%E5%B8%82%E9%9B%86",
+      "path": "/CVS/Entries",
       "hits": 2,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/ap",
-      "suggest": ["zh"]
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "suggest": null
     },
     {
-      "path": "/ar/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
+      "path": "/society/%E5%8F%B0%E7%81%A3%E5%8A%A0%E5%B7%A5%E5%87%BA%E5%8F%A3%E5%8D%80",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/es/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/history/taiwan-democratization"
+      "suggest": "/es/history/taiwan-democratization"
+    },
+    {
+      "path": "/hi/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/hi/society/taiwan-political-landscape-and-electoral-system"
+    },
+    {
+      "path": "/people/People/Hello-Nico",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/reports/NML-semiont-analysis-2026-05-04.md",
+      "hits": 2,
+      "family": "md-extension",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/vi/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/vi/lifestyle/taiwan-healthcare-and-national-health-insurance"
     },
     {
       "path": "/id/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
@@ -1655,87 +1514,108 @@
       "suggest": ["zh", "ar", "en", "es", "fr", "ja", "ko", "pt", "ru", "vi"]
     },
     {
-      "path": "/vi/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
+      "path": "/ja/history/indigenous-peoples-history-and-renaming/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/assets/fonts/Inter-Regular.woff2",
+      "hits": 2,
+      "family": "missing-asset",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 AVG/150.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/ar/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/society/sunflower-movement"
+      "suggest": "/ar/society/taiwan-political-landscape-and-electoral-system"
     },
     {
-      "path": "/en/history/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3",
+      "path": "/en/history/black-bat-squadron/null",
       "hits": 2,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/ap",
-      "suggest": ["zh"]
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://de",
+      "suggest": null
     },
     {
-      "path": "/en/people/%E6%9D%8E%E9%81%A0%E5%93%B2/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": "/en/people/lee-yuan-tseh"
-    },
-    {
-      "path": "/ko/lifestyle/TBD-NEEDS-SLUG/",
+      "path": "/terminology/%E9%AC%86%E9%A4%85",
       "hits": 2,
       "family": "unknown",
       "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/pt/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
+      "path": "/Economy/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/ja/technology/digital-animation-industry",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/en/terminology/%E5%90%91%E5%BE%8C%E5%85%BC%E5%AE%B9/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.137 Mobile Safari/537.36 (compatible; Googleb",
+      "suggest": null
+    },
+    {
+      "path": "/vi/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
+      "suggest": "/vi/technology/digital-id-and-digital-government"
     },
     {
-      "path": "/en/people/%E9%99%B3%E5%B9%B8%E5%A6%A4",
+      "path": "/ja/history/qing-dynasty-era/",
       "hits": 2,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/ap",
-      "suggest": ["zh"]
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
     },
     {
-      "path": "/es/art/%E8%91%89%E5%BB%B7%E7%9A%93/",
+      "path": "/media/system/js/core.js",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Go-http-client/2.0",
+      "suggest": null
+    },
+    {
+      "path": "/economy/%E4%B8%AD%E5%A3%A2/linear-gradient(135deg,%20rgba(194,%2065,%2012,%200.133),%20rgba(194,%2065,%2012,%200.267))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/hi/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/ko/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
       "hits": 2,
       "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": "/es/art/yeh-ting-hao"
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/ko/society/sunflower-movement"
     },
     {
-      "path": "/bibil.php",
+      "path": "/.git/HEAD",
       "hits": 2,
       "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/terminology/%E8%A1%8C%E9%8A%B7",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/music/%3Cstrange-chars%3E",
-      "hits": 2,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/function.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
@@ -1746,465 +1626,549 @@
       "suggest": ["en"]
     },
     {
-      "path": "/xv.php",
+      "path": "/wp-the.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/wp-xx.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/hi/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
+      "path": "/ar/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
+      "suggest": "/ar/lifestyle/taiwan-education-system"
     },
     {
-      "path": "/technology/%3Cstrange-chars%3E",
-      "hits": 2,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/includes/wp-conflg.php",
+      "path": "/wp-includes/images/smilies/index.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/ko/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
+      "path": "/vi/people/lin-yang-badminton",
       "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/history/taiwan-democratization"
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (HTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petal",
+      "suggest": null
     },
     {
-      "path": "/@fs/proc/1/environ",
+      "path": "/ko/lifestyle/Taiwan%20Healthcare%20and%20National%20Health%20Insurance/",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; Amzn-SearchBot/1.0; +https://developer.amazon.com/support/amazonbot)",
-      "suggest": null
-    },
-    {
-      "path": "/wp-2019.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fr/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 2,
-      "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/technology/ptt-bulletin-board-system"
+      "suggest": null
     },
     {
-      "path": "/id/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/az.php",
+      "path": "/themes.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/byp.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/file.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%A0%94%E8%8F%AF%E7%A7%91%E6%8A%80/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB.md",
-      "hits": 2,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)",
-      "suggest": null
-    },
-    {
-      "path": "/ru/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/inso.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/vi/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/elp.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/politics/%3Cstrange-chars%3E",
-      "hits": 2,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/article-images/food/tianliao-moon-world-badlands-2019.jpg",
+      "path": "/ru/history/black-bat-squadron/null",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://de",
       "suggest": null
     },
     {
-      "path": "/ja/technology/taiwan-online-community-migration",
-      "hits": 2,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": ["en", "es", "fr", "ko", "pt", "vi"]
-    },
-    {
-      "path": "/ru/people/History/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E8%87%BA%E7%81%A3%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95",
+      "path": "/en/history/dutch-spanish-and-koxinga-era/_astro/FeedbackWidget.astro_astro_type_script_index_0_lang.Cu2plPTs.js",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "ua": "Mozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)",
       "suggest": null
     },
     {
-      "path": "/article-images/society/guangfu-921-memorial-2003.jpg",
+      "path": "/en/People/charles-le-gendre/",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.3",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/api/fetch",
+      "path": "/.svn/wc.db",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/pt/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
+      "path": "/ja/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
       "hits": 2,
-      "family": "slug-variant",
+      "family": "unknown",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/es/terminology/%E4%BA%92%E5%99%B4/",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/admin.php",
+      "path": "/culture/cultura-y-lengua-hakka",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/en/history/dutch-spanish-and-koxinga-era/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appen",
+      "suggest": null
+    },
+    {
+      "path": "/bossu.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/ru/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/ko/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/security.txt",
+      "path": "/article-images/society/tdri-songshan-entrance-2022.jpg",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/fr/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/ru/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/terminology/%E8%99%95%E6%96%B9%E7%AE%8B",
+      "path": "/lifestyle/%E5%85%AD%E7%A6%8F%E6%9D%91/linear-gradient(to%20right,%20rgba(26,%2060,%2052,%200.04),%20rgba(0,%200,%200,%200))",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ops.php",
+      "path": "/society/%E6%B0%91%E4%B8%BB%E9%80%B2%E6%AD%A5%E9%BB%A8%E6%88%90%E7%AB%8B/linear-gradient(135deg,%20rgba(71,%2085,%20105,%200.133),%20rgba(71,%2085,%20105,%200.267))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/en/art/%E5%8F%B0%E7%81%A3%E7%AD%96%E5%B1%95%E4%BA%BA%E8%88%87%E8%97%9D%E8%A1%93%E6%96%87%E5%8C%96%E5%BB%BA%E6%A7%8B",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
+      "suggest": "/en/art/taiwanese-curators-and-artistic-cultural-construction"
+    },
+    {
+      "path": "/ar/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/ar/technology/open-source-and-g0v"
+    },
+    {
+      "path": "/economy/%E4%B8%AD%E5%A3%A2/linear-gradient(to%20right,%20rgba(26,%2060,%2052,%200.04),%20rgba(0,%200,%200,%200))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/society/%E7%BE%A9%E6%B6%88/linear-gradient(135deg,%20rgba(71,%2085,%20105,%200.133),%20rgba(71,%2085,%20105,%200.267))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/gg.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/ru/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
+      "path": "/id/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/lifestyle/taiwan-education-system"
+      "suggest": "/id/technology/taiwan-semiconductor-industry"
     },
     {
-      "path": "/en/food/%E5%8F%B0%E7%81%A3%E9%B9%BD%E9%85%A5%E9%9B%9E/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": "/en/food/taiwanese-popcorn-chicken-redux"
-    },
-    {
-      "path": "/lifestyle/%3Cstrange-chars%3E",
-      "hits": 2,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://o",
-      "suggest": null
-    },
-    {
-      "path": "/index/function.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wp-admin/js/index.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/.gitlab-ci.yml",
+      "path": "/article-images/art/nml-hermeneutics-nusantara-inline-2017.jpg",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ru/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
+      "path": "/id/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/technology/taiwan-semiconductor-industry"
+      "suggest": "/id/technology/ptt-bulletin-board-system"
     },
     {
-      "path": "/ja/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/pt/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/history/taiwan-democratization"
-    },
-    {
-      "path": "/ja/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/pt/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/terminology/%E7%95%A2%E6%A5%AD%E5%85%B8%E7%A6%AE",
+      "path": "/vi/culture/t%E1%BA%A1p-ch%C3%AD",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
       "suggest": null
     },
     {
-      "path": "/wp-includes/wp-class.php",
+      "path": "/wp-content/plugins/index.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/reports/research/2026-05/%E7%81%BD%E9%9B%A3%E5%BF%97%E5%B7%A5%E6%96%87%E5%8C%96-evolve.md",
+      "path": "/Economy/%E6%96%87%E5%8C%96%E5%85%A7%E5%AE%B9%E7%AD%96%E9%80%B2%E9%99%A2/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/k.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/dex.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/reports/research/2026-05/%E7%8E%8B%E7%A6%8F%E7%91%9E.md",
       "hits": 2,
       "family": "md-extension",
       "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
       "suggest": null
     },
     {
-      "path": "/vi/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/@fs/root/.aws/credentials",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ja/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/society/sunflower-movement"
-    },
-    {
-      "path": "/ru/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/terminology/%E4%BE%BF%E7%95%B6",
+      "path": "/themes/custom/ahaspeed/favicon.ico",
       "hits": 2,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "/wp-admin/user/chosen.php",
+      "path": "/en/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E8%8F%AF%E9%9B%BB%E5%AD%90",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/ap",
+      "suggest": "/en/economy/united-microelectronics-corporation"
+    },
+    {
+      "path": "/history/%E5%8F%B0%E7%81%A3%E7%B3%96%E6%A5%AD/",
+      "hits": 2,
+      "family": "renamed-or-truncated",
+      "ua": "facebookexternalhit/1.1;line-poker/1.0",
+      "suggest": "/history/台灣糖業鐵路"
+    },
+    {
+      "path": "//ops.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/vi/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
+      "path": "/ar/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
+      "suggest": "/ar/lifestyle/taiwan-healthcare-and-national-health-insurance"
     },
     {
-      "path": "/ccou.php",
+      "path": "/_astro/index.astro_astro_type_script_index_0_lang.XjXJihms.js",
+      "hits": 2,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1",
+      "suggest": null
+    },
+    {
+      "path": "/es/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/es/technology/ptt-bulletin-board-system"
+    },
+    {
+      "path": "/people/t%E1%BB%AB-b%C3%A1c-t%C3%A2m",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/ap",
+      "suggest": null
+    },
+    {
+      "path": "/society/%E7%BE%A9%E6%B6%88/linear-gradient(to%20right,%20rgba(26,%2060,%2052,%200.04),%20rgba(0,%200,%200,%200))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/ko/history/black-bat-squadron/null",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalagent/1.1 (+https://de",
+      "suggest": null
+    },
+    {
+      "path": "/imgs/logox.png",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+      "suggest": null
+    },
+    {
+      "path": "/es/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/es/society/taiwan-political-landscape-and-electoral-system"
+    },
+    {
+      "path": "/history/%E5%8F%B0%E7%81%A3%E9%83%B5%E6%94%BF%E5%8F%B2",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/wp-block.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/hi/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
+      "path": "/article-images/people/yin-1st-tang-prize-laureates-2014.jpg",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/reinacti.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/fling.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/BDKR28WP.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/FeedbackWidget.astro_astro_type_script_index_0_lang.CnBQ34Eo.js",
+      "hits": 2,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+      "suggest": null
+    },
+    {
+      "path": "/es/History/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E8%87%BA%E7%81%A3%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/.hg/store/fncache",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/society/Cognitive%20Warfare",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/hi/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
       "hits": 2,
       "family": "slug-variant",
       "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/technology/taiwan-semiconductor-industry"
+      "suggest": "/hi/society/media-and-press-freedom-in-taiwan"
     },
     {
-      "path": "/_astro/Layout.Dtv9EtcH.css",
+      "path": "/society/Taiwan_Political_Environment_and_Electoral_System",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
+      "suggest": null
+    },
+    {
+      "path": "/file6.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/m.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/people/%E8%94%A1%E9%BB%91%E7%9A%AE/](](https:/www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E6%B0%91%E8%AC%A1%E9%81%8B%E5%8B%95/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.CrEHgEvF.css",
       "hits": 2,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/link.php",
+      "path": "/img.php",
       "hits": 2,
       "family": "scanner",
       "ua": "",
       "suggest": null
     },
     {
-      "path": "/pt/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/about/why-taiwans-needs-its-own-knowledge-base",
+      "path": "/article-images/society/under-protest-rome-1960.jpg",
       "hits": 2,
       "family": "unknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/doc.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/ja/lifestyle/Taiwan%20Healthcare%20and%20National%20Health%20Insurance/",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": null
+    },
+    {
+      "path": "/vi/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/vi/society/media-and-press-freedom-in-taiwan"
+    },
+    {
+      "path": "/dehnl.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/static/favicon.ico",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Go-http-client/2.0",
+      "suggest": null
+    },
+    {
+      "path": "/ok.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/music/%C3%A2m-nh%E1%BA%A1c-%C4%91%E1%BB%99c-l%E1%BA%ADp-%C4%91%C3%A0i-loan",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/hi/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
+      "hits": 2,
+      "family": "slug-variant",
+      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "suggest": "/hi/technology/digital-id-and-digital-government"
+    },
+    {
+      "path": "/503.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/history/%E7%98%A7%E7%96%BE%E6%A0%B9%E9%99%A4/linear-gradient(135deg,%20rgba(146,%2064,%2014,%200.133),%20rgba(146,%2064,%2014,%200.267))",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/es/people/%E5%85%AB%E7%82%AF.md",
+      "hits": 2,
+      "family": "md-extension",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/themes/index.php",
+      "hits": 2,
+      "family": "scanner",
+      "ua": "",
+      "suggest": null
+    },
+    {
+      "path": "/hi/people/huang-shan-liao/",
+      "hits": 2,
+      "family": "untranslated-demand",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "suggest": ["ar", "en", "es", "fr", "id", "ja", "ko", "pt", "ru", "vi"]
+    },
+    {
+      "path": "/culture/%E9%9B%9E%E7%B1%A0%E4%B8%AD%E5%85%83%E7%A5%AD",
+      "hits": 2,
+      "family": "unknown",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
       "suggest": null
     },
     {
-      "path": "/es/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
+      "path": "/images/favicon.ico",
       "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/ru/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/vi/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/wp-includes/block-supports/autoload_classmap.php",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "",
+      "family": "missing-asset",
+      "ua": "Go-http-client/2.0",
       "suggest": null
     },
     {
-      "path": "/wp-links.php",
+      "path": "/wp-includes/css/buttons.css",
       "hits": 2,
       "family": "scanner",
-      "ua": "",
+      "ua": "Go-http-client/2.0",
       "suggest": null
     }
   ],

@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1057 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 12,684 article-versions
+- 📖 **1087 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 13,044 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,10 +95,10 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1057  |
-| 🇹🇼 Chinese (zh-TW)             | 1057  |
+| 📄 Total articles (zh-TW SSOT) | 1087  |
+| 🇹🇼 Chinese (zh-TW)             | 1087  |
 | 🇺🇸 English (en)                | 885   |
-| 🇯🇵 日本語 (ja)                 | 882   |
+| 🇯🇵 日本語 (ja)                 | 883   |
 | 🇰🇷 한국어 (ko)                 | 885   |
 | 🇪🇸 Español (es)                | 883   |
 | 🇫🇷 Français (fr)               | 884   |
@@ -114,8 +114,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 👥 Contributors                | 75    |
 | ⭐ GitHub Stars                | 1154  |
 | 🍴 Forks                       | 181   |
-| 📅 Articles last 7 days        | 161   |
-| 📅 Articles last 30 days       | 219   |
+| 📅 Articles last 7 days        | 187   |
+| 📅 Articles last 30 days       | 253   |
 
 <!-- STATS:END -->
 
@@ -601,14 +601,14 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/p3nchan"><img src="https://avatars.githubusercontent.com/u/5032148?v=4" width="100px;" alt=""/><br /><sub><b>Penchan</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/ting-hong-shieh"><img src="https://avatars.githubusercontent.com/u/32212900?v=4" width="100px;" alt=""/><br /><sub><b>ting-hong-shieh</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />💻 🌍</td>
-    <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="100px;" alt=""/><br /><sub><b>Ray Tien</b></sub></a><br />💻 🖋️</td>
-    <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/wegoliao"><img src="https://avatars.githubusercontent.com/u/10190551?v=4" width="100px;" alt=""/><br /><sub><b>wegoliao</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/jessejs0202"><img src="https://avatars.githubusercontent.com/u/247524286?v=4" width="100px;" alt=""/><br /><sub><b>jessejs0202</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/benben6515"><img src="https://avatars.githubusercontent.com/u/61361198?v=4" width="100px;" alt=""/><br /><sub><b>benben6515</b></sub></a><br />💻</td>
