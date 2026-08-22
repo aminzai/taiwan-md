@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-22 twmd-maintainer-am — whole-tree-gate-judges-from-the-branch-it-is-standing-on：全站閘門在別人的分支上跑，量到的是那棵樹的年紀不是這次改動
+
+- **pattern**: `whole-tree-gate-judges-from-the-branch-it-is-standing-on`
+- **原則**：**掃描範圍是「全站」的閘門，跟「只驗這次改動」的閘門，對站在哪棵樹上的敏感度完全不同**。後者換棵樹還能給出有意義的答案，前者不行——它會把那棵樹缺的、舊的、還沒被 heal 的東西全部算成本次 push 的罪狀。pre-push 的全站 `article-health --profile=ci-deploy` 掃描是為 main 設計的：main 永遠是最新的、被 heal 過的。但 MAINTAINER §1b 的 P1 路徑**要求**維護者 checkout 到投稿者的分支去推格式修補，那一刻 HEAD 上的整棵樹是投稿者 fork 當下的快照。
+- **觸發**：2026-08-22 maintainer-am 走 P1 對九個 PR 推 heal。前六個順利通過，第七個 [PR #1561](https://github.com/frank890417/taiwan-md/pull/1561) 被 pre-push 擋下，理由是「全站 article-health 有 HARD fail」。實際查下去，紅的不是我推的那個檔，是那棵樹上 `public/article-images/people/` 少了四張圖，而那四張圖是 **8/20 才在 main 上被 heal 進去的**（大寫 `People/` 與小寫 `people/` 兩個資料夾合併那次）。投稿者的分支叉在那之前，於是別的文章引用的圖在那棵樹上找不到 → 全站掃描紅 → 我這次完全無關的 push 被擋。**擋下我的不是我做錯的事，是投稿者兩天前叉出去這件事。**
+- **第二層代價（本次真的發生了）**：macOS 檔案系統不分大小寫，checkout 到那棵有大寫 `People/` 的分支時，main 上小寫 `people/` 的四張圖被實體覆蓋掉；回到 main 之後 `git status` 顯示四個 ` D`，要手動 `git checkout -- public/article-images/` 才救回來。**一次無效的閘門判定，順帶在工作樹上留了四個真實的刪除。**
+- **當下處置**：用既有逃生口 `TWMD_SKIP_PREPUSH_SWEEP=1` 放行——這正是那個 flag 該被用的場景（判定無效，且 CI 用 3-dot merge-base 仍會擋）。但**逃生口是給「routine 真的不能停」的例外，不是給一條每天都要走的路徑**。P1 現在是格式債的 default（v2.8），代表這個衝突會每天發生，而每天都用 skip flag 等於這道閘門對 P1 路徑實質失效——**沒有人會發現它從守門變成常態跳過**。
+- **跟既有教訓的關係**：`diagnosing-from-the-contributor-tree-audits-a-past-self`（2026-08-18）講的是**人**站在投稿者的樹上讀我們的工具，會對著自己昨天的樣子下結論；MAINTAINER Stage 2 §診斷紀律 因此規定「把內容帶進 main 樹跑」。這一條是同一個病的**閘門版**：SOP 已經教會人不要站錯樹，但 pre-push hook 沒有被教會，而 P1 路徑**強迫**它站錯樹。SOP 修好了人的那半，機器那半沒人修。
+- **修補候選**：(a) pre-push 的全站掃描加分支判斷——只在 push 目標是 `origin/main` 時跑全站，push 到 fork 分支時退成「只驗這次 commit 動到的檔」（這是唯一在那棵樹上有意義的問題）；(b) P1 heal 不 checkout，改用 `git worktree` 或直接構造 blob/tree 用 GitHub API 推單檔，讓本機 HEAD 永遠留在 main（順帶解掉大小寫覆蓋那層代價）；(c) 最小補丁：在 MAINTAINER §1b P1 操作速查裡明寫「推 fork 分支時帶 `TWMD_SKIP_PREPUSH_SWEEP=1`，並在 memory 記下該檔對 main 樹的 hard 數」。**推薦 (a)**：它把「這道閘門在問誰的問題」修對，(c) 只是把每天跳過閘門這件事寫成正式規定，(b) 成本較高但一併解掉大小寫那個副作用。
+- **可能層級**：工具修補（`.husky/pre-push` 分支感知）＋ 候選反射（「掃描範圍是全站的檢查，換一棵樹就換一個問題——用它之前先確認腳下這棵樹是不是它假設的那棵」）
+- **相關**：`diagnosing-from-the-contributor-tree-audits-a-past-self`（2026-08-18，同病的人類版）／REFLEXES #82（proxy signal）／REFLEXES #24（工具在說謊）／`local-fs-case-insensitivity-masks-ci-failure`（2026-08-03，大小寫那層代價的既有 instance）
+- **verification_count**: 1
+
 ### 2026-08-21 twmd-maintainer-am — prescribed-verification-unavailable-to-unattended-runs：pipeline 指名的兩條驗證路徑，對真正需要它們的那種 session 都是關著的
 
 - **pattern**: `prescribed-verification-unavailable-to-unattended-runs`

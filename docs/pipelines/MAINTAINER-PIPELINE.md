@@ -117,13 +117,13 @@ upstream_canonical:
 
 #### 優先序（由高到低，必須依序嘗試）
 
-| 順位            | 動作                                                                                  | 何時用                                                        | GitHub PR 狀態                   |
-| --------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------- |
-| **P0**          | `gh pr merge N --merge` 或 `--squash`（依 §合併策略）                                 | CI green / MERGEABLE / 無硬衝突                               | **MERGED** ✅                    |
-| **P1** ⭐ v2.8  | heal 直接 push 到 PR head 分支（`maintainerCanModify: true` 時**這是格式債的 default**，不等對方讀懂 gate 說明再自己修）→ CI 轉綠 → 再 `gh pr merge` | 需先過 hard gate 才敢 merge 的格式債（缺 subcategory / 全形分號 / 圖片熱連結 / 腳註格式） | **MERGED** ✅                    |
-| **P2**          | `gh pr merge` 後立刻 main heal commit（Co-authored-by 保留）                          | 格式可後修且 heal 能在同一個 push 週期完成（否則走 P1，避免全站 deploy 閘門紅窗——LESSONS `merge-first-collides-with-all-file-deploy-gate`） | **MERGED** ✅ 再 polish          |
-| **P3**          | `bash scripts/tools/cherry-merge-prs.sh N`（native merge 優先，fallback 才 checkout） | GitHub 無法直接 merge（conflict / permission）                | 見腳本：fallback 後仍應標 MERGED |
-| **P4 事後補洞** | 內容已誤進 main 且 PR 誤 close → reopen + `git merge -s ours <pr-head>` + push        | **僅補救**，不是 default                                      | **MERGED**（tree 保持 main）     |
+| 順位            | 動作                                                                                                                                                 | 何時用                                                                                                                                      | GitHub PR 狀態                   |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **P0**          | `gh pr merge N --merge` 或 `--squash`（依 §合併策略）                                                                                                | CI green / MERGEABLE / 無硬衝突                                                                                                             | **MERGED** ✅                    |
+| **P1** ⭐ v2.8  | heal 直接 push 到 PR head 分支（`maintainerCanModify: true` 時**這是格式債的 default**，不等對方讀懂 gate 說明再自己修）→ CI 轉綠 → 再 `gh pr merge` | 需先過 hard gate 才敢 merge 的格式債（缺 subcategory / 全形分號 / 圖片熱連結 / 腳註格式）                                                   | **MERGED** ✅                    |
+| **P2**          | `gh pr merge` 後立刻 main heal commit（Co-authored-by 保留）                                                                                         | 格式可後修且 heal 能在同一個 push 週期完成（否則走 P1，避免全站 deploy 閘門紅窗——LESSONS `merge-first-collides-with-all-file-deploy-gate`） | **MERGED** ✅ 再 polish          |
+| **P3**          | `bash scripts/tools/cherry-merge-prs.sh N`（native merge 優先，fallback 才 checkout）                                                                | GitHub 無法直接 merge（conflict / permission）                                                                                              | 見腳本：fallback 後仍應標 MERGED |
+| **P4 事後補洞** | 內容已誤進 main 且 PR 誤 close → reopen + `git merge -s ours <pr-head>` + push                                                                       | **僅補救**，不是 default                                                                                                                    | **MERGED**（tree 保持 main）     |
 
 #### 格式債的 default 是 P1，不是等對方讀懂閘門（2026-08-19 補明文）
 
@@ -134,6 +134,8 @@ gh pr view N --json maintainerCanModify -q .maintainerCanModify   # true = 可�
 ```
 
 **為什麼 default 要往這邊倒**：閘門的說明留言對 fork PR 的 token 是唯讀的，必定 403；改寫進 `$GITHUB_STEP_SUMMARY` 之後理由讀得到了，但要對方主動點進 Actions 才看得見。2026-08-15 idlccp1984 七篇全部在那個修補上線**之後**送出、全部敗在同一道 `frontmatter-gate`、**三天零修正**，直到 8/18 維護者直接把修補推進他的分支才動起來（LESSONS `reopened-channel-still-needs-someone-to-walk-down-it`）。「我們現在有講」跟「他現在知道」之間隔著一段沒有人會替他走的路——格式債本來就是我們的尺造出來的，讓投稿者去讀懂我們的尺再自己滿足它，是把維護成本外包給最不熟這套工具的人。
+
+**P1 推對方分支時，全站 pre-push 掃描會量錯樹**（2026-08-22 修）：checkout 到投稿者分支的那一刻，HEAD 上整棵樹是對方 fork 當下的快照，`pre-push` 的全站 `article-health --all` 掃到的紅點多半是「那棵樹叉出去之後 main 才 heal 掉的東西」，跟這次推的檔無關（PR #1561 被 8/20 才進 main 的四張圖擋下）。`.husky/pre-push` 已改成看 push 目標 URL：推非本庫 remote 時自動退成「只驗本次 commit 動到的 `knowledge/*.md`」。**另外 macOS 檔案系統不分大小寫**，checkout 到含大寫 `People/` 的舊分支會覆蓋掉 main 的小寫 `people/` 圖檔——回 main 後跑一次 `git checkout -- public/article-images/` 確認工作樹乾淨。LESSONS `whole-tree-gate-judges-from-the-branch-it-is-standing-on`。
 
 **邊界**：P1 只推**格式**修補。內容判斷（事實、立場、要不要收這個主題）不推進對方分支——那是 Step 3.3 / §自主權邊界 的事，不是格式債。推完 CI 轉綠再 `gh pr merge`，投稿者拿到的仍是綠色 Merged 與完整譜系。
 

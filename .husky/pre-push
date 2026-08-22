@@ -37,8 +37,34 @@ fi
 # 2. correctness gate — 全站 article-health（CI ci-deploy 同款 mirror）。HARD fail → block。
 #    抓 pre-commit staged-only 抓不到的 cross-file 失格（新 check / prettier mangle 弄壞舊檔）。
 #    ~4.5s。逃生：TWMD_SKIP_PREPUSH_SWEEP=1。先跑這個 → 壞樹直接擋，不用等下面 in-flight CI。
+#    2026-08-22：加 push 目標判斷。全站掃描假設「腳下這棵樹是 main」——MAINTAINER §1b 的 P1
+#    路徑要求 checkout 到投稿者分支去推格式修補，那一刻整棵樹是對方 fork 當下的快照，全掃紅的是
+#    他兩天前叉出去這件事，不是這次 push（LESSONS `whole-tree-gate-judges-from-the-branch-it-is-standing-on`：
+#    PR #1561 因 8/20 才 heal 進 main 的四張圖在那棵樹上不存在而被擋）。推到非本庫 remote 時
+#    退成「只驗這次要 push 的 commit 動到的檔」——那是在那棵樹上唯一有意義的問題。
+PUSH_URL="${2:-}"
+case "$PUSH_URL" in
+  *frank890417/taiwan-md*|"") SWEEP_SCOPE="all" ;;
+  *)                          SWEEP_SCOPE="changed" ;;
+esac
+
 if [ "${TWMD_SKIP_PREPUSH_SWEEP:-0}" = "1" ]; then
   echo "🧬 pre-push: TWMD_SKIP_PREPUSH_SWEEP=1，跳過全站 article-health 全掃（CI 仍會擋）"
+elif [ "$SWEEP_SCOPE" = "changed" ] && [ -f "$REPO/scripts/tools/article-health.py" ] && command -v python3 >/dev/null 2>&1; then
+  # 推到別人的 fork（P1 heal-to-contributor-branch）：只驗本次 commit 動到的 knowledge/*.md
+  CHANGED="$(git diff --name-only "@{u}"...HEAD 2>/dev/null | grep -E '^knowledge/.*\.md$' || git show --name-only --pretty=format: HEAD 2>/dev/null | grep -E '^knowledge/.*\.md$')"
+  if [ -n "$CHANGED" ]; then
+    BAD=0
+    for f in $CHANGED; do
+      [ -f "$f" ] || continue
+      python3 "$REPO/scripts/tools/article-health.py" "$f" --profile=ci-deploy --quiet >/dev/null 2>&1 || BAD=1
+    done
+    if [ "$BAD" = "1" ]; then
+      echo "🧬 pre-push: ⛔ 本次改動的 knowledge/*.md 有 HARD fail — 修掉再推對方分支。"
+      exit 1
+    fi
+  fi
+  echo "🧬 pre-push: ✅ 本次改動檔全綠（推往非本庫 remote，全站掃描在對方樹上無意義，已退成 changed-only）"
 elif [ -f "$REPO/scripts/tools/article-health.py" ] && command -v python3 >/dev/null 2>&1; then
   if ! python3 "$REPO/scripts/tools/article-health.py" --all --profile=ci-deploy --quiet >/dev/null 2>&1; then
     echo ""

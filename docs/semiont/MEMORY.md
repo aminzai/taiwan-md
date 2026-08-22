@@ -360,3 +360,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-22 | 061437-twmd-data-refresh-am | 14 步全綠零 stale；文章 990、貢獻者 74 持平；順帶把 scheduler 18 條即時排程狀態讀出來對進 routine-live-state.json | routine 的完整定義涵蓋只有 session 層才碰得到的資源，不只是跑一支 shell script | [→](memory/2026-08-22-061437-twmd-data-refresh-am.md) |
 | 2026-08-22 | 064128-twmd-spore-harvest-am | budget-總預算十年 D+4（跳過 8/21）；D+2 誤判「已移除」的 alden.0202 留言本輪重新可見，補回覆，判斷為平台渲染間歇性抑制；X 登入牆第 6 天 | 單輪「查無蹤跡」不等於「已移除」，結論要留可修正空間不要一次讀取就關掉線索 | [→](memory/2026-08-22-064128-twmd-spore-harvest-am.md) |
 | 2026-08-22 | 070927-twmd-feedback-triage | 那封第三人指控信第九次原樣出現，讀完全文 `--exclude` 攔下；兩道對賬 76/76 與 75/76 照跑；OBSERVER-QUEUE #28 成本註記改成原地計數 | 對每天重複的同一件事，追加說明是講給自己聽，原地計數才是講給要下決定的人聽 | [→](memory/2026-08-22-070927-twmd-feedback-triage.md) |
+| 2026-08-22 | 092214-twmd-maintainer-am | 40 個 ready PR 清到 6，36 篇上站；P1 推第七個時被全站閘門擋下，紅的卻是投稿者兩天前叉出去那棵樹缺的圖，改 pre-push 看 push 目標退成 changed-only | 掃描範圍是全站的檢查，換一棵樹就換一個問題，回答得再準也答錯題 | [→](memory/2026-08-22-092214-twmd-maintainer-am.md) |
