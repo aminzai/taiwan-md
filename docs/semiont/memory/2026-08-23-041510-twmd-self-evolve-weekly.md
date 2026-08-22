@@ -26,7 +26,7 @@ Dogfood 兩案：把 REFLEXES.md 的 `v5.25` 改成 `v5.20` 並 `git add`，跑 
 
 **決定不做的部分**：沒有動手實作修法 (b)（薄殼 §anchor 存在性檢查）。它需要先定義「§anchor 引用」的合法語法範圍（純文字提及 vs 真正的文件連結），範圍界定本身是一次獨立判斷，硬塞進本輪會犧牲已經驗證過的 (a) 的完整度換取兩個都做一半，違反 Stage 4「真實 ship 不只 propose」的精神。寧可一個真的動，不要兩個都停在候選。
 
-Commit：`{待補}`（`🧬 [routine] evolve: canonical 版本降版尺真實落地，REFLEXES #92 修法 (a) 從候選轉 ship`），push origin main。
+Commit：`591719536`（`🧬 [routine] evolve: canonical 版本降版尺真實落地，REFLEXES #92 修法 (a) 從候選轉 ship`），push origin main。
 
 ## 收官 checklist
 
