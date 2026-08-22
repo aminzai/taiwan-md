@@ -1006,6 +1006,66 @@
 }
 
 /* ══════════════════════════════════════════════════════════════════
+ * SEARCH RESULTS PAGE overrides (.search-page).
+ *
+ * src/templates/search.template.astro reuses the same slate palette as
+ * explore/latest (#1a1a2e / #64748b / #94a3b8 / #475569 / #cbd5e1 on
+ * white / #f8fafc / #e2e8f0). PageHero band is dark-teal already
+ * (verified, same as explore/latest). The result rows themselves reuse
+ * Header.astro's global `.search-item*` classes — those stay hardcoded
+ * light hex by design there (the popup panel is always-light), so this
+ * page needs its own dark overrides for the *same* class names, scoped
+ * under `.search-page` so the popup elsewhere is untouched.
+ * Born: 2026-08-23 /search issue #1496.
+ * ══════════════════════════════════════════════════════════════════ */
+
+:root[data-theme='dark'] .search-page [class~='bg-white'],
+:root[data-theme='dark'] .search-page [class*='bg-[#f8fafc]'] {
+  background-color: var(--color-surface);
+}
+:root[data-theme='dark'] .search-page [class*='border-[#e2e8f0]'],
+:root[data-theme='dark'] .search-page [class*='border-[#cbd5e1]'] {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .search-page [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .search-page [class*='text-[#64748b]'],
+:root[data-theme='dark'] .search-page [class*='text-[#94a3b8]'],
+:root[data-theme='dark'] .search-page [class*='text-[#475569]'] {
+  color: var(--color-ink-soft);
+}
+/* "Load more" button (green outline on white) → keep the accent outline,
+ * repaint its base + hover fill for a dark surface. */
+:root[data-theme='dark'] .search-page [class*='text-[#065f46]'] {
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .search-page [class*='hover:bg-[#ecfdf5]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 14%, transparent);
+}
+
+/* Result rows: Header.astro's .search-item* family, hardcoded light hex
+ * there by design (popup panel stays light). This page renders the same
+ * class names into its own dark-aware body, so it needs its own repaint. */
+:root[data-theme='dark'] .search-page .search-item:hover {
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+}
+:root[data-theme='dark'] .search-page .search-item-lang {
+  background: var(--color-surface);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .search-page .search-item-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .search-page .search-item-desc,
+:root[data-theme='dark'] .search-page .sr-date {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .search-page .search-item mark {
+  background: color-mix(in srgb, var(--color-accent) 30%, transparent);
+}
+
+/* ══════════════════════════════════════════════════════════════════
  * META PAGES (Tier 2) — about / contribute / changelog / resources /
  * terminology (index + [id] + converter) / 404 / projects.
  *

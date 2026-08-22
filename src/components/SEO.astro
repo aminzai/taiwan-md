@@ -250,13 +250,14 @@ const generateJSONLD = () => {
         height: 630,
       },
     },
-    // 2026-05-27: point SearchAction at /explore (the actual search-first
-    // UX, shipped 2026-05-10) instead of the non-existent /search route.
+    // 2026-08-23: point SearchAction at /search (issue #1496 — the
+    // full result page now exists). Until this date it pointed at /explore
+    // because /search didn't exist yet; that workaround is retired.
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${siteUrl}/explore?q={search_term_string}`,
+        urlTemplate: `${siteUrl}/search?q={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
@@ -339,7 +340,7 @@ const websiteLD = {
     '@type': 'SearchAction',
     target: {
       '@type': 'EntryPoint',
-      urlTemplate: `${siteUrl}/explore?q={search_term_string}`,
+      urlTemplate: `${siteUrl}/search?q={search_term_string}`,
     },
     'query-input': 'required name=search_term_string',
   },
