@@ -23,7 +23,10 @@ node scripts/core/test-frontmatter.mjs --staged
 # canonical 檔，不含 memory/ diary/ SPORE-BLUEPRINTS/ SPORE-HARVESTS/) + bootloader
 # (BECOME_TAIWANMD.md / CLAUDE.md)。
 #
-# Verify: 必填七欄齊全 + type/status/apoptosis enum 合法 + archived 三欄一致。
+# Verify: 必填七欄齊全 + type/status/apoptosis enum 合法 + archived 三欄一致 +
+# current_version 對 HEAD 單調不降（2026-08-23 twmd-self-evolve-weekly 新增，
+# per REFLEXES #92 twin-artifact 缺重整器家族——canonical 版本號曾被過期工作樹
+# 靜默覆寫回舊版且無尺在看，四天後才被人撞見）。
 python3 scripts/tools/check-canonical-frontmatter.py --staged --quiet
 canonical_fm_exit=$?
 if [ "$canonical_fm_exit" != "0" ]; then

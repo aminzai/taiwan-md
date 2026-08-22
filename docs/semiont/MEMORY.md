@@ -313,3 +313,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-23 | 021729-search-results-page | issue #1496 /search 十二語上線（排序＋時間篩選＋URL 狀態＋popup 入口）；dogfood 揪出索引斷詞只認 ASCII，ar/ru/hi 母語搜尋自出生 0 筆，修後 ar 0→593 | 尺長在造尺者聽得見的頻率上；母語逐語驗收才照得到斷詞層聾點 | [→](memory/2026-08-23-021729-search-results-page.md) |
 | 2026-08-23 | 031233-rawlink-divergence | 功能頁 .md 按鈕改吃真實分類表（十一語＋hub fallback）；筆電分歧解剖後撿回兩件被困真資料再 reset | 分歧解決順序：驗屍→backup→搶救→reset；append-only log 的「整理」本身是破壞 | [→](memory/2026-08-23-031233-rawlink-divergence.md) |
 | 2026-08-23 | 031902-twmd-distill-weekly | 9 條教訓消化：REFLEXES #92 twin-artifact 家族（vc=6）+ #93 retyping shell substitution；routine-audit.py tool-fix | 每一件事各自看都正確，只有排在一起才看得出漂移，包括審計工具自己 | [→](memory/2026-08-23-031902-twmd-distill-weekly.md) |
+| 2026-08-23 | 041510-twmd-self-evolve-weekly | REFLEXES #92 修法 (a) 候選轉真實 ship：canonical 版本單調不降尺接進 pre-commit，dogfood 兩案皆過 | distill 收斂敘事成反射，self-evolve 該確認候選有沒有長出牙齒 | [→](memory/2026-08-23-041510-twmd-self-evolve-weekly.md) |

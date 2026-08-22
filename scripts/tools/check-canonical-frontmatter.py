@@ -133,7 +133,72 @@ def parse_frontmatter(content: str) -> tuple[dict | None, str | None]:
     return fields, None
 
 
-def check_file(filepath: Path) -> list[str]:
+def parse_version(raw: str) -> tuple[int, int] | None:
+    """Extract a (major, minor) tuple from a leading 'vN.M' prefix.
+
+    Tolerates trailing free text ('v3.0 (stub)') and non-numeric axes
+    ('vX.Y' placeholders in template files) by returning None for the
+    latter — those files opt out of monotonicity checking rather than
+    false-failing on an unparseable scheme.
+    """
+    m = re.match(r'^v(\d+)\.(\d+)', raw.strip())
+    if not m:
+        return None
+    return (int(m.group(1)), int(m.group(2)))
+
+
+def check_version_regression(filepath: Path) -> str | None:
+    """Compare staged current_version against HEAD's for the same file.
+
+    per REFLEXES #92 (twin-artifact family, 2026-08-23): a canonical's
+    frontmatter current_version silently regressed (v2.7 → v2.6) inside a
+    stale worktree overwrite, and no existing gate was watching that
+    single field — it took a human noticing four days later. This closes
+    candidate fix (a) from that entry: canonical version must be
+    monotonic non-decreasing across a commit.
+
+    Returns a violation string, or None if the check doesn't apply
+    (new file, HEAD version unparseable, or version unchanged/increased).
+    """
+    rel = filepath.relative_to(REPO_ROOT) if filepath.is_absolute() else filepath
+    try:
+        head_content = subprocess.run(
+            ['git', 'show', f'HEAD:{rel.as_posix()}'],
+            capture_output=True, text=True, cwd=REPO_ROOT,
+        )
+    except Exception:
+        return None
+    if head_content.returncode != 0:
+        return None  # new file, nothing to regress against
+
+    head_fields, head_err = parse_frontmatter(head_content.stdout)
+    if head_err is not None or not head_fields or 'current_version' not in head_fields:
+        return None
+
+    try:
+        staged_content = filepath.read_text(encoding='utf-8')
+    except Exception:
+        return None
+    staged_fields, staged_err = parse_frontmatter(staged_content)
+    if staged_err is not None or not staged_fields or 'current_version' not in staged_fields:
+        return None
+
+    old_v = parse_version(head_fields['current_version'])
+    new_v = parse_version(staged_fields['current_version'])
+    if old_v is None or new_v is None:
+        return None
+
+    if new_v < old_v:
+        return (
+            f"current_version regressed: HEAD had "
+            f"'{head_fields['current_version']}', staged has "
+            f"'{staged_fields['current_version']}' — canonical version must be "
+            f"monotonic non-decreasing (REFLEXES #92)"
+        )
+    return None
+
+
+def check_file(filepath: Path, check_regression: bool = False) -> list[str]:
     """Return list of violations for this file. Empty list = pass."""
     violations: list[str] = []
     try:
@@ -144,6 +209,11 @@ def check_file(filepath: Path) -> list[str]:
     fields, err = parse_frontmatter(content)
     if err is not None:
         return [f'frontmatter missing or malformed: {err}']
+
+    if check_regression:
+        regression = check_version_regression(filepath)
+        if regression is not None:
+            violations.append(regression)
 
     # Required fields
     for f in REQUIRED_FIELDS:
@@ -240,6 +310,10 @@ def main() -> int:
     parser.add_argument('--quiet', action='store_true', help='only print violations')
     args = parser.parse_args()
 
+    # Version regression only makes sense as a staged-vs-HEAD diff (not
+    # --all / explicit-files, which have no "previous state" to compare).
+    check_regression = args.staged or not (args.all or args.files)
+
     if args.all:
         files = get_all_covered_files()
     elif args.staged:
@@ -260,7 +334,7 @@ def main() -> int:
     total_violations = 0
     fail_count = 0
     for f in files:
-        violations = check_file(f)
+        violations = check_file(f, check_regression=check_regression)
         if violations:
             fail_count += 1
             total_violations += len(violations)
