@@ -24,6 +24,38 @@ import {
   DEFAULT_LANGUAGE,
 } from '../../src/config/languages.mjs';
 
+// ── Publish/update date lookup (src/data/content-dates.json, built by
+// build-content-dates.mjs in the SAME prebuild sequence just before this
+// script — package.json's prebuild chain was reordered 2026-08-23 to
+// guarantee this file exists by the time we run). Fail-loud on missing: a
+// silent skip would ship a search index with no dates and nobody would
+// notice until a reader saw blank date chips on /search.
+const CONTENT_DATES_PATH = resolve(
+  process.cwd(),
+  'src/data/content-dates.json',
+);
+let contentDatesRaw;
+try {
+  contentDatesRaw = JSON.parse(await readFile(CONTENT_DATES_PATH, 'utf-8'));
+} catch (err) {
+  console.error(
+    `[search-index] FATAL: cannot read ${CONTENT_DATES_PATH} (run prebuild:content-dates first): ${err.message}`,
+  );
+  process.exit(1);
+}
+const DATES = contentDatesRaw.dates || {};
+const CREATED = contentDatesRaw.created || {};
+
+// Key alignment with build-content-dates.mjs's `knowledgePathToUrl()`: that
+// generator's key is `${prefix}/${catSlug}/${slug}/` — NFC-normalized slug,
+// trailing slash. This script's `doc.u` is `/${catSlug}/${name}` (default
+// lang) or `/${lang}/${catSlug}/${name}` (other langs) — same shape minus the
+// trailing slash, `name` un-normalized (raw fs basename). No decodeURIComponent
+// needed: `u` is built here from plain JS strings, never percent-encoded.
+function dateKeyForUrl(u) {
+  return `${u.normalize('NFC')}/`;
+}
+
 const CATEGORY_MAP = {
   history: 'History',
   geography: 'Geography',
@@ -58,15 +90,25 @@ const isCJK = (cp) =>
   (cp >= 0x31f0 && cp <= 0x31ff) || // Katakana phonetic extensions
   (cp >= 0xac00 && cp <= 0xd7a3); // Hangul syllables
 
-const LATIN_RE = /[a-z0-9][a-z0-9-]*[a-z0-9]|[a-z0-9]/g;
+// 2026-08-23（issue #1496 dogfood 抓到）：原 LATIN_RE 只認 ASCII [a-z0-9]，
+// 阿拉伯文／西里爾／天城文的母語詞整個掉出索引（ar/ru/hi 站內搜尋自出生
+// 即 0 命中），vi/fr/es 帶變音符的詞被切碎。改用 Unicode 字母/數字類別，
+// CJK 字元仍走下方 bigram 路徑（由 isCJK 排除，不會變成整串長 token）。
+// 連字號夾在詞中時保留（covid-19 維持一個 token，與舊行為一致）。
+const WORD_RE = /[\p{L}\p{N}][\p{L}\p{N}-]*[\p{L}\p{N}]|[\p{L}\p{N}]/gu;
 
 function bigramTokenize(text) {
   if (!text) return '';
   const normalized = text.toLowerCase().normalize('NFKC');
   const tokens = [];
 
-  // Latin words (2+ chars)
-  for (const m of normalized.matchAll(LATIN_RE)) {
+  // 非 CJK 詞（2+ chars）— 拉丁與所有 Unicode 文字系統（ar/ru/hi/vi…）。
+  // CJK 字元先換成空白再取詞（CJK 走下方 bigram 路徑；直接跳過含 CJK 的
+  // token 會把「台北101」裡的 101 一起丟掉）
+  const nonCjkText = [...normalized]
+    .map((ch) => (isCJK(ch.codePointAt(0)) ? ' ' : ch))
+    .join('');
+  for (const m of nonCjkText.matchAll(WORD_RE)) {
     if (m[0].length >= 2) tokens.push(m[0]);
   }
 
@@ -141,7 +183,7 @@ function buildIndex(docs) {
   const miniSearch = new MiniSearch({
     idField: 'id',
     fields: ['title_bigram', 'desc_bigram', 'tags_bigram'],
-    storeFields: ['t', 'd', 'u', 'tags', 'lang'],
+    storeFields: ['t', 'd', 'u', 'tags', 'lang', 'c', 'm'],
     tokenize: (text) => text.split(/\s+/).filter(Boolean),
     searchOptions: {
       boost: { title_bigram: 6, tags_bigram: 4, desc_bigram: 2 },
@@ -163,6 +205,51 @@ for (const lang of ENABLED_LANGUAGE_CODES) {
   const docs = await scanLang(lang, nextId);
   nextId += docs.length;
   docsByLang.set(lang, docs);
+}
+
+// Attach `c` (created/published) and `m` (modified) YYYY-MM-DD date fields
+// from content-dates.json, and tally per-lang match rate to catch a
+// key-format misalignment the moment it happens rather than as a silent
+// blank-date regression on /search.
+let totalDocs = 0;
+let totalMatched = 0;
+const matchLines = [];
+let zhSampleMisses = [];
+for (const [lang, docs] of docsByLang) {
+  let matched = 0;
+  for (const doc of docs) {
+    const key = dateKeyForUrl(doc.u);
+    const created = CREATED[key];
+    const modified = DATES[key];
+    if (created) doc.c = created.slice(0, 10);
+    if (modified) doc.m = modified.slice(0, 10);
+    if (created || modified) {
+      matched++;
+    } else if (lang === DEFAULT_LANGUAGE.code && zhSampleMisses.length < 5) {
+      zhSampleMisses.push(key);
+    }
+  }
+  totalDocs += docs.length;
+  totalMatched += matched;
+  const pct = docs.length ? ((matched / docs.length) * 100).toFixed(1) : '0.0';
+  matchLines.push(`${lang}=${matched}/${docs.length} (${pct}%)`);
+}
+const totalPct = totalDocs
+  ? ((totalMatched / totalDocs) * 100).toFixed(1)
+  : '0.0';
+console.log(
+  `[search-index] date match: ${totalMatched}/${totalDocs} docs (${totalPct}%) — ${matchLines.join(', ')}`,
+);
+
+const zhDocs = docsByLang.get(DEFAULT_LANGUAGE.code) || [];
+const zhMatched = zhDocs.filter((d) => d.c || d.m).length;
+const zhPct = zhDocs.length ? (zhMatched / zhDocs.length) * 100 : 0;
+if (zhPct < 95) {
+  console.error(
+    `[search-index] FATAL: ${DEFAULT_LANGUAGE.code} date match rate ${zhPct.toFixed(1)}% < 95% — key format misaligned with content-dates.json. Sample unmatched keys:\n` +
+      zhSampleMisses.map((k) => `  ${k}`).join('\n'),
+  );
+  process.exit(1);
 }
 
 // Per-lang shards ×6
