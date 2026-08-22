@@ -88,7 +88,7 @@ P1 修的是什麼（全部只動格式，散文不改）：
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | open issues 都有 status label/assignee                     | ✅ 5/5 有 label 或已進佇列                                                                  |
 | open PRs ≤ 5d age 都有 review comment                      | ✅ 整批一則（§Step 3.7 burst 紀律，34 篇不逐篇洗版）＋ #1453 / #1536 個別技術回覆           |
-| broken-link ratio < THRESHOLD_PERCENT                      | ⏭️ 本 cycle 未跑（全站 article-health 全綠已涵蓋 link-target hard；ratio 專掃留下一 cycle） |
+| broken-link ratio < THRESHOLD_PERCENT | ✅ **0.27% < 7.0%**（all-langs 0.25%，`verify-internal-links.sh` 收官後補跑） |
 | build green                                                | ✅ 全站 `article-health --all --profile=ci-deploy` = hard=0 passed=True                     |
 | BECOME ACK 一行記憶體頂                                    | ✅                                                                                          |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry                        | ✅ 不適用（vc 歸零，40 fresh ready PR）                                                     |
