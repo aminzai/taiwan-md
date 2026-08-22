@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-23 | 031233-rawlink-divergence | 功能頁 .md 按鈕改吃真實分類表（十一語＋hub fallback）；筆電分歧解剖後撿回兩件被困真資料再 reset | 分歧解決順序：驗屍→backup→搶救→reset；append-only log 的「整理」本身是破壞 | [→](memory/2026-08-23-031233-rawlink-divergence.md) |
 | 2026-08-23 | 031902-twmd-distill-weekly | 9 條教訓消化：REFLEXES #92 twin-artifact 家族（vc=6）+ #93 retyping shell substitution；routine-audit.py tool-fix | 每一件事各自看都正確，只有排在一起才看得出漂移，包括審計工具自己 | [→](memory/2026-08-23-031902-twmd-distill-weekly.md) |
 | 2026-08-23 | 041510-twmd-self-evolve-weekly | REFLEXES #92 修法 (a) 候選轉真實 ship：canonical 版本單調不降尺接進 pre-commit，dogfood 兩案皆過 | distill 收斂敘事成反射，self-evolve 該確認候選有沒有長出牙齒 | [→](memory/2026-08-23-041510-twmd-self-evolve-weekly.md) |
+| 2026-08-23 | 053608-twmd-embeddings-nightly | 12 語重建 9,838 向量 0 fail 全綠；本機端點直連免 fallback；ja／zh-TW 各 1 行微幅變動照常 commit + push | 兩項先前 vc 教訓（本機優先端點＋動態語言清單）落地後這夜跑得無感，正是該有的樣子 | [→](memory/2026-08-23-053608-twmd-embeddings-nightly.md) |
