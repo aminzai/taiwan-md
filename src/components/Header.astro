@@ -1516,6 +1516,19 @@ const categoryList = [
     color: #94a3b8;
     font-size: 0.9rem;
   }
+  /* /search 完整結果頁入口（issue #1496）— 沿用 hint 版面但長得像連結 */
+  :global(a.search-view-all) {
+    display: block;
+    padding: 0.9rem 1rem;
+    color: #2563eb;
+    font-weight: 600;
+    text-decoration: none;
+    border-top: 1px solid #e2e8f0;
+  }
+  :global(a.search-view-all:hover) {
+    background: #f1f5f9;
+    text-decoration: underline;
+  }
   :global(.search-item) {
     display: flex;
     align-items: flex-start;

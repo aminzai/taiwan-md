@@ -521,6 +521,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         _i18nSearchLoading: t('nav.search-modal.loading'),
         _i18nSearchMoreTemplate: t('nav.search-modal.more-results'),
         _i18nSearchLangBadgeZh: t('nav.search-modal.lang-badge-zh'),
+        _i18nSearchViewAll: t('nav.search-modal.view-all' as any),
       }}
     >
       // ── CJK bigram query tokenizer ──
@@ -694,7 +695,10 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           _searchEngine = MiniSearch.loadJSON(JSON.stringify(data), {
             idField: 'id',
             fields: ['title_bigram', 'desc_bigram', 'tags_bigram'],
-            storeFields: ['t', 'd', 'u', 'tags', 'lang'],
+            // c（發布日）/ m（更新日）由 build-search-index.mjs 附掛（issue #1496）
+            // — 這份清單必須跟 generator 的 storeFields 同步改，兩邊不一致
+            // loadJSON 會靜默丟欄位。
+            storeFields: ['t', 'd', 'u', 'tags', 'lang', 'c', 'm'],
             tokenize: function (text) {
               return text.split(/\s+/).filter(Boolean);
             },
@@ -704,6 +708,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
             },
           });
           _searchMode = 'minisearch';
+          _announceReady();
         } catch (e) {
           console.warn(
             '[search] MiniSearch failed, falling back to indexOf:',
@@ -717,6 +722,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
             _fallbackIdx = [];
           }
           _searchMode = 'fallback';
+          _announceReady();
         }
         // engine ready 後若使用者已經在打字，重新觸發一次渲染
         // （否則「載入中...」會停留到下一次鍵入）
@@ -726,19 +732,21 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         }
       }
 
-      function _doSearch(q, lang) {
+      // opts.all = true → 回傳完整 relevant 集（/search 結果頁用，issue #1496）；
+      // 預設仍裁 30 筆給 popup。兩個入口共用同一套 tokenize / cutoff / 排序。
+      function _doSearch(q, lang, opts) {
         if (_searchMode === 'minisearch' && _searchEngine) {
           var bigrams = _queryBigrams(q);
           var raw = _searchEngine.search(bigrams.join(' '), {
             prefix: true,
-            limit: 200,
           });
           var topScore = raw.length > 0 ? raw[0].score : 0;
           var cutoff = topScore * 0.02;
           var relevant = raw.filter(function (r) {
             return r.score >= cutoff;
           });
-          var matches = relevant.slice(0, 30);
+          var matches =
+            opts && opts.all ? relevant.slice() : relevant.slice(0, 30);
           // Sort: current language first
           matches.sort(function (a, b) {
             var aLang = a.lang === lang ? 0 : 1;
@@ -768,6 +776,30 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         });
         matches.totalMatches = matches.length;
         return matches;
+      }
+
+      function _announceReady() {
+        try {
+          document.dispatchEvent(new CustomEvent('twsearch:ready'));
+        } catch (e) {}
+      }
+
+      // /search 結果頁的引擎契約（issue #1496）：結果頁不自建引擎、不重抓
+      // shard，透過這個物件重用同一份索引與同一套排序邏輯 —— popup 與
+      // 結果頁永遠同索引同邏輯是驗收硬條件。
+      window.__twSearch = {
+        mode: function () {
+          return _searchMode;
+        },
+        search: function (q, lang, opts) {
+          return _doSearch(q, lang, opts);
+        },
+      };
+
+      // 當前語言的 /search 頁路徑（zh-TW 無前綴）
+      function _searchPagePath() {
+        var l = document.documentElement.getAttribute('lang') || 'zh-TW';
+        return (l === 'zh-TW' ? '' : '/' + l) + '/search';
       }
 
       function _escHtml(s) {
@@ -887,9 +919,12 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
 
         // /explore?q=… 深連結需要的狀態（issue #1212 A1）：先宣告在這裡，
         // 下面的 input listener 才能同步寫回網址列。
-        var _isExplore = /^\/(en\/|ja\/|ko\/|fr\/|es\/)?explore\/?$/.test(
-          location.pathname,
-        );
+        // 語言前綴一般化（舊版寫死五語，vi/id/pt/hi/ar/ru 的 /xx/explore
+        // ?q= 同步從出生就是壞的 —— 2026-08-23 issue #1496 順修）
+        var _isExplore =
+          /^\/(?:[a-z]{2}(?:-[A-Za-z]{2,4})?\/)?explore\/?$/.test(
+            location.pathname,
+          );
         var _urlSyncTimer = null;
         // ↑↓ + Enter 鍵盤導航目前選取的 index（issue #1212 A2-2）
         var _kbIndex = -1;
@@ -935,6 +970,16 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
                 ) +
                 '</div>';
             }
+            // 完整結果、排序與時間篩選在 /search 頁（issue #1496）——
+            // 只要有結果就給入口，不只在爆量時
+            html +=
+              '<a class="search-hint search-view-all" href="' +
+              _searchPagePath() +
+              '?q=' +
+              encodeURIComponent(q) +
+              '">' +
+              _i18nSearchViewAll.replace('{n}', String(total)) +
+              '</a>';
             results.innerHTML = html;
           }
 
@@ -1155,6 +1200,10 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         target = '/CONTRIBUTING.md';
       } else if (pathname.includes('/resources')) {
         target = '/knowledge/About/台灣官方網站資源.md';
+      } else if (pathname.includes('/search')) {
+        // 功能頁不是分類 Hub — 不加這條會掉進下方 fallback 指向不存在的
+        // knowledge/Search/_Search Hub.md（issue #1496 dogfood 抓到）
+        target = '/src/templates/search.template.astro';
       } else if (pathname.includes('/graph')) {
         target = '/src/pages/graph.astro';
       } else if (pathname.includes('/map')) {
