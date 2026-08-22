@@ -395,6 +395,28 @@ export const categories: SoundCategory[] = [
         date: '2026-08',
         icon: '📢',
       },
+      {
+        file: 'taichung-dadu-711-buying-drink.mp3',
+        location: {
+          'zh-TW': '台中大肚',
+          en: 'Dadu, Taichung',
+          ja: '台中・大肚',
+          ko: '타이중 다두',
+          fr: 'Dadu, Taichung',
+          es: 'Dadu, Taichung',
+        },
+        description: {
+          'zh-TW': '在7-11購買飲料時店內錄製的聲音',
+          en: 'Sounds recorded in 7-Eleven while buying drinks',
+          ja: 'セブンイレブンで飲み物を買っているときに録音された音',
+          ko: '세븐일레븐에서 음료를 살 때 녹음된 소리',
+          fr: 'Sons enregistrés dans un 7-Eleven pendant l\'achat de boissons',
+          es: 'Sonidos grabados en un 7-Eleven mientras se compran bebidas',
+        },
+        contributor: 'iigmir',
+        date: '2026-08',
+        icon: '📢',
+      },
     ],
     wishlist: [
       {
