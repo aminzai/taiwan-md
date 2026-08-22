@@ -809,3 +809,20 @@
 {"ts": "2026-08-19T22:12:43Z", "slug": "吉祥物", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-08-19T22:12:43Z", "slug": "inbox:學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-08-21T22:12:20Z", "slug": "inbox:台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "room_projection", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "room_prose", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "c88b5ad35271"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-19T02:50:56Z", "slug": "inbox:學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T02:50:56Z", "slug": "吉祥物", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T02:50:56Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "09cfe9a08f64"}
+{"ts": "2026-08-19T03:08:01Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "db0bbd6e1ec5"}
+{"ts": "2026-08-19T03:10:05Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "3db217a487ca"}
+{"ts": "2026-08-19T03:59:17Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "7e72d688daf6"}
+{"ts": "2026-08-19T07:18:59Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "da2dbe0b17a1"}
+{"ts": "2026-08-19T07:34:05Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "6a8bd0052fb1"}
+{"ts": "2026-08-19T07:36:42Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "f0af24051a98"}
+{"ts": "2026-08-22T03:33:40Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "0b63411dfa8b"}
