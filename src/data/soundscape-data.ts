@@ -284,11 +284,11 @@ export const categories: SoundCategory[] = [
         file: 'taipei-nangang-garbage-truck-melody-maidens-prayer.mp3',
         location: {
           'zh-TW': '台北南港',
-          en: 'Taipei Nangang',
+          en: 'Nangang, Taipei',
           ja: '台北・南港',
           ko: '타이베이 난강',
-          fr: 'Taipei, Nangang',
-          es: 'Taipéi, Nangang',
+          fr: 'Nangang, Taipei',
+          es: 'Nangang, Taipéi',
         },
         description: {
           'zh-TW': '垃圾車音樂（少女的祈禱）',
@@ -306,11 +306,11 @@ export const categories: SoundCategory[] = [
         file: 'new-taipei-banqiao-garbage-truck-melody-fur-elise.mp3',
         location: {
           'zh-TW': '新北板橋',
-          en: 'New Taipei Banqiao',
+          en: 'Banqiao, New Taipei',
           ja: '新北・板橋',
           ko: '신베이 반차오',
-          fr: 'Nouveau Taipei, Banqiao',
-          es: 'Nuevo Taipéi, Banqiao',
+          fr: 'Banqiao, Nouveau Taipei',
+          es: 'Banqiao, Nueva Taipéi',
         },
         description: {
           'zh-TW': '垃圾車音樂（給愛麗絲）',
@@ -332,11 +332,11 @@ export const categories: SoundCategory[] = [
         file: 'taichung-dali-street-and-automobile.mp3',
         location: {
           'zh-TW': '台中大里',
-          en: 'Taichung Dali',
+          en: 'Dali, Taichung',
           ja: '台中・大里',
           ko: '타이중 다리',
-          fr: 'Taichung, Dali',
-          es: 'Taichung, Dali',
+          fr: 'Dali, Taichung',
+          es: 'Dali, Taichung',
         },
         description: {
           'zh-TW':
@@ -355,11 +355,11 @@ export const categories: SoundCategory[] = [
         file: 'taichung-dali-bin-lorry-melody-fur-elise.mp3',
         location: {
           'zh-TW': '台中大里',
-          en: 'Taichung Dali',
+          en: 'Dali, Taichung',
           ja: '台中・大里',
           ko: '타이중 다리',
-          fr: 'Taichung, Dali',
-          es: 'Taichung, Dali',
+          fr: 'Dali, Taichung',
+          es: 'Dali, Taichung',
         },
         description: {
           'zh-TW': '垃圾車音樂（給愛麗絲）',
@@ -377,11 +377,11 @@ export const categories: SoundCategory[] = [
         file: 'taichung-taiping-politician-greeting.mp3',
         location: {
           'zh-TW': '台中太平',
-          en: 'Taichung Taiping',
+          en: 'Taiping, Taichung',
           ja: '台中・太平',
           ko: '타이중 타이핑',
-          fr: 'Taichung, Taiping',
-          es: 'Taichung, Taiping',
+          fr: 'Taiping, Taichung',
+          es: 'Taiping, Taichung',
         },
         description: {
           'zh-TW': '2026 年選舉期間，一位地方參選人在機車往來的大街上沿路拜票',
@@ -964,10 +964,10 @@ export const categories: SoundCategory[] = [
         location: {
           'zh-TW': '台中綠美圖',
           en: 'Taichung Green Museumbrary',
-          ja: '台中グリーン美術図書館',
-          ko: '타이중 녹색 미술관·도서관',
-          fr: 'Taichung, Green Museumbrary',
-          es: 'Taichung, Green Museumbrary',
+          ja: '台中緑美図',
+          ko: '타이중 그린 뮤지엄브러리',
+          fr: 'Taichung Green Museumbrary',
+          es: 'Taichung Green Museumbrary',
         },
         description: {
           'zh-TW': '夜晚蟋蟀聲',
