@@ -38,8 +38,8 @@
 
 本 session 新 handoff：
 
-- [ ] pending（給哲宇）— 筆電的 babel 脈搏 cron 還在每小時跑，跟 mac mini 的同名儀器對同一份 progress log 各自量各自的樹。分歧解決後筆電推得上去了，但兩台機器雙寫同一個時間序列的問題還在：要停筆電那份、還是讓它量（會混入拉取延遲的讀數）？config 決定權在你
-- [ ] pending — `backup/laptop-main-20260823` branch 留在筆電本地（未推 origin），確認不再需要後可刪
+- [x] ~~筆電 babel 脈搏 cron 去留~~ retired by 同 session（哲宇拍板停：`md.taiwan.babel-pulse` launchd agent 已 bootout，plist 改名 `.disabled` 保留可還原；sense-fetch 與其他 routine 不動）
+- [x] ~~backup/laptop-main-20260823 branch~~ retired by 同 session（哲宇拍板刪：`git branch -D`，原 750b0a917；兩件真資料已在 origin）
 
 ## Beat 5 — 反芻
 
