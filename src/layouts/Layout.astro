@@ -15,6 +15,11 @@ import EventTracker from '../components/EventTracker.astro';
 import type { Lang } from '../config/languages';
 import { getLanguage } from '../config/languages';
 import { useTranslations } from '../i18n/utils';
+import {
+  getCategoryDirMap,
+  getTranslatedHubPresence,
+  NON_DEFAULT_LANGS,
+} from '../utils/staticRoutes';
 
 interface Props {
   title: string;
@@ -1180,7 +1185,14 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
       )
     }
 
-    <script is:inline>
+    <script
+      is:inline
+      define:vars={{
+        _mdCatMap: getCategoryDirMap(),
+        _mdLangs: NON_DEFAULT_LANGS,
+        _mdHubLangs: getTranslatedHubPresence(),
+      }}
+    >
       // Set .md button href based on current path
       const btn = document.getElementById('md-btn');
       const pathname = window.location.pathname;
@@ -1200,10 +1212,6 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         target = '/CONTRIBUTING.md';
       } else if (pathname.includes('/resources')) {
         target = '/knowledge/About/台灣官方網站資源.md';
-      } else if (pathname.includes('/search')) {
-        // 功能頁不是分類 Hub — 不加這條會掉進下方 fallback 指向不存在的
-        // knowledge/Search/_Search Hub.md（issue #1496 dogfood 抓到）
-        target = '/src/templates/search.template.astro';
       } else if (pathname.includes('/graph')) {
         target = '/src/pages/graph.astro';
       } else if (pathname.includes('/map')) {
@@ -1213,31 +1221,50 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
       } else if (pathname.includes('/about')) {
         target = '/src/pages/about.astro';
       } else {
-        // Content pages (Categories or Articles)
-        const isEn = pathname.startsWith('/en/');
-        // Remove /en/ prefix and leading/trailing slashes
-        const cleanPath = pathname
-          .replace(/^\/en/, '')
+        // Content pages (Categories or Articles) — or functional pages.
+        // 2026-08-23 rawlink-fix：分類判斷改吃 build-time 注入的真實分類表
+        // （getCategoryDirMap，filesystem-derived）。舊版把任何單段路徑當
+        // 分類 Hub，/explore /latest /timeline… 全部生成指向不存在的
+        // knowledge/{Cap}/_{Cap} Hub.md；語言前綴也從寫死 /en/ 改成
+        // 全部啟用語言（/ja/history/... 從前會變 knowledge/Ja/...）。
+        let cleanPath = pathname
           .replace(/^\//, '')
           .replace(/\/$/, '')
           .replace('index.html', '');
-        const parts = cleanPath.split('/');
+        let parts = cleanPath.split('/');
+        let urlLang = '';
+        if (parts.length > 1 && _mdLangs.indexOf(parts[0]) !== -1) {
+          urlLang = parts[0];
+          parts = parts.slice(1);
+        }
 
         if (parts.length > 0 && parts[0]) {
-          const cat = parts[0];
-          // Capitalize first letter of category (history -> History)
-          const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
+          const seg0 = decodeURIComponent(parts[0]);
+          const catFolder = _mdCatMap[seg0];
 
-          // ZH source is in knowledge/Category, EN source is in knowledge/en/Category
-          const prefix = isEn ? '/knowledge/en' : '/knowledge';
-
-          if (parts.length === 1) {
-            // Category Hub: knowledge/History/_History Hub.md
-            target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
+          if (catFolder) {
+            // ZH source is in knowledge/Category, translations in knowledge/{lang}/Category
+            const prefix = urlLang ? `/knowledge/${urlLang}` : '/knowledge';
+            if (parts.length === 1) {
+              // Category Hub: knowledge/History/_History Hub.md。
+              // 該語言的翻譯版 hub 檔不存在（ja/ar/ru 部分分類）→ 指 zh 原檔
+              const hubPrefix =
+                urlLang && (_mdHubLangs[urlLang] || []).indexOf(seg0) === -1
+                  ? '/knowledge'
+                  : prefix;
+              target = `${hubPrefix}/${catFolder}/_${catFolder} Hub.md`;
+            } else {
+              // Article: knowledge/History/article-name.md
+              const slug = decodeURIComponent(parts.slice(1).join('/'));
+              target = `${prefix}/${catFolder}/${slug}.md`;
+            }
           } else {
-            // Article: knowledge/History/article-name.md
-            const slug = decodeURIComponent(parts.slice(1).join('/'));
-            target = `${prefix}/${catFolder}/${slug}.md`;
+            // 功能頁（/explore /latest /timeline /search…）：指向真實原始檔
+            const langDir = urlLang ? urlLang + '/' : '';
+            target =
+              parts.length === 1
+                ? `/src/pages/${langDir}${seg0}.astro`
+                : `/src/pages/${langDir}${seg0}/`;
           }
         }
       }

@@ -11,7 +11,7 @@
  * 範圍：只管「靜態頁」（src/pages 下的 .astro 檔）。文章路由（content
  * collection 動態頁）由 getLangSwitchPath 的 _translations.json registry 管。
  */
-import { readdirSync } from 'fs';
+import { readdirSync, statSync } from 'fs';
 import { resolve, join } from 'path';
 import type { Lang } from '../config/languages';
 import { LANGUAGES } from '../config/languages';
@@ -49,6 +49,56 @@ export function getCategorySlugs(): Set<string> {
   } catch {}
   _categorySlugs = set;
   return set;
+}
+
+let _categoryDirMap: Record<string, string> | null = null;
+
+/**
+ * 分類 slug（小寫）→ knowledge/ 真實目錄名（如 history → History）。
+ * 給 Layout 的 .md raw-link 用：判斷 URL 第一段是不是真分類，
+ * 不是就不能指向 knowledge/{Cap}/_{Cap} Hub.md（2026-08-23 rawlink-fix，
+ * 修功能頁 /explore /latest /timeline… 全家族斷鏈）。
+ */
+export function getCategoryDirMap(): Record<string, string> {
+  if (_categoryDirMap) return _categoryDirMap;
+  const map: Record<string, string> = {};
+  try {
+    for (const e of readdirSync(resolve(process.cwd(), 'knowledge'), {
+      withFileTypes: true,
+    })) {
+      if (e.isDirectory() && /^[A-Z]/.test(e.name))
+        map[e.name.toLowerCase()] = e.name;
+    }
+  } catch {}
+  _categoryDirMap = map;
+  return map;
+}
+
+let _hubPresence: Record<string, string[]> | null = null;
+
+/**
+ * 每個非預設語言有哪些分類存在翻譯版 Hub 檔（`knowledge/{lang}/{Cat}/_{Cat} Hub.md`）。
+ * raw-link 對缺檔語言（ja/ar/ru 部分分類）fallback 到 zh hub，避免指向 404。
+ * module-level cache：一個 build 進程只掃一次（.astro frontmatter 是 per-render scope）。
+ */
+export function getTranslatedHubPresence(): Record<string, string[]> {
+  if (_hubPresence) return _hubPresence;
+  const map: Record<string, string[]> = {};
+  const dirMap = getCategoryDirMap();
+  for (const lang of NON_DEFAULT_LANGS) {
+    const has: string[] = [];
+    for (const [slug, dir] of Object.entries(dirMap)) {
+      try {
+        statSync(
+          resolve(process.cwd(), 'knowledge', lang, dir, `_${dir} Hub.md`),
+        );
+        has.push(slug);
+      } catch {}
+    }
+    map[lang] = has;
+  }
+  _hubPresence = map;
+  return map;
 }
 
 /** 這個 segment 能不能被本層的動態頁吃掉。[category] 只吃真實分類 slug。 */
