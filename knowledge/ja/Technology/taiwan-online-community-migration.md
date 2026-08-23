@@ -17,7 +17,7 @@ tags:
     '數位主權',
   ]
 subcategory: '社群與數位文化'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 featured: true
 lastVerified: 2026-06-15
 lastHumanReview: false
