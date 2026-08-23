@@ -332,6 +332,25 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-23 twmd-maintainer-am — highest-exposure-slot-is-the-one-with-no-gate：同一條規則只掛在兩條路徑的其中一條，沒掛的那條偏偏是曝光最高的
+
+- **pattern**: `highest-exposure-slot-is-the-one-with-no-gate`
+- **原則**：`image-health` 對內文圖片有熱連結硬門檻，但 frontmatter 的 hero 圖只驗「本地路徑存不存在」——外部網址整條分支根本不進去。於是文章中段的圖被擋，而**分享出去會被看到的那張卡片圖、OG 圖，沒有任何東西在守**。規則寫對了、工具也在跑，缺的是同一條規則沒有覆蓋到第二條路徑。判準一句話：**一個 check 若對同一種違規有兩個入口，要問「我兩個都掛了嗎」，而不是「我有沒有這條規則」。**
+- **觸發**：2026-08-23 maintainer-am cycle，idlccp1984 九篇投稿有六篇卡在圖片層（三篇熱連結、兩篇路徑指向沒上傳的檔、一篇 NC 授權）。逐篇修到第三篇時才問「這幾則是不是同一個地方破的」，追上游才看見閘門自己缺了 hero 這半邊。修法：`scripts/tools/lib/article_health/checks/image_health.py` 第 2 段補上 `_is_allowed_external` 判斷，hero 跟內文走同一條規則（commit `f89314e27`）。**Wikimedia 白名單一個字沒動**——沒有調任何門檻，只是讓既有規則兩條路徑都適用，所以不算 §自主權邊界 的閾值調整。全站 dogfood 命中 4 篇（黃土水／烏魚子／燒臘便當／阿美族年齡階級），四張卡片圖全是熱連結且來源頁無可再利用授權（燒臘便當那張是 YouTube 影片縮圖），同 commit 清掉。
+- **同型前例**：[OBSERVER-QUEUE #31](OBSERVER-QUEUE.md) 已記過完全同形狀的一次——文章層有 terminology 閘門、UI 字串層沒有，而導覽列是全站曝光量最高的字，靠讀者 #1440 回報才發現。兩次的形狀一致：**保護密度跟曝光量成反比**（REFLEXES #87），且兩次都不是「忘了寫規則」，是「規則只掛在寫它的人當時在看的那條路徑上」。這是 #87 的第二個獨立 instance，載體從 UI 字串換成圖片欄位。
+- **可能層級**：REFLEXES #87 加子規則（vc 累積中），或與 #83「checker 兩把尺」合併——#83 講的是同一個檢查器對內對外標準不同調，本條講的是同一個標準只覆蓋一半的入口，是 #83 的鄰居而非同一條。
+- **相關**：REFLEXES #87、#83、#52（免疫系統沒 fail loud 比缺免疫系統更危險）、OBSERVER-QUEUE #31
+- **verification_count**: 1
+
+### 2026-08-23 twmd-maintainer-am — base-language-in-sibling-file-makes-every-translation-look-missing：基準語言放 A 檔、譯文放 B 檔，逐檔比對的閘門會把 11 個語言全報成缺 key
+
+- **pattern**: `base-language-in-sibling-file-makes-every-translation-look-missing`
+- **原則**：`check-ui-language.mjs` 的 TABLE_DRIFT 逐檔比對各語言的 key 集合。`/search` 頁 8/23 上線時把 zh-TW 的 25 個 `search.*` 放在 `src/i18n/ui.ts`、其餘 11 語放在新檔 `src/i18n/search.ts`，功能上十二語齊全沒有缺口，但逐檔比對會看到「ui.ts 的 en/ja/ko… 各缺 26 個 key」——**11 行假陽性，指的是一個不存在的問題**。TABLE_DRIFT 本來就是印而不擋（既有缺口數百個），假陽性混進去不會擋人，但會讓這一區更沒人讀。
+- **觸發**：2026-08-23 maintainer-am 為了查 OBSERVER-QUEUE #31 的 UI 語言閘門現況而跑 `check-ui-language.mjs`，看到 search key 缺漏報告，追進去才確認是檔案切分方式造成的假陽性，非 8/23 上線遺漏。
+- **可能層級**：工具層小修（TABLE_DRIFT 比對前先跨檔合併同名 key space），或產線約定（同一個 key 前綴的十二語放同一個檔）。**本 cycle 未修**：改 `src/i18n/` 的檔案切分要動 loader 的合併順序，弄錯會讓中文搜尋頁字串消失，不是維護巡邏的尺寸。
+- **相關**：REFLEXES #52（免疫訊號的雜訊會讓真訊號沒人看）、#38（混維度——「這個檔缺 key」混了「真的沒翻」跟「翻在隔壁檔」）
+- **verification_count**: 1
+
 ### 2026-08-23 twmd-distill-weekly — unbounded-grep-counts-template-headers-as-inventory：沒有邊界的計數指令把說明區塊的範例標題也算進庫存
 
 - **pattern**: `unbounded-grep-counts-template-headers-as-inventory`
