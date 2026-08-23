@@ -236,10 +236,25 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 editorial_ref=EDITORIAL_REF,
             )
 
-    # ── 2. frontmatter image — file existence HARD gate ──────────────────────
+    # ── 2. frontmatter image — hot-link + file existence HARD gate ───────────
+    # hero 圖跟 inline 圖走同一條規則。2026-08-23 之前這裡只驗本地路徑存不存在，
+    # 外部熱連結整條分支不進去 —— 於是全站曝光度最高的那張圖（卡片圖、OG 分享圖）
+    # 是唯一沒有熱連結閘門的圖。REFLEXES #83 兩把尺 / #87 保護密度跟曝光量成反比。
     if has_fm_image:
         src = fm_image.strip()
-        if _is_local_path(src):
+        if not _is_local_path(src):
+            if not _is_allowed_external(src):
+                yield Violation(
+                    check=CHECK_NAME,
+                    severity=Severity.HARD,
+                    message=(
+                        "frontmatter image 外部熱連結 — 圖片應 cache 到 "
+                        "public/article-images/ 並改 image: `/article-images/...`"
+                    ),
+                    snippet=src[:80],
+                    editorial_ref=EDITORIAL_REF,
+                )
+        else:
             local = public_root / src.lstrip("/")
             if not local.exists():
                 yield Violation(
