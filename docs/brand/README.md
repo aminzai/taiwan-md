@@ -1,6 +1,6 @@
 # Taiwan.md 品牌規範（Brand Guidelines）
 
-> v1.0 · 2026-08-25 建立
+> v1.0.1 · 2026-08-25（v1.0 同日：dark 改自帶底＋transparent 明名＋xlink:href 相容——起因＝raw 連結白字透明底被讀成破圖）
 > **本資料夾＝品牌相關規範與資產的家。** 規格的程式碼 SSOT 在 `src/components/BrandMark.astro`（網站實際渲染）；本文件把它固定成可交付、可治理的規範。**兩處有衝突時，先修 BrandMark，再重跑生成器同步資產。**
 
 ---
@@ -56,17 +56,21 @@ icon 垂直置中對齊大寫字高（cap height）中心
 
 位置：`docs/brand/assets/`
 
-| 檔案                                             | 用途                                                              |
-| ------------------------------------------------ | ----------------------------------------------------------------- |
-| `svg/taiwanmd-logo-horizontal-dark.svg`          | **深底用**（透明底、白字、#4fd1b0）——對外合作預設給這張＋light 版 |
-| `svg/taiwanmd-logo-horizontal-light.svg`         | **淺底用**（透明底、#1a1a2e 字、#007864）                         |
-| `svg/taiwanmd-logo-horizontal-darkbg.svg`        | 自帶 #0f1a14 底的情境版（不確定對方底色時的安全示意）             |
-| `svg/taiwanmd-wordmark-{dark,light}.svg`         | 純文字版（無 icon；極小尺寸或 icon 會糊的場合）                   |
-| `png/taiwanmd-logo-*@h{64,128,256,512,1024}.png` | 各高度點陣版                                                      |
-| `png/taiwanmd-icon@{32,64,128,256}.png`          | icon 單獨版（**刻意沒有 512：原始只有 256，放大＝假解析度**）     |
-| `source/taiwanmd-icon-original-256.png`          | icon 唯一原始資產（= `public/favicon.png`）                       |
-| `source/taiwanmd-favicon-flag.svg`               | 歷史國旗 favicon（不用於 lockup）                                 |
-| `source/build_logo.py`                           | 生成器（fontTools 外框化；字體不入 repo，腳本頭有下載來源）       |
+| 檔案                                                                            | 用途                                                                                      |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 檔案                                                                            | 用途                                                                                      |
+| ---                                                                             | ---                                                                                       |
+| `svg/taiwanmd-logo-horizontal-dark.svg`                                         | **深底版（自帶 #0f1a14 底）**——對外交付預設；直開連結不會白字隱形                         |
+| `svg/taiwanmd-logo-horizontal-light.svg`                                        | **淺底用**（透明底、#1a1a2e 字、#007864）——白底頁面直開可讀                               |
+| `svg/taiwanmd-logo-horizontal-dark-transparent.svg`                             | 深底情境**透明版**（白字）——給設計師疊自己的深底；⚠️ 白底預覽會「看起來壞掉」，檔名已明示 |
+| `svg/taiwanmd-wordmark-dark-transparent.svg`、`svg/taiwanmd-wordmark-light.svg` | 純文字版（無 icon；極小尺寸或 icon 會糊的場合）                                           |
+| `png/taiwanmd-logo-*@h{64,128,256,512,1024}.png`                                | 各高度點陣版（dark／light／dark-transparent）                                             |
+| `png/taiwanmd-icon@{32,64,128,256}.png`                                         | icon 單獨版（**刻意沒有 512：原始只有 256，放大＝假解析度**）                             |
+| `source/taiwanmd-icon-original-256.png`                                         | icon 唯一原始資產（= `public/favicon.png`）                                               |
+| `source/taiwanmd-favicon-flag.svg`                                              | 歷史國旗 favicon（不用於 lockup）                                                         |
+| `source/build_logo.py`                                                          | 生成器（fontTools 外框化；字體不入 repo，腳本頭有下載來源）                               |
+
+**交付規則（2026-08-25 v1.0.1 實戰補）**：對外給人時預設 `dark`（自帶底）＋`light` 兩張；**透明版只給明確會自己疊底的設計師**。白字透明底在任何白底預覽（瀏覽器直開 raw、Finder、聊天軟體）都會隱形，收件人第一眼＝「這張圖是壞的」。SVG 內嵌圖用 `xlink:href`（SVG 1.1，相容 Illustrator 與老渲染器；純 `href` 為 SVG2，部分軟體不認）。
 
 ## 5. 留白與最小尺寸
 

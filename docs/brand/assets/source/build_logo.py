@@ -82,12 +82,12 @@ def svg(variant, text_fill, accent, with_icon=True, bg=None):
     h = H + 2*PAD
     ox = PAD + (0 if with_icon else 0)
     oy = PAD - top
-    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w:.1f} {h:.1f}" width="{w:.1f}" height="{h:.1f}" role="img" aria-label="Taiwan.md">']
+    parts = [f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {w:.1f} {h:.1f}" width="{w:.1f}" height="{h:.1f}" role="img" aria-label="Taiwan.md">']
     if bg: parts.append(f'<rect width="{w:.1f}" height="{h:.1f}" fill="{bg}"/>')
     parts.append(f'<g transform="translate({ox:.1f},{oy:.1f})">')
     if with_icon:
         parts.append(f'<image x="{icon_x:.1f}" y="{icon_top:.1f}" width="{ICON:.1f}" height="{ICON:.1f}" '
-                     f'href="data:image/png;base64,{icon_b64}" preserveAspectRatio="xMidYMid meet"/>')
+                     f'xlink:href="data:image/png;base64,{icon_b64}" preserveAspectRatio="xMidYMid meet"/>')
     parts.append(f'<g transform="translate({tx:.1f},0)">')
     for d in taiwan_paths: parts.append(f'<path d="{d}" fill="{text_fill}"/>')
     for d in md_paths:     parts.append(f'<path d="{d}" fill="{accent}"/>')
@@ -95,11 +95,13 @@ def svg(variant, text_fill, accent, with_icon=True, bg=None):
     return "\n".join(parts)
 
 files = {
-    "taiwanmd-logo-horizontal-dark.svg":   svg("dark",  WHITE,    ACCENT_DARKBG,  True),            # 深底用（透明底、白字、薄荷綠）
-    "taiwanmd-logo-horizontal-light.svg":  svg("light", DARKTEXT, ACCENT_LIGHTBG, True),            # 淺底用（透明底、深字、深綠）
-    "taiwanmd-logo-horizontal-darkbg.svg": svg("darkbg", WHITE,   ACCENT_DARKBG,  True, "#0f1a14"), # 自帶深綠底（navbar 情境）
-    "taiwanmd-wordmark-dark.svg":  svg("wm-d", WHITE,    ACCENT_DARKBG,  False),
-    "taiwanmd-wordmark-light.svg": svg("wm-l", DARKTEXT, ACCENT_LIGHTBG, False),
+    # dark ＝ 自帶深底：直開連結/預覽不會白字隱形（2026-08-25 哲宇「SVG 是壞的」＝透明底白字在白底頁面隱形）
+    "taiwanmd-logo-horizontal-dark.svg":  svg("dark",  WHITE,    ACCENT_DARKBG,  True, "#0f1a14"),
+    "taiwanmd-logo-horizontal-light.svg": svg("light", DARKTEXT, ACCENT_LIGHTBG, True),
+    # 透明版（給設計師疊自己的深底）——檔名明示 transparent，避免被當破圖
+    "taiwanmd-logo-horizontal-dark-transparent.svg": svg("dark-t", WHITE, ACCENT_DARKBG, True),
+    "taiwanmd-wordmark-dark-transparent.svg":  svg("wm-d", WHITE,    ACCENT_DARKBG,  False),
+    "taiwanmd-wordmark-light.svg":             svg("wm-l", DARKTEXT, ACCENT_LIGHTBG, False),
 }
 for name, content in files.items():
     (OUT/name).write_text(content)
