@@ -1,6 +1,6 @@
 ---
-title: 'C. C. Wei: Born 1953, from NCTU Electronics to Yale PhD to TSMC Chairman and President'
-description: "Born in 1953. B.S. and M.S. in Electronics Engineering, National Chiao Tung University; Ph.D. in Electrical Engineering, Yale University. Career path: Texas Instruments → STMicroelectronics → Chartered Semiconductor Manufacturing (Singapore) → joined TSMC in 1998. In 2012, appointed co-COO of TSMC alongside Mark Liu. On June 5, 2018, succeeded as Vice Chairman and President following Morris Chang's retirement. On June 4, 2024, assumed the chairmanship after Mark Liu's retirement; currently serves as TSMC Chairman and President."
+title: 'C. C. Wei: From Texas Instruments Engineer to TSMC Chairman and CEO'
+description: 'From Texas Instruments engineer to Morris Chang’s successor, C. C. Wei steered TSMC into 2nm and global expansion, becoming Taiwan’s foremost semiconductor leader.'
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
@@ -19,7 +19,7 @@ sourceBodyHash: 'sha256:501cc28a481912c5'
 translatedAt: '2026-05-25T21:06:51Z'
 ---
 
-# C. C. Wei: Born 1953, from NCTU Electronics to Yale PhD to TSMC Chairman and President
+# C. C. Wei: From Texas Instruments Engineer to TSMC Chairman and CEO
 
 > **30-second overview:** C. C. Wei was born in 1953. He studied at National Chiao Tung University (NCTU), earning both his bachelor's and master's degrees in Electronics Engineering, then went to the United States to obtain a Ph.D. in Electrical Engineering from Yale University.[^1] His career spans Texas Instruments, STMicroelectronics, and Chartered Semiconductor Manufacturing in Singapore before he joined TSMC in 1998.[^1] In 2012, he was appointed co-Chief Operating Officer of TSMC alongside Mark Liu.[^2] On June 5, 2018, following the retirement of founder Morris Chang, Wei assumed the role of Vice Chairman and President of TSMC.[^2] On June 4, 2024, after Mark Liu's retirement, Wei officially became Chairman of TSMC, and currently serves as both Chairman and President.[^3]
 

@@ -1,6 +1,6 @@
 ---
-title: "Takeshi Kaneshiro: From an Unrecognized 'Member of the Public' to Asia's Heartthrob Who Only Wants the World to Forget Him"
-description: "A 2025 street-interview news segment labeled him simply as a 'member of the public,' which may have been the moment Takeshi Kaneshiro most longed for. From shooting commercials at 17 to buy a scooter to becoming an international superstar spanning Taiwan, Japan, and Hong Kong, he has spent his peak years in show business practicing the art of 'disappearing.'"
+title: 'Takeshi Kaneshiro: The Pan-Asian Screen Icon Who Mastered the Art of Disappearing'
+description: 'From a Taipei commercial actor at seventeen to Wong Kar-wai’s muse and Asia’s heartthrob, Takeshi Kaneshiro spent his career perfecting the art of disappearing.'
 date: 2026-06-19
 author: 'Taiwan.md Contributors'
 category: 'People'

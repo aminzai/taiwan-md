@@ -1,6 +1,6 @@
 ---
-title: "Chou Tien-chen: Taiwan's Badminton No.1, Swinging at World No.2 Height"
-description: "Taiwan's first men's singles player to reach world No.2 and the first to defeat the legendary Lin Dan. From a low period of ten consecutive defeats after joining the national team, to being baptized as a Christian after a perforated appendicitis, to being diagnosed with early‑stage colon cancer at age 34 in 2023, undergoing surgery and traveling abroad to compete just days later, enduring nearly a year of slump, and then reaching the quarterfinals at the Paris Olympics the following year. Chou Tien-chen does not rely on raw talent; he uses a grinding, rally‑intensive style called “磨” to steadily raise the ceiling of Taiwanese badminton."
+title: 'Chou Tien-chen: Taiwan’s Badminton Pioneer and World No. 2 Veteran'
+description: 'Overcoming a 10-match losing streak, appendicitis, and cancer, Chou Tien-chen reached world No. 2, elevating Taiwanese badminton through unmatched rally discipline.'
 date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'

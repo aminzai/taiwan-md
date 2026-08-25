@@ -1,6 +1,6 @@
 ---
-title: "Taiwan's Drone Industry: From Taichung Toy Planes to the Blue List—How Thunder Tiger Secured an Entry Ticket"
-description: 'On September 21, 2025, Thunder Tiger''s Overkill FPV kamikaze drone passed the U.S. Department of Defense Blue UAS Cleared List certification—the first and so far only company from Taiwan to do so. Out of 39 full platforms and 165 components on the list, Taiwan holds just one spot. In April 2026, four bipartisan U.S. Senators proposed the "Blue Skies for Taiwan Act" to establish a fast track for Taiwanese vendors; the very existence of this bill reveals that Taiwan is moving too slowly, requiring even the U.S. to legislate lower barriers. A company that made remote-controlled toy planes in Taichung for forty-six years is now planning its second factory in Ohio.'
+title: 'Taiwan’s Drone Industry: Thunder Tiger and the Pentagon Blue UAS List'
+description: 'How a 46-year-old Taichung model plane maker became Taiwan’s sole supplier on the Pentagon Blue UAS list, anchoring Taiwan in the non-red defense supply chain.'
 date: 2026-04-08
 category: 'Technology'
 tags:
