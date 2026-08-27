@@ -207,6 +207,21 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     fnSection: 'Сноски',
     majority: 'Большинство',
   },
+  de: {
+    // de scaffold (2026-08-19, de-translations-batch2). Record<Lang, VizStrings>
+    // 為型別硬需求；de 尚未 enabled，10 欄位以德文慣例填寫，出生時依
+    // LANGUAGE-BIRTH-CHECKLIST §Stage 4 再對齊 ui bundle。
+    srcPrefix: 'Quelle: ',
+    county: 'Kreis oder Stadt',
+    value: 'Wert',
+    unmatched: 'Nicht zugeordnete Kreise: ',
+    tilesAria: 'Datenkarte der Kreise Taiwans',
+    waffleAria: 'Waffeldiagramm',
+    fnAria: 'Fußnote',
+    fnBackAria: 'Zurück zur Referenz',
+    fnSection: 'Fußnoten',
+    majority: 'Mehrheit',
+  },
 };
 // module scope：整個 build 只有一份，renderArticleHtml 每次呼叫開頭覆寫。
 // 安全性建立在「marked.parse() 是同步呼叫、_locale 賦值到 parse 完成之間沒有

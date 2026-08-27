@@ -111,6 +111,14 @@ export const LANGUAGES = [
     notes:
       '2026-07-25 creator-directed birth (哲宇 directive, folded into 100% sync goal). Sovereignty rationale: Russian-language information sphere about Taiwan is heavily penetrated by PRC-Russia aligned narratives. Report: reports/language-birth-2026-07-25.md',
   },
+  {
+    code: 'de',
+    displayName: 'Deutsch',
+    hreflang: 'de',
+    enabled: false,
+    notes:
+      '2026-08-19 scaffold (tboydar de-translations-batch2). 72 de articles in knowledge/de/ (+2 PRs open). Language birth pending per LANGUAGE-BIRTH-CHECKLIST.',
+  },
 ];
 
 export const ENABLED_LANGUAGE_CODES = LANGUAGES.filter((l) => l.enabled).map(
