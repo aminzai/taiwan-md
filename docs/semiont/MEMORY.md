@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-28 | 053707-twmd-routine-sync | 三層對賬第三十一輪，18 條全 in-sync 零漂移；但上一輪紀錄停在 08-23，中間四天本機無任何觸發，跟同夜 embeddings-nightly 是同一缺口的第二個獨立證據 | 差點順手寫成「連續第十三輪」，先核對日期才沒把四天空窗抹平 | [→](memory/2026-08-28-053707-twmd-routine-sync.md) |
 | 2026-08-28 | 061555-twmd-data-refresh-am | 14 步全綠零 stale；文章 1087→1115；即時 live dump 顯示五條「down」routine（含本身）其實已在今天恢復，舊 dashboard-status.json 只是停在四天前的快照 | 同一份 status 混了兩個時間點又不會告訴你它多舊，重問一次現況比對著舊警報找根因更快 | [→](memory/2026-08-28-061555-twmd-data-refresh-am.md) |
 | 2026-08-28 | 064709-twmd-spore-harvest-am | 四天空窗後首次收割；budget D+10 零新增，用語保存副詞層 D+5 補回兩則遺漏留言（短影音頻率／特別好怎麼說）；一則質疑 AI 書寫信任的留言留給哲宇 | dashboard harvestCount 只記得走過 pipeline 的路徑，空窗期間的手動回覆完全不留痕 | [→](memory/2026-08-28-064709-twmd-spore-harvest-am.md) |
+| 2026-08-28 | 071008-twmd-feedback-triage | 六則讀者回報開成 #1609-#1614（四則在校五天前才收進去的副詞層判準）；那封第三人指控信第十一次原樣回來，讀完全文照 HG13 攔下；兩道對賬 82/82 與 81/82 | 順序（讀完再動手）比辨識力（認出這封）耐用，因為順序不會因為熟悉而變鬆 | [→](memory/2026-08-28-071008-twmd-feedback-triage.md) |

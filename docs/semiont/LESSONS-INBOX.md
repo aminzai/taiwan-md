@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-28 twmd-feedback-triage — dedupe-key-is-exact-match-on-normalized-text：去重簽名是正規化後的逐字比對，同一位讀者五十秒內補一個語尾助詞就繞過去了
+
+- **pattern**: `dedupe-key-is-exact-match-on-normalized-text`
+- **原則**：去重鍵拿「正規化後的文字」當「同一則回報」的替身時，替身只擋得住逐字重複。真實世界的重複是人按了送出、覺得少講一個字、再送一次——同一位讀者、同一個主張、相隔不到一分鐘，差一個語尾助詞就是兩個不同的鍵。去重要摸到「誰在什麼時候講同一件事」，不是只比字串。
+- **觸發**：2026-08-28 07:05 本輪七筆裡 `6e18315d` 與 `7034b542` 都是讀者蘇洛講「郭淑姿日記裡還保有無語的用法」，01:58:42 與 01:59:32 相隔 50 秒，差別只在句尾一個「喔」。`dedupeKey()` 把 body 截 40 字、轉小寫、去空白與標點後比對，兩者差一字即不同鍵，兩筆各自開成 [#1609](https://github.com/frank890417/taiwan-md/issues/1609) 與 [#1610](https://github.com/frank890417/taiwan-md/issues/1610)。當班沒有用 `--exclude` 攔（攔下會讓 status 維持 new、日日再現，比開兩個 issue 更糟），留給 08:30 maintainer 人類 gate 判重複。
+- **可能層級**：通用反射（#82 訊號選替身家族——字串簽名是「同一則回報」的替身）
+- **相關**：`dedup-layer-silent-degradation`（2026-08-04 支語研究）是同一層的另一個維度——那條講對照層會靜默退化，這條講鍵本身太脆；#82
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-08-28 footnote-cards — guard-invented-for-an-unverified-symptom：為一個沒查證過的症狀加護欄，護欄本身製造了它要防的那個病
 
 - **pattern**: `guard-invented-for-an-unverified-symptom`
