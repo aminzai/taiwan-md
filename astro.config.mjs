@@ -237,6 +237,22 @@ export default defineConfig({
     ...(existsSync('./config/redirects-generated.json')
       ? JSON.parse(readFileSync('./config/redirects-generated.json', 'utf-8'))
       : {}),
+    // 2026-08-18: 台灣豆漿與早餐店.md Merge 進 台灣早餐文化.md（idlccp1984 #1389 回報兩篇
+    // 重疊）。canonical 選 台灣早餐文化：站內連入 10 篇 vs 1 篇、lastHumanReview:true、
+    // 有腳註；散文骨架取豆漿篇的場景式路線全文重寫（選定理由見
+    // reports/research/2026-08/台灣早餐文化.md §舊文素材萃取）。
+    // ⚠️ 9-lang redirect（zh + en/ja/ko/es/fr/id/ru/vi）——豆漿篇有 8 語譯文，比 Stage 5
+    // contract 寫死的「5 lang」多了 es/id/ru/vi 四語（contract 老化已記 LESSONS）。
+    // 譯文暫留舊內容待 babel re-sync，redirect 先接住外部連結。
+    '/food/台灣豆漿與早餐店': '/food/台灣早餐文化/',
+    '/en/food/taiwan-soy-milk-and-breakfast-shops': '/en/food/taiwan-breakfast-culture/',
+    '/ja/food/taiwan-soy-milk-and-breakfast-shops': '/ja/food/taiwan-breakfast-culture/',
+    '/ko/food/taiwan-soy-milk-and-breakfast-shops': '/ko/food/taiwan-breakfast-culture/',
+    '/es/food/taiwan-soy-milk-and-breakfast-shops': '/es/food/taiwan-breakfast-culture/',
+    '/fr/food/taiwan-soy-milk-and-breakfast-shops': '/fr/food/taiwan-breakfast-culture/',
+    '/id/food/taiwan-soy-milk-and-breakfast-shops': '/food/台灣早餐文化/',
+    '/ru/food/taiwan-soy-milk-and-breakfast-shops': '/food/台灣早餐文化/',
+    '/vi/food/taiwan-soy-milk-and-breakfast-shops': '/food/台灣早餐文化/',
     // 2026-06-19: 立蛋.md Merge 進 端午節.md（idlccp1984 #1167/#1168 同日初稿，
     // 立蛋「迷信 vs 科學」吸納為端午節對比模組）。立蛋為當日新建 zh-TW only，1 lang redirect。
     '/culture/立蛋': '/culture/端午節/',
