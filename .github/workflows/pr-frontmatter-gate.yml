@@ -147,13 +147,18 @@ jobs:
           echo "count=$ALL_COUNT" >> "$GITHUB_OUTPUT"
           echo "🔍 PR 改動 knowledge/ 檔：$ALL_COUNT（其中 zh-TW root $ZH_COUNT）"
 
-          # Fail-loud：diff 裡明明提到 knowledge/，過濾完卻一個都不剩 = 過濾器瞎了，
+          # Fail-loud：diff 裡明明提到 knowledge/ 下的 .md，過濾完卻一個都不剩 = 過濾器瞎了，
           # 不是「這個 PR 沒動文章」。沒有這道對賬的話，任何新的檔名形狀（中文、
           # 空白、引號、未來的 emoji）都會讓本 gate 靜靜退化成綠燈裝飾品。
           # 量的是「我抓到的」對得上「diff 說有的」，不是只量我抓到幾個（REFLEXES #82）。
-          RAW_KN=$(printf '%s' "$FILES" | grep -c 'knowledge/' || true)
+          #
+          # ⚠️ 2026-08-25 校正（PR #1583 觸發）：原本 grep 'knowledge/' 會把非 .md
+          # 檔（如 knowledge/_translations.json）也算進 RAW_KN——但過濾器只收 .md，
+          # 於是「純改 JSON」的 PR 一定被誤判成「過濾器壞了」。RAW_KN 的語意應與
+          # 過濾器對齊：只 count 應當被抓到的 .md，才是「該進來卻沒進來」的訊號。
+          RAW_KN=$(printf '%s' "$FILES" | grep -Ec '^knowledge/.*\.md$' || true)
           if [ "$RAW_KN" != "0" ] && [ "$ALL_COUNT" = "0" ]; then
-            echo "::error::diff 有 $RAW_KN 條 knowledge/ 路徑，過濾後卻是 0——檔名解析壞了，不是沒有改動。原始 diff："
+            echo "::error::diff 有 $RAW_KN 條 knowledge/*.md 路徑，過濾後卻是 0——檔名解析壞了，不是沒有改動。原始 diff："
             printf '%s\n' "$FILES" | sed 's/^/    /'
             exit 1
           fi
