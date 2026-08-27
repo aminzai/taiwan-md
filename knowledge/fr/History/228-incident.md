@@ -10,7 +10,7 @@ tags:
     terreur blanche,
     démocratisation,
     loi martiale,
-    228,
+    '228',
   ]
 subcategory: 'Histoire militaire'
 category: 'History'

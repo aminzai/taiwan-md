@@ -16,7 +16,6 @@ tags:
      'सूर्य फूल छात्र आंदोलन',
    ]
 subcategory: 'स्वतंत्र और रॉक'
-author: 'Taiwan.md'
 featured: false
 lastVerified: '2026-04-13'
 lastHumanReview: 'true'
