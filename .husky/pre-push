@@ -52,7 +52,14 @@ if [ "${TWMD_SKIP_PREPUSH_SWEEP:-0}" = "1" ]; then
   echo "🧬 pre-push: TWMD_SKIP_PREPUSH_SWEEP=1，跳過全站 article-health 全掃（CI 仍會擋）"
 elif [ "$SWEEP_SCOPE" = "changed" ] && [ -f "$REPO/scripts/tools/article-health.py" ] && command -v python3 >/dev/null 2>&1; then
   # 推到別人的 fork（P1 heal-to-contributor-branch）：只驗本次 commit 動到的 knowledge/*.md
-  CHANGED="$(git diff --name-only "@{u}"...HEAD 2>/dev/null | grep -E '^knowledge/.*\.md$' || git show --name-only --pretty=format: HEAD 2>/dev/null | grep -E '^knowledge/.*\.md$')"
+  # || true 不可省（2026-08-27）：兩個 grep 都沒命中時整條命令替換回非零，husky 是
+  # `sh -e` 起的，賦值失敗會**靜默**結束整個 hook——沒有任何一行輸出，push 端只看到
+  # 「husky - pre-push script failed (code 1)」。而「兩個 grep 都沒命中」正是 P1 路徑
+  # 的常態：維護者上一個 main commit 多半是工具或文件，不含 knowledge/*.md。
+  # 結果是格式債的 canonical default（§1b P1 推修補進投稿者分支）在維護者剛改完工具時
+  # 一定失敗，且失敗訊息完全不指向原因。這跟本檔第 129 行那句「|| true 必要」是同一種病，
+  # 教訓學在下面那一處、沒有 apply 到上面這一處。
+  CHANGED="$( { git diff --name-only "@{u}"...HEAD 2>/dev/null; git show --name-only --pretty=format: HEAD 2>/dev/null; } | grep -E '^knowledge/.*\.md$' | sort -u || true)"
   if [ -n "$CHANGED" ]; then
     BAD=0
     for f in $CHANGED; do
