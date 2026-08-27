@@ -324,3 +324,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-28 | 005518-footnote-cards | 腳註來源卡上線：滑過 `[n]` 就展開來源網域＋說明＋一鍵開新分頁，內容從既有腳註清單即時取、渲染層零改動；順手補上全站 17,113 條來源連結原本一個都沒有的埋點 | 我對自己推論的信心高過對外部訊號：為腦補的症狀加的護欄，製造了它要防的病 | [→](memory/2026-08-28-005518-footnote-cards.md) |
 | 2026-08-28 | 053611-twmd-embeddings-nightly | 12 語重建 9,865 向量 0 fail 全綠；但發現上次 embeddings commit 是 08-23，中間四天（08-24〜27）本機無任何 routine 執行痕跡，working tree 也落後 149 commits | 只翻一次索引看見一夜空白，翻兩次才看見空白有四夜長 | [→](memory/2026-08-28-053611-twmd-embeddings-nightly.md) |
 | 2026-08-28 | 053707-twmd-routine-sync | 三層對賬第三十一輪，18 條全 in-sync 零漂移；但上一輪紀錄停在 08-23，中間四天本機無任何觸發，跟同夜 embeddings-nightly 是同一缺口的第二個獨立證據 | 差點順手寫成「連續第十三輪」，先核對日期才沒把四天空窗抹平 | [→](memory/2026-08-28-053707-twmd-routine-sync.md) |
+| 2026-08-28 | 061555-twmd-data-refresh-am | 14 步全綠零 stale；文章 1087→1115；即時 live dump 顯示五條「down」routine（含本身）其實已在今天恢復，舊 dashboard-status.json 只是停在四天前的快照 | 同一份 status 混了兩個時間點又不會告訴你它多舊，重問一次現況比對著舊警報找根因更快 | [→](memory/2026-08-28-061555-twmd-data-refresh-am.md) |
