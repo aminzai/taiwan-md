@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-28 footnote-cards — guard-invented-for-an-unverified-symptom：為一個沒查證過的症狀加護欄，護欄本身製造了它要防的那個病
+
+- **pattern**: `guard-invented-for-an-unverified-symptom`
+- **原則**：在嵌入式瀏覽器（Claude Code 的 Browser pane）看到卡片上的 `target="_blank"` 連結原地導走，沒有先確認那是不是**那個瀏覽器自己的行為**，直接當成真實症狀，加了一層 `window.open(href,'_blank','noopener,noreferrer')` 當保險。這層保險是真的 bug：**帶 `noopener` 的 `window.open()` 依規格回傳 `null`**（opener 關係被切斷，沒有 window 物件可回），於是 `if (win) e.preventDefault()` 永遠不成立，瀏覽器接著又跑一次 `<a>` 的預設行為。同一次點擊走了兩趟，其中一趟把原本那頁也帶走。
+- **觸發**：2026-08-28 腳註來源卡實作中，哲宇連續兩則訊息。第一則「開啟來源的時候要另開新分頁」（我照著加保險），第二則「除了開新頁面原本的網頁也會跳轉過去」（保險造成的）。事後查嵌入式瀏覽器的 tab 清單，`popup-3` 確實是獨立分頁，`target="_blank"` 從一開始就是對的。
+- **兩層錯，不是一層**：(a) 把「非代表性環境的觀察」當成 ground truth，等於 REFLEXES #16 的量測層延伸套在**自己的觀察**上而不是別人的報告上；(b) 護欄的回傳值語意沒查規格就拿來當條件。第二層是新的：**用一個沒讀過規格的判斷，去守一個沒證實的病**。使用者手勢觸發的 `target="_blank"` 本來就不會被彈出視窗阻擋，那條路徑一直是最穩的。
+- **處置**：整層 `window.open` 刪掉，只留 markup 的 `target="_blank" rel="noopener noreferrer"`，並在元件註解裡把 `noopener` 回傳 `null` 這件事寫死（commit `f82bcc2a1`）。
+- **可能層級**：REFLEXES #16 的子規則候選——**「我在 X 環境看到 Y」要先問「X 對這件事有代表性嗎」，再決定它是線索還是事實**。判準候選：任何在工具環境、嵌入式瀏覽器、headless、模擬器裡觀察到的「壞掉」，動手修之前先在真實環境重現一次；重現不了就是環境差異不是病。
+- **相關**：REFLEXES #16（線索不是 source，含 2026-07-11 量測層延伸「先驗量的是哪一層」）、#67（已驗過帶時間戳）、LESSONS `fix-scope-follows-symptom-not-root-class`（那條是修補範圍照症狀畫，本條是症狀本身是腦補的）
+- **verification_count**: 1
+- **severity**: structural（護欄製造它要防的病，而且只有觀察者在場才被抓到）
+
+### 2026-08-28 footnote-cards — clean-design-decides-what-gets-measured：實作潔癖劃定了量測邊界，而潔癖不對「問題完不完整」負責
+
+- **pattern**: `clean-design-decides-what-gets-measured`
+- **原則**：腳註來源卡的埋點原設計刻意選「不自己呼叫 `gtag`」，改成滿足 `EventTracker` 既有的 markup contract。理由每一條都成立：零新參數、`instrumentation-audit.py` 的 CI 閘門零改動、複用已註冊維度。但那個 contract **只涵蓋點擊**，而桌機的主要互動是 hover——那條路徑不經過任何點擊事件，於是「有多少人在用這個功能」在原設計裡剛好量不到。
+- **為什麼特別難看見**：同一份設計報告的 §1.4 花整段在罵「儀器只看見存在、看不見缺席」，證據是站上 17,113 條來源連結零埋點。寫完那段一小時後，我用一個關於實作乾淨度的判準，替新功能劃出了同一種缺席。**罵完立刻復發，而且是自己動手劃的。**
+- **觸發**：2026-08-28 哲宇 in-chat「也同步加入有多少人使用這個功能的 ga 追蹤」。補了 `footnote_card_open`（帶 `trigger`: hover/click/focus，同一頁同一條腳註去重一次），並把 `trigger` 進 `ENGAGEMENT_DIMENSIONS`、元件進 `TRACKER_FILES`、實跑 register script 讓 GA4 建維度。
+- **可能層級**：REFLEXES #82（proxy signal）／#69（外部尺）家族的新載體——前面那些講的是「量錯東西」，本條講的是**量測範圍被一個跟量測無關的判準（實作乾淨度）默默決定**。判準候選：任何新功能決定埋什麼點之前，先列「使用者可能用到它的所有路徑」，再問每條路徑有沒有事件；用「不新增參數 / 不動閘門」當理由收窄範圍時，那個理由服務的是實作不是問題。
+- **相關**：REFLEXES #82、#69、MEMORY §神經迴路「儀器只看見存在、看不見缺席」、本 session 設計報告 §1.4
+- **verification_count**: 1
+- **severity**: structural（新功能出生就帶著量測缺口，而缺口不留痕跡）
+
 ### 2026-08-18 twmd-rewrite-breakfast-merge — pipeline contract 寫死語系數，而語系會長
 
 - **pattern**: `contract-hardcodes-growing-count`
@@ -497,6 +520,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：操作規則（EDITORIAL-ROOM §主編裁決 補一段）
 - **相關**：#69 (g) form gate ≠ meaning gate（席位衝突正是意義層才會發生的事，形式尺永遠量不到）；`cold-seat-attribution-inverted`（同屬分席審制度層的縫）
 - **verification_count**: 1
+
 ### 2026-08-17 twmd-maintainer-am — healer-authors-the-drift-it-validates：自動修補工具填出正典裡不存在的值，而合法性又由它自己認定
 
 - **pattern**: `healer-authors-the-drift-it-validates`
