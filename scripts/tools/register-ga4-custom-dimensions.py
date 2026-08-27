@@ -65,6 +65,7 @@ ENGAGEMENT_DIMENSIONS = [
     ("seconds", "Time Milestone Seconds", "time_milestone 階段 30/60/180/600"),
     ("elapsed_ms", "Elapsed MS", "section 第一次進 viewport 距 page load 的毫秒"),
     ("depth_pct", "Scroll Depth Percent", "scroll_depth 階段 25/50/75/100（取代死掉的 pct）"),
+    ("trigger", "Interaction Trigger", "footnote_card_open 是被 hover / click / focus 哪一種打開的（2026-08-28 腳註來源卡）"),
 ]
 
 # ── page-level events（404.astro page_404）────────────────────────────────

@@ -21,6 +21,7 @@ import { exploreUI } from './explore';
 import { latestUI } from './latest';
 import { timelineUI } from './timeline';
 import { searchUI } from './search';
+import { footnoteUI } from './footnote';
 
 // Single source of truth: src/config/languages.ts
 export const languages = LANGUAGE_DISPLAY_NAMES as Record<Lang, string>;
@@ -48,6 +49,7 @@ export const ui = {
     ...timelineUI.en,
     ...benchUI.en,
     ...searchUI.en,
+    ...footnoteUI.en,
     'nav.aria-home': 'Taiwan.md Home',
     'nav.aria-img-label': 'Taiwan.md logo',
     'nav.aria-toggle-menu': 'Toggle navigation menu',
@@ -293,6 +295,7 @@ export const ui = {
     ...timelineUI.ja,
     ...benchUI.ja,
     ...searchUI.ja,
+    ...footnoteUI.ja,
     'nav.aria-home': 'Taiwan.md ホーム',
     'nav.aria-img-label': 'Taiwan.md ロゴ',
     'nav.aria-toggle-menu': 'ナビゲーションメニューの切替',
@@ -527,6 +530,7 @@ export const ui = {
     ...timelineUI.ko,
     ...benchUI.ko,
     ...searchUI.ko,
+    ...footnoteUI.ko,
     'nav.aria-home': 'Taiwan.md 홈',
     'nav.aria-img-label': 'Taiwan.md 로고',
     'nav.aria-toggle-menu': '내비게이션 메뉴 전환',
@@ -764,6 +768,7 @@ export const ui = {
     ...latestUI.es,
     ...timelineUI.es,
     ...searchUI.es,
+    ...footnoteUI.es,
     'nav.aria-home': 'Inicio de Taiwan.md',
     'nav.aria-img-label': 'Logo de Taiwan.md',
     'nav.aria-toggle-menu': 'Abrir o cerrar menú de navegación',
@@ -1008,6 +1013,7 @@ export const ui = {
     ...latestUI.fr,
     ...timelineUI.fr,
     ...searchUI.fr,
+    ...footnoteUI.fr,
     'nav.aria-home': 'Accueil Taiwan.md',
     'nav.aria-img-label': 'Logo Taiwan.md',
     'nav.aria-toggle-menu': 'Ouvrir ou fermer le menu de navigation',
@@ -1252,6 +1258,7 @@ export const ui = {
     ...latestUI.vi,
     ...timelineUI.vi,
     ...searchUI.vi,
+    ...footnoteUI.vi,
     'nav.aria-home': 'Trang chủ Taiwan.md',
     'nav.aria-img-label': 'Biểu tượng Taiwan.md',
     'nav.aria-toggle-menu': 'Mở/đóng trình đơn điều hướng',
@@ -1496,6 +1503,7 @@ export const ui = {
     ...latestUI.id,
     ...timelineUI.id,
     ...searchUI.id,
+    ...footnoteUI.id,
     'nav.aria-home': 'Beranda Taiwan.md',
     'nav.aria-img-label': 'Ikon logo Taiwan.md',
     'nav.aria-toggle-menu': 'Buka/tutup menu navigasi',
@@ -1743,6 +1751,7 @@ export const ui = {
     ...latestUI.pt,
     ...timelineUI.pt,
     ...searchUI.pt,
+    ...footnoteUI.pt,
     'nav.aria-home': 'Página inicial do Taiwan.md',
     'nav.aria-img-label': 'Ícone do logotipo do Taiwan.md',
     'nav.aria-toggle-menu': 'Abrir/fechar menu de navegação',
@@ -1988,6 +1997,7 @@ export const ui = {
     ...latestUI.hi,
     ...timelineUI.hi,
     ...searchUI.hi,
+    ...footnoteUI.hi,
     'nav.aria-home': 'Taiwan.md मुखपृष्ठ',
     'nav.aria-img-label': 'Taiwan.md लोगो चिह्न',
     'nav.aria-toggle-menu': 'नेविगेशन मेनू खोलें/बंद करें',
@@ -2232,6 +2242,7 @@ export const ui = {
     ...latestUI.ar,
     ...timelineUI.ar,
     ...searchUI.ar,
+    ...footnoteUI.ar,
     'nav.aria-home': 'الرئيسية لـ Taiwan.md',
     'nav.aria-img-label': 'شعار Taiwan.md',
     'nav.aria-toggle-menu': 'فتح/إغلاق قائمة التنقل',
@@ -2473,6 +2484,7 @@ export const ui = {
     ...latestUI.ru,
     ...timelineUI.ru,
     ...searchUI.ru,
+    ...footnoteUI.ru,
     'nav.aria-home': 'Главная страница Taiwan.md',
     'nav.aria-img-label': 'Логотип Taiwan.md',
     'nav.aria-toggle-menu': 'Открыть/закрыть меню навигации',
@@ -2722,9 +2734,9 @@ export const ui = {
     ...latestUI['zh-TW'],
     ...timelineUI['zh-TW'],
     ...benchUI['zh-TW'],
+    ...footnoteUI['zh-TW'],
     'search.meta.title': '站內搜尋',
-    'search.meta.desc':
-      '搜尋 Taiwan.md 的所有文章：完整結果、排序與時間篩選。',
+    'search.meta.desc': '搜尋 Taiwan.md 的所有文章：完整結果、排序與時間篩選。',
     'search.title': '搜尋結果',
     'search.input.placeholder': '搜尋台灣的一切',
     'search.count': '「{q}」共 {n} 筆結果',

@@ -53,6 +53,7 @@ TRACKER_FILES = [
     REPO / "src" / "layouts" / "Layout.astro",
     REPO / "src" / "pages" / "404.astro",
     REPO / "src" / "templates" / "soundscape.template.astro",
+    REPO / "src" / "components" / "FootnoteCard.astro",
 ]
 
 # 故意不註冊成 custom dimension 的 param（例：純 debug、或 GA 內建已涵蓋）。

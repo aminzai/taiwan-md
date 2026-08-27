@@ -43,6 +43,7 @@ SURFACE=(
   "src/components/TableOfContents.astro"
   "src/components/ArticleCard.astro"
   "src/components/Perspectives.astro"
+  "src/components/FootnoteCard.astro"
   "src/styles/global.css"
   "src/styles/dark-polish.css"
 )
@@ -102,9 +103,14 @@ TW_PATTERNS=(
 # `left: 50%` + `transform: translateX(-50%)` 是置中慣用法。改成
 # inset-inline-start: 50% 在 RTL 會變成「從右邊算 50%」，配上固定方向的
 # translateX 反而偏移半個元素寬。置中沒有方向性，維持 physical 才對。
+#
+# ⚠️ 這兩張表用行號釘住條目，檔案一長就會漂掉，漂掉之後合法的用法會被報成
+# 新違反（2026-08-28 實際發生：Header 的兩條置中從 1052/1099 漂到
+# 1063/1110，全掃時每次都亮兩個假警報）。跑全掃看到「已知條目變成違反」，
+# 先確認是不是只是行號漂了，再決定要不要真的改樣式。
 ALLOWLIST=(
-  "src/components/Header.astro:1052|dropdown 置中：left:50% + translateX(-50%)"
-  "src/components/Header.astro:1099|dropdown 置中：left:50% + translateX(-50%)"
+  "src/components/Header.astro:1063|dropdown 置中：left:50% + translateX(-50%)"
+  "src/components/Header.astro:1110|dropdown 置中：left:50% + translateX(-50%)"
 )
 
 # ── 掛號中的債（受守護檔案裡「還沒還」的行）──────────────────────────────────
@@ -115,7 +121,8 @@ ALLOWLIST=(
 DEBT=(
   "src/styles/global.css:434|2026-07-26|.floating-md 屬浮動層，要跟 ReaderSettings / FeedbackWidget 同批鏡像，否則 RTL 下三者疊在一起"
   "src/styles/global.css:480|2026-07-26|同上（手機斷點）"
-  "src/styles/dark-polish.css:1433|2026-07-26|覆寫的 base 在 resources.template.astro，本輪未清該檔，成對改才有意義"
+  # dark-polish.css 的 .resources-page .featured-card border-left-color 已於
+  # 2026-08-28 還清（改 border-inline-start-color）。該檔現在零 physical。
 )
 
 is_allowlisted() {
