@@ -234,6 +234,27 @@ def heal_file(path: Path, dry_run: bool, from_pr: bool = False) -> dict:
     if r2.stderr.strip():
         print(r2.stderr.strip(), file=sys.stderr)
 
+    # 3.5 全形分號硬門檻 —— 投稿端 AI 寫繁中的固定水印
+    # 2026-08-27 maintainer：同一天九個投稿 PR 全部只卡在這一句「全形分號超硬門檻」，
+    # 分號數 14 到 27。article-health --fix 不碰它（它動的是 frontmatter 與連結層），
+    # 而 punct-cleanup.py 只產清單跟驗事實、不動手，所以這個 blocker 一直得有人手清。
+    # semicolon-cleanup.py 跟 gate 共用同一個禁改區 predicate，只在分號兩側都是中日韓
+    # 文字時把它換成句號（語意等價），清到剛好過門檻為止。
+    # 同樣只在 --from-pr 模式跑：改的是投稿者的散文標點，維護者手動指一篇自家檔案時
+    # 不該被靜默改寫（跟上面 2.5 紅旗步驟同一個邊界理由）。
+    if from_pr:
+        sc_cmd = [
+            sys.executable,
+            str(REPO / "scripts/tools/semicolon-cleanup.py"),
+            str(rel.relative_to(REPO)),
+        ]
+        if dry_run:
+            sc_cmd.append("--dry-run")
+        rsc = subprocess.run(sc_cmd, cwd=REPO, capture_output=True, text=True)
+        for line in rsc.stdout.splitlines():
+            if line.startswith(("✅", "❌", "   ↳")):
+                print(f"  {line}")
+
     # 4. re-check —— 必須用部署閘門的同一個 profile
     # 2026-07-25：此處原本不帶 --profile（走預設，較寬），於是 heal 完自報
     # hard=0 而 CI 的 ci-deploy sweep 是 hard=12，PR #1248（旺旺）就這樣
