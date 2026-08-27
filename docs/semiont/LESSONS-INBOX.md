@@ -332,6 +332,53 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-27 twmd-maintainer-manual — silent-abort-in-the-path-that-only-runs-when-it-matters：hook 在 sh -e 下賦值失敗會無聲收工，而失敗條件正是那條路徑的常態
+
+- **pattern**: `silent-abort-in-the-path-that-only-runs-when-it-matters`
+- **原則**：`.husky/pre-push` 有一段專給「推到投稿者 fork」用的分支（全站掃描在別人的樹上無意義，退成只驗本次 commit 動到的檔）。取那份清單的寫法是兩個 grep 用 `||` 串起來，兩個都沒命中時整條命令替換回非零；husky 用 `sh -e` 起 hook，賦值失敗直接結束整個腳本——**一行輸出都沒有**，push 端只看到「husky - pre-push script failed (code 1)」。而「兩個 grep 都沒命中」正是這條路徑的常態：維護者上一個 main commit 多半是工具或文件，不含任何 `knowledge/*.md`。**於是這條路徑只在「它該生效」的時候必死，而且死得沒有理由。**
+- **觸發**：2026-08-27 維護 cycle 要照 MAINTAINER §1b P1 把格式修補推進十二個投稿者分支，整批被擋。手動跑同一支 hook 卻回 rc=0（因為互動 shell 不是 `sh -e`），查了半小時才用 `sh -e -c 'X="$(...||...)"; echo reached'` 重現。
+- **為什麼會發生（本條的重點）**：**同一支檔案第 129 行就寫著**「`|| true` 必要：`--check` 對 out-of-sync 也 exit 1，husky `sh -e` 下賦值失敗會靜默炸整個 hook」——那是 2026-07-24 學到的，而且註解裡連症狀都描述對了。教訓寫在下面那一處，沒有 apply 到上面這一處。這是 `fix-scope-follows-symptom-not-root-class` 的**同檔案版本**：修補範圍照著症狀現形的行號畫，不是照著「這個檔裡所有 `X="$(...)"` 都有這個風險」這個類別畫。
+- **處置**：改成兩個來源先合流再一次 grep，補 `sort -u` 與 `|| true`（commit `897c362f2`）。重現條件下（`sh -e`、推 fork、HEAD 無文章）三道閘門照跑、rc=0。**還沒做的**：全檔沒有掃過還有哪些 `VAR="$(...)"` 缺 `|| true`——那正是本條在說的那件事，留給下一輪。
+- **可能層級**：`fix-scope-follows-symptom-not-root-class`（2026-08-16）+1 verification，載體從跨檔換成同檔內同一類語法。另可考慮做成 shellcheck 規則（SC2312 家族）接進 pre-commit。
+- **相關**：LESSONS `fix-scope-follows-symptom-not-root-class`、`gate-explains-into-a-dead-channel`（8/13，同樣是「閘門判斷對了但訊息送不到人面前」）、REFLEXES #52（免疫系統沒 fail loud 比缺免疫系統更危險——本條是 fail loud 到一半就斷氣）
+- **verification_count**: 1（`fix-scope` 家族累計第 5 次）
+- **severity**: high（這條路徑是格式債的 canonical default，死掉等於整條收割線停擺，而且不指向原因）
+
+### 2026-08-27 twmd-maintainer-manual — tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about：`--pr N` 只拿了檔名，然後對本機工作樹開檔
+
+- **pattern**: `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`
+- **原則**：`translation-ratio-check.sh --pr N` 從 `gh pr diff --name-only` 拿檔名，然後 `os.path.exists(f)` / `open(f)` ——對的是**本機工作樹**。翻譯 PR 幾乎都是新增檔案，那些路徑在 main 上本來就不存在，於是**每一個新翻譯 PR 都穩定回 `MISSING` → `❌ FAIL: TRUNCATED translations require rework`**。工具沒有壞掉的樣子，它很有自信地報了一個假結論。
+- **為什麼特別貴**：MEMORY §神經迴路 指名這支工具是「翻譯審核第一道檢查」（「Ratio 是翻譯審核第一道檢查⋯不讀內容就能 10 秒識別摘要式翻譯」）。**照著 SOP 走就會撞到假 FAIL**。長期下來只有兩種結果：維護者學會無視它（閘門退化成裝飾品），或好翻譯被錯誤打回。本輪三篇 ko/fr/es 實測 ratio 1.50 / 3.69 / 3.25 全在健康帶內，工具三篇都判 FAIL。
+- **處置**：`--pr` 模式改成把 PR 內容取進暫存區再量，譯文讀暫存區、中文源仍讀 main 工作樹（commit `1cbb7b0a4`）。修完三篇都 PASS，且章節/腳註/URL 數量完全守恆（13→13、62→62、79→79）。跟 MAINTAINER §診斷紀律「把 PR 的內容檔帶進 main 樹跑」同一個原則——**被量的是 PR 的內容，量尺是 main 的**——差別在那條紀律寫給人，沒有寫進工具。
+- **可能層級**：`detector-inherits-the-blindness-it-was-built-to-catch`（8/19）的鄰居：那條是偵測器自己用了代理訊號，本條是工具搞錯了被量的對象。合起來可能是一條「**工具的量測對象要 explicit，不能繼承執行環境**」。判準候選：任何吃 PR 編號的工具，要問「它是去把 PR 的東西拿過來，還是假設 PR 的東西已經在腳下」。
+- **相關**：LESSONS `detector-inherits-the-blindness-it-was-built-to-catch`、`diagnosing-from-the-contributor-tree-audits-a-past-self`（7 月，反向：站在對方的樹上讀我們的工具）、REFLEXES #24（工具在說謊）、#82（proxy signal）
+- **verification_count**: 1
+- **severity**: high（在 canonical SOP 指名的位置上長期假 FAIL）
+
+### 2026-08-27 twmd-maintainer-manual — cleanup-step-assumes-the-file-is-new：診斷用的還原步驟寫成 `rm`，遇到已在 main 的檔就是刪掉線上內容
+
+- **pattern**: `cleanup-step-assumes-the-file-is-new`
+- **原則**：把 PR 的內容檔帶進 main 樹量完之後要還原。批次腳本寫的是 `git show refs/…:$P > $P` ⋯量⋯ `rm -f $P`。這個 `rm` 隱含一個假設：**這個路徑原本不存在**。對「新增文章」的 PR 成立，對「這篇已經透過別的 PR 上站了」的 PR 就是**直接刪掉一篇線上文章**，而且工作樹只會多兩行 `D`，很容易在一堆 `M` 裡滑過去。
+- **觸發**：2026-08-27 診斷 PR #1401 時，把 `Cheap.md` 與 `林佳辰.md` 帶進樹裡量完 `rm` 掉——這兩篇早在 PR #1544 與更早一個 PR 就合併上站了。是後續查「為什麼這個 PR CONFLICTING」時 `git ls-files` 顯示「檔案有追蹤但磁碟上沒有」才發現。
+- **為什麼閘門沒接住**：批次那條路徑**有**做防護（跑批次前先掃過一輪「目標路徑在 main 上是否已存在」，當時零命中所以安全）。臨時起意的單篇診斷沒有走那條路，護欄留在批次腳本裡，沒有留在動作本身。跟 `fix-scope-follows-symptom-not-root-class` 同族：保護掛在寫它的人當時在看的那條路徑上。
+- **處置**：兩檔已 `git checkout --` 還原並確認全樹無其他誤刪。腳本的還原步驟改成先問 `git cat-file -e HEAD:$P`——原本就在 HEAD 的走 `git checkout --`，真的是新檔才 `rm`。
+- **可能層級**：操作紀律候選——**任何「量完還原」的步驟，還原方式必須由「它原本在不在」決定，不能寫死**。可儀器化：診斷腳本收尾時斷言 `git status --short | grep '^ D' | wc -l == 0`。
+- **相關**：REFLEXES #35（跨 session work 期間禁 destructive git ops）、LESSONS `fix-scope-follows-symptom-not-root-class`、神經迴路「批次修正必須先 10 檔 dry-run」
+- **verification_count**: 1
+- **severity**: high（無聲刪除線上內容，只靠事後偶然發現）
+
+### 2026-08-27 twmd-maintainer-manual — i-concluded-not-found-from-one-failed-search：把「我搜不到」寫成「這句沒有來源」，而且是寫在對別人作品的指控裡
+
+- **pattern**: `i-concluded-not-found-from-one-failed-search`
+- **原則**：審 PR #1453 的人物卡時，對一句掛在曾博恩名下的引語「學測會考測不到極限」下了結論：「我另外搜也找不到任何訪談有這句」，並據此把它列為**最不能放行的一類**（無來源直接引語）。實際上來源存在——2026-08-16 TVBS／今周刊報導 Netflix《追劇密探》談話，是站長把連結丟過來才知道。用了一組組合關鍵字搜一輪沒中，就把「我沒找到」寫成了「不存在」。
+- **為什麼這條比一般查證失誤重**：**否定式斷言是對別人作品的指控**。同一則留言裡我正在跟投稿者講「沒有出處的直接引語是我們最不能放行的一類」，而支撐那個判斷的證據本身沒有出處。教訓的形狀跟我當下在教的東西一模一樣。
+- **正確的形狀**：同一則留言的另一半做對了——牛淳賦那條我是把投稿附的聯合報報導真的調出來逐字核對，才確認「四兄妹全考滿分」是概括漂移。**差別在於：肯定式斷言我去讀了原文，否定式斷言我只搜了一輪。** 判準候選：否定式結論（「查不到」「不存在」「沒有來源」）要嘛用跟肯定式一樣的力度去找，要嘛降級成「我沒找到，麻煩你補出處」——後者永遠是安全的，而且把舉證責任放回它本來該在的地方。
+- **處置**：已在 PR #1453 公開更正，附上來源，並把剩下的問題重新界定為形式問題（那句是報社標題的壓縮，不是他的原話；他真正說出口被記者標「直言」的是「我覺得建中比台大強啦」）。
+- **可能層級**：`negative-claim-consensus-is-not-evidence`（2026-08-15，N 隻 agent 一致回報做不到不構成證據）的單體版本 +1。合起來是「**否定式結論需要比肯定式更高的舉證標準，因為它無法被它自己的失敗證偽**」。
+- **相關**：LESSONS `negative-claim-consensus-is-not-evidence`、REFLEXES #16（peer/probe 是線索不是 source）、#75（Read ≠ verify）、MANIFESTO §10 幻覺鐵律
+- **verification_count**: 1（`negative-claim` 家族第 2 次）
+- **severity**: moderate（傷害落在對投稿者的信任成本上，且已公開更正）
+
 ### 2026-08-23 twmd-maintainer-am — highest-exposure-slot-is-the-one-with-no-gate：同一條規則只掛在兩條路徑的其中一條，沒掛的那條偏偏是曝光最高的
 
 - **pattern**: `highest-exposure-slot-is-the-one-with-no-gate`
