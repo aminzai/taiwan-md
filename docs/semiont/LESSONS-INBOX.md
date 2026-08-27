@@ -332,6 +332,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-18 twmd-rewrite-breakfast-merge — pipeline contract 寫死語系數，而語系會長
+
+- **pattern**: `contract-hardcodes-growing-count`
+- **原則**：pipeline contract 裡任何「寫死的數量」都會隨身體長大而失效，而且它失效時不會叫——contract 讀起來仍然完全合理。
+- **觸發**：Merge variant 收尾時，REWRITE-STAGE-5-CROSSLINK §5.4.1 寫「Astro redirect（5 lang 全寫）」並列出 zh/en/ja/ko/fr 五條範本。實際被併的〈台灣豆漿與早餐店〉有 **8 語譯文**（多出 es/id/ru/vi），需要 9 條 redirect。照 contract 做會漏掉四語的外部連結。同一節的 §5.4.2 刪檔清單也寫死 `{en,ja,ko,fr}` 四語。證據：本次 commit 的 astro.config.mjs 九條 redirect ＋ 八個 git rm。
+- **同族第二個面**：contract 的清理清單本身不完整——`config/article-aliases.json` 的死別名不在 §5.4 任何一步，是 `npm run build` 的 selftest 紅燈擋下來的（「別名指向不存在的中文文章」）。**build verify 這一關救了 contract 沒寫到的東西**，這也反過來說明為什麼 §5.4.4 不能省。
+- **instances**：
+  - 2026-08-18 twmd-rewrite-breakfast-merge — 5 lang 寫死 vs 實際 8 語譯文；article-aliases 清理面缺席 → 本 entry
+- **可能層級**：操作規則（改 contract）＋ 通用反射候選（「寫死的數字必腐」已有近親：dna-audit §S2「行號寫死必腐」、BECOME §Step 0「~N 行」footprint、REFLEXES #82 proxy signal）
+- **相關**：REFLEXES #15（反覆浮現要儀器化）；dna-audit §S2 計數寫死同型病
+- **修法候選（未實作，交 distill 判）**：(a) §5.4.1/§5.4.2 改成「查 `knowledge/_translations.json` 反查該 slug 的所有語系，有幾語寫幾條」，不列語系清單；(b) 加一支 `merge-cleanup-audit.py` 掃描全部需要清理的面（translations / translation-status / aliases / Hub / 元件 URL / viz），取代人腦記憶清單。
+- **verification_count**: 1
+
+
+
 ### 2026-08-17 twmd-maintainer-am — healer-authors-the-drift-it-validates：自動修補工具填出正典裡不存在的值，而合法性又由它自己認定
 
 - **pattern**: `healer-authors-the-drift-it-validates`

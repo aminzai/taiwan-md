@@ -59,6 +59,20 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣早餐文化 — 2026-08-18 twmd-rewrite session 完成（兩萬家店賣著同一份早餐，沒有一個人擁有它）
+
+- **Article**: [knowledge/Food/台灣早餐文化.md](../../knowledge/Food/台灣早餐文化.md)
+- **Pipeline**: REWRITE-PIPELINE v9.7 — **Merge variant**（〈台灣豆漿與早餐店〉併入本篇）。run_profile: standard。Issue [#1389](https://github.com/frank890417/taiwan-md/issues/1389) @idlccp1984 回報兩篇重疊
+- **spine**：立體群像（P8 命題式立體群像）＋感官場景沉浸（主）／時代縮影（輔）
+- **論點**：台灣早餐能長成兩萬家店的共同清晨，不是因為誰設計得好，是因為它什麼都沒守住——**而三次失守代價落點完全不同**：沒有主人的做法擴散得最快、沒有人受損；有主人的招牌失守時有具名的人承受損失；每天站在煎台前的人，付出的東西從來沒有被算進任何統計
+- **Hook**：六點十分，白鐵煎台已經燒了半個鐘頭；走出家門五分鐘會經過四塊長得很像又不一樣的招牌，四家店的老闆彼此不認識，菜單卻幾乎一模一樣
+- **品質**：6,400+ CJK ／ 41 腳註零孤兒 ／ 8 圖（本地 WebP）＋3 支官方影片＋3 個 `tw-*` 模組 ／ prose-health hard=0 warn=0 ／ rewrite-stage-4 hard=0 ／ fact-atom-diff PASS
+- **Research**: [reports/research/2026-08/台灣早餐文化.md](../../reports/research/2026-08/台灣早餐文化.md)（2,058 行單檔，五 lane 合成，197 來源／230 次搜尋）
+- **Merge 收尾**：刪 zh ＋ 8 語譯文，設 **9 條 redirect**（contract 只寫 5 lang，已記 LESSONS `contract-hardcodes-growing-count`）；build verify hreflang/canonical/sitemap 三面 dead=0
+- **大事實修正**：舊文兩篇合計五處無來源細節整條丟棄（英國作家《金融時報》引語疑杜撰、「1955 年林炳生開第一家豆漿店」人物混淆、美而美 1983→1981、加盟店月營收 30-50 萬零來源、凌晨兩點半鬧鐘虛構）；「早餐店比便利商店多」這個廣傳比較經查是兩把尺兩個基期，整條不用
+- **產出教訓**：LESSONS `contract-hardcodes-growing-count`（pipeline contract 寫死語系數）；EDITORIAL §量詞隱喻 v2 家族版（哲宇 callout「帳」→ 發現把「帳」拿掉會用「算」長回來，prose-health 升級打家族不打字，9,815 檔校準真陽性 10 假陽性 0）
+- **值得記的一件事**：六席大驗證輪裡四席抓到的問題，源頭都是我自己前幾輪的修補——修補是新的錯誤來源，而且它偽裝成進步
+
 ### 馬祖國際藝術島 — 2026-08-06 manual session 完成（一座沒有展館的美術館，把整座列島借來當展場）
 
 - **Article**: [knowledge/Art/馬祖國際藝術島.md](../../knowledge/Art/馬祖國際藝術島.md)
