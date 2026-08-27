@@ -70,7 +70,7 @@ Hal yang paling mengagumkan ialah semangat inovasi orang Taiwan terhadap kuliner
 
 ## IV. Kehangatan dalam Cahaya Pagi: Perpaduan Timur dan Barat dalam Budaya Sarapan
 
-Jika pasar malam mewakili kehidupan malam Taiwan, maka **budaya sarapan Taiwan (台灣早餐文化)** adalah sapaan lembut yang membangunkan negeri ini pada pagi hari. Dari kedai susu kedelai dan sarapan Taiwan (台灣豆漿與早餐店) tradisional hingga roti panggang dan burger ala Barat, dari bubur dengan lauk pendamping ala Tionghoa hingga nasi kepal ala Jepang, kedai sarapan Taiwan menyerupai kaleidoskop budaya yang memadukan tradisi kuliner Timur dan Barat.
+Jika pasar malam mewakili kehidupan malam Taiwan, maka **budaya sarapan Taiwan (台灣早餐文化)** adalah sapaan lembut yang membangunkan negeri ini pada pagi hari. Dari kedai susu kedelai dan sarapan Taiwan tradisional hingga roti panggang dan burger ala Barat, dari bubur dengan lauk pendamping ala Tionghoa hingga nasi kepal ala Jepang, kedai sarapan Taiwan menyerupai kaleidoskop budaya yang memadukan tradisi kuliner Timur dan Barat.
 
 Yonghe Doujiang mengomersialkan dan mewaralabakan kedai susu kedelai tradisional. Panekuk telur, teh susu, dan roti lapis yang dijual di kedai sarapan 24 jam masing-masing menuturkan kisah kehidupan perkotaan Taiwan. Ini bukan sekadar perubahan makanan, melainkan juga evolusi gaya hidup. Ketika masyarakat kota modern dapat membeli panekuk telur panas pada larut malam, kita melihat upaya orang Taiwan mengejar kenyamanan hidup sekaligus kearifan kuliner tradisional dalam menyesuaikan diri dengan ritme zaman modern.
 
@@ -182,7 +182,6 @@ Hadirnya rekomendasi Bib Gourmand membuat kuliner terjangkau turut memperoleh pe
 - **Budaya pasar malam (夜市文化)** — Panggung kuliner rakyat dan cerminan autentik kehidupan sosial Taiwan
 - **Jajanan Taiwan (台灣小吃)** — Dari kuli pikul hingga imperium teh susu mutiara, kisah lengkap kuliner jalanan Taiwan
 - **Budaya sarapan Taiwan (台灣早餐文化)** — Revolusi santapan pagi yang memadukan Timur dan Barat serta kedai sarapan ala Taiwan yang buka 24 jam
-- **Kedai susu kedelai dan sarapan Taiwan (台灣豆漿與早餐店)** — Transformasi modern kedai susu kedelai tradisional
 - **Budaya jamuan meja Taiwan (台灣辦桌文化)** — Nuansa ritual dalam makan bersama dan sarana penting bagi ikatan masyarakat
 
 ### Saat-saat Manis

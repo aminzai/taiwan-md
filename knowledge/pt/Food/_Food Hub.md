@@ -70,7 +70,7 @@ O mais surpreendente é o espírito inovador dos taiwaneses em relação à comi
 
 ## IV. O aconchego da luz matinal: o encontro entre Oriente e Ocidente na cultura do café da manhã
 
-Se os mercados noturnos representam a vida noturna de Taiwan, a **cultura taiwanesa do café da manhã (台灣早餐文化)** é o despertar delicado das manhãs da ilha. Das tradicionais lojas taiwanesas de leite de soja e café da manhã (台灣豆漿與早餐店) às torradas e aos hambúrgueres ocidentais; do mingau de arroz com acompanhamentos chineses aos bolinhos de arroz japoneses, as lojas de café da manhã de Taiwan são como caleidoscópios culturais que integram tradições alimentares orientais e ocidentais.
+Se os mercados noturnos representam a vida noturna de Taiwan, a **cultura taiwanesa do café da manhã (台灣早餐文化)** é o despertar delicado das manhãs da ilha. Das tradicionais lojas taiwanesas de leite de soja e café da manhã às torradas e aos hambúrgueres ocidentais; do mingau de arroz com acompanhamentos chineses aos bolinhos de arroz japoneses, as lojas de café da manhã de Taiwan são como caleidoscópios culturais que integram tradições alimentares orientais e ocidentais.
 
 A Yonghe Soy Milk comercializou e transformou em rede as tradicionais bancas de leite de soja. Nas lojas de café da manhã abertas 24 horas, crepes de ovo, chá com leite e sanduíches contam, cada qual, uma história da vida urbana taiwanesa. Não se trata apenas de uma transformação alimentar, mas também da evolução de um modo de vida. Quando os moradores das cidades modernas podem comprar um crepe de ovo fumegante no meio da noite, vemos a busca taiwanesa pela conveniência e a sabedoria com que a culinária tradicional se adapta ao ritmo contemporâneo.
 
@@ -182,7 +182,6 @@ A criação da categoria Bib Gourmand também conferiu reconhecimento internacio
 - **Cultura dos mercados noturnos (夜市文化)** — O palco da comida popular e um retrato autêntico da vida social taiwanesa
 - **Petiscos de Taiwan (台灣小吃)** — Dos vendedores ambulantes ao império do chá com leite e pérolas de tapioca, a história completa da comida de rua taiwanesa
 - **Cultura taiwanesa do café da manhã (台灣早餐文化)** — A revolução matinal que integra Oriente e Ocidente e as lojas taiwanesas de café da manhã abertas 24 horas
-- **Lojas taiwanesas de leite de soja e café da manhã (台灣豆漿與早餐店)** — A transformação moderna das tradicionais lojas de leite de soja
 - **Cultura taiwanesa dos banquetes ao ar livre (台灣辦桌文化)** — O caráter ritual das refeições coletivas e seu papel fundamental nos vínculos comunitários
 
 ### Momentos doces

@@ -70,7 +70,7 @@ Từ đó, **mì bò (牛肉麵)** ra đời—mang nền tảng của kỹ thu�
 
 ## IV. Hơi ấm trong nắng sớm: sự giao thoa Đông–Tây của văn hóa điểm tâm
 
-Nếu chợ đêm đại diện cho đời sống về đêm của Đài Loan, thì **văn hóa điểm tâm Đài Loan (台灣早餐文化)** là lời đánh thức dịu dàng mỗi sớm mai trên đảo quốc. Từ các quán sữa đậu nành và điểm tâm truyền thống Đài Loan (台灣豆漿與早餐店) đến bánh mì nướng, hamburger kiểu phương Tây; từ cháo và món ăn kèm kiểu Hoa đến cơm nắm kiểu Nhật, quán điểm tâm Đài Loan tựa như một chiếc kính vạn hoa văn hóa, hòa quyện truyền thống ẩm thực phương Đông và phương Tây.
+Nếu chợ đêm đại diện cho đời sống về đêm của Đài Loan, thì **văn hóa điểm tâm Đài Loan (台灣早餐文化)** là lời đánh thức dịu dàng mỗi sớm mai trên đảo quốc. Từ các quán sữa đậu nành và điểm tâm truyền thống Đài Loan đến bánh mì nướng, hamburger kiểu phương Tây; từ cháo và món ăn kèm kiểu Hoa đến cơm nắm kiểu Nhật, quán điểm tâm Đài Loan tựa như một chiếc kính vạn hoa văn hóa, hòa quyện truyền thống ẩm thực phương Đông và phương Tây.
 
 Sữa đậu nành Vĩnh Hòa đã thương mại hóa và phát triển theo chuỗi mô hình quầy sữa đậu nành truyền thống. Bánh trứng, trà sữa và sandwich được bán trong những quán điểm tâm mở cửa 24 giờ đều kể câu chuyện về đời sống đô thị Đài Loan. Đây không chỉ là sự thay đổi của món ăn, mà còn là quá trình biến chuyển của lối sống. Khi cư dân đô thị hiện đại có thể mua một chiếc bánh trứng nóng hổi lúc đêm khuya, điều hiện ra là khát vọng về cuộc sống tiện lợi của người Đài Loan, cùng trí tuệ giúp ẩm thực truyền thống thích nghi với nhịp sống hiện đại.
 
@@ -182,7 +182,6 @@ Sự ra đời của hạng mục Bib Gourmand giúp các món ăn bình dân c�
 - **Văn hóa chợ đêm (夜市文化)** — Sân khấu của ẩm thực bình dân và hình ảnh thu nhỏ chân thực của đời sống xã hội Đài Loan
 - **Ẩm thực đường phố Đài Loan (台灣小吃)** — Câu chuyện toàn diện về ẩm thực đường phố Đài Loan, từ những người phu gánh hàng đến đế chế trà sữa trân châu
 - **Văn hóa điểm tâm Đài Loan (台灣早餐文化)** — Cuộc cách mạng bữa sáng giao thoa Đông–Tây và những quán điểm tâm kiểu Đài Loan mở cửa suốt 24 giờ
-- **Sữa đậu nành và quán điểm tâm Đài Loan (台灣豆漿與早餐店)** — Quá trình chuyển đổi hiện đại của các quán sữa đậu nành truyền thống
 - **Văn hóa tiệc bàn Đài Loan (台灣辦桌文化)** — Cảm thức nghi lễ của việc dùng bữa tập thể và phương tiện quan trọng chuyên chở tình cảm cộng đồng
 
 ### Khoảnh khắc ngọt ngào

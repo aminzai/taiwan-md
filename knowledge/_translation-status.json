@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-18T06:12:41+08:00",
-    "zhCommitHead": "68f7149e6",
-    "totalZh": 924,
+    "lastUpdated": "2026-08-27T13:43:39+08:00",
+    "zhCommitHead": "ee6650052",
+    "totalZh": 923,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,88 +18,88 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 924,
-        "fresh": 825,
-        "stale": 37,
+        "total_zh": 923,
+        "fresh": 823,
+        "stale": 38,
         "metadata_stale": 16,
         "missing": 46,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 924,
-        "fresh": 832,
-        "stale": 27,
+        "total_zh": 923,
+        "fresh": 830,
+        "stale": 28,
         "metadata_stale": 13,
         "missing": 52,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 924,
-        "fresh": 844,
-        "stale": 25,
+        "total_zh": 923,
+        "fresh": 842,
+        "stale": 26,
         "metadata_stale": 16,
         "missing": 39,
         "orphan": 0
       },
       "es": {
-        "total_zh": 924,
-        "fresh": 833,
-        "stale": 31,
+        "total_zh": 923,
+        "fresh": 831,
+        "stale": 32,
         "metadata_stale": 19,
         "missing": 41,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 924,
-        "fresh": 828,
-        "stale": 31,
+        "total_zh": 923,
+        "fresh": 826,
+        "stale": 32,
         "metadata_stale": 23,
         "missing": 42,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 924,
-        "fresh": 689,
+        "total_zh": 923,
+        "fresh": 688,
         "stale": 39,
         "metadata_stale": 71,
         "missing": 125,
         "orphan": 0
       },
       "id": {
-        "total_zh": 924,
-        "fresh": 550,
+        "total_zh": 923,
+        "fresh": 549,
         "stale": 15,
         "metadata_stale": 7,
         "missing": 352,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 924,
+        "total_zh": 923,
         "fresh": 808,
         "stale": 20,
         "metadata_stale": 8,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 924,
+        "total_zh": 923,
         "fresh": 638,
         "stale": 10,
         "metadata_stale": 8,
-        "missing": 268,
+        "missing": 267,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 924,
+        "total_zh": 923,
         "fresh": 722,
         "stale": 10,
         "metadata_stale": 8,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 924,
-        "fresh": 760,
+        "total_zh": 923,
+        "fresh": 759,
         "stale": 9,
         "metadata_stale": 8,
         "missing": 147,
@@ -99692,10 +99692,10 @@
     },
     "Food/台灣早餐文化.md": {
       "zh": {
-        "lastCommit": "85926aa3",
-        "lastModified": "2026-05-17T00:31:47+08:00",
-        "contentHash": "sha256:03f68d8696f5da84",
-        "bodyHash": "sha256:dc5728577e386104"
+        "lastCommit": "ee665005",
+        "lastModified": "2026-08-27T13:41:29+08:00",
+        "contentHash": "sha256:592a1ee77a9e83df",
+        "bodyHash": "sha256:be2608c0c19c56d2"
       },
       "translations": {
         "en": {
@@ -99709,8 +99709,8 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (41→6)"
         },
         "ja": {
           "path": "ja/Food/taiwan-breakfast-culture.md",
@@ -99723,8 +99723,8 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (41→6)"
         },
         "ko": {
           "path": "ko/Food/taiwan-breakfast-culture.md",
@@ -99737,8 +99737,8 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (41→6)"
         },
         "es": {
           "path": "es/Food/taiwan-breakfast-culture.md",
@@ -99751,8 +99751,8 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (41→6)"
         },
         "fr": {
           "path": "fr/Food/taiwan-breakfast-culture.md",
@@ -99765,8 +99765,8 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (41→6)"
         },
         "vi": {
           "status": "missing"
@@ -103160,137 +103160,6 @@
           "translationLastModified": "2026-07-25T12:13:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
-        }
-      }
-    },
-    "Food/台灣豆漿與早餐店.md": {
-      "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:ba7ff819ca0777d2",
-        "bodyHash": "sha256:a157234d7add2561"
-      },
-      "translations": {
-        "en": {
-          "path": "en/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "ja": {
-          "path": "ja/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-05-01T19:52:32+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "ko": {
-          "path": "ko/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-04-14T04:09:26+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "es": {
-          "path": "es/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "fr": {
-          "path": "fr/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "vi": {
-          "path": "vi/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b3114284dd8320de03e162dcdd25f3033ed8e3b6bd2599ad824dfbc50c996ce3",
-          "sourceBodyHash": "sha256:c355921a7ca7fe14169d344e4763ab6b40e980c8983e75b5714971b3fe4da2db",
-          "translatedAt": "2026-07-31T00:00:00Z",
-          "translationLastCommit": "502c9338",
-          "translationLastModified": "2026-08-01T00:13:09+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "id": {
-          "path": "id/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "706fa8aa",
-          "translationLastModified": "2026-07-26T02:31:43+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        },
-        "pt": {
-          "status": "missing"
-        },
-        "hi": {
-          "status": "missing"
-        },
-        "ar": {
-          "status": "missing"
-        },
-        "ru": {
-          "path": "ru/Food/taiwan-soy-milk-and-breakfast-shops.md",
-          "translatedFrom": "Food/台灣豆漿與早餐店.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ba7ff819ca0777d2",
-          "sourceBodyHash": "sha256:a157234d7add2561",
-          "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "8096ea4e",
-          "translationLastModified": "2026-07-26T03:09:23+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
         }
