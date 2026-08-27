@@ -77,7 +77,7 @@ StreetVoice 從一個獨立音樂平台成長為華語音樂重要的孵化器�
 - 🔢 **金曲獎國際聲望**：每年吸引超過 200 萬電視觀眾，被譽為「華語音樂界的葛萊美獎」，35 個獎項涵蓋四大語言類別
 
 ![台灣音樂場景](/images/wiki/f80cd70cdca2.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*信義區*Xinyi_District*松智路*Songzhi_Road*松壽路*Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW%20台灣%20Taiwan%20台北%20Taipei%20信義區%20Xinyi%20District%20松智路%20Songzhi%20Road%20松壽路%20Songshou%20Road%20ATT%204%20FUN%20mall%20building%20facade%20June%202019%20IX2%2001.jpg) | CC BY-SA 3.0_
 
 ---
 

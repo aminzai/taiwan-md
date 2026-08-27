@@ -40,7 +40,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:七月半.jpeg'
 ## 把「業配」兩個字放到陽光下
 
 ![Howhow（陳孜昊）接受網路節目專訪，戴黑框眼鏡、穿深色上衣，在攝影棚燈光下比著手勢、神情靦腆](/article-images/people/howhow-webtvasia-interview-2016.webp)
-_Howhow 受訪談他的創作與業配心法。把廣告攤在陽光下的「業配之王」，私下是個自稱邊緣人的政大男孩。Photo: WebTVAsiaTaiwan. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WebTVAsia%E3%80%90BIG_SHOT%E7%B6%B2%E8%B7%AF%E7%B4%85%E4%BA%BA%E8%AA%8C%E3%80%91%E5%B0%88%E8%A8%AA_x_HOWFUN_02.png)._
+_Howhow 受訪談他的創作與業配心法。把廣告攤在陽光下的「業配之王」，私下是個自稱邊緣人的政大男孩。Photo: WebTVAsiaTaiwan. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WebTVAsia%E3%80%90BIG%20SHOT%E7%B6%B2%E8%B7%AF%E7%B4%85%E4%BA%BA%E8%AA%8C%E3%80%91%E5%B0%88%E8%A8%AA%20x%20HOWFUN%2002.png)._
 
 2015 年 9 月，命運用一種他自己都解釋不清的方式找上門。三星要在紐約林肯中心舉辦 Galaxy Note 5 的 Unpacked 發表會，透過廣告代理商李奧貝納，找上了當時粉絲還不到十萬的 Howhow[^6]。他自己回憶，那時候「還以為是要找我當攝影師」，因為「當時我訂閱數、按讚數都不高」，搞不懂對方為什麼選中他[^7]。他甚至把手機裡三星窗口的聯絡人，存成了「大恩人」三個字[^7]。
 
