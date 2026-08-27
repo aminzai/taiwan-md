@@ -24,7 +24,7 @@ featured: true
 lastVerified: 2026-07-28
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/吳明益.md'
-image: '/article-images/People/zhonghua-market-1965.jpg'
+image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
@@ -81,16 +81,16 @@ Le cadre de l'écriture de la nature le pousse ensuite vers d'autres directions.
 
 ## Le centre commercial Huazhong est démoli, il le réécrit
 
-![Vue extérieure du centre commercial Huazhong en 1965, un centre commercial public en enfilade situé sur le côté du Ximening, avec des foules et des véhicules circulant entre eux](/article-images/People/zhonghua-market-1965.jpg)
+![Vue extérieure du centre commercial Huazhong en 1965, un centre commercial public en enfilade situé sur le côté du Ximening, avec des foules et des véhicules circulant entre eux](/article-images/people/zhonghua-market-1965.jpg)
 _Centre commercial Huazhong, 1965. Photographie du Bureau de l'information du Conseil exécutif de l'État. Ce centre commercial en enfilade, inauguré en 1961 et démoli en 1992, est l'origine spatiale du magasin de chaussures de son enfance et de 《Le Magicien sur le pont》. Domaine public._
 
 Le centre commercial Huazhong est inauguré le 22 avril 1961 et démoli bâtiment par bâtiment en octobre 1992, pour des raisons incluant la souterrainisation du chemin de fer, le métro et le projet d'avenue arborée de Zhonghua Road. [^1] Pour la génération intermédiaire qui a traversé le Ximening, c'étaient les odeurs des galeries couvertes et les ombres des ponts piétons, un labyrinthe dans lequel on s'engouffrait après l'école, et non une entrée d'histoire de l'architecture. Après la disparition du centre commercial, la mémoire ne reste que dans les photos et les témoignages oraux. Jusqu'en 2011, _Le Magicien sur le pont_ réécrit le centre commercial Huazhong des années 1980 sur papier. [^2]
 
 Le roman contient le magicien mystérieux sur le pont piéton, le zèbre lumineux, le fils du magasin de chaussures nommé Xiaobudian. Wu Ming-yi dit à OKAPI : « Le centre commercial Huazhong est vraiment un endroit bizarre, tout le magique y est ! » [^4] Le magique y assume un travail structurel. Le centre commercial lui-même a disparu ; le magique permet à l'espace disparu de redevenir praticable. La première application sociale de l'œil composé au « disparu » tombe sur la mémoire urbaine : qui se souvient encore des familles qui ont cuisiné dans les galeries couvertes, qui peut encore indiquer l'ordre des bâtiments de Zhongxiao, Ren'ai, etc.
 
-![Vue nocturne des néons du centre commercial Huazhong et de la foule dans les galeries couvertes, les enseignes et les lumières superposées créant la densité urbaine du Ximening des années 1980](/article-images/People/zhonghua-market-night.jpg)
+![Vue nocturne des néons du centre commercial Huazhong et de la foule dans les galeries couvertes, les enseignes et les lumières superposées créant la densité urbaine du Ximening des années 1980](/article-images/people/zhonghua-market-night.jpg)
 
-![Vue de la galerie couverte au premier étage du bâtiment « Xin » du centre commercial Huazhong : enseignes, colonnes et échelle piétonne](/article-images/People/zhonghua-market-xin.jpg)
+![Vue de la galerie couverte au premier étage du bâtiment « Xin » du centre commercial Huazhong : enseignes, colonnes et échelle piétonne](/article-images/people/zhonghua-market-xin.jpg)
 _Vue nocturne du centre commercial Huazhong (images historiques). Les néons et les galeries avant la démolition sont la mémoire visuelle à laquelle le roman et la série PTS reviennent constamment. Photo via Wikimedia Commons, CC BY 3.0._
 
 Le 20 février 2021, la série PTS _Le Magicien sur le pont_ est diffusée pour la première fois, réalisée par Yang Ya-zhe. [^10] Le plateau de Xizhi couvre environ deux à deux hectares et demi ; les rapports indiquent un budget de décors d'environ 80 millions de TWD, reproduisant près de cinquante boutiques. Le budget total de production est cité par les médias à environ 200 millions de TWD, tandis que le département des programmes cite oralement un coût d'environ 20 millions de TWD par épisode. Ces trois chiffres ont des niveaux différents et ne doivent pas être mélangés en une seule phrase « coûtant 200 millions pour les décors ». [^11] Après le tournage final, ce faux centre commercial sera à nouveau démoli : la démolition réelle est de 1992, la disparition virtuelle est vers 2020, deux disparitions se superposant sur le même couloir. Les rapports mentionnent également que les rails et les abris pour véhicules sont montés jusqu'à leur saturation maximum, correspondant à la ligne de mémoire de tournage de Hou Hsiao-hsien dans _A Time to Love, a Time to Say Goodbye_. [^11] Le bruit des ouvriers du plateau démontant les enseignes ressemble à la fin d'une époque déjà terminée.
@@ -191,7 +191,7 @@ Sources : Guardian / Libre Times / Sentinel reprenant le communiqué officiel / 
 
 ## Les vents marins dans la librairie de Hualien, et les nuages à deux mille mètres
 
-![Portrait de Wu Ming-yi dans le contexte de l'Université nationale Donghua : cheveux courts, chemise claire, expression calme](/article-images/People/wu-ming-yi-ndhu.jpg)
+![Portrait de Wu Ming-yi dans le contexte de l'Université nationale Donghua : cheveux courts, chemise claire, expression calme](/article-images/people/wu-ming-yi-ndhu.jpg)
 _Wu Ming-yi. Professeur au département de littérature chinoise de l'Université nationale Donghua, enseigne et écrit longuement à Hualien. Photo : Université nationale Donghua / Attribution._
 
 Après les distinctions et les traductions, l'œil composé a une seconde vie : le transmédia et le local. _La Lumière flottante_ (《浮光》) de 2014 est un essai photographique, publié par New Classic, tirant l'écriture d'image de la branche latérale du naturalisme vers une expérience indépendante. [^33] En 2019, le recueil de nouvelles _Le Pays de la pluie amère_ est publié ; la nouvelle _Nuages à deux mille mètres_ écrit sur un avocat recherchant les archives d'un roman inachevé et la mémoire de la peau de léopard de Taïwan après la mort de sa femme. [^27] En 2025, Chen Xin-yi adapte cette nouvelle en VR _Nuages à deux mille mètres_ (The Clouds Are Two Thousand Meters Up), qui remporte le Grand Prize (Grand Prix de la catégorie immersive) à la 82e édition du Festival de Venise, unité Venice Immersive. [^28] La nouvelle littéraire devient une hauteur que l'on peut entrer. Après avoir retiré le casque, le spectateur reste encore entre la peau de léopard de Taïwan et les archives inachevées. Le Musée d'art contemporain de l'Université normale de Taipei a également fait de cette VR le cœur d'une exposition immersive, reliant la mémoire de la montagne et du léopard de Taïwan au corps du spectateur urbain.

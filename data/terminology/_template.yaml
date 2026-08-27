@@ -1,31 +1,37 @@
 # 用語保存計畫 — 詞條模板
 # 每個詞條一個檔案，命名：{台灣用語}.yaml
 
-id: ""                    # 英文 slug（用於程式化）
-category: ""              # daily / education / tech / media / business / transport / culture / names / internet
-fork_type: ""             # A / B / C / D / E / F / semantic / orthographic
+id: '' # 英文 slug（用於程式化）
+category: '' # daily / education / tech / media / business / transport / culture / names / internet
+fork_type: '' # A / B / C / D / E / F / semantic / orthographic
+
+# auto_convert（選填，預設 true）：這對詞能不能給轉換器做找字取代。
+# 設 false 的時機：中國側那個詞在台灣另有正當用法，盲目取代會改壞正確文字
+# （挺胸→蠻胸、力挺→力蠻、網路流量→網路點閱率、值得肯定→值得一定）。
+# 設 false 之後 per-term 頁照常渲染、照常解釋語感差異，只有轉換器跳過它。
+# auto_convert: false
 
 display:
-  taiwan: ""              # 台灣用語（Taiwan.md 呈現標準）
-  china: ""               # 中國用語
-  hongkong: ""            # 香港用語（選填）
-  southeast_asia: ""      # 東南亞華語（選填）
+  taiwan: '' # 台灣用語（Taiwan.md 呈現標準）
+  china: '' # 中國用語
+  hongkong: '' # 香港用語（選填）
+  southeast_asia: '' # 東南亞華語（選填）
 
-english: ""               # 英文對應（如有）
+english: '' # 英文對應（如有）
 
 etymology:
-  origin: ""              # 詞源說明
-  taiwan_path: ""         # 台灣演化路徑
-  china_path: ""          # 中國演化路徑
-  fork_point: ""          # 分歧時間點（~1950s / ~2000s / ~2015s）
-  fork_cause: ""          # 分歧原因(語言政策 / 網路平台 / 日語遺產 / ...）
+  origin: '' # 詞源說明
+  taiwan_path: '' # 台灣演化路徑
+  china_path: '' # 中國演化路徑
+  fork_point: '' # 分歧時間點（~1950s / ~2000s / ~2015s）
+  fork_cause: '' # 分歧原因(語言政策 / 網路平台 / 日語遺產 / ...）
 
 usage:
-  taiwan_formal: true     # 台灣正式書寫是否使用
-  taiwan_casual: true     # 台灣口語是否使用
-  exceptions: ""          # 例外情境（如「質量」物理用法）
+  taiwan_formal: true # 台灣正式書寫是否使用
+  taiwan_casual: true # 台灣口語是否使用
+  exceptions: '' # 例外情境（如「質量」物理用法）
 
-status: "stable"          # stable（已穩定）/ shifting（正在變化）/ emerging（新興）
+status: 'stable' # stable（已穩定）/ shifting（正在變化）/ emerging（新興）
 
 # === detection（選填）===
 # quality-scan.sh 偵測規則。「無 detection 區塊 = 不偵測」（保守 opt-in）。
@@ -39,11 +45,11 @@ status: "stable"          # stable（已穩定）/ shifting（正在變化）/ e
 #     - pattern: ""       # 文章中的 false positive 字串（必填）
 #       note: ""          # 簡短說明（選填）
 
-notes: ""                 # 補充說明
+notes: '' # 補充說明
 
 sources:
-  - ""                    # 來源（學術 / 辭典 / URL）
+  - '' # 來源（學術 / 辭典 / URL）
 
 # 版本
-added: ""                 # 加入日期
-updated: ""               # 最後更新
+added: '' # 加入日期
+updated: '' # 最後更新

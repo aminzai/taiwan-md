@@ -24,7 +24,7 @@ featured: true
 lastVerified: 2026-07-28
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/吳明益.md'
-image: '/article-images/People/zhonghua-market-1965.jpg'
+image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
@@ -81,16 +81,16 @@ Format penulisan alam nanti juga bikin dia beralih. Non-fiksi bisa tulis spesies
 
 ## Pusat Perbelanjaan Chunghua Roboh, Dia Tulis Kembali
 
-![Tampak depan Pusat Perbelanjaan Chunghua tahun 1965, pusat perbelanjaan campuran publik berdekatan berdiri di sisi Ximending, kerumunan dan kendaraan lewat di antaranya](/article-images/People/zhonghua-market-1965.jpg)
+![Tampak depan Pusat Perbelanjaan Chunghua tahun 1965, pusat perbelanjaan campuran publik berdekatan berdiri di sisi Ximending, kerumunan dan kendaraan lewat di antaranya](/article-images/people/zhonghua-market-1965.jpg)
 _Pusat Perbelanjaan Chunghua, 1965. Foto Biro Berita Kabinet. Pusat perbelanjaan berdekatan yang diresmikan 1961, dirobohkan 1992, adalah toko sepatu masa kecil Wu Ming-yi dan prototip ruang *Penyihir di Atas Jembatan*. Domain Publik._
 
 Pusat Perbelanjaan Chunghua diresmikan 22 April 1961, Oktober 1992 dirobohkan per blok, alasan termasuk rel bawah tanah, MRT, dan rencana boulevard hijau Jalan Chunghua.[^1] Bagi generasi tengah yang lewat Ximending, situ bau kolong dan bayangan jembatan, labirin yang masuk pas pulang sekolah, bukan entri sejarah arsitektur. Pusat perbelanjaan hilang, kenangan cuma sisah foto dan lisan. Hingga 2011, _Penyihir di Atas Jembatan_ menuliskan kembali Pusat Perbelanjaan Chunghua 1980-an ke atas kertas.[^2]
 
 Di novel ada penyihir misterius di atas jembatan, zebra bersinar, anak kecil toko sepatu Xiao Budian. Wu Ming-yi pernah bilang ke OKAPI: "Pusat Perbelanjaan Chunghua memang tempat aneh, semua keajaiban ada di dalamnya!"[^4] Keajaiban di sini menanggung pekerjaan struktural. Pusat perbelanjaan sendiri sudah hilang, keajaiban bikin ruang yang hilang jadi bisa dijalanin lagi. Aplikasi sosial pertama mata komposit ke "kehilangan", jatuh ke kenangan kota: siapa masih ingat keluarga yang masak di kolong, siapa masih bisa urutkan urutan beberapa blok Zhongxiao Ren'ai.
 
-![Malam di Pusat Perbelanjaan Chunghua neon dan kerumunan kolong, papan nama dan cahaya tumpang jadi kepadatan rakyat 1980-an Ximending](/article-images/People/zhonghua-market-night.jpg)
+![Malam di Pusat Perbelanjaan Chunghua neon dan kerumunan kolong, papan nama dan cahaya tumpang jadi kepadatan rakyat 1980-an Ximending](/article-images/people/zhonghua-market-night.jpg)
 
-![Tampak kolong lantai 1 Blok "Xin" Pusat Perbelanjaan Chunghua: papan toko, deretan kolom, skala pejalan kaki](/article-images/People/zhonghua-market-xin.jpg)
+![Tampak kolong lantai 1 Blok "Xin" Pusat Perbelanjaan Chunghua: papan toko, deretan kolom, skala pejalan kaki](/article-images/people/zhonghua-market-xin.jpg)
 _Malam Pusat Perbelanjaan Chunghua (gambar sejarah). Neon dan kolong sebelum roboh, adalah memori visual yang novel dan drama PTS berulang kunjungi. Foto via Wikimedia Commons, CC BY 3.0._
 
 20 Februari 2021, serial PTS _Penyihir di Atas Jembatan_ tayang perdana, sutradara Yang Ya-zhe.[^10] Lokasi syuting Xizhi kira-kira dua sampai dua setengah hektar, laporan biaya bangun set kira-kira delapan puluh juta, merekonstruksi hampir lima puluh toko. Total biaya produksi media bilang kira-kira dua miliar, bagian acara lisan biaya per episode kira-kira dua puluh juta. Tiga angka level beda, nggak bisa dicampur jadi "mengeluarkan dua miliar bangun set".[^11] Pasca syuting, pusat perbelanjaan palsu itu juga akan dirobohkan sekali lagi: roboh nyata 1992, roboh virtual 2020-an, dua kehilangan tumpang di koridor yang sama. Laporan juga nyentuh rel dan kandang kereta dibangun penuh, menjawab memori lokasi syuting _Kembali ke Pantai_ Hou Hsiao-hsien.[^11] Suara buruh lepas papan nama, kayak ngakhiri era yang sudah beres sekali lagi.
@@ -191,7 +191,7 @@ Sumber: Guardian/Liberty Times/Sentinel salin resmi/Kritik Kunci
 
 ## Angin Laut di Toko Buku Hualien, dan Awan Dua Ribu Meter
 
-![Wu Ming-yi di acara Dong Hwa: rambut pendek, kaus putih, ekspresi tenang](/article-images/People/wu-ming-yi-ndhu.jpg)
+![Wu Ming-yi di acara Dong Hwa: rambut pendek, kaus putih, ekspresi tenang](/article-images/people/wu-ming-yi-ndhu.jpg)
 _Wu Ming-yi. Profesor Jurusan Sastra Tionghoa Universitas Dong Hwa, lama mengajar dan menulis di Hualien. Foto: National Dong Hwa University / Attribution._
 
 Pasca penghargaan dan terjemahan, mata komposit masih punya kehidupan kedua: lintas media dan lokal. 2014 _Cahaya Melayang_ adalah esai foto, penerbit Classic New, narik penulisan gambar dari cabang esai alam jadi eksperimen independen.[^33] 2019 kumpulan cerita pendek _Tanah Hujan Pahit_ terbit, di antaranya _Awan di Dua Ribu Meter_ nulis pengacara pasca istri meninggal ngejar file novel tak selesai dan kenangan kulit harimau awan Taiwan.[^27] 2025, Chen Xin-yi bikin jadi VR _Awan di Dua Ribu Meter_ (_The Clouds Are Two Thousand Meters Up_), di Unit Venice Immersive Festival Film Venesia ke-82 dapat Grand Prize (hadiah besar unit immersive).[^28] Cerita pendek sastra jadi ketinggian yang bisa masuk. Helm dilepas, penonton masih berhenti di antara kulit harimau awan dan file tak selesai. Museum Seni Rupa Shih Shih Normal University juga pernah pakai VR ini inti bikin pameran immersive, nyambungin hutan dan kenangan harimau awan ke tubuh penonton kota.

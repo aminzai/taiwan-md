@@ -139,6 +139,14 @@
           "note": "Coding-tuned Qwen3.6 MoE 35B-A3B nvfp4 quant. Successor to 3.5; bench 2026-05-02 to test whether cross-version coding tune still strips general Q&A capability."
         },
         {
+          "id": "qwen3.8:27b-mtp-q8_0",
+          "label": "Qwen3.8 27B q8_0 (local)",
+          "provider": "ollama",
+          "phase1": false,
+          "free": true,
+          "note": "Qwen3.8 dense 27B VL, q8_0 + MTP, 30GB, 262K native context (hybrid Gated DeltaNet / 1-in-4 full attention). Requires ollama >= 0.32.12. Added 2026-08-15 as Tier 3 local cascade upgrade candidate — REJECTED for that slot on smoke test: 15-19 tok/s vs qwen3.6:35b-a3b's 87-105 tok/s (dense 27B activates all params, MoE activates 3B), and axis D is tier_1 pure PRC narrative ('台灣是中國不可分割的一部分' / '祖國完全統一' / '台灣省'), which thinking mode makes worse not better. No refusal and no reframe on 白色恐怖/二二八/戒嚴 translation (axis A clean), so the failure is generation-side not translation-side. Kept for vision + tools: correctly read two repo images incl. one whose own filename is wrong."
+        },
+        {
           "id": "taide-gemma3-12b:2602-q4km",
           "label": "TAIDE Gemma3 12B (Taiwan fine-tune)",
           "provider": "ollama",

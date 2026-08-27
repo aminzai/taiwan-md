@@ -1,0 +1,18 @@
+{
+  "generated": "2026-08-18",
+  "note": "v2 /budget 升級新增與改動的 key 於 2026-08-18 十語全部落地（含 s4.h2／s4.kicker 八年→九年）；本檔清空待翻清單，只留結構給下次 zh/en 文案改動時登記。登記方式：new_keys_en_fallback 放新增 key（十語暫走 en fallback），changed_keys 放 zh/en 值已改、十語舊譯待對齊的 key；翻譯落地後刪對應項。",
+  "new_keys_en_fallback": [],
+  "changed_keys": [],
+  "langs": [
+    "ja",
+    "ko",
+    "es",
+    "fr",
+    "vi",
+    "id",
+    "pt",
+    "hi",
+    "ar",
+    "ru"
+  ]
+}

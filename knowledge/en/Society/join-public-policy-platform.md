@@ -1,194 +1,195 @@
 ---
-title: "Public Policy Network Participation Platform: A Digital Democracy Gym That Began with 'Propose an Idea'"
-description: "Launched in 2015 and modeled on the White House petition website, the JOIN Platform established a threshold of 5,000 endorsements, enabling cancer patients and high school students alike to directly move government decision-making and making it Taiwan's flagship experimental site for digital democracy."
+title: 'The Public Policy Online Participation Platform: A Digital Democracy Gym Starting from "Submit Ideas"'
+description: 'Launched in 2015, the JOIN platform, modeled after the White House petition site, established a "5,000 signatures" threshold, allowing cancer patients and high school students alike to directly influence government decision-making, becoming Taiwan’s flagship experiment in digital democracy.'
 date: 2026-06-19
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '民主與政治'
 tags:
   [
     'Digital Democracy',
     'Open Government',
     'Audrey Tang',
-    'Propose an Idea',
+    'Submit Ideas',
     'Civic Participation',
     'Collaborative Meetings',
     'OGP',
   ]
-readingTime: 15
+subcategory: '民主與政治'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
 translatedFrom: 'Society/公共政策網路參與平臺.md'
-sourceCommitSha: '194696f07'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:e50c6305fdf357b3'
 sourceBodyHash: 'sha256:4fcd819359e5e6f4'
-translatedAt: '2026-06-22T00:40:58+08:00'
+translatedAt: '2026-08-10T01:58:13+08:00'
 ---
 
 > **30-Second Overview:**
-> The Public Policy Network Participation Platform, known as the JOIN Platform, is not merely a "wishing well" for collecting public opinion. It is also a "gym" where citizens train their democratic resilience. Since its establishment in 2015, it has broken through the impasse of traditional representative politics, allowing young people under the age of 18, who account for more than one quarter of participants, to help set the country's direction. From the proposal to mint the "NT$10 lunchbox grandmother" on coins to the labor-rights controversy over a "three-day weekend," the platform has witnessed how more than 200 successful proposals, each backed by 5,000 endorsements, have pushed the rigid gears of the civil service into motion.
+> The Public Policy Online Participation Platform (JOIN Platform) is not merely a "wish pool" for collecting public opinion, but a "gym" where citizens exercise democratic resilience. Since its establishment in 2015, it has broken the deadlock of traditional representative politics, allowing more than 1/4 of participants under the age of 18 to help set the national direction. From the proposal to mint a coin featuring the "10-Nt Dollar Bento Grandma" to the labor rights controversy surrounding "Three-Day Weekends," it has witnessed over 200 successful proposals drive the rigid gears of the civil service system into motion through 5,000 signatures.
 
 ---
 
-## Another Revolution Beyond the 486 Computer: From "No Explanation" to "Public Discussion"
+## Another Revolution Beyond the 486 Computer: From "No Explanation" to "Open Talk"
 
-In 2012, the Executive Yuan released an advertisement for its "Economic Power-Up Plan." In the video, the government said the policy was too complicated to explain "in just a few words" and told the public simply to "support it." This arrogant refusal to explain unexpectedly ignited the spark of Taiwan's civic-tech community g0v, or "gov zero" [^5]. The internet generation at the time was deeply angered: if the government could not explain things clearly, civil society would write clear code instead.
+In 2012, the Executive Yuan launched an advertisement titled the "Economic Vitality Enhancement Plan." The ad, citing that policies were too complex to be explained in "a few words," urged citizens to simply "support it." This arrogant stance of "no explanation" unexpectedly ignited the spark of Taiwan’s civic tech community, g0v (Zero Hour Government) [^5]. The internet generation at the time felt deeply angry: if the government cannot explain clearly, then the people will write clear code.
 
-This energy peaked after the 2014 Sunflower Movement, when the government realized that traditional one-way propaganda could no longer meet the challenges of an internet society. In 2015, under the initiative of the National Development Council, the Public Policy Network Participation Platform, or JOIN Platform, officially went online [^1]. The platform was not imagined out of thin air. It was modeled on the White House's "We the People" website, and its core mission was to return part of the power to set the agenda from politicians to citizens.
+This energy peaked after the 2014 Sunflower Student Movement, when the government realized that traditional one-way propaganda could no longer meet the challenges of an online society. In 2015, driven by the National Development Council, the "Public Policy Online Participation Platform" (JOIN Platform) officially went live [^1]. This platform was not conceived out of thin air; it was modeled after the US White House’s "We the People" website, with its core mission being to return the "agenda-setting power" partially from politicians to citizens.
 
-Audrey Tang, then digital minister without portfolio, once noted that this was not about asking the public to enter bureaucratic spaces, but about bringing technology into the places where people live. This revolution was not only an upgrade of tools; it was also a modest adjustment to the structure of power [^5].
+Digital Policy Commissioner Audrey Tang (唐鳳) once pointed out that this was not about requiring citizens to enter bureaucratic spaces, but rather bringing technology to the fields where citizens live. This revolution was not just an update of tools, but a slight adjustment of power structures [^5].
 
-📝 Curator's Note: Democracy is not just voting once every four years. It is the conversation in front of a screen at 2 p.m. every day.
+📝 Curator’s Note: Democracy is not just voting every four years, but the dialogue in front of screens every day at 2 p.m.
 
 ---
 
-## Six Core Services: A Comprehensive Gateway to Digital Democracy
+## Six Core Services: The All-Around Entry to Digital Democracy
 
-The JOIN Platform provides six functional modules, constructing a complete path for civic participation from "proposal" to "oversight."
+The JOIN Platform offers six functional modules, constructing a complete civic participation path from "proposal" to "supervision."
 
-### 1. Propose an Idea (E-Petition)
+### 1. Submit Ideas (Electronic Petition)
 
-Members of the public may make recommendations on public policy. After passing review, proposals are opened for endorsement. Proposers may designate the competent authority themselves.
+Citizens can offer suggestions on public policies. After verification, signature collection is opened. Proposers can designate the competent authority.
 
-- **Threshold**: A proposal becomes a case once it receives 5,000 endorsements within 60 days.
-- **Response mechanism**: The competent authority must issue a substantive response within 60 days after a proposal becomes a case [^2].
-- **Suspension mechanism**: To avoid affecting electoral neutrality, proposals and endorsements are suspended for the 60 days before a national election day.
-- **Collaborative discussion**: If the proposal is not yet mature, the proposer may first brainstorm with other internet users in the "Collaborative Discussion" section.
+- **Threshold**: A proposal becomes successful if it receives 5,000 signatures within 60 days.
+- **Response Mechanism**: The competent authority must provide a specific response within 60 days after the proposal becomes successful [^2].
+- **Suspension Mechanism**: To avoid affecting election neutrality, proposal and signature collection are suspended 60 days before national election voting days.
+- **Collaborative Discussion**: If the proposal content is not yet mature, it can first be brainstormed with netizens in the "Collaborative Discussion" section.
 
-### 2. Public Discussion (Policy Consultation)
+### 2. Open Talk (Policy Consultation)
 
-Government agencies proactively publish information on policies under planning or about to be implemented, allowing the public to participate in discussion. The public notice period for drafts is usually 60 days, strengthening transparency in policy formation [^18].
+Government agencies proactively propose information on policies being planned or about to be implemented, allowing citizens to participate in discussions. The draft announcement period is usually 60 days, enhancing the transparency of policy formation [^18].
 
-### 3. Supervise (Policy Oversight)
+### 3. Supervise (Administrative Supervision)
 
-The platform opens up the implementation status of major projects listed for oversight by Executive Yuan ministries and agencies, including budget progress and current implementation, so governance is no longer a black box [^18].
+Openly displays the execution status of major projects managed by various ministries and commissions of the Executive Yuan, including budget progress and current execution status, ensuring administration is no longer a black box [^18].
 
 ### 4. Participatory Budgeting
 
-This allows the public to participate directly in the formulation of government budgets. The process includes "announcing needs," "public proposals," and "voting participation," putting into practice the idea that "people decide how their own tax money is spent" [^4].
+Allows citizens to directly participate in the formulation of government budgets. The process includes "announcing needs," "citizen proposals," and "voting participation," implementing the principle of "deciding for yourself how your tax money is spent" [^4].
 
-### 5. Contact Ministers (Opinion Mailboxes)
+### 5. Find the Minister (Opinion Mailbox)
 
-The platform compiles the email addresses of the heads of Executive Yuan ministries and agencies, establishing a digital channel for direct contact between the public and decision-makers [^18].
+Compiles the email addresses of the heads of various ministries and commissions of the Executive Yuan, establishing a digital channel for direct contact between citizens and decision-makers [^18].
 
 ### 6. Participatory Audit
 
-On March 1, 2017, the National Audit Office under the Control Yuan joined the platform to promote "citizen participatory auditing." Members of the public may provide audit recommendations on specific public affairs, bringing audit work closer to public sentiment [^1].
+Joined by the Audit Division of the Control Yuan on March 1, 2017, promoting "Civic Participatory Audit." Citizens can provide audit suggestions for specific public affairs, making audit work closer to public sentiment [^1].
 
 ---
 
 ## Chronological Case Library: When Ideas Collide with the System
 
-The JOIN Platform has accumulated more than 200 successful proposals. The following landmark cases, organized by year, reflect the shifts and conflicts in Taiwan's social values.
+The JOIN Platform has accumulated over 200 successful proposals. The following are indicative cases organized by year, reflecting the flow and conflict of Taiwan’s social values.
 
-### 2017: Identity and a Warm-Hearted Society
+### 2017: Identity and a Warm Society
 
-- **Remint the NT$10 coin with the portrait of "lunchbox grandmother" Chuang Chu Yu-nu**: Became a case on July 29, 2017. The proposer hoped to honor the grandmother's years of good deeds in providing NT$10 lunchboxes. The Central Bank ultimately rejected the proposal on the grounds that the redesign process would be complicated and costly [^6][^7].
-- **Restart the First and Fourth Nuclear Power Plants while developing green energy**: Became a case on August 11, 2017. Influenced by the July 29 power-rationing crisis, the proposal called for a stable electricity supply. The Ministry of Economic Affairs responded that it would maintain the goal of a "nuclear-free homeland" while accelerating the energy transition [^23].
-- **Move the time zone to GMT+9**: Became a case on October 19, 2017. The proposer hoped to move Taiwan out of China's time zone, GMT+8. After the Ministry of the Interior convened a collaborative meeting, it concluded that changing the time zone could not resolve questions of territorial identity, and the proposal was ultimately not adopted [^11][^12].
-- **Gradually ban disposable tableware nationwide**: Became a case on June 13, 2017. Proposed by high school student Wang Hsuan-ju, it prompted the Environmental Protection Administration to expand restrictions on plastic use beginning in 2018 [^3][^10].
+- **Minting a "Bento Grandma" Zhuang Zhuyu Female Portrait on the 10-Nt Coin**: Successful on July 29, 2017. The proposer hoped to commend the grandmother’s long-term good deeds of providing 10-Nt bento meals. The Central Bank ultimately rejected it, citing that "the revision process is complex and costly" [^6][^7].
+- **Activate Nuclear Units 1 and 4 and Develop Green Energy**: Successful on August 11, 2017. Influenced by the July 29 power shortage crisis, the proposal demanded stable power supply. The Ministry of Economic Affairs responded that it would maintain the "Nuclear-Free Homeland" goal but accelerate energy transition [^23].
+- **Adjust Time Zone to GMT+9**: Successful on October 19, 2017. The proposer hoped to break away from China’s time zone (GMT+8). After the Ministry of the Interior held collaborative meetings, it was deemed that changing the time zone would not solve the issue of national identity, and it was ultimately not adopted [^11][^12].
+- **National Phased Ban on Disposable Tableware**: Successful on June 13, 2017. Proposed by high school student Wang Xuanru, it led to the Environmental Protection Administration expanding the scope of plastic restrictions starting in 2018 [^3][^10].
 
-### 2020: Digital Sexual Violence and Protection of Children and Youth
+### 2020: Digital Sexual Violence and Protection of Minors
 
-- **Severely punish Nth Room-style sexual exploitation**: Became a case on April 9, 2020. Influenced by South Korea's Nth Room case, civic groups proposed heavier criminal penalties. The Ministry of Health and Welfare subsequently convened legislative amendment consultations, helping bring about amendments to relevant statutes [^16].
+- **Severely Punish Nth Room-Style Sexual Exploitation**: Successful on April 9, 2020. Influenced by the South Korean Nth Room incident, civic groups proposed increasing criminal penalties. The Ministry of Health and Welfare subsequently held a legislative revision consultation meeting, leading to amendments in relevant regulations [^16].
 
-### 2021: Grassroots Sports and Athletic Environments
+### 2021: Grassroots Movements and Sports Environment
 
-- **Thousand Feet Plan, for community football fields**: Became a case on May 15, 2021. The proposal urged the government to encourage the establishment of small and medium-sized community football fields. The Sports Administration adopted the recommendation and incorporated it into plans to improve public sports environments [^17].
+- **Thousand Feet Plan (Community-Type Soccer Fields)**: Successful on May 15, 2021. Proposed that the government encourage the establishment of small and medium-sized community soccer fields. The Sports Commission adopted the suggestion, incorporating it into the plan to enrich national sports environments [^17].
 
-### 2023: Labor-Rights Revolution and Educational Reflection
+### 2023: Labor Rights Revolution and Educational Reflection
 
-- **Stop the "2030 Bilingual Policy"**: Became a case on April 14, 2023. The proposer argued that the bilingual policy violated the Development of National Languages Act. The Ministry of Education responded that it would fine-tune the policy and emphasize "English-friendly" environments [^19].
-- **Trial a three-day weekend**: Became a case on April 26, 2023. The Directorate-General of Personnel Administration, Executive Yuan rejected it on the grounds of "labor shortages" and "impact on industrial competitiveness" [^21][^22].
-- **Abolish motorcycle-prohibited lanes and two-stage left turns**: Became a case on November 3, 2023. The Ministry of Transportation and Communications responded that it would preserve flexibility for local governments and continue assessing road sections for opening [^24].
-- **Set a timetable for allowing large heavy motorcycles on freeways**: Became a case on November 10, 2023. The Ministry of Transportation and Communications rejected the proposal on the grounds of safety and insufficient social consensus [^25].
+- **Stop the "2030 Bilingual Policy"**: Successful on April 14, 2023. The proposer argued that the bilingual policy violated the National Language Development Act. The Ministry of Education responded that it would make minor policy adjustments, emphasizing "English-friendliness" [^19].
+- **Pilot Three-Day Weekends**: Successful on April 26, 2023. The Personnel Administration of the Executive Yuan rejected it, citing "insufficient labor force" and "impact on industrial competitiveness" [^21][^22].
+- **Abolish Motorcycle-Only Lanes and Two-Stage Left Turns**: Successful on November 3, 2023. The Ministry of Transportation and Communications responded that it would retain local government flexibility and continue to evaluate open road sections [^24].
+- **Formulate a Schedule for Opening Highways to Large Heavy Motorcycles**: Successful on November 10, 2023. The Ministry of Transportation and Communications rejected it, citing safety and insufficient social consensus [^25].
 
-### 2024: Two-Dimensional Creation and Extreme Punishment
+### 2024: ACG Creation and Extreme Penalties
 
-- **Appropriateness of applying the child and youth sexual exploitation statute to two-dimensional creative works**: Became a case on February 7, 2024. The Ministry of Health and Welfare convened a collaborative meeting and reached a consensus that "if a virtual product involves no real child or youth victim, it should return to the rating system" [^26].
-- **Make child abuse resulting in death punishable only by the death penalty**: Became a case on March 14, 2024. The proposal was influenced by a child abuse case in Taipei. The Ministry of Justice responded that a mandatory death penalty would be inconsistent with international human-rights covenants and the principle of proportionality, and that it would study heavier penalties [^27].
+- **Appropriateness of Regulating ACG Creation under the Act on Prevention and Punishment of Sexual Exploitation of Children and Youths**: Successful on February 7, 2024. The Ministry of Health and Welfare held a collaborative meeting, reaching a consensus that "if virtual products involve no real minors harmed, they should return to the classification system" [^26].
+- **Death Penalty as the Sole Punishment for Child Abuse Resulting in Death**: Successful on March 14, 2024. Influenced by the Taipei child abuse case. The Ministry of Justice responded that the death penalty as the sole punishment is inconsistent with international human rights conventions and the principle of proportionality, and it will study increasing penalties [^27].
 
 ---
 
-## Democracy's "Plumbers": Collaborative Meetings and the PO System
+## The "Plumbers" of Democracy: Collaborative Meetings and the PO System
 
-To keep online proposals from becoming merely a "wishing well," administrative reform on the back end is crucial. The government established "Participation Officers," or POs, in ministries and agencies. These people are like plumbers in the democratic system, responsible for connecting the pipes between civil society and the bureaucracy [^5].
+To ensure that online proposals are not just a "wish pool," backend administrative reform is key. The government has established "Open Government Liaison Officers" (Participation Officers, or POs) in various ministries. These individuals are like plumbers in the democratic system, responsible for connecting the pipelines between civil society and bureaucracy [^5].
 
 ### Technical Architecture of Collaborative Meetings
 
-Whenever a proposal becomes a case, POs convene a "collaborative meeting." This is not the traditional scene of officials sitting in rows to be lectured. Instead, proposers, opponents, experts, scholars, and stakeholders are invited to sit at the same table for dialogue.
+Whenever a proposal becomes successful, the PO convenes a "Collaborative Meeting." This is not the traditional scenario of officials sitting in rows listening to lectures, but an invitation for proposers, opponents, experts, and stakeholders to dialogue at the same table.
 
-- **Anonymous questions through Slido**: This breaks down the sense of authority and allows the sharpest questions to surface.
-- **Public transcripts**: This ensures informational parity, making everyone's remarks part of the historical record [^11].
-- **Mind maps, using Miro or D2**: These structure chaotic disputes and search for the greatest common denominator between opposing sides.
+- **Slido Anonymous Q&A**: Breaks the sense of authority, allowing the sharpest questions to surface.
+- **Public Transcripts**: Ensures information equality, as everyone’s statements become historical records [^11].
+- **Mind Maps (Miro/D2)**: Structures chaotic disputes, finding the greatest common denominator between both sides.
 
 ---
 
-## International Recognition and Challenges: Exporting the Taiwan Model
+## International Evaluation and Challenges: Exporting the Taiwan Model
 
-Taiwan's model of digital participation has repeatedly received favorable assessments from the Open Government Partnership (OGP) and the OECD, and is regarded as a model of "digital governance countering authoritarianism" [^13][^16]. Even so, the platform still faces challenges such as a "low case-formation rate," "canned responses," and the "digital divide" [^8][^17].
+Taiwan’s digital participation model has received frequent praise in evaluations by the Open Government Partnership (OGP) and the OECD, being viewed as a paradigm of "digital governance countering authoritarianism" [^13][^16]. However, the platform still faces challenges such as "low success rate," "boilerplate responses," and the "digital divide" [^8][^17].
 
 ---
 
 ## Conclusion: Sweating in the Democracy Gym
 
-Audrey Tang once said that democracy is like a "civic gym": you cannot expect to become strong automatically just because you bought a membership, or cast a vote. You have to go in, sweat, and train [^4]. The existence of the Public Policy Network Participation Platform allows those whom the law leaves out and those excluded by the ballot to find, inside this digital gym, a barbell of their own and lift the weight that belongs to citizens.
+Audrey Tang (唐鳳) once said that democracy is like a "civic gym"; you cannot expect to become strong automatically just by buying a membership (voting). You must go in and sweat, exercise [^4]. The existence of the Public Policy Online Participation Platform allows those left out by the law and those squeezed out by ballots to find a barbell belonging to them in this digital gym, lifting the weight of citizenship.
 
 ---
 
 ## References
 
-[^1]: [Public Policy Network Participation Platform: Home](https://join.gov.tw/) — Taiwan's official platform for public policy proposals, discussion, and endorsement thresholds.
+[^1]: [Public Policy Online Participation Platform: Homepage](https://join.gov.tw/) — Taiwan's official platform for public policy proposals and discussion thresholds.
 
-[^2]: [National Development Council: Weighing Opinions from All Sides and Continuing to Strengthen the Public Policy Network Participation Platform](https://www.ndc.gov.tw/nc_10651_34766) — Official data explanation on the rates at which proposals become cases and are adopted.
+[^2]: [National Development Council: Considering Various Opinions, Continuously Strengthening the Public Policy Online Participation Platform](https://www.ndc.gov.tw/nc_10651_34766) — Official explanation of data regarding success rates and adoption rates.
 
-[^3]: [CommonWealth Magazine: Plastic Restrictions, Cell Therapy Legislation: The Public Participation Platform Lets Even High School Homework Move the Government](https://www.cw.com.tw/article/5115226) — An in-depth report on cases in which the JOIN Platform helped bring about major policy change.
+[^3]: [Commonwealth Magazine: Plastic Restrictions, Cell Therapy Laws: Public Participation Platform, Allowing High School Homework to Shake Government](https://www.cw.com.tw/article/5115226) — In-depth reporting on cases where the JOIN Platform facilitated major policy changes.
 
-[^4]: [Future City: You Can Lead National Development Even If You Cannot Vote! Audrey Tang: More Than One Quarter of Public Policy Proposers Are Under 18](https://futurecity.cw.com.tw/article/2327) — An interview with Audrey Tang on digital democracy and the current state of youth participation.
+[^4]: [Future City: You Can Lead National Development Even Without Voting! Audrey Tang: Over 1/4 of Public Policy Proposers Are Under 18](https://futurecity.cw.com.tw/article/2327) — Interview with Audrey Tang discussing the status of digital democracy and youth participation.
 
-[^5]: [PDIS Blog: From Zero to g0v: Taiwan's Democratic Innovation](https://pdis.nat.gov.tw/zh-TW/blog/%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B-%E8%87%BA%E7%81%A3%E7%9A%84%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0/) — Audrey Tang's account of how Taiwan transformed the spirit of the g0v community into government collaboration mechanisms.
+[^5]: [PDIS Blog: Starting from Zero: Taiwan's Democratic Innovation](https://pdis.nat.gov.tw/zh-TW/blog/%E5%BE%9E%E9%9B%B6%E9%96%8B%E5%A7%8B-%E8%87%BA%E7%81%A3%E7%9A%84%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0/) — Audrey Tang’s personal account of how Taiwan transformed the g0v community spirit into government collaboration mechanisms.
 
-[^6]: [Request That the Government Mint the Portrait of Ms. Chuang Chu Yu-nu on the NT$10 Coin - Propose an Idea](https://join.gov.tw/idea/detail/0987256b-7c33-4352-9393-d6c9476b55ee) — Detailed record of the coin proposal concerning the lunchbox grandmother.
+[^6]: [Request Government to Mint Zhuang Zhuyu Female Portrait on Ten-Nt Coin - Submit Ideas](https://join.gov.tw/idea/detail/0987256b-7c33-4352-9393-d6c9476b55ee) — Detailed records of the Bento Grandma coin proposal.
 
-[^7]: [BBC News Chinese: Internet Users Propose Replacing the Portrait on Taiwan's NT$10 Coin with Hers. Who Is the "Lunchbox Grandmother"?](https://www.bbc.com/zhongwen/trad/chinese-news-41457875) — International media coverage of Taiwan's citizen proposal.
+[^7]: [BBC News Chinese: Netizens Propose Taiwan's Ten-Nt Coin Portrait Be Changed to Her. Who Is the "Bento Grandma"?](https://www.bbc.com/zhongwen/trad/chinese-news-41457875) — International media coverage of Taiwan’s civic proposals.
 
-[^8]: [2020 Survey Report on Civic Participation on the Public Policy Network Participation Platform](https://www-api.moda.gov.tw/File/Get/moda/zh-tw/jTMFMVOi2vF5Vj0) — Officially released data on civic participation and member satisfaction with the platform.
+[^8]: [109th Year Public Policy Online Participation Platform Civic Participation Situation Survey Report](https://www-api.moda.gov.tw/File/Get/moda/zh-tw/jTMFMVOi2vF5Vj0) — Officially released citizen participation data and member satisfaction survey report.
 
-[^9]: [Taichung City Government Regulations for the Public Policy Network Participation Platform](https://law.taichung.gov.tw/LawContent.aspx?id=GL003651) — The legal basis for local government implementation of online participation.
+[^9]: [Taichung City Government Public Policy Online Participation Platform Operation Regulations](https://law.taichung.gov.tw/LawContent.aspx?id=GL003651) — Legal basis for local governments implementing online participation.
 
-[^10]: [Environmental Protection Administration: Response Record for the Nationwide Gradual Ban on Disposable Tableware](https://join.gov.tw/idea/detail/baa8dc6e-4dea-4c05-bdc4-a19c97edc62c) — Formal response to the plastic-restriction policy proposal.
+[^10]: [Environmental Protection Administration: Response Record for National Phased Ban on Disposable Tableware](https://join.gov.tw/idea/detail/baa8dc6e-4dea-4c05-bdc4-a19c97edc62c) — Official response regarding the plastic restriction policy proposal.
 
-[^11]: [Taiwan Should Move Its Time Zone to GMT+9 - Propose an Idea](https://join.gov.tw/idea/detail/90028e3c-f785-438a-836b-25b0b8fb8e1b) — Official response and reasoning regarding the time-zone adjustment proposal.
+[^11]: [Our Country Should Adjust Time Zone to GMT +9 - Submit Ideas](https://join.gov.tw/idea/detail/90028e3c-f785-438a-836b-25b0b8fb8e1b) — Official response and reasons regarding the time zone adjustment proposal.
 
-[^12]: [BuzzOrange: Let Taiwan Leave China's Time Zone. Do You Still Remember This Proposal?](https://buzzorange.com/citiorange/2017/12/20/adjust-time-zone/) — Media analysis of the time-zone controversy proposal.
+[^12]: [Report Orange: Please Let Taiwan Break Away from China's Time Zone—Do You Remember This Proposal?](https://buzzorange.com/citiorange/2017/12/20/adjust-time-zone/) — Media analysis report on the time zone controversy proposal.
 
-[^13]: [National Development Council Attends the 8th OGP Global Summit and Delivers a Thematic Speech](https://www.ndc.gov.tw/nc_27_37314) — Sharing Taiwan's digital governance model in an international setting.
+[^13]: [NDCC Attends OGP 8th Global Summit to Deliver Keynote Speech](https://www.ndc.gov.tw/nc_27_37314) — Sharing of Taiwan’s digital governance model at international occasions.
 
-[^14]: [Ministry of Digital Affairs: 2020 Survey Report on Civic Participation on the Public Policy Network Participation Platform](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/2234) — A survey on platform satisfaction and user behavior.
+[^14]: [Ministry of Digital Affairs: 109th Year Public Policy Online Participation Platform Civic Participation Situation Survey Report](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/2234) — Survey on platform satisfaction and user behavior.
 
-[^15]: [PDIS Collaborative Meeting Record: Time-Zone Change Issue](https://pdis.nat.gov.tw/zh-TW/projects/collaboration-meetings/time-zone/) — Full transcript of the collaborative meeting on the time-zone proposal.
+[^15]: [PDIS Collaborative Meeting Minutes: Changing Time Zone Issue](https://pdis.nat.gov.tw/zh-TW/projects/collaboration-meetings/time-zone/) — Complete transcript of the collaborative meeting regarding the time zone proposal.
 
-[^16]: [Ministry of Health and Welfare: Response Record on Legal Amendments to Severely Punish Images of Child and Youth Sexual Exploitation](https://join.gov.tw/idea/detail/50104d7d-b1ef-4e95-82cf-9a476a3194ad) — Formal response to the legislative amendment proposal prompted by the Nth Room case.
+[^16]: [MOHW: Legislative Revision Response Record for Severely Punishing Child and Youth Sexual Exploitation Images](https://join.gov.tw/idea/detail/50104d7d-b1ef-4e95-82cf-9a476a3194ad) — Official response to the legislative revision proposal regarding the Nth Room incident.
 
-[^17]: [Sports Administration: Response to the Thousand Feet Plan Community Football Field Proposal](https://join.gov.tw/idea/detail/4b11eefe-2a53-4685-a27f-14f50db91abd) — Adoption status of the community football field proposal.
+[^17]: [Sports Commission: Thousand Feet Plan Community-Type Soccer Field Proposal Response](https://join.gov.tw/idea/detail/4b11eefe-2a53-4685-a27f-14f50db91abd) — Status of adoption regarding the community soccer field proposal.
 
-[^18]: [Public Policy Network Participation Platform: Introduction to Service Functions](https://join.gov.tw/aboutus/index) — Official detailed explanation of each service function.
+[^18]: [Public Policy Online Participation Platform: Service Function Introduction](https://join.gov.tw/aboutus/index) — Official detailed explanation of various service functions.
 
-[^19]: [Ministry of Education: Response Record on the Proposal to Stop the Bilingual Policy](https://join.gov.tw/idea/detail/128b837c-7a69-4690-8b05-8032ae905fe3) — Official explanation in response to the controversial bilingual policy proposal.
+[^19]: [Ministry of Education: Stop Bilingual Policy Proposal Response Record](https://join.gov.tw/idea/detail/128b837c-7a69-4690-8b05-8032ae905fe3) — Official explanation regarding the bilingual policy controversy proposal.
 
-[^20]: [PTS News: Ministry of Labor Responds to Three-Day Weekend Proposal, Saying Comprehensive Implementation Is Not Appropriate at This Stage](https://news.pts.org.tw/article/640624) — Media coverage of the result of the three-day weekend proposal.
+[^20]: [Public Television News: Three-Day Weekends Proposal, Ministry of Labor Response States Not Suitable for Comprehensive Promotion at This Stage](https://news.pts.org.tw/article/640624) — Media report on the results of the three-day weekends proposal.
 
-[^21]: [Promote a Four-Day Workweek, or Three-Day Weekend - Propose an Idea](https://join.gov.tw/idea/detail/9a0f59a7-16db-41f5-a12a-233f93bc884c) — Full content of the three-day weekend proposal and the government's response.
+[^21]: [Promote Four-Day Work Week (Three-Day Weekends) - Submit Ideas](https://join.gov.tw/idea/detail/9a0f59a7-16db-41f5-a12a-233f93bc884c) — Full content of the three-day weekends proposal and government response.
 
-[^22]: [Rational Planning and the Governance Paradox of Open Government: Challenges and Opportunities in Civic Participation](https://www.airitilibrary.com/Article/Detail/P20160518002-N202507100007-00002) — An academic paper exploring online-mobilization armies and challenges in digital democracy.
+[^22]: [Rational Planning and Governance Paradox of Open Government: Challenges and Opportunities of Civic Participation](https://www.airitilibrary.com/Article/Detail/P20160518002-N202507100007-00002) — Academic paper discussing cyber army mobilization and challenges in digital democracy.
 
-[^23]: [Ministry of Economic Affairs: Response Record on the Proposal to Restart the First and Fourth Nuclear Power Plants](https://join.gov.tw/idea/detail/2167dce7-4be9-4df3-964b-b63594cca4be) — Official response and reasoning on the nuclear energy proposal.
+[^23]: [Ministry of Economic Affairs: Activation of Nuclear Units 1 and 4 Proposal Response Record](https://join.gov.tw/idea/detail/2167dce7-4be9-4df3-964b-b63594cca4be) — Official reasons for response regarding nuclear energy proposals.
 
-[^24]: [Ministry of Transportation and Communications: Response to the Proposal to Abolish Motorcycle-Prohibited Lanes and Two-Stage Left Turns](https://join.gov.tw/idea/detail/6b644aa3-a11d-4a0f-a892-963824b6f1b4) — Formal response to the motorcycle right-of-way proposal.
+[^24]: [Ministry of Transportation and Communications: Abolition of Motorcycle-Only Lanes and Two-Stage Left Turns Proposal Response](https://join.gov.tw/idea/detail/6b644aa3-a11d-4a0f-a892-963824b6f1b4) — Official response regarding the motorcycle rights proposal.
 
-[^25]: [Ministry of Transportation and Communications: Response to the Proposal for a Timetable to Allow Large Heavy Motorcycles on Freeways](https://join.gov.tw/idea/detail/31865db9-b283-4621-8781-b0dc6fe7def1) — Reasons for rejecting the proposal on large motorcycles using national freeways.
+[^25]: [Ministry of Transportation and Communications: Highway Opening to Large Heavy Motorcycles Schedule Proposal Response](https://join.gov.tw/idea/detail/31865db9-b283-4621-8781-b0dc6fe7def1) — Reasons for rejection regarding the heavy motorcycle highway proposal.
 
-[^26]: [Ministry of Health and Welfare: Collaborative Meeting Record on the Appropriateness of Applying Child and Youth Sexual Exploitation Regulations to Two-Dimensional Creative Works](https://join.gov.tw/idea/detail/233df5b7-cbb8-4ffc-b8fb-5279ef84823a) — Conclusions of the collaborative meeting on the controversy over virtual products.
+[^26]: [MOHW: Collaborative Meeting Minutes on Appropriateness of Regulating ACG Creation under Child and Youth Sexual Exploitation Act](https://join.gov.tw/idea/detail/233df5b7-cbb8-4ffc-b8fb-5279ef84823a) — Conclusions of the collaborative meeting regarding virtual product controversies.
 
-[^27]: [Ministry of Justice: Response Record on the Proposal to Make Child Abuse Resulting in Death Punishable Only by the Death Penalty](https://join.gov.tw/idea/detail/1da48653-59e5-4d5c-af84-b3a9cbc2d334) — Legal and human-rights assessment of the extreme-punishment proposal.
+[^27]: [Ministry of Justice: Child Abuse Resulting in Death Sole Death Penalty Proposal Response Record](https://join.gov.tw/idea/detail/1da48653-59e5-4d5c-af84-b3a9cbc2d334) — Legal and human rights assessment of the extreme penalty proposal.

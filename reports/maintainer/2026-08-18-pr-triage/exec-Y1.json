@@ -1,0 +1,111 @@
+[
+  {
+    "number": 1377,
+    "path": "knowledge/Lifestyle/排隊.md",
+    "actions": [
+      "確認分號已由前波降到 12（門檻內），本波未再拆句",
+      "補完前波已收進 public/article-images/lifestyle/paidui-*.webp 的 4 張圖：md 內 4 處外部熱連結改指本地路徑",
+      "curation 設 incubating（連動 featured=false）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "0e24f287309d6034bc41490a7ffae824094dd7d7",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "98967edd4eb26de0e3f77079c68dd804dadd5c29",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "其餘 4 張熱連結圖（受天宮、Starbucks、中華電信、潤餅）image-health 非 hard，本批未動，維持外部連結。"
+  },
+  {
+    "number": 1378,
+    "path": "knowledge/Food/台灣鐵路便當.md",
+    "actions": [
+      "補 subcategory: 飲食場景",
+      "分號 29→12（4 張圖說行 asterisk→underscore 讓 caption 豁免計數 + 9 處正文子句拆句號）",
+      "補回主分支「2000 年懷舊便當限量一千個／二十分鐘售罄／約九萬個」數字與《台灣光華》2003 腳註（curl -A 瀏覽器 UA 驗證原網址 200，內文數字相符；bare curl -I 得 403 為 UA 阻擋非死鏈）；新編 [^14]",
+      "curation 設 incubating；lastHumanReview 維持 false"
+    ],
+    "hard_final": 0,
+    "heal_commit": "ed9e8cc781000895f6e7848897cbd7c28514a593",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "efadc00e4340d5ea942e4f792ae8769cd0f83e47",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "特別指示執行：光華來源存活故補回數字，未補的話會是內容流失。4 張既有 Wikimedia 熱連結圖未動（image-health 非 hard）。"
+  },
+  {
+    "number": 1379,
+    "path": "knowledge/Culture/台灣郵票.md",
+    "actions": [
+      "補 subcategory: 工藝與美學（自動比對 0.47 未過閾值，人工選定）",
+      "分號 23→12",
+      "移除 3 張無授權聲明熱連結圖（post.gov.tw ×2、file.moc.gov.tw ×1）及緊接圖說行",
+      "[^1] moc.gov.tw 404 死鏈改連 Wayback Machine 存檔（2025-10-13 快照，200，內容驗證與正文『劉銘傳 1888 設局』『臺北郵局沿革』主張相符）",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "513144edb32e148ca78fa486aa1706fdceb7eb03",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "abd7777791040e32ef852e1b21c99d0836356f15",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "特別指示執行：wayback 有快照故改連而非移除腳註（比移除更保留來源）。"
+  },
+  {
+    "number": 1380,
+    "path": "knowledge/People/林獻堂.md",
+    "actions": [
+      "分號 25→12（4 張圖說行 asterisk→underscore 讓 caption 豁免計數 + 9 處正文子句拆句號）",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "7fa2d96309d152a6f94f2244e4c09340632fe409",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "3dbbc22d5dca4b4a669161d8635420ebcfbbd3bf",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "本批唯一無需額外查證的 PR，subcategory 原本就有效（政治與民主）。"
+  },
+  {
+    "number": 1381,
+    "path": "knowledge/Culture/台灣手語.md",
+    "actions": [
+      "分號 39→10（5 張圖說行 asterisk→underscore 讓 caption 豁免計數 + 21 處正文子句拆句號，留 3 段自然條列式清單未拆）",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "88c8f03b31ad09782f68ac5082be3015b3fce888",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "a365477671b8a558a7eda1a10c7b9cad0d4e3115",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "researchReport: 'reports/research/2026-08/台灣手語.md' 欄位指向的檔案在本 worktree 不存在——非 hard gate 項目，未動，記錄供主 session 判斷是否為投稿者誤植或散落在別處。"
+  },
+  {
+    "number": 1382,
+    "path": "knowledge/People/沈葆楨.md",
+    "actions": [
+      "補 subcategory: 歷史人物（自動比對未過閾值，人工選定）",
+      "分號 24→9（3 張圖說行 asterisk→underscore 讓 caption 豁免計數 + 12 處正文子句拆句號；表格列與引語/條列段落保留原樣未拆）",
+      "curation 設 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c715b43d55434077e7f8e94f039f0e5255f8b9cb",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "b09a7571b4465091bb58f3e387ba18aba5faff16",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "category 欄位 PR 版本已是 People（與檔案路徑一致），無需再修正；表格列 1 處分號依規則不動，計入 ≤12 預算內。"
+  }
+]

@@ -54,6 +54,23 @@ if [[ "$MODE" == "pr" ]]; then
     echo -e "${RED}❌ 無法取得 PR #$PR_NUM 的檔案清單${RST}"
     exit 1
   fi
+  # 2026-08-27 修：--pr 模式以前只拿檔名，然後對「本機工作樹」open() 它。
+  # 但翻譯 PR 幾乎都是新增檔案，那些路徑在 main 上本來就不存在 → 每一個
+  # 新翻譯 PR 都穩定回 MISSING → ❌ FAIL「TRUNCATED translations require rework」。
+  # MEMORY §神經迴路 指名本工具是「翻譯審核第一道檢查」，所以這條假 FAIL
+  # 是照著 SOP 走就會撞到的。實測 #1600/#1601/#1602 三篇 ratio 分別 1.50/3.69/3.25
+  # 全在 band 內，工具卻三篇都判 FAIL。
+  # 修法：把 PR 內容取進暫存區（路徑結構不變，語言偵測與 translatedFrom 解析照舊），
+  # 譯文讀暫存區、zh 源仍讀 main 工作樹 —— 被量的是 PR 的內容，量尺是 main 的。
+  # 同 MAINTAINER-PIPELINE §診斷紀律「把 PR 的內容檔帶進 main 樹跑」。
+  PR_STAGE="$(mktemp -d)"
+  trap 'rm -rf "$PR_STAGE"' EXIT
+  git fetch origin "pull/$PR_NUM/head:refs/twmd/ratio-pr$PR_NUM" -f -q 2>/dev/null || true
+  for _f in "${FILES[@]}"; do
+    mkdir -p "$PR_STAGE/$(dirname "$_f")"
+    git show "refs/twmd/ratio-pr$PR_NUM:$_f" > "$PR_STAGE/$_f" 2>/dev/null || rm -f "$PR_STAGE/$_f"
+  done
+  git update-ref -d "refs/twmd/ratio-pr$PR_NUM" 2>/dev/null || true
 elif [[ "$MODE" == "all-lang" ]]; then
   if [[ ! -d "knowledge/$ALL_LANG" ]]; then
     echo -e "${RED}❌ knowledge/$ALL_LANG 不存在（語言代碼打錯？）${RST}"
@@ -74,6 +91,17 @@ import re, sys, os, json
 
 files = [$(printf '"%s",' "${FILES[@]}")]
 files = [f for f in files if f]
+
+# --pr 模式下譯文的實體在暫存區（見上方 shell 段註解）；zh 源一律讀 main 工作樹。
+PR_STAGE = "${PR_STAGE:-}"
+
+def resolve(path):
+    """譯文優先讀 PR 暫存區，讀不到再退回工作樹。"""
+    if PR_STAGE:
+        staged = os.path.join(PR_STAGE, path)
+        if os.path.exists(staged):
+            return staged
+    return path
 
 def get_body(content):
     m = re.match(r'^---\n.*?\n---\n(.*)', content, re.DOTALL)
@@ -133,7 +161,8 @@ FAIL = 0
 results = []
 
 for f in files:
-    if not os.path.exists(f):
+    f_real = resolve(f)
+    if not os.path.exists(f_real):
         results.append((f, 'MISSING', None, None, None))
         FAIL += 1
         continue
@@ -143,7 +172,7 @@ for f in files:
         # Skip zh source files in scanning mode
         continue
 
-    with open(f, encoding='utf-8') as fh:
+    with open(f_real, encoding='utf-8') as fh:
         content = fh.read()
 
     # Find translatedFrom

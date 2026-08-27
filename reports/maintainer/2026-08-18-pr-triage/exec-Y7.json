@@ -1,0 +1,126 @@
+[
+  {
+    "number": 1433,
+    "path": "knowledge/Technology/報禁解除.md",
+    "actions": [
+      "subcategory 戰後與威權→數位與網路（Technology taxonomy 合法值，最貼切值）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "7f5972b70543013501939eca6e5ded421922c1a7",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "2e33a8321fa7fa181871b644f01fe8bd3fc28083",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "hard 在動手前已是 0（Phase A hard_after 已空），只補 subcategory 與 curation，內容未動"
+  },
+  {
+    "number": 1434,
+    "path": "knowledge/Society/慈濟.md",
+    "actions": [
+      "curation incubating（subcategory 社區與日常／author Taiwan.md Contributors 原本已合法，無需更動）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "6c39d5c4addf191fa7a7a41a77b9861cbe094c32",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "fd65595fc48ef2964f7c669ffc2804a14cec4134",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "宗教團體條目，hard 原本已是 0，內容未動，僅補 curation"
+  },
+  {
+    "number": 1435,
+    "path": "knowledge/Lifestyle/台灣進屋脫鞋.md",
+    "actions": [
+      "subcategory 生活習慣→城市生活（Lifestyle taxonomy 最貼切值）",
+      "author Taiwan.md→Taiwan.md Contributors",
+      "全形分號 24→12（body 段落含 📝 策展人筆記 全數拆句號，blockquote／圖片 title 屬性行不動）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "93e572f8d6edf752d1895a51de416f0a6a7ff21d",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "f7a0f511c153490e377119c449626c05bc8ed1d8",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "作者欄位是本批唯一精確符合紅旗清單的案例（author='Taiwan.md'），已修正"
+  },
+  {
+    "number": 1436,
+    "path": "knowledge/Technology/台灣顯示器產業.md",
+    "actions": [
+      "subcategory 光電與顯示→半導體與硬體（Technology taxonomy 最貼切值）",
+      "author Taiwan.md→Taiwan.md Contributors",
+      "全形分號 13→12（僅拆 1 處剛好壓線超標的句子）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "8544f5ff628ab812e73b5295b12f648b7eabecf6",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "e46a9040d77bee47eaa8941fb8122cf5be8e0631",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "文末『本TXT版本不下載圖片』疑似 AI 工具殘留文字落在 ## 參考資料之後（不計入 hard gate），依格式-only 範圍未動，留給後續 incubating tier 處理"
+  },
+  {
+    "number": 1437,
+    "path": "knowledge/History/台北車站.md",
+    "actions": [
+      "全形分號 40→12（正文段落含 📝 策展人筆記 全數拆句號；剩餘 12 處全部落在 4 張圖說行 *圖片：…* 內，依指示保留不動）",
+      "樓層圖授權標示 CC BY-SA 3.0→CC BY 2.5（比對 Wikimedia API 實際登記授權，修正圖說文字與作者標示一致）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "017343a3c297358c7d863aaa072939876313290c",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "81bdc66c70c91515a3f7b9baa941cdf74c09cd9c",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "全批分號數最多（原始 40 處，全站最嚴重）；正文逐句人工拆分，未動列表／表格／腳註定義行／blockquote／圖說行，逐一以 prose_health 實際計數邏輯核驗至 12"
+  },
+  {
+    "number": 1438,
+    "path": "knowledge/People/諸葛四郎.md",
+    "actions": [
+      "圖片收 1 張：/article-images/national-taiwan-museum-of-comics-taichung-4.jpg（不存在的本機路徑）→ 用 image-ingest.mjs 收進 public/article-images/people/national-taiwan-museum-of-comics-taichung-4.webp（Wikimedia CC BY-SA 4.0，Ralff Nestor Nacor）",
+      "subcategory 漫畫家與創作者→藝術與設計（People taxonomy 最貼切值）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "e38376ee4c4fb2e5add9b727db08b2701d2441d8",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "b548cdaee5f094bea91d88ef2ff5abc813aaf3d0",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "upload.wikimedia.org 原檔下載持續 HTTP 429（Retry-After:600，疑似多個並行 Phase B 子代共用出口 IP 造成的速率限制，等待 650s／900s 兩輪仍失敗）；改用 Wikimedia API 回傳的 thumbnail（1280px）路徑成功下載，未觸發速率限制，圖片內容、作者、授權與原檔一致，僅解析度較小（仍遠高於站內顯示尺寸）"
+  },
+  {
+    "number": 1439,
+    "path": "knowledge/People/呱吉.md",
+    "actions": [
+      "圖片收 1 張：/article-images/taipei-city-council-hall-front-view-20201031.jpg（不存在的本機路徑）→ 用 image-ingest.mjs 收進 public/article-images/people/taipei-city-council-hall-front-view-20201031.webp（Wikimedia CC BY-SA 4.0，Solomon203）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "b1ce053ac2a90eb774777433356108dc8b1cb6d3",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "89cc35d6b254942ae185c3bfdf609332b1f5c831",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "同 #1438 的 Wikimedia 429 問題，同樣改用 thumbnail 路徑成功繞過；在世前議員，內容未動只修格式"
+  }
+]

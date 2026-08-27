@@ -24,7 +24,7 @@ featured: true
 lastVerified: 2026-07-28
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/吳明益.md'
-image: '/article-images/People/zhonghua-market-1965.jpg'
+image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
@@ -81,16 +81,16 @@ O formato da escrita da natureza depois também o fez virar. O não-ficção con
 
 ## O Zhonghua Mall foi demolido, ele o escreveu de volta
 
-![Fachada do Zhonghua Mall em 1965, shopping público interligado erguido em Ximending, multidões e veículos circulando entre eles](/article-images/People/zhonghua-market-1965.jpg)
+![Fachada do Zhonghua Mall em 1965, shopping público interligado erguido em Ximending, multidões e veículos circulando entre eles](/article-images/people/zhonghua-market-1965.jpg)
 _Zhonghua Mall, 1965. Foto do Gabinete de Informação do Yuan Executivo. Inaugurado em 1961, demolido em 1992, esse shopping interligado foi a sapataria da infância de Wu Ming-yi e o protótipo espacial de *O Mágico da Passarela*. Domínio Público._
 
 O Zhonghua Mall foi inaugurado em 22 de abril de 1961 e demolido por blocos em outubro de 1992, motivos incluíam a subterranização da ferrovia, o metrô e o plano do boulevard arborizado da Zhonghua Road.[^1] Para quem atravessou Ximending na meia-idade, ali era cheiro de arcos e sombra de passarela, labirinto onde se enfiava depois da aula, não verbete de história da arquitetura. Depois que o shopping sumiu, a memória restou só em fotos e relatos orais. Até 2011, _O Mágico da Passarela_ escrever de volta no papel o Zhonghua Mall dos anos 1980.[^2]
 
 No romance há o misterioso mágico da passarela, zebras brilhantes, o filho caçula da sapataria, Xiao Budian. Wu Ming-yi disse à OKAPI: "O Zhonghua Mall é realmente um lugar bizarro, toda a magia está dentro dele!"[^4] A magia aqui assume trabalho estrutural. O próprio shopping já desapareceu; a magia torna o espaço desaparecido caminhável de novo. A primeira aplicação social dos olhos compostos ao "desaparecido" recai sobre a memória urbana: quem ainda lembra das famílias que cozinhavam nos arcos, quem ainda consegue apontar a ordem daqueles blocos Zhongxiao-Ren'ai.
 
-![Neon e multidão nos arcos do Zhonghua Mall à noite, letreiros e luzes sobrepostos compondo a densidade urbana dos anos 1980 em Ximending](/article-images/People/zhonghua-market-night.jpg)
+![Neon e multidão nos arcos do Zhonghua Mall à noite, letreiros e luzes sobrepostos compondo a densidade urbana dos anos 1980 em Ximending](/article-images/people/zhonghua-market-night.jpg)
 
-![Vista dos arcos do térreo do bloco "Xin" do Zhonghua Mall: letreiros, colunatas e escala pedestre](/article-images/People/zhonghua-market-xin.jpg)
+![Vista dos arcos do térreo do bloco "Xin" do Zhonghua Mall: letreiros, colunatas e escala pedestre](/article-images/people/zhonghua-market-xin.jpg)
 _Zhonghua Mall à noite (imagem histórica). O neon e os arcos pré-demolição são a memória visual a que romance e série da PTS retornam repetidamente. Foto via Wikimedia Commons, CC BY 3.0._
 
 Em 20 de fevereiro de 2021, a série da PTS _O Mágico da Passarela_ estreou, dirigida por Yang Ya-zhe.[^10] O set em Xizhi tinha cerca de dois a dois e meio hectares; reportagens dizem que o custo do cenário foi de cerca de 80 milhões de TWD, recriando quase cinquenta lojas. O custo total da produção, segundo a mídia, cerca de 200 milhões; a divisão de programas menciona oralmente cerca de 20 milhões por episódio. Três números em escalas diferentes, não se pode fundir em "investiu 200 milhões para reconstruir o cenário".[^11] Reportagens também mencionam trilhos e galpões de trem montados até o limite, correspondendo à linha de locação de _Dust in the Wind_ de Hou Hsiao-hsien.[^11] O som dos operários arrancando letreiros no set soa como se fizessem a era já acabada acabar de novo.
@@ -191,7 +191,7 @@ Fontes: Guardian / Liberty Times / Sentinel reproduz comunicado oficial / Critic
 
 ## A brisa do mar na livraria de Hualien, e as nuvens a dois mil metros
 
-![Retrato de Wu Ming-yi em ocasião na NDHU: cabelo curto, camisa clara, expressão serena](/article-images/People/wu-ming-yi-ndhu.jpg)
+![Retrato de Wu Ming-yi em ocasião na NDHU: cabelo curto, camisa clara, expressão serena](/article-images/people/wu-ming-yi-ndhu.jpg)
 _Wu Ming-yi. Professor do Departamento de Literatura Chinesa da Universidade Nacional Dong Hwa, há muito ensina e escreve em Hualien. Foto: National Dong Hwa University / Attribution._
 
 Depois dos prêmios e traduções, os olhos compostos têm segunda vida: transmídia e lugar. _Luz Flutuante_ de 2014 é ensaio fotográfico, editora New Classic, puxou a escrita de imagem de ramo da prosa naturalista para experimento independente.[^33] Em 2019 saiu a coletânea _Terra da Chuva Amarga_, nela _As Nuvens a Dois Mil Metros_ escreve advogado que, após a morte da esposa, persegue arquivos de romance inacabado e memória de pele de leopardo-nebuloso de Taiwan.[^27] Em 2025, Chen Xin-yi transformou esse conto em VR _As Nuvens a Dois Mil Metros_ (_The Clouds Are Two Thousand Meters Up_), na 82ª Mostra de Veneza, seção Venice Immersive, ganhou Grand Prize (grande prêmio da unidade imersiva).[^28] Conto literário virou altura caminhável. Tirado o capacete, a plateia ainda fica parada entre a pele do leopardo e os arquivos inacabados. O Museu de Arte da Universidade Normal de Pequim também fez exposição imersiva centrada nessa VR, ligando montanha, floresta e memória do leopardo ao corpo do público urbano.

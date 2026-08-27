@@ -29,7 +29,7 @@ sourceCommitSha: 'fdd06c978'
 sourceContentHash: 'sha256:9e044da79052e1d4'
 sourceBodyHash: 'sha256:0b3e476aa45a53ca'
 translatedAt: '2026-08-09T08:07:25+08:00'
-image: '/article-images/People/zhonghua-market-1965.jpg'
+image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
@@ -85,16 +85,16 @@ Khuôn mẫu viết tự nhiên rồi cũng xoay ông quay lại. Phi tiểu thu
 
 ## Chợ Trung Hoa bị phá, ông viết lại nó
 
-![Hình ngoài chợ Trung Hoa năm 1965, nhà liên kề công khai tổng hợp đứng bên cạnh Tây Môn Tử, đoàn người và xe cộ lưu thông](/article-images/People/zhonghua-market-1965.jpg)
+![Hình ngoài chợ Trung Hoa năm 1965, nhà liên kề công khai tổng hợp đứng bên cạnh Tây Môn Tử, đoàn người và xe cộ lưu thông](/article-images/people/zhonghua-market-1965.jpg)
 _Chợ Trung Hoa, 1965. Viện Tin tức Hành chính chụp. Nhà liên kề công khai hoạt động từ 1961 tháng 4 ngày 22 đến 1992 tháng 10 phá dỡ từng mảng, lý do gồm công trường đường sắt ngầm, tàu điện ngầm và kế hoạch đại lộ xanh Trung Hoa. Public Domain._
 
 Chợ Trung Hoa năm 1961 tháng 4 ngày 22 khai trương, năm 1992 tháng 10 phá từng mảng, lý do gồm công trường đường sắt ngầm, tàu điện ngầm và kế hoạch đại lộ xanh Trung Hoa. [^1] Với thế hệ giữa qua Tây Môn Tử, nơi đó là mùi mái hiên và bóng cầu vượt, là mê cung sẽ lưng vào sau giờ học, chứ không phải trang mục lịch sử kiến trúc. Chợ rồi, ký ức chỉ còn ảnh và miệng kể. Tới năm 2011, _Thợ múa trên Cầu Vượt_ viết chợ Trung Hoa vào giấy. [^2]
 
 Tiểu thuyết có thợ múa bí ẩn trên cầu vượt, ngựa gỉa lấp lánh, cậu bé nhỏ nhất nhà bán giày. Nguyên Minh Nghĩa nói với OKAPI: "Chợ Trung Hoa thực tình là chỗ kỳ lạ lắm, mọi thứ huyền diệu đều ở trong đó!" [^4] Huyền diệu ở đây mang nặng công trình. Chợ đã biến mất, huyền diệu làm không gian biến mất lại có thể đi lại được. Áp dụng xã hội đầu tiên của mắt phức hợp với "biến mất," rơi vào ký ức thành phố: ai còn nhớ người dân nấu cơm dưới mái hiên đó, ai còn sẽ chỉ thứ tự các mái Trung Hiếu Nhân đó.
 
-![Đêm chợ Trung Hoa với đèn neon và tàu neon, bảng hiệu và ánh sáng xếp thành bao tối mật độ 1980 ở Tây Môn Tử](/article-images/People/zhonghua-market-night.jpg)
+![Đêm chợ Trung Hoa với đèn neon và tàu neon, bảng hiệu và ánh sáng xếp thành bao tối mật độ 1980 ở Tây Môn Tử](/article-images/people/zhonghua-market-night.jpg)
 
-![Nhìn mái hiên một tầng mảng "Tín" chợ Trung Hoa: bảng hàng, hàng cột và quy mô bộ chân người](/article-images/People/zhonghua-market-xin.jpg)
+![Nhìn mái hiên một tầng mảng "Tín" chợ Trung Hoa: bảng hàng, hàng cột và quy mô bộ chân người](/article-images/people/zhonghua-market-xin.jpg)
 _Chợ Trung Hoa ban đêm (ảnh lịch sử). Neon trước phá dỡ và mái hiên, là ký ức hình ảnh mà tiểu thuyết và nước ngoài trực tuyến lặp lại. Ảnh qua Wikimedia Commons, CC BY 3.0._
 
 Năm 2021 tháng 2 ngày 20, hình truyền hình công cộng _Thợ múa trên Cầu Vượt_ lên sóng, đạo diễn Dương Nhã Trác. [^10] Phim trường Tất Chỉ khoảng hai đến hai phẩy năm hectare, báo chí ghi lại chi phí lắp ráp khoảng tám mươi triệu, hoàn toàn gần năm mươi tiểu bộ. Toàn bộ chi phí sản xuất báo chí ghi khoảng hai trăm triệu, phòng chương trình trần thuật mỗi tập khoảng hai mươi triệu. Ba con số có tầng độ khác nhau, không thể pha chung thành "chi tiền hai trăm triệu lắp ráp lại." [^11] Sau tối, chợ giả đó sẽ lại bị phá dỡ một lần: phá dỡ thực 1992, phá dỡ hư cấu 2020 trước đó, hai lần mất vào cùng một hàng lang. Báo chí còn kể rèn đường sắt và gara xe chạm tới mức tối đa, ứng với ký ức phim _Tình Yêu Trong Bụi Trần_ được quay của Hầu Hiếu Hiền. [^11] Âm thanh công nhân phá bảng hiệu tại phim trường, giống như một lần nữa hủy một thời đại đã kết thúc.
@@ -195,7 +195,7 @@ Nguồn: Guardian/Tự do Đạo báo/Sentinel Chuyển công khai/Bình luận 
 
 ## Hải Phong Khách Sạn ở Hoa Liên, với mây ở hai nghìn mét
 
-![肖像 Nguyên Minh Nghĩa trong công ước Đại học Đông Hoa: tóc ngắn, áo sơ mi màu nhạt, biểu cảm yên tĩnh](/article-images/People/wu-ming-yi-ndhu.jpg)
+![肖像 Nguyên Minh Nghĩa trong công ước Đại học Đông Hoa: tóc ngắn, áo sơ mi màu nhạt, biểu cảm yên tĩnh](/article-images/people/wu-ming-yi-ndhu.jpg)
 _Nguyên Minh Nghĩa. Giáo sư Bộ Văn học tiếng Hoa Đại học Đông Hoa, lâu dài dạy học và sáng tác tại Hoa Liên. Ảnh: Đại học Quốc lập Đông Hoa / Ghi công._
 
 Giải thưởng và bản dịch sau, mắt phức hợp còn có đời thứ hai: liên thể và địa phương. Năm 2014 _Nhoáng Sáng_ là tự nhiên chụp hình, nhà xuất bản mới kinh điển, kéo viết hình ảnh từ nhánh tự nhiên tành thí nghiệm độc lập. [^33] Năm 2019 tuyển truyện ngắn _Đất Mưa Khổ_ xuất bản, trong đó 《Mây Ở Hai Nghìn Mét》 kể luật sư sau khi vợ qua đời tìm tập tin tiểu thuyết không hoàn tất và ký ức da huyền đà Đài Loan. [^27] Năm 2025, Trần Tâm Hy làm VR 《Mây Ở Hai Nghìn Mét》 (_The Clouds Are Two Thousand Meters Up_), tại Hội chợ Phim Venice lần thứ 82 đơn vị Venice Immerrsive nhận Giải Lớn (Giải Lớn Đơn vị Ngập mình). [^28] Truyện ngắn văn học biến thành chiều cao có thể đi vào. Tháo mũ kỹ thuật ảo sau, du khách còn dừng giữa da huyền đà và tập tin không hoàn tất. Nhà tranh triển Bắc Sư Mỹ cũng từng làm triển lãm ngập mình vốn VR này, kéo ký ức rừng và da huyền đà trở lại thân thể du khách thành phố.

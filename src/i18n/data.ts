@@ -4735,7 +4735,7 @@ export const dataUI = {
     'data.hero.title': '數據台灣',
     'data.hero.subtitle': '用互動視覺化和開放資料，認識一座島嶼的真實面貌',
     'data.hero.description':
-      '這裡是台灣數據的策展空間。從企業版圖到開放資料，從正確的台灣輪廓到數位民主實驗——我們用互動視覺化和開放資源，讓數字說出台灣的故事。',
+      '這裡是台灣資料的策展空間。從企業版圖到開放資料，從正確的台灣輪廓到數位民主實驗——我們用互動視覺化和開放資源，讓數字說出台灣的故事。',
 
     // Enterprise Section
     'data.enterprise.title': '🏢 企業版圖',
@@ -4926,7 +4926,7 @@ export const dataUI = {
     'data.openData.story.p2':
       '1997 年「電子化政府計畫」啟動，2013 年 data.gov.tw 上線，台灣從電子化政府跨入開放政府時代。 2015-2017 年三度蟬聯「全球開放資料指標」第一名。g0v 零時政府孵化口罩地圖、Cofacts 事實查核機器人。唐鳳的數位政委實驗，讓台灣成為全球數位民主的實驗場。',
     'data.openData.story.p3':
-      '當公民有能力理解數據、政府願意釋出數據，民主就不只是四年一次的投票，而是每天都在發生的協作。',
+      '當公民有能力理解資料、政府願意釋出資料，民主就不只是四年一次的投票，而是每天都在發生的協作。',
 
     // Content stats chart (Chart.js inline script label)
     'data.chart.articlesAdded': '新增文章',

@@ -1,0 +1,28 @@
+id: 暈碳
+category: slang
+subcategory: 日常生活
+fork_type: C
+display:
+  taiwan: 飯後想睡 / 食睏 / 餐後嗜睡（醫學正式名稱）
+  china: 暈碳
+etymology:
+  origin: 指吃完大量澱粉後想睡、頭昏、思緒遲鈍，語源是英文 food coma 的中文化，「暈」＋「碳（碳水化合物）」的組合，2025 年底起在中國社群大量出現後傳入台灣。醫學上並無「暈碳」這個診斷，正式術語是餐後嗜睡（postprandial somnolence），台灣醫師已公開提醒不要污名化碳水化合物。
+  taiwan_path: 台灣原本說「吃飽想睡」「飯後很睏」，台語說「食飽睏」；健身與營養圈直接用英文 food coma。
+  china_path: 健身與減醣話題的社群用詞，由「碳水」這個中國慣用簡稱衍生（台灣多說「澱粉」「醣類」）。
+  fork_point: '~2025'
+  fork_cause: 減醣飲食話題在中國社群爆紅時造的詞，隨短影音與圖文平台輸入台灣。
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+status: emerging
+notes: |
+  收編中的案例：2026 年台灣主流媒體（中時、三立）已就「暈碳」做過健康查核報導，
+  代表這個詞在台灣的能見度已高到需要闢謠；同時 Threads 上一則 5.0 萬瀏覽的貼文
+  稱讚 YouTuber 千千講 food coma 而不是「暈碳」，顯示台灣網路對它的來源仍有意識。
+  一個詞同時被媒體當常識解釋、又被社群當外來語警戒，是收編過程的典型中間狀態。
+  另注意上游詞「碳水」本身也是中國慣用簡稱，台灣營養學術語為「醣類」「碳水化合物」。
+sources:
+  - https://www.chinatimes.com/realtimenews/20260523001206-260405
+  - https://www.setn.com/News.aspx?NewsID=1843111
+added: '2026-08-22'
+updated: '2026-08-22'

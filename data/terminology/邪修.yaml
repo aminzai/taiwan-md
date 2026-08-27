@@ -1,0 +1,29 @@
+id: 邪修
+category: slang
+subcategory: 網路與社群
+fork_type: C
+display:
+  taiwan: 歪招 / 偷吃步 / 野路子
+  china: 邪修（邪修做飯、邪修健身）
+etymology:
+  origin: 原是中國修仙／修真小說的設定用語，指不走正統功法、靠禁忌手段快速提升修為的修士。2025 年被網友挪用轉義，指「離譜但高效、反正規步驟卻管用」的生活方法——邪修做飯（用養樂多做叉燒、冰淇淋加麵粉做蛋糕）、邪修健身、邪修學習。在小紅書累積超過 4.5 億瀏覽，2025 年 9 月連中國官媒《人民論壇》都發評論分析它為何走紅。
+  taiwan_path: 台灣沒有現成的單詞對應。語感最近的是台語底的「偷吃步」（走捷徑、取巧），描述性說法有「歪招」「野路子」「亂做但有用」。
+  china_path: 修真小說術語 → 小紅書生活技巧標籤 → 擴散到健身、學習、美妝、二次元各圈層。
+  fork_point: '~2025'
+  fork_cause: 中國網文世界觀詞彙被日常化改造，經小紅書標籤化擴散；台灣接觸管道是美妝與料理短影音。
+usage:
+  example: 這種做法很偷吃步，但真的有效。
+  note: 台灣沒有單一對應詞；「偷吃步」是語感最近的台語底詞彙。
+  taiwan_formal: false
+  taiwan_casual: false
+status: emerging
+notes: |
+  觀察詞：2026-08 已出現在台灣 Threads（一則貼文 3,495 讚，作者自陳「以台灣的語言很難找到替代詞」），
+  另有台灣網友在問「為什麼現在一堆美妝影片都在講邪修」，屬於正在進入台灣但尚未落地的階段。
+  值得注意的是台語本有的「偷吃步」語感其實很接近，是現成可用的台灣說法。
+sources:
+  - https://www.rmlt.com.cn/2025/0920/739943.shtml
+  - https://www.i-media.tw/Article/Detail/41162
+  - https://www.threads.com/@fy101099/post/DQXD1PGAaUu
+added: '2026-08-22'
+updated: '2026-08-22'

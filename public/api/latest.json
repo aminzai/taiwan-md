@@ -1,276 +1,276 @@
 {
-  "_generated": "2026-08-17T22:13:13.506Z",
+  "_generated": "2026-08-22T22:12:50.440Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
       {
-        "title": "生活市集：從一至兩萬件精選商品，走向什麼都能買的電商平台",
-        "desc": "2013 年成立的生活市集，從生活用品垂直電商起家，曾以精選與價格切入市場，後來跨向食品、3C與海外直送。它真正的難題，是平台變大之後，如何讓「精選」仍然被消費者感覺得到。",
-        "category": "economy",
-        "href": "/economy/%E7%94%9F%E6%B4%BB%E5%B8%82%E9%9B%86",
-        "date": "2026-08-16T08:58:44+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "亞泥新城山礦場：一紙展限撤銷，山下的部落仍在等安全答案",
-        "desc": "1957 年取得礦權、1974 年開始開採的花蓮新城山礦場，2017 年獲准再挖 20 年，卻因未先完成原住民族諮商同意而在 2021 年遭最高行政法院撤銷展限。判決改變了程序，沒有立刻讓爆破停止；2026 年補辦環評時，安全、還地與關場計畫仍由部落繼續追問。",
+        "title": "魚港不只出海：台灣漁業如何被試驗船、魚市場與一群技術人才重新做出來",
+        "desc": "從日治水產試驗與凌海丸、八斗子與高雄魚市場，到戰後技術人才、美援遠洋漁業與東石漁村，追蹤台灣漁業如何在港口、冷藏、教育、資金與地方生活之間變形。",
         "category": "history",
-        "href": "/history/%E4%BA%9E%E6%B3%A5%E6%96%B0%E5%9F%8E%E5%B1%B1%E7%A4%A6%E5%A0%B4%E4%BA%8B%E4%BB%B6",
-        "date": "2026-08-15T17:13:46+08:00",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E6%BC%81%E6%A5%AD%E8%B5%B7%E6%BA%90",
+        "date": "2026-08-22T09:13:23+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "台灣土地改革：農民拿到土地，地主的地卻變成了另一種資本",
-        "desc": "1950年代三階段土地改革讓佃農成為自耕農，也把地主補償、共有地爭議與農業資本轉向工業的矛盾一起寫進台灣經濟起飛的起點。",
+        "title": "1935 新竹臺中地震：清水全滅之後，街道如何學會記住地震",
+        "desc": "1935 年 4 月 21 日清晨 6 時 2 分，芮氏規模 6.9 的地震從關刀山附近撕開新竹州與臺中州，造成 3,279 人死亡、11,976 人受傷，17,927 戶房屋全毀。清水地方人士楊肇嘉用名片寫下「清水全滅」，黃旺成在日記裡記錄家人逃到深井旁。震災後的復興委員會、鐵路修復、市區改正與地震觀測，讓一場災難變成新的治理秩序，也留下誰有權決定安全的問題。",
         "category": "history",
-        "href": "/history/%E5%8F%B0%E7%81%A3%E5%9C%9F%E5%9C%B0%E6%94%B9%E9%9D%A9",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "嘉南大圳：水不夠種滿所有田，才有了三年輪作",
-        "desc": "1920 年開工、1930 年完工的嘉南大圳，把烏山頭水庫與 1 萬多公里水路接進嘉南平原，曾支撐約 15 萬公頃農地。它最值得理解的地方，不是八田與一的單人傳記，而是水不夠時，農民如何共同承擔分配。",
-        "category": "history",
-        "href": "/history/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "蘭嶼的核廢料：說好 2002，留下四十年的黃色桶子",
-        "desc": "1982 年，低放射性廢棄物被送進達悟族人的家園；1998 年，族人以「驅逐惡靈」要求搬走，台電也曾承諾 2002 年底前遷出。四十多年後，蘭嶼留下的不只是一座貯存場，而是一場關於安全、同意與誰能決定家園的未完協商。",
-        "category": "history",
-        "href": "/history/%E8%98%AD%E5%B6%BC%E6%A0%B8%E5%BB%A2%E6%96%99",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "漯底山：53 公尺高的海濱泥火山，軍事禁區留下的月世界",
-        "desc": "高雄彌陀的漯底山以泥岩惡地、兩個小型噴泥口與戰地遺跡並存，走一圈約 2 公里的步道，看見海岸地景如何被軍事管制保存下來。",
-        "category": "geography",
-        "href": "/geography/%E6%BC%AF%E5%BA%95%E5%B1%B1",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "台灣 VTuber：V皮之外，誰在把虛擬偶像帶進現實？",
-        "desc": "2017 年 Yahoo TV 推出虎妮，台灣 VTuber 從企業內容實驗走到 2025 年累計逾 3,000 位出道。它既讓高雄林小姐在不露臉的前提下做政治時事直播，也讓南一與公視把角色帶進教育和公共內容；與此同時，本土創作者仍在日本企業勢的成熟產業鏈與台灣觀眾的互動習慣之間找路。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3VTuber",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "原住民族姓名：從親名到「豆」「風」，名字如何寫下關係",
-        "desc": "原住民族姓名不只由個人名構成，還可能連著親名、氏族名、家屋名與生命階段。賽夏族「豆」「風」等少見漢姓，保存了氏族名、歷史登記與家族記憶交會後的線索。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%A7%93%E5%90%8D",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "台灣獸迷文化：從網路社群走進公共場域",
-        "desc": "台灣獸迷如何從二○○○年代的網路社群，走進高雄圖書館與跨國年會，在角色創作、獸裝、組織與公益之間建立自己的公共性。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E7%8D%B8%E8%BF%B7%E6%96%87%E5%8C%96",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "噶瑪蘭族：香蕉絲與重新被叫回的名字",
-        "desc": "從蘭陽平原的河海聚落、1878 年加禮宛戰役到 2002 年復名，噶瑪蘭族如何用族語、祭儀、海岸生活與香蕉絲編織，把曾被行政分類抹去的族名帶回家庭、部落與公共記憶。這篇文章也區分官方認定、族人認同與文化復振三個不同層次，說明復名之後仍未結束的身分與傳承問題。",
-        "category": "culture",
-        "href": "/culture/%E5%99%B6%E7%91%AA%E8%98%AD%E6%97%8F",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "茄芷袋：從後壁石碖到巴黎，一只常民提袋如何被世界認出",
-        "desc": "2024 年巴黎文化奧運的 500 份茄芷袋禮包一小時內發送完畢。它從臺南後壁的藺草與石碖出發，歷經尼龍網布與設計轉譯；真正被帶上國際舞台的，不是被洗白的鄉愁，而是一段仍可辨認的常民勞動。",
-        "category": "culture",
-        "href": "/culture/%E8%8C%84%E8%8A%B7%E8%A2%8B",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "阿美族年齡階級：替時代命名的部落制度",
-        "desc": "從 3 至 5 歲一組的共同訓練，到以「電腦」「民國」與地方事件命名的年齡組，阿美族把公共工作、祭典秩序與歷史記憶交給一套會隨時代改寫的制度；當這套制度進入都市，傳承也開始面對族語流失與表演化的考驗。",
-        "category": "culture",
-        "href": "/culture/%E9%98%BF%E7%BE%8E%E6%97%8F%E5%B9%B4%E9%BD%A1%E9%9A%8E%E7%B4%9A",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 10,
-        "image": "https://aborgpedia.alcd.center/?option=com_fileman&view=file&routed=1&name=%E9%98%BF%E7%BE%8E%E6%97%8F-1.jpg&folder=%E6%97%8F%E7%BE%A4%E9%A1%9E%E5%B1%AC%2F%E9%98%BF%E7%BE%8E%E6%97%8F&container=fileman-files"
-      },
-      {
-        "title": "烏魚子：冬至前的一封海上來信，怎麼被鹽壓成了年節的金黃",
-        "desc": "烏魚被西部沿海漁民叫作「信魚」，帶來冬至前後短暫的收成。烏魚子把一對卵巢交給去血、鹽漬、壓製與乾燥；口湖養殖、沿近海魚汛與產地標示的拉扯，讓這片金黃不只是年菜，也是一段台灣西岸回應海況與時間的技藝。",
-        "category": "food",
-        "href": "/food/%E7%83%8F%E9%AD%9A%E5%AD%90",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 12,
-        "image": "https://www.taiwan-panorama.com/s3/tw-panorama.com/Uploads/2023/01/61028450-37eb-4649-ad08-c3cd033bb7bf/14.jpg?w=1080&mode=crop&format=webp&quality=80"
-      },
-      {
-        "title": "燒臘便當：香港師傅帶來的手藝，怎麼變成台灣人的三菜一肉",
-        "desc": "1967 年，麥幸夫在台北武昌街以東陽燒臘行起家；1988 年，新東陽從香港延攬燒臘師傅，讓掛在玻璃櫃裡的叉燒、燒肉與油雞走進便當盒。這不是一段單純的移植史：香港的燒味技藝，最後被台灣人的配菜、價格與外帶習慣重新編排，成為街角最熟悉的異鄉味。",
-        "category": "food",
-        "href": "/food/%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": null,
-        "image": "https://img.youtube.com/vi/_idnM8SSQ6c/0.jpg"
-      },
-      {
-        "title": "總統府：一座總督府辦公樓，如何變成民主的開放現場",
-        "desc": "1912 年動工、1919 年落成的總統府，曾是殖民政府的權力象徵、戰後的介壽館，也曾在戒嚴時期成為禁區。它今天仍是總統辦公的地方，卻也讓一般人排隊走進去，讓建築的每一面牆都碰到台灣不同時代的記憶。",
-        "category": "art",
-        "href": "/art/%E7%B8%BD%E7%B5%B1%E5%BA%9C",
-        "date": "2026-08-15T17:13:46+08:00",
+        "href": "/history/1935%E6%96%B0%E7%AB%B9%E8%87%BA%E4%B8%AD%E5%9C%B0%E9%9C%87",
+        "date": "2026-08-22T09:08:08+08:00",
         "readingTime": 10,
         "image": ""
       },
       {
-        "title": "Threads 在台灣：從「我吃一點」到埃及學生證，一條動態牆怎麼長成數位夜市",
-        "desc": "2025 年底，一張在埃及人面獅身像附近拾得的台大學生證，在 Threads 上被轉成跨國協尋；同一面動態牆裡，日韓旅客的美食照會招來「你好，我吃一點」貓咪。台灣的「脆」把廢文、互助、迷因與公共討論擠在一起，讓陌生人短暫坐上同一桌，再把故事接力送遠。",
-        "category": "technology",
-        "href": "/technology/Threads%E5%9C%A8%E5%8F%B0%E7%81%A3",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 45,
-        "image": ""
-      },
-      {
-        "title": "吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼",
-        "desc": "1982 年出生台北的吳季剛，5 歲開始替洋娃娃做衣服，2009 年讓蜜雪兒．歐巴馬穿上他的白色禮服。台灣教室用他的故事談性別刻板印象，但更該問的是：孩子何以要先成功，才被允許自在喜歡洋娃娃？",
+        "title": "蔡黑皮：那個背著捷運站名長大的男孩，把台灣裝進了 26 萬人的訂閱",
+        "desc": "2002 年出生的蔡覲安，從高中自學拍「捷運冷知識」起家，十二年後站上被稱為「交通界奧斯卡」的金路獎頒獎台。他改名、停更、再出發，一手包辦資料、地圖與剪輯，是台灣知識型創作者長期主義的樣本。",
         "category": "people",
-        "href": "/people/%E5%90%B3%E5%AD%A3%E5%89%9B",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 16,
-        "image": ""
+        "href": "/people/%E8%94%A1%E9%BB%91%E7%9A%AE",
+        "date": "2026-08-22T09:05:46+08:00",
+        "readingTime": 13,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/2017-10-23_MRT_train_at_Platform%2C_Tamsui_Line.jpg"
       },
       {
-        "title": "呂捷：從一個被迴避的二二八提問，到二十八堂臺灣史",
-        "desc": "從海產店面談走上補教講臺，呂捷用故事推動正課，卻也要求學生回到史料、史實與史觀。",
+        "title": "鐵牛：一個反性侵宣導片的「杰哥」，成了他十年的人生",
+        "desc": "伍嘉緯 2012 年以素人身分演出教育部反性侵宣導片《如果早知道男生也會被性侵》的「杰哥」意外爆紅;他一度排斥這個角色、想過開挖土機，如今迷因成了他的飯碗，也把「杰哥」送上台灣首部迷因音樂劇的舞台。一條宣導片沒教完的課，迷因替他教了十年。",
         "category": "people",
-        "href": "/people/%E5%91%82%E6%8D%B7",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師",
-        "desc": "從 2009 年紐約被媒體追訪，到 2016 年在台南開設牙醫診所，陳幸妤如何在政治家庭的注視下，把生活帶回牙醫專業？",
-        "category": "people",
-        "href": "/people/%E9%99%B3%E5%B9%B8%E5%A6%A4",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "黃土水：一尊從失蹤中回來的臺灣現代雕塑",
-        "desc": "他在東京學會西洋雕塑，卻在異鄉的目光裡逐步找到臺灣；一件失蹤七十年的大理石作品，讓這段藝術史重新現身。",
-        "category": "people",
-        "href": "/people/%E9%BB%83%E5%9C%9F%E6%B0%B4",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 8,
-        "image": "https://collections.culture.tw/files/12/JPG640/111009430000.JPG"
-      },
-      {
-        "title": "學測：一場只考三天，卻把高中三年折成一張分數表的考試",
-        "desc": "從 1954 年聯考、1994 年學測到今日的分科測驗，理解台灣大學入學制度如何在單一標準與多元選才之間調整，也釐清學測、分科測驗與重考的不同路徑。",
-        "category": "society",
-        "href": "/society/%E5%AD%B8%E6%B8%AC",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "口罩國家隊：40 天把 92 條產線接起來，台灣製造如何在危機裡換檔",
-        "desc": "2020 年口罩短缺時，台灣把工具機、紡織、軍方與政府接成一條供應鏈，40 天完成 92 條產線。真正值得記住的，是這套平時分散、危機時能協作的製造能力。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣垃圾車文化：當世界名曲變成公民社會的集體召喚",
-        "desc": "從貝多芬的《給愛麗絲》到巴達澤夫斯卡的《少女的祈禱》，台灣街頭響起的垃圾車旋律不只是清運信號，更是一場歷時半世紀、塑造全球罕見高回收率與獨特鄰里凝結力的社會行為實驗。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%9E%83%E5%9C%BE%E8%BB%8A%E9%9F%B3%E6%A8%82",
-        "date": "2026-08-15T17:13:46+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "小綠人：從倒數計時到交通訊號的邊界",
-        "desc": "小綠人出現之前，行人先讀的是靜態紅、綠人形；臺北把它變成倒數動畫後，它又成為地方創意、都市傳說與交通安全辯論的載體。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%B0%8F%E7%B6%A0%E4%BA%BA",
-        "date": "2026-08-15T17:13:46+08:00",
+        "href": "/people/%E9%90%B5%E7%89%9B%E6%9D%B0%E5%93%A5",
+        "date": "2026-08-22T09:05:41+08:00",
         "readingTime": 11,
         "image": ""
       },
       {
-        "title": "台灣鐵路便當：把一段漫長旅程裝進圓盒裡",
-        "desc": "1914 年月台叫賣、1956 年沒有餐車的飛快車、1961 年先炸後滷的排骨，以及 2000 年重新排隊的懷舊便當：一份為移動而生的餐點，如何變成台灣共同記憶。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E9%90%B5%E8%B7%AF%E4%BE%BF%E7%95%B6",
-        "date": "2026-08-15T17:07:58+08:00",
+        "title": "彈珠檯：從香腸攤到機械記憶",
+        "desc": "從 1960 年代香腸攤旁的木製珠仔臺出發，追蹤台灣夜市如何把食物、機率與手感裝進同一張斜板，也對照歐美 pinball 從賭博疑雲、機械創新到博物館保存的轉折。",
+        "category": "culture",
+        "href": "/culture/%E5%BD%88%E7%8F%A0%E6%AA%AF",
+        "date": "2026-08-22T09:03:25+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "櫻花鉤吻鮭：冰河孑遺的歸鄉路，從瀕危到流域整體保育的台灣奇蹟",
-        "desc": "1917年，日本學者大島正滿在台灣發現冰河孑遺生物「櫻花鉤吻鮭」，泰雅族稱之為「Mnbang」。歷經棲地破壞與族群銳減至1995年僅200餘尾的危機，透過拆壩、人工復育與創新「無水運輸」技術，至2023年達1.8萬尾高峰，近年雖有波動，但已穩定維持在1.5萬尾以上，成為台灣流域整體保育的成功典範。",
-        "category": "nature",
-        "href": "/nature/%E6%AB%BB%E8%8A%B1%E9%89%A4%E5%90%BB%E9%AE%AD",
-        "date": "2026-08-15T16:29:46+08:00",
-        "readingTime": null,
+        "title": "台灣高鐵：從 BOT 財務實驗到西部走廊的日常",
+        "desc": "台灣高鐵不只是把台北到高雄縮短成一個半小時，也是一次從民間 BOT、技術切換到公共承擔的制度實驗；它如何改變西部走廊，仍取決於財務、接駁與站區。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E9%AB%98%E9%90%B5",
+        "date": "2026-08-22T09:02:15+08:00",
+        "readingTime": 18,
         "image": ""
       },
       {
-        "title": "陳致中：從第一家庭光環到「排黑條款」下的政治浮沉",
-        "desc": "2008年，陳致中因海外洗錢案被迫中斷學業返台，開啟他與司法爭議交織的政治生涯。他曾兩度以選區最高票當選高雄市議員，卻也三度因案解職。2023年「排黑條款」通過後，其政治之路看似終結，他卻轉向 Threads 等社群平台，與父親陳水扁以「Water」等幽默互動，展現出非典型的父子關係與數位回歸。",
+        "title": "原住民族正名運動：從「山胞」到憲法中的集體主體",
+        "desc": "1990 年代的原住民族正名運動，表面上是更換一個稱呼，實際上同時要求國家承認誰有權命名、誰能作為政治主體、誰的土地與自治權必須被制度看見。從 1984 年原住民族權利促進組織成立，到 1991 年與 1992 年修憲抗爭，直到 1994 年「原住民」與 1997 年「原住民族」寫入憲法，這段歷史由部落組織、教會、國大代表、立法委員與體制外抗爭共同推動，制度痕跡也保留了彼此拉扯的過程。",
+        "category": "politics",
+        "href": "/politics/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%A3%E5%90%8D",
+        "date": "2026-08-22T09:00:34+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "三度C：把冷水澡的三度，剪成一條百萬訂閱的路",
+        "desc": "謝孟航從美髮科學生走到百萬 YouTuber，再把迷因、挑戰與影像製作接回同一套創作現場的故事",
         "category": "people",
-        "href": "/people/%E9%99%B3%E8%87%B4%E4%B8%AD",
-        "date": "2026-08-15T16:29:46+08:00",
+        "href": "/people/3%E5%BA%A6C",
+        "date": "2026-08-22T08:58:23+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "咖波：一隻不像貓的貓，如何變成台灣人的聊天語言",
-        "desc": "從 2014 年的原創貼圖到漫畫、遊戲、展覽與咖波屋，亞拉如何讓一隻像貓又像蟲的角色，住進台灣人的日常對話。",
-        "category": "culture",
-        "href": "/culture/%E5%92%96%E6%B3%A2",
-        "date": "2026-08-15T16:21:54+08:00",
-        "readingTime": 6,
-        "image": "/article-images/culture/capoo-taipei-station-2025.jpg"
+        "title": "台中捷運：一條等了三十年的綠線，先學會如何被相信",
+        "desc": "2020 年 11 月，盧秀燕宣布台中第一條捷運進入試營運。16.7 公里的綠線連起北屯、台中高鐵與 18 座車站，卻在第 6 天因聯結器故障停駛，後來又遇到工地吊臂墜落事故。台中捷運的故事不只是一條軌道如何完成，也是一座長期依賴汽機車的城市，如何用安全、轉乘與一次次修正換回乘客的信任。",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E4%B8%AD%E6%8D%B7%E9%81%8B",
+        "date": "2026-08-22T08:55:56+08:00",
+        "readingTime": 8,
+        "image": ""
       },
       {
-        "title": "台灣科技說故事：100 分的晶片，60 分的麥克風",
-        "desc": "台灣做得出一百分的晶片，卻習慣用供應商簡報的語氣講它。同一顆晶片，高通講成神話、聯發科講成規格表；NVIDIA 一顆都不親手做，淨利卻是代工方的兩倍。這 40 分的差距，市場早就把帳算好了，而且帳單就印在淨利率上。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E8%AA%AA%E6%95%85%E4%BA%8B",
-        "date": "2026-08-15T16:21:54+08:00",
+        "title": "丁日昌：一條電報線背後，沒完成的臺灣海防藍圖",
+        "desc": "1876 年渡海治理臺灣的丁日昌，把電報、鐵路、煤礦、墾殖、撫番與海防放進同一張藍圖。電報線在 1877 年完成，鐵路與鐵甲船卻卡在經費、制度和時間裡。本文從奏摺、官方檔案、學術研究與地方遺物交叉閱讀，說明這位晚清官員如何看見臺灣的系統性問題，也說明一張藍圖為何只能完成其中一小段。",
+        "category": "people",
+        "href": "/people/%E4%B8%81%E6%97%A5%E6%98%8C",
+        "date": "2026-08-22T08:55:37+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "中壢：桃園市裡的另一個城市，為什麼有人說中壢不是桃園？",
+        "desc": "中壢行政上是桃園市的一區，生活上卻常被當成南桃園的另一個城市核心。從澗仔壢、桃園縣中壢市到直轄市中壢區，完整理解它的歷史、交通、校園、產業、族群、老街溪、飲食與地方認同，也就能理解「中壢與桃園不同」並不只是鬥嘴，而是行政名稱、城市生活圈與南北桃園區域化長期交疊的結果。",
+        "category": "economy",
+        "href": "/economy/%E4%B8%AD%E5%A3%A2",
+        "date": "2026-08-22T08:55:18+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/City_of_Zhongli%2C_Taiwan.jpg"
+      },
+      {
+        "title": "八炯：從攝影機到凱道，當揭露統戰的人也成為政治訊息",
+        "desc": "2024 年 12 月，八炯與陳柏源把廈門台青基地、創業基金與網紅招募搬進台灣公共討論。之後他走上凱道、面對恐嚇與泉州懸賞。這不是單純的反共網紅故事，而是一個創作者如何在揭露、動員與被命名之間失去中立位置。",
+        "category": "people",
+        "href": "/people/%E5%85%AB%E7%82%AF",
+        "date": "2026-08-22T00:55:46+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "民主進步黨成立：圓山飯店裡，黨外如何把禁忌變成組織",
+        "desc": "1986 年 9 月 28 日，黨外人士在台北圓山大飯店宣布成立民主進步黨。這不是一場單純的黨名發布會，而是地方選舉、政論刊物、服務處、街頭運動與國會內質詢累積後的組織冒險。文章回到戒嚴末期的結社限制，重建公政會、編聯會、秘密組黨小組與圓山大會之間的連接，並說明組黨如何打開政黨競爭的入口，卻沒有在當天完成民主化。",
+        "category": "society",
+        "href": "/society/%E6%B0%91%E4%B8%BB%E9%80%B2%E6%AD%A5%E9%BB%A8%E6%88%90%E7%AB%8B",
+        "date": "2026-08-21T23:41:32+08:00",
         "readingTime": 16,
-        "image": "/article-images/technology/tsmc-fab-14b-2025.webp"
+        "image": ""
       },
       {
-        "title": "帝雉：千元鈔背面的王者，愈容易遇見愈要退一步",
-        "desc": "1906 年，古費洛從鄒族頭飾上的兩根黑白尾羽辨認出帝雉。牠後來登上千元鈔票，成為台灣高山最容易被記住的特有鳥類。但 2024 年鳥類紅皮書的「暫無危機」，與法律上的珍貴稀有保育類身分並不矛盾。大雪山和塔塔加真正該練習的，是遇見牠時退一步。",
-        "category": "nature",
-        "href": "/nature/%E5%B8%9D%E9%9B%89",
-        "date": "2026-08-14T18:58:16+08:00",
+        "title": "六福村：一座先有動物、後長出雲霄飛車的樂園",
+        "desc": "1979 年，莊福在新竹關西用 73 公頃土地開了一座放養型野生動物公園。十五年後，四個異國主題村與刺激設施陸續加入，六福村把看動物和追求失重放進同一天，也把娛樂、教育、動物福利與公共安全放在同一個管理現場。這座樂園的反差在於：越成功地把生命做成旅程，就越不能只用遊樂園的標準管理它。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%85%AD%E7%A6%8F%E6%9D%91",
+        "date": "2026-08-21T23:28:57+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "韋宗成：把三峽的妖怪畫進西門町，讓媽祖走出漫畫格",
+        "desc": "2009 年，《馬皇降臨》讓韋宗成從同人圈走進職業漫畫，2010 年開始連載的《冥戰錄》則把三峽、西門町、道教與媽祖帶進少年冒險。反直覺的是，他不是先設計「台灣味」再填故事，而是先畫市場、公車與身邊傳說，地方才從日常細節裡長成一個能登上花燈與歌仔戲舞台的世界，也讓漫畫角色獲得離開紙面的生命，成為理解台漫產業與信仰再現的入口。",
+        "category": "people",
+        "href": "/people/%E9%9F%8B%E5%AE%97%E6%88%90",
+        "date": "2026-08-21T22:39:41+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "林心如：從紫薇的臉到製作人的計算機",
+        "desc": "1998 年《還珠格格》讓林心如成為紫薇，2009 年她成立工作室，2015 年以《16個夏天》拿下金鐘戲劇節目獎，2021 年又用 2.5 億元把林森北路條通搬上 Netflix。她從紐約表演課、世新碩士班一路回到片場，真正的轉身不是離開鏡頭，而是開始替一整齣戲承擔每一個鏡頭與每一個人的位置。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E5%BF%83%E5%A6%82",
+        "date": "2026-08-21T21:56:30+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "307公車：不用上高速公路承載很多人的童年",
+        "desc": "1969 年的大有 12 路，後來變成往返松山、台北車站、西門町、中和與板橋的 307。它不用上高速公路，卻把商辦、學校、菜市場與放學回家的路接在一起。從三段票到兩段票，從大有巴士到今天的聯營車隊，2024 年它仍載著 1,639 萬人次，也把不同世代的城市記憶留在地面街道。文章追蹤路線沿革、營運數據與車輛更新。",
+        "category": "lifestyle",
+        "href": "/lifestyle/307taipeibus",
+        "date": "2026-08-21T21:42:23+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "韓國人在台灣：從高雄韓僑學校到手機螢幕的生活網絡",
+        "desc": "韓國人在台灣並不只是一群被看見的網紅，而是由高雄老社群、雙語教育、青年交流、境外生與家庭共同織成的日常。",
+        "category": "society",
+        "href": "/society/%E9%9F%93%E5%9C%8B%E4%BA%BA%E5%9C%A8%E5%8F%B0%E7%81%A3",
+        "date": "2026-08-21T21:37:49+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "肌肉山山：從通化夜市的一杯木瓜牛奶，到超商貨架上的韓味",
+        "desc": "2023 年，肌肉山山在通化夜市第一次以定居台灣後的身分拍片，木瓜牛奶讓他想帶回韓國賣。三年後，他把韓式拌飯、春川炒雞與雞胸蛋白餐放進萊爾富，也從旅遊鏡頭走進房貸與移居制度。這條路最有意思的地方，不是韓國味被搬來台灣，而是「外國人看台灣」最後變成台灣人每天買得到的日常生活。",
+        "category": "people",
+        "href": "/people/%E8%82%8C%E8%82%89%E5%B1%B1%E5%B1%B1",
+        "date": "2026-08-21T21:34:05+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣賽鴿：為了人人有機會，讓幼鴿飛進一場沒有裁判的風",
+        "desc": "台灣賽鴿把幼鴿海翔、鴿舍技術、私人鴿會、產業鏈與下注放進同一套規則。這套制度用高風險製造人人有機會的公平想像，卻也把迷途、失聯與賽後棄養的代價交給第一次上場的幼鴿，留下動物福利、公共治理、地方社會與責任追蹤的難題。",
+        "category": "society",
+        "href": "/society/%E8%B3%BD%E9%B4%BF",
+        "date": "2026-08-21T21:03:10+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "聖凱師：從蒸蛋短片到冷凍年菜，料理網紅的信任成本",
+        "desc": "黃聖凱從十六歲端盤子、二十四歲借貸開餐廳，到用一支蒸蛋影片走進百萬粉絲的手機。聖凱師的故事不只關於餐飲創業如何被內容放大，也關於當料理從廚房變成冷凍商品，觀眾的信任如何變成品牌必須負擔的品質責任。",
+        "category": "people",
+        "href": "/people/%E8%81%96%E5%87%B1%E5%B8%AB",
+        "date": "2026-08-21T21:00:27+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "西螺大橋：十五年停擺，七個月把南北接起來",
+        "desc": "1937 年，濁水溪上的橋先完成了 32 座橋墩，橋身卻被戰爭留下的鋼鐵短缺卡住。十五年後，美援鋼材、地方請願與跨國工程隊伍在 1952 年七個月內把它接完。西螺大橋因此不只是遠東第一長橋，也是一段戰後台灣把交通、冷戰、臺糖運輸與地方記憶疊在同一條鋼桁架上的歷史。如今它仍在使用，也持續面對保存與安全的選擇。",
+        "category": "history",
+        "href": "/history/%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B",
+        "date": "2026-08-21T20:52:06+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "板南線：把兩座城市縫在地下的 26.5 公里",
+        "desc": "1999 年 12 月 24 日，板南線先把西門、龍山寺與市政府接在一起，後來再延伸到頂埔與南港展覽館。這條 23 站、26.5 公里的地下線，改寫了板橋、台北與南港之間的通勤時間、商業流量、步行路徑與土地想像，也留下誰承接人流、誰承擔改變，以及最後 500 公尺如何被走完的問題。",
+        "category": "geography",
+        "href": "/geography/%E6%9D%BF%E5%8D%97%E7%B7%9A",
+        "date": "2026-08-21T20:37:35+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Cheap：用《世紀帝國》講歷史的人，最後走到斑馬線上",
+        "desc": "2021 年，Cheap 用《世紀帝國》的戰爭畫面講各國歷史，頻道已有 81 萬訂閱。2023 年，他站上凱道號召還路於民，後來又在疑似內容抄襲與力挺 Joeman 的爭議中回應觀眾。從歷史說書到公共倡議，他必須面對同一個問題：聲量能打開入口，卻不能代替查證、一致的責任與面對被捲入者的分寸。",
+        "category": "people",
+        "href": "/people/Cheap",
+        "date": "2026-08-21T20:03:19+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "國家圖書館：一座圖書館如何把島嶼的出版物保存成國家的記憶",
+        "desc": "國家圖書館不只是安靜的閱覽室，而是台灣出版品從發行、送存、編目、保存到數位再利用的公共基礎設施。本文從法定送存制度、戰時遷徙、臺灣記憶、古籍與政府出版品典藏，以及電子書和學位論文的數位保存出發，說明一座國家圖書館如何把每天看似短暫的出版行為轉成可被後人查證的集體記憶，也處理保存、公開、版權與數位格式之間沒有簡單答案的拉扯。",
+        "category": "culture",
+        "href": "/culture/%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8",
+        "date": "2026-08-21T19:57:56+08:00",
+        "readingTime": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ROC_National_Central_Library_headquarters_20090801.jpg/1280px-ROC_National_Central_Library_headquarters_20090801.jpg"
+      },
+      {
+        "title": "文湖線：一條捷運如何把失敗變成城市的日常",
+        "desc": "文湖線前身木柵線曾被火燒車、爆胎、帽梁裂縫與合約爭議包圍，卻也因此逼出台灣第一套捷運營運與維修能力。",
+        "category": "geography",
+        "href": "/geography/%E6%96%87%E6%B9%96%E7%B7%9A",
+        "date": "2026-08-21T19:55:27+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "林佳辰：從地球團寫詞到早餐店迷因舞，把偶像的整齊唱成自己的鬆弛",
+        "desc": "2022 年，林佳辰以《原子少年》地球團成員身分走進大眾視線，並參與決賽曲填詞。2026 年，他在房間完成〈Love Me Again〉Demo，從搖滾吶喊走向台北夜巷的早餐店舞步。這條路最有意思的地方，是他不是離開偶像框架，而是在框架裡把生活感寫回舞台，讓團體經驗成為個人創作的底色。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E4%BD%B3%E8%BE%B0",
+        "date": "2026-08-21T19:52:26+08:00",
+        "readingTime": 6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Taiwan.nch.ntnu.apo-hsu.2005-10a.altonthompson.jpg"
+      },
+      {
+        "title": "臺灣瘧疾根除：連日清與一套把蚊子納入治理的公共衛生工程",
+        "desc": "1946 年潮州瘧疾研究中心成立，連日清從顯微鏡下的蚊蟲走進臺灣防疫現場。1965 年 WHO 認證臺灣無瘧疾，這段歷史牽涉外援、本地研究、家屋噴藥、地方衛生與國家動員，也留下根除後仍須監測病媒與境外移入病例的公共衛生課題，並照見戰後治理如何進入日常生活。",
+        "category": "history",
+        "href": "/history/%E7%98%A7%E7%96%BE%E6%A0%B9%E9%99%A4",
+        "date": "2026-08-21T19:49:03+08:00",
         "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "台灣義消：下班後穿上制服，地方才有第二支消防隊",
+        "desc": "義消被稱作志工，卻有法定編組、專業訓練、勤務指揮與救災保險。從日治消防組到今日的山域搜救，這套地方力量如何補上消防體系的時間差，也暴露招募、訓練、安全裝備、家庭支持與長期留任的課題。",
+        "category": "society",
+        "href": "/society/%E7%BE%A9%E6%B6%88",
+        "date": "2026-08-21T19:44:48+08:00",
+        "readingTime": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Taipei_Taiwan_Firefighting-truck-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      },
+      {
+        "title": "台灣漁業現代化：一張漁網如何連起前鎮、三大洋與一座島的飯桌",
+        "desc": "從日治時期的漁政、戰後前鎮漁港與冷凍設備，到 1979 年遠洋漁業發展方案、1982 年專屬經濟海域制度與 2005 年國際制裁，追蹤台灣漁業如何由沿海討海轉成跨洋產業。文章也整理漁業學校、水產試驗、養殖出口、漁村家庭、港口多元化與船旗國責任，說明產量成長背後的資源、勞動、地方治理與國際規則。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E6%BC%81%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96",
+        "date": "2026-08-21T19:41:56+08:00",
+        "readingTime": 13,
         "image": ""
       }
     ],
@@ -1353,8 +1353,8 @@
         "image": ""
       },
       {
-        "title": "Pequeño Norte Department Store: El rey de los artículos de ferretería de Taiwán bajo las luces nocturnas, de un puesto de mariscos a \"salvavidas de los padres\" durante treinta años",
-        "desc": "Fundado en 1994 en el Mercado Nocturno Pequeño Norte de Tainan, Pequeño Norte Department Store, gracias a su estrategia de \"apertura las 24 horas\" y \"vender lo que otros no venden\", se transformó de una tienda de mariscos al borde de la quiebra en el líder de ferretería con más de 190 sucursales en todo el país. Es el salvavidas nocturno de los padres, la estación de reabastecimiento del nostalgia para los trabajadores migrantes y el milagro de supervivencia más tenaz de la industria minorista de Taiwán.",
+        "title": "Pequeño Norte Department Store: El rey de los artículos generales de Taiwán en las luces nocturnas, de puesto de mariscos a \"salvavidas de los padres\" durante treinta años",
+        "desc": "Fundado en 1994 en el Mercado Nocturno Pequeño Norte de Tainan, Pequeño Norte Department Store, gracias a su estrategia de \"apertura las 24 horas\" y \"vender lo que otros no venden\", se transformó de una tienda de mariscos al borde de la quiebra en el líder de ferretería con más de 190 sucursales en todo el país. Es el salvavidas nocturno de los padres, la estación de reabastecimiento del nostalgia para los trabajadores migrantes y el milagro de supervivencia más resistente de la industria minorista de Taiwán.",
         "category": "lifestyle",
         "href": "/es/lifestyle/xiaobei-department-store",
         "date": "2026-07-27T22:09:24+08:00",
@@ -1616,8 +1616,8 @@
         "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
       },
       {
-        "title": "Les feuilletons de 20h : Une allumette locale, foyer du culte et de la nostalgie dans le salon taïwanais",
-        "desc": "Des drames larmoyants de Qiong Yao dans les années 1990 aux mèmes de *Thunder Fire* dans les années 2000, les feuilletons de 20h constituent non seulement le bruit de fond environnemental des Taïwanais, mais représentent aussi un miracle industriel « filmé et diffusé en temps réel » synchronisé avec la réalité.",
+        "title": "Prime Time : une allumette, le culte et la nostalgie des salons taïwanais",
+        "desc": "Des mélodrames de Qiong Yao des années 1990 aux mèmes \"Pili-huo\" des années 2000, les feuilletons de 20h ne sont pas seulement un bruit de fond à Taïwan, mais un miracle industriel de production en direct synchronisé avec la réalité.",
         "category": "culture",
         "href": "/fr/culture/taiwan-prime-time-drama",
         "date": "2026-07-27T22:09:24+08:00",
@@ -1626,7 +1626,7 @@
       },
       {
         "title": "Wang Wang : Du roi des biscuits de riz au géant médiatique, une mutation du pouvoir",
-        "desc": "En 1976, Tsai Ying-ming, alors âgé de 19 ans, reprend Yilan Food, passant de « fils prodigue » moqué à plus riche Taïwanais grâce à la technologie japonaise des biscuits de riz. Après l'acquisition du groupe China Times en 2008, ce royaume des collations devient le leader médiatique le plus controversé de Taïwan, déclenchant un mouvement historique contre la monopolisation des médias.",
+        "desc": "En 1976, Cai Yanming, alors âgé de 19 ans, reprend la direction de Yilan Food, passant du statut de « fils prodigue » moqué à celui de plus grand riche du pays grâce à la technologie japonaise des biscuits. Après l'acquisition du groupe China Times en 2008, ce royaume des collations se transforme en la figure médiatique la plus controversée de Taïwan, déclenchant un mouvement sans précédent contre la monopolisation des médias.",
         "category": "economy",
         "href": "/fr/economy/want-want-group",
         "date": "2026-07-27T22:09:24+08:00",

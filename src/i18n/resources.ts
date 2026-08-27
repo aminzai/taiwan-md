@@ -4666,7 +4666,7 @@ export const resourcesUI = {
     // Meta
     'resources.meta.title': '台灣資源導覽 - Taiwan.md',
     'resources.meta.description':
-      '完整收錄台灣政府機關、文化機構、開放資料平台等官方網站，提供政策資訊、文化內容、統計數據的一站式入口',
+      '完整收錄台灣政府機關、文化機構、開放資料平台等官方網站，提供政策資訊、文化內容、統計資料的一站式入口',
 
     // Hero
     'resources.hero.title': '台灣資源導覽',
@@ -4872,7 +4872,7 @@ export const resourcesUI = {
     'resources.sub.healthcare': '醫療健康',
     'resources.sub.healthcare.desc':
       '全民健保：一張卡片、99.9% 覆蓋率、平均等待時間 15 分鐘。連美國都在研究台灣怎麼做到的。',
-    'resources.sub.finance': '金融與數據',
+    'resources.sub.finance': '金融與資料',
     'resources.sub.finance.desc':
       '台灣證交所是亞洲最透明的市場之一。從上市公司財報到即時交易數據，一切公開可查。',
     'resources.sub.civicTech': '公民科技專案',

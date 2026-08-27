@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-08-06
-last_session: '2026-08-06-manual（newsroom 健檢補登 5 條缺漏：馬祖/行道樹/EZWAY/吳明益/苯駢芘——recent_done 資料源落後 3 天的維運缺口，audit §2.4）'
+last_updated: 2026-08-23
+last_session: '2026-08-23-020617-twmd-weekly-report-sun（W34 體檢桶 1：補登 8/18-8/19 三篇走完產線卻沒登記的交付——陳致中／中央研究院／比國家還大的演算藝術，由上週新造的 §六 fail-loud 警告照出來）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -73,6 +73,32 @@ read_strategy: 'on-demand'
 - **產出教訓**：LESSONS `contract-hardcodes-growing-count`（pipeline contract 寫死語系數）；EDITORIAL §量詞隱喻 v2 家族版（哲宇 callout「帳」→ 發現把「帳」拿掉會用「算」長回來，prose-health 升級打家族不打字，9,815 檔校準真陽性 10 假陽性 0）
 - **值得記的一件事**：六席大驗證輪裡四席抓到的問題，源頭都是我自己前幾輪的修補——修補是新的錯誤來源，而且它偽裝成進步
 
+### 比國家還大的演算藝術 — 2026-08-19 algorithmic-art-evolve 完成（哲宇第一人稱長文，從工作坊逐字稿進化到深度文章）
+
+- **Article**: [knowledge/About/比國家還大的演算藝術.md](../../knowledge/About/比國家還大的演算藝術.md)
+- **Pipeline**: REWRITE-PIPELINE v9 — EVOLVE 模式（4,700 字 → 18,621 CJK 字；作者本人全程 in-loop 逐句校正語態）
+- **核心矛盾**：一個寫規則不畫畫的演算藝術家，把同一套方法拿去長一座知識庫
+- **品質**：18,621 CJK 字 / 85 腳註 / `article-health` hard=0 / 站上第 20 個視覺模組 `tw-article` 首次應用（正文嵌六張站內文章卡）
+- **Research**: [reports/research/2026-08/比國家還大的演算藝術.md](../../reports/research/2026-08/比國家還大的演算藝術.md)（＋三份 delta 報告與一份 media 報告）
+- **語態紀律**：三處語態錯位由作者本人抓到（鎢那篇的主詞、天下那句是他自己設計的橋段、「造物已活」語音辨識聽錯）——第一人稱文章的誠實下限是不寫錯，不是替作者揭露；查證住報告，聲音住正文
+
+### 中央研究院 — 2026-08-18 academia-sinica 完成（不用教書、不用招生、直屬總統府，這個設計買到的是長度）
+
+- **Article**: [knowledge/Society/中央研究院.md](../../knowledge/Society/中央研究院.md)
+- **Pipeline**: REWRITE-PIPELINE v9 — NEW（Fresh）模式，立體群像 + P6 機構傳記 spine，standard run profile；四條研究 lane 平行 + 編輯室三席 revise + 大驗證輪九席
+- **核心矛盾**：讓它握有長度的同一個設計，也讓它永遠被追問憑什麼
+- **品質**：13,485 CJK 字 / 57 腳註 / 5 個視覺化模組 / 7 張圖 / 1 支官方影片；`article-health` rewrite-stage-4 hard=0、`prose-health` hard=0 warn=0
+- **Research**: [reports/research/2026-08/中央研究院.md](../../reports/research/2026-08/中央研究院.md)
+- **大事實修正**：兩個 H2 原本各站在一個查無來源的數字上（殷墟「近七成」、科普日「十三萬人」），改用官方頁面逐字可驗的對照（17,096 片對十一部著錄 9,913 片／已連續舉辦 26 年）
+
+### 陳致中 — 2026-08-18 chen-chih-chung-rewrite 完成（從 AI 投稿 stub 走完整條 v9 產線）
+
+- **Article**: [knowledge/People/陳致中.md](../../knowledge/People/陳致中.md)
+- **Pipeline**: REWRITE-PIPELINE v9 — EVOLVE 模式（舊文 1,511 字 AI stub → 12,272 CJK 字），立體群像 + 核心矛盾為輔；六條研究 lane + 20 路 persona 稽核
+- **核心矛盾**：司法定讞沒有褫奪公權，讓他終身不能登記的是一個月後修的選罷法——兩套機制獨立
+- **品質**：12,272 CJK 字 / 62 腳註 / 全站 gate hard=0
+- **Research**: [reports/research/2026-08/陳致中.md](../../reports/research/2026-08/陳致中.md) ＋ [stage36-audit](../../reports/research/2026-08/陳致中-stage36-audit.md)
+- **敏感素材處理**：在世爭議政治人物，哲宇拍板「司法案件寫、私德案完全不進正文」，六個研究 agent 全程零檢索、正文零出現；炎上席抓到論證形狀與當事人本人申辯同構，改為主動寫出重疊讓讀者自行判斷
 ### 馬祖國際藝術島 — 2026-08-06 manual session 完成（一座沒有展館的美術館，把整座列島借來當展場）
 
 - **Article**: [knowledge/Art/馬祖國際藝術島.md](../../knowledge/Art/馬祖國際藝術島.md)

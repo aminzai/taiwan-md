@@ -1,0 +1,559 @@
+---
+/**
+ * /search — full search results page (issue #1496).
+ *
+ * idlccp1984's proposal: the Header popup stays a quick 30-result preview;
+ * this page is the shareable, fully-browsable, sortable/filterable result
+ * surface it links out to. Design report:
+ * reports/design-search-results-page-2026-08-23.md.
+ *
+ * Engine boundary (殼核邊界 — MANIFESTO §指標 over 複寫): the search *core*
+ * (tokenize / cutoff / lang-first ordering) lives once in Layout.astro's
+ * inline script, exposed as `window.__twSearch` (contract below). This
+ * template is pure *shell* — it only sorts/filters/paginates the complete
+ * result set the core hands back. It must never re-implement tokenize or
+ * re-fetch the MiniSearch shard itself.
+ *
+ *   window.__twSearch.mode()                     → 'loading'|'minisearch'|'fallback'
+ *   window.__twSearch.search(q, lang, {all:true}) → full result array,
+ *     each {t,d,u,tags,lang,c?,m?,score}; c = published YYYY-MM-DD,
+ *     m = updated YYYY-MM-DD (either may be absent); array carries
+ *     `.totalMatches`.
+ *   document dispatches `twsearch:ready` once the engine has settled
+ *     (minisearch or fallback); if mode() !== 'loading' on load, it's
+ *     already ready and the event has already fired.
+ *
+ * Result rows reuse Header.astro's global `.search-item` / `.search-item-lang`
+ * / `.search-item-text` / `.search-item-title` / `.search-item-desc` classes
+ * (those are :global() there precisely because they're built via innerHTML,
+ * same technique this page uses) — one visual language for "a search result
+ * row" across the popup and this page. `.sr-date` is this page's own addition
+ * (published/updated line); its rule below is :global() for the same reason.
+ *
+ * i18n: src/i18n/search.ts (landing in parallel with this template — keys
+ * referenced with `as any` per the explore.template.astro hotSearches
+ * precedent until the bundle lands and check:ui-lang picks it up).
+ *
+ * noindex: reuses Layout's existing `noindex` prop (same one
+ * assets.template.astro already opts into) rather than inventing a second
+ * mechanism — a search-results page is textbook thin content.
+ */
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import { useTranslations, getLangFromUrl } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+// ── i18n strings the client script needs verbatim (templates + labels it
+// can't derive itself) — passed via define:vars, same pattern Layout.astro
+// uses for its own inline search script. ──
+const i18n = {
+  countTemplate: t('search.count' as any) as string,
+  emptyText: t('search.empty' as any) as string,
+  noresultsTemplate: t('search.noresults' as any) as string,
+  loadingText: t('search.loading' as any) as string,
+  loadmoreText: t('search.loadmore' as any) as string,
+  publishedLabel: t('search.date.published' as any) as string,
+  updatedLabel: t('search.date.updated' as any) as string,
+};
+---
+
+<Layout
+  lang={lang}
+  title={t('search.meta.title' as any)}
+  description={t('search.meta.desc' as any)}
+  noindex={true}
+  readerSettings
+>
+  <div class="search-page">
+    <PageHero
+      bgVariant="solid"
+      bgColor="#1a3c34"
+      bgTone="dark"
+      titleVariant="inherit"
+      containerWidth="wide"
+      title={t('search.title' as any)}
+      accentColor="rgba(255,255,255,0.7)"
+    />
+
+    <div
+      class="mx-auto max-w-[var(--container-wide)] px-6 pb-24 max-[768px]:px-4"
+    >
+      <div class="mt-8 mb-6">
+        <input
+          id="sr-q"
+          type="text"
+          autocomplete="off"
+          placeholder={t('search.input.placeholder' as any)}
+          class="w-full rounded-xl border-2 border-[#cbd5e1] bg-[#f8fafc] px-5 py-3 text-[1rem] text-[#1a1a2e] transition-all focus:border-[#10b981] focus:bg-white focus:outline-none max-[480px]:text-[0.92rem]"
+        />
+      </div>
+
+      <div
+        id="sr-controls"
+        class="mb-6 flex flex-wrap items-center gap-x-5 gap-y-3"
+      >
+        <label class="flex items-center gap-2 text-[0.85rem] font-semibold text-[#475569]">
+          <span>{t('search.sort.label' as any)}</span>
+          <select
+            id="sr-sort"
+            class="rounded-lg border border-[#e2e8f0] bg-white px-3 py-1.5 text-[0.88rem] text-[#1a1a2e]"
+          >
+            <option value="relevance">{t('search.sort.relevance' as any)}</option>
+            <option value="latest">{t('search.sort.latest' as any)}</option>
+            <option value="oldest">{t('search.sort.oldest' as any)}</option>
+            <option value="updated">{t('search.sort.updated' as any)}</option>
+          </select>
+        </label>
+
+        <label class="flex items-center gap-2 text-[0.85rem] font-semibold text-[#475569]">
+          <span>{t('search.time.label' as any)}</span>
+          <select
+            id="sr-time"
+            class="rounded-lg border border-[#e2e8f0] bg-white px-3 py-1.5 text-[0.88rem] text-[#1a1a2e]"
+          >
+            <option value="any">{t('search.time.any' as any)}</option>
+            <option value="day">{t('search.time.day' as any)}</option>
+            <option value="week">{t('search.time.week' as any)}</option>
+            <option value="month">{t('search.time.month' as any)}</option>
+            <option value="year">{t('search.time.year' as any)}</option>
+            <option value="custom">{t('search.time.custom' as any)}</option>
+          </select>
+        </label>
+
+        <div id="sr-custom-range" class="hidden">
+          <div class="flex flex-wrap items-center gap-3">
+            <label class="flex items-center gap-1.5 text-[0.85rem] font-semibold text-[#475569]">
+              <span>{t('search.time.from' as any)}</span>
+              <input
+                type="date"
+                id="sr-from"
+                class="rounded-lg border border-[#e2e8f0] bg-white px-2 py-1 text-[0.85rem] text-[#1a1a2e]"
+              />
+            </label>
+            <label class="flex items-center gap-1.5 text-[0.85rem] font-semibold text-[#475569]">
+              <span>{t('search.time.to' as any)}</span>
+              <input
+                type="date"
+                id="sr-to"
+                class="rounded-lg border border-[#e2e8f0] bg-white px-2 py-1 text-[0.85rem] text-[#1a1a2e]"
+              />
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div id="sr-count" class="mb-4 min-h-[1.4em] text-[0.9rem] text-[#64748b]">
+      </div>
+
+      <div
+        id="sr-results"
+        role="list"
+        aria-label={t('search.title' as any)}
+        class="flex flex-col gap-1"
+      >
+      </div>
+
+      <div class="mt-8 text-center">
+        <button
+          type="button"
+          id="sr-more"
+          class="hidden rounded-full border-2 border-[#10b981] bg-white px-6 py-2.5 text-[0.9rem] font-semibold text-[#065f46] transition-all hover:bg-[#ecfdf5]"
+        >
+          {t('search.loadmore' as any)}
+        </button>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  /* `.sr-date` is injected via innerHTML (same technique + same reason as
+   * Header.astro's .search-item family — see file-header note), so it must
+   * be :global() or Astro's scoped-class hashing never reaches it. */
+  :global(.sr-date) {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: #94a3b8;
+  }
+  :global(.search-page .search-item) {
+    border: 1px solid transparent;
+  }
+  :global(.search-page .search-item:hover) {
+    border-color: #e2e8f0;
+  }
+</style>
+
+<script
+  is:inline
+  define:vars={{
+    i18n,
+  }}
+>
+  (function () {
+    var PAGE_SIZE = 20;
+    var qInput = document.getElementById('sr-q');
+    var sortSel = document.getElementById('sr-sort');
+    var timeSel = document.getElementById('sr-time');
+    var customRange = document.getElementById('sr-custom-range');
+    var fromInput = document.getElementById('sr-from');
+    var toInput = document.getElementById('sr-to');
+    var countEl = document.getElementById('sr-count');
+    var resultsEl = document.getElementById('sr-results');
+    var moreBtn = document.getElementById('sr-more');
+    if (!qInput || !resultsEl) return;
+
+    var lang = document.documentElement.getAttribute('lang') || 'zh-TW';
+    var allResults = []; // full filtered+sorted set for the current query
+    var renderedCount = 0;
+    var lastQuery = '';
+    var engineReady = false;
+
+    // ── URL state (read once on load) ──
+    function paramsFromUrl() {
+      var u = new URL(location.href);
+      var q = u.searchParams.get('q') || '';
+      var sort = u.searchParams.get('sort') || 'relevance';
+      var time = u.searchParams.get('time') || '';
+      var from = u.searchParams.get('from') || '';
+      var to = u.searchParams.get('to') || '';
+      return { q: q, sort: sort, time: time, from: from, to: to };
+    }
+
+    function applyParamsToControls(p) {
+      qInput.value = p.q;
+      if (
+        ['relevance', 'latest', 'oldest', 'updated'].indexOf(p.sort) !== -1
+      ) {
+        sortSel.value = p.sort;
+      }
+      // preset（day/week/month/year）走 ?time=；custom 由 from/to 隱含
+      if (p.from || p.to) {
+        timeSel.value = 'custom';
+        if (p.from) fromInput.value = p.from;
+        if (p.to) toInput.value = p.to;
+      } else if (
+        ['day', 'week', 'month', 'year'].indexOf(p.time) !== -1
+      ) {
+        timeSel.value = p.time;
+      }
+      syncCustomRangeVisibility();
+    }
+
+    function syncCustomRangeVisibility() {
+      var isCustom = timeSel.value === 'custom';
+      customRange.classList.toggle('hidden', !isCustom);
+    }
+
+    // ── URL write-back (debounced) ──
+    var urlSyncTimer = null;
+    function scheduleUrlSync() {
+      clearTimeout(urlSyncTimer);
+      urlSyncTimer = setTimeout(function () {
+        var u = new URL(location.href);
+        var q = qInput.value.trim();
+        if (q) u.searchParams.set('q', q);
+        else u.searchParams.delete('q');
+
+        var sort = sortSel.value;
+        if (sort && sort !== 'relevance') u.searchParams.set('sort', sort);
+        else u.searchParams.delete('sort');
+
+        var time = timeSel.value;
+        if (time === 'custom') {
+          u.searchParams.delete('time');
+          if (fromInput.value) u.searchParams.set('from', fromInput.value);
+          else u.searchParams.delete('from');
+          if (toInput.value) u.searchParams.set('to', toInput.value);
+          else u.searchParams.delete('to');
+        } else {
+          // preset 也要保留在 URL（issue #1496 驗收：篩選條件可分享可還原）
+          if (time && time !== 'any') u.searchParams.set('time', time);
+          else u.searchParams.delete('time');
+          u.searchParams.delete('from');
+          u.searchParams.delete('to');
+        }
+        history.replaceState(null, '', u);
+      }, 300);
+    }
+
+    // ── escaping + highlighting (mirrors Layout.astro's _escHtml/_hlText —
+    // same algorithm, kept local because the popup's version lives inside
+    // Layout's inline script and isn't exported). All output text passes
+    // through _escHtml before insertion; this is a hard XSS requirement,
+    // not a nicety. ──
+    function escHtml(s) {
+      return String(s).replace(/[&<>"']/g, function (c) {
+        return {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#39;',
+        }[c];
+      });
+    }
+    function hlText(text, q) {
+      var raw = String(text);
+      var segs = (q || '')
+        .toLowerCase()
+        .normalize('NFKC')
+        .trim()
+        .split(/\s+/)
+        .filter(Boolean)
+        .sort(function (a, b) {
+          return b.length - a.length;
+        })
+        .map(function (s) {
+          return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        });
+      if (!segs.length) return escHtml(raw);
+      var re = new RegExp('(' + segs.join('|') + ')', 'gi');
+      var out = '';
+      var last = 0;
+      var m;
+      while ((m = re.exec(raw)) !== null) {
+        out +=
+          escHtml(raw.slice(last, m.index)) +
+          '<mark>' +
+          escHtml(m[0]) +
+          '</mark>';
+        last = m.index + m[0].length;
+        if (m.index === re.lastIndex) re.lastIndex++;
+      }
+      return out + escHtml(raw.slice(last));
+    }
+
+    function renderRow(item, idx, q, sort) {
+      var langBadge = escHtml(String(item.lang || '').toUpperCase());
+      var dateLine = '';
+      if (sort === 'updated') {
+        var mv = item.m || item.c;
+        if (mv) {
+          var label = item.m ? i18n.updatedLabel : i18n.publishedLabel;
+          dateLine = escHtml(label) + ' ' + escHtml(mv);
+        }
+      } else if (item.c) {
+        dateLine = escHtml(i18n.publishedLabel) + ' ' + escHtml(item.c);
+      }
+      return (
+        '<a id="sr-item-' +
+        idx +
+        '" role="listitem" class="search-item" href="' +
+        escHtml(item.u) +
+        '" data-ga-section="search_page" data-ga-position="' +
+        idx +
+        '">' +
+        '<span class="search-item-lang">' +
+        langBadge +
+        '</span>' +
+        '<div class="search-item-text">' +
+        '<span class="search-item-title">' +
+        hlText(item.t || '', q) +
+        '</span>' +
+        (item.d
+          ? '<span class="search-item-desc">' +
+            hlText(item.d, q) +
+            '</span>'
+          : '') +
+        (dateLine ? '<span class="sr-date">' + dateLine + '</span>' : '') +
+        '</div></a>'
+      );
+    }
+
+    // ── time-filter cutoff (day/week/month/year → a start date, counted
+    // back from "now"; custom uses the from/to date inputs directly) ──
+    var DAY_MS = 24 * 60 * 60 * 1000;
+    var RANGE_DAYS = { day: 1, week: 7, month: 30, year: 365 };
+    function ymd(d) {
+      return (
+        d.getFullYear() +
+        '-' +
+        String(d.getMonth() + 1).padStart(2, '0') +
+        '-' +
+        String(d.getDate()).padStart(2, '0')
+      );
+    }
+
+    function filterByTime(items, time, from, to) {
+      if (time === 'any') return items;
+      if (time === 'custom') {
+        if (!from && !to) return items;
+        return items.filter(function (it) {
+          if (!it.c) return false;
+          if (from && it.c < from) return false;
+          if (to && it.c > to) return false;
+          return true;
+        });
+      }
+      var days = RANGE_DAYS[time];
+      if (!days) return items;
+      var cutoff = ymd(new Date(Date.now() - days * DAY_MS));
+      return items.filter(function (it) {
+        return it.c && it.c >= cutoff;
+      });
+    }
+
+    // 缺該欄位的一律排最後——不論排序方向，undefined 分到 return 1（往後排）。
+    function byDateField(field, descending) {
+      return function (a, b) {
+        var av = a[field];
+        var bv = b[field];
+        if (!av && !bv) return 0;
+        if (!av) return 1;
+        if (!bv) return -1;
+        return descending ? bv.localeCompare(av) : av.localeCompare(bv);
+      };
+    }
+
+    function sortResults(items, sort) {
+      if (sort === 'relevance') return items; // engine order, untouched
+      var arr = items.slice();
+      if (sort === 'latest') arr.sort(byDateField('c', true));
+      else if (sort === 'oldest') arr.sort(byDateField('c', false));
+      else if (sort === 'updated') arr.sort(byDateField('m', true));
+      return arr;
+    }
+
+    function renderCount(q, n) {
+      if (!q) {
+        countEl.textContent = i18n.emptyText;
+        return;
+      }
+      if (n === 0) {
+        countEl.textContent = String(i18n.noresultsTemplate).replace(
+          '{q}',
+          q,
+        );
+        return;
+      }
+      countEl.textContent = String(i18n.countTemplate)
+        .replace('{q}', q)
+        .replace('{n}', String(n));
+    }
+
+    function renderBatch(q, sort) {
+      var slice = allResults.slice(renderedCount, renderedCount + PAGE_SIZE);
+      if (slice.length) {
+        var html = slice
+          .map(function (it, i) {
+            return renderRow(it, renderedCount + i, q, sort);
+          })
+          .join('');
+        resultsEl.insertAdjacentHTML('beforeend', html);
+        renderedCount += slice.length;
+      }
+      moreBtn.classList.toggle('hidden', renderedCount >= allResults.length);
+    }
+
+    // ── GA4 (debounced 800ms after a run settles) ──
+    var gaTimer = null;
+    function scheduleGaSearch(q, count) {
+      clearTimeout(gaTimer);
+      if (!q) return;
+      gaTimer = setTimeout(function () {
+        if (typeof gtag === 'function') {
+          gtag('event', 'search_query', {
+            search_term: q,
+            results_count: count,
+            search_lang: lang,
+            search_mode: 'page',
+          });
+        }
+      }, 800);
+    }
+
+    resultsEl.addEventListener('click', function (ev) {
+      var a = ev.target.closest('.search-item');
+      if (!a) return;
+      var pos = a.getAttribute('data-ga-position');
+      var title = a.querySelector('.search-item-title');
+      if (typeof gtag === 'function') {
+        gtag('event', 'search_result_click', {
+          search_term: lastQuery,
+          click_title: title ? title.textContent : '',
+          click_url: a.getAttribute('href'),
+          click_position: pos ? Number(pos) : -1,
+        });
+      }
+    });
+
+    // ── the actual run: query engine → filter by time → sort → reset
+    // pagination → render batch 1 → count line ──
+    function runSearch() {
+      var q = qInput.value.trim();
+      lastQuery = q;
+      resultsEl.innerHTML = '';
+      renderedCount = 0;
+      moreBtn.classList.add('hidden');
+
+      if (!q) {
+        allResults = [];
+        renderCount(q, 0);
+        return;
+      }
+
+      if (!engineReady) {
+        countEl.textContent = i18n.loadingText;
+        return;
+      }
+
+      var raw = window.__twSearch.search(q, lang, { all: true });
+      var time = timeSel.value;
+      var filtered = filterByTime(raw, time, fromInput.value, toInput.value);
+      var sort = sortSel.value;
+      allResults = sortResults(filtered, sort);
+
+      renderCount(q, allResults.length);
+      renderBatch(q, sort);
+      scheduleGaSearch(q, allResults.length);
+    }
+
+    var runTimer = null;
+    function scheduleRun() {
+      clearTimeout(runTimer);
+      runTimer = setTimeout(function () {
+        runSearch();
+        scheduleUrlSync();
+      }, 300);
+    }
+
+    qInput.addEventListener('input', scheduleRun);
+    sortSel.addEventListener('change', function () {
+      syncCustomRangeVisibility();
+      scheduleRun();
+    });
+    timeSel.addEventListener('change', function () {
+      syncCustomRangeVisibility();
+      scheduleRun();
+    });
+    fromInput.addEventListener('change', scheduleRun);
+    toInput.addEventListener('change', scheduleRun);
+    moreBtn.addEventListener('click', function () {
+      renderBatch(lastQuery, sortSel.value);
+    });
+
+    // ── boot ──
+    var initial = paramsFromUrl();
+    applyParamsToControls(initial);
+
+    function onEngineReady() {
+      engineReady = true;
+      runSearch();
+    }
+
+    if (
+      window.__twSearch &&
+      typeof window.__twSearch.mode === 'function' &&
+      window.__twSearch.mode() !== 'loading'
+    ) {
+      onEngineReady();
+    } else {
+      countEl.textContent = i18n.loadingText;
+      document.addEventListener('twsearch:ready', onEngineReady, {
+        once: true,
+      });
+    }
+  })();
+</script>

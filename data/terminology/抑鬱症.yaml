@@ -1,12 +1,26 @@
 id: 抑鬱症
-category: daily
-fork_type: E
+category: medical
+fork_type: B
 display:
   taiwan: 憂鬱症
   china: 抑鬱症
 etymology:
-  origin: 一種情緒障礙，特徵為持續悲傷、失去興趣或快樂感。
-notes: 來源：caris-events/invade (CC0)
+  origin: 一種情緒障礙，特徵為持續低落、失去興趣與愉悅感。台灣醫界與健保診斷名稱統一用「憂鬱症」（重鬱症、輕鬱症、產後憂鬱症），中國用「抑鬱症」。兩地精神醫學譯名體系各自建立，同一個 depression 各譯一詞。
+  taiwan_path: 台灣自衛生福利部到民間團體（董氏基金會憂鬱症防治）全線使用「憂鬱」，「抑鬱」在台灣多作文言形容詞（抑鬱寡歡），不作病名。
+  china_path: 中國醫學與日常語彙統一用「抑鬱症」，並衍生「抑鬱了」「emo」等口語用法。
+  fork_cause: 醫學譯名在兩地各自標準化的結果，屬制度層分流。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 「抑鬱寡歡」是台灣既有的文言用法，與病名無關。
+status: stable
+notes: |
+  2026-08-22 補肉：本站 Search Console 有讀者在搜「抑鬱」，且這是心理健康主題，
+  用錯詞會影響求助者找到正確的台灣資源（健保診斷、衛福部與民間資源都寫「憂鬱症」），
+  比一般用語分歧更有實務代價。
+  2026-07 Threads 有貼文表示因為對方說「抑鬱症」就封鎖，也有人反彈這是過度糾察——
+  討論病名時特別值得記得：對面可能是正在求助的人。
 sources:
   - https://github.com/caris-events/invade
-added: 2026-03-30
+added: '2026-03-30'
+updated: '2026-08-22'

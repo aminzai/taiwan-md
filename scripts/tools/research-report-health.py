@@ -101,6 +101,18 @@ URL_RE = re.compile(r"https?://[^\s\)\]\>\"'，。、；]+")
 # v3（2026-07-12 茶文化）：容忍 §-prefix heading（## §8 = ## 8）。原 regex 只認「## 8.」，
 # 漏掉 §-前綴寫法 → §8 指到 1,303 行 repo raw 卻判密度 0。§ 是 codebase 慣用 section 標記，
 # 儀器不該對它脆裂。同步放寬 END regex。
+# v4（2026-08-18 中央研究院）：§8 起點改取「第一個」命中，不再每命中就覆蓋。
+# 病：head regex `8[\.\s、]` 刻意寬鬆（要吃 `## 8` 也要吃 `## 8.1` 分節型），但下方迴圈原本
+# 寫成 `start = i` 無條件覆蓋 → **最後一個 §8.x 子節標題變成起點**，它前面的 inline raw 全被
+# 跳過。兩種真實佈局都中招：(a) 中央研究院報告 §8 下 inline 四份 agent raw 後面接一段
+# 「## §8.O」orchestrator 補查 → 只算到 §8.O；(b) 台灣設計研究院 v3 用 `## 8.1`～`## 8.5`
+# 分節、沒有純 `## 8` → 只算到 8.5 的 16 行（實際 86）。失敗方向是**假陰性**（擋下合格報告），
+# 會誘導 orchestrator 去補救一個不存在的洞。
+# 為什麼不收緊 regex 改吃不到子節：那會讓 (b) 這種合法佈局整個偵測不到（密度歸零），比原 bug 更糟。
+# 為什麼 first-match 不會被「報告前段引用八段模板」錨太前而高估：457 份 corpus dogfood 實測，
+# last→first 只有 4 份量測改變，**全部是往上修正低估**（+185/+70/+20/+6），零份被灌水
+# （REFLEXES #66：閾值與 regex 改動用真實產出校準，不憑想像——本次正是想像被 corpus 推翻）。
+# 對應 REFLEXES #65「awareness instrument 自身 regex/parser 必須 cross-verify ground truth」。
 S8_HEAD_RE = re.compile(r"^##\s*§?\s*8[\.\s、]")
 # §8 結束 = 下一個 §9-19 numbered section，或已知的 trailing 非編號段（flag/參考/附錄/圖片來源）。
 # 後者避免「§8 跑到 EOF 把 §flag 的 knowledge/*.md 引用誤當 raw pointer」的 bleed（2026-07-12
@@ -138,6 +150,41 @@ TIERS = {
     "hub": (5, 1, 1, 0, 0, 0),
 }
 
+# ── v4：合成層過程噪音（2026-08-15 哲宇 directive「報告充滿待驗證結論與自我澄清、
+#    最近文章後台洩漏根因在報告層」）────────────────────────────────────────────
+# 量測斷代（reports/research-report-hygiene-evolution-2026-08-15.md）：2026-04〜07-08
+# 十一份報告（含 gold standard 毒馬鈴薯）合成層過程敘事趨近於零；07-12 RESEARCH-AGENT-PROMPT
+# v1.0【falsify 註記】契約化之後八份報告每份 70-160 個攻防標記。writer 讀整份報告（v7.4
+# 鐵律）被 prime 出正文校正焦慮 = EDITORIAL §後台洩漏（08-03）＋形狀十二（08-08）的上游。
+# 本 check 掃「合成層」（§8 raw 之前、且剔除 §5 護欄段——護欄本來就是禁令清單）的
+# 任務指涉詞。詞表取高特異性組合，防誤殺合法內容（「假設性問題」「歷史假設」不命中）。
+META_NOISE_RE = re.compile(
+    r"任務(假設|給的|給定|簡報|原文|指定的線索)|Stage ?0 ?(假設|的假設|說|已知)|"
+    r"原(假設|以為)|【falsify|falsify 註記|需(再|重新)核實|"
+    r"(本次|本輪)(研究|查證)?最大的 falsify|假設(被推翻|不成立|整個是錯)|"
+    r"(任務|題目)(給出|提供)的(線索|假設)|已知(名單|線索)(漏掉|遺漏|完全遺漏)"
+)
+
+
+def analyze_meta_noise(txt: str):
+    """合成層過程噪音 hits。範圍 = §8 之前的文本，剔除護欄 section（§5 反例/護欄
+    從其 heading 到下一個 ## heading——護欄段的「不可寫成」是合法禁令）。"""
+    lines = txt.split("\n")
+    s8_start = None
+    for i, l in enumerate(lines):
+        if S8_HEAD_RE.match(l):
+            s8_start = i
+            break
+    synth = lines[:s8_start] if s8_start is not None else lines
+    # 剔除護欄 section
+    kept, skipping = [], False
+    for l in synth:
+        if l.startswith("## "):
+            skipping = bool(COUNTEREX_RE.search(l))
+        if not skipping:
+            kept.append(l)
+    return len(META_NOISE_RE.findall("\n".join(kept)))
+
 # ── 疑慮通知層（v2.1 — 哲宇 directive「通知呼叫 session 為什麼 + 思考方向」）─────
 # key = check name 前綴。每條 fail/warn 印「為什麼 + 思考方向」，給 orchestrator 決策用。
 WHY_DIRECTIONS = {
@@ -173,6 +220,12 @@ WHY_DIRECTIONS = {
     "§8 pointer 指向不存在的檔": (
         "斷鏈 pointer = raw 可能已遺失，或路徑寫錯",
         ["先確認是路徑錯還是檔案真沒了；真沒了且 transcript 也不在 → 補墓碑註記誠實記錄缺口"]),
+    "合成層過程噪音": (
+        "「任務假設被推翻」「原以為 X 其實 Y」是研究的工作日誌不是世界的事實。writer 讀整份報告"
+        "（v7.4 鐵律）會被 prime 出正文的校正焦慮 = 後台洩漏的上游根因（2026-08-15 量測斷代）",
+        ["把被推翻的版本從 Findings 移除，只留正確事實＋來源＋信度",
+         "推翻過程收 §1 搜尋軌跡一行；查證的處置決定收 frontmatter verification 三層（形態：「→ 不寫」「→ 採 X」）",
+         "世界上流傳的通行錯誤（非任務內部錯誤）用結論形態一行註記：「另一常見說法『X』查無一手來源，不採」"]),
 }
 
 
@@ -190,7 +243,10 @@ def analyze_s8(txt: str, report_path: Path):
     start = end = None
     for i, l in enumerate(lines):
         if S8_HEAD_RE.match(l):
-            start = i
+            # v4：只取第一個 §8 家族標題當起點。原本無條件 `start = i` 會讓後面的
+            # `## §8.O` / `## 8.5` 這類子節標題把起點推到最後一節，前面的 raw 全被跳過。
+            if start is None:
+                start = i
         elif start is not None and S8_END_RE.match(l):
             end = i
             break
@@ -246,6 +302,8 @@ def analyze(path: Path):
     sixq = sum(1 for r in SIXQ_MARKERS if r.search(txt))
     # §8 raw 密度 + ephemeral pointer (v2)
     s8_inline, s8_effective, ephemeral, s8_missing = analyze_s8(txt, path)
+    # v4: 合成層過程噪音（Findings 寫世界不寫任務）
+    meta_noise = analyze_meta_noise(txt)
     # v3 合成單檔（2026-07-12）：主報告旁還躺著未合成的 sibling raw/research 檔？
     # sibling 命名 {slug}-raw*.md / {slug}-research-{X}.md，slug 是本報告 stem 的前綴。
     unmerged_siblings = []
@@ -269,6 +327,7 @@ def analyze(path: Path):
         s8_effective=s8_effective,
         ephemeral=ephemeral,
         s8_missing=s8_missing,
+        meta_noise=meta_noise,
         lines=lines,
         distinct=len(distinct),
         en=len(en),
@@ -347,6 +406,18 @@ def grade(metrics, tier):
             f"未合成單檔：旁邊還躺著 {len(sibs)} 個 sibling raw 檔（{'、'.join(sibs[:3])}{'…' if len(sibs) > 3 else ''}）"
             f" — Stage 2 前把內容 inline 進 §8 + 刪 sibling（Step 1.7.4）",
             len(sibs), "= 0（合成後單檔）", "warn", False))
+    # v4 合成層過程噪音（2026-08-15 — Findings 寫世界不寫任務，Step 1.7.5 判準 a）
+    mn = metrics.get("meta_noise", 0)
+    if mn > 10:
+        hard_fail += 1
+        results.append(("合成層過程噪音（任務指涉/falsify 攻防敘事）— writer 會被 prime 出後台洩漏",
+                        mn, "≤ 3（>10 hard）", "hard", False))
+    elif mn > 3:
+        warn += 1
+        results.append(("合成層過程噪音（任務指涉/falsify 攻防敘事）",
+                        mn, "≤ 3", "warn", False))
+    else:
+        results.append(("合成層過程噪音（Findings 寫世界不寫任務）", mn, "≤ 3", "warn", True))
     return results, hard_fail, warn
 
 

@@ -156,7 +156,13 @@ for (const a of fourOhFourLatest?.alerts || []) {
 // ── 4. UNKNOWNS 可證偽實驗到期未判定（audit I-3 根治：機械檢查取代人記）──
 const unknownsPath = 'docs/semiont/UNKNOWNS.md';
 if (existsSync(unknownsPath)) {
-  const unknowns = readFileSync(unknownsPath, 'utf8');
+  // 已判定的 EXP 用 ~~刪除線~~ 除役 marker（UNKNOWNS 慣例：「~~機械到期檢查：due_date: … | EXP-…~~（已判定，marker 除役）」）。
+  // 2026-08-18：EXP-2026-07-17-G 8/16 判定命中並除役，但這裡的 regex 讀不懂刪除線，
+  // 黃燈又多掛兩天——過濾掉刪除線行再掃，只認仍生效的 marker。
+  const unknowns = readFileSync(unknownsPath, 'utf8')
+    .split('\n')
+    .filter((line) => !/~~[^~]*due_date:[^~]*~~/.test(line))
+    .join('\n');
   const today = new Date().toISOString().slice(0, 10);
   const dueRe = /due_date:\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(EXP-[A-Za-z0-9-]+)/g;
   let m;

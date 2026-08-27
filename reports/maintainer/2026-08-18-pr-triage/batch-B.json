@@ -1,0 +1,434 @@
+[
+  {
+    "number": 1386,
+    "title": "電網韌性：停電之後，誰能先恢復城市",
+    "path": "knowledge/Society/電網韌性.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "curation-consistency: curation 取值非法：整段敘述文字被填進 curation 欄位，合法值僅 verified / incubating",
+      "image-health: 外部圖片熱連結（line 60，manuscdn.com sandbox 簽章網址）",
+      "image-health: 外部圖片熱連結（line 132，manuscdn.com sandbox 簽章網址）",
+      "rationale-presence: rationale key `angle` 非 canonical 名稱（應為 why_this_hook/whats_excluded/where_it_hedges/whos_pushing_back/which_framing 之一）",
+      "rationale-presence: rationale key `taiwanRelevance` 非 canonical 名稱",
+      "rationale-presence: rationale key `whyNow` 非 canonical 名稱",
+      "rationale-presence: rationale key `historicalContext` 非 canonical 名稱"
+    ],
+    "warn_after_count": 37,
+    "semicolon_body_count": 12,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {
+        "url": "https://private-us-east-1.manuscdn.com/sessionFile/.../taiwan-power-transformer...jpg (簽章至 2026-12-28)",
+        "source_type": "AI 工具 sandbox 暫存連結（manuscdn.com，疑似 Manus AI session file CDN）",
+        "license": "背後圖片實為 Wikimedia File:Taiwan_Power_Company_Grid.jpg，作者 Yoxem，CC BY-SA 3.0（已用 Wikimedia API 核對與文中圖說相符），但目前連結是會過期的簽章網址而非 Wikimedia 直連"
+      },
+      {
+        "url": "https://private-us-east-1.manuscdn.com/sessionFile/.../taipower-transmission-office...jpg (簽章至 2026-12-28)",
+        "source_type": "AI 工具 sandbox 暫存連結（manuscdn.com）",
+        "license": "背後圖片實為 Wikimedia File:TPC_Department_of_Transmission_Line_and_Substation_Projects_20200125.jpg，作者 玄史生，CC0 1.0（已核對相符），連結同樣是會過期的簽章網址"
+      }
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {"url": "https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=102711", "http_status": 403, "ugc": false, "fabricated": false},
+      {"url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/8e438787-698f-478a-b17b-fa747d321e14/", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://globaltaiwan.org/2023/06/taiwans-electrical-grid-and-the-need-for-greater-system-resilience/", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "curation 欄位塞了一整段敘述文字而非合法 enum，rationale 4 個 key 全非 canonical 命名（angle/taiwanRelevance/whyNow/historicalContext）——像是用舊版或非官方模板產生的 frontmatter",
+      "2 張圖片皆走 manuscdn.com（AI 工具 sandbox）簽章網址，非 Wikimedia 直連，簽章 2026-12 到期即失效；查證後背後圖片確為合法 Wikimedia CC 授權圖，需要重新快取"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治敏感題材（電網基礎設施/能源政策）；多源引用經濟部/台電、行政院調查報告、監察院調查、環境資訊中心、Global Taiwan Institute，語氣中性分析，未見單一觀點或煽動性用語",
+    "content_summary": "以 2017 年 815、2022 年 303 兩次大停電回顧台灣電網集中化的脆弱性，介紹台電十年 5,645 億元電網韌性計畫（分散/強固/防衛）、配電自動化、微電網孤島運轉，並提出韌性治理五面向指標框架。9 條腳註皆為官方或智庫來源，敘事扎實未見明顯幻覺，但對位句型（不是…而是）用了 14 次，遠超 MANIFESTO §11 建議上限，prose-health score 6（門檻 ≤3，空洞詞 11、塑膠句 2）。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "修正 curation 欄位為合法 enum（verified/incubating），原敘述文字移除或改寫成別處摘要", "est_min": 5},
+      {"action": "修正 rationale 4 個 key 為 canonical 命名並對應內容", "est_min": 10},
+      {"action": "重新抓取並快取 2 張圖片到 public/article-images/，改 src 為本地路徑", "est_min": 15},
+      {"action": "把 14 處「不是…而是」對位句型精簡到合理範圍", "est_min": 25},
+      {"action": "補延伸閱讀 section", "est_min": 5},
+      {"action": "處理 prose-health warn（空洞詞/塑膠句），score 6→≤3", "est_min": 15}
+    ],
+    "notes": "hard_before 未單獨量測——heal script 是 checkout+fix+check 一次到位，沒有 fix 前的獨立快照，只能確認 frontmatter-format 這輪修了 3 處。全形分號剛好卡在 12 處門檻邊緣，未觸發 hard gate。"
+  },
+  {
+    "number": 1387,
+    "title": "排灣族琉璃珠：一顆珠子，交接一個部落的責任",
+    "path": "knowledge/Culture/排灣族琉璃珠.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：25 處 > 12"
+    ],
+    "warn_after_count": 31,
+    "semicolon_body_count": 25,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/排灣族琉璃珠.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY-SA 4.0，作者氏子（已用 API 核對與文中圖說相符）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/排灣族複串琉璃珠胸飾.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC0 1.0，作者氏子（已核對相符）"},
+      {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/排灣三寶133.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY-SA 4.0，作者 WEI, WAN-CHEN（已核對相符）"}
+    ],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {"url": "https://nchdb.boch.gov.tw/assets/overview/traditionalCraft/20200325000004", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://taiwantoday.tw/AMP/culture/top-news/24505/paiwan-tribesman-leads-comeback-of-glass-bead-crafts", "http_status": 302, "ugc": false, "fabricated": false},
+      {"url": "https://www.moc.gov.tw/en/News_Content2.aspx?n=486&s=17635", "http_status": 404, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "author frontmatter 為 'Taiwan.md'（不是這批裡多數篇用的 'Taiwan.md Contributors'）",
+      "footnote [^8] moc.gov.tw 連結確認 404 失效（非 bot 擋，換 UA 仍 404）",
+      "延伸閱讀 2 條內部連結目標不存在：/culture/排灣族傳統工藝與原住民族文化資產、/culture/臺灣原住民族文化與語言（heal 已給近似候選）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "原住民族文化議題，語氣審慎、多源（國家文化資產網、學術期刊、地方政府、國立臺灣博物館、史前文化博物館、雲科大研究、Taiwan Today、傳藝 Online 訪談），文中主動提醒『不同部落可能有不同說法』避免單一敘事，未見獵奇或煽動用語",
+    "content_summary": "排灣族琉璃珠 qata 的文化意義（階級/婚姻/信仰）與現代復振史：1976 年巫瑪斯．金路兒重新試製、1983 年施秀菊成立蜻蜓雅築、林秀慧的田野復原工作，以及 2018/2023 年國家文化資產登錄。9 條腳註含官方文化資產網、學術期刊、博物館、地方政府、Taiwan Today 新聞；敘事細膩、反覆提醒不要把單一詮釋套用到所有部落，未見幻覺跡象，是這批裡圖片授權查證最紮實的一篇。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "body 全形分號 25→≤12（改寫成句號或重組約 13 句）", "est_min": 35},
+      {"action": "修正或替換 footnote [^8] 失效連結", "est_min": 10},
+      {"action": "修正延伸閱讀 2 條內部連結（用 heal 建議近似目標或移除）", "est_min": 10},
+      {"action": "補 rationale block（info-level，非必要但建議）", "est_min": 5}
+    ],
+    "notes": "這篇的 Wikimedia 圖片授權全部經 API 核對無誤，是這批裡最紮實的一篇；主要卡點是全形分號跟一條失效外部連結。"
+  },
+  {
+    "number": 1388,
+    "title": "輪轉全球的高端心臟：台灣自行車產業從代工王國到創新樞紐的轉型史",
+    "path": "knowledge/Technology/台灣自行車產業.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — Technology 類文章必須對應 SUBCATEGORY.md",
+      "image-health: 外部圖片熱連結（images.unsplash.com #1）",
+      "image-health: 外部圖片熱連結（images.unsplash.com #2）",
+      "image-health: 外部圖片熱連結（images.unsplash.com #3）"
+    ],
+    "warn_after_count": 12,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [
+      {"url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e...", "source_type": "Unsplash 通用庫存圖（精密變速系統特寫，非台灣自行車產業實景）", "license": "Unsplash License（可商用免費，但與主題無具體地理/品牌關聯，屬泛用素材）"},
+      {"url": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8...", "source_type": "Unsplash 通用庫存圖（自行車工具/工作檯）", "license": "Unsplash License，同上"},
+      {"url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8...", "source_type": "Unsplash 通用庫存圖（山徑騎行風景，非台灣特定地點）", "license": "Unsplash License，同上"}
+    ],
+    "footnote_total": 11,
+    "footnote_sample": [
+      {"url": "https://assist.nat.gov.tw/wSite/ct?xItem=72115&ctNode=127", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.taiwan-panorama.com/en/Articles/Details?Guid=b5d26eca-8927-4a7a-ab7f-17fc6609c32a", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.naipo.com/portals/1/web_tw/knowledge_center/industry_economy/publish-402.htm", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "[^5] 引用來源是 Facebook 貼文（facebook.com/pocketstock/posts/...），屬 UGC/社群貼文而非新聞或機構一手資料",
+      "全文唯一一段完整對話式直接引語（線 37：「當時的關鍵不在於殺價競爭...」）歸給匿名『產業史研究者』，且該段落完全沒有腳註標記——文中其餘所有帶引號片語都掛了 [^N]，唯獨這句沒有，形似偽造/杜撰的權威引語",
+      "正文語氣明顯偏促銷/浮誇（『輪轉全球的高端心臟』『令全球商管學者驚嘆』『殺出一條血路』『全球矚目的奇蹟』），與同批其他篇（1386/1387/1392-1395）的審慎紀實語氣不一致",
+      "字數僅 2276 CJK（達門檻 51%），word-count 檢查明確標註『虎頭蛇尾風險，後半部可能沒重點』",
+      "body 提到 A-Team 於『2003 年』成立，但 [^1] 條目自身描述卻寫『2002 年攜手結盟』，年份對不上，需要人工核對"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治題材（產業經濟史），但整體語氣促銷化，需留意是否過度吹捧",
+    "content_summary": "台灣自行車產業從 1970 年代代工到 A-Team 供應鏈聯盟、碳纖維與電動輔助自行車、ESG 綠色轉型的簡史。內容架構完整但深度不足（僅達字數門檻 51%），且含一段疑似杜撰的無腳註直接引語與一則 Facebook 來源，加上三張與主題無具體關聯的 Unsplash 庫存圖，整體證據強度明顯弱於同批其他篇。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory 欄位（依 SUBCATEGORY.md 選對應值）", "est_min": 5},
+      {"action": "查證線 37 匿名引語的真實出處；查不到就刪除或改寫成無引號的摘述", "est_min": 15},
+      {"action": "把 [^5] Facebook 貼文換成更可靠的一手/新聞來源", "est_min": 15},
+      {"action": "核對 A-Team 成立年份 2002 vs 2003 的矛盾並修正", "est_min": 10},
+      {"action": "3 張 Unsplash 庫存圖換成與台灣自行車產業具體相關的圖片（Giant/Merida 廠房、台北國際自行車展等），或至少快取到本地", "est_min": 40},
+      {"action": "擴充內容至字數門檻（+2224 字），補足產業細節或案例", "est_min": 60},
+      {"action": "降低促銷語氣、減少 4 處對位句型", "est_min": 15},
+      {"action": "description 補到 100-160 字（現 69 字）", "est_min": 5}
+    ],
+    "notes": "這篇是這批裡唯一出現『疑似杜撰無源引語 + UGC 來源 + 內容單薄 + 語氣促銷化』四項疊加的稿子，heal_plan 總工時明顯高於其他篇（約 165 分鐘），建議主 session 特別核對線 37 引語再決定是否值得投入。"
+  },
+  {
+    "number": 1391,
+    "title": "台灣吉祥物：從大同寶寶的贈品，到地方角色的全域出場",
+    "path": "knowledge/Lifestyle/吉祥物.md",
+    "is_update": true,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：37 處 > 12"
+    ],
+    "warn_after_count": 29,
+    "semicolon_body_count": 37,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/菜奇鴨Tshài-tshī-á.jpg", "source_type": "Wikimedia Commons 直連", "license": "依臺南市政府 Government Website Open Information Announcement（圖說標示需來源標示「臺南市政府」）"},
+      {"url": "https://upload.wikimedia.org/.../Bravo_and_visitors_in_Yangmingshan...jpg", "source_type": "Wikimedia Commons 直連（Flickr 轉載）", "license": "CC BY-SA 2.0（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/.../高雄捷運吉祥物_IMG_0907.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY-SA 4.0（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/.../Miaolimiao_at_THSR_Miaoli_Station.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY-SA 4.0（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/.../曾泰明_國立臺灣科技大學_吉祥物.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY-SA 4.0（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/.../建中國小3D彩繪階梯.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY 4.0（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/.../TYMON.jpg", "source_type": "Wikimedia Commons 直連", "license": "CC BY-SA 4.0（圖說標示）"}
+    ],
+    "footnote_total": 21,
+    "footnote_sample": [
+      {"url": "https://www.tatung.com/tw/info/about-mascot", "http_status": 403, "ugc": false, "fabricated": false},
+      {"url": "https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://news.ltn.com.tw/news/politics/breakingnews/2412456", "http_status": 403, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "新版把舊版全部 4 個 UGC 來源（2 個 Facebook、2 個 Threads）換成官方/媒體來源——是品質提升訊號，但需要跟下方 update_delta 的內容取捨一起看"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治敏感題材，但涉及公部門預算爭議（熊讚 113 萬改版經費）時語氣中性、只引述議會質疑不做價值判斷",
+    "content_summary": "台灣吉祥物從 1969 年大同寶寶到觀光署喔熊、北市熊讚、高雄捷運 HAPPI/U!FU、苗栗貓裏喵、台科大 Tiger Duck、國家足球隊堤蒙、台南魚頭君與菜奇鴨的系譜，並收束到公共預算與角色 IP 商業化的分析框架。21 條腳註全為政府/企業/新聞/Wikimedia 一手來源，無 UGC，敘事審慎、多處明白寫『本文不延伸推測』。",
+    "update_delta": {
+      "words_before": 2441,
+      "words_after": 5781,
+      "footnotes_before": 25,
+      "footnotes_after": 21,
+      "h2_before": 2,
+      "h2_after": 15,
+      "removed_topics": [
+        "1990 年職棒元年四隊吉祥物（兄弟象/三商虎/統一獅/味全龍）",
+        "黑熊吉祥物氾濫與 PK 戰（高高熊 vs 高雄熊分不清、威熊、寧夏熊等）",
+        "西門紅樓吉祥物『紅福』整段（含台北稻荷神社起源考據）",
+        "台南『虱目魚小子』登上美國脫口秀 Last Week Tonight 的獵奇敘事，以及澎湖醜萌吉祥物群（珍珠小童/城前鮮蚵/比基尼小丑魚）",
+        "國立臺灣文學館吉祥物『阿龍』抄襲爭議事件（含北檢不起訴中國繪師的後續）",
+        "福利熊『世界觀』設定細節（血型 A 型、模範店員人設）與劉鴻徵姓名",
+        "熊讚議會質詢的直接引語「你怎麼變得這麼醜？」與 1100萬/40萬預算數字、徐巧芯揭露的 Facebook 來源",
+        "波波鴿雙魚座/討厭被嫌胖人設細節（原始來源即為中華郵政 Facebook 與 Threads）",
+        "菜奇鴨自我介紹引語「我不是馬鈴薯，也不是奇異果」"
+      ],
+      "added_topics": [
+        "臺灣黑熊生物學與保育脈絡（玉山國家公園資料），並反思『把保育議題壓扁成可愛符號』的風險",
+        "高雄捷運 HAPPI 哈比／U!FU 永福交通吉祥物家族",
+        "苗栗貓裏喵（石虎原型、高鐵站場景、諧音設計）",
+        "台科大 Tiger Duck 校園吉祥物",
+        "苗栗三義建中國小 3D 彩繪階梯（非官方吉祥物但屬地方角色符號案例）",
+        "中華台北足球代表隊吉祥物堤蒙 TYMON",
+        "每張圖片附完整 Wikimedia 授權與攝影者標示"
+      ]
+    },
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "body 全形分號 37→≤12（改寫成句號或重組約 25 句）", "est_min": 40},
+      {"action": "修正延伸閱讀裡指向 /lifestyle/台南市場 的失效內部連結（目標頁不存在）", "est_min": 10},
+      {"action": "description 補到 100-160 字（現 75 字）", "est_min": 5},
+      {"action": "刪除校正焦慮句式「容易被混淆」（correction-meta warn）", "est_min": 5},
+      {"action": "減少 8 處對位句型", "est_min": 15}
+    ],
+    "notes": "這是唯一一篇 Update PR，內容幾乎整篇重寫：字數翻倍、腳註從 25 條全 UGC-free 化到 21 條，但同時整段刪掉了『紅福』『阿龍抄襲』『職棒元年』『醜萌 B 級景點』四個舊版獨有主題，換成『黑熊保育／高雄捷運／貓裏喵／Tiger Duck／堤蒙』新主題。這是內容置換不是單純潤飾——是改善（source品質變好、語氣更審慎）還是覆蓋掉讀者可能想看的話題（紅福、阿龍抄襲這類話題性較高的舊內容），需要哲宇看過 update_delta 再判斷，不建議直接視為單純的 polish。"
+  },
+  {
+    "number": 1392,
+    "title": "酷的夢：從外國人的鏡頭，到台灣能被世界看懂的節目",
+    "path": "knowledge/People/酷的夢.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位 — People 類文章必須對應 SUBCATEGORY.md",
+      "image-health: 外部圖片熱連結（manuscdn.com sandbox 簽章網址）",
+      "prose-health: 全形分號超硬門檻：22 處 > 12"
+    ],
+    "warn_after_count": 26,
+    "semicolon_body_count": 22,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../kus-dream-chinese-monster-ep1...jpg（簽章至 2026-12-28）", "source_type": "AI 工具 sandbox 暫存連結（manuscdn.com）", "license": "圖說標示為《中文怪物》官方 YouTube 頻道公開縮圖，未提供 Wikimedia 或其他可查證授權來源；且僅 1 張，未達 3 張圖片下限 hard gate"}
+    ],
+    "footnote_total": 17,
+    "footnote_sample": [
+      {"url": "https://www.rti.org.tw/en/news?uid=3&pid=124879", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cw.com.tw/article/5137595", "http_status": 403, "ugc": false, "fabricated": false},
+      {"url": "https://stars.udn.com/star/story/120661/9423072", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "唯一一張圖是 manuscdn.com sandbox 簽章連結（非可查證授權的官方縮圖截圖），且圖片數量只有 1 張，觸發『靜態圖片不足 image<3』",
+      "footnote [^4] 的 markdown 連結語法有誤：`[Wikipedia：酷（YouTuber）](https://zh.wikipedia.org/zh-hant/%E9%85%B7_(YouTuber) — 維基百科條目`，URL 內含未跳脫的 `(YouTuber)`，會讓連結在第一個 `)` 處提早截斷，造成連結實際上是壞的"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治題材，但 §2026年的爭議 段落處理創作者與前員工的勞動糾紛時，明確區分『前員工說法／公司回應／主管機關認定』三層，未把媒體報導直接當成司法或行政認定，是這批裡對爭議事件處理最審慎的段落之一",
+    "content_summary": "法國籍 YouTuber 酷（Ku）的完整人物側寫：從法國南錫、韓國交換到 2017 年定居台灣、2018 年全職創作，經『台灣食物』『中文聽力挑戰』系列，走到 2025 年 100 人參賽、製作費約 500 萬元的《中文怪物》實境節目。文章同時收錄 2026 年 4 月的徵才/勞動爭議（含酷本人 Threads 公開回應）與 2026 年 2 月頻道遭駭事件，17 條腳註以主流媒體與官方頻道為主，敘事平衡、無明顯幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory 欄位", "est_min": 5},
+      {"action": "重新取得/快取正式授權圖片並補足到至少 3 張（官方頻道截圖需確認授權，或改用可查證的 CC 素材）", "est_min": 40},
+      {"action": "body 全形分號 22→≤12", "est_min": 25},
+      {"action": "修正 footnote [^4] Wikipedia 連結的括號跳脫問題", "est_min": 5},
+      {"action": "30秒概覽 blockquote 格式對齊 canonical 語法、description 補到 100-160 字", "est_min": 10}
+    ],
+    "notes": "內容品質高、對勞動爭議處理得體，主要卡點是圖片來源（sandbox 連結+數量不足）與連結語法 bug。"
+  },
+  {
+    "number": 1393,
+    "title": "木曜4超玩：把普通工作的不可見專業拍成網路綜藝",
+    "path": "knowledge/People/木曜4超玩.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位（近似候選『政治與民主』僅 0.47 相似度，明顯不對，需人工挑選）",
+      "prose-health: 全形分號超硬門檻：22 處 > 12"
+    ],
+    "warn_after_count": 37,
+    "semicolon_body_count": 22,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {"url": "https://service.taipower.com.tw/tpcjournal/article/3017", "http_status": 404, "ugc": false, "fabricated": false},
+      {"url": "https://www.managertoday.com.tw/articles/view/59085", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=4BDD390784C63286", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "全篇 0 張圖片，觸發媒體不足 hard gate（image 0 < 3，spore-publish 會失格）",
+      "footnote [^1]（台電月刊）連結確認 404 失效，且這條是文中『一日台電員工』段落的主要佐證來源，需要另尋替代或存檔連結",
+      "subcategory 自動比對失敗（唯一候選『政治與民主』相似度僅 0.47），需要人工從 SUBCATEGORY.md 挑正確值（內容其實是媒體／YouTuber 產業）"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "《一日市長幕僚》段落涉及時任台北市長柯文哲，處理得相當節制：只分析拍攝權力交換與宣傳/娛樂界線，明確寫『現有來源並沒有提供足以證明的因果證據』來拒絕過度推論政治宣傳效果，未見選邊或煽動用語",
+    "content_summary": "網路節目《木曜4超玩》從麥卡貝直播平台試錯，到『一日系列』（市長幕僚、台電員工、路燈維修員、演唱會後台）與團隊重組的完整發展史，並提出『把工作拆成可觀看步驟』的四層節目工法分析框架，反覆區分『合作方一手資料』與『中立觀察』的差異。13 條腳註含台電官方、學術論文、經理人雜誌、多家新聞媒體與台北市政府官方文章，是這批裡查證意識最強的一篇（大量『不能被改寫成…』『現有來源並沒有…』的自我節制語句）。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory 欄位（人工挑選，非自動比對建議值）", "est_min": 5},
+      {"action": "補至少 3 張圖片（官方 YouTube 頻道劇照或相關 CC 素材）", "est_min": 40},
+      {"action": "body 全形分號 22→≤12", "est_min": 25},
+      {"action": "修正/替換 footnote [^1] 失效連結（找台電月刊存檔版或改引其他佐證）", "est_min": 15},
+      {"action": "description 補到 100-160 字（現 77 字）", "est_min": 5}
+    ],
+    "notes": "內容與查證品質是這批裡數一數二紮實的，主要問題是完全沒有配圖與一條失效腳註連結，不是內容本身的問題。"
+  },
+  {
+    "number": 1394,
+    "title": "Joeman：從電競賽評到百萬頻道，鏡頭裡的長期創作者",
+    "path": "knowledge/People/Joeman.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "image-health: 外部圖片熱連結（manuscdn.com sandbox 簽章網址）",
+      "prose-health: 全形分號超硬門檻：25 處 > 12"
+    ],
+    "warn_after_count": 41,
+    "semicolon_body_count": 25,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../joeman-0617.jpg（簽章至 2026-12-28）", "source_type": "AI 工具 sandbox 暫存連結（manuscdn.com）", "license": "背後圖片實為 Wikimedia File:Joeman-0617.jpg，作者 Joeman翁雋明本人，CC BY-SA 4.0，並附 VRT permission ticket #2025061710000633（已用 API 核對相符，authorization 紀錄完整），但連結本身走會過期的簽章網址而非 Wikimedia 直連"}
+    ],
+    "footnote_total": 17,
+    "footnote_sample": [
+      {"url": "https://www.ettoday.net/news/20121101/122153.htm", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cna.com.tw/news/asoc/202511190097.aspx", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://udn.com/news/story/7321/9149107", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "author frontmatter 為 'Taiwan.md'（同批裡另一個非慣用值，跟 1387 一致）",
+      "唯一圖片走 manuscdn.com sandbox 簽章網址，數量只有 1 張，觸發靜態圖片不足 hard gate"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治題材，§大麻事件 段落對司法程序處理極為精確（明確區分『緩起訴』與定罪、道歉與司法程序分開描述、引用 Wikipedia 自身『在世人物條目仍需更多可靠來源』的警語作為使用限制），是這批裡對敏感在世人物負面事件處理最嚴謹的一篇",
+    "content_summary": "YouTuber Joeman（翁雋明）從電競賽評/微星產品經理，到開箱走紅、團隊化經營、Apple Park 邀約，再到 2023 年大麻持有案的道歉、緩起訴與公益影片還債的完整歷程。17 條腳註以 ETtoday、遠見、中央社、聯合報、NOWnews、Wikimedia（含 VRT 授權票證）為主，多次明確標註『媒體評論不等於司法結論』，敘事平衡、查證意識高。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "重新快取圖片到 public/article-images/，補足到至少 3 張（可用同一張 Wikimedia CC BY-SA 4.0 圖的正確直連 + 另找 2 張相關可查證素材）", "est_min": 30},
+      {"action": "body 全形分號 25→≤12", "est_min": 30},
+      {"action": "subcategory 值 '媒體與創作' 不在 taxonomy 合法清單，改為 '數位與媒體'", "est_min": 5},
+      {"action": "description 補到 100-160 字（現 57 字）", "est_min": 5}
+    ],
+    "notes": "圖片授權本身查證良好（含 VRT ticket），只是連結走了會過期的 sandbox 網址，heal 只需要換連結不需要重新找授權來源。"
+  },
+  {
+    "number": 1395,
+    "title": "黑貓老師：從一台過熱的顯示卡，到把流量還給讀者的二十年",
+    "path": "knowledge/People/黑貓老師.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "frontmatter-format: frontmatter 缺必要欄位 `subcategory`",
+      "frontmatter-title: frontmatter 缺 'subcategory' 欄位",
+      "prose-health: 全形分號超硬門檻：17 處 > 12"
+    ],
+    "warn_after_count": 51,
+    "semicolon_body_count": 17,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 14,
+    "footnote_sample": [
+      {"url": "https://blackcatteacher.com/blog/post/blackcat-teacher-fb-origin-story", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cite.com.tw/book?id=77632", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://flipedu.parenting.com.tw/article/007342", "http_status": 403, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "全篇 0 張圖片，觸發媒體不足 hard gate",
+      "字數僅 3206 CJK（達門檻 71%），word-count 檢查標註『虎頭蛇尾風險』",
+      "14 條腳註裡半數以上是主角自己經營的個人網站(blackcatteacher.com)或自己發表的方格子文章，獨立第三方查證來源相對薄弱（僅 vocus.cc BOOM 專訪、翻轉教育、My Plus 職涯文章、圓神出版頁算外部來源）",
+      "查無維基百科條目（zh.wikipedia.org 404），屬中小型自媒體創作者，知名度較這批其他 People 文章（Joeman／木曜4超玩／酷的夢，皆有維基條目）薄"
+    ],
+    "notability": {"wiki": "no", "mainstream_media": "thin", "living_person_negative_ugc": false},
+    "politics_note": "非政治題材",
+    "content_summary": "自媒體創作者黑貓老師從 2015 年意外留下的 Facebook 粉專、2016 年二戰歷史懶人包爆紅、2018 年出版《歷史，就是戰》、2020 年因乾眼症轉向 Podcast，到 2024 年創辦《黑貓創作報》電子報的完整職涯敘事，主題是『創作者如何在演算法與讀者信任之間找平衡』。內容溫暖細膩、誠實揭露過勞與收入不穩定等代價，但多數細節來源是主角自述（個人網站/自己的方格子文章），第三方獨立查證相對薄弱，且查無維基條目，屬知名度中小型的創作者側寫。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "補 subcategory 欄位", "est_min": 5},
+      {"action": "補至少 3 張圖片（黑貓老師本人授權照片或相關 CC 素材）", "est_min": 30},
+      {"action": "body 全形分號 17→≤12", "est_min": 20},
+      {"action": "擴充內容至字數門檻（+1294 字）", "est_min": 30},
+      {"action": "description 補到 100-160 字（現 87 字）", "est_min": 5}
+    ],
+    "notes": "這篇的技術面 heal 不難，但內容有一半以上仰賴主角自述而非第三方查證，加上查無維基條目、字數不足門檻，建議主 session 一併評估『這個知名度層級的自媒體創作者是否值得收錄』這個編輯判斷，而不只是走 heal 流程。"
+  },
+  {
+    "number": 1396,
+    "title": "蒼藍鴿：把白袍的距離搬到鏡頭前",
+    "path": "knowledge/People/蒼藍鴿.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": null,
+    "hard_after": [
+      "prose-health: 全形分號超硬門檻：31 處 > 12"
+    ],
+    "warn_after_count": 30,
+    "semicolon_body_count": 31,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Taiwan_COVID-19_vaccination_20210716.jpg", "source_type": "Wikimedia Commons 直連（同一張圖在文中重複用了 3 次）", "license": "CC BY 2.0，作者總統府（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Taipei_Medical_University_Hospital_20161112.jpg", "source_type": "Wikimedia Commons 直連（重複用了 2 次）", "license": "CC BY-SA 4.0，作者 Padai（圖說標示）"},
+      {"url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Taiwan-COVID19-data-explorer.svg", "source_type": "Wikimedia Commons 直連", "license": "CC BY 4.0，Our World in Data 製作（圖說標示，且明確註明『不把圖表數據歸給蒼藍鴿』）"}
+    ],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {"url": "https://vocus.cc/article/5f6c09e7fd897800015e5c02", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://unbiggie.com/people/celebrity/2023/08/01/bluepigeon/", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://pubmed.ncbi.nlm.nih.gov/37024256/", "http_status": 203, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "subcategory 值 '醫療與公共溝通' 不在 taxonomy 合法清單（只是 warn，非 hard；建議改為 '科學與學術' 或 '社會與公益'）",
+      "6 張圖片裡實際上只有 3 張不同圖（同一張 COVID 疫苗接種照重複用 3 次、臺北醫學大學附設醫院照重複用 2 次），視覺上偏單調但不是授權問題",
+      "結尾段（line 154）出現句尾贅句堆疊，『也不急著把複雜的健康問題交給一句最響亮的答案，也保留每個人真正求助專業的可能與空間支持』語意略顯冗贅重複，屬文氣問題非事實問題"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "非政治題材，但涉及醫療科普與公共衛生（COVID 疫苗）及一起與網紅愛莉莎莎「肝膽排石法」的公開爭議；處理方式在這批文章裡數一數二審慎——不評論該療法真偽、不選邊，把問題框成『誰有資格說話』的媒體生態分析，並反覆用『不代替醫學指南』『不把圖表數據歸給蒼藍鴿』等語句避免誇大或誤導,是很好的醫療人物寫作示範",
+    "content_summary": "台大兒科醫師吳其穎（蒼藍鴿）從 2017 年經營醫療 YouTube 頻道，到疫情期間疫苗科普、書籍與 Podcast 跨平台衛教，並收錄與愛莉莎莎「肝膽排石法」爭議的分析。13 條腳註含人物專訪、官方圖書館活動頁、診所/醫院官網、PubMed/BMJ Open 學術研究、官方 YouTube 影片，無 UGC 來源，對『職稱隨時間變動』『影片不能取代看診』等細節反覆做時間點與範圍限定，是這批 People 文章裡查證最嚴謹的之一。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "body 全形分號 31→≤12（改寫成句號或重組約 19 句）", "est_min": 35},
+      {"action": "subcategory 改為 taxonomy 合法值（建議「科學與學術」或「社會與公益」）", "est_min": 5},
+      {"action": "刪除 2 處校正焦慮句式（『把一般知識與個別診療分開』『把醫療相關業配與一般產品分開』）", "est_min": 5},
+      {"action": "description 補到 100-160 字（現 40 字）", "est_min": 5},
+      {"action": "補 rationale block", "est_min": 5},
+      {"action": "3 張重複使用的圖片可考慮替換成更多元的素材（非必要，僅建議）", "est_min": 15}
+    ],
+    "notes": "這篇對醫療爭議與在世人物負面事件（肝膽排石法爭議）的處理方式，可以當成這批甚至整站醫療類 People 文章的示範案例——不做醫學結論、多次自我限定引用範圍。"
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "number": 1414,
+    "title": "Create 大甲媽祖遶境.md",
+    "path": "knowledge/Culture/大甲媽祖遶境.md",
+    "is_update": false,
+    "heal_exit_code": 0,
+    "hard_before": [],
+    "hard_after": [],
+    "warn_after_count": 14,
+    "semicolon_body_count": 1,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 12,
+    "footnote_sample": [
+      {"url": "https://www.twreporter.org/topics/mazu-pilgrimage", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://taiwangods.moi.gov.tw/html/landscape/1_0011.aspx?i=39", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://en.wikipedia.org/wiki/Dajia_Mazu_Pilgrimage", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "featured: true — 新篇即設為 featured，通常需先過人工複核",
+      "author: 'Taiwan.md Contributors' 為本站常見標準值（47篇同值），非異常，但列出供哲宇確認慣例",
+      "[^12] 為中研院民族所學者臉書貼文，URL 含亂碼百分比編碼片段（%B4%80...%B4%BD 中段有明顯錯位字元），疑似複製貼上時損毀，但 curl 測試仍回 200（Facebook 對任意路徑均回200，不代表連結真的指向該貼文，建議人工開啟確認）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "民間信仰與公民社會敘事，非統獨/政黨相關；多源引用（報導者、天下雜誌、公視、內政部、光華雜誌、維基）具平衡性；文中一句「政治人物也將參與遶境視為展現親民」點到為止未渲染，無煽動詞彙。",
+    "content_summary": "介紹大甲媽祖遶境的歷史起源（1730年林永興攜香火）、點心擔無償經濟學、階級消解現象、數位化轉型（GPS/直播），將其定位為「公民社會實驗」。取材多源（報導者/天下/公視/內政部/光華雜誌/維基），敘事完整但抒情化程度偏高（塑膠句、對位句型、長句 warn 多次），無明顯幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "subcategory 改為 taxonomy 合法值（現填「信仰與民俗」不存在，建議「宗教與民俗」）", "est_min": 2},
+      {"action": "description 補到 100-160 字下限（現 72 字）", "est_min": 3},
+      {"action": "拆解 4 處對位句型（不是...而是/不僅...更是）與 1 處塑膠句", "est_min": 8},
+      {"action": "line 39 全形分號改句號，line 31 長句拆 2-3 句", "est_min": 4},
+      {"action": "補至少 hero+1 inline 圖片（image-health hard gate for spore-publish，非本文hard fail但會擋孢子發佈）", "est_min": 20},
+      {"action": "加延伸閱讀 section", "est_min": 3}
+    ],
+    "notes": "整體是本批中最乾淨的一篇，heal 腳本沒有實際修改任何內容（hard=0且warn維持14），純屬文字打磨層級的問題。"
+  },
+  {
+    "number": 1415,
+    "title": "Create 拼板舟.md",
+    "path": "knowledge/Culture/拼板舟.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-ponso-tao-1931.jpg",
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-museum-eleva.jpg",
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-yami-ipanitika-2011.jpg",
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-boats-circa-1935.jpg",
+      "image-health: frontmatter image 檔不存在 /article-images/culture/lanyu-tatala-ponso-tao-1931.jpg",
+      "prose-health: 全形分號超硬門檻 50處 > 12"
+    ],
+    "hard_after": [
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-ponso-tao-1931.jpg",
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-museum-eleva.jpg",
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-yami-ipanitika-2011.jpg",
+      "image-health: 圖片檔不存在 /article-images/culture/lanyu-tatala-boats-circa-1935.jpg",
+      "image-health: frontmatter image 檔不存在 /article-images/culture/lanyu-tatala-ponso-tao-1931.jpg",
+      "prose-health: 全形分號超硬門檻 50處 > 12"
+    ],
+    "warn_after_count": 62,
+    "semicolon_body_count": 50,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 17,
+    "footnote_sample": [
+      {"url": "https://nchdb.boch.gov.tw/assets/overview/folklore/20110510000004", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cna.com.tw/news/acul/202606110051.aspx", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cnn.com/2026/06/17/asia/taiwan-indigenous-paddle-philippines-intl-hnk", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "文末「圖片來源」section 明確聲稱『本文使用 4 張公有領域或 CC 授權圖片，全部已 cache 於 public/article-images/culture/』，但實際檔案系統中完全不存在這 4 個檔案——文字聲稱與實際狀態不符（已用 Wikimedia API 驗證兩張圖片授權聲稱屬實：Ponso_no_Tao.jpg=Public domain, Yami_ipanitika.jpg=CC BY-SA 3.0，故不是編造來源，是漏了實際下載/ingest 這一步）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "達悟／雅美族拼板舟與傳統智慧創作保護（原住民族 IP 權利）題材，處理得相當謹慎——明確引用夏曼·藍波安與族人訪談、多次強調「不能把個人經驗改寫成全族共識」「不是反對交流而是要求先承認權利」，無獵奇或他者化口吻，是本批原民題材中平衡度最高的一篇。",
+    "content_summary": "深度報導蘭嶼拼板舟（Tatala）的樹種選材、造舟工序、下水祭儀、紋樣意義、傳統智慧創作保護（avavang案例）、直到2026年『蘭嶼－巴丹三百年首航』時事收尾。17條腳註橫跨國家文化資產網、內政部宗教文化地圖、海科館、史前館、學術論文（東台灣研究）、Bowers Museum、CNN、中央社、TTN旅報，取材扎實且交叉驗證意識強（文中多次提醒『不能把個案當全島唯一材料清單』）。唯一疑慮是全文反覆使用『不是A，而是B』對位句型超過15次，形成公式化的AI寫作痕跡。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "用 image-ingest.mjs 把文中已列出來源的 4 張 Wikimedia 圖片實際下載、清 EXIF、存進 public/article-images/culture/", "est_min": 15},
+      {"action": "50處全形分號降到≤12（多數為列舉性質可改頓號，少數為子句可拆句號）", "est_min": 30},
+      {"action": "淡化反覆出現的『不是A而是B』對位句型（15+次，MANIFESTO §11 Tier1）", "est_min": 25},
+      {"action": "subcategory 改 taxonomy 合法值（現填「海洋文化與傳統技術」不存在）", "est_min": 2},
+      {"action": "刪除「需要說清楚」校正焦慮句式", "est_min": 2}
+    ],
+    "notes": "研究深度與sourcing品質在本批中數一數二，但hard gate量體最大（50處分號+4張圖片全部沒ingest），heal work量預估 70+ 分鐘，比其他篇明顯重。"
+  },
+  {
+    "number": 1416,
+    "title": "Create 安坑輕軌.md",
+    "path": "knowledge/Geography/安坑輕軌.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "frontmatter-format: 缺必要欄位 subcategory",
+      "frontmatter-title: 缺 subcategory 欄位（最佳匹配 交通與基礎設施 ratio=0.47，未達自動套用門檻）",
+      "image-health: 外部圖片熱連結",
+      "prose-health: 全形分號超硬門檻 25處 > 12"
+    ],
+    "hard_after": [
+      "frontmatter-format: 缺必要欄位 subcategory",
+      "frontmatter-title: 缺 subcategory 欄位（最佳匹配 交通與基礎設施 ratio=0.47，未達自動套用門檻）",
+      "image-health: 外部圖片熱連結",
+      "prose-health: 全形分號超硬門檻 25處 > 12"
+    ],
+    "warn_after_count": 42,
+    "semicolon_body_count": 30,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://www.ntmetro.com.tw/archive/images/營運路線圖-221005_Ｋ安坑_20230215.png", "source_type": "企業CDN（新北大眾捷運官方）", "license": "政府網站資料開放宣告（frontmatter聲明）"}
+    ],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {"url": "https://www.ndc.gov.tw/nc_27_19817", "http_status": 403, "ugc": false, "fabricated": false, "note": "疑似政府網站對curl/bot擋403，非連結本身失效"},
+      {"url": "https://www.dorts.ntpc.gov.tw/about/route/jW0OdPGn2nbJ", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://udn.com/news/story/7323/9655456", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "作者在圖說中主動自陳『圖片採官方熱網址嵌入，未下載』——屬透明揭露而非隱藏問題，但仍觸發image-health hard gate"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "politics_note": "基礎建設題材，非政治敏感；文章刻意呈現雙面數據（2025全球卓越建設銀獎 vs. 審計處指出客運量僅達標65.38%），並明確拆解不同時間尺度數字避免誤導比較，屬本批中數據紀律最嚴謹的一篇。",
+    "content_summary": "從2015年國發會審議、2023年通車、安心橋工程細節、公共藝術設計，到2025年運量落差與最後一哩接駁問題，完整交代安坑輕軌十年軌跡。13條腳註以官方源為主（國發會、新北捷運工程局、中央社、聯合報、Focus Taiwan），數字引用嚴謹（明確區分『通車前預估』『規劃目標年』『2025實際值』三種不可互相比較的量尺），無幻覺跡象。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "用 assign-subcategory 或人工指定「交通與基礎設施」", "est_min": 2},
+      {"action": "把熱連結路線圖圖片實際下載存入 public/article-images/geography/", "est_min": 10},
+      {"action": "25處全形分號降到≤12", "est_min": 20}
+    ],
+    "notes": "整體品質高、資料紀律好，hard fail都是機械性（缺subcategory + 熱連結 + 分號），非內容問題。"
+  },
+  {
+    "number": 1417,
+    "title": "Create 醬油.md",
+    "path": "knowledge/Food/醬油.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "image-health: 外部圖片熱連結",
+      "image-health: frontmatter image 檔不存在 assets/wanjashan-soy-sauce-cc-by-2.0.jpg",
+      "prose-health: 全形分號超硬門檻 22處 > 12"
+    ],
+    "hard_after": [
+      "image-health: 外部圖片熱連結",
+      "image-health: frontmatter image 檔不存在 assets/wanjashan-soy-sauce-cc-by-2.0.jpg",
+      "prose-health: 全形分號超硬門檻 22處 > 12"
+    ],
+    "warn_after_count": 36,
+    "semicolon_body_count": 25,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/6moyFtkik56pwgJ9Z6VXLp/sandbox/...wanjashan...jpg?Policy=...", "source_type": "AI工具暫存連結（Manus AI sandbox session file，簽章連結）", "license": "未知/連結已失效（curl測試回403）"}
+    ],
+    "footnote_total": 8,
+    "footnote_sample": [
+      {"url": "https://ryoritaiwan.fcdc.org.tw/columns/4993", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.food.org.tw/Page/Winner?...", "http_status": "000 (curl連線失敗)", "ugc": false, "fabricated": "未知，需人工開啟確認"},
+      {"url": "https://news.pts.org.tw/article/121954", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "內文唯一插圖是 manuscdn.com（Manus AI agent 沙盒暫存檔連結）簽章網址，curl 驗證回 403（已失效），證實本文是用 AI agent 工具產出、且投稿前未把暫存圖片轉存成真正的 public/article-images 路徑",
+      "全部 8 條腳註書名被截斷：格式皆為『[作者名，〈](URL)』——書名號後方直接接右括號，篇名整個消失（如 [^1] 顯示為『蘇俐穎，〈』、[^2]『陳建源，〈』……8條全部同樣缺陷），heal 腳本雖回報『8/8 footnote(s) fixed』但那只是格式正規化，並未補回缺失的篇名",
+      "[^7][^8] 定義但正文從未引用（孤兒腳註）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "食物文化題材，非政治敏感。",
+    "content_summary": "以西螺丸莊、黑豆蔭油 vs. 豆麥醬油兩條脈絡，串起日治技術引進、戰後食安焦慮、地方產業（西螺）到食農教育的完整敘事，結構清楚（『一瓶醬油裡的三種時間』收尾佳）。來源含台灣光華、中華飲食文化基金會、農業部農糧署、學位論文、世新小世界周報等，多元且非UGC，但因引用格式缺陷（篇名全部截斷）目前無法逐條驗證每則陳述對應哪篇文章。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "逐一開啟 8 條腳註 URL，補回被截斷的實際篇名（目前只有作者名）", "est_min": 20},
+      {"action": "重新找一張醬油相關 CC/PD 圖片正式 ingest（frontmatter已標示Wikimedia來源VeganWarrior CC BY 2.0，可直接用該來源檔重新下載取代manuscdn連結）", "est_min": 10},
+      {"action": "22處全形分號降到≤12", "est_min": 15},
+      {"action": "處理[^7][^8]孤兒腳註（補引用或移除）", "est_min": 5}
+    ],
+    "notes": "腳註篇名全數缺失是本篇最需要留意的地方——不是連結死掉，是citation本身資訊不完整，建議heal時一併補齊，不能只跑格式腳本。"
+  },
+  {
+    "number": 1418,
+    "title": "Create 水道頭.md",
+    "path": "knowledge/Society/水道頭.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-puzih-official.jpg",
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-beigang-wikimedia.jpg",
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-daya-wikimedia.jpg",
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-kaohsiung-wikimedia.jpg",
+      "image-health: frontmatter image 檔不存在 /article-images/society/water-tower-puzih-official.jpg"
+    ],
+    "hard_after": [
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-puzih-official.jpg",
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-beigang-wikimedia.jpg",
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-daya-wikimedia.jpg",
+      "image-health: 圖片檔不存在 /article-images/society/water-tower-kaohsiung-wikimedia.jpg",
+      "image-health: frontmatter image 檔不存在 /article-images/society/water-tower-puzih-official.jpg"
+    ],
+    "warn_after_count": 2,
+    "semicolon_body_count": 0,
+    "semicolon_style": "n/a",
+    "hotlink_images": [],
+    "footnote_total": 8,
+    "footnote_sample": [
+      {"url": "https://nchdb.boch.gov.tw/assets/overview/monument/20100115000001", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.water.gov.taipei/cp.aspx?n=CF7ECF39D4BC72C6", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://ourisland.pts.org.tw/content/2447", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "frontmatter 有 researchReport: 'reports/research/2026-08/水道頭.md' 指標，但該檔案在本 worktree 不存在（可能是投稿者本地流程產物未一併提交，非內容問題）",
+      "8條腳註描述文字均為通用套語『— 詳見原始連結內文資料補充』，非逐條客製化摘要（比PR1417的篇名缺失問題輕微，但仍不夠具體）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "公共衛生／基礎建設史題材，無政治敏感性。",
+    "content_summary": "本批中結構與文字品質最完整的一篇：有 rationale block（why_this_hook/whats_excluded/where_it_hedges/whos_pushing_back 四項齊全，本批唯一）、lastHumanReview: true、0處全形分號、僅2個warn。從朴子、虎尾、北港、大雅、林邊、高雄六地水塔串起公共衛生史、計量給水制度、產業用水需求、文化資產保存與防災教育，敘事節制不煽情，是本批建議優先合併的候選。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "用 image-ingest.mjs 把文中已列來源（國家文化資產網、Wikimedia Commons）的4張圖片實際下載存入 public/article-images/society/", "est_min": 15},
+      {"action": "subcategory 改 taxonomy 合法值（現填「城市與生活」不存在，SSOT 候選需人工挑選，如「社區與日常」）", "est_min": 3}
+    ],
+    "notes": "唯一 hard fail 只有圖片未ingest（結構性問題，非內容問題），heal_plan 是本批最輕量的一篇，強烈建議優先處理。"
+  },
+  {
+    "number": 1419,
+    "title": "Create 莫拉克風災.md",
+    "path": "knowledge/History/莫拉克風災.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "frontmatter-format: 缺必要欄位 subcategory",
+      "frontmatter-title: 缺 subcategory 欄位（候選 史前與原住民/經濟發展史 ratio=0.47）",
+      "prose-health: 全形分號超硬門檻 24處 > 12（實為內容重複兩份造成雙倍計算）"
+    ],
+    "hard_after": [
+      "frontmatter-format: 缺必要欄位 subcategory",
+      "frontmatter-title: 缺 subcategory 欄位（候選 史前與原住民/經濟發展史 ratio=0.47）",
+      "prose-health: 全形分號超硬門檻 24處 > 12（實為內容重複兩份造成雙倍計算）"
+    ],
+    "warn_after_count": 52,
+    "semicolon_body_count": 24,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 9,
+    "footnote_sample": [
+      {"url": "https://www.nlma.gov.tw/ch/titlelist/areanu/4830", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cy.gov.tw/News_Content.aspx?n=125&s=23550", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://pubmed.ncbi.nlm.nih.gov/26749170/", "http_status": 203, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "★關鍵結構性錯誤：整份檔案內容（frontmatter block + 全文）從第1行到166行逐字重複兩次（第2個frontmatter block從第84行開始，body從96行重複到166行，與1-83行內容完全相同）。這個bug直接導致 article-health 把分號數算成24（實際去重後單份只有12處，剛好壓在門檻邊緣，若稍微收斂1-2處即可完全合規），也讓warn數（52）虛高。"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "莫拉克風災＋小林村滅村＋原住民族災後重建是高度政治敏感題材（2009年馬政府救災延遲飽受爭議），但本文完全不涉入政黨/個人究責，聚焦制度性檢討（永久屋政策、離災離鄉問題、原民參與決策權），引用監察院2022年糾正報告與多篇跨國學術研究（Tsai et al./Lin & Lin/Wu & Lu），視角平衡且具批判深度，是本批政治敏感題材中處理最成熟的一篇。",
+    "content_summary": "以『房子蓋好了，家何時才回得去』為主線，從小林村407人罹難、永久屋政策設計、NGO主導重建的四階段框架、安全與返鄉的張力，到監察院2022年『離災又離鄉』2379戶(85%)的調查結果收尾，論述扎實、無明顯幻覺跡象，去重後即是一篇高品質的政策分析文章。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "★優先：刪除重複的後半段內容（第84-166行，與1-83行逐字相同）", "est_min": 3},
+      {"action": "去重後補 subcategory taxonomy 合法值", "est_min": 2},
+      {"action": "去重後分號剛好壓在12的門檻邊緣，建議再收斂1-2處確保穩定通過", "est_min": 5}
+    ],
+    "notes": "★本PR最重要的發現：整份文件重複貼上兩次。這不是排版問題而是實質性bug，去重是merge前的硬性前提，且去重後大部分hard/warn問題會自動減半甚至消失。"
+  },
+  {
+    "number": 1420,
+    "title": "Create 哈哈台.md",
+    "path": "knowledge/Society/哈哈台.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "image-health: 圖片檔不存在 ../../images/hahatai_daan_ep1.jpg",
+      "image-health: 圖片檔不存在 ../../images/hahatai_daan_squirrel.jpg",
+      "image-health: 圖片檔不存在 ../../images/hahatai_hualien.jpg"
+    ],
+    "hard_after": [
+      "image-health: 圖片檔不存在 ../../images/hahatai_daan_ep1.jpg",
+      "image-health: 圖片檔不存在 ../../images/hahatai_daan_squirrel.jpg",
+      "image-health: 圖片檔不存在 ../../images/hahatai_hualien.jpg"
+    ],
+    "warn_after_count": 34,
+    "semicolon_body_count": 11,
+    "semicolon_style": "clause",
+    "hotlink_images": [],
+    "footnote_total": 21,
+    "footnote_sample": [
+      {"url": "https://star.ettoday.net/news/2377713", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.cw.com.tw/article/5123919", "http_status": 403, "ugc": false, "fabricated": false, "note": "疑似天下雜誌反爬蟲擋curl，非連結失效"},
+      {"url": "https://www.chinatimes.com", "http_status": 200, "ugc": false, "fabricated": false, "note": "僅連到首頁而非具體文章"}
+    ],
+    "red_flags": [
+      "★[^2] 引用『銘傳大學媒體系專訪』連結網域為 jmc.edu.tw，DNS 完全無法解析（Could not resolve host）；銘傳大學實際官方網域為 mcu.edu.tw，高度疑似捏造/幻覺網域",
+      "★[^18] 引用『走鐘獎第六屆入圍名單』連結網域為 walkofvideo.com，DNS 完全無法解析；查證走鐘獎真實官方網域為 walkbell-awards.com，同樣高度疑似捏造網域",
+      "約10/21條腳註（[^2][^4][^5][^7][^10][^12][^13][^16][^17][^18]）只連到網站首頁而非具體報導頁面，讀者無法驗證引述內容是否真的出自該媒體",
+      "文中多處具名在世人物直接引語（創辦人林志杰／主持人蓋瑞／旁白哥RJ）的引用來源正是上述bare-domain或無法解析的連結，例如蓋瑞『有時候社會上還是存在著對移工的偏見...』與林志杰『我的母親及我的小孩都受到移工非常多的幫忙...』兩句均只標註[^10]（chinatimes.com首頁），無法核實逐字準確度"
+    ],
+    "notability": {"wiki": "yes", "mainstream_media": "yes", "living_person_negative_ugc": false},
+    "notability_detail": "zh.wikipedia.org/zh-hant/哈哈台 回200，且有TVBS/中時/ETtoday/Deadline/Variety等主流媒體報導，頻道本身知名度無虞；問題在於文中細節citation的可驗證性，不在notability。",
+    "politics_note": "非政治題材（YouTube網紅頻道／網路文化），移工特輯段落處理得體，無獵奇或負面框架。",
+    "content_summary": "介紹YouTube街訪頻道哈哈台（HahaTai）從2015年開台、2019年〈大安區閒人〉爆紅、2022年五股假路人風波、2023年走鐘獎雙冠、2024年十週年活動到2025年海外擴張的完整十年軌跡，敘事流暢、時間軸清楚，是本批寫作技巧最成熟的一篇；但引用可驗證性是本批最嚴重的問題——21條腳註中近半數僅連到首頁、其中兩條網域經DNS查證確認不存在，且這些連結恰好是文中最關鍵的具名引語（創辦人與主持人發言）的唯一出處，需要在合併前完整覆核。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "★強制：逐條重新查證全部21條腳註，優先找出[^2]、[^18]的真實對應URL（或確認該來源根本不存在，屆時需拿掉相關陳述或改標「未查證」）", "est_min": 30},
+      {"action": "★[^10]所引兩句具名引語（林志杰/蓋瑞）需另外找到可驗證的原始報導連結，若找不到應考慮軟化為間接敘述而非直接引號", "est_min": 15},
+      {"action": "把剩餘bare-domain腳註（[^4][^5][^7][^12][^13][^16][^17]）換成具體文章深連結", "est_min": 20},
+      {"action": "圖片路徑 ../../images/ 是錯誤相對路徑，改成正式 image-ingest 流程存入 public/article-images/society/", "est_min": 10}
+    ],
+    "notes": "★本PR最重要的發現：兩條引用網域經DNS實測完全不存在（jmc.edu.tw、walkofvideo.com），且正好是文中具名在世人物直接引語的來源。這不是格式問題，是內容可信度問題，建議merge前務必完成引用覆核，不能只靠機械式heal腳本處理。"
+  },
+  {
+    "number": 1421,
+    "title": "Create 台灣糖業鐵路.md",
+    "path": "knowledge/History/台灣糖業鐵路.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "image-health: 外部圖片熱連結（archives.gov.tw圖片1）",
+      "image-health: 外部圖片熱連結（archives.gov.tw圖片2）",
+      "image-health: 外部圖片熱連結（img.taipeitimes.com圖片）",
+      "prose-health: 全形分號超硬門檻 19處 > 12"
+    ],
+    "hard_after": [
+      "image-health: 外部圖片熱連結（archives.gov.tw圖片1）",
+      "image-health: 外部圖片熱連結（archives.gov.tw圖片2）",
+      "image-health: 外部圖片熱連結（img.taipeitimes.com圖片）",
+      "prose-health: 全形分號超硬門檻 19處 > 12"
+    ],
+    "warn_after_count": 49,
+    "semicolon_body_count": 23,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://www.archives.gov.tw/wSite/public/Attachment/004/f1731569739322.jpg", "source_type": "政府網站（國家發展委員會檔案管理局）", "license": "未於文中明確標示，政府公開檔案，需查證是否可自由重製"},
+      {"url": "https://www.archives.gov.tw/wSite/public/Attachment/004/f1731569738070.jpg", "source_type": "政府網站（國家發展委員會檔案管理局）", "license": "同上"},
+      {"url": "https://img.taipeitimes.com/images/2026/01/04/P12-260104-a.jpg", "source_type": "新聞媒體（Taipei Times）", "license": "未標示，新聞圖片版權通常保留，需確認是否可用或改找PD替代圖"}
+    ],
+    "footnote_total": 13,
+    "footnote_sample": [
+      {"url": "https://www.archives.gov.tw/tw/arctw/69-1967.html", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://www.taipeitimes.com/News/feat/archives/2026/01/04/2003850004", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://lawmaker.twreporter.org/congress/a/158750", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "frontmatter 有 researchReport: 'reports/research/2026-08/taiwan-sugar-railways.md' 但該檔案在本worktree不存在（與PR1418同款模式，可能是投稿者本地產物未提交，非內容問題）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "產業史題材，刻意避免『單向殖民遺產線』敘事，明確指出戰後台糖統一規格、擴建路網是不同政權接手同一套軌道，處理得持平不偏頗，無政治敏感疑慮。",
+    "content_summary": "從1902年橋仔頭糖廠設立、1905年赴夏威夷考察762mm軌距、戰後路網達3,244公里長過臺鐵、1982年最後營業線停駛，到觀光轉型與2021年糖鐵國家綠道，完整交代糖業鐵路百年興衰，並引用英國學者Dafydd Fell的1990年代影像紀錄與2025年立法院質詢逐字稿佐證現狀數字，來源多元（國家檔案局、台糖官方、Taipei Times、SOAS學術機構、報導者國會逐字稿），全部footnote抽查均可驗證，內容品質高。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "把3張熱連結圖片（2張政府檔案局+1張Taipei Times）實際下載cache；Taipei Times新聞圖片需先確認授權，若不可用則改用政府檔案局或Wikimedia的公有領域圖片替代", "est_min": 15},
+      {"action": "19處全形分號降到≤12", "est_min": 15},
+      {"action": "subcategory 值待確認是否為 taxonomy 合法值", "est_min": 2}
+    ],
+    "notes": "本批中另一篇高品質候選，heal work量中等，主要是機械性問題（熱連結+分號），內容本身無疑慮。"
+  },
+  {
+    "number": 1422,
+    "title": "Create 飛魚.md",
+    "path": "knowledge/Food/飛魚.md",
+    "is_update": false,
+    "heal_exit_code": 1,
+    "hard_before": [
+      "image-health: 外部圖片熱連結（manuscdn圖片1）",
+      "image-health: 外部圖片熱連結（manuscdn圖片2）",
+      "image-health: 圖片檔不存在 images/silver_helmets.jpg",
+      "image-health: 外部圖片熱連結（manuscdn圖片3）",
+      "image-health: 外部圖片熱連結（manuscdn圖片4）",
+      "image-health: 圖片檔不存在 images/dried_fish_wall.jpg",
+      "prose-health: 全形分號超硬門檻 16處 > 12"
+    ],
+    "hard_after": [
+      "image-health: 外部圖片熱連結（manuscdn圖片1）",
+      "image-health: 外部圖片熱連結（manuscdn圖片2）",
+      "image-health: 圖片檔不存在 images/silver_helmets.jpg",
+      "image-health: 外部圖片熱連結（manuscdn圖片3）",
+      "image-health: 外部圖片熱連結（manuscdn圖片4）",
+      "image-health: 圖片檔不存在 images/dried_fish_wall.jpg",
+      "prose-health: 全形分號超硬門檻 16處 > 12"
+    ],
+    "warn_after_count": 45,
+    "semicolon_body_count": 17,
+    "semicolon_style": "clause",
+    "hotlink_images": [
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/v359WZhQj4gGhnKT7BdFfa/.../flying_fish.jpg?Policy=...", "source_type": "AI工具暫存連結（Manus AI sandbox）", "license": "未知/連結已失效（curl測試回403）"},
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../canoe_duo.jpg?Policy=...", "source_type": "AI工具暫存連結（Manus AI sandbox）", "license": "同上，同session不同檔"},
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../fish_season_torches.jpg?Policy=...", "source_type": "AI工具暫存連結（Manus AI sandbox）", "license": "同上"},
+      {"url": "https://private-us-east-1.manuscdn.com/sessionFile/.../fishing_rack.jpg?Policy=...", "source_type": "AI工具暫存連結（Manus AI sandbox）", "license": "同上"}
+    ],
+    "footnote_total": 17,
+    "footnote_sample": [
+      {"url": "https://www.taofoundation.org.tw/story/ceremony.html", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=198", "http_status": 200, "ugc": false, "fabricated": false},
+      {"url": "https://fae.moa.gov.tw/map/food_item.php?type=AS08&id=273", "http_status": 200, "ugc": false, "fabricated": false}
+    ],
+    "red_flags": [
+      "全文4張插圖皆為 manuscdn.com（Manus AI agent 沙盒暫存檔）簽章連結，curl 驗證回403（已失效）——與PR1417同一模式，證實至少這兩篇是用Manus AI產出且投稿前未把暫存圖片轉存",
+      "另有2張圖片用錯誤相對路徑 images/silver_helmets.jpg、images/dried_fish_wall.jpg，本機根本不存在",
+      "[^6] markdown連結語法有誤：URL含未跳脫括號 `Flying_fish_festival_(Taiwan)` 導致連結字串在渲染時可能於右括號處被截斷（維基百科頁面本身經curl驗證存在且200，只是markdown語法需修正為用<>包裹或去除或跳脫括號）",
+      "[^17]-[^20] 四條腳註定義但正文從未引用（孤兒腳註）；另外編號跳過[^9][^10][^11]（未使用純屬編號留白，非缺失）"
+    ],
+    "notability": {"wiki": "n/a", "mainstream_media": "n/a", "living_person_negative_ugc": false},
+    "politics_note": "達悟族飛魚祭題材，處理態度與PR1415（拼板舟）一致謹慎——強調禁忌體系是『魚頒布規則、人遵守』的宇宙觀而非獵奇習俗介紹，並在文末段落點出『觀光正改變這個體系的邊界』的反思，無他者化口吻。內容與PR1415（拼板舟）在飛魚季、招魚祭、下水祭等主題有相當程度重疊，建議合併審查時留意兩篇會不會互相打架或需要交叉連結。",
+    "content_summary": "以『一條魚規定了蘭嶼人的日曆』為主軸，從創世神話『黑翅飛魚神』託夢立法、三種飛魚的階序與烹飪禁忌、黑潮洄游時序、十一個祭儀的三階段架構、七條飲食戒律，到觀光衝擊下的變形（蘭嶼飛魚文化會館2005年成立、火把夜捕變成觀光行程）收尾。17條腳註以內政部宗教資訊網、農業部食農平台、原民會、蘭嶼部落文化基金會為主力，並含Global Voices、Taipei Times等英文媒體視角，取材扎實；主要問題集中在圖片全部未妥善ingest。",
+    "update_delta": null,
+    "verdict_suggestion": "heal-then-merge",
+    "heal_plan": [
+      {"action": "4張manuscdn暫存圖需重新找真正的CC/PD替代來源（如Wikimedia Commons搜尋飛魚/達悟族相關圖片）並正式ingest，不能沿用失效的sandbox連結", "est_min": 20},
+      {"action": "2張本地路徑圖片（images/silver_helmets.jpg、images/dried_fish_wall.jpg）同樣需要補上實際檔案或改連結來源", "est_min": 10},
+      {"action": "修正[^6]維基百科連結的括號跳脫問題", "est_min": 2},
+      {"action": "16處全形分號降到≤12", "est_min": 12},
+      {"action": "處理[^17]-[^20]孤兒腳註（補引用或移除）", "est_min": 5},
+      {"action": "與PR1415（拼板舟）比對內容重疊，決定是否互相加延伸閱讀連結", "est_min": 5}
+    ],
+    "notes": "圖片問題模式與PR1417（醬油）幾乎一致（同為manuscdn AI暫存連結失效），加上PR1415也有圖片未ingest問題，顯示這批投稿裡至少3篇（1415/1417/1422）都存在『引用了圖片來源但沒有真的執行下載ingest』的系統性缺口，建議主session review時整批一起處理圖片ingest流程。"
+  }
+]

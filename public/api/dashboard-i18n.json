@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-17T22:12:45Z",
-  "max_total": 2304,
+  "generated": "2026-08-22T22:12:20Z",
+  "max_total": 2306,
   "modules": [
     {
       "name": "home",
@@ -22,18 +22,18 @@
     {
       "name": "about",
       "langs": {
-        "zh-TW": 274,
-        "en": 274,
-        "ja": 274,
-        "ko": 274,
-        "es": 268,
-        "fr": 268,
-        "vi": 268,
-        "id": 268,
-        "pt": 268,
-        "hi": 268,
-        "ar": 268,
-        "ru": 268
+        "zh-TW": 276,
+        "en": 276,
+        "ja": 276,
+        "ko": 276,
+        "es": 270,
+        "fr": 270,
+        "vi": 270,
+        "id": 270,
+        "pt": 270,
+        "hi": 270,
+        "ar": 270,
+        "ru": 270
       }
     },
     {
@@ -208,17 +208,17 @@
     }
   ],
   "lang_totals": {
-    "zh-TW": { "keys": 2304, "coverage_pct": 100.0 },
-    "en": { "keys": 2304, "coverage_pct": 100.0 },
-    "ja": { "keys": 2295, "coverage_pct": 99.61 },
-    "ko": { "keys": 2295, "coverage_pct": 99.61 },
-    "es": { "keys": 2289, "coverage_pct": 99.35 },
-    "fr": { "keys": 2288, "coverage_pct": 99.31 },
-    "vi": { "keys": 2288, "coverage_pct": 99.31 },
-    "id": { "keys": 2288, "coverage_pct": 99.31 },
-    "pt": { "keys": 2288, "coverage_pct": 99.31 },
-    "hi": { "keys": 2288, "coverage_pct": 99.31 },
-    "ar": { "keys": 2288, "coverage_pct": 99.31 },
-    "ru": { "keys": 2288, "coverage_pct": 99.31 }
+    "zh-TW": { "keys": 2306, "coverage_pct": 100.0 },
+    "en": { "keys": 2306, "coverage_pct": 100.0 },
+    "ja": { "keys": 2297, "coverage_pct": 99.61 },
+    "ko": { "keys": 2297, "coverage_pct": 99.61 },
+    "es": { "keys": 2291, "coverage_pct": 99.35 },
+    "fr": { "keys": 2290, "coverage_pct": 99.31 },
+    "vi": { "keys": 2290, "coverage_pct": 99.31 },
+    "id": { "keys": 2290, "coverage_pct": 99.31 },
+    "pt": { "keys": 2290, "coverage_pct": 99.31 },
+    "hi": { "keys": 2290, "coverage_pct": 99.31 },
+    "ar": { "keys": 2290, "coverage_pct": 99.31 },
+    "ru": { "keys": 2290, "coverage_pct": 99.31 }
   }
 }

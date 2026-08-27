@@ -1,133 +1,134 @@
 ---
-title: "L'île qui court après les camions-poubelles : de la crise des déchets au miracle du recyclage à Taïwan"
-description: "Dans les années 1990, Taïwan comptait plus de 400 décharges sur le point de saturer et était surnommée « l'île poubelle » par la presse internationale. Trente ans plus tard, grâce à Beethoven et à des politiques audacieuses, le pays affiche un taux de recyclage supérieur à la plupart des nations européennes."
+title: "L'île qui poursuit les camions d'ordures : Taïwan, du crise des déchets au miracle du recyclage"
+description: "Un lieu surnommé « l'île des ordures » par les médias internationaux dans les années 1990, avec 400 décharges quasi saturées, qui a utilisé la musique de Beethoven pour inciter 23 millions de personnes à poursuivre les camions d'ordures chaque jour ; trente ans plus tard, son taux de recyclage des ressources dépasse celui de la plupart des pays européens."
 date: 2026-03-23
+category: 'Lifestyle'
 tags:
   [
-    'zéro déchet au sol',
-    'recyclage',
-    'collecte sélective',
-    'musique du camion-poubelles',
+    'Pas de poubelles dans la rue',
+    'Recyclage des ressources',
+    'Programme de recyclage en quatre volets',
+    "Musique des camions d'ordures",
     'Pour Élise',
-    'politique environnementale',
-    'PAYT',
+    'Politiques environnementales',
+    'PAYT (Paiement à la source)',
   ]
-subcategory: 'Vie urbaine'
+subcategory: '城市生活'
 author: 'p3nchan'
-readingTime: 8
-category: 'Lifestyle'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:692a1090832374e5'
 sourceBodyHash: 'sha256:258baccfb653bebb'
-translatedAt: '2026-04-15T17:34:27+08:00'
-featured: false
+translatedAt: '2026-08-09T21:15:02+08:00'
 ---
 
-# L'île qui court après les camions-poubelles : de la crise des déchets au miracle du recyclage à Taïwan
+# L'île qui poursuit les camions d'ordures : Taïwan, du crise des déchets au miracle du recyclage
 
-## En 30 secondes
+## Aperçu en 30 secondes
 
-En 1993, le taux de recyclage de Taïwan était quasi nul. Les quelque 400 décharges que comptait l'île approchaient de la saturation, et la presse internationale lui avait accolé un surnom peu flatteur : « l'île poubelle ». Trente ans plus tard, le taux de recyclage des ménages et des entreprises dépasse les 55 %. Lors de l'Indice de performance environnementale (EPI) 2024, Taïwan a obtenu 96,7 points dans la catégorie gestion des déchets, se hissant au premier rang asiatique aux côtés de Singapour. La quantité de déchets produite par habitant et par jour est passée de 1,14 kg en 1998 à moins de 0,4 kg aujourd'hui — une réduction de près des deux tiers.
+En 1993, le taux de recyclage des déchets à Taïwan approchait zéro, et les plus de 400 décharges de l'île étaient proches de saturation. Les médias internationaux lui avaient attribué un surnom : « l'île des ordures ». Trente ans plus tard, le taux de recyclage des ressources de Taïwan dépasse 55 %, et il a obtenu une note de 96,7 sur l'indicateur de performance environnementale (EPI) pour la catégorie du recyclage des déchets en 2024, partageant la première place en Asie avec Singapour. La quantité de déchets par personne et par jour est passée de 1,14 kilogramme en 1998 à moins de 0,4 kilogramme, soit une diminution de près des deux tiers.
 
-Et tout a commencé avec une note de Beethoven.
-
----
-
-## 400 décharges en sursis
-
-Dans les années 1980, Taïwan profitait à plein des fruits de son miracle économique, sans se préoccuper de savoir où finissaient ses déchets. La mise en décharge était le seul mode de traitement disponible : des montagnes d'ordures s'empilaient sur les berges des rivières, le long de la Tamsui, des rives de la Love River et à l'embouchure des principaux cours d'eau. Les odeurs, les moustiques, les rats et la contamination des nappes phréatiques — tout cela retombait sur les habitants des quartiers riverains.
-
-En 1993, plus de 400 décharges étaient sur le point d'atteindre leur capacité maximale, mais aucune communauté n'acceptait d'en accueillir de nouvelles. Des protestations éclatèrent dans tout le pays, et la question « pas de déchets chez moi » devint le sujet le plus sensible de la politique locale.
-
-La première réponse du gouvernement fut de construire des incinérateurs. En 1991, le Yuan exécutif lança un plan prévoyant « un incinérateur par comté et par ville ». En 1996, quinze installations supplémentaires furent ajoutées via un modèle BOT impliquant des capitaux privés. Mais brûler les déchets ne réglait que la question de leur élimination finale, pas le problème de fond : les Taïwanais en produisaient tout simplement trop.
+Le point de départ de tout cela est une œuvre de Beethoven.
 
 ---
 
-## Beethoven passe la collecte
+## Les 400 décharges sur le point d'être pleines
 
-Le tournant décisif fut la politique dite « zéro déchet au sol » (垃圾不落地), introduite en 1996 à Taipei. Avant cette réforme, les ordures étaient déposées dans des points de collecte en bord de rue, où les éboueurs venaient les chercher. Ces points étaient synonymes de saleté, de mauvaises odeurs et de cafards.
+Dans les années 1980, Taïwan profitait des dividendes de son miracle économique, mais personne ne se souciait de l'endroit où allaient les déchets. L'enfouissement était la seule méthode de traitement. Des montagnes de déchets s'accumulaient le long des rives des rivières ; on pouvait sentir cette odeur sur les berges de la rivière Tamsui, des deux rives de la rivière Ai, et à toutes les embouchures des grands fleuves. Les moustiques, les mouches, les rats et la pollution des eaux souterraines constituaient le prix payé par les habitants vivant à proximité des décharges.
 
-La nouvelle politique était simple et radicale : suppression de toutes les poubelles de rue et de tous les points de collecte. Les camions-poubelles passent désormais à des horaires et des arrêts définis, et les habitants doivent remettre leurs sacs en main propre aux éboueurs. Arrivé en retard ? Rendez-vous demain.
+En 1993, plus de 400 décharges à travers l'île étaient sur le point d'être saturées, mais aucune communauté n'était prête à accepter de nouvelles décharges. Les protestations se sont propagées à toute l'île, et la phrase « Ne jetez pas vos ordures chez moi » est devenue l'enjeu politique local le plus sensible.
 
-Encore fallait-il prévenir les riverains de l'approche du camion. Il fallait un signal.
-
-Pourquoi avoir choisi _Pour Élise_ (Für Elise) de Beethoven et _La Prière d'une Vierge_ (A Maiden's Prayer) de Badarzewska ? Une anecdote populaire veut que le directeur de la santé du gouvernement provincial, Xu Ziqiu, ait entendu sa fille jouer ces deux morceaux au piano en rentrant du travail, et qu'il les ait adoptés sur-le-champ, séduit par leur mélodie. Une autre version soutient que les camions-poubelles importés du Japon dans les années 1960 étaient déjà équipés de boîtes à musique jouant _La Prière d'une Vierge_, et que la tradition s'est perpétuée.
-
-Quelle qu'en soit l'origine, le résultat est là : 23 millions de Taïwanais associent désormais ces deux pièces pour piano au réflexe pavlovien de « vite, descends les ordures ! ». Pour bien des visiteurs étrangers, la scène la plus étonnante de Taïwan n'est ni le marché nocturne ni les temples — c'est cette image d'une rue entière où des gens dégringolent les escaliers, sac à ordures à la main, pour rejoindre un grand camion jaune qui diffuse de la musique classique.
-
-> 📝 **Note de la rédaction**
-> Il n'existe probablement nulle part ailleurs au monde un lien aussi direct entre la musique classique et les éboueurs. À Taïwan, Beethoven est devenu le son de la civisme au quotidien.
+La première réaction du gouvernement a été de construire des incinérateurs. En 1991, le Conseil exécutif a lancé le programme « un incinérateur par comté et ville », et en 1996, il a renforcé l'initiative en introduisant le capital privé pour construire 15 installations selon le modèle BOT. Cependant, les incinérateurs ne résolvaient que le traitement en bout de chaîne, sans résoudre le problème fondamental : les Taïwanais produisaient trop de déchets.
 
 ---
 
-## Payer pour jeter
+## Beethoven vient chercher les ordures
 
-Le « zéro déchet au sol » a transformé les comportements, mais c'est la politique de « collecte payante par sac » (隨袋徵收, Pay-As-You-Throw ou PAYT), introduite à Taipei en 2000, qui a fait chuter les volumes de déchets.
+La clé du changement a été la mise en œuvre en 1996 par la ville de Taipei de la politique « Pas de poubelles dans la rue » (Garbage Not on the Street). Avant cela, les déchets étaient jetés dans des points de collecte situés sur le bord de la route, en attendant que l'équipe de nettoyage vienne les récupérer. La saleté, les mauvaises odeurs et les cafards étaient la configuration standard de chaque point de collecte.
 
-Le principe est intuitif : les ordures ménagères doivent être déposées dans des sacs officiels achetés auprès des autorités locales. Le plus petit (3 litres) coûte environ 1 dollar taïwanais (environ 0,03 €) ; le plus grand (120 litres), environ 43 dollars taïwanais. Plus on jette, plus on paie. En revanche, les matières recyclables sont collectées gratuitement, sans sac spécifique.
+La nouvelle politique était simple et radicale : suppression de toutes les poubelles de rue et des points de collecte, remplacés par des camions d'ordures effectuant des tournées à heures et lieux fixes. Les résidents devaient remettre personnellement les déchets aux agents de nettoyage lorsque le camion arrivait. Manqué le coche ? Rendez-vous demain.
 
-Les effets économiques ont été immédiats. La quantité de déchets quotidiens à Taipei est passée de 2 970 tonnes en 2000 à 1 008 tonnes en 2011, soit une baisse de 66 %. La production de déchets par habitant et par jour a chuté de 1,26 kg en 1997 à 0,87 kg en 2015. Les habitants ont commencé à rincer soigneusement leurs bouteilles en plastique, à aplatir leurs cartons, à trier leurs déchets alimentaires — parce que chaque gramme glissé dans un sac officiel a un coût.
+Mais pour que les résidents sachent que le camion d'ordures était arrivé, un signal était nécessaire.
 
-Le PAYT a ensuite été étendu à la majorité des comtés et des villes de Taïwan. C'est aujourd'hui l'outil de réduction des déchets le plus efficace du pays.
+Il existe une histoire largement répandue expliquant pourquoi c'est le _Für Elise_ de Beethoven (communément appelé « Pour Élise » à Taïwan) et la _Prière d'une jeune fille_ (A Maiden's Prayer) de Batajewska (communément appelée « Prière de la jeune fille » à Taïwan) qui ont été choisis : à l'époque, le directeur du bureau de la santé de la province de Taïwan, Hsu Tzu-chiu, rentrait du travail et a entendu sa fille s'entraîner sur ces deux pièces au piano. Trouvant cela agréable, il a décidé de les adopter. Une autre version raconte que les camions d'ordures importés du Japon dans les années 1960 étaient déjà équipés d'une boîte à musique diffusant la _Prière de la jeune fille_, et que cette pratique s'est poursuivie jusqu'à nos jours.
 
----
+Quelle que soit l'origine, le résultat est le suivant : les 23 millions de personnes à Taïwan ont dès lors associé ces deux pièces de piano classique à l'expression « Il faut descendre les ordures ». Pour les touristes étrangers visitant Taïwan, l'expérience la plus surprenante n'est souvent pas les marchés nocturnes ou les temples, mais de voir des rues entières de personnes portant des sacs poubelles courir vers un gros camion jaune diffusant de la musique classique.
 
-## Le « plan quatre-en-un » : faire du recyclage une filière
-
-En 1997, l'Agence de protection de l'environnement (EPA) a lancé le « Plan de recyclage des ressources quatre-en-un », en articulant quatre acteurs pour former un écosystème complet.
-
-**Les ménages** effectuent le premier tri à domicile. Dans une cuisine taïwanaise typique, on trouve trois ou quatre poubelles distinctes : déchets généraux, déchets alimentaires (crus et cuits séparés), et recyclables. Le tri est enseigné à l'école primaire ; à l'âge adulte, c'est un geste automatique.
-
-**Les services de collecte locaux** assurent la ramasse. Plusieurs soirs par semaine, le camion-poubelles jaune est suivi d'un camion de collecte sélective à plateau ouvert ; les habitants font la queue pour y déposer leurs recyclables par catégorie. Taipei compte plus de 4 000 points de collecte, opérationnels cinq soirs par semaine, et une application mobile permet de suivre la position des camions en temps réel.
-
-**Les recycleurs** prennent en charge le traitement et la valorisation en aval, formant une filière industrielle complète.
-
-**Le Fonds de recyclage** constitue le moteur financier de l'ensemble du dispositif. Fabricants et importateurs versent des redevances selon la catégorie de leurs produits ; ces fonds alimentent le Fonds et subventionnent le fonctionnement du système de collecte. En 2012, le Fonds atteignait 7 milliards de dollars taïwanais. Depuis 1998, il a financé l'acquisition de plus de 1 300 véhicules de collecte et la création de 273 centres de tri. Ce mécanisme de « responsabilité élargie des producteurs » (REP) oblige les fabricants à assumer une partie du coût de la fin de vie de leurs produits.
+> **📝 Note du conservateur**
+> Il est probable qu'il n'existe pas d'autre endroit au monde où les mélomanes et les agents de nettoyage entretiennent un lien aussi direct.
 
 ---
 
-## Les chiffres parlent d'eux-mêmes
+# Payer pour jeter les ordures
 
-| Indicateur                                | Années 1990   | 2024                             |
-| ----------------------------------------- | ------------- | -------------------------------- |
-| Taux de recyclage                         | Proche de 0 % | **55 %** (ménages + entreprises) |
-| Taux de recyclage des déchets industriels | —             | **77 %**                         |
-| Déchets par habitant et par jour          | 1,14 kg       | **< 0,4 kg**                     |
-| Taux de recyclage des plastiques          | —             | **73 %**                         |
-| Score EPI — gestion des déchets           | —             | **96,7** (1er en Asie)           |
+La politique « Pas de poubelles dans la rue » a changé les comportements, mais ce qui a véritablement fait chuter la quantité de déchets est la politique de « Paiement à la source » (Pay-As-You-Throw, PAYT) mise en œuvre par la ville de Taipei en 2000.
 
-En comparaison régionale : le Japon obtient 94,4 et la Corée du Sud 82 au classement EPI. La production de déchets par habitant à Taïwan représente la moitié de celle des États-Unis.
+La logique est intuitive : les ordures ne sont collectées que si elles sont placées dans des sacs poubelle spéciaux fournis par le gouvernement, qu'il faut acheter. Le plus petit sac de 3 litres coûte environ 1 dollar taïwanien (environ 0,03 dollar américain), et le plus grand sac de 120 litres coûte environ 43 dollars. Plus on jette, plus on paie. Mais les objets recyclables ne doivent pas être placés dans des sacs spéciaux – ils sont collectés gratuitement.
 
-Taipei a même commencé à fermer certains incinérateurs — faute de déchets à brûler. Cette phrase aurait été impensable en 1993.
+L'incitation économique a immédiatement produit ses effets. La quantité quotidienne de déchets à Taipei est passée de 2 970 tonnes en 2000 à 1 008 tonnes en 2011, soit une réduction de 66 %. La quantité de déchets par personne et par jour est passée de 1,26 kilogramme en 1997 à 0,87 kilogramme en 2015. Les résidents ont commencé à rincer sérieusement les bouteilles en PET, à aplatir les cartons et à séparer les déchets alimentaires – car chaque gramme jeté dans un sac spécial représentait de l'argent.
+
+Le paiement à la source a ensuite été étendu à la plupart des comtés et villes de Taïwan, devenant l'outil politique unique le plus efficace pour la réduction des déchets à Taïwan.
 
 ---
 
-## Un système loin d'être parfait
+## Le programme en quatre volets : faire du recyclage une industrie
 
-Le système de recyclage taïwanais est loin d'être sans faille.
+En 1997, l'Agence de protection de l'environnement a lancé le « Programme de recyclage des ressources en quatre volets », intégrant quatre acteurs pour former un écosystème de recyclage complet :
 
-La méthode de calcul du taux de recyclage reste contestée. Certains chercheurs soulignent que les mâchefers valorisés sont comptabilisés dans les statistiques officielles, si bien que le taux de recyclage matière réel serait inférieur aux chiffres publiés. La propreté et la précision du tri des recyclables laissent encore à désirer, et une part non négligeable de ce qui est « recyclé » finit quand même incinérée.
+**Les résidents des communautés** effectuent le premier tri à domicile. Les cuisines des foyers taïwanais comportent généralement trois ou quatre poubelles : ordures ménagères, déchets alimentaires (séparant les crus des cuits), et recyclables. Le tri est enseigné à l'école primaire, devenant une mémoire musculaire à l'âge adulte.
 
-Les fluctuations des prix internationaux des matières premières fragilisent directement la filière. Quand les cours des vieux papiers et des plastiques s'effondrent, les recycleurs n'ont plus d'intérêt économique à collecter, et les bases financières du système vacillent.
+**Les équipes de nettoyage locales** sont responsables de la collecte. Plusieurs soirs par semaine, un camion de recyclage à ciel ouvert suit le camion d'ordures jaune ; les résidents font la queue pour déposer les matériaux recyclables triés. Taipei compte plus de 4 000 points de collecte, fonctionnant cinq soirs par semaine, avec une application mobile permettant de suivre la position en temps réel des camions d'ordures.
 
-Les nouveaux types de déchets posent également des défis. Emballages composites, déchets électroniques, vêtements de fast fashion — leur recyclage est techniquement plus complexe et plus coûteux, et le système actuel n'a pas encore trouvé de solution satisfaisante.
+**Les recycleurs** sont responsables du traitement en aval et de la réutilisation, formant une chaîne industrielle complète.
 
-Le vieillissement de la population transforme la course au camion-poubelles en épreuve physique. Pour les personnes âgées et les personnes à mobilité réduite, transporter ses déchets jusqu'à un point de collecte à une heure précise n'est pas anodin. Certains comtés ont commencé à expérimenter des services de collecte à domicile.
+**Le fonds de recyclage** est le moteur financier de l'ensemble du système. Les fabricants et les importateurs versent des frais de recyclage et d'élimination en fonction de la catégorie de produit ; ces fonds entrent dans le trésor et subsidient le fonctionnement du système de recyclage. En 2012, la taille du fonds a atteint 7 milliards de dollars taïwanais. Depuis 1998, le fonds a acquis plus de 1 300 camions de recyclage et financé 273 centres de recyclage. Ce mécanisme de « Responsabilité élargie des producteurs » (EPR) permet aux fabricants de prendre en charge les coûts de la fin de vie du produit.
 
 ---
 
-## Une mélodie pour changer une île
+## Les chiffres parlent
 
-Il y a trente ans, l'attitude des Taïwanais face aux déchets pouvait se résumer en deux mots : « jeter et oublier ». Trente ans plus tard, un écolier taïwanais peut vous expliquer en détail qu'une brique de jus de fruits doit être découpée, rincée et aplatie avant d'être déposée dans le bac de recyclage.
+| Indicateur                                   | Années 1990  | 2024                           |
+| -------------------------------------------- | ------------ | ------------------------------ |
+| Taux de recyclage des ressources             | Proche de 0% | **55 %** (Ménages + Commerces) |
+| Taux de recyclage des déchets industriels    | —            | **77 %**                       |
+| Quantité de déchets par personne et par jour | 1,14 kg      | **< 0,4 kg**                   |
+| Taux de recyclage du plastique               | —            | **73 %**                       |
+| Note EPI pour le recyclage des déchets       | —            | **96,7** (Premier en Asie)     |
 
-Cette transformation ne s'est pas opérée grâce à une politique de génie isolée, mais par un remodelage des comportements sur toute une génération : les incitations économiques ont poussé les gens à trier, les dispositifs institutionnels ont donné un débouché concret à ce tri, l'éducation scolaire a transmis ces réflexes dès le plus jeune âge — et chaque soir, cette mélodie classique qui résonne au coin de la rue est devenu le mécanisme d'application le plus doux qui soit.
+Comparé aux pays voisins : la note EPI du Japon est de 94,4 et celle de la Corée du Sud de 82. La quantité de déchets produite par personne à Taïwan n'est que la moitié de celle des États-Unis.
 
-Taïwan a prouvé qu'un pays autrefois submergé par ses propres déchets peut se réinventer en l'espace d'une génération. Pas besoin de technologie de rupture : il suffit de faire en sorte que chaque personne se sente concernée.
+Taipei a même commencé à fermer certains incinérateurs – car il y avait trop peu de déchets à incinérer. Cette phrase était impensable à Taïwan en 1993.
 
-Et ce qui convainc 23 millions de personnes de descendre leurs ordures à heure fixe chaque soir, c'est une pièce pour piano composée en 1810.
+---
+
+## Pas encore au point final
+
+Le système de recyclage de Taïwan est loin d'être parfait.
+
+La méthode de calcul des taux de recyclage fait toujours débat. Certains universitaires soulignent que les chiffres officiels incluent la réutilisation des mâchefers d'incinération dans la catégorie du « recyclage », et que le taux réel de recyclage des matériaux est probablement inférieur aux chiffres publiés. La propreté des matériaux recyclables et la précision du tri restent perfectibles ; trop de choses dites « recyclées » finissent tout de même à l'incinérateur.
+
+La volatilité des prix internationaux des matières premières impacte directement la survie de l'industrie du recyclage. Lorsque les prix du papier et du plastique usagés s'effondrent, les recycleurs n'ont plus d'incitation à les acheter, ébranlant les fondations économiques de l'ensemble du système.
+
+Les nouveaux types de déchets posent également des défis. Les emballages composites, les déchets électroniques, les vêtements de la fast fashion – les technologies de recyclage de ces produits sont plus complexes et plus coûteuses, et le système actuel n'a pas encore de solution optimale.
+
+Le vieillissement de la population transforme la « poursuite du camion d'ordures » en un défi physique. Pour les personnes âgées et à mobilité réduite, il n'est pas facile de transporter les ordures à un point fixe à une heure fixe. Certaines autorités locales ont commencé à expérimenter des services de collecte à domicile.
+
+---
+
+## Une mélodie qui a changé une île
+
+Il y a trente ans, l'attitude de Taïwan envers les déchets était « jetez-les et c'est tout ». Trente ans plus tard, un élève taïwanien peut vous expliquer avec précision qu'il faut ouvrir, rincer et aplatir les briques alimentaires avant de les jeter dans le recyclage.
+
+Cette transformation ne repose pas sur une politique géniale unique, mais sur la重塑 des comportements d'une génération entière : les incitations économiques ont conduit au tri, la conception institutionnelle a offert une issue au tri, l'éducation scolaire a fait intérioriser cette pratique dès le plus jeune âge à la prochaine génération, et cette mélodie classique diffusée chaque soir depuis l'angle de la rue constitue le mécanisme d'exécution le plus doux de l'ensemble du système.
+
+Taïwan a prouvé une chose : un lieu autrefois submergé par ses propres déchets peut se retourner en l'espace d'une génération. Pas besoin de technologies high-tech ; il suffit de faire sentir à chacun que « c'est mon affaire ».
+
+Et ce qui pousse 23 millions de personnes à sortir ponctuellement chaque jour pour jeter leurs ordures, n'est autre qu'une pièce pour piano composée en 1810.
 
 ---
 

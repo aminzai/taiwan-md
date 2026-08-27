@@ -1,6 +1,6 @@
 ---
-title: 'ASUSTeK Computer (ASUS) - The Technology Giant That Began with Motherboards'
-description: 'The inspiring story of a small motherboard maker that began in Hsinchu, Taiwan, and transformed into the world’s fifth-largest personal computer brand'
+title: 'ASUS (ASUSTeK): How a Taiwanese Motherboard Pioneer Built a Global PC Giant'
+description: 'Founded in Taipei in 1989 by four engineers, ASUS evolved from a local motherboard maker into Taiwan’s premier global PC and gaming brand with NT$600B revenue.'
 date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Economy'

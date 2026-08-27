@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-08-18T06:40:42+08:00",
+  "_generated": "2026-08-23T06:58:11+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 161,
+    "spores": 166,
     "articles": 77,
-    "withMetrics": 151
+    "withMetrics": 156
   },
   "spores": [
     {
@@ -9580,6 +9580,276 @@
           "reposts": 51,
           "comments": 4,
           "shares": 60
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "slug": "budget-總預算十年",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-08-18",
+      "url": "https://www.threads.com/@taiwandotmd/post/DcKsP3Co9jm",
+      "template": "C 完整版（哲宇視角：看不懂立院預算攻防→攤開十一年主計總處原表；Taiwan.md 特別企劃）",
+      "metrics": {
+        "views": 4839,
+        "likes": 304,
+        "reposts": 67,
+        "comments": 15,
+        "shares": 53
+      },
+      "metricsAsOf": {
+        "dPlus": 5,
+        "harvestDate": "2026-08-23 06:58",
+        "batch": "batch-2026-08-23-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-19 06:40",
+          "batch": "batch-2026-08-19-3-spores",
+          "views": 4074,
+          "likes": 266,
+          "reposts": 57,
+          "comments": 9,
+          "shares": 49
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-08-20 06:44",
+          "batch": "batch-2026-08-20-3-spores",
+          "views": 4678,
+          "likes": 302,
+          "reposts": 66,
+          "comments": 14,
+          "shares": 53
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-08-22 06:39",
+          "batch": "batch-2026-08-22-3-spores",
+          "views": 4799,
+          "likes": 303,
+          "reposts": 66,
+          "comments": 14,
+          "shares": 53
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-23 06:58",
+          "batch": "batch-2026-08-23-5-spores",
+          "views": 4839,
+          "likes": 304,
+          "reposts": 67,
+          "comments": 15,
+          "shares": 53
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "slug": "budget-總預算十年",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-08-18",
+      "url": "https://x.com/taiwandotmd/status/2089561276938666168",
+      "template": "C 短版（214 字，同角度）",
+      "metrics": {
+        "views": 10000,
+        "likes": 599,
+        "reposts": 201,
+        "comments": 5,
+        "shares": 90
+      },
+      "metricsAsOf": {
+        "dPlus": 5,
+        "harvestDate": "2026-08-23 06:58",
+        "batch": "batch-2026-08-23-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-19 06:40",
+          "batch": "batch-2026-08-19-3-spores",
+          "views": 5918,
+          "likes": 361,
+          "reposts": 125,
+          "comments": 4,
+          "shares": 56
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-08-20 06:44",
+          "batch": "batch-2026-08-20-3-spores",
+          "views": 9644,
+          "likes": 578,
+          "reposts": 196,
+          "comments": 5,
+          "shares": 88
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-08-22 06:39",
+          "batch": "batch-2026-08-22-3-spores",
+          "views": 10000,
+          "likes": 599,
+          "reposts": 201,
+          "comments": 5,
+          "shares": 90
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-23 06:58",
+          "batch": "batch-2026-08-23-5-spores",
+          "views": 10000,
+          "likes": 599,
+          "reposts": 201,
+          "comments": 5,
+          "shares": 90
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "slug": "budget-總預算十年",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "facebook",
+      "date": "2026-08-18",
+      "url": "https://www.facebook.com/61576525376323/posts/pfbid02iQux9KoUcNtxZHLVdFQ9R2oFXTH8X3EQmauC8XJ3CoUacveZVPKFXoqphTxwbzYwl",
+      "template": "C-FB 粉專版（575 字，同事實池＋九區導覽＋邀請分享）",
+      "metrics": {
+        "views": null,
+        "likes": 1,
+        "reposts": null,
+        "comments": 1,
+        "shares": 1
+      },
+      "metricsAsOf": {
+        "dPlus": 5,
+        "harvestDate": "2026-08-23 06:58",
+        "batch": "batch-2026-08-23-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-19 06:40",
+          "batch": "batch-2026-08-19-3-spores",
+          "views": null,
+          "likes": 1,
+          "reposts": null,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-08-20 06:44",
+          "batch": "batch-2026-08-20-3-spores",
+          "views": null,
+          "likes": 1,
+          "reposts": null,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-08-22 06:39",
+          "batch": "batch-2026-08-22-3-spores",
+          "views": null,
+          "likes": 1,
+          "reposts": null,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "dPlus": 5,
+          "harvestDate": "2026-08-23 06:58",
+          "batch": "batch-2026-08-23-5-spores",
+          "views": null,
+          "likes": 1,
+          "reposts": null,
+          "comments": 1,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "slug": "用語保存副詞層",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-08-23",
+      "url": "https://www.threads.com/@taiwandotmd/post/DcWa9mnI4vJ",
+      "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
+      "metrics": {
+        "views": 2593,
+        "likes": 226,
+        "reposts": 35,
+        "comments": 11,
+        "shares": 18
+      },
+      "metricsAsOf": {
+        "dPlus": 0,
+        "harvestDate": "2026-08-23 06:58",
+        "batch": "batch-2026-08-23-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 0,
+          "harvestDate": "2026-08-23 06:58",
+          "batch": "batch-2026-08-23-5-spores",
+          "views": 2593,
+          "likes": 226,
+          "reposts": 35,
+          "comments": 11,
+          "shares": 18
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "slug": "用語保存副詞層",
+      "articlePath": null,
+      "articleUrl": null,
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-08-23",
+      "url": "https://x.com/taiwandotmd/status/2091212353874678264",
+      "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
+      "metrics": {
+        "views": 2536,
+        "likes": 106,
+        "reposts": 18,
+        "comments": 3,
+        "shares": 16
+      },
+      "metricsAsOf": {
+        "dPlus": 0,
+        "harvestDate": "2026-08-23 06:58",
+        "batch": "batch-2026-08-23-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 0,
+          "harvestDate": "2026-08-23 06:58",
+          "batch": "batch-2026-08-23-5-spores",
+          "views": 2536,
+          "likes": 106,
+          "reposts": 18,
+          "comments": 3,
+          "shares": 16
         }
       ]
     }

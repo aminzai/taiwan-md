@@ -1,0 +1,135 @@
+[
+  {
+    "number": 1442,
+    "path": "knowledge/Lifestyle/台鐵鳴日號.md",
+    "actions": [
+      "featured true → false（curation-tag）",
+      "第二張圖（鳴日列車_03.jpg）圖說授權標示修正 Public Domain → Attribution required（Commons API 核對實際為臺灣鐵路管理局提供、需署名）",
+      "curation 設為 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "96757285dd22b3f1a761be700ee9499c4da74484",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "55f102c826d8e04d5ae61b37cd5e3695fafafb2d",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "Wikimedia upload.wikimedia.org 全域限流（多個併行 maintainer 執行子代共用同一出口 IP，429 + retry-after:600 持續約 25 分鐘），本機圖片快取（image-ingest.mjs）未能完成；2 張圖維持 Wikimedia 直連（URL／授權皆已用 Commons API 核對正確，非本 PR 特有問題），建議另開 follow-up 補跑本機快取。"
+  },
+  {
+    "number": 1443,
+    "path": "knowledge/Art/台中國家歌劇院.md",
+    "actions": [
+      "5 張 Wikimedia 圖重新以 API 核實：2 張（施工現場／室內）確認 Commons 上檔名不存在（Special:Redirect 404）→ 移除（含圖說）",
+      "1 張（空中花園）原 URL hash 路徑錯誤但檔名確認存在 → 修正為正確 URL（非移除，糾正 Phase A 誤判）",
+      "3 張確認存在的圖（hero／空中花園／夜景）授權用 API 核對；hero 授權標示修正 CC BY-SA 4.0 → 實際 CC BY 2.0",
+      "刪除 1 處『📝 策展人筆記：』AI 殘留段",
+      "curation 確認為 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c1739b62bff97e5ee6e6f37813b73d33a9ae2435",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "044f81f2ec260774ce270a694372cab1707afab0",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "同 #1442，Wikimedia 限流導致本機快取未完成，3 張圖維持直連（授權已核對正確）。Phase A 判定『3 張 404』其中 1 張（Sky Garden）經重新查證其實是檔名 hash 路徑錯誤、檔案本身存在，已修正 URL 而非移除，內容比 Phase A 建議更完整。"
+  },
+  {
+    "number": 1444,
+    "path": "knowledge/People/啾啾鞋.md",
+    "actions": [
+      "路徑錯位修正：knowledge/啾啾鞋.md → knowledge/People/啾啾鞋.md（category=People，上一波已處理，本次確認）",
+      "curation 確認為 incubating（NOOP）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c00d4760b103a4ebed079351fa8d28ea26d2d629",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "473ff107a3c8f5d78a860b4a236c8696459552e6",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": null
+  },
+  {
+    "number": 1445,
+    "path": "knowledge/People/這群人.md",
+    "actions": [
+      "3 張圖片本機路徑不存在（image-health hard x4）→ 改用 Wikimedia 直連 URL（授權已用 API 核對，與圖說 CC BY-SA 3.0／Public domain／CC BY-SA 4.0 相符）",
+      "同步修正正文『圖片已存於 public/article-images/people/』一句為『圖片連結 Wikimedia Commons 原始檔案』，避免與實際狀態不符（因本機快取未完成）",
+      "刪除 3 處『📝 策展人筆記：』AI 殘留段",
+      "curation 設為 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "d85005a235d7b777e14eb03de050d9aae8d9d5a1",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "d16b3968003ebf2e8ab226dfbff04cc334e90349",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "本應依規則收進 public/article-images/people/，但 Wikimedia CDN 全域限流（多個併行執行子代共用出口 IP）持續超過 30 分鐘無法下載，改採直連 fallback；為避免正文『已存於本機』的敘述與實際不符，額外做了一句敘述修正（非散文改寫，是格式/事實對齊）。建議 follow-up 補跑 image-ingest.mjs 落地存檔並把三個 URL 換回本機路徑。"
+  },
+  {
+    "number": 1446,
+    "path": "knowledge/Culture/東港迎王船.md",
+    "actions": [
+      "subcategory 修正：民間信仰與祭典（非 SUBCATEGORY.md 正典值）→ 宗教與民俗",
+      "curation 設為 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "daeb62e1403ed49a759f665f89e2b251375670ca",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "b13cae4a618c1fad356d6dcaaab140a39d71d308",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "正文用原生 <figure><img src=\"/article-images/culture/donggang-wangye-boat.jpg\"> 引用一張本機不存在的圖，但 image-health 只解析 markdown ![]() 語法未偵測到，不在本輪 hard gate 範圍內，未處理——與 Phase A 已記錄的『checker 偵測盲區』一致，建議另開 issue 修 image-health 涵蓋原生 HTML img。"
+  },
+  {
+    "number": 1447,
+    "path": "knowledge/Society/台灣捐血.md",
+    "actions": [
+      "subcategory 補上（缺值 hard）→ 社會韌性",
+      "移除 Unsplash 熱連結示意圖（非 Wikimedia／授權不明，非台灣實景）及緊接圖說",
+      "[^5]（udn.com）404 且 web.archive.org 無存檔 → 移除定義；支撐的『8.08%』數字改 hedge 為『一度接近 8%』",
+      "[^14] 懸空引用（未定義）→ 修正指向既有 [^12]（WHO 來源，其描述本就是為此對照數字所寫）",
+      "[^5]/[^4] 錯置修正：『住院輸血率約為美國 3 倍』改指向內容實際相符的 [^4]（原為孤兒腳註）",
+      "『策展人筆記：』標籤拿掉，內容留成一般段落（含事實內容）",
+      "curation 設為 incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "d5c0f897005fcd08bf9ca4da1a1742a27c0a8beb",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "581981d659f181fc0962e121a9d39cf688201458",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "footnote 修正屬於格式/事實對齊（連結死鏈與編號錯置），未改動其餘散文與論點。"
+  },
+  {
+    "number": 1449,
+    "path": "knowledge/Society/手語視訊轉譯.md",
+    "actions": [
+      "subcategory 修正：政策與制度（非正典）→ 無障礙與共融",
+      "全形分號 25→3（3 處『第一…第二…第三…第四…』列舉分隔保留不動，其餘 22 處連接兩獨立子句改句號）",
+      "8 個小標題 `#`（H1）→ `##`（H2）",
+      "3 張圖片改用 Wikimedia 直連 URL 取代會過期的 manuscdn.com 暫存簽章連結（授權已用 API 核對，與圖說相符）",
+      "curation verified → incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "87ba2a1a01e8a744983927781b17a201c48bc5d0",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "b8af575670f362303434804e5a7e1425eecd96f5",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "manuscdn.com 簽章連結含未來到期時間戳、原本就會失效，換成 Wikimedia 直連本身是淨改善；受同一波 Wikimedia CDN 限流影響，未完成落地本機快取，建議 follow-up 補跑 image-ingest.mjs。"
+  }
+]

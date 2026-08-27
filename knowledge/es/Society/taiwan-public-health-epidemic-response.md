@@ -1,121 +1,122 @@
 ---
-title: 'El sistema de salud pública y respuesta epidémica de Taiwán'
-description: 'En 2003, el cierre del Hospital Ho Ping dejó 30 muertos. Diecisiete años después, durante la pandemia global de COVID-19, Taiwán se sostuvo 18 meses sin transmisión comunitaria gracias a las lecciones de aquel desastre. Cómo un trauma se convirtió en la memoria inmunológica de una isla.'
+title: 'El sistema de salud pública y prevención de epidemias en Taiwán'
+description: 'En 2003, el cierre del Hospital Heping resultó en 30 muertes. Diecisiete años después, con la explosión global del COVID-19, Taiwán resistió 18 meses sin contagios comunitarios gracias a las lecciones de aquella tragedia. Cómo un trauma se convirtió en la memoria inmunológica de una isla.'
 date: 2026-04-08
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'Society'
 tags:
   [
-    'salud pública',
+    'Salud pública',
     'SARS',
     'COVID-19',
-    'prevención epidémica',
-    'seguro nacional de salud',
-    'CDC Taiwán',
+    'prevención de epidemias',
+    'Seguro Nacional de Salud',
+    'CDC (Centro para el Control de Enfermedades)',
   ]
-readingTime: 14
+subcategory: 'Society'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-08
 lastHumanReview: false
-featured: false
+readingTime: 14
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '49728f9d'
-sourceContentHash: 'sha256:84ffcc67e2e155cf'
-sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
-translatedAt: '2026-07-14T16:50:19Z'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:eca9dd4ad2636bc6'
+sourceBodyHash: 'sha256:bbdf3516f36f033d'
+translatedAt: '2026-08-10T01:58:13+08:00'
 ---
 
-> **Resumen en 30 segundos:** En 2003, el SARS causó 73 muertes en Taiwán; el cierre del Hospital Ho Ping se convirtió en un trauma colectivo en la historia de la salud pública. Después, Taiwán reconstruyó prácticamente todo su sistema de prevención epidémica: la agencia de control de enfermedades fue elevada de rango, el mecanismo del Centro de Comando de Epidemias Central (CECC) se formalizó por ley, y los protocolos de control de infecciones hospitalarias fueron revisados por completo. En 2020, cuando el COVID-19 se propagó globalmente, Taiwán mantuvo casi cero transmisión comunitaria durante los primeros 18 meses, lo que la comunidad internacional denominó el «Modelo Taiwán». En abril de 2026, Taiwán registró su primer caso local de gripe aviar H7N7 con transmisión de ave a humano: el sistema de prevención epidémica volvió a ser puesto a prueba.
+> **Resumen en 30 segundos:** En 2003, el SARS causó 73 muertes en Taiwán; el incidente del cierre del Hospital Heping se convirtió en un trauma colectivo en la historia de la salud pública. Tras esto, Taiwán reconstruyó casi todo su sistema de prevención: la elevación de categoría del Centro para el Control de Enfermedades (CDC), la institucionalización del mecanismo del Centro de Comando de la Epidemia (CECC) y una reforma integral de los protocolos de control de infecciones. Con la expansión global del COVID-19 en 2020, Taiwán mantuvo casi cero contagios comunitarios durante los primeros 18 meses, lo que la comunidad internacional denominó el «Modelo de Taiwán». En abril de 2026, apareció el primer caso local de gripe aviar H7N7 con transmisión de ave a humano, poniendo a prueba el sistema de prevención una vez más.
 
-La noche del 24 de abril de 2003, el gobierno de la ciudad de Taipéi ordenó el cierre del Hospital Ho Ping. De la noche a la mañana, más de mil profesionales sanitarios y pacientes quedaron confinados dentro del recinto. Sin equipamiento de protección suficiente, sin circuitos de aislamiento adecuados, las urgencias y las salas generales se mezclaban. El doctor Ho Jung-jung, quien permaneció en el hospital, declaró en una entrevista con la cadena pública PTS que nunca pensó en huir, «pero en el fondo sí me dolió un poco»[^1].
+En la madrugada del 24 de abril de 2003, el gobierno de Taipéi ordenó el cierre del Hospital Heping. De la noche a la mañana, más de mil profesionales sanitarios y pacientes quedaron confinados sin poder salir. Sin equipo de protección suficiente ni flujos de aislamiento adecuados, las urgencias y las plantas generales se mezclaron. El médico que permaneció en el hospital, He Song-rong (何松融), comentó posteriormente en una entrevista con PTS: «Nunca pensé en huir, pero en el fondo, hubo una herida»[^1].
 
-Durante los catorce días de confinamiento, 30 personas murieron y una se suicidó. Esta cifra representó casi la mitad del total de muertes por SARS en Taiwán. La tasa de mortalidad por infección intrahospitalaria en el Hospital Ho Ping fue muy superior a la de casos simultáneos en Vietnam, Singapur y Canadá[^2].
+Catorce días de confinamiento, 3๐ muertes y un suicidio. Esta cifra representó casi la mitad del total de muertes por SARS en Taiwán. La tasa de mortalidad por infección intrahospitalaria en el Hospital Heping fue muy superior a la de casos similares en Vietnam, Singapur y Canadá durante el mismo periodo[^2].
 
-Una infección intrahospitalaria que debería haberse contenido se convirtió en una tragedia provocada por el ser humano, a consecuencia de un cierre precipitado, la falta de equipamiento y el caos en la cadena de mando.
+Una infección hospitalaria que debería haber sido controlada se convirtió en una tragedia humana debido al cierre apresurado, la falta de equipo y el caos en el mando.
 
-## El legado del SARS: reconstrucción total
+## El legado del SARS: Una reconstrucción total
 
-Durante la década posterior al SARS, Taiwán transformó la vergüenza en instituciones.
+En la década posterior al SARS, Taiwán transformó la vergüenza en instituciones.
 
-**Elevación de la agencia de control de enfermedades:** En 2004, el Departamento de Salud del Yuan Ejecutivo (hoy Ministerio de Salud y Bienestar) integró las unidades de prevención epidémica, hasta entonces de bajo rango jerárquico, en la «Oficina de Control de Enfermedades», que posteriormente fue elevada a la categoría de «Centro para el Control de Enfermedades» (CDC), convirtiéndose en el organismo especializado encargado de coordinar la prevención y el control de enfermedades infecciosas a nivel nacional.
+**Elevación de categoría del CDC**: En 2004, la Administración de la Salud del Ejecutivo (actual Ministerio de Salud y Bienestar) integró las unidades de prevención de menor rango para crear la «局» (Agencia), que más tarde se elevó a «署» (Centro para el Control de Enfermedades o CDC), convirtiéndose en el organismo especializado en la gestión nacional de enfermedades infecciosas.
 
-**Formalización legal del Centro de Comando de Epidemias Central (CECC):** Se revisó la Ley de Control de Enfermedades Infecciosas para autorizar explícitamente al gobierno a activar el CECC durante un brote, integrando recursos interministeriales. Este mecanismo se convirtió en el núcleo de la respuesta taiwanesa frente al COVID-19[^3].
+**Institucionalización del Centro de Comando de la Epidemia (CECC)**: Se reformó la _Ley de Prevención y Control de Enfermedades Infecciosas_ para autorizar explícitamente al gobierno a activar el CECC durante brotes epidémicos, integrando recursos interministeriales. Este mecanismo fue el núcleo de la defensa de Taiwán durante el COVID-19[^3].
 
-**Revisión integral del control de infecciones hospitalarias:** Procedimientos operativos estandarizados para el uso de equipamiento de protección, sistemas de notificación de control de infecciones, listas designadas de hospitales de contingencia: todo lo que faltaba durante la época del SARS se incorporó tras la epidemia al marco normativo. El Ministerio de Salud y Bienestar debe actualizar cada dos años la lista de hospitales de contingencia frente a enfermedades infecciosas graves[^4].
+**Reforma integral del control de infecciones hospitalarias**: Los procedimientos operativos estándar para el uso de equipo de protección, los sistemas de notificación de control de infecciones y las listas de hospitales designados para respuesta de emergencia —todo lo que faltaba durante el SARS— se integró en la normativa tras la epidemia. El Ministerio de Salud y Bienestar debe actualizar cada dos años la lista de hospitales preparados para enfrentar enfermedades infecciosas graves[^4].
 
 > **📝 Nota del curador**
-> El significado del SARS para el sistema de prevención epidémica de Taiwán es comparable al que tuvo el terremoto del 21 de septiembre de 1999 (921) para la normativa de construcción: un desastre que expuso todas las fallas del sistema y cuyas lecciones, pagadas con sangre, se convirtieron en artículos de ley. Esas leyes salvaron vidas diecisiete años después.
+> El significado del SARS para el sistema de prevención de Taiwán es similar al que tuvo el terremoto de 921 para las normativas de construcción: una catástrofe que expuso todas las vulnerabilidades del sistema, para luego convertir las leciaones aprendidas con sangre en leyes. Estas leyes salvaron vidas diecisiete años después.
 
-## COVID-19: el Modelo Taiwán
+## COVID-19: El Modelo de Taiwán
 
-El 31 de diciembre de 2019, llegaron noticias de Wuhan sobre una neumonía de origen desconocido. Ese mismo día, el CDC de Taiwán ya había iniciado controles sanitarios de embarque para los vuelos directos procedentes de Wuhan[^5].
+El 31 de diciembre de 2019, se reportaron noticias sobre una neumonía desconocida en Wuhan. Ese mismo día, el CDC de Taiwán ya había comenzado la cuarentena sanitaria para los pasajeros de vuelos directos desde Wuhan[^5].
 
 El 20 de enero de 2020, Taiwán activó el CECC, diez días antes de que la OMS declarara la emergencia de salud pública de importancia internacional.
 
-Durante los siguientes 18 meses, Taiwán mantuvo un récord prácticamente imposible a nivel mundial: cero transmisión comunitaria. Mientras el mundo entero competía por conseguir mascarillas, Taiwán estableció en dos semanas un sistema de racionamiento de mascarillas vinculado a la tarjeta de seguro nacional de salud, adquiribles en farmacias y tiendas de conveniencia. Audrey Tang (entonces ministra digital) coordinó a ingenieros civiles para desarrollar un «mapa de mascarillas»: el gobierno publicó datos de inventario en tiempo real y, en 72 horas, toda la población podía consultar desde su teléfono el punto de venta más cercano[^6].
+Durante los siguientes 18 meses, Taiwán mantuvo un récord casi imposible a nivel mundial: cero contagios comunitarios. Mientras el mundo luchaba por conseguir mascarillas, Taiwán implementó en dos semanas un sistema de registro nominal para mascarillas, permitiendo su compra en farmacias y tiendas de conveniencia mediante la tarjeta del Seguro Nacional de Salud. Audrey Tang (唐鳳), entonces Ministra de Estado Digital, coordinó con ingenieros civiles el desarrollo del «Mapa de Mascarillas»; el gobierno liberaba datos de inventario en tiempo real para que, en 12 horas, cualquier ciudadano pudiera consultar en su móvil el punto de venta más cercano[^6].
 
-La estrategia de prevención epidémica de Taiwán fue denominada «Taiwan Model» por publicaciones académicas como _Nature Immunology_, que la resumió en cuatro principios: respuesta rápida (_rapid_), despliegue anticipado (_early deployment_), acción prudente (_prudent_) y transparencia pública (_transparent_)[^7].
+Estrategias de prevención de Taiwán fueron denominadas por revistas académicas como _Nature Immunology_ como el «Taiwan Model», resumido en cuatro principios: respuesta rápida (_rapid_), despliegue anticipado (_early deployment_), acción prudente (_prudent_) y transparencia pública (_transparent_)[^7].
 
 > **💡 ¿Sabías que...?**
-> Taiwán impulsó una «diplomacia de mascarillas» en las primeras fases del COVID-19, donando mascarillas a países gravemente afectados por la epidemia. La campaña de donaciones «Proteger Taiwán, Ayudar al Mundo», lanzada el 27 de abril de 2020, reunió en una semana cerca de cuatro millones de mascarillas donadas por la ciudadanía. «Taiwan Can Help» se convirtió en un lema viral en las redes sociales internacionales.
+> En los inicios del COVID-19, Taiwán promovió la «diplomacia de las mascarillas», donando suministros a países gravemente afectados. La campaña «Proteger Taiwán, Ayudar al Mundo», lanzada el 27 de abril de 2020, logró que los ciudadanos donaran casi 4 millones de mascarillas en una semana. «Taiwan Can Help» se convirtió en un lema internacional.
 
-Pero el Modelo Taiwán no fue perfecto. En mayo de 2021, la variante Alfa rompió las defensas y se implementó un nivel de alerta 3 durante más de dos meses. Las controversias sobre la adquisición de vacunas, el debate en torno a las vacunas de producción nacional y el caos en el aislamiento domiciliario de los casos confirmados pusieron de manifiesto las carencias del sistema en tiempos de calma.
+Sin embargo, el modelo de Taiwán no fue perfecto. En mayo de 2021, la variante Alpha rompió las defensas, y se implementó un nivel de alerta de tercer grado durante más de dos meses. Las controversias por la compra de vacunas, el debate sobre las vacunas nacionales y el caos en la cuarentena domiciliaria de los contagiados expusían la falta de preparación del sistema en tiempos de paz.
 
-> **⚠️ Punto de vista controvertido**
-> Durante la polémica por la distribución de vacunas en 2021, el fundador de Foxconn, Terry Gou, y TSMC adquirieron por separado vacunas BNT para donarlas al gobierno, lo que generó un debate sobre «si los actores privados deberían suplir al gobierno en la adquisición de vacunas». Los partidarios lo consideraron una muestra del poder de la sociedad civil taiwanesa; los críticos lo interpretaron como un reflejo del fracaso del mecanismo gubernamental de compras.
+> **⚠️ Punto de vista controversial**
+> En la disputa por la distribución de vacunas de 2021, el fundador de Hon Hai, Terry Gou (郭台銘), y el de TSMC compraron dosis de la vacuna BNT para donarlas al gobierno, lo que desató un debate sobre si el sector privado debe realizar compras de vacunas en lugar del Estado. Los defensores vieron esto como una muestra de la fuerza civil de Taiwán; los críticos, como un fallo en el mecanismo de adquisición gubernamental.
 
-## H7N7: el sistema de prevención epidémica vuelve a prueba
+## H7N7: El sistema puesto a prueba nuevamente
 
-El 2 de abril de 2026, el CDC de Taiwán anunció el primer caso local de gripe aviar tipo A del subtipo H7 con transmisión de ave a humano: un criador de patos de unos setenta años del condado de Changhua que había comenzado a presentar síntomas —rinorrea, tos y dolor corporal generalizado— el 20 de marzo. La secuenciación genética confirmó que se trataba de H7N7, de baja patogenicidad[^8].
+El 2 de abril de 2026, el CDC anunció el primer caso local de gripe tipo A H7 con transmisión de ave a humano en Taiwán: un criador de patos de unos setenta años en el condado de Changhua, que el 20 de marzo presentó síntomas como secreción nasal, tos y dolores corporales. La secuenciación genética confirmó la cepa H7N7, de baja patogenicidad[^8].
 
-El sistema de prevención epidémica activó los protocolos estándar: se identificaron 33 contactos para seguimiento sanitario, tres de ellos recibieron medicación profiláctica y todos los familiares dieron negativo en las pruebas. El CDC distribuyó entre 40.000 y 50.000 mascarillas a los sindicatos de criadores de patos de todo el país. La conclusión de la evaluación fue que se trataba de un evento aislado y puntual, con riesgo controlable[^9].
+El sistema de prevención activó sus protocolos estándar: monitoreo de salud para 33 contactos, administración preventiva de medicamentos a 3 personas, y pruebas negativas para todos los familiares. El CDC distribuyó entre cuarenta y cincuenta mil mascarillas a las asociaciones de criadores de patos de todo el país. La conclusión de la evaluación: un evento aislado y con riesgo controlado[^9].
 
-Este es precisamente el legado del SARS en funcionamiento: un organismo especializado (el CDC), autorización legal (la Ley de Control de Enfermedades Infecciosas), protocolos estandarizados (identificación de contactos, medicación profiláctica, seguimiento) y transparencia informativa (ruedas de prensa y comunicados en tiempo real). Todo lo que faltaba en el Hospital Ho Ping hace veintitrés años, ahora existe.
+Esto es precisamente el legado del SARS en funcionamiento: hay un organismo especializado (CDC), hay autoridad legal (Ley de Prevención y Control de Enfermedades Infecciosas), hay protocolos estándar (identificación, medicación, monitoreo) y hay transparencia informativa (ruedas de prensa y comunicados en tiempo real). Todo lo que faltaba en el Hospital Heping hace veintitrés años, ahora está presente.
 
-| SARS 2003                          | COVID-19 2020                                       | H7N7 2026                                          |
-| ---------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
-| Caos en la cadena de mando         | El CECC se activó el mismo día                      | Protocolos estándar activados de inmediato         |
-| Cierre hospitalario precipitado    | Control fronterizo anticipado                       | 33 contactos identificados y monitorizados         |
-| Falta de equipamiento              | Sistema de racionamiento de mascarillas en 72 horas | 40.000–50.000 mascarillas distribuidas a criadores |
-| Falta de transparencia informativa | Ruedas de prensa diarias                            | Secuenciación genética publicada en tiempo real    |
+| 2003 SARS           | 2020 COVID-19                 | 2026 H7N7                                         |
+| ------------------- | ----------------------------- | ------------------------------------------------- |
+| Mando caótico       | Activación inmediata del CECC | Protocolo estándar activado al instante           |
+| Cierre apresurado   | Control fronterizo anticipado | Monitoreo de 33 personas                          |
+| Equipo insuficiente | Sistema de mascarillas en 72h | Distribución de 40-50 mil mascarillas a criadores |
+| Información opaca   | Ruedas de prensa diarias      | Publicación inmediata de secuenciación genética   |
 
-## El seguro nacional de salud: la infraestructura invisible de la prevención epidémica
+## El Seguro Nacional de Salud: La infraestructura invisible de la prevención
 
-La base del sistema de prevención epidémica de Taiwán es el [Seguro Nacional de Salud](es/Lifestyle/national-health-insurance/) (全民健康保險), establecido en 1995.
+La base del sistema de prevención de Taiwán es el [Seguro Nacional de Salud](/es/lifestyle/taiwan-healthcare-and-national-health-insurance/), iniciado en 1995.
 
-Veintitrés millones cuatrocientas mil personas comparten una única base de datos del seguro de salud y una única tarjeta. Esa tarjeta se convirtió durante el COVID-19 en la infraestructura fundamental de la respuesta epidémica: el racionamiento de mascarillas funcionaba mediante la tarjeta del seguro de salud, el historial de viajes se vinculaba a través de la tarjeta, y el registro de vacunación se almacenaba en ella. Sin esta base de datos con cobertura universal, el Modelo Taiwán no habría sido posible[^10].
+23,4 millones de personas comparten una única base de datos y una tarjeta de seguro. Durante el COVID-19, esta tarjeta se convirtió en infraestructura esencial: el registro nominal de mascarillas dependía de ella; la anotación de historiales de viaje se vinculaba a través de su uso; y los registros de vacunación quedaban grabados en ella. Sin esta base de datos con cobertura universal, el Modelo de Taiwán no habría sido posible[^10].
 
-> **✦** «El SARS fue la lección más dolorosa en la historia de la salud pública de Taiwán. Pero la lección más dolorosa forma a los mejores alumnos.»
+> **✦** «El SARS fue la lección más dolorosa en la historia de la salud pública de Taiwán. Pero las lecciones más dolorosas forman a los mejores estudiantes».
 
-Veintitrés años después del cierre del Hospital Ho Ping, aquel edificio sigue en pie en la avenida Zhonghua de Taipéi. Algunos de los profesionales sanitarios que entran hoy en urgencias aún recuerdan lo que pasó. Ho Jung-jung dice que no guarda rencor, pero aquella herida «no ha sanado del todo». Quizá no necesite sanar. Quizá el órgano más importante de un sistema de prevención epidémica sea la capacidad de recordar el dolor.
+Veintitrés años después del cierre del Hospital Heping, aquel edificio sigue en pie en la calle Zhonghua, en Taipéi. Algunos profesionales sanitarios que entran en urgencias aún recuerdan lo sucedido. He Song-rong dice que no guarda rencor, pero que esa cicatriz «no ha sanado por completo». Quizás no necesite sanar. Quizás el órgano más importante de un sistema de prevención es, precisamente, la capacidad de recordar el dolor.
 
-**Lecturas complementarias**
+**Lecturas adicionales**:
 
-- [La sala de fumar de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/es/society/taipei-smoking-room) — El capítulo más reciente de una marcha de cuarenta años contra el tabaco, con el frente trasladado de los interiores a la calle
+- [Zonas de fumadores en Taipéi: En una ciudad sin humo, esa caja de cristal que aún respira](/es/society/taipei-smoking-room) — El capítulo más reciente de la larga marcha de cuarenta años contra el tabaco; el campo de batalla se ha desplazado del interior al exterior.
 
-- [Seguro Nacional de Salud de Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La infraestructura base del sistema de prevención epidémica: la base de datos del seguro de salud de 23,4 millones de personas
-- [Audrey Tang](/es/people/audrey-tang) — La ministra digital detrás del mapa de mascarillas
-- [Sistema médico de desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — Del terremoto 921 al SARS: cómo los desastres impulsan la evolución médica
-- [Leyes gemelas de medicina regenerativa × 30 años de mRNA](/es/society/taiwan-regenerative-medicine-laws) — La narrativa de doble línea de la compra de BNT 2021 y la legislación de terapia celular: perspectiva ampliada del artículo sobre prevención epidémica COVID
+- [La medicina y el Seguro Nacional de Salud en Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La infraestructura base del sistema de prevención: la base de datos de 23,4 millones de personas.
+- [Audrey Tang](/es/people/audrey-tang) — La Ministra de Estado Digital detrás del mapa de mascarillas.
+- [El sistema de medicina de catástrofes en Taiwán](/es/technology/taiwan-disaster-medicine-system) — Desde el terremoto de 921 hasta el SARS: cómo los desastres impulsan la evolución médica.
+- [COVID-19 y vacunas en Taiwán](/society/台灣新冠疫情與疫苗)— El sistema construido tras el SARS fue probado íntegrammente entre 2020 y 2023: las fronteras resistieron 18 meses, pero la tercera dosis para ancianos no llegó a tiempo.
+- [Medicina regenerativa y 30 años de mRNA](/es/society/taiwan-regenerative-medicine-laws) — Una narrativa doble sobre la adquisición de BNT en 2021 y la legislación de terapias celulares; una perspectiva extendida sobre la prevención del COVID aquí expuesta.
 
 ## Referencias
 
-[^1]: [PTS News: 20 años del SARS, entrevista con el doctor Ho Jung-jung, médico que permaneció durante el cierre del Hospital Ho Ping](https://news.pts.org.tw/article/627811) — Ho Jung-jung recuerda la situación durante el confinamiento: «Nunca pensé en huir, pero en el fondo sí me dolió un poco.»
+[^1]: [Noticias PTS: 20 años del SARS, entrevista con He Song-rong, médico que permaneció en el Hospital Heping](https://news.pts.org.tw/article/627811) — He Song-rong recuerda su situación durante el cierre: «Nunca pensé en huir, pero en el fondo, hubo una herida».
 
-[^2]: [Wikipedia: Epidemia del síndrome respiratorio agudo grave en Taiwán](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E9%87%8D%E6%80%A5%E6%80%A5%E5%91%BC%E5%90%B8%E9%81%93%E7%97%87%E5%80%99%E7%BE%A4%E5%8F%B0%E7%81%A3%E7%96%AB%E6%83%85) — El SARS causó 73 muertes en Taiwán; el cierre del Hospital Ho Ping durante 14 días provocó 30 muertes, casi la mitad del total nacional.
+[^2]: [Wikipedia: Brote de SARS en Taiwán](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E9%87%8D%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E9%81%93%E7%97%87%E5%80%99%E7%BE%A4%E5%8F%B0%E7%81%A3%E7%96%AB%E6%83%85) — El SARS en Taiwán acumuló 73 muertes; el cierre del Hospital Heping por 14 días causó 30 muertes, casi la mitad del total nacional.
 
-[^3]: [PMC: Learning from the past — Taiwan's responses to COVID-19 versus SARS](https://pmc.ncbi.nlm.nih.gov/articles/PMC8178059/) — Artículo académico que compara cómo las reformas institucionales posteriores al SARS sustentaron directamente la respuesta al COVID-19, incluyendo la formalización legal del CECC y la elevación de rango del CDC.
+[^3]: [PMC: Aprendiendo del pasado — Respuestas de Taiwán al COVID-19 frente al SARS](https://pmc.ncbi.nlm.nih.gov/articles/PMC8178059/) — Artículo académico que compara cómo las reformas institucionales tras el SARS sostuvieron directamente la prevención del COVID-19, incluyendo la institucionalización del CECC y la elevación del CDC.
 
-[^4]: [The Reporter: Del SARS al COVID-19, por qué el Hospital Ho Ping sigue siendo una palanca clave en la respuesta epidémica de Taiwán](https://www.twreporter.org/a/covid-19-heping-hospital) — Reportaje en profundidad sobre la evolución institucional del Hospital Ho Ping, desde el cierre por SARS hasta la evacuación ordenada durante el COVID-19.
+[^4]: [The Reporter: Del SARS al COVID-19, por qué el Hospital Heping sigue siendo una pieza clave en la epidemia de Taiwán](https://www.twreporter.org/a/covid-19-heping-hospital) — Reportaje profundo sobre la evolución institucional desde el cierre por SARS hasta la limpieza de casos en COVID-19.
 
-[^5]: [Nature Immunology: Taiwan's experience in fighting COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Artículo especializado en la revista _Nature_ que analiza la estrategia de prevención epidémica de Taiwán, documentando que los controles de embarque en vuelos de Wuhan comenzaron el 31/12/2019.
+[^5]: [Nature Immunology: La experiencia de Taiwán en la lucha contra el COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Análisis en una revista de _Nature_ sobre la estrategia de prevención de Taiwán, registrando la activación de cuarentenas en vuelos de Wuhan el 31/12/2019.
 
-[^6]: [Atlantic Council: Lessons from Taiwan's experience with COVID-19](https://www.atlanticcouncil.org/blogs/new-atlanticist/lessons-from-taiwans-experience-with-covid-19/) — Análisis del Atlantic Council sobre el sistema de racionamiento de mascarillas, el mapa de mascarillas y las herramientas digitales de prevención epidémica de Taiwán.
+[^6]: [Atlantic Council: Lecciones de la experiencia de Taiwán con el COVID-19](https://www.atlanticcouncil.org/blogs/new-atlanticist/lessons-from-taiwans-experience-with-covid-19/) — El Atlantic Council analiza el proceso de creación del sistema nominal de mascarillas, el mapa de mascarillas y las herramientas digitales de prevención en Taiwán.
 
-[^7]: [European Journal of Public Health: Lessons learned from Taiwan's response to the COVID-19 pandemic](https://academic.oup.com/eurpub/article/35/1/153/7905788) — Revista europea de salud pública que resume los cuatro principios de la respuesta taiwanesa: rápido, anticipado, prudente y transparente.
+[^7]: [European Journal of Public Health: Lecciones aprendidas de la respuesta de Taiwán a la pandemia de COVID-19](https://academic.oup.com/eurpub/article/35/1/153/7905788) — La revista europea de salud pública resume los cuatro principios de Taiwán: rápido, anticipado, prudente y transparente.
 
-[^8]: [CDC Taiwán: Se detecta el primer caso local de gripe aviar tipo A del subtipo H7](https://www.cdc.gov.tw/Bulletin/Detail/bZE85LXA9ZGdCvEJKZe6Cg?typeId=9) — Comunicado oficial sobre el caso de un criador de patos de Changhua confirmado como H7N7 de baja patogenicidad, con 33 contactos bajo seguimiento.
+[^8]: [CDC: Primer caso local detectado de gripe tipo A H7 en Taiwán](https://www.cdc.gov.tw/Bulletin/Detail/bZE85LXA9ZGdCvEJKZe6Cg?typeId=9) — Anuncio oficial sobre el caso de un criador de patos de setenta años en Changhua; secuenciación genética de baja patogenicidad, con 33 personas bajo monitoreo.
 
-[^9]: [PTS News: Primer caso local de gripe aviar H7 con transmisión de ave a humano; el CDC lo evalúa como un evento aislado](https://news.pts.org.tw/article/801881) — Evaluación de riesgo del CDC: baja patogenicidad, sin mutaciones genéticas de transmisión entre humanos, todos los contactos negativos.
+[^9]: [Noticias PTS: Primer caso local de gripe H7 de ave a humano, el CDC lo evalúa como un evento aislado](https://news.pts.org.tw/article/801881) — Evaluación de riesgo del CDC: baja patogenicidad, sin mutación para transmisión humana, contactos todos negativos.
 
-[^10]: [Ministerio de Salud y Bienestar de Taiwán: Red de decisiones clave frente al COVID-19 — Taiwan Can Help](https://covid19.mohw.gov.tw/ch/cp-4843-53644-205.html) — Recopilación oficial de las medidas clave de prevención epidémica de Taiwán, incluyendo la vinculación del historial de viajes con la tarjeta del seguro de salud, el racionamiento de mascarillas y la diplomacia de mascarillas.
+[^10]: [Red de decisiones clave para la prevención del COVID-19 del Ministerio de Salud y Bienestar: Taiwan Can Help](https://covid19.mohw.gov.tw/ch/cp-4843-53644-205.html) — Compendio oficial de las medidas clave de Taiwán, incluyendo el uso de la tarjeta de seguro para historial de viajes, el sistema nominal de mascarillas y la diplomacia de las mascarillas.

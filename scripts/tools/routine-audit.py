@@ -60,6 +60,15 @@ ROUTINE_PATTERNS = [
 # 動態 fallback：具名 pattern 全 miss 但 subject 是 `[routine] X:` 形 → 以 X 歸類
 ROUTINE_FALLBACK_RE = re.compile(r"\[routine\] ([a-z0-9-]+):")
 
+# memory commit 的 routine 名就寫在 subject 裡（MEMORY-PIPELINE canonical schema：
+# `[routine] memory: {routine-name} @ {timestamp} — ...`），比具名 pattern 表可靠——
+# 具名 pattern 有無 `.*` wildcard 不一致，讓部分 routine 的 memory commit 落進通用
+# `routine-memory` 桶，跟自己的 action commit 拆進不同桶（LESSONS
+# routine-audit-classifier-memory-commit-misattribution，vc=3：twmd-routine-sync /
+# twmd-weekly-report-sun / twmd-data-refresh-am 等具名 pattern 缺 memory 變體）。
+# 直接從 subject 解析比補齊每個具名 pattern 的 memory 變體更不會再漂移。
+MEMORY_ROUTINE_RE = re.compile(r"\[routine\] memory: (\S+) @")
+
 SEMIONT_PATTERN = r"\[semiont\]"
 PR_SQUASH_PATTERN = r"\(#\d+\)$"
 
@@ -78,12 +87,17 @@ def run_git(args: list[str]) -> str:
 
 def classify_commit(subject: str) -> dict:
     """Map a git commit subject to a category."""
+    mem = MEMORY_ROUTINE_RE.search(subject)
+    if mem:
+        return {"category": "routine", "routine": mem.group(1)}
     for name, pattern in ROUTINE_PATTERNS:
         if re.search(pattern, subject):
             return {"category": "routine", "routine": name}
     fb = ROUTINE_FALLBACK_RE.search(subject)
     if fb:
-        return {"category": "routine", "routine": f"routine-{fb.group(1)}"}
+        name = fb.group(1)
+        prefixed = name if name.startswith(("twmd-", "routine-")) else f"routine-{name}"
+        return {"category": "routine", "routine": prefixed}
     if re.search(SEMIONT_PATTERN, subject):
         if "memory:" in subject:
             return {"category": "semiont", "routine": "manual-memory"}

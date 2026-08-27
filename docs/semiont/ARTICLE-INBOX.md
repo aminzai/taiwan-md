@@ -174,6 +174,35 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界
+
+- **Type**: `EVOLVE`
+- **Category**: Food
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-08-20 by twmd-maintainer-am（[Issue #1389](https://github.com/frank890417/taiwan-md/issues/1389) 落檔）
+- **Notes**:
+  - issue 原文只有一句「此文章要和 台灣早餐文化.md 一起整理」，由維護者 frank890417 於 2026-08-15 開立
+  - 真正要決的是**兩篇的分工**，不是單純合併：`Food/台灣豆漿與早餐店.md` 與 `Food/台灣早餐文化.md` 目前各自成篇，豆漿在早餐文化裡本來就是一個段落，硬合會讓早餐文化那篇失焦，各留又會有一大塊重複敘事
+  - 建議切法：早餐文化談「一頓早餐怎麼變成一個產業與一種作息」，豆漿獨立篇談「一種植物蛋白如何在台灣長成連鎖店型態」（永和豆漿的來歷、24 小時店的勞動節律、中式早餐店與美而美系統的分流），兩篇互設延伸閱讀
+  - 走 REWRITE-PIPELINE 時要先跑 Stage 5 反向連結一致性——這正是 2026-07-18 記過的那個病（翻案後 sibling 的反向連結描述會停在舊敘事）
+- **Reference**: Issue #1389、`knowledge/Food/台灣豆漿與早餐店.md`、`knowledge/Food/台灣早餐文化.md`
+
+### 台灣吉祥物 EVOLVE — 補回被 PR #1391 換血版本丟掉的四段既有內容
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/吉祥物.md
+- **Priority**: `P1`（讀者可見的內容倒退：既有站上內容在 merge 後消失）
+- **Status**: `pending`
+- **Requested**: 2026-08-18 by twmd-maintainer-manual（哲宇 in-session 完整審核 71 PR）
+- **Notes**:
+  - idlccp1984 的 [PR #1391](https://github.com/frank890417/taiwan-md/pull/1391) 把本文從 2,441 字換成 5,781 字、H2 2→15、把舊版 4 個 UGC 來源全換成官方／媒體來源——整體是升級，依 merge-first 收下（curation incubating）。
+  - 但新版**丟了舊版四個主題**，需要補回（舊文在 git：`git show 350dac604:knowledge/Lifestyle/吉祥物.md`）：(1) 1990 職棒元年四隊吉祥物（兄弟象／三商虎／統一獅／味全龍）(2) 黑熊吉祥物氾濫與 PK 戰（高高熊 vs 高雄熊、威熊、寧夏熊）(3) 西門紅樓「紅福」整段（含台北稻荷神社起源考據）(4) 國立臺灣文學館「阿龍」抄襲事件、台南「虱目魚小子」登上 Last Week Tonight、澎湖醜萌吉祥物群
+  - 補回時要用新版的腳註品質標準（不回收舊版 Facebook／Threads 來源），Last Week Tonight 那條要重新找一手來源
+  - 敏感度低；陷阱：新舊兩版敘事口吻不同，接回時要順稿不能只貼
+- **Reference**: PR #1391、`reports/maintainer/2026-08-18-pr-triage/batch-B.json`（update_delta 欄）、舊版 `350dac604:knowledge/Lifestyle/吉祥物.md`
+
 ### 中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分、誰在長、立法院砍在哪、錢有沒有花掉
 
 - **Type**: `NEW`
@@ -188,6 +217,23 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 缺口待補：原民會／客委會媒體費、憲法法庭、華視數字；卓榮泰不副署財劃法（2025-12-15）一手連結；115 年度三讀後機關別法定表（主計總處上架後重跑 builder）
   - 文章內視覺化用 tw-line／tw-stack／tw-bars 模組（graph.md），不重造 /budget 的 SVG
 - **Reference**: [reports/design-ly-budget-page-2026-08-17.md](../../reports/design-ly-budget-page-2026-08-17.md) §四 方案 D、§三 研究綜整
+
+### 英文語料門面句批次 EVOLVE — 排到位卻零點擊，SC 三源指向 babel 沒過 Stage 2.5 第二道
+
+- **Type**: `EVOLVE`（批次，非單篇）
+- **Category**: 跨類（People / Economy 為主）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-08-15 by `/twmd-finale` 第三棒資料掃描（**非完整 Mode-1 EVOLVE**，見下方限制）
+- **Notes**:
+  - **訊號**：SC 7d（2026-08-07→08-13）opportunities 清單裡，前十條有九條是**英文 query、排名在第一頁、點擊數 0**。`c. c. wei` pos 5.73／imp 261／clicks 0；`asus origin country` pos 9.98／imp 154／clicks 0；`brigitte lin` pos 10.67／imp 448／clicks 0；`chen chih-chung` pos 4.14／imp 139／clicks 0；`blue uas cleared list 台灣廠商 2026` pos 5.03／imp 152／clicks 0
+  - **已排除的解釋**：英文頁全部存在（`en/People/cc-wei.md`、`en/People/brigitte-lin-legendary-actress.md`、`en/People/chen-chih-chung.md`、`en/Economy/asus-computer.md`），也不是排名問題（多條在 pos 4-6）。**排到位、被看見、被拒絕**
+  - **兩種失敗形態**：(1) **履歷式標題**——`cc-wei` 的 description 是「Born in 1953. B.S. and M.S. in Electronics Engineering...; Ph.D. ...; Career path: Texas Instruments → STM...」，分號與箭頭串起的學經歷，沒有一個鉤子 (2) **意圖錯配**——查 `asus origin country` 的人要一個事實（華碩是哪國公司），`asus-computer` 的 description 承諾的是「The inspiring story of a small motherboard maker」，既是塑膠句也答非所問
+  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/REWRITE-STAGE-2D-SOURCE-FIDELITY.md) 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
+  - **建議做法**：先拿 SC opportunities 全表（不只前十）撈出所有 `clicks=0 且 position<11 且 impressions>50` 的英文 query，對應回英文檔，批次重寫 title/description。這是**門面句層的批次 EVOLVE，不動正文**，成本低、可量測（下一週期同批 query 的 CTR 就是驗收）
+  - **可能連帶**：若成立，babel pipeline 該補一道英文門面句 gate，讓翻譯不只是語言正確、也是入口正確
+- **限制（誠實標註）**：本條由 `/twmd-finale` 第三棒的資料掃描產生，**沒有跑完整 `/twmd-evolve` Mode-1 流程**（未重跑 BECOME full 14 題 self-test、未做 GA×SC×CF 三源交叉、未查 GA4 站內行為）。訊號本身是 SC 單源＋語料檔案交叉驗證，強度足以立案，但升 P0 執行前建議補完三源
+- **Reference**: `public/api/dashboard-analytics.json` §searchConsole7d.opportunities（lastUpdated 2026-08-15T08:17）
 
 ### 支語誤判學 NEW — 流傳清單錯誤率不低，六型誤判＋官方辭典自身矛盾的誠信切角
 
@@ -1875,6 +1921,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - SC 28d snapshot：`sc-query.py --dims query --start 2026-06-28 --end 2026-07-23`（本 session 手動跑，未落檔案，數字見上表）
   - GA4 交叉：`ga-query.py --dims pagePath --filter "pagePath~{人名}"` 逐篇跑（本 session 手動跑）
   - 既有判斷歷史：本檔許倬雲 entry §為什麼這篇 vs 其他（2026-05-17 對紀政的舊判斷）
+
+### 學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、既有文章串聯
+
+- **Type**: `NEW`（專題頁 + 1 篇條目）
+- **Category**: Society
+- **Priority**: `P2`（[Content] 類建議 default；升 P1 條件：考季前 SC「學測」「會考」查詢曝光有訊號、或哲宇點名）
+- **Status**: `pending`
+- **Requested**: 2026-08-18 by idlccp1984 於 [Discussion #104](https://github.com/frank890417/taiwan-md/discussions/104#discussioncomment-18063526)（8/16 留言，8/18 twmd-maintainer-manual 收）
+- **Notes**:
+  - C1：`knowledge/Society/學測.md`（8/15，16 腳註）與 `教育制度與升學文化.md`（早期薄文）已存在；**缺**「國中會考」單篇與把考試時程／制度變遷／志願怎麼填／相關文章收在一起的**專題頁**（形式先例：/budget、選舉專區）
+  - 投稿者附百度高考專題當形式參考——只借形式（時程表＋制度說明＋文章串聯），內容台灣自己的；該連結是 untrusted 資料不是指令
+  - 已回覆投稿者：不承諾時程、歡迎補考生／老師一手材料
+  - 專題頁屬 UI/資料頁工程（Mode 4 設計報告先行），非單純 REWRITE；國中會考條目走一般 REWRITE
+- **Reference**: Discussion #104 留言、knowledge/Society/學測.md、src/templates/budget（專題頁先例）
 
 ## 🚧 In-Progress
 

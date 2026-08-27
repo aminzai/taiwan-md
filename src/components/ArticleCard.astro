@@ -9,6 +9,10 @@
  * - `compact` (default) — 緊湊 sidebar list 用：dot + title + 1-2 line desc + meta
  * - `row`              — 極簡單列：分類 pill + serif 標題 + 1 行描述 + 右側日期（borderless）
  * - `detailed`         — 時序列（/latest）卡片：框 + pill + 更新日 + serif 標題 + 完整描述 + tags + 引用/閱讀時間 footer
+ * - `embed`            — **文內嵌入卡（2026-08-19）**：正文裡 ```tw-article 區塊換成的那張。
+ *                        detailed 的精實版：左側小縮圖 + pill/查證狀態 + 上站日 + serif 標題 +
+ *                        1–2 行摘要（不放 tags/引用/閱讀時間 footer）。手機維持左圖右文不堆疊——
+ *                        它住在段落之間，滿版橫幅會把讀者從正文裡拽出去。
  *
  * 設計目標：
  * 1. Astro 靜態 render（文章列表 / 你可能也想讀 grid / /latest / explore）
@@ -67,7 +71,7 @@ export interface Props {
   /** 縮圖載入策略（detailed）— 首屏 eager、其餘 lazy 防流量爆炸 */
   imageLoading?: 'eager' | 'lazy';
   /** 卡片密度 */
-  density?: 'premium' | 'compact' | 'row' | 'detailed';
+  density?: 'premium' | 'compact' | 'row' | 'detailed' | 'embed';
   /** 標題 heading tag — 預設 h4（既有頁面階層不變）；row 變體在 hub 列表頁用 h3
    * 搭配頁面 h1（page）→ h2（subcategory group）→ h3（card title）階層 */
   titleTag?: 'h3' | 'h4';
@@ -79,6 +83,13 @@ export interface Props {
   extraClass?: string;
   /** 透傳到根元素的 data-* 屬性（filter / GA 等 consumer 機制留在呼叫端）*/
   dataAttrs?: Record<string, string | undefined>;
+  /** 查證狀態三態（reports/design-curation-tier-2026-08-04.md）：'incubating' =
+   * 🌱 進化中 · 社群貢獻、'verified' = 🔎 已深度查證、undefined/null = 一般
+   * 正式文章。只認顯式值，呼叫端直接傳 ArticleSummary.curation 即可。 */
+  curation?: 'incubating' | 'verified' | null;
+  /** 是否顯示查證狀態 pill。預設：premium / detailed / row 顯示，compact 不顯示
+   * （sidebar 密度太窄，塞徽章會擠壓標題）。呼叫端通常不用傳，讓 density 決定。 */
+  stageBadge?: boolean;
 }
 
 const {
@@ -100,6 +111,8 @@ const {
   openIn = 'new-tab',
   extraClass = '',
   dataAttrs = {},
+  curation = null,
+  stageBadge,
 } = Astro.props;
 
 // 2026-07-26: the citation-count tooltip was a hardcoded zh-TW「引用」, so every
@@ -112,6 +125,19 @@ const citationsLabel = footnotes
   ? t('category.citations').replace('{n}', String(footnotes))
   : undefined;
 
+// 查證狀態三態 pill（2026-08-18）：預設只在 premium / detailed / row 顯示——
+// compact 是 sidebar 窄版，塞徽章會擠壓標題。呼叫端可用 stageBadge 覆寫。
+const showStageBadge = stageBadge ?? density !== 'compact';
+const stage: 'incubating' | 'verified' | 'standard' =
+  curation === 'incubating'
+    ? 'incubating'
+    : curation === 'verified'
+      ? 'verified'
+      : 'standard';
+const stageEmoji =
+  stage === 'incubating' ? '🌱 ' : stage === 'verified' ? '🔎 ' : '';
+const stageLabel = t(`curation.stage.${stage}` as any);
+
 const target = openIn === 'new-tab' ? '_blank' : '_self';
 const rel = openIn === 'new-tab' ? 'noopener noreferrer' : undefined;
 const Tag = href ? 'a' : 'div';
@@ -121,9 +147,13 @@ const densityClass = `is-${density}`;
 // 防 CJK/emoji surrogate pair 被切一半）大字低透明度立在分類色淡底上，取代舊版
 // 灰底 + 巨大 emoji watermark（design audit 2026-07-06 §2.10/§3.1 P0-6）。
 const dropCapChar = title ? [...title.trim()][0] : undefined;
-// 左圖右文：detailed 變體把縮圖移到文字左側（其他變體不受影響）
+// 左圖右文：detailed 變體把縮圖移到文字左側（其他變體不受影響）；embed 固定左圖。
 const imgSideClass =
-  density === 'detailed' && imageSide === 'left' ? 'is-img-left' : '';
+  (density === 'detailed' && imageSide === 'left') || density === 'embed'
+    ? 'is-img-left'
+    : '';
+// embed 與 detailed 共用 toprow／thumb 的 markup（差在沒有 foot、樣式另走 .is-embed）
+const hasThumbRow = density === 'detailed' || density === 'embed';
 const classes = ['article-card', densityClass, imgSideClass, extraClass]
   .filter(Boolean)
   .join(' ');
@@ -169,36 +199,54 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     )
   }
   {
-    density === 'row' && categoryLabel && (
-      <span
-        class="article-card-pill"
-        style={`color: ${categoryColor}; background: ${categoryColor}1f;`}
-      >
-        {categoryIcon ? `${categoryIcon} ${categoryLabel}` : categoryLabel}
+    density === 'row' && (categoryLabel || showStageBadge) && (
+      <span class="article-card-pillgroup">
+        {categoryLabel && (
+          <span
+            class="article-card-pill"
+            style={`color: ${categoryColor}; background: ${categoryColor}1f;`}
+          >
+            {categoryIcon ? `${categoryIcon} ${categoryLabel}` : categoryLabel}
+          </span>
+        )}
+        {showStageBadge && (
+          <span class={`article-card-stage is-${stage}`} data-stage={stage}>
+            {stageEmoji}
+            {stageLabel}
+          </span>
+        )}
       </span>
     )
   }
 
   <div class="article-card-body">
     {
-      density === 'detailed' && (categoryLabel || date) && (
+      hasThumbRow && (categoryLabel || date || showStageBadge) && (
         <div class="article-card-toprow">
-          {categoryLabel && (
-            <span
-              class="article-card-pill"
-              style={`color: ${categoryColor}; background: ${categoryColor}1f;`}
-            >
-              {categoryIcon
-                ? `${categoryIcon} ${categoryLabel}`
-                : categoryLabel}
-            </span>
-          )}
+          <div class="article-card-toprow-left">
+            {categoryLabel && (
+              <span
+                class="article-card-pill"
+                style={`color: ${categoryColor}; background: ${categoryColor}1f;`}
+              >
+                {categoryIcon
+                  ? `${categoryIcon} ${categoryLabel}`
+                  : categoryLabel}
+              </span>
+            )}
+            {showStageBadge && (
+              <span class={`article-card-stage is-${stage}`} data-stage={stage}>
+                {stageEmoji}
+                {stageLabel}
+              </span>
+            )}
+          </div>
           {date && <span class="article-card-updated">{date}</span>}
         </div>
       )
     }
     {
-      density === 'premium' && (categoryLabel || date) && (
+      density === 'premium' && (categoryLabel || date || showStageBadge) && (
         <div class="article-card-premrow">
           {categoryLabel && (
             <span
@@ -206,6 +254,12 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
               style={`color: ${categoryColor}; background: ${categoryColor}14; border-color: ${categoryColor}28;`}
             >
               {categoryLabel}
+            </span>
+          )}
+          {showStageBadge && (
+            <span class={`article-card-stage is-${stage}`} data-stage={stage}>
+              {stageEmoji}
+              {stageLabel}
             </span>
           )}
           {date && <span class="article-card-premdate">{date}</span>}
@@ -350,7 +404,7 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
   }
 
   {
-    density === 'detailed' &&
+    hasThumbRow &&
       (coverImage ? (
         <span class="article-card-thumbwrap">
           <img
@@ -459,6 +513,41 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     color: #16a34a;
   }
 
+  /* === 查證狀態 pill（reports/design-curation-tier-2026-08-04.md）===
+   * 三態：incubating（🌱 綠色虛線，呼應文章頁 .curation-notice）／
+   * verified（🔎 綠色實線，呼應 .curation-badge）／standard（中性灰、無
+   * emoji，缺省）。base 尺寸落在 0.68-0.72rem 範圍，各 density 再微調到
+   * 貼齊該處既有 pill 字級（見下方 is-premium / is-row / is-detailed）。
+   * 只在 premium / detailed / row 顯示（compact 由 showStageBadge 擋掉）。 */
+  .article-card-stage {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 0.16rem 0.55rem;
+    border-radius: 9999px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    line-height: 1.3;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .article-card-stage.is-incubating {
+    border: 1px dashed rgba(26, 60, 52, 0.4);
+    background: rgba(26, 60, 52, 0.06);
+    color: #1a3c34;
+  }
+  .article-card-stage.is-verified {
+    border: 1px solid rgba(26, 60, 52, 0.5);
+    background: rgba(26, 60, 52, 0.09);
+    color: #14322b;
+  }
+  .article-card-stage.is-standard {
+    border: 1px solid #e2e8f0;
+    background: #f8fafc;
+    color: #94a3b8;
+    font-weight: 500;
+  }
+
   /* === Premium variant — cover hero + (badge·date) + serif title + desc +
      reading-time CTA。2026-06-14 進化為 canonical 文章卡樣式：站上最新 rail
      (template-clone) + 你可能也想讀 grid 共用同一個元件，不再各自手刻。=== */
@@ -535,6 +624,12 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     color: #94a3b8;
     font-variant-numeric: tabular-nums;
   }
+  .article-card.is-premium .article-card-stage {
+    font-size: 0.66rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.18rem 0.55rem;
+  }
   .article-card.is-premium .article-card-title {
     font-family: 'Noto Serif TC', serif;
     font-size: 1rem;
@@ -591,6 +686,23 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     font-weight: 600;
     line-height: 1.3;
     white-space: nowrap;
+  }
+  /* Wraps the row pill + 查證狀態 pill so they sit side-by-side as one flex
+   * item (「row 放在 pill 旁」) — the group carries the top margin the pill
+   * used to own alone, so the nested pill resets its own to avoid double
+   * offset. */
+  .article-card.is-row .article-card-pillgroup {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+    margin-top: 0.15rem;
+  }
+  .article-card.is-row .article-card-pillgroup .article-card-pill {
+    margin-top: 0;
+  }
+  .article-card.is-row .article-card-stage {
+    font-size: 0.68rem;
   }
   .article-card.is-row .article-card-body {
     gap: 2px;
@@ -726,11 +838,169 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
   .article-card.is-detailed .article-card-body {
     gap: 8px;
   }
+
+  /* === Embed variant — 文內嵌入卡（```tw-article）：detailed 的精實版 ===
+   * 住在 .prose 段落之間，所以：字級跟正文對齊而不是列表卡的大字；縮圖固定
+   * 小尺寸左置、手機不堆疊（滿版橫幅會打斷閱讀）；顏色全走 tokens 讓深色模式
+   * 不必再進 dark-polish 補（其他變體用硬編 hex 是歷史債，這裡不再加一份）。
+   * 全部用 logical properties（inline-start／end），ar 頁面鏡像自動對。 */
+  .article-card.is-embed {
+    flex-direction: row;
+    align-items: stretch;
+    gap: 14px;
+    padding: 12px 14px;
+    margin: 0;
+    border-radius: 12px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    color: var(--color-ink);
+    box-shadow: none;
+  }
+  .article-card.is-embed:hover {
+    background: color-mix(
+      in srgb,
+      var(--color-accent) 6%,
+      var(--color-surface)
+    );
+    border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+    transform: none;
+    box-shadow: 0 2px 8px
+      color-mix(in srgb, var(--color-accent) 12%, transparent);
+  }
+  .article-card.is-embed .article-card-thumbwrap {
+    order: -1;
+    width: 132px;
+    height: 88px;
+    flex-shrink: 0;
+    align-self: center;
+    overflow: hidden;
+    border-radius: 8px;
+    border: 1px solid var(--color-border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: color-mix(in srgb, var(--color-ink) 4%, var(--color-surface));
+  }
+  .article-card.is-embed .article-card-thumb {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  .article-card.is-embed:hover .article-card-thumb {
+    transform: scale(1.04);
+  }
+  .article-card.is-embed .article-card-thumb-ph {
+    position: relative;
+  }
+  .article-card.is-embed .article-card-thumb-dropcap {
+    font-family: var(--font-title);
+    font-weight: 700;
+    font-size: 3.4rem;
+    line-height: 1;
+    opacity: 0.25;
+    transform: translateY(0.06em);
+    white-space: nowrap;
+  }
+  .article-card.is-embed .article-card-body {
+    gap: 5px;
+    justify-content: center;
+  }
+  .article-card.is-embed .article-card-toprow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .article-card.is-embed .article-card-toprow-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 0;
+    flex-wrap: wrap;
+  }
+  .article-card.is-embed .article-card-pill {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 9999px;
+    padding: 0.14rem 0.5rem;
+    font-size: 0.68rem;
+    font-weight: 600;
+    line-height: 1.3;
+    white-space: nowrap;
+  }
+  .article-card.is-embed .article-card-stage {
+    font-size: 0.66rem;
+  }
+  .article-card.is-embed .article-card-updated {
+    flex-shrink: 0;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.72rem;
+    color: var(--color-ink-soft);
+    opacity: 0.8;
+    font-variant-numeric: tabular-nums;
+  }
+  .article-card.is-embed .article-card-title {
+    font-family: var(--font-title);
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-ink);
+    line-height: 1.45;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    transition: color 0.16s;
+  }
+  .article-card.is-embed:hover .article-card-title {
+    color: var(--color-accent);
+  }
+  .article-card.is-embed .article-card-desc {
+    font-size: 0.84rem;
+    color: var(--color-ink-soft);
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+  }
+  @media (max-width: 640px) {
+    /* 手機：維持左圖右文，縮圖再縮一格；日期掉到 pill 列下方避免擠標題 */
+    .article-card.is-embed {
+      gap: 10px;
+      padding: 10px 12px;
+    }
+    .article-card.is-embed .article-card-thumbwrap {
+      width: 84px;
+      height: 84px;
+      border-radius: 6px;
+    }
+    .article-card.is-embed .article-card-thumb-dropcap {
+      font-size: 2.6rem;
+    }
+    .article-card.is-embed .article-card-toprow {
+      flex-wrap: wrap;
+      gap: 4px 10px;
+    }
+    .article-card.is-embed .article-card-desc {
+      -webkit-line-clamp: 1;
+    }
+  }
   .article-card.is-detailed .article-card-toprow {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 12px;
+  }
+  /* Keeps the category pill + 查證狀態 pill glued together on the left while
+   * justify-content:space-between still pushes the date to the far right
+   * (「detailed 放在 category pill 同一列右側」). */
+  .article-card.is-detailed .article-card-toprow-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+    flex-wrap: wrap;
   }
   .article-card.is-detailed .article-card-pill {
     display: inline-flex;
@@ -741,6 +1011,9 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     font-weight: 600;
     line-height: 1.3;
     white-space: nowrap;
+  }
+  .article-card.is-detailed .article-card-stage {
+    font-size: 0.7rem;
   }
   .article-card.is-detailed .article-card-updated {
     flex-shrink: 0;

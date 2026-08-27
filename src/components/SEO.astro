@@ -250,13 +250,14 @@ const generateJSONLD = () => {
         height: 630,
       },
     },
-    // 2026-05-27: point SearchAction at /explore (the actual search-first
-    // UX, shipped 2026-05-10) instead of the non-existent /search route.
+    // 2026-08-23: point SearchAction at /search (issue #1496 — the
+    // full result page now exists). Until this date it pointed at /explore
+    // because /search didn't exist yet; that workaround is retired.
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${siteUrl}/explore?q={search_term_string}`,
+        urlTemplate: `${siteUrl}/search?q={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
@@ -286,8 +287,8 @@ const organizationLD = {
   logo: `${siteUrl}/images/taiwan-social.jpg`,
   description:
     lang === 'zh-TW'
-      ? '開源、AI-friendly 的台灣知識庫 — 一個會呼吸的數位生命體，922+ 篇深度策展文章、6 種語言、社群共編。'
-      : 'Open-source, AI-friendly knowledge base about Taiwan — a digital organism with 922+ curated articles in 6 languages, co-edited by the community.',
+      ? '開源、AI-friendly 的台灣知識庫 — 一個會呼吸的數位生命體，1087+ 篇深度策展文章、6 種語言、社群共編。'
+      : 'Open-source, AI-friendly knowledge base about Taiwan — a digital organism with 1087+ curated articles in 6 languages, co-edited by the community.',
   slogan:
     lang === 'zh-TW'
       ? '策展島嶼的深度敘事'
@@ -339,7 +340,7 @@ const websiteLD = {
     '@type': 'SearchAction',
     target: {
       '@type': 'EntryPoint',
-      urlTemplate: `${siteUrl}/explore?q={search_term_string}`,
+      urlTemplate: `${siteUrl}/search?q={search_term_string}`,
     },
     'query-input': 'required name=search_term_string',
   },

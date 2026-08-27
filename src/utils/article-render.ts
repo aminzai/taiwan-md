@@ -207,6 +207,21 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     fnSection: 'Сноски',
     majority: 'Большинство',
   },
+  de: {
+    // de scaffold (2026-08-19, de-translations-batch2). Record<Lang, VizStrings>
+    // 為型別硬需求；de 尚未 enabled，10 欄位以德文慣例填寫，出生時依
+    // LANGUAGE-BIRTH-CHECKLIST §Stage 4 再對齊 ui bundle。
+    srcPrefix: 'Quelle: ',
+    county: 'Kreis oder Stadt',
+    value: 'Wert',
+    unmatched: 'Nicht zugeordnete Kreise: ',
+    tilesAria: 'Datenkarte der Kreise Taiwans',
+    waffleAria: 'Waffeldiagramm',
+    fnAria: 'Fußnote',
+    fnBackAria: 'Zurück zur Referenz',
+    fnSection: 'Fußnoten',
+    majority: 'Mehrheit',
+  },
 };
 // module scope：整個 build 只有一份，renderArticleHtml 每次呼叫開頭覆寫。
 // 安全性建立在「marked.parse() 是同步呼叫、_locale 賦值到 parse 完成之間沒有
@@ -333,6 +348,39 @@ function renderTwModule(lang: string, raw: string): string {
     raw.startsWith('*')
       ? { label: raw.slice(1).trim(), hi: true }
       : { label: raw, hi: false };
+
+  if (lang === 'tw-article') {
+    // 文內嵌入站內文章卡（2026-08-19）。每列一篇：`分類/slug` 或 `/分類/slug`，
+    // 選配 `| 一句自訂摘要`（覆蓋該篇 frontmatter description；譯文層會被翻譯）。
+    // renderer 是純字串層、拿不到別篇的 frontmatter，所以這裡只吐一個帶資料屬性
+    // 的 placeholder，裡面先放一條真的 <a>：RSS／llms.txt／任何沒走 Astro 後處理
+    // 的消費端看到的就是一條站內連結，不是空殼。文章頁的 ArticleProse.astro 會
+    // 把整個 .tw-article-slot 換成共用 <ArticleCard density="embed">。
+    // 為什麼不直接在這裡組卡片 HTML：卡片 markup 的單一真相是 ArticleCard.astro
+    // （2026-06-14「拿來共用才有意義」），renderer 手刻一份就是第二份。
+    const items = lines
+      .map((l) => {
+        const [rawPath = '', ...rest] = l.split('|');
+        const path = rawPath.trim().replace(/^\/+|\/+$/g, '');
+        const seg = path.split('/');
+        if (seg.length !== 2 || !seg[0] || !seg[1]) return null;
+        const note = rest.join('|').trim();
+        return { cat: seg[0].toLowerCase(), slug: seg[1], note };
+      })
+      .filter((x): x is { cat: string; slug: string; note: string } => !!x);
+    if (items.length === 0) return '';
+    const slots = items
+      .map(
+        (it) =>
+          `<div class="tw-article-slot" data-tw-cat="${_esc(it.cat)}" data-tw-slug="${_esc(it.slug)}"` +
+          (it.note
+            ? ` data-tw-note="${_esc(it.note).replace(/"/g, '&quot;')}"`
+            : '') +
+          `><a href="/${_esc(it.cat)}/${encodeURIComponent(it.slug)}">${_esc(it.slug)}</a></div>`,
+      )
+      .join('');
+    return `<div class="tw-article">${slots}</div>`;
+  }
 
   if (lang === 'tw-figure') {
     // line1: 大數字（含 -> / → 視為 before→after）；line2: 說明；line3: 來源

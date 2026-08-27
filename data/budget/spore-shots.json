@@ -1,0 +1,33 @@
+{
+ "_about": "/budget 孢子配圖 spec，給 scripts/tools/page-shots.mjs square 用（node scripts/tools/page-shots.mjs square --url https://taiwan.md/budget/ --spec data/budget/spore-shots.json --out public/spore-images --prefix budget-decade）。2026-08-18 定稿十張：01–07 由首輪臨時腳本手調（設定見 public/spore-images/budget-decade-README.md，spec 待回填），08–10 由本 spec 產生。",
+ "shots": [
+  {
+   "n": 8,
+   "target": "#c-multi",
+   "viewport": 1000,
+   "margin": 6,
+   "alt": "各機關十年成長小倍數（105 年度＝100）：勞動部走到 254、經濟部 251、國防部 175、文化部 165、財政部 86。"
+  },
+  {
+   "n": 9,
+   "targets": [
+    "#c-fn-share",
+    "#c-fn-growth"
+   ],
+   "viewport": 1100,
+   "alt": "政事別占比 105→115 斜率圖與四大支出十年成長率：教科文 +46% 最慢，社福 +81%、國防 +77%、經濟發展 +60%；教科文是唯一占比下滑的。"
+  },
+  {
+   "n": 10,
+   "targets": [
+    "#s5 .bp-h2",
+    ".bp-days"
+   ],
+   "viewport": 800,
+   "hideExtra": [
+    "#s5 .bp-lede"
+   ],
+   "alt": "三種「拖了幾天」：總統賴清德 351 天、立法院長韓國瑜 266 天、國民黨張雅屏 115 天，同一份預算三個起點。"
+  }
+ ]
+}

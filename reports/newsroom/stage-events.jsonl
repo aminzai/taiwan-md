@@ -778,6 +778,52 @@
 {"ts": "2026-08-15T22:12:30Z", "slug": "台灣科技說故事", "stage": "ship", "status": "done", "source": "observed", "sha": "6bdb2b944ac2"}
 {"ts": "2026-08-16T22:12:02Z", "slug": "inbox:早餐雙篇重疊整併 EVOLVE — 〈台灣豆漿與早餐店〉× 〈台灣早餐文化〉", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-08-17T22:13:11Z", "slug": "inbox:中央政府總預算十年 NEW — /budget 資料頁的姊妹深度文：三兆元怎麼分", "stage": "inbox", "status": "pending", "source": "observed"}
-{"ts": "2026-08-18T02:18:27Z", "slug": "台灣早餐文化", "stage": "viewpoint", "status": "done", "source": "observed"}
-{"ts": "2026-08-18T02:18:27Z", "slug": "台灣早餐文化", "stage": "research", "status": "done", "source": "observed"}
-{"ts": "2026-08-18T02:18:27Z", "slug": "台灣早餐文化", "stage": "ship", "status": "done", "source": "observed", "sha": "ed947741e52b"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "文化內容策進院", "stage": "ship", "status": "done", "source": "observed", "sha": "0fa93a28a93d"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "room_projection", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "verify", "status": "in-progress", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "陳致中", "stage": "ship", "status": "done", "source": "observed", "sha": "6e6c49306371"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "中央研究院", "stage": "ship", "status": "done", "source": "observed", "sha": "542a8a9aa86d"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "8ab4e8da802a"}
+{"ts": "2026-08-18T22:12:32Z", "slug": "inbox:英文語料門面句批次 EVOLVE — 排到位卻零點擊，SC 三源指向 babel", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "room_prose", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "room_projection", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "0b63411dfa8b"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "吉祥物", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T22:12:43Z", "slug": "inbox:學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-21T22:12:20Z", "slug": "inbox:台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "room_projection", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "room_prose", "status": "unknown", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "c88b5ad35271"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-08-19T01:38:31Z", "slug": "比國家還大的演算藝術", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-08-19T02:50:56Z", "slug": "inbox:學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T02:50:56Z", "slug": "吉祥物", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-08-19T02:50:56Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "09cfe9a08f64"}
+{"ts": "2026-08-19T03:08:01Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "db0bbd6e1ec5"}
+{"ts": "2026-08-19T03:10:05Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "3db217a487ca"}
+{"ts": "2026-08-19T03:59:17Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "7e72d688daf6"}
+{"ts": "2026-08-19T07:18:59Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "da2dbe0b17a1"}
+{"ts": "2026-08-19T07:34:05Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "6a8bd0052fb1"}
+{"ts": "2026-08-19T07:36:42Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "f0af24051a98"}
+{"ts": "2026-08-22T03:33:40Z", "slug": "比國家還大的演算藝術", "stage": "ship", "status": "done", "source": "observed", "sha": "0b63411dfa8b"}
+{"ts": "2026-08-22T22:12:41Z", "slug": "陳致中", "stage": "ship", "status": "done", "source": "observed", "sha": "a06318911e2d"}

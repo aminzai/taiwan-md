@@ -923,6 +923,34 @@
 :root[data-theme='dark'] .category-page .article-card-stat {
   color: var(--color-ink-soft);
 }
+/* 查證狀態 pill (.article-card-stage，2026-08-18) — 沿用 §curation 深色面
+ * 同一套 color-mix(accent) 配方（見上方 .curation-notice / .curation-badge
+ * dark 規則），accent 在 dark token 是淺藍 #60a5fa，跟 --color-ink 的近白
+ * 前景在深色底上對比遠高於 4.5:1。standard 態沒有語意色，退到中性 surface。 */
+:root[data-theme='dark'] .explore-page .article-card-stage.is-incubating,
+:root[data-theme='dark'] .latest-page .article-card-stage.is-incubating,
+:root[data-theme='dark'] .timeline-page .article-card-stage.is-incubating,
+:root[data-theme='dark'] .category-page .article-card-stage.is-incubating {
+  border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+  background: color-mix(in srgb, var(--color-accent) 14%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .explore-page .article-card-stage.is-verified,
+:root[data-theme='dark'] .latest-page .article-card-stage.is-verified,
+:root[data-theme='dark'] .timeline-page .article-card-stage.is-verified,
+:root[data-theme='dark'] .category-page .article-card-stage.is-verified {
+  border-color: color-mix(in srgb, var(--color-accent) 55%, transparent);
+  background: color-mix(in srgb, var(--color-accent) 20%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .explore-page .article-card-stage.is-standard,
+:root[data-theme='dark'] .latest-page .article-card-stage.is-standard,
+:root[data-theme='dark'] .timeline-page .article-card-stage.is-standard,
+:root[data-theme='dark'] .category-page .article-card-stage.is-standard {
+  border-color: var(--color-border);
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  color: var(--color-ink-soft);
+}
 /* Thumb placeholder bg (#f8fafc / #e8efec) + foot divider (#f1f5f9). */
 :root[data-theme='dark']
   .explore-page
@@ -975,6 +1003,66 @@
   .article-card.is-detailed
   .article-card-foot {
   border-top-color: var(--color-border);
+}
+
+/* ══════════════════════════════════════════════════════════════════
+ * SEARCH RESULTS PAGE overrides (.search-page).
+ *
+ * src/templates/search.template.astro reuses the same slate palette as
+ * explore/latest (#1a1a2e / #64748b / #94a3b8 / #475569 / #cbd5e1 on
+ * white / #f8fafc / #e2e8f0). PageHero band is dark-teal already
+ * (verified, same as explore/latest). The result rows themselves reuse
+ * Header.astro's global `.search-item*` classes — those stay hardcoded
+ * light hex by design there (the popup panel is always-light), so this
+ * page needs its own dark overrides for the *same* class names, scoped
+ * under `.search-page` so the popup elsewhere is untouched.
+ * Born: 2026-08-23 /search issue #1496.
+ * ══════════════════════════════════════════════════════════════════ */
+
+:root[data-theme='dark'] .search-page [class~='bg-white'],
+:root[data-theme='dark'] .search-page [class*='bg-[#f8fafc]'] {
+  background-color: var(--color-surface);
+}
+:root[data-theme='dark'] .search-page [class*='border-[#e2e8f0]'],
+:root[data-theme='dark'] .search-page [class*='border-[#cbd5e1]'] {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .search-page [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .search-page [class*='text-[#64748b]'],
+:root[data-theme='dark'] .search-page [class*='text-[#94a3b8]'],
+:root[data-theme='dark'] .search-page [class*='text-[#475569]'] {
+  color: var(--color-ink-soft);
+}
+/* "Load more" button (green outline on white) → keep the accent outline,
+ * repaint its base + hover fill for a dark surface. */
+:root[data-theme='dark'] .search-page [class*='text-[#065f46]'] {
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .search-page [class*='hover:bg-[#ecfdf5]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 14%, transparent);
+}
+
+/* Result rows: Header.astro's .search-item* family, hardcoded light hex
+ * there by design (popup panel stays light). This page renders the same
+ * class names into its own dark-aware body, so it needs its own repaint. */
+:root[data-theme='dark'] .search-page .search-item:hover {
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+}
+:root[data-theme='dark'] .search-page .search-item-lang {
+  background: var(--color-surface);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .search-page .search-item-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .search-page .search-item-desc,
+:root[data-theme='dark'] .search-page .sr-date {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .search-page .search-item mark {
+  background: color-mix(in srgb, var(--color-accent) 30%, transparent);
 }
 
 /* ══════════════════════════════════════════════════════════════════

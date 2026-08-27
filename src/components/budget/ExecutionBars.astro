@@ -1,9 +1,11 @@
 ---
 /**
- * ExecutionBars — 「編了多少、花了多少」：每列一年，灰軌＝法定預算數（100%），
- * 實心條＝決算數；條尾標執行率。bullet-chart 簡化版。
+ * ExecutionBars — 「編了多少、花了多少」：每列一年，一條 0–100% 的量表：
+ * 藍＝決算 ÷ 法定（已執行），尾端淺色＝未執行；條尾標「未執行 X 億（Y%）」。
+ * v1 是「灰軌＝法定、藍條＝決算」的子彈條，但決算佔 97% 把灰軌蓋滿，眼睛讀到的是規模不是率；
+ * v2 讓長度直接編碼 takeaway（dataviz「single ratio against a limit → meter」）。寬 760／窄 400 兩套幾何。
  */
-import { fmtYi } from '../../utils/budgetViz';
+import { fmtYi, CHART_WIDTHS } from '../../utils/budgetViz';
 
 export interface ERow {
   label: string; // 年度
@@ -14,59 +16,81 @@ export interface ERow {
 }
 interface Props {
   title: string;
+  subtitle?: string;
   rows: ERow[];
   source?: string;
   lang?: string;
   id?: string;
   rowH?: number;
+  spentLabel?: string;
+  unspentLabel?: string;
 }
-const { title, rows, source, lang = 'zh-TW', id, rowH = 28 } = Astro.props;
-const W = 760;
-const M = { l: 64, r: 150, t: 22, b: 10 };
-const iw = W - M.l - M.r;
-const H = M.t + rows.length * rowH + M.b;
-const max = Math.max(...rows.map((r) => Math.max(r.budget, r.actual ?? 0)));
-const x = (v: number) => M.l + (v / max) * iw;
+const { title, subtitle, rows, source, lang = 'zh-TW', id, rowH = 28, spentLabel, unspentLabel } = Astro.props;
 const zh = lang === 'zh-TW';
 const uid =
   id ||
   `eb-${Array.from(title).reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
-const barH = Math.max(10, rowH - 12);
+const spentT = spentLabel || (zh ? '已執行（決算 ÷ 法定）' : 'Executed (final ÷ legal)');
+const unspentT = unspentLabel || (zh ? '未執行' : 'Unspent');
+const rateOf = (r: ERow) => (r.actual !== null ? (r.actual / r.budget) * 100 : null);
+
+function layout(W: number, narrow: boolean) {
+  const M = { l: narrow ? 40 : 56, r: narrow ? 118 : 190, t: 26, b: 10 };
+  const iw = W - M.l - M.r;
+  const H = M.t + rows.length * rowH + M.b;
+  const x = (pct: number) => M.l + (pct / 100) * iw;
+  const barH = Math.max(10, rowH - 12);
+  return { W, H, M, iw, x, barH, narrow };
+}
+const variants = CHART_WIDTHS.map((c) => layout(c.W, c.key === 'narrow'));
 ---
 
 <figure class="bg-chart" data-chart="execution" id={uid}>
   <h4 class="bg-chart-title" id={`${uid}-h`}>{title}</h4>
-  <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-labelledby={`${uid}-h`} class="bg-svg" preserveAspectRatio="xMidYMid meet">
-    <title id={`${uid}-t`}>{title}</title>
-    <g class="bg-legend" transform={`translate(${M.l}, ${M.t - 8})`}>
-      <rect x={0} y={-8} width={14} height={8} rx={2} class="bg-track" />
-      <text x={18} y={0} class="bg-tick">{zh ? '法定預算' : 'Legal budget'}</text>
-      <rect x={90} y={-8} width={14} height={8} rx={2} class="bg-bar" />
-      <text x={108} y={0} class="bg-tick">{zh ? '決算（實際支出）' : 'Final accounts (actual)'}</text>
-    </g>
-    {
-      rows.map((r, i) => {
-        const cy = M.t + i * rowH + rowH / 2;
-        return (
-          <g class="bg-row" data-year={r.label}>
-            <text x={M.l - 10} y={cy + 4} text-anchor="end" class="bg-rowlab">{r.label}</text>
-            <rect x={M.l} y={cy - barH / 2} width={x(r.budget) - M.l} height={barH} rx={3} class="bg-track">
-              <title>{`${r.label} ${zh ? '法定預算' : 'budget'}：${fmtYi(r.budget, lang)}`}</title>
-            </rect>
-            {r.actual !== null && (
-              <rect x={M.l} y={cy - barH / 2 + 2} width={Math.max(0, x(r.actual) - M.l)} height={barH - 4} rx={2} class="bg-bar">
-                <title>{`${r.label} ${zh ? '決算' : 'actual'}：${fmtYi(r.actual, lang)}（${r.rate?.toFixed(1)}%）`}</title>
+  {subtitle && <p class="bg-chart-sub">{subtitle}</p>}
+  {
+    variants.map((L) => (
+      <svg viewBox={`0 0 ${L.W} ${L.H}`} role="img" aria-labelledby={`${uid}-h`} class={`bg-svg ${L.narrow ? 'is-narrow' : 'is-wide'}`} preserveAspectRatio="xMidYMid meet">
+        <title>{title}</title>
+        <g class="bg-legend" transform={`translate(${L.M.l}, ${L.M.t - 10})`}>
+          <rect x={0} y={-8} width={14} height={8} rx={2} class="bg-bar" />
+          <text x={18} y={0} class="bg-tick">{spentT}</text>
+          <rect x={L.narrow ? 150 : 190} y={-8} width={14} height={8} rx={2} class="bg-track" />
+          <text x={L.narrow ? 168 : 208} y={0} class="bg-tick">{unspentT}</text>
+        </g>
+        {rows.map((r, i) => {
+          const cy = L.M.t + i * rowH + rowH / 2;
+          const rate = rateOf(r);
+          const unspent = r.actual !== null ? r.budget - r.actual : null;
+          return (
+            <g class="bg-row" data-year={r.label}>
+              <text x={L.M.l - 8} y={cy + 4} text-anchor="end" class="bg-rowlab">{r.label}</text>
+              <rect x={L.M.l} y={cy - L.barH / 2} width={L.iw} height={L.barH} rx={3} class="bg-track">
+                <title>{`${r.label} ${zh ? '法定預算' : 'legal budget'}：${fmtYi(r.budget, lang)}`}</title>
               </rect>
-            )}
-            <text x={x(Math.max(r.budget, r.actual ?? 0)) + 6} y={cy + 4} class="bg-val">
-              {r.rate === null ? (zh ? '決算未出' : 'n/a') : `${r.rate.toFixed(1)}%`}
-              {r.note && <tspan class="bg-val-sub"> {r.note}</tspan>}
-            </text>
-          </g>
-        );
-      })
-    }
-  </svg>
+              {rate !== null && (
+                <rect x={L.M.l} y={cy - L.barH / 2} width={Math.max(0, L.x(Math.min(100, rate)) - L.M.l)} height={L.barH} rx={3} class="bg-bar">
+                  <title>{`${r.label} ${zh ? '決算' : 'final accounts'}：${fmtYi(r.actual, lang)}（${rate.toFixed(1)}%）｜${unspentT} ${fmtYi(unspent, lang)}`}</title>
+                </rect>
+              )}
+              {rate !== null && (
+                <text x={L.x(Math.min(100, rate)) - 6} y={cy + 4} text-anchor="end" class="bg-val bg-val-onbar">
+                  {rate.toFixed(1)}%
+                </text>
+              )}
+              <text x={L.M.l + L.iw + 8} y={cy + 4} class="bg-val">
+                {rate === null
+                  ? zh ? '決算未出' : 'n/a'
+                  : L.narrow
+                    ? `${unspentT} ${fmtYi(unspent, lang)}`
+                    : `${unspentT} ${fmtYi(unspent, lang)}（${(100 - rate).toFixed(1)}%）`}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+    ))
+  }
   {source && <figcaption class="bg-chart-src">{zh ? '來源：' : 'Source: '}{source}</figcaption>}
   <details class="bg-table">
     <summary>{zh ? '資料表' : 'Data table'}</summary>
@@ -77,6 +101,7 @@ const barH = Math.max(10, rowH - 12);
             <th>{zh ? '年度' : 'Year'}</th>
             <th class="num">{zh ? '法定預算（億元）' : 'Budget (NT$100M)'}</th>
             <th class="num">{zh ? '決算（億元）' : 'Actual (NT$100M)'}</th>
+            <th class="num">{zh ? '未執行（億元）' : 'Unspent (NT$100M)'}</th>
             <th class="num">{zh ? '執行率' : 'Rate'}</th>
           </tr>
         </thead>
@@ -87,6 +112,7 @@ const barH = Math.max(10, rowH - 12);
                 <td>{r.label}{r.note && <small class="bg-note"> {r.note}</small>}</td>
                 <td class="num">{Math.round(r.budget).toLocaleString('en-US')}</td>
                 <td class="num">{r.actual === null ? '—' : Math.round(r.actual).toLocaleString('en-US')}</td>
+                <td class="num">{r.actual === null ? '—' : Math.round(r.budget - r.actual).toLocaleString('en-US')}</td>
                 <td class="num">{r.rate === null ? '—' : `${r.rate.toFixed(1)}%`}</td>
               </tr>
             ))

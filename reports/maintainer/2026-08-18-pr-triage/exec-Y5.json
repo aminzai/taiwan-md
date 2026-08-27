@@ -1,0 +1,117 @@
+[
+  {
+    "number": 1418,
+    "path": "knowledge/Society/水道頭.md",
+    "actions": [
+      "subcategory 城市與生活→社區與日常（合法值）",
+      "收進 4 張圖片：朴子水道配水塔（國家文化資產網官方原圖）+ 北港／大雅／高雄水塔（Wikimedia Commons CC BY-SA 3.0），存入 public/article-images/society/，frontmatter 與內文路徑改 .webp",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "015d1a9c94854f1057d87aaac06623ad84bf5f79",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "99431a09442a7a29e91f6d4982c3c6fb7817b076",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "最輕量一篇，唯一 hard 是 4 張圖未 ingest；ingest 過程遇 Wikimedia 429 rate limit（多子代併發），改用本機 curl 下載再餵給 image-ingest.mjs 解決。"
+  },
+  {
+    "number": 1420,
+    "path": "knowledge/Society/哈哈台.md",
+    "actions": [
+      "subcategory 網路文化→媒體與言論（Society 合法值；網路文化屬 Culture）",
+      "author 'Taiwan.md'→'Taiwan.md Contributors'",
+      "移除 3 張本機不存在圖片（../../images/hahatai_*.jpg）與對應「圖片來源」段落",
+      "修正 [^2][^18] 兩條幻覺網域腳註：jmc.edu.tw（DNS 不存在）→ mol.mcu.edu.tw 銘傳銘報真實報導（WebFetch 驗證內文確有「親和力／好奇心」段落）；walkofvideo.com（DNS 不存在）→ walkbell-awards.com 走鐘獎官網",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "e292b0e80f88cc82966cd56410239a79563d750b",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "26ecc7954c5d60849c351cfd40d281d5cd6bb26f",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "兩條幻覺網域撐著具名在世人物（創辦人林志杰／主持人蓋瑞）引語的來源之一（[^2] 傑尼蓋瑞訪談）已用真實報導核實內容存在；[^18] 只換官方網站首頁，未核實特定「第六屆入圍名單」子頁（走鐘獎官網為 SPA，無法簡單深連結到歷屆頁）。"
+  },
+  {
+    "number": 1421,
+    "path": "knowledge/History/台灣糖業鐵路.md",
+    "actions": [
+      "subcategory 產業與日常史→社會與日常史（合法值，taxonomy 範例含「台灣鐵道史」）",
+      "author 'Taiwan.md'→'Taiwan.md Contributors'",
+      "移除 3 張熱連結圖片（archives.gov.tw 2 張＋img.taipeitimes.com 1 張，依主 session 特別指示視為無授權）",
+      "全形分號 19→12（僅轉可獨立成句的 7 處為句號，未動列表/腳註/圖說）",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "9f64c386bcf8cc78496d8e1fc9cb8bcfb44610f1",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "8fd6b55e90b18163f48b6731a459ef06e36654f6",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "archives.gov.tw 站台頁尾實際貼有創用 CC BY-NC 3.0 台灣授權聲明，但特別指示明確要求移除（可能因該聲明涵蓋電子報本文而非附件圖檔本身的著作權主體不同），依主 session 判斷執行，未自行收進。"
+  },
+  {
+    "number": 1422,
+    "path": "knowledge/Food/飛魚.md",
+    "actions": [
+      "subcategory 族群文化→族群飲食（Food 合法值；族群文化屬 Culture）",
+      "移除 6 張失效圖片：4 張 manuscdn.com（Manus AI 沙盒暫存簽章連結，已 403/429）＋ 2 張本機不存在路徑（images/silver_helmets.jpg、images/dried_fish_wall.jpg），均無 Wikimedia 來源標示",
+      "修正 [^6] 維基百科連結括號未跳脫問題（URL 內 (Taiwan) 改 %28Taiwan%29）",
+      "全形分號 17→12",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "05e6a585377e47c1a39678dee62df9ed19e15f7f",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "c21614c5f98506d35efa124a19244072b1c2be41",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "author 與 subcategory 外，frontmatter 其餘欄位（featured/curation 前置）原本已符合規範。孤兒腳註 [^17]-[^20]（定義了但正文未引用）不影響 hard gate，未動。"
+  },
+  {
+    "number": 1423,
+    "path": "knowledge/Art/西門紅樓.md",
+    "actions": [
+      "移除 3 張臺北市府 Download.ashx 熱連結圖片（curl 驗證均 HTTP 404 已死連結）與對應圖說行",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "47c6b3e7ea5aaa02f2286ad120862368064aebe6",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "36fda96bd890cb1c06ea39319728355b4190b37f",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "最快完成的一篇，內容與其餘 frontmatter 欄位原本已合規。"
+  },
+  {
+    "number": 1424,
+    "path": "knowledge/History/九二一集集地震.md",
+    "actions": [
+      "subcategory 災害與重建→社會與日常史（History 無「災害與重建」合法值，選最貼近者）",
+      "移除 frontmatter image 欄與 6 張熱連結圖片（scweb.cwa.gov.tw 中央氣象署 1 張＋ourisland.pts.org.tw 我們的島 2 張＋taiwan-panorama.com 光華雜誌 3 張，均無明確授權聲明）",
+      "正文裸括號引用 [N] 全部改 [^N] caret 格式（45 處，含連續引用如 [4][7]），核對未動已正確的 [^N]: 定義行",
+      "全形分號 20→12",
+      "curation incubating"
+    ],
+    "hard_final": 0,
+    "heal_commit": "cae851f8937ca02b556dddf5e8d66d93cb3acf7c",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "d617c706b71dedad3119a51ffabe46d8484c8f4d",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "本篇 red_flag 是自動化工具的盲點（裸括號 [N] 不會被 remark 腳註外掛渲染成可點擊腳註），Phase A 特別標記需人工全文替換；已用 Python regex 全域替換 45 處，footnote-format 檢查通過 hard=0，CI 一次過綠。"
+  }
+]

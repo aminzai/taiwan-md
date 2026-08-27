@@ -1,0 +1,28 @@
+id: 行吧
+category: daily
+subcategory: 網路與社群
+fork_type: F
+auto_convert: false # 同詞不同語感：中國側的詞在台灣另有正當用法，盲目取代會改壞正確文字
+display:
+  taiwan: 好啦 / 可以啦 / 那就這樣吧
+  china: 行吧
+etymology:
+  origin: 表示勉強同意、帶點無奈的應答語。「行」表示可以，教育部《重編國語辭典修訂本》本來就收——動詞義「同意、允許」例句「今天中午我想吃麵，行不行？」，形容詞義「可以、恰當」例句「他這篇文章寫得還行。」所以爭議的不是「行」這個字，是「行吧」作為敷衍應答語氣詞的整組用法。
+  taiwan_path: 台灣口語同意時說「好啊」「可以啊」，勉強同意說「好啦」「那就這樣吧」「隨便你」。「行」多見於「行不行」「還行」，單獨當應答語較少。
+  china_path: 中國網路與口語裡「行」「行吧」是高頻應答詞，「行吧」特別帶「我不太認同但懶得爭」的語氣。
+  fork_cause: 語氣詞層的滲透，跟著中國短影音與遊戲語音的對話節奏整組輸入。
+usage:
+  example: 好啦，那就這樣吧。
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: 「行不行」「還行」「不行」是台灣日常說法，與本條無關。
+status: shifting
+notes: |
+  ⚠️ 查證分歧誠信標註：「行」台灣辭典有據，位移的是「行吧」這個應答語氣的使用頻率。
+  2026-08 那則 4.6 萬瀏覽的 Threads 討論串裡，網友 @hicra5242 補的就是這條：「我還發現『行吧』『行』最近變很常見」。
+  語氣詞層比名詞層更難查證，因為它不容易在書面語料留下痕跡——收錄目的是把這個觀察存下來等後續驗證。
+sources:
+  - https://www.moedict.tw/uni/行
+  - https://www.threads.com/@marugoigoi/post/DcSu1TSkRMV
+added: '2026-08-22'
+updated: '2026-08-22'

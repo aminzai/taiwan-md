@@ -1,0 +1,29 @@
+id: 腦子
+category: daily
+subcategory: 日常用語
+fork_type: F
+auto_convert: false # 同詞不同語感：中國側的詞在台灣另有正當用法，盲目取代會改壞正確文字
+display:
+  taiwan: 腦袋
+  china: 腦子（腦子好使、腦子進水）
+etymology:
+  origin: 指人的思考與記憶能力。教育部《重編國語辭典修訂本》兩條都收：「腦子」釋為「人的思考、記憶、邏輯運算等能力」，並注「也作『腦袋』、『腦袋瓜』」；「腦袋」條同樣收此義並注「也作『腦子』」。兩個詞在辭典裡互為異名。
+  taiwan_path: 台灣口語預設「腦袋」（腦袋好、腦袋空空、腦袋壞掉），「腦子」較常出現在書面或戲謔語氣。
+  china_path: 中國口語預設「腦子」，且長出一整組固定搭配：腦子進水、腦子不好使、動動腦子。
+  fork_cause: 同義異名的偏好分歧；中國影音內容的固定搭配（尤其「腦子進水」）近年整組輸入台灣網路語境。
+usage:
+  example: 他腦袋好、反應又快，交給他沒問題。
+  note: 「腦子」台灣辭典也收（注明「也作腦袋」），差別在哪個是預設，不是能不能用。
+  taiwan_formal: true
+  taiwan_casual: true
+status: shifting
+notes: |
+  ⚠️ 查證分歧誠信標註：兩個詞台灣辭典都收、都能說，差別是哪個是預設。
+  2026-08 Threads 討論串裡 @thiankiu.to 把它列進「台灣人習慣講腦袋，中國人習慣講腦子，
+  但現在在台灣你看到的都是在講腦子」的清單。本條記錄偏好差異，不做判定。
+sources:
+  - https://www.moedict.tw/uni/腦子
+  - https://www.moedict.tw/uni/腦袋
+  - https://www.threads.com/@marugoigoi/post/DcSu1TSkRMV
+added: '2026-08-22'
+updated: '2026-08-22'

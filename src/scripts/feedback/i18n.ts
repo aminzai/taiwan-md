@@ -639,6 +639,58 @@ const ru: FeedbackStrings = {
   back: 'Назад',
 };
 
+const de: FeedbackStrings = {
+  open: 'Feedback',
+  title: 'Feedback senden',
+  intro:
+    'Einen Fehler gefunden, etwas funktioniert nicht, oder fehlt ein Thema? Schreiben Sie uns.',
+  about: 'Zum Artikel: ',
+  typeContent: 'Korrektur',
+  typeBug: 'Fehler auf der Website',
+  typeNewtopic: 'Neues Thema',
+  typeContentHint: 'In diesem Artikel steht eine falsche oder veraltete Angabe',
+  typeBugHint: 'Eine Seite, ein Link oder die Darstellung funktioniert nicht',
+  typeNewtopicHint:
+    'Schlagen Sie ein Thema über Taiwan vor, über das wir schreiben sollten',
+  typeIdea: 'Idee / Vorschlag',
+  typeIdeaHint: 'Ein allgemeiner Gedanke zu Taiwan.md',
+  typeNewArticle: 'Artikel vorschlagen',
+  typeNewArticleHint: 'Schlagen Sie einen Artikel für diese Kategorie vor',
+  selectPill: '🧬 Korrektur vorschlagen',
+  quoteLabel: 'Die von Ihnen markierte Stelle',
+  myFeedback: 'Mein Feedback',
+  myFeedbackEmpty: 'Noch kein Feedback.',
+  statusNew: 'In Bearbeitung',
+  statusFiled: 'Issue angelegt',
+  statusRejected: 'Nicht übernommen',
+  viewIssue: 'Issue ansehen',
+  triageNoteLabel: 'Systemhinweis',
+  bodyPlaceholder: 'Was ist Ihnen aufgefallen? Bitte möglichst konkret.',
+  correctInfoLabel: 'Richtige Angabe + Quelle (optional)',
+  correctInfoPlaceholder: 'Richtig ist: …  Quelle: https://…',
+  next: 'Weiter',
+  submit: 'Absenden',
+  authTitle: 'Zum Absenden bitte anmelden',
+  authIntro:
+    'Ein Schritt, damit wir uns bei Ihrem Feedback zurückmelden können.',
+  google: 'Weiter mit Google',
+  github: 'Weiter mit GitHub',
+  emailPlaceholder: 'du@example.com',
+  emailSend: 'Anmeldelink schicken',
+  emailSent: 'Schauen Sie in Ihr Postfach — dort liegt der Anmeldelink.',
+  nicknameTitle: 'Ihr Anzeigename',
+  nicknameHint:
+    'Erscheint im Issue, das wir anlegen. Leer lassen — dann nehmen wir Ihr Konto.',
+  nicknamePlaceholder: 'z. B.: Leserin am Meer',
+  sending: 'Wird gesendet…',
+  doneTitle: 'Angekommen, danke 🧬',
+  doneBody: 'Jemand aus dem Team sieht sich Ihr Feedback an.',
+  errorBody: 'Senden fehlgeschlagen. Sie können es auch über GitHub melden.',
+  fallbackCta: 'Auf GitHub melden',
+  close: 'Schließen',
+  back: 'Zurück',
+};
+
 // Must stay in step with the site's live language set. When a language ships
 // without an entry here the widget silently falls back to English, which is
 // how vi/id/pt/hi/ar/ru readers got an English feedback panel for months
@@ -657,6 +709,7 @@ const TABLE: Record<string, FeedbackStrings> = {
   hi,
   ar,
   ru,
+  de,
 };
 
 export function getStrings(lang: string): FeedbackStrings {

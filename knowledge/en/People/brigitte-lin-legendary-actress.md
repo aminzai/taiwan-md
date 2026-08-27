@@ -1,6 +1,6 @@
 ---
-title: 'Brigitte Lin: From Romance Icon to Martial Arts Legend'
-description: "The legendary actress who dominated both Qiong Yao romance films and Tsui Hark's martial arts cinema, becoming an eternal icon of Chinese cinema"
+title: 'Brigitte Lin: From Qiong Yao Romance Star to East Asia’s Cinema Legend'
+description: 'Discovered in Taipei at seventeen, Brigitte Lin defined Taiwanese romance cinema before reinventing herself as Hong Kong martial arts icon Dongfang Bubai.'
 date: 2026-03-19
 tags:
   [

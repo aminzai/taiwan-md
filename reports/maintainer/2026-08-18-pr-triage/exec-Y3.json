@@ -1,0 +1,112 @@
+[
+  {
+    "number": 1398,
+    "path": "knowledge/People/陳文郁.md",
+    "actions": [
+      "subcategory 前一波已設「科學與學術」，本輪未再改",
+      "6 張 Wikimedia 熱連結圖片實際 image-ingest 收進 public/article-images/people/（前一波只把 markdown 路徑改成本機 webp，檔案未真的下載，觸發 image-health hard；本輪補跑）",
+      "全形分號 38→0（僅正文句號斷句，不動圖說/授權行/腳註定義/散文用詞）",
+      "curation 設 incubating（featured 已為 false）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "9062be9774490483f9259eab288ce800b98f0734",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "29164d82ff072b6adbe2ce244f9d78e5b08225a9",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "上一波執行子代留下的中間狀態：markdown 已指向本機 /article-images/people/*.webp，但檔案不存在（image-health hard: 圖片檔不存在 x6）。本輪對照 Phase A batch-C.json 的 6 個 Wikimedia 來源逐一 image-ingest.mjs 完成入庫，命名與原 markdown 路徑一致，未再改動散文一字。"
+  },
+  {
+    "number": 1399,
+    "path": "knowledge/Geography/三鶯線.md",
+    "actions": [
+      "全形分號 28→0（body-editable 24 處句號斷句；不動表格儲存格/圖說/blockquote/腳註定義）",
+      "curation 設 incubating（featured 已為 false）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "c91ee5dca0b9203eb12dfb11b12ecee117ee5fe3",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "afc406aeba296e90e6920eb329b0ba08a1af8bfc",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "#1400 是本 PR 的逐位元複本（diff 完全一致），依特別指示只處理本 PR，#1400 交回主 session 在本 PR merge 後處理 close。"
+  },
+  {
+    "number": 1403,
+    "path": "knowledge/People/蔡衍明.md",
+    "actions": [
+      "subcategory 非正典值「企業家與公共爭議」→「科技與企業」（frontmatter 欄位，非散文）",
+      "全形分號 26→6（僅正文句號斷句；不動兩處 blockquote/兩處腳註定義/frontmatter description，散文一字未動）",
+      "curation 原已為 incubating，本輪 NOOP"
+    ],
+    "hard_final": 0,
+    "heal_commit": "3d9addf715082d8f1cf5f0fd87c9749682d1c210",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "730d96fe8e286cdc044aadfdddcdecccf54eff90",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "特別指示：在世爭議人物，只做格式 heal（分號降到超硬門檻以下），內容（含所有引語、數字、法院認定敘述）一個字未動，逐條核對過每處替換僅將句中「；」改「。」。"
+  },
+  {
+    "number": 1404,
+    "path": "knowledge/Politics/歡樂無法黨.md",
+    "actions": [
+      "subcategory 補「政治文化」（對齊既有 Politics 分類慣例值，SUBCATEGORY.md 尚未收錄 Politics 12 大主題，本輪沿用既有文章慣例）",
+      "PDIS 熱連結圖 1 張（CC BY 4.0）image-ingest 收進 public/article-images/politics/pdis-catnip-flower-basket-2019.webp，credit「唐鳳 PDIS 團隊」",
+      "同步更新圖說文字：原文誤稱『未下載』，改為『已下載並收錄至專案目錄』以符合實際狀態",
+      "全形分號 17→2（僅正文句號斷句，不動表格/圖說）",
+      "curation 設 incubating（featured 已為 false）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "418bd3410b065d236050f9b7491500be8eb959b3",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "80cbc7906aba4c96b2405ff83966c60633ffb6f3",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "特別指示已照做：PDIS 圖用 --credit 唐鳳 PDIS 團隊 --license CC BY 4.0 入庫。"
+  },
+  {
+    "number": 1406,
+    "path": "knowledge/People/蔡同榮.md",
+    "actions": [
+      "subcategory 補「政治與民主」（工具信心 0.47，人工核對後採用；FAPA 首任會長、公投法推手、獨派運動者）",
+      "全形分號 23→6（僅正文句號斷句，不動 blockquote x2/圖說 x2/圖片與授權區塊/frontmatter description）",
+      "curation 設 incubating（featured 已為 false）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "242950a6482e48fb5a906eb14e30d101e0f026a8",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "ef645f8ffaf31553d3bdbbdd6530c8985ab82124",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "image-health 對本文兩張 Wikimedia 官方肖像/SVG 熱連結未判 hard（僅 media-richness warn），本輪未動圖片。"
+  },
+  {
+    "number": 1409,
+    "path": "knowledge/People/千千進食中.md",
+    "actions": [
+      "subcategory 補「數位與媒體」（工具未給候選，人工判斷：YouTuber/內容創作者為主識別，餐飲品牌為衍生事業）",
+      "全形分號 11 處，未超過 12 的硬門檻，未動",
+      "curation 設 incubating（featured 已為 false）"
+    ],
+    "hard_final": 0,
+    "heal_commit": "513bf256ae48652da4d3781ea647da367d839c89",
+    "ci": "green",
+    "ready": true,
+    "merged": true,
+    "merge_sha": "fc239f871d7ee397a0bb248e7703039f0504ff46",
+    "status": "merged",
+    "blocked_reason": null,
+    "notes": "hard 只有 subcategory 缺欄位一項，heal 範圍最小。"
+  }
+]

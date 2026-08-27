@@ -2,11 +2,16 @@ id: 巨好吃
 category: daily
 fork_type: E
 display:
-  taiwan: 超好吃
+  taiwan: 超好吃 / 有夠好吃
   china: 巨好吃
 etymology:
-  origin: 指某個食物非常好吃，用於形容食物的美味程度；中國時常以大氣的方式形容，如「小米巨能寫中性筆」。
-notes: 來源：caris-events/invade (CC0)
+  origin: 「巨」當程度副詞，相當於「超」「非常」。中國網路與廣告文案愛用這種放大式修飾（巨好吃、巨能寫、巨方便），台灣同一位置用「超」「有夠」「爆」（超好吃、有夠好吃、好吃爆）。
+notes: |
+  2026-08-22 補記：這條屬於程度副詞層的分歧，同族還有 [挺](挺.yaml)（台灣說蠻／滿）。
+  副詞層的替換比名詞層隱蔽——每個字台灣都有，變的是修飾習慣。
+  一位台灣創作者記錄自己 2020 年就因為在影片講「巨」被出征，可見這條線已經被注意很久。
+  原始來源：caris-events/invade (CC0)。
 sources:
   - https://github.com/caris-events/invade
-added: 2026-03-30
+added: '2026-03-30'
+updated: '2026-08-22'

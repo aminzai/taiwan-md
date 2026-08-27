@@ -1,11 +1,11 @@
 ---
 title: 'REWRITE-STAGE-1A-RESEARCH'
-description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋 ≥80 配額 / 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 來源逐條可溯'
+description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋配額天花板制（全篇 ~150）/ 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 整合與清理六判準'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+current_version: 'v9.2'
+last_updated: 2026-08-15
+last_session: '2026-08-15-095913-manual（v9.2 新增 Step 1.7.5 整合與清理——orchestrator 六條報告品質判準（合成層零任務指涉/verification 決定形態/Findings 事實自足/引語可驗/negative 集中/量級 300-800），「整合是編輯不是搬運」；v9.1 同日：搜尋量改天花板制，全篇 ~150（Stage 0 20-30＋fan-out ~120-130，四隻各 ~30），措辭禁「下限」。哲宇 directive；診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -23,7 +23,7 @@ upstream_canonical:
 
 |                  |                                                                                                                                                                                                  |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **職責**         | 帶 Stage 0 問題執行搜尋（≥80，中≥40/英≥20/一手≥15/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT                                                                                            |
+| **職責**         | 帶 Stage 0 問題執行搜尋（**全篇 ~150 總量中的 Stage 1 份額 ~120-130，四隻各 ~30**；中≥40/英≥20/一手≥15/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）**       |
 | **執行者**       | orchestrator（主 session）＋ N 個 parallel Sonnet 研究 agent（prompt 一律 [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md) 填槽，禁即興）                                                    |
 | **INPUTS**       | research report §觀點成型（Stage 0 產物）；RESEARCH.md；RESEARCH-AGENT-PROMPT.md                                                                                                                 |
 | **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md`（八段合成單檔；sibling raw 收件後 consolidate 刪除）                                                                                                      |
@@ -39,7 +39,8 @@ upstream_canonical:
 - [ ] 每份分部報告收件當下 `agent-report-health.py {file} --claimed {配額}` exit 0（FAIL 不准合成）
 - [ ] 全部 raw verbatim 落 report §8（收到通知的第一個動作；禁 scratchpad／tmp）
 - [ ] sibling raw 檔 consolidate 進主檔後刪除
-- [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0）
+- [ ] **整合與清理六條判準過（Step 1.7.5）**——合成層零任務指涉、verification 三層是「決定」形態、Findings 事實自足
+- [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0／**合成層過程噪音 ≤3**）
 - [ ] frontmatter 核心矛盾（或組織主軸＋facet）已鎖
 
 ## HANDOFF（stage 完成時）
@@ -63,9 +64,19 @@ upstream_canonical:
 - `docs/editorial/RESEARCH.md`（方法論：搜尋策略、來源判斷、避坑指南）
 - `docs/editorial/RESEARCH-TEMPLATE.md`（填空模板）
 
-### Step 1.1: 搜尋深度 ≥ 80 次（v6.4，含來源多樣性配額）
+### Step 1.1: 搜尋深度 — **一篇文章總量 ~150 次**（v9.1，2026-08-15 哲宇 directive；含來源多樣性配額）
 
-**搜尋至少 80 次**（v6.4 升級，自 v5.1 ≥ 40 提高；含 Stage 0 的 ≥ 20 = 全篇 ≥ 100 次）：
+> 🚨 **150 是「整篇文章的總搜尋量」，不是每隻 agent 的量**（2026-08-15 哲宇校正）。
+> 誤讀成 per-agent 會把全篇推到 400-600 次——**實測「每隻 agent 100」效果沒有比較好**，
+> 多出來的只是待驗證線索與攻防敘事。
+
+**總量分配**：全篇 ~150 次＝ **Stage 0 探索 20-30** ＋ **Stage 1 fan-out 合計 ~120-130**。
+四隻 agent 分工 → **每隻 ~30 次（30-40 帶），到量即收**；三隻則各 ~40。
+
+⚠️ **配額的措辭會決定超跑**（本 session 實證）：文策院四隻 agent 的 prompt 寫「搜尋**下限** 25 次」，
+實跑 58／71／52／39＝220，全篇衝到 245。**prompt 一律寫「配額 N 次、到量即收」，
+禁用「下限／至少／越多越好」**——同樣的數字換個詞，行為完全不同。診斷與量測斷代：
+[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
 
 | 來源類別                                 | 最低配額 | 為什麼                                                             |
 | ---------------------------------------- | -------- | ------------------------------------------------------------------ |
@@ -74,18 +85,29 @@ upstream_canonical:
 | **一手**（官方/政府/年報/法規/學術論文） | ≥ 15     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
 | **反方 / 批評**（perspective scan）      | ≥ 5      | 跨陣營對立 spectrum，落 `rationale.whats_excluded`                 |
 
-> **v6.4 升級理由**（2026-06-04）：量測 226 份歷史 report — **57% 英文/國際/學術來源 = 0、42% distinct 來源 ≤ 10**。對標 gold standard [毒馬鈴薯認知作戰.md](../../reports/research/2026-04/毒馬鈴薯認知作戰.md)（85 來源 / 1,699 行 / §1-§N 分章 / 每 claim 標信度）vs 退化後的 synthesized fact-pack（~200 行）差近 9 倍。哲宇 directive「搜尋總數 80+、對標研究所論文標準」。**這 4 條配額由 `research-report-health.py` 儀器化驗收**（en==0 / primary==0 = HARD），不是 aspirational。
+> **v9.1 收斂理由**（2026-08-15 哲宇 directive「分頭 search 要求降低」＋兩次校正定案：
+> 「以文章**總**搜尋量為基準，每隻 agent 100 效果沒有比較好」→「全篇抓 150 次左右，
+> Stage 0 20-30」）：v6.4 的「≥80 **下限**、超跑光榮」文化讓實際量膨脹到 245 次；量測顯示
+> **品質不隨量升**——4-6 月的報告（justfont 全篇 120、651 行零 meta-noise）養出的文章比
+> 245 次時代的好。**改動的是「下限→天花板」與「per-agent 明確化」，不是砍研究深度**：
+> 全篇 150 其實高於 v6.4 名目的 100，只是不再獎勵無上限超跑。多樣性配額原樣保留
+> （它防單源依賴，跟總量無關）。
+>
+> **v6.4 歷史**（2026-06-04）：量測 226 份歷史 report — 57% 英文來源 = 0、42% distinct ≤ 10，
+> 哲宇 directive「搜尋總數 80+、對標研究所論文標準」把下限從 40 提到 80。**「對標論文」的
+> 正解是信度結構（每 claim 標信度、一手可溯、negative findings 誠實），不是行數與搜尋次數**
+> ——毒馬鈴薯 gold standard 的厚是事實密度的厚，不是過程敘事的厚。4 條配額仍由
+> `research-report-health.py` 儀器化驗收（en==0 / primary==0 = HARD）。
 
-- 研究深度直接決定文章品質——40 次仍會留單源依賴風險，80 次才有 triangulation 餘裕、找到反方、挖到非 Wikipedia 層級的具體錨點（引語、場景、日期）
 - **多語系不是 nice-to-have**：英文/國際來源是 default 不是例外。真正只有中文來源的題目（極在地的兩岸/戒嚴細節）→ 在 §搜尋日誌 明寫「本題英文來源稀少，因為 X」，不要靜默跳過（對應 research-report-health en==0 HARD）
 
-> ⚠️ **≥80 是 fan-out aggregate，不是單 agent 串行能達到的**（2026-06-04 v2 實驗實證）：minimal-guidance 單一 Opus research agent 串行只跑到 ~36 次就接近 token 上限。**要達 80+ 必須照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent**（按 §A/§B/§C/§D 子領域切，每 agent ~20-30 次，aggregate ≥80），orchestrator 合 §8 raw + §6 fact-pack。單 agent 自跑只適合 standard tier（≥40）；硬要 depth ≥80 而不 fan-out → 在 §未達標誠實說明 記缺口，不灌水硬湊。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數的硬達標**。
+> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**每 agent 配額 = 120-130 ÷ agent 數，四隻即 ~30、三隻即 ~40；prompt 明寫「配額 N 次、到量即收」**）。單 agent 自跑適合 standard tier（~40）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**——挖不完是誠實的缺口，硬挖是報告肥大的來源。
 
 **v5.1 升級理由**（2026-05-11 cranky-newton）：v2.17 訂 ≥ 20 是相對 12 次淺研究的下限。實戰累積後（NMTH Fresh / 政治人物 batch / 認知作戰深度文）顯示 20 次仍會留下「單源依賴」風險（同一篇 ltn 報導被 5 atom 綁住 = over-citing 紅旗），40 次才開始有 triangulation 空間。
 
 **v2.17 原版觸發**：2026-04-18 當日 11 篇音樂人批次中，12-15 次搜尋的 Cicada / 草東 / 康士坦 / 魏如萱 雖然 pass format-check，但小標題淪為編年史，缺乏場景/意象級的敘事錨點，研究深度是根本原因。
 
-**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。80 次搜尋的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
+**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。fan-out 配額（~120-130）的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
 
 ### Step 1.2: 結尾素材鎖定
 
@@ -317,6 +339,32 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 3. **驗**：跑 `research-report-health.py`，§8 inline 密度自然 ≥ 120；`ls reports/research/{YYYY-MM}/{slug}-*.md` 應只剩主檔一個。
 
 **為什麼是單檔不是分檔**：(a) findability——一個 slug 一個 research SSOT，grep / re-use / reader-callout 追源只開一個檔；(b) writer 只需 Read 一個檔就有全部 raw texture（分檔要 Read N 個，容易漏讀 = 飄移根因之一）；(c) 歸檔完整性——散落的 sibling 容易在 cleanup / worktree gc 時漏掉一兩個（呼應本 session 的圖檔差點變孤兒）。**中繼站的存在只為 async 落檔安全（鐵律 8），一旦合成完成它的任務就結束了。**
+
+#### 1.7.5 整合與清理——orchestrator 的報告品質判準（v9.2，2026-08-15 哲宇 directive）🧹
+
+> **觸發**：哲宇「整合的 session 要負責整合跟清理時，也要有怎麼判斷是不是好的研究報告的準則或階段」。
+> 病史：2026-07-12 起八份報告每份帶 70-160 個 falsify 攻防標記，writer 讀報告被 prime 出正文
+> 校正焦慮（後台洩漏上游根因）；orchestrator 只做了「搬運＋蒸餾」沒做「編輯」。
+> 量測與正反範本：[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
+
+**定位**：收件（1.8-bis）與合成單檔（1.7.4）之後、跑 1.7.3 hard gate 之前的**編輯動作**。
+**整合是編輯，不是搬運**：§8 raw 是 verbatim 聖域（永不改），但 §1-§7 合成層是 orchestrator
+**親筆寫給 writer 的食物**——agent 分部報告若帶過程敘事（契約第 6 條漏接），合成層必須
+重寫成乾淨世界陳述，不是原樣抄上來。
+
+**六條判準（合成完自問，兼作「這是不是好報告」的驗收清單）**：
+
+| #   | 判準                                                                                                             | 驗法                                                                                     |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| a   | **合成層零任務指涉**——沒有「任務假設」「Stage 0 說」「原以為」「需再核實」                                       | 儀器：`research-report-health.py` v4 合成層過程噪音 check（≤3 pass / >10 hard）          |
+| b   | **查證結論住 frontmatter verification 三層**，每條是「決定」形態（「→ 不寫」「→ 採 X」「→ 併列」），不是攻防敘事 | 人眼掃 frontmatter：每條能不能一秒讀出「writer 該怎麼處置」                              |
+| c   | **Findings 事實自足**——隨機抽三段，問「這在陳述世界還是陳述我的工作？」                                          | 抽測；被推翻的版本不在 Findings（推翻過程只活在 §1 軌跡一行與 §8 raw）                   |
+| d   | **引語庫逐字＋URL＋Ctrl-F 標記**，記者轉述與直引分開標                                                           | 既有 §4 規範；抽 2 條實際 Ctrl-F                                                         |
+| e   | **negative findings 集中一處**，誠實列缺口但不瀰漫到每段複述                                                     | 掃 §4 以外的「查無／未找到」是否重複出現                                                 |
+| f   | **合成層量級 300-800 行帶**（不含 §8 raw）——超過先問「是不是把過程當內容」                                       | `sed -n '1,/^## §\?8/p' {report} \| wc -l`；好時期範本：高鐵 267 全檔、justfont 651 全檔 |
+
+**沒過 = 繼續清理，不是繼續搜尋**。判準 a-c 不過的原因幾乎都是「合成時偷懶把 agent 輸出
+當成品」；回去重寫合成層，不要回去加搜尋量（加量只會生產更多待清理的材料）。
 
 #### 1.7.3 HARD GATE：`research-report-health.py` 🔬
 

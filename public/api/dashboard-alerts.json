@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-17T22:13:10.340Z",
+  "lastUpdated": "2026-08-22T22:12:41.322Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 3,
+  "count": 1,
   "alerts": [
     {
       "id": "immune-status",
@@ -11,22 +11,6 @@
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
-    },
-    {
-      "id": "exp-overdue-EXP-2026-07-17-G",
-      "severity": "yellow",
-      "message": "UNKNOWNS EXP-2026-07-17-G 驗證日 2026-08-07 已過期未判定",
-      "source": "UNKNOWNS.md",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-08-08"
-    },
-    {
-      "id": "routine-silent-twmd-self-evolve-weekly",
-      "severity": "yellow",
-      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-08-15T20:09 fire 後 50.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-08-16"
     }
   ]
 }

@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-2C-WRITE'
 description: 'REWRITE v9 stage contract — Stage 2 寫作主幹：結尾先行 / 小標題 / 正文 footnote / 7 條自檢 / staging 檔紀律'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+current_version: 'v9.1'
+last_updated: 2026-08-19
+last_session: '2026-08-19-154834-algorithmic-art-evolve（v9.1：Step 2.7.1 加英式短句開場第 9 病人判三題＋「先人眼再工具」順序；2.7.2 閾值加 §8e 計分與 pre-commit HARD）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -165,7 +165,8 @@ writer prompt 唯一來源：[WRITER-PROMPT.md](WRITER-PROMPT.md)（v2.0 薄殼�
 念出來，聽到翻譯腔就改：
 
 - 重點掃：被動句（「被認為」）、「的」連鎖（≥ 3）、弱動詞（「進行」「透過」）
-- 詳見 [EDITORIAL.md §歐化語法偵測](../editorial/EDITORIAL.md)
+- **英式短句開場（第 9 病，2026-08-19 起嚴格執行）**：逐段看段首那一句——它是在陳述判斷或狀態（是／有／叫／可以／一直／也）而不是寫一個動作、底下幾句在展開它、接進下一句會更像人在講話 → 三個都是就改。工具只抓骨架（`prose-health` §8e v3），**冒號引子、日期場景句、刻意當節拍的孤句不算**，這三類是人判。同一篇哲宇同日點兩次才學到：第一輪用工具的尺順過就算完，第二輪他的耳朵抓到 15 處工具只報 0——**寫完先用人眼把每一段的段首句念一遍，再跑工具**，順序不要反
+- 詳見 [EDITORIAL.md §歐化語法 第 9 病第三輪](../editorial/EDITORIAL.md)
 
 #### Step 2.7.2: prose-health plugin gate（對位句型 + 破折號 + AI metaphor 全交給工具）
 
@@ -181,6 +182,7 @@ plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不
 
 - 對位句型「不是 X，是 Y」+ 變種：≤ 3 處
 - 破折號 ——：≤ 15 / 1500 字（plugin 用比例計算）
+- **英式短句開場 §8e**：≥3 處計 +1、≥6 處 +2（2026-08-19 升計分）；pre-commit 觸檔 >10 處 HARD。目標是 0-2 處且每一處都是刻意節拍
 - prose-health score：≤ 3 為 pass
 
 **為什麼禁用手 grep**（REFLEXES #15 self-apply）：

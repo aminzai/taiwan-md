@@ -161,13 +161,23 @@ function main() {
     mkdirSync(dirname(OUT), { recursive: true });
     writeFileSync(
       OUT,
-      JSON.stringify({ _generated: null, count: 0, dates: {} }),
+      JSON.stringify({ _generated: null, count: 0, dates: {}, created: {} }),
     );
     return;
   }
 
   const dates = {}; // url -> ISO (newest substantive wins; log is newest-first)
   let skipped = 0;
+
+  // `created` = publish date = earliest commit author-date a file was seen at,
+  // tracked UNCONDITIONALLY (no COSMETIC/SPORE_POINTER/MEDIA_ONLY/
+  // RELATED_DIARY/CROSS_LINK_RECAT filter, no BATCH_THRESHOLD split) — those
+  // filters exist to keep `dates` (last SUBSTANTIVE change) from faking
+  // freshness on cosmetic touches, but a file's very first appearance in
+  // history is never cosmetic-vs-substantive ambiguous: it's simply when the
+  // file was born. `dates`'s two-pass loop below may `continue` past a commit
+  // for THAT purpose — earliest-tracking must not share that early-exit, so it
+  // gets its own independent pass over every commit's every url (see below).
 
   // 2026-06-28: BATCH_THRESHOLD — a single commit touching > 50 knowledge .md files
   // is a bulk op (cross-link rename sweep, slug rename, mass re-categorize) even when
@@ -220,6 +230,15 @@ function main() {
     }
   }
 
+  // `created` = earliest commit author-date per url = publish date. Independent
+  // pass over EVERY commit (no cosmetic/batch skip — see comment above `dates`
+  // declaration): `commits` is newest-first, so overwriting on every occurrence
+  // leaves the earliest date once the loop finishes.
+  const created = {};
+  for (const c of commits) {
+    for (const url of c.urls) created[url] = c.date;
+  }
+
   // 2026-06-14: a translated article's freshness IS its zh source's content
   // freshness — a pure re-translation (lang-sync / 平行翻譯 / 榨模型 batch) is not a
   // content event. We DERIVE rather than FILTER: filtering translation commits
@@ -236,6 +255,18 @@ function main() {
       if (dates[zhUrl] && dates[url] !== dates[zhUrl]) {
         dates[url] = dates[zhUrl];
         derived++;
+      }
+    }
+  }
+
+  // Same inheritance rule for `created`: a translation's publish date is its
+  // zh source's publish date (a pure re-translation isn't a separate birth).
+  for (const url of Object.keys(created)) {
+    const m = url.match(/^\/([a-z]{2})\/(.+)$/);
+    if (m && NON_DEFAULT_LANGS.has(m[1])) {
+      const zhUrl = '/' + m[2];
+      if (created[zhUrl] && created[url] !== created[zhUrl]) {
+        created[url] = created[zhUrl];
       }
     }
   }
@@ -274,14 +305,21 @@ function main() {
   mkdirSync(dirname(OUT), { recursive: true });
   writeFileSync(
     OUT,
-    JSON.stringify({
-      _generated: new Date().toISOString(),
-      count: Object.keys(dates).length,
-      dates,
-    }),
+    // pretty-print：這檔是 committed 資料，每日 regen 的 diff 要能逐 URL 讀
+    // （compact 單行會讓每次更新變成整檔替換的不可讀 diff）
+    JSON.stringify(
+      {
+        _generated: new Date().toISOString(),
+        count: Object.keys(dates).length,
+        dates,
+        created,
+      },
+      null,
+      2,
+    ) + '\n',
   );
   console.log(
-    `[content-dates] ${Object.keys(dates).length} URL dates (skipped ${skipped} cosmetic; ${derived} translated inherited zh date) → src/data/content-dates.json`,
+    `[content-dates] ${Object.keys(dates).length} URL dates, ${Object.keys(created).length} created dates (skipped ${skipped} cosmetic; ${derived} translated inherited zh date) → src/data/content-dates.json`,
   );
 }
 
