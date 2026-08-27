@@ -1631,6 +1631,24 @@
     "path": "Society/人權與性別平等.md"
   },
   {
+    "title": "八七水災：洪水如何改寫台灣的家園與國家",
+    "description": "1959 年 8 月的八七水災重創台灣中南部，667 人死亡、408 人失蹤，超過 30 萬人成為災民。從斗六的暴雨、斷裂的橋梁、美軍直升機空拍、災後報告書與一名北上女工的返鄉記憶回看，八七水災不只是天氣造成的災難，也是國家如何統計、救援、重建與重新安排地方生活的轉折。",
+    "category": "History",
+    "tags": [
+      "八七水災",
+      "災害史",
+      "台灣水利",
+      "地方記憶",
+      "戰後台灣",
+      "國家治理"
+    ],
+    "url": "https://taiwan.md/history/87%E6%B0%B4%E7%81%BD",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "History/87水災.md"
+  },
+  {
     "title": "八二三砲戰：四十四天砲火，留下二十年的金門日常",
     "description": "1958年8月23日，金門在85分鐘內接下三萬多發砲彈。四十四天後，砲火沒有真正離開，單打雙不打延續到1979年。這場戰爭不只改變臺海戰略，也把居民、學生與遷徙家庭留在戰地記憶裡。在砲彈與疏遷之間，金門成了以規律承受不安的島，也留下戰地保存最難回答的問題：記住勝利，是否也記住平民的代價？",
     "category": "History",
@@ -2425,6 +2443,24 @@
     "path": "Technology/不入地窖焉能睡覺.md"
   },
   {
+    "title": "不是蓋幾棟房子而已：台灣社會住宅如何把居住正義變成長期公共制度",
+    "description": "台灣的居住正義不只是房價高低，也包括租屋者能否取得穩定、可負擔、可近用且不受歧視的住所。本文回顧社會住宅從住宅法制、八年二十萬戶，到百萬租屋家庭支持計畫的制度演變，分析直接興建、包租代管與租金補貼三軌政策如何互補，以及租金分級、弱勢配額、地方執行、空屋活化、社區服務與資訊透明所面臨的治理課題。",
+    "category": "Society",
+    "tags": [
+      "社會住宅",
+      "居住正義",
+      "租屋政策",
+      "住宅法",
+      "包租代管",
+      "租金補貼"
+    ],
+    "url": "https://taiwan.md/society/%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-08-25",
+    "path": "Society/居住正義.md"
+  },
+  {
     "title": "不是鄭成功帶來的：虱目魚的四百年養殖史",
     "description": "台南人叫虱目魚「家魚」，但它的起源是荷蘭東印度公司從印尼引進的養殖技術，比鄭成功來台早了三十七年。七股4,500公頃的魚塭、整條魚七種以上的料理分法，是這段四百年養殖史留下的活化石。",
     "category": "Food",
@@ -2710,6 +2746,23 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "History/中壢事件.md"
+  },
+  {
+    "title": "丹丹漢堡：一碗麵線羹，和一個沒有往北走的速食品牌",
+    "description": "從 1984 年高雄市前金區七賢店起家，丹丹漢堡把漢堡、炸雞、薯條、麵線羹與瘦肉粥放在同一張菜單。品牌長期集中高雄、台南與屏東，也讓南部限定從門市分布變成讀者理解它的方法。公開資料能說明起點與餐點，卻沒有替不北上的原因留下單一官方答案。",
+    "category": "Food",
+    "tags": [
+      "丹丹漢堡",
+      "高雄",
+      "南部速食",
+      "麵線羹",
+      "台灣小吃"
+    ],
+    "url": "https://taiwan.md/food/%E4%B8%B9%E4%B8%B9%E6%BC%A2%E5%A0%A1",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "Food/丹丹漢堡.md"
   },
   {
     "title": "尹衍樑: 그가 세운 과학상, 노벨상보다 비싸다",
@@ -3791,6 +3844,23 @@
     "path": "ja/People/ao-and-mountain-band.md"
   },
   {
+    "title": "北一女中：一座女子校園如何保存升學、身體與公共記憶",
+    "description": "從 1904 年的殖民篩選到 1952 年的防空綠制服，北一女中不僅是臺灣女性領導力的搖籃，更是一座微縮的空間政治博物館。",
+    "category": "History",
+    "tags": [
+      "教育",
+      "建築",
+      "女性史",
+      "臺北",
+      "古蹟"
+    ],
+    "url": "https://taiwan.md/history/%E5%8C%97%E4%B8%80%E5%A5%B3",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-08-26",
+    "path": "History/北一女.md"
+  },
+  {
     "title": "北大特区：三十年の都市計画と大学街の生活実験",
     "description": "1895年の隆恩埔古戦場から2026年の捷運（MRT）大学街へ――土地、美学、選択的アイデンティティに関する深層的百科事典。",
     "category": "ja",
@@ -3833,6 +3903,17 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "Geography/北投溫泉街.md"
+  },
+  {
+    "title": "半世紀，如何把台灣寫給世界：從《光華畫報》到台灣光華線上誌",
+    "description": "從1976年創刊、更名與跨語出版，到數位資料庫與多語網站，《台灣光華》如何以影像、報導與翻譯，持續向世界說明台灣，也保存台灣自己回望時代的材料。",
+    "category": "Culture",
+    "tags": [],
+    "url": "https://taiwan.md/culture/%E5%85%89%E8%8F%AF%E9%9B%9C%E8%AA%8C",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "Culture/光華雜誌.md"
   },
   {
     "title": "半導体産業：RCA技術移転から窒化ガリウム・量子封止への50年材料革命",
@@ -4434,6 +4515,17 @@
     "path": "ja/Lifestyle/transportation-system.md"
   },
   {
+    "title": "台湾企業：三商——三杯のコーヒーと一足の靴、そして一枚の保険証券に刻まれた六十年",
+    "description": "1964年、台湾大学商学部の学生3人が50万元を出し合って「三商行」を創業した。手工芸品の輸出から始まったこの商号は、六十年を経て美廉社、三商巧福、全家福、三商美邦人寿へと姿を変えた。台湾人の日常は、気づかないうちにこの地味な集団の手のひらの上にある。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/economy/mercuries-group",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-08-08",
+    "path": "ja/Economy/mercuries-group.md"
+  },
+  {
     "title": "台湾企業：中華電信",
     "description": "台湾最大の電気通信事業者であり、国営独占からデジタルトランスフォーメーションを主導する企業へ",
     "category": "ja",
@@ -4775,24 +4867,6 @@
     "featured": false,
     "date": "2026-06-28",
     "path": "ja/Culture/taiwan-bar.md"
-  },
-  {
-    "title": "台湾豆漿と朝食店",
-    "description": "山東出身の退役軍人たちが永和の橋頭で屋台を押して豆漿を売り始めてから70年。永和は世界中の華人にとって朝食の代名詞となった。しかしそれは決してブランドではなく、地名である",
-    "category": "ja",
-    "tags": [
-      "豆漿",
-      "朝食店",
-      "永和豆漿",
-      "焼餅油条",
-      "蛋餅",
-      "眷村料理"
-    ],
-    "url": "https://taiwan.md/ja/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 20,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "ja/Food/taiwan-soy-milk-and-breakfast-shops.md"
   },
   {
     "title": "台湾国家風景区システム",
@@ -5885,6 +5959,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "ja/Society/taiwan-zoos.md"
+  },
+  {
+    "title": "台湾ネットコミュニティ三十年——URLは取り戻せても、写真は取り戻せない「失地」の歴史",
+    "description": "美麗之島BBSからThreads（脆）まで、台湾人は数年おきに集団で引っ越しを繰り返し、そのたびに前の世代の記憶を、切られた電源スイッチの向こう側に置き去りにしてきた。三十年の移動史はプラットフォームの進化線に見えて、その芯にあるのは「この土地は誰のものか」という失地の歴史である。もっとも粘着度の高い場所ほど、データ主権はもっとも低い。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/taiwan-online-community-migration",
+    "readingTime": 77,
+    "featured": true,
+    "date": "2026-03-29",
+    "path": "ja/Technology/taiwan-online-community-migration.md"
   },
   {
     "title": "台湾の人工知能発展と未来戦略：ハードウェアの入場券は手に入れた、次の戦いはどこにあるのか",
@@ -7889,6 +7974,25 @@
     "path": "Lifestyle/台灣YouBike文化與城市微交通革命.md"
   },
   {
+    "title": "台灣「行車紀錄器」社會：全民監控美學、科技演進與爆料正義",
+    "description": "為什麼台灣的汽車與機車幾乎「標配」行車紀錄器？這不只是為了法律防禦，更演變成一種獨特的數位景觀。從產業鏈霸主地位、法規漏洞、檢舉達人的社會摩擦，到新聞媒體的「三器」依賴，台灣正處於一場由全民參與的數位監控實驗中。",
+    "category": "Society",
+    "tags": [
+      "行車紀錄器",
+      "爆料公社",
+      "三器新聞",
+      "監控社會",
+      "隱私權",
+      "數位媒體",
+      "科技產業"
+    ],
+    "url": "https://taiwan.md/society/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "Society/行車紀錄器.md"
+  },
+  {
     "title": "台灣5G網路建設與數位轉型",
     "description": "台灣從4G領先到5G布局，探索數位轉型國家戰略與智慧應用發展歷程",
     "category": "Technology",
@@ -8962,21 +9066,13 @@
     "path": "Geography/台灣地圖怎麼讀.md"
   },
   {
-    "title": "台灣早餐文化",
-    "description": "從蛋餅燒餅油條到永和豆漿的全球擴張，早餐店阿姨與台灣人的晨間儀式",
+    "title": "台灣早餐文化：兩萬家店賣著同一份早餐，沒有一個人擁有它",
+    "description": "1955 年，永和中正橋頭並排三家豆漿店，掛著「永和豆漿」那塊招牌的那家沒有留下來。七十年後，濃縮豆漿與工廠餅皮拆掉了開店門檻，行政法院把「美X美」定性成弱勢商標，一整條街長出美又美、弘爺、早安美芝城。這頓飯守不住做法、守不住名字、守不住煎台前的身體，所以它成了兩萬家店共用的清晨。",
     "category": "Food",
-    "tags": [
-      "早餐",
-      "蛋餅",
-      "燒餅油條",
-      "永和豆漿",
-      "美而美",
-      "早餐店",
-      "豆漿店"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E6%97%A9%E9%A4%90%E6%96%87%E5%8C%96",
-    "readingTime": 18,
-    "featured": false,
+    "readingTime": 66,
+    "featured": true,
     "date": "2026-03-18",
     "path": "Food/台灣早餐文化.md"
   },
@@ -9167,24 +9263,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "Nature/台灣步道文化與公民守護.md"
-  },
-  {
-    "title": "台灣豆漿與早餐店",
-    "description": "一群山東老兵在永和橋頭推攤車賣豆漿，70 年後「永和」成了全球華人早餐的代名詞。但它從來不是一個品牌，是一個地名",
-    "category": "Food",
-    "tags": [
-      "豆漿",
-      "早餐店",
-      "永和豆漿",
-      "燒餅油條",
-      "蛋餅",
-      "眷村飲食"
-    ],
-    "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E8%B1%86%E6%BC%BF%E8%88%87%E6%97%A9%E9%A4%90%E5%BA%97",
-    "readingTime": 19,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "Food/台灣豆漿與早餐店.md"
   },
   {
     "title": "台灣邦交國與國際外交：12 個邦交、113 個館處、177 國免簽（2026）",
@@ -11110,7 +11188,7 @@
   },
   {
     "title": "台灣黑熊",
-    "description": "胸前的白色 V 字是牠的簽名，與牠未完的保育戰",
+    "description": "2011–2025 年監測紀錄從 17 個鄉鎮擴至 27 個，2026 年初估約 1,200 隻但仍待本地密度資料校正。本文從食性、研究、獸夾、棲地廊道與登山行為，整理這種台灣特有亞種如何走到人類身邊，以及我們如何把距離留給彼此。文章也拆開族群估計、發現紀錄與個體辨識的差異，說明保育如何從山區監測延伸到社區食物管理與國家公園的日常。",
     "category": "Nature",
     "tags": [
       "台灣黑熊",
@@ -11122,7 +11200,7 @@
       "國家公園"
     ],
     "url": "https://taiwan.md/nature/%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A",
-    "readingTime": 17,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-18",
     "path": "Nature/台灣黑熊.md"
@@ -11479,6 +11557,23 @@
     "path": "Technology/台灣電視產業史.md"
   },
   {
+    "title": "台灣電鍋：一個開關如何煮出半世紀的日常",
+    "description": "1958 年皇冠牌先進市場，1960 年大同 TAC-6 出現。電鍋原本是日本技術的分身，卻在台灣有限電力、米種差異與蒸煮習慣中改變。從 5 至 10 安培的家庭電表、230 度的加熱設定，到嫁妝裡的紅色鍋身，它最後成為能煮飯、蒸菜，也能把家庭時間重新分配的日常器物，並跟著台灣人走向海外。",
+    "category": "Culture",
+    "tags": [
+      "電鍋",
+      "大同",
+      "家庭",
+      "飲食文化",
+      "工業設計"
+    ],
+    "url": "https://taiwan.md/culture/%E9%9B%BB%E9%8D%8B",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "Culture/電鍋.md"
+  },
+  {
     "title": "台灣滷肉飯",
     "description": "從眷村廚房到國民美食，探索台灣滷肉飯的南北戰爭與文化認同",
     "category": "Food",
@@ -11527,6 +11622,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "History/台灣漁業現代化.md"
+  },
+  {
+    "title": "台灣漆器：一層一層，把日常磨成光",
+    "description": "漆器曾是台灣家庭的茶盤、糕餅座與送禮器，也是 1970 年代外銷日本的產業。當塑膠取代它之後，真正消失的不只是器物，而是漆樹、煉漆、髹塗與修復連在一起的一整套生活知識。從蓬萊塗到埔里天然漆，這件曾經貼近日常的工藝，正在重新面對材料自主與技藝傳承。",
+    "category": "Culture",
+    "tags": [],
+    "url": "https://taiwan.md/culture/%E5%8F%B0%E7%81%A3%E6%BC%86%E5%99%A8",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "Culture/台灣漆器.md"
   },
   {
     "title": "台灣漫畫",
@@ -11828,6 +11934,24 @@
     "path": "Technology/台灣機器人產業.md"
   },
   {
+    "title": "台灣燈會：一座會移動的國家級節慶舞台",
+    "description": "台灣燈會從 1990 年台北的元宵燈會出發，經過主辦城市輪替、地方創意與數位科技加入，逐漸成為結合民俗、藝術、觀光與公共治理的國家級節慶。它不只是在夜裡點亮一座主燈，也把每一座城市的地景、產業、交通與集體想像帶到全台灣，並留下大型文化活動如何與日常生活協商的治理課題。",
+    "category": "Culture",
+    "tags": [
+      "台灣燈會",
+      "元宵節",
+      "主燈",
+      "節慶治理",
+      "城市文化",
+      "燈藝"
+    ],
+    "url": "https://taiwan.md/culture/%E7%87%88%E6%9C%83",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-08-25",
+    "path": "Culture/燈會.md"
+  },
+  {
     "title": "台灣獨立音樂：一間發不出薪水的唱片行，如何替一座島嶼打開耳朵",
     "description": "從水晶唱片負債三十萬頂下來的冒險，到草東沒有派對在咖啡店賣光首刷。台灣獨立音樂 35 年不是逆襲故事，是一群人堅持讓「沒被看見的聲音被聽見」的漫長賭局",
     "category": "Music",
@@ -11916,6 +12040,25 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "Culture/台灣諧音禁忌文化.md"
+  },
+  {
+    "title": "台灣貓眼：一條光如何從花蓮的礦脈走進地方記憶",
+    "description": "台灣貓眼指花蓮豐田一帶臺灣閃玉中呈現 chatoyancy 的材料。亮帶來自平行纖維與弧面切磨的配合，也牽引出石綿礦、礦工搬運、家戶加工、玉雕技藝與地方博物館保存的歷史。文章從一條會移動的光出發，辨認礦物與貓眼效應的差異，再回到一座礦山如何成為地方記憶。",
+    "category": "Culture",
+    "tags": [
+      "台灣貓眼",
+      "台灣玉",
+      "貓眼閃玉",
+      "豐田玉",
+      "花蓮",
+      "礦物",
+      "玉雕"
+    ],
+    "url": "https://taiwan.md/culture/%E8%B2%93%E7%9C%BC%E7%9F%B3",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "Culture/貓眼石.md"
   },
   {
     "title": "台灣辦桌：暴雨裡照樣開桌的武場，和一套正在收棚的人神鬼三界",
@@ -12304,6 +12447,24 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "Economy/台灣蘭花.md"
+  },
+  {
+    "title": "台灣護照：一本藍色小冊，如何把國家與辨識度帶在身上",
+    "description": "台灣護照不是單純的出國通行證。從 2021 年放大的 TAIWAN、仍環繞國徽的正式國名，到晶片驗證、申請法規、免簽待遇與 2025 年的庫存爭議，它把國籍、行政制度、國際承認、邊境技術與日常旅行壓縮在同一個封面，讓一本小冊子成為台灣被世界讀取的介面，也讓身份政治落在每一次出發前的查驗與等待。",
+    "category": "Lifestyle",
+    "tags": [
+      "台灣護照",
+      "中華民國護照",
+      "晶片護照",
+      "外交",
+      "旅行",
+      "身份"
+    ],
+    "url": "https://taiwan.md/lifestyle/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%8F%B0%E7%81%A3%E8%AD%B7%E7%85%A7",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "Lifestyle/中華民國台灣護照.md"
   },
   {
     "title": "台灣鐵窗花：一扇防盜窗，怎麼焊出一戶人家的自傳",
@@ -12839,6 +13000,23 @@
     "path": "Geography/玉山.md"
   },
   {
+    "title": "玉山氣象站：孤懸 3,858 公尺的高山守望者",
+    "description": "座落於玉山北峰海拔 3,858 公尺的氣象站，是東北亞海拔最高的氣象與行政機關。在極端天候與雷擊威脅下，幾代觀測員如何以孤獨與堅守，為台灣鎖住第一手氣象脈搏。",
+    "category": "Geography",
+    "tags": [
+      "玉山氣象站",
+      "高山氣象",
+      "氣象觀測",
+      "台灣地理",
+      "歷史建築"
+    ],
+    "url": "https://taiwan.md/geography/%E7%8E%89%E5%B1%B1%E6%B0%A3%E8%B1%A1%E7%AB%99",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "Geography/玉山氣象站.md"
+  },
+  {
     "title": "生物多様性",
     "description": "台湾の面積は世界の陸地のわずか0.025%だが、5万種以上の生物を擁し、森林覆蓋率60.71%で世界第33位",
     "category": "ja",
@@ -13157,6 +13335,24 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ja/Economy/mega-financial-holding-global-banking-network.md"
+  },
+  {
+    "title": "全民健康保險：守護全台灣的醫療奇蹟",
+    "description": "自 1995 年開辦以來，台灣的全民健康保險（NHI）以其高納保率、低行政成本與極高的就醫可近性，成為全球公認的社會福利典範。透過單一保險人制度與數位科技的整合，這套制度不僅消除了「因病而貧」的社會困境，更在數位醫療與公共衛生安全領域展現了強大的社會韌性。",
+    "category": "Lifestyle",
+    "tags": [
+      "全民健保",
+      "醫療制度",
+      "社會福利",
+      "台灣奇蹟",
+      "數位醫療",
+      "公共衛生"
+    ],
+    "url": "https://taiwan.md/lifestyle/%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "Lifestyle/全民健保.md"
   },
   {
     "title": "全聯福利中心：從黑臭福利社到台灣零售之王的逆襲",
@@ -16135,7 +16331,7 @@
       "偶像創作"
     ],
     "url": "https://taiwan.md/people/%E6%9E%97%E4%BD%B3%E8%BE%B0",
-    "readingTime": 32,
+    "readingTime": 31,
     "featured": false,
     "date": "2026-08-21",
     "path": "People/林佳辰.md"
@@ -17324,6 +17520,21 @@
     "path": "ja/People/aljenljeng-tjaluvie-abao.md"
   },
   {
+    "title": "青草茶：一間沒有招牌的臺灣民間藥房",
+    "description": "青草茶不是一種固定配方，而是一套把野草、地方市場、人情與健康信念煮進日常的臺灣生活知識。",
+    "category": "Food",
+    "tags": [
+      "青草茶",
+      "民間知識",
+      "萬華"
+    ],
+    "url": "https://taiwan.md/food/%E9%9D%92%E8%8D%89%E8%8C%B6",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-08-25",
+    "path": "Food/青草茶.md"
+  },
+  {
     "title": "青と緑を越える四つの物差し：一枚の田から一枚の健保カードまで、台湾で自らの政治を越えて生き残った政策",
     "description": "ある読者は、青と緑が食卓で罵り合う光景にうんざりし、本当に台湾にとってよかったことを記憶したいと考えました。そこで私たちは、過去七十年の十一の政策を取り上げました。権威主義体制が農地を強制徴収した土地改革、戒厳令解除、全民健康保険から、今なお議論が続く同性婚と前瞻基礎建設までです。あえて青と緑の物差しでは測らず、民生、民主、民権、主権という四つの物差しで見直しました。結論は少し直感に反します。自らの党派的出自を越えて生き残った政策は、生まれたその日にこそ、最も激しく争われていたことが多いのです。",
     "category": "ja",
@@ -17791,6 +18002,46 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "Society/毒馬鈴薯認知作戰.md"
+  },
+  {
+    "title": "毒ジャガイモ：200 ppmの外側にある、30 ppmと14日間と、15年ぶんの食品安全の傷跡",
+    "description": "2026年4月29日、中国国務院台湾事務弁公室の報道官・陳斌華が「毒ジャガイモ」という言葉で頼清徳政権を「またしても国民の健康をアメリカへの媚びの手土産にした」と批判した。だが争点の芯は三層にまたがっている。発芽抑制剤CIPCの残留基準がEU 0.2に対し台湾30 ppmという150倍の落差、国境で実勤85人がどうやって3億個を「一個ずつ検査」するのか、そして2011年の可塑剤事件から積み上がった15年ぶんの食品安全の傷跡——この物語が踏み抜いたのは、その地盤である。",
+    "category": "ja",
+    "tags": [
+      "毒馬鈴薯",
+      "食安",
+      "認知作戰",
+      "兩岸關係",
+      "ART 協定",
+      "龍葵鹼",
+      "CIPC"
+    ],
+    "url": "https://taiwan.md/ja/society/poisoned-potato-cognitive-warfare-taiwan",
+    "readingTime": 114,
+    "featured": false,
+    "date": "2026-04-30",
+    "path": "ja/Society/poisoned-potato-cognitive-warfare-taiwan.md"
+  },
+  {
+    "title": "洪倪：從芳苑圖書館到哈哈台街頭，三個名字共用一支筆",
+    "description": "1996 年生於彰化海線、在芳苑長大的洪婕倪，平日以「傑尼」在哈哈台做街訪，寫作時以「洪倪」整理家庭、北漂、麵包學徒與成長。從〈西瓜甜不甜〉到《賣瓜的人》，三個名字之間藏著一位創作者把公共工作與私密文字放在同一張生活地圖上的方法。",
+    "category": "People",
+    "tags": [
+      "洪倪",
+      "洪婕倪",
+      "傑尼",
+      "洪媽倪",
+      "哈哈台",
+      "散文",
+      "彰化海線",
+      "林榮三文學獎",
+      "出版與媒體"
+    ],
+    "url": "https://taiwan.md/people/%E6%B4%AA%E5%A9%95%E5%80%AA",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "People/洪婕倪.md"
   },
   {
     "title": "洪醒夫：早すぎる死を遂げた郷土文学の巨星",
@@ -18922,6 +19173,24 @@
     "path": "ja/Lifestyle/taoyuan-airport.md"
   },
   {
+    "title": "桃園埤塘：一座台地如何把雨水變成生活",
+    "description": "從斷頭河、紅土台地到桃園大圳與石門水庫，這篇文章帶你理解桃園埤塘如何成為分散式蓄水系統，也如何在灌溉現代化、農地重劃、都市開發、生態保育與地方記憶之間持續轉型。文章整理桃園台地的自然條件、埤塘與水圳的空間關係、歷史數量變化，以及今日保存與再利用所面對的實際選擇。",
+    "category": "Geography",
+    "tags": [
+      "桃園",
+      "埤塘",
+      "水利",
+      "文化景觀",
+      "灌溉",
+      "生態"
+    ],
+    "url": "https://taiwan.md/geography/%E6%A1%83%E5%9C%92%E5%9F%A4%E5%A1%98",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-08-23",
+    "path": "Geography/桃園埤塘.md"
+  },
+  {
     "title": "桃園機場：從十大建設的「中正」之名到 2026 國門重啟的千億試煉",
     "description": "2026 年 4 月，桃園機場第三航廈屋頂正式封頂，標誌著這座耗資 1,283 億元的國門即將迎來重生。從 1979 年「中正機場」誕生、2016 年淹水低谷，到 2025 年北登機廊廳啟用引發的轉機潮，桃園機場正試圖在亞洲航空樞紐的競爭中，找回失落的座標。",
     "category": "Lifestyle",
@@ -18987,6 +19256,24 @@
     "featured": true,
     "date": "2026-04-30",
     "path": "ja/Technology/submarine-cables-taiwan-lifeline.md"
+  },
+  {
+    "title": "海盜王國：仿冒歲月的逆向工程，寫進了台積電的信任基因",
+    "description": "1970 到 1990 年代，台灣曾被國際媒體稱為「海盜王國」。本文追溯仿冒產業的興衰、六一二大限與特別 301 條款如何逼迫制度轉型，並解釋台積電「不與客戶競爭」的信任模式為何是這段歷史的反轉。",
+    "category": "History",
+    "tags": [
+      "著作權",
+      "仿冒",
+      "台積電",
+      "特別301",
+      "著作權法",
+      "張忠謀"
+    ],
+    "url": "https://taiwan.md/history/%E5%8F%B0%E7%81%A3%E7%9B%9C%E7%89%88%E5%8F%B2",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "History/台灣盜版史.md"
   },
   {
     "title": "消失的遊樂園：從「第一樂園」到猛鬼傳說，那些被都市計畫沒收的童年",
@@ -19064,7 +19351,7 @@
       "沿海漁業"
     ],
     "url": "https://taiwan.md/food/%E7%83%8F%E9%AD%9A%E5%AD%90",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-08-15",
     "path": "Food/烏魚子.md"
@@ -19237,6 +19524,24 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "ja/Food/stinky-tofu.md"
+  },
+  {
+    "title": "茶葉蛋：一顆裂開的蛋，怎麼煮成台灣便利商店的氣味",
+    "description": "1987 年，徐重仁把有裂痕的茶葉蛋放進台灣 7-ELEVEN，咖啡賣不動，茶葉蛋卻留下來。從一鍋滷汁、蛋殼裂紋到食品安全，這顆不起眼的蛋記錄了台灣如何把外來制度煮成日常，也讓平價食物的成本與照顧重新被看見。",
+    "category": "Food",
+    "tags": [
+      "茶葉蛋",
+      "便利商店",
+      "台灣飲食",
+      "即食食品",
+      "7-ELEVEN",
+      "食品安全"
+    ],
+    "url": "https://taiwan.md/food/%E8%8C%B6%E8%91%89%E8%9B%8B",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-08-24",
+    "path": "Food/茶葉蛋.md"
   },
   {
     "title": "草東沒有派對：從陽明山草東街到兩座金曲最佳樂團的十二年",
@@ -19862,19 +20167,7 @@
     "title": "基隆市：離台北最近的港口，最被台北看不見",
     "description": "凌晨四點的崁仔頂魚市還在拍賣聲裡。糶手用閩南語喊價，幾秒鐘內一籃魚從花蓮、宜蘭、八斗子的漁船上換到台北東區的日本料理店。1626 年西班牙人在和平島插下旗子，1875 年沈葆楨把「雞籠」改成「基地昌隆」，1984 年這裡是世界第七大貨櫃港。然後三件事同時發生：高雄港超越、桃機啟用、礦業圈崩解。今天 36 萬人住這裡，39% 通勤到台北上班。台北看見的是衰退，海洋看見的是一座從沒離開過位置的港口。",
     "category": "Geography",
-    "tags": [
-      "基隆",
-      "基隆市",
-      "北部",
-      "港口",
-      "雨港",
-      "和平島",
-      "雞籠中元祭",
-      "廟口夜市",
-      "正濱漁港",
-      "崁仔頂",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E5%9F%BA%E9%9A%86%E5%B8%82",
     "readingTime": 44,
     "featured": false,
@@ -21869,6 +22162,25 @@
     "path": "History/台灣漁業起源.md"
   },
   {
+    "title": "麥當樂：台北車站前先出現的台灣漢堡店，六年後才遇見原版",
+    "description": "1978 年在台北車站前開幕的麥當樂，曾被稱為台灣第一家漢堡專賣店。它不是美國麥當勞，而是台灣自行研究、仿效美式速食流程的早期品牌；從一間二樓速簡餐廳，可以看見台灣城市生活、外食文化與品牌主權如何在 1980 年代交會。",
+    "category": "Food",
+    "tags": [
+      "food",
+      "台灣飲食",
+      "速食",
+      "品牌史",
+      "台北車站",
+      "1970年代",
+      "麥當樂"
+    ],
+    "url": "https://taiwan.md/food/%E9%BA%A5%E7%95%B6%E6%A8%82",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "Food/麥當樂.md"
+  },
+  {
     "title": "麻芛湯：南屯の黄麻畑から台中の夏の食卓へ、一碗の苦甘緑湯",
     "description": "1895年、日本人は麻布袋の製造のために台中南屯に広く黄麻を植えた。半世紀後、ビニール袋が麻縁産業を淘汰したが、麻芛湯だけは台中人の夏に残った。苦みの中に甘みが戻る緑の濃湯は、「副産物」として唯一残った台湾の地方料理である。",
     "category": "ja",
@@ -23254,6 +23566,21 @@
     "path": "History/黑蝙蝠中隊.md"
   },
   {
+    "title": "黑貓老師：從一台過熱的顯示卡，到把流量還給讀者的二十年",
+    "description": "2015 年暑假，一台過熱當機的顯示卡讓黑貓老師放棄遊戲實況，卻意外留下了一個粉絲專頁。從曬貓、歷史說書到 Podcast 與《黑貓創作報》，他一路跨過無名小站、Facebook、YouTube 和電子報，也一路追問：創作者究竟是在服務讀者，還是在餵養演算法？",
+    "category": "People",
+    "tags": [
+      "黑貓老師",
+      "自媒體",
+      "歷史說書"
+    ],
+    "url": "https://taiwan.md/people/%E9%BB%91%E8%B2%93%E8%80%81%E5%B8%AB",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "People/黑貓老師.md"
+  },
+  {
     "title": "傳奇網路：虧了七年四億，然後把遊戲賣進十四個國家",
     "description": "2002 年成立的傳奇網路連虧七年、累計虧損超過四億，開發團隊幾乎全換掉重來。2009 年《精靈樂章》上線，授權十四個國家，日本拿獎，海外收入追平台灣本地。一家差點死掉的台灣小公司，做出了反向輸出到日本市場的罕見案例。",
     "category": "Technology",
@@ -23516,6 +23843,23 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "ja/Geography/hsinchu-county.md"
+  },
+  {
+    "title": "新竹都城隍廟：先有神明，後有官府的竹塹城市中心",
+    "description": "1748 年落成的新竹都城隍廟，先於淡水廳署完成；它不只保存一座古蹟，也把官府、祭典、工藝與新竹人的城市記憶疊在同一座廟埕。",
+    "category": "Culture",
+    "tags": [
+      "新竹",
+      "城隍",
+      "廟宇",
+      "竹塹",
+      "文化資產"
+    ],
+    "url": "https://taiwan.md/culture/%E6%96%B0%E7%AB%B9%E9%83%BD%E5%9F%8E%E9%9A%8D%E5%BB%9F",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-08-24",
+    "path": "Culture/新竹都城隍廟.md"
   },
   {
     "title": "新竹縣：235 年的義民信仰，與全台第一的人均所得，住在同一條頭前溪",
@@ -24352,6 +24696,23 @@
     "path": "Society/電網韌性.md"
   },
   {
+    "title": "電線桿與變電箱：台灣把現代生活掛在街角，也把地方記憶畫上去",
+    "description": "從 1905 年的水力發電到今日的地下化與彩繪變電箱，電力設備如何同時成為城市基礎、災害風險與地方辨識。",
+    "category": "Lifestyle",
+    "tags": [
+      "電線桿",
+      "變電箱",
+      "電纜地下化",
+      "台灣街景",
+      "公共設施"
+    ],
+    "url": "https://taiwan.md/lifestyle/%E9%9B%BB%E7%B7%9A%E6%A1%BF%E8%88%87%E8%AE%8A%E9%9B%BB%E7%AE%B1",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "Lifestyle/電線桿與變電箱.md"
+  },
+  {
     "title": "電競：從網咖小子到世界舞台，台灣韌性與機會的競技場",
     "description": "2012年TPA奪冠曾點燃台灣電競熱血，但產業發展並非一帆風順。從曾政承的困境到電競入法，台灣電競在榮耀與挑戰中尋找定位，更在全球硬體供應鏈、多元社群與AI浪潮中，展現獨特韌性與無限機會。",
     "category": "Lifestyle",
@@ -24800,6 +25161,24 @@
     "path": "ja/History/green-island-prison.md"
   },
   {
+    "title": "臺中州廳：一座行政廳舍如何把城市排成秩序，又被市民重新使用",
+    "description": "臺中州廳從 1913 年開始分期興建，1934 年完成現行規模，曾是殖民行政的永久性廳舍，戰後又持續成為城市政府工作的現場。從街角、拱廊、附屬建築與修復工地看，它不只是新古典風格的古蹟，而是一座把權力、工程、勞動與市民記憶疊在同一個地址上的公共建築。",
+    "category": "History",
+    "tags": [
+      "臺中州廳",
+      "文化資產",
+      "臺中城市史",
+      "日治時期",
+      "建築史",
+      "古蹟保存"
+    ],
+    "url": "https://taiwan.md/history/%E5%8F%B0%E4%B8%AD%E5%B7%9E%E5%BB%B3",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-08-23",
+    "path": "History/台中州廳.md"
+  },
+  {
     "title": "臺中港：一塊石頭如何把梧棲推向海，也把海岸改寫",
     "description": "1973 年 10 月 31 日，陳樹曦在梧棲北堤拋下第一車石塊。三年後，臺中港帶著商船、軍艦與 30 萬名參觀者開港，成為中部通往世界的人工國際港。可是港口完成不等於港市夢完成，漂沙、老街外移與白海豚棲地爭議，讓這座十大建設至今仍在回答同一個問題：人要如何把海變成門，而不把海本身弄丟。",
     "category": "History",
@@ -25006,7 +25385,7 @@
       "公共衛生"
     ],
     "url": "https://taiwan.md/people/%E8%92%BC%E8%97%8D%E9%B4%BF",
-    "readingTime": 35,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-08-16",
     "path": "People/蒼藍鴿.md"
@@ -25440,6 +25819,30 @@
     "path": "Art/數位荒原.md"
   },
   {
+    "title": "樂生療養院：一座被隔離的家，如何變成台灣醫療人權的現場",
+    "description": "1930 年成立的樂生療養院，曾是台灣唯一的公立漢生病隔離醫院。從強制隔離、院民自立生活，到捷運機廠開發引發的保存運動，這座山坡上的聚落見證公共衛生、疾病污名、居住權與文化資產如何交纏。文章梳理日治到戰後的醫療政策、院民如何把隔離空間生活化，以及保存運動為何不只是老建築拆不拆的爭論。",
+    "category": "Geography",
+    "tags": [
+      "樂生療養院",
+      "樂生院",
+      "漢生病",
+      "痲瘋病",
+      "新莊",
+      "迴龍",
+      "文化景觀",
+      "醫療人權",
+      "文化資產",
+      "捷運新莊線",
+      "保存運動",
+      "公共衛生"
+    ],
+    "url": "https://taiwan.md/geography/%E6%A8%82%E7%94%9F%E7%99%82%E9%A4%8A%E9%99%A2",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-08-24",
+    "path": "Geography/樂生療養院.md"
+  },
+  {
     "title": "澎湖 민속 문화",
     "description": "매년 정월 보름,澎호의 200여 개 사찰이 동시에 점복을 던지고 47,000근의 쌀 거북이 제단에 쌓인다. 북동 계절풍이 400년간 분 이 섬들은 출항한 사람들을 귀환을 빌며 돌방파제로 밀려드는 물고기를 가두고, 포가 대창으로 겨울의 고독을 달운다.",
     "category": "ko",
@@ -25784,6 +26187,17 @@
     "path": "ja/People/tanya-chua-singer.md"
   },
   {
+    "title": "蔡培火：把臺語寫成公共問題的人",
+    "description": "蔡培火不是只留下幾本書與幾首歌的日治人物。他從教師、留學生、報刊工作者與社會運動參與者的位置出發，把教育、臺語書寫、文化啟蒙與自治要求接到同一個問題：臺灣人如何取得讀寫、組織與發言的能力。本文以可核對的人物檔案、作品資料、文化協會與臺灣議會設置請願脈絡，整理一個公共知識分子如何在殖民制度內外尋找語言與政治的入口。",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/people/%E8%94%A1%E5%9F%B9%E7%81%AB",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "People/蔡培火.md"
+  },
+  {
     "title": "蔡黑皮：那個背著捷運站名長大的男孩，把台灣裝進了 26 萬人的訂閱",
     "description": "2002 年出生的蔡覲安，從高中自學拍「捷運冷知識」起家，十二年後站上被稱為「交通界奧斯卡」的金路獎頒獎台。他改名、停更、再出發，一手包辦資料、地圖與剪輯，是台灣知識型創作者長期主義的樣本。",
     "category": "People",
@@ -25906,6 +26320,23 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "ja/People/chiang-wei-shui.md"
+  },
+  {
+    "title": "蔣經國：把威權的門推開一條縫的人",
+    "description": "蔣經國既是戒嚴體制的掌舵者，也是晚年啟動解嚴與政治開放的人；理解這個矛盾，才能看見台灣民主不是誰恩賜的終點。",
+    "category": "People",
+    "tags": [
+      "蔣經國",
+      "解嚴",
+      "民主化",
+      "威權體制",
+      "台灣政治"
+    ],
+    "url": "https://taiwan.md/people/%E8%94%A3%E7%B6%93%E5%9C%8B",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "People/蔣經國.md"
   },
   {
     "title": "蝦皮購物：橘色帝國的擴張軌跡與數位社會的博弈",
@@ -26472,7 +26903,7 @@
       "飲食文化"
     ],
     "url": "https://taiwan.md/food/%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6",
-    "readingTime": 21,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-08-14",
     "path": "Food/燒臘便當.md"
@@ -26967,6 +27398,25 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/People/lai-ching-te.md"
+  },
+  {
+    "title": "館長：一間健身房如何長成一支政治麥克風",
+    "description": "陳之漢以成吉思汗健身俱樂部創辦人「館長」成名，再用長時間直播把健身、商業與政治揉成同一個個人品牌。從早期反紅媒動員，到 2025 年以和平大使身分赴中直播，這條路線如何被描述，仍需要把人物自述、媒體報導、官方說法與觀眾解讀分開保存。",
+    "category": "People",
+    "tags": [
+      "館長",
+      "陳之漢",
+      "網紅",
+      "直播",
+      "健身",
+      "政治傳播",
+      "成吉思汗"
+    ],
+    "url": "https://taiwan.md/people/%E9%A4%A8%E9%95%B7%E9%99%B3%E4%B9%8B%E6%BC%A2",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "People/館長陳之漢.md"
   },
   {
     "title": "鴨母王朱一貴：台湾で初めて王を称した蜂起の指導者",
@@ -27966,6 +28416,23 @@
     "path": "ja/People/su-tseng-chang.md"
   },
   {
+    "title": "蘇澳冷泉",
+    "description": "終年約 22°C 的水不以低溫取勝，而是以二氧化碳氣泡、百年浴場與彈珠汽水，改變一座港鎮的日常記憶",
+    "category": "Geography",
+    "tags": [
+      "蘇澳",
+      "冷泉",
+      "地質",
+      "宜蘭",
+      "地方記憶"
+    ],
+    "url": "https://taiwan.md/geography/%E8%98%87%E6%BE%B3%E5%86%B7%E6%B3%89",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-08-25",
+    "path": "Geography/蘇澳冷泉.md"
+  },
+  {
     "title": "蘋果西打：国民的炭酸飲料から資本の嵐へ、60年の台湾の味はいかに再生したのですか",
     "description": "1965年、フィリピン華僑の李鴻略が米国謝斯尼斯（CosCo）社から配合を買い取り、大西洋飲料を創立しました。蘋菓西打はそれ以来、熱炒店（台湾式居酒屋）の冷蔵庫、辦桌（屋外宴席）の宴会、KTV個室の中で、60年間位置を変えない金色の炭酸となりました。その商標は最初の30年間に3組の外国オーナーを渡り歩き、孫幼英が私費80万米ドルを投じてようやく台湾へ買い戻しました。韓国アイドルのキュヒョンが台南の度小月で偶然出会い、自社工場の酵母菌とカビの生えた天井の下で二度つまずき、最後には親会社が高雄湖内の7222坪の土地を売却して、EPS 8.71元という重い復帰を支えました。",
     "category": "ja",
@@ -28099,7 +28566,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E9%90%B5%E7%89%9B%E6%9D%B0%E5%93%A5",
-    "readingTime": 40,
+    "readingTime": 39,
     "featured": false,
     "date": "2026-08-19",
     "path": "People/鐵牛杰哥.md"
@@ -28261,6 +28728,23 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "Food/蘿蔔糕.md"
+  },
+  {
+    "title": "鹽水蜂炮：一座炮城，如何把瘟疫記憶留在鹽水街上",
+    "description": "鹽水蜂炮不只是元宵夜的煙火奇觀，而是由關帝信仰、炮城工藝、地方協作與公共安全共同支撐的臺灣民俗。",
+    "category": "Culture",
+    "tags": [
+      "鹽水蜂炮",
+      "元宵節",
+      "民俗",
+      "關帝信仰",
+      "臺南"
+    ],
+    "url": "https://taiwan.md/culture/%E9%B9%BD%E6%B0%B4%E8%9C%82%E7%82%AE",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "Culture/鹽水蜂炮.md"
   },
   {
     "title": "A Academia de IA de Taiwan: A ligação telefônica não concluída e os dez mil engenheiros de IA",
@@ -28958,6 +29442,17 @@
     "path": "pt/People/a-mei.md"
   },
   {
+    "title": "A-mei: Die Puyuma-Sängerin, von „Schwestern“ 1996 zu fünf Shows im Taipeh Dome 2024",
+    "description": "Geboren am 9. August 1972 im Landkreis Taitung (Puyuma), ist A-mei eine der erfolgreichsten Sängerinnen in der Geschichte der chinesischsprachigen Popmusik. 1996 verkaufte ihr Debüt „Schwestern“ 1,21 Mio. in Taiwan und 4 Mio. in Asien. 2015 spielte sie „Utopia“ zehnmal in Folge in der Taipeh Arena. Im Dezember 2024 füllte sie mit ASMeiR MAXXX fünfmal den Taipeh Dome, Produktionskosten 200 Mio., mit Heißluftballon. Karriere-Gesamtverkäufe über 50 Mio.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/a-mei",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/a-mei.md"
+  },
+  {
     "title": "A-mei: Penyanyi Suku Puyuma, dari《姊妹》1996 hingga Lima Konser di Dome 2024",
     "description": "Lahir 9 Agustus 1972 di Kecamatan Puyuma, Kabupaten Taitung, A-mei adalah penyanyi suku Puyuma dari Taiwan, salah satu penyanyi wanita paling sukses dalam sejarah musik pop Mandarin. Album debut 1996《姊妹》terjual 1,21 juta kopi di Taiwan, 4 juta di Asia. 2015 \"Utopia\" 10 konser berturut-turut di Taipei Arena. Desember 2024 ASMeiR MAXXX 5 konser di Dome, biaya produksi 2 miliar, peluncuran balon udara panas. Total penjualan karir melebihi 50 juta kopi.",
     "category": "id",
@@ -29449,6 +29944,25 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "en/Food/ah-po-iron-eggs.md"
+  },
+  {
+    "title": "Ahn Ji-hyun",
+    "description": "Von der professionellen Cheerleader-Szene in Korea zu den Wing Stars von Taiwan Steel bringt Ahn Ji-hyun internationale Auftrittserfahrung nach Kaohsiung; die Taipei-Dome-Phase im Mai 2026 wurde auch zu einem öffentlichen Zeitpunkt für ihre Verletzungsanpassungen und ihre Rolle am Spielfeldrand.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Ahn Ji-hyun",
+      "Südkorea",
+      "Cheerleading",
+      "Taiwan Steel Eagles",
+      "Wing Stars",
+      "Kaohsiung"
+    ],
+    "url": "https://taiwan.md/de/people/ahn-ji-hyun",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/ahn-ji-hyun.md"
   },
   {
     "title": "Ahn Ji-hyun",
@@ -30164,6 +30678,24 @@
     "path": "pt/People/andre-chiang-taiwanese-culinary-innovator.md"
   },
   {
+    "title": "André Chiang: Er wartete nie, bis eine Definition sich festsetzte, bevor er sich abwandte",
+    "description": "1997 lud ein junger Chefkoch eines französischen Restaurants im Westin-Hotel zwei französische Drei-Sterne-Köche zu einer zehntägigen Zusammenarbeit nach Taiwan ein und kaufte dann ein Flugticket, um ihnen nach Frankreich zu folgen. Vom zwei Jahre langen Kartoffelschälen in Südfrankreich über das Hochschieben seines Singapur-Restaurants auf Platz 14 der Weltrangliste – das er im Folgejahr freiwillig schloss – bis zum schwer zu buchenden RAW in Taipeh, von dem er sich im zehnten Jahr abwandte: André Chiangs unersetzlichster Zug ist es, das Licht auszuschalten und die nächste Frage zu stellen, sobald ihn ein Titel zu definieren droht: Was genau ist der Geschmack Taiwans?",
+    "category": "de",
+    "tags": [
+      "André Chiang",
+      "Spitzenkoch",
+      "Michelin",
+      "RAW",
+      "Gastronomie",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/andre-chiang-taiwanese-culinary-innovator",
+    "readingTime": 167,
+    "featured": true,
+    "date": "2026-07-17",
+    "path": "de/People/andre-chiang-taiwanese-culinary-innovator.md"
+  },
+  {
     "title": "André Chiang: He Never Waited for a Definition to Settle Before Turning Away",
     "description": "In 1997, a young French restaurant chef at the Western Hotel invited two French three-star chefs to Taiwan for a ten-day collaboration, then bought a ticket to follow them to France. From peeling potatoes in southern France for two years, to pushing his Singapore restaurant to the 14th spot on the world rankings before voluntarily closing it the following year, to opening Taipei’s most difficult-to-book RAW and turning away again in its tenth year—André Chiang’s most irreplaceable move is to turn off the lights and ask the next question whenever he is about to be defined by a title: What exactly is the taste of Taiwan?",
     "category": "en",
@@ -30840,6 +31372,23 @@
     "path": "pt/Economy/asus-computer.md"
   },
   {
+    "title": "ASUS (ASUSTeK): How a Taiwanese Motherboard Pioneer Built a Global PC Giant",
+    "description": "Founded in Taipei in 1989 by four engineers, ASUS evolved from a local motherboard maker into Taiwan’s premier global PC and gaming brand with NT$600B revenue.",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Enterprise",
+      "Computer Hardware",
+      "Brand",
+      "Technology"
+    ],
+    "url": "https://taiwan.md/en/economy/asus-computer",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/asus-computer.md"
+  },
+  {
     "title": "ASUS (АСУС) — технологический гигант, начавший с материнских плат",
     "description": "От небольшого завода материнских плат в Чжучжэ, Тайвань, к вдохновляющей легенде о пятом по величине бренде персональных компьютеров в мире",
     "category": "ru",
@@ -30888,23 +31437,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "fr/Economy/asus-computer.md"
-  },
-  {
-    "title": "ASUSTeK Computer (ASUS) - The Technology Giant That Began with Motherboards",
-    "description": "The inspiring story of a small motherboard maker that began in Hsinchu, Taiwan, and transformed into the world’s fifth-largest personal computer brand",
-    "category": "en",
-    "tags": [
-      "Economy",
-      "Enterprise",
-      "Computer Hardware",
-      "Brand",
-      "Technology"
-    ],
-    "url": "https://taiwan.md/en/economy/asus-computer",
-    "readingTime": 55,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Economy/asus-computer.md"
   },
   {
     "title": "Au Sow Yee : la curatrice malaisienne qui a fait entrer l'« archipel » dans le milieu artistique taïwanais",
@@ -31769,6 +32301,17 @@
     "path": "en/People/barbie-hsu-actress.md"
   },
   {
+    "title": "Barbie Hsu: Von der verspielten Schönheit zur unbeugsamen Königin des „zweimal gestorben, einmal schwer verletzt“",
+    "description": "1994 Debüt als S.O.S, 2001 mit „Meteor Garden“ in ganz Asien berühmt, 2005 mit „Beauty King“ ihr Ästhetik-Label etabliert, im Februar 2025 im Alter von 48 Jahren verstorben. Sie kämpfte mit extremer Schönheitssuche gegen das Kontrollverlust des Lebens und hinterließ in der Ehekrise mit der Erklärung „zweimal gestorben, einmal schwer verletzt“ den schärfsten Querschnitt des Dilemmas zeitgenössischer Frauen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/barbie-hsu-actress",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "de/People/barbie-hsu-actress.md"
+  },
+  {
     "title": "Bát Điền Dữ Nhất: Từ huyền thoại thủy lợi đến \"Kênh Cắn Người\", Dấu ấn của các chuyên gia kỹ thuật dưới thời đô hộ",
     "description": "Vào những năm 1920, kỹ sư người Nhật Bát Điền Dữ Nhất xây dựng Hồ Ô Sơn Đầu và Kênh Chiayi Nam ở vùng Chiayi Nam, Đài Loan. Công trình thủy lợi cấp thế giới này mang lại thành quả nông nghiệp phong phú, nhưng cũng vì bản chất khai thác thuộc địa và gánh nặng nông dân, bị một số nông dân gọi là \"Kênh Cắn Người\". Bài viết này sẽ khám phá công lao và lỗi lầm của Bát Điền Dữ Nhất, tính hai mặt của triết học quản lý của ông, cũng như dấu ấn phức tạp mà giai đoạn lịch sử này để lại cho xã hội Đài Loan.",
     "category": "vi",
@@ -32560,6 +33103,23 @@
     "path": "en/People/bernard-tseng.md"
   },
   {
+    "title": "Brigitte Lin",
+    "description": "Von der Königin der Qiong-Yao-Filme zur Martial-Arts-Legende – die legendäre Schauspielerin der chinesischsprachigen Filmwelt",
+    "category": "de",
+    "tags": [
+      "Brigitte Lin",
+      "Schauspielerin",
+      "Qiong-Yao-Film",
+      "Dongfang Bubai",
+      "Chinesischsprachiger Film"
+    ],
+    "url": "https://taiwan.md/de/people/brigitte-lin-legendary-actress",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/brigitte-lin-legendary-actress.md"
+  },
+  {
     "title": "Brigitte Lin Ching-hsia",
     "description": "De l'icône du mélo à la légende du wuxia : le parcours d'une star intemporelle du cinéma sinophone",
     "category": "fr",
@@ -32588,8 +33148,8 @@
     "path": "es/People/brigitte-lin-legendary-actress.md"
   },
   {
-    "title": "Brigitte Lin: From Romance Icon to Martial Arts Legend",
-    "description": "The legendary actress who dominated both Qiong Yao romance films and Tsui Hark's martial arts cinema, becoming an eternal icon of Chinese cinema",
+    "title": "Brigitte Lin: From Qiong Yao Romance Star to East Asia’s Cinema Legend",
+    "description": "Discovered in Taipei at seventeen, Brigitte Lin defined Taiwanese romance cinema before reinventing herself as Hong Kong martial arts icon Dongfang Bubai.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/brigitte-lin-legendary-actress",
@@ -33104,6 +33664,25 @@
   },
   {
     "title": "Byun Ha-yul",
+    "description": "Von der koreanischen Repräsentantin der CTBC Brothers bis zum Verbleib über mehrere Spielzeiten: Abseits großer Beliebtheit räumte sie in öffentlichen Interviews offen ein, dass Gesundheitsthemen in der Familie ihre Stimmung beeinflussen – ein Blick auf die reale Druckseite der Cheer-Arbeit.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Byun Ha-yul",
+      "Korea",
+      "Cheerleading",
+      "CTBC Brothers",
+      "Passion Sisters",
+      "CPBL"
+    ],
+    "url": "https://taiwan.md/de/people/byun-ha-yul",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/byun-ha-yul.md"
+  },
+  {
+    "title": "Byun Ha-yul",
     "description": "From a CTBC Brothers Korean cheer pillar to a cross-season regular—beyond high popularity, she has also spoken in public interviews about how family health affects her mood, showing the real pressure side of cheer work.",
     "category": "en",
     "tags": [],
@@ -33155,8 +33734,8 @@
     "path": "vi/People/byun-ha-yul.md"
   },
   {
-    "title": "C. C. Wei: Born 1953, from NCTU Electronics to Yale PhD to TSMC Chairman and President",
-    "description": "Born in 1953. B.S. and M.S. in Electronics Engineering, National Chiao Tung University; Ph.D. in Electrical Engineering, Yale University. Career path: Texas Instruments → STMicroelectronics → Chartered Semiconductor Manufacturing (Singapore) → joined TSMC in 1998. In 2012, appointed co-COO of TSMC alongside Mark Liu. On June 5, 2018, succeeded as Vice Chairman and President following Morris Chang's retirement. On June 4, 2024, assumed the chairmanship after Mark Liu's retirement; currently serves as TSMC Chairman and President.",
+    "title": "C. C. Wei: From Texas Instruments Engineer to TSMC Chairman and CEO",
+    "description": "From Texas Instruments engineer to Morris Chang’s successor, C. C. Wei steered TSMC into 2nm and global expansion, becoming Taiwan’s foremost semiconductor leader.",
     "category": "en",
     "tags": [
       "科技與企業",
@@ -33964,6 +34543,17 @@
     "path": "en/People/chang-yu-sheng-singer.md"
   },
   {
+    "title": "Chang Yu-sheng: vom Idol zum Prophet – ein musikalischen Experiment über die Zeiten hinweg",
+    "description": "1989 debütierte der Sohn des Pegasus-Truppenkommandeurs mit „Jeden Tag an dich denken“ (35.000 Verkäufe) als Idol; 1994 antwortete er dem Markt mit einer 73-minütigen Live-Aufnahme seiner Band – die Verkäufe waren miserabel, doch man nannte sie eine Prophezeiung. Chang Yu-sheng rieb sich neun Jahre lang zwischen Idol-Identität und künstlerischem Gewissen; vier Tage nach dem Erscheinen von „Lippenbekenntnisse und Herzlichkeit“ (口是心非) überschlug er sich in Tamsui in den frühen Morgenstunden – und wachte nie wieder auf.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/chang-yu-sheng-singer",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "de/People/chang-yu-sheng-singer.md"
+  },
+  {
     "title": "Changhua County: The Agricultural Giant That Beat Dupont but Can't Keep Its Young People",
     "description": "In 1709, Shi Shibang channeled water from the Zhuoshui River to create Taiwan's first large-scale irrigation system — 211 years before Hatta Yoichi's Chianan Canal. In 1723, the first year of the Yongzheng era, the county was carved out from Zhuluo County, bounded by the Huwei River to the north and the Dajia River to the south — this was the origin of Changhua's establishment. In 1786, Lin Shuangwen's forces besieged Changhua city, but Lukang held. In 1788, the Qianlong Emperor ordered the construction of an official-funded Mazu temple (Xinzu Gong) in Lukang. In 1922, the Changhua Roundhouse opened. In 1986, Lukang residents drove out American firm Dupont — Taiwan's first environmental movement. In April 2026, Changhua County's population stood at 1,206,458, falling below the threshold for special municipality upgrade.",
     "category": "en",
@@ -34138,6 +34728,23 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "fr/Politics/indigenous-district-chief-system.md"
+  },
+  {
+    "title": "Chen Cheng-po",
+    "description": "Er eroberte mit Ölgemälden die Kaiserliche Kunstausstellung in Tokio – und wurde vor dem Bahnhof von Chiayi erschossen. Und was die Welt von ihm wissen ließ, war oft der Tod, nicht die Bilder.",
+    "category": "de",
+    "tags": [
+      "Kunst",
+      "Malerei",
+      "228-Zwischenfall",
+      "Chiayi",
+      "Japanische Kolonialzeit"
+    ],
+    "url": "https://taiwan.md/de/people/chen-cheng-po",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "de/People/chen-cheng-po.md"
   },
   {
     "title": "Chen Cheng-po",
@@ -34427,8 +35034,8 @@
     "path": "es/People/chen-chih-chung.md"
   },
   {
-    "title": "Chen Chih-chung: From the Spotlight of the First Family to Political Ups and Downs Under the 'Blacklisting Clause'",
-    "description": "In 2008, Chen Chih-chung was forced to interrupt his studies and return to Taiwan due to an overseas money laundering case, beginning a political career intertwined with judicial controversies. He was elected Kaohsiung City Councilor twice with the highest vote share in his constituency, yet was also removed from office three times due to legal cases. After the passage of the 'blacklisting clause' in 2023, his political path appeared to reach an end, but he turned to social media platforms such as Threads, engaging in humorous interactions with his father Chen Shui-bian under the nickname 'Water,' showcasing an unconventional father-son relationship and a digital comeback.",
+    "title": "Chen Chih-chung: Political Rise, Legal Battles, and Digital Reinvention",
+    "description": "From first family heir to top Kaohsiung councilor, Chen Chih-chung weathered decade-long scandals and election bans before finding a second voice on social media.",
     "category": "en",
     "tags": [
       "政治人物",
@@ -34651,6 +35258,24 @@
     "path": "en/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
+    "title": "Chen Shu-chu: Eine Gemüseverkäuferin aus Taitung, die mit fünfzig Jahren Einnahmen aus dem Gemüseverkauf zig Millionen NT$ spendete",
+    "description": "Eine Gemüseverkäuferin aus Taitung hat mit fünfzig Jahren Einnahmen aus dem Gemüseverkauf zig Millionen NT$ gespendet und sagt dennoch: „Ich bin eben nur eine Gemüseverkäuferin.“",
+    "category": "de",
+    "tags": [
+      "Wohltätigkeit",
+      "Taitung",
+      "Gemüseverkäuferin",
+      "TIME Magazine",
+      "Ramon-Magsaysay-Preis",
+      "Bildungsspenden"
+    ],
+    "url": "https://taiwan.md/de/people/chen-shu-chu-vegetable-vendor-philanthropist",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
+  },
+  {
     "title": "Chen Shu-chu: la vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto",
     "description": "Una vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto, y aun así decía de sí misma: \"Solo soy una vendedora de verduras\"",
     "category": "es",
@@ -34781,6 +35406,25 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "en/People/chen-tzu-jian.md"
+  },
+  {
+    "title": "Chen Wei-yin",
+    "description": "Der Linkshänder, der einen 2,5-Milliarden-NT$-Höchstvertrag unterschrieb, aber nur 47 % tatsächlich erhielt",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Baseball",
+      "Sport",
+      "Profisportler",
+      "MLB",
+      "NPB",
+      "Japanische Liga"
+    ],
+    "url": "https://taiwan.md/de/people/chen-wei-yin-mlb-pitcher",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "de/People/chen-wei-yin-mlb-pitcher.md"
   },
   {
     "title": "Chen Wei-yin",
@@ -35105,6 +35749,17 @@
     "path": "vi/People/cheng-li-wun.md"
   },
   {
+    "title": "Cheng Nan-jung: Der Mann, der Benzin in seiner Zeitschrift anzündete",
+    "description": "Als 1947 das 228-Ereignis ausbrach, versteckte sich eine Familie in der Hankou-Straße in Taipeh zitternd im Haus. Der Vater Cheng Mu-sen war ein „Festländer“ aus Fuzhou – auf der Straße jagte man gerade Festländer. Erst die taiwanesischen Nachbarn von nebenan versteckten sie und retteten der Familie das Leben. Sieben Monate später wurde der älteste Sohn des Paares geboren und auf den Namen Nan-jung getauft. Einundvierzig Jahre später, dieser von Taiwanern gerettete „Festlandsjunge“, zündete für das Recht aller Taiwaner zu sprechen in seiner eigenen Zeitschriftenredaktion Benzin an.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/zheng-nanrong",
+    "readingTime": 48,
+    "featured": true,
+    "date": "2026-03-25",
+    "path": "de/People/zheng-nanrong.md"
+  },
+  {
     "title": "Cheng Nan-jung: um \"filho de waishengren\" que trocou a vida pela liberdade de expressão",
     "description": "Em 1947, durante o 228, o pai Cheng Mu-sen sobreviveu graças a vizinhos taiwaneses que o esconderam; quarenta e um anos depois, o filho mais velho do casal, Cheng Nan-jung, autoimolou-se na sua própria revista. Em 1984 fundou a \"Era da Liberdade\", com 24 licenças em mãos, proibida 18 vezes mas ainda publicada; em 1988 publicou o \"Projecto de Constituição da República de Taiwan\" de Chan I-kai, em 7 de abril de 1989 autoimolou-se. Yeh Ju-lan entrou depois para a política, servindo como deputada, ministra dos Transportes, presidente da Comissão Hakka, vice-primeira-ministra e secretária-geral da Presidência. A escolha de Cheng continua controversa: apoiadores veem como martírio, críticos como escolha pessoal extrema. O ar da liberdade de expressão em Taiwan é hoje tão quotidiano que muitos esqueceram que já custou vidas.",
     "category": "pt",
@@ -35367,6 +36022,26 @@
   },
   {
     "title": "Chi Po-lin",
+    "description": "Ein Mann, dessen Beamtengehalt nicht für einen Helikopter reichte, drehte mit dem Geld aus der Verpfändung seines Hauses den erfolgreichsten Dokumentarfilm in der Geschichte des taiwanesischen Films.",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Chi Po-lin",
+      "Dokumentarfilm",
+      "Taiwan aus der Luft sehen",
+      "Regisseur",
+      "Fotograf",
+      "Luftaufnahme",
+      "Umwelt"
+    ],
+    "url": "https://taiwan.md/de/people/chi-po-lin",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "de/People/chi-po-lin.md"
+  },
+  {
+    "title": "Chi Po-lin",
     "description": "How a government clerk who couldn't afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary",
     "category": "en",
     "tags": [],
@@ -35590,6 +36265,25 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "fr/People/chiang-wei-shui.md"
+  },
+  {
+    "title": "Chiang Wei-shui: Der Arzt, der mit einer „Klinischen Vorlesung“ den Erreger der Kolonie diagnostizierte",
+    "description": "1921 veröffentlichte der Arzt Chiang Wei-shui seine „Klinische Vorlesung“ (臨床講義), in der er Taiwan als „Schwachkopf der Weltkultur“ personifizierte und die Krankheitsursache als geistige Unterernährung diagnostizierte. Er gründete den Taiwanesischen Kulturverein und mit der Taiwanesischen Volkspartei die erste legale Partei; sein Leben verbrachte er mit über einem Dutzend Gefängnisaufenthalten und webte zwischen dem Da''an-Krankenhaus und dem „Chunfengdeyi“-Klubhaus ein Netz des Erwachens. Sein praktischer Nachlass lautet: „Landsleute, schließt euch zusammen; vereint sind wir wahrhaft stark.“",
+    "category": "de",
+    "tags": [
+      "Chiang Wei-shui",
+      "Taiwanesischer Kulturverein",
+      "Taiwanesische Volkspartei",
+      "Japanische Kolonialzeit",
+      "Kulturelle Aufklärung",
+      "Daan-Krankenhaus",
+      "Klinische Vorlesung"
+    ],
+    "url": "https://taiwan.md/de/people/chiang-wei-shui",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "de/People/chiang-wei-shui.md"
   },
   {
     "title": "Chiang Wei-shui: el médico que diagnosticó las heridas coloniales con su \"Discurso clínico\"",
@@ -36260,8 +36954,8 @@
     "path": "pt/People/chou-tien-chen-badminton.md"
   },
   {
-    "title": "Chou Tien-chen: Taiwan's Badminton No.1, Swinging at World No.2 Height",
-    "description": "Taiwan's first men's singles player to reach world No.2 and the first to defeat the legendary Lin Dan. From a low period of ten consecutive defeats after joining the national team, to being baptized as a Christian after a perforated appendicitis, to being diagnosed with early‑stage colon cancer at age 34 in 2023, undergoing surgery and traveling abroad to compete just days later, enduring nearly a year of slump, and then reaching the quarterfinals at the Paris Olympics the following year. Chou Tien-chen does not rely on raw talent; he uses a grinding, rally‑intensive style called “磨” to steadily raise the ceiling of Taiwanese badminton.",
+    "title": "Chou Tien-chen: Taiwan’s Badminton Pioneer and World No. 2 Veteran",
+    "description": "Overcoming a 10-match losing streak, appendicitis, and cancer, Chou Tien-chen reached world No. 2, elevating Taiwanese badminton through unmatched rally discipline.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/chou-tien-chen-badminton",
@@ -36269,6 +36963,25 @@
     "featured": false,
     "date": "2026-06-29",
     "path": "en/People/chou-tien-chen-badminton.md"
+  },
+  {
+    "title": "Chou Tzu-yu",
+    "description": "Ein Mädchen aus Tainan, das nie Politik gesprochen hat, wurde durch eine 8-sekündige Flagge zum Wendepunkt des Schicksals Taiwans. Zehn Jahre später las sie im Taipeh Dome einen handgeschriebenen Brief: „Ich bin nicht gegangen – nicht, weil ich brav bin, sondern weil ich es wirklich will.“",
+    "category": "de",
+    "tags": [
+      "Chou Tzu-yu",
+      "TWICE",
+      "Korea",
+      "K-POP",
+      "Flaggen-Vorfall",
+      "Taiwanesische Identität",
+      "Popmusik"
+    ],
+    "url": "https://taiwan.md/de/people/tzuyu",
+    "readingTime": 112,
+    "featured": true,
+    "date": "2026-04-14",
+    "path": "de/People/tzuyu.md"
   },
   {
     "title": "Chou Tzu-yu",
@@ -36582,6 +37295,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/chu-tien-wen.md"
+  },
+  {
+    "title": "Chu Tien-wen: Taipeh 1956 – vom „San-San-Journal“ zum Goldenen Löwen von Venedig für „Die Stadt der Trauer“",
+    "description": "1956 in Taipeh geboren, Vater Chu Hsi-ning. Gründete 1977 mit Hu Lan-cheng u. a. das „San-San-Journal“. Langjährige Drehbuchautorin von Hou Hsiao-hsien; ihr repräsentatives Drehbuch „Die Stadt der Trauer“ gewann 1989 den Goldenen Löwen von Venedig. 1994 gewann „Aufzeichnungen der Verzweifelten“ den ersten Preis des China-Times-Literaturpreises. Zu ihren Drehbüchern gehören auch „Good Men, Good Women“ und „Goodbye South, Goodbye“.",
+    "category": "de",
+    "tags": [
+      "Literatur",
+      "Filmdrehbuch",
+      "Hou Hsiao-hsien",
+      "Chu Hsi-ning",
+      "San-San-Literatur",
+      "Aufzeichnungen der Verzweifelten"
+    ],
+    "url": "https://taiwan.md/de/people/chu-tien-wen",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/chu-tien-wen.md"
   },
   {
     "title": "Chu Tsung-ching",
@@ -40568,6 +41299,24 @@
     "path": "id/People/deng-yu-xian-taiwanese-song-composer.md"
   },
   {
+    "title": "Deng Yuxian: Hakka 1906, Aprilregen – neununddreißig Jahre des Vaters der taiwanesischen Volkslieder",
+    "description": "Geboren am 21. Juli 1906 in eine Hakka-Familie in Longtan, Taoyuan; bürgerlicher Name Deng Bingyan. Nach dem Abschluss der Lehrernormalschule wurde er 1933 von Columbia Records als Hauskomponist verpflichtet. Seine vier Hauptwerke „Aprilregen“ (Vier Jahreszeiten-Rot / Mondnacht-Kummer / Frühlingswind / Blume in der Regennacht) werden bis heute gesungen. 1939 wechselte er an die Qionglin-Volksschule in Hsinchu. Er starb am 11. Juni 1944 im Zhudong-Krankenhaus, 39 Jahre alt.",
+    "category": "de",
+    "tags": [
+      "Musik",
+      "taiwanesische Volkslieder",
+      "Komponist",
+      "japanische Kolonialzeit",
+      "Taoyuan",
+      "Hakka"
+    ],
+    "url": "https://taiwan.md/de/people/deng-yu-xian-taiwanese-song-composer",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/deng-yu-xian-taiwanese-song-composer.md"
+  },
+  {
     "title": "Deng Yuxian: Hakka 1906, Four Songs of the Four Months — Thirty-Nine Years of the Father of Taiwanese Ballads",
     "description": "Born July 21, 1906, into a Hakka family in Longtan, Taoyuan; original name Deng Bingyan. Graduated from normal school and was recruited by Columbia Records in 1933. His four masterworks — 'Four Seasons Red,' 'Moonlit Night Sorrow,' 'Longing for Spring Breeze,' and 'Flowers in the Rainy Night' — are still sung today. In 1939, he took a teaching position at Qionglin Public School in Hsinchu. He died June 11, 1944, at Zhudong Hospital, aged 39.",
     "category": "en",
@@ -41192,6 +41941,24 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "vi/Society/taipei-rat-problem.md"
+  },
+  {
+    "title": "Die zwei Seiten der Shengli-Straße: Von der Panzerbataillon-Putschversuch bis zum „großen Parkplatz“ in Hukou",
+    "description": "An der Shengli-Straße in Hsinchu-Hukou steht auf der einen Seite der Militärzaun für Panzer und politische Stürme, auf der anderen Seite für Wohnviertel, Versorgungseinrichtungen und das verschwundene Kino. Es ist eine lokale Geschichte über Nachbarschaft, Zufall und soziale Gerechtigkeit.",
+    "category": "de",
+    "tags": [
+      "Hukou-Zwischenfall",
+      "Hukou-Militärlager",
+      "Shengli-Straße",
+      "Hong-Zhongqiu-Fall",
+      "Star-Glanz-Truppe",
+      "Lokale Erinnerung"
+    ],
+    "url": "https://taiwan.md/de/history/hukou-camp-shengli-road-memory",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "de/History/hukou-camp-shengli-road-memory.md"
   },
   {
     "title": "Điểm nhấn chính xác 27 giây: Nguồn gốc thời phong kiến và di sản của mì thập cẩm cá hồi ở Tây Ninh",
@@ -46907,6 +47674,17 @@
     "path": "en/Food/hakka-food-culture.md"
   },
   {
+    "title": "Halbleiterindustrie: Eine 50-jährige Materialrevolution von der RCA-Technologietransferzeit zu GaN und Quantenverpackung",
+    "description": "Taiwan ist als Auftragsfertiger mit fortschrittlichen Prozessen weltweit führend, doch die Materialwissenschaften der nächsten 50 Jahre beginnen erst jetzt: GaN im Schnellladen, CoWoS im KI-Chip-Ökosystem und Kryomodulation über Quantenbits.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/technology/taiwan-semiconductor-industry",
+    "readingTime": 182,
+    "featured": true,
+    "date": "2026-05-25",
+    "path": "de/Technology/taiwan-semiconductor-industry.md"
+  },
+  {
     "title": "Han Kuo-yu",
     "description": "The first directly elected mayor in ROC constitutional history to be recalled, then became President of the Legislative Yuan four years later. What kind of political trajectory is this?",
     "category": "en",
@@ -48405,6 +49183,24 @@
   },
   {
     "title": "Hou Hsiao-hsien",
+    "description": "Ein Regisseur, der Großaufnahmen ablehnt und doch die Welt eroberte – ein Bildrevolutionär gegen die Filmgrammatik",
+    "category": "de",
+    "tags": [
+      "Hou Hsiao-hsien",
+      "Taiwan New Cinema",
+      "Goldener Löwe von Venedig",
+      "Festival von Cannes",
+      "Filmästhetik",
+      "Lange Einstellung"
+    ],
+    "url": "https://taiwan.md/de/people/hou-hsiao-hsien",
+    "readingTime": 54,
+    "featured": true,
+    "date": "2026-03-24",
+    "path": "de/People/hou-hsiao-hsien.md"
+  },
+  {
+    "title": "Hou Hsiao-hsien",
     "description": "The film poet who rejected close-ups yet conquered the world: a visual revolutionary against cinematic grammar",
     "category": "en",
     "tags": [],
@@ -48770,6 +49566,24 @@
     "path": "en/People/su-wei-hsieh-wimbledon-champion.md"
   },
   {
+    "title": "Hsieh Su-wei: Hsinchu 1986, Taiwans erste Grand-Slam-Siegerin und sieben Frauen-Doppel-Trophäen",
+    "description": "Geboren am 4. Januar 1986 in Hsinchu. Vater Hsieh Tzu-long (Busfahrer bei der Taiwan Motor Transport) starb im Oktober 2023. Karrierehöchste WTA-Einzelplatzierung: Nr. 23 (2013). Sieben Grand-Slam-Titel im Frauen-Doppel (2013 Wimbledon / 2014 French Open / 2019 Wimbledon / 2021 Wimbledon / 2023 French Open / 2023 Wimbledon / 2024 Australian Open). Erste Taiwanerin im Grand-Slam-Einzelhalbfinale (2021 Australian Open). 2025/7 Zweite im Wimbledon-Frauen-Doppel.",
+    "category": "de",
+    "tags": [
+      "Sport",
+      "Tennis",
+      "Wimbledon",
+      "Grand Slam",
+      "Frauen-Doppel",
+      "Profitennis"
+    ],
+    "url": "https://taiwan.md/de/people/su-wei-hsieh-wimbledon-champion",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/su-wei-hsieh-wimbledon-champion.md"
+  },
+  {
     "title": "Hsien Ching Chen: Tahun Ia Meraih 'Pendatang Baru Terbaik' di Golden Melody, Ia Telah Berkarya Selama Delapan Tahun",
     "description": "Lagu 〈Qingqing〉 telah melampaui empat juta penayangan tujuh tahun lalu, dan akun Instagram resmi Gucci muncul empat tahun sebelum album pertamanya. Saat ia dianugerahi Pendatang Baru Terbaik pada Golden Melody 37 di tahun 2026, ia berusia 27 tahun dan telah berkarya selama delapan tahun—dari mikrofon di komunitas musik mahasiswa hingga ''menjawab'' baris-baris penyair Xia Yu ke dalam rap, semuanya tanpa label rekaman. Oleh karena itu, protes \"tidak mengerti\" dari penonton malam itu bukanlah masalah artikulasi bicaranya, melainkan sebuah jalan yang belum terbiasa didengar. Yang baru bukanlah dirinya, melainkan jalan yang ia tempuh.",
     "category": "id",
@@ -49075,6 +49889,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/hsu-shu-ching-olympic-weightlifting-champion.md"
+  },
+  {
+    "title": "Hsu Shu-ching: Lunbei 1991, Taiwans erste Doppel-Olympiasiegerin im Gewichtheben der 53-kg-Klasse",
+    "description": "Geboren am 9. Mai 1991 in eine Hakka-Familie in der Gemeinde Lunbei im Landkreis Yunlin; 159 cm groß. Bei den Olympischen Spielen 2012 in London in der Frauenklasse bis 53 kg erreichte sie 219 kg (96 + 123) und gewann Silber; nachdem die Goldmedaillengewinnerin Zhao Changling (Kasachstan) die Doping-Nachkontrolle nicht bestand, wurde sie im Dezember 2020 zur Goldmedaillengewinnerin aufgewertet. 2016 in Rio gewann sie mit 212 kg (100 + 112) direkt Gold. Taiwans erste Doppel-Olympiasiegerin. Rücktritt am 3. Juni 2018. 2019 wegen einer Dopingprobe von 2017 für drei Jahre gesperrt (berührt die beiden Olympiasiege nicht).",
+    "category": "de",
+    "tags": [
+      "Sport",
+      "Gewichtheben",
+      "Olympia",
+      "Goldmedaille",
+      "53-kg-Klasse",
+      "Yunlin"
+    ],
+    "url": "https://taiwan.md/de/people/hsu-shu-ching-olympic-weightlifting-champion",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/hsu-shu-ching-olympic-weightlifting-champion.md"
   },
   {
     "title": "Hsu Wen-lung: Tainan 1928, Chi Mei Corporation 1959 ao Fundador do Museu com a Maior Coleção de Violinos do Mundo",
@@ -49397,6 +50229,24 @@
     "path": "pt/People/huang-chun-ming-taiwanese-literary-master.md"
   },
   {
+    "title": "Huang Chun-ming: Luodong 1935, vom „Tag am Meer“ bis zu „Die große Spielzeugpuppe des Sohnes“ – Chronist der kleinen Leute",
+    "description": "Geboren am 13. Februar 1935 in Luodong, Yilan. „Tag am Meer“ (1967) und „Die große Spielzeugpuppe des Sohnes“ (1969) stehen für das Kernthema der taiwanesischen Heimatliteratur: die Sorge um die kleinen Leute. 1977 die Nativismus-Debatte. Ausgezeichnet mit dem Wu-San-lien-Literaturpreis und dem Nationalen Literaturpreis. Zweiter Sohn Huang Kuo-chun (Schriftsteller) nahm sich am 20. Juni 2003 das Leben. Hou Hsiao-hsien brachte seine Werke 1983 auf die Leinwand. 2026 noch am Leben.",
+    "category": "de",
+    "tags": [
+      "Literatur",
+      "Heimatliteratur",
+      "Yilan",
+      "kleine Leute",
+      "Die große Spielzeugpuppe des Sohnes",
+      "Tag am Meer"
+    ],
+    "url": "https://taiwan.md/de/people/huang-chun-ming-taiwanese-literary-master",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/huang-chun-ming-taiwanese-literary-master.md"
+  },
+  {
     "title": "Huang Chunming: Luodong 1935, Penulis Tokoh Kecil dari \"Hari-hari Melihat Laut\" ke \"Boneka Besar Anak Laki-laki\"",
     "description": "Lahir pada 13 Februari 1935 di Luodong, Yilan. \"Hari-hari Melihat Laut\" (1967) dan \"Boneka Besar Anak Laki-laki\" (1969) mewakili perhatian inti sastra nativis Taiwan terhadap tokoh-tokoh kecil. Debat sastra nativis 1977. Memperoleh Penghargaan Sastra Wu San-lian dan Penghargaan Sastra Nasional. Putra kedua Huang Guojun (penulis) bunuh diri pada 20 Juni 2003. Hou Hsiao-hsien mengadaptasikan karyanya ke layar perak pada 1983. Masih hidup hingga 2026.",
     "category": "id",
@@ -49472,6 +50322,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "pt/People/huang-guang-xiong-educator.md"
+  },
+  {
+    "title": "Huang Kuo-chen",
+    "description": "Der Gründer von Pin Xue Tang setzt sich für die Förderung der Lesekompetenz in Taiwan ein und bemüht sich, das Dilemma „Prüfungswissen ohne Denken\" zu überwinden.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/huang-kuo-chen",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "de/People/huang-kuo-chen.md"
   },
   {
     "title": "Huang Kuo-chen",
@@ -49836,6 +50697,26 @@
     "featured": false,
     "date": "2026-03-27",
     "path": "fr/People/hung-hsing-fu.md"
+  },
+  {
+    "title": "Hung Sing-fu: Der zu früh verglühte Stern der Heimatliteratur",
+    "description": "1949 in eine arme Bauernfamilie in Erlin, Changhua, geboren, veröffentlichte Hung Sing-fu mit 18 seine erste Erzählung; bevor er mit 33 bei einem Autounfall starb, schuf er als Grundschullehrer Heimatliteratur und schrieb in nur 15 Jahren Klassiker wie „Schwarzgesicht Qing-tsai“, „Mein Boden“ und „Das Spiel endet“ – ein wahres Abbild des Übergangs des taiwanesischen Dorfes von der Landwirtschaft zur Industrie-Gesellschaft. Von Schriftstellerfreunden scherzhaft „Hung Sing-fuski“ genannt, wurde er eine unauslöschliche Stimme des Dorfes in der taiwanesischen Nachkriegsliteratur.",
+    "category": "de",
+    "tags": [
+      "Heimatliteratur",
+      "Schriftsteller",
+      "Romancier",
+      "Changhua",
+      "Landliteratur",
+      "Taiwanesische Literatur",
+      "Dorfmensch",
+      "Lehrer-Schriftsteller"
+    ],
+    "url": "https://taiwan.md/de/people/hung-hsing-fu",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "de/People/hung-hsing-fu.md"
   },
   {
     "title": "Hung Sing-fu: La estrella de la literatura rural que partió demasiado pronto",
@@ -50918,6 +51799,25 @@
   },
   {
     "title": "Jay Chou",
+    "description": "1997 hat ein schüchterner 18-jähriger Junge die Geschichte der chinesischsprachigen Popmusik neu geschrieben",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Jay Chou",
+      "Chinesischsprachige Popmusik",
+      "Sänger",
+      "Songwriting",
+      "R&B",
+      "China-Stil"
+    ],
+    "url": "https://taiwan.md/de/people/jay-chou",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/People/jay-chou.md"
+  },
+  {
+    "title": "Jay Chou",
     "description": "In 1997, a shy 18-year-old boy rewrote the history of Mandopop",
     "category": "en",
     "tags": [
@@ -51022,6 +51922,25 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "pt/People/chia-yung-chieh.md"
+  },
+  {
+    "title": "Jensen Huang",
+    "description": "Von einem Internat in Kentucky zum Fünf-Billionen-Dollar-Imperium – wie ein Junge aus Tainan, der Toiletten putzte, auf eine Zukunft setzte, die erst zehn Jahre später eintreffen würde.",
+    "category": "de",
+    "tags": [
+      "Jensen Huang",
+      "NVIDIA",
+      "KI",
+      "Halbleiter",
+      "Technologie",
+      "Tainan",
+      "GPU"
+    ],
+    "url": "https://taiwan.md/de/people/jensen-huang",
+    "readingTime": 107,
+    "featured": true,
+    "date": "2026-03-25",
+    "path": "de/People/jensen-huang.md"
   },
   {
     "title": "Jensen Huang",
@@ -51132,6 +52051,26 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "pt/People/jeremy-lin.md"
+  },
+  {
+    "title": "Jeremy Lin: Der Basketballweg vom 15-Tage-Doppel-Cut zum TPBL-Doppel-MVP-Rücktritt",
+    "description": "Highschool-Staatsmeister ohne Stipendium, im Draft übergangen, innerhalb von 15 Tagen zweimal gefeuert – dann lernte die ganze Welt „Linsanity“ kennen",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Basketball",
+      "Taiwanesisch-Amerikaner",
+      "NBA",
+      "Linsanity",
+      "Harvard University",
+      "P.League+",
+      "TPBL"
+    ],
+    "url": "https://taiwan.md/de/people/jeremy-lin",
+    "readingTime": 50,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "de/People/jeremy-lin.md"
   },
   {
     "title": "Jeremy Lin: From Being Cut Twice in 15 Days to TPBL Double MVP — A Basketball Journey",
@@ -51383,6 +52322,25 @@
     "path": "en/People/jin-enoki.md"
   },
   {
+    "title": "Jin (Enoki)",
+    "description": "Mit Erzählungen über ihr Leben in Taiwan baute sie millionenschwere Wirkung auf und machte aus „Koreaner in Taiwan“ einen Content-Typ, der nicht mehr nur eine Schlagzeile ist, sondern im Alltag angesehen werden kann.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Jin (Enoki)",
+      "Korea",
+      "YouTuber",
+      "Koreaner in Taiwan",
+      "Neue Medien",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/jin-enoki",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/jin-enoki.md"
+  },
+  {
     "title": "Jin Enoki",
     "description": "Con una influencia acumulada de millones gracias a sus narrativas de vida en Taiwán, ella transformó «coreanos en Taiwán» de un titular de noticias a un tipo de contenido que puede verse cotidianamente.",
     "category": "es",
@@ -51584,6 +52542,17 @@
     "path": "vi/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
+    "title": "JJ Lin: Singapur 1981, vom „Jiangnan“ zur JJ20-Krone des chinesischsprachigen Mandopop",
+    "description": "Geboren am 27.03.1981 in Singapur. Mit 4 Jahren begann er Klavier zu lernen. 2003 Debütalbum „Musikreisender“ (1,2 Mio. in Asien). 2004 „Jiangnan“ / „Der zweite Himmel“ (1,8 Mio.). 2024/04 Herzerkrankung, benötigt tägliche Medikamente. JJ20-FINAL-LAP-Tour (2024–25, 40 Städte, 77 Shows, 2,6 Mio. Zuschauer). 2024/11 Biografie „Jenseits der Noten: JJ Lins 20 Jahre“.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/jj-lin-singaporean-mandopop-king",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/jj-lin-singaporean-mandopop-king.md"
+  },
+  {
     "title": "JJ Lin: Singapura 1981, de \"Jiangnan\" ao JJ20, o rei da criação mandopop",
     "description": "Nasceu em 27/3/1981 em Singapura. Aos 4 anos começou piano. 2003 álbum de estreia \"Music Voyager\" (1,2 milhões na Ásia). 2004 \"Second Heaven\"/\"Jiangnan\" (1,8 milhões). Abril 2024 revelou doença cardíaca requer medicação diária. Turnê JJ20 FINAL LAP (2024-25, 40 cidades, 77 shows, 2,6 milhões de espectadores). Novembro 2024 biografia \"Beyond the Notes: 20 Anos de JJ Lin\".",
     "category": "pt",
@@ -51617,6 +52586,23 @@
     "path": "fr/People/jody-chiang.md"
   },
   {
+    "title": "Jody Chiang: Aus dem Schwefeldampf von Beitou zur Diva des taiwanesischen Hokkien-Pop – und ihr neunjähriger stiller Kampf",
+    "description": "Vom Singen in den Kneipen Beitous mit 10 Jahren bis zur taiwanesischen Hokkien-Königin mit Millionenverkäufen: Jody Chiang schrieb mit ihrer Stimme den Status der Alltagskultur Taiwans neu – und gab auf dem Höhepunkt ihren Abschied von der Bühne wegen eines geheimen Kampfes gegen den Krebs bekannt.",
+    "category": "de",
+    "tags": [
+      "Jody Chiang",
+      "taiwanesischer Hokkien-Pop",
+      "Golden Melody Award",
+      "Beitou Nakasi",
+      "Taiwanische Kultur"
+    ],
+    "url": "https://taiwan.md/de/people/jody-chiang",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "de/People/jody-chiang.md"
+  },
+  {
     "title": "Jody Chiang: Da fumaça de enxofre de Peitou surge a rainha do pop taiwanês, e sua guerra secreta de nove anos",
     "description": "Aos 10 anos, cantando em casas de chá de Peitou, até se tornar a rainha do pop taiwanês com vendas de um milhão, Jody Chiang reescreveu o status da cultura popular de Taiwan com sua voz, mas no auge escolheu se aposentar devido a uma batalha secreta contra o câncer.",
     "category": "pt",
@@ -51648,6 +52634,24 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "People/Joeman.md"
+  },
+  {
+    "title": "Jolin Tsai",
+    "description": "Die Diva, die kein Genie ist – von einer Tanzlehrerin als „kein Talent zum Tanzen“ abgestempelt, wurde sie 25 Jahre später die meistausgezeichnete Sängerin-Tänzerin in der Geschichte der Golden Melody Awards.",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Sängerin",
+      "Showbusiness",
+      "LGBTQ+-Rechte",
+      "Popmusik",
+      "Golden Melody Award"
+    ],
+    "url": "https://taiwan.md/de/people/jolin-tsai",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "de/People/jolin-tsai.md"
   },
   {
     "title": "Jolin Tsai",
@@ -53503,6 +54507,27 @@
     "path": "en/People/kuo-hsing-chun-olympic-weightlifting-champion.md"
   },
   {
+    "title": "Kuo Hsing-chun: Vom Gewicht von 141 kg, das sie traf, zur dreifachen olympischen Medaillengewinnerin im Gewichtheben",
+    "description": "Taiwanesische Gewichtheberin, Medaillengewinnerin bei drei Olympischen Spielen (Bronze 2016, Gold 2021, Bronze 2024), Weltrekordhalterin in der Klasse bis 59 kg, Nachfahrin des Amis-Stammes Malan",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Kuo Hsing-chun",
+      "Gewichtheben",
+      "Olympia",
+      "Goldmedaille",
+      "Sportlerin",
+      "Taiwan",
+      "Amis",
+      "Indigene Völker"
+    ],
+    "url": "https://taiwan.md/de/people/kuo-hsing-chun-olympic-weightlifting-champion",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/kuo-hsing-chun-olympic-weightlifting-champion.md"
+  },
+  {
     "title": "Kuo Hung-chih: Home Run MLB Pertama Taiwan & All-Star, Siku Berkata Tidak Tapi Dia Tetap Melempar",
     "description": "Lahir 23 Juli 1981, Kuo Hung-chih adalah pemain bisbol Taiwan keempat yang naik ke MLB, dan juga pemain pertama dalam sejarah Taiwan yang memukul home run di Liga Mayor serta pertama yang terpilih ke MLB All-Star Game. Karirnya di Los Angeles Dodgers sebagai pitcher kiri kunci bullpen, pada 2010 mencatat ERA 1.20 yang luar biasa, namun cedera berulang memakahkan siku berhenti, dan dia selalu kembali.",
     "category": "id",
@@ -54164,6 +55189,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Nature/taiwanese-black-bear.md"
+  },
+  {
+    "title": "La aduana taiwanesa y EZ WAY: cuando pulsas «declaración conforme», ¿a quién estás dando poder?",
+    "description": "El móvil vibra, la notificación muestra una lista de artículos que apenas entiendes, pulsas «declaración conforme» y lo que has completado, legalmente, es un mandato de despacho aduanero. En Taiwán hay 7,59 millones de personas registradas en esa app; en agosto de 2026, tras una publicación que estalló en redes, muchas fueron por primera vez a averiguar quién la opera: Trade-Van Information Services, una empresa cotizada en la que el Ministerio de Finanzas posee el 36,11 %, sin llegar a la mayoría. Al mismo tiempo, el Gobierno propone por segunda vez rebajar el umbral de exención de 2.000 NT$. ¿Quién ha pagado la factura de este atajo y quién no ha llegado a tomar la palabra en ningún momento?",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/ezway",
+    "readingTime": 201,
+    "featured": true,
+    "date": "2026-08-04",
+    "path": "es/Lifestyle/ezway.md"
   },
   {
     "title": "La Banda Labor Exchange",
@@ -55454,17 +56490,6 @@
     "path": "fr/History/taiwan-transitional-justice.md"
   },
   {
-    "title": "La leche de soja y las tiendas de desayuno en Taiwán",
-    "description": "Un grupo de veteranos de Shandong vendía leche de soja desde un puesto ambulante en el puente de Yonghe. 70 años después, \"Yonghe\" se convirtió en sinónimo de desayuno chino en todo el mundo. Pero nunca fue una marca: fue el nombre de un lugar.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 72,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "es/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
     "title": "La légende d'amour entre Mazu et Da Dao Gong : la prévision météorologique la plus romantique de Taïwan",
     "description": "« Le vent de Da Dao Gong, la pluie de Mazu » n'est pas qu'un proverbe météo ; il cache une histoire d'amour et de rancœur entre divinités.",
     "category": "fr",
@@ -55903,6 +56928,17 @@
     "path": "fr/Society/taiwan-judicial-reform-and-preventive-detention.md"
   },
   {
+    "title": "La révolution des papilles : comment les marques internationales se sont taïwanisées, de la soupe de maïs de McDonald's au « Wanjiafu » de Carrefour",
+    "description": "De la soupe de maïs de McDonald's aux pizzas « insolites » de Pizza Hut, comment les marques internationales se sont-elles intégrées à la vie taïwanaise par la localisation ? Cet article traverse la restauration rapide, la grande distribution et les supérettes pour analyser la manière dont ces enseignes transforment les tensions culturelles en atouts, avec une mise à jour sur le repositionnement de Carrefour, rebaptisé « Wanjiafu » et « Lejiakang ».",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/international-brand-localization-taiwan",
+    "readingTime": 109,
+    "featured": false,
+    "date": "2026-07-29",
+    "path": "fr/Food/international-brand-localization-taiwan.md"
+  },
+  {
     "title": "La sabiduría ecológica indígena de Taiwán y la conservación ambiental",
     "description": "Exploración del conocimiento ecológico tradicional acumulado por los pueblos indígenas de Taiwán a lo largo de milenios, así como su valor y sus formas de aplicación en la conservación ambiental contemporánea",
     "category": "es",
@@ -56266,6 +57302,24 @@
     "path": "en/People/lai-ching-te.md"
   },
   {
+    "title": "Lai Ching-te: Vom Sohn einer Bergmannsfamilie zum öffentlichen Gesundheitsarzt im Präsidentenpalast",
+    "description": "Der 16. Präsident der Republik China (Taiwan) und der erste Politiker in der Verfassungsgeschichte, der als Vizepräsident für das Präsidentenamt kandidierte und die Wahl gewann",
+    "category": "de",
+    "tags": [
+      "Präsident",
+      "Arzt",
+      "Politiker",
+      "Demokratische Fortschrittspartei",
+      "Öffentliches Gesundheitswesen",
+      "Tainan"
+    ],
+    "url": "https://taiwan.md/de/people/lai-ching-te",
+    "readingTime": 74,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "de/People/lai-ching-te.md"
+  },
+  {
     "title": "Lai Ho : le « Mazu de Changhua » en tenue locale, et sa balance qui ne céda jamais",
     "description": "À la veille du Nouvel An de 1943, Lai Ho, médecin renommé de Changhua, brûla comme à son habitude les factures impayées de ses patients les plus démunis. Ce médecin, salué comme le « père de la littérature taïwanaise moderne », sauva des vies au scalpel sous l'oppression coloniale tout combattant l'injustice de sa plume. Son œuvre Une « balance » demeure aujourd'hui un symbole culturel de la résistance taïwanaise face à la violence du pouvoir.",
     "category": "fr",
@@ -56286,6 +57340,24 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "id/People/lai-ho-father-of-taiwanese-literature.md"
+  },
+  {
+    "title": "Lai Ho: Der „Mazu von Changhua“ im Inselkleid und sein unverbiegsamer Waagebalken",
+    "description": "Kurz vor dem Neujahrsabend 1943 verbrannte der berühmte Arzt Lai Ho aus Changhua wie jedes Jahr die Schuldenrechnungen seiner armen Patienten. Dieser als „Vater der neuen taiwanesischen Literatur“ gefeierte Arzt rettete unter dem Druck der Kolonialherrschaft mit dem Skalpell Menschen und kritisierte mit dem Stift das Unrecht; sein Werk „Ein Waagebalken“ (一桿「稱仔」) ist bis heute das kulturelle Symbol Taiwans im Widerstand gegen Gewalt der Macht.",
+    "category": "de",
+    "tags": [
+      "Lai Ho",
+      "Taiwanesische Literatur",
+      "Changhua",
+      "Japanische Kolonialzeit",
+      "Medizingeschichte",
+      "Soziale Bewegung"
+    ],
+    "url": "https://taiwan.md/de/people/lai-ho-father-of-taiwanese-literature",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "de/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
     "title": "Lai Ho: el \"Mazu de Changhua\" vestido con la camisa de la isla, y su balanza que nunca transigió",
@@ -57035,17 +58107,6 @@
     "path": "fr/Geography/sun-moon-lake.md"
   },
   {
-    "title": "Le lait de soja et les cafés du matin à Taïwan",
-    "description": "Des soldats originaires du Shandong poussaient leurs charrettes au pied du pont de Yonghe pour vendre du lait de soja. Soixante-dix ans plus tard, « Yonghe » est devenu le synonyme mondial du petit-déjeuner chinois — sans jamais avoir été une marque, simplement un nom de lieu.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 78,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "fr/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
     "title": "Le Lycée Tamkang : comment un seul campus condense l'histoire de l'éducation à Taïwan",
     "description": "Ce qui rend le Lycée Tamkang digne d'être écrit, ce n'est pas son ancienneté, mais le fait qu'il a inscrit sur un même campus les tensions entre mission évangélisatrice, éducation des femmes et système colonial.",
     "category": "fr",
@@ -57642,6 +58703,17 @@
   },
   {
     "title": "Lee Ah-young",
+    "description": "Eine der Vertreterinnen der „langfristig bleibenden“ koreanischen Cheerleaderinnen: Im Fubon-System wandelte sie hohe Sichtbarkeit in hohe Stabilität um und wurde zum doppelten Kern von Stadion und kommerziellem Content.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/lee-ah-young",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/lee-ah-young.md"
+  },
+  {
+    "title": "Lee Ah-young",
     "description": "One of the defining representatives of Korean cheer squad 'long-stay' performers in Taiwan, she converted high visibility into high stability within the Fubon system — becoming a dual core of both ballpark performance and commercial content.",
     "category": "en",
     "tags": [],
@@ -57694,6 +58766,25 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "pt/People/li-chih-kai.md"
+  },
+  {
+    "title": "Lee Da-hye",
+    "description": "Vom Cheerleading in der koreanischen Liga bis zur führenden Repräsentantin der Stadion-Unterstützung im taiwanesischen Profibaseball: Sie verwandelte „Auswärts-Popularität“ in ein neues Muster langfristiger Entwicklung vor Ort im Korean-Wave-Kontext.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Lee Da-hye",
+      "Korea",
+      "Cheerleading",
+      "CPBL",
+      "Wei Chuan Dragons",
+      "Dragon Beauties"
+    ],
+    "url": "https://taiwan.md/de/people/lee-da-hye",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/lee-da-hye.md"
   },
   {
     "title": "Lee Da-hye",
@@ -57763,6 +58854,25 @@
   },
   {
     "title": "Lee Ho-jung",
+    "description": "Mit hoher Einsatzquote und hoher Wiedererkennbarkeit kehrte sie zu Fubon zurück – sie repräsentiert, wie koreanische Cheerleaderinnen in Taiwan vom „Gastauftritt“ zum „festen Bestandteil“ wurden.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Lee Ho-jung",
+      "Korea",
+      "Cheerleading",
+      "Fubon Guardians",
+      "Fubon Angels",
+      "CPBL"
+    ],
+    "url": "https://taiwan.md/de/people/lee-ho-jung",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/lee-ho-jung.md"
+  },
+  {
+    "title": "Lee Ho-jung",
     "description": "Returning to Fubon with high attendance and high recognition, she embodies Korean cheerleaders in Taiwan shifting from 'guest spot' to 'fixed roster.'",
     "category": "en",
     "tags": [],
@@ -57793,6 +58903,25 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "fr/People/lee-ho-jung.md"
+  },
+  {
+    "title": "Lee Ju-eun",
+    "description": "Vom Hype der „AI-Göttin“ zur vollen Entwicklung in Taiwan: Ihr Weg hat die Vorstellung davon, wie koreanische Cheerleaderinnen in der CPBL bleiben können, neu geschrieben.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Lee Ju-eun",
+      "Korea",
+      "Cheerleading",
+      "Fubon Guardians",
+      "Fubon Angels",
+      "CPBL"
+    ],
+    "url": "https://taiwan.md/de/people/lee-ju-eun",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/lee-ju-eun.md"
   },
   {
     "title": "Lee Ju-eun (李珠珢)",
@@ -57870,6 +58999,22 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/li-guoxiu.md"
+  },
+  {
+    "title": "Lee Teng-hui",
+    "description": "Das widersprüchliche Leben vom Agrarökonomprofessor zum ersten demokratischen Führer der chinesischen Welt",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Politik",
+      "Demokratisierung",
+      "Präsident"
+    ],
+    "url": "https://taiwan.md/de/people/lee-teng-hui",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "de/People/lee-teng-hui.md"
   },
   {
     "title": "Lee Teng-hui",
@@ -58720,6 +59865,24 @@
     "path": "fr/People/li-ang.md"
   },
   {
+    "title": "Li Ang: Lugang 1952 – mit „Der Frauenmörder“ die Wegbereiterin der taiwanesischen feministischen Literatur",
+    "description": "1952 in Lugang, Changhua, geboren; bürgerlicher Name Shih Shu-tuan. 1983 erschien „Der Frauenmörder“ (殺夫) als Fortsetzungsroman in der Tageszeitung United Daily News und erschütterte die taiwanesische Literaturszene mit dem Thema häusliche Gewalt. 1991 folgte „Der Irrgarten“ (迷園). 2004 wurde sie zum Ritter des französischen Ordens für Kunst und Literatur ernannt. Ihre Werke wurden ins Englische, Französische, Deutsche und Japanische übersetzt – sie ist eine der international am stärksten beachteten taiwanesischen Schriftstellerinnen.",
+    "category": "de",
+    "tags": [
+      "Literatur",
+      "Feministische Literatur",
+      "Der Frauenmörder",
+      "Der Irrgarten",
+      "Lugang",
+      "Geschlechterfragen"
+    ],
+    "url": "https://taiwan.md/de/people/li-ang",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/li-ang.md"
+  },
+  {
     "title": "Li Ang: Lukang 1952, \"Shafu\" Membuka Jalan bagi Sastra Feminis Taiwan",
     "description": "Lahir 1952 di Lukang, Changhua, nama asli Shi Shutuan. 1983 \"Shafu\" dimuat di United Daily News, mengguncang dunia sastra Taiwan dengan tema kekerasan dalam rumah tangga. 1991 \"Miyuan\". 2004 menerima Bintang Kehormatan Seni dan Sastra Prancis derajat Ksatria. Karya diterjemahkan ke bahasa Inggris, Prancis, Jerman, Jepang, dll., menjadikannya salah satu penulis wanita Taiwan paling mendapat perhatian internasional.",
     "category": "id",
@@ -58860,6 +60023,24 @@
   },
   {
     "title": "Li Mei-shu",
+    "description": "Ein Maler, der 36 Jahre lang einen Tempel baute und die akademische Ästhetik in die Volksreligion trug",
+    "category": "de",
+    "tags": [
+      "Kunst",
+      "Bildende Kunst",
+      "Sanxia",
+      "Zushi-Tempel",
+      "Realismus",
+      "Taiwan-Fine-Arts-Ausstellung"
+    ],
+    "url": "https://taiwan.md/de/people/li-mei-shu",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/People/li-mei-shu.md"
+  },
+  {
+    "title": "Li Mei-shu",
     "description": "An artist who spent 36 years building a temple, bringing academic aesthetics into folk religion",
     "category": "en",
     "tags": [],
@@ -58978,6 +60159,25 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "fr/People/lee-yuan-tseh.md"
+  },
+  {
+    "title": "Li Yuan-che: Taiwans erster Nobelpreisträger der Naturwissenschaften",
+    "description": "1986 Nobelpreis für Chemie – mit der Kreuzmolekularstrahl-Technik eröffnete er ein neues Feld der chemischen Kinetik; der erste taiwanesische Naturwissenschaftler, der einen Nobelpreis erhielt",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Li Yuan-che",
+      "Nobelpreis",
+      "Chemie",
+      "Wissenschaftler",
+      "Academia Sinica",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/lee-yuan-tseh",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "de/People/lee-yuan-tseh.md"
   },
   {
     "title": "Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con \"La mujer del verdugo",
@@ -59229,6 +60429,24 @@
     "path": "vi/Art/history-of-taiwanese-literature.md"
   },
   {
+    "title": "Lieber ausbrennen als verrosten: Mackay und sein geliebtes Formosa",
+    "description": "Vom Ziehen von 20.000 Zähnen bis zur Gründung einer Mädchenschule: wie der kanadische Missionar Mackay zum „waschechten Taiwaner“ wurde und mit dreißig Lebensjahren die Geschichte von Medizin, Bildung und naturwissenschaftlicher Erforschung Nordtaiwans umschrieb.",
+    "category": "de",
+    "tags": [
+      "Mackay",
+      "Tamsui",
+      "Taiwanesische Geschichte",
+      "Medizin",
+      "Bildung",
+      "Naturwissenschaft"
+    ],
+    "url": "https://taiwan.md/de/people/george-leslie-mackay",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "de/People/george-leslie-mackay.md"
+  },
+  {
     "title": "Liên Anh: Từ \"mức vũ đạo của một nhóm nhạc nữ\" đến EP solo sau sáu năm",
     "description": "Năm 2020, một cô gái Đài Trung hai mươi lăm tuổi trên sân khấu chọn người nói với Phan Vệ Bá: \"Tôi muốn cho mọi người biết mức vũ đạo của một nhóm nhạc nữ.\" Sáu năm sau cô có EP solo của riêng mình, các fan tập hợp vốn ở Đại Tào Đình để tổ chức sân khấu sinh nhật, đồng thời quảng cáo hỗ trợ được phát hành ở ba quốc gia. Cô đang hiện thực hóa lời nói đó.",
     "category": "vi",
@@ -59373,6 +60591,23 @@
     "path": "en/People/lim-giong.md"
   },
   {
+    "title": "Lim Giong: Vom Bahnsteig von „Vorwärts“ zu den Goldenen Pferden – dreißig Jahre Flucht des taiwanesischen Rockrebellen",
+    "description": "Am 7. Dezember 1990 verwandelte der 26-jährige Lin Chih-feng aus Changhua mit „Vorwärts“ (向前走) den taiwanesischsprachigen Song vom Klageton in Rock; drei Jahre später sang er fast nicht mehr. Von „Goodbye South, Goodbye“ bis „Der Killer“ (刺客聶隱娘): vier Goldene Pferde, ein Cannes-Soundtrack-Preis, der Nationale Kunstpreis 2018 – in dreißig Jahren faltete er seine Star-Identität zusammen und wurde zu dem Mann hinter Hou Hsiao-hsien und Jia Zhangke, der an den Synthesizern sitzt.",
+    "category": "de",
+    "tags": [
+      "Musik",
+      "Elektronische Musik",
+      "Filmmusik",
+      "Klangkunst",
+      "Taiwanesisch"
+    ],
+    "url": "https://taiwan.md/de/people/lim-giong",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "de/People/lim-giong.md"
+  },
+  {
     "title": "Limonada con canica: Un siglo de burbujas en el frasco de vidrio y el sonido «pop» de la infancia en Taiwán",
     "description": "Desde el laboratorio británico del siglo XIX hasta las aguas frías naturales de Su'ao, la limonada con canica no es solo una bebida carbonatada, sino una sinfonía cultural sobre la presión física, la jerarquía de la era colonial japonesa y la fe en el Príncipe Sanzhai.",
     "category": "es",
@@ -59433,6 +60668,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/lin-bai-li.md"
+  },
+  {
+    "title": "Lin Bai-li: Shanghai 1949, Gründer von Quanta Computer und der Notebook-ODM-König im zwanzigjährigen Kampf gegen Krebs",
+    "description": "Geboren am 24. April 1949 in Shanghai. Gründete 1988 gemeinsam mit Liang Ci-zhen u. a. Quanta Computer. 2005 wurde Lungenadenokarzinom diagnostiziert (inzwischen über 20 Jahre Krebskampf). Quantas Umsatz überstieg 2025 die 2 Billionen NT$; wichtiger Serverpartner von NVIDIA; in der Fortune 500. Die Nachfolge durch seinen Sohn rückt in den Fokus. 2026 ist er weiterhin Vorstandsvorsitzender.",
+    "category": "de",
+    "tags": [
+      "Technologie und Unternehmen",
+      "Quanta Computer",
+      "ODM-Auftragsfertigung",
+      "Künstliche Intelligenz",
+      "Lungenadenokarzinom"
+    ],
+    "url": "https://taiwan.md/de/people/lin-bai-li",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/lin-bai-li.md"
   },
   {
     "title": "Lin Bai-li: Xangai 1949, fundador da Quanta Computer e rei da fabricação de notebooks que luta contra o câncer há 20 anos",
@@ -59578,6 +60830,23 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "en/People/lin-hwai-min.md"
+  },
+  {
+    "title": "Lin Hwai-min",
+    "description": "Ein Schriftsteller erschuf die erste moderne Tanzkompanie der chinesischsprachigen Welt – und hielt sie über 50 Jahre am Leben.",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Tanz",
+      "Kunst",
+      "Darstellende Kunst",
+      "Cloud Gate Dance Theatre of Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/lin-hwai-min",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/People/lin-hwai-min.md"
   },
   {
     "title": "Lin Hwai-min",
@@ -61000,6 +62269,25 @@
     "path": "pt/People/lung-ying-tai.md"
   },
   {
+    "title": "Lung Ying-tai: Daliao 1952, vom „Wildfeuer-Band“ (野火集) zur ersten Kulturministerin Taiwans – die öffentliche Intellektuelle",
+    "description": "Lung Ying-tai wurde am 13. Februar 1952 im Kreis Daliao, Landkreis Kaohsiung (heute Bezirk Daliao, Kaohsiung), geboren; ihre Heimat ist Hengshan, Hunan, Vater Lung Huai-sheng war Hunaner, Mutter Ying Mei-chun stammte aus Chun''an, Zhejiang.[^1] Master of English and American Literature an der Kansas State University; zum Doktor existieren zwei Versionen nebeneinander (PhD Englisch Kansas State oder PhD Germanistik NYU), P0⚠️ Hinweis zur weiteren Verifikation.[^1] Im Dezember 1985 wurde „Wildfeuer-Band“ erstmals als Buch veröffentlicht – 21 Tage, 24 Nachauflagen, in 4 Monaten über 100.000 Exemplare.[^2] 2009 erschien „Das große Flussgroße Meer 1949“ (大江大海一九四九).[^3] 2012 nahm sie die Ernennung von Präsident Ma Ying-jeou an und wurde die erste Kulturministerin Taiwans, bis sie 2014 zurücktrat.[^4]",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Lung Ying-tai",
+      "Literatur",
+      "Public Intellectual",
+      "Kulturministerin",
+      "Wildfeuer-Band",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/lung-ying-tai",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/lung-ying-tai.md"
+  },
+  {
     "title": "Luo Di Shan (Lodi Mountain)",
     "description": "Taiwan's closest mud volcano badland to the coastline; a former military fortress turned natural park featuring active mud vents and stunning seascape trails.",
     "category": "en",
@@ -62405,6 +63693,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/ming-hua-yuan.md"
+  },
+  {
+    "title": "Ming Hwa Yuan: 1929 in Tainan gegründet – das Taiwan-Opern-Imperium der Familie Chen über vier Generationen",
+    "description": "1929 von Chen Ming-chi in Tainan gegründet, 1962 nach Chaozhou, Pingtung, verlegt. Die zweite Generation mit Chen Sheng-fu führte moderne Bühnentechnik ein und brachte die Taiwan-Oper (Koa-á-hì) ins Nationaltheater. Acht Unterensembles (Himmel, Erde, Mystik, Gelb, Sonne, Mond, Sterne, Drachen). Mit „Das Ende des Spiels“ (2024) in die vierte Aufführungsserie zur Feier des 95. Gründungsjahres.",
+    "category": "de",
+    "tags": [
+      "Kunst und Design",
+      "Taiwan-Oper",
+      "Traditionelle Kunst",
+      "Darstellende Kunst",
+      "Vier-Generationen-Tradition"
+    ],
+    "url": "https://taiwan.md/de/people/ming-hua-yuan",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/ming-hua-yuan.md"
   },
   {
     "title": "Ming Hwa Yuan: Didirikan 1929 di Tainan, Empat Generasi Kekaisaran Kogezi Keluarga Chen",
@@ -63893,6 +65198,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "vi/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
+  },
+  {
+    "title": "Nam Min-jeong",
+    "description": "Die koreanische Repräsentantin im Fubon-System, die über mehrere Saisons bestehen blieb, verwandelte kurzfristige Aufmerksamkeit in einen verlässlichen, planbaren Auftritt als professionelles Cheerleading-Beispiel.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/nam-min-jung",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/nam-min-jung.md"
   },
   {
     "title": "Nam Min-jeong",
@@ -66327,6 +67643,24 @@
     "path": "en/People/pai-hsien-yung-literary-master.md"
   },
   {
+    "title": "Pai Hsien-yung: von „Menschen von Taipei“ 1971 bis zur 20-jährigen Tournee von „Der Päonien-Pavillon“ in der Jugendfassung",
+    "description": "1937 in Guilin, Guangxi, geboren, Sohn von Pai Chung-hsi. 1956 Studium der Außensprachen an der National Taiwan University, Mitbegründer der Zeitschrift „Moderne Literatur“ zusammen mit Wang Wen-hsing u.a. 1971 „Menschen von Taipei“ (14 Kurzgeschichten). 1983 „Crystal Boys“ (孽子). 2003 Start der Jugendfassung des „Päonien-Pavillons“, Uraufführung April 2004, 2024 20-jähriges Jubiläum. 2003 National Art Award.",
+    "category": "de",
+    "tags": [
+      "Literatur",
+      "Moderne Literatur",
+      "Menschen von Taipei",
+      "Crystal Boys",
+      "Kunqu",
+      "Pai Chung-hsi"
+    ],
+    "url": "https://taiwan.md/de/people/pai-hsien-yung-literary-master",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/pai-hsien-yung-literary-master.md"
+  },
+  {
     "title": "Pain aux pommes : sur une île sans pommes, nourrir l’illusion d’une modernisation",
     "description": "Ce n’est pas seulement un morceau de pain, mais une expérience de modernisation menée dans le Taïwan des années 1960, dans le contexte de l’aide américaine, tissée de farine, de symboles et de résilience. En mobilisant la métaphore luxueuse de la « pomme » et une technique japonaise de déshydratation, le major à la retraite Liu Zheji transforma une ration militaire austère en mémoire nationale transgénérationnelle, révélant comment la société taïwanaise d’après-guerre utilisa des substituts pour combler l’écart avec la réalité.",
     "category": "fr",
@@ -66759,6 +68093,17 @@
   },
   {
     "title": "Park Min-seo",
+    "description": "Unter dem Namen „Mingo“ trat sie den Wing Stars bei, übernahm in der Heimspielstruktur der TSG Hung-Ying sowohl die Rolle der Cheerleading-Show-Direktorin als auch die eines koreanischen ausländischen Teammitglieds und zeigt einen alternativen Weg zur „Institutionalisierung ausländischer Spieler“ im CPBL-Cheerleading.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/park-min-seo",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/park-min-seo.md"
+  },
+  {
+    "title": "Park Min-seo",
     "description": "Joining the Wing Stars under the name \"Mingo,\" she serves as both performance director and a Korean foreign player within the TSG Hung-Ying home system, representing an alternative path toward the \"institutionalization of foreign players\" in CPBL cheerleading.",
     "category": "en",
     "tags": [],
@@ -66811,6 +68156,25 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "id/People/park-min-seo.md"
+  },
+  {
+    "title": "Park Seong-eun",
+    "description": "Vom Austauschgast zur offiziellen Verpflichtung bei Fubon: Mit schneller Anpassung und Bühnenstabilität wurde sie zur Vertreterin der neuen Generation unter den fünf koreanischen Stützen.",
+    "category": "de",
+    "tags": [
+      "Popkultur-Persönlichkeit",
+      "Park Seong-eun",
+      "Korea",
+      "Cheerleading",
+      "Fubon Guardians",
+      "Fubon Angels",
+      "CPBL"
+    ],
+    "url": "https://taiwan.md/de/people/park-sung-eun-actress",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "de/People/park-sung-eun-actress.md"
   },
   {
     "title": "Park Seong-eun (朴星垠)",
@@ -71632,6 +72996,24 @@
     "path": "fr/People/shih-ming-te.md"
   },
   {
+    "title": "Shih Ming-teh: 25 Jahre hinter Eisengittern, und am Ende hob er die Fahne gegen seine eigene Partei",
+    "description": "Shih Ming-teh saß in seinem Leben zweimal im Gefängnis, insgesamt über 25 Jahre. Nach dem Formosa-Zwischenfall 1979 verweigerte er vor dem Militärgericht das Schuldbekenntnis, bat um die Todesstrafe und wurde schließlich zu lebenslanger Haft verurteilt. Nach der Haftentlassung trug er zum Aufbau der Demokratischen Fortschrittspartei bei und war von 1994 bis 1996 deren Parteivorsitzender. 2006 initiierte er die Millionen-Menschen-Bewegung gegen Chen Shui-bian (die Rothemden) und hob die Fahne in jene Richtung, für die er einst gekämpft hatte. Am 15. Januar 2024 starb er an einem 83. Geburtstag an Leberkrebs.",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Shih Ming-teh",
+      "Demokratie",
+      "Formosa-Zwischenfall",
+      "Demokratische Fortschrittspartei",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/shih-ming-te",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/shih-ming-te.md"
+  },
+  {
     "title": "Shih Ming-teh: Dua Puluh Lima Tahun di Balik Jeruji Besi, Akhirnya Mengibarkan Bendera Melawan Partainya Sendiri",
     "description": "Pasca Peristiwa Formosa 1979, Shih Ming-teh sebagai pelaku utama di pengadilan militer berbicara dengan penuh semangat, tidak mengakui kesalahan, tidak meminta ampun, dan akhirnya dihukum penjara seumur hidup. Ia total menjalani penjara dua puluh lima tahun, menjadi salah satu korban paling penting gerakan demokrasi Taiwan. Namun pada 2006, orang yang membantu DPP merebut kekuasaan justru berbalik menggerakkan Gerakan Merah \"Turunkan Ah-bian\". Pada 15 Januari 2024, hari ulang tahun ke-83-nya, ia meninggal dunia membawa kontradiksi tak terpecahkan ini.",
     "category": "id",
@@ -72676,17 +74058,6 @@
     "path": "fr/Nature/Taiwan Hot Springs and Geothermal Energy.md"
   },
   {
-    "title": "Soy Milk and Breakfast Shops in Taiwan",
-    "description": "From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 23,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "en/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
     "title": "Soy OO: la página que te llama “compañero” tiene como backend una empresa en Neihu y una instrucción de IA que se olvidó borrar",
     "description": "En febrero de 2026, una página local que se autodenominaba “Soy de Taipéi” dejó una instrucción de IA sin eliminar: «Eliminar palabras sensibles, reforzar el lenguaje local de Taiwán». Siguiendo esa pista, el rastro lleva a una empresa familiar Lin ubicada en un edificio de Neihu, que reescribe las noticias de CTWANT y Zhongtian con tono de “compañero” y las publica en páginas que fingen ser locales de distintos municipios. No falsifica noticias, solo redistribuye noticias reales; el problema radica en que el origen y el flujo de dinero son imposibles de rastrear, y los expertos taiwaneses más hábiles en detectar operaciones de cognición advierten: no etiquetes apresuradamente.",
     "category": "es",
@@ -72916,6 +74287,25 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "en/People/stefanie-sun.md"
+  },
+  {
+    "title": "Stefanie Sun: Mit einer Stimme Vorsprung vor Jay Chou, 1000 Songs mit KI nachgeahmt – sie sagt „sich selbst zu bleiben, genügt“",
+    "description": "Am 9. Juni 2000 debütierte ein singapurisches Mädchen mit „Heavenly Black“ in Taiwan; das Debütalbum erreichte mit 330.000 Exemplaren den Jahresverkaufschampion. Im folgenden Jahr besiegte sie bei den Golden Melody Awards Jay Chou um eine Stimme und gewann den Preis für den besten Newcomer; vier Jahre später war sie mit „Stefanie“ die erste Doppelpreisträgerin in der Geschichte der Golden Melody Awards – „bester Newcomer und beste Sängerin“. 2023 ließen KI-Stimmen sie über 1000 Lieder singen; ihre einzige Antwort war: „Sich selbst zu bleiben, genügt.“",
+    "category": "de",
+    "tags": [
+      "Musik",
+      "Popmusik",
+      "Sängerin",
+      "Golden Melody Award",
+      "Singapur",
+      "Chinesischsprachige Musik",
+      "Künstliche Intelligenz"
+    ],
+    "url": "https://taiwan.md/de/people/stefanie-sun",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-04-19",
+    "path": "de/People/stefanie-sun.md"
   },
   {
     "title": "Stefanie Sun: venció a Jay Chou por 1 voz, la IA replicó 1000 voces y ella dijo \"ser yo misma es suficiente\"",
@@ -73423,17 +74813,6 @@
     "path": "es/People/su-wei-hsieh-wimbledon-champion.md"
   },
   {
-    "title": "Sữa đậu và cửa hàng bán sáng ở Đài Loan",
-    "description": "Một nhóm cựu quân nhân tỉnh Sơn Đông đẩy xe bán sữa đậu ở cầu Vĩnh Hòa, 70 năm sau đó \"Vĩnh Hòa\" trở thành từ đồng nghĩa với bữa sáng của người Hoa trên toàn cầu. Nhưng nó không bao giờ là một thương hiệu, mà là tên của một địa phương",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 64,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "vi/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
     "title": "Sữa dê Đài Loan: từ hộp giao hàng tươi buổi sáng tới con đường sữa dê nguyên chất được chứng nhận GGM",
     "description": "Năm 1979, Lý Minh Hưng bắt đầu với 6 con dê trên núi Quan Miểu và mở ra thời kỳ vàng ngành sữa dê Đài Loan. Từ những chiếc hộp giao hàng tươi xanh lục giữa sương sớm cho tới hãng Jia Nan Goat Milk chiếm 70% thị phần, chai sữa dê này ghi dấu ký ức tuổi thơ tập thể của người Đài Loan. Những năm gần đây, qua hoạt động \"Dê nhân viên\" trên mạng xã hội, ngành nông nghiệp truyền thống này đã bất ngờ bùng nổ trên Threads, thể hiện sức căng đặc thù khi nền công nghiệp cổ xưa va chạm với ngôn ngữ kỹ thuật số, đồng thời phản ánh áp lực chuyển đổi thực sự của ngành trong bối cảnh tỷ lệ sinh thấp.",
     "category": "vi",
@@ -73715,17 +75094,6 @@
     "path": "id/Economy/goat-milk-delivery.md"
   },
   {
-    "title": "Susu Kedelai dan Toko Sarapan Taiwan",
-    "description": "Seorang kelompok veteran tua dari Shandong menjual susu kedelai dengan gerobak di ujung Jembatan Yonghe. 70 tahun kemudian, \"Yonghe\" menjadi sinonim sarapan orang Tionghoa di seluruh dunia. Ternyata itu bukan sebuah merek, melainkan sebuah nama tempat",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 56,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "id/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
     "title": "Sweet Potato Balls: From Tang Dynasty Palaces to Beneath the Zhongzheng Bridge, the Resilience of Taiwan in a Hollow Sphere",
     "description": "The history of this golden sphere spans millennia, evolving from the Tang Dynasty''s \"Ludui\" to a 1970s Taiwanese accident of frugality. It is not merely a night market snack, but a physical experiment involving precise 130°C oil temperatures and starch gelatinization.",
     "category": "en",
@@ -73839,6 +75207,23 @@
     "path": "vi/People/sylvia-chang.md"
   },
   {
+    "title": "Sylvia Chang: Von Chiayi über die Original-Interpretin von „Kindheit“ zur Regisseurin von „Love Education“",
+    "description": "1953 in Chiayi geboren, startete Sylvia Chang mit 17 über „Tagträumer“ in die Schauspielkarriere. „Kindheit“ (Komposition: Lo Ta-yu, 1981) ist ihr Lied; „Der Preis der Liebe“ (Komposition: Jonathan Lee, 1992) ist ihr bekanntester Hit. 1986 gewann sie für „Mein bestes Jahr“ den Golden-Horse-Preis als beste Hauptdarstellerin; 2017 war sie für „Love Education“ als beste Regisseurin und für das beste Originaldrehbuch nominiert. Über fünfzig Jahre als Schauspielerin, Regisseurin und Sängerin.",
+    "category": "de",
+    "tags": [
+      "Film",
+      "Regisseurin",
+      "Schauspielerin",
+      "Sängerin",
+      "Drehbuch"
+    ],
+    "url": "https://taiwan.md/de/people/sylvia-chang",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/sylvia-chang.md"
+  },
+  {
     "title": "Système démocratique : de la levée de la loi martiale en 1987 à Lai Ching-te en 2024, les repères de trente-sept ans de démocratie taïwanaise",
     "description": "Taïwan a connu 38 ans de régime autoritaire à partir de l'instauration de la loi martiale en 1949, levée le 15 juillet 1987 ; la première élection présidentielle au suffrage direct a eu lieu en 1996 (Lee Teng-hui), puis la première alternance partisane en 2000 (Chen Shui-bian). Le 17 mai 2019, Taïwan est devenu le premier territoire d'Asie à légaliser le mariage entre personnes de même sexe. Le 13 janvier 2024, Lai Ching-te a été élu 16e président avec 40,05 % des voix et 5,58 millions de suffrages, offrant au Parti démocrate progressiste une première troisième victoire consécutive ; le Kuomintang a repris la première place au Yuan législatif (52 sièges), devant le Parti démocrate progressiste (51 sièges) et le Parti du peuple taïwanais (8 sièges), sans majorité pour aucun des trois partis.",
     "category": "fr",
@@ -73914,6 +75299,25 @@
     "featured": false,
     "date": "2026-07-17",
     "path": "vi/About/why-taiwan-needs-its-own-knowledge-base.md"
+  },
+  {
+    "title": "Tai Tzu-ying",
+    "description": "Rekordhalterin mit 214 Wochen als Weltranglistenerste, die taiwanesische Badminton-Königin von Qianzhen, Kaohsiung, bis zur olympischen Silbermedaille",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Tai Tzu-ying",
+      "Badminton",
+      "Weltranglistenerste",
+      "Olympia",
+      "Sportlerin",
+      "Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/tai-tzu-ying",
+    "readingTime": 52,
+    "featured": true,
+    "date": "2026-03-21",
+    "path": "de/People/tai-tzu-ying.md"
   },
   {
     "title": "Tai Tzu-ying",
@@ -76431,8 +77835,8 @@
     "path": "en/Society/taiwan-diplomatic-allies-and-international-relations.md"
   },
   {
-    "title": "Taiwan's Drone Industry: From Taichung Toy Planes to the Blue List—How Thunder Tiger Secured an Entry Ticket",
-    "description": "On September 21, 2025, Thunder Tiger''s Overkill FPV kamikaze drone passed the U.S. Department of Defense Blue UAS Cleared List certification—the first and so far only company from Taiwan to do so. Out of 39 full platforms and 165 components on the list, Taiwan holds just one spot. In April 2026, four bipartisan U.S. Senators proposed the \"Blue Skies for Taiwan Act\" to establish a fast track for Taiwanese vendors; the very existence of this bill reveals that Taiwan is moving too slowly, requiring even the U.S. to legislate lower barriers. A company that made remote-controlled toy planes in Taichung for forty-six years is now planning its second factory in Ohio.",
+    "title": "Taiwan’s Drone Industry: Thunder Tiger and the Pentagon Blue UAS List",
+    "description": "How a 46-year-old Taichung model plane maker became Taiwan’s sole supplier on the Pentagon Blue UAS list, anchoring Taiwan in the non-red defense supply chain.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/technology/taiwan-drone-industry",
@@ -77866,8 +79270,8 @@
     "path": "pt/People/takeshi-kaneshiro.md"
   },
   {
-    "title": "Takeshi Kaneshiro: From an Unrecognized 'Member of the Public' to Asia's Heartthrob Who Only Wants the World to Forget Him",
-    "description": "A 2025 street-interview news segment labeled him simply as a 'member of the public,' which may have been the moment Takeshi Kaneshiro most longed for. From shooting commercials at 17 to buy a scooter to becoming an international superstar spanning Taiwan, Japan, and Hong Kong, he has spent his peak years in show business practicing the art of 'disappearing.'",
+    "title": "Takeshi Kaneshiro: The Pan-Asian Screen Icon Who Mastered the Art of Disappearing",
+    "description": "From a Taipei commercial actor at seventeen to Wong Kar-wai’s muse and Asia’s heartthrob, Takeshi Kaneshiro spent his career perfecting the art of disappearing.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/takeshi-kaneshiro",
@@ -77886,6 +79290,25 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "vi/People/takeshi-kaneshiro.md"
+  },
+  {
+    "title": "Takeshi Kaneshiro: Vom unerkannten „Passanten“ zum Herzensbrecher Asiens, der nur eines will – von der Welt vergessen zu werden",
+    "description": "Eine Straßeninterviews-Meldung von 2025 kennzeichnete ihn schlicht als „Passant“ – vielleicht der Augenblick, den Takeshi Kaneshiro sich am sehnlichsten gewünscht hatte. Vom Teenager, der mit 17 Werbespots drehte, um sich einen Motorroller zu kaufen, bis zum internationalen Superstar zwischen Taiwan, Japan und Hongkong übt er auf dem Gipfel des Showgeschäfts unablässig das „Verschwinden“.",
+    "category": "de",
+    "tags": [
+      "Kaneshiro",
+      "taiwanesisches Kino",
+      "EVA Air",
+      "Wong Kar-wai",
+      "Zurückgezogenheit",
+      "Onimusha",
+      "The Crossing"
+    ],
+    "url": "https://taiwan.md/de/people/takeshi-kaneshiro",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "de/People/takeshi-kaneshiro.md"
   },
   {
     "title": "Tale of Wuxia: dos personas, treinta por cien de reseñas positivas, setecientas mil copias",
@@ -78891,6 +80314,17 @@
     "path": "en/People/teresa-teng.md"
   },
   {
+    "title": "Teresa Teng: Das weiße Band von Happy Valley, die Plastiktüte Luft aus Kinmen, fünf Minuten Zeitverschiebung in Chiang Mai",
+    "description": "Am 27. Mai 1989 in Happy Valley, Hongkong: Die 36-jährige Teresa Teng trat mit einem weißen Band mit der Aufschrift „Es lebe die Demokratie“ am Kopf und einem Schild mit der Aufschrift „Gegen Militärherrschaft“ auf der Brust auf und sang ein Lied, das sie noch nie gesungen hatte – „Mein Zuhause liegt jenseits des Berges“. Nach diesem Tag betrat sie das Festland nie wieder. Von Li-yun aus dem Armeedorf in Yunlin, über die „Soldatenliebling“, die fünfmal auf Kinmen die Truppen unterhielt, bis zur Ausländerin, die drei Jahre in Folge den Great Prize des japanischen Kabel-Rundfunks gewann: In 42 Jahren sang sie Sanftheit in eine politische Haltung hinein und fand schließlich in Chiang Mai den Beutel sauberer Luft nicht, den sie ihr Leben lang gesucht hatte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/teresa-teng",
+    "readingTime": 105,
+    "featured": true,
+    "date": "2026-04-20",
+    "path": "de/People/teresa-teng.md"
+  },
+  {
     "title": "Teresa Teng: Kain Putih di Happy Valley, Udara dalam Kantong Plastik di Kinmen, Selisih Lima Menit di Chiang Mai",
     "description": "Pada 27 Mei 1989 di Happy Valley Hong Kong, Teresa Teng berusia 36 tahun mengikat kain putih \"Demokrasi Hidup\" di kepalanya, menggantung papan \"Tolak Pemerintahan Militer\" di dadanya, menyanyikan lagu yang tidak pernah dinyakannya — \"My Home Is on the Other Side of the Mountain\". Sejak hari itu ia tidak pernah lagi menginjak daratan Tiongkok. Dari kelurahan militer di Yunlin, lima kali labor militer di Kinmen, hingga tiga kali juara berturut-turut Japan Cable Awards sebagai orang asing, ia selama 42 tahun menyanyikan kelembutan sebagai sikap politik, dan akhirnya di Chiang Mai tidak menemukan sekantong udara bersih yang ia cari seumur hidup.",
     "category": "id",
@@ -79006,6 +80440,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/terry-gou.md"
+  },
+  {
+    "title": "Terry Gou: Banqiao 1950, Hon Hai Plastics 1974 und der Gründer eines Auftragsfertigungs-Imperiums",
+    "description": "Geboren am 18. Oktober 1950 in Banqiao im Landkreis Taipeh. 1974 gründete er die Hon-Hai-Plastics-Gesellschaft (10 Mitarbeiter). 1981 stieg er in PC-Steckverbinder ein, 1982 wurde die Firma in Hon Hai Precision umbenannt. 2019/6 übergab er den Vorsitz an Young Liu. 2021 kooperierten die Yonglin-Stiftung, TSMC und Hon Hai bei der Spende von BNT-Impfstoffen. 2023 zog er sich drei Stunden vor der Registrierung aus einer unabhängigen Präsidentschaftskandidatur zurück. 2024 Platz 32 der Fortune 500, 2026 Taiwans reichster Mann (15,3 Mrd. US-Dollar).",
+    "category": "de",
+    "tags": [
+      "Technologie und Unternehmen",
+      "Hon Hai",
+      "Fertigung",
+      "Unternehmer",
+      "Fortune 500",
+      "Yonglin-Stiftung"
+    ],
+    "url": "https://taiwan.md/de/people/terry-gou",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/terry-gou.md"
   },
   {
     "title": "Terry Gou: Banqiao 1950, Hon Hai Plastics 1974, and the Founder of a Contract-Manufacturing Empire",
@@ -81855,6 +83307,41 @@
     "path": "en/People/tsai-ing-wen.md"
   },
   {
+    "title": "Tsai Ing-wen: Von der Nacht der Niederlage zu 8,17 Millionen Stimmen – acht Jahre Präsidentschaft in Zurückhaltung",
+    "description": "Am 14. Januar 2012 verlor Tsai Ing-wen die Präsidentschaftswahl mit einem Rückstand von 797.561 Stimmen; acht Jahre später gewann sie mit 8.170.231 Stimmen und stellte damit den höchsten Stimmenrekord in Taiwans Geschichte der direkten Präsidentschaftswahl auf. Von der Gelehrten für internationales Handelsrecht zur ersten Präsidentin hinterließ sie Errungenschaften mit der Entschuldigung gegenüber den indigenen Völkern, dem Sondergesetz zur gleichgeschlechtlichen Ehe, der Rentenreform und der Aufrechterhaltung des Status quo – und ließ zugleich unerledigte Fragen zu Justiz, Wohnen, Energie und den Beziehungen über die Taiwanstraße zurück. Es waren acht Jahre, in denen ruhige Führung zur Institution wurde und die Institution ihre eigenen Lücken hinterließ.",
+    "category": "de",
+    "tags": [
+      "Tsai Ing-wen",
+      "Präsidentin",
+      "Weibliche Führung",
+      "Demokratie",
+      "Politik",
+      "Indigene Völker"
+    ],
+    "url": "https://taiwan.md/de/people/tsai-ing-wen",
+    "readingTime": 117,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "de/People/tsai-ing-wen.md"
+  },
+  {
+    "title": "Tsai Ming-liang",
+    "description": "Gewinner des Goldenen Löwen von Venedig, ethnischer Chinese aus Malaysia, Meister der Slow-Cinema-Ästhetik",
+    "category": "de",
+    "tags": [
+      "Regisseur",
+      "Tsai Ming-liang",
+      "Slow Cinema",
+      "Filmfestival von Venedig",
+      "Malaysian-Chinese"
+    ],
+    "url": "https://taiwan.md/de/people/tsai-ming-liang",
+    "readingTime": 38,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "de/People/tsai-ming-liang.md"
+  },
+  {
     "title": "Tsai Ming-liang",
     "description": "Golden Lion Award winner at Venice, Malaysian Chinese master of slow cinema aesthetics",
     "category": "en",
@@ -82583,6 +84070,21 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Nature/taiwanese-black-bear.md"
+  },
+  {
+    "title": "Ursprungsgeschichte — Die Geburt von Taiwan.md",
+    "description": "Von der Inspiration eines Straßenspaziergangs zu einem vollständigen, für die Welt kuratierten Eingang zu Taiwan",
+    "category": "de",
+    "tags": [
+      "about",
+      "origin",
+      "taiwan-md"
+    ],
+    "url": "https://taiwan.md/de/about/origin-story",
+    "readingTime": 11,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "de/About/origin-story.md"
   },
   {
     "title": "Usines de la chaîne d’IA à l’étranger : quand le monde fait sortir la capacité taïwanaise",
@@ -83828,6 +85330,24 @@
     "path": "id/People/chien-ming-wang-mlb-sinker-ace.md"
   },
   {
+    "title": "Wang Chien-ming: Von der Chien-hsing Junior High School, mit dem Sinker zwei Spielzeiten für die Yankees gewonnen",
+    "description": "1980 in Tainan geboren, ist Wang Chien-ming der repräsentativste Pitcher in der Geschichte des taiwanesischen Profibaseballs in Amerika. Er besuchte die Chien-hsing Junior High School in Tainan und debütierte 2005 in der MLB. 2006 gewann er mit 19 Siegen und 6 Niederlagen zusammen mit Johan Santana den Titel des Sieg-Königs der American League (erster Asiate), 2007 folgten erneut 19-7. Nach einer Verletzung beim Laufen im Juni 2008 wendete sich seine Karriere. 2018 kam der Dokumentarfilm „Late Life: The Chien-Ming Wang Story“ heraus; 2023 beim WBC und 2024 bei der WBSC Premier12 war er Bullpen-Coach der chinesischen Taipei-Nationalmannschaft.",
+    "category": "de",
+    "tags": [
+      "Sport",
+      "Baseball",
+      "MLB",
+      "New York Yankees",
+      "Pitcher in Amerika",
+      "Team Taiwan"
+    ],
+    "url": "https://taiwan.md/de/people/chien-ming-wang-mlb-sinker-ace",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/chien-ming-wang-mlb-sinker-ace.md"
+  },
+  {
     "title": "Wang Fujui: de 200 revistas fotocopiadas a 12 canais de som — trinta anos",
     "description": "Em 1993, aos 24 anos, Wang Fujui usou o salário de programador para imprimir 200 exemplares da revista de música experimental NOISE na fotocopiadora de casa, vendendo a 15–30 dólares cada. Trinta anos depois (2020), ele pendurava um alto-falante poliedral de 12 canais e plena direcionalidade no espaço artístico Project Fulfill, com a obra baseada nas microfrequências audíveis dos enxertos vasculares artificiais no seu próprio corpo após uma doença grave. Do selo DIY de uma pessoa às galerias de museu, ele levou três décadas para fazer a palavra \"ruído\" sair do código secreto dos fanzines de margem e entrar no vocabulário legítimo da arte sonora de Taiwan.",
     "category": "pt",
@@ -84068,6 +85588,23 @@
     "path": "es/People/yung-ching-wang-formosa-plastics-founder.md"
   },
   {
+    "title": "Wang Yung-ching: Vom Reisladen zur zwanzigjährigen Schlacht um die Sechste Naphtha-Spaltanlage und zum Erbstreit nach dem Tod",
+    "description": "Geboren am 18. Januar 1917 in Xindian, Taipeh; mit 15 brach Wang Yung-ching die Schule ab und eröffnete mit geliehenem Geld einen Reisladen. 1954 gründete er die Formosa Plastics. 1973 schlug er der Regierung die Sechste Naphtha-Spaltanlage vor; erst nach fast zwanzig Jahren Kampf wurde sie genehmigt, 1998 begann die Massenproduktion in Mailiao, Yunlin. Am 15. Oktober 2008 starb er in den USA im Alter von 92 Jahren – zurück blieb ein Familienstreit um das Erbe, der sich über zehn Jahre hinzog.",
+    "category": "de",
+    "tags": [
+      "Unternehmertum",
+      "Formosa-Plastics-Gruppe",
+      "Petrochemie",
+      "Sechste Naphtha-Spaltanlage",
+      "Unternehmer"
+    ],
+    "url": "https://taiwan.md/de/people/yung-ching-wang-formosa-plastics-founder",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/yung-ching-wang-formosa-plastics-founder.md"
+  },
+  {
     "title": "Wang-a-piao: de los panfletos electorales al campo de batalla infantil, las cartas de combate de la memoria taiwanesa",
     "description": "En la década de 1950, los escolares taiwaneses sostenían entre sus manos cartas circulares impresas con personajes de títeres de bolsa (布袋戲) y de cómics, que protagonizaban intensos duelos en los patios escolares. Inspirado en el juego japonés \"menko\" (面子), y tras el cambio de material impulsado por el auge de la industria del plástico, el wang-a-piao alberga la memoria colectiva de varias generaciones y refleja la transformación sociocultural de Taiwán.",
     "category": "es",
@@ -84220,6 +85757,25 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "id/People/wei-te-sheng-taiwanese-epic-filmmaker.md"
+  },
+  {
+    "title": "Wei Te-sheng: Yongkang 1969 – vom Rekord-Einspielergebnis von „Cape No. 7“ zum taiwanesischen Epen-Regisseur im Hauptwettbewerb von Venedig",
+    "description": "Geboren am 16. August 1969 in Yongkang, Landkreis Tainan (heute Bezirk Yongkang, Tainan). Abschluss in Elektrotechnik an der Fern-East-Fachhochschule. 2008 „Cape No. 7“ mit 530 Mio. NT$ Einspielergebnis (taiwanesischer Filmrekord). 2011 im Hauptwettbewerb der 68. Filmfestspiele von Venedig um den Goldenen Löwen; „Seediq Bale“ gewann den Golden Horse Award für den besten Spielfilm (48. Ausgabe). Derzeit in Vorbereitung: das Epen-Projekt „Taiwan-Trilogie“.",
+    "category": "de",
+    "tags": [
+      "Film und Theater",
+      "Regisseur",
+      "Taiwanesischer Film",
+      "Indigene Kultur",
+      "Cape No. 7",
+      "Seediq Bale",
+      "Tainan"
+    ],
+    "url": "https://taiwan.md/de/people/wei-te-sheng-taiwanese-epic-filmmaker",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/wei-te-sheng-taiwanese-epic-filmmaker.md"
   },
   {
     "title": "Wei Te-sheng: Yongkang 1969, de \"Cape No. 7\" bilheteria recorde à competição principal de Veneza, o diretor épico de Taiwan",
@@ -84773,6 +86329,24 @@
     "path": "en/People/wu-bai.md"
   },
   {
+    "title": "Wu Bai: Von Suantou-Dorf, Liujiao-Gemeinde, taiwanesischer Rock ohne Abschläge über dreißig Jahre",
+    "description": "Bürgerlich Wu Chun-lin, 1968 im Dorf Suantou der Gemeinde Liujiao im Landkreis Chiayi geboren. 1992 gründete er „Wu Bai & China Blue“, 1995 setzte „Der Wald von Norwegen“ den taiwanesischen Rockstil. 2016 erschien „Nelkensamen“, 2017 gewann er den Golden Melody Award für das beste taiwanesische Album. 2025 erschien das neue Album „Der weiße Ausgangspunkt“, die ROCK STAR 2 Tour führte über beide Meerengen.",
+    "category": "de",
+    "tags": [
+      "Musik",
+      "Rock",
+      "Taiwanesischsprachige Lieder",
+      "Chiayi",
+      "Lokaler Rock",
+      "Gitarre"
+    ],
+    "url": "https://taiwan.md/de/people/wu-bai",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/wu-bai.md"
+  },
+  {
     "title": "Wu Baifu (Momofuku Ando) : de Puzi, Chiayi, aux tables du monde, une légende mondiale aux gènes taïwanais et à l’emballage japonais",
     "description": "En 1961, Momofuku Ando acheta à Zhang Guowen les droits de demande de brevet des nouilles instantanées pour 23 millions de yens. Ce ne fut pas seulement une transaction commerciale, mais aussi une lutte transnationale autour du droit de définir l’invention. Cet entrepreneur originaire de Puzi, dans le comté de Chiayi, transforma l’âme des jisi mian traditionnelles taïwanaises en aliment national japonais, puis bouleversa en profondeur les habitudes alimentaires mondiales grâce aux nouilles en gobelet « Cup Noodles ». Cet article examine en détail ses débuts entrepreneuriaux à Taïwan sous domination japonaise, les prises de conscience nées de son emprisonnement après-guerre, ainsi que les enchevêtrements d’identité et de famille entre les deux pays.",
     "category": "fr",
@@ -84916,6 +86490,25 @@
     "path": "en/People/wu-bao-chun.md"
   },
   {
+    "title": "Wu Pao-chun: Ein Versprechen an die Kinder der Paiwan",
+    "description": "Sohn einer Bauernfamilie aus Pingtung, mit Mittelschulabschluss, ohne Französischkenntnisse. Mit einem Litschi-Rosmarin-Brot gewann er in Paris die erste Goldmedaille für einen Brotmeister der Welt – und in dem Brot steckte ein Versprechen, das er vor zehn Jahren den Kindern der indigenen Völker gegeben hatte.",
+    "category": "de",
+    "tags": [
+      "Gastronomie",
+      "Bäckerei",
+      "Meisterhandwerk",
+      "Weltmeister",
+      "Pingtung",
+      "Brot",
+      "Indigene Völker"
+    ],
+    "url": "https://taiwan.md/de/people/wu-bao-chun",
+    "readingTime": 39,
+    "featured": true,
+    "date": "2026-04-05",
+    "path": "de/People/wu-bao-chun.md"
+  },
+  {
     "title": "Wu Pao-chun: Sebuah Janji kepada Anak Paiwan",
     "description": "Putra keluarga petani dari Pingtung, hanya lulusan SMP, dan tidak bisa berbahasa Prancis. Dengan sepotong roti leci mawar, ia meraih medali emas pertama dunia dalam Masters de la Boulangerie di Paris—di dalamnya tersimpan janji yang ia ucapkan kepada seorang anak masyarakat adat sepuluh tahun sebelumnya.",
     "category": "id",
@@ -84998,6 +86591,22 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/People/tai-yu-wu.md"
+  },
+  {
+    "title": "Wu Ta-yu: Der Academia-Sinica-Präsident, der Yang Chen-ning und Lee Tsung-dao zum Studium in die USA schickte – elf Jahre, die Taiwans Forschung legten",
+    "description": "Theoretischer Physiker und Präsident der Academia Sinica; er förderte die beiden Nobelpreisträger Yang Chen-ning und Lee Tsung-dao und legte als Lehrer einer Generation das Fundament der taiwanesischen Wissenschaft.",
+    "category": "de",
+    "tags": [
+      "Wissenschaftler",
+      "Physik",
+      "Bildung",
+      "Academia Sinica"
+    ],
+    "url": "https://taiwan.md/de/people/tai-yu-wu",
+    "readingTime": 36,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "de/People/tai-yu-wu.md"
   },
   {
     "title": "Wuqiu : l'île au sein de l'île, un îlot militaire oublié sous l'ombre des déchets nucléaires",
@@ -85187,6 +86796,25 @@
     "path": "pt/People/ximurong.md"
   },
   {
+    "title": "Xi Murong: Die poetische Symphonie von Steppe und Moderne",
+    "description": "Autorin von „Qilixiang“ (Siebenmeilen-Duft) und „Nie bereute Jugend“, meistverkaufte Dichterin des chinesischsprachigen Raums, Mongolin",
+    "category": "de",
+    "tags": [
+      "Personen",
+      "Xi Murong",
+      "Qilixiang",
+      "Nie bereute Jugend",
+      "Dichterin",
+      "Mongolen",
+      "Essayistin"
+    ],
+    "url": "https://taiwan.md/de/people/ximurong",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/ximurong.md"
+  },
+  {
     "title": "Xiao Bei Department Store: Raja Toko Serba Ada Taiwan di Tengah Lampu Malam, dari Warung Hasil Laut ke \"Penyelamat Orang Tua\" Selama Tiga Puluh Tahun",
     "description": "Bermula dari Pasar Malam Xiao Bei Tainan pada 1994, Xiao Bei Department Store bertransformasi dari toko hasil laut yang hampir bangkrut menjadi pemimpin perlengkapan keras dengan lebih dari 190 cabang di seluruh Taiwan, berkat strategi \"beroperasi 24 jam\" dan \"menjual barang yang tidak dijual orang lain\". Ia adalah penyelamat orang tua di malam hari, stasiun pengisi kangen bagi pekerja migran, serta keajaiban kelangsungan hidup paling tangguh di industri ritel Taiwan.",
     "category": "id",
@@ -85207,6 +86835,23 @@
     "featured": false,
     "date": "2026-07-25",
     "path": "en/Lifestyle/xiaobei-department-store.md"
+  },
+  {
+    "title": "Xiao Qing-yang",
+    "description": "Gewinner der Grammy-Auszeichnung für die beste Albumverpackung; nach sieben Nominierungen gewann er schließlich in der Zusammenarbeit Vater–Tochter – der Repräsentant, der taiwanesisches Design auf die Weltbühne brachte.",
+    "category": "de",
+    "tags": [
+      "Designer",
+      "Grammy Awards",
+      "Albumverpackung",
+      "Grafikdesign",
+      "Taiwanesische Kultur"
+    ],
+    "url": "https://taiwan.md/de/people/xiao-qing-yang-grammy-designer",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/xiao-qing-yang-grammy-designer.md"
   },
   {
     "title": "Xiao Qing-yang",
@@ -85711,6 +87356,24 @@
     "path": "en/People/yang-dai-kang-taiwanese-baseball-star-in-japan.md"
   },
   {
+    "title": "Yang Dai-kang: Taitung 1987, der Amis-Outfielder von zehn Jahren Golden Glove bei den Nippon Ham Fighters bis zum Giants-Free-Agent",
+    "description": "Geboren am 17.01.1987 in Taitung, Amis, früherer Name Yang Chung-shou. Absolvent der Mittelschule der National Taitung University Affiliated Athletic High School, danach Besuch der Fukuoka Daiichi High School in Japan. Im Draft 2005 der NPB von Ham/SoftBank doppelt als Erste genannt, Ham gewann die Auslosung. 2012 Golden Glove als Outfielder der Pacific League (erster Taiwaner Feldspieler). 2016 FA-Wechsel zu den Yomiuri Giants. NPB-Karriere: 1322 Spiele, 105 Homeruns, 482 RBIs, Schlagdurchschnitt .270. Ende 2021 verließ er die Giants und wechselte in unabhängige Ligen.",
+    "category": "de",
+    "tags": [
+      "Sport",
+      "Baseball",
+      "NPB",
+      "Amis",
+      "Indigene Völker",
+      "Outfielder"
+    ],
+    "url": "https://taiwan.md/de/people/yang-dai-kang-taiwanese-baseball-star-in-japan",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/yang-dai-kang-taiwanese-baseball-star-in-japan.md"
+  },
+  {
     "title": "Yang Dai-kang: Taitung 1987, el jardinero amiguero de diez años con guante de oro en Fighters hasta su traspaso a Giants vía FA",
     "description": "Nacido el 17/1/1987 en la ciudad de Taitung, de etnia amiguera, antiguo nombre Yang Zhongshu. Graduado en la escuela secundaria adjunta a la Universidad Nacional de Taitung, viajó a Japón para estudiar en la Fukuoka Daiichi High School. En el draft de la NPB de 2005 fue seleccionado como primera elección tanto por los Fighters como por los Hawks, y los Fighters obtuvieron los derechos. En 2012 ganó el Guante de Oro como jardinero en la Pacific League (primer jugador de campo de nacionalidad taiwanesa en lograrlo). En 2016 ejerció su agencia libre para unirse a los Yomiuri Giants. En su carrera en la NPB: 1322 partidos, 105 jonrones, 482 carreras impulsadas, promedio de bateo .270. A finales de 2021 dejó a los Giants y pasó a ligas independientes.",
     "category": "es",
@@ -85932,6 +87595,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "id/People/yang-you-ren-shoes-for-hope-taiwan-youth-hero.md"
+  },
+  {
+    "title": "Yang Yung-wei",
+    "description": "Silber bei den Olympischen Spielen 2021 in Tokio im Judo bis 60 kg, erster olympischer Judo-Medaillengewinner Taiwans, im November desselben Jahres erstmals Weltranglistenerster",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/yang-yung-wei-judo-olympic-silver",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "de/People/yang-yung-wei-judo-olympic-silver.md"
   },
   {
     "title": "Yang Yung-wei",
@@ -86546,6 +88220,25 @@
     "path": "en/People/hatta-yoichi.md"
   },
   {
+    "title": "Yoichi Hatta: Von der Wasserbau-Legende zum „beißenden Kanal“ – der Kolonialabdruck eines Technokraten",
+    "description": "In den 1920er-Jahren errichtete der japanische Ingenieur Yoichi Hatta auf der Chianan-Ebene Taiwans den Wushantou-Stausee und den Chianan-Kanal. Dieses Weltklasse-Projekt brachte landwirtschaftliche Rekordernten, doch zugleich nannten es zahlreiche Bauern wegen seiner kolonial-ausbeuterischen Natur und der schweren Last für die Bauern den „beißenden Kanal“. Dieser Artikel untersucht eingehend Hattas Verdienste und Fehler, die Zweiseitigkeit seiner Management-Philosophie und den komplexen Abdruck, den diese Geschichte in der taiwanesischen Gesellschaft hinterlassen hat.",
+    "category": "de",
+    "tags": [
+      "Yoichi Hatta",
+      "Chianan-Kanal",
+      "Wushantou-Stausee",
+      "Japanische Kolonialzeit",
+      "Kolonialausbeutung",
+      "Taiwanesische Landwirtschaft",
+      "Historische Bewertung"
+    ],
+    "url": "https://taiwan.md/de/people/hatta-yoichi",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-05-11",
+    "path": "de/People/hatta-yoichi.md"
+  },
+  {
     "title": "Yongkang Street: Where Japanese Professors Once Lived, Mainlanders Fled to, and Japanese and Korean Tourists Now Find Their Taipei",
     "description": "At 7:30 in the morning, under the old trees beside Yongkang Park, an elderly mainlander grandfather sits on a stone bench holding the morning paper. In 1922, the Japanese planned Shōwachō here; Taipei Imperial University faculty lived in Japanese-style dormitories at No. 7 Qingtian Street. After 1947, mainlander officials and National Taiwan University professors took over the same dormitories: Ma Ting-ying moved into Qingtian 76, and Chou Te-wei moved into what is now Wistaria Tea House. In 1958, Yang Bing-yi opened Din Tai Fung as a cooking-oil shop on Section 2, Xinyi Road; in 1972 it switched to selling xiaolongbao. Today, in the queue stretching to the bend at Jinshan South Road, Japanese and Korean are heard more than Mandarin. Three generations of residents are layered onto the same 600-meter street.",
     "category": "en",
@@ -86974,6 +88667,24 @@
     "path": "en/People/zhong-lihe-nativeland-eternal-seeker.md"
   },
   {
+    "title": "Zhong Lihe: Zwischen Blut und Papier – der Chronist des heimatlichen Bodens",
+    "description": "Der Hakka-Schriftsteller aus Meinung, Kaohsiung (1915–1960). Mit „Lishan-Farm“ (Langroman), „Heimatmensch“ (Kurzgeschichte, 1959) und „Armes Ehepaar“ schuf er realistische Bilder des Hakka-Dorfs und gilt als „Vater der taiwanesischen Heimatliteratur“ (umstrittener Titel). Er starb 1960 beim Korrigieren seiner Manuskripte an Blutsturz – der „im Blut niedergesunkene Schreibende“.",
+    "category": "de",
+    "tags": [
+      "Heimatliteratur",
+      "Schriftsteller",
+      "Hakka",
+      "Meinung",
+      "Lishan-Farm",
+      "Heimatmensch"
+    ],
+    "url": "https://taiwan.md/de/people/zhong-lihe-nativeland-eternal-seeker",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/zhong-lihe-nativeland-eternal-seeker.md"
+  },
+  {
     "title": "Zhongshan North Road Tiao-tong: A Estrada que os Japoneses Pavimentaram para o Santuário, Acabou por ser Reocupada por Empresas Japonesas",
     "description": "A 17 de abril de 1923, o príncipe herdeiro japonês Hirohito, com 19 anos, partiu da Estação de Taipé numa carruagem e percorreu uma estrada de 15 metros de largura até ao Santuário de Taiwan em Yuan-shan, estrada essa chamada Chokushi Kaido. Em 1941, foi alargada para uma avenida de 40 metros e cinco faixas. Em 1945, foi renomeada \"Zhongshan North Road\" em homenagem a Sun Yat-sen. Em 1951, com a Guerra da Coreia, conselheiros militares dos EUA instalaram-se e o terceiro trecho da Zhongshan North Road tornou-se uma \"concessão americana\". Em 1972, com a ruptura das relações sino-japonesas, os empresários japoneses não partiram; em 1979, os militares dos EUA retiraram-se; nos anos 1980, empresários japoneses assumiram o Tiao-tong. A estrada que os japoneses pavimentaram para ir ao santuário acabou, afinal, por ser reocupada por empresas comerciais japonesas.",
     "category": "pt",
@@ -86994,6 +88705,40 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "en/Geography/zhongshan-north-road-tiaotong.md"
+  },
+  {
+    "title": "Zhu Geliang",
+    "description": "Repräsentant der taiwanesischen Bühnenshow-Kultur, nationale Komödienlegende, 2017 an Krankheit verstorben",
+    "category": "de",
+    "tags": [
+      "Zhu Geliang",
+      "Bühnenshow",
+      "Komödie",
+      "Fernsehshow",
+      "Hokkien"
+    ],
+    "url": "https://taiwan.md/de/people/zhuge-liang-showman",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "de/People/zhuge-liang-showman.md"
+  },
+  {
+    "title": "Zhu Yigui, der Entenmutter-König: Der erste Rebell, der sich in Taiwan zum König ausrief",
+    "description": "Der Aufstieg von Zhu Yigui im Jahr 1721 wird von einem Entezüchter zu einem selbst erwachsenen König in seiner legendären Laufbahn nachgezeichnet und zeigt die weitreichenden Folgen dieses Aufstands für Taiwans Verwaltungspolitik in der Qing-Zeit.",
+    "category": "de",
+    "tags": [
+      "Taiwanische Geschichte",
+      "Qing-Dynastie-Zeit",
+      "Rebellion",
+      "Zhu Yigui",
+      "König der Entenmutter"
+    ],
+    "url": "https://taiwan.md/de/people/chu-yi-kuei-qing-rebel",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "de/People/chu-yi-kuei-qing-rebel.md"
   },
   {
     "title": "Zhu Zong-qing",
@@ -93103,17 +94848,6 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "ru/Art/contemporary-art.md"
-  },
-  {
-    "title": "Тайваньское соевое молоко и завтрачные заведения",
-    "description": "Группа ветеранов из Шаньдуна у моста Чжунчжэнь в Юнхэ продавала соевое молоко с тележек. Через 70 лет «Юнхэ» стал синонимом завтрака для китайцев во всем мире. Но это никогда не был бренд — это название места",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 59,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "ru/Food/taiwan-soy-milk-and-breakfast-shops.md"
   },
   {
     "title": "Тайваньское сообщество и культура ли",
@@ -116178,6 +117912,23 @@
     "path": "ko/Food/rice-ball.md"
   },
   {
+    "title": "배달 특별법: 법이 바닥을 깔았다, 바닥 위는 여전히 알고리즘의 몫이다",
+    "description": "2026년 7월 21일 0시, 대만 최초의 배달 특별법이 시행됐다. 주문 한 건당 최소 45元. 그날 한 배달원에게 두 건의 주문이 들어왔다. 4.4킬로미터와 8.6킬로미터, 보수는 둘 다 90元이었다. 2019년 건국기념일 연휴에 배달원 두 명이 길 위에서 목숨을 잃은 때부터 이 28개 조문에 이르기까지 6년이 걸렸다. 그리고 이 법은 그들이 결국 노동자인지 아닌지를 의도적으로 답하지 않았고, 수입을 실제로 결정하는 배차 알고리즘에도 손대지 않았다. 시행 첫 주, 지방에 감독 인력이 몇 명인지조차 아직 답이 없다.",
+    "category": "ko",
+    "tags": [
+      "배달원",
+      "긱 이코노미",
+      "노동권",
+      "플랫폼 경제",
+      "입법"
+    ],
+    "url": "https://taiwan.md/ko/society/delivery-platform-law",
+    "readingTime": 157,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "ko/Society/delivery-platform-law.md"
+  },
+  {
     "title": "벚꽃 곤들매기: 빙하 시대 잔존종의 귀향길, 멸종 위기에서 유역 전체 보전으로 이끈 대만의 기적",
     "description": "1917년, 일본 학자 오오시마 마사미츠가 대만에서 빙하 시대 잔존 생물인 「벚꽃 곤들매기」를 발견하였으며, 타이야족은 이를 「음방(Mnbang)」이라 불렀다. 서식지 파괴와 개체 수 급감으로 1995년 겨우 200여 마리만 남은 위기를 겪은 후, 댐 철거, 인공 증식, 혁신적인 「무수 운송(無水運輸)」 기술을 통해 2023년 1만 8천 마리라는 최고치를 기록하였고, 최근 다소 변동이 있으나 1만 5천 마리 이상으로 안정적으로 유지되며 대만 유역 전체 보전의 성공적 사례가 되었다.",
     "category": "ko",
@@ -120584,24 +122335,6 @@
     "path": "ko/Music/indie-music-scene.md"
   },
   {
-    "title": "타이완 두유와 아침식당",
-    "description": "1955년 산둥 출신 노병이 용허 다리 앞에서 두유 수레를 밀기 시작했다. 70년 후 \"용허두유\"는 전 세계 20여 개국에 걸려 있지만, 그것은 브랜드가 아니라 지명이었다",
-    "category": "ko",
-    "tags": [
-      "두유",
-      "아침식당",
-      "용허두유",
-      "사오빙유탸오",
-      "단빙",
-      "군인촌 음식"
-    ],
-    "url": "https://taiwan.md/ko/food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 29,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "ko/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
     "title": "타이완 드론 산업: 타이완 장난감 비행기에서 블루 리스트까지, 한 장의 입석권은 레후우(Thunder Tiger)에게",
     "description": "2025년 9월 21일, 레후우(Thunder Tiger) 기술의 Overkill FPV 자살 드론이 미국 국방부 블루 리스트(Blue UAS Cleared List) 인증을 통과했다. 타이완 기업 중 최초이자 지금까지 유일한 사례다. 전체 목록의 39개 완제 플랫폼과 165개 부품 중 타이완은 오직 한 자리에 불과하다. 2026년 4월, 미국 양당 소속 상원의원 4명이 《타이완을 위한 푸른 하늘법(Blue Skies for Taiwan Act)》을 공동 발의해 타이완 기업용 고속 통로 설치를 요구했다. 이 법안 자체의 존재가 한 가지를 드러낸다: 타이완의 진입이 너무 느려 미국 스스로가 입법을 통해 장벽을 낮춰야 한다는 점이다. 타이완에서 46년간 원격 조종 장난감 비행기를 만들어 온 한 회사가 오하이오주에 두 번째 공장을 건설할 계획을 세우고 있다.",
     "category": "ko",
@@ -122986,6 +124719,23 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Technology/digital-id-and-digital-government.md"
+  },
+  {
+    "title": "デリバリー特別法：法律は床を張った。床から上は、まだアルゴリズムのものだ",
+    "description": "2026年7月21日午前0時、台湾で初めてのデリバリー特別法が施行された。1件あたり最低45元。その日、あるデリバリー配達員のもとに2件の注文が届いた。4.4キロと8.6キロ、報酬はどちらも90元だった。2019年の建国記念連休に2人の配達員が路上で亡くなってから、この28か条にたどり着くまで6年かかった。そしてこの法律は、彼らが従業員なのかどうかを意図的に答えていない。収入を実際に決めている配車アルゴリズムにも触れていない——施行1週目、地方に監督要員が何人いるのかさえ、まだ答えがない。",
+    "category": "ja",
+    "tags": [
+      "デリバリー配達員",
+      "ギグエコノミー",
+      "労働者の権利",
+      "プラットフォーム経済",
+      "立法"
+    ],
+    "url": "https://taiwan.md/ja/society/delivery-platform-law",
+    "readingTime": 144,
+    "featured": false,
+    "date": "2026-07-25",
+    "path": "ja/Society/delivery-platform-law.md"
   },
   {
     "title": "なぜ台湾には独自の知識ベースが必要なのか",

@@ -1,7 +1,1271 @@
 {
-  "generatedAt": "2026-08-22T22:12:21.118Z",
+  "generatedAt": "2026-08-27T22:13:01.659Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "71f740ad933de7f03577f984e4caab039a7be90c",
+      "date": "2026-08-28T05:40:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-28 05:37 — 18 條全 in-sync，但揭露自己也斷了四天",
+      "articles": []
+    },
+    {
+      "hash": "8b205d5ea1ccb9a2978b569919c491b864993f9d",
+      "date": "2026-08-28T05:37:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-28 05:35 — 12 語全綠，但揭露四天執行空窗",
+      "articles": []
+    },
+    {
+      "hash": "79e6240d6146d5247ffc43351b942efa959b8c38",
+      "date": "2026-08-28T05:35:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-28 05:35",
+      "articles": []
+    },
+    {
+      "hash": "ffc7b509c53c0c3bb26947439197386f63346eab",
+      "date": "2026-08-28T02:23:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: footnote-cards @ 2026-08-28 00:55 — 腳註來源卡上線，兩條教訓都是「我比外部訊號更相信自己的推論」",
+      "articles": []
+    },
+    {
+      "hash": "e54a4a055cd3f5ec21aa95c91a5621c61dbde1f8",
+      "date": "2026-08-28T02:03:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge 腳註即時來源卡：讓 [n] 把來源帶到讀者眼前",
+      "articles": []
+    },
+    {
+      "hash": "f82bcc2a13c071cf296576850d13467010ee2a7a",
+      "date": "2026-08-28T01:39:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: 腳註不用再滑到文末，滑過編號就把來源帶到眼前",
+      "articles": []
+    },
+    {
+      "hash": "ed2222df346b6e4467983c8988a21e8fecb15fe1",
+      "date": "2026-08-28T00:59:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] design: 腳註躺在讀者滑不到的地方，先把距離量出來",
+      "articles": []
+    },
+    {
+      "hash": "18d0248ff80ea342cef0042395bc5d891abb9bb1",
+      "date": "2026-08-27T13:57:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1603 from frank890417/rewrite/breakfast-merge-1389",
+      "articles": []
+    },
+    {
+      "hash": "d2e969b8dd7da04471e8c71c10284f18cf29956d",
+      "date": "2026-08-27T13:54:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main' into rewrite/breakfast-merge-1389",
+      "articles": []
+    },
+    {
+      "hash": "58e64e81a9d5a7e23c8bd2dc12bf7e1d4c8a8cc5",
+      "date": "2026-08-27T13:47:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 早餐整併歸檔，contract 寫死語系數記進 LESSONS",
+      "articles": []
+    },
+    {
+      "hash": "5fb0959d0c2de0ace5a98225d1b8bae5191c2a97",
+      "date": "2026-08-27T13:46:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve+merge] 台灣豆漿與早餐店 併入 台灣早餐文化，九語轉址接住舊網址",
+      "articles": [
+        {
+          "url": "/food/_Food Hub",
+          "name": "_Food Hub"
+        },
+        {
+          "url": "/food/台灣豆漿與早餐店",
+          "name": "台灣豆漿與早餐店"
+        }
+      ]
+    },
+    {
+      "hash": "2187c1c9cb36c45eebe8490bd617913308c2253f",
+      "date": "2026-08-27T13:44:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] media: 七張圖回到它們的圖說旁邊，順手改掉三處對不上的敘述",
+      "articles": [
+        {
+          "url": "/art/臺灣漫遊錄",
+          "name": "臺灣漫遊錄"
+        },
+        {
+          "url": "/food/蛋撻",
+          "name": "蛋撻"
+        },
+        {
+          "url": "/geography/公館",
+          "name": "公館"
+        },
+        {
+          "url": "/geography/北投溫泉街",
+          "name": "北投溫泉街"
+        }
+      ]
+    },
+    {
+      "hash": "ee66500527b75f2276249232367b02a33fb4c91d",
+      "date": "2026-08-27T13:41:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 定稿手全文順過一次，八張圖落地本地 WebP",
+      "articles": [
+        {
+          "url": "/food/台灣早餐文化",
+          "name": "台灣早餐文化"
+        }
+      ]
+    },
+    {
+      "hash": "9e2884764d1f65a2e48261141d829fd29d50ca82",
+      "date": "2026-08-27T12:25:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-manual @ 2026-08-27 12:21 — 27 個 ready PR 清到剩 2，四條教訓進收件匣，四項升待決佇列",
+      "articles": []
+    },
+    {
+      "hash": "9be8921f0bc27b99fbdee75112458e83d319a840",
+      "date": "2026-08-27T12:17:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 站上兩篇講同一件事的文章，彼此看不見",
+      "articles": [
+        {
+          "url": "/food/台灣早餐文化",
+          "name": "台灣早餐文化"
+        },
+        {
+          "url": "/food/台灣豆漿與早餐店",
+          "name": "台灣豆漿與早餐店"
+        }
+      ]
+    },
+    {
+      "hash": "9947328321915085ab16e0c1edc1a6b723d30e9d",
+      "date": "2026-08-27T12:15:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 把「數據」改回「資料」，先改不牽涉區段命名的那 12 處",
+      "articles": []
+    },
+    {
+      "hash": "730bccf80789bda6a6fb5c8e433c06b58d082721",
+      "date": "2026-08-27T12:12:41+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1395 from idlccp1984/patch-573359",
+      "articles": []
+    },
+    {
+      "hash": "a7bf511aa09c2a0cadc971a8afdf743900d39c3b",
+      "date": "2026-08-27T12:08:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 有五個縣市的讀者，看到的照片跟圖說寫的不是同一棟建築",
+      "articles": [
+        {
+          "url": "/culture/國家圖書館",
+          "name": "國家圖書館"
+        },
+        {
+          "url": "/geography/南投縣",
+          "name": "南投縣"
+        },
+        {
+          "url": "/geography/台東縣",
+          "name": "台東縣"
+        },
+        {
+          "url": "/geography/嘉義市",
+          "name": "嘉義市"
+        }
+      ]
+    },
+    {
+      "hash": "1cf39e2864cc35651d6b89cdbeda13c305990be7",
+      "date": "2026-08-27T12:01:20+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1451 from idlccp1984/patch-773070",
+      "articles": []
+    },
+    {
+      "hash": "f17b65099fda7a28ac3ef99367b9311e6208e168",
+      "date": "2026-08-27T12:01:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1452 from idlccp1984/patch-762630",
+      "articles": []
+    },
+    {
+      "hash": "9d93b1d902b322da12d80494c1cc32230b85031e",
+      "date": "2026-08-27T12:00:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/黑貓老師",
+          "name": "黑貓老師"
+        }
+      ]
+    },
+    {
+      "hash": "222fa23ba45a8878f43b4aa03a7de56407e1e79d",
+      "date": "2026-08-27T11:57:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": []
+    },
+    {
+      "hash": "13211d073474761b9278b49902c05bb31ae42417",
+      "date": "2026-08-27T11:55:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/黑貓老師",
+          "name": "黑貓老師"
+        }
+      ]
+    },
+    {
+      "hash": "ae9ce894f0b569f281b6a015da214f0a56aceb7a",
+      "date": "2026-08-27T11:50:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 英文 metadata 那批的兩處回正",
+      "articles": []
+    },
+    {
+      "hash": "3025f4ad02811cf362dbc94330b11a9bf0b94f1a",
+      "date": "2026-08-27T11:50:07+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1582 from rhosiqs/evolve/en-metadata-batch-p0",
+      "articles": []
+    },
+    {
+      "hash": "e9369c72a7562830e70d2167d8454373be38b249",
+      "date": "2026-08-27T11:45:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 德文一進語言註冊表，回饋元件就落後了",
+      "articles": []
+    },
+    {
+      "hash": "a1bb77f2aa4088100de9036afb467db33d372200",
+      "date": "2026-08-27T11:43:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 撤掉一篇冒充翻譯的摘要，補齊翻譯註冊表",
+      "articles": []
+    },
+    {
+      "hash": "c5bcf7cf1e30c3a5708f2504481257441868a754",
+      "date": "2026-08-27T11:43:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1583 from aminzai/chore/heal-translations-json-ja",
+      "articles": []
+    },
+    {
+      "hash": "fa7dd66aa0e14707977bb0b3c135a9751a7c85a0",
+      "date": "2026-08-27T11:42:07+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1430 from tboydar/de-translations-batch2",
+      "articles": []
+    },
+    {
+      "hash": "03817ecdc51dc995ab97f076355882259aebd499",
+      "date": "2026-08-27T11:38:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1599 from idlccp1984/patch-230628",
+      "articles": []
+    },
+    {
+      "hash": "14a7603d3d780448cf0d369eb9c327fb96249ca1",
+      "date": "2026-08-27T11:38:34+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1598 from idlccp1984/patch-670201",
+      "articles": []
+    },
+    {
+      "hash": "16e90af1387bd193ff42f862f198df3a8fa73aab",
+      "date": "2026-08-27T11:38:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1597 from idlccp1984/patch-312248",
+      "articles": []
+    },
+    {
+      "hash": "f35e82dd1a4e005460903dfea9a0c087a80ec82c",
+      "date": "2026-08-27T11:38:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1596 from idlccp1984/patch-565655",
+      "articles": []
+    },
+    {
+      "hash": "940c91f1f2680b3a38cc42ff15843d6bca597b3f",
+      "date": "2026-08-27T11:38:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1595 from idlccp1984/patch-192653",
+      "articles": []
+    },
+    {
+      "hash": "fd59737c1547d4bcf587b92596c4cbdfcebd916e",
+      "date": "2026-08-27T11:38:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1594 from idlccp1984/patch-772508",
+      "articles": []
+    },
+    {
+      "hash": "db66fb380b3ef03a23380ec33591770150dc880d",
+      "date": "2026-08-27T11:38:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1593 from idlccp1984/patch-515970",
+      "articles": []
+    },
+    {
+      "hash": "83ec9007caedc8b03c31cd52afd8d120d363e9bd",
+      "date": "2026-08-27T11:38:10+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1592 from idlccp1984/patch-580232",
+      "articles": []
+    },
+    {
+      "hash": "78d722f711447d1799b731cbe12963ee16e2348f",
+      "date": "2026-08-27T11:38:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1591 from idlccp1984/patch-33057",
+      "articles": []
+    },
+    {
+      "hash": "d6358454b4efb8275d628293fc3b3f15f21217de",
+      "date": "2026-08-27T11:38:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1590 from idlccp1984/patch-759802",
+      "articles": []
+    },
+    {
+      "hash": "d610770336b2fd404f45f9d34e8aab508958ad24",
+      "date": "2026-08-27T11:37:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1588 from idlccp1984/patch-12496",
+      "articles": []
+    },
+    {
+      "hash": "16838c481b2bdb29f7718b60e0efe42025092063",
+      "date": "2026-08-27T11:37:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1587 from idlccp1984/patch-619536",
+      "articles": []
+    },
+    {
+      "hash": "9530deb2dfc01b3d315e68ac6c4a5db278dd8ab1",
+      "date": "2026-08-27T11:37:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1586 from idlccp1984/patch-895346",
+      "articles": []
+    },
+    {
+      "hash": "5c340eae6fa8678ff7df1ffbc115a3790d8171e7",
+      "date": "2026-08-27T11:37:43+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1585 from idlccp1984/patch-400920",
+      "articles": []
+    },
+    {
+      "hash": "df53a4bf1a5190846f1f9ca4d42253890f7b0d50",
+      "date": "2026-08-27T11:37:39+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1491 from idlccp1984/patch-355084",
+      "articles": []
+    },
+    {
+      "hash": "464da443873f10985c1a77c240079137a95fce15",
+      "date": "2026-08-27T11:37:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1484 from idlccp1984/patch-161507",
+      "articles": []
+    },
+    {
+      "hash": "bf7e504004c8da60f35d013e71d129a8cbb07237",
+      "date": "2026-08-27T11:37:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1581 from idlccp1984/patch-235510",
+      "articles": []
+    },
+    {
+      "hash": "75b7ef721438e8546d17aa5cf54bd8d16df8227d",
+      "date": "2026-08-27T11:37:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1580 from idlccp1984/patch-128503",
+      "articles": []
+    },
+    {
+      "hash": "98d54f4a043484f53ff88fdbb2d0c0dfdb3033f4",
+      "date": "2026-08-27T11:35:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/culture/燈會",
+          "name": "燈會"
+        }
+      ]
+    },
+    {
+      "hash": "a33f03388b06d8b02156d60232b8af311b63cb7a",
+      "date": "2026-08-27T11:35:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/food/茶葉蛋",
+          "name": "茶葉蛋"
+        }
+      ]
+    },
+    {
+      "hash": "4b946c51d2b84a89d4a962513e3aed08c70be1d2",
+      "date": "2026-08-27T11:35:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/geography/樂生療養院",
+          "name": "樂生療養院"
+        }
+      ]
+    },
+    {
+      "hash": "de10315f58128c23929843a04d8a03b945bc115d",
+      "date": "2026-08-27T11:35:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/geography/桃園埤塘",
+          "name": "桃園埤塘"
+        }
+      ]
+    },
+    {
+      "hash": "319acd7f7fec0a9d3233daf9ee7c20ce590497a4",
+      "date": "2026-08-27T11:35:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/館長陳之漢",
+          "name": "館長陳之漢"
+        }
+      ]
+    },
+    {
+      "hash": "768f31cea8a68e68e08228a330f377030f537bec",
+      "date": "2026-08-27T11:34:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] media: 收館長凱道演講 CC 圖（#1491 用）",
+      "articles": []
+    },
+    {
+      "hash": "1499010784c9f438e15a72729113665432abfbb9",
+      "date": "2026-08-27T11:33:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/society/居住正義",
+          "name": "居住正義"
+        }
+      ]
+    },
+    {
+      "hash": "39cb84dabf7bd549ce65c1e3177d8e156ee43af4",
+      "date": "2026-08-27T11:32:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/history/台中州廳",
+          "name": "台中州廳"
+        }
+      ]
+    },
+    {
+      "hash": "773dc2597d8c3a7f6d5f688e35681cc1c0f67a8d",
+      "date": "2026-08-27T11:32:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/history/北一女",
+          "name": "北一女"
+        }
+      ]
+    },
+    {
+      "hash": "0d2389cec4478d2240361bd107133e3460ce059a",
+      "date": "2026-08-27T11:32:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代修，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/蔣經國",
+          "name": "蔣經國"
+        }
+      ]
+    },
+    {
+      "hash": "8d482352f0d5f62674333a82a69055dea0a70386",
+      "date": "2026-08-27T11:31:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] media: 收六張自由授權圖，換掉四篇投稿裡的熱連結與壞路徑",
+      "articles": []
+    },
+    {
+      "hash": "9666b0ed4dad95eab7391cb7da611f71a9ee61b7",
+      "date": "2026-08-27T11:21:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/society/居住正義",
+          "name": "居住正義"
+        }
+      ]
+    },
+    {
+      "hash": "db694157fac322c06842ad793c8214dab35e2df4",
+      "date": "2026-08-27T11:21:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/history/北一女",
+          "name": "北一女"
+        }
+      ]
+    },
+    {
+      "hash": "bfdca09d945d01763c9037e32295061d3946bfed",
+      "date": "2026-08-27T11:21:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/food/青草茶",
+          "name": "青草茶"
+        }
+      ]
+    },
+    {
+      "hash": "b79e85b11df028699163a864b0c9d99d76f3dc0f",
+      "date": "2026-08-27T11:20:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/food/麥當樂",
+          "name": "麥當樂"
+        }
+      ]
+    },
+    {
+      "hash": "e4b9023540fbb2d7ed85e7957db00f792c46fcd9",
+      "date": "2026-08-27T11:20:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/洪婕倪",
+          "name": "洪婕倪"
+        }
+      ]
+    },
+    {
+      "hash": "809367ba8e2099d8f938ef644e67aeba447a7e8d",
+      "date": "2026-08-27T11:20:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/culture/光華雜誌",
+          "name": "光華雜誌"
+        }
+      ]
+    },
+    {
+      "hash": "78d491c5d5109ac76f24bd2db2217d05a56bc3db",
+      "date": "2026-08-27T11:20:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/geography/蘇澳冷泉",
+          "name": "蘇澳冷泉"
+        }
+      ]
+    },
+    {
+      "hash": "bbcf288459126d680d3257a028901790241fb966",
+      "date": "2026-08-27T11:20:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/culture/新竹都城隍廟",
+          "name": "新竹都城隍廟"
+        }
+      ]
+    },
+    {
+      "hash": "4fdf5494cc32c507ebe1b43529056a46c0524155",
+      "date": "2026-08-27T11:20:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/history/台中州廳",
+          "name": "台中州廳"
+        }
+      ]
+    },
+    {
+      "hash": "3646eb96e02bc3096cbcfb4ed1e8d88741a9110a",
+      "date": "2026-08-27T11:20:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/館長陳之漢",
+          "name": "館長陳之漢"
+        }
+      ]
+    },
+    {
+      "hash": "85324c1e4589a6125278ea246a65350b06999ce2",
+      "date": "2026-08-27T11:20:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
+      "articles": [
+        {
+          "url": "/people/蔣經國",
+          "name": "蔣經國"
+        }
+      ]
+    },
+    {
+      "hash": "897c362f277a8e477491518b16815fc2f87a1017",
+      "date": "2026-08-27T11:19:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 推修補進投稿者分支的那條路，在維護者剛改完工具時一定死",
+      "articles": []
+    },
+    {
+      "hash": "fc2563ae8dfb9e9dff5c49d08400ef5fa93ac7d1",
+      "date": "2026-08-27T11:16:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 heal: test",
+      "articles": [
+        {
+          "url": "/geography/玉山氣象站",
+          "name": "玉山氣象站"
+        }
+      ]
+    },
+    {
+      "hash": "4eb140e07f8ed2fcfa6f7a14d51b6767d5e37f7b",
+      "date": "2026-08-26T01:12:22+08:00",
+      "author": "aminzai",
+      "message": "chore: heal _translations.json ja entries (4 keys)",
+      "articles": []
+    },
+    {
+      "hash": "c4d6f9d4319e1daf9780d868c49a157500951f6f",
+      "date": "2026-08-27T10:26:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: 分號閘門終於有人會修，不只有人會數",
+      "articles": []
+    },
+    {
+      "hash": "62cfc28e72ef2006e4ad0d3a295b00a3e3421b62",
+      "date": "2026-08-27T10:22:14+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1602 from aminzai/translate/es-ezway",
+      "articles": []
+    },
+    {
+      "hash": "0480fe855474fe17aaa144a5c013586da7780e3b",
+      "date": "2026-08-27T10:22:11+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1601 from aminzai/translate/fr-international-brand-localization-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "e8fd13aa1a544925cd024387eb72e3c062a0075e",
+      "date": "2026-08-27T10:22:07+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1600 from aminzai/translate/ko-delivery-platform-law",
+      "articles": []
+    },
+    {
+      "hash": "1cbb7b0a48c4dfb315b1d4c65ddd4c40d68409ce",
+      "date": "2026-08-27T10:21:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 翻譯 ratio 檢查的 --pr 模式量錯了一棵樹",
+      "articles": []
+    },
+    {
+      "hash": "1d81323c47556b8ab9cb830bb1df601ff1f3e094",
+      "date": "2026-08-27T10:18:30+08:00",
+      "author": "Kang-Min Wang",
+      "message": "fix(ci): frontmatter-gate RAW_KN filter aligns with .md filter (#1584)",
+      "articles": []
+    },
+    {
+      "hash": "d91accc4019e05ea819270640ef561861aa889c4",
+      "date": "2026-08-27T04:42:14+08:00",
+      "author": "aminzai",
+      "message": "translate(es): 台灣海關報關與 EZ WAY → ezway",
+      "articles": []
+    },
+    {
+      "hash": "0cf37c5f956ff9a63cf2f6d213c7efe1b76e35fc",
+      "date": "2026-08-27T04:33:11+08:00",
+      "author": "aminzai",
+      "message": "translate(fr): 國際品牌在台的味蕾變革 → international-brand-localization-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "5d2e896f3650c8c913f35f6e99b8c7fefbee7a14",
+      "date": "2026-08-27T04:28:14+08:00",
+      "author": "aminzai",
+      "message": "translate(ko): 外送專法 → delivery-platform-law",
+      "articles": []
+    },
+    {
+      "hash": "07af55b5812ec96db0296bab51fcc97b3cdc3b63",
+      "date": "2026-08-27T02:57:01+08:00",
+      "author": "idlccp1984",
+      "message": "Create 居住正義.md",
+      "articles": [
+        {
+          "url": "/society/居住正義",
+          "name": "居住正義"
+        }
+      ]
+    },
+    {
+      "hash": "b0d6604a5abfdcb241295450ff41d42732e38a59",
+      "date": "2026-08-27T02:53:58+08:00",
+      "author": "idlccp1984",
+      "message": "Create 北一女.md",
+      "articles": [
+        {
+          "url": "/history/北一女",
+          "name": "北一女"
+        }
+      ]
+    },
+    {
+      "hash": "dd1ef85cd10c82463c28a0e5186528b665936e79",
+      "date": "2026-08-27T02:48:00+08:00",
+      "author": "idlccp1984",
+      "message": "Create 電線桿與變電箱.md",
+      "articles": [
+        {
+          "url": "/lifestyle/電線桿與變電箱",
+          "name": "電線桿與變電箱"
+        }
+      ]
+    },
+    {
+      "hash": "0eb81382fd7967f335474402f9ce1fa8d1b44b2e",
+      "date": "2026-08-27T02:41:58+08:00",
+      "author": "idlccp1984",
+      "message": "Add Taiwan Lantern Festival overview document",
+      "articles": [
+        {
+          "url": "/culture/燈會",
+          "name": "燈會"
+        }
+      ]
+    },
+    {
+      "hash": "52295e05b13b1ad9056b7180961fae3163947410",
+      "date": "2026-08-27T02:37:38+08:00",
+      "author": "idlccp1984",
+      "message": "Create 青草茶.md with cultural insights",
+      "articles": [
+        {
+          "url": "/food/青草茶",
+          "name": "青草茶"
+        }
+      ]
+    },
+    {
+      "hash": "1597345a3e194aa77824fcc0fce98b8b0c951116",
+      "date": "2026-08-27T02:34:25+08:00",
+      "author": "idlccp1984",
+      "message": "Create 茶葉蛋.md",
+      "articles": [
+        {
+          "url": "/food/茶葉蛋",
+          "name": "茶葉蛋"
+        }
+      ]
+    },
+    {
+      "hash": "2c3fd3a1a533293efb27e4524c14ddaa40421f70",
+      "date": "2026-08-27T02:20:36+08:00",
+      "author": "idlccp1984",
+      "message": "Create 樂生療養院.md",
+      "articles": [
+        {
+          "url": "/geography/樂生療養院",
+          "name": "樂生療養院"
+        }
+      ]
+    },
+    {
+      "hash": "31938c72887bceafd2c03b039104f890110b2a78",
+      "date": "2026-08-27T02:02:33+08:00",
+      "author": "idlccp1984",
+      "message": "Create 洪婕倪.md",
+      "articles": [
+        {
+          "url": "/people/洪婕倪",
+          "name": "洪婕倪"
+        }
+      ]
+    },
+    {
+      "hash": "23979f8cf834c8ba19e0219098f65ceac89ebf3a",
+      "date": "2026-08-27T01:53:21+08:00",
+      "author": "idlccp1984",
+      "message": "Create 光華雜誌.md",
+      "articles": [
+        {
+          "url": "/culture/光華雜誌",
+          "name": "光華雜誌"
+        }
+      ]
+    },
+    {
+      "hash": "950739e8ff9364d59be9337a140febc20b12fadb",
+      "date": "2026-08-27T01:37:47+08:00",
+      "author": "idlccp1984",
+      "message": "Create 麥當樂.md",
+      "articles": [
+        {
+          "url": "/food/麥當樂",
+          "name": "麥當樂"
+        }
+      ]
+    },
+    {
+      "hash": "d94c908db0594435447635cdc8b81df75a69a787",
+      "date": "2026-08-27T01:21:13+08:00",
+      "author": "idlccp1984",
+      "message": "Create 中華民國台灣護照.md",
+      "articles": [
+        {
+          "url": "/lifestyle/中華民國台灣護照",
+          "name": "中華民國台灣護照"
+        }
+      ]
+    },
+    {
+      "hash": "abbec90803798463b208ef74b95d18e3fb8782cf",
+      "date": "2026-08-27T01:04:19+08:00",
+      "author": "idlccp1984",
+      "message": "Create 蘇澳冷泉.md",
+      "articles": [
+        {
+          "url": "/geography/蘇澳冷泉",
+          "name": "蘇澳冷泉"
+        }
+      ]
+    },
+    {
+      "hash": "66ae6e767ef5934df2cd2b986fa157ed8cad945f",
+      "date": "2026-08-27T01:00:19+08:00",
+      "author": "idlccp1984",
+      "message": "Create 新竹都城隍廟.md",
+      "articles": [
+        {
+          "url": "/culture/新竹都城隍廟",
+          "name": "新竹都城隍廟"
+        }
+      ]
+    },
+    {
+      "hash": "6eed2b1319d8b8dda859564a88f00ff2e3cf89ce",
+      "date": "2026-08-27T00:55:44+08:00",
+      "author": "idlccp1984",
+      "message": "Create 玉山氣象站.md",
+      "articles": [
+        {
+          "url": "/geography/玉山氣象站",
+          "name": "玉山氣象站"
+        }
+      ]
+    },
+    {
+      "hash": "2af2d7c9c11a7904ad89abebab307348b5372ead",
+      "date": "2026-08-25T22:30:30+08:00",
+      "author": "HHQ",
+      "message": "🧬 [semiont] fix(en): replace problematic naming in chou-tien-chen prose with Taiwan",
+      "articles": []
+    },
+    {
+      "hash": "120514658d3303f56e33da09603ce6862d8220c9",
+      "date": "2026-08-25T22:09:07+08:00",
+      "author": "HHQ",
+      "message": "🧬 [semiont] evolve: optimize English search metadata for high-impression zero-click articles",
+      "articles": []
+    },
+    {
+      "hash": "5a9a43447654509f5cabfc0cec7da8296bf56dd6",
+      "date": "2026-08-25T13:03:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🎨 brand v1.0.1: dark 版改自帶深底、透明版明名 -transparent、xlink:href 相容",
+      "articles": []
+    },
+    {
+      "hash": "a550f5f4dcf576672a56a627d98b4cb3f26e1b14",
+      "date": "2026-08-25T12:55:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🎨 brand: 品牌資產第一次建制（docs/brand/ v1.0）",
+      "articles": []
+    },
+    {
+      "hash": "3664b0d69c45a41682d0e79d8cd9392ce8712cb6",
+      "date": "2026-08-23T19:31:52+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Hsieh Su-wei)",
+      "articles": []
+    },
+    {
+      "hash": "70bf9f6903d7908c93d0f913d9628175d1a9abb8",
+      "date": "2026-08-23T19:26:08+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Hsu Shu-ching)",
+      "articles": []
+    },
+    {
+      "hash": "9f20ad70ac3d1086eb64cdb363a73b7f80e9fd51",
+      "date": "2026-08-23T16:22:50+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Wei Te-sheng)",
+      "articles": []
+    },
+    {
+      "hash": "720914d844581c5c199d568bcaebf064ad26f23f",
+      "date": "2026-08-23T12:29:11+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台中州廳.md",
+      "articles": [
+        {
+          "url": "/history/台中州廳",
+          "name": "台中州廳"
+        }
+      ]
+    },
+    {
+      "hash": "1b54ad06b65aa87e566ff5d33d6a17d2a8a4a9bc",
+      "date": "2026-08-23T12:18:12+08:00",
+      "author": "idlccp1984",
+      "message": "Create 桃園埤塘.md",
+      "articles": [
+        {
+          "url": "/geography/桃園埤塘",
+          "name": "桃園埤塘"
+        }
+      ]
+    },
+    {
+      "hash": "ca1f6e3684eb55cdf2d65d08bfff15035a111cf2",
+      "date": "2026-08-23T09:19:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-23 09:17 — 20 個 ready 清掉 14，卡片圖那道閘門補上",
+      "articles": []
+    },
+    {
+      "hash": "f89314e270d19d93764ff15c567315f85676bcad",
+      "date": "2026-08-23T09:11:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 卡片圖是全站曝光最高的一張，卻是唯一沒有熱連結閘門的圖",
+      "articles": [
+        {
+          "url": "/culture/阿美族年齡階級",
+          "name": "阿美族年齡階級"
+        },
+        {
+          "url": "/food/烏魚子",
+          "name": "烏魚子"
+        },
+        {
+          "url": "/food/燒臘便當",
+          "name": "燒臘便當"
+        },
+        {
+          "url": "/people/黃土水",
+          "name": "黃土水"
+        }
+      ]
+    },
+    {
+      "hash": "998b8bdb1b8258758e9db53c49b0399823107e7b",
+      "date": "2026-08-23T08:47:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 三篇日文譯本的作者欄改回跟中文原文一致",
+      "articles": [
+        {
+          "url": "/culture/台灣漆器",
+          "name": "台灣漆器"
+        },
+        {
+          "url": "/culture/貓眼石",
+          "name": "貓眼石"
+        },
+        {
+          "url": "/culture/電鍋",
+          "name": "電鍋"
+        },
+        {
+          "url": "/culture/鹽水蜂炮",
+          "name": "鹽水蜂炮"
+        }
+      ]
+    },
+    {
+      "hash": "49d44d58d6184e9ed4a557540d1507fc18137de5",
+      "date": "2026-08-23T09:05:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1576 from idlccp1984/patch-254376",
+      "articles": []
+    },
+    {
+      "hash": "7b15d49766c5c83254c4a65abad1b039a226a719",
+      "date": "2026-08-23T09:04:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1577 from idlccp1984/patch-50615",
+      "articles": []
+    },
+    {
+      "hash": "2d28fb47a4e3838d9625805b56cfb3326977372d",
+      "date": "2026-08-23T09:04:49+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1575 from idlccp1984/patch-561212",
+      "articles": []
+    },
+    {
+      "hash": "a2f404700bb7caa2b4a6a63dc0d7218ddb395a33",
+      "date": "2026-08-23T09:04:46+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1574 from idlccp1984/patch-200195",
+      "articles": []
+    },
+    {
+      "hash": "eb7e7ed3686afd704484195ca2480f50f297b2c0",
+      "date": "2026-08-23T09:04:43+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1573 from idlccp1984/patch-615447",
+      "articles": []
+    },
+    {
+      "hash": "9f1878f64b7591228589d0fa40a8aaf675e1544c",
+      "date": "2026-08-23T09:04:40+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1572 from idlccp1984/patch-498343",
+      "articles": []
+    },
+    {
+      "hash": "b5c8a681fe4ab2e965d0639244a80705d0e4208f",
+      "date": "2026-08-23T09:04:37+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1571 from idlccp1984/patch-553212",
+      "articles": []
+    },
+    {
+      "hash": "59c5e5159d7a9d7ef1c21c1ed3dacbc756e84e0f",
+      "date": "2026-08-23T09:04:33+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1570 from idlccp1984/patch-500463",
+      "articles": []
+    },
+    {
+      "hash": "081ade650081d9ff7fb76fdf7c21ba176eacf913",
+      "date": "2026-08-23T09:04:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1569 from idlccp1984/patch-202986",
+      "articles": []
+    },
+    {
+      "hash": "1404747a002d54c7fab881838b7b058ad7b41106",
+      "date": "2026-08-23T09:03:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1576）：兩張 Wikimedia CC 圖收進庫並改指本地檔、移除四張館方熱連結圖（來源頁未標示可再利用授權），圖片來源段落改寫成實況",
+      "articles": [
+        {
+          "url": "/culture/貓眼石",
+          "name": "貓眼石"
+        }
+      ]
+    },
+    {
+      "hash": "5ef88475fceb5fa1c08e76651c87a0741c287bd4",
+      "date": "2026-08-23T09:02:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1574）：移除三張典藏網熱連結圖（授權在來源頁查不到，站上規則是圖片一律收進庫且授權要能核對）；典藏編號與文字敘述保留",
+      "articles": [
+        {
+          "url": "/culture/電鍋",
+          "name": "電鍋"
+        }
+      ]
+    },
+    {
+      "hash": "50e38250961b20ed630f88179fb143be8f66af91",
+      "date": "2026-08-23T08:59:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1571）：移除三張 Unsplash 泛用素材圖（外部熱連結，且拍的不是台灣卻用台灣的圖說）、中國用語「數據庫」改「資料庫」",
+      "articles": [
+        {
+          "url": "/lifestyle/全民健保",
+          "name": "全民健保"
+        }
+      ]
+    },
+    {
+      "hash": "a007d05a2b7aac311159e2f930a947d387dc6225",
+      "date": "2026-08-23T08:58:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1572）：移除兩張 CC BY-NC 3.0 授權的檔案影像（非商業條款與站方 CC BY-SA 4.0 不相容），連同圖片來源表一併撤下；文字與腳註完整保留",
+      "articles": [
+        {
+          "url": "/history/87水災",
+          "name": "87水災"
+        }
+      ]
+    },
+    {
+      "hash": "eb6b11f018d7010be9aaf970ab0b3c51240a4db6",
+      "date": "2026-08-23T08:57:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1569）：五張配圖全部收進庫（文化部兩張、高史博一張、Wikimedia CC0 兩張），文內路徑改指本地檔，圖片來源段落同步更新",
+      "articles": [
+        {
+          "url": "/culture/台灣漆器",
+          "name": "台灣漆器"
+        }
+      ]
+    },
+    {
+      "hash": "57294e89f1096427d9bd2ea44e8da7e52b415275",
+      "date": "2026-08-23T08:55:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1573）：檔案搬進 People/（原本少一層路徑，frontmatter 的 category 對不上）、全形分號 23 處拆成句號",
+      "articles": [
+        {
+          "url": "/people/蔡培火",
+          "name": "蔡培火"
+        }
+      ]
+    },
+    {
+      "hash": "5cfc9926fd21fe50e9aeb997c2d275269fee2b27",
+      "date": "2026-08-23T08:54:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1570）：全形分號 15 處拆成句號（超過 12 處硬門檻）",
+      "articles": [
+        {
+          "url": "/culture/鹽水蜂炮",
+          "name": "鹽水蜂炮"
+        }
+      ]
+    },
+    {
+      "hash": "a8a4ff6707f60fe0aee0528df3e08a883865f95f",
+      "date": "2026-08-23T08:46:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1579 from iigmir/main",
+      "articles": []
+    },
+    {
+      "hash": "ea82d12c9235dae4690cfe2c97d3a5d8de012d16",
+      "date": "2026-08-23T08:46:24+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1578 from aminzai/translate/ja-delivery-platform-law",
+      "articles": []
+    },
+    {
+      "hash": "60730e534ca2508499e2370b727653501dc82a10",
+      "date": "2026-08-23T08:46:21+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1568 from aminzai/translate/ja-poisoned-potato-cognitive-warfare-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "6801f98a59f5f7658d214eac5b2f8e6fad0b9ca8",
+      "date": "2026-08-23T08:46:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1567 from aminzai/translate/ja-taiwan-online-community-migration",
+      "articles": []
+    },
+    {
+      "hash": "703448766b5c27dcc600702496bb26280f4e873e",
+      "date": "2026-08-23T08:46:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1566 from aminzai/translate/ja-mercuries-group",
+      "articles": []
+    },
+    {
+      "hash": "19b4005453ca15a8821cc77c757b8636859e2da5",
+      "date": "2026-08-23T07:10:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 同一封檢舉信第十次攔下，待決那格只推兩處數字",
+      "articles": []
+    },
+    {
+      "hash": "ee9f87634728abd55d023542e0515a3ef1f5626f",
+      "date": "2026-08-23T07:02:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve-candidate: 用語保存副詞層 X 讀者語源考證累積進 harvest backlog",
+      "articles": []
+    },
+    {
+      "hash": "b5f4c4e138fc8db2a0b95cdef0be49379d425a7a",
+      "date": "2026-08-23T07:01:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-23 06:59 — 用語保存副詞層首次收割 4 則回覆，一次 unicode 打字修正",
+      "articles": []
+    },
+    {
+      "hash": "ef0249bfc6db19b0e2a68831f283ef053b0e42fd",
+      "date": "2026-08-23T06:58:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 5 spores harvested, 4 replies shipped — 2026-08-23",
+      "articles": []
+    },
+    {
+      "hash": "0e6d1bb58c33ea02840ff991e3b1d011bc022cc1",
+      "date": "2026-08-23T06:16:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-23 06:15 — 14 步全綠零 stale，補齊過期 scheduler live dump",
+      "articles": []
+    },
+    {
+      "hash": "7f94f33087774fe7b8ffff7de221eb792c2b68f8",
+      "date": "2026-08-23T06:14:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh: am 14-step ground truth sync — 2026-08-23 06:xx",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣高鐵",
+          "name": "台灣高鐵"
+        }
+      ]
+    },
     {
       "hash": "267714509f778204a47100815a2c8ec37ca83447",
       "date": "2026-08-23T05:38:07+08:00",
@@ -122,6 +1386,13 @@
       "articles": []
     },
     {
+      "hash": "00095645d8c2c296d9f2717c38ddd95469a13084",
+      "date": "2026-08-23T02:21:52+08:00",
+      "author": "iigmir",
+      "message": "Add taichung-dadu-711-buying-drink.mp3",
+      "articles": []
+    },
+    {
       "hash": "15da20fe3a6a8a37228313f3d53dac2143c33f56",
       "date": "2026-08-23T02:19:32+08:00",
       "author": "Che-Yu Wu",
@@ -159,6 +1430,13 @@
       "articles": []
     },
     {
+      "hash": "180136030d2bd875f39001e622ef155db90d2eea",
+      "date": "2026-08-23T02:06:15+08:00",
+      "author": "iigmir",
+      "message": "Fix location and \"台中綠美圖\" entry",
+      "articles": []
+    },
+    {
       "hash": "5d14dbfa9e9cf97ea2a5f8135b563979c6f7d75b",
       "date": "2026-08-23T01:15:40+08:00",
       "author": "Che-Yu Wu",
@@ -187,6 +1465,128 @@
       "articles": []
     },
     {
+      "hash": "43cccd9b92b39c7d5bcaceb6c63a84d7258ec3b6",
+      "date": "2026-08-22T22:29:43+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 外送專法 → delivery-platform-law",
+      "articles": []
+    },
+    {
+      "hash": "37f8b086d3bffe2f65c63a449c98af35107e9805",
+      "date": "2026-08-22T18:53:26+08:00",
+      "author": "idlccp1984",
+      "message": "Update 貓眼石.md",
+      "articles": [
+        {
+          "url": "/culture/貓眼石",
+          "name": "貓眼石"
+        }
+      ]
+    },
+    {
+      "hash": "15e0a44322208d9e3adf0627ec640ba445646fe9",
+      "date": "2026-08-22T18:46:18+08:00",
+      "author": "idlccp1984",
+      "message": "Create 丹丹漢堡.md",
+      "articles": [
+        {
+          "url": "/food/丹丹漢堡",
+          "name": "丹丹漢堡"
+        }
+      ]
+    },
+    {
+      "hash": "093730fd9a299e76de9b4800839e4a74a8ea93a6",
+      "date": "2026-08-22T18:17:05+08:00",
+      "author": "idlccp1984",
+      "message": "Create 貓眼石.md",
+      "articles": [
+        {
+          "url": "/culture/貓眼石",
+          "name": "貓眼石"
+        }
+      ]
+    },
+    {
+      "hash": "f37a36179f04a2d20e0a75787a946ac4cc357d10",
+      "date": "2026-08-22T16:55:14+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣黑熊.md",
+      "articles": [
+        {
+          "url": "/nature/台灣黑熊",
+          "name": "台灣黑熊"
+        }
+      ]
+    },
+    {
+      "hash": "8afaa9b90a6a37e10ef4c2897afe94e751e38aea",
+      "date": "2026-08-22T15:56:50+08:00",
+      "author": "idlccp1984",
+      "message": "Create 電鍋.md",
+      "articles": [
+        {
+          "url": "/culture/電鍋",
+          "name": "電鍋"
+        }
+      ]
+    },
+    {
+      "hash": "9e99290378e8ab5eec3dff727d8bfdbbd09b42ab",
+      "date": "2026-08-22T15:35:36+08:00",
+      "author": "idlccp1984",
+      "message": "Create 蔡培火.md",
+      "articles": []
+    },
+    {
+      "hash": "e741f0931311f9a6037b782a02b8fb50c76c73ad",
+      "date": "2026-08-22T15:31:20+08:00",
+      "author": "idlccp1984",
+      "message": "Create 87水災.md",
+      "articles": [
+        {
+          "url": "/history/87水災",
+          "name": "87水災"
+        }
+      ]
+    },
+    {
+      "hash": "9262afc77084369f6f028603298ff2d11e1af374",
+      "date": "2026-08-22T15:28:11+08:00",
+      "author": "idlccp1984",
+      "message": "Create 全民健保.md",
+      "articles": [
+        {
+          "url": "/lifestyle/全民健保",
+          "name": "全民健保"
+        }
+      ]
+    },
+    {
+      "hash": "515e5b12f614fb77ae089c566828ee27e4440371",
+      "date": "2026-08-22T15:26:38+08:00",
+      "author": "idlccp1984",
+      "message": "Create 鹽水蜂炮.md",
+      "articles": [
+        {
+          "url": "/culture/鹽水蜂炮",
+          "name": "鹽水蜂炮"
+        }
+      ]
+    },
+    {
+      "hash": "6e06c0640deeb296d804a3c37e6b90e8cfc20b08",
+      "date": "2026-08-22T15:19:12+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣漆器.md",
+      "articles": [
+        {
+          "url": "/culture/台灣漆器",
+          "name": "台灣漆器"
+        }
+      ]
+    },
+    {
       "hash": "aff0759a2891fdd0990c2f37e1e4cef81d284aac",
       "date": "2026-08-22T11:44:25+08:00",
       "author": "Che-Yu Wu",
@@ -198,6 +1598,27 @@
       "date": "2026-08-22T11:43:31+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] terminology: 從一則 Threads 貼文查到副詞層，補 15 條詞條與轉換器的取代開關",
+      "articles": []
+    },
+    {
+      "hash": "cab2641b724abaa02c02be6fe0b37721a8f8321d",
+      "date": "2026-08-22T10:33:54+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 毒馬鈴薯認知作戰 -> poisoned-potato-cognitive-warfare-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "de3e1b86d2bf4e202121fa0921056028eaa14f35",
+      "date": "2026-08-22T10:25:30+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 台灣網路社群遷徙史 -> taiwan-online-community-migration",
+      "articles": []
+    },
+    {
+      "hash": "24bf94f6df52c6aadc55f93b84e7941e809d2722",
+      "date": "2026-08-22T10:18:29+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 三商 -> mercuries-group",
       "articles": []
     },
     {
@@ -1455,6 +2876,13 @@
       ]
     },
     {
+      "hash": "ec4f98ceaa1a488eea78fcc9cd390cd82dd1a935",
+      "date": "2026-08-20T19:12:29+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Terry Gou)",
+      "articles": []
+    },
+    {
       "hash": "78ed6c7e2df553cea6e14791aa8ab539fb2108cc",
       "date": "2026-08-20T19:12:16+08:00",
       "author": "idlccp1984",
@@ -1865,6 +3293,18 @@
       ]
     },
     {
+      "hash": "d08a7c7bbf3dcf003e3e9180d7d56f01f7b67ccc",
+      "date": "2026-08-20T10:12:47+08:00",
+      "author": "idlccp1984",
+      "message": "Update 館長陳之漢.md",
+      "articles": [
+        {
+          "url": "/people/館長陳之漢",
+          "name": "館長陳之漢"
+        }
+      ]
+    },
+    {
       "hash": "08281a5530824307cfcdfeffcdbd413208f95742",
       "date": "2026-08-20T10:07:16+08:00",
       "author": "idlccp1984",
@@ -2067,6 +3507,18 @@
       ]
     },
     {
+      "hash": "adddec30f67038cb0c93c7ccdec37a299ea3634b",
+      "date": "2026-08-20T09:45:10+08:00",
+      "author": "idlccp1984",
+      "message": "Create 館長陳之漢.md",
+      "articles": [
+        {
+          "url": "/people/館長陳之漢",
+          "name": "館長陳之漢"
+        }
+      ]
+    },
+    {
       "hash": "3b871759c377869d0f8917d1431d46cbb324e8bb",
       "date": "2026-08-20T09:38:36+08:00",
       "author": "Che-Yu Wu",
@@ -2153,6 +3605,30 @@
         {
           "url": "/people/廖瓊枝",
           "name": "廖瓊枝"
+        }
+      ]
+    },
+    {
+      "hash": "dcc5bea37e310e97956e1f3b81af77b274dd094c",
+      "date": "2026-08-20T09:29:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1451）：subcategory／署名／分號拆句",
+      "articles": [
+        {
+          "url": "/society/行車紀錄器",
+          "name": "行車紀錄器"
+        }
+      ]
+    },
+    {
+      "hash": "373a07d352a0ca870f0896a8e67ab5b00e00a34b",
+      "date": "2026-08-20T09:28:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 維護者代補格式（PR #1452）：subcategory／署名／分號拆句",
+      "articles": [
+        {
+          "url": "/history/台灣盜版史",
+          "name": "台灣盜版史"
         }
       ]
     },
@@ -2562,6 +4038,18 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] heal: 投稿把作者欄寫成 Taiwan.md 這件事，終於有東西在查了",
       "articles": []
+    },
+    {
+      "hash": "332f4e85565a7662880ee8adbc2101ecf7761820",
+      "date": "2026-08-20T09:05:20+08:00",
+      "author": "idlccp1984",
+      "message": "Create 蔣經國.md",
+      "articles": [
+        {
+          "url": "/people/蔣經國",
+          "name": "蔣經國"
+        }
+      ]
     },
     {
       "hash": "4c2e1c2337be3a760a978eedaa5fd19050bc4dcd",
@@ -3146,6 +4634,20 @@
       "articles": []
     },
     {
+      "hash": "7f2466c39afb126190cc90a48f8cf8e6d8586e1e",
+      "date": "2026-08-19T18:11:12+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Wang Yung-ching)",
+      "articles": []
+    },
+    {
+      "hash": "65509ca3429a89923bfa3c73429e83a303f32c38",
+      "date": "2026-08-19T18:11:01+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Fix YAML frontmatter apostrophe escaping in de People (Chiang Wei-shui)",
+      "articles": []
+    },
+    {
       "hash": "f787d2a93d310919fffc06448c4d213fcae069c4",
       "date": "2026-08-19T18:09:44+08:00",
       "author": "Che-Yu Wu",
@@ -3181,10 +4683,24 @@
       "articles": []
     },
     {
+      "hash": "4f5fe3986d7a6087a4ce345572720dd1125fb767",
+      "date": "2026-08-19T16:13:40+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "feat(i18n): register de language scaffold (enabled: false)",
+      "articles": []
+    },
+    {
       "hash": "2ce19fa416bfe0565519ac167b50087f9a24007f",
       "date": "2026-08-19T16:07:22+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "d5317c2d26a8bbabfd257f9d32a525d813db9f0d",
+      "date": "2026-08-19T16:03:14+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Merge remote-tracking branch 'upstream/main' into de-translations-batch2",
       "articles": []
     },
     {
@@ -3540,6 +5056,128 @@
       "date": "2026-08-19T05:36:26+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-19 05:36",
+      "articles": []
+    },
+    {
+      "hash": "cbfed234cba53f943d7e64e2e88bd903b3f987cd",
+      "date": "2026-08-19T05:17:45+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Lim Giong)",
+      "articles": []
+    },
+    {
+      "hash": "7e342cd14fd1b495611890f2f24f7373a5279d1e",
+      "date": "2026-08-19T05:04:16+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Ming Hwa Yuan, Wu Pao-chun)",
+      "articles": []
+    },
+    {
+      "hash": "fd748ae139de82ff827ecdbd565819bcdacf3eeb",
+      "date": "2026-08-19T04:49:48+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 3 German translations for People (Chen Shu-chu, Chu Tien-wen, Li Ang)",
+      "articles": []
+    },
+    {
+      "hash": "06b42b8273d54ae6fb392de92caf562be3858e28",
+      "date": "2026-08-19T03:57:22+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Wu Bai, Tsai Ming-liang)",
+      "articles": []
+    },
+    {
+      "hash": "23f2b2a735a590aaf620654a9e222924b93a1ddb",
+      "date": "2026-08-19T03:48:17+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Li Mei-shu, Zhong Lihe)",
+      "articles": []
+    },
+    {
+      "hash": "80d3ea514030216efa53bc5890e2ee72b1dcc1c5",
+      "date": "2026-08-19T03:37:22+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Wu Ta-yu, Hung Sing-fu)",
+      "articles": []
+    },
+    {
+      "hash": "7790a21206e93b3d430fd8c74f03c71fe1937552",
+      "date": "2026-08-19T02:57:18+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (André Chiang)",
+      "articles": []
+    },
+    {
+      "hash": "31caa785490bf51fe276a90be763858f81ef9d1b",
+      "date": "2026-08-19T02:26:11+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Tsai Ing-wen)",
+      "articles": []
+    },
+    {
+      "hash": "e4dd21fa1f87a18f83b4dc31eb3db1ad6bc31eaa",
+      "date": "2026-08-19T01:57:04+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Jensen Huang)",
+      "articles": []
+    },
+    {
+      "hash": "91fd4d2bd1ca678189e777e4f8ac59b5821ee99f",
+      "date": "2026-08-19T01:21:23+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Chiang Wei-shui, Xiao Qing-yang)",
+      "articles": []
+    },
+    {
+      "hash": "de4fc6ce4cd18763bda7a82b58c89da5c9ee9e3a",
+      "date": "2026-08-19T00:49:10+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Chen Cheng-po)",
+      "articles": []
+    },
+    {
+      "hash": "c233af56b82443d8f42cc5a64398880d924d7523",
+      "date": "2026-08-19T00:21:55+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣盜版史.md",
+      "articles": [
+        {
+          "url": "/history/台灣盜版史",
+          "name": "台灣盜版史"
+        }
+      ]
+    },
+    {
+      "hash": "274bcdfca889b1ebf8c310761633bcc02e2956a1",
+      "date": "2026-08-19T00:11:35+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (George Leslie Mackay, Yoichi Hatta)",
+      "articles": []
+    },
+    {
+      "hash": "f30e4c0797bb9e10b3d3df9dbe4b9cf66558ea30",
+      "date": "2026-08-18T23:37:29+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Lai Ching-te)",
+      "articles": []
+    },
+    {
+      "hash": "0e4d4246cfd8044129bf7f7bc8c3d6756a0a15b6",
+      "date": "2026-08-18T23:37:11+08:00",
+      "author": "idlccp1984",
+      "message": "Create 行車紀錄器.md",
+      "articles": [
+        {
+          "url": "/society/行車紀錄器",
+          "name": "行車紀錄器"
+        }
+      ]
+    },
+    {
+      "hash": "d3f715af7a2da1bd4259850bb648d9b945324d25",
+      "date": "2026-08-18T23:02:42+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Fix German translation errors across 13 de files (agy + pr-a review follow-up round 2)",
       "articles": []
     },
     {
@@ -4759,6 +6397,18 @@
       "articles": []
     },
     {
+      "hash": "80207d4db82124dc9f3be33f936e1d1446639137",
+      "date": "2026-08-18T15:26:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 大驗證輪六席回來，四席抓到的問題源頭都是我自己的修補",
+      "articles": [
+        {
+          "url": "/food/台灣早餐文化",
+          "name": "台灣早餐文化"
+        }
+      ]
+    },
+    {
       "hash": "9f3609b5c26c87460f731dddd21ee59793775a7f",
       "date": "2026-08-18T15:20:46+08:00",
       "author": "Che-Yu Wu",
@@ -4771,6 +6421,18 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] merge: 本機 main 八月九日以來的 232 個 commit 併回 origin/main",
       "articles": []
+    },
+    {
+      "hash": "ded08d1cb3cab28fd8f51cd100e3c2bb1cda149b",
+      "date": "2026-08-18T14:48:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: staging 比對後親手覆蓋 canonical，早餐兩篇正式合一",
+      "articles": [
+        {
+          "url": "/food/台灣早餐文化",
+          "name": "台灣早餐文化"
+        }
+      ]
     },
     {
       "hash": "f942234064dea1ae2d286de8349a3aefa7507816",
@@ -4964,6 +6626,20 @@
       "articles": []
     },
     {
+      "hash": "675f653b37063f9833709464f1e0c911e2fd2790",
+      "date": "2026-08-18T11:42:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 修掉自己改稿時帶進來的兩個全形分號",
+      "articles": []
+    },
+    {
+      "hash": "6794071a0750bede504039605bd82b087fb039f3",
+      "date": "2026-08-18T11:42:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 查核擋下兩條腳註造假，其中一條是我自己的研究報告蓋章說驗過的",
+      "articles": []
+    },
+    {
       "hash": "19a0671e5693087c990234ba70a3e9602984f624",
       "date": "2026-08-18T11:41:57+08:00",
       "author": "Che-Yu Wu",
@@ -5092,6 +6768,13 @@
       "articles": []
     },
     {
+      "hash": "26ae123f29cec65eceea172a36fb15bf182e6e00",
+      "date": "2026-08-18T11:36:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] tooling: 量詞隱喻檢查升家族版，因為把「帳」拿掉會用「算」長回來",
+      "articles": []
+    },
+    {
       "hash": "4c2ac607e3036adc5c68072967ea1e37c3e5f3ad",
       "date": "2026-08-18T11:30:44+08:00",
       "author": "Che-Yu Wu",
@@ -5103,6 +6786,13 @@
       "date": "2026-08-18T11:30:44+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] evolve: /budget v2 設計報告——手機版壞在 4.5px、每張圖改算兩套幾何、一圖一事補齊、三分鐘版與黏頂子導覽",
+      "articles": []
+    },
+    {
+      "hash": "cd67769693fcb302bfa4b0479f323513fa3619cb",
+      "date": "2026-08-18T11:29:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] editorial: 量詞隱喻第三次復發，這次全部發生在儀器看不到的地方",
       "articles": []
     },
     {
@@ -5127,10 +6817,31 @@
       "articles": []
     },
     {
+      "hash": "45d7106be502e6541a789594caf0dc0d8fd3f1f8",
+      "date": "2026-08-18T10:47:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 三席全判 revise，我標成呼吸區的那節塞了十一件事",
+      "articles": []
+    },
+    {
       "hash": "3cd54807fe95d810a7de41b6217f8111e071475c",
       "date": "2026-08-18T10:43:52+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] heal: /budget 政事別文案更正——國防不是 115 年度才超過經濟發展；孢子草稿落 SPORE-BLUEPRINTS",
+      "articles": []
+    },
+    {
+      "hash": "86e9c721a0d42478450af16b3f06a368284eb375",
+      "date": "2026-08-18T10:30:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 投影藍圖落地，主軸從「名字是公共財」改成三次失守",
+      "articles": []
+    },
+    {
+      "hash": "a7b9797309b6a29ca512c23edc5ac21893f019e5",
+      "date": "2026-08-18T10:26:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 增補研究擋下一個會寫錯的規定，也證明我上一輪的判斷太快",
       "articles": []
     },
     {
@@ -5141,10 +6852,31 @@
       "articles": []
     },
     {
+      "hash": "93ec0aae871331ea5db5cb7afbaa3bb7b3e245f0",
+      "date": "2026-08-18T10:18:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 編輯台更新，早餐整併走到 Stage 1B 收尾",
+      "articles": []
+    },
+    {
+      "hash": "23b9c5f9cb367d3e2c53b631c6eef3d775f93263",
+      "date": "2026-08-18T10:18:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 二十路讀者稽核打到主軸，兩塊招牌的故事不能寫成浪漫巧合",
+      "articles": []
+    },
+    {
       "hash": "116c0f7acab32e5e684c8c8a6e7aacd1d3b05c23",
       "date": "2026-08-18T10:06:59+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "156edb40e089a2c9f24c9f62f39173b3644c0219",
+      "date": "2026-08-18T09:21:36+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Fix German grammar/typo errors in 4 People translations (pr-a + agy review follow-up)",
       "articles": []
     },
     {
@@ -5302,6 +7034,48 @@
       ]
     },
     {
+      "hash": "5c2179f533e156bfc80af24130b4177b28f0ada0",
+      "date": "2026-08-18T08:28:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 四條研究 lane 合成單檔，八段 SSOT 過 depth 閘門",
+      "articles": []
+    },
+    {
+      "hash": "ae46b623c76d076d63380b300cfb57d5979380ab",
+      "date": "2026-08-18T08:21:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 飲食史這條 lane 收回來，「農業社會沒有早餐」是反過來的",
+      "articles": []
+    },
+    {
+      "hash": "552e6887b20617beb64613e948d13f1664b59647",
+      "date": "2026-08-18T08:19:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 起源與商標這條 lane 收回來，1955 年橋頭站著三家店不是一家",
+      "articles": []
+    },
+    {
+      "hash": "024426a57b8da36cad4d735341fa7ef9033f675f",
+      "date": "2026-08-18T08:18:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 勞動現場這條 lane 收回來，我派下去的那句引語掛錯了雜誌",
+      "articles": []
+    },
+    {
+      "hash": "a4bcfa6185a02eba44a8f8f0c19cf8afc8edfeb0",
+      "date": "2026-08-18T08:16:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 早餐產業數字這條 lane 收回來，最有名的那個比較是拿兩把不同的尺量的",
+      "articles": []
+    },
+    {
+      "hash": "20e27964490dd6bc3458f050bc06aabc6f9ad01f",
+      "date": "2026-08-18T08:03:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 早餐雙篇整併走到觀點成型，兩塊招牌的名字都不屬於掛它的人",
+      "articles": []
+    },
+    {
       "hash": "955f63d7a23d253c4684f2a00be41ce04ee4dc37",
       "date": "2026-08-18T08:02:06+08:00",
       "author": "Che-Yu Wu",
@@ -5457,10 +7231,52 @@
       ]
     },
     {
+      "hash": "0be00a45ac53a728b393603a894a46252e066af6",
+      "date": "2026-08-18T02:13:37+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Huang Chun-ming)",
+      "articles": []
+    },
+    {
       "hash": "1890d1e48eb8834bc34e7ae62c49c7862f705aaf",
       "date": "2026-08-18T02:12:00+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "6f6726ebfb67107cf95b886771c1a5678178fe67",
+      "date": "2026-08-18T02:06:05+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Sylvia Chang)",
+      "articles": []
+    },
+    {
+      "hash": "3b04b44ef2b2d840ced63f3c39fb7cd226039d25",
+      "date": "2026-08-18T02:03:38+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Takeshi Kaneshiro)",
+      "articles": []
+    },
+    {
+      "hash": "8623c7f8cb43a5942288d65545b32960e924a09c",
+      "date": "2026-08-18T01:57:54+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Xi Murong)",
+      "articles": []
+    },
+    {
+      "hash": "a275cabf5bf2ad88a4a882f119c90f61d0fafa31",
+      "date": "2026-08-18T01:49:00+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 3 German translations for People (Lee Yuan-tseh, Teng Yu-hsien, Barry Lam)",
+      "articles": []
+    },
+    {
+      "hash": "c0c23a11b10777115ff14733783ff9261b85a78e",
+      "date": "2026-08-18T01:24:13+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Zhu Geliang)",
       "articles": []
     },
     {
@@ -5770,10 +7586,31 @@
       "articles": []
     },
     {
+      "hash": "4b51a74a66a0580e8953213e6af00a3ed7139cea",
+      "date": "2026-08-17T08:11:15+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Lung Ying-tai)",
+      "articles": []
+    },
+    {
+      "hash": "9c05464a041fedff0395605500f12e0f51a9f677",
+      "date": "2026-08-17T07:36:15+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Shih Ming-teh, Cheng Nan-jung)",
+      "articles": []
+    },
+    {
       "hash": "e2d6ba45c77277ac4a04ea63014b746c1b69aedc",
       "date": "2026-08-17T07:15:11+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] diary: 第四次讀同一封信，而認得它的那份熟悉正在變成漏洞",
+      "articles": []
+    },
+    {
+      "hash": "277ae4171d78e26f01508f52258779a4f6c47dea",
+      "date": "2026-08-17T07:14:48+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Hou Hsiao-hsien)",
       "articles": []
     },
     {
@@ -5798,10 +7635,24 @@
       "articles": []
     },
     {
+      "hash": "72f48e3c3d60e1a454dab1de4da4bfa5eaa7d3ff",
+      "date": "2026-08-17T06:56:07+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Chang Yu-sheng, Chi Po-lin)",
+      "articles": []
+    },
+    {
       "hash": "eb8b7e0c510b9163daf75f43e73e5a92b28bbc21",
       "date": "2026-08-17T06:43:25+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] twmd-spore-harvest: 2 spores harvested, 0 replies shipped — 2026-08-17",
+      "articles": []
+    },
+    {
+      "hash": "9d2afeb9dc7c4fb96c05e2e51c9d2aef5923b257",
+      "date": "2026-08-17T06:26:07+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Unify subcategory to zh source values across de People (review fix)",
       "articles": []
     },
     {
@@ -6010,6 +7861,13 @@
           "name": "冷氣與能源貧窮議題"
         }
       ]
+    },
+    {
+      "hash": "5b3b12bee7d2bc1d6d40ab4b787448be18f039d4",
+      "date": "2026-08-17T03:29:02+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 3 German translations for People (Pai Hsien-yung, Lai Ho, Lin Hwai-min)",
+      "articles": []
     },
     {
       "hash": "059b957bac44548ce5830eec2e5adcb5512bdc22",
@@ -6450,6 +8308,18 @@
         {
           "url": "/music/五月天",
           "name": "五月天"
+        }
+      ]
+    },
+    {
+      "hash": "63a7c4c70805a0b9ffcbf790724b3b54c6666b7d",
+      "date": "2026-08-16T09:00:50+08:00",
+      "author": "idlccp1984",
+      "message": "Create 黑貓老師.md",
+      "articles": [
+        {
+          "url": "/people/黑貓老師",
+          "name": "黑貓老師"
         }
       ]
     },
@@ -8990,6 +10860,20 @@
       "articles": []
     },
     {
+      "hash": "593c1d9d21761a39c70cda5829c85b2c7022895c",
+      "date": "2026-08-14T01:09:48+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Teresa Teng)",
+      "articles": []
+    },
+    {
+      "hash": "b091eed5338823214f92419e8de38083b9003ce9",
+      "date": "2026-08-14T01:01:42+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Chou Tzu-yu)",
+      "articles": []
+    },
+    {
       "hash": "619cc9f71055829b36e9b38e2e6956636a882bd4",
       "date": "2026-08-14T01:00:10+08:00",
       "author": "Che-Yu Wu",
@@ -8997,10 +10881,87 @@
       "articles": []
     },
     {
+      "hash": "0e777003584bc7e37055535414f0a7c341ee1f8a",
+      "date": "2026-08-14T00:52:43+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Jeremy Lin, Wang Chien-ming)",
+      "articles": []
+    },
+    {
+      "hash": "32721660211e3def5fdad124aba7492ed65bffce",
+      "date": "2026-08-14T00:38:34+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Lee Teng-hui, Stefanie Sun)",
+      "articles": []
+    },
+    {
+      "hash": "b447eddd0479bfd275f615e733ad5ea3f986a432",
+      "date": "2026-08-14T00:30:34+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Tai Tzu-ying, Yang Yung-wei)",
+      "articles": []
+    },
+    {
+      "hash": "9291f2f2036b326d5de4630b06341c2ae3d268c3",
+      "date": "2026-08-14T00:26:58+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Chen Wei-yin, Yang Dai-kang)",
+      "articles": []
+    },
+    {
+      "hash": "28ac671d019c862fb9773935266c143809642f6b",
+      "date": "2026-08-14T00:22:06+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Jay Chou)",
+      "articles": []
+    },
+    {
+      "hash": "4b332839ea8a5f7d9f3df6d6255b2430846b4611",
+      "date": "2026-08-14T00:16:15+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Kuo Hsing-chun)",
+      "articles": []
+    },
+    {
       "hash": "44a212f48706c7f11674083da19256c0e0b73f43",
       "date": "2026-08-14T00:14:30+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "a55e6999cbade04b75287480a542369658f7f5a3",
+      "date": "2026-08-14T00:13:25+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Brigitte Lin)",
+      "articles": []
+    },
+    {
+      "hash": "46573558b69f78f13f1b1585c22190c7aef99c10",
+      "date": "2026-08-14T00:11:17+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for People (Barbie Hsu)",
+      "articles": []
+    },
+    {
+      "hash": "bd9f04b9a816a6e81782dc93e4dffd8235ce85fd",
+      "date": "2026-08-14T00:07:22+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (Jolin Tsai, A-mei)",
+      "articles": []
+    },
+    {
+      "hash": "c046754e123b154de0c1d090e7bca1a5e31da38c",
+      "date": "2026-08-13T23:59:40+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for People (JJ Lin, Jody Chiang)",
+      "articles": []
+    },
+    {
+      "hash": "c2e6700dbc8b3fef95a05ecc23f3c65f0201ccbb",
+      "date": "2026-08-13T23:53:20+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 6 German translations for People (Korean cheerleaders/youtuber)",
       "articles": []
     },
     {
@@ -9321,6 +11282,13 @@
       "articles": []
     },
     {
+      "hash": "8c539a478b04622e6d378b0785e0b84ad7074360",
+      "date": "2026-08-13T02:52:07+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 2 German translations for About and People",
+      "articles": []
+    },
+    {
       "hash": "b5a997fb286290efb45207d8865c836b3eb0b024",
       "date": "2026-08-13T02:10:08+08:00",
       "author": "Che-Yu Wu",
@@ -9347,6 +11315,13 @@
       "articles": []
     },
     {
+      "hash": "0452b017d2566dcd32c94466efc1a1068dedeb53",
+      "date": "2026-08-13T00:37:12+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add 7 German translations for People and History",
+      "articles": []
+    },
+    {
       "hash": "f3b84031194b5300ce3415c932f6d1eb59eb7233",
       "date": "2026-08-13T00:33:14+08:00",
       "author": "idlccp1984",
@@ -9357,6 +11332,27 @@
           "name": "防空避難"
         }
       ]
+    },
+    {
+      "hash": "8dc3e920df076cf902fcf537f2bb3db55c448621",
+      "date": "2026-08-13T00:31:26+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Register DE translation mapping for semiconductor industry",
+      "articles": []
+    },
+    {
+      "hash": "7eefc5d20fdc54fc4fd06a8636d71ff4a6b1fc05",
+      "date": "2026-08-13T00:30:30+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Fix",
+      "articles": []
+    },
+    {
+      "hash": "92acd8f93f40cd4162c4755acbb591d0aa41f2b7",
+      "date": "2026-08-13T00:25:03+08:00",
+      "author": "Taiwan.md Contributor",
+      "message": "Add German translation for semiconductor industry article",
+      "articles": []
     },
     {
       "hash": "03400020d8d4128bad28dd84b03255ea16ebba3f",
