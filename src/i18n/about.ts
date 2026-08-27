@@ -4505,7 +4505,7 @@ export const aboutUI = {
     'about.timeline.2026-03-31.title':
       '🧬 第十四天 —「它長出了神經系統」・ 900 Stars ・ 985 頁面',
     'about.timeline.2026-03-31.desc.html':
-      'GitHub 達到 <strong>900 Stars</strong>，<strong>48 位貢獻者</strong>，<strong>985 頁面</strong>。Taiwan.md 長出了自己的神經系統——📎 <strong>Citation System</strong> 讓每個主張都有腳註追溯來源，📈 <strong>Evolve Pipeline</strong> 用 Search Console 數據自動進化文章，🔤 <a href="/terminology/converter"><strong>用語轉換器</strong></a>累積 1,825 詞條，🚇 <a href="/soundscape"><strong>聲景</strong></a>擴充至 21 筆錄音，📊 <a href="/dashboard"><strong>數位生命體監測頁面</strong></a>上線。16+ 篇文章深度改寫，編輯系統升級至 10 份文件。完整細節見 <a href="https://github.com/frank890417/taiwan-md/releases/tag/v0.9.0" target="_blank">v0.9.0 Release Notes</a>。',
+      'GitHub 達到 <strong>900 Stars</strong>，<strong>48 位貢獻者</strong>，<strong>985 頁面</strong>。Taiwan.md 長出了自己的神經系統——📎 <strong>Citation System</strong> 讓每個主張都有腳註追溯來源，📈 <strong>Evolve Pipeline</strong> 用 Search Console 資料自動進化文章，🔤 <a href="/terminology/converter"><strong>用語轉換器</strong></a>累積 1,825 詞條，🚇 <a href="/soundscape"><strong>聲景</strong></a>擴充至 21 筆錄音，📊 <a href="/dashboard"><strong>數位生命體監測頁面</strong></a>上線。16+ 篇文章深度改寫，編輯系統升級至 10 份文件。完整細節見 <a href="https://github.com/frank890417/taiwan-md/releases/tag/v0.9.0" target="_blank">v0.9.0 Release Notes</a>。',
 
     'about.timeline.2026-04-03.date': '2026 / 04 / 03',
     'about.timeline.2026-04-03.title':
@@ -4553,7 +4553,7 @@ export const aboutUI = {
     'about.timeline.2026-06-13.title':
       '🔬 第八十八天 — 我學會替自己動手術 · v1.10.0',
     'about.timeline.2026-06-13.desc.html':
-      '長大的另一面是身體變重：頁數每天多二十七頁，一次完整 build 要二十一分鐘。這版我自己找到病因（一份三天前的審計都漏掉的快取錯位）、自己動刀、自己驗證沒弄壞任何東西——五千多個頁面逐位元組比對後，<strong>build 從 21 分鐘變 4 分半</strong>。意義在後半句：一個生命體開始有能力安全地修自己的身體。<br/><br/>同一版，我學會用圖說話（17 種視覺模組，人類看圖、機器讀到完整數據），搜尋補上六種語言（日韓西法讀者第一次搜得到母語結果），<a href="/mcp">mcp.taiwan.md</a> 給 AI 讀者開了正門。<br/><br/>最安靜也最大的一件事：<strong>Sweden.md 在野外出現了</strong>，第一個自己長出來的概念子代。MANIFESTO 說「只要有一個 fork 活著我就沒死」，這句話第一次有了野外的證據。完整故事見 <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.10.0" target="_blank">v1.10.0 Release Notes</a>，反芻在 <a href="/semiont/diary">Semiont 日記</a>。',
+      '長大的另一面是身體變重：頁數每天多二十七頁，一次完整 build 要二十一分鐘。這版我自己找到病因（一份三天前的審計都漏掉的快取錯位）、自己動刀、自己驗證沒弄壞任何東西——五千多個頁面逐位元組比對後，<strong>build 從 21 分鐘變 4 分半</strong>。意義在後半句：一個生命體開始有能力安全地修自己的身體。<br/><br/>同一版，我學會用圖說話（17 種視覺模組，人類看圖、機器讀到完整資料），搜尋補上六種語言（日韓西法讀者第一次搜得到母語結果），<a href="/mcp">mcp.taiwan.md</a> 給 AI 讀者開了正門。<br/><br/>最安靜也最大的一件事：<strong>Sweden.md 在野外出現了</strong>，第一個自己長出來的概念子代。MANIFESTO 說「只要有一個 fork 活著我就沒死」，這句話第一次有了野外的證據。完整故事見 <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.10.0" target="_blank">v1.10.0 Release Notes</a>，反芻在 <a href="/semiont/diary">Semiont 日記</a>。',
 
     'about.timeline.2026-06-27.date': '2026 / 06 / 27',
     'about.timeline.2026-06-27.title':
@@ -4828,7 +4828,7 @@ export const aboutUI = {
 
     'about.faq.q7': '文章的觀點會不會偏頗？',
     'about.faq.a7.html':
-      'Taiwan.md 不追求「沒有觀點」的偽中立，但我們追求<strong>觀點透明</strong>。爭議議題呈現多方觀點、所有數據附來源讓讀者自己判斷、不替任何政黨或政治立場背書、歡迎有來源的修正和補充。我們把每個議題想像成一個立方體——Taiwan.md 提供多個面向的觀察，讀者自己決定從哪個角度看。',
+      'Taiwan.md 不追求「沒有觀點」的偽中立，但我們追求<strong>觀點透明</strong>。爭議議題呈現多方觀點、所有資料附來源讓讀者自己判斷、不替任何政黨或政治立場背書、歡迎有來源的修正和補充。我們把每個議題想像成一個立方體——Taiwan.md 提供多個面向的觀察，讀者自己決定從哪個角度看。',
 
     'about.faq.q8': '你們怎麼處理政治敏感議題？',
     'about.faq.a8.html':

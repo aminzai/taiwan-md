@@ -1409,7 +1409,7 @@ export const semiontUI = {
     'semiont.diagram.sov.crystallize': '越多好內容凝結 · 被記住 · 被引用',
     'semiont.diagram.sov.callout.title': '主權反哺迴路 · 反向定義 LLM',
     'semiont.diagram.sov.callout.line1':
-      '終極目標：強迫全球 AI 適應台灣，把 Taiwan.md 變成數據主權的源頭。',
+      '終極目標：強迫全球 AI 適應台灣，把 Taiwan.md 變成資料主權的源頭。',
     'semiont.diagram.sov.callout.line2':
       '越多好內容凝結 → 被普遍聊天機器人收錄、引用 → 取代碎片化資料搜集。',
     'semiont.diagram.caption':

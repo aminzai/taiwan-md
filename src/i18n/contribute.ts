@@ -5659,7 +5659,7 @@ export const contributeUI = {
     'contribute.org.government.icon': '🏛️',
     'contribute.org.government.title': '政府機關 / 公部門',
     'contribute.org.government.desc':
-      '提供官方開放資料、統計數據、政策文件。協助事實查核與內容校正。授權使用政府出版品內容或 CC 授權圖片。',
+      '提供官方開放資料、統計資料、政策文件。協助事實查核與內容校正。授權使用政府出版品內容或 CC 授權圖片。',
     'contribute.org.government.example':
       '例：文化部、觀光署、原民會、農業部、國史館',
 
@@ -5667,7 +5667,7 @@ export const contributeUI = {
     'contribute.org.academic.icon': '🎓',
     'contribute.org.academic.title': '學術機構 / 研究單位',
     'contribute.org.academic.desc':
-      '協助撰寫或審核專業領域文章。提供研究數據與學術觀點。推薦學生以 Taiwan.md 作為開放知識實踐場域。',
+      '協助撰寫或審核專業領域文章。提供研究資料與學術觀點。推薦學生以 Taiwan.md 作為開放知識實踐場域。',
     'contribute.org.academic.example':
       '例：中研院、大學台灣文學系所、博物館、文史工作室',
 
@@ -5709,7 +5709,7 @@ export const contributeUI = {
     'contribute.guides.writing.ironlaws.story':
       '<strong>有故事，不只有資訊</strong> — 年份、數字、人名只是骨架，敘事才是血肉',
     'contribute.guides.writing.ironlaws.verify':
-      '<strong>每個事實都要可查證</strong> — 無來源的數據不如不寫',
+      '<strong>每個事實都要可查證</strong> — 無來源的資料不如不寫',
     'contribute.guides.writing.ironlaws.density':
       '<strong>密度優先，不是長度優先</strong> — 80行的好文章 > 300行的bullet list，但有脈絡的深度策展 > 為了壓縮而失去語境的摘要',
     'contribute.guides.writing.core': '⚡ Step 0：找到反直覺核心句',
@@ -6112,7 +6112,7 @@ export const contributeUI = {
       '引導式新增文章、對任何 slug 跑 Stage 3.5 幻覺審計（5 pattern detector，執行 MANIFESTO §10 幻覺鐵律）、瀏覽 ARTICLE-INBOX。',
     'contribute.cli.organism.title': '生命體內觀',
     'contribute.cli.organism.desc':
-      '從終端機讀 Semiont 生命徵象：8 器官健康分數、三源感知數據（GA / SC / CF）、Portaly 贊助統計（PII 自動遮罩）。',
+      '從終端機讀 Semiont 生命徵象：8 器官健康分數、三源感知資料（GA / SC / CF）、Portaly 贊助統計（PII 自動遮罩）。',
     'contribute.cli.discussion': '討論',
   },
   es: {
