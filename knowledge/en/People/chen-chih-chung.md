@@ -1,6 +1,6 @@
 ---
-title: "Chen Chih-chung: From the Spotlight of the First Family to Political Ups and Downs Under the 'Blacklisting Clause'"
-description: "In 2008, Chen Chih-chung was forced to interrupt his studies and return to Taiwan due to an overseas money laundering case, beginning a political career intertwined with judicial controversies. He was elected Kaohsiung City Councilor twice with the highest vote share in his constituency, yet was also removed from office three times due to legal cases. After the passage of the 'blacklisting clause' in 2023, his political path appeared to reach an end, but he turned to social media platforms such as Threads, engaging in humorous interactions with his father Chen Shui-bian under the nickname 'Water,' showcasing an unconventional father-son relationship and a digital comeback."
+title: 'Chen Chih-chung: Political Rise, Legal Battles, and Digital Reinvention'
+description: 'From first family heir to top Kaohsiung councilor, Chen Chih-chung weathered decade-long scandals and election bans before finding a second voice on social media.'
 date: 2026-05-04
 author: 'Taiwan.md Contributors'
 category: 'People'
