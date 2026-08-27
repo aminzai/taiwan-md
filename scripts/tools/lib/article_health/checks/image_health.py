@@ -236,6 +236,35 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 editorial_ref=EDITORIAL_REF,
             )
 
+    # ── 1b. 同一張圖在同一篇重複出現 HARD gate（2026-08-27）────────────────
+    # 媒體下限（圖＋影片＋viz ≥ 3）是個計數器，而計數器會製造湊數的誘因：把同一張
+    # 圖貼三次，數字就到了。維護 cycle 實測全站五篇這樣做，其中林佳辰那篇把一張
+    # 國家音樂廳管弦樂照片同時當卡片圖與兩處內文圖，三段圖說都自己寫著「此圖不是
+    # 林佳辰演出現場」。讀者看到的是一篇有三張圖的文章，實際上只有一張，而且跟主角
+    # 無關。LESSONS `gate-triggers-content-degradation-incentive` 的第 N 次：
+    # 閘門量什麼，投稿端就長出什麼形狀去滿足它。
+    # 只數 inline 之間的重複，**不把 frontmatter hero 算進去**。第一版把 hero 也
+    # 計入，dogfood 全站 125 篇命中，拆開一看 108 篇是「卡片圖同時當開頭圖」——
+    # 那是站上既有慣例，不是湊數。把慣例跟湊數混進同一個計數器，就是 REFLEXES #38
+    # 「混維度 = silent killer」在閘門層的樣子；照那版上線會一次誤殺 108 篇好文章
+    # （REFLEXES #66：閾值要用真實產出 dogfood 校準，不是憑想像設）。
+    # 拆開後真訊號 11 篇。判準硬（同一個 src 字串在內文出現 ≥2 次），不需要判斷力。
+    _seen_src: dict[str, int] = {}
+    for m in inline_matches:
+        _seen_src[m.group(2).strip()] = _seen_src.get(m.group(2).strip(), 0) + 1
+    for src, n in _seen_src.items():
+        if n >= 2:
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.HARD,
+                message=(
+                    f"同一張圖在本篇重複 {n} 次 — 媒體下限要的是不同的畫面，"
+                    f"不是同一張貼幾遍。刪掉重複的，或換一張真的跟該段落有關的圖"
+                ),
+                snippet=src[:80],
+                editorial_ref=EDITORIAL_REF,
+            )
+
     # ── 2. frontmatter image — hot-link + file existence HARD gate ───────────
     # hero 圖跟 inline 圖走同一條規則。2026-08-23 之前這裡只驗本地路徑存不存在，
     # 外部熱連結整條分支不進去 —— 於是全站曝光度最高的那張圖（卡片圖、OG 分享圖）
