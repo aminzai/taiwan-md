@@ -20,12 +20,12 @@
 
 腳註定義的形狀（全站 17,132 條定義掃描）：
 
-| 形狀                       | 條數   | 佔比  | 卡片能給什麼           |
-| -------------------------- | ------ | ----- | ---------------------- |
-| `[標題](網址) — 說明`      | 16,041 | 93.6% | 標題＋網域＋說明＋開啟 |
-| 純網址（無 markdown 連結） | 445    | 2.6%  | 網域＋全文＋開啟       |
-| 完全沒有網址               | 356    | 2.1%  | 全文（不顯示開啟鍵）   |
-| 連結不在開頭               | 290    | 1.7%  | 全文＋第一個連結       |
+| 形狀                                              | 條數   | 佔比  | 卡片能給什麼           |
+| ------------------------------------------------- | ------ | ----- | ---------------------- |
+| `[標題](網址) — 說明`（含 `(<網址>)` 角括號寫法） | 16,133 | 94.2% | 標題＋網域＋說明＋開啟 |
+| 純網址（無 markdown 連結）                        | 383    | 2.2%  | 網域＋全文＋開啟       |
+| 完全沒有網址                                      | 356    | 2.1%  | 全文（不顯示開啟鍵）   |
+| 連結不在開頭                                      | 260    | 1.5%  | 全文＋第一個連結       |
 
 引用最多的來源網域前六名：`zh.wikipedia.org`（1,704）、`cna.com.tw`（549）、`en.wikipedia.org`（254）、`news.ltn.com.tw`（251）、`udn.com`（241）、`twreporter.org`（237）。《報導者》本身就是站上第六大引用來源，這次的建議算是他們自己的稿子在替自己說話。
 
@@ -171,39 +171,58 @@ grep `footnote` 掃過 `scripts/`、`src/`、`.github/`、`.husky/`：
 
 ### 3.4 儀器化
 
-不自己呼叫 `gtag`，改成滿足 `EventTracker` 既有的 markup contract，讓它自動接：
+> 這一節在實作中被哲宇校正過一次（§後記 3）。初版只靠 `EventTracker` 的 markup contract，只涵蓋點擊——而桌機的主要互動是 hover，「有多少人在用」剛好量不到，等於原地復發 §1.4 罵的那個病。下面是校正後的版本。
 
-| 動作           | 掛的屬性                                                     | 產生的事件                                     |
-| -------------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 點 `[n]` 記號  | `data-ga-section="footnote_marker"` `data-ga-label="{編號}"` | `content_click`                                |
-| 點「開啟來源」 | `data-ga-section="footnote_card"` `data-ga-label="{網域}"`   | `outbound_click`（第一次有來源點擊率這格資料） |
+三個訊號，一條漏斗：
 
-`EventTracker` 的點擊監聽掛在 `document` 上（[EventTracker.astro:200](../src/components/EventTracker.astro) `addEventListener('click', _onClick, {capture:true})`），動態產生的卡片自動被涵蓋。`section` / `label` / `link_url` / `page_lang` 四個參數都已註冊在 `register-ga4-custom-dimensions.py` 的 `ENGAGEMENT_DIMENSIONS`，**不新增任何參數，所以 `instrumentation-audit.py` 的 CI 閘門零改動**。
+| 訊號       | 事件                 | 怎麼來                                                                                                 | 回答什麼                             |
+| ---------- | -------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| 展開一張卡 | `footnote_card_open` | 元件自己送，帶 `trigger`（hover／click／focus）＋ `section` `label` `link_url` `page_lang` `page_type` | 多少人在用、用哪種手勢、展開哪些來源 |
+| 點 `[n]`   | `content_click`      | `<a class="footnote-ref">` 掛 `data-ga-section="footnote_marker"`，EventTracker 自動接                 | 有多少是主動點的（相對於滑過去的）   |
+| 點開來源   | `outbound_click`     | 卡片上的連結掛 `data-ga-section="footnote_card"` ＋ `data-ga-label="{網域}"`                           | **來源點擊率第一次有資料**           |
+
+**節制**：`footnote_card_open` 同一頁同一條腳註只送一次（跟 `section_view` 的 `seen` 同一種去重）。所以事件數 = 讀者展開過幾條不同的來源，`activeUsers` = 多少人用過這個功能。不去重的話，游標在一段文字上來回掃就會把同一條灌成幾十筆。
+
+**閘門對齊**：`EventTracker` 的點擊監聽掛在 `document` 的 capture 階段（[EventTracker.astro:200](../src/components/EventTracker.astro)），動態產生的卡片自動涵蓋。新參數只有 `trigger` 一個，已加進 `register-ga4-custom-dimensions.py` 的 `ENGAGEMENT_DIMENSIONS`、跑過 register script（GA4 `customDimensions/15511942910`）；`FootnoteCard.astro` 也加進 `instrumentation-audit.py` 的 `TRACKER_FILES`，不然它是下一個靜默漂移。
 
 ---
 
 ## 四、實作清單（IMPLEMENT 相）
 
-| #   | 檔案                                                 | 動作                                                                               |
-| --- | ---------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1   | `src/i18n/footnote.ts`（新）                         | `footnoteUI` 五條字串 × 12 語（來源／開啟來源／看文末腳註／關閉／腳註 aria）       |
-| 2   | `src/i18n/ui.ts`                                     | import + 12 個 `...footnoteUI.{lang}` spread                                       |
-| 3   | `src/components/FootnoteCard.astro`（新）            | 卡片 markup 模板＋樣式＋client script（索引、解析、定位、hover/tap/鍵盤、GA 屬性） |
-| 4   | `src/templates/article.template.astro`               | 掛載 `<FootnoteCard lang={lang} />`；`.footnote-ref` 加 hover 提示樣式             |
-| 5   | `src/styles/dark-polish.css`                         | 卡片暗色變體                                                                       |
-| 6   | `reports/design-footnote-source-cards-2026-08-28.md` | 本報告（先於實作 commit）                                                          |
+| #   | 檔案                                                 | 動作                                                                                  |
+| --- | ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1   | `reports/design-footnote-source-cards-2026-08-28.md` | 本報告（先於實作 commit — Mode 4 hard gate）                                          |
+| 2   | `src/i18n/footnote.ts`（新）                         | `footnoteUI` 六條字串 × 12 語（來源／註解／開啟來源／看文末腳註／關閉／腳註 aria）    |
+| 3   | `src/i18n/ui.ts`                                     | import + 12 個 `...footnoteUI.{lang}` spread                                          |
+| 4   | `src/components/FootnoteCard.astro`（新）            | 卡片骨架＋樣式（含暗色與 RTL）＋client script：索引、解析、定位、hover/tap/鍵盤、埋點 |
+| 5   | `src/templates/article.template.astro`               | 掛載 `<FootnoteCard lang={lang} accent={categoryInfo.color} />`                       |
+| 6   | `src/styles/dark-polish.css`                         | 把 `fn-card` 加進 `[class*='card']` 廣域深色規則的例外清單（理由見 §後記 4）          |
+| 7   | `scripts/tools/register-ga4-custom-dimensions.py`    | `ENGAGEMENT_DIMENSIONS` 新增 `trigger`                                                |
+| 8   | `scripts/tools/instrumentation-audit.py`             | `TRACKER_FILES` 新增 `FootnoteCard.astro`                                             |
 
-`src/utils/article-render.ts`、`knowledge/`、所有腳註檢查工具：**零改動**。
+`src/utils/article-render.ts`、`knowledge/`、所有腳註檢查工具（`article-health.py` 三個 plugin／`fact-atom-diff.py`／babel 那批）：**零改動**。卡片的暗色與 RTL 樣式住在元件自己的 `is:global` 區塊，不散進 `dark-polish.css`。
 
-### 驗收（dogfood 硬閘門）
+### 驗收（dogfood 硬閘門，全部實跑）
 
-1. 四種腳註形狀各找一篇真文章，實際開卡截圖
-2. 桌機 hover / click、手機 tap（375 寬）、鍵盤 Tab+Enter+Esc 各走一次
-3. 暗色模式截圖
-4. RTL（`/ar/...`）截圖，確認卡片與按鈕方向正確
-5. 中文標籤腳註（`[^鴻源]`，〈台灣股市與資本市場〉）能正確開卡
-6. `npm run build` 綠燈；朗讀功能點下去確認沒有唸到重複的腳註文字
-7. `.footnotes` 區塊、`:target` 高亮、`↩` 返回鍵全部維持原行為
+用 Playwright 對 dev server 跑真實瀏覽器，不靠讀碼推論。
+
+**形狀 × 情境 7 案**（每案截圖＋讀計算後樣式）：
+
+| 案                          | 結果                                                                        |
+| --------------------------- | --------------------------------------------------------------------------- |
+| 桌機淺色〈咖波〉            | ✅ 白底卡、來源徽章 `bugcatcapoo.com`、分類紫「開啟來源」                   |
+| 桌機深色                    | ✅ `rgb(22,22,26)` 不透明（修掉廣域規則的半透明覆蓋後）                     |
+| 手機 390×780                | ✅ 底部抽屜、遮罩、把手、加大點擊區                                         |
+| 無網址〈台灣國樂 [^18]〉    | ✅ 徽章降級成「註解」、不長出開啟鍵、只剩「看文末腳註」                     |
+| 連結不在開頭〈五月天 [^1]〉 | ✅ 無標題、網域 `zh.wikipedia.org`、開啟鍵指向內文那條連結                  |
+| 中文標籤〈`[^鴻源]`〉       | ✅ `getElementById` 解出 `#fn-鴻源`，完整卡                                 |
+| RTL 阿拉伯文                | ✅ `dir=rtl`、「المصدر」「فتح المصدر」、卡片跟著記號置中（修掉 RTL 定位後） |
+
+**互動 14 項**：hover 開卡／hover 後點擊仍開著／再點收起／移開游標自動關／`Esc` 關閉並還焦點／點外面關閉／鍵盤 Enter 開卡且焦點落在主要動作／換腳註內容跟著換／「看文末腳註」跳到定義且 `:target` 亮起／`.footnotes` 8 條原封不動／`.prose` 內沒有卡片（朗讀不受污染）／埋點屬性齊全／手機真觸控 tap 開抽屜且 `hidden` 只切換一次（不閃爍）／點遮罩收起 —— **14/14 通過**。
+
+**儀器對賬**：`instrumentation-audit.py`（static + live）三方對齊 0 ERROR，GA4 27 個維度全註冊。
+
+**建置**：`astro build` 綠燈；`check-url-contract --strict` 綠燈。
 
 ---
 
@@ -226,11 +245,50 @@ grep `footnote` 掃過 `scripts/`、`src/`、`.github/`、`.husky/`：
 1. **正文內部連結的 hover 預覽**——同一套卡片機制可以直接服務 OBSERVER-QUEUE #39（674 篇正文零站內連結）。但那是內容層的缺口，補連結才是主菜，預覽是配菜，不在本次範圍。
 2. **側欄註解**——方案 C 被否掉的是「全站預設」，不是「永遠不做」。若未來出現腳註密度均勻、寬螢幕為主的長文型態，可以當成單篇的排版實驗。
 3. **來源可信度分層**——網域徽章目前只顯示網域。若之後想長出「一手來源 / 新聞 / 百科 / 社群」的分層標記，資料面在 [CITATION-GUIDE §來源品質要求](../docs/editorial/CITATION-GUIDE.md) 已有判準，可以接上去。
+4. **同一條腳註被多次引用時 `fnref-N` 這個 id 會重複**（〈咖波〉8 條定義被引用 18 次，`[^2]` 一條就出現 5 次）。這是 `processFootnotes()` 既有的行為，後果是文末的 `↩` 只跳回第一次出現的位置——讀者在第五次引用處點下去，回來會落在文章開頭。本次沒動它：卡片讓多數讀者不必再走那趟路，但缺陷本身還在，記在這裡等下一輪。
 
 ---
 
-## 後記（IMPLEMENT 相摩擦回寫）
+## 後記（IMPLEMENT 相摩擦回寫，2026-08-28）
 
-_實作中發現的問題補在這裡。_
+### 哲宇實作中的三次校正
+
+1. **「開啟來源的時候要另開新分頁」** — markup 本來就有 `target="_blank"`，但我當時在嵌入式瀏覽器裡看到它在原地導走，就加了一層
+   `window.open(href, '_blank', 'noopener,noreferrer')` 當保險。
+
+2. **「除了開新頁面原本的網頁也會跳轉過去」** — 上一條的保險本身就是 bug。**帶 `noopener` 的 `window.open()` 依規格回傳 `null`**（opener 關係被切斷，沒有 window 物件可回），所以我寫的 `if (win) e.preventDefault()` 永遠不成立，瀏覽器接著又跑一次 `<a>` 的預設行為——同一次點擊走了兩趟。修法是把整層保險刪掉：使用者手勢觸發的 `target="_blank"` 本來就不會被彈出視窗阻擋，那條路徑最穩。
+   **教訓形狀**：我為了防「可能不會另開分頁」加的護欄，製造了「真的會多開一次」。護欄的回傳值語意沒查就拿來當條件，等於用一個沒讀過規格的判斷去守一個沒證實的病。跟 LESSONS `fix-scope-follows-symptom-not-root-class` 同族——只是這次連症狀都是我腦補的（嵌入式瀏覽器的 `_blank` 行為 ≠ 真實瀏覽器）。
+
+3. **「也同步加入有多少人使用這個功能的 GA 追蹤」** — 原設計只靠 `EventTracker` 的 `content_click`／`outbound_click` markup contract，好處是零新參數、CI 閘門零改動，但**它只涵蓋點擊**。桌機的主要互動是 hover，那條路徑不經過任何點擊事件，所以「有多少人在用」在原設計裡量不到——這正是本報告 §1.4 在罵的那個病（儀器只看見存在），差點原地復發一次。
+   補法：`footnote_card_open` 事件，帶 `trigger`（hover／click／focus）、`section`、`label`、`link_url`、`page_lang`、`page_type`。同一頁同一條腳註只回報一次（跟 `section_view` 的 `seen` 同一種節制），所以事件數 = 讀者展開過幾條不同來源，`activeUsers` = 多少人用過這個功能。
+   連帶三件事一起做完，不然它就是下一個靜默漂移：`trigger` 進 `register-ga4-custom-dimensions.py` 的 `ENGAGEMENT_DIMENSIONS`、`FootnoteCard.astro` 進 `instrumentation-audit.py` 的 `TRACKER_FILES`、真的跑一次 register script 讓 GA4 建好維度（`customDimensions/15511942910`）。`instrumentation-audit.py` 三方對賬（code ↔ SSOT ↔ GA4 live）0 ERROR。
+
+### 自己撞到的三個
+
+4. **`requestAnimationFrame` 不是可靠的樣式提交點**：開卡動畫原本用 rAF 加 `is-open`，頁面在背景不重繪時 callback 不跑，卡片就永遠停在 `opacity: 0`。改成 `void card.offsetHeight` 強制一次 reflow 再加 class。
+5. **視窗寬度可能回報 0**：嵌入式瀏覽器與截圖工具會給 `innerWidth === 0`，而 `0 <= 768` 為真，於是卡片誤判成手機、進抽屜模式、`place()` 也跟著早退。`isSheet()` 與 `place()` 都補上 `w > 0` 的下界。這是 [REFLEXES #38](../docs/semiont/REFLEXES.md)「混維度」的小號變體：`0` 同時表示「很窄」跟「量不到」。
+6. **`resize` 不該關卡**：手機網址列收合、螢幕旋轉、截圖工具都會發 `resize`，一律關掉會讓卡片在正常操作中莫名消失。改成重新定位。
+
+### 三個只有真的用瀏覽器點下去才會現形的
+
+7. **抽屜模式的 hover 迴圈**：窄視窗但仍回報 `hover: hover` 的裝置（二合一筆電、把桌機視窗拉窄）上，抽屜一開就連著一層全螢幕遮罩，游標的命中對象從記號變成遮罩 → 記號收到 `mouseleave` → 關卡 → 遮罩消失 → 記號收到 `mouseenter` → 又開卡。實測序列：開 @1789ms、關 @2033ms、開 @2242ms，無限閃爍。修法是抽屜模式一律不走 hover 路徑（`isSheet()` 直接 return）。**這個 bug 靠讀碼看不出來**——要真的在 390 寬的視窗點一下、而且監看 `hidden` 屬性的變動次數才會看見。
+8. **focus 跟 click 打架**：滑鼠按下去會先 `focus`（開卡），接著 `click` 判斷「已經開著 → 收起來」，於是按一下等於開了又關。修法兩層：`focus` 只在 `:focus-visible`（真正的鍵盤焦點）時開卡；click 的收合只在「這張卡本來就是被點開的」才觸發，hover 開著時再點一下是「留住」不是「關掉」。
+9. **焦點環變成輸入框**：鍵盤開卡時焦點原本落在標題連結（區塊級），瀏覽器畫成一個方框，第一眼會讀成輸入欄位。改成焦點給主要動作（開啟來源）＋自訂 `:focus-visible` 圓角環；而且只有鍵盤啟動（`e.detail === 0`）才搬焦點，滑鼠點擊不搬。
+
+### 順手還掉的 RTL 債
+
+改 `dark-polish.css` 觸發了 `check-rtl-safe-css.sh`，它報了一條**不是我寫的**違反：`.resources-page .featured-card` 的 `border-left-color`。查下去發現那條其實早就掛在該腳本的 DEBT 清單裡（`dark-polish.css:1433`），只是**行號漂了**，所以閘門把一筆已知的債報成了新違反。三件事一起做完：
+
+- 把那條改成 `border-inline-start-color`（該檔現在零 physical directional）
+- DEBT 清單移掉這一條（債還清了）
+- ALLOWLIST 的兩條置中從 1052/1099 重新釘到 1063/1110，並在表頭寫明「行號會漂、看到已知條目變成違反先確認是不是只是漂了」
+
+順帶把 `FootnoteCard.astro` 加進該腳本的 SCOPE——新元件出生時不在受守護清單裡，等於 RTL 閘門對它是瞎的（`fix-scope-follows-symptom-not-root-class` 的同型：護欄只掛在寫它的人當時在看的那條路徑上）。加進去之後才發現原本 CSS 裡那句 `left: 0` 本來就該拿掉：桌機座標整個交給 JS 的 inline style，CSS 一個 physical inset 都不留。
+
+### 資料修正
+
+`[標題](<網址>)` 這種角括號包網址的寫法（維基中文條目常見，因為網址裡有括號），第一版統計的正規式沒認出來，被算進「純網址」桶。重算後 leading-link 從 93.6% 修正為 **94.2%**，純網址 2.6% → 2.2%，連結不在開頭 1.7% → 1.5%。渲染層不受影響（`marked` 認得角括號寫法，DOM 裡就是一個正常的 `<a>`，卡片解析走 DOM 不走 markdown），但報告的數字該是對的。
+
+🧬
 
 🧬

@@ -115,9 +115,16 @@
 }
 
 /* Global "card" surfaces — many components use these class fragments.
-   Catch the visible-bg ones with a broad pattern. */
+   Catch the visible-bg ones with a broad pattern.
+
+   例外清單第三項 `fn-card`（2026-08-28 腳註來源卡）：這條給的是 6% 白的
+   **半透明**底，貼在頁面上的卡沒問題，但腳註卡是浮在正文之上的懸浮層——
+   半透明會讓底下的文字直接透出來，讀者看到兩層字疊在一起。它自己在
+   FootnoteCard.astro 裡定義了不透明的深色面。 */
 :root[data-theme='dark']
-  [class*='card']:not([class*='category-card']):not([class*='supporter-card']) {
+  [class*='card']:not([class*='category-card']):not(
+    [class*='supporter-card']
+  ):not([class*='fn-card']) {
   background-color: color-mix(in srgb, var(--color-ink) 6%, transparent);
   border-color: var(--color-border);
 }
@@ -1518,7 +1525,7 @@
     var(--color-accent) 30%,
     transparent
   ) !important;
-  border-left-color: var(--color-accent) !important;
+  border-inline-start-color: var(--color-accent) !important;
 }
 :root[data-theme='dark'] .resources-page .featured-card .site-name {
   color: var(--color-accent);

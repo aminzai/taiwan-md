@@ -27,6 +27,7 @@ import SporeFootprint from '../components/SporeFootprint.astro';
 import DiaryTeaser from '../components/DiaryTeaser.astro';
 import NewsroomTrail from '../components/NewsroomTrail.astro';
 import RelatedDiaries from '../components/RelatedDiaries.astro';
+import FootnoteCard from '../components/FootnoteCard.astro';
 import { useTranslations } from '../i18n/utils';
 import {
   categoryList as categories,
@@ -1216,6 +1217,14 @@ const encodedTitle = encodeURIComponent(title);
       </div>
     </section>
   </main>
+
+  {
+    /* 腳註即時來源卡：滑過 / 點一下正文的 [n] 就把那條腳註帶到眼前，
+      一顆按鈕直接開來源。內容從既有的 .footnotes <ol> 即時取，不另外
+      產一份；掛在 main 之後、prose 之外（朗讀讀的是 .prose）。
+      設計：reports/design-footnote-source-cards-2026-08-28.md */
+  }
+  <FootnoteCard lang={lang} accent={categoryInfo.color} />
 
   {
     /* Tag the markdown-rendered footnote section as a tracked landmark so the

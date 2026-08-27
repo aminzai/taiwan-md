@@ -1,0 +1,883 @@
+---
+/**
+ * FootnoteCard — 腳註即時來源卡
+ *
+ * 正文裡的 `[n]` 記號跟它指向的那條腳註中間隔著 3–25 個螢幕高（實測），
+ * 而 GA4 只有 12% 的頁面瀏覽會抵達文末那一區。這個元件把那條腳註帶到
+ * 讀者的游標旁邊：滑過（手機是點一下）就展開一張卡，上面有來源網域、
+ * 標題、說明，跟一顆直接開新分頁的按鈕。
+ *
+ * ⚠️ 卡片內容**不是**第二份資料。它從頁面上既有的 `<ol class="footnotes">`
+ * 即時 clone 出來——那份 `<ol>` 是 SSOT，腳註改了卡片自動跟著改，中間
+ * 沒有東西需要對賬（REFLEXES #92 twin-artifact 家族的預防）。因此
+ * `article-render.ts` 一行不動，全站 12 語的產出 HTML 完全不變。
+ *
+ * 三個設計約束，改這支之前先讀：
+ *
+ * 1. **卡片節點必須待在 `.prose` 外面**。TextToSpeech.astro 朗讀
+ *    `.prose` 的 innerText；卡片若在裡面，每條腳註會被唸兩次，搜尋索引
+ *    與選取複製也會拿到重複文字。init() 因此把節點 append 到
+ *    `document.body`（同時避開祖先 transform 破壞 position:fixed）。
+ *
+ * 2. **不自己呼叫 gtag**。埋點走 EventTracker 既有的 markup contract
+ *    （`data-ga-section` + `data-ga-label`，document 層委派，動態節點自動
+ *    涵蓋）。記號點擊 → content_click / 來源點擊 → outbound_click，四個
+ *    參數都已註冊，所以 instrumentation-audit.py 的 CI 閘門零改動。
+ *    這也是本元件最重要的副產物：站上 17,113 條來源連結在此之前
+ *    **一個埋點都沒有**——來源點擊率是 0 筆資料，不是 0 次點擊。
+ *
+ * 3. **腳註標籤有 306 條是中文**（`[^鴻源]`、`[^台積電條款]`），所以
+ *    `href` 會長成 `#fn-鴻源`。定位一律走
+ *    `getElementById(decodeURIComponent(...))`，不能把 href 直接丟進
+ *    querySelector。
+ *
+ * 沒有 JS 的讀者、螢幕閱讀器、`.footnotes` 區塊本身、`:target` 高亮、
+ * `↩` 返回鍵，全部維持原行為——本元件是漸進增強，不是取代。
+ *
+ * 誕生 2026-08-28（報導者設計師 callout）。
+ * 設計報告：reports/design-footnote-source-cards-2026-08-28.md
+ */
+import { useTranslations } from '../i18n/utils';
+
+export interface Props {
+  lang: string;
+  /** 分類主色，用在「開啟來源」按鈕；沒給就退站上深綠 */
+  accent?: string;
+  /** GA4 page_type 維度，跟 EventTracker 對齊 */
+  pageType?: string;
+}
+const { lang, accent = '#1a3c34', pageType = 'article' } = Astro.props;
+const t = useTranslations(lang as any);
+
+const S = {
+  source: t('footnote.card.source' as any),
+  note: t('footnote.card.note' as any),
+  open: t('footnote.card.open' as any),
+  jump: t('footnote.card.jump' as any),
+  close: t('footnote.card.close' as any),
+  aria: t('footnote.card.aria' as any),
+};
+---
+
+{
+  /* 骨架靜態產出、runtime 只填內容 —— 這樣結構元素的樣式不依賴
+    innerHTML 注入的節點，也讓卡片在 JS 失敗時純粹隱形。 */
+}
+<div class="twmd-fn-scrim" hidden aria-hidden="true"></div>
+
+<div
+  class="twmd-fn-card"
+  role="dialog"
+  aria-modal="false"
+  hidden
+  style={`--fn-accent:${accent};`}
+>
+  <button class="twmd-fn-close" type="button" aria-label={S.close}>
+    <svg
+      width="14"
+      height="14"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2.4"
+      stroke-linecap="round"
+      aria-hidden="true"
+    >
+      <line x1="5" y1="5" x2="19" y2="19"></line>
+      <line x1="19" y1="5" x2="5" y2="19"></line>
+    </svg>
+  </button>
+
+  <p class="twmd-fn-eyebrow">
+    <span class="twmd-fn-kind">{S.source}</span>
+    <span class="twmd-fn-dot" aria-hidden="true">·</span>
+    <span class="twmd-fn-domain"></span>
+  </p>
+
+  <a
+    class="twmd-fn-title"
+    target="_blank"
+    rel="noopener noreferrer"
+    data-ga-section="footnote_card"></a>
+
+  <div class="twmd-fn-desc"></div>
+
+  <div class="twmd-fn-actions">
+    <a
+      class="twmd-fn-open"
+      target="_blank"
+      rel="noopener noreferrer"
+      data-ga-section="footnote_card"
+    >
+      <span>{S.open}</span>
+      <svg
+        width="12"
+        height="12"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M14 4h6v6"></path>
+        <path d="M20 4 11 13"></path>
+        <path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"
+        ></path>
+      </svg>
+    </a>
+    <a class="twmd-fn-jump">
+      <span>{S.jump}</span>
+      <svg
+        width="12"
+        height="12"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2.4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M12 5v14"></path>
+        <path d="m6 13 6 6 6-6"></path>
+      </svg>
+    </a>
+  </div>
+</div>
+
+<script define:vars={{ S, pageType }}>
+  (function () {
+    var card = document.querySelector('.twmd-fn-card');
+    var scrim = document.querySelector('.twmd-fn-scrim');
+    if (!card || !scrim) return;
+
+    var prose = document.querySelector('.prose');
+    if (!prose) return;
+
+    var markers = prose.querySelectorAll('a.footnote-ref');
+    if (!markers.length) return;
+
+    // 卡片搬到 body：避開 .prose（朗讀來源）與任何祖先 transform。
+    document.body.appendChild(scrim);
+    document.body.appendChild(card);
+
+    var elKind = card.querySelector('.twmd-fn-kind');
+    var elDot = card.querySelector('.twmd-fn-dot');
+    var elDomain = card.querySelector('.twmd-fn-domain');
+    var elTitle = card.querySelector('.twmd-fn-title');
+    var elDesc = card.querySelector('.twmd-fn-desc');
+    var elOpen = card.querySelector('.twmd-fn-open');
+    var elJump = card.querySelector('.twmd-fn-jump');
+    var elClose = card.querySelector('.twmd-fn-close');
+
+    var HEADER_SAFE = 78; // header 是 z-[1001]，卡片不鑽到它下面
+    var EDGE = 12;
+    var GAP = 10;
+    var OPEN_DELAY = 120;
+    var CLOSE_DELAY = 220;
+
+    var current = null; // 目前開著卡的那個 marker
+    var openedBy = null; // 這張卡是被 hover / focus / click 哪一種打開的
+    var openTimer = 0;
+    var closeTimer = 0;
+    var cache = Object.create(null); // label → 解析結果
+    var reported = Object.create(null); // 已回報過的腳註（每頁每條只算一次）
+
+    // 使用量埋點。marker 的點擊由 EventTracker 自動接（content_click），
+    // 但桌機的主要互動是 hover——那條路徑不經過任何點擊，不自己送就永遠
+    // 看不到有多少人在用。這裡是本元件唯一直接呼叫 gtag 的地方；param 全
+    // 部走 ENGAGEMENT_DIMENSIONS 既有欄位，只有 trigger 是新註冊的一格。
+    // ⚠️ 本檔已列進 instrumentation-audit.py 的 TRACKER_FILES，改 param 名
+    // 要同步 register-ga4-custom-dimensions.py，否則 CI 閘門會紅。
+    //
+    // 同一條腳註在同一頁只回報一次（跟 section_view 的 seen 同一種節制）：
+    // 事件數 = 讀者展開過幾條不同的來源，activeUsers = 多少人用過這個功能。
+    // 不去重的話，游標在一段文字上來回掃就會灌爆同一條的數字。
+    function reportOpen(marker, data, trigger) {
+      var key = marker.getAttribute('href') || '';
+      if (reported[key]) return;
+      // gtag 還沒載好時不記入去重表，下次展開同一條還有機會補送
+      if (typeof gtag !== 'function') return;
+      reported[key] = true;
+      try {
+        gtag('event', 'footnote_card_open', {
+          section: 'footnote_card',
+          label: (marker.textContent || '').trim(),
+          trigger: trigger,
+          link_url: data.url || '',
+          page_lang: document.documentElement.lang || 'unknown',
+          page_type: pageType,
+        });
+      } catch (_) {
+        /* GA 掛掉不能擋住讀者的操作 */
+      }
+    }
+
+    // 寬度量不到（0）時**不能**當成手機——嵌入式瀏覽器與截圖工具會回報 0，
+    // 那會讓卡片誤入抽屜模式、`place()` 也跟著早退，卡片就停在畫面角落。
+    function isSheet() {
+      var w = window.innerWidth || document.documentElement.clientWidth || 0;
+      return w > 0 && w <= 768;
+    }
+    function hasHover() {
+      return window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+    }
+
+    // ── 從 href 找到那條 <li> ────────────────────────────────────────
+    // 306 條腳註標籤是中文，href 會被瀏覽器 percent-encode，
+    // 所以一律 decode 後走 getElementById，不用 querySelector。
+    function targetOf(marker) {
+      var href = marker.getAttribute('href') || '';
+      if (href.charAt(0) !== '#') return null;
+      var id = href.slice(1);
+      try {
+        id = decodeURIComponent(id);
+      } catch (_) {
+        /* 已經是純文字就照用 */
+      }
+      return (
+        document.getElementById(id) || document.getElementById(href.slice(1))
+      );
+    }
+
+    function domainOf(url) {
+      try {
+        return new URL(url, document.location.href).hostname.replace(
+          /^www\./,
+          '',
+        );
+      } catch (_) {
+        return '';
+      }
+    }
+
+    // ── 把一條 <li> 解析成卡片要的四格 ───────────────────────────────
+    // 全站 94.2% 的腳註是 `[標題](網址) — 說明`；另外三種形狀
+    //（裸網址 2.2% / 無網址 2.1% / 連結不在開頭 1.5%）逐級降級。
+    function parse(li) {
+      var clone = li.cloneNode(true);
+      var backrefs = clone.querySelectorAll('.footnote-backref');
+      for (var i = 0; i < backrefs.length; i++) backrefs[i].remove();
+
+      var anchors = clone.querySelectorAll('a[href]');
+      var link = null;
+      for (var j = 0; j < anchors.length; j++) {
+        if (/^https?:/i.test(anchors[j].getAttribute('href') || '')) {
+          link = anchors[j];
+          break;
+        }
+      }
+
+      var url = link ? link.getAttribute('href') : null;
+      var title = link ? (link.textContent || '').trim() : '';
+      // 標題連結若排在開頭才抽走；排在中段的連結留在說明裡保持可點。
+      var leading =
+        link && (clone.textContent || '').trim().indexOf(title) === 0;
+      if (link && leading) {
+        link.remove();
+        // 抽掉標題後說明多半以「— 」開頭。在第一個非空白的文字節點上剪掉
+        // 它——用正規式啃 innerHTML 會連標籤一起咬到（`<p>` 被剪走就留下
+        // 沒有開頭的 `</p>`）。
+        var walker = document.createTreeWalker(clone, NodeFilter.SHOW_TEXT);
+        var n = walker.nextNode();
+        while (n && !(n.nodeValue || '').trim()) n = walker.nextNode();
+        if (n) n.nodeValue = n.nodeValue.replace(/^\s*[—–\-−:：]+\s*/, '');
+      }
+
+      if (!url) {
+        var bare = (clone.textContent || '').match(/https?:\/\/[^\s)）、，]+/);
+        if (bare) url = bare[0];
+      }
+
+      return {
+        url: url,
+        title: leading ? title : '',
+        html: clone.innerHTML.trim(),
+        domain: url ? domainOf(url) : '',
+      };
+    }
+
+    function dataFor(marker) {
+      var key = marker.getAttribute('href') || '';
+      if (cache[key]) return cache[key];
+      var li = targetOf(marker);
+      if (!li) return null;
+      cache[key] = parse(li);
+      return cache[key];
+    }
+
+    // ── 填卡 ────────────────────────────────────────────────────────
+    function fill(marker, data) {
+      var num = (marker.textContent || '').trim();
+      card.setAttribute('aria-label', S.aria.replace('{n}', num));
+
+      elKind.textContent = data.url ? S.source : S.note;
+      var showDomain = !!data.domain;
+      elDot.hidden = !showDomain;
+      elDomain.hidden = !showDomain;
+      elDomain.textContent = data.domain;
+
+      if (data.title && data.url) {
+        elTitle.hidden = false;
+        elTitle.textContent = data.title;
+        elTitle.setAttribute('href', data.url);
+        elTitle.setAttribute('target', '_blank');
+        elTitle.setAttribute('rel', 'noopener noreferrer');
+        elTitle.setAttribute('data-ga-label', data.domain || 'footnote');
+      } else {
+        elTitle.hidden = true;
+        elTitle.removeAttribute('href');
+      }
+
+      elDesc.hidden = !data.html;
+      elDesc.innerHTML = data.html;
+      // 說明裡殘留的連結：一律新分頁 + 埋點，跟卡片上的按鈕同一格資料。
+      var inner = elDesc.querySelectorAll('a[href^="http"]');
+      for (var i = 0; i < inner.length; i++) {
+        inner[i].setAttribute('target', '_blank');
+        inner[i].setAttribute('rel', 'noopener noreferrer');
+        inner[i].setAttribute('data-ga-section', 'footnote_card');
+        inner[i].setAttribute(
+          'data-ga-label',
+          domainOf(inner[i].getAttribute('href')) || 'footnote',
+        );
+      }
+
+      if (data.url) {
+        elOpen.hidden = false;
+        elOpen.setAttribute('href', data.url);
+        elOpen.setAttribute('target', '_blank');
+        elOpen.setAttribute('rel', 'noopener noreferrer');
+        elOpen.setAttribute('data-ga-label', data.domain || 'footnote');
+      } else {
+        elOpen.hidden = true;
+        elOpen.removeAttribute('href');
+      }
+
+      // 逃生口：這條連結的行為跟改版前逐位元相同。
+      elJump.setAttribute('href', marker.getAttribute('href') || '#');
+    }
+
+    // ── 定位（桌機；手機是 CSS 接手的底部抽屜）───────────────────────
+    function place(marker) {
+      if (isSheet()) {
+        // 抽屜模式的定位交還 CSS（logical property），把桌機留下的 inline
+        // 座標清乾淨，不然 inline style 會壓過 media query 裡的規則。
+        card.style.left = '';
+        card.style.right = '';
+        card.style.top = '';
+        return;
+      }
+      var r = marker.getBoundingClientRect();
+      var cw = card.offsetWidth;
+      var ch = card.offsetHeight;
+      var vw = window.innerWidth || document.documentElement.clientWidth || 0;
+      var vh = window.innerHeight || document.documentElement.clientHeight || 0;
+      // 量不到視窗就別算座標——夾出來的值會把卡片釘在角落，比不定位還糟。
+      if (vw <= 0 || vh <= 0) return;
+
+      var left = r.left + r.width / 2 - cw / 2;
+      left = Math.max(EDGE, Math.min(left, vw - cw - EDGE));
+
+      var top = r.bottom + GAP;
+      if (top + ch > vh - EDGE) {
+        var above = r.top - GAP - ch;
+        top = above >= HEADER_SAFE + EDGE ? above : vh - ch - EDGE;
+      }
+      // 永遠夾在「header 下緣」與「視窗下緣」之間。少了這道，記號被捲到
+      // 視窗外時 r.bottom 會是負值，卡片就飛到畫面上方看不見的地方。
+      top = Math.max(HEADER_SAFE + EDGE, Math.min(top, vh - ch - EDGE));
+
+      card.style.left = Math.round(left) + 'px';
+      card.style.right = 'auto'; // RTL 下不讓 right 一起約束，否則 left 被忽略
+      card.style.top = Math.round(top) + 'px';
+    }
+
+    function open(marker, focusIn, trigger) {
+      var data = dataFor(marker);
+      if (!data) return;
+      reportOpen(marker, data, trigger || 'unknown');
+      openedBy = trigger || 'unknown';
+      clearTimeout(closeTimer);
+      if (current && current !== marker)
+        current.setAttribute('aria-expanded', 'false');
+      current = marker;
+
+      fill(marker, data);
+      card.hidden = false;
+      card.classList.toggle('is-sheet', isSheet());
+      scrim.hidden = !isSheet();
+      place(marker);
+      // 量完再上動畫，避免第一幀跳位。強制一次 reflow 讓瀏覽器認得前後是
+      // 兩個狀態；不用 rAF 排——頁面在背景不重繪時 callback 不會跑。
+      void card.offsetHeight;
+      card.classList.add('is-open');
+      marker.setAttribute('aria-expanded', 'true');
+
+      if (focusIn) {
+        // 焦點給主要動作（開啟來源），沒有來源時才退標題／跳腳註。
+        var first =
+          (!elOpen.hidden && elOpen) || (!elTitle.hidden && elTitle) || elJump;
+        if (first) first.focus({ preventScroll: true });
+      }
+    }
+
+    function close() {
+      clearTimeout(openTimer);
+      clearTimeout(closeTimer);
+      if (card.hidden) return;
+      card.classList.remove('is-open');
+      card.hidden = true;
+      scrim.hidden = true;
+      openedBy = null;
+      if (current) {
+        current.setAttribute('aria-expanded', 'false');
+        current = null;
+      }
+    }
+
+    function scheduleClose() {
+      clearTimeout(closeTimer);
+      closeTimer = setTimeout(close, CLOSE_DELAY);
+    }
+
+    // ── 綁定 ────────────────────────────────────────────────────────
+    for (var i = 0; i < markers.length; i++) {
+      (function (marker) {
+        // EventTracker 的 markup contract：記號點擊自動記 content_click。
+        marker.setAttribute('data-ga-section', 'footnote_marker');
+        marker.setAttribute('data-ga-label', (marker.textContent || '').trim());
+        marker.setAttribute('aria-expanded', 'false');
+
+        // 抽屜模式一律不走 hover：抽屜會連著一層遮罩蓋住整個畫面，遮罩
+        // 一出現，游標的命中對象就從記號變成遮罩，記號收到 mouseleave 而
+        // 關卡，關卡遮罩消失、記號又收到 mouseenter 而開卡——在會回報
+        // hover 的窄視窗（二合一筆電、把桌機視窗拉窄）上會無限閃爍。
+        // 實測：開 @1789 → 關 @2033 → 開 @2242。
+        marker.addEventListener('mouseenter', function () {
+          if (!hasHover() || isSheet()) return;
+          clearTimeout(closeTimer);
+          clearTimeout(openTimer);
+          openTimer = setTimeout(function () {
+            open(marker, false, 'hover');
+          }, OPEN_DELAY);
+        });
+        marker.addEventListener('mouseleave', function () {
+          if (!hasHover() || isSheet()) return;
+          clearTimeout(openTimer);
+          scheduleClose();
+        });
+        // 只有鍵盤走到這裡才開卡。滑鼠按下去也會先觸發 focus，那時開卡會
+        // 讓緊接著的 click 誤判成「已經開著 → 收起來」，使用者按一下等於
+        // 開了又關（實測：focus 在 t=2191 開、click 在 t=2194 關）。
+        marker.addEventListener('focus', function () {
+          if (isSheet()) return;
+          var keyboard = true;
+          try {
+            keyboard = marker.matches(':focus-visible');
+          } catch (_) {
+            /* 舊瀏覽器不認 :focus-visible，維持開卡 */
+          }
+          if (keyboard) open(marker, false, 'focus');
+        });
+
+        marker.addEventListener('click', function (e) {
+          // 開新分頁 / 新視窗的組合鍵交還瀏覽器
+          if (
+            e.metaKey ||
+            e.ctrlKey ||
+            e.shiftKey ||
+            e.altKey ||
+            e.button !== 0
+          )
+            return;
+          e.preventDefault();
+          // 只有「這張卡本來就是被點開的」才收起來。hover 開著的時候再點
+          // 一下，讀者的意思是「我要留住它」，不是「關掉」。
+          if (current === marker && !card.hidden && openedBy === 'click') {
+            close();
+            return;
+          }
+          // 只有鍵盤啟動（Enter/Space，e.detail === 0）才把焦點搬進卡片。
+          // 滑鼠點擊也搬的話，卡片一開就掛著一圈 focus ring，第一眼會被
+          // 讀成輸入框。
+          open(marker, e.detail === 0, 'click');
+        });
+      })(markers[i]);
+    }
+
+    card.addEventListener('mouseenter', function () {
+      clearTimeout(closeTimer);
+    });
+    card.addEventListener('mouseleave', function () {
+      if (hasHover() && !isSheet()) scheduleClose();
+    });
+    elClose.addEventListener('click', function () {
+      var back = current;
+      close();
+      if (back) back.focus({ preventScroll: true });
+    });
+    scrim.addEventListener('click', close);
+    // 「看文末腳註」讓瀏覽器照舊跳錨點，卡片先收起來
+    elJump.addEventListener('click', close);
+
+    // 來源一律另開新分頁，而且原本這一頁必須留在原地——讀者查完證要能
+    // 回到剛剛讀到一半的那個句子。
+    //
+    // 做法就只有 markup 上的 target="_blank" rel="noopener noreferrer"，
+    // 不另外呼叫 window.open()。2026-08-28 首版曾加一層
+    // `window.open(href,'_blank','noopener,...')` 當保險，結果是個真的 bug：
+    // 帶 noopener 的 window.open **依規格回傳 null**，於是
+    // `if (win) e.preventDefault()` 永遠不成立，瀏覽器接著又跑一次 <a> 的
+    // 預設行為——同一次點擊開了兩趟，其中一趟把原本那頁也帶走了。
+    // 哲宇當場回報「原本的網頁也會跳轉過去」。
+    //
+    // 使用者手勢觸發的 target="_blank" 不會被彈出視窗阻擋，這條路徑本來就
+    // 是最穩的；保險反而製造了它要防的那個病。
+    card.addEventListener('click', function (e) {
+      var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+      if (!a || !card.contains(a)) return;
+      if (a === elJump) return; // 「看文末腳註」是同頁錨點，照舊
+      if (!/^https?:/i.test(a.getAttribute('href') || '')) return;
+      // 新分頁交給瀏覽器，這裡只負責把卡片收起來
+      close();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape' || card.hidden) return;
+      var back = current;
+      close();
+      if (back) back.focus({ preventScroll: true });
+    });
+
+    document.addEventListener(
+      'click',
+      function (e) {
+        if (card.hidden) return;
+        if (card.contains(e.target)) return;
+        if (current && current.contains(e.target)) return;
+        close();
+      },
+      true,
+    );
+
+    // 捲動 / 轉向時跟著記號走；記號離開視窗就收起來
+    var raf = 0;
+    function reflow() {
+      if (card.hidden || !current || isSheet()) return;
+      if (raf) return;
+      raf = requestAnimationFrame(function () {
+        raf = 0;
+        if (card.hidden || !current) return;
+        var r = current.getBoundingClientRect();
+        if (r.bottom < 0 || r.top > window.innerHeight) {
+          close();
+          return;
+        }
+        place(current);
+      });
+    }
+    window.addEventListener('scroll', reflow, { passive: true });
+    // resize 不關卡：手機網址列收合、螢幕旋轉、截圖工具都會發 resize，
+    // 一律關掉會讓卡片在正常操作中莫名消失。重新定位就好。
+    window.addEventListener(
+      'resize',
+      function () {
+        if (card.hidden || !current) return;
+        card.classList.toggle('is-sheet', isSheet());
+        scrim.hidden = !isSheet();
+        place(current);
+      },
+      { passive: true },
+    );
+  })();
+</script>
+
+<style is:global>
+  /* 卡片節點 runtime 會被搬到 <body>，所以樣式必須 global；
+     命名一律 twmd-fn-* 前綴避免撞到 prose 的 :global 規則。 */
+  .twmd-fn-scrim {
+    position: fixed;
+    inset: 0;
+    z-index: 999;
+    background: rgba(12, 24, 20, 0.38);
+    backdrop-filter: blur(1.5px);
+  }
+  .twmd-fn-scrim[hidden] {
+    display: none;
+  }
+
+  .twmd-fn-card {
+    --fn-surface: #ffffff;
+    --fn-border: rgba(26, 60, 52, 0.14);
+    --fn-title: #1a3c34;
+    --fn-body: #4b5a53;
+    --fn-muted: #82918a;
+    --fn-shadow:
+      0 18px 48px rgba(26, 60, 52, 0.18), 0 2px 8px rgba(26, 60, 52, 0.08);
+
+    position: fixed;
+    z-index: 1000; /* header 是 1001：重疊時讓卡片滑進 header 底下 */
+    /* 桌機的座標完全由 JS 的 place() 用 inline style 給（實體像素）。
+       這裡刻意不寫任何 inset：寫 `inset-inline-start: 0` 在 RTL（ar）會
+       編譯成 `right: 0`，跟 JS 設的 `left` 一起把元素過度約束，瀏覽器選擇
+       忽略 left——卡片就被釘在畫面右緣不跟著記號走（實測 ar 條目卡片
+       x=846、右緣剛好貼齊 1280）。手機抽屜模式的定位在下方 media query
+       裡用 logical property 寫。 */
+    width: min(23rem, calc(100vw - 24px));
+    box-sizing: border-box;
+    padding: 0.95rem 1.05rem 0.85rem;
+    border: 1px solid var(--fn-border);
+    border-radius: 14px;
+    background: var(--fn-surface);
+    box-shadow: var(--fn-shadow);
+    font-family: 'Inter', system-ui, sans-serif;
+    /* 刻意不做淡入。CSS transition 只在頁面真的在重繪時前進——分頁在背景、
+       截圖工具、部分嵌入式瀏覽器都不重繪，`opacity: 0 → 1` 就會卡在 0，
+       卡片明明開著卻看不見。位移動畫停住只是少了 4px 的滑入，看不出來；
+       透明度動畫停住是整張卡消失。可見性不交給動畫。 */
+    transform: translateY(-4px);
+    transition: transform 0.14s ease;
+  }
+  .twmd-fn-card[hidden] {
+    display: none;
+  }
+  .twmd-fn-card.is-open {
+    transform: translateY(0);
+  }
+
+  .twmd-fn-close {
+    position: absolute;
+    inset-block-start: 0.5rem;
+    inset-inline-end: 0.5rem;
+    display: grid;
+    place-items: center;
+    width: 26px;
+    height: 26px;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--fn-muted);
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .twmd-fn-close:hover {
+    background: rgba(26, 60, 52, 0.07);
+    color: var(--fn-title);
+  }
+
+  .twmd-fn-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin: 0 1.6rem 0.4rem 0;
+    font-size: 0.66rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--fn-muted);
+  }
+  .twmd-fn-kind {
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+  }
+  .twmd-fn-domain {
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .twmd-fn-dot[hidden],
+  .twmd-fn-domain[hidden],
+  .twmd-fn-title[hidden],
+  .twmd-fn-desc[hidden],
+  .twmd-fn-open[hidden] {
+    display: none;
+  }
+
+  .twmd-fn-title {
+    display: block;
+    margin-bottom: 0.4rem;
+    font-size: 0.94rem;
+    font-weight: 700;
+    line-height: 1.45;
+    color: var(--fn-title);
+    text-decoration: none;
+    border-bottom: none;
+  }
+  .twmd-fn-title:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  /* 預設 focus ring 在區塊級連結上會畫成一個方框，看起來像輸入欄位。
+     統一成貼著形狀的圓角環。 */
+  .twmd-fn-card :focus-visible {
+    outline: 2px solid var(--fn-accent, #1a3c34);
+    outline-offset: 2px;
+    border-radius: 8px;
+  }
+  .twmd-fn-open:focus-visible,
+  .twmd-fn-jump:focus-visible {
+    border-radius: 999px;
+  }
+
+  .twmd-fn-desc {
+    max-height: 8.6rem;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    font-size: 0.82rem;
+    line-height: 1.62;
+    color: var(--fn-body);
+  }
+  .twmd-fn-desc p {
+    margin: 0 0 0.4rem;
+  }
+  .twmd-fn-desc p:last-child {
+    margin-bottom: 0;
+  }
+  .twmd-fn-desc a {
+    color: var(--fn-body);
+    text-decoration: underline;
+    text-decoration-color: rgba(130, 145, 138, 0.55);
+    text-underline-offset: 2px;
+  }
+
+  .twmd-fn-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 0.8rem;
+  }
+  .twmd-fn-open,
+  .twmd-fn-jump {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.32rem;
+    padding: 0.42rem 0.72rem;
+    border-radius: 999px;
+    font-size: 0.76rem;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: none;
+    cursor: pointer;
+    transition:
+      filter 0.15s,
+      background 0.15s;
+  }
+  .twmd-fn-open {
+    background: var(--fn-accent, #1a3c34);
+    color: #fff;
+  }
+  .twmd-fn-open:hover {
+    filter: brightness(1.12);
+  }
+  .twmd-fn-jump {
+    background: rgba(26, 60, 52, 0.06);
+    color: var(--fn-body);
+  }
+  .twmd-fn-jump:hover {
+    background: rgba(26, 60, 52, 0.11);
+  }
+  /* RTL（ar）：只翻「開啟來源」那支斜箭頭，不然它會指回頁面裡側 */
+  [dir='rtl'] .twmd-fn-open svg {
+    transform: scaleX(-1);
+  }
+
+  /* 正文裡的記號：桌機加大可 hover 的範圍，並提示它現在會展開東西 */
+  .prose a.footnote-ref {
+    cursor: help;
+  }
+
+  /* ── 手機：底部抽屜 ───────────────────────────────────────────── */
+  @media (max-width: 768px) {
+    .twmd-fn-card.is-sheet {
+      inset-inline: 0;
+      inset-block-start: auto;
+      bottom: 0;
+      width: 100%;
+      max-height: 72vh;
+      overflow-y: auto;
+      padding: 1.4rem 1.15rem calc(1.15rem + env(safe-area-inset-bottom));
+      border: none;
+      border-start-start-radius: 18px;
+      border-start-end-radius: 18px;
+      border-end-start-radius: 0;
+      border-end-end-radius: 0;
+      transform: translateY(14px);
+      box-shadow: 0 -12px 40px rgba(12, 24, 20, 0.28);
+    }
+    .twmd-fn-card.is-sheet.is-open {
+      transform: translateY(0);
+    }
+    /* 抽屜頂端的把手 */
+    .twmd-fn-card.is-sheet::before {
+      content: '';
+      position: absolute;
+      inset-block-start: 0.55rem;
+      inset-inline-start: 50%;
+      translate: -50% 0;
+      width: 38px;
+      height: 4px;
+      border-radius: 999px;
+      background: rgba(26, 60, 52, 0.18);
+    }
+    .twmd-fn-card.is-sheet .twmd-fn-desc {
+      max-height: 40vh;
+    }
+    .twmd-fn-open,
+    .twmd-fn-jump {
+      padding: 0.6rem 0.95rem;
+      font-size: 0.82rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .twmd-fn-card {
+      transition: none;
+      transform: none;
+    }
+    .twmd-fn-card.is-sheet,
+    .twmd-fn-card.is-sheet.is-open {
+      transform: none;
+    }
+  }
+
+  /* ── 暗色 ─────────────────────────────────────────────────────── */
+  :root[data-theme='dark'] .twmd-fn-card {
+    --fn-surface: #16161a;
+    --fn-border: rgba(241, 245, 249, 0.16);
+    --fn-title: #f1f5f9;
+    --fn-body: #cbd5e1;
+    --fn-muted: #94a3b8;
+    --fn-shadow: 0 18px 48px rgba(0, 0, 0, 0.6);
+  }
+  :root[data-theme='dark'] .twmd-fn-close:hover {
+    background: rgba(241, 245, 249, 0.1);
+  }
+  :root[data-theme='dark'] .twmd-fn-jump {
+    background: rgba(241, 245, 249, 0.08);
+  }
+  :root[data-theme='dark'] .twmd-fn-jump:hover {
+    background: rgba(241, 245, 249, 0.14);
+  }
+  :root[data-theme='dark'] .twmd-fn-desc a {
+    text-decoration-color: rgba(148, 163, 184, 0.5);
+  }
+  :root[data-theme='dark'] .twmd-fn-card.is-sheet::before {
+    background: rgba(241, 245, 249, 0.24);
+  }
+  /* 深色下分類主色多半偏暗，按鈕文字改用亮底 */
+  :root[data-theme='dark'] .twmd-fn-open {
+    background: var(--color-accent);
+    color: #0b1220;
+  }
+
+  /* 螢幕截圖模式（?shot=1）不該出現浮層 */
+  html[data-shot='1'] .twmd-fn-card,
+  html[data-shot='1'] .twmd-fn-scrim {
+    display: none !important;
+  }
+</style>
