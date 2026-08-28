@@ -2569,6 +2569,10 @@
 :root[data-theme='dark'] .prose a.footnote-backref {
   color: var(--color-ink-soft);
 }
+/* 多次引用時的序號返回鍵（2026-08-28）：跟 ↩ 同一個弱化色階 */
+:root[data-theme='dark'] .prose a.footnote-backref sup {
+  color: inherit;
+}
 
 /* Footnote jump-target highlight — dark variants (light version lives in
  * article.template.astro). */

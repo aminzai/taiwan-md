@@ -98,52 +98,145 @@ TW_PATTERNS=(
   "[\"'\` :]rounded-(l|r)([\"'\` -])"
 )
 
-# ── 允許清單（這些 physical 用法改成 logical 會壞掉）─────────────────────────
-# 格式：<path>:<line>|<理由>
-# `left: 50%` + `transform: translateX(-50%)` 是置中慣用法。改成
-# inset-inline-start: 50% 在 RTL 會變成「從右邊算 50%」，配上固定方向的
-# translateX 反而偏移半個元素寬。置中沒有方向性，維持 physical 才對。
+# ── 為什麼這一段從「行號」改成「內容」（2026-08-28）───────────────────────────
+# 舊版的 ALLOWLIST / DEBT 用 `<path>:<line>` 釘住條目。檔案一長行號就漂，漂掉之後
+# 合法的用法被報成新違反、掛號中的債看起來像新病。這不是假設：2026-08-28 全掃時
+# Header 的兩條置中從 1052/1099 漂到 1063/1110 各報一次假警報，而 dark-polish.css
+# 那條掛了一個月的債也因為漂掉而被當成新違反——查了半天才發現它早就在 DEBT 裡。
 #
-# ⚠️ 這兩張表用行號釘住條目，檔案一長就會漂掉，漂掉之後合法的用法會被報成
-# 新違反（2026-08-28 實際發生：Header 的兩條置中從 1052/1099 漂到
-# 1063/1110，全掃時每次都亮兩個假警報）。跑全掃看到「已知條目變成違反」，
-# 先確認是不是只是行號漂了，再決定要不要真的改樣式。
+# 現在改成兩層，都不依賴行號：
+#   第一層（語意）：置中慣用法自動放行，不需要任何清單。判準是「這條 left/right:50%
+#              所在的規則區塊裡有沒有 -50% 的 translate」——有就是置中，置中沒有
+#              方向性，維持 physical 才對（改成 inset-inline-start 在 RTL 會變成
+#              從右邊算 50%，配上固定方向的 translateX 反而偏移半個元素寬）。
+#   第二層（內容）：真正的一次性例外與掛號中的債，用「檔案 + 宣告文字」比對。
+#              另外加一道對賬：清單裡對不上任何一行的條目會印出來提醒核對，
+#              所以「債已還清但沒人從清單移除」這種殘留也會現形（本輪就是這樣
+#              才發現 dark-polish.css 那條該退場）。
+
+# 取出 $2 行所在的 CSS 規則區塊，問裡面有沒有 -50% 的 translate（置中慣用法）。
+# 往回找到最近一個未閉合的 `{`，往前找到它的 `}`，只看這個窗口。
+block_is_centering() {
+  awk -v t="$2" '
+    { all[NR] = $0; last = NR }
+    END {
+      d = 0; s = 1
+      for (i = t; i >= 1; i--) {
+        l = all[i]; o = gsub(/\{/, "{", l)
+        l = all[i]; c = gsub(/\}/, "}", l)
+        d += c - o
+        if (d < 0) { s = i; break }
+      }
+      d = 0; e = last
+      for (i = s; i <= last; i++) {
+        l = all[i]; o = gsub(/\{/, "{", l)
+        l = all[i]; c = gsub(/\}/, "}", l)
+        d += o - c
+        if (i > s && d <= 0) { e = i; break }
+      }
+      for (i = s; i <= e; i++)
+        if (all[i] ~ /translate[XY]?\([^)]*-50%/ || all[i] ~ /translate:[[:space:]]*-50%/) {
+          print "YES"; exit
+        }
+    }
+  ' "$1" | grep -q YES
+}
+
+# 宣告文字正規化：去掉前後空白與行尾 `;`，讓「同一條宣告」在不同縮排下也對得上。
+norm_decl() {
+  local d="$1"
+  d="${d#"${d%%[![:space:]]*}"}"
+  d="${d%"${d##*[![:space:]]}"}"
+  d="${d%;}"
+  printf '%s' "$d"
+}
+
+# ── 允許清單（這些 physical 用法改成 logical 會壞掉）─────────────────────────
+# 格式：<path>|<宣告文字>|<理由>　（比對用「檔案 + 該行宣告」，不用行號）
+# 置中慣用法已由上面的語意判準自動放行，不必列在這裡。這張表留給
+# 「語意判準涵蓋不到、但 physical 真的才對」的一次性例外。
+# 空陣列在 `set -u` 下展開會炸，所以下面所有迴圈都用 ${arr[@]+"${arr[@]}"} 展開。
 ALLOWLIST=(
-  "src/components/Header.astro:1063|dropdown 置中：left:50% + translateX(-50%)"
-  "src/components/Header.astro:1110|dropdown 置中：left:50% + translateX(-50%)"
 )
 
 # ── 掛號中的債（受守護檔案裡「還沒還」的行）──────────────────────────────────
 # 跟 ALLOWLIST 分開：ALLOWLIST 是「physical 才對，永久」，DEBT 是「該改但這輪
 # 沒改」。DEBT 不算違反，但**每次都會印出來**並附掛號日期，不會靜默過夜變成
-# 「這裡本來就這樣」。還清就刪掉那一行。
-# 格式：<path>:<line>|<掛號日>|<理由>
+# 「這裡本來就這樣」。還清就刪掉那一行——沒刪的話下面的對賬會叫。
+# 格式：<path>|<宣告文字>|<掛號日>|<理由>
 DEBT=(
-  "src/styles/global.css:434|2026-07-26|.floating-md 屬浮動層，要跟 ReaderSettings / FeedbackWidget 同批鏡像，否則 RTL 下三者疊在一起"
-  "src/styles/global.css:480|2026-07-26|同上（手機斷點）"
-  # dark-polish.css 的 .resources-page .featured-card border-left-color 已於
-  # 2026-08-28 還清（改 border-inline-start-color）。該檔現在零 physical。
+  "src/styles/global.css|right: 2rem|2026-07-26|.floating-md 屬浮動層，要跟 ReaderSettings / FeedbackWidget 同批鏡像，否則 RTL 下三者疊在一起"
+  "src/styles/global.css|right: 1rem|2026-07-26|同上（手機斷點）"
 )
 
+ALLOW_HIT=""
 is_allowlisted() {
-  local f="$1" ln="$2"
-  for entry in "${ALLOWLIST[@]}"; do
-    [[ "${entry%%|*}" == "$f:$ln" ]] && return 0
+  local f="$1" ln="$2" text="$3"
+  # 第一層：置中慣用法（left/right: 50% 且同區塊有 -50% translate）
+  if [[ "$text" =~ (left|right)[[:space:]]*:[[:space:]]*50% ]] && block_is_centering "$f" "$ln"; then
+    return 0
+  fi
+  # 第二層：內容比對的一次性例外
+  local decl
+  decl="$(norm_decl "$text")"
+  for entry in ${ALLOWLIST[@]+"${ALLOWLIST[@]}"}; do
+    local ef="${entry%%|*}" rest="${entry#*|}"
+    local ed="${rest%%|*}"
+    if [[ "$ef" == "$f" && "$decl" == *"$ed"* ]]; then
+      ALLOW_HIT+="|$ef::$ed"
+      return 0
+    fi
   done
   return 1
 }
 
 DEBT_SEEN=""
+DEBT_HIT=""
 is_debt() {
-  local f="$1" ln="$2"
-  for entry in "${DEBT[@]}"; do
-    if [[ "${entry%%|*}" == "$f:$ln" ]]; then
-      local rest="${entry#*|}"
+  local f="$1" ln="$2" text="$3"
+  local decl
+  decl="$(norm_decl "$text")"
+  for entry in ${DEBT[@]+"${DEBT[@]}"}; do
+    local ef="${entry%%|*}" rest="${entry#*|}"
+    local ed="${rest%%|*}" rest2="${rest#*|}"
+    local date="${rest2%%|*}" why="${rest2#*|}"
+    if [[ "$ef" == "$f" && "$decl" == *"$ed"* ]]; then
       # ${ln} 要加大括號：變數後直接接全形字元，bash 會把全形字元讀進變數名。
-      DEBT_SEEN+="\n  $f:${ln}（${rest%%|*} 掛號）${rest#*|}"
+      DEBT_SEEN+="\n  $f:${ln}（${date} 掛號）${why}"
+      DEBT_HIT+="|$ef::$ed"
       return 0
     fi
   done
+  return 1
+}
+
+# 清單對賬：條目在掃描範圍內對不上任何一行 = 那條可能已經還清 / 檔案改了。
+# 這道是 2026-08-28 補的——本輪就是因為沒有它，一條掛了一個月的債漂掉之後
+# 被當成新違反查了半天。
+report_stale_entries() {
+  local stale=""
+  local entry ef rest ed
+  for entry in ${ALLOWLIST[@]+"${ALLOWLIST[@]}"}; do
+    ef="${entry%%|*}"; rest="${entry#*|}"; ed="${rest%%|*}"
+    _in_scan_scope "$ef" || continue
+    [[ "$ALLOW_HIT" == *"|$ef::$ed"* ]] || stale+="\n  [allowlist] $ef｜$ed"
+  done
+  for entry in ${DEBT[@]+"${DEBT[@]}"}; do
+    ef="${entry%%|*}"; rest="${entry#*|}"; ed="${rest%%|*}"
+    _in_scan_scope "$ef" || continue
+    [[ "$DEBT_HIT" == *"|$ef::$ed"* ]] || stale+="\n  [debt] $ef｜$ed"
+  done
+  if [[ -n "$stale" ]]; then
+    echo ""
+    echo "🧾 清單裡有條目對不上任何一行（可能已還清，或宣告被改寫）："
+    echo -e "$stale"
+    echo "   → 核對後從 ALLOWLIST / DEBT 移除，別讓死條目留著"
+  fi
+}
+
+_in_scan_scope() {
+  local target="$1" f
+  for f in "${FILES[@]}"; do [[ "$f" == "$target" ]] && return 0; done
   return 1
 }
 
@@ -180,8 +273,9 @@ scan_file() {
     while IFS= read -r line; do
       [[ -z "$line" ]] && continue
       local ln="${line%%:*}"
-      is_allowlisted "$f" "$ln" && continue
-      is_debt "$f" "$ln" && continue
+      local text="${line#*:}"
+      is_allowlisted "$f" "$ln" "$text" && continue
+      is_debt "$f" "$ln" "$text" && continue
       VIOLATIONS=$((VIOLATIONS + 1))
       VIOLATION_LIST+="\n  [$kind] $f:$line"
     done <<<"$matches"
@@ -215,17 +309,22 @@ if [[ $VIOLATIONS -gt 0 ]]; then
   echo "   Tailwind v4：pl-→ps- / pr-→pe- / ml-→ms- / mr-→me- /"
   echo "                border-l→border-s / text-left→text-start / left-N→start-N"
   echo ""
-  echo "   置中（left:50% + translateX(-50%)）等真的沒有方向性的用法，"
-  echo "   加進本腳本的 ALLOWLIST 並寫明理由，不要硬轉。"
+  echo "   置中（left:50% + 同區塊 translateX(-50%)）本腳本會自動放行，"
+  echo "   不必列清單。其他真的沒有方向性的用法才加進 ALLOWLIST，"
+  echo "   格式是「檔案｜宣告文字｜理由」，不要用行號。"
   echo ""
   echo "   Why：ar 是站上第一個 RTL 語言（2026-07-25 出生）。"
   echo "   Audit canonical：reports/language-birth-2026-07-25.md §RTL findings"
+
+  report_stale_entries
 
   if [[ "$MODE" == "--ci" ]] || [[ "$MODE" == "--staged" ]]; then
     exit 1
   fi
   exit 0
 fi
+
+report_stale_entries
 
 if [[ -n "$DEBT_SEEN" ]]; then
   echo "🧾 掛號中的 RTL 債（不擋，但別讓它過夜變成慣例）："

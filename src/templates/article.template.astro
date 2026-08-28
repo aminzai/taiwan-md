@@ -1675,7 +1675,8 @@ const encodedTitle = encodeURIComponent(title);
     text-decoration-color: #2563eb;
   }
 
-  /* Back-arrow (↩) */
+  /* Back-arrow (↩)。同一條腳註被引用多次時，第一個是 ↩、其餘是上標序號，
+     每個各自指回它那一次出現的位置（2026-08-28 重複 id 修正）。 */
   .prose :global(.footnote-backref) {
     margin-inline-start: 0.35em;
     color: #9ca3af;
@@ -1687,6 +1688,28 @@ const encodedTitle = encodeURIComponent(title);
   .prose :global(.footnote-backref:hover) {
     color: #6b7280;
     text-decoration: none;
+  }
+  /* 一條腳註被引用多次時，返回鍵會排成一列（實測最多 28 個）。
+     兩件事要處理：
+     (1) `.footnotes a` 那條 underline 的 specificity 比 `.footnote-backref` 高
+         （class+element vs class），數字底下會拖出一排像壞掉的虛線；帶元素型別
+         寫成 `a.footnote-backref` 才壓得過去。
+     (2) 數字不留間距會黏成「2345678」讀不出是幾個。 */
+  .prose :global(a.footnote-backref) {
+    text-decoration: none;
+  }
+  .prose :global(a.footnote-backref sup) {
+    font-size: 0.8em;
+    vertical-align: super;
+    line-height: 0;
+    padding-inline: 0.12em;
+  }
+  .prose :global(a.footnote-backref:has(sup)) {
+    margin-inline-start: 0.3em;
+  }
+  .prose :global(a.footnote-backref:hover sup) {
+    text-decoration: underline;
+    text-underline-offset: 2px;
   }
 
   /* Footnote jump-target highlight (issue #1212 §1.2): clicking [n] or ↩

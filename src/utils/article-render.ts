@@ -1340,6 +1340,18 @@ renderer.code = ({ text, lang }) => {
 };
 
 // ── Footnote preprocessor (GFM-compatible [^n] syntax) ──────────────────────
+//
+// 同一條腳註在正文被引用 N 次，就會有 N 個 `<sup>`。2026-08-28 之前這 N 個
+// 全部掛同一個 `id="fnref-{label}"`——全站量出來 **72.6% 有腳註的檔案帶著重複
+// id，合計 76,318 個**（最兇的〈北投溫泉街〉29 條定義被引用 144 次，單頁 115
+// 個重複；單一腳註被引用最多的一條是 28 次）。後果有三層：HTML 不合法、
+// 螢幕閱讀器在重複 id 上的行為未定義、而且文末那個 `↩` **永遠只跳得回第一次
+// 出現的位置**——讀者在第五次引用處點下去，回來會落在文章開頭。
+//
+// 修法是給每個出現位置各自的 id：第一次維持 `fnref-{label}`（既有的外部深連結
+// 與書籤不會斷），第二次起加序號 `fnref-{label}-2`、`-3`⋯。文末的定義則從單一
+// `↩` 變成「一個 `↩` 加上第 2 起的上標序號」，每個各自指回它那次出現的位置，
+// 跟 pandoc / GFM 的慣例一致。
 function processFootnotes(md: string): string {
   // Collect footnote definitions: [^label]: content (may span rest of line)
   const definitions: Record<string, string> = {};
@@ -1352,7 +1364,14 @@ function processFootnotes(md: string): string {
 
   // Order of first use in the text
   const order: string[] = [];
+  // 每個 label 被引用了幾次 —— 決定文末要放幾個返回箭頭
+  const uses: Record<string, number> = {};
   let body = md.replace(defRegex, ''); // remove definitions from body
+
+  // 第 k 次出現的 <sup> id。k=1 沿用舊的 `fnref-{label}`，讓改版前就存在的
+  // 深連結、書籤、外站引用不會斷；k≥2 才加序號。
+  const refIdAt = (label: string, k: number) =>
+    k === 1 ? `fnref-${label}` : `fnref-${label}-${k}`;
 
   // Replace inline refs [^label] → superscript HTML
   body = body.replace(/\[(\^[^\]]+)\](?!:)/g, (_, raw) => {
@@ -1360,9 +1379,9 @@ function processFootnotes(md: string): string {
     if (!definitions[label]) return `[${raw}]`;
     if (!order.includes(label)) order.push(label);
     const num = order.indexOf(label) + 1;
+    const k = (uses[label] = (uses[label] || 0) + 1);
     const id = `fn-${label}`;
-    const refId = `fnref-${label}`;
-    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="${_locale.fnAria} ${num}">${num}</a></sup>`;
+    return `<sup id="${refIdAt(label, k)}"><a href="#${id}" class="footnote-ref" aria-label="${_locale.fnAria} ${num}">${num}</a></sup>`;
   });
 
   // Build footnotes section
@@ -1370,10 +1389,22 @@ function processFootnotes(md: string): string {
     const items = order.map((label, i) => {
       const num = i + 1;
       const id = `fn-${label}`;
-      const refId = `fnref-${label}`;
+      const times = uses[label] || 1;
+      // 引用一次就一個乾淨的 ↩；引用多次時第一個仍是 ↩，其餘用上標序號，
+      // 讀者能挑「回到第幾次引用的地方」。aria-label 帶括號序號區分，
+      // 不新增語言字串（VIZ_STRINGS 是 Record<Lang> 型別鎖，加欄位要動 12 語）。
+      const backrefs = Array.from({ length: times }, (_, j) => {
+        const k = j + 1;
+        const aria =
+          k === 1
+            ? `${_locale.fnBackAria} ${num}`
+            : `${_locale.fnBackAria} ${num} (${k})`;
+        const glyph = k === 1 ? '↩' : `<sup>${k}</sup>`;
+        return `<a href="#${refIdAt(label, k)}" class="footnote-backref" aria-label="${aria}">${glyph}</a>`;
+      }).join('');
       // Process links inside footnote text via marked inline parser
       const defHtml = marked.parseInline(definitions[label]) as string;
-      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="${_locale.fnBackAria} ${num}">↩</a></li>`;
+      return `<li id="${id}">${defHtml}${backrefs}</li>`;
     });
     body =
       body.trimEnd() +

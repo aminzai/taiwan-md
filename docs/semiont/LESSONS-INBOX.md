@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-28 footnote-cards — measured-one-engines-semantics-with-another：拿 Python 的正規式語意去量 JavaScript 的行為，差點回報「零風險可以直接改」
+
+- **pattern**: `measured-one-engines-semantics-with-another`
+- **原則**：要評估「把 `article-render.ts` 的標題 id 產生器從 `[^\w\u4e00-\u9fff-]` 改成 Unicode 字母類，會動到多少既有錨點」，我用 Python 重寫了新舊兩版 slug 函式跑全站對照，結論是**全部語言 0 個 id 會變**。差一步就寫進報告當「零風險」。
+- **錯在哪**：**Python 的 `\w` 預設就吃 Unicode 字母，JavaScript 的 `\w` 只認 ASCII `[A-Za-z0-9_]`**。所以我的「舊版」在 Python 裡根本不會剝掉韓文俄文阿拉伯文，新舊兩版算出來當然一樣。改用 Node 跑同一份掃描，真實數字是 **ko 7,158 個標題 id 退化成一串破折號、3,638 個重複；ru/ar/hi 各 6,000-7,000 與 2,500-2,900**，而且拉丁語系有 4-9 成的 id 會變動。從「零風險」到「動到全站約六萬個公開錨點」。
+- **為什麼會發生**：手邊順手的是 Python，被量的東西住在 TypeScript。兩邊的正規式長得**一模一樣**，所以沒有任何東西提示我它們的語意不同——沒有型別錯誤、沒有例外、沒有空輸出，只有一個看起來很乾淨的答案。
+- **接住它的是什麼**：不是閘門，是我自己在寫結論前多問一句「Python 的 `\w` 跟 JS 的一樣嗎」。這次接住了，下次未必。
+- **可能層級**：操作紀律候選——**評估「改這行 code 會影響多少」時，量測必須用被量對象自己的執行引擎跑**。判準：如果結論是要拿去決定要不要動 production code，那份掃描就得是同語言的（JS 的用 node、Python 的用 python、bash 的用 bash）。可儀器化的形狀：把新舊行為做成同檔案裡的兩個 export，用該語言的測試跑對照，不要在別的語言裡重寫一次。
+- **相關**：LESSONS `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`（那條是量錯對象，本條是用錯量尺的語意）、REFLEXES #24（工具在說謊：靜默給錯答案比 crash 危險）、#65（awareness instrument 自己要 cross-verify）
+- **相關佇列**：OBSERVER-QUEUE #43（標題錨點四語全毀的處置，正確數字已附）
+- **verification_count**: 1
+- **severity**: structural（差一步就用假數字支撐一個「零風險」的公開面改動建議）
+
 ### 2026-08-28 footnote-cards — guard-invented-for-an-unverified-symptom：為一個沒查證過的症狀加護欄，護欄本身製造了它要防的那個病
 
 - **pattern**: `guard-invented-for-an-unverified-symptom`
