@@ -1,15 +1,41 @@
 id: 粉絲
 category: daily-life
+subcategory: 日常生活
 fork_type: semantic
+auto_convert: false # 同形異義：中國側的詞在台灣另有正當用法，盲目取代會改壞正確文字
 
 display:
-  taiwan: 冬粉
-  china: 粉絲
+  taiwan: 冬粉（食物義）
+  china: 粉絲（食物義）
 
-notes: ''
+etymology:
+  origin: 「粉絲」這三個字在兩岸各自扛了兩個不相干的義項。食物那個是綠豆或番薯澱粉做的細絲，台灣叫冬粉、中國叫粉絲；追星那個是英文 fans 的音譯，兩岸都講粉絲。
+  taiwan_path: 台灣講食物一律說冬粉（冬粉湯、螞蟻上樹用的冬粉），講藝人的支持者則說粉絲、粉絲團、鐵粉——後者是台灣自己的日常說法，不是外來的。
+  china_path: 中國食物與追星共用「粉絲」一詞，靠上下文分辨。
+  fork_cause: 音譯詞撞上固有詞。分歧只發生在食物那個義項上，追星那個義項兩岸同形也同義。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 追星義的「粉絲」「粉絲團」「鐵粉」「粉專」是台灣日常用語，與本條無關。
+
+status: stable
+
+notes: |
+  ⚠️ 這一條只在食物義上成立。2026-08-25 一位讀者在站上回報，用語轉換器把社群主題
+  範例文章裡的「粉絲」轉成「冬粉」（[issue #1613](https://github.com/frank890417/taiwan-md/issues/1613)）——
+  那句講的是藝人的粉絲，被轉換器當成食物換掉了。
+
+  原始詞條是 2026-03-31 從 fanhuaji 設定檔整批匯入的，只有 china/taiwan 兩個欄位、
+  notes 空白，沒有記下這個詞有兩個義項。整批匯入的詞對沒有義項資訊，
+  而找字取代不看上下文——兩者相乘就是這種誤轉。
+
+  處置照 2026-08-22「挺」那條立下的作法：加 auto_convert: false，
+  詞條頁照常解釋冬粉與粉絲的差別，只有轉換器跳過它。
 
 sources:
   - 'fanhuaji-config'
+  - 'https://github.com/frank890417/taiwan-md/issues/1613'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-08-28'

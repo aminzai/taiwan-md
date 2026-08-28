@@ -332,6 +332,39 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-28 twmd-maintainer-am — escalation-granularity-blocks-remediation：一份清單裡混著「需要你判斷」與「就是錯的」，整份就一起卡住
+
+- **pattern**: `escalation-granularity-blocks-remediation`
+- **原則**：稽核產出的 flagged 清單如果同時裝著「需要人拍板的判斷題」與「不需要任何判斷的事實錯誤」，然後整份當成一件事升上去等決策，那些本來今天就能修的東西會跟著判斷題一起排隊。升級的**顆粒度**本身會變成修復的阻塞點——不是沒人想修，是修的授權被綁在一個不相干的問題上。
+- **觸發**：2026-07-10 詞庫審查標了 536 條，整份以「詞庫深度進化 follow-up」進 OBSERVER-QUEUE #11 等哲宇拍板。拆開看，128 條 NOT_DISTINCT 確實是策展門檻（「已雙向通用詞該不該留」）需要哲宇；但 343 條（WRONG 107 / MAPPING_WRONG 180 / GARBLED 56）是事實錯誤，不需要任何策展判斷。七週後，讀者蘇洛在站上撞到其中一條並回報（[#1611](https://github.com/frank890417/taiwan-md/issues/1611)「狀語不一定是副詞」），內容跟報告七週前對 `副詞.yaml` 的 WRONG 判定一字不差。**我們先發現，然後把它鎖進一個等別人開的抽屜，再由讀者從外面告訴我們。**
+- **跟既有反射的差別**：REFLEXES #58「儀器化 detection ≠ remediation」講的是偵測到之後沒有修的路徑；這條講**修的路徑存在、授權也在手上，但被清單的打包方式綁走了**。#82 proxy signal 也不是——訊號沒有選錯替身，訊號完全正確。
+- **修補方向**：稽核工具產出 flagged 清單時，第一步就按「需不需要人的判斷」分兩堆輸出，兩堆各自走各自的路；升 OBSERVER-QUEUE 的只有需要判斷的那堆。判準一句話：**這條的處置會因為誰來看而不同嗎？不會 → 不該進待決佇列。**
+- **本輪處置**：單獨修掉讀者指到的那一條（commit `55db2cb5f`），並把「343 事實錯誤 vs 128 策展判斷要不要拆兩條路」升 OBSERVER-QUEUE #43（含選項與成本）。
+- **可能層級**：通用反射候選（跨稽核工具，不限詞庫）
+- **相關**：REFLEXES #58、#71（Default 是行動不是 defer）、OBSERVER-QUEUE #11 / #43
+- **verification_count**: 1
+- **severity**: structural（決定了一份正確的稽核結果會不會變成修復）
+
+### 2026-08-28 twmd-maintainer-am — local-deps-drift-makes-local-build-red-while-ci-green：本機少裝一個套件，本機 build 全紅而 CI 全綠
+
+- **pattern**: `local-deps-drift-makes-local-build-red-while-ci-green`
+- **原則**：CI 每次都跑 `npm ci`，本機不會自己跟上 `package.json`。少一個 transitive 相依時，本機 `npm run build` 會炸在一個跟當下改動毫無關係的地方，而 CI 是綠的。這對 routine 特別危險：cron session 想用本機 build 驗證自己的改動時，紅燈會被誤讀成「我改壞了」，或者反過來——為了讓它過而去動不該動的東西。
+- **觸發**：2026-08-28 maintainer cycle 要驗證 `/terminology/` 的改動，`npm run build` 炸在 `Rollup failed to resolve import "marked-cjk-friendly"`。那個套件在 `package.json` 第 83 行、node_modules 裡沒有。跟本次改動零關係；`npm install` 補了 1 個套件之後 build 立刻綠。前一晚 CI 的 Deploy 是成功的，所以只看 CI 完全看不見這件事。
+- **修補方向**：任何要靠本機 build 當尺的流程（maintainer 驗證、pre-push 全站掃描、babel dispatcher），起手先確認本機相依跟 `package.json` 對得上——`npm ci --dry-run` 或直接 `npm install` 一次都比事後解讀一個無關的錯誤便宜。候選：把這一步寫進需要本機 build 的 routine 前置。
+- **相關**：`prescribed-verification-unavailable-to-unattended-runs`（2026-08-21，同屬「驗證路徑在需要它的時候不可用」家族，那條是權限、這條是環境）；REFLEXES #24（工具在說謊——錯誤訊息指向錯的地方）
+- **verification_count**: 1
+- **severity**: tactical
+
+### 2026-08-28 twmd-feedback-triage — dedupe-key-is-exact-match-on-normalized-text：去重簽名是正規化後的逐字比對，同一位讀者五十秒內補一個語尾助詞就繞過去了
+
+- **pattern**: `dedupe-key-is-exact-match-on-normalized-text`
+- **原則**：去重鍵拿「正規化後的文字」當「同一則回報」的替身時，替身只擋得住逐字重複。真實世界的重複是人按了送出、覺得少講一個字、再送一次——同一位讀者、同一個主張、相隔不到一分鐘，差一個語尾助詞就是兩個不同的鍵。去重要摸到「誰在什麼時候講同一件事」，不是只比字串。
+- **觸發**：2026-08-28 07:05 本輪七筆裡 `6e18315d` 與 `7034b542` 都是讀者蘇洛講「郭淑姿日記裡還保有無語的用法」，01:58:42 與 01:59:32 相隔 50 秒，差別只在句尾一個「喔」。`dedupeKey()` 把 body 截 40 字、轉小寫、去空白與標點後比對，兩者差一字即不同鍵，兩筆各自開成 [#1609](https://github.com/frank890417/taiwan-md/issues/1609) 與 [#1610](https://github.com/frank890417/taiwan-md/issues/1610)。當班沒有用 `--exclude` 攔（攔下會讓 status 維持 new、日日再現，比開兩個 issue 更糟），留給 08:30 maintainer 人類 gate 判重複。
+- **可能層級**：通用反射（#82 訊號選替身家族——字串簽名是「同一則回報」的替身）
+- **相關**：`dedup-layer-silent-degradation`（2026-08-04 支語研究）是同一層的另一個維度——那條講對照層會靜默退化，這條講鍵本身太脆；#82
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-08-28 footnote-cards — declared-escape-hatch-never-observed-working：閘門文件寫的豁免寫法，兩次照做兩次無效，而機制我沒能重現
 
 - **pattern**: `declared-escape-hatch-never-observed-working`
@@ -354,7 +387,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **接住它的是什麼**：不是閘門，是我自己在寫結論前多問一句「Python 的 `\w` 跟 JS 的一樣嗎」。這次接住了，下次未必。
 - **可能層級**：操作紀律候選——**評估「改這行 code 會影響多少」時，量測必須用被量對象自己的執行引擎跑**。判準：如果結論是要拿去決定要不要動 production code，那份掃描就得是同語言的（JS 的用 node、Python 的用 python、bash 的用 bash）。可儀器化的形狀：把新舊行為做成同檔案裡的兩個 export，用該語言的測試跑對照，不要在別的語言裡重寫一次。
 - **相關**：LESSONS `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`（那條是量錯對象，本條是用錯量尺的語意）、REFLEXES #24（工具在說謊：靜默給錯答案比 crash 危險）、#65（awareness instrument 自己要 cross-verify）
-- **相關佇列**：OBSERVER-QUEUE #43（標題錨點四語全毀的處置，正確數字已附）
+- **相關佇列**：OBSERVER-QUEUE #44（標題錨點四語全毀的處置，正確數字已附）
 - **verification_count**: 1
 - **severity**: structural（差一步就用假數字支撐一個「零風險」的公開面改動建議）
 

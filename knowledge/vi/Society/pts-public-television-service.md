@@ -3,7 +3,15 @@ title: 'Đài Loan Công cộng: Từ 9 tỷ đô la siết chặt đến bị �
 description: 'Năm 1998 Đài Loan Công cộng khai trương, Luật Đài Loan Công cộng khiến dòng ngân sách tặng của chính phủ giảm dần từng năm và cuối cùng bị đông lại ở mức 9 tỷ đô la hàng năm, điều khoản này ràng buộc 23 năm. Trong thời gian đó tạo ra «Khoảng cách giữa chúng ta và sự gian ác», «Trà vàng», «Cô gái liên lạc ngoài cõi», «Bão gây mê», «Mây xanh rực» — năm bộ phim ấn tượng chấn động xã hội. Tháng 5 năm 2023 sửa luật gỡ bỏ siết chặt, ngân sách tăng gấp đôi lên 23 tỷ đô la, nhưng 19 tháng sau ngân sách bị cắt 1%, đông lại 25%; sau một năm nữa, tháng 5 năm 2026, chủ tịch hội đồng Hồ Nguyên Huy bị yêu cầu rời khỏi hội trường. 28 năm qua Đài Loan Công cộng chứng minh: gỡ bỏ siết chặt không phải là thiết lập độc lập.'
 date: 2026-05-27
 category: 'Society'
-tags: ['phương tiện truyền thông', 'Đài Loan Công cộng', 'chính sách văn hoá', 'ngành công nghiệp phim ảnh', 'Quân đội-Chính phủ rút khỏi phương tiện truyền thông', 'nguyên tắc cánh tay']
+tags:
+  [
+    'phương tiện truyền thông',
+    'Đài Loan Công cộng',
+    'chính sách văn hoá',
+    'ngành công nghiệp phim ảnh',
+    'Quân đội-Chính phủ rút khỏi phương tiện truyền thông',
+    'nguyên tắc cánh tay',
+  ]
 subcategory: 'Media and Discourse'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -24,11 +32,6 @@ rationale:
   whats_excluded: 'Chi tiết quy trình biên tập nội bộ TaiwanPlus (sự kiện báo cáo Trump của Louise Watt đã đề cập các case tượng trưng, không khai triển toàn bộ 6 tranh chấp); lịch sử phát triển độc lập của kênh Khách Gia / kênh Đài ngữ / kênh Dân tộc (subcategory khác, dành cho bài viết chuyên biệt); danh sách hoàn chỉnh các giải thưởng sản xuất-phát hành của Đài Loan Công cộng (chi tiết giải Chuông vàng có giá trị thấp với độc giả, chỉ tham chiếu 32 giải của lần thứ 60); toàn bộ luận điểm của Đảng Xanh «TaiwanPlus là miệng loa của Đảng Dân chủ Tiến bộ» (đã sử dụng ankh Trần Học Thánh + Trần Ngọc Châu, không lặp lại khai triển).'
   where_it_hedges: '«9 tỷ ngân sách nuôi phim ấn tượng» thực tế là 9 tỷ + trợ cấp dự án của Bộ Văn hoá + cộng tác quốc tế kết hợp (như «Mây xanh rực» Bộ Văn hoá trợ cấp 600 triệu, «Cô gái liên lạc ngoài cõi» cộng tác HBO Asia), trong bài dùng khái quát «ngân sách cơ bản 9 tỷ + lớp trợ cấp dự án tăng thêm từng lớp», không liệt kê chi tiết ngân sách mỗi phim. «2026 giấy thử độ trưởng thành dân chủ» là quan điểm, không phải bằng chứng thực nghiệm — dùng câu hỏi kết thúc để dành cho độc giả, không kết luận định đoạt.'
   whos_pushing_back: 'Cử nhân Quốc Dân Đảng Trần Ngọc Châu, La Trí Cường, Trần Học Thánh (nghi ngờ tăng ngân sách, TaiwanPlus lệch lạc chính trị); nhà kinh doanh truyền hình thương mại (lo lắng lâu dài về mở rộng của Đài Loan Công cộng); bình thường với quan điểm «Đài Loan Công cộng không ai xem» (tỷ suất xem dài ngày thấp). Ba phía đều có chú thích chú dẫn.'
-translatedFrom: 'Society/公視.md'
-sourceCommitSha: '81f10131f'
-sourceContentHash: 'sha256:5d55767b0e73ce88'
-sourceBodyHash: 'sha256:55150dbbe846399a'
-translatedAt: '2026-08-09T09:26:48+08:00'
 ---
 
 > **Tóm tắt 30 giây:**

@@ -7229,6 +7229,18 @@
       "source": "harvest"
     },
     {
+      "spore": 172,
+      "dPlus": 10,
+      "at": "2026-08-28 06:44",
+      "batch": "batch-2026-08-28-4-spores",
+      "views": 4989,
+      "likes": 309,
+      "reposts": 67,
+      "comments": 15,
+      "shares": 53,
+      "source": "threads"
+    },
+    {
       "spore": 173,
       "dPlus": 1,
       "at": "2026-08-19 06:40",
@@ -7275,6 +7287,18 @@
       "comments": 5,
       "shares": 90,
       "source": "harvest"
+    },
+    {
+      "spore": 173,
+      "dPlus": 10,
+      "at": "2026-08-28 06:44",
+      "batch": "batch-2026-08-28-4-spores",
+      "views": 10000,
+      "likes": 599,
+      "reposts": 200,
+      "comments": 5,
+      "shares": 90,
+      "source": "x"
     },
     {
       "spore": 174,
@@ -7337,6 +7361,18 @@
       "source": "harvest"
     },
     {
+      "spore": 175,
+      "dPlus": 5,
+      "at": "2026-08-28 06:44",
+      "batch": "batch-2026-08-28-4-spores",
+      "views": 20000,
+      "likes": 1830,
+      "reposts": 240,
+      "comments": 70,
+      "shares": 175,
+      "source": "threads"
+    },
+    {
       "spore": 176,
       "dPlus": 0,
       "at": "2026-08-23 06:58",
@@ -7347,6 +7383,18 @@
       "comments": 3,
       "shares": 16,
       "source": "harvest"
+    },
+    {
+      "spore": 176,
+      "dPlus": 5,
+      "at": "2026-08-28 06:44",
+      "batch": "batch-2026-08-28-4-spores",
+      "views": 24000,
+      "likes": 631,
+      "reposts": 120,
+      "comments": 21,
+      "shares": 110,
+      "source": "x"
     }
   ]
 }

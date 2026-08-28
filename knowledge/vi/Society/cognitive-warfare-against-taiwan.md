@@ -1,32 +1,31 @@
 ---
-title: "Cognitive Warfare: Giai đoạn Công nghiệp hóa AI trên Chiến trường Thông tin của Đài Loan"
+title: 'Cognitive Warfare: Giai đoạn Công nghiệp hóa AI trên Chiến trường Thông tin của Đài Loan'
 description: "Tháng 12/2024, bộ phim tài liệu 'Chiến tranh thống nhất của Trung Quốc' đạt hơn 2 triệu lượt xem; quý IV/2025, 1076 tài khoản truyền thông chính thức của Đảng Cộng sản Trung Quốc đăng 560.000 video trên Douyin, sử dụng nhận diện khuôn mặt để xác định 57 người Đài Loan; tháng 10/2025, Thẩm Bá Dương bị Cảnh sát Trùng Khánh lập hồ sơ điều tra với tội danh 'phân ly quốc gia'. Chiến tranh nhận thức bước vào giai đoạn mới của công nghiệp hóa AI và 'dùng người Đài Loan để phê phán người Đài Loan', nhưng bản thân thuật ngữ 'chiến tranh nhận thức' cũng đang chịu sức ép bị lạm dụng trong nội bộ Đài Loan."
 date: 2026-04-23
-author: "Taiwan.md Contributors"
-category: "Society"
+author: 'Taiwan.md Contributors'
+category: 'Society'
 tags:
   [
-    "Chiến tranh nhận thức",
-    "Chiến tranh thông tin",
-    "Tin giả",
-    "AI Deepfake",
-    "Douyin",
-    "Đảng Cộng sản Trung Quốc đối với Đài Loan",
-    "Giáo dục truyền thông",
-    "Kiểm chứng sự thật",
-    "Trách nhiệm nền tảng",
+    'Chiến tranh nhận thức',
+    'Chiến tranh thông tin',
+    'Tin giả',
+    'AI Deepfake',
+    'Douyin',
+    'Đảng Cộng sản Trung Quốc đối với Đài Loan',
+    'Giáo dục truyền thông',
+    'Kiểm chứng sự thật',
+    'Trách nhiệm nền tảng',
   ]
-subcategory: "Media và Phát ngôn"
-author: "Taiwan.md Contributors"
+subcategory: 'Media và Phát ngôn'
 featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 28
-translatedFrom: "Society/認知作戰.md"
-sourceCommitSha: "7c4a58918"
-sourceContentHash: "sha256:0b5ddca64df69aa6"
-sourceBodyHash: "sha256:0fcafeba09518f70"
-translatedAt: "2026-07-26T03:41:21+08:00"
+translatedFrom: 'Society/認知作戰.md'
+sourceCommitSha: '7c4a58918'
+sourceContentHash: 'sha256:0b5ddca64df69aa6'
+sourceBodyHash: 'sha256:0fcafeba09518f70'
+translatedAt: '2026-07-26T03:41:21+08:00'
 ---
 
 > **Tóm tắt 30 giây:**

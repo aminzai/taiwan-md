@@ -3,7 +3,14 @@ title: 'ताइवान के नए आप्रवासियों क�
 description: 'जब थाई खट्टा-मसालेदार ताइवानी मीठे-नमकीन से मिला, जब वियतनामी फो ताइवानी ब्रेज़्ड व्यंजनों से मिला, जब इंडोनेशियाई मसालों ने स्थानीय सामग्रियों को गले लगाया, तो सीमाओं को पार करने वाली एक स्वाद क्रांति चुपचाप ताइवान में घटित हो रही है। नए आप्रवासी न केवल अपने गृहनगर के व्यंजन लाए हैं, बल्कि ताइवान की पाक संस्कृति को समृद्ध करने की पूरी नई संभावनाएं भी लाए हैं।'
 date: 2026-03-20
 category: 'Food'
-tags: ['नए आप्रवासी व्यंजन', 'दक्षिण पूर्व एशियाई व्यंजन', 'सांस्कृतिक संलयन', 'विविध आहार', 'प्रवासी संस्कृति']
+tags:
+  [
+    'नए आप्रवासी व्यंजन',
+    'दक्षिण पूर्व एशियाई व्यंजन',
+    'सांस्कृतिक संलयन',
+    'विविध आहार',
+    'प्रवासी संस्कृति',
+  ]
 subcategory: 'जातीय आहार'
 author: 'Taiwan.md 編輯團隊'
 featured: true
@@ -13,15 +20,11 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular
 imageAlt: 'वियतनामी फो'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 readingTime: 10
-lastVerified: 2026-03-20
-lastHumanReview: false
-featured: true
 translatedFrom: 'Food/台灣新住民美食融合.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
 sourceBodyHash: 'sha256:6806ae061b784232'
 translatedAt: '2026-07-25T05:00:12+08:00'
-readingTime: 10
 ---
 
 # ताइवान के नए आप्रवासियों का पाक कला संलयन

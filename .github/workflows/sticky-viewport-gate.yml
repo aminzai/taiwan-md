@@ -1,0 +1,77 @@
+name: Sticky viewport gate
+
+# 黏在畫面上的東西不准吃掉手機的視野。
+#
+# 防的 bug class：一條 sticky / fixed 的列在手機上壓住大半個畫面，讀者往下捲
+# 也甩不掉，而且多半沒有收合的地方。頁面沒有錯誤、build 是綠的、所有既有儀器
+# 都說健康——它只是不能用。
+#
+# 為什麼需要獨立一支：這種列的高度不是寫在原始碼裡的，是資料長出來的。
+# /terminology/ 的篩選列原始碼只有兩個 `.map()`，渲染出來是 6 個分歧類型
+# 加 46 個子分類共 53 顆按鈕，在 375px 寬的手機上排成十幾列、蓋掉 65% 的畫面。
+# 靜態掃 class 看不出這件事，只有真的用手機尺寸渲染一次才量得到。
+# 而詞庫每個月都在長，下一個分類加進去時沒有人會重新量。
+#
+# 靠讀者回報了兩次才被補上（兩位讀者、四天內、各自獨立）：
+#   2026-08-23  羅心怡：「關鍵字頁面無法收合，找不到收合的按鈕，擋住觀看詞彙的畫面」（#1612）
+#   2026-08-26  Casai かさい：「分類 tag 沒有摺疊，在手機上閱覽直接蓋住 2/3 的頁面」（#1614）
+#
+# ⚠️ 門檻 35% 是 2026-08-28 用站上 10 個代表性頁面實測校準的，不是憑感覺設的：
+# 健康頁面全部落在 7-13%（都只有那條 header），出事的那頁是 65%，中間空了
+# 五十個百分點。改門檻前先讀 scripts/tools/check-sticky-viewport.mjs 檔頭那段。
+#
+# ⚠️ 這支量的是「擋住多少」不是「它多高」。第一版量高度，把 /map 那個收在畫面
+# 外的抽屜（高 487px、可見 0px）報成違規——在閘門的位置量錯東西，就是假陽性
+# 的起點。
+
+on:
+  pull_request:
+    paths:
+      - 'src/pages/**'
+      - 'src/templates/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
+      - 'data/terminology/**'
+      - 'scripts/tools/check-sticky-viewport.mjs'
+      - '.github/workflows/sticky-viewport-gate.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'src/pages/**'
+      - 'src/templates/**'
+      - 'src/components/**'
+      - 'src/layouts/**'
+      - 'scripts/tools/check-sticky-viewport.mjs'
+
+jobs:
+  sticky-viewport-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline --no-audit
+
+      - name: Install Playwright Chromium
+        run: npx --no-install playwright install --with-deps chromium
+
+      - name: Build
+        run: npm run build
+
+      - name: Serve dist
+        run: |
+          npx --yes http-server dist -p 4399 --silent &
+          for i in $(seq 1 30); do
+            curl -sf -o /dev/null http://localhost:4399/ && break
+            sleep 1
+          done
+
+      # 量不到也會 exit 1（連 header 都沒看到 = 這支沒看見那一頁，
+      # 不等於那一頁沒問題）。校準時真的間歇發生過同一頁兩次跑
+      # 一次 13% 一次零個元素，空清單被印成 ✅ 就是閘門在說謊。
+      - name: Check sticky elements do not eat the mobile viewport
+        run: node scripts/tools/check-sticky-viewport.mjs --base http://localhost:4399

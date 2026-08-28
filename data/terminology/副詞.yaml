@@ -2,15 +2,50 @@ id: 副詞
 category: daily
 subcategory: 日常用語
 fork_type: B
+auto_convert: false # 這組對照本身是錯的（見 notes），先停掉找字取代
 
 display:
-  taiwan: 副詞
+  taiwan: 狀語
   china: 状语
 
-notes: ''
+english: adverbial (sentence element) / adverb (part of speech)
+
+etymology:
+  origin: 「狀語」與「副詞」是兩個不同層級的語法概念。副詞是詞類，講一個詞本身屬於哪一種；狀語是句子成分，講一個成分在句子裡擔任什麼功能。擔任狀語的可以是副詞，也可以是形容詞、介詞短語、名詞短語。
+  taiwan_path: 台灣的國文與語言學教學同時使用「副詞」和「狀語」，兩個詞各自指各自的東西。
+  china_path: 中國同樣同時使用「副詞」和「状语」，差別只在「狀／状」的字形。
+  fork_cause: 這裡沒有兩岸分歧。真正的差別只有正體與簡體的字形。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: false
+  exceptions: 「副詞」在兩岸都叫副詞，不對照到「状语」。
+
+status: stable
+
+notes: |
+  ⚠️ 更正紀錄（2026-08-28）：本條原本寫「台灣：副詞 ／ 中國：状语」，那是錯的。
+  副詞是詞類，狀語是句子成分，兩者不同層級，不能對照——擔任狀語的不一定是副詞，
+  也可以是形容詞或介詞短語。
+
+  這個錯誤被抓到兩次，隔了七週：
+  第一次是 2026-07-10 詞庫審查自己標出來的（`reports/terminology-review/2026-07-10/flagged.md`，
+  判定 WRONG，並寫明「台灣『副詞』對應中國『副詞』；若指狀語，應為台灣『狀語』／中國『状语』」）；
+  第二次是 2026-08-23 一位讀者在站上回報「在語言學上狀語不一定是副詞，也有可能是形容詞」
+  （[issue #1611](https://github.com/frank890417/taiwan-md/issues/1611)）——跟七週前那份報告
+  講的是同一件事。標出來了，但沒有人去修，於是它繼續在站上待了七週。
+
+  現在改成正確的對照：台灣「狀語」／中國「状语」。但要誠實說，改完之後這一組只剩
+  正體與簡體的字形差別，不是用語分歧——這條該不該留在詞庫裡，是策展門檻的問題，
+  留給哲宇（OBSERVER-QUEUE）。
+
+  原始來源是 2026-04-08 從 rajatim/zhtw 整批匯入的 daily.json，
+  跟「粉絲／冬粉」一樣是整批匯入沒有義項與層級資訊造成的誤配。
 
 sources:
   - 'rajatim/zhtw (MIT) — daily.json'
+  - 'reports/terminology-review/2026-07-10/flagged.md'
+  - 'https://github.com/frank890417/taiwan-md/issues/1611'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-08-28'

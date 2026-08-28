@@ -1,8 +1,8 @@
 {
-  "totalArticles": 9957,
-  "totalCategories": 26,
+  "totalArticles": 10060,
+  "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 6818,
+  "totalTags": 7152,
   "categories": [
     {
       "name": "es",
@@ -18,15 +18,15 @@
     },
     {
       "name": "en",
-      "count": 885
+      "count": 884
     },
     {
       "name": "ja",
-      "count": 883
+      "count": 886
     },
     {
       "name": "vi",
-      "count": 801
+      "count": 800
     },
     {
       "name": "hi",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ru",
-      "count": 787
+      "count": 786
     },
     {
       "name": "Technology",
@@ -42,11 +42,11 @@
     },
     {
       "name": "History",
-      "count": 83
+      "count": 87
     },
     {
       "name": "id",
-      "count": 590
+      "count": 589
     },
     {
       "name": "ar",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Society",
-      "count": 114
+      "count": 116
     },
     {
       "name": "pt",
@@ -66,11 +66,11 @@
     },
     {
       "name": "Food",
-      "count": 86
+      "count": 89
     },
     {
       "name": "Lifestyle",
-      "count": 43
+      "count": 46
     },
     {
       "name": "About",
@@ -78,15 +78,15 @@
     },
     {
       "name": "People",
-      "count": 284
+      "count": 289
     },
     {
       "name": "Culture",
-      "count": 105
+      "count": 112
     },
     {
       "name": "Geography",
-      "count": 78
+      "count": 82
     },
     {
       "name": "Music",
@@ -103,6 +103,10 @@
     {
       "name": "Art",
       "count": 48
+    },
+    {
+      "name": "de",
+      "count": 76
     },
     {
       "name": "resources",
@@ -128,19 +132,19 @@
     },
     {
       "name": "YouTuber",
-      "count": 31
+      "count": 32
     },
     {
       "name": "文學",
       "count": 30
     },
     {
-      "name": "ODM",
+      "name": "民主化",
       "count": 29
     },
     {
-      "name": "民主化",
-      "count": 28
+      "name": "ODM",
+      "count": 29
     },
     {
       "name": "原住民族",
@@ -179,11 +183,11 @@
       "count": 24
     },
     {
-      "name": "政治",
-      "count": 23
+      "name": "飲食文化",
+      "count": 24
     },
     {
-      "name": "飲食文化",
+      "name": "政治",
       "count": 23
     },
     {
@@ -192,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 9957,
+    "zh-TW": 10060,
     "en": 0
   },
-  "lastUpdated": "2026-08-22T22:12:20.402Z",
-  "stars": 1154,
-  "forks": 181,
-  "zhPages": 1087,
+  "lastUpdated": "2026-08-27T22:13:00.736Z",
+  "stars": 1157,
+  "forks": 182,
+  "zhPages": 1115,
   "languagePages": {
-    "zh-TW": 1087,
-    "en": 885,
-    "ja": 883,
+    "zh-TW": 1115,
+    "en": 884,
+    "ja": 886,
     "ko": 885,
     "es": 883,
     "fr": 884,
-    "vi": 801,
-    "id": 590,
+    "vi": 800,
+    "id": 589,
     "pt": 848,
     "hi": 669,
     "ar": 753,
-    "ru": 787
+    "ru": 786
   },
-  "enPages": 885,
-  "totalPages": 1087
+  "enPages": 884,
+  "totalPages": 1115
 }

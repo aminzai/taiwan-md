@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T22:12:21.366Z",
+  "lastUpdated": "2026-08-27T22:13:02.068Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,30 +7,44 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 8629,
+      "commits": 8753,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-23 05:38:07 +0800",
+      "lastCommitAt": "2026-08-28 05:40:20 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1543,
-        "system": 4665,
-        "translation": 1956
+        "content": 1583,
+        "system": 4690,
+        "translation": 1963
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 439,
+      "commits": 471,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-22 01:24:37 +0800",
+      "lastCommitAt": "2026-08-27 02:57:01 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 435,
+        "content": 467,
         "system": 0,
         "translation": 0
+      }
+    },
+    {
+      "login": "tboydar",
+      "commits": 58,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
+      "profileUrl": "https://github.com/tboydar",
+      "firstCommitAt": "2026-03-23 22:51:19 +0800",
+      "lastCommitAt": "2026-08-23 19:31:52 +0800",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 10,
+        "system": 4,
+        "translation": 56
       }
     },
     {
@@ -118,6 +132,20 @@
       }
     },
     {
+      "login": "hansai-art",
+      "commits": 15,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
+      "profileUrl": "https://github.com/hansai-art",
+      "firstCommitAt": "2026-03-18 21:37:00 +0800",
+      "lastCommitAt": "2026-07-26 22:34:45 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 2,
+        "system": 8,
+        "translation": 6
+      }
+    },
+    {
       "login": "stantheman0128",
       "commits": 15,
       "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
@@ -132,17 +160,17 @@
       }
     },
     {
-      "login": "hansai-art",
-      "commits": 15,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
-      "profileUrl": "https://github.com/hansai-art",
-      "firstCommitAt": "2026-03-18 21:37:00 +0800",
-      "lastCommitAt": "2026-07-26 22:34:45 +0800",
-      "primaryArea": "system",
+      "login": "aminzai",
+      "commits": 13,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
       "breakdown": {
-        "content": 2,
-        "system": 8,
-        "translation": 6
+        "content": 0,
+        "system": 0,
+        "translation": 0
       }
     },
     {
@@ -203,7 +231,7 @@
     },
     {
       "login": "iigmir",
-      "commits": 8,
+      "commits": 10,
       "avatarUrl": "https://avatars.githubusercontent.com/u/11061770?v=4",
       "profileUrl": "https://github.com/iigmir",
       "firstCommitAt": null,
@@ -256,34 +284,6 @@
         "system": 0,
         "translation": 7
       }
-    },
-    {
-      "login": "tboydar",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
-      "profileUrl": "https://github.com/tboydar",
-      "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-11 08:24:16 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 9,
-        "system": 3,
-        "translation": 6
-      }
-    },
-    {
-      "login": "ting-hong-shieh",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32212900?v=4",
-      "profileUrl": "https://github.com/ting-hong-shieh",
-      "firstCommitAt": "2026-08-13 12:36:02 +0800",
-      "lastCommitAt": "2026-08-14 09:38:42 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 4,
-        "translation": 0
-      }
     }
   ],
   "allContributors": [
@@ -300,6 +300,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "types": ["🖋️"]
+    },
+    {
+      "login": "tboydar",
+      "name": "Dar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
+      "profileUrl": "https://github.com/tboydar",
+      "types": ["💻", "🖋️", "🌍"]
     },
     {
       "login": "Link1515",
@@ -344,6 +351,13 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
+      "login": "hansai-art",
+      "name": "hansai-art",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
+      "profileUrl": "https://github.com/hansai-art",
+      "types": ["💻", "🖋️", "🤔", "🌍", "👀"]
+    },
+    {
       "login": "stantheman0128",
       "name": "Stan Shih",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
@@ -351,11 +365,11 @@
       "types": ["💻", "🌍", "🐛"]
     },
     {
-      "login": "hansai-art",
-      "name": "hansai-art",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
-      "profileUrl": "https://github.com/hansai-art",
-      "types": ["💻", "🖋️", "🤔", "🌍", "👀"]
+      "login": "aminzai",
+      "name": "aminzai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "types": ["💻"]
     },
     {
       "login": "AgendaLu",
@@ -414,24 +428,10 @@
       "types": ["🖋️", "🌍"]
     },
     {
-      "login": "tboydar",
-      "name": "Dar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
-      "profileUrl": "https://github.com/tboydar",
-      "types": ["💻", "🖋️", "🌍"]
-    },
-    {
       "login": "ting-hong-shieh",
       "name": "ting-hong-shieh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32212900?v=4",
       "profileUrl": "https://github.com/ting-hong-shieh",
-      "types": ["💻"]
-    },
-    {
-      "login": "aminzai",
-      "name": "aminzai",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
       "types": ["💻"]
     },
     {
@@ -468,6 +468,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
       "profileUrl": "https://github.com/Ray0907",
       "types": ["💻", "🖋️"]
+    },
+    {
+      "login": "rhosiqs",
+      "name": "rhosiqs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
+      "profileUrl": "https://github.com/rhosiqs",
+      "types": ["🌍"]
     },
     {
       "login": "wegoliao",
@@ -680,13 +687,6 @@
       "types": ["💻", "🛡️"]
     },
     {
-      "login": "rhosiqs",
-      "name": "rhosiqs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
-      "profileUrl": "https://github.com/rhosiqs",
-      "types": ["💻"]
-    },
-    {
       "login": "XasonLai",
       "name": "XasonLai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12758654?v=4",
@@ -816,14 +816,14 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 439,
+      "commits": 471,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-22 01:24:37 +0800",
+      "lastCommitAt": "2026-08-27 02:57:01 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 435,
+        "content": 467,
         "system": 0,
         "translation": 0
       }
@@ -857,20 +857,6 @@
       }
     },
     {
-      "login": "tboydar",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
-      "profileUrl": "https://github.com/tboydar",
-      "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-11 08:24:16 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 9,
-        "system": 3,
-        "translation": 6
-      }
-    },
-    {
       "login": "r000tmnt",
       "commits": 3,
       "avatarUrl": "https://avatars.githubusercontent.com/u/62630285?v=4",
@@ -883,35 +869,35 @@
         "system": 1,
         "translation": 0
       }
+    },
+    {
+      "login": "wegoliao",
+      "commits": 2,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10190551?v=4",
+      "profileUrl": "https://github.com/wegoliao",
+      "firstCommitAt": "2026-08-15 16:05:10 +0800",
+      "lastCommitAt": "2026-08-15 16:05:26 +0800",
+      "primaryArea": "content",
+      "breakdown": {
+        "content": 2,
+        "system": 0,
+        "translation": 0
+      }
     }
   ],
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 8629,
+      "commits": 8753,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-23 05:38:07 +0800",
+      "lastCommitAt": "2026-08-28 05:40:20 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1543,
-        "system": 4665,
-        "translation": 1956
-      }
-    },
-    {
-      "login": "stantheman0128",
-      "commits": 15,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
-      "profileUrl": "https://github.com/stantheman0128",
-      "firstCommitAt": "2026-07-24 16:48:07 +0800",
-      "lastCommitAt": "2026-08-08 08:45:37 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 10,
-        "translation": 1
+        "content": 1583,
+        "system": 4690,
+        "translation": 1963
       }
     },
     {
@@ -926,6 +912,20 @@
         "content": 2,
         "system": 8,
         "translation": 6
+      }
+    },
+    {
+      "login": "stantheman0128",
+      "commits": 15,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
+      "profileUrl": "https://github.com/stantheman0128",
+      "firstCommitAt": "2026-07-24 16:48:07 +0800",
+      "lastCommitAt": "2026-08-08 08:45:37 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 0,
+        "system": 10,
+        "translation": 1
       }
     },
     {
@@ -958,6 +958,20 @@
     }
   ],
   "topTranslation": [
+    {
+      "login": "tboydar",
+      "commits": 58,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
+      "profileUrl": "https://github.com/tboydar",
+      "firstCommitAt": "2026-03-23 22:51:19 +0800",
+      "lastCommitAt": "2026-08-23 19:31:52 +0800",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 10,
+        "system": 4,
+        "translation": 56
+      }
+    },
     {
       "login": "Link1515",
       "commits": 53,
@@ -1013,39 +1027,11 @@
         "system": 0,
         "translation": 7
       }
-    },
-    {
-      "login": "ceruleanstring",
-      "commits": 4,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
-      "profileUrl": "https://github.com/ceruleanstring",
-      "firstCommitAt": "2026-04-07 19:58:17 +0800",
-      "lastCommitAt": "2026-04-15 12:29:57 +0800",
-      "primaryArea": "translation",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 161
-      }
     }
   ],
-  "weeklyActive": 2,
+  "weeklyActive": 4,
   "monthlyActive": 9,
   "recentlyJoined": [
-    {
-      "login": "stantheman0128",
-      "commits": 15,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
-      "profileUrl": "https://github.com/stantheman0128",
-      "firstCommitAt": "2026-07-24 16:48:07 +0800",
-      "lastCommitAt": "2026-08-08 08:45:37 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 10,
-        "translation": 1
-      }
-    },
     {
       "login": "ting-hong-shieh",
       "commits": 5,
@@ -1100,6 +1086,20 @@
         "content": 2,
         "system": 0,
         "translation": 0
+      }
+    },
+    {
+      "login": "rhosiqs",
+      "commits": 3,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
+      "profileUrl": "https://github.com/rhosiqs",
+      "firstCommitAt": "2026-08-25 22:09:07 +0800",
+      "lastCommitAt": "2026-08-25 22:30:30 +0800",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 2
       }
     }
   ]

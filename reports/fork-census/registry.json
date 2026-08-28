@@ -2,21 +2,51 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-08-22",
+    "last_census": "2026-08-27",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 509416,
-      "users": 276863
+      "views": 521418,
+      "users": 288258
     },
     "dev_noise": {
-      "views": 12117,
-      "users": 178
+      "views": 12173,
+      "users": 179
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
     "ephemeral_tail_note": "見 forks[] 末尾 id='(ephemeral-experiments)' — demo/在地化測試品牌,低信心,部署短暫"
   },
   "forks": [
+    {
+      "id": "(other)",
+      "label": "(other)",
+      "hostnames": ["(other)"],
+      "title_brands": [],
+      "type": "(unverified)",
+      "topic": "(unverified)",
+      "language": "",
+      "github": "",
+      "network_fork": null,
+      "credits_upstream": null,
+      "cognitive_layer": "(unverified)",
+      "ga_leaking": true,
+      "deployment": "(other)",
+      "health": "",
+      "confidence": "low",
+      "notes": "auto-detected via GA leak — needs investigation",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 4486,
+        "users": 10719
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "last_seen": "2026-08",
+      "first_seen": "2026-08"
+    },
     {
       "id": "agrischlchiayi",
       "label": "嘉義國本學堂 / 嘉義農業學堂",
@@ -77,7 +107,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 555,
+        "views": 558,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
@@ -110,7 +140,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 109,
+        "views": 111,
         "users": 61
       },
       "confidence": "high",
@@ -172,8 +202,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 115,
-        "users": 81
+        "views": 125,
+        "users": 90
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -207,8 +237,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 115,
-        "users": 79
+        "views": 125,
+        "users": 88
       },
       "last_seen": "2026-08",
       "first_seen": "2026-07"
@@ -270,7 +300,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 79,
+        "views": 80,
         "users": 1
       },
       "last_seen": "2026-08",
@@ -303,7 +333,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 16,
+        "views": 20,
         "users": 9
       },
       "confidence": "high",
@@ -456,36 +486,6 @@
         "window": "365daysAgo",
         "views": 1,
         "users": 1
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "last_seen": "2026-08",
-      "first_seen": "2026-08"
-    },
-    {
-      "id": "(other)",
-      "label": "(other)",
-      "hostnames": ["(other)"],
-      "title_brands": [],
-      "type": "(unverified)",
-      "topic": "(unverified)",
-      "language": "",
-      "github": "",
-      "network_fork": null,
-      "credits_upstream": null,
-      "cognitive_layer": "(unverified)",
-      "ga_leaking": true,
-      "deployment": "(other)",
-      "health": "",
-      "confidence": "low",
-      "notes": "auto-detected via GA leak — needs investigation",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 50941
       },
       "title_ga": {
         "window": "365daysAgo",

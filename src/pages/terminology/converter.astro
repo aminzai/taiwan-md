@@ -121,8 +121,29 @@ for (const file of files) {
       const forkType = d.fork_type || (d as any)?.type || '';
       const category = d.category || '';
       const id = d.id || file.replace('.yaml', '');
-      const target = taiwanVal;
       const chinaRaw = chinaVal;
+
+      // 目標值也要去掉括號註解，理由跟來源值一樣，但漏了更久（2026-08-28 補）。
+      // `網紅.yaml` 的 taiwan 寫「網紅（已通用；早期說「部落客」「網路名人」）」，
+      // 那串括號是給讀詞條頁的人看的說明，不是要塞進使用者文字裡的字 ——
+      // 但轉換器不清目標值，所以貼一段含「網紅」的文章進來，出來會變成
+      // 「網紅（已通用；早期說「部落客」「網路名人」）」。全站 17 條規則是這個形狀。
+      //
+      // 斜線不動：「存檔 / 儲存」「主管 / 長官 / 領袖 / 領導」是刻意並陳的多個選項，
+      // 那是建議不是註解，砍掉會弄丟資訊。
+      const target = String(taiwanVal)
+        .replace(/（[^）]*）/g, '')
+        .replace(/\([^)]*\)/g, '')
+        // 註解拿掉之後會在斜線旁邊留下缺口：「社畜（日源）/ 上班族」變成
+        // 「社畜/ 上班族」。並陳的選項之間統一補回一個空格。
+        .replace(/\s*\/\s*/g, ' / ')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+      // 目標值本身就是「沒有對應詞」的說明句時，沒有東西可以換過去。
+      // 不擋的話，「偷感」會被換成「無公認對應」這五個字。
+      if (/^無(公認|固定|單詞|直接)?對應/.test(target)) continue;
+      if (!target) continue;
 
       // Per-term scope qualifier (issue #1286). usage.note takes precedence,
       // usage.exceptions is the widespread legacy field (~190 entries).

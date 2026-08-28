@@ -297,7 +297,7 @@ grep `footnote` 掃過 `scripts/`、`src/`、`.github/`、`.husky/`：
 
 ### 做這三件時撞到的鄰居（沒收，已進佇列）
 
-`article-render.ts` 的標題 id 產生器用 `[^\w\u4e00-\u9fff-]` 過濾，而 **JS 的 `\w` 只認 ASCII**。實測 **ko 有 7,158 個標題 id 塌成一串破折號、3,638 個重複；ru 7,010/2,922；ar 6,999/2,912；hi 6,057/2,526**——這四語的目錄連結點得到，但指向同名重複裡的第一個，也就是錯的那個標題。修它會動到全站約六萬個 `#anchor`（拉丁語系的重音字元目前被吃掉，改了既有分享連結的 fragment 會失效），命中 §自主權邊界，因此進 [OBSERVER-QUEUE #43](../docs/semiont/OBSERVER-QUEUE.md) 附選項與推薦 default，不在本輪收。
+`article-render.ts` 的標題 id 產生器用 `[^\w\u4e00-\u9fff-]` 過濾，而 **JS 的 `\w` 只認 ASCII**。實測 **ko 有 7,158 個標題 id 塌成一串破折號、3,638 個重複；ru 7,010/2,922；ar 6,999/2,912；hi 6,057/2,526**——這四語的目錄連結點得到，但指向同名重複裡的第一個，也就是錯的那個標題。修它會動到全站約六萬個 `#anchor`（拉丁語系的重音字元目前被吃掉，改了既有分享連結的 fragment 會失效），命中 §自主權邊界，因此進 [OBSERVER-QUEUE #44](../docs/semiont/OBSERVER-QUEUE.md) 附選項與推薦 default，不在本輪收。
 
 **這一段本來差點寫錯**：我第一次用 Python 重寫新舊 slug 函式跑全站對照，得到「所有語言 0 個 id 會變」，差一步就寫成「零風險」。Python 的 `\w` 預設吃 Unicode 字母，JS 的不吃——兩邊的正規式**長得一模一樣**，沒有型別錯誤、沒有例外、沒有空輸出，只有一個很乾淨的錯答案。改用 Node 跑才看到真實規模。教訓已進 LESSONS（`measured-one-engines-semantics-with-another`）。
 
