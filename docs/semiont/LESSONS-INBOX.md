@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-28 footnote-cards — declared-escape-hatch-never-observed-working：閘門文件寫的豁免寫法，兩次照做兩次無效，而機制我沒能重現
+
+- **pattern**: `declared-escape-hatch-never-observed-working`
+- **觀察到的事實**：`.husky/pre-commit` 的 narrative-scope 檢查在跨 domain 時印警告，並說「如果是刻意：commit message 加入 `multi-narrative:` 或 `cross-domain:` 聲明」。本 session 兩個 commit 都在 `git commit -m` 的訊息裡照著寫了 `cross-domain:`，**兩次都照樣印警告**。
+- **看到的線索**：該檢查讀的是 `.git/COMMIT_EDITMSG`（[pre-commit:248](../../.husky/pre-commit)）。git 的 hook 順序裡，`pre-commit` 跑在訊息組裝之前——這個 repo 有 `prepare-commit-msg` hook 存在，正說明那個階段排在 pre-commit 之後。所以 pre-commit 讀到的很可能是**上一次** commit 的訊息。實際觀察也對得上：第一次警告時 `COMMIT_EDITMSG` 裡是前一個不含宣告的訊息。
+- **⚠️ 但這個機制我沒有重現成功**：隔離測試（staged `scripts/tools/*.py` + `docs/semiont/*.md`，剛好是 tooling + cognitive 兩個 domain，把 `COMMIT_EDITMSG` 換成不含宣告的訊息後直接跑 `bash .husky/pre-commit`）**沒有印出警告**，代表那個區塊在我的測試條件下根本沒進去，或還有我沒看到的條件。**所以上面那段是假設不是結論**，不要照著改。
+- **為什麼還是要記**：可觀察的事實已經足夠——**這個閘門宣傳的豁免路徑，沒有任何一次被觀察到生效過**。不管根因是不是 COMMIT_EDITMSG 時序，結果都是「照著提示做，警告照印」，長期下來只會訓練出「這個警告可以無視」。
+- **修法方向（未驗證）**：需要看訊息的檢查應該住在 `commit-msg` hook（git 把訊息檔路徑當 `$1` 傳進去），不是 `pre-commit`。動手前先把上面那個沒重現成功的測試補齊。
+- **可能層級**：REFLEXES #52（免疫系統沒在 fail loud 比缺免疫系統更危險）的變體——本條是「fail loud 了，但它給的解法無效」，比沉默更傷，因為它教人忽略自己。
+- **相關**：LESSONS `gate-explains-into-a-dead-channel`（8/13，閘門判斷對了但訊息送不到人面前）、`prescribed-verification-unavailable-to-unattended-runs`（pipeline 指名的驗證路徑對真正需要它的 session 是關著的）、REFLEXES #24
+- **verification_count**: 2（本 session 兩個 commit 各一次）
+- **severity**: structural（閘門教人無視自己）
+
 ### 2026-08-28 footnote-cards — measured-one-engines-semantics-with-another：拿 Python 的正規式語意去量 JavaScript 的行為，差點回報「零風險可以直接改」
 
 - **pattern**: `measured-one-engines-semantics-with-another`
