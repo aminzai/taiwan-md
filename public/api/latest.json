@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-27T22:13:28.528Z",
+  "_generated": "2026-08-28T22:13:26.393Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -1364,6 +1364,15 @@
     ],
     "fr": [
       {
+        "title": "L'Incident du 28 février 1947 — Dix jours qui ont changé Taïwan",
+        "desc": "Comment le stand de cigarettes d'une veuve a allumé trente-huit ans de silence sur une île entière : les dix jours de février 1947 qui ont scellé le destin de Taïwan, et une blessure qui, soixante-dix-huit ans plus tard, n'est toujours pas refermée.",
+        "category": "history",
+        "href": "/fr/history/228-incident",
+        "date": "2026-08-27T15:57:55+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
         "title": "Le saumon de Formose : le retour au pays d'un vestige glaciaire, de la mise en danger à la conservation intégrée du bassin versant, un miracle taïwanais",
         "desc": "En 1917, le chercheur japonais Masamitsu Ōshima découvrit à Taïwan un vestige glaciaire, le « saumon de Formose », appelé « Mnbang » par les Atayal. Après une destruction de son habitat et un déclin de sa population, tombant à seulement plus de 200 individus en 1995, des efforts de démantèlement de barrages, de reproduction artificielle et une technique innovante de « transport d'œufs embryonnés hors de l'eau » ont permis d'atteindre un pic de 18 000 individus en 2023. Bien que des fluctuations aient été observées ces dernières années, la population se maintient désormais de manière stable au-dessus de 15 000 individus, faisant de cette espèce un modèle de réussite en matière de conservation intégrée du bassin versant à Taïwan.",
         "category": "nature",
@@ -1623,18 +1632,27 @@
         "date": "2026-07-27T22:09:24+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "Wang Wang : Du roi des biscuits de riz au géant médiatique, une mutation du pouvoir",
-        "desc": "En 1976, Cai Yanming, alors âgé de 19 ans, reprend la direction de Yilan Food, passant du statut de « fils prodigue » moqué à celui de plus grand riche du pays grâce à la technologie japonaise des biscuits. Après l'acquisition du groupe China Times en 2008, ce royaume des collations se transforme en la figure médiatique la plus controversée de Taïwan, déclenchant un mouvement sans précédent contre la monopolisation des médias.",
-        "category": "economy",
-        "href": "/fr/economy/want-want-group",
-        "date": "2026-07-27T22:09:24+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "vi": [
+      {
+        "title": "Cognitive Warfare: Giai đoạn Công nghiệp hóa AI trên Chiến trường Thông tin của Đài Loan",
+        "desc": "Tháng 12/2024, bộ phim tài liệu 'Chiến tranh thống nhất của Trung Quốc' đạt hơn 2 triệu lượt xem; quý IV/2025, 1076 tài khoản truyền thông chính thức của Đảng Cộng sản Trung Quốc đăng 560.000 video trên Douyin, sử dụng nhận diện khuôn mặt để xác định 57 người Đài Loan; tháng 10/2025, Thẩm Bá Dương bị Cảnh sát Trùng Khánh lập hồ sơ điều tra với tội danh 'phân ly quốc gia'. Chiến tranh nhận thức bước vào giai đoạn mới của công nghiệp hóa AI và 'dùng người Đài Loan để phê phán người Đài Loan', nhưng bản thân thuật ngữ 'chiến tranh nhận thức' cũng đang chịu sức ép bị lạm dụng trong nội bộ Đài Loan.",
+        "category": "society",
+        "href": "/vi/society/cognitive-warfare-against-taiwan",
+        "date": "2026-08-27T15:57:55+08:00",
+        "readingTime": 28,
+        "image": ""
+      },
+      {
+        "title": "Đài Loan Công cộng: Từ 9 tỷ đô la siết chặt đến bị đuổi ra khỏi hội trường, 28 năm độc lập còn chưa viết xong",
+        "desc": "Năm 1998 Đài Loan Công cộng khai trương, Luật Đài Loan Công cộng khiến dòng ngân sách tặng của chính phủ giảm dần từng năm và cuối cùng bị đông lại ở mức 9 tỷ đô la hàng năm, điều khoản này ràng buộc 23 năm. Trong thời gian đó tạo ra «Khoảng cách giữa chúng ta và sự gian ác», «Trà vàng», «Cô gái liên lạc ngoài cõi», «Bão gây mê», «Mây xanh rực» — năm bộ phim ấn tượng chấn động xã hội. Tháng 5 năm 2023 sửa luật gỡ bỏ siết chặt, ngân sách tăng gấp đôi lên 23 tỷ đô la, nhưng 19 tháng sau ngân sách bị cắt 1%, đông lại 25%; sau một năm nữa, tháng 5 năm 2026, chủ tịch hội đồng Hồ Nguyên Huy bị yêu cầu rời khỏi hội trường. 28 năm qua Đài Loan Công cộng chứng minh: gỡ bỏ siết chặt không phải là thiết lập độc lập.",
+        "category": "society",
+        "href": "/vi/society/pts-public-television-service",
+        "date": "2026-08-27T15:57:55+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/pts-building-b-2024.webp"
+      },
       {
         "title": "Cá hồi hoa anh đào: Hành trình trở về của loài cá bản xứ tồn sót từ thời băng, từ bờ đáy nguy cấp đến thành công bảo hộ toàn bộ lưu vực sông của Đài Loan",
         "desc": "Năm 1917, một nhà khoa học Nhật Bản đã phát hiện ra loài cá bản xứ tồn sót từ thời băng \"cá hồi hoa anh đào\" tại Đài Loan, được người Atayal gọi là \"Mnbang\". Sau nhiều năm bị xâm hại đất cư trú và giảm số lượng cá xuống chỉ còn khoảng 200 con vào năm 1995, nhờ việc xóa bỏ các con đập, nuôi trồng nhân tạo và công nghệ \"vận chuyển trứng sinh con không cần nước\" sáng tạo, đến năm 2023, quần dân số đã đạt đỉnh 18.000 con. Dù gần đây có sóng xu hướng biến động nhẹ, nhưng chúng đã duy trì ổn định trên mức 15.000 con trở lên, trở thành mẫu thành công của chương trình bảo hộ toàn bộ lưu vực sông của Đài Loan.",
@@ -1885,24 +1903,6 @@
         "href": "/vi/culture/taiwan-funeral-culture-and-death-views",
         "date": "2026-07-27T19:03:33+08:00",
         "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "Biểu tượng Đài Loan: Ba mươi năm phát triển văn hóa meme từ người dùng PTT đến cơ chế khung an toàn xã hội",
-        "desc": "Biểu tượng Đài Loan không chỉ là những câu joke trên mạng, mà là một thí nghiệm sáng tạo tập thể kéo dài ba mươi năm. Từ ngôn ngữ biến đổi trên diễn đàn ẩn danh PTT, đến phép hội tấn thể xã hội \"Jie Ko Bùt\", rồi đến các ví dụ tiêu biểu như \"Uống nước\" và \"Mặc áo khoác\" — biểu tượng Đài Loan đã phát triển thành một cơ chế \"khung an toàn xã hội\" độc đáo, biến những điều thực sự ngại ngùi, thương xót và lo âu chính trị thành những biểu tượng văn hóa có thể cùng chia sẻ chịu đựng.",
-        "category": "culture",
-        "href": "/vi/culture/taiwan-meme-culture",
-        "date": "2026-07-27T19:03:33+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Ô giấy: Từ dụng cụ chịu mưa đến nghệ thuật, đưa lên bến bờ năm trăm tinh hoa văn hóa Hakka của Đài Loan",
-        "desc": "Trong thành phố Kinh Hạ Long Mỹ Nông, một chiếc ô giấy dường như thông thường không chỉ mang bám Hakka 'sớm sinh con cái' và 'hoàn mỹ' của lời chúc, mà còn, trong lúc ngành công nghiệp đứng yên, nhờ sự kiên trì của thợ rèn Lý Hiếu Linh và bài báo của tạp chí Hán Hạng, từ dụng cụ thông thường đã trở thành sản phẩm nghệ thuật gây chú ý quốc tế, kể lại câu chuyện năm trăm năm phát triển nghề thủ công truyền thống của Đài Loan, cách đây vượt qua khó khăn và tìm được vị trí mới trong xã hội hiện đại.",
-        "category": "culture",
-        "href": "/vi/culture/taiwan-paper-umbrella",
-        "date": "2026-07-27T19:03:33+08:00",
-        "readingTime": 10,
         "image": ""
       }
     ],
@@ -2452,6 +2452,24 @@
     ],
     "hi": [
       {
+        "title": "ताइवान के नए आप्रवासियों का पाक कला संलयन",
+        "desc": "जब थाई खट्टा-मसालेदार ताइवानी मीठे-नमकीन से मिला, जब वियतनामी फो ताइवानी ब्रेज़्ड व्यंजनों से मिला, जब इंडोनेशियाई मसालों ने स्थानीय सामग्रियों को गले लगाया, तो सीमाओं को पार करने वाली एक स्वाद क्रांति चुपचाप ताइवान में घटित हो रही है। नए आप्रवासी न केवल अपने गृहनगर के व्यंजन लाए हैं, बल्कि ताइवान की पाक संस्कृति को समृद्ध करने की पूरी नई संभावनाएं भी लाए हैं।",
+        "category": "food",
+        "href": "/hi/food/taiwanese-new-immigrant-culinary-fusion",
+        "date": "2026-08-27T15:57:55+08:00",
+        "readingTime": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular_Vietnamese_noodle_soup.jpg/960px-Pho%2C_popular_Vietnamese_noodle_soup.jpg"
+      },
+      {
+        "title": "ज़ांग सुआन से अन् पुआं तक—दो नाम, एक ही सवाल",
+        "desc": "13 साल की उम्र में \"बेबी\" लिखा, 32 साल की उम्र में एक झंडे के कारण चीन द्वारा प्रतिबंधित, 34 साल की उम्र में खुद के कलाकार नाम को मार डाला। ज़ियाओ अन् पुआं ने दो जीवन कथाओं के ज़रिए एक ऐसे सवाल का जवाब दिया जो हर ताइवानवासी पूछता है: आप किस पक्ष में खड़े हैं?",
+        "category": "music",
+        "href": "/hi/music/deserts-chang-and-anpu",
+        "date": "2026-08-27T15:57:55+08:00",
+        "readingTime": "15min",
+        "image": ""
+      },
+      {
         "title": "साकुरा हुक्ड-जबड़ा सालमन: हिमयुगीन अवशेष की घर-वापसी की राह, संकटग्रस्त से समग्र जलागम संरक्षण तक ताइवान का चमत्कार",
         "desc": "1917 में, जापानी विद्वान ओशिमा मासामित्सु ने ताइवान में हिमयुगीन अवशेष जीव \"साकुरा हुक्ड-जबड़ा सालमन\" की खोज की, जिसे ताइयाल जनजाति \"एम्नबांग\" कहती है। आवास विनाश और 1995 में आबादी के घटकर केवल 200 से अधिक रह जाने के संकट से गुजरने के बाद, बांध हटाने, कृत्रिम प्रजनन और अभिनव \"जल-रहित परिवहन\" तकनीक के माध्यम से, 2023 तक संख्या 18,000 के शिखर पर पहुंच गई, हाल के वर्षों में उतार-चढ़ाव के बावजूद यह 15,000 से ऊपर स्थिर बनी हुई है, जो ताइवान के समग्र जलागम संरक्षण का सफल आदर्श बन गई है।",
         "category": "nature",
@@ -2702,27 +2720,18 @@
         "date": "2026-07-27T19:06:05+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "ताइपे विश्वविद्यालय विशेष क्षेत्र: तीस वर्षों की शहरी योजना और विश्वविद्यालय शहर जीवन प्रयोग",
-        "desc": "1895 के लॉन्गएनपु प्राचीन युद्धक्षेत्र से 2026 के मेट्रो विश्वविद्यालय शहर तक, यह भूमि, सौंदर्यशास्त्र और चयनात्मक पहचान के बारे में एक गहन विश्वकोश है।",
-        "category": "geography",
-        "href": "/hi/geography/beida-special-district-sanxia",
-        "date": "2026-07-27T19:06:05+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "ताइवान मानचित्र कैसे पढ़ें: शकरकंद से उपग्रह तक के चार सौ वर्ष",
-        "desc": "1554 में, एक पुर्तगाली मानचित्रकार ने आठ ऊन के कागज़ पर 'I. Fremosa' नामक एक धुंधला द्वीप चित्रित किया। वह कभी उस द्वीप पर नहीं गया। 470 वर्ष बाद, Google Maps पर ताइवान का रूप आपके देश पर निर्भर करता है—यह तकनीकी मुद्दा नहीं, बल्कि राजनीति है।",
-        "category": "geography",
-        "href": "/hi/geography/how-to-read-the-taiwan-map",
-        "date": "2026-07-27T19:06:05+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "ar": [
+      {
+        "title": "طريق القوس: من المقاومة الشاركية إلى كوكب «وي وي».. الحب والحقوق",
+        "desc": "في عام 2017، أمر محكمة القضاء رقم 748 حول تفسير قانون المدنية، فتفتح طريق التوحيد القانوني للشتات ذوات الجنس نفسه. من معركة جيش وي الوحيدة، إلى تربيات يي يونج تشي للتماثل الجنسي، إلى يوميات الحب واللينة للزوجين «وي وي»، كيف وصلت مجموعات LGBTQ+ في تايوان إلى كتابة فصل جديد من الحقوق والمساواة في آسيا؟",
+        "category": "society",
+        "href": "/ar/society/lgbtq-in-taiwan",
+        "date": "2026-08-27T15:57:55+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "سمك السلمون المعلق بالزهرة: طريق العودة إلى الوطن من الإرث الجليدي، من التهديد إلى حماية الأنهار الشاملة في تايوان، معجزة تايوان",
         "desc": "في عام 1917، اكتشف الباحث الياباني أوشيما ماسايتشي في تايوان كائنًا موروثًا من العصر الجليدي يُدعى 'سمك السلمون المعلق بالزهرة'، وتسمى هذه الأنواع في قبيلة التايّا بـ 'Mnbang'. بعد تدمير المواطن الطبيعية وانخفاض عدد الأفراد إلى حوالي 200 في عام 1995، أدى تفكيك السدود، وإعادة التربية الاصطناعية، وتطوير تقنية 'النقل بدون ماء' إلى بلوغ عدد 18,000 في عام 2023. على الرغم من التقلبات الأخيرة، ظل العدد مستقرًا فوق 15,000، مما جعله نموذجًا ناجحًا لحماية الأنهار الشاملة في تايوان.",
@@ -2983,15 +2992,6 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": null,
         "image": "/article-images/people/stanshih-taipei-2014.webp"
-      },
-      {
-        "title": "إدوارد يانغ: بمنطق المهندس الأبرد، صوّر وحدة القلوب الأشد حرارة",
-        "desc": "في أوائل الثمانينيات، ارتدى إدوارد يانغ، الذي انضم لتوه إلى شركة السينما المركزية، قميصاً مطبوعاً عليه \"Herzog, Bresson, Yang\"، واضعاً اسمه خلف اسمي المعلمين. هذا الرجل الذي تخلى عن عمله كمهندس برمجيات للغواصات الأمريكية، وعاد إلى تايوان في أوائل الثلاثينيات ليتعلم صناعة الأفلام، أصبح لاحقاً أول تايواني يفوز بجائزة أفضل مخرج في مهرجان كان — ومع ذلك، لم يُعرض فيلمه \"واحد واحد\" في دور السينما التايوانية لمدة سبع عشرة عاماً. بأبرد الأساليب، صوّر ما لا نجرؤ على النظر إليه: قفا رؤوسنا.",
-        "category": "people",
-        "href": "/ar/people/yang-dechang",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/edward-yang-beach-set-1983.webp"
       }
     ],
     "ru": [

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T22:13:16.071Z",
+  "lastUpdated": "2026-08-28T22:13:14.143Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 140,
-        "articlesLast30Days": 276,
+        "articlesLast7Days": 74,
+        "articlesLast30Days": 273,
         "totalArticles": 1115
       }
     },
@@ -71,7 +71,7 @@
       "score": 85,
       "trend": "stable",
       "metrics": {
-        "workflowCount": 10
+        "workflowCount": 11
       }
     },
     {
@@ -83,7 +83,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 19,
+        "recentContributors": 20,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239295,
@@ -114,16 +114,16 @@
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1115,
-          "en": 882,
+          "en": 883,
           "ja": 884,
           "ko": 883,
           "es": 881,
           "fr": 882,
           "vi": 798,
-          "id": 588,
+          "id": 589,
           "pt": 846,
-          "hi": 667,
-          "ar": 751,
+          "hi": 668,
+          "ar": 752,
           "ru": 784,
           "de": 76
         },
@@ -144,7 +144,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 882,
+              "count": 883,
               "pct": 79
             },
             "score": 92
@@ -264,7 +264,7 @@
               "pct": 108
             },
             "articles": {
-              "count": 588,
+              "count": 589,
               "pct": 53
             },
             "score": 83
@@ -304,7 +304,7 @@
               "pct": 108
             },
             "articles": {
-              "count": 667,
+              "count": 668,
               "pct": 60
             },
             "score": 86
@@ -324,7 +324,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 751,
+              "count": 752,
               "pct": 67
             },
             "score": 67

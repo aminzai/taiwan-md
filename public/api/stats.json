@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10060,
+  "totalArticles": 10064,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7152,
+  "totalTags": 7144,
   "categories": [
     {
       "name": "es",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 884
+      "count": 885
     },
     {
       "name": "ja",
@@ -30,7 +30,7 @@
     },
     {
       "name": "hi",
-      "count": 669
+      "count": 670
     },
     {
       "name": "ru",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 589
+      "count": 590
     },
     {
       "name": "ar",
-      "count": 753
+      "count": 754
     },
     {
       "name": "Politics",
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10060,
+    "zh-TW": 10064,
     "en": 0
   },
-  "lastUpdated": "2026-08-27T22:13:00.736Z",
-  "stars": 1157,
+  "lastUpdated": "2026-08-28T22:12:58.935Z",
+  "stars": 1158,
   "forks": 182,
   "zhPages": 1115,
   "languagePages": {
     "zh-TW": 1115,
-    "en": 884,
+    "en": 885,
     "ja": 886,
     "ko": 885,
     "es": 883,
     "fr": 884,
     "vi": 800,
-    "id": 589,
+    "id": 590,
     "pt": 848,
-    "hi": 669,
-    "ar": 753,
+    "hi": 670,
+    "ar": 754,
     "ru": 786
   },
-  "enPages": 884,
+  "enPages": 885,
   "totalPages": 1115
 }

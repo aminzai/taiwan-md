@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T22:13:16.071Z",
+  "lastUpdated": "2026-08-28T22:13:14.143Z",
   "languages": [
     "zh-TW",
     "en",
@@ -25,16 +25,16 @@
       "deficit": 0
     },
     "en": {
-      "total": 879,
-      "percentage": 78.7,
-      "fresh": 810,
+      "total": 880,
+      "percentage": 78.8,
+      "fresh": 811,
       "metadataStale": 12,
       "stale": 57,
-      "missing": 238,
+      "missing": 237,
       "orphan": 0,
-      "deficit": 238,
-      "freshPct": 72.5,
-      "bodyFreshPct": 73.6
+      "deficit": 237,
+      "freshPct": 72.6,
+      "bodyFreshPct": 73.7
     },
     "ja": {
       "total": 886,
@@ -97,14 +97,14 @@
       "bodyFreshPct": 66.1
     },
     "id": {
-      "total": 589,
-      "percentage": 52.7,
+      "total": 590,
+      "percentage": 52.8,
       "fresh": 553,
       "metadataStale": 7,
-      "stale": 29,
-      "missing": 528,
+      "stale": 30,
+      "missing": 527,
       "orphan": 0,
-      "deficit": 528,
+      "deficit": 527,
       "freshPct": 49.5,
       "bodyFreshPct": 50.1
     },
@@ -121,26 +121,26 @@
       "bodyFreshPct": 72
     },
     "hi": {
-      "total": 669,
-      "percentage": 59.9,
+      "total": 670,
+      "percentage": 60,
       "fresh": 636,
       "metadataStale": 9,
-      "stale": 24,
-      "missing": 448,
+      "stale": 25,
+      "missing": 447,
       "orphan": 0,
-      "deficit": 448,
+      "deficit": 447,
       "freshPct": 56.9,
       "bodyFreshPct": 57.7
     },
     "ar": {
-      "total": 753,
-      "percentage": 67.4,
+      "total": 754,
+      "percentage": 67.5,
       "fresh": 714,
       "metadataStale": 8,
-      "stale": 31,
-      "missing": 364,
+      "stale": 32,
+      "missing": 363,
       "orphan": 0,
-      "deficit": 364,
+      "deficit": 363,
       "freshPct": 63.9,
       "bodyFreshPct": 64.6
     },
@@ -577,11 +577,11 @@
         "deficit": 34
       },
       "hi": {
-        "count": 46,
+        "count": 47,
         "fresh": 44,
-        "stale": 2,
-        "missing": 41,
-        "deficit": 43
+        "stale": 3,
+        "missing": 40,
+        "deficit": 42
       },
       "ar": {
         "count": 48,
@@ -737,11 +737,11 @@
         "deficit": 44
       },
       "id": {
-        "count": 39,
+        "count": 40,
         "fresh": 35,
-        "stale": 4,
-        "missing": 48,
-        "deficit": 48
+        "stale": 5,
+        "missing": 47,
+        "deficit": 47
       },
       "pt": {
         "count": 52,
@@ -1043,11 +1043,11 @@
     "people": {
       "zh-TW": 289,
       "en": {
-        "count": 236,
-        "fresh": 226,
+        "count": 237,
+        "fresh": 227,
         "stale": 10,
-        "missing": 51,
-        "deficit": 53
+        "missing": 50,
+        "deficit": 52
       },
       "ja": {
         "count": 236,
@@ -1106,11 +1106,11 @@
         "deficit": 98
       },
       "ar": {
-        "count": 205,
+        "count": 206,
         "fresh": 200,
-        "stale": 5,
-        "missing": 82,
-        "deficit": 84
+        "stale": 6,
+        "missing": 81,
+        "deficit": 83
       },
       "ru": {
         "count": 217,
@@ -1421,7 +1421,6 @@
       "Lifestyle/全民健康保險：守護全台灣的醫療奇蹟.md",
       "People/蔡培火：把臺語寫成公共問題的人.md",
       "People/陳幸妤：從被追問的總統女兒，到台南診所裡的陳醫師.md",
-      "People/黃土水：一尊從失蹤中回來的臺灣現代雕塑.md",
       "Culture/彈珠檯：從香腸攤到機械記憶.md",
       "Economy/中壢：桃園市裡的另一個城市，為什麼有人說中壢不是桃園？.md",
       "Food/丹丹漢堡：一碗麵線羹，和一個沒有往北走的速食品牌.md",
@@ -3228,7 +3227,6 @@
       "Culture/台灣廣告史：賣掉的東西忘了，那首廣告歌還會哼.md",
       "Music/小虎隊：買來的旋律，填上自己的青春.md",
       "Food/蛋撻：從澳門修道院到台灣「一窩蜂」的集體記憶.md",
-      "History/日治時期.md",
       "People/李洋.md",
       "Music/台灣獨立音樂：一間發不出薪水的唱片行，如何替一座島嶼打開耳朵.md",
       "People/壞特?te：醫學系讀九年的優等生，按下暫停鍵的那場休學.md",
@@ -4042,7 +4040,6 @@
       "Geography/大稻埕：800 公尺三個世紀，從 Formosa Tea 到二二八第一槍.md",
       "Technology/飲料封膜機：從一碗蘿蔔湯的啟發到全球手搖飲的技術支柱.md",
       "Society/台灣動物用藥爭議.md",
-      "Food/台灣滷肉飯.md",
       "Geography/南投縣：唯一不靠海的縣，921 震央就在它的中心.md",
       "Geography/台北市：一座城裡的三個時間，1738 龍山寺看著 2004 的 101.md",
       "Geography/台南市：261 年首府、400 年古蹟、21 世紀晶片，疊在同一片土地上.md",
@@ -4480,7 +4477,6 @@
       "People/林青霞.md",
       "People/桂綸鎂.md",
       "People/楊傳廣：台東部落、羅馬銀牌，9121分世界紀錄的亞洲鐵人.md",
-      "People/白先勇：《台北人》1971，到青春版牡丹亭二十年巡演.md",
       "People/鈕承澤.md",
       "People/鍾理和：美濃1915，倒在血泊裡的筆耕者.md",
       "Music/台灣民歌運動.md",

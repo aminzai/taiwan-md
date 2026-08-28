@@ -1,7 +1,168 @@
 {
-  "generatedAt": "2026-08-27T22:13:01.659Z",
+  "generatedAt": "2026-08-28T22:12:59.732Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "5835dce42e7054744c0dd1ce6f57854b48cdd2bf",
+      "date": "2026-08-29T05:39:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-29 05:38 — 18 條全 in-sync，飛輪連續第二夜穩態",
+      "articles": []
+    },
+    {
+      "hash": "da29dfba0a6354536a33c86fc3846a523c324909",
+      "date": "2026-08-29T05:37:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-29 05:36 — 12 語 9,874 向量 0 fail 全綠",
+      "articles": []
+    },
+    {
+      "hash": "e04e3741282691ad21ee07c0d74b7d857673302b",
+      "date": "2026-08-29T05:35:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-29 05:35",
+      "articles": []
+    },
+    {
+      "hash": "e24f49fe3d734af5e389e48090e573f877577fdf",
+      "date": "2026-08-28T13:31:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 一個叫 popup-3 的分頁，跟三次指向不是真的推論",
+      "articles": []
+    },
+    {
+      "hash": "8229705b29958d556e386ce02b8687aee6e93f82",
+      "date": "2026-08-28T12:20:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge origin/main：接住夜間 routine 飛輪，續掛腳註三件 handoff 的收尾",
+      "articles": []
+    },
+    {
+      "hash": "c3596bbffbc8544ce3a48cb74b70b0e59e5fa3bd",
+      "date": "2026-08-28T12:18:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 三條 handoff 當晚關掉，同一種錯一夜出現三次",
+      "articles": []
+    },
+    {
+      "hash": "2b1b2a9f423e53eb024fc19b970a0971bdf13a8d",
+      "date": "2026-08-28T12:15:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 七萬六千個重複的錨點，跟兩把會自己漂掉的尺",
+      "articles": []
+    },
+    {
+      "hash": "dbe86d87a8e2ffcf1bffcbecfab6168e118eaa26",
+      "date": "2026-08-28T09:37:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 補上收官後的兩筆驗證結果",
+      "articles": []
+    },
+    {
+      "hash": "24ecb89dca6e3a1569b03bd1b9734161e8ac6568",
+      "date": "2026-08-28T09:25:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-28 09:22 — 兩則讀者回報長出一道閘門，三則挖出 594 條誤轉規則",
+      "articles": []
+    },
+    {
+      "hash": "8680e1666d8911c2271e5cdd5a1cf23cfb5ba61f",
+      "date": "2026-08-28T09:18:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 用語頁的篩選列在手機上蓋住三分之二畫面，兩位讀者各自撞到",
+      "articles": []
+    },
+    {
+      "hash": "8ca75de732194f11e384f66bd533d1f8489647c6",
+      "date": "2026-08-28T08:43:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1604 from tboydar/translate/huang-tu-shui-en",
+      "articles": []
+    },
+    {
+      "hash": "9d67e934e2b75a825cac431e8f54a321a0c66765",
+      "date": "2026-08-28T08:43:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1605 from tboydar/heal/lang-frontmatter-fixes",
+      "articles": []
+    },
+    {
+      "hash": "627a8d584ea50e75b6e3cd473bc83a33ab5f888a",
+      "date": "2026-08-28T08:43:21+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1606 from aminzai/translate/id-japanese-colonial-era",
+      "articles": []
+    },
+    {
+      "hash": "4a16bb6bf3451b3dd432c9620ff238b27c267faa",
+      "date": "2026-08-28T08:43:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1607 from aminzai/translate/hi-braised-pork-rice",
+      "articles": []
+    },
+    {
+      "hash": "fd13c5580765f426662a1ac8860e879e35d1315a",
+      "date": "2026-08-28T08:43:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1608 from aminzai/translate/ar-pai-hsien-yung-literary-master",
+      "articles": []
+    },
+    {
+      "hash": "e16c327666a0e761febafc0e3cc8dd4aa5e05481",
+      "date": "2026-08-28T07:15:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] observer-queue: #28 計數更新到第十一次，順手改掉「連續」這個字",
+      "articles": []
+    },
+    {
+      "hash": "030de3704d1b2c881833025a08d3b5c26f6377d7",
+      "date": "2026-08-28T07:14:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 我宣稱知道台灣人怎麼說話，五天後說話的人來了",
+      "articles": []
+    },
+    {
+      "hash": "90721dfc84becb3a80a59bbcd8805b3817c4fc7e",
+      "date": "2026-08-28T07:12:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-28 07:10 — 六則讀者回報進飛輪，指控信第十一次攔下",
+      "articles": []
+    },
+    {
+      "hash": "d61491b78ba50d7063bedc23d0f6a008600db6c0",
+      "date": "2026-08-28T07:09:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 六則讀者回報開成 issue，那封指控信第十一次攔下",
+      "articles": []
+    },
+    {
+      "hash": "26f06ffa473698fe2b66d089623540a7f402b767",
+      "date": "2026-08-28T06:48:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-28 06:47 — 四天空窗後首次收割，兩則遺漏留言補回覆",
+      "articles": []
+    },
+    {
+      "hash": "f4b20e77b0b644eb6c259e52a9010d2819bf3e18",
+      "date": "2026-08-28T06:46:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 4 spores harvested, 2 replies shipped — 2026-08-28",
+      "articles": []
+    },
+    {
+      "hash": "c9e17b2a50abb82053923b56a3543149b1db6b31",
+      "date": "2026-08-28T06:17:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-28 06:15 — 14 步全綠，即時排程狀態顯示飛輪已恢復",
+      "articles": []
+    },
+    {
+      "hash": "319462c9dccbd8869d1a9b9813359fd0f9f5de98",
+      "date": "2026-08-28T06:16:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，文章數 1087→1115，補上五天沒更新的排程即時狀態",
+      "articles": []
+    },
     {
       "hash": "71f740ad933de7f03577f984e4caab039a7be90c",
       "date": "2026-08-28T05:40:20+08:00",
@@ -49,6 +210,41 @@
       "date": "2026-08-28T00:59:53+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] design: 腳註躺在讀者滑不到的地方，先把距離量出來",
+      "articles": []
+    },
+    {
+      "hash": "b49041a96cceb820f53c5fe30b5482c333c25ea9",
+      "date": "2026-08-27T22:23:18+08:00",
+      "author": "aminzai",
+      "message": "translate(ar): 白先勇 -> pai-hsien-yung-literary-master",
+      "articles": []
+    },
+    {
+      "hash": "b6de552d58e2e4b75204ac7ad956fae27e189e72",
+      "date": "2026-08-27T22:20:31+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 台灣滷肉飯 -> braised-pork-rice",
+      "articles": []
+    },
+    {
+      "hash": "1f7e5d087d3fa27e3621e5e696009bd039697fd4",
+      "date": "2026-08-27T22:17:06+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 日治時期 -> japanese-colonial-era",
+      "articles": []
+    },
+    {
+      "hash": "e7f1ca19980d2fda633a219659340b6f3596c370",
+      "date": "2026-08-27T15:57:55+08:00",
+      "author": "Dar",
+      "message": "fix(frontmatter): 五語六檔重複 YAML key／非字串 tag 清掉，frontmatter-gate 全綠",
+      "articles": []
+    },
+    {
+      "hash": "5848f97cc039b0e3f1ea5d0d37be7f424caef38a",
+      "date": "2026-08-27T15:47:12+08:00",
+      "author": "Dar",
+      "message": "translate(en): 黃土水 → huang-tu-shui",
       "articles": []
     },
     {

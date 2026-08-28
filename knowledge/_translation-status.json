@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-28T06:12:55+08:00",
-    "zhCommitHead": "71f740ad9",
+    "lastUpdated": "2026-08-29T06:12:53+08:00",
+    "zhCommitHead": "5835dce42",
     "totalZh": 1117,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1117,
-        "fresh": 810,
+        "fresh": 811,
         "stale": 57,
         "metadata_stale": 12,
-        "missing": 238,
+        "missing": 237,
         "orphan": 0
       },
       "ja": {
@@ -69,9 +69,9 @@
       "id": {
         "total_zh": 1117,
         "fresh": 553,
-        "stale": 29,
+        "stale": 30,
         "metadata_stale": 7,
-        "missing": 528,
+        "missing": 527,
         "orphan": 0
       },
       "pt": {
@@ -85,17 +85,17 @@
       "hi": {
         "total_zh": 1117,
         "fresh": 636,
-        "stale": 24,
+        "stale": 25,
         "metadata_stale": 9,
-        "missing": 448,
+        "missing": 447,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1117,
         "fresh": 714,
-        "stale": 31,
+        "stale": 32,
         "metadata_stale": 8,
-        "missing": 364,
+        "missing": 363,
         "orphan": 0
       },
       "ru": {
@@ -3942,8 +3942,8 @@
           "sourceContentHash": "sha256:27ef434e8d6b0605",
           "sourceBodyHash": "sha256:5705b435f269e6ca",
           "translatedAt": "2026-07-18T19:14:57+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "e7f1ca19",
+          "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -41531,8 +41531,8 @@
           "sourceContentHash": "sha256:2dceb8d4eac7775f",
           "sourceBodyHash": "sha256:693cd449aa89ed1d",
           "translatedAt": "2026-07-26T00:16:59+08:00",
-          "translationLastCommit": "8884ad3c",
-          "translationLastModified": "2026-07-26T00:48:15+08:00",
+          "translationLastCommit": "e7f1ca19",
+          "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -44610,8 +44610,8 @@
           "sourceContentHash": "sha256:5d55767b0e73ce88",
           "sourceBodyHash": "sha256:55150dbbe846399a",
           "translatedAt": "2026-08-09T09:26:48+08:00",
-          "translationLastCommit": "670e9eef",
-          "translationLastModified": "2026-08-09T10:00:51+08:00",
+          "translationLastCommit": "e7f1ca19",
+          "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -51501,8 +51501,8 @@
           "sourceContentHash": "sha256:0b5ddca64df69aa6",
           "sourceBodyHash": "sha256:0fcafeba09518f70",
           "translatedAt": "2026-07-26T03:41:21+08:00",
-          "translationLastCommit": "52d77b08",
-          "translationLastModified": "2026-07-27T19:03:33+08:00",
+          "translationLastCommit": "e7f1ca19",
+          "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 61,
           "status": "fresh",
@@ -67981,7 +67981,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/huang-tu-shui.md",
+          "translatedFrom": "People/黃土水.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:d22d7298dff5ac3a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-27T11:21:11+08:00",
+          "translationLastCommit": "5848f97c",
+          "translationLastModified": "2026-08-27T15:47:12+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -71839,7 +71850,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/pai-hsien-yung-literary-master.md",
+          "translatedFrom": "People/白先勇.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "b49041a9",
+          "translationLastModified": "2026-08-27T22:23:18+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ru": {
           "path": "ru/People/pai-hsien-yung-literary-master.md",
@@ -109351,7 +109373,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/braised-pork-rice.md",
+          "translatedFrom": "Food/台灣滷肉飯.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "b6de552d",
+          "translationLastModified": "2026-08-27T22:20:31+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ar": {
           "status": "missing"
@@ -112183,8 +112216,8 @@
           "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
           "sourceBodyHash": "sha256:6806ae061b784232",
           "translatedAt": "2026-07-25T05:00:12+08:00",
-          "translationLastCommit": "9e8d6b47",
-          "translationLastModified": "2026-07-25T06:33:04+08:00",
+          "translationLastCommit": "e7f1ca19",
+          "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -119393,8 +119426,8 @@
           "sourceContentHash": "sha256:99bda6e7dc861382",
           "sourceBodyHash": "sha256:3ffe04bee42caf48",
           "translatedAt": "2026-05-29T00:35:00+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "e7f1ca19",
+          "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -120109,7 +120142,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/japanese-colonial-era.md",
+          "translatedFrom": "History/日治時期.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "1f7e5d08",
+          "translationLastModified": "2026-08-27T22:17:06+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "pt": {
           "path": "pt/History/japanese-colonial-era.md",
