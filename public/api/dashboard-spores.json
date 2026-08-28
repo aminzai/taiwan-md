@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T22:12:56.290891Z",
+  "lastUpdated": "2026-08-28T22:47:52.040683Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -50,7 +50,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DcWa9mnI4vJ",
       "highlight": "一串被點名的支語，十一個裡有十個在教育部辭典查得到；本輪新收 15 條詞條，詞庫 2,409",
       "views_7d": null,
-      "views_latest": 20000,
+      "views_latest": 25000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -306,7 +306,7 @@
     {
       "week": "2026-W34",
       "published": 5,
-      "avgViews": 14747
+      "avgViews": 15997
     }
   ],
   "harvestStatus": [
@@ -1957,8 +1957,8 @@
       "publishDate": "2026-08-23",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-08-28 06:44"
+      "harvestCount": 3,
+      "lastHarvest": "2026-08-29 06:46"
     },
     {
       "n": 176,
@@ -1967,8 +1967,8 @@
       "publishDate": "2026-08-23",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-08-28 06:44"
+      "harvestCount": 3,
+      "lastHarvest": "2026-08-29 06:46"
     }
   ]
 }

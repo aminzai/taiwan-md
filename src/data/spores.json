@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-28T06:46:12+08:00",
+  "_generated": "2026-08-29T06:47:52+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -9812,16 +9812,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DcWa9mnI4vJ",
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "metrics": {
-        "views": 20000,
+        "views": 25000,
         "likes": 1830,
         "reposts": 240,
-        "comments": 70,
+        "comments": 76,
         "shares": 175
       },
       "metricsAsOf": {
-        "dPlus": 5,
-        "harvestDate": "2026-08-28 06:44",
-        "batch": "batch-2026-08-28-4-spores",
+        "dPlus": 6,
+        "harvestDate": "2026-08-29 06:46",
+        "batch": "batch-2026-08-29-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9844,6 +9844,16 @@
           "reposts": 240,
           "comments": 70,
           "shares": 175
+        },
+        {
+          "dPlus": 6,
+          "harvestDate": "2026-08-29 06:46",
+          "batch": "batch-2026-08-29-2-spores",
+          "views": 25000,
+          "likes": 1830,
+          "reposts": 240,
+          "comments": 76,
+          "shares": 175
         }
       ]
     },
@@ -9859,15 +9869,15 @@
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "metrics": {
         "views": 24000,
-        "likes": 631,
+        "likes": 630,
         "reposts": 120,
         "comments": 21,
         "shares": 110
       },
       "metricsAsOf": {
-        "dPlus": 5,
-        "harvestDate": "2026-08-28 06:44",
-        "batch": "batch-2026-08-28-4-spores",
+        "dPlus": 6,
+        "harvestDate": "2026-08-29 06:46",
+        "batch": "batch-2026-08-29-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9887,6 +9897,16 @@
           "batch": "batch-2026-08-28-4-spores",
           "views": 24000,
           "likes": 631,
+          "reposts": 120,
+          "comments": 21,
+          "shares": 110
+        },
+        {
+          "dPlus": 6,
+          "harvestDate": "2026-08-29 06:46",
+          "batch": "batch-2026-08-29-2-spores",
+          "views": 24000,
+          "likes": 630,
           "reposts": 120,
           "comments": 21,
           "shares": 110
