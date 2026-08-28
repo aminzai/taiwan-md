@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-28 | 092206-twmd-maintainer-am | 5 個 PR 清空 ready 佇列；兩則讀者回報追上游，用語頁 sticky 篩選列在手機上佔 65% 視野，修成 8% 並造 CI 閘門；三則詞庫回報挖出 594 條會改壞正確台灣話的轉換規則 | 七週前自己標對的錯誤沒被修，因為跟需要拍板的判斷打包成同一件事 | [→](memory/2026-08-28-092206-twmd-maintainer-am.md) |
 | 2026-08-29 | 053606-twmd-embeddings-nightly | 12 語重建 9,874 向量 0 fail 全綠；本機端點直連免 fallback；commit 覆蓋掉稍早手動 pull 帶進的美化格式，key 數對照確認非資料流失 | 巨量 diff 先核對 key 數再下結論，不要被行數本身嚇到 | [→](memory/2026-08-29-053606-twmd-embeddings-nightly.md) |
 | 2026-08-29 | 053816-twmd-routine-sync | 三層對賬第三十二輪，18 條全 in-sync 零漂移；飛輪連續第二夜穩態；補推一筆時序上慢半拍但已自行同步的 commit | 零漂移就是這條 routine 要交付的答案，不是沒事做 | [→](memory/2026-08-29-053816-twmd-routine-sync.md) |
+| 2026-08-29 | 061547-twmd-data-refresh-am | 14 步全綠零 stale；文章 1115 持平，星數 1157→1158；scheduler live-state dump 照 rider 固定步驟無條件跑，不等黃燈 | 平淡的 cycle 本身就是飛輪該有的樣子，沒故事因為沒東西壞掉 | [→](memory/2026-08-29-061547-manual.md) |
