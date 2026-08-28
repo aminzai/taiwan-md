@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-28 | 064709-twmd-spore-harvest-am | 四天空窗後首次收割；budget D+10 零新增，用語保存副詞層 D+5 補回兩則遺漏留言（短影音頻率／特別好怎麼說）；一則質疑 AI 書寫信任的留言留給哲宇 | dashboard harvestCount 只記得走過 pipeline 的路徑，空窗期間的手動回覆完全不留痕 | [→](memory/2026-08-28-064709-twmd-spore-harvest-am.md) |
 | 2026-08-28 | 071008-twmd-feedback-triage | 六則讀者回報開成 #1609-#1614（四則在校五天前才收進去的副詞層判準）；那封第三人指控信第十一次原樣回來，讀完全文照 HG13 攔下；兩道對賬 82/82 與 81/82 | 順序（讀完再動手）比辨識力（認出這封）耐用，因為順序不會因為熟悉而變鬆 | [→](memory/2026-08-28-071008-twmd-feedback-triage.md) |
 | 2026-08-28 | 092206-twmd-maintainer-am | 5 個 PR 清空 ready 佇列；兩則讀者回報追上游，用語頁 sticky 篩選列在手機上佔 65% 視野，修成 8% 並造 CI 閘門；三則詞庫回報挖出 594 條會改壞正確台灣話的轉換規則 | 七週前自己標對的錯誤沒被修，因為跟需要拍板的判斷打包成同一件事 | [→](memory/2026-08-28-092206-twmd-maintainer-am.md) |
+| 2026-08-29 | 053606-twmd-embeddings-nightly | 12 語重建 9,874 向量 0 fail 全綠；本機端點直連免 fallback；commit 覆蓋掉稍早手動 pull 帶進的美化格式，key 數對照確認非資料流失 | 巨量 diff 先核對 key 數再下結論，不要被行數本身嚇到 | [→](memory/2026-08-29-053606-twmd-embeddings-nightly.md) |
