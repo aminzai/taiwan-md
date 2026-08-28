@@ -22,8 +22,6 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 12
-lastVerified: 2026-04-30
-lastHumanReview: false
 translatedFrom: 'Society/LGBTQ.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:2dceb8d4eac7775f'

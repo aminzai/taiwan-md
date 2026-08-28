@@ -13,15 +13,11 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular
 imageAlt: 'वियतनामी फो'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 readingTime: 10
-lastVerified: 2026-03-20
-lastHumanReview: false
-featured: true
 translatedFrom: 'Food/台灣新住民美食融合.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
 sourceBodyHash: 'sha256:6806ae061b784232'
 translatedAt: '2026-07-25T05:00:12+08:00'
-readingTime: 10
 ---
 
 # ताइवान के नए आप्रवासियों का पाक कला संलयन

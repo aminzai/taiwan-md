@@ -17,7 +17,6 @@ tags:
     "Trách nhiệm nền tảng",
   ]
 subcategory: "Media và Phát ngôn"
-author: "Taiwan.md Contributors"
 featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
