@@ -309,12 +309,13 @@ const termsJSON = JSON.stringify(terms);
     <!-- ── Filter bar ─────────────────────────────────────────── -->
     <div
       class="sticky top-0 z-10 border-b border-[#e5e5e5] bg-white shadow-[0_2px_8px_rgba(0,0,0,0.06)]"
+      id="filter-bar"
     >
       <div
         class="mx-auto flex max-w-[72rem] flex-wrap items-center gap-4 px-[var(--space-page-x,2rem)] py-[0.85rem] max-[640px]:flex-col max-[640px]:items-stretch max-[640px]:px-4 max-[640px]:py-3"
       >
         <div
-          class="flex flex-1 flex-wrap gap-[0.4rem]"
+          class="js-filter-group flex flex-1 flex-wrap gap-[0.4rem]"
           role="group"
           aria-label="依分歧類型篩選"
         >
@@ -342,9 +343,24 @@ const termsJSON = JSON.stringify(terms);
           <span
             id="result-count"
             class="whitespace-nowrap text-[0.8rem] text-[#888]"></span>
+          <button
+            id="filter-toggle"
+            type="button"
+            aria-expanded="true"
+            aria-controls="filter-bar"
+            class="ml-auto inline-flex shrink-0 items-center gap-[0.3rem] whitespace-nowrap rounded-md border-[1.5px] border-[#ddd] bg-white px-[0.7rem] py-[0.34rem] font-[inherit] text-[0.8rem] text-[#444] transition-colors duration-150 hover:border-[#999] hover:text-[#1a1a2e]"
+          >
+            <span id="filter-toggle-label">篩選</span>
+            <span
+              id="filter-toggle-icon"
+              aria-hidden="true"
+              class="text-[0.65rem] leading-none transition-transform duration-150"
+              >▲</span
+            >
+          </button>
         </div>
         <div
-          class="mt-[0.6rem] flex w-full flex-wrap gap-[0.35rem] border-t border-[#eee] pt-[0.6rem]"
+          class="js-filter-group js-subcat-group mt-[0.6rem] flex w-full flex-wrap gap-[0.35rem] border-t border-[#eee] pt-[0.6rem]"
           role="group"
           aria-label="依子分類篩選"
         >
@@ -604,6 +620,44 @@ const termsJSON = JSON.stringify(terms);
     }
   }
 
+  // Filter bar collapse. Default state lives in CSS (mobile closed /
+  // desktop open) so it works without JS; data-filter-open only appears
+  // once the reader actually presses the button.
+  const filterBar = document.getElementById('filter-bar');
+  const filterToggle = document.getElementById('filter-toggle');
+  const filterToggleLabel = document.getElementById('filter-toggle-label');
+  const isNarrow = () => window.matchMedia('(max-width: 640px)').matches;
+  const filtersOpen = () =>
+    filterBar?.dataset.filterOpen === 'true' ||
+    (filterBar?.dataset.filterOpen !== 'false' && !isNarrow());
+
+  function syncFilterToggle() {
+    if (!filterToggle || !filterToggleLabel) return;
+    const open = filtersOpen();
+    filterToggle.setAttribute('aria-expanded', String(open));
+    // 收起來的時候要看得出現在篩的是什麼，否則等於把狀態藏起來
+    const active = [];
+    if (currentFork !== 'all') {
+      const btn = document.querySelector(
+        `.filter-btn[data-fork="${currentFork}"]`,
+      );
+      if (btn) active.push(btn.textContent.trim());
+    }
+    if (currentSubcat !== 'all') active.push(currentSubcat);
+    filterToggleLabel.textContent =
+      !open && active.length ? `篩選 · ${active.join(' · ')}` : '篩選';
+  }
+
+  function setFiltersOpen(open) {
+    if (!filterBar) return;
+    filterBar.dataset.filterOpen = String(open);
+    syncFilterToggle();
+  }
+
+  filterToggle?.addEventListener('click', () => setFiltersOpen(!filtersOpen()));
+  window.addEventListener('resize', syncFilterToggle);
+  syncFilterToggle();
+
   // Filter buttons
   filterBtns.forEach((btn) => {
     btn.addEventListener('click', () => {
@@ -611,6 +665,9 @@ const termsJSON = JSON.stringify(terms);
       btn.classList.add('active');
       currentFork = btn.dataset.fork || 'all';
       applyFilters();
+      // 手機上選完就收起來，讓結果立刻看得到
+      if (isNarrow()) setFiltersOpen(false);
+      else syncFilterToggle();
     });
   });
 
@@ -622,6 +679,8 @@ const termsJSON = JSON.stringify(terms);
       btn.classList.add('active');
       currentSubcat = btn.dataset.subcat || 'all';
       applyFilters();
+      if (isNarrow()) setFiltersOpen(false);
+      else syncFilterToggle();
     });
   });
 
@@ -788,6 +847,39 @@ const termsJSON = JSON.stringify(terms);
 </script>
 
 <style>
+  /* ── Filter bar collapse ─────────────────────────────────────
+     這條列是 sticky 的，裡面有 6 個分歧類型 + 40 幾個子分類按鈕。
+     在手機上它們疊起來會蓋掉大半個畫面，讀者往下捲也躲不掉
+     （issue #1612 / #1614 兩位讀者各自回報同一件事）。
+
+     預設值走 media query 而不是 JS：手機收起、桌機展開，關掉
+     JavaScript 也是這個行為。#filter-bar 的 data-filter-open 只在
+     使用者真的按了按鈕之後才出現，用來覆寫該尺寸的預設。 */
+  @media (max-width: 640px) {
+    #filter-bar:not([data-filter-open='true']) .js-filter-group {
+      display: none;
+    }
+  }
+  @media (min-width: 641px) {
+    #filter-bar[data-filter-open='false'] .js-filter-group {
+      display: none;
+    }
+  }
+  /* 展開時也不讓它吃掉整個畫面——子分類那組自己捲 */
+  #filter-bar .js-subcat-group {
+    max-height: 38vh;
+    overflow-y: auto;
+  }
+  #filter-bar[data-filter-open='false'] #filter-toggle-icon,
+  #filter-bar:not([data-filter-open='true']) #filter-toggle-icon {
+    transform: rotate(180deg);
+  }
+  @media (min-width: 641px) {
+    #filter-bar:not([data-filter-open='false']) #filter-toggle-icon {
+      transform: none;
+    }
+  }
+
   /* ── Filter buttons (repeat × N fork types, per-type --fork-color
      accent, JS-toggled .active state — scoped is cleaner than 7+
      Tailwind arbitrary variants per button) ────────────────────── */
