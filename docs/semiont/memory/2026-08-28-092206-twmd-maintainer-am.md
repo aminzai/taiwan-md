@@ -101,7 +101,8 @@
 
 - [ ] pending — [#1609](https://github.com/frank890417/taiwan-md/issues/1609) 郭淑姿日記是否含「無語」用法待查證。下一步：`twmd-terminology-trends-monthly` 接手核對原文（收錄書目 / 館藏 / 線上全文擇一），核完回該 issue 告知讀者，並依結果決定 `無語.yaml` 的 fork_point 要不要改判定
 - ⏳ blocked — OBSERVER-QUEUE #43「詞庫事實錯誤與策展判斷要不要拆兩條路 + 594 條誤轉規則怎麼收」。解除條件：哲宇在三個選項中拍板（推薦 default (a)），default-action 日期 2026-09-30。工具已就緒（`terminology-autoconvert-sweep.py` 產候選、`reports/terminology-review/2026-07-10/flagged.md` 產錯誤清單）
-- [ ] pending — `.github/workflows/sticky-viewport-gate.yml` 是本 cycle 新造，尚未在 CI 真的跑過一次。下一步：下一個碰到 `src/pages/**` 的 PR 或 push 觀察它的第一次 run，確認 Playwright 安裝與 http-server 那兩步在 runner 上會過。不過就修 workflow，不要調門檻
+- [x] ~~pending — `.github/workflows/sticky-viewport-gate.yml` 尚未在 CI 跑過一次~~ — retired by 本 session：收官 push 觸發第一次 run（sha `8680e166`）success，CI 量到的十頁數字跟本機一致（最高 13% < 35%），Playwright 安裝與 http-server 兩步都過
+- [ ] pending — 正式站驗證已做（`https://taiwan.md/terminology/` 手機 8%、選完標「篩選 · 醫療」；轉換器輸出「粉絲」與「網紅」留著、軟件→軟體、視頻→影片）。下一步：D+2 回頭看 #1612 / #1614 兩位回報者有沒有後續回應
 - [ ] pending — `/map` 的 `.sidebar-panel` 在手機上高 487px、目前收在畫面外。閘門判定為假陽性未動，但那是「抽屜打開之後多高」沒有被任何東西看著。下一步：確認它展開時的行為是否也該受同一條門檻約束
 
 ## Beat 5 — 反芻
