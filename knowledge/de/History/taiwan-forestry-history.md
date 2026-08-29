@@ -14,13 +14,16 @@ tags:
     'Geopolitik',
   ]
 subcategory: '殖民與帝國'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 15
 curation: incubating
 translatedFrom: 'History/台灣森林開發史.md'
+sourceCommitSha: '69b3afd9'
+sourceContentHash: 'sha256:8069998f1aa354c8'
+translatedAt: '2026-08-29T22:18:53+08:00'
 ---
 
 > Wer hat uns unsere kostbaren Wälder genommen? Die Antwort könnte anders ausfallen, als Sie denken.
