@@ -315,3 +315,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-30 | 053600-twmd-embeddings-nightly | 12 語重建 9,883 向量 0 fail 全綠；本機端點直連免 fallback；僅 4 語（ar/en/hi/id）鄰居因近期新翻譯變動，其餘 8 語不動 | 穩定跑的夜晚跟有故事的夜晚一樣值得記錄，不是每次都該挖出教訓 | [→](memory/2026-08-30-053600-twmd-embeddings-nightly.md) |
 | 2026-08-30 | 053732-twmd-routine-sync | 三層對賬第 33 輪，18 條全 in-sync 零漂移；順路見兩條 routine fire 後近 150h 零產出 | 對齊跟有沒有跑出東西是兩件事，本 routine 只管前者 | [→](memory/2026-08-30-053732-twmd-routine-sync.md) |
 | 2026-08-30 | 061439-twmd-data-refresh-am | 14 步全綠零 stale，星數 1158→1160、英文 883→889；scheduler live-state dump 第一次在無黃燈狀態下驗證固定跑的修法 | 把等黃燈才想起來改成無條件跑，需要在沒黃燈的日子驗證它還會不會跑 | [→](memory/2026-08-30-061439-twmd-data-refresh-am.md) |
+| 2026-08-30 | 065219-twmd-spore-harvest-am | D+7 收割 4 則新回覆零事實錯誤；X 讀者 7 天前補的踩雷語源查證後落地 `踩雷.yaml`；誤跑 destructive audit 腳本刪 10 檔即刻復原 | 記下 EVOLVE candidate 不等於會被回頭兌現，沒有機制逼自己看它就一直路過 | [→](memory/2026-08-30-065219-twmd-spore-harvest-am.md) |
