@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-30
-last_session: '2026-08-30-031151-twmd-distill-weekly'
+last_session: '2026-08-30-041940-twmd-self-evolve-weekly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -311,3 +311,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-30 | 011034-twmd-news-lens-weekly | W35 三源交叉，propose 0（出口關閉第八次）；公投綁大選 8/28 裁決僅核三案過關，直接催化既有 P0 候選第三次驗證；企業排名話題 GA+SC 雙源確認（GDP 上修 11.6%）；陳致中話題三週完整退燒 | 暴增數字要標注方向不只是絕對值，67→268→67 首尾對稱才看得出它是曲線終點 | [→](memory/2026-08-30-011034-twmd-news-lens-weekly.md) |
 | 2026-08-30 | 020729-twmd-weekly-report-sun | W35 體檢九節全跑；審閱過的中文文章兩週鎖在 202 篇，上週怪罪的「分母暴增」這週被排除；上週那個 Googlebot 53% 自己回到 75%；桶 1 修 2 項、桶 2 roll 3 項 | 我對數字的懷疑不均勻：壞消息會去查，能被解釋掉的壞消息就讓它被解釋掉 | [→](memory/2026-08-30-020729-twmd-weekly-report-sun.md) |
 | 2026-08-30 | 031151-twmd-distill-weekly | 讀完 §未消化 56 條，質門檻挑 6 條 structural；新 REFLEXES #94 + #16/#24/#52/#58/#82 五處 fold；清一段殘留孤兒；索引 rollup 66→40 | 五條教訓自己寫好了 fold 目的地，判斷反而是最省力那步 | [→](memory/2026-08-30-031151-twmd-distill-weekly.md) |
+| 2026-08-30 | 041940-twmd-self-evolve-weekly | 指控信同案例 12+ 次遭遇驗證的修法升 REFLEXES #95；懷疑不均勻 pattern 入庫 vc=2 待第三例；產線成本審視樣本不足（空窗期僅 2 篇）順延 | 13 天沒被 distill 撿走的 pattern，是自己找上門還是我沒去找 | [→](memory/2026-08-30-041940-twmd-self-evolve-weekly.md) |
