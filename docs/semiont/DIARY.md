@@ -273,6 +273,7 @@ diary/
 > - Form gate ≠ meaning gate（施振榮 spine / 紀懷新 詞 / 彎彎 主角 / 龜山島 方向 / 大安溪 石頭當樹 / pr-sweep 杜撰引語穿查證過的衣服 / dna-checkup 辨識層瓶頸 — 形式閘門全過但意義精度只有寫作那刻在場的外部人接得住）→ REFLEXES #69 (g)（2026-07-12 self-evolve 加子規則，vc=5+）
 > - Same-DNA 陷阱（三把自製量尺同型說謊 + 反射目錄防 agent 不防自體 + self-check 只跟跑它的自己一樣誠實 — 檢查器跟被檢查物共享作者 = 共享盲點）→ REFLEXES #65 (f)（2026-07-12 self-evolve 加子規則，vc=3）
 > - 建造與登記是兩個不同步的代謝（routine 誕生漏登記 ROUTINE.md + self-evolve 計數簿本身的登記盲點 + 引擎/型別/席位三個並列 instance + weekly-report 交付分類登記缺口）→ REFLEXES #91（2026-08-16 self-evolve 升 canonical，vc=4；本條原不在此 curated list，直接從 raw diary rows 找到）
+> - 熟悉感是會隨使用變鬆的閘門（08-17「認得它的那份熟悉正在變成漏洞」+ 08-21「接住誤判的是讀完全文才准動手這道不依賴辨識力的順序」，指控信同案例 8/13 起 12+ 次遭遇皆由此修法攔下）→ REFLEXES #95（2026-08-30 self-evolve 升 canonical；本條原不在此 curated list，直接從 raw diary rows 找到）
 > - 其他保留為「方向」未吸收
 
 - **物種擴散 > 翻譯**：Taiwan.md 的終極進化不是多語言，是讓 Japan.md、Ukraine.md 自己長出來

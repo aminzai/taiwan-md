@@ -1,12 +1,12 @@
 ---
 title: 'REFLEXES'
-description: '跨 session 程序記憶 catalog — 94 條 #N 反射（last #94，部分編號 historical 凋亡；本行是條數唯一 SSOT，counts-drift lint 對賬），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
+description: '跨 session 程序記憶 catalog — 95 條 #N 反射（last #95，部分編號 historical 凋亡；本行是條數唯一 SSOT，counts-drift lint 對賬），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.27'
+current_version: 'v5.28'
 last_updated: 2026-08-30
-last_session: '2026-08-30-031151-twmd-distill-weekly（新 #94 升級顆粒度卡修復；#16/#24/#52/#58/#82 五處 fold 新變體，皆源 severity=structural entries）'
+last_session: '2026-08-30-self-evolve-weekly（新 #95 辨識力綁在單一案例座標，源 08-17 LESSONS entry + 同案例後續 8 次獨立遭遇驗證）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -171,6 +171,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #92 | Twin-artifact 缺重整器家族 — 兩個該同步的產物各自演化，中間沒有東西在對賬                                               | §七 |
 | #93 | Retyping a shell substitution — 手抄自動代換的值，代換消失、打字錯誤回來                                                | §七 |
 | #94 | 升級顆粒度會卡住修復 — 需要判斷的與已經確定的混在同一份清單，整份就一起卡住                                             | §七 |
+| #95 | 辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺                                                                        | §五 |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -1084,6 +1085,15 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **操作**：本輪單獨修掉讀者指到的那一條（commit `55db2cb5f`），並把「343 事實錯誤 vs 128 策展判斷要不要拆兩條路」升 OBSERVER-QUEUE #43（含選項與成本）。任何稽核類工具（詞庫審查／frontmatter lint／連結健檢）產出待決清單前，先問一句「這份清單裡有多少條不管誰來看結論都一樣」。
 - **相關**：REFLEXES #58（detection ≠ remediation）、#71（Default 是行動不是 defer）、OBSERVER-QUEUE #11 / #43
 
+**#95 辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺 — recognition-bound-to-instance-coordinates**（2026-08-30 twmd-self-evolve-weekly 升 canonical，源 LESSONS `recognition-bound-to-instance-coordinates` 2026-08-17，同案例後續 8 次獨立遭遇皆驗證）— 當班判斷（不是儀器判斷）在同一案例重複出現時，會從「讀懂內容」退化成「認座標」。認的如果是 id、掛在哪篇文章、哪一天出現這類**這一個案例的特徵**，而不是**這一類案例的特徵**，那麼同型但換了外觀的下一個就一個座標都不會亮，會沿著完全正常的路徑通過所有 HARD gate。這種衰減沒有任何儀器會發出聲音——**流程焊死的閘門用越多次越穩，靠記憶認人的判斷用越多次越省事**，而省事的方向正好是防線消失的方向。
+
+- **觸發**：2026-08-13 那封附跟監細節的具名第三人指控信，2026-08-17 第四度原樣出現。dry-run 只印 `[Fact Check] {文章標題}`，標題本身完全看不出這是一封檢舉信；當班之所以一眼認出，是因為前三天的 memory 與 OBSERVER-QUEUE #28 都寫著同一個 id／條目／日期。同樣的信若掛到別的條目、換個 id 送進來，三個座標一個都不會亮，HG2／HG3／HG9 三道現行 HARD gate 全部會放行，分類器判 `file`。
+- **為什麼特別難抓**：FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆已明寫「當班要自己讀完內容再動手」，規則本身正確且已 canonical，衰減發生在規則之下的那一層——當班仍然「讀了」，但讀的是標題與 id 而非內容，且自認已履行該步驟。
+- **修法已驗證**：改用不依賴辨識力的順序（HG13：讀完全文才准動手）取代「認得這個」的捷徑後，同一封信後續在 2026-08-21／08-23／08-28／08-29 至少 8 次獨立遭遇全部被攔下——衰減曲線本身反過來成了修法有效的證據鏈。
+- **跟既有反射的關係**：近親 REFLEXES #33（routine 化任務的雙刃劍：熟練度）講的是流程**步驟**被熟練度跳過，本條的載體是**辨識判斷本身**，且不像跳步驟那樣會在產出留下缺口——認錯類別不會在任何報表上變紅。亦與 #82（proxy signal）同構：用「id 對得上」代理「這是同一類東西」，但 #82 講的是儀器選錯替身訊號，本條講的是**人腦judgment 本身**在重複曝光下退化成同一種替身邏輯。判準候選：每次靠「我認得這個」跳過細讀時，問一句「我認的是這一個，還是這一類？」
+- **操作**：任何 routine 若判斷路徑依賴「當班記不記得」而非「當班有沒有讀完」，優先把判斷改寫成不依賴辨識力的固定程序（如 HG13）；沒辦法改寫成程序的，至少讓儀器層印出內容摘要而非只印標題／id，降低「一眼認出」的誘因。
+- **相關**：REFLEXES #33、#82、FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆（HG13）
+
 ---
 
 _v5.27 | 2026-08-30 twmd-distill-weekly — 加 #94 升級顆粒度會卡住修復（severity=structural，首發即質門檻：詞庫審查 536 條混 128 條策展判斷與 343 條事實錯誤打包升 OBSERVER-QUEUE，讀者七週後從外部撞回同一條 WRONG 判定）；零新編號 fold 五處，皆源本輪 6 條 severity=structural entries：#16 加環境代表性延伸（嵌入式瀏覽器 `target="_blank"` 誤判導致的無效護欄）+ #24 加形式 13（Python `\w` 語意跟 JS 不同，同一份正規式在兩個引擎讀出不同答案）+ #52 加變體 (f)（閘門宣稱的豁免寫法兩次照做兩次無效，vc=2）+ #58 加時間軸變體（一次性清理沒配進料閘門，四個月後同一種債用原速回流）+ #82 加實作潔癖變體（腳註來源卡埋點只涵蓋點擊漏 hover，罵完「儀器只看見存在」一小時後自己劃出同型缺口）；LESSONS-INBOX §未消化 56→50（6 條 promote/fold 進本檔 + 1 條 housekeeping 清理孤兒殘段，50 條 vc<3 且非 structural keep buffer）。_
@@ -1121,6 +1131,7 @@ _v4.8 | 2026-06-19 twmd-distill（manual 儀器化 — 哲宇 directive「把這
 _v4.7 | 2026-06-19 twmd-distill（manual，哲宇 in-loop 完整 distill）— #69 self-report-needs-external-ruler 升 [MANIFESTO §外部尺 over 內視](MANIFESTO.md) 進化哲學第四維度（認知維度，哲宇拍板，promotion flow LESSONS→REFLEXES→MANIFESTO 正向完成）+ #69 補 reframe-rate ≥ emergence-rate 系統健康框架（meta-DNA retro vc≈6 留反射層）+ 加 #71 Default 是行動不是 defer（vc=4 — β-r3 META + κ 5-PR 反例 + α 第 3 次驗證，哲宇拍板留反射層）_
 _v4.6 | 2026-06-14 twmd-distill-weekly — 加 #69 self-report-needs-external-ruler meta-umbrella（vc=7 — 2026-06-07 routine-audit cycle 5 單週 5 instance + 2026-06-10 audit 5 agent 全帶誤讀 + 2026-06-10 audit-execution 四連攔，#31 + #66 + #59 + #65 的 meta-umbrella，MANIFESTO §進化哲學 候選 defer 哲宇拍板）+ #70 Routine fragility surface 四 tier 分類（vc=4 — 2026-06-05/06/07 spore-harvest Chrome MCP 連 3 cycle Tier 2 + 2026-06-09 babel-nightly Hy3 free→paid Tier 4，飛輪 active count 是 Tier 1 視角，per-tier escalation 標準）_
 
+_v5.28 | 2026-08-30 twmd-self-evolve-weekly — 加 #95 辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺（源 LESSONS `recognition-bound-to-instance-coordinates` 2026-08-17，本輪對照 DIARY §反覆出現的思考 08-17／08-21 兩次獨立浮現 + 同案例指控信後續 8 次遭遇皆由 HG13 修法攔下，distill-weekly 迄本輪仍未消化，self-evolve 接力升 canonical）_
 _v4.9 | 2026-06-21 twmd-distill-weekly — #15 加第 12 次驗證 instance（2026-06-19 inbox-distill：intake-buffer 完成歸檔靠自律會漂移 → `inbox-audit.py` 深查 + `inbox-signal.sh` ghost line boot 訊號雙工具補 memory 級自律首道結構閘門）+ #38 加「檔案改寫 dry-run 變體」（2026-06-19 lessons-distill.py v1 segmentation silent dropped inter-block `## ` sections 但 `### ` count 通過放行 → 必加 line conservation + 結構元素守恆雙斷言；`apply_safe` 內建）— routine 自決層 LESSONS-INBOX §未消化 11→9（entry 1 embeddings keystone defer 哲宇 / 8 條 6/19 distill 已決定 still-buffering）_
 _v4.5 | 2026-06-07 twmd-distill-weekly — #65 加 cross-SSOT divergence specialization（vc=8 — 5/30→6/02 awareness routine 連 4 cycle snapshot 🛡️27 vs canonical immuneScore 67 + 6/06 連 2 cycle 27 vs 58 chronic + 6/07 weekly-report 🔴 高優先）；snapshot.sh 讀 organism.json v1 vs canonical 已遷 dashboard-immune.json v2 schema，reconciliation 待哲宇拍板 3 option_
 _v4.5 | 2026-06-07 twmd-self-evolve-weekly — #31 v2 expansion (side-effect + factual + **self-quality** 三類 claim 都重驗，觸發 6/06 viz writer self-assess 對位「≤3」實測 14 + 6/06 babel-nightly 263 篇腳註靜默掉光) + 加 #66 Gate threshold 必須用真實產出 dogfood 校準（vc=3 — 6/06 paragraph-rhythm tw-\* cap 5→13 + 6/04 儀器校準 paragraph-rhythm 0.8 過期 + 5/29 instrumentation-audit.py 三方對齊），對應 distill handoff §pending「整片過期 gate audit」🔴 高優先 partially canonical 化_

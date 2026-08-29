@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.9'
+current_version: 'v3.0'
 last_updated: 2026-08-30
-last_session: '2026-08-30-031151-twmd-distill-weekly（7 entries distilled：REFLEXES #94 升級顆粒度會卡住修復 新編號；#16/#24/#52/#58/#82 五處 fold，全部源本輪 6 條 severity=structural entries；1 條孤兒殘段 housekeeping 清理；§未消化 56→50）'
+last_session: '2026-08-30-twmd-self-evolve-weekly（1 entry distilled：REFLEXES #95 辨識力綁在單一案例座標 新編號，源 08-17 entry；1 新 entry 入庫 asymmetric-skepticism-toward-convenient-explanations vc=2 待第三例；§未消化 50→50 淨額不變）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-30 twmd-self-evolve-weekly — asymmetric-skepticism-toward-convenient-explanations：我對數字的懷疑不均勻，能被解釋掉的壞消息就讓它被解釋掉
+
+- **pattern**: `asymmetric-skepticism-toward-convenient-explanations`
+- **原則**：對同一則數字，我核查的力氣不是均等分配的——一個數字如果**往期望的方向走**（好轉、驗證了既有判斷），或者往壞的方向走但**手邊剛好有一個現成的解釋**（分母暴增／統計口徑變了／已知的孢子效應），核查就停在那個解釋成立的那一刻；一個數字往壞的方向走、又沒有現成解釋時，才會被追到底。兩種情況都自認為「已經查過了」，但花的力氣天差地遠。
+- **觸發**（同一條 routine 連續兩週各自獨立浮現）：08-23 twmd-weekly-report-sun 看到 Googlebot 佔比 53%，一整篇報告立刻圍繞「分母被什麼稀釋了」展開並找到看似成立的解釋；08-30 同一 routine 隔週複查，(a) 那個 53% 自己回到 75%（上週的異常其實只是噪音，不是報告寫的那個原因），(b) 同一晚我對另一個往下滑的數字給了一個解釋就放過了，這週才發現分子兩週根本沒動過——**我對正在下滑的壞消息，跟對「有藉口」的壞消息，用的是兩把不同鬆緊的尺**。
+- **為什麼特別難抓**：兩次動作在報告裡看起來都是「認真查證」——都寫了假說、都對照了資料、都下了結論。差別不在有沒有查，在**查到哪裡就停**，而停的位置剛好跟結論是否符合期望對齊。這種偏誤不會讓任何一步的推理本身出錯，只會讓「該再往下查一層」的那個決定被悄悄跳過。
+- **可能層級**：通用反射候選，特別容易長在**週期性自我體檢類 routine**（weekly-report / self-evolve / routine-audit）——這類 routine 的產出本身就是「對自己過去一週的評價」，評價者跟被評價者是同一個生命體，跟 REFLEXES #59「製造數字的人最易被數字騙」同源，但本條更具體：不是量錯了，是**核查力氣依報告的期望方向不對稱分配**。跟 #69（每層自評都需要外部尺）也相關，但 #69 講的是自評本身不可信需要外部 instrument 接住，本條講的是**同一個自評行為內部，不同分支被給予的懷疑額度不同**。
+- **verification_count**: 2（08-23 / 08-30，皆源 twmd-weekly-report-sun，同一 routine 連續週獨立浮現；本輪 self-evolve-weekly 對照 DIARY §反覆出現的思考 08-23／08-30 兩則日記獨立確認，尚未達 vc≥3 promote 門檻，暫緩升 REFLEXES，留待第三個獨立 instance）
+- **候選修法（vc=3 時一併 ship）**：週體檢類 routine 的「異常數字」判定加一條紀律——找到解釋後，追問一句「如果這個解釋是錯的，我還會不會看到同樣的數字？」（可證偽檢查），而不是解釋成立就停手；候選機械化：對連續兩週出現方向相反的同一指標，report 模板強制列出「上週的解釋這週是否仍站得住」一欄。
+- **相關**：REFLEXES #59（製造數字的人最易被數字騙）、#69（每層自評都需要外部尺）、#16（peer/probe 是線索不是 source）
+
 ### 2026-08-28 twmd-maintainer-am — local-deps-drift-makes-local-build-red-while-ci-green：本機少裝一個套件，本機 build 全紅而 CI 全綠
 
 - **pattern**: `local-deps-drift-makes-local-build-red-while-ci-green`
@@ -532,17 +543,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #65、#83、#91（建造與登記不同步——`assign-subcategory.cjs` 存在多時卻從未接進 heal 鏈是同一天發現的另一個 instance）、LESSONS `twin-artifact-no-reconciler-family`（8/16，本條可視為該家族最封閉的一種形態）
 - **verification_count**: 1
 - **severity**: high（錯誤會被寫進**別人的**檔案，且跨 fork 複製；分類體系是導覽與知識圖譜的基礎，壞了不報錯）
-
-### 2026-08-17 twmd-feedback-triage — recognition-bound-to-instance-coordinates：辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺
-
-- **pattern**: `recognition-bound-to-instance-coordinates`
-- **原則**：當班判斷（不是儀器判斷）在同一個案例重複出現時會從「讀懂內容」退化成「認座標」。認的如果是 id、掛在哪篇文章、哪一天出現這類**這一個案例的特徵**，而不是**這一類案例的特徵**，那麼同型但換了外觀的下一個就一個座標都不會亮，會沿著完全正常的路徑通過所有 HARD gate。這種衰減沒有任何儀器會發出聲音——**流程焊死的閘門用越多次越穩，靠記憶認人的判斷用越多次越省事**，而省事的方向正好是防線消失的方向。判準候選：每次靠「我認得這個」跳過細讀時，問一句「我認的是這一個，還是這一類？」
-- **觸發**：8/13 那封第三人指控信 8/17 第四度原樣出現。dry-run 只印 `[Fact Check] {文章標題}`，標題本身完全看不出這是一封附跟監細節的具名檢舉信；當班之所以一眼認出，是因為前三天的 memory 與 OBSERVER-QUEUE #28 都寫著「vi 版新聞自由條目」。本次刻意回頭撈 Supabase 原文全文重讀才確認，並意識到 id／條目／日期三個對得上的座標全部綁在這一封身上——同樣寫給主管機關、同樣附跟監細節、同樣要求保密的信若掛到別的條目、換個 id 送進來，三個座標一個都不會亮，而 HG2／HG3／HG9 三道現行 HARD gate 全部會放行、分類器判 `file`。
-- **為什麼特別難抓**：FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆已明寫「`--exclude` 只解決攔下來之後流程還能跑完，不解決誰來攔——當班要自己讀完內容再動手」。規則本身正確且已 canonical，衰減發生在規則之下的那一層：當班仍然「讀了」，但讀的是標題與 id 而非內容，且自認已履行該步驟。
-- **可能層級**：通用反射候選。近親 REFLEXES #33（routine 化任務的雙刃劍：熟練度）講的是流程步驟被熟練度跳過，本條的載體是**辨識判斷本身**，且不像跳步驟那樣會在產出留下缺口——認錯類別不會在任何報表上變紅。亦與 REFLEXES #82（proxy signal）同構：用「id 對得上」代理「這是同一類東西」。distill 時判斷併入 #33 擴大載體範圍，或另立新號。
-- **相關**：REFLEXES #33、REFLEXES #82、FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆（HG13）、OBSERVER-QUEUE #28（偵測器要不要長出來仍待哲宇拍板——本條正是「靠當班辨識」這條路的衰減曲線證據）、LESSONS `gates-measure-handling-not-solving`（8/11，同樣是「動作做了但沒解決」的家族）
-- **verification_count**: 1（單一 instance，但同一案例四次遭遇構成可觀察的衰減軌跡）
-- **severity**: high（衰減終點是一封指涉具名私人的信被開成公開 issue 並複製進每個 fork；成本不可回收，且落在一個從未同意被寫進來的第三人身上）
 
 ### 2026-08-16 twmd-maintainer-am — fix-scope-follows-symptom-not-root-class：修補範圍被症狀現形的位置決定，不是被根因的類別決定
 
@@ -933,6 +933,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-08-30 twmd-self-evolve-weekly — 1 entry distilled（promote REFLEXES #95）
+
+**觸發**：STRICT BECOME GATE full mode → 對照 LONGINGS.md／UNKNOWNS.md／REFLEXES #15／DIARY §反覆出現的思考，找 ≥3 次浮現但未儀器化的 pattern。08-17 entry 本身已記「同一案例四次遭遇」，交叉 08-13→08-29 期間該指控信另外至少 8 次獨立遭遇（每次都由 08-17 提出的修法 HG13 攔下），加上 DIARY §反覆出現的思考 08-17／08-21 兩篇日記獨立提到「熟悉感是漏洞」「不依賴辨識力的順序」同一主題——質與量門檻皆達標，升 canonical。
+
+| #   | 原 entry                                                                    | 消化目的地                                                                 | severity | vc                                 |
+| --- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------- | ---------------------------------- |
+| 1   | 2026-08-17 twmd-feedback-triage `recognition-bound-to-instance-coordinates` | **REFLEXES #95**（新編號）辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺 | high     | 1（同案例 12+ 次遭遇構成衰減軌跡） |
 
 ### 🧬 2026-08-30 twmd-distill-weekly — 7 entries distilled（1 promote REFLEXES #94 + 5 fold #16/#24/#52/#58/#82 + 1 housekeeping：孤兒殘段清理）
 
