@@ -115,16 +115,114 @@ def patch_frontmatter(content: str, fields: dict) -> str:
     return f"---\n{new_fm}\n---{body}"
 
 
+def patch_one(zh_path, entry, t, now_iso, dry_run):
+    """補一個譯文檔的三欄位。回傳 (outcome, note)。
+
+    outcome ∈ {patched, skipped, errored}。誠實補法：sha 取「譯文最後修改時間點
+    或之前」的 zh commit，所以 zh 之後真的動過的話 status.py 仍然讀得出 drift，
+    不會因為補了 metadata 就假裝新鮮。--lang 與 --files 兩條路徑共用這一把尺。
+    """
+    trans_path_rel = t.get("path")
+    if not trans_path_rel:
+        return ("skipped", "no path in status")
+    trans_full = KNOWLEDGE / trans_path_rel
+    zh_full = KNOWLEDGE / zh_path
+    if not trans_full.exists() or not zh_full.exists():
+        return ("skipped", "file missing")
+
+    en_lastmod = t.get("translationLastModified")
+    if en_lastmod:
+        zh_sha, _zh_date = zh_sha_at_or_before(zh_path, en_lastmod)
+        if not zh_sha:
+            # no history pre-translation → translation post-dates all zh commits
+            zh_sha = entry["zh"]["lastCommit"]
+    else:
+        # No mtime info → use current (fall-back, optimistic)
+        zh_sha = entry["zh"]["lastCommit"]
+
+    new_fields = {
+        "translatedFrom": zh_path,
+        "sourceCommitSha": zh_sha,
+        "sourceContentHash": body_hash(zh_full.read_text(encoding="utf-8")),
+        "translatedAt": t.get("translatedAt") or en_lastmod or now_iso,
+    }
+
+    try:
+        trans_content = trans_full.read_text(encoding="utf-8")
+        new_content = patch_frontmatter(trans_content, new_fields)
+        if new_content == trans_content:
+            return ("skipped", "already correct")
+        if not dry_run:
+            trans_full.write_text(new_content, encoding="utf-8")
+        return ("patched", f"sha={zh_sha[:8]}")
+    except Exception as e:
+        return ("errored", str(e))
+
+
+def backfill_files(args, by_article):
+    """--files 模式：只補指定的幾個檔，不掃整個語言。
+
+    誕生：2026-08-29 maintainer-am。投稿翻譯 merge 進來時常沒帶 sourceCommitSha，
+    當場就被歸成 stale/no-source-sha。維護者要補的是「這批剛 merge 的」，原本卻
+    只能 --lang 掃整個語言（動到幾十個無關的檔，跨過 §自主權邊界 的 >50 檔門檻）。
+    """
+    now_iso = datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds")
+    # index: 譯文相對路徑（去掉 knowledge/ 前綴）→ (zh_path, entry, t)
+    index = {}
+    for zh_path, entry in by_article.items():
+        for _lang, t in entry["translations"].items():
+            if t.get("path"):
+                index[t["path"]] = (zh_path, entry, t)
+
+    patched = skipped = errored = 0
+    for raw in args.files:
+        rel = raw[len("knowledge/"):] if raw.startswith("knowledge/") else raw
+        hit = index.get(rel)
+        if not hit:
+            print(f"    ⚠️  {rel}: 不在 _translation-status.json（先跑 status.py 重建）", file=sys.stderr)
+            skipped += 1
+            continue
+        zh_path, entry, t = hit
+        outcome, note = patch_one(zh_path, entry, t, now_iso, args.dry_run)
+        if outcome == "patched":
+            patched += 1
+            print(f"    ✅ {rel} ← {note}")
+        elif outcome == "errored":
+            errored += 1
+            print(f"    ❌ {rel}: {note}", file=sys.stderr)
+        else:
+            skipped += 1
+            print(f"    ⏭️  {rel}: {note}")
+
+    print(f"\n=== TOTAL (--files) ===")
+    print(f"patched={patched} skipped={skipped} errored={errored}" + (" (dry-run)" if args.dry_run else ""))
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--lang", required=True, help="comma-sep, e.g. en or en,ko,fr,es")
+    ap.add_argument("--lang", default="", help="comma-sep, e.g. en or en,ko,fr,es")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--limit", type=int, default=None, help="process at most N per lang")
+    ap.add_argument(
+        "--files",
+        nargs="*",
+        default=None,
+        help="只補這幾個檔（repo 相對路徑，如 knowledge/ar/People/x.md）。"
+        "維護者 merge 完一批投稿翻譯時只想補那批，不想動整個語言用這個。",
+    )
     args = ap.parse_args()
 
-    langs = [l.strip() for l in args.lang.split(",") if l.strip()]
+    if not args.lang and not args.files:
+        ap.error("需要 --lang 或 --files 其中之一")
+
     data = json.load(open(STATUS_JSON))
     by_article = data["byArticle"]
+
+    if args.files:
+        return backfill_files(args, by_article)
+
+    langs = [l.strip() for l in args.lang.split(",") if l.strip()]
 
     now_iso = datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds")
 
@@ -146,59 +244,16 @@ def main():
 
         patched = skipped = errored = 0
         for zh_path, entry, t in candidates:
-            trans_path_rel = t.get("path")
-            if not trans_path_rel:
-                skipped += 1
-                continue
-            trans_full = KNOWLEDGE / trans_path_rel
-            if not trans_full.exists():
-                skipped += 1
-                continue
-            zh_full = KNOWLEDGE / zh_path
-            if not zh_full.exists():
-                skipped += 1
-                continue
-
-            # Honest backfill: use zh sha at-or-before en file's last commit.
-            # status.py will then detect drift if zh has commits since.
-            en_lastmod = t.get("translationLastModified")
-            if en_lastmod:
-                zh_sha, _zh_date = zh_sha_at_or_before(zh_path, en_lastmod)
-                if not zh_sha:
-                    # no history pre-en → use current zh sha (translation must
-                    # post-date all zh commits, treat as fresh)
-                    zh_sha = entry["zh"]["lastCommit"]
-            else:
-                # No mtime info → use current (fall-back, optimistic)
-                zh_sha = entry["zh"]["lastCommit"]
-
-            zh_content = zh_full.read_text(encoding="utf-8")
-            zh_hash = body_hash(zh_content)
-
-            # translatedAt: prefer existing if any, else en file's last commit
-            translated_at = t.get("translatedAt") or en_lastmod or now_iso
-
-            new_fields = {
-                "translatedFrom": zh_path,
-                "sourceCommitSha": zh_sha,
-                "sourceContentHash": zh_hash,
-                "translatedAt": translated_at,
-            }
-
-            try:
-                trans_content = trans_full.read_text(encoding="utf-8")
-                new_content = patch_frontmatter(trans_content, new_fields)
-                if new_content == trans_content:
-                    skipped += 1
-                    continue
-                if not args.dry_run:
-                    trans_full.write_text(new_content, encoding="utf-8")
+            outcome, note = patch_one(zh_path, entry, t, now_iso, args.dry_run)
+            if outcome == "patched":
                 patched += 1
                 if patched <= 3 or patched % 20 == 0:
-                    print(f"    [{patched}] {trans_path_rel} ← sha={zh_sha[:8]}")
-            except Exception as e:
+                    print(f"    [{patched}] {t.get('path')} ← {note}")
+            elif outcome == "errored":
                 errored += 1
-                print(f"    ❌ {trans_path_rel}: {e}", file=sys.stderr)
+                print(f"    ❌ {t.get('path')}: {note}", file=sys.stderr)
+            else:
+                skipped += 1
 
         print(f"  → patched={patched} skipped={skipped} errored={errored}" + (" (dry-run)" if args.dry_run else ""))
         overall_patched += patched

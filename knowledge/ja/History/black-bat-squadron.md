@@ -12,6 +12,9 @@ lastVerified: 2026-08-01
 lastHumanReview: false
 curation: incubating
 translatedFrom: 'History/黑蝙蝠中隊.md'
+sourceCommitSha: '69b3afd9'
+sourceContentHash: 'sha256:9c407c7793816591'
+translatedAt: '2026-08-21T19:08:49+08:00'
 ---
 
 > **30秒でざっくり：**

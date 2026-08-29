@@ -14,6 +14,9 @@ translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 #   why_this_hook: "石川1907→簡忠威AWS雙會員：一個教室啟蒙到國際賽場的百年弧線"
 #   whats_excluded: "各協會年報細節；2024後新生代；IWS台灣分會組織史；美術教育108課綱"
 #   where_it_hedges: "藍蔭鼎1971十大水彩：引述名稱為『歐美藝術評論學會』，確切組織名可參閱鴻禧基金會原始記錄"
+sourceCommitSha: '0f8fae0a'
+sourceContentHash: 'sha256:0b51fe43b7a1bf00'
+translatedAt: '2026-08-28T22:17:11+08:00'
 ---
 
 # ताइवान की जलरंग चित्रकला के सौ साल

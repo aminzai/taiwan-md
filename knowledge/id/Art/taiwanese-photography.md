@@ -4,13 +4,7 @@ description: 'Dari revolusi fotografi modern yang dipelopori Chang Chao-tang pad
 date: 2026-03-20
 category: 'Art'
 tags:
-  [
-    'Fotografi',
-    'Seni visual',
-    'Chang Chao-tang',
-    'Juan I-jong',
-    'Dokumenter',
-  ]
+  ['Fotografi', 'Seni visual', 'Chang Chao-tang', 'Juan I-jong', 'Dokumenter']
 subcategory: '視覺藝術'
 author: 'Taiwan.md'
 featured: false
@@ -19,6 +13,9 @@ lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
 translatedFrom: 'Art/台灣攝影.md'
+sourceCommitSha: '18157ab5'
+sourceContentHash: 'sha256:9e4daeb9f4939ca2'
+translatedAt: '2026-08-28T22:13:53+08:00'
 ---
 
 # Fotografi Taiwan
@@ -107,11 +104,17 @@ Fotografer Taiwan yang berhasil biasanya menemukan keseimbangan antara globalisa
 ## Referensi
 
 [^1]: [鄧南光 — Wikipedia](https://zh.wikipedia.org/wiki/%E9%84%A7%E5%8D%97%E5%85%89) — Latar belakang dan masa aktif Tiga Pendekar Fotografi Taiwan (Deng Nan-guang, Chang Tsai, Lee Ming-tiao).
+
 [^2]: [張照堂 — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%85%A7%E5%A0%82) — Konfirmasi tahun lahir dan wafat Chang Chao-tang (1943–2024) serta latar pendidikannya.
+
 [^3]: [Fotografer Chang Chao-tang wafat pada usia 81 — UDN](https://udn.com/news/story/6898/7874899) — Konfirmasi "Pameran Duo Fotografi Modern" 1965 dan berita wafatnya Chang Chao-tang.
+
 [^4]: [人與土地: album foto klasik Juan I-jong — Books.com.tw](https://www.books.com.tw/products/0010712291) — Album fotografi dokumenter Juan I-jong (terbitan pertama 1987; ini edisi cetak ulang 2016).
+
 [^5]: [國家攝影文化中心 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E5%AE%B6%E6%94%9D%E5%BD%B1%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83) — Konfirmasi tanggal pendirian resmi pada April 2021.
+
 [^6]: [Pusat Kebudayaan Fotografi Nasional](https://ncpi.ntmofa.gov.tw/) — Fungsi lembaga, kebijakan koleksi, dan rencana pameran.
+
 [^7]: [Chien-Chi Chang — Magnum Photos](https://www.magnumphotos.com/photographer/chien-chi-chang/) — Konfirmasi status Chien-Chi Chang sebagai anggota resmi Magnum Photos dan cakupan karyanya.
 
 **Bacaan Lanjutan**

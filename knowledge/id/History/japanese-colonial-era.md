@@ -10,6 +10,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'History/日治時期.md'
+sourceCommitSha: '1e674def'
+sourceContentHash: 'sha256:ab038fc6af555335'
+translatedAt: '2026-08-27T22:17:06+08:00'
 ---
 
 # Masa Pemerintahan Jepang

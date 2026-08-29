@@ -108,6 +108,16 @@ jobs:
               echo "     Add the zh-TW source path, for example: translatedFrom: 'Food/珍珠奶茶.md'"
               ERRORS=$((ERRORS + 1))
             fi
+
+            # sourceCommitSha: 沒有這一欄，status.py 會把這篇一路歸成
+            # stale/no-source-sha —— 剛 merge 進來就是舊的，而且沒有任何地方會叫。
+            # 對投稿者不設硬門檻（多數翻譯工具不會產這欄），改成點名維護者去補：
+            # 這是 MAINTAINER-PIPELINE §1b 的格式債，本來就該由維護者接住。
+            if ! printf '%s\n' "$FRONTMATTER" | grep -q "^sourceCommitSha:"; then
+              echo "  ⚠️ Missing sourceCommitSha — this file will be classified stale/no-source-sha on merge"
+              echo "     Maintainer heal (after merge, one line):"
+              echo "     python3 scripts/tools/lang-sync/backfill-source-sha.py --files $FILE"
+            fi
             
             # Check minimum content length (at least 20 lines for a reviewable article)
             LINES=$(wc -l < "$FILE")

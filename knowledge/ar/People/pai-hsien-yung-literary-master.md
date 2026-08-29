@@ -19,6 +19,9 @@ lastVerified: 2026-05-07
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/白先勇.md'
+sourceCommitSha: '7415dcaa'
+sourceContentHash: 'sha256:27b9c46e9dd00321'
+translatedAt: '2026-08-27T22:23:18+08:00'
 ---
 
 # باي شيان يونغ: من "أهل تايبيه" 1971 إلى عشرين عاماً من جولات "جناح الفاوانيا" نسخة الشباب
