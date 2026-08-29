@@ -70,7 +70,9 @@ The value of this building does not come only from who once lived in it. Archive
 
 ![The building of the Tsai Jui-yueh Dance Institute](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
 
-_Image 2: The building of the Tsai Jui-yueh Dance Institute. Photo: Lin Kao-chih, licensed CC BY-SA 4.0. Original hotlinked file: [Wikimedia Commons original](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). License and file description: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Unmodified._
+_Image 2: The building of the Tsai Jui-yueh Dance Institute. Photo: Lin Kao-chih, licensed CC BY-SA 4.0. License and file description: Wikimedia Commons file page. Unmodified._
+
+[Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)
 
 The materials preserved by the National Archives Administration keep this classroom from being remembered as merely a warm literary salon. Writers and artists — Huang Jung-tsan, Chin Tzu-hao, and Lan Yin-ting among them — came and went here, talking about how literature, language, and dance might grow in Taiwan.[^4] But the same archival context shows that artistic activity never left the sight of the police authorities. In 1949, the Tsai Jui-yueh Song and Dance Troupe was listed as a “suspicious person under control and surveillance” because of its performance content. Police department documents even read passages from the stage as potentially producing “homesickness and war-weariness” and as “suspected propaganda for the Communist bandits.”[^5]
 
