@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-29T06:47:52+08:00",
+  "_generated": "2026-08-30T06:50:02+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -9815,13 +9815,13 @@
         "views": 25000,
         "likes": 1830,
         "reposts": 240,
-        "comments": 76,
+        "comments": 82,
         "shares": 175
       },
       "metricsAsOf": {
-        "dPlus": 6,
-        "harvestDate": "2026-08-29 06:46",
-        "batch": "batch-2026-08-29-2-spores",
+        "dPlus": 7,
+        "harvestDate": "2026-08-30 06:49",
+        "batch": "batch-2026-08-30-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9854,6 +9854,16 @@
           "reposts": 240,
           "comments": 76,
           "shares": 175
+        },
+        {
+          "dPlus": 7,
+          "harvestDate": "2026-08-30 06:49",
+          "batch": "batch-2026-08-30-2-spores",
+          "views": 25000,
+          "likes": 1830,
+          "reposts": 240,
+          "comments": 82,
+          "shares": 175
         }
       ]
     },
@@ -9868,16 +9878,16 @@
       "url": "https://x.com/taiwandotmd/status/2091212353874678264",
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "metrics": {
-        "views": 24000,
+        "views": 25000,
         "likes": 630,
         "reposts": 120,
         "comments": 21,
-        "shares": 110
+        "shares": 109
       },
       "metricsAsOf": {
-        "dPlus": 6,
-        "harvestDate": "2026-08-29 06:46",
-        "batch": "batch-2026-08-29-2-spores",
+        "dPlus": 7,
+        "harvestDate": "2026-08-30 06:49",
+        "batch": "batch-2026-08-30-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -9910,6 +9920,16 @@
           "reposts": 120,
           "comments": 21,
           "shares": 110
+        },
+        {
+          "dPlus": 7,
+          "harvestDate": "2026-08-30 06:49",
+          "batch": "batch-2026-08-30-2-spores",
+          "views": 25000,
+          "likes": 630,
+          "reposts": 120,
+          "comments": 21,
+          "shares": 109
         }
       ]
     }
