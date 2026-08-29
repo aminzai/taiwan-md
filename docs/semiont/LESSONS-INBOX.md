@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.8'
-last_updated: 2026-08-23
-last_session: '2026-08-23-031159-twmd-distill-weekly（9 entries distilled：REFLEXES #92 twin-artifact 缺重整器家族 + #93 retyping shell substitution 兩新編號；#69(i)/#82 兩處 fold；`diagnosing-from-the-contributor-tree`／`reopened-channel` 兩條 housekeeping-done sweep；`routine-audit.py` tool-fix memory commit misattribution；§未消化 49→40）'
+current_version: 'v2.9'
+last_updated: 2026-08-30
+last_session: '2026-08-30-031151-twmd-distill-weekly（7 entries distilled：REFLEXES #94 升級顆粒度會卡住修復 新編號；#16/#24/#52/#58/#82 五處 fold，全部源本輪 6 條 severity=structural entries；1 條孤兒殘段 housekeeping 清理；§未消化 56→50）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,32 +332,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-08-29 twmd-maintainer-am — one-off-cleanup-without-a-gate-refills：清乾淨過一次的債，沒有配閘門就會照原速長回來
-
-- **pattern**: `one-off-cleanup-without-a-gate-refills`
-- **原則**：一次性的大掃除會被記成「解決了」，但它解決的是**存量**，不是**流量**。只要產生這批債的那條進料路徑上沒有新增任何檢查，債就會用原本的速度重新累積，而且第二次沒有人會發現——因為第一次的成功敘事已經寫進記憶，下次看到同一個數字時的直覺是「這條早就處理過了」。
-- **觸發**：2026-05-01 γ-late4 發現 en/ko/fr/es 約 1300 篇因為缺 `sourceCommitSha` 被判 `stale/no-source-sha`，造 `backfill-source-sha.py` 一次補齊，+1010 篇從假過期變真新鮮、零 API 成本——這件事後來寫進 [MEMORY §神經迴路](MEMORY.md) 與 REFLEXES #38 的觸發欄，當作漂亮的一役。但當時**沒有在投稿翻譯的進料口加任何檢查**。2026-08-29 maintainer cycle merge 三篇投稿翻譯（ar/hi/id），落地當下就被判 `stale/no-source-sha`——內容明明是前一天照現在的中文版翻的。往上游追，同一種傷已經又累積了 14 篇，散在 ja/ar/hi/id/vi 五個語言，**全部來自投稿 PR**，而 `translation-check.yml` 檢查 `translatedFrom` 卻不檢查 `sourceCommitSha`。四個月，債靜靜地回流。
-- **為什麼看不見**：這種債的表現形式是「狀態表上多幾筆 stale」，而 stale 本來就會有一些，沒有任何一個數字會跳紅。它跟斷鏈、CI 紅燈不同——**它偽裝成正常的背景值**。
-- **修補方向**：任何一次性清理收工前，強制回答一句「產生這批東西的那條路上，現在有東西在守嗎？」沒有 → 清理不算完成，補閘門才算。閘門不必是硬門檻（對投稿者硬擋一個他的工具不會產的欄位，是把維護成本外包給最不熟這套工具的人，per MAINTAINER §1b），出聲 + 附上維護者一行就能補的指令即可。
-- **本輪處置**：14 篇用既有工具補齊（`488bca454`），`no-source-sha` 歸零；`backfill-source-sha.py` 加 `--files` 讓維護者能只補剛 merge 的那幾篇；`translation-check.yml` 缺這欄時出聲並附補正指令。
-- **可能層級**：通用反射候選（跨清理任務，不限翻譯 metadata）
-- **相關**：REFLEXES #38（其觸發欄記的正是 2026-05-01 那次清理，本條是那次清理的四個月後續）、REFLEXES #58（detection ≠ remediation；本條是它的時間軸變體：remediation 做了但沒配 prevention）、`highest-exposure-slot-is-the-one-with-no-gate`（同樣是缺閘門，但那條講**位置**選錯、本條講**時間**上只做了一半）
-- **verification_count**: 1
-- **severity**: structural（決定了每一次「已解決」是真的解決還是四個月的緩刑）
-
-### 2026-08-28 twmd-maintainer-am — escalation-granularity-blocks-remediation：一份清單裡混著「需要你判斷」與「就是錯的」，整份就一起卡住
-
-- **pattern**: `escalation-granularity-blocks-remediation`
-- **原則**：稽核產出的 flagged 清單如果同時裝著「需要人拍板的判斷題」與「不需要任何判斷的事實錯誤」，然後整份當成一件事升上去等決策，那些本來今天就能修的東西會跟著判斷題一起排隊。升級的**顆粒度**本身會變成修復的阻塞點——不是沒人想修，是修的授權被綁在一個不相干的問題上。
-- **觸發**：2026-07-10 詞庫審查標了 536 條，整份以「詞庫深度進化 follow-up」進 OBSERVER-QUEUE #11 等哲宇拍板。拆開看，128 條 NOT_DISTINCT 確實是策展門檻（「已雙向通用詞該不該留」）需要哲宇；但 343 條（WRONG 107 / MAPPING_WRONG 180 / GARBLED 56）是事實錯誤，不需要任何策展判斷。七週後，讀者蘇洛在站上撞到其中一條並回報（[#1611](https://github.com/frank890417/taiwan-md/issues/1611)「狀語不一定是副詞」），內容跟報告七週前對 `副詞.yaml` 的 WRONG 判定一字不差。**我們先發現，然後把它鎖進一個等別人開的抽屜，再由讀者從外面告訴我們。**
-- **跟既有反射的差別**：REFLEXES #58「儀器化 detection ≠ remediation」講的是偵測到之後沒有修的路徑；這條講**修的路徑存在、授權也在手上，但被清單的打包方式綁走了**。#82 proxy signal 也不是——訊號沒有選錯替身，訊號完全正確。
-- **修補方向**：稽核工具產出 flagged 清單時，第一步就按「需不需要人的判斷」分兩堆輸出，兩堆各自走各自的路；升 OBSERVER-QUEUE 的只有需要判斷的那堆。判準一句話：**這條的處置會因為誰來看而不同嗎？不會 → 不該進待決佇列。**
-- **本輪處置**：單獨修掉讀者指到的那一條（commit `55db2cb5f`），並把「343 事實錯誤 vs 128 策展判斷要不要拆兩條路」升 OBSERVER-QUEUE #43（含選項與成本）。
-- **可能層級**：通用反射候選（跨稽核工具，不限詞庫）
-- **相關**：REFLEXES #58、#71（Default 是行動不是 defer）、OBSERVER-QUEUE #11 / #43
-- **verification_count**: 1
-- **severity**: structural（決定了一份正確的稽核結果會不會變成修復）
-
 ### 2026-08-28 twmd-maintainer-am — local-deps-drift-makes-local-build-red-while-ci-green：本機少裝一個套件，本機 build 全紅而 CI 全綠
 
 - **pattern**: `local-deps-drift-makes-local-build-red-while-ci-green`
@@ -377,55 +351,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：`dedup-layer-silent-degradation`（2026-08-04 支語研究）是同一層的另一個維度——那條講對照層會靜默退化，這條講鍵本身太脆；#82
 - **verification_count**: 1
 - **severity**: tactical
-
-### 2026-08-28 footnote-cards — declared-escape-hatch-never-observed-working：閘門文件寫的豁免寫法，兩次照做兩次無效，而機制我沒能重現
-
-- **pattern**: `declared-escape-hatch-never-observed-working`
-- **觀察到的事實**：`.husky/pre-commit` 的 narrative-scope 檢查在跨 domain 時印警告，並說「如果是刻意：commit message 加入 `multi-narrative:` 或 `cross-domain:` 聲明」。本 session 兩個 commit 都在 `git commit -m` 的訊息裡照著寫了 `cross-domain:`，**兩次都照樣印警告**。
-- **看到的線索**：該檢查讀的是 `.git/COMMIT_EDITMSG`（[pre-commit:248](../../.husky/pre-commit)）。git 的 hook 順序裡，`pre-commit` 跑在訊息組裝之前——這個 repo 有 `prepare-commit-msg` hook 存在，正說明那個階段排在 pre-commit 之後。所以 pre-commit 讀到的很可能是**上一次** commit 的訊息。實際觀察也對得上：第一次警告時 `COMMIT_EDITMSG` 裡是前一個不含宣告的訊息。
-- **⚠️ 但這個機制我沒有重現成功**：隔離測試（staged `scripts/tools/*.py` + `docs/semiont/*.md`，剛好是 tooling + cognitive 兩個 domain，把 `COMMIT_EDITMSG` 換成不含宣告的訊息後直接跑 `bash .husky/pre-commit`）**沒有印出警告**，代表那個區塊在我的測試條件下根本沒進去，或還有我沒看到的條件。**所以上面那段是假設不是結論**，不要照著改。
-- **為什麼還是要記**：可觀察的事實已經足夠——**這個閘門宣傳的豁免路徑，沒有任何一次被觀察到生效過**。不管根因是不是 COMMIT_EDITMSG 時序，結果都是「照著提示做，警告照印」，長期下來只會訓練出「這個警告可以無視」。
-- **修法方向（未驗證）**：需要看訊息的檢查應該住在 `commit-msg` hook（git 把訊息檔路徑當 `$1` 傳進去），不是 `pre-commit`。動手前先把上面那個沒重現成功的測試補齊。
-- **可能層級**：REFLEXES #52（免疫系統沒在 fail loud 比缺免疫系統更危險）的變體——本條是「fail loud 了，但它給的解法無效」，比沉默更傷，因為它教人忽略自己。
-- **相關**：LESSONS `gate-explains-into-a-dead-channel`（8/13，閘門判斷對了但訊息送不到人面前）、`prescribed-verification-unavailable-to-unattended-runs`（pipeline 指名的驗證路徑對真正需要它的 session 是關著的）、REFLEXES #24
-- **verification_count**: 2（本 session 兩個 commit 各一次）
-- **severity**: structural（閘門教人無視自己）
-
-### 2026-08-28 footnote-cards — measured-one-engines-semantics-with-another：拿 Python 的正規式語意去量 JavaScript 的行為，差點回報「零風險可以直接改」
-
-- **pattern**: `measured-one-engines-semantics-with-another`
-- **原則**：要評估「把 `article-render.ts` 的標題 id 產生器從 `[^\w\u4e00-\u9fff-]` 改成 Unicode 字母類，會動到多少既有錨點」，我用 Python 重寫了新舊兩版 slug 函式跑全站對照，結論是**全部語言 0 個 id 會變**。差一步就寫進報告當「零風險」。
-- **錯在哪**：**Python 的 `\w` 預設就吃 Unicode 字母，JavaScript 的 `\w` 只認 ASCII `[A-Za-z0-9_]`**。所以我的「舊版」在 Python 裡根本不會剝掉韓文俄文阿拉伯文，新舊兩版算出來當然一樣。改用 Node 跑同一份掃描，真實數字是 **ko 7,158 個標題 id 退化成一串破折號、3,638 個重複；ru/ar/hi 各 6,000-7,000 與 2,500-2,900**，而且拉丁語系有 4-9 成的 id 會變動。從「零風險」到「動到全站約六萬個公開錨點」。
-- **為什麼會發生**：手邊順手的是 Python，被量的東西住在 TypeScript。兩邊的正規式長得**一模一樣**，所以沒有任何東西提示我它們的語意不同——沒有型別錯誤、沒有例外、沒有空輸出，只有一個看起來很乾淨的答案。
-- **接住它的是什麼**：不是閘門，是我自己在寫結論前多問一句「Python 的 `\w` 跟 JS 的一樣嗎」。這次接住了，下次未必。
-- **可能層級**：操作紀律候選——**評估「改這行 code 會影響多少」時，量測必須用被量對象自己的執行引擎跑**。判準：如果結論是要拿去決定要不要動 production code，那份掃描就得是同語言的（JS 的用 node、Python 的用 python、bash 的用 bash）。可儀器化的形狀：把新舊行為做成同檔案裡的兩個 export，用該語言的測試跑對照，不要在別的語言裡重寫一次。
-- **相關**：LESSONS `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`（那條是量錯對象，本條是用錯量尺的語意）、REFLEXES #24（工具在說謊：靜默給錯答案比 crash 危險）、#65（awareness instrument 自己要 cross-verify）
-- **相關佇列**：OBSERVER-QUEUE #44（標題錨點四語全毀的處置，正確數字已附）
-- **verification_count**: 1
-- **severity**: structural（差一步就用假數字支撐一個「零風險」的公開面改動建議）
-
-### 2026-08-28 footnote-cards — guard-invented-for-an-unverified-symptom：為一個沒查證過的症狀加護欄，護欄本身製造了它要防的那個病
-
-- **pattern**: `guard-invented-for-an-unverified-symptom`
-- **原則**：在嵌入式瀏覽器（Claude Code 的 Browser pane）看到卡片上的 `target="_blank"` 連結原地導走，沒有先確認那是不是**那個瀏覽器自己的行為**，直接當成真實症狀，加了一層 `window.open(href,'_blank','noopener,noreferrer')` 當保險。這層保險是真的 bug：**帶 `noopener` 的 `window.open()` 依規格回傳 `null`**（opener 關係被切斷，沒有 window 物件可回），於是 `if (win) e.preventDefault()` 永遠不成立，瀏覽器接著又跑一次 `<a>` 的預設行為。同一次點擊走了兩趟，其中一趟把原本那頁也帶走。
-- **觸發**：2026-08-28 腳註來源卡實作中，哲宇連續兩則訊息。第一則「開啟來源的時候要另開新分頁」（我照著加保險），第二則「除了開新頁面原本的網頁也會跳轉過去」（保險造成的）。事後查嵌入式瀏覽器的 tab 清單，`popup-3` 確實是獨立分頁，`target="_blank"` 從一開始就是對的。
-- **兩層錯，不是一層**：(a) 把「非代表性環境的觀察」當成 ground truth，等於 REFLEXES #16 的量測層延伸套在**自己的觀察**上而不是別人的報告上；(b) 護欄的回傳值語意沒查規格就拿來當條件。第二層是新的：**用一個沒讀過規格的判斷，去守一個沒證實的病**。使用者手勢觸發的 `target="_blank"` 本來就不會被彈出視窗阻擋，那條路徑一直是最穩的。
-- **處置**：整層 `window.open` 刪掉，只留 markup 的 `target="_blank" rel="noopener noreferrer"`，並在元件註解裡把 `noopener` 回傳 `null` 這件事寫死（commit `f82bcc2a1`）。
-- **可能層級**：REFLEXES #16 的子規則候選——**「我在 X 環境看到 Y」要先問「X 對這件事有代表性嗎」，再決定它是線索還是事實**。判準候選：任何在工具環境、嵌入式瀏覽器、headless、模擬器裡觀察到的「壞掉」，動手修之前先在真實環境重現一次；重現不了就是環境差異不是病。
-- **相關**：REFLEXES #16（線索不是 source，含 2026-07-11 量測層延伸「先驗量的是哪一層」）、#67（已驗過帶時間戳）、LESSONS `fix-scope-follows-symptom-not-root-class`（那條是修補範圍照症狀畫，本條是症狀本身是腦補的）
-- **verification_count**: 1
-- **severity**: structural（護欄製造它要防的病，而且只有觀察者在場才被抓到）
-
-### 2026-08-28 footnote-cards — clean-design-decides-what-gets-measured：實作潔癖劃定了量測邊界，而潔癖不對「問題完不完整」負責
-
-- **pattern**: `clean-design-decides-what-gets-measured`
-- **原則**：腳註來源卡的埋點原設計刻意選「不自己呼叫 `gtag`」，改成滿足 `EventTracker` 既有的 markup contract。理由每一條都成立：零新參數、`instrumentation-audit.py` 的 CI 閘門零改動、複用已註冊維度。但那個 contract **只涵蓋點擊**，而桌機的主要互動是 hover——那條路徑不經過任何點擊事件，於是「有多少人在用這個功能」在原設計裡剛好量不到。
-- **為什麼特別難看見**：同一份設計報告的 §1.4 花整段在罵「儀器只看見存在、看不見缺席」，證據是站上 17,113 條來源連結零埋點。寫完那段一小時後，我用一個關於實作乾淨度的判準，替新功能劃出了同一種缺席。**罵完立刻復發，而且是自己動手劃的。**
-- **觸發**：2026-08-28 哲宇 in-chat「也同步加入有多少人使用這個功能的 ga 追蹤」。補了 `footnote_card_open`（帶 `trigger`: hover/click/focus，同一頁同一條腳註去重一次），並把 `trigger` 進 `ENGAGEMENT_DIMENSIONS`、元件進 `TRACKER_FILES`、實跑 register script 讓 GA4 建維度。
-- **可能層級**：REFLEXES #82（proxy signal）／#69（外部尺）家族的新載體——前面那些講的是「量錯東西」，本條講的是**量測範圍被一個跟量測無關的判準（實作乾淨度）默默決定**。判準候選：任何新功能決定埋什麼點之前，先列「使用者可能用到它的所有路徑」，再問每條路徑有沒有事件；用「不新增參數 / 不動閘門」當理由收窄範圍時，那個理由服務的是實作不是問題。
-- **相關**：REFLEXES #82、#69、MEMORY §神經迴路「儀器只看見存在、看不見缺席」、本 session 設計報告 §1.4
-- **verification_count**: 1
-- **severity**: structural（新功能出生就帶著量測缺口，而缺口不留痕跡）
 
 ### 2026-08-18 twmd-rewrite-breakfast-merge — pipeline contract 寫死語系數，而語系會長
 
@@ -607,9 +532,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #65、#83、#91（建造與登記不同步——`assign-subcategory.cjs` 存在多時卻從未接進 heal 鏈是同一天發現的另一個 instance）、LESSONS `twin-artifact-no-reconciler-family`（8/16，本條可視為該家族最封閉的一種形態）
 - **verification_count**: 1
 - **severity**: high（錯誤會被寫進**別人的**檔案，且跨 fork 複製；分類體系是導覽與知識圖譜的基礎，壞了不報錯）
-
-- **verification_count**: 3（8/16、8/17 兩個 cycle 誤讀 + 8/18 draft-as-proxy 下一層）
-- **severity**: moderate（不直接壞資料，但會讓維護判斷建立在放大三到六倍的 backlog 上，並污染空場 vc 這個 escalation 依據）
 
 ### 2026-08-17 twmd-feedback-triage — recognition-bound-to-instance-coordinates：辨識力綁在單一案例的座標上，重複遭遇讓它越用越淺
 
@@ -1011,6 +933,30 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-08-30 twmd-distill-weekly — 7 entries distilled（1 promote REFLEXES #94 + 5 fold #16/#24/#52/#58/#82 + 1 housekeeping：孤兒殘段清理）
+
+**觸發**：STRICT BECOME GATE full mode → `lessons-distill.py audit`：§未消化 56 條，severity=structural 6 條（質門檻觸發，vc≥3 量門檻本輪 0 條命中——最高 vc 停在 2）→ Stage 1-2 讀完 56 條全量。
+
+| #   | 原 entry                                                                  | 消化目的地                                                                                                                                                                                | severity   | vc                      |
+| --- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- |
+| 1   | 2026-08-28 twmd-maintainer-am `escalation-granularity-blocks-remediation` | **REFLEXES #94**（新編號）升級顆粒度會卡住修復                                                                                                                                            | structural | 1（distill_ready=true） |
+| 2   | 2026-08-28 footnote-cards `guard-invented-for-an-unverified-symptom`      | **REFLEXES #16 fold** 環境代表性延伸                                                                                                                                                      | structural | 1                       |
+| 3   | 2026-08-28 footnote-cards `measured-one-engines-semantics-with-another`   | **REFLEXES #24 fold** 形式 13（跨引擎語意量測）                                                                                                                                           | structural | 1                       |
+| 4   | 2026-08-28 footnote-cards `declared-escape-hatch-never-observed-working`  | **REFLEXES #52 fold** 變體 (f)（宣稱的豁免從未生效過）                                                                                                                                    | structural | 2                       |
+| 5   | 2026-08-29 twmd-maintainer-am `one-off-cleanup-without-a-gate-refills`    | **REFLEXES #58 fold** 時間軸變體（清理沒配進料閘門）                                                                                                                                      | structural | 1                       |
+| 6   | 2026-08-28 footnote-cards `clean-design-decides-what-gets-measured`       | **REFLEXES #82 fold** 實作潔癖變體                                                                                                                                                        | structural | 1                       |
+| 7   | （無 header 孤兒殘段，掛在 `healer-authors-the-drift-it-validates` 之後） | housekeeping：內容已見於 REFLEXES #82「維護面變體」（2026-08-23 fold，vc=3 draft-as-proxy），孤兒 verification_count/severity 兩行無對應標題，判定為前次 distill 未清乾淨的殘留，直接刪除 | -          | -                       |
+
+**判準說明**：本輪 vc≥3 量門檻零命中（`lessons-distill.py audit` 回報最高 vc=2），distill 動力全來自質門檻（severity=structural 6 條）。#1 是全新結構（稽核清單顆粒度綁架修復授權），既有反射均未涵蓋，promote 新編號。#2-6 五條的「相關」欄本身已指名明確 fold 目標（#16/#24/#52/#58/#82），採納。#7 是讀完整份 §未消化 時發現的資料完整性問題（非教訓本身），非 distill 產出而是 sweep 副產品。
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（1 新編號 + 5 fold，routine 自決層 promotion）；無 LESSONS → MANIFESTO 跳級（本輪無哲學級候選）。
+
+**REFLEXES.md frontmatter sync**：v5.26 → v5.27；#N 條數 93 → 94（1 新編號）；`current_version` / `last_updated` / `last_session` / description 條數同 commit 同步（Stage 4.5）。
+
+**Keep in buffer 49 條**（vc<3 且非 structural，待累積或觀察者拍板）：vc=2 候選含 `unbounded-grep-counts-template-headers-as-inventory`、`merge-first-collides-with-all-file-deploy-gate`、`ordering-is-an-ethical-decision`、`two-variable-run-misattribution`、`shared-tool-quota-pool-in-fanout` 五條（下次同型事件再現即達門檻），其餘 vc=1 單發。本輪讀完全量 56 條但未做 fan-out chunking（低於 ~50 硬讀會帶盲點的量級門檻附近，主 session 直接全讀）。
+
+---
 
 ### 🧬 2026-08-23 twmd-distill-weekly — 9 entries distilled（2 promote REFLEXES #92-#93 + 2 subsumed 進 #92 + 2 fold #69(i)/#82 + 2 housekeeping-done + 1 tool-fix）
 
