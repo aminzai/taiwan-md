@@ -1,2222 +1,2174 @@
 {
-  "date": "2026-08-27",
-  "total_404": 4603,
+  "date": "2026-08-28",
+  "total_404": 8895,
   "truncated": false,
   "families": {
     "stale-asset": {
-      "count": 229,
-      "bot": 14,
-      "browser": 215,
+      "count": 247,
+      "bot": 7,
+      "browser": 240,
       "empty": 0
     },
     "scanner": {
-      "count": 383,
-      "bot": 84,
-      "browser": 188,
-      "empty": 111
-    },
-    "slug-variant": {
-      "count": 863,
-      "bot": 690,
-      "browser": 173,
+      "count": 1757,
+      "bot": 1218,
+      "browser": 539,
       "empty": 0
     },
     "probe-wellknown": {
-      "count": 93,
-      "bot": 7,
-      "browser": 86,
-      "empty": 0
+      "count": 103,
+      "bot": 21,
+      "browser": 81,
+      "empty": 1
     },
     "unknown": {
-      "count": 2580,
-      "bot": 2033,
-      "browser": 547,
+      "count": 5948,
+      "bot": 3679,
+      "browser": 2269,
       "empty": 0
     },
     "md-extension": {
-      "count": 309,
-      "bot": 230,
-      "browser": 79,
-      "empty": 0
-    },
-    "missing-asset": {
-      "count": 26,
-      "bot": 21,
-      "browser": 5,
+      "count": 128,
+      "bot": 62,
+      "browser": 66,
       "empty": 0
     },
     "untranslated-demand": {
-      "count": 68,
-      "bot": 58,
-      "browser": 10,
+      "count": 212,
+      "bot": 183,
+      "browser": 29,
+      "empty": 0
+    },
+    "missing-asset": {
+      "count": 57,
+      "bot": 20,
+      "browser": 37,
       "empty": 0
     },
     "bad-encoding": {
-      "count": 31,
-      "bot": 11,
-      "browser": 20,
+      "count": 23,
+      "bot": 7,
+      "browser": 16,
+      "empty": 0
+    },
+    "slug-variant": {
+      "count": 385,
+      "bot": 134,
+      "browser": 251,
       "empty": 0
     },
     "renamed-or-truncated": {
-      "count": 20,
-      "bot": 16,
-      "browser": 4,
+      "count": 33,
+      "bot": 18,
+      "browser": 15,
       "empty": 0
     },
     "cross-lang-slug": {
-      "count": 1,
+      "count": 2,
       "bot": 1,
-      "browser": 0,
+      "browser": 1,
       "empty": 0
     }
   },
   "top_paths": [
     {
-      "path": "/.env",
-      "hits": 45,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36",
-      "suggest": null
-    },
-    {
       "path": "/_astro/FeedbackWidget.CtvzgLzb.css",
-      "hits": 42,
+      "hits": 67,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-      "hits": 36,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": "/ja/economy/tsmc"
+      "path": "/.env",
+      "hits": 39,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-US; HM NOTE 1W Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.0.5.850 U3/0.8.0 Mobile Sa",
+      "suggest": null
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "hits": 30,
+      "family": "probe-wellknown",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/ArticleCard.NdgBuHxI.css",
+      "hits": 28,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php",
+      "hits": 27,
+      "family": "scanner",
+      "ua": "python-requests/2.25.1",
+      "suggest": null
+    },
+    {
+      "path": "/.well-known/traffic-advice",
+      "hits": 27,
+      "family": "probe-wellknown",
+      "ua": "Chrome Privacy Preserving Prefetch Proxy",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.CXPeqfF2.css",
+      "hits": 26,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/article.BlYMZYT4.css",
+      "hits": 25,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "suggest": null
     },
     {
       "path": "/_astro/ArticleCard.BQoN7FnQ.css",
-      "hits": 36,
+      "hits": 23,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
       "path": "/_astro/article.XcIAQMKm.css",
-      "hits": 32,
+      "hits": 17,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/cdn-cgi/rum",
-      "hits": 31,
-      "family": "probe-wellknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/.well-known/traffic-advice",
-      "hits": 26,
-      "family": "probe-wellknown",
-      "ua": "Chrome Privacy Preserving Prefetch Proxy",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/ArticleCard.NdgBuHxI.css",
-      "hits": 24,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/.well-known/assetlinks.json",
-      "hits": 23,
-      "family": "probe-wellknown",
-      "ua": "GoogleAssociationService",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/article.BlYMZYT4.css",
-      "hits": 21,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "path": "/.env.bak",
+      "hits": 17,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; OAI-SearchBot/1.3; +https://openai.com/searchbot)",
       "suggest": null
     },
     {
       "path": "/music/%E5%8F%B0%E7%81%A3%E5%98%BB%E5%93%88%E8%88%87%E9%A5%E2%80%99%E8%88%8C%E7%99%BC%E5%B1%95/",
-      "hits": 20,
+      "hits": 16,
       "family": "bad-encoding",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.CXPeqfF2.css",
-      "hits": 19,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/contact",
-      "hits": 18,
-      "family": "scanner",
-      "ua": "Mozilla/5.0",
-      "suggest": null
-    },
-    {
-      "path": "/contact.html",
-      "hits": 16,
-      "family": "scanner",
-      "ua": "Mozilla/5.0",
-      "suggest": null
-    },
-    {
-      "path": "/contact-us",
-      "hits": 16,
-      "family": "scanner",
-      "ua": "Mozilla/5.0",
-      "suggest": null
-    },
-    {
-      "path": "/geography/_Geography%20Hub",
+      "path": "/admin",
       "hits": 14,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/lifestyle/%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E6%96%87%E5%8C%96",
+      "path": "/cdn-cgi/l/email-protection",
       "hits": 13,
-      "family": "unknown",
-      "ua": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)",
+      "family": "probe-wellknown",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+      "suggest": null
+    },
+    {
+      "path": "/.well-known/assetlinks.json",
+      "hits": 12,
+      "family": "probe-wellknown",
+      "ua": "GoogleAssociationService",
       "suggest": null
     },
     {
       "path": "/_astro/Layout.DnnGPkW0.css",
-      "hits": 13,
+      "hits": 12,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/docs",
+      "path": "/blog",
       "hits": 11,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/pricing",
-      "hits": 11,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/pt/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 11,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/pt/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/cdn-cgi/l/email-protection",
-      "hits": 11,
-      "family": "probe-wellknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/vi/reports/research/2026-05/%E7%8E%8B%E7%A6%8F%E7%91%9E.md",
-      "hits": 10,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/society/%C3%83%C2%A5%C3%82%C2%8F%C3%82%C2%B0%C3%83%C2%A7%C3%82%C2%81%C3%82%C2%A3%C3%83%C2%A4%C3%82%C2%BA%C3%82%C2%BA%C3%83%C2%A5%C3%82%C2%B7%C3%82%C2%A5%C3%83%C2%A7%C3%82%C2%94%C3%82%C2%9F%C3%83%C2%A6%C3%82%C2%AE%C3%82%C2%96/",
-      "hits": 10,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.",
-      "suggest": null
-    },
-    {
-      "path": "/Food/%E5%AE%A2%E5%AE%B6%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
-      "hits": 10,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/es/art/docs/pipelines/REWRITE-PIPELINE.md",
-      "hits": 10,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/Layout.DXAe7yWh.css",
-      "hits": 10,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/culture/%ED%83%80%EC%9D%B4%EC%99%84%EA%B0%90%EC%84%B1",
-      "hits": 10,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/xmlrpc.php",
-      "hits": 9,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/id/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 9,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/id/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/nano.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/lifetree/jay-chou",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/zoo2.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wnnjpsby.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/run.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/admin.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/ws85.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "//abcd.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fr/history/kaohsiung-incident-formosa-incident/fr/Society/sunflower-movement/",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/id/music/Musik_Independen_Taiwan.md",
-      "hits": 8,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/m.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/society/Taiwan-Unification-Independence-Spectrum",
-      "hits": 8,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/sym.php",
-      "hits": 8,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/fr/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 8,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/build/manifest.json",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/people/Cheng_Li-wen",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/fr/people/zhang-hui-mei/",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/pt/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 7,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/vi/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/fr/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/fr/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/fr/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/history/taiwan-democratization"
-    },
-    {
-      "path": "/id/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/id/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/vi/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/pt/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/vi/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 7,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/lifestyle/%EB%8C%80%EB%A7%8C%EC%9D%98%EB%A3%8C%EC%99%80%EC%A0%84%EA%B5%AD%EB%AF%BC%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/wp/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/society/%E5%8F%B0%E6%B9%BE%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%9C%9F%E5%9C%B0%E6%AD%A3%E7%BE%A9%E8%88%87%E5%82%B3%E7%B5%B1%E9%A0%98%E5%9F%9F",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/wsd.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/wordpress/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ko/people/chiang-wei-shui/%E8%B3%B4%E5%92%8C",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/blog/robots.txt",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/blog/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/fr/people/tsai-ing-wen/%E8%B3%B4%E6%B8%85%E5%BE%B7.md",
-      "hits": 6,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/this_is_a_new_hello_world.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/goods.php",
-      "hits": 6,
-      "family": "scanner",
-      "ua": "",
-      "suggest": null
-    },
-    {
-      "path": "/hi/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/ja/economy/taiwanese-companies-quanta-computer"
-    },
-    {
-      "path": "/fr/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/history/taiwan-democratization"
-    },
-    {
-      "path": "/vi/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/vi/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/society/sunflower-movement"
-    },
-    {
-      "path": "/vi/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/es/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 6,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/pt/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/fr/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/vi/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/vi/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/id/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 6,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "hi",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
-    },
-    {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
-      "hits": 6,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.",
-      "suggest": "/ja/economy/delta-electronics-taiwan-power-giant"
-    },
-    {
-      "path": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php",
-      "hits": 5,
-      "family": "scanner",
-      "ua": "python-requests/2.25.1",
-      "suggest": null
-    },
-    {
-      "path": "/es/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/people/%EB%B3%B4%ED%84%B0%EC%99%95",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/es/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/ru/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": "/ru/economy/taiwan-enterprise-cathay-financial"
-    },
-    {
-      "path": "/technology/%E5%A4%A7%E5%AE%87%E5%8F%8C%E5%89%A3",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/society/v%C4%83n-h%C3%B3a-t%C3%ACnh-nguy%E1%BB%87n-vi%C3%AAn-%C4%91%C3%A0i-loan",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/fr/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/knowledge/Food/Indigenous-Rice-Cuisine.md",
-      "hits": 5,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/en/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/en/economy/taiwan-companies-chunghwa-telecom"
-    },
-    {
-      "path": "/history/%E6%97%A5%E6%9C%AC%E7%B5%B1%E6%B2%BB%E6%99%82%E4%BB%A3",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/es/people/chiang-wei-shui/%E5%8F%B0%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/society/environmental-justice-and-nimby",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/pt/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/pt/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/pt/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/hi/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/es/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/en/geography/lienchiang-county/",
-      "hits": 5,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-      "suggest": ["ar", "es", "fr", "ja", "ko", "pt", "ru", "vi"]
-    },
-    {
-      "path": "/hi/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/hi/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/es/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/id/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/pt/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/es/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 5,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/economy/tsmc"
-    },
-    {
-      "path": "/hi/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 5,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": ["zh", "ar", "en", "es", "fr", "ja", "ko", "pt", "ru", "vi"]
-    },
-    {
-      "path": "/vi/culture/nh%C3%A2n-c%C3%A1ch-%C4%91%C3%A0i-loan",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/vi/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/wp-login.php",
-      "hits": 5,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
-      "suggest": null
-    },
-    {
-      "path": "/article-images/people/huang-shan-liao-book-signing.jpg",
-      "hits": 5,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_7) AppleWebKit/591.2 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/591.2 Edg/105.0.1982.52",
-      "suggest": null
-    },
-    {
-      "path": "/hi/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E8%8F%AF%E9%9B%BB%E5%AD%90",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/hi/economy/united-microelectronics-corporation"
-    },
-    {
-      "path": "/fr/history/indigenous-peoples-history-and-renaming/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/assets/Wikimedia%20Commons:%20Taiwan_ROC_political_division_map.svg",
-      "hits": 4,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/es/economy/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%A0%94%E8%8F%AF%E7%A7%91%E6%8A%80.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/music/%C3%82m-nh%E1%BA%A1c-%C4%91%E1%BB%99c-l%E1%BA%ADp-%C4%90%C3%A0i-Loan.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/id/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E8%8F%AF%E9%9B%BB%E5%AD%90",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/id/economy/united-microelectronics-corporation"
-    },
-    {
-      "path": "/fr/people/chen-tzu-jian/%E5%85%AB%E7%82%AF.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/hi/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/society/sunflower-movement"
-    },
-    {
-      "path": "/en/economy/slp-taipei-startup-leadership-program/%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
       "path": "/_astro/Layout.DuQvyK5A.css",
-      "hits": 4,
+      "hits": 10,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/vi/people/%E5%BC%B5%E5%BF%97%E7%A5%BA.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/vi/Economy/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/htio.php",
-      "hits": 4,
+      "path": "/%2findex.php",
+      "hits": 10,
       "family": "scanner",
-      "ua": "",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ko/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/history/taiwan-democratization"
-    },
-    {
-      "path": "/vi/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/vi/economy/tsmc"
-    },
-    {
-      "path": "/vi/music/Kim-Kh%C3%BAc.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/vi/music/Nh%E1%BA%A1c-pop-%C4%90%C3%A0i-Loan.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ja/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/ar/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/art/%EB%B3%B4%EC%9D%B4%EC%A7%80%EC%95%8A%EB%8A%94%EA%B5%AD%EA%B0%80",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ko/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/ko/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/ko/economy/taiwan-enterprise-cathay-financial"
-    },
-    {
-      "path": "/vi/economy/Economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ru/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/ru/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/ru/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/economy/tsmc"
-    },
-    {
-      "path": "/people/%EB%A7%88%EC%9E%89%EC%A3%BC",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/hi/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/vi/people/%E9%98%BF%E6%BB%B4.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ko/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/economy/%E5%8F%B0%E7%81%A3%E8%83%BD%E6%BA%90%E8%BD%89%E5%9E%8B%E8%88%87%E7%B6%A0%E8%83%BD%E7%94%A2%E6%A5%AD",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/es/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/vi/music/Hip-hop-rap-%C4%90%C3%A0i-Loan-ph%C3%A1t-tri%E1%BB%83n.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/fr/people/History/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%B7%E5%8F%B2%E8%88%87%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/hi/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/society/%E5%8F%B0%E6%B9%BE%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E3%81%AE%E5%9C%9F%E5%9C%B0%E6%AD%A3%E7%BE%A9%E3%81%A8%E4%BC%9D%E7%B5%B1%E9%A0%98%E5%9F%9F",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/es/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/society/sunflower-movement"
-    },
-    {
-      "path": "/ar/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/society/sunflower-movement"
-    },
-    {
-      "path": "/ko/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/ko/people/Art/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E5%9C%8B%E5%AE%B6.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/es/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/history/taiwan-democratization"
-    },
-    {
-      "path": "/Economy/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/index.bcEdg9Fo.js",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ko/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/sunflower-movement"
-    },
-    {
-      "path": "/vi/art/docs/pipelines/REWRITE-PIPELINE.md",
-      "hits": 4,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ar/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/ar/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/economy/tsmc"
-    },
-    {
-      "path": "/es/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/ar/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/ar/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/id/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 4,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "hi",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
-    },
-    {
-      "path": "/ja/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/vi/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/id/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/economy/tsmc"
-    },
-    {
-      "path": "/ja/technology/taiwan-game-industry/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/id/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/ja/technology/disaster-medical-system/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ar/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/es/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/society/Za_School",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ru/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/culture/%E5%8F%B0%E6%B9%BE%E8%8C%B6%E6%96%87%E5%8C%96",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/economy/Economy/slp-taipei-startup-leadership",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/ja/economy/taiwan-enterprise-cathay-financial"
-    },
-    {
-      "path": "/id/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/en/geography/taiwan-urban-development-and-rural-urban-divide/",
-      "hits": 4,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
-      "suggest": "/en/society/taiwan-urban-development-and-rural-urban-divide"
-    },
-    {
-      "path": "/people/ch%C3%A2u-kh%E1%BA%AFc-l%C3%A2m",
-      "hits": 4,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (HTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petal",
-      "suggest": null
-    },
-    {
-      "path": "/.git/config",
-      "hits": 4,
+      "path": "/%2fs3%2fbucket%2eenv",
+      "hits": 10,
       "family": "scanner",
-      "ua": "",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E5%AE%A2%E5%AE%B6%E9%9F%B3%E6%A5%BD/",
-      "hits": 3,
+      "path": "/%252f%252es3cfg",
+      "hits": 9,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/id/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/id/society/sunflower-movement"
-    },
-    {
-      "path": "/_astro/Layout.B3tQCe_b.css",
-      "hits": 3,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/pt/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/society/sunflower-movement"
-    },
-    {
-      "path": "/vi/music/Tr%C6%B0%C6%A1ng-Hi%E1%BB%81n-v%C3%A0-An-Ph%E1%BB%95.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/id/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 3,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "hi",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
-    },
-    {
-      "path": "/pt/economy/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%A0%94%E8%8F%AF%E7%A7%91%E6%8A%80.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/sitemap_index.xml",
-      "hits": 3,
+      "path": "/%2fapp%2fdocker-compose%2eyml",
+      "hits": 9,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36 (compatible; AhrefsSiteAudit/6.1; +http://ahre",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/ko/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/ja/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/ja/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/assets/Wikimedia%20Commons:%20Taiwan-icon.svg",
-      "hits": 3,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/art/%E5%8F%B0%E6%B9%BE%E7%8F%BE%E4%BB%A3%E6%96%87%E5%AD%A6%E3%81%AE%E7%99%BA%E5%B1%95",
-      "hits": 3,
+      "path": "/%252faws_s3_bucket",
+      "hits": 9,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ko/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/hi/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/economy/tsmc"
-    },
-    {
-      "path": "/ar/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/history/taiwan-democratization"
-    },
-    {
-      "path": "/id/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 3,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": ["zh", "ar", "en", "es", "fr", "ja", "ko", "pt", "ru", "vi"]
-    },
-    {
-      "path": "/fr/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/society/sunflower-movement"
-    },
-    {
-      "path": "/fr/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/economy/tsmc"
-    },
-    {
-      "path": "/ar/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/ja/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/hi/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/history/taiwan-democratization"
-    },
-    {
-      "path": "/ja/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/assets/Wikimedia%20Commons:%20Taiwan_location_map.svg",
-      "hits": 3,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E6%90%96%E6%BB%BE%E6%A5%BD%E7%99%BA%E5%B1%95%E5%8F%B2/",
-      "hits": 3,
+      "path": "/%2F%5Fnext",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/music/%E5%8F%B0%E6%B9%BE%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82/",
-      "hits": 3,
+      "path": "/%2f%2egithub",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/People/%E9%98%BF%E7%A5%9E/",
-      "hits": 3,
+      "path": "/config",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/publications",
-      "hits": 3,
+      "path": "/%252Fblog",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127.0 Safari/537.36 URLAudit/1.0",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ru/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/fr/art/Technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/culture/%E5%8F%B0%E6%B9%BE%E8%8A%B1%E5%B8%83",
-      "hits": 3,
+      "path": "/%2fconfig%2fsettings%2fproduction.py",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/food/%E5%A4%9C%E5%B8%82%E6%96%87%E5%8C%96/%EF%BC%89",
-      "hits": 3,
+      "path": "/%2fcontrol%2f.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/core",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/ko/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/es/economy/Economy/%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/fr/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/technology/digital-id-and-digital-government"
-    },
-    {
-      "path": "/ar/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ar/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/ko/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/ja/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/hi/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "untranslated-demand",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": [
-        "zh",
-        "ar",
-        "en",
-        "es",
-        "fr",
-        "id",
-        "ja",
-        "ko",
-        "pt",
-        "ru",
-        "vi"
-      ]
-    },
-    {
-      "path": "/ja/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/taiwan-semiconductor-industry"
-    },
-    {
-      "path": "/ru/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": "/ru/economy/tsmc"
-    },
-    {
-      "path": "/vi/people/%E5%85%AB%E7%82%AF.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/es/society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/society/taiwan-political-landscape-and-electoral-system"
-    },
-    {
-      "path": "/ja/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/society/sunflower-movement"
-    },
-    {
-      "path": "/es/economy/advantech-technology/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/ru/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/People/%E5%B0%8A/",
-      "hits": 3,
+      "path": "/%2f_next%2fstatic%2fchunks%2fmain.js",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ko/culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96/",
-      "hits": 3,
+      "path": "/wp-blink.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/222.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fconfig",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/hi/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/hi/society/media-and-press-freedom-in-taiwan"
-    },
-    {
-      "path": "/ja/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/ru/lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/lifestyle/taiwan-healthcare-and-national-health-insurance"
-    },
-    {
-      "path": "/vi/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/vi/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/ru/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ru/economy/tsmc"
-    },
-    {
-      "path": "/ko/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
-    },
-    {
-      "path": "/blog",
-      "hits": 3,
+      "path": "/%2f_next%2fimage",
+      "hits": 8,
       "family": "unknown",
-      "ua": "ToolVitals/1.0 (toolvitals.com)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E6%B0%91%E8%AC%A1%E9%81%8B%E5%8B%95/",
-      "hits": 3,
+      "path": "/%2Fapi/swagger.json",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ko/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ko/technology/ptt-bulletin-board-system"
+      "path": "/wp-includes/Requests/library/index.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
     },
     {
-      "path": "/fr/nature/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes"
+      "path": "/%2fbackend%2f.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
     },
     {
-      "path": "/history/%E5%8F%B0%E6%B9%BE%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96",
-      "hits": 3,
+      "path": "/%252faws%252eenv%252ejson",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/fr/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/lifestyle/taiwan-education-system"
-    },
-    {
-      "path": "/ja/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/ja/history/taiwan-democratization"
-    },
-    {
-      "path": "/history/%E5%9C%8B%E5%AE%B6%E4%BA%BAternationally_recognized_museum",
-      "hits": 3,
+      "path": "/%252fform",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/music/%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%E9%9F%B3%E6%A5%BD/",
-      "hits": 3,
+      "path": "/%2f_next%2fdata%2fbuild_id%2findex.json",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/culture/%3Cstrange-chars%3E",
-      "hits": 3,
-      "family": "bad-encoding",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "path": "/%2f.php",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/_astro/Layout.BPDYBEle.css",
-      "hits": 3,
-      "family": "stale-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+      "path": "/%2Fcgi-bin",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/culture/%E5%8F%B0%E6%B9%BE%E3%81%AE%E5%90%8C%E9%9F%B3%E7%95%B0%E7%BE%A9%E3%82%BF%E3%83%96%E3%83%BC%E6%96%87%E5%8C%96",
-      "hits": 3,
+      "path": "/%2findex.php%2fci_environment",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2faws%2eenv",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252felmah%252eaxd",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/fr/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/society/social-movements-and-civic-participation"
-    },
-    {
-      "path": "/vi/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/vi/economy/tsmc"
-    },
-    {
-      "path": "/people/%ED%97%88%EC%9A%B0%EC%83%A4%EC%98%A4%EC%85%B4",
-      "hits": 3,
+      "path": "/%2Froot",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/vi/art/FAB%20DAO%20v%C3%A0%20d%E1%BB%B1%20%C3%A1n%20tr%C4%83m%20%C4%91%E1%BB%89nh",
-      "hits": 3,
+      "path": "/metrics",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (HTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petal",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/ja/economy/taiwan-enterprise-ase-semiconductor"
-    },
-    {
-      "path": "/es/people/History/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E8%87%BA%E7%81%A3%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "path": "/private/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ja/technology/ev-industry/",
-      "hits": 3,
+      "path": "/api/config",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/pt/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/pt/technology/open-source-and-g0v"
-    },
-    {
-      "path": "/fr/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/fr/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/ja/history/indigenous-peoples-history-and-renaming/",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "path": "/server/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/vi/culture/phong-tr%C3%A0o-ph%E1%BB%A5c-h%E1%BB%93i-ng%C3%B4n-ng%E1%BB%AF-b%E1%BA%A3n-%C4%91%E1%BB%8Ba-%C4%91%C3%A0i-loan",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "path": "/staging/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/music/s%C3%A1ng-t%C3%A1c-phim-%E1%BA%A3nh-truy%E1%BB%81n-h%C3%ACnh-%C4%91%C3%A0i-loan",
-      "hits": 3,
+      "path": "/login",
+      "hits": 8,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/selection.DjjwKGwM.js",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "path": "/.docker/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ko/society/encyclopedia-of-taiwan/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "path": "/site/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/history/B%E1%BA%A3o-t%C3%A0ng-Nh%C3%A2n-quy%E1%BB%81n-Qu%E1%BB%91c-gia",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "path": "/cms/.env",
+      "hits": 8,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/ja/society/disaster-volunteers/",
-      "hits": 3,
+      "path": "/fzh",
+      "hits": 7,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "/es/technology/PTT%E6%89%B9%E8%B8%A2%E8%B8%A2/",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
-      "suggest": "/es/technology/ptt-bulletin-board-system"
-    },
-    {
-      "path": "/technology/%E5%8F%B0%E6%B9%BE%E3%82%B2%E3%83%BC%E3%83%A0%E7%94%A3%E6%A5%AD%E8%88%87%E6%95%B8%E4%BD%8D%E5%A8%9B%E6%A8%82",
-      "hits": 3,
+      "path": "/%252f%252egithub%252fworkflows",
+      "hits": 7,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
       "path": "/_astro/Layout.Dtv9EtcH.css",
-      "hits": 3,
+      "hits": 7,
       "family": "stale-asset",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/ja/lifestyle/Taiwan%20Healthcare%20and%20National%20Health%20Insurance/",
-      "hits": 3,
+      "path": "/main.c6d13be3ea6fc9cb.js",
+      "hits": 7,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
       "suggest": null
     },
     {
-      "path": "/ko/society/Society/%E6%96%87%E5%8C%96%E9%83%A8",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/images/wiki/c1fb1b3a4b79.jpg",
-      "hits": 3,
-      "family": "missing-asset",
-      "ua": "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/people/tr%C6%B0%C6%A1ng-v%E1%BA%A1n-an",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/history/TaiwanStraitCrisis",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ja/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/ja/economy/taiwan-enterprise-fubon-financial"
-    },
-    {
-      "path": "/vi/culture/ng%C3%B4n-ng%E1%BB%AF-ngo%E1%BA%A1i-lai-%C4%91%C3%A0i-loan-v%C3%A0-li%C3%AAn-h%E1%BB%87-ng%C3%B4n-ng%E1%BB%AF",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ar/semiont/",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.2; Trident/5.0)",
-      "suggest": null
-    },
-    {
-      "path": "/vi/art/fab-dao-va-du-an-100-dinh-nui",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ja/technology/ai-in-daily-life",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/vi/history/%E4%B9%99%E6%9C%AA%E4%B9%8B%E5%BD%B9",
-      "hits": 3,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (HTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petal",
-      "suggest": "/vi/history/1895-taiwan-resistance-war"
-    },
-    {
-      "path": "/actuator/env",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0",
-      "suggest": null
-    },
-    {
-      "path": "/.git/HEAD",
-      "hits": 3,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/people/Cicera",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (HTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petal",
-      "suggest": null
-    },
-    {
-      "path": "/article-images/people/huang-shan-liao-jinmen1969-gfw-2014.jpg",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_8) AppleWebKit/579.11 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/579.11 Edg/105.0.4657.45",
-      "suggest": null
-    },
-    {
-      "path": "/_astro/Layout.DQNKECPN.css",
-      "hits": 3,
+      "path": "/_astro/Layout.CZMHogxB.css",
+      "hits": 7,
       "family": "stale-asset",
-      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/vi/society/indigenous-land-justice",
-      "hits": 3,
+      "path": "/%2Factuator/beans",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/vi/economy/slp-taipei-startup-leadership-program/%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80%E5%A4%96%E5%9C%8D%E5%95%86%E5%9C%88%E7%94%9F%E6%85%8B.md",
-      "hits": 3,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/ap",
-      "suggest": null
-    },
-    {
-      "path": "/society/poison_potato_cognitive_warfare",
-      "hits": 3,
+      "path": "/fr/_next/data/build_id/index.json",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/society/cognition_warfare",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot) Chrome/119.0.6045.214 Safari/537.",
-      "suggest": null
-    },
-    {
-      "path": "/people/HsuChiao-hsin",
-      "hits": 3,
-      "family": "unknown",
-      "ua": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
-      "suggest": null
-    },
-    {
-      "path": "/fr/reports/research/2026-06/%E7%AC%A0%E8%A9%A9%E7%A4%BE.md",
-      "hits": 2,
-      "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": null
-    },
-    {
-      "path": "/sf.php",
-      "hits": 2,
+      "path": "/.env.remote",
+      "hits": 6,
       "family": "scanner",
-      "ua": "",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
       "suggest": null
     },
     {
-      "path": "/people/B%C3%A1t-%C4%90i%E1%BB%81n-D%E1%BB%AF-Nh%E1%BA%A5t",
-      "hits": 2,
+      "path": "/%2f%2edocker%2fsecrets%2ejson",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/geography/%E9%9B%A2%E5%B3%B6%E3%81%A8%E6%B5%B7%E6%B4%8B%E6%96%87%E5%8C%96",
-      "hits": 2,
+      "path": "/%2findex.js.map",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/nature/taiwans-climate-crisis-and-net-zero-transition",
-      "hits": 2,
+      "path": "/%2fpackage-updates%2fapt%2ecgi",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "//website/wp-includes/wlwmanifest.xml",
-      "hits": 2,
-      "family": "scanner",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
-      "suggest": null
-    },
-    {
-      "path": "/ko/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-      "suggest": "/ko/economy/taiwan-self-media-creator-economy"
-    },
-    {
-      "path": "/geography/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97",
-      "hits": 2,
-      "family": "unknown",
-      "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 (compatible; AionBot/1.0)",
-      "suggest": null
-    },
-    {
-      "path": "/ja/art/People/%E5%BC%B5%E5%BF%A0%E8%AC%80.md",
-      "hits": 2,
+      "path": "/%2f%2egithub%2fpull_request_template.md",
+      "hits": 6,
       "family": "md-extension",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/people/%EC%B0%A8%EC%9D%B4%EB%B0%8D%EB%9F%89",
-      "hits": 2,
+      "path": "/%2f_next%2fserver%2fpages-manifest.json",
+      "hits": 6,
       "family": "unknown",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+      "ua": "curl/8.7.1",
       "suggest": null
     },
     {
-      "path": "/hi/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
-      "hits": 2,
-      "family": "slug-variant",
-      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-      "suggest": "/hi/economy/delta-electronics-taiwan-power-giant"
+      "path": "/%2fforums",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
     },
     {
-      "path": "/132.php",
-      "hits": 2,
+      "path": "/%2fpackage-updates%2fsave%2ecgi",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_astro/Layout.gzASwF8j.css",
+      "hits": 6,
+      "family": "stale-asset",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fdev%2f.env",
+      "hits": 6,
       "family": "scanner",
-      "ua": "",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fproc",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fbeta%252fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egitmodules",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Freadiness",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/2022/phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egit%2f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/rest/owner",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2eaws%2fcredentials",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egit%2flogs%2fhead",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fde%252f_next%252fdata%252fbuild_id%252findex.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fserverless.yaml",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fhealth",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f.git%2fconfig",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fhttpd%252econf",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fruntime.js.map",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_next%252fserver%252fmiddleware-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2edockerenv",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Frest/workflows",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fpanel",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/etc",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/.vercel/output/static/",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fadministrator%252fconfig%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/express/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_profiler/empty/search",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fdebug",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fping",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/v1/phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Finfo",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin/",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252F.travis.yml",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/image",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fja",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/proc",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252eazure%252fconfig",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f~",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fclients%2f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fstripe%252f%252eenv",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/phpinfo",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2flaravel%2f%2eenv",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/__debug__",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/en/society/%E7%BE%A9%E6%B6%88",
+      "hits": 6,
+      "family": "untranslated-demand",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "suggest": ["zh"]
+    },
+    {
+      "path": "/_next/cache/images",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252ftest%252finfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fhealth-check",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fversion",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f:2375%2fcontainers%2fjson",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/prisma/schema.prisma",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapp%2fglobal-error",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/forums/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_next%252fserver%252fedge-runtime.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252egit%252finfo",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/auth/callback",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fsrv%252f%252eenv",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapp%2f%2eenv%2eproduction",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fplayground",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fwp%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fdevelop%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fforum/2025",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F%252fpackage-updates%252finstall%252ecgi",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_next%252fstatic%252fruntime%252fenv.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/elp.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%252fproc%252fself%252fenviron",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fbackups",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/__nextjs_launch-editor",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fcgi-bin%2fphp",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/.vercel/output/functions",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/mysql/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%2F_next/static/chunks/pages",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f__nextjs_action%3fargs%3d",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2eenv%2eproduction",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fadmin%252f",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_next%2fserver%2fapp%2fflight-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/runtime.js.map",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fvar%252ftask%252fpackage%252ejson",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252egit%252fobjects%252fpack",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252egitlab%252fissue_templates",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f.vercel%2foutput%2fconfig.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/aws/bucket",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fgraphiql",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F%3Fphpinfo%3D1",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_next%2fserver%2fedge-chunks%2f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_next%252fcache%252ffetch-cache",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fwordpress%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/storage/logs",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/zh",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fadministrator%2fconfig%2f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fserverless.yml",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/cv.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/api/login",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fprod%2f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252F%255Fnext",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fsource%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fcgi-bin%252fconfig%252eexp",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f__nextjs_error_overlay",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/wp-content/themes/index.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/ww5.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%252f.vercel%252foutput%252fstatic%252f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fapi/graphql",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/server/next-font-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/preview",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_next%2fstatic%2fruntime%2fmain.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F.serverless",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fit",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fapp_dev.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/aws%252eyml",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_vercel%252ffunctions%252f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapi%2fsettings",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2ewell-known%2facme-challenge%2f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/beta/phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/en/people/%E5%85%AD%E6%8C%87%E6%B7%B5",
+      "hits": 6,
+      "family": "untranslated-demand",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "suggest": ["zh"]
+    },
+    {
+      "path": "/%2fback%2fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fconfig%252finitializers%252ftwilio.rb",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2frest%2fnode-types",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fsite%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F%62ackend",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/bolt.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/pages",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fapi%252fv1%252fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fs3%252fbucket",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/-/item/v1/",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252finfo%252fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fexported%2fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fapp%252fapi%252froute",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252efirebaserc",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2finc%2fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2famplify/team-provider-info.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%3fphpinfo%3d1",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/home/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fweb%252fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/admin.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/api/v2/phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egit%2fpacked-refs",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fconsole%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f2020%252fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fs3%252f%252eenv%252ebak",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapi%2fdisable-preview",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/static/runtime/env.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252findex.php%3fdo%3dphpinfo",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fweb%252finfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/v1.24/secrets",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fvar%252ftask%252fnuxt%252econfig%252ets",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2ftesting",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%25252Fconfig",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/rip.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252eamplifyrc",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/(group)/layout",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fopt%252fmailcow-dockerized%252fmailcow%252econf",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/api/v1/namespaces/default/secrets",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fapi%252frevalidate",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252frest%252fvariables",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fi.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fadmin%2finfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fblog/2020",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/artikel/2021",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F2026",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/app/.environment",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fadministrator",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F%2E%67%69%74",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egit%2ffetch_head",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/:2375/containers/json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f.vercel/output/static",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fphpinfo%252ftest.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fapi%252f%252eenv",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fetc%2fboto%2ecfg",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/sql/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f.next%252fserver%252fapp%252f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fout%252f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/server/",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapi/openapi.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fadministrator%252fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fpackage-updates%2fupdate%2ecgi",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fpackage-updates",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_next%252fdata%252f",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F_fragment",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%3a2375%252fcontainers%252fjson",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fcore",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2F.vercel/output/functions",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/blog/wp-login.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fcloud",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252ecache",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/static/*.map",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fproduction%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fnl",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/static/development/build-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup/phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252egit%252fhead",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f_next%252fserver%252fapp%252floadable-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapp%2ferror",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapp%2fnetlify%2etoml",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252egithub%252fissue_template",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/artikel/2023",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f__nextjs_action%3fpath%3d",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/server-info.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fs3%2fbucket",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_next%2froutes-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backup",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/en/people/Cheap",
+      "hits": 6,
+      "family": "untranslated-demand",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "suggest": ["zh"]
+    },
+    {
+      "path": "/conf.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Fblog/2023",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fblog%2fphpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/backend",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapi%2fpreview",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapp%2f(..)",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_next%2ftrace",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f_phpinfo.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/vue/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%252fpublic%252f.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/playground",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egitlab%2fmerge_request_templates",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fblog/2025",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2Frest/login",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fconfig%252fdatabase.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252f%252egit%252fconfig",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/info/info.php",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/en/food/%E5%A4%A7%E6%BA%AA%E8%B1%86%E4%B9%BE",
+      "hits": 6,
+      "family": "untranslated-demand",
+      "ua": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+      "suggest": ["zh"]
+    },
+    {
+      "path": "/%252F.aws/config",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252fapp%252f%28..%29%252fpage",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2fartikel/2020",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/static/chunks/env.js",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%2f%2egitlab",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/_next/server/app/server-reference-manifest.json",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/postgres/.env",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "suggest": null
+    },
+    {
+      "path": "/%2fapi%2f%2eenv",
+      "hits": 6,
+      "family": "scanner",
+      "ua": "curl/8.7.1",
+      "suggest": null
+    },
+    {
+      "path": "/%252Fstaging",
+      "hits": 6,
+      "family": "unknown",
+      "ua": "curl/8.7.1",
       "suggest": null
     }
   ],
