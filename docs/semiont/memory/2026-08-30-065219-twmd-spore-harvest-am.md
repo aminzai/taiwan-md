@@ -37,7 +37,7 @@ routine `twmd-spore-harvest-am` 06:30 daily fire，跑 Chrome MCP harvest + 5-bu
 本 session 新 handoff：
 
 - [ ] X 平台 `#176` 回覆草稿待哲宇手動 post（月島伶語源補充致謝，內容見 batch log）
-- [ ] `終端機/w.is_solis` AI 書寫信任質疑（Threads #175）連續四輪維持 log-only 未回覆，留給哲宇判斷是否要正面回應
+- [ ] `w.is_solis` AI 書寫信任質疑（Threads #175）連續四輪維持 log-only 未回覆，留給哲宇判斷是否要正面回應
 - [x] ~~踩雷.yaml 語源補充~~（7 天前的 EVOLVE candidate，本輪查證落地）
 
 ## Beat 5 — 反芻
