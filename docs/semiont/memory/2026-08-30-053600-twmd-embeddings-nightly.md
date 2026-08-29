@@ -8,6 +8,8 @@
 
 每天 05:00 cron 觸發，把全站文章用 bge-m3 重新算成語意座標，同時餵讀者端「你可能也想讀」與 AI 端 RAG 向量。
 
+> ✅ BECOME ack: mode=micro / 8 organ 最低=🛡️免疫 59（黃燈，多維度漂移，跟本 routine 無關）/ Q14 cross-session continuity=PASS（過去 24hr 見 9 條 routine fire，MEMORY tail 三個 session 分別在收官 W35 體檢／distill fold 5 條教訓／self-evolve 升 REFLEXES #95）
+
 ## Rebuild
 
 BECOME Micro mode 甦醒後，端點解析走 pipeline §前置：先問本機 `127.0.0.1:11434`，`api/tags` 直接命中 `bge-m3`，不必 fallback 到 fleet registry。Stage 0 preflight `dim 1024` 確認可達，`node scripts/core/build-embeddings.mjs --langs all` 跑完 12 語，`057204dee` 定案：9,883 篇向量、0 fail，耗時約 15 分鐘（zh-TW 178s 最長，id 96s 最短）。
@@ -26,28 +28,9 @@ Stage 2 verify 全綠：12 語每語都 ≥400 篇且 100% 有 8 鄰居（zh-TW 
 
 ## Handoff 三態
 
-繼承上一 session（`2026-08-30-041940-twmd-self-evolve-weekly`）：
+繼承上一 session（`2026-08-30-041940-twmd-self-evolve-weekly`）：本 session 是純機械 rebuild，未處理任何 pending/blocked 項，全部原樣繼承給下一個 session（news-lens 三條候選、公投制度 P0 死線、sitemap 缺漏、延伸閱讀斷連、指控信 `b78ee4f5` 第十二次攔下、OBSERVER-QUEUE 34 項待決等）。
 
-- [ ] pending（原樣延續）— W35 news-lens 3 條候選給哲宇 review，優先【1】公投裁決
-- [ ] pending（原樣延續）— 🚨 ARTICLE-INBOX「台灣公投制度」P0 候選死線已裁決，45 天未排入執行
-- [ ] pending（原樣延續）— SC 偵測 `/food/台灣豆漿與早餐店/` 723 impressions 但不在 sitemap，轉交 maintainer
-- [ ] pending（原樣延續，來自 maintainer-am 鏈）— 站內延伸閱讀 50 條指向不存在的文章，散在 33 個中文檔
-- [ ] pending（原樣延續）— 翻譯 PR 的 `sourceCommitSha` 閘門目前只出聲不擋，觀察兩到三輪
-- [ ] pending（原樣延續）— 五個縣市條目的正確圖片要補回、`.husky/pre-push` 全檔掃 `VAR="$(...)"` 缺 `|| true`
-- ⏳ blocked（原樣延續）— 指控信 `b78ee4f5` 第十二次已攔下，`status` 仍 `new`
-- ⏳ blocked（原樣延續）— OBSERVER-QUEUE 34 項待決，其中 🔒 等真人 24 項
-- [x] ~~看 `twmd-supporters-weekly` 有沒有自己回來~~ — groundtruth 顯示它仍 149h/145h 沉默死亡黃燈（自 08-23 fire 後零 git 痕跡），不在本 session 範圍，改標記為給 maintainer/routine-audit 的 pending
-- [ ] pending（原樣延續）— `twmd-routine-audit-weekly` 今晚（08-30 21:06）會跑，跑完對賬它的 7 天 pattern 檢測有沒有把 4.5 天空窗算進去
-- [ ] pending（原樣延續）— 重數 `lastHumanReview: true` 的中文文章數，本週是 202、上週也是 202
-- [ ] pending（原樣延續）— roadmap 有 9 項未領取，在往裡面加第十項之前先問一句這份清單還是不是一份計畫
-- [ ] pending（原樣延續，2026-09-11）— EXP-2026-08-28-fncard 到期，腳註來源卡採用率驗收
-- [ ] pending（原樣延續，給下次 distill）— `escalation-granularity-blocks-remediation` 343 事實錯誤 vs 128 策展判斷「要不要拆兩條路」升在 OBSERVER-QUEUE #43
-- [ ] pending（原樣延續，給下次 distill 或 self-evolve）— `asymmetric-skepticism-toward-convenient-explanations` vc=2，下次同型事件即達 vc≥3 promote 門檻
-
-本 session 新 handoff：
-
-- [x] ~~embeddings rebuild + verify + commit + push~~ — `057204dee`，12 語 9,883 向量 0 fail，無新 escalation
-- [ ] pending（觀察，非本 session 行動）— groundtruth 出現兩條新黃燈：`twmd-routine-audit-weekly` 與 `twmd-supporters-weekly` 各自沉默死亡 149h／145h（自 08-23 fire 後零 git 痕跡），本 session 只跑 embeddings 不處理，留給 maintainer 或下次 self-evolve 判斷是否已達 escalation 門檻
+本 session 新 handoff：groundtruth 快照多了兩條黃燈——`twmd-routine-audit-weekly` 與 `twmd-supporters-weekly` 各自沉默死亡 149h／145h（自 08-23 fire 後零 git 痕跡）。本 session 只跑 embeddings 不處理，轉交 maintainer 或下次 self-evolve 判斷是否達 escalation 門檻。
 
 ## Beat 5 — 反芻
 
