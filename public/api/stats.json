@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10064,
+  "totalArticles": 10073,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7144,
+  "totalTags": 7142,
   "categories": [
     {
       "name": "es",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 885
+      "count": 891
     },
     {
       "name": "ja",
@@ -30,7 +30,7 @@
     },
     {
       "name": "hi",
-      "count": 670
+      "count": 671
     },
     {
       "name": "ru",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 590
+      "count": 591
     },
     {
       "name": "ar",
-      "count": 754
+      "count": 755
     },
     {
       "name": "Politics",
@@ -135,15 +135,15 @@
       "count": 32
     },
     {
-      "name": "文學",
-      "count": 30
-    },
-    {
       "name": "民主化",
       "count": 29
     },
     {
       "name": "ODM",
+      "count": 29
+    },
+    {
+      "name": "文學",
       "count": 29
     },
     {
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10064,
+    "zh-TW": 10073,
     "en": 0
   },
-  "lastUpdated": "2026-08-28T22:12:58.935Z",
-  "stars": 1158,
+  "lastUpdated": "2026-08-29T22:12:08.260Z",
+  "stars": 1160,
   "forks": 182,
   "zhPages": 1115,
   "languagePages": {
     "zh-TW": 1115,
-    "en": 885,
+    "en": 891,
     "ja": 886,
     "ko": 885,
     "es": 883,
     "fr": 884,
     "vi": 800,
-    "id": 590,
+    "id": 591,
     "pt": 848,
-    "hi": 670,
-    "ar": 754,
+    "hi": 671,
+    "ar": 755,
     "ru": 786
   },
-  "enPages": 885,
+  "enPages": 891,
   "totalPages": 1115
 }

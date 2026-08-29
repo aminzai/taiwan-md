@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-29 06:13
+last_generated: 2026-08-30 06:12
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-29 06:13** · 頂層 \*.md 共 **271** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-30 06:12** · 頂層 \*.md 共 **271** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -22,15 +22,15 @@ type: auto-index
 | `editorial-room/`       |    93 | 749.2 KB | —                                                    |
 | `article-evolve/`       |    37 | 1.4 MB   | —                                                    |
 | `article-projection/`   |    34 | 624.7 KB | —                                                    |
-| `weekly/`               |    32 | 6.4 MB   | Self-evolve weekly digest                            |
+| `weekly/`               |    34 | 6.6 MB   | Self-evolve weekly digest                            |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `routine-prompt-drift/` |    23 | 56.6 KB  | —                                                    |
 | `maintainer/`           |    16 | 308.9 KB | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel/`                |     8 | 8.2 MB   | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
+| `news-lens/`            |     8 | 171.2 KB | —                                                    |
 | `babel-quarantine/`     |     7 | 268.0 KB | —                                                    |
-| `news-lens/`            |     7 | 146.2 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
@@ -38,11 +38,11 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 135.7 KB | —                                                    |
+| `404-monitor/`          |     2 | 107.2 KB | —                                                    |
 | `article-staging/`      |     2 | 104.9 KB | —                                                    |
 | `fork-census/`          |     2 | 39.3 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`             |     2 | 104.1 KB | —                                                    |
+| `newsroom/`             |     2 | 104.2 KB | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`        |     1 | 52.5 KB  | —                                                    |
 | `terminology-trends/`   |     1 | 18.3 KB  | —                                                    |

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T22:13:14.143Z",
+  "lastUpdated": "2026-08-29T22:12:23.646Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 74,
-        "articlesLast30Days": 273,
+        "articlesLast7Days": 48,
+        "articlesLast30Days": 271,
         "totalArticles": 1115
       }
     },
@@ -83,7 +83,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 20,
+        "recentContributors": 18,
         "recentSpores": 7,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239295,
@@ -114,16 +114,16 @@
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1115,
-          "en": 883,
+          "en": 889,
           "ja": 884,
           "ko": 883,
           "es": 881,
           "fr": 882,
           "vi": 798,
-          "id": 589,
+          "id": 590,
           "pt": 846,
-          "hi": 668,
-          "ar": 752,
+          "hi": 669,
+          "ar": 753,
           "ru": 784,
           "de": 76
         },
@@ -144,8 +144,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 883,
-              "pct": 79
+              "count": 889,
+              "pct": 80
             },
             "score": 92
           },
@@ -264,7 +264,7 @@
               "pct": 108
             },
             "articles": {
-              "count": 589,
+              "count": 590,
               "pct": 53
             },
             "score": 83
@@ -304,7 +304,7 @@
               "pct": 108
             },
             "articles": {
-              "count": 668,
+              "count": 669,
               "pct": 60
             },
             "score": 86
@@ -324,8 +324,8 @@
               "pct": 0
             },
             "articles": {
-              "count": 752,
-              "pct": 67
+              "count": 753,
+              "pct": 68
             },
             "score": 67
           },

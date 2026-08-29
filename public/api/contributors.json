@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T22:13:00.038Z",
+  "lastUpdated": "2026-08-29T22:12:09.380Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 8779,
+      "commits": 8816,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-29 05:39:30 +0800",
+      "lastCommitAt": "2026-08-30 05:40:35 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1583,
-        "system": 4707,
-        "translation": 1964
+        "content": 1585,
+        "system": 4730,
+        "translation": 1966
       }
     },
     {
@@ -35,16 +35,16 @@
     },
     {
       "login": "tboydar",
-      "commits": 60,
+      "commits": 69,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-27 15:57:55 +0800",
+      "lastCommitAt": "2026-08-29 05:15:32 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 58
+        "translation": 67
       }
     },
     {
@@ -118,10 +118,10 @@
       }
     },
     {
-      "login": "ellenlee",
-      "commits": 17,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
-      "profileUrl": "https://github.com/ellenlee",
+      "login": "aminzai",
+      "commits": 19,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
       "lastCommitAt": null,
       "primaryArea": "other",
@@ -132,10 +132,10 @@
       }
     },
     {
-      "login": "aminzai",
-      "commits": 16,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
+      "login": "ellenlee",
+      "commits": 17,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
+      "profileUrl": "https://github.com/ellenlee",
       "firstCommitAt": null,
       "lastCommitAt": null,
       "primaryArea": "other",
@@ -344,18 +344,18 @@
       "types": ["💻", "🖋️", "🤔", "🌍", "👀", "🐛", "🔧", "📖"]
     },
     {
-      "login": "ellenlee",
-      "name": "Ellen Lee",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
-      "profileUrl": "https://github.com/ellenlee",
-      "types": ["💻", "🖋️", "🌍"]
-    },
-    {
       "login": "aminzai",
       "name": "aminzai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "types": ["💻"]
+    },
+    {
+      "login": "ellenlee",
+      "name": "Ellen Lee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
+      "profileUrl": "https://github.com/ellenlee",
+      "types": ["💻", "🖋️", "🌍"]
     },
     {
       "login": "stantheman0128",
@@ -888,16 +888,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 8779,
+      "commits": 8816,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-29 05:39:30 +0800",
+      "lastCommitAt": "2026-08-30 05:40:35 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1583,
-        "system": 4707,
-        "translation": 1964
+        "content": 1585,
+        "system": 4730,
+        "translation": 1966
       }
     },
     {
@@ -960,16 +960,16 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 60,
+      "commits": 69,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-27 15:57:55 +0800",
+      "lastCommitAt": "2026-08-29 05:15:32 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 58
+        "translation": 67
       }
     },
     {

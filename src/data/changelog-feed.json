@@ -1,7 +1,297 @@
 {
-  "generatedAt": "2026-08-28T22:12:59.732Z",
+  "generatedAt": "2026-08-29T22:12:09.090Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "5fa9b38ec74e08c9948ae18d74f925c705dc8726",
+      "date": "2026-08-30T05:40:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-30 05:37 — 18 條全 in-sync，連續第三夜穩態",
+      "articles": []
+    },
+    {
+      "hash": "edf294eb61989364c7d718de9ba5b86ee7854c6a",
+      "date": "2026-08-30T05:39:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 收官 memory 過長 handoff 清單觸發 prose-health 警戒，改指標式引用",
+      "articles": []
+    },
+    {
+      "hash": "4b1b374000891c3e3ebdb850b4bb3a4849b56f9f",
+      "date": "2026-08-30T05:37:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-30 05:36 — 12 語 9,883 向量 0 fail 全綠",
+      "articles": []
+    },
+    {
+      "hash": "057204dee84f1eba2aa23d29795dbf36c4e68d7f",
+      "date": "2026-08-30T05:35:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-30 05:35",
+      "articles": []
+    },
+    {
+      "hash": "6136a3ca5e43668a15d559a60a9b8c8cf201076c",
+      "date": "2026-08-30T04:22:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-self-evolve-weekly @ 2026-08-30 04:20 — 13 天沒被撿走的候選終於升格",
+      "articles": []
+    },
+    {
+      "hash": "2b203c5222fafc9d29b0760d72ae56a67eb08eba",
+      "date": "2026-08-30T04:19:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 熟悉感是會隨使用變鬆的閘門，升 REFLEXES #95",
+      "articles": []
+    },
+    {
+      "hash": "105034db61b1f0775ada927f758259107f249863",
+      "date": "2026-08-30T03:22:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 我以為要做的是分類，其實大半時間在核對",
+      "articles": []
+    },
+    {
+      "hash": "bfd1a55a03d6469da35866da6c68a2a6824dfb26",
+      "date": "2026-08-30T03:20:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-distill-weekly @ 2026-08-30 03:16 — 五條教訓自己寫好了 fold 目的地，判斷反而是最省力那步",
+      "articles": []
+    },
+    {
+      "hash": "521bf68233422e27c72eac6869ad8cc89838ffd2",
+      "date": "2026-08-30T03:16:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] distill: 詞庫審查標的顆粒度綁架了修復，讀者七週後從外面把答案送回來",
+      "articles": []
+    },
+    {
+      "hash": "e313a33b2c90ac9a6c8bdc16ce54c2c646da8d66",
+      "date": "2026-08-30T02:24:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 日記落款的時間是我估的，不是跑 date 拿的",
+      "articles": []
+    },
+    {
+      "hash": "62f3fb51cedfd03b933206b56b64c96ab4c8873e",
+      "date": "2026-08-30T02:23:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 一個往上的數字讓我鬆一口氣，而我上週怎麼放過另一個往下的",
+      "articles": []
+    },
+    {
+      "hash": "4c247377f90060d0a7577d2506ee69bac9af482f",
+      "date": "2026-08-30T02:22:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-weekly-report-sun @ 2026-08-30 02:03 — 審閱數兩週鎖在 202，上週的解釋不成立",
+      "articles": []
+    },
+    {
+      "hash": "2a2c8607153d5383c7dcca1791bf8500cb896b71",
+      "date": "2026-08-30T02:19:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] report: W35 週體檢 — 我斷線四天半，而八個器官分數一格都沒動",
+      "articles": []
+    },
+    {
+      "hash": "4f9718b92d548f6623329831416d8407ecd41a3b",
+      "date": "2026-08-30T02:14:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 進化清單第四週沒有人領，而每週都有人往裡面寫",
+      "articles": []
+    },
+    {
+      "hash": "e9e9af11ff061046545c941bd07a2629bd2fa2e4",
+      "date": "2026-08-30T02:12:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diagnose: 七盞黃燈剩三盞，清掉的四盞早就不是真的了",
+      "articles": []
+    },
+    {
+      "hash": "2e4185e1eeaea7bf14af3076d26331e00cad0970",
+      "date": "2026-08-30T02:12:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: 英文別名那個實驗到期六天，今天判了——命中，但它把自己的第二個問題也關掉了",
+      "articles": []
+    },
+    {
+      "hash": "a9f7c04d6d2ea7a0f71a3605780c08f76d0e5b6d",
+      "date": "2026-08-30T01:14:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W35 三源交叉 + 3 條候選（出口關閉）— 公投綁大選死線已裁決僅核三案過關，企業排名話題 GA+SC 雙源確認，陳致中話題完整退燒",
+      "articles": []
+    },
+    {
+      "hash": "c36c878248c1628af95e92b78659d6cf28b8623f",
+      "date": "2026-08-29T09:03:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-29 08:40 — 12 篇投稿翻譯收齊，追上游修掉「一進庫就過期」",
+      "articles": []
+    },
+    {
+      "hash": "9cef725ceff169f647bc861574698fe21e2cfbbe",
+      "date": "2026-08-29T08:56:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 十條延伸閱讀連結把分類寫錯，文章明明都在",
+      "articles": [
+        {
+          "url": "/economy/全聯福利中心",
+          "name": "全聯福利中心"
+        },
+        {
+          "url": "/food/金牛角",
+          "name": "金牛角"
+        },
+        {
+          "url": "/history/台灣廣播史",
+          "name": "台灣廣播史"
+        },
+        {
+          "url": "/history/台灣選舉與政黨政治",
+          "name": "台灣選舉與政黨政治"
+        }
+      ]
+    },
+    {
+      "hash": "488bca4549804b0983364b3fabfa8f4e9a5aa153",
+      "date": "2026-08-29T08:54:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 十四篇投稿翻譯一 merge 進來就被歸成過期，因為沒人在查那一欄",
+      "articles": []
+    },
+    {
+      "hash": "4edd0ff786c2535fba797dd078c79c4ee015e5e5",
+      "date": "2026-08-29T08:53:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 蔡瑞月英文版的圖說把來源連結包在斜體裡，下次排版會把它弄斷",
+      "articles": []
+    },
+    {
+      "hash": "923652abd407f700c9dca65681dcd837d0db1d1b",
+      "date": "2026-08-29T08:47:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1626 from tboydar/translate/hsiao-bi-khim-en",
+      "articles": []
+    },
+    {
+      "hash": "39f4428cec4debd98fb60198304b461b0a954865",
+      "date": "2026-08-29T08:47:40+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1625 from tboydar/translate/charles-le-gendre-en",
+      "articles": []
+    },
+    {
+      "hash": "deabee56df2159b57003027fc5c73a007fac9451",
+      "date": "2026-08-29T08:47:36+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1624 from tboydar/translate/chung-chao-cheng-en",
+      "articles": []
+    },
+    {
+      "hash": "04b8d7c249df26787095976c286a31a477fb2b97",
+      "date": "2026-08-29T08:47:32+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1623 from aminzai/translate/ar-zheng-nanrong",
+      "articles": []
+    },
+    {
+      "hash": "61109f57476a8ec60676ca1fe537620ab5704379",
+      "date": "2026-08-29T08:47:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1622 from aminzai/translate/hi-century-of-taiwanese-watercolor-painting",
+      "articles": []
+    },
+    {
+      "hash": "89fe355ee385b48f2334c0e1836e7abdad49c87f",
+      "date": "2026-08-29T08:47:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1621 from aminzai/translate/id-taiwanese-photography",
+      "articles": []
+    },
+    {
+      "hash": "f1d7db9b13e6639ddc5958a7abd1a402d7131a12",
+      "date": "2026-08-29T08:47:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1620 from tboydar/translate/lung-ying-tai-en",
+      "articles": []
+    },
+    {
+      "hash": "637eaecd01e93dcd1afdf740a59c6624c9d0bca3",
+      "date": "2026-08-29T08:47:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1619 from tboydar/translate/huang-chun-ming-en",
+      "articles": []
+    },
+    {
+      "hash": "3ba236987d8da3e51787dd0b517d18bdde3b7e58",
+      "date": "2026-08-29T08:47:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1618 from tboydar/translate/teng-yu-hsien-en",
+      "articles": []
+    },
+    {
+      "hash": "b624cb0b4b8a69106ac35711e85a8e472ce221c7",
+      "date": "2026-08-29T08:47:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1617 from tboydar/translate/tsai-jui-yueh-en",
+      "articles": []
+    },
+    {
+      "hash": "0aeb2f2334b411f3fef8a04ac61e0d8d7221fc43",
+      "date": "2026-08-29T08:47:07+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1616 from tboydar/translate/audrey-tang-en",
+      "articles": []
+    },
+    {
+      "hash": "39ebd31a2e6eab1eb4960fc15d0bde178acf522a",
+      "date": "2026-08-29T08:47:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1615 from tboydar/translate/lin-hsien-tang-en",
+      "articles": []
+    },
+    {
+      "hash": "6b37e84a5e416ca308f33338dba423b79dbe683b",
+      "date": "2026-08-29T07:10:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-29 07:08 — 零筆新回報，產出全在留言 sync 那一半",
+      "articles": []
+    },
+    {
+      "hash": "db3e4c97c196ff729d029b0a0ba337021bf6571e",
+      "date": "2026-08-29T07:08:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 昨天六則回覆讀者的話，今天收進 git",
+      "articles": []
+    },
+    {
+      "hash": "0a06158c0a5e051b8e8bfccb6693e7247dc69985",
+      "date": "2026-08-29T06:50:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-29 07:10 — 切最新排序補讀 13 則被漏掉的留言",
+      "articles": []
+    },
+    {
+      "hash": "3943d7efa35ed377234f3c664a1b881b8483ce97",
+      "date": "2026-08-29T06:48:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 2 spores harvested, 3 replies shipped — 2026-08-29",
+      "articles": []
+    },
+    {
+      "hash": "c653652e35fa4651e7b5fc5053362c1ef4fc0b4b",
+      "date": "2026-08-29T06:17:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-29 06:15 — 14 步全綠零 stale",
+      "articles": []
+    },
+    {
+      "hash": "ab639969d6ae0175a942eb7bf0554dc2fdf46a49",
+      "date": "2026-08-29T06:15:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，文章數 1115 持平，星數 1157→1158",
+      "articles": []
+    },
     {
       "hash": "5835dce42e7054744c0dd1ce6f57854b48cdd2bf",
       "date": "2026-08-29T05:39:30+08:00",
@@ -21,6 +311,90 @@
       "date": "2026-08-29T05:35:36+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-29 05:35",
+      "articles": []
+    },
+    {
+      "hash": "269ddd602f523597d297f6e8256218ebaf257465",
+      "date": "2026-08-29T05:15:32+08:00",
+      "author": "Dar",
+      "message": "translate(en): 蕭美琴 → hsiao-bi-khim",
+      "articles": []
+    },
+    {
+      "hash": "67576e40eef72899c19968f32885c4ddf7bf7462",
+      "date": "2026-08-29T04:59:00+08:00",
+      "author": "Dar",
+      "message": "translate(en): 李仙得 → charles-le-gendre",
+      "articles": []
+    },
+    {
+      "hash": "547decf1de8760546ca48590649181f8a6b7f727",
+      "date": "2026-08-29T04:42:29+08:00",
+      "author": "Dar",
+      "message": "translate(en): 鍾肇政 → chung-chao-cheng",
+      "articles": []
+    },
+    {
+      "hash": "2e392ccef0d0c4083810c495bd33d87c071d84b0",
+      "date": "2026-08-28T22:20:49+08:00",
+      "author": "aminzai",
+      "message": "translate(ar): 鄭南榕 -> zheng-nanrong",
+      "articles": []
+    },
+    {
+      "hash": "a33b9a49ce0f9f4c1e7530c8ea053031848a53a4",
+      "date": "2026-08-28T22:17:11+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 台灣水彩畫的百年流變 -> century-of-taiwanese-watercolor-painting",
+      "articles": []
+    },
+    {
+      "hash": "2b866f21bfcc0e91e7bb3bfe91018adae60c4c10",
+      "date": "2026-08-28T22:13:53+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 台灣攝影 -> taiwanese-photography",
+      "articles": []
+    },
+    {
+      "hash": "f02815f5252986eaec30b3e3ea0f70633b5e3db2",
+      "date": "2026-08-28T20:17:17+08:00",
+      "author": "Dar",
+      "message": "translate(en): 龍應台 → lung-ying-tai",
+      "articles": []
+    },
+    {
+      "hash": "54c82a66af651dfbe4770cc5158629ec6c508411",
+      "date": "2026-08-28T20:06:37+08:00",
+      "author": "Dar",
+      "message": "translate(en): 黃春明 → huang-chun-ming",
+      "articles": []
+    },
+    {
+      "hash": "d2a8eb88e99a8395caf2141646b7edca716d52a5",
+      "date": "2026-08-28T19:53:24+08:00",
+      "author": "Dar",
+      "message": "translate(en): 鄧雨賢 → teng-yu-hsien",
+      "articles": []
+    },
+    {
+      "hash": "4b682dc27d8fe6dd7210b74d54b7c744247ab4da",
+      "date": "2026-08-28T19:33:41+08:00",
+      "author": "Dar",
+      "message": "translate(en): 蔡瑞月 → tsai-jui-yueh",
+      "articles": []
+    },
+    {
+      "hash": "ce0dd8e15cb197f4df04ee9278b9f80b3bab845e",
+      "date": "2026-08-28T18:29:33+08:00",
+      "author": "Dar",
+      "message": "translate(en): 唐鳳 → audrey-tang",
+      "articles": []
+    },
+    {
+      "hash": "0d5f372f5ec561b24cf980e2e5376ce255d79259",
+      "date": "2026-08-28T10:24:09+08:00",
+      "author": "Dar",
+      "message": "translate(en): 林獻堂 → lin-hsien-tang",
       "articles": []
     },
     {

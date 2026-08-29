@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-29T08:51:09+08:00",
-    "zhCommitHead": "923652abd",
+    "lastUpdated": "2026-08-30T06:12:02+08:00",
+    "zhCommitHead": "5fa9b38ec",
     "totalZh": 1117,
     "activeLanguages": [
       "en",
@@ -20,89 +20,89 @@
     "summary": {
       "en": {
         "total_zh": 1117,
-        "fresh": 815,
-        "stale": 57,
-        "metadata_stale": 12,
+        "fresh": 809,
+        "stale": 59,
+        "metadata_stale": 16,
         "missing": 233,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1117,
-        "fresh": 821,
-        "stale": 51,
-        "metadata_stale": 14,
+        "fresh": 815,
+        "stale": 53,
+        "metadata_stale": 18,
         "missing": 231,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1117,
-        "fresh": 824,
-        "stale": 49,
-        "metadata_stale": 12,
+        "fresh": 818,
+        "stale": 51,
+        "metadata_stale": 16,
         "missing": 232,
         "orphan": 0
       },
       "es": {
         "total_zh": 1117,
-        "fresh": 816,
-        "stale": 54,
-        "metadata_stale": 13,
+        "fresh": 810,
+        "stale": 56,
+        "metadata_stale": 17,
         "missing": 234,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1117,
-        "fresh": 817,
-        "stale": 55,
-        "metadata_stale": 12,
+        "fresh": 811,
+        "stale": 57,
+        "metadata_stale": 16,
         "missing": 233,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1117,
-        "fresh": 666,
-        "stale": 60,
-        "metadata_stale": 73,
+        "fresh": 660,
+        "stale": 62,
+        "metadata_stale": 77,
         "missing": 318,
         "orphan": 0
       },
       "id": {
         "total_zh": 1117,
-        "fresh": 555,
-        "stale": 29,
-        "metadata_stale": 7,
+        "fresh": 550,
+        "stale": 31,
+        "metadata_stale": 10,
         "missing": 526,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1117,
-        "fresh": 795,
-        "stale": 44,
-        "metadata_stale": 9,
+        "fresh": 789,
+        "stale": 47,
+        "metadata_stale": 12,
         "missing": 269,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1117,
-        "fresh": 638,
-        "stale": 24,
-        "metadata_stale": 9,
+        "fresh": 634,
+        "stale": 26,
+        "metadata_stale": 11,
         "missing": 446,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1117,
-        "fresh": 716,
-        "stale": 31,
-        "metadata_stale": 8,
+        "fresh": 710,
+        "stale": 33,
+        "metadata_stale": 12,
         "missing": 362,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1117,
-        "fresh": 747,
-        "stale": 31,
-        "metadata_stale": 8,
+        "fresh": 742,
+        "stale": 33,
+        "metadata_stale": 11,
         "missing": 331,
         "orphan": 0
       },
@@ -7569,9 +7569,9 @@
     },
     "Economy/全聯福利中心.md": {
       "zh": {
-        "lastCommit": "50617dc1",
-        "lastModified": "2026-07-13T10:17:17+08:00",
-        "contentHash": "sha256:25424dad4bf389f3",
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:c37f91b3cbc851f7",
         "bodyHash": "sha256:cf4e3b7d187326d2"
       },
       "translations": {
@@ -7586,8 +7586,10 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Economy/pxmart-supermarket.md",
@@ -7600,8 +7602,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",
@@ -7614,8 +7618,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Economy/pxmart-supermarket.md",
@@ -7628,8 +7634,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Economy/pxmart-supermarket.md",
@@ -7642,8 +7650,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Economy/pxmart-supermarket.md",
@@ -7656,8 +7666,10 @@
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Economy/pxmart-supermarket.md",
@@ -7670,8 +7682,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Economy/pxmart-supermarket.md",
@@ -7684,8 +7698,10 @@
           "translationLastModified": "2026-07-28T07:46:26+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Economy/pxmart-supermarket.md",
@@ -7698,8 +7714,10 @@
           "translationLastModified": "2026-07-28T10:09:39+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Economy/pxmart-supermarket.md",
@@ -7712,8 +7730,10 @@
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Economy/pxmart-supermarket.md",
@@ -7726,8 +7746,10 @@
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -11067,8 +11089,8 @@
           "sourceContentHash": "sha256:9985c51170111ca8",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-23T08:47:33+08:00",
-          "translationLastCommit": "998b8bdb",
-          "translationLastModified": "2026-08-23T08:47:33+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -19007,8 +19029,8 @@
           "sourceContentHash": "sha256:27a0271b143d3da5",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-23T08:47:33+08:00",
-          "translationLastCommit": "998b8bdb",
-          "translationLastModified": "2026-08-23T08:47:33+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "status": "fresh",
@@ -25454,10 +25476,10 @@
     },
     "Technology/台灣機器人產業.md": {
       "zh": {
-        "lastCommit": "38412654",
-        "lastModified": "2026-06-01T13:53:41+08:00",
-        "contentHash": "sha256:727c897f10782c2b",
-        "bodyHash": "sha256:3b63599a42d7872a"
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:4702dd502f640592",
+        "bodyHash": "sha256:2025d0771f75493c"
       },
       "translations": {
         "en": {
@@ -25471,8 +25493,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Technology/taiwan-robotics-industry.md",
@@ -25485,8 +25509,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Technology/taiwan-robotics-industry.md",
@@ -25499,8 +25525,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Technology/taiwan-robotics-industry.md",
@@ -25513,8 +25541,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Technology/taiwan-robotics-industry.md",
@@ -25527,8 +25557,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Technology/taiwan-robotics-industry.md",
@@ -25541,8 +25573,10 @@
           "translationLastModified": "2026-08-09T11:56:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Technology/taiwan-robotics-industry.md",
@@ -25555,8 +25589,10 @@
           "translationLastModified": "2026-07-31T07:37:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Technology/taiwan-robotics-industry.md",
@@ -25569,8 +25605,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Technology/taiwan-robotics-industry.md",
@@ -25583,8 +25621,10 @@
           "translationLastModified": "2026-08-02T14:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Technology/taiwan-robotics-industry.md",
@@ -25597,8 +25637,10 @@
           "translationLastModified": "2026-07-31T09:04:12+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Technology/taiwan-robotics-industry.md",
@@ -25611,8 +25653,10 @@
           "translationLastModified": "2026-07-31T11:44:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -27291,8 +27335,8 @@
           "sourceContentHash": "sha256:9e4daeb9f4939ca2",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-28T22:13:53+08:00",
-          "translationLastCommit": "2b866f21",
-          "translationLastModified": "2026-08-28T22:13:53+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -31326,8 +31370,8 @@
           "sourceContentHash": "sha256:0b51fe43b7a1bf00",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-28T22:17:11+08:00",
-          "translationLastCommit": "a33b9a49",
-          "translationLastModified": "2026-08-28T22:17:11+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -44855,8 +44899,8 @@
           "sourceContentHash": "sha256:6f804a54cc46f969",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-23T08:47:33+08:00",
-          "translationLastCommit": "998b8bdb",
-          "translationLastModified": "2026-08-23T08:47:33+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 58,
           "status": "fresh",
@@ -63023,9 +63067,9 @@
     },
     "Politics/投票權門檻歷史.md": {
       "zh": {
-        "lastCommit": "488ba3ae",
-        "lastModified": "2026-07-19T10:05:45+08:00",
-        "contentHash": "sha256:9f186591ee3109a8",
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:eb0a0062b5494500",
         "bodyHash": "sha256:a759a5339dd81f4b"
       },
       "translations": {
@@ -63040,8 +63084,10 @@
           "translationLastModified": "2026-07-31T12:09:02+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Politics/voting-rights-threshold-history.md",
@@ -63054,8 +63100,10 @@
           "translationLastModified": "2026-07-26T03:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Politics/voting-rights-threshold-history.md",
@@ -63068,8 +63116,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Politics/voting-rights-threshold-history.md",
@@ -63082,8 +63132,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Politics/voting-rights-threshold-history.md",
@@ -63096,8 +63148,10 @@
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Politics/voting-rights-threshold-history.md",
@@ -63110,8 +63164,10 @@
           "translationLastModified": "2026-08-09T08:57:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Politics/voting-rights-threshold-history.md",
@@ -63124,8 +63180,10 @@
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Politics/voting-rights-threshold-history.md",
@@ -63138,8 +63196,10 @@
           "translationLastModified": "2026-08-09T07:49:34+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "status": "missing"
@@ -63155,8 +63215,10 @@
           "translationLastModified": "2026-08-04T11:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "status": "missing"
@@ -67298,8 +67360,8 @@
           "sourceContentHash": "sha256:97d9bc4f07653a81",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-28T22:20:49+08:00",
-          "translationLastCommit": "2e392cce",
-          "translationLastModified": "2026-08-28T22:20:49+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -71900,8 +71962,8 @@
           "sourceContentHash": "sha256:27b9c46e9dd00321",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-27T22:23:18+08:00",
-          "translationLastCommit": "b49041a9",
-          "translationLastModified": "2026-08-27T22:23:18+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -86753,8 +86815,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-08-28T19:45:00+08:00",
-          "translationLastCommit": "4b682dc2",
-          "translationLastModified": "2026-08-28T19:33:41+08:00",
+          "translationLastCommit": "4edd0ff7",
+          "translationLastModified": "2026-08-29T08:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -87917,9 +87979,9 @@
     },
     "People/HUR-plus.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:f585a86608bf6a28",
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:7b6f1e2f33e3f99d",
         "bodyHash": "sha256:396a9fed148c94a2"
       },
       "translations": {
@@ -87934,8 +87996,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/hur-plus-band.md",
@@ -87948,8 +88012,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/hur-plus-band.md",
@@ -87962,8 +88028,10 @@
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/hur-plus-band.md",
@@ -87976,8 +88044,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/hur-plus-band.md",
@@ -87990,8 +88060,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/hur-plus-band.md",
@@ -88004,8 +88076,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -88021,8 +88095,10 @@
           "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "status": "missing"
@@ -88038,8 +88114,10 @@
           "translationLastModified": "2026-07-26T13:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/hur-plus-band.md",
@@ -88052,8 +88130,10 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -88552,10 +88632,10 @@
     },
     "People/嚴長壽.md": {
       "zh": {
-        "lastCommit": "df2e7558",
-        "lastModified": "2026-06-14T02:52:02+08:00",
-        "contentHash": "sha256:259b129f305ff5f9",
-        "bodyHash": "sha256:366255e36a4fa0f5"
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:f03fe4356a8b034b",
+        "bodyHash": "sha256:0511dd3ec1c7896e"
       },
       "translations": {
         "en": {
@@ -88569,8 +88649,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/stanley-yen.md",
@@ -88583,8 +88665,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/stanley-yen.md",
@@ -88597,8 +88681,10 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/stanley-yen.md",
@@ -88611,8 +88697,10 @@
           "translationLastModified": "2026-07-27T19:09:22+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/stanley-yen.md",
@@ -88625,8 +88713,10 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/stanley-yen.md",
@@ -88639,8 +88729,10 @@
           "translationLastModified": "2026-08-09T11:22:29+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/stanley-yen.md",
@@ -88653,8 +88745,10 @@
           "translationLastModified": "2026-07-29T07:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/stanley-yen.md",
@@ -88667,8 +88761,10 @@
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/stanley-yen.md",
@@ -88681,8 +88777,10 @@
           "translationLastModified": "2026-07-29T17:40:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/stanley-yen.md",
@@ -88695,8 +88793,10 @@
           "translationLastModified": "2026-07-29T17:40:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/stanley-yen.md",
@@ -88709,8 +88809,10 @@
           "translationLastModified": "2026-07-29T17:40:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -105060,8 +105162,8 @@
           "sourceContentHash": "sha256:0f8567c72fce22ef",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T23:04:39+08:00",
-          "translationLastCommit": "7935f97c",
-          "translationLastModified": "2026-07-30T23:04:39+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -109456,8 +109558,8 @@
           "sourceContentHash": "sha256:6170c025ca20811f",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-27T22:20:31+08:00",
-          "translationLastCommit": "b6de552d",
-          "translationLastModified": "2026-08-27T22:20:31+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -112575,8 +112677,8 @@
           "sourceContentHash": "sha256:141f0927816304ea",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-19T22:35:27+08:00",
-          "translationLastCommit": "047bd287",
-          "translationLastModified": "2026-08-19T22:35:27+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -114795,8 +114897,8 @@
           "sourceContentHash": "sha256:31bbf088964cc84c",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-19T16:24:54+08:00",
-          "translationLastCommit": "ca25412b",
-          "translationLastModified": "2026-08-19T16:24:54+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -116202,9 +116304,9 @@
     },
     "Food/金牛角.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:c876a6c84ad1bc82",
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:e6c1c2c1757905c0",
         "bodyHash": "sha256:97ba5602057c57dc"
       },
       "translations": {
@@ -116219,8 +116321,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Food/golden-croissant.md",
@@ -116233,8 +116337,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Food/golden-croissant.md",
@@ -116247,8 +116353,10 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Food/golden-croissant.md",
@@ -116261,8 +116369,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Food/golden-croissant.md",
@@ -116275,8 +116385,10 @@
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Food/golden-croissant.md",
@@ -116289,8 +116401,10 @@
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Food/golden-croissant.md",
@@ -116303,8 +116417,10 @@
           "translationLastModified": "2026-07-25T05:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Food/golden-croissant.md",
@@ -116317,8 +116433,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Food/golden-croissant.md",
@@ -116331,8 +116449,10 @@
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Food/golden-croissant.md",
@@ -116345,8 +116465,10 @@
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Food/golden-croissant.md",
@@ -116359,8 +116481,10 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -120225,8 +120349,8 @@
           "sourceContentHash": "sha256:ab038fc6af555335",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-27T22:17:06+08:00",
-          "translationLastCommit": "1f7e5d08",
-          "translationLastModified": "2026-08-27T22:17:06+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -123518,9 +123642,9 @@
     },
     "History/台灣廣播史.md": {
       "zh": {
-        "lastCommit": "654ac8e9",
-        "lastModified": "2026-08-20T21:13:36+08:00",
-        "contentHash": "sha256:a661b1cac87ea746",
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:d166faa74a30d730",
         "bodyHash": "sha256:9b5ab13cba09c99e"
       },
       "translations": {
@@ -124413,10 +124537,10 @@
     },
     "History/台灣選舉與政黨政治.md": {
       "zh": {
-        "lastCommit": "1389f8ce",
-        "lastModified": "2026-08-18T11:33:27+08:00",
-        "contentHash": "sha256:f1f34a18719b00e1",
-        "bodyHash": "sha256:3d6fd7ba578ef873"
+        "lastCommit": "9cef725c",
+        "lastModified": "2026-08-29T08:56:37+08:00",
+        "contentHash": "sha256:bee6db6cebb342a7",
+        "bodyHash": "sha256:cf2cbcf164430410"
       },
       "translations": {
         "en": {
@@ -124432,8 +124556,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -3"
+          "commitsBehind": 3,
+          "diffSummary": "+7 -6"
         },
         "ja": {
           "path": "ja/History/taiwan-elections-and-party-politics.md",
@@ -124448,8 +124572,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "ko": {
           "path": "ko/History/taiwan-elections-and-party-politics.md",
@@ -124464,8 +124588,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "es": {
           "path": "es/History/taiwan-elections-and-party-politics.md",
@@ -124480,8 +124604,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "fr": {
           "path": "fr/History/taiwan-elections-and-party-politics.md",
@@ -124496,8 +124620,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "vi": {
           "path": "vi/History/taiwan-elections-and-party-politics.md",
@@ -124512,8 +124636,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "id": {
           "path": "id/History/taiwan-elections-and-party-politics.md",
@@ -124528,8 +124652,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "pt": {
           "path": "pt/History/taiwan-elections-and-party-politics.md",
@@ -124544,8 +124668,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "hi": {
           "status": "missing"
@@ -124563,8 +124687,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "ru": {
           "path": "ru/History/taiwan-elections-and-party-politics.md",
@@ -124579,8 +124703,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+4 -3"
         },
         "de": {
           "status": "missing"
@@ -124897,8 +125021,8 @@
           "sourceContentHash": "sha256:9c407c7793816591",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-21T19:08:49+08:00",
-          "translationLastCommit": "c7f0af24",
-          "translationLastModified": "2026-08-21T19:08:49+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -147199,8 +147323,8 @@
           "sourceContentHash": "sha256:e5fd53530b9e999c",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-20T10:42:05+08:00",
-          "translationLastCommit": "13fd3171",
-          "translationLastModified": "2026-08-20T10:42:05+08:00",
+          "translationLastCommit": "488bca45",
+          "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
