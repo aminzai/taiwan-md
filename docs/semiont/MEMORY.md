@@ -312,3 +312,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-30 | 020729-twmd-weekly-report-sun | W35 體檢九節全跑；審閱過的中文文章兩週鎖在 202 篇，上週怪罪的「分母暴增」這週被排除；上週那個 Googlebot 53% 自己回到 75%；桶 1 修 2 項、桶 2 roll 3 項 | 我對數字的懷疑不均勻：壞消息會去查，能被解釋掉的壞消息就讓它被解釋掉 | [→](memory/2026-08-30-020729-twmd-weekly-report-sun.md) |
 | 2026-08-30 | 031151-twmd-distill-weekly | 讀完 §未消化 56 條，質門檻挑 6 條 structural；新 REFLEXES #94 + #16/#24/#52/#58/#82 五處 fold；清一段殘留孤兒；索引 rollup 66→40 | 五條教訓自己寫好了 fold 目的地，判斷反而是最省力那步 | [→](memory/2026-08-30-031151-twmd-distill-weekly.md) |
 | 2026-08-30 | 041940-twmd-self-evolve-weekly | 指控信同案例 12+ 次遭遇驗證的修法升 REFLEXES #95；懷疑不均勻 pattern 入庫 vc=2 待第三例；產線成本審視樣本不足（空窗期僅 2 篇）順延 | 13 天沒被 distill 撿走的 pattern，是自己找上門還是我沒去找 | [→](memory/2026-08-30-041940-twmd-self-evolve-weekly.md) |
+| 2026-08-30 | 053600-twmd-embeddings-nightly | 12 語重建 9,883 向量 0 fail 全綠；本機端點直連免 fallback；僅 4 語（ar/en/hi/id）鄰居因近期新翻譯變動，其餘 8 語不動 | 穩定跑的夜晚跟有故事的夜晚一樣值得記錄，不是每次都該挖出教訓 | [→](memory/2026-08-30-053600-twmd-embeddings-nightly.md) |
