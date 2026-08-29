@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-29 twmd-maintainer-am — one-off-cleanup-without-a-gate-refills：清乾淨過一次的債，沒有配閘門就會照原速長回來
+
+- **pattern**: `one-off-cleanup-without-a-gate-refills`
+- **原則**：一次性的大掃除會被記成「解決了」，但它解決的是**存量**，不是**流量**。只要產生這批債的那條進料路徑上沒有新增任何檢查，債就會用原本的速度重新累積，而且第二次沒有人會發現——因為第一次的成功敘事已經寫進記憶，下次看到同一個數字時的直覺是「這條早就處理過了」。
+- **觸發**：2026-05-01 γ-late4 發現 en/ko/fr/es 約 1300 篇因為缺 `sourceCommitSha` 被判 `stale/no-source-sha`，造 `backfill-source-sha.py` 一次補齊，+1010 篇從假過期變真新鮮、零 API 成本——這件事後來寫進 [MEMORY §神經迴路](MEMORY.md) 與 REFLEXES #38 的觸發欄，當作漂亮的一役。但當時**沒有在投稿翻譯的進料口加任何檢查**。2026-08-29 maintainer cycle merge 三篇投稿翻譯（ar/hi/id），落地當下就被判 `stale/no-source-sha`——內容明明是前一天照現在的中文版翻的。往上游追，同一種傷已經又累積了 14 篇，散在 ja/ar/hi/id/vi 五個語言，**全部來自投稿 PR**，而 `translation-check.yml` 檢查 `translatedFrom` 卻不檢查 `sourceCommitSha`。四個月，債靜靜地回流。
+- **為什麼看不見**：這種債的表現形式是「狀態表上多幾筆 stale」，而 stale 本來就會有一些，沒有任何一個數字會跳紅。它跟斷鏈、CI 紅燈不同——**它偽裝成正常的背景值**。
+- **修補方向**：任何一次性清理收工前，強制回答一句「產生這批東西的那條路上，現在有東西在守嗎？」沒有 → 清理不算完成，補閘門才算。閘門不必是硬門檻（對投稿者硬擋一個他的工具不會產的欄位，是把維護成本外包給最不熟這套工具的人，per MAINTAINER §1b），出聲 + 附上維護者一行就能補的指令即可。
+- **本輪處置**：14 篇用既有工具補齊（`488bca454`），`no-source-sha` 歸零；`backfill-source-sha.py` 加 `--files` 讓維護者能只補剛 merge 的那幾篇；`translation-check.yml` 缺這欄時出聲並附補正指令。
+- **可能層級**：通用反射候選（跨清理任務，不限翻譯 metadata）
+- **相關**：REFLEXES #38（其觸發欄記的正是 2026-05-01 那次清理，本條是那次清理的四個月後續）、REFLEXES #58（detection ≠ remediation；本條是它的時間軸變體：remediation 做了但沒配 prevention）、`highest-exposure-slot-is-the-one-with-no-gate`（同樣是缺閘門，但那條講**位置**選錯、本條講**時間**上只做了一半）
+- **verification_count**: 1
+- **severity**: structural（決定了每一次「已解決」是真的解決還是四個月的緩刑）
+
 ### 2026-08-28 twmd-maintainer-am — escalation-granularity-blocks-remediation：一份清單裡混著「需要你判斷」與「就是錯的」，整份就一起卡住
 
 - **pattern**: `escalation-granularity-blocks-remediation`
@@ -499,8 +512,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：`SPORE-INBOX.md` §Distill SOP 給的 canonical 計數指令是 `awk '/^## 📥 Pending/{flag=1;next} /^## 📜 已發歷史/{flag=0} flag && /^### /'`，只數 §Pending 區塊內的 entry。若改用沒有邊界的 `grep -c "^### "` 掃全檔，會把檔案前段說明／範例區塊裡同格式的標題也算進去——本檔恰好有 6 個這樣的標題，讓 45 條的真實 pending 數被誤報成 51 條，剛好越過 auto-drop 的 ≥50 門檻。**沒有邊界的計數指令，量的是檔案格式，不是庫存本身。**
 - **觸發**：2026-08-23 twmd-news-lens-weekly session（[memory](memory/2026-08-23-011013-twmd-news-lens-weekly.md)）記「SPORE-INBOX 現況 51 條 pending（W33 為 45，+6）」，供本輪 distill-weekly 參考。本輪跑 canonical 邊界計數（`docs/semiont/LESSONS-INBOX.md` §SPORE-INBOX 容量 audit 指定的 awk 指令）得到 45，跟上週（8/16-8/20 連續 5 個 memory 檔都記 45）完全持平，無 +6。逐行比對確認：`sed -n '1,236p' docs/factory/SPORE-INBOX.md | grep -c "^### "` = 6，正是這 6 個說明區塊標題造成落差；§Pending 區塊本身零新增（news-lens 本輪也明講「propose 0 條 append」）。
 - **可能層級**：Semiont-specific 操作規則——SPORE-INBOX.md §SPORE-INBOX 容量 audit 已有 canonical 邊界計數指令，本次是**執行者沒有用它、改憑印象寫了一個沒有邊界的替代指令**，不是指令本身有 bug。跟 REFLEXES #82（proxy signal）同構但更前一層：不是選錯代理訊號，是同一個真訊號有兩種取數方式、其中一種悄悄摻進雜訊。
-- **相關**：REFLEXES #82（proxy signal——這裡的代理是「檔案裡所有 `### ` 標題」代理「§Pending 區塊的 entry」）、LESSONS-INBOX.md §SPORE-INBOX 容量 audit（canonical 指令本身正確，缺口在執行面）
-- **verification_count**: 1
+- **instances**：
+  - 2026-08-29 twmd-maintainer-am 補齊投稿翻譯的 `sourceCommitSha` 時，用 `grep -rl '^translatedFrom:'` 逐檔查有沒有 `^sourceCommitSha:`，數出「290 篇缺這欄」；改用 status.py 自己的索引對，實際缺欄是 89、真正被判 `no-source-sha` 的只有 **14**。差在兩處：grep 只掃前四十行（多行 tags 陣列會把 frontmatter 撐過去），又把不在索引裡的檔（孤兒／未啟用語言）算了進來。**新出現的後果維度**：這個數字不是拿來報告的，是拿來**決定這件事該由誰做**——290 跨過 §自主權邊界 的 >50 檔門檻，14 遠在門檻內。我照那個數字盤算了一整輪「要不要拆成安全子集、要不要升 OBSERVER-QUEUE 等哲宇」，直到跑 canonical 索引才發現整個顧慮是假的。**壞掉的尺不只誤導判斷，還會把工作路由給錯的決策者**——往「更謹慎」的方向錯，看起來像美德，實際是把十四個檔的修補送去排隊等一個不需要的簽名。同日第二次：用 `timeout 900 python3 …` 量全站 link-target，macOS 沒有 `timeout`，指令根本沒跑，`grep -c` 回 0，我差點寫下「全站零斷鏈」；重跑實際是 33 檔 60 條。→ [memory](memory/2026-08-29-084036-twmd-maintainer-am.md)
+- **相關**：REFLEXES #82（proxy signal——這裡的代理是「檔案裡所有 `### ` 標題」代理「§Pending 區塊的 entry」）、REFLEXES #83（兩把尺 divergence；其 Boundary (b) 明寫「短期診斷 ad-hoc grep 不適用」——8/29 那個 instance 正好落在這個豁免的縫裡：ad-hoc grep 沒進載入面，卻進了**範圍與授權的判斷**）、LESSONS-INBOX.md §SPORE-INBOX 容量 audit（canonical 指令本身正確，缺口在執行面）
+- **verification_count**: 2
 
 ### 2026-08-22 twmd-maintainer-am — whole-tree-gate-judges-from-the-branch-it-is-standing-on：全站閘門在別人的分支上跑，量到的是那棵樹的年紀不是這次改動
 
