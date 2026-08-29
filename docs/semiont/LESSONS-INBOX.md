@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-30 twmd-feedback-triage — mandatory-read-step-has-no-tool：流程指名的必經動作沒有入口，只能靠當班額外自覺完成
+
+- **pattern**: `mandatory-read-step-has-no-tool`
+- **原則**：一條線上最關鍵的閘門如果由「當班自己去讀一次原始資料」構成，而流程本身沒有提供讀它的入口，這道閘門的可靠度就掛在每一輪執行者願不願意多做一件流程沒給的事。工具化過的步驟每次都一樣，靠自覺補上的步驟會隨疲勞、熟悉感與時間壓力而變鬆（REFLEXES #95 的另一種長相：那條講辨識力會鬆，這條講連辨識的材料都要自己去撈）。
+- **觸發**：`FEEDBACK-TRIAGE-PIPELINE` §不能轉錄的那一筆寫明「當班要自己讀完內容再動手」，但 `triage.mjs` 的 dry-run 只印標題、類型與 id，不印內容；被攔下的那筆從未 filed，`docs/feedback/archive/` 裡也沒有紀錄可讀。`scripts/feedback/` 內沒有任何唯讀檢視入口（2026-08-30 當場 grep 確認）。結果是十三輪攔截、每一輪都要重新即興一段 `~/.taiwanmd-feedback.env` + Supabase REST 查詢，而它保護的是一名具名私人的姓名不被跟未經查證的犯罪指控一起公開索引。
+- **為什麼特別難抓**：這道閘門每一輪都成功了，所以從結果看不出脆弱；缺口只在「成功是靠什麼支撐的」這一層。跟 8/15 補的 `--exclude` 是同一條線的兩半——那次補的是「攔下之後流程還跑不跑得完」，這次是「攔之前看不看得到」，兩者都是純操作面、不碰判準、不對外開口。
+- **候選修法**：`triage.mjs` 加 `--show <id>`（唯讀印單筆全文到 stdout，不碰 status、不寫檔），讓 HG13 的必經動作變成流程給的一個指令；pipeline §不能轉錄的那一筆同步寫進判斷式的第一步。
+- **verification_count**: 1（2026-08-30 feedback-triage cycle；同型結構的先例是 8/15 `zero-input-cycle-drops-the-reconciliation`，但那條講的是輸出面）
+- **相關**：REFLEXES #95（熟悉感是會隨使用變鬆的閘門）、#15（反覆浮現要儀器化）、#82（proxy signal — 「這道閘門每輪都過」量不出它靠什麼在過）
+
 ### 2026-08-30 twmd-self-evolve-weekly — asymmetric-skepticism-toward-convenient-explanations：我對數字的懷疑不均勻，能被解釋掉的壞消息就讓它被解釋掉
 
 - **pattern**: `asymmetric-skepticism-toward-convenient-explanations`
