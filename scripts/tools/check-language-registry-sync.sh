@@ -67,3 +67,87 @@ if [[ -f "$VIZ_FILE" ]]; then
 
   echo "✅ VIZ_STRINGS 覆蓋註冊表全部語言 ($VIZ_CODES)"
 fi
+
+# ── 譯文 QA 接線必須覆蓋每個有內容的語言（2026-08-30 加）────────────────────
+# 跟上面 VIZ_STRINGS 同一類：以語言碼為 key 的第 N 份 registry mirror，漂掉不報錯。
+#
+# 實際踩過的坑：de 於 2026-08-19 以 scaffold（enabled: false）進註冊表，投稿者
+# 持續送 de 譯文進 knowledge/de/（8/30 已 77 篇），但
+#   (a) .github/workflows/translation-check.yml 的 paths filter 沒有 knowledge/de/**
+#       → de 譯文 PR 從來不觸發 check-translation，實測 PR #1627 只有 2 條 check，
+#         同批 hi/id 的 PR 有 3 條；
+#   (b) script-presence-check.py 沒有 de 的文字系統 profile
+#       → 舊版遇到不支援的語言直接 continue，最後印 `✅ 0 檔通過` 並 exit 0。
+# 兩道都不是紅燈，是「沒有燈」。抓到它的不是任何閘門，是投稿者自己順手跑了
+# repo 的 QA 工具然後寫在 PR 留言裡。
+#
+# 判準刻意用「knowledge/<lang>/ 有沒有內容」而不是 registry 的 enabled 旗標：
+# 內容會比上線決定早幾個月進來，而沒有 QA 的那段空窗正是它需要被守的時候。
+KNOWLEDGE_LANGS=$(
+  for code in $(echo "$TS_CODES" | tr ',' '\n'); do
+    [[ "$code" == "zh-TW" ]] && continue          # 來源語言，不是譯文目標
+    [[ -d "knowledge/$code" ]] || continue         # 還沒有內容的 scaffold 先不守
+    echo "$code"
+  done | sort
+)
+
+WF="$(cd "$(dirname "$0")/../.." && pwd)/.github/workflows/translation-check.yml"
+MISSING_WF=""
+for code in $KNOWLEDGE_LANGS; do
+  grep -qE "^[[:space:]]*-[[:space:]]*'knowledge/$code/\*\*'" "$WF" || MISSING_WF="$MISSING_WF $code"
+done
+
+# 問這道閘門自己支援哪些語言，不要在這裡重抄一份表（抄了就是第 N+1 份 mirror）。
+# 用 import 讀 SUPPORTED_LANGS 而不是對每個語言跑一次 CLI：後者會把整個 9,000 檔
+# 語料掃 12 遍（實測 11 秒），對 pre-commit hook 太貴，貴到最後會被人拿掉。
+MISSING_PROFILE=$(
+  python3 - "$KNOWLEDGE_LANGS" <<'PY'
+import importlib.util, pathlib, sys
+p = pathlib.Path("scripts/tools/lang-sync/script-presence-check.py")
+spec = importlib.util.spec_from_file_location("spc", p)
+mod = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(mod)
+# en 沒有 profile 是對的，不是缺口：這道閘門問的是「這篇宣稱已譯的文章其實是不是
+# 英文」，對英文版本身問這句話沒有意義。它仍然要在 workflow paths 裡（上面那圈查），
+# 因為 ratio / 結構 / 腳註那些檢查對 en 一樣適用。
+want = [c for c in sys.argv[1].split() if c != "en"]
+print(" ".join(c for c in want if c not in mod.SUPPORTED_LANGS))
+PY
+)
+
+# cjk-residue-check 的 TARGET_LANGS 是同一類 mirror（ja/ko 不在其中是刻意的：
+# 兩者混寫漢字合法）。它遇到不認識的語言會 exit 1 叫出來，不像 script-presence
+# 舊版靜默通過——但沒有人會替它跑，所以一樣要在這裡對賬。
+MISSING_CJK=$(
+  python3 - "$KNOWLEDGE_LANGS" <<'PY'
+import importlib.util, pathlib, sys
+p = pathlib.Path("scripts/tools/lang-sync/cjk-residue-check.py")
+spec = importlib.util.spec_from_file_location("cjk", p)
+mod = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(mod)
+want = [c for c in sys.argv[1].split() if c not in ("ja", "ko")]
+print(" ".join(c for c in want if c not in mod.TARGET_LANGS))
+PY
+)
+
+if [[ -n "$MISSING_WF" || -n "$MISSING_PROFILE" || -n "$MISSING_CJK" ]]; then
+  echo "❌ 有內容的語言沒有接上譯文 QA！"
+  [[ -n "$MISSING_WF" ]] && {
+    echo "   translation-check.yml paths 缺:$MISSING_WF"
+    echo "     → 後果：這些語言的譯文 PR 不觸發 check-translation，CI 少一條而不是紅一條"
+    echo "     → 修法：在 .github/workflows/translation-check.yml 的 paths 補 'knowledge/<lang>/**'"
+  }
+  [[ -n "$MISSING_PROFILE" ]] && {
+    echo "   script-presence-check.py 缺文字系統 profile:$MISSING_PROFILE"
+    echo "     → 後果：「宣稱已譯但本文是英文」這道閘門對這些語言不存在"
+    echo "     → 修法：在該檔 NATIVE_SCRIPT 或 DIACRITICS 補一列"
+  }
+  [[ -n "$MISSING_CJK" ]] && {
+    echo "   cjk-residue-check.py TARGET_LANGS 缺:$MISSING_CJK"
+    echo "     → 後果：整段沒翻的中文留在譯文正文裡不會被擋下"
+    echo "     → 修法：在該檔 TARGET_LANGS 補上（ja/ko 例外，混寫漢字合法）"
+  }
+  exit 1
+fi
+
+echo "✅ 譯文 QA 接線覆蓋所有有內容的語言 ($(echo $KNOWLEDGE_LANGS | tr '\n' ' '))"

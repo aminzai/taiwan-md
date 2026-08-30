@@ -51,6 +51,11 @@ NATIVE_SCRIPT = {
 }
 
 DIACRITICS = {
+    # de 2026-08-30: Latin-alphabet target, so it gets the DIACRITICS heuristic
+    # like fr/es/pt/vi. Umlaut + eszett are dense in real German prose (實測
+    # taiwan-forestry-history.md: 148 次 / 12,070 字 body)，整篇零命中幾乎必然是
+    # 「宣稱已譯但本文是英文」。
+    "de": re.compile(r"[äöüßÄÖÜ]"),
     "fr": re.compile(r"[éèêëàâäùûüçôöîï]", re.I),
     "es": re.compile(r"[áéíóúñ¿¡]", re.I),
     "pt": re.compile(r"[ãõáéíóúâêôç]", re.I),
@@ -138,9 +143,16 @@ def main():
 
     total_hits = 0
     total_files = 0
+    unsupported = []
     for lang in langs:
         if lang not in SUPPORTED_LANGS:
+            # 「不知道」要有自己的符號，不能借用「沒事」的那個（REFLEXES #85）。
+            # v1 在這裡 continue，於是迴圈跑完 total_files=0、total_hits=0，
+            # 最後印出 `✅ 0 檔語言真偽檢查通過` 並 exit 0——呼叫端（CI、
+            # translate.py hard gate、維護者）讀到的是綠燈，實際上一個檔都沒檢查。
+            # de 就是這樣從 2026-08-19 掛到 8/30 都沒有人發現它沒有覆蓋。
             print(f"⚠️  不支援的語言: {lang}（支援: {', '.join(SUPPORTED_LANGS)}）", file=sys.stderr)
+            unsupported.append(lang)
             continue
         if args.files:
             files = [Path(f) for f in args.files]
@@ -167,6 +179,13 @@ def main():
     if total_hits:
         print(f"\n❌ {total_hits} 檔可疑「宣稱已譯但實為英文」— 需人審 + 重譯")
         sys.exit(1)
+    if unsupported:
+        print(
+            f"\n❌ 沒有檢查任何東西：{', '.join(unsupported)} 缺文字系統 profile。"
+            f"\n   請在 NATIVE_SCRIPT（非拉丁字母）或 DIACRITICS（拉丁字母帶變音符號）補一列，"
+            f"\n   或用功能詞比對（見 id）。這不是通過，是這道閘門對該語言不存在。"
+        )
+        sys.exit(2)
     print(f"✅ {total_files} 檔語言真偽檢查通過")
 
 

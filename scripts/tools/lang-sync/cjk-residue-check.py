@@ -38,7 +38,9 @@ PAREN = re.compile(
 )
 
 # 這些語言的正文不該有裸 CJK；ja/ko 混寫合法不在此清單
-TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru"}
+# de 2026-08-30 補（拉丁字母語言，跟 en/es/fr 同類）——2026-08-19 出生後漏接，
+# 77 篇 de 譯文進庫期間這道檢查對它不存在。
+TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru", "de"}
 
 
 MULTILINE_LINK = re.compile(r"\]\([^)]*?\)", re.S)  # 連結目標可被 prettier 摺行
