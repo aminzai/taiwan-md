@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-30 | 061439-twmd-data-refresh-am | 14 步全綠零 stale，星數 1158→1160、英文 883→889；scheduler live-state dump 第一次在無黃燈狀態下驗證固定跑的修法 | 把等黃燈才想起來改成無條件跑，需要在沒黃燈的日子驗證它還會不會跑 | [→](memory/2026-08-30-061439-twmd-data-refresh-am.md) |
 | 2026-08-30 | 065219-twmd-spore-harvest-am | D+7 收割 4 則新回覆零事實錯誤；X 讀者 7 天前補的踩雷語源查證後落地 `踩雷.yaml`；誤跑 destructive audit 腳本刪 10 檔即刻復原 | 記下 EVOLVE candidate 不等於會被回頭兌現，沒有機制逼自己看它就一直路過 | [→](memory/2026-08-30-065219-twmd-spore-harvest-am.md) |
 | 2026-08-30 | 070831-twmd-feedback-triage | 唯一一筆是第三人指控信第十三次，讀完全文照 HG13 `--exclude` 攔下，零 issue 開出；兩道對賬 82/82 與 81/82 全綠 | HG13 依賴的「讀完全文」是全線最沒有工具支撐的那一步 | [→](memory/2026-08-30-070831-twmd-feedback-triage.md) |
+| 2026-08-30 | 085328-twmd-maintainer-am | 三篇投稿翻譯 merge，餘下 5 篇全是哲宇保留項；追上游發現德文進庫 11 天 77 篇零檢查，三處 QA 接線補齊＋加對賬閘門 | 為同一個病造的閘門，只守了當初咬過人的那一份 mirror | [→](memory/2026-08-30-085328-twmd-maintainer-am.md) |

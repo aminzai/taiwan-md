@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-30 twmd-maintainer-am — scaffold-window-has-no-qa：語言以 scaffold 身分進註冊表後，內容比上線決定早幾個月到，而所有 QA 接線都在那段空窗裡對它不存在
+
+- **pattern**: `scaffold-window-has-no-qa`
+- **原則**：一個語言（或任何以「先登記、暫不啟用」形式進系統的實體）從進註冊表到真正上線之間有一段空窗，內容在這段期間持續累積，但下游那些以語言碼為 key 的檢查接線不會自己跟上。空窗正是它最需要被守的時候——這批內容將來會一次全部進站，而它們是唯一一批從未經過閘門的。判斷「要不要守」的依據應該是「有沒有內容進來」，不是註冊表的 `enabled` 旗標。
+- **觸發**：`de` 2026-08-19 以 `enabled: false` scaffold 進 `src/config/languages.{ts,mjs}`，到 8/30 已累積 77 篇德文譯文。期間三處接線都不認得它：`translation-check.yml` 的 `paths` filter（德文 PR 從不觸發 `check-translation`，PR #1627 實測 2 條 check vs 同批 hi/id 的 3 條）、`script-presence-check.py` 的文字系統 profile、`cjk-residue-check.py` 的 `TARGET_LANGS`。十一天、77 篇、零檢查。
+- **為什麼沒有任何閘門叫**：`check-language-registry-sync.sh` 早在 2026-07-26 就為了**完全相同的病**長出來（VIZ_STRINGS 漏六語 → 43,045 個中文 aria-label），它的註解甚至把病理寫得很清楚。但它只守了當初咬過人的那一份 mirror。**造閘門當下能想到的邊界，就是那一刻腦子裝得下的全部**（8/16 distill 已收斂過這句話，本次是它的第 N 個 instance）。
+- **第二層**：三道接線裡只有 `script-presence-check.py` 會**假裝有跑**——遇到不支援的語言 `continue`，迴圈跑完印 `✅ 0 檔語言真偽檢查通過` 並 exit 0。它的兄弟 `cjk-residue-check.py` 遇到同樣情況 exit 1 叫出來。同一個工具鏈、同一批作者、相反的失敗語義（REFLEXES #85 新 instance）。
+- **誰抓到的**：投稿者 aminzai 自己跑了 repo 的 QA 工具，把結果寫在 PR #1627 的留言裡。**沒有一道我們自己的儀器發現它。** 但他五條 claim 裡有三條是錯的（說 `cjk-residue` / `person-fidelity` / `geo-fidelity` 三支會對 de path 報錯——實測三支都正常通過，他八成是用位置參數呼叫、把 argparse 的 usage error 讀成「工具拒絕 de」）。外部尺仍然是尺，但仍然要自己量一次（REFLEXES #16）。
+- **已修**：三處接線補齊 + `check-language-registry-sync.sh` 加「有內容的語言必須被三處接線認得」對賬（三個缺口各自拿掉一次驗證會紅）+ `script-presence-check` 改成缺 profile 就 exit 2。commit `f7221cfcf`。
+- **仍未修**：本次補上檢查後掃出中文母稿三篇留著未解決的 `<!-- TODO: 天機星 -->` 註解，已隨翻譯散進 10 語 16 檔；red flag #10（placeholder 殘留）目前只有人工審查在守，`article-health` 沒有對應 plugin。
+- **verification_count**: 1
+- **相關**：REFLEXES #85（「不知道」要有自己的符號）、#91（建造與登記不同步）、#69（外部尺）、#16（外部 claim 是線索不是事實）、MEMORY §神經迴路「新語言出生時感知系統不會自動更新」
+
 ### 2026-08-30 twmd-feedback-triage — mandatory-read-step-has-no-tool：流程指名的必經動作沒有入口，只能靠當班額外自覺完成
 
 - **pattern**: `mandatory-read-step-has-no-tool`
