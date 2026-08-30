@@ -51,7 +51,7 @@ const ARCHIVE_ROOT = 'docs/feedback/archive';
 const REPO = 'frank890417/taiwan-md';
 
 export function parseArgs(argv) {
-  const a = { commit: false, seed: null, limit: 50, exclude: [] };
+  const a = { commit: false, seed: null, limit: 50, exclude: [], show: [] };
   for (let i = 2; i < argv.length; i++) {
     const v = argv[i];
     if (v === '--commit') a.commit = true;
@@ -66,6 +66,16 @@ export function parseArgs(argv) {
           .map((s) => s.trim())
           .filter(Boolean),
       );
+    // --show：唯讀印出指名那幾筆的全文,同樣可重複／逗號串。
+    else if (v === '--show')
+      a.show.push(
+        ...String(argv[++i] || '')
+          .split(',')
+          .map((s) => s.trim())
+          .filter(Boolean),
+      );
+    // 不帶 id 的 --show 印出這批全部（當班要一次讀完今天的輸入時用）。
+    else if (v === '--show-all') a.show.push('*');
   }
   return a;
 }
@@ -83,6 +93,44 @@ export function partitionExcluded(rows, excludeIds) {
   for (const r of rows) (want.has(r.id) ? excluded : kept).push(r);
   const seen = new Set(excluded.map((r) => r.id));
   return { kept, excluded, unmatched: [...want].filter((id) => !seen.has(id)) };
+}
+
+/**
+ * 挑出 --show 指名的那幾筆。`'*'`（--show-all）代表整批。
+ * 回傳 { found, missing } —— missing 一定要報,否則打錯一個 id 會安靜印出空清單,
+ * 當班會把「我沒看到可疑內容」跟「我根本沒查到那筆」讀成同一件事（REFLEXES #38 混維度）。
+ */
+export function selectForShow(rows, showIds) {
+  const want = new Set(showIds || []);
+  if (want.size === 0) return { found: [], missing: [] };
+  if (want.has('*')) return { found: rows, missing: [] };
+  const found = rows.filter((r) => want.has(r.id));
+  const seen = new Set(found.map((r) => r.id));
+  return { found, missing: [...want].filter((id) => !seen.has(id)) };
+}
+
+/**
+ * 把一筆 feedback 印成當班讀得完的全文（唯讀,不碰 status／不碰 GitHub）。
+ * HG13 要求「讀完全文才准動手」,而在這之前這條線上沒有任何入口能讀到 body ——
+ * 十四輪都靠當班自己手寫一段 Supabase REST 查詢即興補上（LESSONS
+ * `mandatory-read-step-has-no-tool`）。
+ */
+export function formatForShow(row) {
+  const meta = [
+    ['id', row.id],
+    ['created_at', row.created_at],
+    ['type', row.type],
+    ['lang', row.lang],
+    ['display_name', row.display_name],
+    ['article_slug', row.article_slug],
+    ['article_title', row.article_title],
+    ['source_url', row.source_url],
+    ['status', row.status],
+  ]
+    .map(([k, v]) => `  ${k.padEnd(14)} ${v ?? ''}`)
+    .join('\n');
+  const quote = row.quote ? `\n  --- 讀者選取的原文 ---\n${row.quote}\n` : '';
+  return `${'='.repeat(72)}\n${meta}\n${quote}\n  --- 回報全文 ---\n${row.body ?? ''}\n`;
 }
 
 // ── data source ───────────────────────────────────────────────────────────────
@@ -353,6 +401,22 @@ async function main() {
   } else {
     rows = await fetchNewFeedback(args.limit);
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
+  }
+
+  // --show：唯讀印全文就收工。HG13 要求讀完內容才准動手,這是那道動作的入口;
+  // 它不碰 status、不碰 GitHub、不寫 archive,所以放在所有副作用之前直接 return。
+  if (args.show.length) {
+    const sel = selectForShow(rows, args.show);
+    for (const r of sel.found) console.log(formatForShow(r));
+    for (const id of sel.missing) {
+      console.log(
+        `  ⚠️ --show id=${id} 在這批 status=new 裡找不到（不是「內容沒問題」,是根本沒查到這筆）`,
+      );
+    }
+    console.log(
+      `\n[triage] show-only · 印出 ${sel.found.length} 筆全文 · 未開任何 issue、未回寫任何 status`,
+    );
+    return { show: sel.found.length, missing: sel.missing.length };
   }
 
   // --exclude：當班指名不轉錄的筆先拿掉（status 不動),讓保管那半（留言 sync + 兩道對賬）

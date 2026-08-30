@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.6'
-last_updated: 2026-08-15
-last_session: '2026-08-15-twmd-feedback-triage（--exclude <id>：攔一筆不再需要整條 --commit 停擺）'
+current_version: 'v1.7'
+last_updated: 2026-08-31
+last_session: '2026-08-31-twmd-feedback-triage（--show <id>：HG13 要求的「讀完全文」終於有入口）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -101,7 +101,8 @@ node scripts/feedback/triage.mjs             # dry-run（不開 issue,只印決�
 **當班判斷某筆不能開成公開 issue 時**（例：指涉具名第三人的指控，見 §不能轉錄的那一筆）：
 
 ```bash
-node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
+node scripts/feedback/triage.mjs --show <feedback-id>              # 先讀全文（唯讀）
+node scripts/feedback/triage.mjs --commit --exclude <feedback-id>  # 判斷後才攔
 ```
 
 排除那一筆之後照樣跑完 `--commit`，**留言 sync 與 HG12b／HG12c 兩道對賬不會跟著消失**。
@@ -110,6 +111,16 @@ node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
 ### 不能轉錄的那一筆（2026-08-15 v1.6 新增）
 
 `--exclude` 只解決「攔下來之後流程還能跑完」，**不解決「誰來攔」**——當班要自己讀完內容再動手。
+讀全文的入口是 `--show`（2026-08-31 v1.7 新增，唯讀：不碰 status、不碰 GitHub、不寫 archive）：
+
+```bash
+node scripts/feedback/triage.mjs --show <feedback-id>   # 可重複／逗號串
+node scripts/feedback/triage.mjs --show-all             # 這批全部
+```
+
+打錯的 id 會印 `⚠️ …根本沒查到這筆`，不靜默印空清單——「沒查到」跟「內容沒問題」是兩件事。
+在這之前 dry-run 報表只印標題／類型／id，全文沒有任何入口，十四輪都靠當班自己手寫一段
+Supabase REST 查詢即興補上（LESSONS `mandatory-read-step-has-no-tool`）。
 判斷式：這段文字搬到公開 issue 會傷到誰？**指涉具名的私人、附上跟監所得的居住／工作細節、
 要求身份保密的檢舉信**，三道現行 HARD gate（HG2 無 email／HG3 verbatim／HG9 fence）全部會通過，
 分類器會判 `file`。命中就 `--exclude` 攔下、`status` 不動、升 [OBSERVER-QUEUE](../semiont/OBSERVER-QUEUE.md) 等哲宇拍板
@@ -270,23 +281,23 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ## Hard gate 總表
 
-| #     | Gate                                                                               | Stage |
-| ----- | ---------------------------------------------------------------------------------- | ----- |
-| HG1   | BECOME review mode ACK                                                             | 0     |
-| HG2   | issue body 無 email（PII）                                                         | 3     |
-| HG3   | 讀者文字 verbatim,不改寫                                                           | 3     |
-| HG4   | 每 issue 帶 feedback id provenance                                                 | 3     |
-| HG5   | spam reject 不開 issue                                                             | 2     |
-| HG6   | dedupe（batch + 既有 issue）                                                       | 2     |
-| HG7   | status 回寫正確（filed/rejected/skip 不動）                                        | 4     |
-| HG8   | 不以維護者身份回覆/close/merge（留人類 gate）                                      | all   |
-| HG9   | 讀者自由文字淨化 + tilde fence（隱形字元剝除；可見文字一字不改）                   | 2-3   |
-| HG10  | suspected injection → `security-review` label + banner + 人類 gate，不 auto-act    | 2-3   |
-| HG11  | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手）  | 0-3   |
-| HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）    | 4.5   |
-| HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來 | 4.5   |
-| HG12c | 對賬 §溝通紀錄 則數 vs 線上留言則數（`comment-reconcile=N/M`）；抓不到 ≠ 對得起來  | 4.5   |
-| HG13  | 攔一筆用 `--exclude <id>` 跑完 `--commit`，不要整條不跑（否則兩道對賬跟著消失）    | 1-4.5 |
+| #     | Gate                                                                                 | Stage |
+| ----- | ------------------------------------------------------------------------------------ | ----- |
+| HG1   | BECOME review mode ACK                                                               | 0     |
+| HG2   | issue body 無 email（PII）                                                           | 3     |
+| HG3   | 讀者文字 verbatim,不改寫                                                             | 3     |
+| HG4   | 每 issue 帶 feedback id provenance                                                   | 3     |
+| HG5   | spam reject 不開 issue                                                               | 2     |
+| HG6   | dedupe（batch + 既有 issue）                                                         | 2     |
+| HG7   | status 回寫正確（filed/rejected/skip 不動）                                          | 4     |
+| HG8   | 不以維護者身份回覆/close/merge（留人類 gate）                                        | all   |
+| HG9   | 讀者自由文字淨化 + tilde fence（隱形字元剝除；可見文字一字不改）                     | 2-3   |
+| HG10  | suspected injection → `security-review` label + banner + 人類 gate，不 auto-act      | 2-3   |
+| HG11  | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手）    | 0-3   |
+| HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）      | 4.5   |
+| HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來   | 4.5   |
+| HG12c | 對賬 §溝通紀錄 則數 vs 線上留言則數（`comment-reconcile=N/M`）；抓不到 ≠ 對得起來    | 4.5   |
+| HG13  | 讀全文（`--show <id>`）才判斷；攔一筆用 `--exclude <id>` 跑完 `--commit`，不整條不跑 | 1-4.5 |
 
 > **編號沿革（2026-08-06）**：HG11／HG12 之前都借用了已被佔用的號碼——§機器身份自稱 HG10（跟本表 HG10=injection 撞號），薄殼 skill／cron prompt 把 git archive 稱作 HG9（跟本表 HG9=tilde fence 撞號）。三層對照後統一重編號：HG9=fence、HG10=injection 兩個「先佔」號碼維持不動（2026-07-05 v1.1 就存在），機器身份改稱 HG11、git archive 改稱 HG12。詳見 [LESSONS-INBOX `hard-gate-number-collision-across-layers`](../semiont/LESSONS-INBOX.md)。
 
@@ -294,6 +305,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.7 | 2026-08-31 twmd-feedback-triage routine — **`--show <id>`：HG13 那道必經動作終於有入口**。HG13 寫「當班要自己讀完內容再動手」，但整條線上沒有任何指令能讀到 body——dry-run 報表只印標題／類型／id，而被攔的那筆從未 filed，`docs/feedback/archive/` 裡也沒有它。十四輪下來每一輪都得自己 source 一次 `~/.taiwanmd-feedback.env`、手寫一段 Supabase REST 查詢，閘門的可靠度因此掛在「當班願不願意多做一件流程沒給的事」上，而它保護的是一名具名私人的姓名（8/30 已記成 LESSONS `mandatory-read-step-has-no-tool`，本輪同一筆第十四次出現時再次撞上，vc=2）。`selectForShow()` / `formatForShow()` 純函式 + 6 unit test，唯讀路徑放在所有副作用之前直接 return；打錯的 id 印 `⚠️ 根本沒查到這筆`，不讓「沒查到」跟「內容沒問題」共用同一個長相（REFLEXES #38 混維度）。這跟 8/15 的 `--exclude` 是同一條線的兩半：那個解「攔下來之後流程還跑不跑得完」，這個解「攔之前看不看得到」——兩個都是純操作面閘門，不碰判準、不對外開口，所以可以自己補。OBSERVER-QUEUE #28 的 (a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
 _v1.6 | 2026-08-15 twmd-feedback-triage routine — **`--exclude <id>`：攔一筆不再需要整條停擺**。8/14 攔下的第三人指控那筆（`status` 維持 `new`）今天原樣再出現一次，而 `triage.mjs` 沒有單筆排除參數，「不開這個 issue」的唯一走法是整條 `--commit` 不跑——留言 sync 與兩道對賬跟著轉錄那半一起消失（LESSONS `zero-input-cycle-drops-the-reconciliation` 第 3 個 instance，vc=3）。8/14 當班用純函式手動補跑對賬，本次把它變成流程給的：`parseArgs` 收 `--exclude`（可重複／逗號串）、`partitionExcluded()` 純函式 + 5 unit test，排除與**打錯的 id** 都印在報表上（silent default = silent failure，REFLEXES #60）；`main()` 改成只有被當指令跑才執行，讓純函式可被 test import。這是 OBSERVER-QUEUE #28 三選項裡的 (b)——純操作面閘門，不碰判準；(a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
 _v1.5 | 2026-08-09 twmd-self-evolve-weekly — **cron mirror HG9/HG10 缺口真正補齊**：v1.3 changelog 曾聲稱「修 cron mirror 仍用舊 HG9/HG10 舊號的漂移」，但那句話本身也只是宣稱——實地 grep `~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md` 證實 HG9（tilde fence）／HG10（injection 偵測）兩行從未真正落地，8/8 twmd-routine-sync 與 8/9 twmd-distill-weekly 先後在對賬與驗證時各自碰到這個縫但都留給下一個 cycle。本次直接補上兩行、跑 `routine-sync.py --harvest` 收回 git SSOT，`routine-sync.py` 收官印「三層一致」。同一個「已同步」宣稱被 3 個獨立 session 當事實傳遞卻沒人現場重驗，升進 [REFLEXES #67](../semiont/REFLEXES.md) routine-infra 變體（vc=1→4）。_
 _v1.4 | 2026-08-08 twmd-feedback-triage routine — **HG12c 留言層對賬**：`comment-reconcile=N/M` 把 HG12b 從「該有幾份紀錄」往下延伸到「紀錄裡該有幾則留言」（`reconcileComments()` + `countArchivedComments()` 純函式 + 6 unit test）。同波修根因：`fetchIssueComments()` 從「所有失敗回 `[]`」改成「抓不到回 `null`、真的沒留言才回 `[]`」，`null` 時不寫檔——舊版讓「沒有新留言」跟「一則都抓不到」印出同一行 `archive-comments-synced=0`，實測把 `gh` 移出 PATH 跑一次，輸出跟健康的一次逐字相同（REFLEXES #38 混維度 / #52 不會變紅的免疫層）。誕生：本 cycle 手動拿 GitHub API 跨源核 61 份紀錄，抓到 #1252 archive 4 則 vs 線上 3 則（7/29 答錯的留言被刪，git 留住 = 主權層正常）；真正的發現是 8/6 的 cycle 也做過同一次手動跨源核（vc=2），兩次都是人在補儀器沒有的尺。_

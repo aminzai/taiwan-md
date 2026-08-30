@@ -27,7 +27,12 @@ import {
   reconcileComments,
   countArchivedComments,
 } from './lib/archive.mjs';
-import { parseArgs, partitionExcluded } from './triage.mjs';
+import {
+  parseArgs,
+  partitionExcluded,
+  selectForShow,
+  formatForShow,
+} from './triage.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const seed = JSON.parse(readFileSync(join(here, 'seed-feedback.json'), 'utf8'));
@@ -546,4 +551,56 @@ test('partitionExcluded: 沒有 --exclude 時原樣通過', () => {
   const p = partitionExcluded(rows, []);
   assert.equal(p.kept, rows);
   assert.deepEqual(p.excluded, []);
+});
+
+test('parseArgs: --show 可重複也接受逗號串', () => {
+  const a = parseArgs([
+    'node',
+    'triage.mjs',
+    '--show',
+    'aaa,bbb',
+    '--show',
+    'ccc',
+  ]);
+  assert.deepEqual(a.show, ['aaa', 'bbb', 'ccc']);
+  assert.equal(a.commit, false);
+});
+
+test('parseArgs: --show-all 收成萬用字元', () => {
+  assert.deepEqual(parseArgs(['node', 'triage.mjs', '--show-all']).show, ['*']);
+});
+
+test('selectForShow: 指名的那筆被挑出來', () => {
+  const rows = [{ id: 'aaa' }, { id: 'bbb' }];
+  const sel = selectForShow(rows, ['bbb']);
+  assert.deepEqual(
+    sel.found.map((r) => r.id),
+    ['bbb'],
+  );
+  assert.deepEqual(sel.missing, []);
+});
+
+test('selectForShow: 打錯的 id 要回報成 missing,不能印空清單了事', () => {
+  // 靜默的代價：當班把「沒查到這筆」讀成「內容沒問題」（REFLEXES #38 混維度）。
+  const sel = selectForShow([{ id: 'aaa' }], ['typo-id']);
+  assert.deepEqual(sel.found, []);
+  assert.deepEqual(sel.missing, ['typo-id']);
+});
+
+test('selectForShow: 萬用字元回整批', () => {
+  const rows = [{ id: 'aaa' }, { id: 'bbb' }];
+  assert.equal(selectForShow(rows, ['*']).found.length, 2);
+});
+
+test('formatForShow: 全文一字不刪地印出來,含讀者選取的原文', () => {
+  const out = formatForShow({
+    id: 'aaa',
+    type: 'content',
+    display_name: 'milesism',
+    body: '龍龍和大可愛從不曾是薩泰爾藝人',
+    quote: '薩泰爾旗下藝人',
+  });
+  assert.match(out, /龍龍和大可愛從不曾是薩泰爾藝人/);
+  assert.match(out, /薩泰爾旗下藝人/);
+  assert.match(out, /milesism/);
 });
