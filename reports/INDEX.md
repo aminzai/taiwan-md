@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-30 06:12
+last_generated: 2026-08-31 06:13
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-30 06:12** · 頂層 \*.md 共 **271** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-31 06:13** · 頂層 \*.md 共 **272** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -38,11 +38,11 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 107.2 KB | —                                                    |
+| `404-monitor/`          |     2 | 131.3 KB | —                                                    |
 | `article-staging/`      |     2 | 104.9 KB | —                                                    |
 | `fork-census/`          |     2 | 39.3 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`             |     2 | 104.2 KB | —                                                    |
+| `newsroom/`             |     2 | 104.3 KB | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`        |     1 | 52.5 KB  | —                                                    |
 | `terminology-trends/`   |     1 | 18.3 KB  | —                                                    |
@@ -182,8 +182,9 @@ type: auto-index
 - `2026-04-17` [cron-schedule-snapshot-2026-04-17](cron-schedule-snapshot-2026-04-17.md)
 - `2026-04-12` [i18n-qa-audit-2026-04-12](i18n-qa-audit-2026-04-12.md)
 
-### audit-routine (26)
+### audit-routine (27)
 
+- `2026-08-30` [routine-audit-2026-08-30](routine-audit-2026-08-30.md) — Routine audit 2026-08-30 (W35)
 - `2026-08-16` [routine-audit-2026-08-16](routine-audit-2026-08-16.md) — Routine audit 2026-08-16 (W33)
 - `2026-08-09` [routine-audit-2026-08-09](routine-audit-2026-08-09.md) — Routine audit 2026-08-09 (W32)
 - `2026-08-02` [routine-audit-2026-08-02](routine-audit-2026-08-02.md) — Routine audit 2026-08-02 (W31)
@@ -361,9 +362,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-08 (22 files)
+### 2026-08 (23 files)
 
-- Type breakdown: ops: 12 / evolution: 4 / audit-routine: 3 / audit: 2 / analysis: 1
+- Type breakdown: ops: 12 / audit-routine: 4 / evolution: 4 / audit: 2 / analysis: 1
+  - `2026-08-30` [routine-audit-2026-08-30](routine-audit-2026-08-30.md)
   - `2026-08-28` [design-footnote-source-cards-2026-08-28](design-footnote-source-cards-2026-08-28.md)
   - `2026-08-23` [design-search-results-page-2026-08-23](design-search-results-page-2026-08-23.md)
   - `2026-08-18` [design-budget-page-v2-2026-08-18](design-budget-page-v2-2026-08-18.md)

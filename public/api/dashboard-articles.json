@@ -11831,7 +11831,7 @@
     "commitHash": "910dc500",
     "commitSubject": "🧬 [routine] heal: PR #1284/#1285 merge-first + polish (frontmatter/wikilink/footnote/§11)",
     "description": "1979 年李明興在關廟種下台灣羊乳產業的種子。從清晨薄霧中的鮮配箱、到市佔七成的嘉南羊乳，這瓶山羊奶承載了台灣人的集體兒時記憶。近年透過「羊小編」社群海巡，這項老牌訂閱制產業在 Threads 重新翻紅，展現傳統農業與數位語境碰撞的獨特張力，也映照出少子化下產業轉型的真實壓力。",
-    "healthScore": 59,
+    "healthScore": 54,
     "qualityScore": 4,
     "formatIssues": 0,
     "hasOverview": true,
@@ -27811,7 +27811,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -35170,7 +35170,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -37844,7 +37844,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "27f64657",

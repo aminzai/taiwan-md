@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T22:12:09.380Z",
+  "lastUpdated": "2026-08-30T22:12:24.393Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,15 +7,15 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 8816,
+      "commits": 8837,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-30 05:40:35 +0800",
+      "lastCommitAt": "2026-08-31 05:38:59 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1585,
-        "system": 4730,
+        "content": 1586,
+        "system": 4746,
         "translation": 1966
       }
     },
@@ -104,6 +104,20 @@
       }
     },
     {
+      "login": "aminzai",
+      "commits": 23,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
       "login": "fredchu",
       "commits": 20,
       "avatarUrl": "https://avatars.githubusercontent.com/u/1243384?v=4",
@@ -115,20 +129,6 @@
         "content": 9,
         "system": 9,
         "translation": 1
-      }
-    },
-    {
-      "login": "aminzai",
-      "commits": 19,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
       }
     },
     {
@@ -337,18 +337,18 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
-      "login": "fredchu",
-      "name": "Fred Chu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1243384?v=4",
-      "profileUrl": "https://github.com/fredchu",
-      "types": ["💻", "🖋️", "🤔", "🌍", "👀", "🐛", "🔧", "📖"]
-    },
-    {
       "login": "aminzai",
       "name": "aminzai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "types": ["💻"]
+    },
+    {
+      "login": "fredchu",
+      "name": "Fred Chu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1243384?v=4",
+      "profileUrl": "https://github.com/fredchu",
+      "types": ["💻", "🖋️", "🤔", "🌍", "👀", "🐛", "🔧", "📖"]
     },
     {
       "login": "ellenlee",
@@ -888,15 +888,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 8816,
+      "commits": 8837,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-30 05:40:35 +0800",
+      "lastCommitAt": "2026-08-31 05:38:59 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1585,
-        "system": 4730,
+        "content": 1586,
+        "system": 4746,
         "translation": 1966
       }
     },

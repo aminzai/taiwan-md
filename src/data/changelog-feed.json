@@ -1,7 +1,140 @@
 {
-  "generatedAt": "2026-08-29T22:12:09.090Z",
+  "generatedAt": "2026-08-30T22:12:24.087Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "dfa576cd6354e69aaca5a12e97e3601aca47be95",
+      "date": "2026-08-31T05:38:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-31 05:37 — 18 條全 in-sync 零漂移，第 34 輪",
+      "articles": []
+    },
+    {
+      "hash": "5fc10920efa5e7b0d6307e36f69cf76fc7111458",
+      "date": "2026-08-31T05:36:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-31 05:36 — 12 語 9,885 向量 0 fail 全綠",
+      "articles": []
+    },
+    {
+      "hash": "a6382bfd98b2612051312be738681aea8d5c0bd1",
+      "date": "2026-08-31T05:35:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-31 05:35",
+      "articles": []
+    },
+    {
+      "hash": "3119249944414ff1788dd67423885b5b74ae5557",
+      "date": "2026-08-31T01:11:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-supporters-weekly @ 2026-08-31 01:09 — 0 候選信 no-op，checkpoint 三週未動但缺口為零",
+      "articles": []
+    },
+    {
+      "hash": "b3079b94b7e4e027905419ea3e691362e53098b3",
+      "date": "2026-08-30T21:23:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 補上收官 memory 缺的 BECOME ACK 顯式行",
+      "articles": []
+    },
+    {
+      "hash": "e3da297d5f18227589f0ed58db2b56030e25dffb",
+      "date": "2026-08-30T21:22:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-audit-weekly @ 2026-08-30 21:19 — 補上輪斷軌，四天全飛輪停轉與空缺 escalation target 兩件互為因果",
+      "articles": []
+    },
+    {
+      "hash": "8b70244c490a682c897658b9e345580fa2884970",
+      "date": "2026-08-30T21:22:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] routine-audit-weekly: 194 commits / 4 lens / 1 LESSONS — 補上輪斷軌，揪出四天全飛輪停轉與空缺的 escalation target — 2026-08-30",
+      "articles": []
+    },
+    {
+      "hash": "8c4846bfae3dac2e7663d2d3cc87b47059504f45",
+      "date": "2026-08-30T08:55:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-30 08:53 — 德文十一天沒被任何檢查看過",
+      "articles": []
+    },
+    {
+      "hash": "f7221cfcf88def54db9e810c5e6636fe570ee380",
+      "date": "2026-08-30T08:49:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 德文譯文進來十一天，三道品質檢查沒有一道認得它",
+      "articles": []
+    },
+    {
+      "hash": "cb05cab3145684522ee70f71d615830e343004b0",
+      "date": "2026-08-30T08:44:20+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1629 from aminzai/translate/hi-chien-ming-wang-mlb-sinker-ace",
+      "articles": []
+    },
+    {
+      "hash": "b09b4ee8c95a273f8c22799c04334f762aa58818",
+      "date": "2026-08-30T08:44:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1628 from aminzai/translate/id-taiwan-youbike-and-micromobility-revolution",
+      "articles": []
+    },
+    {
+      "hash": "dbf5ae3e2228981859c0d1726f3c64c3761bfbdb",
+      "date": "2026-08-30T08:44:13+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1627 from aminzai/translate/de-taiwan-forestry-history",
+      "articles": []
+    },
+    {
+      "hash": "c693eb2d20b02fae2592eacf409eee83fe2551c3",
+      "date": "2026-08-30T07:12:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-30 07:08 — 零 issue 開出，兩道對賬全綠",
+      "articles": []
+    },
+    {
+      "hash": "6c3a6a3447c7733624ad6d58a985ad410463f1dc",
+      "date": "2026-08-30T07:12:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] observer-queue: 那封指控信第十三次回來，計數更新",
+      "articles": []
+    },
+    {
+      "hash": "9b9162c3abb905dee072b30d3032f63358fa32d6",
+      "date": "2026-08-30T06:54:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 收官 memory 一則 handoff 前綴打字錯誤",
+      "articles": []
+    },
+    {
+      "hash": "d1188e8e6ae7c99118bd64bfe5c63173fabb7a38",
+      "date": "2026-08-30T06:54:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-30 06:52 — D+7 收割 4 則新回覆零事實錯誤，7 天前語源候選落地",
+      "articles": []
+    },
+    {
+      "hash": "b2d2256bcaff8f766c454221439b50e721a659f6",
+      "date": "2026-08-30T06:51:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 2 spores harvested, 4 replies shipped — 2026-08-30",
+      "articles": []
+    },
+    {
+      "hash": "d69e4ad1bd1e0d343bce74843a5f9770c52dfb57",
+      "date": "2026-08-30T06:15:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-30 06:14 — 14 步全綠零 stale",
+      "articles": []
+    },
+    {
+      "hash": "6dcc64980a65ac6b231b5ac47dfea1a8b1fa2d5c",
+      "date": "2026-08-30T06:13:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，星數 1158→1160、英文譯文 883→889",
+      "articles": []
+    },
     {
       "hash": "5fa9b38ec74e08c9948ae18d74f925c705dc8726",
       "date": "2026-08-30T05:40:35+08:00",
@@ -119,6 +252,34 @@
       "date": "2026-08-30T01:14:57+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] twmd-news-lens-weekly: W35 三源交叉 + 3 條候選（出口關閉）— 公投綁大選死線已裁決僅核三案過關，企業排名話題 GA+SC 雙源確認，陳致中話題完整退燒",
+      "articles": []
+    },
+    {
+      "hash": "503a9964467be6dde41d4b9e15958762fd5cd8d4",
+      "date": "2026-08-29T22:28:21+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 王建民 → chien-ming-wang-mlb-sinker-ace",
+      "articles": []
+    },
+    {
+      "hash": "d8b1700eb4c66bb380c7dad2a533d003a781b933",
+      "date": "2026-08-29T22:22:01+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 台灣YouBike文化與城市微交通革命 → taiwan-youbike-and-micromobility-revolution",
+      "articles": []
+    },
+    {
+      "hash": "9ca8a2435401571dda83a8209b431c1bf7f26f6a",
+      "date": "2026-08-29T22:19:01+08:00",
+      "author": "aminzai",
+      "message": "chore(de): restore passthrough author + add sourceCommitSha/sourceContentHash/translatedAt",
+      "articles": []
+    },
+    {
+      "hash": "21418c411685d3f892b6364e77f8562bb60fc5ec",
+      "date": "2026-08-29T22:15:55+08:00",
+      "author": "aminzai",
+      "message": "translate(de): �x�W�˪L�}�o�v → taiwan-forestry-history",
       "articles": []
     },
     {

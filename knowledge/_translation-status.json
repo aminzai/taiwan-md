@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-30T06:12:02+08:00",
-    "zhCommitHead": "5fa9b38ec",
+    "lastUpdated": "2026-08-31T06:12:18+08:00",
+    "zhCommitHead": "dfa576cd6",
     "totalZh": 1117,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1117,
-        "fresh": 550,
+        "fresh": 551,
         "stale": 31,
         "metadata_stale": 10,
-        "missing": 526,
+        "missing": 525,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1117,
-        "fresh": 634,
+        "fresh": 635,
         "stale": 26,
         "metadata_stale": 11,
-        "missing": 446,
+        "missing": 445,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1117,
-        "fresh": 74,
+        "fresh": 75,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 1041,
+        "missing": 1040,
         "orphan": 0
       }
     },
@@ -34073,7 +34073,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-youbike-and-micromobility-revolution.md",
+          "translatedFrom": "Lifestyle/台灣YouBike文化與城市微交通革命.md",
+          "sourceCommitSha": "4b6d28c5",
+          "sourceContentHash": "sha256:71377fcdfb99db3b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-29T22:21:24+08:00",
+          "translationLastCommit": "d8b1700e",
+          "translationLastModified": "2026-08-29T22:22:01+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-youbike-and-micromobility-revolution.md",
@@ -101989,7 +102000,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chien-ming-wang-mlb-sinker-ace.md",
+          "translatedFrom": "People/王建民.md",
+          "sourceCommitSha": "0f8fae0a",
+          "sourceContentHash": "sha256:88ba1e028cceec90",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-29T22:26:31+08:00",
+          "translationLastCommit": "503a9964",
+          "translationLastModified": "2026-08-29T22:28:21+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chien-ming-wang-mlb-sinker-ace.md",
@@ -122086,7 +122108,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-forestry-history.md",
+          "translatedFrom": "History/台灣森林開發史.md",
+          "sourceCommitSha": "69b3afd9",
+          "sourceContentHash": "sha256:8069998f1aa354c8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-29T22:18:53+08:00",
+          "translationLastCommit": "9ca8a243",
+          "translationLastModified": "2026-08-29T22:19:01+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

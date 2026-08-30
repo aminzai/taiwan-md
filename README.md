@@ -103,9 +103,9 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇪🇸 Español (es)                | 883   |
 | 🇫🇷 Français (fr)               | 884   |
 | 🇻🇳 Tiếng Việt (vi)             | 800   |
-| 🇮🇩 Bahasa Indonesia (id)       | 591   |
+| 🇮🇩 Bahasa Indonesia (id)       | 592   |
 | 🇵🇹 Português (pt)              | 848   |
-| 🇮🇳 हिन्दी (hi)                 | 671   |
+| 🇮🇳 हिन्दी (hi)                 | 672   |
 | 🇸🇦 العربية (ar)                | 755   |
 | 🇷🇺 Русский (ru)                | 786   |
 | 📂 Categories                  | 14    |
@@ -114,8 +114,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 👥 Contributors                | 75    |
 | ⭐ GitHub Stars                | 1160  |
 | 🍴 Forks                       | 182   |
-| 📅 Articles last 7 days        | 48    |
-| 📅 Articles last 30 days       | 271   |
+| 📅 Articles last 7 days        | 34    |
+| 📅 Articles last 30 days       | 267   |
 
 <!-- STATS:END -->
 
@@ -584,10 +584,10 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4" width="100px;" alt=""/><br /><sub><b>YenTing Wu</b></sub></a><br />💻 🤔 🌍 🔧 📖 🚇</td>
     <td align="center"><a href="https://github.com/Zaious"><img src="https://avatars.githubusercontent.com/u/128442444?v=4" width="100px;" alt=""/><br /><sub><b>Zaious (@ChronicleCore)</b></sub></a><br />💻 🖋️ 🌍</td>
-    <td align="center"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4" width="100px;" alt=""/><br /><sub><b>Fred Chu</b></sub></a><br />💻 🖋️ 🤔 🌍 👀 🐛 🔧 📖</td>
+    <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4" width="100px;" alt=""/><br /><sub><b>Fred Chu</b></sub></a><br />💻 🖋️ 🤔 🌍 👀 🐛 🔧 📖</td>
     <td align="center"><a href="https://github.com/ellenlee"><img src="https://avatars.githubusercontent.com/u/13810570?v=4" width="100px;" alt=""/><br /><sub><b>Ellen Lee</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/stantheman0128"><img src="https://avatars.githubusercontent.com/u/79733497?v=4" width="100px;" alt=""/><br /><sub><b>Stan Shih</b></sub></a><br />💻 🌍 🐛</td>
     <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>

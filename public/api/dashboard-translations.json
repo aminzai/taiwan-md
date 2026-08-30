@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T22:12:23.646Z",
+  "lastUpdated": "2026-08-30T22:12:38.656Z",
   "languages": [
     "zh-TW",
     "en",
@@ -97,16 +97,16 @@
       "bodyFreshPct": 66
     },
     "id": {
-      "total": 591,
-      "percentage": 52.9,
-      "fresh": 550,
+      "total": 592,
+      "percentage": 53,
+      "fresh": 551,
       "metadataStale": 10,
       "stale": 31,
-      "missing": 526,
+      "missing": 525,
       "orphan": 0,
-      "deficit": 526,
-      "freshPct": 49.2,
-      "bodyFreshPct": 50.1
+      "deficit": 525,
+      "freshPct": 49.3,
+      "bodyFreshPct": 50.2
     },
     "pt": {
       "total": 848,
@@ -121,16 +121,16 @@
       "bodyFreshPct": 71.7
     },
     "hi": {
-      "total": 671,
-      "percentage": 60.1,
-      "fresh": 634,
+      "total": 672,
+      "percentage": 60.2,
+      "fresh": 635,
       "metadataStale": 11,
       "stale": 26,
-      "missing": 446,
+      "missing": 445,
       "orphan": 0,
-      "deficit": 446,
+      "deficit": 445,
       "freshPct": 56.8,
-      "bodyFreshPct": 57.7
+      "bodyFreshPct": 57.8
     },
     "ar": {
       "total": 755,
@@ -157,16 +157,16 @@
       "bodyFreshPct": 67.4
     },
     "de": {
-      "total": 76,
-      "percentage": 6.8,
-      "fresh": 74,
+      "total": 77,
+      "percentage": 6.9,
+      "fresh": 75,
       "metadataStale": 0,
       "stale": 2,
-      "missing": 1041,
+      "missing": 1040,
       "orphan": 0,
-      "deficit": 1041,
-      "freshPct": 6.6,
-      "bodyFreshPct": 6.6
+      "deficit": 1040,
+      "freshPct": 6.7,
+      "bodyFreshPct": 6.7
     }
   },
   "matrix": {
@@ -772,11 +772,11 @@
         "deficit": 42
       },
       "de": {
-        "count": 1,
-        "fresh": 1,
+        "count": 2,
+        "fresh": 2,
         "stale": 0,
-        "missing": 86,
-        "deficit": 86
+        "missing": 85,
+        "deficit": 85
       }
     },
     "lifestyle": {
@@ -824,11 +824,11 @@
         "deficit": 18
       },
       "id": {
-        "count": 23,
-        "fresh": 20,
+        "count": 24,
+        "fresh": 21,
         "stale": 3,
-        "missing": 23,
-        "deficit": 23
+        "missing": 22,
+        "deficit": 22
       },
       "pt": {
         "count": 30,
@@ -1099,11 +1099,11 @@
         "deficit": 60
       },
       "hi": {
-        "count": 191,
-        "fresh": 184,
+        "count": 192,
+        "fresh": 185,
         "stale": 7,
-        "missing": 96,
-        "deficit": 98
+        "missing": 95,
+        "deficit": 97
       },
       "ar": {
         "count": 206,
@@ -3319,7 +3319,6 @@
       "People/豬哥亮.md",
       "Society/台灣司法改革與預防性羈押制度.md",
       "Geography/台灣五大地形與地理結構：從山脈到平原的島嶼風貌.md",
-      "Lifestyle/台灣 YouBike 文化與城市微交通革命.md",
       "People/王齊麟與李洋（麟洋配）.md",
       "People/劉安婷.md",
       "Economy/台灣機械工具產業.md",
@@ -4055,7 +4054,6 @@
       "Music/台灣國樂：中國樂器上長出來的島嶼聲音.md",
       "People/賈永婕：把明星社會資本一次次轉換成公共動員力的台灣實驗.md",
       "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
-      "People/王建民：建興國中出發，伸卡球讓洋基贏了兩個賽季.md",
       "Food/營養午餐：從脫脂奶粉到螢光咖哩，台灣學童餐桌上的百年變革.md",
       "Society/外省人：從被綁架的青春到認同腳下土地的台灣人.md",
       "People/吳哲宇（Che-Yu Wu）：從彈珠檯到威尼斯白牆，用 0 與 1 逼近靈魂的鐘錶匠.md",
@@ -5660,7 +5658,6 @@
       "Society/早餐店阿姨與社區情報網.md",
       "Culture/九天玄女：從黃帝的軍師到台灣陣頭少年的守護神.md",
       "Culture/擲筊：在 50% 的機率背後，聽見神明的聲音.md",
-      "History/台灣森林開發史：從資源榨取到國土保安的世紀轉向.md",
       "Culture/關聖帝君：一個敗軍之將如何成為台灣的萬能之神.md",
       "History/擎天崗的19頭牛：從源興牛到台南牛肉湯，一座島嶼的肉牛突圍.md",
       "People/何飛鵬.md",

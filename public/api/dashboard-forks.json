@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-08-30",
   "totalDetected": 16,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 11,
@@ -39,7 +39,7 @@
       "cognitiveLayer": "no",
       "health": "dormant",
       "firstSeen": "2026-03",
-      "views365d": 712
+      "views365d": 711
     },
     {
       "label": "Russia.md",
@@ -53,7 +53,7 @@
       "cognitiveLayer": "no docs/semiont",
       "health": "active",
       "firstSeen": "2026-03",
-      "views365d": 226
+      "views365d": 225
     },
     {
       "label": "LagunaBeach.md",
