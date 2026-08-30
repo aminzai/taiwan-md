@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-30 | 085328-twmd-maintainer-am | 三篇投稿翻譯 merge，餘下 5 篇全是哲宇保留項；追上游發現德文進庫 11 天 77 篇零檢查，三處 QA 接線補齊＋加對賬閘門 | 為同一個病造的閘門，只守了當初咬過人的那一份 mirror | [→](memory/2026-08-30-085328-twmd-maintainer-am.md) |
 | 2026-08-30 | 211907-twmd-routine-audit-weekly | 補上輪（08-23）斷軌；本 routine 與 supporters-weekly 都是四天全飛輪停轉的受害者；三份 handoff 指名一個停用一個月的 escalation target | 誠實的 handoff 加總也可能等於零人接手，因為沒人查過接球的人還在不在 | [→](memory/2026-08-30-211907-twmd-routine-audit-weekly.md) |
 | 2026-08-31 | 010944-twmd-supporters-weekly | Checkpoint 三週未動（08-10）；Gmail 0 候選信（過濾掉平台公告與推廣提醒各一封）；no-op 合法收工，累積 NT$8,400 不變 | checkpoint 三週未動不等於三週漏抓資料，08-17 no-op ＋ 08-24 沉默死亡 ＋ 本輪 0 候選疊加起來實際缺口是零 | [→](memory/2026-08-31-010944-twmd-supporters-weekly.md) |
+| 2026-08-31 | 053555-twmd-embeddings-nightly | 12 語重建 9,885 向量 0 fail 全綠；本機端點直連免 fallback；僅 hi/id 兩語鄰居因近期新翻譯變動，其餘 10 語不動 | 三夜連續 0 fail 直連是穩態訊號，平穩本身就是這條 routine 該有的樣子 | [→](memory/2026-08-31-053555-twmd-embeddings-nightly.md) |
