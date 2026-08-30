@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-31 | 053555-twmd-embeddings-nightly | 12 語重建 9,885 向量 0 fail 全綠；本機端點直連免 fallback；僅 hi/id 兩語鄰居因近期新翻譯變動，其餘 10 語不動 | 三夜連續 0 fail 直連是穩態訊號，平穩本身就是這條 routine 該有的樣子 | [→](memory/2026-08-31-053555-twmd-embeddings-nightly.md) |
 | 2026-08-31 | 053740-twmd-routine-sync | 三層對賬第 34 輪，18 條全 in-sync 零漂移；補推昨夜滯留未推的 embeddings commit | routine-sync 只驗 prompt/cron，不驗 git 領先落後，補推是管轄外但同樣必要的前置動作 | [→](memory/2026-08-31-053740-twmd-routine-sync.md) |
 | 2026-08-31 | 061453-twmd-data-refresh-am | 14 步全綠零 stale，英日韓譯文各+2，星數持平 1160；scheduler live-state dump 照 rider 無條件跑完 | 連續多 cycle 零 stale 代表過去 wire-fix 持續生效，不是巧合 | [→](memory/2026-08-31-061453-twmd-data-refresh-am.md) |
+| 2026-08-31 | 063818-twmd-spore-harvest-am | 166 筆 harvestStatus 逐條核對，D+1-D+7 窗口全數落空；最新孢子（8/23）已過 D+7，過去一週無新孢子發布；no-op 合法收工 | no-ship cycle 是發布節奏的自然結果，記下「檢查過確認空」比沉默跳過更有價值 | [→](memory/2026-08-31-063818-twmd-spore-harvest-am.md) |
