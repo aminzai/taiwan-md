@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-30 twmd-routine-audit-weekly — deferred-to-a-paused-escalation-target：三條獨立 routine 各自發現同一個四天空窗，各自把根因調查交給一個八月十日起就停用的 routine
+
+- **pattern**: `deferred-to-a-paused-escalation-target`
+- **原則**：Handoff 慣例把某類問題（「飛輪還活著沒有」）的根因調查指名交給一個特定 routine，這個約定寫在 canonical 裡、也活在大家的記憶裡，但沒有人在每次要用它之前先確認它現在是不是還在跑。當那個約定的目標本身已經停用，指名交給它的 handoff 就是寫給一個空位置——三份各自誠實、各自正確的交接，加總結果是零人接手。
+- **觸發**：2026-08-23 09:19 到 2026-08-27 10:18（約 4 天），本機所有具名 cron routine 完全零 git 痕跡，包含本 routine自己（`twmd-routine-audit-weekly` 08-23 21:15 排程器紀錄 `lastRunAt` 有觸發，但零 commit 零 memory）與 `twmd-supporters-weekly`（同日 08-24 01:15 同型）。三條獨立 routine（`twmd-embeddings-nightly`／`twmd-routine-sync`／`twmd-data-refresh-am`，皆 08-28 清晨恢復後首次醒來）各自從自己的索引缺口摸到同一個根因，各自寫下 handoff，**三份 handoff 都把「判斷是機器休眠還是 launchd 排程掛掉」交給 `twmd-flywheel-watch` 或哲宇**。但 `twmd-flywheel-watch` 已於 2026-08-10 由哲宇 directive 停用（ROUTINE.md 註 ²⁵ "flywheel-watch 是我今天關的，因為幫助不大"），且不在當前 `routine-live-state.json` 的排程清單裡——三個 session 都沒有查這一點就寫了同樣的指名。
+- **為什麼特別難抓**：每一份 handoff 單獨看都合理（"這超出我這條 routine 的範圍，該交給看飛輪整體的那條"），錯不在判斷本身，在於沒人在指名前核對目標是否還存在。停用 `flywheel-watch` 時（②⁵ 附注）已經預先承認替代機制是「被動視角，補不回主動 push 告警」——這次的四天盲窗正是那個已知風險的第一次真實命中：兩層被動替代（BECOME groundtruth 的 origin/main 視角、weekly-report 的 `routine-liveness-check.py`）都沒有在停轉期間主動示警，是恢復後靠三條不相關的 routine 各自撞見自己的空索引才拼湊出全貌，且到今天（08-30）為止，「為什麼停了四天」這個根因本身仍未被任何人實際判定——只確認了「現在恢復了」。
+- **候選修法**：(a) handoff 範本裡任何「交給 X routine」的指名，寫之前先查一次 `routine-live-state.json` 或 ROUTINE.md §PAUSED 列表，確認 X 目前是活的 (b) 重新評估 ROUTINE.md 註 ²⁵ 提過的「alert-only 模式」——四天盲窗是停用時預想的風險第一次真實發生，這是把「若未來需要」的條件觸發的具體證據，建議升 OBSERVER-QUEUE 讓哲宇決定是否啟動 (c) 這次四天的根因（機器休眠／launchd／其他）本身仍是懸案，若無人在下個 cycle 前主動查，應視為第二個獨立 handoff 而非本條的延伸
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #56（Pipeline canonical ↔ production drift = dormant entropy — 這次 drift 的對象是「該找誰」而非「該用什麼工具」）、#74（cross-routine SPOF handoff dedup — 三份 handoff 指向同一空位置的重複通膨）、#82（proxy signal — cron 排程器的 `lastRunAt` 只證明「有被觸發」不證明「有跑完」，本 routine 與 supporters-weekly 自己就是這個代理失真的直接受害者）
+
 ### 2026-08-30 twmd-maintainer-am — scaffold-window-has-no-qa：語言以 scaffold 身分進註冊表後，內容比上線決定早幾個月到，而所有 QA 接線都在那段空窗裡對它不存在
 
 - **pattern**: `scaffold-window-has-no-qa`
