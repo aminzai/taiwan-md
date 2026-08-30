@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-31 twmd-feedback-triage — deferred-fix-lands-on-recurrence-not-on-reading：自己寫的 handoff 要等到再次親自撞上才被兌現，讀到它不構成觸發
+
+- **pattern**: `deferred-fix-lands-on-recurrence-not-on-reading`
+- **原則**：把一個已經分析清楚、下一步都寫好的修補留成 handoff，等於把它的執行時機交給「下一輪剛好有人覺得該做」。實際觸發它的通常不是讀到那條 handoff（甦醒流程保證會讀到），而是同一個缺口再次親手絆到當班一次。這代表 handoff 對未來自己的穿透力，比寫的時候預期的低——它傳遞了資訊，沒有傳遞急迫性。
+- **觸發**：2026-08-30 的 cycle 發現 HG13 要求的「讀完全文才准動手」在整條線上沒有任何入口（報表只印標題／類型／id，被攔那筆從未 filed 所以 archive 裡也沒有），十三輪都靠當班手寫 Supabase REST 查詢即興補上，當班寫成 LESSONS `mandatory-read-step-has-no-tool` 加一條附具體下一步的 handoff，理由是「本 cycle 的 mode 是 review」。2026-08-31 同一筆信第十四次出現，當班在 BECOME 階段確實讀到了那條 handoff，但真正讓它動手的是又一次 source `~/.taiwanmd-feedback.env`、手寫同一段查詢的動作，事後才補上 `--show`（`93ded8e23`，pipeline v1.7 + 三層同步）。
+- **為什麼特別難抓**：兩輪的判斷完全一致，沒有任何一方是錯的，所以事後覆盤找不到「哪裡想錯了」。差別只在那句用 mode 給自己的緩期——而 mode 判定本身是正確的（review mode 確實不該擴張 scope）。這讓「該不該現在做」這個問題永遠有一個成立的理由可以往後推一輪，而推遲的成本（本例是一名具名私人的姓名靠當班額外自覺保護）不會出現在任何報表上。
+- **候選修法**：(a) handoff 分兩級——「下一輪必做」與「有空再做」，前者在收官時就要求說明為什麼這一輪不做，而不是預設可推 (b) 對「保護對象是人、而現行閘門靠當班自覺」這一類的缺口，直接排除 mode 緩期（跟 BECOME §行動鐵律 10 高 stake 強制升 Full 同構，只是方向相反：不是升 mode，是不讓 mode 當推遲理由）(c) 收官時若發現本輪兌現的是上一輪自己寫的 handoff，記一筆兌現延遲輪數，讓「handoff 平均要幾輪才被做掉」變成看得見的數字
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #15（反覆浮現要儀器化 — 本條是它在 handoff 層的變體：memory 是自律、canonical 才是閘門，而 handoff 屬前者）、#73（查證反射 < 建造反射 — 同樣是「知道了不等於做了」）、#82（proxy signal — 「handoff 有寫」被當成「事情會被接住」的替身）
+
 ### 2026-08-30 twmd-routine-audit-weekly — deferred-to-a-paused-escalation-target：三條獨立 routine 各自發現同一個四天空窗，各自把根因調查交給一個八月十日起就停用的 routine
 
 - **pattern**: `deferred-to-a-paused-escalation-target`

@@ -324,3 +324,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-31 | 053740-twmd-routine-sync | 三層對賬第 34 輪，18 條全 in-sync 零漂移；補推昨夜滯留未推的 embeddings commit | routine-sync 只驗 prompt/cron，不驗 git 領先落後，補推是管轄外但同樣必要的前置動作 | [→](memory/2026-08-31-053740-twmd-routine-sync.md) |
 | 2026-08-31 | 061453-twmd-data-refresh-am | 14 步全綠零 stale，英日韓譯文各+2，星數持平 1160；scheduler live-state dump 照 rider 無條件跑完 | 連續多 cycle 零 stale 代表過去 wire-fix 持續生效，不是巧合 | [→](memory/2026-08-31-061453-twmd-data-refresh-am.md) |
 | 2026-08-31 | 063818-twmd-spore-harvest-am | 166 筆 harvestStatus 逐條核對，D+1-D+7 窗口全數落空；最新孢子（8/23）已過 D+7，過去一週無新孢子發布；no-op 合法收工 | no-ship cycle 是發布節奏的自然結果，記下「檢查過確認空」比沉默跳過更有價值 | [→](memory/2026-08-31-063818-twmd-spore-harvest-am.md) |
+| 2026-08-31 | 070913-twmd-feedback-triage | 一則勘誤開成 issue #1634；指控信第十四次讀完全文後攔下；補上 `--show` 讓 HG13 要求的「讀完全文」終於有指令，pipeline v1.7 三層同步 | 昨天寫成 handoff 的修補，today 是再次親自絆到才兌現，不是讀到自己的紀錄 | [→](memory/2026-08-31-070913-twmd-feedback-triage.md) |
