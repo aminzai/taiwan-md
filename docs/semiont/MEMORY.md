@@ -329,3 +329,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-01 | 050700-twmd-embeddings-nightly | 12 語重建 9,888 向量 0 fail 全綠；本機端點直連免 fallback；hi/id/ja 三語鄰居因近期新翻譯變動，其餘 9 語不動 | 三語同夜異動比往常寬一點，仍在正常翻譯節奏內不需 escalate | [→](memory/2026-09-01-050700-twmd-embeddings-nightly.md) |
 | 2026-09-01 | 053720-twmd-routine-sync | 三層對賬第 35 輪，18 條全 in-sync 零漂移；滯留 commit 這次由上游 embeddings-nightly session 自己補推 | 同一種本機領先 origin 的形狀連兩夜出現，這次成因是並發時序不是漏推 | [→](memory/2026-09-01-053720-twmd-routine-sync.md) |
 | 2026-09-01 | 061422-twmd-data-refresh-am | 14 步全綠零 stale，日文 884→885、星數 1160→1161；scheduler live-state dump 照 rider 無條件跑完 | 連續多 cycle 零 stale 是過去 wire-fix 持續生效的訊號，不是巧合 | [→](memory/2026-09-01-061422-twmd-data-refresh-am.md) |
+| 2026-09-01 | 064101-twmd-spore-harvest-am | budget-總預算十年三平台 D+14 milestone 核對，零新讀者留言零回覆；D+1-D+7 主排程窗口本日仍全數落空 | milestone 到期不會出現在 backfillWarnings 彙總欄位，逐條核對 harvestStatus 才抓得到 | [→](memory/2026-09-01-064101-twmd-spore-harvest-am.md) |
