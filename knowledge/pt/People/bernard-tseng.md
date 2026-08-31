@@ -58,7 +58,7 @@ Mas em julho de 2020, a declaração de financiamento de campanha publicada pelo
 
 ⚠️ **Ponto de controvérsia:** Políticos em _talk shows_ de comédia não eram novidade em Taiwan; nos anos 2000 o _All People's Big Pot_ já tinha embriões de stand-up político. A diferença do _Boen Night Night Show_ está no "modo autor individual" — o apresentador é autor, editor, comercial e quem define a estrutura de preços. Isso moveu o _talk show_ político da produção coletiva de uma emissora para o modelo de empreendedorismo individual da economia de _influencers_. É daí que nasce a raiz estrutural das controvérsias futuras: um erro de julgamento do _author_ individual amplifica-se direto em evento público.
 
-A estrutura societária da Sartre sinaliza o mesmo novo modelo. No fim de 2024, a empresa tinha 11-50 funcionários, capital integralizado de 10,406 milhões de NT$ (6,5 milhões em setembro de 2023)[^20][^21]; no elenco, além de Tseng, estão Ho Lung, Lung Lung, Joseph, Da Ke-ai etc.[^11]. Presidente Tseng Po-en, CEO Pan Wei-hsiang (Hawkins), Hsieh Cheng-hao como diretor e consultor de produção[^11]. Comparada às emissoras tradicionais da época, é uma produtora de conteúdo/_influencer_ relativamente pequena, mas transformou o stand-up de hobby amador em indústria com balanço patrimonial.
+A estrutura societária da Sartre sinaliza o mesmo novo modelo. No fim de 2024, a empresa tinha 11-50 funcionários, capital integralizado de 10,406 milhões de NT$ (6,5 milhões em setembro de 2023)[^20][^21]; no elenco, além de Tseng, estão Ho Lung, o artista contratado que depois assumiu o Night Night Show, e Joseph (Chillseph)[^11][^43]. Presidente Tseng Po-en, CEO Pan Wei-hsiang (Hawkins), Hsieh Cheng-hao como diretor e consultor de produção[^11]. Comparada às emissoras tradicionais da época, é uma produtora de conteúdo/_influencer_ relativamente pequena, mas transformou o stand-up de hobby amador em indústria com balanço patrimonial.
 
 📝 **Nota do curador:** Tseng Po-en provou que comédia em Taiwan pode ser uma "indústria" precisa, não só performance amadora. Usou números de bilheteria para provar que o público taiwanês paga pela "arte de ofender". Mas o preço dessa industrialização só começou a aparecer em agosto de 2019.
 
@@ -154,7 +154,7 @@ A redação baseou-se em reportagens públicas, canais oficiais da Sartre Entret
 
 [^10]: [STR Network FB oficial - comunicado cofundação](https://www.facebook.com/strnetworkasia/posts/2974916849487196/) — Facebook oficial da Sartre sobre cofundação por Hsieh Cheng-hao (DJ Hauer) em 31/07/2018
 
-[^11]: [Sartre Entretenimento - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%96%A9%E6%B3%B0%E7%88%BE%E5%A8%9B%E6%A8%82) — Verbete da empresa, fundação 31/07/2018, nome de _satire_, estrutura presidente/CEO/elenco
+[^11]: [Sartre Entretenimento - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%96%A9%E6%B3%B0%E7%88%BE%E5%A8%9B%E6%A8%82) — Verbete da empresa, fundação 31/07/2018, nome de _satire_, estrutura presidente/CEO e a seção de equipe com a lista de comediantes que saíram (a página não traz elenco de artistas contratados)
 
 [^12]: [Duplo mestrado em inglês e francês vira _influencer_ de stand-up! Boen trata piada como ciência - CNA Culture+ / Storm Media](https://www.storm.mg/lifestyle/1001963) — Entrevista CNA Culture+ 2019: "Letras vs neurociência ambas falam da comunalidade humana", "palco como laboratório", "olha o fim do hip-hop" (previsão China)
 
