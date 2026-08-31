@@ -325,3 +325,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-31 | 061453-twmd-data-refresh-am | 14 步全綠零 stale，英日韓譯文各+2，星數持平 1160；scheduler live-state dump 照 rider 無條件跑完 | 連續多 cycle 零 stale 代表過去 wire-fix 持續生效，不是巧合 | [→](memory/2026-08-31-061453-twmd-data-refresh-am.md) |
 | 2026-08-31 | 063818-twmd-spore-harvest-am | 166 筆 harvestStatus 逐條核對，D+1-D+7 窗口全數落空；最新孢子（8/23）已過 D+7，過去一週無新孢子發布；no-op 合法收工 | no-ship cycle 是發布節奏的自然結果，記下「檢查過確認空」比沉默跳過更有價值 | [→](memory/2026-08-31-063818-twmd-spore-harvest-am.md) |
 | 2026-08-31 | 070913-twmd-feedback-triage | 一則勘誤開成 issue #1634；指控信第十四次讀完全文後攔下；補上 `--show` 讓 HG13 要求的「讀完全文」終於有指令，pipeline v1.7 三層同步 | 昨天寫成 handoff 的修補，today 是再次親自絆到才兌現，不是讀到自己的紀錄 | [→](memory/2026-08-31-070913-twmd-feedback-triage.md) |
+| 2026-08-31 | 085421-twmd-maintainer-am | 三篇投稿翻譯 merge；讀者抓到曾博恩條目把兩位喜劇演員寫成薩泰爾旗下藝人，九語言一起改，追上游發現那句引的來源整頁沒有名冊清單 | 腳註描述自己也是一句主張，而它是全篇唯一沒人對來源查過的 | [→](memory/2026-08-31-085421-twmd-maintainer-am.md) |
