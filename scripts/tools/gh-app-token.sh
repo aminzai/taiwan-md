@@ -85,13 +85,35 @@ print(json.load(sys.stdin).get("token",""))
   || die "回應裡沒有合法 token（不印空字串給 gh 用，見檔頭 fail-loud 鐵律）"
 
 if [[ ${1:-} == --whoami ]]; then
-  printf '%s' "$resp" | /usr/bin/python3 -c '
+  # 建 token 的回應只在「明確窄化庫範圍」時才帶 repositories 欄位；平常整個欄位不存在。
+  # 舊版把「回應沒列」印成「(all)」，跟真的覆蓋全部庫長得一模一樣——這條 routine 的
+  # HG11 就掛在這行輸出上，看到 (all) 的人無從判斷是哪一種（REFLEXES #38 混維度／
+  # #85「不知道」不能借用「沒事」的符號）。缺欄位時改問權威來源 /installation/repositories。
+  repos="$(printf '%s' "$resp" | /usr/bin/python3 -c '
 import json,sys
+print(", ".join(r["full_name"] for r in json.load(sys.stdin).get("repositories", [])))
+')"
+  if [[ -z $repos ]]; then
+    repos="$(curl -sS -H "Authorization: Bearer $token" \
+      -H "Accept: application/vnd.github+json" \
+      "$API/installation/repositories" 2>/dev/null | /usr/bin/python3 -c '
+import json,sys
+try:
+    d = json.load(sys.stdin)
+except Exception:
+    print("(查不到——不等於覆蓋全部庫)"); raise SystemExit
+names = [r["full_name"] for r in d.get("repositories", [])]
+print(", ".join(names) if names else "(查不到——不等於覆蓋全部庫)")
+')"
+  fi
+
+  printf '%s' "$resp" | REPOS="$repos" /usr/bin/python3 -c '
+import json,os,sys
 d = json.load(sys.stdin)
 print("installation :", d.get("repository_selection"))
 print("expires_at   :", d.get("expires_at"))
 print("permissions  :", json.dumps(d.get("permissions"), ensure_ascii=False))
-print("repositories :", ", ".join(r["full_name"] for r in d.get("repositories", [])) or "(all)")
+print("repositories :", os.environ["REPOS"])
 '
   exit 0
 fi

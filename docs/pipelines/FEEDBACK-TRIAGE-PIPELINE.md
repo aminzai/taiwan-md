@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.7'
-last_updated: 2026-08-31
-last_session: '2026-08-31-twmd-feedback-triage（--show <id>：HG13 要求的「讀完全文」終於有入口）'
+current_version: 'v1.8'
+last_updated: 2026-09-01
+last_session: '2026-09-01-twmd-feedback-triage（--whoami 的 repositories 行改印真實安裝範圍，不再把缺席印成 (all)）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -51,6 +51,12 @@ export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"
 | 壽命     | installation token 一小時自動過期                                                       |
 | 反面實測 | Contents / PR / Admin / workflow 寫入一律 403，其他庫 404（2026-07-25 親測）            |
 | 私鑰     | 宿主機 `~/.taiwanmd-app.pem`（600），不進 git、不進對話（REFLEXES #2）                  |
+
+`--whoami` 的 `repositories` 行印的是**真實安裝範圍**（2026-09-01 修）：建 token 的回應平常根本不帶
+`repositories` 欄位，舊版把這個缺席印成 `(all)`，跟一個真的覆蓋全部庫的 token 逐字相同——這道閘門
+的判讀就掛在那行字上（[REFLEXES #38](../semiont/REFLEXES.md) 混維度／[#85](../semiont/REFLEXES.md)
+「不知道」不能借用「沒事」的符號）。缺欄位時改問 `/installation/repositories` 這個權威來源，查不到
+印「查不到——不等於覆蓋全部庫」。
 
 **🔴 HG11**：`GH_TOKEN` 必須是 `ghs_` 開頭的 App token。空值或缺失一律停手——空的 `GH_TOKEN` 會讓 `gh` 安靜退回宿主機登入的帳號，issue 掛錯作者而且沒有任何警報（靜默吞錯家族在這條線上的長相）。`gh-app-token.sh` 換不到 token 就 `exit 1`，不回空字串。
 
@@ -305,6 +311,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.8 | 2026-09-01 twmd-feedback-triage routine — **`--whoami` 的 `repositories` 行改印真實安裝範圍**。HG11 的判讀掛在這行輸出上，而建 token 的回應平常不帶 `repositories` 欄位，舊版 `or "(all)"` 把這個缺席印成「覆蓋全部庫」——跟一個權限真的開到全部庫的 token 逐字相同，看到的人無從分辨是哪一種。實際安裝範圍是`frank890417/taiwan-md` 一個庫（`/installation/repositories` 回 `total_count: 1`），canonical 敘述一直是對的，說謊的是那行報表。修法：缺欄位時去問 `/installation/repositories` 這個權威來源（[REFLEXES #69](../semiont/REFLEXES.md) 外部尺），查不到印「查不到——不等於覆蓋全部庫」，不讓「沒查到」跟「範圍很大」共用同一個長相。誕生：8/30 這條 routine 自己的 cycle 記下這個對不上並寫進 handoff，連傳三個 cycle 沒人動手；今天在同一行輸出前第四次讀到它才收掉（LESSONS `deferred-fix-lands-on-recurrence-not-on-reading` 的同型再現）。_
 _v1.7 | 2026-08-31 twmd-feedback-triage routine — **`--show <id>`：HG13 那道必經動作終於有入口**。HG13 寫「當班要自己讀完內容再動手」，但整條線上沒有任何指令能讀到 body——dry-run 報表只印標題／類型／id，而被攔的那筆從未 filed，`docs/feedback/archive/` 裡也沒有它。十四輪下來每一輪都得自己 source 一次 `~/.taiwanmd-feedback.env`、手寫一段 Supabase REST 查詢，閘門的可靠度因此掛在「當班願不願意多做一件流程沒給的事」上，而它保護的是一名具名私人的姓名（8/30 已記成 LESSONS `mandatory-read-step-has-no-tool`，本輪同一筆第十四次出現時再次撞上，vc=2）。`selectForShow()` / `formatForShow()` 純函式 + 6 unit test，唯讀路徑放在所有副作用之前直接 return；打錯的 id 印 `⚠️ 根本沒查到這筆`，不讓「沒查到」跟「內容沒問題」共用同一個長相（REFLEXES #38 混維度）。這跟 8/15 的 `--exclude` 是同一條線的兩半：那個解「攔下來之後流程還跑不跑得完」，這個解「攔之前看不看得到」——兩個都是純操作面閘門，不碰判準、不對外開口，所以可以自己補。OBSERVER-QUEUE #28 的 (a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
 _v1.6 | 2026-08-15 twmd-feedback-triage routine — **`--exclude <id>`：攔一筆不再需要整條停擺**。8/14 攔下的第三人指控那筆（`status` 維持 `new`）今天原樣再出現一次，而 `triage.mjs` 沒有單筆排除參數，「不開這個 issue」的唯一走法是整條 `--commit` 不跑——留言 sync 與兩道對賬跟著轉錄那半一起消失（LESSONS `zero-input-cycle-drops-the-reconciliation` 第 3 個 instance，vc=3）。8/14 當班用純函式手動補跑對賬，本次把它變成流程給的：`parseArgs` 收 `--exclude`（可重複／逗號串）、`partitionExcluded()` 純函式 + 5 unit test，排除與**打錯的 id** 都印在報表上（silent default = silent failure，REFLEXES #60）；`main()` 改成只有被當指令跑才執行，讓純函式可被 test import。這是 OBSERVER-QUEUE #28 三選項裡的 (b)——純操作面閘門，不碰判準；(a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
 _v1.5 | 2026-08-09 twmd-self-evolve-weekly — **cron mirror HG9/HG10 缺口真正補齊**：v1.3 changelog 曾聲稱「修 cron mirror 仍用舊 HG9/HG10 舊號的漂移」，但那句話本身也只是宣稱——實地 grep `~/.claude/scheduled-tasks/taiwanmd-routine-twmd-feedback-triage/SKILL.md` 證實 HG9（tilde fence）／HG10（injection 偵測）兩行從未真正落地，8/8 twmd-routine-sync 與 8/9 twmd-distill-weekly 先後在對賬與驗證時各自碰到這個縫但都留給下一個 cycle。本次直接補上兩行、跑 `routine-sync.py --harvest` 收回 git SSOT，`routine-sync.py` 收官印「三層一致」。同一個「已同步」宣稱被 3 個獨立 session 當事實傳遞卻沒人現場重驗，升進 [REFLEXES #67](../semiont/REFLEXES.md) routine-infra 變體（vc=1→4）。_

@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-01 twmd-feedback-triage — absent-field-rendered-as-the-widest-reading：缺席的欄位被 fallback 印成最寬的那個解讀，跟真的很寬長得一模一樣
+
+- **pattern**: `absent-field-rendered-as-the-widest-reading`
+- **原則**：報表用 `or "(全部)"` 這類 fallback 填補一個不存在的欄位時，等於替缺席挑了一個解讀，而且挑的是後果最重的那個。輸出端從此有兩種來源共用同一行字：真的很寬，跟根本沒問到。看的人無從分辨，而依賴這行字的閘門也就跟著失去解析度。跟「靜默預設」的差別在於這裡沒有任何東西是靜默的——它大聲印了一個看起來很具體的答案，只是那個答案不是量出來的。
+- **觸發**：`gh-app-token.sh --whoami` 的 `repositories` 行長期印 `(all)`，而 FEEDBACK-TRIAGE-PIPELINE §機器身份寫的是「只覆蓋 `frank890417/taiwan-md` 一個庫」。根因是 GitHub 建 installation token 的回應**平常不帶** `repositories` 欄位（只有明確窄化庫範圍時才帶），舊版把這個缺席 `or "(all)"` 成「覆蓋全部庫」。實查 `/installation/repositories` 回 `total_count: 1`，canonical 敘述一直是對的，說謊的是那行報表。HG11 的判讀正是掛在這行輸出上。修法：缺欄位時去問 `/installation/repositories` 這個權威來源，查不到印「查不到——不等於覆蓋全部庫」。
+- **為什麼閘門沒接住**：HG11 檢查的是 token 的形狀（`ghs_` 開頭）與權限欄位，`repositories` 那行從來只是給人看的旁註，沒有任何斷言掛在上面——所以它印錯了三個 cycle 也不會有任何檢查變紅。一個沒有被斷言使用的顯示欄位，等於沒有人在替它的正確性負責，但讀它的人不知道這件事。
+- **候選修法**：(a) 診斷輸出裡任何 `or "預設值"` 的 fallback 都要問「這個預設跟真值長得一樣嗎」，一樣就換成明說不知道的符號（REFLEXES #85 的直接 apply）(b) 掃一遍其他 routine 的 `--whoami` / `--status` 類診斷輸出，找同型的「缺席被填成一個具體答案」(c) 對安全相關的範圍宣稱（權限、庫、帳號），顯示層一律去問權威來源而不是複述請求的回應
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #38（混維度 — 一行字承載「很寬」與「沒問到」兩種根因）、#85（「不知道」需要自己的符號，不能借用「沒事」的那個 — 本條是它的鏡像：借用了「最糟」的那個）、#82（proxy signal — 請求回應的欄位被當成安裝範圍的替身）、#69（外部尺 — 修法就是去問權威端而不是複述自己手上的那份）
+
 ### 2026-08-31 twmd-maintainer-am — footnote-description-is-an-unaudited-claim：腳註描述自己也是一個主張，而它是全篇唯一沒有人對來源查過的那一句
 
 - **pattern**: `footnote-description-is-an-unaudited-claim`
@@ -350,7 +361,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-08-30 的 cycle 發現 HG13 要求的「讀完全文才准動手」在整條線上沒有任何入口（報表只印標題／類型／id，被攔那筆從未 filed 所以 archive 裡也沒有），十三輪都靠當班手寫 Supabase REST 查詢即興補上，當班寫成 LESSONS `mandatory-read-step-has-no-tool` 加一條附具體下一步的 handoff，理由是「本 cycle 的 mode 是 review」。2026-08-31 同一筆信第十四次出現，當班在 BECOME 階段確實讀到了那條 handoff，但真正讓它動手的是又一次 source `~/.taiwanmd-feedback.env`、手寫同一段查詢的動作，事後才補上 `--show`（`93ded8e23`，pipeline v1.7 + 三層同步）。
 - **為什麼特別難抓**：兩輪的判斷完全一致，沒有任何一方是錯的，所以事後覆盤找不到「哪裡想錯了」。差別只在那句用 mode 給自己的緩期——而 mode 判定本身是正確的（review mode 確實不該擴張 scope）。這讓「該不該現在做」這個問題永遠有一個成立的理由可以往後推一輪，而推遲的成本（本例是一名具名私人的姓名靠當班額外自覺保護）不會出現在任何報表上。
 - **候選修法**：(a) handoff 分兩級——「下一輪必做」與「有空再做」，前者在收官時就要求說明為什麼這一輪不做，而不是預設可推 (b) 對「保護對象是人、而現行閘門靠當班自覺」這一類的缺口，直接排除 mode 緩期（跟 BECOME §行動鐵律 10 高 stake 強制升 Full 同構，只是方向相反：不是升 mode，是不讓 mode 當推遲理由）(c) 收官時若發現本輪兌現的是上一輪自己寫的 handoff，記一筆兌現延遲輪數，讓「handoff 平均要幾輪才被做掉」變成看得見的數字
-- **verification_count**: 1
+- **第 2 例（2026-09-01 同 routine）**：`gh-app-token.sh --whoami` 印 `(all)` 與 canonical 對不上，8/30 由這條 routine 自己記下並寫成附具體下一步的 handoff，之後連續三個 cycle（8/31、9/01 早鏈、本輪）的甦醒都讀到它，沒有一輪動手。真正兌現它的是本輪第四次在同一行輸出前停下來。跟第 1 例的差別是這次連「mode 不該擴張 scope」的理由都沒用上——它就只是每次都排在那筆指控信後面，而那筆處理完就收官了。這一例支持候選修法 (c)：兌現延遲輪數如果是個看得見的數字（本例 3 輪），第二輪就會刺眼。
+- **verification_count**: 2
 - **severity**: structural
 - **相關**：REFLEXES #15（反覆浮現要儀器化 — 本條是它在 handoff 層的變體：memory 是自律、canonical 才是閘門，而 handoff 屬前者）、#73（查證反射 < 建造反射 — 同樣是「知道了不等於做了」）、#82（proxy signal — 「handoff 有寫」被當成「事情會被接住」的替身）
 
