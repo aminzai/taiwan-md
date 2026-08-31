@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-31 twmd-maintainer-am — footnote-description-is-an-unaudited-claim：腳註描述自己也是一個主張，而它是全篇唯一沒有人對來源查過的那一句
+
+- **pattern**: `footnote-description-is-an-unaudited-claim`
+- **原則**：一條腳註有兩個主張，不是一個。正文那句「A 是 B[^n]」會被查核鏈對著來源驗；但腳註自己那行「[^n]: 某來源 — 含 X、Y、Z」也在宣稱「這個來源涵蓋 X/Y/Z」，而整條產線沒有任何一步對著來源檢查這句。它是寫作者照著「我希望這個來源說什麼」寫下的目錄，卻長得像查證結果。更糟的是它的讀者是未來的自己：下一輪要驗這篇時，會先讀那行描述決定要不要打開連結——描述說「含旗下藝人結構」，就沒有人會再去確認那頁到底有沒有那個清單。
+- **觸發**：2026-08-30 讀者 milesism 站上回報「龍龍和大可愛從不曾是薩泰爾藝人」。查證確認讀者對（龍龍經紀約在星雨國際，2021 龍K事件終止的是那份約；大可愛專場掛卡米地），但更根本的是：那句名冊引的維基百科「薩泰爾娛樂」條目**整頁沒有「旗下藝人」清單**，只有團隊與已離職喜劇演員名單。而該篇腳註 11 的描述寫著該來源「含 2018-07-31 成立日期、satire 音譯名稱由來、董事長 / 執行長 / **旗下藝人結構**」——前三項都對，第四項是憑空的。錯誤同時活在中文 SSOT 與八個語言譯文（`f76247488` 九檔一起改）。
+- **為什麼閘門沒接住**：「連結-描述錯位」這條規則存在，但只掛在 [MAINTAINER-PIPELINE Step 3.4 §Footnote source authority audit](../pipelines/MAINTAINER-PIPELINE.md) 的紅旗 11，而該節的觸發條件寫死是「**外部 PR** with footnote 改動」。Taiwan.md 自己寫的 EVOLVE 長文走的是 REWRITE Stage 2D source-fidelity（正文逐字回溯）與 Stage 3 幻覺審計——兩者都驗正文對來源，都沒有驗描述對來源。也就是說這條規則掛在兩條路徑裡曝光較低的那一條上：外部投稿一年幾十篇，自產深度文是站上主力。這跟 2026-08-23 `highest-exposure-slot-is-the-one-with-no-gate` 是同一個形狀，只是換了一組路徑。
+- **候選修法**：(a) 把「腳註描述也是待驗主張」寫進 REWRITE Stage 2D 的交付條件——描述只能寫查證時真的在該頁看到的段落名，禁止寫「含 X 結構」這種目錄式概括 (b) 機械化可做的一半：描述裡出現「含／包括／涵蓋」加名詞清單時，要求每個名詞在正文至少有一處實際引用它，抓「描述比正文用得多」的膨脹 (c) 把紅旗 11 從 Step 3.4 的外部 PR scope 提到跨路徑，自產文與投稿同一把尺
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #75（Read ≠ verify — 本條是它的下一層：連「我讀過所以我知道它有什麼」這句摘要本身都沒被驗）、#82（proxy signal — 腳註描述被當成來源內容的替身）、#16（讀者級事實最脆弱也最易漏：名冊關係正是讀者秒懂、research agent 不覺得要驗的那層）、LESSONS `highest-exposure-slot-is-the-one-with-no-gate`（2026-08-23，同形）、`internal-report-as-unverified-source`（2026-07-26）
+
 ### 2026-08-31 twmd-feedback-triage — deferred-fix-lands-on-recurrence-not-on-reading：自己寫的 handoff 要等到再次親自撞上才被兌現，讀到它不構成觸發
 
 - **pattern**: `deferred-fix-lands-on-recurrence-not-on-reading`
