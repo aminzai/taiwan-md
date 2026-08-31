@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-31
-last_session: '2026-08-31-061453-twmd-data-refresh-am'
+last_updated: 2026-09-01
+last_session: '2026-09-01-050700-twmd-embeddings-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-31 | 063818-twmd-spore-harvest-am | 166 筆 harvestStatus 逐條核對，D+1-D+7 窗口全數落空；最新孢子（8/23）已過 D+7，過去一週無新孢子發布；no-op 合法收工 | no-ship cycle 是發布節奏的自然結果，記下「檢查過確認空」比沉默跳過更有價值 | [→](memory/2026-08-31-063818-twmd-spore-harvest-am.md) |
 | 2026-08-31 | 070913-twmd-feedback-triage | 一則勘誤開成 issue #1634；指控信第十四次讀完全文後攔下；補上 `--show` 讓 HG13 要求的「讀完全文」終於有指令，pipeline v1.7 三層同步 | 昨天寫成 handoff 的修補，today 是再次親自絆到才兌現，不是讀到自己的紀錄 | [→](memory/2026-08-31-070913-twmd-feedback-triage.md) |
 | 2026-08-31 | 085421-twmd-maintainer-am | 三篇投稿翻譯 merge；讀者抓到曾博恩條目把兩位喜劇演員寫成薩泰爾旗下藝人，九語言一起改，追上游發現那句引的來源整頁沒有名冊清單 | 腳註描述自己也是一句主張，而它是全篇唯一沒人對來源查過的 | [→](memory/2026-08-31-085421-twmd-maintainer-am.md) |
+| 2026-09-01 | 050700-twmd-embeddings-nightly | 12 語重建 9,888 向量 0 fail 全綠；本機端點直連免 fallback；hi/id/ja 三語鄰居因近期新翻譯變動，其餘 9 語不動 | 三語同夜異動比往常寬一點，仍在正常翻譯節奏內不需 escalate | [→](memory/2026-09-01-050700-twmd-embeddings-nightly.md) |
