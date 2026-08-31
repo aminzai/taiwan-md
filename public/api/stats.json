@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10076,
+  "totalArticles": 10079,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7148,
+  "totalTags": 7157,
   "categories": [
     {
       "name": "es",
@@ -22,7 +22,7 @@
     },
     {
       "name": "ja",
-      "count": 886
+      "count": 887
     },
     {
       "name": "vi",
@@ -30,7 +30,7 @@
     },
     {
       "name": "hi",
-      "count": 672
+      "count": 673
     },
     {
       "name": "ru",
@@ -46,7 +46,7 @@
     },
     {
       "name": "id",
-      "count": 592
+      "count": 593
     },
     {
       "name": "ar",
@@ -196,24 +196,24 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10076,
+    "zh-TW": 10079,
     "en": 0
   },
-  "lastUpdated": "2026-08-30T22:12:23.157Z",
-  "stars": 1160,
+  "lastUpdated": "2026-08-31T22:12:22.637Z",
+  "stars": 1161,
   "forks": 182,
   "zhPages": 1115,
   "languagePages": {
     "zh-TW": 1115,
     "en": 891,
-    "ja": 886,
+    "ja": 887,
     "ko": 885,
     "es": 883,
     "fr": 884,
     "vi": 800,
-    "id": 592,
+    "id": 593,
     "pt": 848,
-    "hi": 672,
+    "hi": 673,
     "ar": 755,
     "ru": 786
   },

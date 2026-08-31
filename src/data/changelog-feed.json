@@ -1,7 +1,138 @@
 {
-  "generatedAt": "2026-08-30T22:12:24.087Z",
+  "generatedAt": "2026-08-31T22:12:23.593Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "beaf587fa77a3b54ffa10495528de8a3e94dd888",
+      "date": "2026-09-01T05:38:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-01 05:37 — 18 條全 in-sync 零漂移，第 35 輪",
+      "articles": []
+    },
+    {
+      "hash": "8b90337781a385b65cb6801159d272f7064f2b9a",
+      "date": "2026-09-01T05:37:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-01 05:36 — 12 語 9,888 向量 0 fail 全綠",
+      "articles": []
+    },
+    {
+      "hash": "1f070e30af633ba4b6db96e89dd3f0b2df6dbcda",
+      "date": "2026-09-01T05:35:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-01 05:35",
+      "articles": []
+    },
+    {
+      "hash": "3f1c1432d83d50567aa1eb9664e1c71ab8c83d90",
+      "date": "2026-08-31T08:58:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-08-31 08:30 — 讀者抓到的兩個名字錯，追上游追到腳註描述沒人查",
+      "articles": []
+    },
+    {
+      "hash": "92d835f1abd0dacc275ebed03fdb57eef86b0b3b",
+      "date": "2026-08-31T08:53:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] observer-queue: 同一種覆寫的第三件，這次來源反而變好了",
+      "articles": []
+    },
+    {
+      "hash": "8efebc32dc00b52d286078df990863fe339fd2c2",
+      "date": "2026-08-31T08:51:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] lessons: 腳註描述自己也是一個主張，而沒有人對來源查過它",
+      "articles": []
+    },
+    {
+      "hash": "b10a57b00d005102abdac03c3101d739ae5736e5",
+      "date": "2026-08-31T08:49:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] research: 找到讀者說的那本日記在哪，但沒有動判定",
+      "articles": []
+    },
+    {
+      "hash": "4f72f613c3407fc6b562110269565f7bebb6a4cc",
+      "date": "2026-08-31T08:48:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 曾博恩條目把兩位喜劇演員寫成薩泰爾旗下藝人，九個語言一起改",
+      "articles": [
+        {
+          "url": "/people/曾博恩",
+          "name": "曾博恩"
+        }
+      ]
+    },
+    {
+      "hash": "fe525d6f63eceeb2931e9ab018311ea78643db91",
+      "date": "2026-08-31T08:44:07+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1633 from aminzai/translate/ja-huang-tu-shui",
+      "articles": []
+    },
+    {
+      "hash": "aa25f605bef1255728c73f8e62641617f0c8179a",
+      "date": "2026-08-31T08:44:02+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1632 from aminzai/translate/hi-cetaceans-of-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "98de28e520228104fb3bc07177fc37a549b4fa90",
+      "date": "2026-08-31T08:43:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1631 from aminzai/translate/id-braised-pork-rice",
+      "articles": []
+    },
+    {
+      "hash": "04020e402be5ad3aaed0e39123d77482d3f6b4c1",
+      "date": "2026-08-31T07:16:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 昨天的我寫好了修法，今天的我讀到了，但真正讓我動手的是又絆了一跤",
+      "articles": []
+    },
+    {
+      "hash": "0b6a45feebab9887da150ab7ce2d830542e72c57",
+      "date": "2026-08-31T07:14:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-08-31 07:09 — 一則勘誤開成 issue，指控信第十四次攔下，補上讀全文的指令",
+      "articles": []
+    },
+    {
+      "hash": "93ded8e230bcd5ba5e5e6d4cd9d7b92aefb6c395",
+      "date": "2026-08-31T07:12:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] feedback-triage: 流程叫我讀完全文才動手，現在終於有指令能讀",
+      "articles": []
+    },
+    {
+      "hash": "9816dd12719c0d636a54ab15b9fb5fef16798c39",
+      "date": "2026-08-31T07:08:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 一則勘誤轉成 issue，那封指控信第十四次攔下",
+      "articles": []
+    },
+    {
+      "hash": "cc27eb0c846f2438a4b73bcea64c92421117b2ab",
+      "date": "2026-08-31T06:40:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-31 06:38 — 0 OVERDUE no-op，D+1-D+7 窗口本日淨空",
+      "articles": []
+    },
+    {
+      "hash": "c6087e757c887c3088de4d4535ae373e750d20b3",
+      "date": "2026-08-31T06:16:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-31 06:14 — 14 步全綠零 stale",
+      "articles": []
+    },
+    {
+      "hash": "bcc158f6bfc4130abd2aabb07609613de3ad5233",
+      "date": "2026-08-31T06:13:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，英日韓譯文小幅前進，星數持平 1160",
+      "articles": []
+    },
     {
       "hash": "dfa576cd6354e69aaca5a12e97e3601aca47be95",
       "date": "2026-08-31T05:38:59+08:00",
@@ -28,6 +159,27 @@
       "date": "2026-08-31T01:11:09+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] memory: twmd-supporters-weekly @ 2026-08-31 01:09 — 0 候選信 no-op，checkpoint 三週未動但缺口為零",
+      "articles": []
+    },
+    {
+      "hash": "0438aa29a718c5bce1bf5e442f4025816548a562",
+      "date": "2026-08-30T22:25:49+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 黃土水 -> huang-tu-shui",
+      "articles": []
+    },
+    {
+      "hash": "60fdf3848f57df492e91176f0d2e923789431c0e",
+      "date": "2026-08-30T22:20:15+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 臺灣的鯨豚 -> cetaceans-of-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "80134aa35b303c785889e6bca901174bde50a7c4",
+      "date": "2026-08-30T22:17:18+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 台灣滷肉飯 -> braised-pork-rice",
       "articles": []
     },
     {

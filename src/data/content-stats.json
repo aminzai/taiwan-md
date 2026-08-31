@@ -4,13 +4,13 @@
     "Art": 432,
     "Culture": 789,
     "Economy": 668,
-    "Food": 677,
+    "Food": 678,
     "Geography": 661,
     "History": 581,
     "Lifestyle": 337,
     "Music": 343,
-    "Nature": 408,
-    "People": 2536,
+    "Nature": 409,
+    "People": 2537,
     "Politics": 111,
     "Society": 939,
     "Technology": 599,
@@ -604,7 +604,11 @@
     {
       "date": "2026-08-29",
       "count": 4
+    },
+    {
+      "date": "2026-08-30",
+      "count": 3
     }
   ],
-  "updated": "2026-08-30"
+  "updated": "2026-08-31"
 }

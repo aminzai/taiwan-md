@@ -22485,7 +22485,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/bernard-tseng",
-    "readingTime": 74,
+    "readingTime": 75,
     "featured": false,
     "date": "2026-05-13",
     "path": "ja/People/bernard-tseng.md"
@@ -23343,6 +23343,23 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "People/黃震南.md"
+  },
+  {
+    "title": "黄土水：失踪から帰ってきた一体の台湾近代彫刻",
+    "description": "東京で西洋彫刻を学びながら、異郷のまなざしのなかで少しずつ台湾を見つけていった彫刻家。約七十年ゆくえ不明だった大理石作品の再発見が、この美術史をもう一度立ち上がらせました。",
+    "category": "ja",
+    "tags": [
+      "黄土水",
+      "甘露水",
+      "台湾美術史",
+      "彫刻",
+      "東京美術学校"
+    ],
+    "url": "https://taiwan.md/ja/people/huang-tu-shui",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-08-14",
+    "path": "ja/People/huang-tu-shui.md"
   },
   {
     "title": "黄大煒：2、3時間で書いた歌を、彼は人生の後半をかけて忘れようとしました",
@@ -32471,7 +32488,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/bernard-tseng",
-    "readingTime": 167,
+    "readingTime": 168,
     "featured": false,
     "date": "2026-05-13",
     "path": "vi/People/bernard-tseng.md"
@@ -62133,6 +62150,23 @@
     "path": "vi/People/crowd-lu-indie-folk-treasure.md"
   },
   {
+    "title": "Lu Rou Fan: Nasi Babi Kecap Taiwan",
+    "description": "Dari dapur juancun sampai menjadi makanan nasional — perang utara-selatan dan identitas budaya di balik semangkuk lu rou fan Taiwan",
+    "category": "id",
+    "tags": [
+      "Lu rou fan",
+      "Rou zao fan",
+      "Masakan juancun",
+      "Makanan nasional",
+      "Perbedaan utara-selatan"
+    ],
+    "url": "https://taiwan.md/id/food/braised-pork-rice",
+    "readingTime": 36,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "id/Food/braised-pork-rice.md"
+  },
+  {
     "title": "Lư Thành Phận: Từ vòng Tứ Wimbledon đến năm Olympic, cầu thủ tennis của Đài Loan đi xa nhất",
     "description": "Vào năm 2010 tại Wimbledon, Lư Thành Phận đã đánh bại Andy Roddick, người là số 7 trong kỳ thi, trở thành cầu thủ tennis nam đầu tiên của Đài Loan chạm tới vòng Tứ trong các giải đấu Grand Slam. Từ năm 2004 tại Thế vận hội Atên đến năm 2021 tại Thế vận hội Tokyo, ông đã tham dự năm Olympic liên tiếp, là cầu thủ tennis của Đài Loan đi xa nhất trong lịch sử thể thao hiện đại. Sau khi hưu trường, ông thành lập học viện tennis, hy vọng Đài Loan có nhiều nguồn lực hơn để sao chép lại con đường ông đã đi qua.",
     "category": "vi",
@@ -83549,7 +83583,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/bernard-tseng",
-    "readingTime": 176,
+    "readingTime": 177,
     "featured": false,
     "date": "2026-05-13",
     "path": "fr/People/bernard-tseng.md"
@@ -83560,7 +83594,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/bernard-tseng",
-    "readingTime": 177,
+    "readingTime": 178,
     "featured": false,
     "date": "2026-05-13",
     "path": "es/People/bernard-tseng.md"
@@ -83571,7 +83605,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/bernard-tseng",
-    "readingTime": 137,
+    "readingTime": 138,
     "featured": false,
     "date": "2026-05-13",
     "path": "pt/People/bernard-tseng.md"
@@ -109311,6 +109345,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "hi/Culture/taiwanese-life-ceremony-traditions.md"
+  },
+  {
+    "title": "ताइवान के व्हेल और डॉल्फ़िन (鯨豚)",
+    "description": "दुनिया की एक-तिहाई व्हेल-डॉल्फ़िन प्रजातियों का घर — कभी व्हेल का शिकार, आज व्हेल-दर्शन: ताइवान समुद्री पारिस्थितिकी शोध का केंद्र कैसे बना?",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/nature/cetaceans-of-taiwan",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/Nature/cetaceans-of-taiwan.md"
   },
   {
     "title": "ताइवान के शिक्षकों की अनुशासन दुविधा: शिक्षण दंड के गायब होने से लेकर बोलने की हिम्मत न जुटा पाने के बीस साल",

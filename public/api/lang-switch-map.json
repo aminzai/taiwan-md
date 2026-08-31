@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:12:20.243Z",
+  "generated_at": "2026-08-31T22:12:19.650Z",
   "languages": [
     "en",
     "ja",
@@ -13,7 +13,7 @@
     "ar",
     "ru"
   ],
-  "total_entries": 26450,
+  "total_entries": 26459,
   "registry": {
     "en": {
       "toZh": {
@@ -3233,6 +3233,7 @@
         "/ja/people/huang-kuo-chen": "/people/%E9%BB%83%E5%9C%8B%E7%8F%8D",
         "/ja/people/huang-shan-liao": "/people/%E9%BB%83%E5%B1%B1%E6%96%99",
         "/ja/people/huang-shao-yong-musician": "/people/%E9%BB%83%E5%B0%91%E9%9B%8D",
+        "/ja/people/huang-tu-shui": "/people/%E9%BB%83%E5%9C%9F%E6%B0%B4",
         "/ja/people/huang-yu-chiao-democracy-elder": "/people/%E9%BB%83%E7%8E%89%E5%AC%8C",
         "/ja/people/huang-zhen-nan-book-collector-historian": "/people/%E9%BB%83%E9%9C%87%E5%8D%97",
         "/ja/people/hung-hsing-fu": "/people/%E6%B4%AA%E9%86%92%E5%A4%AB",
@@ -4686,6 +4687,8 @@
         "/people/黃山料": "/ja/people/huang-shan-liao",
         "/people/%E9%BB%83%E5%B0%91%E9%9B%8D": "/ja/people/huang-shao-yong-musician",
         "/people/黃少雍": "/ja/people/huang-shao-yong-musician",
+        "/people/%E9%BB%83%E5%9C%9F%E6%B0%B4": "/ja/people/huang-tu-shui",
+        "/people/黃土水": "/ja/people/huang-tu-shui",
         "/people/%E9%BB%83%E7%8E%89%E5%AC%8C": "/ja/people/huang-yu-chiao-democracy-elder",
         "/people/黃玉嬌": "/ja/people/huang-yu-chiao-democracy-elder",
         "/people/%E9%BB%83%E9%9C%87%E5%8D%97": "/ja/people/huang-zhen-nan-book-collector-historian",
@@ -15750,6 +15753,7 @@
         "/id/food/ba-wan-meatball": "/food/%E8%82%89%E5%9C%93",
         "/id/food/bamboo-tube-rice": "/food/%E7%AB%B9%E7%AD%92%E9%A3%AF",
         "/id/food/beef-soup": "/food/%E7%89%9B%E8%82%89%E6%B9%AF",
+        "/id/food/braised-pork-rice": "/food/%E5%8F%B0%E7%81%A3%E6%BB%B7%E8%82%89%E9%A3%AF",
         "/id/food/bubble-tea": "/food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6",
         "/id/food/chiayi-turkey-rice": "/food/%E5%98%89%E7%BE%A9%E7%81%AB%E9%9B%9E%E8%82%89%E9%A3%AF",
         "/id/food/chishang-bento": "/food/%E6%B1%A0%E4%B8%8A%E4%BE%BF%E7%95%B6",
@@ -16476,6 +16480,8 @@
         "/food/竹筒飯": "/id/food/bamboo-tube-rice",
         "/food/%E7%89%9B%E8%82%89%E6%B9%AF": "/id/food/beef-soup",
         "/food/牛肉湯": "/id/food/beef-soup",
+        "/food/%E5%8F%B0%E7%81%A3%E6%BB%B7%E8%82%89%E9%A3%AF": "/id/food/braised-pork-rice",
+        "/food/台灣滷肉飯": "/id/food/braised-pork-rice",
         "/food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6": "/id/food/bubble-tea",
         "/food/珍珠奶茶": "/id/food/bubble-tea",
         "/food/%E5%98%89%E7%BE%A9%E7%81%AB%E9%9B%9E%E8%82%89%E9%A3%AF": "/id/food/chiayi-turkey-rice",
@@ -20255,6 +20261,7 @@
         "/hi/nature/biodiversity": "/nature/%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7",
         "/hi/nature/bird-window-collision-taiwan": "/nature/%E5%8F%B0%E7%81%A3%E9%B3%A5%E9%A1%9E%E7%AA%97%E6%AE%BA%E8%AD%B0%E9%A1%8C",
         "/hi/nature/black-faced-spoonbill": "/nature/%E9%BB%91%E9%9D%A2%E7%90%B5%E9%B7%BA",
+        "/hi/nature/cetaceans-of-taiwan": "/nature/%E8%87%BA%E7%81%A3%E7%9A%84%E9%AF%A8%E8%B1%9A",
         "/hi/nature/daan-river-yitian-sword": "/nature/%E5%A4%A7%E5%AE%89%E6%BA%AA%E5%80%9A%E5%A4%A9%E5%8A%8D",
         "/hi/nature/endemic-species": "/nature/%E7%89%B9%E6%9C%89%E7%A8%AE",
         "/hi/nature/eurasian-otter-in-taiwan": "/nature/%E6%B0%B4%E7%8D%BA",
@@ -21255,6 +21262,8 @@
         "/nature/台灣鳥類窗殺議題": "/hi/nature/bird-window-collision-taiwan",
         "/nature/%E9%BB%91%E9%9D%A2%E7%90%B5%E9%B7%BA": "/hi/nature/black-faced-spoonbill",
         "/nature/黑面琵鷺": "/hi/nature/black-faced-spoonbill",
+        "/nature/%E8%87%BA%E7%81%A3%E7%9A%84%E9%AF%A8%E8%B1%9A": "/hi/nature/cetaceans-of-taiwan",
+        "/nature/臺灣的鯨豚": "/hi/nature/cetaceans-of-taiwan",
         "/nature/%E5%A4%A7%E5%AE%89%E6%BA%AA%E5%80%9A%E5%A4%A9%E5%8A%8D": "/hi/nature/daan-river-yitian-sword",
         "/nature/大安溪倚天劍": "/hi/nature/daan-river-yitian-sword",
         "/nature/%E7%89%B9%E6%9C%89%E7%A8%AE": "/hi/nature/endemic-species",
