@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-30T06:50:02+08:00",
+  "_generated": "2026-09-01T06:39:55+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -9594,16 +9594,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DcKsP3Co9jm",
       "template": "C 完整版（哲宇視角：看不懂立院預算攻防→攤開十一年主計總處原表；Taiwan.md 特別企劃）",
       "metrics": {
-        "views": 4989,
+        "views": 5051,
         "likes": 309,
         "reposts": 67,
         "comments": 15,
         "shares": 53
       },
       "metricsAsOf": {
-        "dPlus": 10,
-        "harvestDate": "2026-08-28 06:44",
-        "batch": "batch-2026-08-28-4-spores",
+        "dPlus": 14,
+        "harvestDate": "2026-09-01 06:39",
+        "batch": "batch-2026-09-01-3-spores",
         "source": "harvest"
       },
       "history": [
@@ -9656,6 +9656,16 @@
           "reposts": 67,
           "comments": 15,
           "shares": 53
+        },
+        {
+          "dPlus": 14,
+          "harvestDate": "2026-09-01 06:39",
+          "batch": "batch-2026-09-01-3-spores",
+          "views": 5051,
+          "likes": 309,
+          "reposts": 67,
+          "comments": 15,
+          "shares": 53
         }
       ]
     },
@@ -9677,9 +9687,9 @@
         "shares": 90
       },
       "metricsAsOf": {
-        "dPlus": 10,
-        "harvestDate": "2026-08-28 06:44",
-        "batch": "batch-2026-08-28-4-spores",
+        "dPlus": 14,
+        "harvestDate": "2026-09-01 06:39",
+        "batch": "batch-2026-09-01-3-spores",
         "source": "harvest"
       },
       "history": [
@@ -9732,6 +9742,16 @@
           "reposts": 200,
           "comments": 5,
           "shares": 90
+        },
+        {
+          "dPlus": 14,
+          "harvestDate": "2026-09-01 06:39",
+          "batch": "batch-2026-09-01-3-spores",
+          "views": 10000,
+          "likes": 599,
+          "reposts": 200,
+          "comments": 5,
+          "shares": 90
         }
       ]
     },
@@ -9753,9 +9773,9 @@
         "shares": 1
       },
       "metricsAsOf": {
-        "dPlus": 5,
-        "harvestDate": "2026-08-23 06:58",
-        "batch": "batch-2026-08-23-5-spores",
+        "dPlus": 14,
+        "harvestDate": "2026-09-01 06:39",
+        "batch": "batch-2026-09-01-3-spores",
         "source": "harvest"
       },
       "history": [
@@ -9793,6 +9813,16 @@
           "dPlus": 5,
           "harvestDate": "2026-08-23 06:58",
           "batch": "batch-2026-08-23-5-spores",
+          "views": null,
+          "likes": 1,
+          "reposts": null,
+          "comments": 1,
+          "shares": 1
+        },
+        {
+          "dPlus": 14,
+          "harvestDate": "2026-09-01 06:39",
+          "batch": "batch-2026-09-01-3-spores",
           "views": null,
           "likes": 1,
           "reposts": null,
