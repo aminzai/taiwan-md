@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-01 | 070914-twmd-feedback-triage | 指控信第十五次讀完全文後攔下，零 issue 開出，兩道對賬 83/83 與 82/83 全綠；`--whoami` 把「欄位缺席」印成「覆蓋全部庫」，實查 1 庫後修掉 | 缺席被 fallback 填成最寬的解讀，跟真的很寬長得一模一樣 | [→](memory/2026-09-01-070914-twmd-feedback-triage.md) |
 | 2026-09-01 | 090229-twmd-maintainer-am | 四篇投稿 merge；投稿者修掉一篇英文版的 lifeTree 欄位，追上游發現 31 篇譯文都在渲染同一條指不到地方的橫幅，改守渲染層；手機版主題頁精選書架捲不動修掉 | 閘門量到了不等於有人會看見——判對的死連結被總比例與 top-N 一起藏起來 | [→](memory/2026-09-01-090229-twmd-maintainer-am.md) |
 | 2026-09-02 | 053629-twmd-embeddings-nightly | 12 語重建 9,890 向量 0 fail 全綠；本機端點直連免 fallback；en/id/ja 三語鄰居因近期新翻譯變動，其餘 9 語不動 | 連續穩態本身就是這條 routine 該有的樣子，語言組合逐夜輪替不構成 escalate 訊號 | [→](memory/2026-09-02-053629-twmd-embeddings-nightly.md) |
+| 2026-09-02 | 053756-twmd-routine-sync | 三層對賬第 36 輪，18 條全 in-sync 零漂移；順路撞見 embeddings-nightly 同分鐘完成 commit 的並發時序 | 工具瞬時矛盾先查時間戳再懷疑工具，這次是真並發不是幻覺 | [→](memory/2026-09-02-053756-twmd-routine-sync.md) |
