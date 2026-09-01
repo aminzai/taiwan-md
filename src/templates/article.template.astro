@@ -384,37 +384,45 @@ const encodedTitle = encodeURIComponent(title);
             </p>
           )
         }
-        <!-- LifeTree CTA banner (experimental feature, links to standalone page) -->
+        <!-- LifeTree CTA banner (experimental feature, links to standalone page).
+             zh-TW only: /lifetree/[slug] 的 getStaticPaths 只掃 knowledge/<分類>/
+             （中文 canonical），頁面本身也整頁 lang="zh-TW"。譯文若沿用了來源的
+             lifeTree 欄位，這條橫幅會指到一個不存在的 /lifetree/<譯文 slug>，而且
+             多數譯文的 lifeTree 在翻譯途中被序列化成字串，讀者看到的是
+             「undefined 的人生分支樹（0 個轉折點）」。守在渲染這一層，之後任何
+             一批翻譯把欄位帶過來都不會再長出這條橫幅。2026-09-01。 -->
         {
-          frontmatter.lifeTree && (
-            <a
-              href={`/lifetree/${slug}`}
-              class="lifetree-cta group mb-8 flex items-center justify-between gap-4 rounded-xl border border-dashed border-[rgba(139,92,246,0.4)] bg-gradient-to-r from-[rgba(139,92,246,0.06)] to-[rgba(236,72,153,0.04)] px-5 py-4 no-underline transition-all duration-200 hover:border-solid hover:border-[#8B5CF6] hover:shadow-md"
-              data-experimental
-            >
-              <div class="flex items-center gap-3">
-                <span class="text-2xl" aria-hidden="true">
-                  🌳
-                </span>
-                <div>
-                  <p class="m-0 font-['Inter',system-ui,sans-serif] text-[0.7rem] font-semibold uppercase tracking-[0.12em] text-[#8B5CF6]">
-                    Experimental · {t('article.lifeTree.experimental')}
-                  </p>
-                  <p class="m-0 mt-0.5 font-['Noto_Serif_TC',serif] text-[0.95rem] font-medium text-[#1a3c34]">
-                    {t('article.lifeTree.protagonistTree')
-                      .replace('{name}', frontmatter.lifeTree.protagonist)
-                      .replace(
-                        '{n}',
-                        String(frontmatter.lifeTree.nodes?.length || 0),
-                      )}
-                  </p>
+          lang === 'zh-TW' &&
+            frontmatter.lifeTree &&
+            typeof frontmatter.lifeTree === 'object' && (
+              <a
+                href={`/lifetree/${slug}`}
+                class="lifetree-cta group mb-8 flex items-center justify-between gap-4 rounded-xl border border-dashed border-[rgba(139,92,246,0.4)] bg-gradient-to-r from-[rgba(139,92,246,0.06)] to-[rgba(236,72,153,0.04)] px-5 py-4 no-underline transition-all duration-200 hover:border-solid hover:border-[#8B5CF6] hover:shadow-md"
+                data-experimental
+              >
+                <div class="flex items-center gap-3">
+                  <span class="text-2xl" aria-hidden="true">
+                    🌳
+                  </span>
+                  <div>
+                    <p class="m-0 font-['Inter',system-ui,sans-serif] text-[0.7rem] font-semibold uppercase tracking-[0.12em] text-[#8B5CF6]">
+                      Experimental · {t('article.lifeTree.experimental')}
+                    </p>
+                    <p class="m-0 mt-0.5 font-['Noto_Serif_TC',serif] text-[0.95rem] font-medium text-[#1a3c34]">
+                      {t('article.lifeTree.protagonistTree')
+                        .replace('{name}', frontmatter.lifeTree.protagonist)
+                        .replace(
+                          '{n}',
+                          String(frontmatter.lifeTree.nodes?.length || 0),
+                        )}
+                    </p>
+                  </div>
                 </div>
-              </div>
-              <span class="flex items-center gap-1 font-['Inter',system-ui,sans-serif] text-[0.85rem] font-medium text-[#8B5CF6] transition-transform duration-200 group-hover:translate-x-1">
-                {t('article.lifeTree.viewTree')}
-              </span>
-            </a>
-          )
+                <span class="flex items-center gap-1 font-['Inter',system-ui,sans-serif] text-[0.85rem] font-medium text-[#8B5CF6] transition-transform duration-200 group-hover:translate-x-1">
+                  {t('article.lifeTree.viewTree')}
+                </span>
+              </a>
+            )
         }
 
         <!-- Hero image (if frontmatter declares one) — moved out of the
