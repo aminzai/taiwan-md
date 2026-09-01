@@ -331,3 +331,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-01 | 061422-twmd-data-refresh-am | 14 步全綠零 stale，日文 884→885、星數 1160→1161；scheduler live-state dump 照 rider 無條件跑完 | 連續多 cycle 零 stale 是過去 wire-fix 持續生效的訊號，不是巧合 | [→](memory/2026-09-01-061422-twmd-data-refresh-am.md) |
 | 2026-09-01 | 064101-twmd-spore-harvest-am | budget-總預算十年三平台 D+14 milestone 核對，零新讀者留言零回覆；D+1-D+7 主排程窗口本日仍全數落空 | milestone 到期不會出現在 backfillWarnings 彙總欄位，逐條核對 harvestStatus 才抓得到 | [→](memory/2026-09-01-064101-twmd-spore-harvest-am.md) |
 | 2026-09-01 | 070914-twmd-feedback-triage | 指控信第十五次讀完全文後攔下，零 issue 開出，兩道對賬 83/83 與 82/83 全綠；`--whoami` 把「欄位缺席」印成「覆蓋全部庫」，實查 1 庫後修掉 | 缺席被 fallback 填成最寬的解讀，跟真的很寬長得一模一樣 | [→](memory/2026-09-01-070914-twmd-feedback-triage.md) |
+| 2026-09-01 | 090229-twmd-maintainer-am | 四篇投稿 merge；投稿者修掉一篇英文版的 lifeTree 欄位，追上游發現 31 篇譯文都在渲染同一條指不到地方的橫幅，改守渲染層；手機版主題頁精選書架捲不動修掉 | 閘門量到了不等於有人會看見——判對的死連結被總比例與 top-N 一起藏起來 | [→](memory/2026-09-01-090229-twmd-maintainer-am.md) |
