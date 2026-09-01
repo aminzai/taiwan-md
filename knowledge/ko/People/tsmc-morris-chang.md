@@ -5,9 +5,9 @@ date: 2026-03-17
 category: 'People'
 tags: ['인물', '장중머우', 'TSMC', '반도체', '기업가', '파운드리', '수호신']
 subcategory: '科技與企業'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-09-01
 lastHumanReview: false
 translatedFrom: 'People/張忠謀.md'
 sourceCommitSha: '6ffd92f94'
@@ -35,7 +35,7 @@ TSMC는 대만의 '수호신(護國神山)'이라 불리며, 지정학적 맥락
 ### 격동의 시대 속 성장 과정
 
 **출생 및 가정 배경:**
-1931년 7월 10일, 장중머우는 중국 저장성(浙江省) 닝보시에서 태어났다. 아버지는 은행가였던 장웨이관(張蔚觀)이며, 어머니 서윈정(徐韻徵)은 학자 집안 출신이었다. 격동의 시대였으나, 문사(文史)에 정통하고 방대한 서적을 보유했던 아버지의 영향으로 그는 공학의 길을 걸으면서도 늘 인문학적 시야를 유지할 수 있었다.
+1931년 7월 10일[^1][^8], 장중머우는 중국 저장성(浙江省) 닝보시에서 태어났다. 아버지는 은행가였던 장웨이관(張蔚觀)이며, 어머니 서윈정(徐韻徵)은 학자 집안 출신이었다. 격동의 시대였으나, 문사(文史)에 정통하고 방대한 서적을 보유했던 아버지의 영향으로 그는 공학의 길을 걸으면서도 늘 인문학적 시야를 유지할 수 있었다.
 
 **유년기의 이주 경험:**
 전쟁으로 인해 장중머우의 어린 시절은 이주의 연속이었다. 닝보에서 상하이, 난징, 충칭, 상하이를 거쳐 광저우, 홍콩, 그리고 최종적으로 미국에 이르기까지, 이러한 유랑의 경험은 그의 적응력과 국제적 시야를 길러주었다.
@@ -46,15 +46,15 @@ TSMC는 대만의 '수호신(護國神山)'이라 불리며, 지정학적 맥락
 ### 미국 유학의 결정적 전환점
 
 **하버드 대학교에서의 짧은 경험:**
-1949년, 18세의 장중머우는 하버드 대학교에 입학하여 처음에는 문학을 전공했다. 그러나 1년 후, 문학에 대한 열정 부족과 경제적 고려로 인해 매사추세츠 공과대학교(MIT)로 전학하였다.
+1949년, 18세[^2][^2]의 장중머우는 하버드 대학교에 입학하여 처음에는 문학을 전공했다. 그러나 1년 후, 문학에 대한 열정 부족과 경제적 고려로 인해 매사추세츠 공과대학교(MIT)로 전학하였다.
 
 **MIT에서의 공학 교육:**
 MIT에서 장중머우는 기계공학을 전공으로 선택했다. 이 선택은 우연해 보였으나, 반도체 제조의 핵심인 정밀 기계 공정 분야에서 일차적인 공학적 직관을 쌓게 해주었으며, 이는 훗날 TSMC의 공정 개선을 주도하는 중요한 밑거름이 되었다.
 
-**1952년 학사 졸업:**
+**1952년[^3][^3] 학사 졸업:**
 장중머우는 1952년 MIT에서 기계공학 학사 학위를 취득했다. 졸업 당시 한국 전쟁 기간이었기에, 외국인 학생 신분이었던 그는 미국 군 관련 직무를 맡을 수 없었으나, 이 제한은 오히려 그를 민간 산업 분야로 이끄는 계기가 되었다.
 
-## 직장 생활의 시작: 실바니아(Sylvania) 회사
+## 직장 생활의 시작: 실바니아[^4][^4](Sylvania) 회사
 
 ### 반도체 산업 입문
 
@@ -69,7 +69,7 @@ MIT에서 장중머우는 기계공학을 전공으로 선택했다. 이 선택�
 
 ## 텍사스 인스트루먼트 시절: 관리 역량의 증명
 
-### 1958년의 중요한 전환점
+### 1958년[^5][^5]의 중요한 전환점
 
 **텍사스 인스트루먼트 입사:**
 1958년, 장중머우는 텍사스 인스트루먼트(Texas Instruments, TI)에 입사하며 커리어의 결정적 전환점을 맞이했다. 당시 TI는 반도체 사업 확장에 전력을 다하고 있었으며, 공학과 관리를 아우를 수 있는 인재가 절실히 필요했다.
@@ -86,14 +86,14 @@ TI 재직 기간 동안 장중머우는 회사의 반도체 공정을 크게 개
 1연 1961년, TI는 장중머우가 스탠퍼드 대학교에서 전기공학 박사 학위를 취득할 수 있도록 지원했다. 이는 회사가 그의 능력을 인정한 결과였으며, 인재 양성을 중시하는 미국 기업의 면모를 보여주는 사례였다.
 
 **박사 학위의 결실:**
-1964년, 장중머우는 스탠퍼드 대학교에서 전기공학 박사 학위를 취득했다.[^3] 이 심화 학습을 통해 그는 이론적 깊이와 업계 인맥을 모두 강화하였고, TI 복귀 후 즉시 승진하였다.
+1964년, 장중머우는 스탠퍼드 대학교에서 전기공학 박사 학위를 취득했다.[^6] 이 심화 학습을 통해 그는 이론적 깊이와 업계 인맥을 모두 강화하였고, TI 복귀 후 즉시 승진하였다.
 
 **회사 복귀와 새로운 역할:**
 박사 학위 취득 후 장중머우는 TI로 돌아와 더 높은 관리직을 맡았다. 그는 트랜지스터 부서, 실리콘 트랜지스터 부서, 집적회로(IC) 부서의 총경리를 차례로 역임하며, 성과에 따라 TI 내에서의 입지를 매년 높여갔다.
 
 ### 인종의 장벽을 허물다
 
-**1972년의 역사적 승진:**
+**1972년[^7][^7]의 역사적 승진:**
 1972년, 장중머우는 텍사스 인스트루먼트 그룹의 부사장으로 승진하며 당시 미국 대기업 내에서 가장 높은 직급에 오른 화인(華人) 임원 중 한 명이 되었다. 이러한 승진은 당시 미국의 비즈니스 환경에서 매우 보기 드문 성취였다.
 
 **반도체 그룹 총경리:**
@@ -131,7 +131,7 @@ ITRI 재직 시절, 장중머우는 혁신적인 비즈니스 모델인 '전문 
 ### 전문 파운드리 모델의 혁신
 
 **파운드리 개념의 돌파구:**
-1나 1987년, 장중머우는 '전문 파운드리'라는 혁신적인 개념을 제시했다. 전통적인 종합 반도체 기업(IDM) 모델과 달리, TSMC는 자체 제품을 설계하지 않고 고객사의 칩을 위탁 생산하는 데 집중했다.
+1나 1987년, 장중머우는 '전문 파운드리'라는 혁신적인 개념을 제시했다[^11]. 전통적인 종합 반도체 기업(IDM) 모델과 달리, TSMC는 자체 제품을 설계하지 않고 고객사의 칩을 위탁 생산하는 데 집중했다.
 
 **비즈니스 모델의 혁명성:**
 이 모델의 혁명성은 많은 기업이 <0xED><0x8C><0xB9>을 건설할 능력이 없더라도 첨단 칩을 설계할 수 있게 했다는 점에 있다. 이는 반도체 산업 진입 장벽을 크게 낮추어, 1990년대부터 2020년대까지 <0xED><0x8C><0xB9>리스(Fabless) 기업들이 기하급수적으로 성장하는 토대가 되었다.
@@ -141,11 +141,11 @@ ITRI 재직 시절, 장중머우는 혁신적인 비즈니스 모델인 '전문 
 
 ### TSMC 설립 과정
 
-**1987년 2월 21일의 역사적 순간:**
-1987년 2월 21일, 대만 적체회로제조(TSMC)가 공식 설립되었으며, 초기 자본금은 신대만달러 220억 원이었다. 이는 정부, 민간 기업, 그리고 외국 투자자의 공동 협력으로 이루어진 성과였다.
+**1987년 2월 21일[^9]의 역사적 순간:**
+1987년 2월 21일[^9], 대만 적체회로제조(TSMC)가 공식 설립되었으며, 초기 자본금은 신대만달러 220억 원이었다. 이는 정부, 민간 기업, 그리고 외국 투자자의 공동 협력으로 이루어진 성과였다.
 
 **주주 구조의 설계:**
-TSMC의 주주 구조에는 ITRI, 네덜란드 필립스(Philips), 그리고 대만 민간 기업들이 포함되었다. 이러한 다각화된 주주 구조는 TSMC에 기술, 자금, 시장 자원을 동시에 가져다주었다었다.
+TSMC의 주주 구조에는 ITRI, 네덜란드 필립스[^10][^10](Philips), 그리고 대만 민간 기업들이 포함되었다. 이러한 다각화된 주주 구조는 TSMC에 기술, 자금, 시장 자원을 동시에 가져다주었다었다.
 
 **장중머우의 이중적 역할:**
 장중머우는 TSMC의 이사장 겸 총경리(이후 CEO로 변경)로서 회사의 전체 전략과 일상적인 운영을 책임졌다. 그의 리더십 스타일은 미국식 관리의 효율성과 화인 문화의 지혜를 결합한 형태였다.
@@ -177,14 +177,14 @@ TSMC의 첫 고객들은 주로 미국의 <0xED><0x8C><0xB9>리스(Fabless) 기�
 28nm에서 16nm, 7nm, 그리고 5nm와 3nm에 이르기까지, TSMC는 각 세대의 첨단 공정에서 기술적 우위를 점하며 하이엔드 시장에서의 지위를 공고히 했다.
 
 **애플과의 협력이라는 이정표:**
-2013년 A 시리즈 칩부터 시작된 애플과의 협력은 iPhone과 iPad의 핵심 프로세서를 TSMC가 위탁 생산하게 함으로써 막대한 주문 규모를 가져왔으며, 이는 TSMC의 첨단 공제 능력이 가장 엄격한 상업적 검증을 받는 계기가 되었다.[^2]
+2013년 A 시리즈 칩부터 시작된 애플과의 협력은 iPhone과 iPad의 핵심 프로세서를 TSMC가 위탁 생산하게 함으로써 막대한 주문 규모를 가져왔으며, 이는 TSMC의 첨단 공제 능력이 가장 엄격한 상업적 검증을 받는 계기가 되었다.[^12]
 
 ## 경영 이념과 관리 철학
 
 ### 기술 혁신의 고수
 
 **R&D 투자의 중시:**
-장중머우는 기술 혁신의 중요성을 지속적으로 강조해 왔다. TSMC는 매년 매출의 약 8%를 R&D에 투입하여 경쟁사에 뒤처지지 않도록 한다.[^3] 무어의 법칙이 물리적 한계에 직면한 시대에도, 장중머우는 TSMC를 이끌어 7nm, 5nm, 3nm 공정을 차례로 돌파하며 반도체 산업 전체의 발전에 제조 역량을 제공했다.
+장중머우는 기술 혁신의 중요성을 지속적으로 강조해 왔다. TSMC는 매년 매출의 약 8%를 R&D에 투입하여 경쟁사에 뒤처지지 않도록 한다.[^13] 무어의 법칙이 물리적 한계에 직면한 시대에도, 장중머우는 TSMC를 이끌어 7nm, 5nm, 3nm 공정을 차례로 돌파하며 반도체 산업 전체의 발전에 제조 역량을 제공했다.
 
 **기술과 시장의 균형:**
 장중머우는 기술적 우위와 시장 수요 사이에서 균형점을 찾는 데 탁월했다. 기술적 우위를 유지하면서도 그 기술이 상업적 가치를 갖도록 하여, 과도한 선행 투자로 인한 비용 상승을 방지했다.
@@ -213,7 +213,7 @@ TSMC의 첫 고객들은 주로 미국의 <0xED><0x8C><0xB9>리스(Fabless) 기�
 
 ## 은퇴와 계승
 
-### 2005년의 첫 번째 은퇴
+### 2005년[^14][^14]의 첫 번째 은퇴
 
 **후계 계획의 시작:**
 2005년, 74세의 장중머우는 은퇴를 선언하며 CEO 직을 차이리싱(蔡力行)에게 넘겼다. 이는 그가 치밀하게 준비한 후계 계획의 일부였으며, 기업의 지속 가능한 발전을 위한 그의 책임감을 보여주나였다.
@@ -230,7 +230,7 @@ CEO직에서는 물러났으나 장중머우는 이사장직을 유지하며 회
 2008년 글로벌 금융 위기는 TSMC에 큰 영향을 미쳤으며, 회사는 실적 하락과 경쟁 심화라는 이중고에 직면했다. 이 결정적인 순간에 장중머우는 복귀를 결정했다.
 
 **CEO 재임:**
-2009년, 78세의 장중머우는 다시 TSMC의 CEO로 복귀하여 직접 회사를 이끌며 위기를 극복했다. 그의 복귀는 시장의 신뢰를 안정시켰으며 회사의 회복을 위한 리더십을 제공했다.
+2009년, 78세[^15][^15]의 장중머우는 다시 TSMC의 CEO로 복귀하여 직접 회사를 이끌며 위기를 극복했다. 그의 복귀는 시장의 신뢰를 안정시켰으며 회사의 회복을 위한 리더십을 제공했다.
 
 **리도우인과 웨이저자의 육성:**
 두 번째 임기 동안 장중머우는 리도우인과 웨이저가와 같은 후계자들을 중점적으로 육성하여 회사의 미래 발전을 위한 인재 기반을 마련했다.
@@ -238,7 +238,7 @@ CEO직에서는 물러났으나 장중머우는 이사장직을 유지하며 회
 ### 2018년의 공식 은퇴
 
 **계승 계획의 완성:**
-2018년 6월, 87세의 장중머우는 공식적으로 은퇴하며 TSMC에서의 31년간의 전설적인 커리어를 마무리했다. 그는 이사장직을 리도우인에게, CEO직을 웨이저자에게 물려주었다.
+2018년 6월[^16][^16], 87세의 장중머우는 공식적으로 은퇴하며 TSMC에서의 31년간의 전설적인 커리어를 마무리했다. 그는 이사장직을 리도우인에게, CEO직을 웨이저자에게 물려주었다.
 
 **이중 수장 체제의 구축:**
 장중머우는 '이중 수장 체제'를 구축하였다. 리도으로 대외 업무를 담당하는 이사장을 맡고, 웨이저자가 대내 업무를 담당하는 CEO를 맡게 함으로써 회사의 안정적인 발전을 도모했다.
@@ -289,7 +289,7 @@ TSMC를 중심으로 대만에는 장비 공급업체, 소재 공급업체, 패�
 TSTSMC는 이미 대만의 최대 기업이 되었으며, 대만 GDP에 대한 기여도가 매우 높다. 회사의 성공은 관련 산업의 발전을 견인하며 막대한 고용을 창출했다.
 
 **수출 무역의 지주:**
-반도체는 대만 전체 수출액의 약 3분의 1을 차지한다. TSMC의 성공은 글로벌 무역에서 대만의 위상을 높였으며, 대만 경제의 경쟁력을 강화시켰다.[^5]
+반도체는 대만 전체 수출액의 약 3분의 1을 차지한다. TSMC의 성공은 글로벌 무역에서 대만의 위상을 높였으며, 대만 경제의 경쟁력을 강화시켰다.[^17]
 
 **투자 환경의 개선:**
 TSTSMC의 성공 사례는 더 많은 국제 투자를 유인하여 대만의 투자 환경을 개선하였고, 글로벌 투자자들의 마음속에서 대만의 위상을 높였다.
@@ -372,18 +372,18 @@ TSTSMC의 성공 사례는 더 많은 국제 투자를 유인하여 대만의 �
 매우 성공적인 사업가임에도 불구하고 장중머우는 일과 삶의 균형(Work-Life Balance)의 중요성을 강조했다. 그는 독서와 음악 감상을 즐겼으며, 이러한 취미는 그에게 정신적 양식을 제공해 주었다.
 
 **사회적 책임의 수행:**
-장중머우는 성공한 기업가는 사회에 환원할 책임이 있다고 믿었다. 그는 칭화 대학교 등 학술 기관에 기부하였고, 교육 정책 논의에도 참여하며 대만 고등 교육 개혁을 위해 구체적인 제안을 하기도 했다.[^4]
+장중머우는 성공한 기업가는 사회에 환원할 책임이 있다고 믿었다. 그는 칭화 대학교 등 학술 기관에 기부하였고, 교육 정책 논의에도 참여하며 대만 고등 교육 개혁을 위해 구체적인 제안을 하기도 했다.[^18]
 
 **계승의 중요성:**
 그는 지식과 경험의 전수를 매우 중요하게 여겼다. 기업 내부에서 후계자를 양성할 뿐만 아니라, 다양한 경로를 통해 자신의 경험과 지혜를 공유했다.
 
 ## 역사적 평가
 
-장중머우가 2018년 은퇴했을 당시, TSMC의 시가총액은 인텔을 넘어 세계에서 가장 가치 있는 반도체 기업이 되었다.[^5] 그는 31년이라는 시간 동안 '자체 칩을 설계하지 않는 파운드리가 디지털 시대 전체의 제조 기반이 될 수 있다'는 직관에 반하는 명제를 증기해냈다.
+장중머우가 2018년 은퇴했을 당시, TSMC의 시가총액은 인텔을 넘어 세계에서 가장 가치 있는 반도체 기업이 되었다.[^19] 그는 31년이라는 시간 동안 '자체 칩을 설계하지 않는 파운드리가 디지털 시대 전체의 제조 기반이 될 수 있다'는 직관에 반하는 명제를 증기해냈다.
 
 중국 저장성 닝보에서 하버드와 MIT로, 다시 텍사스 인스트루먼트의 임원에서 54세의 나이에 미국의 안락한 삶을 포기하고 대만으로 돌아오기까지, 그의 모든 전환점은 주류의 선택이 아니었으나 그 결과는 모두 하나의 방향을 가리키고 있었다. 오늘날 TSTSMC의 위상은 반도체 기술 경쟁의 산물이자, 1987년 아무도 믿지 않았던 비즈니스 모델에 던진 그의 도박이 거둔 결실이다.
 
-2024년 TSMC의 시가총액은 대만달러 10조 원을 돌파하며 아시아에서 가장 가치 있는 기술 기업 중 하나가 되었다. 이는 그가 1987년에 내린 결정으로는 상상하기 힘든 규모이며, 그의 일생을 설명하는 가장 명확한 주석이다.
+2024년[^20] TSMC의 시가총액은 대만달러 10조 원을 돌파하며 아시아에서 가장 가치 있는 기술 기업 중 하나가 되었다. 이는 그가 1987년에 내린 결정으로는 상상하기 힘든 규모이며, 그의 일생을 설명하는 가장 명확한 주석이다.
 
 ## 더 읽어보기
 
@@ -396,15 +396,46 @@ TSTSMC의 성공 사례는 더 많은 국제 투자를 유인하여 대만의 �
 
 ---
 
-[^1]: <0xEC><0x91><0xA8>윈<0xEC><0x86><0xAC>(1913–2006), 전 대만성 전력공사 총경리, 경제부장, 행정원장(1978–1984)을 역임하였다. 재임 중 반도체 및 기술 산업 발전을 강력히 추진하여 대만 첨단 산업 발전의 핵심 인물로 평가받는다. 참조: 위키백과 '<0xEC><0x91><0xA8>윈<0xEC><0x86><0xA0>' 항목 <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>
+[^1]: Morris Chang was born on July 10, 1931, in Ningbo, Zhejiang, China. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^2]: TSMC 설립 시기 및 초기 자본금. 참조: TSMC 기업 연례 보고서 1987. TSMC. <https://investor.tsmc.com/english/annual-reports>
+[^2]: In 1949 he entered Harvard to study literature, then transferred to MIT for mechanical engineering. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^3]: 장중머우는 1964년 스탠퍼드 대학교에서 전기공학 박사 학위를 취득하였다. 참조: 장중머우 자서전(하권), 원견천하문화, 2019.<https://www.books.com.tw/products/0011005569>
+[^3]: He earned a BS in mechanical engineering from MIT in 1952. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^4]: TSMC는 2018년 시가총액이 인텔을 넘어 세계에서 가장 가치 있는 반도체 기업 중 하나가 되었다. 참조: 위키백과 'TSMC' 항목 <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+[^4]: From 1955 he worked in semiconductor manufacturing at Sylvania for about three years. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^5]: 장중머우는 2018년 6월 5일 공식적으로 은퇴하며 31년간의 TSMC 커리어를 마쳤다. 참조: 위키백과 '장중머우' 항목 <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+[^5]: In 1958 he joined Texas Instruments as a semiconductor engineer. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+
+[^6]: He received a PhD in electrical engineering from Stanford University in 1964. 참조: 위키백과 "Morris Chang" entry <https://en.wikipedia.org/wiki/Morris_Chang>
+
+[^7]: In 1972 he was promoted to TI group vice president and general manager of the semiconductor group. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+
+[^8]: Sun Yun-suan (1913–2006), premier of Taiwan (1978–1984), strongly promoted semiconductor and high-tech industry development. 참조: 위키백과 "Sun Yun-suan" entry <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>
+
+[^9]: TSMC was founded on February 21, 1987, with initial capital of NT$22 billion. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^10]: Philips was among TSMC's founding shareholders. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^11]: In 1987 Morris Chang proposed the dedicated pure-play foundry business model. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^12]: From the 2010s TSMC became a major supplier of Apple A-series mobile processors. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^13]: TSMC has long invested roughly 8% of revenue in R&D (annual reports vary slightly). 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^14]: In 2005 Morris Chang stepped down as CEO and was succeeded by Rick Tsai. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+
+[^15]: In 2009, at age 78, he returned as TSMC CEO amid the global financial crisis. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+
+[^16]: On June 5, 2018, he formally retired; Mark Liu became chairman and C. C. Wei became CEO. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+
+[^17]: Semiconductors account for roughly one-third of Taiwan's exports over many years. 참조: 위키백과 "Economy of Taiwan" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F>
+
+[^18]: Morris Chang has donated to National Tsing Hua University and other academic institutions. 참조: National Tsing Hua University <https://www.nthu.edu.tw/>
+
+[^19]: When Morris Chang retired in 2018, TSMC's market cap had surpassed Intel's. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^20]: In the 2020s TSMC's market capitalization exceeded NT$10 trillion, among Asia's most valuable tech companies. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
 
 _참고 문헌:_
 
