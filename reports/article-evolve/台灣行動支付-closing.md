@@ -5,7 +5,7 @@ date: 2026-09-01
 category: 'Technology'
 tags: ['行動支付', '電子支付', 'TWQR', '台灣 Pay', 'QR Code', '現金', '金融科技']
 subcategory: '數位與網路'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-01
 lastHumanReview: false
