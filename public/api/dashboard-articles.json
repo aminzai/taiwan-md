@@ -8335,7 +8335,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false,
@@ -11784,7 +11784,7 @@
     "commitHash": "17a8255e",
     "commitSubject": "🧬 [routine] heal: PR #1287 黑蝙蝠中隊 frontmatter/腳註/延伸閱讀補完 + §11 對位句型修",
     "description": "1952 年成立的空軍第 34 中隊，在冷戰迷霧中執行最危險的低空偵察任務。他們與美國中情局合作，以 148 位隊員的生命換取關鍵情報，卻在歷史中隱姓埋名數十年，直到 1990 年代兩岸關係和緩，殉職者的骨灰才陸續由家屬迎接返台安葬，補上這段沉默半世紀的家族拼圖。",
-    "healthScore": 49,
+    "healthScore": 44,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -36776,7 +36776,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": false,
@@ -37805,7 +37805,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "9cb8b90d",

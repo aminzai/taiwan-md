@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10079,
+  "totalArticles": 10082,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7157,
+  "totalTags": 7158,
   "categories": [
     {
       "name": "es",
@@ -22,7 +22,7 @@
     },
     {
       "name": "ja",
-      "count": 887
+      "count": 888
     },
     {
       "name": "vi",
@@ -46,7 +46,7 @@
     },
     {
       "name": "id",
-      "count": 593
+      "count": 594
     },
     {
       "name": "ar",
@@ -106,7 +106,7 @@
     },
     {
       "name": "de",
-      "count": 77
+      "count": 78
     },
     {
       "name": "resources",
@@ -196,22 +196,22 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10079,
+    "zh-TW": 10082,
     "en": 0
   },
-  "lastUpdated": "2026-08-31T22:12:22.637Z",
+  "lastUpdated": "2026-09-01T22:12:43.883Z",
   "stars": 1161,
-  "forks": 182,
+  "forks": 183,
   "zhPages": 1115,
   "languagePages": {
     "zh-TW": 1115,
     "en": 891,
-    "ja": 887,
+    "ja": 888,
     "ko": 885,
     "es": 883,
     "fr": 884,
     "vi": 800,
-    "id": 593,
+    "id": 594,
     "pt": 848,
     "hi": 673,
     "ar": 755,

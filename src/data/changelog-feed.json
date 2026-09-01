@@ -1,7 +1,126 @@
 {
-  "generatedAt": "2026-08-31T22:12:23.593Z",
+  "generatedAt": "2026-09-01T22:12:44.829Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "8b82b9393c45d6061245d2d64086a03208d3ff14",
+      "date": "2026-09-02T05:39:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-02 05:39 — 18 條全 in-sync 零漂移，第 36 輪",
+      "articles": []
+    },
+    {
+      "hash": "16ac375b5de4c94c8aefb683c3f6e90f09c595f6",
+      "date": "2026-09-02T05:37:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-02 05:37 — 12 語 9,890 向量 0 fail 全綠",
+      "articles": []
+    },
+    {
+      "hash": "37f9b060ef2b90709d273932d5db73f988ae86bf",
+      "date": "2026-09-02T05:35:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-02 05:35",
+      "articles": []
+    },
+    {
+      "hash": "37638e1737a94e2d3edf5069c8ed1ad859fa4966",
+      "date": "2026-09-01T09:04:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-01 08:30 — 一篇投稿的修補，底下是十二個語言的同一條死橫幅",
+      "articles": []
+    },
+    {
+      "hash": "1d9b440568ed536b19594a91bbca2f5c1975cd37",
+      "date": "2026-09-01T09:01:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] lessons: 兩條都是閘門有量到、卻讓量到等於沒量到",
+      "articles": []
+    },
+    {
+      "hash": "b2143095a24052079deeb471bae4c1235fe2525e",
+      "date": "2026-09-01T09:01:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 手機版主題頁的精選書架捲不動，第二三張卡被裁在畫面外",
+      "articles": []
+    },
+    {
+      "hash": "d562f5aedc815cf80afdb684da37ea504b538327",
+      "date": "2026-09-01T09:00:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 譯文帶著中文版的人生分支樹欄位，在十二個語言長出一條指不到地方的橫幅",
+      "articles": []
+    },
+    {
+      "hash": "f7620be5548311ebfed5c6b20ff7f8355d22d2e6",
+      "date": "2026-09-01T08:46:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1635 from tboydar/fix/en-people-p1-fixes",
+      "articles": []
+    },
+    {
+      "hash": "bca2020637bea50b61e7ff3e79bf10541b6df472",
+      "date": "2026-09-01T08:46:00+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1638 from aminzai/translate/id-bunun-pasibutbut-eight-part-polyphony",
+      "articles": []
+    },
+    {
+      "hash": "04b24ebe15bb8a59af96f54eed5cc4c58a80ed9b",
+      "date": "2026-09-01T08:45:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1637 from aminzai/translate/de-jiaobei-divination-blocks",
+      "articles": []
+    },
+    {
+      "hash": "a503ddbc2ebccb18376d55309f15de7e2441e3e8",
+      "date": "2026-09-01T08:45:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1636 from aminzai/translate/ja-lin-hsien-tang",
+      "articles": []
+    },
+    {
+      "hash": "5d9a2608ad68b65004a4ff5d4458c43f9cbb96cf",
+      "date": "2026-09-01T07:15:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 一個修補變成指令，一個還是句子，同一個早上讓我看見差別在哪",
+      "articles": []
+    },
+    {
+      "hash": "8991e9636604cc5f8a88edf13cab82f90c3e8c17",
+      "date": "2026-09-01T07:13:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 那封指控信第十五次攔下，順手修掉一行印錯範圍的報表",
+      "articles": []
+    },
+    {
+      "hash": "58b9c6c4723e85863d7cf40c88327772ee2c9e50",
+      "date": "2026-09-01T06:42:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-09-01 06:52 — budget 三平台 D+14 milestone 零新留言",
+      "articles": []
+    },
+    {
+      "hash": "1579d45fecedb349847b2520a30ae6cf506998e0",
+      "date": "2026-09-01T06:40:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 3 spores harvested, 0 replies shipped — 2026-09-01",
+      "articles": []
+    },
+    {
+      "hash": "af45bafc3a63b9546ffe648619c4e1cd2edb8c1d",
+      "date": "2026-09-01T06:15:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-01 06:14 — 14 步全綠零 stale",
+      "articles": []
+    },
+    {
+      "hash": "372ad65b3c4ee6e1e6d0ec32a1de2c10ebc2e546",
+      "date": "2026-09-01T06:13:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，日文譯文小幅前進，星數持平 1161",
+      "articles": []
+    },
     {
       "hash": "beaf587fa77a3b54ffa10495528de8a3e94dd888",
       "date": "2026-09-01T05:38:55+08:00",
@@ -21,6 +140,34 @@
       "date": "2026-09-01T05:35:35+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-01 05:35",
+      "articles": []
+    },
+    {
+      "hash": "42737f9c453ece01f598a7c7250918f75177f2c9",
+      "date": "2026-08-31T22:23:49+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 八部合音 → bunun-pasibutbut-eight-part-polyphony",
+      "articles": []
+    },
+    {
+      "hash": "67fe873d6da1b200d619f4f25f71fcb53e773d0f",
+      "date": "2026-08-31T22:21:41+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 擲筊 → jiaobei-divination-blocks",
+      "articles": []
+    },
+    {
+      "hash": "740b6dca2ec6ac12e01d536877fc4349ac6df57f",
+      "date": "2026-08-31T22:17:54+08:00",
+      "author": "aminzai",
+      "message": "translate(ja): 林獻堂 → lin-hsien-tang",
+      "articles": []
+    },
+    {
+      "hash": "024d104a7078bf42ca50f05787525a0dead40ccc",
+      "date": "2026-08-31T12:14:23+08:00",
+      "author": "Dar",
+      "message": "fix(en): apply Devin P1 review fixes to People translations",
       "articles": []
     },
     {
@@ -85504,230 +85651,6 @@
       "date": "2026-03-17T17:23:15+08:00",
       "author": "frank890417",
       "message": "fix: standardize all frontmatter to match Astro schema",
-      "articles": []
-    },
-    {
-      "hash": "bfc862f90576040d4ebccc03a992ad6602770d95",
-      "date": "2026-03-17T17:13:20+08:00",
-      "author": "frank890417",
-      "message": "sync: full SSOT → src/content/ projection (45 files)",
-      "articles": []
-    },
-    {
-      "hash": "ab830b46b46684173f834e87889fc76f0fa1c56b",
-      "date": "2026-03-17T17:12:56+08:00",
-      "author": "frank890417",
-      "message": "feat: sync all SSOT knowledge to src/content + add sync script",
-      "articles": []
-    },
-    {
-      "hash": "99efe64748a25c969d3e517b0b433594dd957fdc",
-      "date": "2026-03-17T17:11:23+08:00",
-      "author": "frank890417",
-      "message": "feat: add 7 knowledge articles (food/economy/lifestyle/music/art)",
-      "articles": []
-    },
-    {
-      "hash": "e30c17ef3fa7a4064a99ed68bc6206412de29ccb",
-      "date": "2026-03-17T17:10:58+08:00",
-      "author": "frank890417",
-      "message": "feat: add contemporary art article (7/7 complete)",
-      "articles": [
-        {
-          "url": "/art/當代藝術",
-          "name": "當代藝術"
-        }
-      ]
-    },
-    {
-      "hash": "5c5eab2809aebc7399452bc8255343381e410e5a",
-      "date": "2026-03-17T17:09:51+08:00",
-      "author": "frank890417",
-      "message": "feat: add English knowledge articles (5 priority topics)",
-      "articles": [
-        {
-          "url": "/music/流行音樂與金曲獎",
-          "name": "流行音樂與金曲獎"
-        }
-      ]
-    },
-    {
-      "hash": "16c05a1a598bd44e4452ab8d6e562b611afcb402",
-      "date": "2026-03-17T17:09:01+08:00",
-      "author": "frank890417",
-      "message": "feat: add origin story and founder page (zh-TW + en)",
-      "articles": [
-        {
-          "url": "/about/創辦人",
-          "name": "創辦人"
-        },
-        {
-          "url": "/about/緣起故事",
-          "name": "緣起故事"
-        },
-        {
-          "url": "/lifestyle/便利商店文化",
-          "name": "便利商店文化"
-        },
-        {
-          "url": "/lifestyle/健保制度",
-          "name": "健保制度"
-        }
-      ]
-    },
-    {
-      "hash": "b3e492145df39e345f532edd9fad604146f5a9be",
-      "date": "2026-03-17T17:07:15+08:00",
-      "author": "frank890417",
-      "message": "feat: add sitemap, SEO meta tags, search console prep",
-      "articles": [
-        {
-          "url": "/economy/經濟奇蹟",
-          "name": "經濟奇蹟"
-        },
-        {
-          "url": "/food/台灣小吃",
-          "name": "台灣小吃"
-        },
-        {
-          "url": "/food/茶文化",
-          "name": "茶文化"
-        },
-        {
-          "url": "/lifestyle/健保制度",
-          "name": "健保制度"
-        }
-      ]
-    },
-    {
-      "hash": "eec1bc9990eb03a2142367baf3981d84275f8128",
-      "date": "2026-03-17T17:01:22+08:00",
-      "author": "frank890417",
-      "message": "feat: official websites resource pages (zh-TW + en) + batch 2 knowledge articles",
-      "articles": [
-        {
-          "url": "/history/日治時期",
-          "name": "日治時期"
-        },
-        {
-          "url": "/history/清治時期",
-          "name": "清治時期"
-        },
-        {
-          "url": "/history/荷西明鄭時期",
-          "name": "荷西明鄭時期"
-        },
-        {
-          "url": "/society/人權與性別平等",
-          "name": "人權與性別平等"
-        }
-      ]
-    },
-    {
-      "hash": "7dc57366a95a6659dacc25e58b07d927f6cce16f",
-      "date": "2026-03-17T16:56:41+08:00",
-      "author": "frank890417",
-      "message": "feat: add robots.txt, llms.txt, EDITORIAL.md",
-      "articles": []
-    },
-    {
-      "hash": "b76f8cf4ab3c5f7a129eb9c200c7d330db740aea",
-      "date": "2026-03-17T16:24:42+08:00",
-      "author": "frank890417",
-      "message": "feat: add 史前時代與原住民 article",
-      "articles": [
-        {
-          "url": "/history/史前時代與原住民",
-          "name": "史前時代與原住民"
-        }
-      ]
-    },
-    {
-      "hash": "1a690c211f0a0eeac4b7f8b3713e623411d5385e",
-      "date": "2026-03-17T16:22:58+08:00",
-      "author": "frank890417",
-      "message": "feat: add GA4 tracking (G-JGC5W00N7T)",
-      "articles": []
-    },
-    {
-      "hash": "4434a00d05506ddb6ba859b0fc800cc8bea18e15",
-      "date": "2026-03-17T16:20:04+08:00",
-      "author": "frank890417",
-      "message": "feat: 建立台灣知識庫 SSOT - 12個Hub + 5個重要子主題",
-      "articles": [
-        {
-          "url": "/culture/族群（閩南客家原住民外省新住民）",
-          "name": "族群（閩南客家原住民外省新住民）"
-        },
-        {
-          "url": "/food/夜市文化",
-          "name": "夜市文化"
-        },
-        {
-          "url": "/history/戒嚴時期",
-          "name": "戒嚴時期"
-        },
-        {
-          "url": "/history/民主化",
-          "name": "民主化"
-        }
-      ]
-    },
-    {
-      "hash": "def75266afbe078a8310b80899443240db03f18c",
-      "date": "2026-03-17T16:14:39+08:00",
-      "author": "frank890417",
-      "message": "feat: add GitHub Sponsors funding config",
-      "articles": [
-        {
-          "url": "/lifestyle/_Lifestyle Hub",
-          "name": "_Lifestyle Hub"
-        }
-      ]
-    },
-    {
-      "hash": "7bdd4ea34f8ba7daef0c14ca59e5bb858775b38d",
-      "date": "2026-03-17T16:14:01+08:00",
-      "author": "frank890417",
-      "message": "fix: update GitHub username in README badges and links",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        }
-      ]
-    },
-    {
-      "hash": "fc4211137a91d6a0c972561081dac881dfd80a42",
-      "date": "2026-03-17T16:08:53+08:00",
-      "author": "frank890417",
-      "message": "feat: add GitHub Pages deploy workflow + GA4 + CNAME",
-      "articles": []
-    },
-    {
-      "hash": "57bb1e489559d0f024ec3ae010ae15cf46c9aeed",
-      "date": "2026-03-17T16:05:41+08:00",
-      "author": "frank890417",
-      "message": "feat: initial project setup with Astro + content collections",
-      "articles": []
-    },
-    {
-      "hash": "5c0d61ffe0c69f5ac5bc69dd2f9d36e33ed07d60",
-      "date": "2026-03-17T15:55:37+08:00",
-      "author": "houston[bot]",
-      "message": "\"Initial commit from Astro\"",
       "articles": []
     }
   ]

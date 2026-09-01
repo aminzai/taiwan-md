@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-08-31",
+    "last_census": "2026-09-01",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 532610,
-      "users": 297104
+      "views": 536011,
+      "users": 299654
     },
     "dev_noise": {
       "views": 12216,
@@ -44,7 +44,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-08"
     },
     {
@@ -66,7 +66,7 @@
       "health": "semi-active",
       "last_push": "2026-06-04",
       "first_seen": "2026-04",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 620,
@@ -99,7 +99,7 @@
       "health": "dormant",
       "last_push": "2026-04-15",
       "first_seen": "2026-03",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 154,
@@ -132,16 +132,16 @@
       "health": "active",
       "last_push": "2026-06-13",
       "first_seen": "2026-03",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
-        "views": 115,
-        "users": 67
+        "views": 116,
+        "users": 68
       },
       "title_ga": {
         "window": "365daysAgo",
         "views": 110,
-        "users": 61
+        "users": 62
       },
       "confidence": "high",
       "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
@@ -169,7 +169,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-03",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 72,
@@ -202,15 +202,15 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 133,
-        "users": 97
+        "views": 137,
+        "users": 100
       },
       "title_ga": {
         "window": "365daysAgo",
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-07"
     },
     {
@@ -237,10 +237,10 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 133,
-        "users": 95
+        "views": 137,
+        "users": 97
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-07"
     },
     {
@@ -262,7 +262,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -303,7 +303,7 @@
         "views": 79,
         "users": 1
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-08"
     },
     {
@@ -325,7 +325,7 @@
       "health": "active",
       "last_push": "2026-06-25",
       "first_seen": "2026-06",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 25,
@@ -333,7 +333,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 17,
+        "views": 16,
         "users": 9
       },
       "confidence": "high",
@@ -358,7 +358,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -399,7 +399,7 @@
         "views": 21,
         "users": 1
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-07"
     },
     {
@@ -421,7 +421,7 @@
       "health": "abandoned",
       "last_push": "2026-03-26",
       "first_seen": "2026-03",
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
         "views": 10,
@@ -462,7 +462,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-08"
     },
     {
@@ -492,7 +492,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-08",
+      "last_seen": "2026-09",
       "first_seen": "2026-08"
     },
     {

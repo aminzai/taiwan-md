@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:12:19.650Z",
+  "generated_at": "2026-09-01T22:12:41.135Z",
   "languages": [
     "en",
     "ja",
@@ -13,7 +13,7 @@
     "ar",
     "ru"
   ],
-  "total_entries": 26459,
+  "total_entries": 26465,
   "registry": {
     "en": {
       "toZh": {
@@ -3279,6 +3279,7 @@
         "/ja/people/lin-bai-li": "/people/%E6%9E%97%E7%99%BE%E9%87%8C",
         "/ja/people/lin-chi-er-astronaut": "/people/%E6%9E%97%E7%90%AA%E5%85%92",
         "/ja/people/lin-chi-wei-social-innovator": "/people/%E6%9E%97%E5%95%9F%E7%B6%AD",
+        "/ja/people/lin-hsien-tang": "/people/%E6%9E%97%E7%8D%BB%E5%A0%82",
         "/ja/people/lin-hwai-min": "/people/%E6%9E%97%E6%87%B7%E6%B0%91",
         "/ja/people/lin-liang-childrens-literature": "/people/%E6%9E%97%E8%89%AF",
         "/ja/people/lin-yang-duo-taiwan-badminton-champions": "/people/%E9%BA%9F%E6%B4%8B%E9%85%8D",
@@ -4778,6 +4779,8 @@
         "/people/林琪兒": "/ja/people/lin-chi-er-astronaut",
         "/people/%E6%9E%97%E5%95%9F%E7%B6%AD": "/ja/people/lin-chi-wei-social-innovator",
         "/people/林啟維": "/ja/people/lin-chi-wei-social-innovator",
+        "/people/%E6%9E%97%E7%8D%BB%E5%A0%82": "/ja/people/lin-hsien-tang",
+        "/people/林獻堂": "/ja/people/lin-hsien-tang",
         "/people/%E6%9E%97%E6%87%B7%E6%B0%91": "/ja/people/lin-hwai-min",
         "/people/林懷民": "/ja/people/lin-hwai-min",
         "/people/%E6%9E%97%E8%89%AF": "/ja/people/lin-liang-childrens-literature",
@@ -15900,6 +15903,7 @@
         "/id/lifestyle/wang-a-piau-pog-cards": "/lifestyle/%E5%B0%AA%E4%BB%94%E6%A8%99",
         "/id/lifestyle/xiaobei-department-store": "/lifestyle/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8",
         "/id/music/Taiwan Folk Music and Songs": "/music/%E5%8F%B0%E7%81%A3%E6%B0%91%E8%AC%A0%E8%88%87%E6%AD%8C%E8%AC%A0",
+        "/id/music/bunun-pasibutbut-eight-part-polyphony": "/music/%E5%85%AB%E9%83%A8%E5%90%88%E9%9F%B3",
         "/id/music/choir": "/music/%E5%90%88%E5%94%B1%E5%9C%98",
         "/id/music/chthonic": "/music/%E9%96%83%E9%9D%88",
         "/id/music/contemporary-indigenous-singer-songwriters": "/music/%E7%95%B6%E4%BB%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%89%B5%E4%BD%9C%E6%AD%8C%E6%89%8B",
@@ -16767,6 +16771,8 @@
         "/lifestyle/小北百貨": "/id/lifestyle/xiaobei-department-store",
         "/music/%E5%8F%B0%E7%81%A3%E6%B0%91%E8%AC%A0%E8%88%87%E6%AD%8C%E8%AC%A0": "/id/music/Taiwan Folk Music and Songs",
         "/music/台灣民謠與歌謠": "/id/music/Taiwan Folk Music and Songs",
+        "/music/%E5%85%AB%E9%83%A8%E5%90%88%E9%9F%B3": "/id/music/bunun-pasibutbut-eight-part-polyphony",
+        "/music/八部合音": "/id/music/bunun-pasibutbut-eight-part-polyphony",
         "/music/%E5%90%88%E5%94%B1%E5%9C%98": "/id/music/choir",
         "/music/合唱團": "/id/music/choir",
         "/music/%E9%96%83%E9%9D%88": "/id/music/chthonic",

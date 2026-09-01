@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T22:12:23.969Z",
+  "lastUpdated": "2026-09-01T22:12:54.250Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 8855,
+      "commits": 8872,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-01 05:38:55 +0800",
+      "lastCommitAt": "2026-09-02 05:39:49 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1587,
-        "system": 4759,
-        "translation": 1967
+        "content": 1588,
+        "system": 4772,
+        "translation": 1968
       }
     },
     {
@@ -35,16 +35,16 @@
     },
     {
       "login": "tboydar",
-      "commits": 69,
+      "commits": 70,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-29 05:15:32 +0800",
+      "lastCommitAt": "2026-08-31 12:14:23 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 67
+        "translation": 68
       }
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 26,
+      "commits": 29,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -888,16 +888,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 8855,
+      "commits": 8872,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-01 05:38:55 +0800",
+      "lastCommitAt": "2026-09-02 05:39:49 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1587,
-        "system": 4759,
-        "translation": 1967
+        "content": 1588,
+        "system": 4772,
+        "translation": 1968
       }
     },
     {
@@ -960,16 +960,16 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 69,
+      "commits": 70,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-29 05:15:32 +0800",
+      "lastCommitAt": "2026-08-31 12:14:23 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 67
+        "translation": 68
       }
     },
     {
@@ -1029,7 +1029,7 @@
       }
     }
   ],
-  "weeklyActive": 4,
+  "weeklyActive": 3,
   "monthlyActive": 9,
   "recentlyJoined": [
     {

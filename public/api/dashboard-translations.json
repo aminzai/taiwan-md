@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T22:12:38.235Z",
+  "lastUpdated": "2026-09-01T22:12:59.861Z",
   "languages": [
     "zh-TW",
     "en",
@@ -37,16 +37,16 @@
       "bodyFreshPct": 73.8
     },
     "ja": {
-      "total": 887,
-      "percentage": 79.4,
-      "fresh": 815,
+      "total": 888,
+      "percentage": 79.5,
+      "fresh": 816,
       "metadataStale": 18,
       "stale": 54,
-      "missing": 230,
+      "missing": 229,
       "orphan": 0,
-      "deficit": 230,
-      "freshPct": 73,
-      "bodyFreshPct": 74.6
+      "deficit": 229,
+      "freshPct": 73.1,
+      "bodyFreshPct": 74.7
     },
     "ko": {
       "total": 885,
@@ -97,16 +97,16 @@
       "bodyFreshPct": 65.9
     },
     "id": {
-      "total": 593,
-      "percentage": 53.1,
-      "fresh": 552,
+      "total": 594,
+      "percentage": 53.2,
+      "fresh": 553,
       "metadataStale": 10,
       "stale": 31,
-      "missing": 524,
+      "missing": 523,
       "orphan": 0,
-      "deficit": 524,
-      "freshPct": 49.4,
-      "bodyFreshPct": 50.3
+      "deficit": 523,
+      "freshPct": 49.5,
+      "bodyFreshPct": 50.4
     },
     "pt": {
       "total": 848,
@@ -157,16 +157,16 @@
       "bodyFreshPct": 67.3
     },
     "de": {
-      "total": 77,
-      "percentage": 6.9,
-      "fresh": 75,
+      "total": 78,
+      "percentage": 7,
+      "fresh": 76,
       "metadataStale": 0,
       "stale": 2,
-      "missing": 1040,
+      "missing": 1039,
       "orphan": 0,
-      "deficit": 1040,
-      "freshPct": 6.7,
-      "bodyFreshPct": 6.7
+      "deficit": 1039,
+      "freshPct": 6.8,
+      "bodyFreshPct": 6.8
     }
   },
   "matrix": {
@@ -424,11 +424,11 @@
         "deficit": 44
       },
       "de": {
-        "count": 0,
-        "fresh": 0,
+        "count": 1,
+        "fresh": 1,
         "stale": 0,
-        "missing": 112,
-        "deficit": 112
+        "missing": 111,
+        "deficit": 111
       }
     },
     "economy": {
@@ -911,11 +911,11 @@
         "deficit": 9
       },
       "id": {
-        "count": 19,
-        "fresh": 18,
+        "count": 20,
+        "fresh": 19,
         "stale": 1,
-        "missing": 18,
-        "deficit": 18
+        "missing": 17,
+        "deficit": 17
       },
       "pt": {
         "count": 34,
@@ -1050,11 +1050,11 @@
         "deficit": 49
       },
       "ja": {
-        "count": 236,
-        "fresh": 226,
+        "count": 237,
+        "fresh": 227,
         "stale": 10,
-        "missing": 49,
-        "deficit": 53
+        "missing": 48,
+        "deficit": 52
       },
       "ko": {
         "count": 235,
@@ -1800,7 +1800,6 @@
       "People/多米多羅：把「抓錯」做成一種公共表演，笑聲後面是誰有資格糾正誰.md",
       "People/施琅：從鄭氏部將到清軍主將，不能獨自決定臺灣去留.md",
       "People/木曜4超玩：把普通工作的不可見專業拍成網路綜藝.md",
-      "People/林獻堂：把一座書房變成台灣人的公共入口.md",
       "People/沈葆楨：一座砲臺、一條山路，和清廷被迫看見的臺灣.md",
       "People/蒼藍鴿：把白袍的距離搬到鏡頭前.md",
       "People/蔡同榮：把公投帶進法律的人，先看見它被門檻圍住.md",
@@ -3324,7 +3323,6 @@
       "Technology/台灣資安產業發展.md",
       "History/國民政府遷台與戰後重建.md",
       "People/陳樹菊：一個台東菜販，用五十年菜錢捐出數千萬的慈善人生.md",
-      "Music/八部合音：挑戰西方音樂史觀的活化石.md",
       "People/蔣中正.md",
       "Culture/台灣華語的演化——四百年的語言地層學.md",
       "Food/台灣原住民飲食文化.md",
@@ -5654,7 +5652,6 @@
       "People/黃震南.md",
       "Society/早餐店阿姨與社區情報網.md",
       "Culture/九天玄女：從黃帝的軍師到台灣陣頭少年的守護神.md",
-      "Culture/擲筊：在 50% 的機率背後，聽見神明的聲音.md",
       "Culture/關聖帝君：一個敗軍之將如何成為台灣的萬能之神.md",
       "History/擎天崗的19頭牛：從源興牛到台南牛肉湯，一座島嶼的肉牛突圍.md",
       "People/何飛鵬.md",

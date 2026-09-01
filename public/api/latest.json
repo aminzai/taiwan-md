@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-08-31T22:12:50.320Z",
+  "_generated": "2026-09-01T22:13:21.495Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -276,6 +276,33 @@
     ],
     "en": [
       {
+        "title": "Audrey Tang: Every Famous Decision She Made Was a Refusal of the “Genius” Label",
+        "desc": "Kicked unconscious by classmates at eight, turning down a guaranteed place at Taipei Municipal Jianguo High School at fourteen, coming out as transgender at twenty-four while refusing to become its spokesperson, and making “no office” the first condition of joining the cabinet at thirty-five. On December 2, 2025, she accepted the Right Livelihood Award in Stockholm — and the word she stressed on stage was not “I,” but “we.”",
+        "category": "people",
+        "href": "/en/people/audrey-tang",
+        "date": "2026-08-31T12:14:23+08:00",
+        "readingTime": 22,
+        "image": "/article-images/people/audrey-tang-portrait-2016.webp"
+      },
+      {
+        "title": "Charles Le Gendre: The Treaty-Maker and the Traitor Were the Same Man",
+        "desc": "In 1867, the American merchant ship Rover wrecked off the Hengchun Peninsula, and 14 crew members were killed by the Paiwan people. U.S. Consul Le Gendre made eight trips to Taiwan, signing an agreement with indigenous chief Tauketok without the participation of the Qing government. He then took his encyclopedic knowledge of Formosa and defected to the Japanese government. Five years later, Japan used his intelligence to launch a military expedition against Taiwan.",
+        "category": "people",
+        "href": "/en/people/charles-le-gendre",
+        "date": "2026-08-31T12:14:23+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Bi-khim Hsiao",
+        "desc": "Born in Japan, schooled in Tainan, raised in New Jersey, and educated at Oberlin — how did this “Cat Warrior” become the most successful Representative to the United States in the history of Taiwan, and then take the vice president’s seat?",
+        "category": "people",
+        "href": "/en/people/hsiao-bi-khim",
+        "date": "2026-08-31T12:14:23+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
         "title": "Brigitte Lin: From Qiong Yao Romance Star to East Asia’s Cinema Legend",
         "desc": "Discovered in Taipei at seventeen, Brigitte Lin defined Taiwanese romance cinema before reinventing herself as Hong Kong martial arts icon Dongfang Bubai.",
         "category": "people",
@@ -517,33 +544,6 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 6,
         "image": "/article-images/food/dan-ta-hero.webp"
-      },
-      {
-        "title": "Taiwan’s Artificial Intelligence Development and Future Strategy: The Hardware Ticket Is in Hand. Where Is the Next Battle?",
-        "desc": "On October 8, 2024, the Nobel Prize in Physics went to Hopfield and Hinton; the next day, the Chemistry prize went to the three AlphaFold researchers. On May 29 of the same year, Jensen Huang ate oyster omelets with Morris Chang at Taipei’s Ningxia Night Market. Taiwan manufactures 90% of the world’s AI servers and 72% of advanced wafers, yet it was absent from the answers to the 42-year history of neural networks and the 50-year protein-folding problem. From PTT founder Ethan Tu’s Taiwan AI Labs to TAIDE, the traditional Chinese LLM model backed by the National Science and Technology Council, is it still enough for this island to be only a contract manufacturer?",
-        "category": "technology",
-        "href": "/en/technology/artificial-intelligence-development-strategy",
-        "date": "2026-07-30T04:02:34+08:00",
-        "readingTime": 18,
-        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
-      },
-      {
-        "title": "The Li Poetry Society: A Group Forced to Forget Japanese Sustained Taiwan’s Longest-Running Chinese Poetry Journal",
-        "desc": "In 1958, a 36-year-old Taiwanese former Japanese soldier published his first post-war Chinese poem under the pen name 'Huan Fu,' eleven years after he stopped writing in Japanese. Six years later, he and eleven others met in a living room in central Taiwan to transform this generation's experience of linguistic loss into a poetry society called 'Li'—a journal that has never ceased publication for 60 years, bringing local poetics from the margins into junior high school textbooks.",
-        "category": "art",
-        "href": "/en/art/li-poetry-society",
-        "date": "2026-07-29T13:39:11+09:00",
-        "readingTime": null,
-        "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
-      },
-      {
-        "title": "I Am a Person from [City]: The 'Local' Fan Pages with an AI Prompt Left in the Back-end",
-        "desc": "In February 2026, a local fan page claiming to be 'a person from Taipei' left behind an unedited AI prompt: 'Remove sensitive terms, enhance Taiwan local dialect.' Following this trail leads to a corporate entity in Neihu, Taipei, which uses AI to rewrite news from CTi News and CTWANT into the vernacular of locals, distributing them across fan pages disguised as residents of various cities. It doesn't fabricate news; it reposts real news. The problem lies in the untraceable origin and funding—while those best at identifying cognitive warfare in Taiwan are urging: 'Don't rush to label things.'",
-        "category": "society",
-        "href": "/en/society/oo",
-        "date": "2026-07-29T13:39:11+09:00",
-        "readingTime": null,
-        "image": "/article-images/society/woo-fanpage.webp"
       }
     ],
     "ja": [

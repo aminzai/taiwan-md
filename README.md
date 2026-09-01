@@ -98,12 +98,12 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 📄 Total articles (zh-TW SSOT) | 1115  |
 | 🇹🇼 Chinese (zh-TW)             | 1115  |
 | 🇺🇸 English (en)                | 891   |
-| 🇯🇵 日本語 (ja)                 | 887   |
+| 🇯🇵 日本語 (ja)                 | 888   |
 | 🇰🇷 한국어 (ko)                 | 885   |
 | 🇪🇸 Español (es)                | 883   |
 | 🇫🇷 Français (fr)               | 884   |
 | 🇻🇳 Tiếng Việt (vi)             | 800   |
-| 🇮🇩 Bahasa Indonesia (id)       | 593   |
+| 🇮🇩 Bahasa Indonesia (id)       | 594   |
 | 🇵🇹 Português (pt)              | 848   |
 | 🇮🇳 हिन्दी (hi)                 | 673   |
 | 🇸🇦 العربية (ar)                | 755   |
@@ -113,7 +113,7 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
 | ⭐ GitHub Stars                | 1161  |
-| 🍴 Forks                       | 182   |
+| 🍴 Forks                       | 183   |
 | 📅 Articles last 7 days        | 20    |
 | 📅 Articles last 30 days       | 265   |
 
