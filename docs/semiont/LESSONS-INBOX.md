@@ -332,6 +332,28 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-01 twmd-maintainer-am — clip-that-causes-the-bug-also-silences-the-detector：造成裁切的那個 clip，同時讓量裁切的那把尺回報 PASS
+
+- **pattern**: `clip-that-causes-the-bug-also-silences-the-detector`
+- **原則**：當「溢出」是病徵時，用 `overflow: clip / hidden` 收住版面的容器會讓所有以「文件有沒有水平捲軸」為判準的檢查全部變綠。檢查器問的是 `documentElement.scrollWidth > innerWidth` 嗎，而 clip 保證了答案永遠是「否」——不是因為內容放得下，是因為放不下的那部分被切掉了。病徵與消音器是同一行 CSS。要看見它，尺必須從「頁面有沒有溢出」換成「每個子元素的 right 有沒有超出 viewport，而它所在的捲動容器是不是真的捲得動」。
+- **觸發**：Issue #1639 讀者回報手機版主題頁連結顯示不完整（附的是示意圖不是截圖，所以先當線索處理）。375px viewport 實測：`documentElement.scrollWidth == 375`，沒有任何水平溢出，issue 自己列的驗收條件「不產生非預期水平 overflow」是通過的。但同一個 DOM 裡 `.shelf-grid` 的 `clientWidth == scrollWidth == 902`——它掛著 `overflow-x: auto` 卻沒有東西可捲，精選書架第二、三張卡落在 left 321→613 與 625→918，被 `main.category-page { overflow-x: clip }` 裁掉且捲不到。根因是外層容器 `max-[768px]:flex-col` 之後 `items-start` 的語意從「靠上對齊」翻成「子項縮到內容寬」，文章欄因此撐成 902px。修法 `max-[768px]:items-stretch`（`f` 見本輪 commit），實測 `.shelf-grid` 變回 clientWidth 343 / scrollWidth 902，恢復可捲。
+- **為什麼閘門沒接住**：站上沒有任何一條檢查在量「捲動容器捲不捲得動」。`verify-internal-links.sh` 量死連結、`article-health` 量內容、CI 量 build——版面裁切這一層只有人眼，而人眼在桌機。issue 自己開出來的驗收條件也踩了同一個坑：它把「沒有水平 overflow」寫成通過標準，而那正是 clip 保證會通過的那一項。
+- **候選修法**：(a) 補一條 layout 檢查：對每個 `overflow-x: auto/scroll` 的容器斷言 `scrollWidth > clientWidth` 或 `子元素 right <= clientWidth`，兩者皆否＝它既不捲也裝不下 (b) 任何以「有沒有溢出」為判準的檢查，先問一次「上游有沒有東西在 clip」，有就換尺 (c) 斷點翻轉 flex-direction 時，複查每一個 align/justify 類 utility 的語意有沒有跟著翻——`items-start` 在 row 與 column 下管的是不同的軸
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #82（proxy signal — 用「文件溢出」當「內容看得到」的替身）、#38（混維度 — 一個 PASS 同時代表「裝得下」與「被切掉了」）、#69（外部尺 — 真正接住它的是把瀏覽器開到 375px 去量幾何，不是任何一把自製的尺）
+
+### 2026-09-01 twmd-maintainer-am — ratio-gate-cannot-surface-a-small-structured-family：比例閘門看得見總量，看不見一個小而整齊的死連結家族
+
+- **pattern**: `ratio-gate-cannot-surface-a-small-structured-family`
+- **原則**：以「壞掉比例 < N%」為判準的閘門，對「數量少但結構一致」的家族是全盲的。它們既進不了紅線（佔比太小），也進不了報表印出來的前幾名（清單被截斷成 top-N 加一句「還有 281 個」）。於是一個每一筆都指向同一個根因的家族，可以在通過的閘門底下活很久——不是沒被偵測到，是被偵測到之後混進總數裡，再也沒有單獨現身的機會。
+- **觸發**：`lifeTree` frontmatter 隨翻譯被複製進 31 篇譯文，橫跨 12 個語言。`/lifetree/[slug]` 的 `getStaticPaths` 只掃 `knowledge/<分類>/`（中文 canonical），而 `article.template.astro` 的 CTA 橫幅不分語言渲染，`href` 直接串 `/lifetree/${slug}`——每一篇都指向一個不存在的頁。其中 19 篇的 `lifeTree` 在翻譯途中被序列化成字串而非物件，樣板讀 `.protagonist` 得到 undefined，日文版張忠謀頁實際印出「undefined の人生分岐ツリー（0 個の転換点）」。`verify-internal-links.sh` 的 `href_exists` 對這 31 條全部正確回 False，它們一直被算進 2,876 條 broken 裡，但總比例 0.32% 遠低於 7% 門檻，而報表只印字母序前段，`/lifetree/...` 落在「還有 281 個未列出」那一段。三個月沒有人看見。
+- **為什麼閘門沒接住**：閘門接住了，只是它的輸出設計讓接住等於沒接住。比例是給 CI 用的單一布林，top-N 清單是給人看的，兩者中間沒有「按前綴/家族分組計數」這一層——而根因永遠長在家族層，不在總量層也不在單筆層。
+- **候選修法**：(a) `verify_internal_links.py` 報表加一段「按路徑前綴分組的 top 家族」，讓 N 條指向同一個 route 的死連結自己站出來 (b) 衍生層欄位（只有 canonical 有消費者的 frontmatter key）進翻譯前要有一份排除名單，或在渲染層限定語言——本輪選後者，因為它擋得住未來每一批翻譯 (c) 任何比例型 gate 都配一個「家族最大者」的次要指標
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #82（proxy signal — 總比例當作「連結健康」的替身）、#24（工具在說謊：抽樣偏差／只報它當下印得出來的前幾條）、#38（混維度）、#91（建造與登記是兩個不同步的代謝 — 欄位被複製進譯文，消費者名單沒有跟著更新）
+
 ### 2026-09-01 twmd-feedback-triage — absent-field-rendered-as-the-widest-reading：缺席的欄位被 fallback 印成最寬的那個解讀，跟真的很寬長得一模一樣
 
 - **pattern**: `absent-field-rendered-as-the-widest-reading`
