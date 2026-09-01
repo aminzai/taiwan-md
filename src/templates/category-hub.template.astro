@@ -469,11 +469,19 @@ const otherCategories = categories
         /* Main two-column layout: sidebar + content
            Sticky aside must keep content-height (`self-start` / `h-fit`) so
            the parent flex (= taller article column) provides the scroll
-           context. Items-start on parent enforces that. */
+           context. Items-start on parent enforces that.
+
+           但 items-start 只給桌機。手機版這個容器翻成 flex-col，此時
+           items-start 的意思從「靠上對齊」變成「每個子項縮到自己的內容寬」，
+           文章欄於是撐成內容寬（375px viewport 實測長到 902px），
+           .shelf-grid 的 clientWidth 追上 scrollWidth 就再也沒有東西可捲，
+           精選書架第二、三張卡被 main.category-page 的 overflow-x: clip
+           裁掉、而且捲不到。所以下面補 max-[768px]:items-stretch。
+           Issue #1639，2026-09-01。 */
       }
       {
         articles.length > 0 ? (
-          <div class="mt-4 flex items-start gap-8 max-[768px]:flex-col max-[768px]:gap-0">
+          <div class="mt-4 flex items-start gap-8 max-[768px]:flex-col max-[768px]:items-stretch max-[768px]:gap-0">
             <aside class="sticky top-[72px] w-[180px] flex-shrink-0 self-start max-[768px]:static max-[768px]:w-full max-[768px]:max-h-none max-[768px]:overflow-visible">
               {/* Subcategory nav */}
               {groups.length > 1 && (
