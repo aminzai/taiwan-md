@@ -335,3 +335,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-02 | 053629-twmd-embeddings-nightly | 12 語重建 9,890 向量 0 fail 全綠；本機端點直連免 fallback；en/id/ja 三語鄰居因近期新翻譯變動，其餘 9 語不動 | 連續穩態本身就是這條 routine 該有的樣子，語言組合逐夜輪替不構成 escalate 訊號 | [→](memory/2026-09-02-053629-twmd-embeddings-nightly.md) |
 | 2026-09-02 | 053756-twmd-routine-sync | 三層對賬第 36 輪，18 條全 in-sync 零漂移；順路撞見 embeddings-nightly 同分鐘完成 commit 的並發時序 | 工具瞬時矛盾先查時間戳再懷疑工具，這次是真並發不是幻覺 | [→](memory/2026-09-02-053756-twmd-routine-sync.md) |
 | 2026-09-02 | 061547-twmd-data-refresh-am | 14 步全綠零 stale，日文與印尼文譯文小幅前進，forks 182→183；scheduler live-state dump 照 rider 無條件跑完第三次無黃燈驗證 | 無黃燈狀態下的重複驗證是修法從「這次有效」變「可信任」的必經路徑 | [→](memory/2026-09-02-061547-twmd-data-refresh-am.md) |
+| 2026-09-02 | 063735-twmd-spore-harvest-am | D+1-D+7 窗口本日仍淨空；精算 D+14/D+30 milestone，黃崇仁+海關組明天（9/3）D+30 到期；no-op 合法收工 | 逐條核對 harvestStatus 才抓得到「明天到期」訊號，只看 backfillWarnings 彙總欄位會漏掉 | [→](memory/2026-09-02-063735-twmd-spore-harvest-am.md) |
