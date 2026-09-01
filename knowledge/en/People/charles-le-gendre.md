@@ -30,7 +30,7 @@ translatedAt: '2026-08-29T05:30:00+08:00'
 
 # Charles Le Gendre: The Treaty-Maker and the Traitor Were the Same Man
 
-> **30-Second Overview:** Charles W. Le Gendre (1830–1899), French-born American diplomat, Civil War veteran, lost his left eye at Gettysburg. From 1866 to 1872 he served as U.S. Consul in Amoy, visiting Formosa eight times and signing the South Cape Agreement (南岬之盟) with the Paiwan chief Tauketok (卓杞篤). After leaving his consular post he defected to the Japanese government, using his knowledge of Taiwan to help Japan plan the 1874 Mudan Incident expedition. He left behind a 1,600-page manuscript and 200 images, but this "Taiwan Travelogue" was never published in his lifetime; only 137 years later did the National Museum of Taiwan History publish the fully annotated edition.
+> **30-Second Overview:** Charles W. Le Gendre (1830–1899), French-born American diplomat, Civil War veteran, lost his left eye at the Battle of the Wilderness in 1864. From 1866 to 1872 he served as U.S. Consul in Amoy, visiting Formosa eight times and signing the South Cape Agreement (南岬之盟) with the Paiwan chief Tauketok (卓杞篤). After leaving his consular post he defected to the Japanese government, using his knowledge of Taiwan to help Japan plan the 1874 Mudan Incident expedition. He left behind a 1,600-page manuscript and 200 images, but this "Taiwan Travelogue" was never published in his lifetime; only 137 years later did the National Museum of Taiwan History publish the fully annotated edition.
 
 ---
 

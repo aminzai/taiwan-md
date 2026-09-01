@@ -138,13 +138,13 @@ But this may be the answer that Taiwan's future must get used to. Because in the
 
 **Further Reading**:
 
-- 2026 Cheng–Xi Meeting: Ten Minutes for the CCP–KMT Leaders to Meet Again After a Decade — When Cheng Li-wun spoke in Beijing, behind Hsiao's low-key response on the international stage lay another question of “who represents Taiwan”
-- Lai Ching-te (賴清德) — The other half of this pairing: a domestic-policy technocrat paired with a diplomatic cat warrior
-- Cheng Li-wun (鄭麗文) — Comparative reading: the two female politicians with the highest media exposure in 2026, on completely different paths
-- Taiwan Strait Crisis and the Development of Cross-Strait Relations — Those three years Hsiao served in Washington were exactly the critical period of America's all-around pivot in its China policy
-- Taiwan's Democratic Transition — The Presbyterian network of Hsiao's father at Tainan Theological College and Seminary was one of the important spiritual sources of Taiwan's democratization movement
-- Cho Jung-tai (卓榮泰) — Lai Ching-te's first premier, the other person at the May 20, 2024 handover ceremony where Hsiao presided over the transfer of the seal
-- Hsu Chiao-hsin (徐巧芯) — Another female political archetype in the same political structure, on a path and with a corresponding view of Taiwan completely opposite to Hsiao's
+- [The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After a Decade Apart](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — When Cheng Li-wun spoke in Beijing, behind Hsiao's low-key response on the international stage lay another question of “who represents Taiwan”
+- [Lai Ching-te](/en/people/lai-ching-te) — The other half of this pairing: a domestic-policy technocrat paired with a diplomatic cat warrior
+- [Cheng Li-wun](/en/people/cheng-li-wun) — Comparative reading: the two female politicians with the highest media exposure in 2026, on completely different paths
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — Those three years Hsiao served in Washington were exactly the critical period of America's all-around pivot in its China policy
+- [Taiwan's Transitional Justice](/en/history/taiwan-transitional-justice) — The Presbyterian network of Hsiao's father at Tainan Theological College and Seminary was one of the important spiritual sources of Taiwan's democratization movement
+- [Cho Jung-tai](/en/people/cho-jung-tai) — Lai Ching-te's first premier, the other person at the May 20, 2024 handover ceremony where Hsiao presided over the transfer of the seal
+- [Hsu Chiao-hsin](/en/people/hsu-chiao-hsin) — Another female political archetype in the same political structure, on a path and with a corresponding view of Taiwan completely opposite to Hsiao's
 
 ## References
 
