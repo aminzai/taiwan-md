@@ -838,7 +838,7 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
     if not zh_full.exists():
         return False, f"zh source not found: {zh_path}", None
 
-    zh_content = zh_full.read_text()
+    zh_content = zh_full.read_text(encoding="utf-8")
 
     try:
         system, user_msg, armor_ctx = armor_pre(article, zh_content, lang, armor=armor)
@@ -960,7 +960,7 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
             return False, f"{last_partial_err} via {backend_used} — not saved", backend_used
 
         out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text(output + "\n")
+        out_path.write_text(output + "\n", encoding="utf-8")
 
         size = out_path.stat().st_size
         if size < 1000:
@@ -1025,7 +1025,7 @@ def main():
 
     if args.group:
         group_path = Path(args.group).resolve()
-        group = json.loads(group_path.read_text())
+        group = json.loads(group_path.read_text(encoding="utf-8"))
         articles = group.get("articles", group) if isinstance(group, dict) else group
         if args.max_articles:
             articles = articles[: args.max_articles]
@@ -1040,7 +1040,7 @@ def main():
         if not manifest_path.exists():
             print(f"❌ no manifest at {manifest_path}", file=sys.stderr)
             sys.exit(2)
-        manifest = json.loads(manifest_path.read_text())
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         articles = [a for a in manifest.get("articles", []) if a["zh_path"] == args.zh_path]
         if not articles:
             print(f"❌ {args.zh_path} not in {args.lang} manifest", file=sys.stderr)

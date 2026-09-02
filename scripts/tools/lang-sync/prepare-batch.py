@@ -57,7 +57,7 @@ def get_zh_meta(zh_path):
         ["git", "log", "-1", "--format=%h", "--", f"knowledge/{zh_path}"],
         cwd=REPO,
     ).decode().strip()
-    content = full.read_text()
+    content = full.read_text(encoding="utf-8")
     if content.startswith("---"):
         e = content.find("---", 3)
         body = content[e + 3:] if e != -1 else content
@@ -70,7 +70,7 @@ def get_zh_meta(zh_path):
 
 def extract_wikilinks(zh_path):
     full = KNOWLEDGE / zh_path
-    text = full.read_text()
+    text = full.read_text(encoding="utf-8")
     if text.startswith("---"):
         e = text.find("---", 3)
         text = text[e + 3:] if e != -1 else text

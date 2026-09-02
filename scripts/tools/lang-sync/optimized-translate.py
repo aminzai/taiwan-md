@@ -295,10 +295,10 @@ def cmd_prompt(zh_path: str):
     if not (out_dir / "b-body.md").exists():
         cmd_extract(zh_path)
 
-    fm = json.loads((out_dir / "a-frontmatter-translatable.json").read_text())
-    body = (out_dir / "b-body.md").read_text()
-    extension = (out_dir / "d-extension.md").read_text()
-    fns = json.loads((out_dir / "c-footnotes.json").read_text())
+    fm = json.loads((out_dir / "a-frontmatter-translatable.json").read_text(encoding="utf-8"))
+    body = (out_dir / "b-body.md").read_text(encoding="utf-8")
+    extension = (out_dir / "d-extension.md").read_text(encoding="utf-8")
+    fns = json.loads((out_dir / "c-footnotes.json").read_text(encoding="utf-8"))
 
     # Footnotes — translate both bracket title (if zh) and desc (if zh)
     fn_to_translate = []
@@ -367,13 +367,13 @@ def cmd_assemble(zh_path: str, en_path: str):
         print(f"   - {trans_ext_path} (optional)")
         sys.exit(1)
 
-    trans_fields = json.loads(trans_fields_path.read_text())
-    trans_body = trans_body_path.read_text().rstrip()
-    trans_fns = json.loads(trans_fns_path.read_text()) if trans_fns_path.exists() else []
-    trans_ext = trans_ext_path.read_text().rstrip() if trans_ext_path.exists() else ""
+    trans_fields = json.loads(trans_fields_path.read_text(encoding="utf-8"))
+    trans_body = trans_body_path.read_text(encoding="utf-8").rstrip()
+    trans_fns = json.loads(trans_fns_path.read_text(encoding="utf-8")) if trans_fns_path.exists() else []
+    trans_ext = trans_ext_path.read_text(encoding="utf-8").rstrip() if trans_ext_path.exists() else ""
 
     # Read raw zh frontmatter to get passthrough fields
-    fm_raw = (out_dir / "a-frontmatter-raw.txt").read_text()
+    fm_raw = (out_dir / "a-frontmatter-raw.txt").read_text(encoding="utf-8")
 
     # Build new frontmatter: passthrough + translated
     new_fm_lines = []
@@ -395,7 +395,7 @@ def cmd_assemble(zh_path: str, en_path: str):
             new_fm_lines.append(line)
 
     # Original footnotes (URLs preserved; both title + desc translated by agent if zh)
-    fns_orig = json.loads((out_dir / "c-footnotes.json").read_text())
+    fns_orig = json.loads((out_dir / "c-footnotes.json").read_text(encoding="utf-8"))
     trans_fn_map = {f["ref"]: f for f in trans_fns} if trans_fns else {}
 
     fn_lines = []
