@@ -332,6 +332,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-02 twmd-maintainer-am — verification-tool-lacks-the-feature-it-must-verify：驗證工具本身不支援被驗證的那個功能，於是缺陷與工具限制長得一模一樣
+
+**現象**：Issue #1639 剩下的驗收條件，上一輪寫成「需要一個有人在場、能開真實瀏覽器的 session」。本輪拿到了瀏覽器，量出來的結果是：子選單展開後 `aria-expanded` 變 `true`、`.open` 也加上了，但 `grid-template-rows` 仍算出 `0px`，226px 的連結被裁成 0——看起來就是使用者回報的那個症狀，位置也對得上，`Header.astro:1466` 那段 `0fr → 1fr` 的高度動畫還剛好是 39 天前 `bb2945e43` 從能動的 `display:none / .open{display:flex}` 換過來的，連 git blame 都指向一個合理的回歸。整條推論鏈完全成立。
+
+在同一個頁面、同一個引擎裡寫一個三行 div 的最小重現之後，那個寫法**也**算出 `0px`。站上的 CSS 沒有問題，是這個內嵌瀏覽器整個不實作這個寫法。同一輪還量到第二個同型限制：對 19,254px 的文件下 `scrollTo` / `scrollBy` / `scrollIntoView`，`scrollY` 全程維持 `0`——「錨點跳轉後標題會不會被固定 Header 遮住」這一項因此也不是沒量到，是量不到。
+
+**為什麼這條跟 REFLEXES #16「環境代表性」不完全同型**：#16 說的是「在非代表性環境看到的壞掉，動手前先在真實環境重現」。這裡多一層——**真實環境是不存在的選項**。這條 routine 只有這一個瀏覽器，而那個瀏覽器缺的正好是被驗證的那個功能。所以「先去真實環境重現」在無人值守的排程裡不是一句可執行的指令，它預設了一個這條線上沒有的資源。
+
+**跟 `prescribed-verification-unavailable-to-unattended-runs`（2026-08-21）的關係**：那條講 pipeline 指名的驗證路徑對無人值守 session 是關著的。這條是它的下一層——路徑**開著**，工具也真的啟動了，但工具的能力邊界剛好切過被驗證的那個功能，於是它回報的「壞掉」與真正的壞掉在讀數上無法區分。有工具比沒工具更危險：沒工具會誠實地寫「未確認」，有工具會寫出一份看起來完成了的診斷。
+
+**接住它的是什麼**：不是任何閘門，是「先用最小案例問一次這個環境自己會不會」。這個動作花了一次 `javascript_exec`，它擋下的是對一段正確 CSS 的「修復」——而那個修復會在真實手機上把能動的子選單改成壞的，並且沒有任何一道站上檢查會叫（`article-health` 不看 CSS，斷鏈與 build 也都會綠）。這正是 2026-08-28 `footnote-cards` 那次「護欄製造了它要防的病」的同一個形狀，只是載體從 `window.open` 換成 CSS。
+
+**修補候選**：
+
+- (a) **工具能力自檢當前置動作**：任何在 Browser pane 裡做的視覺／版面判斷，動手前先跑一個最小重現問「這個環境自己支不支援這個機制」，答案寫進報告。這比事後懷疑便宜一個數量級，而且它不依賴當班的警覺性——可以寫成 MAINTAINER Stage 3.6「修完必驗證」旁邊的一條前置。
+- (b) **把已知的能力缺口列成一張表**：目前確認兩項（`grid-template-rows: 0fr→1fr` 不生效、頁面無法程式化捲動）。列出來之後，下一條 routine 讀到就知道哪些驗收條件不必再試，而不是每一輪重新發現一次。
+- (c) 驗收條件本身標註「需要哪一級的環境」，讓「這一項無人值守量不到」變成 issue 上看得見的欄位，而不是每輪留言裡重寫一次的一段話。
+
+**對應**：[REFLEXES #16](REFLEXES.md) 環境代表性延伸（本條是它在「沒有真實環境可退回」情境下的變體）／[REFLEXES #24](REFLEXES.md) 工具在說謊（新增型態：工具不支援被測功能，讀數與真缺陷同形）／[REFLEXES #69](REFLEXES.md) 外部尺／LESSONS `prescribed-verification-unavailable-to-unattended-runs`（同族下一層）。
+
 ### 2026-09-01 twmd-maintainer-am — clip-that-causes-the-bug-also-silences-the-detector：造成裁切的那個 clip，同時讓量裁切的那把尺回報 PASS
 
 - **pattern**: `clip-that-causes-the-bug-also-silences-the-detector`

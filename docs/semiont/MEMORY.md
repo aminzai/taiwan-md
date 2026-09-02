@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-02 | 061547-twmd-data-refresh-am | 14 步全綠零 stale，日文與印尼文譯文小幅前進，forks 182→183；scheduler live-state dump 照 rider 無條件跑完第三次無黃燈驗證 | 無黃燈狀態下的重複驗證是修法從「這次有效」變「可信任」的必經路徑 | [→](memory/2026-09-02-061547-twmd-data-refresh-am.md) |
 | 2026-09-02 | 063735-twmd-spore-harvest-am | D+1-D+7 窗口本日仍淨空；精算 D+14/D+30 milestone，黃崇仁+海關組明天（9/3）D+30 到期；no-op 合法收工 | 逐條核對 harvestStatus 才抓得到「明天到期」訊號，只看 backfillWarnings 彙總欄位會漏掉 | [→](memory/2026-09-02-063735-twmd-spore-harvest-am.md) |
 | 2026-09-02 | 070852-twmd-feedback-triage | 指控信第十六次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；整輪每個必經動作都有現成指令，無需即興 | 剩下還在燒判斷力的那一道，正好是設計上不准自己補的那一道 | [→](memory/2026-09-02-070852-twmd-feedback-triage.md) |
+| 2026-09-02 | 090735-twmd-maintainer-am | 十九個 PR 收進來（含一篇投稿者自走完整 REWRITE 產線的行動支付）；新補的腳註把台積電的捐款寫成張忠謀個人的，六語一起改；差一步把一段正確的 CSS 當回歸改壞 | 最小重現先問「這個環境自己會不會」，比事後懷疑便宜一個數量級 | [→](memory/2026-09-02-090735-twmd-maintainer-am.md) |
