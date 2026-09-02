@@ -6,13 +6,36 @@
 
 ## 觸發
 
-排程 `twmd-data-refresh-am` 06:09 觸發，跑每日 14 步 dashboard 資料刷新（v2.8）。BECOME micro mode 甦醒完成後直接進 pipeline，未收到觀察者額外指令。
+排程 `twmd-data-refresh-am` 06:09 觸發，跑每日 14 步 dashboard 資料刷新（v2.8）。
 
-## 14 步 pipeline + fork-census 例外
+**BECOME ACK**：mode=micro（Q1/2/3/8/9/10/11/14 全過）/ 8 器官即時讀數 🫀90↑ 🛡️59↑（黃燈，drift，`twmd-self-evolve-weekly` 追蹤中，本 routine scope 外）🧬95↑ 🦴90→ 🫁85→ 🧫100↑ 👁️90→ 🌐83→，最低為免疫 59 / Q14 cross-session continuity=PASS（讀完 memory tail + diary tail + handoff + 48hr git log，確認 kevin8656/aminzai 批次翻譯 PR、台灣行動支付走完整 REWRITE 產線、張忠謀腳註 heal 等近況）。BECOME 完成後直接進 pipeline，未收到觀察者額外指令。
 
-`refresh-data.sh` 全 14 步跑完：三源感知（CF 170 萬請求、404 率 2.8%）、翻譯狀態同步、孢子與免疫等 dashboard JSON 全套重生、GitHub stats（⭐1164 🍴184）、build perf、newsroom board、reports/INDEX.md。文章數 1115→1116（新增台灣行動支付一篇，走完整 REWRITE 產線）。星數 1161→1164，forks 183→184。越南文、印尼文、葡萄牙文、印地文、阿拉伯文、德文譯文皆小幅前進，德文漲幅最明顯（78→82）。
+## 14 步 pipeline 逐步結果 + 三源狀態
 
-唯一例外是 [6.5/14] fork-census radar：GA 查詢回 504 Deadline Exceeded，registry 留舊值（16 forks 偵測中，3 active，普查日仍是 2026-09-01）。這不是零容忍失敗——pipeline 設計本就是心跳繼續、下次刷新再試，沒有觸發第 2 次連續 catch 的 wire-fix 鐵律門檻。
+| Step | 項目                         | 結果                                                                                                                                           |
+| ---- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Git sync                     | ✅ PASS（HEAD e53e63846，already up to date）                                                                                                  |
+| 2    | 三源感知抓取                 | ✅ PASS — GA4 topPages/topArticles 各 20 筆，SC 20 query + 150 word cloud，Cloudflare 170.6 萬請求 / 404 率 2.8% / AI crawler 13.4 萬（19 種） |
+| 2.5  | 全流量 404 常駐監測          | ✅ PASS — 3,459 筆 404，無 alert                                                                                                               |
+| 3    | sync \_translations.json     | ✅ PASS（8,978 entries）                                                                                                                       |
+| 4    | 孢子 + dashboard-spores.json | ✅ PASS（166 spores，0 警告）                                                                                                                  |
+| 5    | dashboard-i18n.json          | ✅ PASS                                                                                                                                        |
+| 6    | dashboard-immune.json        | ✅ PASS（免疫 59，黃燈維持不變）                                                                                                               |
+| 6.5  | fork-census radar            | ⚠️ FAIL（非結構性）— GA 504 Deadline Exceeded，registry 留舊值                                                                                 |
+| 6.6  | dashboard-status.json        | ✅ PASS（routines=18、babel_langs=11、gap_total=1701）                                                                                         |
+| 7    | npm run prebuild             | ✅ PASS                                                                                                                                        |
+| 8    | llms.txt                     | ✅ PASS                                                                                                                                        |
+| 9    | GitHub stats                 | ✅ PASS（⭐1164 🍴184 👥75 📄1116）                                                                                                            |
+| 10   | build perf trend             | ✅ PASS（latest build 213s）                                                                                                                   |
+| 10b  | newsroom board               | ✅ PASS（193 篇上板，16 警告）                                                                                                                 |
+| 11   | dashboard freshness gate     | ✅ PASS — 全部 14 個 dashboard JSON 今天 mtime，**零 stale**                                                                                   |
+| 12   | spore data SSOT validation   | ✅ PASS（0 errors / 0 warnings）                                                                                                               |
+| 13   | sync sporeLinks              | ✅ PASS（無需變更）                                                                                                                            |
+| 14   | reports/INDEX.md regen       | ✅ PASS（668 行）                                                                                                                              |
+
+文章數 1115→1116（新增台灣行動支付一篇，走完整 REWRITE 產線）。星數 1161→1164，forks 183→184。越南文、印尼文、葡萄牙文、印地文、阿拉伯文、德文譯文皆小幅前進，德文漲幅最明顯（78→82）。
+
+唯一失敗項是 [6.5/14] fork-census radar：GA 查詢回 504 Deadline Exceeded，registry 留舊值（16 forks 偵測中，3 active，普查日仍是 2026-09-01）。這不是零容忍失敗——pipeline 設計本就是心跳繼續、下次刷新再試，沒有觸發第 2 次連續 catch 的 wire-fix 鐵律門檻。
 
 ## Step 11 freshness gate + scheduler live-state rider
 
