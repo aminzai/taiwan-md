@@ -9209,6 +9209,25 @@
     "path": "Geography/台灣行政區劃.md"
   },
   {
+    "title": "台灣行動支付：為什麼手機裡裝了好幾種支付，出門還是會帶現金？",
+    "description": "2024 年第三季，資策會 MIC 的 5,000 份網路樣本中，92% 曾用、84% 常用行動支付。央行另一份全國成人調查卻顯示，73.8% 仍混用現金與非現金。從消費者、商家到 TWQR 的共同 QR，這篇拆開手機付款背後不同的工具、契約與確認流程，也回答為何高普及離不帶現金還有兩道門檻，並說明共同 QR 已解決什麼，又留下哪些受理與故障例外。",
+    "category": "Technology",
+    "tags": [
+      "行動支付",
+      "電子支付",
+      "TWQR",
+      "台灣 Pay",
+      "QR Code",
+      "現金",
+      "金融科技"
+    ],
+    "url": "https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E8%A1%8C%E5%8B%95%E6%94%AF%E4%BB%98",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-09-01",
+    "path": "Technology/台灣行動支付.md"
+  },
+  {
     "title": "台灣行道樹：一條用樹命名的路，和一百年沒做完的決定",
     "description": "彰化市茄苳路二段 292 號，門牌是一棵樹齡眾說紛紜的老茄苳取的——路配合樹，不是樹配合路。從 1898 年田代安定的植樹論、1980 年代狂種的黑板樹，到 2026 年六千多人連署要求禁止斷頭式修剪，每一代台灣人都替街上的樹做過決定。只是那份寫著「一律禁止」的修剪指引，到今天還只是「供各機關參考運用」。",
     "category": "Lifestyle",
@@ -13366,7 +13385,7 @@
       "台灣經濟"
     ],
     "url": "https://taiwan.md/economy/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83",
-    "readingTime": 10,
+    "readingTime": 11,
     "featured": false,
     "date": "2026-04-21",
     "path": "Economy/全聯福利中心.md"
@@ -20351,7 +20370,7 @@
       "護國神山"
     ],
     "url": "https://taiwan.md/people/%E5%BC%B5%E5%BF%A0%E8%AC%80",
-    "readingTime": 37,
+    "readingTime": 45,
     "featured": true,
     "date": "2026-03-17",
     "path": "People/張忠謀.md"
@@ -20362,7 +20381,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/tsmc-morris-chang",
-    "readingTime": 48,
+    "readingTime": 62,
     "featured": true,
     "date": "2026-03-17",
     "path": "ja/People/tsmc-morris-chang.md"
@@ -21600,17 +21619,6 @@
     "path": "People/陳士駿.md"
   },
   {
-    "title": "陳士駿",
-    "description": "8歳で台湾を離れ、27歳でアメリカに誰でも動画をアップロードできる場所を作り、20ヶ月後に16億5000万ドルで売却した。その後、脳に腫瘍が見つかり、妻と子供を連れて台湾に戻った。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/people/steve-chen-youtube-cofounder",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-04-06",
-    "path": "ja/People/steve-chen-youtube-cofounder.md"
-  },
-  {
     "title": "陳士駿 — 여덟 살에 떠나, 마흔한 살에 돌아온 사람",
     "description": "그는 여덟 살에 대만을 떠났고, 스물일곱 살에 미국에서 누구나 영상을 올릴 수 있는 곳을 만들었다. 스무 달 뒤 16.5억 달러에 팔고, 뇌종양 진단을 받았다가, 아내와 아이들을 데리고 돌아왔다.",
     "category": "ko",
@@ -21627,6 +21635,17 @@
     "featured": false,
     "date": "2026-04-06",
     "path": "ko/People/steve-chen-youtube-cofounder.md"
+  },
+  {
+    "title": "陳士駿（スティーブ・チェン）：YouTube共同創業者",
+    "description": "8歳で台湾を離れ、27歳で誰もが動画を投稿できる場所を米国につくり、20か月後に16億5,000万ドルで売却。その後、脳腫瘍を患い、妻子とともに台湾へ戻った起業家の物語です。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/steve-chen-youtube-cofounder",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "ja/People/steve-chen-youtube-cofounder.md"
   },
   {
     "title": "陳子見（視網膜）— 在官媒廢墟上蓋起嘲諷大廈，又在巔峰時親手拆掉它",
@@ -31931,6 +31950,24 @@
     "path": "vi/Culture/indigenous-peoples-16-tribes-cultural-map.md"
   },
   {
+    "title": "Ban nhạc Cà Trứng EggPlantEgg",
+    "description": "Với dòng rock \"lãng mạn kiểu Đài\" độc đáo và mạch tự sự \"gã lãng tử\", EggPlantEgg không chỉ thành công vang dội trên thị trường âm nhạc mà còn định nghĩa lại diện mạo đương đại của nhạc pop tiếng Đài, trở thành một biểu tượng văn hoá quan trọng của Đài Loan.",
+    "category": "vi",
+    "tags": [
+      "nhạc indie",
+      "giải Kim Khúc",
+      "nhạc pop tiếng Đài",
+      "bộ ba lãng tử",
+      "văn hoá Đài Loan",
+      "rock"
+    ],
+    "url": "https://taiwan.md/vi/music/eggplant-egg-band",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "vi/Music/eggplant-egg-band.md"
+  },
+  {
     "title": "Banco Nacional de la Memoria Cultural: Curaduría de la memoria y co-creación cultural en la era digital",
     "description": "El Banco Nacional de la Memoria Cultural no es solo una plataforma de archivo digital, sino una carrera contra el tiempo: mediante licencias abiertas y co-creación, revitaliza la memoria cotidiana de Taiwán en la era digital.",
     "category": "es",
@@ -33235,6 +33272,17 @@
     "featured": false,
     "date": "2026-05-04",
     "path": "vi/Food/school-lunch-reform.md"
+  },
+  {
+    "title": "Bubble Tea",
+    "description": "Bei einer Teambesprechung 1987 in Taichung eroberte eine beiläufige Idee die Welt. Über den umstrittenen Ursprung von Bubble Tea, Kulturpolitik und die Gesundheitsdebatte um ein Getränk mit 500 Kilokalorien.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/bubble-tea",
+    "readingTime": 62,
+    "featured": true,
+    "date": "2026-03-30",
+    "path": "de/Food/bubble-tea.md"
   },
   {
     "title": "Bubble Tea",
@@ -45394,6 +45442,23 @@
   },
   {
     "title": "Ethan Tu (杜奕瑾)",
+    "description": "Mendirikan forum terbesar Taiwan dari sebuah komputer 486, memimpin lahirnya Cortana di Microsoft, lalu melepas gaji tinggi untuk pulang membangun AI nirlaba—tiga puluh tahun sejarah digital sang dewa pencipta PTT.",
+    "category": "id",
+    "tags": [
+      "Ethan Tu",
+      "PTT",
+      "Taiwan AI Labs",
+      "Demokrasi Digital",
+      "Kecerdasan Buatan"
+    ],
+    "url": "https://taiwan.md/id/people/ethan-tu",
+    "readingTime": 60,
+    "featured": true,
+    "date": "2026-03-30",
+    "path": "id/People/ethan-tu.md"
+  },
+  {
+    "title": "Ethan Tu (杜奕瑾)",
     "description": "Com um computador 486, ergueu o maior fórum de Taiwan, liderou o lançamento da Cortana na Microsoft e depois abriu mão de um alto salário para voltar a Taiwan e fazer IA sem fins lucrativos — a história digital de trinta anos do criador do PTT",
     "category": "pt",
     "tags": [],
@@ -49204,6 +49269,17 @@
     "path": "vi/Lifestyle/cooperatives-in-taiwan.md"
   },
   {
+    "title": "Hợp xướng tám bè: hóa thạch sống thách thức lịch sử âm nhạc phương Tây",
+    "description": "Năm 1943, nhà âm nhạc học Nhật Bản Kurosawa Takatomo ghi lại Pasibutbut của người Bunun giữa núi sâu Đài Đông. Chín năm sau, bản ghi đến UNESCO, gây chấn động giới âm nhạc học quốc tế: một dân tộc “không có chữ viết” đã tạo nên hợp xướng đa âm mà phương Tây tin rằng chỉ nền văn minh phát triển cao mới có thể sinh ra.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/music/bunun-pasibutbut-eight-part-polyphony",
+    "readingTime": 29,
+    "featured": true,
+    "date": "2026-04-01",
+    "path": "vi/Music/bunun-pasibutbut-eight-part-polyphony.md"
+  },
+  {
     "title": "Hot pot de Taiwan: a história evolutiva do paladar insular numa só panela",
     "description": "Do símbolo de civilização do período colonial ao prato nacional de hoje, o hot pot de Taiwan não é apenas uma evolução do paladar, mas um microcosmo das mudanças sociais e da fusão étnica.",
     "category": "pt",
@@ -51155,6 +51231,23 @@
     "path": "Technology/IG.md"
   },
   {
+    "title": "Iklim Taiwan",
+    "description": "Curah hujan tahunan 2,5 kali rata-rata global, tetapi termasuk 20 negara paling kekurangan air di dunia—iklim Taiwan tak pernah seperti yang dibayangkan",
+    "category": "id",
+    "tags": [
+      "Geografi",
+      "Iklim",
+      "Topan",
+      "Hujan Mei-yu",
+      "Perubahan Iklim"
+    ],
+    "url": "https://taiwan.md/id/geography/climate",
+    "readingTime": 65,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "id/Geography/climate.md"
+  },
+  {
     "title": "Île Guishan : le repère du retour que les habitants de Yilan regardent chaque jour, et le foyer où les insulaires ne peuvent plus revenir",
     "description": "Depuis que grand-mère Huang Chenyu a quitté l'île Guishan pour Toucheng il y a plus de trente ans, elle rêve encore chaque nuit de la vie sur l'île. Pour les habitants de Yilan installés sur la côte, l'île Guishan est le premier des huit paysages de Lanyang, le repère du « on arrive à la maison » à la sortie du tunnel de Hsuehshan ; pour les véritables habitants de Guishan, c'est le foyer ancestral qu'un déplacement de village sans indemnisation leur a pris dans les années 1970. Visible, mais inaccessible ; accessible, mais inhabitable. En 1975, l'écrivain Wu Min-hsien la décrivait comme « une île que les gens allaient bientôt oublier » ; un demi-siècle plus tard, elle n'a pas été oubliée, mais ce dont on se souvient, ce sont les paysages et les légendes, tandis que ceux qui y vivaient ont été oubliés.",
     "category": "fr",
@@ -51390,6 +51483,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "id/Food/taiwan-coffee-industry.md"
+  },
+  {
+    "title": "Industri Mesin Perkakas Taiwan",
+    "description": "Dari Koridor Emas Gunung Dadu hingga TMTS 2026: ketangguhan, keruntuhan, dan kebangkitan industri mesin perkakas Taiwan, serta kecemasan struktural setelah peringkat ekspornya turun dari posisi kelima ke ketujuh dunia pada 2024.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/taiwan-machine-tool-industry",
+    "readingTime": 99,
+    "featured": true,
+    "date": "2026-04-11",
+    "path": "id/Economy/taiwan-machine-tool-industry.md"
   },
   {
     "title": "Industri Pembuatan Instrumen Musik Taiwan: Tangan Taiwan yang Melewati Suara Musik Dunia",
@@ -51868,6 +51972,22 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "en/History/japanese-colonial-era.md"
+  },
+  {
+    "title": "Japanische Kolonialzeit",
+    "description": "1895 bis 1945 herrschte Japan 50 Jahre über Taiwan. Diese Epoche brachte eine umfassende Modernisierung und institutionalisierte Verwaltung, zugleich aber auch die Assimilationspolitik der \"Kōminka\" — beides prägt die taiwanische Gesellschaft bis heute.",
+    "category": "de",
+    "tags": [
+      "History",
+      "japanische Herrschaft",
+      "Modernisierung",
+      "Kōminka-Bewegung"
+    ],
+    "url": "https://taiwan.md/de/history/japanese-colonial-era",
+    "readingTime": 39,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "de/History/japanese-colonial-era.md"
   },
   {
     "title": "Jardins zoológicos e ética dos animais de exibição",
@@ -62453,6 +62573,17 @@
     "path": "pt/Geography/tadian-mountain.md"
   },
   {
+    "title": "Lurou fan: o prato nacional do cotidiano de Taiwan",
+    "description": "Das cozinhas das vilas de dependentes militares à comida afetiva de todo o país: a disputa entre norte e sul e a identidade cultural por trás do arroz taiwanês com carne de porco refogada.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/food/braised-pork-rice",
+    "readingTime": 39,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "pt/Food/braised-pork-rice.md"
+  },
+  {
     "title": "Lưu An Anh",
     "description": "Năm 2008 từ Trường Trung học Nữ Đài Trung vào Đại học Princeton, năm 2013 lúc 23 tuổi từ bỏ công việc tư vấn ở New York về Đài Loan thành lập TFT Dạy Vì Đài Loan. Năm 2016 tại lễ tốt nghiệp Đại học Thành Công cô đặt câu hỏi \"Tùy theo may mắn của bạn, bạn sẽ làm gì?\" Câu nói đó trở thành ngôn ngữ tập thể của cả một thế hệ. Nhưng câu nói khác cô thường nhắc lại là \"Đừng tin tôi cá nhân\". Năm 2024 sau 10 năm, cô chuyển chức Chủ tịch Hội đồng quản trị TFT cho Lâm Yên Hy, tự mình trở thành Thành viên Hội đồng quản trị. Tác phẩm tốt nhất của cô không phải TFT, mà là để TFT có thể không phụ thuộc vào cô.",
     "category": "vi",
@@ -63632,6 +63763,17 @@
     "path": "vi/Food/beef-noodle-soup.md"
   },
   {
+    "title": "Mi Sapi Taiwan",
+    "description": "Dari kerinduan para migran waishengren hingga menjadi makanan nasional Taiwan: perpaduan budaya dan perjalanan global mi sapi Taiwan",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/beef-noodle-soup",
+    "readingTime": 72,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "id/Food/beef-noodle-soup.md"
+  },
+  {
     "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
     "description": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
     "category": "en",
@@ -64435,7 +64577,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/tsmc-morris-chang",
-    "readingTime": 129,
+    "readingTime": 141,
     "featured": true,
     "date": "2026-03-17",
     "path": "en/People/tsmc-morris-chang.md"
@@ -64479,7 +64621,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/tsmc-morris-chang",
-    "readingTime": 143,
+    "readingTime": 155,
     "featured": true,
     "date": "2026-03-17",
     "path": "es/People/tsmc-morris-chang.md"
@@ -64490,7 +64632,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/tsmc-morris-chang",
-    "readingTime": 137,
+    "readingTime": 149,
     "featured": true,
     "date": "2026-03-17",
     "path": "fr/People/tsmc-morris-chang.md"
@@ -66252,6 +66394,17 @@
     "featured": false,
     "date": "2026-04-04",
     "path": "vi/Music/taiwanese-traditional-chinese-orchestra-music.md"
+  },
+  {
+    "title": "Nhạc điện tử và văn hóa tiệc tùng Đài Loan: từ rave ngầm đến sân khấu quốc tế",
+    "description": "Từ văn hóa rave thập niên 1990 đến Road to Ultra, nhạc điện tử Đài Loan đã đi từ thế giới ngầm vào dòng chính, đồng thời nuôi dưỡng những DJ và nghệ sĩ thể nghiệm được quốc tế chú ý.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/music/taiwan-electronic-music-and-party-culture",
+    "readingTime": 35,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "vi/Music/taiwan-electronic-music-and-party-culture.md"
   },
   {
     "title": "Nhạc sĩ sáng tác bản địa Đài Loan đương đại",
@@ -69734,6 +69887,17 @@
     "path": "id/Society/join-public-policy-platform.md"
   },
   {
+    "title": "Plattentektonik und Erdbebenaktivität in Taiwan",
+    "description": "Ein Überblick über Taiwans geologische Lage an der Grenze zwischen der Eurasischen und der Philippinischen Meeresplatte sowie über die Ursachen der häufigen Erdbeben",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/tectonic-plates-and-seismic-activity",
+    "readingTime": 65,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "de/Geography/tectonic-plates-and-seismic-activity.md"
+  },
+  {
     "title": "Plurk",
     "description": "Plurk, la plataforma de microblogging lanzada en 2008, sobrevivió la década en la que Facebook y Twitter arrasaron en todo el mundo gracias a su línea de tiempo horizontal —el \"río\"— y a la ausencia total de algoritmos de recomendación. Tras ser bloqueada por la red publicitaria de Google en 2016, logró pasar de pérdidas a ganancias con un sistema de membresía de pago basado en \"Plurk Coins\": los usuarios taiwaneses votaron con dólares taiwaneses para que este río, libre de la tiranía algorítmica, siguiera fluyendo.",
     "category": "es",
@@ -71665,6 +71829,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "en/Technology/red-candle-games.md"
+  },
+  {
+    "title": "Red Candle Games: câu chuyện Đài Loan mà một lá bùa không thể ngăn lại",
+    "description": "Sáu người Đài Loan đưa Detention lên bảng bán chạy Steam, rồi Devotion biến mất sau tranh cãi về một lá bùa tại Trung Quốc. Năm 2024, Red Candle Games trở lại với Nine Sols, bán 800.000 bản và giành giải game độc lập của Sony.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/technology/red-candle-games",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "vi/Technology/red-candle-games.md"
   },
   {
     "title": "Red Candle Games: Uma História de Taiwan que Nem um Talismã Consegue Deter",
@@ -74101,6 +74276,24 @@
     "path": "es/Food/ma-wai-soup.md"
   },
   {
+    "title": "Sopa de Macarrão com Carne",
+    "description": "Da saudade dos imigrantes continentais ao prato nacional de Taiwan — a fusão cultural e o alcance global do niúròumiàn",
+    "category": "pt",
+    "tags": [
+      "gastronomia",
+      "sopa de macarrão com carne",
+      "cozinha continental",
+      "fusão cultural",
+      "Festival do Beef Noodle de Taipé",
+      "Michelin"
+    ],
+    "url": "https://taiwan.md/pt/food/beef-noodle-soup",
+    "readingTime": 68,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "pt/Food/beef-noodle-soup.md"
+  },
+  {
     "title": "Sorry Youth : trois gars du sud chantent la solitude des provinciaux en taïwanais, et vingt ans plus tard, ils sont devenus la voix d'une génération",
     "description": "En 2005, trois garçons ayant grandi à Tainan au son du rock décident d'écrire des chansons en taïwanais, avec un objectif simple : faire hocher la tête à leurs grands-parents. Le problème : seul Jiangjiang parlait taïwanais depuis l'enfance. De *Hai Kou Wei* à *Noise Apartment*, quatre albums entièrement en taïwanais, trois Golden Indie Music Awards du meilleur rock, deux records de financement participatif sur flyingV — Sorry Youth a transformé la solitude des travailleurs provinciaux en langage commun de toute une génération.",
     "category": "fr",
@@ -74121,6 +74314,17 @@
     "featured": true,
     "date": "2026-04-27",
     "path": "en/Music/sorry-youth-band.md"
+  },
+  {
+    "title": "Sorry Youth: Tiga Pemuda Tainan yang Menjadikan Kesepian Perantau Suara Satu Generasi",
+    "description": "Sejak 2005, Sorry Youth menulis rock berbahasa Taiwan yang lahir dari Tainan. Empat album, tiga penghargaan rock Golden Indie Music Awards, dan dua rekor urun dana mengubah kesepian pekerja perantauan menjadi suara satu generasi.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/sorry-youth-band",
+    "readingTime": 42,
+    "featured": true,
+    "date": "2026-04-27",
+    "path": "id/Music/sorry-youth-band.md"
   },
   {
     "title": "Sorry Youth: Tres chicos del sur cantan la soledad de los forasteros en taiwanés, y veinte años después se convierten en la voz de una generación",
@@ -74574,6 +74778,17 @@
     "featured": false,
     "date": "2026-04-06",
     "path": "fr/People/steve-chen-youtube-cofounder.md"
+  },
+  {
+    "title": "Steve Chen: Mitgründer von YouTube",
+    "description": "Mit acht verließ er Taiwan. Mit siebenundzwanzig baute er in den USA einen Ort, an dem jeder Videos hochladen konnte. Zwanzig Monate später verkaufte er ihn für 1,65 Milliarden US-Dollar. Dann wuchs ein Tumor in seinem Kopf – und dann kehrte er mit Frau und Kindern zurück.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/steve-chen-youtube-cofounder",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "de/People/steve-chen-youtube-cofounder.md"
   },
   {
     "title": "Steve Chen: YouTube Co-Founder",
@@ -98447,6 +98662,23 @@
     "path": "ar/Lifestyle/nightlife-and-ktv-culture.md"
   },
   {
+    "title": "الخبز والمخبوزات في تايوان",
+    "description": "من بطولة وو باو-تشون العالمية إلى التوسع الدولي لـ85°C، استكشاف السحر الخاص بالخبز التايواني",
+    "category": "ar",
+    "tags": [
+      "خبز",
+      "مخبوزات",
+      "وو باو-تشون",
+      "الخبز التايواني",
+      "85°C"
+    ],
+    "url": "https://taiwan.md/ar/food/taiwan-bread-and-baking",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ar/Food/taiwan-bread-and-baking.md"
+  },
+  {
     "title": "الخنزير المقدس: طريق الشد والجذب والتحول الممتد لمئة عام بين الإيمان وحقوق الحيوان في تايوان",
     "description": "تُعد ثقافة الخنزير المقدس تقليدًا تضحيًا خاصًا بجماعات المينان والهاكا في تايوان، وجوهرها تقديم خنزير ضخم كقربان للآلهة. يعود أصلها إلى إيمان \"يي مين\" (الرجال الأبرار) في عهد تشينغ، وتحولت في فترة الحكم الياباني بفضل تشجيع تربية المواشي إلى مسابقة تنافسية على الوزن. أما في العصر الحديث، فقد أثارت ممارسات \"إدخال الحفرة\" لتقييد الحركة والتغذية القسرية جدلًا حول رفاهية الحيوان. وتعمل المهرجانات المحلية حاليًا على التحول عبر \"الخنزير المقدس الإبداعي\" أو \"التربية الطبيعية\"، ساعيةً إلى تحقيق التوازن بين الإيمان وكرامة الحياة.",
     "category": "ar",
@@ -108520,6 +108752,23 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "hi/Culture/taiwan-kuaikuai-culture.md"
+  },
+  {
+    "title": "ताइवान की चटनियाँ और मसाले",
+    "description": "जियांगयोउगाओ, शाचा सॉस, मीठी-तीखी चटनी और दोउबानजियांग जैसे ताइवानी मसाले द्वीप के विशिष्ट स्वाद की नींव हैं और बहुसांस्कृतिक मेल से बने स्वाद-दर्शन को दर्शाते हैं।",
+    "category": "hi",
+    "tags": [
+      "चटनी",
+      "मसाले",
+      "खानपान संस्कृति",
+      "ताइवानी स्वाद",
+      "किण्वित भोजन"
+    ],
+    "url": "https://taiwan.md/hi/food/taiwan-sauces-and-seasonings",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "hi/Food/taiwan-sauces-and-seasonings.md"
   },
   {
     "title": "ताइवान की चाय परंपरा और जीवन-सौंदर्य",
@@ -120787,7 +121036,7 @@
       "수호신"
     ],
     "url": "https://taiwan.md/ko/people/tsmc-morris-chang",
-    "readingTime": 60,
+    "readingTime": 73,
     "featured": true,
     "date": "2026-03-17",
     "path": "ko/People/tsmc-morris-chang.md"

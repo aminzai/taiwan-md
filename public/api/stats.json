@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10082,
+  "totalArticles": 10100,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7158,
+  "totalTags": 7192,
   "categories": [
     {
       "name": "es",
@@ -26,11 +26,11 @@
     },
     {
       "name": "vi",
-      "count": 800
+      "count": 804
     },
     {
       "name": "hi",
-      "count": 673
+      "count": 674
     },
     {
       "name": "ru",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Technology",
-      "count": 67
+      "count": 68
     },
     {
       "name": "History",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 594
+      "count": 599
     },
     {
       "name": "ar",
-      "count": 755
+      "count": 756
     },
     {
       "name": "Politics",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 848
+      "count": 850
     },
     {
       "name": "Food",
@@ -106,7 +106,7 @@
     },
     {
       "name": "de",
-      "count": 78
+      "count": 82
     },
     {
       "name": "resources",
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10082,
+    "zh-TW": 10100,
     "en": 0
   },
-  "lastUpdated": "2026-09-01T22:12:43.883Z",
-  "stars": 1161,
-  "forks": 183,
-  "zhPages": 1115,
+  "lastUpdated": "2026-09-02T22:14:28.865Z",
+  "stars": 1164,
+  "forks": 184,
+  "zhPages": 1116,
   "languagePages": {
-    "zh-TW": 1115,
+    "zh-TW": 1116,
     "en": 891,
     "ja": 888,
     "ko": 885,
     "es": 883,
     "fr": 884,
-    "vi": 800,
-    "id": 594,
-    "pt": 848,
-    "hi": 673,
-    "ar": 755,
+    "vi": 804,
+    "id": 599,
+    "pt": 850,
+    "hi": 674,
+    "ar": 756,
     "ru": 786
   },
   "enPages": 891,
-  "totalPages": 1115
+  "totalPages": 1116
 }

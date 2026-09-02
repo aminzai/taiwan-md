@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-02T06:12:39+08:00",
-    "zhCommitHead": "8b82b9393",
-    "totalZh": 1117,
+    "lastUpdated": "2026-09-03T06:14:23+08:00",
+    "zhCommitHead": "e53e63846",
+    "totalZh": 1118,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1117,
-        "fresh": 808,
-        "stale": 60,
+        "total_zh": 1118,
+        "fresh": 805,
+        "stale": 63,
         "metadata_stale": 16,
-        "missing": 233,
-        "orphan": 0
-      },
-      "ja": {
-        "total_zh": 1117,
-        "fresh": 816,
-        "stale": 54,
-        "metadata_stale": 18,
-        "missing": 229,
-        "orphan": 0
-      },
-      "ko": {
-        "total_zh": 1117,
-        "fresh": 817,
-        "stale": 52,
-        "metadata_stale": 16,
-        "missing": 232,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1117,
-        "fresh": 809,
-        "stale": 57,
-        "metadata_stale": 17,
         "missing": 234,
         "orphan": 0
       },
-      "fr": {
-        "total_zh": 1117,
-        "fresh": 810,
-        "stale": 58,
+      "ja": {
+        "total_zh": 1118,
+        "fresh": 813,
+        "stale": 57,
+        "metadata_stale": 18,
+        "missing": 230,
+        "orphan": 0
+      },
+      "ko": {
+        "total_zh": 1118,
+        "fresh": 814,
+        "stale": 55,
         "metadata_stale": 16,
         "missing": 233,
         "orphan": 0
       },
+      "es": {
+        "total_zh": 1118,
+        "fresh": 806,
+        "stale": 60,
+        "metadata_stale": 17,
+        "missing": 235,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 1118,
+        "fresh": 807,
+        "stale": 61,
+        "metadata_stale": 16,
+        "missing": 234,
+        "orphan": 0
+      },
       "vi": {
-        "total_zh": 1117,
+        "total_zh": 1118,
         "fresh": 659,
-        "stale": 63,
+        "stale": 67,
         "metadata_stale": 77,
-        "missing": 318,
+        "missing": 315,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1117,
-        "fresh": 553,
-        "stale": 31,
+        "total_zh": 1118,
+        "fresh": 555,
+        "stale": 34,
         "metadata_stale": 10,
-        "missing": 523,
+        "missing": 519,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1117,
-        "fresh": 788,
-        "stale": 48,
+        "total_zh": 1118,
+        "fresh": 786,
+        "stale": 52,
         "metadata_stale": 12,
-        "missing": 269,
+        "missing": 268,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1117,
-        "fresh": 636,
-        "stale": 26,
+        "total_zh": 1118,
+        "fresh": 634,
+        "stale": 29,
         "metadata_stale": 11,
         "missing": 444,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1117,
-        "fresh": 710,
-        "stale": 33,
+        "total_zh": 1118,
+        "fresh": 708,
+        "stale": 36,
         "metadata_stale": 12,
         "missing": 362,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1117,
-        "fresh": 741,
-        "stale": 34,
+        "total_zh": 1118,
+        "fresh": 738,
+        "stale": 37,
         "metadata_stale": 11,
-        "missing": 331,
+        "missing": 332,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1117,
-        "fresh": 76,
-        "stale": 2,
+        "total_zh": 1118,
+        "fresh": 79,
+        "stale": 3,
         "metadata_stale": 0,
-        "missing": 1039,
+        "missing": 1036,
         "orphan": 0
       }
     },
@@ -703,7 +703,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/sorry-youth-band.md",
+          "translatedFrom": "Music/拍謝少年.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:6a2b0dda2e1882cf",
+          "sourceBodyHash": "sha256:07737a8d590520a4",
+          "translatedAt": "2026-09-01T20:12:00+08:00",
+          "translationLastCommit": "c5d59ed5",
+          "translationLastModified": "2026-09-01T19:58:46+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/Music/sorry-youth-band.md",
@@ -1519,7 +1530,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/eggplant-egg-band.md",
+          "translatedFrom": "Music/茄子蛋.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "194f22a7",
+          "translationLastModified": "2026-09-02T07:11:01+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "id": {
           "path": "id/Music/eggplant-egg-band.md",
@@ -3314,7 +3336,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/bunun-pasibutbut-eight-part-polyphony.md",
+          "translatedFrom": "Music/八部合音.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:3c2872e562b3f229",
+          "sourceBodyHash": "sha256:43f231d59e183f8e",
+          "translatedAt": "2026-09-01T18:01:56+08:00",
+          "translationLastCommit": "d3ce4d7f",
+          "translationLastModified": "2026-09-01T18:12:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -5421,7 +5454,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/taiwan-electronic-music-and-party-culture.md",
+          "translatedFrom": "Music/台灣電子音樂與派對文化.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:0beb5fc8433a2c70",
+          "sourceBodyHash": "sha256:b7a689926177f96c",
+          "translatedAt": "2026-09-01T22:32:31+08:00",
+          "translationLastCommit": "6784c2ec",
+          "translationLastModified": "2026-09-01T22:42:04+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Music/taiwan-electronic-music-and-party-culture.md",
@@ -7580,9 +7624,9 @@
     },
     "Economy/全聯福利中心.md": {
       "zh": {
-        "lastCommit": "9cef725c",
-        "lastModified": "2026-08-29T08:56:37+08:00",
-        "contentHash": "sha256:c37f91b3cbc851f7",
+        "lastCommit": "4dd14cf6",
+        "lastModified": "2026-09-01T23:16:41+08:00",
+        "contentHash": "sha256:6ebac68ebf527a7d",
         "bodyHash": "sha256:cf4e3b7d187326d2"
       },
       "translations": {
@@ -7599,8 +7643,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Economy/pxmart-supermarket.md",
@@ -7615,8 +7659,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",
@@ -7631,8 +7675,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/Economy/pxmart-supermarket.md",
@@ -7647,8 +7691,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/Economy/pxmart-supermarket.md",
@@ -7663,8 +7707,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/Economy/pxmart-supermarket.md",
@@ -7679,8 +7723,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/Economy/pxmart-supermarket.md",
@@ -7695,8 +7739,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/Economy/pxmart-supermarket.md",
@@ -7711,8 +7755,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/Economy/pxmart-supermarket.md",
@@ -7727,8 +7771,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/Economy/pxmart-supermarket.md",
@@ -7743,8 +7787,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/Economy/pxmart-supermarket.md",
@@ -7759,8 +7803,8 @@
           "footnoteDefs": 5,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "status": "missing"
@@ -10214,10 +10258,10 @@
     },
     "Economy/台灣金融科技發展.md": {
       "zh": {
-        "lastCommit": "879ed9e7",
-        "lastModified": "2026-07-19T09:56:10+08:00",
-        "contentHash": "sha256:54da57abafa311d1",
-        "bodyHash": "sha256:eb1efaa0a4f468ff"
+        "lastCommit": "4dd14cf6",
+        "lastModified": "2026-09-01T23:16:41+08:00",
+        "contentHash": "sha256:4a1f10aaddce056e",
+        "bodyHash": "sha256:7f55fdd7f7687d07"
       },
       "translations": {
         "en": {
@@ -10231,8 +10275,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Economy/taiwan-fintech-development.md",
@@ -10245,8 +10291,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Economy/taiwan-fintech-development.md",
@@ -10259,8 +10307,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Economy/taiwan-fintech-development.md",
@@ -10273,8 +10323,10 @@
           "translationLastModified": "2026-07-25T19:43:49+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Economy/taiwan-fintech-development.md",
@@ -10287,8 +10339,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Economy/taiwan-fintech-development.md",
@@ -10301,8 +10355,10 @@
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Economy/taiwan-fintech-development.md",
@@ -10315,8 +10371,10 @@
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Economy/taiwan-fintech-development.md",
@@ -10329,8 +10387,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Economy/taiwan-fintech-development.md",
@@ -10343,8 +10403,10 @@
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Economy/taiwan-fintech-development.md",
@@ -10357,8 +10419,10 @@
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Economy/taiwan-fintech-development.md",
@@ -10371,8 +10435,10 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "status": "missing"
@@ -15937,7 +16003,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-machine-tool-industry.md",
+          "translatedFrom": "Economy/台灣機械工具產業.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:74fc634acab51c40",
+          "sourceBodyHash": "sha256:f5ecba58cc661bc1",
+          "translatedAt": "2026-09-01T22:32:31+08:00",
+          "translationLastCommit": "efd87d3b",
+          "translationLastModified": "2026-09-01T22:42:04+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/Economy/taiwan-machine-tool-industry.md",
@@ -18701,10 +18778,10 @@
     },
     "Technology/電子商務與數位支付生態系.md": {
       "zh": {
-        "lastCommit": "4a4d6662",
-        "lastModified": "2026-08-04T12:21:12+08:00",
-        "contentHash": "sha256:8a77917ab93abd39",
-        "bodyHash": "sha256:6564b3269a2b9fa4"
+        "lastCommit": "4dd14cf6",
+        "lastModified": "2026-09-01T23:16:41+08:00",
+        "contentHash": "sha256:b8c4015a34b3a79e",
+        "bodyHash": "sha256:9120e92d38401c8e"
       },
       "translations": {
         "en": {
@@ -18718,8 +18795,10 @@
           "translationLastModified": "2026-08-04T13:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18732,8 +18811,10 @@
           "translationLastModified": "2026-08-04T21:09:38+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18746,8 +18827,10 @@
           "translationLastModified": "2026-08-04T13:49:25+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18760,8 +18843,10 @@
           "translationLastModified": "2026-08-04T13:40:08+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18774,8 +18859,10 @@
           "translationLastModified": "2026-08-04T13:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18788,8 +18875,10 @@
           "translationLastModified": "2026-08-09T08:59:47+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18802,8 +18891,10 @@
           "translationLastModified": "2026-08-04T23:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18816,8 +18907,10 @@
           "translationLastModified": "2026-08-04T21:48:54+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18830,8 +18923,10 @@
           "translationLastModified": "2026-08-04T22:48:04+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18844,8 +18939,10 @@
           "translationLastModified": "2026-08-04T22:25:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -18858,8 +18955,10 @@
           "translationLastModified": "2026-08-04T23:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -19861,6 +19960,52 @@
         }
       }
     },
+    "Technology/台灣行動支付.md": {
+      "zh": {
+        "lastCommit": "574b1a33",
+        "lastModified": "2026-09-02T00:58:27+08:00",
+        "contentHash": "sha256:1e2fca6dab4c2f1c",
+        "bodyHash": "sha256:62d9c6127e29bebe"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "Technology/台灣數位影像與動畫產業.md": {
       "zh": {
         "lastCommit": "69b3afd9",
@@ -20408,7 +20553,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/red-candle-games.md",
+          "translatedFrom": "Technology/赤燭遊戲.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:33c90e10581f31c9",
+          "sourceBodyHash": "sha256:1fba81d514ac33a3",
+          "translatedAt": "2026-09-01T20:25:00+08:00",
+          "translationLastCommit": "de8f55a5",
+          "translationLastModified": "2026-09-01T19:58:46+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "status": "missing"
@@ -78086,7 +78242,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ethan-tu.md",
+          "translatedFrom": "People/杜奕瑾.md",
+          "sourceCommitSha": "ab47ff39",
+          "sourceContentHash": "sha256:61081ca7c646947e",
+          "sourceBodyHash": "sha256:f186e67ce03f9679",
+          "translatedAt": "2026-09-01T22:35:00+08:00",
+          "translationLastCommit": "d21ca9d1",
+          "translationLastModified": "2026-09-01T22:21:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/ethan-tu.md",
@@ -81170,10 +81337,10 @@
     },
     "People/張忠謀.md": {
       "zh": {
-        "lastCommit": "6ffd92f9",
-        "lastModified": "2026-08-03T21:41:19+08:00",
-        "contentHash": "sha256:14127c407e7b0db7",
-        "bodyHash": "sha256:6d452360d79fae70"
+        "lastCommit": "26d30c32",
+        "lastModified": "2026-09-02T08:51:16+08:00",
+        "contentHash": "sha256:6c3058ba108a44f9",
+        "bodyHash": "sha256:1043d3e7799eba77"
       },
       "translations": {
         "en": {
@@ -81183,12 +81350,14 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-03T22:55:36+08:00",
-          "translationLastCommit": "d562f5ae",
-          "translationLastModified": "2026-09-01T09:00:22+08:00",
+          "translationLastCommit": "26d30c32",
+          "translationLastModified": "2026-09-02T08:51:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 20,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+59 -27"
         },
         "ja": {
           "path": "ja/People/tsmc-morris-chang.md",
@@ -81197,12 +81366,14 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-05T00:31:23+08:00",
-          "translationLastCommit": "d562f5ae",
-          "translationLastModified": "2026-09-01T09:00:22+08:00",
+          "translationLastCommit": "26d30c32",
+          "translationLastModified": "2026-09-02T08:51:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 20,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+59 -27"
         },
         "ko": {
           "path": "ko/People/tsmc-morris-chang.md",
@@ -81211,12 +81382,14 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-03T22:55:36+08:00",
-          "translationLastCommit": "d562f5ae",
-          "translationLastModified": "2026-09-01T09:00:22+08:00",
+          "translationLastCommit": "26d30c32",
+          "translationLastModified": "2026-09-02T08:51:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 20,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+59 -27"
         },
         "es": {
           "path": "es/People/tsmc-morris-chang.md",
@@ -81225,12 +81398,14 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-03T22:55:36+08:00",
-          "translationLastCommit": "d562f5ae",
-          "translationLastModified": "2026-09-01T09:00:22+08:00",
+          "translationLastCommit": "26d30c32",
+          "translationLastModified": "2026-09-02T08:51:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 20,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+59 -27"
         },
         "fr": {
           "path": "fr/People/tsmc-morris-chang.md",
@@ -81239,12 +81414,14 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-03T22:55:36+08:00",
-          "translationLastCommit": "d562f5ae",
-          "translationLastModified": "2026-09-01T09:00:22+08:00",
+          "translationLastCommit": "26d30c32",
+          "translationLastModified": "2026-09-02T08:51:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 20,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+59 -27"
         },
         "vi": {
           "path": "vi/People/tsmc-morris-chang.md",
@@ -81257,8 +81434,8 @@
           "translationLastModified": "2026-08-09T08:40:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→5)"
         },
         "id": {
           "path": "id/People/tsmc-morris-chang.md",
@@ -81271,8 +81448,8 @@
           "translationLastModified": "2026-09-01T09:00:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→5)"
         },
         "pt": {
           "path": "pt/People/tsmc-morris-chang.md",
@@ -81285,8 +81462,8 @@
           "translationLastModified": "2026-09-01T09:00:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→5)"
         },
         "hi": {
           "path": "hi/People/tsmc-morris-chang.md",
@@ -81299,8 +81476,8 @@
           "translationLastModified": "2026-09-01T09:00:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→5)"
         },
         "ar": {
           "path": "ar/People/tsmc-morris-chang.md",
@@ -81313,8 +81490,8 @@
           "translationLastModified": "2026-09-01T09:00:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→5)"
         },
         "ru": {
           "path": "ru/People/tsmc-morris-chang.md",
@@ -81327,8 +81504,8 @@
           "translationLastModified": "2026-09-01T09:00:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→5)"
         },
         "de": {
           "status": "missing"
@@ -92041,16 +92218,16 @@
         "ja": {
           "path": "ja/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "37638e17",
           "sourceContentHash": "sha256:a7528e9b7062bef0",
           "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-06-12T00:53:02+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translatedAt": "2026-09-01T16:30:53+08:00",
+          "translationLastCommit": "08313e2c",
+          "translationLastModified": "2026-09-01T16:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
-          "reason": "same-commit"
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/People/steve-chen-youtube-cofounder.md",
@@ -92179,7 +92356,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/steve-chen-youtube-cofounder.md",
+          "translatedFrom": "People/陳士駿.md",
+          "sourceCommitSha": "37638e17",
+          "sourceContentHash": "sha256:a7528e9b7062bef0",
+          "sourceBodyHash": "sha256:9f3cbb43337753f0",
+          "translatedAt": "2026-09-01T15:57:19+08:00",
+          "translationLastCommit": "5faa538d",
+          "translationLastModified": "2026-09-01T16:07:56+08:00",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -105252,10 +105440,32 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/beef-noodle-soup.md",
+          "translatedFrom": "Food/牛肉麵.md",
+          "sourceCommitSha": "37638e17",
+          "sourceContentHash": "sha256:0f8567c72fce22ef",
+          "sourceBodyHash": "sha256:31e72a4ea39ea451",
+          "translatedAt": "2026-09-01T17:09:55+08:00",
+          "translationLastCommit": "8a4c641a",
+          "translationLastModified": "2026-09-01T17:24:49+08:00",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/beef-noodle-soup.md",
+          "translatedFrom": "Food/牛肉麵.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "5fdf3bd2",
+          "translationLastModified": "2026-09-02T07:08:26+08:00",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "hi": {
           "status": "missing"
@@ -107829,7 +108039,18 @@
           "diffSummary": "+1 -0"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-sauces-and-seasonings.md",
+          "translatedFrom": "Food/台灣醬料與調味.md",
+          "sourceCommitSha": "69b3afd9",
+          "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
+          "sourceBodyHash": "sha256:165e3d5c431f4c83",
+          "translatedAt": "2026-09-01T22:50:00+08:00",
+          "translationLastCommit": "0b50c535",
+          "translationLastModified": "2026-09-01T22:27:05+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwan-sauces-and-seasonings.md",
@@ -109642,7 +109863,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/braised-pork-rice.md",
+          "translatedFrom": "Food/台灣滷肉飯.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:6170c025ca20811f",
+          "sourceBodyHash": "sha256:41cfdb3eed2dcde1",
+          "translatedAt": "2026-09-01T22:32:31+08:00",
+          "translationLastCommit": "2c5e1f44",
+          "translationLastModified": "2026-09-01T22:42:04+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "path": "hi/Food/braised-pork-rice.md",
@@ -115219,7 +115451,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-bread-and-baking.md",
+          "translatedFrom": "Food/台灣麵包與烘焙.md",
+          "sourceCommitSha": "18157ab5",
+          "sourceContentHash": "sha256:e4c169783e32f5c2",
+          "sourceBodyHash": "sha256:79036ef58165be78",
+          "translatedAt": "2026-09-01T23:10:00+08:00",
+          "translationLastCommit": "8d9c50ea",
+          "translationLastModified": "2026-09-01T22:30:02+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -115930,7 +116173,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/bubble-tea.md",
+          "translatedFrom": "Food/珍珠奶茶.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:d90e80b19559290b",
+          "sourceBodyHash": "sha256:9bc13bf8c8054628",
+          "translatedAt": "2026-09-01T19:58:00+08:00",
+          "translationLastCommit": "7fcae7c7",
+          "translationLastModified": "2026-09-01T19:58:46+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -120506,7 +120760,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/japanese-colonial-era.md",
+          "translatedFrom": "History/日治時期.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "3f990c82",
+          "translationLastModified": "2026-09-02T07:13:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "stale",
+          "reason": "no-source-sha"
         }
       }
     },
@@ -127779,7 +128044,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/tectonic-plates-and-seismic-activity.md",
+          "translatedFrom": "Geography/台灣板塊運動與地震活動.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:ac660158a4c72aea",
+          "sourceBodyHash": "sha256:57ab1d8681d0c528",
+          "translatedAt": "2026-09-01T18:00:49+08:00",
+          "translationLastCommit": "f3b9ccf4",
+          "translationLastModified": "2026-09-01T18:12:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -136002,7 +136278,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/climate.md",
+          "translatedFrom": "Geography/氣候.md",
+          "sourceCommitSha": "37638e173",
+          "sourceContentHash": "sha256:0275e27f1a1e4e68",
+          "sourceBodyHash": "sha256:c3a7643c439033af",
+          "translatedAt": "2026-09-01T18:02:09+08:00",
+          "translationLastCommit": "017e9feb",
+          "translationLastModified": "2026-09-01T18:12:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/Geography/climate.md",

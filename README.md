@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1115 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 13,380 article-versions
+- 📖 **1116 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 13,392 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,27 +95,27 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1115  |
-| 🇹🇼 Chinese (zh-TW)             | 1115  |
+| 📄 Total articles (zh-TW SSOT) | 1116  |
+| 🇹🇼 Chinese (zh-TW)             | 1116  |
 | 🇺🇸 English (en)                | 891   |
 | 🇯🇵 日本語 (ja)                 | 888   |
 | 🇰🇷 한국어 (ko)                 | 885   |
 | 🇪🇸 Español (es)                | 883   |
 | 🇫🇷 Français (fr)               | 884   |
-| 🇻🇳 Tiếng Việt (vi)             | 800   |
-| 🇮🇩 Bahasa Indonesia (id)       | 594   |
-| 🇵🇹 Português (pt)              | 848   |
-| 🇮🇳 हिन्दी (hi)                 | 673   |
-| 🇸🇦 العربية (ar)                | 755   |
+| 🇻🇳 Tiếng Việt (vi)             | 804   |
+| 🇮🇩 Bahasa Indonesia (id)       | 599   |
+| 🇵🇹 Português (pt)              | 850   |
+| 🇮🇳 हिन्दी (hi)                 | 674   |
+| 🇸🇦 العربية (ar)                | 756   |
 | 🇷🇺 Русский (ru)                | 786   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1161  |
-| 🍴 Forks                       | 183   |
-| 📅 Articles last 7 days        | 20    |
-| 📅 Articles last 30 days       | 265   |
+| ⭐ GitHub Stars                | 1164  |
+| 🍴 Forks                       | 184   |
+| 📅 Articles last 7 days        | 24    |
+| 📅 Articles last 30 days       | 267   |
 
 <!-- STATS:END -->
 
@@ -583,8 +583,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4" width="100px;" alt=""/><br /><sub><b>YenTing Wu</b></sub></a><br />💻 🤔 🌍 🔧 📖 🚇</td>
-    <td align="center"><a href="https://github.com/Zaious"><img src="https://avatars.githubusercontent.com/u/128442444?v=4" width="100px;" alt=""/><br /><sub><b>Zaious (@ChronicleCore)</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/Zaious"><img src="https://avatars.githubusercontent.com/u/128442444?v=4" width="100px;" alt=""/><br /><sub><b>Zaious (@ChronicleCore)</b></sub></a><br />💻 🖋️ 🌍</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4" width="100px;" alt=""/><br /><sub><b>Fred Chu</b></sub></a><br />💻 🖋️ 🤔 🌍 👀 🐛 🔧 📖</td>
