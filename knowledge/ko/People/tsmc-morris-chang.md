@@ -372,7 +372,7 @@ TSTSMC의 성공 사례는 더 많은 국제 투자를 유인하여 대만의 �
 매우 성공적인 사업가임에도 불구하고 장중머우는 일과 삶의 균형(Work-Life Balance)의 중요성을 강조했다. 그는 독서와 음악 감상을 즐겼으며, 이러한 취미는 그에게 정신적 양식을 제공해 주었다.
 
 **사회적 책임의 수행:**
-장중머우는 성공한 기업가는 사회에 환원할 책임이 있다고 믿었다. 그는 칭화 대학교 등 학술 기관에 기부하였고, 교육 정책 논의에도 참여하며 대만 고등 교육 개혁을 위해 구체적인 제안을 하기도 했다.[^18]
+장중머우는 성공한 기업가는 사회에 환원할 책임이 있다고 믿었다. 그는 TSMC를 이끌며 칭화 대학교 등 학술 기관에 기부하도록 했고, 교육 정책 논의에도 참여하며 대만 고등 교육 개혁을 위해 구체적인 제안을 하기도 했다.[^18]
 
 **계승의 중요성:**
 그는 지식과 경험의 전수를 매우 중요하게 여겼다. 기업 내부에서 후계자를 양성할 뿐만 아니라, 다양한 경로를 통해 자신의 경험과 지혜를 공유했다.
@@ -395,6 +395,8 @@ TSTSMC의 성공 사례는 더 많은 국제 투자를 유인하여 대만의 �
 - [대만 산업의 전환과 업그레이드](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC는 대만이 '파운드리 섬'에서 '기술 섬'으로 변모한 가장 구체적인 사례이자, 40년 전환기의 핵심 좌표이다.
 
 ---
+
+## 참고 자료
 
 [^1]: Morris Chang was born on July 10, 1931, in Ningbo, Zhejiang, China. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
@@ -428,14 +430,13 @@ TSTSMC의 성공 사례는 더 많은 국제 투자를 유인하여 대만의 �
 
 [^16]: On June 5, 2018, he formally retired; Mark Liu became chairman and C. C. Wei became CEO. 참조: 위키백과 "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^17]: Semiconductors account for roughly one-third of Taiwan's exports over many years. 참조: 위키백과 "Economy of Taiwan" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F>
+[^17]: [대만의 경제 — 위키백과](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F) — 반도체는 오랫동안 대만 수출액의 약 3분의 1을 차지해 왔다.
 
-[^18]: Morris Chang has donated to National Tsing Hua University and other academic institutions. 참조: National Tsing Hua University <https://www.nthu.edu.tw/>
+[^18]: [TSMC관 준공 — 국립 칭화대학교](https://www.nthu.edu.tw/hotNews/content/708) — TSMC가 신타이완달러 1억 8천만 원을 기부해 칭화대 과기관리학원 「TSMC관」을 건립, 2008년 4월 준공. 기부 주체는 TSMC이며 장중머우 개인이 아니다.
 
 [^19]: When Morris Chang retired in 2018, TSMC's market cap had surpassed Intel's. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
 
 [^20]: In the 2020s TSMC's market capitalization exceeded NT$10 trillion, among Asia's most valuable tech companies. 참조: 위키백과 "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
-
 
 _참고 문헌:_
 

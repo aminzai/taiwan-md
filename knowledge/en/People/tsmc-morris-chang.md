@@ -381,7 +381,7 @@ Morris Chang believes that in the technology industry, innovation is a necessity
 While highly successful in his career, Morris Chang also emphasizes the importance of work-life balance. He enjoys reading and listening to music; these hobbies provide him with spiritual nourishment.
 
 **Bearing Social Responsibility:**
-Morris Chang believes that successful entrepreneurs have a responsibility to give back to society. He donates to academic institutions such as Tsinghua University and participates in discussions on education policy, offering specific suggestions for the reform of higher education in Taiwan. [^18]
+Morris Chang believes that successful entrepreneurs have a responsibility to give back to society. Under his leadership TSMC donated to academic institutions such as National Tsing Hua University and participates in discussions on education policy, offering specific suggestions for the reform of higher education in Taiwan. [^18]
 
 **The Importance of Succession:**
 He places great importance on the transmission of knowledge and experience, not only by cultivating successors within the company but also by sharing his experiences and wisdom through various channels.
@@ -404,6 +404,8 @@ In 2024, TSMC's market capitalization exceeded NT$10 trillion, becoming one of t
 - [Taiwanese Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC is the most concrete example of Taiwan transforming from an "assembly island" to a "tech island," serving as the core coordinate of this forty-year transformation.
 
 ---
+
+## References
 
 [^1]: Morris Chang was born on July 10, 1931, in Ningbo, Zhejiang, China. See: Wikipedia "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
@@ -437,14 +439,13 @@ In 2024, TSMC's market capitalization exceeded NT$10 trillion, becoming one of t
 
 [^16]: On June 5, 2018, he formally retired; Mark Liu became chairman and C. C. Wei became CEO. See: Wikipedia "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^17]: Semiconductors account for roughly one-third of Taiwan's exports over many years. See: Wikipedia "Economy of Taiwan" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F>
+[^17]: [Economy of Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F) — Semiconductors account for roughly one-third of Taiwan's exports over many years.
 
-[^18]: Morris Chang has donated to National Tsing Hua University and other academic institutions. See: National Tsing Hua University <https://www.nthu.edu.tw/>
+[^18]: [TSMC Building dedication — National Tsing Hua University](https://www.nthu.edu.tw/hotNews/content/708) — TSMC the company donated NT$180 million to build NTHU's College of Technology Management "TSMC Building", dedicated April 2008; the donor was TSMC, not Morris Chang personally.
 
 [^19]: When Morris Chang retired in 2018, TSMC's market cap had surpassed Intel's. See: Wikipedia "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
 
 [^20]: In the 2020s TSMC's market capitalization exceeded NT$10 trillion, among Asia's most valuable tech companies. See: Wikipedia "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
-
 
 _References:_
 

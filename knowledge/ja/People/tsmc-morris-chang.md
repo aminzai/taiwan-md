@@ -373,7 +373,7 @@ TSMCのグローバルサプライチェーンにおける核心的地位によ�
 事業で大成功を収めながらも、張忠謀は仕事と生活のバランスの重要性を説きます。読書や音楽鑑賞を好み、これらの趣味が精神的な栄養となっています。
 
 **社会的責任の担い：**
-成功した企業家には社会への還元責任があると考え、清華大学など学術機関への寄付、教育政策議論への参加、台湾高等教育改革への具体的提言を行ってきました。[^18]
+成功した企業家には社会への還元責任があると考え、TSMC を率いて清華大学など学術機関へ寄付、教育政策議論への参加、台湾高等教育改革への具体的提言を行ってきました。[^18]
 
 **継承の重要性：**
 知識と経験の継承を極めて重視し、企業内部での後継者育成のみならず、様々な機会を通じて自らの経験と知恵を共有してきました。
@@ -386,7 +386,7 @@ TSMCのグローバルサプライチェーンにおける核心的地位によ�
 
 2024年[^20]、TSMCの時価総額は10兆台湾ドルを突破し、アジアで最も時価総額の高いテクノロジー企業の一つとなりました。これは1987年、あの賭けを決断したときには想像もつかなかった規模であり、彼の人生を最も明確に注釈するものです。
 
-## 延伸閱讀
+## 関連記事
 
 - [台灣企業：台積電](/ja/economy/tsmc) — 彼が1987年にウェハー受託製造モデルで創業し、今や時価総額60兆円を超える護国神山となったTSMCこそ、張忠謀の最も完全な注釈そのものです
 - [施振榮（し・しんえい／スタン・シー）](/ja/people/stan-shih) — TSMCの取締役を21年間務めたエイサー創業者、「スマイルカーブ」の著者；TSMCが担う「中段製造」は、その曲線が悲観し、現実において最も価値あるセグメントです
@@ -396,6 +396,8 @@ TSMCのグローバルサプライチェーンにおける核心的地位によ�
 - [台灣產業轉型升級](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMCは台湾が「受託製造の島」から「テクノロジーの島」へ変貌した最も具体的なケースであり、この40年にわたる転型の核心座標です
 
 ---
+
+## 参考資料
 
 [^1]: Morris Chang was born on July 10, 1931, in Ningbo, Zhejiang, China. 参照： ウィキペディア "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
@@ -429,9 +431,9 @@ TSMCのグローバルサプライチェーンにおける核心的地位によ�
 
 [^16]: On June 5, 2018, he formally retired; Mark Liu became chairman and C. C. Wei became CEO. 参照： ウィキペディア "Morris Chang" entry <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
 
-[^17]: Semiconductors account for roughly one-third of Taiwan's exports over many years. 参照： ウィキペディア "Economy of Taiwan" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F>
+[^17]: [台湾の経済 — ウィキペディア](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F) — 半導体は長年にわたり台湾の輸出額の約三分の一を占める。
 
-[^18]: Morris Chang has donated to National Tsing Hua University and other academic institutions. 参照： National Tsing Hua University <https://www.nthu.edu.tw/>
+[^18]: [台積館の落成 — 国立清華大学](https://www.nthu.edu.tw/hotNews/content/708) — TSMC が新台湾ドル 1.8 億元を寄付して清華大学科技管理学院「台積館」を建設、2008 年 4 月落成。寄付主体は TSMC であり、張忠謀個人ではない。
 
 [^19]: When Morris Chang retired in 2018, TSMC's market cap had surpassed Intel's. 参照： ウィキペディア "Taiwan Semiconductor Manufacturing Company" entry <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
 
