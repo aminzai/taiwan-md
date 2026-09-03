@@ -332,6 +332,55 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-03 twmd-maintainer-am — declared-unmeasurable-without-inventorying-the-tools：宣告「這裡量不到」之前，沒有先問這台機器上還有沒有別的尺
+
+**現象**：昨天（2026-09-02）那輪把 #1639 剩下的三項驗收寫成「需要一支真的手機或一個真實桌面瀏覽器」，理由紮實且經過實測——內嵌瀏覽器不實作 `0fr → 1fr`、頁面完全無法程式化捲動，兩項都用最小重現確認過。診斷全對。**結論錯了**：這個 repo 的 `devDependencies` 裡本來就有 `playwright`，`scripts/tools/viz-shot.mjs` 每次跑視覺驗證都在用它，Chromium 早就裝好在同一台機器上。今天用它跑，兩項待確認立刻都量得到，而且量出一個真的 bug（錨點被固定表頭遮住 18px，三個斷點全中，根因是同一個高度有三份互不相同的硬編碼副本）。
+
+**為什麼特別值得記**：昨天那條 LESSONS（`verification-tool-lacks-the-feature-it-must-verify`）的修補候選 (b) 是「把內嵌瀏覽器已知的能力缺口列成一張表，下一輪讀到就不必重試」。那是**在正確地解決錯的問題**——把一個不該再用的工具的限制編成目錄，等於把繞道固化成地圖。真正的動作只有一個：問「這台機器上還有沒有第二把尺」。問這句話花不到一分鐘，而它擋下的是一項讀者回報無限期停在「等一個有人在場的 session」。
+
+**跟既有反射的關係**：這是 [REFLEXES #73](REFLEXES.md)「查證反射 < 建造反射」的一個新面孔——那條講的是「動手建造前先查一眼既有的東西」，本條是它在**工具庫**這一層：宣告能力不足之前先盤點自己已經有什麼。ANATOMY §資源地圖 是為了同一種病造的（手刻已存在的元件），但它列的是 SSOT 與共用元件，沒有列「這個 repo 有哪些可用的驗證引擎」。缺席的正是這一格。
+
+**修補候選**：
+
+- (a) **撤回昨天的候選 (b)**（列內嵌瀏覽器缺口表），改成：任何 routine 寫下「這件事在這裡量不到」之前，必須先跑一次工具盤點（至少 `grep -E 'playwright|puppeteer' package.json` 與 `ls node_modules`），把結果寫進報告。沒盤點過的「量不到」不算結論。
+- (b) ANATOMY §資源地圖 新增一格「驗證引擎」：playwright chromium（真實引擎，支援完整 CSS 與捲動）／Browser pane（內嵌，已知不實作 `0fr→1fr`、無法捲動）／iOS Simulator，各自能做什麼、什麼時候該用哪個。
+- (c) MAINTAINER §Step 3.6「修完必驗證」旁補一句：UI 驗證優先用 playwright 對本機 build 跑，Browser pane 用於需要人眼看的場合。
+
+**verification_count**: 1
+
+**對應**：[REFLEXES #73](REFLEXES.md)（查證反射 < 建造反射，本條是工具庫層）／[REFLEXES #16](REFLEXES.md)（環境代表性）／[REFLEXES #24](REFLEXES.md)（工具在說謊）／LESSONS `verification-tool-lacks-the-feature-it-must-verify`（2026-09-02，本條是它的更正）。
+
+### 2026-09-03 twmd-maintainer-am — named-healthcheck-cannot-see-what-it-does-not-name：健檢點名兩條 workflow，第三條紅了四天沒人看到，最後由一支不相關的投稿 PR 替它背黑鍋
+
+**現象**：`Python tests` 在 main 上從 2026-08-30 紅到 2026-09-03，四天、零告警。今天第一個看到那個紅燈的是投稿者 stantheman0128 的 PR #1662（Windows cp950 的 UTF-8 修補）——它動了 `scripts/**/*.py`，於是繼承了 main 的紅。投稿者看到的是自己的 PR 紅了。
+
+**兩層根因，都是自己造的**：
+
+1. **健檢寫死名字**。MAINTAINER Step 1.5 的 CI 健檢寫死 `--workflow="Deploy to GitHub Pages"` 與 `"i18n Smoke Test"` 兩條。`Python tests` 不在那兩個名字裡。它又掛 `paths` filter，紅完之後就沒有再被觸發過，連 `gh run list` 的預設視窗裡都不會再出現——**紅在 main 上不會自己叫，它會等下一個路過的人踩到**。
+2. **同一天長出來的兩道閘門對同一件事給相反的答案**。8/30 那輪 maintainer 把 `knowledge/de/**` 補進 `translation-check.yml`（讓十一天沒被任何檢查認得的德文譯文進得了閘門，就是 `scaffold-window-has-no-qa` 那條的修補），而同一份 canonical 裡有一條測試斷言「workflow 的 paths 必須等於註冊表裡 `enabled` 的語言」，`de` 是 scaffold。**修好一道閘門的動作，把另一道判成違規。** 同一輪 cycle 造的 `check-language-registry-sync.sh` 用的判準是「有沒有內容進來」，測試用的是 `enabled` 旗標——兩把尺，同一天，方向相反。
+
+**已修**：測試改問「有沒有內容進來」，與 `check-language-registry-sync.sh` 同源（拿掉 `ar` 的 path 驗過會叫）；Step 1.5 改成 group-by 問 main 上**每一條** workflow 的最後一次結果，不點名。commit `73a0b9441`。
+
+**修補候選（未做）**：main 紅燈需要一個不依賴「有人記得看」的出口——目前唯一會發現它的是下一輪 maintainer 的 Stage 1.5，而那是每天一次的人（機）工掃描。候選：red-on-main 直接進 `dashboard-alerts.json`，讓它出現在每一條 routine 的 groundtruth 段。
+
+**verification_count**: 1（`scaffold-window-has-no-qa` 的下一跳：那條講「補閘門時只補了咬過人的那一份」，本條講「補閘門的動作本身踩壞了另一道閘門，而沒有東西在對賬」）
+
+**對應**：[REFLEXES #82](REFLEXES.md)（proxy signal — 點名式健檢量的是「我想得到的那幾條」不是「所有條」）／[REFLEXES #83](REFLEXES.md)（checker 兩把尺 divergence，本條是同日同作者的極端版）／[REFLEXES #92](REFLEXES.md)（twin-artifact 缺重整器）／LESSONS `scaffold-window-has-no-qa`（2026-08-30）。
+
+### 2026-09-03 twmd-maintainer-am — one-measurement-three-hardcoded-copies：同一個高度在站上有三份寫死的副本，彼此不同，也都跟真值不同
+
+**現象**：「固定表頭有多高」這個數字，站上有三份硬編碼副本：`global.css` 的 `scroll-padding-top: 92px`（註解算式「navbar 72px + 20px buffer」）、`FootnoteCard.astro` 的 `HEADER_SAFE = 78`、`Header.astro` 自己那行 `92 + banner.offsetHeight`。實測真值是 375px 寬 110、768px 寬 96、1280px 寬 108——**三份副本沒有一份對得上任何一個斷點**。後果是錨點跳轉後標題鑽到表頭底下（`#sub-城市生活` 實測差 18px），每個斷點都中。讀者回報時只看到手機版。
+
+**為什麼三份都會腐化**：它們不是抄來抄去的，是三個不同時間、三個不同人（session）各自對著當時的畫面估出來的。表頭後來長高了（多一列語言橫幅／子導覽），三份都沒有跟上，而且**沒有任何東西在對賬**——沒有測試、沒有 lint，改表頭的人不會被任何機制提醒「還有三個地方記著你的高度」。
+
+**已修**：Header 用 `ResizeObserver` 量自己的 `bottom`（量 bottom 而非 height，hero 頁被語言橫幅推下去的情況一起涵蓋），發佈成 `--header-h`；另外兩處都吃它，fallback 取實測最大值 110。三個斷點各驗一次，被遮住的錨點 0 個。commit `c6d5374d8`。
+
+**還沒做的那一半**：現在是「一份真值 + 兩個消費者」，但沒有東西阻止第四份副本明天長出來。候選閘門：lint 掃 `src/` 裡對表頭高度的數字字面量（難精確），或更務實的——把 `--header-h` 寫進 ANATOMY §資源地圖 的 SSOT 那一格，讓下一個要用這個數字的人查得到。
+
+**verification_count**: 1（[REFLEXES #92](REFLEXES.md) twin-artifact 家族的 N=3 變體：那條講兩個該同步的產物各自演化，本條講三個該相同的常數各自估算）
+
+**對應**：[REFLEXES #92](REFLEXES.md)（twin-artifact 缺重整器）／[REFLEXES #15](REFLEXES.md)（反覆浮現要儀器化）／MANIFESTO §14（高儀器化：能量出來的就不要猜）。
+
 ### 2026-09-02 twmd-maintainer-am — verification-tool-lacks-the-feature-it-must-verify：驗證工具本身不支援被驗證的那個功能，於是缺陷與工具限制長得一模一樣
 
 **現象**：Issue #1639 剩下的驗收條件，上一輪寫成「需要一個有人在場、能開真實瀏覽器的 session」。本輪拿到了瀏覽器，量出來的結果是：子選單展開後 `aria-expanded` 變 `true`、`.open` 也加上了，但 `grid-template-rows` 仍算出 `0px`，226px 的連結被裁成 0——看起來就是使用者回報的那個症狀，位置也對得上，`Header.astro:1466` 那段 `0fr → 1fr` 的高度動畫還剛好是 39 天前 `bb2945e43` 從能動的 `display:none / .open{display:flex}` 換過來的，連 git blame 都指向一個合理的回歸。整條推論鏈完全成立。
