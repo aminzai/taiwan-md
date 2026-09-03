@@ -112,10 +112,10 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1164  |
-| 🍴 Forks                       | 184   |
+| ⭐ GitHub Stars                | 1165  |
+| 🍴 Forks                       | 185   |
 | 📅 Articles last 7 days        | 24    |
-| 📅 Articles last 30 days       | 267   |
+| 📅 Articles last 30 days       | 262   |
 
 <!-- STATS:END -->
 

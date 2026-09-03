@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-09-02T22:14:29.780Z",
+  "generatedAt": "2026-09-03T22:12:19.172Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "eff0c6591c00ca36be89a52965331b5a07169427",
+      "date": "2026-09-04T05:39:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: twmd-routine-sync — 收官前的證據推翻了收官中段寫下的敘事",
+      "articles": []
+    },
+    {
+      "hash": "f50130ef5ef2f49ea2f71d9af54c7dca384b726e",
+      "date": "2026-09-04T05:38:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-04 05:37 — 18 條全 in-sync 零漂移，第 38 輪",
+      "articles": []
+    },
+    {
+      "hash": "ddc8d14a98548cc7a31e709ae88d92abe53578de",
+      "date": "2026-09-04T05:38:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-04 05:52 — 12 語 9,904 向量 0 fail 全綠，內容與昨夜相同首次乾淨 skip commit",
+      "articles": []
+    },
+    {
+      "hash": "5f41363159b11ae1a0365c3e3e8c9070f2b7ca33",
+      "date": "2026-09-03T09:12:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-03 09:10 — 紅了四天的 main，與昨天寫錯的那個「量不到」",
+      "articles": []
+    },
+    {
+      "hash": "c6d5374d8c921b632deb8ccf0cb929f2690beca9",
+      "date": "2026-09-03T09:06:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 表頭有多高，站上有三份互不相同的答案，沒有一份是對的",
+      "articles": []
+    },
+    {
+      "hash": "4a1a6bbdb177f61cfe538e3b8a8ca55e8d1cbdb9",
+      "date": "2026-09-03T08:50:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 把 UTF-8 那條規則補完整個 lang-sync，並讓它變成會叫的閘門",
+      "articles": []
+    },
+    {
+      "hash": "44b2b876a5930e3e6e68880268233bd5ddb97bcb",
+      "date": "2026-09-03T08:48:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1662 from stantheman0128/fix/1661-lang-sync-utf8-io",
+      "articles": []
+    },
+    {
+      "hash": "6f5f461b3d74b5a44abd9f536e3abd38d79809dc",
+      "date": "2026-09-03T08:46:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge branch 'main' into fix/1661-lang-sync-utf8-io",
+      "articles": []
+    },
+    {
+      "hash": "73a0b9441427d58bfb905cc98c950c4794da842a",
+      "date": "2026-09-03T08:45:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: main 的 Python tests 紅了四天，第一個替它背黑鍋的是一支不相關的投稿",
+      "articles": []
+    },
+    {
+      "hash": "3b547352c2490e392ac796a141f54e2b714b9d5b",
+      "date": "2026-09-03T07:11:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 那封第三人指控信第十七次攔下，今天沒開任何 issue",
+      "articles": []
+    },
+    {
+      "hash": "20a2c77eff559a784f39efcda949166405ddfad1",
+      "date": "2026-09-03T06:42:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-09-03 06:41 — D+30 milestone五平台全綠零新留言，黃崇仁23天零位移確認plateau",
+      "articles": []
+    },
+    {
+      "hash": "0187f839d51e819be9935a886b4188a66befcf44",
+      "date": "2026-09-03T06:40:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 5 spores D+30 milestone, 0 replies shipped — 2026-09-03",
+      "articles": []
+    },
+    {
+      "hash": "be26c710dd31f6bfae6b343162f2cb2b1670fb9a",
+      "date": "2026-09-03T06:20:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "docs: 補完 data-refresh memory 的 BECOME ACK + 14 步逐步結果表",
+      "articles": []
+    },
+    {
+      "hash": "a7aac1c2ad0eb7ef420b843aaba21a309b0bc603",
+      "date": "2026-09-03T06:19:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-03 06:09 — 14 步全綠零 stale，fork-census 撞 GA 逾時",
+      "articles": []
+    },
+    {
+      "hash": "6074458b142cfed0e863eb8e628052b71fb28f8e",
+      "date": "2026-09-03T06:17:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，越南文與德文譯文小幅前進，forks 183→184",
+      "articles": []
+    },
     {
       "hash": "e53e63846c8b8614b187ae0dd33e62a4ea72aede",
       "date": "2026-09-03T05:39:49+08:00",
@@ -21,6 +126,13 @@
       "date": "2026-09-03T05:37:31+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-03 05:37",
+      "articles": []
+    },
+    {
+      "hash": "eacfbd67927e7b58d5475199c60253ed94aa97e0",
+      "date": "2026-09-02T10:56:03+08:00",
+      "author": "Po-Han Shih",
+      "message": "fix(lang-sync): read and write article text as UTF-8 on Windows",
       "articles": []
     },
     {
@@ -85244,175 +85356,6 @@
         {
           "url": "/technology/_Technology Hub",
           "name": "_Technology Hub"
-        }
-      ]
-    },
-    {
-      "hash": "5cf45002f9ce20506515726e7c26472de90ac9c4",
-      "date": "2026-03-17T21:11:27+08:00",
-      "author": "bugnimusic",
-      "message": "feat(music): 新增台灣聲音地景文章",
-      "articles": [
-        {
-          "url": "/music/台灣聲音地景",
-          "name": "台灣聲音地景"
-        }
-      ]
-    },
-    {
-      "hash": "47d2b00686afad001a8a83ec33304ca34b3ba52e",
-      "date": "2026-03-17T21:09:33+08:00",
-      "author": "frank890417",
-      "message": "feat: curated CC-licensed Taiwan images for all categories",
-      "articles": []
-    },
-    {
-      "hash": "a416e78e071e5933e0ed72fccc1bb4b203b5e219",
-      "date": "2026-03-17T21:08:53+08:00",
-      "author": "frank890417",
-      "message": "feat: founder declaration in About + contribute cards 2-col layout + topic pills",
-      "articles": []
-    },
-    {
-      "hash": "533cbb9793ac148e51279083e814d2f9e26ab4da",
-      "date": "2026-03-17T21:05:03+08:00",
-      "author": "frank890417",
-      "message": "feat: contribute form with email fallback (Google Sheets integration ready)",
-      "articles": []
-    },
-    {
-      "hash": "9ffd41049e0871708d8a1a420d5abd740a12a468",
-      "date": "2026-03-17T20:58:46+08:00",
-      "author": "frank890417",
-      "message": "design: topic pills with emoji + background for explore section links",
-      "articles": []
-    },
-    {
-      "hash": "68a99b151941b42796e6e23a0b1ca3fd4709f4bf",
-      "date": "2026-03-17T20:54:28+08:00",
-      "author": "frank890417",
-      "message": "feat: Lifestyle category overhaul - 6 new articles + Hub rewrite",
-      "articles": [
-        {
-          "url": "/lifestyle/_Lifestyle Hub",
-          "name": "_Lifestyle Hub"
-        },
-        {
-          "url": "/lifestyle/台灣教育制度",
-          "name": "台灣教育制度"
-        },
-        {
-          "url": "/lifestyle/宗教與民間信仰",
-          "name": "宗教與民間信仰"
-        },
-        {
-          "url": "/lifestyle/溫泉文化",
-          "name": "溫泉文化"
-        }
-      ]
-    },
-    {
-      "hash": "bce74c1f4adf71054281d8a04b58d1bec0b472b0",
-      "date": "2026-03-17T20:48:34+08:00",
-      "author": "frank890417",
-      "message": "feat: homepage explore section rewritten as literary essay linking all 12 themes",
-      "articles": [
-        {
-          "url": "/lifestyle/台灣交通系統",
-          "name": "台灣交通系統"
-        },
-        {
-          "url": "/lifestyle/台灣咖啡文化",
-          "name": "台灣咖啡文化"
-        },
-        {
-          "url": "/lifestyle/夜生活與KTV文化",
-          "name": "夜生活與KTV文化"
-        }
-      ]
-    },
-    {
-      "hash": "ddfdccb3cdc041554a90e85807b5402de6cd3887",
-      "date": "2026-03-17T20:16:49+08:00",
-      "author": "frank890417",
-      "message": "feat: knowledge graph now shows all 72 articles as nodes (was 19)",
-      "articles": []
-    },
-    {
-      "hash": "beafb90ae1cf3f5a438f25acd79989e848ea8c06",
-      "date": "2026-03-17T20:08:49+08:00",
-      "author": "frank890417",
-      "message": "feat: Wikimedia image cache - 42 images locally cached, 10 URLs replaced",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        }
-      ]
-    },
-    {
-      "hash": "fd6887ac2ad422c2796b5e14b4a1ea9fc0e57de5",
-      "date": "2026-03-17T20:04:04+08:00",
-      "author": "frank890417",
-      "message": "feat: contribute page upgrade with writing guide",
-      "articles": []
-    },
-    {
-      "hash": "231c712858fa2fe06d109c9873d6c3b98506cd6f",
-      "date": "2026-03-17T20:01:53+08:00",
-      "author": "frank890417",
-      "message": "fix: CTA buttons - smaller, cleaner, white primary on green",
-      "articles": []
-    },
-    {
-      "hash": "57990a2ec41320eb03cfd350d193b48e3e3ccc38",
-      "date": "2026-03-17T19:59:46+08:00",
-      "author": "frank890417",
-      "message": "feat: Muse intro upgrade + sync graph data",
-      "articles": []
-    },
-    {
-      "hash": "9e5f558aa9a54c325c810b27cfa8a2344d8a8dd9",
-      "date": "2026-03-17T19:56:01+08:00",
-      "author": "frank890417",
-      "message": "feat: SEO upgrade - JSON-LD, Open Graph, canonical, RSS feed",
-      "articles": []
-    },
-    {
-      "hash": "a21ef38695292ba2609a289652892f2e7bf5dadc",
-      "date": "2026-03-17T19:54:08+08:00",
-      "author": "frank890417",
-      "message": "design: nav/footer/UX polish - natural color scheme, serif typography",
-      "articles": []
-    },
-    {
-      "hash": "2a60bea224d7d0960f4c1b5116e283d787c33c6e",
-      "date": "2026-03-17T19:52:43+08:00",
-      "author": "frank890417",
-      "message": "fix: use marked for article rendering - proper markdown support",
-      "articles": []
-    },
-    {
-      "hash": "6ed10b5357c972dc5509e50a43d35b843c659a5e",
-      "date": "2026-03-17T19:52:03+08:00",
-      "author": "frank890417",
-      "message": "feat: 4 more People - Lee Yuan-tseh, Audrey Tang, Tai Tzu-Ying, Wu Ming-Yi",
-      "articles": [
-        {
-          "url": "/people/吳明益",
-          "name": "吳明益"
         }
       ]
     }

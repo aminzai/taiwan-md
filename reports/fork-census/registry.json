@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-09-01",
+    "last_census": "2026-09-03",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 536011,
-      "users": 299654
+      "views": 543847,
+      "users": 304920
     },
     "dev_noise": {
       "views": 12216,
@@ -74,7 +74,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 561,
+        "views": 558,
         "users": 60
       },
       "confidence": "high",
@@ -107,7 +107,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 555,
+        "views": 553,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
@@ -135,53 +135,16 @@
       "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
-        "views": 116,
-        "users": 68
+        "views": 118,
+        "users": 69
       },
       "title_ga": {
         "window": "365daysAgo",
         "views": 110,
-        "users": 62
+        "users": 63
       },
       "confidence": "high",
       "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
-    },
-    {
-      "id": "su-chiao-hui",
-      "label": "蘇巧慧知識庫 (su-chiao-hui)",
-      "hostnames": [
-        "su-chiao-hui.pages.dev",
-        "su-chiao-hui-wiki-pvkk5u545q-de.a.run.app",
-        "su-chiao-hui-wiki-100735357623.asia-east1.run.app"
-      ],
-      "title_brands": ["蘇巧慧知識庫"],
-      "type": "person / politician (unverified-if-fork)",
-      "topic": "蘇巧慧(DPP 立委 / 2026 新北市長參選人)wiki",
-      "language": "zh-TW (INFERRED)",
-      "github": "查無 public repo",
-      "who": "命名指向蘇巧慧;部署者 unknown(Cloudflare Access org 'wavetool',Taiwan-based)",
-      "network_fork": null,
-      "credits_upstream": "unknown (gated)",
-      "cognitive_layer": "unknown (gated)",
-      "ga_leaking": null,
-      "deployment": "Cloudflare Pages + Google Cloud Run — 兩者都在 Cloudflare Access (Zero Trust) 牆後",
-      "content_articles": "unknown",
-      "health": "unknown",
-      "last_push": "unknown",
-      "first_seen": "2026-03",
-      "last_seen": "2026-09",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 72,
-        "users": 19
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 67,
-        "users": 19
-      },
-      "confidence": "low (是不是我們的 fork 無法證實);high (gated + 蘇巧慧身份)",
-      "notes": "官方站 chiao.tw 是另一個標準立委站(非此)。wiki 命名 + GA 漏水偵測 suggestive 但無 content/repo/GA tag 可證實。誠實標 unknown"
     },
     {
       "id": "portaly.cc",
@@ -202,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 137,
-        "users": 100
+        "views": 143,
+        "users": 103
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -237,11 +200,48 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 137,
-        "users": 97
+        "views": 142,
+        "users": 101
       },
       "last_seen": "2026-09",
       "first_seen": "2026-07"
+    },
+    {
+      "id": "su-chiao-hui",
+      "label": "蘇巧慧知識庫 (su-chiao-hui)",
+      "hostnames": [
+        "su-chiao-hui.pages.dev",
+        "su-chiao-hui-wiki-pvkk5u545q-de.a.run.app",
+        "su-chiao-hui-wiki-100735357623.asia-east1.run.app"
+      ],
+      "title_brands": ["蘇巧慧知識庫"],
+      "type": "person / politician (unverified-if-fork)",
+      "topic": "蘇巧慧(DPP 立委 / 2026 新北市長參選人)wiki",
+      "language": "zh-TW (INFERRED)",
+      "github": "查無 public repo",
+      "who": "命名指向蘇巧慧;部署者 unknown(Cloudflare Access org 'wavetool',Taiwan-based)",
+      "network_fork": null,
+      "credits_upstream": "unknown (gated)",
+      "cognitive_layer": "unknown (gated)",
+      "ga_leaking": null,
+      "deployment": "Cloudflare Pages + Google Cloud Run — 兩者都在 Cloudflare Access (Zero Trust) 牆後",
+      "content_articles": "unknown",
+      "health": "unknown",
+      "last_push": "unknown",
+      "first_seen": "2026-03",
+      "last_seen": "2026-09",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 72,
+        "users": 19
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 65,
+        "users": 19
+      },
+      "confidence": "low (是不是我們的 fork 無法證實);high (gated + 蘇巧慧身份)",
+      "notes": "官方站 chiao.tw 是另一個標準立委站(非此)。wiki 命名 + GA 漏水偵測 suggestive 但無 content/repo/GA tag 可證實。誠實標 unknown"
     },
     {
       "id": "Micron.md",
@@ -270,7 +270,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 109,
+        "views": 108,
         "users": 2
       },
       "confidence": "low",
@@ -300,7 +300,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 79,
+        "views": 78,
         "users": 1
       },
       "last_seen": "2026-09",
@@ -333,7 +333,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 16,
+        "views": 15,
         "users": 9
       },
       "confidence": "high",
@@ -396,7 +396,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 21,
+        "views": 20,
         "users": 1
       },
       "last_seen": "2026-09",
@@ -436,36 +436,6 @@
       "notes": "創 3/19 棄 3/26,一週內放棄。未改 vanilla 複本"
     },
     {
-      "id": "share.google",
-      "label": "share.google",
-      "hostnames": ["share.google"],
-      "title_brands": [],
-      "type": "(unverified)",
-      "topic": "(unverified)",
-      "language": "",
-      "github": "",
-      "network_fork": null,
-      "credits_upstream": null,
-      "cognitive_layer": "(unverified)",
-      "ga_leaking": true,
-      "deployment": "share.google",
-      "health": "",
-      "confidence": "low",
-      "notes": "auto-detected via GA leak — needs investigation",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 1,
-        "users": 1
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "last_seen": "2026-09",
-      "first_seen": "2026-08"
-    },
-    {
       "id": "web.archive.org",
       "label": "web.archive.org",
       "hostnames": ["web.archive.org"],
@@ -479,6 +449,36 @@
       "cognitive_layer": "(unverified)",
       "ga_leaking": true,
       "deployment": "web.archive.org",
+      "health": "",
+      "confidence": "low",
+      "notes": "auto-detected via GA leak — needs investigation",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 2,
+        "users": 2
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "last_seen": "2026-09",
+      "first_seen": "2026-08"
+    },
+    {
+      "id": "share.google",
+      "label": "share.google",
+      "hostnames": ["share.google"],
+      "title_brands": [],
+      "type": "(unverified)",
+      "topic": "(unverified)",
+      "language": "",
+      "github": "",
+      "network_fork": null,
+      "credits_upstream": null,
+      "cognitive_layer": "(unverified)",
+      "ga_leaking": true,
+      "deployment": "share.google",
       "health": "",
       "confidence": "low",
       "notes": "auto-detected via GA leak — needs investigation",

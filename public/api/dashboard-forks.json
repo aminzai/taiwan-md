@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-03",
   "totalDetected": 16,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 11,
@@ -25,7 +25,7 @@
       "cognitiveLayer": "yes",
       "health": "semi-active",
       "firstSeen": "2026-04",
-      "views365d": 1181
+      "views365d": 1178
     },
     {
       "label": "HongKong.md",
@@ -39,7 +39,7 @@
       "cognitiveLayer": "no",
       "health": "dormant",
       "firstSeen": "2026-03",
-      "views365d": 709
+      "views365d": 707
     },
     {
       "label": "Russia.md",
@@ -53,7 +53,7 @@
       "cognitiveLayer": "no docs/semiont",
       "health": "active",
       "firstSeen": "2026-03",
-      "views365d": 226
+      "views365d": 228
     },
     {
       "label": "LagunaBeach.md",
@@ -67,7 +67,7 @@
       "cognitiveLayer": "growing",
       "health": "active",
       "firstSeen": "2026-06",
-      "views365d": 41
+      "views365d": 40
     },
     {
       "label": "weilinlai719/taiwan-md (vanilla)",
