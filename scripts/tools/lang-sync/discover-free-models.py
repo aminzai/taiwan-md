@@ -62,7 +62,7 @@ def load_key():
     if not KEY_FILE.exists():
         print(f"no key at {KEY_FILE}", file=sys.stderr)
         sys.exit(1)
-    return KEY_FILE.read_text().strip()
+    return KEY_FILE.read_text(encoding="utf-8").strip()
 
 
 def fetch_free_models(key):

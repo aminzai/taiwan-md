@@ -1130,7 +1130,7 @@ def main():
     if fn_problems:
         print(f"❌ Phase N validation failed — aborting, no output written: {fn_problems}")
         if args.metrics_out:
-            Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2))
+            Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8")
         return 1
 
     # ── Phase B ──
@@ -1161,7 +1161,7 @@ def main():
     if failed_chunks:
         print(f"❌ {len(failed_chunks)} chunk(s) failed after retries — aborting, no output written")
         if args.metrics_out:
-            Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2))
+            Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8")
         return 1
 
     # ── Phase A ──

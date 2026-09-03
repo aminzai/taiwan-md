@@ -38,7 +38,7 @@ def snapshot() -> dict:
         ["python3", "scripts/tools/lang-sync/status.py"],
         cwd=REPO, capture_output=True, text=True,
     )
-    data = json.loads((REPO / "knowledge" / "_translation-status.json").read_text())
+    data = json.loads((REPO / "knowledge" / "_translation-status.json").read_text(encoding="utf-8"))
     summary = data["_meta"]["summary"]
     row = {"ts": datetime.now().astimezone().isoformat(timespec="seconds"),
            "total_zh": data["_meta"]["totalZh"], "langs": {}}
@@ -62,7 +62,7 @@ def _node_endpoints() -> dict:
     out = {"local": "http://127.0.0.1:11434"}
     reg = Path.home() / "Projects" / "muse-bot" / "fleet" / "registry.json"
     try:
-        for m in json.loads(reg.read_text()).get("machines", []):
+        for m in json.loads(reg.read_text(encoding="utf-8")).get("machines", []):
             addr = m.get("tailscale_ip") or m.get("host")
             if addr and not m.get("retired") and m.get("id"):
                 out[m["id"]] = f"http://{addr}:11434"
@@ -211,13 +211,13 @@ def main():
     now = datetime.now().astimezone()
     jsonl_path, md_path = out_paths(now)
     if args.last:
-        lines = jsonl_path.read_text().splitlines() if jsonl_path.exists() else []
+        lines = jsonl_path.read_text(encoding="utf-8").splitlines() if jsonl_path.exists() else []
         for ln in lines[-args.last:]:
             print(ln)
         return
     prev = None
     if jsonl_path.exists():
-        tail = jsonl_path.read_text().splitlines()
+        tail = jsonl_path.read_text(encoding="utf-8").splitlines()
         if tail:
             prev = json.loads(tail[-1])
     row = snapshot()

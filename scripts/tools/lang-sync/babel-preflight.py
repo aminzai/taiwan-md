@@ -88,7 +88,7 @@ def check_fleet() -> dict:
     if not reg.exists():
         return {"available": False, "reason": "fleet registry 不在本機（非指揮部機器，正常）"}
     try:
-        machines = json.loads(reg.read_text()).get("machines", [])
+        machines = json.loads(reg.read_text(encoding="utf-8")).get("machines", [])
     except Exception as e:
         return {"available": False, "error": str(e)[:80]}
     reachable = []

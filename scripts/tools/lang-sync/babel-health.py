@@ -51,7 +51,7 @@ def iter_lang_files(lang: str):
 
 def read(p: Path) -> str:
     try:
-        return p.read_text(errors="ignore")
+        return p.read_text(errors="ignore", encoding="utf-8")
     except OSError:
         return ""
 
@@ -60,7 +60,7 @@ def scan_coverage() -> dict:
     status = KNOW / "_translation-status.json"
     if not status.exists():
         return {"error": "no _translation-status.json (跑 status.py 先)"}
-    d = json.loads(status.read_text())
+    d = json.loads(status.read_text(encoding="utf-8"))
     return d.get("_meta", {}).get("summary", {})
 
 

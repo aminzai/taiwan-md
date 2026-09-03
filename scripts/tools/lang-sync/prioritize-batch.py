@@ -181,7 +181,7 @@ def parse_status_table(lang, status_cache=None):
         cache_path = REPO / "knowledge" / "_translation-status.json"
         if not cache_path.exists():
             return rows
-        status_cache = json.loads(cache_path.read_text())
+        status_cache = json.loads(cache_path.read_text(encoding="utf-8"))
 
     diff_re = re.compile(r"\+(\d+)\s+-(\d+)")
     for zh_path, art in status_cache["byArticle"].items():
@@ -227,7 +227,7 @@ def main():
     prior_refusals_global = {}
     if cache_path.exists():
         try:
-            prior_refusals_global = json.loads(cache_path.read_text())
+            prior_refusals_global = json.loads(cache_path.read_text(encoding="utf-8"))
         except Exception:
             pass
 
@@ -286,7 +286,7 @@ def main():
             for r in agg[: args.top_n]:
                 print(f"{r['priority']:6s} {r['max_diff']:>8d}  {','.join(sorted(r['langs_needed'])):25s}  {r['zh_path']}")
             if args.out:
-                Path(args.out).write_text("\n".join(r["zh_path"] for r in agg[: args.top_n]) + "\n")
+                Path(args.out).write_text("\n".join(r["zh_path"] for r in agg[: args.top_n]) + "\n", encoding="utf-8")
                 print(f"\n✅ Wrote {min(len(agg), args.top_n)} zh paths to {args.out}")
         return
 
@@ -328,7 +328,7 @@ def main():
             break
 
     if args.out:
-        Path(args.out).write_text("\n".join(deduped) + "\n")
+        Path(args.out).write_text("\n".join(deduped) + "\n", encoding="utf-8")
         print(f"✅ Wrote {len(deduped)} zh paths to {args.out}")
     else:
         print("\n".join(deduped))

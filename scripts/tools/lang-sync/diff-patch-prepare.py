@@ -202,7 +202,7 @@ def main():
     ap.add_argument("--out-dir", default=".lang-sync-tasks/diff-patch", help="Output dir")
     args = ap.parse_args()
 
-    zh_paths = [l.strip() for l in Path(args.input).read_text().splitlines() if l.strip()]
+    zh_paths = [l.strip() for l in Path(args.input).read_text(encoding="utf-8").splitlines() if l.strip()]
     langs = LANGS if args.lang == "all" else [args.lang]
 
     out_dir = REPO / args.out_dir
@@ -224,7 +224,7 @@ def main():
         if not lang_tasks:
             continue
         out_file = out_dir / f"{lang}-patch-tasks.json"
-        out_file.write_text(json.dumps(lang_tasks, ensure_ascii=False, indent=2))
+        out_file.write_text(json.dumps(lang_tasks, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  {lang}: {len(lang_tasks)} patch tasks → {out_file.relative_to(REPO)}")
 
     if skips:

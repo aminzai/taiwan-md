@@ -126,7 +126,7 @@ def main():
 
     if args.lang and args.all:
         import json
-        tmap = json.loads((KNOWLEDGE / "_translations.json").read_text())
+        tmap = json.loads((KNOWLEDGE / "_translations.json").read_text(encoding="utf-8"))
         total = healed = 0
         for lf, zf in sorted(tmap.items()):
             if not lf.startswith(f"{args.lang}/"):

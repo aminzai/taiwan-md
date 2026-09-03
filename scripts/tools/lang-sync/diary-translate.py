@@ -70,7 +70,7 @@ KEY_COOLDOWN_SEC = 300  # 5 min after 429
 def _load_cooldown() -> dict:
     if KEY_COOLDOWN_FILE.exists():
         try:
-            return json.loads(KEY_COOLDOWN_FILE.read_text())
+            return json.loads(KEY_COOLDOWN_FILE.read_text(encoding="utf-8"))
         except Exception:
             return {}
     return {}
@@ -78,7 +78,7 @@ def _load_cooldown() -> dict:
 
 def _save_cooldown(data: dict) -> None:
     try:
-        KEY_COOLDOWN_FILE.write_text(json.dumps(data))
+        KEY_COOLDOWN_FILE.write_text(json.dumps(data), encoding="utf-8")
     except Exception:
         pass
 
@@ -104,17 +104,17 @@ def _all_keys() -> list[tuple[str, str]]:
         keys.append(("env", os.environ["OPENROUTER_API_KEY"].strip()))
     if KEY_ROTATION_DIR.is_dir():
         for f in sorted(KEY_ROTATION_DIR.glob("*.key")):
-            content = f.read_text().strip()
+            content = f.read_text(encoding="utf-8").strip()
             if content:
                 keys.append((f.stem, content))
     default_key = CREDS / "openrouter.key"
     if default_key.exists():
-        content = default_key.read_text().strip()
+        content = default_key.read_text(encoding="utf-8").strip()
         if content and content not in [v for _, v in keys]:
             keys.append(("default", content))
     env_file = CREDS / ".env"
     if env_file.exists():
-        for line in env_file.read_text().splitlines():
+        for line in env_file.read_text(encoding="utf-8").splitlines():
             if line.startswith("OPENROUTER_API_KEY="):
                 v = line.split("=", 1)[1].strip().strip('"').strip("'")
                 if v and v not in [val for _, val in keys]:
@@ -137,11 +137,11 @@ def pick_openrouter_key() -> tuple[str, str]:
         # Round-robin within fresh: use a counter file to spread load
         rr_file = Path("/tmp/openrouter-key-rr.txt")
         try:
-            idx = int(rr_file.read_text().strip()) if rr_file.exists() else 0
+            idx = int(rr_file.read_text(encoding="utf-8").strip()) if rr_file.exists() else 0
         except Exception:
             idx = 0
         chosen = fresh[idx % len(fresh)]
-        rr_file.write_text(str((idx + 1) % max(len(fresh), 1)))
+        rr_file.write_text(str((idx + 1) % max(len(fresh), 1)), encoding="utf-8")
         return chosen
     # All cooled — pick the one with oldest cooldown timestamp
     keys_sorted = sorted(keys, key=lambda k: cooldown.get(k[0], 0))

@@ -216,7 +216,7 @@ def main():
                 print(f"  [{f['lang']}] {f['diary']} (ratio {f['ratio']}): {', '.join(f['warning'])}")
 
     if args.out:
-        Path(args.out).write_text(json.dumps(report, ensure_ascii=False, indent=2))
+        Path(args.out).write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"\n💾 JSON report → {args.out}")
 
     # Exit non-zero if any critical (gate semantics)

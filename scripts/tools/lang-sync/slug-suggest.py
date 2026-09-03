@@ -24,11 +24,11 @@ def get_api_key():
     if os.environ.get("OPENROUTER_API_KEY"):
         return os.environ["OPENROUTER_API_KEY"].strip()
     if ENV_FILE.exists():
-        for line in ENV_FILE.read_text().splitlines():
+        for line in ENV_FILE.read_text(encoding="utf-8").splitlines():
             if line.startswith("OPENROUTER_API_KEY="):
                 return line.split("=", 1)[1].strip().strip('"').strip("'")
     if KEY_FILE.exists():
-        return KEY_FILE.read_text().strip()
+        return KEY_FILE.read_text(encoding="utf-8").strip()
     sys.exit("❌ No OpenRouter API key")
 
 
@@ -61,7 +61,7 @@ def main():
 
     paths = []
     if args.input:
-        text = Path(args.input).read_text().strip()
+        text = Path(args.input).read_text(encoding="utf-8").strip()
         if "," in text and "\n" not in text:
             paths = [p.strip() for p in text.split(",") if p.strip()]
         else:
@@ -81,7 +81,7 @@ def main():
         title = ""
         desc = ""
         if zh_file.exists():
-            text = zh_file.read_text(errors="ignore")
+            text = zh_file.read_text(errors="ignore", encoding="utf-8")
             for line in text.split("\n")[:30]:
                 if line.startswith("title:"):
                     title = line.split(":", 1)[1].strip().strip("'\"")
@@ -137,11 +137,11 @@ Bias toward shorter, recognizable English forms over literal translation."""
     # Merge with existing slug-map if it exists
     out_path = Path(args.out)
     if out_path.exists():
-        existing = json.loads(out_path.read_text())
+        existing = json.loads(out_path.read_text(encoding="utf-8"))
         existing.update(slugs)
         slugs = existing
 
-    out_path.write_text(json.dumps(slugs, ensure_ascii=False, indent=2))
+    out_path.write_text(json.dumps(slugs, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ {len(slugs)} slugs saved to {out_path}")
     for k, v in list(slugs.items())[:10]:
         print(f"   {k} → {v}")
