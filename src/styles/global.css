@@ -346,8 +346,12 @@
    * tab 就完全正常。教訓：不要在 hidden tab 驗證 scroll 行為。
    * ------------------------------------------------------------------------ */
   html {
-    /* navbar 72px + 20px buffer = 92px */
-    scroll-padding-top: 92px;
+    /* 2026-09-03（issue #1639 實測）：原本寫死 92px（註解算式「navbar 72px
+     * + 20px buffer」）。實測固定表頭是 375px 寬 110、768px 寬 96、1280px
+     * 寬 108——92 在每個斷點都不夠，錨點跳轉後標題會被表頭切掉一截
+     * （`#sub-城市生活` 差 18px）。改吃 Header.astro 量出來並發佈的
+     * --header-h；fallback 取實測最大值 110，JS 沒跑到時仍然安全。 */
+    scroll-padding-top: calc(var(--header-h, 110px) + 16px);
     scroll-behavior: smooth;
   }
 

@@ -851,11 +851,6 @@ const categoryList = [
       const banner = document.getElementById('lang-banner');
       if (banner && banner.offsetHeight > 0) {
         header.style.top = banner.offsetHeight + 'px';
-        // Anchor 捲動 offset 跟著 banner 高度長，不然 heading 會被
-        // fixed banner+header 蓋住（issue #1212 §B3/§11；基準 92px
-        // 定義在 global.css html{scroll-padding-top}）
-        document.documentElement.style.scrollPaddingTop =
-          92 + banner.offsetHeight + 'px';
       }
 
       const update = () =>
@@ -863,6 +858,38 @@ const categoryList = [
       window.addEventListener('scroll', update, { passive: true });
       update();
     }
+
+    /* ----------------------------------------------------------------------
+     * --header-h：頂端被固定表頭遮住多少，量出來的，不是猜的
+     *
+     * 誕生 2026-09-03（issue #1639 實測）：這個高度在此之前有三份互不相同的
+     * 硬編碼副本——global.css 的 `scroll-padding-top: 92px`（註解寫「navbar
+     * 72px + 20px buffer」）、FootnoteCard 的 `HEADER_SAFE = 78`、以及本檔
+     * 原本那行 `92 + banner.offsetHeight`。實測真值是 375px 寬 110、768px 寬
+     * 96、1280px 寬 108——三份副本沒有一份對得上，於是錨點跳轉後標題會鑽到
+     * 表頭底下（`#sub-城市生活` 實測差 18px）。讀者回報的是手機版，實際上
+     * 每個斷點都中。
+     *
+     * 量 `bottom` 而不是 `height`：hero 頁的表頭被語言橫幅往下推，被遮住的
+     * 區域是「橫幅 + 表頭」，bottom 一次涵蓋兩種情況。
+     * -------------------------------------------------------------------- */
+    const publishHeaderHeight = () => {
+      const covered = Math.max(
+        0,
+        Math.round(header.getBoundingClientRect().bottom),
+      );
+      if (covered > 0) {
+        document.documentElement.style.setProperty(
+          '--header-h',
+          covered + 'px',
+        );
+      }
+    };
+    publishHeaderHeight();
+    if (typeof ResizeObserver !== 'undefined') {
+      new ResizeObserver(publishHeaderHeight).observe(header);
+    }
+    window.addEventListener('resize', publishHeaderHeight, { passive: true });
   }
 </script>
 

@@ -172,7 +172,17 @@ const S = {
     var elJump = card.querySelector('.twmd-fn-jump');
     var elClose = card.querySelector('.twmd-fn-close');
 
-    var HEADER_SAFE = 78; // header 是 z-[1001]，卡片不鑽到它下面
+    // header 是 z-[1001]，卡片不鑽到它下面。吃 Header.astro 量出來的
+    // --header-h，不再自己猜一個數字（2026-09-03 issue #1639：這裡的 78、
+    // global.css 的 92、Header 自己的 92+banner 是同一個高度的三份副本，
+    // 而實測是 96–110，三份都偏低）。JS 沒跑到時退回實測最大值 110。
+    var headerSafe = function () {
+      var v = getComputedStyle(document.documentElement).getPropertyValue(
+        '--header-h',
+      );
+      var n = parseInt(v, 10);
+      return isNaN(n) || n <= 0 ? 110 : n;
+    };
     var EDGE = 12;
     var GAP = 10;
     var OPEN_DELAY = 120;
@@ -381,14 +391,15 @@ const S = {
       var left = r.left + r.width / 2 - cw / 2;
       left = Math.max(EDGE, Math.min(left, vw - cw - EDGE));
 
+      var safe = headerSafe();
       var top = r.bottom + GAP;
       if (top + ch > vh - EDGE) {
         var above = r.top - GAP - ch;
-        top = above >= HEADER_SAFE + EDGE ? above : vh - ch - EDGE;
+        top = above >= safe + EDGE ? above : vh - ch - EDGE;
       }
       // 永遠夾在「header 下緣」與「視窗下緣」之間。少了這道，記號被捲到
       // 視窗外時 r.bottom 會是負值，卡片就飛到畫面上方看不見的地方。
-      top = Math.max(HEADER_SAFE + EDGE, Math.min(top, vh - ch - EDGE));
+      top = Math.max(safe + EDGE, Math.min(top, vh - ch - EDGE));
 
       card.style.left = Math.round(left) + 'px';
       card.style.right = 'auto'; // RTL 下不讓 right 一起約束，否則 left 被忽略
