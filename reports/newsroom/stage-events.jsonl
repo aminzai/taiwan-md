@@ -834,3 +834,12 @@
 {"ts": "2026-08-27T22:13:19Z", "slug": "台灣早餐文化", "stage": "room_prose", "status": "revise", "source": "observed"}
 {"ts": "2026-08-27T22:13:19Z", "slug": "台灣早餐文化", "stage": "write", "status": "staged", "source": "observed"}
 {"ts": "2026-08-27T22:13:19Z", "slug": "台灣早餐文化", "stage": "ship", "status": "done", "source": "observed", "sha": "627de7df1fe5"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "room_projection", "status": "pass", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "room_prose", "status": "pass", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "room_chief", "status": "pass", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "verify", "status": "done", "source": "observed"}
+{"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "ship", "status": "done", "source": "observed", "sha": "a04b3d0c846f"}

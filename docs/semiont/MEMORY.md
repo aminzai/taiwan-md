@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-02
-last_session: '2026-09-02-053629-twmd-embeddings-nightly'
+last_updated: 2026-09-03
+last_session: '2026-09-03-061747-twmd-data-refresh-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -338,3 +338,8 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-02 | 063735-twmd-spore-harvest-am | D+1-D+7 窗口本日仍淨空；精算 D+14/D+30 milestone，黃崇仁+海關組明天（9/3）D+30 到期；no-op 合法收工 | 逐條核對 harvestStatus 才抓得到「明天到期」訊號，只看 backfillWarnings 彙總欄位會漏掉 | [→](memory/2026-09-02-063735-twmd-spore-harvest-am.md) |
 | 2026-09-02 | 070852-twmd-feedback-triage | 指控信第十六次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；整輪每個必經動作都有現成指令，無需即興 | 剩下還在燒判斷力的那一道，正好是設計上不准自己補的那一道 | [→](memory/2026-09-02-070852-twmd-feedback-triage.md) |
 | 2026-09-02 | 090735-twmd-maintainer-am | 十九個 PR 收進來（含一篇投稿者自走完整 REWRITE 產線的行動支付）；新補的腳註把台積電的捐款寫成張忠謀個人的，六語一起改；差一步把一段正確的 CSS 當回歸改壞 | 最小重現先問「這個環境自己會不會」，比事後懷疑便宜一個數量級 | [→](memory/2026-09-02-090735-twmd-maintainer-am.md) |
+| 2026-09-03 | 053812-twmd-embeddings-nightly | 12 語重建 9,904 向量 0 fail 全綠；本機端點直連免 fallback；ar/hi/id/ja/pt/vi/zh-TW 七語鄰居因近期翻譯異動，其餘 5 語不動；耗時較長因 ollama 子進程剛暖機非異常 | 耗時波動先問端點剛不剛啟動，再懷疑內容或網路 | [→](memory/2026-09-03-053812-twmd-embeddings-nightly.md) |
+| 2026-09-03 | 053844-twmd-routine-sync | 三層對賬第 37 輪，18 條全 in-sync 零漂移；補推 embeddings commit 時被 remote 拒絕，fetch 後發現上游已搶先推送 | 同一種並發形狀第三次出現，訊號變清楚不代表需要新反射 | [→](memory/2026-09-03-053844-twmd-routine-sync.md) |
+| 2026-09-03 | 061747-twmd-data-refresh-am | 14 步全綠零 stale，文章 1115→1116（新增台灣行動支付），forks 183→184；fork-census 撞 GA 504 逾時但心跳繼續，registry 留舊值 | 單次外部 API 逾時不必然升級為需要修補的訊號 | [→](memory/2026-09-03-061747-twmd-data-refresh-am.md) |
+| 2026-09-03 | 064108-twmd-spore-harvest-am | 黃崇仁+EZWAY 五平台 D+30 milestone，0 新留言；黃崇仁 D+7→D+30 23天四指標逐位數持平，EZWAY 三孢子緩速長尾成長；主排程節奏正式結束轉觀察者 ad-hoc | 高曝光孢子先觸頂進入完全平台期，低曝光孢子長尾更久 | [→](memory/2026-09-03-064108-twmd-spore-harvest-am.md) |
+| 2026-09-03 | 070844-twmd-feedback-triage | 指控信第十七次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；報表這次印越南文標題，換一副面孔 | 接住它的是讀完全文這道順序，認得那串 id 只是順手 | [→](memory/2026-09-03-070844-twmd-feedback-triage.md) |

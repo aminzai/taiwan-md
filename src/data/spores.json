@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-01T06:39:55+08:00",
+  "_generated": "2026-09-03T06:39:59+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -9034,14 +9034,14 @@
       "metrics": {
         "views": 38000,
         "likes": 790,
-        "reposts": 25,
+        "reposts": 24,
         "comments": 38,
         "shares": 57
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-08-11 06:40",
-        "batch": "batch-2026-08-11-2-spores",
+        "dPlus": 30,
+        "harvestDate": "2026-09-03 06:39",
+        "batch": "batch-2026-09-03-5-spores",
         "source": "harvest"
       },
       "history": [
@@ -9104,6 +9104,16 @@
           "reposts": 25,
           "comments": 38,
           "shares": 57
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-03 06:39",
+          "batch": "batch-2026-09-03-5-spores",
+          "views": 38000,
+          "likes": 790,
+          "reposts": 24,
+          "comments": 38,
+          "shares": 57
         }
       ]
     },
@@ -9118,16 +9128,16 @@
       "url": "https://x.com/taiwandotmd/status/2084319140907786616",
       "template": "A2 首尾呼應（動機弧線：學醫→晶片→回到醫學）",
       "metrics": {
-        "views": 1396,
-        "likes": 18,
-        "reposts": 2,
+        "views": 1556,
+        "likes": 20,
+        "reposts": 3,
         "comments": 2,
         "shares": 17
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-08-11 06:40",
-        "batch": "batch-2026-08-11-2-spores",
+        "dPlus": 30,
+        "harvestDate": "2026-09-03 06:39",
+        "batch": "batch-2026-09-03-5-spores",
         "source": "harvest+backfill"
       },
       "history": [
@@ -9190,6 +9200,16 @@
           "reposts": 2,
           "comments": 2,
           "shares": null
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-03 06:39",
+          "batch": "batch-2026-09-03-5-spores",
+          "views": 1556,
+          "likes": 20,
+          "reposts": 3,
+          "comments": 2,
+          "shares": null
         }
       ]
     },
@@ -9204,16 +9224,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181",
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
-        "views": 1753,
-        "likes": 56,
-        "reposts": 3,
+        "views": 1868,
+        "likes": 57,
+        "reposts": 2,
         "comments": 2,
         "shares": 3
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-08-11 06:40",
-        "batch": "batch-2026-08-11-2-spores",
+        "dPlus": 30,
+        "harvestDate": "2026-09-03 06:39",
+        "batch": "batch-2026-09-03-5-spores",
         "source": "harvest"
       },
       "history": [
@@ -9266,6 +9286,16 @@
           "reposts": 3,
           "comments": 2,
           "shares": 3
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-03 06:39",
+          "batch": "batch-2026-09-03-5-spores",
+          "views": 1868,
+          "likes": 57,
+          "reposts": 2,
+          "comments": 2,
+          "shares": 3
         }
       ]
     },
@@ -9280,17 +9310,17 @@
       "url": "https://x.com/taiwandotmd/status/2084520918441951650",
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
-        "views": 304,
-        "likes": 11,
+        "views": 455,
+        "likes": 12,
         "reposts": 1,
         "comments": 0,
         "shares": 2
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-08-11 06:40",
-        "batch": "batch-2026-08-11-2-spores",
-        "source": "harvest"
+        "dPlus": 30,
+        "harvestDate": "2026-09-03 06:39",
+        "batch": "batch-2026-09-03-5-spores",
+        "source": "harvest+backfill"
       },
       "history": [
         {
@@ -9342,6 +9372,16 @@
           "reposts": 1,
           "comments": 0,
           "shares": 2
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-03 06:39",
+          "batch": "batch-2026-09-03-5-spores",
+          "views": 455,
+          "likes": 12,
+          "reposts": 1,
+          "comments": 0,
+          "shares": null
         }
       ]
     },
@@ -9363,9 +9403,9 @@
         "shares": null
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-08-06 06:41",
-        "batch": "batch-2026-08-06-5-spores",
+        "dPlus": 30,
+        "harvestDate": "2026-09-03 06:39",
+        "batch": "batch-2026-09-03-5-spores",
         "source": "harvest+backfill"
       },
       "history": [
@@ -9383,6 +9423,16 @@
           "dPlus": 2,
           "harvestDate": "2026-08-06 06:41",
           "batch": "batch-2026-08-06-5-spores",
+          "views": null,
+          "likes": 4,
+          "reposts": null,
+          "comments": null,
+          "shares": null
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-03 06:39",
+          "batch": "batch-2026-09-03-5-spores",
           "views": null,
           "likes": 4,
           "reposts": null,

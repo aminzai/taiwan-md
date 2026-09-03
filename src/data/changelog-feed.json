@@ -1,7 +1,257 @@
 {
-  "generatedAt": "2026-09-01T22:12:44.829Z",
+  "generatedAt": "2026-09-02T22:14:29.780Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e53e63846c8b8614b187ae0dd33e62a4ea72aede",
+      "date": "2026-09-03T05:39:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-03 05:38 — 18 條全 in-sync 零漂移，第 37 輪",
+      "articles": []
+    },
+    {
+      "hash": "5025e7b2c28ae3f9fa5110d3c301671e509128a2",
+      "date": "2026-09-03T05:39:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-03 05:39 — 12 語 9,904 向量 0 fail 全綠",
+      "articles": []
+    },
+    {
+      "hash": "bf4117469c238981a4dd4236bf5dc7e6e457c856",
+      "date": "2026-09-03T05:37:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-03 05:37",
+      "articles": []
+    },
+    {
+      "hash": "1634230a2016c59b67907a84b394296c833e6f47",
+      "date": "2026-09-02T09:09:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-02 08:30 — 十九個 PR 收進來，一個最小重現擋下我改壞一段好 CSS",
+      "articles": []
+    },
+    {
+      "hash": "2e8dd7b976484d51946333de5bdf1ab278e59da9",
+      "date": "2026-09-02T08:57:00+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1657 from kevin8656/contribution/taiwan-mobile-payments",
+      "articles": []
+    },
+    {
+      "hash": "79a665287d5c0bc47d251021bf6350d901b7cd6a",
+      "date": "2026-09-02T08:54:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1656 from kevin8656/translate/vi-taiwan-electronic-music-and-party-culture",
+      "articles": []
+    },
+    {
+      "hash": "79e0faaeeac24c93f3425c8d151fefb52fb04f55",
+      "date": "2026-09-02T08:54:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1655 from kevin8656/translate/id-taiwan-machine-tool-industry",
+      "articles": []
+    },
+    {
+      "hash": "b53d9c6a621922393e550cc6e58480bb535e92a6",
+      "date": "2026-09-02T08:54:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1654 from kevin8656/translate/pt-braised-pork-rice",
+      "articles": []
+    },
+    {
+      "hash": "ab8fd55dd388bcbd2cee0faf3e66821980ec7663",
+      "date": "2026-09-02T08:54:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1650 from kevin8656/translate/vi-red-candle-games",
+      "articles": []
+    },
+    {
+      "hash": "ac7c5dbf589a740d5303689eb84baa6c3785d66d",
+      "date": "2026-09-02T08:54:11+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1649 from kevin8656/translate/de-bubble-tea",
+      "articles": []
+    },
+    {
+      "hash": "d514e391e20db1f5a8356941d7e4e835f48fb8a1",
+      "date": "2026-09-02T08:54:08+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1648 from kevin8656/translate/id-sorry-youth-band",
+      "articles": []
+    },
+    {
+      "hash": "5394be0e909aaedd6ba039569b15c3c9c68868d0",
+      "date": "2026-09-02T08:54:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1647 from kevin8656/translate/de-tectonic-plates-and-seismic-activity",
+      "articles": []
+    },
+    {
+      "hash": "b249aa6883c84635898ef52083a9d7a1d39785d6",
+      "date": "2026-09-02T08:54:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1646 from kevin8656/translate/id-climate",
+      "articles": []
+    },
+    {
+      "hash": "9105c66e156224e82fbb15c578d467a099a4f541",
+      "date": "2026-09-02T08:53:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1645 from kevin8656/translate/vi-bunun-pasibutbut-eight-part-polyphony",
+      "articles": []
+    },
+    {
+      "hash": "3e7abd5af6a14f017e612683698b066c9e86ac06",
+      "date": "2026-09-02T08:53:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1644 from kevin8656/translate/id-beef-noodle-soup",
+      "articles": []
+    },
+    {
+      "hash": "aa895b21479ddc8a610b7a22794d93fbef7ebf9e",
+      "date": "2026-09-02T08:53:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1643 from kevin8656/improve/ja-steve-chen-youtube-cofounder",
+      "articles": []
+    },
+    {
+      "hash": "329448a864c921210f539839f1594ab7a11257e3",
+      "date": "2026-09-02T08:53:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1641 from kevin8656/translate/de-steve-chen-youtube-cofounder",
+      "articles": []
+    },
+    {
+      "hash": "26d30c32f472c79f9bf95bcefc4abb6f516f6925",
+      "date": "2026-09-02T08:51:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 張忠謀條目新加的腳註把台積電的捐款寫成他個人的",
+      "articles": [
+        {
+          "url": "/people/張忠謀",
+          "name": "張忠謀"
+        }
+      ]
+    },
+    {
+      "hash": "46831df56411156a558a8be0dbf7f52fb8daa91d",
+      "date": "2026-09-02T08:47:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1640 from dreamline2/docs/morris-chang-footnotes-parity-e929",
+      "articles": []
+    },
+    {
+      "hash": "9dcb6dc00a0d9a46a2151c507bb3f915ef393d36",
+      "date": "2026-09-02T08:47:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1660 from aminzai/translate/de-japanese-colonial-era",
+      "articles": []
+    },
+    {
+      "hash": "affc3f0282517f6b2c8412bfd9416a7be55d329f",
+      "date": "2026-09-02T08:47:13+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1659 from aminzai/translate/vi-eggplant-egg-band",
+      "articles": []
+    },
+    {
+      "hash": "dfdec26a827972b36ba68fe7e8b514cf18c07811",
+      "date": "2026-09-02T08:47:09+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1658 from aminzai/translate/pt-beef-noodle-soup",
+      "articles": []
+    },
+    {
+      "hash": "af5bf0581092d8a8bd13d0862ea58b3fd7ae3eaa",
+      "date": "2026-09-02T08:47:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1653 from aminzai/translate/ar-taiwan-bread-and-baking",
+      "articles": []
+    },
+    {
+      "hash": "c79658261ed8c10c11934ac7419d53a8ccf7044c",
+      "date": "2026-09-02T08:47:02+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1652 from aminzai/translate/hi-taiwan-sauces-and-seasonings",
+      "articles": []
+    },
+    {
+      "hash": "d71f45577a9c58eb28b77e79fab614a7b8970385",
+      "date": "2026-09-02T08:46:58+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1651 from aminzai/translate/id-ethan-tu",
+      "articles": []
+    },
+    {
+      "hash": "3f990c82c2f3b0bb4c00aeb99685ea8928be172b",
+      "date": "2026-09-02T07:13:17+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 日治時期 → japanese-colonial-era",
+      "articles": []
+    },
+    {
+      "hash": "c7bdfef9c626545c3a65784407b52521cef6b46f",
+      "date": "2026-09-02T07:12:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: 今天沒有一步需要我自己想辦法，剩下那一步永遠會需要",
+      "articles": []
+    },
+    {
+      "hash": "d4ac84f0c8e401c35fba96c6077200415e7444d0",
+      "date": "2026-09-02T07:12:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-09-02 07:09 — 指控信第十六次攔下，整輪零即興",
+      "articles": []
+    },
+    {
+      "hash": "240fb2d5a14036b3c12f2f885d42219db8d206b5",
+      "date": "2026-09-02T07:12:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 那封第三人指控信第十六次攔下，今天沒開任何 issue",
+      "articles": []
+    },
+    {
+      "hash": "194f22a7dc15b7abf449d528d82e0b9c3da58d29",
+      "date": "2026-09-02T07:11:01+08:00",
+      "author": "aminzai",
+      "message": "translate(vi): 茄子蛋 → eggplant-egg-band",
+      "articles": []
+    },
+    {
+      "hash": "5fdf3bd2c4fbba49aa8a8139ef713530a264815a",
+      "date": "2026-09-02T07:08:26+08:00",
+      "author": "aminzai",
+      "message": "translate(pt): 牛肉麵 → beef-noodle-soup",
+      "articles": []
+    },
+    {
+      "hash": "d4ff8a2891b0c047958aa181d32ddb96c0d07e35",
+      "date": "2026-09-02T06:38:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-09-02 06:37 — D+1-D+7 窗口本日仍淨空，明日 D+30 到期",
+      "articles": []
+    },
+    {
+      "hash": "ca5b965ed9c592ba144f5a4a6b0a91f1ebed9d47",
+      "date": "2026-09-02T06:16:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-02 06:15 — 14 步全綠零 stale，rider 第三次無黃燈驗證",
+      "articles": []
+    },
+    {
+      "hash": "e4cfa5f663e0b3bf375959b4acce6bb93983a0a2",
+      "date": "2026-09-02T06:15:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] scheduler live-state dump — twmd-data-refresh-am rider",
+      "articles": []
+    },
+    {
+      "hash": "46a541c897b990e1aed27910015a824749955a3d",
+      "date": "2026-09-02T06:13:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，日文與印尼文譯文小幅前進，forks 182→183",
+      "articles": []
+    },
     {
       "hash": "8b82b9393c45d6061245d2d64086a03208d3ff14",
       "date": "2026-09-02T05:39:49+08:00",
@@ -22,6 +272,226 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-02 05:35",
       "articles": []
+    },
+    {
+      "hash": "574b1a3391710a80d321cca9c36a3f62d7752b22",
+      "date": "2026-09-02T00:58:27+08:00",
+      "author": "Kevin Huang",
+      "message": "editorial: 對齊投稿作者欄位",
+      "articles": [
+        {
+          "url": "/technology/台灣行動支付",
+          "name": "台灣行動支付"
+        }
+      ]
+    },
+    {
+      "hash": "1cec5c2fd36004f6c6bf53b8846fb4e95539b5d7",
+      "date": "2026-09-01T23:20:04+08:00",
+      "author": "Kevin Huang",
+      "message": "editorial: 補齊行動支付 SEO 描述",
+      "articles": [
+        {
+          "url": "/technology/台灣行動支付",
+          "name": "台灣行動支付"
+        }
+      ]
+    },
+    {
+      "hash": "4dd14cf6677e7bf903dac120d3beae7c03613171",
+      "date": "2026-09-01T23:16:41+08:00",
+      "author": "Kevin Huang",
+      "message": "cross-link: 建立台灣行動支付雙向延伸閱讀",
+      "articles": [
+        {
+          "url": "/economy/全聯福利中心",
+          "name": "全聯福利中心"
+        },
+        {
+          "url": "/economy/台灣金融科技發展",
+          "name": "台灣金融科技發展"
+        },
+        {
+          "url": "/technology/電子商務與數位支付生態系",
+          "name": "電子商務與數位支付生態系"
+        }
+      ]
+    },
+    {
+      "hash": "732f16804a3424e048a4e6b7e81de86b975d9444",
+      "date": "2026-09-01T23:16:35+08:00",
+      "author": "Kevin Huang",
+      "message": "editorial: 完成台灣行動支付驗證與定稿",
+      "articles": [
+        {
+          "url": "/technology/台灣行動支付",
+          "name": "台灣行動支付"
+        }
+      ]
+    },
+    {
+      "hash": "6c937d2f0ac4313e5a921f23892258c23cb19122",
+      "date": "2026-09-01T22:49:08+08:00",
+      "author": "Kevin Huang",
+      "message": "content: 撰寫台灣行動支付文章",
+      "articles": [
+        {
+          "url": "/technology/台灣行動支付",
+          "name": "台灣行動支付"
+        }
+      ]
+    },
+    {
+      "hash": "6784c2ec5f7d19aae0758af2c161bf4b271ddc85",
+      "date": "2026-09-01T22:42:04+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(vi): 台灣電子音樂與派對文化 → taiwan-electronic-music-and-party-culture",
+      "articles": []
+    },
+    {
+      "hash": "efd87d3bebe6c05513f655d7f17dd2dcabf1ccc0",
+      "date": "2026-09-01T22:42:04+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(id): 台灣機械工具產業 → taiwan-machine-tool-industry",
+      "articles": []
+    },
+    {
+      "hash": "2c5e1f446f741ac5e2fbabfaf557ba037dffd96e",
+      "date": "2026-09-01T22:42:04+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(pt): 台灣滷肉飯 → braised-pork-rice",
+      "articles": []
+    },
+    {
+      "hash": "561218062a1f9cd7dd30a3cce35a92c74408eefb",
+      "date": "2026-09-01T22:38:34+08:00",
+      "author": "Kevin Huang",
+      "message": "editorial: 通過台灣行動支付投影編輯室",
+      "articles": []
+    },
+    {
+      "hash": "6525bc01897df0661dba9abac12006508fc4ad79",
+      "date": "2026-09-01T22:32:23+08:00",
+      "author": "Kevin Huang",
+      "message": "editorial: 建立台灣行動支付投影藍圖",
+      "articles": []
+    },
+    {
+      "hash": "8d9c50eafb7bc2b5ae160df22fda753908cf0b23",
+      "date": "2026-09-01T22:30:02+08:00",
+      "author": "aminzai",
+      "message": "translate(ar): 台灣麵包與烘焙 → taiwan-bread-and-baking",
+      "articles": []
+    },
+    {
+      "hash": "c6ab19b982ed397abf485da2eeb02f940d00728c",
+      "date": "2026-09-01T22:29:37+08:00",
+      "author": "Kevin Huang",
+      "message": "research: 完成台灣行動支付媒體與讀者缺口",
+      "articles": []
+    },
+    {
+      "hash": "0b50c535be23b57a834e2fc854eddfdcac871b68",
+      "date": "2026-09-01T22:27:05+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 台灣醬料與調味 → taiwan-sauces-and-seasonings",
+      "articles": []
+    },
+    {
+      "hash": "d21ca9d1dca68ba6e7cfba00cad06628e556386f",
+      "date": "2026-09-01T22:21:40+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 杜奕瑾 → ethan-tu",
+      "articles": []
+    },
+    {
+      "hash": "c88e0d9422b51e5b559d16a431912a1ca878141a",
+      "date": "2026-09-01T20:24:06+08:00",
+      "author": "Kevin Huang",
+      "message": "research: 完成台灣行動支付 Stage 1A",
+      "articles": []
+    },
+    {
+      "hash": "de8f55a575291fcbb9cf2fb76b2a82ae5a2c4c91",
+      "date": "2026-09-01T19:58:46+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(vi): 赤燭遊戲 → red-candle-games",
+      "articles": []
+    },
+    {
+      "hash": "7fcae7c71e4c8f91fd9082bc4d459d0d775feb88",
+      "date": "2026-09-01T19:58:46+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(de): 珍珠奶茶 → bubble-tea",
+      "articles": []
+    },
+    {
+      "hash": "c5d59ed5e1d684f4e7ad8299df8acf34f77980a0",
+      "date": "2026-09-01T19:58:46+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(id): 拍謝少年 → sorry-youth-band",
+      "articles": []
+    },
+    {
+      "hash": "c76b3125344f60523e5574b02f5c2aa68a37c97d",
+      "date": "2026-09-01T19:56:46+08:00",
+      "author": "Kevin Huang",
+      "message": "research: 建立台灣行動支付 Stage 0 觀點",
+      "articles": []
+    },
+    {
+      "hash": "f3b9ccf4284bb6ebf4bddb1b487b850cb2c9c0c7",
+      "date": "2026-09-01T18:12:17+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(de): 台灣板塊運動與地震活動 → tectonic-plates-and-seismic-activity",
+      "articles": []
+    },
+    {
+      "hash": "017e9feb5a4f35d01e93d362e6b7592c4366fc7d",
+      "date": "2026-09-01T18:12:17+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(id): 氣候 → climate",
+      "articles": []
+    },
+    {
+      "hash": "d3ce4d7f4c1025553a5cdbef82571f6c02ba73bd",
+      "date": "2026-09-01T18:12:17+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(vi): 八部合音 → bunun-pasibutbut-eight-part-polyphony",
+      "articles": []
+    },
+    {
+      "hash": "8a4c641a2e2d02b2e0c53819d76ddb7eb2c54bfd",
+      "date": "2026-09-01T17:24:49+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(id): 牛肉麵 → beef-noodle-soup",
+      "articles": []
+    },
+    {
+      "hash": "08313e2c0be98dce65bfa2f4dd5f2b5c6895c386",
+      "date": "2026-09-01T16:35:07+08:00",
+      "author": "Kevin Huang",
+      "message": "fix(ja): rewrite Steve Chen translation for style and fidelity",
+      "articles": []
+    },
+    {
+      "hash": "5faa538d54605e40dfc353e42180ffbe203d66a7",
+      "date": "2026-09-01T16:07:56+08:00",
+      "author": "Kevin Huang",
+      "message": "translate(de): 陳士駿 → steve-chen-youtube-cofounder",
+      "articles": []
+    },
+    {
+      "hash": "38b7284eddb254b15c29f0fe12bb18b8cb4c48e2",
+      "date": "2026-09-01T02:02:45+00:00",
+      "author": "dreamline2",
+      "message": "docs(people): standardize Morris Chang footnotes across zh and i18n",
+      "articles": [
+        {
+          "url": "/people/張忠謀",
+          "name": "張忠謀"
+        }
+      ]
     },
     {
       "hash": "37638e1737a94e2d3edf5069c8ed1ad859fa4966",
@@ -84945,713 +85415,6 @@
           "name": "吳明益"
         }
       ]
-    },
-    {
-      "hash": "5e7fbf87d836ffe04c71e4ca942a57433fec9bd8",
-      "date": "2026-03-17T19:50:28+08:00",
-      "author": "frank890417",
-      "message": "fix: list items inside content boundary (list-style-position: inside)",
-      "articles": []
-    },
-    {
-      "hash": "0db07a4c87fe499f0838f0f498b1c7149abbd261",
-      "date": "2026-03-17T19:50:01+08:00",
-      "author": "frank890417",
-      "message": "design: subtle link style - dark text with light underline, no blue",
-      "articles": []
-    },
-    {
-      "hash": "6b2fbba22f08b1292eb40a1cc50db92fd28ba66a",
-      "date": "2026-03-17T19:49:01+08:00",
-      "author": "frank890417",
-      "message": "fix: increase heading top margin (h2: 4rem, h3: 3rem) for better visual separation",
-      "articles": [
-        {
-          "url": "/people/戴資穎",
-          "name": "戴資穎"
-        }
-      ]
-    },
-    {
-      "hash": "ff4239ff1cd87ec60677599db8aea462a9d5fa60",
-      "date": "2026-03-17T19:48:23+08:00",
-      "author": "frank890417",
-      "message": "design: base font-weight 600 for Noto Serif TC",
-      "articles": []
-    },
-    {
-      "hash": "1b976e2335393c1bc94b48224dacf0627910184c",
-      "date": "2026-03-17T19:47:42+08:00",
-      "author": "frank890417",
-      "message": "design: typography overhaul - prose spacing, image shadows, table styling, justified text",
-      "articles": []
-    },
-    {
-      "hash": "228d9b68ebcb9b2d590c432770b7d31b45ed5bb4",
-      "date": "2026-03-17T19:45:42+08:00",
-      "author": "frank890417",
-      "message": "design: hero natural earthy redesign + fix card spacing",
-      "articles": []
-    },
-    {
-      "hash": "2061ef8fe9bf916ba27faee0e215026508775362",
-      "date": "2026-03-17T19:44:59+08:00",
-      "author": "frank890417",
-      "message": "content: literary rewrite of all 12 Hub pages - curated magazine quality",
-      "articles": [
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/lifestyle/_Lifestyle Hub",
-          "name": "_Lifestyle Hub"
-        }
-      ]
-    },
-    {
-      "hash": "495a6480bc2ccf5438d7ee14517821e46ceb01b5",
-      "date": "2026-03-17T19:44:25+08:00",
-      "author": "frank890417",
-      "message": "design: switch entire site to Noto Serif TC",
-      "articles": [
-        {
-          "url": "/nature/_Nature Hub",
-          "name": "_Nature Hub"
-        },
-        {
-          "url": "/people/_People Hub",
-          "name": "_People Hub"
-        },
-        {
-          "url": "/society/_Society Hub",
-          "name": "_Society Hub"
-        },
-        {
-          "url": "/technology/_Technology Hub",
-          "name": "_Technology Hub"
-        }
-      ]
-    },
-    {
-      "hash": "49c11742ab720ce0b6b23705e6b8f37ea8593cbd",
-      "date": "2026-03-17T19:43:25+08:00",
-      "author": "frank890417",
-      "message": "feat: People category expansion - 8+ new figures across arts, science, sports, politics",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        },
-        {
-          "url": "/music/_Music Hub",
-          "name": "_Music Hub"
-        },
-        {
-          "url": "/people/吳明益",
-          "name": "吳明益"
-        }
-      ]
-    },
-    {
-      "hash": "07b33f112a8ef9257c8f222f2581c1d2e98862bd",
-      "date": "2026-03-17T19:41:53+08:00",
-      "author": "frank890417",
-      "message": "fix: remove Cannes Immersive Market from founder bio (unconfirmed)",
-      "articles": [
-        {
-          "url": "/about/創辦人",
-          "name": "創辦人"
-        }
-      ]
-    },
-    {
-      "hash": "c3612de2897df43fbc3d948461a5ec1578017679",
-      "date": "2026-03-17T19:41:20+08:00",
-      "author": "frank890417",
-      "message": "design: heavier Noto Serif TC weights (600/900) for cover story",
-      "articles": [
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        },
-        {
-          "url": "/people/戴資穎",
-          "name": "戴資穎"
-        }
-      ]
-    },
-    {
-      "hash": "7a4c42f427fc3cc974659dcd0df2b814c676a22f",
-      "date": "2026-03-17T19:39:04+08:00",
-      "author": "frank890417",
-      "message": "chore: add publish.sh one-command pipeline",
-      "articles": [
-        {
-          "url": "/people/唐鳳",
-          "name": "唐鳳"
-        },
-        {
-          "url": "/people/李遠哲",
-          "name": "李遠哲"
-        }
-      ]
-    },
-    {
-      "hash": "a75816632f361bf162c61b328c0582ee56f8c400",
-      "date": "2026-03-17T19:37:37+08:00",
-      "author": "frank890417",
-      "message": "feat: Taiwan flag favicon 🇹🇼",
-      "articles": [
-        {
-          "url": "/geography/_Geography Hub",
-          "name": "_Geography Hub"
-        }
-      ]
-    },
-    {
-      "hash": "5f050df729fbf72fbc7c8c12cdf377f31d56274e",
-      "date": "2026-03-17T19:37:10+08:00",
-      "author": "frank890417",
-      "message": "fix: change '今天' to '當代' in cover story timeline",
-      "articles": [
-        {
-          "url": "/history/_History Hub",
-          "name": "_History Hub"
-        }
-      ]
-    },
-    {
-      "hash": "98aa41f9c6faa7bb25ebafcca58a91272b3f6ffc",
-      "date": "2026-03-17T19:36:14+08:00",
-      "author": "frank890417",
-      "message": "design: hero section visual upgrade - typography and layout polish",
-      "articles": [
-        {
-          "url": "/people/李遠哲",
-          "name": "李遠哲"
-        }
-      ]
-    },
-    {
-      "hash": "7bc6bcfdf79e5e7fa88ecc7fa05514eed683b8ac",
-      "date": "2026-03-17T19:33:41+08:00",
-      "author": "frank890417",
-      "message": "fix: restore Cover Story timeline + Noto Serif TC, widen card grid, image fallback",
-      "articles": [
-        {
-          "url": "/people/侯孝賢",
-          "name": "侯孝賢"
-        },
-        {
-          "url": "/people/張忠謀",
-          "name": "張忠謀"
-        }
-      ]
-    },
-    {
-      "hash": "8be1115ce29b9d8fd678888fac56d2d6f7fca34a",
-      "date": "2026-03-17T19:27:59+08:00",
-      "author": "frank890417",
-      "message": "feat: category cover photos from Wikimedia + README overhaul as product page",
-      "articles": [
-        {
-          "url": "/people/周杰倫",
-          "name": "周杰倫"
-        }
-      ]
-    },
-    {
-      "hash": "838fcfc35d4c325deb1c4b3dbf17cba639c2451a",
-      "date": "2026-03-17T19:24:16+08:00",
-      "author": "frank890417",
-      "message": "feat: enriched 6 Hub pages with curated content and Wikimedia images",
-      "articles": [
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/music/_Music Hub",
-          "name": "_Music Hub"
-        },
-        {
-          "url": "/people/鄧麗君",
-          "name": "鄧麗君"
-        }
-      ]
-    },
-    {
-      "hash": "7c530822807546a827042cb2e425ab7448eebe01",
-      "date": "2026-03-17T19:22:39+08:00",
-      "author": "frank890417",
-      "message": "design: cover story section redesign - card grid, hover effects, gradient accents",
-      "articles": []
-    },
-    {
-      "hash": "22c952470f545d4c9019372caf5a68cacb06c9f6",
-      "date": "2026-03-17T19:22:31+08:00",
-      "author": "frank890417",
-      "message": "feat: Wikimedia Commons images for all articles - visual content upgrade",
-      "articles": []
-    },
-    {
-      "hash": "a1dbfb96cbbc430ad153f8898210790b5e0893e8",
-      "date": "2026-03-17T19:22:28+08:00",
-      "author": "frank890417",
-      "message": "feat: enriched 6 more Hub pages with curated content and Wikimedia images",
-      "articles": [
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        },
-        {
-          "url": "/food/夜市文化",
-          "name": "夜市文化"
-        },
-        {
-          "url": "/food/珍珠奶茶",
-          "name": "珍珠奶茶"
-        }
-      ]
-    },
-    {
-      "hash": "c621db6c8192553097e3679b7b9c0906fb454f1c",
-      "date": "2026-03-17T19:20:40+08:00",
-      "author": "frank890417",
-      "message": "fix: convert [[wikilinks]] to proper HTML links on category and article pages",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/food/牛肉麵",
-          "name": "牛肉麵"
-        },
-        {
-          "url": "/geography/_Geography Hub",
-          "name": "_Geography Hub"
-        },
-        {
-          "url": "/history/_History Hub",
-          "name": "_History Hub"
-        }
-      ]
-    },
-    {
-      "hash": "4ce5b80ef26eb7c7408addf8d17aca38c7e587b7",
-      "date": "2026-03-17T19:18:26+08:00",
-      "author": "frank890417",
-      "message": "feat: 4 more zh-TW articles - indie music, national parks, new media art, night market economics",
-      "articles": []
-    },
-    {
-      "hash": "3e123359a1ef0237094fb845d3534b1b0b42b752",
-      "date": "2026-03-17T19:17:38+08:00",
-      "author": "frank890417",
-      "message": "feat: 12 new zh-TW articles - history, geography, food, people, music, nature, art, economy",
-      "articles": [
-        {
-          "url": "/economy/夜市經濟學",
-          "name": "夜市經濟學"
-        }
-      ]
-    },
-    {
-      "hash": "297a85971e754aeba20e1670b36b7050c8b3e7c2",
-      "date": "2026-03-17T19:16:36+08:00",
-      "author": "frank890417",
-      "message": "feat: gentle language suggestion banner for non-Chinese visitors (localStorage dismissible)",
-      "articles": [
-        {
-          "url": "/art/新媒體藝術",
-          "name": "新媒體藝術"
-        }
-      ]
-    },
-    {
-      "hash": "44fec73aefaece149372ac632d277e4e192cd494",
-      "date": "2026-03-17T19:14:50+08:00",
-      "author": "frank890417",
-      "message": "feat: why Traditional Chinese - language as cultural heritage statement on homepage",
-      "articles": [
-        {
-          "url": "/music/獨立音樂場景",
-          "name": "獨立音樂場景"
-        },
-        {
-          "url": "/nature/國家公園",
-          "name": "國家公園"
-        }
-      ]
-    },
-    {
-      "hash": "31350215b9de30c1d94ca7e9f240ffa262f63b72",
-      "date": "2026-03-17T19:11:29+08:00",
-      "author": "frank890417",
-      "message": "feat: 8 new zh-TW articles (228, geography, food, people) + sync all content",
-      "articles": [
-        {
-          "url": "/people/李安",
-          "name": "李安"
-        },
-        {
-          "url": "/people/蔡英文",
-          "name": "蔡英文"
-        }
-      ]
-    },
-    {
-      "hash": "60b9cd78883b334ae222ab863ea7262ba2463111",
-      "date": "2026-03-17T19:06:10+08:00",
-      "author": "frank890417",
-      "message": "feat: 13 new English articles - major EN content expansion",
-      "articles": [
-        {
-          "url": "/food/牛肉麵",
-          "name": "牛肉麵"
-        },
-        {
-          "url": "/food/珍珠奶茶",
-          "name": "珍珠奶茶"
-        },
-        {
-          "url": "/geography/地形與地質",
-          "name": "地形與地質"
-        },
-        {
-          "url": "/geography/氣候",
-          "name": "氣候"
-        }
-      ]
-    },
-    {
-      "hash": "1b3a89c3135356b24a178868e35682428fd3cac9",
-      "date": "2026-03-17T18:58:16+08:00",
-      "author": "frank890417",
-      "message": "refactor: unified sync script, content.config.ts, clean up deprecated scripts",
-      "articles": [
-        {
-          "url": "/history/二二八事件",
-          "name": "二二八事件"
-        }
-      ]
-    },
-    {
-      "hash": "c8452bc15527d689808e5f85796102f72d69d66f",
-      "date": "2026-03-17T18:47:00+08:00",
-      "author": "frank890417",
-      "message": "fix: P0/P1 UX improvements - en coming soon, hero bilingual, graph readability, impactful stats, extended reading",
-      "articles": []
-    },
-    {
-      "hash": "59707f7996ad779a0db5b0b622fb91882e425732",
-      "date": "2026-03-17T18:45:58+08:00",
-      "author": "frank890417",
-      "message": "feat: AI-assisted contribution path - paste prompt to ChatGPT/Claude/Gemini",
-      "articles": []
-    },
-    {
-      "hash": "df927ce46b9cfbdc4865c41dc5148dddfe519e80",
-      "date": "2026-03-17T18:34:56+08:00",
-      "author": "frank890417",
-      "message": "fix: limit image max-height to 300-400px, prevent oversized images",
-      "articles": []
-    },
-    {
-      "hash": "5945b29f5ac844b3c53071fa009b16a751cfcae0",
-      "date": "2026-03-17T18:33:10+08:00",
-      "author": "frank890417",
-      "message": "feat: enhanced knowledge graph with Hub wikilink parsing and cross-category edges",
-      "articles": []
-    },
-    {
-      "hash": "2a3f03157e058691ff34781a5fd27917405eae6e",
-      "date": "2026-03-17T18:31:57+08:00",
-      "author": "frank890417",
-      "message": "feat: render Hub SSOT content on category pages - no more blog-only layout",
-      "articles": []
-    },
-    {
-      "hash": "477059c52ecb511969df2afd4dff8adec1592cc3",
-      "date": "2026-03-17T18:24:26+08:00",
-      "author": "frank890417",
-      "message": "feat: add Wikimedia Commons CC images to knowledge articles",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        },
-        {
-          "url": "/geography/_Geography Hub",
-          "name": "_Geography Hub"
-        }
-      ]
-    },
-    {
-      "hash": "dc151a804e511c26bab9cb6536ce3f4d52b8c525",
-      "date": "2026-03-17T18:17:00+08:00",
-      "author": "frank890417",
-      "message": "fix: separate zh-TW and en content - no more mixed language in category pages",
-      "articles": []
-    },
-    {
-      "hash": "e48bc40bb1916a61e57a2872d809e3a180979c8e",
-      "date": "2026-03-17T18:15:19+08:00",
-      "author": "frank890417",
-      "message": "feat: curated content for all 12 Hub pages",
-      "articles": [
-        {
-          "url": "/society/_Society Hub",
-          "name": "_Society Hub"
-        }
-      ]
-    },
-    {
-      "hash": "305efb77e7a87d4c2246540c0bda04209ce135f8",
-      "date": "2026-03-17T18:13:37+08:00",
-      "author": "frank890417",
-      "message": "feat: contributors avatar section in README and About page",
-      "articles": [
-        {
-          "url": "/geography/_Geography Hub",
-          "name": "_Geography Hub"
-        },
-        {
-          "url": "/lifestyle/_Lifestyle Hub",
-          "name": "_Lifestyle Hub"
-        },
-        {
-          "url": "/technology/_Technology Hub",
-          "name": "_Technology Hub"
-        }
-      ]
-    },
-    {
-      "hash": "12926dd68efa9eb11f32ef06eecdc95366884ee8",
-      "date": "2026-03-17T18:11:42+08:00",
-      "author": "frank890417",
-      "message": "feat: sponsor tiers on about page, SSOT/meta nodes in knowledge graph",
-      "articles": [
-        {
-          "url": "/music/_Music Hub",
-          "name": "_Music Hub"
-        },
-        {
-          "url": "/nature/_Nature Hub",
-          "name": "_Nature Hub"
-        },
-        {
-          "url": "/people/_People Hub",
-          "name": "_People Hub"
-        }
-      ]
-    },
-    {
-      "hash": "0aa4f9e6d65572eacb3af4593015ab8e4c70ab2d",
-      "date": "2026-03-17T18:08:38+08:00",
-      "author": "frank890417",
-      "message": "feat: mobile hamburger menu, contribute page how-it-works section (lang/md/graph/AI)",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        }
-      ]
-    },
-    {
-      "hash": "af42bf7f61289ac70b71b0f3ecbcdfa9f34067ad",
-      "date": "2026-03-17T18:03:16+08:00",
-      "author": "frank890417",
-      "message": "feat: CI/CD cancel-in-progress, expanded about timeline with SSOT concept from AI talk",
-      "articles": []
-    },
-    {
-      "hash": "d912dc6d0f73cfa8aae0a6ecfbd98df1883546ca",
-      "date": "2026-03-17T17:59:44+08:00",
-      "author": "frank890417",
-      "message": "feat: add IG link, fix stats to 34, add international benchmarks to README",
-      "articles": []
-    },
-    {
-      "hash": "0043eb2a5948cba21a0b5237edfeb7b562b08886",
-      "date": "2026-03-17T17:54:52+08:00",
-      "author": "frank890417",
-      "message": "feat: enhanced knowledge graph with EN articles, tag cross-links, special nodes",
-      "articles": []
-    },
-    {
-      "hash": "3df57f829a1b24bd8e4abbd68f9a2e4798172410",
-      "date": "2026-03-17T17:53:43+08:00",
-      "author": "frank890417",
-      "message": "feat: about page with founder photo, Muse, MonoLab",
-      "articles": []
-    },
-    {
-      "hash": "8df7a3a98e2a16cc290185b9a36e5aaf90485ffe",
-      "date": "2026-03-17T17:52:38+08:00",
-      "author": "frank890417",
-      "message": "feat: curated exhibition-style category and article pages",
-      "articles": []
-    },
-    {
-      "hash": "bb4da679c1f69571b8e16a6fff2d3533a134da7b",
-      "date": "2026-03-17T17:52:03+08:00",
-      "author": "frank890417",
-      "message": "fix: favicon to Taiwan island silhouette",
-      "articles": []
-    },
-    {
-      "hash": "f00e0207a71b3312ff1179b99a7f3f611a96d924",
-      "date": "2026-03-17T17:51:35+08:00",
-      "author": "frank890417",
-      "message": "fix: revert favicon to 🇹🇼 emoji",
-      "articles": []
-    },
-    {
-      "hash": "03ce82fa44feeef4565dd6dc31042c7e70e69094",
-      "date": "2026-03-17T17:49:59+08:00",
-      "author": "frank890417",
-      "message": "fix: favicon to TW.md logo (cross-platform, no emoji)",
-      "articles": []
-    },
-    {
-      "hash": "7e22967bf2bdd4ad9939c4f3c7b5318773125564",
-      "date": "2026-03-17T17:47:52+08:00",
-      "author": "frank890417",
-      "message": "feat: muggle-friendly /contribute page with 3 paths (form, email, PR)",
-      "articles": []
-    },
-    {
-      "hash": "8aa3a5eadf18b5ecf30bc57d342a2d8d90054aa5",
-      "date": "2026-03-17T17:41:33+08:00",
-      "author": "frank890417",
-      "message": "feat: literary timeline cover story, /contributing page, photo + Muse/MonoLab in about",
-      "articles": []
-    },
-    {
-      "hash": "8d1d3bf5da33867522b57b80ed5ae2b6c2180a3e",
-      "date": "2026-03-17T17:39:20+08:00",
-      "author": "frank890417",
-      "message": "fix: standardize frontmatter in both knowledge/ SSOT and src/content/, add 看見台灣引言集",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/culture/族群（閩南客家原住民外省新住民）",
-          "name": "族群（閩南客家原住民外省新住民）"
-        },
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        }
-      ]
-    },
-    {
-      "hash": "8df70b145dfdc3eef470537f1d602d53e4fa3665",
-      "date": "2026-03-17T17:37:31+08:00",
-      "author": "frank890417",
-      "message": "feat: modern full-width layout, sticky glassmorphism nav, floating .md button, /graph link",
-      "articles": []
-    },
-    {
-      "hash": "57131474b8f79ec1348b2441aabb0cc89bb30f97",
-      "date": "2026-03-17T17:35:35+08:00",
-      "author": "frank890417",
-      "message": "fix: support Chinese slugs in article routes",
-      "articles": []
-    },
-    {
-      "hash": "c687ddaf68d39654ef39e4d6adf8671d035bf994",
-      "date": "2026-03-17T17:34:07+08:00",
-      "author": "frank890417",
-      "message": "feat: add 'Seeing Taiwan' historical quotes collection (zh + en)",
-      "articles": []
-    },
-    {
-      "hash": "1f54481aaa676161aa4e63c33e956fdb05afb6c7",
-      "date": "2026-03-17T17:33:52+08:00",
-      "author": "frank890417",
-      "message": "feat: complete about page with origin story and founder info",
-      "articles": [
-        {
-          "url": "/about/看見台灣引言集",
-          "name": "看見台灣引言集"
-        }
-      ]
-    },
-    {
-      "hash": "96f3501cf56d4866b73e34200630450b71f805ac",
-      "date": "2026-03-17T17:31:43+08:00",
-      "author": "frank890417",
-      "message": "docs: comprehensive README update with actual progress and correct info",
-      "articles": []
-    },
-    {
-      "hash": "ef204adc1c203094d4cbe7c9ceb03f85fc76b0ee",
-      "date": "2026-03-17T17:28:57+08:00",
-      "author": "frank890417",
-      "message": "feat: add cover story '如何理解台灣？' on homepage",
-      "articles": []
-    },
-    {
-      "hash": "320e8f713dfe57a1542ba6665f5d6aeca9165d6e",
-      "date": "2026-03-17T17:27:02+08:00",
-      "author": "frank890417",
-      "message": "feat: add /en homepage, /graph knowledge graph (D3.js), favicon 🇹🇼",
-      "articles": []
-    },
-    {
-      "hash": "982a259162fb6c17debd5d1714e5fa8072267431",
-      "date": "2026-03-17T17:24:20+08:00",
-      "author": "frank890417",
-      "message": "feat: dynamic routes for all categories + articles (36 pages)",
-      "articles": []
-    },
-    {
-      "hash": "26828adfa931c69b9fc4dee5a14b6dac1c200336",
-      "date": "2026-03-17T17:23:31+08:00",
-      "author": "frank890417",
-      "message": "feat: UI/UX evolution - hero, nav, cards, footer, responsive design",
-      "articles": []
-    },
-    {
-      "hash": "f1c133513a19d26e52df70140dce1898ae20293a",
-      "date": "2026-03-17T17:23:15+08:00",
-      "author": "frank890417",
-      "message": "fix: standardize all frontmatter to match Astro schema",
-      "articles": []
     }
   ]
 }

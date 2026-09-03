@@ -1,8 +1,26 @@
 {
-  "_generated": "2026-09-01T22:13:21.495Z",
+  "_generated": "2026-09-02T22:14:58.027Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣行動支付：為什麼手機裡裝了好幾種支付，出門還是會帶現金？",
+        "desc": "2024 年第三季，資策會 MIC 的 5,000 份網路樣本中，92% 曾用、84% 常用行動支付。央行另一份全國成人調查卻顯示，73.8% 仍混用現金與非現金。從消費者、商家到 TWQR 的共同 QR，這篇拆開手機付款背後不同的工具、契約與確認流程，也回答為何高普及離不帶現金還有兩道門檻，並說明共同 QR 已解決什麼，又留下哪些受理與故障例外。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E8%A1%8C%E5%8B%95%E6%94%AF%E4%BB%98",
+        "date": "2026-09-02T00:58:27+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/taiwan-mobile-payments-merchant-2026.webp"
+      },
+      {
+        "title": "張忠謀",
+        "desc": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
+        "category": "people",
+        "href": "/people/%E5%BC%B5%E5%BF%A0%E8%AC%80",
+        "date": "2026-09-01T02:02:45+00:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "公館：日本帝國的研究室、戒嚴期的地下沙龍、台大學生的炸雞排，500 公尺三個世紀",
         "desc": "1928 年日本人在台北南郊蓋了帝國第六所大學「台北帝國大學」，校門外的溫州街、青田街、永康街一帶是教授宿舍區。戰後 1949 年宿舍接收給外省學者，溫州街 18 巷 16 弄 1-1 號的小屋成了被軟禁的殷海光客廳，新生南路 3 段 16 巷的紫藤廬從關務署官舍變成黨外文青沙龍，溫州街 25 號是台靜農寫到 1990 年的書房，1972-75 年校園裡的台大哲學系事件牽連 13 位教授。1999 年捷運新店線通車，公館圓環變成台大學生的吃飯 ATM。日本帝國的研究室、戒嚴期的地下沙龍、當代學生的炸雞排，三個世紀疊在 500 公尺裡。",
@@ -254,27 +272,18 @@
         "date": "2026-08-27T11:32:48+08:00",
         "readingTime": null,
         "image": "/article-images/history/taipei-first-girls-high-school-gate.webp"
-      },
-      {
-        "title": "蔣經國：把威權的門推開一條縫的人",
-        "desc": "蔣經國既是戒嚴體制的掌舵者，也是晚年啟動解嚴與政治開放的人；理解這個矛盾，才能看見台灣民主不是誰恩賜的終點。",
-        "category": "people",
-        "href": "/people/%E8%94%A3%E7%B6%93%E5%9C%8B",
-        "date": "2026-08-27T11:32:42+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "青草茶：一間沒有招牌的臺灣民間藥房",
-        "desc": "青草茶不是一種固定配方，而是一套把野草、地方市場、人情與健康信念煮進日常的臺灣生活知識。",
-        "category": "food",
-        "href": "/food/%E9%9D%92%E8%8D%89%E8%8C%B6",
-        "date": "2026-08-27T11:21:02+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Morris Chang",
+        "desc": "The semiconductor godfather and founder of TSMC, a legendary entrepreneur who transformed the global technology industry with the foundry model.",
+        "category": "people",
+        "href": "/en/people/tsmc-morris-chang",
+        "date": "2026-09-01T02:02:45+00:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Audrey Tang: Every Famous Decision She Made Was a Refusal of the “Genius” Label",
         "desc": "Kicked unconscious by classmates at eight, turning down a guaranteed place at Taipei Municipal Jianguo High School at fourteen, coming out as transgender at twenty-four while refusing to become its spokesperson, and making “no office” the first condition of joining the cabinet at thirty-five. On December 2, 2025, she accepted the Right Livelihood Award in Stockholm — and the word she stressed on stage was not “I,” but “we.”",
@@ -535,18 +544,27 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 16,
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
-      },
-      {
-        "title": "Egg Tarts: From Macao Monasteries to Taiwan’s Collective Memory of “Swarming”",
-        "desc": "The explosive rise and collapse of Taiwan’s 1998 “egg tart frenzy” not only defined the island’s “swarming” consumer behavior, but also forced KFC in Taiwan to become “an egg tart shop delayed by fried chicken.”",
-        "category": "food",
-        "href": "/en/food/portuguese-egg-tart-in-taiwan",
-        "date": "2026-07-30T04:02:34+08:00",
-        "readingTime": 6,
-        "image": "/article-images/food/dan-ta-hero.webp"
       }
     ],
     "ja": [
+      {
+        "title": "陳士駿（スティーブ・チェン）：YouTube共同創業者",
+        "desc": "8歳で台湾を離れ、27歳で誰もが動画を投稿できる場所を米国につくり、20か月後に16億5,000万ドルで売却。その後、脳腫瘍を患い、妻子とともに台湾へ戻った起業家の物語です。",
+        "category": "people",
+        "href": "/ja/people/steve-chen-youtube-cofounder",
+        "date": "2026-09-01T16:35:07+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "張忠謀（ちょう・ちゅうぼう／モリス・チャン）",
+        "desc": "半導体の教父、TSMC創業者、ウェハー受託製造モデルで世界のテクノロジー産業を変えた伝説的企業家",
+        "category": "people",
+        "href": "/ja/people/tsmc-morris-chang",
+        "date": "2026-09-01T02:02:45+00:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "サクラマス：氷河期の遺産が故郷へ帰る道 ― 絶滅の淵から流域全体の保全へと至る台湾の奇跡",
         "desc": "1917年、日本の学者・大島正満が台湾で氷河期の遺存生物「サクラマス（櫻花鉤吻鮭）」を発見しました。タイヤル族はこの魚を「Mnbang」と呼びます。生息地の破壊と個体数の激減により、1995年にはわずか200尾余りにまで追い込まれましたが、ダムの撤去、人工繁殖、そして革新的な「無水輸送」技術を通じて、2023年には1万8000尾という過去最高を記録しました。近年は変動が見られますが、1万5000尾以上の水準で安定しており、台湾における流域全体の保全の成功事例となっています。",
@@ -798,27 +816,18 @@
         "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 12,
         "image": "/article-images/society/woo-fanpage.webp"
-      },
-      {
-        "title": "『報導者』：調査報道を営業品目から公共財へ救い出した十年",
-        "desc": "4人の定期定額寄付者から毎月8,000人へ、『血涙の漁場』三部作から2026年の統一戦線工作特集まで、『報導者』が十年で投じてきたコスト――8か月の潜入、三か国にまたがる取材、長年の違反記録の照合――は、まさにアルゴリズム時代に最も誰もお金を払って読みたがらないものです。この島の市民社会は、見知らぬ人々が毎月引き落としで支える方式によって、調査報道を商業メディアの営業品目から、育て続けられながらも燃焼速度を増す公共財へと救い出しました。",
-        "category": "society",
-        "href": "/ja/society/the-reporter-investigative-journalism",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/the-reporter-brand-logo.webp"
-      },
-      {
-        "title": "台湾医療と全民健康保険：99.6% が 12.61% の上で支える世界一",
-        "desc": "1995 年 3 月 1 日の健康保険カードは、尻に火がついた状態で急いで用意されたものでした。6 日前にはカードさえ印刷されていませんでした。30 年後、2,300 万人の受診権は、5.17% の保険料率、10 年来最高の 12.61% に達した看護職離職率、そして 30 年間誰も手をつけられなかった政治的タブーの上に成り立っています。",
-        "category": "lifestyle",
-        "href": "/ja/lifestyle/taiwan-healthcare-and-national-health-insurance",
-        "date": "2026-07-30T09:46:44+09:00",
-        "readingTime": 22,
-        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
       }
     ],
     "ko": [
+      {
+        "title": "장중머우 (Morris Chang)",
+        "desc": "반도체 업계의 대부이자 TSMC 창립자, 파운드리 모델로 글로벌 기술 산업을 변화시킨 전설적인 기업가",
+        "category": "people",
+        "href": "/ko/people/tsmc-morris-chang",
+        "date": "2026-09-01T02:02:45+00:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "벚꽃 곤들매기: 빙하 시대 잔존종의 귀향길, 멸종 위기에서 유역 전체 보전으로 이끈 대만의 기적",
         "desc": "1917년, 일본 학자 오오시마 마사미츠가 대만에서 빙하 시대 잔존 생물인 「벚꽃 곤들매기」를 발견하였으며, 타이야족은 이를 「음방(Mnbang)」이라 불렀다. 서식지 파괴와 개체 수 급감으로 1995년 겨우 200여 마리만 남은 위기를 겪은 후, 댐 철거, 인공 증식, 혁신적인 「무수 운송(無水運輸)」 기술을 통해 2023년 1만 8천 마리라는 최고치를 기록하였고, 최근 다소 변동이 있으나 1만 5천 마리 이상으로 안정적으로 유지되며 대만 유역 전체 보전의 성공적 사례가 되었다.",
@@ -1079,18 +1088,18 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 18,
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
-      },
-      {
-        "title": "의료법: 기관 규범과 시장 힘겨루기의 40년",
-        "desc": "타이완 의료법은 1986년에 공포되었고, 2017년에 의사의 형사책임 조항을 개정했으며, 2026년에는 3교대 간호사 대 환자 비율을 법에 편입했다. 법은 ‘간호사 한 명이 최대 몇 병상을 맡는가’는 써낼 수 있지만, ‘그 간호사가 실제로 있는가’는 써내지 못한다 — 간호사 면허 32만 장 가운데, 임상에는 19만 쌍의 손만 남았다. 이것은 건강보험법도 의사법도 아니다. 타이완에서 ‘병원’이라는 기관이 어떻게 존재하는지를 규정하는 근본법이며, 의료의 공익성과 시장 메커니즘이 40년째 풀지 못한 힘겨루기이기도 하다.",
-        "category": "society",
-        "href": "/ko/society/medical-care-act",
-        "date": "2026-07-29T13:39:11+09:00",
-        "readingTime": 18,
-        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
       }
     ],
     "es": [
+      {
+        "title": "Morris Chang (張忠謀)",
+        "desc": "El padrino de los semiconductores y fundador de TSMC, un empresario legendario que transformó la industria tecnológica mundial mediante el modelo de fundición de semiconductores.",
+        "category": "people",
+        "href": "/es/people/tsmc-morris-chang",
+        "date": "2026-09-01T02:02:45+00:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "La trucha de Formosa: el regreso de un relicto glacial, de la extinción inminente a un modelo de conservación de cuenca en Taiwán",
         "desc": "En 1917, el académico japonés Masao Ōshima descubrió en Taiwán la trucha de Formosa (*Oncorhynchus masou formosanus*), un organismo relicto de la era glacial que los pueblos atayal denominan «Mnbang». Tras décadas de degradación de su hábitat y un descenso poblacional que en 1915 la redujo a apenas unos 200 ejemplares, la demolición de presas, la cría artificial y una innovadora técnica de «transporte en secolo de huevos embrionados» permitieron que la población alcanzara un máximo de 18 000 ejemplares en 2023. Aunque en años recientes se han registrado fluctuaciones, la cifra se ha estabilizado por encima de los 15 000 ejemplares, convirtiéndose en un caso de éxito de conservación integral de cuencas hidrográficas en Taiwán.",
@@ -1351,18 +1360,18 @@
         "date": "2026-07-27T22:09:24+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "Pequeño Norte Department Store: El rey de los artículos generales de Taiwán en las luces nocturnas, de puesto de mariscos a \"salvavidas de los padres\" durante treinta años",
-        "desc": "Fundado en 1994 en el Mercado Nocturno Pequeño Norte de Tainan, Pequeño Norte Department Store, gracias a su estrategia de \"apertura las 24 horas\" y \"vender lo que otros no venden\", se transformó de una tienda de mariscos al borde de la quiebra en el líder de ferretería con más de 190 sucursales en todo el país. Es el salvavidas nocturno de los padres, la estación de reabastecimiento del nostalgia para los trabajadores migrantes y el milagro de supervivencia más resistente de la industria minorista de Taiwán.",
-        "category": "lifestyle",
-        "href": "/es/lifestyle/xiaobei-department-store",
-        "date": "2026-07-27T22:09:24+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "Morris Chang (Zhang Zhongmou)",
+        "desc": "Le parrain des semi-conducteurs, fondateur de TSMC, entrepreneur légendaire ayant transformé l'industrie technologique mondiale grâce au modèle de la fonderie de wafers.",
+        "category": "people",
+        "href": "/fr/people/tsmc-morris-chang",
+        "date": "2026-09-01T02:02:45+00:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "L'Incident du 28 février 1947 — Dix jours qui ont changé Taïwan",
         "desc": "Comment le stand de cigarettes d'une veuve a allumé trente-huit ans de silence sur une île entière : les dix jours de février 1947 qui ont scellé le destin de Taïwan, et une blessure qui, soixante-dix-huit ans plus tard, n'est toujours pas refermée.",
@@ -1623,15 +1632,6 @@
         "date": "2026-07-29T13:39:11+09:00",
         "readingTime": 14,
         "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
-      },
-      {
-        "title": "Prime Time : une allumette, le culte et la nostalgie des salons taïwanais",
-        "desc": "Des mélodrames de Qiong Yao des années 1990 aux mèmes \"Pili-huo\" des années 2000, les feuilletons de 20h ne sont pas seulement un bruit de fond à Taïwan, mais un miracle industriel de production en direct synchronisé avec la réalité.",
-        "category": "culture",
-        "href": "/fr/culture/taiwan-prime-time-drama",
-        "date": "2026-07-27T22:09:24+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "vi": [

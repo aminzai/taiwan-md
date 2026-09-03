@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T22:12:54.250Z",
+  "lastUpdated": "2026-09-02T22:14:30.077Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 8872,
+      "commits": 8904,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-02 05:39:49 +0800",
+      "lastCommitAt": "2026-09-03 05:39:49 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1588,
-        "system": 4772,
-        "translation": 1968
+        "content": 1589,
+        "system": 4783,
+        "translation": 1969
       }
     },
     {
@@ -63,16 +63,16 @@
     },
     {
       "login": "dreamline2",
-      "commits": 45,
+      "commits": 46,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4657845?v=4",
       "profileUrl": "https://github.com/dreamline2",
       "firstCommitAt": "2026-04-03 17:23:59 +0900",
-      "lastCommitAt": "2026-06-18 23:04:24 +0900",
+      "lastCommitAt": "2026-09-01 02:02:45 +0000",
       "primaryArea": "translation",
       "breakdown": {
         "content": 7,
         "system": 21,
-        "translation": 22
+        "translation": 23
       }
     },
     {
@@ -90,6 +90,20 @@
       }
     },
     {
+      "login": "aminzai",
+      "commits": 35,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
       "login": "Zaious",
       "commits": 31,
       "avatarUrl": "https://avatars.githubusercontent.com/u/128442444?v=4",
@@ -101,20 +115,6 @@
         "content": 24,
         "system": 6,
         "translation": 1
-      }
-    },
-    {
-      "login": "aminzai",
-      "commits": 29,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
       }
     },
     {
@@ -330,18 +330,18 @@
       "types": ["💻", "🤔", "🌍", "🔧", "📖", "🚇"]
     },
     {
-      "login": "Zaious",
-      "name": "Zaious (@ChronicleCore)",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/128442444?v=4",
-      "profileUrl": "https://github.com/Zaious",
-      "types": ["💻", "🖋️", "🌍"]
-    },
-    {
       "login": "aminzai",
       "name": "aminzai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "types": ["💻"]
+    },
+    {
+      "login": "Zaious",
+      "name": "Zaious (@ChronicleCore)",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/128442444?v=4",
+      "profileUrl": "https://github.com/Zaious",
+      "types": ["💻", "🖋️", "🌍"]
     },
     {
       "login": "fredchu",
@@ -888,16 +888,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 8872,
+      "commits": 8904,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-02 05:39:49 +0800",
+      "lastCommitAt": "2026-09-03 05:39:49 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1588,
-        "system": 4772,
-        "translation": 1968
+        "content": 1589,
+        "system": 4783,
+        "translation": 1969
       }
     },
     {
@@ -988,16 +988,16 @@
     },
     {
       "login": "dreamline2",
-      "commits": 45,
+      "commits": 46,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4657845?v=4",
       "profileUrl": "https://github.com/dreamline2",
       "firstCommitAt": "2026-04-03 17:23:59 +0900",
-      "lastCommitAt": "2026-06-18 23:04:24 +0900",
+      "lastCommitAt": "2026-09-01 02:02:45 +0000",
       "primaryArea": "translation",
       "breakdown": {
         "content": 7,
         "system": 21,
-        "translation": 22
+        "translation": 23
       }
     },
     {
@@ -1030,7 +1030,7 @@
     }
   ],
   "weeklyActive": 3,
-  "monthlyActive": 9,
+  "monthlyActive": 10,
   "recentlyJoined": [
     {
       "login": "ting-hong-shieh",
