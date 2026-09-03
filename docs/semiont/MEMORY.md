@@ -345,3 +345,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-03 | 070844-twmd-feedback-triage | 指控信第十七次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；報表這次印越南文標題，換一副面孔 | 接住它的是讀完全文這道順序，認得那串 id 只是順手 | [→](memory/2026-09-03-070844-twmd-feedback-triage.md) |
 | 2026-09-03 | 091031-twmd-maintainer-am | main 的 Python tests 紅四天沒人看到，替它背黑鍋的是一支不相關的投稿；追上游修掉根因並補完 lang-sync 編碼類別；昨天寫「量不到」的三項，改用 repo 自帶的 playwright 全部量到，錨點被表頭遮住是真 bug | 宣告「這裡量不到」之前要先盤點自己有哪些尺 | [→](memory/2026-09-03-091031-twmd-maintainer-am.md) |
 | 2026-09-04 | 053633-twmd-embeddings-nightly | 12 語重建 9,904 向量 0 fail 全綠；本機端點直連免 fallback；內容跟昨夜 commit 逐位元組相同，首次乾淨 skip commit | rebuild 時間點早於當日新文章寫入時間點，是內容不變的真正原因 | [→](memory/2026-09-04-053633-twmd-embeddings-nightly.md) |
+| 2026-09-04 | 053712-twmd-routine-sync | 三層對賬第 38 輪，18 條全 in-sync 零漂移；working tree 一開始就跟 origin 同步，沒撞見前三輪那種 embeddings 並發推送 | 連三天出現的並發形狀今天沒重演，證明是排程密度的偶然不是結構性常態 | [→](memory/2026-09-04-053712-twmd-routine-sync.md) |
