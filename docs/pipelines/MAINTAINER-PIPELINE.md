@@ -362,7 +362,7 @@ gh issue list --state open --limit 30
 gh pr list --state open --json number,title,author,mergeable,createdAt,headRefName --limit 30
 gh api graphql -f query='{repository(owner:"frank890417",name:"taiwan-md"){discussions(first:25,orderBy:{field:UPDATED_AT,direction:DESC}){nodes{number title author{login} createdAt category{name} comments{totalCount}}}}}'
 git log --since="12 hours ago" --oneline
-gh run list --limit 5 --workflow="Deploy to GitHub Pages" --json conclusion,status,createdAt
+gh api "repos/frank890417/taiwan-md/actions/runs?branch=main&per_page=100" --jq '[.workflow_runs[]] | group_by(.name)[] | (sort_by(.created_at) | last) | "\(.conclusion // .status)\t\(.name)"'
 ```
 
 ### Step 1.1: git pull + branch state
@@ -438,12 +438,16 @@ git log --since="12 hours ago" --oneline
 
 ### Step 1.5: build / CI health snapshot
 
+**問「main 上每一條 workflow 最後一次跑成什麼樣」，不要點名兩條問**（2026-09-03 補）：
+
 ```bash
-gh run list --limit 5 --workflow="Deploy to GitHub Pages" --json conclusion,status,createdAt
-gh run list --limit 5 --workflow="i18n Smoke Test" --json conclusion,status,createdAt
+gh api "repos/frank890417/taiwan-md/actions/runs?branch=main&per_page=100" --jq \
+  '[.workflow_runs[]] | group_by(.name)[] | (sort_by(.created_at) | last) | "\(.conclusion // .status)\t\(.created_at)\t\(.name)"' | sort
 ```
 
-**Red flag**：連續 ≥ 2 次 failure on main → CI 壞了 → Stage 3.5 第一個 polish item 是修 CI（per 2026-05-11 PM cycle 教訓：merge 路徑無 build 觸發 + PR-side CI ≠ main deploy CI 是已知 silent gap）。
+**Red flag**：任何一條 workflow 最新一次 on main 是 `failure` → Stage 3.5 第一個 polish item 是修它（per 2026-05-11 PM cycle 教訓：merge 路徑無 build 觸發 + PR-side CI ≠ main deploy CI 是已知 silent gap）。
+
+**為什麼改成 group-by 全表**（2026-09-03 maintainer-am）：本步驟原本寫死 `--workflow="Deploy to GitHub Pages"` 與 `"i18n Smoke Test"` 兩條。`Python tests` 從 2026-08-30 起在 main 上紅了四天沒有任何一輪 cycle 看到——它不在那兩個名字裡，而且它掛 `paths` filter，紅完之後就沒有再被觸發過，`gh run list` 的預設視窗裡也不會再出現。**點名式的健康檢查只看得到造它的人當時想得到的那幾條**（LESSONS `scaffold-window-has-no-qa` 的同型；REFLEXES #82 存在代理有效）。第一個受害者是一支跟它無關的投稿 PR（#1662 Windows UTF-8 修補）：它動了 `scripts/**/*.py`，於是繼承了 main 的紅，投稿者看到的是自己的 PR 紅了。**紅在 main 上不會自己叫，它會等下一個路過的人替它背黑鍋**。
 
 ### Step 1.5b: 每個 open PR 的 CI 有沒有被 arm（2026-08-14 新增，2026-08-19 儀器化）
 
