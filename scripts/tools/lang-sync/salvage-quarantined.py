@@ -96,7 +96,7 @@ def main():
         restored = restore_run_quarantine(args.run_dir, args.run_file)
         out = pathlib.Path(args.output)
         out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text("\n".join(restored) + "\n" if restored else "")
+        out.write_text("\n".join(restored) + "\n" if restored else "", encoding="utf-8")
         print(f"restored list → {out}")
         return
 
@@ -162,7 +162,7 @@ def main():
     # 落一份清單給 commit 步驟
     out = pathlib.Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text("\n".join(restored) + "\n" if restored else "")
+    out.write_text("\n".join(restored) + "\n" if restored else "", encoding="utf-8")
     print(f"restored list → {out}")
 
 

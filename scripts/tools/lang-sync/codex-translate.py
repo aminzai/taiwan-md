@@ -112,7 +112,7 @@ def translate_one(article: dict, lang: str, dry_run: bool = False) -> tuple[bool
     if not zh_full.exists():
         return False, f"zh source not found: {zh_path}"
 
-    zh_content = zh_full.read_text()
+    zh_content = zh_full.read_text(encoding="utf-8")
     system, user_msg = build_translation_prompt(article, zh_content, lang)
 
     if dry_run:
@@ -143,7 +143,7 @@ def translate_one(article: dict, lang: str, dry_run: bool = False) -> tuple[bool
         return False, f"{fm_reason} — not saved"
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(result + "\n")
+    out_path.write_text(result + "\n", encoding="utf-8")
 
     size = out_path.stat().st_size
     if size < 1000:
@@ -165,7 +165,7 @@ def main():
     args = ap.parse_args()
 
     group_path = Path(args.group).resolve()
-    group = json.loads(group_path.read_text())
+    group = json.loads(group_path.read_text(encoding="utf-8"))
 
     # Derive lang from path: .lang-sync-tasks/{lang}/_group-X.json
     lang = args.lang or group_path.parent.name

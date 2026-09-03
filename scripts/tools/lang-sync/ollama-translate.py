@@ -54,7 +54,7 @@ def translate_article(item, model, lang):
     if not src_file.exists():
         return False, f"source not found: {zh_path}"
 
-    src_text = src_file.read_text()
+    src_text = src_file.read_text(encoding="utf-8")
     src_size = len(src_text.encode())
 
     # Compute content hash from source
@@ -127,7 +127,7 @@ YAML rules: title with apostrophes → DOUBLE quotes; tags array with single-quo
     if not fm_ok:
         return False, f"{fm_reason} — not saved"
 
-    out_path.write_text(result)
+    out_path.write_text(result, encoding="utf-8")
     return True, f"saved {len(result.encode())} bytes"
 
 
@@ -137,7 +137,7 @@ def main():
     ap.add_argument("--model", default="qwen3.6:35b-a3b-coding-nvfp4")
     args = ap.parse_args()
 
-    group = json.loads(Path(args.group).read_text())
+    group = json.loads(Path(args.group).read_text(encoding="utf-8"))
     lang = group["articles"][0]["en_path"].split("/")[0] if group["articles"] else "en"
 
     print(f"📋 Translating {len(group['articles'])} article(s) to {lang} via Ollama {args.model}", flush=True)
