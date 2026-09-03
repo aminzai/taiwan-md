@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-03 | 064108-twmd-spore-harvest-am | 黃崇仁+EZWAY 五平台 D+30 milestone，0 新留言；黃崇仁 D+7→D+30 23天四指標逐位數持平，EZWAY 三孢子緩速長尾成長；主排程節奏正式結束轉觀察者 ad-hoc | 高曝光孢子先觸頂進入完全平台期，低曝光孢子長尾更久 | [→](memory/2026-09-03-064108-twmd-spore-harvest-am.md) |
 | 2026-09-03 | 070844-twmd-feedback-triage | 指控信第十七次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；報表這次印越南文標題，換一副面孔 | 接住它的是讀完全文這道順序，認得那串 id 只是順手 | [→](memory/2026-09-03-070844-twmd-feedback-triage.md) |
 | 2026-09-03 | 091031-twmd-maintainer-am | main 的 Python tests 紅四天沒人看到，替它背黑鍋的是一支不相關的投稿；追上游修掉根因並補完 lang-sync 編碼類別；昨天寫「量不到」的三項，改用 repo 自帶的 playwright 全部量到，錨點被表頭遮住是真 bug | 宣告「這裡量不到」之前要先盤點自己有哪些尺 | [→](memory/2026-09-03-091031-twmd-maintainer-am.md) |
+| 2026-09-04 | 053633-twmd-embeddings-nightly | 12 語重建 9,904 向量 0 fail 全綠；本機端點直連免 fallback；內容跟昨夜 commit 逐位元組相同，首次乾淨 skip commit | rebuild 時間點早於當日新文章寫入時間點，是內容不變的真正原因 | [→](memory/2026-09-04-053633-twmd-embeddings-nightly.md) |
