@@ -235,7 +235,17 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
     />
     <!-- FOUC fix: hide <html> until fonts loaded (2026-05-11 picked up from
          tboydar-agent PR #1012 / fixes #401). Combined with shot-mode +
-         reader-settings init below for complete pre-paint FOUC prevention. -->
+         reader-settings init below for complete pre-paint FOUC prevention.
+
+         ⚠️ 這個閘門把「整頁可見」綁在字型事件上，所以它必須自己有出口。
+         2026-09-04 (#1666) 之前它一個出口都沒有：`fonts-loaded` 只有
+         `document.fonts.ready` 會加，沒有逾時、沒有 rejection 處理，
+         JS 關掉時也沒有任何東西會解除 `visibility: hidden`——字型來源慢、
+         被擋、或 JS 沒跑，整站就是一片空白，而且是永遠。
+         下面那條 800ms 的 fallback 管的是 justfont 的 `jf-loading`（body
+         opacity），跟這道閘門是兩回事，接不住它。
+         現在三條出口：字型事件 / 逾時 / noscript。字型用 display=swap，
+         逾時揭開時本來就有 fallback 字可讀，字型到齊後自然換上。 -->
     <style>
       html {
         visibility: hidden;
@@ -244,15 +254,28 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         visibility: visible;
       }
     </style>
+    <noscript>
+      <style>
+        /* JS 關掉時沒有任何腳本會加 .fonts-loaded — 這裡直接解除閘門，
+           否則整站對 no-JS 讀者是空白頁。 */
+        html {
+          visibility: visible;
+        }
+      </style>
+    </noscript>
     <script is:inline>
       (function () {
-        if (document.fonts) {
-          document.fonts.ready.then(function () {
-            document.documentElement.classList.add('fonts-loaded');
-          });
+        var reveal = function () {
+          document.documentElement.classList.add('fonts-loaded');
+        };
+        // 出口 2：逾時。跟下面 justfont 的 fallback 用同一個 800ms，
+        // 站上只留一個數字，不要兩套各自漂移的逾時。
+        setTimeout(reveal, 800);
+        if (document.fonts && document.fonts.ready) {
+          document.fonts.ready.then(reveal).catch(reveal);
         } else {
           // fallback for older browsers
-          document.documentElement.classList.add('fonts-loaded');
+          reveal();
         }
       })();
     </script>

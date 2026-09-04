@@ -47,6 +47,7 @@
     "check-images": "node scripts/utils/check-images.mjs",
     "check-links": "bash scripts/utils/check-links.sh",
     "check-internal-links": "bash scripts/tools/verify-internal-links.sh",
+    "check:font-gate": "node scripts/tools/check-font-gate.mjs",
     "article-health": "python3 scripts/tools/article-health.py",
     "image-ingest": "node scripts/tools/image-ingest.mjs",
     "article-health:all": "python3 scripts/tools/article-health.py --all --profile=dashboard --output=json",

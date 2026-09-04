@@ -260,3 +260,24 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  # 2026-09-04 (#1666)：站上是不是空白頁，只有站上答得出來。
+  # Layout.astro 把整頁的 visibility 綁在字型事件上；那道閘門曾經一個逾時
+  # 出口都沒有，字型檔一慢，正式站就是永久空白，而所有既有 workflow 全綠
+  # ——它們量的是 build 成不成功，沒有一個量「讀者看不看得到字」。
+  # 這一步部署完直接打正式站，把字型檔掛住，量瀏覽器真的算出來的
+  # visibility。它不讀程式碼、不信任何中間指標。
+  font-gate:
+    name: Font visibility gate (live)
+    runs-on: ubuntu-latest
+    needs: deploy
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - run: npm i -D playwright@1.59.1 --no-save
+      - run: npx playwright install chromium
+      - name: 字型拿不到時，讀者還看得到內容嗎
+        run: node scripts/tools/check-font-gate.mjs --url=https://taiwan.md --paths=/,/about/,/en/
