@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-05 | 053757-twmd-routine-sync | 三層對賬第 39 輪，18 條全 in-sync 零漂移；順路記下一份跟本 routine 無關、來源不明的 `_translation-status.json` 未提交修改 | 零漂移不是不用看的許可證，working tree 的無關雜訊也值得記一筆給下一個真正要處理它的 session | [→](memory/2026-09-05-053757-twmd-routine-sync.md) |
 | 2026-09-05 | 061656-twmd-data-refresh-am | 14 步全綠零 stale 第五天，文章 1116→1118、星數破 1166；查明並解掉昨晚記下的孤兒 `_translation-status.json` diff | 記錄不必自己解決問題，能被接住就是記錄的價值 | [→](memory/2026-09-05-061656-twmd-data-refresh-am.md) |
 | 2026-09-05 | 063808-twmd-spore-harvest-am | 0 OVERDUE，D+1-D+7 窗口連續第二天淨空；D+14 milestone（#175/176 用語保存副詞層）準時落在明天 09-06 | 空窗期的正確動作是逐條核對後安靜收工，不是為了顯得有產出找事做 | [→](memory/2026-09-05-063808-twmd-spore-harvest-am.md) |
+| 2026-09-05 | 070854-twmd-feedback-triage | 指控信第十九次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；報表這次印越南文標題 | 報表換一副面孔就足以讓辨識力失效，接住它的是順序不是記憶 | [→](memory/2026-09-05-070854-twmd-feedback-triage.md) |
