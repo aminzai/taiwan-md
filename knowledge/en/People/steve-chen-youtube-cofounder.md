@@ -47,7 +47,7 @@ After eBay acquired PayPal for US$1.5 billion, Chen left. He briefly joined Face
 
 In February 2005, Steve Chen and former PayPal colleagues Chad Hurley and Jawed Karim began building a system in Hurley's garage.
 
-Startup capital was minimal. Chen later said: "A few computers, one credit card — my credit card — and we had the system up."[^5]
+Startup capital was minimal — for a stretch, YouTube ran on Chen's personal credit card. As he later recalled: "We were self-funded, and right before we got acquired, I was reaching my credit card limit every month." He then discovered he could push two to three times past the limit by paying it off several times a month.[^5]
 
 YouTube's original concept was a video-uploading dating site, allowing people to post clips for strangers to watch. But they quickly discovered users did not care about dating — they just wanted somewhere to share video. Funny clips, family home movies, live music performances, anything. YouTube accidentally grew into an entirely different species.
 
@@ -147,7 +147,7 @@ A person who left at eight and returned at forty-one is continuing, in his own w
 
 [^4]: Wikipedia, same source: "He was also an early employee of Facebook, although he left after a few months to co-found YouTube."
 
-[^5]: Sina Finance, quoting Steve Chen interview: "A few computers, one credit card (Chen's credit card), and we had the system up."; YouTube founded February 2005, in Chad Hurley's garage.
+[^5]: [Funded on Credit Card Debt, Acquired in a Denny's: Steve Chen on YouTube's Founding Story, Startup Grind](https://www.startupgrind.com/blog/video-funded-on-credit-card-debt-acquired-in-a-dennys-steve-chen-on-youtubes-founding-story/) — Chen in his own words on self-funding YouTube and maxing out his credit card.
 
 [^6]: Wikipedia, same source: "On October 16 of that year, Chen and Hurley sold YouTube to Google for US$1.65 billion, and became Google shareholders through their YouTube equity."; Baidu Baike: "held 17% equity."
 
