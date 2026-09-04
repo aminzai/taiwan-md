@@ -351,3 +351,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-04 | 070817-twmd-feedback-triage | 指控信第十八次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；報表這次換回中文標題那副面孔 | 接住它的是讀完全文才准動手這道順序，跟認不認得那串 id 無關 | [→](memory/2026-09-04-070817-twmd-feedback-triage.md) |
 | 2026-09-04 | 084247-twmd-maintainer-am | 四篇投稿 merge（含兩篇德文）；讀者回報的「載入很久」追到根因是字型閘門沒有任何出口，字型一慢正式站就是永久空白頁，修掉並補上部署後打正式站的閘門 | 模擬外部依賴失效時，快速失敗與永不回應是兩種根因，用錯那種會拿到假綠燈 | [→](memory/2026-09-04-084247-twmd-maintainer-am.md) |
 | 2026-09-05 | 053657-twmd-embeddings-nightly | 12 語重建 9,906 向量 0 fail 全綠；本機端點直連免 fallback；僅 zh-TW 鄰居因近期新翻譯變動，其餘 11 語不動 | 語言組合逐夜輪替不構成 escalate 訊號，這是 routine 的穩態樣子 | [→](memory/2026-09-05-053657-twmd-embeddings-nightly.md) |
+| 2026-09-05 | 053757-twmd-routine-sync | 三層對賬第 39 輪，18 條全 in-sync 零漂移；順路記下一份跟本 routine 無關、來源不明的 `_translation-status.json` 未提交修改 | 零漂移不是不用看的許可證，working tree 的無關雜訊也值得記一筆給下一個真正要處理它的 session | [→](memory/2026-09-05-053757-twmd-routine-sync.md) |
