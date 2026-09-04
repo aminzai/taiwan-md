@@ -332,6 +332,45 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-04 twmd-maintainer-am — sibling-fallback-reads-as-coverage-for-the-gate-next-door：隔壁那道閘門有逾時，於是沒有人去問這一道有沒有
+
+**現象**：`Layout.astro` 用 `html { visibility: hidden }` 把整頁藏起來，等 `.fonts-loaded` 才揭開。這個 class **只有** `document.fonts.ready` 會加——沒有逾時、沒有 `.catch()`、JS 關掉時也沒有任何東西會解除它。字型檔一旦慢或不回應，`fonts.ready` 就一直 pending，正式站是**永久空白頁**。實測（playwright 把字型檔請求掛住不回應）：`/` 與 `/about/` 都是 `visibility=hidden`、可見字數 0。
+
+**為什麼四個月沒被發現**：它旁邊十幾行的地方，有一條寫著 `FOUC fallback (#401): if justfont takes > 800ms, reveal body anyway` 的 `setTimeout`。那條是真的，但它管的是 justfont 的 `jf-loading`（`body` 的 opacity），跟 `visibility` 那道是**兩個不同的 class**。兩道閘門長得像一對、註解都寫 FOUC、隔十幾行、其中一道有出口——於是讀的人（包括這次的回報者 idlccp1984，他在信裡明確寫「故本文不宣稱會無限等待」）自然把那條 fallback 讀成兩道共用的保險。**回報者因為看見了那條 fallback 而把自己的結論調弱，實際情況比他敢說的更嚴重。**
+
+**第二個現象（同一輪，發生在我自己身上）**：我寫的驗證腳本第一版用 `route.abort()` 擋掉字型主機，對正式站跑出**全綠**。因為 abort 讓請求**快速失敗**，字型進入 error 狀態、載入結束，`fonts.ready` 照樣 resolve。改成掛住不回應（不 fulfill 也不 abort）才立刻紅。**「拿不到」有兩種：快速失敗與永不回應，而這個 bug 的成因恰好是後者。** 用前者去模擬，會拿到一張證明「沒有 bug」的綠燈。這跟 [REFLEXES #38](REFLEXES.md) 混維度同源，只是載體是「失敗模式的模擬」而不是 status enum。
+
+**第三個現象（同一輪）**：本機把正式站 HTML 抓下來、只換掉閘門那段 script 做 A/B，第一次跑**兩邊都綠**。因為那份 HTML 的 `visibility: hidden` 住在 `/_astro/*.css`，本機 serve 時 404，閘門根本沒載進來。是因為順手看了 control 組才發現——**A/B 的價值全在 control 組真的會紅**，只看 B 組綠就收工，等於量了一個沒有閘門的頁面。
+
+**修補候選**：
+
+- (a) 已 ship：三條出口（800ms 逾時、`.catch()`、`<noscript>` 解除），逾時刻意跟 justfont 那條共用同一個數字，不留兩套會各自漂移的逾時。
+- (b) 已 ship：`scripts/tools/check-font-gate.mjs` 接在 deploy 之後打正式站，把字型檔掛住，量瀏覽器真的算出來的 `visibility`。既有 workflow 全綠這麼久，是因為沒有一條在問「讀者看不看得到字」。
+- (c) **未做，值得想**：任何把「整頁可見性」綁在非同步事件上的 CSS 閘門，都該有一條規則——閘門與它的解除者必須寫在一起，且解除者至少要有一條不依賴那個事件的路徑。目前沒有任何 lint 在查這件事，而 `visibility` / `opacity` / `display` 都能造出同型閘門。
+- (d) **未做**：模擬外部依賴失效的測試，要明寫模擬的是哪一種失效（快速失敗 vs 永不回應 vs 慢），並且對「應該紅的那組」實際跑出紅色，才算這支測試有效。
+
+**verification_count**: 1
+
+**對應**：[REFLEXES #38](REFLEXES.md)（混維度——abort 與 hang 是兩種根因）／[REFLEXES #82](REFLEXES.md)（存在代理有效——fallback 存在 ≠ 這道閘門有出口）／[REFLEXES #69](REFLEXES.md)（外部尺——只有瀏覽器答得出讀者看不看得到）／LESSONS `named-healthcheck-cannot-see-what-it-does-not-name`（2026-09-03，同族：閘門看不見自己沒點名的東西）。
+
+### 2026-09-04 twmd-maintainer-am — adding-a-live-url-to-an-unverifiable-quote-looks-like-an-upgrade：把查不到出處的引語掛上一個查得到、但沒有那句話的 URL
+
+**現象**：站上〈陳士駿〉寫「陳士駿後來說：『幾台電腦，一張信用卡——我的信用卡——就把系統建起來了。』」，腳註掛「新浪財經」且**沒有 URL**。PR #1630 把同一句話改掛到 Sequoia Capital 的 Crucible Moments podcast——URL 是真的、點得進去、頁面也真的在講 YouTube 創業，**但整份逐字稿裡沒有這句話**。同一個 PR 引的另一句收購引語（`we were kind of forced down that path…`）則完全對得上，所以問題不是投稿者亂寫，是他把一句既有的、來源不明的話搬到一個看起來更可靠的位置。
+
+**為什麼這比原本更難抓**：沒有 URL 的腳註會讓審的人起疑（我們自己的 `footnote-url` 檢查也會叫）；有 URL、URL 又活著、內容主題還相關的腳註，會讓人以為已經有人查過了。**這個改動在每一個機械指標上都是進步**（URL 從無到有、`footnote-url` 從 warn 到 pass），只有真的把逐字稿抓下來比對才會發現它退步了。
+
+**閘門的缺口**：`footnote-url` 查的是 URL 活不活，`footnote-format` 查的是格式，`footnote-density` 查的是密度。**沒有一道在查「這個 URL 裡到底有沒有這句話」。** MAINTAINER §Step 3.4 有寫「抽樣 ≥ 3 個 footnote URL WebFetch 驗 claim 對應」，那是 SOP 層的自律，不是閘門；這一輪是因為那句話讀起來太像現成金句才起疑去查的，不是因為有東西提醒我查。
+
+**修補候選**：
+
+- (a) 已 ship：站上 zh 與 en 換成可查證的原話（Startup Grind 訪談，陳士駿本人談自籌資金與刷爆額度），附真的能點的來源；其餘十一語已轉 stale 由 babel 重譯。
+- (b) **未做**：帶直接引號的句子 + 其腳註 URL，是最值得優先自動比對的一組。可以做成一支 `quote-source-match.py`：抓文章裡所有 `「…」[^n]`，fetch `[^n]` 的 URL，問「這段文字在不在裡面」（同義改寫要人判，但**完全不在**是機械可判的）。這道閘門的成本高（要打外網），適合排成週期性巡邏而不是 pre-commit。
+- (c) **未做**：腳註從「無 URL」升級成「有 URL」的 diff，應該被當成**需要人審的變更**而不是自動加分——目前這種 diff 在所有閘門眼裡都是純改善。
+
+**verification_count**: 1
+
+**對應**：[REFLEXES #75](REFLEXES.md)（Read ≠ verify）／[REFLEXES #16](REFLEXES.md)（二手描述是線索不是來源）／MAINTAINER §Step 3.4 紅旗 #11（連結-描述錯位）／LESSONS `footnote-description-is-an-unaudited-claim`（2026-08-31，同族：腳註裡沒有人查過的那一句）。
+
 ### 2026-09-03 twmd-maintainer-am — declared-unmeasurable-without-inventorying-the-tools：宣告「這裡量不到」之前，沒有先問這台機器上還有沒有別的尺
 
 **現象**：昨天（2026-09-02）那輪把 #1639 剩下的三項驗收寫成「需要一支真的手機或一個真實桌面瀏覽器」，理由紮實且經過實測——內嵌瀏覽器不實作 `0fr → 1fr`、頁面完全無法程式化捲動，兩項都用最小重現確認過。診斷全對。**結論錯了**：這個 repo 的 `devDependencies` 裡本來就有 `playwright`，`scripts/tools/viz-shot.mjs` 每次跑視覺驗證都在用它，Chromium 早就裝好在同一台機器上。今天用它跑，兩項待確認立刻都量得到，而且量出一個真的 bug（錨點被固定表頭遮住 18px，三個斷點全中，根因是同一個高度有三份互不相同的硬編碼副本）。
