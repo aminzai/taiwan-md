@@ -92,12 +92,14 @@ idlccp1984 的 #1667〈陳思宏〉敗在 `frontmatter-gate`（缺 `subcategory`
 - [x] ~~#1665 merge + 換掉三張填充圖~~
 - [x] ~~#1666 追根因、修 Layout.astro 字型閘門、造 `check-font-gate.mjs` 接進 deploy、close~~
 - [x] ~~陳士駿信用卡引語 zh + en 換成可查證來源~~
-- [ ] pending — `check-font-gate.mjs` 的 CI job 是這輪新加的，**下一次 deploy 才會第一次真的跑**。下個 cycle 要去確認它在 GitHub runner 上真的綠（playwright chromium 安裝、正式站可達性都還沒在 CI 環境驗過），不要假設本機綠等於 CI 綠。
+- [x] ~~pending — `check-font-gate.mjs` 的 CI job 下一次 deploy 才會第一次真的跑，要確認它在 GitHub runner 上真的綠~~ retired by 本 session：沒有留給下個 cycle，當場等完了。`Deploy to GitHub Pages` run 全綠（build → deploy → **Font visibility gate (live): success**），playwright chromium 在 runner 上裝得起來、正式站也打得到。收工前再從本機對正式站跑一次確認修補真的到了讀者手上：`/` 17405 字、`/about/` 18818 字、`/en/` 18047 字全部可見（同一支腳本一小時前對同一批路徑量到的是 0）。
 - [ ] pending — 陳士駿其餘十一語已轉 stale，等 babel 重譯。下個 cycle 抽驗一語，確認新的引語真的被翻進去、舊的沒有殘留。
 - [ ] pending（給 self-evolve / distill）— 本輪兩條 LESSONS：`sibling-fallback-reads-as-coverage-for-the-gate-next-door`（隔壁閘門的 fallback 被讀成兩道共用）與 `adding-a-live-url-to-an-unverifiable-quote-looks-like-an-upgrade`（腳註補 URL 在所有機械指標上都是進步）。後者的修補候選 (b) 是一支 `quote-source-match.py`，值得評估。
 - ⏳ blocked — #1630 仍等 OBSERVER-QUEUE #33 拍板。本輪已把它的腳註問題查清並修在 main，拍板時的資訊是最新的。
 
 ## Beat 5 — 反芻
+
+（收官後補記：字型閘門的 CI job 在本 session 內就跑完並綠燈，本機對正式站複驗三條路徑皆可見，不是留給下個 cycle 的承諾。）
 
 今天三次差點把假象當結論，三次都是同一種形狀：**我量到的東西不等於我以為我量到的東西**。用 abort 模擬字型拿不到（量到的是快速失敗，不是永不回應）、本機 A/B 沒載到閘門的 CSS（量到的是一個沒有閘門的頁面）、改完 zh 沒 commit 就查 stale（量到的是提交狀態，不是工作樹）。三次都靠順手看了一眼「應該要紅的那一組」才發現，沒有一次是被閘門接住的。
 
