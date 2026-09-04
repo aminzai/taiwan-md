@@ -1,22 +1,22 @@
 {
-  "total_zh": 9209,
+  "total_zh": 9213,
   "total_en": 891,
   "coverage_en": 9.7,
   "categories": {
-    "ko": {
-      "zh": 885,
-      "en": 0
+    "People": {
+      "zh": 290,
+      "en": 246
     },
     "ja": {
       "zh": 888,
       "en": 0
     },
-    "ar": {
-      "zh": 756,
-      "en": 0
-    },
     "fr": {
       "zh": 884,
+      "en": 0
+    },
+    "es": {
+      "zh": 883,
       "en": 0
     },
     "ru": {
@@ -27,25 +27,41 @@
       "zh": 804,
       "en": 0
     },
-    "es": {
-      "zh": 883,
+    "hi": {
+      "zh": 674,
       "en": 0
     },
-    "pt": {
-      "zh": 850,
+    "ar": {
+      "zh": 756,
       "en": 0
     },
     "id": {
       "zh": 599,
       "en": 0
     },
-    "hi": {
-      "zh": 674,
+    "pt": {
+      "zh": 850,
       "en": 0
     },
-    "People": {
-      "zh": 289,
-      "en": 246
+    "History": {
+      "zh": 87,
+      "en": 52
+    },
+    "Technology": {
+      "zh": 68,
+      "en": 59
+    },
+    "ko": {
+      "zh": 885,
+      "en": 0
+    },
+    "Economy": {
+      "zh": 77,
+      "en": 65
+    },
+    "Society": {
+      "zh": 116,
+      "en": 94
     },
     "Food": {
       "zh": 89,
@@ -55,41 +71,29 @@
       "zh": 41,
       "en": 38
     },
-    "Culture": {
-      "zh": 112,
-      "en": 73
-    },
-    "Technology": {
-      "zh": 68,
-      "en": 59
-    },
-    "Economy": {
-      "zh": 77,
-      "en": 65
-    },
-    "History": {
-      "zh": 87,
-      "en": 52
+    "Lifestyle": {
+      "zh": 46,
+      "en": 31
     },
     "Geography": {
       "zh": 82,
       "en": 64
     },
-    "Music": {
-      "zh": 37,
-      "en": 37
-    },
-    "Society": {
-      "zh": 116,
-      "en": 94
-    },
     "Art": {
       "zh": 48,
       "en": 43
     },
-    "Lifestyle": {
-      "zh": 46,
-      "en": 31
+    "Culture": {
+      "zh": 113,
+      "en": 73
+    },
+    "Music": {
+      "zh": 37,
+      "en": 37
+    },
+    "de": {
+      "zh": 84,
+      "en": 0
     },
     "About": {
       "zh": 9,
@@ -99,14 +103,10 @@
       "zh": 15,
       "en": 11
     },
-    "de": {
-      "zh": 82,
-      "en": 0
-    },
     "resources": {
       "zh": 2,
       "en": 2
     }
   },
-  "updated": "2026-09-04"
+  "updated": "2026-09-05"
 }

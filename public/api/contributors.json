@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T22:12:19.519Z",
+  "lastUpdated": "2026-09-04T22:13:42.772Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,44 +7,44 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 8919,
+      "commits": 8938,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-04 05:39:54 +0800",
+      "lastCommitAt": "2026-09-05 05:39:36 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1589,
-        "system": 4796,
-        "translation": 1970
+        "content": 1592,
+        "system": 4808,
+        "translation": 1971
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 471,
+      "commits": 473,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-27 02:57:01 +0800",
+      "lastCommitAt": "2026-09-03 23:30:48 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 467,
+        "content": 469,
         "system": 0,
         "translation": 0
       }
     },
     {
       "login": "tboydar",
-      "commits": 70,
+      "commits": 72,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-31 12:14:23 +0800",
+      "lastCommitAt": "2026-09-03 14:52:40 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 68
+        "translation": 70
       }
     },
     {
@@ -816,14 +816,14 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 471,
+      "commits": 473,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-27 02:57:01 +0800",
+      "lastCommitAt": "2026-09-03 23:30:48 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 467,
+        "content": 469,
         "system": 0,
         "translation": 0
       }
@@ -888,16 +888,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 8919,
+      "commits": 8938,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-04 05:39:54 +0800",
+      "lastCommitAt": "2026-09-05 05:39:36 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1589,
-        "system": 4796,
-        "translation": 1970
+        "content": 1592,
+        "system": 4808,
+        "translation": 1971
       }
     },
     {
@@ -960,16 +960,16 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 70,
+      "commits": 72,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-08-31 12:14:23 +0800",
+      "lastCommitAt": "2026-09-03 14:52:40 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 68
+        "translation": 70
       }
     },
     {
@@ -1029,7 +1029,7 @@
       }
     }
   ],
-  "weeklyActive": 3,
+  "weeklyActive": 4,
   "monthlyActive": 10,
   "recentlyJoined": [
     {

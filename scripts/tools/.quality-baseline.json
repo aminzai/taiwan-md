@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-03T22:12:30Z",
-  "total": 1118,
-  "flagged": 713,
+  "timestamp": "2026-09-04T22:13:53Z",
+  "total": 1120,
+  "flagged": 715,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -1625,6 +1625,11 @@
       "reasons": "未人工審核; 塑膠句1個; 破折號11個; 稀薄段落×1"
     },
     {
+      "file": "people/陳思宏.md",
+      "score": 8,
+      "reasons": "空洞詞6個; 未人工審核; 塑膠句6個; 分號10個; 英式短句開場3處"
+    },
+    {
       "file": "people/蔣中正.md",
       "score": 6,
       "reasons": "未人工審核; 塑膠句2個; 破折號12個; 分號6個; 價值上升詞×3"
@@ -2111,8 +2116,8 @@
     },
     {
       "file": "people/陳士駿.md",
-      "score": 5,
-      "reasons": "未人工審核; 破折號11個; 英式短句開場3處; 稀薄段落×1"
+      "score": 4,
+      "reasons": "未人工審核; 破折號9個; 稀薄段落×1"
     },
     {
       "file": "people/賈永婕.md",
@@ -3373,6 +3378,11 @@
       "file": "culture/排灣族琉璃珠.md",
       "score": 9,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句3個; 分號12個; 英式短句開場4處; 稀薄段落×4"
+    },
+    {
+      "file": "culture/阿貴動畫.md",
+      "score": 7,
+      "reasons": "未人工審核; 塑膠句7個; 英式短句開場7處; 稀薄段落×1"
     },
     {
       "file": "culture/台灣VTuber.md",

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10100,
+  "totalArticles": 10104,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7192,
+  "totalTags": 7203,
   "categories": [
     {
       "name": "es",
@@ -78,11 +78,11 @@
     },
     {
       "name": "People",
-      "count": 289
+      "count": 290
     },
     {
       "name": "Culture",
-      "count": 112
+      "count": 113
     },
     {
       "name": "Geography",
@@ -106,7 +106,7 @@
     },
     {
       "name": "de",
-      "count": 82
+      "count": 84
     },
     {
       "name": "resources",
@@ -196,15 +196,15 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10100,
+    "zh-TW": 10104,
     "en": 0
   },
-  "lastUpdated": "2026-09-03T22:12:18.166Z",
-  "stars": 1165,
+  "lastUpdated": "2026-09-04T22:13:41.650Z",
+  "stars": 1166,
   "forks": 185,
-  "zhPages": 1116,
+  "zhPages": 1118,
   "languagePages": {
-    "zh-TW": 1116,
+    "zh-TW": 1118,
     "en": 891,
     "ja": 888,
     "ko": 885,
@@ -218,5 +218,5 @@
     "ru": 786
   },
   "enPages": 891,
-  "totalPages": 1116
+  "totalPages": 1118
 }

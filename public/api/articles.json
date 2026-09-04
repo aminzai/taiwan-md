@@ -17473,6 +17473,24 @@
     "path": "ja/Food/ah-po-iron-eggs.md"
   },
   {
+    "title": "阿貴動畫：一個 Flash 角色，怎麼走進台灣人的電腦課、唱片與防疫宣導",
+    "description": "1999 年，張榮貴與春水堂用 Flash 做出圓臉、特殊嗓音的阿貴。它從轉寄短片走到唱片、電影、日本網站與 SARS 宣導。阿貴留下的問題是：當網站停止更新，一個網路角色要靠什麼繼續活在台灣人的記憶裡？",
+    "category": "Culture",
+    "tags": [
+      "阿貴動畫",
+      "Flash",
+      "春水堂",
+      "張榮貴",
+      "網路文化",
+      "台灣動畫"
+    ],
+    "url": "https://taiwan.md/culture/%E9%98%BF%E8%B2%B4%E5%8B%95%E7%95%AB",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-09-02",
+    "path": "Culture/阿貴動畫.md"
+  },
+  {
     "title": "阿滴：英語を嫌っていた小留学生から台湾YouTube界の「里長伯（地域の世話役）」へ",
     "description": "2020年、YouTuberの阿滴は『ニューヨーク・タイムズ』への広告掲載に向けたクラウドファンディングを立ち上げ、台湾の存在を世界に知らしめました。2021年にはうつ病を患っていることを公表し、人生の低迷期を素直に受け入れました。シンガポールでの英語との出会いからクリエイター協会の設立まで、阿滴は知識系インフルエンサーであるだけでなく、台湾の新メディアエコシステムを牽引する推進者です。",
     "category": "ja",
@@ -21906,6 +21924,24 @@
     "featured": false,
     "date": "2026-04-18",
     "path": "People/陳建騏.md"
+  },
+  {
+    "title": "陳思宏：從永靖逃到柏林，卻一直被故鄉追上的作家",
+    "description": "他用二十多年逃離彰化永靖，卻在柏林與世界的距離裡，寫回家庭、性別、身體與那些不肯消失的故鄉。",
+    "category": "People",
+    "tags": [
+      "陳思宏",
+      "臺灣文學",
+      "永靖",
+      "柏林",
+      "同志文學",
+      "鬼地方"
+    ],
+    "url": "https://taiwan.md/people/%E9%99%B3%E6%80%9D%E5%AE%8F",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-09-03",
+    "path": "People/陳思宏.md"
   },
   {
     "title": "陳映真：竹南から北京へ至った統一派文学の良心",
@@ -47943,6 +47979,17 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "vi/People/hou-hsiao-hsien.md"
+  },
+  {
+    "title": "He Feipeng",
+    "description": "Ein Medienprofi, der dem Markt acht Jahre voraus war, sieben Jahre in Folge Verluste machte und schließlich Taiwans größten Verlags- und Mediengruppenkonzern aufbaute.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/he-feipeng",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-26",
+    "path": "de/People/he-feipeng.md"
   },
   {
     "title": "He Feipeng",
@@ -74796,7 +74843,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/steve-chen-youtube-cofounder",
-    "readingTime": 50,
+    "readingTime": 51,
     "featured": false,
     "date": "2026-04-06",
     "path": "en/People/steve-chen-youtube-cofounder.md"
@@ -88096,6 +88143,17 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "pt/People/yani-tseng.md"
+  },
+  {
+    "title": "Yeh Bing-cheng",
+    "description": "Professor für Elektrotechnik an der National Taiwan University (NTU), der aus Unzufriedenheit mit dem Auswendiglernen die gamifizierte Lernplattform PaGamO schuf und 2014 einen globalen Preis für Bildungsinnovation gewann.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/yeh-ping-cheng-education-innovator",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "de/People/yeh-ping-cheng-education-innovator.md"
   },
   {
     "title": "Yeh Bing-cheng",

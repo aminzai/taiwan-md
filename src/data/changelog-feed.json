@@ -1,7 +1,159 @@
 {
-  "generatedAt": "2026-09-03T22:12:19.172Z",
+  "generatedAt": "2026-09-04T22:13:42.581Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "21e6d2e3a340587be73a6c770b17c1affbe1c1b0",
+      "date": "2026-09-05T05:39:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-05 05:37 — 18 條全 in-sync 零漂移，第 39 輪",
+      "articles": []
+    },
+    {
+      "hash": "dafc34de840a650925125e4d1214ce7b11aaf8b1",
+      "date": "2026-09-05T05:37:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-05 05:37 — 12 語 9,906 向量 0 fail 全綠，僅 zh-TW 鄰居變動",
+      "articles": []
+    },
+    {
+      "hash": "d4db0bce9c5b4b8f58006f278188fb5a3f5455a9",
+      "date": "2026-09-05T05:36:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-05 05:36",
+      "articles": []
+    },
+    {
+      "hash": "efc86a229ea74c9a283af91e0c97a1667fd04246",
+      "date": "2026-09-04T09:35:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 字型閘門的 CI job 當場等完，不留給下個 cycle",
+      "articles": []
+    },
+    {
+      "hash": "f6b6a125a86fd384b1d50f7c5bc3d76fd16cd13b",
+      "date": "2026-09-04T09:16:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-04 08:42 — 讀者說載入很久，追下去是整站在字型慢的時候變成永久空白頁",
+      "articles": []
+    },
+    {
+      "hash": "5478954baca4b325571f218f074147464beaf2db",
+      "date": "2026-09-04T09:08:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 陳士駿那句信用卡引語，指向一個沒有那句話的來源",
+      "articles": [
+        {
+          "url": "/people/陳士駿",
+          "name": "陳士駿"
+        }
+      ]
+    },
+    {
+      "hash": "3f44f4388bdd97e329cf9a0be0c23ba082c439b5",
+      "date": "2026-09-04T08:57:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 字型檔一慢，整個站就是永久空白頁（#1666）",
+      "articles": []
+    },
+    {
+      "hash": "8730173b10595a591a53f50c2ac3f4a0748bc7e7",
+      "date": "2026-09-04T08:54:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 阿貴動畫換掉三張跟主題無關的示意圖，陳思宏補上延伸閱讀",
+      "articles": [
+        {
+          "url": "/culture/阿貴動畫",
+          "name": "阿貴動畫"
+        },
+        {
+          "url": "/people/陳思宏",
+          "name": "陳思宏"
+        }
+      ]
+    },
+    {
+      "hash": "2d02499ba2eb238438e38bfed86bf4eb4c428120",
+      "date": "2026-09-04T08:51:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1665 from idlccp1984/patch-821133",
+      "articles": []
+    },
+    {
+      "hash": "274b715f98ba3119add3815a603a4a99b04a0825",
+      "date": "2026-09-04T08:51:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1667 from idlccp1984/patch-799552",
+      "articles": []
+    },
+    {
+      "hash": "0e123844a93a0042105872ef9d267b71b10e7547",
+      "date": "2026-09-04T08:50:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 補 subcategory/featured/curation、全形分號降到門檻內、移除重複圖說",
+      "articles": [
+        {
+          "url": "/people/陳思宏",
+          "name": "陳思宏"
+        }
+      ]
+    },
+    {
+      "hash": "270738cfd00648ea88873d7acc3069e2c19a81ad",
+      "date": "2026-09-04T08:48:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1664 from tboydar/translate/de-he-feipeng",
+      "articles": []
+    },
+    {
+      "hash": "5004df4b80e271be1ef65bd1953fe14a42a8ad9c",
+      "date": "2026-09-04T08:48:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1663 from tboydar/translate/de-yeh-ping-cheng",
+      "articles": []
+    },
+    {
+      "hash": "28fc662bb32649d19edbdcdf032ba59a603e0aa9",
+      "date": "2026-09-04T07:10:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: OBSERVER-QUEUE #28 計數更新到第十八次",
+      "articles": []
+    },
+    {
+      "hash": "1ac27025d87fd3f1e1c839f049f44ddb0fba92a7",
+      "date": "2026-09-04T07:10:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 那封第三人指控信第十八次攔下，今天沒開任何 issue",
+      "articles": []
+    },
+    {
+      "hash": "47702567b9810d1a53c548e830e4ae878d67a35b",
+      "date": "2026-09-04T06:38:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 0 OVERDUE, skip — 2026-09-04",
+      "articles": []
+    },
+    {
+      "hash": "9677653a46b5d388e592dff21a543593018fbf05",
+      "date": "2026-09-04T06:17:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-04 06:15 — 14 步全綠零 stale 第四天，forks 破 185",
+      "articles": []
+    },
+    {
+      "hash": "18c6a5d0cbc9e5052f15d5cd981815629385b12f",
+      "date": "2026-09-04T06:14:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] scheduler live-state dump — twmd-data-refresh-am rider",
+      "articles": []
+    },
+    {
+      "hash": "992e4cf866d54555e2d20768e2fe2a2ca18cccb4",
+      "date": "2026-09-04T06:13:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，日文譯文小幅前進，forks 184→185",
+      "articles": []
+    },
     {
       "hash": "eff0c6591c00ca36be89a52965331b5a07169427",
       "date": "2026-09-04T05:39:54+08:00",
@@ -21,6 +173,44 @@
       "date": "2026-09-04T05:38:04+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-04 05:52 — 12 語 9,904 向量 0 fail 全綠，內容與昨夜相同首次乾淨 skip commit",
+      "articles": []
+    },
+    {
+      "hash": "f6377ce38a2b21acef47604606e6543efffc1d04",
+      "date": "2026-09-03T23:30:48+08:00",
+      "author": "idlccp1984",
+      "message": "Create 陳思宏.md",
+      "articles": [
+        {
+          "url": "/people/陳思宏",
+          "name": "陳思宏"
+        }
+      ]
+    },
+    {
+      "hash": "c69010f2cf74f427f5247ca799f20b91a40deeaf",
+      "date": "2026-09-03T23:03:22+08:00",
+      "author": "idlccp1984",
+      "message": "Create 阿貴動畫.md",
+      "articles": [
+        {
+          "url": "/culture/阿貴動畫",
+          "name": "阿貴動畫"
+        }
+      ]
+    },
+    {
+      "hash": "445ed65209587416dca8d0dddb333939f0397ac5",
+      "date": "2026-09-03T14:52:40+08:00",
+      "author": "Dar",
+      "message": "Add German translation for People (He Feipeng)",
+      "articles": []
+    },
+    {
+      "hash": "b0692964ad32cf6810f2b2e881a73e2b80356a0b",
+      "date": "2026-09-03T14:47:27+08:00",
+      "author": "Dar",
+      "message": "Add German translation for People (Yeh Ping-cheng)",
       "articles": []
     },
     {
@@ -85187,177 +85377,6 @@
       "author": "frank890417",
       "message": "feat: resources mindmap hero + favicon logos for all links",
       "articles": []
-    },
-    {
-      "hash": "4e198959c31a293ba780d202438edb2c7bff3e8f",
-      "date": "2026-03-17T23:49:46+08:00",
-      "author": "frank890417",
-      "message": "feat: 5-article reading path for new visitors",
-      "articles": []
-    },
-    {
-      "hash": "54baa3bf942cede41a3a4d2d17f2f0a1692dc7f8",
-      "date": "2026-03-17T23:48:33+08:00",
-      "author": "frank890417",
-      "message": "Add Taiwan CC Images Batch 5: Music, Society, Lifestyle",
-      "articles": []
-    },
-    {
-      "hash": "f151ede3d3318535143ed0324eb381f475a2a29a",
-      "date": "2026-03-17T23:48:26+08:00",
-      "author": "frank890417",
-      "message": "Add Taiwan CC images batch 3: Culture, Food, Art",
-      "articles": []
-    },
-    {
-      "hash": "2345a1c97b89c22bbecd6588a6f3afaca187aee4",
-      "date": "2026-03-17T23:47:51+08:00",
-      "author": "frank890417",
-      "message": "Add Taiwan CC images batch 2: History, Geography, Nature",
-      "articles": []
-    },
-    {
-      "hash": "6b162254b4ce877591a4f724b2e12e03d426e1d4",
-      "date": "2026-03-17T23:47:44+08:00",
-      "author": "frank890417",
-      "message": "Add Taiwan CC images batch 4: Technology, Economy, People",
-      "articles": []
-    },
-    {
-      "hash": "ac1324327df9fac812ec1b1a79dcb26d1fd6df7a",
-      "date": "2026-03-17T23:44:27+08:00",
-      "author": "frank890417",
-      "message": "feat: full graph identical to /graph page + move language section after categories",
-      "articles": []
-    },
-    {
-      "hash": "8f57128b9936dcbd562135060bb0054e587ef24f",
-      "date": "2026-03-17T22:26:03+08:00",
-      "author": "frank890417",
-      "message": "feat: full interactive knowledge graph on homepage (D3.js, all articles)",
-      "articles": []
-    },
-    {
-      "hash": "6b212fa565a2a0eb07e925bfdb288f01f179b30b",
-      "date": "2026-03-17T22:09:47+08:00",
-      "author": "frank890417",
-      "message": "fix: feature button text contrast - white on green",
-      "articles": []
-    },
-    {
-      "hash": "5b630e2b3569cd86e08e822929382cac7dbf869d",
-      "date": "2026-03-17T22:08:37+08:00",
-      "author": "frank890417",
-      "message": "feat: mini interactive knowledge graph on homepage",
-      "articles": []
-    },
-    {
-      "hash": "157a94a0c8f8b720e5c5ea0bbb573a098f363855",
-      "date": "2026-03-17T22:05:52+08:00",
-      "author": "frank890417",
-      "message": "nav: add Resources link to desktop + mobile nav",
-      "articles": []
-    },
-    {
-      "hash": "838675a554eeb161e6f3726ea3b091d0c094dc8d",
-      "date": "2026-03-17T22:04:16+08:00",
-      "author": "frank890417",
-      "message": "feat: add graph + SSOT links to Why Taiwan.md section",
-      "articles": []
-    },
-    {
-      "hash": "e77670e0c4e0001704cb35762a6098aed172249d",
-      "date": "2026-03-17T21:57:45+08:00",
-      "author": "frank890417",
-      "message": "style: increase heading margin-top in articles (2rem → 3.5rem)",
-      "articles": []
-    },
-    {
-      "hash": "c479765e6af236ca455ac2cc61df23912c3f146c",
-      "date": "2026-03-17T21:55:45+08:00",
-      "author": "frank890417",
-      "message": "feat: English routes + translate 9 articles (46% → 62% coverage)",
-      "articles": []
-    },
-    {
-      "hash": "c6324374a226b0070dda3add8b59ca3987739834",
-      "date": "2026-03-17T21:53:01+08:00",
-      "author": "frank890417",
-      "message": "feat: EN routes + 5 translations (57% i18n coverage)",
-      "articles": []
-    },
-    {
-      "hash": "25b6842dfe3ffbb0562a55aa9ceb58222f7943f9",
-      "date": "2026-03-17T21:51:34+08:00",
-      "author": "frank890417",
-      "message": "feat: resources page with 40+ curated Taiwan official websites",
-      "articles": []
-    },
-    {
-      "hash": "8f0313e16017afad04d2d5c592565fd853236897",
-      "date": "2026-03-17T21:43:10+08:00",
-      "author": "frank890417",
-      "message": "chore: update contrib.rocks params for better contributor display",
-      "articles": []
-    },
-    {
-      "hash": "8ba74f3802addc2d7a56fd983ca22c24ec2c9c0f",
-      "date": "2026-03-17T21:32:45+08:00",
-      "author": "frank890417",
-      "message": "sync: 鰻魚 PRs content to src/content",
-      "articles": []
-    },
-    {
-      "hash": "cd4682a1a963d70e2b39bad343c91715be951007",
-      "date": "2026-03-17T21:31:59+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #13 from bugnimusic/feature/convenience-store-upgrade",
-      "articles": []
-    },
-    {
-      "hash": "642b6e5ebf4e3c7f855c99ab8eb4f014339a6341",
-      "date": "2026-03-17T21:31:36+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #12 from bugnimusic/feature/soundscape-article",
-      "articles": []
-    },
-    {
-      "hash": "a8ff85e8aaea83e9a85699249a48db206db42ac0",
-      "date": "2026-03-17T21:20:23+08:00",
-      "author": "bugnimusic",
-      "message": "feat(lifestyle): 升級「便利商店文化」— 紀實文學風格重寫",
-      "articles": [
-        {
-          "url": "/lifestyle/便利商店文化",
-          "name": "便利商店文化"
-        }
-      ]
-    },
-    {
-      "hash": "453db78206ad0954b70c5e5a21260223dd0e9122",
-      "date": "2026-03-17T21:19:32+08:00",
-      "author": "frank890417",
-      "message": "feat: i18n status tool - 46% coverage, 25 articles need translation",
-      "articles": []
-    },
-    {
-      "hash": "016163f18d5aa4ea1173093de84fdc3a00b212be",
-      "date": "2026-03-17T21:14:55+08:00",
-      "author": "frank890417",
-      "message": "feat: contribute form connected to Google Sheets via Apps Script",
-      "articles": []
-    },
-    {
-      "hash": "1236a2729c51b351731842ce4caec26f38598fbd",
-      "date": "2026-03-17T21:12:28+08:00",
-      "author": "frank890417",
-      "message": "feat: Technology Hub literary rewrite + README update with latest stats",
-      "articles": [
-        {
-          "url": "/technology/_Technology Hub",
-          "name": "_Technology Hub"
-        }
-      ]
     }
   ]
 }

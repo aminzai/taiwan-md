@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T22:12:34.609Z",
+  "lastUpdated": "2026-09-04T22:13:58.052Z",
   "organs": [
     {
       "id": "heart",
@@ -7,12 +7,12 @@
       "nameZh": "心臟",
       "metaphor": "內容引擎",
       "emoji": "🫀",
-      "score": 90,
+      "score": 70,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 24,
-        "articlesLast30Days": 262,
-        "totalArticles": 1116
+        "articlesLast7Days": 7,
+        "articlesLast30Days": 254,
+        "totalArticles": 1118
       }
     },
     {
@@ -26,11 +26,11 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 202,
-        "totalArticles": 1116,
+        "totalArticles": 1118,
         "humanReviewedPercent": 18.1,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 19.3,
+          "review_coverage": 19.2,
           "plugin_pass_rate": 70.1,
           "plugin_health": 100,
           "citation_density": 93.6,
@@ -113,7 +113,7 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1116,
+          "zh-TW": 1118,
           "en": 889,
           "ja": 886,
           "ko": 883,
@@ -125,7 +125,7 @@
           "hi": 672,
           "ar": 754,
           "ru": 784,
-          "de": 82
+          "de": 84
         },
         "translationPct": 83,
         "langHealthDetails": {
@@ -265,7 +265,7 @@
             },
             "articles": {
               "count": 598,
-              "pct": 54
+              "pct": 53
             },
             "score": 83
           },
@@ -325,7 +325,7 @@
             },
             "articles": {
               "count": 754,
-              "pct": 68
+              "pct": 67
             },
             "score": 67
           },
@@ -364,8 +364,8 @@
               "pct": 0
             },
             "articles": {
-              "count": 82,
-              "pct": 7
+              "count": 84,
+              "pct": 8
             },
             "score": 3
           }

@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-04T06:12:13+08:00",
-    "zhCommitHead": "eff0c6591",
-    "totalZh": 1118,
+    "lastUpdated": "2026-09-05T06:13:36+08:00",
+    "zhCommitHead": "21e6d2e3a",
+    "totalZh": 1120,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,97 +19,97 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1118,
-        "fresh": 805,
-        "stale": 63,
+        "total_zh": 1120,
+        "fresh": 804,
+        "stale": 64,
         "metadata_stale": 16,
-        "missing": 234,
+        "missing": 236,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1118,
-        "fresh": 813,
-        "stale": 57,
+        "total_zh": 1120,
+        "fresh": 812,
+        "stale": 58,
         "metadata_stale": 18,
-        "missing": 230,
+        "missing": 232,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1118,
-        "fresh": 814,
-        "stale": 55,
+        "total_zh": 1120,
+        "fresh": 813,
+        "stale": 56,
         "metadata_stale": 16,
-        "missing": 233,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1118,
-        "fresh": 806,
-        "stale": 60,
-        "metadata_stale": 17,
         "missing": 235,
         "orphan": 0
       },
-      "fr": {
-        "total_zh": 1118,
-        "fresh": 807,
+      "es": {
+        "total_zh": 1120,
+        "fresh": 805,
         "stale": 61,
+        "metadata_stale": 17,
+        "missing": 237,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 1120,
+        "fresh": 806,
+        "stale": 62,
         "metadata_stale": 16,
-        "missing": 234,
+        "missing": 236,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1118,
-        "fresh": 659,
-        "stale": 67,
+        "total_zh": 1120,
+        "fresh": 658,
+        "stale": 68,
         "metadata_stale": 77,
-        "missing": 315,
+        "missing": 317,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1118,
-        "fresh": 555,
-        "stale": 34,
+        "total_zh": 1120,
+        "fresh": 554,
+        "stale": 35,
         "metadata_stale": 10,
-        "missing": 519,
+        "missing": 521,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1118,
-        "fresh": 786,
-        "stale": 52,
+        "total_zh": 1120,
+        "fresh": 785,
+        "stale": 53,
         "metadata_stale": 12,
-        "missing": 268,
+        "missing": 270,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1118,
-        "fresh": 634,
-        "stale": 29,
+        "total_zh": 1120,
+        "fresh": 633,
+        "stale": 30,
         "metadata_stale": 11,
-        "missing": 444,
+        "missing": 446,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1118,
-        "fresh": 708,
-        "stale": 36,
+        "total_zh": 1120,
+        "fresh": 707,
+        "stale": 37,
         "metadata_stale": 12,
-        "missing": 362,
+        "missing": 364,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1118,
-        "fresh": 738,
-        "stale": 37,
+        "total_zh": 1120,
+        "fresh": 737,
+        "stale": 38,
         "metadata_stale": 11,
-        "missing": 332,
+        "missing": 334,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1118,
-        "fresh": 79,
-        "stale": 3,
+        "total_zh": 1120,
+        "fresh": 80,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 1036,
         "orphan": 0
@@ -67966,6 +67966,52 @@
         }
       }
     },
+    "People/陳思宏.md": {
+      "zh": {
+        "lastCommit": "8730173b",
+        "lastModified": "2026-09-04T08:54:08+08:00",
+        "contentHash": "sha256:614611394f0bdd05",
+        "bodyHash": "sha256:aa5e5b4b6a3ee873"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "People/蔣中正.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -83546,7 +83592,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yeh-ping-cheng-education-innovator.md",
+          "translatedFrom": "People/葉丙成.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:340bb6abbf6b93a5",
+          "sourceBodyHash": "sha256:f85ae58b5cc5815d",
+          "translatedAt": "2026-09-03T00:00:00+08:00",
+          "translationLastCommit": "b0692964",
+          "translationLastModified": "2026-09-03T14:47:27+08:00",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -92195,10 +92252,10 @@
     },
     "People/陳士駿.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:a7528e9b7062bef0",
-        "bodyHash": "sha256:9f3cbb43337753f0"
+        "lastCommit": "5478954b",
+        "lastModified": "2026-09-04T09:08:27+08:00",
+        "contentHash": "sha256:ba95870558368ba6",
+        "bodyHash": "sha256:10a502d58bab93f7"
       },
       "translations": {
         "en": {
@@ -92208,12 +92265,14 @@
           "sourceContentHash": "sha256:a7528e9b7062bef0",
           "sourceBodyHash": "sha256:9f3cbb43337753f0",
           "translatedAt": "2026-05-01T13:44:02+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "5478954b",
+          "translationLastModified": "2026-09-04T09:08:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/People/steve-chen-youtube-cofounder.md",
@@ -92226,8 +92285,8 @@
           "translationLastModified": "2026-09-01T16:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ko": {
           "path": "ko/People/steve-chen-youtube-cofounder.md",
@@ -92240,8 +92299,10 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/People/steve-chen-youtube-cofounder.md",
@@ -92254,8 +92315,10 @@
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/People/steve-chen-youtube-cofounder.md",
@@ -92268,8 +92331,10 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/People/steve-chen-youtube-cofounder.md",
@@ -92282,8 +92347,10 @@
           "translationLastModified": "2026-07-26T21:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/People/steve-chen-youtube-cofounder.md",
@@ -92296,8 +92363,10 @@
           "translationLastModified": "2026-07-25T12:12:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/People/steve-chen-youtube-cofounder.md",
@@ -92310,8 +92379,10 @@
           "translationLastModified": "2026-07-25T07:54:50+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/People/steve-chen-youtube-cofounder.md",
@@ -92324,8 +92395,10 @@
           "translationLastModified": "2026-07-25T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/People/steve-chen-youtube-cofounder.md",
@@ -92338,8 +92411,10 @@
           "translationLastModified": "2026-08-04T06:39:12+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/People/steve-chen-youtube-cofounder.md",
@@ -92352,8 +92427,10 @@
           "translationLastModified": "2026-07-25T13:32:58+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/People/steve-chen-youtube-cofounder.md",
@@ -92366,8 +92443,8 @@
           "translationLastModified": "2026-09-01T16:07:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         }
       }
     },
@@ -102470,7 +102547,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/he-feipeng.md",
+          "translatedFrom": "People/何飛鵬.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:c6c5b08befa8584a",
+          "sourceBodyHash": "sha256:65be42b8cac6c9ca",
+          "translatedAt": "2026-09-03T00:00:00+08:00",
+          "translationLastCommit": "445ed652",
+          "translationLastModified": "2026-09-03T14:52:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -144113,6 +144201,52 @@
           "footnoteDefs": 29,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
+    "Culture/阿貴動畫.md": {
+      "zh": {
+        "lastCommit": "8730173b",
+        "lastModified": "2026-09-04T08:54:08+08:00",
+        "contentHash": "sha256:e24d7260c5b6a2bc",
+        "bodyHash": "sha256:00444a759deb7a89"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         },
         "de": {
           "status": "missing"
