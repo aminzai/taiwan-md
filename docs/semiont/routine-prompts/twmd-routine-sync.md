@@ -28,3 +28,13 @@ description: （每天 05:30 Asia/Taipei = 21:30 UTC）。讓這台機器上的 
 - 不碰 `~/.claude/scheduled-tasks/` 底下非 `twmd-*` / `taiwanmd-*` 的 dir（Muse 的 8 條與 fin-archive 不是我的東西）。
 - 不因為「看起來沒用」就刪任何 task，退場走 ROUTINE.md §暫停 SOP。
 - 這條 routine 自己也在對賬範圍內——別把自己改成不會醒。
+
+## 一次性任務（2026-09-05 哲宇拍板，完成後刪除本段）
+
+SSOT（ROUTINE.md 排程表）已把 `twmd-babel-nightly` 從 ⏸️ 恢復為每天 00:30。這次漂移的方向是 SSOT → live（哲宇親口拍板重開），跟平常「live 先動、SSOT 跟上」相反。
+
+1. `mcp__scheduled-tasks__list_scheduled_tasks` 確認 `twmd-babel-nightly` 的 enabled 值。
+2. 若 enabled=false → `mcp__scheduled-tasks__update_scheduled_task` 設 enabled: true（cron `30 0 * * *` 不變、prompt 不變）。
+3. 再 list 一次確認 enabled=true，把前後值寫進本輪 memory 一句話。
+4. 從本檔刪除整個「一次性任務」區塊並 commit（訊息寫人話：「babel-nightly 依 9/5 拍板恢復啟用，一次性 rider 用完即除」）。
+5. 若 MCP 不可用或 update 失敗：不刪本段，在 memory 記 blocked 並在 OBSERVER-QUEUE 追加一行狀態。

@@ -4,9 +4,9 @@ description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled �
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.20'
-last_updated: 2026-07-28
-last_session: '2026-07-28-babel-fleet-abstraction'
+current_version: 'v2.21'
+last_updated: 2026-09-05
+last_session: '2026-09-05-154128-fortnight-review（babel-nightly 恢復；rewrite/spore 維持手動）'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -47,7 +47,7 @@ upstream_canonical:
 | `twmd-weekly-report-sun`          | TWMD weekly 體檢 (sun) ¹⁵            | `0 2 * * 0`        | `/twmd-weekly-report`      | Opus      | 週日 02:00                          |
 | `twmd-distill-weekly`             | TWMD distill (weekly) ⁷              | `0 3 * * 0`        | `/twmd-distill`            | Opus      | 週日 03:00                          |
 | `twmd-self-evolve-weekly`         | TWMD self-evolve (weekly)            | `0 4 * * 0`        | `/twmd-self-evolve`        | Opus      | 週日 04:00                          |
-| `twmd-babel-nightly`              | TWMD babel (nightly) ³ ⏸️            | `30 0 * * *`       | `/twmd-babel`              | Sonnet ¹¹ | ⏸️ 營運機暫停（見註 ¹⁹）            |
+| `twmd-babel-nightly`              | TWMD babel (nightly) ³               | `30 0 * * *`       | `/twmd-babel`              | Sonnet ¹¹ | 每天 00:30                          |
 | `twmd-embeddings-nightly`         | TWMD embeddings (nightly) ¹²         | `0 5 * * *`        | `/twmd-embeddings`         | Sonnet    | 每天 05:00                          |
 | `twmd-routine-sync`               | TWMD routine sync ¹⁸                 | `30 5 * * *`       | `/twmd-routine-sync`       | Sonnet    | 每天 05:30（晨鏈之前）              |
 | `twmd-data-refresh-am`            | TWMD data refresh ²²                 | `0 6 * * *`        | `/twmd-refresh`            | Sonnet    | 每天 06:00（唯一一班）              |
@@ -62,7 +62,7 @@ upstream_canonical:
 | `twmd-flywheel-watch`             | TWMD flywheel watch ²⁰ ⏸️            | `30 9 * * *`       | `/twmd-flywheel-watch`     | Sonnet    | ⏸️ 停用（註 ²⁵）🖥️commander-macbook |
 | `twmd-terminology-trends-monthly` | TWMD terminology trends (monthly) ²⁴ | `30 10 5 * *`      | `/twmd-terminology-trends` | Opus      | 每月 5 日 10:30                     |
 
-**⏸️ PAUSED**：暫停中的一律在上方排程表該列標 ⏸️（不另立表，避免同一條在兩處各說各話）。目前 6 條：`twmd-spore-pick-daily` / `twmd-spore-publish-daily`（註 ¹³）、`twmd-babel-nightly`（註 ¹⁹）、`twmd-rewrite-daily`（註 ²¹）、`twmd-founder-lens-weekly`（註 ²³）、`twmd-flywheel-watch`（註 ²⁵）。
+**⏸️ PAUSED**：暫停中的一律在上方排程表該列標 ⏸️（不另立表，避免同一條在兩處各說各話）。目前 5 條：`twmd-spore-pick-daily` / `twmd-spore-publish-daily`（註 ¹³）、`twmd-rewrite-daily`（註 ²¹）、`twmd-founder-lens-weekly`（註 ²³）、`twmd-flywheel-watch`（註 ²⁵）。
 
 **🪦 已退休**（排程已刪除，不再對賬；退場不刪除紀錄，per MANIFESTO §時間是結構修補協議）：
 
@@ -87,6 +87,8 @@ parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調�
 [SUPPORTERS-PIPELINE.md](../pipelines/SUPPORTERS-PIPELINE.md)。
 
 ¹⁹ **babel 在營運機暫停（2026-07-25 哲宇 directive）** — mouhouse 上 `twmd-babel-nightly` live disabled，理由是同期巴別塔產線正由指揮部這台驅動算力軍團（fleet roasting），兩邊同時跑會互撞 git index 與 `_translations.json`（REFLEXES #68 / #40）。**這不是退休**：軍團批次收工後恢復即可，恢復走 §恢復暫停的 routine。
+
+**2026-09-05 恢復（哲宇 fortnight-review 拍板）** — 算力軍團最後一次 vortex-babel session 是 2026-07-27，此後暫停 42 天，翻譯覆蓋率從 97.9% 掉到 79.5%（zh 1118 篇 / en 889 篇），兩週中文新增 128 篇全數未翻，主權的巴別塔「24 小時內多語版本」的承諾斷線（完整診斷見 [reports/fortnight-deep-review-2026-09-05.md](../../reports/fortnight-deep-review-2026-09-05.md) §2.1）。哲宇在 fortnight-review session 當場拍板「babel-nightly 可開，其他不開」，`twmd-rewrite-daily` / `twmd-spore-pick-daily` / `twmd-spore-publish-daily` 維持手動不動。live 切換（`enabled: false → true`）由 `twmd-routine-sync` 檔尾的一次性 rider 執行並自行刪除，不在本次 session 直接呼叫（指揮部無對應排程項目）。
 
 ²⁴ **terminology-trends monthly（v2.20，2026-08-04 哲宇拍板「排定期 routine，月度就好」）** — `twmd-terminology-trends-monthly` 每月 5 日 10:30，用語保存計劃的月度趨勢觀察：SC 需求缺口 → 6-8 切面搜索 → 缺口對照（雙防線查重 HARD）→ 高信心入庫 ≤20 條/輪（帶肉＋證據 URL＋誤判四型誠信標註）→ `reports/terminology-trends/YYYY-MM.md` 月度趨勢短報告。長期累積成台灣視角的語言滲透時間序列。姿態站查證與保存不站出征（MANIFESTO §13 語言層）。Canonical [TERMINOLOGY-TRENDS-PIPELINE](../pipelines/TERMINOLOGY-TRENDS-PIPELINE.md)（7 stage + 6 hard gate）；誕生於 2026-08-04 支語深度研究 session（首輪研究版：30 sonnet agent 艦隊 559 次搜索、913 詞條、49 入庫；[報告](../../reports/terminology-zhiyu-deep-research-2026-08-04.md)）。刪除類／政治敏感判定（「是支語嗎」徽章）／大批重分類一律進 OBSERVER-QUEUE。本檔標 ⏸️ 是為了讓 `flywheel-watch` 不把它報成靜默——SSOT 說該跑卻沒跑，才叫警報。
 
