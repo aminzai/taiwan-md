@@ -21,6 +21,15 @@ name: UI language gate
 # ⚠️ 這支刻意帶三類豁免（ja 新字體 / 逐字引用 PRC 拒答訊息 / 台灣正體本字），
 # 詳見 scripts/tools/check-ui-language.mjs 檔頭。改判準前先讀那段：
 # 未校準版本的假陽性率是 82%，會在第一天就被當噪音關掉。
+#
+# ── 用語校正（第三支，2026-09-05 OBSERVER-QUEUE #31）───────────────────────
+# 上面兩支守「語言選對了沒」（是不是中文/有沒有翻），這支守「中文選對詞了
+# 沒」——src/i18n/zh-TW 字串裡有沒有殘留中國用語（數據/網絡/算法…）。
+# 起因：讀者 issue #1440 點出選單「數據」該叫「資料」，一查才發現
+# docs/editorial/TERMINOLOGY.md 早就把這條規則寫進「A 類：一律替換」table，
+# 但從沒有任何自動化在看 UI 字串層。刻意 WARN-only（不擋 CI）：語境判斷
+# 誤判率不低（「投票數據」「PM2.5 監測數據」是正確用法），需要人眼看一次
+# 再決定要不要改，細節見 scripts/tools/check-ui-terminology.py 檔頭。
 
 on:
   pull_request:
@@ -33,7 +42,9 @@ on:
       - 'src/layouts/**'
       - 'scripts/tools/check-ui-language.mjs'
       - 'scripts/tools/check-template-language.mjs'
+      - 'scripts/tools/check-ui-terminology.py'
       - 'scripts/tools/lib/tw-variant-chars.mjs'
+      - 'docs/editorial/TERMINOLOGY.md'
       - '.github/workflows/ui-language-gate.yml'
   push:
     branches: [main]
@@ -46,7 +57,9 @@ on:
       - 'src/layouts/**'
       - 'scripts/tools/check-ui-language.mjs'
       - 'scripts/tools/check-template-language.mjs'
+      - 'scripts/tools/check-ui-terminology.py'
       - 'scripts/tools/lib/tw-variant-chars.mjs'
+      - 'docs/editorial/TERMINOLOGY.md'
 
 jobs:
   ui-language-gate:
@@ -69,3 +82,9 @@ jobs:
       # 對其他十一種語言全是中文。2026-08-17 首掃 125 處。
       - name: Check template-layer Chinese fallback
         run: node scripts/tools/check-template-language.mjs
+
+      # UI zh-TW 字串用語校正（WARN-only，不擋 CI）。資料源是
+      # docs/editorial/TERMINOLOGY.md §A 類：一律替換 table，單一 SSOT，
+      # 不在這裡重複維護詞表。
+      - name: Check UI string terminology (Taiwan usage, WARN-only)
+        run: python3 scripts/tools/check-ui-terminology.py

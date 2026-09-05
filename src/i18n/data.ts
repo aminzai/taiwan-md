@@ -4727,12 +4727,12 @@ export const dataUI = {
     'data.category.5.item.4.desc': '台灣本土 AI 訓練資料集',
 
     // Meta
-    'data.meta.title': '📊 數據台灣 — Taiwan.md',
+    'data.meta.title': '📊 資料台灣 — Taiwan.md',
     'data.meta.description':
       '用數字認識一座島嶼：企業版圖、開放資料、正確的台灣輪廓與互動視覺化',
 
     // Hero
-    'data.hero.title': '數據台灣',
+    'data.hero.title': '資料台灣',
     'data.hero.subtitle': '用互動視覺化和開放資料，認識一座島嶼的真實面貌',
     'data.hero.description':
       '這裡是台灣資料的策展空間。從企業版圖到開放資料，從正確的台灣輪廓到數位民主實驗——我們用互動視覺化和開放資源，讓數字說出台灣的故事。',
