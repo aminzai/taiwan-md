@@ -173,6 +173,137 @@ def test_seo_meta_default_scope_is_unchanged():
 # ─── 尺三：解析點只有一個 ────────────────────────────────────────────────────
 
 
+# ─── 尺四：非中文閾值按文字系統分組（OBSERVER-QUEUE #27 選 D，2026-09-05）────
+
+
+def test_translation_thresholds_group_ja_ko_separately_from_default():
+    """ja/ko（CJK/諺文）吃自己的組；其他語言（含未來新語言）落到 default 組。
+
+    這是「按文字系統分門檻」的核心行為：ja/ko 貼 Google 慣例 (160/60)，
+    拉丁與其他字母系統吃比較寬的現況門檻，兩組數字不該混在一起。
+    """
+    options = {
+        "translation_thresholds": {
+            "ja": {"title_max": 60, "desc_max": 160},
+            "ko": {"title_max": 60, "desc_max": 160},
+            "default": {"title_max": 120, "desc_max": 400},
+        }
+    }
+    ja = seo_meta._resolve_translation_thresholds(options, "ja")
+    ko = seo_meta._resolve_translation_thresholds(options, "ko")
+    assert ja == {"title_max": 60, "desc_max": 160}
+    assert ko == {"title_max": 60, "desc_max": 160}
+
+    for lang in ("en", "es", "fr", "pt", "vi", "id", "de", "ar", "ru", "hi"):
+        resolved = seo_meta._resolve_translation_thresholds(options, lang)
+        assert resolved == {"title_max": 120, "desc_max": 400}, (
+            f"{lang} 應該落到 default 組（拉丁與其他字母系統的現況門檻）"
+        )
+
+    # 站上還沒出生的語言也要吃 default，不是 None（fail-loud 只在 default
+    # 本身缺席時才發生）。
+    assert seo_meta._resolve_translation_thresholds(options, "zz-未來語言") == {
+        "title_max": 120,
+        "desc_max": 400,
+    }
+
+
+def test_translation_thresholds_fail_loud_without_default_group():
+    """真的沒有任何吃得到的組時，check 要 fail-loud（yield WARN），不是靜默略過。"""
+    assert seo_meta._resolve_translation_thresholds({}, "de") is None
+    assert seo_meta._resolve_translation_thresholds(
+        {"translation_thresholds": {"ja": {"title_max": 60, "desc_max": 160}}}, "de"
+    ) is None
+
+
+# ─── 尺五：profile 分流 —— pre-commit 開全語言、ci-deploy 維持 zh-TW only ────
+
+
+def test_real_config_pre_commit_widens_seo_meta_to_all_languages():
+    """吃真正的 article-health.config.toml（不是合成 Config），驗證 profile 分流。
+
+    pre-commit 是新寫/改到的檔要守的那道（--staged），ci-deploy 是全站掃描
+    （既有 700+ 篇非中文長譯文不該被這次改動標記）。兩者對 seo-meta 的
+    applies_to 解析結果必須不同，否則「只守新改到的檔」這個設計等於沒生效。
+    """
+    from lib.article_health.config import load_config
+
+    config = load_config(REPO_ROOT / "scripts" / "tools" / "article-health.config.toml")
+
+    pre_commit = config.get_profile("pre-commit")
+    ci_deploy = config.get_profile("ci-deploy")
+    assert pre_commit is not None and ci_deploy is not None
+
+    assert runner.resolve_applies_to(seo_meta, config, pre_commit) == ["*"]
+    assert runner.resolve_applies_to(seo_meta, config, ci_deploy) == ["zh-TW"]
+
+
+def test_real_config_has_ja_ko_and_default_translation_thresholds():
+    """真正的 config 檔要有 ja/ko 專屬組 + default 組，且 default 涵蓋 de。"""
+    from lib.article_health.config import load_config
+
+    config = load_config(REPO_ROOT / "scripts" / "tools" / "article-health.config.toml")
+    options = config.get_check_config("seo-meta").options
+    table = options.get("translation_thresholds", {})
+
+    assert "ja" in table and "ko" in table
+    assert "default" in table
+    for lang in ("ja", "ko"):
+        assert table[lang]["desc_max"] == 160
+        assert table[lang]["title_max"] == 60
+    # default 組沒有幫 de 開專屬 entry —— 用同一份 default 接住，
+    # 過期五語清單被拆掉之後這是「新語言自動被守」的驗證點。
+    assert "de" not in table
+    assert seo_meta._resolve_translation_thresholds(options, "de") == table["default"]
+
+
+def test_de_is_not_shielded_by_the_retired_five_language_list(tmp_path):
+    """過期五語清單（en/ja/ko/es/fr）拆掉之後，de 這種清單外語言不該被靜默放行。
+
+    在放寬過的 scope 下，de 應該被視為 in-scope（不排除），量到就走 default
+    門檻——而不是像舊 `_is_excluded_path` 死碼復活時那樣被反向放行不檢查。
+    """
+    scope = ["zh-TW", "*"]
+    assert seo_meta._is_excluded_path("knowledge/de/foo.md", scope) is False
+
+    from lib.article_health import registry
+    from lib.article_health.config import CheckConfig, Config, ProfileConfig
+    from lib.article_health.loader import load_target
+    from lib.article_health.runner import run_checks
+
+    registry.reset_registry()
+    registry.discover_checks()
+
+    f = tmp_path / "knowledge" / "de" / "x.md"
+    f.parent.mkdir(parents=True)
+    # description 刻意超過 default 組的 400 上限，確認真的被量到而不是漏檢。
+    f.write_text(
+        "---\ntitle: 'Ein kurzer Titel'\ndescription: '" + ("鑫" * 5) + "x" * 420 + "'\n---\n\nbody\n",
+        encoding="utf-8",
+    )
+    target = load_target(f)
+
+    widened = Config(
+        checks={
+            "seo-meta": CheckConfig(
+                options={
+                    "applies_to": ["zh-TW", "de"],
+                    "translation_thresholds": {
+                        "ja": {"title_max": 60, "desc_max": 160},
+                        "ko": {"title_max": 60, "desc_max": 160},
+                        "default": {"title_max": 120, "desc_max": 400},
+                    },
+                }
+            ),
+        }
+    )
+    report = run_checks(target, widened, check_name="seo-meta")
+    violations = [v for r in report.results for v in r.violations]
+    assert any("description 太長" in v.message for v in violations), (
+        "de 檔在放寬 scope 後應該被 default 組量到並標記超長 description"
+    )
+
+
 def test_applies_to_is_enforced_in_exactly_one_place():
     """決定「這支 check 跑不跑這個語言」的 APPLIES_TO 讀取只准有一處。
 

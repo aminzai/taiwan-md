@@ -30,6 +30,12 @@ Canonical:
   - REWRITE-PIPELINE §Stage 4 Frontmatter 完整性
   - 觸發：reports/immune-score-redesign-2026-05-16.md §2.C Phase 5
   - 對應 LESSONS-INBOX neural circuit "Description ≠ 30 秒概覽複寫 (2026-04-18 ε)"
+
+2026-09-05：哲宇拍板 OBSERVER-QUEUE #27 選 D（來源 issue #1264 stantheman0128
+提案）—— 多語言門檻按文字系統分組（CJK/諺文 vs 拉丁與其他字母系統），只守
+pre-commit --staged 新改到的檔，ci-deploy 全站維持 zh-TW only。閾值住
+article-health.config.toml [checks.seo-meta.options.translation_thresholds]，
+不住這支模組（見下方 `_check_translation` 一節的完整脈絡）。
 """
 
 from __future__ import annotations
