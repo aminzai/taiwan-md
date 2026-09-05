@@ -123,10 +123,24 @@ Step 1.5 順帶確認一件事：main 上只有 5 條 workflow 有跑紀錄，�
 - [x] ~~`/fork-graph` 175 條死連結修掉，三份「有沒有頁面」的判斷收斂成一份（`f96e52b47`）~~
 - [x] ~~`OrganismPreview.astro` 改用 `resolveStaticHref`，非 zh 首頁的 `/fr/semiont` 類死連結歸零（`f96e52b47`）~~
 - [x] ~~Discussion #1271 十天無回應補上指路回覆~~
+- [x] ~~正式站複驗兩個修補（有修補前的 control 組對照）~~ retired by 本 session：deploy 綠燈後當場量完，沒有留給下個 cycle
 - [ ] pending — **沒有任何閘門在檢查「還有誰在對只有部分語言存在的靜態頁用 `useTranslatedPath`」**。這正是本輪那條 LESSONS 在說的事，而我修完兩個宿主之後仍然沒有把類別關起來。候選：一條 lint，對 `useTranslatedPath('/字面路徑')` 斷言該路徑在所有啟用語言下都有頁，否則要求改用 `resolveStaticHref`
 - [ ] pending — `/<lang>/economy/*` 家族（11 語 × 11 條）：`companies.template.astro` 需要一個吃 `translatedFrom` 的 zh→lang 文章網址解析器。`resolveStaticHref` 攔不住（動態路由保守放行）。動 12 語共用模板，建議獨立 session
 - [ ] pending（給哲宇 / §自主權邊界）— 正文幻覺連結家族 `/society/*` 159 / `/people/*` 140 / `/culture/*` 99⋯⋯，226 個頁面在發，>50 檔
 - [ ] pending（給 self-evolve / distill）— 本輪兩條 LESSONS 都是既有 pattern +1，沒有開新 entry：`ratio-gate-cannot-surface-a-small-structured-family` vc 1→2（候選修法 (a) 已 ship）、`fix-scope-follows-symptom-not-root-class` vc 1→2（同型鏈第五次，第一次成本落在讀者身上）
+
+## 正式站複驗（收官後補記，沒有留給下個 cycle）
+
+`74ee2875b` 的 `Deploy to GitHub Pages` 在本 session 內跑完並綠燈，直接對正式站量了兩件事——**修補之前也量過同一批，所以這是有 control 組的對照，不是只看修完那一邊**：
+
+| 對象                        | 修補前（正式站實測）                                                                       | 修補後（正式站實測）                                                                                   |
+| --------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| `/fork-graph` 詞條 chip     | 203 條連結，`/terminology/歐巴桑` `/terminology/人工智慧` `/terminology/位元` 全回 **404** | 197 條連結，抽驗 12 條（`obasang` / `bento` / `ma-zu` / `sashimi` …）**全 200**；另 6 條正確地不是連結 |
+| 非 zh 首頁 organism preview | fr 的 CTA `href="/fr/semiont"` 回 **404**                                                  | fr/es/ja/ko/vi 全部退回 `/semiont` **200**；en 保留 `/en/semiont` **200**（那頁真的存在）              |
+
+不當連結的那 6 個 chip，標籤自己說明了原因：「八家將 ·（無直接對應）」「陣頭 ·（無直接對應）」「悠遊付 ·（無直接對應）」——沒有對岸對應詞的台灣詞本來就不該有兩岸對照頁，過濾器判對了。
+
+`Python tests` / `UI language gate` / `Sticky viewport gate` 對 `f96e52b47` 皆 success。本機 venv 沒有 pytest 裝不起來（`No module named pip`），所以 Python 那關是靠 CI 驗的，這件事本身值得記：**本機跑不動的檢查不等於不用跑，只是那把尺不在我手上**。
 
 ## Beat 5 — 反芻
 
