@@ -7,7 +7,7 @@ category: 'Culture'
 subcategory: '運動文化'
 tags: ['棒球', '中華職棒', '紅葉少棒', '國球', '體育', '王建民', '大谷翔平效應']
 readingTime: 10
-lastVerified: 2026-03-19
+lastVerified: 2026-09-05
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣棒球文化.md'
@@ -78,7 +78,7 @@ But professional baseball also faced severe challenges. The gambling and game-fi
 
 ### Glory at the Asian Games and Olympics
 
-Beyond professional baseball, Taiwan's amateur baseball also excelled in international competitions. In major events such as the Asian Games and the Olympics, the Chinese Taipei national baseball team frequently won medals, raising Taiwan's international visibility.
+Beyond professional baseball, Taiwan's amateur baseball also excelled in international competitions. In major events such as the Asian Games and the Olympics, Taiwan's national baseball team (competing as Chinese Taipei) frequently won medals, raising Taiwan's international visibility.
 
 Important tournaments such as the 2003 Asian Baseball Championship, the 2006 World Baseball Classic, and the 2008 Beijing Olympics all featured outstanding performances by Taiwanese baseball. These games served as emotional outlets for the Taiwanese people; every major contest captured the attention of the entire island, transcending the level of mere athletic competition.
 
@@ -100,7 +100,7 @@ The reason baseball could become the national sport is that it carries too many 
 
 ### Baseball and Taiwanese Identity
 
-In Taiwan's political context, baseball provides a vehicle for identity that transcends partisan divides. Regardless of political stance, Taiwanese people can cheer for the Chinese Taipei team's victories and take pride in Wang Chien-ming's performances.
+In Taiwan's political context, baseball provides a vehicle for identity that transcends partisan divides. Regardless of political stance, Taiwanese people can cheer for the national team's victories and take pride in Wang Chien-ming's performances.
 
 This kind of identity forged through sports reaches ordinary people's lives more effectively than political slogans. When we cheer for the Taiwan team, we are simultaneously affirming our own sense of identity.
 
@@ -126,7 +126,7 @@ For Taiwanese baseball, Ohtani's success offers a new direction for thinking: ha
 
 ## Women's Baseball and Diversified Development
 
-Taiwan's women's baseball has shone brightly on the international stage. The Chinese Taipei women's national baseball team has achieved repeated success in events such as the Women's Baseball World Cup, representing another developmental thread of Taiwanese baseball.
+Taiwan's women's baseball has shone brightly on the international stage. Taiwan's women's national baseball team has achieved repeated success in events such as the Women's Baseball World Cup, representing another developmental thread of Taiwanese baseball.
 
 The development of women's baseball faces concrete challenges: resource allocation, visibility, and career pathways all lag behind men's baseball. But the field continues to attract participants, and gender boundaries on the baseball diamond are less rigid than in the past.
 

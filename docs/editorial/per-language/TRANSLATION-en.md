@@ -3,9 +3,9 @@ title: 'TRANSLATION-en'
 description: '英文翻譯規範 — 用語對照表 + sovereignty-avoid 詞庫 + register + romanization 規則'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v2.0'
-last_updated: 2026-05-25
-last_session: '2026-05-25-w1b5-restart'
+current_version: 'v2.1'
+last_updated: 2026-09-05
+last_session: '2026-09-05-observer-queue-41-chinese-taipei-naming'
 prior_sessions:
   - '2026-05-24-twmd-translation-audit'
   - '2026-05-25-w1b5-restart'
@@ -41,18 +41,18 @@ audience: 'translator (human + AI)'
 
 ## 1. 國名 / 地區指稱（必查）
 
-| zh-TW 源詞              | Recommended English                                                         | When to use                                                                                                                                 | Never use                                               | Notes                                                                                        |
-| ----------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 台灣 / 臺灣             | **Taiwan**                                                                  | Default in all body prose, datelines, polity / people / geography / government references.                                                  | —                                                       | Never wrong as default.                                                                      |
-| 中華民國                | **Republic of China (ROC)**                                                 | Legal-precision contexts; pre-1949 history when ROC governed the mainland; when distinguishing ROC state from `Taiwan` as cultural entity.  | As default name in casual prose.                        | Reads stiff / pre-2000s in body prose.                                                       |
-| 中華民國 (台灣)         | **Republic of China (Taiwan)**                                              | MOFA-style formal first reference in political / diplomatic articles.                                                                       | Body prose after first mention.                         | —                                                                                            |
-| 中華台北                | **Chinese Taipei**                                                          | ONLY Olympic / APEC / WHA / WTO contexts where this name was forced on Taiwan. Add scare quotes or `"the name imposed by..."` on first use. | As a name for Taiwan in any other context.              | Coerced compromise, not a neutral label.                                                     |
-| 兩岸 / 海峽兩岸         | **cross-Strait** (modifier) / **Cross-Strait relations** (proper-noun-like) | Diplomatic / political framing of the Taiwan-PRC relationship.                                                                              | `cross-strait` (lowercase s is less sovereignty-aware). | Capital S; per GTI / Taiwan-studies academic preference.                                     |
-| 台灣海峽                | **Taiwan Strait**                                                           | The body of water. Capitalize both words.                                                                                                   | `Formosa Strait` (historical only).                     | Per Chicago Manual of Style.                                                                 |
-| 國家 / 我國 / 本國      | **Taiwan / the country / the nation**                                       | Translate the deictic into the explicit referent.                                                                                           | Leaving as `our country` reads odd to English readers.  | Taiwan IS a country — use the word without scare quotes.                                     |
-| 中國大陸                | **China / the PRC / the People's Republic of China**                        | Modern PRC references.                                                                                                                      | `mainland China` uncontextualized.                      | `Mainland China` tacitly endorses PRC framing that Taiwan is non-mainland part of one China. |
-| 大陸 (uncontextualized) | **China / the PRC**                                                         | Modern PRC references.                                                                                                                      | `the mainland`.                                         | Same fix as 中國大陸.                                                                        |
-| 福爾摩沙                | **Formosa**                                                                 | Pre-1945 historical / literary contexts; proper nouns (Formosa Plastics).                                                                   | Modern references to country / island.                  | Archaic / colonial in 2026 prose.                                                            |
+| zh-TW 源詞              | Recommended English                                                         | When to use                                                                                                                                                                                                                                                                                                                                                              | Never use                                                                                                                                                   | Notes                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 台灣 / 臺灣             | **Taiwan**                                                                  | Default in all body prose, datelines, polity / people / geography / government references.                                                                                                                                                                                                                                                                               | —                                                                                                                                                           | Never wrong as default.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 中華民國                | **Republic of China (ROC)**                                                 | Legal-precision contexts; pre-1949 history when ROC governed the mainland; when distinguishing ROC state from `Taiwan` as cultural entity.                                                                                                                                                                                                                               | As default name in casual prose.                                                                                                                            | Reads stiff / pre-2000s in body prose.                                                                                                                                                                                                                                                                                                                                                                                    |
+| 中華民國 (台灣)         | **Republic of China (Taiwan)**                                              | MOFA-style formal first reference in political / diplomatic articles.                                                                                                                                                                                                                                                                                                    | Body prose after first mention.                                                                                                                             | —                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 中華台北                | **Chinese Taipei**                                                          | ONLY Olympic / Asian Games / APEC / WHA / WTO contexts where this name was forced on Taiwan — and only as an annotation, not the subject. Default flowing-prose subject stays `Taiwan`; on the FIRST competition-context mention in an article write `Taiwan (competing as Chinese Taipei)`, then drop the parenthetical and use plain `Taiwan` for every later mention. | As the flowing-prose subject after the first mention (`the Chinese Taipei delegation captured...`, `joined the Chinese Taipei team`) — rewrite as `Taiwan`. | Coerced compromise, not a neutral label. Literal `Chinese Taipei` stays **unchanged** only for: direct quotes, official medal-table/team-roster designations, organization proper names (`Chinese Taipei Olympic Committee`, `Chinese Taipei Baseball Association`), or passages whose actual topic is explaining this designation. Per [EDITORIAL §六 賽事脈絡的稱名](../EDITORIAL.md) (2026-09-05, OBSERVER-QUEUE #41). |
+| 兩岸 / 海峽兩岸         | **cross-Strait** (modifier) / **Cross-Strait relations** (proper-noun-like) | Diplomatic / political framing of the Taiwan-PRC relationship.                                                                                                                                                                                                                                                                                                           | `cross-strait` (lowercase s is less sovereignty-aware).                                                                                                     | Capital S; per GTI / Taiwan-studies academic preference.                                                                                                                                                                                                                                                                                                                                                                  |
+| 台灣海峽                | **Taiwan Strait**                                                           | The body of water. Capitalize both words.                                                                                                                                                                                                                                                                                                                                | `Formosa Strait` (historical only).                                                                                                                         | Per Chicago Manual of Style.                                                                                                                                                                                                                                                                                                                                                                                              |
+| 國家 / 我國 / 本國      | **Taiwan / the country / the nation**                                       | Translate the deictic into the explicit referent.                                                                                                                                                                                                                                                                                                                        | Leaving as `our country` reads odd to English readers.                                                                                                      | Taiwan IS a country — use the word without scare quotes.                                                                                                                                                                                                                                                                                                                                                                  |
+| 中國大陸                | **China / the PRC / the People's Republic of China**                        | Modern PRC references.                                                                                                                                                                                                                                                                                                                                                   | `mainland China` uncontextualized.                                                                                                                          | `Mainland China` tacitly endorses PRC framing that Taiwan is non-mainland part of one China.                                                                                                                                                                                                                                                                                                                              |
+| 大陸 (uncontextualized) | **China / the PRC**                                                         | Modern PRC references.                                                                                                                                                                                                                                                                                                                                                   | `the mainland`.                                                                                                                                             | Same fix as 中國大陸.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 福爾摩沙                | **Formosa**                                                                 | Pre-1945 historical / literary contexts; proper nouns (Formosa Plastics).                                                                                                                                                                                                                                                                                                | Modern references to country / island.                                                                                                                      | Archaic / colonial in 2026 prose.                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## 2. 人名 romanization 規則
 
@@ -328,18 +328,18 @@ Never run a blind `sed -i 's/X/Y/g' knowledge/en/**/*.md` on a sovereignty patte
 
 Walk every sampled context against this decision tree:
 
-| Context type                                                                                  | Default action     | Why                                                          |
-| --------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------ |
-| Body prose narrative (the author's voice)                                                     | **FIX**            | This is where sovereignty register lives                     |
-| Direct attributed quote inside `« »` / `" "` from a PRC speaker / source                      | **PRESERVE**       | Quoting is reporting; flag with editor's note if misleading  |
-| Direct quote from a Taiwan speaker who chose this word                                        | **PRESERVE**       | Speaker's voice; don't ventriloquize                         |
-| Proper noun — person name, org name, publication title, festival name, channel name           | **PRESERVE**       | Names are identifiers, not sovereignty claims                |
-| Ethnic group / historical community reference distinct from language reference                | **PRESERVE**       | `Minnan people from Fujian` ≠ `Min-nan language in Taiwan`   |
-| Frontmatter `description:` / `title:` / `imageAlt:` / `tags:`                                 | **FIX (high prio)**| End-user-visible surface; often the most-cited leak vector   |
-| Code block, URL, brand name, ISO label being meta-discussed                                   | **PRESERVE**       | Technical identifier, not editorial voice                    |
-| Meta-discussion article about the term / labeling controversy itself                          | **PRESERVE**       | The whole point of the article is to surface the term        |
-| Historical event with no Taiwan implication (`German reunification`, `Korean reunification`)  | **PRESERVE**       | Different referent; sovereignty rule doesn't apply           |
-| Oxford-comma geographical enumeration (`Taiwan, China, Japan, and Korea`)                     | **PRESERVE**       | Comma is list separator, not PRC labeling                    |
+| Context type                                                                                 | Default action      | Why                                                         |
+| -------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------- |
+| Body prose narrative (the author's voice)                                                    | **FIX**             | This is where sovereignty register lives                    |
+| Direct attributed quote inside `« »` / `" "` from a PRC speaker / source                     | **PRESERVE**        | Quoting is reporting; flag with editor's note if misleading |
+| Direct quote from a Taiwan speaker who chose this word                                       | **PRESERVE**        | Speaker's voice; don't ventriloquize                        |
+| Proper noun — person name, org name, publication title, festival name, channel name          | **PRESERVE**        | Names are identifiers, not sovereignty claims               |
+| Ethnic group / historical community reference distinct from language reference               | **PRESERVE**        | `Minnan people from Fujian` ≠ `Min-nan language in Taiwan`  |
+| Frontmatter `description:` / `title:` / `imageAlt:` / `tags:`                                | **FIX (high prio)** | End-user-visible surface; often the most-cited leak vector  |
+| Code block, URL, brand name, ISO label being meta-discussed                                  | **PRESERVE**        | Technical identifier, not editorial voice                   |
+| Meta-discussion article about the term / labeling controversy itself                         | **PRESERVE**        | The whole point of the article is to surface the term       |
+| Historical event with no Taiwan implication (`German reunification`, `Korean reunification`) | **PRESERVE**        | Different referent; sovereignty rule doesn't apply          |
+| Oxford-comma geographical enumeration (`Taiwan, China, Japan, and Korea`)                    | **PRESERVE**        | Comma is list separator, not PRC labeling                   |
 
 Bucket every hit. If a single file mixes categories, you cannot do `replace_all` — you must do per-occurrence Edits with surrounding context for uniqueness.
 
@@ -360,31 +360,32 @@ W2e en cleanup found 16 `Chinese New Year` occurrences in body prose. All sample
 
 **Worked example — multi-meaning pattern, per-instance required**:
 A hypothetical `Min-nan` audit returns ~59 hits across en/. Sampling reveals:
+
 - ~15 body refs to the language in Taiwan → FIX to `Taiwanese` / `Tâi-gí`
 - ~20 historical refs to `Minnan people from Fujian` as ethnic group → PRESERVE (the people are not the language)
 - ~10 in the proper noun `Min-nan Wolf PYC` (YouTuber channel) → PRESERVE
 - ~8 in quoted academic-linguistics titles → PRESERVE
 - ~6 in `Southern Min language family` linguistic-taxonomy contexts → PRESERVE
-Conclusion: no `replace_all` possible. Walk every file manually.
+  Conclusion: no `replace_all` possible. Walk every file manually.
 
 ## 11. False-positive whitelist patterns (English-specific)
 
 Catalog of patterns that look like sovereignty-leak hits but are legitimate. Built from W1 + W2e cleanups + cross-language insights.
 
-| Pattern                                                                       | Why it's legitimate                                                                                       | Disambiguation cue                                                                                       |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| `Taiwan, China, Japan, and Korea`                                             | Oxford-comma geographical enumeration; China is a peer country in a list                                  | Look for ≥1 more country after `China,` — if yes, list; if sentence ends `Taiwan, China.` it is PRC label |
-| `Taiwan, Province of China`                                                   | Only in articles meta-discussing ISO 3166 / UN labeling controversy                                       | File name contains `labeling` / `standards` / `iso` / `un` discussion                                    |
-| `Chinese New Year`                                                            | Inside a meta-article specifically about the festival's name controversy                                  | Article title or paragraph is *about* the naming debate                                                  |
-| `Chinese-speaking world` / `Chinese language family`                          | Language-family reference; distinct from PRC framing                                                      | Linguistic / academic context; not political                                                             |
-| `Min-nan Wolf PYC`                                                            | YouTuber channel proper noun                                                                              | Capitalized as proper noun; followed by handle or platform                                               |
-| `Minnan people` / `Hoklo from Fujian`                                         | Historical ethnic group reference, distinct from language                                                 | Talks about *people* migrating, not a *language* spoken                                                  |
-| `Republic of China`                                                           | Formal legal / treaty / pre-1949 / constitutional context                                                 | Document name, treaty reference, year < 1949, or explicit ROC-vs-Taiwan distinction                      |
-| `German reunification` / `Korean reunification`                               | Historical event with no Taiwan implication                                                               | Subject is Germany / Korea / Yemen / Vietnam, not Taiwan                                                 |
-| `mainland China` (in a direct quote of a PRC speaker, attributed)             | Quoting is reporting; preserve speaker's framing with editor's note if misleading                         | Inside `« »` / `" "` with attribution                                                                    |
-| `Beijing's Taiwan Affairs Office`                                             | This IS the recommended fix; not a false positive — listed here so audits don't try to "fix" it further   | Already uses `Beijing's` not `China's` — leave it                                                        |
-| `the island of Taiwan` (geographic-feature context)                           | Legitimate geographic description; `Taiwan is the largest island in the West Pacific...`                  | Sentence is about the physical island, not the polity                                                    |
-| `Taipei` as metonym in diplomatic-pair phrasing (`Beijing and Taipei`)        | Standard diplomatic convention; reads as parallel to `Washington and Moscow`                              | Appears as pair with another capital, not as substitute for Taiwan-the-country                           |
+| Pattern                                                                | Why it's legitimate                                                                                     | Disambiguation cue                                                                                        |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| `Taiwan, China, Japan, and Korea`                                      | Oxford-comma geographical enumeration; China is a peer country in a list                                | Look for ≥1 more country after `China,` — if yes, list; if sentence ends `Taiwan, China.` it is PRC label |
+| `Taiwan, Province of China`                                            | Only in articles meta-discussing ISO 3166 / UN labeling controversy                                     | File name contains `labeling` / `standards` / `iso` / `un` discussion                                     |
+| `Chinese New Year`                                                     | Inside a meta-article specifically about the festival's name controversy                                | Article title or paragraph is _about_ the naming debate                                                   |
+| `Chinese-speaking world` / `Chinese language family`                   | Language-family reference; distinct from PRC framing                                                    | Linguistic / academic context; not political                                                              |
+| `Min-nan Wolf PYC`                                                     | YouTuber channel proper noun                                                                            | Capitalized as proper noun; followed by handle or platform                                                |
+| `Minnan people` / `Hoklo from Fujian`                                  | Historical ethnic group reference, distinct from language                                               | Talks about _people_ migrating, not a _language_ spoken                                                   |
+| `Republic of China`                                                    | Formal legal / treaty / pre-1949 / constitutional context                                               | Document name, treaty reference, year < 1949, or explicit ROC-vs-Taiwan distinction                       |
+| `German reunification` / `Korean reunification`                        | Historical event with no Taiwan implication                                                             | Subject is Germany / Korea / Yemen / Vietnam, not Taiwan                                                  |
+| `mainland China` (in a direct quote of a PRC speaker, attributed)      | Quoting is reporting; preserve speaker's framing with editor's note if misleading                       | Inside `« »` / `" "` with attribution                                                                     |
+| `Beijing's Taiwan Affairs Office`                                      | This IS the recommended fix; not a false positive — listed here so audits don't try to "fix" it further | Already uses `Beijing's` not `China's` — leave it                                                         |
+| `the island of Taiwan` (geographic-feature context)                    | Legitimate geographic description; `Taiwan is the largest island in the West Pacific...`                | Sentence is about the physical island, not the polity                                                     |
+| `Taipei` as metonym in diplomatic-pair phrasing (`Beijing and Taipei`) | Standard diplomatic convention; reads as parallel to `Washington and Moscow`                            | Appears as pair with another capital, not as substitute for Taiwan-the-country                            |
 
 When in doubt: surface to maintainer (§15), do not silently fix.
 
@@ -393,60 +394,70 @@ When in doubt: surface to maintainer (§15), do not silently fix.
 Concrete fix-vs-preserve cases with reasoning. Each shows pattern audited → hit context → judgment → applied fix or preservation.
 
 **Example 1 — `China's Taiwan Affairs Office` → `Beijing's Taiwan Affairs Office`** (W1, commit `4331614bf`)
+
 - Audited: `grep -rn "China's Taiwan Affairs Office" knowledge/en/` → 5 hits across 4 files, including 1 inside a frontmatter `description:` field
-- Judgment: body refs are paraphrased; the office's *de facto* English name in Reuters / AP / FT coverage is `Beijing's Taiwan Affairs Office`; the frontmatter description hit was an end-user-visible card preview, highest-priority surface
+- Judgment: body refs are paraphrased; the office's _de facto_ English name in Reuters / AP / FT coverage is `Beijing's Taiwan Affairs Office`; the frontmatter description hit was an end-user-visible card preview, highest-priority surface
 - Applied: 5 in-place edits using surrounding context; verified residual = 0
 - Lesson: frontmatter is its own audit pass. Body-only grep would have missed the description-field leak.
 
 **Example 2 — `reunification` → `unification`** (W1, commit `4e7ab6958`)
+
 - Audited: `grep -rn '\breunification\b' knowledge/en/` → 14 hits across 9 files
 - Categorized: 2 hits were paraphrased Xi Jinping speech rhetoric and scare-quoted PRC influencer phrasing about Taiwan-China integration → FIX to `unification`. 1 hit was `German reunification` in a comparative-politics article → PRESERVE. 11 hits were inside articles discussing the term itself or quoting PRC sources verbatim → PRESERVE with editor's-note context already present.
 - Applied: 2 edits; preserved 12
 - Lesson: even within one banned-list term, the majority of hits can be legitimate. Sample-and-categorize before editing.
 
 **Example 3 — `Chinese New Year` → `Lunar New Year`** (W2e, commit `1a9894f2c`)
+
 - Audited: 16 hits, all body prose narrative across diverse files (food articles, festival articles, diaspora articles)
 - Categorized: 0 false positives possible — the English phrase has no other meaning
 - Applied: per-file `replace_all` was safe. Lunar New Year count: 40 → 56 (consistent before / after)
 - Lesson: high-confidence patterns where every hit falls in one bucket allow batch `replace_all`. Most patterns are not this clean.
 
 **Example 4 — `taiwans-labeling-in-international-standards.md` whitelist** (W1 audit)
+
 - Audited: `grep -rn 'Taiwan, Province of China' knowledge/en/` → 4 hits
 - Categorized: all 4 in the meta-discussion article whose whole point is to surface ISO 3166's PRC-pressured label. The article cannot exist without quoting the label.
 - Applied: zero edits. Added file path to §11 whitelist row.
 - Lesson: meta-articles about a controversial term must quote the term; the whitelist exists for them.
 
 **Example 5 — French `Li Jiayi` person-name false positive** (cross-lang, fr cleanup)
+
 - Audited: `grep -rn 'Jiayi' knowledge/fr/` while fixing 嘉義 toponym from Pinyin `Jiayi` → Wade-Giles `Chiayi`
 - Categorized: most hits were the city; 2 hits were the person `Li Jiayi` (李嘉義, an unrelated Taiwanese figure whose given name romanizes the same way)
 - Applied: per-occurrence Edits for the toponym; preserved person-name occurrences
 - Lesson: even unambiguous-looking romanization fixes can hit person names. Always sample.
 
 **Example 6 — `Festival de Zhongyuan de Jilong`** (cross-lang, fr)
+
 - Audited: `Jilong` while fixing 基隆 → `Keelung`
 - Categorized: hit appears inside the proper named festival `Festival de Zhongyuan de Jilong` (Keelung Mid-Yuan / Ghost Festival in Spanish-language tourism context)
 - Applied: PRESERVED. Festival's official multilingual marketing uses the Pinyin form for this composite name
 - Lesson: festival names are proper nouns; check official tourism / cultural-affairs office signage before "fixing"
 
 **Example 7 — `mont Jilongtou` compound historical name** (cross-lang, fr)
+
 - Audited: same `Jilong` audit
 - Categorized: hit is inside the compound historical name `mont Jilongtou` (基隆頭山) with explicit French-text disambiguation in the same paragraph
 - Applied: PRESERVED
 - Lesson: compound historical / geological / archaeological names often carry their own romanization tradition independent of the modern city's name
 
 **Example 8 — Korean `대북부` false positive** (cross-lang, ko)
+
 - Audited: `grep -rn '대북' knowledge/ko/` while reviewing `대북` (Sino-Korean for 台北 Taipei) residuals
 - Categorized: several hits were inside `대북부` (大北部, Greater Northern Region of Taiwan), a distinct compound noun
 - Applied: PRESERVED. The 4-character substring match is a regex artifact, not a sovereignty hit
 - Lesson: short romanization fragments (`대북`, `Jilong`, `Min`) are high false-positive risk. Always require word-boundary anchors or surrounding-context Edits.
 
 **Example 9 — Book and film title transliteration** (cross-lang, applies to en too)
+
 - Pattern: Bai Xianyong's 《台北人》 → `Taibei Ren` (NOT `Taipei People`) in academic / translation contexts
 - Reasoning: book titles transliterate the original sound, not the conventional toponym. `Taibei Ren` follows the same logic as translating 《紅樓夢》 as `Hong Lou Meng`, not `Dream of the Red Chamber`, in citation contexts
 - Applied: PRESERVED `Taibei Ren` in literary citation contexts; use English gloss in body
 - Lesson: literary / film / album titles follow a different romanization rule than place names. Check whether the work has an established English title in the publication.
 
 **Example 10 — Audit-tooling collision** (W1 process lesson)
+
 - Symptom: `git status` showed unrelated `knowledge/_translation-status.json` changes alongside the sovereignty cleanup
 - Cause: a parallel `twmd-refresh-daily` cron routine was writing dashboard JSON while the manual cleanup session was running. Directory-level `git add knowledge/` would have grabbed both
 - Applied: per-file `git add knowledge/en/path/to/file.md` only; the cron's WIP was left untracked for its own session to commit
@@ -457,7 +468,7 @@ Concrete fix-vs-preserve cases with reasoning. Each shows pattern audited → hi
 Before any specific rule fires, the lens you carry into the file determines whether the rule even gets considered. This section is the philosophical posture — read once per session, then trust it to bias your judgment.
 
 **Taiwan is the sovereign subject, not the object of someone else's geography.**
-The reader meeting Taiwan in your translation should encounter a country that simply *is* — with elections, a president, a foreign ministry, a passport, a flag, a constitutional order, a national football team, an indigenous-language revival, a diasporic literature. The PRC's claim is a fact about the PRC, not a definitional fact about Taiwan. Frame accordingly.
+The reader meeting Taiwan in your translation should encounter a country that simply _is_ — with elections, a president, a foreign ministry, a passport, a flag, a constitutional order, a national football team, an indigenous-language revival, a diasporic literature. The PRC's claim is a fact about the PRC, not a definitional fact about Taiwan. Frame accordingly.
 
 **Reader-default assumption is country, not exception.**
 Write as if your reader assumes Taiwan is a country unless the article is explicitly about diplomatic non-recognition. Reflexively prepending `the self-ruled island that China claims` to every first reference (as Reuters / AP boilerplate does) is journalistic hedging that Taiwan.md does not owe. Add the cross-Strait clause only when cross-Strait dimension is the actual subject of the sentence.
@@ -478,14 +489,17 @@ Taiwan.md is not Reuters. Reuters has the institutional reason to hedge; Taiwan.
 Translation work in this repo runs concurrently with `twmd-refresh-daily`, `twmd-maintainer-daily`, `twmd-babel`, and human contributors. The mechanical hygiene below is what keeps sovereignty cleanup from colliding with parallel work. Lessons from the 2026-05-25 W1b5 restart incident.
 
 **Use `git worktree` isolation for batch sovereignty cleanup.**
+
 ```bash
 git worktree add ../taiwan-md-immune main
 cd ../taiwan-md-immune
 # do all sovereignty work here
 ```
+
 A dedicated worktree prevents `lint-staged` backup collision with parallel cron routines writing to the primary working tree. The immune-system worktree convention (`taiwan-md-immune`) signals to other sessions that this directory is doing sovereignty work and should not be cron-touched.
 
 **File-level `git add`, never directory-level.**
+
 - Right: `git add knowledge/en/Food/lurou-fan.md docs/editorial/per-language/TRANSLATION-en.md`
 - Wrong: `git add knowledge/en/` (grabs cron WIP)
 - Wrong: `git add -A` (grabs everything, including `_translation-status.json` writes from parallel routines)
@@ -502,6 +516,7 @@ Git enforces nothing here. If your commit message says "16 fixes" but the diff s
 Per [SQUEEZE-MODELS-MAX-PIPELINE.md §Z2.0](../../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md), pointer-only references to this guide fail in practice — sub-agents do not reliably load referenced files even when instructed. The backend prompt must contain the actual tables. For sovereignty-cleanup sub-agents specifically, include §10 decision tree + §11 whitelist + 1–2 §12 worked examples as anti-examples (per the `feedback_subagent_anti_example_works.md` finding: pattern-matchers learn from cases, not rules).
 
 **Commit message template for sovereignty cleanup**:
+
 ```
 🧬 [editorial] en: <pattern> sovereignty cleanup — N fixes across M files
 
@@ -511,6 +526,7 @@ Per [SQUEEZE-MODELS-MAX-PIPELINE.md §Z2.0](../../pipelines/SQUEEZE-MODELS-MAX-P
 - VERIFIED: post-edit residual = R (matches expected)
 - WHITELIST additions to TRANSLATION-en.md §11: <list or none>
 ```
+
 The shape encodes the §10 5-step loop; future audits can replay your reasoning.
 
 ## 15. Open questions

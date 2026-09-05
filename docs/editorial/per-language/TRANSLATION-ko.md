@@ -3,8 +3,8 @@ title: 'TRANSLATION-ko'
 description: '韓文翻譯規範 — 대만 vs 타이완 SSOT + sovereignty-avoid 詞庫 + 한자 → 한글 romanization 規則 + 판단 framework + 화이트리스트 + worked examples + 번역자 mental model'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v2.0'
-last_updated: 2026-05-25
+current_version: 'v2.1'
+last_updated: 2026-09-05
 last_session: '2026-05-25-twmd-translation-ko-augment'
 sister_docs:
   - 'TRANSLATION-en.md'
@@ -43,20 +43,20 @@ audience: 'translator (human + AI)'
 
 ## 1. 국명 / 지역 지칭 (必查)
 
-| zh-TW source              | Recommended Korean                          | When to use                                       | Never use                               | Notes                                                                       |
-| ------------------------- | ------------------------------------------- | ------------------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------- |
-| 台灣 / 臺灣               | **타이완** (primary) / 대만 (secondary)     | 본문, 학술, encyclopedic, sovereignty-context     | `중국 대만`, `중국 타이완`, `대만 지구` | NIKL 권장 타이완; 베이징·상하이 원칙 일치                                   |
-| 中華民國                  | **중화민국 (ROC)**                          | 헌법·법적·제도적 맥락 (中華民國 총통/헌법/외교부) | 일반 시사 글 전체                       | 첫 등장시 `(ROC, Republic of China)` 글로스                                 |
-| 中華台北                  | **중화 타이베이**                           | 올림픽/WHO/ICAO 맥락 한정                         | 일반 글, headline                       | PRC 압박 임시명. 첫 등장시 "PRC 압박으로 강제된 명칭" caveat                |
-| 自由中國                  | 자유중국                                    | 1992 한·중수교 이전 역사 맥락 한정                | 현재형 글                               | 냉전기 한국이 ROC 를 부르던 호칭                                            |
-| 兩岸 / 海峽兩岸           | **양안** / 해협 양안                        | 양안관계·양안정책 정확 호명                       | "PRC-Taiwan" 일반 의미                  | 일반 의미는 `중국과 대만` 으로. `양안` 은 bilateral-within-one-China 프레임 |
-| 中國大陸                  | **중국 / 중국 대륙 / 중국 본토**            | PRC 가리킬 때                                     | 무맥락 `대륙` 단독                      | 단독 `대륙` 은 ROC 내부 시점 import                                         |
-| 中國                      | **중국 / 중화인민공화국**                   | PRC 지칭                                          | `조국` (Taiwan 맥락에서)                |                                                                             |
-| 我國 (zh-TW 의 1인칭 ROC) | **대만 / 타이완 / 중화민국** (3인칭 recast) | 항상                                              | `우리 나라`                             | 1인칭 집합 회피                                                             |
-| 一個中國                  | **하나의 중국 (PRC 의 ~ 원칙)**             | 항상 attribution 명시                             | bare `하나의 중국`                      | "PRC 의 원칙" 으로 attribute                                                |
-| 九二共識                  | **92 공식 (九二共識)**                      | 항상 글로스                                       | 무 글로스                               | 한국 독자 미인지                                                            |
-| 一邊一國                  | 일변일국 / 한쪽씩 한 나라                   | 천수이볜 정권 정책 인용                           |                                         | 첫 등장 글로스                                                              |
-| 一中各表                  | 일중각표 / 하나의 중국 각자 해석            |                                                   |                                         | 첫 등장 글로스                                                              |
+| zh-TW source              | Recommended Korean                          | When to use                                       | Never use                                 | Notes                                                                                                                                                                                                                                                                                                                      |
+| ------------------------- | ------------------------------------------- | ------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 台灣 / 臺灣               | **타이완** (primary) / 대만 (secondary)     | 본문, 학술, encyclopedic, sovereignty-context     | `중국 대만`, `중국 타이완`, `대만 지구`   | NIKL 권장 타이완; 베이징·상하이 원칙 일치                                                                                                                                                                                                                                                                                  |
+| 中華民國                  | **중화민국 (ROC)**                          | 헌법·법적·제도적 맥락 (中華民國 총통/헌법/외교부) | 일반 시사 글 전체                         | 첫 등장시 `(ROC, Republic of China)` 글로스                                                                                                                                                                                                                                                                                |
+| 中華台北                  | **중화 타이베이**                           | 올림픽/WHO/ICAO 맥락 한정                         | 본문 기본 주어로 사용 (→ "대만"으로 교체) | 본문 기본 주어는 항상 "대만". 해당 글에서 대회 맥락이 처음 등장할 때만 "대만(중화 타이베이 명의로 출전)"으로 주석, 이후로는 "대만"만 사용. 직접 인용／메달 공식 집계／단체 정식 명칭／명칭 자체를 설명하는 문단은 중화 타이베이 유지 가능 ([EDITORIAL §六 賽事脈絡的稱名](../EDITORIAL.md), 2026-09-05 OBSERVER-QUEUE #41) |
+| 自由中國                  | 자유중국                                    | 1992 한·중수교 이전 역사 맥락 한정                | 현재형 글                                 | 냉전기 한국이 ROC 를 부르던 호칭                                                                                                                                                                                                                                                                                           |
+| 兩岸 / 海峽兩岸           | **양안** / 해협 양안                        | 양안관계·양안정책 정확 호명                       | "PRC-Taiwan" 일반 의미                    | 일반 의미는 `중국과 대만` 으로. `양안` 은 bilateral-within-one-China 프레임                                                                                                                                                                                                                                                |
+| 中國大陸                  | **중국 / 중국 대륙 / 중국 본토**            | PRC 가리킬 때                                     | 무맥락 `대륙` 단독                        | 단독 `대륙` 은 ROC 내부 시점 import                                                                                                                                                                                                                                                                                        |
+| 中國                      | **중국 / 중화인민공화국**                   | PRC 지칭                                          | `조국` (Taiwan 맥락에서)                  |                                                                                                                                                                                                                                                                                                                            |
+| 我國 (zh-TW 의 1인칭 ROC) | **대만 / 타이완 / 중화민국** (3인칭 recast) | 항상                                              | `우리 나라`                               | 1인칭 집합 회피                                                                                                                                                                                                                                                                                                            |
+| 一個中國                  | **하나의 중국 (PRC 의 ~ 원칙)**             | 항상 attribution 명시                             | bare `하나의 중국`                        | "PRC 의 원칙" 으로 attribute                                                                                                                                                                                                                                                                                               |
+| 九二共識                  | **92 공식 (九二共識)**                      | 항상 글로스                                       | 무 글로스                                 | 한국 독자 미인지                                                                                                                                                                                                                                                                                                           |
+| 一邊一國                  | 일변일국 / 한쪽씩 한 나라                   | 천수이볜 정권 정책 인용                           |                                           | 첫 등장 글로스                                                                                                                                                                                                                                                                                                             |
+| 一中各表                  | 일중각표 / 하나의 중국 각자 해석            |                                                   |                                           | 첫 등장 글로스                                                                                                                                                                                                                                                                                                             |
 
 **전환 정책 (이미 published 된 대만 표기)**: 신규 번역은 타이완 1순위 적용. 기존 14,740 건의 일괄 regex 치환은 maintainer 결정 사항 (§9 참조).
 
@@ -386,14 +386,14 @@ find knowledge/ko/ -name '*.md' -exec sed -i '' 's/중국 본토/중국/g' {} +
 
 **조사 agreement (Korean-specific 鐵則)**: 한국어는 받침 (consonant-final) vs 모음 (vowel-final) 에 따라 후행 助詞가 변한다. **"중국 본토" → "중국" 치환은 vowel-final 「토」가 consonant-final 「ㄱ」으로 바뀌므로 모든 후행 조사를 재검증해야 한다**:
 
-| 受詞 / 主格 / 連結    | 본토 (vowel-final) | 중국 (consonant-final) | 변환                |
-| --------------------- | ------------------ | ---------------------- | ------------------- |
-| 主格                  | 본토**가**         | 중국**이**             | 가 → 이             |
-| 受詞                  | 본토**를**         | 중국**을**             | 를 → 을             |
-| 連結 (and)            | 본토**와**         | 중국**과**             | 와 → 과             |
-| Tool / Path / Method  | 본토**로**         | 중국**으로**           | 로 → 으로           |
-| Topic marker          | 본토**는**         | 중국**은**             | 는 → 은             |
-| Possessive / Belongs  | 본토**의**         | 중국**의**             | (불변)              |
+| 受詞 / 主格 / 連結   | 본토 (vowel-final) | 중국 (consonant-final) | 변환      |
+| -------------------- | ------------------ | ---------------------- | --------- |
+| 主格                 | 본토**가**         | 중국**이**             | 가 → 이   |
+| 受詞                 | 본토**를**         | 중국**을**             | 를 → 을   |
+| 連結 (and)           | 본토**와**         | 중국**과**             | 와 → 과   |
+| Tool / Path / Method | 본토**로**         | 중국**으로**           | 로 → 으로 |
+| Topic marker         | 본토**는**         | 중국**은**             | 는 → 은   |
+| Possessive / Belongs | 본토**의**         | 중국**의**             | (불변)    |
 
 W1 cleanup 에서 70 개 본토 → 중국 치환 후 9 개 file 에 助詞 mismatch 가 남았다 — followup commit 필요했음. **post-edit 즉시 grep agreement 검증** 이 본질적 step 이지 optional 이 아니다.
 
@@ -458,22 +458,22 @@ npm run build 2>&1 | grep -i error
 
 다음 패턴은 grep 으로 잡히지만 **수정 금지** (이유 명시 + 매번 §10 Step 2 분류에서 PRESERVE bucket 으로 sort). 새 false positive 발견 시 PR 로 이 table 에 추가.
 
-| Pattern                            | Why PRESERVE                                                       | Reference                                                                            |
-| ---------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| `대북부 (大北部)`                  | Greater Northern Region 지리 행정 region 명, NOT 台北              | `Geography/tectonic-plates-and-seismic-activity.md:82`                               |
-| `대중 (大眾)` 일반 대중            | general public, NOT 台中 — 매 occurrence 문맥 확인                 | (corpus 전반)                                                                        |
-| `《대북인 (台北人)》`              | 바이셴융 1971 단편집 책 제목 transliteration of 原題               | `Art/postwar-taiwanese-literature.md:68,199,201`                                     |
-| `신죽음사 (新竹吟社)`              | 1752 historical 시사 compound 고유 명사                            | `Art/history-of-taiwanese-literature.md:67`                                          |
-| `양안 통일전선` / `통전`           | united-front 공작 (work), NOT 양안 통일 (unification)              | `Society/falun-gong-in-taiwan.md:68`                                                 |
-| `중국 대륙` in verbatim citation   | BBC 등 원문 中國大陸 verbatim 인용 시 출처 충실성 우선             | `Geography/hsinchu-city.md:99,235` etc.                                              |
-| `대만성 정부 / 대만성 의회`        | 1949-1998 ROC 행정 단위 史実 institutional name                    | History 시리즈 전반                                                                  |
-| `화교 (華僑)` generic context      | 일반 중국계 디아스포라 context (≠ Taiwan-diaspora specifically)    | Migration/Diaspora 문서                                                              |
-| `taiwans-labeling-in-international-standards.md` | 메타 토론 of term itself — 용어 자체가 주제           | (article 전체)                                                                       |
-| `poisoned-potato-cognitive-warfare-taiwan.md`    | 認知戰 메타 토론 — PRC framing 자체가 분석 대상      | (article 전체)                                                                       |
-| `taiwan-unification-independence-spectrum.md`    | 통일/독립 spectrum 메타 분석 — 양 극단 용어 모두 cite | (article 전체)                                                                       |
-| 한국 媒體 headline verbatim 「대만」 | 직접 인용 시 매체 표기 보존 (translator's voice ≠ source voice) | RTI / 한겨레 / SBS 등 quote                                                          |
-| `이등휘` in long-form lee-teng-hui article | author 의 의도적 Sino-Korean choice — 38 instances 일괄 변경 = editorial decision 필요 | `People/lee-teng-hui.md` (38 instances; §15 open question) |
-| Frontmatter `description / title / imageAlt / tags` | body-only grep 으로 안 잡힘 — 별도 audit pass 필수      | (모든 file)                                                                          |
+| Pattern                                             | Why PRESERVE                                                                           | Reference                                                  |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| `대북부 (大北部)`                                   | Greater Northern Region 지리 행정 region 명, NOT 台北                                  | `Geography/tectonic-plates-and-seismic-activity.md:82`     |
+| `대중 (大眾)` 일반 대중                             | general public, NOT 台中 — 매 occurrence 문맥 확인                                     | (corpus 전반)                                              |
+| `《대북인 (台北人)》`                               | 바이셴융 1971 단편집 책 제목 transliteration of 原題                                   | `Art/postwar-taiwanese-literature.md:68,199,201`           |
+| `신죽음사 (新竹吟社)`                               | 1752 historical 시사 compound 고유 명사                                                | `Art/history-of-taiwanese-literature.md:67`                |
+| `양안 통일전선` / `통전`                            | united-front 공작 (work), NOT 양안 통일 (unification)                                  | `Society/falun-gong-in-taiwan.md:68`                       |
+| `중국 대륙` in verbatim citation                    | BBC 등 원문 中國大陸 verbatim 인용 시 출처 충실성 우선                                 | `Geography/hsinchu-city.md:99,235` etc.                    |
+| `대만성 정부 / 대만성 의회`                         | 1949-1998 ROC 행정 단위 史実 institutional name                                        | History 시리즈 전반                                        |
+| `화교 (華僑)` generic context                       | 일반 중국계 디아스포라 context (≠ Taiwan-diaspora specifically)                        | Migration/Diaspora 문서                                    |
+| `taiwans-labeling-in-international-standards.md`    | 메타 토론 of term itself — 용어 자체가 주제                                            | (article 전체)                                             |
+| `poisoned-potato-cognitive-warfare-taiwan.md`       | 認知戰 메타 토론 — PRC framing 자체가 분석 대상                                        | (article 전체)                                             |
+| `taiwan-unification-independence-spectrum.md`       | 통일/독립 spectrum 메타 분석 — 양 극단 용어 모두 cite                                  | (article 전체)                                             |
+| 한국 媒體 headline verbatim 「대만」                | 직접 인용 시 매체 표기 보존 (translator's voice ≠ source voice)                        | RTI / 한겨레 / SBS 등 quote                                |
+| `이등휘` in long-form lee-teng-hui article          | author 의 의도적 Sino-Korean choice — 38 instances 일괄 변경 = editorial decision 필요 | `People/lee-teng-hui.md` (38 instances; §15 open question) |
+| Frontmatter `description / title / imageAlt / tags` | body-only grep 으로 안 잡힘 — 별도 audit pass 필수                                     | (모든 file)                                                |
 
 **원칙**: false positive 가 1개라도 발견되면 그 패턴은 더 이상 "regex-safe" 가 아니다. §10 5-step framework 강제. Whitelist 는 자라는 SSOT (living document).
 

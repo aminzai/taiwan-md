@@ -174,6 +174,26 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 居住正義 EVOLVE — 覆蓋 3/18 百科式舊文〈社會住宅與居住正義〉，十語譯本轉址
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/居住正義.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-05 by 哲宇 2026-09-05 fortnight-review 拍板（session 2026-09-05-154128-fortnight-review）
+- **Notes**:
+  - 一句話核心張力：社會住宅政策十年，官方一直用「蓋了多少戶」的供給數字交代成果，但真正決定一個租屋家庭能不能穩定住下來的，是資格分級、地方執行落差與空屋活化——舊篇〈社會住宅與居住正義〉（2026-03-18）用 11 個百科式 H2 羅列政策名詞，把這條治理張力藏在條列句底下；新篇〈居住正義〉（2026-08-25）已經用「住房是公共基礎設施」的框架把它寫出來，且 frontmatter 已有完整 `rationale` block。這個 EVOLVE 要做的是把舊篇裡可查證的獨有事實吸收進新篇，讓舊篇除役，不是兩篇並存讓讀者自己猜要讀哪篇
+  - 三篇並存現況釐清：〈社會住宅與居住正義〉(03-18／303 行／5 腳註／11 個百科式 H2／10 語譯本：ar/en/es/fr/hi/ja/ko/pt/ru/vi) 是本次 EVOLVE 的吸收對象；〈國宅與居住正義〉(06-06／379 行／27 腳註／明確論點「公共補貼變早買者私人資產」) **獨立保留、不進 EVOLVE 範圍**——它論的是國宅補貼回收機制，跟居住正義談的社宅供給／可及性是不同子題，兩篇互設延伸閱讀即可；〈居住正義〉(08-25／143 行／敘事密度高) 是這次 EVOLVE 的底本
+  - 執行步驟：
+    1. 以〈居住正義〉為底，逐條核對〈社會住宅與居住正義〉5 條腳註，只把可查證、非重複、真的補強敘事的事實（政策沿革時間點、「8 年 20 萬戶」原始政策數字等）合入
+    2. 刪除 `knowledge/Society/社會住宅與居住正義.md` 與其十語譯本（檔名 `social-housing-and-housing-justice.md`，語言：ar/en/es/fr/hi/ja/ko/pt/ru/vi），`_translations.json`／`_translation-status.json` 同步移除殘留條目
+    3. 轉址走 `astro.config.mjs` redirects map（依 2026-08-27 早餐整併先例 `5fb0959d0`，內容併篇轉址走這裡，不是 `config/redirects-manual.txt`）：zh 與十語舊 slug → 新 slug。**〈居住正義〉目前尚無任何語言譯本**，十語轉址目標須先落到新篇 zh 版或該語 Society Hub（同早餐整併對 id/ru/vi 的處理——當時目標語言版本不存在就先轉 zh canonical），等 babel 補上新篇對應語言版本後再收斂成語言對語言
+    4. 〈國宅與居住正義〉與〈居住正義〉互設延伸閱讀（雙向，Stage 5 反向連結一致性——2026-07-18 記過的病：翻案後 sibling 的反向連結描述停在舊敘事）
+    5. 跑 check-url-contract 確認 build 三面（hreflang／canonical／sitemap）dead=0
+  - 這是一個 REWRITE session 的工作量（吸收事實＋刪檔＋十語轉址＋互設延伸閱讀），本條只登記不執行
+- **Reference**: [OBSERVER-QUEUE.md #40](OBSERVER-QUEUE.md)、2026-08-27 早餐整併先例 commit `5fb0959d0`
+
 ### 陳士駿 EVOLVE — 接住 #1630 來源升級與 subcategory 正典化，第五路徑首例
 
 - **Type**: `EVOLVE`

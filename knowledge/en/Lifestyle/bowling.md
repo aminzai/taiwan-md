@@ -14,7 +14,7 @@ tags:
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-06-27
+lastVerified: 2026-09-05
 lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
@@ -46,7 +46,7 @@ UFO Ball requires the player to point their palm downward at the moment of relea
 
 ## Bangkok Asian Games: The Golden Age of 300,000 TWD Daily Revenue
 
-The 199<0xA0>8 Bangkok Asian Games represented the most dazzling moment in Taiwan's bowling history. The Chinese Taipei delegation captured 19 gold medals, with bowling contributing six—sweeping the men's, women's, doubles, and team events.[^5] The men's singles gold medalist, Wu Fu-lung, even received a congratulatory telegram from the Vice President.[^6]
+The 199<0xA0>8 Bangkok Asian Games represented the most dazzling moment in Taiwan's bowling history. Taiwan's delegation (competing as Chinese Taipei) captured 19 gold medals, with bowling contributing six—sweeping the men's, women's, doubles, and team events.[^5] The men's singles gold medalist, Wu Fu-lung, even received a congratulatory telegram from the Vice President.[^6]
 
 This frenzy was reflected in economic data: investing in a 30-lane bowling alley required approximately 30 million TWD, but during its 1990s peak, daily revenues could reach 200,000 to 300,000 TWD, with a payback period of only one year.[^13] Bowling alleys frequently featured "Red Pin Games"—if a red pin appeared in the No. 1 spot and resulted in a strike, the game was free or a prize was awarded.[^13] At the time, bowling alleys were not just arenas for competition, but 2_4-hour social hubs.[^8]
 

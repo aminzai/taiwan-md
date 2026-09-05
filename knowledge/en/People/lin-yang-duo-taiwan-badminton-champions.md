@@ -8,7 +8,7 @@ subcategory: '體育'
 tags:
   ['運動員', '王齊麟', '李洋', '麟洋配', '羽球', '東京奧運', '巴黎奧運', '金牌']
 readingTime: 12
-lastVerified: 2026-05-19
+lastVerified: 2026-09-05
 lastHumanReview: true
 featured: true
 translatedFrom: People/麟洋配.md
@@ -41,7 +41,7 @@ After entering the elite (Group A) ranks, Wang Chi-lin joined the Land Bank badm
 
 The three smash trajectories each target different attacking scenarios. **Cross-court smashes** travel from the right backcourt diagonally to the opposite frontcourt, cutting through the mid-court defensive line—the longest distance with the greatest speed decay, demanding the highest precision. **Straight smashes** go from the same-side backcourt directly to the frontcourt, using speed to compress the opponent's reaction time—this was the first attacking path Wang Chi-lin systematically practiced. **Short-angle smashes** target the outer edge of the sideline, forcing the opponent into a large lateral displacement before they can defend, with the goal of creating an open court for the next shot. Each trajectory required a hit rate above 70%, and this placement-precision training continued for over two years. This process transformed Wang Chi-lin from a power player who "just hit hard" into a tactical attacker who clearly understood "the reason for choosing this trajectory at this moment, from this angle."
 
-After officially joining the Chinese Taipei national team in 2014, he tried multiple partner combinations, continuously searching for a front-court pairing that could amplify his back-court smash threat. This search found its most complete answer only in 2017, when he first partnered with Lee Yang.
+After officially joining Taiwan's national team (competing as Chinese Taipei) in 2014, he tried multiple partner combinations, continuously searching for a front-court pairing that could amplify his back-court smash threat. This search found its most complete answer only in 2017, when he first partnered with Lee Yang.
 
 ### Lee Yang: The Technician from a Badminton Family
 

@@ -14,7 +14,7 @@ tags:
   - 'Athlete'
   - 'Taiwan'
 readingTime: 14
-lastVerified: 2026-06-29
+lastVerified: 2026-09-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/周天成.md'
@@ -24,7 +24,7 @@ sourceBodyHash: 'sha256:cc68e7641279a1e9'
 translatedAt: '2026-07-07T00:38:21+08:00'
 ---
 
-> **30‑second overview:** Chou Tien-chen, born 1990 in Taipei, is Taiwan’s leading men’s singles badminton player. He won the 2014 French Open, becoming the first Taiwanese player to capture a BWF Super Series men’s singles title.[^2] In August 2019 he rose to world No. 2, the highest ever ranking for a Taiwanese men’s singles player.[^1] He is the first Taiwanese player to defeat “the world king” Lin Dan on the international stage.[^13] He represented Chinese Taipei at three consecutive Olympic Games, reaching the quarterfinals each time.[^2] In early 2023 a routine colonoscopy revealed early‑stage colon cancer; he underwent surgery and, within days, flew abroad to compete, weathering a nearly year‑long slump.[^3] The following year, at age 34, he reached the quarterfinals at the Paris Olympics.[^10] At 36 he remains one of the oldest regulars in the world’s top tier.[^12]
+> **30‑second overview:** Chou Tien-chen, born 1990 in Taipei, is Taiwan’s leading men’s singles badminton player. He won the 2014 French Open, becoming the first Taiwanese player to capture a BWF Super Series men’s singles title.[^2] In August 2019 he rose to world No. 2, the highest ever ranking for a Taiwanese men’s singles player.[^1] He is the first Taiwanese player to defeat “the world king” Lin Dan on the international stage.[^13] He represented Taiwan (competing as Chinese Taipei) at three consecutive Olympic Games, reaching the quarterfinals each time.[^2] In early 2023 a routine colonoscopy revealed early‑stage colon cancer; he underwent surgery and, within days, flew abroad to compete, weathering a nearly year‑long slump.[^3] The following year, at age 34, he reached the quarterfinals at the Paris Olympics.[^10] At 36 he remains one of the oldest regulars in the world’s top tier.[^12]
 
 ![Chou Tien-chen lunging to save a shot at the 2018 Taipei Open, a classic moment of his rally‑intensive style](/article-images/people/chou-tien-chen-taipei-open-2018.webp)
 
@@ -44,7 +44,7 @@ The most humiliating stretch came in the first half of 2014. Facing top‑level 
 
 He rebounded faster than anyone expected. In October 2014, at the French Open, he became the first Taiwanese player to win a BWF Super Series men’s singles title.[^2] In 2016 he ended a 17‑year wait by capturing the Taipei Open, the first home‑grown champion in years.[^2] At the 2018 Jakarta Asian Games he earned a men’s singles silver medal.[^2]
 
-2019 was his peak. He defeated Denmark’s Anders Antonsen in the Indonesia Open final, securing his first Super 1000 title.[^1] In August of that year his world ranking rose to No. 2—the first time any Taiwanese men’s singles player had reached that position.[^1] The following year at the All England Open, with the then‑king Viktor Axelsen absent due to a car accident, Chou entered as the top seed but fell to Denmark’s Viktor Axelsen in the final, taking silver.[^1] He added a bronze at the 2022 World Championships[^2] and, while still with CTBC, helped Chinese Taipei claim the men’s team bronze at the 2024 Thomas Cup.[^1]
+2019 was his peak. He defeated Denmark’s Anders Antonsen in the Indonesia Open final, securing his first Super 1000 title.[^1] In August of that year his world ranking rose to No. 2—the first time any Taiwanese men’s singles player had reached that position.[^1] The following year at the All England Open, with the then‑king Viktor Axelsen absent due to a car accident, Chou entered as the top seed but fell to Denmark’s Viktor Axelsen in the final, taking silver.[^1] He added a bronze at the 2022 World Championships[^2] and, while still with CTBC, helped Taiwan claim the men’s team bronze at the 2024 Thomas Cup.[^1]
 
 ## A Style Called “Grinding”
 
@@ -78,7 +78,7 @@ He kept the diagnosis private until November 2023, when he won the German Heil
 
 ## Paris: Quarterfinals Against the Wind
 
-The Olympics remain an unfinished chapter for Chou. At Rio 2016 he reached the quarterfinals but lost 0‑2 to Malaysia’s Lee Zheng‑fei.[^1] In Tokyo 2021 he again made the quarterfinals, losing a tight three‑game match to China’s Chen Long, 14‑21 in the decider.[^1] In the summer of 2024 he returned for his third Olympic appearance.[^2] Fresh from cancer surgery, he roared in the group stage, energising the Chinese Taipei squad with a perfect record and advancing to the round of 16.[^10] In the knockout round he faced Japan’s top player Kenta Naraoka, winning convincingly 21‑12, 21‑16 to reach the quarterfinals for a third time, matching his personal Olympic best.[^2] There he met India’s Lakshya Sen; after a grueling 75‑minute battle he fell short, his Olympic medal dream slipping away once more.[^2]
+The Olympics remain an unfinished chapter for Chou. At Rio 2016 he reached the quarterfinals but lost 0‑2 to Malaysia’s Lee Zheng‑fei.[^1] In Tokyo 2021 he again made the quarterfinals, losing a tight three‑game match to China’s Chen Long, 14‑21 in the decider.[^1] In the summer of 2024 he returned for his third Olympic appearance.[^2] Fresh from cancer surgery, he roared in the group stage, energising the Taiwan squad with a perfect record and advancing to the round of 16.[^10] In the knockout round he faced Japan’s top player Kenta Naraoka, winning convincingly 21‑12, 21‑16 to reach the quarterfinals for a third time, matching his personal Olympic best.[^2] There he met India’s Lakshya Sen; after a grueling 75‑minute battle he fell short, his Olympic medal dream slipping away once more.[^2]
 
 Reaching the quarterfinals in three consecutive Olympics has been achieved by only four players before him.[^20] Yet this quarterfinal carried a different meaning: it was the triumph of a man who, less than a year earlier, had been on an operating table, now back on the world stage fighting for victory.[^4]
 
