@@ -1,289 +1,111 @@
 ---
 title: 'REWRITE-PIPELINE 單檔案型完整流程'
-description: '文章改寫完整流程的單檔版（凍結自 2026-07-15 v8.0，拆成薄索引＋十個 stage contract 之前的最後一版）— Stage 0 觀點 → 1 取材 → 2 投影／寫／編輯室 → 3 驗 → 4 形 → 5 連，全程一檔讀完；哲宇 2026-09-05 directive 抓回命名'
+description: '文章改寫流程單檔閱讀版（工具生成，不要手改）— 依 REWRITE-PIPELINE.md 派發表順序，串接十個 REWRITE-STAGE-*.md contract 自動重組；SSOT 仍是 v9 拆檔版，本檔僅供一次讀完整條產線之用'
 type: 'pipeline-canonical'
-status: 'archived'
-apoptosis: 'archived'
-current_version: 'v8.0-single'
-last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review（哲宇 directive「抓回分裂成多檔案前最後的版本作為單檔 rewrite-pipeline，命名為單檔案型完整流程」；來源 commit 69591d8a6 = 739a1c572^，內容逐字未改，只換 frontmatter 與加開頭說明。同日稍晚哲宇拍板 v9 拆檔版為 SSOT，本檔搬進 archive/ 變歷史快照，「單檔案型完整流程.md」路徑改由 build-rewrite-single-file.py 生成版接手）'
-superseded_by:
-  - 'REWRITE-PIPELINE.md'
-  - 'REWRITE-PIPELINE-單檔案型完整流程.md'
-plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
-sister_docs:
-  - 'EVOLVE-PIPELINE.md'
-  - 'FACTCHECK-PIPELINE.md'
-  - 'TRANSLATION-PIPELINE.md'
-  - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
-  - 'PEER-INGESTION-PIPELINE.md'
-  - 'MEMORY-PIPELINE.md'
-  - 'DIARY-PIPELINE.md'
-  - 'RESEARCH-AGENT-PROMPT.md'
-  - 'WRITER-PROMPT.md'
-upstream_canonical:
-  - '../semiont/MANIFESTO.md'
-  - '../semiont/DNA.md'
-  - '../editorial/EDITORIAL.md'
-  - '../editorial/PROJECTION.md'
-frozen_from: '69591d8a6 (2026-07-15 v8.0, parent of v9.0 split 739a1c572)'
-related:
-  - 'REWRITE-PIPELINE.md'
+status: 'canonical'
+current_version: 'v9.7-single'
+last_updated: 2026-08-15
+last_session: '2026-08-15-095913-manual（v9.7 研究層品質波：哲宇 directive「大幅梳理 REWRITE-PIPELINE / RESEARCH-AGENT-PROMPT 讓未來產出高品質研究與文體＋整合 session 要有判斷好報告的準則」——STAGE-1A v9.2 新增 Step 1.7.5 整合與清理六判準＋搜尋量天花板制（全篇 ~150：Stage 0 20-30＋fan-out ~120-130，四隻各 ~30）；RESEARCH-AGENT-PROMPT v2.1 好報告形態正面範本＋契約第 6 條 Findings 寫世界不寫任務；research-report-health v4 合成層過程噪音 gate。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
+generated_from:
+  - 'REWRITE-PIPELINE.md@59a57c944'
+  - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
+  - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbc'
+  - 'REWRITE-STAGE-1B-MEDIA.md@70e08c91d'
+  - 'REWRITE-STAGE-2A-PROJECTION.md@5b2ef8b4d'
+  - 'REWRITE-STAGE-2B-ROOM-PROJECTION.md@70e08c91d'
+  - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e32'
+  - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d'
+  - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0'
+  - 'REWRITE-STAGE-3-VERIFY.md@36d5c8e32'
+  - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
+  - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
+generated_at: '2026-09-05T17:24:03+08:00'
 ---
 
-> **2026-09-05 哲宇拍板：v9 是 SSOT，本檔為歷史快照；現行單檔閱讀版由 `build-rewrite-single-file.py` 生成。**
+# REWRITE-PIPELINE 單檔案型完整流程
 
-# REWRITE-PIPELINE.md — 文章改寫主流程 v7.0
+> **本檔由工具生成，不要手改**——改 v9 來源（[REWRITE-PIPELINE.md](REWRITE-PIPELINE.md) 或任一 `REWRITE-STAGE-*.md`）後重跑 `python3 scripts/tools/build-rewrite-single-file.py` 重新生成。歷史 v8.0 快照在 [archive/REWRITE-PIPELINE-v8.0-single-file-2026-07-15.md](archive/REWRITE-PIPELINE-v8.0-single-file-2026-07-15.md)。
 
-> **這是什麼**：REWRITE-PIPELINE 在 2026-07-16 v9.0 拆成薄索引＋十個 `REWRITE-STAGE-*.md` contract 之前，最後一版完整的單檔流程（v8.0，2026-07-15，commit `69591d8a6`）。哲宇 2026-09-05 要求抓回來，給想一次讀完整條產線的 session 或人用。
->
-> **跟 v9 薄索引的關係**：日常 routine 與 `/twmd-rewrite` 仍讀 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md) v9.x；v9 之後長出的東西（v9.2 不對稱分工讀食、v9.5 節流波、v9.7 研究層品質波、spine 第三型）**不在本檔**。兩份哪一份是往後演化的 SSOT，見 OBSERVER-QUEUE 2026-09-05 決策項。本檔內容自 `69591d8a6` 逐字未改，只換了 frontmatter 與這段說明。
+<!-- ==== source: REWRITE-STAGE-0-VIEWPOINT.md @ 8a7af3788 ==== -->
 
-> **第一性原理**：所有文章都走同一條 6-stage pipeline，每篇都跑過。模式判定 + 編輯前思考收斂在 **Stage 0 觀點**（Step 0.1-0.6），Stage 1 變純取材，Stage 2-5 完全 mode-agnostic。
->
-> **翻譯不在本 pipeline scope** — 本 pipeline 100% 預算給中文版產出。多語版本由獨立的[巴別塔 pipeline](SQUEEZE-MODELS-MAX-PIPELINE.md) 負責。
->
-> **v6.0 新增 Stage 0 觀點**（2026-05-11 admiring-montalcini）：在搜尋之前先以總編輯視角想清楚「對台灣人是什麼樣的記憶 / 多元面貌 / 想法感受 / 歷史脈絡 / 社會關聯 / 類型專屬問題」六個核心問題，產出 §觀點成型 落 research report。原 Stage 1 模式判定 + 萃取舊素材 + 載入方法論（Step 1.1-1.5）移到 Stage 0，原 Stage 1 Step 1.6-1.14 重編為 1.1-1.9。**翻轉 AI 寫作標準失敗模式**：從「搜尋發現事實 → 補丁觀點」變「先想觀點 → 帶問題去搜尋」。觸發：哲宇 2026-05-11 callout「重點在溫度 / 人味 / 故事 / 策展 / 觀點 / 體驗 / 與社會歷史環境跟我們人生的關聯」。
->
-> v5.0 設計理由：[reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md](../../reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md)。
+## Stage 0 contract — 觀點（模式判定＋編輯前思考）
 
----
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L273-739），歷史敘事與教訓保留在文內。
 
-## 🗺️ ASCII spine
+### 執行卡
+
+|                  |                                                                                                                                                                                                     |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 判定模式（Fresh/Evolution/Merge/Boundary ＋ callout 旗標）、spine 類型，完成六核心問題＋≥20 探索的觀點成型                                                                                          |
+| **執行者**       | 主 session；觀點成型可派 1 Opus agent（callout case blind to errata）                                                                                                                               |
+| **INPUTS**       | （EVOLVE）舊文 `knowledge/{Cat}/{slug}.md`；`docs/editorial/RESEARCH.md`＋`RESEARCH-TEMPLATE.md` 全文；MANIFESTO §13                                                                                |
+| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md` 開頭 §觀點成型 ＋ frontmatter `spine_type` / `viewpoint_formed: true`                                                                                        |
+| **GATES**        | `python3 scripts/tools/research-report-health.py reports/research/{YYYY-MM}/{slug}.md --stage 0`（hard_fail=0 才進 Stage 1）                                                                        |
+| **context 預算** | 本檔＋（EVOLVE）舊文一篇；**委派 Step 0.6 時 RESEARCH.md／RESEARCH-TEMPLATE.md 由觀點 agent 端讀，主 session 最小讀＝本檔＋舊文**（v9.2，2026-07-16 高教 dogfood F4——比照 Stage 1A 執行卡的分工行） |
+
+### AGENT PROMPT（觀點 agent，Opus ×1，v9.0 補齊薄殼）
+
+> callout-triggered case 必用 agent（blind to errata）；一般 depth 可主 session 自跑。填槽後 verbatim 派發，禁即興。
 
 ```
-╭──────────────────────────────────────────────────────────────────────────╮
-│              REWRITE-PIPELINE 6 階段 — 每篇都跑同一條                    │
-│                                                                          │
-│   Stage 0: 觀點 ─→ 6 steps（編輯前思考 + 模式判定）⭐ v6.0 新增          │
-│            ├── Step 0.1 模式識別 [Fresh/Evolution/Merge/Boundary]        │
-│            ├── Step 0.2 既有素材萃取（EVOLVE only）                       │
-│            ├── Step 0.3 選 canonical（Merge variant only）                │
-│            ├── Step 0.4 範圍切片表（Boundary variant only）               │
-│            ├── Step 0.5 載入研究方法論 + 模板                             │
-│            └── Step 0.6 觀點成型 🎬 (HARD GATE)                          │
-│              ↳ Hard gate: §觀點成型落檔 + viewpoint_formed: true         │
-│                                                                          │
-│   Stage 1: 取材 ─→ 9 steps（純搜尋，帶 Stage 0 問題去驗證）              │
-│            ├── Step 1.1 搜尋深度 ≥ 80                                    │
-│            ├── Step 1.2 結尾素材鎖定                                      │
-│            ├── Step 1.3 重複偵測                                          │
-│            ├── Step 1.4 找矛盾鎖定（收斂 Stage 0.6 核心矛盾候選）         │
-│            ├── Step 1.5 問觀察者要一手素材                                │
-│            ├── Step 1.6 私有 SSOT 觀察者拍板（條件式）                    │
-│            ├── Step 1.7 研究報告必存                                      │
-│            ├── Step 1.8 Spawn agent 選型                                  │
-│            └── Step 1.9 媒體素材研究 🎬 (HARD GATE)                      │
-│              ↳ Hard gate: 報告落檔 / 媒體三表                            │
-│                                                                          │
-│   ── 投影 (Projection) ── 研究 → 投影邏輯 → 文章 的中間層 ⭐ v8.0 ──     │
-│   Step 2.0: 投影藍圖 ─→ 論點 + 骨架 + 減法 + echo map 🎬 (HARD GATE)     │
-│            ├── 論點（有張力、要被賺到，非摘要）                          │
-│            ├── 骨架（動作序列，過 shuffle test，非面向巡禮）             │
-│            ├── 每 section 雙重職責（局部承載 + 全局功能 + 扣回主軸）     │
-│            └── 減法（明列砍什麼）+ echo map（每段押韻主軸錨）            │
-│              ↳ Hard gate: 藍圖落檔 reports/article-projection/ + 5 題    │
-│              ↳ canonical: docs/editorial/PROJECTION.md                   │
-│   Step 2.0-R: 投影編輯室 ─→ 乾淨 context 分席審 🎬 (depth HARD) ⭐ v8.1 │
-│              ↳ reports/editorial-room/ + editorial-room-health.py        │
-│              ↳ canonical: docs/editorial/EDITORIAL-ROOM.md               │
-│                                                                          │
-│   Stage 2: 寫 ──→ 8 steps（照投影藍圖執行，不重排結構）                  │
-│            ├── Step 2.1-2.6 結尾先行 → 開場 → 小標題 → 正文 → 延伸      │
-│            ├── Step 2.7 7 條自檢（含 Title 三明治 🥪 + 媒體 spine 🎬）  │
-│            └── Step 2.8 富文本 + footnote 密度                           │
-│              ↳ Hard gate: 10 條                                          │
-│   Step 2.5-R: 正文結構編輯室 ─→ 論點兌現對抗 ⭐ v8.1                    │
-│                                                                          │
-│   Stage 3: 驗 ──→ 6 steps（3.1-3.5 草稿驗 + 3.6 成品總驗）⭐ v7.0       │
-│            ├── Step 3.1-3.4 塑膠 / 鐵三角 / FACTCHECK / story atom       │
-│            │     └── Step 3.3 跑 rewrite-stage-3-5 profile gate（plugin 以 --list-checks 為準）│
-│            │         (footnote-format + footnote-density，v6.1 新增)     │
-│            ├── Step 3.5 Title+desc spine sync re-check 🥪                │
-│            └── Step 3.6 成品總驗三關 🔍（原子重驗 fan-out + 順稿 +      │
-│                視覺同步）— A 級/大眾文/勘誤後 HARD                       │
-│              ↳ Hard gate: 0 dead-link / footnote canonical / 成品三關    │
-│                                                                          │
-│   Stage 4: 形 ──→ 3 steps（含 6 個媒體子點）                             │
-│            ├── Step 4.1 article-health 7 維度                            │
-│            ├── Step 4.2 多語 visual smoke                                │
-│            └── Step 4.3 媒體插入（6 sub-step）                           │
-│              ↳ Hard gate: hard=0 / image-health pass                     │
-│                                                                          │
-│   Stage 5: 連 ──→ 4 steps                                                │
-│            ├── Step 5.1-5.3 掃描 / 雙向 / Sibling 預檢                   │
-│            └── Step 5.4 (Merge variant only) Astro redirect 5 lang       │
-│              ↳ Hard gate: format-structure / build verify                │
-│                                                                          │
-│   ✅ Article shipped (zh-TW canonical)                                   │
-│                                                                          │
-│   ──── 翻譯（跨 pipeline boundary，主權的巴別塔）────                    │
-│   → SQUEEZE-MODELS-MAX-PIPELINE.md（多語 batch sync 主流程）             │
-│   → TRANSLATION-PIPELINE.md（單篇翻譯）                                  │
-╰──────────────────────────────────────────────────────────────────────────╯
+你是 Taiwan.md 的總編輯，為「{TOPIC}」做編輯前思考（觀點成型）。工作目錄：{REPO_ROOT}。
+必讀（完整 Read，不准節選）：docs/pipelines/REWRITE-STAGE-0-VIEWPOINT.md（本 stage contract——
+§Step 0.6.5 落檔模板與 §Step 0.6.7 三道 self-check 都在裡面）、docs/editorial/RESEARCH.md、
+docs/editorial/RESEARCH-TEMPLATE.md、docs/semiont/MANIFESTO.md 的 §13 立體地愛。
+先判 spine 類型（受愛戴／集體記憶題 → 立體群像 default；真爭議題才矛盾驅動，解鎖須寫
+unlock_reason；拿不準 → 立體群像）。{TOPIC_GUARDRAILS}
+回答六個核心問題（記憶／多元面貌／想法感受／歷史脈絡／社會關聯／類型專屬），
+做 ≥20 次探索搜尋（persona 不算搜尋；中文網站用中文查、要求逐字內容），每條 query＋一句話
+發現＋URL 記進 §探索搜尋紀錄，落 §觀點成型 到 reports/research/{YYYY-MM}/{SLUG}.md 開頭
+（格式照 contract §Step 0.6.5 模板），frontmatter 用這個最小塊：
+
+---
+title: '{SLUG} research report'
+article: knowledge/{CAT}/{SLUG}.md
+stage: 0-viewpoint
+mode: {MODE}
+spine_type: {你的判定}
+viewpoint_formed: true
+date: {DATE}
+session: {SESSION}
+---
+
+{EVOLVE_ONLY: 以下事實清單是舊文萃取，只當素材（每條後續都要重驗）：{FACT_LIST}}
+禁止輸入：舊文為什麼寫不好、讀者 callout、勘誤敘事（觀點從題材長出，不從錯誤長出）。
+完成時：(1) ls 驗證檔案真的存在才回報 (2) 跑
+python3 scripts/tools/research-report-health.py reports/research/{YYYY-MM}/{SLUG}.md --stage 0
+並回報完整輸出 (3) 回報 spine 判定與理由、六題一句話摘要、實際搜尋次數。不粉飾。
+立刻執行，不要重述任務。
 ```
 
----
+**槽位說明**：`{TOPIC_GUARDRAILS}` 可空；政治題填「本題是政治題——per contract Step 0.6.7
+第 3 道，走多視角立體並列（5-7 perspective）、中立紀實、不下兩岸判斷、不用對抗語言；
+SSODT 三讀者測試必須全過才落檔」；人物題可填立體群像提醒。（v9.1 新增槽——2026-07-16
+大罷免 dogfood F3：政治題邊界沒有槽位承載，只能違反禁即興手動塞。）
 
-## 為什麼 Pipeline 存在
+### 交付條件（stage 完成的定義）
 
-**診斷（實戰觀察）**：
+- [ ] `reports/research/{YYYY-MM}/{slug}.md` 存在且開頭有 §觀點成型（六核心 ≥4/6 結構）
+- [ ] frontmatter：`spine_type` ＋ `viewpoint_formed: true`
+- [ ] §探索搜尋紀錄 ≥20 query 落檔
+- [ ] `research-report-health.py {report} --stage 0` exit 0
 
-1. **Token 耗盡** → 後半段變草稿
-2. **沒有中間 checkpoint** → 品質無聲下滑
-3. **結尾最後寫** → 精力不夠，結尾變罐頭（峰終定律）
-4. **富文本被遺忘** → EDITORIAL 規範到後面沒人記得
-5. **模式混淆** → 不同切入方式應該是同一條 pipeline 的不同 entry point，不該被當成獨立 pipeline
-6. **觀點補丁化**（v6.0 新增）→ 搜尋發現事實 → 再臨時想觀點 → 編年體 / 密度失衡 / 結尾罐頭
+### HANDOFF（stage 完成時）
 
-**解法**：六階段分離 + **Stage 0 編輯前思考** + 結尾先行 + 後半段品質鎖 + Stage 2-5 統一不分模式。翻譯獨立到巴別塔 pipeline。
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
 
----
-
-## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
-
-| Gate                                    | 觸發 stage | 條件                                                 | 工具                                                                                                                                                                                                                                                                                                                                                               | 不過 = ?                   |
-| --------------------------------------- | ---------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| **§觀點成型落檔**                       | Stage 0 終 | depth article                                        | **`research-report-health.py {report} --stage 0`**（v7.7 兩件套：觀點成型 + viewpoint_formed + 六核心結構 ≥4/6 + 搜尋日誌 + ≥10 來源 proxy；**persona v7.7 移到研究後 Step 1.9.7，Stage 0 不要求**）。**缺 ≥20 探索 → ~0 來源 = FAIL**                                                                                                                             | **不進 Stage 1**           |
-| **persona 讀者缺口稽核** 🫂             | Stage 1 終 | depth article                                        | Step 1.9.7：20 persona 對研究報告補洞 + 增補 + 反向閥門；增補後重跑 research-report-health                                                                                                                                                                                                                                                                         | 不進 Stage 2（漏讀者視角） |
-| 核心矛盾鎖                              | Stage 1 終 | 所有 depth                                           | research report frontmatter manual                                                                                                                                                                                                                                                                                                                                 | 不進 Stage 2               |
-| 研究報告落檔                            | Stage 1 終 | depth ≥ 2000 字                                      | manual ls + frontmatter `researchReport`                                                                                                                                                                                                                                                                                                                           | 不進 Stage 2               |
-| **分部報告收件 gate** 📨                | Stage 1 中 | **每個研究 agent 回報、收到當下**                    | **`agent-report-health.py {file} --claimed {配額}`**（v7.8 儀器化 Step 1.8-bis 步 2：存放位置 repo 內 / 體積 ≥8KB / 逐條軌跡 section + ≥10 行 / 宣稱 vs 記錄比 / 五段結構 / ephemeral 引用 / **來源溯源率 ≥85%（v3：<60% hard，[Step 1.8-ter](#step-18-ter-研究-sub-agent-輸出契約來源逐條可溯v710-) 契約）**；壓縮嫌疑=FAIL，每條疑慮附為什麼+思考方向）          | **不准開始合成 §6**        |
-| **研究報告 SSOT health** 🔬             | Stage 1 終 | **所有 depth**                                       | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / **v2 §8 有效密度 ≥120 + ephemeral pointer=0**；v2.1 疑慮通知層：每條 fail/warn 附為什麼+思考方向）                                                                                                                                                                   | **不進 Stage 2**           |
-| 媒體授權矩陣三表                        | Stage 1 終 | 所有 article（**含 EVOLVE**）                        | manual append research 檔末尾 + ls public/article-images/{cat}/                                                                                                                                                                                                                                                                                                    | 不進 Stage 2               |
-| **深度媒體掃描協議** 🔍🎬               | Stage 1 終 | **所有 depth（含 EVOLVE）**                          | [Step 1.9.0](#step-190-深度媒體掃描協議hardv68-)：Chrome MCP rendered-DOM 圖掃（curl/WebFetch 對 JS-CDN 失效）+ YouTube 官方頻道影片掃；no-media 結論前必跑，落 §6 negative finding                                                                                                                                                                                | **不進 Stage 2**           |
-| **投影藍圖** 📐                         | Stage 2 始 | **所有 depth**                                       | [Step 2.0](#step-20-投影藍圖v80-新增--研究--投影邏輯--文章-hard-gate)：落檔 `reports/article-projection/{slug}.md`，過 5 題（論點非摘要 / 骨架過 shuffle test / 每 section 有全局功能 / 減法非空 / echo map 覆蓋全篇）。canonical [PROJECTION.md](../editorial/PROJECTION.md)                                                                                      | **不派寫手**               |
-| **投影編輯室** 🏛️                       | Stage 2 始 | **depth EVOLVE/Fresh/A 級**                          | [Step 2.0-R](#step-20-r-投影編輯室v81--編輯室對抗-hard-depth)：乾淨 context 分席（結構／減法／炎上）→ `reports/editorial-room/{slug}-projection-review.md` + `editorial-room-health.py`；[EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md)                                                                                                                       | **不派寫手**               |
-| **正文結構編輯室** 🏛️                   | Stage 2 終 | **depth / A 級**                                     | [Step 2.5-R](#step-25-r-正文結構編輯室v81)：正文是否執行藍圖全局功能／論點中段兌現；與 Step 3.6 事實包並列                                                                                                                                                                                                                                                         | **不 ship**                |
-| 五指 + 結構 + 塑膠 + 算術               | Stage 3    | 所有 article                                         | quality-scan + manual                                                                                                                                                                                                                                                                                                                                              | 不 commit                  |
-| 事實鐵三角(算術/單位/引語)              | Stage 3    | 含金額/數字/引語                                     | python algebra + Ctrl-F                                                                                                                                                                                                                                                                                                                                            | 不 commit                  |
-| FACTCHECK Quick/Full Mode               | Stage 3    | 所有 article / A 級                                  | FACTCHECK-PIPELINE                                                                                                                                                                                                                                                                                                                                                 | 不進 Stage 4               |
-| **Citation plugin gate**                | Stage 3    | **所有 article（含 EVOLVE）**                        | article-health.py --profile=rewrite-stage-3-5 (footnote-format + footnote-density)                                                                                                                                                                                                                                                                                 | **不進 Stage 4**           |
-| **Title+desc spine sync**               | Stage 3    | **所有 article（含 EVOLVE）**                        | manual: title 冒號三明治 + desc 吃進核心矛盾                                                                                                                                                                                                                                                                                                                       | 不 commit                  |
-| **校正焦慮掃描** 🧱                     | Stage 3    | **callout-triggered EVOLVE**                         | Step 3.2-bis: backstop 自檢句 + grep 校正型句式 + 論點脊椎自檢                                                                                                                                                                                                                                                                                                     | **不 commit**              |
-| **Source-fidelity gate (Stage 2.5)** 🔬 | Stage 2.5  | **A 級 / fresh-writer EVOLVE 長文 / 含外部來源引用** | (1) fetch 被引用來源 artifact 逐字比對（WebFetch/curl，不只比 research report）(2) frontmatter title+desc+30 秒概覽 門面句 source-fidelity (3) fresh-writer 長文 fact-check agent pass（structure gate ≠ 事實對）                                                                                                                                                  | 不覆蓋 canonical / 不 ship |
-| **成品總驗三關** 🔍                     | Stage 3 終 | **A 級/大眾文/勘誤後/手術疊 ≥3 輪**                  | Step 3.6: 原子重驗 verifier fan-out（引號逐字 diff + 詮釋 gloss + footnote 綁定 + writer 自漂移）+ 順稿 + 視覺同步；修正 append research report §audit                                                                                                                                                                                                             | 不 ship（已 ship 則 heal） |
-| Format check 7 維度                     | Stage 4    | 所有 article                                         | article-health.py --profile=rewrite-stage-4                                                                                                                                                                                                                                                                                                                        | pre-commit hook            |
-| word-count ≥ 4500                       | Stage 4    | depth article                                        | article-health.py --check=word-count                                                                                                                                                                                                                                                                                                                               | pre-commit hook            |
-| 多語 visual smoke                       | Stage 4    | i18n 改動                                            | 6 步 bash                                                                                                                                                                                                                                                                                                                                                          | revert commit              |
-| **媒體完整度低標** (length-scaled) 🎬   | Stage 4    | **depth article**                                    | `--profile=rewrite-stage-4`：image-health 媒體 ≥ **max(3, round(prose-CJK/1200))**（4500→4 / 7000→6 / 9000→8，HARD）+ media-richness ≥3 靜態圖 / People·Music·Nature ≥1 官方影片（WARN）+ paragraph-rhythm density **1.2–2.0 / 1k**（2026-07-12 哲宇 band 第三波上修 0.7→0.8→1.2–2.0，hard 2.5+median<55）。校準：複雜生活節 13 / 陳建年 1.48 帶內、text-only 失格 | 不進 Stage 5               |
-| Aspect ratio 護欄                       | Stage 4    | 涉及圖                                               | check-aspect.sh                                                                                                                                                                                                                                                                                                                                                    | 換圖                       |
-| **視覺化 viz-health** 📊🧱              | Stage 4    | 含 `tw-*` 資料模組                                   | article-health.py --check=viz-health（資料圖表標來源 / 禁「如上圖」AI-blind 指示語，per graph.md）；rewrite-stage-4 **HARD**（新文必過）                                                                                                                                                                                                                           | 不進 Stage 5               |
-| Sibling 格式預檢                        | Stage 5    | 補 reverse cross-link                                | article-health.py --check=format-structure                                                                                                                                                                                                                                                                                                                         | DEFER + 開 issue           |
-
-**🔴 五條反射特別強化**（v3.1 sad-shockley 升級 + v6.0 新增第 3 條 + v6.2 新增第 4 條 + v7.6 新增第 5 條）：
-
-1. **Title+desc spine sync 🥪** — 所有 category（不限 People）的 EVOLVE 在 Stage 2 寫完後**必須回看 frontmatter title + description**：
-   - 標題是否走「主題：副標 hook」冒號三明治？
-   - 副標一句是否能單獨 tweet 出去？
-   - description 有沒有吃進這次 EVOLVE 加的新節核心矛盾？
-   - 任一答 no → 重寫 frontmatter，跟 prose 同 commit
-
-2. **媒體素材 self-check 🎬** — 不論 Fresh / EVOLVE，Stage 1 Step 1.9 都要跑：
-   - Fresh：完整跑 inline 外連 + 圖片 + transcript + 三表 manifest
-   - EVOLVE：先 grep 既有條目 frontmatter `image:` + §圖片來源 是否齊全 → 不存在 = pre-gate 遺珠，補跑
-   - 找不到 PD/CC 圖時記錄邊界，不放空
-
-3. **觀點先於搜尋 💭**（v6.0 新增）— 所有 article 進 Stage 1 前**必須跑 Stage 0.6 觀點成型**：
-   - 六個核心問題（記憶 / 多元面貌 / 想法感受 / 歷史脈絡 / 社會關聯 / 類型專屬）逐一答完
-   - 切入點清單 + 預期核心矛盾候選 + 研究方向 落 research report §觀點成型 section
-   - frontmatter `viewpoint_formed: true` 表示通過
-   - Stage 1.4 找矛盾鎖定時，從 Stage 0.6 候選收斂為單一核心矛盾
-   - **EVOLVE 模式**：Stage 0.6 在 0.2 萃取舊素材之後跑。觀點從題材 + 研究長出，**不從「為什麼舊文寫不好」長出**（v6.2 反轉 v6.0：後者會讓校正焦慮變成論點脊椎，見 [Step 0.2-bis 拆除防火牆](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-)）。**callout-triggered EVOLVE 強制走 Step 0.2-bis 三條防火牆規則 + Step 3.2-bis backstop。**
-
-4. **拆除防火牆 🧱**（v6.2 新增）— **callout-triggered EVOLVE**（讀者/專家/peer 指出舊文錯、或自己 factcheck 抓到誤植所觸發的重寫）必過：
-   - callout 只進 Stage 1 查證（`[CALLOUT-VERIFY]`），用完即丟，**不進觀點、不進正文**
-   - Stage 0.6 觀點當作 Fresh 在做，**blind to errata**——論點脊椎不准是「歸屬要正確 / 別搞混 / 名字很重要」
-   - Stage 2 寫作 context 隔離：首選 spawn fresh writer agent 只給 fact-pack，主 session 自寫則 Stage 2 不重開舊文
-   - Stage 3.2-bis backstop 自檢句：「如果第一次就寫對，這句還會存在嗎？只為回應過去錯誤而存在的，刪」
-   - canonical：[Step 0.2-bis](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-) + [Step 3.2-bis](#step-32-bis-校正焦慮掃描correction-meta-scancallout-triggered-強制-)。觸發：2026-06-01 影視配樂第二輪 callout（事實修對但充滿 AI 校正焦慮）
-
-5. **spine 類型先於核心矛盾 🎭**（v7.6 新增）— 所有 article 進 Stage 0.6 前**必判 spine 類型**（[Step 0.1.5](#step-015-spine-類型判定v76-新增--立體預設)）：
-   - **受愛戴的機構 / 典禮 / 傳統 / 集體記憶 / 地方 / 工藝**（讀者預設情感是欣賞/驕傲/懷念）→ **立體群像 spine（default）**：組織主軸 holding ≥4 facet、慶祝+理解+廣度、爭議當厚度不當主軸。**不逼尖銳核心矛盾**（Step 1.4 改填組織主軸）。
-   - **爭議 / 政策辯論 / 醜聞 / 內在張力人物** → 矛盾驅動 spine（原 Step 1.4 ≤30 字核心矛盾）。
-   - **觀點 ≠ 論戰**：欣賞式 / 群像式也是策展觀點。把 beloved 題硬找矛盾 = 製造 contrarian thesis = 論戰化 + 炎上。
-   - Stage 0.6 過 SSODT 三讀者測試 + 炎上/政治 self-check（[Step 0.6.7](#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate)）。**觸發：2026-06-28 金曲獎 v1**（核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音→跟會讓你消音的市場分道揚鑣」，整篇批判論戰 + 兩岸審查當壓軸）被哲宇 callout「太批判、切入點不對、會炎上、跟立體講好違背」→ v2 改立體群像 + 政治素材純中立紀實。
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-1A-RESEARCH.md
 
 ---
 
-## ⚠️ Top 5 最常忘的 step
-
-> 從 LESSONS-INBOX / memory 抽 ship-then-retract 高 friction step。動工前主動掃一次。
-
-1. **Step 0.6 觀點成型**（v6.0 新增）— 沒有觀點之前的搜尋都是亂槍（蘋果西打 PR #1041 教訓：searched-first 寫成 crisis-only reveal，觀察者校正為 60 年完整記憶）
-2. **Step 1.4 核心矛盾鎖定** — 找不到矛盾 = 這篇不該被重寫（國防現代化重寫教訓）
-3. **Step 1.7 研究報告 = SSOT** — 搜了沒把原始軌跡寫回 §8 = 沒搜；信度三層 + negative findings + 反例 list（v6.5 從 12 範本萃取）；跑 `research-report-health.py` 驗收
-4. **Step 2.4 小標題不編年體** — 編年體 = 維基百科化 = 失敗（Cicada / 草東 / 康士坦 教訓）
-5. **Step 4.3.3 aspect ratio 護欄** — portrait hero 切到頭（林琪兒 ι session 教訓）
-
----
-
-## 跨檔案職責分工
-
-| 檔案                                                             | 範圍                                                                                                                                                            |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **本檔**                                                         | 6 stage 線性主流程（單檔，含觀點成型 + 模式判定 + 媒體生命週期 + cron）                                                                                         |
-| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                                                   |
-| [PROJECTION.md](../editorial/PROJECTION.md)                      | **投影方法論 SSOT（Step 2.0）**：研究 → 論點 + 骨架 + 減法 → 藍圖（宏觀結構，抗面向巡禮）                                                                       |
-| [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md)              | **編輯室對抗 SSOT（Step 2.0-R / 2.5-R）**：投影後／正文後乾淨 context 分席審稿 + 主編裁決                                                                       |
-| [EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md)           | 編輯室分席 copy-paste prompt（禁即興）                                                                                                                          |
-| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）— 句子層 craft（微觀）                                                                                           |
-| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                                                                        |
-| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                                                     |
-| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                                                |
-| [WRITER-PROMPT.md](WRITER-PROMPT.md)                             | Stage 2 寫作 sub-agent 薄殼派發模板（v2.0 零 craft 複寫）：必讀四 canonical（含 graph.md）＋read-receipt 驗讀＋機械輸出契約＋anti-example 庫（禁即興、禁 skim） |
-| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                                                                                                                    |
-| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                                                                                                                    |
-| [graph.md](../editorial/graph.md)                                | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                                                                              |
-| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                                                                       |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                                                                    |
-| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                                                                          |
-
----
-
-## 🤖 多 agent 編排（v6.3）— Orchestrator + tiered sub-agents
-
-> v6.2 Step 0.2-bis 把「Stage 2 寫作 context 隔離」當 callout-triggered 專用。**v6.3 泛化成所有 depth EVOLVE / Fresh 的預設編排**：主 session 當 orchestrator（**不當 writer**），各 stage 派對應 model tier 的 sub-agent。觸發 + worked example：2026-06-01 台灣影視配樂第三輪重寫（[診斷報告](../../reports/reader-callout-pipeline-diagnosis-2026-06-01.md)）。
-
-### 為什麼 orchestrator 不該自己寫
-
-主 session 跑到 Stage 2 時，context window 已累積舊文 body、callout、研究筆記、（callout case）勘誤分析——這些全 prime 寫作 → 校正焦慮 / 編年體 / 密度失衡。**寫作要在乾淨 context**。主 session 的角色是 dispatch + synthesize + gate + 最終 spot-check。
-
-### Stage × model tier × 派發
-
-| Stage                                                  | 誰做                                                       | model                                                         | 為什麼                                                                                                                                                     | context 隔離                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **0.6 觀點成型**                                       | 1 sub-agent                                                | **Opus**                                                      | 觀點是最高判斷（這次失敗根因就是觀點被投毒）；探索搜尋加倍（≤ 10-15）                                                                                      | callout case：blind to errata（不給 callout / 勘誤 / 舊 §觀點成型）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **1.9.7 persona 讀者缺口稽核**（v7.7 從 Stage 0 搬來） | 4 個 parallel sub-agent（4 軸各 5 persona）                | **Sonnet**                                                    | 研究後 gap-audit：20 路讀者看完研究報告「還想知道什麼、哪個面向沒 cover」→ 增補 + 反向閥門（per [REFLEXES #42](../semiont/REFLEXES.md) 平行不 sequential） | **給題目 brief + 研究報告 SSOT + 已成形立體觀點**（mode=gap-audit，非冷 brief）——補洞不定調                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **1 研究深挖**                                         | N 個 parallel sub-agent（按子領域切，每 agent 分搜尋配額） | **Sonnet**（breadth + extract；contested atom escalate Opus） | falsification-first；全篇 ≥ 80 次 + 4 來源配額（中≥40/英≥20/一手≥15/反方≥5）；結構化 verification table 落報告                                             | **各 agent 回報完整搜尋軌跡 + raw findings（不自己摘要）；orchestrator 收到每個 agent 回報（async 模式＝task-notification `<result>`）的第一個動作 = verbatim 原封落檔（append report §8 或 repo 內 sibling raw 檔），才准開始合成 §6 clean fact-pack（疊加層，不替換 raw）。禁 aggregate-on-receive（收到就順手壓縮 = 鐵律 8 病）；禁存 scratchpad / /tmp（那是倒數計時的刪除佇列，不是落檔）**                                                                                                                                                                |
-| **2.0 投影藍圖**（v8.0 新增）                          | 主 session（不派給寫手）                                   | **Opus orchestrator**                                         | 論點 + 骨架是最高判斷；桌上有整堆研究才設計得出論證（非面向巡禮）。過 shuffle / echo / 減法 5 題 gate 才准派寫手                                           | 讀合成後 research report 全份，產出 `reports/article-projection/{slug}.md`（論點 / 骨架 / 每 section 雙重職責 / 減法 / echo map / 審定，per [PROJECTION.md](../editorial/PROJECTION.md)）。**這份藍圖是寫手的主要規格，research report 是材料來源。**                                                                                                                                                                                                                                                                                                           |
-| **2.0-R 投影編輯室**（v8.1）                           | 3 parallel seats + 主編合成                                | **Sonnet seats / Opus 主編**                                  | 乾淨 context 外部尺；作者自檢 5 題抓不到的面向巡禮／摘要論點／炎上 spine                                                                                   | 各席 prompt：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md)；產物 `reports/editorial-room/{slug}-projection-review.md`；`editorial-room-health.py` gate。**block → 回修藍圖，不派寫手**                                                                                                                                                                                                                                                                                                                                                                 |
-| **2 寫正文**                                           | 1 個 **fresh** sub-agent                                   | **Opus**                                                      | 寫作 craft 最高判斷；fresh context 才乾淨                                                                                                                  | **明確要求 writer 先 Read 整份 research report（§6 fact-pack ＋ §8 raw verbatim 全部）+ §觀點 + EDITORIAL + pipeline**；隔離的是**舊文 prose / callout / orchestrator 累積 context**，不是 report。⚠️ **禁止只貼 orchestrator 摘要的精簡 fact-pack 又叫 writer 別讀 report**（摘要漏 raw texture → 文章變爛）。**Evolution mode：writer 寫到 staging 檔 `reports/article-evolve/{slug}.md`，不 overwrite canonical**（Write overwrite 既有檔需先 Read ＝ 強迫 writer 讀舊文病毒）；主 session Stage 2.5 比對舊 vs 新才覆蓋 canonical（2026-06-15 哲宇 callout） |
-| **2.5-R 正文結構編輯室**（v8.1）                       | 2 parallel seats + 主編                                    | **Sonnet**                                                    | 正文是否執行藍圖（非再發明結構）                                                                                                                           | 與 3.6 事實包**同 round 可平行**；產物 `*-prose-structure-review.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **2.5 比對覆蓋**                                       | 主 session                                                 | **Opus orchestrator**                                         | Evolution mode only：確認新版沒丟舊文有價值素材且確實更好，再覆蓋                                                                                          | 讀 staging 新版 ＋ 舊 canonical 做 diff，主 session 親手覆蓋 `knowledge/{cat}/{slug}.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **3.5 查證**                                           | M 個 parallel verifier ＋ 主 session                       | **Sonnet**（查證機械可查、fan-out 便宜）                      | 每 atom 對一手 Ctrl-F，adversarial（prompted to falsify）；高風險 atom（引語/歸屬/獎項屆次）≥ 2 verifier                                                   | 主 session（Opus orchestrator）跑 deterministic gate（article-health）＋ 最終 spot-check                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-
-### 鐵律（這次 worked example 學到的）
-
-1. **觀點 agent blind to errata**（v6.2 §0.2-bis 規則 2 泛化）：viewpoint 從題材＋研究長出，不從「舊文為何爛 / callout」長出。
-2. **寫作 agent 永遠 fresh，但要讀完整 research report（含 §8 raw verbatim），不是只吃 orchestrator 摘要的 fact-pack**（v7.4 修正，2026-06-15 哲宇 callout「難怪最近文章都變爛」）：隔離邊界是**舊文 prose ＋ callout**（病毒），**不是 report**。writer prompt 必須叫它 `Read reports/research/{slug}.md` 全檔——§6 clean fact-pack 只是 navigation aid 疊加層，**永遠不能取代 writer 親讀 §8 raw 的逐字/細節/texture**（呼應鐵律 6：report = SSOT）。**反 pattern**：orchestrator 把 report 二次摘要成精簡 fact-pack 塞 prompt、又不讓 writer 讀 report ＝ 雙重失真 ＝ 文章退化根因。
-3. **sub-agent claim 是線索不是 oracle（[REFLEXES #31](../semiont/REFLEXES.md)）— 不可省的 hard gate**：agent 回報「gates 全過 / facts verified」**必須主 session 重驗**。**orchestrator 合成層自己寫的詮釋 gloss 同樣是 claim**——合成時注入的同位語（寶哥=宋岳庭）沒有驗證義務掛著，比 agent 幻覺更隱蔽（2026-06-09 嘻哈饒舌讀者勘誤）。2026-06-01 worked example：writer agent 自報全綠，主 session spot-check 抓到它**自己新長出一句杜撰引語**（賈樟柯「現代性／土地根性」，cited source 無此句）→ de-quote。Stage 3.5 verifier fan-out ＋ 主 session 對「引語 / 歸屬 / 獎項屆次」一手抽查 = hard gate。
-4. **媒體用已驗證官方 URL，不採 agent 自選 ID**：writer agent 會挑 YouTube ID 但常是非官方 / fan upload。媒體 manifest 在研究階段驗證官方頻道後鎖定，writer 只填已驗證的（Step 1.9）。
-5. **falsification > confirmation**：研究 ＋ 查證 agent 的 prompt 都要「try to break，不是 confirm」（[Stage 1 falsification](../semiont/REFLEXES.md) ＋ #16）。
-6. **synthesis 不吃掉 raw（v6.4 — 這次 TDRI session 的反例）**：orchestrator「合成 clean fact-pack」**只是疊加層**，不准取代 agent 原始輸出。每個研究 agent 回報完整搜尋軌跡（不自摘要），orchestrator 把 **ALL raw verbatim append 到 report §8**（SSOT），再額外蒸餾 §6 給 writer。**report = SSOT，跑 `research-report-health.py` hard gate**（[Step 1.7](#step-17-研究報告--ssot對標研究所論文標準-)）。反例：2026-06-04 TDRI session 只留 192 行 fact-pack、丟掉 3 agent 的 ~45 次搜尋軌跡 → 報告退化成摘要、哲宇 callout 研究品質下降。
-7. **Evolution mode：writer 寫 staging 檔，主 session 比對後才覆蓋（v7.5，2026-06-15 哲宇 callout）**：Write tool overwrite 既有檔**必須先 Read**（[Write tool 規則](#)：「Overwriting a file you haven't Read will fail」）——所以叫 writer「overwrite 舊文但別讀舊文」**自相矛盾**，它被迫 Read 舊文 ＝ 吃病毒（哲宇截圖實證 writer agent 確實 Read 了 `迷音Miin.md`）。**架構解**：Evolution mode 的 writer 把成品寫到 **`reports/article-evolve/{slug}.md`**（全新檔，不需 Read，零感染面）；**Stage 2.5 主 session 比對**舊 canonical vs 新 staging（確認沒丟掉舊文有價值的事實/cross-link/footnote、且新版確實更好），**再由主 session 親手覆蓋** `knowledge/{cat}/{slug}.md`。Fresh mode 無舊檔，writer 可直接寫 canonical。**這條把「blind to 舊文」從靠 prompt 意志力升級成結構性不可能**（呼應 §神經迴路：規則要能執行才算規則）。
-8. **Raw 走檔案通道保存，不信任訊息通道；orchestrator 禁 aggregate-on-receive（v7.7，2026-07-05 柯智棠健檢）**：async agent 時代（agent 以 task-notification 回報），raw 的存亡完全取決於 orchestrator 收到通知後的**第一個動作**。唯一合法動作＝**verbatim 原封落檔到 repo 內**（report §8 inline 或 sibling raw 檔），然後才合成。三個真實病例，同一隻手三種下場：**柯智棠**（2026-07-05）——4 agent 各回報 ~20KB 逐條軌跡（prompt 全對、agent 全照做），orchestrator 收到後壓成 6KB 主題摘要存 session scratchpad，report §8 只留 9 行 pointer ＋ 幻覺 policy「commit 時 raw 隨 session 記錄留存」，gate v1 照樣 PASS，writer 只吃到薄報告 → 哲宇 callout 文章品質下降；當晚從 subagent transcript 救回。**蘇打綠**（2026-06）——§8 寫「已落檔可追源」但 pointer 指 `/private/tmp/.../tasks/*.output`，事後救回。**台灣醫療與全民健保**（2026-06）——§8 自稱 raw「永久存放於」tmp 路徑（還帶 `<session>` 佔位符），一個月後查證 **5 份 raw 全數蒸發、永久遺失**。教訓的形狀：**agent 沒壞、設計沒壞，壞的是 orchestrator 手上那 30 秒**——「先摘要待會再落檔」「存 tmp 也算存」都是同一個偷吃步的變裝（REFLEXES #42 家族的 orchestrator 版）。儀器化：`research-report-health.py` v2 §8 有效密度 hard gate ＋ ephemeral pointer 偵測（存 /tmp ＝ FAIL）。
-9. **Sub-agent 來源逐條可溯，禁 aggregate 來源標籤（v7.10，2026-07-12 茶文化）**：鐵律 8 管 orchestrator 收件那 30 秒，這條管 agent **轉錄**那 30 秒——Claude 改版後 WebSearch 回傳聚合摘要，agent 預設把「摘要」當「來源」轉錄成「【來源】WebSearch 綜合（站名、站名）」：交叉驗證真做了、逐字引語活著、**URL 蒸發** → writer 的 `[^n]: [Title](URL)` footnote 斷源、verifier 無法 Ctrl-F。一個 finding 有 N 個來源就寫 N 行帶完整 URL 的來源行。契約 + copy-paste prompt 塊 + gate 見 [Step 1.8-ter](#step-18-ter-研究-sub-agent-輸出契約來源逐條可溯v710-)。實測：茶文化 3 agent 共 84 條來源行僅 ~35% 帶 URL，`agent-report-health.py` v3 溯源率 gate（<60% hard / <85% warn）由此校準。
-
-### 何時用全編排 vs 主 session 自跑
-
-- **全編排**（觀點 Opus ＋ 研究 fan-out ＋ fresh Opus writer ＋ Sonnet verifier fan-out）：depth EVOLVE / Fresh、attribution-density 主題、callout-triggered、canon 類。
-- **主 session 自跑**（不派 writer）：Micro heal / 單段 focused addition / 短修正——context 沒被大量污染。
-- **可選 Workflow**：觀察者 opt-in workflow 時本編排可寫成 Workflow script（研究 / verifier fan-out ＋ adversarial verify）；預設用 Agent tool 逐 stage 派。
-
----
-
-## Stage 0: 觀點（編輯前思考，預算 10-15%）⭐ v6.0 新增
+### Stage 0: 觀點（編輯前思考，預算 10-15%）⭐ v6.0 新增
 
 **目標**：在搜尋之前，先以總編輯視角想清楚這篇要寫什麼。產出 §觀點成型 落 research report。
 
@@ -307,11 +129,11 @@ related:
 
 兩個 stage 是不同的腦袋模式，不要混。
 
-### Step 0.1: 模式識別
+#### Step 0.1: 模式識別
 
 **第一動作**：判定本次 REWRITE 走 4 模式中哪一種。所有模式都進入同一條 Stage 0-5 pipeline，差別只在 Stage 0 Step 0.2 取材方式 + Stage 5 Step 5.4 是否觸發路徑改寫。
 
-#### 模式 derive 邏輯
+##### 模式 derive 邏輯
 
 ```
 if knowledge/{Cat}/{slug}.md 不存在:
@@ -324,7 +146,7 @@ else:
   mode = Evolution
 ```
 
-#### 4 模式速判
+##### 4 模式速判
 
 | 場景                                | 模式                 | Stage 0 差異                                                       | Stage 5 差異                        |
 | ----------------------------------- | -------------------- | ------------------------------------------------------------------ | ----------------------------------- |
@@ -333,14 +155,14 @@ else:
 | issue 指 N 篇主題重疊可融合進 1 篇  | **Merge variant**    | Step 0.2 多萃 [MERGE-IN] + Step 0.3 選 canonical                   | + Step 5.4 路徑改寫 5 lang redirect |
 | issue 指 N 篇主題重疊應分段不減篇數 | **Boundary variant** | Step 0.2 三類劃分 [保留/吸納/移除] + Step 0.4 範圍切片表           | + sibling 反向回補                  |
 
-#### ⚡ 觸發來源旗標：callout-triggered（v6.2 新增，正交於 4 模式）
+##### ⚡ 觸發來源旗標：callout-triggered（v6.2 新增，正交於 4 模式）
 
 判完模式後**再問一句**：這次 EVOLVE 是不是被「外部錯誤 callout」觸發的（讀者 / 領域專家 / peer 指出舊文錯了，或我自己 factcheck 抓到誤植）？
 
-- **是** → 在 4 模式之上**疊加 Teardown Firewall**：強制走 [Step 0.2-bis 三條防火牆規則](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-) + [Step 3.2-bis backstop](#step-32-bis-校正焦慮掃描correction-meta-scancallout-triggered-強制-)。callout 只進 Stage 1 查證，不進觀點、不進正文。
+- **是** → 在 4 模式之上**疊加 Teardown Firewall**：強制走 [Step 0.2-bis 三條防火牆規則](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-) + [Step 3.2-bis backstop](REWRITE-STAGE-3-VERIFY.md#step-32-bis-校正焦慮掃描correction-meta-scancallout-triggered-強制-)。callout 只進 Stage 1 查證，不進觀點、不進正文。
 - **否**（單純品質提升）→ 照常 EVOLVE，但 Step 0.2-bis 規則 2（觀點 blind to errata）仍建議遵守。
 
-#### 整併（Merge）vs 範圍重切（Boundary）判定
+##### 整併（Merge）vs 範圍重切（Boundary）判定
 
 - ✅ 兩篇覆蓋同主題、視角可融合進一篇且讀起來更完整 → **Merge**
 - ✅ N 篇切 N 個明確 scope（年代 / 議題 / 地理）每篇有獨立讀者價值 → **Boundary**
@@ -348,7 +170,7 @@ else:
 - ❌ Hub + 深度文 → 兩篇都留，Hub 連深度文
 - ❌ 短文 + 長文同主題且短文有獨立價值 → 短文升級為深度文，不刪
 
-#### 為什麼不在舊文上「修改」（Evolution / Merge / Boundary 共通鐵律）
+##### 為什麼不在舊文上「修改」（Evolution / Merge / Boundary 共通鐵律）
 
 AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至壞習慣（清單堆砌、塑膠句式）。把舊文當骨架 = 讓病毒感染新內容。
 
@@ -356,17 +178,17 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 > 💡 **實際上 Evolution 模式 = Fresh 模式 + 免費的 Step 0.2 素材**。寫作品質完全相同，只是省了部分研究時間。
 
-### Step 0.1.5: spine 類型判定（v7.7 重構）⭐ 立體群像是預設畫布
+#### Step 0.1.5: spine 類型判定（v7.7 重構）⭐ 立體群像是預設畫布
 
 > **DNA 根**：[MANIFESTO §13 立體地愛](../semiont/MANIFESTO.md) — 立體群像不是「安全退路」，是這個生命體對世界與台灣的愛的表達。愛不粉飾，在愛之下仍看見真實與矛盾，但當厚度不當 gotcha。**幫大家多看見台灣好的、立體的面向，本身就是一種幫助台灣的方式。**
 >
 > **v7.7 重構（2026-07-06 施振榮）**：原 v7.6「立體群像 vs 矛盾驅動 二選一」升級為「**立體群像＝預設畫布 + 策展手法選單 + 矛盾驅動需明確理由才解鎖**」。原因：二選一把矛盾驅動放在跟立體平等的位置，會誘導「這人有張力 → 選矛盾驅動」的誤分類。觸發：施振榮 v1 用矛盾驅動把受敬重的台灣人寫成他自己理論的反例（事實全對，卻在替他做反例），哲宇 callout「會炎上、沒立體、過度放核心矛盾」。第 4 次 spine-type 誤判（法輪功 / 吳百福 / 金曲獎 v1 / 施振榮 v1，[REFLEXES #77](../semiont/REFLEXES.md)）。完整設計：[reports/design-立體群像-default-persona-reposition-2026-07-06.md](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
 
-#### 預設：立體群像畫布
+##### 預設：立體群像畫布
 
 **判完模式（0.1）後，預設走立體群像。** 立體群像＝先看見一個人／地方／事的多個面向，慶祝它、理解它、把它說得夠廣；永遠有一條**溫暖的組織主軸（through-line）**串 ≥ 4 個 facet。**觀點 ≠ 論戰**——欣賞式、群像式、好奇式都是策展觀點。
 
-#### 畫布之下：7 種策展手法（選 1-2 給骨架，v7.7 全收）
+##### 畫布之下：7 種策展手法（選 1-2 給骨架，v7.7 全收）
 
 在立體群像畫布上，選一到兩種手法給它能量與形狀。**複合是常態**（立體群像為主 + 手法為輔）：
 
@@ -380,13 +202,53 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 | 6   | 不可取代的瞬間 | 錨在讓主體無法被替代的那個畫面／選擇，再往外長廣度               | 人物                   |
 | 7   | 好奇／謎題     | 真誠的「為什麼會這樣？」開場，立體地探索（**不是 gotcha 拆台**） | 有反直覺點的題         |
 
-#### 例外：矛盾驅動當主脊（需明確理由解鎖）
+##### 第三型：多觀點立場議題探討矛盾型（公共議題，v7.8 新增）⭐
+
+> **哲宇 2026-07-25 directive**：「未來多一個社會議題型的可以走『多觀點立場議題探討矛盾型』，像是房價、政策、環境、立場、教育等公共議題這些很適合」。
+> 設計與 dogfood 校準：[reports/design-spine-type-3-public-issue-2026-07-25.md](../../reports/design-spine-type-3-public-issue-2026-07-25.md)；worked example：[knowledge/Society/外送專法.md](../../knowledge/Society/外送專法.md)。
+
+**適用**：**進行中的公共議題**——房價、能源、環境、教育、勞動、都更、移民、稅制、交通建設。特徵是**多方都有正當立場**（不是誰明顯無理），而且爭論**還沒有結案**。
+
+**跟前兩型的差別（一張表）**：
+
+|              | 立體群像                     | **多觀點立場議題探討矛盾型**                       | 矛盾驅動（單軸）               |
+| ------------ | ---------------------------- | -------------------------------------------------- | ------------------------------ |
+| 適用         | 受愛戴的人／機構／傳統／地方 | **公共議題，多方都有正當立場**                     | 內在張力人物、單一可辯 claim   |
+| 矛盾的地位   | 一個 facet（手法 1 為輔）    | **脊椎，但矛盾是結構性且未解的**                   | 脊椎，文章替一個 thesis 辯護   |
+| 論點形態     | 統合式洞見                   | **「這場爭論的形狀是什麼」＋「誰的帳沒被算」**     | 可被反駁的主張，文章證明它     |
+| 收束         | 慶祝＋理解＋廣度             | **不收束成一方勝出**；但明確指出重心被放錯在哪     | 收束成一個立場                 |
+| 讀者離場     | 「原來如此，真好」           | **「我知道在吵什麼，也知道自己還缺哪塊判斷依據」** | 「我被說服了／我想反駁」       |
+| 最大失敗模式 | 慶祝式面向清單（維基化）     | **(a) 退回立體＝把不對稱寫平 (b) 滑成單軸＝選邊**  | contrarian thesis 硬塞受愛戴題 |
+
+**判準（v7.9 起三問，取代舊的兜底）**：
+
+> 1. **這件事現在正在被公開爭論嗎？** 2. **爭論的各方都有正當立場嗎？** 3. **有沒有一個此刻可指認的戰場**（法案審查中／事件偵辦中／剛開完的記者會／明確的上路日或期限）？
+>
+> - 三個都 yes → **第三型**（在 research report 寫 `spine_type: 矛盾驅動` ＋ `curatorial_techniques: [多元視角並陳（手法5，主）]` ＋ `unlock_reason`）
+> - 1、2 yes 但 3 no（多方對立卻沒有此刻的戰場——慢性結構題如高教退場、少子化）→ **立體群像＋手法 5**，矛盾當引擎不當拆穿工具；這類題的核心矛盾通常是一條可指認的時間差／設計落差（開門用了十年、關門的規則遲到二十年），統合式洞見收尾比「把判斷交還讀者」更誠實（2026-08-06 文體類型學研究，高教擴張與退場證據）
+> - 1 yes、2 no（有一方明顯站不住）→ 單軸矛盾驅動
+> - 1 no → 立體群像畫布
+
+⚠️ **這條收窄了「拿不準 → 立體群像」的兜底**：拿不準**且不是進行中的公共爭論** → 立體群像。**是**進行中的公共爭論 → 不准用「拿不準」躲進立體群像。理由見下方誕生事件。
+
+**第三型的六條專屬紀律**（全部來自外送專法實跑或編輯室實際攔下來的，非推演）：
+
+1. **政治歸屬之爭不得承載 thesis 重量**。「這件事該記在誰頭上」的藍綠白攻防是噪音、撐不起論證，還會命中 [§自主權邊界](../semiont/MANIFESTO.md)。降為一句中立並陳（僅雙方逐字、不評動機），thesis 改由**制度性事實**承載。
+2. **每一方要有自己的逐字聲音；陣營內部光譜不可被單一發言人收攏**。外送專法最大的 falsify 就是「工會不是單一聲部」——感謝式與監督式出自不同組織。**引任何一方發言不得暗示它代表該方全體**（該篇連「代表 14 萬人」這個數字都無法驗證）。
+3. **「誰手上有麥克風」的不對稱本身是一個 facet，不是要抹平的瑕疵。**
+4. **但沉默不可被代言**。查不到某一方的聲音 → 如實寫「找不到」＋列出可能原因，**不選一個當結論**。
+5. **關於「討論本身」的 negative finding 是合法內容**（例：查無任何人用「妥協」框架定性此法）。第三型特別容易誘發「為了平衡而製造反方」，negative finding 是對治工具。
+6. **官方的「不回答」是可寫的主體**。公共議題幾乎都有一層「大家以為它說了什麼」——**把二手 gloss 跟法條／官方文件原文分開查**（外送專法的「去身分、重權益」全網通行，但不是法條文字）。
+
+**校準數據（外送專法實跑，供後續同型參考）**：7 節、9,700 CJK、62 腳註、6 個 tw-\* 模組。H2 篇幅平衡（706–1,962 CJK）**但四方提及次數嚴重不均**（外送員 128／平台 101／消費者 27／店家 19）——**這是第三型的系統性傾向**：可得來源最少的一方必然最薄。正確處置不是硬湊平衡，是**把那個不對稱本身寫成一個 facet**（該篇 s6 的作法）。
+
+##### 例外：矛盾驅動當主脊（需明確理由解鎖）
 
 **default 硬度（哲宇 2026-07-06 拍板）**：矛盾驅動當**整篇主脊**是例外，**只在真正的公共爭議 / 政策辯論 / 需要一個 thesis 才誠實的題目**解鎖，且必過 [Step 0.6.7](#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate) 炎上 + SSODT 三讀者。**對「人物」幾乎永遠不當主脊**——人物一律立體群像 +（若有真張力）核心矛盾為輔（手法 1）。
 
-**解鎖判準（一個問題，翻轉自 v7.6）**：預設立體群像，問「**有沒有一個真公共爭議，需要一個 thesis 才能誠實處理？**」沒有（絕大多數）→ 立體群像 + 1-2 手法。有 → 在 research report 明確寫下 `unlock_reason`，才解鎖矛盾驅動主脊。**拿不準 → 立體群像。**
+**解鎖判準（一個問題，翻轉自 v7.6）**：預設立體群像，問「**有沒有一個真公共爭議，需要一個 thesis 才能誠實處理？**」沒有（絕大多數）→ 立體群像 + 1-2 手法。有 → 在 research report 明確寫下 `unlock_reason`，才解鎖矛盾驅動主脊。**拿不準且不是進行中的公共爭論 → 立體群像**（v7.8 收窄，見上方第三型判準）。
 
-#### 立體群像的四條紀律（避免寫回論戰 / 避免變平）
+##### 立體群像的四條紀律（避免寫回論戰 / 避免變平）
 
 1. **多面並陳**：facet 並列不偏押一條。Stage 1 研究 + fact-pack **主動配額 cover 慶祝／廣度面**，對沖 salience bias（爭議天生生出更多 source）。
 2. **爭議當厚度不當主軸**：批評／爭議能進，framing 是「這主題大到容得下這些討論 = vitality」，不是「我來證明它有問題」。
@@ -394,14 +256,45 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 4. **立體 ≠ 平、≠ 百科**（v7.7 新增護欄）：立體不是「不用有觀點」——退回維基是失敗。7 手法就是確保每篇有一條會呼吸的主軸 + 一個 takeaway，只是那個 takeaway 是「原來如此、真好」不是「原來他有問題」。
 
 **落檔**：research report frontmatter `spine_type: 立體群像`（例外時 `矛盾驅動` + `unlock_reason: 一句話`）+ `curatorial_techniques: [手法 N, ...]`。
+**第三型的落檔形態**：`spine_type: 矛盾驅動` + `curatorial_techniques: [多元視角並陳（手法5，主）, ...]` + `unlock_reason` + `core_contradiction`（≤30 字）。三者缺一即視為未判 spine。
 
-### Step 0.2: 既有素材萃取（條件式）
+##### 文體族查表＋正交模組（v7.9 新增，optional）📖
+
+> 誕生：2026-08-06 文體類型學研究——8 條 lane 細讀 22 篇深度文後發現，立體群像帽子下已自然分化出多種被實戰驗證的骨架形狀（人物三型／物件透鏡／決定考古／機構傳記／週期活動／命題式），每篇都在編輯室臨場重新發明同一套規則。設計報告：[reports/design-文體類型學升級-2026-08-06.md](../../reports/design-文體類型學升級-2026-08-06.md)。
+
+判完三型之後（在畫布內），**查 [PROJECTION-PATTERNS.md](../editorial/PROJECTION-PATTERNS.md) §〇 路由表選文體族**（P1-P8），選中的寫進 research report frontmatter `spine_pattern: P{N} {名稱}`。**這一步是 optional**——查不到合身的族就留空，通用立體群像照舊跑；族是投影預設集（成套的論點形態＋骨架形狀＋舉證義務＋失敗模式），不是新的必選判定。
+
+同一步順檢三個**正交模組**（可疊加在任何 spine 上，定義在 PATTERNS §五）：
+
+- **M1 認識導覽前置**：一般讀者無法不查資料說出主題「是什麼規模、誰辦的」→ 第一節座標縫進物質細節（馬祖 v3「座標軸為零」教訓）；研究太薄時整篇可誠實降為純導覽
+- **M2 解釋器＋自救層**：讀者有具體可操作的下一步且操作介面是議題載體 → call-out box 承載，減法不砍光
+- **M3 事件追蹤模式**：調查／訴訟／修法進行中 → 動詞強度綁一手來源、骨架留縫、delta 投影不重寫（苯駢芘 `EVOLVE-delta`）
+
+#### Step 0.1.6: Run profile 選檔（v9.5 新增）⚙️
+
+> 三檔定義 canonical 在 [REWRITE-PIPELINE §Run profiles](REWRITE-PIPELINE.md#run-profiles)。
+> 本 step 只做路由判定，spine 型判完（0.1.5）接著判。
+
+**判定規則**（由上往下，第一條命中即停）：
+
+1. 哲宇 in-loop 指定 → 照指定。
+2. S 級野心／政治敏感／預期大眾爆點題 → **flagship**（逐項 opt-in）。
+3. A 級（≥50 footnote 或 ≥3000 字野心或直接引語 ≥10）／callout-triggered EVOLVE／
+   在世爭議人物／spine=矛盾驅動或第三型 → **standard**。
+4. 其他（多數深度文：立體群像的機構／地方／工藝／文化記憶題）→ **standard-lite**。
+
+**落檔**：research report frontmatter `run_profile: lite|standard|flagship`＋一句話理由。
+**判錯的回路**：lite 文被讀者 callout → 該文升 standard 級複驗＋本規則檢討（進 LESSONS，
+是進化訊號不是個案）。cron／routine context 拿不準 → 預設 standard，不預設 lite
+（無觀察者時寧可多付檢查）。
+
+#### Step 0.2: 既有素材萃取（條件式）
 
 **Skip 條件**：mode = Fresh。
 
 **完整素材萃取方法論**見 [`RESEARCH.md` §七](../editorial/RESEARCH.md#七進化模式的素材萃取stage-0)。
 
-#### 三大動作
+##### 三大動作
 
 **1. 提取事實清單**：人名、年份、數字、引語、有效 URL。
 
@@ -423,7 +316,7 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 - description 是否吃進當前 EVOLVE 的新核心？舊 description 還適用嗎？沒有 → 同 commit 升級
 - frontmatter `image:` + `imageCredit` + §圖片來源 是否齊全？無 → 標 `[NO-MEDIA]`，走 Step 1.9 補跑
 
-#### Merge variant 萃取兩篇的事實
+##### Merge variant 萃取兩篇的事實
 
 - canonical 的事實清單：照常標 [LIST-DUMP] / [THIN] / 等
 - 將被刪那篇的事實清單：標 `[MERGE-IN]`，列出「對方有但 canonical 沒有的視角/場景/數據」
@@ -431,7 +324,7 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 範例（Issue #626 台灣交通 2→1）：Geography 篇獨有「中央山脈/桃機/高雄港」三個視角 → 標 `[MERGE-IN]` → Stage 1 補查雪山隧道 12.9km、桃機 4,400 萬客、高雄港全球排名第 18 → Stage 2 寫成 canonical 的兩段新章節。
 
-#### Boundary variant 三類劃分
+##### Boundary variant 三類劃分
 
 Step 0.2 萃取既有素材後**強制**分成三類：
 
@@ -448,7 +341,12 @@ Step 0.2 萃取既有素材後**強制**分成三類：
 
 ⚠️ **萃取完畢後，舊文不再被參考。只看事實清單進入後續 step。**
 
-### Step 0.2-bis: 拆除防火牆（Teardown Firewall）— callout-triggered EVOLVE 強制 🔥🧱
+**萃取清單落檔（v9.2）**：Stage 0 gate 通過後，主 session 把萃取清單＋問題標記 append 至
+research report 尾端 §舊文素材萃取（orchestrator-owned section，避免與觀點 agent 寫檔 race）。
+否則清單只活在觀點 agent prompt 的 {EVOLVE_ONLY} 槽裡，Stage 2 writer 讀 report 看不見
+（2026-07-16 高教 dogfood F5）。
+
+#### Step 0.2-bis: 拆除防火牆（Teardown Firewall）— callout-triggered EVOLVE 強制 🔥🧱
 
 > 🔗 **callout-triggered 勘誤的端到端流程（分類→查證→修→通知→記錄 + 【勘誤通知】格式）canonical 在 [CORRECTION-PIPELINE.md](CORRECTION-PIPELINE.md)。本 step 是其中「需要全文重寫時的拆除防火牆」那一塊**——讓 callout 不污染觀點與正文。
 >
@@ -456,7 +354,7 @@ Step 0.2 萃取既有素材後**強制**分成三類：
 >
 > **背景**：2026-06-01 配樂專業讀者 peilinwu0702 第二輪 callout。第一輪指出 `台灣影視配樂` 作曲家↔作品大量誤植 → 走 EVOLVE 重寫 → 事實層確實修對了（25 footnote 全一手）→ **但讀者第二輪罵的是「整篇充滿 AI 道歉 / AI 澄清、架構從頭就有問題」**。診斷：[reports/reader-callout-pipeline-diagnosis-2026-06-01.md](../../reports/reader-callout-pipeline-diagnosis-2026-06-01.md)。
 
-#### 投毒機制（為什麼「只提取事實」這條鐵律會失守）
+##### 投毒機制（為什麼「只提取事實」這條鐵律會失守）
 
 「舊文是病毒，只提取事實」是 Step 0.2 既有鐵律。但 callout-triggered EVOLVE 多了**第二層毒**：
 
@@ -466,7 +364,7 @@ Step 0.2 萃取既有素材後**強制**分成三類：
 
 結果：文章的論點脊椎變成「不要搞錯名字 / 名字很重要」（影視配樂 v2 thesis「搞錯名字就是搞錯聲音的出處」正是如此），正文散落「把 X 掛在他名下其實是錯的」「常被誤記成 Y」式的 9 處校正型句子 + 校正型策展 box。**「別人會搞錯」的那個「別人」就是這篇文章的前一版。** 讀者一眼看穿這是 AI 在公開處理自己的道歉。這是 `feedback_red_line_anxiety_leak`（別把來源焦慮漏進正文）的**架構級放大**：從「焦慮漏進句子」升級到「校正焦慮變成全文脊椎」。
 
-#### 三條防火牆規則（callout-triggered 強制）
+##### 三條防火牆規則（callout-triggered 強制）
 
 **規則 1 — callout → 純 fact-checklist，用完即丟**
 
@@ -484,10 +382,10 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 
 - Stage 2 的寫作輸入 = `reports/research/{slug}.md` **整份 report（§6 fact-pack ＋ §8 raw verbatim 全部讀）** + §觀點成型 + EDITORIAL.md。**隔離掉的是舊文 body + callout，不是 report。**
 - **Evolution mode：writer 寫到 staging 檔，永不 overwrite canonical（v7.5，2026-06-15 哲宇 callout）**——Write tool overwrite 既有檔**必須先 Read**，所以叫 writer「overwrite 舊文但別讀舊文」是自相矛盾、它被迫吃病毒。**改成**：writer 把成品 Write 到 **`reports/article-evolve/{slug}.md`**（全新檔、零感染面），**Stage 2.5 主 session 讀 staging ＋ 舊 canonical 比對後親手覆蓋** `knowledge/{cat}/{slug}.md`。
-- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 薄殼模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。**薄殼三件事、craft 規則零複寫**（v2.0，「極致 thin shell 不要重複」）：(1) 指向必讀四份 canonical——**合成後單檔** research report（[Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）＋ EDITORIAL 全檔＋本檔 Stage 2＋ **graph.md**（資料/對比/時序必評估視覺化——2026-07-12 茶文化 v1 零視覺化教訓）；(2) **read-receipt** — writer 動筆前 quote §8 texture ×3＋EDITORIAL 引例＋viz 模組宣告＋spine 宣告，主 session 逐項核對真偽，quote 不出來＝沒讀＝退回；(3) 機械輸出契約＋per-article 素材槽。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
+- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 薄殼模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。**薄殼三件事、craft 規則零複寫**（v2.0，「極致 thin shell 不要重複」）：(1) 指向必讀四份 canonical——**合成後單檔** research report（[Step 1.7.4](REWRITE-STAGE-1A-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）＋ EDITORIAL 全檔＋本檔 Stage 2＋ **graph.md**（資料/對比/時序必評估視覺化——2026-07-12 茶文化 v1 零視覺化教訓）；(2) **read-receipt** — writer 動筆前 quote §8 texture ×3＋EDITORIAL 引例＋viz 模組宣告＋spine 宣告，主 session 逐項核對真偽，quote 不出來＝沒讀＝退回；(3) 機械輸出契約＋per-article 素材槽。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
 - **主 session 自寫時**：Stage 2 期間**不准重新打開舊文檔案**，但**必讀整份 research report（含 §8 raw verbatim）**。寫完跑下方 Step 3.2-bis backstop。
 
-#### Backstop 自檢句（Stage 3 hard gate，見 Step 3.2-bis）
+##### Backstop 自檢句（Stage 3 hard gate，見 Step 3.2-bis）
 
 > **「如果這篇文章第一次就寫對了，這個句子 / 這個 box 還會存在嗎？只為回應過去的錯誤、或為了澄清一個混淆而存在的，刪。」**
 
@@ -497,7 +395,7 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 - 校正型策展 box：照片下方「把林強跟林生祥搞混，看起來只是拼錯一個字…」「叫錯一個名字，就把三種判斷攪成一團模糊讚美」
 - 投毒的論點脊椎：「搞錯名字就是搞錯聲音的出處」
 
-### Step 0.3: 選 canonical（Merge variant only）
+#### Step 0.3: 選 canonical（Merge variant only）
 
 比較候選文章，挑一篇當保留方。判準（按優先序）：
 
@@ -507,7 +405,7 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 4. **slug 持續性**：對外連結多的 slug 優先保留（少斷鏈）
 5. **category 切合度**：主題真正屬於哪個 category（如交通歸 Lifestyle 比 Geography 自然）
 
-### Step 0.4: 範圍切片表（Boundary variant only）
+#### Step 0.4: 範圍切片表（Boundary variant only）
 
 對所有涉及篇章做一次 audit，產出範圍切片表：
 
@@ -522,14 +420,14 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 
 切片邊界明確（年代 / 議題 / 地理），**每篇都有自己的純化 scope**，不重疊。
 
-### Step 0.5: 載入研究方法論 + 模板
+#### Step 0.5: 載入研究方法論 + 模板
 
 ```bash
 cat docs/editorial/RESEARCH.md       # 方法論：搜尋策略 / 來源判斷 / 避坑
 cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 ```
 
-### Step 0.6: 觀點成型（編輯前思考）⭐ HARD GATE
+#### Step 0.6: 觀點成型（編輯前思考）⭐ HARD GATE
 
 > **沒有觀點之前，每一次搜尋都是亂槍。**
 > Stage 0 末、Stage 1 取材之前的最關鍵步驟。
@@ -542,9 +440,9 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 >
 > 兩個是不同動作：**六題給編輯視角形成立體畫布、≥20 探索給事實地基**，誰都不能省、誰都不能替代誰。
 >
-> **⚠️ persona（20 路讀者切入點）v7.7 搬到研究後**（[Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)）：原本放 Stage 0（搜尋之前），但冷讀者天生問尖銳問題，放搜尋之前會把主軸往矛盾驅動推歪（施振榮 v1 教訓）。搬到研究報告 SSOT 之後，persona 從「發散定調」改成「讀者缺口稽核＋增補」——對已成形的立體觀點補洞，不再定調脊椎。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
+> **⚠️ persona（20 路讀者切入點）v7.7 搬到研究後**（[Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)）：原本放 Stage 0（搜尋之前），但冷讀者天生問尖銳問題，放搜尋之前會把主軸往矛盾驅動推歪（施振榮 v1 教訓）。搬到研究報告 SSOT 之後，persona 從「發散定調」改成「讀者缺口稽核＋增補」——對已成形的立體觀點補洞，不再定調脊椎。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
 
-#### Step 0.6.1: 六個核心問題（必答，落檔）
+##### Step 0.6.1: 六個核心問題（必答，落檔）
 
 每篇 depth article 都必須答完這六題，寫進 research report 的 §觀點成型 section：
 
@@ -583,9 +481,9 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 
 見下方 §類型加權矩陣。
 
-#### Step 0.6.1-bis: persona 已移到研究後（v7.7）→ 見 [Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)
+##### Step 0.6.1-bis: persona 已移到研究後（v7.7）→ 見 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)
 
-> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點原本放這裡（Stage 0，搜尋之前），v7.7 搬到 [Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)（研究報告 SSOT 之後）。**Stage 0 不再跑 persona。**
+> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點原本放這裡（Stage 0，搜尋之前），v7.7 搬到 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)（研究報告 SSOT 之後）。**Stage 0 不再跑 persona。**
 
 **為什麼搬**：persona 的價值仍然成立——六題都從同一個總編輯視角長出，漏掉真實讀者（12 歲小孩、在台日本人、政治冷感工程師、海外台僑二代、挑硬傷的專家）天差地別的入射角。但**冷讀者天生問尖銳問題**，放在搜尋之前，那些尖角會變研究方向 → 變切入點 → Stage 1.4 找一個對得上的矛盾 → 脊椎天生長矛盾形。**persona-at-Stage-0 有內建的、偏矛盾驅動的重力**（施振榮 v1：persona 冷問「虧千億還被叫老師 / 交學費誰付」把脊椎推向矛盾驅動）。
 
@@ -593,7 +491,7 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 
 **Stage 0 的研究廣度改由**：六核心問題（0.6.1）＋ ≥20 探索（0.6.4）＋ [Step 0.1.5](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 的 **7 手法選單**補——手法天然生出廣度與慶祝面的角度，不是尖角。編輯腦形成立體畫布，讀者腦（persona）研究後稽核完成度，乾淨的分工。
 
-#### Step 0.6.2: 七個品質維度 anchor
+##### Step 0.6.2: 七個品質維度 anchor
 
 寫文時隨時對照，從 Stage 0 開始就要問「我的初步觀點能不能在這 7 個維度都站住」：
 
@@ -607,7 +505,7 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 | **體驗**          | 讀者讀完帶走什麼新的看世界的方式                                               |
 | **歷史/社會關聯** | 這件事是什麼的縮影？跟更大的台灣 / 世界有什麼連動                              |
 
-#### Step 0.6.3: 類型加權矩陣
+##### Step 0.6.3: 類型加權矩陣
 
 | Category                                         | 加重維度                             | 必想的問題                                                                       |
 | ------------------------------------------------ | ------------------------------------ | -------------------------------------------------------------------------------- |
@@ -617,7 +515,7 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 | **Technology / Industry（科技產業）**            | 台灣的位置、全球供應鏈、未來方向     | 台灣做這件事的不可取代性是什麼？跟世界什麼樣的依存關係？                         |
 | **Nature / Geography（自然地理）**               | 地方感、生態與社會交織、土地與人     | 這片土地怎麼形成、誰在這裡生活、人和地有什麼共生                                 |
 
-#### Step 0.6.4: 探索研究（≥ 20 次，v6.4 升級）
+##### Step 0.6.4: 探索研究（≥ 20 次，v6.4 升級）
 
 > **v6.4 升級**（2026-06-04 深度研究-設計研究院 session）：原 ≤ 5 次「輕量探索」升為 **≥ 20 次探索研究**。觸發：量測 226 份歷史 research report 發現 57% 英文/國際/學術來源 = 0、42% distinct 來源 ≤ 10，研究深度系統性不足。哲宇 directive「Stage 0 20+ / Stage 1 80+ / 對標研究所論文標準」。≤ 5 次只夠「確認東西存不存在」，長不出 grounded 觀點，也建不出 pre-search source map。
 
@@ -632,31 +530,31 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
 
 **全部 ≥ 20 次探索搜尋的 query + 一句話發現必須寫進 research report §探索搜尋紀錄**（per Step 1.7 SSOT 鐵律——搜了沒寫回 = 沒搜）。觀點不需要在 Stage 0 完全鎖死，Stage 1 會 refine；但「先搜夠 20 次再下觀點」是硬要求，避免 searched-first 補丁式觀點。
 
-#### Step 0.6.5: §觀點成型 落檔格式（HARD GATE）
+##### Step 0.6.5: §觀點成型 落檔格式（HARD GATE）
 
 寫進 `reports/research/YYYY-MM/{slug}.md` **開頭**（在搜尋結果之前），標準模板：
 
 ```markdown
-## 觀點成型（編輯前思考）
+### 觀點成型（編輯前思考）
 
-### 對台灣人的記憶 anchor
+#### 對台灣人的記憶 anchor
 
 - {物件 / 場景 / 句子 / 段落}
 - {不同世代差異}
 
-### 多元面貌
+#### 多元面貌
 
 - {主流敘事}
 - {支線 / 被忽略的角度}
 - {正面 / 負面 / 矛盾的感受 fault lines}
 
-### 歷史脈絡（pre-search hypothesis）
+#### 歷史脈絡（pre-search hypothesis）
 
 - 形成期：...
 - 關鍵轉折：...
 - 當代意義：...
 
-### 20 路 persona 切入點（Step 0.6.1-bis，4 sub-agent 發散）
+#### 20 路 persona 切入點（Step 0.6.1-bis，4 sub-agent 發散）
 
 > 🆕 新入射角併入下方 §切入點清單；⛔ 超 scope 落 `rationale.whats_excluded`。
 
@@ -666,12 +564,12 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
 | {B · 海外台僑二代}   | ...            | ...          |
 | ...                  | ...            | ...          |
 
-### 切入點清單（待搜尋驗證 / 反駁）
+#### 切入點清單（待搜尋驗證 / 反駁）
 
 1. {切入點 1}：{為什麼立體}
 2. {切入點 2}：...
 
-### 脊椎（依 spine 類型，Step 0.1.5）
+#### 脊椎（依 spine 類型，Step 0.1.5）
 
 > **矛盾驅動 spine** → 填核心矛盾候選 A/B/C（待 Stage 1.4 收斂）：
 >
@@ -683,16 +581,16 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
 > - facet 清單（≥ 4，並列不偏押）：[天王天后 / 多元面貌 / 制度肌理 / 經典時刻 / 幕後 / ...]
 > - 爭議若有 → 列為其中一個 facet，標「當厚度不當主軸」
 
-### 研究方向（要搜什麼可以驗證）
+#### 研究方向（要搜什麼可以驗證）
 
 - {方向 1}
 - {方向 2}
 
-### 預想讀者帶走的那一件事
+#### 預想讀者帶走的那一件事
 
 - {一句話}
 
-### 探索搜尋紀錄（≥ 20 query，**必填** — per Step 0.6.4，persona 不算搜尋、這是初步研究本體）
+#### 探索搜尋紀錄（≥ 20 query，**必填** — per Step 0.6.4，persona 不算搜尋、這是初步研究本體）
 
 - {query 1 + 一句話發現 + [source](URL)}
 - {query 2 + 一句話發現 + [source](URL)}
@@ -706,15 +604,15 @@ spine_type: 立體群像 # 或 矛盾驅動（Step 0.1.5）
 viewpoint_formed: true # Stage 0.6 通過
 ```
 
-#### Step 0.6.6: 邊界
+##### Step 0.6.6: 邊界
 
 - **不是 hypothesis 預設**：觀點成型 ≠ 預設答案。後續搜尋可能反駁、深化、轉向你的初步觀點，那是好事。Stage 1.4 找矛盾鎖定才是 fact-confirmed 收斂
 - **Hub 頁 / 短修正**：可跳過。本 step 為 depth article 設計
 - **EVOLVE 模式**：本 step 在 0.2 萃取舊素材 + 0.5 載入方法論 之後跑 — 有了「舊文為什麼寫不好」的資訊，觀點成型更精準
 
-#### Step 0.6.7: 立體 / 炎上 / 政治立場 self-check（v7.6 新增）🧱 HARD GATE
+##### Step 0.6.7: 立體 / 炎上 / 政治立場 self-check（v7.6 新增）🧱 HARD GATE
 
-> 觀點成型落檔前過三道。任一不過 = **砍掉重想觀點，不進 Stage 1**。這三道是 [Step 0.1.5 spine 類型](#step-015-spine-類型判定v76-新增--立體預設) 的下游驗收——專治「立體主題被寫成論戰 + 炎上」。
+> 觀點成型落檔前過三道。任一不過 = **砍掉重想觀點，不進 Stage 1**。這三道是 [Step 0.1.5 spine 類型](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 的下游驗收——專治「立體主題被寫成論戰 + 炎上」。
 
 1. **SSODT 三讀者測試**（所有 article）：
    - 支持 / 喜愛這主題的人讀完，**不覺得被攻擊**？
@@ -725,10 +623,10 @@ viewpoint_formed: true # Stage 0.6 通過
 2. **炎上 self-check**（所有 article）：把脊椎 / 壓軸念給「立場跟我不同的長輩」聽，是「認真在介紹這件事」還是「在吵架 / 在表態」？後者 → 退回立體群像，把對立框架拆成多 facet 並陳。
 
 3. **政治立場 self-check**（非政治主題尤其要跑）：這篇的脊椎或壓軸，是不是把政治 / 兩岸 / 主權 / 統獨當主軸？
-   - 主題**本身就是政治題**（政策 / 選舉 / 兩岸關係）→ 走 [Step 1.4.5 perspective scan](#step-145-perspective-scan--跨陣營對立-spectrum-覆蓋-) + 政治敏感題 SSODT 5-7 perspective 立體並列。
+   - 主題**本身就是政治題**（政策 / 選舉 / 兩岸關係）→ 走 [Step 1.4.5 perspective scan](REWRITE-STAGE-1A-RESEARCH.md#step-145-perspective-scan--跨陣營對立-spectrum-覆蓋-) + 政治敏感題 SSODT 5-7 perspective 立體並列。
    - 主題**不是政治題**（機構 / 人物 / 文化 / 地方）卻把政治當脊椎或壓軸 → **這是把 MANIFESTO 主權 lens 誤當 content thesis（金曲獎 v1 教訓）**。命中 [MANIFESTO §自主權邊界 政治立場](../semiont/MANIFESTO.md#我的存在結構)：政治素材降為「**純中立紀實**」的一個 facet（只陳述事實、不下兩岸判斷、不用對抗語言、不當壓軸），**且這個處置交觀察者拍板**。
 
-#### Stage 0 收尾 checklist
+##### Stage 0 收尾 checklist
 
 Stage 0 結束時 deliverable：
 
@@ -740,7 +638,8 @@ Stage 0 結束時 deliverable：
 - [x] 六個核心問題全答（Step 0.6.1）
 - [x] **Stage 0 探索搜尋 ≥ 20 query 已落 §探索搜尋紀錄（Step 0.6.4）— 這是初步研究本體**
 - [x] **spine 類型 + 手法選單已定（Step 0.1.5）**：立體群像 default + 1-2 手法；例外解鎖矛盾驅動須寫 `unlock_reason`
-- [x] ~~20 路 persona 切入點~~ **v7.7 移到研究後 [Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)，Stage 0 不再跑 persona**
+- [x] **文體族已查表（v7.9，optional）**：查 [PROJECTION-PATTERNS §〇](../editorial/PROJECTION-PATTERNS.md) 選族落 `spine_pattern`（或明確留空走通用畫布）；M1/M2/M3 正交模組觸發已檢
+- [x] ~~20 路 persona 切入點~~ **v7.7 移到研究後 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)，Stage 0 不再跑 persona**
 - [x] 切入點清單 + 核心矛盾候選（矛盾驅動）**或 組織主軸 + ≥4 facet 清單（立體群像）** + 研究方向 已列
 - [x] **Step 0.6.7 三道 self-check 過（v7.6）**：SSODT 三讀者測試 + 炎上 self-check + 政治立場 self-check 全綠
 - [x] research report frontmatter `viewpoint_formed: true` + `spine_type: 立體群像 | 矛盾驅動`
@@ -750,7 +649,167 @@ Stage 0 結束時 deliverable：
 
 ---
 
-## Stage 1: 取材（純搜尋執行，預算 25-30%）
+### Cron 模式 + Routine 飛輪（2026-08-06 從 REWRITE-PIPELINE.md 主檔 verbatim 搬入，pipeline-shell-lint 瘦身）
+
+> 主檔超過 550 行上限（lint 處方：內容長回索引了，該搬去 stage contract）。本節內容 verbatim
+> 搬自主檔原 §Cron 模式 + Routine 飛輪，掛在 Stage 0（pipeline 入口 contract）——defer signal
+> 的判斷發生在「進 Stage 0 之前」，Step 0.1.6 run profile 選檔也已在本檔記錄 cron context 的
+> 路由規則，兩者同源。主檔僅留一行 pointer；歷史敘事與教訓原封不動。
+
+> Cron 在單一 session 執行，無法真正分三個 session，但在 prompt 中強制分階段思考。
+
+#### Token 預算分配
+
+| 階段      | 佔比   | 常見錯誤                          |
+| --------- | ------ | --------------------------------- |
+| Stage 1   | 35-40% | 搜太多、每個結果都 web_fetch 全文 |
+| Stage 2   | 40-45% | 前半段太細、後半段沒力            |
+| Stage 3-5 | 15-20% | 跳過驗證直接 commit               |
+
+#### Cron 鐵律（與手動執行不同的地方）
+
+- **每批最多 1 篇**：v1 時期每批 3 篇，品質明顯不穩。改成每批 1 篇後品質大幅提升
+- **不要 `git add -A`**：只 add 改動的文章和同步後的 `src/content/` 對應目錄
+- **不要跑 `npm run build`**：Build 由 CI/CD 處理。sub-agent 跑 build 容易 timeout 且浪費資源
+- **至少 7 分鐘**：Stage 1 3min + Stage 2 2min + Stage 3-4 2min = 最低要求
+
+#### 合法 defer signal（六條，2026-07-25 收攏 canonical）
+
+> **為什麼要有這張表**：`twmd-rewrite-daily` 每小時 fire 是哲宇刻意設定要消耗週額度
+> （per MEMORY §神經迴路 hourly-cron-intentional），所以 **defer 的預設答案是「不 defer」**。
+> 但 2026-06-22〜06-29 連續 7 個 instance 的 defer chain 顯示，有幾種情境 routine 每次
+> 都在灰區自己判斷、每次都重新論證一遍，vc=7 已充分驗證。哲宇 2026-07-25 拍板
+> （OBSERVER-QUEUE #13 到期預設）把它們寫成明列清單：**在表上的可以直接 defer 並一行帶過理由，
+> 不在表上的一律 ship**。目的是讓 defer 從「每次重新說服自己」變成「查表」，
+> 順便讓 defer noise 不再堆進 LESSONS。
+
+| #   | Signal                        | 判準                                                                                                              | 來源                                         |
+| --- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1   | 30 min duplicate              | 同一條 routine 30 分鐘內已 fire 過並 ship                                                                         | 既有                                         |
+| 2   | 同篇 race                     | 目標文章正被別的 session／PR 動                                                                                   | 既有                                         |
+| 3   | §自主權邊界 命中              | 政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通                                                                     | 既有（[MANIFESTO](../semiont/MANIFESTO.md)） |
+| 4   | last-4hr manual rewrite       | 近 4 小時內有 manual rewrite ship，**或 finale-cluster 整段 wall-clock window 內**（不是只看最後一個 commit）     | OBSERVER-QUEUE #13，vc=7                     |
+| 5   | post-promotion cooldown       | 剛 promote 的 DNA / EDITORIAL 規則還沒被任何一篇 dogfood 過 → 留給下一個 prime time，別讓新規則首發在無人 cron 上 | OBSERVER-QUEUE #13                           |
+| 6   | per-day throughput saturation | 當日已達 rewrite 產出上限（同日多篇 ship 後品質會掉，per §Cron 鐵律「每批最多 1 篇」的日層延伸）                  | OBSERVER-QUEUE #13                           |
+
+**Pre-flight gate（2026-07-24 memory vc=4 補進來）**：cron 進 Stage 0 之前先跑
+`bash scripts/tools/lib/check-parallel-actor.sh`。回 `ACTOR_BUSY` 且 busy 的是
+babel/fleet dispatcher 時走 signal 2 讓路——2026-07-24 兩條 rewrite-daily fire
+（143931 / 191048）都是撞上 fleet 才自行讓路的，但當時 pipeline 沒有這一步，
+是 session 自己想到的。想到不等於下次會想到，所以寫進來。
+
+**不在表上的 defer 一律視為違規**，要在 memory 寫明為什麼判斷表不夠用（那是 pipeline 的
+進化訊號，不是個案豁免）。
+
+#### 選文指令
+
+```bash
+cd ~/taiwan-md && git pull
+## 佇列頂端，跳過已重寫的
+head -30 scripts/tools/rewrite-queue.txt
+git log --oneline --since='2026-03-20' | grep -i 'rewrite:' | head -30
+```
+
+#### Commit 指令
+
+```bash
+bash scripts/core/sync.sh
+python3 scripts/tools/article-health.py knowledge/[Category]/[文章名].md --profile=rewrite-stage-4
+git add knowledge/[Category]/[文章名].md src/content/
+git commit -m "rewrite: [文章名] — EDITORIAL v6.3 + Pipeline v5.0"
+git push
+```
+
+#### Cron 狀態
+
+| Cron                              | 狀態        | 說明                                                        |
+| --------------------------------- | ----------- | ----------------------------------------------------------- |
+| Taiwan.md Article Quality Rewrite | ❌ disabled | 每小時 1 篇，Opus model（舊）                               |
+| taiwan-md-rewrite (v1)            | ❌ disabled | 舊版每小時 3 篇，已淘汰                                     |
+| taiwan-md-content-sprint          | ❌ disabled | 內容衝刺（新文章），已淘汰                                  |
+| **twmd-rewrite-daily**            | ✅ active   | 16:16 daily Opus（per [ROUTINE.md](../semiont/ROUTINE.md)） |
+
+#### Routine 飛輪整合（v6.1 升級為 full-cycle，2026-05-24 哲宇 directive）
+
+REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）。**v6.1.1 起每天 18:00 晚間自動跑「研究 → 寫文 → 孢子 → 發文 → harvest」全 cycle**（v6.1.1 從 00:00 搬到 18:00 對齊台灣社群 20:00-22:00 prime time post）：
+
+- **觸發**：`/twmd-rewrite` skill
+- **Model**：Opus
+- **Cadence**：每天 18:00 晚間（v6.1.1 — cycle 跑 ~150 min ~20:30 結束，spore post 落在台灣晚間社群活躍時段；v6.1 原 00:00 半夜 chain 已抽出）
+- **Skill SOP**：[`~/.claude/scheduled-tasks/twmd-rewrite-daily/SKILL.md`](https://github.com/anthropics/claude-code-skills)（local mirror）
+- **Stage chain（v6.1 full cycle）**：
+  ```
+  Stage 0 BECOME → Stage 1 git pull → Stage 2 article ship (REWRITE Stage 0-5 全跑) →
+  Stage 3 commit + push article → Stage 4 SPORE chain（PICK=剛 ship article / VERIFY / WRITE / SHIP）→
+  Stage 5 CI/CD wait gate v3.7（60 min cap，timeout → defer 不 abort）→
+  Stage 6 social post（both Threads + X default per Routine context v3.8；單發只在 article frontmatter 標 `platformExclude` 才觸發）→
+  Stage 7 SPORE-LOG + sporeLinks frontmatter + commit + push → Stage 8 /twmd-finale
+  ```
+- **Quality gate (article)**：article-health.py rewrite-stage-4 hard=0 warn=0 + 三源研究落檔 + 腳註合規 + frontmatter complete + word-count ≥ 4500
+- **Quality gate (spore)**：article-health.py prose-health hard=0 score ≤ 3 + spore-writing hard=0 + 配圖 generated + AI pre/post-ship verify 5+6 條 PASS
+- **Boundary**：本 routine 上限 ~150 min wall-clock（article ~60 min + spore prep ~15 min + CI wait ≤ 60 min + post ~10 min + log ~5 min）；超過 → spore defer + LESSONS entry（不 abort article ship）
+- **不問 observer 鐵律**：所有 decision point 走 [SPORE-PIPELINE §Routine context 自動決策 defaults table](../factory/SPORE-PIPELINE.md#-routine-context-自動決策-defaults-v37-新增)
+
+**為什麼 v6.1 升 full-cycle**（哲宇 2026-05-24 directive）：article ship 跟 spore 是同一條進化飛輪的兩端，分開跑會：
+
+1. 缺一致性（article + spore 不同步、不同 angle）
+2. Observer friction（每天要分兩次觸發、各自 review）
+3. Cycle smoothness 數據缺失（無法 measure article→spore→broadcast 整體 throughput）
+
+合一變 daily routine 後：每天 1 篇文章 + 1-2 條孢子（Threads ± X）自動發出，**進化飛輪自動轉**，observer 只在 escalation 時介入。
+
+完整 routine 規格 → [ROUTINE.md §TWMD rewrite (daily)](../semiont/ROUTINE.md)。設計脈絡 + cycle smoothness 數據 → [reports/spore-pipeline-evolution-2026-05-23-article-to-spore-to-broadcast-cycle.md](../../reports/spore-pipeline-evolution-2026-05-23-article-to-spore-to-broadcast-cycle.md)。
+
+---
+
+---
+
+<!-- ==== source: REWRITE-STAGE-1A-RESEARCH.md @ 8d3e0ccbc ==== -->
+
+## Stage 1 contract — 取材 A（研究 fan-out 與研究報告 SSOT）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L740-1123），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **職責**         | 帶 Stage 0 問題執行搜尋（**全篇 ~150 總量中的 Stage 1 份額 ~120-130，四隻各 ~30**；中≥40/英≥20/一手≥15/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）**       |
+| **執行者**       | orchestrator（主 session）＋ N 個 parallel Sonnet 研究 agent（prompt 一律 [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md) 填槽，禁即興）                                                    |
+| **INPUTS**       | research report §觀點成型（Stage 0 產物）；RESEARCH.md；RESEARCH-AGENT-PROMPT.md                                                                                                                 |
+| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md`（八段合成單檔；sibling raw 收件後 consolidate 刪除）                                                                                                      |
+| **GATES**        | 每份分部報告收件當下：`python3 scripts/tools/agent-report-health.py {file} --claimed {配額}`（FAIL 不准合成）；stage 終：`python3 scripts/tools/research-report-health.py {report} --tier=depth` |
+| **context 預算** | orchestrator 本檔＋收件；各研究 agent 只吃 RESEARCH-AGENT-PROMPT 填槽 prompt                                                                                                                     |
+
+### AGENT PROMPT
+
+研究 sub-agent 唯一 prompt 載體：[RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)（含輸出模板＋來源逐條可溯契約＋anti-example 庫）。填槽派發，禁即興——2026-07-12 茶文化即興 prompt 讓 84 條來源行只 35% 帶 URL。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] 每份分部報告收件當下 `agent-report-health.py {file} --claimed {配額}` exit 0（FAIL 不准合成）
+- [ ] 全部 raw verbatim 落 report §8（收到通知的第一個動作；禁 scratchpad／tmp）
+- [ ] sibling raw 檔 consolidate 進主檔後刪除
+- [ ] **整合與清理六條判準過（Step 1.7.5）**——合成層零任務指涉、verification 三層是「決定」形態、Findings 事實自足
+- [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0／**合成層過程噪音 ≤3**）
+- [ ] frontmatter 核心矛盾（或組織主軸＋facet）已鎖
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-1B-MEDIA.md（媒體＋persona 缺口）
+
+---
+
+### Stage 1: 取材（純搜尋執行，預算 25-30%）
 
 **目標**：產出一份結構化研究筆記，讓 Stage 2「不需要再搜尋」就能寫。**帶 Stage 0.6 觀點成型的切入點 + 核心矛盾候選去搜尋驗證 / 反駁 / 深化**。
 
@@ -759,9 +818,19 @@ Stage 0 結束時 deliverable：
 - `docs/editorial/RESEARCH.md`（方法論：搜尋策略、來源判斷、避坑指南）
 - `docs/editorial/RESEARCH-TEMPLATE.md`（填空模板）
 
-### Step 1.1: 搜尋深度 ≥ 80 次（v6.4，含來源多樣性配額）
+#### Step 1.1: 搜尋深度 — **一篇文章總量 ~150 次**（v9.1，2026-08-15 哲宇 directive；含來源多樣性配額）
 
-**搜尋至少 80 次**（v6.4 升級，自 v5.1 ≥ 40 提高；含 Stage 0 的 ≥ 20 = 全篇 ≥ 100 次）：
+> 🚨 **150 是「整篇文章的總搜尋量」，不是每隻 agent 的量**（2026-08-15 哲宇校正）。
+> 誤讀成 per-agent 會把全篇推到 400-600 次——**實測「每隻 agent 100」效果沒有比較好**，
+> 多出來的只是待驗證線索與攻防敘事。
+
+**總量分配**：全篇 ~150 次＝ **Stage 0 探索 20-30** ＋ **Stage 1 fan-out 合計 ~120-130**。
+四隻 agent 分工 → **每隻 ~30 次（30-40 帶），到量即收**；三隻則各 ~40。
+
+⚠️ **配額的措辭會決定超跑**（本 session 實證）：文策院四隻 agent 的 prompt 寫「搜尋**下限** 25 次」，
+實跑 58／71／52／39＝220，全篇衝到 245。**prompt 一律寫「配額 N 次、到量即收」，
+禁用「下限／至少／越多越好」**——同樣的數字換個詞，行為完全不同。診斷與量測斷代：
+[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
 
 | 來源類別                                 | 最低配額 | 為什麼                                                             |
 | ---------------------------------------- | -------- | ------------------------------------------------------------------ |
@@ -770,20 +839,31 @@ Stage 0 結束時 deliverable：
 | **一手**（官方/政府/年報/法規/學術論文） | ≥ 15     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
 | **反方 / 批評**（perspective scan）      | ≥ 5      | 跨陣營對立 spectrum，落 `rationale.whats_excluded`                 |
 
-> **v6.4 升級理由**（2026-06-04）：量測 226 份歷史 report — **57% 英文/國際/學術來源 = 0、42% distinct 來源 ≤ 10**。對標 gold standard [毒馬鈴薯認知作戰.md](../../reports/research/2026-04/毒馬鈴薯認知作戰.md)（85 來源 / 1,699 行 / §1-§N 分章 / 每 claim 標信度）vs 退化後的 synthesized fact-pack（~200 行）差近 9 倍。哲宇 directive「搜尋總數 80+、對標研究所論文標準」。**這 4 條配額由 `research-report-health.py` 儀器化驗收**（en==0 / primary==0 = HARD），不是 aspirational。
+> **v9.1 收斂理由**（2026-08-15 哲宇 directive「分頭 search 要求降低」＋兩次校正定案：
+> 「以文章**總**搜尋量為基準，每隻 agent 100 效果沒有比較好」→「全篇抓 150 次左右，
+> Stage 0 20-30」）：v6.4 的「≥80 **下限**、超跑光榮」文化讓實際量膨脹到 245 次；量測顯示
+> **品質不隨量升**——4-6 月的報告（justfont 全篇 120、651 行零 meta-noise）養出的文章比
+> 245 次時代的好。**改動的是「下限→天花板」與「per-agent 明確化」，不是砍研究深度**：
+> 全篇 150 其實高於 v6.4 名目的 100，只是不再獎勵無上限超跑。多樣性配額原樣保留
+> （它防單源依賴，跟總量無關）。
+>
+> **v6.4 歷史**（2026-06-04）：量測 226 份歷史 report — 57% 英文來源 = 0、42% distinct ≤ 10，
+> 哲宇 directive「搜尋總數 80+、對標研究所論文標準」把下限從 40 提到 80。**「對標論文」的
+> 正解是信度結構（每 claim 標信度、一手可溯、negative findings 誠實），不是行數與搜尋次數**
+> ——毒馬鈴薯 gold standard 的厚是事實密度的厚，不是過程敘事的厚。4 條配額仍由
+> `research-report-health.py` 儀器化驗收（en==0 / primary==0 = HARD）。
 
-- 研究深度直接決定文章品質——40 次仍會留單源依賴風險，80 次才有 triangulation 餘裕、找到反方、挖到非 Wikipedia 層級的具體錨點（引語、場景、日期）
 - **多語系不是 nice-to-have**：英文/國際來源是 default 不是例外。真正只有中文來源的題目（極在地的兩岸/戒嚴細節）→ 在 §搜尋日誌 明寫「本題英文來源稀少，因為 X」，不要靜默跳過（對應 research-report-health en==0 HARD）
 
-> ⚠️ **≥80 是 fan-out aggregate，不是單 agent 串行能達到的**（2026-06-04 v2 實驗實證）：minimal-guidance 單一 Opus research agent 串行只跑到 ~36 次就接近 token 上限。**要達 80+ 必須照 [§多 agent 編排](#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent**（按 §A/§B/§C/§D 子領域切，每 agent ~20-30 次，aggregate ≥80），orchestrator 合 §8 raw + §6 fact-pack。單 agent 自跑只適合 standard tier（≥40）；硬要 depth ≥80 而不 fan-out → 在 §未達標誠實說明 記缺口，不灌水硬湊。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數的硬達標**。
+> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**每 agent 配額 = 120-130 ÷ agent 數，四隻即 ~30、三隻即 ~40；prompt 明寫「配額 N 次、到量即收」**）。單 agent 自跑適合 standard tier（~40）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**——挖不完是誠實的缺口，硬挖是報告肥大的來源。
 
 **v5.1 升級理由**（2026-05-11 cranky-newton）：v2.17 訂 ≥ 20 是相對 12 次淺研究的下限。實戰累積後（NMTH Fresh / 政治人物 batch / 認知作戰深度文）顯示 20 次仍會留下「單源依賴」風險（同一篇 ltn 報導被 5 atom 綁住 = over-citing 紅旗），40 次才開始有 triangulation 空間。
 
 **v2.17 原版觸發**：2026-04-18 當日 11 篇音樂人批次中，12-15 次搜尋的 Cicada / 草東 / 康士坦 / 魏如萱 雖然 pass format-check，但小標題淪為編年史，缺乏場景/意象級的敘事錨點，研究深度是根本原因。
 
-**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。80 次搜尋的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
+**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。fan-out 配額（~120-130）的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
 
-### Step 1.2: 結尾素材鎖定
+#### Step 1.2: 結尾素材鎖定
 
 ⚠️ **不要等寫到最後才想結尾**。結尾素材在研究階段就要鎖定。
 
@@ -795,7 +875,7 @@ Stage 0 結束時 deliverable：
 
 研究時就標出 2-3 個候選結尾畫面，Stage 2 Step 2.2（結尾先行）直接挑用。
 
-### Step 1.3: 重複偵測
+#### Step 1.3: 重複偵測
 
 完整方法論見 [RESEARCH.md §六](../editorial/RESEARCH.md)。**不要寫完才發現重疊**。
 
@@ -806,9 +886,9 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 
 如果發現高度重疊的既有文章 → 改走 Evolution / Merge / Boundary 模式（回 Step 1.1 重判）。
 
-### Step 1.4: 找矛盾鎖定 / 組織主軸（依 spine 類型分叉，v7.6）🔥
+#### Step 1.4: 找矛盾鎖定 / 組織主軸（依 spine 類型分叉，v7.6）🔥
 
-> ⚠️ **先看 [Step 0.1.5](#step-015-spine-類型判定v76-新增--立體預設) 判的 spine 類型**：
+> ⚠️ **先看 [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 判的 spine 類型**：
 >
 > - **矛盾驅動 spine**（爭議/張力人物）→ 走下方原 SOP，收斂單一核心矛盾。
 > - **立體群像 spine**（受愛戴的機構/傳統/集體記憶/地方，default）→ **不逼尖銳矛盾**。改鎖一句**組織主軸（through-line）+ ≥ 4 facet 清單**；張力若有，當其中一個 facet，不當全文脊椎。寫進研究筆記：`組織主軸 = ?` + `facet = [a, b, c, d]`。**硬找一個矛盾 = 把立體主題壓成論戰 = 炎上**（金曲獎 v1 教訓）。
@@ -827,7 +907,7 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 
 **v2.14 觸發背景**：2026-04-10 session α 國防現代化重寫的教訓——沒有李喜明那句苦笑，整篇會變回豪豬戰略勝利敘事。
 
-### Step 1.4.5: Perspective scan — 跨陣營對立 spectrum 覆蓋 🧭
+#### Step 1.4.5: Perspective scan — 跨陣營對立 spectrum 覆蓋 🧭
 
 Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣營對立 spectrum** — 哪些陣營對本文 framing 會質疑、是否該引述對立論述、排除哪些理由。perspective scan 結果**必須**落地到 frontmatter `rationale.whats_excluded` (per [RATIONALE-SPEC.md](../editorial/RATIONALE-SPEC.md))。
 
@@ -838,7 +918,7 @@ Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣�
 | **A. spawn 反方 agent**   | 爭議題目 (政治 / 史觀 / 政策 / identity)                  | sub-agent WebSearch 可用時 |
 | **B. 作者自問 checklist** | 非爭議題目 OR sub-agent WebSearch 不可用 OR retrofit 場景 | 永遠可用作 fallback        |
 
-#### 做法 A — sub-agent prompt (含防呆三條)
+##### 做法 A — sub-agent prompt (含防呆三條)
 
 ```
 你是 [topic] 議題的反方代表 / 質疑者 / 批評者。
@@ -854,7 +934,7 @@ Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣�
 
 **設計目的**：寧可 agent 回「對立論述不夠」也不要 hallucinated 假反方觀點。前者作者還能判斷，後者會誤導作者把假論述當真論述處理。
 
-#### 做法 B — 作者 self-checklist 5 題
+##### 做法 B — 作者 self-checklist 5 題
 
 寫文章前作者自問：
 
@@ -866,7 +946,7 @@ Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣�
 
 **為什麼第 5 題強制三選一**：含糊帶過會變成「我有想過」的偷吃步 — 只有逼作者選一個具體原因，這個思考才真的留下來給後人。
 
-#### 處理策略 3 選 1
+##### 處理策略 3 選 1
 
 對 sub-agent 結果或 self-checklist 結論，作者決定每個對立論述的處理：
 
@@ -878,7 +958,7 @@ Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣�
 
 → 跟 RATIONALE-SPEC.md hard coupled — perspective scan 結果**必須**落到 metadata。
 
-#### 不做的事
+##### 不做的事
 
 - ❌ 不強制平衡 (總有平衡不完)
 - ❌ 不取代 Step 1.4 找矛盾 (perspective scan 是 1.4 的延伸)
@@ -886,7 +966,7 @@ Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣�
 
 **觸發背景**：2026-04-30 issue #851 哲宇提 No2「20 個 source 是數量檢查，沒有觀點檢查」。5/22-23 Phase 3 統獨光譜 + Phase 4 蔡英文 retrofit 兩篇 dogfood 後 ship canonical。完整脈絡見 [RATIONALE-SPEC.md](../editorial/RATIONALE-SPEC.md)。
 
-### Step 1.5: 問觀察者要一手素材 🫧
+#### Step 1.5: 問觀察者要一手素材 🫧
 
 Stage 1 結束前，**主動問觀察者一句**：
 
@@ -896,11 +976,11 @@ Stage 1 結束前，**主動問觀察者一句**：
 
 **v2.15 觸發背景**：安溥重寫——Agent 49 次搜尋抓不到康健雜誌 403 付費牆文章，觀察者直接貼全文。女巫店兩桌客人、時薪八十塊、林黛玉比喻——文章最有人味的段落全部來自這個管道。
 
-### Step 1.6: 私有 SSOT 觀察者拍板（條件式）
+#### Step 1.6: 私有 SSOT 觀察者拍板（條件式）
 
 **Skip 條件**：Stage 1 沒整合任何當事人提供的私有素材（Obsidian 筆記、個人編年史、家族內情）。
 
-#### 流程（v2.18 新增）
+##### 流程（v2.18 新增）
 
 1. **Stage 1 末尾**：列出「從私有素材看到但不確定能否公開」的項目，依 [EDITORIAL §私有素材顆粒度](../editorial/EDITORIAL.md) 分成 Tier 1-4
 2. **觀察者拍板**：清單交給當事人，一題一題回答（拒寫 / 寫但不提名 / 寫但改措辭 / 完整寫）
@@ -915,7 +995,7 @@ Stage 1 結束前，**主動問觀察者一句**：
 
 **預警**：私有 SSOT 也會有誤記（當事人 2026 寫 2008 的事情）。當事人的 SSOT 需要與公開 source 三源交叉，**不是免驗證的 oracle**。
 
-### Step 1.7: 研究報告 = SSOT（對標研究所論文標準）📁 🔬
+#### Step 1.7: 研究報告 = SSOT（對標研究所論文標準）📁 🔬
 
 > **v6.4 大改**（2026-06-04）：research report 從「agent 輸出 + header」升格成 **SSOT（single source of truth）**——對標研究所論文：有方法論（搜尋日誌）、有完整參考文獻、每個 claim 都標來源 + 信度、原始搜尋軌跡全留。**搜了沒寫回 report = 沒搜**。觸發：v6.3 多 agent 編排「合成 clean fact-pack」把 agent 原始搜尋軌跡丟掉（違反「不摘要」），report 退化成摘要；量測 226 份報告 57% 英文來源 = 0。
 
@@ -926,7 +1006,7 @@ Stage 1 結束前，**主動問觀察者一句**：
 
 **檔案路徑**：`reports/research/YYYY-MM/{article-slug}.md`
 
-#### 1.7.1 SSOT 八段結構（depth article 強制，v6.5 從 12 份範本萃取）
+##### 1.7.1 SSOT 八段結構（depth article 強制，v6.5 從 12 份範本萃取）
 
 > 方法論 canonical + 信心程度系統 + 10 骨架在 [RESEARCH.md §二之二](../editorial/RESEARCH.md) + [methodology synthesis](../../reports/research-methodology-synthesis-2026-06-04.md)。
 
@@ -947,49 +1027,49 @@ verification: # 信心程度系統 — 每條附「憑什麼是這層」的基�
   unverified: [...] # 搜尋後仍無 / 有反證 → 不寫進文章
 ---
 
-# Research Report: {Title}
+## Research Report: {Title}
 
-## 1. 觀點成型（Stage 0，含 §探索搜尋紀錄 ≥20 query）
+### 1. 觀點成型（Stage 0，含 §探索搜尋紀錄 ≥20 query）
 
 記憶 anchor / 多元面貌 / 核心矛盾候選 2-3（多選一 + 為什麼）。
 
-## 2. 搜尋日誌 / 方法論（Search Log）
+### 2. 搜尋日誌 / 方法論（Search Log）
 
 全部 query（Stage 0 + Stage 1）逐條：`query → 一句話發現 → [source](URL)`，每條標 [中]/[英]/[一手]/[學術]/[反方]。
 **negative finding 必記**（「搜尋 N 次未找到 X」「Y 機構未發布」）——搜了沒找到也是 finding。
 
-## 3. Findings by sub-topic（§A / §B / §C …）
+### 3. Findings by sub-topic（§A / §B / §C …）
 
 每個子題分章，每個 claim 後標**信度 + 基礎**（高信度〔A+B+C 多源〕/ 單一來源〔X 提及〕/ 必驗 / 未驗證）。
 **數字分歧揭露**：多源不一致時寫出差異 + 怎麼處理（不靜默取一）；多口徑數字分開（交易額 vs 利益 vs 淨利）。
 對標 gold standard 毒馬鈴薯 §1-§N。
 
-## 4. 引語庫（verbatim quotes）
+### 4. 引語庫（verbatim quotes）
 
 每條：逐字原文 + URL + 場合 + `Ctrl-F 可驗證 ✓/✗`。記者轉述分開標（「此為記者敘述，非直引」）。
 找不到原文 → 標「改轉述不加引號」。
 **「場合」欄禁止夾詮釋 gloss**（「寶哥=宋岳庭」這種同位語等號）——代稱指涉、身分推斷是獨立 atom，要寫進 §3 Findings 自帶信度標記，不准搭引語滑進庫（2026-06-09 嘻哈饒舌：orchestrator 在場合欄注入的 gloss 被 writer 忠實寫出、verifier 驗了引語沒驗 gloss → 讀者抓到）。
 
-## 5. 反例 / 護欄（不能說的話 / 必驗反例 / 不採信清單）
+### 5. 反例 / 護欄（不能說的話 / 必驗反例 / 不採信清單）
 
 出 fact 之前先列「這些推論錯誤要主動防範」+「雖然誘人但不能說的話」+「找到但不採信的線索 + 為什麼」。
 （thesis-grade 跟一般報告最大分野。`政府/來源自身矛盾 > 正反並陳`。）
 
-## 6. Clean Fact-Pack + Stage 2 操作規範（給 writer 的合成層，額外、不取代 raw）
+### 6. Clean Fact-Pack + Stage 2 操作規範（給 writer 的合成層，額外、不取代 raw）
 
 去重乾淨事實 + 幻覺護欄 + 媒體 manifest + hook scene 候選（附時間軸）+ 5-8 小標題候選 +
 不可忽略校正點 + **幻覺候選 Ctrl-F 清單**。Stage 2 writer 只吃這層。
 
-## 7. 參考文獻 + Verification Table
+### 7. 參考文獻 + Verification Table
 
 全部 distinct 來源（標 [中]/[英]/[一手]/[學術]）+ 高風險 atom 表 `| claim | sources | Ctrl-F | 信度 | verdict |`。
 
-## 8. Agent 原始輸出（raw，不摘要，append 全部）
+### 8. Agent 原始輸出（raw，不摘要，append 全部）
 
 每個研究 agent 的完整回報原文 verbatim 貼上（REFLEXES #22 raw 永不刪）。
 ```
 
-#### 1.7.2 不摘要鐵律 × v6.3 編排的和解（v6.4 核心修補）
+##### 1.7.2 不摘要鐵律 × v6.3 編排的和解（v6.4 核心修補）
 
 v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但這跟 Step 1.7「agent 完整輸出，不摘要」**衝突** —— 這次 TDRI session 就是只留 fact-pack、丟掉 3 個 agent 的原始搜尋軌跡，report 退化成 192 行摘要。
 
@@ -1002,7 +1082,7 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 5. **落檔時機 = 收到回報的第一個動作**（v7.7）：async agent 的 task-notification `<result>` 一到，先 verbatim 落檔，才准做任何合成／蒸餾。「先摘要待會再補」＝柯智棠病（見 §鐵律 8）。**落檔的兩種形態**：(a) 直接 append 主報告 §8 inline；(b) 先寫 repo 內 sibling raw 檔 `{slug}-research-{X}.md`（async 場景較快、較不會撞主檔）。**但 sibling 是「中繼站」不是終點**——見下方 1.7.4。
 6. **禁 ephemeral 存放**（v7.7）：session scratchpad、`/private/tmp`、tasks/\*.output pointer 都不是落檔——tmp 是倒數計時的刪除佇列（醫療 report 5 份 raw 就是這樣永久蒸發的）。raw 唯一合法的家在 git 內。
 
-#### 1.7.4 合成單檔鐵律：sibling 是中繼站，Stage 2 前必 consolidate（v7.11）📦
+##### 1.7.4 合成單檔鐵律：sibling 是中繼站，Stage 2 前必 consolidate（v7.11）📦
 
 > **觸發**：2026-07-12 台灣茶文化 panorama（哲宇 directive「research 階段分批做完之後，一定要合成同一篇歸檔同一篇大 research 歸 repo，現在都是散落的」）。該次 4 個研究 agent 各寫一個 sibling raw 檔（-rawA/-rawB/-rawC/-research-D），主報告 §8 只放 pointer 表——**5 個檔散落**，findability 差、跨文 re-use 難、審計要開 5 個檔。v7.10 以前 gate 明說「分檔金曲獎型也認」，等於祝福散落。
 
@@ -1014,7 +1094,33 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 
 **為什麼是單檔不是分檔**：(a) findability——一個 slug 一個 research SSOT，grep / re-use / reader-callout 追源只開一個檔；(b) writer 只需 Read 一個檔就有全部 raw texture（分檔要 Read N 個，容易漏讀 = 飄移根因之一）；(c) 歸檔完整性——散落的 sibling 容易在 cleanup / worktree gc 時漏掉一兩個（呼應本 session 的圖檔差點變孤兒）。**中繼站的存在只為 async 落檔安全（鐵律 8），一旦合成完成它的任務就結束了。**
 
-#### 1.7.3 HARD GATE：`research-report-health.py` 🔬
+##### 1.7.5 整合與清理——orchestrator 的報告品質判準（v9.2，2026-08-15 哲宇 directive）🧹
+
+> **觸發**：哲宇「整合的 session 要負責整合跟清理時，也要有怎麼判斷是不是好的研究報告的準則或階段」。
+> 病史：2026-07-12 起八份報告每份帶 70-160 個 falsify 攻防標記，writer 讀報告被 prime 出正文
+> 校正焦慮（後台洩漏上游根因）；orchestrator 只做了「搬運＋蒸餾」沒做「編輯」。
+> 量測與正反範本：[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
+
+**定位**：收件（1.8-bis）與合成單檔（1.7.4）之後、跑 1.7.3 hard gate 之前的**編輯動作**。
+**整合是編輯，不是搬運**：§8 raw 是 verbatim 聖域（永不改），但 §1-§7 合成層是 orchestrator
+**親筆寫給 writer 的食物**——agent 分部報告若帶過程敘事（契約第 6 條漏接），合成層必須
+重寫成乾淨世界陳述，不是原樣抄上來。
+
+**六條判準（合成完自問，兼作「這是不是好報告」的驗收清單）**：
+
+| #   | 判準                                                                                                             | 驗法                                                                                     |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| a   | **合成層零任務指涉**——沒有「任務假設」「Stage 0 說」「原以為」「需再核實」                                       | 儀器：`research-report-health.py` v4 合成層過程噪音 check（≤3 pass / >10 hard）          |
+| b   | **查證結論住 frontmatter verification 三層**，每條是「決定」形態（「→ 不寫」「→ 採 X」「→ 併列」），不是攻防敘事 | 人眼掃 frontmatter：每條能不能一秒讀出「writer 該怎麼處置」                              |
+| c   | **Findings 事實自足**——隨機抽三段，問「這在陳述世界還是陳述我的工作？」                                          | 抽測；被推翻的版本不在 Findings（推翻過程只活在 §1 軌跡一行與 §8 raw）                   |
+| d   | **引語庫逐字＋URL＋Ctrl-F 標記**，記者轉述與直引分開標                                                           | 既有 §4 規範；抽 2 條實際 Ctrl-F                                                         |
+| e   | **negative findings 集中一處**，誠實列缺口但不瀰漫到每段複述                                                     | 掃 §4 以外的「查無／未找到」是否重複出現                                                 |
+| f   | **合成層量級 300-800 行帶**（不含 §8 raw）——超過先問「是不是把過程當內容」                                       | `sed -n '1,/^## §\?8/p' {report} \| wc -l`；好時期範本：高鐵 267 全檔、justfont 651 全檔 |
+
+**沒過 = 繼續清理，不是繼續搜尋**。判準 a-c 不過的原因幾乎都是「合成時偷懶把 agent 輸出
+當成品」；回去重寫合成層，不要回去加搜尋量（加量只會生產更多待清理的材料）。
+
+##### 1.7.3 HARD GATE：`research-report-health.py` 🔬
 
 ```bash
 python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.md --tier=depth
@@ -1031,7 +1137,7 @@ python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.
 
 **讀取責任**：Stage 2 Write 開始前，grep `reports/research/` 看有無相關主題報告可 cross-reference。**Writer agent 讀整份 research report（§6 fact-pack ＋ §8 raw verbatim 全部）**——§6 只是 navigation aid，不是 writer 的唯一食物（v7.4 修正，per §多 agent 編排鐵律 2；本行原寫「只吃 §6」是 v6.3 殘留，2026-07-05 對齊）。
 
-#### Step 1.7 附：reports/ 頂層 ad-hoc report 命名 convention（2026-05-27 新增）
+##### Step 1.7 附：reports/ 頂層 ad-hoc report 命名 convention（2026-05-27 新增）
 
 > ⚠️ 本附則約束 **Stage 1 research report 以外** 寫到 `reports/*.md` 頂層的 ad-hoc 報告（design / plan / analysis / audit / evaluation / evolution / proposal / ops / semiont-analysis 等）。Stage 1 research report 維持 `reports/research/{YYYY-MM}/{article-slug}.md` 格式不變。
 >
@@ -1085,7 +1191,7 @@ python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.
 ✅ audit-routine-heartbeat-2026-04-11.md           # audit-routine 更明確
 ```
 
-### Step 1.8: Spawn agent 選型 🤖
+#### Step 1.8: Spawn agent 選型 🤖
 
 Stage 1 spawn 研究 agent 時，**必須先判斷需不需要直接落檔**：
 
@@ -1105,7 +1211,7 @@ Stage 1 spawn 研究 agent 時，**必須先判斷需不需要直接落檔**：
 - 2026-04-20 吳哲宇 EVOLVE 第一次 spawn Explore 要求寫檔、被退回、改 spawn general-purpose 成功
 - spawn 之前先確認 agent type，省一輪來回
 
-#### Step 1.8-bis: Async agent 時代的 raw 保全 SOP（v7.7，2026-07-05）⚠️
+##### Step 1.8-bis: Async agent 時代的 raw 保全 SOP（v7.7，2026-07-05）⚠️
 
 Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回「launched successfully + output_file 路徑」，真正的回報以 **task-notification `<result>`** 送達，output_file 指向 tasks/\*.output（→ subagent transcript symlink，隨 session 清理蒸發）。這改變了 raw 的存亡結構——**訊息通道與 tmp 都不可信任，唯一可信的是 repo 內的檔案**。
 
@@ -1124,7 +1230,7 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 
 **反例（附給 sub-agent prompt 用，anti-example beats rule）**：2026-07-05 柯智棠 EVOLVE——prompt 寫對了（「絕對不要自己摘要濃縮，raw 全留」）、4 隻 agent 全照做（各回 ~20KB 逐條軌跡，實測 224 次 web 操作），orchestrator 收到通知後卻把每份壓成 ~6KB 主題摘要存 scratchpad，report §8 剩 9 行。**斷點不在 agent、不在 prompt，在 orchestrator 收到之後的 30 秒**。
 
-#### Step 1.8-ter: 研究 sub-agent 輸出契約——來源逐條可溯（v7.10）📎
+##### Step 1.8-ter: 研究 sub-agent 輸出契約——來源逐條可溯（v7.10）📎
 
 > **觸發**：2026-07-12 台灣茶文化 panorama（哲宇 callout「footnote 會寫不精準」）——3 隻研究 agent 交叉驗證都真做了（24 搜尋＋17 PDF 直讀那種等級），但 84 條【來源】行只有 ~35% 帶 URL，其餘轉錄成「WebSearch 綜合（新浪博客／豆瓣／大紀元）」aggregate 標籤：**逐字引語活著、URL 蒸發**。無我茶會三個精確到「日」的日期全部斷源——寫進文章就是 unfootnotable claim。病根兩層：(1) Claude 改版後 WebSearch 回傳聚合摘要，agent 預設把「摘要」當「來源」；(2) 每個 session 即興寫 spawn prompt（該次用「三塊各一 section」自創格式），agent 輸出跟著漂移，五段骨架與儀器全對不上。**鐵律 9 是哲學，本 step 是可 copy-paste 的操作契約。**
 
@@ -1134,11 +1240,57 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 
 **為什麼 prompt 禁即興**：per [feedback_routine_prompt_contract]（prompt 禁複寫 SOP、pointer 到 canonical）＋本次實證——即興 prompt 寫了「每 finding 標【來源】URL」十個字，agent 在多來源場景自行發明了 aggregate 寫法；契約塊把「多來源怎麼寫」顯式化，儀器把它變可退件。
 
-### Step 1.9: 媒體素材研究 🎬
+---
+
+<!-- ==== source: REWRITE-STAGE-1B-MEDIA.md @ 70e08c91d ==== -->
+
+## Stage 1 contract — 取材 B（媒體素材＋persona 讀者缺口，Step 1.9）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1124-1355），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                   |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 深掃媒體（rendered-DOM＋官方頻道）、建三表授權矩陣、抓 transcript、20 persona 對研究報告補洞                      |
+| **執行者**       | 主 session（授權判斷 human）；persona 稽核 4 parallel Sonnet（契約在 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md)） |
+| **INPUTS**       | research report（Stage 1A 產物）；EDITORIAL §媒體編織/§圖片的證據層級                                             |
+| **OUTPUTS**      | research 檔 §媒體授權矩陣三表＋§讀者缺口稽核；`public/article-images/{cat}/` 圖檔；`{slug}-transcripts/`          |
+| **GATES**        | 深掃協議必跑才可下 no-media 結論（落 §6 negative finding）；增補後重跑 `research-report-health.py`                |
+| **context 預算** | 本檔＋research report；persona agent 只吃 PERSONA-PIPELINE 契約                                                   |
+
+### AGENT PROMPT
+
+- persona 讀者缺口稽核：4 Sonnet 契約唯一來源 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md)（mode=gap-audit）
+- 媒體深掃：主 session 自跑（Chrome MCP rendered-DOM；授權判斷永遠 human）；反方視角 agent prompt 在本檔 §Step 1.4.5 做法 A（含防呆三條）
+
+### 交付條件（stage 完成的定義）
+
+- [ ] 深掃協議跑過（no-media 結論必附 §6 negative finding）
+- [ ] research 檔末尾媒體授權矩陣三表齊
+- [ ] §讀者缺口稽核 落檔（20 persona 分類＋增補）
+- [ ] 增補後 `research-report-health.py` 重跑 exit 0
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-2A-PROJECTION.md
+
+---
+
+#### Step 1.9: 媒體素材研究 🎬
 
 > Stage 1 結尾必跑（除非 hub / 短修正）。蒐集媒體素材 + 授權檢查 + manifest 落 research 檔末尾。
 
-#### Step 1.9.0: 深度媒體掃描協議（HARD，v6.8）🔍🎬
+##### Step 1.9.0: 深度媒體掃描協議（HARD，v6.8）🔍🎬
 
 > **v6.8 新增（2026-06-07 哲宇 directive「媒體完整度低標提升」）**：媒體完整度是**素材挖掘深度問題，不是素材有無問題**。複雜生活節 worked example——同一個 niche 主題，`curl` / `WebFetch` 抓圖全 404 → 一度 text-only ship；改用 Chrome MCP 驅動瀏覽器讀 rendered DOM 後，9 圖 + 3 官方影片全挖出來。**「找不到媒體」這個結論在跑完本協議之前不成立。**
 
@@ -1154,7 +1306,7 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 
 **為什麼是 HARD**：text-only / media-poor ship 過去多半不是「真沒素材」，是深掃沒做（curl 失敗就放棄）。把深掃變必經 = 把媒體完整度的低標從「有沒有順手的 CC 圖」提到「有沒有挖到該有的素材」。儀器化在 `image-health`（length-scaled hard，見 §Hard Gate Inventory）+ `media-richness`（≥1 官方影片 WARN for People/Music/Nature）+ `paragraph-rhythm`（density floor 0.8）三個 plugin；但工具只擋「數量不足」，**深掃這個動作本身是 SOP HARD 步驟**。
 
-#### Step 1.9.1: inline 外連 manifest（YouTube／影像／音檔）
+##### Step 1.9.1: inline 外連 manifest（YouTube／影像／音檔）
 
 **觸發條件**：任何題材敘事中提到**有公開影像／音檔／影片**的具體作品：
 
@@ -1174,11 +1326,11 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 
 **跟 footnote 的分工**：inline 外連走「邊讀邊聽／邊讀邊看」的閱讀體驗；footnote 走「來源驗證 + 補充資料」。同一首歌的官方 MV 可以同時放 footnote（給研究者）+ 文中第一次提及加 inline link（給讀者）。
 
-**跟 Step 4.3.6 iframe embed 的分工**（2026-05-17 新增）：Music / People 條目可以**升級** inline link 到 iframe embed，提高閱讀的多重感受。判準：3-5 首代表作 → iframe（直接內嵌、視覺呼吸），其餘提及作品 → inline link。同篇可並存。詳見 [Step 4.3.6 影片 iframe 嵌入](#step-436-影片-iframe-嵌入music--people--nature-條目升級)。
+**跟 Step 4.3.6 iframe embed 的分工**（2026-05-17 新增）：Music / People 條目可以**升級** inline link 到 iframe embed，提高閱讀的多重感受。判準：3-5 首代表作 → iframe（直接內嵌、視覺呼吸），其餘提及作品 → inline link。同篇可並存。詳見 [Step 4.3.6 影片 iframe 嵌入](REWRITE-STAGE-4-FORMAT.md#step-437-影片-iframe-嵌入music--people--nature-條目升級)。
 
 **強制動作**：研究 agent 額外蒐集「文章預期會提到的所有公開作品」的官方連結，列入研究筆記獨立一節 §inline 外連 manifest。找不到官方版本 → 標 `[no official URL found]`，**Stage 2 寫作時不附 link 也不掰連結**。
 
-#### Step 1.9.2: 圖片素材（hero + inline 圖）+ 授權矩陣
+##### Step 1.9.2: 圖片素材（hero + inline 圖）+ 授權矩陣
 
 **🥇 選圖第一問：證據層級（2026-06-04 設研院 session 新增）** — 在挑授權之前先挑「這張圖讓讀者看到主角嗎」。Tier A 主體成果圖（改造後成果／作品本身／當事人在做那件事）> Tier B 脈絡圖 > Tier C generic 填位圖。**機構／設計／產品／作品／工程／事件題材，Tier A 成果圖優先；Tier A 找不到 CC 授權就走下方來源優先序第 8 點 fair use editorial commentary，不要退用 generic CC 填位圖**（授權便利不凌駕證據強度）。caption 一旦得寫「示意／非當事／非改造後」= Tier C 警訊，回頭找 Tier A。完整證據層級表 + source 技巧 canonical 在 [EDITORIAL §媒體編織 §圖片的證據層級](../editorial/EDITORIAL.md)。
 
@@ -1226,15 +1378,15 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 **🔧 影像後處理 SSOT — `image-ingest.mjs`**（2026-06-13 儀器化，REFLEXES #15 + #30）：下載 / magic-byte 格式驗 / EXIF 清除 / 縮放上限 / **WebP 轉檔** / size budget 壓縮 / 命名規範 / aspect 護欄 / attribution stub 一條龍，取代手跑 curl + sips。sharp-based（Astro 已帶，cross-platform）。
 
 ```bash
-# ingest 一張（下載→驗→清 EXIF→縮放→轉 WebP→壓到 budget→命名→cache→印 md/§圖片來源/授權矩陣 row）
+## ingest 一張（下載→驗→清 EXIF→縮放→轉 WebP→壓到 budget→命名→cache→印 md/§圖片來源/授權矩陣 row）
 node scripts/tools/image-ingest.mjs ingest --src <URL|path> --cat <Category> \
   --name <subject>-<topic>-<year> --role hero|inline [--format webp|jpg|png] \
   --alt "具體 alt" --credit "..." --license "..." --source-url "https://commons.wikimedia.org/wiki/File:..."
 
-# check 檢驗 gate（格式白名單 / aspect / size budget / EXIF 殘留）— pre-commit / CI 可掛
+## check 檢驗 gate（格式白名單 / aspect / size budget / EXIF 殘留）— pre-commit / CI 可掛
 node scripts/tools/image-ingest.mjs check public/article-images/{cat}/<name>.webp --role hero
 
-# audit 全站體檢（格式分佈 / 超標 / EXIF 洩漏 / WebP 遷移面）
+## audit 全站體檢（格式分佈 / 超標 / EXIF 洩漏 / WebP 遷移面）
 node scripts/tools/image-ingest.mjs audit [--cat <Category>]
 ```
 
@@ -1274,7 +1426,7 @@ public/article-images/history/twenty-eight-incident-monument-2025.jpg
 
 強制檢查：`image-ingest ingest` 入庫時自動報 aspect（亦可 `image-ingest check <file> --role hero` 或舊 `check-aspect.sh` 單跑）。Hero aspect 必過 0.9 ≤ ratio ≤ 2.0；inline 必過 0.75 ≤ ratio ≤ 2.5。不過 → **換圖**（不要強塞，tool 不自動裁切，裁切是編輯判斷）。
 
-#### Step 1.9.3: transcript 素材
+##### Step 1.9.3: transcript 素材
 
 | 來源類型                            | 處理方式                                                                                                                         |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -1285,43 +1437,43 @@ public/article-images/history/twenty-eight-incident-monument-2025.jpg
 **工具（2026-06-27 儀器化，REFLEXES #15 + §造橋）— `scripts/tools/yt-transcript.py`**：給 YouTube URL → yt-dlp 抓字幕 → 清成**連續逐字稿 + 每 ~60s 一個 `[MM:SS]` 錨點**（腳註可精確標時間，如「塞掐 E350 @ 12:34」）→ `.vtt`（raw 永留證據鏈）+ `.txt`（可讀版）落 `reports/research/YYYY-MM/{slug}-transcripts/`。取代手跑 yt-dlp + 臨時清時間戳/dedup。
 
 ```bash
-# 一支或多支訪談抓進文章研究資料夾（預設 zh-TW,en；--month 預設今月）
+## 一支或多支訪談抓進文章研究資料夾（預設 zh-TW,en；--month 預設今月）
 python3 scripts/tools/yt-transcript.py fetch <URL> [<URL> ...] --slug {article-slug}
-# 已手抓好的 vtt 單清
+## 已手抓好的 vtt 單清
 python3 scripts/tools/yt-transcript.py clean path/to/file.vtt -o out.txt
 ```
 
 > ⚠️ **auto-caption 專名誤植鐵律**：自動字幕對人名／論文／機構／數字常誤植（紀懷新 case：季懷新→紀懷新、Danny→Denny Zhou、Information Forging→Foraging、Daniel Cunningham→Kahneman）。**逐字稿是線索不是定本，引用前每個專名對權威源校正**，別逐字照抄（[MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md) + [§挖引語紅線](../editorial/EDITORIAL.md#挖引語制度)）。底層仍是 yt-dlp（`brew install yt-dlp`）。
 
-#### Step 1.9.4: 媒體授權矩陣三表（research 檔強制）
+##### Step 1.9.4: 媒體授權矩陣三表（research 檔強制）
 
 每篇 depth article 的 research 檔末尾 append：
 
 ```markdown
-## 媒體授權矩陣
+### 媒體授權矩陣
 
-### inline 外連（YouTube／影像／音檔）
+#### inline 外連（YouTube／影像／音檔）
 
 | 作品      | 第一次提及位置                              | URL                                         | 來源頻道          | 授權             |
 | --------- | ------------------------------------------- | ------------------------------------------- | ----------------- | ---------------- |
 | 〈Cazzo〉 | L346「2019 年 6 月 28 日，她以『?te』之名」 | https://www.youtube.com/watch?v=CM-6FJlYHI4 | 華風數位 official | YouTube standard |
 
-### 圖片素材
+#### 圖片素材
 
 | 媒體檔                | 用途 | 來源 URL                                                                    | 授權                 | 攝影者/作者        | 拍攝日期   | NASA Image ID / Commons File             | 本地 cache 路徑                               | alt text                                  |
 | --------------------- | ---- | --------------------------------------------------------------------------- | -------------------- | ------------------ | ---------- | ---------------------------------------- | --------------------------------------------- | ----------------------------------------- |
 | lindgren-emu-2014.jpg | hero | https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg | Public domain (NASA) | NASA/Bill Stafford | 2014-08-27 | File:Kjell*Lindgren_in_EMU*(cropped).jpg | /article-images/people/lindgren-emu-2014.webp | 林琪兒 2014 年穿艙外活動服（EMU）官方人像 |
 
-### 引用 transcript
+#### 引用 transcript
 
 | Transcript     | 來源                   | URL                                         | 落檔路徑                                                      |
 | -------------- | ---------------------- | ------------------------------------------- | ------------------------------------------------------------- |
 | 公視訪談 zh-TW | 公視新聞網 official YT | https://www.youtube.com/watch?v=f9DQuQ8EwVE | reports/research/2026-04/林琪兒-transcripts/transcript-zh.txt |
 ```
 
-#### Step 1.9.7: persona 讀者缺口稽核 + 增補（v7.7 新增，persona 從 Stage 0 搬來）🫂
+##### Step 1.9.7: persona 讀者缺口稽核 + 增補（v7.7 新增，persona 從 Stage 0 搬來）🫂
 
-> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點從 Stage 0（[原 0.6.1-bis](#step-061-bis-persona-已移到研究後v77--見-step-197)）搬到這裡——研究報告 SSOT 組完之後、Stage 2 寫作之前。角色從「發散定調」改成「**讀者缺口稽核 + 增補**」。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
+> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點從 Stage 0（[原 0.6.1-bis](REWRITE-STAGE-0-VIEWPOINT.md#step-061-bis-persona-已移到研究後v77--見-step-197)）搬到這裡——研究報告 SSOT 組完之後、Stage 2 寫作之前。角色從「發散定調」改成「**讀者缺口稽核 + 增補**」。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
 
 **觸發**：所有 depth article（Micro / heal / 純翻譯不跑）。前提：Step 1.7 研究報告 §6 fact-pack 已組好、Step 0 立體觀點已成形。
 
@@ -1338,10 +1490,11 @@ call PERSONA-PIPELINE:
 
 **輸出處理（三分類 + 一個閥門）**：
 
-1. 🆕 **真缺口** → 起 targeted 增補搜尋（補這個 facet 的事實/場景/引語），把 finding 加進 report §3/§6。**增補後 report 變了，Step 1.9.5 收尾前重跑 [research-report-health gate](#step-17-研究報告--ssot對標研究所論文標準-)。**
+1. 🆕 **真缺口** → 起 targeted 增補搜尋（補這個 facet 的事實/場景/引語），把 finding 加進 report §3/§6。**增補後 report 變了，Step 1.9.5 收尾前重跑 [research-report-health gate](REWRITE-STAGE-1A-RESEARCH.md#step-17-研究報告--ssot對標研究所論文標準-)。**
 2. ✅ **已 cover** → 記錄不重複。
 3. ⛔ **超 scope** → 落 `rationale.whats_excluded`。
-4. 🔴 **反向閥門（立體 ≠ 迴避的自我糾正）**：如果 persona（尤其 D 軸挑硬傷/反方）揪出「這篇立體群像其實洗掉了一個真該被尖銳處理的公共爭議」→ 回 [Step 0.1.5](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 重判：要不要把那個爭議升成一個 substantial facet，或（罕見）解鎖矛盾驅動主脊。**這條讓立體 default 不變擋箭牌。**
+4. 🔴 **反向閥門（立體 ≠ 迴避的自我糾正）**：如果 persona（尤其 D 軸挑硬傷/反方）揪出「這篇立體群像其實洗掉了一個真該被尖銳處理的公共爭議」→ 回 [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 重判，**三個合法目的地**（v7.8 從兩個擴為三個）：(i) 把那個爭議升成一個 substantial facet；(ii) **改判第三型「多觀點立場議題探討矛盾型」**——若該題是進行中的公共議題且多方都有正當立場，這通常是正解；(iii)（罕見）解鎖單軸矛盾驅動主脊。**這條讓立體 default 不變擋箭牌。**
+   ⚠️ **為什麼要明列第三個目的地**（2026-07-25 外送專法）：該篇三軸反向閥門都命中，但 Step 0.1.5 的兜底是「拿不準 → 立體群像」，**偵測成功卻沒有轉成重判**，最後是觀察者一句話補上那個目的地。偵測機制有了、目的地沒寫，等於沒接上。
 
 **為什麼放這裡而不是 Stage 0**：冷讀者天生問尖銳問題，放搜尋之前 → 尖角變研究方向 → 脊椎被推向矛盾驅動（施振榮 v1 教訓）。放研究後，同一句尖問變「要不要補一個 facet」而非「整篇該不該講這個」——從定調變補洞，且剛好接住 persona 誕生的 use case（《看不見的國家》ship 後哲宇追問三題＝完成度缺口，正該 ship 前被稽核接住）。
 
@@ -1349,7 +1502,7 @@ call PERSONA-PIPELINE:
 
 **落檔**：research report §讀者缺口稽核（20 persona × 分類 + 增補了什麼 + 反向閥門判斷）。
 
-#### Step 1.9.5: Stage 1 收尾 checklist
+##### Step 1.9.5: Stage 1 收尾 checklist
 
 Stage 1 結束時 deliverable：
 
@@ -1366,29 +1519,59 @@ Stage 1 結束時 deliverable：
 
 ---
 
-## Stage 2: 寫（預算 40-45%）
+---
 
-> **v6.3 預設**：depth EVOLVE / Fresh 的 Stage 2 **派 fresh Opus sub-agent 寫**（context 隔離，見 [§多 agent 編排](#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。主 session 只把 clean fact-pack ＋ 觀點 ＋ EDITORIAL 交給 writer，不轉貼舊文 prose。Micro / 短修正才主 session 自寫。
+<!-- ==== source: REWRITE-STAGE-2A-PROJECTION.md @ 5b2ef8b4d ==== -->
 
-**必讀**：`cat docs/editorial/EDITORIAL.md`（全文，1000+ 行，**不可截斷**）
+## Stage 2.0 contract — 投影藍圖（研究 → 論點＋骨架）
 
-> ⚠️ **歷史教訓（session δ 2026-04-05）**：之前這裡寫 `head -300`，切掉了 Line 380-479 的 Before/After 範例段落。AI 讀到規則卻沒讀到範例，寫作時退化為編年史。
->
-> 不要用 `head` / `tail` 截斷「必讀」指令。完讀後必須回頭檢查四個段落：§挖引語制度、§小標題規範、§結尾的四種模式、§Before/After 實例對比。
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1370-1388 + L1414-1426），歷史敘事與教訓保留在文內。
 
-**輸入**：Stage 1 研究筆記 + EDITORIAL.md。
+### 執行卡
 
-**視覺化必讀**（含資料 / 對比 / 時序的文章）：`cat docs/editorial/graph.md`（型錄 + 模組語法 + AI 可讀性 + 檢查清單）。
+|                  |                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **職責**         | 讀整份研究報告，產投影藍圖（論點＋骨架＋每 section 雙重職責＋減法＋echo map＋視覺化候選）                                |
+| **執行者**       | 主 session（Opus orchestrator）親自做，**不派給寫手**                                                                    |
+| **INPUTS**       | 合成後 research report 全份；[PROJECTION.md](../editorial/PROJECTION.md) 全文（craft canonical）；graph.md（視覺化型錄） |
+| **OUTPUTS**      | `reports/article-projection/{slug}.md`（frontmatter `projection_done: true`）                                            |
+| **GATES**        | PROJECTION §gate 5 題（論點非摘要/骨架 shuffle/全局功能/減法非空/echo 覆蓋）；depth 題續走 2.0-R 編輯室外部尺            |
+| **context 預算** | 本檔＋PROJECTION.md＋research report                                                                                     |
 
-### Step 2.0: 投影藍圖（v8.0 新增）📐 —— 研究 → 投影邏輯 → 文章 (HARD GATE)
+### AGENT PROMPT
+
+**不派 agent**——投影是最高判斷，主 session（Opus orchestrator）讀整份 research report 親自做。craft canonical：[PROJECTION.md](../editorial/PROJECTION.md)（寫前完整讀）。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] `reports/article-projection/{slug}.md` 存在，frontmatter：`article`＋`researchReport`＋`spine_type`＋`projection_done: true`
+- [ ] 六節齊：論點／骨架／每 section 雙重職責／減法／echo map／審定
+- [ ] PROJECTION §gate 5 題自檢過（作者自檢；外部尺在 2B）
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-2B-ROOM-PROJECTION.md（投影編輯室，depth HARD）
+
+---
+
+#### Step 2.0: 投影藍圖（v8.0 新增）📐 —— 研究 → 投影邏輯 → 文章 (HARD GATE)
 
 > **canonical [PROJECTION.md](../editorial/PROJECTION.md)（寫本步前完整讀）。** 誕生：2026-07-13 哲宇跟陳睨聊後 callout「每個 section 單獨看都完整、接起來卻沒有一個更大的敘事 / 論點 / 意圖」。Stage 0 給**角度**、投影給**建築**、Stage 2 prose 給**句子**——以前從角度直接跳句子，中間沒人設計「這篇到底怎麼長成一個論證」，寫手拿面向清單一段寫一個面向 → 面向巡禮、加法不是乘法、整篇空泛。
 
-**誰做**：主 session（Opus orchestrator），研究合成單檔（[Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）之後、派寫手之前。**不派給寫手**——寫手拿到的是已經想清楚的藍圖，執行結構不發明結構。
+**誰做**：主 session（Opus orchestrator），研究合成單檔（[Step 1.7.4](REWRITE-STAGE-1A-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）之後、派寫手之前。**不派給寫手**——寫手拿到的是已經想清楚的藍圖，執行結構不發明結構。
 
 **產物**：`reports/article-projection/{slug}.md`（模板見 [PROJECTION.md §四](../editorial/PROJECTION.md)），六件事：
 
-1. **論點**：一句話，有張力、要被賺到，非摘要（判準：讀者能不同意，或文章非證明不可）。論點型別跟 spine 綁定——矛盾驅動用辯論式主張，立體群像用有推進的統合洞見（**立體 ≠ 沒論點**，per [Step 0.1.5](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) + [REFLEXES #77](../semiont/REFLEXES.md)；投影對所有題要求推進，只對爭議題要求對立）。
+1. **論點**：一句話，有張力、要被賺到，非摘要（判準：讀者能不同意，或文章非證明不可）。論點型別跟 spine 綁定——矛盾驅動用辯論式主張，立體群像用有推進的統合洞見（**立體 ≠ 沒論點**，per [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布) + [REFLEXES #77](../semiont/REFLEXES.md)；投影對所有題要求推進，只對爭議題要求對立）。
 2. **骨架**：動作序列（動詞不是名詞），過 **shuffle test**（section 順序打亂會讀不通，第 N 步預設第 N-1 步）。
 3. **每 section 雙重職責**：局部承載 + **全局功能（替論點做什麼）** + 扣回主軸 + 進出連結。全局功能只有「介紹某面向」= 目錄條目 → 給功能或砍。
 4. **減法**：明列砍掉什麼材料、為什麼（投影是選擇 + 連結，不是鋪滿；根治密度失衡）。
@@ -1399,7 +1582,85 @@ Stage 1 結束時 deliverable：
 
 > worked example：[reports/article-projection/Shopping-Design.md](../../reports/article-projection/Shopping-Design.md)（before＝可 shuffle 的面向巡禮，after＝五步論證，中間三面向壓成「機制放大」一步）。**Evolution 模式照樣先投影**——EVOLVE 最容易踩面向巡禮（研究更多、更想鋪滿）。
 
-### Step 2.0-R: 投影編輯室（v8.1）🏛️ — 編輯室對抗 (HARD depth)
+#### Step 2.0.5: 視覺化思考（v6.8 新增，v8.0 併入投影審定動作 6）💭📊
+
+借 The Pudding「問題先於資料」：寫之前掃過 fact-pack，問三題（**不是強制加圖**——沒有適合的資料就誠實不加，記 research report）：
+
+1. 這篇有哪些「**資料關係**」密集到讓 prose 變數字堆疊？**逐類掃過下面十五類**，不是憑印象想到哪算哪：
+
+   | 資料關係               | 對應模組                    | 資料關係                 | 對應模組                               |
+   | ---------------------- | --------------------------- | ------------------------ | -------------------------------------- |
+   | 比較（誰跟誰不一樣）   | `tw-bars` / `tw-versus`     | **量級人性化**（大數字） | `tw-iso` / `tw-figure`                 |
+   | 排名（誰第幾）         | `tw-bars` 排序 / `tw-dot`   | 流向（怎麼轉換）         | 暫無，退 `tw-stack`／表                |
+   | 變異分歧（偏離基準）   | `tw-bars` 負值 / `tw-stack` | **地理（縣市分布）**     | `tw-tiles`                             |
+   | **部分對全體（跨列）** | `tw-stack`                  | **席次組成（議會）**     | `tw-arc`                               |
+   | 部分對全體（單一總體） | `tw-waffle`                 | **多組同型趨勢**         | `tw-multiples`                         |
+   | **分布（背對背）**     | `tw-pyramid` / `tw-dot`     | 階層網絡                 | 少用，退 prose                         |
+   | 相關（兩變數）         | `tw-heatmap`                | 單一關鍵數字             | `tw-figure` / `tw-stat`                |
+   | 趨勢時間               | `tw-line` / `tw-slope`      | 質性標註                 | `tw-quote` / `tw-timeline` / `tw-note` |
+
+   **粗體那六類是 2026-08-02 量到零真實使用的模組**——不是它們沒用，是本題舊版只列了八類，這六類從來沒被提案過（設計報告 [design-viz-adoption-2026-08-02](../../reports/design-viz-adoption-2026-08-02.md) §2.3a：漏斗開口比管子窄，後段永遠是乾的）。**選舉題先問席次跟縣市、人口題先問背對背、跨縣市指標先問磚圖。**
+
+2. 每個密集點，[graph.md §型錄](../editorial/graph.md) 哪個 `tw-*` 模組最適合？（**一圖一重點**：一個關係一張圖）。從題材反查現成寫法 → [VIZ-RECIPES.md](../editorial/VIZ-RECIPES.md)（台灣題材 → 可整塊複製的 starter）。
+3. 這張圖的 **annotation** 要寫什麼「為什麼重要」？（不是裝飾，是策展觀點）
+
+產出：在 research report §觀點成型 或 fact-pack 標「視覺化候選清單」（哪段 → 哪個 `tw-*` → 想講的重點 → 來源）。Writer agent 吃這份清單，把密集數字段升級成模組（語法見 graph.md §四）。
+
+> **指標**（viz 不是越多越好，避免 chartjunk）：depth 文至少**評估過** 1 個候選（可記「評估後不加 + 理由」）；資料圖表模組 100% 標來源（`viz-health` gate）；viz 密度跟 media band 共管（`paragraph-rhythm`）。**「讓 LLM 讀得懂的視覺化 = 主權的視覺化」**——禁圖片型/D3/Canvas viz、禁「如上圖」AI-blind 指示語。
+> **設計脈絡**：[reports/article-visualization-design-2026-06-06.md](../../reports/article-visualization-design-2026-06-06.md)。
+
+---
+
+<!-- ==== source: REWRITE-STAGE-2B-ROOM-PROJECTION.md @ 70e08c91d ==== -->
+
+## Stage 2B contract — 投影編輯室（Step 2.0-R，乾淨 context 分席對抗）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1389-1413 + L1474-1486），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 投影後（2.0-R：結構/減法/炎上三席）與正文後（2.5-R：結構主編/論點兌現二席）乾淨 context 分席審，主編合成裁決                                  |
+| **執行者**       | seats ＝ parallel Sonnet sub-agent（prompt 一律 [EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) 填槽，禁即興）；**主編永遠主 session** |
+| **INPUTS**       | 2.0-R：投影藍圖＋research report（唯讀）；2.5-R：投影藍圖＋staging 正文。**禁止輸入**：舊文全文/寫作閒聊 context                              |
+| **OUTPUTS**      | `reports/editorial-room/{slug}-projection-review.md` / `{slug}-prose-structure-review.md`（frontmatter room/seats/overall/rounds）            |
+| **GATES**        | `python3 scripts/tools/editorial-room-health.py {review}`；overall=block → 回修（最多 2 輪全席，第 3 輪升級觀察者）；必改 ≤7                  |
+| **context 預算** | 各席只吃填槽 prompt＋審查對象；主編收件合成                                                                                                   |
+
+### 攻防輪（v1.1）
+
+任一席 revise／block → 寫方答辯一輪（accept／defend，prompt 見
+[EDITORIAL-ROOM-PROMPTS §攻防輪](EDITORIAL-ROOM-PROMPTS.md)），主編看攻防後才最終裁決；
+review 檔加 `## 攻防` 段（challenge／defense／ruling 三欄——公開視覺化的爭議過程素材）。
+規則 canonical：[EDITORIAL-ROOM §攻防輪](../editorial/EDITORIAL-ROOM.md)。
+
+### AGENT PROMPT
+
+三席 prompt 唯一來源：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §投影室（結構主編／減法主編／炎上倫理）＋§攻防輪。填槽派發，禁即興。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] `reports/editorial-room/{slug}-projection-review.md` 落檔（room: projection，含各席 verdict＋必改 ≤7＋攻防段）
+- [ ] `editorial-room-health.py {review}` exit 0
+- [ ] overall=pass（block → 回修投影最多 2 輪，第 3 輪升級觀察者）
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：pass → REWRITE-STAGE-2C-WRITE.md；block → 回修投影（最多 2 輪）
+
+---
+
+#### Step 2.0-R: 投影編輯室（v8.1）🏛️ — 編輯室對抗 (HARD depth)
 
 > **canonical [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md) + [EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md)。**  
 > 誕生：2026-07-15 哲宇「用 subagent 做編輯室對抗是結構」+ 陳睨「編輯台蓋回來／主編這隻手」；投影 5 題是作者自檢，編輯室是**乾淨 context 外部尺**。
@@ -1424,24 +1685,85 @@ Stage 1 結束時 deliverable：
 
 **Dogfood**：[reports/editorial-room/Shopping-Design-projection-review.md](../../reports/editorial-room/Shopping-Design-projection-review.md)（2026-07-15）。
 
-### Step 2.0.5: 視覺化思考（v6.8 新增，v8.0 併入投影審定動作 6）💭📊
+---
 
-借 The Pudding「問題先於資料」：寫之前掃過 fact-pack，問三題（**不是強制加圖**——沒有適合的資料就誠實不加，記 research report）：
+<!-- ==== source: REWRITE-STAGE-2C-WRITE.md @ 36d5c8e32 ==== -->
 
-1. 這篇有哪些「**資料關係**」（比較 / 排名 / 比例 / 分布 / 趨勢 / 流向 / 單一大數字 / 質性對比）密集到讓 prose 變數字堆疊？
-2. 每個密集點，[graph.md §型錄](../editorial/graph.md) 哪個 `tw-*` 模組最適合？（**一圖一重點**：一個關係一張圖）
-3. 這張圖的 **annotation** 要寫什麼「為什麼重要」？（不是裝飾，是策展觀點）
+## Stage 2 contract — 寫（fresh writer 照藍圖執行）
 
-產出：在 research report §觀點成型 或 fact-pack 標「視覺化候選清單」（哪段 → 哪個 `tw-*` → 想講的重點 → 來源）。Writer agent 吃這份清單，把密集數字段升級成模組（語法見 graph.md §四）。
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1356-1369 + L1427-1473 + L1487-1665），歷史敘事與教訓保留在文內。
 
-> **指標**（viz 不是越多越好，避免 chartjunk）：depth 文至少**評估過** 1 個候選（可記「評估後不加 + 理由」）；資料圖表模組 100% 標來源（`viz-health` gate）；viz 密度跟 media band 共管（`paragraph-rhythm`）。**「讓 LLM 讀得懂的視覺化 = 主權的視覺化」**——禁圖片型/D3/Canvas viz、禁「如上圖」AI-blind 指示語。
-> **設計脈絡**：[reports/article-visualization-design-2026-06-06.md](../../reports/article-visualization-design-2026-06-06.md)。
+### 執行卡
 
-### Step 2.1: 載入 EDITORIAL.md
+|                  |                                                                                                                                                           |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 照投影藍圖執行正文（不重排結構）：結尾先行 → 開場 → 小標題 → 正文＋footnote → 7 條自檢 → 富文本密度                                                       |
+| **執行者**       | 1 個 fresh Opus writer sub-agent（prompt 一律 [WRITER-PROMPT.md](WRITER-PROMPT.md) 填槽，禁即興）；Micro/短修正主 session 自跑                            |
+| **INPUTS**       | writer 必須完整 Read：research report 全份（§6＋§8 raw）＋投影藍圖＋EDITORIAL.md 全文＋graph.md。**隔離**：舊文 prose / callout                           |
+| **OUTPUTS**      | Evolution：`reports/article-evolve/{slug}.md`（staging，禁 overwrite canonical）；Fresh：`knowledge/{Cat}/{slug}.md`                                      |
+| **GATES**        | Stage 2 hard gates 10 條（文內）；`article-health.py --check=prose-health` / `--check=chronicle-lead`；Evolution 覆蓋權在主 session（2.5 比對後親手覆蓋） |
+| **context 預算** | writer＝本檔執行段＋WRITER-PROMPT 宣告的必讀四 canonical＋research report                                                                                 |
+
+### Staging 檔 frontmatter（v9.0 新增，狀態歸戶顯式化）
+
+Evolution mode 的 staging 檔 `reports/article-evolve/{slug}.md` 開頭必帶：
+
+```yaml
+---
+article: knowledge/{Cat}/{canonical-slug}.md # 顯式指標；staging slug 可以 ≠ canonical slug
+researchReport: reports/research/{YYYY-MM}/{slug}.md
+date: YYYY-MM-DD
+---
+```
+
+為什麼：編輯台（generate-newsroom-data.py）與任何 verifier 依顯式指標歸戶，不猜檔名
+（2026-07-12 Sol strict verifier 假陰性教訓）。
+
+### AGENT PROMPT
+
+writer prompt 唯一來源：[WRITER-PROMPT.md](WRITER-PROMPT.md)（v2.0 薄殼：必讀四 canonical＋read-receipt＋機械輸出契約＋anti-example）。填槽派發，禁即興。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] Evolution：`reports/article-evolve/{slug}.md` staging 落檔（frontmatter 帶 `article:` 顯式指標）；Fresh：`knowledge/{Cat}/{slug}.md`
+- [ ] Stage 2 hard gates 10 條全過（本檔 §Stage 2 Hard gates）
+- [ ] `article-health.py --check=prose-health` ＋ `--check=chronicle-lead` 無 hard
+- [ ] writer read-receipt 驗過（research report §6＋§8／投影藍圖／EDITORIAL 全讀）
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-2D-SOURCE-FIDELITY.md（觸發面內）→ REWRITE-STAGE-2E-ROOM-PROSE.md
+
+---
+
+### Stage 2: 寫（預算 40-45%）
+
+> **v6.3 預設**：depth EVOLVE / Fresh 的 Stage 2 **派 fresh Opus sub-agent 寫**（context 隔離，見 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。主 session 只把 clean fact-pack ＋ 觀點 ＋ EDITORIAL 交給 writer，不轉貼舊文 prose。Micro / 短修正才主 session 自寫。
+
+**必讀**：`cat docs/editorial/EDITORIAL.md`（全文，1000+ 行，**不可截斷**）
+
+> ⚠️ **歷史教訓（session δ 2026-04-05）**：之前這裡寫 `head -300`，切掉了 Line 380-479 的 Before/After 範例段落。AI 讀到規則卻沒讀到範例，寫作時退化為編年史。
+>
+> 不要用 `head` / `tail` 截斷「必讀」指令。完讀後必須回頭檢查四個段落：§挖引語制度、§小標題規範、§結尾的四種模式、§Before/After 實例對比。
+
+**輸入**：Stage 1 研究筆記 + EDITORIAL.md。
+
+**視覺化必讀**（含資料 / 對比 / 時序的文章）：`cat docs/editorial/graph.md`（型錄 + 模組語法 + AI 可讀性 + 檢查清單）。
+
+#### Step 2.1: 載入 EDITORIAL.md
 
 讀全文，特別注意 §來源引用、**§小標題規範**、§敘事呼吸感、§Title 強制冒號三明治（v6.3 全 category）。
 
-### Step 2.2: 結尾先行（3-5 行）← 最重要
+#### Step 2.2: 結尾先行（3-5 行）← 最重要
 
 **結尾先行**是 Stage 2 防崩潰的核心：
 
@@ -1449,13 +1771,13 @@ Stage 1 結束時 deliverable：
 - 範本見 [EDITORIAL §結尾的四種模式](../editorial/EDITORIAL.md)
 - 用 Stage 1 Step 1.2 鎖定的結尾素材
 
-### Step 2.3: 開場 + 30 秒概覽
+#### Step 2.3: 開場 + 30 秒概覽
 
 開場前三句必須有：具體事實 + 具體的人 + 具體的時刻。
 
 30 秒概覽（blockquote 格式 `> **30 秒概覽：**`）放在 H1 之後、第一個 H2 之前。
 
-### Step 2.4: 小標題先行（hard 規則）— 段落 H2，不是 description 副標
+#### Step 2.4: 小標題先行（hard 規則）— 段落 H2，不是 description 副標
 
 **列出全文 5-8 個小標題 BEFORE 寫正文**。完整機制：[EDITORIAL §小標題](../editorial/EDITORIAL.md)（主–述–賓還原、載體、與投影全局功能分層、報導者式取景）。
 
@@ -1476,7 +1798,7 @@ Stage 1 結束時 deliverable：
 
 > **plugin gate**：`chronicle-lead` 抓年份編年 H2。抽象／無載體小標目前靠人判 + 編輯室結構席（尚無獨立 plugin）。
 
-### Step 2.5: 寫正文 + footnote
+#### Step 2.5: 寫正文 + footnote
 
 **不按百科排列**。EDITORIAL §正文架構推薦：**起源 / 關鍵轉折 2-3 個 / 現況 / 爭議 / 意義**。
 
@@ -1484,20 +1806,7 @@ Stage 1 結束時 deliverable：
 - **不是一段寫一張專輯** — 是一段寫一個**論點**或**轉折**，事實散布在論點之中
 - **照投影藍圖執行**，不重排成面向巡禮（寫手 read-receipt 已複述全局功能）
 
-### Step 2.5-R: 正文結構編輯室（v8.1）🏛️
-
-> **canonical [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md)。** 與 [Step 3.6 成品總驗](#step-36-成品總驗三關assembled-product-verification--a-級大眾文-hard-) **分工**：本步查「有沒有執行藍圖／論點有沒有中段兌現」；3.6 查事實 atom／順稿／視覺。
-
-**誰做**：2 parallel seats（正文結構主編 + 論點兌現）+ 主編合成。可與 3.6 fan-out **同 round 平行**。
-
-**輸入**：投影藍圖 + staging／canonical 正文。  
-**產物**：`reports/editorial-room/{slug}-prose-structure-review.md`  
-**儀器**：`editorial-room-health.py`  
-**Gate**：block/revise → 回修正文；pass → 進 Stage 3 其餘／與 3.6 合併主編清單後 ship。
-
-**Dogfood**：[reports/editorial-room/Shopping-Design-prose-structure-review.md](../../reports/editorial-room/Shopping-Design-prose-structure-review.md)。
-
-#### 文末寫 footnote 定義
+##### 文末寫 footnote 定義
 
 **腳註格式 canonical 在 [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)**。簡寫範例：
 
@@ -1507,7 +1816,7 @@ Stage 1 結束時 deliverable：
 
 完整格式 + 對比範例 + 「不要寫『同上』」規則 → [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)。
 
-### Step 2.6: 延伸閱讀
+#### Step 2.6: 延伸閱讀
 
 - 讀取 `knowledge/` 目錄，找出相關文章
 - 每篇加「一兩句話描述」說明與本文的關係
@@ -1524,18 +1833,19 @@ Stage 1 結束時 deliverable：
 - [二二八事件](/history/二二八事件) — 戰後台灣的重大歷史轉折
 ```
 
-### Step 2.7: 7 條自檢套件（強制鐵律）
+#### Step 2.7: 7 條自檢套件（強制鐵律）
 
 寫完 prose 後**強制**跑這 7 條自檢。任何一條不過 = 回去修。
 
-#### Step 2.7.1: 歐化語法自檢
+##### Step 2.7.1: 歐化語法自檢
 
 念出來，聽到翻譯腔就改：
 
 - 重點掃：被動句（「被認為」）、「的」連鎖（≥ 3）、弱動詞（「進行」「透過」）
-- 詳見 [EDITORIAL.md §歐化語法偵測](../editorial/EDITORIAL.md)
+- **英式短句開場（第 9 病，2026-08-19 起嚴格執行）**：逐段看段首那一句——它是在陳述判斷或狀態（是／有／叫／可以／一直／也）而不是寫一個動作、底下幾句在展開它、接進下一句會更像人在講話 → 三個都是就改。工具只抓骨架（`prose-health` §8e v3），**冒號引子、日期場景句、刻意當節拍的孤句不算**，這三類是人判。同一篇哲宇同日點兩次才學到：第一輪用工具的尺順過就算完，第二輪他的耳朵抓到 15 處工具只報 0——**寫完先用人眼把每一段的段首句念一遍，再跑工具**，順序不要反
+- 詳見 [EDITORIAL.md §歐化語法 第 9 病第三輪](../editorial/EDITORIAL.md)
 
-#### Step 2.7.2: prose-health plugin gate（對位句型 + 破折號 + AI metaphor 全交給工具）
+##### Step 2.7.2: prose-health plugin gate（對位句型 + 破折號 + AI metaphor 全交給工具）
 
 寫到 60% 時或寫完 prose 後，**直接跑 plugin**，不要手 grep。
 
@@ -1549,6 +1859,7 @@ plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不
 
 - 對位句型「不是 X，是 Y」+ 變種：≤ 3 處
 - 破折號 ——：≤ 15 / 1500 字（plugin 用比例計算）
+- **英式短句開場 §8e**：≥3 處計 +1、≥6 處 +2（2026-08-19 升計分）；pre-commit 觸檔 >10 處 HARD。目標是 0-2 處且每一處都是刻意節拍
 - prose-health score：≤ 3 為 pass
 
 **為什麼禁用手 grep**（REFLEXES #15 self-apply）：
@@ -1559,7 +1870,7 @@ plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不
 
 **歷史教訓**：2026-04-10 國防現代化一寫就到 29 個破折號，事後逐個刪很痛；plugin 在中段 60% 時抓出來，比寫完痛苦回頭便宜 10x。
 
-#### Step 2.7.3: 編年體自檢
+##### Step 2.7.3: 編年體自檢
 
 寫完後**念一遍所有小標題**：
 
@@ -1568,7 +1879,7 @@ plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不
 
 > **plugin gate**：`article-health.py --check=chronicle-lead`（regex 偵測，HARD）。
 
-#### Step 2.7.4: 密度平衡自檢（EVOLVE 長文專用）
+##### Step 2.7.4: 密度平衡自檢（EVOLVE 長文專用）
 
 研究素材豐富（50+ sources）時**強制跑**：
 
@@ -1582,7 +1893,7 @@ plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不
 
 來自 2026-04-20 吳哲宇 EVOLVE 實戰：50+ sources 的第一版 prose 5500 字被觀察者評「資訊多到蓋住敘事」，重寫縮到 4800 字但讀起來更開闊。**長文不是孢子的加長版，需要主動選擇留白**。
 
-#### Step 2.7.5: Agent claim 驗證
+##### Step 2.7.5: Agent claim 驗證
 
 agent 在研究報告中聲稱的「XXX 背書」「XXX 公開推薦」等名人相關 claim，**必須有具體公開 URL + 該 URL Ctrl-F 可搜到該人原始引語**：
 
@@ -1592,7 +1903,7 @@ agent 在研究報告中聲稱的「XXX 背書」「XXX 公開推薦」等名人
 
 **自檢問句**：「這個 claim 如果我是陌生記者，能不能只靠公開資料寫進我的報導？」能 → 可寫；不能 → 降級或刪。
 
-#### Step 2.7.6: Title + description spine sync 🥪 🔴
+##### Step 2.7.6: Title + description spine sync 🥪 🔴
 
 > **特別強化**：所有 article（**含 EVOLVE focused section addition**）寫完 prose 後**必須回看 frontmatter title + description**，三題自檢：
 
@@ -1621,7 +1932,7 @@ agent 在研究報告中聲稱的「XXX 背書」「XXX 公開推薦」等名人
 - Hub 頁（`_*.md`）— 是 nav
 - 系列共名（如 `台灣企業：台積電`）— 副標 hook 進 description
 
-#### Step 2.7.7: 媒體素材 spine check 🎬 🔴
+##### Step 2.7.7: 媒體素材 spine check 🎬 🔴
 
 > **特別強化**：所有 article（含 EVOLVE）寫完 prose 後 grep 既有 frontmatter：
 
@@ -1645,7 +1956,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 - focused EVOLVE 加新節時容易忽略「既有 article 的媒體狀態」— 假設「上次 ship 已合規」，但 pre-gate 條目實際無 hero
 - 找不到合適 PD/CC 圖時不可放空 → 走 fair use editorial commentary scope（per Step 1.9.2 第 8 點）或記錄 search 邊界
 
-### Step 2.8: 富文本 + footnote 密度
+#### Step 2.8: 富文本 + footnote 密度
 
 每 300 字 ≥ 1 個 footnote（per [CITATION-GUIDE](../editorial/CITATION-GUIDE.md)）。
 
@@ -1658,7 +1969,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 每 800-1200 字 ≥ 1 個富文本元素，幫助節奏 + 視覺呼吸。
 
-### Stage 2 Hard gates（10 條）
+#### Stage 2 Hard gates（10 條）
 
 寫完 prose 不直接進 Stage 3，先驗：
 
@@ -1676,7 +1987,59 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-## Stage 2.5: source-fidelity gate（來源逐字回溯）— A 級 / fresh-writer EVOLVE 長文 HARD 🔬
+---
+
+<!-- ==== source: REWRITE-STAGE-2D-SOURCE-FIDELITY.md @ 70e08c91d ==== -->
+
+## Stage 2.5 contract — source-fidelity gate（來源逐字回溯＋staging 比對覆蓋）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1666-1679），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **職責**         | 驗成品對真實世界來源（fetch 原頁逐字比對，不只信 report）；Evolution mode 由主 session 比對 staging vs 舊 canonical 後親手覆蓋 |
+| **執行者**       | 主 session；fresh-writer 長文可 spawn fact-check agent（falsification mindset）                                                |
+| **INPUTS**       | staging/canonical 正文；被引用來源 URL；research report                                                                        |
+| **OUTPUTS**      | 修正 in-place；Evolution：主 session 覆蓋 `knowledge/{Cat}/{slug}.md`                                                          |
+| **GATES**        | 觸發面：A 級 / fresh-writer EVOLVE 長文 / 含外部來源引用；三道（artifact 逐字 / 門面句 / fact-check pass）全過才覆蓋 canonical |
+| **context 預算** | 本檔＋成品＋來源頁                                                                                                             |
+
+### AGENT PROMPT（fact-check agent，v9.0 補齊薄殼）
+
+> fresh-writer 長文觸發第三道時填槽派發；主 session 自跑前兩道。
+
+```
+你是事實查核員，姿態是 falsification：試著讓這篇文章的引用不成立。
+只讀：{STAGING_PATH} 全文＋文內引用的來源 URL（用 WebFetch／curl 逐一開啟原頁）。
+對每個帶 footnote 的 claim：到原頁 Ctrl-F 找到支撐句，逐字比對；找不到或語意被改寫
+（詮釋 gloss、印象化、數字漂移）就列出。門面句（title／description／30 秒概覽）單獨過一輪。
+輸出：逐條 {claim｜來源｜verbatim 支撐句｜verdict: hold/drift/fabricated}，不重寫文章。
+```
+
+### 交付條件（stage 完成的定義）
+
+- [ ] 三道全過：來源 artifact 逐字比對／門面句 scope／（觸發面內）fact-check agent pass
+- [ ] Evolution：主 session 完成 staging vs 舊 canonical 比對（沒丟有價值素材）後親手覆蓋
+- [ ] 修正全部 in-place 完成，drift／fabricated 清零
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-2E-ROOM-PROSE.md（正文結構編輯室）
+
+---
+
+### Stage 2.5: source-fidelity gate（來源逐字回溯）— A 級 / fresh-writer EVOLVE 長文 HARD 🔬
 
 > **v7.6 新增（2026-06-16 哲宇 directive「升級」）**。distill 自 LESSONS meta-umbrella `stage2-quote-context-collapse`（vc=8，8 instance 跨 無名小卒 / 國家太空中心 / 嘻哈饒舌 / 廣告史 / 壞特 / 迷音 / 報導者 / 大鮪鱸鰻）。**第一性原理**：Stage 2 writer 即使讀了整份 research report，下筆仍會把研究結論 collapse 成偏記憶 / 偏印象 / 偏字面 / 偏未驗證狀態的 claim——Stage 1 SSOT 寫對、Stage 2 寫歪。structure gate（word-count / footnote / image / viz）全綠 ≠ 事實對；只拿成品比對 research report 也不夠（report 本身可能不全，或 writer 長出 report 沒有的東西）。本 gate 在 **EVOLVE 主 session 覆蓋 canonical 前 / Fresh ship 前**跑，與 Step 3.6 成品總驗互補：3.6 驗「成品內部一致 + 對 report」，2.5 驗「對真實世界的來源」。
 
@@ -1690,13 +2053,148 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-## Stage 3: 驗（預算 15-20%）
+---
+
+<!-- ==== source: REWRITE-STAGE-2E-ROOM-PROSE.md @ dddc05fa0 ==== -->
+
+## Stage 2E contract — 正文結構編輯室（Step 2.5-R）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：執行者只讀本檔＋INPUTS 宣告的檔案。
+> 派發路由在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)。內文自 v8.0 verbatim 搬移（原行號 L1474-1486）。
+
+### 執行卡
+
+|                  |                                                                                                                                                    |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 正文是否**執行**投影藍圖（全局功能兌現／論點中段被證明），非再發明結構                                                                             |
+| **執行者**       | 2 parallel Sonnet seats（結構主編＋論點兌現，prompt 一律 [EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) 填槽，禁即興）；主編永遠主 session |
+| **INPUTS**       | 投影藍圖＋staging／canonical 正文。**禁止輸入**：research report 全份、寫作閒聊 context                                                            |
+| **OUTPUTS**      | `reports/editorial-room/{slug}-prose-structure-review.md`（room: prose-structure＋`## 攻防` 段）                                                   |
+| **GATES**        | `python3 scripts/tools/editorial-room-health.py {review}`；必改 ≤7；可與 Step 3.6 同 round 平行                                                    |
+| **context 預算** | 各席只吃填槽 prompt＋藍圖＋正文                                                                                                                    |
+
+### AGENT PROMPT
+
+各席 prompt 唯一來源：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §正文結構室（結構主編／論點兌現）＋§攻防輪。禁即興增刪。
+
+> **spawn 時機（v9.5）**：本站席位由大驗證輪一次平行派齊（與 3.6.1 verifier、3.7 探針同輪，
+> 編排 canonical 在 [REWRITE-STAGE-3-VERIFY §Stage 3 收驗編排](REWRITE-STAGE-3-VERIFY.md)）。
+> 席位讀什麼、審什麼不變——本 contract 對席位執行者仍然自足。
+
+### 攻防輪（v1.1）
+
+任一席 revise／block → 寫方答辯一輪（規則 canonical：[EDITORIAL-ROOM §攻防輪](../editorial/EDITORIAL-ROOM.md)），主編看攻防後裁決，review 檔記 `## 攻防` 段。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] `reports/editorial-room/{slug}-prose-structure-review.md` 落檔（room: prose-structure，含各席 verdict＋必改 ≤7＋攻防段）
+- [ ] `editorial-room-health.py {review}` exit 0
+- [ ] overall=pass（revise → 修後可只重跑曾 raise 的席）
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮
+5. 下一棒：REWRITE-STAGE-3-VERIFY.md
+
+---
+
+#### Step 2.5-R: 正文結構編輯室（v8.1）🏛️
+
+> **canonical [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md)。** 與 [Step 3.6 成品總驗](REWRITE-STAGE-3-VERIFY.md#step-36-成品總驗三關assembled-product-verification--a-級大眾文-hard-) **分工**：本步查「有沒有執行藍圖／論點有沒有中段兌現」；3.6 查事實 atom／順稿／視覺。
+
+**誰做**：2 parallel seats（正文結構主編 + 論點兌現）+ 主編合成。可與 3.6 fan-out **同 round 平行**。
+
+**輸入**：投影藍圖 + staging／canonical 正文。  
+**產物**：`reports/editorial-room/{slug}-prose-structure-review.md`  
+**儀器**：`editorial-room-health.py`  
+**Gate**：block/revise → 回修正文；pass → 進 Stage 3 其餘／與 3.6 合併主編清單後 ship。
+
+**Dogfood**：[reports/editorial-room/Shopping-Design-prose-structure-review.md](../../reports/editorial-room/Shopping-Design-prose-structure-review.md)。
+
+---
+
+<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 36d5c8e32 ==== -->
+
+## Stage 3 contract — 驗（草稿驗＋成品總驗）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1680-1901），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 五指＋事實鐵三角＋FACTCHECK＋story atom＋title/desc re-check＋（A 級/大眾文 HARD）成品總驗三關＋大驗證輪編排＋定稿站                                          |
+| **執行者**       | 主 session；大驗證輪一次平行派齊：2.5-R 席＋3.6.1 M 個 Sonnet verifier＋3.7 探針（v9.5 編排 canonical 在 §Stage 3 收驗編排）                                  |
+| **INPUTS**       | 成品全文；research report（verification table）；FACTCHECK-PIPELINE.md（Quick/Full SSOT）                                                                     |
+| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}-stage35-audit.md`＋`{slug}-stage36-audit.md`（末尾 `## Result: PASS/FAIL`）；修正 append research §audit                   |
+| **GATES**        | `article-health.py --profile=rewrite-stage-3-5`（footnote 系列，勿只跑 stage-4——v6.1 漏跑教訓）；audit 兩檔 PASS＋`fact-atom-diff.py` PASS（3.8）才進 Stage 4 |
+| **context 預算** | 本檔＋成品＋report；verifier 各吃一段＋來源；定稿手吃成品全文＋prose-flow 表                                                                                  |
+
+### AGENT PROMPT（3.6.1 原子重驗 verifier，M×Sonnet，v9.0 補齊薄殼）
+
+```
+你是對抗性查核員（adversarial verifier），目標是推翻分配給你的段落。
+只讀：{ARTICLE_PATH} 的第 {N} 段～第 {M} 段＋該範圍 footnote 指向的來源 URL。
+逐原子（引語／數字／日期／歸屬／獎項屆次／詮釋 gloss）開原頁驗證：
+引語逐字 diff；詮釋 gloss 當獨立 atom 查（同位語最會藏錯——寶哥＝宋岳庭教訓）；
+footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）。官方一手 > 媒體轉述。
+輸出：逐條 {atom｜來源｜verdict: ✅/⚠️/❌｜證據}。禁改文章。
+```
+
+3.7 總編探針 prompt：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §總編室（**六探針**，v9.4 起含閱讀節奏＝原 Step 3.6.2 順稿）。
+
+### AGENT PROMPT（3.8 定稿手，1×fresh Opus，v9.5）
+
+```
+你是定稿手（closing editor）。任務：對這篇已完成事實查證的文章做一次完整的語感重順。
+只讀：{ARTICLE_PATH} 成品全文＋下方 prose-flow 逐節表＋閱讀節奏席 findings。
+不讀藍圖、研究報告、編輯歷程——你的價值就是沒有那些 context。
+動的：段落牆（>280 字拆；單節 ≥200 字段落佔比 >35% 的節重排呼吸）、饒口句、
+framing 詞硬接（「值得一提的是」類）、縫線疤（外科手術疊輪留下的生硬轉折）、機械自述。
+不動的（一個字都不准）：「」內引語、所有數字與單位、人名地名專名、[^n] 標記與腳註定義、
+[[wikilink]]、URL、H2 標題、frontmatter、markdown 表格與 tw-* 視覺模組、論點與段落的事實內容。
+想動結構或事實＝寫進回報，不自己動。
+寫到 staging 檔 {STAGING_PATH}（不覆蓋 canonical）。
+回報：staging 路徑＋動過哪些節的一句話清單＋你想動但沒動的事項。
+你的產出會過 fact-atom-diff.py 原子守恆硬閘，任何原子漂移整份退回。
+```
+
+### 交付條件（stage 完成的定義）
+
+- [ ] `{slug}-stage35-audit.md`＋`{slug}-stage36-audit.md` 落檔且 `## Result: PASS`
+- [ ] `article-health.py --profile=rewrite-stage-3-5` 無 hard（footnote 系列；勿只跑 stage-4）
+- [ ] （A 級／大眾文）3.7 總編室 `{slug}-chief-review.md` overall=pass
+- [ ] verifier ❌ 全數修正並 append research §audit
+- [ ] 批修後變更節定向複驗跑過（大驗證輪步 4）
+- [ ] Step 3.8 定稿站跑過且 `fact-atom-diff.py` PASS（所有 depth）
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-4-FORMAT.md
+
+---
+
+### Stage 3: 驗（預算 15-20%）
 
 **必讀**：`cat docs/editorial/QUALITY-CHECKLIST.md`
 
 **流程**：嚴格按照 [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md) 逐項執行。包含 5 大步驟。
 
-### Step 3.1: 五指 + 結構 + 塑膠 + 算術
+#### Step 3.1: 五指 + 結構 + 塑膠 + 算術
 
 1. **五指檢測**（手動 60 秒）
 2. **結構驗證**（逐項打勾）
@@ -1705,11 +2203,11 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 **⚠️ 不合格 = 不 commit。修正後從 QUALITY-CHECKLIST.md 重新驗證。**
 
-### Step 3.2: 事實鐵三角（強制鐵律）
+#### Step 3.2: 事實鐵三角（強制鐵律）
 
 > 來源：李洋文章 + 孢子 #28 同時犯三層事實錯誤（金額兩千萬→一千萬、單位三十六萬→三千六百萬、杜撰引語從英文回譯）被觀察者撤回的教訓。
 
-#### Step 3.2.1: 算術自檢
+##### Step 3.2.1: 算術自檢
 
 寫完含金額/百分比/比例的段落，**必須做算術自檢**：
 
@@ -1721,7 +2219,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 **規則**：每一個「X 是 Y 的 Z 成」「比 X 多 Y」「等於 X 倍」這類數字關係**必須在心裡或用 python3 算一次**。算不通 = 至少有一個數字錯。
 
-#### Step 3.2.2: 金額單位念出來
+##### Step 3.2.2: 金額單位念出來
 
 寫完含金額的句子，**必須念出來檢查單位**：
 
@@ -1741,7 +2239,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 如果念出來的數字跟主題的「合理量級」對不上 = 紅旗。
 
-#### Step 3.2.3: 引語逐字核對
+##### Step 3.2.3: 引語逐字核對
 
 每一個 `「XXX」` 直接引語格式**必須跟原始中文來源逐字核對**：
 
@@ -1761,7 +2259,7 @@ Ctrl-F 搜「我最早到學校」→ 搜不到 ❌
 3. 搜不到 = 改成轉述句式（不加引號），不准用直接引語格式
 4. 詳細紅線見 [EDITORIAL §挖引語制度](../editorial/EDITORIAL.md#挖引語制度)
 
-#### Step 3.2.4: 三角自檢 checklist（強制）
+##### Step 3.2.4: 三角自檢 checklist（強制）
 
 - [x] **算術**：每個「X 是 Y 的 Z」「X 比 Y 多」都用 python3 算過？
 - [x] **單位**：每個金額念出來跟「合理量級」對得上？
@@ -1769,7 +2267,7 @@ Ctrl-F 搜「我最早到學校」→ 搜不到 ❌
 
 **任何一項打不勾 = 不 commit，回去修。**
 
-### Step 3.2-bis: 校正焦慮掃描（correction-meta scan）— callout-triggered 強制 🧱
+#### Step 3.2-bis: 校正焦慮掃描（correction-meta scan）— callout-triggered 強制 🧱
 
 > Step 0.2-bis 拆除防火牆的 backstop。即使前面三條防火牆做了，Stage 2 寫作仍可能漏出校正型 meta。這一關專抓「文章在公開處理自己的勘誤」。
 
@@ -1781,9 +2279,9 @@ Ctrl-F 搜「我最早到學校」→ 搜不到 ❌
 **儀器化掃描（callout-triggered 必跑）** — 2026-06-01 已升 article-health plugin：
 
 ```bash
-# correction-meta plugin（取代原 raw grep）：抓 9 類校正型句式，回 line + snippet + 自檢句
+## correction-meta plugin（取代原 raw grep）：抓 9 類校正型句式，回 line + snippet + 自檢句
 python3 scripts/tools/article-health.py knowledge/{Cat}/{slug}.md --check=correction-meta
-# 或直接跑 Stage 3.5 profile（含 footnote-format + footnote-density + correction-meta）
+## 或直接跑 Stage 3.5 profile（含 footnote-format + footnote-density + correction-meta）
 python3 scripts/tools/article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-3-5
 ```
 
@@ -1795,13 +2293,13 @@ correction-meta DEFAULT WARN（dual-use 句式 + legacy soft-launch）。**callo
 
 **不過 = 不 commit。** 純品質提升的 EVOLVE 不強制此關，但論點脊椎自檢建議跑。
 
-### Step 3.3: FACTCHECK Quick Mode（A 級 / 政治敏感 → Full Mode）
+#### Step 3.3: FACTCHECK Quick Mode（A 級 / 政治敏感 → Full Mode）
 
 > **本 step 是 [FACTCHECK-PIPELINE](FACTCHECK-PIPELINE.md) 的 trigger context**。完整 SOP、atom 類型、11 種 hallucination pattern、6 種 drift modes、Phase 1-6 執行細節、checklist 全部 SSOT 在 FACTCHECK-PIPELINE，本 step 不複寫（[MANIFESTO §指標 over 複寫](../semiont/MANIFESTO.md#我的進化哲學--指標-over-複寫) 原則）。
 >
 > **對應 [MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md#10-幻覺鐵律--寧可多檢查一次不要放出連自己都不知道是錯的資訊)。**
 
-#### Quick Mode 觸發
+##### Quick Mode 觸發
 
 REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前，**必須跑 FACTCHECK-PIPELINE §Quick Mode**：
 
@@ -1814,13 +2312,13 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前，**必須跑 FACTCHECK-PI
 
 > **plugin gate 鐵律**（v6.1，2026-05-17 admiring-montalcini）：`rewrite-stage-3-5` profile 必跑不是建議，是反射。Stage 4 `--profile=rewrite-stage-4` **不含** footnote-format（profile 分工：Stage 3.5 管 citation health / Stage 4 管 structure），跳過 Stage 3.profile 內 plugin（清單以 `--list-checks` 為準） gate = CI full sweep（含全 全量 plugin（以 `--list-checks` 為準））會 hard-fail，本機 Stage 4 卻顯示綠燈 = silent leak through。誕生事件：2026-05-17 臺灣前途決議文 ship 後 CI fail（footnote-format hard=23），主 session 用 `--profile=rewrite-stage-4` local 跑全綠就 push，沒跑 `rewrite-stage-3-5` 因為 pipeline 沒明示 → 推回 Step 3.3 補一個 commit 修 29 條 footnote。對應 [REFLEXES #15 反覆浮現要儀器化](../semiont/REFLEXES.md) + [MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md#10-幻覺鐵律) — 把「該跑哪個 profile」從 SOP 隱性知識儀器化進 pipeline checklist。
 
-#### 觸發 spawn agent 升級為 Full Mode 的條件
+##### 觸發 spawn agent 升級為 Full Mode 的條件
 
 - article tier = A 級（≥ 50 footnotes 或 ≥ 3000 字 或 含直接引語 ≥ 10 句）
 - article 對象為真人且可能引發人權／政治／法律敏感
 - Quick Mode 過程中發現 ≥ 3 個 ❌ HARD-FIX → Quick 不夠，升級 Full Mode 重跑
 
-#### Stage 3 Hard gates（FACTCHECK-PIPELINE Phase 6 Triage 結果必須）
+##### Stage 3 Hard gates（FACTCHECK-PIPELINE Phase 6 Triage 結果必須）
 
 - 0 個 🔴 DEAD-LINK（任何 footnote URL 4xx/5xx 都先換源）
 - 0 個 ❌ HARD-FIX（claim 不在 source、引號內 paraphrase、third-person flip 等全部處置完）
@@ -1828,11 +2326,11 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前，**必須跑 FACTCHECK-PI
 - ⚠️ SOFT-FIX 數量無上限，但每條都要在 commit message 列出，可 ship 後 polish
 - 每個 ❌ 與 🔴 的修補都 append 到 `reports/research/YYYY-MM/{slug}.md` § audit section（REFLEXES #22 raw 永留）
 
-#### 為什麼這條 step 是 hard gate 而非 soft
+##### 為什麼這條 step 是 hard gate 而非 soft
 
 錯誤與幻覺以指數速率摧毀平台可信度。讀者會記得錯誤、截圖到 Threads、引用為「Taiwan.md 是 AI 廢文」的證據；不會記得其他幾百篇正確的文章。**寧可多檢查一次，也不要放出連自己都不知道是錯的資訊**（[MANIFESTO §10](../semiont/MANIFESTO.md)）。
 
-### Step 3.4: Story atom audit（場景級事實對 source Ctrl-F）
+#### Step 3.4: Story atom audit（場景級事實對 source Ctrl-F）
 
 對 prose 中每個「場景描述」（具體動作、房號、樓層、影廳代號、設備代號、職稱、場地細節），對 source URL **逐原子 Ctrl-F**：
 
@@ -1844,7 +2342,7 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前，**必須跑 FACTCHECK-PI
 
 **唯一可靠的審計**：全文逐原子對 source URL Ctrl-F 中文原文。發現 → 刪除或降級為「該領域受肯定」這類概括語言，**不保留可能錯也可能對的條目**。
 
-### Step 3.5: Title + description spine sync re-check 🥪
+#### Step 3.5: Title + description spine sync re-check 🥪
 
 承襲 Stage 2 Step 2.7.6（已在 Stage 2 跑過寫作 self-check）。Stage 3 再 grep 一次做 verify 階段最終 gate：
 
@@ -1866,13 +2364,13 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 兩次 check 是雙重保險，不是重複。Title 三明治是 SC 入口品質 + reader entry framing 的 spine，不能漏。
 
-### Step 3.6: 成品總驗三關（assembled-product verification）— A 級/大眾文 HARD 🔍
+#### Step 3.6: 成品總驗三關（assembled-product verification）— A 級/大眾文 HARD 🔍
 
 > **v7.0 新增（2026-06-10 哲宇 directive，嘻哈饒舌 worked example）**。Stage 3.1-3.5 驗的是「寫作中的草稿」；本 step 驗的是「組裝完成的成品」——媒體已插、cross-link 已補、外科手術疊過幾輪之後的最終形態。**越大眾的文章效果越好、讀的人越多，檢視的人也越多**：成品關卡是對讀者的尊重。誕生事件：台灣嘻哈饒舌 EVOLVE 在 Stage 3.1-3.5 全綠 ship 後，讀者（老莫，文章引用來源作者本人）抓到一處詮釋 gloss 錯誤（寶哥=宋岳庭，實為 MV 導演黃信佳）→ 成品全文原子重驗又抓 3 ❌ + 11 ⚠️。完整 audit：[reports/research/2026-06/台灣嘻哈與饒舌發展.md §9](../../reports/research/2026-06/台灣嘻哈與饒舌發展.md)。
 
 **觸發條件（任一 → 必跑）**：A 級文（≥ 50 footnote 或 ≥ 3000 字或直接引語 ≥ 10）/ 預期高流量大眾主題 / 讀者或專家 callout 後 / 同一篇外科手術（勘誤、補段、補媒體）累積 ≥ 3 輪。
 
-#### Step 3.6.1: 原子重驗 fan-out（拿成品派 verifier 再查一次）
+##### Step 3.6.1: 原子重驗 fan-out（拿成品派 verifier 再查一次）
 
 派 N 個 parallel adversarial verifier（Sonnet）按**成品段落**分工（不是按研究子題——成品的段落組合跟研究報告的子題切法不同，漏的 atom 就藏在重組的縫裡）。每個 verifier 讀「文章該範圍 + 全部腳註定義」，抽出**每一個 atom** 逐條 falsify（≥ 2 獨立來源；引語 Ctrl-F；中文站 WebFetch 用中文 verbatim prompt），回報 `| line | atom | ✅/⚠️/❌ | 證據 URL | 正確版本 |` 表。
 
@@ -1889,18 +2387,39 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 > **儀器化（2026-06-10）**：drift (1) 與 (4) 已升 `article-health.py --check=quote-fidelity` plugin（in `rewrite-stage-3-5` profile，soft-launch WARN）——QF1 把文中每句帶腳註的「」引語逐字比對 frontmatter `researchReport` 的 SSOT 全文（抓縮寫/改句型/換字），QF2 列出全文 superlative 原子（首位/唯一/第一）當 fan-out 優先驗證清單。dogfood：嘻哈饒舌 0 誤報、複雜生活節 surface 4 條 legacy 引語債、無 report 文章優雅 skip。drift (2) 詮釋 gloss 與 (3) footnote 綁定仍靠 verifier fan-out（語意層，工具到不了）。
 
-#### Step 3.6.2: 順稿（閱讀感 + 呼吸感 + 紀實文學感）
+##### Step 3.6.2: 順稿（閱讀感 + 呼吸感 + 紀實文學感）→ **v9.4 移交總編室閱讀節奏席**
 
-外科手術疊幾輪之後縫線會留疤——成品**從頭到尾重讀一次**，per [EDITORIAL §段落呼吸 + §段與段的呼吸](../editorial/EDITORIAL.md)：
+> **⚠️ 這一關不由主 session 親做（2026-07-25 改）**。派 Step 3.7 總編室**探針 5 閱讀節奏**
+> （Sonnet，乾淨 context），prompt 在 [EDITORIAL-ROOM-PROMPTS §探針 5 專屬](EDITORIAL-ROOM-PROMPTS.md)。
+> 產物併入 `{slug}-chief-review.md`，走 `editorial-room-health.py` 同一個 gate。
+>
+> **派出前主 session 必做一件事**：跑 `python3 scripts/tools/prose-flow.py {article_path}`，
+> 把逐節表整段貼進席位 prompt（席位需要形狀當材料，但判斷要它自己做）。
+>
+> **為什麼移交**：本 step 的第一句話從 v7.0 起就是「外科手術疊幾輪之後縫線會留疤——
+> 成品從頭到尾重讀一次」。它預言正確，但被指派給**全場唯一讀不了新鮮的那個讀者**。
+> 主 session 剛決定過每一句話該長什麼樣，理由跟句子是一起生的，重讀時理由會先替
+> 句子辯護一次。**順稿需要的不是深 context，是沒有 context**。
+> 誕生事件：外送專法 ship 時 `--profile=rewrite-stage-4` hard=0 warn=0，哲宇冷讀
+> callout「文段太長／閱讀順暢感掉了／後段幾乎沒有資訊圖表」，三句都對。
+> 完整診斷＋門檻校準：[reports/design-prose-flow-station-2026-07-25.md](../../reports/design-prose-flow-station-2026-07-25.md)。
+
+席位要看的判準（canonical 仍在此，per [EDITORIAL §段落呼吸 + §段與段的呼吸](../editorial/EDITORIAL.md)）：
 
 - **段落牆**：單段 > 280 字拆段（worked example：蛋堡＋寶哥段 340 字拆三段）
+- **長段密度**（v9.4 新增）：單節內 ≥ 200 字段落佔比 > 35% = 一面牆，即使沒有任何一段破 280。
+  窒息感來自密度，不只來自峰值。已儀器化為 `paragraph-rhythm` R5（WARN，全站校準 1.7% 觸發率）
+- **資料密但無視覺**：資料量（數字／金額／比例／時序／多方對照）超過散文能承載的節，
+  該有 viz 模組。**此項刻意不做閘門**——校準顯示任何門檻都會打中 35–60% 的文章，
+  等於描述語料庫常態而非異常；交由席位判斷（設計否決記錄見上引報告 §三 C）
 - **framing 詞硬接**：「值得一提的是」「順帶一提」「耐人尋味的是」「這裡需要…」整批清掉，改 narrative bridge
 - **文章機械自述**：「得單獨給 X 一個段落」這類 writer 對自己結構的旁白，刪
 - **一致性殘渣**：30 秒概覽與 description 是否還跟修正後的正文一致（「畢業」vs 休學、被正文砍掉的場景是否還留在 description）；結尾排比的指涉是否 dangling（正文已刪的支線還留在結尾）；策展人筆記裡是否還引用已勘誤的舊事實
 - **中英夾雜殘留**（beat 掉 → 贏過）
+- **英式短句開場殘留**（v9.6，2026-08-19）：逐段念段首句，短平述句定調再展開的段落骨架一律接回敘事（判準與三類不算見 [EDITORIAL §歐化 第 9 病第三輪](../editorial/EDITORIAL.md)）。這一條交給**冷讀席**而不是主 session：理由跟句子一起生的人讀不出自己的段首句是在「先立再展開」——哲宇同日兩次點同一篇，第一輪主 session 順過、工具報 0，冷讀才看見 15 處。工具門檻：`prose-health` §8e ≥3 處計分、pre-commit >10 HARD
 - 工具：`paragraph-rhythm` + `prose-health` + 念出來
 
-#### Step 3.6.3: 視覺同步（媒體 × 敘事對位）
+##### Step 3.6.3: 視覺同步（媒體 × 敘事對位）
 
 逐一檢查每張圖／每支 iframe：「**它旁邊的 prose 是不是在講它**」：
 
@@ -1910,17 +2429,169 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 **三關全過才算成品 ship。已 ship 後觸發（讀者 callout）→ 三關照跑，修正以 `heal:` commit 補。**
 
+##### Step 3.6.4: orchestrator 自修的收件紀律（v9.4 新增）🔁
+
+> **主 session 親手改動 prose ≥ 2 段 → 該節必重跑量測，並進入下一輪外部尺。
+> 不得以「我自己重讀一次」代替。**
+
+我對派出去的 agent 有制度化的不信任（先落檔、再驗真偽、claim 只是線索，REFLEXES #31）；
+對自己只有意願上的不信任。而意願在「我正在修東西」的時候最薄——那正是防備關掉的時刻。
+
+2026-07-25 外送專法一天內三次實證，**全部由外部尺接住、無一由自檢接住**：
+
+| 我做了什麼                                                                                                    | 誰接住                       |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 在寫手零違規的稿子上加了 1 個對位句型 ＋ 5 個破折號                                                           | `article-health` check       |
+| 寫進「連死亡都只值 542 元」——一個我自造的等式，而該段「不可滑成情緒槓桿」的警告是我兩小時前親手寫進投影藍圖的 | 總編室冷讀探針               |
+| 壓一個 warn 造出另一個 warn，連續三次（合併→牆／拆段→切碎／補論證→牆）                                        | 儀器，且每次都是下一輪才發現 |
+
+第三列是本 step 存在的直接原因：**編輯粒度是段落，閘門粒度是全檔**。
+全檔 warn 歸零就往下走，從來沒有回頭看那一節整體變成什麼樣子 → 局部最佳化打地鼠。
+
+**操作**：`prose-flow.py {article}` 只看被動過的那一節；形狀變差就地修，
+變好才往下。累積 ≥ 3 輪自修 → 觸發 Step 3.6 全套（含閱讀節奏席）重跑。
+
 ---
 
-## Stage 4: 形（Format + Media，預算 5-10%）
+---
+
+#### Step 3.7: 總編對抗總評（v9.0 新增）🗞️ — A 級／大眾文 HARD，standard WARN
+
+成品層最後一道外部尺：**不看藍圖、不看研究報告**，模擬冷讀總編。5-6 個平行 Sonnet 探針
+（門面兌現／逐段主軸服務／H2 載體還原／連結成網／**閱讀節奏**／＋政治敏感題加開立體地愛），
+各自乾淨 context、falsification 姿態。**閱讀節奏席即 Step 3.6.2 順稿**（v9.4 移交，
+派出前先跑 `prose-flow.py` 把逐節表貼進 prompt）。主編（主 session）匯流裁決，落
+`reports/editorial-room/{slug}-chief-review.md`（`room: chief`，schema 同編輯室），
+`editorial-room-health.py` gate，≤7 必改。與 Step 3.6 同 round 可平行——3.6 驗事實原子，
+3.7 驗「作為一篇報導成不成立」。
+
+- 規則 canonical：[EDITORIAL-ROOM §總編室](../editorial/EDITORIAL-ROOM.md)
+- 探針 prompt：[EDITORIAL-ROOM-PROMPTS §總編室](EDITORIAL-ROOM-PROMPTS.md)（禁即興）
+- 誕生：2026-07-16 睨對話「總編是平行的漣漪出去，檢驗連結關係和脈絡構成主軸」＋哲宇
+  「需要總編輯獨立一個 agent 用對抗性方式總評標題觀點性與整篇脈絡」＋兩個實證缺口
+  （Shopping Design 摘要尾句看不懂／吸菸室京都段前後斷裂——都是形式閘門全綠但冷讀不成立）
+
+---
+
+#### Stage 3 收驗編排：大驗證輪（v9.5）⚡
+
+> **三輪合一**。2.5-R 正文結構席、3.6.1 原子重驗 verifier、3.7 總編室探針讀的都是
+> 同一份成品——v9.4 之前寫了「同 round 可平行」卻一直排隊跑（外送專法 22:26→23:09
+> 三輪串行）。v9.5 起合併為一輪是 default，wall-clock 實測省 40-60 分鐘。
+> 設計與拍板紀錄：[reports/design-rewrite-throughput-2026-07-26.md](../../reports/design-rewrite-throughput-2026-07-26.md) §五 方案 A。
+
+**編排五步**：
+
+1. **一次派齊**：Stage 2.5 覆蓋 canonical 後，同一則訊息平行 spawn 全部收驗席位——
+   2.5-R 兩席＋3.6.1 verifier（standard M=2-4／lite M=2）＋3.7 探針（standard 6／lite 4，
+   閱讀節奏席必在）。全部 Sonnet、各自乾淨 context、prompt 照各自 canonical 填槽禁即興。
+2. **單次收件**：全部回報後，主 session 把 findings 合併成**一張修復單**（表格：
+   `| # | 位置 | 問題 | 來源席位 | 裁決 accept/defend | 施工方 |`），append 對應 audit 檔。
+   **同族全文重掃鐵律（2026-08-03 round 2）**：任一 finding（席位的或哲宇 callout 的）
+   屬於可歸類的病灶家族（後台洩漏八形狀／對位變體／英式段首／查證腔）時，修復單不只收
+   那一句——先拿該家族的判準句全文重掃，把同族全部列進修復單。黃崇仁第一輪逐 callout
+   修六處，第二輪哲宇再抓 13 處，多數第一輪就在文裡：callout 指哪修哪＝「工具警報的
+   單例不代表問題的集群」在正文層重演。
+3. **裁決一次、施工一次**：裁決永遠主 session（席位是線索，裁決回到有材料的人）；
+   裁決後的文字施工派 Sonnet（v9.4 留派表「拆本身是機械」欄），一批做完，不逐條來回。
+
+   **3-bis 事實層更正必須回填 fact-pack（2026-08-08 新增，HARD）**：修復單裡凡是
+   **事實層**的裁決（數字改了／時刻拿掉／人物屬性刪掉／來源換綁），除了改成品，**必須
+   同步改研究報告 §6 Clean Fact-Pack 與 §6.5 小標候選的對應條目**，並在該條旁寫下
+   「禁用什麼、為什麼」。只改成品＝更正沒有回填到上游材料，**下一次重寫、下一個寫手、
+   任何吃 fact-pack 的 agent 都會原封不動把錯誤長回來，而且沒有理由知道**。
+   誕生案例：新冠疫情文第一輪查掉「傍晚六點登機檢疫」（兩份官方文件都查無此時刻），
+   只改了成品；換論點重寫時 fact-pack §6.1 仍寫著舊句，v4 小標與 30 秒概覽原地復發。
+   **判準**：施工單上每一條事實層裁決，都要能指出它在 fact-pack 的哪一行也被改了；
+   指不出來＝這條沒做完。（與 §量詞隱喻／§後台洩漏那種**表達層**裁決不同——表達層
+   的家族重掃在步 2，事實層的上游回填在這裡，兩者都要做。）
+
+4. **變更節定向複驗**（哲宇對「席位看的是修復前文本」的疑慮，v9.5 的回答）：
+   批修完成後派 **1 個 Sonnet verifier 只讀被動過的節**（falsification 姿態，含該節
+   footnote 綁定），加跑 deterministic 工具全套（article-health 兩 profile＋prose-flow
+   對被動節）。變更節複驗＝Step 3.6.4 自修紀律的批修版——**修了哪裡就複驗哪裡**，
+   不用整套重跑。
+5. **收尾交棒 Step 3.8 定稿站**（下方）。flagship 或 3.6.4 觸發（自修 ≥ 3 輪）時，
+   仍走全套重跑，不走定向複驗。
+
+#### Step 3.8: 定稿站（closing pass）✍️ — 所有 depth HARD（v9.5 新增）
+
+> **順稿從偵測升級成修復**。v9.4 的閱讀節奏席讓「哪裡讀起來窒息」看得見了，但動手修的
+> 仍是主 session——全場唯一讀不了新鮮的讀者，用段落 patch 修語感，縫線疤再生。哲宇每次
+> 手動說「幫我全文再看過順一下語感」，要的就是這一站：**一雙新鮮的眼睛、一次全文重順、
+> 事實一個字不動**。2C 寫手只寫一次，此後全文再沒有被單一聲音完整順過——本站補上這隻手。
+> 誕生：2026-07-26 哲宇拍板（設計報告 §五 方案 B）。
+
+**流程**：
+
+1. 大驗證輪全部修復收斂後，派 **1 個 fresh Opus 定稿手**（AGENT PROMPT 見上方，填槽禁即興）。
+   輸入＝成品全文＋`prose-flow.py` 逐節表＋閱讀節奏席 findings。**不給**藍圖、研究報告、
+   編輯歷程（它需要的是沒有 context）。
+2. 定稿手寫到 staging 檔 `reports/article-evolve/{slug}-closing.md`，不碰 canonical。
+3. 主 session 跑硬閘：`python3 scripts/tools/fact-atom-diff.py {canonical} {staging}` ——
+   frontmatter／「」引語／數字／`[^n]` 標記與定義／URL／wikilink／H2／表格與 tw-\* 模組
+   全部鎖定，任何原子漂移＝FAIL 整份退回（重派或棄用，不逐句撿）。
+4. PASS 後主編 diff 抽查（策展聲音有沒有被沖淡——儀器管機械面，這一眼管聲音），
+   親手覆蓋 canonical。`prose-flow.py` 重跑一次留 before/after 於 audit 檔。
+
+**邊界**：定稿手只動散文的形狀（拆牆、換氣、饒口句、framing 詞、縫線疤），不動論點、
+不動結構順序、不動任何事實原子。想動結構＝回報主編，不自己動。已 ship 後的讀者 callout
+修正（heal）不觸發本站；同一篇 heal 疊 ≥ 3 輪則觸發（同 3.6 條件）。
+
+---
+
+<!-- ==== source: REWRITE-STAGE-4-FORMAT.md @ 5ad44270b ==== -->
+
+## Stage 4 contract — 形（format＋媒體插入）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L1902-2253（v9.0 更正：原第二個 Step 4.3.6「影片 iframe 嵌入」重編號為 4.3.7）），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                                                    |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 格式 7 維度、多語 smoke（i18n 改動時）、媒體插入（節奏判斷/fetch/aspect/插入/授權同步/健檢/iframe）                                                |
+| **執行者**       | 主 session                                                                                                                                         |
+| **INPUTS**       | canonical 正文；research 檔媒體授權矩陣（Stage 1B 產物）；EDITORIAL §媒體編織                                                                      |
+| **OUTPUTS**      | 文內媒體＋`## 圖片來源` 段；`public/article-images/{cat}/`                                                                                         |
+| **GATES**        | `python3 scripts/tools/article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-4`（hard=0）＋`--check=image-health`；`check-aspect.sh` |
+| **context 預算** | 本檔＋成品＋授權矩陣                                                                                                                               |
+
+### AGENT PROMPT
+
+**不派 agent**——格式與媒體插入主 session 自跑（授權同步與 aspect 判斷需 human 眼）。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] `article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-4` hard=0
+- [ ] `--check=image-health` pass（depth：媒體 ≥ max(3, round(prose-CJK/1200))）
+- [ ] 文末 `## 圖片來源` 段與授權矩陣一致；`check-aspect.sh` 過
+- [ ] （i18n 改動時）多語 visual smoke 6 步過
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 下一棒：REWRITE-STAGE-5-CROSSLINK.md
+
+---
+
+### Stage 4: 形（Format + Media，預算 5-10%）
 
 **Stage 3 commit 前最後關。**
 
 這一步跟 Stage 3 不同——Stage 3 檢查「寫得好不好 + 事實對不對」，Stage 4 檢查「結構對不對 + 媒體插得對不對」。
 
-### Step 4.1: article-health.py --profile=rewrite-stage-4
+#### Step 4.1: article-health.py --profile=rewrite-stage-4
 
-#### 強制執行（不是建議，是反射）
+##### 強制執行（不是建議，是反射）
 
 ```bash
 python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profile=rewrite-stage-4
@@ -1946,10 +2617,11 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profi
 
 > **為什麼要強制？** 2026-04-04 我在台灣國樂的延伸閱讀寫了 7 個 `[[wikilink]]`，忘記 Astro 不渲染。規則在本文件 v2.10 已經寫過、工具 wikilink validation 存在——然後還是寫錯了。教訓：**擁有工具 ≠ 使用工具**。所以現在寫進 pre-commit 強制執行。
 
-#### 格式範本檢查清單（手動 audit）
+##### 格式範本檢查清單（手動 audit）
 
 ```
 □ Frontmatter 完整（title/description/date/category/tags/subcategory/author/featured/lastVerified/lastHumanReview）
+□ Frontmatter 含 researchReport 指向 research 檔（編輯台 slug 歸戶——缺了會讓看板出現「codename 卡在中間＋中文卡已出刊」的分裂雙卡；2026-08-06 newsroom 健檢盲點 B）
 □ 30 秒概覽存在（blockquote 格式，開頭 > **30 秒概覽：**）
 □ 正文小標題不是問句（除非問句本身是核心矛盾）
 □ 延伸閱讀區塊存在且格式正確：
@@ -1965,7 +2637,7 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profi
 
 **⚠️ 格式不合格 = 修正後重新檢查。不進 Step 4.3。**
 
-### Step 4.2: 多語 visual smoke test（i18n 改動時）
+#### Step 4.2: 多語 visual smoke test（i18n 改動時）
 
 > **觸發條件**：commit 涉及任何 i18n 系統 / 多語系路由 / homepage components / `src/pages/{lang}/` / `src/i18n/`、或加新語言、或大型 sed 批次替換。
 > 對應 [REFLEXES #19 大型 refactor 後 visual smoke test](../semiont/REFLEXES.md#四工程衛生)。
@@ -1973,39 +2645,39 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profi
 **強制 SOP**（6 步）：
 
 ```bash
-# 1. Build verify
+## 1. Build verify
 npm run build  # 必須 ✅ all categories healthy
 
-# 2. Cascade prevention test（驗 Phase 1 fix 仍 work）
+## 2. Cascade prevention test（驗 Phase 1 fix 仍 work）
 F="dist/fr/people/index.html"
 grep -oE '"/[a-z][a-z-]*/people"' "$F" | sort -u
-# 預期：/en/people、/ja/people、/ko/people、/fr/people（+ /es/people if dropdown 完整）
-# 不應出現：/ja/fr/people、/ko/fr/people 等 cascade URL
+## 預期：/en/people、/ja/people、/ko/people、/fr/people（+ /es/people if dropdown 完整）
+## 不應出現：/ja/fr/people、/ko/fr/people 等 cascade URL
 
-# 3. 5 langs 結構對齊檢查
+## 3. 5 langs 結構對齊檢查
 for L in '' en ja ko fr es; do
   if [ -z "$L" ]; then f="dist/index.html"; lang="zh-TW"; else f="dist/$L/index.html"; lang="$L"; fi
   echo "$lang: halls=$(grep -c 'exhibition-hall' $f) RD=$(grep -c 'Random' $f)"
 done
-# 預期：5 langs 都有 exhibition halls + RandomDiscovery
+## 預期：5 langs 都有 exhibition halls + RandomDiscovery
 
-# 4. Wrong-language prose 檢查（fr/es 不該含日文/中文 hardcoded）
+## 4. Wrong-language prose 檢查（fr/es 不該含日文/中文 hardcoded）
 for L in fr es; do
   hits=$(grep -c -P "[\x{3040}-\x{309F}\x{30A0}-\x{30FF}]" "dist/$L/index.html")
   echo "$L: $hits 平假名/片假名 occurrences"
 done
-# 預期：0 / 0
+## 預期：0 / 0
 
-# 5. LANGUAGES_REGISTRY SSOT 對齊
+## 5. LANGUAGES_REGISTRY SSOT 對齊
 bash scripts/tools/check-hardcoded-langs.sh
 
-# 6. i18n coverage audit
+## 6. i18n coverage audit
 bash scripts/tools/i18n-coverage-audit.sh
 ```
 
 **任何一項失敗 = revert 該 commit，不 ship**。歷史教訓：Tailwind Phase 6 反向 sed 讓 ja/ko 壞 2 天 / fr 上線 cp + sed 漏抓日文 prose 持續 1 天 / fr/es 路由疊加 cascade 4 天才被發現——三次都因為缺這層 smoke test。
 
-### Step 4.3: 媒體插入
+#### Step 4.3: 媒體插入
 
 **觸發時機**：Step 4.1 format-check 通過後、Stage 5 cross-link 之前。
 
@@ -2013,7 +2685,7 @@ bash scripts/tools/i18n-coverage-audit.sh
 
 **依賴**：Stage 1 Step 1.9 必須完成（媒體授權矩陣三表 append research 檔 + 圖片已 cache）。沒做 → 退回 Stage 1 Step 1.9。
 
-#### Step 4.3.1: 三段敘事節奏判斷（圖 + 影片 整合）
+##### Step 4.3.1: 三段敘事節奏判斷（圖 + 影片 整合）
 
 媒體插入位置影響敘事節奏，不是隨便塞。三段標準（圖跟影片穿插，per EDITORIAL §媒體編織）：
 
@@ -2045,7 +2717,7 @@ bash scripts/tools/i18n-coverage-audit.sh
 **Scene-mid 位置規則**：圖放在「該段 narrative 開始前」而不是「該段中間」：
 
 ```markdown
-## 紅色 LED 下的第一口萵苣 ← 小標題
+### 紅色 LED 下的第一口萵苣 ← 小標題
 
 [圖：Expedition 42 三人合影] ← 圖放這裡
 _caption_
@@ -2055,31 +2727,31 @@ prose 開始... ← 文字接續
 
 **呼吸原則**（呼應 EDITORIAL §密度平衡）：連續 3 段以上密集事實段（≥ 200 字 / 段）→ 中間插入一張 scene 圖作為視覺呼吸。
 
-#### Step 4.3.2: 圖檔 fetch + cache + naming
+##### Step 4.3.2: 圖檔 fetch + cache + naming
 
 依 Stage 1 Step 1.9.2 的 manifest 已 cache 完成。Step 4.3.2 僅做最後 verify：
 
 ```bash
-# 確認所有 manifest 列出的圖檔都存在於 public/article-images/
+## 確認所有 manifest 列出的圖檔都存在於 public/article-images/
 ls public/article-images/{category}/
 
-# 必要時補抓（若 Stage 1 未完成全部圖）
+## 必要時補抓（若 Stage 1 未完成全部圖）
 mkdir -p public/article-images/{category}/
 curl -sL -A "Mozilla/5.0 Taiwan.md/1.0" "{hi-res-url}" \
   -o public/article-images/{category}/{slug}-{topic}-{year}.{ext}
 
-# 確認 file format + 大小 + EXIF GPS 已清
+## 確認 file format + 大小 + EXIF GPS 已清
 file public/article-images/{category}/{filename}
 sips -g pixelWidth -g pixelHeight public/article-images/{category}/{filename} | tail -3
 
-# 必要時 resize / re-encode（hero < 600KB / inline < 400KB）
+## 必要時 resize / re-encode（hero < 600KB / inline < 400KB）
 sips -Z 2000 --setProperty formatOptions 85 public/article-images/{category}/{filename}
 
-# 清 EXIF GPS / 個人資訊（保留 description / copyright）
+## 清 EXIF GPS / 個人資訊（保留 description / copyright）
 exiftool -gps:all= -location:all= -DeviceMfgr= -DeviceModel= public/article-images/{category}/{filename}
 ```
 
-#### Step 4.3.3: Aspect ratio 護欄
+##### Step 4.3.3: Aspect ratio 護欄
 
 ```bash
 bash scripts/tools/check-aspect.sh public/article-images/{category}/{filename}
@@ -2092,7 +2764,7 @@ bash scripts/tools/check-aspect.sh public/article-images/{category}/{filename}
 
 不過 → **換圖**（不要強塞）。
 
-#### Step 4.3.4: Markdown 插入 + caption + alt text
+##### Step 4.3.4: Markdown 插入 + caption + alt text
 
 **標準格式**：
 
@@ -2125,7 +2797,7 @@ _caption 說明文字。Photo: {credit}. [License via {source}]({source-url})._
 - 中文 prose 風格，跟 article 一致
 - 關鍵 metadata（NASA Image ID / Commons file name）放括號註
 
-#### Step 4.3.5: 授權清單同步
+##### Step 4.3.5: 授權清單同步
 
 每張 inline 圖插入後，**強制同步**：
 
@@ -2141,7 +2813,7 @@ imageSource: '{source-URL}'
 **2. 文末「## 圖片來源」section**（所有圖）：
 
 ```markdown
-## 圖片來源
+### 圖片來源
 
 本文使用 N 張公有領域 / CC 授權圖片，全部 cache 於 `public/article-images/{category}/` 避免熱連結來源伺服器：
 
@@ -2149,7 +2821,7 @@ imageSource: '{source-URL}'
 - [圖檔 2 標題](source-URL) — ...
 ```
 
-#### Step 4.3.6: 圖片健康檢查（plugin gate）
+##### Step 4.3.6: 圖片健康檢查（plugin gate）
 
 ```bash
 python3 scripts/tools/article-health.py knowledge/{Category}/{slug}.md --check=image-health
@@ -2165,7 +2837,7 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{slug}.md --check=i
 
 **不通過 → 不進 Stage 5。**
 
-#### Step 4.3.6: 影片 iframe 嵌入（Music / People / Nature 條目升級）
+##### Step 4.3.7: 影片 iframe 嵌入（Music / People / Nature 條目升級）
 
 **觸發時機**：題材含**公開影像作品**且 inline link 不足以承載敘事張力時 — Music 條目（代表作 MV）、Nature 條目（生態直播 / 影像紀錄）、Documentary 條目（紀錄片預告）、Performance 條目（演出片段）。
 
@@ -2243,7 +2915,7 @@ _{source channel} 官方 MV：{跟文章 narrative 呼應的一句話描述}。_
 - Music 條目：[knowledge/People/陳建年.md](../../knowledge/People/陳建年.md) — 4 iframe 沿 1999 → 2000 → 2025 時間軸
 - Nature 條目：[knowledge/Nature/黃魚鴞.md](../../knowledge/Nature/黃魚鴞.md) — 2 iframe (公視報導 + 雪霸育雛直播)，敘事密度型
 
-### Stage 4 Step 4.3 邊界與例外
+#### Stage 4 Step 4.3 邊界與例外
 
 - **Hub 頁**（`_*.md`）：不放圖，跳過 Step 4.3
 - **短修正 / heal commit**：不重新走 pipeline，圖用既有的不動
@@ -2252,7 +2924,7 @@ _{source channel} 官方 MV：{跟文章 narrative 呼應的一句話描述}。_
 - **觀察者直接丟連結**（如林琪兒 ι session）：走 Step 4.3.2-4.3.6 補圖 SOP，不走 Stage 1 Step 1.9
 - **Article ship 後才發現缺圖**：spawn `heal:` commit + 走 Step 4.3
 
-### 跟 spore 配圖區分
+#### 跟 spore 配圖區分
 
 | 圖種                  | 路徑                           | 用途                    | 生成方式                                 |
 | --------------------- | ------------------------------ | ----------------------- | ---------------------------------------- |
@@ -2264,9 +2936,54 @@ _{source channel} 官方 MV：{跟文章 narrative 呼應的一句話描述}。_
 
 ---
 
-## Stage 5: 連（Cross-link，預算 5%）
+---
 
-### Step 5.1: 掃描 knowledge/ 找相關文章
+<!-- ==== source: REWRITE-STAGE-5-CROSSLINK.md @ 70e08c91d ==== -->
+
+## Stage 5 contract — 連（雙向延伸閱讀＋relatedDiary＋Merge 收尾）
+
+> **本檔是 REWRITE-PIPELINE v9.0 的 stage contract**：一個執行者（主 session、sub-agent、
+> 或任何 context 有限的 model）只讀本檔＋本檔 INPUTS 宣告的檔案，就能執行本 stage。
+> 派發路由與全 pipeline spine 在 [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)（薄索引）。
+> 內文自 v8.0 主檔 verbatim 搬移（原行號 RP v8.0 L2254-2390），歷史敘事與教訓保留在文內。
+
+### 執行卡
+
+|                  |                                                                                                                                                                                  |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 掃 sibling、補 forward＋reverse 延伸閱讀、relatedDiary 回扣、（Merge only）Astro redirect 5 lang＋刪舊檔                                                                         |
+| **執行者**       | 主 session                                                                                                                                                                       |
+| **INPUTS**       | canonical 正文；`knowledge/{Category}/` sibling 清單                                                                                                                             |
+| **OUTPUTS**      | 本文＋sibling 延伸閱讀更新；frontmatter `relatedDiary`（工具寫入，禁手編）                                                                                                       |
+| **GATES**        | `article-health.py --check=format-structure`（sibling 預檢）；`python3 scripts/tools/sync-diary-links.py --diary {slug} --article {slug} --apply`；Merge：`npm run build` verify |
+| **context 預算** | 本檔＋成品＋sibling 標題層                                                                                                                                                       |
+
+### AGENT PROMPT
+
+**不派 agent**——cross-link 需要全站語境，主 session 自跑。
+
+### 交付條件（stage 完成的定義）
+
+- [ ] forward＋reverse 延伸閱讀落檔（sibling 先過 `--check=format-structure` 預檢）
+- [ ] `sync-diary-links.py --apply` 完成 relatedDiary 回扣（禁手編 frontmatter）
+- [ ] （Merge variant）Astro redirect 5 lang＋刪舊檔＋`npm run build` 過
+- [ ] commit 後編輯台已更新（HANDOFF 第 3 步）
+
+### HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
+
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
+2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
+3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
+4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
+5. 終點：ship（翻譯走巴別塔，見主檔 §翻譯跨 pipeline boundary）
+
+---
+
+### Stage 5: 連（Cross-link，預算 5%）
+
+#### Step 5.1: 掃描 knowledge/ 找相關文章
 
 ```bash
 ls knowledge/{Category}/ | grep {keyword}
@@ -2279,9 +2996,9 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 - ✅ 兩篇文章有實質的知識關聯（不只是同 category）
 - ❌ 不要為了連結而連結（「台灣」不需要連到每篇文章）
 
-### Step 5.2: 雙向延伸閱讀（forward + reverse）
+#### Step 5.2: 雙向延伸閱讀（forward + reverse）
 
-#### Forward：本文 → sibling
+##### Forward：本文 → sibling
 
 延伸閱讀格式（與 Stage 2 Step 2.6 一致）：
 
@@ -2291,7 +3008,7 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 - [台灣氣候危機與淨零轉型](/nature/台灣氣候危機與淨零轉型) — 氣候變遷如何驅動台灣的能源轉型與產業結構重組
 ```
 
-#### Reverse：sibling → 本文
+##### Reverse：sibling → 本文
 
 到 sibling 文章加指向本文的延伸閱讀條目。
 
@@ -2299,7 +3016,7 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 
 ⚠️ **只改延伸閱讀區塊。不要順便「改善」其他文章的內容。**
 
-### Step 5.3: Sibling 格式預檢
+#### Step 5.3: Sibling 格式預檢
 
 補 reverse cross-link 進 sibling 文章前，**強制跑 sibling 格式預檢**：
 
@@ -2319,7 +3036,7 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{sibling}.md --chec
 
 **觸發**：2026-05-02 EVOLVE-batch — 兩廳院 EVOLVE 嘗試補 reverse cross-link 進中正紀念堂，pre-commit hook 失敗（中正紀念堂有 12 條書目格式 footnote pre-existing 不合 Taiwan.md `[^n]: [Name](URL) — desc` standard）。Defer 到獨立 EVOLVE issue 是正確處理。
 
-### Step 5.3-bis: relatedDiary — 連回寫這篇時的反芻日記（meta-transparency）
+#### Step 5.3-bis: relatedDiary — 連回寫這篇時的反芻日記（meta-transparency）
 
 如果收官時寫了反芻 diary（`/twmd-diary`），把那篇 diary 的 slug 加進本文 frontmatter `relatedDiary`。文章底部會渲染成可點的日記區塊，讓讀者看見「寫這篇的時候，這個系統在想什麼」。
 
@@ -2346,11 +3063,11 @@ relatedDiary:
 - 延續 [MANIFESTO](../semiont/MANIFESTO.md)「我讓你看著我看著我自己」，把文章的生產過程攤給讀者看
 - 反向回扣 HARD step + 工具 canonical 在 [DIARY-PIPELINE Stage 5](DIARY-PIPELINE.md)（寫完 diary 那刻就跑，記憶最新；`/twmd-finale` 自動跑）
 
-### Step 5.4: Astro redirect 5 lang + 刪舊檔（Merge variant only）
+#### Step 5.4: Astro redirect 5 lang + 刪舊檔（Merge variant only）
 
 整併獨有的收尾，**四件事缺一不可**：
 
-#### Step 5.4.1: Astro redirect（5 lang 全寫）
+##### Step 5.4.1: Astro redirect（5 lang 全寫）
 
 `astro.config.mjs` `redirects:` 區塊：
 
@@ -2364,256 +3081,39 @@ relatedDiary:
 
 **不可省任一語系**——舊 URL 在 SC / 外站可能任何語系都有 backlink。漏一個語系就漏一條 SEO 流量。
 
-#### Step 5.4.2: 刪除被併方原檔（5 lang + sync 鏡像）
+##### Step 5.4.2: 刪除被併方原檔（5 lang + sync 鏡像）
 
 - `knowledge/{old-category}/{原檔}.md`（zh-TW）
 - `knowledge/{en,ja,ko,fr}/{old-category}/{translation-slug}.md`
 - 跑 `bash scripts/core/sync.sh`，`src/content/` 鏡像會跟著刪
 - 確認 `git status` 顯示 zh-TW + 4 lang knowledge + 對應 src/content 全部 deleted
 
-#### Step 5.4.3: Cross-link audit
+##### Step 5.4.3: Cross-link audit
 
 - `grep -rn "被刪 slug" knowledge/ src/` — 找所有引用
 - 出現的 wikilink / markdown link 改指 canonical（或刪除）
 - Hub 頁面（`_*.md`）裡的舊條目改指 canonical
 
-#### Step 5.4.4: Build verify
+##### Step 5.4.4: Build verify
 
 - `npm run build` 必須過（會驗 redirect 語法）
 - 隨機開一個被刪的舊 URL 試 redirect 是否真的轉到 canonical
 - sitemap 應減少對應數量的 entry
 
-#### Merge variant commit message
+##### Merge variant commit message
 
 - commit prefix 用 `🧬 [evolve+merge]`（不是純 `[evolve]`）
 - commit body 列：保留誰、為何、EVOLVE 進去什麼、刪了哪幾個檔、設了哪幾條 redirect
 - reply issue 必附 commit hash，並說明「未來類似問題會走整併變體 SOP」
 
-### Boundary variant cross-link
+#### Boundary variant cross-link
 
 每篇單獨走完整 Stage 1-5 流程。Step 5.2 雙向延伸閱讀時要互相反向回補（C 寫完 → 加進 B/D 延伸閱讀；B 寫完 → 加進 C/D；以此類推），形成完整 sibling 網路。
 
-#### Boundary variant commit message
+##### Boundary variant commit message
 
 - 多篇分多 commit / 多 phase（不要硬塞同 commit）
 - 每個 phase commit prefix 仍用 `🧬 [semiont] rewrite:` + 描述含 `Phase N/M`
 - Issue 留 open，每個 phase 完成 update comment，全部 phase ship 後才 close
 
 ---
-
-## ✅ Article shipped (zh-TW canonical)
-
-中文 ship 後，**翻譯走獨立 pipeline，不在本 pipeline scope**。
-
-## 翻譯：跨 pipeline boundary 指標
-
-> **本 Pipeline 只產中文版。100% 的 token 預算都給中文版**。翻譯**不**在本 pipeline scope，是另一條獨立 pipeline 的職責。
-
-Stage 5 完成（中文版 ship）後，視觸發條件決定走哪條翻譯 pipeline：
-
-| 觸發條件                               | 走哪條 pipeline                                                            |
-| -------------------------------------- | -------------------------------------------------------------------------- |
-| 觀察者拍板「現在翻單篇 X 語言」        | [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)                         |
-| Routine 觸發多語 batch sync（5 langs） | [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md)（巴別塔） |
-| 不翻 / 之後再說                        | 結束。中文版本身就是完整 ship 結果                                         |
-
-**為什麼從本 pipeline 抽掉**（v4.1 起，v5.0 保留）：
-
-- Stage 6 在 v4.0 是 pointer-only section（只是「詢問觀察者要不要翻 + 跳到另一檔」），不算真正的 stage
-- 抽掉後，主 pipeline 變 5 stage 線性（Stage 1-5），更乾淨
-- 翻譯有自己的觸發、預算、品質 gate（巴別塔的 priority schema P0/P1/P2/P2.5/P3 + 4-tier cascade），不該被當成 REWRITE 的尾巴
-- 對應觀察者 callout（2026-05-11 sad-shockley）：「翻譯環節可以整個抽掉，直接變指標到巴別塔 pipeline」
-
-**REWRITE 跟翻譯 pipeline 的分工**：
-
-- REWRITE-PIPELINE：產 high-quality **中文版**（zh-TW canonical），到 ship 上 main 為止
-- TRANSLATION-PIPELINE：單篇 X 語言翻譯（觀察者主動觸發）
-- SQUEEZE-MODELS-MAX-PIPELINE：多語 batch sync（routine 自動跑，主權的巴別塔）
-
----
-
-## Cron 模式 + Routine 飛輪
-
-> Cron 在單一 session 執行，無法真正分三個 session，但在 prompt 中強制分階段思考。
-
-### Token 預算分配
-
-| 階段      | 佔比   | 常見錯誤                          |
-| --------- | ------ | --------------------------------- |
-| Stage 1   | 35-40% | 搜太多、每個結果都 web_fetch 全文 |
-| Stage 2   | 40-45% | 前半段太細、後半段沒力            |
-| Stage 3-5 | 15-20% | 跳過驗證直接 commit               |
-
-### Cron 鐵律（與手動執行不同的地方）
-
-- **每批最多 1 篇**：v1 時期每批 3 篇，品質明顯不穩。改成每批 1 篇後品質大幅提升
-- **不要 `git add -A`**：只 add 改動的文章和同步後的 `src/content/` 對應目錄
-- **不要跑 `npm run build`**：Build 由 CI/CD 處理。sub-agent 跑 build 容易 timeout 且浪費資源
-- **至少 7 分鐘**：Stage 1 3min + Stage 2 2min + Stage 3-4 2min = 最低要求
-
-### 選文指令
-
-```bash
-cd ~/taiwan-md && git pull
-# 佇列頂端，跳過已重寫的
-head -30 scripts/tools/rewrite-queue.txt
-git log --oneline --since='2026-03-20' | grep -i 'rewrite:' | head -30
-```
-
-### Commit 指令
-
-```bash
-bash scripts/core/sync.sh
-python3 scripts/tools/article-health.py knowledge/[Category]/[文章名].md --profile=rewrite-stage-4
-git add knowledge/[Category]/[文章名].md src/content/
-git commit -m "rewrite: [文章名] — EDITORIAL v6.3 + Pipeline v5.0"
-git push
-```
-
-### Cron 狀態
-
-| Cron                              | 狀態        | 說明                                                        |
-| --------------------------------- | ----------- | ----------------------------------------------------------- |
-| Taiwan.md Article Quality Rewrite | ❌ disabled | 每小時 1 篇，Opus model（舊）                               |
-| taiwan-md-rewrite (v1)            | ❌ disabled | 舊版每小時 3 篇，已淘汰                                     |
-| taiwan-md-content-sprint          | ❌ disabled | 內容衝刺（新文章），已淘汰                                  |
-| **twmd-rewrite-daily**            | ✅ active   | 16:16 daily Opus（per [ROUTINE.md](../semiont/ROUTINE.md)） |
-
-### Routine 飛輪整合（v6.1 升級為 full-cycle，2026-05-24 哲宇 directive）
-
-REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）。**v6.1.1 起每天 18:00 晚間自動跑「研究 → 寫文 → 孢子 → 發文 → harvest」全 cycle**（v6.1.1 從 00:00 搬到 18:00 對齊台灣社群 20:00-22:00 prime time post）：
-
-- **觸發**：`/twmd-rewrite` skill
-- **Model**：Opus
-- **Cadence**：每天 18:00 晚間（v6.1.1 — cycle 跑 ~150 min ~20:30 結束，spore post 落在台灣晚間社群活躍時段；v6.1 原 00:00 半夜 chain 已抽出）
-- **Skill SOP**：[`~/.claude/scheduled-tasks/twmd-rewrite-daily/SKILL.md`](https://github.com/anthropics/claude-code-skills)（local mirror）
-- **Stage chain（v6.1 full cycle）**：
-  ```
-  Stage 0 BECOME → Stage 1 git pull → Stage 2 article ship (REWRITE Stage 0-5 全跑) →
-  Stage 3 commit + push article → Stage 4 SPORE chain（PICK=剛 ship article / VERIFY / WRITE / SHIP）→
-  Stage 5 CI/CD wait gate v3.7（60 min cap，timeout → defer 不 abort）→
-  Stage 6 social post（both Threads + X default per Routine context v3.8；單發只在 article frontmatter 標 `platformExclude` 才觸發）→
-  Stage 7 SPORE-LOG + sporeLinks frontmatter + commit + push → Stage 8 /twmd-finale
-  ```
-- **Quality gate (article)**：article-health.py rewrite-stage-4 hard=0 warn=0 + 三源研究落檔 + 腳註合規 + frontmatter complete + word-count ≥ 4500
-- **Quality gate (spore)**：article-health.py prose-health hard=0 score ≤ 3 + spore-writing hard=0 + 配圖 generated + AI pre/post-ship verify 5+6 條 PASS
-- **Boundary**：本 routine 上限 ~150 min wall-clock（article ~60 min + spore prep ~15 min + CI wait ≤ 60 min + post ~10 min + log ~5 min）；超過 → spore defer + LESSONS entry（不 abort article ship）
-- **不問 observer 鐵律**：所有 decision point 走 [SPORE-PIPELINE §Routine context 自動決策 defaults table](../factory/SPORE-PIPELINE.md#-routine-context-自動決策-defaults-v37-新增)
-
-**為什麼 v6.1 升 full-cycle**（哲宇 2026-05-24 directive）：article ship 跟 spore 是同一條進化飛輪的兩端，分開跑會：
-
-1. 缺一致性（article + spore 不同步、不同 angle）
-2. Observer friction（每天要分兩次觸發、各自 review）
-3. Cycle smoothness 數據缺失（無法 measure article→spore→broadcast 整體 throughput）
-
-合一變 daily routine 後：每天 1 篇文章 + 1-2 條孢子（Threads ± X）自動發出，**進化飛輪自動轉**，observer 只在 escalation 時介入。
-
-完整 routine 規格 → [ROUTINE.md §TWMD rewrite (daily)](../semiont/ROUTINE.md)。設計脈絡 + cycle smoothness 數據 → [reports/spore-pipeline-evolution-2026-05-23-article-to-spore-to-broadcast-cycle.md](../../reports/spore-pipeline-evolution-2026-05-23-article-to-spore-to-broadcast-cycle.md)。
-
----
-
-## 品質分級
-
-| 等級       | 條件                                                     | 動作                    |
-| ---------- | -------------------------------------------------------- | ----------------------- |
-| ✅ PASS    | hollow ≤ 3 + 五指全過 + 結尾不是罐頭 + word-count ≥ 4500 | commit + push           |
-| ⚠️ PARTIAL | hollow ≤ 3 但結尾/富文本不足 / word-count 4000-4499      | 標記待改善，下輪優先    |
-| ❌ FAIL    | hollow > 3 或有事實錯誤 / word-count < 4000              | 不 commit，回到 Stage 1 |
-
----
-
-## 實戰教訓索引
-
-1. **一次一篇**：多個 sub-agent 同時跑 = 搶檔案 + timeout + 殭屍 session
-2. **至少 7 分鐘**：Stage 1 3min + Stage 2 2min + Stage 3-4 2min = 最低要求
-3. **prompt 裡寫「立刻執行，不要重述任務」**：否則 AI 花 30% 時間重述指令
-4. **量化指標是 pre-filter 不是品質保證**：塑膠句數=0 ≠ 好文章，必須逐篇讀
-5. **塑膠會變種**：AI 把被禁句式微調成看似不同的版本（"展現了"→"印證了"→"彰顯了"）
-6. **Build 驗證不能省**：YAML frontmatter 偶爾壞掉，一篇壞 = 整個 category 炸
-7. **結尾最後寫 = 品質最差**：v2 改成結尾先行（Stage 2 Step 2.2）
-8. **觀察者反覆 callout 同問題 → REFLEXES #15 反覆浮現要儀器化** → 升 plugin gate（chronicle-lead / word-count / Title+desc spine sync）
-9. **EVOLVE 容易漏 Stage 1 Step 1.9 媒體素材**（v5 之前為 Step 1.14）：pre-2026-04-28 條目多無 hero / 無 §圖片來源 = pre-gate 遺珠，補 EVOLVE 時必查
-10. **EVOLVE 容易漏 frontmatter spine sync**：title 是百科 stub / description 沒吃進新核心 = SC 顯示舊 hook 但讀者點進來看到新內容 = 落差
-
----
-
-## Quick Commands（手動執行用）
-
-```bash
-# 寫完文章後一次跑完 Stage 4 驗證
-bash scripts/core/sync.sh
-python3 scripts/tools/article-health.py knowledge/{Cat}/{文章}.md --profile=rewrite-stage-4
-python3 scripts/tools/article-health.py knowledge/{Cat}/{文章}.md --check=image-health
-
-# 全部通過才 commit
-git add knowledge/{Cat}/{文章}.md src/content/
-git commit -m "🧬 [semiont] rewrite: {文章名} — EDITORIAL v6.3 + Pipeline v5.0"
-git push
-```
-
----
-
-_v7.3 | 2026-06-13 persona-stage0（哲宇 directive 儀器化）— Stage 0 exit gate 儀器化：把 v7.2 的「三件套都必做」從 manual-grep 升成可執行工具 `research-report-health.py {report} --stage 0`。新 `grade_stage0()` 檢查 §觀點成型 + `viewpoint_formed: true` + 六核心結構 ≥4/6 + §20 路 persona + 搜尋日誌 section + **≥10 distinct 來源**（「≥20 探索真的發生」的 proxy——persona-only 只發散問題 → ~0 來源 → FAIL）。Stage 0 跑完、進 Stage 1 前必跑，hard_fail=0 才過；Hard Gate Inventory §觀點成型落檔 + Stage 0 收尾 checklist 改引工具。dogfood：看不見的國家 report PASS（六項全 ✅）、persona-only 模擬 FAIL（5 hard，抓到「有 persona 缺探索」）。哲宇 callout「儀器化嚴格加入階段閘門 + Stage 0 跑完也要跑 report 檢查閘門」。對應 REFLEXES #15（規則要能執行才算規則——manual grep 是裝飾，CI-able 工具才是閘門）+ #66（gate 用真產出 dogfood 校準）。_
-
-_v7.2 | 2026-06-13 persona-stage0（哲宇 callout）— Stage 0.6 anti-drift（persona 是「額外」不是「取代」）：哲宇觀察到 v7.1 上線後其他 session 只召喚 persona、跳過原本的探索搜尋與初步研究。git diff v7.0→v7.1 確認 persona 是**純額外插入**——0.6.1 六核心問題 + 0.6.4 ≥20 探索搜尋未被刪改，drift 來自 0.6.1-bis 視覺權重蓋過原步驟。修補四處：(1) Stage 0.6 頂部加「🚨 三件都必做、缺一不進 Stage 1」框（六核心問題 [編輯視角] + persona [讀者視角] + ≥20 探索 [事實地基]，三個不同動作互不取代，只跑 persona = 跳階段違反 MANIFESTO §8）；(2) 0.6.1-bis 加「額外發散不取代研究」guard；(3) Stage 0 收尾 checklist 補「≥20 探索 query 已落 §探索搜尋紀錄」獨立驗收項（persona 不算搜尋）；(4) Hard Gate Inventory §觀點成型落檔 verify 升「三件套全到，persona-only 缺 ≥20 探索 = FAIL」。對應 REFLEXES #15（規則要能執行才算規則 / 視覺顯著的新步驟會掩蓋既有紀律）+ MANIFESTO §8。_
-
-_v7.1 | 2026-06-13 persona-stage0（哲宇 directive）— Stage 0 觀點成型加 persona 發散：新增 **Step 0.6.1-bis「20 路 persona 切入點」**——除了 0.6.1 六核心問題（總編輯自問）外，額外派 **4 個 Sonnet sub-agent 平行**模擬 20 個不同年齡/國籍/性別/社會處境的人（4 軸各 5 persona，A 年齡 / B 國籍·距離 / C 社會處境 / D 與題目關係；A/C/D 台灣在地 + B 外國·離散）聽到題目會問的問題，當研究入射點。主 session merge 後每題標 🆕 新入射角（merge 進既有 §切入點清單，Stage 1 必取材）/ ✅ 已被六題覆蓋 / ⛔ 超 scope（落 `rationale.whats_excluded`）。配套：落 research report §20 路 persona 切入點 + Stage 0 收尾 checklist 加驗收 + 多 agent 編排表加 4-Sonnet row + Hard Gate Inventory 補 persona sub-section grep。設計嚴守 [REFLEXES #42](../semiont/REFLEXES.md)（平行不 sequential / 落檔 hard gate / 主 session audit / ❌✅ 反例對照）+ #31（agent null 不盲信）+ #15（🆕 題接進既有 §切入點清單而非另開平行 checklist = 非裝飾）。誕生事件 = 本 pipeline 的自我 dogfood：2026-06-13《看不見的國家》ship 後哲宇追問「影響 / 心得 / 還在努力的人」三題（六題沒覆蓋）→ 觸發 EVOLVE 4800→6630 字升 S 級 → 把「觀察者會不會追問」內化成 Stage 0 自動發散。對應神經迴路「Stage 1 的 20+ 是 anchor 密度不是數量」的 Stage 0 版。_
-
-_v7.8 | 2026-07-05 柯智棠健檢 round 2（哲宇 directive「儀器化分部報告品質硬門檻＋通知呼叫 session 疑慮/為什麼/思考方向，主 report 也要」）— **收件 gate 儀器化**：(1) 新儀器 `agent-report-health.py`——orchestrator 收到每個研究 agent 的 task-notification 後、開始任何合成之前跑，驗六件事（存放位置 repo 內 / 體積 ≥8KB / 逐條軌跡 section / 軌跡 ≥10 行 / 宣稱 vs 記錄比 ≥50% / 五段結構 ≥4/5），每條疑慮附「為什麼＋思考方向」，FAIL = 不准合成 §6；閾值由真實 corpus 校準（4 份壓縮版 aggregate 5-6KB/軌跡 2-9 行全攔 hard=4，8 份真 final message 14-38KB/13-62 行全過）(2) `research-report-health.py` v2.1 疑慮通知層——主 report 每條 fail/warn 同樣附為什麼＋思考方向（--json 含 concerns[]）(3) Step 1.8-bis 步 2 從手動 test -f/grep 升為儀器指令 (4) Hard Gate Inventory 加「分部報告收件 gate」row。設計＋校準數據：[reports/agent-report-health-instrument-design-2026-07-05.md](../../reports/agent-report-health-instrument-design-2026-07-05.md)。對應 REFLEXES #81（收件三十秒紀律，同日 promote）+ #15 + #66 + #69。_
-
-_v7.7 | 2026-07-05 柯智棠健檢（哲宇 goal directive「徹底健檢＋自我進化」）— **Async agent 時代 raw 保全**：Claude Code 改版後 sub-agent 預設 async 啟動（spawn 只回 launched，回報走 task-notification），柯智棠 EVOLVE 揭露新斷點：prompt 對、agent 對（4 隻各回 ~20KB 逐條軌跡，實測 224 次 web 操作），**orchestrator 收到通知後把 raw 壓成 6KB 摘要存 scratchpad**，report §8 剩 9 行 pointer ＋「commit 時 raw 隨 session 記錄留存」幻覺 policy，gate v1 照樣 PASS → writer 只吃薄報告 → 文章品質下降。同日普查再挖出兩病例：蘇打綠（pointer 指 /tmp，及時救回）、台灣醫療與全民健保（自稱「永久存放於 /tmp」，5 份 raw 已永久蒸發）。修補四件套：(1) §多 agent 編排鐵律 8「raw 走檔案通道、禁 aggregate-on-receive」(2) Step 1.7.2 和解規則 +2 條（落檔時機＝收到的第一個動作 / 禁 ephemeral 存放）(3) Step 1.8-bis async 三步 SOP（agent 自落檔 ＋ notification 到手先落檔 ＋ gate 收口）(4) `research-report-health.py` v2 兩條 hard gate（§8 有效密度 ≥120 行、ephemeral pointer = 0，單檔/分檔兩 pattern 都認，六案 dogfood 校準）。另修 Step 1.7「Writer 只吃 §6」v6.3 殘留句對齊 v7.4。診斷全文：[reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)。對應 REFLEXES #42（orchestrator 版偷吃步）+ #31 + #22 + #15。_
-
-_v7.6 | 2026-06-16 哲宇 directive「升級」— 新增 §Stage 2.5 source-fidelity gate（來源逐字回溯）+ Hard Gate Inventory 一列。distill 自 LESSONS meta-umbrella `stage2-quote-context-collapse`（vc=8）：Stage 2 writer 把 Stage-1 研究結論 collapse 成偏記憶/印象/字面/未驗證 claim，structure gate 全綠 ≠ 事實對。三道 gate：(1) fetch 被引用來源 artifact 逐字比對（不只比 report，instance #8 大鮪鱸鰻）(2) title+desc+30 秒概覽 門面句 scope（instance #6 迷音）(3) fresh-writer 長文 fact-check agent pass（instance #7 報導者）。與 Step 3.6 成品總驗互補：3.6 驗成品對 report，2.5 驗對真實世界來源。完整 8 instance 證據鏈見 LESSONS-INBOX §已消化。_
-
-_v7.0 | 2026-06-10 嘻哈饒舌 — Stage 3 嚴謹化：新增 Step 3.6 成品總驗三關（assembled-product verification）。Stage 3.1-3.5 驗草稿、3.6 驗組裝後成品，A 級/大眾文/勘誤後/手術疊 ≥3 輪 HARD。三關：(1) **原子重驗 fan-out**——拿成品按段落派 adversarial verifier，專抓草稿驗證放不到的四種 drift（引號逐字 diff / 詮釋 gloss 是獨立 atom / footnote-claim 綁定反查 / writer 自漂移 superlative+日期），官方一手 > 媒體轉述，修正 append research report §audit；(2) **順稿**——手術疊輪後的縫線疤（段落牆 / framing 詞 / 機械自述 / 概覽 description 結尾的一致性殘渣）；(3) **視覺同步**——每個媒體貼著它所講的敘事段。誕生事件：台灣嘻哈饒舌 EVOLVE Stage 3.1-3.5 全綠 ship 後，讀者老莫（文章引用來源作者本人）抓到詮釋 gloss 錯（寶哥=宋岳庭，實為 MV 導演黃信佳「大寶導」）→ 哲宇 directive「越大眾的文章越多人檢視，要再加一道最後成品的查核關卡」→ 4 verifier 成品重驗再抓 3 ❌ + 11 ⚠️ + 順稿 28 處 + 媒體 3 張重新對位。完整 audit：reports/research/2026-06/台灣嘻哈與饒舌發展.md §9。對應 REFLEXES #31（sub-agent claim 是線索）+ MANIFESTO §10 幻覺鐵律 + 「拿成品派 agents 再查驗」哲宇拍板模式。_
-
-_v6.9 | 2026-06-07 複雜生活節（哲宇 live review polish）— 三個閱讀品質儀器化：複雜生活節上線後哲宇逐段讀，給三條回饋「分段窒息 / 影片 caption 底線變字面 / 歐化句」，三條都「同樣儀器化放進 pipeline」。(1) **`paragraph-rhythm` R4 單段 ≤ 280 字（牆／窒息感）**——R1 抓原子化（太短）、R4 抓對稱另一端（太長／牆）；校準好範本 max 黑冠麻鷺 149 / 天下 217、牆 複雜順稿前 341 / 設研院 312；WARN soft-launch。(2) **`prose-health` 歐化「(不)是 X 的」判斷句**——curated 評價形容詞 + 的後接標點 lookahead，避開合法「是我的／是教書的」；catch 複雜 1 條漏網（界線是模糊的）。(3) **`image-health` caption 缺空行**——`</div>`／`</iframe>` 緊接 `\_caption_` 無空行不 render italic（Step 4.3.6 補 ⚠️）；spawn writer agent 寫 iframe 最常漏（複雜 3 支全漏）。dogfood（REFLEXES #66）：5 named 範本 0 false-positive。canonical：EDITORIAL §段落呼吸 四條鐵律 + §歐化八病 + Step 4.3.6。對應 REFLEXES #15 反覆浮現要儀器化（讀者/觀察者 callout → plugin gate）。\_
-
-_v6.8 | 2026-06-07 複雜生活節 — 媒體完整度低標提升（深掃協議 + length-scaled 硬底）：哲宇 directive「調整 rewrite-pipeline，媒體素材完整度未來文章都以複雜生活節規格為標準，提升低標」。複雜生活節 worked example——同一 niche 主題 curl/WebFetch 抓圖全 404 → 一度 text-only，改用 **Chrome MCP 驅動瀏覽器讀 rendered DOM** 後 9 圖 + 3 官方影片（教育部青年署 / TEDxTaipei / 數位時代）全挖出來，5.4k→10.5k 字擴寫承載。**核心洞察：媒體完整度是素材挖掘深度問題，不是有無問題**。三層升級：(1) **Step 1.9.0 深度媒體掃描協議（HARD）**——出 no-media 結論前必跑 Chrome MCP rendered-DOM 圖掃（JS-CDN curl/WebFetch 失效）+ YouTube 官方頻道影片掃，落 §6 negative finding；(2) **image-health length-scaled**（`max(3, round(prose-CJK/1200))` → 4500→4 / 7000→6 / 9000→8，rewrite-stage-4 HARD，prose-CJK 排除 參考資料 footnote 段對齊 density 基準）；(3) **media-richness** 靜態圖 floor 2→3 + People/Music/Nature 影片 INFO→WARN；**paragraph-rhythm** density floor 0.7→0.8。**dogfood（REFLEXES #66 真產出校準，先抓到 base 4 + full-CJK 兩個 bug）**：複雜 13 / 設研院 5 / 天下 6 / 黃魚鴞 3 / 陳建年 8 named 範本全過、text-only（雜學校 0）失格 → EVOLVE。對應 REFLEXES #15 儀器化 + #66 gate dogfood 校準 + #50 pipeline auto-detect（深掃變 SOP 必經）。_
-
-_v6.7 | 2026-06-04 深度研究-設計研究院 — 配圖證據層級（Step 1.9.2 選圖第一問）：v6.6（天下）升級的是媒體的「量／密度」（圖+影片 ≥8 / band 0.7–1.2/1k）；v6.7 補上正交的「質／證據」軸。**Tier A 主體成果圖**（改造後成果／作品本身／當事人在做那件事）> Tier B 脈絡圖 > **Tier C generic 填位圖**；機構／設計／產品／作品／工程／事件題材 Tier A 優先，Tier A 找不到 CC 就走 fair use editorial commentary（來源優先序第 8 點），不退用 generic CC 填位（授權便利不凌駕證據強度）。判準訊號：caption 一旦得寫「示意／非當事／非改造後」= Tier C 在報警，回頭找 Tier A。完整層級表 + source 技巧 canonical 落 [EDITORIAL §媒體編織 §圖片的證據層級](../editorial/EDITORIAL.md)。觸發：設研院文章 5 張原本全是情境圖（松山文創×2 / generic 投開票所 / 中山站既有空間「非改造後」），哲宇 callout「圖要補關鍵案例被改造完後的圖（fair use）」→ 換 3 張 TDRI 改造後成果圖（衛生所候診區／公投公報／中山站售票區，cache 本地 + fair use 標註）。fair use scope 沿用 EDITORIAL 2026-05-09 既立的機構公開作品編輯評論。對應 REFLEXES #15 儀器化。_
-
-_v6.6 | 2026-06-04 天下雜誌 — 媒體素材要求 + 圖文配比儀器升級：哲宇 directive「提升 rewrite-pipeline 媒體素材要求 + 文章健檢工具，想要圖+影片>8 或圖文配比更精妙評估，參考設研院/黃魚鴞富媒體文章自我進化」。**儀器先於規則**：量測 8 篇校準語料（黑冠麻鷺/黃魚鴞/陳建年/周蕙/張懸/設研院/中華台北/天下，prose-CJK 同軸）發現**舊 paragraph-rhythm 上限 0.8 反而誤判哲宇點名的富媒體範本**（設研院 0.91 / 天下 0.92 / 黃魚鴞 0.82）為「密度偏高」——儀器跟 directive 矛盾。修補：(1) `paragraph-rhythm` R3 從單一 ceiling 升**密度 band**（floor 0.7 media-poor / ceiling 0.8→1.2 / hard 1.5+median<55），catch 媒體偏少（中華台北 0.56）也 catch atomization（周蕙 1.76）；(2) `media-richness` 加 length-scaled count target（圖+影片 ~1/1.1k 字，長文朝 ≥8，INFO）+ 多模態 nudge（People/Music/Nature 0 影片提示補官方影片）；(3) media-richness 進 rewrite-stage-4 profile。富媒體範本（設研院 image-rich / 黃魚鴞 video-rich / 陳建年 8 multimodal / 天下 mixed）寫進 Step 1.9.2 + EDITORIAL §媒體編織 baseline。dogfood：8 篇驗證 band 正確分流（rich 範本 clean / media-poor WARN / atomization HARD）。對應 REFLEXES #15 反覆浮現要儀器化 + #59 製造數字的人最易被數字騙（量測校準不憑感覺）。_
-
-_v6.5 | 2026-06-04 深度研究-設計研究院（同 session 第二輪進化）— 研究方法論 grounded in 12 份範本：哲宇 directive「多讀 >10 篇做得好的，統合出完整方法論再進化一番」。3 個 Explore agent 完整讀 12 份最高分歷史 report（毒馬鈴薯 85 來源 / 沈伯洋 132 來源 / 吳哲宇 / 雷亞 / 認知作戰 / 前途決議文 / 聶永真 / 蘋果西打 / 海底電纜 / 巴拉圭 / AIA / brian-tseng），萃取共通方法論 DNA。**核心發現 = 信心程度系統（哲宇記得的那個，12/12 都有）**：三層 `verification:` frontmatter（high_confidence ≥2-3 源 verbatim 一致 / single_source 標 need cross-check / unverified 搜尋無果不寫進文章），每條附「憑什麼是這層」基礎 + 細 notation（★★★ 一手 DOI / 🟢🟡🟠 / `confidence: high` + Ctrl-F 欄 / ⚠️ 必驗）。Step 1.7 SSOT 七段→**八段**：加 §4 引語庫（逐字 + URL + 場合 + Ctrl-F，記者轉述分開）+ §5 反例/不能說的話/不採信清單（護欄前置）+ §3 數字分歧揭露 + §2 negative findings 必記 + §6 Stage 2 操作規範（hook/小標題/校正點/幻覺 Ctrl-F 清單）。方法論 canonical 落 RESEARCH.md §二之二（信度三層 + 10 骨架）。統合報告：[reports/research-methodology-synthesis-2026-06-04.md](../../reports/research-methodology-synthesis-2026-06-04.md)。對應 REFLEXES #16 多源 + #22 raw 永不刪 + #15 儀器化。_
-
-_v6.4 | 2026-06-04 深度研究-設計研究院 — 研究階段升格對標研究所論文標準：Stage 0.6.4 探索搜尋 ≤5→**≥20**；Stage 1.1 ≥40→**≥80** + 4 條來源多樣性配額（中≥40 / 英≥20 / 一手≥15 / 反方≥5）；Step 1.7 research report 從「agent 輸出 + header」升格**SSOT 七段結構**（觀點成型 / 搜尋日誌方法論 / Findings by sub-topic 標信度 / Clean Fact-Pack 合成層 / 參考文獻 / Verification Table / **§7 agent raw 全 append 不摘要**）；新增 `scripts/tools/research-report-health.py` HARD GATE（distinct≥25 / 英文≠0 / 一手≠0 / 搜尋日誌 section / 信度標記≥8 / 行數≥300）儀器化 4 條配額；§多 agent 編排修「合成 clean fact-pack」regression（synthesis 是疊加層不替換 raw §7）+ 第 6 鐵律。觸發：量測 226 份歷史 report —— 57% 英文/國際/學術來源 = 0、42% distinct 來源 ≤ 10，且 v6.3 orchestration「合成 fact-pack」把 agent 原始搜尋軌跡丟掉（這次 TDRI session 報告退化成 192 行摘要 vs gold standard 毒馬鈴薯 85 來源 / 1,699 行）。哲宇 callout「研究報告品質下降 / 搜尋次數變少 / 沒有中英文不同來源」+ directive「Stage 0 20+ / Stage 1 80+ / 全部寫回 SSOT / 對標研究所論文」。診斷 + 設計：[reports/rewrite-pipeline-research-ssot-evolution-2026-06-04.md](../../reports/rewrite-pipeline-research-ssot-evolution-2026-06-04.md)。對應 [REFLEXES #15 反覆浮現要儀器化](../semiont/REFLEXES.md) + #22 raw 永不刪 + #16 多源驗證。_
-
-_v6.3 | 2026-06-01 170717-manual — 多 agent 編排（Orchestrator + tiered sub-agents）：新增 §多 agent 編排 canonical — 主 session 當 orchestrator 不當 writer，各 stage 派對應 model tier（Stage 0.6 觀點＝Opus agent 探索 2× / Stage 1 研究＝Sonnet parallel fan-out falsification-first / Stage 2 寫＝fresh Opus agent 只吃 fact-pack / Stage 3.5 查證＝Sonnet verifier fan-out ＋ 主 session spot-check）。把 v6.2 §0.2-bis 規則 2-3（觀點 blind to errata ＋ 寫作 context 隔離）從 callout-only 泛化到所有 depth EVOLVE/Fresh。5 條鐵律含「sub-agent claim 是線索不是 oracle（REFLEXES #31）—— 主 session 重驗是 hard gate」（worked example：writer agent 自報全綠但 spot-check 抓到它新長一句杜撰賈樟柯引語）＋「媒體用已驗證官方 URL 不採 agent 自選 ID」。觸發：哲宇 codify 2026-06-01 台灣影視配樂第三輪重寫的完整多 agent worked experience。dogfood：本次重寫即此編排（觀點 fresh agent blind to errata / fresh Opus writer / 主 session 一手 factcheck 抓杜撰引語 + 媒體換回 morning 已驗證官方 iframe）。_
-
-_v6.2 | 2026-06-01 170717-manual — 拆除防火牆（Teardown Firewall）for callout-triggered EVOLVE：新增 Step 0.2-bis（投毒機制 + 三條防火牆規則：callout→純 fact-checklist 用完即丟 / 觀點 blind to errata / Stage 2 context 隔離）+ Step 3.2-bis（校正焦慮掃描 backstop 自檢句 + grep 校正型句式 + 論點脊椎自檢）+ Step 0.1 callout-triggered 觸發旗標（正交於 4 模式）+ Hard Gate Inventory 加「校正焦慮掃描」row + 反射 #4 拆除防火牆 + 反轉 v6.0 reflexes #3 EVOLVE 條款（「可參考為什麼舊文寫不好幫助觀點成型」是投毒源，移除）。觸發：2026-06-01 配樂專業讀者 peilinwu0702 第二輪 callout —— `台灣影視配樂` EVOLVE 後事實層修對（25 footnote 全一手）但「整篇充滿 AI 道歉/澄清、架構從頭就有問題」。根因：舊文 body + callout 同在 session context → 觀點變成校正清單昇華 → 9 處校正型句 + 2 個校正型策展 box + 投毒論點脊椎「搞錯名字就是搞錯聲音的出處」。哲宇診斷「舊文+舊 context 投毒」比「callout 過擬合」更精準 —— 架構解（context 隔離）非守備修補（自檢句）。診斷報告：[reports/reader-callout-pipeline-diagnosis-2026-06-01.md](../../reports/reader-callout-pipeline-diagnosis-2026-06-01.md)。對應 `feedback_red_line_anxiety_leak` 架構級放大 + REFLEXES #16 + #15（規則要能執行）。_
-
-_v6.1 | 2026-05-2x — footnote plugin gate：Stage 3 加 article-health.py --profile=rewrite-stage-3-5（footnote-format + footnote-density）為 citation hard gate。_
-
-_v6.0 | 2026-05-11 admiring-montalcini-ec53b4 — Stage 0 觀點獨立 stage：新增 Stage 0「觀點」（6 step：模式識別 / 既有素材萃取 / 選 canonical / 範圍切片 / 載入方法論 / 觀點成型）作為 editorial vision 階段，與 Stage 1 取材的 data gathering 階段認知模式分離。觀點成型 6 核心問題（記憶 / 多元面貌 / 想法感受 / 歷史脈絡 / 社會關聯 / 類型專屬）+ 7 品質維度（溫度 / 人味 / 故事 / 策展 / 觀點 / 體驗 / 歷史社會關聯）+ 5 row 類型加權矩陣（People / Food-Culture / History-Politics / Tech-Industry / Nature-Geography）。允許輕量探索性搜尋 ≤ 5 次。§觀點成型 落 research report + frontmatter `viewpoint_formed: true` 為 HARD GATE，不過不進 Stage 1。原 Stage 1 Step 1.6-1.14 重編為 1.1-1.9，原 Step 1.1-1.5 移至 Stage 0。觸發：哲宇 2026-05-11 callout「重點在溫度 / 人味 / 故事 / 策展 / 觀點 / 體驗 / 與社會歷史環境跟我們人生的關聯」+「希望加一個觀點成型的步驟，總編輯視角看這個主題怎麼寫才會立體」+「想要獨立一個 stage」。Dogfood: [蘋果西打 PR #1041](https://github.com/frank890417/taiwan-md/pull/1041) research report 補 retroactive §觀點成型 section 作為首個案例。_
-
-_v5.0 | 2026-05-11 admiring-cohen-8b68fc — Stage spine restoration：heading 階層 H1-H4 統一深度（文件 H1 / Stage H2 / Step H3 / sub-step H4）+ Step 編號正規化 N.M（解 v4.1 `## Step A-X` 5 套並排 grep collision）+ ASCII spine 顯化在頂部 + Stage 6 翻譯維持 v4.1 抽掉狀態指向巴別塔。觸發：哲宇 callout「用 v4 的精神進化 v3 — 所有步驟都是相同的，每篇都要跑過，只有第一個步驟有判定模式」。設計理由：[reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md](../../reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md)。_
-
-_v7.9 | 2026-07-06 INDIGO-REWRITE — **Step 0.6.1-bis 收斂為 PERSONA-PIPELINE 薄殼 pointer**：PERSONA-PIPELINE.md 誕生於 2026-06-13（v1.0），自己的 §6 callers 表早就宣告「REWRITE Step 0.6.1-bis v7.2 thin caller」，但 v7.3 到 v7.8 六次版本升級都沒真的把 inline 邏輯拔掉：20 archetypes 原型表、4-agent call contract、輸出 schema、cost guard、❌✅ 反例表全部繼續留在 REWRITE 自己身上，跟 PERSONA-PIPELINE canonical 平行存在一年沒被抓到（[REFLEXES #56](../semiont/REFLEXES.md) pipeline canonical ↔ production drift 的具體案例）。逐句對照兩份文件後發現這份 inline 副本已經漂移：D 軸少列一個「再現主權敏感者」原型（canonical §1 有 5 個、inline 只剩 4 個卻仍宣稱 5 persona）、完全沒提 PERSONA-PIPELINE §4 的 reuse-from-report SSOT 規則（persona pool 算一次、多 caller 共享，SPORE-PIPELINE 的 hook-select 早就靠這條規則在 reuse，REWRITE 自己的文件卻沒讓讀者知道這件事存在）。修法：把 Step 0.6.1-bis 改寫成真正的薄殼，只留 REWRITE 專屬的三件事（為什麼六題不夠的編輯理由、呼叫 PERSONA-PIPELINE 的參數、輸出併回 REWRITE 自己 Stage 0 流程之後的分類/落檔/下游接線），20-persona 原型表、4-agent 實作細節、輸出 schema、cost guard、通用反例表全部改成指向 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md) 對應章節。Grep 過 SPORE-PIPELINE.md（已是正確 thin caller，§階段 1 PICK 的「persona 切入點 consult」step）、ROUTINE.md、`.claude/skills/` 全目錄，確認沒有第二份複製。純文件整併，不改任何 runtime 行為。對應 [MANIFESTO §我的進化哲學 — 指標 over 複寫](../semiont/MANIFESTO.md#我的進化哲學--指標-over-複寫) 薄殼鐵律三條 + REFLEXES #56。_
-
-_最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELINE.md`）_：
-
-- **v7.9**（2026-07-06 INDIGO-REWRITE）— Step 0.6.1-bis 收斂為 PERSONA-PIPELINE 薄殼 pointer：修一年沒被抓到的 canonical↔production drift（PERSONA-PIPELINE v1.0 早宣告 thin caller，v7.3-v7.8 六次版本升級都沒真的拔掉 inline 副本，且副本已漂移：D 軸少一個原型、沒提 reuse-from-report 規則）。SPORE-PIPELINE / ROUTINE / skills 全目錄 grep 確認無第二份複製。守 REFLEXES #56 + MANIFESTO §指標 over 複寫
-- **v7.8**（2026-07-05 柯智棠健檢 round 2）— 收件 gate 儀器化：新儀器 agent-report-health.py 驗每份分部報告（壓縮嫌疑/存放位置/軌跡密度/五段結構，疑慮附為什麼+思考方向）+ research-report-health v2.1 主 report 疑慮通知層 + Step 1.8-bis 步 2 儀器化。真實 corpus 校準：4 壓縮版全攔 / 8 真 final 全過。守 REFLEXES #81 + #15 + #66 + #69
-- **v7.7**（2026-07-05 柯智棠健檢）— Async agent 時代 raw 保全：鐵律 8 禁 orchestrator aggregate-on-receive / Step 1.8-bis 三步 SOP（agent 自落檔＋notification 先落檔＋gate 收口）/ research-report-health v2 兩條 hard gate（§8 有效密度 + ephemeral pointer）。三病例：柯智棠（救回）/ 蘇打綠（救回）/ 醫療（5 份 raw 永久蒸發）。守 REFLEXES #42 + #31 + #22 + #15
-
-- **v7.3**（2026-06-13 persona-stage0）— Stage 0 exit gate 儀器化：`research-report-health.py --stage 0` 三件套 hard gate（觀點成型 + viewpoint_formed + 六核心 + persona + 搜尋日誌 + ≥10 來源 proxy），persona-only = FAIL。dogfood 看不見的國家 PASS / persona-only sim FAIL。守 REFLEXES #15 + #66
-- **v7.2**（2026-06-13 persona-stage0）— Stage 0.6 anti-drift：persona 是「額外」不是「取代」。哲宇 callout 其他 session 只跑 persona 跳過 ≥20 探索；git 確認 persona 純額外插入；加「三件都必做缺一不進 Stage 1」框（六核心 + persona + ≥20 探索）+ checklist 補 ≥20 探索獨立項 + Hard Gate persona-only=FAIL。守 REFLEXES #15 + MANIFESTO §8
-- **v7.1**（2026-06-13 persona-stage0）— Stage 0 加 persona 發散：Step 0.6.1-bis「20 路 persona 切入點」4 Sonnet agent 平行模擬 20 個不同年齡/國籍/性別/處境讀者的冷反應問題當研究入射點，每題標 🆕（進切入點清單）/✅/⛔（whats_excluded）。dogfood：《看不見的國家》哲宇 ship 後追問三題六題沒覆蓋 → 內化成自動發散。守 REFLEXES #42 + #31 + #15
-- **v7.0**（2026-06-10 嘻哈饒舌）— Stage 3 嚴謹化：Step 3.6 成品總驗三關（原子重驗 fan-out 抓四種草稿驗不到的 drift / 順稿 / 視覺同步），A 級/大眾文/勘誤後 HARD。觸發：老莫勘誤寶哥=黃信佳 + 哲宇「成品要再一道查核關卡」
-- **v6.6**（2026-06-04 天下雜誌）— 媒體配比儀器升級：`paragraph-rhythm` R3 升密度 band（floor 0.7 / ceiling 0.8→1.2 / hard 1.5+median<55，從富媒體範本校準）+ `media-richness` length-scaled count（長文朝 圖+影片 ≥8）+ 多模態 nudge。觸發：舊 0.8 上限誤判設研院/天下/黃魚鴞富媒體範本。8 篇 dogfood
-- **v6.5**（2026-06-04 同 session 第二輪）— 研究方法論 grounded in 12 份範本：信心程度系統三層 verification（哲宇記得的）+ Step 1.7 七段→八段（引語庫 / 反例 list / 數字分歧揭露 / negative findings / Stage 2 操作規範）。方法論 canonical → RESEARCH.md §二之二。統合：[methodology synthesis](../../reports/research-methodology-synthesis-2026-06-04.md)
-- **v6.4**（2026-06-04 深度研究-設計研究院）— 研究階段對標研究所論文：Stage 0 探索 ≥20 / Stage 1 ≥80 + 4 來源配額 / Step 1.7 SSOT 七段結構（raw §7 不摘要）/ `research-report-health.py` HARD GATE 儀器化 / 修 v6.3「synthesis 吃掉 raw」regression。觸發：226 份 report 量測 57% 英文來源=0 + TDRI session 報告退化
-- **v6.3**（2026-06-01 170717-manual）— 多 agent 編排：orchestrator + tiered sub-agents（觀點 Opus / 研究 Sonnet fan-out / 寫 fresh Opus / 查證 Sonnet verifier fan-out ＋ 主 session spot-check）；§0.2-bis 規則 2-3 泛化到所有 depth EVOLVE/Fresh；「sub-agent claim 重驗是 hard gate」
-- **v6.2**（2026-06-01 170717-manual）— 拆除防火牆 for callout-triggered EVOLVE：Step 0.2-bis 三條防火牆（callout→fact-checklist 用完即丟 / 觀點 blind to errata / Stage 2 context 隔離）+ Step 3.2-bis 校正焦慮掃描 backstop；反轉 v6.0「觀點可參考舊文為什麼爛」投毒源。觸發：影視配樂第二輪 callout
-- **v6.1** — footnote plugin gate（Stage 3 footnote-format + footnote-density 升 citation hard gate）
-- **v6.0**（2026-05-11 admiring-montalcini-ec53b4）— Stage 0 觀點獨立 stage：editorial vision 階段先於 data gathering；6 核心問題 + 7 品質維度 + 5 類型矩陣；§觀點成型 HARD GATE
-- **v5.0**（2026-05-11 admiring-cohen-8b68fc）— Stage spine restoration：H1-H4 階層一致 + Step N.M 編號 + ASCII spine 在頂部；v3.0 spine 骨架 × v4 單檔載體 × v4 evolved 內容（影音必找 + 標題三明治不丟）
-- **v4.1**（2026-05-11 sad-shockley）— Stage 6 抽掉 → 巴別塔 pipeline 指標；REWRITE 變 5 stage 線性
-- **v4.0**（2026-05-10 sad-shockley）— 單檔收斂 + 模式收進 Stage 1 + 編號正規化 + ASCII diagram 在最前
-- **v3.1**（2026-05-10 sad-shockley）— Hard Gate Inventory 加 Title+desc spine sync + 媒體素材 v3.1 雙條反射；EDITORIAL §Title 從 People-only 擴為全 category
-- **v3.0**（2026-05-09 brave-kirch）— 1290 → 280 行（-78%）+ 拆 6 sub-canonical（**v4 已收斂回**）
-- **v2.20**（2026-04-28）— 新增 Stage 1.7 媒體素材研究 + Stage 4.5 媒體插入（v4 收進 Stage 1 Step L + Stage 4 Step C，v5 改為 Step 1.14 + Step 4.3）
-- **v2.18**（2026-04-21）— Stage 1 agent 選型 + 私有 SSOT 整合 + Stage 2 密度平衡 + Agent claim 驗證
-
-🧬

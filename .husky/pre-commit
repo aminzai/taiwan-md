@@ -46,6 +46,22 @@ staged_files=$(git diff --cached --name-only)
 # 原本只在檔案末段的憑證掃描前才賦值，那個 check 因此永遠拿到空字串。
 staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR 2>/dev/null || true)
 
+# ═══ REWRITE-PIPELINE 單檔閱讀版新鮮度（2026-09-05 v9 SSOT 拍板）═══
+# docs/pipelines/REWRITE-PIPELINE-單檔案型完整流程.md 已改為工具生成（不再手
+# 改），來源是 REWRITE-PIPELINE.md 薄索引 + 所有 REWRITE-STAGE-*.md contract。
+# 動到任一來源檔卻沒重新生成，閱讀版會跟 v9 SSOT 漂移——跟舊版 v8.0 手寫單
+# 檔各自演化到內容對不上的老問題同源，這道 gate 防止它重演。
+if echo "$staged_any" | grep -qE '^docs/pipelines/(REWRITE-PIPELINE(-單檔案型完整流程)?\.md|REWRITE-STAGE-[^/]+\.md)$'; then
+  if ! python3 scripts/tools/build-rewrite-single-file.py --check; then
+    echo ""
+    echo "💡 REWRITE-PIPELINE 單檔閱讀版過期"
+    echo "   重跑：python3 scripts/tools/build-rewrite-single-file.py"
+    echo "   然後：git add docs/pipelines/REWRITE-PIPELINE-單檔案型完整流程.md"
+    echo "   跳過此檢查（緊急修復）：git commit --no-verify"
+    exit 1
+  fi
+fi
+
 # Parser/config changes must preserve the CJK-aware GFM contract locally,
 # before CI. Article edits themselves need no special lint: the parser handles
 # valid CJK-adjacent emphasis at render time.
