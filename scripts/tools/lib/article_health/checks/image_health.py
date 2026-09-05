@@ -4,11 +4,17 @@ Migrated from `scripts/tools/article-image-health.sh` (REWRITE-PIPELINE
 Stage 4.5f hard gate per REFLEXES #30).
 
 Dimensions:
-  1. inline `![alt](path)` references — `path` must exist on disk
-  2. frontmatter `image:` — file must exist
-  3. external hot-link detection — http/https URLs not under
-     `/article-images/` or `https://upload.wikimedia.org/...`
-     (canonical CC sources allowed)
+  1. inline `![alt](path)` references — `path` must exist on disk;
+     external hot-link detection here still allows
+     `https://upload.wikimedia.org/...` / `https://commons.wikimedia.org/...`
+     (canonical CC sources) for inline scene-mid images
+  2. frontmatter `image:` — file must exist; **no Wikimedia allowlist**
+     (2026-09-05 OBSERVER-QUEUE #42 哲宇拍板) — 卡片圖同時是分享用素材，
+     曝光度最高，一律要求本地 `/article-images/...`（image-ingest.mjs
+     收進庫：授權核對 + 清 EXIF + 轉 WebP），不再允許 Wikimedia 熱連結，
+     即使是 CC 授權。全站 66 篇盤點：51 篇收進庫、15 篇授權不明/主題不符/
+     來源已下架而暫留 `imageNote:` 待補圖。inline（dimension 1）不在本次
+     範圍內，熱連結白名單維持不變。
   4. ## 圖片來源 section presence (when CC images used) — 各語言說法皆可，
      見 `_RE_IMAGE_SOURCES_H2`
   5. **image count gate (added 2026-05-11 kind-mirzakhani per 哲宇 callout)** —
@@ -269,20 +275,30 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # hero 圖跟 inline 圖走同一條規則。2026-08-23 之前這裡只驗本地路徑存不存在，
     # 外部熱連結整條分支不進去 —— 於是全站曝光度最高的那張圖（卡片圖、OG 分享圖）
     # 是唯一沒有熱連結閘門的圖。REFLEXES #83 兩把尺 / #87 保護密度跟曝光量成反比。
+    #
+    # 2026-09-05（OBSERVER-QUEUE #42 哲宇拍板）：卡片圖的 Wikimedia 白名單移除。
+    # 不再呼叫 `_is_allowed_external` —— 任何非本地路徑（含 upload.wikimedia.org /
+    # commons.wikimedia.org）一律 HARD。理由：卡片圖同時是分享素材、曝光度最高，
+    # CC 授權只保證「能用」，不保證「穩」（Wikimedia 429 / 縮圖服務不穩 / 原檔可能
+    # 被上游刪除或改名——這次全站盤點就抓到 11 篇卡片圖來源已經 404）。全部收進庫用
+    # image-ingest.mjs（授權核對 + 清 EXIF + 轉 WebP + 落 public/article-images/），
+    # 收不進去的（授權不明 / 主題不符 / 來源已下架 / 解析度太低）清空 image: 並補
+    # `imageNote:` 待觀察者決定，不留熱連結。inline 圖（dimension 1，上面 `_is_local_path`
+    # 分支之前那段）不在本次範圍，仍走 `_is_allowed_external` 白名單。
     if has_fm_image:
         src = fm_image.strip()
         if not _is_local_path(src):
-            if not _is_allowed_external(src):
-                yield Violation(
-                    check=CHECK_NAME,
-                    severity=Severity.HARD,
-                    message=(
-                        "frontmatter image 外部熱連結 — 圖片應 cache 到 "
-                        "public/article-images/ 並改 image: `/article-images/...`"
-                    ),
-                    snippet=src[:80],
-                    editorial_ref=EDITORIAL_REF,
-                )
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.HARD,
+                message=(
+                    "frontmatter image 外部熱連結 — 卡片圖不再允許 Wikimedia 例外，"
+                    "圖片應 cache 到 public/article-images/ 並改 "
+                    "image: `/article-images/...`"
+                ),
+                snippet=src[:80],
+                editorial_ref=EDITORIAL_REF,
+            )
         else:
             local = public_root / src.lstrip("/")
             if not local.exists():
