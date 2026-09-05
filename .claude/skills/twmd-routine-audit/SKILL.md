@@ -23,6 +23,10 @@ allowed-tools:
 
 ## Pipeline
 
+```bash
+cd /Users/cheyuwu/Projects/taiwan-md && git checkout main && git pull origin main
+```
+
 嚴格完整讀取並執行 [`docs/pipelines/ROUTINE-AUDIT-PIPELINE.md`](../../../docs/pipelines/ROUTINE-AUDIT-PIPELINE.md) v1.0。Stage 1-6：SCAN → CORRELATE → PATTERN → LESSONS → REPORT → SHIP。
 
 ## 數據工具
@@ -46,4 +50,4 @@ LESSONS-INBOX vc +1 累積 > 新 entry append。達 vc=3 必標 `distill_ready: 
 
 ## 收官
 
-`/twmd-finale` chain → memory file 必含：BECOME ACK + 4 lens findings + N pattern detected + LESSONS vc updates + Handoff 三態 + Beat 5 反芻。
+`/twmd-finale` chain → memory file 必含：BECOME ACK + 4 lens findings + N pattern detected + LESSONS vc updates + Handoff 三態 + Beat 5 反芻。main-direct push（v2.0）：`git push origin main`。

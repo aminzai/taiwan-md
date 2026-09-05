@@ -32,6 +32,7 @@ allowed-tools:
 ## Stage 1: SCAN — 開放工作面（必跑完才能進 Stage 2）
 
 ```bash
+git pull origin main
 gh issue list --state open --limit 30 --json number,title,labels,updatedAt
 gh pr list --state open --limit 30 --json number,title,labels,updatedAt,author
 git log --since="24 hours ago" --oneline | head -30
