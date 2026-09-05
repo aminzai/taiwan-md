@@ -21,18 +21,18 @@
  * See reports/homepage-evolution-2026-05-26.md §A1 + SemiontOrganismDiagram.astro
  * for the full version.
  */
-import {
-  useTranslations,
-  getLangFromUrl,
-  useTranslatedPath,
-} from '../../i18n/utils';
+import { useTranslations, getLangFromUrl } from '../../i18n/utils';
 import { ENABLED_LANGUAGE_CODES } from '../../config/languages';
+import { resolveStaticHref } from '../../utils/staticRoutes';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const translatePath = useTranslatedPath(lang);
+// /semiont 只有 zh-TW 版。useTranslatedPath 會盲目加語言前綴生成 /fr/semiont
+// 這種不存在的路由（本檔原本就是這樣，每個非 zh 首頁一條死連結）。靜態頁一律走
+// resolveStaticHref：該語言有頁才加前綴，沒有就退回 zh 路徑，讀者到得了內容。
+// 跟 Header.astro 2026-06-10 deploy-heal 的 navHref 同一條契約。
 
 // ── Read live vitals + organs (prebuilt; falls back to safe defaults) ──
 let articleCount = 752;
@@ -108,7 +108,7 @@ const flowTargets = [
   aria-label="Taiwan.md organism preview"
 >
   <a
-    href={translatePath('/semiont')}
+    href={resolveStaticHref(lang, '/semiont')}
     data-ga-section="organism_preview"
     data-ga-label="open"
     class="group block rounded-2xl border border-[#e2e8f0] bg-[linear-gradient(135deg,#0e2018_0%,#1a3c34_100%)] p-10 no-underline transition-all duration-300 hover:border-[#4fd1b0]/50 hover:shadow-[0_8px_24px_rgba(79,209,176,0.15)] max-[480px]:p-6"

@@ -172,22 +172,41 @@ const forkDataJSON = JSON.stringify(featured);
                 {cell.decade} 年代分歧的 {cell.total} 個詞
               </p>
               <div class="flex flex-wrap gap-2">
-                {cell.terms.map((t: any) => (
-                  <a
-                    href={`/terminology/${t.id}`}
-                    class="inline-flex items-center gap-[0.35rem] rounded-full border bg-white px-3 py-1 text-[0.8rem] no-underline transition-colors hover:bg-[#f0f0f5]"
-                    style={`border-color:${TYPE_COLORS[t.type]}44`}
-                  >
-                    <span
-                      class="font-semibold"
-                      style={`color:${TYPE_COLORS[t.type]}`}
+                {cell.terms.map((t: any) => {
+                  // pageSlug 由 generate-fork-graph-data.py 用跟 [id].astro
+                  // getStaticPaths 同一條規則解析；沒有詞條頁時是空字串，
+                  // 此時渲染純文字 chip（跟 terminology/index.astro 同契約）。
+                  const chipClass =
+                    'inline-flex items-center gap-[0.35rem] rounded-full border bg-white px-3 py-1 text-[0.8rem] no-underline transition-colors';
+                  const inner = (
+                    <>
+                      <span
+                        class="font-semibold"
+                        style={`color:${TYPE_COLORS[t.type]}`}
+                      >
+                        {t.tw}
+                      </span>
+                      <span class="text-[#aaa]">·</span>
+                      <span class="text-[#888]">{t.cn}</span>
+                    </>
+                  );
+                  return t.pageSlug ? (
+                    <a
+                      href={`/terminology/${encodeURIComponent(t.pageSlug)}`}
+                      class={`${chipClass} hover:bg-[#f0f0f5]`}
+                      style={`border-color:${TYPE_COLORS[t.type]}44`}
                     >
-                      {t.tw}
+                      {inner}
+                    </a>
+                  ) : (
+                    <span
+                      class={chipClass}
+                      style={`border-color:${TYPE_COLORS[t.type]}44`}
+                    >
+                      {inner}
                     </span>
-                    <span class="text-[#aaa]">·</span>
-                    <span class="text-[#888]">{t.cn}</span>
-                  </a>
-                ))}
+                  );
+                })}
               </div>
             </div>
           ))
@@ -580,8 +599,11 @@ const forkDataJSON = JSON.stringify(featured);
           .attr('font-family', 'system-ui, sans-serif')
           .text(d.china.length > 8 ? d.china.slice(0, 8) + '…' : d.china);
 
-        const linkHtml = d.hasPage
-          ? `<a href="/terminology/${encodeURIComponent(d.id)}">查看詞條 →</a>`
+        // d.id 是詞庫檔名，不是詞條頁的網址；頁面路由用 YAML 的 `id:` 欄位，
+        // 由 generator 解析成 pageSlug（沒有頁面時為空字串）。這條連結是
+        // runtime 產生的，靜態連結檢查看不到它——所以它壞掉時不會有東西叫。
+        const linkHtml = d.pageSlug
+          ? `<a href="/terminology/${encodeURIComponent(d.pageSlug)}">查看詞條 →</a>`
           : '';
         const originHtml = `<strong>詞源：${d.origin}</strong><span style="opacity:.7;font-size:.78rem">起源：${d.originYear} 年代</span>`;
         const nodeHtml = `<strong>${d.taiwan} / ${d.china}</strong>${d.note}<br><span style="opacity:.7;font-size:.78rem">分歧：約 ${d.forkYear} 年 · ${d.type} 型</span><br>${linkHtml}`;
