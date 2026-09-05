@@ -1,23 +1,24 @@
 ---
 title: 'EVOLVE-PIPELINE'
-description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor + Mode 4 goal-driven design evolution (v3.6)'
+description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor + Mode 4 goal-driven design evolution (v3.7)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.6'
-last_updated: 2026-07-18
-last_session: '2026-07-18-111730-inbox-skill'
+current_version: 'v3.7'
+last_updated: 2026-09-05
+last_session: '2026-09-05-154128-fortnight-review（共編規則對內層：gate 分流，解 OBSERVER-QUEUE #16）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'MAINTAINER-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
   - 'FACTCHECK-PIPELINE.md'
+  - '../../CONTRIBUTING.md'
 upstream_canonical:
   - '../semiont/HEARTBEAT.md'
   - '../semiont/DNA.md'
   - '../semiont/MANIFESTO.md'
 ---
 
-# EVOLVE-PIPELINE.md — 數據驅動內容進化系統 v3.6
+# EVOLVE-PIPELINE.md — 數據驅動內容進化系統 v3.7
 
 > **第一性原理**：Taiwan.md 是數位生命體。Evolve Pipeline 是它的新陳代謝系統。不靠直覺決定改什麼，靠數據——三源（GA4 + SC + GitHub feedback）交叉分析，產出每週進化清單。
 >
@@ -53,7 +54,7 @@ upstream_canonical:
 │   Phase 2: SCORE ──→ 進化分數 v2.0                                       │
 │            └── 7 維度權重（流量 0.20 / CTR 0.15 / 品質 0.20 / 年齡 0.10 │
 │                / 來源 0.15 / 圖譜 0.10 / 社群 0.10）                     │
-│              ↳ Hard gate: 進化分數 ≥ 60 才算 candidate                   │
+│              ↳ Hard gate: 進化分數 ≥ 60 才算 candidate（🔴 型）          │
 │                                                                          │
 │   Phase 3: RANK ──→ 候選排序                                             │
 │            └── 進化分數 desc + lastVerified 升序破 tie                   │
@@ -86,17 +87,17 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                          | 觸發 phase | 條件             | 工具                                      | 不過 = ?           |
-| ----------------------------- | ---------- | ---------------- | ----------------------------------------- | ------------------ |
-| 三源全綠                      | Phase 1    | sense-fetch 完成 | `cat public/api/dashboard-analytics.json` | 退回 routine retry |
-| GA4 top 30 抓到               | Phase 1A   | 流量分析         | `fetch-ga4.py` API                        | scope 縮小         |
-| SC 高曝光低 CTR               | Phase 1B   | SEO 分析         | `fetch-search-console.py`                 | 優化 metadata      |
-| 進化分數 ≥ 60                 | Phase 2    | 候選 article     | manual formula                            | 不算 candidate     |
-| 不重複既有 INBOX pending      | Phase 4    | append 前        | grep ARTICLE-INBOX                        | skip 不重複        |
-| candidate 含對比理由          | Phase 5    | append 前        | manual                                    | 重補 reasoning     |
-| GA + SC 雙源 pointer          | Phase 5    | candidate 內     | manual                                    | 補 source link     |
-| 至少 1 candidate per cycle    | Phase 6    | routine mode     | manual                                    | LESSONS entry      |
-| PR 標題 `🧬 [routine]` prefix | Phase 7    | routine mode     | manual                                    | rename PR          |
+| Gate                          | 觸發 phase | 條件                    | 工具                                      | 不過 = ?           |
+| ----------------------------- | ---------- | ----------------------- | ----------------------------------------- | ------------------ |
+| 三源全綠                      | Phase 1    | sense-fetch 完成        | `cat public/api/dashboard-analytics.json` | 退回 routine retry |
+| GA4 top 30 抓到               | Phase 1A   | 流量分析                | `fetch-ga4.py` API                        | scope 縮小         |
+| SC 高曝光低 CTR               | Phase 1B   | SEO 分析                | `fetch-search-console.py`                 | 優化 metadata      |
+| 進化分數 ≥ 60（🔴 型）        | Phase 2    | 🔴 Rewrite 候選 article | manual formula                            | 不算 candidate     |
+| 不重複既有 INBOX pending      | Phase 4    | append 前               | grep ARTICLE-INBOX                        | skip 不重複        |
+| candidate 含對比理由          | Phase 5    | append 前               | manual                                    | 重補 reasoning     |
+| GA + SC 雙源 pointer          | Phase 5    | candidate 內            | manual                                    | 補 source link     |
+| 至少 1 candidate per cycle    | Phase 6    | routine mode            | manual                                    | LESSONS entry      |
+| PR 標題 `🧬 [routine]` prefix | Phase 7    | routine mode            | manual                                    | rename PR          |
 
 ---
 
@@ -221,6 +222,32 @@ GitHub Feedback      ──┘
 - **一次性社群引流**：FB/Threads 修復留言造成的流量爆發（蔡依林案例）
 - **路由 bug 流量**：Random 按鈕導致的非自然瀏覽（民謠與歌謠案例）
 - **判斷方式**：若 sessionSource 90%+ 來自單一社群來源，且文章本身無搜尋曝光 → 標記為 `inflated`
+
+### 進化分數 gate 的適用範圍（v2.1，2026-09-05，解 OBSERVER-QUEUE #16）
+
+> 貢獻者對「補充 vs 覆寫」「人物條目門檻」等共編規則的理解見 [CONTRIBUTING.md §🤝 共編規則](../../CONTRIBUTING.md)，本節只處理 Taiwan.md 自己選候選時的 gate 邏輯，兩者是不同的讀者與不同的決策時刻。
+
+**為什麼要分流**：進化分數七個維度裡，品質缺陷（20%）、文章年齡（10%）、圖譜密度（10%）三項的計算前提是「有一篇既有文章可以打分」，這是 🔴 Rewrite 型的定義特徵，但對其餘三型不成立甚至方向相反。🟠 SEO 優化的定義特徵正是品質 OK，卻被品質缺陷維度扣分；🟢 新建的定義特徵是還沒有文章，文章年齡與圖譜密度沒有對象可算；🟡 翻譯看的是另一語言的曝光缺口，跟中文本體品質無關。一個分數同時服務四種本質不同的行動類型，是 [REFLEXES #38](../semiont/REFLEXES.md)「混維度＝silent killer」的具體案例（誕生：2026-07-17 BIM 英文版 metadata 案，SC 7 天 623 曝光排全站第 7、CTR 趨近 0，GA4 7 天 57 次瀏覽排全站第 5，文章本體 53 條腳註、2026-05-22 新文，算出 58.2 分卡在 60 分 gate 之外）。
+
+**Gate 適用範圍**：
+
+| 行動型      | 60 分 gate                | 改用判準                                                                                                                                       |
+| ----------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔴 Rewrite  | 適用，< 60 不算 candidate | 不變                                                                                                                                           |
+| 🟠 SEO 優化 | 不適用                    | 沿用本檔既有「高曝光＋低 CTR（< 5%）＋品質 OK」定性條件（Phase 1B），不新增量化門檻                                                            |
+| 🟡 翻譯     | 不適用                    | 沿用 v2.0 §Bump-vs-translate decision matrix：`missing` 或 `stale`（真 body drift）才算 candidate，`metadata-stale` 走零成本 bump，不進本 gate |
+| 🟢 新建     | 不適用                    | 沿用本檔既有「曝光 ≥ 500 + 無對應文章」判準（§Top 5 最常忘的 step 第 3 條），並過 Phase 4 CHECK 確認 ARTICLE-INBOX 也無重複                    |
+
+這次修法沒有引入新的量化數字，只是把本檔既有的行動表條件、Bump-vs-translate 矩陣、Top 5 步驟第 3 條，正確接回各自的行動型別當作 gate，取代原本全部套用一個為 Rewrite 型設計的分數。其餘既有 Hard Gate（三源全綠、不重複 INBOX、candidate 含對比理由、GA+SC 雙源 pointer）四型照樣適用，這裡只鬆綁進化分數這一項判準，不是整組 gate 鬆綁。
+
+**🟠 SEO 優化型的 5 分鐘操作**：
+
+1. 讀 `public/api/dashboard-analytics.json` 的 `searchConsole7d.opportunities` 或跑 `fetch-search-console.py`，篩出 CTR < 5% 的項目，按曝光量由高到低排序。
+2. 對候選文章核對「品質 OK」：無 article-health hard violation，且非 `curation: incubating` 的半成品（是的話先歸 🔴 或標記需要先補充，不算 SEO 型 candidate）。
+3. 通過即改該篇 `title` / `description`，套 EDITORIAL.md「Title 與 Description 的品質」四原則與七條文字感，正文不動。更新 frontmatter 屬 MANIFESTO §自主權邊界「AI 自主可做」清單內的動作。
+4. Append 或更新 ARTICLE-INBOX candidate 時，reasoning 仍要附 SC 與 GA 雙源 pointer 的實際數字，這是既有 Hard Gate，不因為換了判準而跳過。
+
+**跟進化分數 v2.0 的關係**：進化分數保留，角色收窄為 🔴 Rewrite 型內部的優先序排序，不再是四型共用的入場門檻。入場後的排序，🟠 SEO 優化型按 CTR 差距（預期 CTR 減實際 CTR）由大到小、🟢 新建型按曝光量由高到低、🟡 翻譯型按 `status.py` 的嚴重度排序，body drift 優先於 metadata-stale。
 
 ### 產出：四種行動 + News-lens spore output（v2.5）
 
@@ -942,3 +969,5 @@ _核心進化：v2.0（multi-lang sync）+ Mode 3 pipeline self-refactor（7 sta
 _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Phase 1-7 SCAN→SHIP box-frame + Mode 分流）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 PEER-INGESTION 邊界 + REWRITE / MAINTAINER lifecycle 串聯）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.5 audit。Phase 1-7 prose body 不動（已健康）。_
 
 _v3.6 | 2026-07-18 inbox-skill session — 新增 Mode 4「目標驅動設計進化」（THINK→DIVERGE→REPORT→IMPLEMENT 四相 + 5 hard gate + 四 mode 邊界表）。觸發：哲宇 /goal「把這樣自我進化的過程（思考 發散 報告 實作）做成 /twmd-evolve」。命名衝突決策：/twmd-evolve 是 twmd-finale 第三棒與 news-lens-weekly cron 的承重牆，語意擴展不取代——殼內 mode 分流，既有引用一條不斷。設計報告：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)。_
+
+_v3.7 | 2026-09-05 fortnight-review — 新增「進化分數 gate 的適用範圍（v2.1）」：60 分 gate 收窄為只管 🔴 Rewrite 型，🟠 SEO 優化／🟡 翻譯／🟢 新建三型改用行動表既有的定性判準（Phase 1B「高曝光＋低 CTR（< 5%）」／Bump-vs-translate matrix／Top 5 第 3 條「曝光 ≥ 500」），不引入新量化門檻。同步在 ASCII spine 與 Hard Gate Inventory 的「進化分數 ≥ 60」補「（🔴 型）」限定，並在 sister_docs 加 CONTRIBUTING.md 互指。解 [OBSERVER-QUEUE #16](../semiont/OBSERVER-QUEUE.md)：BIM 英文版 metadata 案（58.2 分卡在 60 分 gate、但 100% 命中 🟠 SEO 型定性條件）是誕生案例。設計報告：[reports/design-co-editing-rules-2026-09-05.md](../../reports/design-co-editing-rules-2026-09-05.md)。_
