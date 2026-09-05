@@ -290,7 +290,7 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
 
     # Aggregate per crawler (first matching pattern wins).
     # Also collect UA→requests for paths/samples diagnostic.
-    crawler_totals = {}  # name → {requests, http200, category}
+    crawler_totals = {}  # name → {requests, http200, http3xx, http4xx, http5xx, category}
     unmatched_bot_requests = 0
 
     for row in rows:
@@ -306,15 +306,40 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
                     crawler_totals[name] = {
                         "requests": 0,
                         "http200": 0,
+                        "http3xx": 0,
+                        "http4xx": 0,
+                        "http5xx": 0,
                         "category": category,
                     }
                 crawler_totals[name]["requests"] += count
+                # 尺的誠實化（reports/fortnight-deep-review-2026-09-05.md §2.5 /
+                # §4.2 E2）：edgeResponseStatus 這個 dimension 本來就在同一條
+                # GraphQL 查詢裡回來，只是舊版只挑 200 出來算、301/302 這種正常
+                # 轉址被 unsuccessfulRequests 全部吃掉（W34 週報 Googlebot 53%
+                # 一週後自己回到 75%，其實是轉址設定沒變，是尺在跳）。這裡把
+                # 2xx 之外的狀態碼也分桶記下來，既有 http200／requests 兩個
+                # 欄位一個字不動。
                 if status == 200:
                     crawler_totals[name]["http200"] += count
+                elif 300 <= status < 400:
+                    crawler_totals[name]["http3xx"] += count
+                elif 400 <= status < 500:
+                    crawler_totals[name]["http4xx"] += count
+                elif 500 <= status < 600:
+                    crawler_totals[name]["http5xx"] += count
                 matched = True
                 break
         if not matched:
             unmatched_bot_requests += count
+
+    def _success_rate_excl_3xx(info):
+        """http200 / (requests - http3xx)，3xx 是正常轉址不是失敗，
+        分母把它排除才不會把「轉址」跟「真的失敗」混在一起算。
+        分母為 0（全部都是轉址）時回 None，不假裝算得出比率。"""
+        denom = info["requests"] - info["http3xx"]
+        if denom <= 0:
+            return None
+        return round(info["http200"] / denom * 100, 1)
 
     # Sort crawlers by requests desc
     crawlers = [
@@ -323,6 +348,10 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
             "category": info["category"],
             "requests": info["requests"],
             "http200": info["http200"],
+            "http3xx": info["http3xx"],
+            "http4xx": info["http4xx"],
+            "http5xx": info["http5xx"],
+            "successRateExcl3xx": _success_rate_excl_3xx(info),
         }
         for name, info in sorted(
             crawler_totals.items(), key=lambda x: x[1]["requests"], reverse=True
@@ -331,6 +360,10 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
 
     total_req = sum(c["requests"] for c in crawlers)
     total_200 = sum(c["http200"] for c in crawlers)
+    total_3xx = sum(c["http3xx"] for c in crawlers)
+    total_4xx = sum(c["http4xx"] for c in crawlers)
+    total_5xx = sum(c["http5xx"] for c in crawlers)
+    totals_denom_excl_3xx = total_req - total_3xx
     totals = {
         "detectedRequests": total_req,
         "http200": total_200,
@@ -338,6 +371,15 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
         "unsuccessfulRequests": max(total_req - total_200, 0),
         "topCrawler": crawlers[0] if crawlers else None,
         "unmatchedBotRequests": unmatched_bot_requests,
+        # §2.5 / §4.2 E2 新增：3xx 是轉址不是失敗，成功率分母排除它。
+        "http3xx": total_3xx,
+        "http4xx": total_4xx,
+        "http5xx": total_5xx,
+        "successRateExcl3xx": (
+            round(total_200 / totals_denom_excl_3xx * 100, 1)
+            if totals_denom_excl_3xx > 0
+            else None
+        ),
     }
 
     return {

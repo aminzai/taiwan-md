@@ -118,7 +118,18 @@ function renderOrganism(data) {
         : '';
       // Concern hint based on organ type
       let concern = '';
-      if (organKey === 'immune' || organKey === '免疫系統') {
+      // 心臟流量格（reports/fortnight-deep-review-2026-09-05.md §2.5 / §4.2
+      // E1）：articlesLast7Days 只量進庫存量，投稿併入跟自產不分。這行把
+      // generate-dashboard-data.js 新加的 selfProduced／contributed 拆出來顯示，
+      // 沿用既有 concern-hint 樣式，不改分數公式。
+      if (organKey === 'heart' || organKey === '心臟') {
+        const hm = o.metrics || {};
+        const selfProduced = hm.selfProducedLast7Days ?? 0;
+        const contributed = hm.contributedLast7Days ?? 0;
+        concern = isEn
+          ? `Self-produced ${selfProduced} / Contributed ${contributed} (7d)`
+          : `自產 ${selfProduced} ／ 投稿 ${contributed}（近 7 天）`;
+      } else if (organKey === 'immune' || organKey === '免疫系統') {
         const naked = allArticles.filter((a) => (a.fnCount || 0) === 0).length;
         concern = isEn
           ? `${naked} articles without footnotes`

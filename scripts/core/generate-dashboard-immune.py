@@ -165,6 +165,82 @@ def compute_review_coverage(articles: list[dict]) -> tuple[float, dict]:
     return round(score, 1), breakdown
 
 
+def _git_first_commit_date(rel_path: str) -> datetime | None:
+    """文章首次進 git 的日期（--follow 抓最舊一筆 %ai）。跟 `_git_last_modified_days`
+    同一套 worktree-safe 慣例（git log %ai，不用檔案 mtime），差別是這支要最舊
+    不是最新——只有在文章沒有 frontmatter `date` 時才會被呼叫（見
+    `_get_article_date`），2026-09 現況 1118 篇全部都有 date，這支是防呆備援。"""
+    try:
+        result = subprocess.run(
+            ["git", "log", "--follow", "--format=%ai", "--", rel_path],
+            capture_output=True, text=True, cwd=REPO_ROOT, timeout=10,
+        )
+        lines = [line for line in result.stdout.strip().splitlines() if line.strip()]
+        if not lines:
+            return None
+        # git log 由新到舊列出；最後一行就是最舊（首次）commit。
+        date_str = lines[-1].split()[0]
+        return datetime.strptime(date_str, "%Y-%m-%d")
+    except Exception:
+        return None
+
+
+def _get_article_date(article: dict) -> datetime | None:
+    """文章日期：優先 frontmatter `date`，讀不到才退回 git 首次 commit
+    （reports/fortnight-deep-review-2026-09-05.md §2.5 / §4.2 E3 指定的來源
+    順序）。回傳 None 代表兩種來源都拿不到，呼叫端把它當「存量」處理
+    （保守：日期不明的文章當作舊文，不會虛報成「新增未審」）。"""
+    fm_date = article.get("frontmatter", {}).get("date")
+    if fm_date:
+        try:
+            return datetime.strptime(str(fm_date)[:10], "%Y-%m-%d")
+        except ValueError:
+            pass
+    return _git_first_commit_date(article["path"])
+
+
+def compute_review_coverage_split(articles: list[dict], now: datetime | None = None) -> dict:
+    """review_coverage 尺的誠實化（§2.5 / §4.2 E3）：一個比例把「存量從沒人審」
+    跟「本期新增太快」壓成同一數字，看不出審閱是追不上新增速度、還是舊文
+    根本沒人碰過。這支只拆兩格給觀察者看，**不動 immuneScore 也不動
+    components.review_coverage 的公式或權重**——純粹多一組平行的誠實揭露。
+
+    stock   = 文章日期早於 30 天前（含日期不明，保守當存量）
+    new30d  = 文章日期落在近 30 天內
+    """
+    if now is None:
+        now = datetime.now()
+    cutoff = now - timedelta(days=30)
+
+    stock_total = stock_reviewed = 0
+    new_total = new_reviewed = 0
+
+    for a in articles:
+        article_date = _get_article_date(a)
+        is_new = article_date is not None and article_date >= cutoff
+        if is_new:
+            new_total += 1
+            if a["lastHumanReview"]:
+                new_reviewed += 1
+        else:
+            stock_total += 1
+            if a["lastHumanReview"]:
+                stock_reviewed += 1
+
+    def _bucket(total, reviewed):
+        return {
+            "total": total,
+            "reviewed": reviewed,
+            "pct": round(reviewed / total * 100, 1) if total > 0 else 0,
+        }
+
+    return {
+        "stock": _bucket(stock_total, stock_reviewed),
+        "new30d": _bucket(new_total, new_reviewed),
+        "dateSource": "frontmatter `date`，缺值退回 git 首次 commit",
+    }
+
+
 def load_health_sweep(path: str) -> dict | None:
     """Read a pre-computed `article-health.py --all --output=json` dump.
 
@@ -567,6 +643,17 @@ def main():
     review_score, review_breakdown = compute_review_coverage(articles)
     print(f"   review_coverage (tier-weighted): {review_score}", file=sys.stderr)
 
+    # 1b. review_coverage 存量／新增拆兩格（§2.5 / §4.2 E3）——純揭露，不影響
+    # review_score／immuneScore 任何一步計算。
+    review_coverage_split = compute_review_coverage_split(articles)
+    print(
+        f"   reviewCoverageSplit: stock {review_coverage_split['stock']['pct']}% "
+        f"({review_coverage_split['stock']['reviewed']}/{review_coverage_split['stock']['total']}) / "
+        f"new30d {review_coverage_split['new30d']['pct']}% "
+        f"({review_coverage_split['new30d']['reviewed']}/{review_coverage_split['new30d']['total']})",
+        file=sys.stderr,
+    )
+
     # 2. plugin_pass_rate — reuse the prebuild sweep when provided (--health-in),
     # otherwise run our own (standalone invocations, e.g. routine ad-hoc).
     health_in = None
@@ -641,6 +728,7 @@ def main():
         "components": components,
         "componentWeights": DIMENSION_WEIGHTS,
         "tierBreakdown": review_breakdown,
+        "reviewCoverageSplit": review_coverage_split,
         "pluginPassDetail": plugin_pass_detail,
         "citationDetail": citation_detail,
         "freshnessDetail": freshness_detail,

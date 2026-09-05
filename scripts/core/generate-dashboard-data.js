@@ -75,6 +75,40 @@ const TRANSLATION_STATUS_PATH = path.join(
   '_translation-status.json',
 );
 
+// 心臟「流量格」誠實化（reports/fortnight-deep-review-2026-09-05.md §2.5 / §4.2 E1）：
+// articlesLast7Days／30Days 量的是「進庫存量」，投稿 PR 併入跟 Taiwan.md 自己走完
+// REWRITE 產線寫完的文章不分。這支從 ARTICLE-DONE-LOG.md 的完成紀錄（Taiwan.md 自產
+// 產線 SSOT，只有自己走完 pipeline 才會登記）算出自產篇數，讓「量的所有進庫文章」跟
+// 「量自己做了什麼」分開顯示——不動 heartScore 公式，只加 metrics 欄位。
+const ARTICLE_DONE_LOG_PATH = path.join(
+  PROJECT_ROOT,
+  'docs/semiont/ARTICLE-DONE-LOG.md',
+);
+
+/**
+ * 從 ARTICLE-DONE-LOG.md 抓「### {標題} — YYYY-MM-DD ... 完成」這種 entry
+ * 標題行的日期，回傳落在 [since, now] 窗口內的 entry 數。
+ * 讀不到檔案或格式跑掉時回 0（soft-fail，不讓心臟分數生成整支掛掉）。
+ */
+function countSelfProducedSince(sinceDateStr, nowDateStr) {
+  let text;
+  try {
+    text = fs.readFileSync(ARTICLE_DONE_LOG_PATH, 'utf8');
+  } catch {
+    return 0;
+  }
+  let count = 0;
+  for (const line of text.split('\n')) {
+    if (!line.startsWith('### ')) continue;
+    if (!line.includes('完成')) continue; // 排除範本行與非完成類標題
+    const m = line.match(/—\s*(\d{4}-\d{2}-\d{2})/);
+    if (!m) continue;
+    const dateStr = m[1];
+    if (dateStr >= sinceDateStr && dateStr <= nowDateStr) count++;
+  }
+  return count;
+}
+
 // PascalCase category directories (zh-TW SSOT)
 const CATEGORIES = [
   'About',
@@ -646,6 +680,20 @@ async function main() {
   const articlesLast30Days = articles.filter(
     (a) => a.lastModified && a.lastModified >= thirtyDaysStr,
   ).length;
+
+  // 自產 vs 投稿拆分（§2.5 / §4.2 E1）：articlesLast7Days／30Days 是「進庫存量」，
+  // 不分投稿併入跟自己走完產線。selfProduced = ARTICLE-DONE-LOG 登記數；
+  // contributed = 存量扣掉自產，不小於 0（避免 log 漏登記時出現負數）。
+  const todayStr = now.toISOString().slice(0, 10);
+  const selfProducedLast7Days = countSelfProducedSince(sevenDaysStr, todayStr);
+  const selfProducedLast30Days = countSelfProducedSince(
+    thirtyDaysStr,
+    todayStr,
+  );
+  const contributedLast7Days = Math.max(
+    0,
+    articlesLast7Days - selfProducedLast7Days,
+  );
 
   const humanReviewedCount = articles.filter((a) => a.lastHumanReview).length;
   const featuredCount = articles.filter((a) => a.featured).length;
@@ -1241,6 +1289,11 @@ async function main() {
           articlesLast7Days,
           articlesLast30Days,
           totalArticles: articles.length,
+          // §2.5 / §4.2 E1：量的分開顯示——自產（自己走完 REWRITE 產線）
+          // vs 投稿（存量扣掉自產）。heartScore 公式不變，只加這三格。
+          selfProducedLast7Days,
+          selfProducedLast30Days,
+          contributedLast7Days,
         },
       },
       {
