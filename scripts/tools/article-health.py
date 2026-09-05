@@ -45,7 +45,10 @@ from lib.article_health import (  # noqa: E402
     TRANSLATION_LANGS,
     run_checks,
 )
-from lib.article_health.runner import resolve_applies_to  # noqa: E402
+from lib.article_health.runner import (  # noqa: E402
+    resolve_applies_to,
+    explain_empty_selection,
+)
 from lib.article_health.config import Config, ProfileConfig  # noqa: E402
 
 
@@ -352,7 +355,12 @@ def _effective_passed(
 
 
 def _format_human(
-    report: HealthReport, fail_on: str = "hard", score_budget: int | None = None
+    report: HealthReport,
+    fail_on: str = "hard",
+    score_budget: int | None = None,
+    config: Config | None = None,
+    profile: ProfileConfig | None = None,
+    check_name: str | None = None,
 ) -> str:
     lines = []
     lines.append(f"🧬 {report.target.path}")
@@ -361,7 +369,21 @@ def _format_human(
         f"slug={report.target.slug}"
     )
     if not report.results:
-        lines.append("   (no checks ran — Phase 1 has empty registry)")
+        # 2026-09-05: was a single hardcoded "(no checks ran — Phase 1 has
+        # empty registry)" line no matter WHY selection came back empty —
+        # a 2026-05-04 Phase 1 leftover from when the registry really was
+        # empty. Now that 25+ plugins are live, an empty selection is far
+        # more often a designed language-scope exclusion (e.g. seo-meta's
+        # APPLIES_TO=["zh-TW"] on an `en` file under ci-deploy) than an
+        # actual problem — see explain_empty_selection() for the full
+        # breakdown of causes. Falls back to the old line only when we
+        # weren't given enough context (config) to diagnose further.
+        if config is not None:
+            lines.append(
+                "   " + explain_empty_selection(report.target, config, profile, check_name)
+            )
+        else:
+            lines.append("   (no checks ran — Phase 1 has empty registry)")
         return "\n".join(lines)
     for r in report.results:
         if r.skipped:
@@ -551,7 +573,7 @@ def main() -> int:
         print(json.dumps(payload, ensure_ascii=False, indent=2))
     else:
         for r in reports:
-            print(_format_human(r, fail_on, score_budget))
+            print(_format_human(r, fail_on, score_budget, config, profile, args.check))
             if r is not reports[-1]:
                 print()
 

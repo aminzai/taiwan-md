@@ -62,6 +62,117 @@ def _select_checks(
     return selected
 
 
+def explain_empty_selection(
+    target: FileTarget,
+    config: Config,
+    profile: ProfileConfig | None,
+    check_name: str | None = None,
+) -> str:
+    """Diagnose why a report came back with zero results, for CLI messaging.
+
+    Read-only diagnostic — re-derives which cause applies without touching
+    `_select_checks` / `resolve_applies_to`'s actual filtering logic (that
+    behavior is OBSERVER-QUEUE #27 已拍板的設計, not up for change here).
+
+    2026-09-05 bug: `article-health.py` printed the same hardcoded
+    "(no checks ran — Phase 1 has empty registry)" line for every empty
+    selection — a leftover from the 2026-05-04 SSOT Phase 1 era when the
+    registry really was empty. Years later with 25+ plugins live, the line
+    kept firing for `--check=seo-meta --profile=ci-deploy` on an `en` file
+    (seo-meta's APPLIES_TO = ["zh-TW"], not overridden by ci-deploy) —
+    indistinguishable from an actual misconfiguration. This distinguishes:
+      (a) 語言範圍排除（設計如此，APPLIES_TO / options.applies_to 排除了
+          這個檔案的語言）
+      (b) check 被 config `enabled=false`（真的沒有 check 可跑）
+      (c) `--check=<name>` 沒註冊，或已註冊但不在這個 profile 的
+          checks 清單裡（真的沒有 check 可跑）
+    """
+    discover_checks()
+    from .registry import _REGISTRY  # type: ignore[attr-defined]
+
+    if not _REGISTRY:
+        return (
+            "⚠️  registry 是空的：一個 plugin 都沒被 discover 到——"
+            "檢查 scripts/tools/lib/article_health/checks/ 底下的檔案是否存在、"
+            "import 有沒有炸掉。這才是 2026-05-04 Phase 1 的原始情境，"
+            "現在（25+ plugins 應該都在）不該再發生。"
+        )
+
+    profile_name = profile.name if profile is not None else None
+    if profile is None or profile.checks is None:
+        profile_check_names: set[str] = set(_REGISTRY.keys())
+    else:
+        profile_check_names = set(profile.checks)
+
+    if check_name:
+        if check_name not in _REGISTRY:
+            return (
+                f"⚠️  check「{check_name}」沒有註冊在 registry 裡"
+                "（名字打錯，或這個 plugin 還沒進目前的 checkout——"
+                "真的沒有 check 可跑）。"
+            )
+        if check_name not in profile_check_names:
+            scope = f"profile「{profile_name}」" if profile_name else "目前指定的 profile"
+            return (
+                f"ℹ️  check「{check_name}」已註冊，但 {scope} 的 checks 清單沒有列它，"
+                "所以這次沒有東西可跑（真的沒有 check 可跑：profile 沒列這個 check，"
+                "不是這個檔案本身的問題）。"
+            )
+        mod = _REGISTRY[check_name]
+        applies = resolve_applies_to(mod, config, profile)
+        if "*" not in applies and target.lang not in applies:
+            return (
+                f"⊘ check「{check_name}」的語言範圍是 {applies}，"
+                f"不含這個檔案的語言「{target.lang}」——這是設計如此的語言範圍排除，"
+                "不是錯誤（語言範圍的唯一解析點是 resolve_applies_to；"
+                "要放寬請改 config 的 applies_to，不是回報 bug）。"
+            )
+        cfg = config.get_check_config(check_name)
+        if not cfg.enabled:
+            return (
+                f"⊘ check「{check_name}」目前被 config 設成 enabled=false，"
+                "所以沒有跑（真的沒有 check 可跑：check 被 disable）。"
+            )
+        return (
+            f"⚠️  check「{check_name}」照理該被選中卻沒有出現在結果裡——"
+            "不屬於上述任何已知成因，這是異常，麻煩回報。"
+        )
+
+    # No --check given: the whole profile came back empty for this target.
+    if profile is not None and profile.checks == []:
+        return (
+            f"ℹ️  profile「{profile_name}」的 checks 清單明列為空，"
+            "所以這個檔案沒有任何 check 可跑（真的沒有 check 可跑：profile 空清單）。"
+        )
+    lang_excluded = []
+    disabled = []
+    for name in sorted(profile_check_names):
+        mod = _REGISTRY.get(name)
+        if mod is None:
+            continue
+        applies = resolve_applies_to(mod, config, profile)
+        if "*" not in applies and target.lang not in applies:
+            lang_excluded.append(name)
+            continue
+        cfg = config.get_check_config(name)
+        if not cfg.enabled:
+            disabled.append(name)
+    parts = []
+    if lang_excluded:
+        parts.append(
+            f"語言範圍排除，設計如此：{', '.join(lang_excluded)} 都不含"
+            f"這個檔案的語言「{target.lang}」"
+        )
+    if disabled:
+        parts.append(f"被 config disable，真的沒有 check 可跑：{', '.join(disabled)}")
+    if not parts:
+        return (
+            "⚠️  沒有找到已知成因（可能是 profile.checks 列的名字都不在 registry 裡），"
+            "麻煩回報。"
+        )
+    return "⊘ 這個檔案沒有任何 check 跑，成因：" + "；".join(parts) + "。"
+
+
 def _resolve_severity(
     plugin_default: Severity,
     config: Config,
