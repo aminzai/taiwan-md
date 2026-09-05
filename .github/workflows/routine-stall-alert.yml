@@ -1,0 +1,168 @@
+name: Routine stall alert
+
+# 飛輪停轉告警 — 跑在第三處，不依賴任何一台驅動 routine 的 mac。
+#
+# 背景：reports/fortnight-deep-review-2026-09-05.md §2.4、§4.2 D。2026-08-23 09:19
+# → 08-28 05:35，排程器停轉 4 天 20 小時零告警——因為既有的兩層監看
+# （scripts/tools/flywheel-watch.py 跑在指揮部這台、routine-liveness-check.py 跑在
+# 飛輪自己的週日反思鏈裡）都跟飛輪共用同一批機器，機器睡著儀器就一起睡著。
+# 方向已寫在 docs/semiont/ROUTINE.md 註 ²⁵：alert-only（綠燈靜默，只在異常時推播），
+# 哲宇 2026-09-05 拍板每 6 小時查一次。
+#
+# 判準都在 scripts/tools/routine-stall-check.py（兩把尺：commit 齡 + 週排程
+# fire-vs-memory 對賬），這支 workflow 只負責「跑腳本 → 依 exit code 決定要不要
+# 開 issue / 推播」，不重複腳本裡的任何判準邏輯。
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+# 6 小時一班，理論上不會撞在一起；防的是 workflow_dispatch 手動觸發跟排程班重疊。
+concurrency:
+  group: routine-stall-alert
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      ISSUE_LABEL: routine-stall
+      COMMENT_DEDUPE_HOURS: '20'
+      GH_TOKEN: ${{ github.token }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          # routine 一天約 15 個 `[routine]` commit，尺一/尺二預設 --since-days 14
+          # 只需要約 210 筆歷史；600 給了充分緩衝但不用 fetch-depth: 0——這個 repo
+          # 全歷史 clone 約 1 GB，沒必要每 6 小時整包拉一次。
+          fetch-depth: 600
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Run routine-stall-check
+        id: check
+        run: |
+          set +e
+          python3 scripts/tools/routine-stall-check.py --json > result.json 2> stderr.txt
+          EXIT_CODE=$?
+          set -e
+          echo "exit_code=$EXIT_CODE" >> "$GITHUB_OUTPUT"
+
+          # 人讀輸出給 issue body / step summary 用；exit 3（工具本身壞掉）時
+          # --json 那次連 JSON 都印不出來，人讀模式 + 剛才的 stderr 才是唯一線索。
+          python3 scripts/tools/routine-stall-check.py > human.txt 2>> stderr.txt || true
+          cat stderr.txt >> human.txt || true
+          cat human.txt
+
+      - name: Green — silent, only leave a trace in the run's own summary
+        if: steps.check.outputs.exit_code == '0'
+        run: |
+          {
+            echo "### ✅ routine-stall-check 綠燈"
+            echo ""
+            echo '```'
+            cat human.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: WARN / CRITICAL — open or update the routine-stall issue
+        if: steps.check.outputs.exit_code == '1' || steps.check.outputs.exit_code == '2'
+        run: |
+          set -e
+          SEVERITY=$(python3 -c "import json; print(json.load(open('result.json'))['severity'])")
+          LAST_AT=$(python3 -c "import json; d = json.load(open('result.json')); lc = d['rule1_flywheel_commit_age'].get('last_commit'); print(lc['at'] if lc else '窗口內找不到任何 [routine] commit')")
+          AGE=$(python3 -c "import json; age = json.load(open('result.json'))['rule1_flywheel_commit_age'].get('age_hours'); print(f'{age}h 前' if age is not None else '')")
+          if [ "$SEVERITY" = "critical" ]; then
+            TITLE="🚨 飛輪停轉：最後一筆 routine commit 是 $LAST_AT（$AGE）"
+          else
+            TITLE="⚠️ 飛輪疑似漏拍：週排程有 routine 錯過一趟"
+          fi
+
+          gh label create "$ISSUE_LABEL" --color B60205 \
+            --description "routine-stall-check 開的飛輪停轉/漏拍告警" 2>/dev/null || true
+
+          BODY_FILE=$(mktemp)
+          {
+            echo "自動偵測（\`scripts/tools/routine-stall-check.py\`，跑在 GitHub Actions，"
+            echo "不依賴任何一台驅動 routine 的 mac）。"
+            echo ""
+            echo '```'
+            cat human.txt
+            echo '```'
+            echo ""
+            echo "背景：\`docs/semiont/ROUTINE.md\` 註 ²⁵、"
+            echo "\`reports/fortnight-deep-review-2026-09-05.md\` §2.4 / §4.2 D。"
+            echo ""
+            echo "_Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}_"
+          } > "$BODY_FILE"
+
+          EXISTING_JSON=$(gh issue list --label "$ISSUE_LABEL" --state open \
+            --json number,createdAt --jq '.[0] // empty')
+
+          if [ -n "$EXISTING_JSON" ]; then
+            NUMBER=$(echo "$EXISTING_JSON" | python3 -c "import json,sys; print(json.load(sys.stdin)['number'])")
+            CREATED_AT=$(echo "$EXISTING_JSON" | python3 -c "import json,sys; print(json.load(sys.stdin)['createdAt'])")
+            LAST_COMMENT_AT=$(gh api "repos/${{ github.repository }}/issues/$NUMBER/comments" \
+              --jq '.[-1].created_at // empty')
+            BASELINE="${LAST_COMMENT_AT:-$CREATED_AT}"
+            SHOULD_COMMENT=$(python3 -c "from datetime import datetime, timezone; baseline = datetime.fromisoformat('''$BASELINE'''.strip().replace('Z', '+00:00')); age_h = (datetime.now(timezone.utc) - baseline).total_seconds() / 3600; print('yes' if age_h > $COMMENT_DEDUPE_HOURS else 'no')")
+            if [ "$SHOULD_COMMENT" = "yes" ]; then
+              gh issue comment "$NUMBER" --body-file "$BODY_FILE"
+              echo "追加留言到既有 issue #$NUMBER" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "既有 issue #$NUMBER 最近一次動靜在 ${COMMENT_DEDUPE_HOURS} 小時內，不重複洗版" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          else
+            gh issue create --title "$TITLE" --body-file "$BODY_FILE" --label "$ISSUE_LABEL"
+            echo "開了新 issue：$TITLE" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Tool itself broken (exit 3) — never stay silent about this
+        # REFLEXES #52：儀器壞掉不能靜默。這條跟上面那條分開，不共用去重邏輯——
+        # 工具本身壞掉的訊號量太低，每次都值得看一眼，不套 20 小時去重。
+        if: steps.check.outputs.exit_code == '3'
+        run: |
+          gh label create "$ISSUE_LABEL" --color B60205 \
+            --description "routine-stall-check 開的飛輪停轉/漏拍告警" 2>/dev/null || true
+          BODY_FILE=$(mktemp)
+          {
+            echo "\`scripts/tools/routine-stall-check.py\` exit 3 —— 讀不到必要輸入，"
+            echo "不是「飛輪健康」，是工具本身壞掉。"
+            echo ""
+            echo '```'
+            cat human.txt
+            echo '```'
+            echo ""
+            echo "_Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}_"
+          } > "$BODY_FILE"
+          gh issue create \
+            --title "routine-stall-check 自己壞了（exit 3）" \
+            --body-file "$BODY_FILE" \
+            --label "$ISSUE_LABEL"
+
+      - name: Telegram push (optional)
+        if: >-
+          steps.check.outputs.exit_code != '0' &&
+          env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
+        run: |
+          MSG=$(head -c 3500 human.txt)
+          curl -fsS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=$MSG" > /dev/null
+
+      - name: No Telegram secret configured
+        if: >-
+          steps.check.outputs.exit_code != '0' &&
+          (env.TELEGRAM_BOT_TOKEN == '' || env.TELEGRAM_CHAT_ID == '')
+        run: echo "未設 Telegram secret，只開 issue" >> "$GITHUB_STEP_SUMMARY"
