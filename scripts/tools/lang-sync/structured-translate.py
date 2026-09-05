@@ -60,8 +60,10 @@ KNOWLEDGE = REPO / "knowledge"
 
 sys.path.insert(0, str(SCRIPT_DIR))
 from backends import (  # noqa: E402
+    AnthropicBackend,
     CodexBackend,
     GeminiBackend,
+    GeminiPaidBackend,
     OllamaBackend,
     OpenRouterBackend,
 )
@@ -122,7 +124,14 @@ def build_backend(spec: str):
         return CodexBackend()
     if name == "gemini":
         return GeminiBackend(model=opt) if opt else GeminiBackend()
-    raise ValueError(f"unknown backend spec: {spec!r} (want openrouter:<model> | ollama:<model> | codex | gemini)")
+    if name == "anthropic":
+        # Tier 6（OBSERVER-QUEUE #18，2026-09-05 拍板）— eligibility/cap 由 babel-dispatch.py 強制
+        return AnthropicBackend(model=opt) if opt else AnthropicBackend()
+    if name == "gemini-paid":
+        # Tier 7（OBSERVER-QUEUE #18，2026-09-05 拍板）
+        return GeminiPaidBackend(model=opt) if opt else GeminiPaidBackend()
+    raise ValueError(f"unknown backend spec: {spec!r} (want openrouter:<model> | ollama:<model> | codex | "
+                      f"gemini | anthropic:<model> | gemini-paid:<model>)")
 
 
 # ────────────────── generic JSON-call helper (Phase F / N) ──────────────────

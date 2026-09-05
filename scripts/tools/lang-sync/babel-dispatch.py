@@ -86,6 +86,31 @@ FAIL_MEMO = REPO / "reports" / "babel" / "fail-memo.json"
 FAIL_REASONS = REPO / "reports" / "babel" / "fail-reasons.json"
 MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避，非永久放棄——下個 run 重來）  # SAME path the legacy bash dispatchers use
 
+# ────────────────── Tier 6/7 restricted delegation (OBSERVER-QUEUE #18) ──────────────────
+# 哲宇 2026-09-05 拍板原話「tier 6 用 haiku, 7 用 gemini」。Tier 6（Anthropic Haiku
+# API backend）與 Tier 7（Gemini 付費 API，最後手段）都是 per-token 付費，資格限制
+# 為「只服務 status.py 標 missing 的 P0，或 audit-quality.py 同一把尺判定
+# CRITICAL(<0.5) 的截斷檔」——不能對一般 stale 開放（07-25 哲宇因算力爆炸關過
+# rewrite 的前車之鑑，見 SQUEEZE-MODELS-MAX-PIPELINE.md §義務鐵律）。每夜上限用
+# 環境變數而非寫死常數，方便哲宇日後不進 code 就能調整；預設值本身仍是常數，
+# 集中在這裡方便下次校準時一眼找到（不是 ROUTINE.md §不提預算鐵律管的「時間
+# 預算」，是「資格配額」，兩者不是同一件事）。
+BABEL_TIER6_NIGHTLY_CAP = int(os.environ.get("BABEL_TIER6_NIGHTLY_CAP", "10"))
+BABEL_TIER7_NIGHTLY_CAP = int(os.environ.get("BABEL_TIER7_NIGHTLY_CAP", "3"))
+CRITICAL_TRUNCATION_RATIO = 0.5   # 同 scripts/tools/lang-sync/audit-quality.py SUSPICIOUS_THRESHOLD，同一把尺不重造
+
+# 「cascade 對某檔全 tier 失敗」的側錄檔（跨夜持久化、git 版控 —— /tmp 重開機
+# 歸零會讓「連續兩夜同檔耗盡」這個判準永遠觸發不了）。schema
+# {"lang:zh_path": "YYYY-MM-DD"}（最近一次判定耗盡的日期）。
+CASCADE_EXHAUSTED_LOG = REPO / "reports" / "babel" / "cascade-exhausted.json"
+# fail_counts（跨 run 持久化、多產線共用同一份記憶）累計到這個數字，視為
+# 「現役 worker/tier 大概都咬過一次」的代理訊號——這不是逐一驗證「每個 tier
+# 都真的試過」的精確判準（babel-dispatch 是 worker pool 而非單一 cascade 內
+# 逐層 fallback，精確追蹤需要記錄「這篇被哪些 backend 試過」，成本高於本次
+# 任務範圍）。門檻本身是常數，之後若發現太早/太晚觸發，改這一行即可。
+CASCADE_EXHAUSTED_FAIL_COUNT = 8
+OBSERVER_QUEUE_MD = REPO / "docs" / "semiont" / "OBSERVER-QUEUE.md"
+
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS, ENABLED_TRANSLATION_LANGS  # noqa: E402
 import status as status_lib  # noqa: E402 — reuse body_hash()/body_hash_pure() (same algo status.py uses)
@@ -176,9 +201,10 @@ class Worker:
     model: Optional[str] = None  # OLLAMA_MODEL override (only set for ollama+@host)
     consecutive_failures: int = 0
     frozen_until: Optional[float] = None  # time.monotonic() deadline
+    tier: str = "normal"         # "normal" | "tier6" | "tier7" — restricted delegation (OBSERVER-QUEUE #18)
 
 
-def parse_worker_arg(raw: str) -> Worker:
+def parse_worker_arg(raw: str, tier: str = "normal") -> Worker:
     """label=backendspec[@host]
 
     backendspec is passed to translate.py --cascade verbatim (the @host
@@ -187,6 +213,12 @@ def parse_worker_arg(raw: str) -> Worker:
     worker's subprocesses instead, and the cascade spec collapses to the
     bare `ollama` token (translate.py's build_cascade() falls back to
     os.environ["OLLAMA_MODEL"] in that case).
+
+    `tier` ("tier6" / "tier7") marks a restricted-delegation worker
+    (OBSERVER-QUEUE #18) — TaskQueue.claim() only hands it tasks matching
+    the eligibility set computed in compute_restricted_eligible(), and
+    worker_loop() enforces the nightly cap. Passed straight through from
+    --worker-tier6/--worker-tier7 in main(); --worker always gets "normal".
     """
     if "=" not in raw:
         raise SystemExit(f"--worker must be 'label=backendspec[@host]', got: {raw!r}")
@@ -206,7 +238,7 @@ def parse_worker_arg(raw: str) -> Worker:
         host = host_raw
         cascade_spec = "ollama"
 
-    return Worker(label=label, cascade_spec=cascade_spec, host=host, model=model)
+    return Worker(label=label, cascade_spec=cascade_spec, host=host, model=model, tier=tier)
 
 
 def worker_env(worker: Worker) -> dict:
@@ -504,6 +536,13 @@ class RunState:
                                                             # 但同一篇連 MAX_RETRIES 次失敗就本 run 停手，
                                                             # 把輪次讓給還沒試過的文章。
         self.in_flight: set = set()                        # "lang:zh" currently dispatched (claim protocol)
+        # Tier 6/7 restricted delegation (OBSERVER-QUEUE #18，2026-09-05 拍板)：
+        self.restricted_eligible: set = set()               # {(lang, zh_path)} recomputed every round
+        self.tier_success_count: dict = defaultdict(int)    # "tier6"/"tier7" -> 本 run 成功篇數（夜間額度帳）
+        self.tier_cap_reached_logged: set = set()           # 哪些 tier 已經記過一次 cap_reached（防洗版）
+        self.tier6_cap: int = BABEL_TIER6_NIGHTLY_CAP       # 由 main() 依 --tier6-nightly-cap 覆寫
+        self.tier7_cap: int = BABEL_TIER7_NIGHTLY_CAP       # 由 main() 依 --tier7-nightly-cap 覆寫
+        self.exhausted_this_run: list = []                  # ["lang:zh", ...] 本 run 觸發 cascade_exhausted 的清單
 
 
 class TaskQueue:
@@ -516,16 +555,33 @@ class TaskQueue:
         self._dq = deque(tasks)
         self._lock = threading.Lock()
 
-    def claim(self, worker_label: str, last_worker: dict):
+    def claim(self, worker_label: str, last_worker: dict, task_filter=None):
+        """task_filter(lang, zh_path) -> bool, optional (Tier 6/7 restricted
+        workers pass one built in worker_loop()). Unlike the last-worker
+        preference below (soft — a worker CAN still get that task if nothing
+        else is left), task_filter is a HARD gate: a task failing it goes
+        into `deferred` and is restored to the queue for other workers
+        before this call returns, but this worker never claims it — even
+        when it is the only task left. (An earlier version reused the same
+        "give it to someone else, but fall through if nothing else remains"
+        pattern as last_worker for task_filter too; that silently handed a
+        tier6/7 worker an ineligible task whenever the queue drained to
+        exactly one remaining item near the end of a round.)"""
         with self._lock:
             n = len(self._dq)
+            deferred = []
             for _ in range(n):
                 task = self._dq.popleft()
                 lang, _gpath, zh_path = task
+                if task_filter is not None and not task_filter(lang, zh_path):
+                    deferred.append(task)
+                    continue
                 if last_worker.get(f"{lang}:{zh_path}") == worker_label and self._dq:
                     self._dq.append(task)  # try to give it to someone else first
                     continue
+                self._dq.extend(deferred)
                 return task
+            self._dq.extend(deferred)
             return None
 
     def __len__(self):
@@ -552,6 +608,150 @@ def default_langs(status_data: dict) -> list:
         if s.get("missing", 0) > 0 or s.get("stale", 0) > 0 or s.get("metadata_stale", 0) > 0:
             result.append(lang)
     return result
+
+
+def compute_restricted_eligible(status_data: dict, langs: list) -> set:
+    """Tier 6/7 資格集合（OBSERVER-QUEUE #18，2026-09-05 拍板）：只有
+
+    1. **P0 missing** — status.py 標 `missing`（無任何既有譯文）
+    2. **CRITICAL(<0.5) 截斷檔** — 既有譯文存在（`stale`／`metadata-stale`），
+       但全檔 bytes 比例 < CRITICAL_TRUNCATION_RATIO（跟
+       `scripts/tools/lang-sync/audit-quality.py` 的 SUSPICIOUS_THRESHOLD
+       同一把尺，不重造第二把——那把尺量的是「這篇讀起來像被攔腰砍斷」，
+       跟一般 stale 的「內容過期需要更新」是完全不同的嚴重度）
+
+    才准進付費 Tier 6/7 的隊列。**不包含一般 stale／metadata-stale**——那
+    是免費 cascade（Tier 1-5）該吃的量，付費 tier 對它們開放會直接撞
+    07-25 哲宇因算力爆炸關過 rewrite 的前車之鑑。
+
+    回傳 {(lang, zh_path), ...}。I/O 只有 os.stat()（檔案大小），不讀取
+    整篇內容——這是本輪每個語言都要跑一次的計算，成本必須跟檔案數量線性
+    而非跟檔案大小線性。
+    """
+    eligible = set()
+    by_article = status_data.get("byArticle", {})
+    for zh, info in by_article.items():
+        zh_full = KNOWLEDGE / zh
+        for lang in langs:
+            t = info.get("translations", {}).get(lang, {})
+            st = t.get("status")
+            if st == "missing":
+                eligible.add((lang, zh))
+                continue
+            if st in ("stale", "metadata-stale") and t.get("path"):
+                try:
+                    trans_size = (KNOWLEDGE / t["path"]).stat().st_size
+                    zh_size = zh_full.stat().st_size
+                except OSError:
+                    continue
+                if zh_size > 0 and (trans_size / zh_size) < CRITICAL_TRUNCATION_RATIO:
+                    eligible.add((lang, zh))
+    return eligible
+
+
+def record_cascade_exhaustion(state: "RunState", lang: str, zh_path: str, fail_count: int,
+                               report: JsonlWriter, log: Logger) -> None:
+    """義務鐵律第 4 條（2026-09-05 哲宇拍板，OBSERVER-QUEUE #18(c)）：cascade
+    對某檔全 tier 失敗時 escalate，不 silent carry。
+
+    `fail_count` 達 CASCADE_EXHAUSTED_FAIL_COUNT 是「現役 worker/tier 大概
+    都咬過一次」的代理訊號（見該常數旁的完整說明），不是逐一驗證每個 tier
+    都真的試過的精確判準。
+
+    效果：(1) report.jsonl 記一筆 `cascade_exhausted` 事件，讓收官 memory
+    可以直接 grep 出這夜耗盡的檔案清單（也累進 state.exhausted_this_run 供
+    本 run 結尾的 log 摘要用）(2) 側錄跨夜持久檔
+    `reports/babel/cascade-exhausted.json`——如果同一個 key 上一次被記錄的
+    日期不是今天、且距今 ≤3 天（大約是「上一次跑」而非巧合撞到舊紀錄），
+    判定為連續兩夜同檔耗盡，append 一列進 OBSERVER-QUEUE.md §待決。
+
+    任何一步失敗都只 log warning，不重丟例外——escalation 本身絕不能弄垮
+    正在跑的 dispatcher（哲宇的翻譯批次比這個側錄機制重要得多）。
+    """
+    key = f"{lang}:{zh_path}"
+    now = datetime.now().astimezone()
+    today = now.date().isoformat()
+    report.write({
+        "ts": now.isoformat(timespec="seconds"),
+        "event": "cascade_exhausted", "lang": lang, "zh": zh_path, "fail_count": fail_count,
+    })
+    log(f"🚨 cascade_exhausted: {key}（累計失敗 {fail_count} 次，視為現役 tier 全滅——義務鐵律第 4 條 escalate）")
+    with state.lock:
+        state.exhausted_this_run.append(key)
+    try:
+        store = {}
+        if CASCADE_EXHAUSTED_LOG.exists():
+            store = json.loads(CASCADE_EXHAUSTED_LOG.read_text(encoding="utf-8"))
+        prev = store.get(key)
+        store[key] = today
+        CASCADE_EXHAUSTED_LOG.parent.mkdir(parents=True, exist_ok=True)
+        CASCADE_EXHAUSTED_LOG.write_text(json.dumps(store, ensure_ascii=False, indent=1), encoding="utf-8")
+        if prev and prev != today:
+            gap_days = (now.date() - datetime.fromisoformat(prev).date()).days
+            if 0 < gap_days <= 3:
+                append_observer_queue_row(lang, zh_path, fail_count, prev, log)
+    except Exception as e:
+        log(f"⚠️  cascade_exhausted 側錄失敗（不影響翻譯本身）：{e}")
+
+
+def append_observer_queue_row(lang: str, zh_path: str, fail_count: int, first_seen: str, log: Logger) -> None:
+    """連續兩夜同檔 cascade exhausted → 在 OBSERVER-QUEUE.md §待決 表尾新增一列
+    （格式照該檔 `# | 進佇列日 | 決策 | 預設選項 | 不決策的代價 | default-action`
+    六欄規則）。
+
+    防禦式寫法：找不到預期的表格錨點就整段放棄記 warning，絕不用「大概對」
+    的正規表達式硬改這份 canonical 認知檔（它是哲宇 standing decision 的唯一
+    出口，寫壞比不寫更糟）。同一 (lang, zh_path) 已經有未結案的列時不重複
+    append（用 zh_path 字串比對，保守但不會漏檢——寧可漏掉一次新 escalate
+    也不要洗版同一篇）。
+    """
+    try:
+        text = OBSERVER_QUEUE_MD.read_text(encoding="utf-8")
+    except Exception as e:
+        log(f"⚠️  無法讀 OBSERVER-QUEUE.md，略過 escalate：{e}")
+        return
+    if zh_path in text and "cascade 連續兩夜耗盡" in text:
+        log(f"ℹ️  {lang}:{zh_path} 已在 OBSERVER-QUEUE 待決，不重複 append")
+        return
+    lines = text.splitlines(keepends=True)
+    try:
+        pending_idx = next(i for i, l in enumerate(lines) if l.strip() == "## 待決")
+        decided_idx = next(i for i, l in enumerate(lines) if l.strip() == "## 已決")
+    except StopIteration:
+        log("⚠️  OBSERVER-QUEUE.md 找不到 ## 待決／## 已決 錨點，略過 escalate")
+        return
+    last_row_idx = None
+    for i in range(decided_idx - 1, pending_idx, -1):
+        if lines[i].startswith("| "):
+            last_row_idx = i
+            break
+    if last_row_idx is None:
+        log("⚠️  OBSERVER-QUEUE.md §待決找不到既有表格列，略過 escalate")
+        return
+    # 編號來源必須精準鎖在「這是 OBSERVER-QUEUE 自己的列號」，不能用寬鬆的
+    # `#\d+` 全文掃描——本檔決策文字裡大量引用 GitHub issue/PR（`#1642`／
+    # `#1599` 這種），混進來會讓編號暴衝到四位數。§待決表的列號是行首
+    # `| N |`；§已決表沒有獨立列號欄，但慣例是「日期欄後緊接 `#N`」
+    # （如 `| 2026-09-05 | #21 marketplace 搬遷 |`），只鎖行首這個位置。
+    used_nums = [int(m) for m in re.findall(r"^\|\s*(\d+)\s*\|", text, re.MULTILINE)]
+    used_nums += [int(m) for m in re.findall(
+        r"^\|\s*\d{4}-\d{2}-\d{2}\s*\|\s*\**#(\d+)", text, re.MULTILINE)]
+    next_num = (max(used_nums) + 1) if used_nums else 1
+    today = datetime.now().astimezone().date().isoformat()
+    decision = (f"**babel cascade 連續兩夜耗盡：`{lang}:{zh_path}`**（累計失敗 {fail_count} 次，"
+                f"上次耗盡 {first_seen}）：P0 missing 或 CRITICAL(<0.5) 截斷檔，付費 Tier 6/7 加上"
+                f"免費 Tier 1-5 連續兩夜都翻不出能過三重 gate 的版本。可能是這篇本身難度異常"
+                f"（結構複雜／腳註密集／content policy 邊界）或閘門對它有系統性誤判，需要人眼看一次。")
+    default = "人工看一次這篇——若是閘門誤判，修判準後重置 fail_counts；若是真的難，考慮手動 Sonnet 委派（SQUEEZE §第五層）或維持沉底"
+    cost = "持續佔用夜間算力重複嘗試同一篇注定失敗的任務，擠掉其他文章的輪次"
+    row = (f"| {next_num}  | {today} | {decision} | {default} | {cost} | "
+           f"🔒 等真人（累計三夜以上未解需要真人判斷是閘門問題還是文章問題） |\n")
+    lines.insert(last_row_idx + 1, row)
+    try:
+        OBSERVER_QUEUE_MD.write_text("".join(lines), encoding="utf-8")
+        log(f"📮 escalate 進 OBSERVER-QUEUE.md §待決 #{next_num}：{lang}:{zh_path}")
+    except Exception as e:
+        log(f"⚠️  寫入 OBSERVER-QUEUE.md 失敗：{e}")
 
 
 FRESH_WINDOW_DAYS = 5   # 見 build_worklist：新文章的最高優先窗口
@@ -1149,11 +1349,18 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         "structured_fallback_skip_reason": structured_fallback_skip_reason,
     })
 
+    just_exhausted = False
     with state.lock:
         state.last_worker[f"{lang}:{zh_path}"] = worker.label
         if not ok:
             state.quarantine_log[lang].add(zh_path)
             state.fail_counts[f"{lang}:{zh_path}"] += 1
+            # cascade exhausted escalation（義務鐵律第 4 條，OBSERVER-QUEUE #18(c)，
+            # 哲宇 2026-09-05 拍板）：edge-trigger 在累計失敗次數「剛好跨過」門檻的
+            # 那一次記一筆，不是每次失敗都記（否則同一篇會洗版 report.jsonl）。
+            # 真正的 escalate 工作（檔案 I/O／可能改 OBSERVER-QUEUE.md）留到鎖外做，
+            # 見本函式尾端——lock 只保護記憶體狀態，不該扛著它做 I/O。
+            just_exhausted = state.fail_counts[f"{lang}:{zh_path}"] == CASCADE_EXHAUSTED_FAIL_COUNT
             # 每次失敗即時 flush 難篇記憶（2026-07-31）：原本只在 commit-every-50
             # 落盤，低通過率時整個 run 一次都沒存；產線重啟後記憶歸零，兩篇
             # 隊首難篇（外送專法／苯駢芘）在同一天被三次重啟各重撞一輪。
@@ -1186,6 +1393,9 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
             except Exception:
                 pass
         state.in_flight.discard(f"{lang}:{zh_path}")
+
+    if just_exhausted:
+        record_cascade_exhaustion(state, lang, zh_path, CASCADE_EXHAUSTED_FAIL_COUNT, report, log)
 
     # Worker health: 3 consecutive hard failures (exit!=0 AND the backend
     # never even produced a file) → freeze 30min. A gate-fail on output the
@@ -1231,6 +1441,8 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
             state.pending_workers[lang].add(worker.label)
             state.pending_files[lang].append(trans_path)
             state.pending_since.setdefault(lang, time.monotonic())
+            if worker.tier in ("tier6", "tier7"):
+                state.tier_success_count[worker.tier] += 1
             # 門檻或年齡任一到就 commit——年齡檢查原本只在輪次結束跑，但一輪
             # 可能長達數小時，譯文在工作區懸空（2026-07-25 21:32 實測 30+ 篇
             # 未 commit 懸空 2 小時）。懸空檔案會被並行 session 的 merge 防護
@@ -1253,16 +1465,58 @@ def wait_if_frozen(worker: Worker, workers: list, log: Logger) -> None:
             time.sleep(10)
 
 
+def make_restricted_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: Logger):
+    """Tier 6/7 eligibility + nightly-cap gate (OBSERVER-QUEUE #18，2026-09-05
+    拍板). Returns a `(lang, zh_path) -> bool` closure for TaskQueue.claim(),
+    or None for a "normal" worker (no restriction).
+
+    Eligibility set (`state.restricted_eligible`) is recomputed once per
+    round by compute_restricted_eligible() — P0 missing OR CRITICAL(<0.5)
+    truncated only, never plain stale (07-25 哲宇因算力爆炸關過 rewrite 的
+    前車之鑑：付費 tier 絕不能對一般 stale 開放).
+
+    Tier 7 additionally requires the task to have already failed at least
+    once THIS run (`state.fail_counts` proxy for "Tier 6 也失敗過") — a
+    worker pool has no single-call cascade to fall through, so "已經試過
+    便宜的路" is approximated by "已經在 fail_counts 記過至少一次"，而不是
+    嚴格保證 Tier 6 specifically already touched it.
+    """
+    if worker.tier not in ("tier6", "tier7"):
+        return None
+
+    def _eligible(lang: str, zh_path: str) -> bool:
+        key = (lang, zh_path)
+        with state.lock:
+            if key not in state.restricted_eligible:
+                return False
+            cap = state.tier6_cap if worker.tier == "tier6" else state.tier7_cap
+            if state.tier_success_count[worker.tier] >= cap:
+                if worker.tier not in state.tier_cap_reached_logged:
+                    state.tier_cap_reached_logged.add(worker.tier)
+                    report.write({
+                        "ts": datetime.now().astimezone().isoformat(timespec="seconds"),
+                        "event": f"{worker.tier}_cap_reached", "tier": worker.tier, "cap": cap,
+                    })
+                    log(f"🧯 {worker.tier} 每夜上限 {cap} 已達 — 本輪起跳過剩餘 {worker.tier} 候選，留到下一夜")
+                return False
+            if worker.tier == "tier7" and state.fail_counts.get(f"{lang}:{zh_path}", 0) < 1:
+                return False  # 最後手段——只在這篇本 run 已經失敗過至少一次才碰
+        return True
+
+    return _eligible
+
+
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
                  commit_every: int, log: Logger,
                  engine: str = "whole", no_patch: bool = False,
                  no_noop_bump: bool = False) -> None:
+    task_filter = make_restricted_task_filter(worker, state, report, log)
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
             last_worker_snapshot = dict(state.last_worker)
-        task = queue.claim(worker.label, last_worker_snapshot)
+        task = queue.claim(worker.label, last_worker_snapshot, task_filter)
         if task is None:
             return
         lang, group_path, zh_path = task
@@ -1297,6 +1551,24 @@ def main() -> None:
                      help="repeatable. backendspec passed to translate.py --cascade verbatim "
                           "(stripped of @host first). @host + ollama backend → OLLAMA_HOST/"
                           "OLLAMA_MODEL env for that worker's subprocesses.")
+    ap.add_argument("--worker-tier6", action="append", dest="worker_tier6", default=[],
+                     metavar="label=backendspec[@host]",
+                     help="Tier 6 restricted worker (OBSERVER-QUEUE #18，2026-09-05 拍板) — "
+                          "e.g. 'haiku=anthropic:claude-haiku-4-5-20251001'. Only claims tasks "
+                          "in compute_restricted_eligible() (P0 missing OR CRITICAL(<0.5) "
+                          "truncated); capped at --tier6-nightly-cap successes per run.")
+    ap.add_argument("--worker-tier7", action="append", dest="worker_tier7", default=[],
+                     metavar="label=backendspec[@host]",
+                     help="Tier 7 restricted worker, last resort — e.g. "
+                          "'gemini7=gemini-paid:gemini-2.5-pro'. Same eligibility as Tier 6, "
+                          "plus requires the task to have failed at least once this run "
+                          "(proxy for 'Tier 6 also failed'); capped at --tier7-nightly-cap.")
+    ap.add_argument("--tier6-nightly-cap", type=int, default=BABEL_TIER6_NIGHTLY_CAP,
+                     help=f"max Tier 6 successes per run (default {BABEL_TIER6_NIGHTLY_CAP}, "
+                          "env BABEL_TIER6_NIGHTLY_CAP)")
+    ap.add_argument("--tier7-nightly-cap", type=int, default=BABEL_TIER7_NIGHTLY_CAP,
+                     help=f"max Tier 7 successes per run (default {BABEL_TIER7_NIGHTLY_CAP}, "
+                          "env BABEL_TIER7_NIGHTLY_CAP)")
     ap.add_argument("--order", choices=["reverse", "forward"], default="reverse",
                      help="reverse (default) = process each priority's worklist from the tail "
                           "(anti-collision vs legacy dispatchers, which eat from the head)")
@@ -1325,9 +1597,11 @@ def main() -> None:
                           "instead (2026-07-27, see reports/semantic-noop-stale-2026-07-27.md)")
     args = ap.parse_args()
 
-    if not args.workers:
-        ap.error("at least one --worker is required")
-    workers = [parse_worker_arg(w) for w in args.workers]
+    if not args.workers and not args.worker_tier6 and not args.worker_tier7:
+        ap.error("at least one --worker (or --worker-tier6/--worker-tier7) is required")
+    workers = ([parse_worker_arg(w) for w in args.workers]
+               + [parse_worker_arg(w, tier="tier6") for w in args.worker_tier6]
+               + [parse_worker_arg(w, tier="tier7") for w in args.worker_tier7])
     labels = [w.label for w in workers]
     if len(labels) != len(set(labels)):
         ap.error(f"--worker labels must be unique, got: {labels}")
@@ -1349,12 +1623,17 @@ def main() -> None:
 
     log(f"START babel-dispatch.py {datetime.now().astimezone().isoformat(timespec='seconds')}")
     log(f"  run_dir={run_dir}")
-    log(f"  workers={[(w.label, w.cascade_spec, w.host) for w in workers]}")
+    log(f"  workers={[(w.label, w.cascade_spec, w.host, w.tier) for w in workers]}")
     log(f"  order={args.order} rounds={args.rounds} commit_every={args.commit_every} "
         f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit} "
         f"engine={args.engine} no_patch={args.no_patch} no_noop_bump={args.no_noop_bump}")
+    if any(w.tier != "normal" for w in workers):
+        log(f"  tier6_nightly_cap={args.tier6_nightly_cap} tier7_nightly_cap={args.tier7_nightly_cap} "
+            "(OBSERVER-QUEUE #18，2026-09-05 拍板)")
 
     state = RunState()
+    state.tier6_cap = args.tier6_nightly_cap
+    state.tier7_cap = args.tier7_nightly_cap
     seen_missing_slug: set = set()
     total_enqueued = 0
 
@@ -1368,6 +1647,13 @@ def main() -> None:
         if not langs:
             log("No target langs (nothing missing/stale anywhere) — done.")
             break
+
+        if any(w.tier != "normal" for w in workers):
+            # Tier 6/7 資格集合每輪重算——上一輪救回的文章這輪要立刻從資格集合
+            # 消失，付費 worker 不會浪費配額去重驗已經過關的檔案。
+            with state.lock:
+                state.restricted_eligible = compute_restricted_eligible(status_data, langs)
+            log(f"  restricted_eligible (Tier 6/7)：{len(state.restricted_eligible)} 篇合格")
 
         slug_map_path = build_slug_map(run_dir)
 
@@ -1396,12 +1682,23 @@ def main() -> None:
             # 失敗次數決定優先序（2026-07-26 改，此前是硬性 exclude）：撞牆多次
             # 的沉到隊尾，沒試過的先跑，算力優先花在有機會成功的文章上。
             # fail_counts 跨 run 持久化，所以重啟不會又從同一批難篇開始撞。
-            worklist = build_worklist(status_data, lang, args.priority, args.order,
-                                       fail_counts=state.fail_counts)
+            worklist_full = build_worklist(status_data, lang, args.priority, args.order,
+                                            fail_counts=state.fail_counts)
             cap = 10 * len(workers)
             if remaining_budget is not None:
                 cap = min(cap, remaining_budget - sum(len(v) for v in per_lang_tasks.values()))
-            worklist = worklist[: max(cap, 0)]
+            worklist = worklist_full[: max(cap, 0)]
+            if any(w.tier != "normal" for w in workers) and state.restricted_eligible:
+                # Tier 6/7 資格集合（P0 missing／CRITICAL 截斷）可能被一般 stale
+                # backlog 擠出 per-round cap 之外——cap 只顧整體吞吐量，不知道
+                # 「這篇是付費 tier 唯一能碰的稀缺資格」。額外撈出這個語言合格
+                # 但沒被 cap 收進來的項目，上限用 tier6+tier7 夜間配額之和
+                # （配額本來就 ≤13，不會讓佇列無界增長）。
+                already = set(worklist)
+                extra_budget = state.tier6_cap + state.tier7_cap
+                extra = [zh for zh in worklist_full[len(worklist):]
+                         if zh not in already and (lang, zh) in state.restricted_eligible][:extra_budget]
+                worklist = worklist + extra
             if not worklist:
                 continue
             round_dir = run_dir / "tasks" / lang / f"round{round_num:02d}"
@@ -1499,6 +1796,17 @@ def main() -> None:
             log(f"  {n}× 失敗：{len(items)} 篇" +
                 (f" — {items[:5]}{' …' if len(items) > 5 else ''}" if n >= 3 else ""))
         log(f"  記憶已存 {FAIL_MEMO}（下個 run 續用，不會又從難篇開始撞）")
+    if any(w.tier != "normal" for w in workers):
+        log(f"Tier 6/7 本 run 成功篇數：{dict(state.tier_success_count)}"
+            f"（cap tier6={state.tier6_cap} tier7={state.tier7_cap}）")
+    # 義務鐵律第 4 條（OBSERVER-QUEUE #18(c)）：cascade exhausted 清單必須在
+    # 收官摘要裡明列，babel 收官 memory 直接抄這段，不 silent carry。
+    if state.exhausted_this_run:
+        uniq = sorted(set(state.exhausted_this_run))
+        log(f"🚨 cascade_exhausted 本輪 {len(uniq)} 篇（babel 收官 memory 必列，"
+            f"連續兩夜同檔已自動 escalate 進 OBSERVER-QUEUE.md §待決）：")
+        for k in uniq:
+            log(f"  - {k}")
     log("DONE")
 
 

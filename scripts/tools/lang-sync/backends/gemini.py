@@ -16,16 +16,22 @@ Per哲宇 callout 2026-05-12 alongside codex: "用我的 gemini 訂閱處理".
 """
 from __future__ import annotations
 
+import json
 import os
 import re
 import shutil
 import subprocess
+import sys
+import urllib.error
+import urllib.request
+from dataclasses import replace as _dc_replace
 from pathlib import Path
 
 from ._base import (
     BackendBadOutput,
     BackendCapabilities,
     BackendRateLimited,
+    BackendRefusal,
     BackendTimeout,
     BackendUnavailable,
     TranslationBackend,
@@ -131,3 +137,122 @@ def _extract_gemini_output(stdout: str) -> str:
     for pat in _GEMINI_NOISE_PATTERNS:
         out = pat.sub("", out)
     return out.strip()
+
+
+# ────────────────── Tier 7: paid API key path ──────────────────
+#
+# OBSERVER-QUEUE #18，哲宇 2026-09-05 拍板原話「tier 6 用 haiku, 7 用 gemini」。
+# 完全獨立於上面的 GeminiBackend（CLI + Workspace 訂閱）——那條路 2026-07-18
+# 起永久死亡（IneligibleTierError: UNSUPPORTED_CLIENT，需遷移 Antigravity，
+# 帳號決策屬哲宇，不在本次任務範圍），2026-09-05 複測仍是同一個錯誤
+# （`gemini --skip-trust --prompt ...` 幾秒內回同一個 exception）。這個類走
+# Google Generative Language API 的個人 API key 路徑，跟訂閱/CLI 無關，
+# 是否可用只取決於有沒有 GEMINI_API_KEY。
+
+class GeminiPaidBackend(TranslationBackend):
+    """Tier 7 最後手段——付費 API key，只在 Tier 6 也失敗時才碰（資格限制與
+    每夜上限由 babel-dispatch.py 的 restricted worker 機制強制，這個類本身
+    跟其他 backend 一樣是無狀態的可插拔 provider）。"""
+
+    CAPABILITIES = BackendCapabilities(
+        name="gemini-paid",
+        provider_kind="gemini-api",
+        model="gemini-2.5-pro",
+        cost_kind="paid-per-token",
+        typical_latency_s=60,
+        max_context_chars=1_000_000,
+        prc_refusal_risk_low=True,
+        multilingual_strength=0.90,
+        notes="Tier 7（2026-09-05 拍板）— Google Generative Language API 付費金鑰路徑，"
+              "跟訂閱版 GeminiBackend（CLI，2026-07-18 起永久死亡）完全獨立的認證管道。"
+              "未配置 GEMINI_API_KEY 時 skip 不 fail。",
+    )
+
+    API_URL_TMPL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
+    KEY_FILE = Path.home() / ".config" / "taiwan-md" / "credentials" / "gemini.key"
+    ENV_FILE = Path.home() / ".config" / "taiwan-md" / "credentials" / ".env"
+    DEFAULT_TIMEOUT = 300
+    DEFAULT_MAX_TOKENS = 8192
+
+    _warned_missing_key = False  # class-level：多個 worker 共用同一個 process 時只印一次
+
+    def __init__(self, model: str = None, **config):
+        super().__init__(**config)
+        if model:
+            self.CAPABILITIES = _dc_replace(self.CAPABILITIES, model=model)
+        self._api_key = self._load_key()
+
+    def _load_key(self) -> str | None:
+        v = os.environ.get("GEMINI_API_KEY", "").strip()
+        if v:
+            return v
+        if self.KEY_FILE.exists():
+            v = self.KEY_FILE.read_text(encoding="utf-8").strip()
+            if v:
+                return v
+        if self.ENV_FILE.exists():
+            for line in self.ENV_FILE.read_text(encoding="utf-8").splitlines():
+                if line.startswith("GEMINI_API_KEY="):
+                    v = line.split("=", 1)[1].strip().strip('"').strip("'")
+                    if v:
+                        return v
+        return None
+
+    def is_available(self) -> bool:
+        if not self._api_key:
+            if not GeminiPaidBackend._warned_missing_key:
+                print("⚠️  Tier 7 未配置：GEMINI_API_KEY 未設定"
+                      f"（{self.KEY_FILE} 或環境變數）— 需哲宇提供，skip 不算 fail",
+                      file=sys.stderr)
+                GeminiPaidBackend._warned_missing_key = True
+            return False
+        return True
+
+    def translate(self, system: str, user: str, *, max_tokens: int = None, timeout: int = None) -> str:
+        timeout = timeout or self.DEFAULT_TIMEOUT
+        max_tokens = max_tokens or self.DEFAULT_MAX_TOKENS
+        url = self.API_URL_TMPL.format(model=self.CAPABILITIES.model, key=self._api_key)
+        payload = json.dumps({
+            "systemInstruction": {"parts": [{"text": system}]},
+            "contents": [{"role": "user", "parts": [{"text": user}]}],
+            "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.3},
+        }).encode("utf-8")
+        req = urllib.request.Request(url, data=payload, method="POST",
+                                      headers={"content-type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="replace")[:500]
+            if e.code == 429:
+                self.mark_cool_down(300)
+                self._record_failure("rate_limited", body)
+                raise BackendRateLimited(f"HTTP 429: {body}", cool_down_until=self.cool_down_until())
+            if e.code in (400, 401, 403):
+                self._record_failure("unavailable", body)
+                raise BackendUnavailable(f"HTTP {e.code} (bad GEMINI_API_KEY or blocked?): {body}")
+            self._record_failure("bad_output", f"HTTP {e.code}: {body}")
+            raise BackendBadOutput(f"HTTP {e.code}: {body}")
+        except (urllib.error.URLError, TimeoutError) as e:
+            self._record_failure("timeout", str(e))
+            raise BackendTimeout(f"gemini API timeout/network error: {e}")
+
+        candidates = data.get("candidates") or []
+        if not candidates:
+            feedback = data.get("promptFeedback", {})
+            self._record_failure("refusal", f"no candidates: {feedback}")
+            raise BackendRefusal(f"gemini API returned no candidates (promptFeedback={feedback})")
+        cand = candidates[0]
+        finish_reason = cand.get("finishReason")
+        parts = cand.get("content", {}).get("parts", []) or []
+        text = "".join(p.get("text", "") for p in parts)
+
+        if finish_reason == "MAX_TOKENS":
+            self._record_failure("bad_output", "truncated (finishReason=MAX_TOKENS)")
+            raise BackendBadOutput("output truncated (finishReason=MAX_TOKENS) — tail/footnotes lost, not saved")
+        if not text or len(text) < 100:
+            self._record_failure("bad_output", f"empty/tiny output: {len(text)} chars")
+            raise BackendBadOutput(f"gemini API produced empty/tiny output ({len(text)} chars)")
+
+        self._record_success()
+        return text

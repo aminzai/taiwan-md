@@ -32,8 +32,9 @@ from ._base import (
     TranslationBackend,
 )
 from ._prompt import build_translation_prompt, extract_zh_frontmatter_fields, LANG_NAMES
+from .anthropic import AnthropicBackend
 from .codex import CodexBackend
-from .gemini import GeminiBackend
+from .gemini import GeminiBackend, GeminiPaidBackend
 from .ollama import OllamaBackend
 from .openrouter import OpenRouterBackend
 
@@ -50,8 +51,10 @@ __all__ = [
     "BackendTimeout",
     "BackendUnavailable",
     # concrete
+    "AnthropicBackend",
     "CodexBackend",
     "GeminiBackend",
+    "GeminiPaidBackend",
     "OllamaBackend",
     "OpenRouterBackend",
     # prompt builder

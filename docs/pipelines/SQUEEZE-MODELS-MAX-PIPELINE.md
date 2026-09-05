@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.11'
-last_updated: 2026-07-29
-last_session: '2026-07-29 vortex（模型實績新增跨語總體門檻；撤下 3090 兩個零產出 Qwen）'
+current_version: 'v4.13'
+last_updated: 2026-09-05
+last_session: '2026-09-05（OBSERVER-QUEUE #18 拍板執行：哲宇原話「tier 6 用 haiku, 7 用 gemini」——摘 gemini 免費層出 default cascade、新增 Tier 6 Haiku／Tier 7 Gemini 付費 API 兩個 backend＋babel-dispatch.py 資格限制與每夜配額機制、義務鐵律新增 cascade exhausted escalate 條款）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -20,9 +20,34 @@ upstream_canonical:
 > 報告、三重巡檢、自動進化硬條款、薄殼 wake prompt contract。本檔管「怎麼翻」，
 > 渦流檔管「怎麼持續運轉與進化」。
 
-# 榨模型MAX — 多語 batch sync 主流程 v4.11
+# 榨模型MAX — 多語 batch sync 主流程 v4.13
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.13（2026-09-05）：**babel cascade 重建**（OBSERVER-QUEUE #18，哲宇拍板原話
+> 「tier 6 用 haiku, 7 用 gemini」）— (a) **gemini（訂閱版 CLI）摘出 default
+> cascade**：`IneligibleTierError: UNSUPPORTED_CLIENT` 是永久性錯誤（2026-07-18
+> 起，2026-09-05 複測仍同一錯誤），非暫時 429，留在 default 裡等於每篇白撞一次
+> 死 backend；程式碼路徑保留，帳號遷移 Antigravity 後改回 `DEFAULT_CASCADE_ID`
+> 一行即可復活。(b) **新增 Tier 6（Anthropic Haiku API，`backends/anthropic.py`）
+> 與 Tier 7（Gemini 付費 API，`backends/gemini.py` GeminiPaidBackend）**：兩者
+> 都不進 default cascade，只服務 P0 missing／CRITICAL(<0.5) 截斷檔，每夜配額
+> 10／3 篇（`BABEL_TIER6_NIGHTLY_CAP`／`BABEL_TIER7_NIGHTLY_CAP`），資格限制與
+> 配額在 `babel-dispatch.py` 的 restricted worker 機制強制（`--worker-tier6`／
+> `--worker-tier7`），不放寬到一般 stale（07-25 算力爆炸關過 rewrite 的前車之
+> 鑑）。兩個 backend 目前都因缺 `ANTHROPIC_API_KEY`／`GEMINI_API_KEY` 顯示未配置
+> （skip 不算 fail），等哲宇補 key。(c) **義務鐵律新增第 4 條**：cascade 對某檔
+> 全部現役 tier 失敗時 escalate（`report.jsonl` 記 `cascade_exhausted`＋收官
+> memory 必列），連續兩夜同檔耗盡自動 append 進 OBSERVER-QUEUE.md §待決，不再
+> silent carry。
+>
+> v4.12（2026-09-05）：**leak 閘門書目區豁免**（哲宇拍板 OBSERVER-QUEUE #23
+> 選 A）— leak 曾是本輪失敗第一大宗（620 筆裡 251 筆），全部敗在參考資料區
+> 沒翻的中文來源標題。`cjk-leak-check.py` 新增「書目區」判定（腳註定義行＋
+> 參考資料／延伸閱讀等標題到檔尾）：書目區內正體來源標題放行，簡體仍擋
+> （新增 `detect_simplified_residue()`，抓到已經悄悄漏進 `knowledge/ru`／
+> `knowledge/ar` 的「维基百科」「国家文化记忆库」等簡體來源）。`translate.py`
+> 的 `detect_cjk_leak` 同步改，兩處判準單一來源。
 >
 > v4.11（2026-07-29 vortex）：**弱適配同時看逐語與跨語總體** —
 > 四語 lane 的 `qwen3.5:35b` 已 0/8，舊儀器因每個語言僅 2 筆仍不警示；
@@ -75,15 +100,19 @@ upstream_canonical:
 │            ├── 軸二：try-catch first-class（refusal 是 result 不是 exc） │
 │            └── 軸三：最後統合 + retry（aggregate 不是 throw away）       │
 │                                                                          │
-│   🪜 4-tier cascade（v4.4 = translate.py DEFAULT_CASCADE v4.3 鏡射）    │
+│   🪜 cascade（v4.13 = translate.py DEFAULT_CASCADE 鏡射＋Tier 6/7）      │
 │            ├── Tier 0a: Sonnet diff-patch（已存在翻譯漂移 ≤ 10 lines）   │
 │            ├── Tier 0b: bump-source-sha.py（pure metadata refresh）      │
-│            ├── Tier 1: codex (subscription) → gemini (subscription)      │
+│            ├── Tier 1: codex (subscription)                             │
+│            │          gemini 已摘出 default（永久死亡，2026-09-05）     │
 │            ├── Tier 2: gpt-oss-120b:free（owl-alpha 6/10 silent 轉 paid  │
 │            │          已移出 default，顯式 --cascade override 才用）     │
 │            ├── Tier 3: free fleet 驗證佇列 (Llama-3.3 / Hermes-3-405B…)  │
-│            └── Tier 4: Ollama qwen3.6:35b（永不漏接；主權定位 pending    │
-│                        決策 4，fleet 端 6/14 bench 後 gemma4-only）      │
+│            ├── Tier 4: Ollama qwen3.6:35b（永不漏接；主權定位 pending    │
+│            │          決策 4，fleet 端 6/14 bench 後 gemma4-only）       │
+│            ├── Tier 5: fleet HTTP 直打（sovereignty GPU 軍團）           │
+│            ├── Tier 6: Anthropic Haiku API（限 P0/CRITICAL，每夜≤10篇）  │
+│            └── Tier 7: Gemini 付費 API 最後手段（同限制，每夜≤3篇）      │
 │            ＋ preflight health-check（v4.3）：起跑 probe 各 backend，    │
 │              死模型整 run 冷凍 6h，不讓 N 篇各自撞 timeout               │
 │                                                                          │
@@ -95,7 +124,7 @@ upstream_canonical:
 │              ↳ Hard gate: manifest 完整 + group balanced                 │
 │                                                                          │
 │   Z2: 跨模型平行 dispatch ──→ N task dir × M worker                      │
-│            ├── Tier 1 主批 (codex / gemini subscription)                 │
+│            ├── Tier 1 主批 (codex subscription)                         │
 │            ├── Tier 2 副批 (gpt-oss-120b:free；owl 已出 default)         │
 │            └── Z2.1 Concurrency cap 3-5 / Z2.2 Cool-down ≥ 5-10 min      │
 │              ↳ Hard gate: refusal detection / 40-byte stub purge         │
@@ -183,11 +212,12 @@ WARN 級（exit 永遠 0），不是 gate——閾值升 HARD 需哲宇拍板（
 - **守備修補心態**（不可）：「跑 1hr 清幾十個就 ship，剩下下次再說」— 每次清一點點是滿足型 satisficing
 - **架構解心態**（鐵律）：「**跑到 stale=0 或 4-tier cascade exhausted 才能結束**」— routine 義務是消滅 backlog 類別
 
-### 三條操作鐵律
+### 四條操作鐵律
 
 1. **不寫 budget / wall-clock / boundary 字眼進 routine prompt / mirror / canonical**（per [ROUTINE.md §不提預算鐵律 v2.0](../semiont/ROUTINE.md#11-條核心-routine-排程表)）
 2. **不主動 defer P1**（5/9 / 5/10 memory 兩次寫「主動 defer 守 1hr 預算」/「P1 skipped — 1hr boundary safety」是 anti-pattern）— P1 慢 tier 就讓它慢，跑到 cascade exhausted 才能停
 3. **stale_total 沒下降不能 ship** — quality_gate 從「P2.5 bumped > 0 OR P2/P1 cleared > 0」（滿足型 `> 0`）升「stale_total 顯著下降 ≥ 10% OR all P0+P1 cleared OR stale_total == 0」（結果型）
+4. **cascade exhausted 時 escalate，不 silent carry**（OBSERVER-QUEUE #18(c)，哲宇 2026-09-05 拍板，REFLEXES #64／#82 的直接結論）——某檔全部現役 tier（含 Tier 6/7）都失敗，不能只寫進 carry 清單當成「下一夜再說」的背景雜訊。`babel-dispatch.py` 對此已儀器化：累計失敗次數跨過門檻時在 `report.jsonl` 記一筆 `cascade_exhausted`；每夜收官 memory **必須**列出這些檔案（不是可省的細節）；同一 (lang, zh_path) **連續兩夜**都耗盡，dispatcher 會自動在 [OBSERVER-QUEUE.md](../semiont/OBSERVER-QUEUE.md) §待決 append 一列，交給人眼判斷是閘門誤判還是文章本身異常難。夜間額度用完（cap reached）視為「延後」不是「失敗」，不算進 cascade_exhausted。
 
 ### 誕生事件
 
@@ -229,7 +259,7 @@ WARN 級（exit 永遠 0），不是 gate——閾值升 HARD 需哲宇拍板（
 單一 model 跑 ja sync 都有結構性瓶頸：
 
 - **codex (gpt-5.5 subscription)**：通過率 highest，per-call ~60-120s，但 subscription 每日上限
-- **gemini (subscription)**：未對 Taiwan sensitive 主題系統驗證，Google 訂閱配額獨立
+- **gemini (subscription)** ❌ 摘出 default（2026-07-18 起永久死亡：`IneligibleTierError: UNSUPPORTED_CLIENT`，需遷移 Antigravity，2026-09-05 複測仍同一錯誤；程式碼路徑保留，`--cascade gemini,...` 顯式 override 才用）
 - **owl-alpha** ❌ 移出 default（2026-06-10 silent 轉 paid HTTP 404——兩週內第 5 個 free tier 死亡；顯式 override 才用）
 - **gpt-oss-120b:free**：Hy3 退役後接 Tier 2，2026-05-16 production 9/9 ✓
 - **Hy3** ❌ 退役（2026-05-12，從 OpenRouter free tier 移除）
@@ -285,16 +315,18 @@ WARN 級（exit 永遠 0），不是 gate——閾值升 HARD 需哲宇拍板（
 4. **下一輪用不同 model retry** still-missing 集合
 5. 重複直到 still-missing == 0 OR 所有 model 都試過
 
-跨模型 retry 順序（v4.4 = translate.py DEFAULT_CASCADE v4.3 鏡射；owl-alpha 已移出 default，重試需顯式 `--cascade openrouter:openrouter/owl-alpha,...` override）：
+跨模型 retry 順序（v4.13 = translate.py DEFAULT_CASCADE 鏡射；owl-alpha 已移出 default，重試需顯式 `--cascade openrouter:openrouter/owl-alpha,...` override；gemini 訂閱版同樣已摘出 default，見 §v4.13 changelog）：
 
 ```
 Round 1: codex (gpt-5.5 subscription)                    （Tier 1，最高品質，production ~100% pass）
-Round 2: gemini (subscription)                           （Tier 1，subscription backup）
-Round 3: openai/gpt-oss-120b:free                        （Tier 2 verified；大文章 truncate → ratio gate 接手）
-Round 4: 驗證佇列依品質排（meta-llama-3.3-70b →
+Round 2: openai/gpt-oss-120b:free                        （Tier 2 verified；大文章 truncate → ratio gate 接手）
+Round 3: 驗證佇列依品質排（meta-llama-3.3-70b →
          nousresearch/hermes-3-405b → google/gemma-4-31b
          → nvidia/nemotron-3-super-120b → deepseek-v4-flash）— 未驗證，顯式 override
-Round 5: Ollama qwen3.6:35b (local「永遠收下」)          （主權定位 pending 決策 4；fleet 端 gemma4-only）
+Round 4: Ollama qwen3.6:35b (local「永遠收下」)          （主權定位 pending 決策 4；fleet 端 gemma4-only）
+Round 5: fleet HTTP 直打                                  （Tier 5，主權 GPU 軍團，見上方 cascade）
+Round 6: Anthropic Haiku API（restricted：僅 P0/CRITICAL，每夜 ≤10 篇；--worker-tier6）
+Round 7: Gemini 付費 API 最後手段（restricted，每夜 ≤3 篇；--worker-tier7，Tier 6 也失敗才碰）
 ```
 
 **Tier 1-2 production verified（2026-05-16 babel-nightly 150 cascade ship 0 fail）**：codex 61 + owl-alpha 80 + gpt-oss-120b 9 = 100% pass（歷史紀錄——owl 其後 6/10 silent 轉 paid 移出 default）。
@@ -533,12 +565,19 @@ Action: purged 19 + ship → status.py 確認 fresh count 反映正確真實基�
 
 ## 已驗證模型（fan-out matrix calibration，v4.2 2026-05-16 recalibrated）
 
-### Tier 1 — Subscription priority（codex + gemini）
+### Tier 1 — Subscription priority（codex；gemini 已摘出，見下）
 
-| Model                                         | 速度    | Taiwan 主題通過率 | 政治人物 | 文化  | 最近驗證                            | 注意                              |
-| --------------------------------------------- | ------- | ----------------- | -------- | ----- | ----------------------------------- | --------------------------------- |
-| `codex` (gpt-5.5 OpenAI subscription)         | 60-120s | ~100%             | 通過     | 通過  | 2026-05-16 production 61/61         | 訂閱配額硬牆，跨 lang 共享        |
-| `gemini` (gemini-2.5-pro Google subscription) | ~未測   | ~未測             | ~未測    | ~未測 | 0 production call（cascade 沒掉到） | **需 calibration**，policy 中等嚴 |
+| Model                                  | 速度    | Taiwan 主題通過率 | 政治人物 | 文化 | 最近驗證                    | 注意                                                                                                                                        |
+| -------------------------------------- | ------- | ----------------- | -------- | ---- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| `codex` (gpt-5.5 OpenAI subscription)  | 60-120s | ~100%             | 通過     | 通過 | 2026-05-16 production 61/61 | 訂閱配額硬牆，跨 lang 共享                                                                                                                  |
+| `gemini` (gemini-2.5-pro subscription) | —       | —                 | —        | —    | 2026-09-05 複測             | ❌ **摘出 default**（2026-07-18 起永久死亡：`IneligibleTierError: UNSUPPORTED_CLIENT`，需遷移 Antigravity；程式碼保留，顯式 override 才用） |
+
+### Tier 6/7 — 付費 restricted delegation（OBSERVER-QUEUE #18，2026-09-05 拍板；不在 default cascade）
+
+| Model                                            | 速度  | 資格限制                                | 每夜上限 | 配置狀態（2026-09-05）        | 注意                                                                  |
+| ------------------------------------------------ | ----- | --------------------------------------- | -------- | ----------------------------- | --------------------------------------------------------------------- |
+| `anthropic:claude-haiku-4-5-20251001`（Tier 6）  | ~180s | P0 missing 或 CRITICAL(<0.5) 截斷檔     | 10 篇    | ❌ `ANTHROPIC_API_KEY` 未設定 | `backends/anthropic.py`，付費 per-token，不受 PRC content policy 影響 |
+| `gemini-paid:gemini-2.5-pro`（Tier 7，最後手段） | ~60s  | 同 Tier 6，且該篇 Tier 6 也已失敗過一次 | 3 篇     | ❌ `GEMINI_API_KEY` 未設定    | `backends/gemini.py` GeminiPaidBackend，跟訂閱版 CLI 認證完全獨立     |
 
 ### Tier 2 — Free verified（在 production cascade）
 
@@ -677,11 +716,15 @@ Tier 3: Ollama qwen3.6:35b-a3b-coding-nvfp4 (LOCAL, no budget, sovereignty backb
 Tier 4: Sonnet sub-agent (paid, last resort — should rarely fire)
 ```
 
-**v4.5 現行 cascade（= translate.py `DEFAULT_CASCADE_ID = "codex,gemini,openrouter:openai/gpt-oss-120b:free,ollama,fleet"` 鏡射，取代上方）**：
+**v4.13 現行 cascade（= translate.py `DEFAULT_CASCADE_ID = "codex,openrouter:openai/gpt-oss-120b:free,ollama,fleet"` 鏡射，取代上方；OBSERVER-QUEUE #18，哲宇 2026-09-05 拍板原話「tier 6 用 haiku, 7 用 gemini」）**：
 
 ```
-Tier 1: codex (gpt-5.5 subscription) → gemini (subscription)
-   ↓                    ⚠️ 2026-07 健檢：兩者連死 ≥10 夜，gemini 免費層已被 Google 永久收回
+Tier 1: codex (gpt-5.5 subscription)
+   ↓                    ⚠️ gemini（訂閱版 CLI）已摘出 default——2026-07-18 起
+   ↓                    IneligibleTierError: UNSUPPORTED_CLIENT，2026-09-05 複測仍是
+   ↓                    同一個永久性錯誤（Google 收掉 Gemini Code Assist for
+   ↓                    individuals，需遷移 Antigravity，帳號決策屬哲宇）。程式碼
+   ↓                    路徑保留，要用走顯式 `--cascade gemini,...` override。
 Tier 2: openai/gpt-oss-120b:free (verified；owl-alpha 6/10 silent 轉 paid 移出 default)
    ↓ refused or rate-limited
 Tier 3: Free 驗證佇列 — hermes-3-405b → llama-3.3-70b → nemotron-3-super-120b → gemma-4-31b（未驗證，顯式 override）
@@ -690,12 +733,25 @@ Tier 4: Ollama qwen3.6:35b (LOCAL「永遠收下」；主權定位 pending 決�
    ↓
 Tier 5: fleet HTTP 直打（roadmap P0-2 收編進 DEFAULT_CASCADE 第 5 位；`fleet-endpoint.sh` adapter，
         cron env 層 sabotage CLI 時的繞道，embeddings 鏈連夜驗證過的同型路徑）
-   ↓ rare
-Tier 6: Sonnet sub-agent (paid, last resort — 2026-07-11 babel-nightly memory 提議編為正式 Tier 6；
-        高腳註深度文（cascade footnote-gate 天花板已滑到 <39fn）的制度化路線待哲宇拍板，OBSERVER-QUEUE #18)
+   ↓ rare — 免費／訂閱池全滅時才碰，付費起跳
+Tier 6: Anthropic Haiku API backend（`anthropic:claude-haiku-4-5-20251001`，見
+        `backends/anthropic.py`）——**資格限制**：只服務 status.py 標 `missing`
+        的 P0，或 audit-quality.py 同一把尺判定 CRITICAL(<0.5) 的截斷檔；**每夜
+        上限 10 篇**（`BABEL_TIER6_NIGHTLY_CAP`，可調）。用
+        `--worker-tier6 haiku=anthropic:claude-haiku-4-5-20251001` 掛進
+        babel-dispatch.py；不進 DEFAULT_CASCADE（資格限制只能在 dispatcher 的
+        restricted worker 機制強制，放進一般 cascade 會對所有任務開放，直接撞
+        07-25 哲宇因算力爆炸關過 rewrite 的前車之鑑）
+   ↓ Tier 6 也失敗才碰
+Tier 7: Gemini 付費 API 最後手段（`gemini-paid:gemini-2.5-pro`，見
+        `backends/gemini.py` GeminiPaidBackend——跟訂閱版 CLI 完全獨立的認證
+        管道）。同資格限制＋**每夜上限 3 篇**（`BABEL_TIER7_NIGHTLY_CAP`）。用
+        `--worker-tier7 gemini7=gemini-paid:gemini-2.5-pro` 掛進 babel-dispatch.py
 ```
 
-> **番號對賬紀錄（2026-07-18 健檢）**：本區塊曾同時存在兩套「Tier 5」（roadmap P0-2 的 fleet vs 本檔的 Sonnet），且 doc 漏列 DEFAULT_CASCADE 已收編的 `fleet`——per frontmatter `production_signal` 對賬修正。cascade 描述的 SSOT 永遠在 `translate.py` docstring，本檔是鏡子。
+> **番號對賬紀錄（2026-07-18 健檢，2026-09-05 補記）**：本區塊曾同時存在兩套「Tier 5」（roadmap P0-2 的 fleet vs 本檔的 Sonnet），且 doc 漏列 DEFAULT_CASCADE 已收編的 `fleet`——per frontmatter `production_signal` 對賬修正。**2026-07-18 曾把 Sonnet sub-agent 暫稱「Tier 6」待拍板**；2026-09-05 哲宇拍板把 Tier 6/7 的番號正式給了 Anthropic Haiku／Gemini 付費 API backend（見上）。Sonnet sub-agent 委派**不再共用這個編號**——它是完全不同的機制（主 session 手動 spawn 整個 Agent session，模型自己判斷怎麼寫檔），繼續叫做「[§第五層 Claude sub-agent 委派](#第五層claude-sub-agent-委派2026-08-01-實測後定型)」，不編進 Tier 1-7 的 backend cascade 編號序列。cascade 描述的 SSOT 永遠在 `translate.py` docstring，本檔是鏡子。
+
+**Tier 6/7 配置狀態（2026-09-05 拍板當下）**：`ANTHROPIC_API_KEY`／`GEMINI_API_KEY` 均未設定（環境變數與 `~/.config/taiwan-md/credentials/` 皆無對應 key 檔）。兩個 backend 的 `is_available()` 在缺 key 時回 `False` 並印一次性「Tier 6/7 未配置」提示，cascade 自然跳過——這是 skip 不是 fail，不會污染 `fail_counts` 或觸發 escalation。**要啟用**：哲宇補上對應 key（放 `~/.config/taiwan-md/credentials/anthropic.key` / `gemini.key`，或設環境變數），下次 babel-nightly 手動加 `--worker-tier6`/`--worker-tier7` 旗標即可，不需要改任何程式碼。
 
 preflight health-check（v4.3）：batch 起跑先 probe 每個 backend，死模型整 run 冷凍（6h），不讓 N 篇各自撞 timeout 燒時間。
 
@@ -1177,6 +1233,16 @@ python3 scripts/tools/article-health.py <譯文> --profile=pre-commit           
   ——抓「漢字直接黏在拉丁字母上」的短片段漏譯（`Giải Kim曲`、`bài演讲`）。
   `cjk-leak-check` 的長度門檻剛好放它們過去：實測 13 篇裡 10 篇中招、86 處，
   全部通過既有檢查。豁免清單**向 cjk-leak-check 借**（`legit_spans()`），不複寫。
+
+**書目區豁免（哲宇 2026-09-05 拍板 OBSERVER-QUEUE #23 選 A）**：leak 曾是失敗
+第一大宗（620 筆裡 251 筆），全部敗在參考資料區沒翻的中文來源標題（`深度
+訪談`、`天下換日線`）。`cjk-leak-check.py`／`translate.py detect_cjk_leak`
+現在把「參考資料／延伸閱讀等標題到檔尾」判為書目區：書目區內的**正體**來源
+標題放行（讀者要靠它找到原文出處），**簡體**仍擋（含「维基百科」「国家文化
+记忆库」這類已經悄悄漏進 `knowledge/ru`、`knowledge/ar` 的簡體來源，靠新增
+的 `detect_simplified_residue()` 抓）。書目區以外（正文）的判準完全不變。
+細節見 `cjk-leak-check.py` 的 `find_bibliography_start()` / `SIMPLIFIED_ONLY_CHARS`
+校準紀錄，以及 `tests/test_cjk_leak_check.py` 的 8 條回歸測試。
 
 #### 四、主 session 驗收迴圈
 

@@ -26,7 +26,10 @@ Cascade syntax:
     backend_name[:option]
     - `codex`
     - `openrouter:MODEL` (e.g. `openrouter:openrouter/owl-alpha`)
-    - `gemini[:MODEL]`
+    - `gemini[:MODEL]` (subscription CLI — permanently dead 2026-07-18, explicit override only)
+    - `anthropic[:MODEL]` (Tier 6, paid API key — see backends/anthropic.py; restricted eligibility
+      enforced by babel-dispatch.py, not by this cascade)
+    - `gemini-paid[:MODEL]` (Tier 7, paid API key — see backends/gemini.py GeminiPaidBackend)
     - `ollama[:MODEL]`
 
 Designed per哲宇 2026-05-12 callout 「儘可能模組化 抽象化 可抽換化」.
@@ -47,6 +50,7 @@ from typing import Optional
 import yaml
 
 from backends import (
+    AnthropicBackend,
     BackendError,
     BackendRateLimited,
     BackendRefusal,
@@ -54,6 +58,7 @@ from backends import (
     BackendUnavailable,
     CodexBackend,
     GeminiBackend,
+    GeminiPaidBackend,
     OllamaBackend,
     OpenRouterBackend,
     TranslationBackend,
@@ -83,18 +88,34 @@ KNOWLEDGE = REPO / "knowledge"
 
 # ────────────────── Cascade defaults ──────────────────
 
-DEFAULT_CASCADE_ID = "codex,gemini,openrouter:openai/gpt-oss-120b:free,ollama,fleet"
-"""Default cascade priority (v4.3 2026-06-10 audit D-2; v4.2 2026-05-16 哲宇 callout「codex + gemini 為優先」):
+DEFAULT_CASCADE_ID = "codex,openrouter:openai/gpt-oss-120b:free,ollama,fleet"
+"""Default cascade priority (v4.12 2026-09-05 OBSERVER-QUEUE #18；v4.3 2026-06-10 audit D-2；
+v4.2 2026-05-16 哲宇 callout「codex + gemini 為優先」):
 
 1. **codex (gpt-5.5)** — subscription, top quality, ~100% Taiwan pass (production verified)
-2. **gemini (gemini-2.5-pro)** — Google subscription priority partner (對 sensitive 主題待 calibrate)
-3. **openrouter gpt-oss-120b:free** — verified free（大文章會 truncate，ratio gate 接手）
-4. **ollama (qwen3.6)** — sovereignty backbone, never refuses（需 `ollama serve` 啟動）
-5. **fleet** — Tier 5（v4.4 2026-07-10 P0-2）：主權 GPU 軍團 raw HTTP。cron 環境層
+2. **openrouter gpt-oss-120b:free** — verified free（大文章會 truncate，ratio gate 接手）
+3. **ollama (qwen3.6)** — sovereignty backbone, never refuses（需 `ollama serve` 啟動）
+4. **fleet** — Tier 5（v4.4 2026-07-10 P0-2）：主權 GPU 軍團 raw HTTP。cron 環境層
    可以一夜滅掉所有 CLI backend（7/8 catastrophic exhaustion vc=2：codex nvm 斷 /
    gemini TERM=dumb / free tier 全域 429 / 本機 ollama 吐空），但 HTTP 直打不經
    CLI 層（同夜 embeddings 毫髮無傷的對照組證據）。7/9 手動繞道 ship 4 篇驗證路通，
    本版收編進 default cascade。endpoint 由 fleet 自己選節點（fleet-endpoint.sh）。
+
+v4.12 變更（OBSERVER-QUEUE #18 (a)，哲宇 2026-09-05 拍板原話「tier 6 用 haiku,
+7 用 gemini」）：**gemini（訂閱版 CLI）摘出 default cascade** — 2026-07-18 健檢已知
+`IneligibleTierError: UNSUPPORTED_CLIENT`（Google 收掉 Gemini Code Assist for
+individuals，需遷移 Antigravity，帳號決策屬哲宇），2026-09-05 複測仍是同一個
+永久性錯誤，不是暫時性 429。留在 default cascade 裡等於每篇都白撞一次死 backend。
+程式碼路徑保留（`backends/gemini.py` GeminiBackend 未刪），要用走顯式
+`--cascade gemini,...` override；帳號遷移後若要復活，改回本行即可，不用重寫。
+新增 Tier 6（`anthropic:{model}`，見 `backends/anthropic.py`）與 Tier 7
+（`gemini-paid:{model}`，見 `backends/gemini.py` GeminiPaidBackend）**不放進
+default cascade**——兩者都是付費、且依 OBSERVER-QUEUE #18 資格限制（只服務 P0
+missing 與 CRITICAL(<0.5) 截斷檔）+ 每夜配額，這些限制在 `babel-dispatch.py`
+的 restricted worker 機制強制，不該讓一般 stale 任務也打進去（07-25 哲宇因算力
+爆炸關過 rewrite 的前車之鑑）。要用走 `--worker-tier6 haiku=anthropic:{model}` /
+`--worker-tier7 gemini7=gemini-paid:{model}`，見 SQUEEZE-MODELS-MAX-PIPELINE.md
+§Tier 6/7。
 
 v4.3 變更：owl-alpha 移出 default — 2026-06-10 babel-nightly 證實 silent 轉 paid
 （HTTP 404，兩週內第 5 個 cloud free tier 死亡：Hy3 → deepseek → qwen3 → owl-alpha）。
@@ -170,6 +191,12 @@ def build_cascade(cascade_id: str = DEFAULT_CASCADE_ID) -> "TranslationCascade":
             backends.append(OpenRouterBackend(model=model))
         elif name == "gemini":
             backends.append(GeminiBackend(model=opt) if opt else GeminiBackend())
+        elif name == "anthropic":
+            # Tier 6（OBSERVER-QUEUE #18，2026-09-05 拍板）— 見 backends/anthropic.py
+            backends.append(AnthropicBackend(model=opt) if opt else AnthropicBackend())
+        elif name == "gemini-paid":
+            # Tier 7（OBSERVER-QUEUE #18，2026-09-05 拍板）— 見 backends/gemini.py GeminiPaidBackend
+            backends.append(GeminiPaidBackend(model=opt) if opt else GeminiPaidBackend())
         elif name == "ollama":
             model = opt or os.environ.get("OLLAMA_MODEL") or "qwen3.6:35b-a3b-coding-nvfp4"
             backends.append(OllamaBackend(model=model))
@@ -801,17 +828,37 @@ def detect_cjk_leak(text: str, lang: str) -> Optional[str]:
     quarantined by the dispatcher.  Reuse cjk-leak-check's exact zones and
     markers here so one bounded retry can happen inside the same model call
     workflow, without weakening the downstream gate.
-    """
-    scan = _cjkleak_mod.strip_legit_zones(text, drop_frontmatter=True)
-    if lang in _cjkleak_mod.NON_CJK_SCRIPT_LANGS:
-        match = _cjkleak_mod.CJK_RUN_RE.search(scan)
-        if match:
-            return f"CJK run {match.group(0)!r}"
-        return None
 
-    for marker in _cjkleak_mod.ZH_ONLY_MARKERS:
-        if marker in scan:
-            return f"zh-only marker {marker!r}"
+    書目區豁免（OBSERVER-QUEUE #23 選 A，2026-09-05）：babel 620 筆裡 251 筆
+    敗在同一處——參考資料區沒翻的中文來源標題（`深度訪談`、`天下換日線`），
+    是失敗第一大宗。哲宇拍板：書目區（腳註定義行＋參考資料／延伸閱讀／圖片
+    來源等標題到檔尾，見 cjk-leak-check.find_bibliography_start）的**正體**
+    來源標題放行——讀者要靠它找到原文出處；**簡體**仍擋，含「维基百科」
+    「国家文化记忆库」這類已經悄悄漏進 knowledge/ru、knowledge/ar 的簡體來源
+    （見 cjk-leak-check.SIMPLIFIED_ONLY_CHARS 校準紀錄）。三種判定訊息各自
+    有獨立的字樣，不共用同一種長相（REFLEXES #38／#85）：
+      - 「正文 CJK leak」／「正文 zh-only marker」→ 原本就會擋，行為不變
+      - 「書目區簡體殘留」→ 新增，book區內命中簡體字集就擋
+      - 書目區內的正體來源標題 → 不會出現在回傳訊息裡（就是放行本身）
+    """
+    raw = _cjkleak_mod.drop_frontmatter(text)
+    bib_start = _cjkleak_mod.find_bibliography_start(raw, lang)
+    main_raw, bib_raw = raw[:bib_start], raw[bib_start:]
+
+    if lang in _cjkleak_mod.NON_CJK_SCRIPT_LANGS:
+        main_scan = _cjkleak_mod.strip_legit_zones(main_raw)
+        match = _cjkleak_mod.CJK_RUN_RE.search(main_scan)
+        if match:
+            return f"正文 CJK leak {match.group(0)!r}"
+    else:
+        scan = _cjkleak_mod.strip_legit_zones(raw)
+        for marker in _cjkleak_mod.ZH_ONLY_MARKERS:
+            if marker in scan:
+                return f"正文 zh-only marker {marker!r}"
+
+    simplified = _cjkleak_mod.detect_simplified_residue(bib_raw)
+    if simplified:
+        return f"書目區簡體殘留: {simplified}"
     return None
 
 

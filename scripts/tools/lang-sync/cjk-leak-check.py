@@ -36,6 +36,7 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+from typing import Optional
 
 REPO = Path(__file__).resolve().parents[3]
 
@@ -156,6 +157,164 @@ def strip_legit_zones(text: str, drop_frontmatter: bool = False) -> str:
     return body
 
 
+def drop_frontmatter(text: str) -> str:
+    """剝掉開頭 `---\\n...\\n---` frontmatter block，沒有就原樣回傳。
+
+    從 strip_legit_zones() 內聯邏輯抽出成獨立函式（2026-09-05）：書目區判定
+    需要在**還沒**跑 strip_legit_zones 的原文上定位（見 find_bibliography_start
+    docstring），但仍要先去掉 frontmatter 干擾，兩處呼叫者（本檔 scan_file、
+    translate.py 的 detect_cjk_leak）現在共用同一份，不再各自 inline 三行。
+    """
+    if text.startswith("---"):
+        end_fm = text.find("---", 3)
+        if end_fm != -1:
+            return text[end_fm + 3:]
+    return text
+
+
+# ═══════════════ 書目區豁免（OBSERVER-QUEUE #23 選 A，2026-09-05）═══════════
+#
+# 背景：babel-nightly 7/27–28 兩輪停線各擋下 25 篇孤兒，全部敗在同一處——
+# 參考資料區沒翻的中文來源標題（`深度訪談`、`天下換日線`）；本輪 620 筆裡
+# 251 筆敗在 leak，是失敗第一大宗。哲宇拍板選 A：書目區的中文來源標題保留
+# 原文，是讀者找得到出處的前提，予以放行；但簡體字進書目區是另一回事，
+# 仍要擋（含「维基百科」「国家文化记忆库」這類已經悄悄漏進 knowledge/ru、
+# knowledge/ar 的簡體來源——見 detect_simplified_residue 下方校準紀錄）。
+#
+# 「書目區」＝下列兩者取最早的位移，之後到檔尾：
+#   (a) 第一條腳註定義行 `^\[\^...\]:`（FOOTNOTE_DEF_LINE_RE）
+#   (b) 參考資料／延伸閱讀／圖片來源等標題（BIBLIOGRAPHY_HEADINGS；標題文字
+#       從 knowledge/<lang> 實際譯文抽樣取得，不是憑記憶列——找不到對應語言
+#       標題就退回 _ZH_HEADING_FALLBACK，涵蓋「標題本身也沒被翻」的案例）
+#
+# 這條豁免只放寬「正文 vs 書目」的**分區線**，字元判準本身不變：書目區內仍
+# 掃簡體（detect_simplified_residue），書目區外（正文）維持原本 CJK_RUN_RE／
+# ZH_ONLY_MARKERS 判準，一個字元都沒放寬。
+
+FOOTNOTE_DEF_LINE_RE = LINK_LIKE_RES[0]      # `^\[\^...\]:` 整行（含 `.*$`）
+PHOTO_ATTRIBUTION_RE = LINK_LIKE_RES[1]      # Photo/Foto/Ảnh/사진/写真/Фото/صورة 署名
+HTML_TAG_RE = LINK_LIKE_RES[2]               # <tag attr="...">
+FOOTNOTE_REF_RE = LINK_LIKE_RES[3]           # 行內 `[^n]`
+WIKILINK_RE = LINK_LIKE_RES[4]               # [[wikilink]]
+MD_LINK_RE = LINK_LIKE_RES[5]                # [text](url)（完整，含 text）
+BARE_URL_RE = LINK_LIKE_RES[6]               # 裸 URL
+
+# 每個語言「參考資料／延伸閱讀／圖片來源」標題變體：2026-09-05 對
+# knowledge/<lang> 每語言抽樣 8 篇實際譯文（含腳註）grep `^## ` 標題取得，
+# 不是憑記憶列。同語言常見兩三種寫法都收（如 ja 参考資料／参考文献）。
+BIBLIOGRAPHY_HEADINGS: dict = {
+    "en": r"References|Further Reading|Image Sources",
+    "ja": r"参考資料|参考文献|画像出典|関連リンク",
+    "ko": r"참고\s*자료|참고\s*문헌|이미지\s*출처",
+    "es": r"Referencias|Lecturas complementarias|Fuentes de im[aá]genes",
+    "fr": r"R[ée]f[ée]rences|Sources des images|Lectures compl[ée]mentaires",
+    "vi": r"Tài liệu tham khảo|Đọc thêm|Nguồn Hình Ảnh",
+    "id": r"Referensi|Bacaan Lanjutan|Sumber Gambar",
+    "pt": r"Referências|Fontes das imagens|Leitura adicional",
+    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)",
+    "ar": r"المراجع|مصادر\s*الصور|قراءة\s*موسعة",
+    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение",
+    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)",
+}
+# zh 原文標題沒被翻譯時的救援比對（任何目標語言都可能發生，heading 本身留原文）
+_ZH_HEADING_FALLBACK = r"參考資料|参考资料|參考文獻|参考文献|延伸閱讀|延伸阅读|圖片來源|图片来源"
+_HEADING_LINE_RE = re.compile(r"^#{1,6}\s+(.+?)\s*$", re.M)
+
+
+def find_bibliography_start(body: str, lang: str) -> int:
+    """回傳「書目區」起點位移；找不到就回傳 len(body)（全文當正文，行為不變
+    ——沒有腳註也沒有參考資料標題的檔案，判準完全比照舊版）。
+
+    ⚠️ 呼叫者必須傳「已去除 frontmatter、但還沒跑 strip_legit_zones」的原文
+    ——strip_legit_zones 會把整條腳註定義行抹成空字串（LINK_LIKE_RES 規則
+    0），先跑過的話這裡永遠找不到腳註定義行。用 drop_frontmatter() 處理
+    frontmatter，不要用 strip_legit_zones。
+    """
+    parts = [p for p in (BIBLIOGRAPHY_HEADINGS.get(lang), _ZH_HEADING_FALLBACK) if p]
+    pattern = "|".join(parts)
+    heading_start = None
+    for m in _HEADING_LINE_RE.finditer(body):
+        if re.search(pattern, m.group(1), re.IGNORECASE):
+            heading_start = m.start()
+            break
+    fn_match = FOOTNOTE_DEF_LINE_RE.search(body)
+    candidates = [p for p in (heading_start, fn_match.start() if fn_match else None)
+                  if p is not None]
+    return min(candidates) if candidates else len(body)
+
+
+def _strip_bib_zone_structure(text: str) -> str:
+    """書目區噪音剝除，供 detect_simplified_residue 用。跟 strip_legit_zones
+    借同一批 LINK_LIKE_RES regex，但**刻意跳過**規則 0（腳註定義整行）與規則
+    5（完整 md 連結）——那兩條正是要檢查簡體的內容本身，剝了就等於沒檢查。
+    攝影者署名仍要保護（PHOTO_ATTRIBUTION_RE 既有的 Wikimedia 帳號名豁免，
+    如「化城再来人」），HTML 屬性值／行內腳註引用／wikilink／裸 URL 都是
+    結構不是正文，一併剝除避免誤觸。"""
+    for rx in (PHOTO_ATTRIBUTION_RE, HTML_TAG_RE, FOOTNOTE_REF_RE, WIKILINK_RE, BARE_URL_RE):
+        text = rx.sub("", text)
+    return text
+
+
+# 簡體專用字集合（2026-09-05）：只收「簡化字形跟正體完全不同、且在正體書面
+# 中文裡沒有正當獨立用法」的字，兩個來源：
+#   1. 部件簡化家族（言→讠／金→钅／食→饣／糸→纟／馬→马／鳥→鸟／門→门／
+#      貝→贝）——這些簡化部首是 1956 年簡化方案發明的新字形，正體中文歷史
+#      上不曾用過，是最安全（零歧義）的一批，一次收整組同部首字。
+#   2. OBSERVER-QUEUE #23 原始案例（維基百科／國家文化記憶庫）＋同類常見
+#      機構／站名用字。
+#
+# ⚠️ 刻意排除（跟收錄的字一樣重要，都是判準的一部分）：
+#   - 台：#23 提案原文的例字清單裡有它，但它是台灣自己也常用的正體慣用字
+#     （「台灣」「台北」），跟 scripts/tools/lib/tw-variant-chars.mjs
+#     CORE_VARIANTS 對 939 篇 zh-TW 真實語料校準的結論一致（台在該清單裡，
+#     是「所有區塊都放行」的雙態字）。收進來會把全庫最常見的地名/專名全部
+#     誤判成簡體殘留，這裡依實證跳過，不是漏抄。
+#   - 与／无：文言文與道家經典裡有獨立於簡化方案的正當用法（与＝給、无＝
+#     古字「無」的異寫，如《道德經》「无為」），書目區常見古籍／人物條目
+#     引用，比對信心不足，保守不收。
+#   - 来／点：字形上也是常見簡化選項，但 tw-variant-chars.mjs 對同一批
+#     939 篇語料校準時沒把它們列為假陽性來源；且既有的攝影者署名豁免
+#     （PHOTO_ATTRIBUTION_RE）已經覆蓋唯一已知的邊界案例（Wikimedia 帳號名
+#     「化城再来人」），故保留收錄，不因單一個案排除整個字。
+SIMPLIFIED_ONLY_CHARS = frozenset(
+    # 言→讠
+    "认讨让训议讯记讲讳讴讶讹论讼讽设访诀证诂诃评诅识诈诉诊诋词诎译诒诓诔"
+    "试诗诘诙诚诛诜话诞诟诠诡询诣诤该详诧诨诩诫诬语误诰诱诲诳说诵诶请诸"
+    "诹诺读诼诽课诿谀谁谂调谄谅谆谈谊谋谌谍谎谏谐谑谒谓谔谕谖谗谘谙谚谛"
+    "谜谝谟谠谡谢谣谤谥谦谧谨谩谪谬谭谮谯谱谲谴谶"
+    # 金→钅
+    "钟银铁铜错钱针钢锁键锦镇链锅锋锐铝钙钛铅铸锈钩钓钥铺锤锻铭钦"
+    # 食→饣
+    "饭饮饱饼饿馆馄饺饲饶饥"
+    # 糸→纟
+    "纪约纯纸级组细织终练绝继续绍绳维绿缘缩纲纳纵纷纹线绕绘综绩绪缅绸"
+    # 車→车／馬→马／鳥→鸟／門→门／貝→贝
+    "车轮轻较载辆输辈轨轴轿轰轭"
+    "马骂驾驱骑验驶骄骗骚驳驻驼骆驰骤"
+    "鸟鸡鸭鸦鹅鸣鸿鹰鹤鸽鹏"
+    "门问闻闲间阔闭闹阅闪闯闷闺闽阁阀"
+    "贝财货质贫购贮贯责贤败账贩贪贬贴贷贸费贺贼贾贿赂赃资赅赈赊赌赎赏"
+    "赐赔赖赘赛赚赠赡买贵"
+    # 站名／機構／常見詞（原始案例＋高頻詞）
+    "维国记库华发说这为时间开关电东经长书学义龙聋袭冻栋陈张帐涨厂庆厅"
+    "觉举兴誉仪蚁严丽灵乡郑邓桦哗风枫疯飘汉叹难艰画尽满图团园圆忆达迁"
+    "远还进边违连归业习"
+)
+
+
+def detect_simplified_residue(text: str) -> Optional[str]:
+    """書目區內任何一個簡體專用字 → 判「書目區簡體殘留」；找不到回 None。
+    傳入的 text 應為書目區原文（未經 strip_legit_zones，才留得住待檢查的
+    腳註定義行內容），本函式內部只做 _strip_bib_zone_structure 這種選擇性
+    剝除。"""
+    scan = _strip_bib_zone_structure(text)
+    for i, ch in enumerate(scan):
+        if ch in SIMPLIFIED_ONLY_CHARS:
+            ctx = scan[max(0, i - 15):i + 15].replace("\n", " ")
+            return f"{ch!r} (e.g. …{ctx}…)"
+    return None
+
+
 def detect_lang(path: Path) -> str:
     parts = path.parts
     if "knowledge" in parts:
@@ -173,7 +332,7 @@ def detect_lang(path: Path) -> str:
     return "unknown"
 
 
-def scan_file(path: Path, lang: str = None):
+def scan_file(path: Path, lang: str = None, verbose: bool = False):
     try:
         text = path.read_text(encoding="utf-8")
     except Exception as e:
@@ -181,39 +340,57 @@ def scan_file(path: Path, lang: str = None):
     lang = lang or detect_lang(path)
     hits = []
 
+    # 書目區分界（OBSERVER-QUEUE #23 選 A）：必須在**還沒**跑 strip_legit_zones
+    # 的原文上找，見 find_bibliography_start docstring。
+    body_raw = drop_frontmatter(text)
+    bib_start = find_bibliography_start(body_raw, lang)
+    main_raw, bib_raw = body_raw[:bib_start], body_raw[bib_start:]
+
     if lang in NON_CJK_SCRIPT_LANGS:
         # Strip legitimate zh-bearing zones before scanning:
-        #   frontmatter block (translatedFrom etc always references the zh filename)
         #   markdown links [text](url) — internal wikilinks use zh slugs, external
         #     citations legitimately keep the source's actual (Chinese) title
         #   footnote definitions `[^n]: ...` — same citation-title reasoning
         # 2026-07-27 收斂：本分支原本各自內聯一套剝除 regex，於是 strip_legit_zones
         # 加的新豁免（HTML 標籤＝第十一家族）在這裡不生效——抽了共用 API 卻沒改
         # 呼叫端，跟今天修的其他分歧同型。改為單一來源。
-        body = strip_legit_zones(text, drop_frontmatter=True)
-        for m in CJK_RUN_RE.finditer(body):
+        # 2026-09-05：只掃 main_raw（書目區之前的正文）——書目區交給下面的簡體檢查。
+        main_scan = strip_legit_zones(main_raw)
+        for m in CJK_RUN_RE.finditer(main_scan):
             start, end = m.span()
-            ctx = body[max(0, start - 20):end + 20].replace("\n", " ")
-            hits.append(f"CJK run {m.group(0)!r} (e.g. …{ctx}…)")
-        return hits
+            ctx = main_scan[max(0, start - 20):end + 20].replace("\n", " ")
+            hits.append(f"正文 CJK leak {m.group(0)!r} (e.g. …{ctx}…)")
+    else:
+        # ja/ko marker 掃描前的合法區剝除（2026-07-24）：
+        #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
+        #   《…》〈…〉作品名 — 專輯／書／單曲／詩名保留原文合法
+        #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
+        # 2026-07-30 第十四家族：非 CJK 分支早已 drop frontmatter，ja/ko 卻
+        # 掃整份檔案，於是 rationale／lifeTree／research path 裡合法保留的中文
+        # marker 會把完整好譯文隔離。frontmatter 的 title/description/imageAlt/tags
+        # 已由 verify-translation 專責把關；leak gate 只掃正文，兩分支必須同尺。
+        # 2026-09-05：marker 掃描範圍維持掃全文不變（markers 是功能詞，本來就
+        # 不會出現在書目標題裡，不需要跟著切分）；書目區的簡體殘留另外檢查。
+        scan = strip_legit_zones(body_raw)
+        scan = re.sub(r"https?://\S+", "", scan)   # 裸 URL 同豁免（第八家族）
+        for marker in ZH_ONLY_MARKERS:
+            c = scan.count(marker)
+            if c:
+                # show one example context for the first occurrence
+                idx = scan.find(marker)
+                ctx = scan[max(0, idx - 20):idx + 20].replace("\n", " ")
+                hits.append(f"正文 zh-only marker {marker!r} x{c} (e.g. …{ctx}…)")
 
-    # ja/ko marker 掃描前的合法區剝除（2026-07-24）：
-    #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
-    #   《…》〈…〉作品名 — 專輯／書／單曲／詩名保留原文合法
-    #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
-    # 2026-07-30 第十四家族：非 CJK 分支早已 drop frontmatter，ja/ko 卻
-    # 掃整份檔案，於是 rationale／lifeTree／research path 裡合法保留的中文
-    # marker 會把完整好譯文隔離。frontmatter 的 title/description/imageAlt/tags
-    # 已由 verify-translation 專責把關；leak gate 只掃正文，兩分支必須同尺。
-    scan = strip_legit_zones(text, drop_frontmatter=True)
-    scan = re.sub(r"https?://\S+", "", scan)   # 裸 URL 同豁免（第八家族）
-    for marker in ZH_ONLY_MARKERS:
-        c = scan.count(marker)
-        if c:
-            # show one example context for the first occurrence
-            idx = scan.find(marker)
-            ctx = scan[max(0, idx - 20):idx + 20].replace("\n", " ")
-            hits.append(f"{marker!r} x{c} (e.g. …{ctx}…)")
+    # 書目區簡體殘留（兩分支共用，OBSERVER-QUEUE #23 選 A）：正體來源標題放行，
+    # 簡體不放行，命中即整篇判 leak。
+    simplified = detect_simplified_residue(bib_raw)
+    if simplified:
+        hits.append(f"書目區簡體殘留: {simplified}")
+    elif verbose and bib_raw:
+        allowed = len(CJK_RUN_RE.findall(strip_legit_zones(bib_raw)))
+        if allowed:
+            print(f"   ℹ️  {path.name}: 書目區繁體來源標題（放行）x{allowed}")
+
     return hits
 
 
@@ -231,6 +408,8 @@ def main():
     ap.add_argument("files", nargs="*")
     ap.add_argument("--glob")
     ap.add_argument("--since-git")
+    ap.add_argument("--verbose", action="store_true",
+                     help="印出書目區被放行的正體來源標題計數（OBSERVER-QUEUE #23 選 A）")
     args = ap.parse_args()
 
     if args.since_git:
@@ -247,7 +426,7 @@ def main():
     for p in paths:
         if not p.exists():
             continue
-        hits = scan_file(p)
+        hits = scan_file(p, verbose=args.verbose)
         if hits:
             flagged += 1
             # 隔離樣本住 /tmp/babel-*/quarantine，不在 repo 裡；CLI 既然接受
