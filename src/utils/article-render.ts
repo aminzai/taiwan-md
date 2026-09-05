@@ -242,6 +242,50 @@ function resolveWikilinks(md: string) {
 
 const renderer = new marked.Renderer();
 
+// ── 標題 id 產生器（OBSERVER-QUEUE #44，2026-09-05 哲宇拍板 A：一次修好全部語言）──
+// 舊規則 `[^\w一-鿿-]`：JS 的 `\w` 只認 ASCII（`\w` 不受 `u` flag 影響、
+// 不會像 `\p{...}` 那樣展開成 Unicode），`一-鿿` 只涵蓋中日韓統一表意
+// 文字（漢字），不含韓文諺文（한글）、俄文西里爾字母、阿拉伯字母、天城文，也不含
+// 日文假名（U+3040-30FF）。結果：ko / ru / ar / hi 標題整段被剝光只剩空字串或純
+// 連字號（實測：ko 10,337 個標題 7,158 個退化、3,638 個重複；ru 7,010／2,922；
+// ar 6,999／2,912；hi 6,057／2,526）；拉丁語系重音字元也被吃
+// （`las-últimas` → `las-ltimas`）。ja 因為標題多以漢字為主、假名多是助詞，
+// 只是局部損傷、沒有全段退化，所以沒被四語列表點名，但同樣是這條規則的受害者。
+//
+// 新規則 `[^\p{L}\p{N}_-]/gu`：`\p{L}` 是 Unicode「字母」大分類（涵蓋所有語言的
+// 字母/表音文字/表意文字，含假名、諺文、西里爾、阿拉伯字母、天城文），`\p{N}` 是
+// 「數字」大分類。原本的 `一-鿿` 特例可以整個拿掉——`\p{L}` 已完整涵蓋。
+// 阿拉伯文／韓文沒有大小寫，`toLowerCase()` 對它們是 no-op，維持既有的
+// `.toLowerCase()` 呼叫不影響它們、也不改變拉丁語系原本就有的小寫化行為。
+// 額外補上連續連字號合併＋首尾修剪：舊規則把空白轉連字號後不曾清理過，
+// 「A - B」這種標題會產生 `a---b`；這條清理不影響任何既有 id 的可讀性，
+// 只是把本來就存在的雜訊收乾淨。
+//
+// 2026-09-05 補 `\p{M}`（哲宇拍板 #44 補強 1）：天城文（Devanagari）的母音符號
+// （matras，如 ि ी ं）、泰文聲調符號、越南文組合形式的調號、阿拉伯文 harakat
+// 都屬 Unicode「Mark」大分類，不屬於 `\p{L}`——只加 `\p{L}\p{N}` 不會讓 hi 標題
+// 退化（子音本身是 \p{L}，id 不會變空），但字面會被剝損：`हिंदी`
+// （ह + ि + ं + द + ी）剝掉三個 matras 只剩子音「हद」，肉眼看不出是同一個詞。
+// 加上 `\p{M}` 讓這些組合標記留下，字面完整；子音仍是 \p{L}，退化率不受影響。
+//
+// 對照腳本：scripts/tools/heading-id-audit.mjs（import 這支函式本身，不是另外
+// 用別的語言重寫規則去估——2026-08-28 就是拿 Python 的 `\w`〔吃 Unicode 字母〕
+// 量 JS 的 `\w`〔只吃 ASCII〕，兩邊 regex 長得一樣卻量出完全不同的行為，見
+// docs/semiont/memory/2026-08-28-005518-footnote-cards.md「徹底處理那一輪」）。
+//
+// 唯一呼叫端：renderer.heading（此檔案）＋ TableOfContents.astro 的 fallback
+// （id 屬性缺席時的備援計算）。兩處故意都 import 這支函式而不是各自維護一份
+// regex，避免出現「改一處、另一處沒改」造成 TOC 連結指到不存在 id 的新病。
+export function slugifyHeadingId(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\p{L}\p{M}\p{N}_-]/gu, '')
+    .replace(/-{2,}/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 60);
+}
+
 // Inject id attributes on headings for TOC anchor links
 // ⚠️ 用 tokens 走 parseInline，不要直接吐 `text`：marked v5+ 的 `text` 是**未解析
 // 的原文**，`## **粗體**：標題` 會把 `**` 原封不動印在 <h2> 裡（2026-08-14 全站
@@ -249,11 +293,7 @@ const renderer = new marked.Renderer();
 // id 屬性、內文再 strip tags，所以目錄同步少掉那兩顆星）。
 // 必須是 function 而非 arrow：要拿到 marked 綁定的 this.parser。
 renderer.heading = function ({ text, tokens, depth }) {
-  const id = text
-    .toLowerCase()
-    .replace(/\s+/g, '-')
-    .replace(/[^\w\u4e00-\u9fff-]/g, '')
-    .slice(0, 60);
+  const id = slugifyHeadingId(text);
   return `<h${depth} id="${id}">${this.parser.parseInline(tokens)}</h${depth}>`;
 };
 
