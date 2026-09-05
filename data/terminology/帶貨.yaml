@@ -1,0 +1,28 @@
+id: 帶貨
+category: business
+subcategory: 職場與商業
+fork_type: C
+display:
+  taiwan: 直播帶貨（整詞借用，無獨立台灣譯詞）
+  china: 帶貨（直播帶貨）
+etymology:
+  origin: 指主播透過直播即時介紹、示範商品並促成觀眾下單購買的銷售模式，2016 年於中國電商平台（淘寶直播等）發跡，疫情期間迅速擴大，2021 年中國直播電商市場規模已達 2.27 兆人民幣。台灣近年引進同一種銷售模式，但沒有另外造出獨立的台灣詞彙，媒體與業界直接沿用「直播帶貨」整詞。
+  taiwan_path: 台灣「業配」指品牌付費請網紅／KOL 在影片或貼文中置入推薦，屬於既定合作關係下的內容行銷，與「帶貨」的即時直播促購銷售模式不完全相同——業配未必即時銷售，帶貨則是直播當下的成交導向。
+  china_path: 「帶貨」「直播帶貨」「帶貨主播」「帶貨王」等一整組詞彙隨中國直播電商產業成熟而定型。
+  fork_point: '~2016'
+  fork_cause: 中國電商直播產業率先成熟並產出一整套術語，台灣引進同一商業模式時直接借用整詞，未另造替代詞。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 台灣「業配」是相近但不同的既有詞，指付費置入合作，不等於本條的直播即時銷售。
+status: shifting
+notes: |
+  整詞借用案例：與「業配」不同，台灣目前沒有為「直播帶貨」這個特定銷售模式另造詞彙，
+  台灣商周、工商時報等主流財經媒體報導時也直接使用「帶貨」「直播帶貨」，
+  屬於新商業模式隨著模式本身一起輸入、尚未在地化出獨立說法的案例。
+sources:
+  - https://zh.wikipedia.org/zh-hant/%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86
+  - https://www.businessweekly.com.tw/management/blog/3016605
+  - https://www.businesstoday.com.tw/article/category/183025/post/202305290020/
+added: '2026-09-05'
+updated: '2026-09-05'

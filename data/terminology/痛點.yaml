@@ -1,0 +1,25 @@
+id: 痛點
+category: business
+subcategory: 職場與商業
+fork_type: F
+display:
+  taiwan: 痛點
+  china: 痛點
+etymology:
+  origin: 名詞本身源於醫學「疼痛點」（Trigger Point／Tender Point），台灣主流報刊在 2010 年以前都還是此用法。現在通行的商業義「痛點」，是英文 Pain Point 的直譯——Pain Point 一詞最早見於 1858 年愛丁堡醫學期刊，同樣先指身體痛點，後來才被商業場景借用，隱喻「事情的癥結、未被滿足的需求」，並在 2010 年後成為行銷與新創圈的主流用法。至少 2015 年起，「痛點」已是台灣商業圈離不開的詞彙。
+  taiwan_path: 台灣行銷、新創、產品圈直接從英文 Pain Point 譯入，與中國無直接傳承關係。
+  china_path: 中國同樣譯自英文 Pain Point，在商業與網路語境高度通行。
+  fork_cause: 兩岸各自從英文商業術語翻譯而來，屬於平行輸入，不是單向傳入。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+status: stable
+notes: |
+  誤判翻案案例：PTT 八卦板曾發文「痛點是支語嗎？」，Threads 上也有行銷從業者追問「痛點這兩個字是誰先說的」。
+  查證結果是誤判——這個詞的商業義源自英文 Pain Point 直譯，兩岸各自譯入，不是中國傳來的用語。
+sources:
+  - https://disp.cc/ptt/Gossiping/1fcKPBAN
+  - https://www.threads.com/@aaron_yodel/post/DQXLq3eE2J9
+  - https://www.inside.com.tw/article/6157-painpoint-in-learning-english
+added: '2026-09-05'
+updated: '2026-09-05'

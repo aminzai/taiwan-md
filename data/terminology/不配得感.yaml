@@ -1,0 +1,22 @@
+id: 不配得感
+category: slang
+subcategory: 心理與情緒
+fork_type: E
+display:
+  taiwan: 自我價值感低 / 覺得自己不配 / 冒牌者症候群（相近概念）
+  china: 不配得感
+etymology:
+  origin: 中國社群（尤其小紅書、知乎）近年心理健康討論常見詞，指個體潛意識否定自身價值、覺得自己不值得擁有好事物（好的愛情、好的機會、好的對待）的心理狀態，與心理學「配得感」（相信自己值得被愛、被尊重）相對。跟英文「Impostor Syndrome」（冒牌者症候群）概念相近但不完全重疊——冒牌者症候群偏向對成就與能力的懷疑，「不配得感」更廣泛涵蓋愛情、金錢、快樂等各層面的自我否定。
+  fork_cause: 中國心理科普／自媒體造詞，尚未見台灣網路普遍使用固定詞彙，仍以英文借詞「冒牌者症候群」或描述性說法為主。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: emerging
+notes: |
+  觀察詞：SC 近 28 天已有讀者搜尋「不配得感」（61 次曝光、平均排名 4.7），
+  代表詞彙本身已開始被台灣讀者接觸並想了解，但台灣網路尚未見普遍使用，列入觀察而非急迫替換詞。
+sources:
+  - https://baike.baidu.com/item/%E4%B8%8D%E9%85%8D%E5%BE%97%E6%84%9F/65234812
+  - https://nicolee.tw/feeling-of-unworthiness/
+added: '2026-09-05'
+updated: '2026-09-05'

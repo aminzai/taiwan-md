@@ -1,0 +1,23 @@
+id: 攢錢
+category: daily
+subcategory: 日常用語
+fork_type: F
+display:
+  taiwan: 存錢
+  china: 攢錢
+etymology:
+  origin: 兩詞都指積存錢財，是台灣辭典也收錄的固有詞（「攢」音 ㄗㄢˇ，聚集、積存義），不是台灣沒有這個字。差別在日常口語的預設選字：台灣人日常說話與書寫預設用「存錢」「存款」，「攢錢」較少出現在口語，多見於書面或古典語感的表達；中國口語則普遍使用「攢錢」。
+  taiwan_path: 台灣預設「存錢」「存款」「存下來」，銀行、理財、日常對話皆用此組詞彙。
+  china_path: 中國口語普遍用「攢錢」，銀行與理財語境亦同。
+  fork_cause: 同義詞的口語預設偏好差異，非詞彙有無——與「水準／水平」屬同一類型。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 「攢」字本身在台灣書面語與成語（如「積攢」）仍會出現，僅口語日常對話較少用「攢錢」這個組合。
+status: stable
+notes: 頻率位移案例：台灣辭典收錄「攢錢」，非中國專屬新造詞，但日常口語預設用字明顯不同，值得記錄語感差異。
+sources:
+  - https://dictionary.chienwen.net/word/11/88/9a9af3-%E6%94%A2%E9%8C%A2.html
+  - https://hinative.com/questions/20048282
+added: '2026-09-05'
+updated: '2026-09-05'

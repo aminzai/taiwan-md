@@ -1,0 +1,27 @@
+id: 確實
+category: daily
+subcategory: 日常用語
+fork_type: F
+display:
+  taiwan: 確實
+  china: 確實（使用頻率較高）
+etymology:
+  origin: 「確實」是兩岸共用的固有詞，教育部《臺灣台語常用詞辭典》收錄「確實（khak-si̍t）」為台語常用詞，證明這不是台灣沒有、由中國傳入的詞。2026 年 PTT 八卦板出現「有人說『確實』也是支語，是真的嗎？」的提問，屬於支語判準本身被過度擴張套用到固有詞的案例。
+  taiwan_path: 台灣書面語與口語長期使用「確實」，台語亦有對應音讀，非近年新增用法。
+  china_path: 中國口語裡「確實」的出現頻率偏高，常用來加強語氣或附和（「確實」單獨成句），這種高頻率的獨立語氣詞用法在台灣較少見。
+  fork_cause: 頻率位移，不是詞彙有無——與上輪「水準／水平」「素質」誤判案例同型。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 台灣新聞、公文、日常對話本就大量使用「確實」，不受本條影響。
+status: stable
+notes: |
+  誤判翻案案例：SC 讀者搜尋量顯示有真實查證需求（近 28 天 27 次曝光、平均排名 8.1），
+  但查證結果是誤判——「確實」台語辭典有收，不是支語傳入詞。
+  真正該注意的是「確實」單獨成句、當語氣附和詞使用時的高頻率，這是語感差異而非詞彙有無，
+  跟「水準／水平」「素質」屬於同一類誤判（[水準](水準.yaml)）。
+sources:
+  - https://sutian.moe.edu.tw/zh-hant/su/11266/
+  - https://www.pttweb.cc/bbs/Gossiping/M.1726544078.A.0DF
+added: '2026-09-05'
+updated: '2026-09-05'

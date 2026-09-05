@@ -1,0 +1,22 @@
+id: 賽博對賬
+category: slang
+subcategory: 網路與社群
+fork_type: E
+display:
+  taiwan: 網路上核對彼此的生活經驗 / 對照人生
+  china: 賽博對賬
+etymology:
+  origin: 「賽博」是英文 cyber 音譯，「對賬」原指核對帳目，這裡比喻雙方在網路上核對彼此的生活細節、成長經歷、共同記憶，藉此消除認知落差或找到共鳴（例如網友互相核對「你也有過這種童年經驗嗎」）。2025 年 12 月入選中國官方語文刊物《咬文嚼字》年度十大流行語。台灣尚無單一對應詞。
+  fork_cause: 中國網路造詞（cyber + 對賬的比喻組合），尚未見台灣網路使用，列入觀察。
+usage:
+  taiwan_formal: false
+  taiwan_casual: false
+status: emerging
+notes: |
+  觀察詞：2025 年《咬文嚼字》十大流行語之一，與上輪已收錄的「活人感」「預制感」同批官方認證熱詞，
+  屬於本計劃持續追蹤的 2025-2026 世代造詞家族。尚未觀察到台灣網路使用，暫不建議替換詞。
+sources:
+  - https://www.hkcd.com.hk/hkcdweb/content/2025/12/03/content_8728561.html
+  - http://big5.china.com.cn/gate/big5/news.china.com.cn/2025-12/03/content_118207445.shtml
+added: '2026-09-05'
+updated: '2026-09-05'

@@ -1,0 +1,22 @@
+id: 數位游民
+category: business
+subcategory: 職場與商業
+fork_type: F
+display:
+  taiwan: 數位遊牧 / 數位遊牧者
+  china: 數位游民 / 數字游民
+etymology:
+  origin: 兩者都是英文「Digital Nomad」的中文譯法，指靠網路創造收入、不受固定工作地點限制的生活方式。台灣官方與相關平台預設用「數位遊牧」，如國家發展委員會設立的「遊牧台灣（Nomad Taiwan）」官方推廣平台；中國與部分華語圈慣用「數位游民」「數字游民」。
+  taiwan_path: 台灣媒體、旅遊業、政府推廣文宣一致使用「數位遊牧」「數位遊牧者」。
+  china_path: 中國社群與媒體多用「數字游民」，港澳與部分東南亞華語圈也常見「數位游民」。
+  fork_cause: 同一英文詞彙在不同華語圈各自定型出偏好譯法，屬於平行翻譯差異，非單向輸入。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+status: stable
+notes: 頻率位移案例：兩種譯法本質上是同義詞，台灣官方與主流用法明確傾向「數位遊牧」，可作為讀者辨識文章來源地區的參考指標之一，但非嚴格意義的「誤用」。
+sources:
+  - https://digitalnomad.ndc.gov.tw/?lang=zh
+  - https://zh.wikipedia.org/zh-tw/%E6%95%B0%E5%AD%97%E6%B8%B8%E6%B0%91
+added: '2026-09-05'
+updated: '2026-09-05'

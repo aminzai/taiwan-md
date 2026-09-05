@@ -1,0 +1,23 @@
+id: 娛樂圈
+category: media
+subcategory: 影視與娛樂
+fork_type: F
+display:
+  taiwan: 演藝圈
+  china: 娛樂圈
+etymology:
+  origin: 兩者都泛指從事表演藝術（演員、歌手、藝人）職業的群體及其商業生態，長期在兩岸交替使用，不是台灣沒有「娛樂圈」這個詞。差別在預設偏好：台灣媒體與日常對話較常說「演藝圈」，中國影視娛樂產業與媒體則預設「娛樂圈」。2026 年 Threads 上有讀者觀察「以前我們不說娛樂圈，都說演藝圈」，反映的是頻率位移而非詞彙有無。
+  taiwan_path: 台灣主流媒體、演藝新聞慣用「演藝圈」「演藝人員」。
+  china_path: 中國影視產業與社群媒體慣用「娛樂圈」「娛樂圈八卦」「內娛」（中國內地娛樂圈簡稱）。
+  fork_cause: 同義詞的預設偏好差異，非詞彙有無。
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 「演藝界」「藝能界」「娛樂界」等同義詞在台灣也都有人使用，「娛樂圈」並非完全不存在，只是使用頻率較低。
+status: shifting
+notes: 頻率位移案例：查證教育部辭典與維基百科皆顯示「演藝界」與「娛樂圈」自古並存於華語世界，本條收錄理由是記錄台灣近年在社群媒體上對「娛樂圈」使用頻率上升的觀察，而非判定為支語誤用。
+sources:
+  - https://zh.wikipedia.org/zh-tw/%E6%BC%94%E8%97%9D%E7%95%8C
+  - https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%A8%B1%E4%B9%90%E5%9C%88
+added: '2026-09-05'
+updated: '2026-09-05'
