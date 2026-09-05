@@ -313,6 +313,33 @@ try {
   // liveness 工具不可用不擋 prebuild；週體檢（WEEKLY-REPORT v4 Stage 2.5a）會手動跑補位
 }
 
+// ── 10. 觀察者缺席（缺席協議，per reports/fortnight-deep-review-2026-09-05.md
+// §4.2 C，哲宇 2026-09-05 拍板選 A）：連續 7 天無 in-session 痕跡 → 缺席模式，
+// OBSERVER-QUEUE 到期非鎖預設由 twmd-weekly-report-sun 桶 3 強制執行、
+// 🔒閾值類可代理，四紅線仍不動。presence signal 的量測邏輯全在
+// observer-presence.py（fail-loud，不寫死 routine handle 清單）；這裡只轉發
+// 判定結果，python 不可用時不擋 prebuild。
+try {
+  const presence = JSON.parse(
+    execSync('python3 scripts/tools/observer-presence.py --json', {
+      encoding: 'utf8',
+      timeout: 30_000,
+    }),
+  );
+  if (presence.mode === 'ABSENT' && presence.days_absent >= 7) {
+    addAlert(
+      'observer-absent',
+      'yellow',
+      `觀察者缺席 ${presence.days_absent} 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）`,
+      'observer-presence.py',
+      'twmd-weekly-report-sun',
+    );
+  }
+} catch {
+  // observer-presence.py 不可用（python 缺失 / ROUTINE.md 解析失敗）不擋 prebuild；
+  // 週體檢 Stage 2.5 手動跑仍會看到 fail-loud 訊息
+}
+
 // ── output ───────────────────────────────────────────────────────────────
 const severityRank = { red: 0, yellow: 1 };
 alerts.sort((a, b) => severityRank[a.severity] - severityRank[b.severity]);

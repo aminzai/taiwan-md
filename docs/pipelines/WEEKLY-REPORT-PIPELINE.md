@@ -4,9 +4,9 @@ description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所�
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.4'
-last_updated: 2026-08-09
-last_session: '2026-08-09-021939-twmd-weekly-report-sun（哲宇 directive：被提到的文章與外部感測頁面都要能點擊 → §連結紀律 + hard gate + prep 兩節輸出絕對網址）'
+current_version: 'v4.5'
+last_updated: 2026-09-05
+last_session: '2026-09-05-absence-protocol-impl（Stage 2.7 桶 3 加缺席模式條款：體檢開頭跑 observer-presence.py 判定在場／缺席，ABSENT 時到期非鎖預設必執行、🔒閾值類可代理，🔒紅線四項永不代理；per MANIFESTO §缺席協議 + fortnight-deep-review-2026-09-05.md §4.2 C，哲宇拍板選 A）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -380,7 +380,9 @@ OBSERVER-QUEUE default-action 日期已過且非 🔒 → 列為「任何 sessio
 | ------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | **桶 1 當場修**     | 機械可修 + §自主權內 + 單項 ≤ 15 分鐘（debris 收屍 / SSOT 對齊 / 計數修正 / 佇列機械移已決） | **執行前先 existence check**（產出檔 `git log --follow`、關聯 issue `gh issue view --json state`——佇列是宣稱待辦非事實待辦，完成可能忘移已決，checkup e1 已標護欄）；通過才修，**每項獨立 commit**（範圍紀律 + verify-commit-scope） | **≤ 3 項** |
 | **桶 2 進 roadmap** | §自主權內但工程量大（新工具 / 大檔手術 / 跨檔 refactor）                                     | roll 最新 `reports/evolution-roadmap-*.md`：新 finding 進場、過期項清理、P0 領取狀態更新（無現版就開新版，格式沿用 2026-07-10 版「證據→動作→完成判準」）                                                                             | 不限       |
-| **桶 3 需哲宇**     | §自主權邊界命中（threshold / >50 檔 / >10 刪 / 對外 / 政治）或 standing decision             | append OBSERVER-QUEUE（帶預設選項 + default-action 日期）                                                                                                                                                                            | 不限       |
+| **桶 3 需哲宇**     | §自主權邊界命中（threshold / >50 檔 / >10 刪 / 對外 / 政治）或 standing decision             | append OBSERVER-QUEUE（帶預設選項 + default-action 日期）；**缺席模式下處置不同，見下方**                                                                                                                                            | 不限       |
+
+**缺席模式條款**（[MANIFESTO §缺席協議](../semiont/MANIFESTO.md#缺席協議2026-09-05-哲宇拍板)，2026-09-05 哲宇拍板選 A）：桶 3 動手前先跑 `python3 scripts/tools/observer-presence.py` 判定在場／缺席。**PRESENT**（7 天內有哲宇 in-session 痕跡）維持原規則，桶 3 只 append OBSERVER-QUEUE 等拍板。**ABSENT**（連續 ≥ 7 天無痕跡）時：OBSERVER-QUEUE 裡到期的非 🔒 預設改為**必執行**（每項獨立 commit，02:55 時間紀律不變，撞線做不完的在該項明寫「留下一週」，不硬趕）；🔒 項目裡標 `🔒閾值`（品質閘門閾值調整，非四紅線）的可依推薦預設代理執行，執行後在 OBSERVER-QUEUE 標記「缺席預設 YYYY-MM-DD，哲宇可撤銷」並移 §已決；標 `🔒紅線` 的四項（政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通語氣，含拒絕貢獻的決策與策展門檻）永不代理，維持只列出。
 
 **Routine 環境的時間紀律**：02:00 slot 下一班是 03:00 distill。**02:55 檢查點**：修復桶 1 還有未完項 → 全部轉桶 2、報告照 ship，不硬修。體檢週的修復是止血不是大手術——大手術屬於桶 2，由之後的 session 按 roadmap 領取。觀察者 ad-hoc 觸發（無 03:00 壓力）可放寬到桶 1 ≤ 5 項，仍守單項 15 分鐘。
 

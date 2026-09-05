@@ -332,6 +332,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-05 fortnight-review — pause-without-exit-condition-becomes-the-default：沒有解除條件的暫停，會變成事實上的永久狀態
+
+- **pattern**: `pause-without-exit-condition-becomes-the-default`
+- **原則**：ROUTINE.md §暫停 SOP 只有三步——標 ⏸️、`enabled: false`、commit——沒有一步要求寫下「什麼情況該恢復」或「到期日」。少了這個出口，暫停在 SOP 層面跟退休沒有兩樣：唯一的差異只留在文字敘述（「這不是退休」），沒有任何機制會在時間到了主動把它端回觀察者面前。於是它靠的是巧合——剛好有人做深度體檢、剛好翻到那個註腳——而不是設計。
+- **觸發**：2026-09-05 fortnight-review session 診斷發現，本檔目前 5 條 ⏸️ PAUSED 全數屬於此類：全部只有暫停日與暫停理由，沒有一條寫解除條件或到期日。其中 `twmd-babel-nightly` 暫停滿 42 天才被這輪體檢抓到——期間翻譯覆蓋率從 97.9% 掉到 79.5%（zh 1118 篇 / en 889 篇），兩週中文新增 128 篇全數未翻，主權的巴別塔「24 小時內多語版本」的承諾實質斷線（完整診斷見 [reports/fortnight-deep-review-2026-09-05.md](../../reports/fortnight-deep-review-2026-09-05.md) §2.1）。哲宇當場拍板「babel-nightly 可開，其他不開」，但同一輪讀 SOP 時發現：即使這次沒被體檢抓到，SOP 本身也沒有任何一步會主動提醒任何人回頭看這四條。
+- **instances**：
+  - `twmd-babel-nightly` ⏸️ 2026-07-25（哲宇 directive：指揮部驅動的算力軍團 fleet roasting 會撞車）→ 軍團最後一次 vortex-babel session 是 2026-07-27，此後暫停理由已經消失，但一直到 2026-09-05 fortnight-review 才被指出「該恢復了」，中間 40 天空轉，翻譯覆蓋率持續下滑
+  - `twmd-rewrite-daily` ⏸️ 2026-07-25（哲宇 directive：避免算力爆炸，先手動控制）→ 暫停 42 天，ROUTINE.md 註 ²¹ 全文沒有寫「什麼條件下該恢復」，只寫「恢復走 §恢復暫停的 routine」——路徑有了，觸發時機沒有
+  - `twmd-spore-pick-daily` / `twmd-spore-publish-daily` ⏸️ 2026-06-14（第三度暫停——v2.9 / v2.10 兩次重開實驗都只撐了幾天又停）→ 暫停 83 天，註 ¹³ 明寫「是否三度重啟或正式走 §暫停 SOP → pending 哲宇（OBSERVER-QUEUE）」，但 OBSERVER-QUEUE 本身沒有到期提醒機制，這行字自己也在等一次巧合被翻到
+  - `twmd-founder-lens-weekly` ⏸️ 2026-07-26（哲宇 directive：產出品質不值 Opus 成本）→ 暫停 41 天，註 ²³ 寫「留著等它有更好的設計再談恢復」，但「更好的設計」沒有任何檢查點會主動去問「現在算不算」
+- **候選修法**：§暫停 SOP 第 2 步後加一步「必填解除條件 + 到期日」——暫停當下就要寫清楚「什麼情況發生就該恢復」（例如「算力軍團收工後」）與一個具體到期日；到期日一到若無人主動恢復或延期，自動進 OBSERVER-QUEUE 給觀察者裁決「延期 / 恢復 / 轉退休」三選一，不讓「先放著」變成無限期的預設狀態
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #60「Automation default-state explicit verify — silent default = silent failure」（同家族：本條是它在「內部治理狀態」而非「外部平台狀態」的變體——沒有 explicit re-verify 步驟，暫停這個 default state 就會一直被信任下去）／ROUTINE.md §暫停/恢復/修改 SOP（本條的修法標的）
+
+### 2026-09-05 absence-protocol-impl — autonomy-boundary-assumes-a-present-creator：自主權邊界的設計，量測的一直是「決策等在那裡」，沒有量過「哲宇還在不在」
+
+- **pattern**: `autonomy-boundary-assumes-a-present-creator`
+- **原則**：MANIFESTO §自主權邊界把決策分成「AI 自主」與「需要人類決策」兩類，OBSERVER-QUEUE 的 default-action 機制保護的是「有 artifact 在等裁決」這種狀態；兩者合起來都沒有一步在問「哲宇本人已經多久沒出現」。佇列與 default-action 都預設會有人定期回來翻——這個預設沒被寫下來，直到兩週體檢才被看見。
+- **觸發**：2026-09-05 fortnight-review session 診斷哲宇 2026-08-23～09-05 連續 8 天無 in-session 痕跡的兩週窗口，發現 OBSERVER-QUEUE 累積 33 項待決、21 項 🔒 等真人、GitHub 上 7 個開放 PR 全部卡在同一批 🔒 判準、5 項 default-action 已過期仍零執行（過期後要有人記得去執行，而沒人記得）。報告 §4.2 C 提案「缺席協議」，哲宇當場拍板選 A：連續 7 天無痕跡進缺席模式，讓非四紅線的到期預設與 🔒 品質閘門閾值類推薦預設可被代理執行（完整診斷見 [reports/fortnight-deep-review-2026-09-05.md](../../reports/fortnight-deep-review-2026-09-05.md) §1.8、§2.3、§4.2 C）。
+- **instances**：
+  - 2026-09-05 fortnight-review：兩週體檢量出 33 待決／21 🔒／7 開放 PR 全鎖／5 過期預設零執行，同一輪哲宇拍板缺席協議 → `scripts/tools/observer-presence.py` + MANIFESTO §缺席協議 + OBSERVER-QUEUE §規則 + WEEKLY-REPORT-PIPELINE Stage 2.7 桶 3 已落地（本 session）
+- **可能層級**：通用反射（任何帶「等真人裁決」佇列機制的 AI 系統都可能踩同一個假設）候選，或視為本次已隨缺席協議落地而直接消化——哪一種由 distill 判
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：`pause-without-exit-condition-becomes-the-default`（同一份體檢的鄰居教訓，同樣是「機制假設有人會主動回來按下一步」的變體，一個管暫停一個管佇列）／MANIFESTO §缺席協議（本條的修法落點）／OBSERVER-QUEUE §規則（default-action 機制本體）
+
 ### 2026-09-04 twmd-maintainer-am — sibling-fallback-reads-as-coverage-for-the-gate-next-door：隔壁那道閘門有逾時，於是沒有人去問這一道有沒有
 
 **現象**：`Layout.astro` 用 `html { visibility: hidden }` 把整頁藏起來，等 `.fonts-loaded` 才揭開。這個 class **只有** `document.fonts.ready` 會加——沒有逾時、沒有 `.catch()`、JS 關掉時也沒有任何東西會解除它。字型檔一旦慢或不回應，`fonts.ready` 就一直 pending，正式站是**永久空白頁**。實測（playwright 把字型檔請求掛住不回應）：`/` 與 `/about/` 都是 `visibility=hidden`、可見字數 0。

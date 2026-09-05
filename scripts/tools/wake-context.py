@@ -222,7 +222,8 @@ def sec_groundtruth():
     chunks = []
     for cmd in (["bash", "scripts/tools/consciousness-snapshot.sh"],
                 ["bash", "scripts/tools/routine-status.sh"],
-                ["bash", "scripts/tools/inbox-signal.sh"]):
+                ["bash", "scripts/tools/inbox-signal.sh"],
+                ["python3", "scripts/tools/observer-presence.py"]):
         try:
             r = subprocess.run(cmd, cwd=REPO, capture_output=True, text=True, timeout=60)
             chunks.append(r.stdout.rstrip() or f"⚠️ {cmd[1]} 無輸出（rc={r.returncode}）")
