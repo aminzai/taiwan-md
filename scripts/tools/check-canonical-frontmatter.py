@@ -71,13 +71,37 @@ COVERED_SUBDIRS = [
 COVERED_FILES = ['BECOME_TAIWANMD.md', 'CLAUDE.md']
 
 
+def archive_subdirs() -> list[str]:
+    """A literal `archive/` child directory of a covered top-level dir is
+    auto-covered — a canonical moved to archive/ still owes readers a
+    trustworthy status/superseded_by/apoptosis, it doesn't get to go silent.
+
+    2026-09-05 gap found: docs/pipelines/archive/ (new home for frozen
+    single-file REWRITE-PIPELINE snapshots) wasn't in COVERED_SUBDIRS, so
+    `--all` and per-path runs both silently skipped it (a file with
+    status: archived but a missing/garbled superseded_by would pass mute).
+
+    Scope is deliberately narrow: only a dir literally named `archive`
+    (matches `find docs -type d -name archive`) directly under one of
+    COVERED_DIRS_TOPLEVEL. This does NOT reach docs/semiont/.archive
+    (dot-prefixed — a separate, older, out-of-scope holding pen) nor
+    docs/feedback/archive (docs/feedback isn't a covered top-level dir at
+    all, so its archive/ doesn't inherit coverage either).
+    """
+    return [
+        f'{d}/archive' for d in COVERED_DIRS_TOPLEVEL
+        if (REPO_ROOT / d / 'archive').is_dir()
+    ]
+
+
 def is_covered(filepath: Path) -> bool:
     """Whether this file is subject to frontmatter rules.
 
     Only top-level .md in COVERED_DIRS_TOPLEVEL + allowlisted subdirs in
-    COVERED_SUBDIRS + standalone bootloader files. Excludes session data
-    artifacts (memory/, diary/) and content artifacts (SPORE-BLUEPRINTS/,
-    SPORE-HARVESTS/, factory subdirs).
+    COVERED_SUBDIRS + a covered top-level dir's own archive/ child +
+    standalone bootloader files. Excludes session data artifacts (memory/,
+    diary/) and content artifacts (SPORE-BLUEPRINTS/, SPORE-HARVESTS/,
+    factory subdirs).
     """
     rel = filepath.relative_to(REPO_ROOT) if filepath.is_absolute() else filepath
     rel_str = str(rel)
@@ -89,6 +113,8 @@ def is_covered(filepath: Path) -> bool:
     if parent in COVERED_DIRS_TOPLEVEL:
         return True
     if parent in COVERED_SUBDIRS:
+        return True
+    if parent in archive_subdirs():
         return True
     return False
 
@@ -293,7 +319,7 @@ def get_staged_files() -> list[Path]:
 def get_all_covered_files() -> list[Path]:
     """All .md files in top-level covered dirs + sub-canonical dirs + bootloader."""
     files: list[Path] = []
-    for d in COVERED_DIRS_TOPLEVEL + COVERED_SUBDIRS:
+    for d in COVERED_DIRS_TOPLEVEL + COVERED_SUBDIRS + archive_subdirs():
         files.extend((REPO_ROOT / d).glob('*.md'))  # glob (not rglob) = top-level only
     for f in COVERED_FILES:
         path = REPO_ROOT / f

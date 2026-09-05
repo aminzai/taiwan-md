@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE 單檔案型完整流程'
 description: '文章改寫流程單檔閱讀版（工具生成，不要手改）— 依 REWRITE-PIPELINE.md 派發表順序，串接十個 REWRITE-STAGE-*.md contract 自動重組；SSOT 仍是 v9 拆檔版，本檔僅供一次讀完整條產線之用'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v9.7-single'
-last_updated: 2026-08-15
-last_session: '2026-08-15-095913-manual（v9.7 研究層品質波：哲宇 directive「大幅梳理 REWRITE-PIPELINE / RESEARCH-AGENT-PROMPT 讓未來產出高品質研究與文體＋整合 session 要有判斷好報告的準則」——STAGE-1A v9.2 新增 Step 1.7.5 整合與清理六判準＋搜尋量天花板制（全篇 ~150：Stage 0 20-30＋fan-out ~120-130，四隻各 ~30）；RESEARCH-AGENT-PROMPT v2.1 好報告形態正面範本＋契約第 6 條 Findings 寫世界不寫任務；research-report-health v4 合成層過程噪音 gate。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
+current_version: 'v9.8-single'
+last_updated: 2026-09-05
+last_session: '2026-09-05-154128-fortnight-review（v9.8 小衛生修補：跨檔案職責分工表 `REWRITE-STAGE-*.md × 10` 份數漂移——實際 11 檔／派發表去重後也是 11 列，改成不寫死數字、pointer 到 §Stage contract 派發表當份數 SSOT；counts-drift-lint.py 加對應 check）'
 generated_from:
   - 'REWRITE-PIPELINE.md@59a57c944'
   - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
@@ -19,7 +19,7 @@ generated_from:
   - 'REWRITE-STAGE-3-VERIFY.md@36d5c8e32'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-05T17:24:03+08:00'
+generated_at: '2026-09-05T17:54:24+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程

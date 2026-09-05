@@ -246,6 +246,42 @@ def check_frontmatter_freshness():
     return out
 
 
+def check_rewrite_stage_contracts():
+    """REWRITE-PIPELINE.md「REWRITE-STAGE-*.md × N」份數宣稱 vs 實際 contract 檔數。
+
+    2026-09-05 發現：跨檔案職責分工表寫死「× 10」，實際 11 檔（REWRITE-STAGE-2E-ROOM-PROSE.md
+    從舊合併檔拆出來時沒同步更新）。份數 SSOT = docs/pipelines/REWRITE-STAGE-*.md 實際檔數，
+    等同 §Stage contract 派發表去重列數（12 列 9/9b 同指一檔 → 11 檔）。"""
+    out = []
+    t = rd("docs/pipelines/REWRITE-PIPELINE.md")
+    if not t:
+        return out
+    actual = len(list((REPO / "docs/pipelines").glob("REWRITE-STAGE-*.md")))
+    # frontmatter（含 last_session changelog 字串）與歷史行都不算現行宣稱——
+    # 只驗身體正文（跨檔案職責分工表）的活宣稱
+    fm_end = 0
+    if t.startswith("---\n"):
+        m2 = re.search(r"\n---\n", t[4:])
+        if m2:
+            fm_end = 4 + m2.end()
+    for m in re.finditer(r"REWRITE-STAGE-\*\.md`?\s*×\s*(\d+)", t):
+        if m.start() < fm_end or is_historical_line(t, m.start()):
+            continue
+        n = int(m.group(1))
+        line_no = t[: m.start()].count("\n") + 1
+        out.append(
+            F(
+                f"REWRITE-PIPELINE.md:{line_no}「{m.group(0)}」",
+                n,
+                actual,
+                n == actual,
+                "stage contract 份數 SSOT = docs/pipelines/REWRITE-STAGE-*.md 實際檔數"
+                "（＝§Stage contract 派發表去重列數）；prose 應 pointer 不寫死數字",
+            )
+        )
+    return out
+
+
 def check_pipelines_index():
     out = []
     actual = {p.name for p in (REPO / "docs/pipelines").glob("*.md")} - {"README.md"}
@@ -267,6 +303,7 @@ CHECKS = [
     ("refresh 步數", check_refresh_steps),
     ("routine 條數", check_routine_counts),
     ("對外文章數", check_outward_articles),
+    ("REWRITE-STAGE contract 份數", check_rewrite_stage_contracts),
     ("pipelines 索引", check_pipelines_index),
 ]
 

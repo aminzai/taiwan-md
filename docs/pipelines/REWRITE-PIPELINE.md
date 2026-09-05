@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程薄索引（v9.0 router）— spine / Hard Gate Inventory / 多 agent 編排 / stage contract 派發表；各 stage 操作細節住 REWRITE-STAGE-*.md contract 檔（執行者只讀一個 contract 即可跑一步）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v9.7'
-last_updated: 2026-08-15
-last_session: '2026-08-15-095913-manual（v9.7 研究層品質波：哲宇 directive「大幅梳理 REWRITE-PIPELINE / RESEARCH-AGENT-PROMPT 讓未來產出高品質研究與文體＋整合 session 要有判斷好報告的準則」——STAGE-1A v9.2 新增 Step 1.7.5 整合與清理六判準＋搜尋量天花板制（全篇 ~150：Stage 0 20-30＋fan-out ~120-130，四隻各 ~30）；RESEARCH-AGENT-PROMPT v2.1 好報告形態正面範本＋契約第 6 條 Findings 寫世界不寫任務；research-report-health v4 合成層過程噪音 gate。診斷：reports/research-report-hygiene-evolution-2026-08-15.md）'
+current_version: 'v9.8'
+last_updated: 2026-09-05
+last_session: '2026-09-05-154128-fortnight-review（v9.8 小衛生修補：跨檔案職責分工表 `REWRITE-STAGE-*.md × 10` 份數漂移——實際 11 檔／派發表去重後也是 11 列，改成不寫死數字、pointer 到 §Stage contract 派發表當份數 SSOT；counts-drift-lint.py 加對應 check）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -211,25 +211,25 @@ upstream_canonical:
 
 ## 跨檔案職責分工
 
-| 檔案                                                             | 範圍                                                                                                                                                              |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **本檔**                                                         | 薄索引 router（v9.0）：spine ＋ Hard Gate Inventory ＋ 多 agent 編排 ＋ stage contract 派發表 ＋ cron                                                             |
-| `REWRITE-STAGE-*.md` × 10                                        | **各 stage contract（v9.0）**：PROCEDURE／GATES／HANDOFF verbatim 自 v8.0 搬入；執行者只讀一個 contract ＋其 INPUTS 即可跑一步（派發表見 §Stage contract 派發表） |
-| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                                                     |
-| [PROJECTION.md](../editorial/PROJECTION.md)                      | **投影方法論 SSOT（Step 2.0）**：研究 → 論點 + 骨架 + 減法 → 藍圖（宏觀結構，抗面向巡禮）                                                                         |
-| [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md)              | **編輯室對抗 SSOT（Step 2.0-R / 2.5-R）**：投影後／正文後乾淨 context 分席審稿 + 主編裁決                                                                         |
-| [EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md)           | 編輯室分席 copy-paste prompt（禁即興）                                                                                                                            |
-| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）— 句子層 craft（微觀）                                                                                             |
-| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                                                                          |
-| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                                                       |
-| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                                                  |
-| [WRITER-PROMPT.md](WRITER-PROMPT.md)                             | Stage 2 寫作 sub-agent 薄殼派發模板（v2.0 零 craft 複寫）：必讀四 canonical（含 graph.md）＋read-receipt 驗讀＋機械輸出契約＋anti-example 庫（禁即興、禁 skim）   |
-| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                                                                                                                      |
-| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                                                                                                                      |
-| [graph.md](../editorial/graph.md)                                | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                                                                                |
-| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                                                                         |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                                                                      |
-| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                                                                            |
+| 檔案                                                                          | 範圍                                                                                                                                                              |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **本檔**                                                                      | 薄索引 router（v9.0）：spine ＋ Hard Gate Inventory ＋ 多 agent 編排 ＋ stage contract 派發表 ＋ cron                                                             |
+| `REWRITE-STAGE-*.md`（份數以 §Stage contract 派發表去重列數為準，不在此寫死） | **各 stage contract（v9.0）**：PROCEDURE／GATES／HANDOFF verbatim 自 v8.0 搬入；執行者只讀一個 contract ＋其 INPUTS 即可跑一步（派發表見 §Stage contract 派發表） |
+| [RESEARCH.md](../editorial/RESEARCH.md)                                       | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                                                     |
+| [PROJECTION.md](../editorial/PROJECTION.md)                                   | **投影方法論 SSOT（Step 2.0）**：研究 → 論點 + 骨架 + 減法 → 藍圖（宏觀結構，抗面向巡禮）                                                                         |
+| [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md)                           | **編輯室對抗 SSOT（Step 2.0-R / 2.5-R）**：投影後／正文後乾淨 context 分席審稿 + 主編裁決                                                                         |
+| [EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md)                        | 編輯室分席 copy-paste prompt（禁即興）                                                                                                                            |
+| [EDITORIAL.md](../editorial/EDITORIAL.md)                                     | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）— 句子層 craft（微觀）                                                                                             |
+| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)                           | 引用規範（腳註格式、密度標準、來源品質）                                                                                                                          |
+| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)                     | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                                                       |
+| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)                          | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                                                  |
+| [WRITER-PROMPT.md](WRITER-PROMPT.md)                                          | Stage 2 寫作 sub-agent 薄殼派發模板（v2.0 零 craft 複寫）：必讀四 canonical（含 graph.md）＋read-receipt 驗讀＋機械輸出契約＋anti-example 庫（禁即興、禁 skim）   |
+| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)                     | 驗證清單（Stage 3 逐項檢查）                                                                                                                                      |
+| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                                 | 用語規範（台灣在地用語標準）                                                                                                                                      |
+| [graph.md](../editorial/graph.md)                                             | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                                                                                |
+| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                                | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                                                                         |
+| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)                            | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                                                                      |
+| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md)              | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                                                                            |
 
 ---
 
