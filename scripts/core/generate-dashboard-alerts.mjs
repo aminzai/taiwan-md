@@ -300,6 +300,20 @@ try {
       r.taskId,
     );
   }
+  // unregistered = 這條 routine 不在 liveness 工具的 TAG_PATTERNS 裡，工具看不見它的
+  // commit 痕跡。它不是死了，是我們沒有量它的尺——沉默死亡的紅燈給它是誤殺，完全不出聲
+  // 又讓「沒有人在量這條」永遠沒有出口。2026-09-06 週體檢：月度用語趨勢那條就這樣被
+  // 誤判，補登記才現形。同族 REFLEXES #85 / #91。
+  for (const r of liveness.results || []) {
+    if (r.status !== 'unregistered') continue;
+    addAlert(
+      `routine-unregistered-${r.taskId}`,
+      'yellow',
+      `routine ${r.taskId} 沒登記進 routine-liveness-check.py 的 TAG_PATTERNS — 沉默死亡對賬看不見它，補一列 commit 標記 pattern 才量得到（看不見 ≠ 沒跑）`,
+      'routine-liveness-check.py TAG_PATTERNS',
+      r.taskId,
+    );
+  }
   if (liveness.dumpStale) {
     addAlert(
       'routine-livestate-stale',
