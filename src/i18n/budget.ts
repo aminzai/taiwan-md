@@ -17,6 +17,7 @@ import ar from '../../data/budget/i18n/ar.json';
 import ru from '../../data/budget/i18n/ru.json';
 import vi from '../../data/budget/i18n/vi.json';
 import id from '../../data/budget/i18n/id.json';
+import de from '../../data/budget/i18n/de.json';
 
 export const budgetUI = {
   en: {
@@ -651,4 +652,5 @@ export const budgetUI = {
   ru,
   vi,
   id,
+  de,
 } as const;

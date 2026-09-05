@@ -137,13 +137,13 @@ export const LANGUAGES = [
     code: 'de',
     displayName: 'Deutsch',
     hreflang: 'de',
-    enabled: false,
+    enabled: true,
     notes:
       '2026-08-19 scaffold (tboydar de-translations-batch2). 84 de articles in knowledge/de/ (contributor PRs merged). ' +
       '2026-09-05 Stage 2-4 + 6-prep per OBSERVER-QUEUE #29 (哲宇 拍板): model calibration (codex + ollama qwen3.8:27b, 4-article set incl. 戒嚴時期) + ' +
       'ratio band recalibrated from 84-article sample (p5/p95) + QA gate wiring (cjk-leak-check/geo-fidelity-check German markers) + ' +
       'src/i18n/ 18 bundles + src/pages/de/ route scaffold + TRANSLATION-de.md. QA: reports/babel/de-birth-qa-2026-09-05.md. ' +
-      'Stage 5 flip (enabled: true) intentionally NOT done here — pending 主 session 驗收.',
+      '2026-09-05 Stage 5 flip (enabled: true) by 主 session fortnight-review after 13 de Hubs + data/budget/i18n/de.json + skipLink de landed (OBSERVER-QUEUE #29 哲宇拍板 A).',
   },
 ] as const satisfies readonly LanguageEntry[];
 

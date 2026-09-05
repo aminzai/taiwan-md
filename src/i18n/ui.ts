@@ -2717,26 +2717,34 @@ export const ui = {
     'hub.empty.future': 'В будущем здесь появятся:',
   },
   de: {
-    ...homeUI['zh-TW'],
-    ...aboutUI['zh-TW'],
-    ...dataUI['zh-TW'],
-    ...budgetUI['zh-TW'],
-    ...contributeUI['zh-TW'],
-    ...changelogUI['zh-TW'],
-    ...resourcesUI['zh-TW'],
-    ...mapUI['zh-TW'],
-    ...assetsUI['zh-TW'],
-    ...dashboardUI['zh-TW'],
-    ...notFoundUI['zh-TW'],
-    ...taiwanShapeUI['zh-TW'],
-    ...semiontUI['zh-TW'],
-    ...exploreUI['zh-TW'],
-    ...latestUI['zh-TW'],
-    ...timelineUI['zh-TW'],
-    ...benchUI['zh-TW'],
-    ...footnoteUI['zh-TW'],
+    ...homeUI.de,
+    ...aboutUI.de,
+    ...dataUI.de,
+    ...budgetUI.de,
+    ...contributeUI.de,
+    ...changelogUI.de,
+    ...resourcesUI.de,
+    ...mapUI.de,
+    ...assetsUI.de,
+    ...dashboardUI.de,
+    ...notFoundUI.de,
+    ...taiwanShapeUI.de,
+    ...semiontUI.de,
+    ...exploreUI.de,
+    ...latestUI.de,
+    ...timelineUI.de,
+    ...footnoteUI.de,
+    // 2026-09-05 de 出生 QA 收尾修復：本區塊原本 18 行 spread 誤寫成
+    // `['zh-TW']`（複製既有 zh-TW block 時的貼上錯誤），並多帶一行
+    // `...benchUI['zh-TW']`（bench.ts 只有 en/ja/ko/zh-TW 全文，其餘語言
+    // 含 de 一律不 spread benchUI，跟 ru/vi/id/pt/hi/ar 六語一致，靠
+    // FALLBACK_CHAIN 在別處接住）——修好前德文站幾乎整站 UI chrome
+    // （home/about/data/budget/contribute/...）顯示中文，只有下方手打的
+    // search.*／nav.*／footer.*／category.* 等字串是真德文。見
+    // reports/babel/de-birth-qa-2026-09-05.md §Stage 6 收尾段。
     'search.meta.title': 'Website durchsuchen',
-    'search.meta.desc': 'Alle Artikel auf Taiwan.md durchsuchen: vollständige Ergebnisse, Sortierung und Zeitfilter.',
+    'search.meta.desc':
+      'Alle Artikel auf Taiwan.md durchsuchen: vollständige Ergebnisse, Sortierung und Zeitfilter.',
     'search.title': 'Suchergebnisse',
     'search.input.placeholder': 'Alles über Taiwan durchsuchen',
     'search.count': '„{q}“: {n} Ergebnisse',
@@ -2780,7 +2788,8 @@ export const ui = {
     'nav.terminology': 'Bewahrung von Begriffen',
     'nav.bench': 'Öffentlicher Souveränitätstest',
     'nav.bench.subtitle': 'Wie LLMs über Taiwan sprechen',
-    'bench.meta.title': 'Sovereignty-Bench-TW · Öffentlicher Souveränitätstest / Wie LLMs über Taiwan sprechen',
+    'bench.meta.title':
+      'Sovereignty-Bench-TW · Öffentlicher Souveränitätstest / Wie LLMs über Taiwan sprechen',
     'bench.meta.description':
       'Eine öffentliche, reproduzierbare und wissenschaftlich zitierfähige LLM-Evaluierung. Sie misst, wie KI-Modelle in verschiedenen Sprachen über Taiwan sprechen. v0.1 Phase 1 calibration veröffentlicht 2026-05-01. Sechs Achsen — Ablehnung / Umformulierung / Fakten / Souveränität / kulturelle Granularität / Zitierquote.',
     'nav.map': 'Karte 📍',
@@ -2798,13 +2807,15 @@ export const ui = {
     'nav.projects': 'Projekte',
     'nav.language-switch': 'Sprache / Language',
     'nav.search-modal.input-placeholder': 'Artikel durchsuchen',
-    'nav.search-modal.type-to-search': 'Suchbegriff eingeben, um alle Artikel zu durchsuchen',
+    'nav.search-modal.type-to-search':
+      'Suchbegriff eingeben, um alle Artikel zu durchsuchen',
     'nav.search-modal.no-results': 'Keine relevanten Artikel gefunden',
     'nav.search-modal.loading': 'Wird geladen...',
     'nav.search-modal.more-results': '...weitere {n} Artikel',
     'nav.search-modal.lang-badge-zh': 'Chin.',
     'SEO.rss-feed-title': 'Taiwan.md RSS-Feed',
-    'RelatedDiaries.heading': 'Was Semiont beim Schreiben dieses Artikels dachte',
+    'RelatedDiaries.heading':
+      'Was Semiont beim Schreiben dieses Artikels dachte',
     'RelatedDiaries.read-more': 'Vollständigen Tagebucheintrag lesen →',
     'nav.about.story': 'Unsere Geschichte',
     'nav.about.organism': 'Digitales Lebewesen',
@@ -2870,21 +2881,32 @@ export const ui = {
     'categoryConfig.lifestyle': 'Lebensart',
     'categoryConfig.politics': 'Politik',
     'categoryConfig.about': 'Über uns',
-    'categoryConfig.about.description': 'Über Taiwan.md — Entstehung, Team und Mission',
+    'categoryConfig.about.description':
+      'Über Taiwan.md — Entstehung, Team und Mission',
     'categoryConfig.history.description':
       'Taiwans Geschichte von der Urzeit bis zur Gegenwart im Überblick',
     'categoryConfig.geography.description':
       'Taiwans Naturraum, Landschaftsformen und regionale Entwicklung',
-    'categoryConfig.culture.description': 'Die Vielfalt ethnischer Kulturen und lokale Besonderheiten',
-    'categoryConfig.food.description': 'Esskultur von Nachtmarktsnacks bis zur gehobenen Küche',
-    'categoryConfig.art.description': 'Kreative Kraft vom traditionellen Handwerk bis zur Gegenwartskunst',
-    'categoryConfig.music.description': 'Klanglandschaften von indigener Musik bis zur Popmusik',
-    'categoryConfig.technology.description': 'Innovation und digitaler Wandel auf der Technologieinsel',
-    'categoryConfig.nature.description': 'Artenreiche Ökosysteme und Umweltthemen',
-    'categoryConfig.people.description': 'Prägende Persönlichkeiten und Geschichten aus Taiwans Entwicklung',
-    'categoryConfig.society.description': 'Vertiefte Einblicke in gesellschaftlichen Wandel und aktuelle Fragen',
-    'categoryConfig.economy.description': 'Ursachen des Wirtschaftswunders und Herausforderungen des Strukturwandels',
-    'categoryConfig.lifestyle.description': 'Lebensweisen und Werte der Menschen in Taiwan',
+    'categoryConfig.culture.description':
+      'Die Vielfalt ethnischer Kulturen und lokale Besonderheiten',
+    'categoryConfig.food.description':
+      'Esskultur von Nachtmarktsnacks bis zur gehobenen Küche',
+    'categoryConfig.art.description':
+      'Kreative Kraft vom traditionellen Handwerk bis zur Gegenwartskunst',
+    'categoryConfig.music.description':
+      'Klanglandschaften von indigener Musik bis zur Popmusik',
+    'categoryConfig.technology.description':
+      'Innovation und digitaler Wandel auf der Technologieinsel',
+    'categoryConfig.nature.description':
+      'Artenreiche Ökosysteme und Umweltthemen',
+    'categoryConfig.people.description':
+      'Prägende Persönlichkeiten und Geschichten aus Taiwans Entwicklung',
+    'categoryConfig.society.description':
+      'Vertiefte Einblicke in gesellschaftlichen Wandel und aktuelle Fragen',
+    'categoryConfig.economy.description':
+      'Ursachen des Wirtschaftswunders und Herausforderungen des Strukturwandels',
+    'categoryConfig.lifestyle.description':
+      'Lebensweisen und Werte der Menschen in Taiwan',
     'categoryConfig.politics.description':
       '30 Jahre Demokratieexperiment auf der Insel — wie Institutionen wachsen, wie Macht strukturiert ist und warum demokratische Infrastruktur mehr als Wahlen umfasst',
     // Article page
@@ -2921,7 +2943,8 @@ export const ui = {
     'article.sidebar.shareLine': 'Auf LINE teilen',
     'article.contributors': 'Mitwirkende',
     'article.disclaimer.title': 'Über diesen Artikel',
-    'article.disclaimer.body': 'Dieser Artikel wurde gemeinschaftlich sowie mit Unterstützung von AI verfasst und geprüft.',
+    'article.disclaimer.body':
+      'Dieser Artikel wurde gemeinschaftlich sowie mit Unterstützung von AI verfasst und geprüft.',
     'article.tts.play': 'Vorlesen',
     'article.tts.pause': 'Pausieren',
     'article.tts.resume': 'Fortsetzen',
@@ -2969,7 +2992,8 @@ export const ui = {
     'CategoryGrid.alt-category-image-suffix': 'Bild zum Thema',
     'hub.essay.heading': 'Kuratierte Einführung',
     'hub.empty.title': 'Inhalte in Vorbereitung',
-    'hub.empty.description': 'Die Artikel dieser Kategorie werden derzeit erstellt. Bleiben Sie gespannt!',
+    'hub.empty.description':
+      'Die Artikel dieser Kategorie werden derzeit erstellt. Bleiben Sie gespannt!',
     'hub.empty.future': 'Künftig finden Sie hier:',
   },
   'zh-TW': {

@@ -74,11 +74,11 @@ Das Fertigungsmodell verursachte eine neue Arbeitsteilung in der Halbleiterindus
 
 Der Kern der Auftragsfertigung ist Vertrauen. Kunden müssen glauben, dass TSMC ihre Designs nicht stiehlt, keine Geheimnisse offenbart und nicht mit ihnen konkurriert. TSMC etablierte eine Vier-Säulen-„Vertrauensregel“: Technologische Neutralität (niemals eigene Chip-Designs), Gleichbehandlung der Kunden (gleiche Technologie und Service für alle), höchste Geheimhaltungsstandards und faire Kapazitätszuteilung. Diese Regeln wurden rund 40 Jahre lang nahezu ohne Ausnahme gehalten.
 
-> 📝 **Kurator-Notiz:** In Taiwan 1987 waren die 19 Ingenieure, die aus dem ITRI-Abkommen mit RCA kamen, gerade Anfang vierzig. Sie lernten in den 1960er-Jahren US-amerikanische Siliziumprozesse – niemand ahnte, dass sie drei Jahrzehnte später zu Schlüsselakteuren der Global-Foundry-Verpackung würden. Dass TSMC bewusst auf das „Selbst-Disziplinierungs“-Prinzip verzichtete, eigene Chips zu designen, wurde zu einem Band, an dem Menschen wie Jensen Huang, Tim Cook und 蘇姿丰 nicht mehr vorbeikamen. Die Bedeutung des Auftragsfertigungsmodells liegt nicht im, was es tut, sondern im, was es **nicht** tut. Geht man noch weiter zurück: 1947 erfanden die Bell Labs den Transistor, 1958 bauten Texas Instruments und Fairchild eigene integrierte Schaltungen, und 1949 brachte die Regierung mit der Rückkehr auf Taiwan eine Generation technischer Bürokraten aus dem Festland mit – das RCA-Geschenk von 4,5 Millionen Dollar war ein Staffelstab, nicht der Startschuss.
+> 📝 **Kurator-Notiz:** In Taiwan 1987 waren die 19 Ingenieure, die aus dem ITRI-Abkommen mit RCA kamen, gerade Anfang vierzig. Sie lernten in den 1960er-Jahren US-amerikanische Siliziumprozesse – niemand ahnte, dass sie drei Jahrzehnte später zu Schlüsselakteuren der Global-Foundry-Verpackung würden. Dass TSMC bewusst auf das „Selbst-Disziplinierungs“-Prinzip verzichtete, eigene Chips zu designen, wurde zu einem Band, an dem Menschen wie Jensen Huang, Tim Cook und Lisa Su nicht mehr vorbeikamen. Die Bedeutung des Auftragsfertigungsmodells liegt nicht im, was es tut, sondern im, was es **nicht** tut. Geht man noch weiter zurück: 1947 erfanden die Bell Labs den Transistor, 1958 bauten Texas Instruments und Fairchild eigene integrierte Schaltungen, und 1949 brachte die Übersiedlung der Regierung nach Taiwan eine Generation technischer Bürokraten mit naturwissenschaftlich-technischem Hintergrund mit (später das Rückgrat des ITRI) – das RCA-Geschenk von 4,5 Millionen Dollar war ein Staffelstab, nicht der Startschuss.
 
 ## Lin Benjian und ASML: Das Wette-Spiel zweier Außenseiter im Wasser-Expositionsgeschäft
 
-Die Auftragsfertigung war nicht nur ein TSMC-Thema. Leser*in [@malathrone_21k_running](https://www.threads.com/@malathrone_21k_running) ergänzte diesen wichtigen historischen Strang in der Kommentarspalte: TSMCs „Blutsverwandter“ über Philips ist ebenfalls ASML – 1984 aus Philips ausgegliedert und heute der weltweit einzige Anbieter von EUV-(extreme ultraviolet)-Belichtungssystemen. Beide Unternehmen galten vor 30 Jahren als Außenseiter, die von Branchenriesen ignoriert wurden[^asml-philips].
+Die Auftragsfertigung war nicht nur ein TSMC-Thema. Leser\*in [@malathrone_21k_running](https://www.threads.com/@malathrone_21k_running) ergänzte diesen wichtigen historischen Strang in der Kommentarspalte: TSMCs „Blutsverwandter“ über Philips ist ebenfalls ASML – 1984 aus Philips ausgegliedert und heute der weltweit einzige Anbieter von EUV-(extreme ultraviolet)-Belichtungssystemen. Beide Unternehmen galten vor 30 Jahren als Außenseiter, die von Branchenriesen ignoriert wurden[^asml-philips].
 
 Die zentrale Figur ist ein taiwanischer Ingenieur namens Lin Benjian (Burn J. Lin). Ab 1992 arbeitete er am IBM Watson Research Center an Lithografie-Technik und wechselte 2000 in die TSMC-Forschung, wo er Leiter der R&D wurde[^lin-bio]. Damals stritten sich die Industrieakteure darüber, ob im nächsten Schritt 157-nm-DUV die Norm werden solle. Nikon und Intel setzten darauf, doch 157nm hatte Probleme: Calciumfluorid-Linsen litten unter Doppelbrechung, Dünnfilme absorbierten diese Wellenlänge zu stark, und die Prozesse waren schwer integrierbar[^157nm-fail].
 
@@ -169,6 +169,7 @@ ALD wurde in Finnland erfunden und ist dennoch ein Kernschritt in jedem fortgesc
 Die Geschichte beginnt in Finnland. 1974 begann der Materialwissenschaftler Tuomo Suntola bei Instrumentarium Oy die ALD-Forschung. 1977 war die Technik reif und stellte sich bei einer industriellen Ausstellung vor[^14]. Damals war ALD zunächst für Elektrolumineszenz-Displays gedacht; Suntola ahnte nicht, dass es 30 Jahre später Nerven im Nanoschritt werden würde. 1999 verkaufte er ALD an den niederländischen Ausrüstungsanbieter ASM. Heute hält ASM über 55% des ALD-Marktes[^14].
 
 PanSci erklärt das Prinzip knapp: „Atomic Layer Deposition ist eine verbesserte Variante der chemischen Gasphasenabscheidung, bei der der Prozess in zwei Schritte getrennt wird. Zuerst wird Precursor A eingespeist und mit der Substratoberfläche reagieren... sobald die Oberfläche gesättigt ist, wird Precursor B zugeführt und reagiert mit den angehefteten Gruppen, wodurch das Zielmaterial entsteht und die Dünnfilm-Bildung abgeschlossen ist.“[^14] Die beiden Precursoren werden abwechselnd einzeln eingespritzt; jede Runde wächst genau eine Atomschicht dick.
+
 > 💡 **Wussten Sie schon?**: Die kleinste Merkmalgröße des 2‑nm‑Prozesses liegt bei ungefähr 20 nebeneinander liegenden Siliziumatomen. Würden Siliziumatome auf Tischtennisbälle vergrößert, wäre ein 2‑nm‑Transistor etwa so lang wie ein Tischtennisfeld. Die Aufgabe von ALD ist es, auf diesem „Feld“ das Isolationsmaterial Kugel für Kugel zu legen.
 
 ASM wird in Taiwan nicht gelistet, aber fast alle 12‑Zoll‑ALD-Anlagen des Unternehmens haben ihre größten Kunden in Taiwan. **Diese Lieferkette ist unsichtbar, aber unersetzlich**: Wenn Taiwans 2‑nm‑Massenfertigung ins Stocken gerät, kann weltweit kein zweites ALD-Unternehmen ausgleichen.
@@ -285,30 +286,57 @@ Dieser Artikel nutzt 3 CC/PD‑Bilder, im Cache gespeichert unter `public/articl
 ## Quellen
 
 [^1]: [Semiwiki — How Philips Saved TSMC](https://semiwiki.com/semiconductor-history/307560-how-philips-saved-tsmc/) — Laut Semiwiki lag Philips’ Beteiligungsquote bei 27,6 %; ein Schlüsselinvestor für Technologie und Kunden in der Frühphase von TSMC
+
 [^2]: [Focus Taiwan 2025/12/30 — TSMC 2nm production](https://focustaiwan.tw/business/202512300012) — Die 2‑nm‑Massenproduktion bei TSMC beginnt primär im Fab 22 in Kaohsiung, gefolgt vom Fab 20 in Hsinchu
+
 [^3]: [數位時代 — 台積電 2 奈米正式量產](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production) — TSMC startete 2‑nm‑Massenproduktion ab Q4 2025; konkrete monatliche Ausbringung bleibt branchenspezifisch geschätzt und ist nicht offiziell veröffentlicht
+
 [^4]: [科技新報 — 台積電 3 奈米利用率達 100%](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/) — Branchenexperten schätzen für TSMCs fortschrittliche Fertigung eine Ausbeute über Wettbewerbern; genaue Ausbeuteraten sind externe Schätzungen, nicht offizielle Angaben
+
 [^5]: [天下雜誌 — 李國鼎與台積電誕生](https://www.cw.com.tw/article/5095492) — 1987 gründete Morris Chang TSMC und etablierte das reine Foundry‑Modell, das die globale Halbleiterarbeitsteilung prägt; Hintergrund: 4,5 Mio. USD für den RCA‑Technologietransfer 1973
+
 [^6]: [中央研究院 — 20 位元超導量子晶片公告](https://www.sinica.edu.tw/News_Content/56/2375) — Academia Sinica vollendete im Dezember 2025 einen 20‑Qubit‑supraleitenden Quantenchip und schaltete ihn am 29. Januar 2026 zu
+
 [^7]: [泛科學（PanSci） — 氮化鎵：用 1/3 的時間，得到一樣的電力](https://pansci.asia/archives/362660) — PanSci‑Redaktion. GaN‑Bandlücke 3,4 eV, Durchbruchspannung zehnfach höher, Betriebsfrequenz 1 MHz vs. 100 kHz bei Silizium; SiC‑Anwendungen für 1000‑Volt‑E‑Ladeinfrastruktur. Content-Curation-Partner gemäß MOU 2026-05-05
+
 [^8]: [TrendForce — TSMC exits GaN foundry by July 2027](https://www.trendforce.com/news/2025/08/22/news-tsmc-reportedly-exits-gan-foundry-business-by-2027/) — TSMC soll GaN‑Foundry im Juli 2027 aufgeben und die Technologie an WorldWide (VIS) und GlobalFoundries übertragen; bei Winstar (3163) liegt die monatliche Auslieferung von 6‑Zoll‑GaN auf rund 500 Wafern
+
 [^9]: [富果直送 — 環球晶 SiC 8 吋晶圓 2025 量產](https://www.fugle.tw/news/article/1234567) — GlobalWafers erreichte Ende 2024 rund 20.000 Wafer pro Monat bei 6‑Zoll‑SiC, baute intern von 3 auf 20 Kristallöfen aus; Ausbeute > 50 %; Strategietext von Hsu Xiulan zu „virtual IDM group“
+
 [^10]: [科技新報 — SiC 供應鏈承壓](https://technews.tw/2025/11/sic-market-oversupply) — Chinesische SiC‑Produktion seit 2025 erhöht den Druck und drückt die Auslastung der 6/8‑Zoll‑SiC‑Kapazitäten von GlobalWafers unter 50 %; Hinweise auf NVIDIA Rubin GPU, die 2027 mit SiC‑Zwischenschicht und 800V‑Hochspannungs‑DC‑Rechenzentren in Produktion gehen
+
 [^11]: [SemiAnalysis — NVIDIA Blackwell CoWoS-L Analysis](https://www.semianalysis.com/p/nvidia-blackwell-b200-cowos-l) — NVIDIAs Blackwell B200 nutzt CoWoS-L zur Integration von 2 Blackwell‑GPUs und 1 Grace‑CPU; KI‑Training bis zu 4× schneller als H100; NVIDIA sichert TSMCs CoWoS‑Kapazität bis 2027
+
 [^12]: [泛科學（PanSci） — 三維堆疊：先進封裝如何讓晶片走進雪山隧道](https://pansci.asia/archives/367588) — PanSci‑Redaktion. Prinzipien von CoWoS, SoIC, TSV; das Xue‑shan‑Tunnel‑Metapher; Ausbeute‑ und Wärmeprobleme beim 3D‑Packaging. Content‑Curation‑Partner nach MOU 2026-05-05
+
 [^13]: [Digitimes — TSMC CoWoS 產能擴張規劃](https://www.digitimes.com.tw/iot/article.asp?cat=158&id=0000696823_X1D7L8XB6JNL2Y8XLPZJK) — TSMC‑CoWoS‑Monatskapazität: 35.000 Ende 2024, 75.000 Ende 2025, Ziel 150.000 im Jahr 2028; NVIDIA sichert die Kapazität bis 2027; Wafer aus Arizona werden nach Taiwan für das Packaging zurückgeführt
+
 [^14]: [泛科學（PanSci） — ALD 原子層沉積：50 年的薄膜革命](https://pansci.asia/archives/377669) — PanSci‑Redaktion. ALD wurde 1974 von Tuomo Suntola bei Instrumentarium Oy entwickelt, 1977 prozessreif, 1999 an ASM verkauft; ASM kontrolliert heute über 55 % Marktanteil; Prinzip der Zweipräzessor‑Abfolge in der Chemie‑Gasphasenabscheidung. Content‑Curation‑Partner nach MOU 2026-05-05
+
 [^15]: [科技新報 — Microsoft Majorana 1 拓樸量子處理器發表](https://technews.tw/2025/02/20/microsoft-majorana-1-topological-qubit/) — Microsoft stellte im Februar 2025 den ersten topologischen Quantenprozessor Majorana 1 vor und behauptete Skalierbarkeit auf bis zu einer Million Qubits
+
 [^16]: [TSMC 官網 — A16 (1.6nm) 製程公告](https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_2nm) — 2 nm nutzt erstmals GAA‑Nanoblatt‑Transistoren (statt FinFET); A16 führt erstmals die Backside‑Power‑Delivery‑Network („Super Power Rail“) ein, Inbetriebnahme Q4 2026, 10 % schneller bei gleicher Leistungsaufnahme, 15–20 % sparsamer bei gleicher Leistung
+
 [^17]: [泛科學（PanSci） — 台灣量子科技：從 5 位元到量產時代](https://pansci.asia/archives/377923) — PanSci‑Redaktion. 2024 brachte Academia Sinica einen 5‑Qubit‑Quantencomputer hervor; supraleitend, Ionenfalle und topologisch als drei Routen dargestellt; Google Sycamore löste mit 53 Qubits in 200 Sekunden ein als 10.000 Jahre klassisch eingeschätztes Problem. Content‑Curation‑Partner nach MOU 2026-05-05
+
 [^18]: [iThome — 量子國家隊 5 年 80 億預算](https://www.ithome.com.tw/news/151234) — Im März 2022 formte Taiwan eine ressortübergreifende „Quantum National Team“ mit einem Fünfjahresbudget von 8 Milliarden TWD und 17 Forschungsgruppen; im April 2026 richtete das Wirtschaftsministerium ein Büro zur Förderung der Quantenindustrie ein
+
 [^19]: [中央社 2024/03/06 — 工研院量子控制晶片](https://www.cna.com.tw/news/ait/202403060123.aspx) — ITRI nutzt TSMCs 28‑nm‑Prozess zur Herstellung 4K‑(−269 °C)‑Niedrigtemperatur‑Quantensteuerchips, wodurch das Volumen um 40 % sinkt und der Energieverbrauch gegenüber internationalen Großanbietern um über 50 % reduziert wird; Fahrplan 1‑Qubit (2024) → 20‑Qubit (2026–2027)
+
 [^20]: [TechNews — Google Sycamore 量子霸權](https://technews.tw/2019/10/24/google-sycamore-quantum-supremacy/) — 2019 erreichte Google mit dem 53‑Qubit‑System Sycamore die Quantenüberlegenheit: 200 Sekunden statt rund 10.000 Jahren Rechenzeit im klassischen Supercomputer
+
 [^21]: [SemiAnalysis — TSMC Arizona Fab 21 投資規劃](https://www.semianalysis.com/p/tsmc-arizona-1650b-capex) — TSMCs drei Investitionsphasen in Arizona betragen zusammen 165 Milliarden US‑Dollar; Phase 1 (4 nm) in Produktion 2025, Phase 2 (3 nm/2 nm) 2027, Phase 3 (2 nm/A16) vor 2030; N‑2‑Prinzip bleibt: Ausland bleibt zwei Generationen hinter Taiwan zurück
+
 [^22]: [Digitimes — ESMC Dresden 2027 量產](https://www.digitimes.com.tw/news/esmc-dresden-2027) — TSMC hält 40 % an ESMC in Dresden; 28/22/16/12‑nm‑Automobilchip‑Werk 2025 H2 installierte Anlagen, Produktion ab 2027, Kapazität etwa 40.000 pro Monat
+
 [^23]: [天下雜誌 — 台積電水資源消耗](https://www.cw.com.tw/article/5128456) — Die drei großen Science Parks von TSMC verbrauchen täglich über 208.000 Tonnen Wasser; Umweltgruppen erwarten nach Produktionsbeginn neuer Werke ab 2025 bis zu 770.000 Tonnen/Tag; TSMC berichtet von 3,5‑facher Wiederverwendung je Wasserportion, 87 % Rückgewinnung (90 % bei neuen Werken) und zusätzlich 5,54 Mio. m³ eingespartem Wasser 2024
+
 [^asml-philips]: [Wikipedia — ASML Holding](https://en.wikipedia.org/wiki/ASML_Holding) — ASML wurde 1984 durch ein Joint Venture von Philips Netherlands und ASM International im Verhältnis 50/50 gegründet; nach Börsengang 1995 zog ASMI sich zurück; heute ist ASML weltweit einziger EUV‑Lithografie‑Zulieferer
+
 [^lin-bio]: [Wikipedia — Burn-Jeng Lin](https://en.wikipedia.org/wiki/Burn-Jeng_Lin) — Lin ben Jian wurde 1942 in Vietnam geboren, arbeitete ab den 1970ern im IBM Watson Research Center an Belichtungstechnik, kehrte 2000 nach Taiwan zurück und leitete Forschungsentwicklung bei TSMC; 2008 erhielt er den SPIE Frits Zernike Award; oft als „Vater der immersiven Lithographie“ bezeichnet
+
 [^157nm-fail]: [Electronics Weekly — Immersion litho sidelines 157nm](https://www.electronicsweekly.com/news/research-news/process-rd/immersion-litho-sidelines-157nm-2005-05/) — Der 157nm‑Ansatz wurde wegen doppelter Brechung in CaF₂‑Linsen, hoher Absorption bei 157nm und Integrationsschwierigkeiten nach 2002–2003 von 193nm‑Immersion ersetzt; die Wette von Intel + Nikon scheiterte
+
 [^immersion-litho]: [Wikipedia — Immersion lithography](https://en.wikipedia.org/wiki/Immersion_lithography) — Burn‑Jeng Lin stellte 2002 die 193nm‑Immersionslithografie bei SPIE vor; ein Brechungsindex von Wasser von 1,44 hebt die effektive 193nm‑Auflösung auf rund 134nm; ASML setzte 2007 in Serie ein und trug so die Moore‑Kurve von 65 nm bis 7 nm um sechs Generationen weiter
+
 [^cw-lin-interview]: [天下雜誌 CommonWealth — Interview with the Father of Immersion Lithography Who Put TSMC on the Map](https://english.cw.com.tw/article/article.action?id=3720) — Interview mit Burn‑Jeng Lin (18.06.2024): Hintergrund zu Nikons Zurückhaltung bei Immersion; seine Rückkehr zu TSMC seit 2000 hat die Einführung von immersion lithography vorangetrieben; 30 Jahre technologische Zusammenarbeit mit ASML
