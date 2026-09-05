@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-05 fortnight-review — verification-depth-shrinks-with-parallel-agent-count：同時驗收的回報越多，每份回報得到的驗證深度越淺，而且淺得沒有人宣告
+
+- **pattern**: `verification-depth-shrinks-with-parallel-agent-count`
+- **原則**：orchestrator 同時派出 N 位執行手時，驗收深度不是每份固定，是總量固定除以 N。N 小的時候每份回報都被工具實測；N 到十幾的時候「抽查三條」開始聽起來像謹慎。REFLEXES #31 說 self-report 是線索不是事實，#81 說收到就聚合，兩條都假設 orchestrator 有足夠判斷力去驗，沒有一條寫「判斷力被 N 稀釋時該怎麼辦」。
+- **觸發**：2026-09-05 fortnight-review 同時最多十三位 Sonnet 執行手在主工作樹平行改檔，我做規劃、派單、驗收、commit。前十幾份回報每份都拿工具量（抓到四次回報與事實不符：agent-report-health.py「不存在」、內鏈 59%→85.5%、seo-meta 主體早做、#1483 已被合併），到詞庫那批刪 110 個 yaml 時只抽查三條就 commit。三條都成立，但 3/110 這個比例是當下感覺不是規則，而且沒有寫在 commit 訊息或回報裡讓哲宇知道深度只有這樣。
+- **instances**：
+  - 2026-09-05 5a3da33f1 詞庫拆修 371 檔（110 刪 261 改），驗收抽查 3 條＋讀報告刪除段落；commit 訊息寫「任一條可 git 還原」但沒寫抽查比例
+  - 同日十八位執行手中，前 14 份回報有工具實測，後 4 份（詞庫、中華台北 6 篇、句構設計、看門狗）驗證深度依序遞減；看門狗第一輪就誤報 #1668，是四份裡唯一被「跑一次」實測抓到的
+- **候選修法**：(a) 批次刪除／改寫 >30 檔的回報，抽查比例寫成規則（例如 ≥10% 或 ≥10 條取大者），並把「抽查 N/M」寫進 commit 訊息，讓深度可見；(b) orchestrator 同時在跑的執行手數超過某個數（本次感覺在 8 左右）時，新回報先排隊不驗收，等在手的驗完；(c) REFLEXES #31 加一句：驗證深度必須宣告，「看過了」不算驗收語言
+- **verification_count**: 1
+- **severity**: process
+- **相關**：REFLEXES #31 self-report 是線索層；REFLEXES #81 orchestrator-aggregate-on-receive；MANIFESTO §14 判斷力是最稀缺的代謝資源；diary 2026-09-05-154128 「抽查三條是判斷力被稀釋的形狀」
+
 ### 2026-09-05 fortnight-review — scheduler-lastrunat-updates-even-when-session-never-starts：排程器在 spawn 那一刻就更新 lastRunAt，session 起不來它也一樣往前走
 
 - **pattern**: `scheduler-lastrunat-updates-even-when-session-never-starts`
