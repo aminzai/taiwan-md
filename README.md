@@ -24,7 +24,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 ## ✨ Features
 
 - 📖 **1118 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 13,416 article-versions
-- 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
+- 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
 - 🌳 **Resource mindmap** — D3.js bidirectional tidy tree with 146+ official Taiwan websites
@@ -53,7 +53,7 @@ people stop at the first.
 npx taiwanmd          # prints this ladder, with live article/language counts
 ```
 
-**1 · Read** — [taiwan.md](https://taiwan.md), 12 languages.
+**1 · Read** — [taiwan.md](https://taiwan.md), 13 languages.
 
 **2 · Ask** — plug the knowledge base into your AI so it answers about Taiwan
 from cited articles instead of from whatever it absorbed:
@@ -275,7 +275,7 @@ taiwan-md/
 **Tech:** Astro v6 · GitHub Pages · marked.js · D3.js · Google Fonts (Noto Serif TC)<br>
 **SSOT:** All content lives in `knowledge/`. Website is a projection. `scripts/core/sync.sh` syncs to `src/content/`.<br>
 **SEO:** JSON-LD · Open Graph · per-article OG cards (`/og/[category]/[slug]`) · Twitter Cards · RSS · `<meta ai-summary>`<br>
-**i18n:** zh-TW (default SSOT) + en + ja + ko + es + fr + vi + id + pt + hi + ar + ru — 12 languages via the translation cascade<br>
+**i18n:** zh-TW (default SSOT) + en + ja + ko + es + fr + vi + id + pt + hi + ar + ru + de — 13 languages via the translation cascade<br>
 **Quality:** Automated article-health checks + editorial pipeline. See [EDITORIAL.md](./docs/editorial/EDITORIAL.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
