@@ -15,7 +15,7 @@ tags:
 subcategory: 'Sports'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-07
+lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: People/楊傳廣.md
@@ -59,7 +59,7 @@ In the end, Yang won silver with 8,334 points, while Johnson took gold with 8,39
 
 At the time, Taiwan was falling into diplomatic isolation internationally. News of Yang's medal set off a wave of enthusiasm across the island: parades, repeated screenings of medal-news footage in cinemas, and a reception by President Chiang Kai-shek. At that moment, the weight of the silver medal far exceeded the scope of an athletic result.
 
-In 1960, Taiwan competed under the name "Chinese Taipei" amid even more complicated disputes over flags and naming. For an island squeezed by international politics, the decathlon performance of an Amis athlete created an unmistakable sense of presence on the world's largest competitive stage. Politically, that 58-point gap could not be calculated.
+In 1960, Taiwan competed under the name "Formosa." At the opening ceremony, the delegation marched in carrying a banner reading "UNDER PROTEST," objecting to the name it had been forced to accept.[^6] For an island squeezed by international politics, the decathlon performance of an Amis athlete created an unmistakable sense of presence on the world's largest competitive stage. Politically, that 58-point gap could not be calculated.
 
 ## The 9,121-Point World Record: Forcing the IAAF to Recalibrate Its Scoring
 
@@ -122,3 +122,5 @@ He set out from a Taitung tribal community in 1933, circled the globe, and used 
 [^4]: [Central News Agency: American sports star Johnson dies; classic duel with Yang Chuan-kwang remembered](https://www.cna.com.tw/news/aspt/202012030054.aspx) — Includes Rafer Johnson's quote, "We were very good friends, but I knew, he knew, and the coach knew that in the end we had to win or lose on the field," and records their competitive friendship from their UCLA years to the 1960 Rome Olympics.
 
 [^5]: [Epoch Weekly: Legend and glory; Yang Chuan-kwang speaks bluntly about being drugged](https://www.epochweekly.com/b5/006/2655.htm) — Includes Yang Chuan-kwang's own statement about the drugging incident; it remains a personal allegation, and the details have not been independently verified by a third party.
+
+[^6]: [Chinese Taipei Olympic Committee: The 1960 Rome Olympics (17th Games)](https://www.tpenoc.net/game/rome-1960/) — Official National Olympic Committee historical record confirming that Taiwan's 1960 delegation competed under the name "FORMOSA" per an IOC resolution, and documenting the chef de mission's "UNDER PROTEST" banner protest at the opening ceremony.
