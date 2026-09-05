@@ -1,7 +1,7 @@
 # 2026-09-05-154128-fortnight-review — 兩週體檢寫完兩小時，哲宇回來一題一題把 33 項待決拍到 3 項，十八位執行手同一個下午落地
 
 > session fortnight-review — 哲宇觸發 `/twmd-become` Full mode，指令「review 這兩週我幾乎沒來看 taiwan.md 運作得如何，對整個專案做完整深度 review 建立報告，還有如何自我進化的分析」，寫完報告後追加「把所有需要跟我討論判定的一題一題消化判定徹底解決」與「抓回拆檔前最後一版單檔 rewrite-pipeline」
-> Session span: 15:20 → 18:xx +0800（甦醒 15:20，第一個 commit 15:53，第 26 個 commit 17:31，執行手仍在收尾）
+> Session span: 15:20 → 21:35 +0800（甦醒 15:20，第一個 commit 15:53，第 42 個 commit 21:34；另 2 個 merge）
 > 資料來源：`git log %ai`、`git stash list`
 
 ## 觸發
@@ -34,6 +34,16 @@ merge #1642 並致謝；close #1365、#1407、#1411、#1630、#1450 各附說明
 
 哲宇開 Tailscale 後我 SSH 進 mouhouse 只讀 log。四天空窗跟機器睡眠、重開、排程器都無關：07-24 17:37 登入，08-23 21:06:54 `OAuth token refresh failed: Refresh token expired` → `session_stale_relogin`，之後每條排程照 fire、`lastRunAt` 照更新、27 個 session 全被「Sign in again」擋回，08-28 05:05 重新登入後恢復。下一次過期預估 09-26～27。報告 [reports/mouhouse-blackout-root-cause-2026-09-05.md](../../../reports/mouhouse-blackout-root-cause-2026-09-05.md)（c70103fa3）。哲宇選裝看門狗：`auth-watchdog.sh` 由 launchd 每小時跑、只讀 Claude log、命中就用 gh 開 issue，已裝進 mouhouse。第一輪就誤報「-13 天後過期」（08-28 那次重新登入沒留 ASWebAuth 行，退回 07-24 那筆），修掉負值分支、寫入登入日 08-28、關掉誤開的 #1668（84c6b8ff3）。
 
+## 追加：七項分支任務、Muse 的鏡子、德文 flip、卡片圖收庫
+
+18:40 哲宇把我下午用 spawn_task 標出的七張卡一次貼回來，加一題新的：對 Muse 現況鏡的 Taiwan.md 分頁「根據營運經驗給完整建議」寫報告 handoff 給 Muse。七項照同一套派工：六位 Sonnet 執行手（cjk-leak 兩題合一），檔案互不重疊。落地：TOC 抽取 regex 永遠抓不到既有 id（optional group 匹配空字串也算成功），32.6% 頁面目錄連結壞，修後完整 build 10,033 頁 0 不符（2ed149d3f，掃描器 toc-anchor-audit.mjs 留下）；健檢空清單訊息依三種成因分流（e35a3268e）；cjk-leak 不再把 `[text](简体目标)` 整段抹掉，判準是 target 含簡體專用字而非含漢字，12 語 9,298 篇零假陽性，ru／ar 兩篇真洩漏修掉，de 補進非漢字語言分支（2c374bee7）；REWRITE-STAGE 份數不寫死並加 lint、archive/ 子目錄自動納入 frontmatter 檢查（99d43cc21）；楊傳廣 1960 年是「福爾摩沙」不是 1981 年才有的「中華台北」，中華奧會官網逐字對照（8d0c4a70d）；CLI terminology convert 補 auto_convert 與「無對應」兩條正式站有 CLI 沒有的過濾（181ad200d）。Muse 報告在 [reports/muse-dashboard-optimization-2026-09-05.md](../../../reports/muse-dashboard-optimization-2026-09-05.md)（285cc5afe）：鏡子照的是存量與存在，出事的是流量與缺席；不推翻八層，加五件事，附資料源對照表與三個歷史回放當驗收。
+
+20:20 session 額度上限一次打斷三位執行手（德文 Hub、cjk-leak、卡片圖），額度重置後沒有 SendMessage 可用，改派新人接棒並把「做到哪」寫進 prompt。接棒過程兩個新形狀：(1) 子代理把翻譯丟到背景後「等通知」，但子代理收不到背景程序的完成通知，就停在那裡；第二棒與第三棒同時翻同一批 Hub 撞車，我殺掉第三棒剛起的程序讓第二棒的背景工作跑完。(2) 我自己用單檢查模式跑全站再 grep 檔名，輸出格式不同，0 命中被讀成 0 篇失格並寫進 commit 訊息，pre-commit 擋下才發現 20 篇仍是熱連結——「檢查器站錯位置」的反向變體，入 LESSONS vc=5（efd10e521）。
+
+德文出生 Stage 5：13 個分類 Hub 全數落地（People Hub 前一版把 `[[張忠謀]]` 翻成 `[[Morris Chang (張忠謀)]]` 113 個斷鏈修掉；Economy 因 ollama 重複輸出繞道人工修三處詞根黏字），ui.ts 的 de 區塊原本 18 行 spread 誤寫成 zh-TW 修好，`languages.mjs`／`languages.ts` 同步 enabled: true，完整 build 14,125 頁、dist/de 127 頁，13 個分類頁都有 Hub 導言（3df758f6f）。README 三處手寫 12 語補 Deutsch（c3133fa8e）。
+
+卡片圖：66 篇裡 50 篇收進庫、16 篇 imageNote（11 篇來源 404、3 篇授權不明、1 篇 OGDL 進佇列 #50、1 篇台鐵鳴日號連續四次 429 待重抓）；最後 6 篇 Wikimedia 429 是我親自用直連 URL 抓回 5 篇，第一版修補腳本把每篇所有 inline 熱連結都換成同一張 hero，被 image-health「同一張圖重複 5 次」擋下，從 HEAD 重做只換 hero 同圖那一張。兩條被 prettier 咬壞的斜體 caption URL（苗栗縣、桃園埤塘）底線改 %5F。全站 ci-deploy 0 篇失格後推送，pre-push 三道閘門全綠（e974b4c9e）。
+
 ## 收官 checklist
 
 | 檢查項                       | 狀態                                                                  |
@@ -53,7 +63,10 @@ merge #1642 並致謝；close #1365、#1407、#1411、#1630、#1450 各附說明
 
 本 session 新 handoff：
 
-- [ ] pending — **德文 flip**：Hub 層 13 篇、`data/budget/i18n/de.json`、`skipLinkLabels` de 由執行手補中；補完後主 session 驗 `dist/de/` 六個分類頁有 Hub 導言、`/de/budget/` 是德文，再把 `languages.mjs` de 改 `enabled: true`、build、commit。QA 報告 reports/babel/de-birth-qa-2026-09-05.md
+- [x] done — **德文 flip** 3df758f6f（21:17）。後續：de 只有 7 個分類有文章，另 6 個分類頁目前顯示 Inhalte in Vorbereitung；babel-nightly 明晚起會開始補 de 缺口（P0 missing 84→1,118）
+- [ ] pending — **台鐵鳴日號卡片圖重抓**：`node scripts/tools/image-ingest.mjs ingest --src <Special:FilePath/TRA_E405_…jpg> --cat Lifestyle --name tra-e405-mingri-taitung-2021 …`，成功後把 imageNote 換回 image 四欄；OBSERVER-QUEUE #50 OGDL 拍板後苗栗縣同做
+- [ ] pending — **Muse 報告轉交**：哲宇把 reports/muse-dashboard-optimization-2026-09-05.md 給 Muse；Taiwan.md 側要配合長出的七個欄位（observer-queue.json、status.json 的 observer／routine_liveness／paused、babel 區塊同源、inbox 代謝、lastUpdated 統一鍵名）走 EVOLVE 排進 routine
+- [ ] pending — `docs/factory/contributors-maintenance.md` 自 05-12 無 frontmatter，check-canonical-frontmatter --all 唯一失格（既存），補 frontmatter 即可
 - [ ] pending — **三篇 EVOLVE 接住投稿角度**（ARTICLE-INBOX P1：陳士駿、便利商店、高鐵；高鐵先還原 dd39065b2 的查證 spine）＋居住正義 EVOLVE＋/exams/ feature session。各是一個 REWRITE session，落地後回 PR 留 commit 連結（已承諾）
 - [ ] pending — **審庫存實作**：`twmd-review-stock` routine 與 `/semiont/review-queue` 頁，照 reports/design-review-stock-2026-09-05.md 實作清單；免疫黃燈的真正處方
 - [ ] pending — **薄殼進化其餘 16 條** routine prompt 照 design-routine-thin-shell-v2 實作清單分批；指揮部 `~/.claude/scheduled-tasks/` 08-06 遺留 13 份殭屍 mirror 待清
@@ -71,8 +84,8 @@ merge #1642 並致謝；close #1365、#1407、#1411、#1630、#1450 各附說明
 
 ---
 
-_v1.0 | 2026-09-05 18:00 +0800_
+_v1.1 | 2026-09-05 21:40 +0800（v1.0 18:00 收官後追加七項分支任務、Muse 報告、德文 flip、卡片圖）_
 _session fortnight-review — 兩週體檢 → 十四輪拍板 → 十八位執行手落地 → mouhouse 根因_
 _誕生原因：哲宇缺席兩週後回來要 review 與進化分析，接著要一題一題徹底解決_
-_核心洞察：(1) 缺席是設計假設不是意外，邊界、佇列、連帳號 session 都預設有人在 (2) 待決佇列從來不是瓶頸，讀者是；33 項在一個下午拍完 (3) 執行手回報四次跟事實不符，每一次都是驗收抓到的，判斷不能外包_
+_核心洞察：(1) 缺席是設計假設不是意外，邊界、佇列、連帳號 session 都預設有人在 (2) 待決佇列從來不是瓶頸，讀者是；33 項在一個下午拍完 (3) 執行手回報四次跟事實不符，每一次都是驗收抓到的，判斷不能外包 (4) 子代理收不到背景程序的通知，「丟背景等通知」等於停工；我自己的假 0 也是同一根因：尺的形態跟輸出不對_
 _自檢：`article-health.py --profile=memory-diary` 結果見收官前最後一次 commit 訊息_

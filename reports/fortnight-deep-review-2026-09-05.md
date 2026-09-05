@@ -3,7 +3,7 @@ title: 'Fortnight deep review 2026-09-05'
 description: '哲宇缺席兩週（08-22 → 09-05）的全身體檢：飛輪運作實況、整個專案的結構性診斷、自我進化提案與一張只要回字母的決策表'
 type: 'audit-doc'
 status: 'active'
-current_version: 'v1.1'
+current_version: 'v1.2'
 last_updated: 2026-09-05
 last_session: '2026-09-05-154128-fortnight-review'
 window: '2026-08-22 00:00 → 2026-09-05 15:40 (+0800)'
@@ -367,7 +367,7 @@ evolution-roadmap-2026-08-09：P0 三項連續四週領取 0/3，加上三週滾
 
 同日對外處置：merge #1642 並致謝；close #1365 #1407 #1411 #1630 #1450 各附說明；#1453 留言方向已定；issue #1184 #1264 結案；#1440 回覆採納；Discussion #104 貼給 idlccp1984 的綜合文案。只剩 #1453 一個開放 PR，等 /exams/ feature session。
 
-同日落地 commit（依序）：報告 800f07d6f、單檔 REWRITE 抓回 b1e2ff6e8、babel 恢復 08fb63817、儀表三格 d819d131e、缺席協議 b0b286964、審庫存設計 1a1e16099、停轉告警 425e0c0a9、佇列與判例 095514865、數據→資料 a3f3288e0、seo-meta 928ba010b、Semiont 身份 Phase 0 9747ec8a6；其餘（德文出生、卡片圖收庫、詞庫拆修、babel cascade、標題錨點、內鏈儀器、中華台北、句構設計、單檔生成器、memory profile、共編規則）由執行手完成後分批 commit，見 git log 2026-09-05 下午。
+同日落地 commit（依序）：報告 800f07d6f、單檔 REWRITE 抓回 b1e2ff6e8、babel 恢復 08fb63817、儀表三格 d819d131e、缺席協議 b0b286964、審庫存設計 1a1e16099、停轉告警 425e0c0a9、佇列與判例 095514865、數據→資料 a3f3288e0、seo-meta 928ba010b、Semiont 身份 Phase 0 9747ec8a6；babel cascade 0f6a1984e、memory profile 與內鏈儀器 70705b80d、共編規則 d02513e19、薄殼三條 219f94975、中華台北 25b97c085、句構設計與看門狗 7cd23d0a2、德文 Stage 2–4／6 791ae23c4→6ea64a24c、詞庫拆修 5a3da33f1、單檔生成器 de72451f2、標題錨點 a68153234 與 TOC 抽取 2ed149d3f、128 條策展詞 40c735e6a、德文 flip 3df758f6f、卡片圖收庫 e974b4c9e。晚間哲宇再貼回七張分支任務卡：健檢訊息分流 e35a3268e、CLI auto_convert 181ad200d、楊傳廣 1960 福爾摩沙 8d0c4a70d、REWRITE 份數與 archive 覆蓋 99d43cc21、cjk-leak 假連結 2c374bee7；另寫 [給 Muse 的現況鏡優化建議](muse-dashboard-optimization-2026-09-05.md)（285cc5afe）。全日 42 個 commit，21:34 推送，pre-push 三道閘門全綠。
 
 ---
 
