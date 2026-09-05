@@ -43,13 +43,18 @@ MARKERS = [
         # ar/ru 2026-07-25 birth: بكين (Beijing, Arabic Wikipedia canonical) /
         # Пекин (Beijing, Russian — long-settled exonym, not a sovereignty-framing
         # choice like the person/place tables elsewhere in this guide family).
+        # de 2026-09-05 birth: Peking is the long-settled German exonym for
+        # Beijing (still in everyday use alongside "Beijing", e.g. "Peking-
+        # Universität")；84 篇既有 de 語料實測 11 檔使用「Peking」，此前完全
+        # 沒被本檢查看見（regex 只認 Beijing）。
         "target": re.compile(
-            r"\bBắc Kinh\b|\bBeijing\b|\bPequim\b|बीजिंग|بكين|Пекин|北京", re.I
+            r"\bBắc Kinh\b|\bBeijing\b|\bPequim\b|\bPeking\b|बीजिंग|بكين|Пекин|北京", re.I
         ),
         # 譯文行本身是 Beijing/Peking opera（京劇）語境 → 該行合法（Tiananmen「Thiên An
-        # Môn」等本就不被 target 命中，不需豁免）
+        # Môn」等本就不被 target 命中，不需豁免）。de: Pekingoper/Peking-Oper（德文
+        # 「歌劇」是 Oper 不含字尾 a，"opera" 抓不到，需另加）。
         "line_exempt": re.compile(
-            r"opera|ópera|ôpêra|kinh kịch|ओपेरा|أوبرا|опера|京剧|京劇|京戲", re.I
+            r"opera|ópera|ôpêra|kinh kịch|ओपेरा|أوبرا|опера|Pekingoper|Peking-Oper|京剧|京劇|京戲", re.I
         ),
     },
     {
@@ -62,13 +67,26 @@ MARKERS = [
     {
         "name": "China-mainland 中國大陸",
         # 加 外省/眷村（1949 mainlander 移民史是台灣史正題，譯文說 mainland 合法）
-        "zh_terms": ["中國大陸", "中国大陆", "大陸", "大陆", "外省", "眷村"],
+        # + 兩岸三地（de 2026-09-05 birth 揭露：林俊傑.md「兩岸三地均取得高度反響」被
+        # 德譯精確展開成「(Festland, Hongkong, Taiwan)」——語意正確的合法展開，非幻覺，
+        # 舊 zh_terms 沒收這個常見複合詞導致誤 flag）
+        "zh_terms": ["中國大陸", "中国大陆", "大陸", "大陆", "外省", "眷村", "兩岸三地", "两岸三地"],
         # 只抓明確「中國大陸」複合詞，不抓單獨 China（正常提及中國太多）
         # ar: الصين القارية（mainland China 常見形）; ru: материковый Китай（標準用語）
+        # de 2026-09-05 birth: Festland(china)（「大陸」/「外省」慣常德譯，84 篇語料
+        # 實測 9 檔用 Festland／Festlandchina／vom Festland 等變形，此前無 target 覆蓋）
         "target": re.compile(
             r"Trung Quốc đại lục|Tiongkok daratan|China continental|"
-            r"चीन की मुख्य भूमि|الصين القارية|материковый Китай|中國大陸|中国大陆",
+            r"चीन की मुख्य भूमि|الصين القارية|материковый Китай|Festland|"
+            r"中國大陸|中国大陆",
             re.I,
+        ),
+        # de: 「taiwanesisches Festland」＝台灣本島（相對離島如綠島），跟中國大陸無關的
+        # 另一種德文詞義——2026-09-05 birth 在 shih-ming-te.md 實測踩到（zh 源「台灣
+        # 本島」被譯成 Festland，觸發假警報）。此行豁免限定「Festland 緊鄰 taiwan 相關
+        # 形容詞/名詞」的用法，China-mainland 語境的裸 Festland 不受影響。
+        "line_exempt": re.compile(
+            r"taiwanesische[nrs]?\s+Festland|Festland\s+Taiwans?", re.I
         ),
     },
 ]

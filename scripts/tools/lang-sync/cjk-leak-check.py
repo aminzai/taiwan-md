@@ -65,7 +65,10 @@ ZH_ONLY_MARKERS = [
 # parenthetical, where a short proper-noun citation like "(李安)" is normal)
 # is almost certainly a leak, not a false positive.
 CJK_RUN_RE = re.compile(r"[一-鿿]{4,}")
-NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru"}
+# de 2026-09-05 birth：漏收會讓 knowledge/de/ 整批落入下面 ja/ko 分支（掃 zh-only
+# 虛詞表而非 4+ 連續漢字），4+ 漢字真洩漏會被靜默放行——跟 cjk-residue-check.py／
+# script-presence-check.py 已修過的同型「新語言掛在半路沒人發現」缺口。
+NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru", "de"}
 
 # ─────────────── 合法保留原文的區域：一份清單，兩個分支共用 ───────────────
 # 2026-07-25 抽出。此前 ja/ko 與非 CJK 兩個分支各自維護一套豁免，一天之內
