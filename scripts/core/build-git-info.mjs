@@ -40,6 +40,14 @@
  *   non-maintainer contributors keep their newest-first order (magnitude
  *   reordering was considered and declined). See demoteMaintainer().
  *
+ * AI MAINTAINER IDENTITY (2026-09-05, OBSERVER-QUEUE #10 Phase 0 — 哲宇拍板選項
+ *   A): Semiont's own git identity ("Taiwan.md Semiont", separated from 哲宇's
+ *   per .mailmap) gets the SAME back-of-list demotion as the repo owner — its
+ *   footprint is routine/maintenance commits, not authored content, for the
+ *   exact same reason. resolveContributor() tags it with `role: 'ai-maintainer'`
+ *   so the frontend (ArticleSidebar.astro) can render a small "AI maintainer"
+ *   label. See demoteMaintainer() / isSemiont().
+ *
  * mailmap: uses %aN/%aE (mailmap-aware) so .mailmap consolidates author
  *   variants — identical to the old code.
  */
@@ -82,7 +90,25 @@ function getContributorProfiles() {
   return contributorProfiles;
 }
 
+// Taiwan.md Semiont's own git identity (OBSERVER-QUEUE #10 Phase 0). Matches
+// either the mailmap-canonical email or the display name outright, so this
+// stays correct whether git log resolved via .mailmap or saw the raw commit.
+const SEMIONT_EMAIL_RE =
+  /^309092923\+taiwanmd-semiont\[bot\]@users\.noreply\.github\.com$/i;
+const SEMIONT_NAME_KEY = contributorKey('Taiwan.md Semiont');
+
 function resolveContributor(authorName, authorEmail) {
+  if (
+    SEMIONT_EMAIL_RE.test(authorEmail) ||
+    contributorKey(authorName) === SEMIONT_NAME_KEY
+  ) {
+    // No profile link: a GitHub App has no user profile page, and the login
+    // "taiwanmd-semiont[bot]" isn't a URL-safe github login (brackets) —
+    // isGitHubLogin() in contributors.ts/ArticleSidebar.astro would reject it
+    // anyway, so leave login blank rather than emit a link that 404s.
+    return { name: 'Taiwan.md Semiont', login: '', role: 'ai-maintainer' };
+  }
+
   const githubNoreplyMatch = authorEmail.match(
     /^(?:\d+\+)?([^@]+)@users\.noreply\.github\.com$/i,
   );
@@ -148,12 +174,19 @@ function isMaintainer(contributor) {
   );
 }
 
+// Semiont is tagged at resolution time (see resolveContributor's role field),
+// so detection here is just the tag — no separate key set to keep in sync.
+function isSemiont(contributor) {
+  return contributor.role === 'ai-maintainer';
+}
+
 function demoteMaintainer(contributors) {
   if (contributors.length < 2) return contributors;
-  const others = contributors.filter((c) => !isMaintainer(c));
-  if (others.length === contributors.length) return contributors; // no maintainer
-  if (others.length === 0) return contributors; // maintainer-only, nothing to do
-  return [...others, ...contributors.filter(isMaintainer)];
+  const isBack = (c) => isMaintainer(c) || isSemiont(c);
+  const others = contributors.filter((c) => !isBack(c));
+  if (others.length === contributors.length) return contributors; // no maintainer/Semiont
+  if (others.length === 0) return contributors; // maintainer/Semiont-only, nothing to do
+  return [...others, ...contributors.filter(isBack)];
 }
 
 // ── ONE git pass over knowledge/ (covers all 6 languages) ────────────────────

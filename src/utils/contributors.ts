@@ -24,6 +24,13 @@ import { resolve } from 'path';
 export type Contributor = {
   name: string;
   login: string;
+  /**
+   * Set to 'ai-maintainer' for Taiwan.md Semiont's own git identity
+   * (OBSERVER-QUEUE #10 Phase 0, 2026-09-05) — tagged in
+   * scripts/core/build-git-info.mjs's resolveContributor(). Consumed by
+   * ArticleSidebar.astro to render a small "AI maintainer" label.
+   */
+  role?: string;
 };
 
 export type GitInfo = {

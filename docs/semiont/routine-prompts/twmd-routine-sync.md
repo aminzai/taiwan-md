@@ -38,3 +38,15 @@ SSOT（ROUTINE.md 排程表）已把 `twmd-babel-nightly` 從 ⏸️ 恢復為�
 3. 再 list 一次確認 enabled=true，把前後值寫進本輪 memory 一句話。
 4. 從本檔刪除整個「一次性任務」區塊並 commit（訊息寫人話：「babel-nightly 依 9/5 拍板恢復啟用，一次性 rider 用完即除」）。
 5. 若 MCP 不可用或 update 失敗：不刪本段，在 memory 記 blocked 並在 OBSERVER-QUEUE 追加一行狀態。
+
+---
+
+## 一次性任務（2026-09-05 哲宇拍板 #10 Phase 0，完成後刪除本段）
+
+哲宇拍板 OBSERVER-QUEUE #10 選項 A：Phase 0 現在做，routine commit 的 author 身份從哲宇分離成 Taiwan.md 專屬身份；committer／實際 push 仍用現有哲宇 token（分離只到 author 這一層，Phase 1 才輪到 GitHub App 全面接手）。這台（mouhouse）是 routine 飛輪實際 commit 的機器，所以身份切換要落在這裡的 **repo-local** git config——不是 `--global`（這台也可能跑其他 repo，不該連坐）。
+
+1. `cd /Users/musebase/Projects/taiwan-md && git config user.name "Taiwan.md Semiont" && git config user.email "309092923+taiwanmd-semiont[bot]@users.noreply.github.com"`。
+2. 執行前後各印一次 `git config --get user.name` 與 `git config --get user.email`，把兩組前後值寫進本輪 memory（前值預期是哲宇的 name/email，後值應為上面設定的新身份）。
+3. 下一個在這台跑的 routine commit，author 應顯示為 `Taiwan.md Semiont <309092923+taiwanmd-semiont[bot]@users.noreply.github.com>`——不必本輪驗證（那是下一次 routine 的事），但把「已切換，待下次 commit 驗證」寫進 memory Handoff。
+4. 從本檔刪除整個「一次性任務（2026-09-05 哲宇拍板 #10 Phase 0）」區塊（連同上面的 `---` 分隔線一起刪，不動 babel 那個一次性區塊）並 commit（訊息寫人話：「routine commit author 依 9/5 拍板 #10 Phase 0 切成 Taiwan.md Semiont，一次性 rider 用完即除」——這會是這個新身份底下的第一個 commit，順便當活驗證）。
+5. 若 `git config` 指令失敗（例如非 git repo、路徑不對）：不刪本段，在 memory 記 blocked 並在 OBSERVER-QUEUE #10 追加一行狀態。

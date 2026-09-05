@@ -4,9 +4,9 @@ description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled �
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.21'
+current_version: 'v2.22'
 last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review（babel-nightly 恢復；rewrite/spore 維持手動）'
+last_session: '2026-09-05-165420-observer-queue-10-phase0（routine commit author 分離哲宇）'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -1014,6 +1014,8 @@ LESSONS-INBOX 新增（routine 提的）：
 ## 分靈節點層（2026-07-25 新增）
 
 本檔管的是**中央飛輪**：跑在核心機器上、`git push origin main` 直推、bypass permissions 的那 15 條 routine。
+
+**commit author 身份（2026-09-05，OBSERVER-QUEUE #10 Phase 0，哲宇拍板選項 A）**：中央飛輪在 mouhouse 上跑的 routine commit，author 身份與哲宇分離，改用 `Taiwan.md Semiont <309092923+taiwanmd-semiont[bot]@users.noreply.github.com>`（mouhouse repo-local `git config user.name`/`user.email`，切換走 `twmd-routine-sync` 檔尾一次性 rider）。**committer／實際 push 仍為哲宇的既有 token**——分離目前只到 author 這一層，Phase 1（GitHub App `taiwanmd-semiont[bot]` 全面接手 push main、classic token 退場）待哲宇決定時程。`.mailmap` 已新增獨立條目，這個身份**不**併入哲宇；`scripts/core/build-git-info.mjs` 把它與 repo owner 同樣降權（排到每篇文章 contributor 列表最後）並標 `role: 'ai-maintainer'`，前端 `ArticleSidebar.astro` 顯示小標「AI maintainer」。完整 runbook：[reports/semiont-independent-identity-2026-07-05.md](../../reports/semiont-independent-identity-2026-07-05.md) §5 Phase 0 / 附錄 B。
 
 從 2026-07-25 起還有第二層：**分靈節點**——跑在貢獻者自己機器上的 cron。訪客貼完甦醒 prompt 之後，Taiwan.md 會問他要不要設一條，答好就當場幫他設好。那條 cron 每天醒來一次，從 repo 內既有工單源接一件事做完，以 PR 回主庫。
 

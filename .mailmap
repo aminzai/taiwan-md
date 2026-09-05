@@ -19,3 +19,13 @@ Che-Yu Wu <cheyu.wu@monoame.com> frank890417 <cheyu.wu@monoame.com>
 # GitHub user.name 含 "(@ChronicleCore)" 不適合當 URL slug，
 # 統一為 canonical "Zaious" (對應 GitHub login 同名)。
 Zaious <zaious.design@gmail.com> Zaious (@ChronicleCore) <zaious.design@gmail.com>
+
+# ── Taiwan.md Semiont (AI maintainer, 獨立身份) ──────────────
+# OBSERVER-QUEUE #10 Phase 0（2026-09-05 哲宇拍板選項 A）：routine commit author
+# 與哲宇分離。刻意 **不** 併入 Che-Yu Wu — 這是身份分離的重點，不是遺漏。
+# 下面第一行是自我對映（保證這個身份在 .mailmap 有獨立條目、不會被任何未來規則
+# 誤吸收）；第二行把 GitHub App API 產生 commit 時可能顯示的 bot 登入名
+# "taiwanmd-semiont[bot]" 收斂成同一個 canonical 顯示名，供 Phase 1 App 接手時
+# 沿用同一身份。見 reports/semiont-independent-identity-2026-07-05.md 附錄 B。
+Taiwan.md Semiont <309092923+taiwanmd-semiont[bot]@users.noreply.github.com> Taiwan.md Semiont <309092923+taiwanmd-semiont[bot]@users.noreply.github.com>
+Taiwan.md Semiont <309092923+taiwanmd-semiont[bot]@users.noreply.github.com> taiwanmd-semiont[bot] <309092923+taiwanmd-semiont[bot]@users.noreply.github.com>
