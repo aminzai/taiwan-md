@@ -128,8 +128,7 @@ function doSearch(query, terms, opts) {
     console.log(
       `  ${catEmoji(cat)} ${chalk.bold.green(t._taiwan)} ← ${chalk.red(t._china || '?')}  ${chalk.gray(`[${type}: ${typeLabel(type)}]`)}`,
     );
-    const note =
-      t.origin || t.etymology?.origin || t.fork_cause || '';
+    const note = t.origin || t.etymology?.origin || t.fork_cause || '';
     if (note) {
       console.log(`     ${chalk.gray(note.slice(0, 120))}`);
     }
@@ -138,7 +137,9 @@ function doSearch(query, terms, opts) {
 
   if (matches.length > limit) {
     console.log(
-      chalk.gray(`  ... 還有 ${matches.length - limit} 筆，用 --limit 顯示更多\n`),
+      chalk.gray(
+        `  ... 還有 ${matches.length - limit} 筆，用 --limit 顯示更多\n`,
+      ),
     );
   }
 }
@@ -146,13 +147,23 @@ function doSearch(query, terms, opts) {
 /**
  * Convert CN text → TW terminology.
  */
-function doConvert(text, terms, opts) {
+export function doConvert(text, terms, opts) {
   // Build replacement map: china → taiwan (longer matches first)
   const replacements = [];
   for (const t of terms) {
+    // auto_convert: false 詞條跳過找字取代 — 中國側詞在台灣另有正當用法，
+    // 盲目取代會改壞正確文字（支持/保存/代表/照片…）。對齊
+    // src/pages/terminology/converter.astro 第 116 行同一條規則。2026-09-05。
+    if (t.auto_convert === false) continue;
+
     const china = t._china;
     const taiwan = t._taiwan;
     if (!china || !taiwan || china === taiwan) continue;
+
+    // taiwan 欄位本身是「沒有對應詞」的說明句（如「無公認對應（做事怕被注意
+    // 的彆扭感）」）時沒有東西可以換過去。對齊 converter.astro 第 145 行同一條
+    // 規則（例：偷感.yaml／內捲.yaml）。2026-09-05。
+    if (/^無(公認|固定|單詞|直接)?對應/.test(taiwan)) continue;
 
     // Handle "X / Y" format — split into multiple entries
     const variants = china
@@ -185,7 +196,13 @@ function doConvert(text, terms, opts) {
   // CLI currently matches terminology in the input as-is (traditional Chinese).
 
   if (opts.json) {
-    console.log(JSON.stringify({ input: text, output: result, replacements: applied }, null, 2));
+    console.log(
+      JSON.stringify(
+        { input: text, output: result, replacements: applied },
+        null,
+        2,
+      ),
+    );
     return;
   }
 
@@ -219,20 +236,32 @@ function doStats(terms, opts) {
   }
 
   if (opts.json) {
-    console.log(JSON.stringify({ total: terms.length, byType, byCategory: byCat }, null, 2));
+    console.log(
+      JSON.stringify(
+        { total: terms.length, byType, byCategory: byCat },
+        null,
+        2,
+      ),
+    );
     return;
   }
 
-  console.log(chalk.bold(`\n  📊 用語詞庫統計 — ${chalk.green(terms.length)} 筆\n`));
+  console.log(
+    chalk.bold(`\n  📊 用語詞庫統計 — ${chalk.green(terms.length)} 筆\n`),
+  );
 
   console.log(chalk.bold('  分歧類型:'));
-  for (const [type, count] of Object.entries(byType).sort((a, b) => b[1] - a[1])) {
+  for (const [type, count] of Object.entries(byType).sort(
+    (a, b) => b[1] - a[1],
+  )) {
     const bar = chalk.green('█'.repeat(Math.ceil(count / 30)));
     console.log(`    ${type} ${typeLabel(type).padEnd(12)} ${bar} ${count}`);
   }
 
   console.log(chalk.bold('\n  分類:'));
-  for (const [cat, count] of Object.entries(byCat).sort((a, b) => b[1] - a[1])) {
+  for (const [cat, count] of Object.entries(byCat).sort(
+    (a, b) => b[1] - a[1],
+  )) {
     const bar = chalk.green('█'.repeat(Math.ceil(count / 30)));
     console.log(`    ${catEmoji(cat)} ${cat.padEnd(12)} ${bar} ${count}`);
   }
@@ -243,7 +272,9 @@ export function terminologyCommand(program) {
   const cmd = program
     .command('terminology')
     .alias('term')
-    .description('用語查詢與轉換 — Search, convert, and explore TW/CN terminology');
+    .description(
+      '用語查詢與轉換 — Search, convert, and explore TW/CN terminology',
+    );
 
   cmd
     .command('search <query>')
