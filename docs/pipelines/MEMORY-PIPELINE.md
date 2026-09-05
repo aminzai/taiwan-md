@@ -3,8 +3,8 @@ title: 'MEMORY-PIPELINE'
 description: 'Session memory 撰寫流程 — 凝練版結構模板 + Stage 0-5 + 5 分鐘 reading test 自檢 + finale contract + index 150字 hard gate (v2.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.2'
-last_updated: 2026-07-05
+current_version: 'v2.3'
+last_updated: 2026-09-05
 last_session: '2026-07-05-120817-dna-audit'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=memory-diary'
 sister_docs:
@@ -413,9 +413,12 @@ date "+%Y-%m-%d %H:%M:%S %z"
 ```bash
 # 一個工具兩種維度（SSOT prose-health plugin 整合 manifesto-11 Tier 1-3 + quality-scan 12 dim）
 python3 scripts/tools/article-health.py docs/semiont/memory/{file}.md --profile=memory-diary
-# 2026-07-16 起用 memory-diary profile（score budget 8）：memory/diary 必填的 checklist/handoff
-# 清單結構會觸發文章向維度（清單堆砌/稀薄段落/引用荒漠），文章版 budget 3 對這類文件名存實亡
-# （近期 memory 實測 7-12 分被默許）。§11 對位句型/破折號/晶晶體維度照抓。
+# 2026-09-05 哲宇拍板 OBSERVER-QUEUE #24 選 B：memory-diary profile 改成豁免四個「文章向」
+# 維度（LIST-DUMP 清單堆砌／THIN 稀薄段落／citation-desert 腳註荒漠／no-url 無 URL 來源，
+# 用 prose-health 的 exclude_dimensions option 整組關掉），score budget 收回跟 knowledge/
+# 一致的 3——不再是 2026-07-16 版「墊高到 8」（7/28 dogfood 揭露墊高會獎勵單薄懲罰完整：
+# 寫得越完整踩線分數越高）。memory/diary 必填的 checklist/handoff 清單結構天生觸發那四維，
+# 豁免後殘餘分數只來自 §11 書寫節制範圍（對位句型/破折號連用/晶晶體/AI 隱喻與儀式語等）。
 ```
 
 工具自檢 + 三題人眼自檢：
@@ -503,3 +506,5 @@ _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAI
 _v2.1 | 2026-05-12 backend-abstraction — Index row 150 字 hard gate：新增 §Index row 寫法 + 加入 Hard Gate Inventory（12 gates）+ ASCII spine Stage 5 加 index row + Top 5 最常忘第 4 條換成 index 規範。觸發：MEMORY.md index 182 rows 全部超標（avg 1500+ 字 / max 4893 字），索引變成 detail dump 失去 navigation 功能。原 v3.0 規則「~150 字」一直存在但沒儀器化，這次升 hard gate + worked example。_
 
 _v2.2 | 2026-07-05 dna-audit — **§索引蒸餾 條款 + rollup 儀器 ship**：memory-index-rollup.py 週度月度彙整（distill-weekly owner）+ lint wire husky + Hard Gate 表 +1 列。觸發：S4 蒸餾債（709 rows / 1.2MB / alert 黃燈 22 天無人接）。_
+
+_v2.3 | 2026-09-05 — **Stage 4 自檢 budget 敘述同步**：memory-diary profile 從「墊高 score_budget 到 8」改成「exclude_dimensions 豁免 LIST-DUMP/THIN/citation-desert/no-url 四個文章向維度 + budget 收回 3」，Stage 4 bash 註解同步改寫。觸發：哲宇拍板 [OBSERVER-QUEUE.md](../semiont/OBSERVER-QUEUE.md) #24 選 B（2026-07-28 dogfood 揭露墊高 budget 獎勵單薄懲罰完整）。_

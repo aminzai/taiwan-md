@@ -498,6 +498,44 @@ function countTranslationsByCategory() {
 }
 
 // ---------------------------------------------------------------------------
+// body-internal-links — 正文站內連結密度 (mirrors
+// scripts/tools/lib/article_health/checks/body_internal_links.py, INFO-level
+// plugin shipped 2026-09-05 per 哲宇拍板 OBSERVER-QUEUE #39 選 A「先量起來」)
+// ---------------------------------------------------------------------------
+// 正文 = body 扣掉「## 延伸閱讀」/「**延伸閱讀**：」或「## 參考資料」之後的
+// 內容（互鏈幾乎都堆在文末延伸閱讀，而讀者滑不到那裡——6/14 埋點證實），
+// 再扣掉腳註定義行 `[^N]: ...`（來源清單，不是內文連結）。同一把尺見 python
+// plugin docstring；這裡是 JS 鏡像版（同檔案已有 hasOverview/hasReading/
+// fnCount 走一樣的「lightweight inline mirror」慣例，見上方註解）。
+const _RE_BIL_FURTHER = /^(?:##\s*延伸閱讀|\*\*延伸閱讀\*\*\s*[：:])/m;
+const _RE_BIL_REFS = /^##\s*參考資料/m;
+const _RE_BIL_FN_DEF = /^\[\^[^\]]+\]:.*$/gm;
+const _RE_BIL_WIKILINK = /\[\[([^\]|\n]+?)(?:\|[^\]\n]+)?\]\]/g;
+const _RE_BIL_MD_LINK = /\]\(\/([a-z0-9-]+)\/([^)\s#?]+?)\/?\)/g;
+const _RE_BIL_CJK = /[一-鿿㐀-䶿]/g;
+const _KNOWN_CATEGORIES_LOWER = new Set(CATEGORIES.map((c) => c.toLowerCase()));
+
+function computeBodyInternalLinks(body) {
+  const furtherM = body.match(_RE_BIL_FURTHER);
+  const refsM = body.match(_RE_BIL_REFS);
+  const cutoffs = [furtherM?.index, refsM?.index].filter(
+    (i) => i !== undefined,
+  );
+  const cutoff = cutoffs.length ? Math.min(...cutoffs) : body.length;
+  const main = body.slice(0, cutoff).replace(_RE_BIL_FN_DEF, '');
+
+  const wikiCount = [...main.matchAll(_RE_BIL_WIKILINK)].length;
+  let mdCount = 0;
+  for (const m of main.matchAll(_RE_BIL_MD_LINK)) {
+    if (_KNOWN_CATEGORIES_LOWER.has(m[1])) mdCount++;
+  }
+  const count = wikiCount + mdCount;
+  const cjk = (main.match(_RE_BIL_CJK) || []).length;
+  const density = cjk > 0 ? Math.round((count / cjk) * 1000 * 100) / 100 : 0;
+  return { count, density, zero: count === 0 };
+}
+
+// ---------------------------------------------------------------------------
 // EDITORIAL.md last modified date
 // ---------------------------------------------------------------------------
 function getEditorialLastModified() {
@@ -613,6 +651,9 @@ async function main() {
         (fnCount > 0 && !hasRefHeading ? 1 : 0);
       // 0 = pass, 1 = warn, 2-3 = fail
 
+      // body-internal-links — 2026-09-05 OBSERVER-QUEUE #39「先量起來」
+      const bodyInternalLinks = computeBodyInternalLinks(body);
+
       articles.push({
         title: frontmatter.title || fileName,
         slug,
@@ -638,6 +679,8 @@ async function main() {
         hasOverview,
         hasReading,
         fnCount,
+        bodyInternalLinks: bodyInternalLinks.count,
+        bodyInternalLinksZero: bodyInternalLinks.zero,
       });
     } catch (err) {
       console.error(`Error processing ${raw.filePath}: ${err.message}`);
@@ -666,6 +709,27 @@ async function main() {
   // =========================================================================
   // dashboard-vitals.json
   // =========================================================================
+  // body-internal-links 全站彙總 — 2026-09-05 OBSERVER-QUEUE #39「先量起來」。
+  // percentile() 用最近排序索引法（跟 python 端 reports/internal-links-top50
+  // 產生腳本同一套算法，兩邊數字才能對得上）。
+  function _percentile(sortedArr, p) {
+    if (sortedArr.length === 0) return 0;
+    const idx = Math.min(
+      Math.floor(sortedArr.length * p),
+      sortedArr.length - 1,
+    );
+    return sortedArr[idx];
+  }
+  const bilCounts = articles
+    .map((a) => a.bodyInternalLinks)
+    .sort((a, b) => a - b);
+  const bodyInternalLinksSummary = {
+    zero_count: articles.filter((a) => a.bodyInternalLinksZero).length,
+    total: articles.length,
+    median: _percentile(bilCounts, 0.5),
+    p25: _percentile(bilCounts, 0.25),
+  };
+
   const sevenDaysAgo = new Date(now);
   sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
   const thirtyDaysAgo = new Date(now);
@@ -791,6 +855,7 @@ async function main() {
         : 0,
     avgRevision,
     languageCoverage,
+    bodyInternalLinks: bodyInternalLinksSummary,
   };
 
   fs.writeFileSync(

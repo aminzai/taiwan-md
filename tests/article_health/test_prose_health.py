@@ -672,3 +672,141 @@ def test_semicolon_hard_gate_fires_when_configured(tmp_path):
     violations = list(prose_health.check(target, {"semicolon_hard_over": 12}))
     hards = [v for v in violations if v.severity == Severity.HARD and "分號" in v.message]
     assert len(hards) == 1, f"13 分號 > 12 應升 HARD，got {len(hards)}"
+
+
+# ════════════════════════════════════════════════════════════════════════
+# exclude_dimensions (2026-09-05 OBSERVER-QUEUE #24 選 B — memory-diary
+# 豁免「文章向」四維度而非墊高 score_budget)
+# ════════════════════════════════════════════════════════════════════════
+
+
+def test_exclude_dimensions_list_dump_off(tmp_path):
+    """options.exclude_dimensions=["LIST-DUMP"] 關掉該維度的 score 貢獻。"""
+    front = "\n".join(
+        [
+            "這是 1916 年的一段散文敘述",
+            "1994 年另一段研究發現",
+            "2024 年最近的紀錄",
+            "更多的散文敘述",
+        ]
+        * 4
+    )
+    back = "\n".join(["- bullet item %d" % i for i in range(1, 5)] * 4)
+    body = front + "\n\n" + back + "\n\n[^1]: [src](https://e.com) — desc enough chars"
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    default_score = _score(list(prose_health.check(target, {})))
+    excluded = list(prose_health.check(target, {"exclude_dimensions": ["LIST-DUMP"]}))
+    excluded_score = _score(excluded)
+    assert default_score >= 2, "baseline sanity: 未排除時 LIST-DUMP 應計分"
+    assert excluded_score < default_score
+    assert not any("清單堆砌" in v.message for v in excluded)
+
+
+def test_exclude_dimensions_thin_off(tmp_path):
+    """options.exclude_dimensions=["THIN"] 關掉該維度的 score 貢獻。"""
+    body = textwrap.dedent(
+        """\
+        > **30 秒概覽**: x
+
+        ## 段落一
+
+        只有一行散文 1916 年。
+
+        ## 段落二
+
+        只有一行散文 1994 年。
+
+        ## 段落三
+
+        只有一行散文 2024 年。
+
+        [^1]: [src](https://e.com) — desc enough chars
+        """
+    ) + "\n".join(["延伸"] * 8)
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    default_score = _score(list(prose_health.check(target, {})))
+    excluded = list(prose_health.check(target, {"exclude_dimensions": ["THIN"]}))
+    excluded_score = _score(excluded)
+    assert default_score >= 2, "baseline sanity: 未排除時 THIN 應計分"
+    assert excluded_score < default_score
+    assert not any("稀薄段落" in v.message for v in excluded)
+
+
+def test_exclude_dimensions_citation_desert_off(tmp_path):
+    """options.exclude_dimensions=["citation-desert"] 關掉該維度的 score 貢獻。
+
+    body 刻意帶 1 個 URL 讓「no-url」維度不觸發，隔離出 citation-desert
+    (#16 零腳註) 單獨的分數貢獻。
+    """
+    body = "\n".join(
+        ["長段散文 1916 年起點 2024 年現況 見 https://example.com/page 說明"] * 30
+    )
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    default_score = _score(list(prose_health.check(target, {})))
+    excluded = list(prose_health.check(target, {"exclude_dimensions": ["citation-desert"]}))
+    excluded_score = _score(excluded)
+    assert default_score >= 1, "baseline sanity: 未排除時零腳註應計分"
+    assert excluded_score == 0
+    assert not any("腳註" in v.message for v in excluded)
+
+
+def test_exclude_dimensions_no_url_off(tmp_path):
+    """options.exclude_dimensions=["no-url"] 關掉該維度的 score 貢獻。"""
+    body = "\n".join(["這是純散文段落 1916 年沒有任何連結出處"] * 25)
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    default_score = _score(list(prose_health.check(target, {})))
+    excluded = list(prose_health.check(target, {"exclude_dimensions": ["no-url"]}))
+    excluded_score = _score(excluded)
+    assert default_score >= 3, "baseline sanity: 未排除時無 URL 應計分 +3"
+    assert excluded_score < default_score
+    assert not any("URL" in v.message for v in excluded)
+
+
+def test_exclude_dimensions_matches_memory_diary_profile(tmp_path):
+    """驗證 memory-diary profile 實際設定的四維度排除生效：checklist/handoff
+    結構文不再單靠這四個「文章向」維度就超過 knowledge/ 一致的 budget=3
+    (對應 OBSERVER-QUEUE #24 選 B，2026-09-05 哲宇拍板)。
+    """
+    body = textwrap.dedent(
+        """\
+        ## 收官 checklist
+
+        - [x] 項目一
+        - [x] 項目二
+        - [x] 項目三
+        - [x] 項目四
+
+        ## Handoff
+
+        - 完成：做了 A
+        - 進行中：做了 B
+        - 待辦：需要 C
+        """
+    ) + "\n" + "\n".join(f"- 補充項目 {i}" for i in range(20))
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    default_score = _score(list(prose_health.check(target, {})))
+    excluded_score = _score(
+        list(
+            prose_health.check(
+                target,
+                {"exclude_dimensions": ["LIST-DUMP", "THIN", "citation-desert", "no-url"]},
+            )
+        )
+    )
+    assert default_score > 3, "checklist 密集 body 未排除時應超過預設 budget=3"
+    assert excluded_score <= 3, "四維度排除後應收斂到 knowledge/ 一致的 budget=3 內"
+
+
+def test_exclude_dimensions_unknown_id_is_noop(tmp_path):
+    """未知的 dimension id 不影響任何維度（forward-compat：打錯字不會意外關掉別的東西）。"""
+    body = "\n".join(["這是純散文段落 1916 年沒有任何連結出處"] * 25)
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    a = _score(list(prose_health.check(target, {})))
+    b = _score(list(prose_health.check(target, {"exclude_dimensions": ["NOT-A-REAL-DIM"]})))
+    assert a == b

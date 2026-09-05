@@ -72,6 +72,14 @@ ko = { title_max = 60, desc_max = 160 }
 # default 目前覆蓋 en/es/fr/pt/vi/id/de/ar/ru/hi ＋任何未來新語言。
 default = { title_max = 120, desc_max = 400 }
 
+# ── body-internal-links（2026-09-05 哲宇拍板 OBSERVER-QUEUE #39 選 A「先量起來」）──
+# 正文（排除延伸閱讀／參考資料之後 + 腳註定義行）站內連結密度。哲宇拍的是「先量」
+# 不是「先擋」——顯性釘死 severity=info，任何 profile 的 checks="*" 都不會把它
+# 升級（跟 plugin DEFAULT_SEVERITY 一致，這裡是防呆而非改變行為）。逐篇補鏈是
+# 下一輪工單，見 reports/internal-links-top50-2026-09-05.md。
+[checks.body-internal-links]
+severity = "info"
+
 # ── Stage profiles ───────────────────────────────────────────────────────────
 
 [profiles.pre-commit]
@@ -232,18 +240,38 @@ checks = "*"
 fail_on = "never"
 
 [profiles."memory-diary"]
-# memory/diary 專用寬鬆 profile — 2026-07-16 新增。
-# memory/diary 必填的 checklist/handoff 清單結構會觸發 prose-health 的
-# LIST-DUMP (#12) 與 THIN (#13) 維度（清單堆砌 + 稀薄段落是這兩種文體的
-# 結構本質，不是灌水）；且 memory/diary 不要求腳註來源（citation-desert
-# #16 對這兩種文體是雜訊，不是訊號）。用單一 prose-health check +
-# score-budget fail_on，budget 從預設 3 放寬到 8。
+# memory/diary 專用 profile — 2026-07-16 新增，2026-09-05 哲宇拍板
+# OBSERVER-QUEUE #24 選 B 改版。
 #
-# 8 這個數字是從近期 memory 檔實測分佈 7-12 校準的過渡值（soft-launch，
-# 非最終定案）：checklist 密集的 handoff 段落常規落在這個帶，不代表寫作
-# 品質差，只是文體結構跟 knowledge/ 敘事文不同。之後累積更多樣本可再調。
+# 2026-07-16 原案：memory/diary 必填的 checklist/handoff 清單結構會觸發
+# prose-health 的 LIST-DUMP (#12) 與 THIN (#13) 維度（清單堆砌 + 稀薄段落
+# 是這兩種文體的結構本質，不是灌水）；且 memory/diary 不要求腳註來源
+# （citation-desert #16 對這兩種文體是雜訊，不是訊號）。當時的處置是把
+# score_budget 從預設 3 「墊高」到 8（soft-launch 過渡值）。
+#
+# 2026-07-28 dogfood 揭露這個墊高的副作用：拿當天七篇 memory 實測，score
+# 分佈 6–12，過關的三篇反而是內容最單薄的 routine 紀錄，寫得最完整、
+# 收官 checklist 填最滿的四篇（flywheel-watch 10／maintainer-daily 11／
+# spore-harvest 10／vortex-babel-8 9）反而踩線或超標——因為殘餘分數幾乎
+# 全來自 LIST-DUMP/THIN/citation-desert/no-url 這四個「文章向」維度，
+# 不是寫作品質差。「墊高門檻」量錯維度還在，只是把爛尺往上挪，獎勵單薄
+# 懲罰完整的方向沒變（OBSERVER-QUEUE.md #24）。
+#
+# 2026-09-05 哲宇拍板選 B：不挪線，直接把這四個文章向維度整組排除
+# （options.exclude_dimensions，prose_health.py 同日新增的 per-dimension
+# 開關），score_budget 收回跟 knowledge/ 一致的預設 3。豁免理由是維度
+# 本身量錯文體——memory/diary 的 checklist 表、handoff 三態 bullet、
+# footer metadata 是這兩種文體的必填結構，LIST-DUMP/THIN/citation-desert/
+# no-url 四個維度天生會咬中它們；殘餘分數只留 §11 書寫節制範圍內仍會
+# 觸發的東西（對位句型／破折號連用／分號／AI隱喻與儀式語等），這些才是
+# memory/diary 真正該被抓的寫作 tic。24 篇 dogfood（10 篇近期 memory +
+# 5 篇近期 diary + 2026-07-28 當天 9 篇全數）驗證：22/24 (92%) 於新
+# budget=3 過關，僅 2 篇因破折號/分號超量或前後段品質衰退不過——都是
+# 真實寫作問題，不是結構假陽性。dogfood 表見本次 session 對話紀錄（未落
+# 獨立 report 檔；如需再校準，重跑上述 24 篇即可覆現）。
 checks = ["prose-health"]
 fail_on = "score-budget"
 
 [profiles."memory-diary".options_overrides.prose-health]
-score_budget = 8
+score_budget = 3
+exclude_dimensions = ["LIST-DUMP", "THIN", "citation-desert", "no-url"]

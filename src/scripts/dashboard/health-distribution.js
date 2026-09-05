@@ -140,6 +140,25 @@ function renderHealthDistribution(articles) {
       ? '\uD83D\uDFE2 All articles are in good health!'
       : '\uD83D\uDFE2 所有文章健康狀態良好！';
   }
+
+  // body-internal-links 補充行 — 2026-09-05 OBSERVER-QUEUE #39「先量起來」。
+  // zero=true 的比例來自 dashboard-articles.json 逐篇的 bodyInternalLinksZero
+  // 欄位（body_internal_links.py plugin 鏡像版，見
+  // generate-dashboard-data.js computeBodyInternalLinks）。只讀既有 articles
+  // 陣列，不額外 fetch，維持這個 section 原本「純前端算」的慣例。
+  const linksEl = document.getElementById('health-summary-links');
+  if (linksEl) {
+    const zeroLinks = articles.filter((a) => a.bodyInternalLinksZero).length;
+    const pct =
+      articles.length > 0 ? Math.round((zeroLinks / articles.length) * 100) : 0;
+    linksEl.textContent = isEn
+      ? '\uD83D\uDD17 ' +
+        zeroLinks +
+        ' articles (' +
+        pct +
+        '%) have zero in-body links to other articles'
+      : '\uD83D\uDD17 ' + zeroLinks + ' 篇（' + pct + '%）正文完全沒有站內連結';
+  }
 }
 
 export { renderHealthDistribution };

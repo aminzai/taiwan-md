@@ -59,6 +59,16 @@ whose文體 structurally trips other dims (e.g. `memory-diary`: checklist/
 handoff lists trip LIST-DUMP/THIN, no footnotes required) can raise the
 pass threshold without changing the default zh-TW knowledge/ budget of 3.
 
+2026-09-05 哲宇拍板 OBSERVER-QUEUE #24 選 B（超越單純調高 budget）：
+`options.exclude_dimensions` (list[str]) 讓 profile 整組關掉特定維度的
+score 貢獻，而不是墊高 budget 讓灌水混過。目前支援排除的維度 id：
+"no-url" (§3 URL count) / "LIST-DUMP" (§12) / "THIN" (§13) /
+"citation-desert" (§16)。`memory-diary` profile 排除這四個「文章向」維度
+（checklist/handoff 清單結構天生觸發，不是灌水），score_budget 因此收回
+跟 knowledge/ 一致的預設 3——量錯維度用排除修正，不是挪高及格線讓單薄
+內容也能過關。未設定 exclude_dimensions 的 profile（release-pr/ci-deploy/
+pre-commit/dashboard）行為不變。
+
 AI 痕跡 Tier 4 (speak-human-tw 轉譯, 2026-07-16 soft-launch):
   (a) 立場真空 (stance-vacuum)      (d) 時代帽子開場 (time-hat opening)
   (b) 價值上升詞密度 (value-inflation) (e) 假推論密度 (「這意味著」)
@@ -1167,6 +1177,24 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             except (TypeError, ValueError):
                 score_budget = 3
 
+    # 2026-09-05 哲宇拍板 OBSERVER-QUEUE #24 選 B：per-dimension 排除開關
+    # (`options.exclude_dimensions`)。memory/diary 必填的 checklist/handoff
+    # 清單結構天生觸發「文章向」四個維度（LIST-DUMP 清單堆砌／THIN 稀薄段落／
+    # citation-desert 腳註荒漠／no-url 無 URL 來源）——這是文體結構本質不是灌水，
+    # 量錯維度才是根因，不是把 score_budget 往上挪（哲宇原話：「現行 budget 8
+    # 獎勵單薄懲罰完整」）。`memory-diary` profile 用
+    # options_overrides.prose-health.exclude_dimensions 整組關掉這四維，讓殘餘
+    # score 只來自 §11 書寫節制範圍（對位句型/破折號連用/AI隱喻與儀式語等）跟其餘
+    # quality-scan 維度。未設定 / 空 list = 全部維度照跑，其他 profile 零影響。
+    exclude_dims: set[str] = set()
+    if config:
+        raw_exclude = config.get("exclude_dimensions")
+        if raw_exclude:
+            try:
+                exclude_dims = {str(d) for d in raw_exclude}
+            except TypeError:
+                exclude_dims = set()
+
     # 破折號 / 分號「觸檔即硬」門檻（2026-07-19 哲宇選項3）：只在有設此 config 的 profile
     # 才把超量破折號 / 分號升成 HARD。pre-commit profile 設了 → 你 commit 的檔（新寫 or
     # 編輯）超量就擋，逼觸檔即清（touch-it-fix-it）。ci-deploy 全站掃描不設 → 保持 WARN，
@@ -1210,14 +1238,17 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         score += 1
         reasons.append(f"年份{years}個")
 
-    # ── 3. URL count ──
+    # ── 3. URL count (dimension id: "no-url") ──
+    # urls 本身仍不排除計算：#16 citation-desert 後面要讀這個值判斷
+    # 「零腳註零URL」vs「零腳註但有URL」，兩個維度各自獨立排除。
     urls = _count_urls(body)
-    if urls == 0:
-        score += 3
-        reasons.append("無URL來源")
-    elif urls < 3:
-        score += 1
-        reasons.append(f"僅{urls}個URL")
+    if "no-url" not in exclude_dims:
+        if urls == 0:
+            score += 3
+            reasons.append("無URL來源")
+        elif urls < 3:
+            score += 1
+            reasons.append(f"僅{urls}個URL")
 
     # ── 4. Hollow words ──
     hollow_n = len(_RE_HOLLOW.findall(text_for_patterns))
@@ -1488,38 +1519,42 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         score += 1
         reasons.append(f"萬用H2×{template_h2}")
 
-    # ── 12. LIST-DUMP (back-half bullet density disproportionate to front) ──
+    # ── 12. LIST-DUMP (dimension id: "LIST-DUMP"; back-half bullet density
+    # disproportionate to front) ──
+    # is_hub 不排除：§14 QUALITY-DECAY（未在排除範圍內）也要讀這個旗標。
     is_hub = _is_hub_file(target)
-    front_b, back_b, front_t, back_t = _bullet_ratios_split(body)
-    if front_t > 0 and back_t > 0:
-        front_ratio = front_b * 100 // front_t
-        back_ratio = back_b * 100 // back_t
-        if is_hub:
-            # Hub pages naturally back-heavy index lists — relaxed
-            if back_ratio > 60 and back_ratio > front_ratio * 3:
-                score += 1
-                reasons.append(f"後段清單堆砌{back_ratio}%(Hub)")
-        else:
-            if back_ratio > 40 and back_ratio > front_ratio * 2:
-                score += 3
-                reasons.append(f"後段清單堆砌{back_ratio}%")
-            elif back_ratio > 30:
-                score += 2
-                reasons.append(f"後段清單堆砌{back_ratio}%")
+    if "LIST-DUMP" not in exclude_dims:
+        front_b, back_b, front_t, back_t = _bullet_ratios_split(body)
+        if front_t > 0 and back_t > 0:
+            front_ratio = front_b * 100 // front_t
+            back_ratio = back_b * 100 // back_t
+            if is_hub:
+                # Hub pages naturally back-heavy index lists — relaxed
+                if back_ratio > 60 and back_ratio > front_ratio * 3:
+                    score += 1
+                    reasons.append(f"後段清單堆砌{back_ratio}%(Hub)")
+            else:
+                if back_ratio > 40 and back_ratio > front_ratio * 2:
+                    score += 3
+                    reasons.append(f"後段清單堆砌{back_ratio}%")
+                elif back_ratio > 30:
+                    score += 2
+                    reasons.append(f"後段清單堆砌{back_ratio}%")
 
-    # ── 13. THIN (H2 blocks with < 3 prose lines) ──
-    thin = _count_thin_blocks(body)
-    if is_hub:
-        if thin >= 4:
-            score += 1
-            reasons.append(f"稀薄段落×{thin}(Hub)")
-    else:
-        if thin >= 2:
-            score += 2
-            reasons.append(f"稀薄段落×{thin}")
-        elif thin >= 1:
-            score += 1
-            reasons.append(f"稀薄段落×{thin}")
+    # ── 13. THIN (dimension id: "THIN"; H2 blocks with < 3 prose lines) ──
+    if "THIN" not in exclude_dims:
+        thin = _count_thin_blocks(body)
+        if is_hub:
+            if thin >= 4:
+                score += 1
+                reasons.append(f"稀薄段落×{thin}(Hub)")
+        else:
+            if thin >= 2:
+                score += 2
+                reasons.append(f"稀薄段落×{thin}")
+            elif thin >= 1:
+                score += 1
+                reasons.append(f"稀薄段落×{thin}")
 
     # ── 14. QUALITY-DECAY (front prose ratio >> back prose ratio) ──
     fp, bp, fa, ba = _prose_ratios_split(body)
@@ -1538,20 +1573,21 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 score += 1
                 reasons.append(f"品質衰退前{front_pr}%後{back_pr}%")
 
-    # ── 16. Citation desert ──
-    fn_defs = _count_footnote_defs(body)
-    word_count = _word_count(body)
-    if fn_defs == 0:
-        if word_count > 500:
-            if urls == 0:
-                score += 4
-                reasons.append("引用荒漠(零腳註零URL)")
-            else:
-                score += 2
-                reasons.append("引用荒漠(零腳註)")
-        elif word_count > 200:
-            score += 1
-            reasons.append("無腳註")
+    # ── 16. Citation desert (dimension id: "citation-desert") ──
+    if "citation-desert" not in exclude_dims:
+        fn_defs = _count_footnote_defs(body)
+        word_count = _word_count(body)
+        if fn_defs == 0:
+            if word_count > 500:
+                if urls == 0:
+                    score += 4
+                    reasons.append("引用荒漠(零腳註零URL)")
+                else:
+                    score += 2
+                    reasons.append("引用荒漠(零腳註)")
+            elif word_count > 200:
+                score += 1
+                reasons.append("無腳註")
 
     # ── Manifesto §11 Tier 1: 對位句型 ──
     # Emit per-match with line + 前後文 context so writers can locate fast

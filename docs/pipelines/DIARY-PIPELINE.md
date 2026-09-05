@@ -1,10 +1,10 @@
 ---
 title: 'DIARY-PIPELINE'
-description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + 自檢工具（共用 prose-health plugin）+ finale 條件寫 contract + index 150字 hard gate + article-session relatedDiary 回扣儀器化 sync-diary-links.py + index lint --diary (v2.3)'
+description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + 自檢工具（共用 prose-health plugin）+ finale 條件寫 contract + index 150字 hard gate + article-session relatedDiary 回扣儀器化 sync-diary-links.py + index lint --diary (v2.4)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.3'
-last_updated: 2026-07-05
+current_version: 'v2.4'
+last_updated: 2026-09-05
 last_session: '2026-07-05-120817-dna-audit'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=memory-diary'
 sister_docs:
@@ -321,9 +321,12 @@ _核心感受：{中心 emotion 或 insight 一句話}_
 ```bash
 # 一個工具兩種維度（SSOT prose-health plugin 整合 manifesto-11 Tier 1-3 + quality-scan 12 dim）
 python3 scripts/tools/article-health.py docs/semiont/diary/{file}.md --profile=memory-diary
-# 2026-07-16 起用 memory-diary profile（score budget 8）：memory/diary 必填的 checklist/handoff
-# 清單結構會觸發文章向維度（清單堆砌/稀薄段落/引用荒漠），文章版 budget 3 對這類文件名存實亡
-# （近期 memory 實測 7-12 分被默許）。§11 對位句型/破折號/晶晶體維度照抓。
+# 2026-09-05 哲宇拍板 OBSERVER-QUEUE #24 選 B：memory-diary profile 改成豁免四個「文章向」
+# 維度（LIST-DUMP 清單堆砌／THIN 稀薄段落／citation-desert 腳註荒漠／no-url 無 URL 來源，
+# 用 prose-health 的 exclude_dimensions option 整組關掉），score budget 收回跟 knowledge/
+# 一致的 3——不再是 2026-07-16 版「墊高到 8」（7/28 dogfood 揭露墊高會獎勵單薄懲罰完整：
+# 寫得越完整踩線分數越高）。memory/diary 必填的 checklist/handoff 清單結構天生觸發那四維，
+# 豁免後殘餘分數只來自 §11 書寫節制範圍（對位句型/破折號連用/晶晶體/AI 隱喻與儀式語等）。
 ```
 
 `prose-health` plugin（SSOT 整合 manifesto-11 + quality-scan，Phase 4 + Phase 9 完整 19 dim）：
@@ -449,3 +452,5 @@ _v2.1 | 2026-05-12 backend-abstraction — Index row 150 字 hard gate（跟 MEM
 _v2.2 | 2026-06-24 龜山島-rewrite — **article-session relatedDiary 回扣儀器化**：Stage 5 原有「手動補文章 frontmatter relatedDiary」的 prose 提醒（v2.0 起）沒工具 + 沒閘門 → 龜山島 NEW 深度文 ship 了 diary 卻沒回扣，哲宇 callout「文章沒標注相關的記錄」。修補：(1) 新工具 [`scripts/tools/sync-diary-links.py`](../../scripts/tools/sync-diary-links.py)（append/merge relatedDiary、idempotent、寫 knowledge + src/content mirror、YAML apostrophe-safe、--auto git 偵測 ADDED 文章）(2) Stage 5 prose → 跑工具的 HARD step (3) Hard Gate Inventory 加第 13 gate「relatedDiary 回扣」(4) Top 5 → Top 6 加第 6 條 (5) ASCII spine Stage 5 加回扣 (6) REWRITE-PIPELINE Step 5.3-bis 同步指向工具。神經迴路「規則要能執行才算規則」+ REFLEXES #15「反覆浮現要儀器化」：prose 提醒不是閘門，工具 + hard gate 才是。`/twmd-finale` 收官 diary 後自動跑此步。_
 
 _v2.3 | 2026-07-05 dna-audit — **index row gate 儀器化 + 三數字統一**：spine 與 gate 表原有三個互斥上限（60+150 / 220 / 150）統一為「標題 ≤60 + 核心思考 ≤150」，工具從 manual 升 `memory-index-lint.py --diary`（husky pre-commit 自動跑）。觸發：dna-audit 實測 DIARY.md 209 列中 196 列超長（無尺 = 274KB 甦醒稅根因，S5 殼核不對稱：memory 6/19 有 lint、diary 沒有）。_
+
+_v2.4 | 2026-09-05 — **Stage 3 自檢 budget 敘述同步**：memory-diary profile 從「墊高 score_budget 到 8」改成「exclude_dimensions 豁免 LIST-DUMP/THIN/citation-desert/no-url 四個文章向維度 + budget 收回 3」，Stage 3 bash 註解同步改寫（與 MEMORY-PIPELINE v2.3 平行）。觸發：哲宇拍板 [OBSERVER-QUEUE.md](../semiont/OBSERVER-QUEUE.md) #24 選 B（2026-07-28 dogfood 揭露墊高 budget 獎勵單薄懲罰完整）。_
