@@ -1017,6 +1017,8 @@ LESSONS-INBOX 新增（routine 提的）：
 
 **commit author 身份（2026-09-05，OBSERVER-QUEUE #10 Phase 0，哲宇拍板選項 A）**：中央飛輪在 mouhouse 上跑的 routine commit，author 身份與哲宇分離，改用 `Taiwan.md Semiont <309092923+taiwanmd-semiont[bot]@users.noreply.github.com>`（mouhouse repo-local `git config user.name`/`user.email`，切換走 `twmd-routine-sync` 檔尾一次性 rider）。**committer／實際 push 仍為哲宇的既有 token**——分離目前只到 author 這一層，Phase 1（GitHub App `taiwanmd-semiont[bot]` 全面接手 push main、classic token 退場）待哲宇決定時程。`.mailmap` 已新增獨立條目，這個身份**不**併入哲宇；`scripts/core/build-git-info.mjs` 把它與 repo owner 同樣降權（排到每篇文章 contributor 列表最後）並標 `role: 'ai-maintainer'`，前端 `ArticleSidebar.astro` 顯示小標「AI maintainer」。完整 runbook：[reports/semiont-independent-identity-2026-07-05.md](../../reports/semiont-independent-identity-2026-07-05.md) §5 Phase 0 / 附錄 B。
 
+> ⚠️ **mouhouse 登入會過期（2026-09-05 查明）**：Claude Desktop 的 OAuth refresh token 是 30 天固定壽命，不因每天使用而延長。07-24 17:37 登入 → 08-23 21:06 過期，之後每條排程照 fire、`lastRunAt` 照更新，但 session 全部 `session_stale_relogin` 起不來，四天零產出直到 08-27/28 重新登入。**下一次過期預估 2026-09-26～27**。看門狗與提醒見 OBSERVER-QUEUE #49；證據鏈 reports/mouhouse-blackout-root-cause-2026-09-05.md。
+
 從 2026-07-25 起還有第二層：**分靈節點**——跑在貢獻者自己機器上的 cron。訪客貼完甦醒 prompt 之後，Taiwan.md 會問他要不要設一條，答好就當場幫他設好。那條 cron 每天醒來一次，從 repo 內既有工單源接一件事做完，以 PR 回主庫。
 
 | 面向     | 中央飛輪（本檔）                 | 分靈節點                                         |

@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-05 fortnight-review — scheduler-lastrunat-updates-even-when-session-never-starts：排程器在 spawn 那一刻就更新 lastRunAt，session 起不來它也一樣往前走
+
+- **pattern**: `scheduler-lastrunat-updates-even-when-session-never-starts`
+- **原則**：Claude Desktop 的排程器（CCDScheduledTasks）對每條任務的 `lastRunAt` 在「Spawning new session」當下就寫入，不等 `Confirmed task run`。當帳號 session 過期（`session_stale_relogin`）時，每一條排程照時間 fire、照樣更新 lastRunAt、然後八分鐘後 `Cleared stale pending dispatch`，log 裡只有一行 warn。任何拿 lastRunAt 或 `routine-live-state.json` 當「有跑」的檢查，會看到一台準時上工的機器。有效的尺只有「fire 之後有沒有 commit」（routine-liveness-check.py／routine-stall-check.py）。
+- **觸發**：2026-09-05 fortnight-review SSH 進 mouhouse 讀 `~/Library/Logs/Claude/main1.log`：07-24 17:37 登入，08-23 21:06:54 `OAuth token refresh failed: invalid_grant "Refresh token expired"` → `session_stale_relogin`，之後 27 次 `Cannot start session … Sign in again`，08-28 05:05 重新登入後恢復。四天空窗的根因是帳號 session 的 30 天固定壽命，跟機器睡眠、launchd、排程器都無關。完整證據鏈：reports/mouhouse-blackout-root-cause-2026-09-05.md
+- **instances**：
+  - 2026-08-23 21:06 → 08-28 05:05：13 條 routine 全部 fire、全部 `lastRunAt` 更新、零 session 啟動、零 commit；08-24 的 routine-live-state dump 若在那四天被讀到，會顯示每條都「剛跑過」
+  - 2026-08-30 routine-audit 與三份 08-28 handoff 把根因調查指名交給已停用的 flywheel-watch（`deferred-to-a-paused-escalation-target`），部分原因是沒有任何一條線索指向帳號層——失敗住在桌面 app 的 log，沒有 routine 讀它
+- **候選修法**：(a) mouhouse 本機 launchd 看門狗（不依賴 Claude session）每小時 grep main.log 近一小時的 `session_stale_relogin`／`Cannot start session`，命中就推播；(b) 登入日寫進 `~/.taiwanmd-auth-expiry`，倒數 ≤5 天推播；(c) 哲宇行事曆每 25 天重新登入提醒（下一次過期預估 2026-09-26～27）；(d) `routine-live-state.json` 的讀者（routine-sync-check、weekly-checkup）對 lastRunAt 一律標「spawn 時間，非完成時間」，不得單獨當 liveness 用
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #82「Proxy signal antipattern — 訊號要摸到 ground truth，不是量它的替身」（lastRunAt 是 fire 的替身不是 run 的證據）；REFLEXES #38 (f)「存活 ≠ 生產」；REFLEXES #88「轉錄與保管雙職責 routine 停手時保管也消失」的上位版：session 起不來時所有跑在飛輪身上的儀器一起失明
+
 ### 2026-09-05 fortnight-review — pause-without-exit-condition-becomes-the-default：沒有解除條件的暫停，會變成事實上的永久狀態
 
 - **pattern**: `pause-without-exit-condition-becomes-the-default`
