@@ -24,8 +24,9 @@ audience: 'translator (human + AI)'
 
 > 每次翻譯前先讀。德文與英文同屬拉丁字母、且台灣官方羅馬化（Wade-Giles／護照拼音）本來就是拉丁字母，所以德文翻譯**不像俄文/阿拉伯文需要整套獨立音譯系統**——人名/地名絕大多數直接沿用英文既有羅馬化形式（Chiang Kai-shek、Tsai Ing-wen、Taipei 等），這是 de 與 ru/ar 出生檔案結構上最大的差異，也是本檔篇幅遠比 TRANSLATION-ru.md 精簡的原因。**真正的風險不在音譯，在框架詞**——德語媒體與中國官方新聞社（新華社/CRI／中國大使館官方稿）都直接用德文發稿，PRC 框架用語滲透路徑跟 ru 類似，只是載體是「德語為母語的中國官媒編輯」而非「立場親近的第三國官媒」。
 
-## TL;DR — 5 條最高優先原則
+## TL;DR — 6 條最高優先原則
 
+0. **戒嚴 → 用「Kriegsrecht」（戒嚴法/軍法統治），不要退化成「Ausnahmezustand」（緊急狀態）**。2026-09-05 Stage 2 校準實測踩到：codex 對《戒嚴時期》校準集正確用「Kriegsrecht」全文，同一篇 ollama qwen3.8:27b 卻整篇改用「Ausnahmezustand」——後者是較弱的中性詞（多數國家的「緊急狀態」可以只是行政命令，不必然牽涉軍事法庭審判平民），會把 1949-1987 年台灣戒嚴時期軍法審判平民、黨禁報禁的具體嚴重性稀釋成程序性用語。German Wikipedia 對 228 事件後續歷史的標準敘述用詞是「Kriegsrecht」，這是校準時發現的第一個具體 backend 用詞分歧，記錄在案供未來 batch 校準／人審參考。
 1. **台灣不是「abtrünnige Provinz」（叛離的省份）**。德國媒體觀察者 Klaus Bardenhagen 在 Übermedien 上直接點名 dpa（德新社）、FAZ（法蘭克福匯報）、Die Welt 慣用此詞，並指出這個詞**連中國官方都不用**——北京官方說法是「不可分割的一部分」（unabtrennbarer Bestandteil），「abtrünnige Provinz」其實源自 1982 年一篇紐約時報報導的英文 "renegade province"，是西方媒體自己發明後以訛傳訛的詞，卻反而幫中國宣傳背書。Taiwan.md 的德文聲音不用這個詞。
 2. **人名羅馬化：直接沿用英文/Wade-Giles 既有形式，不要另建德文音譯系統**。German Wikipedia 對蔣介石的條目標題就是「Chiang Kai-shek」（德文異體「Tschiang Kai-schek」存在但非主要形式）——這跟俄文必須整套改用 Cyrillic 音譯（Чан Кайши）結構上不同。person-fidelity-check.py 的羅馬化 regex 因此不需要德文專屬變體，但**張冠李戴風險依然存在**（蔣介石 1975 年已逝 vs 蔣經國 1988 年才逝世 vs 蔣經國 1987 年解嚴，同一批出生戰役教訓對德文一樣適用）。
 3. **中華台北（Chinesisch Taipeh）只在奧運/國際體育/APEC 語境使用**（German Wikipedia 條目「Chinesisch Taipeh」確認為 IOC 構造出的專用詞），德文正文敘事中不可當「台灣」的隨手替代詞。
