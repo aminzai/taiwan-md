@@ -63,8 +63,15 @@ def china_term(q):
 def parse_entry(path):
     """Minimal 2-level block-YAML reader for the fields the ranker needs."""
     d, cur = {}, None
+    block_indent = None  # set while consuming a `key: |` block scalar's body
     for raw in open(path, encoding="utf-8"):
         line = raw.rstrip("\n")
+        if block_indent is not None:
+            if not line.strip():
+                continue  # blank line inside block scalar
+            if len(line) - len(line.lstrip(" ")) > block_indent:
+                continue  # still inside block scalar body (may contain "key: value"-looking prose, e.g. URLs)
+            block_indent = None  # dedent ends the block scalar; fall through to parse this line normally
         if not line.strip() or line.lstrip().startswith("#") or line.lstrip().startswith("- "):
             continue
         if ":" not in line:
@@ -73,6 +80,9 @@ def parse_entry(path):
         key, _, val = line.strip().partition(":")
         key = key.strip()
         val = val.strip().strip('"').strip("'")
+        if val in ("|", ">", "|-", "|+", ">-", ">+"):
+            block_indent = indent
+            val = ""
         if indent == 0:
             d[key] = val
             cur = key
