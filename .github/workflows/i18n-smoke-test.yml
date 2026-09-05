@@ -28,6 +28,7 @@ on:
       - 'src/pages/hi/**'
       - 'src/pages/ar/**'
       - 'src/pages/ru/**'
+      - 'src/pages/de/**'
       - 'src/pages/404.astro'
       - 'scripts/tools/check-hardcoded-langs.sh'
       - 'scripts/tools/check-language-registry-sync.sh'

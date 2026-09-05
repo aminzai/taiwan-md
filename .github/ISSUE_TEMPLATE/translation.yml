@@ -28,6 +28,7 @@ body:
         - 🇮🇳 हिन्दी (hi)
         - 🇸🇦 العربية (ar)
         - 🇷🇺 Русский (ru)
+        - 🇩🇪 Deutsch (de)
         - Other（請在下方說明）
     validations:
       required: true
