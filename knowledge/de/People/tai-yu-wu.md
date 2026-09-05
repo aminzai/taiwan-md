@@ -47,9 +47,9 @@ Yang Chen-ning erinnerte sich später, dass Wu ihm vor allem beibrachte, „wie 
 
 1983 übernahm Wu Ta-yu im Alter von 76 Jahren das Amt des Präsidenten der Academia Sinica – kein einfacher Posten. Während seiner Amtszeit (1983–1994) betonte er die Unersetzbarkeit der Grundlagenforschung, ließ nicht zu, dass die Academia Sinica zu einer bloßen Dienstleistungsanstalt für angewandten Bedarf verfiel, trieb strengere Forschungsevaluationen voran und holte Talente aus dem Ausland zurück[^6].
 
-Er sagte oft: „Ohne Grundlagenwissenschaft gibt es keine echte angewandte Wissenschaft.“ In den 1980er-Jahren, als Taiwan sich unter Druck um die [[Halbleiterindustrie]] und die IT-Industrie bemühte, brauchte dieser Satz ein wenig Rückgrat. Er legte auch Wert auf die öffentliche Kommunikation der Wissenschaft und ließ die Academia Sinica Wissenschaftsvorträge und Sommercamps veranstalten, damit Wissenschaft nicht nur innerhalb der Akademie stattfand.
+Er sagte oft: „Ohne Grundlagenwissenschaft gibt es keine echte angewandte Wissenschaft.“ In den 1980er-Jahren, als Taiwan sich unter Druck um die [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry/) und die IT-Industrie bemühte, brauchte dieser Satz ein wenig Rückgrat. Er legte auch Wert auf die öffentliche Kommunikation der Wissenschaft und ließ die Academia Sinica Wissenschaftsvorträge und Sommercamps veranstalten, damit Wissenschaft nicht nur innerhalb der Akademie stattfand.
 
-Die Wirkung dieser Reformen war nicht sofort sichtbar, schuf aber die institutionelle Basis für Taiwans spätere wissenschaftliche Energie. Als später [[Lee Yuan-tseh]] das Präsidentenamt übernahm (1994–2006), stand er auf dem institutionellen Fundament, das Wu Ta-yu gelegt hatte, und trieb die Internationalisierung der Academia Sinica weiter voran.
+Die Wirkung dieser Reformen war nicht sofort sichtbar, schuf aber die institutionelle Basis für Taiwans spätere wissenschaftliche Energie. Als später [Lee Yuan-tseh](/de/people/lee-yuan-tseh/) das Präsidentenamt übernahm (1994–2006), stand er auf dem institutionellen Fundament, das Wu Ta-yu gelegt hatte, und trieb die Internationalisierung der Academia Sinica weiter voran.
 
 ## Ein sperriger Titel
 

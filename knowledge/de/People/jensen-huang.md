@@ -4,7 +4,8 @@ description: 'Von einem Internat in Kentucky zum Fünf-Billionen-Dollar-Imperium
 date: 2026-03-25
 category: 'People'
 subcategory: '科技與企業'
-tags: ['Jensen Huang', 'NVIDIA', 'KI', 'Halbleiter', 'Technologie', 'Tainan', 'GPU']
+tags:
+  ['Jensen Huang', 'NVIDIA', 'KI', 'Halbleiter', 'Technologie', 'Tainan', 'GPU']
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22
@@ -104,11 +105,11 @@ Die Jensanity wurde seither zu einem jährlichen Spektakel. Vor seiner Abreise a
 
 Auf dem Nachtmarkt wie im Messegelände gab es auch Momente, die weniger perfekt, dafür echter wirkten. Auf der Computex bat ihn ein Fan, auf sein Porträt zu signieren; er öffnete das Porträt und verteilte die 7.700 Dollar Bargeld darin komplett an die Show-Girls nebenan, während er sagte, der Mann sei reich und freundlich – und bevor er ging, legte er noch einmal ganze 10.000 Dollar nach[^14]. Ein anderes Mal hielt ihm eine weibliche Fan japanische Geldscheine und ihr Handy einzeln zum Signieren hin; er wurde beim letzten Stück sichtbar ungeduldig und rutschte ein englisches „You're too much trouble“ (Du bist zu viel Mühe) heraus[^15]. Ein Mensch, der sein Porträt leert und verschenkt und auch die Geduld mit Bedrängern verliert – das ist der Junge aus Tainan unter der schwarzen Lederjacke: müde, ungeduldig und doch sehr großzügig.
 
-Seine Bedeutung für Taiwan geht natürlich weit über den Promi-Effekt hinaus. Die fortschrittlichsten Chips von NVIDIA werden von [[Taiwanesische Unternehmen: TSMC]] produziert; Jensen Huang pflegt über dreißig Jahre Freundschaft mit [[Chang Chun-ming]] (Morris Chang); in seiner Computex-Rede zeigte er eine Karte mit markierten taiwanesischen Lieferkettenpartnern und sagte: „Taiwan is a world hero“. Dieses Band, das NVIDIAs Produktion an Taiwan bindet, führte später zu einem Landkauf von 4,4 Milliarden Dollar, einem geplanten Taipeh-Hauptquartier[^9] und einem Machtgerangel darüber, „wer ohne wen nicht leben kann“ – das ist die Geschichte eines anderen Artikels (siehe [NVIDIA in Taiwan](/technology/NVIDIA在台灣)). Für Jensen Huang selbst ist die Rückkehr nach Taiwan jede Saison – zwischen taiwanesischen Imbissständen und der Halbleiter-Lieferkette – eher wie die Heimkehr eines lange Abwesenden zu der Insel, auf der er geboren wurde.
+Seine Bedeutung für Taiwan geht natürlich weit über den Promi-Effekt hinaus. Die fortschrittlichsten Chips von NVIDIA werden von Taiwanesische Unternehmen: TSMC (台灣企業：台積電) produziert; Jensen Huang pflegt über dreißig Jahre Freundschaft mit Chang Chun-ming (張忠謀) (Morris Chang); in seiner Computex-Rede zeigte er eine Karte mit markierten taiwanesischen Lieferkettenpartnern und sagte: „Taiwan is a world hero“. Dieses Band, das NVIDIAs Produktion an Taiwan bindet, führte später zu einem Landkauf von 4,4 Milliarden Dollar, einem geplanten Taipeh-Hauptquartier[^9] und einem Machtgerangel darüber, „wer ohne wen nicht leben kann“ – das ist die Geschichte eines anderen Artikels (siehe [NVIDIA in Taiwan](/technology/NVIDIA在台灣)). Für Jensen Huang selbst ist die Rückkehr nach Taiwan jede Saison – zwischen taiwanesischen Imbissständen und der Halbleiter-Lieferkette – eher wie die Heimkehr eines lange Abwesenden zu der Insel, auf der er geboren wurde.
 
 ## Eine Familie, zwei Chip-Imperien
 
-Jensen Huang hat noch eine selten erwähnte Familienverbindung: Lisa Su, CEO von AMD, ist seine Verwandte. Genauer gesagt ist Sus Großvater mütterlicherseits der ältere Bruder von Huangs Mutter; Huang ist Sus Großmutter-Vetter (first cousin once removed, im Taiwanesischen 表舅)[^10]. Die beiden führen die zwei größten Unternehmen des globalen GPU-Marktes, und die Chips beider Firmen werden von ein und derselben taiwanesischen Firma [[Taiwanesische Unternehmen: TSMC]] produziert.
+Jensen Huang hat noch eine selten erwähnte Familienverbindung: Lisa Su, CEO von AMD, ist seine Verwandte. Genauer gesagt ist Sus Großvater mütterlicherseits der ältere Bruder von Huangs Mutter; Huang ist Sus Großmutter-Vetter (first cousin once removed, im Taiwanesischen 表舅)[^10]. Die beiden führen die zwei größten Unternehmen des globalen GPU-Marktes, und die Chips beider Firmen werden von ein und derselben taiwanesischen Firma Taiwanesische Unternehmen: TSMC (台灣企業：台積電) produziert.
 
 Zwei aus Taiwan stammende Menschen bauten in Amerika die zwei wichtigsten KI-Chip-Unternehmen der Welt auf – und schickten den kritischsten Fertigungsschritt zurück auf die Insel ihrer Geburt. Lisa Su selbst beschrieb die Beziehung als „eine sehr komplizierte entfernte Verwandtschaft“; die beiden hatten sich vor ihrem Einstieg bei IBM nie getroffen.
 

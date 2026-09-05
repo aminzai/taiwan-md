@@ -4,7 +4,8 @@ description: 'Am 7. Dezember 1990 verwandelte der 26-jährige Lin Chih-feng aus 
 date: 2026-03-31
 category: 'People'
 subcategory: '音樂'
-tags: ['Musik', 'Elektronische Musik', 'Filmmusik', 'Klangkunst', 'Taiwanesisch']
+tags:
+  ['Musik', 'Elektronische Musik', 'Filmmusik', 'Klangkunst', 'Taiwanesisch']
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
@@ -62,7 +63,7 @@ Die Bewertung der National Culture and Arts Foundation beschrieb ihn später so:
 
 Für diesen Film über die Generation an der Jahrtausendwende, Nachtclubs und die nebligen Nächte Taipehs wurde die Filmmusik Lim Giong (Huang Kai-yu) und dem japanischen Komponisten Hanawa Yoshihiro zugeschrieben.[^10] Elektronische Beats sickerten in das Licht der Filmrolle. Die Zeitlupenszene zu Beginn, in der Shu Qi über die Fußgängerbrücke der Zhongxiao Oststraße geht, wurde später von unzähligen chinesischsprachigen Regisseuren zitiert. Lim Giong und Huang Kai-yu gewannen mit diesem Film die Goldene Pferd für die beste Original-Filmmusik der 38. Vergabe.[^11]
 
-Danach steht fast an jedem Film von [[Hou Hsiao-hsien]] der Name Lim Giong. Als „Der Killer“ (刺客聶隱娘) 2015 in Cannes den Preis für die beste Regie gewann, wurde auch Lim Giongs Filmmusik außerhalb des Wettbewerbs mit dem „Preis für Filmsoundtracks“ ausgezeichnet – eine internationale Bestätigung der taiwanesischen Elektronik-Filmmusik durch das Festival von Cannes.[^12]
+Danach steht fast an jedem Film von [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien/) der Name Lim Giong. Als „Der Killer“ (刺客聶隱娘) 2015 in Cannes den Preis für die beste Regie gewann, wurde auch Lim Giongs Filmmusik außerhalb des Wettbewerbs mit dem „Preis für Filmsoundtracks“ ausgezeichnet – eine internationale Bestätigung der taiwanesischen Elektronik-Filmmusik durch das Festival von Cannes.[^12]
 
 > **💡 Wusstest du?**
 > Lim Giongs erster schauspielerischer Auftritt war ebenfalls bei Hou Hsiao-hsien. 1993 in „Adel verpflichtet“ (少年吔，安啦！, „The Boys from Fengkuei“-Schwesterwerk) spielte er einen Randgänger des taiwanesischen Untergrunds. Dieser Auftritt machte Hou auf ihn aufmerksam; zugleich bestätigte ihm die Erfahrung, dass er lieber hinter der Kamera steht.

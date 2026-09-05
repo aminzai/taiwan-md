@@ -4,7 +4,8 @@ description: 'Er eroberte mit Ölgemälden die Kaiserliche Kunstausstellung in T
 date: 2026-03-31
 category: 'People'
 subcategory: '藝術家'
-tags: ['Kunst', 'Malerei', '228-Zwischenfall', 'Chiayi', 'Japanische Kolonialzeit']
+tags:
+  ['Kunst', 'Malerei', '228-Zwischenfall', 'Chiayi', 'Japanische Kolonialzeit']
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
@@ -21,8 +22,8 @@ translatedAt: '2026-08-19T00:37:48+08:00'
 
 ---
 
-| 220 Mio. NT$              | 1926                        |
-| ------------------------- | --------------------------- |
+| 220 Mio. NT$                                  | 1926                                                                    |
+| --------------------------------------------- | ----------------------------------------------------------------------- |
 | Auktionspreis von „Sonnenuntergang in Tamsui“ | Erstmalige Aufnahme eines Taiwaners in die Kaiserliche Kunstausstellung |
 
 ---
@@ -103,7 +104,7 @@ Nach seinem Tod verbot das Militär der Familie zunächst, den Leichnam zu berge
 
 Erst gegen Abend, zwischen vier und fünf Uhr, wurde der Familie erlaubt, die sterblichen Überreste abzuholen.
 
-Für den vollständigeren historischen Kontext des [[228-Zwischenfalls]], einschließlich der Leiden der Elite auf der ganzen Insel, siehe den separaten Artikel.
+Für den vollständigeren historischen Kontext des 228-Zwischenfalls (二二八事件), einschließlich der Leiden der Elite auf der ganzen Insel, siehe den separaten Artikel.
 
 ---
 
@@ -137,7 +138,7 @@ Der Name Chen Cheng-po verwandelte sich vom Tabu zum Kulturerbe. Seine Bilder wa
 
 1993 erzielte „Abenddämmerung von Tamsui“ (黃昏淡水) bei Sotheby's 11 Millionen NT$ – damals der höchste Preis bei Sotheby's für ein chinesisches Ölgemälde. 2006 ging „Tamsui“ (淡水) bei Sotheby's Hongkong für 34,84 Millionen HKD (rund 144 Millionen NT$) weg. 2007 wurde „Sonnenuntergang in Tamsui“ bei Christie's Hongkong für knapp 50,73 Millionen HKD inklusive Provision (rund 220 Millionen NT$) versteigert – bis heute der höchste Auktionspreis für ein Ölgemälde eines taiwanesischen Malers.
 
-Durch die Vorantreibung der [[Transitional Justice in Taiwan]] ist Chen Cheng-po nicht mehr nur ein Name, sondern hat Ausstellungen, ein ehemaliges Wohnhaus als Kulturstätte und vollständige Forschungsarchive.
+Durch die Vorantreibung der Transitional Justice in Taiwan (台灣轉型正義) ist Chen Cheng-po nicht mehr nur ein Name, sondern hat Ausstellungen, ein ehemaliges Wohnhaus als Kulturstätte und vollständige Forschungsarchive.
 
 Am 25. März 2025 – an seinem Todestag – unterzeichnete sein Enkel Chen Li-po eine Vereinbarung, über 2.000 in der Dachkammer erhaltene Werke – Ölgemälde, Zeichnungen, Manuskripte – fast vollständig an das Vorbereitungsbüro des Nationalmuseums für Kunst in Tainan zu verschenken. „Wie wenn man eine Tochter verheiratet“, sagte er, „und ich glaube, sie heiratet in eine gute Familie, darum bin ich erleichtert, dass sich ein Herzenswunsch erfüllt hat.“ (United Daily News, 2025)
 
