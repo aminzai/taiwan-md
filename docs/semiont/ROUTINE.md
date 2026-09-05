@@ -4,9 +4,9 @@ description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled �
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.22'
-last_updated: 2026-09-05
-last_session: '2026-09-05-165420-observer-queue-10-phase0（routine commit author 分離哲宇）'
+current_version: 'v2.23'
+last_updated: 2026-09-06
+last_session: '2026-09-06-twmd-distill-weekly（§暫停某條 routine SOP 新增「必填解除條件 + 到期日」步驟，源 LESSONS `pause-without-exit-condition-becomes-the-default`）'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -903,7 +903,8 @@ v2.0 routine spec 預設「fire → work → commit → die」，但 `babel-nigh
 
 1. 改本檔 §排程表把該 routine 標 `⏸️ paused`
 2. 跑 `mcp__scheduled-tasks__update_scheduled_task` 設 `enabled: false`
-3. commit 兩處改動 同 PR
+3. **必填解除條件 + 到期日**（2026-09-06 twmd-distill-weekly 新增，per LESSONS `pause-without-exit-condition-becomes-the-default`）：暫停的註腳當下就要寫清楚「什麼情況發生就該恢復」與一個具體到期日，不能只寫暫停理由。沒有出口的暫停在 SOP 層面等於退休，只是文字上否認——本檔既有 5 條 ⏸️（`twmd-babel-nightly` / `twmd-rewrite-daily` / `twmd-spore-pick-daily` / `twmd-spore-publish-daily` / `twmd-founder-lens-weekly`）在 2026-09-06 之前全數缺這一步，`twmd-babel-nightly` 因此空轉 42 天才被兩週體檢意外抓到。到期日一到若無人主動恢復或延期，下一輪 `twmd-weekly-report-sun` Stage 2.7 或 `twmd-routine-audit-weekly` 讀到過期未決的暫停，一律升 OBSERVER-QUEUE 給觀察者裁決「延期 / 恢復 / 轉退休」三選一
+4. commit 三處改動同 PR
 
 ### 修改 cadence / skill / quality gate
 
