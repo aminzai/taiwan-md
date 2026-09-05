@@ -14,7 +14,7 @@ import html.parser
 import multiprocessing as mp
 from urllib.parse import unquote, urlparse
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 # ── Config ───────────────────────────────────────────────────────
 
@@ -411,6 +411,43 @@ def main():
                 print(f"      ... and {len(sources) - 3} more pages")
             shown += 1
         print()
+
+    # ── Broken link families ─────────────────────────────────────
+    # 比例是給 CI 用的單一布林，top-N 清單印的是它當下印得下的那些。
+    # 兩者都看不見「數量少但結構一致」的家族：N 條死連結指向同一個 route，
+    # 佔比進不了紅線、又被字母序打散在截斷線以下。本段按 route 家族分組，
+    # 全部印出不截斷 — 家族數遠少於 unique target 數。
+    # 誕生：LESSONS `ratio-gate-cannot-surface-a-small-structured-family`
+    #      （2026-09-01 lifeTree 31 篇譯文全指向同一個掃不到的 route）
+    def route_family(href):
+        """把一個死連結歸到它的 route 家族：/fr/music/x/ → /fr/music/*"""
+        path = unquote(href).split("?")[0].split("#")[0]
+        parts = [p for p in path.split("/") if p]
+        if not parts:
+            return "/"
+        if len(parts) == 1:
+            return "/" + parts[0]
+        return "/" + "/".join(parts[:-1]) + "/*"
+
+    fam_targets = defaultdict(set)
+    fam_hits = Counter()
+    for source, href, _text, _cat in broken_links:
+        fam = route_family(href)
+        fam_targets[fam].add(href)
+        fam_hits[fam] += 1
+
+    print("-" * 72)
+    print("  BROKEN LINK FAMILIES (route prefix — 全部列出，不截斷)")
+    print("-" * 72)
+    if not fam_targets:
+        print("  (none)")
+    else:
+        print(f"  {'family':<40s} {'targets':>8s} {'links':>8s}")
+        for fam, targets in sorted(
+            fam_targets.items(), key=lambda kv: (-len(kv[1]), -fam_hits[kv[0]], kv[0])
+        ):
+            print(f"  {fam:<40s} {len(targets):>8d} {fam_hits[fam]:>8d}")
+    print()
 
     print_broken_section("(a) Language Switcher Dead Links", broken_lang)
     print_broken_section("(b) Article Internal Dead Links", broken_article)
