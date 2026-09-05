@@ -174,6 +174,65 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 陳士駿 EVOLVE — 接住 #1630 來源升級與 subcategory 正典化，第五路徑首例
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/陳士駿.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-05 by 哲宇 2026-09-05 fortnight-review 拍板（session 2026-09-05-154128-fortnight-review）
+- **Notes**:
+  - 一句話核心張力：投稿者把來源從維基／百度換成 NBC、Computer History Museum 口述歷史、Sequoia podcast、PR Newswire，方向對，但腳註 `[^10]` 一度把本篇自己的英文譯本包裝成獨立來源，跟現行版把維基主張洗成獨立來源是同一種手法，好角度跟舊毛病長在同一份投稿裡
+  - 走 [MAINTAINER-PIPELINE §Step 3.7 第五路徑](../pipelines/MAINTAINER-PIPELINE.md)：不整篇覆寫，保留現行 spine，把來源升級與 subcategory 正典化（科技與創業 → 科技與企業）萃取成補充段落接回
+  - Co-authored-by idlccp1984
+  - 對位句型上限 3（現行 4,891 字長文，EDITORIAL 上限 3 處；投稿者已從 22 處修到 15 處，接回時要壓到 3 處內）
+  - 逐條核對現行 23 條腳註跟 PR 版腳註的差異，只收真的升級的來源，不整批替換
+- **Reference**: [PR #1630](https://github.com/frank890417/taiwan-md/pull/1630)、[OBSERVER-QUEUE.md §33](OBSERVER-QUEUE.md)
+
+### 台灣便利商店文化 EVOLVE — 接住 #1450 的社會安全網與勞動現實角度
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/台灣便利商店文化.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-05 by 哲宇 2026-09-05 fortnight-review 拍板（session 2026-09-05-154128-fortnight-review）
+- **Notes**:
+  - 一句話核心張力：24 小時燈亮著的店面背後，是社會安全網的最後一道防線，還是被壓縮到最低薪資的勞動現場——PR #1450 帶著這個真問題，卻用一個自我引用冒充天下雜誌的腳註、兩個懸空腳註包裝
+  - 現行 2026-05-16 batch-200 P2C 版（`f712b7242`）為底，不動既有密度數據與 3 條站內延伸閱讀
+  - 走 [MAINTAINER-PIPELINE §Step 3.7 第五路徑](../pipelines/MAINTAINER-PIPELINE.md)：把社會安全網、勞動現實、共享食堂三個新角度重新查證來源後寫成新增段落
+  - Co-authored-by idlccp1984
+- **Reference**: [PR #1450](https://github.com/frank890417/taiwan-md/pull/1450)、[OBSERVER-QUEUE.md §33](OBSERVER-QUEUE.md)
+
+### 台灣高鐵 EVOLVE — 逐條核對 #1483 十二個 H2 裡真正新增的事實
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/台灣高鐵.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-05 by 哲宇 2026-09-05 fortnight-review 拍板（session 2026-09-05-154128-fortnight-review）
+- **Notes**:
+  - 一句話核心張力：PR #1483 把 H2 從 6 條拆成 12 條、結構確實更細，拆細的代價是 `lastHumanReview: true`、`researchReport`、兩則已發布孢子的 `sporeLinks` 隨腳註從 23 條砍到 16 條一起消失
+  - 走 [MAINTAINER-PIPELINE §Step 3.7 第五路徑](../pipelines/MAINTAINER-PIPELINE.md)：逐條對照現行 23 條腳註跟 PR 版 12 個 H2，只收真正新增且可查證的事實
+  - **還原**查證 spine：08-22 合併已把現行文覆寫成 `lastHumanReview: false`、腳註 23→16、`researchReport` 消失（`sporeLinks` 尚在）。以 `git show dd39065b2:knowledge/Lifestyle/台灣高鐵.md` 為底，把 `lastHumanReview: true`、`researchReport: reports/research/2026-04/台灣高鐵.md`、23 條腳註還原後再接住 PR 版真正新增的事實
+  - Co-authored-by idlccp1984
+- **Reference**: [PR #1483](https://github.com/frank890417/taiwan-md/pull/1483)、[OBSERVER-QUEUE.md §33](OBSERVER-QUEUE.md)
+
+### /exams/ 學測專題 feature — merge #1453 後補站台區段缺件，策展參照換掉百度百科
+
+- **Type**: `NEW`（實質是站台 feature，非 knowledge 文章；ARTICLE-INBOX schema 無對應 `feature` type，取最接近者標注於此）
+- **Category**: Society（暫列，此條實為獨立站台區段，非分類文章）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-05 by 哲宇 2026-09-05 fortnight-review 拍板 B（session 2026-09-05-154128-fortnight-review）
+- **Notes**:
+  - 一句話核心張力：投稿者已經補完死碼問題（`src/pages/exams.astro` 補進來，模板不再是孤兒），技術面已經不卡；卡的是骨架背後七張人物卡目前只有維基與百度百科撐著，開站要先把地基換成台灣自己的一手來源
+  - merge PR #1453 後要做：十二語 `src/pages/{lang}/exams.astro`（現況只有中文讀得到，因為 `getLangFromUrl` 靠網址前綴）、UI 字串補齊、URL 契約修正（模板註解寫 `/exams/gsat/` 但實際建出 `/exams/`）、策展骨架參照來源換成大考中心／教育部／報導者等一手來源、七張人物卡各補一則第三方報導連結（PR #1453 留言已列缺口）
+  - 由獨立 feature session 做，不進一般文章 REWRITE-PIPELINE 產線
+- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)
+
 ### 台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界
 
 - **Type**: `EVOLVE`
@@ -619,7 +678,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **History-level article**：比任一個別人物 article 涵蓋更廣 + 對理解戰後台灣文化結構更基本
 - **預估時間**：150-180 min（論戰時序 + 主要 figures 立場 + 對詩界小說界影響 + 跟既存歷史 article cross-link）
 - **Reference**: reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §六 1977-1978 鄉土文學論戰
-
 
 <!-- ═══ 🟠 收尾補完 — prose 已 ship 或低工時修補（媒體 / 孢子 / SEO / freshness），routine 可連續吃 ═══ -->
 

@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.9'
-last_updated: 2026-08-19
-last_session: '2026-08-19-084500-twmd-maintainer-am（Step 1.5b 儀器化）＋2026-08-18-164330-twmd-maintainer-manual（Draft PR 處置／Step 1.3 ready-draft 報數；同波還原 8/14 被過期副本覆寫的 v2.7 §1c）——兩波同日獨立寫同兩段，rebase 時合成聯集'
+current_version: 'v2.10'
+last_updated: 2026-09-05
+last_session: '2026-09-05-154128-fortnight-review（三條投稿判例：人物門檻／覆寫既有文／About 第一人稱）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -332,6 +332,8 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 **分層判準一句話**：留言內容若只是「已發生之事實＋感謝」→ 自主；若替 Taiwan.md **許諾未來或代表立場** → reserve。拿不準 → reserve 進 handoff。
 
+**判例：投稿者以 Taiwan.md 第一人稱寫的自述文（哲宇 2026-09-05 拍板）**：`knowledge/About/` 只收 Taiwan.md 自己（或哲宇）第一人稱講「我是什麼」的自述，這個位置本身就是對外語氣定調，屬上面 reserve 清單。投稿者對 Taiwan.md 的觀察、期許、未來想像即使內容正確、即使跟 MANIFESTO 信念方向一致，執筆的仍是投稿者本人，這類稿件不進 About/，close 並說明這條界線；材料本身值得保留時，建議投稿者改用具名身分發表成貢獻者觀點。誕生案例：〈Taiwan.md 不是什麼〉（PR #1407，2026-08-18）、〈Taiwan-md 的未來〉（PR #1411，2026-08-18）。
+
 ---
 
 ## 跨檔案職責分工
@@ -547,6 +549,8 @@ git checkout pr/N && python3 scripts/tools/....
 ✅ 接受（至少滿足 2 個）：維基百科條目 / 主流媒體報導（非自媒體）/ 國際認可（獎項、國際合作）/ 台灣文化-歷史不可替代位置。
 
 ❌ 拒絕：純網紅（IG 粉絲多但無維基無報導）→ 建議在相關產業文章中提到 / 司法進行中的人物 → 暫緩等結案。
+
+**判例：自媒體時代表演者的門檻明文化（哲宇 2026-09-05 拍板）**：「主流媒體報導」排除三種來源型態——平台目錄頁（Spotify、KKBOX 這類收錄頁不算報導）、投稿人自營頻道（YouTube、IG、FB、Threads）、以及單純以表演者身分上節目的紀錄。查維基百科條目存否要直接打 API（`https://zh.wikipedia.org/w/api.php?action=query&titles=<姓名>&format=json`），不能用腳註裡有沒有 `wikipedia.org` 字樣推斷，commons 圖片檔會讓判斷誤判成「有條目」。維基本人條目與 2 則以上獨立第三方報導兩項皆無，不收獨立人物條目；可查證的部分可以併入相關產業或表演藝術條目。此判準源自五個同型案例：KENJI（PR #1365，2026-08-16）、黑貓老師與 Cheap（PR #1395／#1401，2026-08-18）、蔡黑皮（PR #1471，2026-08-20）、三度C（PR #1525，2026-08-21）。
 
 ### Step 2.1.1: [Content] issue digest sub-flow（v2.3 新增 canonical）
 
@@ -1282,6 +1286,8 @@ gh pr merge <new-PR> --squash --delete-branch  # maintainer 自己 PR 可 auto-m
 | 🛠️ merge + polish  | 中型問題（10-30 分鐘能修好）                                                  | **`gh pr merge` 先** → polish/heal commits → `gh pr comment` 說明          |
 | ❌ request changes | 問題太大（> 50% 需重寫 or > 30 分鐘修復量）+ close hard gate 確認屬合法 close | 打回 + 具體回饋（PR comment）；**仍 open 等修，不是 silent close-as-ship** |
 
+**第五路徑：已查證成品被整篇覆寫 → EVOLVE 接住＋Co-authored（哲宇 2026-09-05 拍板）**：上述四級假設投稿是在改善一篇文章，但當現行文章帶 `lastHumanReview: true` 或掛 `researchReport` 或已有 `sporeLinks` 任一項，它已經是查證成品，覆寫型 PR（大量刪除既有段落、腳註整批替換）不適用四級任一格，換一條收法：不整篇覆寫，改由 Semiont 走 [REWRITE-PIPELINE](REWRITE-PIPELINE.md) EVOLVE 模式，把投稿裡新的角度與更好的來源萃取成補充段落接回現行版本，投稿者掛 `Co-authored-by`。判準看 frontmatter 三個欄位，不是比較兩版字數或腳註數。誕生案例：陳士駿（PR #1630，2026-08-31）、台灣便利商店文化（PR #1450，2026-08-18）、台灣高鐵（PR #1483，2026-08-20），三案共同點是投稿角度有價值，但整篇覆寫會讓已查證內容連帶消失。
+
 #### 翻譯 PR 的上游檢查
 
 1. 原文有腳註嗎？→ 沒有不是翻譯者的錯
@@ -1475,6 +1481,8 @@ Branch protection：需 1 approval，`enforce_admins: false`。目前策略：�
 
 ---
 
+_v2.10 | 2026-09-05 fortnight-review — **三條投稿判例補進 canonical**（哲宇 fortnight-review session 對 OBSERVER-QUEUE #30／#32／#33 拍板）：(1) §人物文章知名度門檻 補「自媒體時代表演者」判例——主流媒體報導排除平台目錄頁／自營頻道／表演者身分上節目三種型態，維基條目存否改直接打 API 查、不用腳註網域推，源自 KENJI／黑貓老師／Cheap／蔡黑皮／三度C 五案；(2) §Step 3.7 三級判斷表後補第五路徑「已查證成品被整篇覆寫 → EVOLVE 接住＋Co-authored」，判準看 `lastHumanReview`／`researchReport`／`sporeLinks` 三欄位，源自陳士駿／台灣便利商店文化／台灣高鐵三案；(3) §外向留言分層 補「投稿者以 Taiwan.md 第一人稱寫自述文」判例——About/ 只收 Taiwan.md 或哲宇本人第一人稱，投稿者觀察即使內容正確也不進 About/，源自 PR #1407／#1411。三案後續工作（EVOLVE 接住／exams feature）同時登記進 [ARTICLE-INBOX.md](../semiont/ARTICLE-INBOX.md)。_
+
 _v2.9 | 2026-08-19 — **同日兩波獨立寫下同兩段，rebase 合成聯集**。8/19 早班 routine（v2.7 標記）與 8/18 manual session（v2.8 標記）在不知道彼此的情況下，各自把「格式債 default 走 P1 推對方分支」與「診斷把內容帶進 main 樹跑」寫進 canonical——同一批 idlccp1984 PR 逼出同樣的兩條結論，是這兩條規則的獨立雙重驗證。合併取聯集：Step 1.5b 取早班的儀器化版（`pr-ci-armed.sh` 三態判準，優於 manual 版的 snippet），Draft PR 處置與 Step 1.3「先分 ready／draft 再報數」取 manual 版（早班沒有），§1c 還原只有 manual 版有（早班那份仍站在被覆寫的 v2.6 上，沒察覺回歸）。下方 v2.7／v2.8 兩條原文一併保留作證據鏈。_
 
 _v2.7 | 2026-08-19 twmd-maintainer-am — **Step 1.5b 從 snippet 改為儀器 + 兩條診斷／收割 default 補明文**。(1) Step 1.5b 原本那段內嵌指令用 `actions/runs` 不帶 `branch=` 過濾，該 endpoint 只回最新 30 筆 run（本 repo 約 6 小時），對 PR #1365 積了三天的 84 筆 `action_required` 回報「待批准=0」——一支專抓「存在 ≠ 有跑」的偵測器自己踩了同一種代理訊號（REFLEXES #82）。改呼叫新造的 [`scripts/tools/pr-ci-armed.sh`](../../scripts/tools/pr-ci-armed.sh)，判準從一句話升三態表（ARMED / UNARMED / NO-WORKFLOW），核准指令改成只放 head sha 那批。同時記錄第二個發現：**核准不是對投稿者永久生效，每次新 push 都要重新確認 armed**。(2) §1b 新增〈格式債的 default 是 P1〉：`maintainerCanModify == true` 時直接把格式修補 push 進對方分支，不留說明等他自己修（LESSONS `reopened-channel-still-needs-someone-to-walk-down-it`，idlccp1984 七篇卡三天的解法）。(3) Stage 2 新增〈診斷紀律〉：把 PR 內容檔帶進 main 樹跑，禁 checkout PR 分支後在那棵樹上讀檢查器（LESSONS `diagnosing-from-the-contributor-tree-audits-a-past-self`，8/18 差點對 212 篇提批次重構）。_
@@ -1502,6 +1510,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.10**（2026-09-05 fortnight-review）— 三條投稿判例：人物知名度門檻自媒體變體明文化／覆寫既有查證文第五路徑 EVOLVE 接住／About 第一人稱自述文收錄邊界
 - **v2.9**（2026-08-19 合併）— 早班 routine 與 8/18 manual session 同日獨立寫同兩段，取聯集：儀器化 Step 1.5b ＋ Draft PR 處置 ＋ §1c 還原
 - **v2.7**（2026-08-19 twmd-maintainer-am）— Step 1.5b 儀器化（`pr-ci-armed.sh`，三態判準）+ §1b 格式債 default 走 P1 推對方分支 + Stage 2 診斷紀律「內容進 main 樹，不 checkout PR 樹」
 - **v2.8**（2026-08-18 twmd-maintainer-manual）— §1b P1 push-to-branch 是格式債 default／診斷帶進 main 樹跑不 checkout／Draft PR 處置（三訊號判意外）／Step 1.3 先分 ready-draft；同 commit 還原 8/14 被過期副本覆寫掉的 v2.7
