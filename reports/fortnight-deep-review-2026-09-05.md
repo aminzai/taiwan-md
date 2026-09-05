@@ -3,7 +3,7 @@ title: 'Fortnight deep review 2026-09-05'
 description: '哲宇缺席兩週（08-22 → 09-05）的全身體檢：飛輪運作實況、整個專案的結構性診斷、自我進化提案與一張只要回字母的決策表'
 type: 'audit-doc'
 status: 'active'
-current_version: 'v1.0'
+current_version: 'v1.1'
 last_updated: 2026-09-05
 last_session: '2026-09-05-154128-fortnight-review'
 window: '2026-08-22 00:00 → 2026-09-05 15:40 (+0800)'
@@ -347,6 +347,27 @@ evolution-roadmap-2026-08-09：P0 三項連續四週領取 0/3，加上三週滾
 | 10  | mouhouse 四天空窗根因                            | A 你查 scheduler／launchd 日誌／B 給我 SSH 或 fleet 存取我查／C 不查，等 D1 告警上線後看下一次                                                                                                                                            | B        |
 
 回完這十個字母，§4.3 六件自主權內的事我會接著做，並把結果寫進下一份週報的「已決」表。
+
+### 5.1 拍板結果（2026-09-05 同日，哲宇一題一題回）
+
+報告 v1.0 寫完兩小時內哲宇回來，把上表十題加上佇列剩下的每一項一次拍完。待決從 33 項降到 3 項（三件都是只有他能動手的：開 Tailscale 讓我查 mouhouse 根因、補 Telegram secret、身份 Phase 1 的授權）。逐項結果與落地 commit 在 [OBSERVER-QUEUE §已決](../docs/semiont/OBSERVER-QUEUE.md#已決) 2026-09-05 那批列；這裡只記跟上表不同的地方：
+
+| 題       | 上表推薦            | 實際拍板                                                                                                   |
+| -------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 1        | A 事件驅動          | **babel-nightly 重開，rewrite／spore 維持手動**，不設到期日                                                |
+| 6        | 見各項 A            | 人物門檻 **close 並明文化**；覆寫既有文 **EVOLVE 接住＋Co-authored**；About 自述 **close**；/exams/ **開** |
+| 7        | A                   | 指控信 **只回覆並結案，不加偵測器**                                                                        |
+| 8        | A                   | justfont 白名單哲宇早已開好（佇列不知道）                                                                  |
+| 10       | B                   | 哲宇開 Tailscale 後我 SSH 查（待他動手）                                                                   |
+| 佇列 #16 | 三選一              | 哲宇改題：「完整制定共編規則讓未來大家好依循」→ 對外 CONTRIBUTING 9 條＋對內 gate 只管 🔴 型               |
+| 佇列 #14 | 改鐵律或改 mirror   | 哲宇改題：「完整深度進化，仍然維持薄殼原則」→ mirror 薄、inline 搬進各 routine 自己的 SKILL.md             |
+| 佇列 #18 | A 摘 gemini＋Sonnet | 哲宇改題：「tier 6 用 haiku，7 用 gemini」                                                                 |
+| 佇列 #38 | A 寫文章            | 哲宇選 **B 詞庫新增句構型別**（比推薦更進一步）                                                            |
+| 佇列 #41 | A 現狀              | 哲宇選 **B 全部改台灣，首次加註**                                                                          |
+
+同日對外處置：merge #1642 並致謝；close #1365 #1407 #1411 #1630 #1450 各附說明；#1453 留言方向已定；issue #1184 #1264 結案；#1440 回覆採納；Discussion #104 貼給 idlccp1984 的綜合文案。只剩 #1453 一個開放 PR，等 /exams/ feature session。
+
+同日落地 commit（依序）：報告 800f07d6f、單檔 REWRITE 抓回 b1e2ff6e8、babel 恢復 08fb63817、儀表三格 d819d131e、缺席協議 b0b286964、審庫存設計 1a1e16099、停轉告警 425e0c0a9、佇列與判例 095514865、數據→資料 a3f3288e0、seo-meta 928ba010b、Semiont 身份 Phase 0 9747ec8a6；其餘（德文出生、卡片圖收庫、詞庫拆修、babel cascade、標題錨點、內鏈儀器、中華台北、句構設計、單檔生成器、memory profile、共編規則）由執行手完成後分批 commit，見 git log 2026-09-05 下午。
 
 ---
 
