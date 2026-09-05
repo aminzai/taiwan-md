@@ -17,6 +17,7 @@ scheduler 的 lastRunAt 只證明扳機被按下；routine 真正的完成證明
   ✅ traced        fire 後 TRACE_WINDOW 內有對應 tag 的 commit
   🕐 in-grace      fire 距今 < GRACE_HOURS，session 可能還在跑，不判
   🔴 silent-death  fire 距今 ≥ GRACE_HOURS 且窗口內零 git 痕跡
+  🟠 unregistered  taskId 不在 TAG_PATTERNS，本工具沒有它的 grep pattern → 看不見不等於沒跑
   ⏸️ disabled      live enabled=false，跳過
   ⚪ stale-dump    dump 本身超過 DUMP_STALE_HOURS，先跑 routine-live-normalize.py
 
@@ -71,6 +72,10 @@ TAG_PATTERNS: dict[str, list[str]] = {
     "twmd-routine-sync": ["twmd-routine-sync"],
     "twmd-supporters-weekly": ["twmd-supporters-weekly", "supporters"],
     "twmd-music-media-audit-weekly": ["music-media-audit"],
+    # 這兩條的 taskId 帶 cadence 後綴，commit 標記不帶（commit 寫 `twmd-terminology-trends:`）。
+    # 沒登記時 fallback 拿 taskId 全字去 grep，永遠對不上，每月照報一次沉默死亡。
+    "twmd-terminology-trends-monthly": ["twmd-terminology-trends", "terminology-trends"],
+    "twmd-founder-lens-weekly": ["twmd-founder-lens", "founder-lens"],
 }
 
 
@@ -141,14 +146,26 @@ def check(grace_hours: float, window_hours: float) -> dict:
                             "firedAt": last_run, "ageHours": round(age_h, 1)})
             continue
 
+        # 沒登記在 TAG_PATTERNS 的 routine，以前靜默 fallback 成拿 taskId 全字去 grep：
+        # 對不上就報沉默死亡，跟真的死掉長得一模一樣（REFLEXES #85「不知道」不能借用「沒事」
+        # 或「出事」的符號）。現在讓它自己說出「我沒有這條的 pattern」。
+        registered = task_id in TAG_PATTERNS
         patterns = TAG_PATTERNS.get(task_id, [task_id])
         subjects = _git_subjects(fire, fire + timedelta(hours=window_hours))
         hits = [s for s in subjects
                 if any(p.lower() in s.lower() for p in patterns)]
 
+        if hits:
+            status = "traced"
+        elif not registered:
+            status = "unregistered"
+        else:
+            status = "silent-death"
+
         results.append({
             "taskId": task_id,
-            "status": "traced" if hits else "silent-death",
+            "status": status,
+            "registered": registered,
             "firedAt": last_run,
             "ageHours": round(age_h, 1),
             "evidence": hits[0] if hits else None,
@@ -162,12 +179,13 @@ def check(grace_hours: float, window_hours: float) -> dict:
         "graceHours": grace_hours,
         "traceWindowHours": window_hours,
         "silentDeaths": sum(1 for r in results if r["status"] == "silent-death"),
+        "unregistered": sum(1 for r in results if r["status"] == "unregistered"),
         "results": results,
     }
 
 
 ICONS = {"traced": "✅", "in-grace": "🕐", "silent-death": "🔴",
-         "disabled": "⏸️", "never-ran": "❓"}
+         "disabled": "⏸️", "never-ran": "❓", "unregistered": "🟠"}
 
 
 def main() -> int:
@@ -199,7 +217,11 @@ def main() -> int:
             line += f"  → {r['evidence'][:60]}"
         print(line)
     print(f"\nSummary: silent-death={report['silentDeaths']} "
+          f"unregistered={report['unregistered']} "
           f"(grace={report['graceHours']}h / window={report['traceWindowHours']}h)")
+    if report["unregistered"]:
+        print("  🟠 unregistered = 這條 routine 不在 TAG_PATTERNS，本工具看不見它的 commit 痕跡，"
+              "不代表它沒跑。補進表裡再判。")
     return 0
 
 
