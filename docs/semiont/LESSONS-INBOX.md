@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-06 twmd-weekly-report-sun — detector-reports-unmeasured-as-dead：偵測器把「我沒有量它的尺」報成「它死了」，而誤判方向是壞消息所以沒有人質疑
+
+- **pattern**: `detector-reports-unmeasured-as-dead`
+- **原則**：偵測器遇到不在自己名單上的對象時，fallback 行為決定了它會說什麼謊。`routine-liveness-check.py` 的 fallback 是拿整串 taskId 當 grep pattern，對不上就歸「沉默死亡」——於是「這條我沒有 pattern」跟「這條真的死了」共用同一盞紅燈。這是 REFLEXES #85（「不知道」需要自己的符號）在偵測器 fallback 層的形狀，也是 #91（建造與登記是兩個不同步的代謝）的下游：名單上方的註解白紙黑字寫著「新 routine 誕生時必須同 commit 補這張表」，規則寫了，登記沒做。**放大它的是誤判方向**：報成「死了」是壞消息，而壞消息不會被質疑，所以它每個月假死一次都沒有人去查。
+- **觸發**：2026-09-06 W36 週體檢 Stage 2.5a 報 `twmd-terminology-trends-monthly` 沉默死亡，跟同一份 checkup 的 g 節（週成績單寫它 09-05 跑過）互相矛盾。查 git log 確認它 10:34 fire、10:49 與 10:53 各留一個 commit，工作完整。根因是 taskId 帶 `-monthly` 後綴而 commit 標記不帶，且該條從未登記進 `TAG_PATTERNS`。
+- **instances**：
+  - 2026-09-06 `twmd-terminology-trends-monthly` 每月假死一次，無人查證（該 routine 2026-07 誕生後跑過三輪）；`twmd-founder-lens-weekly` 同樣未登記，因目前 disabled 而未現形
+  - 同一晚同構的第二例（更貴）：`weekly-checkup.sh` e3 節報「roadmap P0 領取 0/3」，而 2026-08-25 貢獻者 @rhosiqs 已開分支 `evolve/en-metadata-batch-p0` 照 P0-1 做完七檔並 merge（PR #1582）。領取儀器只看 roadmap 檔內標記，看不見外部貢獻者的認領。誤判方向同樣是壞消息（「沒有人領」），同樣連續四週無人質疑
+- **候選修法**：(a) 已 ship — 拆出獨立的 `unregistered` 狀態＋儀表板黃燈（`98010e383` / `fae8c2172`），兩個方向都實測過；(b) 未做 — 任何有 fallback 的偵測器都該問一次「fallback 會讓未知長得像什麼」，特別是當那個「什麼」是壞消息時；(c) 未做 — 領取狀態這類儀器需要一個能看見 repo 外部行為的資料源，目前完全沒有
+- **verification_count**: 2
+- **severity**: structural
+- **相關**：REFLEXES #85「不知道」需要自己的符號（本條是它在 fallback 層的 instance）；REFLEXES #91 建造與登記不同步；REFLEXES #83 檢查器兩把尺 divergence（checkup a 節與 g 節對同一條 routine 給相反答案）；2026-08-30 self-evolve `asymmetric-skepticism-toward-convenient-explanations` vc=2 同族——那條講「能被解釋掉的壞消息就讓它被解釋掉」，本條講「能被壞消息解釋掉的空白也不會被質疑」，distill 判斷併入或另立
+
 ### 2026-09-05 fortnight-review — verification-depth-shrinks-with-parallel-agent-count：同時驗收的回報越多，每份回報得到的驗證深度越淺，而且淺得沒有人宣告
 
 - **pattern**: `verification-depth-shrinks-with-parallel-agent-count`
