@@ -1,0 +1,95 @@
+---
+/**
+ * de article slug page — thin wrapper.
+ *
+ * 2026-09-05 route scaffold for de (German). Mirrors
+ * ru/[category]/[slug].astro (sleepy-colden Tier 2.5 Phase B unified template
+ * extraction) — logic lives in src/templates/article.template.astro.
+ * Reads from knowledge/de/{Category}/, cross-lang baseline ensures basename
+ * canonical.
+ */
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import ArticleTemplate from '../../../templates/article.template.astro';
+import {
+  buildGitInfoCache,
+  emptyGitInfo,
+  type GitInfo,
+} from '../../../utils/contributors';
+
+let _gitCache: Map<string, GitInfo> | null = null;
+function getGitInfo(filePath: string) {
+  if (!_gitCache) _gitCache = buildGitInfoCache('knowledge/de/');
+  return _gitCache.get(filePath) || emptyGitInfo();
+}
+
+export async function getStaticPaths() {
+  const CATEGORY_MAPPING: Record<string, string> = {
+    about: 'About',
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
+    politics: 'Politics',
+  };
+
+  const safeMatter = (fileContent: string) => {
+    try {
+      return matter(fileContent);
+    } catch {
+      const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
+      return { data: {}, content: stripped };
+    }
+  };
+
+  const paths: any[] = [];
+  for (const [categorySlug, folderName] of Object.entries(CATEGORY_MAPPING)) {
+    try {
+      const folderPath = resolve(process.cwd(), 'knowledge', 'de', folderName);
+      const files = await readdir(folderPath);
+      for (const file of files.filter(
+        (f) => f.endsWith('.md') && !f.startsWith('_'),
+      )) {
+        const filePath = join(folderPath, file).normalize('NFC');
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter, content } = safeMatter(fileContent);
+        const slug = basename(file, '.md');
+        let gitInfo = emptyGitInfo();
+        try {
+          gitInfo = getGitInfo(filePath);
+        } catch {}
+        paths.push({
+          params: { category: categorySlug, slug },
+          props: {
+            title: frontmatter.title || slug,
+            description: frontmatter.description || '',
+            content,
+            frontmatter,
+            lang: 'de',
+            contributors: gitInfo.contributors,
+            lastModified: gitInfo.lastModified,
+          },
+        });
+      }
+    } catch {}
+  }
+  if (paths.length === 0) {
+    throw new Error('[de getStaticPaths] Generated 0 paths.');
+  }
+  return paths;
+}
+
+const props = Astro.props;
+const { category, slug } = Astro.params;
+---
+
+<ArticleTemplate {...props} category={category!} slug={slug!} />

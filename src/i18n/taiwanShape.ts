@@ -742,6 +742,104 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.button': 'Копировать SVG',
     'taiwanShape.copy.copied': '✓ Скопировано',
   },
+  de: {
+    'taiwanShape.svg.icon.desc':
+      'Schlichte, ausgefüllte Kontur — ideal für Icons, Favicons und Schaltflächen.',
+    'taiwanShape.svg.simplemaps.desc': 'Saubere Vektordatei — ideal zum Einbetten in Webseiten.',
+    'taiwanShape.svg.locationMap.desc': 'Lagekarte — mit Breiten- und Längengradraster sowie Stadtmarkierungen.',
+    'taiwanShape.svg.politicalDivision.desc': 'Landkreis- und Stadtgrenzen — farbige Verwaltungsgliederung.',
+    // Meta
+    'taiwanShape.meta.title':
+      'Die Form Taiwans — quelloffener Kartendatensatz: SVG, GeoJSON, TopoJSON',
+    'taiwanShape.meta.description':
+      'Vollständige quelloffene Kartendaten für Taiwan: SVG-Konturen, TopoJSON auf Landkreis-, Stadt- und Gemeindeebene sowie Anwendungsbeispiele für D3.js / Leaflet / Python / Vue. Von AI gezeichnete Taiwan-Karten sind immer falsch — diese hier stimmt.',
+
+    'taiwanShape.hero.kicker': '🗺️ Quelloffener Kartendatensatz',
+    'taiwanShape.hero.title': 'Die Form Taiwans',
+    'taiwanShape.hero.subtitle':
+      'SVG, GeoJSON, TopoJSON — vollständige quelloffene Kartendaten für Entwickler, Designer und Forschende.',
+
+    'taiwanShape.story.heading': 'Warum die Form Taiwans wichtig ist',
+    'taiwanShape.story.p1':
+      'Lässt man Taiwan von einem beliebigen AI-Bildgenerator zeichnen, entsteht fast immer etwas Rundliches und Dickliches zwischen Olive und Kartoffel. Taiwan ist keine Olive. Es ist eine 394 Kilometer lange Süßkartoffel mit einem von Norden nach Süden verlaufenden Zentralgebirge und mehr als hundert vorgelagerten Inseln.',
+    'taiwanShape.story.p2':
+      'Die Form richtig darzustellen ist nicht nur ein Detail des Designs, sondern eine Frage der Identität. Diese Seite versammelt alle quelloffenen Kartenmaterialien, die wir auf taiwan.md verwenden, damit alle Taiwan in ihren eigenen Projekten präzise darstellen können.',
+
+    'taiwanShape.comparison.title': '🤖 vs. 🇹🇼 — AI zeichnet es wirklich jedes Mal falsch',
+    'taiwanShape.comparison.aiLabel': 'Von AI erzeugt (falsch)',
+    'taiwanShape.comparison.correctLabel': 'Korrekte Version (Wikipedia)',
+
+    'taiwanShape.svg.heading': '📐 SVG-Konturen — direkt einbetten',
+    'taiwanShape.svg.description':
+      'Vier ausgewählte SVG-Dateien, alle unter CC-Lizenz oder gemeinfrei. Sie lassen sich direkt in jede Webseite, App oder Designvorlage einfügen.',
+    'taiwanShape.svg.usageHeading': 'Verwendung',
+    'taiwanShape.svg.licenseNote':
+      'Alle SVG-Dateien stehen unter einer Creative-Commons-Lizenz oder sind gemeinfrei. Eine Quellenangabe ist wünschenswert, aber nicht erforderlich.',
+
+    'taiwanShape.geo.heading': '🌐 TopoJSON — interaktive Karte der Landkreise und Städte',
+    'taiwanShape.geo.intro1':
+      'Für eine interaktive Karte — mit Zoom, Mouseover und datenabhängiger Einfärbung — brauchen Sie keine SVG-Pfade, sondern echte Geokoordinaten. Wir haben TopoJSON-Dateien zusammengestellt, die aus Waiting’s taiwan-vue-components (MIT-Lizenz, 2018) extrahiert wurden.',
+    'taiwanShape.geo.intro2':
+      'TopoJSON ist eine komprimierte Variante von GeoJSON: Gemeinsame Grenzen benachbarter Landkreise und Städte werden nur einmal gespeichert, wodurch die Datei 80% kleiner ist. Mit topojson-client lässt sie sich in Echtzeit zurück in GeoJSON umwandeln.',
+    'taiwanShape.geo.formatHeading': 'TopoJSON vs GeoJSON — welches Format wählen?',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: kleine Dateien, gemeinsame Grenzen benachbarter Gebiete, ideal für interaktive Webkarten.',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: einfaches Format, direkt kompatibel mit Python geopandas, QGIS und den meisten GIS-Werkzeugen.',
+    'taiwanShape.geo.countryHeading': 'Landesweiter Umriss (22 Landkreise und Städte)',
+    'taiwanShape.geo.countryDesc':
+      'Eine etwa 21 KB große TopoJSON-Datei mit 22 Landkreisen und Städten einschließlich der regierungsunmittelbaren Städte, jeweils als eigenständiges Feature. Der Ausgangspunkt für Choroplethenkarten.',
+    'taiwanShape.geo.townsHeading': 'Gemeindedaten für alle 22 Landkreise und Städte',
+    'taiwanShape.geo.townsDesc':
+      'Wir haben TopoJSON-Dateien auf Gemeindeebene für alle 22 Landkreise und Städte zusammengestellt, die aus demselben Quell-Repo extrahiert wurden.',
+
+    'taiwanShape.codes.heading': '🧭 Referenztabelle der Verwaltungscodes',
+    'taiwanShape.codes.intro':
+      'Taiwans Verwaltungseinheiten sind numerisch codiert. Nachfolgend finden Sie die Referenztabelle der 22 Verwaltungseinheiten auf Landkreis- und Stadtebene (Namensschema der Dateien: `towns-{code}.json`).',
+    'taiwanShape.codes.codeCol': 'Code',
+    'taiwanShape.codes.nameCol': 'Verwaltungseinheit',
+    'taiwanShape.codes.typeCol': 'Typ',
+
+    'taiwanShape.examples.heading': '💻 Anwendungsbeispiele',
+    'taiwanShape.examples.htmlTitle': 'HTML — statische Einbettung',
+    'taiwanShape.examples.cssTitle': 'CSS — Hintergrundbild',
+    'taiwanShape.examples.d3Title': 'D3.js — interaktive Choroplethenkarte',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle': 'Leaflet — Overlay auf einer Kachelkarte',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 Weitere quelloffene Datenquellen',
+    'taiwanShape.others.intro':
+      'Falls Sie mehr benötigen als die hier zusammengestellten Daten — höhere Auflösung, andere Projektionen oder historische Verwaltungsgrenzen — empfehlen wir folgende Quellen:',
+
+    'taiwanShape.license.heading': '⚖️ Lizenzen und Quellen',
+    'taiwanShape.license.intro':
+      'Alle Dateien auf dieser Seite sind quelloffen. Nachfolgend finden Sie die vollständigen Angaben zu Quellen und Lizenzen:',
+
+    // Taiwan-shape ternary-fallback fix (2026-08-17)
+    'taiwanShape.geo.townsSourceNote':
+      'Alle 22 Landkreise und Städte sind oben enthalten. Die Daten der Gemeindegrenzen stammen aus ',
+    'taiwanShape.source.dataGovTw.desc':
+      'Offizielles staatliches Open-Data-Portal mit vom Innenministerium veröffentlichten Shapefiles der Verwaltungsgrenzen.',
+    'taiwanShape.source.naturalEarth.desc':
+      'Gemeinfreie globale Kartendaten in drei Maßstäben: 1:10m / 1:50m / 1:110m. Ideal für Weltkarten, die Taiwan zeigen.',
+    'taiwanShape.source.osm.desc':
+      'Von der OSM-Community bearbeitete Taiwan-Karte; OSM XML oder PBF können über die Overpass API und Geofabrik heruntergeladen werden.',
+    'taiwanShape.source.g0v.desc':
+      'Taiwans Civic-Tech-Community. Viele g0v-Projekte veröffentlichen aufbereitete Kartendaten und Visualisierungen als Open Source.',
+    'taiwanShape.source.gadm.desc':
+      'Globale Datenbank für Verwaltungsgebiete mit Taiwans Verwaltungsgrenzen der Ebenen 0-3 in den Formaten Shapefile / GeoPackage / KMZ / R.',
+    'taiwanShape.license.wikimedia.desc':
+      'Wikimedia Commons, Creative-Commons-Lizenz.',
+    'taiwanShape.license.simplemaps.desc':
+      'SimpleMaps, bei Quellenangabe kostenlos kommerziell nutzbar.',
+    'taiwanShape.license.extractedFromPrefix': 'Extrahiert aus ',
+    'taiwanShape.download.svg': 'SVG herunterladen',
+    'taiwanShape.download.topo': 'TopoJSON herunterladen',
+    'taiwanShape.download.all': 'Alle herunterladen (ZIP)',
+    'taiwanShape.copy.button': 'SVG kopieren',
+    'taiwanShape.copy.copied': '✓ Kopiert',
+  },
   'zh-TW': {
     'taiwanShape.svg.icon.desc':
       '簡潔的填色輪廓 — 適合做 icon、favicon、按鈕。',

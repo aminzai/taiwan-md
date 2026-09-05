@@ -236,6 +236,45 @@ export const notFoundUI = {
     'notfound.cat.economy': '📈 Экономика',
     'notfound.cat.society': '⚖️ Общество',
   },
+  de: {
+    'notfound.generic.title': 'Diese Seite existiert nicht',
+    'notfound.generic.desc':
+      'Möglicherweise ist der Link abgelaufen, der Artikel wurde verschoben oder die Adresse wurde falsch eingegeben.',
+    'notfound.untranslated.title':
+      'Dieser Artikel wurde noch nicht übersetzt',
+    'notfound.untranslated.desc.prefix': '„',
+    'notfound.untranslated.desc.suffix':
+      '“ ist noch nicht auf Deutsch verfügbar.',
+    'notfound.untranslated.view':
+      'Andere Sprachversionen ansehen:',
+    'notfound.untranslated.contribute': 'Möchten Sie bei der Übersetzung helfen?',
+    'notfound.back': '← Zur Startseite',
+    'notfound.search.placeholder': 'Taiwan.md durchsuchen…',
+    'notfound.search.label': 'Suchen',
+    'notfound.search.prompt':
+      'Suchen Sie nach dem gewünschten Inhalt:',
+    'notfound.explore':
+      'Oder erkunden Sie diese Themen:',
+    'notfound.bug.title': '🐛 Ist das ein Bug?',
+    'notfound.bug.desc':
+      'Wenn Sie meinen, dass diese Seite existieren sollte, melden Sie das Problem, damit wir es beheben können:',
+    'notfound.bug.btn':
+      '📋 Ungültigen Link melden (GitHub Issue)',
+    'notfound.lang.zhTW': 'Chinesisch',
+    'notfound.lang.en': 'English',
+    'notfound.lang.ja': 'Japanisch',
+    'notfound.lang.ko': '한국어',
+    'notfound.cat.history': '📜 Geschichte',
+    'notfound.cat.culture': '🎭 Kultur',
+    'notfound.cat.food': '🧋 Essen',
+    'notfound.cat.art': '🎨 Kunst',
+    'notfound.cat.music': '🎵 Musik',
+    'notfound.cat.technology': '💻 Technologie',
+    'notfound.cat.nature': '🌿 Natur',
+    'notfound.cat.people': '👥 Persönlichkeiten',
+    'notfound.cat.economy': '📈 Wirtschaft',
+    'notfound.cat.society': '⚖️ Gesellschaft',
+  },
   'zh-TW': {
     'notfound.generic.title': '\u9019\u500B\u9801\u9762\u4E0D\u5B58\u5728',
     'notfound.generic.desc':

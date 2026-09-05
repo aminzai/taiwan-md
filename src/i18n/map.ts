@@ -6865,6 +6865,680 @@ export const mapUI = {
     'map.markers.wangLeeOlympicGold.desc':
       'От одноклассников средней школы до олимпийских чемпионов: за 34 минуты «Лин-Ян» одержали победу над Китаем со счётом 2:0, став первой олимпийской золотой медалью в истории тайваньского бадминтона',
   },
+  de: {
+    // Meta
+    'map.meta.title': 'Taiwan-Karte Map',
+    'map.meta.description': 'Die inhaltlichen Zusammenhänge von Taiwan.md aus Kartenperspektive erkunden',
+
+    // Hero Section
+    'map.hero.kicker': 'Map View',
+    'map.hero.title': 'Taiwan-Karte',
+    'map.hero.subtitle': 'Taiwans Kultur, Küche, Natur und historische Schauplätze aus Kartenperspektive erkunden.',
+
+    // Controls - Region Filter
+    'map.controls.region.title': 'Nach Region filtern',
+    'map.controls.region.all': 'Alle',
+    'map.controls.region.north': 'Norden',
+    'map.controls.region.central': 'Zentralregion',
+    'map.controls.region.south': 'Süden',
+    'map.controls.region.east': 'Osten',
+    'map.controls.region.islands': 'Außeninseln',
+
+    // Controls - Category Filter
+    'map.controls.category.title': 'Nach Kategorie filtern',
+    'map.controls.category.all': 'Alle',
+    'map.controls.category.food': '🍜 Küche',
+    'map.controls.category.history': '📜 Geschichte',
+    'map.controls.category.nature': '🌿 Natur',
+    'map.controls.category.culture': '🎭 Kultur',
+    'map.controls.category.technology': '💻 Technologie',
+    'map.controls.category.economy': '📈 Wirtschaft',
+    'map.controls.category.lifestyle': '🏮 Alltagsleben',
+    'map.controls.category.art': '🎨 Kunst',
+    'map.controls.category.geography': '🗺️ Geografie',
+
+    // Route Section
+    'map.route.title': '🗺️ Kuratierte Routen',
+    'map.route.normal-mode': 'Normaler Modus',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 Artikel über Taiwan erkunden',
+    'map.sidebar.default.hint': 'Auf einen Landkreis, eine Stadt oder eine Markierung auf der Karte klicken, um Artikel zu erkunden',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ Auswahl aufheben',
+    'map.sidebar.county.articles-count': 'Artikel',
+    'map.sidebar.county.no-articles': 'Für diese Region sind noch keine Artikel verfügbar',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← Zurück',
+    'map.sidebar.article.read-more': 'Vollständigen Artikel lesen →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': 'zugehörige Artikel',
+    'map.tooltip.county.click': 'Klicken, um nach dieser Region zu filtern',
+    'map.tooltip.marker.reading-time': 'Minuten Lesezeit',
+
+    // Panel (for compatibility)
+    'map.panel.title': 'Taiwan-Wissenskarte',
+    'map.panel.stat.points': 'Wissenspunkte',
+    'map.panel.stat.categories': 'Kategorien',
+    'map.panel.category-distribution': 'Kategorienverteilung',
+    'map.panel.link.graph': '🕸️ Wissensgraph',
+    'map.panel.link.home': '🏠 Kategorienübersicht',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 Geschichte',
+    'map.category.geography': '🗺️ Geografie',
+    'map.category.culture': '🎭 Kultur',
+    'map.category.food': '🍜 Küche',
+    'map.category.art': '🎨 Kunst',
+    'map.category.music': '🎵 Musik',
+    'map.category.technology': '💻 Technologie',
+    'map.category.nature': '🌿 Natur',
+    'map.category.people': '👥 Persönlichkeiten',
+    'map.category.society': '⚖️ Gesellschaft',
+    'map.category.economy': '📈 Wirtschaft',
+    'map.category.lifestyle': '🏮 Alltagsleben',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯und weitere',
+    'map.sidebar.more-articles-suffix': 'Artikel',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 Tour durch die Nachtmärkte',
+    'map.routes.nightMarkets.description': 'Von Norden nach Süden: Taiwans prägendste Nachtmarktkultur',
+    'map.routes.nationalParks.name': '🏔️ Tour durch die Nationalparks',
+    'map.routes.nationalParks.description':
+      'Von 3,952 Meter hohen Bergen bis zu tropischen Korallenriffen: Taiwans Naturwunder',
+    'map.routes.historyTrail.name': '📜 Historische Spuren',
+    'map.routes.historyTrail.description': 'Von der niederländischen Kolonialzeit bis zur Demokratisierung: vierhundert Jahre Taiwan',
+    'map.routes.oldStreets.name': '🏮 Spaziergang durch historische Straßen',
+    'map.routes.oldStreets.description': 'Taiwans Erinnerungen in jahrhundertealten Straßen, wo Architektur Geschichte erzählt',
+
+    'map.routes.counties22.name': '📍 Hintergrundartikel zu 22 Landkreisen und Städten',
+    'map.routes.counties22.description':
+      '22 Hintergrundartikel von Taiwan.md über alle Landkreise und Städte – vom Pilotartikel zu Keelung bis zum Finale über Neu-Taipeh: für jeden Ort ein zentraler Widerspruch.',
+    'map.counties22.panel.title': '📍 Hintergrundartikel zu 22 Landkreisen und Städten',
+    'map.counties22.panel.hint': 'Eine Ortskarte anklicken oder einen Ort auf der Karte auswählen',
+    'map.counties22.tooltip.openDeep': 'Klicken, um den Hintergrundartikel zu öffnen',
+    'map.counties22.deepCard.badge': '📖 Reihe zu 22 Landkreisen und Städten · Hintergrundartikel',
+    'map.counties22.deepCard.cta': 'Vollständigen Artikel lesen →',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': 'Shilin-Nachtmarkt',
+    'map.stops.shilinNightMarket.note': 'Taiwans größter touristischer Nachtmarkt und Ursprungsort des mit kleinem Fladen gefüllten Fladens',
+    'map.stops.raoheNightMarket.name': 'Raohe-Nachtmarkt',
+    'map.stops.raoheNightMarket.note': 'Pilgerstätte für Pfefferbrötchen und lokaler Favorit der Menschen in Taipeh',
+    'map.stops.ningxiaNightMarket.name': 'Ningxia-Nachtmarkt',
+    'map.stops.ningxiaNightMarket.note': 'Höchste Imbissdichte und von Michelin empfohlene Straße mit bodenständiger Küche',
+    'map.stops.fengjiaNightMarket.name': 'Fengjia-Nachtmarkt',
+    'map.stops.fengjiaNightMarket.note': 'Experimentierfeld für kreative Snacks und Vorreiter der Innovation auf Taiwans Nachtmärkten',
+    'map.stops.huayuanNightMarket.name': 'Huayuan-Nachtmarkt',
+    'map.stops.huayuanNightMarket.note': 'Tainans größter Nachtmarkt – ein Spektakel, das nur an drei Tagen pro Woche stattfindet',
+    'map.stops.liuheNightMarket.name': 'Liuhe-Nachtmarkt',
+    'map.stops.liuheNightMarket.note': 'Kaohsiungs berühmter Nachtmarkt, auf dem Meeresfrüchte im Mittelpunkt stehen',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name': 'Yangmingshan-Nationalpark',
+    'map.stops.yangmingshanNationalPark.note': 'Taipehs Naherholungsgebiet mit Vulkanlandschaften und verborgenen heißen Quellen',
+    'map.stops.tarokoNationalPark.name': 'Taroko-Nationalpark',
+    'map.stops.tarokoNationalPark.note': 'Eine Marmorschlucht und ein geologisches Naturwunder von Weltrang',
+    'map.stops.yushanNationalPark.name': 'Yushan-Nationalpark',
+    'map.stops.yushanNationalPark.note': 'Der höchste Gipfel Nordostasiens (3,952m) und das Dach Taiwans',
+    'map.stops.alishanScenicArea.name': 'Nationales Landschaftsgebiet Alishan',
+    'map.stops.alishanScenicArea.note': 'Sonnenaufgang über dem Wolkenmeer, Baumriesen und Waldeisenbahn',
+    'map.stops.sunMoonLakeScenicArea.name': 'Nationales Landschaftsgebiet Sonne-Mond-See',
+    'map.stops.sunMoonLakeScenicArea.note': 'Taiwans größter natürlicher See und heiliger See der Thao',
+    'map.stops.kentingNationalPark.name': 'Kenting-Nationalpark',
+    'map.stops.kentingNationalPark.note': 'Taiwans äußerster Süden mit tropischen Korallenriffen und der Hengchun-Halbinsel',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': 'Fort Zeelandia',
+    'map.stops.anpingFort.note': '1624 von den Niederländern erbaut, Taiwans älteste Festung',
+    'map.stops.chikanTower.name': 'Chihkan-Turm',
+    'map.stops.chikanTower.note': 'Vom niederländischen Fort Provintia zum Herrschaftssymbol von Koxinga',
+    'map.stops.lukang.name': 'Lukang',
+    'map.stops.lukang.note': 'Taiwans zweitgrößte Stadt unter der Qing-Dynastie: „Tainan zuerst, Lukang zweitens, Monga drittens“',
+    'map.stops.presidentialOffice.name': 'Präsidentenpalast (ehemaliges Generalgouverneursamt von Taiwan)',
+    'map.stops.presidentialOffice.note': '1919 fertiggestellt, oberstes Machtzentrum während der japanischen Herrschaft',
+    'map.stops.chiangKaiShekMemorialHall.name': 'Chiang-Kai-shek-Gedächtnishalle',
+    'map.stops.chiangKaiShekMemorialHall.note': 'Symbol der autoritären Herrschaft und Brennpunkt der Debatte über Übergangsjustiz',
+    'map.stops.legislativeYuan.name': 'Legislativ-Yuan (Sonnenblumen-Bewegung)',
+    'map.stops.legislativeYuan.note': 'Schauplatz der Sonnenblumen-Studentenbewegung von 2014 und Meilenstein der taiwanischen Demokratie',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': 'Dihua-Straße',
+    'map.stops.dihuaStreet.note': 'Das Herz von Dadaocheng, bekannt für Lebensmittel aus Nord und Süd sowie den Neujahrsmarkt',
+    'map.stops.jiufenOldStreet.name': 'Altstadtstraße von Jiufen',
+    'map.stops.jiufenOldStreet.note': 'Erinnerungen an die goldene Ära des Bergbaus und Inspirationsquelle für Chihiros Reise ins Zauberland',
+    'map.stops.lukangOldStreet.name': 'Altstadtstraße von Lukang',
+    'map.stops.lukangOldStreet.note': 'Ein lebendiges Museum aus historischen Backsteinhäusern und traditionellem Handwerk',
+    'map.stops.anpingOldStreet.name': 'Altstadtstraße von Anping',
+    'map.stops.anpingOldStreet.note': 'Taiwans erste Straße, geprägt von vierhundert Jahren Geschichte',
+    'map.stops.qishanOldStreet.name': 'Altstadtstraße von Qishan',
+    'map.stops.qishanOldStreet.note': 'Barockes Architekturensemble aus dem Königreich der Bananen',
+    'map.stops.tamsuiOldStreet.name': 'Altstadtstraße von Tamsui',
+    'map.stops.tamsuiOldStreet.note': 'Sonnenuntergänge, A-gei und historisches Flair an der Mündung des Tamsui-Flusses',
+
+    // Cities
+    'map.city.taipei': 'Taipeh',
+    'map.city.newTaipei': 'Neu-Taipeh',
+    'map.city.keelung': 'Keelung',
+    'map.city.taoyuan': 'Taoyuan',
+    'map.city.hsinchu': 'Hsinchu',
+    'map.city.miaoli': 'Miaoli',
+    'map.city.taichung': 'Taichung',
+    'map.city.changhua': 'Changhua',
+    'map.city.nantou': 'Nantou',
+    'map.city.chiayi': 'Chiayi',
+    'map.city.tainan': 'Tainan',
+    'map.city.kaohsiung': 'Kaohsiung',
+    'map.city.pingtung': 'Pingtung',
+    'map.city.yilan': 'Yilan',
+    'map.city.hualien': 'Hualien',
+    'map.city.taitung': 'Taitung',
+    'map.city.penghu': 'Penghu',
+    'map.city.kinmen': 'Kinmen',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': 'Gründer — 吳哲宇 Che-Yu Wu',
+    'map.markers.founderCheYuWu.desc':
+      'Vom Programmcode zur Poesie: der internationale Durchbruch eines taiwanischen Künstlers',
+    'map.markers.taiwanIndigenousContemporaryArt.title': 'Zeitgenössische indigene Kunst Taiwans',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      'Vom traditionellen Handwerk bis zur zeitgenössischen Kunst: Wie indigene Kunstschaffende Taiwans auf der globalen Kunstbühne ihre Stimme erheben und den Dialog zwischen indigener Identität und zeitgenössischer Kunst neu bestimmen',
+    'map.markers.taiwanExperimentalNewMediaArt.title': 'Experimentelle Kunst und Medienkunst aus Taiwan',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      'Von Videokunst bis zu interaktiver VR: die innovative Entwicklung der taiwanischen Medienkunst und ihres Kunst-und-Technologie-Ökosystems',
+    'map.markers.taiwanArchitecture.title': 'Taiwanische Architektur',
+    'map.markers.taiwanArchitecture.desc':
+      'Vom Schieferhaus bis zum Wolkenkratzer: eine architektonische Zeitreise über eine Insel',
+    'map.markers.taiwanNewMediaArt.title': 'Taiwanische Medienkunst',
+    'map.markers.taiwanNewMediaArt.desc': 'Taiwans Kultur und Geschichten entdecken',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      'Ein Jahrhundert taiwanischer Aquarellmalerei',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      'Von der wegweisenden Arbeit Ishikawa Kinichirōs während der japanischen Herrschaft bis zum internationalen Erfolg des zeitgenössischen Künstlers Chien Chung-wei: In einem Jahrhundert entwickelte sich Taiwan zu einem der lebendigsten Zentren der Aquarellkunst in Asien.',
+    'map.markers.taiwanModernPoetry.title': 'Moderne taiwanische Lyrik',
+    'map.markers.taiwanModernPoetry.desc':
+      'Wie modernistische Experimente aus drei Studierzimmern unerwartet eine Revolution der heimatverbundenen Lyrik auslösten',
+    'map.markers.taiwanContemporarySculpture.title': 'Entwicklung der zeitgenössischen Bildhauerei Taiwans',
+    'map.markers.taiwanContemporarySculpture.desc':
+      'Von Yuyu Yang und Ju Ming bis zur neuen Generation: Entwicklungslinien und schöpferischer Geist der taiwanischen Bildhauerei',
+    'map.markers.taiwanCuratorsArtCulture.title': 'Taiwanische Kuratoren und der Aufbau der Kunstkultur',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      'Von unabhängiger Kuration bis zum Museumssystem: Wie taiwanische Kuratoren den kulturellen Diskurs und internationalen Dialog der zeitgenössischen Kunst gestalten',
+    'map.markers.newMediaArt.title': 'Medienkunst',
+    'map.markers.newMediaArt.desc':
+      'Taiwans wegweisende Erkundung der digitalen Kunst: die Verbindung von Technologie und Geisteswissenschaften, vom Labor bis zur internationalen Bühne',
+    'map.markers.contemporaryTaiwanLiterature.title': 'Zeitgenössische taiwanische Literatur',
+    'map.markers.contemporaryTaiwanLiterature.desc': 'Taiwans Kultur und Geschichten entdecken',
+    'map.markers.taiwanContemporaryArt.title': 'Zeitgenössische Kunst Taiwans',
+    'map.markers.taiwanContemporaryArt.desc':
+      'Vom Taipei Fine Arts Museum bis zum Taiwan-Pavillon der Biennale von Venedig: die besondere Stellung der zeitgenössischen Kunst Taiwans auf der Weltbühne',
+    'map.markers.kinmenGuesthouseMuseum.title': 'ALIEN Art Centre',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      'Eine Militärherberge aus dem Kalten Krieg, die Abschied und Wiedersehen erlebte, nach zwanzig Jahren Schlaf von einem Vater und seiner Tochter wiedererweckt wurde und heute von Lonely Planet als erste Adresse für Kunst in Kaohsiung empfohlen wird.',
+    'map.markers.renjianMagazine.title': 'Ren-Jian Magazine',
+    'map.markers.renjianMagazine.desc':
+      '47 Ausgaben, vier Jahre, eine stille Revolution mit Fotografie und Text — der Ausgangspunkt der taiwanischen Reportageliteratur',
+    'map.markers.taiwanIndigenousCulture.title': 'Indigene Kulturen Taiwans',
+    'map.markers.taiwanIndigenousCulture.desc':
+      'Von den vielfältigen Traditionen der sechzehn anerkannten Völker bis zur zeitgenössischen Wiederbelebung durch die Kunst: die tiefen Wurzeln und moderne Transformation der indigenen Kulturen Taiwans',
+    'map.markers.taiwan16IndigenousTribes.title': 'Kulturkarte der 16 indigenen Völker Taiwans',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      'Verbreitungsgebiete, Sprachsysteme, bedeutende Feste und die Entwicklung zeitgenössischer Kunst der 16 indigenen Völker Taiwans entdecken und ihre kulturelle Vielfalt kennenlernen',
+    'map.markers.taiwanNightMarketCulture.title': 'Taiwans Nachtmarktkultur und Imbissvielfalt',
+    'map.markers.taiwanNightMarketCulture.desc':
+      'Eine vertiefte Erkundung der Entstehung und besonderen Faszination taiwanischer Nachtmärkte sowie der Geschichte und kulturellen Bedeutung ihrer typischen Imbissgerichte',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      'Taiwan Sensibility: taiwanische Ästhetik aus koreanischer Sicht',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'Von K-pop MV bis zur Buchmesse in Seoul: Wie „대만감성“ Taiwans alltägliche Straßenszenen zu einem der faszinierendsten ästhetischen Symbole Asiens macht',
+    'map.markers.taiwanCulturalCreativeParks.title': 'Entwicklung der Kultur- und Kreativparks Taiwans',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      'Von der Revitalisierung alter Gebäude bis zu Kreativquartieren: Entwicklung und innovative Modelle der Kultur- und Kreativparks Taiwans',
+    'map.markers.taiwanOldStreetCulture.title': 'Taiwans historische Straßen und Geschäftsviertel',
+    'map.markers.taiwanOldStreetCulture.desc':
+      'Vom florierenden Hafenhandel der Qing-Dynastie bis zu barocken Häusern aus der japanischen Herrschaft: Taiwans historische Straßen erzählen eine in Ziegel und Stein geschriebene Alltagsgeschichte',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title': 'Taiwanische Teekultur und Ästhetik des Alltags',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      'Von Gongfu-Tee bis zur Ästhetik des Teetischs: Wie Taiwan östliche Teekultur mit lokaler Lebensästhetik verbindet und weiterentwickelt',
+    'map.markers.taiwanStreetArtGraffiti.title': 'Street-Art- und Graffiti-Kultur in Taiwan',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      'Von illegalen Graffiti bis zu legalen Wandmalereien: Wie städtische Wände zur kreativen Bühne für Taiwans Kunstschaffende werden',
+    'map.markers.taiwanIncenseMakingCulture.title': 'Taiwans Räucherstäbchen-Kultur und die Heimat der Räucherstäbchenstäbe',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      'Von der hundertjährigen Kunst der Räucherstäbchenstäbe in der Gemeinde Yunxiao in Chiayi bis zur landesweit verbreiteten Räucherstäbchenindustrie Taiwans — ein altes Gewerbe, geprägt von Frömmigkeit, Handwerkskunst und Beharrlichkeit',
+    'map.markers.taiwanHomophoneTaboos.title':
+      'Homophone Tabus in Taiwan: Warum lässt die Zahl „vier“ eine ganze Gesellschaft Stockwerke überspringen?',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      'Von Krankenhäusern ohne vierten Stock bis zu Rekordpreisen für das Kennzeichen 8888: Taiwans Sensibilität für gleichklingende Wörter sucht weltweit ihresgleichen',
+    'map.markers.hakkaCultureLanguage.title': 'Kultur und Sprache der Hakka',
+    'map.markers.hakkaCultureLanguage.desc':
+      'Der Geist unbeugsamer Beharrlichkeit und der Tag, an dem der Himmel geflickt wird: kulturelle Überlieferung und moderne Wiederbelebung der Hakka in Taiwan',
+    'map.markers.ethnicGroupsTaiwan.title': 'Bevölkerungsgruppen (Hoklo, Hakka, Indigene, Waishengren und neue Zugewanderte)',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      'Taiwans ethnische Vielfalt ist nicht nur das Ergebnis seiner historischen Entwicklung, sondern auch ein Schlüssel zum Verständnis der heutigen taiwanischen Gesellschaft. Diese Gesellschaftsstruktur des vielfältigen Zusammenlebens ist sowohl eine Quelle der kulturellen Kreativität Taiwans als auch eine wichtige Grundlage für die Entwicklung seiner Demokratie. Eine gemeinsame taiwanische Identität zu schaffen und zugleich die kulturellen Besonderheiten aller Bevölkerungsgruppen zu achten, bleibt eine zentrale Aufgabe für Taiwans Gesellschaft.',
+    'map.markers.chinaSteel.title': 'China Steel: Der „eiserne Minister“ und die Stahllegende der zehn großen Infrastrukturprojekte',
+    'map.markers.chinaSteel.desc':
+      'Von Chao Yao-tungs geschicktem Technologieerwerb bei Verhandlungen in Europa und den USA bis zur ersten weißen Rauchfahne über Xiaogang in Kaohsiung: In 50 Jahren schuf China Steel das Rückgrat der taiwanischen Schwerindustrie und wurde zum erfolgreichsten Juwel der zehn großen Infrastrukturprojekte',
+    'map.markers.taiwanCement.title': 'Taiwan Cement: Die grüne Transformation von Taiwans erstem börsennotierten Unternehmen',
+    'map.markers.taiwanCement.desc':
+      '1962 entstand Taiwans Börse eigens für dieses Unternehmen; der Börsencode 1101 symbolisiert den Ursprung des taiwanischen Aktienmarkts. Unter drei Generationen der Familie Koo und nach 76 Jahren Geschäftstätigkeit bezeugen die Zementöfen von Taiwan Cement Taiwans Bauwunder. Heute wandelt sich das Unternehmen zu einem grünen Konzern für das Zeitalter der Klimaneutralität',
+    'map.markers.tsmc.title': 'Taiwanisches Unternehmen: TSMC',
+    'map.markers.tsmc.desc': 'Weltmarktführer in der Auftragsfertigung von Halbleitern und entscheidende Lebensader der digitalen Zivilisation',
+    'map.markers.chimeiCorporation.title':
+      'Chi Mei Corporation: Hsu Wen-lungs Acrylimperium und sein Museumstraum',
+    'map.markers.chimeiCorporation.desc':
+      'Ausgehend von einer kleinen Fabrik in Rende, Tainan, schuf Hsu Wen-lung ab 1960 in einem Lebenswerk Asiens größtes ABS-Materialienimperium und gründete zudem das Chimei Museum, um der Gesellschaft etwas zurückzugeben. Ein Beleg dafür, dass taiwanische Unternehmen wirtschaftlichen Erfolg mit humanistischem Engagement verbinden können',
+    'map.markers.acer.title': 'Acer Group (Acer) - Wegbereiter des Wandels in der PC-Branche',
+    'map.markers.acer.desc':
+      'Der aus Taoyuan in Taiwan stammende PC-Pionier entwickelte das Geschäftsmodell „mehrere Marken, mehrere Vertriebskanäle“ und wurde zu einem Motor des Wandels in der weltweiten PC-Branche',
+    'map.markers.giantBicycles.title': 'Taiwanisches Unternehmen: Giant Manufacturing',
+    'map.markers.giantBicycles.desc':
+      'Vom abhängigen Auftragsfertiger, den ein großer US-Konzern fallen ließ, zum verborgenen Imperium, das weltweite technische Standards für Fahrräder setzt',
+    'map.markers.quantaComputer.title': 'Taiwanisches Unternehmen: Quanta Computer',
+    'map.markers.quantaComputer.desc':
+      'Vom Fabrikbrand zum weltgrößten Notebookhersteller: Wie Barry Lam ein neues Imperium für das KI-Zeitalter errichtete',
+    'map.markers.aseGroup.title': 'Taiwanisches Unternehmen: ASE Semiconductor',
+    'map.markers.aseGroup.desc':
+      'Der weltweit größte Anbieter für Halbleitermontage und -tests: Warum wechselte ein Bauunternehmer in die Halbleiterbranche?',
+    'map.markers.esunFinancialHolding.title': 'Taiwanisches Unternehmen: E.Sun Financial Holding',
+    'map.markers.esunFinancialHolding.desc':
+      'Von einer auf Kreditkarten spezialisierten Bank zum Vorreiter des digitalen Finanzwesens: die Erfolgsgeschichte des mit 43 Jahren jüngsten Geschäftsführers einer Finanzholding',
+    'map.markers.changChunPetrochemical.title': 'Taiwanisches Unternehmen: Chang Chun Petrochemical',
+    'map.markers.changChunPetrochemical.desc':
+      'Von einer kleinen Fabrik im Tainan des Jahres 1949 zum weltweiten Chemiekonzern: die Geschichte eines verborgenen Champions nach dem Grundsatz „kein Börsengang, keine Kredite“',
+    'map.markers.formosaPlasticsGroup.title': 'Taiwanisches Unternehmen: Evergreen Marine',
+    'map.markers.formosaPlasticsGroup.desc':
+      'Von einem gebrauchten Schiff zum weltweiten Schifffahrtsimperium: Chang Yung-fas Blue-Ocean-Legende',
+    'map.markers.taipeiFubon.title': 'Ökonomie der Nachtmärkte: ein Geschäftswunder ohne Marken',
+    'map.markers.taipeiFubon.desc':
+      'Wie Taiwans Nachtmärkte ohne Marken, Ladenausstattung oder feste Standorte ein Wirtschaftswunder mit einem jährlichen Produktionswert von fast 4000億 schaffen',
+    'map.markers.taiwan7Eleven.title': 'Taiwans Kaffeeindustrie',
+    'map.markers.taiwan7Eleven.desc':
+      'Von den Anfängen des Anbaus während der japanischen Kolonialzeit bis zum Weltmeister Simple Kaffa: hundert Jahre Entwicklung des taiwanischen Kaffees',
+    'map.markers.taiwanHighSpeedRail.title': 'Karte regionaler Spezialitäten Taiwans',
+    'map.markers.taiwanHighSpeedRail.desc':
+      'Von Dingbianhu am Tempelmarkt von Keelung bis zu Schweinshaxen aus Wanluan in Pingtung, von Fleischbällchen aus Hsinchu bis zu Zimtäpfeln aus Taitung: Jede Stadt besitzt ihre eigene kulinarische DNA. Auf den Spuren der Einheimischen geht es zu den typischsten regionalen Spezialitäten der 22 Städte und Landkreise Taiwans — und zur authentischen Alltagskultur der Insel.',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      'Taiwans traditionelle Festgerichte: Geschmackserinnerungen, die zu verschwinden drohen',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      'Von Minzhhähnchen aus Chiayi bis zur Suppe aus Festtagsresten: Großmutters Spezialitäten bewahren Familienerinnerungen, doch im Wandel der Zeit geht dieses Wissen allmählich verloren',
+    'map.markers.taiwanBankingSystem.title': 'Kulinarische Fusion der neuen Zugewanderten in Taiwan',
+    'map.markers.taiwanBankingSystem.desc':
+      'Wenn thailändische Säure und Schärfe auf Taiwans süß-salzige Aromen treffen, vietnamesische Pho taiwanische Luwei begegnet und indonesische Gewürze heimische Zutaten umarmen, vollzieht sich in Taiwan still eine kulinarische Revolution über Landesgrenzen hinweg. Die neuen Zugewanderten bringen nicht nur die Küche ihrer Heimat mit, sondern eröffnen auch völlig neue Möglichkeiten für Taiwans Esskultur.',
+    'map.markers.taiwanSmes.title': 'Taiwan, das Königreich der Früchte',
+    'map.markers.taiwanSmes.desc':
+      'Von Mangos und Litschis bis zu Zimtäpfeln und Javaäpfeln: eine süße Erfolgsgeschichte tropischer Vielfalt und landwirtschaftlicher Innovation',
+    'map.markers.youbikePublicBikeSystem.title': 'Taiwans Meeresfrüchtekultur',
+    'map.markers.youbikePublicBikeSystem.desc':
+      'Fangfrische Lieferungen aus den Fischereihäfen, die Kultur der Meeresfrüchterestaurants und Gerichte wie Austernomeletts zeigen den Inselcharakter des ringsum vom Meer umgebenen Taiwan und seine reiche kulinarische Tradition mit Meeresfrüchten',
+    'map.markers.taiwanFoodBeverageIndustry.title': 'Michelin und gehobene Gastronomie in Taiwan',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      '2018 erschien auf dem roten Umschlag des Guide Michelin erstmals der Schriftzug „TAIPEI“ — ein Zeichen dafür, dass Taiwans Gastronomie offiziell Teil des internationalen Bewertungssystems geworden war. Vom Straßenstand bis zum Sternerestaurant, von Alltagsgerichten bis zur Haute Cuisine präsentiert Taiwans Esskultur auf der internationalen Bühne eine faszinierende Verbindung von Tradition und Innovation.',
+    'map.markers.taiwanAgriculturalReform.title': 'Nachtmarktkultur',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164 registrierte Nachtmärkte, in Tainan durchschnittlich ein Nachtmarkt je 3.8萬 Einwohner: vom Tempelvorplatz zur internationalen Touristenattraktion',
+    'map.markers.taiwanTeaIndustry.title': 'Esskultur der Hakka',
+    'map.markers.taiwanTeaIndustry.desc':
+      'Die reiche und vielfältige Esskultur der Hakka reicht vom vollmundigen Aroma des Lei Cha bis zum Waldduft der in Blätter gewickelten Wildingwer-Reisklößchen und zeigt ihre Lebensklugheit: sparsam haushalten und nutzen, was vor Ort verfügbar ist',
+    'map.markers.taiwanFishingIndustry.title': 'Rindfleischnudelsuppe',
+    'map.markers.taiwanFishingIndustry.desc':
+      'Von der Sehnsucht der vom chinesischen Festland Zugewanderten zum taiwanischen Nationalgericht: kulturelle Verschmelzung und weltweite Verbreitung der Rindfleischnudelsuppe',
+    'map.markers.taiwanFruitIndustry.title': 'Teekultur',
+    'map.markers.taiwanFruitIndustry.desc':
+      'Die Entwicklung der taiwanischen Teekultur von der traditionellen Teekunst bis zu modernen handgeschüttelten Getränken zeigt die einzigartigen Teesorten und Trinkgewohnheiten der Insel',
+    'map.markers.taiwanRiceVarieties.title':
+      'Auf einer schwankenden Insel bauten sie einen Turm, der fliegen kann',
+    'map.markers.taiwanRiceVarieties.desc':
+      'Nur 200 Meter von einer aktiven Verwerfung entfernt bestanden die Menschen in Taiwan darauf, auf denkbar instabilem Boden das höchste Gebäude der Welt zu errichten — und dann kletterte ein Verrückter in 91 Minuten mit bloßen Händen hinauf.',
+    'map.markers.nightMarketCulture.title':
+      'Taiwans fünf große Landschaftsformen und seine geografische Struktur: Inselwelten von Gebirgen bis zu Ebenen',
+    'map.markers.nightMarketCulture.desc':
+      'Taiwans einzigartige geografische Struktur entdecken: vom Zentralgebirge bis zu den westlichen Ebenen und zur landschaftlichen Vielfalt dieser Insel',
+    'map.markers.bubbleTeaGlobalPhenomenon.title': 'Taiwans Verkehrsnetz',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      'Hochgeschwindigkeitsbahn, Metro, Straßen und Luftverkehr verweben Taiwan zu einem dreidimensionalen Verkehrsnetz',
+    'map.markers.taiwanBeefNoodle.title': 'Taiwans System nationaler Landschaftsschutzgebiete',
+    'map.markers.taiwanBeefNoodle.desc':
+      'Von der Nordostküste bis Kenting präsentieren Taiwans 13 nationale Landschaftsschutzgebiete vielfältige Natur- und Kulturlandschaften',
+    'map.markers.taiwanHotPotCulture.title': 'Geografische Besonderheiten und Entstehung der Insel Taiwan',
+    'map.markers.taiwanHotPotCulture.desc':
+      'Eine Erkundung der einzigartigen Inselgeografie Taiwans – von der Plattentektonik bis zur Geländeformation – und der Naturgeheimnisse der Insel Formosa',
+    'map.markers.taiwanFineDining.title': 'Plattentektonik und Erdbebenaktivität in Taiwan',
+    'map.markers.taiwanFineDining.desc':
+      'Eine Untersuchung der geologischen Besonderheiten Taiwans an der Grenze zwischen der Eurasischen und der Philippinischen Platte sowie der Ursachen häufiger Erdbeben',
+    'map.markers.taiwanStreetFood.title': 'Stauseen und Wasserressourcenmanagement in Taiwan',
+    'map.markers.taiwanStreetFood.desc':
+      'Von Wasserknappheit bis zur Versandung der Stauseen: Taiwans Herausforderungen bei den Wasserressourcen und das Gefälle zwischen Nord und Süd',
+    'map.markers.taiwanVegetarianCulture.title':
+      'Taiwans Flusssysteme und hydrologische Besonderheiten: kurze, reißende Flüsse und jahreszeitlicher Wandel',
+    'map.markers.taiwanVegetarianCulture.desc':
+      'Eine Erkundung der einzigartigen Flusssysteme Taiwans, vom Zhuoshui bis zum Gaoping, und der Frage, wie die Inseltopografie Taiwans hydrologische Besonderheiten prägt',
+    'map.markers.taiwanCoffeeCulture.title': 'Taiwans Küstenformen und Meereslandschaften',
+    'map.markers.taiwanCoffeeCulture.desc':
+      'Von den Buchten und Kaps im Norden bis zu den Verwerfungsküsten im Osten: Taiwans vielfältige Küstenformen zeigen die eindrucksvolle Gestaltungskraft der Plattentektonik',
+    'map.markers.taiwanSnackCulture.title': 'Taiwans Thermalquellenlandschaften',
+    'map.markers.taiwanSnackCulture.desc':
+      'Beitou, Zhiben und Jiaoxi: eine faszinierende Begegnung von Thermalquellenkultur und Geologie',
+    'map.markers.taiwanSeafoodCulture.title': 'Taiwan als Hotspot der biologischen Vielfalt',
+    'map.markers.taiwanSeafoodCulture.desc':
+      'Auf einer Insel von 3.6 萬 Quadratkilometern leben 5.9 萬 Arten – ihre Dichte ist 100-mal so hoch wie der weltweite Durchschnitt',
+    'map.markers.taiwanPineappleCake.title': 'Agrarlandschaften und räumliche Verteilung der Landwirtschaft in Taiwan',
+    'map.markers.taiwanPineappleCake.desc':
+      'Der Wandel der Agrarlandschaften von Nord nach Süd verdeutlicht Taiwans Weg von der „Kornkammer Taiwans“ zur „hochwertigen Landwirtschaft“',
+    'map.markers.taiwanPorkRibSoup.title': 'Stadtentwicklung und Stadt-Land-Gefälle in Taiwan',
+    'map.markers.taiwanPorkRibSoup.desc':
+      'Taiwans ungleiche Stadt-Land-Entwicklung im Gefüge der sechs regierungsunmittelbaren Städte und der räumliche Wandel vom landwirtschaftlich geprägten zum urbanen Taiwan',
+    'map.markers.taiwanOysterOmelette.title': 'Topografie und Geologie',
+    'map.markers.taiwanOysterOmelette.desc':
+      'Eine 600萬 Jahre alte Insel birgt 2億 Jahre alte Erinnerungen – ein Wunder des jüngsten Gebirgsgürtels der Welt und einer der heftigsten Plattenkollisionen',
+    'map.markers.taiwanBreakfastCulture.title': 'Städtische Besonderheiten und regionale Kulturen',
+    'map.markers.taiwanBreakfastCulture.desc':
+      'Von der internationalen Metropole Taipei bis zum historischen Flair Tainans: Wie Taiwans Städte jeweils eine eigene lokale Identität formen',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      'Vorgelagerte Inseln und maritime Kultur: von der weltweit höchsten Dichte an Steinwehrfischereien bis zum ökologischen Recht der Fliegende-Fische-Saison',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      'Weltweit gibt es weniger als 600 Steinwehrfischereien, davon 574 allein auf Penghu. Ein Inselvolk, das gezielt Fliegende Fische fängt, verwandelte Tabus in ein hochpräzises System zur Bewirtschaftung mariner Ressourcen',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      'Der Zwischenfall vom 28. Februar und der Weiße Terror: Trauma und Erinnerung unter Taiwans autoritärer Herrschaft',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      'Vom Zwischenfall vom 28. Februar 1947 bis zum 38 Jahre währenden Kriegsrecht erlebte Taiwan staatliche Gewalt unter autoritärer Herrschaft. Erst nach dessen Aufhebung begann die Aufarbeitung historischer Traumata und die Förderung der Übergangsjustiz.',
+    'map.markers.zhengDynastyPeriod.title': 'Krisen in der Taiwanstraße und Entwicklung der Beziehungen zwischen Taiwan und China',
+    'map.markers.zhengDynastyPeriod.desc':
+      'Ein Rückblick auf die drei großen Krisen in der Taiwanstraße und die über siebzigjährige Entwicklung der Beziehungen zwischen Taiwan und China, um den historischen Kontext und die heutigen Herausforderungen zu verstehen',
+    'map.markers.qingDynastyTaiwanHistory.title': 'Geschichte des taiwanischen Seehandels',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      'Taiwan im Zeitalter der Entdeckungen: die wechselvolle Geschichte vom internationalen Handelszentrum zum Piratenkönigreich',
+    'map.markers.japaneseColonialRule.title': 'Geschichte der Militärsiedlungen in Taiwan',
+    'map.markers.japaneseColonialRule.desc':
+      'Von den versprengten Truppen aus Myanmar bis zum Reich hinter Bambuszäunen: Wie eine Massenmigration von 120萬 Menschen den Begriff „Heimat“ neu definierte',
+    'map.markers.februaryTwentyEightIncident.title': 'Geschichte der Eisenbahn in Taiwan',
+    'map.markers.februaryTwentyEightIncident.desc':
+      'Von Liu Mingchuan unter der Qing-Dynastie über die Nord-Süd-Bahn unter japanischer Herrschaft bis zur Hochgeschwindigkeitsbahn: Wie die Eisenbahn Taiwans Stadtentwicklung und kulturelles Gedächtnis prägte',
+    'map.markers.martialLawPeriod.title': 'Übersiedlung der Nationalregierung nach Taiwan und Wiederaufbau nach dem Krieg',
+    'map.markers.martialLawPeriod.desc':
+      'Eine Untersuchung der historischen Hintergründe, des Ablaufs und der Folgen der Übersiedlung der Nationalregierung nach Taiwan im Jahr 1949 sowie des politischen, wirtschaftlichen und gesellschaftlichen Wiederaufbaus Taiwans nach dem Krieg',
+    'map.markers.democratization.title': 'Zeit der japanischen Herrschaft',
+    'map.markers.democratization.desc':
+      'Von 1895-1945 herrschte Japan 50 Jahre lang über Taiwan, führte eine umfassende Modernisierung und institutionalisierte Verwaltung ein, betrieb zugleich jedoch Assimilationspolitik und prägte Taiwans gesellschaftliche Entwicklung tiefgreifend',
+    'map.markers.taiwanIndependenceMovement.title': 'Zeit der Qing-Herrschaft',
+    'map.markers.taiwanIndependenceMovement.desc':
+      'Von 1683-1895 herrschte die Qing-Dynastie etwa 212 Jahre über Taiwan. Der Wandel von passiver Verwaltung zu aktivem Ausbau legte die Grundlagen der heutigen Verwaltungsgliederung Taiwans und der Han-chinesischen Gesellschaft',
+    'map.markers.taiwanChinaRelations.title': 'Zeit der niederländischen, spanischen und Zheng-Herrschaft',
+    'map.markers.taiwanChinaRelations.desc':
+      'Die erste systematische Kolonialherrschaft in Taiwans Geschichte, von der Errichtung Fort Zeelandias durch die Niederländer bis zur Erschließung Taiwans durch Koxinga, legte die Grundlagen für die Ansiedlung von Han-Chinesen und die politischen Institutionen',
+    'map.markers.taiwanUsRelations.title': 'Convenience-Store-Kultur',
+    'map.markers.taiwanUsRelations.desc':
+      'Wie Taiwans Convenience Stores mit der weltweit höchsten Dichte vom Einzelhandel zum Betriebssystem für den Alltag eines ganzen Landes wurden',
+    'map.markers.taiwanInternationalStatus.title': 'Taiwans Verkehrssystem',
+    'map.markers.taiwanInternationalStatus.desc':
+      'Die Hochgeschwindigkeitsbahn durchquert Taiwan von Nord nach Süd in 90 Minuten, Metrolinien durchziehen die Städte wie Blutbahnen und Motorroller schlängeln sich durch die Gassen',
+    'map.markers.taiwanHistoricalFigures.title': 'Taiwans Convenience-Store-Kultur',
+    'map.markers.taiwanHistoricalFigures.desc':
+      'Ein Convenience-Store-Königreich mit der weltweit höchsten Filialdichte: Die lokalen Innovationen von 7-11 und FamilyMart definieren den modernen Lebensstil neu',
+    'map.markers.taiwanPoliticalFigures.title': 'Taiwans Parks und alltägliche Freizeitkultur',
+    'map.markers.taiwanPoliticalFigures.desc':
+      'Vom morgendlichen Taijiquan bis zum abendlichen Spaziergang – eine kulturelle Betrachtung taiwanischer Parks als generationenübergreifende Begegnungsorte',
+    'map.markers.kuomintangHistory.title': 'Taiwans Kaffeekultur',
+    'map.markers.kuomintangHistory.desc':
+      'Eine Inselkultur des Kaffees: weltweit unter den ersten drei bei der Dichte unabhängiger Cafés, von Bohnen aus Alishan bis zum Arbeiten im Café',
+    'map.markers.democraticProgressivePartyHistory.title':
+      'Die Insel, die Müllwagen hinterherläuft: Taiwans Weg von der Müllkrise zum Recyclingwunder',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      'Ein Ort, der in den 1990er Jahren 400 fast volle Deponien hatte und von internationalen Medien als „Müllinsel“ bezeichnet wurde, ließ 2,300萬 Menschen täglich zu Beethovens Musik den Müllwagen hinterherlaufen – 30 Jahre später übertrifft seine Recyclingquote die der meisten europäischen Länder',
+    'map.markers.taipeiHistory.title':
+      'Geschichte der Metro in Taiwan: eine mit Blut und Geld geschriebene Evolution der Städte',
+    'map.markers.taipeiHistory.desc':
+      'Ein 209 Tonnen schwerer Stahlträger stürzte herab und forderte 4 Menschenleben, es wurden 16.4 億 Schadenersatz gezahlt, und das Kerngeschäft der Metro Taipei schreibt bis heute Verluste – der wahre Preis hinter Taiwans Metrosystemen',
+    'map.markers.taiwanPrehistoricCulture.title':
+      'Taiwans Bildungssystem: ein Inselexperiment von der Aufnahmeprüfungshölle zum Labyrinth der Vielfalt',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      'Taiwan versuchte 30 Jahre lang, das System gemeinsamer Aufnahmeprüfungen abzuschaffen. Doch die jüngste fachspezifische Prüfung ließ die Anmeldungen bei Vorbereitungsschulen für Wiederholungsprüfungen um das Doppelte steigen. Wie führt eine Insel zwischen Bildungsdruck und Bildungsgerechtigkeit immer neue gesellschaftliche Experimente durch?',
+    'map.markers.taiwanIndigenousHistory.title': 'Taiwans Motorrollerkultur',
+    'map.markers.taiwanIndigenousHistory.desc':
+      'Ein Inselreich mit einer der weltweit höchsten Motorrollerdichten und seine kulturelle Entwicklung vom Verkehrsmittel für den Arbeitsweg zur Lebensweise',
+    'map.markers.taiwanMilitaryHistory.title': 'Taiwans Arkadenkultur und Straßenbild',
+    'map.markers.taiwanMilitaryHistory.desc':
+      'Alltagskorridore als Schutz vor Wind und Regen: Taiwans Straßenerinnerungen, in denen sich Motorroller, Straßenstände und menschliche Wärme verweben',
+    'map.markers.taiwanWomenHistory.title': 'Nachtleben und KTV-Kultur',
+    'map.markers.taiwanWomenHistory.desc':
+      'Von den Privaträumen der Cashbox-KTV-Kette bis zu nächtlichen Lokalen: das rund um die Uhr pulsierende Nachtleben der Insel',
+    'map.markers.taiwanEducationHistory.title':
+      'Religion und Volksglaube: Von der Bewältigung von Angst zum Glaubensimperium',
+    'map.markers.taiwanEducationHistory.desc':
+      'Taiwan hat die weltweit höchste Tempeldichte und zugleich die größte Religionsfreiheit – hinter diesem Widerspruch verbirgt sich die Überlebensweisheit militärischer Einwanderer des 17. Jahrhunderts',
+    'map.markers.taiwanReligiousHistory.title': 'Thermalquellenkultur',
+    'map.markers.taiwanReligiousHistory.desc':
+      'Von der militärischen Genesung bis zu einer der drei bedeutendsten Schlammquellen der Welt: Wie Taiwan unerwartet zum Reich der Thermalquellen wurde',
+    'map.markers.taiwanMediaHistory.title': 'Musiktraditionen der indigenen Völker Taiwans',
+    'map.markers.taiwanMediaHistory.desc':
+      'Eine Entdeckungsreise durch die reiche Musikkultur der 16 indigenen Völker Taiwans – von alten Gesängen bis zu traditionellen Instrumenten und einem jahrtausendealten kulturellen Erbe',
+    'map.markers.badmintonChampions.title':
+      'Taiwans Musikinstrumentenindustrie: Von den Saxofonen aus Houli zur globalen Musikfabrik',
+    'map.markers.badmintonChampions.desc':
+      'Die Entwicklung der taiwanischen Musikinstrumentenindustrie: von der weltweiten Vormachtstellung der Saxofone aus Houli über das Königreich der Gitarren-Auftragsfertigung bis zur Präzisionskunst des Spieluhrenbaus – und Taiwans Weg vom Auftragsfertiger zur eigenen Marke',
+    'map.markers.baseballCulture.title': 'Taiwans Campus-Folk-Bewegung',
+    'map.markers.baseballCulture.desc':
+      'Von „Singt eure eigenen Lieder“ bis zur Umgestaltung der gesamten chinesischsprachigen Musikwelt – die Kulturrevolution einer jungen Generation in den 1970er-Jahren',
+    'map.markers.taiwanBasketball.title': 'Die Entwicklung der unabhängigen Musikszene Taiwans',
+    'map.markers.taiwanBasketball.desc':
+      'Von Undergroundbands zur unabhängigen Musik: drei Jahrzehnte Entwicklung und kulturelle Bedeutung der nichtkommerziellen Musik Taiwans',
+    'map.markers.marathonRunning.title':
+      'Elektronische Musik und Partykultur in Taiwan: Vom Underground-Rave auf die internationale Bühne',
+    'map.markers.marathonRunning.desc':
+      'Von der Rave-Kultur der 1990er-Jahre bis zum Festival Road to Ultra: Wie Taiwans elektronische Musik aus dem Untergrund in den Mainstream gelangte und internationale DJs sowie unabhängige Elektrolabels hervorbrachte',
+    'map.markers.taiwanEsports.title':
+      'Taiwans Musikfestivalkultur: Vom Spring Scream zum landesweiten Träger der Jugendkultur',
+    'map.markers.taiwanEsports.desc':
+      'Die Entwicklung der taiwanischen Musikfestivals – vom Spring Scream über das Hohaiyan Rock Festival bis zum Megaport Festival – und wie sie zu Brutstätten unabhängiger Bands und zentralen Ausdrucksplattformen der Jugendkultur wurden',
+    'map.markers.taiwanOlympics.title': 'Taiwans zeitgenössische unabhängige Musikszene',
+    'map.markers.taiwanOlympics.desc':
+      'Von Underground-Auftritten zum Branchengefüge: Entwicklungslinien und kultureller Einfluss des modernen unabhängigen Musikökosystems Taiwans',
+    'map.markers.taipeiCycle.title': 'Ökologisches Wissen und Umweltschutz der indigenen Völker Taiwans',
+    'map.markers.taipeiCycle.desc':
+      'Das über Jahrtausende gesammelte traditionelle ökologische Wissen der indigenen Völker Taiwans sowie sein bedeutender Wert und seine praktische Anwendung im modernen Umweltschutz',
+    'map.markers.taiwanBetelNutCulture.title': 'Taiwans Berge und Bergsteigerkultur',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '268 Dreitausender und die Kultur der „Hundert Gipfel“: die Entwicklung des Bergsports in Taiwan und die Herausforderungen des Gebirgsschutzes',
+    'map.markers.taiwanElections.title': 'Taiwans Waldökosysteme',
+    'map.markers.taiwanElections.desc':
+      'Von der subtropischen Küste bis zum Nadelwald im Hochgebirge: Taiwans vielfältige Waldwelt über 3000 Höhenmeter',
+    'map.markers.taiwanLgbtCulture.title': 'Klimawandel und Netto-Null-Transformation in Taiwan',
+    'map.markers.taiwanLgbtCulture.desc':
+      'Taiwan steht vor den Folgen des Klimawandels: von immer häufigeren Extremwetterereignissen bis zur politischen Planung für das Ziel von Netto-Null-Emissionen bis 2050 – Chancen und Herausforderungen der Energiewende',
+    'map.markers.taiwanMotorcycleCulture.title':
+      'Taiwans Meeresschutz: Warum kann ein über 30 Jahre aufgebautes System eine Korallenbleiche nicht verhindern?',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      '2020 erlebten Taiwans Gewässer die schwerste Korallenbleiche ihrer Geschichte. Von Xiaoliuqiu bis zum Dongsha-Atoll starben selbst Korallen in Schutzgebieten an der Hitze. Welche Probleme offenbart das?',
+    'map.markers.taipeiMrt.title': 'Bekämpfung der Meeresverschmutzung und Herausforderungen des Meeresschutzes in Taiwan',
+    'map.markers.taipeiMrt.desc':
+      'Angesichts von Meeresmüll, Überfischung und Klimawandel: die aktuelle Lage des Meeresschutzes in Taiwan, seine Herausforderungen und innovative Lösungsansätze',
+    'map.markers.kaohsiungMrt.title': 'Taiwans Meeresökologie',
+    'map.markers.kaohsiungMrt.desc':
+      'Die durch Tabus des indigenen Volkes der Tao geschützten Gewässer bleichen heute unter Hitze und Unterwasserlärm aus: Wenn jahrtausendealtes ökologisches Wissen auf die moderne Meereskrise trifft',
+    'map.markers.taichungMrt.title': 'Taiwans Meeresökologie und Schutz der Korallenriffe',
+    'map.markers.taichungMrt.desc':
+      'Taiwan ist ringsum vom Meer umgeben und verfügt über eine reiche Meeresökologie: von der Krise der Korallenbleiche bis zum Schutz von Walen und Delfinen – Schutzwirkung und künftige Herausforderungen der Meeresnationalparks',
+    'map.markers.taiwanTrainSystem.title': 'Thermalquellen und Geothermie in Taiwan',
+    'map.markers.taiwanTrainSystem.desc':
+      'Vom gescheiterten Geothermiekraftwerk vor 30 Jahren bis zum weltweit einzigartigen Hokutolith: Wie eine Insel das Feuer unter der Erde in Heilwirkung und grünen Strom verwandelt',
+    'map.markers.taiwanBusSystem.title': 'Schutz der Bengalkatze in Taiwan',
+    'map.markers.taiwanBusSystem.desc':
+      'Die Geisterkatze, von der in ganz Taiwan weniger als fünfhundert Exemplare verblieben sind – die letzte einheimische Katzenart am Rand des Verschwindens',
+    'map.markers.taiwanInnovationEcosystem.title': 'Taiwans Schuppentiere',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      'Das weltweit am häufigsten geschmuggelte Säugetier hat in Taiwan ein sicheres Zuhause gefunden',
+    'map.markers.taiwanMedicalSystem.title': 'Taiwans Hochgebirgsökosysteme und Eiszeitrelikte',
+    'map.markers.taiwanMedicalSystem.desc':
+      'Die einzigartigen Ökosysteme der taiwanischen Hochgebirge über 3000 Meter: von der Taiwanie und der Yushan-Alpenrose bis zur wertvollen Artenvielfalt eiszeitlicher Reliktarten',
+    'map.markers.taiwanEducationSystem.title': 'Taiwanischer Schwarzbär',
+    'map.markers.taiwanEducationSystem.desc':
+      'Das weiße V auf seiner Brust ist sein Markenzeichen – Taiwans letzter Herrscher der Bergwälder und sein noch nicht gewonnener Kampf ums Überleben',
+    'map.markers.taiwanMusicIndustry.title': 'Nationalparks',
+    'map.markers.taiwanMusicIndustry.desc':
+      '9 Nationalparks auf 36,197 Quadratkilometern: ein Naturschutzwunder mit der weltweit höchsten Dichte',
+    'map.markers.mandarinPopMusic.title': 'Taiwans Nationalparks',
+    'map.markers.mandarinPopMusic.desc':
+      'Eine Entdeckungsreise durch die einzigartigen Ökosysteme und den Schutzwert der neun Nationalparks Taiwans – von subtropischen Küsten bis zur Schneegrenze im Hochgebirge',
+    'map.markers.taiwaneseIndieMusic.title': 'Endemische Arten',
+    'map.markers.taiwaneseIndieMusic.desc':
+      'Taiwans reiche Vielfalt endemischer Arten verdeutlicht das evolutionäre Wunder der Inselbiogeografie und ihre Bedeutung für den Naturschutz',
+    'map.markers.taiwanRapHipHop.title': 'Biologische Vielfalt',
+    'map.markers.taiwanRapHipHop.desc':
+      'Taiwan umfasst nur 0.025% der weltweiten Landfläche, beherbergt jedoch mehr als 5萬 Arten und liegt mit einer Waldbedeckung von 60.71% weltweit auf Rang 33',
+    'map.markers.taiwanElectronicMusic.title': 'Wale und Delfine Taiwans',
+    'map.markers.taiwanElectronicMusic.desc':
+      'Lebensraum für ein Drittel aller Wal- und Delfinarten weltweit – vom einstigen Walfang zur heutigen Walbeobachtung: Wie wurde Taiwan zu einem Zentrum der Meeresökologieforschung?',
+    'map.markers.taiwanTraditionalMusic.title': 'Mayday',
+    'map.markers.taiwanTraditionalMusic.desc':
+      'Von der Affiliated Senior High School of National Taiwan Normal University auf die Weltbühne: die ewigen Jugendlichen, die den Geist des chinesischsprachigen Rocks prägten',
+    'map.markers.taiwanFilmIndustry.title': 'Wu Bai',
+    'map.markers.taiwanFilmIndustry.desc':
+      'Taiwans Nationalschatz des Rock und Inbegriff des einheimischen Rock – mit Werken wie „Norwegian Forest“ festigte er seinen Status als Rockikone',
+    'map.markers.newTaiwanCinema.title': 'Wu Pao-chun',
+    'map.markers.newTaiwanCinema.desc':
+      'Gewinner der Brot-Weltmeisterschaft, der mit seinem Litschi-Rosen-Brot international für Aufsehen sorgte – vom ländlichen Pingtung zum Bäcker von Weltrang',
+    'map.markers.taiwanDocumentary.title': 'Annette Lu',
+    'map.markers.taiwanDocumentary.desc':
+      'Von der wegen Aufruhrs Verurteilten zur Vizepräsidentin: das außergewöhnliche Leben der ersten Vizepräsidentin der chinesischsprachigen Welt',
+    'map.markers.taiwanAnimationIndustry.title': 'Jimmy Liao',
+    'map.markers.taiwanAnimationIndustry.desc':
+      'Der poetische Illustrator, der mit Bilderbüchern die Welt erwärmt und Taiwans Bilderbücher auf die internationale Bühne gebracht hat',
+    'map.markers.taiwanTelevisionIndustry.title': 'Tai Tzu-ying',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      'Rekordhalterin mit 214 Wochen an der Spitze der Weltrangliste: vom Kaohsiunger Stadtteil Cianjhen zur olympischen Silbermedaille – Taiwans Badmintonkönigin',
+    'map.markers.taiwanOttPlatforms.title': 'Li Ang',
+    'map.markers.taiwanOttPlatforms.desc':
+      'Autorin von „Die Gattin des Schlächters“ und „Der Irrgarten“, Pionierin der feministischen Literatur Taiwans',
+    'map.markers.taiwanPodcastIndustry.title': 'Lee Chih-kai',
+    'map.markers.taiwanPodcastIndustry.desc':
+      'Vom Marktkind Kai aus „Jump! Boys“ zum olympischen Silbermedaillengewinner: das sechzehnjährige Turnerleben von Taiwans Pauschenpferdprinzen',
+    'map.markers.taiwanPublishing.title': 'Lee Yuan-tseh',
+    'map.markers.taiwanPublishing.desc':
+      'Träger des Nobelpreises für Chemie 1986, erschloss mit der Molekularstrahltechnik ein neues Feld der chemischen Dynamik und war Taiwans erster naturwissenschaftlicher Nobelpreisträger',
+    'map.markers.taiwanBookstoreCulture.title': 'Tu Tsung-ming',
+    'map.markers.taiwanBookstoreCulture.desc':
+      'Taiwans erster Doktor der Medizin und Vater der modernen Medizin Taiwans',
+    'map.markers.taiwanComicMangaIndustry.title': 'Jeremy Lin',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      'Vom Harvard-Spitzenstudenten zum NBA-Champion: der taiwanisch-amerikanische Basketballspieler, der weltweit die „Linsanity“ auslöste',
+    'map.markers.taiwanGameIndustry.title': 'Lin Yi-chieh',
+    'map.markers.taiwanGameIndustry.desc':
+      'Vom schmächtigen Jungen, den das Leichtathletikteam ablehnte, zum Extremläufer, der mit der Durchquerung der Sahara zu Fuß Geschichte schrieb',
+    'map.markers.nationalPalaceMuseum.title': 'Lin Yi-hsiung',
+    'map.markers.nationalPalaceMuseum.desc':
+      'Pionier der Demokratiebewegung, Opfer der Morde an der Familie Lin und führende Stimme der Bewegung gegen das vierte Kernkraftwerk',
+    'map.markers.nationalParks.title': 'Edward Yang',
+    'map.markers.nationalParks.desc':
+      'Schlüsselfigur des Neuen Taiwanischen Films, bester Regisseur von Cannes und Poet der urbanen Entfremdung',
+    'map.markers.taiwanGeography.title': 'Pai Hsien-yung',
+    'map.markers.taiwanGeography.desc':
+      'Autor von „Taipeh-Leute“, Meister der modernen Literatur und treibende Kraft hinter der Wiederbelebung der Kunqu-Oper',
+    'map.markers.taiwanClimate.title': 'Crowd Lu',
+    'map.markers.taiwanClimate.desc':
+      'Taiwanischer Singer-Songwriter und Schauspieler, ausgezeichnet mit den drei Goldenen Preisen – Golden Melody, Golden Bell und Golden Horse – und bekannt für sein bodenständiges, nahbares Auftreten sowie seinen unverwechselbaren Gesangsstil',
+    'map.markers.taiwanEcosystem.title': 'Chuang Chih-yuan',
+    'map.markers.taiwanEcosystem.desc':
+      'Vater des taiwanischen Tischtennis, Teilnehmer an vier Olympischen Spielen und einsamer Held, der auf sich allein gestellt unermüdlich trainierte',
+    'map.markers.taiwanEndangeredSpecies.title': 'Tsai Ming-liang',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      'Gewinner des Goldenen Löwen von Venedig, chinesischstämmiger Malaysier und Meister der Ästhetik des Slow Cinema',
+    'map.markers.taiwanMarineEcology.title': 'Hsu Wen-lung',
+    'map.markers.taiwanMarineEcology.desc':
+      'Gründer der Chi-Mei-Gruppe, Unternehmer, Geiger und Kunstsammler in einer Person sowie Gründer des Chimei-Museums',
+    'map.markers.taiwanBirdwatching.title': 'Fang-Yi Sheu',
+    'map.markers.taiwanBirdwatching.desc':
+      'Vom Mädchen aus Yilan zur Solistin der Martha Graham Dance Company und zurück nach Taiwan, wo sie die LAFA Dance Company gründete – mit ihrem Körper erzählt sie Taiwans kraftvollste Geschichten',
+    'map.markers.taiwanHotSprings.title':
+      'Lai Ching-te: vom Sohn einer Bergarbeiterfamilie zum Arzt für öffentliche Gesundheit im Präsidentenamt',
+    'map.markers.taiwanHotSprings.desc':
+      '16. Präsident Taiwans und erster Politiker in der Verfassungsgeschichte der Republik China, der als amtierender Vizepräsident für das Präsidentenamt kandidierte und gewählt wurde',
+    'map.markers.taiwanIslands.title': 'Kuo Hsing-chun',
+    'map.markers.taiwanIslands.desc':
+      'Taiwans Gewichtheberkönigin, Goldmedaillengewinnerin der Olympischen Spiele 2021 in Tokio und Halterin aller drei olympischen Rekorde in der 59-Kilogramm-Klasse',
+    'map.markers.taiwanMountains.title': 'Teng Yu-hsien',
+    'map.markers.taiwanMountains.desc':
+      'Vater des taiwanischen Liedguts und Schöpfer klassischer taiwanischer Lieder wie „Sehnsucht nach der Frühlingsbrise“, „Blume der Regennacht“ und „Trauer in der Mondnacht“',
+    'map.markers.taiwanRivers.title': 'Chung Li-ho',
+    'map.markers.taiwanRivers.desc':
+      'Autor von „Der Mann aus der Heimat“, Vater der taiwanischen Literatur und literarischer Kämpfer, der trotz Armut und Krankheit unbeirrt weiterschrieb',
+    'map.markers.taiwanCoastline.title': 'Chen Shu-chu',
+    'map.markers.taiwanCoastline.desc':
+      'Die schlichte Wohltätigkeit einer Gemüsehändlerin aus Taitung, die mit ihrem Leben zeigte, was wahrer Reichtum bedeutet',
+    'map.markers.taiwanForests.title': 'Chen Shui-bian',
+    'map.markers.taiwanForests.desc':
+      '10. und 11. Präsident, zentrale Figur des ersten Regierungswechsels zwischen Parteien im Jahr 2000 und bedeutender Akteur der Demokratisierung Taiwans',
+    'map.markers.taiwanNaturalDisasters.title': 'Ma Ying-jeou',
+    'map.markers.taiwanNaturalDisasters.desc':
+      '12. und 13. Präsident, Wegbereiter des Tauwetters in den Beziehungen zwischen Taiwan und China und Unterzeichner des ECFA',
+    'map.markers.taiwanEarthquakes.title': 'Huang Chun-ming',
+    'map.markers.taiwanEarthquakes.desc':
+      'Autor von „Der große Sohn-Puppe“ und „Tage, an denen sie das Meer sah“, führender Vertreter der Heimatliteratur aus Yilan',
+    'map.markers.taiwanTyphoons.title':
+      'Huang Chen-nan: der Takenouchi Yutaka der Bibliophilenszene und eine lebendige Quelle der Kulturgeschichte Taiwans',
+    'map.markers.taiwanTyphoons.desc':
+      'Huang Chen-nan ist ein taiwanischer Kulturhistoriker, Büchersammler und Schriftsteller. Bekannt wurde er unter dem PTT-Nutzernamen Sizumaru; auf der Seite „Huoshui Lai Ceshufang“ vermittelt er Taiwans Geschichte und Kultur alter Bücher. Er schrieb unter anderem „Die pointenreichste Geschichte Taiwans“ und gilt als Takenouchi Yutaka der Bibliophilenszene. Er stammt aus einer literarisch geprägten Familie in Liujiao, Chiayi; Vater und Sohn sammeln arbeitsteilig im Norden und Süden historische Dokumente und machen die ernste Geschichte Taiwans unterhaltsam und zugänglich.',
+    'map.markers.sunflowerMovement.title': 'Zoos und die Ethik der Zurschaustellung von Tieren',
+    'map.markers.sunflowerMovement.desc':
+      'Vom Elefanten im Eisenkäfig bis zur Quallenwand im Xpark – Taiwan definiert die Beziehung zwischen Menschen und ausgestellten Tieren neu',
+    'map.markers.taiwanSocialMovements.title': 'Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans',
+    'map.markers.taiwanSocialMovements.desc':
+      'Ein Überblick über den historischen Kontext der Landrechte indigener Völker Taiwans, die rechtliche Entwicklung, Kontroversen um die Ausweisung traditioneller Gebiete und die Ergebnisse der Kommission für Übergangsgerechtigkeit für indigene Völker',
+    'map.markers.taiwanMarriageEquality.title': 'Gleichgeschlechtliche Ehe und Geschlechtergleichstellung in Taiwan',
+    'map.markers.taiwanMarriageEquality.desc':
+      'Vom Gefängnisinsassen während des Kriegsrechts bis zum ersten Gesetz zur gleichgeschlechtlichen Ehe in Asien: Wie der 30-jährige Kampf eines Mannes die Definition der Liebe auf der Insel neu schrieb',
+    'map.markers.taiwanEnvironmentalJustice.title': 'Umweltgerechtigkeit und Konflikte um unerwünschte Anlagen in Taiwan',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      'Eine Untersuchung der ungleichen Verteilung von Umweltbelastungen in Taiwan – von Müllverbrennungsanlagen und Atommüll bis zur Petrochemie – sowie der daraus entstehenden Standortkonflikte, Umweltungleichheit und Fragen sozialer Gerechtigkeit',
+    'map.markers.taiwanCommunityRiCulture.title': 'Taiwans Gemeinwesen und Kultur der Stadt- und Ortsteile',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      'Von demokratischer Praxis auf der untersten Ebene bis zu sozialer Innovation durch Gemeinwesenentwicklung',
+    'map.markers.taiwanLongTermCare.title': 'Entwicklung des Langzeitpflegesystems in Taiwan',
+    'map.markers.taiwanLongTermCare.desc':
+      'Eines der fortschrittlichsten Langzeitpflegesysteme der Welt – und zugleich eines der größten unsichtbaren Pflegenetzwerke',
+    'map.markers.taiwanLaborMovement.title': 'Umweltschutz und nachhaltige Entwicklung',
+    'map.markers.taiwanLaborMovement.desc':
+      'Von der Insel der Schornsteine zum klimaneutralen Taiwan: der 40-jährige Weg des Erwachens der Umweltbewegung',
+    'map.markers.taiwanHousingIssues.title': 'Sozialer Wohnungsbau und Wohngerechtigkeit',
+    'map.markers.taiwanHousingIssues.desc':
+      'Wie Taiwan durch sozialen Wohnungsbau Wohngerechtigkeit verwirklichen und allen Menschen ein sicheres Zuhause ermöglichen will',
+    'map.markers.taiwanHealthcareSystem.title': 'Entwicklung der Wissenschaftsparks',
+    'map.markers.taiwanHealthcareSystem.desc':
+      'Von Hsinchu bis Südtaiwan: die Entwicklung der taiwanischen Wissenschaftsparks und die besonderen Profile der drei großen Standorte',
+    'map.markers.taiwanImmigration.title': 'Halbleiterindustrie',
+    'map.markers.taiwanImmigration.desc':
+      'Von Morris Changs historischem Wagnis bis zum 2-Nanometer-Zeitalter: Wie TSMC Taiwan zum Lebensnerv der globalen Technologiebranche machte',
+    'map.markers.taiwanReligiousDiversity.title': 'Taiwans Küstenformen und Meereslandschaften',
+    'map.markers.taiwanReligiousDiversity.desc':
+      'Der Hals des Königinnenkopfs von Yehliu wird jedes Jahr um 0.2 Zentimeter dünner und eines Tages abbrechen – genau darin liegen das Schicksal und die Schönheit der Küstenformen Taiwans',
+    'map.markers.taiwanBuddhismTaoism.title': 'Taiwanische Teekultur und Ästhetik des Alltags',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      'Am Eröffnungsabend des Wistaria Tea House im Jahr 1981 trafen sich Oppositionelle und Intellektuelle zum Tee – der Ort war nicht nur ein Teehaus, sondern auch ein geheimer Stützpunkt der Oppositionsbewegung',
+    'map.markers.taiwanFolkReligion.title': 'Wahlen und Parteienpolitik in Taiwan',
+    'map.markers.taiwanFolkReligion.desc':
+      'Von den Kommunalabgeordneten im Jahr 1950 bis zum ersten Machtwechsel zwischen Parteien im Jahr 2000: Wie Taiwan mit Stimmzetteln das Wunder seines demokratischen Übergangs schrieb',
+    'map.markers.taiwanChristianity.title': 'Stadtentwicklung und Stadt-Land-Gefälle in Taiwan',
+    'map.markers.taiwanChristianity.desc':
+      'In 70 Jahren von einer Agrarinsel zu einer urbanisierten Insel: Licht und Schatten der Konzentration von 7 Zehnteln der Bevölkerung in den sechs regierungsunmittelbaren Städten – das prosperierende Taichung vs das schrumpfende Yunlin',
+    'map.markers.taiwanIslamJudaism.title': 'Städtische Besonderheiten und regionale Kulturen',
+    'map.markers.taiwanIslamJudaism.desc':
+      'Von 404 Zehntausend Einwohnern in Neu-Taipeh bis zu 185 Zehntausend in Tainan: Wie die sechs regierungsunmittelbaren Städte im industriellen Wandel ihren jeweils eigenen Charakter entwickelten',
+    'map.markers.kaohsiungIncident.title': 'Demokratisierung',
+    'map.markers.kaohsiungIncident.desc':
+      'Die Zusammenstöße zwischen Polizei und Bevölkerung am 10. Dezember 1979 auf den Straßen Kaohsiungs gaben schließlich den Anstoß für Taiwans demokratischen Übergang – doch wie viele Menschen bezahlten dafür mit ihrer Jugend und Freiheit?',
+    'map.markers.wangLeeOlympicGold.title': 'Wang Chi-lin und Lee Yang („Lin-Yang-Duo“)',
+    'map.markers.wangLeeOlympicGold.desc':
+      'Von Mitschülern in der Mittelstufe zu Olympiasiegern: Das „Lin-Yang-Duo“ besiegte China in 34 Minuten ohne Satzverlust und gewann Taiwans erste olympische Goldmedaille im Badminton',
+  },
   'zh-TW': {
     // Meta
     'map.meta.title': '台灣地圖 Map',

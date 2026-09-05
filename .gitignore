@@ -141,6 +141,7 @@ src/content/pt/
 src/content/hi/
 src/content/ar/
 src/content/ru/
+src/content/de/
 
 # Local batch scratch space and logs. Everything here is disposable/recoverable.
 /tmp/

@@ -709,6 +709,80 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     'assets.script.copied': '✅ Скопировано',
     'assets.script.failed': '❌ Ошибка копирования',
   },
+  de: {
+    // Meta
+    'assets.meta.title': 'Taiwan SVG — offene Umrisskarte von Taiwan',
+    'assets.meta.description':
+      'Korrekte SVG-Umrisskarte von Taiwan zum kostenlosen Open-Source-Download. KI-Darstellungen von Taiwan sind fehlerhaft – dies ist die korrekte Version.',
+
+    // Hero
+    'assets.hero.title': 'Taiwan SVG — offene Umrisskarte von Taiwan',
+    'assets.hero.subtitle': 'KI-Darstellungen von Taiwan sind fehlerhaft. Dies ist die korrekte Version.',
+
+    // Problem section
+    'assets.problem.title': '🤖 Warum stellt KI Taiwan immer falsch dar?',
+    'assets.problem.p1':
+      'In den Trainingsdaten der meisten KI-Bildgeneratoren fehlen strukturierte geografische Daten zu Taiwan. Das Ergebnis: KI-Darstellungen von Taiwan sind häufig verzerrt, weisen falsche Proportionen auf oder werden sogar mit anderen Inseln verwechselt.',
+    'assets.problem.p2.html':
+      'Taiwan.md bietet <strong>korrekte, quelloffene und frei nutzbare</strong> SVG-Umrisskarten von Taiwan – als verlässliche Vorlage für alle, die wissen müssen, wie Taiwan aussieht.',
+
+    // Card 1: taiwan-icon
+    'assets.card1.title': 'taiwan-icon.svg',
+    'assets.card1.desc': 'Taiwan-Umriss als Icon — geeignet für Icons, Logos und kleine Darstellungen',
+    'assets.card1.meta': 'Wikimedia Commons · ~6 KB · CC',
+
+    // Card 2: taiwan-simplemaps
+    'assets.card2.title': 'taiwan-simplemaps.svg',
+    'assets.card2.desc': 'SimpleMaps-Version — klare Vektorkontur, geeignet zum Einbetten in Webseiten',
+    'assets.card2.meta': 'SimpleMaps · ~5 KB',
+
+    // Card 3: taiwan-location-map
+    'assets.card3.title': 'taiwan-location-map.svg',
+    'assets.card3.desc': 'Geografische Übersichtskarte — mit Koordinaten und Stadtmarkierungen, geeignet für Kartenanwendungen',
+    'assets.card3.meta': 'Wikimedia Commons · ~120 KB · CC',
+
+    // Card 4: taiwan-political-division
+    'assets.card4.title': 'taiwan-political-division.svg',
+    'assets.card4.desc': 'Verwaltungskarte — Gliederung nach Städten und Landkreisen mit vollständigen Verwaltungsgrenzen',
+    'assets.card4.meta': 'Wikimedia Commons · ~168 KB · CC',
+
+    // Buttons
+    'assets.btn.download': 'SVG herunterladen',
+    'assets.btn.copy': 'SVG-Code kopieren',
+
+    // Usage section
+    'assets.usage.title': '📝 Verwendung',
+    'assets.usage.code': `<!-- Direkt einbetten -->
+<img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200">
+
+<!-- Als CSS-Hintergrund -->
+background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
+
+<!-- In Markdown einbinden -->
+![Taiwan](https://taiwan.md/assets/svg/taiwan-icon-wiki.svg)`,
+
+    // License section
+    'assets.license.title': '📄 Lizenz und Quellen',
+    'assets.license.intro.html':
+      'Alle SVG-Dateien werden unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a> veröffentlicht. Sie dürfen frei verwendet, bearbeitet und kommerziell genutzt werden; erforderlich ist lediglich eine Quellenangabe.',
+    'assets.license.sources.title': 'Quellenangaben',
+    'assets.license.source1.html':
+      '<strong>taiwan-icon.svg</strong> — Quelle: <a href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg" target="_blank">Wikimedia Commons: Taiwan-icon.svg</a>, gemeinfrei (Public Domain)',
+    'assets.license.source2.html':
+      '<strong>taiwan-simplemaps.svg</strong> — Quelle: <a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>, Free License (Angabe von simplemaps.com erforderlich)',
+    'assets.license.source3.html':
+      '<strong>taiwan-location-map.svg</strong> — Quelle: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg" target="_blank">Wikimedia Commons: Taiwan_location_map.svg</a>, CC BY-SA 3.0, Urheber: NordNordWest',
+    'assets.license.source4.html':
+      '<strong>taiwan-political-division.svg</strong> — Quelle: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Taiwan_ROC_political_division_map.svg</a>, CC BY-SA 3.0',
+
+    // CTA section
+    'assets.cta.text': 'Ein Problem entdeckt oder einen Verbesserungsvorschlag?',
+    'assets.cta.btn': 'Auf GitHub beitragen',
+
+    // Script messages
+    'assets.script.copied': '✅ Kopiert',
+    'assets.script.failed': '❌ Kopieren fehlgeschlagen',
+  },
   'zh-TW': {
     // Meta
     'assets.meta.title': 'Taiwan SVG — 開放台灣輪廓圖',

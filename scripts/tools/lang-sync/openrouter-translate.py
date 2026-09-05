@@ -40,6 +40,7 @@ LANG_NAMES = {
     "hi": "Hindi (हिन्दी, standard news register; Devanagari transliteration rules per TRANSLATION-hi.md)",
     "ar": "Arabic (Modern Standard Arabic, فصحى; names per TRANSLATION-ar.md; RTL text)",
     "ru": "Russian (русский, news register; Palladius transliteration per TRANSLATION-ru.md)",
+    "de": "German (Deutsch, neutral news register; names/places per TRANSLATION-de.md)",
 }
 
 

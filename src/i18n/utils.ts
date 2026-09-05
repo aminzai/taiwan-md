@@ -36,6 +36,8 @@ const FALLBACK_CHAIN: Record<string, readonly Lang[]> = {
   // 是為了將來新增 key 的空窗期：缺 key 時同樣英文比中文可讀。
   ar: ['ar', 'en', 'zh-TW'] as Lang[],
   ru: ['ru', 'en', 'zh-TW'] as Lang[],
+  // 2026-09-05 出生：de 拉丁字母讀者缺 key 時英文比中文可讀，同 vi/id/hi 慣例。
+  de: ['de', 'en', 'zh-TW'] as Lang[],
   'zh-TW': ['zh-TW'] as Lang[],
 };
 

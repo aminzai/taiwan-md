@@ -4520,6 +4520,464 @@ export const dataUI = {
     'data.tooltip.employees': 'Сотрудники',
     'data.tooltip.founded': 'Основано',
   },
+  de: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': 'TSMC',
+    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta Electronics',
+    'data.company.ase-group': 'ASE',
+    'data.company.quanta-computer': 'Quanta',
+    'data.company.cathay-financial': 'Cathay Financial Holding',
+    'data.company.fubon-financial': 'Fubon Financial Holding',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President Enterprises',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUS',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial Holding',
+    'data.company.china-steel': 'China Steel',
+    'data.company.taiwan-mobile': 'Taiwan Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal',
+    'data.company.largan-precision': 'Largan',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.Sun Financial Holding',
+    'data.company.taiwan-cement': 'Taiwan Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial Holding',
+    'data.company.yuanta-financial': 'Yuanta Financial Holding',
+    'data.company.giant-manufacturing': 'Giant Manufacturing',
+    'data.company.first-financial': 'First Financial Holding',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'Far EasTone',
+    'data.company.hua-nan-financial': 'Hua Nan Financial Holding',
+    'data.company.lite-on-technology': 'Lite-On Technology',
+    'data.company.taiwan-cooperative-bank': 'Taiwan Cooperative Financial Holding',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.taiwan-high-speed-rail': 'Taiwan High Speed Rail',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy-KY',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'Elite Material',
+    'data.company.accton': 'Accton',
+    'data.company.avc': 'AVC',
+    'data.company.chroma-ate': 'Chroma',
+    'data.company.hon-precision': 'Hon Precision',
+    'data.company.jentech': 'Jentech',
+    'data.company.gold-circuit': 'Gold Circuit',
+    'data.company.nanya-technology': 'Nanya',
+    'data.company.yageo': 'Yageo',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB',
+    'data.company.taishin-shinkong': 'Taishin',
+    'data.company.global-unichip': 'GUC',
+    'data.company.bizlink': 'BizLink',
+    'data.company.zhen-ding': 'Zhen Ding',
+    'data.company.sinopac-financial': 'SinoPac',
+    'data.company.winbond': 'Winbond',
+    'data.company.winway': 'WinWay',
+    'data.company.king-slide': 'King Slide',
+    'data.company.kyec': 'KYEC',
+    'data.company.kgi-financial': 'KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': 'Netzwerktechnik',
+    'data.sector.cooling': 'Kühltechnik',
+    'data.sector.testing': 'Prüftechnik',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel': 'Schwache Stahlkonjunktur, Verluste seit mehreren Jahren und kein Anschluss an den AI-Boom',
+    'data.fellOff.htc': 'Scheitern im Smartphone-Markt; VR／XR erreichte keine ausreichende Größenordnung',
+    'data.fellOff.taiwan-cement': 'Schwaches Zementgeschäft; der Ausbau der Energiespeicherung hat noch kein nennenswertes Volumen erreicht',
+    'data.fellOff.far-eastern-new-century': 'Abschwung bei Polyester und Chemiefasern; traditionellen Industrien fehlt der AI-Schub',
+    'data.fellOff.giant-manufacturing': 'Lagerabbau bei Fahrrädern; Umsatz seit drei Jahren rückläufig',
+
+    // Standalone /companies page
+    'data.companies.meta.title': 'Taiwans 50 größte Unternehmen — Neuordnung im AI-Zeitalter',
+    'data.companies.meta.description':
+      'Eine interaktive Blasengrafik zeigt Marktkapitalisierung, Umsatz und Beschäftigtenzahl der 50 wertvollsten börsennotierten Unternehmen Taiwans sowie die Neuordnung der Rangliste durch die AI-Lieferkette (snapshot 2026/06).',
+    'data.companies.hero.title': 'Taiwans 50 größte Unternehmen',
+    'data.companies.hero.subtitle': 'Die Blasenfläche entspricht der Marktkapitalisierung – die Industrielandschaft einer Insel mit 2300 Mio. Menschen',
+    'data.companies.hero.description':
+      'Je größer die Blase, desto höher die Marktkapitalisierung; die Farbe kennzeichnet die Branche. Wechsel zwischen Umsatz／Beschäftigtenzahl, Filterung über Branchenlabels und Ziehen der Blasen möglich.',
+    'data.companies.snapshot':
+      '📊 Datenquellen: TWSE, Umsatzmeldungen für das Gesamtjahr 2025, Geschäftsberichte der Unternehmen · snapshot 2026/06 (Näherungswerte, keine Anlageberatung)',
+    'data.companies.story.title': 'Die AI-Welle bewertet die gesamte Insel neu',
+    'data.companies.story.p1':
+      'In nur zwei Jahren hat der AI-Ausbau Taiwans Unternehmensrangliste neu geschrieben. Allein TSMC macht 43.8% des Gesamtmarkts aus – nach einem stetigen Anstieg von 39% – und die 10 größten Indexschwergewichte kommen zusammen auf rund 61%.',
+    'data.companies.story.p2':
+      'Hinter TSMC stammen sämtliche Aufsteiger aus der AI-Lieferkette: Delta Electronics sprang dank Stromversorgungssystemen für AI binnen eines Jahres auf Platz 2 – bei einer etwa verfünffachten Marktkapitalisierung –, MediaTek legte stark zu, und zahlreiche Namen aus den Bereichen PCB／Substrate, Kühlung, Prüftechnik und Netzwerktechnik wie Elite Material, AVC, Chroma, Accton und Yageo rückten in die Top 50 vor und verdrängten rund 20 bisherige Unternehmen.',
+    'data.companies.table.heading': '📋 Vollständige Rangliste',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Unternehmen',
+    'data.companies.table.sector': 'Branche',
+    'data.companies.table.marketCap': 'Marktkapitalisierung (100 Mio. TWD)',
+    'data.companies.table.revenue': 'Umsatz 2025 (100 Mio. TWD)',
+    'data.companies.table.employees': 'Beschäftigte',
+    'data.companies.table.founded': 'Gegründet',
+    'data.companies.insights.heading': '🔍 Zentrale Erkenntnisse',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label': 'Anteil von TSMC am Gesamtmarktwert taiwanischer Aktien',
+    'data.companies.insights.card1.detail':
+      'Von 39% gestiegen – ein einziges Unternehmen entspricht etwa vier Fünfteln aller übrigen zusammen',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label': 'Anteil der 10 größten Indexschwergewichte am Gesamtmarktwert',
+    'data.companies.insights.card2.detail': 'Starke Konzentration auf wenige Großunternehmen',
+    'data.companies.insights.card3.number': 'rund 20',
+    'data.companies.insights.card3.label': 'Durch die AI-Lieferkette binnen zwei Jahren neu in der Rangliste',
+    'data.companies.insights.card3.detail':
+      'PCB／Trägersubstrate, Kühlung, Tests und Netzwerktechnik – vor zwei Jahren noch nicht in der Rangliste',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label': 'Finanzholdings unter den Top 50',
+    'data.companies.insights.card4.detail': 'Nach den Fusionen die stabilsten Anker des Index',
+    'data.companies.fellOff.title': '📉 Wer aus der Rangliste gefallen ist',
+    'data.companies.fellOff.intro':
+      'Die Neubewertung durch AI kennt auch Verlierer. Diese landesweit bekannten Namen aus Stahl, Zement, Textilien und Fahrradbau sowie einstige Mobiltelefonstars rutschten aus den Top 50, als Kapital in die AI-Lieferkette strömte.',
+    'data.companies.fellOff.marketCapNow': 'Aktueller Marktwert',
+    'data.companies.method.heading': '📝 Methodik',
+    'data.companies.method.body':
+      'Der Marktwert wurde anhand der Indexgewichtung der einzelnen Aktien an der TWSE im 2026/06 berechnet, multipliziert mit dem Gesamtmarktwert, der über TSMC (rund NT$59 Bio.／43.8%) verankert wurde. Der Umsatz entspricht dem konsolidierten Gesamtjahresumsatz 2025; bei Finanzholdings gilt der konsolidierte Betriebsertrag einschließlich Versicherungen. Die Beschäftigtenzahlen sind Näherungswerte und beruhen möglichst auf Konzern- beziehungsweise Konsolidierungsbasis, doch der Erfassungsumfang unterscheidet sich je nach Unternehmen. Diese Achse ist daher als Größenordnung und nicht als präziser Vergleich zu verstehen.',
+    'data.companies.related': '📖 Weiterlesen',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'Offene Regierungsdaten',
+    'data.category.1.description': 'Strukturierte Datensätze und Statistikportale staatlicher Stellen',
+    'data.category.1.item.1.name': 'Regierungsportal für offene Daten',
+    'data.category.1.item.1.desc':
+      '2020 entwickelten Fachleute mit den dortigen Daten innerhalb von 72 Stunden eine Maskenkarte und lösten damit das Problem der Warteschlangen vor Apotheken im ganzen Land',
+    'data.category.1.item.2.name': 'Statistikdatenbank der Generaldirektion für Haushalt, Rechnungswesen und Statistik',
+    'data.category.1.item.2.desc': 'Zentrale nationale Statistiken zu Bevölkerung, Wirtschaft, Preisen und weiteren Bereichen',
+    'data.category.1.item.3.name': 'Wahldatenbank der Zentralen Wahlkommission',
+    'data.category.1.item.3.desc': 'Ergebnisse und Abstimmungsdaten vergangener Wahlen',
+    'data.category.1.item.4.name': 'Nationale Rechtsdatenbank',
+    'data.category.1.item.4.desc': 'Volltextsuche in sämtlichen Gesetzen, Verordnungen und Präzedenzfällen',
+    'data.category.1.item.5.name': 'Messnetz für Luftqualität',
+    'data.category.1.item.5.desc': 'Echtzeit-Messdaten zu AQI und PM2.5',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'Interaktive Karten und Visualisierungen',
+    'data.category.2.description': 'Werkzeuge für Echtzeitüberwachung, Geodaten und Umweltvisualisierung',
+    'data.category.2.item.1.name': 'Interaktive Karte der Unterseekabel Taiwans',
+    'data.category.2.item.1.desc': 'Privat entwickelte Echtzeitüberwachung von Unterseekabeln,ein Vorbild für Civic Tech',
+    'data.category.2.item.2.name': 'Cloud-Dienst für nationale Vermessungs- und Geodaten',
+    'data.category.2.item.2.desc': 'Kartenmaterial, Luftbilder und Katasterdaten aus Taiwan',
+    'data.category.2.item.3.name': 'Zentrum für Erdbebenmessung und -meldung',
+    'data.category.2.item.3.desc': 'Erdbebeninformationen in Echtzeit und historische Aufzeichnungen',
+    'data.category.2.item.4.name': 'Katastrophenschutzportal der Wasserbehörde',
+    'data.category.2.item.4.desc': 'Wasserlage, Flusspegel und Reservoirfüllstände in Echtzeit',
+    'data.category.2.item.5.name': 'Umweltdaten in Echtzeit',
+    'data.category.2.item.5.desc': 'Echtzeitüberwachung von Luftqualität, UV-Strahlung und Wasserqualität',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'Civic Tech',
+    'data.category.3.description': 'Open-Source-Communitys, Faktenprüfung und Werkzeuge für digitale Demokratie',
+    'data.category.3.item.1.name': 'g0v – Null-Regierung',
+    'data.category.3.item.1.desc':
+      '2012 gegründet, brachte die Community Civic-Tech-Projekte wie die Maskenkarte, Cofacts und vTaiwan hervor, die Taiwan verändert haben',
+    'data.category.3.item.2.name': 'KKTIX-Veranstaltungen zu Civic Tech',
+    'data.category.3.item.2.desc': 'Zugang zu g0v-Hackathons und Veranstaltungen der Open-Data-Community',
+    'data.category.3.item.3.name': 'Cofacts – wahr oder falsch',
+    'data.category.3.item.3.desc':
+      'Jeder kann über LINE-Gruppen weitergeleitete Falschmeldungen zur Prüfung einreichen; inzwischen liegen Zehntausende Prüfberichte vor',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'Ermittelt mit dem Polis-Algorithmus Konsens und hat politische Regelungen zu Uber, Fernunterricht und weiteren Themen erfolgreich beeinflusst',
+    'data.category.3.item.5.name': 'JOIN – Plattform für politische Beteiligung',
+    'data.category.3.item.5.desc': 'Regierungsvorschläge, Petitionen und politische Diskussionen',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'Datenjournalismus und Faktenprüfung',
+    'data.category.4.description': 'Investigative Recherchen, Faktenprüfung und datenjournalistische Medien',
+    'data.category.4.item.1.name': 'The Reporter',
+    'data.category.4.item.1.desc':
+      '2015 gegründet, Taiwans erstes gemeinnütziges Medium für investigative Recherchen, das wiederholt bedeutende öffentliche Themen aufgedeckt hat',
+    'data.category.4.item.2.name': 'Taiwan FactCheck Center',
+    'data.category.4.item.2.desc':
+      'Von der International Fact-Checking Network (IFCN) zertifiziert und externer Faktenprüfungspartner von Facebook',
+    'data.category.4.item.3.name': 'READr 讀+',
+    'data.category.4.item.3.desc': 'Datenjournalismus und visualisierte Berichte mit offenen Daten',
+    'data.category.4.item.4.name': 'ARTouch',
+    'data.category.4.item.4.desc': 'Taiwanisches Medium für Kunstnachrichten und fundierte Kommentare',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'Wissenschaft und Forschung',
+    'data.category.5.description': 'Digitale Archive, Biodiversitätsdaten und AI-Korpora',
+    'data.category.5.item.1.name': 'Offenes Museum der Academia Sinica',
+    'data.category.5.item.1.desc': 'Digitale Sammlungen und Online-Kuration',
+    'data.category.5.item.2.name': 'Nationale Datenbank des kulturellen Gedächtnisses',
+    'data.category.5.item.2.desc': 'Digitale Bewahrung des kulturellen Gedächtnisses Taiwans',
+    'data.category.5.item.3.name': 'Taiwan Biodiversity Network',
+    'data.category.5.item.3.desc': 'Artenverbreitung und ökologische Beobachtungen',
+    'data.category.5.item.4.name': 'Taiwanisches souveränes AI-Trainingskorpus TAIC',
+    'data.category.5.item.4.desc': 'Lokale AI-Trainingsdatensätze aus Taiwan',
+
+    // Meta
+    'data.meta.title': '📊 Taiwan in Daten — Taiwan.md',
+    'data.meta.description':
+      'Eine Insel in Zahlen kennenlernen: Unternehmenslandschaft, offene Daten, korrekte Umrisse Taiwans und interaktive Visualisierungen',
+
+    // Hero
+    'data.hero.title': 'Taiwan in Daten',
+    'data.hero.subtitle': 'Mit interaktiven Visualisierungen und offenen Daten das wahre Gesicht einer Insel kennenlernen',
+    'data.hero.description':
+      'Dies ist ein kuratierter Raum für Daten aus Taiwan. Von der Unternehmenslandschaft bis zu offenen Daten, von korrekten Umrissen Taiwans bis zu Experimenten mit digitaler Demokratie – mit interaktiven Visualisierungen und offenen Ressourcen lassen wir Zahlen Taiwans Geschichte erzählen.',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 Unternehmenslandschaft',
+    'data.enterprise.story.p1': 'Wie trägt eine Insel die globale Lieferkette?',
+    'data.enterprise.story.p2':
+      'Vom Marktwert TSMCs von 2,670 × 100 Mio. bis zu den 87 × 10.000 Beschäftigten von Hon Hai bilden Taiwans 50 größte Unternehmen das wirtschaftliche Rückgrat der Insel. 12 Halbleiterunternehmen bestätigen den Namen „Siliziumschild“, 12 Finanzholdings stützen die finanzielle Stabilität und Auftragsfertigungsriesen vernetzen das digitale Leben weltweit. Das Blasendiagramm zeigt, wie Taiwan mit 2% der Weltbevölkerung 4% des weltweiten GDP erwirtschaftet.',
+    'data.enterprise.controls.sizeLabel': 'Blasengröße:',
+    'data.enterprise.controls.marketCap': 'Marktkapitalisierung',
+    'data.enterprise.controls.revenue': 'Umsatz',
+    'data.enterprise.controls.employees': 'Beschäftigtenzahl',
+    'data.enterprise.controls.filterAll': 'Alle',
+    'data.enterprise.insights.heading': 'Zentrale Erkenntnisse',
+    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.label': 'Anteil von TSMC an der gesamten Marktkapitalisierung taiwanischer Aktien',
+    'data.enterprise.insights.card1.detail':
+      'Ein Unternehmen ≈ 2/3 der übrigen tausend börsennotierten Unternehmen',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label': 'Anteil der 50 größten Unternehmen an der gesamten Marktkapitalisierung taiwanischer Aktien',
+    'data.enterprise.insights.card2.detail': 'Taiwans Aktienmarkt ist stark auf Großunternehmen konzentriert',
+    'data.enterprise.insights.card3.number': '12 Unternehmen',
+    'data.enterprise.insights.card3.label': 'Halbleiterunternehmen in der Rangliste',
+    'data.enterprise.insights.card3.detail': 'Bestätigung des „Siliziumschilds“ — Halbleiter sind Teil von Taiwans Landesverteidigung',
+    'data.enterprise.insights.card4.number': '12 Unternehmen',
+    'data.enterprise.insights.card4.label': 'Finanzunternehmen unter den Top 50',
+    'data.enterprise.insights.card4.detail': 'Stabilität nach der Konsolidierung der Finanzholdings',
+    'data.enterprise.exploreLink': 'Vollständige Rangliste anzeigen →',
+
+    // Budget Teaser Section
+    'data.budget.teaser.title': '💰 Zehn Jahre Gesamthaushalt: Wie die Regierung drei Billionen NT$ verteilt',
+    'data.budget.teaser.story.p1':
+      'Der Gesamthaushalt der Zentralregierung für das Haushaltsjahr 115 wurde dieses Jahr erst am 14. August in dritter Lesung verabschiedet — so spät wie nie zuvor; die gesetzlich festgelegten Ausgaben stiegen innerhalb von zehn Jahren von 1.98 Billionen auf 2.99 Billionen NT$.',
+    'data.budget.teaser.story.p2':
+      'Diese Seite gliedert die Mittelverwendung anhand von Primärdaten der Generaldirektion für Haushalt, Rechnungswesen und Statistik in neun Bereiche; jeder Grafik ist die ursprüngliche Datentabelle beigefügt, sodass sowohl Quelle als auch Einzelheiten nachvollziehbar sind.',
+    'data.budget.teaser.card1.label': 'Gesetzlich festgelegte Ausgaben im Haushaltsjahr 115',
+    'data.budget.teaser.card1.detail': 'Vor zehn Jahren, im Haushaltsjahr 105, waren es nur 1.98 Billionen NT$',
+    'data.budget.teaser.card2.label': 'Kürzungen durch den Legislativ-Yuan',
+    'data.budget.teaser.card2.detail':
+      'Repräsentationsausgaben von Behördenleitungen, Auslandsreisekosten und Ausgaben für Medienwerbung standen im Mittelpunkt der Kürzungen',
+    'data.budget.teaser.card3.label': 'Zuwachs in zehn Jahren',
+    'data.budget.teaser.card3.detail':
+      'Vom Haushaltsjahr 105 bis 115 stiegen die gesetzlich festgelegten Ausgaben um mehr als die Hälfte',
+    'data.budget.teaser.cta': 'Vollständigen Zehnjahresüberblick zum Gesamthaushalt ansehen →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 Taiwans Platz in der Welt',
+    'data.taiwanVsWorld.story.p1':
+      'Eine Insel, etwa so groß wie Belgien, bietet 2,300 Zehntausend Menschen eine Lebensgrundlage und produziert zugleich 92% der weltweit modernsten Computerchips. Taiwans wirtschaftliche Dichte ist beeindruckend: Auf einer Fläche kleiner als die Schweiz leben mehr Menschen als in Australien, und das BIP pro Kopf erreicht 7.5 Zehntausend US-Dollar.',
+    'data.taiwanVsWorld.story.p2':
+      'Diese Zahlen sind mehr als Statistik — sie bilden den Bauplan einer scheinbar unmöglichen Erfolgsgeschichte. Wie erzeugen 0.32% der Landfläche der Erde 4% des weltweiten Wohlstands? Von der weltweit höchsten Dichte an Convenience-Stores bis zum besten Demokratie-Ranking Asiens entschlüsseln diese acht Kennzahlen Taiwans überproportionalen globalen Einfluss.',
+
+    'data.taiwanVsWorld.area.number': '36,197 km²',
+    'data.taiwanVsWorld.area.label': 'Fläche ≈ Größe Belgiens',
+    'data.taiwanVsWorld.area.context':
+      'Die Bevölkerung ist jedoch 2.35-mal so groß wie die Belgiens (2,350 Zehntausend vs 1,170 Zehntausend)',
+
+    'data.taiwanVsWorld.gdp.number': '$75K',
+    'data.taiwanVsWorld.gdp.label': 'BIP pro Kopf (PPP)',
+    'data.taiwanVsWorld.gdp.context':
+      'Unter den Top 15 weltweit, vs nominal $38K (große Kaufkraftdifferenz)',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label': 'Weltmarktanteil bei modernen Chips',
+    'data.taiwanVsWorld.semiconductor.context':
+      'TSMC dominiert die Fertigung unter <7nm — das Herzstück digitaler Geräte weltweit',
+
+    'data.taiwanVsWorld.democracy.number': 'Platz 12',
+    'data.taiwanVsWorld.democracy.label': 'Rang im Demokratieindex',
+    'data.taiwanVsWorld.democracy.context':
+      'Platz eins in Asien und weltweit unter den Top 10 der „vollständigen Demokratien“ (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0.87',
+    'data.taiwanVsWorld.birthRate.label': 'Geburtenrate (2024)',
+    'data.taiwanVsWorld.birthRate.context': 'Eine der niedrigsten weltweit — Herausforderung einer alternden Gesellschaft',
+
+    'data.taiwanVsWorld.convenience.number': '1/2,000 Personen',
+    'data.taiwanVsWorld.convenience.label': 'Dichte an Convenience-Stores',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 Filialen (7-11+FamilyMart+Hi-Life+OK), weltweit höchste Dichte',
+
+    'data.taiwanVsWorld.hsr.number': '345 km',
+    'data.taiwanVsWorld.hsr.label': 'Streckennetz der Hochgeschwindigkeitsbahn',
+    'data.taiwanVsWorld.hsr.context': '12 Bahnhöfe, täglich 18 Zehntausend Fahrgäste, Pünktlichkeitsquote 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99.9%',
+    'data.taiwanVsWorld.healthcare.label': 'Abdeckung der nationalen Krankenversicherung',
+    'data.taiwanVsWorld.healthcare.context': 'Allgemeine Krankenversicherung als weltweites Vorbild',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title': '📡 Zeitleiste der digitalen Demokratie — 30 Jahre digitale Regierungsentwicklung',
+    'data.digitalDemocracy.story.p1':
+      'Von der Digitalisierung der Verwaltung zur digitalen Demokratie: Taiwans Entwicklung führte vom E-Government über Open Government bis zur digitalen Resilienz.',
+    'data.digitalDemocracy.story.p2':
+      'Bewegen Sie den Mauszeiger über die einzelnen Meilensteine, um mehr über Taiwans einzigartiges Experiment mit digitaler Demokratie zu erfahren.',
+
+    'data.timeline.1997.title': 'Start des E-Government-Programms',
+    'data.timeline.1997.desc': 'Beginn der Digitalisierung staatlicher Dienstleistungen',
+
+    'data.timeline.2003.title': 'Förderprogramm für freie Software',
+    'data.timeline.2003.desc': 'Behörden führen Open-Source-Software ein',
+
+    'data.timeline.2012.title': 'Gründung von g0v',
+    'data.timeline.2012.desc': '2 Jahre vor der Sonnenblumen-Bewegung wird der Grundstein für Civic Tech gelegt',
+
+    'data.timeline.2013.title': 'Start von data.gov.tw',
+    'data.timeline.2013.desc': 'Taiwan tritt in das Zeitalter offener Daten ein',
+
+    'data.timeline.2014.title': 'Sonnenblumen-Bewegung',
+    'data.timeline.2014.desc': 'Durchbruch für Civic Tech und Erwachen der digitalen Demokratie',
+
+    'data.timeline.2015.title': 'Weltweit Platz eins bei offenen Daten',
+    'data.timeline.2015.desc': 'Drei Jahre in Folge weltweit führend (2015-2017)',
+
+    'data.timeline.2016.title': 'Audrey Tang wird Digitalministerin ohne Geschäftsbereich',
+    'data.timeline.2016.desc': 'Ein g0v-Hacker übernimmt ein Regierungsamt',
+
+    'data.timeline.2020.title': 'Erfolg der Maskenkarte',
+    'data.timeline.2020.desc': 'In 72 Stunden entwickelt und während COVID-19 landesweit genutzt',
+
+    'data.timeline.2022.title': 'Gründung des Ministeriums für digitale Angelegenheiten',
+    'data.timeline.2022.desc': 'Digitale Regierungsführung wird auf Ministeriumsebene gehoben (moda)',
+
+    'data.timeline.2023.title': 'TAIDE: Taiwans KI-Korpus',
+    'data.timeline.2023.desc': 'Taiwans souveränes KI-Sprachmodell',
+
+    'data.timeline.2024.title': 'Plurality exportiert digitale Demokratie',
+    'data.timeline.2024.desc': 'Taiwans Modell digitaler Demokratie findet weltweit Verbreitung',
+
+    // Population Pyramid Section
+    'data.population.title': '👥 Bevölkerungsstruktur: Das Altersporträt einer Insel',
+    'data.population.story.p1':
+      '2025 liegt das Medianalter in Taiwan bei über 43 Jahren. Die einst junge Insel altert — nicht langsam, sondern mit einem der weltweit höchsten Tempi.',
+    'data.population.story.p2':
+      'Bewege die Zeitleiste und sieh, wie sich das Altersprofil einer Insel innerhalb eines halben Jahrhunderts von einer Pyramide in ein umgekehrtes Dreieck verwandelt.',
+
+    'data.population.insights.card1.title': 'Medianalter',
+    'data.population.insights.card1.subtitle': 'Jahre',
+    'data.population.insights.card1.detail': '43 Jahre',
+
+    'data.population.insights.card2.title': 'Geburtenrate',
+    'data.population.insights.card2.subtitle': 'Fertilitätsrate',
+    'data.population.insights.card2.detail': '0.87',
+
+    'data.population.insights.card3.title': 'Anteil 65+',
+    'data.population.insights.card3.subtitle': 'Über 65 Jahre',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'Gesamtbevölkerung',
+    'data.population.insights.card4.subtitle': 'Zehntausend Personen',
+    'data.population.insights.card4.detail': '2,340 Zehntausend → <2,000 Zehntausend',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ Die Form Taiwans',
+    'data.taiwanComparison.title': 'Taiwan aus Sicht der KI vs. das echte Taiwan',
+    'data.taiwanComparison.aiGenerated':
+      'Erstellt mit Claude Opus 4.6 (2025/3/22, nicht absichtlich verfälscht)',
+    'data.taiwanComparison.correct': 'Korrekte Kontur',
+    'data.taiwanShape.story.p1': 'KI-Darstellungen Taiwans sind alle falsch. Das ist die korrekte Version.',
+    'data.taiwanShape.story.p2':
+      'In den Trainingsdaten der meisten KI-Bildgeneratoren fehlen strukturierte geografische Daten zu Taiwan. Das Ergebnis sind verzerrte Formen, falsche Proportionen und sogar Verwechslungen mit anderen Inseln. Taiwan.md stellt eine korrekte, quelloffene und frei nutzbare SVG-Kontur Taiwans bereit – als Standardreferenz für alle Anwendungen, die zeigen müssen, wie Taiwan aussieht.',
+
+    // Taiwan Shape teaser CTA (data-hub inline block → standalone /taiwan-shape page)
+    'data.taiwanShape.teaser.title': '🗺️ Zum vollständigen offenen Kartendatensatz',
+    'data.taiwanShape.teaser.desc':
+      'SVG-Konturen, TopoJSON auf Landkreis-, Stadt- und Gemeindeebene, Anwendungsbeispiele für D3.js / Leaflet / Python / Vue, Verwaltungscodes und weitere offene Datenquellen – alles auf einer eigenen Seite.',
+    'data.taiwanShape.teaser.cta': 'Zur Form Taiwans →',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description': 'Kontur Taiwans als Icon — geeignet für Icons, Logos und kleine Größen',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description': 'SimpleMaps-Version — saubere Vektorgrafik, geeignet zum Einbetten in Webseiten',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description': 'Geografische Lagekarte — mit Längen- und Breitengraden sowie Stadtmarkierungen',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description': 'Verwaltungskarte — Gliederung nach Landkreisen und Städten, vollständige Grenzen',
+    'data.svg.button.download': 'SVG herunterladen',
+    'data.svg.button.copy': 'Code kopieren',
+    'data.svg.button.copied': '✅ Kopiert',
+    'data.svg.button.failed': '❌ Kopieren fehlgeschlagen',
+    'data.svg.usage.heading': '📝 Verwendung',
+    'data.svg.usage.licenseNote':
+      'Alle SVG-Dateien werden unter der Lizenz CC BY-SA 4.0 veröffentlicht. Sie dürfen frei verwendet, verändert und kommerziell genutzt werden, sofern die Quelle genannt wird.',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 Offene Daten und digitale Demokratie',
+    'data.openData.heading': '📊 Offene Daten',
+    'data.openData.story.p1': 'Von der Digitalisierung zur Öffnung: drei Jahrzehnte digitale Verwaltung in Taiwan',
+    'data.openData.story.p2':
+      '1997 startete das „Programm für elektronische Verwaltung“, 2013 ging data.gov.tw online, und Taiwan vollzog den Übergang von der elektronischen zur offenen Verwaltung. Von 2015-2017 belegte Taiwan dreimal in Folge den ersten Platz im „Global Open Data Index“. Aus der g0v-Bewegung gingen die Maskenkarte und der Faktencheck-Bot Cofacts hervor. Die Experimente der Digitalministerin Audrey Tang machten Taiwan zu einem weltweiten Erprobungsraum für digitale Demokratie.',
+    'data.openData.story.p3':
+      'Wenn Bürgerinnen und Bürger Daten verstehen können und die Regierung bereit ist, sie freizugeben, bedeutet Demokratie mehr als eine Wahl alle vier Jahre: Sie wird zu täglicher Zusammenarbeit.',
+
+    // Content stats chart (Chart.js inline script label)
+    'data.chart.articlesAdded': 'Neue Artikel',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ Wissensgraph',
+    'data.knowledgeGraph.story.p1': 'Wie sind die 200+ Artikel von taiwan.md miteinander verknüpft?',
+    'data.knowledgeGraph.story.p2':
+      'Von Geschichte bis Geografie, von Kultur bis Technologie: Jeder Artikel ist ein Knoten im Netzwerk der Geschichten Taiwans. Durch Schlagwortverknüpfungen und Verweise aus Themenportalen verweben wir verstreutes Wissen zu einem lebendigen Graphen. Klicke dich hinein und erkunde die tieferen Strukturen des Wissens über Taiwan.',
+    'data.knowledgeGraph.ctaButton': 'Wissensgraph erkunden',
+    'data.knowledgeGraph.ctaButton.description': 'Interaktives Netzwerk verknüpfter Artikel',
+
+    // Footer
+    'data.footer.heading': 'Mehr entdecken',
+    'data.footer.link1.name': 'Wirtschaft',
+    'data.footer.link1.description': 'Artikel und vertiefende Analysen zur Wirtschaft',
+    'data.footer.link2.name': 'Wissensgraph',
+    'data.footer.link2.description': 'Visualisiertes Netzwerk verknüpfter Artikel',
+    'data.footer.link3.name': 'Leitfaden zum Mitwirken',
+    'data.footer.link3.description': 'So kannst du am Aufbau von Taiwan.md mitwirken',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'Halbleiter',
+    'data.sector.electronicsManufacturing': 'Auftragsfertigung von Elektronik',
+    'data.sector.electronicComponents': 'Elektronische Bauteile',
+    'data.sector.financial': 'Finanzwesen',
+    'data.sector.telecommunications': 'Telekommunikation',
+    'data.sector.foodBeverage': 'Lebensmittel und Getränke',
+    'data.sector.shipping': 'Schifffahrt',
+    'data.sector.computerBrand': 'Computermarken',
+    'data.sector.steel': 'Stahl',
+    'data.sector.petrochemical': 'Petrochemie',
+    'data.sector.cement': 'Zement',
+    'data.sector.optics': 'Optik',
+    'data.sector.bicycle': 'Fahrräder',
+    'data.sector.textileFiber': 'Textilien und Fasern',
+    'data.sector.transportation': 'Transport',
+    'data.sector.consumerElectronics': 'Unterhaltungselektronik',
+    'data.sector.industrialComputer': 'Industriecomputer',
+    'data.sector.casing': 'Gehäuse',
+    'data.sector.petrochemicalPanel': 'Displays',
+    'data.sector.server': 'Server',
+    'data.sector.pcb': 'PCB',
+    'data.sector.precisionMachinery': 'Präzisionsmaschinenbau',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'Marktkapitalisierung',
+    'data.tooltip.revenue': 'Umsatz',
+    'data.tooltip.employees': 'Beschäftigte',
+    'data.tooltip.founded': 'Gegründet',
+  },
   'zh-TW': {
     // Company Names (50 companies)
     'data.company.taiwan-semiconductor': '台積電 TSMC',

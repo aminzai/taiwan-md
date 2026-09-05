@@ -105,6 +105,14 @@ export const footnoteUI = {
     'footnote.card.close': 'Закрыть',
     'footnote.card.aria': 'Сноска {n}',
   },
+  de: {
+    'footnote.card.source': 'Quelle',
+    'footnote.card.note': 'Anmerkung',
+    'footnote.card.open': 'Quelle öffnen',
+    'footnote.card.jump': 'Fußnote am Textende ansehen',
+    'footnote.card.close': 'Schließen',
+    'footnote.card.aria': 'Fußnote {n}',
+  },
   'zh-TW': {
     'footnote.card.source': '來源',
     'footnote.card.note': '註解',

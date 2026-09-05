@@ -591,6 +591,63 @@ export const exploreUI = {
     'explore.cta.contribute': 'ساهم بمقال',
     'explore.cta.github': 'تصفح على GitHub',
   },
+  de: {
+    'explore.meta.title': 'Taiwan.md erkunden — die offene Wissensdatenbank über Taiwan durchstöbern',
+    'explore.meta.description':
+      'Durchstöbere 685+ kuratierte Artikel über Taiwan: Geschichte, Geografie, Kultur, Essen, Kunst, Musik, Technologie, Natur, Menschen, Gesellschaft, Wirtschaft und Alltag. Suchen, entdecken, erkunden.',
+
+    'explore.hero.eyebrow': 'Wissensdatenbank',
+    'explore.hero.title': 'Taiwan.md erkunden',
+    'explore.hero.subtitle': 'Fundierte Geschichten einer kuratierten Insel — suchen, entdecken und nach Kategorien stöbern.',
+
+    'explore.search.heading': 'Wissensdatenbank durchsuchen',
+    'explore.search.placeholder': 'Alles über Taiwan suchen (Menschen, Orte, Kultur, Ereignisse)',
+    'explore.search.button': 'Suchen',
+    'explore.search.random': 'Zufällig erkunden',
+    'explore.search.randomSubtitle': 'Würfle — und entdecke eine Geschichte, mit der du nicht gerechnet hast',
+    'explore.hotSearches.label': 'Beliebte Suchbegriffe',
+    'explore.hotSearches.term1': 'Halbleiter',
+    'explore.hotSearches.term2': 'Nachtmärkte',
+    'explore.hotSearches.term3': 'Indigene Völker',
+    'explore.hotSearches.term4': 'Zwischenfall vom 28. Februar',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'Bubble Tea',
+
+    'explore.stats.articles': 'Artikel',
+    'explore.stats.contributors': 'Mitwirkende',
+    'explore.stats.languages': 'Sprachen',
+    'explore.stats.last30d': 'In den letzten 30 Tagen aktualisiert',
+
+    'explore.categories.heading': 'Nach Kategorien stöbern',
+    'explore.categories.subtitle': 'Zwölf Themengebiete, jedes davon zeigt eine andere Facette dieser Insel.',
+
+    'explore.featured.heading': 'Ausgewählte vertiefende Artikel',
+    'explore.featured.subtitle':
+      'Artikel der Stufe A — vollständige Fußnoten, artikelübergreifende Verweise und nachvollziehbare Recherchewege.',
+    'explore.featured.viewAll': 'Alle Empfehlungen ansehen →',
+    'explore.featured.citations': 'Quellenangaben',
+    'explore.featured.minRead': 'Minuten',
+    'explore.popular.heading': 'Beliebte Artikel',
+    'explore.popular.subtitle': 'Die meistgelesenen Artikel der letzten 7 Tage.',
+    'explore.popular.views': 'Aufrufe',
+
+    'explore.more.heading': 'Weitere Möglichkeiten zum Erkunden',
+    'explore.more.graph.title': 'Wissensgraph',
+    'explore.more.graph.desc': 'Ein kraftgerichteter Graph zeigt, wie die Artikel miteinander verknüpft sind.',
+    'explore.more.graph.cta': 'Graph öffnen →',
+    'explore.more.map.title': 'Landkarte',
+    'explore.more.map.desc': 'Artikel nach ihrem Standort auf der Insel finden.',
+    'explore.more.map.cta': 'Karte öffnen →',
+    'explore.more.terminology.title': 'Begriffsübersicht',
+    'explore.more.terminology.desc': 'Ein Nachschlagewerk für die gemeinsamen Begriffe der Wissensdatenbank.',
+    'explore.more.terminology.cta': 'Übersicht öffnen →',
+
+    'explore.cta.heading': 'Nicht gefunden, wonach du suchst?',
+    'explore.cta.body':
+      'Taiwan.md ist Open Source — alle können einen Artikel beitragen, eine Angabe korrigieren oder eine Seite übersetzen.',
+    'explore.cta.contribute': 'Artikel beitragen',
+    'explore.cta.github': 'Auf GitHub durchstöbern',
+  },
   'zh-TW': {
     'explore.meta.title': '探索 Taiwan.md — 瀏覽開放的台灣知識庫',
     'explore.meta.description':

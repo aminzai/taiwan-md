@@ -31,7 +31,7 @@ cascade_id = sys.argv[2] if len(sys.argv) > 2 else 'codex,ollama'
 cascade = tr.build_cascade(cascade_id)
 
 hubs = sorted(p for p in (REPO / 'knowledge').glob('*/_* Hub.md')
-              if p.parts[-2] not in ('en', 'ja', 'ko', 'es', 'fr', 'vi', 'id', 'pt', 'hi', 'ar', 'ru'))
+              if p.parts[-2] not in ('en', 'ja', 'ko', 'es', 'fr', 'vi', 'id', 'pt', 'hi', 'ar', 'ru', 'de'))
 ok = fail = skip = 0
 for hub in hubs:
     zh_path = str(hub.relative_to(REPO / 'knowledge'))

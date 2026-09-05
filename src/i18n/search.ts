@@ -326,4 +326,37 @@ export const searchUI = {
     'search.date.updated': 'Обновлено',
     'nav.search-modal.view-all': 'Показать все результаты ({n}) →',
   },
+  de: {
+    // de 2026-09-05 birth: 手動補（本檔沒有 zh-TW block 可當 ui-bundle-translate.py
+    // 的翻譯來源——zh-TW 的 search.* 字串直接寫在 src/i18n/ui.ts 的 'zh-TW' block
+    // 裡，不是從本檔的 zh-TW export spread 出去，跟其餘 17 個 bundle 的結構不同）。
+    // 對照 ui.ts 裡的 zh-TW 原文 + en/ru 兩語的既有寫法人工翻譯，26 key 逐一比對。
+    'search.meta.title': 'Seitensuche',
+    'search.meta.desc':
+      'Durchsuchen Sie alle Taiwan.md-Artikel mit vollständigen Ergebnissen, Sortierung und Datumsfiltern.',
+    'search.title': 'Suchergebnisse',
+    'search.input.placeholder': 'Alles über Taiwan durchsuchen',
+    'search.count': '{n} Ergebnisse für „{q}"',
+    'search.sort.label': 'Sortieren',
+    'search.sort.relevance': 'Relevanz',
+    'search.sort.latest': 'Neueste',
+    'search.sort.oldest': 'Älteste',
+    'search.sort.updated': 'Kürzlich aktualisiert',
+    'search.time.label': 'Zeitraum',
+    'search.time.any': 'Jederzeit',
+    'search.time.day': 'Letzter Tag',
+    'search.time.week': 'Letzte Woche',
+    'search.time.month': 'Letzter Monat',
+    'search.time.year': 'Letztes Jahr',
+    'search.time.custom': 'Benutzerdefinierter Zeitraum',
+    'search.time.from': 'Von',
+    'search.time.to': 'Bis',
+    'search.loadmore': 'Mehr laden',
+    'search.empty': 'Geben Sie ein Stichwort ein, um die Suche zu starten',
+    'search.noresults': 'Keine Ergebnisse für „{q}"',
+    'search.loading': 'Suchmaschine wird geladen…',
+    'search.date.published': 'Veröffentlicht',
+    'search.date.updated': 'Aktualisiert',
+    'nav.search-modal.view-all': 'Alle {n} Ergebnisse anzeigen →',
+  },
 };

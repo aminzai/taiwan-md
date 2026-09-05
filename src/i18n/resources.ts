@@ -4662,6 +4662,504 @@ export const resourcesUI = {
     'resources.site.npgov': 'Портал национальных парков',
     'resources.site.taiwanmd': 'Taiwan.md',
   },
+  de: {
+    // Meta
+    'resources.meta.title': 'Taiwan-Ressourcenführer - Taiwan.md',
+    'resources.meta.description':
+      'Umfassendes Verzeichnis offizieller Websites taiwanischer Behörden, Kulturinstitutionen und Open-Data-Plattformen – ein zentraler Zugang zu politischen Informationen, kulturellen Inhalten und Statistiken',
+
+    // Hero
+    'resources.hero.title': 'Taiwan-Ressourcenführer',
+    'resources.hero.subtitle.html':
+      'Umfassendes Verzeichnis offizieller Ressourcen von Behörden, Kulturinstitutionen und Open-Data-Angeboten<br />Taiwans maßgebliche Informationsquellen auf einen Blick',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'Startseite',
+    'resources.breadcrumb.current': 'Ressourcen',
+
+    // Core section
+    'resources.core.title': '🏆 Zentrale Auswahl',
+    'resources.core.desc': 'Die wichtigsten maßgeblichen Taiwan-Ressourcen aus der Mindmap',
+
+    // More section
+    'resources.more.title': '🔍 Weitere Kategorien',
+    'resources.more.desc': 'Detaillierte Ressourcen zu Kommunalverwaltungen, Universitäten und weiteren Bereichen',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ Behörden',
+    'resources.category.culture.label': '📚 Kultur und Bildung',
+    'resources.category.tourism.label': '✈️ Tourismus und Reisen',
+    'resources.category.economy.label': '💼 Technologie und Wirtschaft',
+    'resources.category.media.label': '📰 Medien und Nachrichten',
+    'resources.category.opendata.label': '🌐 Offene Daten',
+    'resources.category.taiwanmd.label': '📡 Rund um Taiwan.md',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ Kommunalverwaltungen',
+    'resources.section.localGov.desc': 'Offizielle Websites der sechs regierungsunmittelbaren Städte sowie der Landkreise und Städte Taiwans',
+
+    'resources.section.universities.title': '🎓 Universitäten und Forschungseinrichtungen',
+    'resources.section.universities.desc': 'Führende Universitäten und bedeutende Forschungseinrichtungen Taiwans',
+
+    'resources.section.nationalParks.title': '🏔️ Nationalparks',
+    'resources.section.nationalParks.desc': 'Verwaltungen der Nationalparks und Landschaftsschutzgebiete Taiwans',
+
+    'resources.section.artsCulture.title': '🎭 Kunst- und Kulturstätten',
+    'resources.section.artsCulture.desc': 'Bedeutende Museen, Kunstmuseen und Veranstaltungsorte',
+
+    'resources.section.healthcare.title': '🏥 Gesundheit und Medizin',
+    'resources.section.healthcare.desc': 'Gesundheitsbehörden und bedeutende medizinische Einrichtungen',
+
+    'resources.section.ngoSociety.title': '🤝 NGOs / Zivilgesellschaft',
+    'resources.section.ngoSociety.desc': 'Bedeutende gemeinnützige Organisationen und zivilgesellschaftliche Gruppen',
+
+    'resources.section.ministries.title': '🏛️ Ministerien und Behörden',
+    'resources.section.ministries.desc': 'Ministerien und nachgeordnete Behörden des Exekutiv-Yuan',
+
+    'resources.section.companies.title': '🏢 Bedeutende Unternehmen',
+    'resources.section.companies.desc': 'Führende Unternehmen und Technologiekonzerne Taiwans',
+
+    'resources.section.mediaExtra.title': '📺 Traditionelle Medien',
+    'resources.section.mediaExtra.desc': 'Etablierte Nachrichtenmedien sowie Hörfunk und Fernsehen',
+
+    'resources.section.transportation.title': '🚄 Verkehr und Mobilität',
+    'resources.section.transportation.desc': 'Öffentlicher Verkehr und Verkehrsdienste',
+
+    'resources.section.digitalCulture.title': '💾 Digitale Kultur',
+    'resources.section.digitalCulture.desc': 'Plattformen für digitale Sammlungen und Wissenschaftsvermittlung',
+
+    // Projects
+    'resources.projects.title': '🚀 Community-Projekte',
+    'resources.projects.desc': 'Kreativität und Engagement aus der Community: Taiwan durch Programmcode kennenlernen',
+
+    'resources.projects.food.title': '🍔 Kulinarische Karte',
+    'resources.projects.food.burger.name': 'Taipeh-Burgerkarte',
+    'resources.projects.food.burger.desc':
+      'Interaktive Ranglistenkarte für Burgerrestaurants in Taipeh, nach Qualität eingestuft (T0-T6) und nach Verwaltungsbezirk filterbar',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 Nachtmarktführer',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'iOS-App für Taiwans Nachtmärkte mit mehr als 400 Standorten, Öffnungszeiten und Navigation über Google Maps',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ Civic Tech',
+    'resources.projects.civictech.g0v.name': 'g0v – Null-Regierung',
+    'resources.projects.civictech.g0v.desc':
+      'Taiwans größte Civic-Tech-Community fördert offene Regierungsführung und Informationstransparenz',
+    'resources.projects.civictech.g0v.tech': 'Verschiedene Technologien',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts – Wahr oder falsch',
+    'resources.projects.civictech.cofacts.desc':
+      'Kollaborativer Faktencheck-Chatbot gegen Desinformation',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name': 'Disfactory – Illegale Fabriken auf Agrarland',
+    'resources.projects.civictech.disfactory.desc':
+      'Plattform zur Meldung illegaler Fabriken auf Agrarland zum Schutz der landwirtschaftlichen Flächen Taiwans',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'Möchten Sie ein Projekt empfehlen? Reichen Sie Ihren Vorschlag gerne über ein <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> ein!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← Zurück zur Startseite',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 Taiwan-Ressourcen',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'Regierungsführung',
+    'resources.nav.culture': 'Kultur',
+    'resources.nav.media': 'Medien',
+    'resources.nav.economy': 'Wirtschaft',
+    'resources.nav.community': 'Community',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'Portal zur staatlichen Verwaltung',
+    'resources.chapter.government.story':
+      'Im Februar 2020 verknüpfte ein taiwanischer Entwickler an einem einzigen Wochenende die Echtzeitbestände von Masken in 6,000 Apotheken. Ein Mensch, ein Laptop, 72 Stunden. Möglich war das, weil auf data.gov.tw jederzeit 50,000+ staatliche Datensätze für alle frei zugänglich sind. Taiwan hat „Transparenz der Regierungsführung“ in jede herunterladbare API eingeschrieben.',
+    'resources.chapter.culture.title': 'Stätten der Kultur und des Wissens',
+    'resources.chapter.culture.story':
+      'Auf einer Fläche von weniger als 36,000 Quadratkilometern verfügt Taiwan über 159 Universitäten, mehr als 500 Museen und 9 Nationalparks – vom 3,952 Meter hohen Yushan bis zu den Korallenriffküsten. Das Nationale Palastmuseum beherbergt fast 700,000 Schätze chinesischer Kultur, während die Tempelfeste gleich um die Ecke ebenso lebendiges Kulturerbe sind. Die kulturelle Dichte dieser Insel übertrifft ihre Größe auf der Landkarte bei Weitem.',
+    'resources.chapter.media.title': 'Taiwans Stimmen hören',
+    'resources.chapter.media.story':
+      '1995 richteten Studierende der Nationaluniversität Taiwan in einem Wohnheim einen BBS-Server ein und nannten ihn PTT. 30 Jahre später ist dieses Forum mit reiner Textoberfläche noch immer Taiwans einflussreichste Plattform für öffentliche Debatten. Während der Sonnenblumenbewegung 2014 war PTT die schnellste und umfassendste Quelle für Echtzeitinformationen. In Taiwans Medienlandschaft – von etablierten Zeitungen bis zu Onlineforen – ringt jede Ebene um eine Stimme in der Demokratie.',
+    'resources.chapter.economy.title': 'Motor für Wirtschaft und Alltag',
+    'resources.chapter.economy.story':
+      'Jedes zweite Mobiltelefon weltweit enthält einen von TSMC gefertigten Chip – Geopolitikfachleute sprechen vom „Siliziumschild“. Doch Chips sind nur die Spitze des Eisbergs: eine allgemeine Krankenversicherung mit 99.9% Abdeckung, ein Convenience Store auf jeweils 2.3 Quadratkilometern und eine Hochgeschwindigkeitsbahn, die Taipeh und Kaohsiung in 90 Minuten verbindet. Den Alltag von 2,300 Millionen Menschen trägt ein präzises System, das kaum wahrnehmbar und doch allgegenwärtig ist.',
+    'resources.chapter.community.title': 'Bürgertechnologie und Community',
+    'resources.chapter.community.story':
+      'Das Motto der g0v-Bewegung lautet: „Frag nicht, warum das niemand macht – denn du bist dieser ‚Niemand‘.“ Maskenkarten, Chatbots zur Überprüfung von Falschmeldungen und Tracker für Wahlversprechen: Sie alle entstanden bei Wochenend-Hackathons. So sieht Bürgerbeteiligung in Taiwan aus: programmieren, Issues eröffnen, Pull Requests einreichen. Auch Taiwan.md ist aus diesem Geist hervorgegangen.',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'Verfassungsorgane',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': 'Ministerien und Behörden',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'Stadt- und Kreisverwaltungen',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'Hochschulen',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'Museen',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'Nationalparks',
+
+    'resources.insight.media.ptt.number': '200000',
+    'resources.insight.media.ptt.label': 'täglich aktive PTT-Nutzer',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'Medien',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'NGOs',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'fortschrittliche TSMC-Fertigungsverfahren',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label': 'Pünktlichkeitsquote der Hochgeschwindigkeitsbahn',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': 'Abdeckung der Krankenversicherung',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'Gründung von g0v',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'Mitwirkende',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'Projekte',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'Die fünf zentralen Verfassungsorgane',
+    'resources.sub.fiveYuan.desc':
+      'Diese fünf Verfassungsorgane bilden Taiwans einzigartiges System der fünf Gewalten – das einzige seiner Art weltweit.',
+    'resources.sub.ministries': 'Ministerien und Behörden',
+    'resources.sub.ministries.desc':
+      'Vom Ministerium für digitale Entwicklung bis zum Rat für indigene Völker verfügt jede Behörde über einen eigenen Bereich für offene Daten.',
+    'resources.sub.localGov': 'Kommunalverwaltungen',
+    'resources.sub.localGov.desc':
+      '22 Städte und Landkreise, 22 lokale Regierungsstile. Der Smart-City-Wettbewerb zwischen den sechs regierungsunmittelbaren Städten definiert kommunale Dienstleistungen neu.',
+    'resources.sub.openData': 'Offene Daten',
+    'resources.sub.openData.desc':
+      'Hier nahm Taiwans Bürgertechnologie-Wunder seinen Anfang. Maskenkarten, Impfterminsysteme und Luftqualitätsmessungen gingen von diesen Plattformen aus.',
+    'resources.sub.universities': 'Führende Hochschulen und Forschungseinrichtungen',
+    'resources.sub.universities.desc':
+      'Taiwans Hochschulen sind mehr als Lehranstalten. Das Quantencomputerlabor der Nationaluniversität Taiwan und das Halbleiterforschungszentrum der Nationaluniversität Cheng Kung sind wichtige Knotenpunkte im globalen Wissenschaftsnetzwerk.',
+    'resources.sub.museums': 'Museen und Bibliotheken',
+    'resources.sub.museums.desc':
+      'Vom Jadekohl des Palastmuseums bis zur Violinsammlung des Chimei-Museums sind Taiwans Museen Tore durch Raum und Zeit.',
+    'resources.sub.venues': 'Kulturstätten und Kreativwirtschaft',
+    'resources.sub.venues.desc':
+      'Taiwans Kunst- und Kulturszene befindet sich im Aufwind. C-LAB, das Nationaltheater und die Nationale Konzerthalle sowie das Nationale Kunst- und Kulturzentrum Weiwuying in Kaohsiung sorgen für eine Dichte an Weltklasse-Kulturstätten, auf die selbst New York neidisch wäre.',
+    'resources.sub.parks': 'Nationalparks und Landschaftsschutzgebiete',
+    'resources.sub.parks.desc':
+      'Von 0 bis 3,952 Metern Höhe decken Taiwans 9 Nationalparks sämtliche Klimazonen der Erde ab. Innerhalb eines Tages kann man von tropischen Korallenriffen bis zur alpinen Schneegrenze wandern.',
+    'resources.sub.mainstream': 'Etablierte Medien',
+    'resources.sub.mainstream.desc':
+      'Von der Aufhebung der Pressebeschränkungen nach dem Ende des Kriegsrechts 1988 bis zum heutigen Wettbewerb der 24-Stunden-Nachrichtensender: Taiwans Medienfreiheit wurde hart erkämpft.',
+    'resources.sub.digital': 'Digital-native Medien',
+    'resources.sub.digital.desc':
+      'Während traditionelle Medien zu kämpfen haben, definieren Taiwans digital-native Medien den Journalismus neu. Das gemeinnützige Modell von The Reporter zeigt, dass fundierter Journalismus auch ohne Werbung bestehen kann.',
+    'resources.sub.ngo': 'Zivilgesellschaft und NGOs',
+    'resources.sub.ngo.desc':
+      'Taiwan hat die höchste NGO-Dichte Asiens. Vom Umweltschutz bis zu den Menschenrechten: Diese Organisationen kontrollieren nicht nur die Regierung, sondern sind der Politik häufig voraus.',
+    'resources.sub.companies': 'Branchenführer',
+    'resources.sub.companies.desc':
+      'Von TSMC bis Foxconn tauchen die Namen dieser Unternehmen weltweit in Berichten über Lieferketten auf.',
+    'resources.sub.transport': 'Verkehr',
+    'resources.sub.transport.desc':
+      'Mit Taiwans Hochgeschwindigkeitsbahn dauert die Fahrt von Taipeh nach Kaohsiung nur 90 Minuten. Zusammen mit U-Bahnen, Echtzeitinformationen für Busse und YouBike macht sie Taiwans öffentlichen Verkehr zu einem verborgenen Spitzenreiter Asiens.',
+    'resources.sub.healthcare': 'Gesundheit und Medizin',
+    'resources.sub.healthcare.desc':
+      'Die allgemeine Krankenversicherung: eine Karte, 99.9% Abdeckung und durchschnittlich 15 Minuten Wartezeit. Selbst die USA untersuchen, wie Taiwan das geschafft hat.',
+    'resources.sub.finance': 'Finanzen und Daten',
+    'resources.sub.finance.desc':
+      'Die Taiwan Stock Exchange zählt zu den transparentesten Märkten Asiens. Von Finanzberichten börsennotierter Unternehmen bis zu Echtzeit-Handelsdaten ist alles öffentlich einsehbar.',
+    'resources.sub.civicTech': 'Bürgertechnologie-Projekte',
+    'resources.sub.foodMaps': 'Kulinarik- und Kulturkarten',
+
+    // Related articles
+    'resources.related.democracy': 'Weiterführend: Taiwans demokratischer Wandel',
+    'resources.related.label': 'Weiterführende Artikel',
+    'resources.related.government.1': 'Taiwans demokratischer Wandel',
+    'resources.related.government.2': 'Wahlen und Parteienpolitik',
+    'resources.related.government.3': 'Open-Source-Community und g0v',
+    'resources.related.culture.1': 'Indigene Kulturen',
+    'resources.related.culture.2': 'Bildungssystem',
+    'resources.related.culture.3': 'Nationalparks',
+    'resources.related.media.1': 'Sonnenblumenbewegung',
+    'resources.related.media.2': 'Medien und Pressefreiheit',
+    'resources.related.media.3': 'PTT',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': 'Halbleiterindustrie',
+    'resources.related.economy.3': 'Allgemeine Krankenversicherung',
+    'resources.related.community.1': 'Open-Source-Community und g0v',
+    'resources.related.community.2': 'Soziale Bewegungen und Bürgerbeteiligung',
+    'resources.related.community.3': 'Digitale Verwaltung',
+
+    // Footer stats
+    'resources.stats.collected': 'erfasste Ressourcen',
+    'resources.stats.chapters': 'Hauptkapitel',
+    'resources.stats.subcategories': 'Unterkategorien',
+
+    // Search
+    'resources.search.placeholder': 'Ressourcen durchsuchen...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'GitHub-Projekt ansehen',
+    'resources.aria.backToTop': 'Zurück nach oben',
+
+    // Reading Guide
+    'resources.guide.title': 'Wo anfangen?',
+    'resources.guide.desc':
+      'Stell dir vor, du bist gerade ohne Reiseführer in Taiwan gelandet. „Regierungsführung“ zeigt dir das Betriebssystem: wie eine junge Demokratie mit radikaler Transparenz funktioniert. „Kultur“ ist die Seele: 500 Museen, jährlich 15,000 Tempelfeste und 16 indigene Sprachen – alles auf einer Insel, die kleiner als die Schweiz ist. „Medien“ öffnen den Dialog: Ein 30 Jahre altes reines Textforum beeinflusst bis heute Wahlen, und eine der ambitioniertesten gemeinnützigen Redaktionen Asiens ist hier zu Hause. „Wirtschaft“ ist der Herzschlag: Ein Unternehmen produziert 92% der weltweit modernsten Chips, und die allgemeine Krankenversicherung kostet weniger als deine Mobilfunkrechnung. „Community“ ist die Einladung: Schließ dich den Open-Source-Aktiven an, die bei Wochenend-Hackathons digitale Werkzeuge für die Zivilgesellschaft entwickeln.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 Während COVID-19 entwickelten zivilgesellschaftliche Programmierer in Taiwan innerhalb von 72 Stunden eine Maskenkarte und ein System zur Impfterminvergabe. Möglich machte dieses Tempo eine weltweit unter den ersten drei rangierende staatliche Open-Data-Plattform mit 50,000+ Datensätzen, Echtzeit-APIs und freiem Zugang für alle. Während Entwickler in anderen Ländern noch auf eine Pressekonferenz der Regierung warteten, schrieben Taiwans Entwickler bereits Code.',
+    'resources.curator.culture':
+      '🔍 Nur wenige wissen, dass Taiwan eine der höchsten Museumsdichten Asiens hat. Doch die Zahlen zeigen nur die Oberfläche. Das eigentlich Besondere ist die „lebendige“ Kultur: jährlich mehr als 15,000 Tempelfeste und Rituale, 16 Sprachen der indigenen Völker sowie Wettbewerbe im Hakka-Berggesang. Taiwans Kultur steht nicht nur in Glasvitrinen – sie bewegt sich auf der Straße.',
+    'resources.curator.media':
+      '🔍 Wie groß ist der Einfluss von PTT? Während der Referenden von 2018 beeinflusste das Diskussionsaufkommen im Gossiping-Board von PTT unmittelbar die Wahlbeteiligung. Noch bemerkenswerter ist The Reporter: ein vollständig durch Spenden finanziertes Investigativmedium, das seit Jahren regelmäßig für asiatische Journalismuspreise nominiert wird. In einer Zeit grassierender Falschmeldungen hat Taiwan zugleich eine äußerst aktive Netzkultur und eine besonders engagierte Gemeinschaft von Faktenprüfern. Gerade dieser Widerspruch ist Ausdruck einer lebendigen Demokratie.',
+    'resources.curator.economy':
+      '🔍 Während Länder darüber streiten, wie hoch die Subventionen ihrer „Chipgesetze“ ausfallen sollen, schreibt Taiwan die Antwort seit 30 Jahren auf Siliziumscheiben: Eine kleine Insel ohne Erdöl und Eisenerz kontrolliert dank Fachkräften und Fertigung im Nanometerbereich 92% der weltweiten Produktionskapazität für modernste Chips. Diese Zahl hat den Berichten des Pentagon einen neuen Begriff beschert: „Siliziumschild“.',
+    'resources.curator.community':
+      '🔍 Die zweimonatlichen Hackathons von g0v fanden bereits mehr als 60 Mal statt. Jedes Mal melden sich Hunderte Programmierer, Designer und NGO-Mitarbeiter freiwillig an. Keine Bezahlung, keine Vorgesetzten – nur ein Laptop und ein Problem, das gelöst werden soll. So entstand die Maskenkarte: an einem Wochenende, durch einige Programmierer und mit Echtzeitdaten von sechstausend Apotheken. Das Silicon Valley spricht davon, „die Welt zu verändern“; Taiwans Open-Source-Community macht einfach vor, wie es geht.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'Die weltweit führende staatliche Open-Data-Plattform mit mehr als 50,000 Datensätzen – von der Luftqualität bis zu Buspositionen in Echtzeit, alles kostenlos abrufbar.',
+    'resources.featured.g0vGov':
+      'g0v: eine Civic-Tech-Community, die Regierungsführung neu gestaltet. Von der Maskenkarte bis vTaiwan verwischt sie die Grenze zwischen Hackern und politischen Entscheidungsträgern.',
+    'resources.featured.legislativeYuan':
+      'Taiwans Parlament: Liveübertragungen der Sitzungen, Nachverfolgung von Gesetzesvorhaben und die vorderste Linie demokratischer Beratungen.',
+
+    'resources.featured.npm':
+      'Mehr als 700,000 Kulturgüter aus 8000 Jahren: eine der weltweit bedeutendsten Sammlungen chinesischer Kunst, jetzt auch mit digitalen Ausstellungen.',
+    'resources.featured.ncl':
+      'Taiwans Nationalbibliothek und Pflichtexemplarstelle, das zentrale Archiv für die Publikationen und das Wissen des Landes.',
+    'resources.featured.npgov':
+      'Das Portal zu 9 Nationalparks – von dreitausend Meter hohen Bergen bis zu Korallenriffen – und zur außergewöhnlichen Biodiversität auf Taiwans 36,000 Quadratkilometern.',
+
+    'resources.featured.twreporter':
+      'Ein Wegbereiter des gemeinnützigen Investigativjournalismus in der chinesischsprachigen Welt mit vertieften Recherchen zu Umwelt, Gesellschaft und Politik.',
+    'resources.featured.ptt':
+      'Taiwans größtes Internetforum. Seit 1995 prägen täglich 200,000 aktive Nutzer eine einzigartige „Netzbürgerdemokratie“.',
+    'resources.featured.ptsNews':
+      'Die Nachrichten des öffentlich-rechtlichen Fernsehens in Taiwan: unabhängige, ausgewogene Berichterstattung und ein Maßstab für Journalismus im öffentlichen Interesse.',
+
+    'resources.featured.tsmc':
+      'Das wertvollste Halbleiterunternehmen der Welt produziert 92% der modernsten Chips für AI, Smartphones und Supercomputer.',
+    'resources.featured.twse': 'Das Herzstück des taiwanischen Kapitalmarkts und Börsenplatz von TSMC und Hon Hai.',
+    'resources.featured.nhi':
+      'Eine allgemeine Krankenversicherung, die 99.9% der Bevölkerung abdeckt und nur 6.6% des GDP beansprucht – ein weltweit von Gesundheitspolitikern untersuchtes Modell.',
+
+    'resources.featured.g0v':
+      'Eine der weltweit einflussreichsten Civic-Tech-Communities, aus der die COVID-Maskenkarte, die Beteiligungsplattform vTaiwan und eine Digitalministerin hervorgingen.',
+    'resources.featured.cofacts':
+      'Kollaborative Faktenprüfung auf LINE: Millionen Nutzer bekämpfen mithilfe von AI Falschinformationen.',
+    'resources.featured.taiwanmd':
+      'Das Projekt, das du gerade ansiehst: eine quelloffene, gemeinschaftlich erarbeitete Enzyklopädie über Taiwan.',
+
+    // Section footer
+    'resources.section.footer.verified': 'Zuletzt überprüft: 2026-03-24',
+    'resources.section.footer.reportLink': 'Defekten Link melden',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'Zuletzt aktualisiert: März 2026',
+    'resources.footer.report': 'Defekten Link melden',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president': 'Präsidialamt der Republik China',
+    'resources.site.executiveYuan': 'Exekutiv-Yuan',
+    'resources.site.legislativeYuan': 'Legislativ-Yuan',
+    'resources.site.judicialYuan': 'Justiz-Yuan',
+    'resources.site.examinationYuan': 'Prüfungs-Yuan',
+    'resources.site.controlYuan': 'Kontroll-Yuan',
+
+    'resources.site.mofa': 'Außenministerium',
+    'resources.site.moda': 'Ministerium für digitale Angelegenheiten',
+    'resources.site.cip': 'Rat für indigene Völker',
+    'resources.site.moc': 'Kulturministerium',
+    'resources.site.moe': 'Bildungsministerium',
+    'resources.site.moea': 'Wirtschaftsministerium',
+    'resources.site.motc': 'Ministerium für Verkehr und Kommunikation',
+    'resources.site.moi': 'Innenministerium',
+    'resources.site.ndc': 'Nationaler Entwicklungsrat',
+    'resources.site.mac': 'Rat für Festlandangelegenheiten',
+    'resources.site.mol': 'Arbeitsministerium',
+    'resources.site.moenv': 'Umweltministerium',
+    'resources.site.moa': 'Landwirtschaftsministerium',
+    'resources.site.mnd': 'Verteidigungsministerium',
+    'resources.site.moj': 'Justizministerium',
+    'resources.site.mohw': 'Ministerium für Gesundheit und Soziales',
+    'resources.site.trade': 'Behörde für internationalen Handel des Wirtschaftsministeriums',
+    'resources.site.sme': 'Behörde für kleine, mittlere und neu gegründete Unternehmen',
+    'resources.site.tipo': 'Amt für geistiges Eigentum des Wirtschaftsministeriums',
+    'resources.site.fsc': 'Finanzaufsichtskommission',
+    'resources.site.immigration': 'Nationale Einwanderungsbehörde des Innenministeriums',
+    'resources.site.cwa': 'Zentrale Wetterbehörde',
+    'resources.site.nstc': 'Nationaler Rat für Wissenschaft und Technologie',
+
+    'resources.site.taipei': 'Stadtregierung von Taipeh',
+    'resources.site.newTaipei': 'Stadtregierung von Neu-Taipeh',
+    'resources.site.taichung': 'Stadtregierung von Taichung',
+    'resources.site.kaohsiung': 'Stadtregierung von Kaohsiung',
+    'resources.site.tainan': 'Stadtregierung von Tainan',
+    'resources.site.taoyuan': 'Stadtregierung von Taoyuan',
+    'resources.site.keelung': 'Stadtregierung von Keelung',
+    'resources.site.hsinchu': 'Stadtregierung von Hsinchu',
+    'resources.site.chiayi': 'Stadtregierung von Chiayi',
+    'resources.site.yilan': 'Kreisregierung von Yilan',
+    'resources.site.hsinchuCounty': 'Kreisregierung von Hsinchu',
+    'resources.site.miaoli': 'Kreisregierung von Miaoli',
+    'resources.site.changhua': 'Kreisregierung von Changhua',
+    'resources.site.nantou': 'Kreisregierung von Nantou',
+    'resources.site.yunlin': 'Kreisregierung von Yunlin',
+    'resources.site.chiayiCounty': 'Kreisregierung von Chiayi',
+    'resources.site.pingtung': 'Kreisregierung von Pingtung',
+    'resources.site.taitung': 'Kreisregierung von Taitung',
+    'resources.site.hualien': 'Kreisregierung von Hualien',
+    'resources.site.penghu': 'Kreisregierung von Penghu',
+    'resources.site.kinmenGov': 'Kreisregierung von Kinmen',
+    'resources.site.lienchiang': 'Kreisregierung von Lienchiang',
+    'resources.site.dataGov': 'Offenes Regierungsdatenportal',
+    'resources.site.taiwanGov': 'Regierungsportal',
+    'resources.site.lawDb': 'Nationale Rechtsdatenbank',
+    'resources.site.g0v': 'g0v Null-Regierung',
+
+    'resources.site.ntu': 'Nationaluniversität Taiwan',
+    'resources.site.nthu': 'Nationale Tsing-Hua-Universität',
+    'resources.site.nycu': 'Nationale Yang-Ming-Chiao-Tung-Universität',
+    'resources.site.ncku': 'Nationale Cheng-Kung-Universität',
+    'resources.site.nccu': 'Nationale Chengchi-Universität',
+    'resources.site.ntnu': 'Nationale Pädagogische Universität Taiwan',
+    'resources.site.sinica': 'Academia Sinica',
+    'resources.site.tesd': 'Plattform für empirische Erhebungsdaten aus Taiwan',
+    'resources.site.tcs': 'Datenbank für Kommunikationsforschung in Taiwan',
+    'resources.site.brill': 'Brill-Enzyklopädie der Taiwanforschung',
+    'resources.site.itri': 'Forschungsinstitut für Industrietechnologie',
+    'resources.site.niar': 'Nationale Institute für angewandte Forschung',
+    'resources.site.airitilibrary': 'Airiti Library',
+    'resources.site.ndltd': 'Taiwanesisches Wissenssystem für Hochschulschriften',
+
+    'resources.site.ncl': 'Nationale Zentralbibliothek',
+    'resources.site.npm': 'Nationales Palastmuseum',
+    'resources.site.ntm': 'Nationalmuseum Taiwan',
+    'resources.site.nmth': 'Nationalmuseum für Geschichte Taiwans',
+    'resources.site.nmns': 'Nationalmuseum für Naturwissenschaften',
+    'resources.site.nmmba': 'Nationalmuseum für Meeresbiologie und Aquarium',
+    'resources.site.nmtl': 'Nationalmuseum für taiwanische Literatur',
+    'resources.site.ntmofa': 'Nationalmuseum der Schönen Künste Taiwan',
+
+    'resources.site.tfam': 'Museum der Schönen Künste Taipeh',
+    'resources.site.kmfa': 'Museum der Schönen Künste Kaohsiung',
+    'resources.site.npacNtt': 'Nationaltheater Taichung',
+    'resources.site.npacNtch': 'Nationaltheater und Nationale Konzerthalle',
+    'resources.site.weiwuying': 'Nationales Kunst- und Kulturzentrum Weiwuying',
+    'resources.site.songshan': 'Kultur- und Kreativpark Songshan',
+    'resources.site.huashan': 'Kultur- und Kreativpark Huashan',
+    'resources.site.pier2': 'Kunstzentrum Pier-2',
+    'resources.site.digitalArchives': 'Digitale Sammlungen Taiwan',
+    'resources.site.scitechVista': 'Panorama von Wissenschaft und Technik',
+    'resources.site.tcmb': 'Nationale Datenbank des kulturellen Gedächtnisses',
+    'resources.site.taicca': 'Taiwan Creative Content Agency TAICCA',
+
+    'resources.site.yushan': 'Yushan-Nationalpark',
+    'resources.site.taroko': 'Taroko-Nationalpark',
+    'resources.site.kenting': 'Kenting-Nationalpark',
+    'resources.site.sheipa': 'Shei-Pa-Nationalpark',
+    'resources.site.yangmingshan': 'Yangmingshan-Nationalpark',
+    'resources.site.kinmenPark': 'Kinmen-Nationalpark',
+    'resources.site.taijiang': 'Taijiang-Nationalpark',
+    'resources.site.dongsha': 'Dongsha-Atoll-Nationalpark',
+    'resources.site.southPenghu': 'Nationalpark Süd-Penghu-Meeresinseln',
+    'resources.site.taiwanTourism': 'Taiwan Tourism',
+    'resources.site.sunMoonLake': 'Nationales Landschaftsgebiet Sonne-Mond-See',
+    'resources.site.alishan': 'Nationales Landschaftsgebiet Alishan',
+
+    'resources.site.cna': 'Zentrale Nachrichtenagentur',
+    'resources.site.pts': 'Öffentlich-rechtliches Fernsehen',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': 'Taiwan Panorama',
+    'resources.site.rti': 'Radio Taiwan International',
+    'resources.site.udn': 'United Daily News',
+    'resources.site.ltn': 'Liberty Times',
+    'resources.site.tvbs': 'TVBS-Nachrichten',
+    'resources.site.setn': 'SET News',
+    'resources.site.ebc': 'EBC News',
+    'resources.site.commonwealth': 'CommonWealth Magazine',
+    'resources.site.businesstoday': 'Business Today',
+    'resources.site.businessweekly': 'Business Weekly',
+
+    'resources.site.twreporter': 'The Reporter',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': 'The News Lens',
+    'resources.site.upmedia': 'Up Media',
+    'resources.site.storm': 'The Storm Media',
+
+    'resources.site.tahr': 'Taiwanische Vereinigung für Menschenrechte',
+    'resources.site.teia': 'Taiwanische Umweltinformationsvereinigung',
+    'resources.site.sow': 'Gesellschaft für Wildnis',
+    'resources.site.ocf': 'Stiftung für offene Kultur',
+    'resources.site.tfc': 'Taiwanisches Zentrum für Faktenprüfung',
+    'resources.site.twnic': 'Taiwan Network Information Center',
+    'resources.site.wikimedia': 'Wikimedia Taiwan',
+    'resources.site.digitalDiplomacy': 'Taiwanische Vereinigung für digitale Diplomatie',
+
+    'resources.site.tsmc': 'Taiwan Semiconductor Manufacturing',
+    'resources.site.umc': 'United Microelectronics',
+    'resources.site.foxconn': 'Hon Hai Technology',
+    'resources.site.delta': 'Delta Electronics',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': 'Chunghwa Telecom',
+    'resources.site.taipower': 'Taiwan Power Company',
+    'resources.site.iii': 'Institut für Informationsindustrie',
+    'resources.site.investTaiwan': 'Invest Taiwan',
+
+    'resources.site.railway': 'Taiwanische Eisenbahn',
+    'resources.site.thsrc': 'Taiwanische Hochgeschwindigkeitsbahn',
+    'resources.site.taiwanTrip': 'Taiwan Tourist Shuttle',
+    'resources.site.taoyuanAirport': 'Internationaler Flughafen Taoyuan',
+    'resources.site.metroTaipei': 'Metro Taipeh',
+    'resources.site.krtc': 'Metro Kaohsiung',
+
+    'resources.site.cdc': 'Behörde für Seuchenkontrolle',
+    'resources.site.nhi': 'Nationale Krankenversicherungsbehörde',
+    'resources.site.ntuh': 'Universitätsklinikum der Nationaluniversität Taiwan',
+    'resources.site.vghtpe': 'Veteranenkrankenhaus Taipeh',
+    'resources.site.cgmh': 'Chang-Gung-Krankenhausverbund',
+    'resources.site.cmuh': 'Universitätsklinikum der Medizinischen Universität China',
+    'resources.site.kmuh': 'Universitätsklinikum der Medizinischen Universität Kaohsiung',
+
+    'resources.site.stat': 'Nationale Statistik',
+    'resources.site.twse': 'Taiwan Stock Exchange',
+    'resources.site.tpex': 'Taipei Exchange',
+
+    'resources.site.github': 'GitHub-Projektarchiv',
+    'resources.site.contribute': 'Leitfaden zum Mitwirken',
+    'resources.site.rss': 'RSS-Abonnement',
+
+    // New community site names
+    'resources.site.electionMap': 'Wahlkarte Taiwans',
+    'resources.site.maskMap': 'Maskenkarte（2020）',
+    'resources.site.goodinfo': 'Goodinfo Taiwan-Aktieninformationen',
+    'resources.site.ccw': 'Bürgervereinigung zur parlamentarischen Kontrolle',
+    'resources.site.thaubing': 'Transparenter Fußabdruck',
+    'resources.site.politicalDonation': 'Öffentliche Suche nach politischen Spenden',
+    'resources.site.burgerMap': 'Burgerkarte Taipehs',
+    'resources.site.nightMarket': 'Nachtmarkt-App',
+    'resources.site.cofacts': 'Cofacts Echt oder falsch',
+    'resources.site.disfactory': 'Disfactory Illegale Fabriken auf Ackerland',
+    'resources.site.ptt': 'PTT Bulletin-Board-System',
+    'resources.site.ptsNews': 'PTS-Nachrichtenportal',
+    'resources.site.npgov': 'Nationalparkportal',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
   'zh-TW': {
     // Meta
     'resources.meta.title': '台灣資源導覽 - Taiwan.md',

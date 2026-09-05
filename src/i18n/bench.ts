@@ -1,7 +1,7 @@
 // bench.ts — Sovereignty-Bench-TW page deep i18n (issue #1312)
 // Pattern follows about.ts: standalone module spread into ui.ts per-language blocks.
 // Only en / ja / ko / zh-TW carry full bench prose; other languages fall through
-// the FALLBACK_CHAIN in utils.ts (es/fr/vi/id/pt/hi/ar/ru → en → zh-TW).
+// the FALLBACK_CHAIN in utils.ts (es/fr/vi/id/pt/hi/ar/ru/de → en → zh-TW).
 //
 // Translation ground rules applied (docs/editorial/per-language/TRANSLATION-ja.md v2 +
 // TRANSLATION-ko.md v2.0):

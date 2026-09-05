@@ -378,6 +378,38 @@ export const timelineUI = {
     'timeline.outroContribute': 'Внести статью',
     'timeline.outroHistory': 'Просмотреть категорию истории',
   },
+  de: {
+    'timeline.figures': 'Gesichter dieser Epoche',
+    'timeline.prologueSource':
+      'Die Periodisierung auf dieser Seite beruht auf dem 1990 vom Historiker Cao Yonghe entwickelten Konzept einer „Geschichte der Insel Taiwan“.',
+    'timeline.prologueSourceCta': 'Artikel lesen',
+    'timeline.outroMap': 'Taiwan geografisch: Karte',
+    'timeline.statEras': 'Epochen',
+    'timeline.statEvents': 'Schlüsselmomente',
+    'timeline.statArticles': 'Artikel auf der Zeitleiste',
+    'timeline.outroLinked': 'Artikel sind bereits mit dieser Zeitleiste verknüpft',
+    'nav.timeline': 'Taiwan im Lauf der Zeit',
+    'nav.timeline.subtitle': 'Die Insel im Lauf der Zeit entfaltet',
+    'timeline.meta.title': 'Taiwan im Lauf der Zeit: Zeitleiste von der Vorgeschichte bis heute',
+    'timeline.meta.description':
+      'Von oben nach unten durch Taiwans Epochen scrollen: von den austronesischen Ursprüngen über die niederländisch-spanische Konkurrenz, das Königreich Tungning, die Qing-Herrschaft, die japanische Kolonialzeit, das Kriegsrecht und die Demokratisierung bis zur Gegenwart – jede Epoche ist mit vertiefenden Artikeln und Forschungsbeiträgen der Website verknüpft.',
+    'timeline.eyebrow': 'Von der Vorgeschichte bis heute',
+    'timeline.title': 'Taiwan im Lauf der Zeit',
+    'timeline.subtitle':
+      'Die Karte entfaltet diese Insel im Raum, diese Seite entfaltet sie in der Zeit. Scrollen Sie von der Vorgeschichte bis heute – jede Epoche ist mit Artikeln und Forschungsbeiträgen der Website verknüpft.',
+    'timeline.heroNote': 'Die Insel ist die Bühne, die Menschen sind die Hauptfiguren – Herrschaftssysteme sind nur wechselnde Darsteller.',
+    'timeline.jumpLabel': 'Zu einer Epoche springen',
+    'timeline.events': 'Schlüsselmomente',
+    'timeline.anchorsLabel': 'Hier weiterlesen',
+    'timeline.articlesLabel': 'Artikel zu dieser Epoche',
+    'timeline.desertTitle': 'Dieser Abschnitt ist noch lückenhaft',
+    'timeline.desertCta': 'Mitschreiben',
+    'timeline.outroTitle': 'Auch Sie schreiben Geschichte',
+    'timeline.outroBody':
+      'Diese Zeitleiste ist aus den Artikeln der Website zusammengenäht, doch sie ist noch lange nicht fertig – manche Epochen sind noch nahezu leer. Taiwan.md ist eine quelloffene Wissenssammlung: Jede Lücke ist eine Einladung.',
+    'timeline.outroContribute': 'Einen Artikel beitragen',
+    'timeline.outroHistory': 'Kategorie Geschichte durchsuchen',
+  },
   'zh-TW': {
     'timeline.figures': '這個時代的臉',
     'timeline.prologueSource':
