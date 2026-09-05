@@ -4,7 +4,7 @@ fork_type: semantic
 
 display:
   taiwan: 行銷
-  china: 市場
+  china: 營銷
 
 notes: |
   Marketing
@@ -13,4 +13,4 @@ sources:
   - 'google-sheets-crowdsource'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

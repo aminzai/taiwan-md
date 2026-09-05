@@ -4,7 +4,7 @@ fork_type: semantic
 
 display:
   taiwan: 宵夜
-  china: 夜餐
+  china: 夜宵
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

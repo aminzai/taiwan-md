@@ -3,8 +3,8 @@ category: proper-noun
 fork_type: orthographic
 
 display:
-  taiwan: 突尼斯
-  china: 突尼西亞
+  taiwan: 突尼西亞
+  china: 突尼斯
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

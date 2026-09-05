@@ -4,7 +4,7 @@ subcategory: 日常生活
 fork_type: B
 
 display:
-  taiwan: 解除規格化
+  taiwan: 去正規化
   china: 反規範化
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-09-05'

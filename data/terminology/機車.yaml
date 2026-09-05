@@ -2,6 +2,7 @@ id: jiche
 category: daily
 subcategory: 公路交通
 fork_type: D
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
   taiwan: 機車
   china: 摩托車

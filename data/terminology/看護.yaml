@@ -4,7 +4,7 @@ subcategory: 醫療
 fork_type: B
 
 display:
-  taiwan: 看護
+  taiwan: 看護工
   china: 护工
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — medical.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-09-05'

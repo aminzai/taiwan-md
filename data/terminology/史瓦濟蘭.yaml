@@ -3,8 +3,8 @@ category: daily-life
 fork_type: semantic
 
 display:
-  taiwan: 斯威士蘭
-  china: 史瓦濟蘭
+  taiwan: 史瓦濟蘭
+  china: 斯威士蘭
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

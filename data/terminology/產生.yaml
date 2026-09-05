@@ -2,6 +2,7 @@ id: 產生
 category: education
 subcategory: 教育
 fork_type: B
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 
 display:
   taiwan: 產生

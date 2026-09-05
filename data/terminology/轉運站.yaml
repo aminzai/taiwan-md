@@ -4,7 +4,7 @@ subcategory: 大眾運輸
 fork_type: B
 display:
   taiwan: 轉運站
-  china: 交通樞紐
+  china: 換乘中心
 english: transport interchange / transit hub
 etymology:
   origin: 台灣以「轉運站」命名多模式交通換乘樞紐，中國多用「交通樞紐」或「換乘中心」。
@@ -15,11 +15,11 @@ etymology:
 usage:
   taiwan_formal: true
   taiwan_casual: true
-  exceptions: ""
+  exceptions: ''
 status: stable
 notes: |
   台北轉運站是台北最重要的長途客運交通樞紐，「搭車去轉運站」是台灣人回鄉或長途旅行的共同記憶。
 sources:
   - 交通部公路局長途客運站管理辦法
 added: 2026-03-30
-updated: 2026-03-30
+updated: '2026-09-05'

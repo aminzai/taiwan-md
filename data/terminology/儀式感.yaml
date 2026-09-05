@@ -1,6 +1,7 @@
 id: 儀式感
 category: slang
 fork_type: E
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
   taiwan: 儀式感（已高度收編）
   china: 儀式感

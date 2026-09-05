@@ -4,7 +4,7 @@ subcategory: 地名
 fork_type: B
 
 display:
-  taiwan: 乾普敦
+  taiwan: 開普敦
   china: 开普敦
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-09-05'

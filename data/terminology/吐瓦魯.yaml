@@ -3,8 +3,8 @@ category: daily-life
 fork_type: semantic
 
 display:
-  taiwan: 圖瓦盧
-  china: 吐瓦魯
+  taiwan: 吐瓦魯
+  china: 圖瓦盧
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

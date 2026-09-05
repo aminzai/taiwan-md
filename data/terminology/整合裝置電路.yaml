@@ -3,10 +3,10 @@ category: daily
 subcategory: 交通
 fork_type: B
 display:
-  taiwan: 整合裝置電路
-  china: 集成設備電路
+  taiwan: 積體電路
+  china: 集成電路
 notes: ''
 sources:
   - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: 2026-03-30
-updated: 2026-03-30
+updated: '2026-09-05'

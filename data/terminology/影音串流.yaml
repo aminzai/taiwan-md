@@ -5,7 +5,7 @@ fork_type: B
 
 display:
   taiwan: 影音串流
-  china: 影音流
+  china: 視頻串流
 
 notes: ''
 
@@ -13,4 +13,4 @@ sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-09-05'

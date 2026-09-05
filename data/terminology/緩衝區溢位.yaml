@@ -5,7 +5,7 @@ fork_type: B
 
 display:
   taiwan: 緩衝區溢位
-  china: 緩存溢出
+  china: 緩衝區溢出
 
 notes: ''
 
@@ -13,4 +13,4 @@ sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-09-05'

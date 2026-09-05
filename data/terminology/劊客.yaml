@@ -2,10 +2,11 @@ id: 劊客
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 
 display:
-  taiwan: 劊客
-  china: 潰客
+  taiwan: 駭客
+  china: 黑客
 
 notes: ''
 
@@ -13,4 +14,4 @@ sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-09-05'

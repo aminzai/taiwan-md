@@ -5,7 +5,7 @@ fork_type: B
 
 display:
   taiwan: 貼圖
-  china: 贴纸
+  china: 表情包
 
 notes: ''
 
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — base.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-09-05'

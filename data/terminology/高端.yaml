@@ -1,8 +1,9 @@
 id: 高端
 category: daily
 fork_type: E
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
-  taiwan: 高級 / 高階 / 先進
+  taiwan: 高階
   china: 高端
 etymology:
   origin: 指高級、上等的事物。

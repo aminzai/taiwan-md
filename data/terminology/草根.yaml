@@ -1,6 +1,7 @@
 id: grassroots
 category: daily
 fork_type: D
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
   taiwan: 基層 / 平民
   china: 草根

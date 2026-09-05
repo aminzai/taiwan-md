@@ -1,6 +1,7 @@
 id: 對接
 category: business
 fork_type: E
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
   taiwan: 接洽 / 對口 / 串接
   china: 對接

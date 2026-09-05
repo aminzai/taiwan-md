@@ -4,7 +4,7 @@ subcategory: 教育
 fork_type: B
 
 display:
-  taiwan: 大學生
+  taiwan: 大學部學生
   china: 本科生
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-09-05'

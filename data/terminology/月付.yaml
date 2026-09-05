@@ -4,7 +4,7 @@ subcategory: 金融
 fork_type: B
 
 display:
-  taiwan: 月付
+  taiwan: 月繳
   china: 月供
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — finance.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-09-05'

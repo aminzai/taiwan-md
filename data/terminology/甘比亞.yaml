@@ -3,8 +3,8 @@ category: proper-noun
 fork_type: orthographic
 
 display:
-  taiwan: 岡比亞
-  china: 甘比亞
+  taiwan: 甘比亞
+  china: 冈比亚
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

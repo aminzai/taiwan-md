@@ -3,7 +3,7 @@ category: daily-life
 fork_type: semantic
 
 display:
-  taiwan: 離職 / 解職
+  taiwan: 資遣
   china: 下崗
 
 notes: ''
@@ -12,4 +12,4 @@ sources:
   - 'google-sheets-crowdsource'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

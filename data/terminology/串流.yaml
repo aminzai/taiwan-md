@@ -2,6 +2,7 @@ id: 串流
 category: tech
 subcategory: 軟體與程式開發
 fork_type: F
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
   taiwan: 串流
   china: （數據）流 / 流媒體

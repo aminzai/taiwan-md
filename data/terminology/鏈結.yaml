@@ -4,7 +4,7 @@ fork_type: semantic
 
 display:
   taiwan: 連結
-  china: 鏈結
+  china: 鏈接
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'google-sheets-crowdsource'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

@@ -2,6 +2,7 @@ id: digital
 category: tech
 subcategory: 科技通用
 fork_type: B
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 
 display:
   taiwan: 數位
@@ -14,7 +15,7 @@ etymology:
   origin: 以離散數值（0/1）表示資訊的技術形式，對應 analog（類比）
   taiwan_path: 台灣採「數位」，「位」呼應二進位的「位元（bit）」概念，建立一致的技術術語體系
   china_path: 中國採「數字」，更日常，但「數字」也指「阿拉伯數字 1234」，有語義模糊問題
-  fork_point: "~1990s"
+  fork_point: '~1990s'
   fork_cause: 台灣與「位元」術語體系一致（數位→位元→位元組），中國採較日常的「數字」
 
 usage:
@@ -26,8 +27,8 @@ status: stable
 notes: 數位相機（台灣）vs 數碼相機（香港）vs 數字相機（中國）。數位部（台灣政府機關）。台灣「數位」已寫入政府機關名稱。
 
 sources:
-  - "行政院數位部官方用語"
-  - "教育部資訊術語"
+  - '行政院數位部官方用語'
+  - '教育部資訊術語'
 
-added: "2026-03-29"
-updated: "2026-03-29"
+added: '2026-03-29'
+updated: '2026-03-29'

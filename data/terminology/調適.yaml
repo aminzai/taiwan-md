@@ -4,7 +4,7 @@ fork_type: semantic
 
 display:
   taiwan: 偵錯 / 除錯
-  china: 調適
+  china: 調試
 
 notes: |
   debug
@@ -13,4 +13,4 @@ sources:
   - 'google-sheets-crowdsource'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-09-05'

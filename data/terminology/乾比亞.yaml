@@ -4,7 +4,7 @@ subcategory: 地名
 fork_type: B
 
 display:
-  taiwan: 乾比亞
+  taiwan: 甘比亞
   china: 冈比亚
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-09-05'

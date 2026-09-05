@@ -4,8 +4,8 @@ subcategory: 日常生活
 fork_type: B
 
 display:
-  taiwan: 停止追蹤
-  china: 請勿追蹤
+  taiwan: 取消追蹤
+  china: 取消關注
 
 notes: ''
 
@@ -13,4 +13,4 @@ sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-09-05'

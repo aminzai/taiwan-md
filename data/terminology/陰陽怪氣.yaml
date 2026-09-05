@@ -2,7 +2,7 @@ id: 陰陽怪氣
 category: daily
 fork_type: E
 display:
-  taiwan: 怪裡怪氣 / 假鬼假怪
+  taiwan: 酸言酸語
   china: 陰陽怪氣
 etymology:
   origin: 指表面平和、實則夾帶諷刺挖苦的語氣或態度。「陰陽怪氣」本身是兩岸共有的老詞，分歧出現在詞性——形容詞用法是共同遺產，動詞用法是中國網路時代的新發展。
@@ -17,4 +17,4 @@ sources:
   - https://github.com/caris-events/invade
   - https://dict.revised.moe.edu.tw/search.jsp?md=1&word=%E9%99%B0%E9%99%BD%E6%80%AA%E6%B0%A3
 added: 2026-03-30
-updated: 2026-08-12
+updated: '2026-09-05'

@@ -2,6 +2,7 @@ id: year_end_party
 category: business
 subcategory: 商業
 fork_type: D
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 
 display:
   taiwan: 尾牙
@@ -14,20 +15,20 @@ etymology:
   origin: 「尾牙」為台灣民俗節日，農曆十二月十六「尾牙」日（土地公生日），傳統上雇主宴請員工
   taiwan_path: 台灣商業文化沿用「尾牙」，現指公司年底員工尾牙宴，常有摸彩、表演節目
   china_path: 中國採「年會」（年度大會），通常在農曆年前舉行，規模可大可小
-  fork_point: "~1950s"
+  fork_point: '~1950s'
   fork_cause: 台灣保留閩南民俗文化（牙祭習俗）；中國無此民俗傳統
 
 usage:
   taiwan_formal: true
   taiwan_casual: true
-  exceptions: ""
+  exceptions: ''
 
 status: stable
 notes: 「尾牙」是台灣獨有的民俗文化詞彙，中國完全不使用。「尾牙抽到大獎」「尾牙秀表演」等說法帶有強烈台灣文化認同。
 
 sources:
-  - "《大陸用語檢索手冊》（1997）"
-  - "教育部國語辭典：尾牙"
+  - '《大陸用語檢索手冊》（1997）'
+  - '教育部國語辭典：尾牙'
 
-added: "2026-03-29"
-updated: "2026-03-29"
+added: '2026-03-29'
+updated: '2026-03-29'

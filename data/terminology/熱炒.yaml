@@ -5,7 +5,7 @@ fork_type: B
 
 display:
   taiwan: 熱炒
-  china: 热菜
+  china: 炒菜
 
 notes: ''
 
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — daily.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-09-05'

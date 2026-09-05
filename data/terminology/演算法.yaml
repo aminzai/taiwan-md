@@ -1,15 +1,16 @@
-id: "yansuan-fa"
+id: 'yansuan-fa'
 category: tech
 subcategory: 軟體與程式開發
 fork_type: B
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 
 display:
-  taiwan: "演算法"
-  china: "算法"
-  hongkong: "演算法 / 算法"
-  southeast_asia: "算法 / 演算法"
+  taiwan: '演算法'
+  china: '算法'
+  hongkong: '演算法 / 算法'
+  southeast_asia: '算法 / 演算法'
 
-english: "algorithm"
+english: 'algorithm'
 
 etymology:
   origin: >
@@ -26,7 +27,7 @@ etymology:
     中國電腦科學教育使用「算法」，更加簡潔。在深度學習、
     AI研究熱潮（2010年代起）中，「算法」在中國互聯網語境中
     使用頻率極高（「推薦算法」「算法黑箱」「算法歧視」等）。
-  fork_point: "~1980s"
+  fork_point: '~1980s'
   fork_cause: >
     台灣傾向於完整保留過程性（演算的「演」），中國傾向於簡潔（算法），
     反映兩岸術語制定的不同風格取向。
@@ -38,17 +39,17 @@ usage:
     在台灣讀AI研究論文或閱讀中國大陸學者的中文著作時，
     「算法」可能出現，但Taiwan.md文章一律使用「演算法」。
 
-status: "stable"
+status: 'stable'
 
 detection:
   severity: B
   false_positives:
-    - pattern: "演算法"
-      note: "台灣正確用語「演算法」含「算法」字串"
-    - pattern: "貪婪演算法"
-      note: "演算法子類別"
-    - pattern: "貪心算法"
-      note: "貪心演算法另一寫法（仍為台灣語境）"
+    - pattern: '演算法'
+      note: '台灣正確用語「演算法」含「算法」字串'
+    - pattern: '貪婪演算法'
+      note: '演算法子類別'
+    - pattern: '貪心算法'
+      note: '貪心演算法另一寫法（仍為台灣語境）'
 
 notes: >
   「演算法 vs 算法」在AI和電腦科學報導中是最直接的台灣/中國來源辨識指標。
@@ -56,9 +57,9 @@ notes: >
   「推薦演算法」「機器學習演算法」是台灣AI討論中的標準用語。
 
 sources:
-  - "國立台灣大學電機資訊學院演算法課程教材"
-  - "資訊工業策進會（資策會）術語標準"
-  - "教育部資訊與通訊科技詞彙"
+  - '國立台灣大學電機資訊學院演算法課程教材'
+  - '資訊工業策進會（資策會）術語標準'
+  - '教育部資訊與通訊科技詞彙'
 
-added: "2026-03-29"
-updated: "2026-03-29"
+added: '2026-03-29'
+updated: '2026-03-29'

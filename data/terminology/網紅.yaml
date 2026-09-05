@@ -1,6 +1,7 @@
 id: 網紅
 category: internet
 fork_type: E
+auto_convert: false # 命中自家正文 ≥ 20 處，同形異義風險高（2026-09-05 sweep 批四）
 display:
   taiwan: 網紅（已通用；早期說「部落客」「網路名人」）
   china: 網紅（網絡紅人）
