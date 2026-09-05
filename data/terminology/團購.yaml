@@ -2,12 +2,13 @@ id: 團購
 category: business
 subcategory: 電子商務
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 團購
   china: 拼团
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「團購」在中國同樣極為常用（如美團、餓了麼），非台灣特有說法'
 
 sources:
   - 'rajatim/zhtw (MIT) — ecommerce.json'

@@ -1,12 +1,13 @@
 id: 通宵電影
 category: media
 fork_type: semantic
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 午夜場
   china: 通宵電影
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「午夜場」兩岸皆通用，「通宵電影」非標準說法，無實質分歧'
 
 sources:
   - 'fanhuaji-config'

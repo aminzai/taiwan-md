@@ -2,12 +2,13 @@ id: 點數
 category: business
 subcategory: 電子商務
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 點數
   china: 积分
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「點數」與「積分」兩岸皆使用且各有語境重疊，非清楚地域分歧'
 
 sources:
   - 'rajatim/zhtw (MIT) — ecommerce.json'

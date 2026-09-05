@@ -1,12 +1,13 @@
 id: 亭式車站
 category: daily-life
 fork_type: semantic
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 候車亭
   china: 亭式車站
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國標準用語同為「候車亭」，「亭式車站」非標準說法，無兩岸分歧'
 
 sources:
   - 'fanhuaji-config'

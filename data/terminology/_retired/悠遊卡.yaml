@@ -1,4 +1,6 @@
 id: transit_card_tw
+retired: true
+retired_reason: '台北大眾運輸電子票證品牌名稱，屬專有名詞／產品名非用語分歧（哲宇 2026-09-05 判準：品牌／專有名詞移出詞庫）'
 category: daily
 subcategory: 交通
 fork_type: B

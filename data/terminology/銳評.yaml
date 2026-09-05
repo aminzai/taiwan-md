@@ -1,6 +1,7 @@
 id: 銳評
 category: daily
 fork_type: E
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 display:
   taiwan: 一針見血 / 批評 / 批判
   china: 銳評

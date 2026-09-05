@@ -2,12 +2,13 @@ id: 批次
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 批次
   china: 批量
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「批次」與「批量」兩岸皆常用且各自有語意分工，非地域分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

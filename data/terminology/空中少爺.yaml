@@ -2,12 +2,13 @@ id: 空中少爺
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 空中少爺
   china: 空哥
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「空哥」與「空少／空服員」兩岸用法互有重疊，無清楚排他分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

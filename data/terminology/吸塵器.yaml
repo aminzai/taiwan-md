@@ -2,12 +2,13 @@ id: 吸塵器
 category: daily
 subcategory: 生活雜項
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 吸塵器
   china: 除塵器
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國同樣普遍使用「吸塵器」，「除塵器」實指工業集塵設備，非兩岸分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

@@ -2,12 +2,13 @@ id: 圖型識別
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 圖型識別
   china: 模式識別
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：兩岸學術標準用語同為「模式識別」(Pattern Recognition)，「圖型識別」非標準台灣說法'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

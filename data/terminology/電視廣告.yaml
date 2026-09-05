@@ -2,12 +2,13 @@ id: 電視廣告
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 電視廣告
   china: 螢幕廣告
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國同樣使用「電視廣告」，「螢幕廣告」通常指數位螢幕廣告，非電視廣告對應詞，無實質分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

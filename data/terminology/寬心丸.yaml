@@ -1,12 +1,13 @@
 id: 寬心丸
 category: daily-life
 fork_type: semantic
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 定心丸
   china: 寬心丸
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「定心丸」與「寬心丸」兩岸皆通用，無專屬分歧'
 
 sources:
   - 'fanhuaji-config'

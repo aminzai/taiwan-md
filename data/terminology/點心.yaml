@@ -2,12 +2,13 @@ id: 點心
 category: daily
 subcategory: 生活雜項
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 點心
   china: 茶點
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「點心」為兩岸共用詞彙，「茶點」範疇不同（茶會點心）而非地域分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

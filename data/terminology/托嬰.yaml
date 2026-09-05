@@ -2,12 +2,13 @@ id: 托嬰
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 托嬰
   china: 托幼
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：「托幼」在台灣亦常用（托育機構、托幼中心），無專屬分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

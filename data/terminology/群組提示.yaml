@@ -2,12 +2,13 @@ id: 群組提示
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 群組提示
   china: 組提示
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國通訊軟體同樣使用「群組提示／群消息」，「組提示」非標準用語，無實質分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

@@ -1,12 +1,13 @@
 id: 愛侶動物
 category: daily-life
 fork_type: semantic
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 寵物
   china: 愛侶動物
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國通用詞同為「寵物」，「愛侶動物」非標準說法，無實質分歧'
 
 sources:
   - 'fanhuaji-config'

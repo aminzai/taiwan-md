@@ -2,12 +2,13 @@ id: 急救箱
 category: education
 subcategory: 教育
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 急救箱
   china: 救生盒
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國同樣使用「急救箱」，「救生盒」非標準說法，無實質分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

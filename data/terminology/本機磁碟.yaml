@@ -2,12 +2,13 @@ id: 本機磁碟
 category: daily
 subcategory: 日常生活
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 本機磁碟
   china: A盤
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國同樣使用「本機磁碟／本地磁碟」，「A盤」僅為磁碟機代號，非通用同義詞，無實質分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

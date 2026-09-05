@@ -2,12 +2,13 @@ id: 生命線
 category: education
 subcategory: 教育
 fork_type: B
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 
 display:
   taiwan: 生命線
   china: 救命電話
 
-notes: ''
+notes: '兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）：中國同樣廣泛使用「生命線」一詞，「救命電話」非標準說法，無實質分歧'
 
 sources:
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'

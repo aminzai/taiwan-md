@@ -1,6 +1,7 @@
 id: 高亮
 category: daily
 fork_type: E
+auto_convert: false # 兩岸通用，保留當紀錄不當分歧（哲宇 2026-09-05 判準）（2026-09-05 NOT_DISTINCT 128 條批次）
 display:
   taiwan: 發光 / 發亮 / 標記 / 註記 / 劃記 / 亮部
   china: 高亮
