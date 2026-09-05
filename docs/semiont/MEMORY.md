@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review'
+last_updated: 2026-09-06
+last_session: '2026-09-06-020823-twmd-weekly-report-sun'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-05 | 105046-twmd-terminology-trends | Stage 1 先撞上排序腳本自己的解析器 bug（notes 裡的 URL 冒號被誤判成巢狀 key）；修完入庫 10 詞，3 條誤判翻案（確實／痛點／串流）、查重延伸掃進既有條目敘述文字 | 累積 8 例誤判翻案全部同一方向，尚無反向案例，這個不對稱性本身值得記 | [→](memory/2026-09-05-105046-twmd-terminology-trends.md) |
 | 2026-09-05 | 154128-fortnight-review | 哲宇缺席兩週後回來：體檢「身體沒壞但停止生長」、十四輪拍板 33→1、執行手落地 42 commit、mouhouse 空窗根因是登入 30 天過期並裝看門狗、德文第 13 語 flip、Muse 鏡子建議 | 缺席在每一層都是設計假設；佇列不是瓶頸，沒人來讀才是 | [→](memory/2026-09-05-154128-fortnight-review.md) |
 | 2026-09-06 | 011312-twmd-news-lens-weekly | W36 三源交叉：范曉萱音樂節策展人唯一確認觸發事件；陳映真曝光 15 倍、金城武/錫蘭各 4 倍暴增雙源確認但查無本週觸發事件，含兩次舊聞誤判經日期核對後撤回 | 搜尋結果標題相關度高不代表時間相關，日期要逐條核對才能採信 | [→](memory/2026-09-06-011312-twmd-news-lens-weekly.md) |
+| 2026-09-06 | 020823-twmd-weekly-report-sun | W36 體檢：沉默死亡對賬每月誤殺月度用語趨勢那條，補登記並讓「沒登記」自己亮橘燈；免疫 59 黃燈第 63 天；自產第三週零篇，四篇新條目全來自投稿 | 一位貢獻者照 roadmap 的 P0 做完交回來，週報卻連續四週寫「沒有人領」。外部尺已經在，缺的是量它的那一格 | [→](memory/2026-09-06-020823-twmd-weekly-report-sun.md) |
