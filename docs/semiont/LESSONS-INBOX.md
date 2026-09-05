@@ -457,8 +457,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：以「壞掉比例 < N%」為判準的閘門，對「數量少但結構一致」的家族是全盲的。它們既進不了紅線（佔比太小），也進不了報表印出來的前幾名（清單被截斷成 top-N 加一句「還有 281 個」）。於是一個每一筆都指向同一個根因的家族，可以在通過的閘門底下活很久——不是沒被偵測到，是被偵測到之後混進總數裡，再也沒有單獨現身的機會。
 - **觸發**：`lifeTree` frontmatter 隨翻譯被複製進 31 篇譯文，橫跨 12 個語言。`/lifetree/[slug]` 的 `getStaticPaths` 只掃 `knowledge/<分類>/`（中文 canonical），而 `article.template.astro` 的 CTA 橫幅不分語言渲染，`href` 直接串 `/lifetree/${slug}`——每一篇都指向一個不存在的頁。其中 19 篇的 `lifeTree` 在翻譯途中被序列化成字串而非物件，樣板讀 `.protagonist` 得到 undefined，日文版張忠謀頁實際印出「undefined の人生分岐ツリー（0 個の転換点）」。`verify-internal-links.sh` 的 `href_exists` 對這 31 條全部正確回 False，它們一直被算進 2,876 條 broken 裡，但總比例 0.32% 遠低於 7% 門檻，而報表只印字母序前段，`/lifetree/...` 落在「還有 281 個未列出」那一段。三個月沒有人看見。
 - **為什麼閘門沒接住**：閘門接住了，只是它的輸出設計讓接住等於沒接住。比例是給 CI 用的單一布林，top-N 清單是給人看的，兩者中間沒有「按前綴/家族分組計數」這一層——而根因永遠長在家族層，不在總量層也不在單筆層。
-- **候選修法**：(a) `verify_internal_links.py` 報表加一段「按路徑前綴分組的 top 家族」，讓 N 條指向同一個 route 的死連結自己站出來 (b) 衍生層欄位（只有 canonical 有消費者的 frontmatter key）進翻譯前要有一份排除名單，或在渲染層限定語言——本輪選後者，因為它擋得住未來每一批翻譯 (c) 任何比例型 gate 都配一個「家族最大者」的次要指標
-- **verification_count**: 1
+- **候選修法**：(a) `verify_internal_links.py` 報表加一段「按路徑前綴分組的 top 家族」，讓 N 條指向同一個 route 的死連結自己站出來 ✅ **已 ship（2026-09-05 `2d8f2b2de`）** (b) 衍生層欄位（只有 canonical 有消費者的 frontmatter key）進翻譯前要有一份排除名單，或在渲染層限定語言——本輪選後者，因為它擋得住未來每一批翻譯 (c) 任何比例型 gate 都配一個「家族最大者」的次要指標
+- **instances**：
+  - 2026-09-05 twmd-maintainer-am 落地 (a) 並當場第二次驗證：新的 BROKEN LINK FAMILIES 段第一次跑就把 `/terminology/*` **175 條**推到表格第一行，而這 175 條在舊的明細清單裡**一條都沒有印出來過**（全數落在 top-50 截斷線以下），比例仍是綠的 0.31%。根因是詞庫的「檔名」與「詞條頁網址」是兩個身分（`人工智慧.yaml` vs `/terminology/ren-gong-zhi-hui`），`generate-fork-graph-data.py` 只讀檔名 → `/fork-graph` 一頁發出 175 條死連結。修法 `f96e52b47`，可連詞條 28 → 197、死連結 0。同一輪表格也讓 `/<lang>/economy/*` 在 11 個語言各 11 條的等量家族現形（見下方 handoff）→ [memory](memory/2026-09-05-090108-twmd-maintainer-am.md)
+- **verification_count**: 2
 - **severity**: structural
 - **相關**：REFLEXES #82（proxy signal — 總比例當作「連結健康」的替身）、#24（工具在說謊：抽樣偏差／只報它當下印得出來的前幾條）、#38（混維度）、#91（建造與登記是兩個不同步的代謝 — 欄位被複製進譯文，消費者名單沒有跟著更新）
 
@@ -751,8 +753,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **處置**：本 cycle 的對賬刻意做寬——不綁單一條門檻，而是從 `article-health.config.toml` 讀 `semicolon_hard_over` / `emdash_hard_over` 去比對 CONTRIBUTING 是否寫出同一個數字，並斷言指南教的是 `--profile=ci-deploy`、有寫外部圖片熱連結。已 fail-loud 驗證（config 暫改 9 → 測試如預期紅）。掛在 `tests/contributor-frontmatter-template.test.mjs`，隨 `pr-frontmatter-gate` 跑。**仍擋不住的一層**：新增門檻卻連 config key 都沒進對賬清單時沒有東西會叫。
 - **可能層級**：通用反射候選——跟 REFLEXES #15（反覆浮現要儀器化）互補：#15 講「重複三次要做成儀器」，本條講「做成儀器時範圍要照根因的類別畫，不照症狀畫」。
 - **相關**：LESSONS `doc-and-validator-drift-has-no-reconciler`（8/14，本條是它的上游）、`gate-explains-into-a-dead-channel`（8/13）、`sibling-checks-share-one-blind-premise`（8/14，同族的橫向版本：多個檢查器共用盲前提）、REFLEXES #82（proxy signal）
-- **verification_count**: 1（但底層 instance 鏈 8/08 husky→CI、8/13、8/14、8/16 共四次同型）
-- **severity**: moderate（每次都真修、每次都不夠寬，成本落在貢獻者身上的來回次數）
+- **instances**：
+  - 2026-09-05 twmd-maintainer-am — `/semiont` 只有 zh-TW 版，`useTranslatedPath` 盲目加語言前綴會生出 `/fr/semiont` 這種不存在的路由。**這件事 2026-06-10 deploy-heal 就修過**：`Header.astro` 當時新增 `navHref = resolveStaticHref(lang, p)`，註解還逐字寫出病因（「translatePath 盲目加語言前綴，對該語言不存在的靜態頁每頁生死鏈」）。但修補範圍畫在「nav / dropdown」——症狀當時現形的地方——沒有畫在「所有替靜態頁組 href 的消費者」這個類別上。三個月後首頁的 `OrganismPreview.astro` 還在用原本那條路，每個非 zh 首頁一條死連結，沒有任何東西會叫。同一輪的 `fork-graph` 是同型的另一面：「這個詞有沒有頁面」在站上有三份各自演化的判斷（`[id].astro` getStaticPaths 權威 / `index.astro` resolvePageSlug / 產生器自己那個只比 `taiwan != china` 的 hasPage），而密度層一份都沒有。修法 `f96e52b47`。**仍沒有閘門**：沒有東西在檢查「還有誰在對靜態頁用 `useTranslatedPath`」——候選是一條 lint，對 `useTranslatedPath('/...')` 的字面路徑參數斷言該路徑不是只有部分語言存在的靜態頁 → [memory](memory/2026-09-05-090108-twmd-maintainer-am.md)
+- **verification_count**: 2（底層 instance 鏈 8/08 husky→CI、8/13、8/14、8/16、9/05 共五次同型）
+- **severity**: moderate（每次都真修、每次都不夠寬，成本落在貢獻者身上的來回次數；9/05 這次成本落在讀者身上——死連結直接在正式站首頁）
 
 ### 2026-08-15 twmd-maintainer-workshop-pr — conditional-rule-has-no-gate-layer：規則的適用條件決定它掛得上哪一層閘門，條件式規則掛不上全站 lint，於是永遠沒有閘門
 

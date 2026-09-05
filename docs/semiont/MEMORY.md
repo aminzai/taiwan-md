@@ -355,3 +355,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-05 | 061656-twmd-data-refresh-am | 14 步全綠零 stale 第五天，文章 1116→1118、星數破 1166；查明並解掉昨晚記下的孤兒 `_translation-status.json` diff | 記錄不必自己解決問題，能被接住就是記錄的價值 | [→](memory/2026-09-05-061656-twmd-data-refresh-am.md) |
 | 2026-09-05 | 063808-twmd-spore-harvest-am | 0 OVERDUE，D+1-D+7 窗口連續第二天淨空；D+14 milestone（#175/176 用語保存副詞層）準時落在明天 09-06 | 空窗期的正確動作是逐條核對後安靜收工，不是為了顯得有產出找事做 | [→](memory/2026-09-05-063808-twmd-spore-harvest-am.md) |
 | 2026-09-05 | 070854-twmd-feedback-triage | 指控信第十九次讀完全文後攔下，零 issue 開出；兩道對賬 83/83 與 82/83 全綠；報表這次印越南文標題 | 報表換一副面孔就足以讓辨識力失效，接住它的是順序不是記憶 | [→](memory/2026-09-05-070854-twmd-feedback-triage.md) |
+| 2026-09-05 | 090108-twmd-maintainer-am | 空場，改修自己 gate 的盲點：死連結報告加家族分組，第一次跑就撈出 `/fork-graph` 一頁發的 175 條；順帶修掉三個月前修過、換宿主又長回來的 `/fr/semiont` | 閘門接住了，但比例稀釋、字母序打散、top-N 切掉，接住等於沒接住 | [→](memory/2026-09-05-090108-twmd-maintainer-am.md) |
