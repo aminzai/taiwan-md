@@ -43,11 +43,11 @@
       "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
     },
     "de": {
-      "truncated_below": 1.5,
-      "healthy_min": 2.0,
-      "healthy_max": 4.0,
-      "calibrated": "2026-04-11",
-      "note": "2026-04-11 session α 審核 27 個翻譯 PR 的實戰基準"
+      "truncated_below": 1.8,
+      "healthy_min": 2.48,
+      "healthy_max": 3.78,
+      "calibrated": "2026-09-05",
+      "note": "字元比，84 篇實測 p5/p95（min 2.36 / median 3.14 / max 3.90，n=84，translation-ratio-check.sh --all-de 全 84 篇 PASS）。LANGUAGE-BIRTH-CHECKLIST Stage 2 校準定案，取代 2026-04-11 的舊佔位值（當時 de 尚無文章，沿用 en/es/fr 泛用 2.0-4.0）。"
     },
     "vi": {
       "truncated_below": 1.5,
