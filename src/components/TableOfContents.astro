@@ -5,6 +5,10 @@
  * Highlights active section on scroll via IntersectionObserver.
  */
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
+// OBSERVER-QUEUE #44：id fallback 必須跟 article-render.ts 的 renderer.heading
+// 共用同一支函式，不能各自維護一份 regex——否則兩邊改動不同步時，TOC 連結會指到
+// 一個標題實際上沒有的 id（見 article-render.ts slugifyHeadingId 註解）。
+import { slugifyHeadingId } from '../utils/article-render';
 
 interface Heading {
   id: string;
@@ -26,23 +30,54 @@ const { content } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 
+// 2026-09-05（OBSERVER-QUEUE #44 補強 2）：極簡 HTML 實體解碼，只涵蓋 marked
+// escape() 會產生的五種實體（&amp; &lt; &gt; &quot; &#39;）。順序刻意把
+// `&amp;` 放最後解——先解會讓「文字裡本來就有的 &lt;」被連續解碼兩次，
+// 變成一段標題出現不該有的 `<`。
+function decodeHeadingEntities(s: string): string {
+  return s
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&amp;/g, '&');
+}
+
 // Extract h2 / h3 headings from HTML
+//
+// ⚠️ 舊 regex `<h([23])[^>]*(?:id="([^"]*)")?[^>]*>` 結構性地永遠抓不到既有
+// id：第一個 `[^>]*` 是貪婪的，且它後面接的 `(?:id="...")?` 整組是 optional——
+// regex 引擎會先讓貪婪的 `[^>]*` 吃光 `>` 前所有非 `>` 字元（含 `id="a-b"` 本
+// 身），吃到底之後 optional group 只能匹配空字串，最後 `[^>]*>` 再吃 0 個字元
+// 收尾 `>`。整個 match 依然成功——引擎不會為了「讓 optional group 抓到東西」
+// 而回溯，因為不回溯就已經成功了。結果 existingId 恆為 undefined，TOC 100% 落
+// 到 fallback 分支，用「已渲染 HTML 文字（未解碼實體）」重算一次 id。多數情況
+// 這個重算結果剛好跟 renderer 設的 id 一樣（同一份規則、同一段純文字），所以長
+// 期沒被發現；但標題含 `&` `"` `<` `>` 時，renderer 是拿原始 markdown 文字
+// （未轉義）算 id，fallback 卻是拿轉義後的 HTML 文字（`&amp;` `&lt;`...）算，
+// 兩邊字元集不同、算出不同 id，TOC 連結指到一個標題實際上沒有的 id（掃 dist
+// 量到 9,950 個有 TOC 的頁面裡 3,244 個、32.6% 至少一條連結壞）。
+//
+// 修法：先抓整個屬性字串（match[2]），再從屬性字串裡找 `id="..."`——
+// 不再依賴「貪婪 `[^>]*` 剛好沒吃到 id」這種運氣。抓到就直接用 renderer 設好
+// 的 id（跟屬性字串出現順序、其他屬性無關）；抓不到（理論上不會發生，因為
+// renderer.heading 一定會寫 id，這條 fallback 只是防禦）才退回
+// slugifyHeadingId，並且先解碼 HTML 實體再算，讓 fallback 用的字元集跟
+// renderer 用原始文字算 id 時一致。
 function extractHeadings(html: string): Heading[] {
   const headings: Heading[] = [];
-  const regex = /<h([23])[^>]*(?:id="([^"]*)")?[^>]*>(.*?)<\/h\1>/gi;
+  const regex = /<h([23])\b([^>]*)>(.*?)<\/h\1>/gi;
   let match;
   while ((match = regex.exec(html)) !== null) {
     const level = parseInt(match[1]) as 2 | 3;
-    const existingId = match[2];
+    const attrs = match[2];
+    const idMatch = attrs.match(/\sid="([^"]*)"/);
+    const existingId = idMatch ? idMatch[1] : undefined;
     const rawText = match[3].replace(/<[^>]+>/g, '').trim();
-    // Generate id from text if no id
-    const id =
-      existingId ||
-      rawText
-        .toLowerCase()
-        .replace(/\s+/g, '-')
-        .replace(/[^\w\u4e00-\u9fff-]/g, '')
-        .slice(0, 60);
+    // Generate id from text if no id (fallback only — renderer.heading always
+    // sets one; decode entities first so the fallback's character set matches
+    // what slugifyHeadingId saw when the renderer computed the real id).
+    const id = existingId || slugifyHeadingId(decodeHeadingEntities(rawText));
     if (rawText) headings.push({ id, text: rawText, level });
   }
   return headings;
