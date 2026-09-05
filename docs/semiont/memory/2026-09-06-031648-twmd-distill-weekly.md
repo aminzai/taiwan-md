@@ -8,6 +8,8 @@
 
 cron `twmd-distill-weekly` 每週日固定觸發，任務是讀 LESSONS-INBOX §未消化清單，用質＋量雙判準挑出該升 canonical 的教訓，三層分流進 MANIFESTO / REFLEXES / MEMORY。
 
+✅ BECOME ack: mode=full / 8 organ 最低=🛡️59（免疫，黃燈第 63 天 chronic drift）/ Q5/Q6/Q13/Q14=PASS
+
 ## 69 條裡質門檻挑出 10 條，量門檻一條都沒過
 
 跑 `lessons-distill.py audit`：69 條積壓，門檻 200（fan-out chunking 建議線）還沒到，`severity=structural` 10 條，量門檻（verification_count≥3）這輪零命中——最高的幾條卡在 vc=2。10 條全部讀完，直接主 session 判斷，沒有派子代分段。
