@@ -73,22 +73,23 @@ upstream_canonical:
 
 ## Reference（手動 / Build-time）
 
-| Pipeline                                                                 | 觸發                    | 說明                                                             |
-| ------------------------------------------------------------------------ | ----------------------- | ---------------------------------------------------------------- |
-| [MAINTAINER-PIPELINE.md](MAINTAINER-PIPELINE.md)                         | 每日 / 新人上手         | 維護者完整手冊（策展哲學 + PR/Issue 審核 + 品質標準）            |
-| [CONTRIBUTOR-SYSTEM-PIPELINE.md](CONTRIBUTOR-SYSTEM-PIPELINE.md)         | 升降級 / inactive       | 貢獻者關係週期完整 SOP                                           |
-| [EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md)                                 | 手動觸發                | 數據驅動內容進化（GA4 + SC → 重寫）                              |
-| [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)                               | 手動觸發                | 寫文章 / 重寫文章 SOP                                            |
-| [BRANCH-PIPELINE.md](BRANCH-PIPELINE.md)                                 | 「分析 X」觸發          | 知識分支分析器                                                   |
-| [DASHBOARD-PIPELINE.md](DASHBOARD-PIPELINE.md)                           | prebuild + 手動 GA4     | Dashboard 數據管線 + 模板架構                                    |
-| [BENCH-PIPELINE.md](BENCH-PIPELINE.md)                                   | `/twmd-bench`           | Sovereignty-Bench-TW 7-stage SOP                                 |
-| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md)         | `/twmd-babel`           | 4-tier model cascade 多語批次                                    |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)                       | `/twmd-translate`       | 單篇文章翻譯                                                     |
-| [PEER-INGESTION-PIPELINE.md](PEER-INGESTION-PIPELINE.md)                 | `/twmd-peer`            | 策展 peer 分析                                                   |
-| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                           | `/twmd-factcheck`       | 幻覺審計                                                         |
-| [CORRECTION-PIPELINE.md](CORRECTION-PIPELINE.md)                         | 讀者/issue/self callout | 勘誤端到端 SOP（錯誤邊界=可追溯性 + 【勘誤通知】格式 + 16 案例） |
-| [DEEP-INSIGHT-SYNTHESIS-PIPELINE.md](DEEP-INSIGHT-SYNTHESIS-PIPELINE.md) | 手動                    | 深度洞察萃取                                                     |
-| [SOCIAL-POSTING-PIPELINE.md](SOCIAL-POSTING-PIPELINE.md)                 | spore SHIP 內嵌         | Threads/X 發文機制（Chrome MCP 操作層）                          |
+| Pipeline                                                                     | 觸發                    | 說明                                                                                         |
+| ---------------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------- |
+| [MAINTAINER-PIPELINE.md](MAINTAINER-PIPELINE.md)                             | 每日 / 新人上手         | 維護者完整手冊（策展哲學 + PR/Issue 審核 + 品質標準）                                        |
+| [CONTRIBUTOR-SYSTEM-PIPELINE.md](CONTRIBUTOR-SYSTEM-PIPELINE.md)             | 升降級 / inactive       | 貢獻者關係週期完整 SOP                                                                       |
+| [EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md)                                     | 手動觸發                | 數據驅動內容進化（GA4 + SC → 重寫）                                                          |
+| [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)                                   | 手動觸發                | 寫文章 / 重寫文章 SOP                                                                        |
+| [REWRITE-PIPELINE-單檔案型完整流程.md](REWRITE-PIPELINE-單檔案型完整流程.md) | 手動閱讀                | 拆檔前最後一版（v8.0，2026-07-15）的單檔完整流程；一次讀完整條產線用，日常執行仍走 v9 薄索引 |
+| [BRANCH-PIPELINE.md](BRANCH-PIPELINE.md)                                     | 「分析 X」觸發          | 知識分支分析器                                                                               |
+| [DASHBOARD-PIPELINE.md](DASHBOARD-PIPELINE.md)                               | prebuild + 手動 GA4     | Dashboard 數據管線 + 模板架構                                                                |
+| [BENCH-PIPELINE.md](BENCH-PIPELINE.md)                                       | `/twmd-bench`           | Sovereignty-Bench-TW 7-stage SOP                                                             |
+| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md)             | `/twmd-babel`           | 4-tier model cascade 多語批次                                                                |
+| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)                           | `/twmd-translate`       | 單篇文章翻譯                                                                                 |
+| [PEER-INGESTION-PIPELINE.md](PEER-INGESTION-PIPELINE.md)                     | `/twmd-peer`            | 策展 peer 分析                                                                               |
+| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                               | `/twmd-factcheck`       | 幻覺審計                                                                                     |
+| [CORRECTION-PIPELINE.md](CORRECTION-PIPELINE.md)                             | 讀者/issue/self callout | 勘誤端到端 SOP（錯誤邊界=可追溯性 + 【勘誤通知】格式 + 16 案例）                             |
+| [DEEP-INSIGHT-SYNTHESIS-PIPELINE.md](DEEP-INSIGHT-SYNTHESIS-PIPELINE.md)     | 手動                    | 深度洞察萃取                                                                                 |
+| [SOCIAL-POSTING-PIPELINE.md](SOCIAL-POSTING-PIPELINE.md)                     | spore SHIP 內嵌         | Threads/X 發文機制（Chrome MCP 操作層）                                                      |
 
 ## Memory / Reflection 系統
 
