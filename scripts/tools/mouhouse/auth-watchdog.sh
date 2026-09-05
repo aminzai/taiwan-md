@@ -58,6 +58,9 @@ if [ "$HIT_N" -gt 0 ]; then
   LEVEL="critical"
   TITLE="mouhouse 登入過期：排程 session 起不來（看門狗自動偵測 $TODAY）"
   BODY=$(printf '近 %s 分鐘 Claude Desktop main.log 出現 %s 筆登入過期／session 起不來：\n\n```\n%s\n```\n\n這是 2026-08-23～28 四天空窗同一個病（OAuth refresh token 30 天固定壽命，`session_stale_relogin`）。排程器照 fire、lastRunAt 照更新，但每個 routine session 都被「Sign in again」擋回，在有人重新登入之前飛輪等於停轉。\n\n**修法只有一個：在 mouhouse 上打開 Claude Desktop 重新登入**（Screen Sharing 或接螢幕）。登入後本看門狗會自動記下新登入日並停止告警。\n\n證據鏈與背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49 · 本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開，不是 Claude session 寫的。🧬' "$WINDOW_MIN" "$HIT_N" "$HITS")
+elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -gt "$EXPIRY_DAYS" ]; then
+  # 超過 30 天卻沒有任何 session 起不來的痕跡 → 登入日資料過時（例如重新登入沒留 ASWebAuth 行），不告警只記錄
+  say "登入日 ${LOGIN_DATE} 已 ${DAYS_SINCE} 天但 session 正常，登入日可能過時；請更新 $LOGIN_FILE"
 elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -ge "$WARN_AT_DAYS" ]; then
   LEVEL="warn"
   LEFT=$(( EXPIRY_DAYS - DAYS_SINCE ))
