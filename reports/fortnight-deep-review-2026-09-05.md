@@ -350,7 +350,7 @@ evolution-roadmap-2026-08-09：P0 三項連續四週領取 0/3，加上三週滾
 
 ### 5.1 拍板結果（2026-09-05 同日，哲宇一題一題回）
 
-報告 v1.0 寫完兩小時內哲宇回來，把上表十題加上佇列剩下的每一項一次拍完。待決從 33 項降到 3 項（三件都是只有他能動手的：開 Tailscale 讓我查 mouhouse 根因、補 Telegram secret、身份 Phase 1 的授權）。逐項結果與落地 commit 在 [OBSERVER-QUEUE §已決](../docs/semiont/OBSERVER-QUEUE.md#已決) 2026-09-05 那批列；這裡只記跟上表不同的地方：
+報告 v1.0 寫完兩小時內哲宇回來，把上表十題加上佇列剩下的每一項一次拍完。待決從 33 項降到 1 項（#48 身份 Phase 1，只有他能授權）。#47 Telegram secret 由他自己設進 repo Settings 不經我手；#49 他開 Tailscale 後我 SSH 查出 mouhouse 四天空窗的根因是 Claude Desktop 登入 30 天過期（[mouhouse-blackout-root-cause-2026-09-05.md](mouhouse-blackout-root-cause-2026-09-05.md)），並在 mouhouse 裝了住在 Claude 之外的 launchd 看門狗。
 
 | 題       | 上表推薦            | 實際拍板                                                                                                   |
 | -------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -358,7 +358,7 @@ evolution-roadmap-2026-08-09：P0 三項連續四週領取 0/3，加上三週滾
 | 6        | 見各項 A            | 人物門檻 **close 並明文化**；覆寫既有文 **EVOLVE 接住＋Co-authored**；About 自述 **close**；/exams/ **開** |
 | 7        | A                   | 指控信 **只回覆並結案，不加偵測器**                                                                        |
 | 8        | A                   | justfont 白名單哲宇早已開好（佇列不知道）                                                                  |
-| 10       | B                   | 哲宇開 Tailscale 後我 SSH 查（待他動手）                                                                   |
+| 10       | B                   | 哲宇開 Tailscale 後我 SSH 查：根因是登入 30 天過期，非機器非排程器；看門狗已裝，下次過期 09-26～27         |
 | 佇列 #16 | 三選一              | 哲宇改題：「完整制定共編規則讓未來大家好依循」→ 對外 CONTRIBUTING 9 條＋對內 gate 只管 🔴 型               |
 | 佇列 #14 | 改鐵律或改 mirror   | 哲宇改題：「完整深度進化，仍然維持薄殼原則」→ mirror 薄、inline 搬進各 routine 自己的 SKILL.md             |
 | 佇列 #18 | A 摘 gemini＋Sonnet | 哲宇改題：「tier 6 用 haiku，7 用 gemini」                                                                 |
