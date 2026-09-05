@@ -224,3 +224,86 @@ def test_translate_detect_cjk_leak_blocks_simplified_bibliography():
 
     assert result is not None
     assert "書目區簡體殘留" in result
+
+
+# ═══════════════ [text](target) target 合法性判準（任務一，2026-09-05）═══════════
+#
+# 補這四條的背景：任務一把第 6 條 LINK_LIKE_RES 規則從「命中即整段抹除」改成
+# `_md_link_sub()` 視 target 合法性決定，實例是 knowledge/ru、knowledge/ar 的
+# encyclopedia-of-taiwan.md（`[Википедия](维基百科)` 這種連結文字是譯文、
+# target 卻是壞掉簡體字的假連結）。上面 6 條既有案例都在測書目區分界，沒有
+# 一條直接測 `_md_link_sub` 本身的合法／不合法兩側，也沒測 de 這個
+# 2026-09-05 才收進 NON_CJK_SCRIPT_LANGS 的新語言會不會漏接。
+
+
+def test_md_link_simplified_target_flagged_in_body(tmp_path):
+    """[text](target) 的 target 含簡體專用字（非 http/相對路徑前綴）——正文中
+    間出現，跟書目無關——必須被判正文 CJK leak，不能被舊版「命中即抹除」的
+    規則連本體一起沖進豁免（ru/ar encyclopedia-of-taiwan.md 本尊）。"""
+    path = tmp_path / "ru--example.md"
+    path.write_text(
+        "---\ntitle: 'Example'\n---\n\n"
+        "Министерство культуры возглавляло этот проект"
+        " - [Википедия](维基百科) — одно из протокольных Web 2.0 энциклопедий"
+        " в основном тексте статьи.\n",
+        encoding="utf-8",
+    )
+
+    hits = MODULE.scan_file(path, lang="ru")
+
+    assert any("正文 CJK leak" in h and "维基百科" in h for h in hits)
+
+
+def test_md_link_legit_targets_all_allowed(tmp_path):
+    """`_md_link_sub()` 不能因為修 ru/ar 假連結而連帶誤傷全庫既有的合法連結
+    形式——正體裸標題站內互連（zh 原文 knowledge/Society/臺灣大百科全書.md
+    第 82/84 行本尊的 `[維基百科](維基百科)` 寫法）、外部 https 連結、站內
+    相對路徑、圖片語法、wikilink，五種都要維持全綠。"""
+    path = tmp_path / "en--example.md"
+    path.write_text(
+        "---\ntitle: 'Example'\n---\n\n"
+        "See [維基百科](維基百科) for the Chinese-language encyclopedia,"
+        " the official site at [MOC](https://www.moc.gov.tw/), the sister"
+        " article at [Wikipedia entry](/technology/維基百科), the photo"
+        " ![Taipei skyline](taipei.webp), and the internal note"
+        " [[wikilink]] for cross-reference.\n",
+        encoding="utf-8",
+    )
+
+    assert MODULE.scan_file(path, lang="en") == []
+
+
+def test_de_body_leak_flagged(tmp_path):
+    """de 2026-09-05 才收進 NON_CJK_SCRIPT_LANGS——驗證新語言真的走 4+ 連續
+    漢字分支，不會因為漏收而落入 ja/ko 的 zh-only marker 分支，讓真洩漏被
+    靜默放行（docstring 68-70 行描述的缺口）。"""
+    path = tmp_path / "de--example.md"
+    path.write_text(
+        "---\ntitle: 'Beispiel'\n---\n\n"
+        "TSMC baute seine Fabriken über Jahrzehnte auf, und"
+        " 台灣半導體產業的發展歷程相當複雜 bleibt hier mitten im Satz"
+        " unübersetzt.\n",
+        encoding="utf-8",
+    )
+
+    hits = MODULE.scan_file(path, lang="de")
+
+    assert any("正文 CJK leak" in h for h in hits)
+
+
+def test_translate_detect_cjk_leak_flags_simplified_link_target_in_body():
+    """translate.py 的 detect_cjk_leak()（babel-nightly 實際呼叫的生產閘門）
+    對正文（非書目區）裡的假連結也要擋——它跟 cjk-leak-check.py 共用同一支
+    strip_legit_zones()／_md_link_sub()，兩邊判準不能分岔。"""
+    text = (
+        "---\ntitle: 'Example'\n---\n\n"
+        "Министерство культуры возглавляло этот проект"
+        " - [Википедия](维基百科) — одно из протокольных Web 2.0 энциклопедий"
+        " в основном тексте статьи.\n"
+    )
+
+    result = TRANSLATE_MODULE.detect_cjk_leak(text, "ru")
+
+    assert result is not None
+    assert "正文 CJK leak" in result
+    assert "维基百科" in result

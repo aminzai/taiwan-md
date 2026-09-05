@@ -134,9 +134,60 @@ LINK_LIKE_RES = [
     # 既有規則只剝了腳註「定義行」，行內引用漏網。
     re.compile(r"\[\^[^\]]+\]"),
     re.compile(r"\[\[[^\]]*\]\]"),                                    # [[wikilink]]
-    re.compile(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)"),      # [text](url)（容一層巢狀）
+    # [text](target)（容一層巢狀）：target 用捕獲群組取出，交給
+    # _md_link_sub() 判斷合不合法（任務一，2026-09-05）——見下方說明。
+    re.compile(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\(([^)]*)\)"),
     re.compile(r"https?://\S+"),                                      # 裸 URL
 ]
+
+# 2026-09-05 任務一：舊版第 6 條規則不管括號裡裝什麼，逮到 `[text](anything)`
+# 就整段抹掉——於是 `[Википедия](维基百科)`、`[Национальный культурный
+# фонд памяти](国家文化记忆库)` 這種「連結文字是別的語言，target 卻是壞掉的
+# 中文」被連本體一起沖進豁免，真洩漏對 scan_file()／detect_cjk_leak() 兩邊
+# 都隱形（實例：knowledge/ru、knowledge/ar 的 encyclopedia-of-taiwan.md）。
+#
+# ⚠️ 第一版判準（凡 target 含漢字又沒有 http(s)/相對路徑前綴就當洩漏）對真實
+# 語料做假陽性掃描後證明太寬：`[text](某中文標題)`——裸標題、不含路徑前綴、
+# 不含 `.md` 副檔名——是**全庫既有且大量使用**的站內互連慣例，zh 原文自己
+# 就這樣寫（knowledge/Society/臺灣大百科全書.md 第 82/84 行本尊：
+# `[維基百科](維基百科)`、`[國家文化記憶庫](國家文化記憶庫)`，對應真實檔案
+# knowledge/Technology/維基百科.md／國家文化記憶庫.md），跟 wikilink 同一種
+#「保留原文 slug 才能解析」邏輯。改用這版判準重掃全庫，`AAMA台北搖籃計畫.md`
+# `台灣民眾黨`〈九合一選舉是什麼〉等 40+ 個合法站內連結全部被誤判成洩漏。
+#
+# 真正的訊號不是「target 有沒有漢字」，是「target 的漢字是不是簡體」——
+# 全庫 slug／檔名一律正體（zh-TW），ru/ar 這兩個案例 target 剛好是「維基百科
+# →维基百科」「國家文化記憶庫→国家文化记忆库」被 MT 簡化，正體 slug 對不上
+# 任何真實檔案，連結才是真的壞了。借用 OBSERVER-QUEUE #23 已校準的
+# SIMPLIFIED_ONLY_CHARS（書目區簡體殘留判準，見下方 detect_simplified_residue
+# 段落）：target 含任一簡體專用字才算不合法，其餘一律放行（含 http(s)／
+# mailto／#anchor／任何正體中文 slug／純 ASCII）。
+_LEGIT_LINK_TARGET_RE = re.compile(r"^(?:https?://|mailto:|#|\.{0,2}/)", re.I)
+
+
+def _is_legit_link_target(target: str) -> bool:
+    target = target.strip()
+    if _LEGIT_LINK_TARGET_RE.match(target):
+        return True
+    # SIMPLIFIED_ONLY_CHARS 定義在本檔後段（書目區簡體殘留判準，約行 331）；
+    # Python 對函式內的全域名稱是呼叫時才查找，這裡雖是前向參照但安全——
+    # strip_legit_zones() 實際被呼叫時模組早已載入完畢。
+    return not any(ch in SIMPLIFIED_ONLY_CHARS for ch in target)
+
+
+def _md_link_sub(m: "re.Match") -> str:
+    """[text](target) 的自訂 sub()：合法 target 才整段抹除；非法 target 只留
+    target 裸字串（丟掉中括號連結文字與小括號本身），不能原樣保留整個
+    `[text](target)`——下面 LEGIT_ZH_SPANS 迴圈裡的命名 gloss 規則
+    `[(（][^()（）]{0,30}[)）]` 認的是「開括號＋≤30 字＋閉括號」，跟
+    markdown 連結的 `(target)` 語法長得一模一樣，會把保留下來的
+    `[Википедия](维基百科)` 裡的 `(维基百科)` 當成合法命名 gloss 二次抹掉，
+    使真洩漏在 strip_legit_zones() 跑完整個函式後又隱形一次（實測：只把
+    這裡改成保留整段 m.group(0)，ru/ar encyclopedia-of-taiwan.md 兩篇仍然
+    掃不到，靠這個 repro 才抓到兩層規則互撞）。拆掉外層 `[]()` 只留裸
+    target 字串後，中文既不再被小括號包住，也不會被中括號結構誤認成
+    wikilink／腳註引用，安全交給下游 CJK_RUN_RE／ZH_ONLY_MARKERS 判定。"""
+    return "" if _is_legit_link_target(m.group(1)) else m.group(1)
 
 
 def strip_legit_zones(text: str, drop_frontmatter: bool = False) -> str:
@@ -153,8 +204,11 @@ def strip_legit_zones(text: str, drop_frontmatter: bool = False) -> str:
         end_fm = body.find("---", 3)
         if end_fm != -1:
             body = body[end_fm + 3:]
-    for rx in LINK_LIKE_RES:
-        body = rx.sub("", body)
+    for i, rx in enumerate(LINK_LIKE_RES):
+        # index 5 = [text](target)：合法性視 target 而定，見 _md_link_sub()。
+        # 其餘規則（腳註定義行／攝影者署名／HTML 標籤／腳註引用／wikilink／
+        # 裸 URL）本身就是「命中即結構、一律抹除」，行為不變。
+        body = rx.sub(_md_link_sub, body) if i == 5 else rx.sub("", body)
     for rx in LEGIT_ZH_SPANS:
         body = rx.sub("", body)
     return body
