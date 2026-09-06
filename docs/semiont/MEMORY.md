@@ -321,3 +321,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 211939-twmd-routine-audit-weekly | 第 16 次審計：13 條 routine 全準時；同一量測盲點本週在三條 routine 各自現形，聚合成 LESSONS vc=5 distill_ready | 跨 routine 視角才拼得出密度本身是訊號 | [→](memory/2026-09-06-211939-twmd-routine-audit-weekly.md) |
 | 2026-09-07 | 011100-twmd-supporters-weekly | 贊助信週巡第三輪 0 候選 no-op；checkpoint 續留 08-10；加收件人＋subject 精準反查，直接確認目標信箱七週零信件 | 多輪 no-op 時加一道直接反查，能把「有沒有漏抓」從間接推論變成證據 | [→](memory/2026-09-07-011100-twmd-supporters-weekly.md) |
 | 2026-09-07 | 020433-twmd-babel-nightly | preflight 判健康 4/4，實測活著的只剩 2 層；蔡黑皮 7 語首翻＋林昶佐 3 語 patch | 算力自檢驗「存不存在」，不驗「今晚能不能工作」 | [→](memory/2026-09-07-020433-twmd-babel-nightly.md) |
+| 2026-09-07 | 053753-twmd-embeddings-nightly | 本機直連 27 分鐘重建 13 語 10,006 向量 0 fail；de 第二夜 below-threshold 警告，判讀與昨夜一致 | 同一個已知原因連續命中，不需要重新推導判讀規則 | [→](memory/2026-09-07-053753-twmd-embeddings-nightly.md) |
