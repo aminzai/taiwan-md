@@ -13098,7 +13098,7 @@
       "環境保護"
     ],
     "url": "https://taiwan.md/nature/%E7%94%9F%E6%85%8B%E5%A4%9A%E6%A8%A3%E6%80%A7",
-    "readingTime": 10,
+    "readingTime": 11,
     "featured": false,
     "date": "2026-03-21",
     "path": "Nature/生態多樣性.md"
@@ -30272,6 +30272,17 @@
     "path": "Technology/AI發展.md"
   },
   {
+    "title": "Air Mengalir ke Atas: Membaca Sejarah Pembukaan Lahan Suku Amis dan Batas Kognisi Otak dari Sebuah Ilusi Optik",
+    "description": "Parit \"Air Mengalir ke Atas\" di Dulan, Taitung, sebenarnya miring ke bawah sekitar 0,5 derajat, tetapi karena jalan di sebelahnya jauh lebih curam, otak pengunjung membaca airnya seolah naik. Dari parit irigasi yang digali warga Amis pada masa lalu, dikemas menjadi keajaiban wisata pada 1980-an, hingga belakangan dinobatkan sebagai \"objek wisata paling tidak berguna se-Taiwan\" — parit selebar tak sampai setengah meter ini menyimpan sebuah tipuan ilusi tentang kerangka acuan penglihatan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/geography/water-running-uphill",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-08-03",
+    "path": "id/Geography/water-running-uphill.md"
+  },
+  {
     "title": "AIハードウェアサプライチェーン：台湾がクラウドをマシンに変える場所",
     "description": "生成AIはクラウドサービスのように見えますが、実際には一連の物理的な道筋を必要とします：ある人はチップを設計し、ある人はウェーハを製造し、ある人はパッケージングを行い、さらにメモリ、電力、冷却、マザーボード、サーバーラックを処理する人々がいます。台湾の重要性はTSMC（台湾積体電路製造）の存在だけでなく、この道筋にある多くの重要な関門がここに集中していることにあります。この共通の利益は実在するものであり、水力・電力、炭素排出、所得分配、海外工場建設、地政学的リスクを伴いつつ、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えているのです。",
     "category": "ja",
@@ -32106,6 +32117,24 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "vi/Food/portuguese-egg-tart-in-taiwan.md"
+  },
+  {
+    "title": "Bank Memori Budaya Nasional: Kurasi Ingatan dan Ko-kreasi Budaya di Era Digital",
+    "description": "Bank Memori Budaya Nasional bukan sekadar platform arsip digital, melainkan sebuah rekayasa sosial yang berpacu dengan waktu — melalui lisensi terbuka dan ko-kreasi, ingatan rakyat biasa Taiwan dihidupkan kembali di era digital.",
+    "category": "id",
+    "tags": [
+      "Bank Memori Budaya Nasional",
+      "arsip digital",
+      "ko-kreasi budaya",
+      "ingatan Taiwan",
+      "hak cipta",
+      "budaya rakyat"
+    ],
+    "url": "https://taiwan.md/id/technology/national-cultural-memory-bank",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-04-29",
+    "path": "id/Technology/national-cultural-memory-bank.md"
   },
   {
     "title": "Bao (Jiao): Escuchar la voz de las divinidades tras una probabilidad del 50%",
@@ -43447,6 +43476,17 @@
     "path": "en/Music/eggplant-egg-band.md"
   },
   {
+    "title": "Eiserne Eier der Großmutter: Wie ein Missgeschick im „Grand Hotel der Seebeine\" am Fährhafen von Tamsui zur härtesten kollektiven Erinnerung wurde",
+    "description": "1983 machte ein Bericht der Zeitung Min Sheng Bao die schwarzen geschmorten Eier aus dem „Grand Hotel der Seebeine\" in Tamsui über Nacht berühmt. Dieses aus Versehen entstandene Gericht — vom Seewind immer wieder trocken geblasen, mit jedem Schmorgang härter — bezeugt Aufstieg und Wandel des Fährhafens von Tamsui und hinterließ im Markenstreit einen historischen Fall um die Gründerinnen A-nen-pó und Yang Bi-yun.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/ah-po-iron-eggs",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "de/Food/ah-po-iron-eggs.md"
+  },
+  {
     "title": "Ekologi Komersial Pinggiran Kawasan Teknologi Taiwan",
     "description": "Mengapa restoran di pinggiran Kawasan Perangkat Lunak Nangang, Kawasan Teknologi Neihu, Taman Sains Hsinchu, Taman Sains Tengah, dan Taman Sains Selatan hanya tersisa makan siang, dengan makan malam bertutup satu demi satu. Artikel ini mengurai fenomena komersial puncak tunggal koridor teknologi Taiwan dari tiga perspektif: pola komuter, pengendalian zonasi BOT, dan pergeseran budaya lembur, serta melacak dampak struktural pembukaan LaLaport Maret 2025 terhadap warung makan siang tradisional di Jalan Sanchong dan Jalan Yuanqu.",
     "category": "id",
@@ -46436,7 +46476,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/freddy-lim",
-    "readingTime": 144,
+    "readingTime": 143,
     "featured": false,
     "date": "2026-07-10",
     "path": "fr/People/freddy-lim.md"
@@ -46447,7 +46487,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/freddy-lim",
-    "readingTime": 141,
+    "readingTime": 142,
     "featured": false,
     "date": "2026-07-10",
     "path": "es/People/freddy-lim.md"
@@ -46790,6 +46830,25 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Nature/taiwanese-black-bear.md"
+  },
+  {
+    "title": "Geduld im Aluminiumbecher: Die siebzigjährige Wasserbad-Philosophie von A-Mings Schweineherz-Glasnudeln",
+    "description": "In der Bao'an-Straße Nr. 72 in Tainan öffnet Huang Hsien-mings Imbiss A-Ming Schweineherz-Glasnudeln erst um 17 Uhr, doch jeden Abend bildet sich eine lange Schlange – 2022 wurde er in den Michelin-Führer als Bib Gourmand aufgenommen. Das Geheimnis liegt nicht in den Zutaten – Schweineherz ist billiges Innereien-Fleisch –, sondern in der Zubereitung: Dünne Scheiben garen im Aluminiumbecher im Wasserbad, sodass die Hitze langsam von außen eindringt und ein Herz entsteht, das weder streng riecht noch zäh ist, sondern zart-süß schmeckt.",
+    "category": "de",
+    "tags": [
+      "Tainan",
+      "Schweineherz-Glasnudeln",
+      "West-Zentral-Distrikt",
+      "Baoan-Straße",
+      "Michelin",
+      "Streetfood",
+      "Innereien"
+    ],
+    "url": "https://taiwan.md/de/food/pork-heart-vermicelli",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-07-02",
+    "path": "de/Food/pork-heart-vermicelli.md"
   },
   {
     "title": "Gempa Bumi: Kenangan Pulau yang Menari Bersama Sapi Bumi",
@@ -75871,6 +75930,23 @@
     "path": "en/Society/taipei-rat-problem.md"
   },
   {
+    "title": "Taisugar: Dari Kerajaan Manis Penopang 74% Devisa Taiwan, hingga 'Tuan Tanah Nyeleneh' Berlaba Tertinggi di 2025",
+    "description": "Pada 2025, laba bersih setelah pajak Taisugar mencetak rekor baru senilai NT$7,4 miliar, padahal perusahaan berusia seabad ini sudah lama tak lagi mengandalkan penjualan gula. Dari tulang punggung kolonial era pendudukan Jepang hingga urat nadi ekonomi pascaperang, simak bagaimana Taisugar berbalik arah dari tebu, dan mendefinisikan ulang arti 'manis' lewat anggrek, bioteknologi, serta bangunan sirkular.",
+    "category": "id",
+    "tags": [
+      "Taisugar",
+      "Sejarah Industri Gula",
+      "Transformasi",
+      "Ekonomi Sirkular",
+      "Anggrek Bulan"
+    ],
+    "url": "https://taiwan.md/id/economy/taiwan-sugar",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-05-03",
+    "path": "id/Economy/taiwan-sugar.md"
+  },
+  {
     "title": "Taitung County: Two Offshore Islands, One Held Political Prisoners for Thirty-Six Years, the Other Has Stored Nuclear Waste for Forty-Two Years",
     "description": "Taitung County's 210,000 people are scattered across 3,515 square kilometers, the lowest density in the country: only 60 people per square kilometer, one percent of Taipei's. Yet this county contains Taiwan's earliest human settlement (the Peinan Site, 5,300 years ago, with 1,600 stone coffins), is home to six Indigenous peoples (Amis, Puyuma, Paiwan, Rukai, Bunun, Tao), and has Taiwan's highest Indigenous population share at 37.5%. From 1951 to 1987, Green Island's Huoshao Island held political prisoners for thirty-six years. Beginning in May 1982, Longmen on Lanyu began receiving nuclear waste; forty-two years later, 97,672 barrels are still there. On August 25, 1968, seven Bunun children from Hongye Village defeated Japan's Kansai Little League all-star team seven to zero (not a world championship team), and Taiwan's myth of baseball as the national sport began with this deception. Two offshore islands have borne the cost of an entire island.",
     "category": "en",
@@ -79507,6 +79583,23 @@
     "path": "de/History/taiwan-forestry-history.md"
   },
   {
+    "title": "Taiwans Saucen und Gewürze",
+    "description": "Dickflüssige Sojasauce, Satay-Sauce, süß-scharfe Sauce und Doubanjiang bilden die Grundlage von Taiwans einzigartigen Aromen und spiegeln eine Würzphilosophie wider, die aus der Verschmelzung vieler Kulturen entstanden ist",
+    "category": "de",
+    "tags": [
+      "Saucen",
+      "Gewürze",
+      "Esskultur",
+      "Taiwan-Geschmack",
+      "fermentierte Lebensmittel"
+    ],
+    "url": "https://taiwan.md/de/food/taiwan-sauces-and-seasonings",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "de/Food/taiwan-sauces-and-seasonings.md"
+  },
+  {
     "title": "Takeshi Kaneshiro : du « passant » que personne ne reconnaissait à l’icône asiatique qui voudrait seulement être oubliée du monde",
     "description": "Une interview de rue diffusée en 2025 l’a identifié comme un simple « passant » : c’était peut-être le moment auquel Takeshi Kaneshiro aspirait le plus. Depuis sa première publicité à 17 ans pour s’acheter une moto jusqu’à son statut de star internationale entre Taïwan, le Japon et Hong Kong, il n’a cessé, au sommet du milieu du spectacle, de s’exercer à « disparaître ».",
     "category": "fr",
@@ -80878,6 +80971,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "vi/People/yang-yung-wei-judo-olympic-silver.md"
+  },
+  {
+    "title": "Thái Hắc Bì: Cậu bé lớn lên với tên ga tàu điện ngầm đã \"đóng gói\" Đài Loan vào 260 nghìn người đăng ký",
+    "description": "Thái Cẩm An, sinh năm 2002, bắt đầu tự học làm video về \"Kiến thức lạnh của tàu điện ngầm\" từ thời trung học và sau mười hai năm đã nhận giải Kim Lộ tại lễ trao giải được mệnh danh là \"Oscar ngành giao thông\". Anh đổi tên, tạm dừng đăng tải rồi tiếp tục hành trình, tự mình phụ trách tài liệu, bản đồ và dựng phim, trở thành một hình mẫu của sự kiên trì trong sáng tạo tri thức Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/tsai-heipi",
+    "readingTime": 137,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "vi/People/tsai-heipi.md"
   },
   {
     "title": "Thái Hoàng Cự: Hai lần mù, lại dùng \"không người trong mắt\" để phục hồi đường đi của ngôi vương ca sĩ Đài Loan",
@@ -83542,6 +83646,61 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "vi/People/tsai-a-ga-youtuber.md"
+  },
+  {
+    "title": "Tsai Hei Pi: Anak yang Tumbuh di Nama Stasiun MRT, Memasukkan Taiwan ke dalam Langganan 260 Ribu Orang",
+    "description": "Tsai Chian-an (蔡覲安), lahir tahun 2002, memulai dari belajar sendiri membuat \"Pengetahuan Dingin MRT\" sejak SMA, dan setelah dua belas tahun ia menerima penghargaan Jinlu Award yang disebut \"Oscar Dunia Transportasi\". Ia mengganti nama, berhenti mengunggah, lalu melanjutkan lagi, menangani data, peta, dan penyuntingan sendirian, menjadikannya contoh dari konsistensi kreator pengetahuan Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/tsai-heipi",
+    "readingTime": 143,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "id/People/tsai-heipi.md"
+  },
+  {
+    "title": "Tsai Hei-pi : Le garçon qui a grandi en portant le nom d'une station de métro, et qui a mis Taïwan dans l'abonnement de 260 000 personnes",
+    "description": "Né en 2002, Tsai Jin-an (蔡覲安) a commencé par apprendre seul à filmer des « connaissances froides du métro » au lycée. Douze ans plus tard, il est monté sur la scène de la remise du prix Jinlu, surnommé l'« Oscar du transport », en tant que récompense pour sa contribution spéciale. Il a changé de nom, cessé puis repris son activité, gérant lui-même les données, les cartes et le montage, faisant de lui un exemple de longévité des créateurs de contenu intellectuel à Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/tsai-heipi",
+    "readingTime": 148,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "fr/People/tsai-heipi.md"
+  },
+  {
+    "title": "Tsai Hei-pi: El chico que creció con el nombre de una estación de metro y \"empaquetó\" Taiwán para 260,000 suscriptores",
+    "description": "Tsai Ing-wen (蔡覲安), nacido en 2002, comenzó a crear contenido sobre \"conocimiento frío del metro\" mientras estaba en la escuela secundaria. Doce años después, recibió el premio Jinlu por su contribución al campo del transporte. Su proceso de cambio de nombre, pausa y reinicio es un ejemplo del enfoque a largo plazo de los creadores de conocimiento en Taiwán.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/tsai-heipi",
+    "readingTime": 141,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "es/People/tsai-heipi.md"
+  },
+  {
+    "title": "Tsai Hei-pi: o menino que cresceu decorando nomes de estações de metrô e colocou Taiwan na inscrição de 260 mil pessoas",
+    "description": "Nascido em 2002, Tsai Chin-an (蔡覲安) começou no ensino médio autodidata fazendo vídeos de \"curiosidades do metrô\" e, doze anos depois, subiu ao palco do Prêmio Rota de Ouro, chamado de \"Oscar do setor de transportes\". Ele mudou de nome, fez uma pausa e recomeçou, cuidando sozinho de pesquisa, mapas e edição — um exemplo de pensamento de longo prazo entre criadores de conhecimento em Taiwan.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/tsai-heipi",
+    "readingTime": 136,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "pt/People/tsai-heipi.md"
+  },
+  {
+    "title": "Tsai Hei-pi: The Boy Who Grew Up Memorizing MRT Station Names Packed Taiwan into 260,000 Subscriptions",
+    "description": "Born in 2002, Tsai Chin-an started in high school self-producing \"MRT Trivia,\" and twelve years later stood on the stage of the Golden Road Award—dubbed the \"Oscars of Transportation.\" He rebranded, went on hiatus, and restarted, single-handedly handling research, maps, and editing—a exemplar of long-termism among Taiwan''s knowledge creators.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/tsai-heipi",
+    "readingTime": 129,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "en/People/tsai-heipi.md"
   },
   {
     "title": "Tsai Ing-wen : De la nuit de la défaite aux 8,17 millions de voix, huit ans de présidence silencieuse",
@@ -93453,6 +93612,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "ru/Art/contemporary-taiwanese-literature.md"
+  },
+  {
+    "title": "Современное искусство коренных народов Тайваня",
+    "description": "От традиционных ремёсел к современному творчеству: как художники из числа коренных народов Тайваня обрели голос на мировой арт-сцене и заново определили диалог между идентичностью коренных народов и современным искусством",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/art/contemporary-indigenous-art-taiwan",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "ru/Art/contemporary-indigenous-art-taiwan.md"
   },
   {
     "title": "Современные коренные певцы-композиторы Тайваня",
@@ -110835,6 +111005,24 @@
     "path": "hi/Politics/city-councilor-system-taiwan.md"
   },
   {
+    "title": "पासिबुत्बुत (आठ-स्वर सामंजस्य): पश्चिमी संगीत-इतिहास की सोच को चुनौती देने वाला एक जीवित जीवाश्म",
+    "description": "1943 में जापानी संगीतशास्त्री कुरोसावा ताकाआसा ने ताइतुंग की गहरी पहाड़ियों में बुनून जनजाति का पासिबुत्बुत गीत रिकॉर्ड किया। नौ साल बाद यह रिकॉर्डिंग यूनेस्को तक पहुँची और अंतरराष्ट्रीय संगीतशास्त्र जगत को चौंका दिया — एक ऐसी जनजाति, जिसकी कोई लिखित भाषा नहीं थी, उसने वह बहुस्वरीय गायन प्रस्तुत किया, जिसे पश्चिम में केवल उच्च सभ्यताओं की उपज माना जाता था।",
+    "category": "hi",
+    "tags": [
+      "बुनून जनजाति",
+      "आदिवासी संगीत",
+      "आदिवासी समुदाय",
+      "ओवरटोन",
+      "अमूर्त सांस्कृतिक विरासत",
+      "ताइवानी संस्कृति"
+    ],
+    "url": "https://taiwan.md/hi/music/bunun-pasibutbut-eight-part-polyphony",
+    "readingTime": 28,
+    "featured": true,
+    "date": "2026-04-01",
+    "path": "hi/Music/bunun-pasibutbut-eight-part-polyphony.md"
+  },
+  {
     "title": "पिंगपू जनजातियाँ: \"प्रशासनिक प्रारूपण\" से सिराया के 17वीं जनजाति के रूप में मान्यता तक सौ वर्षों का पुनर्जन्म",
     "description": "30 जुलाई 2026 को कार्यपालिका युआन ने आधिकारिक तौर पर सिराया को 17वीं कानूनी मूलनिवासी जनजाति के रूप में मान्यता दी, जिससे पिंगपू जनजातियों के सौ साल लंबे \"प्रशासनिक लोप\" का अंत हुआ। डच काल की घरेलू पंजी में चालीस हजार लोगों से लेकर 1950 के दशक में राष्ट्रवादी सरकार की पंजीकरण चूक के कारण सामूहिक अदृश्यता तक, और आज आठ जनजातियाँ अभी भी मान्यता के लिए कतार में हैं — इस नामांकन ने ताइवान के बहुसांस्कृतिक इतिहास-दृष्टि का नया अध्याय खोला है।",
     "category": "hi",
@@ -111190,6 +111378,24 @@
     "featured": false,
     "date": "2026-06-21",
     "path": "hi/Society/kuma-academy-civil-defense-school.md"
+  },
+  {
+    "title": "ब्लैक बैट स्क्वाड्रन: अंधेरी रातों के गुमनाम नायक और जलडमरूमध्य के पार अकेली उड़ान",
+    "description": "1952 में स्थापित एयर फ़ोर्स की 34वीं स्क्वाड्रन ने शीत युद्ध के कोहरे में सबसे ख़तरनाक निचली-ऊँचाई की टोही उड़ानें भरीं। अमेरिकी CIA के साथ मिलकर उन्होंने महत्वपूर्ण ख़ुफ़िया जानकारी के बदले 148 सैनिकों की जान गंवाई, दशकों तक गुमनाम रहे — जब तक 1990 के दशक में क्रॉस-स्ट्रेट संबंध सामान्य नहीं हुए और परिवार अपने शहीदों की अस्थियाँ वापस ताइवान ला सके, तब जाकर आधी सदी से अधूरी यह पारिवारिक तस्वीर पूरी हुई।",
+    "category": "hi",
+    "tags": [
+      "शीत युद्ध",
+      "वायु सेना",
+      "ब्लैक बैट स्क्वाड्रन",
+      "सिंचु",
+      "विशेष अभियान",
+      "वेस्टर्न एंटरप्राइजेज़"
+    ],
+    "url": "https://taiwan.md/hi/history/black-bat-squadron",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-08-01",
+    "path": "hi/History/black-bat-squadron.md"
   },
   {
     "title": "भर गए बंदरगाहों पर चलना: ताइनान के मध्य-पश्चिम जिले के पांच व्यंजन",
@@ -117801,7 +118007,14 @@
     "title": "린창쭤(林昶佐): CHTHONIC의 보컬에서 국회의 현장으로, 대만사를 공공의 목소리로 만든 사람",
     "description": "린창쭤는 CHTHONIC의 보컬 Freddy로서 2·28, 백색테러, 우서 사건, 대만 신화, 대만어 메탈을 공적인 기억으로 써 넣었고, 동료들과 함께 다강카이창을 남부의 문화적인 장으로 키웠다. 음악, 대만 의식, 문화적인 실천, 제도 정치, 가족으로서의 삶의 경험, 그리고 퇴임 후의 공적인 역할이 그의 위에서 서로 얽히며, 무대에서 사회로, 국회로, 그리고 국제적인 현장으로 향하는 하나의 길을 이루고 있다.",
     "category": "ko",
-    "tags": [],
+    "tags": [
+      "인물",
+      "음악",
+      "헤비메탈",
+      "정치",
+      "사회운동",
+      "閃靈"
+    ],
     "url": "https://taiwan.md/ko/people/freddy-lim",
     "readingTime": 69,
     "featured": false,
@@ -121931,6 +122144,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/People/jolin-tsai.md"
+  },
+  {
+    "title": "차이잉안: 지하철역 이름으로 자란 소년, 타이완을 26만 구독자에 담다",
+    "description": "2002년에 태어난 차이잉안은 고등학교 때 '지하철 냉지식'을 독학하며 시작했고, 12년 후 '교통계 오스카'라 불리는 진루상 시상대에 올랐다. 그는 이름 변경, 활동 중단, 재출발을 거치며 자료 조사, 지도 제작, 편집을 전담한 타이완 지식 크리에이터의 장기적 사례를 보여준다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/tsai-heipi",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-08-19",
+    "path": "ko/People/tsai-heipi.md"
   },
   {
     "title": "차이잉원",

@@ -1,7 +1,222 @@
 {
-  "generatedAt": "2026-09-05T22:13:53.015Z",
+  "generatedAt": "2026-09-06T22:13:29.650Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "1b84792132e54053df99fdee6ed572de90854eb9",
+      "date": "2026-09-07T05:40:56+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-07 05:39 — 18/18 prompt in-sync，babel-nightly 假警報現查排除",
+      "articles": []
+    },
+    {
+      "hash": "6eaceefdf60df6e33e6b725d5e77a0d864636ee2",
+      "date": "2026-09-07T05:38:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-07 05:37 — 13 語 10,006 向量 0 fail 全綠，de 第二夜警告判讀一致",
+      "articles": []
+    },
+    {
+      "hash": "58d147f083f10196dd6a16f261b971eef5cb6dcf",
+      "date": "2026-09-07T05:37:13+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-07 05:37",
+      "articles": []
+    },
+    {
+      "hash": "ef16d9a78e9daa4da7414e890b5f5404be24c9b6",
+      "date": "2026-09-07T02:15:54+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-babel-nightly @ 2026-09-07 02:04 — preflight 判健康，實測四層死兩層",
+      "articles": []
+    },
+    {
+      "hash": "a2ee8b44af11503ba060b2248add2ba2177c9787",
+      "date": "2026-09-07T02:09:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] babel: 7 語 + 3 patch 落地，蔡黑皮首度全語言上線",
+      "articles": []
+    },
+    {
+      "hash": "951a7589da48eec0b87a14c7f502c00b0c57da2d",
+      "date": "2026-09-07T01:13:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-supporters-weekly @ 2026-09-07 01:12 — 0 候選信 no-op，checkpoint 續留 08-10 但七週零信件經精準反查確認",
+      "articles": []
+    },
+    {
+      "hash": "80950cdcbf5a884eb9a7765d0c816257483f243d",
+      "date": "2026-09-07T00:44:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] fix: 補 10 個孤兒條目的 slug，babel-nightly 每語言都卡在同一批",
+      "articles": []
+    },
+    {
+      "hash": "579fca2c8539c70dc4a84f99a5e72df4622f12b8",
+      "date": "2026-09-06T21:21:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-routine-audit-weekly @ 2026-09-06 21:19 — 13 條 routine 全準時，量測盲點在三條裡各自現形",
+      "articles": []
+    },
+    {
+      "hash": "68e3743a58e3a14185be9157d1d04fe75b1c105d",
+      "date": "2026-09-06T21:18:55+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] routine-audit-weekly: 258 commits / 3 cross-cutting patterns / 1 LESSONS — 2026-09-06",
+      "articles": []
+    },
+    {
+      "hash": "b1b8cf34d33791311035ac86e7f02f4aa8aa8050",
+      "date": "2026-09-06T13:01:35+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-06 12:59 — 三層對賬第 40 輪，babel-nightly rider 執行完畢",
+      "articles": []
+    },
+    {
+      "hash": "f7bdaefe1414c6157dda531945a11e8f84c3471f",
+      "date": "2026-09-06T12:58:31+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-routine-sync: 五個機殼補上 9/5 薄殼化，babel-nightly 依拍板開機",
+      "articles": []
+    },
+    {
+      "hash": "f3e9654e69cd5cdc17af71675bf7a7c10e0a2f79",
+      "date": "2026-09-06T08:59:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-06 08:57 — 讀者說我們漏了，站上其實寫了，只是沒有路通到那裡",
+      "articles": []
+    },
+    {
+      "hash": "0aa8b248e844bdcc6fed45f1c6ef0c5e83b85618",
+      "date": "2026-09-06T08:57:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] lessons: 補鏈工單照流量排前 50，讀者絆倒的那篇在切線以下",
+      "articles": []
+    },
+    {
+      "hash": "d8646a2a99d7763403d539d3ce526b4fc462d77a",
+      "date": "2026-09-06T08:50:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] fix: 生態多樣性補上通往石虎深度條目的路，讀者回報的缺口其實站上早就寫了",
+      "articles": [
+        {
+          "url": "/nature/生態多樣性",
+          "name": "生態多樣性"
+        }
+      ]
+    },
+    {
+      "hash": "18b881c67c31bf6e5e8f5484be7ba085df3e0265",
+      "date": "2026-09-06T08:44:58+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1677 from aminzai/translate/id-national-cultural-memory-bank",
+      "articles": []
+    },
+    {
+      "hash": "43c1d498a383b501783094566458cf18630dc84e",
+      "date": "2026-09-06T08:44:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1676 from aminzai/translate/hi-black-bat-squadron",
+      "articles": []
+    },
+    {
+      "hash": "2ece2a0c4fa2dc58e10ff53d201e2ae40814c2ce",
+      "date": "2026-09-06T08:44:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1675 from aminzai/translate/de-taiwan-sauces-and-seasonings",
+      "articles": []
+    },
+    {
+      "hash": "8498ee12728b2308c1d3f9a4a3b126fa91af6276",
+      "date": "2026-09-06T08:44:43+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1674 from aminzai/translate/id-taiwan-sugar",
+      "articles": []
+    },
+    {
+      "hash": "438e6c77d88fddee1e52c1e3ca8b3826ec3e0fbb",
+      "date": "2026-09-06T08:44:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1673 from aminzai/translate/hi-bunun-pasibutbut-eight-part-polyphony",
+      "articles": []
+    },
+    {
+      "hash": "2bbc38a020cb5a2d029845a9a05c4de49dc72716",
+      "date": "2026-09-06T08:44:33+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1672 from aminzai/translate/de-pork-heart-vermicelli",
+      "articles": []
+    },
+    {
+      "hash": "db7bfba724344e29d07ede7e56b670860dfe6ff0",
+      "date": "2026-09-06T08:44:28+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1671 from aminzai/translate/ru-contemporary-indigenous-art-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "06cb46caa487706b0fcc18d2b5144ae917d1514f",
+      "date": "2026-09-06T08:44:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1670 from aminzai/translate/id-water-running-uphill",
+      "articles": []
+    },
+    {
+      "hash": "b7e7c1b71e62c4a87b8bca217a9d2a8c1b41eb9a",
+      "date": "2026-09-06T08:44:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1669 from aminzai/translate/de-ah-po-iron-eggs",
+      "articles": []
+    },
+    {
+      "hash": "b25c9c3a11169a3ed696ee6a68014c1e28851be6",
+      "date": "2026-09-06T07:10:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-09-06 07:09 — 二十輪來第一封可以直接開出去的信",
+      "articles": []
+    },
+    {
+      "hash": "4089de105640a8e7c28e3d3d34b064c9f36ad883",
+      "date": "2026-09-06T07:08:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 一封生態多樣性的補充建議開成 issue #1678",
+      "articles": []
+    },
+    {
+      "hash": "2f91418964c9a97df540f596240d8a5fde0904c5",
+      "date": "2026-09-06T06:50:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-09-06 06:49 — D+14 milestone 兩平台零新留言",
+      "articles": []
+    },
+    {
+      "hash": "57b058ba3718af73bcda44d96ecea9977ba39636",
+      "date": "2026-09-06T06:49:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 2 spores harvested, 0 replies shipped — 2026-09-06",
+      "articles": []
+    },
+    {
+      "hash": "cb5baf4ee954728d7e24d93eda60aaf7e7757233",
+      "date": "2026-09-06T06:18:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-06 06:16 — 14 步全綠零 stale 第六天，scheduler rider 照跑",
+      "articles": []
+    },
+    {
+      "hash": "d58613a7c040e81e0033ac71101de1da8f3ec969",
+      "date": "2026-09-06T06:16:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] scheduler live-state dump — twmd-data-refresh-am rider",
+      "articles": []
+    },
+    {
+      "hash": "c8e42b2031c601773a19c402834e622fa49c10da",
+      "date": "2026-09-06T06:16:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: 每日資料刷新，14 步全綠零 stale",
+      "articles": []
+    },
     {
       "hash": "7865569dda18aa703beec4fbe60806b39b2bf296",
       "date": "2026-09-06T05:38:59+08:00",
@@ -14,6 +229,27 @@
       "date": "2026-09-06T05:37:12+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-06 05:37",
+      "articles": []
+    },
+    {
+      "hash": "334e0acbdde12496d83f6071699a5c9e6fb94d1b",
+      "date": "2026-09-06T05:18:56+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 國家文化記憶庫 -> national-cultural-memory-bank",
+      "articles": []
+    },
+    {
+      "hash": "c76772fc08c5d599d37ac4824a17bfe506a48150",
+      "date": "2026-09-06T05:18:18+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 黑蝙蝠中隊 -> black-bat-squadron",
+      "articles": []
+    },
+    {
+      "hash": "80095b6bd9746c5e18892152e75059aada05da4a",
+      "date": "2026-09-06T05:17:43+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 台灣醬料與調味 -> taiwan-sauces-and-seasonings",
       "articles": []
     },
     {
@@ -42,6 +278,27 @@
       "date": "2026-09-06T04:20:53+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] evolve: 腳註描述的查證缺口，從外部 PR 補進自產深度文",
+      "articles": []
+    },
+    {
+      "hash": "3e9aa537a194f301b57c7fdb46f6882d95294d9b",
+      "date": "2026-09-06T04:13:05+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 台糖 → taiwan-sugar",
+      "articles": []
+    },
+    {
+      "hash": "342d468e79a0e432f4284b236481248d2357258f",
+      "date": "2026-09-06T04:12:31+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 八部合音 → bunun-pasibutbut-eight-part-polyphony",
+      "articles": []
+    },
+    {
+      "hash": "dab96dbb91f504f32f03453b866020c36e4ca52f",
+      "date": "2026-09-06T04:11:48+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 豬心冬粉 → pork-heart-vermicelli",
       "articles": []
     },
     {
@@ -112,6 +369,27 @@
       "date": "2026-09-06T01:19:21+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] twmd-news-lens-weekly: W36 三源交叉，1 條候選（出口關閉）— 范曉萱音樂節策展人唯一確認觸發事件，陳映真/金城武/錫蘭三條高倍數成長訊號雙源確認但觸發事件未確認（含兩次舊聞誤判撤回）",
+      "articles": []
+    },
+    {
+      "hash": "d74bb233f48e96bc98d237029113d61030912433",
+      "date": "2026-09-05T22:24:44+08:00",
+      "author": "aminzai",
+      "message": "translate(ru): 台灣原住民當代藝術 → contemporary-indigenous-art-taiwan",
+      "articles": []
+    },
+    {
+      "hash": "8de15216504c2190a86df613ce752f83cf7b79a0",
+      "date": "2026-09-05T22:20:51+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 水往上流 → water-running-uphill",
+      "articles": []
+    },
+    {
+      "hash": "53e07bfa5bdb8f0f40aacbf2b39aa2dfc581ff9b",
+      "date": "2026-09-05T22:17:50+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 阿婆鐵蛋 → ah-po-iron-eggs",
       "articles": []
     },
     {
@@ -84762,404 +85040,6 @@
       "date": "2026-03-18T23:15:33+08:00",
       "author": "Hans",
       "message": "feat: 下一步引導、手機體驗優化、SEO 強化",
-      "articles": []
-    },
-    {
-      "hash": "3322d8b8725bd1713cc386f4bbf6c87b03be15f8",
-      "date": "2026-03-18T23:03:45+08:00",
-      "author": "Hans",
-      "message": "feat: 新增全站搜尋功能",
-      "articles": []
-    },
-    {
-      "hash": "a3648a498e60f7254f67844f35cc254153ad4bc1",
-      "date": "2026-03-18T22:58:54+08:00",
-      "author": "Hans",
-      "message": "fix: 修正首頁統計卡片 emoji 被截掉與文字溢出問題",
-      "articles": []
-    },
-    {
-      "hash": "2ecd02676a6d5ef5d34958ccc4ad82512ad4abf7",
-      "date": "2026-03-18T23:14:32+08:00",
-      "author": "Bugn!i!",
-      "message": "feat(society): 新增「動物園與展演動物倫理」(#27)",
-      "articles": [
-        {
-          "url": "/society/動物園與展演動物倫理",
-          "name": "動物園與展演動物倫理"
-        }
-      ]
-    },
-    {
-      "hash": "098537d2359fff4cc366d59bb4844e13c9693e0f",
-      "date": "2026-03-18T23:13:23+08:00",
-      "author": "frank890417",
-      "message": "fix: article typography — lists, heading hierarchy, spacing",
-      "articles": []
-    },
-    {
-      "hash": "e07410fba94bee682fe5cc29c3c5a6aca472aaa0",
-      "date": "2026-03-18T23:10:28+08:00",
-      "author": "frank890417",
-      "message": "fix: hero stats grid 4 columns instead of auto-fit wrapping",
-      "articles": []
-    },
-    {
-      "hash": "d0134e0b010a45a88bfd722bd6a72847afeb7256",
-      "date": "2026-03-18T23:07:23+08:00",
-      "author": "frank890417",
-      "message": "style: widen reading layout — container 1080px, content 840px, header 960px",
-      "articles": []
-    },
-    {
-      "hash": "ea0971824b17a11ee74529749c37394acfda600c",
-      "date": "2026-03-18T22:59:52+08:00",
-      "author": "frank890417",
-      "message": "feat: external links open in new tab (target=_blank)",
-      "articles": []
-    },
-    {
-      "hash": "9f0b172568f971e157cc9034f6f978c652a8ca60",
-      "date": "2026-03-18T22:56:26+08:00",
-      "author": "frank890417",
-      "message": "fix: 調整 root font-size 至 118%（Ray UI 合併後字體偏小修正）",
-      "articles": []
-    },
-    {
-      "hash": "11faa95e97cc48123679bc839d5138c8f3e8f3e7",
-      "date": "2026-03-18T22:54:02+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #26 from Ray0907/feat/ui-ux-consistency-clean",
-      "articles": []
-    },
-    {
-      "hash": "30dfbafae072804e64cd967f7241e872d9e11070",
-      "date": "2026-03-18T22:53:08+08:00",
-      "author": "frank890417",
-      "message": "content: Taiwan.md 內容衝刺 — 新增6篇深度文章",
-      "articles": [
-        {
-          "url": "/culture/台灣夜市文化與小吃風情",
-          "name": "台灣夜市文化與小吃風情"
-        }
-      ]
-    },
-    {
-      "hash": "2fc3919a7d0fefd2c4921b1a134b1b81a2a96c2b",
-      "date": "2026-03-18T22:51:57+08:00",
-      "author": "frank890417",
-      "message": "content: 為音樂類文章補充 YouTube 連結",
-      "articles": [
-        {
-          "url": "/art/台灣當代文學發展",
-          "name": "台灣當代文學發展"
-        },
-        {
-          "url": "/music/台灣搖滾樂發展史",
-          "name": "台灣搖滾樂發展史"
-        },
-        {
-          "url": "/music/當代原住民創作歌手",
-          "name": "當代原住民創作歌手"
-        }
-      ]
-    },
-    {
-      "hash": "33f21a627f0e7d51ba4002a7146c965af17ef520",
-      "date": "2026-03-18T22:50:48+08:00",
-      "author": "frank890417",
-      "message": "content: 為 12 個 Hub 頁面加入交叉連結",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/culture/_Culture Hub",
-          "name": "_Culture Hub"
-        },
-        {
-          "url": "/culture/台灣新興宗教與心靈文化",
-          "name": "台灣新興宗教與心靈文化"
-        },
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        }
-      ]
-    },
-    {
-      "hash": "8c547eec17e5e7585c578c3168c4b6c031a13ff3",
-      "date": "2026-03-18T22:48:01+08:00",
-      "author": "frank890417",
-      "message": "docs: 強化參考資料規範 — 所有引用必須附可點擊 URL",
-      "articles": []
-    },
-    {
-      "hash": "d4761635672e101e18fe2325c59dc916a2e9a7ed",
-      "date": "2026-03-18T22:41:54+08:00",
-      "author": "frank890417",
-      "message": "chore: update contributors — 9 total (6 new community members)",
-      "articles": [
-        {
-          "url": "/geography/台灣板塊運動與地震活動",
-          "name": "台灣板塊運動與地震活動"
-        }
-      ]
-    },
-    {
-      "hash": "6746cdc194b95082580e9d0bc73870b4b26aedf0",
-      "date": "2026-03-18T22:40:49+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #25 from bugnimusic/feature/wildlife-articles",
-      "articles": []
-    },
-    {
-      "hash": "4ea0fc51420b62d06e6d7b6c4b4d40b629fc3552",
-      "date": "2026-03-18T22:38:20+08:00",
-      "author": "frank890417",
-      "message": "a11y: 改善首頁 accessibility（alt text, aria labels, 語意化 HTML）",
-      "articles": []
-    },
-    {
-      "hash": "6e225f4d1cf2fbe2ab8958f8edc206200eab51a9",
-      "date": "2026-03-18T22:38:11+08:00",
-      "author": "Ray Tien",
-      "message": "feat: unify ui system",
-      "articles": []
-    },
-    {
-      "hash": "fc075855faa05940c6faa3e56948b2d079ca837d",
-      "date": "2026-03-18T22:38:02+08:00",
-      "author": "bugnimusic",
-      "message": "feat(nature): 新增「台灣石虎保育」+「台灣黑熊」— 台灣野生動物雙篇",
-      "articles": [
-        {
-          "url": "/nature/台灣石虎保育",
-          "name": "台灣石虎保育"
-        },
-        {
-          "url": "/nature/台灣黑熊",
-          "name": "台灣黑熊"
-        }
-      ]
-    },
-    {
-      "hash": "b8865630049a4eb1a5e63fda0a87974fb363d1f3",
-      "date": "2026-03-18T22:36:38+08:00",
-      "author": "frank890417",
-      "message": "content: 台灣民歌運動 + 台灣棒球文化",
-      "articles": [
-        {
-          "url": "/culture/台灣棒球文化",
-          "name": "台灣棒球文化"
-        }
-      ]
-    },
-    {
-      "hash": "15319020ff52c5b16beed98bf11d6d28b9133090",
-      "date": "2026-03-18T22:35:02+08:00",
-      "author": "frank890417",
-      "message": "content: 台灣在國際標準中的標示問題",
-      "articles": [
-        {
-          "url": "/music/台灣民歌運動",
-          "name": "台灣民歌運動"
-        },
-        {
-          "url": "/society/台灣在國際標準中的標示問題",
-          "name": "台灣在國際標準中的標示問題"
-        }
-      ]
-    },
-    {
-      "hash": "4d8b07569286c9196824d15b11bab057dcb4b8e1",
-      "date": "2026-03-18T22:28:57+08:00",
-      "author": "frank890417",
-      "message": "content: 獨立音樂場景整合版（原版歷史深度 + PR#21 當代內容）+ 台灣感性微調",
-      "articles": [
-        {
-          "url": "/culture/台灣感性",
-          "name": "台灣感性"
-        },
-        {
-          "url": "/music/獨立音樂場景",
-          "name": "獨立音樂場景"
-        }
-      ]
-    },
-    {
-      "hash": "67094e6ade39e8b870c2e0ad5b61903dcee3f676",
-      "date": "2026-03-18T22:28:58+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #24 from luofreddy/chore/remove-tracked-artifacts",
-      "articles": []
-    },
-    {
-      "hash": "200d956ecb97c1a3b25ed5ccc64f1a13af29ed3f",
-      "date": "2026-03-18T22:23:49+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #21 from ro9er117911/main",
-      "articles": []
-    },
-    {
-      "hash": "52f3e7ffc39e876af504d96925931c2ed0491682",
-      "date": "2026-03-18T22:23:36+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #23 from hansai-art/main",
-      "articles": []
-    },
-    {
-      "hash": "a3fc937808e974152f7fb5f7c6f283bb7f51940f",
-      "date": "2026-03-18T22:21:23+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #22 from jacky1822/patch-1",
-      "articles": []
-    },
-    {
-      "hash": "ad90fa90f32e343656a0e0b81a68499a18d890a3",
-      "date": "2026-03-18T22:21:14+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #20 from jekyll530/fix/typo",
-      "articles": []
-    },
-    {
-      "hash": "1ad6d7cff2cf5b588c4a38f04185c506db1619a0",
-      "date": "2026-03-18T22:20:37+08:00",
-      "author": "frank890417",
-      "message": "content: 台灣政治環境與選舉制度（社群投稿，事實查核通過）",
-      "articles": [
-        {
-          "url": "/society/台灣政治環境與選舉制度",
-          "name": "台灣政治環境與選舉制度"
-        }
-      ]
-    },
-    {
-      "hash": "6c5d0f53778c2a6deaa734615e89a433c1b2cd20",
-      "date": "2026-03-18T22:18:39+08:00",
-      "author": "frank890417",
-      "message": "content: 台灣製香文化與香腳原鄉 + 元宵vs湯圓",
-      "articles": [
-        {
-          "url": "/culture/傳統節慶與慶典",
-          "name": "傳統節慶與慶典"
-        },
-        {
-          "url": "/culture/台灣製香文化與香腳原鄉",
-          "name": "台灣製香文化與香腳原鄉"
-        }
-      ]
-    },
-    {
-      "hash": "b87da9e6604bdb674bb4d9c3d0a22f1b646b8229",
-      "date": "2026-03-18T22:15:09+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat: add interactive economic data charts to Economy page",
-      "articles": []
-    },
-    {
-      "hash": "63488231e468abeffdb7633e831ffead5baad9d7",
-      "date": "2026-03-18T22:07:01+08:00",
-      "author": "Freddy",
-      "message": "chore: remove .astro and node_modules from git tracking",
-      "articles": []
-    },
-    {
-      "hash": "a1945337621bb40aed2e29cfd74fc3ad1a407824",
-      "date": "2026-03-18T20:51:29+08:00",
-      "author": "ro9er117911",
-      "message": "docs(music): enrich indie music scene with detailed history, venues, and genres",
-      "articles": [
-        {
-          "url": "/music/獨立音樂場景",
-          "name": "獨立音樂場景"
-        }
-      ]
-    },
-    {
-      "hash": "85798327c533a8271d881f51234737c53cd23fc4",
-      "date": "2026-03-18T22:09:29+08:00",
-      "author": "Hans",
-      "message": "style: 降低 AI 感，統一文章語氣",
-      "articles": [
-        {
-          "url": "/culture/台灣感性",
-          "name": "台灣感性"
-        }
-      ]
-    },
-    {
-      "hash": "b423f6f624f946ddb3c85cf594b96d30e014b63a",
-      "date": "2026-03-18T22:07:22+08:00",
-      "author": "jacky1822",
-      "message": "fix: 將新竹縣市移至北台灣章節並補充代表地區",
-      "articles": [
-        {
-          "url": "/geography/城市特色與區域文化",
-          "name": "城市特色與區域文化"
-        }
-      ]
-    },
-    {
-      "hash": "0d7d0bfd003bb5d34eaf1d78a52110e1b49ff56d",
-      "date": "2026-03-18T22:06:12+08:00",
-      "author": "frank890417",
-      "message": "docs: add fact-checking requirements to CONTRIBUTING.md, README, and contribute page",
-      "articles": []
-    },
-    {
-      "hash": "fc56ba232c0e909f37b5b290932e0d3dda366f89",
-      "date": "2026-03-18T22:02:42+08:00",
-      "author": "frank890417",
-      "message": "fix: add 注音符號 to knowledge/Culture for routing",
-      "articles": [
-        {
-          "url": "/culture/注音符號",
-          "name": "注音符號"
-        }
-      ]
-    },
-    {
-      "hash": "ce86568284a1199c8d991c9feb05382d8865066e",
-      "date": "2026-03-18T22:00:16+08:00",
-      "author": "Jekyll Chen",
-      "message": "Fix typo.",
-      "articles": [
-        {
-          "url": "/lifestyle/_Lifestyle Hub",
-          "name": "_Lifestyle Hub"
-        },
-        {
-          "url": "/lifestyle/溫泉文化",
-          "name": "溫泉文化"
-        }
-      ]
-    },
-    {
-      "hash": "e824c0465053134525beb4d926652122b38c1e48",
-      "date": "2026-03-18T21:57:36+08:00",
-      "author": "frank890417",
-      "message": "chore: add GitHub Sponsors FUNDING.yml",
-      "articles": []
-    },
-    {
-      "hash": "cdd9abe0a726f9f997090220ee7ff389a4f2516b",
-      "date": "2026-03-18T21:53:56+08:00",
-      "author": "frank890417",
-      "message": "fix: 吳明益布克國際獎入圍作品修正（複眼人→單車失竊記 2018）",
-      "articles": [
-        {
-          "url": "/art/當代台灣文學",
-          "name": "當代台灣文學"
-        }
-      ]
-    },
-    {
-      "hash": "24ee1024d9e362556e16f3c98dcd012f7307d6df",
-      "date": "2026-03-18T21:53:04+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat: add real-time search filter to Knowledge Graph pages",
       "articles": []
     }
   ]

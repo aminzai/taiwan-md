@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T22:13:53.193Z",
+  "lastUpdated": "2026-09-06T22:13:29.973Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9016,
+      "commits": 9035,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-06 05:38:59 +0800",
+      "lastCommitAt": "2026-09-06 08:59:46 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1593,
-        "system": 4872,
-        "translation": 1979
+        "content": 1594,
+        "system": 4882,
+        "translation": 1980
       }
     },
     {
@@ -76,6 +76,20 @@
       }
     },
     {
+      "login": "aminzai",
+      "commits": 44,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
       "login": "YenTingWu",
       "commits": 36,
       "avatarUrl": "https://avatars.githubusercontent.com/u/57777349?v=4",
@@ -87,20 +101,6 @@
         "content": 0,
         "system": 3,
         "translation": 3
-      }
-    },
-    {
-      "login": "aminzai",
-      "commits": 35,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
       }
     },
     {
@@ -174,20 +174,6 @@
       }
     },
     {
-      "login": "AgendaLu",
-      "commits": 12,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
-      "profileUrl": "https://github.com/AgendaLu",
-      "firstCommitAt": "2026-03-19 16:12:27 +0800",
-      "lastCommitAt": "2026-04-03 15:53:49 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 10,
-        "system": 31,
-        "translation": 14
-      }
-    },
-    {
       "login": "eryet",
       "commits": 12,
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -199,6 +185,20 @@
         "content": 0,
         "system": 12,
         "translation": 4
+      }
+    },
+    {
+      "login": "AgendaLu",
+      "commits": 12,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
+      "profileUrl": "https://github.com/AgendaLu",
+      "firstCommitAt": "2026-03-19 16:12:27 +0800",
+      "lastCommitAt": "2026-04-03 15:53:49 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 10,
+        "system": 31,
+        "translation": 14
       }
     },
     {
@@ -244,17 +244,17 @@
       }
     },
     {
-      "login": "audreyt",
+      "login": "p3nchan",
       "commits": 7,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
-      "profileUrl": "https://github.com/audreyt",
-      "firstCommitAt": "2026-08-14 10:41:04 +0800",
-      "lastCommitAt": "2026-08-14 12:38:54 +0800",
-      "primaryArea": "system",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
+      "profileUrl": "https://github.com/p3nchan",
+      "firstCommitAt": "2026-03-29 12:51:51 +0800",
+      "lastCommitAt": "2026-04-25 20:46:01 +0800",
+      "primaryArea": "translation",
       "breakdown": {
         "content": 0,
-        "system": 5,
-        "translation": 1
+        "system": 0,
+        "translation": 7
       }
     },
     {
@@ -272,17 +272,17 @@
       }
     },
     {
-      "login": "p3nchan",
+      "login": "audreyt",
       "commits": 7,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
-      "profileUrl": "https://github.com/p3nchan",
-      "firstCommitAt": "2026-03-29 12:51:51 +0800",
-      "lastCommitAt": "2026-04-25 20:46:01 +0800",
-      "primaryArea": "translation",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
+      "profileUrl": "https://github.com/audreyt",
+      "firstCommitAt": "2026-08-14 10:41:04 +0800",
+      "lastCommitAt": "2026-08-14 12:38:54 +0800",
+      "primaryArea": "system",
       "breakdown": {
         "content": 0,
-        "system": 0,
-        "translation": 7
+        "system": 5,
+        "translation": 1
       }
     }
   ],
@@ -323,18 +323,18 @@
       "types": ["💻", "🖋️", "🌍", "🚇"]
     },
     {
-      "login": "YenTingWu",
-      "name": "YenTing Wu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57777349?v=4",
-      "profileUrl": "https://github.com/YenTingWu",
-      "types": ["💻", "🤔", "🌍", "🔧", "📖", "🚇"]
-    },
-    {
       "login": "aminzai",
       "name": "aminzai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "types": ["💻"]
+    },
+    {
+      "login": "YenTingWu",
+      "name": "YenTing Wu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57777349?v=4",
+      "profileUrl": "https://github.com/YenTingWu",
+      "types": ["💻", "🤔", "🌍", "🔧", "📖", "🚇"]
     },
     {
       "login": "Zaious",
@@ -372,17 +372,17 @@
       "types": ["💻", "🖋️", "🤔", "🌍", "👀"]
     },
     {
-      "login": "AgendaLu",
-      "name": "YiChengLu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
-      "profileUrl": "https://github.com/AgendaLu",
-      "types": ["💻", "🖋️", "🌍"]
-    },
-    {
       "login": "eryet",
       "name": "EryetChen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
       "profileUrl": "https://github.com/eryet",
+      "types": ["💻", "🖋️", "🌍"]
+    },
+    {
+      "login": "AgendaLu",
+      "name": "YiChengLu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
+      "profileUrl": "https://github.com/AgendaLu",
       "types": ["💻", "🖋️", "🌍"]
     },
     {
@@ -407,11 +407,11 @@
       "types": ["💻"]
     },
     {
-      "login": "audreyt",
-      "name": "audreyt",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
-      "profileUrl": "https://github.com/audreyt",
-      "types": ["💻", "🌍"]
+      "login": "p3nchan",
+      "name": "Penchan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
+      "profileUrl": "https://github.com/p3nchan",
+      "types": ["🖋️", "🌍"]
     },
     {
       "login": "weilinlai719",
@@ -421,11 +421,11 @@
       "types": ["💻", "🐛"]
     },
     {
-      "login": "p3nchan",
-      "name": "Penchan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
-      "profileUrl": "https://github.com/p3nchan",
-      "types": ["🖋️", "🌍"]
+      "login": "audreyt",
+      "name": "audreyt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
+      "profileUrl": "https://github.com/audreyt",
+      "types": ["💻", "🌍"]
     },
     {
       "login": "ting-hong-shieh",
@@ -449,18 +449,11 @@
       "types": ["🌍"]
     },
     {
-      "login": "gn00295120",
-      "name": "Lucas Wang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
-      "profileUrl": "https://github.com/gn00295120",
-      "types": ["💻", "🌍"]
-    },
-    {
-      "login": "r000tmnt",
-      "name": "ParkCorner",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62630285?v=4",
-      "profileUrl": "https://github.com/r000tmnt",
-      "types": ["💻", "🖋️"]
+      "login": "rhosiqs",
+      "name": "rhosiqs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
+      "profileUrl": "https://github.com/rhosiqs",
+      "types": ["🌍"]
     },
     {
       "login": "Ray0907",
@@ -470,11 +463,18 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "rhosiqs",
-      "name": "rhosiqs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
-      "profileUrl": "https://github.com/rhosiqs",
-      "types": ["🌍"]
+      "login": "r000tmnt",
+      "name": "ParkCorner",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/62630285?v=4",
+      "profileUrl": "https://github.com/r000tmnt",
+      "types": ["💻", "🖋️"]
+    },
+    {
+      "login": "gn00295120",
+      "name": "Lucas Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
+      "profileUrl": "https://github.com/gn00295120",
+      "types": ["💻", "🌍"]
     },
     {
       "login": "wegoliao",
@@ -888,16 +888,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9016,
+      "commits": 9035,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-09-06 05:38:59 +0800",
+      "lastCommitAt": "2026-09-06 08:59:46 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1593,
-        "system": 4872,
-        "translation": 1979
+        "content": 1594,
+        "system": 4882,
+        "translation": 1980
       }
     },
     {
@@ -929,20 +929,6 @@
       }
     },
     {
-      "login": "AgendaLu",
-      "commits": 12,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
-      "profileUrl": "https://github.com/AgendaLu",
-      "firstCommitAt": "2026-03-19 16:12:27 +0800",
-      "lastCommitAt": "2026-04-03 15:53:49 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 10,
-        "system": 31,
-        "translation": 14
-      }
-    },
-    {
       "login": "eryet",
       "commits": 12,
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -954,6 +940,20 @@
         "content": 0,
         "system": 12,
         "translation": 4
+      }
+    },
+    {
+      "login": "AgendaLu",
+      "commits": 12,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
+      "profileUrl": "https://github.com/AgendaLu",
+      "firstCommitAt": "2026-03-19 16:12:27 +0800",
+      "lastCommitAt": "2026-04-03 15:53:49 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 10,
+        "system": 31,
+        "translation": 14
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-05T22:14:04Z",
+  "timestamp": "2026-09-06T22:13:41Z",
   "total": 1121,
   "flagged": 715,
   "files": [
@@ -1466,8 +1466,8 @@
     },
     {
       "file": "nature/生態多樣性.md",
-      "score": 8,
-      "reasons": "年份僅0個; 空洞詞8個; 連續bullet4行; 塑膠句1個; 稀薄段落×7"
+      "score": 9,
+      "reasons": "年份僅0個; 空洞詞9個; 連續bullet4行; 塑膠句1個; 稀薄段落×7"
     },
     {
       "file": "nature/櫻花鉤吻鮭.md",
