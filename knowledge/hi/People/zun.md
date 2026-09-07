@@ -23,10 +23,10 @@ image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 relatedDiary: ['2026-07-15-191335-manual']
 translatedFrom: 'People/尊.md'
-sourceCommitSha: '16c428cd9'
-sourceContentHash: 'sha256:94b77718dfa4da62'
-sourceBodyHash: 'sha256:5579d8d02a3f58ac'
-translatedAt: '2026-07-27T18:30:14+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:6c850ed56b9fd45a'
+sourceBodyHash: 'sha256:f9ebc993a34e1749'
+translatedAt: '2026-09-07T18:21:09.858950+00:00'
 ---
 
 > **30 सेकंड अवलोकन:**
