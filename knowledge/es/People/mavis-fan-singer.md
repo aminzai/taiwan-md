@@ -2,22 +2,23 @@
 title: 'Mavis Fan: de la pequeña bruja de «Canción de la salud» a vocalista de 100% Band, treinta años negándose a ser definida por una sola época'
 description: 'En 1996, a los 19 años, Mavis Fan se convirtió en la pequeña bruja de todo Taiwán gracias a «Canción de la salud». En 1998 se rapó la cabeza y lanzó *Darling* declarando que haría «su propia música»; en 2001 viró al jazz con *Divine Singing Star*; en 2007 formó 100% Band. En 2025, a los 48 años, *Passerby* es el primer álbum nuevo con la banda en 16 años: treinta años desmontando pieza a pieza «el sueño que otros le impusieron».'
 date: 2026-04-20
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂人'
 tags:
   ['Música', 'Cantautora', 'Premios Golden Melody', '100% Band', 'Pop mandarín']
+subcategory: '音樂人'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
-featured: false
-translatedFrom: People/范曉萱.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:be33318bbff736f0'
-sourceBodyHash: 'sha256:972eef53b5601304'
-translatedAt: 2026-05-01T20:54:23+08:00
+researchReport: 'reports/research/2026-04/范曉萱.md'
+translatedFrom: 'People/范曉萱.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:752a0e7cddd9b38d'
+sourceBodyHash: 'sha256:7cceb716a616fa6b'
+translatedAt: '2026-09-07T20:33:31.970936+00:00'
 ---
 
-> **Resumen en 30 segundos:** Mavis Fan (范曉萱, 1977–), cantautora taiwanesa. Debutó en 1995 a los 18 años con _Rain_; en 1996 «Canción de la salud» la convirtió en la «pequeña bruja» infantil más famosa de Taiwán. En 1998 _Darling_ y su rapado anunciaron la reinvención; en 1999 _I Want Us Together_ ganó el premio al Mejor Álbum Vocal de Música Popular en la 11.ª edición de los Premios Golden Melody; en 2001 _Divine Singing Star_ exploró el jazz; en 2007 formó Mavis Fan & 100% Band; en 2010 ganó el premio al Mejor Productor de Sencillo en la 21.ª edición de los Golden Melody con «Master». En diciembre de 2025 llegó _Passerby_ —16 años después del álbum anterior—. Treinta años en los que una y otra vez se negó a ser definida por la imagen de una sola época.
+> **30 segundos en resumidas cuentas:** Fan Hsiaohsuan (Mavis Fan, 1977–), cantante y compositora taiwanesa. Debutó a los 18 años en 1995 con 《Rain》; en 1996, con 〈健康歌〉, se convirtió en la “pequeña bruja” estrella adolescente más famosa de Taiwán. En 1998, 《Darling》 marcó su transformación con un peinado raso; en 1999, 《我要我們在一起》 ganó el premio a Mejor álbum de música pop en los 11.º premios [金曲獎](/es/music/pop-music-and-golden-melody-awards/); en 2001, 《絕世名伶》 exploró la línea de jazz; en 2007 formó la banda Fan Hsiaohsuan & 100%; en 2010, con 〈主人〉, ganó el premio a Mejor productor de sencillo en los 21.º premios 金曲獎. En diciembre de 2025, 《過客》 —su primer álbum en 16 años. En tres décadas, una y otra vez se ha negado a dejar que una sola etiqueta la defina.
 
 ## Aquel post-it sobre la mesa
 
@@ -54,20 +55,20 @@ El álbum fue seleccionado entre los Diez Mejores Álbumes de 2001 por la Asocia
 
 Ella eligió no contraatacar —se replegó hacia dentro. Entre 2001 y 2003, la depresión la envolvió durante casi tres años.
 
-## Los días en que mirar el balcón daba ganas de saltar
+## El período en que veía el balcón y quería saltar
 
-En diciembre de 2004, Mavis Fan, en colaboración con el estudio Lin Zhezhe (林暐哲工作室) y con músicos como Chen Jianqi (陳建騏), publicó su séptimo álbum, _Is There Any Other Way?_ (還有別的辦法嗎) —ella misma lo llamó el «diario musical» de aquellos tres años[^16].
+En diciembre de 2004, Fan Hsiu-hsien lanzó su séptimo álbum, _There’s Another Way_[^16], en colaboración con el estudio de Lin Wei-cheng (también con músicos como [Chen Chien-chi](/es/people/chen-chien-chi-music-producer/) entre otros). Ella misma lo describió como el “diario musical” de esos tres años.
 
-En abril de 2005 publicó el libro _Random Writings_ (亂寫), un relato completo del proceso de atravesar la depresión entre 2001 y 2003[^17].
+En abril de 2005 publicó el libro _Scattered Writings_, que registra íntegramente su lucha contra la depresión entre 2001 y 2003[^17].
 
-Años después habló de aquel periodo:
+Años después, al hablar de aquel tiempo, dijo:
 
-> «Cada día, en casa, miraba el balcón y quería saltar; veía un cuchillo de cocina y pensaba en cortarme el vientre.»[^18]
+> “Cada día, viendo el balcón desde casa, quería saltar; al tomar un cuchillo de cocina, quería abiertamente cortarme.”[^18]
 
-Son palabras que ella misma eligió escribir en un libro y repetir en entrevistas. No son relatos de terceros, ni comunicados de prensa: es la versión que ella decidió dejar en el registro público.
+Estas palabras aparecen escritas por ella misma en el libro y dichas en entrevistas. No es una reinterpretación ajenas, ni un comunicado de relaciones públicas: es su propia versión, que ella decidió conservar en el registro público.
 
 > **📝 Nota del curador**
-> Cuando Taiwan.md escribe sobre figuras que han atravesado depresión o episodios de autolesión, procede con especial cuidado: no reconstruye escenas, no dramatiza detalles. Lo singular de Mavis Fan es que esta experiencia fue algo que ella misma eligió narrar en _Random Writings_, en las letras de _Is There Any Other Way?_ y en el hilo conductor de cada entrevista. Convirtió su crisis en obra, y luego usó esa obra para acompañar a otras personas en crisis. Esa fue su decisión —nosotros citamos su propia versión, sin añadir nada.
+> En Taiwan.md, al escribir sobre figuras públicas, tratamos con especial cuidado temas como la depresión o el autolesionismo: no reconstruimos escenas, no exageramos detalles. Pero en el caso de Fan Hsiu-hsien, lo particular es que ella misma decidió incluir esta experiencia en _Scattered Writings_, en la letra de _There’s Another Way_, y en la narrativa de cada entrevista. Transformó su propio colapso en arte, y luego usó ese arte para cuidar a quienes también están colapsando. Esta es su versión, y la citamos sin añadidos ni adornos.
 
 ## Cuatro personas y una compañía llamada «El pez que come hierba»
 
