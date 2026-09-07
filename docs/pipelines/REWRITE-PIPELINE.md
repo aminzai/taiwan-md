@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程薄索引（v9.0 router）— spine / Hard Gate Inventory / 多 agent 編排 / stage contract 派發表；各 stage 操作細節住 REWRITE-STAGE-*.md contract 檔（執行者只讀一個 contract 即可跑一步）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v9.8'
-last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review（v9.8 小衛生修補：跨檔案職責分工表 `REWRITE-STAGE-*.md × 10` 份數漂移——實際 11 檔／派發表去重後也是 11 列，改成不寫死數字、pointer 到 §Stage contract 派發表當份數 SSOT；counts-drift-lint.py 加對應 check）'
+current_version: 'v9.9'
+last_updated: 2026-09-07
+last_session: '2026-09-07-164559-audit-upgrade（v9.9：新增可執行 Rewrite Guide 入口，既有發布契約保留）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -35,6 +35,12 @@ upstream_canonical:
 > v5.0 設計理由：[reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md](../../reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md)。
 
 ---
+
+## 互動式新版入口（2026-09-07）
+
+[Rewrite Guide](REWRITE-GUIDE.md) 提供 `node scripts/twmd.mjs rewrite` 的逐步 agent 協議：取得任務、提交工件、具名裁決、回退與版本失效。可直接用於局部試寫及文章工作，目前為可執行實驗版。執行 prompt 的來源是 `scripts/rewrite/prompts.mjs`。
+
+本次不把新的任務通過率當文章品質。既有下列 contract 保留作發布相容檢查；新工具不自動發布，也不覆寫 newsroom 歷史。完整採用與退出舊流程的條件見 Guide，避免兩套制度無限疊加。
 
 ## 🗺️ ASCII spine
 

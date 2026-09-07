@@ -3,11 +3,11 @@ title: 'REWRITE-PIPELINE 單檔案型完整流程'
 description: '文章改寫流程單檔閱讀版（工具生成，不要手改）— 依 REWRITE-PIPELINE.md 派發表順序，串接十個 REWRITE-STAGE-*.md contract 自動重組；SSOT 仍是 v9 拆檔版，本檔僅供一次讀完整條產線之用'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v9.8-single'
-last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review（v9.8 小衛生修補：跨檔案職責分工表 `REWRITE-STAGE-*.md × 10` 份數漂移——實際 11 檔／派發表去重後也是 11 列，改成不寫死數字、pointer 到 §Stage contract 派發表當份數 SSOT；counts-drift-lint.py 加對應 check）'
+current_version: 'v9.9-single'
+last_updated: 2026-09-07
+last_session: '2026-09-07-164559-audit-upgrade（v9.9：新增可執行 Rewrite Guide 入口，既有發布契約保留）'
 generated_from:
-  - 'REWRITE-PIPELINE.md@99d43cc21'
+  - 'REWRITE-PIPELINE.md@46935d4a5'
   - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
   - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbc'
   - 'REWRITE-STAGE-1B-MEDIA.md@70e08c91d'
@@ -16,10 +16,10 @@ generated_from:
   - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e32'
   - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d'
   - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0'
-  - 'REWRITE-STAGE-3-VERIFY.md@36d5c8e32'
+  - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-06T04:20:40+08:00'
+generated_at: '2026-09-07T19:04:08+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
@@ -2118,7 +2118,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 36d5c8e32 ==== -->
+<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 72eeeefa5 ==== -->
 
 ## Stage 3 contract — 驗（草稿驗＋成品總驗）
 
