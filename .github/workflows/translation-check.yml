@@ -15,6 +15,8 @@ on:
       - 'knowledge/ar/**'
       - 'knowledge/ru/**'
       - 'knowledge/de/**'
+      - '.github/workflows/translation-check.yml'
+      - 'scripts/tools/pr-changed-files.mjs'
 
 jobs:
   check-translation:
@@ -52,6 +54,12 @@ jobs:
               }
             }
 
+      - name: Detect changed files without path splitting
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node scripts/tools/pr-changed-files.mjs
+
       - name: Check translation format
         run: |
           echo "🔍 Checking translation files..."
@@ -59,15 +67,18 @@ jobs:
           ERRORS=0
           ACTIVE_LANGS=$(node --input-type=module -e "import { ENABLED_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ENABLED_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
           
-          # Get changed files under enabled translation directories.
-          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- 'knowledge/' 2>/dev/null | grep -E "^knowledge/($ACTIVE_LANGS)/" || true)
-          
-          if [ -z "$FILES" ]; then
+          node --input-type=module <<'NODE' > .translation-files.nul
+          import { readFileSync } from 'node:fs';
+          import { ENABLED_LANGUAGE_CODES } from './src/config/languages.mjs';
+          const languages = new Set(ENABLED_LANGUAGE_CODES.filter(code => code !== 'zh-TW'));
+          const files = JSON.parse(readFileSync('.pr-changed-files.json', 'utf8')).all_kn;
+          for (const file of files) if (languages.has(file.split('/')[1])) process.stdout.write(file + '\0');
+          NODE
+          if [ ! -s .translation-files.nul ]; then
             echo "No translation files changed."
             exit 0
           fi
-          
-          for FILE in $FILES; do
+          while IFS= read -r -d '' FILE; do
             echo ""
             echo "📄 Checking: $FILE"
             
@@ -161,7 +172,7 @@ jobs:
             if grep -qi "aborigines" "$FILE" 2>/dev/null; then
               echo "  ⚠️ Uses 'aborigines' — prefer 'Indigenous peoples'"
             fi
-          done
+          done < .translation-files.nul
           
           echo ""
           echo "━━━━━━━━━━━━━━━━━━━━"
