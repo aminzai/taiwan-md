@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T04:34:59+08:00",
-    "zhCommitHead": "43d908fdd",
+    "lastUpdated": "2026-09-08T05:28:50+08:00",
+    "zhCommitHead": "486c79676",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 758,
-        "stale": 99,
+        "fresh": 759,
+        "stale": 98,
         "metadata_stale": 32,
         "missing": 232,
         "orphan": 0
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 616,
+        "fresh": 617,
         "stale": 101,
         "metadata_stale": 89,
-        "missing": 315,
+        "missing": 314,
         "orphan": 0
       },
       "id": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 710,
+        "fresh": 712,
         "stale": 61,
-        "metadata_stale": 20,
-        "missing": 330,
+        "metadata_stale": 19,
+        "missing": 329,
         "orphan": 0
       },
       "de": {
@@ -3154,18 +3154,16 @@
         "en": {
           "path": "en/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-11T12:11:40+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-07T21:28:12.793431+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/megaport-festival.md",
@@ -20565,8 +20563,8 @@
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
           "translatedAt": "2026-09-07T19:32:14.141007+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "486c7967",
+          "translationLastModified": "2026-09-08T04:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -31548,8 +31546,8 @@
           "sourceContentHash": "sha256:f4906969467717b0",
           "sourceBodyHash": "sha256:672a8871e0fcfa50",
           "translatedAt": "2026-09-08T00:42:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "486c7967",
+          "translationLastModified": "2026-09-08T04:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -33004,8 +33002,8 @@
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
           "translatedAt": "2026-09-08T00:42:50+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "486c7967",
+          "translationLastModified": "2026-09-08T04:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -33073,18 +33071,16 @@
         "ru": {
           "path": "ru/Art/traditional-arts-of-taiwan.md",
           "translatedFrom": "Art/台灣傳統藝術.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
-          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
           "translationLastCommit": "78b1cd2a",
           "translationLastModified": "2026-07-26T04:47:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -36393,8 +36389,8 @@
           "sourceContentHash": "sha256:103cffd41c084886",
           "sourceBodyHash": "sha256:afbe1eb00070eaa4",
           "translatedAt": "2026-09-08T00:42:50+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "486c7967",
+          "translationLastModified": "2026-09-08T04:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39260,7 +39256,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:928aabb44491a861",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-07T21:17:13.957967+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -75139,8 +75146,8 @@
           "sourceContentHash": "sha256:752a0e7cddd9b38d",
           "sourceBodyHash": "sha256:7cceb716a616fa6b",
           "translatedAt": "2026-09-07T20:34:28.877421+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "486c7967",
+          "translationLastModified": "2026-09-08T04:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -83321,7 +83328,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/mona-rudao.md",
+          "translatedFrom": "People/莫那·魯道.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-07T20:49:37.121528+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -91675,8 +91693,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-08T00:42:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "486c7967",
+          "translationLastModified": "2026-09-08T04:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",

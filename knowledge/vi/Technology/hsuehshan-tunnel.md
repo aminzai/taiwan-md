@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '9ecd20d61'
-sourceContentHash: 'sha256:9e7ddff3899aaa85'
-sourceBodyHash: 'sha256:909022379c9cd8a0'
-translatedAt: '2026-07-28T07:06:36+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:bafa69de0246ccbe'
+sourceBodyHash: 'sha256:d9ab34ee59f266bc'
+translatedAt: '2026-09-07T19:20:19.498726+00:00'
 ---
 
 > **Tổng quan 30 giây:**
@@ -68,13 +68,13 @@ Vào ngày 16 tháng 9 năm 2004, Tổng thống Trần Thế Vinh đã chứng 
 
 Tuy nhiên, việc mở lộ không đồng nghĩa với việc kết thúc. Sau này, việc hoàn thiện hệ thống máy móc và hệ thống điều khiển giao thông lại tốn kém gần hai năm. Vào thời điểm đó, Bộ trưởng Giao thông Lâm Lịch Ba bị áp lực chính trị lớn, thậm chí bị các nghị sĩ phản biện “quá thực tế với Giám đốc Tổng thống” [^6]. Nhưng đối với các công nhân thi công, an toàn là tiêu chí duy nhất, họ kiên trì chỉ mở cửa khi đã chắc chắn an toàn.
 
-## 25 gã hy sinh: Tượng kỷ niệm tại khu dịch vụ đường hầm
+## 25 tên người hy sinh: Bia kỷ niệm tại Khu dịch vụ Thạch Đinh
 
-Khi chúng ta ngày nay thở phòng lạnh, lắng nghe tiếng nghiên trong đường hầm, chỉ cần khoảng 40 phút là có thể xuyên qua dãy núi Tuyết Sơn, thì rất ít người chịu biết đến góc một góc khu dịch vụ đường hầm Tượng Đá, đứng một “Tượng kỷ niệm nhân viên hy sinh trong dự án đường cao tốc Bắc–Ĩ–Hạo”.
+Khi hôm nay chúng ta đi trong đường hầm tận hưởng điều hòa, lắng nghe phát thanh, chỉ cần khoảng 40 phút để xuyên qua dãy núi Tuyết Sơn, hiếm ai để ý rằng tại một góc Khu dịch vụ Thạch Đinh trên Quốc lộ số 5, đứng một bia kỷ niệm 「Nhân viên hy sinh trong công trình Bắc-Ỷ cao tốc công lộ」.
 
-Tượng kỷ niệm này dành cho những công nhân hy sinh trong quá trình thi công đường cao tốc Bắc–Ĩ–Hạo (bao gồm cả đường hầm Tuyết Sơn), trong đó có 12 kỹ sư cấp bằng trong nước và 13 công nhân Thái Lan [^11]. Dù toàn bộ dự án đường cao tốc Bắc–Ĩ–Hạo có 25 gã hy sinh, nhưng trong đó khoảng 13 người đã hy sinh trực tiếp trong dự án đường hầm Tuyết Sơn [^19]. Họ có người bị kẹt trong đất và đá bên dưới, người bị cuốn trôi bởi dòng nước cao áp, hay người hy sinh vì không khí trong đường hầm tệ kém và nhiệt độ cao gây qua tải.
+Chiếc bia này được dựng lên để tưởng nhớ 25 công nhân hy sinh trong quá trình xây dựng Bắc-Ỷ cao tốc công lộ (kể cả đường hầm Tuyết Sơn). Trong đó có 12 kỹ sư nội quốc tịch và 13 lao động Thái quốc tịch [^11]. Dù toàn bộ công trình Bắc-Ỷ cao tốc công lộ có 25 người hy sinh, nhưng trong đó khoảng 13 người hy sinh trực tiếp trong công trình đường hầm Tuyết Sơn [^19]. Giữa họ, có người bị vùi lấp dưới đất đá do sụp đổ, có người bị cuốn trôi bởi nước phun trào áp suất cao, còn có người hy sinh do quá sức vì không khí khắc nghiệt và nhiệt độ cao trong đường hầm.
 
-Tượng kỷ niệm được làm từ thác sàn tứ hướng cứng nhất trong đường hầm, biểu tượng cho sự khắc nghiệt và thách thức của dự án, hình dáng lấy cảm hứng từ huy hiệu Giám đốc Bộ Tài nguyên và Môi trường và hình cung Tượng Đảo, chữ ký trên tượng ghi lại tên của tất cả 25 gã hy sinh và lịch sử dự án thi công [^15]. 25 con đường kẹt này là những dấu ấn nặng nề nhất của lịch sử đường hầm Tuyết Sơn. Hoàn thành dự án dựa vào công nghệ kỹ thuật, còn dựa vào vạn dân công nhân chịu đựng rủi ro trong bóng tối dưới đất.
+Bia kỷ niệm được làm từ loại đá cứng nhất trong đường hầm Tuyết Sơn — «tứ lăng sa thạch», tượng trưng cho sự gian nan và thách thức của công trình; hình dáng bia lấy cảm hứng từ huy hiệu Cục Đường cao tốc Quốc gia và [Đảo Quy Sơn](/vi/geography/gueishan-island/) [^15], trên bia khắc tên tất cả người hy sinh và kỷ yếu công trình. 25 sinh mạng này là chú thích trầm trọng nhất sau khi đường hầm Tuyết Sơn thông xe. Sự hoàn thành của con đường hầm này nhờ vào kỹ thuật công trình, cũng nhờ vào những rủi ro mà vô số nhân viên công trình đã gánh chịu trong bóng tối dưới đất.
 
 ## Yên ổn sau khi mở lộ: Chi phí và lợi ích của “cuộc cách mạng thứ ba”
 

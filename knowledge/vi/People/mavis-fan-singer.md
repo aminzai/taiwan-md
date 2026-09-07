@@ -1,9 +1,4 @@
 ---
-translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:be33318bbff736f0'
-sourceBodyHash: 'sha256:972eef53b5601304'
-translatedAt: '2026-08-09T11:16:34+08:00'
 title: 'Mavis Fan: Từ cô phù thủy nhỏ của bài hát "Tập thể dục vui vẻ" đến ca sĩ chính của ban nhạc 100%, từ chối bị định nghĩa bởi một thời kỳ trong ba mươi năm'
 description: 'Năm 1996, Mavis Fan 19 tuổi vì một bài hát "Tập thể dục vui vẻ" trở thành cô phù thủy nhỏ được yêu thích trên khắp Đài Loan. Năm 1998 cô cắt tóc đầu, phát hành album "Darling" tuyên bố "làm nhạc của riêng mình"; năm 2001 chuyển sang jazz với "Nữ diễn viên tuyệt thế"; năm 2007 thành lập ban nhạc 100%. Năm 2025 cô 48 tuổi, "Khách qua đường" là tác phẩm mới sau 16 năm tách biệt với ban nhạc – ba mươi năm, cô từng khúc tháo gỡ "giấc mơ mà người khác tặng cho cô".'
 date: 2026-04-20
@@ -21,7 +16,12 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
-researchReport: reports/research/2026-04/范曉萱.md
+researchReport: 'reports/research/2026-04/范曉萱.md'
+translatedFrom: 'People/范曉萱.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:752a0e7cddd9b38d'
+sourceBodyHash: 'sha256:7cceb716a616fa6b'
+translatedAt: '2026-09-07T20:24:56.474874+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Mavis Fan (1977-), ca sĩ sáng tác Đài Loan. Năm 1995 khi 18 tuổi phát hành album "Rain" ra mắt, năm 1996 bài hát "Tập thể dục vui vẻ" trở thành "cô phù thủy nhỏ" nổi tiếng nhất toàn Đài Loan. Năm 1998 album "Darling" cắt tóc đầu tuyên bố chuyển hướng, năm 1999 album "Tôi muốn chúng ta ở bên nhau" giành Giải thưởng Âm nhạc Đài Loan lần thứ 11 cho Album nhạc pop tuyệt vời nhất, năm 2001 album "Nữ diễn viên tuyệt thế" theo hướng jazz, năm 2007 thành lập ban nhạc Mavis Fan & 100%, năm 2010 với bài hát "Chủ nhân" giành Giải thưởng Âm nhạc Đài Loan lần thứ 21 cho Nhà sản xuất ca khúc tuyệt vời nhất. Năm 2025 tháng 12 album "Khách qua đường" – cách album trước đó 16 năm. Trong ba mươi năm cô đã liên tục từ chối bị định nghĩa bởi vẻ mặt của một thời kỳ.
@@ -61,20 +61,20 @@ Album này giành được giải thưởng Album hàng đầu năm 2001 từ Hi
 
 Cô chọn không phản công — cô rút vào bên trong. Từ năm 2001 đến 2003, cô bị bao phủ bởi chứng trầm cảm suốt gần ba năm.
 
-## Khoảng thời gian nhìn thấy ban công là muốn nhảy xuống
+## Giai đoạn nhìn ra ban công là muốn nhảy xuống
 
-Tháng 12 năm 2004, Mavis Fan và Xưởng làm việc Lâm Vĩ Triết (cùng thời kỳ cũng cộng tác với các nhạc sĩ như Trần Kiến Kỳ và những người khác) phát hành album thứ bảy "Còn có cách nào khác không?" — cô gọi nó là "nhật ký âm nhạc" của ba năm đó[^16].
+Tháng 12 năm 2004, Phạm Hiểu Loan cùng studio Lâm Viết Triết (đồng thời hợp tác với các nhạc sĩ như [Trần Kiến Kỳ](/vi/people/chen-chien-chi-music-producer/)) phát hành album thứ bảy 《Còn cách nào khác không》—bản thân cô gọi đây là "nhật ký âm nhạc" của ba năm đó[^16].
 
-Tháng 4 năm 2005, cô xuất bản sách "Viết lung tung", ghi lại hoàn toàn quá trình đi qua chứng trầm cảm từ năm 2001 đến 2003[^17].
+Tháng 4 năm 2005, cô xuất bản cuốn sách 《Vô trật tự》, ghi lại trọn vẹn quá trình mắc chứng trầm cảm từ năm 2001 đến 2003[^17].
 
-Nhiều năm sau, khi nói về khoảng thời gian đó:
+Nhiều năm sau, cô nói về giai đoạn đó:
 
-> "Mỗi ngày tôi ở nhà nhìn thấy ban công là muốn nhảy xuống, lấy dao cạo là muốn tự cắt cổ."[^18]
+> "Mỗi ngày ở nhà nhìn ra ban công là muốn nhảy xuống, cầm dao thái rau là muốn tự sát."[^18]
 
-Đó là những lời cô tự viết trong sách, tự nói trong các cuộc phỏng vấn — không phải do người khác kể lại, không phải PR handout — là phiên bản cô chủ động chọn để giữ lại trong hồ sơ công cộng.
+Đó là lời cô đã công khai viết trong sách, công khai kể trong các cuộc phỏng vấn. Không phải người khác thuật lại, không phải bản PR—mà là phiên bản do chính cô chọn để lưu giữ trong hồ sơ công chúng.
 
-> **📝 Ghi chú của người curation**
-> Khi Taiwan.md viết về con người, chúng tôi đặc biệt cẩn thận với những chủ đề như chứng trầm cảm, tự làm hại — không tái thiết lập bối cảnh, không khuếch đại chi tiết. Nhưng điều đặc biệt ở Mavis Fan là: trải nghiệm này là chính cô chọn viết vào "Viết lung tung", viết vào lời bài hát của "Còn có cách nào khác không?", viết vào dòng kể chuyện của mỗi lần phỏng vấn. Cô đã biến sự sụp đổ của mình thành một tác phẩm, rồi dùng tác phẩm quay lại chăm sóc những người khác cũng đang sụp đổ. Đây là sự lựa chọn của cô — chúng tôi trích dẫn phiên bản của chính cô, không thêm dầu vào lửa.
+> **📝 Ghi chú của biên tập viên**
+> Taiwan.md khi viết về nhân vật, đặc biệt với các chủ đề như trầm cảm, tự tổn thương sẽ hết sức cẩn trọng—không tái hiện bối cảnh, không tô vẽ chi tiết. Nhưng điểm đặc biệt của Phạm Hiểu Loan là: trải nghiệm này chính là điều cô chọn để viết vào 《Vô trật tự》, viết vào ca từ của 《Còn cách nào khác không》, và kể xuyên suốt trong mỗi cuộc phỏng vấn. Cô đã biến sự sụp đổ của mình thành tác phẩm, rồi dùng tác phẩm đó để chăm sóc những người khác cũng đang suy sụp. Đó là lựa chọn của cô—chúng tôi trích dẫn phiên bản do chính cô cung cấp, không thêm thắt chiêu trò.
 
 ## Bốn người và một công ty tên là "Cá ăn cỏ"
 
