@@ -1,4 +1,5 @@
 ---
+tags: ['徐熙媛', '台湾俳優']
 translatedFrom: People/徐熙媛.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:85fa468fad16ec09'

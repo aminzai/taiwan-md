@@ -40,6 +40,8 @@ session 叫得動。本工具負責把「該改成什麼」算出來印清楚，
 Exit code: 0 = 三層一致；1 = 有漂移；2 = 環境壞掉（SSOT 讀不到）。
 """
 
+from lib.routine_decisions import enforce_decisions
+
 import argparse
 import json
 import os
@@ -129,7 +131,7 @@ def parse_ssot_table():
             continue
         enabled = section != "paused" and "⏸️" not in row and "PAUSED" not in row
         tasks[m.group(1)] = {"cron": cron, "enabled": enabled, "title": cells[1]}
-    return tasks
+    return enforce_decisions(tasks, ROUTINE_SSOT.read_text(encoding="utf-8"))
 
 
 def machine_path(task_id):

@@ -131,7 +131,11 @@ export const ENABLED_LANGUAGE_CODES = LANGUAGES.filter((l) => l.enabled).map(
 
 export const ALL_LANGUAGE_CODES = LANGUAGES.map((l) => l.code);
 
-export const DEFAULT_LANGUAGE = LANGUAGES.find((l) => l.isDefault);
+export const DEFAULT_LANGUAGE = (() => {
+  const language = LANGUAGES.find((l) => l.isDefault);
+  if (!language) throw new Error('Language registry requires a default');
+  return language;
+})();
 
 export const LANGUAGE_DISPLAY_NAMES = Object.fromEntries(
   LANGUAGES.map((l) => [l.code, l.displayName]),

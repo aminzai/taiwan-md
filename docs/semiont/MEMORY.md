@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-07 | 061621-twmd-data-refresh-am | 14 步全綠零 stale 第七天；scheduler rider 18 條任務（14 enabled/4 disabled）反映 babel-nightly 重開機 | 連續多日全綠的 gate 該反向檢查覆蓋範圍，不是只慶祝穩態 | [→](memory/2026-09-07-061621-twmd-data-refresh-am.md) |
 | 2026-09-07 | 070848-twmd-feedback-triage | 零新回報但照樣跑完 --commit，收進 issue #1440／#1678 兩則維護者回覆；對賬 84/84 與 83/84 全綠 | 佇列空的一輪，價值全部來自保管職責，跳過就漏掉已發生的對話 | [→](memory/2026-09-07-070848-twmd-feedback-triage.md) |
 | 2026-09-07 | 091142-twmd-maintainer-am | 3 篇翻譯 merged；追上游揪出 translatePath 讓 12 語的企業/資源頁發出 ~104 條死連結（-144 條）；作者欄九種寫法收斂 | 比例綠燈時，同一個數字在七個語言各出現十一次才是訊號 | [→](memory/2026-09-07-091142-twmd-maintainer-am.md) |
+| 2026-09-07 | 164559-audit-upgrade | 八組缺陷修復、Astro 7 升級、型別清零與 56 枚共用圖示；MCP 已部署，資料庫待登入 | 測試通過與正式完成分開記，避免綠燈超出證據 | [→](memory/2026-09-07-164559-audit-upgrade.md) |

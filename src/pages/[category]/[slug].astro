@@ -68,7 +68,7 @@ export async function getStaticPaths() {
       return matter(fileContent);
     } catch {
       const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
-      return { data: {}, content: stripped };
+      return { data: {} as Record<string, unknown>, content: stripped };
     }
   };
 
@@ -175,7 +175,11 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const props = Astro.props as Record<string, any>;
+type Props = Omit<
+  import('astro/types').ComponentProps<typeof ArticleTemplate>,
+  'category' | 'slug'
+> & { aliasTo?: string };
+const props = Astro.props;
 const { category, slug } = Astro.params;
 
 // 別名頁：0 秒轉址殼。刻意不用 Astro 內建的 `redirects` 設定——它產出的是

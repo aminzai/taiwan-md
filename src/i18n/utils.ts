@@ -41,16 +41,21 @@ const FALLBACK_CHAIN: Record<string, readonly Lang[]> = {
   'zh-TW': ['zh-TW'] as Lang[],
 };
 
+export type TranslationKey = {
+  [L in keyof typeof ui]: keyof (typeof ui)[L];
+}[keyof typeof ui];
+const dictionaries: Record<Lang, Partial<Record<TranslationKey, string>>> = ui;
+
 export function useTranslations(lang: Lang) {
   const chain = FALLBACK_CHAIN[lang] || [lang, defaultLang];
-  return function t(key: keyof (typeof ui)[typeof defaultLang]) {
+  return function t(key: TranslationKey) {
     for (const code of chain) {
-      const value = (ui as any)[code]?.[key];
+      const value = dictionaries[code]?.[key];
       if (value !== undefined && value !== null && value !== '') {
         return value;
       }
     }
-    return (ui as any)[defaultLang]?.[key] ?? String(key);
+    return dictionaries[defaultLang]?.[key] ?? String(key);
   };
 }
 

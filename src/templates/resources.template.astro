@@ -493,7 +493,7 @@ const mindmapData = JSON.stringify({
             {chapter.subcategories.map((sub) => (
               <div class="subcategory">
                 <h3 class="subcategory-title">{t(sub.titleKey)}</h3>
-                {sub.descKey && (
+                {'descKey' in sub && sub.descKey && (
                   <p class="subcategory-desc">{t(sub.descKey as any)}</p>
                 )}
                 <div class="site-grid">

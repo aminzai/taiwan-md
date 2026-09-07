@@ -1,56 +1,6 @@
 ---
-/**
- * FoodViz.astro — 台灣美食宇宙視覺化（sunburst 風味輪 + force-directed 關係圖）
- *
- * 2026-07-11 從 category-hub.template.astro 抽出。原本整份 markup + CSS +
- * ~594 行 script 直接寫死在共用 hub template 裡，隨 78 個 hub 頁面（13
- * 類別 × 6 語言）一起出貨，但這個視覺化只有 category === 'food' &&
- * lang === 'zh-TW' 那一頁用得到。抽成獨立元件、模板端改成
- * `{category === 'food' && lang === 'zh-TW' && <FoodViz />}` 條件 render
- * 後，其餘 77 個 hub 頁面不再夾帶這批 markup/CSS/script。
- *
- * BUG FIX（本次順手修）：script 呼叫 d3.* API，但 d3 從未在任何 hub 頁面
- * 被載入過——sunburst / network 容器其實一直是空的，第一個
- * `d3.select(...)` 呼叫就會丟 ReferenceError（被 DOMContentLoaded
- * callback 吞掉，畫面上只是靜靜地留白）。這裡補上 d3 loader script tag，
- * 跟 dashboard.template.astro 載入 d3 的手法一致：is:inline + defer 從
- * jsdelivr CDN 掛到 window.d3。
- *
- * defer 與 DOMContentLoaded 的順序保證：下面的 food script 整段包在
- * `document.addEventListener('DOMContentLoaded', () => { ... })` 裡——
- * HTML parser 解析到這個 <script> 時會同步執行、註冊 listener，但
- * callback 本體要等 DOMContentLoaded 事件才真正跑。依 HTML 規範，defer
- * script 保證在 DOMContentLoaded 觸發之前執行完畢，不管 <script defer>
- * 標籤實際寫在文件的哪個位置。所以 window.d3 在這個 callback 執行的當下
- * 一定已經就緒，不需要額外的 readiness polling（有考慮過加一個
- * setTimeout 輪詢 window.d3 當保險，但入口已經是 DOMContentLoaded-gated
- * 了，再加只是多餘防禦，所以沒加——script 內容維持 verbatim）。
- *
- * CSS scoping 選擇：<style is:global>，理由——
- * 1. .viz-legend 底下的 .legend-item / .legend-color 是 createLegend()
- *    用 document.createElement 在 runtime 生出來的；sunburst / network
- *    內部的 svg/g/path/text/circle 也全是 d3 append 出來的。Astro 的
- *    scoped <style> 靠編譯時幫模板裡「靜態寫出來」的元素加
- *    data-astro-cid-* 屬性做選擇器比對，runtime 才 createElement 出來的
- *    節點永遠拿不到這個屬性——scoped 版本這些規則會直接比對不到、悄悄
- *    失效（食物視覺化本來就整組沒在動，這個 gap 之前沒人注意到）。
- * 2. 跟 src/components/ArticleCard.astro 同一個理由（該檔案也因為
- *    client-side 動態組裝內容用 is:global，見該檔案開頭註解）——沿用
- *    本專案既有慣例，而非另創新模式。
- * 3. Collision 檢查：對整個 src/ grep 過 food-viz / viz-tab /
- *    viz-container / viz-legend / legend-item / legend-color 這幾個
- *    class 名稱，除了本檔以外只有 dashboard.css 的
- *    `.translation-legend .legend-item`（兩層 class、specificity 更高，
- *    且只在 /dashboard/ 頁面被引用——Astro 的元件 CSS 只在該元件實際
- *    render 到的頁面才會被收進那一頁的 bundle，/food/ 跟 /dashboard/
- *    是完全不同的元件樹，不會同時出現在同一頁），實務上沒有真的衝突。
- *    沒有額外包一層 `.food-viz` ancestor scope：CSS 內容本來就是
- *    verbatim 搬過來，加 ancestor 等於改寫每條規則的 selector
- *    （.food-viz-inner 會變成 .food-viz .food-viz-inner 之類），非必要
- *    地偏離「verbatim 搬移」的要求，is:global 已經足夠安全。
- *
- * 資料（foodData / networkData，zh-only 手工整理）維持原樣，不做任何
- * 翻譯或修改。
+/** Food visualization, rendered only on the Chinese food hub.
+ * D3 is bundled locally; global styles cover nodes created by D3 at runtime.
  */
 ---
 
@@ -68,25 +18,36 @@
   </div>
 </section>
 
-<!-- d3 for the sunburst + force-directed network below. is:inline keeps
-     Astro from bundling/processing it; defer means it finishes executing
-     before DOMContentLoaded fires (see frontmatter comment above), so the
-     DOMContentLoaded-gated script below always sees window.d3 ready. Same
-     CDN source + version + loading pattern as dashboard.template.astro. -->
-<script
-  is:inline
-  defer
-  src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
-
 <!-- Food Visualization Script -->
 <script>
+  import * as d3 from 'd3';
+  interface FoodNode {
+    name: string;
+    children?: FoodNode[];
+    url?: string;
+    desc?: string;
+    value?: number;
+  }
+  interface NetworkNode extends d3.SimulationNodeDatum {
+    id: string;
+    group: string;
+    url?: string;
+    desc?: string;
+  }
+  interface NetworkLink extends d3.SimulationLinkDatum<NetworkNode> {
+    strength: number;
+  }
+  const nodeId = (node: string | number | NetworkNode) =>
+    typeof node === 'object' ? node.id : String(node);
+  const point = (node: string | number | NetworkNode, axis: 'x' | 'y') =>
+    typeof node === 'object' ? (node[axis] ?? 0) : 0;
   document.addEventListener('DOMContentLoaded', () => {
     // 只有 food 分類才執行
     const currentCategory = window.location.pathname.split('/')[1];
     if (currentCategory !== 'food') return;
 
     // 食物數據
-    const foodData = {
+    const foodData: FoodNode = {
       name: '台灣味',
       children: [
         {
@@ -320,7 +281,7 @@
     };
 
     // 配色
-    const groupColors = {
+    const groupColors: Record<string, string> = {
       主食: '#E85D3A',
       飲品: '#8B6F47',
       甜點冰品: '#E89B3A',
@@ -330,16 +291,16 @@
     };
 
     // Tab 切換功能
-    document.querySelectorAll('.viz-tab').forEach((tab) => {
+    document.querySelectorAll<HTMLButtonElement>('.viz-tab').forEach((tab) => {
       tab.addEventListener('click', () => {
         document
           .querySelectorAll('.viz-tab')
           .forEach((t) => t.classList.remove('active'));
         tab.classList.add('active');
         const viz = tab.dataset.viz;
-        document.getElementById('sunburstViz').style.display =
+        document.getElementById('sunburstViz')!.style.display =
           viz === 'sunburst' ? 'block' : 'none';
-        document.getElementById('networkViz').style.display =
+        document.getElementById('networkViz')!.style.display =
           viz === 'network' ? 'block' : 'none';
 
         // 重新渲染當前視圖
@@ -354,6 +315,7 @@
     // 創建圖例
     function createLegend() {
       const legend = document.getElementById('vizLegend');
+      if (!legend) return;
       legend.innerHTML = '';
 
       Object.entries(groupColors).forEach(([group, color]) => {
@@ -370,6 +332,7 @@
     // 渲染 Sunburst Chart
     function renderSunburst() {
       const container = document.getElementById('sunburstViz');
+      if (!container) return;
       container.innerHTML = '';
 
       const width = 600;
@@ -389,18 +352,18 @@
         .attr('transform', `translate(${width / 2}, ${height / 2})`);
 
       // 準備數據
-      const root = d3
+      const hierarchy = d3
         .hierarchy(foodData)
         .sum((d) => (d.children ? 0 : 1))
-        .sort((a, b) => b.value - a.value);
+        .sort((a, b) => (b.value ?? 0) - (a.value ?? 0));
 
       // 分區布局
-      const partition = d3.partition().size([2 * Math.PI, radius]);
-      partition(root);
+      const partition = d3.partition<FoodNode>().size([2 * Math.PI, radius]);
+      const root = partition(hierarchy);
 
       // 弧生成器
       const arc = d3
-        .arc()
+        .arc<d3.HierarchyRectangularNode<FoodNode>>()
         .startAngle((d) => d.x0)
         .endAngle((d) => d.x1)
         .innerRadius((d) => Math.max(0, d.y0))
@@ -450,8 +413,8 @@
             return groupColors[d.data.name] || '#94a3b8';
           } else {
             const parent = d.parent;
-            const color = groupColors[parent.data.name] || '#94a3b8';
-            return d3.color(color).brighter(0.3);
+            const color = groupColors[parent?.data.name ?? ''] || '#94a3b8';
+            return d3.color(color)?.brighter(0.3).formatHex() ?? color;
           }
         })
         .attr('stroke', '#fff')
@@ -489,7 +452,7 @@
       // 添加文字標籤（僅第一層）
       const text = g
         .selectAll('text.category-label')
-        .data(root.children)
+        .data(root.children ?? [])
         .enter()
         .append('text')
         .attr('class', 'category-label')
@@ -512,6 +475,7 @@
     // 渲染 Force-Directed Graph
     function renderNetwork() {
       const container = document.getElementById('networkViz');
+      if (!container) return;
       container.innerHTML = '';
 
       const width = 800;
@@ -526,7 +490,7 @@
 
       // 支援縮放和拖移
       const zoom = d3
-        .zoom()
+        .zoom<SVGSVGElement, unknown>()
         .scaleExtent([0.5, 3])
         .on('zoom', function (event) {
           g.attr('transform', event.transform);
@@ -537,8 +501,8 @@
       const g = svg.append('g');
 
       // 準備數據
-      const nodes = networkData.nodes.map((d) => ({ ...d }));
-      const links = networkData.links.map((d) => ({ ...d }));
+      const nodes: NetworkNode[] = networkData.nodes.map((d) => ({ ...d }));
+      const links: NetworkLink[] = networkData.links.map((d) => ({ ...d }));
 
       // 力導向模擬
       const simulation = d3
@@ -546,7 +510,7 @@
         .force(
           'link',
           d3
-            .forceLink(links)
+            .forceLink<NetworkNode, NetworkLink>(links)
             .id((d) => d.id)
             .distance((d) => 80 / d.strength),
         )
@@ -567,12 +531,12 @@
       // 繪製節點
       const node = g
         .append('g')
-        .selectAll('circle')
+        .selectAll<SVGCircleElement, NetworkNode>('circle')
         .data(nodes)
         .join('circle')
         .attr('r', (d) => {
           const degree = links.filter(
-            (l) => l.source.id === d.id || l.target.id === d.id,
+            (l) => nodeId(l.source) === d.id || nodeId(l.target) === d.id,
           ).length;
           return Math.max(8, Math.sqrt(degree) * 4);
         })
@@ -597,26 +561,32 @@
         .style('pointer-events', 'none');
 
       // 拖拽功能
-      function drag(simulation) {
-        function dragstarted(event) {
+      function drag(simulation: d3.Simulation<NetworkNode, NetworkLink>) {
+        function dragstarted(
+          event: d3.D3DragEvent<SVGCircleElement, NetworkNode, NetworkNode>,
+        ) {
           if (!event.active) simulation.alphaTarget(0.3).restart();
           event.subject.fx = event.subject.x;
           event.subject.fy = event.subject.y;
         }
 
-        function dragged(event) {
+        function dragged(
+          event: d3.D3DragEvent<SVGCircleElement, NetworkNode, NetworkNode>,
+        ) {
           event.subject.fx = event.x;
           event.subject.fy = event.y;
         }
 
-        function dragended(event) {
+        function dragended(
+          event: d3.D3DragEvent<SVGCircleElement, NetworkNode, NetworkNode>,
+        ) {
           if (!event.active) simulation.alphaTarget(0);
           event.subject.fx = null;
           event.subject.fy = null;
         }
 
         return d3
-          .drag()
+          .drag<SVGCircleElement, NetworkNode>()
           .on('start', dragstarted)
           .on('drag', dragged)
           .on('end', dragended);
@@ -628,18 +598,18 @@
           // 高亮相關節點和連線
           const connectedNodes = new Set([d.id]);
           const connectedLinks = links.filter(
-            (l) => l.source.id === d.id || l.target.id === d.id,
+            (l) => nodeId(l.source) === d.id || nodeId(l.target) === d.id,
           );
 
           connectedLinks.forEach((l) => {
-            connectedNodes.add(l.source.id);
-            connectedNodes.add(l.target.id);
+            connectedNodes.add(nodeId(l.source));
+            connectedNodes.add(nodeId(l.target));
           });
 
           // 淡化其他元素
           node.style('opacity', (n) => (connectedNodes.has(n.id) ? 1 : 0.1));
           link.style('opacity', (l) =>
-            l.source.id === d.id || l.target.id === d.id ? 0.8 : 0.05,
+            nodeId(l.source) === d.id || nodeId(l.target) === d.id ? 0.8 : 0.05,
           );
           label.style('opacity', (n) => (connectedNodes.has(n.id) ? 1 : 0.2));
         })
@@ -658,14 +628,14 @@
       // 更新位置
       simulation.on('tick', () => {
         link
-          .attr('x1', (d) => d.source.x)
-          .attr('y1', (d) => d.source.y)
-          .attr('x2', (d) => d.target.x)
-          .attr('y2', (d) => d.target.y);
+          .attr('x1', (d) => point(d.source, 'x'))
+          .attr('y1', (d) => point(d.source, 'y'))
+          .attr('x2', (d) => point(d.target, 'x'))
+          .attr('y2', (d) => point(d.target, 'y'));
 
-        node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
+        node.attr('cx', (d) => d.x ?? 0).attr('cy', (d) => d.y ?? 0);
 
-        label.attr('x', (d) => d.x).attr('y', (d) => d.y);
+        label.attr('x', (d) => d.x ?? 0).attr('y', (d) => d.y ?? 0);
       });
     }
 

@@ -1,7 +1,195 @@
 {
-  "generatedAt": "2026-09-06T22:13:29.650Z",
+  "generatedAt": "2026-09-07T09:55:26.012Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "42578f6f2968d225fb9cddd81538f7dd3cc875f2",
+      "date": "2026-09-07T17:54:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 補齊動態介面圖示與翻譯 CI 無損選檔",
+      "articles": []
+    },
+    {
+      "hash": "b67b190fb26c9a14b65f7dd34367f1cda1abf538",
+      "date": "2026-09-07T17:52:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: 升級工程契約並導入 Island Lines 專用圖示",
+      "articles": [
+        {
+          "url": "/culture/無名小站",
+          "name": "無名小站"
+        },
+        {
+          "url": "/geography/用數據看台灣22縣市",
+          "name": "用數據看台灣22縣市"
+        },
+        {
+          "url": "/music/當代原住民創作歌手",
+          "name": "當代原住民創作歌手"
+        },
+        {
+          "url": "/people/尊",
+          "name": "尊"
+        }
+      ]
+    },
+    {
+      "hash": "c8fde9496a8d9d1cb506f8c044c5653af3b3d2ad",
+      "date": "2026-09-07T17:45:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 修復 MCP 快取與錯誤契約並部署正式服務",
+      "articles": []
+    },
+    {
+      "hash": "1524df5343bf4fa5534a57c47fee5e92a58e2ca5",
+      "date": "2026-09-07T17:28:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] docs: 定義 Island Lines 圖示與零型別債驗收",
+      "articles": []
+    },
+    {
+      "hash": "b20e4a9a140cccf0bffe7b3d19256c3f932a7c79",
+      "date": "2026-09-07T16:47:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] docs: 記錄深度檢查證據與完整修復驗收計畫",
+      "articles": []
+    },
+    {
+      "hash": "3eed2bfdbbbe419b48466461761a94f233c5db2a",
+      "date": "2026-09-07T09:13:19+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-07 09:11 — 同一個數字在七個語言各出現十一次",
+      "articles": []
+    },
+    {
+      "hash": "5752d71cb52e68e84288f2b4f6a7adec7e852a25",
+      "date": "2026-09-07T09:11:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] lessons: 格式化器改壞它自己要格式化的網址，以及設定檔存中文網址被十二個語言各自加前綴",
+      "articles": []
+    },
+    {
+      "hash": "63c8faf1a3b1c8f727878659f7ccd59ae4ca1b3b",
+      "date": "2026-09-07T09:09:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] chore: 翻譯登記表補上今天 merge 的三篇",
+      "articles": []
+    },
+    {
+      "hash": "ce80e600adf328b1deb9bee8b9a8039f5c0ba09d",
+      "date": "2026-09-07T09:03:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] fix: 十二個語言的企業頁與資源頁，把讀者送到中文標題組成的網址",
+      "articles": []
+    },
+    {
+      "hash": "9094012f4c3080ffc89c15a2e9ba1d0f72b51782",
+      "date": "2026-09-07T09:02:54+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] heal: 十一篇文章的作者欄各有各的寫法，收斂成正典的兩個值",
+      "articles": [
+        {
+          "url": "/art/FAB DAO與百岳計畫",
+          "name": "FAB DAO與百岳計畫"
+        },
+        {
+          "url": "/food/台灣新住民美食融合",
+          "name": "台灣新住民美食融合"
+        },
+        {
+          "url": "/food/台灣米其林與精緻餐飲",
+          "name": "台灣米其林與精緻餐飲"
+        },
+        {
+          "url": "/food/台灣麵食文化",
+          "name": "台灣麵食文化"
+        }
+      ]
+    },
+    {
+      "hash": "a2f557d8909657be1c350f052ccce5df92a76ea9",
+      "date": "2026-09-07T08:43:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1681 from aminzai/translate/hi-taiwan-hakka-music-from-mountain-songs-to-rock",
+      "articles": []
+    },
+    {
+      "hash": "df0dbebb0c62d4987ae6828f506d4bb8cf1abffa",
+      "date": "2026-09-07T08:43:41+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1680 from aminzai/translate/id-long-term-care-system-development",
+      "articles": []
+    },
+    {
+      "hash": "ed5acf04ecc24a9272325851a33131a20b605180",
+      "date": "2026-09-07T08:43:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1679 from aminzai/translate/de-milkfish-congee",
+      "articles": []
+    },
+    {
+      "hash": "640c2c9a3c8a822619a86b5c6635655880cd5ac1",
+      "date": "2026-09-07T07:18:14+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 台灣客家音樂 → taiwan-hakka-music-from-mountain-songs-to-rock",
+      "articles": []
+    },
+    {
+      "hash": "1f242fab455961fbbbc4e6bdab17f6c287f4d56a",
+      "date": "2026-09-07T07:17:48+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 台灣長期照顧制度發展 → long-term-care-system-development",
+      "articles": []
+    },
+    {
+      "hash": "cbed3d5767a0441bcde85c89148c58c634d5b53c",
+      "date": "2026-09-07T07:17:20+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 虱目魚粥 → milkfish-congee",
+      "articles": []
+    },
+    {
+      "hash": "c81060e6e1d481951c31c5ce200f30819df6b6e4",
+      "date": "2026-09-07T07:11:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] diary: twmd-feedback-triage @ 2026-09-07 — 守規矩的人多數時候拿不到收據",
+      "articles": []
+    },
+    {
+      "hash": "d77e854fc938d06ec8ef36d124f92d6f6e2aa0a6",
+      "date": "2026-09-07T07:10:20+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-09-07 07:08 — 零新回報，價值全在保管那半",
+      "articles": []
+    },
+    {
+      "hash": "6a65771da43f2237f355902f46849d13b69d226e",
+      "date": "2026-09-07T07:09:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-feedback-triage: 佇列空的一輪，維護者昨天的兩則回覆收進 git",
+      "articles": []
+    },
+    {
+      "hash": "fff56b68c63e4965fe8e048aaeec7272960480af",
+      "date": "2026-09-07T06:17:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-07 06:16 — 14 步全綠零 stale 第七天",
+      "articles": []
+    },
+    {
+      "hash": "806661202a5cf3fb8d2d45e840f3e9fdaa742777",
+      "date": "2026-09-07T06:15:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] scheduler live-state dump — twmd-data-refresh-am rider",
+      "articles": []
+    },
+    {
+      "hash": "74be062d0cedbde4d8d47ead1ef7fd56dd1b07a8",
+      "date": "2026-09-07T06:15:22+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] refresh: 每日資料刷新，14 步全綠零 stale",
+      "articles": []
+    },
     {
       "hash": "1b84792132e54053df99fdee6ed572de90854eb9",
       "date": "2026-09-07T05:40:56+08:00",
@@ -1652,7 +1840,7 @@
     },
     {
       "hash": "38b7284eddb254b15c29f0fe12bb18b8cb4c48e2",
-      "date": "2026-09-01T02:02:45+00:00",
+      "date": "2026-09-01T02:02:45Z",
       "author": "dreamline2",
       "message": "docs(people): standardize Morris Chang footnotes across zh and i18n",
       "articles": [
@@ -80565,7 +80753,7 @@
     },
     {
       "hash": "ff848517a8503c8c529335b2b41c10ebafcdaf15",
-      "date": "2026-03-22T09:10:19+00:00",
+      "date": "2026-03-22T09:10:19Z",
       "author": "Claude",
       "message": "chore: remove pnpm-lock.yaml, bun.lock, and packageManager field",
       "articles": []
@@ -84730,317 +84918,6 @@
           "name": "台灣軟體產業發展"
         }
       ]
-    },
-    {
-      "hash": "5cf444e4ee7d65f3ad3759bfbc4f99063dcebacb",
-      "date": "2026-03-19T10:34:53+08:00",
-      "author": "Fred Chu",
-      "message": "fix: replace 22 dead/broken reference URLs across 13 articles (#39)",
-      "articles": [
-        {
-          "url": "/economy/經濟奇蹟",
-          "name": "經濟奇蹟"
-        },
-        {
-          "url": "/history/台海危機與兩岸關係發展",
-          "name": "台海危機與兩岸關係發展"
-        },
-        {
-          "url": "/history/戒嚴時期",
-          "name": "戒嚴時期"
-        },
-        {
-          "url": "/history/清治時期",
-          "name": "清治時期"
-        }
-      ]
-    },
-    {
-      "hash": "257257ccdf4ae1924969f606b21b0c573977001f",
-      "date": "2026-03-19T10:25:34+08:00",
-      "author": "frank890417",
-      "message": "fix: 政治敏感用語修正 — 大陸→中國、mainland China→China",
-      "articles": [
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/economy/台灣國際貿易政策：在全球化浪潮中尋找定位",
-          "name": "台灣國際貿易政策：在全球化浪潮中尋找定位"
-        },
-        {
-          "url": "/economy/台灣外貿與全球供應鏈",
-          "name": "台灣外貿與全球供應鏈"
-        },
-        {
-          "url": "/economy/台灣產業轉型與經濟發展軌跡",
-          "name": "台灣產業轉型與經濟發展軌跡"
-        }
-      ]
-    },
-    {
-      "hash": "532b4f65338e16a48eb867b0a8dd53315d083004",
-      "date": "2026-03-19T09:04:44+08:00",
-      "author": "frank890417",
-      "message": "feat(about): 新增「為什麼台灣需要自己的知識庫」— 回應開源疑慮，論述 SSOT 與資訊主權",
-      "articles": [
-        {
-          "url": "/about/為什麼台灣需要自己的知識庫",
-          "name": "為什麼台灣需要自己的知識庫"
-        }
-      ]
-    },
-    {
-      "hash": "11fb49147a1286a0f816f2e11c9f0abeea514718",
-      "date": "2026-03-19T08:50:11+08:00",
-      "author": "frank890417",
-      "message": "content: Taiwan.md 內容衝刺 #25 — 新增 6 篇高品質專業文章",
-      "articles": [
-        {
-          "url": "/economy/台灣國際貿易政策：在全球化浪潮中尋找定位",
-          "name": "台灣國際貿易政策：在全球化浪潮中尋找定位"
-        },
-        {
-          "url": "/economy/台灣產業轉型升級：從製造大國到創新強國",
-          "name": "台灣產業轉型升級：從製造大國到創新強國"
-        },
-        {
-          "url": "/history/二二八事件與白色恐怖：台灣威權統治下的創傷與記憶",
-          "name": "二二八事件與白色恐怖：台灣威權統治下的創傷與記憶"
-        },
-        {
-          "url": "/history/台灣經濟奇蹟：從農業社會到亞洲四小龍",
-          "name": "台灣經濟奇蹟：從農業社會到亞洲四小龍"
-        }
-      ]
-    },
-    {
-      "hash": "571d899adbd126cfa78404b3f8f7f711aa7827a9",
-      "date": "2026-03-19T01:29:11+01:00",
-      "author": "David",
-      "message": "fix: EN category pages use English titles/descriptions (#38)",
-      "articles": []
-    },
-    {
-      "hash": "88e763b1dcef7511b3de791ef2cb0ec62230b20b",
-      "date": "2026-03-19T01:29:08+01:00",
-      "author": "David",
-      "message": "fix: EN hero text-wrap balance (#37)",
-      "articles": []
-    },
-    {
-      "hash": "8e58e5b10e3f67b111c2cff1d64372958f959805",
-      "date": "2026-03-19T08:29:06+08:00",
-      "author": "So͘ Bîn-hiân",
-      "message": "feat(society): 新增「自助餐阿姨的謎之目測精算能力」(#34)",
-      "articles": [
-        {
-          "url": "/society/自助餐阿姨的謎之目測精算能力",
-          "name": "自助餐阿姨的謎之目測精算能力"
-        }
-      ]
-    },
-    {
-      "hash": "d6e8aab924cbf0264edf1d1504184c9de2223542",
-      "date": "2026-03-19T07:49:16+08:00",
-      "author": "frank890417",
-      "message": "content: Taiwan.md 內容衝刺 #24 - 新增 6 篇專業深度文章",
-      "articles": [
-        {
-          "url": "/culture/台灣文化創意園區發展",
-          "name": "台灣文化創意園區發展"
-        },
-        {
-          "url": "/culture/台灣老街文化與商業街區",
-          "name": "台灣老街文化與商業街區"
-        },
-        {
-          "url": "/society/台灣志工文化與公益參與",
-          "name": "台灣志工文化與公益參與"
-        },
-        {
-          "url": "/society/台灣長期照顧制度發展",
-          "name": "台灣長期照顧制度發展"
-        }
-      ]
-    },
-    {
-      "hash": "ec7983cbe13a067b7996cdb32cc11f476856c0f3",
-      "date": "2026-03-19T06:53:13+08:00",
-      "author": "frank890417",
-      "message": "content: Taiwan.md 內容衝刺 #23 — Art/Technology/Geography 6篇新增",
-      "articles": [
-        {
-          "url": "/art/台灣策展人與藝術文化建構",
-          "name": "台灣策展人與藝術文化建構"
-        },
-        {
-          "url": "/art/台灣藝術教育與學院發展",
-          "name": "台灣藝術教育與學院發展"
-        },
-        {
-          "url": "/geography/台灣國家風景區系統",
-          "name": "台灣國家風景區系統"
-        },
-        {
-          "url": "/geography/台灣海岸地形與海洋地景",
-          "name": "台灣海岸地形與海洋地景"
-        }
-      ]
-    },
-    {
-      "hash": "ea394f5d0948fe55ef39ab88fce6713db393824c",
-      "date": "2026-03-19T05:46:49+08:00",
-      "author": "frank890417",
-      "message": "content: Taiwan.md 內容衝刺 — Economy產業轉型 + People賴清德 + Technology AI發展",
-      "articles": [
-        {
-          "url": "/economy/產業轉型",
-          "name": "產業轉型"
-        },
-        {
-          "url": "/people/賴清德",
-          "name": "賴清德"
-        },
-        {
-          "url": "/technology/AI發展",
-          "name": "AI發展"
-        }
-      ]
-    },
-    {
-      "hash": "fe7fc4b14f5fb08e0c9bf0b06899cf0bb8888ce3",
-      "date": "2026-03-19T04:46:18+08:00",
-      "author": "frank890417",
-      "message": "content: auto-sprint — 新增3篇深度專業文章",
-      "articles": [
-        {
-          "url": "/economy/台灣產業轉型與經濟發展軌跡",
-          "name": "台灣產業轉型與經濟發展軌跡"
-        },
-        {
-          "url": "/people/賴清德",
-          "name": "賴清德"
-        },
-        {
-          "url": "/technology/台灣人工智慧發展與未來策略",
-          "name": "台灣人工智慧發展與未來策略"
-        }
-      ]
-    },
-    {
-      "hash": "301faede963d9b3fda38dc8a3d10d8342cc591e4",
-      "date": "2026-03-19T03:46:51+08:00",
-      "author": "frank890417",
-      "message": "content: Taiwan.md 內容衝刺 — 產業轉型軌跡、賴清德人物、AI 發展策略",
-      "articles": [
-        {
-          "url": "/economy/產業轉型與經濟發展軌跡",
-          "name": "產業轉型與經濟發展軌跡"
-        },
-        {
-          "url": "/people/賴清德",
-          "name": "賴清德"
-        },
-        {
-          "url": "/technology/台灣人工智慧發展與未來策略",
-          "name": "台灣人工智慧發展與未來策略"
-        }
-      ]
-    },
-    {
-      "hash": "f7016ed37e03cfc563a7c50213de39eaf4f686d2",
-      "date": "2026-03-19T02:45:58+08:00",
-      "author": "frank890417",
-      "message": "content: auto-sprint — 新增 3 篇深度文章",
-      "articles": [
-        {
-          "url": "/culture/黃金時代的餘韻：台灣茶文化的流變與工藝",
-          "name": "黃金時代的餘韻：台灣茶文化的流變與工藝"
-        },
-        {
-          "url": "/music/黃金旋律的傳承：台灣流行音樂的歷史與文化地位",
-          "name": "黃金旋律的傳承：台灣流行音樂的歷史與文化地位"
-        },
-        {
-          "url": "/nature/島嶼的山海之巔：台灣國家公園的生態與地景",
-          "name": "島嶼的山海之巔：台灣國家公園的生態與地景"
-        }
-      ]
-    },
-    {
-      "hash": "f3542cab46fa72ec98e1eaafb7350752812afcda",
-      "date": "2026-03-19T01:47:25+08:00",
-      "author": "frank890417",
-      "message": "content: auto-sprint — [國家公園, 茶文化, 流行音樂史]",
-      "articles": []
-    },
-    {
-      "hash": "6c036eab6f65f9c180e53104ea9b6df05b18b8bc",
-      "date": "2026-03-19T00:24:47+08:00",
-      "author": "luofreddy",
-      "message": "fix: 修正導航列 active 判斷 (#33)",
-      "articles": []
-    },
-    {
-      "hash": "b7358f7c18680ba2732f11ba6f53ddf0b8e0d63c",
-      "date": "2026-03-19T00:20:57+08:00",
-      "author": "frank890417",
-      "message": "fix(society): move 早餐店阿姨與社區情報網 to knowledge/",
-      "articles": [
-        {
-          "url": "/society/早餐店阿姨與社區情報網",
-          "name": "早餐店阿姨與社區情報網"
-        }
-      ]
-    },
-    {
-      "hash": "f0541e920e086549fafc211881f588b73963e224",
-      "date": "2026-03-19T00:15:35+08:00",
-      "author": "So͘ Bîn-hiân",
-      "message": "feat(society): 新增「早餐店阿姨與社區情報網」(#31)",
-      "articles": []
-    },
-    {
-      "hash": "bce97b02f2316839702bfd0a44685805ff6aab82",
-      "date": "2026-03-19T00:09:28+08:00",
-      "author": "frank890417",
-      "message": "feat(nature): 新增「臺灣的鯨豚」— from email contribution by 海女",
-      "articles": [
-        {
-          "url": "/nature/臺灣的鯨豚",
-          "name": "臺灣的鯨豚"
-        }
-      ]
-    },
-    {
-      "hash": "14a7f3f21beb6942ae4087d70689b44d23fc1bb8",
-      "date": "2026-03-18T23:53:42+08:00",
-      "author": "frank890417",
-      "message": "content: auto-sprint — Nature(Wetlands), Technology(Cybersecurity), Music(Opera)",
-      "articles": []
-    },
-    {
-      "hash": "b0fc64f9e670bcd6a300d288eed4f6db638e1d6b",
-      "date": "2026-03-18T23:30:27+08:00",
-      "author": "frank890417",
-      "message": "docs: update contributors — bugnimusic +🌍 translation, hansai-art +💻🔍 search & UI",
-      "articles": []
-    },
-    {
-      "hash": "1b049af18e224319dd4ad3760c042126b14bf14d",
-      "date": "2026-03-18T23:27:36+08:00",
-      "author": "Bugn!i!",
-      "message": "translate(society): Stray Animal Culture in Taiwan (#30)",
-      "articles": []
-    },
-    {
-      "hash": "7035c55d513cb0284ee6be68fb3f94dc524af06e",
-      "date": "2026-03-18T23:15:33+08:00",
-      "author": "Hans",
-      "message": "feat: 下一步引導、手機體驗優化、SEO 強化",
-      "articles": []
     }
   ]
 }

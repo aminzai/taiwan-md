@@ -1,0 +1,182 @@
+
+> taiwan-md@1.4.0 test
+> npm run test:markdown && npm run test:heading-id && node scripts/core/test-frontmatter.mjs
+
+
+> taiwan-md@1.4.0 test:markdown
+> node --test tests/markdown-cjk.test.mjs
+
+TAP version 13
+# Subtest: CJK 句末標點後的收尾 ** 會收成 <strong>
+ok 1 - CJK 句末標點後的收尾 ** 會收成 <strong>
+  ---
+  duration_ms: 6.357208
+  type: 'test'
+  ...
+# Subtest: CJK 括號緊貼的起始 ** 也會收成 <strong>
+ok 2 - CJK 括號緊貼的起始 ** 也會收成 <strong>
+  ---
+  duration_ms: 0.316584
+  type: 'test'
+  ...
+# Subtest: 未套設定的 marked 仍會漏出字面 **（證明修正來自設定，不是巧合）
+ok 3 - 未套設定的 marked 仍會漏出字面 **（證明修正來自設定，不是巧合）
+  ---
+  duration_ms: 3.274792
+  type: 'test'
+  ...
+# Subtest: GFM 刪除線在 CJK 邊界仍成立
+ok 4 - GFM 刪除線在 CJK 邊界仍成立
+  ---
+  duration_ms: 3.087167
+  type: 'test'
+  ...
+# Subtest: 刻意轉義的星號維持字面（如審查過的書名／粗話）
+ok 5 - 刻意轉義的星號維持字面（如審查過的書名／粗話）
+  ---
+  duration_ms: 0.22825
+  type: 'test'
+  ...
+# Subtest: 不污染 marked 全域單例（設定只活在本站實例裡）
+ok 6 - 不污染 marked 全域單例（設定只活在本站實例裡）
+  ---
+  duration_ms: 0.071958
+  type: 'test'
+  ...
+# Subtest: 標題走 tokens 解析，不把 ** 印進 <h2>，且 id 仍由原文計算
+ok 7 - 標題走 tokens 解析，不把 ** 印進 <h2>，且 id 仍由原文計算
+  ---
+  duration_ms: 0.543958
+  type: 'test'
+  ...
+# Subtest: 非 CJK 輸入行為不變
+ok 8 - 非 CJK 輸入行為不變
+  ---
+  duration_ms: 1.165167
+  type: 'test'
+  ...
+1..8
+# tests 8
+# suites 0
+# pass 8
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 62.858125
+
+> taiwan-md@1.4.0 test:heading-id
+> node --experimental-strip-types --test tests/article-heading-id.test.mjs
+
+TAP version 13
+# Subtest: 韓文標題：諺文不再被剝成空字串
+ok 1 - 韓文標題：諺文不再被剝成空字串
+  ---
+  duration_ms: 1.690417
+  type: 'test'
+  ...
+# Subtest: 阿拉伯文標題：阿拉伯字母不再被剝成空字串
+ok 2 - 阿拉伯文標題：阿拉伯字母不再被剝成空字串
+  ---
+  duration_ms: 0.105708
+  type: 'test'
+  ...
+# Subtest: 印地文標題：天城文字母（不含連字符號）保留、不退化
+ok 3 - 印地文標題：天城文字母（不含連字符號）保留、不退化
+  ---
+  duration_ms: 0.076625
+  type: 'test'
+  ...
+# Subtest: 印地文帶 matras（母音符號）：字面完整不被剝損（補強 1，2026-09-05）
+ok 4 - 印地文帶 matras（母音符號）：字面完整不被剝損（補強 1，2026-09-05）
+  ---
+  duration_ms: 0.045
+  type: 'test'
+  ...
+# Subtest: 俄文標題：西里爾字母不再被剝成空字串
+ok 5 - 俄文標題：西里爾字母不再被剝成空字串
+  ---
+  duration_ms: 0.054125
+  type: 'test'
+  ...
+# Subtest: 帶重音的西班牙文標題：重音字元保留（舊規則會吃掉變成 las-ltimas）
+ok 6 - 帶重音的西班牙文標題：重音字元保留（舊規則會吃掉變成 las-ltimas）
+  ---
+  duration_ms: 0.25775
+  type: 'test'
+  ...
+# Subtest: 含全形標點的中文標題：標點被過濾、行為與修復前一致（無退步）
+ok 7 - 含全形標點的中文標題：標點被過濾、行為與修復前一致（無退步）
+  ---
+  duration_ms: 0.081125
+  type: 'test'
+  ...
+# Subtest: 日文標題：假名（U+3040-30FF）現在跟漢字一起保留，不再局部損傷
+ok 8 - 日文標題：假名（U+3040-30FF）現在跟漢字一起保留，不再局部損傷
+  ---
+  duration_ms: 0.031458
+  type: 'test'
+  ...
+# Subtest: 連續連字號合併＋首尾修剪：空白轉連字號不再留下雜訊
+ok 9 - 連續連字號合併＋首尾修剪：空白轉連字號不再留下雜訊
+  ---
+  duration_ms: 0.2
+  type: 'test'
+  ...
+# Subtest: emoji + 文字：building emoji 本身（\\p{So}）仍被剝掉，但 VS16 變體選擇符留下
+ok 10 - emoji + 文字：building emoji 本身（\\p{So}）仍被剝掉，但 VS16 變體選擇符留下
+  ---
+  duration_ms: 0.229458
+  type: 'test'
+  ...
+# Subtest: 60 字元截斷仍然生效（既有行為不變）
+ok 11 - 60 字元截斷仍然生效（既有行為不變）
+  ---
+  duration_ms: 0.082375
+  type: 'test'
+  ...
+# Subtest: TOC extractHeadings：標題含 & " < 時，href 必須等於 renderer 真正設的 id（補強 2）
+ok 12 - TOC extractHeadings：標題含 & " < 時，href 必須等於 renderer 真正設的 id（補強 2）
+  ---
+  duration_ms: 7.586334
+  type: 'test'
+  ...
+# Subtest: TOC decodeHeadingEntities：解碼順序正確，&amp; 最後解不會連鎖誤解
+ok 13 - TOC decodeHeadingEntities：解碼順序正確，&amp; 最後解不會連鎖誤解
+  ---
+  duration_ms: 1.353292
+  type: 'test'
+  ...
+1..13
+# tests 13
+# suites 0
+# pass 13
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 88.407958
+
+📋 Frontmatter validation: 10101 files scanned
+
+⚠️  12 warning(s):
+   - en/Food/Taiwan Regional Street Food Map.md: English slug has uppercase characters
+   - en/Art/alien-art-centre.md: missing 'tags' (should be an array)
+   - en/Music/Taiwan Folk Music and Songs.md: English slug has uppercase characters
+   - en/Nature/Taiwan Hot Springs and Geothermal Energy.md: English slug has uppercase characters
+   - ja/History/rover-incident-and-tauketok.md: missing 'tags' (should be an array)
+   - ja/Culture/tchoukball-in-taiwan.md: missing or invalid 'title'
+   - ja/Culture/tchoukball-in-taiwan.md: missing or invalid 'description'
+   - ja/Art/alien-art-centre.md: missing 'tags' (should be an array)
+   - ja/Music/sorry-youth-band.md: missing 'tags' (should be an array)
+   - ja/Nature/formosan-rock-macaque.md: missing 'tags' (should be an array)
+   - ja/People/barbie-hsu-actress.md: missing 'tags' (should be an array)
+   - ja/People/jerry-yang-yahoo-cofounder.md: missing 'tags' (should be an array)
+
+🔴 4 error(s):
+   - en/Food/Taiwan Regional Street Food Map.md: missing or invalid 'translatedFrom' (例如 'Music/原中文檔名.md')
+   - en/Food/handmade-taiwanese-cuisine.md: missing or invalid 'translatedFrom' (例如 'Music/原中文檔名.md')
+   - en/People/taiwan-people-knowledge-base-roadmap.md: missing or invalid 'translatedFrom' (例如 'Music/原中文檔名.md')
+   - en/Economy/taiwan-energy-transition-and-green-industry.md: missing or invalid 'translatedFrom' (例如 'Music/原中文檔名.md')
+
+❌ Frontmatter validation FAILED (4 errors in 10101 files)

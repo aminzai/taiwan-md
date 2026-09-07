@@ -84,7 +84,7 @@ def test_current_build_and_review_tools_use_the_language_registry():
         "scripts/tools/lang-sync/sync-on-update.py": "ENABLED_TRANSLATION_LANGS",
         "scripts/tools/lang-sync/prioritize-batch.py": "ALL_TRANSLATION_LANGS",
         ".husky/pre-commit": "ALL_LANGUAGE_CODES",
-        ".github/workflows/pr-review.yml": "ALL_LANGUAGE_CODES",
+        "scripts/tools/pr-changed-files.mjs": "ALL_LANGUAGE_CODES",
     }
     for relative_path, symbol in expected_imports.items():
         source = (REPO_ROOT / relative_path).read_text(encoding="utf-8")

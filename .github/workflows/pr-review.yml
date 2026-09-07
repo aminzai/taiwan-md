@@ -33,85 +33,10 @@ jobs:
 
       - name: Get changed files
         id: files
-        run: |
-          # Use 3-dot (merge-base) diff + --diff-filter=ACMR to get only files
-          # actually added/modified/copied/renamed BY the PR — not files that
-          # disappeared because main moved ahead while the PR branch stayed put.
-          # Bug history: 2026-04-21 PR #582 (code-only i18n refactor) failed
-          # content review because main had just gained Hello-Nico.md, which
-          # 2-dot diff reported as "deleted in PR head". See:
-          # https://github.com/frank890417/taiwan-md/actions/runs/24703099747
-          #
-          # 2026-05-06 jovial-feistel fix: for fork PRs, the head SHA isn't in
-          # the local clone, so `base.sha...head.sha` returned empty and the
-          # workflow false-classified every fork PR as `pr_type=engineering`
-          # then SKIPPED review entirely. Fall back to the merge ref's two
-          # parents (HEAD^1 = base, HEAD^2 = fork's PR head) which
-          # actions/checkout@v5 fetched as part of the synthetic merge commit.
-          FILES=$(git diff --name-only --diff-filter=ACMR \
-            "${{ github.event.pull_request.base.sha }}...${{ github.event.pull_request.head.sha }}" \
-            2>/dev/null)
-          if [ -z "$FILES" ] && git rev-parse HEAD^2 >/dev/null 2>&1; then
-            echo "ℹ️  Falling back to merge-parents diff (likely fork PR)"
-            FILES=$(git diff --name-only --diff-filter=ACMR HEAD^1...HEAD^2)
-          fi
-          echo "all_files<<EOF" >> $GITHUB_OUTPUT
-          echo "$FILES" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-
-          # Classify PR type
-          CONTENT_ONLY=true
-          TRANSLATION_ONLY=true
-          HAS_CONTENT=false
-          HAS_ENGINEERING=false
-          TRANSLATION_LANG_PATTERN=$(node --input-type=module -e "import { ALL_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
-          KNOWLEDGE_TRANSLATION_RE="^knowledge/($TRANSLATION_LANG_PATTERN)/"
-          CONTENT_TRANSLATION_RE="^src/content/($TRANSLATION_LANG_PATTERN)/"
-
-          while IFS= read -r f; do
-            [[ -z "$f" ]] && continue
-            if [[ "$f" =~ ^knowledge/.*\.md$ ]] || [[ "$f" =~ ^src/content/.*\.md$ ]]; then
-              HAS_CONTENT=true
-              # Translation locale segment (knowledge/<lang>/… or src/content/<lang>/…)
-              if [[ "$f" =~ $KNOWLEDGE_TRANSLATION_RE ]] || \
-                 [[ "$f" =~ $CONTENT_TRANSLATION_RE ]]; then
-                :
-              else
-                TRANSLATION_ONLY=false
-              fi
-            else
-              CONTENT_ONLY=false
-              TRANSLATION_ONLY=false
-              HAS_ENGINEERING=true
-            fi
-          done <<< "$FILES"
-
-          if [[ "$CONTENT_ONLY" == "true" ]] && [[ "$HAS_CONTENT" == "true" ]]; then
-            if [[ "$TRANSLATION_ONLY" == "true" ]]; then
-              echo "pr_type=translation" >> $GITHUB_OUTPUT
-            else
-              echo "pr_type=content" >> $GITHUB_OUTPUT
-            fi
-          elif [[ "$HAS_CONTENT" == "true" ]] && [[ "$HAS_ENGINEERING" == "true" ]]; then
-            echo "pr_type=mixed" >> $GITHUB_OUTPUT
-          else
-            echo "pr_type=engineering" >> $GITHUB_OUTPUT
-          fi
-
-          # Content files only (for review script).
-          # Defensive: also filter out any files that don't actually exist in
-          # the checked-out HEAD (belt-and-suspenders against --diff-filter
-          # edge cases or base/head sha weirdness).
-          CONTENT_FILES=""
-          while IFS= read -r f; do
-            [[ -z "$f" ]] && continue
-            [[ "$f" =~ ^(knowledge|src/content)/.*\.md$ ]] || continue
-            [[ -f "$f" ]] || continue
-            CONTENT_FILES+="$f"$'\n'
-          done <<< "$FILES"
-          echo "content_files<<EOF" >> $GITHUB_OUTPUT
-          echo "$CONTENT_FILES" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node scripts/tools/pr-changed-files.mjs
 
       - name: Label PR type
         if: steps.files.outputs.pr_type == 'mixed'
@@ -133,41 +58,21 @@ jobs:
       - name: Run content review
         if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
         id: review
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: |
-          chmod +x scripts/tools/review-pr.sh
-          CONTENT_FILES="${{ steps.files.outputs.content_files }}"
-
-          # Build an array (newline-delimited → one element per file). The old
-          # `tr '\n' ' '` + unquoted $ARGS word-split any path containing a
-          # space — `knowledge/Culture/Shopping Design.md` became two bogus
-          # paths and threw a false 🔴 on PR #1273 (130 files, 99 clean).
-          # review-pr.sh itself is already array-safe ("$@").
-          ARGS=()
-          while IFS= read -r f; do
-            [[ -n "$f" ]] && ARGS+=("$f")
-          done <<< "$CONTENT_FILES"
-
-          # Run review (capture output, don't fail yet)
-          set +e
-          RESULT=$(bash scripts/tools/review-pr.sh "${ARGS[@]}" 2>&1 | sed 's/\x1b\[[0-9;]*m//g')
-          EXIT_CODE=$?
-          set -e
-          
-          echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
-          
-          # Determine status for labeling
-          if echo "$RESULT" | grep -q '🔴 FAIL'; then
-            echo "status=fail" >> $GITHUB_OUTPUT
-          elif echo "$RESULT" | grep -q '🟡 WARNING'; then
-            echo "status=warning" >> $GITHUB_OUTPUT
-          else
-            echo "status=pass" >> $GITHUB_OUTPUT
-          fi
-          
-          # Save result for comment
-          echo "result<<EOF" >> $GITHUB_OUTPUT
-          echo "$RESULT" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          python3 - <<'PYTHON'
+          import json, os, re, subprocess
+          from pathlib import Path
+          files = json.loads(Path('.pr-changed-files.json').read_text())['content']
+          result = subprocess.run(['bash', 'scripts/tools/review-pr.sh', *files], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
+          output = re.sub(r'\x1b\[[0-9;]*m', '', result.stdout)
+          Path('pr-review-result.txt').write_text(output)
+          print(output)
+          status = 'fail' if result.returncode or '🔴 FAIL' in output else 'warning' if '🟡 WARNING' in output else 'pass'
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'exit_code={result.returncode}\nstatus={status}\n')
+          PYTHON
 
       - name: Comment review result
         if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
@@ -175,7 +80,7 @@ jobs:
         uses: actions/github-script@v8
         with:
           script: |
-            const result = `${{ steps.review.outputs.result }}`;
+            const result = require('fs').readFileSync('pr-review-result.txt', 'utf8').slice(0, 55000);
             const status = '${{ steps.review.outputs.status }}';
             
             let header = '';

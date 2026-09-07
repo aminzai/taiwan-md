@@ -1,3 +1,4 @@
+import type { Renderer } from 'marked';
 /**
  * semiont-page.ts — Shared utility for rendering semiont cognitive layer markdown files.
  * Used by /semiont/manifesto, /semiont/consciousness, /semiont/longings, etc.
@@ -9,7 +10,7 @@ import { marked } from '../utils/marked-cjk.mjs';
 
 const SEMIONT_DIR = resolve(process.cwd(), 'docs/semiont');
 
-function createRenderer(): marked.Renderer {
+function createRenderer(): Renderer {
   const renderer = new marked.Renderer();
 
   // tokens → parseInline：marked 的 `text` 是未解析原文，直接吐會把 `**` 印出來

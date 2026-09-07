@@ -1,4 +1,6 @@
 ---
+import { categoryList } from '../utils/categoryConfig';
+import { readingPathLabels } from '../i18n/reading-path';
 /**
  * home.template.astro — 統一首頁 template (6 langs 共用)
  *
@@ -11,6 +13,7 @@
  *
  * 2026-05-03 sleepy-colden P2 follow-through unification.
  */
+import { ENABLED_LANGUAGE_CODES } from '../config/languages';
 import Layout from '../layouts/Layout.astro';
 import HeroSection from '../components/home/HeroSection.astro';
 import ReaderDoors from '../components/home/ReaderDoors.astro';
@@ -195,7 +198,11 @@ const readingPathFooterItems = [
     <div data-ga-view="reading_path">
       <ReadingPath
         title={t('home.readingPath.title')}
-        subtitle={t('home.readingPath.subtitle')}
+        subtitle={t('home.readingPath.subtitle')
+          .replace('{count}', String(readingPathSteps.length))
+          .replace('{minutes}', String(totalTime))}
+        shortLabel={`${readingPathLabels[lang][0]} · ${readingPathSteps.slice(0, 2).reduce((sum, step) => sum + parseInt(step.time), 0)} ${t('home.readingPath.footer.minutesUnit')}`}
+        moreLabel={`${readingPathLabels[lang][1]} · ${totalTime} ${t('home.readingPath.footer.minutesUnit')}`}
         steps={readingPathSteps}
         footerItems={readingPathFooterItems}
         continueHref="#categories"
@@ -220,7 +227,10 @@ const readingPathFooterItems = [
           },
           {
             icon: '🌍',
-            title: t('home.features.bilingual.title'),
+            title: t('home.features.bilingual.title').replace(
+              '{count}',
+              String(ENABLED_LANGUAGE_CODES.length),
+            ),
             description: t('home.features.bilingual.desc'),
           },
           {
@@ -822,7 +832,14 @@ const readingPathFooterItems = [
         </div>
         <span
           class="whitespace-nowrap px-6 font-[var(--font-title,'Noto_Serif_TC',serif)] text-[1.3rem] font-bold tracking-[0.05em] text-[#1a3c34]"
-          >{t('home.categories.divider')}</span
+          >{
+            t('home.categories.divider').replace(
+              '{count}',
+              String(
+                categoryList.filter((category) => category !== 'about').length,
+              ),
+            )
+          }</span
         >
         <div
           class="h-px flex-1 bg-[linear-gradient(90deg,transparent,#d1d5db,transparent)]"

@@ -64,7 +64,7 @@ export const homeUI = {
     'home.random.description':
       "Don't know what to read? Let us guide you to Taiwan's hidden treasures!",
     'home.categories.heading': 'Discover Taiwan',
-    'home.categories.divider': '12 Topics',
+    'home.categories.divider': '{count} Topics',
     'home.lang.heading': '🖊️ Why Traditional Chinese?',
     'home.lang.p1':
       "Taiwan.md chooses <strong>Traditional Chinese</strong> as the default language - this is not just a technical decision, it's a cultural statement.",
@@ -100,7 +100,7 @@ export const homeUI = {
     'home.features.ai.title': 'AI-Friendly Design',
     'home.features.ai.desc':
       "Structured content that helps AI understand Taiwan's complexity",
-    'home.features.bilingual.title': 'Bilingual Global Vision',
+    'home.features.bilingual.title': 'Taiwan in {count} languages',
     'home.features.bilingual.desc':
       "Starting from local perspectives, telling Taiwan's story in global languages",
     'home.features.complete.title': 'Complete Multi-dimensional',
@@ -108,7 +108,7 @@ export const homeUI = {
       "Covering 12+ domains, presenting Taiwan's three-dimensional complete picture",
     'home.readingPath.title': "📖 Don't know where to start?",
     'home.readingPath.subtitle':
-      'Discover the real Taiwan in 30 minutes with these 5 essential articles',
+      'Explore Taiwan through {count} articles · about {minutes} minutes',
     'home.readingPath.continue': 'Continue exploring more topics →',
     'home.readingPath.footer.totalLabel': 'Total',
     'home.readingPath.footer.minutesUnit': 'minutes',
@@ -214,7 +214,7 @@ export const homeUI = {
     'home.random.description':
       '何を読むか迷っていますか？台湾の隠れた宝物を案内します！',
     'home.categories.heading': '台湾を知る',
-    'home.categories.divider': '12のテーマ',
+    'home.categories.divider': '{count}のテーマ',
     'home.lang.heading': '🖊️ なぜ繁体字中国語なのか？',
     'home.lang.p1':
       'Taiwan.md は<strong>繁体字中国語</strong>をデフォルト言語に選びました。これは技術的な決定だけでなく、文化的な宣言です。',
@@ -249,14 +249,15 @@ export const homeUI = {
     'home.features.ai.title': 'AI フレンドリー設計',
     'home.features.ai.desc':
       '構造化されたコンテンツで、AIも台湾の複雑さを理解できる',
-    'home.features.bilingual.title': '多言語国際視野',
+    'home.features.bilingual.title': '{count} 言語で台湾を知る',
     'home.features.bilingual.desc':
       'ローカルの視点から出発し、国際言語で台湾の物語を伝える',
     'home.features.complete.title': '完全多面的',
     'home.features.complete.desc':
       '12以上の分野を網羅し、台湾の立体的で完全な姿を提示',
     'home.readingPath.title': '📖 どこから始めればいいかわからない？',
-    'home.readingPath.subtitle': 'この5つの記事で、30分で本当の台湾を知ろう',
+    'home.readingPath.subtitle':
+      '{count} 本の記事で台湾を知る・約 {minutes} 分',
     'home.readingPath.continue': 'さらに多くのテーマを探索する →',
     'home.readingPath.footer.totalLabel': '合計',
     'home.readingPath.footer.minutesUnit': '分',
@@ -360,7 +361,7 @@ export const homeUI = {
     'home.random.description':
       '뭘 읽을지 모르겠다고요? 대만의 숨겨진 보물을 안내해 드립니다!',
     'home.categories.heading': '대만 알아보기',
-    'home.categories.divider': '12개 주제',
+    'home.categories.divider': '{count}개 주제',
     'home.lang.heading': '🖊️ 왜 번체자 중국어인가?',
     'home.lang.p1':
       'Taiwan.md는 <strong>번체자 중국어</strong>를 기본 언어로 선택했습니다. 이것은 단순한 기술적 결정이 아니라 문화적 선언입니다.',
@@ -395,14 +396,15 @@ export const homeUI = {
     'home.features.ai.title': 'AI 친화적 설계',
     'home.features.ai.desc':
       '구조화된 콘텐츠로 AI도 대만의 복잡성을 이해할 수 있도록',
-    'home.features.bilingual.title': '다국어 국제 시야',
+    'home.features.bilingual.title': '{count}개 언어로 만나는 대만',
     'home.features.bilingual.desc':
       '현지 관점에서 출발하여 국제 언어로 대만의 이야기를 전달',
     'home.features.complete.title': '완전 다면적',
     'home.features.complete.desc':
       '12개 이상의 분야를 망라하여 대만의 입체적이고 완전한 모습을 제시',
     'home.readingPath.title': '📖 어디서부터 시작해야 할지 모르겠다면?',
-    'home.readingPath.subtitle': '이 기사들로 대만의 진정한 모습을 알아보세요',
+    'home.readingPath.subtitle':
+      '기사 {count}편으로 만나는 대만 · 약 {minutes}분',
     'home.readingPath.continue': '더 많은 주제 탐색하기 →',
     'home.readingPath.footer.totalLabel': '총',
     'home.readingPath.footer.minutesUnit': '분',
@@ -511,7 +513,7 @@ export const homeUI = {
     'home.random.description':
       'Chưa biết nên đọc gì? Hãy để chúng tôi đưa bạn khám phá những kho báu ẩn giấu của Đài Loan!',
     'home.categories.heading': 'Tìm hiểu Đài Loan',
-    'home.categories.divider': '12 chủ đề lớn',
+    'home.categories.divider': '{count} chủ đề lớn',
     'home.lang.heading': '🖊️ Vì sao sử dụng chữ Hán phồn thể?',
     'home.lang.p1':
       'Taiwan.md lựa chọn <strong>chữ Hán phồn thể</strong> làm ngôn ngữ mặc định. Đây không chỉ là một quyết định kỹ thuật — mà còn là một tuyên ngôn văn hóa.',
@@ -546,7 +548,7 @@ export const homeUI = {
     'home.features.ai.title': 'Thiết kế AI-Friendly',
     'home.features.ai.desc':
       'Nội dung được cấu trúc để AI cũng có thể hiểu sự phức tạp của Đài Loan',
-    'home.features.bilingual.title': 'Tầm nhìn quốc tế song ngữ',
+    'home.features.bilingual.title': 'Đài Loan bằng {count} ngôn ngữ',
     'home.features.bilingual.desc':
       'Xuất phát từ góc nhìn bản địa, kể câu chuyện Đài Loan bằng ngôn ngữ quốc tế',
     'home.features.complete.title': 'Toàn diện và đa chiều',
@@ -554,7 +556,7 @@ export const homeUI = {
       'Bao quát 12+ lĩnh vực, khắc họa diện mạo Đài Loan toàn diện và đa chiều',
     'home.readingPath.title': '📖 Chưa biết bắt đầu từ đâu?',
     'home.readingPath.subtitle':
-      'Tìm hiểu Đài Loan chân thực trong 30 phút qua 5 bài viết này',
+      'Khám phá Đài Loan qua {count} bài viết · khoảng {minutes} phút',
     'home.readingPath.continue': 'Tiếp tục khám phá thêm nhiều chủ đề →',
     'home.readingPath.footer.totalLabel': 'Tổng cộng',
     'home.readingPath.footer.minutesUnit': 'phút',
@@ -665,7 +667,7 @@ export const homeUI = {
     'home.random.description':
       'Tidak tahu harus melihat apa? Mari kami ajak Anda menemukan harta karun tersembunyi Taiwan!',
     'home.categories.heading': 'Mengenal Taiwan',
-    'home.categories.divider': '12 tema utama',
+    'home.categories.divider': '{count} tema utama',
     'home.lang.heading': '🖊️ Mengapa menggunakan bahasa Tionghoa Tradisional?',
     'home.lang.p1':
       'Taiwan.md memilih <strong>bahasa Tionghoa Tradisional</strong> sebagai bahasa baku. Ini bukan sekadar keputusan teknis—melainkan sebuah pernyataan budaya.',
@@ -700,7 +702,7 @@ export const homeUI = {
     'home.features.ai.title': 'Desain AI-Friendly',
     'home.features.ai.desc':
       'Konten terstruktur agar AI juga dapat memahami kompleksitas Taiwan',
-    'home.features.bilingual.title': 'Wawasan internasional dwibahasa',
+    'home.features.bilingual.title': 'Taiwan dalam {count} bahasa',
     'home.features.bilingual.desc':
       'Menceritakan kisah Taiwan dalam bahasa internasional dari sudut pandang lokal',
     'home.features.complete.title': 'Utuh dan multidimensi',
@@ -708,7 +710,7 @@ export const homeUI = {
       'Mencakup 12+ bidang untuk menghadirkan gambaran Taiwan yang utuh dan multidimensi',
     'home.readingPath.title': '📖 Tidak tahu harus mulai dari mana?',
     'home.readingPath.subtitle':
-      'Kenali Taiwan yang sesungguhnya dalam 30 menit melalui 5 artikel ini',
+      'Kenali Taiwan melalui {count} artikel · sekitar {minutes} menit',
     'home.readingPath.continue': 'Lanjutkan menjelajahi tema lainnya →',
     'home.readingPath.footer.totalLabel': 'Total',
     'home.readingPath.footer.minutesUnit': 'menit',
@@ -820,7 +822,7 @@ export const homeUI = {
     'home.random.description':
       'Não sabe o que ver? Deixe-nos levar você aos tesouros escondidos de Taiwan!',
     'home.categories.heading': 'Conheça Taiwan',
-    'home.categories.divider': '12 grandes temas',
+    'home.categories.divider': '{count} grandes temas',
     'home.lang.heading': '🖊️ Por que usar o chinês tradicional?',
     'home.lang.p1':
       'Taiwan.md escolheu o <strong>chinês tradicional</strong> como idioma padrão. Isso não é apenas uma decisão técnica — é uma declaração cultural.',
@@ -855,7 +857,7 @@ export const homeUI = {
     'home.features.ai.title': 'Design AI-Friendly',
     'home.features.ai.desc':
       'Conteúdo estruturado para que a AI também compreenda a complexidade de Taiwan',
-    'home.features.bilingual.title': 'Visão internacional bilíngue',
+    'home.features.bilingual.title': 'Taiwan em {count} idiomas',
     'home.features.bilingual.desc':
       'Histórias de Taiwan contadas em idiomas internacionais a partir de perspectivas locais',
     'home.features.complete.title': 'Completo e multifacetado',
@@ -863,7 +865,7 @@ export const homeUI = {
       'Abrange 12+ áreas e apresenta uma visão completa e multidimensional de Taiwan',
     'home.readingPath.title': '📖 Não sabe por onde começar?',
     'home.readingPath.subtitle':
-      'Conheça a verdadeira Taiwan em 30 minutos com estes 5 artigos',
+      'Conheça Taiwan em {count} artigos · cerca de {minutes} minutos',
     'home.readingPath.continue': 'Continue explorando mais temas →',
     'home.readingPath.footer.totalLabel': 'Total',
     'home.readingPath.footer.minutesUnit': 'minutos',
@@ -974,7 +976,7 @@ export const homeUI = {
     'home.random.description':
       'समझ नहीं आ रहा कि क्या देखें? आइए, हम आपको ताइवान के छिपे खज़ाने दिखाएँ!',
     'home.categories.heading': 'ताइवान को जानें',
-    'home.categories.divider': '12 प्रमुख विषय',
+    'home.categories.divider': '{count} प्रमुख विषय',
     'home.lang.heading': '🖊️ पारंपरिक चीनी का उपयोग क्यों?',
     'home.lang.p1':
       'Taiwan.md ने <strong>पारंपरिक चीनी</strong> को डिफ़ॉल्ट भाषा के रूप में चुना है। यह केवल तकनीकी निर्णय नहीं—एक सांस्कृतिक घोषणा है।',
@@ -1009,7 +1011,7 @@ export const homeUI = {
     'home.features.ai.title': 'AI-Friendly डिज़ाइन',
     'home.features.ai.desc':
       'संरचित सामग्री, ताकि AI भी ताइवान की जटिलता समझ सके',
-    'home.features.bilingual.title': 'द्विभाषी अंतरराष्ट्रीय दृष्टि',
+    'home.features.bilingual.title': '{count} भाषाओं में ताइवान',
     'home.features.bilingual.desc':
       'स्थानीय दृष्टिकोण से ताइवान की कहानियाँ अंतरराष्ट्रीय भाषा में कहना',
     'home.features.complete.title': 'संपूर्ण बहुआयामी प्रस्तुति',
@@ -1017,7 +1019,7 @@ export const homeUI = {
       '12+ क्षेत्रों को समेटते हुए ताइवान की संपूर्ण बहुआयामी तस्वीर',
     'home.readingPath.title': '📖 समझ नहीं आ रहा कि कहाँ से शुरू करें?',
     'home.readingPath.subtitle':
-      'इन 5 लेखों से 30 मिनट में असली ताइवान को जानें',
+      '{count} लेखों से ताइवान को जानें · लगभग {minutes} मिनट',
     'home.readingPath.continue': 'और विषय खोजना जारी रखें →',
     'home.readingPath.footer.totalLabel': 'कुल',
     'home.readingPath.footer.minutesUnit': 'मिनट',
@@ -1124,7 +1126,7 @@ export const homeUI = {
     'home.random.description':
       'لا تعرف ماذا تشاهد؟ دعنا نأخذك لاكتشاف الكنوز المخفية في تايوان!',
     'home.categories.heading': 'تعرّف على تايوان',
-    'home.categories.divider': '12 موضوعًا رئيسيًا',
+    'home.categories.divider': '{count} موضوعًا رئيسيًا',
     'home.lang.heading': '🖊️ لماذا الصينية التقليدية؟',
     'home.lang.p1':
       'اختارت Taiwan.md الصينية التقليدية كلغة افتراضية، وهذا ليس قرارًا تقنيًا فحسب — بل هو بيان ثقافي.',
@@ -1159,7 +1161,7 @@ export const homeUI = {
     'home.features.ai.title': 'تصميم صديق للذكاء الاصطناعي',
     'home.features.ai.desc':
       'محتوى هيكلي، يسمح للذكاء الاصطناعي بفهم تعقيد تايوان',
-    'home.features.bilingual.title': 'رؤية دولية ثنائية اللغة',
+    'home.features.bilingual.title': 'تايوان بـ {count} لغة',
     'home.features.bilingual.desc':
       'نبدأ من منظور محلي، ونروي قصة تايوان بلغات دولية',
     'home.features.complete.title': 'كاملة ومتعددة الأوجه',
@@ -1167,7 +1169,7 @@ export const homeUI = {
       'تغطي 12+ مجالًا، تقدم صورة ثلاثية الأبعاد وكاملة لتايوان',
     'home.readingPath.title': '📖 لا تعرف من أين تبدأ؟',
     'home.readingPath.subtitle':
-      'تعرّف على تايوان الحقيقية في 30 دقيقة عبر هذه المقالات الخمس',
+      'تعرّف على تايوان عبر {count} مقالات · نحو {minutes} دقيقة',
     'home.readingPath.continue': 'استكشف المزيد من الموضوعات →',
     'home.readingPath.footer.totalLabel': 'المجموع',
     'home.readingPath.footer.minutesUnit': 'دقيقة',
@@ -1275,7 +1277,7 @@ export const homeUI = {
     'home.random.description':
       'Не знаете, что посмотреть? Позвольте нам открыть скрытые сокровища Тайваня!',
     'home.categories.heading': 'Познакомьтесь с Тайванем',
-    'home.categories.divider': '12 основных тем',
+    'home.categories.divider': '{count} основных тем',
     'home.lang.heading': '🖊️ Почему традиционный китайский?',
     'home.lang.p1':
       'Taiwan.md выбирает <strong>традиционный китайский</strong> как язык по умолчанию — это не только техническое решение, это культурный манифест.',
@@ -1310,7 +1312,7 @@ export const homeUI = {
     'home.features.ai.title': 'AI-Friendly дизайн',
     'home.features.ai.desc':
       'Структурированный контент, позволяющий ИИ понять сложность Тайваня',
-    'home.features.bilingual.title': 'Двуязычный международный взгляд',
+    'home.features.bilingual.title': 'Тайвань на {count} языках',
     'home.features.bilingual.desc':
       'Исходя из локальной точки зрения, рассказываем историю Тайваня на международном языке',
     'home.features.complete.title': 'Полная многогранность',
@@ -1318,7 +1320,7 @@ export const homeUI = {
       'Охватывает 12+ областей, представляя объёмный и полный облик Тайваня',
     'home.readingPath.title': '📖 Не знаете, с чего начать?',
     'home.readingPath.subtitle':
-      'Познакомьтесь с настоящим Тайванем за 30 минут с помощью этих 5 статей',
+      'Узнайте Тайвань через {count} статей · около {minutes} минут',
     'home.readingPath.continue': 'Продолжить исследовать больше тем →',
     'home.readingPath.footer.totalLabel': 'Итого',
     'home.readingPath.footer.minutesUnit': 'минут',
@@ -1426,7 +1428,7 @@ export const homeUI = {
     'home.random.description':
       'Du weißt nicht, was du lesen sollst? Lass uns dir Taiwans verborgene Schätze zeigen!',
     'home.categories.heading': 'Taiwan kennenlernen',
-    'home.categories.divider': '12 große Themen',
+    'home.categories.divider': '{count} große Themen',
     'home.lang.heading': '🖊️ Warum traditionelle chinesische Schriftzeichen?',
     'home.lang.p1':
       'Taiwan.md verwendet standardmäßig <strong>traditionelle chinesische Schriftzeichen</strong>. Das ist nicht nur eine technische Entscheidung, sondern auch ein kulturelles Bekenntnis.',
@@ -1461,7 +1463,7 @@ export const homeUI = {
     'home.features.ai.title': 'AI-Friendly-Design',
     'home.features.ai.desc':
       'Strukturierte Inhalte, damit auch AI Taiwans Komplexität verstehen kann',
-    'home.features.bilingual.title': 'Zweisprachige internationale Perspektive',
+    'home.features.bilingual.title': 'Taiwan in {count} Sprachen',
     'home.features.bilingual.desc':
       'Taiwans Geschichten aus lokaler Sicht in einer internationalen Sprache erzählen',
     'home.features.complete.title': 'Umfassend und facettenreich',
@@ -1469,7 +1471,7 @@ export const homeUI = {
       '12+ Bereiche vermitteln ein vielschichtiges und umfassendes Bild Taiwans',
     'home.readingPath.title': '📖 Du weißt nicht, wo du anfangen sollst?',
     'home.readingPath.subtitle':
-      'Lerne das echte Taiwan mit diesen 5 Artikeln in 30 Minuten kennen',
+      'Taiwan in {count} Artikeln kennenlernen · etwa {minutes} Minuten',
     'home.readingPath.continue': 'Weitere Themen entdecken →',
     'home.readingPath.footer.totalLabel': 'Insgesamt',
     'home.readingPath.footer.minutesUnit': 'Minuten',
@@ -1572,7 +1574,7 @@ export const homeUI = {
     'home.random.subtitle': '探索意想不到的故事',
     'home.random.description': '不知道該看什麼？讓我們帶你發現台灣的隱藏寶藏！',
     'home.categories.heading': '認識台灣',
-    'home.categories.divider': '12 大主題',
+    'home.categories.divider': '{count} 大主題',
     'home.lang.heading': '🖊️ 為什麼用繁體中文？',
     'home.lang.p1':
       'Taiwan.md 選擇以<strong>繁體中文</strong>作為預設語言，這不只是技術決定——這是一種文化宣言。',
@@ -1603,12 +1605,13 @@ export const homeUI = {
     'home.features.curated.desc': '精心策展的深度敘事，不是百科全書式羅列',
     'home.features.ai.title': 'AI-Friendly 設計',
     'home.features.ai.desc': '結構化內容，讓AI也能理解台灣的複雜性',
-    'home.features.bilingual.title': '雙語國際視野',
+    'home.features.bilingual.title': '用 {count} 種語言認識台灣',
     'home.features.bilingual.desc': '從在地觀點出發，用國際語言說台灣故事',
     'home.features.complete.title': '完整多面向',
     'home.features.complete.desc': '涵蓋12+領域，呈現台灣的立體完整面貌',
     'home.readingPath.title': '📖 不知道從哪開始？',
-    'home.readingPath.subtitle': '用這 5 篇文章，在 30 分鐘內認識真正的台灣',
+    'home.readingPath.subtitle':
+      '用 {count} 篇文章認識台灣，預計約 {minutes} 分鐘',
     'home.readingPath.continue': '繼續探索更多主題 →',
     'home.readingPath.footer.totalLabel': '總計',
     'home.readingPath.footer.minutesUnit': '分鐘',
@@ -1716,7 +1719,7 @@ export const homeUI = {
     'home.random.description':
       'Vous ne savez pas quoi lire ? Laissez-nous vous guider vers les trésors cachés de Taïwan !',
     'home.categories.heading': 'Découvrir Taïwan',
-    'home.categories.divider': '12 thèmes',
+    'home.categories.divider': '{count} thèmes',
     'home.lang.heading': '🖊️ Pourquoi le chinois traditionnel ?',
     'home.lang.p1':
       "Taiwan.md choisit le <strong>chinois traditionnel</strong> comme langue par défaut — ce n'est pas seulement une décision technique, c'est une affirmation culturelle.",
@@ -1752,7 +1755,7 @@ export const homeUI = {
     'home.features.ai.title': 'Conception compatible IA',
     'home.features.ai.desc':
       "Contenu structuré qui aide l'IA à comprendre la complexité de Taïwan",
-    'home.features.bilingual.title': 'Vision globale bilingue',
+    'home.features.bilingual.title': 'Taïwan en {count} langues',
     'home.features.bilingual.desc':
       "Partir des perspectives locales pour raconter l'histoire de Taïwan dans des langues mondiales",
     'home.features.complete.title': 'Complet et multidimensionnel',
@@ -1760,7 +1763,7 @@ export const homeUI = {
       'Couvrant plus de 12 domaines, présentant une image complète et tridimensionnelle de Taïwan',
     'home.readingPath.title': '📖 Vous ne savez pas par où commencer ?',
     'home.readingPath.subtitle':
-      'Découvrez le vrai Taïwan en 30 minutes avec ces 5 articles essentiels',
+      'Découvrez Taïwan en {count} articles · environ {minutes} minutes',
     'home.readingPath.continue': "Continuer à explorer d'autres thèmes →",
     'home.readingPath.footer.totalLabel': 'Total',
     'home.readingPath.footer.minutesUnit': 'minutes',
@@ -1871,7 +1874,7 @@ export const homeUI = {
     'home.random.description':
       '¿No sabes qué leer? ¡Déjanos guiarte hacia los tesoros ocultos de Taiwán!',
     'home.categories.heading': 'Descubrir Taiwán',
-    'home.categories.divider': '12 temas',
+    'home.categories.divider': '{count} temas',
     'home.lang.heading': '🖊️ ¿Por qué chino tradicional?',
     'home.lang.p1':
       'Taiwan.md elige el <strong>chino tradicional</strong> como idioma predeterminado — esto no es solo una decisión técnica, es una declaración cultural.',
@@ -1907,7 +1910,7 @@ export const homeUI = {
     'home.features.ai.title': 'Diseño amigable con IA',
     'home.features.ai.desc':
       'Contenido estructurado que ayuda a la IA a comprender la complejidad de Taiwán',
-    'home.features.bilingual.title': 'Visión global bilingüe',
+    'home.features.bilingual.title': 'Taiwán en {count} idiomas',
     'home.features.bilingual.desc':
       'Partiendo de perspectivas locales, contando la historia de Taiwán en idiomas globales',
     'home.features.complete.title': 'Completo y multidimensional',
@@ -1915,7 +1918,7 @@ export const homeUI = {
       'Cubriendo más de 12 dominios, presentando la imagen tridimensional completa de Taiwán',
     'home.readingPath.title': '📖 ¿No sabes por dónde empezar?',
     'home.readingPath.subtitle':
-      'Descubre el Taiwán real en 30 minutos con estos 5 artículos esenciales',
+      'Conoce Taiwán en {count} artículos · unos {minutes} minutos',
     'home.readingPath.continue': 'Continúa explorando más temas →',
     'home.readingPath.footer.totalLabel': 'Total',
     'home.readingPath.footer.minutesUnit': 'minutos',

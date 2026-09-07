@@ -1,23 +1,26 @@
 ---
-title: "Handmade Taiwanese Cuisine"
+translatedFrom: 'Food/台灣手路菜.md'
+title: 'Handmade Taiwanese Cuisine'
 description: "From Neimen's total-pu-shi density to the human warmth of caiwei tang — Taiwan's roadside banquet culture at its heart"
 date: 2026-03-31
 tags:
-      - Taiwanese cuisine
-      - Traditional cooking
-      - Roadside banquet
-      - Handmade dishes
-      - Total-pu-shi
-      - Food culture
-subcategory: "Food Culture"
-category: "Food"
-author: "Taiwan.md Translation Team"
+  - Taiwanese cuisine
+  - Traditional cooking
+  - Roadside banquet
+  - Handmade dishes
+  - Total-pu-shi
+  - Food culture
+subcategory: 'Food Culture'
+category: 'Food'
+author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sanbeiji.jpg/960px-Sanbeiji.jpg"
-imageAlt: "Three-Cup Chicken"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
+imageAlt: 'Three-Cup Chicken'
+imageCredit: 'Archon6812 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
 ---
 
 # Handmade Taiwanese Cuisine
@@ -92,24 +95,28 @@ Handmade cuisine's cruelest point here: it's living craft, passed person-to-pers
 
 Xue Meng-hui flipping father's filled farmer's almanac, script marks industry golden year scale. He doesn't know that journal recording not just menu and table counts — it recording one entire era's Taiwanese how celebrating, how thanking, how connecting whole village with one pot of soup.
 
-[^1]: [手路菜 — 教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/zh-hant/su/1118/)
+[^1]: [手路菜 — 教育部臺灣台語常用詞辭典](https://sutian.moe.edu.tw/zh-hant/su/1118/) — Taiwanese dictionary entry defining the term shou-lu-tshai.
 
-[^2]: [總舖師與水腳最漫長的寒冬——報導者](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) (2020)
+[^2]: [總舖師與水腳最漫長的寒冬——報導者](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Report on the decline of roadside banquet businesses during COVID-19. (2020)
 
-[^3]: [經濟部統計——外燴及團膳承包業營業額](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) (2020)
+[^3]: [經濟部統計——外燴及團膳承包業營業額](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) — Ministry of Economic Affairs statistics on catering revenue. (2020)
 
-[^4]: [辦桌 — 維基百科](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C)
+[^4]: [辦桌 — 維基百科](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Encyclopedia overview of Taiwanese roadside banquets.
 
-[^5]: [辦桌文化揭密：宴席菜單、出菜順序及總鋪師的好手路 — Heho](https://lifestyle.heho.com.tw/archives/60486) (2023)
+[^5]: [辦桌文化揭密：宴席菜單、出菜順序及總鋪師的好手路 — Heho](https://lifestyle.heho.com.tw/archives/60486) — Introduction to banquet menus, serving order and chefs. (2023)
 
-[^6]: [一家辦桌萬家香 — 內門辦桌傳奇](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html)
+[^6]: [一家辦桌萬家香 — 內門辦桌傳奇](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html) — Account of the roadside banquet tradition in Neimen.
 
-[^7]: [黃婉玲《台菜本味》讓瀕臨失傳的經典「菜尾湯」續飄香 — 500 輯](https://500times.udn.com/wtimes/story/12671/5245108) (2021)
+[^7]: [黃婉玲《台菜本味》讓瀕臨失傳的經典「菜尾湯」續飄香 — 500 輯](https://500times.udn.com/wtimes/story/12671/5245108) — Feature on Huang Wan-ling and the preservation of classic Taiwanese dishes. (2021)
 
-[^8]: [菜尾≠剩菜 — 台菜教母教煮經典好味「菜尾湯」 — 聯合報橘世代](https://orange.udn.com/orange/story/121311/5327380) (2021)
+[^8]: [菜尾≠剩菜 — 台菜教母教煮經典好味「菜尾湯」 — 聯合報橘世代](https://orange.udn.com/orange/story/121311/5327380) — Explanation of the Taiwanese dish known as cai-wei soup. (2021)
 
-[^9]: [經典「菜尾湯」不是剩菜！7 道獨立菜色食材熬上 4 小時 — ETtoday](https://travel.ettoday.net/article/1913876.htm) (2021)
+[^9]: [經典「菜尾湯」不是剩菜！7 道獨立菜色食材熬上 4 小時 — ETtoday](https://travel.ettoday.net/article/1913876.htm) — Report describing the ingredients and preparation of cai-wei soup. (2021)
 
-[^10]: [台灣英雄 — 台菜教母黃婉玲 — 自由時報](https://www.youtube.com/watch?v=P4cjkkQeuxY) (2022)
+[^10]: [台灣英雄 — 台菜教母黃婉玲 — 自由時報](https://www.youtube.com/watch?v=P4cjkkQeuxY) — Video feature introducing Taiwanese food researcher Huang Wan-ling. (2022)
 
-[^11]: [內門阿隆師辦桌 — Rakuten](https://www.rakuten.com.tw/shop/aweisister/)
+[^11]: [內門阿隆師辦桌 — Rakuten](https://www.rakuten.com.tw/shop/aweisister/) — Commercial listing for the Neimen banquet business cited in the article.
+
+## Image Sources
+
+- Archon6812 / Wikimedia Commons — [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg).

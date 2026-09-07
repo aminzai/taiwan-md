@@ -1,0 +1,13 @@
+
+> taiwan-md@1.4.0 check:types
+> astro check --minimumFailingSeverity error --minimumSeverity error
+
+[sitemap-hreflang-filter] Loaded 10136 existing URL paths for hreflang validation
+[sitemap-alias-filter] Loaded 882 alias URLs to exclude from sitemap
+17:45:36 [vite] Re-optimizing dependencies because vite config has changed
+17:45:37 [content] Syncing content
+17:45:37 [content] Synced content
+17:45:37 [types] Generated 247ms
+17:45:37 [check] Getting diagnostics for Astro files in /Users/cheyuwu/Projects/taiwan-md/.worktrees/20260907-audit-upgrade...
+Result (667 files): 
+- 0 errors

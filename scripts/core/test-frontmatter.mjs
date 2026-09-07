@@ -34,6 +34,7 @@ const CATEGORIES = [
   'Society',
   'Economy',
   'Lifestyle',
+  'Resources',
 ];
 const LANGS = ALL_LANGUAGE_CODES.map((code) => (code === 'zh-TW' ? '' : code));
 
@@ -57,7 +58,24 @@ let changedFiles = null;
 // merge-base + fork fallback）餵進來，比讓本檔自己 git diff 準（避開「main 領先」的
 // 2-dot 誤判，per .github/workflows/pr-review.yml PR #582 post-mortem）。優先於 --ci/--staged。
 const EXPLICIT_FILES = process.env.TWMD_VALIDATE_FILES;
-if (EXPLICIT_FILES !== undefined) {
+if (process.env.TWMD_VALIDATE_FILES_JSON !== undefined) {
+  const manifest = JSON.parse(
+    await readFile(process.env.TWMD_VALIDATE_FILES_JSON, 'utf8'),
+  );
+  const files = Array.isArray(manifest) ? manifest : manifest.all_kn;
+  if (
+    !Array.isArray(files) ||
+    files.some(
+      (f) =>
+        typeof f !== 'string' ||
+        !f.startsWith('knowledge/') ||
+        !f.endsWith('.md'),
+    )
+  ) {
+    throw new Error('Invalid explicit-file JSON manifest');
+  }
+  changedFiles = new Set(files);
+} else if (EXPLICIT_FILES !== undefined) {
   changedFiles = new Set(
     EXPLICIT_FILES.split(/[\s\n]+/)
       .map((f) => f.trim())
@@ -74,14 +92,29 @@ if (EXPLICIT_FILES !== undefined) {
   );
 } else if (CI_MODE || STAGED_MODE) {
   try {
-    const { execSync } = await import('node:child_process');
-    // CI base ref 可用 TWMD_DIFF_BASE 覆蓋（default HEAD~1 保 deploy.yml 行為不變）
+    const { execFileSync } = await import('node:child_process');
     const ciBase = process.env.TWMD_DIFF_BASE || 'HEAD~1';
-    const cmd = STAGED_MODE
-      ? 'git diff --cached --name-only --diff-filter=ACMR -- knowledge/'
-      : `git diff --name-only ${ciBase} -- knowledge/`;
-    const diff = execSync(cmd, { encoding: 'utf-8' });
-    changedFiles = new Set(diff.trim().split('\n').filter(Boolean));
+    const args = STAGED_MODE
+      ? [
+          'diff',
+          '--cached',
+          '--name-only',
+          '-z',
+          '--diff-filter=ACMR',
+          '--',
+          'knowledge/',
+        ]
+      : [
+          'diff',
+          '--name-only',
+          '-z',
+          '--diff-filter=ACMR',
+          ciBase,
+          '--',
+          'knowledge/',
+        ];
+    const diff = execFileSync('git', args, { encoding: 'utf8' });
+    changedFiles = new Set(diff.split('\0').filter(Boolean));
     const mode = STAGED_MODE ? 'Staged' : 'CI';
     if (changedFiles.size === 0) {
       console.log(
@@ -91,8 +124,8 @@ if (EXPLICIT_FILES !== undefined) {
     }
     console.log(`🔍 ${mode} mode: checking ${changedFiles.size} file(s)\n`);
   } catch {
-    console.log('⚠️  Could not get git diff, skipping validation.\n');
-    process.exit(0);
+    console.error('Could not get git diff; validation cannot be skipped.');
+    process.exit(1);
   }
 }
 
@@ -128,7 +161,23 @@ function isArrayOfStrings(val) {
 // ── Scan ──
 
 for (const lang of LANGS) {
-  for (const cat of CATEGORIES) {
+  const languageDir = lang ? join(KNOWLEDGE, lang) : KNOWLEDGE;
+  const allowedCategories = new Set(
+    CATEGORIES.map((name) => name.toLowerCase()),
+  );
+  let actualCategories = [];
+  try {
+    actualCategories = (await readdir(languageDir, { withFileTypes: true }))
+      .filter(
+        (entry) =>
+          entry.isDirectory() &&
+          allowedCategories.has(entry.name.toLowerCase()),
+      )
+      .map((entry) => entry.name);
+  } catch (error) {
+    if (error.code !== 'ENOENT') throw error;
+  }
+  for (const cat of actualCategories) {
     const dir = lang ? join(KNOWLEDGE, lang, cat) : join(KNOWLEDGE, cat);
     let files;
     try {
@@ -233,6 +282,17 @@ for (const lang of LANGS) {
       passedFiles++;
     }
   }
+}
+
+// Explicit paths must be consumed by the validator, never silently skipped.
+if (changedFiles) {
+  const eligible = [...changedFiles].filter(
+    (f) => f.endsWith('.md') && !basename(f).startsWith('_'),
+  );
+  if (totalFiles !== eligible.length)
+    errors.push(
+      `Selected ${eligible.length} article(s), scanned ${totalFiles}; check paths/category registry`,
+    );
 }
 
 // ── Report ──

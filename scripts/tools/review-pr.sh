@@ -8,7 +8,8 @@ cd "$(dirname "$0")/../.."
 RED='\033[0;31m'; YEL='\033[0;33m'; GRN='\033[0;32m'
 BLU='\033[0;34m'; DIM='\033[0;90m'; RST='\033[0m'
 
-VALID_CATS=()
+# resources is a legacy lowercase category, also accepted by test-frontmatter.mjs.
+VALID_CATS=("Resources")
 for category_dir in knowledge/[A-Z]*; do
   [[ -d "$category_dir" ]] && VALID_CATS+=("${category_dir##*/}")
 done
@@ -80,6 +81,7 @@ layer0() {
 # ════════════════════════════════════════
 layer1() {
   local f="$1"
+  local display="${2:-$f}"
   [[ ! -f "$f" ]] && echo "🔴 檔案不存在" && return 1
   local err=() wrn=()
 
@@ -100,16 +102,24 @@ layer1() {
     echo "$fm" | grep -q '^date:' || err+=("缺 date")
     echo "$fm" | grep -q '^tags:' || err+=("缺 tags")
     # featured: true rule — only enforced on ZH SSOT; translations mirror source
-    if is_translation_path "$f"; then
+    if is_translation_path "$display"; then
       echo "$fm" | grep -q '^translatedFrom:' || err+=("缺 translatedFrom")
     else
-      echo "$fm" | grep -q '^featured: true' && err+=("featured 不可 true")
+      if echo "$fm" | grep -qE '^featured:[[:space:]]*true([[:space:]]|$)'; then
+        # Preserve maintainer selections already present in the PR base.
+        # Missing/invalid base or a new selection fails closed.
+        local base_fm=""
+        if [[ -n "${PR_BASE_SHA:-}" ]]; then
+          base_fm=$(git show "${PR_BASE_SHA}:${display}" 2>/dev/null | awk '/^---$/{n++; next} n==1{print} n>=2{exit}') || base_fm=""
+        fi
+        echo "$base_fm" | grep -qE '^featured:[[:space:]]*true([[:space:]]|$)' || err+=("不可新增 featured: true（精選由維護者管理）")
+      fi
     fi
     # category from path
-    local cd; cd=$(category_from_path "$f")
+    local cd; cd=$(category_from_path "$display")
     if [[ -n "$cd" ]]; then
       local ok=false
-      for v in "${VALID_CATS[@]}"; do [[ "$cd" == "$v" ]] && ok=true && break; done
+      for v in "${VALID_CATS[@]}"; do [[ "$(printf '%s' "$cd" | tr '[:upper:]' '[:lower:]')" == "$(printf '%s' "$v" | tr '[:upper:]' '[:lower:]')" ]] && ok=true && break; done
       $ok || err+=("無效 category: $cd")
     fi
   fi
@@ -192,7 +202,7 @@ layer2() {
   (( lk < 1 )) && wrn+=("無參考連結")
 
   if (( ${#wrn[@]} > 0 )); then
-    echo "$hs_label（$(IFS=', '; echo "${wrn[*]}")）"; return 0
+    echo "${hs_label}（$(IFS=', '; echo "${wrn[*]}")）"; return 0
   else
     echo "$hs_label"; return 0
   fi
@@ -282,7 +292,7 @@ review_with_display() {
     return
   fi
 
-  local r1; r1=$(layer1 "$f"); REPORT+="  L1 格式：${r1}\n"
+  local r1; r1=$(layer1 "$f" "$d"); REPORT+="  L1 格式：${r1}\n"
   if [[ "$r1" =~ ^🔴 ]]; then STATUS="FAIL"; else L1=$((L1+1)); fi
 
   local r2; r2=$(layer2 "$f"); REPORT+="  L2 品質：${r2}\n"

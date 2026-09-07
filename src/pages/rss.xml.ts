@@ -1,15 +1,23 @@
+import type { APIContext } from 'astro';
+import { ALL_LANGUAGE_CODES } from '../config/languages';
 import rss from '@astrojs/rss';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-export async function GET(context) {
+export async function GET(context: APIContext) {
   // 掃描 knowledge/ 下所有文章
   const knowledgeDir = path.join(process.cwd(), 'knowledge');
-  const articles = [];
+  const articles: Array<{
+    title: string;
+    description: string;
+    pubDate: Date;
+    link: string;
+    category: string;
+  }> = [];
 
   // 遞迴掃描
-  function scanDir(dir, category = '') {
+  function scanDir(dir: string, category = '') {
     const files = fs.readdirSync(dir);
     for (const file of files) {
       const full = path.join(dir, file);
@@ -17,7 +25,7 @@ export async function GET(context) {
       if (
         stat.isDirectory() &&
         !file.startsWith('_') &&
-        file !== 'en' &&
+        !ALL_LANGUAGE_CODES.some((code) => code === file) &&
         file !== 'about'
       ) {
         scanDir(full, file);
@@ -44,7 +52,7 @@ export async function GET(context) {
   scanDir(knowledgeDir);
 
   // 按日期排序，取最新 50 篇
-  articles.sort((a, b) => b.pubDate - a.pubDate);
+  articles.sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
 
   return rss({
     title: 'Taiwan.md — 開源台灣知識庫',

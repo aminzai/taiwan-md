@@ -1,3 +1,4 @@
+import type { Renderer } from 'marked';
 /**
  * semiont-newsroom.ts — Parser for per-article "making-of" pages
  *
@@ -81,7 +82,7 @@ const ROOM_ORDER: Record<string, number> = {
 
 // ── Markdown rendering (mirrors src/lib/semiont-diary.ts conventions) ──
 
-function createRenderer(): marked.Renderer {
+function createRenderer(): Renderer {
   const renderer = new marked.Renderer();
 
   // tokens → parseInline（同 article-render.ts）：`text` 是未解析原文，

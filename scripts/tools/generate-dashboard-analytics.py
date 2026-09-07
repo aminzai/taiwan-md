@@ -29,7 +29,7 @@ from __future__ import annotations
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
@@ -48,6 +48,27 @@ def load_json(path: Path):
     except Exception as e:
         print(f"⚠️  Cannot parse {path}: {e}", file=sys.stderr)
         return None
+
+
+def source_provenance(raw, previous=None, now=None):
+    """Build time is not fetch time. Old offset-less receipts are explicitly unknown."""
+    now = now or datetime.now(timezone.utc)
+    previous = previous or {}
+    if not isinstance(raw, dict) or raw.get('error'):
+        return {**previous, 'status': 'missing' if not raw else 'error',
+                'error': 'cache unavailable' if not raw else str(raw['error'])}
+    fetched = raw.get('fetched_at')
+    through = (raw.get('period') or {}).get('end')
+    status = 'unknown'
+    try:
+        dt = datetime.fromisoformat(fetched.replace('Z', '+00:00'))
+        if dt.tzinfo is not None:
+            age = (now - dt).total_seconds()
+            status = 'fresh' if 0 <= age <= 48 * 3600 else 'stale'
+    except (TypeError, ValueError, AttributeError):
+        pass
+    return {'fetchedAt': fetched, 'dataThrough': through, 'status': status,
+            'error': None if status != 'unknown' else 'missing or offset-less fetch timestamp'}
 
 
 def parse_ga_metric(row, name):
@@ -210,7 +231,7 @@ def dedup_pages(rows, title_from="most_views"):
 
 
 def build_ga_section(ga_raw):
-    if not ga_raw:
+    if not ga_raw or ga_raw.get('error'):
         return None
     period = ga_raw.get("period", {})
 
@@ -279,7 +300,7 @@ def _is_brand_query(q_str):
 
 
 def build_sc_7d_section(sc_raw):
-    if not sc_raw:
+    if not sc_raw or sc_raw.get('error'):
         return None
     period = sc_raw.get("period", {})
     totals = sc_raw.get("totals", {})
@@ -458,6 +479,11 @@ def build_ai_crawlers_dashboard(ai_raw):
         "crawlers": crawlers_simple,
         "period": ai_raw.get("period"),
     }
+    for key in ('http3xx', 'http4xx', 'http5xx', 'successRateExcl3xx'):
+        out[key] = totals.get(key)  # missing is unknown, not zero
+    for source, crawler in zip(crawlers_raw, crawlers_simple):
+        for key in ('http3xx', 'http4xx', 'http5xx', 'successRateExcl3xx'):
+            crawler[key] = source.get(key)
     # 主權巴別塔 per-language gauge（audit 2026-06-10 A-9）：AI 在各語言讀了
     # 多少 Taiwan.md — 翻譯 infrastructure 的真正 KPI。Pass-through，cache 有才有。
     if ai_raw.get("perLanguage"):
@@ -471,7 +497,7 @@ def build_cloudflare_section(cf_raw, preserve_ai_crawlers=None):
     httpRequestsAdaptiveGroups userAgent grouping), it takes precedence.
     Otherwise falls back to the preserved stale copy from cloudflare24h.
     """
-    if not cf_raw:
+    if not cf_raw or cf_raw.get('error'):
         return None
     period = cf_raw.get("period", {})
     summary = cf_raw.get("summary", {}) or {}
@@ -599,7 +625,21 @@ def main():
     else:
         print("⚠️  Skipping cloudflare7d — no cache data", file=sys.stderr)
 
-    existing["lastUpdated"] = datetime.now().isoformat()
+    now = datetime.now(timezone.utc)
+    existing['generatedAt'] = now.isoformat()
+    old_sources = existing.get('sourceFreshness', {})
+    existing['sourceFreshness'] = {
+        key: source_provenance(raw, old_sources.get(key), now)
+        for key, raw in [('ga', ga_raw), ('searchConsole7d', sc_raw), ('cloudflare7d', cf_raw)]
+    }
+    # Compatibility field now represents a source observation, never a rebuild.
+    timestamps = [v['fetchedAt'] for v in existing['sourceFreshness'].values()
+                  if v.get('fetchedAt') and v['status'] in ('fresh', 'stale')]
+    if timestamps:
+        existing['lastUpdated'] = max(timestamps)
+    if cf_section:
+        cf_section['aiCrawlersStale'] = cf_section.get('aiCrawlersStale', False) or existing['sourceFreshness']['cloudflare7d']['status'] != 'fresh'
+
 
     # Preserve existing 'sourcesUsed' and add an entry for this run
     sources = existing.get("sourcesUsed", [])

@@ -1,0 +1,52 @@
+name: Engineering contracts
+on:
+  pull_request:
+    paths: ['docs/semiont/harvest/**', 'tsconfig.json', 'astro.config.mjs', 'src/**', 'scripts/**', 'tests/**', 'workers/**', 'supabase/**', 'config/**', 'package*.json', '.github/workflows/**']
+  push:
+    branches: [main]
+    paths: ['docs/semiont/harvest/**', 'tsconfig.json', 'astro.config.mjs', 'src/**', 'scripts/**', 'tests/**', 'workers/**', 'supabase/**', 'config/**', 'package*.json', '.github/workflows/**']
+permissions:
+  contents: read
+jobs:
+  contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci --ignore-scripts --no-audit
+      - run: npm audit --audit-level=high
+      - run: npm run test:contracts
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install PyYAML==6.0.3 pytest==9.1.1
+      - run: python -m pytest tests -q
+      - run: npm run prebuild:fork-graph
+      - run: npm run check:types
+      - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm run check && npm run build
+        working-directory: docs/semiont/harvest/ui
+      - run: npm ci --ignore-scripts && npm audit --audit-level=high && npx tsc --noEmit
+        working-directory: docs/semiont/harvest/backend
+      - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm test
+        working-directory: workers/mcp
+  feedback-db:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_PASSWORD: test-only
+        ports: ['5432:5432']
+        options: --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install 'psycopg[binary]==3.3.5'
+      - run: python tests/feedback/database.test.py
+        env:
+          TWMD_TEST_DATABASE_URL: postgresql://postgres:test-only@localhost:5432/postgres

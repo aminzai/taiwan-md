@@ -1,3 +1,4 @@
+import type { Renderer } from 'marked';
 /**
  * semiont-weekly.ts — Parser for Semiont weekly reports
  *
@@ -134,7 +135,7 @@ function rewriteHref(href: string): string {
 
 // ── Markdown rendering ─────────────────────────────────
 
-function createRenderer(): marked.Renderer {
+function createRenderer(): Renderer {
   const renderer = new marked.Renderer();
 
   // tokens → parseInline（同 article-render.ts）：`text` 是未解析原文，

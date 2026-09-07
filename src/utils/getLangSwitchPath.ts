@@ -8,7 +8,7 @@ import { staticPageExists, getCategorySlugs } from './staticRoutes';
 // 從 LANGUAGES_REGISTRY 動態 derive 非預設啟用語言清單，
 // 對應 MANIFESTO §指標 over 複寫 + REFLEXES #20 architecture-as-data。
 const NON_DEFAULT_ENABLED_LANGS = LANGUAGES.filter(
-  (l) => l.enabled && !l.isDefault,
+  (l) => l.enabled && !('isDefault' in l && l.isDefault),
 ).map((l) => l.code) as readonly Lang[];
 
 const ALL_ENABLED_LANGS = LANGUAGES.filter((l) => l.enabled).map(

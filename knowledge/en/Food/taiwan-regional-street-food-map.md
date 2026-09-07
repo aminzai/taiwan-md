@@ -1,4 +1,7 @@
 ---
+translatedFrom: 'Food/台灣小吃.md'
+originalTranslatedFrom: 'Food/台灣地方小吃地圖.md'
+translationNeedsSync: true
 title: 'Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood'
 description: 'A bowl of Keelung ding-bian-cu chronicles the wandering of Fujian fishermen; a Changhua ba-wan witnesses Qing Dynasty settlers innovation. 22 counties, 22 survival wisdoms—Taiwan regional food is not just cuisine, its a migration history carved into the land.'
 date: 2026-03-24
@@ -16,9 +19,11 @@ featured: true
 category: 'Food'
 lastVerified: 2026-03-24
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/b/bb/DuSiaoYue_danzai_noodle_by_Prince_Roy_in_Tainan%2C_Taiwan.jpg'
+image: '/article-images/food/danzi-noodle-tainan.webp'
 imageAlt: 'Tainan Dan-Zai Noodles'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Shoestring（Wikivoyage） / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Danzi_noodle,_Tainan,_Taiwan.jpg'
 ---
 
 # Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood
@@ -199,3 +204,7 @@ This is a living map, a migration history still being written, a cultural geneti
 - [Taiwan's Top 10 Popular Street Foods - Number Taiwan](https://taiwandatastories.com/zh/taiwan-street-food/)
 - [Taiwanese Cuisine - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%96%99%E7%90%86)
 - [Taiwan Street Food - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83)
+
+## Image Sources
+
+- Shoestring（Wikivoyage） / Wikimedia Commons — [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Danzi_noodle,_Tainan,_Taiwan.jpg).

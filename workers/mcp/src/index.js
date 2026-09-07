@@ -27,7 +27,7 @@ const PROTOCOL_VERSION = '2024-11-05';
 
 const REAL_CATEGORIES = new Set([
   'About', 'Art', 'Culture', 'Economy', 'Food', 'Geography', 'History',
-  'Lifestyle', 'Music', 'Nature', 'People', 'Society', 'Technology', 'Resources',
+  'Lifestyle', 'Music', 'Nature', 'People', 'Politics', 'Society', 'Technology', 'Resources',
 ]);
 
 const CORS = {
@@ -38,14 +38,20 @@ const CORS = {
 
 // ── Module-global caches (warm across requests on the same isolate) ─────────
 let _articles = null; // zh-TW (SSOT) entries only
-let _bodies = new Map(); // slug → { frontmatter, body }
+const CACHE_TTL = 30 * 60 * 1000;
+const MAX_BODIES = 128;
+let _articlesExpires = 0;
+let _bodies = new Map(); // full path → successful body + expiration
 
 async function getArticles() {
-  if (_articles) return _articles;
+  if (_articles && Date.now() < _articlesExpires) return _articles;
   const res = await fetch(`${API_BASE}/api/articles.json`, {
     cf: { cacheTtl: 1800, cacheEverything: true },
+    signal: AbortSignal.timeout(10000),
   });
+  if (!res.ok) throw new Error(`Article index unavailable (HTTP ${res.status})`);
   const all = await res.json();
+  if (!Array.isArray(all)) throw new Error('Invalid article index');
   // articles.json mixes all languages; translations carry category = lang code.
   // The zh-TW SSOT entries are those whose category is a real category folder.
   _articles = all
@@ -63,6 +69,8 @@ async function getArticles() {
         slug,
       };
     });
+  _articlesExpires = Date.now() + CACHE_TTL;
+  _bodies.clear();
   return _articles;
 }
 
@@ -75,16 +83,16 @@ function rawUrlFor(article) {
 }
 
 async function getBody(article) {
-  if (_bodies.has(article.slug)) return _bodies.get(article.slug);
-  let raw = '';
-  try {
-    const res = await fetch(rawUrlFor(article), {
-      cf: { cacheTtl: 1800, cacheEverything: true },
-    });
-    if (res.ok) raw = await res.text();
-  } catch {
-    /* leave raw empty */
-  }
+  const cached = _bodies.get(article.path);
+  if (cached && Date.now() < cached.expires) return cached.value;
+  _bodies.delete(article.path);
+  const res = await fetch(rawUrlFor(article), {
+    cf: { cacheTtl: 1800, cacheEverything: true },
+    signal: AbortSignal.timeout(10000),
+  });
+  if (!res.ok) throw new Error(`Article unavailable (HTTP ${res.status}): ${article.path}`);
+  const raw = await res.text();
+  if (!raw.trim()) throw new Error(`Empty article: ${article.path}`);
   // Split YAML frontmatter from body.
   let frontmatter = {};
   let body = raw;
@@ -97,7 +105,8 @@ async function getBody(article) {
     }
   }
   const out = { frontmatter, body };
-  _bodies.set(article.slug, out);
+  if (_bodies.size >= MAX_BODIES) _bodies.delete(_bodies.keys().next().value);
+  _bodies.set(article.path, { value: out, expires: Date.now() + CACHE_TTL });
   return out;
 }
 
@@ -126,6 +135,7 @@ function searchArticles(articles, query, limit) {
   return scored.slice(0, limit).map(({ a }) => ({
     title: a.title,
     slug: a.slug,
+    path: a.path,
     category: a.category,
     description: a.description,
     url: a.url,
@@ -133,11 +143,13 @@ function searchArticles(articles, query, limit) {
 }
 
 function findBySlug(articles, slug) {
-  return (
-    articles.find((a) => a.slug === slug) ||
-    articles.find((a) => a.slug.includes(slug)) ||
-    articles.find((a) => (a.title || '').includes(slug))
-  );
+  if (typeof slug !== 'string' || !slug.trim()) throw new Error('A non-empty slug or full path is required');
+  const exactPath = articles.find(a => a.path === slug);
+  if (exactPath) return exactPath;
+  let matches = articles.filter(a => a.slug === slug);
+  if (!matches.length) matches = articles.filter(a => a.slug.includes(slug) || (a.title || '').includes(slug));
+  if (matches.length > 1) throw new Error(`Ambiguous article; use full path: ${matches.map(a => a.path).join(', ')}`);
+  return matches[0];
 }
 
 // ── Tool implementations (mirror cli/src/lib/mcp-server.js) ─────────────────
@@ -161,7 +173,7 @@ async function toolRag({ query, limit = 3 }) {
   const hits = searchArticles(articles, query, limit);
   const sections = [];
   for (let i = 0; i < hits.length; i++) {
-    const a = findBySlug(articles, hits[i].slug);
+    const a = findBySlug(articles, hits[i].path);
     if (!a) continue;
     const { frontmatter, body } = await getBody(a);
     sections.push(`## ${i + 1}. ${frontmatter.title || a.title} (${a.category})\n\n${body}`);
@@ -177,7 +189,7 @@ async function toolCite({ query, limit = 3 }) {
   const claims = [];
   const fnDefRe = /^\[\^([\w-]+)\]:\s*(?:\[([^\]]+)\]\(([^)]+)\))?\s*(?:—\s*(.+))?/gm;
   for (const hit of hits.slice(0, 5)) {
-    const a = findBySlug(articles, hit.slug);
+    const a = findBySlug(articles, hit.path);
     if (!a) continue;
     const { frontmatter, body } = await getBody(a);
     const defs = {};
@@ -209,6 +221,7 @@ async function toolOrgans() {
   const res = await fetch(`${API_BASE}/api/dashboard-organism.json`, {
     cf: { cacheTtl: 900, cacheEverything: true },
   });
+  if (!res.ok) throw new Error(`Organ data unavailable (HTTP ${res.status})`);
   return text(await res.text());
 }
 
@@ -270,6 +283,9 @@ function text(t, isError = false) {
 
 // ── JSON-RPC dispatch ───────────────────────────────────────────────────────
 async function handleRpc(msg) {
+  if (!msg || typeof msg !== 'object' || Array.isArray(msg) || msg.jsonrpc !== '2.0' || typeof msg.method !== 'string') {
+    return { jsonrpc: '2.0', id: null, error: { code: -32600, message: 'Invalid Request' } };
+  }
   const { id, method, params } = msg;
   const ok = (result) => ({ jsonrpc: '2.0', id, result });
   const err = (code, message) => ({ jsonrpc: '2.0', id, error: { code, message } });
@@ -328,6 +344,7 @@ export default {
     }
     // Support batched requests.
     if (Array.isArray(payload)) {
+      if (!payload.length || payload.length > 20) return json({jsonrpc:'2.0',id:null,error:{code:-32600,message:'Batch must contain 1–20 requests'}},400);
       const out = [];
       for (const m of payload) {
         const r = await handleRpc(m);

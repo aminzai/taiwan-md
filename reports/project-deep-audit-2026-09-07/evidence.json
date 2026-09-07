@@ -1,0 +1,40 @@
+{
+  "baseSha": "3eed2bfdbbbe419b48466461761a94f233c5db2a",
+  "scope": "read-only audit; article-health ci-deploy zh-TW scan; no build or production DB test",
+  "articleHealth": {
+    "files": 1121,
+    "hardFiles": 0,
+    "violations": {
+      "info": 12727,
+      "warn": 23889
+    },
+    "zeroBodyLinks": 957
+  },
+  "tests": {
+    "python": {
+      "passed": 425,
+      "skipped": 8
+    },
+    "markdown": {
+      "passed": 8
+    },
+    "headingId": {
+      "passed": 13
+    },
+    "feedback": {
+      "passed": 63
+    },
+    "frontmatter": {
+      "files": 10101,
+      "errors": 4,
+      "warnings": 12
+    }
+  },
+  "mcpMock": {
+    "upstreamFirst": 503,
+    "upstreamSubsequentAvailable": true,
+    "bodyFetchCallsAfterTwoReads": 1,
+    "bothBodiesEmpty": true,
+    "errorFlagPresent": false
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "taiwanmd-mcp",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-07",
+  "workers_dev": true,
+  "routes": [{ "pattern": "mcp.taiwan.md", "custom_domain": true }],
+  "observability": { "enabled": true }
+}

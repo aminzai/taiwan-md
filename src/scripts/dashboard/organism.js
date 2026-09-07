@@ -153,7 +153,7 @@ function renderOrganism(data) {
             <span class="organ-emoji">${o.emoji}</span>
             <span class="organ-name">${isEn ? o.name : o.nameZh}</span>
           </div>
-          <div class="organ-metaphor">${o.metaphor}</div>
+          <div class="organ-metaphor">${o.metaphor}${o.scoreKind === 'capability-indicator' ? (isEn ? ' · capability indicator' : ' · 能力指標，非執行健康') : ''}</div>
           <div class="organ-score-row">
             <div class="organ-score" data-score="${o.score}" style="color:${barColor}">${o.score}</div>
             <span class="organ-trend ${trendClass}">${trendIcon}</span>

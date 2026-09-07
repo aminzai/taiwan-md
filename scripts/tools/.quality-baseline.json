@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-06T22:13:41Z",
+  "timestamp": "2026-09-07T09:55:35Z",
   "total": 1121,
-  "flagged": 715,
+  "flagged": 714,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -38,11 +38,6 @@
       "file": "music/台灣獨立音樂.md",
       "score": 6,
       "reasons": "未人工審核; 塑膠句1個; 英式短句開場10處; 引用荒漠(零腳註)"
-    },
-    {
-      "file": "music/當代原住民創作歌手.md",
-      "score": 4,
-      "reasons": "連續bullet7行; 分號11個"
     },
     {
       "file": "music/台灣嘻哈與饒舌發展.md",

@@ -28,9 +28,8 @@ needed). The free plan's 100k requests/day is plenty for a read-only endpoint.
 
 ### Optional: serve at `mcp.taiwan.md`
 
-Only if `taiwan.md`'s DNS is on Cloudflare. Uncomment the `[[routes]]` block in
-`wrangler.toml` (or add a **Custom Domain** in the CF dashboard → Workers →
-taiwanmd-mcp → Settings → Domains), then `npx wrangler deploy` again.
+The existing `mcp.taiwan.md` custom domain is declared in the `routes` array in
+`wrangler.jsonc`. Keep this binding when deploying with `npx wrangler deploy`.
 
 ## Local test
 
@@ -61,3 +60,10 @@ claude mcp add taiwanmd-remote -- npx -y mcp-remote https://taiwanmd-mcp.<your-s
 Tell the page: update the FAQ answer "有遠端 endpoint 嗎 / Is there a remote
 endpoint?" in `src/data/mcp-content.ts` (6 langs) with the live URL, and add a
 remote-install card if desired.
+
+
+## Cache and deployment validation (2026-09-07)
+
+Only successful, non-empty article responses enter the cache. Metadata and article bodies expire after 30 minutes; body keys use complete category paths. Ambiguous slugs return an error and search results include the unambiguous path. Failed upstream requests are retried on the next request. JSON-RPC rejects invalid messages and batches outside 1–20 requests.
+
+Run `npm ci`, `npm test`, then `npx wrangler deploy --dry-run`. The committed Wrangler dependency and lockfile fix CLI reproducibility. Production uses the existing `taiwanmd-mcp` Worker and `mcp.taiwan.md` custom domain. Verify initialize plus a real search after deploy; record the returned deployment version separately. Commands checked against [Cloudflare Wrangler documentation](https://developers.cloudflare.com/workers/wrangler/commands/).

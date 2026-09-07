@@ -13,7 +13,7 @@ const safeMatter = (fileContent: string) => {
   try {
     return matter(fileContent);
   } catch {
-    return { data: {}, content: '' };
+    return { data: {} as Record<string, any>, content: '' };
   }
 };
 
@@ -84,7 +84,7 @@ export async function getStaticPaths() {
     try {
       return matter(fileContent);
     } catch {
-      return { data: {}, content: '' };
+      return { data: {} as Record<string, any>, content: '' };
     }
   };
   const paths: any[] = [];

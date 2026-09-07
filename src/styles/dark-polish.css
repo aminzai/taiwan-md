@@ -384,7 +384,7 @@
  *
  * CategoryGrid 的卡片頭部背景是元件自帶的一組 pastel 漸層（硬寫在
  * CategoryGrid.astro 的 data array，跟 tokens.css 的 --cat-*-gradient
- * 是兩套不同調色盤，見該檔 line 50 的 token-convergence TODO）。那組
+ * 現已共用 --cat-* 色彩 token）。那組
  * 漸層是為亮底調的，整片貼到近黑頁面上會亮得跳出來，issue #1212 §4.3
  * 說的就是這件事。
  *
