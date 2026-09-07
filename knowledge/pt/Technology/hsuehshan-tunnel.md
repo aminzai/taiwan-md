@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '9ecd20d61'
-sourceContentHash: 'sha256:9e7ddff3899aaa85'
-sourceBodyHash: 'sha256:909022379c9cd8a0'
-translatedAt: '2026-07-28T06:15:59+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:bafa69de0246ccbe'
+sourceBodyHash: 'sha256:d9ab34ee59f266bc'
+translatedAt: '2026-09-07T19:20:47.923245+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -68,13 +68,13 @@ Em 16 de setembro de 2004, o presidente Chen Shui-bian presidiu a cerimônia de 
 
 Contudo, a conclusão não significou o fim. A posterior melhoria dos sistemas eletromecânicos e de controle de tráfego consumiu quase mais dois anos. O então ministro dos Transportes, Lin Ling-san (林陵三), sofreu imensa pressão política devido aos repetidos adiamentos na inspeção final, chegando a ser ironizado por legisladores por "ser realista demais com o premier Hsieh Chang-ting" [^6]. Mas para os engenheiros, a segurança era o único critério; insistiram em abrir ao tráfego apenas após garantir total ausência de riscos.
 
-## Os 25 nomes dos que tombaram: o monumento na Área de Serviço Shiding
+## Os nomes dos 25 falecidos: o monumento na Área de Serviço de Shiding
 
-Hoje, quando cruzamos o túnel com ar-condicionado, ouvindo o rádio, e levamos apenas cerca de 40 minutos para atravessar a Cordilheira Hsuehshan, poucos reparam que, num canto da Área de Serviço Shiding na Freeway No. 5, ergue-se o "Monumento aos Falecidos na Construção da Autoestrada Norte-Yilan".
+Hoje, quando você atravessa a cordilheira Hsuehshan em cerca de 40 minutos, com ar-condicionado e ouvindo os anúncios no interior do túnel, pouca gente repara que, num canto da Área de Serviço de Shiding na Freeway No. 5, ergue-se o "Monumento aos Falecidos na Construção da Autoestrada Norte-Yilan".
 
-Este monumento homenageia os 25 trabalhadores que perderam a vida durante a construção da Autoestrada Norte-Yilan (incluindo o Túnel Hsuehshan). Entre eles, 12 engenheiros taiwaneses e 13 trabalhadores tailandeses [^11]. Embora o total da autoestrada some 25 vítimas fatais, cerca de 13 pereceram diretamente nas obras do Túnel Hsuehshan [^19]. Alguns foram soterrados por colapso de rocha, outros arrastados pelo jorro de água sob alta pressão, outros ainda sucumbiram à exaustão pelo ar rarefeito e calor extremo no interior do túnel.
+Este monumento homenageia os 25 trabalhadores que perderam a vida durante a construção da Autoestrada Norte-Yilan (incluindo o Túnel Hsuehshan). Entre eles, 12 eram engenheiros locais e 13, trabalhadores tailandeses [^11]. Embora o total de vítimas fatais em toda a obra da Autoestrada Norte-Yilan seja 25, cerca de 13 faleceram diretamente nos trabalhos do Túnel Hsuehshan [^19]. Alguns foram soterrados por desabamentos, outros levados por irrupções de água sob alta pressão, e há ainda quem tenha sucumbido à exaustão causada pelo ar insalubre e pelo calor extremo no interior do túnel.
 
-O monumento foi esculpido no quartzo-arenito tetraédrico — a rocha mais dura do Hsuehshan —, simbolizando a dureza do desafio; seu formato inspira-se no emblema do Bureau de Engenharia Nacional e na Ilha Guishan (龜山島), e a epígrafe traz os nomes de todos os falecidos e o resumo da obra [^15]. Essas 25 vidas são a nota de rodapé mais pesada da inauguração do Hsuehshan. A conclusão deste túnel deve-se à técnica de engenharia, mas também ao risco assumido por incontáveis profissionais nas entranhas escuras da montanha.
+O monumento foi esculpido no "quartzo-arenito tetraédrico" mais duro do Túnel Hsuehshan, simbolizando a dificuldade e o desafio da obra; seu formato inspira-se no emblema da Direção de Autoestradas e na [Ilha Gueishan](/pt/geography/gueishan-island/), e a inscrição traz os nomes de todos os falecidos e um resumo da obra [^15]. Estas 25 vidas são a nota de rodapé mais pesada da inauguração do Túnel Hsuehshan. A conclusão deste túnel deve-se à tecnologia de engenharia, mas também ao risco assumido por incontáveis profissionais nas trevas do subsolo.
 
 ## Yilan após a inauguração: o preço e o ganho da "terceira revolução"
 
