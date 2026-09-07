@@ -8044,15 +8044,7 @@
     "title": "台灣人工智慧發展與未來策略：硬體入場券拿到了，下一場仗在哪",
     "description": "2024 年 10 月 8 日諾貝爾物理頒給 Hopfield 與 Hinton，隔天化學頒給 AlphaFold 三人。同年 5 月 29 日，黃仁勳在台北寧夏夜市跟張忠謀吃蚵仔煎。台灣製造了全球 90% 的 AI 伺服器、72% 的先進晶圓，卻在 42 年神經網路與 50 年蛋白質摺疊難題的解答裡缺席。從 PTT 創辦人杜奕瑾的 Taiwan AI Labs 到國科會押注的繁中 LLM 模型 TAIDE，這座島只當代工廠還夠嗎？",
     "category": "Technology",
-    "tags": [
-      "人工智慧",
-      "AI",
-      "半導體",
-      "科技政策",
-      "數位轉型",
-      "諾貝爾獎",
-      "AlphaFold"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%99%BC%E5%B1%95%E8%88%87%E6%9C%AA%E4%BE%86%E7%AD%96%E7%95%A5",
     "readingTime": 73,
     "featured": true,
@@ -8337,18 +8329,7 @@
     "title": "台灣月老地圖：找對象前先挑廟，這座島養著至少十個分工不同的月老",
     "description": "在台灣求姻緣有個前提很多人不知道：月老不是只有一位。台南四大月老分管求姻緣、求穩定、斬桃花、求復合，台中樂成宮 1753 年的老廟以復合靈驗聞名，新北威明堂兔兒神專管同志姻緣，霞海、龍山寺、鹿港天后宮各有專長。信徒寫「擇偶條件」越詳細越好，因為留空，月老就有漏洞可鑽。",
     "category": "Society",
-    "tags": [
-      "月老",
-      "月老廟",
-      "民俗信仰",
-      "求姻緣",
-      "霞海城隍廟",
-      "艋舺龍山寺",
-      "府城四大月老",
-      "威明堂",
-      "兔兒神",
-      "樂成宮"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E6%9C%88%E8%80%81%E5%9C%B0%E5%9C%96",
     "readingTime": 28,
     "featured": false,
@@ -12798,14 +12779,7 @@
     "title": "巧固球：台湾の隠れた43年間の世界チャンピオン",
     "description": "1977年、ある台湾の教授がイギリスからネット一式を持ち帰り、スイス発明の「紳士の球技」が台湾の校園に根付くきっかけとなりました。40余年後、台湾代表が世界ランキング1位を維持し、国際連盟本部が高雄に置かれていますが、依然として多くの台湾人にとって馴染みの薄いマイナー競技のままです。",
     "category": "ja",
-    "tags": [
-      "巧固球",
-      "Tchoukball",
-      "台湾スポーツ",
-      "紳士の球技",
-      "世界チャンピオン",
-      "校園体育"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/culture/tchoukball-in-taiwan",
     "readingTime": 10,
     "featured": false,
@@ -24046,7 +24020,7 @@
       "Yahoo"
     ],
     "url": "https://taiwan.md/ja/people/jerry-yang-yahoo-cofounder",
-    "readingTime": 16,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-04-29",
     "path": "ja/People/jerry-yang-yahoo-cofounder.md"
@@ -24236,7 +24210,7 @@
   },
   {
     "title": "當代原住民創作歌手",
-    "description": "從張惠妹到舒米恩、桑布伊，台灣原住民歌手如何在現代音樂中傳承古老靈魂，創造獨特的當代原住民音樂風景",
+    "description": "陳建年的《海洋》使用卑南語與華語，舒米恩把創作連回都蘭的文化教育，阿爆則讓排灣語進入當代流行製作。從張惠妹、王宏恩到桑布伊與以莉高露，本文比較不同音樂人的作品與聆聽入口，並對照金曲獎的專輯、歌手及歌曲獎項，理解族語、生活經驗與錄音技術如何交會，而不把多個族群概括為同一種聲音。",
     "category": "Music",
     "tags": [
       "原住民歌手",
@@ -24246,7 +24220,7 @@
       "當代創作"
     ],
     "url": "https://taiwan.md/music/%E7%95%B6%E4%BB%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%89%B5%E4%BD%9C%E6%AD%8C%E6%89%8B",
-    "readingTime": 27,
+    "readingTime": 32,
     "featured": true,
     "date": "2026-03-18",
     "path": "Music/當代原住民創作歌手.md"
@@ -47912,7 +47886,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/food/handmade-taiwanese-cuisine",
-    "readingTime": 42,
+    "readingTime": 45,
     "featured": true,
     "date": "2026-03-31",
     "path": "en/Food/handmade-taiwanese-cuisine.md"
@@ -78271,14 +78245,7 @@
     "title": "Taiwan's Energy Transition and Green Energy Industries",
     "description": "From reliance on nuclear power to a diversified renewable mix, how Taiwan is reshaping its energy structure on the road to net zero by 2050",
     "category": "en",
-    "tags": [
-      "energy transition",
-      "renewable energy",
-      "offshore wind",
-      "solar power",
-      "net zero 2050",
-      "green energy industry"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/economy/taiwan-energy-transition-and-green-industry",
     "readingTime": 55,
     "featured": false,

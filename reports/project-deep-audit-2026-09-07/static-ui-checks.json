@@ -1,0 +1,35 @@
+{
+  "builtAt": "2026-09-07T18:08:53+08:00",
+  "checks": [
+    {
+      "page": "/en/",
+      "viewport": 1280,
+      "scrollWidth": 1280,
+      "svgCount": 135
+    },
+    {
+      "page": "/ar/",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "dir": "rtl",
+      "svgCount": 135,
+      "consoleErrors": []
+    },
+    {
+      "page": "/food/",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "svgCount": 308,
+      "consoleErrors": []
+    },
+    {
+      "page": "/",
+      "viewport": 390,
+      "scrollWidth": 390,
+      "svgCount": 161,
+      "fullReadingMinutes": 76,
+      "detailsExpanded": true
+    }
+  ],
+  "viewportReset": true
+}

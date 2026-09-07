@@ -1,8 +1,107 @@
 {
-  "_generated": "2026-09-07T09:32:15.157Z",
+  "_generated": "2026-09-07T09:55:53.035Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，最老和最年輕差一個世代",
+        "desc": "同一座島，人口密度最高的臺北市每平方公里 8,975 人，最低的臺東縣只有 59 人，差 151 倍。人口最多的新北市 404 萬，最少的連江縣 1.36 萬，差 297 倍。最年輕的新竹縣高齡化率 15.08%，最老的嘉義縣 24.11%，差將近一個世代。用內政部戶政司 2025 年底的官方數據，替整座島畫一張有刻度、可查證的肖像：七成的人擠在三成的土地，老化的前緣不在都市而在東部、離島與農業縣，而全台 22 個縣市無一例外，死亡都已經多過出生。",
+        "category": "geography",
+        "href": "/geography/%E7%94%A8%E6%95%B8%E6%93%9A%E7%9C%8B%E5%8F%B0%E7%81%A322%E7%B8%A3%E5%B8%82",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 13,
+        "image": "/article-images/geography/taiwan-island-nasa-mosaic.webp"
+      },
+      {
+        "title": "無名小站：撿來的電腦，賣掉的青春，和一場沒人送葬的消失",
+        "desc": "1999 年交大宿舍，六個資工系學生用系上報廢的設備拼出一個叫「無名」的 BBS。它長成全台最大的部落格、台灣第一代創作者的搖籃，2008 年甚至爬到 Yahoo 頭上成為第一大網站。然後 Yahoo 把它買走，2013 年 12 月 26 日那晚連同一代人的相簿一起刪掉，如今多數人只撈得回打不開的空相簿。它被記成青春，但那個青春從頭就放在別人關得掉的伺服器上。",
+        "category": "culture",
+        "href": "/culture/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
+      },
+      {
+        "title": "當代原住民創作歌手",
+        "desc": "陳建年的《海洋》使用卑南語與華語，舒米恩把創作連回都蘭的文化教育，阿爆則讓排灣語進入當代流行製作。從張惠妹、王宏恩到桑布伊與以莉高露，本文比較不同音樂人的作品與聆聽入口，並對照金曲獎的專輯、歌手及歌曲獎項，理解族語、生活經驗與錄音技術如何交會，而不把多個族群概括為同一種聲音。",
+        "category": "music",
+        "href": "/music/%E7%95%B6%E4%BB%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%89%B5%E4%BD%9C%E6%AD%8C%E6%89%8B",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
+        "desc": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
+        "category": "technology",
+        "href": "/technology/mini-taiwan-pulse",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
+      },
+      {
+        "title": "台灣 BIM 與營建科技：政府推十二年的因案制宜，被一個十八個月的 protocol 改寫",
+        "desc": "2014 年 5 月 23 日，行政院公共工程委員會掛牌「公共工程運用 BIM 推動平台」，採用「因案制宜、循序漸進」八字方針。十一年又七個月後，一位在東京工作的台灣開發者把名為 REVIT_MCP_study 的倉庫推上 GitHub，七十多顆星、八十多個 fork。中間那十二年，台灣建築業走過了從手繪曬圖到 3D 模型、從個別嘗試到國家標準、從工具升級到職業重定義的長路。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3BIM%E8%88%87%E7%87%9F%E5%BB%BA%E7%A7%91%E6%8A%80",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 22,
+        "image": "/article-images/technology/freecad-bim-example-2024.webp"
+      },
+      {
+        "title": "台灣人工智慧發展與未來策略：硬體入場券拿到了，下一場仗在哪",
+        "desc": "2024 年 10 月 8 日諾貝爾物理頒給 Hopfield 與 Hinton，隔天化學頒給 AlphaFold 三人。同年 5 月 29 日，黃仁勳在台北寧夏夜市跟張忠謀吃蚵仔煎。台灣製造了全球 90% 的 AI 伺服器、72% 的先進晶圓，卻在 42 年神經網路與 50 年蛋白質摺疊難題的解答裡缺席。從 PTT 創辦人杜奕瑾的 Taiwan AI Labs 到國科會押注的繁中 LLM 模型 TAIDE，這座島只當代工廠還夠嗎？",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%99%BC%E5%B1%95%E8%88%87%E6%9C%AA%E4%BE%86%E7%AD%96%E7%95%A5",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 18,
+        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
+      {
+        "title": "雪山隧道：從「不可能的任務」到台灣工程血淚奇蹟",
+        "desc": "1997 年 12 月 15 日，一場湧水意外險些奪走三百條人命，更讓造價十億的挖掘神器 TBM 成了廢鐵。這座被《大英百科全書》列為全球最艱鉅工程之一的隧道，不只是交通動脈，更是由 25 位殉職者與無數無名英雄，在比鋼還硬的四稜砂岩中鑿出的血淚奇蹟。",
+        "category": "technology",
+        "href": "/technology/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
+        "desc": "尊從國二拍遊戲實況，到 19 歲成為當時台灣最年輕的百萬 YouTuber，再把副頻道也帶過百萬。跨越十四個曆年的資料，記下他面對創作包袱、家人風暴與業配失誤，慢慢長成大人的過程。",
+        "category": "people",
+        "href": "/people/%E5%B0%8A",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 11,
+        "image": "/article-images/people/zun-new-home-2025.webp"
+      },
+      {
+        "title": "范曉萱：從〈健康歌〉的小魔女到 100% 樂團主唱，拒絕被一個年代定義的三十年",
+        "desc": "1996 年，19 歲的范曉萱靠一首〈健康歌〉變成全台灣的小魔女。1998 年她剃了平頭，發了《Darling》宣告「做自己的音樂」；2001 年轉爵士《絕世名伶》；2007 年組 100% 樂團。2025 年她 48 歲，《過客》是與樂團睽違 16 年的新作——三十年，她一段段拆掉「別人給她的夢」。",
+        "category": "people",
+        "href": "/people/%E8%8C%83%E6%9B%89%E8%90%B1",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣月老地圖：找對象前先挑廟，這座島養著至少十個分工不同的月老",
+        "desc": "在台灣求姻緣有個前提很多人不知道：月老不是只有一位。台南四大月老分管求姻緣、求穩定、斬桃花、求復合，台中樂成宮 1753 年的老廟以復合靈驗聞名，新北威明堂兔兒神專管同志姻緣，霞海、龍山寺、鹿港天后宮各有專長。信徒寫「擇偶條件」越詳細越好，因為留空，月老就有漏洞可鑽。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E7%81%A3%E6%9C%88%E8%80%81%E5%9C%B0%E5%9C%96",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣的道德課去哪了：一堂被取消的課，和二十年沒人接手的責任",
+        "desc": "1993年之前，台灣每個國小生每週上「道德與健康」，每個國中生每週上「公民與道德」。九年一貫課程取消了這兩門課，把道德「融入」七大學習領域。結果是近60頁的社會領域課綱說明裡幾乎不提「道德」二字，78%的教師說最該加強的就是道德教育，但沒有任何一科的老師覺得這是自己的事。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E7%81%A3%E7%9A%84%E9%81%93%E5%BE%B7%E8%AA%B2%E5%8E%BB%E5%93%AA%E4%BA%86",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
       {
         "title": "楊傳廣：台東部落、羅馬銀牌，9121分世界紀錄的亞洲鐵人",
         "desc": "1933年7月10日生於台東馬蘭阿美族部落，楊傳廣是台灣第一位奧運獎牌得主。1960年羅馬奧運十項全能以8334分奪銀，1963年以9121分刷新世界紀錄、撐竿跳4.83米迫使國際田聯修改計分標準。2007年1月27日於美國加州中風過世，享壽73歲。2025年4月，文化部列為國寶。",
@@ -173,108 +272,63 @@
         "date": "2026-08-27T13:44:07+08:00",
         "readingTime": 16,
         "image": "/article-images/people/howhow-sevenfat-band-2017.webp"
-      },
-      {
-        "title": "林佳辰：從地球團寫詞到早餐店迷因舞，把偶像的整齊唱成自己的鬆弛",
-        "desc": "2022 年，林佳辰以《原子少年》地球團成員身分走進大眾視線，並參與決賽曲填詞。2026 年，他在房間完成〈Love Me Again〉Demo，從搖滾吶喊走向台北夜巷的早餐店舞步。這條路最有意思的地方，是他不是離開偶像框架，而是在框架裡把生活感寫回舞台，讓團體經驗成為個人創作的底色。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E4%BD%B3%E8%BE%B0",
-        "date": "2026-08-27T13:44:07+08:00",
-        "readingTime": 6,
-        "image": "/article-images/people/ozone-taoyuan-youth-month-2024.webp"
-      },
-      {
-        "title": "國立臺灣歷史博物館：第八展區叫「你也是寫歷史的人」",
-        "desc": "2011 年開館的國立臺灣歷史博物館，常設展第八展區叫「你也是寫歷史的人」。國家級三級機構用《政府資料開放授權條款 1.0 版》公開十四萬件館藏，館長張隆志公開把博物館定位成「全民共筆共創」。當這座國家級博物館跟 AI 時代社群驅動的開源知識庫相遇，集體記憶有了第二種策展形狀。",
-        "category": "society",
-        "href": "/society/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8",
-        "date": "2026-08-27T13:44:07+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/nmth-main-building-2011.webp"
-      },
-      {
-        "title": "台灣早餐文化：兩萬家店賣著同一份早餐，沒有一個人擁有它",
-        "desc": "1955 年，永和中正橋頭並排三家豆漿店，掛著「永和豆漿」那塊招牌的那家沒有留下來。七十年後，濃縮豆漿與工廠餅皮拆掉了開店門檻，行政法院把「美X美」定性成弱勢商標，一整條街長出美又美、弘爺、早安美芝城。這頓飯守不住做法、守不住名字、守不住煎台前的身體，所以它成了兩萬家店共用的清晨。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E6%97%A9%E9%A4%90%E6%96%87%E5%8C%96",
-        "date": "2026-08-27T13:41:29+08:00",
-        "readingTime": 20,
-        "image": "/article-images/food/taiwan-breakfast-hero-set.webp"
-      },
-      {
-        "title": "玉山氣象站：孤懸 3,858 公尺的高山守望者",
-        "desc": "座落於玉山北峰海拔 3,858 公尺的氣象站，是東北亞海拔最高的氣象與行政機關。在極端天候與雷擊威脅下，幾代觀測員如何以孤獨與堅守，為台灣鎖住第一手氣象脈搏。",
-        "category": "geography",
-        "href": "/geography/%E7%8E%89%E5%B1%B1%E6%B0%A3%E8%B1%A1%E7%AB%99",
-        "date": "2026-08-27T12:08:11+08:00",
-        "readingTime": 20,
-        "image": "/article-images/geography/yushan-weather-station.webp"
-      },
-      {
-        "title": "國家圖書館：一座圖書館如何把島嶼的出版物保存成國家的記憶",
-        "desc": "國家圖書館不只是安靜的閱覽室，而是台灣出版品從發行、送存、編目、保存到數位再利用的公共基礎設施。本文從法定送存制度、戰時遷徙、臺灣記憶、古籍與政府出版品典藏，以及電子書和學位論文的數位保存出發，說明一座國家圖書館如何把每天看似短暫的出版行為轉成可被後人查證的集體記憶，也處理保存、公開、版權與數位格式之間沒有簡單答案的拉扯。",
-        "category": "culture",
-        "href": "/culture/%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8",
-        "date": "2026-08-27T12:08:11+08:00",
-        "readingTime": 16,
-        "image": "/article-images/culture/roc-national-central-library-building-2009.webp"
-      },
-      {
-        "title": "蒼藍鴿：把白袍的距離搬到鏡頭前",
-        "desc": "從 2017 年的醫療 YouTube 頻道到疫情期間的疫苗解說，吳其穎把醫師的專業、表演與公共溝通放在同一張桌上。",
-        "category": "people",
-        "href": "/people/%E8%92%BC%E8%97%8D%E9%B4%BF",
-        "date": "2026-08-27T12:08:11+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "鐵牛：一個反性侵宣導片的「杰哥」，成了他十年的人生",
-        "desc": "伍嘉緯 2012 年以素人身分演出教育部反性侵宣導片《如果早知道男生也會被性侵》的「杰哥」意外爆紅;他一度排斥這個角色、想過開挖土機，如今迷因成了他的飯碗，也把「杰哥」送上台灣首部迷因音樂劇的舞台。一條宣導片沒教完的課，迷因替他教了十年。",
-        "category": "people",
-        "href": "/people/%E9%90%B5%E7%89%9B%E6%9D%B0%E5%93%A5",
-        "date": "2026-08-27T12:08:11+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "台灣賽鴿：為了人人有機會，讓幼鴿飛進一場沒有裁判的風",
-        "desc": "台灣賽鴿把幼鴿海翔、鴿舍技術、私人鴿會、產業鏈與下注放進同一套規則。這套制度用高風險製造人人有機會的公平想像，卻也把迷途、失聯與賽後棄養的代價交給第一次上場的幼鴿，留下動物福利、公共治理、地方社會與責任追蹤的難題。",
-        "category": "society",
-        "href": "/society/%E8%B3%BD%E9%B4%BF",
-        "date": "2026-08-27T12:08:11+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "黑貓老師：從一台過熱的顯示卡，到把流量還給讀者的二十年",
-        "desc": "2015 年暑假，一台過熱當機的顯示卡讓黑貓老師放棄遊戲實況，卻意外留下了一個粉絲專頁。從曬貓、歷史說書到 Podcast 與《黑貓創作報》，他一路跨過無名小站、Facebook、YouTube 和電子報，也一路追問：創作者究竟是在服務讀者，還是在餵養演算法？",
-        "category": "people",
-        "href": "/people/%E9%BB%91%E8%B2%93%E8%80%81%E5%B8%AB",
-        "date": "2026-08-27T12:00:24+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "台灣燈會：一座會移動的國家級節慶舞台",
-        "desc": "台灣燈會從 1990 年台北的元宵燈會出發，經過主辦城市輪替、地方創意與數位科技加入，逐漸成為結合民俗、藝術、觀光與公共治理的國家級節慶。它不只是在夜裡點亮一座主燈，也把每一座城市的地景、產業、交通與集體想像帶到全台灣，並留下大型文化活動如何與日常生活協商的治理課題。",
-        "category": "culture",
-        "href": "/culture/%E7%87%88%E6%9C%83",
-        "date": "2026-08-27T11:35:46+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "茶葉蛋：一顆裂開的蛋，怎麼煮成台灣便利商店的氣味",
-        "desc": "1987 年，徐重仁把有裂痕的茶葉蛋放進台灣 7-ELEVEN，咖啡賣不動，茶葉蛋卻留下來。從一鍋滷汁、蛋殼裂紋到食品安全，這顆不起眼的蛋記錄了台灣如何把外來制度煮成日常，也讓平價食物的成本與照顧重新被看見。",
-        "category": "food",
-        "href": "/food/%E8%8C%B6%E8%91%89%E8%9B%8B",
-        "date": "2026-08-27T11:35:39+08:00",
-        "readingTime": 10,
-        "image": "/article-images/food/tea-egg-taiwan.webp"
       }
     ],
     "en": [
+      {
+        "title": "Handmade Taiwanese Cuisine",
+        "desc": "From Neimen's total-pu-shi density to the human warmth of caiwei tang — Taiwan's roadside banquet culture at its heart",
+        "category": "food",
+        "href": "/en/food/handmade-taiwanese-cuisine",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
+      },
+      {
+        "title": "Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood",
+        "desc": "A bowl of Keelung ding-bian-cu chronicles the wandering of Fujian fishermen; a Changhua ba-wan witnesses Qing Dynasty settlers innovation. 22 counties, 22 survival wisdoms—Taiwan regional food is not just cuisine, its a migration history carved into the land.",
+        "category": "food",
+        "href": "/en/food/taiwan-regional-street-food-map",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 15,
+        "image": "/article-images/food/danzi-noodle-tainan.webp"
+      },
+      {
+        "title": "ALIEN Art Centre (Jinma Guest House)",
+        "desc": "A Cold War military transit station where soldiers said goodbye before sailing to the frontlines — abandoned for two decades, then resurrected as Lonely Planet's top pick for contemporary art in Kaohsiung.",
+        "category": "art",
+        "href": "/en/art/alien-art-centre",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp"
+      },
+      {
+        "title": "Taiwan Folk Music and Songs: From Cultural Theft to Global Recognition",
+        "desc": "In 1996, the Atlanta Olympics opening ceremony carried the ancient chant of an Amis elder from Taiwan — but Kuo Ying-nan only learned he had been heard by 65 million people two years later, through a lawsuit. This absurd story mirrors the fate of Taiwan's folk music: silenced repeatedly under colonialism, yet always finding its way back to the world's ears.",
+        "category": "music",
+        "href": "/en/music/taiwan-folk-music-and-songs",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Taiwan Hot Springs and Geothermal Energy",
+        "desc": "From a failed geothermal plant to the world's only Hokutolite mineral: How one island turned underground fire into healing and green electricity",
+        "category": "nature",
+        "href": "/en/nature/taiwan-hot-springs-and-geothermal-energy",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Taiwan's Energy Transition and Green Energy Industries",
+        "desc": "From reliance on nuclear power to a diversified renewable mix, how Taiwan is reshaping its energy structure on the road to net zero by 2050",
+        "category": "economy",
+        "href": "/en/economy/taiwan-energy-transition-and-green-industry",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Yang Chuan-kwang: Taitung Tribal Community, Rome Silver Medal, and the Asian Iron Man Who Forced the IAAF to Rewrite Its Rules",
         "desc": "Born July 10, 1933, in the Malan Amis tribal community of Taitung, Yang Chuan-kwang was Taiwan's first Olympic medalist. He won silver in the decathlon at the 1960 Rome Olympics with 8,334 points. In 1963 he broke the world record with 9,121 points, and his pole vault of 4.83 meters forced the International Amateur Athletic Federation (IAAF) to revise its scoring standards. He died of a stroke in California, United States, on January 27, 2007, at age 73. In April 2025, he was designated a national treasure by the Ministry of Culture.",
@@ -490,63 +544,72 @@
         "date": "2026-07-30T23:35:43+08:00",
         "readingTime": null,
         "image": "/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp"
-      },
-      {
-        "title": "The Daan River Heaven Sword: East Asia's Tallest Tree Hid for Seven Hundred Years in a Place We Could Not Reach",
-        "desc": "During the 2023 Lunar New Year, the Tree Finder team spent seven days tracing the Daan River upstream. In a deep valley near its headwaters, a place almost no one can reach, they lowered a tape measure from the crown of a Taiwania tree: 84.1 meters, the tallest tree in East Asia. It was 4.6 meters taller than LiDAR had predicted. On a country swept by typhoons every year, where slopes collapse and floods surge, life of this height should not, in theory, still exist. Yet precisely because it grew in a valley humans could not reach, it escaped the era of large-scale logging and survived for seven hundred years. The same inaccessibility that kept it alive also meant that only after scanning all of Taiwan with lasers did we see it for the first time that year.",
-        "category": "nature",
-        "href": "/en/nature/daan-river-yitian-sword",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 15,
-        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
-      },
-      {
-        "title": "Tawny Fish Owl: One Pair per Six Kilometers of Stream, a Nocturnal Raptor in a 1,800-Meter Michelia Tree",
-        "desc": "In April 2026, National Pingtung University of Science and Technology assistant professor Hung Hsiao-yu located Taiwan's highest known Tawny Fish Owl nest in a tree hollow of a Michelia compressa with a diameter at breast height of about 1.5 meters beside Qijiawan Creek, at roughly 1,800 meters above sea level. Taiwan's largest owl was first recorded only in 1916 by the Japanese scholar Nagamichi Kuroda. Sun Yuan-hsun's laboratory at National Pingtung University of Science and Technology has followed it for thirty years; across 91 territories, each pair needs an average of 6.2 kilometers of stream. A stretch of stream not yet poured in concrete, a giant tree not yet fallen: the Tawny Fish Owl lives in the narrow space where two things in Taiwan's mountain forests have not yet disappeared.",
-        "category": "nature",
-        "href": "/en/nature/tawny-fish-owl",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 12,
-        "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
-      },
-      {
-        "title": "Chen Chien-nien: The Golden Melody King in the Police Station, the Grandfather’s Songs the Grandson Turned into Ocean",
-        "desc": "Born on August 1, 1967, in the Nanwang community of the Puyuma people in Taitung. After graduating from the police academy in 1986, he was assigned to Guanshan, Taitung, and served in the police force for 30 years and 10 months. In 1999, at age 33, he released his first album of original songs, Ocean. At the 11th Golden Melody Awards in 2000, he defeated Jacky Cheung, Wang Leehom, David Tao, and Harlem Yu to win Best Mandarin Male Vocalist; at the same ceremony, “Myth” also won Best Composer. On the awards stage, he was still a police officer. In September that year, he requested a transfer to Lanyu to avoid the turmoil, and stayed there for 17 years until retirement. His maternal grandfather, Baliwakes Lu Sen-bao, wrote “Beautiful Rice Ears”; it took the grandson thirty years to take hold of that musical line.",
-        "category": "people",
-        "href": "/en/people/chen-chien-nien",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 8,
-        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
-      },
-      {
-        "title": "Ya Hsien: Ceasing Poetry After \"The Abyss,\" Spending His Latter Life as a Pillar of Literary History in the United Daily News Supplement",
-        "desc": "In 1968, at age 36, Ya Hsien stopped writing after compiling ninety poems into his collection *The Abyss*. From 1977 to 1998, he served as editor-in-chief of the *United Daily News* (UDN) Supplement for 21 years, transforming the editorial desk into Taiwan's most important post-war literary public space. He passed away in Vancouver, Canada, on October 11, 2024, at age 92—his 56-year silence after ceasing publication proved longer than a thousand volumes of poetry; his refrain \"Hallelujah, I am still alive\" became an obscure, poetic symbol that evaded censorship during the Martial Law era.",
-        "category": "people",
-        "href": "/en/people/ya-hsien-poet",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/yaxian-portrait-2012.webp"
-      },
-      {
-        "title": "National Housing and Housing Justice: The Cheap Homes Built by the Government, and Whose Asset Escalator They Ultimately Created",
-        "desc": "In 1985, Chenggong National Housing cost NT$67,000 per ping and still had no buyers; an old borough chief scraped together a NT$400,000 down payment and bought a unit. Forty years later, the same address is nearing NT$1 million per ping. National Housing was supposed to be a tool to help people afford homes, but it was never fitted with a gate to recapture appreciation. Public subsidy ultimately became private assets for early buyers. In 2026, Taoyuan put that gate back in, effectively admitting National Housing’s mistake.",
-        "category": "society",
-        "href": "/en/society/public-housing-justice",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 16,
-        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
-      },
-      {
-        "title": "Taiwan's Sports Development and the Olympics: A Team Called “Chinese Taipei”",
-        "desc": "In Montreal in 1976, Canada demanded a name change to “Taiwan,” and Chiang Ching-kuo treated it as a national humiliation and withdrew the team. In Paris in 2024, on the night the “Lee-Yang” pair defended their men’s doubles title, the whole arena sang the National Flag Anthem lyrics beneath the plum blossom flag. From the “Taiwan” that could not enter to a world beginning to call the team Taiwan, every generation of gold medalists has carried the weight of this cap called “Chinese Taipei.”",
-        "category": "society",
-        "href": "/en/society/taiwan-sports-olympics",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
       }
     ],
     "ja": [
+      {
+        "title": "ローバー号事件（羅發號事件）と卓杞篤（タウケトク）：181人が落とせなかった戦を、45分で決着させた",
+        "desc": "1867年、アメリカ海軍181人が恒春半島の密林でパイワン族に撃退され指揮官が戦死した。三か月後、瑯嶠十八社の大頭目・卓杞篤は45分の交渉で南岬の盟約を結び、族人を守ることに成功した。しかし盟約に署名したル・ジャンドル（李仙得）は七年後、同じ情報を携えて日本帝国に乗り換え、1874年の台湾出兵を助けた。",
+        "category": "history",
+        "href": "/ja/history/rover-incident-and-tauketok",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "巧固球：台湾の隠れた43年間の世界チャンピオン",
+        "desc": "1977年、ある台湾の教授がイギリスからネット一式を持ち帰り、スイス発明の「紳士の球技」が台湾の校園に根付くきっかけとなりました。40余年後、台湾代表が世界ランキング1位を維持し、国際連盟本部が高雄に置かれていますが、依然として多くの台湾人にとって馴染みの薄いマイナー競技のままです。",
+        "category": "culture",
+        "href": "/ja/culture/tchoukball-in-taiwan",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "ALIEN Art Centre（金馬賓館）",
+        "desc": "冷戦時代の軍事中継所。兵士たちが最前線へ向かう前に別れを告げた場所——20年間放置された後、Lonely Planetが選ぶ高雄No.1の現代アートスポットとして蘇った。",
+        "category": "art",
+        "href": "/ja/art/alien-art-centre",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp"
+      },
+      {
+        "title": "ソーリー・ユース（拍謝少年）：三人の南部っ子が台語で歌う他郷の孤独、二十年後に世代の声となった",
+        "desc": "2005年、台南の海辺でロックを聴いて育った三人の男が台語で作曲を決意した。目標は「祖父母も頷ける台語の名曲」。三人のうち台語育ちはジャンジャン（薑薑）ひとりだけだった。『海口味』から『噪音公寓』まで、全台語アルバム四枚・金音獎最優秀ロック三冠・flyingV募資記録を二度更新した拍謝少年は、他郷の孤独を世代全体の共通言語に変えた。",
+        "category": "music",
+        "href": "/ja/music/sorry-youth-band",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": "12min",
+        "image": ""
+      },
+      {
+        "title": "台湾マカク（台灣獼猴）：中山大学の生存ゲーム、母系権力、そして一万年の定住者の真実",
+        "desc": "中山大学の学生が「宅配便を取りに行くのにBB弾銃が必要」という荒唐無稽な日常から、1862年にスウィンホー（史溫侯）が西洋に初めて紹介したこの島の霊長類まで。台湾マカクはしばしば「チンピラ」と呼ばれるが、その背後には一万年前から寿山（壽山）に定住していた厳格な母系社会があり、キャンパスの拡大と人間の餌付けによって独自の生存文化へと進化することを余儀なくされた。",
+        "category": "nature",
+        "href": "/ja/nature/formosan-rock-macaque",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "徐熙媛（シュ・シーユェン）：おてんば美少女から「二死一重傷」の剛毅な女王へ",
+        "desc": "1994年にS.O.S.でデビューし、2001年に『流星花園』（りゅうせいかえん）でアジア中を席巻し、2005年に『美容大王』で美学の代名詞を確立。2025年2月、48歳で逝去。美への極致の追求で人生の混乱に抗い続け、婚姻の嵐の中で「二死一重傷」の声明をもって現代女性の困境の最も深い断面を刻んだ。",
+        "category": "people",
+        "href": "/ja/people/barbie-hsu-actress",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "楊致遠（ジェリー・ヤン、Jerry Yang）：英語一語しか知らなかった少年がグローバルなポータル時代を開いた「Yahoo!の父」",
+        "desc": "1978年、10歳の楊致遠（ジェリー・ヤン）がアメリカに移民した時、知っていた英語は「Shoe（靴）」の一語だけだった。1994年、スタンフォード大学で博士論文から逃げていた彼はパートナーとトレーラーの中でウェブページを手動分類し、時価総額が一時1000億ドルを超えたYahoo!を偶然に生み出した。さらに2005年には「狂気の大勝負」とも呼ばれたアリババ（阿里巴巴）への投資によって、グローバルなインターネット版図を書き換えた。",
+        "category": "people",
+        "href": "/ja/people/jerry-yang-yahoo-cofounder",
+        "date": "2026-09-07T17:52:24+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "陳士駿（スティーブ・チェン）：YouTube共同創業者",
         "desc": "8歳で台湾を離れ、27歳で誰もが動画を投稿できる場所を米国につくり、20か月後に16億5,000万ドルで売却。その後、脳腫瘍を患い、妻子とともに台湾へ戻った起業家の物語です。",
@@ -753,69 +816,6 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": null,
         "image": "/article-images/people/yaxian-portrait-2012.webp"
-      },
-      {
-        "title": "医療法：機関規制と市場とのせめぎ合いの40年",
-        "desc": "台湾医療法は1986年に公布され、2017年に医師の刑事責任が改正され、2026年には三交代制の看護師患者比が法制化された。法律で「一人の看護師が最大何床を担当できるか」は定められるが、「その看護師が実際にいるかどうか」は定められない——32万枚の看護師免許があるのに、臨床現場に残っているのは19万双の手だけだ。これは健保法でも医師法でもない、台湾における「病院」という機関がどう存在するかの根本法であり、また医療の公益性と市場メカニズムが40年間解けないでいる綱引きでもある。",
-        "category": "society",
-        "href": "/ja/society/medical-care-act",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
-      },
-      {
-        "title": "国民住宅と居住正義：政府が建てた安い住宅は、最後に誰の資産エスカレーターを育てたのか",
-        "desc": "1985 年、成功国民住宅は 1 坪 6.7 万台湾ドルでも買い手がつかず、老里長が 40 万台湾ドルの頭金をかき集めて購入しました。40 年後、同じ住所は 1 坪 100 万台湾ドルに迫っています。国民住宅は本来「人びとが住宅を買えるようにする」ための道具でしたが、値上がり益を回収するゲートは一度も設けられず、公共補助は最後に早く買った人の私的資産となりました。2026 年、桃園がそのゲートを取り戻したことは、国民住宅の誤りを認めることに等しいです。",
-        "category": "society",
-        "href": "/ja/society/public-housing-justice",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 16,
-        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
-      },
-      {
-        "title": "台湾スポーツ発展とオリンピック：「チャイニーズ・タイペイ」と呼ばれるチーム",
-        "desc": "1976年のモントリオールで、カナダは「Taiwan」への改名を求め、蔣経国は国辱とみなして出場を辞退しました。2024年のパリで、麟洋ペアが男子ダブルス連覇を果たした夜、会場全体が梅花旗に合わせて国旗歌の歌詞を高らかに歌いました。入場できなかった「台湾」から、世界が Taiwan と呼び始めるまで、「中華台北」と呼ばれるこの帽子は、どの世代の金メダルもその重みをかぶってきました。",
-        "category": "society",
-        "href": "/ja/society/taiwan-sports-olympics",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
-      },
-      {
-        "title": "台湾上位 50 大企業：「護国神山」が一枚の表を支え、単一障害点を抱える国家も支えています",
-        "desc": "2026 年 5 月 19 日、TSMC 一社の時価総額は台湾加権指数全体の 31.51%、台湾株式市場の総時価総額の約 4 割を占めました。上位 50 社を合計すると一つの GDP を支えますが、そのうち一社だけでこの GDP の運命を左右しています。電子産業 36%、金融 25%、伝統産業 10%。いわゆる「電子・金融・伝統産業」の三本柱は、実際には電子産業という一本の脚で身体の半分を支えています。寧夏夜市（ナイトマーケット）でジェンスン・フアンと張忠謀が写真を撮ったあの夜から、凱旋三路で未明に 32 人の命が失われた現場まで、このランキングは台湾にとって代替不能な脊椎であると同時に、最も脆弱な単一障害点でもあります。",
-        "category": "economy",
-        "href": "/ja/economy/top-50-companies-taiwan",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 18,
-        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
-      },
-      {
-        "title": "艋舺：清朝統治下の台北で最もにぎわった場所、いまは台北で平均年齢が最も高い区",
-        "desc": "艋舺龍山寺は、1738 年に泉州三邑出身者が資金を出し合って建立してから 2026 年で 288 年となり、清朝の台北府より 137 年早く存在していました。1853 年の頂下郊拼という械闘は同安人を大稲埕へ押し出し、北台湾の 2 世紀にわたる分岐を植え付けました。日本統治時代後に萬華へ改称され、1990 年に区が設置され、2010 年に鈕承澤が映画『艋舺』を撮りました。高齢化指数は現在 320.78% で市内最高です。この台北最古の街では、朝 6 時、廟埕の最初の線香がいまも燃えています。",
-        "category": "geography",
-        "href": "/ja/geography/bangka",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
-      },
-      {
-        "title": "台湾の伝統工芸と無形文化遺産：制度による承認は実現したが、弟子がいなくなった",
-        "desc": "2022年12月、文化部は高雄の87歳の土水司阜（どすいしふ／土水修造技術者）蘇清良（そ・せいりょう／スー・チンリャン）氏を「人間国宝」に指定したが、半年後に彼は逝去した。台湾では2005年になってようやく「文化資産保存法」に重要伝統工芸の規定が盛り込まれた。これは日本より50年、韓国より43年遅い。制度が整った頃には、1970〜8世紀の工業化の流れの中で徒弟制度は崩壊していた。600人を超える伝統匠人のうち、50歳以下は「ほんの少数」である。",
-        "category": "culture",
-        "href": "/ja/culture/traditional-crafts-intangible-cultural-heritage",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 14,
-        "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
-      },
-      {
-        "title": "I Am a Local: The 'Fellow Townsman' Fanpage's Backend is a Neihu Company and a Forgotten AI Prompt",
-        "desc": "In February 2026, a local fanpage calling itself 'I Am a Taipei Person' left an unremoved AI instruction in its post: 'Remove sensitive words, strengthen Taiwanese local colloquialism.' Following this clue leads back to a Lin family-related enterprise in a building in Neihu, which uses AI to rewrite news from CTWANT and other media into a 'fellow townsman' tone, then distributes it in bulk across fanpages disguised as local entities from various counties and cities. It does not fabricate news; it repurposes real news. The problem lies in the unverifiable origin and capital flow. Meanwhile, Taiwan's most adept experts in cognitive warfare are urging caution against hasty labeling.",
-        "category": "society",
-        "href": "/ja/society/i-am-from",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 12,
-        "image": "/article-images/society/woo-fanpage.webp"
       }
     ],
     "ko": [

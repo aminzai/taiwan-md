@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-09-07T09:31:48.011Z",
+  "generatedAt": "2026-09-07T09:55:26.012Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "42578f6f2968d225fb9cddd81538f7dd3cc875f2",
+      "date": "2026-09-07T17:54:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 補齊動態介面圖示與翻譯 CI 無損選檔",
+      "articles": []
+    },
+    {
+      "hash": "b67b190fb26c9a14b65f7dd34367f1cda1abf538",
+      "date": "2026-09-07T17:52:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: 升級工程契約並導入 Island Lines 專用圖示",
+      "articles": [
+        {
+          "url": "/culture/無名小站",
+          "name": "無名小站"
+        },
+        {
+          "url": "/geography/用數據看台灣22縣市",
+          "name": "用數據看台灣22縣市"
+        },
+        {
+          "url": "/music/當代原住民創作歌手",
+          "name": "當代原住民創作歌手"
+        },
+        {
+          "url": "/people/尊",
+          "name": "尊"
+        }
+      ]
+    },
+    {
+      "hash": "c8fde9496a8d9d1cb506f8c044c5653af3b3d2ad",
+      "date": "2026-09-07T17:45:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 修復 MCP 快取與錯誤契約並部署正式服務",
+      "articles": []
+    },
     {
       "hash": "1524df5343bf4fa5534a57c47fee5e92a58e2ca5",
       "date": "2026-09-07T17:28:49+08:00",
@@ -84878,66 +84916,6 @@
         {
           "url": "/technology/台灣軟體產業發展",
           "name": "台灣軟體產業發展"
-        }
-      ]
-    },
-    {
-      "hash": "5cf444e4ee7d65f3ad3759bfbc4f99063dcebacb",
-      "date": "2026-03-19T10:34:53+08:00",
-      "author": "Fred Chu",
-      "message": "fix: replace 22 dead/broken reference URLs across 13 articles (#39)",
-      "articles": [
-        {
-          "url": "/economy/經濟奇蹟",
-          "name": "經濟奇蹟"
-        },
-        {
-          "url": "/history/台海危機與兩岸關係發展",
-          "name": "台海危機與兩岸關係發展"
-        },
-        {
-          "url": "/history/戒嚴時期",
-          "name": "戒嚴時期"
-        },
-        {
-          "url": "/history/清治時期",
-          "name": "清治時期"
-        }
-      ]
-    },
-    {
-      "hash": "257257ccdf4ae1924969f606b21b0c573977001f",
-      "date": "2026-03-19T10:25:34+08:00",
-      "author": "frank890417",
-      "message": "fix: 政治敏感用語修正 — 大陸→中國、mainland China→China",
-      "articles": [
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/economy/台灣國際貿易政策：在全球化浪潮中尋找定位",
-          "name": "台灣國際貿易政策：在全球化浪潮中尋找定位"
-        },
-        {
-          "url": "/economy/台灣外貿與全球供應鏈",
-          "name": "台灣外貿與全球供應鏈"
-        },
-        {
-          "url": "/economy/台灣產業轉型與經濟發展軌跡",
-          "name": "台灣產業轉型與經濟發展軌跡"
-        }
-      ]
-    },
-    {
-      "hash": "532b4f65338e16a48eb867b0a8dd53315d083004",
-      "date": "2026-03-19T09:04:44+08:00",
-      "author": "frank890417",
-      "message": "feat(about): 新增「為什麼台灣需要自己的知識庫」— 回應開源疑慮，論述 SSOT 與資訊主權",
-      "articles": [
-        {
-          "url": "/about/為什麼台灣需要自己的知識庫",
-          "name": "為什麼台灣需要自己的知識庫"
         }
       ]
     }

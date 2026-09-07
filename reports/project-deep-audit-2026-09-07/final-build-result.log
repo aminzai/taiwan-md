@@ -1,0 +1,36 @@
+18:08:52 ✓ Completed in 12m 52s.
+
+18:08:52 [build] ✓ Completed in 12m 55s.
+18:08:53 [@astrojs/sitemap] `sitemap-index.xml` created at `dist`
+18:08:53 [build] 14151 page(s) built in 12m 59s
+18:08:53 [build] Complete!
+
+> taiwan-md@1.4.0 postbuild
+> node scripts/tools/check-url-contract.mjs --strict
+
+=== URL 契約對賬 (check-url-contract) ===
+dist: dist
+檔案總數: 23499  (HTML: 14461, sitemap 檔: 2)
+ground-truth URL 集合大小（含變形）: 46997
+公告 URL 總數（去重後，跨三來源加總）: 36969
+耗時: 5086ms
+
+>>> DEAD 總數: 0 <<<
+
+--- hreflang/rss alternate ---
+  公告數: 10339  dead: 0
+
+--- canonical ---
+  公告數: 13359  dead: 0
+
+--- sitemap <loc> ---
+  公告數: 13271  dead: 0
+
+--- sitemap 反向覆蓋（文章頁必須全在 sitemap）---
+  缺席: 0（黃燈：報告不擋）
+
+--- 英文別名洩漏（側門不准出現在公告面）---
+  追蹤別名: 882
+  洩漏: 0
+
+沒有偵測到 dead 公告 URL。

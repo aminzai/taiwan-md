@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T09:32:02.157Z",
+  "lastUpdated": "2026-09-07T09:55:39.817Z",
   "organs": [
     {
       "id": "heart",
@@ -7,15 +7,15 @@
       "nameZh": "心臟",
       "metaphor": "內容引擎",
       "emoji": "🫀",
-      "score": 70,
+      "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 10,
-        "articlesLast30Days": 251,
+        "articlesLast7Days": 21,
+        "articlesLast30Days": 262,
         "totalArticles": 1119,
         "selfProducedLast7Days": 0,
         "selfProducedLast30Days": 4,
-        "contributedLast7Days": 10
+        "contributedLast7Days": 21
       }
     },
     {
