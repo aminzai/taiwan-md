@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T03:31:39+08:00",
-    "zhCommitHead": "656233cca",
+    "lastUpdated": "2026-09-08T03:39:54+08:00",
+    "zhCommitHead": "e8babfbf9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 755,
+        "fresh": 756,
         "stale": 100,
-        "metadata_stale": 33,
+        "metadata_stale": 32,
         "missing": 233,
         "orphan": 0
       },
@@ -44,16 +44,16 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 755,
-        "stale": 96,
+        "fresh": 756,
+        "stale": 95,
         "metadata_stale": 35,
         "missing": 235,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 756,
-        "stale": 98,
+        "fresh": 757,
+        "stale": 97,
         "metadata_stale": 34,
         "missing": 233,
         "orphan": 0
@@ -68,17 +68,17 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 535,
+        "fresh": 536,
         "stale": 56,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 514,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 745,
+        "fresh": 746,
         "stale": 83,
-        "metadata_stale": 26,
+        "metadata_stale": 25,
         "missing": 267,
         "orphan": 0
       },
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 706,
+        "fresh": 707,
         "stale": 62,
         "metadata_stale": 21,
-        "missing": 332,
+        "missing": 331,
         "orphan": 0
       },
       "de": {
@@ -20537,8 +20537,8 @@
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
           "translatedAt": "2026-09-07T19:31:10.250231+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e8babfbf",
+          "translationLastModified": "2026-09-08T03:31:40+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -20547,34 +20547,30 @@
         "es": {
           "path": "es/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:9e7ddff3899aaa85",
-          "sourceBodyHash": "sha256:909022379c9cd8a0",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bafa69de0246ccbe",
+          "sourceBodyHash": "sha256:d9ab34ee59f266bc",
+          "translatedAt": "2026-09-07T19:32:03.676563+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:9e7ddff3899aaa85",
-          "sourceBodyHash": "sha256:909022379c9cd8a0",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bafa69de0246ccbe",
+          "sourceBodyHash": "sha256:d9ab34ee59f266bc",
+          "translatedAt": "2026-09-07T19:32:14.141007+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/hsuehshan-tunnel.md",
@@ -36370,8 +36366,8 @@
           "sourceContentHash": "sha256:103cffd41c084886",
           "sourceBodyHash": "sha256:afbe1eb00070eaa4",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "38030fd6",
-          "translationLastModified": "2026-07-28T06:20:07+08:00",
+          "translationLastCommit": "e8babfbf",
+          "translationLastModified": "2026-09-08T03:31:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -47471,8 +47467,8 @@
           "sourceContentHash": "sha256:a1c5d1e234e46093",
           "sourceBodyHash": "sha256:b982084e2fb1e6c4",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e8babfbf",
+          "translationLastModified": "2026-09-08T03:31:40+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -78901,7 +78897,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -96894,8 +96901,8 @@
           "sourceContentHash": "sha256:834d66de28d359a5",
           "sourceBodyHash": "sha256:45ab5eeee03419d3",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e8babfbf",
+          "translationLastModified": "2026-09-08T03:31:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -107730,18 +107737,16 @@
         "en": {
           "path": "en/Food/taiwan-michelin-fine-dining.md",
           "translatedFrom": "Food/台灣米其林與精緻餐飲.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "translatedAt": "2026-09-08T00:42:45+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-michelin-fine-dining.md",
@@ -107826,34 +107831,30 @@
         "id": {
           "path": "id/Food/taiwan-michelin-fine-dining.md",
           "translatedFrom": "Food/台灣米其林與精緻餐飲.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
-          "translatedAt": "2026-07-25T17:25:33+08:00",
+          "translatedAt": "2026-09-08T00:42:53+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-michelin-fine-dining.md",
           "translatedFrom": "Food/台灣米其林與精緻餐飲.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
-          "translatedAt": "2026-07-25T09:23:09+08:00",
+          "translatedAt": "2026-09-08T00:42:54+08:00",
           "translationLastCommit": "ecf9958e",
           "translationLastModified": "2026-07-25T10:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-michelin-fine-dining.md",

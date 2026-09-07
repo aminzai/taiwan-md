@@ -2,9 +2,7 @@
 title: 'Zun: From a Middle School Room to Dual Million-Subscriber Channels, an Adulting Record'
 description: "Zun started streaming games in the second year of middle school, became Taiwan's youngest millionaire YouTuber at 19, and later pushed his secondary channel past the million mark. Spanning fourteen calendar years, this record documents his process of growing up while facing creative burdens, family storms, and sponsorship missteps."
 date: 2026-07-15
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'Digital and Media'
 tags:
   [
     'YouTuber',
@@ -14,25 +12,29 @@ tags:
     'Life Otaku',
     'Digital Culture',
   ]
-readingTime: 11
+subcategory: 'Digital and Media'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-15
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/尊.md'
-sourceCommitSha: '16c428cd9'
-sourceContentHash: 'sha256:94b77718dfa4da62'
-sourceBodyHash: 'sha256:5579d8d02a3f58ac'
-translatedAt: '2026-07-24T10:29:42+08:00'
-image: /article-images/people/zun-new-home-2025.webp
+researchReport: 'reports/research/2026-07/尊.md'
+readingTime: 11
+image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
+relatedDiary: ['2026-07-15-191335-manual']
+translatedFrom: 'People/尊.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:6c850ed56b9fd45a'
+sourceBodyHash: 'sha256:f9ebc993a34e1749'
+translatedAt: '2026-09-07T18:40:28.113016+00:00'
 ---
 
-> **30-Second Overview:**
-> Zun began uploading game streams to YouTube starting in the second year of middle school. In 2018, at age 19, he had 1.2 million subscribers, making him Taiwan's youngest millionaire YouTuber at the time; by the end of 2024, his secondary channel also crossed the million-subscriber mark. Spanning fourteen calendar years of data, he shifted from games to experimental content, unboxings, and daily life, while also encountering his brother Xiao Yu's Deepfake criminal case and a "Pocket Warriors" sponsorship error. Videos, interviews, and public responses together leave behind a record of adulting: a Taiwanese youth admitting he has burdens, makes mistakes, and continues to live his life.
+> **30-second overview:**
+> Zun began uploading game streams to YouTube in his second year of middle school. In 2018, at age 19, he already had 1.2 million subscribers, making him one of Taiwan's youngest million-subscriber [YouTubers](/en/culture/taiwan-youtuber-industry/); by the end of 2024, his secondary channel also surpassed one million. Across fourteen calendar years of content, he shifted from gaming to experiments, unboxings, and daily life, weathered his brother Xiao Yu's deepfake criminal case and a "Pocket Warriors" sponsorship misstep, and left behind a record of growing up: a Taiwanese teenager admitting he carries baggage, makes mistakes, and will keep living.
 
-In 2018, when 19-year-old Zun was interviewed, he did not attribute his million subscribers to talent. He said he was simply "one of the first to start," gaining an early advantage. When discussing the changes after his subscriber count increased, he added, "When subscribers are low, you dare to film anything; when subscribers are high, you have a certain burden."[^1]
+In 2018, when 19-year-old Zun was interviewed, he didn't describe reaching a million subscribers as a matter of talent. He said he was simply "among the first to start," and happened to catch the early wave. Speaking about how things changed as his subscriber count grew, he added: "When you have few subscribers, you'll film anything; when you have many, there's a certain weight to bear."[^1]
 
-These two sentences, separated by years, still sound very much like Zun: downplaying his achievements on one hand, while honestly admitting that the larger the lens, the smaller the space for him to act freely. From game streams in a middle school room to two million-subscriber channels, a new home, and a girlfriend, a public record spanning fourteen calendar years allows viewers to see a channel grow, and also see the channel owner slowly coming of age.
+These two remarks still sound very much like Zun years later: on one hand downplaying his achievements, on the other honestly acknowledging that the bigger the camera, the less freedom he actually has. From game streams in his middle-school bedroom to two million-subscriber channels, a new home, and a girlfriend, fourteen years of public records let viewers watch a channel grow—and watch its creator slowly come of age.
 
 ## A Middle Schooler Turns His Room Into a Studio
 

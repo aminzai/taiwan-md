@@ -1,371 +1,351 @@
 ---
-title: 'Contemporary Indigenous Singer-Songwriters'
-description: "From A-mei to Suming and Sangpuy, how Taiwan's Indigenous singers carry ancient souls into modern music and create a distinctive contemporary Indigenous musical landscape"
+title: 'Contemporary Indigenous Musicians of Taiwan'
+description: 'Chen Chien-nien''s "Ocean" blends Paiwan and Mandarin; Shuming connects creation back to Dawu cultural education, while ABAO brings Paiwan into contemporary pop production. From aMEI and Wang Hong-en to Sangpuy and Ilid Kaolo, this piece compares different musicians'' works and listening entry points, cross-referencing GMA album, artist, and song awards to understand how mother tongue, lived experience, and recording techniques intersect—without lumping multiple ethnic groups into a single sound.'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '當代原住民音樂'
 tags:
   [
-    'Indigenous singers',
-    'popular music',
+    'Indigenous musicians',
+    'pop music',
     'cultural fusion',
     'Golden Melody Awards',
-    'contemporary songwriting',
+    'contemporary creation',
   ]
-readingTime: 10
-lastVerified: 2026-03-19
-lastHumanReview: true
+subcategory: '當代原住民音樂'
+author: 'Taiwan.md'
 featured: true
-translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:63a03cba4dec8d7b'
-sourceBodyHash: 'sha256:709d0c8ef67f0111'
-translatedAt: '2026-05-17T05:34:48+08:00'
+lastVerified: 2026-03-19
+lastHumanReview: false
 difficulty: 'beginner'
+readingTime: 10
+relatedDiary: ['2026-09-07-164559-audit-upgrade']
+translatedFrom: 'Music/當代原住民創作歌手.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:5f5c57d9d0a5af84'
+sourceBodyHash: 'sha256:6ab99bf50b216a39'
+translatedAt: '2026-09-08T00:42:45+08:00'
 ---
 
-# Contemporary Indigenous Singer-Songwriters
+# Contemporary Indigenous Musicians of Taiwan
 
-On Taiwan's musical map, Indigenous singers have brought a distinctive vitality to Mandopop through deep cultural foundations and innovative musical vocabularies. From A-mei's sudden emergence in the 1990s to the rise of new-generation artists such as Suming and Sangpuy after the 2000s, Taiwan Indigenous music has found a compelling balance between tradition and modernity, becoming one of Taiwan's most internationally recognizable musical forces.
+Within the landscape of Taiwanese music, Indigenous musicians bring unique vitality to the Mandopop scene through deep cultural roots and innovative musical expression. From aMEI's breakout in the 1990s to the rise of new-generation artists like Shuming and Sangpuy in the 2000s, Taiwanese Indigenous music continues to explore diverse forms of expression between tradition and modernity.
 
-## 30-Second Overview
+> **30-second overview**: This article introduces various musicians through popular songs, mother-tongue albums, and tribal music education, cross-referencing the official GMA (Golden Melody Awards) list to connect works with awards.
 
-Contemporary Indigenous singers in Taiwan have secured their own position in popular music through their distinctive musical gifts and cultural backgrounds. Representative figures include A-mei, the "Queen of Asian Pop"; Chen Chien-nien, the "folk poet"; Suming, the "new-generation king of song"; and Sangpuy, the "soul singer."
+Contemporary Indigenous musicians in Taiwan have established their place in the pop music scene through their own creation, performance training, and cultural experience. Representative figures include "Asia's Queen" aMEI, "Folk Poet" Chen Chien-nien, "New Generation King" Shuming, "Soul Singer" Sangpuy, and others.
 
-Alongside their commercial success, they have also used music to carry forward Indigenous cultures, creating a distinctive "Indigenous sound" for Taiwanese music. Since the Golden Melody Awards established the Best Indigenous Language Album Award in 2005, Indigenous-language music has gained institutional recognition.
+In addition to achieving commercial success in the music industry, they also use music to pass down Indigenous culture, creating a unique "Indigenous sound" for Taiwanese music. The GMA's Indigenous language album awards provide an entry point for observing mother-tongue recordings.[^7]
 
-These singers span three generations: from the commercial breakthroughs of the 1990s, to the cultural return of the 2000s, and on to today's diverse experiments on digital platforms. Together, they have written the modern history of Taiwan Indigenous music.
+These parallelly developing musical styles—including Mandarin commercial production, mother-tongue folk, and electronic music—do not form a fixed generational shift. A single artist may also span multiple creative approaches.
 
-**Keywords:** A-mei, Chen Chien-nien, Suming, Sangpuy, Golden Melody Awards, mother-tongue songwriting, cultural transmission
-
----
-
-## A Musical Journey from Tribal Communities to the World
-
-The contemporary development of Taiwan Indigenous music reflects Taiwan society's cultural changes and the awakening of ethnic consciousness.[^1] These singers are both cultural transmitters and social observers; their works pay tribute to tradition while also reflecting on the conditions of modern life.
-
-### Innate Musical Qualities
-
-The musical talent of Indigenous peoples has deep cultural roots.[^2] In tribal societies, music is part of everyday life, from lullabies to ceremonial songs, and people grow up immersed in musical environments. This cultural background has nurtured many Indigenous singers' distinctive sense of pitch, rhythm, and emotional expression.
-
-### Musical Opportunities in Urbanization
-
-The wave of urbanization that began in the 1960s brought many Indigenous young people into cities in search of development opportunities. Although they left their tribal communities, their musical gifts helped them find new stages in the urban entertainment industry, moving from restaurant residencies and nightclub performances into the mainstream music world.
+**Keywords:** aMEI, Chen Chien-nien, Shuming, Sangpuy, Golden Melody Awards, mother-tongue creation, cultural inheritance
 
 ---
 
-## First Generation: The Era of Pioneers (1990-2000)
+## From Tribe to the World: A Musical Journey
 
-### A-mei (1972-): The Puyuma Voice of the Queen of Asian Pop
+Chen Chien-nien's "Ocean" uses both Paiwan and Mandarin, showing how personal songs can move between multiple musical languages.[^1] These artists serve as both cultural inheritors and social observers, with works that both honor tradition and reflect on modern life.
 
-**Ethnicity:** Puyuma  
-**Debut:** 1996 album _Sisters_  
-**Representative works:** "Sisters," "Listen to the Sea," "Hand in Hand," "Can I Hold You"
+### Musical Experiences Are Not the Same
 
-The emergence of A-mei changed the ecology of Mandopop.[^5] With astonishing vocal power and stage charisma, she not only became one of the most influential Mandopop female singers from the late 1990s to the early 2000s, but also allowed the world to see the musical talent of Taiwan's Indigenous peoples.
+Ethnicity cannot replace personal understanding of works. Festival songs, family singing, urban growth, band collaboration, and recording technology all affect different musicians in different ways. Generalizing all Indigenous musicians with a common talent or fixed voice actually obscures the differences in creation. When listening, one can distinguish the language used, lyrics and composition, arrangement methods, and the relationship between the artist and the tribe.
+
+---
+
+## Breaking into the Mandarin Market
+
+### aMEI: The Paiwan Voice of the Asian Queen
+
+**Ethnicity:** Paiwan
+**Debut:** 1996 album "Sisters"
+**Representative works:** "Sisters," "Listening to the Sea," "Holding Hands," "Can I Hold You?"
+
+[aMEI](/en/people/a-mei/)'s emergence changed the ecology of Mandopop.[^5] With her astonishing vocal ability and stage charm, she not only became the most influential Mandarin female singer from the late 1990s to early 2000s, but also let the world see the musical talent of Taiwan's Indigenous people.
 
 **Musical characteristics:**
 
-- A broad vocal range of more than three octaves
-- An explosive singing voice
-- A fusion of R&B, rock, pop, and other elements
-- Stage performances filled with the free-spirited energy associated with Indigenous culture
+- Switching between lyrical songs and rhythmically distinct works
+- Powerful vocals
+- Blending R&B, rock, pop, and other elements
+- Combining dance with band performances on stage
 
-**Cultural significance:**  
-A-mei's success broke the mainstream music industry's stereotypes of Indigenous people, proving that Indigenous singers could do more than sing traditional songs: they could also shine in modern popular music. Her presence inspired countless later artists and opened a path for the development of Indigenous music in the mainstream market.
+**Cultural significance:**
+aMEI's success broke the mainstream music industry's stereotypes about Indigenous people, proving that Indigenous musicians can not only sing traditional songs but also shine in modern pop music. Her existence inspired countless followers and paved the way for Indigenous music to develop in the mainstream market.
 
-### Power Station: Representatives of Powerhouse Vocals
+### Power Station: Representative of Strong Vocals
 
-**Members:** Yen Chih-lin (Paiwan), Yu Chiu-hsing (Paiwan)[^3]  
-**Debut:** 1997  
-**Representative works:** "Dang," "Walking Zhongxiao East Road Nine Times"
+**Members:** Yan Zhilin, You Qi-xing[^3]
+**Debut:** 1997
+**Representative works:** "Being," "Walking Along Zhongxiao East Road Nine Times"
 
-Power Station is known for its rich and forceful harmonies. The two members' voices complement each other exceptionally well, making them a classic model of a male duo. Their musical style leans toward lyrical rock, with voices that carry the thick, resonant quality often associated with Indigenous singers.
+Power Station is known for their thick and powerful harmonies. The two voices complement each other extremely well, becoming a classic example of a male group. Their musical style leans toward lyrical rock, forming recognition with thick harmonies.
 
 ---
 
-## Second Generation: Cultural Return and Innovation (2000-2010)
+## Folk and Mother-Tongue Creation
 
-### Chen Chien-nien (1967-): The Puyuma Chanting of an Ocean Poet
+### Chen Chien-nien: The Paiwan Chanting of the Sea Poet
 
-**Ethnicity:** Puyuma  
-**Debut:** 1999 album _Ocean_  
-**Representative works:** "Ocean," "Love of Lanyu," "Hometown Puyuma"
+**Ethnicity:** Paiwan
+**Debut:** 1999 album "Ocean"
+**Representative works:** "Ocean," "Homeland Puyuma"
 
-Chen Chien-nien has been hailed as the "father of Indigenous folk music." His musical style is warm and restrained, and his singing carries the depth of the ocean and the stillness of mountain forests. His album _Ocean_ won Best Mandarin Male Singer at the 11th Golden Melody Awards,[^4] establishing an important position for Indigenous music at the Golden Melody Awards.
+[Chen Chien-nien](/en/people/chen-chien-nien/)'s musical style is warm and restrained, with a voice that carries the depth of the ocean and the tranquility of the mountains and forests. The "Ocean" album won the Best Mandarin Male Vocalist (King) at the 11th GMA.[^4] It created an important position for Indigenous music at the GMA.
 
 **Musical characteristics:**
 
-- A plain and unadorned folk style
-- Extensive use of the Puyuma language in performance
-- Guitar-centered accompaniment
-- Lyrics filled with deep affection for homeland and culture
+- Simple folk style
+- Singing in Paiwan and Mandarin
+- Guitar-based accompaniment
+- Lyrics full of love for homeland and culture
 
-### Samingad: A Pure and Transparent Voice
+The liner notes of "Ocean" also remind listeners that the performer, lyricist, and producer each have different roles. The producer listed in the liner notes is Zheng Jiren, the language column simultaneously marked Paiwan and Mandarin, and the tracks include "We Are Brothers" and "Homeland Puyuma." Understanding a mother-tongue record, in addition to the artist's ethnicity, can also continue reading along the production list and the language used in the songs.[^1]
 
-**Ethnicity:** Puyuma  
-**Representative works:** "Wildfire Spring Wind," "Flying Solo"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDjRtY0xqr0" title="Kajiwara Music: Chen Chien-nien Ocean Official Music Video" loading="lazy" allowfullscreen></iframe>
 
-Samingad possesses an exceptionally pure and transparent voice. Her singing style lies between tradition and modernity, preserving the primal beauty of Indigenous music while also achieving the refinement of modern music.
+The official music video linked from Kajiwara's "Ocean" album page allows readers to compare the actual sound with the above album information.[^1]
 
-### Biung Wang: A Multi-Directional Exploration by a Gifted Songwriter
+### Ji Xiaojun: Pure and Transparent Voice
 
-**Ethnicity:** Amis  
-**Representative works:** "Moonlight," "Beautiful Heart Folk Song"
+**Ethnicity:** Paiwan
+**Listening entry point:** "The Sound of the Sun, Wind, and Grassland"—Ji Xiaojun won the Best New Artist at the 11th GMA with this album.[^gma11]
 
-Biung Wang is a highly talented singer-songwriter whose music ranges across folk, rock, and the many spaces between Indigenous tradition and modern pop, demonstrating the creative strength of Indigenous musicians.
+Ji Xiaojun has an extremely pure and transparent voice. Her singing style is between tradition and modernity, maintaining the original beauty of Indigenous music while having the sophistication of modern music.
 
----
+### Wang Hong-en: The Versatile Explorer of Creative Talent
 
-## Third Generation: New-Generation Cultural Innovation (2010-Present)
+**Ethnicity:** Bunun
+**Representative works:** "Moonlight"[^wang]
 
-### Suming (1978-): The New King of Song from the Dulan Community
-
-**Birth name:** Chiang Sheng-min  
-**Ethnicity:** Amis (Dulan community)  
-**Debut:** 2010 album _Suming_  
-**Representative works:** "Don't Give Up," "Beautiful Rice Ears," "Ina"
-
-Suming is one of the most representative contemporary Indigenous singer-songwriters. His music combines Amis traditions, modern rock, electronic music, and other elements, creating a distinctive "Dulan sound."
-
-**Musical style:**
-
-- Bilingual songwriting in Amis and Mandarin
-- Fusion of traditional songs with modern arrangements
-- Extensive use of Amis vocables (hai yan)
-- Equal emphasis on rock, electronic, and world music elements
-
-**Cultural contributions:**
-
-- Founded BaLiwakes Music Studio to promote Indigenous music
-- Organized the Amis Kakeng Musical Festival
-- Used music to connect international Indigenous cultural exchanges
-
-**Major album chronology:**
-
-- **_Suming_ (2010):** His debut work, performing modern rock in the Amis language; "Don't Give Up" became widely sung
-- **_East and West_ (2012):** Explores the conflict between tribal culture and modern life, with more mature use of the Amis vocable hai-yan
-- **_The Sea. I Am Waiting for You Here_ (2015):** Incorporates field recordings of natural sounds from the Dulan coast into its arrangements and returns to tribal themes
-- **_I am Suming_ (2017):** Blends world music and electronic elements; nominated for Best Indigenous Language Album at the 28th Golden Melody Awards
-- **_Love_ (2019):** Turns toward more personal emotional writing while retaining an Indigenous-language core
-
-Suming's name means "northern wind" in the Amis language, and the name has also become a gloss on his musical style: directional, yet wild. He has operated a music studio in Dulan over the long term, turning the community into a living cultural field of continuous creation.
-
-### Sangpuy (1971-): Puyuma Poems by a Soul Singer
-
-**Birth name:** Shen Huai-yi  
-**Ethnicity:** Puyuma  
-**Debut:** 2008 album _Dalan_  
-**Representative works:** "[Dalan](https://www.youtube.com/watch?v=ealNSQUDAaU)," "Lahan," "Myth"
-
-Sangpuy's music has a strong spiritual quality.[^6] His voice is deep and powerfully affecting, and his lyrics often carry philosophical reflection and cultural critique. He has been called "Taiwan's Bob Dylan," with a musical style entirely his own.
-
-**Musical characteristics:**
-
-- Poetic lyric writing
-- Acute social observation
-- Minimal yet forceful arrangements
-- Use of both Puyuma and Mandarin
-
-**Major album chronology:**
-
-- **_Dalan_ (2008):** Won Best Indigenous Language Album at the 20th Golden Melody Awards; interprets the ties between land and soul in the Puyuma language
-- **_Kagayan_ (2013):** Its title is taken from a traditional Puyuma song; includes poetic works such as "Lahan" and uses spare instruments such as xylophone and harmonica
-- **_Myth_ (2017):** Enters a steadier creative stage, writing tribal myths and ancestral memory
-- **_Sising_ (2020):** Uses pure Puyuma to explore questions of life, death, and waiting
-
-Sangpuy's live performances are known for their minimalism: one guitar, one microphone, yet a voice that seems to come from deep within the earth. He once said that he is merely taking what Puyuma elders had long since sung and retelling it to young people in a modern context.
-
-### Ado Kaliting Pacidal: A Diverse New-Generation Voice
-
-**Ethnicity:** Amis  
-**Musical style:** Fusion of hip-hop, rock, electronic music, and other modern elements
-
-Ado represents the innovative spirit of a new generation of Indigenous singers. He does not confine himself to traditional forms, but boldly experiments with many musical styles, showing the unlimited possibilities of Indigenous music.
-
-### ABAO: A Global Transmitter of the Puyuma Language
-
-**Ethnicity:** Puyuma (Nanwang community)  
-**Birth name:** Aljenljeng Tjaluvie  
-**Representative works:** "kinakaian Mother Tongue," "Me," "Fly Away"
-
-ABAO is one of contemporary Taiwan's most internationally watched Indigenous singer-songwriters. Her music fuses R&B, electronic music, and traditional Puyuma songs, while her lyrics move flexibly between Indigenous language and Chinese, breaking the stereotype that Indigenous music can "only be traditional."
-
-**Major awards and milestones:**
-
-- Best Taiwanese Album at the 30th Golden Melody Awards (2019, _kinakaian Mother Tongue_)
-- Best Indigenous Language Singer at the 31st Golden Melody Awards (2020)
-- Selected as an Asian-edition cover figure by _TIME_ magazine (2021)
-
-ABAO's musical influence extends beyond Taiwan itself; she has become one of the most visible representative voices of Taiwan Indigenous culture globally. By packaging Indigenous-language songs with modern production standards, she proves that Indigenous languages can speak directly to global audiences in the streaming era, without the mediation of any translation.
-
-**Musical style features:**
-
-- Primarily Puyuma-language, with occasional Chinese used as an emotional bridge
-- Layered combination of electronic beats and traditional chanting
-- Refined visual production, with music videos often juxtaposing tribal rituals and modern urban landscapes
+An interview published by Da Ye University connects "Moonlight" to Wang Hong-en's family memories: he talks about his grandmother weaving cloth, and explains that when singing this song, he thinks of that scene. This provides a concrete entry point for understanding the song. The audience can first get to know the work from one person's memory of his family, and then understand the Bunun living background, without having to classify all creations as traditional or modern first.[^wang]
 
 ---
 
-## The Diverse Contemporary Landscape
+## The Intersection of Mother-Tongue and Contemporary Production
 
-### The Rise of Women's Power
+### Shuming: The New Song King of Dawu Tribe
 
-#### Panai (1969-): The Social Voice of a Protest Singer
+**Ethnicity:** Amis (Taitung Dawu)
+**First solo album:** 2010 "Suming"
+**Listening entry point:** "Our Appointment," "Beautiful Days," "Don't Give Up"[^suming][^suming-album]
 
-**Ethnicity:** Puyuma  
-**Representative works:** "Wandering," "Perhaps One Day"
+Shuming participated in the Totem Band and A-Capella, and also created as an individual. From band to solo works, it is not appropriate to take the year of the first solo album as the starting point of the entire musical career. He devoted himself to youth cultural education in Dawu, and promoted the "Amis Music Festival," connecting performances with daily learning in the tribe.[^suming]
 
-Panai is known for deeply socially conscious songwriting. Her voice carries a strong critical spirit and humanistic concern, and she frequently speaks out on Indigenous rights and social issues.
+Many music records of this performance are accompanied by Dawu youth Sonlay Wu Yuan-kai and Hacoi Su Chuyu. The two participate in Shuming's cultural education activities, extending from tribal learning to music scenes. The performance page describes the "Children of the Beach" program, including going up the mountains and down the seas, learning traditional skills, guitar, and touring performances. This makes cultural inheritance not only stay in the lyrics theme, but also become a learning process that young people can actually participate in.[^suming]
 
-#### Ilid Kaolo: A Transmitter of Ancient Songs in New Form
+"Don't Give Up" is the theme song of the 2015 movie "The Way Back Home," not a song collected in the 2010 debut album. It won the Song of the Year at the 27th GMA in 2016. This route from film to mother-tongue songs also shows how music participates in the narrative of land and life.[^suming-song][^gma27]
 
-**Ethnicity:** Amis  
-**Feature:** Focuses on modern interpretations of ancient Amis songs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jhoom74-IM" title="Good Music: Shuming live session" loading="lazy" allowfullscreen></iframe>
 
-Ilid Kaolo is dedicated to reinterpreting ancient Amis songs. Her music preserves the spiritual core of tradition while introducing a modern musical vocabulary.
+The video is provided by the Good Music performance page, including "Beautiful Days," "Ocean," and "Our Appointment," which can be compared with the creation and singing discussed in this article.[^suming]
 
-🎵 **The Beauty of Indigenous Music:** [Kimbo Hu, "Wind from the Pacific"](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [Works by ABAO](https://www.youtube.com/@abao_888) ｜ [Sangpuy _Dalan_ album preview](https://www.youtube.com/watch?v=ealNSQUDAaU)
+### Sangpuy: The Paiwan Poetry of the Soul Singer
 
-### Innovation in Band Form
+**Name:** Sangpuy (Lu Jie Xing)
+**Ethnicity:** Paiwan
+**Listening entry point:** "Twig," "Get Strength pulu’em"[^gma28][^sangpuy]
 
-#### Totem Band: A Tribal Voice of Rock Spirit
+Sangpuy's works focus on the relationship between people and land, environment, and cultural memory. "Twig" won the Album of the Year at the 28th GMA, and Sangpuy also won the Best Indigenous Language Singer with this work. The album also won the Best Engineered Album. The three awards evaluate different objects, so they cannot be summarized as the Best Indigenous Language Album.[^gma28]
 
-**Founded:** 1999  
-**Members:** Mostly Amis and Puyuma members  
-**Musical style:** Indigenous rock, folk rock
+The third solo album "Get Strength pulu’em" released in 2020 includes electronic, rock, and orchestral sounds in the arrangement, and is not a fixed guitar accompaniment form. This work won the Album of the Year at the 32nd GMA, and Sangpuy won the Best Indigenous Language Singer again.[^sangpuy][^gma32]
 
-#### ZenKwun Band: Explorations in Experimental Music
+## Cross-Domain Production and New Audiences
 
-The band fuses Indigenous elements with experimental music, demonstrating the younger generation's desire for musical innovation.
+### A-Lo (Ado Kaliting Pacidal): The New Generation's Diverse Sound
 
-### Cross-Disciplinary Collaboration and International Exchange
+**Ethnicity:** Amis
+**Musical style:** Blending hip-hop, rock, electronic and other modern elements
 
-Contemporary Indigenous singers now work across a wide range of collaborations, including cooperative projects with international musicians, performances at world music festivals, film and theater scoring, and joint performances with symphony orchestras.
+A-Lo Kaliting Pacidal participates in cross-domain music production. The record of the Hualien Popular Music AI Experimental Base of the Ministry of Culture records her performing "Ocean Written to the Island" in the form of Amis call-and-response singing. This is a specific case of traditional singing methods combined with new technology.[^ado]
 
----
+### ABAO: Paiwan Language and Contemporary Rhythm
 
-## The Golden Melody Awards and Musical Achievement
+**Ethnicity:** Paiwan
+**Tribe name:** A-rong-rong
+**Listening entry point:** "Vavayan Women," "Kinakaian Mother's Tongue"[^abao][^gma28][^gma31]
 
-Since the Golden Melody Awards established the Best Indigenous Language Album Award in 2005 (the 16th awards), Indigenous music has received greater attention and recognition in Taiwan's music world.[^7] The creation of this award marked the Taiwan music industry's formal recognition of the artistic status of Indigenous-language music, rather than treating it merely as a marginal cultural display.
+ABAO's works bring Paiwan into contemporary pop music production. "Kinakaian Mother's Tongue" won the Album of the Year and Best Indigenous Language Album at the 31st GMA in 2020, and "Thank You" from the album won the Song of the Year. The Best Indigenous Language Singer of that year was Lu Jingzi, and the nomination and award of the same year should not be confused.[^gma31]
 
-### Important Winners Over the Years
-
-Chen Chien-nien's _Ocean_ had already broken the silence of mainstream awards toward Indigenous artists in 2000 (the 11th awards) by winning "Best Pop Music Vocalist"; Suming's _Suming_ won Best Indigenous Language Album at the 22nd awards.
-
-- **Sangpuy:** _Dalan_ (Best Indigenous Language Album, 20th awards)
-- **Ilid Kaolo:** _A Light in the Mist_ (Best Indigenous Language Album, 30th awards)
-- **ABAO:** _kinakaian Mother Tongue_ (Best Taiwanese Album, 30th awards); Best Indigenous Language Singer, 31st awards
-- **Suming:** Multiple nominations for Best Indigenous Language Album, including _I am Suming_ (28th awards)
-- **Nabu Husungan Istanda:** An important Amis singer-songwriter of the 2010s and a frequent Golden Melody Awards presence
-- **Elisa Huang:** Atayal; recognized multiple times in Indigenous-language categories for Indigenous-language songs
-- **Matzka:** Fuses reggae with Indigenous-language elements, reaching younger audiences with a light musical style and winning the Golden Melody Award for Best New Artist
-
-These award winners span three decades and cover many Indigenous peoples, including Puyuma, Amis, and Atayal, reflecting the diverse flourishing of the Golden Melody Awards' Indigenous-language categories since their establishment.
-
-### The Cultural Significance of the Awards
-
-The establishment of the Golden Melody Award for Best Indigenous Language Album both affirmed the artistic value of Indigenous music and materially encouraged mother-tongue songwriting and cultural transmission, drawing more young Indigenous people into musical creation.
+These works allow listeners to enter first from rhythm and sound, and then understand the content through lyrics, translation, and creation background. Music can cross language barriers to reach new listeners, but understanding mother-tongue texts still requires translation and cultural context, and cannot be generalized without translation.
 
 ---
 
-## Cultural Issues in the Music
+## The Contemporary Scene of Diversified Development
+
+### Rise of Female Power
+
+#### Bana: The Social Voice of Protest Singers
+
+**Listening entry point:** "Wandering Record" in the album "Mud Doll"[^panai]
+
+Bana is known for her socially conscious creation. Her voice is filled with strong critical spirit and humanistic care, often speaking for Indigenous rights and social issues.
+
+#### Ilid Kaolo (Ilid Kaolo): The Inheritor of Ancient Ballads
+
+**Ethnicity:** Amis
+**Listening entry point:** "Light Life"[^ilid]
+
+Ilid Kaolo's creation is connected with daily life. "Light Life" won the Best Indigenous Language Album at the 23rd GMA, and she also won the Best Indigenous Language Singer and Best New Artist. [^gma23]
+
+### Bands Are Also Entry Points
+
+The Totem Band participated in by Shuming, and the 22nd GMA Best Band Award winner MATZKA, provide listening routes beyond individual singers. MATZKA won the band award that year, not the new artist award.[^suming][^gma22]
+
+### Cross-Border Cooperation and International Exchange
+
+The scope of cross-border cooperation of contemporary Indigenous musicians is quite extensive, covering cooperation projects with international musicians, performances at world music festivals, soundtracks for films and dramas, and collaborations with symphony orchestras.
+
+---
+
+## GMA and Musical Achievements
+
+The 16th GMA already had the "Best Indigenous Language Pop Music Album Award," and Indigenous music received more attention and recognition in the Taiwanese music circle.[^7] The birth of this award marks that the Taiwanese music industry officially recognized the artistic status of mother-tongue music, rather than just marginal cultural performances.
+
+### Several Comparable Award Points
+
+| Session | Musician/Work                    | Award                                                                                       |
+| ------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
+| 11th    | Chen Chien-nien "Ocean"          | Best Mandarin Male Vocalist[^gma11]                                                         |
+| 22nd    | "Suming"                         | Best Indigenous Language Album[^gma22]                                                      |
+| 23rd    | Ilid Kaolo "Light Life"          | Best Indigenous Language Album, Best Indigenous Language Singer, Best New Artist[^gma23]    |
+| 28th    | Sangpuy "Twig"                   | Album of the Year, Best Indigenous Language Singer, Best Engineered Album[^gma28]           |
+| 31st    | ABAO "Kinakaian Mother's Tongue" | Album of the Year, Best Indigenous Language Album. "Thank You" won Song of the Year[^gma31] |
+
+This list is a selection of reading points, not a complete award history. The award year, the release year of the work, and the name of the award should be read separately. The publication date of the data page is also not necessarily equal to the date of the ceremony. For example, the award list page of the 16th GMA of the Ministry of Culture's Audiovisual Department is marked with a publication date of March 20, 2006. When reading historical data, the date of the page cannot be used to re-dating the work or the award.[^7]
+
+### Different Jobs Seen in Singer and Production Awards
+
+The list of the 28th session divides the "Twig" album of the year, Sangpuy's Indigenous language singer, and the album's performance recording. The recording award is separately listed for recording, mixing, and mastering personnel, so writing all three awards as the personal performance achievements of the singer will hide the teamwork. Reading the record of the 31st session in the same way can also distinguish the different levels of recognition of the whole album and a single song. This is a method of reading award data, not ranking musicians by the number of awards.[^gma28][^gma31]
+
+### The Cultural Significance of Awards
+
+The establishment of the GMA's Indigenous language album award is both a recognition of the artistic value of Indigenous music and a real encouragement of mother-tongue creation and cultural inheritance, driving more young Indigenous people to participate in music creation.
+
+---
+
+## Cultural Issues in Music
 
 ### Language Revitalization
 
-Contemporary Indigenous singers have played a concrete role in language revitalization through musical creation. Insistence on singing in mother tongues allows Indigenous languages to regain vitality in modern music; the dual-channel strategy of using Indigenous languages alongside Mandarin expands the reach of the music; and ancient Indigenous-language vocabulary reappears in recordings with new rhythms, enabling younger generations to encounter it.
+Contemporary Indigenous musicians play a practical role in language revitalization through music creation. Insisting on singing in their mother tongue allows the language to regain vitality in modern music. The dual-track strategy of mother-tongue and Mandarin singing also expands the reach of music dissemination. Ancient mother-tongue vocabulary reappears in records with new rhythms, allowing the younger generation to come into contact.
 
-### Identity
+### Identity Recognition
 
-Identity is a central question in many Indigenous works. Urban Indigenous people who left tribal communities for cities use songs to record their complex feelings of living in between; other singers try to reconnect with severed cultural roots by returning to Indigenous languages and traditional melodies. The conflicts brought by modernity, including the pull between traditional norms and the pace of urban life, also leave clear traces in the lyrics.
+Identity recognition is the core theme of many Indigenous creations. Urban Indigenous people who left the tribe record the complex feelings of being caught in between through songs. Some musicians try to reconnect with the broken cultural roots by going back to the mother tongue and traditional melodies. The conflicts brought by modernity—the tension between traditional norms and urban life rhythms—also leave clear traces in the lyrics.
 
 ### Land Justice
 
-Land issues likewise occupy an important place in Indigenous music. Singers such as Panai use their voices to advocate for tribal land rights, and when participating in social movements they also use music as a medium for gathering and protest, allowing broader society to hear the difficulties Indigenous people face.
+Land issues also occupy a place in Indigenous music. Singers like Bana use their voices to speak for tribal land rights, and when participating in social movements, they also use music as a means of gathering and protesting, allowing the broader society to hear the difficulties faced by Indigenous people.
 
 ---
 
-## Impact on the Music Industry
+## Influence on the Music Industry
 
-After Indigenous singers established a firm foothold in the mainstream market, they also produced visible effects on Taiwan's music industry, changing both market structures and methodologies of recording production.
+After Indigenous musicians have established themselves in the mainstream market, they have also had a visible impact on the Taiwanese music industry, changing both the market structure and the methodology of recording production.
 
 ### Diversification of the Music Market
 
-The success of Indigenous singers has made Taiwan's music market more varied. They opened market space for world music, proved the commercial potential of Indigenous-language music, and helped increase the visibility of Taiwan music on the international stage.
+The success of Indigenous musicians has shown a variety of faces in the Taiwanese music market. They have opened up the market space of world music, proving the commercial potential of mother-tongue music, and enhancing the visibility of Taiwanese music on the international stage.
 
 ### Innovation in Music Production
 
-The incorporation of Indigenous musical elements has driven innovation in methods of music production. Traditional instruments have found new positions in modern arrangements; the phonological structures of Indigenous-language lyrics have formed a distinctive aesthetic; and tribal ceremonial music has been adapted into studio products, allowing ritual sounds to continue within recordings.
+The integration of Indigenous music elements has driven innovation in music production methods. Traditional instruments find new positions in modern arrangements, the phonetic structure of mother-tongue lyrics forms a unique aesthetic, and the music of tribal festivals is adapted into studio recordings, allowing the sound of rituals to continue in records.
 
 ---
 
 ## International Influence and Exchange
 
-The international presence of Taiwan Indigenous music is no longer limited to performances resembling cultural exhibitions. It is gradually participating in global musical dialogue with the status of an equal artistic identity.
+The presence of Taiwanese Indigenous music in the international arena is no longer limited to cultural exhibition performances, but gradually participates in global music dialogues with an equal artistic identity.
 
 ### The World Music Stage
 
-The visibility of Taiwan Indigenous singers on the international stage has clearly increased. They are invited to perform at international music festivals, collaborate and exchange with Indigenous musicians from other countries, and receive recognition from international music awards.
+The visibility of Taiwanese Indigenous musicians on the international stage has improved significantly. They have been invited to perform at international music festivals, exchange and cooperate with Indigenous musicians from other countries, and receive recognition at international music awards.
 
-### A Function in Cultural Diplomacy
+### Cultural Diplomacy Functions
 
-Indigenous music plays a substantive role in Taiwan's cultural diplomacy. It presents the diverse face of Taiwan's culture, gives international audiences a more concrete understanding of Taiwan Indigenous cultures, and establishes a cultural identity that distinguishes Taiwan from other regions.
+Indigenous music plays a practical role in Taiwanese cultural diplomacy. It shows the diversity of Taiwanese culture, allowing international audiences to have a more concrete understanding of Taiwanese Indigenous culture, and establishing a cultural identity different from other regions.
 
 ---
 
-## Future Prospects for the New Generation
+## Future Outlook of the New Generation
 
 ### Opportunities in the Digital Age
 
-New media and digital platforms have opened new distribution channels for Indigenous music. Streaming platforms such as YouTube and Spotify have lowered barriers to publication, enabling independent Indigenous musicians to reach global audiences; social media allows musicians to connect directly with fans; and the spread of online teaching means that the transmission of traditional songs is no longer limited by the geography of tribal communities.
+New media and digital platforms have opened new distribution channels for Indigenous music. YouTube, Spotify, and other streaming platforms have lowered the threshold for publication, allowing independent Indigenous musicians to be exposed to a global audience. Social media allows musicians to connect directly with fans. The popularity of online courses has also enabled the inheritance of traditional songs to no longer be limited by tribal geography.
 
-### New-Generation Exploration of Musical Styles
+### New Exploration of Musical Styles
 
-Younger Indigenous musicians are showing diverse musical explorations. The combination of electronic music and traditional songs is no longer rare; some are also experimenting with hip-hop, rap, and related forms; and cases of cross-cultural musical collaboration are increasing as well.
+The new generation of Indigenous musicians shows a diverse exploration of music. The combination of electronic music and traditional songs is no longer rare, and hip-hop, rap, and other forms are also being tried, and cross-cultural music cooperation cases are also increasing.
 
-### New Models of Cultural Transmission
+### New Models of Cultural Inheritance
 
-Contemporary Indigenous singers are also creating new models of cultural transmission. They use modern music to package traditional materials, drawing young people back toward knowledge of their own cultures; Suming founded a music studio in Dulan to train emerging talent, while music festivals organized by different peoples give tribal cultures regular opportunities for public presentation.
+Contemporary Indigenous musicians are also creating new models of cultural inheritance. They package traditional materials with modern music, attracting young people to return to understand their own culture. Shuming established a music studio in Dawu to train new stars, and music festivals held by various tribes have provided fixed opportunities for external display of tribal culture.
 
 ---
 
 ## Listening Guide
 
-The most direct way to understand contemporary Taiwan Indigenous music is to begin with several representative albums: Chen Chien-nien's _Ocean_ is the purest folk starting point; Suming's _Suming_ displays the energy of contemporary Amis rock; and Sangpuy's _Dalan_ carries an intense spiritual quality. A-mei's _A-mei_ and Ilid Kaolo's _A Light in the Mist_ respectively represent different routes through commercial mainstream music and the transmission of ancient songs.
+The most direct way to understand contemporary Indigenous music in Taiwan is to start with a few representative albums: Chen Chien-nien's "Ocean" is the purest folk starting point. Shuming's "Suming" shows the energy of contemporary Amis rock. Sangpuy's "Twig" is full of strong spirituality. Then listen to aMEI's "Sisters" and Ilid Kaolo's "Light Life" to compare the different aspects of Mandarin pop production and mother-tongue creation.[^5][^ilid]
 
-### Live Performances and Events
+### Live and Activities
 
-The Amis Kakeng Musical Festival is held annually in Dulan, Taitung, and is one of the best live settings for experiencing contemporary Amis music. Harvest festivals held by different Indigenous peoples provide direct contact with the original contexts of ceremonial songs. The music programs of Taiwan Indigenous Television (TITV) and the online cultural database of the Council of Indigenous Peoples are also important resources for systematically understanding the music of different Indigenous peoples.
+The Amis Music Festival promoted by Shuming is an entry point for contacting Dawu tribal music and culture. The actual held date should be based on the announcement of the session. When visiting tribal festivals, one should abide by the open range and shooting specifications of the tribe.[^suming] The music programs of the Indigenous Television (TITV) and the online cultural database of the Council of Indigenous Peoples are also important resources for systematically understanding the music of each tribe.
+
+---
+
+Taiwanese contemporary Indigenous musicians have gone through a process in which inheritance and innovation occur at the same time. They leave traces of mother tongue in modern records, use tribal rhythms to speak on the international music festival stage, and let the memories of mountains and oceans be preserved in sound. These singers are both guardians of culture and redefine what Taiwan's sound is as creators.
 
 ---
 
-The path traveled by Taiwan's contemporary Indigenous singers is one in which transmission and innovation occur at the same time. They leave traces of Indigenous languages in modern recordings, give voice to tribal rhythms at international music festivals, and allow the memories of mountains, forests, and oceans to remain in sound. As cultural guardians, these singers also redefine, as creators, what the sound of Taiwan can be.
+## Extended Reading
 
----
+- [aMEI](/en/people/a-mei/): Understanding her musical journey through popular records and stages.
+- [Chen Chien-nien](/en/people/chen-chien-nien/): Extended reading of "Ocean" and creation background.
 
 ## References
 
-- Lu Yu-hsiu, _Taiwan Music History_, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
-- [Official website of the Council of Indigenous Peoples](https://www.cip.gov.tw/)
-- [Golden Melody Awards winners over the years](https://gma.tavis.tw/)
-- [Public Television Taiwan Indigenous Television](https://titv.ipcf.org.tw/)
-- [Taiwan Music Institute Collections](https://musiciantw.ncfta.gov.tw/)
-- [Apple Music "Representative Works of Taiwan Indigenous Music" playlist](https://music.apple.com/tw/playlist/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%93%81/pl.2f0621e681f94e1a942389cc65eeb393)
-- [A-mei Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%83%A0%E5%A6%B9)
-- [Suming Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
-- [Sangpuy Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
+[^1]: [Kajiwara Music "Ocean" album page](https://www.tcmusic.com.tw/cd/003/Default.htm) — Album language, track, release background and award record.
 
-[^1]: [Lu Yu-hsiu, _Taiwan Music History_, Wunan Culture, 2003](https://www.books.com.tw/products/0010906148) — An academic general history of the development of Taiwan Indigenous music; Chapter 1 details the musical characteristics of various Indigenous peoples
+[^3]: [Ministry of Culture Audiovisual Department: 16th GMA Award List](https://www.bamid.gov.tw/News_Content.aspx?n=3539&s=124214) — Power Station members and 1997 debut album introduction. This article does not infer the ethnicity of individual members based on this.
 
-[^2]: [Official website of the Council of Indigenous Peoples](https://www.cip.gov.tw/) — The official government platform for Taiwan Indigenous policy, cultural resources, and introductions to Indigenous peoples
+[^4]: [GMA 11th Award List](https://tavis.tw/gma/35th/GMA/history_11.htm) — Chen Chien-nien Best Mandarin Male Vocalist Award.
 
-[^3]: [Power Station — Wikipedia](https://zh.wikipedia.org/zh-tw/動力火車) — Yen Chih-lin and Yu Chiu-hsing are both Paiwan; related ethnic information is recorded in this entry
+[^5]: [Central News Agency: aMEI Music History](https://www.cna.com.tw/news/firstnews/201612135020.aspx) — 1996 "Sisters" release and production background.
 
-[^4]: [Golden Melody Awards winners over the years](https://gma.tavis.tw/) — Chen Chien-nien's _Ocean_ won Best Male Pop Music Vocalist at the 11th awards (2000), the first time an Indigenous artist won a major Golden Melody Award category
+[^7]: [Ministry of Culture Audiovisual Department: 16th GMA Award List](https://www.bamid.gov.tw/News_Content.aspx?n=3539&s=124214) — The award name of that year is Best Indigenous Language Pop Music Performance Album Award.
 
-[^5]: [A-mei — Wikipedia](https://zh.wikipedia.org/zh-tw/張惠妹) — Puyuma singer; a complete record of her life, discography, and status as Queen of Asian Pop
+[^wang]: [Da Ye University: Wang Hong-en "Moonlight" Sings Grandmother's Blessing](https://bulletin.dyu.edu.tw/index.php?isHidden=1&msg_ID=45403&pool_ID=19) — Bunun identity and song background.
 
-[^6]: [Sangpuy — Wikipedia](https://zh.wikipedia.org/zh-tw/桑布伊) — Puyuma singer-songwriter, with records of his spiritual-poetic style and Golden Melody Awards
+[^suming]: [Good Music: Shuming live session](https://forgoodmusic.com.tw/live/concert/31) — Performance songs, band experience, Dawu education and Amis Music Festival.
 
-[^7]: [Golden Melody Awards winners over the years](https://gma.tavis.tw/) — The Best Indigenous Language Album Award was established beginning with the 16th awards (2005), and complete records of winners over the years are included
+[^suming-album]: [Apple Music: Shuming's first solo creation album](https://music.apple.com/us/album/suming-舒米恩首張個人創作專輯/1395752740) — Album catalog and 2010 release information.
+
+[^suming-song]: [Thick Peace RADIO: Interview with Shuming](https://musictalk.blog/2016/09/20/【鐵玫瑰音樂節-x-taiwan-beats-系列專訪】舒米恩：記得從愛/) — "The Way Back Home" theme song creation background.
+
+[^gma27]: [GMA 27th Award List](https://tavis.tw/gma/35th/GMA/history_27.htm) — "Don't Give Up" Song of the Year.
+
+[^sangpuy]: [Wind Wave Music: Sangpuy "Get Strength pulu’em"](https://store.windmusic.com.tw/zh/CD/SKM-003) — 2020 release, third album and arrangement description.
+
+[^gma32]: [GMA 32nd Award List](https://tavis.tw/gma/35th/GMA/history_32.htm) — "Get Strength" Album of the Year and Indigenous Language Singer Award.
+
+[^ado]: [Ministry of Culture: Hualien Popular Music AI Experimental Base](https://www.moc.gov.tw/News_Content.aspx?n=105&s=233673) — A-Lo's call-and-response singing creation.
+
+[^abao]: [Ministry of Culture: Paiwan Singer ABAO](https://www.moc.gov.tw/en/News_Content2.aspx?n=489&s=17847&sms=10723) — Paiwan and tribe name A-rong-rong.
+
+[^panai]: [Kajiwara Music "Mud Doll"](https://www.tcmusic.com.tw/cd/008/Default.htm) — Bana album and songs.
+
+[^ilid]: [Council of Indigenous Peoples' Overseas Report: Ilid Kaolo Introduction](https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C10802297/001) — Amis background and "Light Life."
+
+[^gma11]: [GMA 11th Award List](https://tavis.tw/gma/35th/GMA/history_11.htm) — Chen Chien-nien male vocalist and Ji Xiaojun new artist award record.
+
+[^gma22]: [GMA 22nd Award List](https://tavis.tw/gma/35th/GMA/history_22.htm) — Suming Indigenous language album and MATZKA band award record.
+
+[^gma23]: [GMA 23rd Award List](https://tavis.tw/gma/35th/GMA/history_23.htm) — Ilid Kaolo album, singer and new artist award record.
+
+[^gma28]: [GMA 28th Award List](https://tavis.tw/gma/35th/GMA/history_28.htm) — Three awards of "Twig" and ABAO "Women" album award record.
+
+[^gma31]: [GMA 31st Award List](https://tavis.tw/gma/35th/GMA/history_31.htm) — "Mother's Tongue" album and "Thank You" song award record.
+
+```
+
+```
