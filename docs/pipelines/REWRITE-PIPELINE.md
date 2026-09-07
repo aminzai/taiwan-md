@@ -36,6 +36,12 @@ upstream_canonical:
 
 ---
 
+## 互動式新版入口（2026-09-07）
+
+[Rewrite Guide](REWRITE-GUIDE.md) 提供 `node scripts/twmd.mjs rewrite` 的逐步 agent 協議：取得任務、提交工件、具名裁決、回退與版本失效。可直接用於局部試寫及文章工作，目前為可執行實驗版。執行 prompt 的來源是 `scripts/rewrite/prompts.mjs`。
+
+本次不把新的任務通過率當文章品質。既有下列 contract 保留作發布相容檢查；新工具不自動發布，也不覆寫 newsroom 歷史。完整採用與退出舊流程的條件見 Guide，避免兩套制度無限疊加。
+
 ## 🗺️ ASCII spine
 
 ```

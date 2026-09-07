@@ -24,6 +24,11 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 // ── Command registry（architecture-as-data：加工具 = 加一行）─────────────────
 // run: argv 陣列（{args} 佔位 = 使用者附加參數插入點；沒有則 append 到尾）
 const COMMANDS = {
+  rewrite: {
+    desc: '互動編輯引導：next / submit / review / backtrack / export',
+    cat: '寫作',
+    run: ['node', 'scripts/rewrite/cli.mjs'],
+  },
   // ── 日常 ──
   status: {
     desc: '生命徵象三件套：器官分數 + routine 跑況 + inbox backlog（BECOME ground truth）',

@@ -40,7 +40,7 @@ last_session: '2026-09-07-164559-audit-upgrade'
 
 CLI：`twmd rewrite start <article> --scope article|section`、`next <run>`、`submit <run> <json>`、`review <run> <json>`、`backtrack <run> <stage> --reason ...`、`status <run>`、`export <run> <html>`。預設 JSON 可被任意 agent 呼叫；人可直接閱讀文字與匯出工作台，不綁雲端模型、不新增 API 費用。
 
-submit 保存工件快照與 SHA-256、提交者、當前任務版本，轉成 awaiting-review；review 必须是不同的 actor，記錄 accept/revise/block、具體理由與證據位置。不同 actor 是協議分工而非可驗證的人格獨立，不把它宣稱真正盲評。cold-read 的任務輸入只列文章，不提供作者論點；共享歷史的主代理不能宣稱自己為獨立盲讀者。
+submit 保存工件快照與 SHA-256、提交者、當前任務版本，轉成 awaiting-review；review 必須是不同的 actor，記錄 accept/revise/block、具體理由與證據位置。不同 actor 是協議分工而非可驗證的人格獨立，不把它宣稱真正盲評。cold-read 的任務輸入只列文章，不提供作者論點；共享歷史的主代理不能宣稱自己為獨立盲讀者。
 
 任務欄位完整只代表可收件；工具永不以欄位存在自動 accept。review 是外部 AI 或人給的具名判斷。缺證據的社會缺席命題、來源錯配、虛構場景等靠具體指令與人工裁決辨別，不造偽語意 regex。verify 分列機械執行紀錄及語意來源核對。release 只允許 ready-for-publication，沒有 deploy URL、commit 與實際遠端驗證就不稱 published；本工具不自動 git merge／社群發文。
 
@@ -68,8 +68,16 @@ submit 保存工件快照與 SHA-256、提交者、當前任務版本，轉成 a
 
 工具可強制版本與程序一致性，不能保證評閱者誠實或文學品味。多代理相同模型仍可能同錯；人工偏好需要持續收回，不能讓自我打分取代使用者。
 
-Anthropic 的 [agent evals](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) 區分執行軌跡與最終結果，並建議結合程式、模型、人類評估與真實案例；本版因此不以任務完成率作文章品質。[Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) 建議只在有清楚標準與可改善的回饋時使用 evaluator–optimizer，並按需求增加複雜度。[Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) 是 2024 年檢索與問答的 context 位置效應研究，支持按需材料設計的動機，不能直接证明本專案寫作退步的原因。
+Anthropic 的 [agent evals](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) 區分執行軌跡與最終結果，並建議結合程式、模型、人類評估與真實案例；本版因此不以任務完成率作文章品質。[Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) 建議只在有清楚標準與可改善的回饋時使用 evaluator–optimizer，並按需求增加複雜度。[Lost in the Middle](https://aclanthology.org/2024.tacl-1.9/) 是 2024 年檢索與問答的 context 位置效應研究，支持按需材料設計的動機，不能直接證明本專案寫作退步的原因。
 
 ## 實作後記
 
-待實跑後填寫；本檔先於工具實作提交。
+本檔先提交於 `dddcd2286`，再實作四個 Node 模組、twmd 路由、13 組負向／回歸測試、說明文件與 newsroom 文件入口，無新增 runtime 依賴。
+
+EZ WAY 局部實跑保留具名退件與 v1→v2→v3；v2 曾接受後又因瀏覽器發現引用顯示缺陷而回退，證實下游裁決失效機制有被實際使用。工件與解讀界限見 [實跑報告](rewrite-guide/README.md)。工程契約與型別檢查通過，手機工作台 390px 未水平溢出。
+
+實作中，cold-read 允許誠實提交「已讀研究」但禁止接受，讓污染能留下 block 紀錄；未讀研究的同一讀者複讀另有 `draft-only-reread` 聲明。CLI 不驗證 actor 真實身份；這一限制保留。
+
+品質結論限於本短節：推論與來源對位、讀者入口及引用顯示已有具體修正。未取得使用者對新稿的品質評價，未證明完整長篇的普遍提升，也未將試稿替換站上原文。
+
+最後協議審查發現 review evidence 只有文字定位與 required field 空容器漏洞，已修為檔案快照/hash依賴與 registry 欄位型別驗證，並新增真實反例測試。當前 run 以新契約重新收件，沒有把舊未綁定裁決當完整證據。

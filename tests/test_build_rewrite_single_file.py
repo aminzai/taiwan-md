@@ -254,3 +254,19 @@ def test_missing_index_raises_clear_error(tmp_path):
         assert False, "應該要 raise（找不到薄索引）"
     except FileNotFoundError as e:
         assert "薄索引" in str(e)
+
+
+def test_source_hash_ignores_foreign_hook_git_context(tmp_path, monkeypatch):
+    import subprocess
+    repo = tmp_path / 'source'
+    repo.mkdir()
+    subprocess.run(['git', 'init', '-q', str(repo)], check=True)
+    source = repo / 'stage.md'
+    source.write_text('source contract\n')
+    subprocess.run(['git', '-C', str(repo), 'add', 'stage.md'], check=True)
+    subprocess.run(['git', '-C', str(repo), '-c', 'user.name=Test', '-c', 'user.email=test@example.com', '-c', 'core.hooksPath=/dev/null', 'commit', '-qm', 'fixture'], check=True)
+    expected = subprocess.check_output(['git', '-C', str(repo), 'rev-parse', '--short', 'HEAD'], text=True).strip()
+    monkeypatch.setenv('GIT_DIR', str(tmp_path / 'wrong.git'))
+    monkeypatch.setenv('GIT_WORK_TREE', str(tmp_path / 'wrong'))
+    monkeypatch.setenv('GIT_INDEX_FILE', str(tmp_path / 'wrong-index'))
+    assert MODULE.git_short_hash(source) == expected

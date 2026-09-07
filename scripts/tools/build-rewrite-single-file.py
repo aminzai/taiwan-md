@@ -36,6 +36,8 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import difflib
+import os
 import re
 import subprocess
 import sys
@@ -159,8 +161,14 @@ def git_short_hash(path: Path) -> str:
     """path 最後一次變動的 commit 短 hash；非 git repo / 未 commit → 'uncommitted'。"""
     try:
         result = subprocess.run(
-            ["git", "log", "-1", "--format=%h", "--", path.name],
+            ["git", "log", "-1", "--format=%h", "--", str(path.resolve())],
             cwd=path.parent,
+            # Hooks export repository-local Git context. This child deliberately
+            # discovers the repository containing the source file instead.
+            env={k: v for k, v in os.environ.items() if k not in {
+                'GIT_DIR', 'GIT_WORK_TREE', 'GIT_COMMON_DIR', 'GIT_INDEX_FILE',
+                'GIT_PREFIX', 'GIT_OBJECT_DIRECTORY', 'GIT_ALTERNATE_OBJECT_DIRECTORIES',
+            }},
             capture_output=True,
             text=True,
             timeout=10,
@@ -304,6 +312,8 @@ def main(argv: list[str] | None = None) -> int:
         if normalize_for_diff(disk_content) != normalize_for_diff(new_content):
             print("❌ 單檔閱讀版過期，請重跑：python3 scripts/tools/build-rewrite-single-file.py")
             print(f"   （輸出路徑：{out_path}）")
+            diff = difflib.unified_diff(normalize_for_diff(disk_content).splitlines(), normalize_for_diff(new_content).splitlines(), fromfile="committed-reading-copy", tofile="regenerated", n=2)
+            print("\n".join(list(diff)[:40]))
             return 1
         print(f"✅ {out_path} 是最新的")
         return 0

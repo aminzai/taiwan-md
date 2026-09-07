@@ -1,0 +1,1 @@
+Node marked.parse draft-v3: exit 0. Exactly three source links; first and second S1, third S2. v2 [1][2] reference ambiguity fixed. No full Astro article rendering claim.

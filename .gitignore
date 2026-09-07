@@ -222,3 +222,6 @@ knowledge/**/*.patch-metrics.json
 
 # article-health sweep JSON（prebuild:dashboard 一掃兩用的中間產物，2026-08-04）
 scripts/tools/.health-sweep.json
+
+# Local Rewrite Guide state; publish curated snapshots under reports/ explicitly.
+.taiwanmd/rewrite-runs/

@@ -16,10 +16,10 @@ generated_from:
   - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e32'
   - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d'
   - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0'
-  - 'REWRITE-STAGE-3-VERIFY.md@36d5c8e32'
+  - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-06T04:20:40+08:00'
+generated_at: '2026-09-07T18:58:24+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
@@ -2118,7 +2118,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 36d5c8e32 ==== -->
+<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 72eeeefa5 ==== -->
 
 ## Stage 3 contract — 驗（草稿驗＋成品總驗）
 

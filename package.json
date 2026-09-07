@@ -74,7 +74,7 @@
     "check:tmpl-lang": "node scripts/tools/check-template-language.mjs",
     "check:rendered-lang": "node scripts/tools/check-rendered-language.mjs --dist dist --lang ar",
     "check:sticky": "node scripts/tools/check-sticky-viewport.mjs",
-    "test:contracts": "npm run test:markdown && npm run test:heading-id && node --test tests/pr-changed-files.test.mjs tests/dashboard-coverage.test.mjs tests/dashboard-safe-html.test.mjs tests/ui-icons.test.mjs workers/mcp/test/*.test.js && npm run feedback:test",
+    "test:contracts": "npm run test:markdown && npm run test:heading-id && node --test tests/pr-changed-files.test.mjs tests/dashboard-coverage.test.mjs tests/dashboard-safe-html.test.mjs tests/ui-icons.test.mjs tests/rewrite-guide.test.mjs workers/mcp/test/*.test.js && npm run feedback:test",
     "check:types": "astro check --minimumFailingSeverity error --minimumSeverity error",
     "prebuild:icons": "node scripts/core/generate-icons.mjs"
   },
