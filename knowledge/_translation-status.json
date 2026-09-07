@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T02:51:13+08:00",
-    "zhCommitHead": "b57825019",
+    "lastUpdated": "2026-09-08T02:59:01+08:00",
+    "zhCommitHead": "98f21ab74",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 753,
+        "fresh": 754,
         "stale": 100,
         "metadata_stale": 34,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "ja": {
@@ -44,24 +44,24 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 752,
-        "stale": 97,
+        "fresh": 754,
+        "stale": 96,
         "metadata_stale": 36,
-        "missing": 236,
+        "missing": 235,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 754,
+        "fresh": 755,
         "stale": 98,
         "metadata_stale": 35,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 612,
-        "stale": 105,
+        "fresh": 613,
+        "stale": 104,
         "metadata_stale": 89,
         "missing": 315,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 703,
-        "stale": 64,
+        "fresh": 704,
+        "stale": 63,
         "metadata_stale": 22,
         "missing": 332,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 85,
+        "fresh": 86,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1029,
+        "missing": 1028,
         "orphan": 0
       }
     },
@@ -31502,7 +31502,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T00:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -31511,10 +31522,32 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -31546,7 +31579,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -41560,18 +41604,16 @@
         "es": {
           "path": "es/Society/where-did-taiwan-moral-education-go.md",
           "translatedFrom": "Society/台灣的道德課去哪了.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:9e2e35c86cfffed4",
-          "sourceBodyHash": "sha256:def0fbd84e75d95c",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:aa6de6422908baca",
+          "sourceBodyHash": "sha256:a98b8189be962f59",
+          "translatedAt": "2026-09-07T18:54:03.827452+00:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/where-did-taiwan-moral-education-go.md",
@@ -41580,8 +41622,8 @@
           "sourceContentHash": "sha256:aa6de6422908baca",
           "sourceBodyHash": "sha256:a98b8189be962f59",
           "translatedAt": "2026-09-07T18:44:54.684132+00:00",
-          "translationLastCommit": "13d3414b",
-          "translationLastModified": "2026-05-20T06:16:29+08:00",
+          "translationLastCommit": "98f21ab7",
+          "translationLastModified": "2026-09-08T02:51:13+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -41590,18 +41632,16 @@
         "vi": {
           "path": "vi/Society/where-did-taiwan-moral-education-go.md",
           "translatedFrom": "Society/台灣的道德課去哪了.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:9e2e35c86cfffed4",
-          "sourceBodyHash": "sha256:def0fbd84e75d95c",
-          "translatedAt": "2026-07-26T23:26:49+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:aa6de6422908baca",
+          "sourceBodyHash": "sha256:a98b8189be962f59",
+          "translatedAt": "2026-09-07T18:58:29.672210+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/where-did-taiwan-moral-education-go.md",
@@ -47439,8 +47479,8 @@
           "sourceContentHash": "sha256:a1c5d1e234e46093",
           "sourceBodyHash": "sha256:b982084e2fb1e6c4",
           "translatedAt": "2026-09-08T00:42:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "98f21ab7",
+          "translationLastModified": "2026-09-08T02:51:13+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -77046,8 +77086,8 @@
           "sourceContentHash": "sha256:6c850ed56b9fd45a",
           "sourceBodyHash": "sha256:f9ebc993a34e1749",
           "translatedAt": "2026-09-07T18:50:37.961544+00:00",
-          "translationLastCommit": "45731cc5",
-          "translationLastModified": "2026-07-28T04:34:06+08:00",
+          "translationLastCommit": "98f21ab7",
+          "translationLastModified": "2026-09-08T02:51:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -77128,18 +77168,16 @@
         "ru": {
           "path": "ru/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "16c428cd9",
-          "sourceContentHash": "sha256:bec4fee3cedcd28d",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T04:21:01.337281+00:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:6c850ed56b9fd45a",
+          "sourceBodyHash": "sha256:f9ebc993a34e1749",
+          "translatedAt": "2026-09-07T18:51:04.542572+00:00",
           "translationLastCommit": "6bca3d7e",
           "translationLastModified": "2026-08-04T14:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/zun.md",
@@ -101948,8 +101986,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-09-08T00:42:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "98f21ab7",
+          "translationLastModified": "2026-09-08T02:51:13+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",

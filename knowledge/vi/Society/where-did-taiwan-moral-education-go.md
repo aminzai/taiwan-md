@@ -21,10 +21,10 @@ lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台灣的道德課去哪了.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:9e2e35c86cfffed4'
-sourceBodyHash: 'sha256:def0fbd84e75d95c'
-translatedAt: '2026-07-26T23:26:49+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:aa6de6422908baca'
+sourceBodyHash: 'sha256:a98b8189be962f59'
+translatedAt: '2026-09-07T18:58:29.672210+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 1993 (năm 82 của Minh Quốc) và 1994 (năm 83), các bộ phận giáo dục đã hủy bỏ môn “Đạo đức và sức khỏe” cho học sinh tiểu học và môn “Công dân và đạo đức” cho học sinh trung học, đồng thời hòa nhập đạo đức vào bảy lĩnh vực học tập của chương trình 12 năm liền. Tuy nhiên, quyết định này không có bất kỳ cuộc thảo luận nào về việc tiếp tục thực hiện giáo dục đạo đức hay nghiên cứu kết quả của giáo dục đạo đức hiện có. Khảo sát của Quỹ Giáo dục Kim Tực vào năm 2001 cho thấy 78% giáo viên tiểu học cho rằng cần tăng cường giáo dục đạo đức. Hơn 20 năm sau, giáo dục đạo đức tại Đài Loan trở thành một “khu vực không ai chịu trách nhiệm, mọi người đều cho rằng quan trọng”.

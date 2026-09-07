@@ -2,9 +2,7 @@
 title: 'Tôn: Từ căn phòng năm lớp 8 đến hai kênh triệu người đăng ký — biên niên trưởng thành của một YouTuber'
 description: 'Từ những video phát trực tiếp trò chơi khi còn học lớp 8, Tôn trở thành YouTuber triệu người đăng ký trẻ nhất Đài Loan lúc bấy giờ ở tuổi 19, rồi tiếp tục đưa kênh phụ vượt mốc một triệu. Tư liệu trải dài 14 năm dương lịch ghi lại quá trình anh đối diện với áp lực sáng tạo, biến cố gia đình và sai sót quảng cáo, để rồi từng bước trưởng thành.'
 date: 2026-07-15
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -14,25 +12,29 @@ tags:
     'Nhân Sinh Phì Trạch',
     'văn hóa số',
   ]
-readingTime: 11
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-15
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/尊.md'
-sourceCommitSha: '16c428cd'
-sourceContentHash: 'sha256:94b77718dfa4da62'
-sourceBodyHash: 'sha256:5579d8d02a3f58ac'
-translatedAt: '2026-07-18T18:59:51+08:00'
-image: /article-images/people/zun-new-home-2025.webp
+researchReport: 'reports/research/2026-07/尊.md'
+readingTime: 11
+image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
+relatedDiary: ['2026-07-15-191335-manual']
+translatedFrom: 'People/尊.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:6c850ed56b9fd45a'
+sourceBodyHash: 'sha256:f9ebc993a34e1749'
+translatedAt: '2026-09-07T18:32:27.451178+00:00'
 ---
 
-> **Tổng quan trong 30 giây:**
-> Tôn bắt đầu đăng video phát trực tiếp trò chơi lên YouTube từ năm lớp 8. Năm 2018, khi 19 tuổi, anh đã có 1,2 triệu người đăng ký và là YouTuber triệu người đăng ký trẻ nhất Đài Loan lúc bấy giờ; đến cuối năm 2024, kênh phụ của anh cũng vượt mốc một triệu. Trong khối tư liệu trải dài 14 năm dương lịch, anh chuyển từ trò chơi sang thí nghiệm, mở hộp và đời sống thường nhật, đồng thời trải qua vụ án Deepfake của anh trai Tiểu Ngọc và sai sót quảng cáo trò chơi “Top War”. Các video, cuộc phỏng vấn và phản hồi công khai cùng tạo thành một biên niên trưởng thành: câu chuyện về một thiếu niên Đài Loan thừa nhận mình chịu áp lực, có thể phạm sai lầm, nhưng vẫn tiếp tục sống cuộc đời mình.
+> **30 giây tóm tắt:**
+> Tôn bắt đầu tải lên YouTube từ lớp 9, ban đầu chủ yếu phát trực tiếp trò chơi. Năm 2018, 19 tuổi, anh đã có 1,2 triệu người đăng ký, là YouTuber triệu người đăng ký trẻ nhất [tại thời điểm đó](/vi/culture/taiwan-youtuber-industry/); đến cuối năm 2024, kênh phụ cũng vượt qua con số triệu. Trong hơn mười bốn năm dữ liệu, anh chuyển đổi từ trò chơi sang thử nghiệm, mở hộp và cuộc sống hàng ngày, cũng trải qua vụ án Deepfake của anh trai nhỏ Tiểu Ngọc và sai lầm quảng bá "Chiến tranh Thời đại mới". Những video, phỏng vấn và câu trả lời công khai cùng lại lại một hồ sơ sự trưởng thành: một thiên tương Đài Loan thừa nhận bản thân mang theo gánh nặng, sai lầm, nhưng vẫn tiếp tục sống.
 
-Năm 2018, khi trả lời phỏng vấn ở tuổi 19, Tôn không quy thành tích một triệu người đăng ký cho tài năng. Anh nói mình chỉ là người “bắt đầu làm sớm nhất”, nhờ đó nắm được cơ hội trước người khác; khi nói về những thay đổi sau khi lượng đăng ký tăng lên, anh còn cho biết: “Khi ít người đăng ký thì cái gì cũng dám quay; khi có nhiều người đăng ký, nhất định sẽ có áp lực.”[^1]
+Năm 2018, khi 19 tuổi, Tôn chưa bao giờ coi 1,2 triệu người đăng ký là thiên phú. Anh nói chỉ là "mới bắt đầu làm", và may mắn khi bắt kịp thời cơ. Khi nói về sự thay đổi sau khi số lượng người đăng ký tăng lên, anh cho rằng: "Khi ít người đăng ký, dám thử bất cứ thứ gì; khi nhiều người đăng ký, sẽ mang lại một gánh nặng nhất định."[^1]
 
-Nhiều năm sau, hai câu nói ấy vẫn rất giống Tôn: một mặt xem nhẹ thành tích, mặt khác thành thật thừa nhận rằng ống kính càng thu hút đông đảo khán giả, không gian để tự do hành động lại càng thu hẹp. Từ những buổi phát trực tiếp trò chơi trong căn phòng năm lớp 8 đến hai kênh triệu người đăng ký, ngôi nhà mới và bạn gái, hồ sơ công khai trải dài 14 năm dương lịch cho khán giả thấy một kênh ngày càng lớn mạnh, đồng thời chứng kiến chủ nhân của nó từng bước trưởng thành.
+Hai câu nói này vẫn giống Tôn suốt nhiều năm sau: một bên nhẹ nhàng về thành tích, một bên thẳng thắn thừa nhận rằng khi mọi ánh sáng đều hướng về mình, không gian hoạt động tự do sẽ ngày càng hẹt hói. Từ những trận chiến game trong phòng của lớp 9, đến hai kênh triệu người đăng ký, ngôi nhà mới và người yêu, hồ sơ công khai trong hơn mười bốn năm đã cho phép người xem chứng kiến sự tăng trưởng của một kênh, đồng thời chứng kiến chủ kênh dần trưởng thành.
 
 ## Một học sinh lớp 8 biến căn phòng thành trường quay
 
