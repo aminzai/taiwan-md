@@ -18,13 +18,13 @@ lastVerified: 2026-04-20
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/范曉萱.md'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:be33318bbff736f0'
-sourceBodyHash: 'sha256:972eef53b5601304'
-translatedAt: '2026-07-26T17:01:24+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:752a0e7cddd9b38d'
+sourceBodyHash: 'sha256:7cceb716a616fa6b'
+translatedAt: '2026-09-07T20:24:46.058231+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Mavis Fan (范曉萱，1977–), penyanyi ciptaan Taiwan. Pada 1995 berusia 18 tahun debut dengan 《Rain》, 1996 〈Lagu Kesehatan〉 menjadikanya "gadis kecil penyihir" bintang remaja paling populer se-Taiwan. 1998 《Darling》 mencukur rambut botak mengisytiharkan transformasi, 1999 《Aku Ingin Kita Bersama》 meraih Anugerah Golden Melody ke-11 Album Pop Terbaik, 2001 《Diva Legendaris》 menembus jalur jazz, 2007 mendirikan Mavis Fan & Band 100%, 2010 meraih Anugerah Golden Melody ke-21 Produser Single Terbaik dengan 〈Tuan Rumah〉. Desember 2025 《Passerby》——16 tahun sejak album terakhir. Tiga dekade ia berulang kali menolak didefinisikan oleh wajah satu era.
+> **Ringkasan 30 Detik:** Mavis Fan (范曉萱, lahir tahun 1977), penyanyi kreatif dari Taiwan. Ia debut pada usia 18 tahun dengan lagu 《Rain》 pada tahun 1995, dan pada tahun 1996 ia menjadi idola anak-anak yang paling populer di seluruh Taiwan dengan 〈Lagu Sehat〉 (健康歌). Pada tahun 1998, ia melakukan transformasi dengan mencukur rambutnya untuk album _Darling_, dan pada tahun 1999, ia memenangkan Penghargaan Album Lagu Pop Terbaik ke-11 [Golden Melody Award](/music/金曲獎/) dengan 《Aku Ingin Kita Bersama》 (我要我們在一起). Pada tahun 2001, ia mengambil jalur jazz dengan 《Diva yang Tak Tertandingi》 (絕世名伶), pada tahun 2007 ia membentuk grup Mavis Fan & 100%, dan pada tahun 2010 ia memenangkan Penghargaan Produser Lagu Terbaik ke-21 Golden Melody Award dengan 〈Tuan〉 (主人). Pada Desember 2025, ia merilis 《Pengembara》 (過客)—16 tahun setelah album sebelumnya. Selama tiga dekade, ia berulang kali menolak untuk didefinisikan oleh satu era.
 
 ## Kertas Tempel di Atas Meja
 
@@ -61,20 +61,20 @@ Album ini meraih 10 Album Terbaik 2001 versi Asosiasi Pertukaran Musisi Tionghoa
 
 Ia memilih tidak membalas—mundur ke dalam. 2001 sampai 2003, ia diliputi depresi hampir tiga tahun.
 
-## Waktu Melihat Balkon Ingin Melompat
+## Masa Ketika Melihat Balkon dan Ingin Melompat
 
-Desember 2004, Mavis Fan bersama Studio Lin Wei-che (林暐哲工作室) (serta bekerja sama dengan musisi Chen Chien-chi 陳建騏 dkk) merilis album ketujuh 《Masih Ada Cara Lain?》 (《還有別的辦法嗎》)—ia sendiri menyebutnya "harian musik" tiga tahun itu[^16].
+Pada Desember 2004, Mavis Fan bersama studio Lin Wei-che (林暐哲) (yang pada saat itu juga bekerja sama dengan musisi seperti [Chen Chien-chi](/id/people/chen-chien-chi-music-producer/)) merilis album ketujuh, 《還有別的辦法嗎》[^16]—ia sendiri menyebutnya sebagai "jurnal musik" selama tiga tahun tersebut.
 
-April 2005, ia menerbitkan buku 《Menulis Kacau》 (《亂寫》), mencatat penuh proses 2001–2003 melewati depresi[^17].
+Pada April 2005, ia menerbitkan buku 《亂寫》 (Luan Xie), yang mencatat secara lengkap proses depresi yang dialaminya dari tahun 2001 hingga 2003[^17].
 
-Bertahun-tahun kemudian ia membuka masa itu:
+Bertahun-tahun kemudian, ia berbicara tentang masa itu:
 
-> "Setiap hari di rumah melihat balkon ingin melompat, pegang pisau dapur ingin bunuh diri." [^18]
+> "Setiap hari di rumah, saya melihat balkon dan ingin melompat, atau memegang pisau dapur dan ingin mengiris perut."[^18]
 
-Itu kata-kata yang ia sendiri tulis ke buku, ucapkan ke wawancara, jadi alur narasi yang ia pilih tinggalkan di catatan publik. Bukan dikutip orang lain, bukan naskah PR—versi yang ia pilih untuk dibiarkan di memori kolektif.
+Itu adalah perkataan yang ia tulis secara terbuka dalam buku dan sampaikan dalam wawancara. Bukan kutipan dari orang lain, bukan siaran pers—tetapi versi yang ia pilih sendiri untuk dimasukkan ke dalam catatan publik.
 
 > **📝 Catatan Kurator**
-> Taiwan.md menulis tokoh, ketemu depresi, luka diri tema sensitif akan ekstra hati-hati—bukan merekonstruksi adegan, bukan mendramatisasi detail. Tapi keistimewaan Mavis Fan ada pada: pengalaman ini adalah dia sendiri pilih tulis ke 《Menulis Kacau》, tulis ke lirik 《Masih Ada Cara Lain?》, tulis ke setiap narasi wawancara. Ia jadikan runtuhnya jadi karya, lalu pakai karya itu balik mengasuh orang lain yang runtuh sama. Ini pilihannya—kami kutip versi dia, tidak tambah garam.
+> Taiwan.md sangat berhati-hati ketika menulis tentang tokoh dengan tema depresi atau melukai diri—kami tidak merekonstruksi adegan, dan kami tidak melebih-lebihkan detailnya. Namun, keistimewaan Mavis Fan adalah: pengalaman ini adalah sesuatu yang ia pilih sendiri untuk ditulis dalam 《亂寫》, ditulis dalam lirik 《還有別的辦法嗎》, dan menjadi alur cerita utama di setiap wawancara. Ia menjadikan kehancuran dirinya sebagai karya seni, lalu menggunakan karya itu untuk merawat orang lain yang juga hancur. Itu adalah pilihannya—kami mengutip versinya sendiri, tanpa menambahkan bumbu.
 
 ## Empat Orang dan Sebuah Perusahaan Bernama "Ikan Makan Rumput"
 

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T06:09:55+08:00",
-    "zhCommitHead": "ea24dd0ec",
+    "lastUpdated": "2026-09-08T06:21:28+08:00",
+    "zhCommitHead": "e11270596",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 760,
+        "fresh": 761,
         "stale": 96,
         "metadata_stale": 33,
-        "missing": 232,
+        "missing": 231,
         "orphan": 0
       },
       "vi": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 538,
-        "stale": 55,
+        "fresh": 539,
+        "stale": 54,
         "metadata_stale": 15,
         "missing": 513,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 748,
-        "stale": 82,
+        "fresh": 749,
+        "stale": 81,
         "metadata_stale": 24,
         "missing": 267,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 619,
-        "stale": 48,
+        "fresh": 620,
+        "stale": 47,
         "metadata_stale": 14,
         "missing": 440,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 683,
-        "stale": 57,
+        "fresh": 684,
+        "stale": 56,
         "metadata_stale": 19,
         "missing": 362,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 713,
+        "fresh": 714,
         "stale": 60,
         "metadata_stale": 19,
-        "missing": 329,
+        "missing": 328,
         "orphan": 0
       },
       "de": {
@@ -30834,18 +30834,16 @@
         "ar": {
           "path": "ar/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "209084a3c",
-          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
-          "sourceBodyHash": "sha256:ab8b8f728e87222a",
-          "translatedAt": "2026-07-27T02:56:19+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d009712e64112e84",
+          "sourceBodyHash": "sha256:29bdbac4c38d6b83",
+          "translatedAt": "2026-09-08T00:42:57+08:00",
           "translationLastCommit": "4423d450",
           "translationLastModified": "2026-07-27T03:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/alien-art-centre.md",
@@ -32972,8 +32970,8 @@
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "e1127059",
+          "translationLastModified": "2026-09-08T06:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39251,8 +39249,8 @@
           "sourceContentHash": "sha256:692645244e391abd",
           "sourceBodyHash": "sha256:28f054608fa81e22",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e1127059",
+          "translationLastModified": "2026-09-08T06:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -39262,7 +39260,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/tra-mingri-express.md",
@@ -39302,7 +39311,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/tra-mingri-express.md",
@@ -75149,8 +75169,8 @@
           "sourceContentHash": "sha256:752a0e7cddd9b38d",
           "sourceBodyHash": "sha256:7cceb716a616fa6b",
           "translatedAt": "2026-09-07T20:32:46.417119+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e1127059",
+          "translationLastModified": "2026-09-08T06:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -91696,8 +91716,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e1127059",
+          "translationLastModified": "2026-09-08T06:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -93210,50 +93230,44 @@
         "id": {
           "path": "id/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-07-25T10:53:16+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-08T00:42:53+08:00",
           "translationLastCommit": "58b3adf2",
           "translationLastModified": "2026-07-25T12:12:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-07-25T06:34:18+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-08T00:42:54+08:00",
           "translationLastCommit": "f13342bb",
           "translationLastModified": "2026-07-25T07:54:50+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-07-25T09:23:12+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-08T00:42:55+08:00",
           "translationLastCommit": "9e4df1d3",
           "translationLastModified": "2026-07-25T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/steve-chen-youtube-cofounder.md",
@@ -107878,8 +107892,8 @@
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "e1127059",
+          "translationLastModified": "2026-09-08T06:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
