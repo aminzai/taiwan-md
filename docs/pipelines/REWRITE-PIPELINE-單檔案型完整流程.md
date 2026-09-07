@@ -7,7 +7,7 @@ current_version: 'v9.9-single'
 last_updated: 2026-09-07
 last_session: '2026-09-07-164559-audit-upgrade（v9.9：新增可執行 Rewrite Guide 入口，既有發布契約保留）'
 generated_from:
-  - 'REWRITE-PIPELINE.md@8a9e22720'
+  - 'REWRITE-PIPELINE.md@46935d4a5'
   - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
   - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbc'
   - 'REWRITE-STAGE-1B-MEDIA.md@70e08c91d'
@@ -19,7 +19,7 @@ generated_from:
   - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-07T19:02:59+08:00'
+generated_at: '2026-09-07T19:04:08+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
