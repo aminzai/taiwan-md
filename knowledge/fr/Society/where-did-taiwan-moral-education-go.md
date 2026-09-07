@@ -2,28 +2,29 @@
 title: "Où est passée l'éducation morale à Taïwan : un cours supprimé et une responsabilité que personne n'a assumée pendant vingt ans"
 description: "Avant 1993, chaque élève d'école primaire à Taïwan suivait chaque semaine un cours de « Morale et Santé », et chaque collégien un cours de « Citoyenneté et Morale ». Le programme scolaire unifié en neuf ans a supprimé ces deux matières, en « intégrant » la morale dans les sept grands domaines d'apprentissage. Résultat : dans les quelque 60 pages du programme du domaine « Sciences sociales », le mot « morale » est presque absent, 78 % des enseignants affirment que l'éducation morale est ce qu'il faudrait le plus renforcer, mais aucun enseignant d'aucune matière ne considère que cela relève de sa responsabilité."
 date: 2026-04-25
-author: "Taiwan.md Contributors"
-category: "Society"
-subcategory: "教育"
-tags: [
-    "éducation morale",
-    "éducation du caractère",
-    "programme unifié en neuf ans",
+category: 'Society'
+tags:
+  [
+    'éducation morale',
+    'éducation du caractère',
+    'programme unifié en neuf ans',
     "réforme de l'éducation",
-    "programme scolaire",
-    "vertu",
-    "valeurs",
-    "citoyenneté et morale",
+    'programme scolaire',
+    'vertu',
+    'valeurs',
+    'citoyenneté et morale',
   ]
-readingTime: 11
+subcategory: '教育'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
-translatedFrom: "Society/台灣的道德課去哪了.md"
-sourceCommitSha: "4b6d28c54"
-sourceContentHash: "sha256:9e2e35c86cfffed4"
-sourceBodyHash: "sha256:def0fbd84e75d95c"
-translatedAt: "2026-05-20T05:08:34+08:00"
+readingTime: 11
+translatedFrom: 'Society/台灣的道德課去哪了.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:aa6de6422908baca'
+sourceBodyHash: 'sha256:a98b8189be962f59'
+translatedAt: '2026-09-07T18:44:54.684132+00:00'
 ---
 
 > **En 30 secondes :** En 1993 et 1994, le ministère de l'Éducation a respectivement supprimé l'enseignement de la matière « Morale et Santé » dans les écoles primaires et de « Citoyenneté et Morale » dans les collèges, en intégrant l'éducation morale dans les sept grands domaines d'apprentissage du programme unifié en neuf ans. Mais cette suppression n'a été précédée d'aucun débat sur la pertinence de maintenir l'éducation morale, ni d'aucune enquête sur l'efficacité de l'enseignement moral existant. Une enquête de la Fondation KCRC pour l'Éducation en 2001 a montré que 78 % des enseignants d'école primaire considéraient que l'éducation morale était ce qu'il fallait le plus renforcer. Plus de vingt ans plus tard, l'éducation morale dans les programmes scolaires taïwanais est devenue une zone de non-droit que « tout le monde juge importante, mais que personne ne considère comme relevant de sa responsabilité ».
@@ -122,13 +123,13 @@ Kohn a également révélé un phénomène pour le moins ironique : « Si nous s
 
 ## Vingt ans plus tard : l'éducation morale est-elle toujours une zone de non-droit ?
 
-La réponse du ministère de l'Éducation a été de lancer le « Programme de promotion de l'éducation morale ». Selon les entrées du septième *Annuaire de l'éducation de la République de Chine*, le ministère de l'Éducation a créé un « Groupe de travail sur l'éducation morale » suite aux conclusions de la « Conférence nationale sur le développement de l'éducation » de 2003, et a promulgué la première phase du programme le 16 décembre 2004 (2004-2008), la deuxième phase révisée en 2009 (2009-2013), et la troisième phase (2014-2018) axée sur la pratique et l'approfondissement des « valeurs morales fondamentales » et des « codes de conduite »[^4][^12]. L'annuaire enregistre également une décision clé prise à partir de l'année scolaire 2006 : l'intégration des vertus cardinales et des codes de conduite dans les domaines d'apprentissage et les heures d'apprentissage flexibles des écoles[^12]. Une enquête de 2009 a dressé la liste des dix valeurs morales fondamentales les plus importantes pour les écoles de chaque niveau, dans l'ordre : respect de la vie, piété filiale et respect des aînés, sens des responsabilités, honnêteté et fiabilité, travail d'équipe, autonomie et autodiscipline, initiative, humilité et courtoisie, bienveillance et actes de charité, protection de l'environnement[^12].
+La réponse du ministère de l'Éducation a été de lancer le « Programme de promotion de l'éducation morale ». Selon les entrées du septième _Annuaire de l'éducation de la République de Chine_, le ministère de l'Éducation a créé un « Groupe de travail sur l'éducation morale » suite aux conclusions de la « Conférence nationale sur le développement de l'éducation » de 2003, et a promulgué la première phase du programme le 16 décembre 2004 (2004-2008), la deuxième phase révisée en 2009 (2009-2013), et la troisième phase (2014-2018) axée sur la pratique et l'approfondissement des « valeurs morales fondamentales » et des « codes de conduite »[^4][^12]. L'annuaire enregistre également une décision clé prise à partir de l'année scolaire 2006 : l'intégration des vertus cardinales et des codes de conduite dans les domaines d'apprentissage et les heures d'apprentissage flexibles des écoles[^12]. Une enquête de 2009 a dressé la liste des dix valeurs morales fondamentales les plus importantes pour les écoles de chaque niveau, dans l'ordre : respect de la vie, piété filiale et respect des aînés, sens des responsabilités, honnêteté et fiabilité, travail d'équipe, autonomie et autodiscipline, initiative, humilité et courtoisie, bienveillance et actes de charité, protection de l'environnement[^12].
 
 Le programme 108, entré en vigueur en 2019, a adopté une approche différente. Le nouveau programme a remplacé les anciennes « compétences fondamentales » par les « compétences clés » (核心素養), structurées en trois dimensions et neuf domaines. L'un des neuf domaines, « **Pratique morale et conscience citoyenne** », relève de la dimension « Engagement social »[^15]. La composante d'éducation civique de l'ancien cours de « Citoyenneté et Morale » — portant sur la démocratie, le droit, les droits et devoirs — s'est transformée au lycée en « Citoyenneté et Société », adoptant une pédagogie d'investigation axée sur les compétences en remplacement de l'ancienne inculcation de vertus cardinales ; au collège, elle a été intégrée dans le « domaine d'apprentissage des sciences sociales »[^14].
 
 On observe donc une distribution singulière dans les emplois du temps des écoles taïwanaises : la citoyenneté a sa matière dédiée, les sciences sociales ont leur domaine, les compétences ont leurs indicateurs, mais la morale n'a pas de place propre. Elle figure dans la « description » de chaque matière, mais n'apparaît sur l'emploi du temps d'aucune matière. La « pratique morale » fait partie des résultats scolaires, mais il n'existe ni heures dédiées, ni enseignants responsables, ni évaluation spécifique. Dans le fonctionnement quotidien de l'école, cela tend à devenir une situation où « chacun est responsable, donc personne n'est responsable ».
 
-Cinq ans après la mise en œuvre du programme 108, les bilans critiques du terrain se sont accumulés. Un reportage spécial du *United Daily News* en 2022 a souligné que le programme 108 était confronté à cinq difficultés majeures après trois ans, incluant des problèmes de « politique en roue libre », de « pression décuplée » et de « surcharge du travail des enseignants », l'écart entre les principes du programme et leur mise en œuvre étant devenu la principale source de controverse[^16]. Le rapport d'observation du programme 108 publié en 2023 par l'équipe EdYouth, composée de lycéens en activité, a directement souligné que le programme avait de bonnes intentions mais que sa mise en œuvre au lycée laissait à désirer, avec un écart marqué entre le ressenti des élèves face aux cours axés sur les compétences et les objectifs de la politique[^17].
+Cinq ans après la mise en œuvre du programme 108, les bilans critiques du terrain se sont accumulés. Un reportage spécial du _United Daily News_ en 2022 a souligné que le programme 108 était confronté à cinq difficultés majeures après trois ans, incluant des problèmes de « politique en roue libre », de « pression décuplée » et de « surcharge du travail des enseignants », l'écart entre les principes du programme et leur mise en œuvre étant devenu la principale source de controverse[^16]. Le rapport d'observation du programme 108 publié en 2023 par l'équipe EdYouth, composée de lycéens en activité, a directement souligné que le programme avait de bonnes intentions mais que sa mise en œuvre au lycée laissait à désirer, avec un écart marqué entre le ressenti des élèves face aux cours axés sur les compétences et les objectifs de la politique[^17].
 
 Ces bilans se concentrent principalement sur les dossiers d'apprentissage, les systèmes d'examen d'entrée à l'université et les inégalités inter-écoles dans l'accès aux ressources d'apprentissage. Bien que la « pratique morale et conscience citoyenne » ait été inscrite dans le programme, les mécanismes d'évaluation sur le terrain pédagogique — ce qui constitue une atteinte des objectifs, qui évalue, comment les résultats de l'évaluation sont utilisés — n'ont toujours pas de réponse claire. Un indicateur de compétence inscrit comme objectif central mais dépourvu de moyens d'accompagnement, et une matière supposée supposée supprimée : quelle est la différence réelle dans l'éducation que reçoivent les élèves ? C'est une question qui mérite d'être posée.
 
@@ -146,36 +147,36 @@ Confucius l'a dit il y a plus de deux mille ans : « Si l'on gouverne le peuple 
 
 ## Références
 
-[^1]: Li Fengru (李奉儒) (2004). Difficultés et percées dans la mise en œuvre de l'éducation morale dans le programme unifié en neuf ans. *Student Counseling* (學生輔導), 92, 38-55 — Contient les données de l'enquête de la Fondation KCRC, l'analyse de la crise de l'éducation morale et le programme d'amélioration « Respect et sollicitude »
+[^1]: Li Fengru (李奉儒) (2004). Difficultés et percées dans la mise en œuvre de l'éducation morale dans le programme unifié en neuf ans. _Student Counseling_ (學生輔導), 92, 38-55 — Contient les données de l'enquête de la Fondation KCRC, l'analyse de la crise de l'éducation morale et le programme d'amélioration « Respect et sollicitude »
 
-[^2]: Li Fengru (李奉儒) (2004). Nouvelle orientation ou néo-conservatisme de l'éducation morale ? Quelques interrogations et attentes concernant l'éducation du caractère. *Conférence académique sur l'éducation du caractère, Centre de formation des enseignants et Institut d'éducation de l'Université Tunghai* — Contient les orientations historiques de l'éducation du caractère, la critique de Kohn, les interrogations sur l'adaptation à Taïwan
+[^2]: Li Fengru (李奉儒) (2004). Nouvelle orientation ou néo-conservatisme de l'éducation morale ? Quelques interrogations et attentes concernant l'éducation du caractère. _Conférence académique sur l'éducation du caractère, Centre de formation des enseignants et Institut d'éducation de l'Université Tunghai_ — Contient les orientations historiques de l'éducation du caractère, la critique de Kohn, les interrogations sur l'adaptation à Taïwan
 
 [^3]: Huang Guangxiong (黃光雄), Li Fengru (李奉儒), Ke Huawei (柯華葳), Zhang Zhendong (張振東), Xu Han (許漢) (2001). Programme intégré d'amélioration de l'enseignement moral à l'école (I) : Éléments moraux. Chiayi : Faculté d'éducation de l'Université Chung Cheng — Projet de trois ans du ministère de l'Éducation
 
 [^4]: [Programme de promotion de l'éducation morale (troisième phase, 2014-2018)](https://ws.moe.edu.tw/001/Upload/10/relfile/8787/80239/0d4f538a-6498-4d88-8b0c-ee6c6d591194.pdf) — PDF officiel du ministère de l'Éducation : voir le contenu du lien original
 
-[^5]: Zhang Xiuxiong (張秀雄) (2002). L'éducation morale civique dans le domaine « Sciences sociales » du programme unifié en neuf ans. *Revue de l'éducation civique* (公民訓育學報), 11, 39-52 — Source du concept de « crise de l'éducation morale »
+[^5]: Zhang Xiuxiong (張秀雄) (2002). L'éducation morale civique dans le domaine « Sciences sociales » du programme unifié en neuf ans. _Revue de l'éducation civique_ (公民訓育學報), 11, 39-52 — Source du concept de « crise de l'éducation morale »
 
 [^6]: [The challenge to care in schools: An alternative approach to education](https://www.google.com/books/edition/The_Challenge_to_Care_in_Schools/) — Noddings, N. (1992). New York: Teachers College, Columbia University Press — Classique de l'éthique du care
 
-[^7]: [Analyse historique de l'éducation morale à Taïwan de 1949 à 2014](https://jepr.ntue.edu.tw/JEPR/upload/journal/prog/68b2ea8d_20151228.pdf) — *Revue de la pratique et de la recherche en éducation* (教育實踐與研究), 28(2), 33-58, 2015. Panorama de l'évolution des politiques d'éducation morale
+[^7]: [Analyse historique de l'éducation morale à Taïwan de 1949 à 2014](https://jepr.ntue.edu.tw/JEPR/upload/journal/prog/68b2ea8d_20151228.pdf) — _Revue de la pratique et de la recherche en éducation_ (教育實踐與研究), 28(2), 33-58, 2015. Panorama de l'évolution des politiques d'éducation morale
 
-[^8]: [Le programme de l'éducation nationale sur 12 ans ne comprend pas « Vie et Éthique » ni « Citoyenneté et Morale » ; un programme « dépourvu de vertu » suscite une vive controverse](https://cdn-news.org/news/11077) — *Christian Tribune* (基督教論壇報), 2017. Controverse sociale autour de l'absence d'éducation morale dans le programme de l'éducation sur 12 ans
+[^8]: [Le programme de l'éducation nationale sur 12 ans ne comprend pas « Vie et Éthique » ni « Citoyenneté et Morale » ; un programme « dépourvu de vertu » suscite une vive controverse](https://cdn-news.org/news/11077) — _Christian Tribune_ (基督教論壇報), 2017. Controverse sociale autour de l'absence d'éducation morale dans le programme de l'éducation sur 12 ans
 
 [^9]: [Renverser l'éducation « dépourvue de vertu »](https://tw.news.yahoo.com/%E7%BF%BB%E8%BD%89%E7%BC%BA%E5%BE%B7%E7%9A%84%E6%95%99%E8%82%B2-201000334.html) — Republié par Yahoo News, analyse des difficultés sur le terrain éducatif après la suppression de la matière de morale du programme
 
-[^10]: Chen Guanghui (陳光輝) (2001). État actuel et tendances de développement de l'éducation morale dans les écoles primaires et secondaires à Taïwan. *Bulletin pédagogique des sciences humaines et sociales* (人文及社會學科教學通訊), 2(1), 51-75 — Analyse de l'état actuel de l'éducation morale
+[^10]: Chen Guanghui (陳光輝) (2001). État actuel et tendances de développement de l'éducation morale dans les écoles primaires et secondaires à Taïwan. _Bulletin pédagogique des sciences humaines et sociales_ (人文及社會學科教學通訊), 2(1), 51-75 — Analyse de l'état actuel de l'éducation morale
 
 [^11]: [Cadre du programme unifié en neuf ans — CIRN](https://cirn.moe.edu.tw/Guildline/index.aspx?sid=9) — Plateforme d'intégration des ressources de programme et d'enseignement du ministère de l'Éducation, documents originaux du cadre général et des cadres de chaque domaine du programme unifié en neuf ans
 
-[^12]: Ministère de l'Éducation (2012). *Septième Annuaire de l'éducation de la République de Chine* (第七次中華民國教育年鑑), Chapitre X : « Affaires étudiantes et conseil », Section II : « Éducation morale et éducation à la vie ». Ministère de l'Éducation — Source officielle primaire, contient l'avancement du programme de promotion de l'éducation morale, la décision sur les vertus cardinales de l'année scolaire 2006, l'enquête sur les valeurs fondamentales, le nombre d'écoles participant au programme d'approfondissement de l'éducation morale
+[^12]: Ministère de l'Éducation (2012). _Septième Annuaire de l'éducation de la République de Chine_ (第七次中華民國教育年鑑), Chapitre X : « Affaires étudiantes et conseil », Section II : « Éducation morale et éducation à la vie ». Ministère de l'Éducation — Source officielle primaire, contient l'avancement du programme de promotion de l'éducation morale, la décision sur les vertus cardinales de l'année scolaire 2006, l'enquête sur les valeurs fondamentales, le nombre d'écoles participant au programme d'approfondissement de l'éducation morale
 
 [^13]: [Réexamen de la citoyenneté : réflexion sur l'élaboration du nouveau programme de « Citoyenneté et Société » au lycée](https://www.ios.sinica.edu.tw/people/personal/mk/mk2009-1.pdf) — Institut de sociologie de l'Académie sinique, 2009. Contient l'origine de la « Doctrine du Parti » en 1928, l'inculcation des Trois Principes du Peuple / esprit national / quatre vertus cardinales et huit vertus secondaires sous la loi martiale, et l'histoire complète du relâchement des structures de pouvoir après la levée de la loi martiale
 
-[^14]: [Disparu pendant 9 ans, les Trois Principes du Peuple reviennent dans les manuels de citoyenneté du lycée](https://news.ltn.com.tw/news/focus/paper/913103) — *Liberty Times* (自由時報), 2015. Contient les dates clés : retrait des Trois Principes du Peuple de l'examen d'entrée à l'université en 1995, renommage en « Citoyenneté et Société » en 2006
+[^14]: [Disparu pendant 9 ans, les Trois Principes du Peuple reviennent dans les manuels de citoyenneté du lycée](https://news.ltn.com.tw/news/focus/paper/913103) — _Liberty Times_ (自由時報), 2015. Contient les dates clés : retrait des Trois Principes du Peuple de l'examen d'entrée à l'université en 1995, renommage en « Citoyenneté et Société » en 2006
 
 [^15]: [Compétences clés — CIRN — Programme de l'éducation nationale sur 12 ans](https://cirn.moe.edu.tw/WebContent/index.aspx?sid=11&mid=12504) — Plateforme d'intégration des ressources de programme et d'enseignement du ministère de l'Éducation. Trois dimensions et neuf domaines, contient la définition officielle de la compétence « Pratique morale et conscience citoyenne »
 
-[^16]: [Politique en roue libre, pression décuplée : le programme 108 confronté à cinq difficultés majeures après trois ans](https://vip.udn.com/newmedia/2022/12-years-education/problem/) — Reportage spécial du *United Daily News* sur l'éducation sur 12 ans, 2022. Bilan critique du terrain après la mise en œuvre du programme
+[^16]: [Politique en roue libre, pression décuplée : le programme 108 confronté à cinq difficultés majeures après trois ans](https://vip.udn.com/newmedia/2022/12-years-education/problem/) — Reportage spécial du _United Daily News_ sur l'éducation sur 12 ans, 2022. Bilan critique du terrain après la mise en œuvre du programme
 
 [^17]: [Rapport d'observation du programme 108 — EdYouth](https://www.edyouth.org/108report) — Deuxième rapport d'observation publié en 2023 par l'équipe EdYouth, composée de lycéens en activité. L'écart entre les principes du programme et leur mise en œuvre du point de vue des élèves
