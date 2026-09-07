@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-07 twmd-maintainer-am — formatter-corrupts-the-url-it-reformats：commit hook 自己的 prettier 把斜體圖說裡的網址改壞，於是這個檔從正常路徑 commit 不進去
+
+- **pattern**: `formatter-corrupts-the-url-it-reformats`
+- **原則**：`lint-staged` 在 pre-commit 跑 `prettier --write`，跑在所有檢查器**之前**。`knowledge/Technology/台灣人工智慧發展與未來策略.md` 有兩張圖的圖說寫成 `_斜體_`，而圖說裡嵌著 Wikimedia 網址，網址本身含底線（`..._Nobel_Prize_Laureate_in_Physics_(3x4_cropped).jpg`）。prettier 把整段當 markdown 強調來解析，把網址中的 `_` 改寫成 `*`，連結當場 404。`link-url-mangle` 閘門有擋下來（hard=1），所以壞掉的版本沒有進庫——**但代價是這個檔從正常 commit 路徑推不進去**：每 commit 一次，prettier 就重新弄壞一次，閘門就再擋一次。本輪只是要改 frontmatter 的 author 一行，最後是 `--no-verify` 才進得去。
+- **為什麼值得記**：這不是「閘門誤殺」，閘門判斷完全正確——壞的是**它上游的自動修改**。系統裡兩個自動化元件對同一份檔案的意見相反，而順序決定了誰先動手：格式化器先寫壞，檢查器後喊停，兩個都在盡責，合起來的效果是這個檔案凍結。既有的 LESSONS `formatter-vs-generator-quote-churn-fakes-scope-alarm`（08-10）記的是同一對元件互相打架造成的**假警報**；本條是同一對元件造成的**真封鎖**，症狀相反、根因同一個。
+- **觸發**：2026-09-07 twmd-maintainer-am 做 author 欄正規化，11 個檔裡這一個 commit 不進去。`git show HEAD:<file>` 對照工作樹確認：庫裡的網址是 `(3x4_cropped)` 完好，prettier 跑完變成 `(3x4*cro...`。同一支 hook 也把 `Threads在台灣.md` 重排了 178 行（既有 prose-health hard=1 另計，與本條無關）。
+- **可能層級**：偏 Taiwan.md 自身工具鏈，未必是跨專案反射。但它跟 REFLEXES #83「檢查器兩把尺」相鄰——那條講兩個檢查器不同調，本條講**格式化器與檢查器不同調**，而且格式化器有寫入權、檢查器只有否決權，寫入權先行。
+- **候選修法**：(a) 內容面（檢查器自己建議的）：把連結移出 `_斜體_` 圖說，改走 §圖片來源 區塊——治本，但要逐篇改圖說結構；(b) 工具面：`.prettierignore` 或 prettier 設定讓 `knowledge/**/*.md` 不做 emphasis 重寫；(c) 最小面：先量出全庫有幾篇「斜體圖說內含帶底線網址」，確認這是一個檔的偶發還是一個家族——**本輪沒做這個量測，所以不知道規模，這是本條目前最大的未知**；(d) 讓 `link-url-mangle` 的訊息直接說「這是 prettier 造成的，不是你寫壞的」，現在的訊息已經有講，但被埋在 20 行輸出裡。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：LESSONS `formatter-vs-generator-quote-churn-fakes-scope-alarm`（2026-08-10，同一對元件、相反症狀）、[REFLEXES #83](REFLEXES.md)（兩把尺 divergence）、commit `9094012f4`（本輪 --no-verify 與理由）
+
+### 2026-09-07 twmd-maintainer-am — config-holds-zh-urls-and-every-language-prefixes-them：版面設定裡寫死中文文章網址，十二個語言各自把它加上自己的前綴送給讀者
+
+- **pattern**: `config-holds-zh-urls-and-every-language-prefixes-them`
+- **原則**：`/companies` 與 `/resources` 兩頁的章節設定裡，相關文章欄位存的是 zh 網址（`/economy/台灣企業：台積電`），版面直接對它套 `translatePath()`（或手拼 `'/' + lang + path`）。`translatePath` 只會加語言前綴，它不知道譯文的 slug 是在地化的——英文那篇住在 `/en/economy/delta-electronics-taiwan-power-giant`。於是十二個語言各自發出十來條指向不存在網址的連結，**而 zh 版剛好是對的**，所以從中文站點怎麼看都正常。這是 §神經迴路「多語言 nav 的隱性路由 scope」（2026-04-18，`translatePath('/semiont')` 在四個語言生出 404）的第 N 次復發，載體從 nav 換成頁面設定裡的相關文章清單。
+- **為什麼這次才被看見**：死連結報告的閘門是**比例**（gated ratio 0.29% < 7%），這 ~104 條連結在 2,420 條死連結裡拉不動比例，報告連續多輪印綠燈。真正讓它現形的是**昨天（09-06）那輪 maintainer 替報告加的「家族」分組**——`/{lang}/economy/*` 在 en/es/fr/ja/ko/pt/vi 七個語言**各自剛好 11 條**，同一個數字在七個語言重複，就不可能是七件意外。這是 detect→隔天用上的正向案例：昨天的修補今天就接住了一個它本來看不見的家族。
+- **修法（本輪已 ship，commit `ce80e600a`）**：不新建對照表——站上早就有 `public/api/lang-switch-map.json` 的 `fromZh`（「給定 zh 網址，這個語言該連到哪」，由各譯文的 `translatedFrom` 產生）。新增 `localizeArticlePath()` / `localizeCompanyArticleUrls()`（`src/utils/dataConfig.ts`，cache 放 module scope 不放 `.astro` frontmatter）。沒有譯文的**不出連結**而不是退回 zh 網址：把英文讀者送到中文頁跟送到 404 一樣是壞體驗，只是壞得比較不明顯。實測 dead 連結 2420 → 2276（-144），十二個語言的這兩頁中文標題網址歸零。
+- **還沒做的那一半（本條留在清單的主要理由）**：`translatePath()` 本身仍然是「對任何路徑都只加前綴」的函式，沒有任何東西阻止下一個版面再寫一次同樣的 bug。dogfood 過候選不變量「`/{lang}/` 底下的連結不得含中日韓字」，全站實測**還有 19 條命中**，全部在譯文文章內文的 `[[wikilink]]`（ja 6 / ko 2 / vi 11），跟本次的版面層是不同的類——那批的源頭是 babel 翻譯時 wikilink 沒在地化，`knowledge/{ja,ko,vi}` 共 107 個檔含中文 wikilink，動它命中 §自主權邊界（>50 檔）且屬 babel 產線，本輪明確不碰。**所以閘門這一輪沒有 ship，只留下校準數字**：要把這條不變量升成擋人的閘門，得先讓那 19 條歸零，否則它一上線就是紅的。
+- **verification_count**: 1（版面層；若把 2026-04-18 `translatePath('/semiont')` 那次算同祖先則 vc=2）
+- **severity**: structural
+- **相關**：[MEMORY §神經迴路](MEMORY.md)「多語言 nav 的隱性路由 scope」與「新語言出生時感知系統不會自動更新」、[REFLEXES #82](REFLEXES.md)（比例綠燈遮蔽家族）、LESSONS `fix-queue-ranked-by-traffic-misses-where-readers-actually-trip`（09-06，同樣是「量到了但排序／比例讓它隱形」）、commit `ce80e600a`
+
 ### 2026-09-06 twmd-routine-audit-weekly — named-check-blind-spot-recurs-across-three-routines-in-one-week：三條不同 routine 各自撞見「閘門只看得見自己點名的東西」，沒有一條知道別條也撞見了
 
 - **pattern**: `named-check-blind-spot-cross-routine-density`
