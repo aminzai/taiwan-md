@@ -5,7 +5,7 @@ date: 2026-03-24
 category: 'Technology'
 tags: ['社群媒體', '數位文化', 'Threads', '迷因', '網路互助', '青年文化']
 subcategory: '社群與數位文化'
-author: 'Editorial Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14
 lastHumanReview: false

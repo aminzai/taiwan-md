@@ -6,7 +6,7 @@ category: 'Art'
 tags:
   ['NFT', '區塊鏈藝術', '社會創新', '公益', '生成藝術', '台灣百岳', '數位藝術']
 subcategory: 'digital-art'
-author: 'taiwan.md'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-24
