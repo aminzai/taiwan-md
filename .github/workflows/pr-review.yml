@@ -58,6 +58,8 @@ jobs:
       - name: Run content review
         if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
         id: review
+        env:
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
         run: |
           python3 - <<'PYTHON'
           import json, os, re, subprocess
