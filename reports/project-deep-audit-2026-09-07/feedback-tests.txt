@@ -1,0 +1,392 @@
+
+> taiwan-md@1.4.0 feedback:test
+> node --test scripts/feedback/*.test.mjs
+
+TAP version 13
+# Subtest: ym extracts YYYY-MM
+ok 1 - ym extracts YYYY-MM
+  ---
+  duration_ms: 0.40125
+  type: 'test'
+  ...
+# Subtest: archiveRelPath: docs/feedback/archive/YYYY-MM/{id}.md
+ok 2 - archiveRelPath: docs/feedback/archive/YYYY-MM/{id}.md
+  ---
+  duration_ms: 0.105833
+  type: 'test'
+  ...
+# Subtest: buildArchiveRecord captures contributor/time/content + NEVER email
+ok 3 - buildArchiveRecord captures contributor/time/content + NEVER email
+  ---
+  duration_ms: 0.760917
+  type: 'test'
+  ...
+# Subtest: mergeComments appends new comments with markers
+ok 4 - mergeComments appends new comments with markers
+  ---
+  duration_ms: 0.1795
+  type: 'test'
+  ...
+# Subtest: mergeComments dedupes on re-run (idempotent)
+ok 5 - mergeComments dedupes on re-run (idempotent)
+  ---
+  duration_ms: 0.16775
+  type: 'test'
+  ...
+# Subtest: mergeComments no-op on empty
+ok 6 - mergeComments no-op on empty
+  ---
+  duration_ms: 0.052625
+  type: 'test'
+  ...
+# Subtest: detectSpam flags the obvious spam row
+ok 7 - detectSpam flags the obvious spam row
+  ---
+  duration_ms: 0.737542
+  type: 'test'
+  ...
+# Subtest: detectSpam passes a genuine correction
+ok 8 - detectSpam passes a genuine correction
+  ---
+  duration_ms: 0.164292
+  type: 'test'
+  ...
+# Subtest: resolveType trusts the reader-selected type
+ok 9 - resolveType trusts the reader-selected type
+  ---
+  duration_ms: 0.058
+  type: 'test'
+  ...
+# Subtest: resolveType infers when type missing
+ok 10 - resolveType infers when type missing
+  ---
+  duration_ms: 0.175458
+  type: 'test'
+  ...
+# Subtest: buildIssue maps content → fact-correction template + labels
+ok 11 - buildIssue maps content → fact-correction template + labels
+  ---
+  duration_ms: 1.250542
+  type: 'test'
+  ...
+# Subtest: buildIssue maps bug → bug template + labels
+ok 12 - buildIssue maps bug → bug template + labels
+  ---
+  duration_ms: 0.524333
+  type: 'test'
+  ...
+# Subtest: buildIssue maps newtopic → article template + labels
+ok 13 - buildIssue maps newtopic → article template + labels
+  ---
+  duration_ms: 0.228041
+  type: 'test'
+  ...
+# Subtest: issue body carries display_name + feedback id but NEVER email
+ok 14 - issue body carries display_name + feedback id but NEVER email
+  ---
+  duration_ms: 0.579417
+  type: 'test'
+  ...
+# Subtest: scrubSecrets strips OAuth tokens / JWT / email from a Supabase auth callback URL
+ok 15 - scrubSecrets strips OAuth tokens / JWT / email from a Supabase auth callback URL
+  ---
+  duration_ms: 0.212667
+  type: 'test'
+  ...
+# Subtest: buildIssue scrubs a token-bearing source_url before it reaches issue body
+ok 16 - buildIssue scrubs a token-bearing source_url before it reaches issue body
+  ---
+  duration_ms: 0.26475
+  type: 'test'
+  ...
+# Subtest: blank display_name falls back to 匿名讀者 in provenance
+ok 17 - blank display_name falls back to 匿名讀者 in provenance
+  ---
+  duration_ms: 0.090583
+  type: 'test'
+  ...
+# Subtest: dedupeKey is stable for the same logical report
+ok 18 - dedupeKey is stable for the same logical report
+  ---
+  duration_ms: 0.295417
+  type: 'test'
+  ...
+# Subtest: isDuplicate catches an already-filed feedback id
+ok 19 - isDuplicate catches an already-filed feedback id
+  ---
+  duration_ms: 0.116625
+  type: 'test'
+  ...
+# Subtest: triageBatch: file genuine, reject spam, skip in-batch dup
+ok 20 - triageBatch: file genuine, reject spam, skip in-batch dup
+  ---
+  duration_ms: 0.277916
+  type: 'test'
+  ...
+# Subtest: resolveType passes idea through
+ok 21 - resolveType passes idea through
+  ---
+  duration_ms: 0.31625
+  type: 'test'
+  ...
+# Subtest: buildIssue maps idea → enhancement + [Idea] title
+ok 22 - buildIssue maps idea → enhancement + [Idea] title
+  ---
+  duration_ms: 0.134125
+  type: 'test'
+  ...
+# Subtest: content issue embeds selected quote + text-fragment deep link
+ok 23 - content issue embeds selected quote + text-fragment deep link
+  ---
+  duration_ms: 0.067458
+  type: 'test'
+  ...
+# Subtest: provenance carries page_kind
+ok 24 - provenance carries page_kind
+  ---
+  duration_ms: 0.0375
+  type: 'test'
+  ...
+# Subtest: triageNoteFor gives a type-specific reader note
+ok 25 - triageNoteFor gives a type-specific reader note
+  ---
+  duration_ms: 0.027917
+  type: 'test'
+  ...
+# Subtest: triageBatch attaches note to file + reject decisions
+ok 26 - triageBatch attaches note to file + reject decisions
+  ---
+  duration_ms: 0.154041
+  type: 'test'
+  ...
+# Subtest: batch-cluster: 同 slug ≥ 5 筆全 hold,0 筆 file
+ok 27 - batch-cluster: 同 slug ≥ 5 筆全 hold,0 筆 file
+  ---
+  duration_ms: 0.233709
+  type: 'test'
+  ...
+# Subtest: batch-cluster: 低於閾值照常逐筆 file
+ok 28 - batch-cluster: 低於閾值照常逐筆 file
+  ---
+  duration_ms: 0.114459
+  type: 'test'
+  ...
+# Subtest: batch-cluster: cluster 外的回報不受影響,照常 file
+ok 29 - batch-cluster: cluster 外的回報不受影響,照常 file
+  ---
+  duration_ms: 0.083583
+  type: 'test'
+  ...
+# Subtest: batch-cluster: cluster 內的 spam 仍 reject,不算進 cluster 數
+ok 30 - batch-cluster: cluster 內的 spam 仍 reject,不算進 cluster 數
+  ---
+  duration_ms: 0.096125
+  type: 'test'
+  ...
+# Subtest: batch-cluster: 無 slug 的回報不會被 cluster
+ok 31 - batch-cluster: 無 slug 的回報不會被 cluster
+  ---
+  duration_ms: 0.126167
+  type: 'test'
+  ...
+# Subtest: detectInjection flags English instruction-override + dangerous command
+ok 32 - detectInjection flags English instruction-override + dangerous command
+  ---
+  duration_ms: 0.034459
+  type: 'test'
+  ...
+# Subtest: detectInjection flags Chinese role-hijack + exec pattern
+ok 33 - detectInjection flags Chinese role-hijack + exec pattern
+  ---
+  duration_ms: 0.027333
+  type: 'test'
+  ...
+# Subtest: detectInjection sees through zero-width smuggling
+ok 34 - detectInjection sees through zero-width smuggling
+  ---
+  duration_ms: 0.032958
+  type: 'test'
+  ...
+# Subtest: detectInjection passes a benign correction that merely quotes a scary word
+ok 35 - detectInjection passes a benign correction that merely quotes a scary word
+  ---
+  duration_ms: 0.026917
+  type: 'test'
+  ...
+# Subtest: buildIssue quarantines suspected injection: security-review label + banner + fenced body
+ok 36 - buildIssue quarantines suspected injection: security-review label + banner + fenced body
+  ---
+  duration_ms: 0.05875
+  type: 'test'
+  ...
+# Subtest: buildIssue fences ALL reader bodies (defense not conditional on detection)
+ok 37 - buildIssue fences ALL reader bodies (defense not conditional on detection)
+  ---
+  duration_ms: 0.038875
+  type: 'test'
+  ...
+# Subtest: fenceUntrusted grows fence beyond content tilde runs (no breakout)
+ok 38 - fenceUntrusted grows fence beyond content tilde runs (no breakout)
+  ---
+  duration_ms: 0.042
+  type: 'test'
+  ...
+# Subtest: sanitizeReaderText strips invisibles but keeps visible text verbatim
+ok 39 - sanitizeReaderText strips invisibles but keeps visible text verbatim
+  ---
+  duration_ms: 0.023875
+  type: 'test'
+  ...
+# Subtest: triageBatch note mentions security-review when injection suspected
+ok 40 - triageBatch note mentions security-review when injection suspected
+  ---
+  duration_ms: 0.085917
+  type: 'test'
+  ...
+# Subtest: stripInvisibles counts and removes bidi controls
+ok 41 - stripInvisibles counts and removes bidi controls
+  ---
+  duration_ms: 0.13775
+  type: 'test'
+  ...
+# Subtest: reconcileArchive: 每筆 filed 都有紀錄時無缺口
+ok 42 - reconcileArchive: 每筆 filed 都有紀錄時無缺口
+  ---
+  duration_ms: 0.079292
+  type: 'test'
+  ...
+# Subtest: reconcileArchive: 抓出 filed 但沒有 git 紀錄的那幾筆
+ok 43 - reconcileArchive: 抓出 filed 但沒有 git 紀錄的那幾筆
+  ---
+  duration_ms: 0.037292
+  type: 'test'
+  ...
+# Subtest: reconcileArchive: 2026-06-11 justfont 那次的形狀（21 筆 filed 全缺紀錄）
+ok 44 - reconcileArchive: 2026-06-11 justfont 那次的形狀（21 筆 filed 全缺紀錄）
+  ---
+  duration_ms: 0.092083
+  type: 'test'
+  ...
+# Subtest: reconcileArchive: 多出來的 archive 檔不算缺口（只單向查 filed→git）
+ok 45 - reconcileArchive: 多出來的 archive 檔不算缺口（只單向查 filed→git）
+  ---
+  duration_ms: 0.03075
+  type: 'test'
+  ...
+# Subtest: reconcileArchive: 空輸入不當成對得起來
+ok 46 - reconcileArchive: 空輸入不當成對得起來
+  ---
+  duration_ms: 0.028708
+  type: 'test'
+  ...
+# Subtest: countArchivedComments 數 marker 不數正文
+ok 47 - countArchivedComments 數 marker 不數正文
+  ---
+  duration_ms: 0.084042
+  type: 'test'
+  ...
+# Subtest: reconcileComments: 收的則數跟線上一致就是對得起來
+ok 48 - reconcileComments: 收的則數跟線上一致就是對得起來
+  ---
+  duration_ms: 0.118792
+  type: 'test'
+  ...
+# Subtest: reconcileComments: archive 比線上少 = sync 漏收,要叫
+ok 49 - reconcileComments: archive 比線上少 = sync 漏收,要叫
+  ---
+  duration_ms: 0.05875
+  type: 'test'
+  ...
+# Subtest: reconcileComments: 2026-07-29 那則的形狀（上游刪留言,git 留著,不報警）
+ok 50 - reconcileComments: 2026-07-29 那則的形狀（上游刪留言,git 留著,不報警）
+  ---
+  duration_ms: 0.041708
+  type: 'test'
+  ...
+# Subtest: reconcileComments: 抓不到留言算 unknown,不算 aligned
+ok 51 - reconcileComments: 抓不到留言算 unknown,不算 aligned
+  ---
+  duration_ms: 0.048167
+  type: 'test'
+  ...
+# Subtest: reconcileComments: 空紀錄 + 線上也空 = 對得起來（不是 unknown）
+ok 52 - reconcileComments: 空紀錄 + 線上也空 = 對得起來（不是 unknown）
+  ---
+  duration_ms: 0.0285
+  type: 'test'
+  ...
+# Subtest: parseArgs: --exclude 可重複,也接受逗號串
+ok 53 - parseArgs: --exclude 可重複,也接受逗號串
+  ---
+  duration_ms: 0.072584
+  type: 'test'
+  ...
+# Subtest: parseArgs: 沒給 --exclude 時是空陣列（預設不排除任何人）
+ok 54 - parseArgs: 沒給 --exclude 時是空陣列（預設不排除任何人）
+  ---
+  duration_ms: 0.059
+  type: 'test'
+  ...
+# Subtest: partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄
+ok 55 - partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄
+  ---
+  duration_ms: 0.062208
+  type: 'test'
+  ...
+# Subtest: partitionExcluded: 打錯的 id 要回報成 unmatched,不能靜默
+ok 56 - partitionExcluded: 打錯的 id 要回報成 unmatched,不能靜默
+  ---
+  duration_ms: 0.031458
+  type: 'test'
+  ...
+# Subtest: partitionExcluded: 沒有 --exclude 時原樣通過
+ok 57 - partitionExcluded: 沒有 --exclude 時原樣通過
+  ---
+  duration_ms: 0.026166
+  type: 'test'
+  ...
+# Subtest: parseArgs: --show 可重複也接受逗號串
+ok 58 - parseArgs: --show 可重複也接受逗號串
+  ---
+  duration_ms: 0.043084
+  type: 'test'
+  ...
+# Subtest: parseArgs: --show-all 收成萬用字元
+ok 59 - parseArgs: --show-all 收成萬用字元
+  ---
+  duration_ms: 0.024333
+  type: 'test'
+  ...
+# Subtest: selectForShow: 指名的那筆被挑出來
+ok 60 - selectForShow: 指名的那筆被挑出來
+  ---
+  duration_ms: 0.051042
+  type: 'test'
+  ...
+# Subtest: selectForShow: 打錯的 id 要回報成 missing,不能印空清單了事
+ok 61 - selectForShow: 打錯的 id 要回報成 missing,不能印空清單了事
+  ---
+  duration_ms: 0.02525
+  type: 'test'
+  ...
+# Subtest: selectForShow: 萬用字元回整批
+ok 62 - selectForShow: 萬用字元回整批
+  ---
+  duration_ms: 0.023167
+  type: 'test'
+  ...
+# Subtest: formatForShow: 全文一字不刪地印出來,含讀者選取的原文
+ok 63 - formatForShow: 全文一字不刪地印出來,含讀者選取的原文
+  ---
+  duration_ms: 0.0585
+  type: 'test'
+  ...
+1..63
+# tests 63
+# suites 0
+# pass 63
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 75.623583

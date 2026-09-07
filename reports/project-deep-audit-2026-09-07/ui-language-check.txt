@@ -1,0 +1,100 @@
+# UI 字串語言閘門
+
+✅ 無簡體外洩、無整串未譯、無該語言讀不到的漢字、字串表與語言註冊表同步
+
+## ⚠️ CJK_FRAGMENT（12，警示級，不擋 push）
+
+  src/i18n/about.ts [de] L4477 「硬塞的網路趨勢觀察」
+     'Weniger als acht Stunden nach der Veröffentlichung berichteten zunächst das <strong>Kulturressort d
+  src/i18n/about.ts [de] L4483 「萬」
+     'Weniger als 48 Stunden nach dem Start überschritt das Projekt auf GitHub die Marke von <strong>500 
+  src/i18n/budget.ts [en] L168 「歲出機關別預算總表」
+     'Source: DGBAS, 歲出機關別預算總表 (supervising-agency totals), FY2016–FY2026. Renamed agencies (Council of A
+  src/i18n/contribute.ts [de] L5797 「中文」
+     '<strong>Bereits verfügbar:</strong> 中文、English、Español、日本語、한국어',
+  src/i18n/map.ts [de] L7050 「吳哲宇」
+     'map.markers.founderCheYuWu.title': 'Gründer — 吳哲宇 Che-Yu Wu',
+  src/i18n/map.ts [de] L7164 「億」
+     'Wie Taiwans Nachtmärkte ohne Marken, Ladenausstattung oder feste Standorte ein Wirtschaftswunder mi
+  src/i18n/map.ts [de] L7189 「萬」
+     '164 registrierte Nachtmärkte, in Tainan durchschnittlich ein Nachtmarkt je 3.8萬 Einwohner: vom Temp
+  src/i18n/map.ts [de] L7234 「萬」
+     'Auf einer Insel von 3.6 萬 Quadratkilometern leben 5.9 萬 Arten – ihre Dichte ist 100-mal so hoch wie
+  src/i18n/map.ts [de] L7243 「萬、億」
+     'Eine 600萬 Jahre alte Insel birgt 2億 Jahre alte Erinnerungen – ein Wunder des jüngsten Gebirgsgürtel
+  src/i18n/map.ts [de] L7297 「萬」
+     'Ein Ort, der in den 1990er Jahren 400 fast volle Deponien hatte und von internationalen Medien als 
+  src/i18n/map.ts [de] L7301 「億」
+     'Ein 209 Tonnen schwerer Stahlträger stürzte herab und forderte 4 Menschenleben, es wurden 16.4 億 Sc
+  src/i18n/map.ts [de] L7397 「萬」
+     'Taiwan umfasst nur 0.025% der weltweiten Landfläche, beherbergt jedoch mehr als 5萬 Arten und liegt 
+
+  非 CJK 語言的句子中間夾著漢字碎片：讀者讀得到前後、讀不到中間那幾個字。
+  幾乎都是翻到一半掉回中文，修法是把那幾個字翻成該語言。
+
+## ⚠️ KEY_PARITY（29，警示級，不擋 push）
+
+  src/i18n/about.ts [vi] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [id] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [pt] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [hi] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [ar] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [ru] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [fr] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/about.ts [es] L0 「缺 6 個 key」
+     about.timeline.2026-07-26.date / about.timeline.2026-07-26.title / about.timeline.2026-07-26.desc.html
+  src/i18n/data.ts [ja] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [ko] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [vi] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [id] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [pt] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [hi] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [ar] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [ru] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [fr] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/data.ts [es] L0 「缺 10 個 key」
+     data.budget.teaser.title / data.budget.teaser.story.p1 / data.budget.teaser.story.p2
+  src/i18n/ui.ts [en] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [ja] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [ko] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [es] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [fr] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [vi] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [id] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [pt] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [hi] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [ar] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+  src/i18n/ui.ts [ru] L0 「缺 26 個 key」
+     search.meta.title / search.meta.desc / search.title
+
+  某語言少了 zh-TW 有的 key → 該處靜默 fallback 到 FALLBACK_CHAIN 的下一個語言，
+  讀者看到的是別人的語言而不是錯誤。全庫既有缺口就有幾百個，所以只印不擋；
+  但**新加的 key 一定要 12 語齊全**，不然你剛補的洞會以另一種面貌留在原地。
+
+ℹ️ 另有 244 筆非 CJK 語言區塊帶邊緣漢字的雙語標示（如 en 的「Taiwan Semiconductor 台積電」）——刻意設計，不報；--verbose 列出

@@ -1,0 +1,379 @@
+{
+  "lastUpdated": "2026-09-06T22:13:46.374Z",
+  "organs": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "nameZh": "心臟",
+      "metaphor": "內容引擎",
+      "emoji": "🫀",
+      "score": 70,
+      "trend": "up",
+      "metrics": {
+        "articlesLast7Days": 10,
+        "articlesLast30Days": 253,
+        "totalArticles": 1119,
+        "selfProducedLast7Days": 0,
+        "selfProducedLast30Days": 4,
+        "contributedLast7Days": 10
+      }
+    },
+    {
+      "id": "immune",
+      "name": "Immune",
+      "nameZh": "免疫系統",
+      "metaphor": "品質防禦",
+      "emoji": "🛡️",
+      "score": 59,
+      "trend": "up",
+      "version": "v2-2026-05-16",
+      "metrics": {
+        "humanReviewedCount": 202,
+        "totalArticles": 1119,
+        "humanReviewedPercent": 18.1,
+        "v2Status": "漂移 — 多維度退化中",
+        "v2Components": {
+          "review_coverage": 19.2,
+          "plugin_pass_rate": 70.1,
+          "plugin_health": 100,
+          "citation_density": 93.7,
+          "tool_freshness": 60,
+          "drift_velocity": 90,
+          "external_rulers": 2.2
+        }
+      }
+    },
+    {
+      "id": "dna",
+      "name": "DNA",
+      "nameZh": "遺傳密碼",
+      "metaphor": "品質基因",
+      "emoji": "🧬",
+      "score": 95,
+      "trend": "up",
+      "metrics": {
+        "editorialLastModified": "2026-09-05T09:28:09.000Z"
+      }
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "nameZh": "骨骼系統",
+      "metaphor": "技術架構",
+      "emoji": "🦴",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {}
+    },
+    {
+      "id": "breath",
+      "name": "Breath",
+      "nameZh": "呼吸系統",
+      "metaphor": "自動化循環",
+      "emoji": "🫁",
+      "score": 85,
+      "trend": "stable",
+      "metrics": {
+        "workflowCount": 12
+      }
+    },
+    {
+      "id": "reproduce",
+      "name": "Reproduce",
+      "nameZh": "繁殖系統",
+      "metaphor": "社群繁殖力",
+      "emoji": "🧫",
+      "score": 100,
+      "trend": "up",
+      "metrics": {
+        "recentContributors": 21,
+        "recentSpores": 7,
+        "topPerformerCount": 5,
+        "topPerformerAvgViews": 239295,
+        "hasBlockbuster": true
+      }
+    },
+    {
+      "id": "senses",
+      "name": "Senses",
+      "nameZh": "感知器官",
+      "metaphor": "外部感知",
+      "emoji": "👁️",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {
+        "hasGA": true,
+        "hasIssueTemplates": true
+      }
+    },
+    {
+      "id": "translation",
+      "name": "Translation",
+      "nameZh": "語言器官",
+      "metaphor": "多語言複製",
+      "emoji": "🌐",
+      "score": 81,
+      "trend": "stable",
+      "metrics": {
+        "languageCoverage": {
+          "zh-TW": 1119,
+          "en": 890,
+          "ja": 886,
+          "ko": 884,
+          "es": 882,
+          "fr": 883,
+          "vi": 803,
+          "id": 602,
+          "pt": 849,
+          "hi": 674,
+          "ar": 754,
+          "ru": 785,
+          "de": 87
+        },
+        "translationPct": 81,
+        "langHealthDetails": {
+          "en": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 890,
+              "pct": 80
+            },
+            "score": 92
+          },
+          "ja": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 0,
+              "total": 12,
+              "pct": 0
+            },
+            "articles": {
+              "count": 886,
+              "pct": 79
+            },
+            "score": 72
+          },
+          "ko": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 884,
+              "pct": 79
+            },
+            "score": 92
+          },
+          "es": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 882,
+              "pct": 79
+            },
+            "score": 92
+          },
+          "fr": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 3,
+              "total": 12,
+              "pct": 25
+            },
+            "articles": {
+              "count": 883,
+              "pct": 79
+            },
+            "score": 77
+          },
+          "vi": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 803,
+              "pct": 72
+            },
+            "score": 90
+          },
+          "id": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 602,
+              "pct": 54
+            },
+            "score": 83
+          },
+          "pt": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 849,
+              "pct": 76
+            },
+            "score": 92
+          },
+          "hi": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 674,
+              "pct": 60
+            },
+            "score": 86
+          },
+          "ar": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 0,
+              "total": 12,
+              "pct": 0
+            },
+            "articles": {
+              "count": 754,
+              "pct": 67
+            },
+            "score": 67
+          },
+          "ru": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 0,
+              "total": 12,
+              "pct": 0
+            },
+            "articles": {
+              "count": 785,
+              "pct": 70
+            },
+            "score": 68
+          },
+          "de": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 87,
+              "pct": 8
+            },
+            "score": 65
+          }
+        }
+      }
+    }
+  ]
+}
