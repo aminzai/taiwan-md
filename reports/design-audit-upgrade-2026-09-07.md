@@ -74,3 +74,5 @@ Supabase migration 0005 尚未套用正式資料庫：管理頁停在登入畫�
 - [Wrangler commands](https://developers.cloudflare.com/workers/wrangler/commands/)：dry-run、部署與正式驗證。
 
 最後提交檢查另抓到小寫 resources 舊分類漏掃：驗證器改按磁碟實際分類目錄遍歷，納入 23 篇原本漏掃檔案，總計 10,123 篇仍為零錯誤、零警告。新增隔離路徑回歸測試。
+
+開發伺服器在全庫格式化與資料同步後觸及 Node 預設約 4 GiB heap 而退出。`npm run dev` 補上 8 GiB 預設並尊重既有 NODE_OPTIONS；這是大站開發容量設定，未據此宣稱排除長期記憶體洩漏。最終視覺驗收使用建置產物預覽，避免把熱更新狀態當成正式產物。
