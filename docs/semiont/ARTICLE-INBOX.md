@@ -2022,6 +2022,8 @@ BECOME_TAIWANMD.md Step 5 新增：
   - GA4 交叉：`ga-query.py --dims pagePath --filter "pagePath~{人名}"` 逐篇跑（本 session 手動跑）
   - 既有判斷歷史：本檔許倬雲 entry §為什麼這篇 vs 其他（2026-05-17 對紀政的舊判斷）
 
+- **2026-09-07 finale 重驗（保留原始記錄，不重建條目）**：GA4／SC 同取 08-07 至 09-05。范曉萱 144 PV、SC 12,125 曝光／100 點擊／0.82% CTR；桂綸鎂 56 PV、6,755 曝光／19 點擊／0.28% CTR。林懷民 bounce 65.6%，本次不沿用「全群 bounce 健康可排除品質」的舊推論。九篇完整表、三源擷取時間與對比理由見 [選題回執](../../reports/evolve-2026-09-07-finale.md)／[原始彙總](../../reports/evolve-2026-09-07-finale-evidence.json)。維持 P1 pending，先取逐頁 query 與改版後窗口，再決定下一個 SEO 動作；本次 page 維度不可與舊 query 維度直接比成趨勢。
+
 ### 學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、既有文章串聯
 
 - **Type**: `NEW`（專題頁 + 1 篇條目）
