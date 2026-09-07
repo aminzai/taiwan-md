@@ -325,3 +325,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-07 | 053929-twmd-routine-sync | 第 41 輪對賬 18/18 prompt in-sync；babel-nightly enabled 假警報現查 MCP 排除，順帶兌現上輪「真的有 fire 且產出」驗證 | 同一顆 proxy signal 假警報第二次出現也要重新現查，不能引用上次的結論 | [→](memory/2026-09-07-053929-twmd-routine-sync.md) |
 | 2026-09-07 | 061621-twmd-data-refresh-am | 14 步全綠零 stale 第七天；scheduler rider 18 條任務（14 enabled/4 disabled）反映 babel-nightly 重開機 | 連續多日全綠的 gate 該反向檢查覆蓋範圍，不是只慶祝穩態 | [→](memory/2026-09-07-061621-twmd-data-refresh-am.md) |
 | 2026-09-07 | 070848-twmd-feedback-triage | 零新回報但照樣跑完 --commit，收進 issue #1440／#1678 兩則維護者回覆；對賬 84/84 與 83/84 全綠 | 佇列空的一輪，價值全部來自保管職責，跳過就漏掉已發生的對話 | [→](memory/2026-09-07-070848-twmd-feedback-triage.md) |
+| 2026-09-07 | 091142-twmd-maintainer-am | 3 篇翻譯 merged；追上游揪出 translatePath 讓 12 語的企業/資源頁發出 ~104 條死連結（-144 條）；作者欄九種寫法收斂 | 比例綠燈時，同一個數字在七個語言各出現十一次才是訊號 | [→](memory/2026-09-07-091142-twmd-maintainer-am.md) |
