@@ -29,9 +29,9 @@
 
 ## 工程驗證
 
-[protocol-tests.txt](protocol-tests.txt)：13 組測試，涵蓋錯階段、舊任務、自審、stale、回退、阻擋、冷讀污染、路徑與儲存 symlink、寫入鎖、HTML escape、CLI 錯誤 JSON、已重現的引用渲染缺陷。
+[protocol-tests.txt](protocol-tests.txt)：14 組測試，涵蓋錯階段、舊任務、自審、stale、回退、阻擋、冷讀污染、路徑與儲存 symlink、寫入鎖、HTML escape、CLI 錯誤 JSON、已重現的引用渲染缺陷。
 
-[contracts.txt](contracts.txt)：本輪完整工程契約通過，包含最終 13 組 guide 測試。[types.txt](types.txt)：672 檔、0 errors。瀏覽器範圍見 [browser-check-v3.md](ezway-section/browser-check-v3.md)。不把這些檢查換算成文章品質分數。
+[contracts.txt](contracts.txt)：本輪完整工程契約通過，包含最終 14 組 guide 測試。[types.txt](types.txt)：672 檔、0 errors。瀏覽器範圍見 [browser-check-v3.md](ezway-section/browser-check-v3.md)。不把這些檢查換算成文章品質分數。
 
 ## 協議審查後的再收件
 

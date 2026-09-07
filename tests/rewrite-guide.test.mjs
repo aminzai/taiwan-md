@@ -280,3 +280,26 @@ test('empty containers and wrong types cannot masquerade as required material', 
     assert.throws(() => g.submit('case', input), /Required field/);
   }
 });
+
+test('next returns review guidance without embedding complete evidence snapshots', (t) => {
+  const { guide: g, root } = fixture(t);
+  writeFileSync(
+    join(root, 'review.md'),
+    'PRIVATE_FULL_REVIEW_MATERIAL '.repeat(2000),
+  );
+  g.submit('case', submission(g));
+  g.review('case', {
+    ...review(g, 'revise'),
+    evidence: [{ path: 'review.md', location: 'paragraph 1' }],
+  });
+  const next = g.next('case');
+  assert.equal(next.feedback.verdict, 'revise');
+  assert.ok(!JSON.stringify(next).includes('PRIVATE_FULL_REVIEW_MATERIAL'));
+  assert.ok(
+    g
+      .status('case')
+      .submissions[0].review.artifacts[0].text.includes(
+        'PRIVATE_FULL_REVIEW_MATERIAL',
+      ),
+  );
+});

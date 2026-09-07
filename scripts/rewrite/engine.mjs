@@ -177,6 +177,22 @@ export class Guide {
       s.stage === 'cold-read'
         ? [draft || s.article]
         : Object.keys(s.dependencies);
+    const previousReview = [...s.submissions]
+      .reverse()
+      .find(
+        (sub) =>
+          sub.stage === s.stage &&
+          sub.review &&
+          sub.review.verdict !== 'accept',
+      )?.review;
+    const feedback = previousReview
+      ? {
+          actor: previousReview.actor,
+          verdict: previousReview.verdict,
+          rationale: previousReview.rationale,
+          evidence: previousReview.evidence,
+        }
+      : null;
     return {
       runId: id,
       revision: s.revision,
@@ -189,15 +205,7 @@ export class Guide {
       instructions: stage.prompt,
       scope: s.scope,
       inputs,
-      feedback:
-        s.stage === 'cold-read'
-          ? null
-          : ([...s.submissions]
-              .reverse()
-              .find(
-                (sub) =>
-                  sub.stage === s.stage && sub.review?.verdict !== 'accept',
-              )?.review ?? null),
+      feedback: s.stage === 'cold-read' ? null : feedback,
       acceptedArtifacts:
         s.stage === 'cold-read'
           ? []

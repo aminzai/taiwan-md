@@ -72,7 +72,7 @@ Anthropic 的 [agent evals](https://www.anthropic.com/engineering/demystifying-e
 
 ## 實作後記
 
-本檔先提交於 `dddcd2286`，再實作四個 Node 模組、twmd 路由、13 組負向／回歸測試、說明文件與 newsroom 文件入口，無新增 runtime 依賴。
+本檔先提交於 `dddcd2286`，再實作四個 Node 模組、twmd 路由、14 組負向／回歸測試、說明文件與 newsroom 文件入口，無新增 runtime 依賴。
 
 EZ WAY 局部實跑保留具名退件與 v1→v2→v3；v2 曾接受後又因瀏覽器發現引用顯示缺陷而回退，證實下游裁決失效機制有被實際使用。工件與解讀界限見 [實跑報告](rewrite-guide/README.md)。工程契約與型別檢查通過，手機工作台 390px 未水平溢出。
 

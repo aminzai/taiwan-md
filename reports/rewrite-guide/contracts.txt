@@ -10,49 +10,49 @@ TAP version 13
 # Subtest: CJK 句末標點後的收尾 ** 會收成 <strong>
 ok 1 - CJK 句末標點後的收尾 ** 會收成 <strong>
   ---
-  duration_ms: 6.141
+  duration_ms: 6.385792
   type: 'test'
   ...
 # Subtest: CJK 括號緊貼的起始 ** 也會收成 <strong>
 ok 2 - CJK 括號緊貼的起始 ** 也會收成 <strong>
   ---
-  duration_ms: 0.693917
+  duration_ms: 0.356417
   type: 'test'
   ...
 # Subtest: 未套設定的 marked 仍會漏出字面 **（證明修正來自設定，不是巧合）
 ok 3 - 未套設定的 marked 仍會漏出字面 **（證明修正來自設定，不是巧合）
   ---
-  duration_ms: 2.985834
+  duration_ms: 2.848167
   type: 'test'
   ...
 # Subtest: GFM 刪除線在 CJK 邊界仍成立
 ok 4 - GFM 刪除線在 CJK 邊界仍成立
   ---
-  duration_ms: 3.019042
+  duration_ms: 2.940375
   type: 'test'
   ...
 # Subtest: 刻意轉義的星號維持字面（如審查過的書名／粗話）
 ok 5 - 刻意轉義的星號維持字面（如審查過的書名／粗話）
   ---
-  duration_ms: 0.220958
+  duration_ms: 0.220667
   type: 'test'
   ...
 # Subtest: 不污染 marked 全域單例（設定只活在本站實例裡）
 ok 6 - 不污染 marked 全域單例（設定只活在本站實例裡）
   ---
-  duration_ms: 0.063209
+  duration_ms: 0.064125
   type: 'test'
   ...
 # Subtest: 標題走 tokens 解析，不把 ** 印進 <h2>，且 id 仍由原文計算
 ok 7 - 標題走 tokens 解析，不把 ** 印進 <h2>，且 id 仍由原文計算
   ---
-  duration_ms: 0.547625
+  duration_ms: 0.549334
   type: 'test'
   ...
 # Subtest: 非 CJK 輸入行為不變
 ok 8 - 非 CJK 輸入行為不變
   ---
-  duration_ms: 1.199417
+  duration_ms: 1.212291
   type: 'test'
   ...
 1..8
@@ -63,7 +63,7 @@ ok 8 - 非 CJK 輸入行為不變
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 63.042458
+# duration_ms 61.452375
 
 > taiwan-md@1.4.0 test:heading-id
 > node --experimental-strip-types --test tests/article-heading-id.test.mjs
@@ -72,79 +72,79 @@ TAP version 13
 # Subtest: 韓文標題：諺文不再被剝成空字串
 ok 1 - 韓文標題：諺文不再被剝成空字串
   ---
-  duration_ms: 1.485167
+  duration_ms: 1.480041
   type: 'test'
   ...
 # Subtest: 阿拉伯文標題：阿拉伯字母不再被剝成空字串
 ok 2 - 阿拉伯文標題：阿拉伯字母不再被剝成空字串
   ---
-  duration_ms: 0.063583
+  duration_ms: 0.06525
   type: 'test'
   ...
 # Subtest: 印地文標題：天城文字母（不含連字符號）保留、不退化
 ok 3 - 印地文標題：天城文字母（不含連字符號）保留、不退化
   ---
-  duration_ms: 0.0635
+  duration_ms: 0.066875
   type: 'test'
   ...
 # Subtest: 印地文帶 matras（母音符號）：字面完整不被剝損（補強 1，2026-09-05）
 ok 4 - 印地文帶 matras（母音符號）：字面完整不被剝損（補強 1，2026-09-05）
   ---
-  duration_ms: 0.038875
+  duration_ms: 0.0425
   type: 'test'
   ...
 # Subtest: 俄文標題：西里爾字母不再被剝成空字串
 ok 5 - 俄文標題：西里爾字母不再被剝成空字串
   ---
-  duration_ms: 0.043209
+  duration_ms: 0.049375
   type: 'test'
   ...
 # Subtest: 帶重音的西班牙文標題：重音字元保留（舊規則會吃掉變成 las-ltimas）
 ok 6 - 帶重音的西班牙文標題：重音字元保留（舊規則會吃掉變成 las-ltimas）
   ---
-  duration_ms: 0.220917
+  duration_ms: 0.218667
   type: 'test'
   ...
 # Subtest: 含全形標點的中文標題：標點被過濾、行為與修復前一致（無退步）
 ok 7 - 含全形標點的中文標題：標點被過濾、行為與修復前一致（無退步）
   ---
-  duration_ms: 0.070791
+  duration_ms: 0.071625
   type: 'test'
   ...
 # Subtest: 日文標題：假名（U+3040-30FF）現在跟漢字一起保留，不再局部損傷
 ok 8 - 日文標題：假名（U+3040-30FF）現在跟漢字一起保留，不再局部損傷
   ---
-  duration_ms: 0.03025
+  duration_ms: 0.030834
   type: 'test'
   ...
 # Subtest: 連續連字號合併＋首尾修剪：空白轉連字號不再留下雜訊
 ok 9 - 連續連字號合併＋首尾修剪：空白轉連字號不再留下雜訊
   ---
-  duration_ms: 0.201333
+  duration_ms: 0.19825
   type: 'test'
   ...
 # Subtest: emoji + 文字：building emoji 本身（\\p{So}）仍被剝掉，但 VS16 變體選擇符留下
 ok 10 - emoji + 文字：building emoji 本身（\\p{So}）仍被剝掉，但 VS16 變體選擇符留下
   ---
-  duration_ms: 0.228458
+  duration_ms: 0.222459
   type: 'test'
   ...
 # Subtest: 60 字元截斷仍然生效（既有行為不變）
 ok 11 - 60 字元截斷仍然生效（既有行為不變）
   ---
-  duration_ms: 0.080791
+  duration_ms: 0.079583
   type: 'test'
   ...
 # Subtest: TOC extractHeadings：標題含 & " < 時，href 必須等於 renderer 真正設的 id（補強 2）
 ok 12 - TOC extractHeadings：標題含 & " < 時，href 必須等於 renderer 真正設的 id（補強 2）
   ---
-  duration_ms: 8.402625
+  duration_ms: 8.040208
   type: 'test'
   ...
 # Subtest: TOC decodeHeadingEntities：解碼順序正確，&amp; 最後解不會連鎖誤解
 ok 13 - TOC decodeHeadingEntities：解碼順序正確，&amp; 最後解不會連鎖誤解
   ---
-  duration_ms: 1.918166
+  duration_ms: 1.450792
   type: 'test'
   ...
 1..13
@@ -155,149 +155,155 @@ ok 13 - TOC decodeHeadingEntities：解碼順序正確，&amp; 最後解不會�
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 91.759208
+# duration_ms 87.818625
 TAP version 13
 # Subtest: coverage measures expected keys, not a threshold or comments
 ok 1 - coverage measures expected keys, not a threshold or comments
   ---
-  duration_ms: 4.491708
+  duration_ms: 4.664542
   type: 'test'
   ...
 # Subtest: external analytics text cannot inject HTML or external/script links
 ok 2 - external analytics text cannot inject HTML or external/script links
   ---
-  duration_ms: 0.450667
+  duration_ms: 0.535666
   type: 'test'
   ...
 # Subtest: git paths survive Chinese, spaces, quotes, shell syntax and newline; hubs excluded explicitly
 ok 3 - git paths survive Chinese, spaces, quotes, shell syntax and newline; hubs excluded explicitly
   ---
-  duration_ms: 265.701791
+  duration_ms: 258.84025
   type: 'test'
   ...
 # Subtest: fork checkout uses merge parents only when requested refs are unavailable
 ok 4 - fork checkout uses merge parents only when requested refs are unavailable
   ---
-  duration_ms: 297.607208
+  duration_ms: 272.373625
   type: 'test'
   ...
 # Subtest: frontmatter validation scans lowercase legacy resource directories
 ok 5 - frontmatter validation scans lowercase legacy resource directories
   ---
-  duration_ms: 49.132167
+  duration_ms: 54.937042
   type: 'test'
   ...
 # Subtest: all six stages need external decisions; section never becomes a published article
 ok 6 - all six stages need external decisions; section never becomes a published article
   ---
-  duration_ms: 19.542208
+  duration_ms: 19.207833
   type: 'test'
   ...
 # Subtest: wrong stage, stale task, missing field, empty evidence and self review cannot advance
 ok 7 - wrong stage, stale task, missing field, empty evidence and self review cannot advance
   ---
-  duration_ms: 6.178125
+  duration_ms: 5.193666
   type: 'test'
   ...
 # Subtest: changed evidence blocks acceptance and backtracking invalidates downstream decisions
 ok 8 - changed evidence blocks acceptance and backtracking invalidates downstream decisions
   ---
-  duration_ms: 5.494709
+  duration_ms: 6.044833
   type: 'test'
   ...
 # Subtest: editing a draft invalidates composition onward without losing accepted research
 ok 9 - editing a draft invalidates composition onward without losing accepted research
   ---
-  duration_ms: 7.865208
+  duration_ms: 7.58575
   type: 'test'
   ...
 # Subtest: revise and block preserve history, and forward skipping is rejected
 ok 10 - revise and block preserve history, and forward skipping is rejected
   ---
-  duration_ms: 6.016416
+  duration_ms: 7.138167
   type: 'test'
   ...
 # Subtest: cold reader must disclose the context boundary
 ok 11 - cold reader must disclose the context boundary
   ---
-  duration_ms: 8.451625
+  duration_ms: 9.196875
   type: 'test'
   ...
 # Subtest: path escapes, unsafe ids, storage symlinks and concurrent writers fail closed
 ok 12 - path escapes, unsafe ids, storage symlinks and concurrent writers fail closed
   ---
-  duration_ms: 2.13375
+  duration_ms: 1.826958
   type: 'test'
   ...
 # Subtest: storage parent symlink is rejected before creating a run
 ok 13 - storage parent symlink is rejected before creating a run
   ---
-  duration_ms: 0.533292
+  duration_ms: 0.50725
   type: 'test'
   ...
 # Subtest: HTML export escapes submitted prose and review content
 ok 14 - HTML export escapes submitted prose and review content
   ---
-  duration_ms: 2.504375
+  duration_ms: 2.817917
   type: 'test'
   ...
 # Subtest: CLI returns machine-readable errors for malformed JSON and unknown commands
 ok 15 - CLI returns machine-readable errors for malformed JSON and unknown commands
   ---
-  duration_ms: 56.372833
+  duration_ms: 55.65975
   type: 'test'
   ...
 # Subtest: dogfood references preserve both sources when adjacent citations are rendered
 ok 16 - dogfood references preserve both sources when adjacent citations are rendered
   ---
-  duration_ms: 8.155959
+  duration_ms: 8.4975
   type: 'test'
   ...
 # Subtest: review evidence is snapshotted and revocation invalidates its decision
 ok 17 - review evidence is snapshotted and revocation invalidates its decision
   ---
-  duration_ms: 5.7725
+  duration_ms: 5.977708
   type: 'test'
   ...
 # Subtest: empty containers and wrong types cannot masquerade as required material
 ok 18 - empty containers and wrong types cannot masquerade as required material
   ---
-  duration_ms: 3.027708
+  duration_ms: 2.652834
+  type: 'test'
+  ...
+# Subtest: next returns review guidance without embedding complete evidence snapshots
+ok 19 - next returns review guidance without embedding complete evidence snapshots
+  ---
+  duration_ms: 3.77525
   type: 'test'
   ...
 # Subtest: icon aliases resolve and unknown names fail
-ok 19 - icon aliases resolve and unknown names fail
+ok 20 - icon aliases resolve and unknown names fail
   ---
-  duration_ms: 0.534916
+  duration_ms: 0.523625
   type: 'test'
   ...
 # Subtest: UI replacement preserves content, attributes, scripts, flags and signature
-ok 20 - UI replacement preserves content, attributes, scripts, flags and signature
+ok 21 - UI replacement preserves content, attributes, scripts, flags and signature
   ---
-  duration_ms: 3.241083
+  duration_ms: 3.197792
   type: 'test'
   ...
 # Subtest: icon-only controls preserve accessible labels
-ok 21 - icon-only controls preserve accessible labels
+ok 22 - icon-only controls preserve accessible labels
   ---
-  duration_ms: 0.278875
+  duration_ms: 0.237875
   type: 'test'
   ...
 # Subtest: failures retry, paths do not collide, metadata and bodies expire
-ok 22 - failures retry, paths do not collide, metadata and bodies expire
+ok 23 - failures retry, paths do not collide, metadata and bodies expire
   ---
-  duration_ms: 15.101
+  duration_ms: 15.45725
   type: 'test'
   ...
-1..22
-# tests 22
+1..23
+# tests 23
 # suites 0
-# pass 22
+# pass 23
 # fail 0
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 653.291833
+# duration_ms 626.273333
 
 > taiwan-md@1.4.0 feedback:test
 > node --test scripts/feedback/*.test.mjs
@@ -306,121 +312,121 @@ TAP version 13
 # Subtest: ym extracts YYYY-MM
 ok 1 - ym extracts YYYY-MM
   ---
-  duration_ms: 0.425083
+  duration_ms: 0.409416
   type: 'test'
   ...
 # Subtest: archiveRelPath: docs/feedback/archive/YYYY-MM/{id}.md
 ok 2 - archiveRelPath: docs/feedback/archive/YYYY-MM/{id}.md
   ---
-  duration_ms: 0.098542
+  duration_ms: 0.057625
   type: 'test'
   ...
 # Subtest: buildArchiveRecord captures contributor/time/content + NEVER email
 ok 3 - buildArchiveRecord captures contributor/time/content + NEVER email
   ---
-  duration_ms: 0.606167
+  duration_ms: 0.551458
   type: 'test'
   ...
 # Subtest: mergeComments appends new comments with markers
 ok 4 - mergeComments appends new comments with markers
   ---
-  duration_ms: 0.138042
+  duration_ms: 0.123625
   type: 'test'
   ...
 # Subtest: mergeComments dedupes on re-run (idempotent)
 ok 5 - mergeComments dedupes on re-run (idempotent)
   ---
-  duration_ms: 0.142541
+  duration_ms: 0.132416
   type: 'test'
   ...
 # Subtest: mergeComments no-op on empty
 ok 6 - mergeComments no-op on empty
   ---
-  duration_ms: 0.049917
+  duration_ms: 0.045583
   type: 'test'
   ...
 # Subtest: detectSpam flags the obvious spam row
 ok 7 - detectSpam flags the obvious spam row
   ---
-  duration_ms: 0.767458
+  duration_ms: 0.749334
   type: 'test'
   ...
 # Subtest: detectSpam passes a genuine correction
 ok 8 - detectSpam passes a genuine correction
   ---
-  duration_ms: 0.182208
+  duration_ms: 0.169167
   type: 'test'
   ...
 # Subtest: resolveType trusts the reader-selected type
 ok 9 - resolveType trusts the reader-selected type
   ---
-  duration_ms: 0.058417
+  duration_ms: 0.057791
   type: 'test'
   ...
 # Subtest: resolveType infers when type missing
 ok 10 - resolveType infers when type missing
   ---
-  duration_ms: 0.201583
+  duration_ms: 0.19625
   type: 'test'
   ...
 # Subtest: buildIssue maps content → fact-correction template + labels
 ok 11 - buildIssue maps content → fact-correction template + labels
   ---
-  duration_ms: 1.323292
+  duration_ms: 1.378083
   type: 'test'
   ...
 # Subtest: buildIssue maps bug → bug template + labels
 ok 12 - buildIssue maps bug → bug template + labels
   ---
-  duration_ms: 0.531125
+  duration_ms: 0.572583
   type: 'test'
   ...
 # Subtest: buildIssue maps newtopic → article template + labels
 ok 13 - buildIssue maps newtopic → article template + labels
   ---
-  duration_ms: 0.226333
+  duration_ms: 0.249583
   type: 'test'
   ...
 # Subtest: issue body carries display_name + feedback id but NEVER email
 ok 14 - issue body carries display_name + feedback id but NEVER email
   ---
-  duration_ms: 0.591458
+  duration_ms: 0.596917
   type: 'test'
   ...
 # Subtest: scrubSecrets strips OAuth tokens / JWT / email from a Supabase auth callback URL
 ok 15 - scrubSecrets strips OAuth tokens / JWT / email from a Supabase auth callback URL
   ---
-  duration_ms: 0.2125
+  duration_ms: 0.230959
   type: 'test'
   ...
 # Subtest: buildIssue scrubs a token-bearing source_url before it reaches issue body
 ok 16 - buildIssue scrubs a token-bearing source_url before it reaches issue body
   ---
-  duration_ms: 0.2765
+  duration_ms: 0.303458
   type: 'test'
   ...
 # Subtest: blank display_name falls back to 匿名讀者 in provenance
 ok 17 - blank display_name falls back to 匿名讀者 in provenance
   ---
-  duration_ms: 0.093959
+  duration_ms: 0.096083
   type: 'test'
   ...
 # Subtest: dedupeKey is stable for the same logical report
 ok 18 - dedupeKey is stable for the same logical report
   ---
-  duration_ms: 0.295833
+  duration_ms: 0.303917
   type: 'test'
   ...
 # Subtest: isDuplicate catches an already-filed feedback id
 ok 19 - isDuplicate catches an already-filed feedback id
   ---
-  duration_ms: 0.113625
+  duration_ms: 0.118584
   type: 'test'
   ...
 # Subtest: triageBatch: file genuine, reject spam, skip in-batch dup
 ok 20 - triageBatch: file genuine, reject spam, skip in-batch dup
   ---
-  duration_ms: 0.288042
+  duration_ms: 0.28325
   type: 'test'
   ...
 # Subtest: resolveType passes idea through
@@ -432,211 +438,211 @@ ok 21 - resolveType passes idea through
 # Subtest: buildIssue maps idea → enhancement + [Idea] title
 ok 22 - buildIssue maps idea → enhancement + [Idea] title
   ---
-  duration_ms: 0.047417
+  duration_ms: 0.054
   type: 'test'
   ...
 # Subtest: content issue embeds selected quote + text-fragment deep link
 ok 23 - content issue embeds selected quote + text-fragment deep link
   ---
-  duration_ms: 0.1045
+  duration_ms: 0.059208
   type: 'test'
   ...
 # Subtest: provenance carries page_kind
 ok 24 - provenance carries page_kind
   ---
-  duration_ms: 0.048208
+  duration_ms: 0.031292
   type: 'test'
   ...
 # Subtest: triageNoteFor gives a type-specific reader note
 ok 25 - triageNoteFor gives a type-specific reader note
   ---
-  duration_ms: 0.031334
+  duration_ms: 0.02575
   type: 'test'
   ...
 # Subtest: triageBatch attaches note to file + reject decisions
 ok 26 - triageBatch attaches note to file + reject decisions
   ---
-  duration_ms: 0.151666
+  duration_ms: 0.130458
   type: 'test'
   ...
 # Subtest: batch-cluster: 同 slug ≥ 5 筆全 hold,0 筆 file
 ok 27 - batch-cluster: 同 slug ≥ 5 筆全 hold,0 筆 file
   ---
-  duration_ms: 0.233625
+  duration_ms: 0.2285
   type: 'test'
   ...
 # Subtest: batch-cluster: 低於閾值照常逐筆 file
 ok 28 - batch-cluster: 低於閾值照常逐筆 file
   ---
-  duration_ms: 0.114667
+  duration_ms: 0.112541
   type: 'test'
   ...
 # Subtest: batch-cluster: cluster 外的回報不受影響,照常 file
 ok 29 - batch-cluster: cluster 外的回報不受影響,照常 file
   ---
-  duration_ms: 0.090333
+  duration_ms: 0.082834
   type: 'test'
   ...
 # Subtest: batch-cluster: cluster 內的 spam 仍 reject,不算進 cluster 數
 ok 30 - batch-cluster: cluster 內的 spam 仍 reject,不算進 cluster 數
   ---
-  duration_ms: 0.101166
+  duration_ms: 0.099041
   type: 'test'
   ...
 # Subtest: batch-cluster: 無 slug 的回報不會被 cluster
 ok 31 - batch-cluster: 無 slug 的回報不會被 cluster
   ---
-  duration_ms: 0.134167
+  duration_ms: 0.332542
   type: 'test'
   ...
 # Subtest: detectInjection flags English instruction-override + dangerous command
 ok 32 - detectInjection flags English instruction-override + dangerous command
   ---
-  duration_ms: 0.035792
+  duration_ms: 0.061959
   type: 'test'
   ...
 # Subtest: detectInjection flags Chinese role-hijack + exec pattern
 ok 33 - detectInjection flags Chinese role-hijack + exec pattern
   ---
-  duration_ms: 0.030583
+  duration_ms: 0.035208
   type: 'test'
   ...
 # Subtest: detectInjection sees through zero-width smuggling
 ok 34 - detectInjection sees through zero-width smuggling
   ---
-  duration_ms: 0.04175
+  duration_ms: 0.039083
   type: 'test'
   ...
 # Subtest: detectInjection passes a benign correction that merely quotes a scary word
 ok 35 - detectInjection passes a benign correction that merely quotes a scary word
   ---
-  duration_ms: 0.032583
+  duration_ms: 0.028208
   type: 'test'
   ...
 # Subtest: buildIssue quarantines suspected injection: security-review label + banner + fenced body
 ok 36 - buildIssue quarantines suspected injection: security-review label + banner + fenced body
   ---
-  duration_ms: 0.059375
+  duration_ms: 0.06875
   type: 'test'
   ...
 # Subtest: buildIssue fences ALL reader bodies (defense not conditional on detection)
 ok 37 - buildIssue fences ALL reader bodies (defense not conditional on detection)
   ---
-  duration_ms: 0.037792
+  duration_ms: 0.041334
   type: 'test'
   ...
 # Subtest: fenceUntrusted grows fence beyond content tilde runs (no breakout)
 ok 38 - fenceUntrusted grows fence beyond content tilde runs (no breakout)
   ---
-  duration_ms: 0.03925
+  duration_ms: 0.047625
   type: 'test'
   ...
 # Subtest: sanitizeReaderText strips invisibles but keeps visible text verbatim
 ok 39 - sanitizeReaderText strips invisibles but keeps visible text verbatim
   ---
-  duration_ms: 0.023917
+  duration_ms: 0.024167
   type: 'test'
   ...
 # Subtest: triageBatch note mentions security-review when injection suspected
 ok 40 - triageBatch note mentions security-review when injection suspected
   ---
-  duration_ms: 0.055584
+  duration_ms: 0.055542
   type: 'test'
   ...
 # Subtest: stripInvisibles counts and removes bidi controls
 ok 41 - stripInvisibles counts and removes bidi controls
   ---
-  duration_ms: 0.096375
+  duration_ms: 0.094542
   type: 'test'
   ...
 # Subtest: reconcileArchive: 每筆 filed 都有紀錄時無缺口
 ok 42 - reconcileArchive: 每筆 filed 都有紀錄時無缺口
   ---
-  duration_ms: 0.0525
+  duration_ms: 0.051375
   type: 'test'
   ...
 # Subtest: reconcileArchive: 抓出 filed 但沒有 git 紀錄的那幾筆
 ok 43 - reconcileArchive: 抓出 filed 但沒有 git 紀錄的那幾筆
   ---
-  duration_ms: 0.029417
+  duration_ms: 0.028708
   type: 'test'
   ...
 # Subtest: reconcileArchive: 2026-06-11 justfont 那次的形狀（21 筆 filed 全缺紀錄）
 ok 44 - reconcileArchive: 2026-06-11 justfont 那次的形狀（21 筆 filed 全缺紀錄）
   ---
-  duration_ms: 0.081041
+  duration_ms: 0.077834
   type: 'test'
   ...
 # Subtest: reconcileArchive: 多出來的 archive 檔不算缺口（只單向查 filed→git）
 ok 45 - reconcileArchive: 多出來的 archive 檔不算缺口（只單向查 filed→git）
   ---
-  duration_ms: 0.0255
+  duration_ms: 0.024625
   type: 'test'
   ...
 # Subtest: reconcileArchive: 空輸入不當成對得起來
 ok 46 - reconcileArchive: 空輸入不當成對得起來
   ---
-  duration_ms: 0.021709
+  duration_ms: 0.022291
   type: 'test'
   ...
 # Subtest: countArchivedComments 數 marker 不數正文
 ok 47 - countArchivedComments 數 marker 不數正文
   ---
-  duration_ms: 0.07375
+  duration_ms: 0.078417
   type: 'test'
   ...
 # Subtest: reconcileComments: 收的則數跟線上一致就是對得起來
 ok 48 - reconcileComments: 收的則數跟線上一致就是對得起來
   ---
-  duration_ms: 0.102333
+  duration_ms: 0.1005
   type: 'test'
   ...
 # Subtest: reconcileComments: archive 比線上少 = sync 漏收,要叫
 ok 49 - reconcileComments: archive 比線上少 = sync 漏收,要叫
   ---
-  duration_ms: 0.036542
+  duration_ms: 0.033958
   type: 'test'
   ...
 # Subtest: reconcileComments: 2026-07-29 那則的形狀（上游刪留言,git 留著,不報警）
 ok 50 - reconcileComments: 2026-07-29 那則的形狀（上游刪留言,git 留著,不報警）
   ---
-  duration_ms: 0.029292
+  duration_ms: 0.026584
   type: 'test'
   ...
 # Subtest: reconcileComments: 抓不到留言算 unknown,不算 aligned
 ok 51 - reconcileComments: 抓不到留言算 unknown,不算 aligned
   ---
-  duration_ms: 0.047292
+  duration_ms: 0.041917
   type: 'test'
   ...
 # Subtest: reconcileComments: 空紀錄 + 線上也空 = 對得起來（不是 unknown）
 ok 52 - reconcileComments: 空紀錄 + 線上也空 = 對得起來（不是 unknown）
   ---
-  duration_ms: 0.027666
+  duration_ms: 0.024417
   type: 'test'
   ...
 # Subtest: parseArgs: --exclude 可重複,也接受逗號串
 ok 53 - parseArgs: --exclude 可重複,也接受逗號串
   ---
-  duration_ms: 0.068125
+  duration_ms: 0.06825
   type: 'test'
   ...
 # Subtest: parseArgs: 沒給 --exclude 時是空陣列（預設不排除任何人）
 ok 54 - parseArgs: 沒給 --exclude 時是空陣列（預設不排除任何人）
   ---
-  duration_ms: 0.067667
+  duration_ms: 0.053708
   type: 'test'
   ...
 # Subtest: partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄
 ok 55 - partitionExcluded: 指名的那筆被拿掉,其餘照常進轉錄
   ---
-  duration_ms: 0.063083
+  duration_ms: 0.05725
   type: 'test'
   ...
 # Subtest: partitionExcluded: 打錯的 id 要回報成 unmatched,不能靜默
 ok 56 - partitionExcluded: 打錯的 id 要回報成 unmatched,不能靜默
   ---
-  duration_ms: 0.030625
+  duration_ms: 0.028792
   type: 'test'
   ...
 # Subtest: partitionExcluded: 沒有 --exclude 時原樣通過
@@ -648,37 +654,37 @@ ok 57 - partitionExcluded: 沒有 --exclude 時原樣通過
 # Subtest: parseArgs: --show 可重複也接受逗號串
 ok 58 - parseArgs: --show 可重複也接受逗號串
   ---
-  duration_ms: 0.050166
+  duration_ms: 0.032792
   type: 'test'
   ...
 # Subtest: parseArgs: --show-all 收成萬用字元
 ok 59 - parseArgs: --show-all 收成萬用字元
   ---
-  duration_ms: 0.024041
+  duration_ms: 0.022041
   type: 'test'
   ...
 # Subtest: selectForShow: 指名的那筆被挑出來
 ok 60 - selectForShow: 指名的那筆被挑出來
   ---
-  duration_ms: 0.066042
+  duration_ms: 0.044125
   type: 'test'
   ...
 # Subtest: selectForShow: 打錯的 id 要回報成 missing,不能印空清單了事
 ok 61 - selectForShow: 打錯的 id 要回報成 missing,不能印空清單了事
   ---
-  duration_ms: 0.025125
+  duration_ms: 0.02175
   type: 'test'
   ...
 # Subtest: selectForShow: 萬用字元回整批
 ok 62 - selectForShow: 萬用字元回整批
   ---
-  duration_ms: 0.0245
+  duration_ms: 0.019875
   type: 'test'
   ...
 # Subtest: formatForShow: 全文一字不刪地印出來,含讀者選取的原文
 ok 63 - formatForShow: 全文一字不刪地印出來,含讀者選取的原文
   ---
-  duration_ms: 0.065542
+  duration_ms: 0.054084
   type: 'test'
   ...
 1..63
@@ -689,4 +695,4 @@ ok 63 - formatForShow: 全文一字不刪地印出來,含讀者選取的原文
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 59.620792
+# duration_ms 54.454125

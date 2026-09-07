@@ -2,87 +2,93 @@ TAP version 13
 # Subtest: all six stages need external decisions; section never becomes a published article
 ok 1 - all six stages need external decisions; section never becomes a published article
   ---
-  duration_ms: 18.826791
+  duration_ms: 17.665708
   type: 'test'
   ...
 # Subtest: wrong stage, stale task, missing field, empty evidence and self review cannot advance
 ok 2 - wrong stage, stale task, missing field, empty evidence and self review cannot advance
   ---
-  duration_ms: 4.687083
+  duration_ms: 4.580709
   type: 'test'
   ...
 # Subtest: changed evidence blocks acceptance and backtracking invalidates downstream decisions
 ok 3 - changed evidence blocks acceptance and backtracking invalidates downstream decisions
   ---
-  duration_ms: 5.302833
+  duration_ms: 4.964416
   type: 'test'
   ...
 # Subtest: editing a draft invalidates composition onward without losing accepted research
 ok 4 - editing a draft invalidates composition onward without losing accepted research
   ---
-  duration_ms: 7.317542
+  duration_ms: 6.481667
   type: 'test'
   ...
 # Subtest: revise and block preserve history, and forward skipping is rejected
 ok 5 - revise and block preserve history, and forward skipping is rejected
   ---
-  duration_ms: 6.361708
+  duration_ms: 6.408417
   type: 'test'
   ...
 # Subtest: cold reader must disclose the context boundary
 ok 6 - cold reader must disclose the context boundary
   ---
-  duration_ms: 8.172125
+  duration_ms: 7.377792
   type: 'test'
   ...
 # Subtest: path escapes, unsafe ids, storage symlinks and concurrent writers fail closed
 ok 7 - path escapes, unsafe ids, storage symlinks and concurrent writers fail closed
   ---
-  duration_ms: 1.831709
+  duration_ms: 1.604
   type: 'test'
   ...
 # Subtest: storage parent symlink is rejected before creating a run
 ok 8 - storage parent symlink is rejected before creating a run
   ---
-  duration_ms: 0.488375
+  duration_ms: 0.413417
   type: 'test'
   ...
 # Subtest: HTML export escapes submitted prose and review content
 ok 9 - HTML export escapes submitted prose and review content
   ---
-  duration_ms: 3.140416
+  duration_ms: 2.776542
   type: 'test'
   ...
 # Subtest: CLI returns machine-readable errors for malformed JSON and unknown commands
 ok 10 - CLI returns machine-readable errors for malformed JSON and unknown commands
   ---
-  duration_ms: 59.504709
+  duration_ms: 56.536625
   type: 'test'
   ...
 # Subtest: dogfood references preserve both sources when adjacent citations are rendered
 ok 11 - dogfood references preserve both sources when adjacent citations are rendered
   ---
-  duration_ms: 7.991625
+  duration_ms: 7.839209
   type: 'test'
   ...
 # Subtest: review evidence is snapshotted and revocation invalidates its decision
 ok 12 - review evidence is snapshotted and revocation invalidates its decision
   ---
-  duration_ms: 6.375333
+  duration_ms: 5.985292
   type: 'test'
   ...
 # Subtest: empty containers and wrong types cannot masquerade as required material
 ok 13 - empty containers and wrong types cannot masquerade as required material
   ---
-  duration_ms: 2.743042
+  duration_ms: 2.45925
   type: 'test'
   ...
-1..13
-# tests 13
+# Subtest: next returns review guidance without embedding complete evidence snapshots
+ok 14 - next returns review guidance without embedding complete evidence snapshots
+  ---
+  duration_ms: 3.235167
+  type: 'test'
+  ...
+1..14
+# tests 14
 # suites 0
-# pass 13
+# pass 14
 # fail 0
 # cancelled 0
 # skipped 0
 # todo 0
-# duration_ms 180.674833
+# duration_ms 174.453666

@@ -22,7 +22,9 @@ node scripts/twmd.mjs rewrite start knowledge/Lifestyle/台灣海關報關制度
 node scripts/twmd.mjs rewrite next ezway-trial
 ```
 
-`next` 回傳目前階段、角色、任務、允許動作、工件路徑、提交與審閱 JSON 範本。依 `submissionTemplate` 填寫，把材料存成專案內檔案，在 `artifacts` 列出，再存成 `submission.json`：
+新文章可先在 `reports/staging/` 建立 `brief.md`，寫下主題、讀者與已知／未知，再將它當作 start 的輸入；compose 另寫草稿，不必先有完整文章。
+
+`next` 回傳目前階段、角色、任務、允許動作、工件路徑、提交與審閱 JSON 範本。依 `submissionTemplate` 填寫，依需要讀證據位置，完整快照不會自動塞進 next。把材料存成專案內檔案，在 `artifacts` 列出，再存成 `submission.json`：
 
 ```bash
 node scripts/twmd.mjs rewrite submit ezway-trial submission.json
