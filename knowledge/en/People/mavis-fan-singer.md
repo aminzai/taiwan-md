@@ -2,13 +2,15 @@
 title: "Mavis Fan: From 'Health Song' Little Witch to 100% Band Frontwoman — Thirty Years of Refusing to Be Defined by Any Single Era"
 description: "In 1996, 19-year-old Mavis Fan became everyone's Little Witch with 'Health Song.' In 1998 she shaved her head and released Darling to announce 'I'm making my own music'; in 2001 she turned to jazz with Cabaret; in 2007 she formed the 100% Band. In 2025 at 48, Visitor is her new album with the band after 16 years apart — across thirty years she has dismantled, piece by piece, 'the dream others gave her.'"
 date: 2026-04-20
-tags:
-  - 'Music'
-  - 'Singer-Songwriter'
-  - 'Golden Melody Awards'
-  - '100% Band'
-  - 'Mandarin Pop'
 category: 'People'
+tags:
+  [
+    'Music',
+    'Singer-Songwriter',
+    'Golden Melody Awards',
+    '100% Band',
+    'Mandarin Pop',
+  ]
 subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
@@ -16,13 +18,13 @@ lastVerified: 2026-04-20
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/范曉萱.md'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:be33318bbff736f0'
-sourceBodyHash: 'sha256:972eef53b5601304'
-translatedAt: '2026-05-01T12:53:58+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:752a0e7cddd9b38d'
+sourceBodyHash: 'sha256:7cceb716a616fa6b'
+translatedAt: '2026-09-07T20:32:18.384084+00:00'
 ---
 
-> **30-second overview:** Mavis Fan (范曉萱, 1977–), Taiwanese singer-songwriter. Debuted in 1995 at 18 with _Rain_; in 1996 "Health Song" made her the beloved "Little Witch" idol of all Taiwan. In 1998 _Darling_ — head shaved — announced her transformation. In 1999 _I Want Us to Be Together_ won the 11th Golden Melody Award for Best Mandarin Pop Vocal Album. In 2001 _Cabaret_ took a jazz direction. In 2007 she formed Mavis Fan & 100%, and in 2010 won the 21st Golden Melody Award for Best Single Producer with "Master." In December 2025, _Visitor_ — sixteen years since her last album. In thirty years she has repeatedly refused to be defined by any one moment's image.
+**30-second overview:** Mavis Fan (1977–), Taiwanese singer-songwriter. Debuted at 18 in 1995 with "Rain"; in 1996, "Health Song" made her the island's most popular child star idol, the "Little Demon Girl." In 1998, shaved her head with _Darling_ to signal a reinvention; in 1999, _I Want Us to Be Together_ won the 11th [Golden Melody Award](/en/music/pop-music-and-golden-melody-awards/) for Best Mandopop Album; in 2001, _Jade Beauty_ went jazzy; in 2007, formed Mavis Fan & 100%; in 2010, "Master" won the 21st Golden Melody Award for Best Single Producer. In December 2025, _Visitor_ — her first album in 16 years. Over three decades, she has again and again refused to be defined by any one era's image.
 
 ## The Sticky Note on the Desk
 
@@ -59,20 +61,20 @@ This album won one of the ten best albums of the year from the Chinese Music Ind
 
 She chose not to fight back — she turned inward and contracted. From 2001 to 2003, depression enveloped her for nearly three years.
 
-## Those Years of Looking at the Balcony and Wanting to Jump
+## The Period When She Wanted to Jump From the Balcony
 
-In December 2004, Mavis Fan released her seventh album _Is There Any Other Way?_ with Lin Noisy's studio (and also in collaboration with musicians including Chen Chien-chi) — she herself called it "a musical diary" of those three years[^16].
+In December 2004, Mavis Fan worked with Lin Wei-chieh's studio (which also collaborated with musicians like [Chen Chien-chi](/en/people/chen-chien-chi-music-producer/)) to release her seventh album _Is There Any Other Way?_ — which she herself described as a "musical diary" of those three years[^16].
 
-In April 2005 she published a book, _Random Writing_, documenting in full the process of living through depression from 2001 to 2003[^17].
+In April 2005, she published the book _Scribbles_, fully documenting her journey through depression from 2001 to 2003[^17].
 
-Years later she spoke about that period:
+Years later, she spoke of that time:
 
-> "Every day at home I'd see the balcony and want to jump off, pick up a kitchen knife and want to cut myself open."[^18]
+> "Every day at home, seeing the balcony made me want to jump, and holding a kitchen knife made me want to cut myself."[^18]
 
-These are words she wrote into her book and spoke in interviews. Not secondhand accounts, not PR copy — this is the version she chose to leave in the public record.
+This was something she chose to write into her book and speak openly about in interviews. Not secondhand accounts, not PR copy — it was her own decision to leave this chapter in the public record.
 
-> **Curator's note**
-> When Taiwan.md writes about individuals and encounters subjects like depression and self-harm, we are especially careful — no scene reconstruction, no sensationalism of the details. But what makes Mavis Fan's case distinctive is that this experience is something she herself chose to put into _Random Writing_, into the lyrics of _Is There Any Other Way?_, and into the narrative spine of every interview. She turned her own breakdown into artwork, then used the artwork to take care of others who had similarly broken down. This is her choice — we quote her own version, without embellishment.
+> **📝 Curator's Note**
+> When writing about people for Taiwan.md, we handle topics like depression and self-harm with particular care — we don't reconstruct scenes or dramatize details. But what makes Mavis Fan special is that this experience was something she chose to write into _Scribbles_, into the lyrics of _Is There Any Other Way?_, and into the narrative thread of every interview. She turned her own breakdown into art, then used that art to care for others who were also breaking down. This is her choice — we quote her own version, without embellishment.
 
 ## Four People and a Company Called "The Grass-Eating Fish"
 

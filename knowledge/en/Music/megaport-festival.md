@@ -19,34 +19,30 @@ canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/大港開唱-outline.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+image: '/article-images/music/megaport-festival-2025-namba-stage.webp'
 imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+rationale: "{'why_this_hook': '以高雄港邊的場域與台灣聽團文化切入，避免寫成林昶佐或閃靈的附屬段落。', 'whats_excluded': '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。', 'where_it_hedges': '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。', 'whos_pushing_back': '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'}"
 translatedFrom: 'Music/大港開唱.md'
-sourceCommitSha: '717a640b'
-sourceContentHash: 'sha256:2cde586b88469ed9'
-sourceBodyHash: ''
-translatedAt: '2026-07-11T12:11:40+08:00'
-rationale:
-  why_this_hook: 'Starts from the harbor-side field and Taiwan’s live-band culture, avoiding a version that makes Megaport merely an appendix to Freddy Lim or Chthonic.'
-  whats_excluded: 'Full annual lineup tables, ticketing controversy details, and the full financial context of every pause and relaunch are left for later deeper work.'
-  where_it_hedges: 'Ticketing records and pause/relaunch controversies use verifiable media and official sources; details not fully cross-checked are not written into the main spine.'
-  whos_pushing_back: 'Readers who see Megaport as too political, those who treat it only as mass entertainment, and readers expecting a full music-industry operations analysis.'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:ded0e72872765bab'
+sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
+translatedAt: '2026-09-07T21:28:12.793431+00:00'
 ---
 
-# Megaport Festival: The Taiwanese Music Festival That Grew Out of Kaohsiung Harbor
+# Harbor Sounds: The Megaport Festival Born on Kaohsiung's Waterfront
 
-![The Southern Overlord stage at Megaport Festival in 2025, with lights and a crowd facing a large harbor-side stage.](https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)
-_The Southern Overlord stage at Megaport Festival in 2025. Photo: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+![2025 Megaport Festival Namba Stage, lights and crowd facing the large waterfront stage.](/article-images/music/megaport-festival-2025-namba-stage.webp)
+_2025 Megaport Festival Namba Stage. Photo: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
 
-> **30-second overview:** Megaport Festival (大港開唱) is a large outdoor music festival founded beside Kaohsiung Harbor in 2006. It grew out of the experience of the Formoz Festival team. In its early years, it was pushed forward by Freddy Lim, Doris Yeh, and the TRA Music team; later Doris, Dani Wang, and others carried the work forward. Megaport puts southern Taiwanese bands, harbor-side landscapes, Taiwanese Hokkien live stages, international lineups, Taiwan pop-memory acts, and an NGO issue village together, turning two days of performances into a way for a city to reimagine itself through sound.
+> **30-second overview:** Megaport Festival is a large-scale outdoor music festival founded in 2006 on the Kaohsiung waterfront. It grew out of the experience of the Formoz Festival team in Taipei, initially driven by Lin Chao-tsung, Doris Yeh Hsiang-yi, and the TRA Music team, later continued by Doris and the Dani Wang Tzu-chun team. Megaport brings together southern Taiwan bands, port landscapes, Taiwanese-language performances, international lineups, memories of Taiwanese pop culture, and NGO village themes, turning two days of performances into a way for the city to reimagine itself through sound.
 
 ---
 
-In 2006, Kaohsiung’s Pier-2 area had only recently begun transforming from harbor warehouses into an arts district. The MRT and light rail had not yet connected the waterfront into the city’s everyday life.
+In 2006, the Kaohsiung Pier-2 art district had just been transformed from a port warehouse into a cultural zone, and the MRT and light rail had not yet connected the harbor edge to the city's daily life.
 
-Megaport began that autumn, beside Piers 11 and 12 of Kaohsiung Harbor. Looking back at the first edition, the official HISTORY page notes that there were only three stages: “Southern Overlord” (南霸天), “Sea Dragon King” (海龍王), and “Wind Surge” (風湧). The lineup included Sugar Plum Ferry, Cheer Chen, Jeannie Hsieh, Fire EX., Peppermint, Tizzy Bac, and Japan’s envy and Yura Yura Teikoku. That program placed Taiwanese indie bands, Japanese underground sound, Taiwanese Hokkien pop memory, and Kaohsiung Harbor into the same weekend.[^1]
+That autumn, Megaport Festival opened at the docks of Kaohsiung Port piers 11 and 12. Looking back at the first edition on the official HISTORY page, there were only three stages at the time — "Namba Stage," "Aqua Stage," and "Wind Stage." The lineup included Sweet Mango, Cindy Yen, Diana Ye, Fire EX., Mint Leaf, and Tizzy Bac, as well as Japan's envy and YURA YURA TEIKOKU. This lineup placed Taiwanese independent bands, Japanese underground sounds, Taiwanese pop memories, and the Kaohsiung harbor side together on the same weekend.[^1]
 
 ## The South Is Not Decoration
 
