@@ -7691,6 +7691,23 @@
     "path": "ja/Society/volunteering-and-civic-charity-in-taiwan.md"
   },
   {
+    "title": "台湾のミシュラン：星光の下の代価と再定義",
+    "description": "2018年、ミシュランが台湾に上陸したのは、表面上は国際認証の栄誉のように見えたが、実は台湾の飲食業の生存ルールを再び分けることになった——「ほぼ合格」のレストランこそが最大の犠牲者となった。",
+    "category": "ja",
+    "tags": [
+      "ミシュラン",
+      "高級レストラン",
+      "星付きレストラン",
+      "台湾料理",
+      "飲食業"
+    ],
+    "url": "https://taiwan.md/ja/food/taiwan-michelin-fine-dining",
+    "readingTime": 35,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ja/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
     "title": "台湾のメディアと報道の自由",
     "description": "党国支配からメディア戦国時代へ：台湾の報道の自由の民主化の過程とデジタル変革の課題",
     "category": "ja",
@@ -7782,23 +7799,6 @@
     "featured": false,
     "date": "2026-07-23",
     "path": "ja/Culture/taiwan-meme-culture.md"
-  },
-  {
-    "title": "台湾ミシュラン：星空下の代償と再定義",
-    "description": "2018年にミシュランが台湾に上陸した。表面上は国際的な認証による栄光であったが、実際には飲食業の生存ルールを再定義した。「ほぼ合格ライン」にあるレストランが、かえって最大の被害者となった。",
-    "category": "ja",
-    "tags": [
-      "ミシュラン",
-      "高級料理",
-      "星付きレストラン",
-      "台湾グルメ",
-      "飲食産業"
-    ],
-    "url": "https://taiwan.md/ja/food/taiwan-michelin-fine-dining",
-    "readingTime": 35,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ja/Food/taiwan-michelin-fine-dining.md"
   },
   {
     "title": "台湾レインボーロード：街頭の闘いから「ウェイモン星球」の愛と平等権へ",
@@ -31176,23 +31176,23 @@
     "path": "pt/Art/taiwan-new-media-art.md"
   },
   {
-    "title": "Artes Tradicionais de Taiwan",
-    "description": "O maior milagre da indústria cultural do século XXI: como o império do teatro de fantoches Pili, com receita anual de bilhões, passou de pequena peça de agradecimento aos deuses no interior a uma potência cultural global?",
+    "title": "Arte Tradicional de Taiwan: O Milagre da Reversão, do Teatro Local ao Império Cultural",
+    "description": "O maior milagre industrial cultural do século XXI: como o império de teatro Bunraku (Pielik) com faturamento bilionário transformou-se de um pequeno espetáculo religioso local em uma soft power global?",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/art/traditional-arts-of-taiwan",
-    "readingTime": 77,
+    "readingTime": 78,
     "featured": true,
     "date": "2026-03-24",
     "path": "pt/Art/traditional-arts-of-taiwan.md"
   },
   {
     "title": "Artes tradicionales de Taiwán",
-    "description": "El mayor milagro de la industria cultural del siglo XXI: el imperio del teatro de marionetas Pili, con una producción anual de cientos de miles de millones, ¿cómo pasó de ser una modesta función rural para agradecer a los dioses a convertirse en un poder blando cultural que conquista el mundo?",
+    "description": "El mayor milagro de la industria cultural del siglo XXI: cómo el imperio de Pili Budaixi, con una facturación anual de miles de millones, pasó de ser una pequeña obra de acción de gracias en el campo a convertirse en una potencia cultural blanda que conquista el mundo.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/art/traditional-arts-of-taiwan",
-    "readingTime": 83,
+    "readingTime": 72,
     "featured": true,
     "date": "2026-03-24",
     "path": "es/Art/traditional-arts-of-taiwan.md"
@@ -34163,12 +34163,12 @@
     "path": "es/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
-    "title": "Cantores-compositores indígenas contemporâneos",
-    "description": "De A-mei a Suming e Sangpuy, como os cantores indígenas de Taiwan transmitem almas antigas na música moderna, criando uma paisagem musical indígena contemporânea única",
+    "title": "Cantores Indígenas Contemporâneos",
+    "description": "A música \"Oceanos\" de Chen Chien-nien utiliza línguas Binin e Mandarim, enquanto Shumiing conecta a criação à educação cultural de Dulan; ABAO introduz a língua Paiwan na produção pop contemporânea. Este artigo compara as obras de diversos artistas, desde A-Mei e Wang Hongen até Sangpuy e Ilid Kaolo, analisando como línguas indígenas, experiências de vida e técnicas de gravação se cruzam, sem reduzir múltiplos grupos a um único som.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 88,
+    "readingTime": 97,
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Music/contemporary-indigenous-singer-songwriters.md"
@@ -34551,6 +34551,17 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "en/People/shasha77-chang-chih-chi.md"
+  },
+  {
+    "title": "Chang Chung-jen e Chang Chung-yi: A Vida Começou Depois que os Corpos Foram Separados",
+    "description": "Nascidos em Kaohsiung em 1976, Chang Chung-jen e Chang Chung-yi cresceram juntos no Hospital Nacional de Taiwan. Em 1979, uma equipe da Universidade Nacional de Taipé realizou uma cirurgia de separação de 12 horas. A verdadeira jornada começou após a mesa de operação: dor, próteses, trabalho, família e o olhar da mídia fizeram desses dois nomes vidas distintas por 40 anos, forçando Taiwan a repensar a distância entre avanços médicos e autonomia individual.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/chang-chung-jen-chung-i-twins",
+    "readingTime": 102,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "pt/People/chang-chung-jen-chung-i-twins.md"
   },
   {
     "title": "Chang Vũ Sinh: Từ Thần tượng tới Nhà tiên tri, Một thí nghiệm âm nhạc vượt thời đại",
@@ -36045,17 +36056,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "pt/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md"
-  },
-  {
-    "title": "Chỉ Nam Michelin Đài Loan: Danh vọng dưới ánh sao và sự định nghĩa lại",
-    "description": "Năm 2018, Michelin đổ bộ Đài Loan, xem như vinh dự được công nhân quốc tế, nhưng thực tế đã vẽ lại bản đồ các quy tắc tồn tại của ngành ẩm thực — những nhà hàng \"gần như đủ tiêu chuẩn\" lại trở thành những nạn nhân lớn nhất.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/food/taiwan-michelin-fine-dining",
-    "readingTime": 81,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "vi/Food/taiwan-michelin-fine-dining.md"
   },
   {
     "title": "Chi Po-Hao : de l’économie au son, ou comment interroger par l’algorithme une même question : avez-vous vraiment écouté ?",
@@ -39121,12 +39121,12 @@
     "path": "en/Art/contemporary-indigenous-art-taiwan.md"
   },
   {
-    "title": "Contemporary Indigenous Singer-Songwriters",
-    "description": "From A-mei to Suming and Sangpuy, how Taiwan's Indigenous singers carry ancient souls into modern music and create a distinctive contemporary Indigenous musical landscape",
+    "title": "Contemporary Indigenous Musicians of Taiwan",
+    "description": "Chen Chien-nien''s \"Ocean\" blends Paiwan and Mandarin; Shuming connects creation back to Dawu cultural education, while ABAO brings Paiwan into contemporary pop production. From aMEI and Wang Hong-en to Sangpuy and Ilid Kaolo, this piece compares different musicians'' works and listening entry points, cross-referencing GMA album, artist, and song awards to understand how mother tongue, lived experience, and recording techniques intersect—without lumping multiple ethnic groups into a single sound.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 89,
+    "readingTime": 93,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Music/contemporary-indigenous-singer-songwriters.md"
@@ -42949,10 +42949,21 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/technology/hsuehshan-tunnel",
-    "readingTime": 81,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-04-29",
     "path": "vi/Technology/hsuehshan-tunnel.md"
+  },
+  {
+    "title": "Đường sắt Đài Loan Minh Nhật Hào: Từ thảm họa thẩm mỹ đường sắt đến điện đài năm sao di động",
+    "description": "Khởi đầu từ việc cải tạo những bệnh tích lâu năm của tàu Chí Quang Hào 70 năm, Bách Thành Thiết Kế và Hùng Sư Du Lịch đã như thế nào đưa khái niệm \"Gió mùa thu\" vào thực tế, dẫn nhập trang bị màu cam đen sang trọng tinh tế cùng thẩm mỹ trừ bớt vào đường sắt Đài Loan, và tiến một bước tạo ra nhà hàng di động \"Minh Nhật Th Phòng\" vinh dự giành giải iF Gold Award của Đức, định nghĩa lại du lịch đường sắt cao cấp tại Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/lifestyle/tra-mingri-express",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "vi/Lifestyle/tra-mingri-express.md"
   },
   {
     "title": "Đường Suối Nóng Bắc Đầu: Từ Khai Thác Lưu Huỳnh 1697 Đến Bảo Tàng Tắm 2026, Cùng Một Dòng Suối Thay Đổi Bốn Thế Hệ Cư Dân",
@@ -48529,17 +48540,6 @@
     "path": "fr/History/taiwan-forestry-history.md"
   },
   {
-    "title": "Histoire du métro taïwanais : une évolution urbaine écrite dans le sang et l'argent",
-    "description": "Une poutre de 209 tonnes s'effondrant du ciel a coûté 4 vies, une indemnisation de 1,64 milliard de NT$ — et le MRT de Taipei peine encore à rentabiliser son activité principale",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 114,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "fr/Lifestyle/history-of-taiwan-mrt-development.md"
-  },
-  {
     "title": "Histoire du mouvement environnemental à Taïwan",
     "description": "L'évolution des mouvements environnementaux à Taïwan, de la lutte anti-pollution des années 1980 aux récentes campagnes de réduction du plastique, témoignant de l'éveil de la conscience écologique et du processus de démocratisation.",
     "category": "fr",
@@ -48748,12 +48748,12 @@
     "path": "es/History/taiwan-maritime-trade-history.md"
   },
   {
-    "title": "Historia del desarrollo del MRT en Taiwán: una teoría de la evolución urbana escrita con sangre y dinero",
-    "description": "Una viga de acero de 209 toneladas cayó del cielo y cobró 4 vidas, una indemnización de 1.640 millones, y el negocio principal del MRT de Taipéi sigue siendo deficitario: el costo real detrás de los sistemas de MRT en toda la isla",
+    "title": "Historia del desarrollo del metro de Taiwán: una teoría de la evolución urbana escrita con sangre y dinero",
+    "description": "209 toneladas de vigas caen desde el cielo, cobrando 4 vidas y 1.64 mil millones en indemnizaciones; el negocio principal del MRT de Taipéi sigue perdiendo dinero —el verdadero costo detrás del metro de todo Taiwán",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 112,
+    "readingTime": 108,
     "featured": true,
     "date": "2026-03-23",
     "path": "es/Lifestyle/history-of-taiwan-mrt-development.md"
@@ -48803,17 +48803,6 @@
     "path": "pt/History/taiwan-maritime-trade-history.md"
   },
   {
-    "title": "História do Desenvolvimento do Metro de Taiwan: Uma Evolução Urbana Escrita com Sangue e Dinheiro",
-    "description": "209 toneladas de viga de aço caem do céu e ceifam 4 vidas, 1,64 mil milhões de indemnização, o metro de Taipé continua deficitário no seu negócio principal — o verdadeiro custo por trás de todos os metros de Taiwan",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 95,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "pt/Lifestyle/history-of-taiwan-mrt-development.md"
-  },
-  {
     "title": "História do Desenvolvimento Florestal de Taiwan: Da Extração de Recursos à Segurança Territorial, uma Virada de Século",
     "description": "Das nuvens de cânfora do período Qing, ao som dos trilhos de aço da era japonesa, até a era de grande desmatamento pós-guerra que abalou as montanhas. Este artigo traça a lógica geopolítica global por trás das políticas de desenvolvimento florestal de Taiwan e usa dados para esclarecer a verdade real de um século de silvicultura.",
     "category": "pt",
@@ -48823,6 +48812,17 @@
     "featured": false,
     "date": "2026-03-25",
     "path": "pt/History/taiwan-forestry-history.md"
+  },
+  {
+    "title": "História do Metrô de Taiwan: uma evolução urbana escrita com sangue e dinheiro",
+    "description": "Um feixe de 209 toneladas cai do céu matando 4 pessoas, uma indenização de 164 milhões, o metrô de Taipé ainda opera com prejuízo — o verdadeiro custo por trás do metrô de Taiwan",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 105,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "pt/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "História do Movimento Ambiental em Taiwan",
@@ -48900,17 +48900,6 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "fr/Politics/voting-rights-threshold-history.md"
-  },
-  {
-    "title": "History of Taiwan's MRT Development: An Urban Evolution Written in Blood and Money",
-    "description": "A 209-tonne steel beam that fell and killed 4 people, NTD 1.64 billion in damages, and a Taipei Metro system that still loses money on transit operations alone — the real cost behind Taiwan's MRT network.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 98,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "en/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "Ho Fei-peng",
@@ -49163,6 +49152,39 @@
     "featured": false,
     "date": "2026-03-27",
     "path": "pt/People/hung-hsing-fu.md"
+  },
+  {
+    "title": "Hong Ni : De la bibliothèque de Fangyuan aux rues de HahaTai, trois noms au service d'une plume",
+    "description": "Hong Jie-ni (洪婕倪), née en 1996 dans le district de Haixian à Changhua et ayant grandi à Fangyuan, utilise le nom \"Jeni\" pour les enquêtes de rue à HahaTai et \"Hong Ni\" pour organiser des écrits sur la famille, l''expatriation vers le nord, son apprentissage en boulangerie et son évolution. Entre *Le melon est-il sucré ?* et *La vendeuse de melons*, ces trois noms révèlent comment une créatrice a placé le travail public et les textes intimes sur la même carte de vie.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/hung-chieh-ni",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "fr/People/hung-chieh-ni.md"
+  },
+  {
+    "title": "Hong Ni: De la biblioteca de Fangyuan a las calles de HahaTai, tres nombres compartiendo un lápiz",
+    "description": "Hong Jie-ni (洪婕倪), nacida en la línea costera de Changhua y criada en Fangyuan, se hace conocida como \"Jenny\" en las intervenciones callejeras de HahaTai, y escribe bajo el nombre de \"Hong Ni\", organizando temas familiares, la vida fuera de su ciudad natal, su aprendizaje como panadera y sus emociones no reveladas. Entre 〈¿Es dulce el melón?〉 y 《La persona que vende sandías》, se esconde la forma en que una creadora coloca el trabajo público y la escritura íntima en el mismo mapa vital.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/hung-chieh-ni",
+    "readingTime": 73,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "es/People/hung-chieh-ni.md"
+  },
+  {
+    "title": "Hong Ni: Three Names Sharing One Pen, From Fangyuan Library to HahaTai Streets",
+    "description": "Hong Jie-ni (洪婕倪), born in Changhua Haixian and raised in Fangyuan, operates under the names \"Jenny\" for street interviews in HahaTai, and \"Hong Ni\" when organizing family life, migrant experiences, baking apprenticeship, and growth. Between short stories like *Is the Watermelon Sweet?* and *The Melon Seller*, lies an author''s method of placing public work and intimate writing on the same life map.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/hung-chieh-ni",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "en/People/hung-chieh-ni.md"
   },
   {
     "title": "Hồng Tỉnh Phu: Ngôi sao văn học nông thôn sụp đổ sớm",
@@ -53429,7 +53451,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/society/where-did-taiwan-moral-education-go",
-    "readingTime": 89,
+    "readingTime": 94,
     "featured": false,
     "date": "2026-04-25",
     "path": "id/Society/where-did-taiwan-moral-education-go.md"
@@ -54875,6 +54897,17 @@
     "path": "fr/Art/taiwan-new-media-art.md"
   },
   {
+    "title": "L'art traditionnel de Taïwan : le retournement miraculeux, des petites scènes rurales à l'empire culturel",
+    "description": "Le miracle de l'industrie culturelle du XXIe siècle : comment l'empire des marionnettes *Pili* (Bùdài Xì) avec un chiffre d'affaires de centaines de milliards est passé de spectacles rituels locaux à une force douce mondiale ?",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/art/traditional-arts-of-taiwan",
+    "readingTime": 89,
+    "featured": true,
+    "date": "2026-03-24",
+    "path": "fr/Art/traditional-arts-of-taiwan.md"
+  },
+  {
     "title": "L'eau coule vers le haut : lire l'histoire de la colonisation Amis et les limites cognitives du cerveau à travers une illusion d'optique",
     "description": "Le fossé « L'eau coule vers le haut » à Dudulan, Taitung, penche en réalité vers le bas d'environ 0,5 degré, mais en raison de la pente plus prononcée de la route adjacente, le cerveau des visiteurs perçoit l'eau comme montant vers le haut. Des canaux d'irrigation creusés par le peuple Amis aux décennies 1980 où il fut présenté comme une merveille touristique, jusqu'à son récent statut de « site le plus inutile de Taïwan », ce mince fossé de moins de cinquante centimètres cache une véritable tromperie visuelle liée au référentiel perceptif.",
     "category": "fr",
@@ -55137,6 +55170,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "fr/Society/history-of-taiwan-school-counseling.md"
+  },
+  {
+    "title": "L’histoire du métro taïwanais : une théorie de l’évolution urbaine écrite avec du sang et de l’argent",
+    "description": "Un faisceau de 209 tonnes tombant du ciel emporte quatre vies, une indemnisation de 16,4 millions d’euros, et le métro de Taïwan continue de perdre de l’argent — le vrai coût derrière le métro de toute l’île",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 110,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "fr/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "L'IA au quotidien à Taïwan — quand l'intelligence artificielle s'invite dans la vie de tous les jours",
@@ -58774,6 +58818,17 @@
     "path": "fr/Lifestyle/taiwan-education-system.md"
   },
   {
+    "title": "Le Taï-fan : du désastre esthétique ferroviaire à la salle à manger à ciel ouvert cinq étoiles",
+    "description": "À partir de la remise en condition du célèbre train Juguang des années 1970, le cabinet de design Pei-cheng (JC. Architecture) et le tour-opérateur Lion Travel ont introduit, sous le concept de « vent d'automne », une peinture sobres noire et orange et une esthétique par soustraction dans le réseau ferroviaire taïwanais, donnant naissance au restaurant mobile primé iF de Germany « La Cuisine du Matin », redéfinissant ainsi le tourisme ferroviaire haut de gamme à Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/tra-mingri-express",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "fr/Lifestyle/tra-mingri-express.md"
+  },
+  {
     "title": "Le Taiwan Church News : un journal qui a vécu cent quarante ans, et le jour où il fut confisqué",
     "description": "En 1885, le missionnaire britannique Thomas Barclay imprima à Tainan le premier journal de Taïwan, en écriture latine du taïwanais (pe̍h-ōe-jī). Ce journal fut suspendu par le gouvernement japonais, interdit d'utiliser la langue maternelle par le Kuomintang, et l'intégralité d'un numéro fut saisi par le Commandement de la Garde nationale en 1987 pour avoir couvert l'Incident du 28 Février. Chaque fois qu'il fut réprimé, il revint à la vie. En 2025, il fête ses 140 ans, et sa supplément littéraire discute de l'IA générative.",
     "category": "fr",
@@ -58805,6 +58860,17 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "fr/Art/taiwanese-theater-and-performing-arts.md"
+  },
+  {
+    "title": "Le Théâtre National de Taïwan : L'« Caverne Sonore » d'Toyo Ito et la Révolution Architecturale Sans Piliers ni Murs Droits",
+    "description": "Comment le Théâtre National de Taïwan, conçu par le lauréat du prix Nobel Toyo Ito et réputé « l'immeuble le plus difficile à construire au monde », a réécrit l'histoire et l'imaginaire architectural moderne de Taïwan grâce à son esthétique des murs courbes sans piliers ni poutres.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/art/national-taichung-theater",
+    "readingTime": 96,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "fr/Art/national-taichung-theater.md"
   },
   {
     "title": "Le tissu floral taïwanais",
@@ -59543,17 +59609,6 @@
     "path": "fr/Politics/taiwan-presidential-pets.md"
   },
   {
-    "title": "Les arts traditionnels de Taïwan",
-    "description": "Le plus grand miracle culturel du XXIe siècle en Asie : comment le théâtre de marionnettes Pili, avec un chiffre d'affaires annuel dépassant le milliard, est passé d'un spectacle de village à une puissance douce qui conquiert le monde.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/art/traditional-arts-of-taiwan",
-    "readingTime": 87,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "fr/Art/traditional-arts-of-taiwan.md"
-  },
-  {
     "title": "Les autocars de tourisme : soixante ans de rêves touristiques taïwanais dans une boîte en fer — pourquoi les accidents n'en finissent pas",
     "description": "De Yu Liu Julan, devenue receveuse à 14 ans sous l'ère coloniale japonaise, aux Golden Horse Express sur la route transinsulaire en 1959, aux « sauvages » des autoroutes dans les années 1980, jusqu'au renversement mortel du car Butterfly Love à Nangang en 2017 (33 morts), à l'incendie sur la nationale n°1 et la chute dans la vallée de Shanlinxi en 2025, les autocars de tourisme ont porté tous les rêves touristiques de l'après-guerre à Taïwan : pèlerinages, voyages scolaires, excursions d'entreprise. Mais le système du kao-hing (affiliation nominale), la concurrence par les forfaits à bas prix et les journées de travail interminables ont fait de cette boîte en fer l'un des moyens de transport les plus dangereux de l'île. Le nouveau système d'identification des conducteurs, entré en vigueur le 1er janvier 2026, pourra-t-il briser ce cycle ?",
     "category": "fr",
@@ -59907,6 +59962,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "fr/Economy/taiwan-smes-and-hidden-champions.md"
+  },
+  {
+    "title": "Les pompiers volontaires de Taïwan : enfiler l'uniforme après le travail, c'est la seule deuxième brigade locale",
+    "description": "Les pompiers volontaires sont considérés comme des bénévoles, mais ils disposent d'une structure légale, d'une formation professionnelle, d'un commandement opérationnel et d'une assurance en cas de catastrophe. De l'organisation de lutte contre les incendies sous domination japonaise aux opérations de recherche en montagne actuelles, comment cette force locale comble-t-elle le fossé du système de pompiers, tout en exposant les défis liés au recrutement, à la formation, à l'équipement de sécurité, au soutien familial et à la rétention à long terme ?",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/volunteer-firefighters-taiwan",
+    "readingTime": 115,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "fr/Society/volunteer-firefighters-taiwan.md"
   },
   {
     "title": "Les sauces et condiments de Taïwan",
@@ -63235,7 +63301,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/mavis-fan-singer",
-    "readingTime": 64,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-04-20",
     "path": "fr/People/mavis-fan-singer.md"
@@ -63246,7 +63312,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/mavis-fan-singer",
-    "readingTime": 55,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-04-20",
     "path": "id/People/mavis-fan-singer.md"
@@ -63762,21 +63828,59 @@
     "path": "en/Geography/miaoli-county.md"
   },
   {
-    "title": "Michelin en Taiwán: el costo bajo las estrellas y una redefinición",
-    "description": "En 2018, la llegada de Michelin a Taiwán fue aparentemente un honor de certificación internacional, pero en realidad reescribió las reglas de supervivencia de la industria gastronómica: los restaurantes \"casi aptos\" terminaron siendo las mayores víctimas.",
+    "title": "Michelin em Taiwan: O Preço e a Redefinição Sob o Brilho das Estrelas",
+    "description": "Em 2018, quando o Michelin chegou a Taiwan, ele foi apresentado como uma honraria internacional, mas na realidade redefiniu as regras de sobrevivência da indústria gastronômica — os restaurantes \"quase bons\" acabaram sendo os maiores prejudicados.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/food/taiwan-michelin-fine-dining",
+    "readingTime": 89,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "pt/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Michelin en Taiwán: El costo y la redefinición bajo las estrellas",
+    "description": "En 2018, cuando Michelin llegó a Taiwán, se presentó como un honor de certificación internacional, pero en realidad redefinió las reglas de supervivencia de la industria gastronómica; los restaurantes \"casi aptos\" terminaron siendo los mayores perjudicados.",
     "category": "es",
-    "tags": [
-      "米其林",
-      "精緻餐飲",
-      "星級餐廳",
-      "台灣美食",
-      "餐飲產業"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/food/taiwan-michelin-fine-dining",
-    "readingTime": 93,
+    "readingTime": 92,
     "featured": true,
     "date": "2026-03-23",
     "path": "es/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Michelin in Taiwan: Der Preis und die Neudefinition unter den Sternen",
+    "description": "Als Michelin 2018 nach Taiwan kam, war es zunächst ein internationaler Ruhm; tatsächlich hat es jedoch die Überlebensregeln der Gastronomie neu gezeichnet – dabei wurden die „fast guten“ Restaurants zu den größten Verlierern.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/taiwan-michelin-fine-dining",
+    "readingTime": 92,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "de/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Michelin Taiwan: Biaya di Balik Bintang dan Pendefinisian Ulang",
+    "description": "2018, Michelin mendarat di Taiwan. Yang tampak sebagai kehormatan sertifikasi internasional sebenarnya menggoreskan kembali aturan bertahan industri katering — restoran yang \"hampir layak\" malah menjadi korban terparah.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/taiwan-michelin-fine-dining",
+    "readingTime": 89,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "id/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Michelin Taiwan: Giá Trả Dưới Ánh Sao Và Sự Định Nghĩa Lại",
+    "description": "Năm 2018, Michelin đổ bộ Taiwan, bề ngoài là vinh dự được công nhận quốc tế, thực tế lại vẽ lại quy tắc sinh tồn của ngành ẩm thực — những nhà hàng \"gần như đủ tiêu chuẩn\" lại trở thành nạn nhân lớn nhất.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/food/taiwan-michelin-fine-dining",
+    "readingTime": 85,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "vi/Food/taiwan-michelin-fine-dining.md"
   },
   {
     "title": "Mídia e liberdade de imprensa em Taiwan",
@@ -65711,6 +65815,28 @@
     "path": "en/Geography/national-scenic-area-system.md"
   },
   {
+    "title": "National Taichung Theater: Toyo Ito''s \"Sound Cave\" and the Structural Revolution of Column-Free Curved Walls",
+    "description": "Designed by Pritzker Prize winner Toyo Ito and hailed as \"the world''s most difficult building to construct,\" the National Taichung Theater redefines Taiwan''s modern architectural history and aesthetic imagination through its column-free curved walls and cave-like spatial aesthetics.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/art/national-taichung-theater",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "en/Art/national-taichung-theater.md"
+  },
+  {
+    "title": "National Taichung Theater: Toyo Itos „Sound Cave“ und die revolutionäre Architektur ohne Säulen oder Mauern",
+    "description": "Wie das vom Pristerner-Preisträger Toyo Ito entworfene National Taichung Theater, bekannt als „global schwierigstes Bauwerk“, durch seine organische Wandoberfläche und Höhlenästhetik die moderne Architekturgeschichte und Vorstellungswelt Taiwans neu definiert hat.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/art/national-taichung-theater",
+    "readingTime": 91,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "de/Art/national-taichung-theater.md"
+  },
+  {
     "title": "National Theater and Concert Hall: From Authoritarian Symbol to People's Cultural Palace",
     "description": "When it opened in 1987, the National Theater and Concert Hall was a palace-style building memorializing Chiang Kai-shek, with iron gates keeping citizens out. In 2003 Ju Tzong-ching tore down those gates; in 2004 it became Taiwan's first administrative juridical person. The 4,172 pipes of the Dutch Flentrop organ are buried behind the wall. Artistic Director Liu Yi-ru says cultural venues must see the 'invisible barriers.'",
     "category": "en",
@@ -67176,17 +67302,6 @@
     "path": "pt/History/great-recall-movement-2024.md"
   },
   {
-    "title": "O Guia Michelin em Taiwan: O Preço e a Redefinição sob as Estrelas",
-    "description": "Em 2018, o Guia Michelin chegou a Taiwan; na superfície, uma honra de certificação internacional, na prática, redefiniu as regras de sobrevivência da indústria gastronômica — os restaurantes \"quase lá\" tornaram-se as maiores vítimas.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/food/taiwan-michelin-fine-dining",
-    "readingTime": 83,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "pt/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
     "title": "O hip-hop e o rap em Taiwan: o chinês não devia conseguir fazer rap, o taiwanês não subia ao palco, não era gueto — eles transformaram três desvantagens numa assinatura sonora de soberania",
     "description": "Em 2004, Song Yue-ting já tinha partido há dois anos; a mãe e o irmão subiram ao palco para receber o Golden Melody de melhor letra. Os rimas duplas de «Life's a Struggle» empurraram um passo adiante o preconceito de que «o chinês não serve para rap». Do aprendizado autodidata com álbuns importados na era underground até Leo Wang e MC HotDog conquistarem o título de Rei do Rap, Taiwan levou vinte anos a percorrer esse caminho. Mas o mais comovente desta ilha não é o quanto se parece com os EUA — é como transformou os tons do chinês, a cadência do taiwanês e o facto de os seus criadores não serem «vítimas do gueto» numa assinatura sonora plural que só aqui se pode cantar.",
     "category": "pt",
@@ -67601,6 +67716,17 @@
     "path": "pt/Politics/taiwan-presidential-pets.md"
   },
   {
+    "title": "Os Bombeiros Voluntários de Taiwan: Vestindo o Uniforme Após o Expediente, Eles São a Segunda Força de Combate Local",
+    "description": "Os voluntários são chamados de \"voluntários\", mas possuem estrutura legal, treinamento profissional, comando operacional e seguro contra desastres. Desde os grupos de bombeiros da era colonial japonesa até as buscas em áreas montanhosas atuais, como essa força local preenche a lacuna do sistema de combate a incêndios também expõe desafios na recrutamento, treinamento, equipamentos de segurança, apoio familiar e retenção a longo prazo.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/volunteer-firefighters-taiwan",
+    "readingTime": 109,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "pt/Society/volunteer-firefighters-taiwan.md"
+  },
+  {
     "title": "Os construtores de montanhas: a aposta do século — uma epopeia dos semicondutores de Taiwan que só pôde ser contada depois de apagar uma palavra do título",
     "description": "Lançado em 13 de junho de 2025, o documentário Os construtores de montanhas narra a epopeia da insubstituível indústria de semicondutores de Taiwan. Mas seu título original era Escudo de silício. Hsiao Chu-chen passou cinco anos e entrevistou mais de 80 pessoas para registrar como esse setor “nasceu da adversidade”, mas precisou retirar do título sua palavra mais incisiva — quando este país exalta seu trunfo mais poderoso, precisa primeiro ponderar como aquilo será ouvido do outro lado do estreito.",
     "category": "pt",
@@ -67681,9 +67807,7 @@
     "title": "Où est passée l'éducation morale à Taïwan : un cours supprimé et une responsabilité que personne n'a assumée pendant vingt ans",
     "description": "Avant 1993, chaque élève d'école primaire à Taïwan suivait chaque semaine un cours de « Morale et Santé », et chaque collégien un cours de « Citoyenneté et Morale ». Le programme scolaire unifié en neuf ans a supprimé ces deux matières, en « intégrant » la morale dans les sept grands domaines d'apprentissage. Résultat : dans les quelque 60 pages du programme du domaine « Sciences sociales », le mot « morale » est presque absent, 78 % des enseignants affirment que l'éducation morale est ce qu'il faudrait le plus renforcer, mais aucun enseignant d'aucune matière ne considère que cela relève de sa responsabilité.",
     "category": "fr",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/society/where-did-taiwan-moral-education-go",
     "readingTime": 114,
     "featured": false,
@@ -71921,6 +72045,17 @@
     "path": "en/Society/taiwan-regenerative-medicine-laws.md"
   },
   {
+    "title": "Relawan Sukarela Taiwan: Mengenakan Seragam Setelah Jam Kerja, Inilah Pemadam Kebakaran Kedua di Daerah",
+    "description": "Relawan sukarela disebut sebagai relawan, namun mereka memiliki struktur hukum, pelatihan profesional, komando tugas, dan asuransi penanggulangan bencana. Dari tim pemadam kebakaran era pemerintahan Jepang hingga operasi SAR pegunungan modern, bagaimana kekuatan lokal ini mengisi kesenjangan sistem pemadam kebakaran sekaligus mengungkap tantangan rekrutmen, pelatihan, peralatan keselamatan, dukungan keluarga, dan retensi jangka panjang.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/volunteer-firefighters-taiwan",
+    "readingTime": 107,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "id/Society/volunteer-firefighters-taiwan.md"
+  },
+  {
     "title": "Relevo e Geologia",
     "description": "Uma ilha de 6 milhões de anos guarda memórias de 200 milhões de anos — o milagre da mais jovem cadeia orogênica do mundo e da mais intensa colisão de placas tectônicas",
     "category": "pt",
@@ -72768,6 +72903,17 @@
     "path": "id/Food/taiwan-sauces-and-seasonings.md"
   },
   {
+    "title": "Schneegipfel-Tunnel: Vom ‚unmöglichen Projekt‘ zum taiwanesischen Ingenieurwunder aus Blut und Schweiß",
+    "description": "Am 15. Dezember 1997 drang ein Wasserrohrengrab fast um, 300 Menschen zu töten, und ließ den zehn Millionen teuren Tunnelbohrer (TBM) zur Schrottkiste werden. Dieser von der Enzyklopädie Britannica als eine der schwierigsten Ingenieurprojekte weltweit bezeichnete Tunnel ist nicht nur ein Verkehrsweg, sondern ein Blut-und-Schweiß-Wunder, das von 25 gefallenen Helfern und unzähligen anonymen Helden in dem härteren als Stahl gefundenen Granitgestein gebaut wurde.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/technology/hsuehshan-tunnel",
+    "readingTime": 85,
+    "featured": false,
+    "date": "2026-04-29",
+    "path": "de/Technology/hsuehshan-tunnel.md"
+  },
+  {
     "title": "School Cooperatives in Taiwan: The Vanishing Democratic Experiment Behind the Pork Bun",
     "description": "In 1989, NTU student body president Lo Wen-chia led a sit-in at the campus welfare shop, demanding it be restructured into a teacher-and-student-owned cooperative. A year later, the Ministry of Education made it national policy, and at peak there were over 5,000 cooperative shops across Taiwan campuses. Three decades on, the cooperatives at flagship schools like Jianguo High and Jingmei Girls High are switching off their lights — squeezed out by food-delivery platforms, food bans, and the demographic cliff. This piece asks: when the NT$10 share certificate disappears, what Taiwan loses is not just the smell of steamed pork buns, but an unfinished lesson in civic and labor education.",
     "category": "en",
@@ -73084,6 +73230,17 @@
     "featured": true,
     "date": "2026-03-28",
     "path": "id/Art/taiwan-new-media-art.md"
+  },
+  {
+    "title": "Seni Tradisional Taiwan",
+    "description": "Keajaiban industri budaya terbesar abad ke-21: bagaimana kekaisaran pewayangan Pili bernilai triliunan per tahun, dari pertunjukan kecil di desa untuk berterima kasih kepada dewa, bertransformasi menjadi kekuatan budaya lunak yang menaklukkan dunia?",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/art/traditional-arts-of-taiwan",
+    "readingTime": 65,
+    "featured": true,
+    "date": "2026-03-24",
+    "path": "id/Art/traditional-arts-of-taiwan.md"
   },
   {
     "title": "Sensibilidade taiwanesa: precisamos que os coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são bonitas?",
@@ -74772,11 +74929,11 @@
   },
   {
     "title": "Steve Chen",
-    "description": "Aos oito anos saiu de Taiwan, aos vinte e sete construiu nos EUA um lugar onde toda a gente podia carregar vídeos, vinte meses depois vendeu-o por 1,65 mil milhões de dólares, depois nasceu-lhe um tumor no cérebro, depois regressou com a mulher e os filhos.",
+    "description": "Ele saiu de Taiwan com oito anos, aos 27 anos construiu nos EUA um lugar onde todos podiam subir vídeos, vendeu-o 18 meses depois por 1,65 bilhão de dólares, depois cresceu um tumor no cérebro, e finalmente voltou com a esposa e as crianças.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/steve-chen-youtube-cofounder",
-    "readingTime": 50,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-04-06",
     "path": "pt/People/steve-chen-youtube-cofounder.md"
@@ -76521,17 +76678,6 @@
     "path": "id/Society/taiwan-lithuania.md"
   },
   {
-    "title": "Taiwan dan Michelin: Kompas di Bawah Bintang",
-    "description": "Pada 2018, Michelin masuk ke Taiwan, yang tampaknya sebagai pujian atas pengakuan internasional, pada dasarnya mendefinisikan ulang aturan bertahan hidup di industri makanan—restoran yang 'hampir cukup' justru menjadi korban terbesar.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/food/taiwan-michelin-fine-dining",
-    "readingTime": 85,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "id/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
     "title": "Taiwan Defense and Military Modernization",
     "description": "In October 2025, Lai Ching-te presided over the activation of an M1A2T tank battalion in Hukou. That same month, former Chief of the General Staff Lee Hsi-ming said with a wry smile: \"If even tanks can be asymmetric weapons, then what is not an asymmetric weapon?\" This is the story of an island pulled between two logics of national defense.",
     "category": "en",
@@ -77316,6 +77462,17 @@
     "path": "en/Food/taiwan-pastry-culture.md"
   },
   {
+    "title": "Taiwan Railway Administration: Der Aufstieg des \"Nachitsu\"-Zuges von einem ästhetischen Desaster zum mobilen Sternenrestaurant",
+    "description": "Aus dem 70-jährigen \"Kunschang\"-Zug als Ausgangspunkt entstand mit dem \"Herbstwind\"-Konzept ein schlichtes, edles schwarz-orange Lack und eine reduzierte Ästhetik, die von Bocheng Design und Lion Travel in die taiwanesische Eisenbahn eingebracht wurden. Dies führte zur Entwicklung des mobilen Restaurants \"Nachitsu Küche\", das den deutschen iF Design Preis in Gold gewann und die taiwanesische Luxus-Eisenbahntourismus neu definierte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/lifestyle/tra-mingri-express",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "de/Lifestyle/tra-mingri-express.md"
+  },
+  {
     "title": "Taiwan Railway History: The \"Lung Disease\" Railway, the \"Black-Headed Ones,\" and the Line That Lost Its Foreign Names",
     "description": "A road the Japanese called \"lung disease\" that became a high-speed artery carrying 200,000 people daily over a century. Engineer Becker was scrapped by the Japanese; Hasegawa’s trunk line was renamed post-war; every generation pushed the previous records to footnotes. Foreign names faded, leaving Taiwanese slang like \"black-headed ones\" and political slogans like \"Juguang\" and \"Ziqiang,\" until the Puyuma and Taroko era finally laid indigenous place names back onto the tracks.",
     "category": "en",
@@ -77689,6 +77846,17 @@
     "featured": false,
     "date": "2026-04-14",
     "path": "en/Lifestyle/taiwan-youbike-and-micromobility-revolution.md"
+  },
+  {
+    "title": "Taiwan-MRT: Eine Stadtgeschichte aus Blut und Geld",
+    "description": "Ein 209-Tonnen-Stahlträger fiel vom Himmel und riss vier Menschen mit sich, 1,64 Millionen Euro Schadensersatz, und die Taipeler MRT verliert bis heute Geld im Kerngeschäft — die wahre Kosten des taiwanesischen Schienenverkehrs",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 101,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "de/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "Taïwan, haut lieu de la biodiversité",
@@ -78504,12 +78672,12 @@
     "path": "en/Society/taiwan-marriage-equality-lgbtq-rights.md"
   },
   {
-    "title": "Taiwan's Michelin Guide: The Price of Stars and Redefinition",
-    "description": "Since Michelin arrived in Taiwan in 2018, it has brought international recognition—but also reshaped dining industry survival rules. The biggest victims? Restaurants that are \"almost good enough.\"",
+    "title": "Taiwan's Michelin: The Cost Under the Stars and a Redefinition",
+    "description": "When Michelin arrived in Taiwan in 2018, it was hailed as an honor of international certification, but it actually redrew the survival rules of the catering industry — restaurants that were \"almost up to standard\" became the biggest victims.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/food/taiwan-michelin-fine-dining",
-    "readingTime": 77,
+    "readingTime": 85,
     "featured": true,
     "date": "2026-03-23",
     "path": "en/Food/taiwan-michelin-fine-dining.md"
@@ -78984,6 +79152,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Food/taiwan-vegetarian-culture.md"
+  },
+  {
+    "title": "Taiwan's Volunteer Firefighters: After Work They Put On the Uniform, Giving Localities a Second Fire Brigade",
+    "description": "Called volunteers, yet they have statutory organization, professional training, operational command, and disaster insurance. From the Japanese-era fire-fighting associations to today's mountain search and rescue, this local force fills the time gap in the fire protection system while exposing challenges in recruitment, training, safety equipment, family support, and long-term retention.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/volunteer-firefighters-taiwan",
+    "readingTime": 100,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "en/Society/volunteer-firefighters-taiwan.md"
   },
   {
     "title": "Taiwan's VR Decade: From Cher Wang's 'Year One' to Selling the Team to Google",
@@ -79591,6 +79770,17 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "pt/Society/taiwanese-overseas-and-diaspora.md"
+  },
+  {
+    "title": "Taiwanische Freiwillige Feuerwehren: Nach Feierabend in Uniform – Die zweite Feuerwehr vor Ort",
+    "description": "Die Freiwilligenfeuerwehr wird als ehrenamtlich bezeichnet, verfügt jedoch über gesetzliche Struktur, professionelles Training, Einsatzleitung und Katastrophenschutzversicherung. Von den japanischen Brandschutzeinheiten bis zur heutigen Bergrettung zeigt diese lokale Kraft, wie sie die Lücken im Feuerwehrsystem schließt, aber auch Herausforderungen bei Rekrutierung, Ausbildung, Sicherheitsausrüstung und langfristiger Bindung aufzeigt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/volunteer-firefighters-taiwan",
+    "readingTime": 103,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "de/Society/volunteer-firefighters-taiwan.md"
   },
   {
     "title": "Taiwans Forstgeschichte: Vom Rohstoffraubbau zur Landessicherung – eine Wende über ein Jahrhundert",
@@ -80367,6 +80557,17 @@
     "path": "pt/Art/taiwanese-theater-and-performing-arts.md"
   },
   {
+    "title": "Teatro Nacional de Taichung: la \"cueva sonora\" y la revolución arquitectónica de las paredes curvas sin pilares de Toyo Ito",
+    "description": "Diseñado por el premio Pritzker Toyo Ito y calificado como \"la obra más difícil de construir del mundo\", el Teatro Nacional de Taichung muestra cómo sus paredes curvas sin pilares y estética de cueva reescriben la historia y la imaginación de la arquitectura moderna de Taiwán.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/art/national-taichung-theater",
+    "readingTime": 100,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "es/Art/national-taichung-theater.md"
+  },
+  {
     "title": "Teatro Paper Windmill: O Dom Quixote que Sopra os Sonhos de Taiwan, uma Longa Marcha Artística de Trinta Anos",
     "description": "Da fantasia teatral de 1992 ao \"novo movimento cultural\" que percorreu 368 municípios, o Teatro Paper Windmill, com o espírito de \"move-se com o vento, cria o próprio vento quando não há\", acendeu a primeira milha da arte para as crianças de Taiwan. Após sobreviver ao incêndio de Bali e à devastação da pandemia, o fundador Lee Yung-feng liderou a equipe para renascer das cinzas em meio à depressão e dívidas, usando o gigante \"Cavalo da Chuva\" e histórias locais para tecer a memória coletiva desta ilha.",
     "category": "pt",
@@ -80751,6 +80952,17 @@
     "featured": true,
     "date": "2026-04-05",
     "path": "id/History/taiwan-white-terror.md"
+  },
+  {
+    "title": "Terowongan Xue Shan: Dari \"Misi Mustahil\" Menjadi Keajaiban Teknik Berdarah di Taiwan",
+    "description": "Pada 15 Desember 1997, insiden banjir hampir merenggut tiga ratus nyawa, dan mesin penggali TBM senilai satu miliar menjadi besi rongsokan. Terowongan yang tercatat oleh 《Ensiklopedia Britannica》 sebagai salah satu proyek tersulit di dunia ini bukan hanya arteri transportasi, tetapi juga keajaiban berdarah yang digali dari batuan kuarsa empat sisi sekeras baja oleh 25 korban jiwa dan banyak pahlawan tak bernama.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/hsuehshan-tunnel",
+    "readingTime": 83,
+    "featured": false,
+    "date": "2026-04-29",
+    "path": "id/Technology/hsuehshan-tunnel.md"
   },
   {
     "title": "Terremotos: a memória insular de dançar com o boi da terra",
@@ -81562,6 +81774,17 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "vi/Culture/taiwan-new-idol-generation.md"
+  },
+  {
+    "title": "The History of Taiwan's MRT: An Urban Evolution Written in Blood and Money",
+    "description": "From the 209-ton steel beam that took 4 lives and resulted in a 1.64 billion compensation claim, to the fact that Taipei Metro still operates at a loss—the true cost behind all of Taiwan's mass transit.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 96,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "en/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "The History of the Voting Age Threshold: From 20 to 18, a Two-Decade Unfinished Constitutional Amendment",
@@ -83548,6 +83771,17 @@
     "path": "vi/People/chou-tien-chen-badminton.md"
   },
   {
+    "title": "Trương Trung Nhân và Trương Trung Nghĩa: Cuộc đời mới chỉ bắt đầu sau khi cơ thể được tách rời",
+    "description": "Trương Trung Nhân và Trương Trung Nghĩa, sinh năm 1976 tại Cao Hùng, lớn lên trước tuổi ba tại Bệnh viện Trung Sơn. Năm 1979, một đội ngũ 36 người của Đại học Đài Loan đã hoàn thành ca phẫu thuật tách rời kéo dài 12 giờ. Câu chuyện thực sự dài hơi bắt đầu sau bàn mổ: bệnh tật, chân giả, công việc, gia đình và ánh mắt truyền thông đã dần định hình hai cái tên trong suốt 40 năm, buộc Đài Loan phải suy ngẫm lại về khoảng cách giữa đột phá y học và tính tự chủ cá nhân.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chang-chung-jen-chung-i-twins",
+    "readingTime": 99,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "vi/People/chang-chung-jen-chung-i-twins.md"
+  },
+  {
     "title": "Trường Văn Kỷ: 12 năm thúc đẩy vòng tròn nghệ thuật Đài Loan đến các đảo ngư",
     "description": "Vào tháng 5 năm 2017, nghệ sĩ kiêm nhà văn Malaysia Okui Lala đến Đài Nội, trở thành nghệ sĩ lưu động đầu tiên của “Sa Land số”. Bối cảnh này phản ánh quá trình 12 năm của Trường Văn Kỷ với dự án “Cơ sở dữ liệu Các đảo ngư” — một cách tiếp cận độc lập với khung “Trung Hoa” và “Tây phương” trong vòng tròn nghệ thuật Đài Loan.",
     "category": "vi",
@@ -83656,6 +83890,17 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "vi/People/tsai-a-ga-youtuber.md"
+  },
+  {
+    "title": "Tsai Chung-jen et Tsai Chung-i : après avoir été séparés, la vie ne commence vraiment que là",
+    "description": "Nés en 1976 à Kaohsiung, Tsai Chung-jen et Tsai Chung-i ont grandi à l'hôpital Zhongshan jusqu'à l'âge de trois ans. En 1979, une équipe de 36 personnes de l'Université nationale de Taïwan a effectué une opération de séparation de 12 heures. L'histoire véritable commence après l'opération : douleurs, prothèses, travail, famille et regards médiatiques ont progressivement façonné deux vies distinctes sur 40 ans, poussant Taïwan à reconsidérer l'écart entre progrès médical et autonomie individuelle.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/chang-chung-jen-chung-i-twins",
+    "readingTime": 116,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "fr/People/chang-chung-jen-chung-i-twins.md"
   },
   {
     "title": "Tsai Hei Pi: Anak yang Tumbuh di Nama Stasiun MRT, Memasukkan Taiwan ke dalam Langganan 260 Ribu Orang",
@@ -83875,6 +84120,72 @@
     "path": "id/People/tsai-ming-liang.md"
   },
   {
+    "title": "Tsai Pei-huo (蔡培火): La persona que convirtió el taiwanés en un problema público",
+    "description": "Tsai Pei-huo no fue solo una figura de la era japonesa con algunos libros y canciones. Partiendo desde las posiciones de maestro, estudiante extranjero, trabajador periodístico y participante en movimientos sociales, conectó la educación, la escritura del taiwanés, la iluminación cultural y las demandas de autonomía en un mismo problema: ¿cómo pueden los taiwaneses adquirir la capacidad de leer, escribir, organizarse y hablar? Este artículo organiza el conocimiento público a través de archivos de figuras verificables, datos de obras, asociaciones culturales y el contexto de peticiones ante el Parlamento taiwanés.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/tsai-pei-huo",
+    "readingTime": 99,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "es/People/tsai-pei-huo.md"
+  },
+  {
+    "title": "Tsai Pei-huo: A pessoa que escreveu o Taiwanes como um problema público",
+    "description": "Tsai Pei-huo não é apenas um funcionário do período de ocupação japonesa que deixou alguns livros e músicas. Partindo de posições como professor, estudante emérito, trabalhador de imprensa e participante de movimentos sociais, ele conectou educação, escrita em Taiwanes, iluminação cultural e demandas pela autonomia em um único problema: como os taiwaneses obtêm capacidade de leitura e escrita, organização e voz? Este texto, com base em arquivos verificáveis de pessoas, dados de obras, associações culturais e contextos de petições ao Conselho Taiuanesa, reúne como um intelectual público encontra portas de entrada para a língua e política dentro e fora do sistema colonial.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/tsai-pei-huo",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "pt/People/tsai-pei-huo.md"
+  },
+  {
+    "title": "Tsai Pei-huo: Die Person, die Taiwâ-Sprache (Taiwanese Dialekt) zu einem öffentlichen Thema machte",
+    "description": "Tsai Pei-huo war nicht nur eine Figur der japanischen Kolonialzeit mit einigen Büchern und Liedern. Aus seiner Rolle als Lehrer, Austauschstudent, Journalist und Teilnehmer gesellschaftlicher Bewegungen heraus, verschmolz er Bildung, die Niederschrift der Taiwâ-Sprache, kulturelle Erweckung und Forderungen nach Selbstverwaltung zu einem einzigen Problem: Wie konnten die Menschen auf Taiwan Lesekompetenz, Organisationsfähigkeit und Redefähigkeit erlangen? Dieser Artikel ordnet das Wissen eines öffentlichen Intellektuellen in den Kontext der Suche nach sprachlichen und politischen Zugängen innerhalb des Kolonialsystems, basierend auf überprüfbaren Personen-, Werk- und Kulturvereinsdaten sowie dem Petitionsverlauf des Taiwan-Parlaments.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/tsai-pei-huo",
+    "readingTime": 98,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "de/People/tsai-pei-huo.md"
+  },
+  {
+    "title": "Tsai Pei-huo: Người đặt tiếng Tây Ngữ (Taiwanese Hokkien) viết thành vấn đề công cộng",
+    "description": "Tsai Pei-huo không chỉ để lại vài cuốn sách và vài bài ca. Từ vị trí giáo viên, sinh viên du học, nhà báo và người tham gia phong trào xã hội, ông nối liền giáo dục, viết tiếng Tây Ngữ, khơi mắc văn hóa và yêu cầu tự trị trong một vấn đề chung: người Đài Loan phải làm sao để có khả năng đọc viết, tổ chức và phát biểu. Bài viết dựa trên hồ sơ có thể kiểm chứng được về nhân vật, tác phẩm, hội văn hóa và bối cảnh xin lập viện Đài Loan, tổng hợp cách một trí tuệ công cộng tìm lối vào ngôn ngữ và chính trị trong và ngoài hệ thống thuộc địa.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/tsai-pei-huo",
+    "readingTime": 90,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "vi/People/tsai-pei-huo.md"
+  },
+  {
+    "title": "Tsai Pei-huo: Sosok yang Mengubah Dialek Taiwan Menjadi Isu Publik",
+    "description": "Tsai Pei-huo bukan hanya tokoh era pemerintahan Jepang yang meninggalkan beberapa buku dan lagu. Berangkat dari posisi sebagai guru, pelajar asing, pekerja surat kabar, dan partisipan gerakan sosial, ia menyatukan pendidikan, penulisan dialek Taiwan, pencerahan budaya, dan tuntutan otonomi menjadi satu masalah: bagaimana orang Taiwan memperoleh kemampuan membaca, mengorganisasi, dan berbicara. Artikel ini menyusun pengetahuan publik dengan merujuk pada arsip tokoh, data karya, asosiasi budaya, dan konteks petisi Dewan Legislatif Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/tsai-pei-huo",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "id/People/tsai-pei-huo.md"
+  },
+  {
+    "title": "Tsai Pei-huo: The Man Who Made Taiwanese a Public Issue",
+    "description": "Tsai Pei-huo was more than a Japanese-era figure who left behind a few books and songs. Starting from positions as teacher, student abroad, journalist, and social movement participant, he connected education, Taiwanese written language, cultural enlightenment, and self-governance demands into a single question: how can the people of Taiwan gain the ability to read, write, organize, and speak. This article uses verifiable archival materials, work databases, cultural associations, and the Taiwan Parliament Establishment Petition context to trace how a public intellectual found pathways to language and politics within and beyond the colonial system.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/tsai-pei-huo",
+    "readingTime": 87,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "en/People/tsai-pei-huo.md"
+  },
+  {
     "title": "Tsai Wei-wen: El guerrero búfalo del movimiento de la lengua y literatura taiwanesa",
     "description": "¿Cómo un graduado en ingeniería mecánica se convirtió en el promotor más radical del movimiento de la lengua y literatura taiwanesa? Desde su protesta con pancartas contra Huang Chun-ming en 2011 hasta convertirse en experto en estudios vietnamitas, Tsai Wei-wen interpreta con sus acciones la creencia fundamental de que la lengua es identidad.",
     "category": "es",
@@ -84089,7 +84400,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/technology/hsuehshan-tunnel",
-    "readingTime": 98,
+    "readingTime": 97,
     "featured": false,
     "date": "2026-04-29",
     "path": "es/Technology/hsuehshan-tunnel.md"
@@ -87764,7 +88075,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/yang-chuan-kwang-asian-iron-man",
-    "readingTime": 56,
+    "readingTime": 59,
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/yang-chuan-kwang-asian-iron-man.md"
@@ -88975,6 +89286,17 @@
     "path": "id/History/prehistoric-era-and-indigenous-peoples.md"
   },
   {
+    "title": "Zeitgenössische indigene Künstler: Musik als kultureller Dialog",
+    "description": "In Chen Jiannian''s \"Ocean\" werden die Sprachen Binin und Mandarin verwendet, Shumiens Schöpfung verbindet mit der Kultur von Dulan, während ABAO Pailwan-Sprache in moderne Popmusik bringt. Dieser Artikel vergleicht Werke verschiedener Künstler, analysiert ihre Auftritte im Kontext des Golden Melody Awards und zeigt auf, wie Stammesdialekte, Lebenserfahrungen und Aufnahmetechnik zusammenkommen, ohne verschiedene Gruppen zu vereinfachen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/music/contemporary-indigenous-singer-songwriters",
+    "readingTime": 99,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "de/Music/contemporary-indigenous-singer-songwriters.md"
+  },
+  {
     "title": "Zhang Zhiqi: Dari 'Gambar dan Teks Tidak Sesuai' ke 'Zhiqi Qiqi', Mencari 'Kurator Informasi' untuk Dialog di Era yang Terbelah",
     "description": "Seorang desainer informasi yang dikenal dengan update harian selama tujuh tahun dan 1,65 juta subscriber di 'Zhiqi Qiqi', menerjemahkan isu sosial kompleks menjadi ringkasan praktis. Ia terus mencari kemungkinan dialog dalam masyarakat Taiwan di era yang terbelah.",
     "category": "id",
@@ -89375,7 +89697,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/zun",
-    "readingTime": 106,
+    "readingTime": 105,
     "featured": false,
     "date": "2026-07-15",
     "path": "es/People/zun.md"
@@ -89401,6 +89723,17 @@
     "featured": false,
     "date": "2026-07-15",
     "path": "en/People/zun.md"
+  },
+  {
+    "title": "Zun: Vom Zimmer eines Mittelschülers zum Millionen-YouTuber – Die Erwachsenengeschichte eines Content Creators",
+    "description": "Von der Gaming-Livestreaming in der Mittelschule bis zur Erreichung einer Million Abonnenten mit dem Nebenkanal. Über vierzehn Jahre Daten, die den Prozess zeigen, wie er mit den Lasten des Schaffens, familiären Turbulenzen und Werbefehlern erwachsen wurde.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/zun",
+    "readingTime": 101,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "de/People/zun.md"
   },
   {
     "title": "А-хань: тот, кто один сыграл весь переулок, а затем его ругали обратно в переулок — мальчик из Хуаляня",
@@ -90849,11 +91182,11 @@
   },
   {
     "title": "История развития метро Тайваня: городская эволюция, написанная кровью и деньгами",
-    "description": "209-тоннальная стальная балка с небес унесла 4 жизни, 1,64 млрд компенсаций, основной бизнес метро Тайбэя до сих пор убыточен — истинная цена метро всего Тайваня",
+    "description": "209-тонная стальная балка, упавшая с неба, унесла 4 жизни, 1,64 млрд компенсаций, основной бизнес метро Тайбэя до сих пор убыточен — истинная цена метро по всему Тайваню",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 88,
+    "readingTime": 86,
     "featured": true,
     "date": "2026-03-23",
     "path": "ru/Lifestyle/history-of-taiwan-mrt-development.md"
@@ -91211,7 +91544,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/where-did-taiwan-moral-education-go",
-    "readingTime": 97,
+    "readingTime": 98,
     "featured": false,
     "date": "2026-04-25",
     "path": "ru/Society/where-did-taiwan-moral-education-go.md"
@@ -92222,17 +92555,6 @@
     "path": "ru/Culture/taiwan-indigenous-mythology.md"
   },
   {
-    "title": "Мишлен на Тайване: цена под звёздами и переопределение",
-    "description": "В 2018 году Мишлен пришёл на Тайвань: внешне — международная награда, на деле — пересмотр правил выживания ресторанного бизнеса — те, кто «почти соответствовал», стали главными жертвами.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/food/taiwan-michelin-fine-dining",
-    "readingTime": 76,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ru/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
     "title": "Мо На Нэн: два вида слепоты, одна книга стихов",
     "description": "Первый коренной поэт, опубликовавший сборник современной поэзии на китайском языке, Мо На Нэн ослеп только в 1979 году, а в 1989 году издательство «Чэньсин» выпустило его «Красивые рисовые колосья». Строка «Лозунг самоопределения 18 миллионов не слышит наших вздохов» из стихотворения «Давай, выпьем» зафиксировала вопрос «кто считается тайванцем» в 30 стихах — 37 лет спустя этот вопрос всё ещё не имеет ответа.",
     "category": "ru",
@@ -92264,6 +92586,17 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "ru/Technology/taiwan-gamers-wildest-moments.md"
+  },
+  {
+    "title": "Мона Рудо: герой сопротивления Японии, чей портрет отчеканили на монете, и мир без Китая и Японии",
+    "description": "В 2001 году Центральный банк Тайваня отчеканил двадцати юаневую монету с изображением Моны Рудо, героя сопротивления японской оккупации. Но монетный двор не смог найти его фотографии ни в одном местном историческом материале, и в итоге её нашли в японском журнале. От утренней спортивной встречи в Ушише в 1930 году до останков, которые служили антропологическим экспонатом около сорока лет — три режима нуждались в нём. А в том мире, который он действительно защищал, с радужным мостом, татуировками и Гаей, никогда не было ни Китая, ни Японии.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/mona-rudao",
+    "readingTime": 246,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "ru/People/mona-rudao.md"
   },
   {
     "title": "Моррис Чанг",
@@ -93030,6 +93363,17 @@
     "path": "ru/Technology/submarine-cables-taiwan-lifeline.md"
   },
   {
+    "title": "Поезд TRA «Минжихао»: от железнодорожной эстетической катастрофы к движущемуся пятизвездному дворцу",
+    "description": "Начиная с переделки семидесятилетней хронической болезни поездов «Цюгуанхао», как Байчэнь шэжи (JC. Architecture) и Сюньшь люю (Lion Travel) с концепцией «Осенний ветер» ввели в тайваньские железные дороги скромный роскошный чёрно-оранжевый дизайн и эстетику вычитания, а затем породили подвижный ресторан «Минжичуфан», удостоенный немецкой золотой медали iF, переопределив высококлассное железнодорожное путешествие на Тайване.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/lifestyle/tra-mingri-express",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "ru/Lifestyle/tra-mingri-express.md"
+  },
+  {
     "title": "Политическая среда и избирательная система Тайваня",
     "description": "От конституционного устройства и механизмов центральных и местных выборов до глубокой партийной политической культуры — всесторонний анализ того, как Тайвань в сложных геополитических условиях поддерживает живую и институционально строгую демократическую общественность",
     "category": "ru",
@@ -93635,12 +93979,12 @@
     "path": "ru/Art/contemporary-indigenous-art-taiwan.md"
   },
   {
-    "title": "Современные коренные певцы-композиторы Тайваня",
-    "description": "От Чжан Хуэймэй до Шумиэня и Санбуя — как тайваньские коренные певцы передают древние души в современной музыке, создавая уникальный современный коренной музыкальный пейзаж",
+    "title": "Современные авторы-коренные народы",
+    "description": "Альбом Чэнь Цзяньня «Океан», использующий языки Бинан и китайский, а Шуминг возвращает творчество к культурному образованию Тулан; Абао вносит язык Пайвань в современное поп-производство. В данной статье сравниваются работы различных музыкантов с отсылками к музыкальным наградам, чтобы понять, как языки, жизненный опыт и звуковые технологии пересекаются, а не сводить множество этнических групп к единому звучанию.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 87,
+    "readingTime": 97,
     "featured": true,
     "date": "2026-03-18",
     "path": "ru/Music/contemporary-indigenous-singer-songwriters.md"
@@ -93972,7 +94316,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/technology/hsuehshan-tunnel",
-    "readingTime": 72,
+    "readingTime": 73,
     "featured": false,
     "date": "2026-04-29",
     "path": "ru/Technology/hsuehshan-tunnel.md"
@@ -94245,6 +94589,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "ru/Geography/taiwan-biodiversity-hotspots.md"
+  },
+  {
+    "title": "Тайвань: добровольцы-пожарные надевают форму после работы, чтобы район получил вторую пожарную бригаду",
+    "description": "Добровольцев называют волонтёрами, но у них есть уставная численность, профессиональная подготовка, командование и страховка от несчастных случаев. От японских пожарных формирований до современных поисково-спасательных отрядов в горах — как эта местная сила устраняет разрыв во времени в пожарной системе, и какие проблемы это создаёт в найме, обучении, снаряжении, семейной поддержке и долгосрочном удержании персонала.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/volunteer-firefighters-taiwan",
+    "readingTime": 104,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "ru/Society/volunteer-firefighters-taiwan.md"
   },
   {
     "title": "Тайвань: морская экология и сохранение коралловых рифов",
@@ -95147,6 +95502,17 @@
     "path": "ru/Nature/formosan-rock-macaque.md"
   },
   {
+    "title": "Тайваньский Мишлен: Цена и переопределение под светом звезд",
+    "description": "В 2018 году Мишлен появился на Тайване, что внешне выглядело как международное признание, но на самом деле изменило правила выживания в ресторанном бизнесе — «почти достойные» рестораны стали главными жертвами.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/food/taiwan-michelin-fine-dining",
+    "readingTime": 83,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ru/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
     "title": "Тайваньский панголин",
     "description": "Самый контрабандируемый млекопитающий в мире нашёл безопасный дом на Тайване",
     "category": "ru",
@@ -95355,6 +95721,17 @@
     "path": "ru/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
+    "title": "Тайваньское традиционное искусство",
+    "description": "Самый большой культурный чудо 21 века: империя пуппеточного театра с доходом в миллиарды, как она превратила сельские богослужебные представления в культурную силу, завоевавшую мир?",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/art/traditional-arts-of-taiwan",
+    "readingTime": 74,
+    "featured": true,
+    "date": "2026-03-24",
+    "path": "ru/Art/traditional-arts-of-taiwan.md"
+  },
+  {
     "title": "Тайваньское уличное граффити: от полуночных внезаконников к городскому свету Сиьмэньдина",
     "description": "В 1989 году Лю Сюйянь оставил первую линию на дуньшэнь дун лу, открыв подпольную историю тайваньского граффити. От городской легенды Дацзань Вана до социальной критики Кенді Бёрд — эта тридцатилетняя погоня с экологическим управлением переопределяет городскую эстетику Тайваня.",
     "category": "ru",
@@ -95540,17 +95917,6 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Society/breakfast-shops-and-community-intelligence-network.md"
-  },
-  {
-    "title": "Традиционные искусства Тайваня",
-    "description": "Главное чудо культурной индустрии XXI века: как империя кукольного театра Пили с годовой выручкой в сотни миллиардов превратилась из деревенского ритуального представления в глобальную культурную мягкую силу?",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/art/traditional-arts-of-taiwan",
-    "readingTime": 62,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "ru/Art/traditional-arts-of-taiwan.md"
   },
   {
     "title": "Традиционные ремесла и нематериальное культурное наследие Тайваня: система признания есть, а учеников нет",
@@ -96022,6 +96388,17 @@
     "path": "ru/People/he-feipeng.md"
   },
   {
+    "title": "Хон Ни: от библиотеки Фанъюань до улиц Хахатай — три имени, пишущие одной ручкой",
+    "description": "Хон Чжени, родившаяся в районе Цзянхахай в 1996 году и выросшая в Фанъюане, известна как «Джени» во время уличных интервью в Хахатае, а при написании текстов — как «Хон Ни», документируя семейные отношения, жизнь в северном мегаполисе, стажировку пекаря и личный рост. Между тремя именами скрыт метод автора, который помещает общественную деятельность и интимное письмо на одну жизненную карту.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/hung-chieh-ni",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "ru/People/hung-chieh-ni.md"
+  },
+  {
     "title": "Хоу Сяосянь",
     "description": "Отказавшийся от крупных планов, но покоривший мир киноэстет — революционер визуального языка, идущий против киносинтаксиса",
     "category": "ru",
@@ -96396,7 +96773,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/zun",
-    "readingTime": 96,
+    "readingTime": 95,
     "featured": false,
     "date": "2026-07-15",
     "path": "ru/People/zun.md"
@@ -96587,6 +96964,17 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "ru/People/chiang-kai-shek.md"
+  },
+  {
+    "title": "Чан Чжунжэн и Чан Чжуный: после разделения тела жизнь только начинается",
+    "description": "Родившиеся в Каосунге в 1976 году Чан Чжунжэн и Чан Чжуный провели первые три года в детском отделении больницы Жонсанянь. В 1979 году команда из 36 специалистов Тайваньского медицинского университета провела 12-часовую операцию по разделению. Настоящая долгая история началась не в операционной — болезни, протезы, работа, семья и внимание СМИ превратили два имени в течение 40 лет в самостоятельных людей, заставив Тайвань пересмотреть границы медицинского прогресса и личной автономии.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/chang-chung-jen-chung-i-twins",
+    "readingTime": 96,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "ru/People/chang-chung-jen-chung-i-twins.md"
   },
   {
     "title": "Чань Лифэн: до прихода Google на Тайвань он уже занимался поиском на Тайване",
@@ -97459,6 +97847,17 @@
     "path": "ru/Geography/qingtiangang.md"
   },
   {
+    "title": "Эти ребята: семь человек, как они стали знаменитыми, и почему им пришлось расстаться",
+    "description": "В 2011 году Хсань, Сянь и пять друзей превратили свою сценическую химию в YouTube-контент. От «Чрезвычайно ужасного кавера» до 3,57 млн подписчиков — они превратили повседневное в общую память, а канал — в маленькую компанию с распределением ролей, доходов и управлением. После объявления о приостановке в 2023 году деньги, усталость, смена платформ и личностный рост вышли на первый план. Это история того, как совместное творчество превращается в профессию, и почему его нужно заново разбирать.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/tgop",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "ru/People/tgop.md"
+  },
+  {
     "title": "Этнические группы (миньнань, хакка, коренные жители, вайшэньжэнь, новые жители)",
     "description": "Одна церемония извинений, демонстрация десяти тысяч человек, 570 тысяч новых семей — история тайваньских этнических групп сложнее, чем четыре слова «разнообразие и инклюзивность».",
     "category": "ru",
@@ -97598,7 +97997,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/yang-chuan-kwang-asian-iron-man",
-    "readingTime": 60,
+    "readingTime": 61,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/yang-chuan-kwang-asian-iron-man.md"
@@ -99048,12 +99447,12 @@
     "path": "ar/Art/contemporary-indigenous-art-taiwan.md"
   },
   {
-    "title": "الفنون التقليدية في تايوان",
-    "description": "أعجوبة كبرى في صناعة الثقافة في القرن الحادي والعشرين: كيف تحولت إمبراطورية \"بيلاي\" لمسرح الدمى ذات المليارات من العروض الريفية الصغيرة إلى قوة ناعمة ثقافية تغزو العالم؟",
+    "title": "الفنون التقليدية في تايوان: معجزة الانقلاب من مسرح القرى إلى قوة ناعمة عالمية",
+    "description": "كيف تحولت إمبراطورية \"بيليكي\" (Pielik) لمسرح الدمى، التي تحقق مبيعات بمليارات الدولارات سنويًا، من مسرح شعبي صغير في الريف إلى قوة ثقافية تسيطر على العالم؟",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/art/traditional-arts-of-taiwan",
-    "readingTime": 61,
+    "readingTime": 66,
     "featured": true,
     "date": "2026-03-24",
     "path": "ar/Art/traditional-arts-of-taiwan.md"
@@ -99167,6 +99566,19 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "ar/History/ten-major-construction-projects.md"
+  },
+  {
+    "title": "المطربون الأصليون المعاصرون في تايوان",
+    "description": "استخدمت أغنية «المحيط» لتشين تشيان نيين اللغة البانغكا والصينية، وربطت شومي إن تعليمها الثقافي في دويلان، بينما جلبت آباو اللغة البايوان إلى الإنتاج البوب معاصر. نقارن بين أعمال مختلف الموسيقيين ومداخلهم، ونتناول جوائز ألبومات ومطربين وأغانٍ في جائزة ذهبية، لفهم كيف تلتقي اللغات الأصلية والخبرة الحياتية وتقنيات التسجيل، دون أن نجمع جميع الأعراق تحت صوت واحد.",
+    "category": "ar",
+    "tags": [
+      "مطربون أصليون، موسيقى بوب، تقاطع ثقافي، جائزة ذهبية، إبداع معاصر"
+    ],
+    "url": "https://taiwan.md/ar/music/contemporary-indigenous-singer-songwriters",
+    "readingTime": 76,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ar/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
     "title": "المظلة الورقية: من أداة للمطر إلى فن، تحمل قرنًا من روعة الثقافة الهاكا في تايوان",
@@ -100291,6 +100703,17 @@
     "path": "ar/People/shasha77-chang-chih-chi.md"
   },
   {
+    "title": "تشانغ جونجين وتشانغ جونيي: الحياة تبدأ بعد الانفصال الجسدي",
+    "description": "تشانغ جونجين وتشانغ جونيي، اللذان وُلدَا في كاوشيون عام 1976، نشآ معًا قبل ثلاثة أعوام في مستشفى تايوان الوطني. وفي عام 1979، أكمل فريق من جامعة تايوان عملية فصل استغرقت 12 ساعة. القصة الحقيقية الطويلة بدأت بعد طاولة الجراحة: المرض، الأطراف الصناعية، العمل، العائلة ونظرات الإعلام، مما جعل الاسمين يتطوران إلى حياتين منفصلتين على مدى 40 عامًا، وأجبر تايوان على إعادة التفكير في العلاقة بين الإنجاز الطبي والاستقلالية الفردية.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chang-chung-jen-chung-i-twins",
+    "readingTime": 81,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "ar/People/chang-chung-jen-chung-i-twins.md"
+  },
+  {
     "title": "تشانغ مينغ تشنغ: خريج قسم الرياضيات في جامعة فوجين، باع برمجيات الحماية من الفيروسات للعالم أجمع",
     "description": "مواليد 1954، تخرج تشانغ مينغ تشنغ من قسم الرياضيات في جامعة فوجين، وحصل لاحقًا على درجة الماجستير في علوم الحاسوب من جامعة ليهاي في الولايات المتحدة. أسس شركة تاندورن تك (Trend Micro) في لوس أنجلوس عام 1988 مع تشين يي هوا، وطرح أسهمها في بورصة طوكيو عام 1998، لتكون أول شركة برمجيات تايوانية مدرجة هناك. أسس شركة رويووكو إنترناشيونال عام 2007 ومؤسسة مينغ يي عام 2019، محولًا مساره من الأمن السيبراني إلى ريادة الأعمال الاجتماعية.",
     "category": "ar",
@@ -100724,6 +101147,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
+  },
+  {
+    "title": "تشين شونجون: من وادي السيليكون إلى تايوان بعد مرض عضال",
+    "description": "غادر تشين شونجون تايوان وهو في الثامنة، وأسس مكانًا يسمح للجميع برفع مقاطع الفيديو في أمريكا بعمر السابعة والعشرين، وباعه مقابل 1.65 مليار دولار بعد شهرين وعشرين يومًا، ثم عاد مع زوجته وأطفاله بعد إصابته ورم دماغي.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/steve-chen-youtube-cofounder",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "ar/People/steve-chen-youtube-cofounder.md"
   },
   {
     "title": "تشين شيان-تشينغ: في العام الذي نالت فيه جائزة \"أفضل فنان جديد\" في جوائز الموسيقى الذهبية، كانت تمارس الموسيقى بالفعل منذ ثماني سنوات",
@@ -102060,12 +102494,12 @@
     "path": "ar/Food/taiwanese-popcorn-chicken-redux.md"
   },
   {
-    "title": "دليل ميشلان تايوان: الثمن تحت ضوء النجوم وإعادة التعريف",
-    "description": "في عام 2018، هبط دليل ميشلان في تايوان، وما بدا على السطح أنه شرف اعتماد دولي، أعاد في الواقع رسم قواعد البقاء في صناعة المطاعم——فالمطاعم التي \"كادت أن تتأهل\" أصبحت هي الضحية الأكبر.",
+    "title": "دليل ميشلان في تايوان: الثمن تحت الأضواء وإعادة التعريف",
+    "description": "هبوط دليل ميشلان في تايوان عام 2018 بدا ظاهريًا تكريمًا بالاعتراف الدولي، لكنه في الواقع أعاد رسم قواعد البقاء في صناعة المطاعم — فالمطاعم «القريبة من التأهل» أصبحت أكبر الضحايا.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/food/taiwan-michelin-fine-dining",
-    "readingTime": 66,
+    "readingTime": 64,
     "featured": true,
     "date": "2026-03-23",
     "path": "ar/Food/taiwan-michelin-fine-dining.md"
@@ -102331,17 +102765,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/stan-lai-theater-innovation-master.md"
-  },
-  {
-    "title": "ستيف تشين",
-    "description": "غادر تايوان في الثامنة من عمره، وفي السابعة والعشرين بنى في الولايات المتحدة مكاناً يستطيع فيه الجميع رفع مقاطع الفيديو، وباعها بعد عشرين شهراً مقابل 16.5 مليار دولار، ثم نما ورم في دماغه، ثم عاد مع زوجته وأطفاله.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/steve-chen-youtube-cofounder",
-    "readingTime": 44,
-    "featured": false,
-    "date": "2026-04-06",
-    "path": "ar/People/steve-chen-youtube-cofounder.md"
   },
   {
     "title": "سجن الجزيرة الخضراء: من معتقل سياسي أسود إلى موطن \"الأخوة الكبار\" — طبقات الذاكرة المتداخلة",
@@ -104505,11 +104928,11 @@
     "path": "ar/History/national-human-rights-museum.md"
   },
   {
-    "title": "متحف جينما للضيافة للفن المعاصر",
-    "description": "محطة عسكرية من حقبة الحرب الباردة شهدت الفراق واللقاء، استيقظت بعد سبات عشرين عاماً على يد أب وابنته، لتصبح متحف الفن المفضل في كاوهسيونغ حسب توصية \"الكوكب الوحيد\".",
+    "title": "متحف جينما بينغان للفنون المعاصرة",
+    "description": "محطة عسكرية بين الحرب الباردة شهدت الوداع واللقاء، استيقظت بعد نيّادين من النسيان لتصبح متحفًا موصى به من «سولو ستار» في كاوغونغ.",
     "category": "ar",
     "tags": [
-      "الفن المعاصر، متحف فن، كاوهسيونغ، فضاء ثقافي"
+      "فنون معاصرة، متحف، كاوغونغ، فضاء ثقافي"
     ],
     "url": "https://taiwan.md/ar/art/alien-art-centre",
     "readingTime": 39,
@@ -104749,6 +105172,23 @@
     "path": "ar/Culture/taiwanese-shadow-puppetry.md"
   },
   {
+    "title": "مسرح تاينغ تشونغ الوطني: ثورة العمارة ذات الجدران المنحنية والغياب الهيكلي في \"كهف الصوت الجميل\" لإيتو تويؤو",
+    "description": "كيف أعاد مسرح تاينغ تشونغ الوطني، المصمم من قبل الفائز بجائزة نوبل إيتو تويؤو ويُعرف بأنه \"أصعب مبنى للبناء في العالم\"، كتابة تاريخ وتصورات العمارة الحديثة في تايوان عبر جمالية الجدران المنحنية والغياب الهيكلي؟",
+    "category": "ar",
+    "tags": [
+      "مسرح تاينغ تشونغ الوطني",
+      "إيتو تويؤو",
+      "عمارة",
+      "معلم تايواني",
+      "فن"
+    ],
+    "url": "https://taiwan.md/ar/art/national-taichung-theater",
+    "readingTime": 73,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "ar/Art/national-taichung-theater.md"
+  },
+  {
     "title": "مسرح تايوان وفنون الأداء",
     "description": "كيف أسس شاب أدبي يبلغ 26 عاماً أول فرقة رقص معاصرة في العالم الناطق بالصينية، وكيف جعلت مجموعة من ممثلي أوبرا بكين شكسبير يتحدث الصينية",
     "category": "ar",
@@ -104824,17 +105264,6 @@
     "featured": false,
     "date": "2026-06-04",
     "path": "ar/Society/taiwan-design-research-institute.md"
-  },
-  {
-    "title": "مغنو وكتاب أغانٍ معاصرون من السكان الأصليين في تايوان",
-    "description": "من تشانغ هوي-مي إلى شوميِن وسانبوي، كيف ينقل مغنو تايوان الأصليون الروح القديمة في الموسيقى الحديثة، صانعين مشهدًا موسيقيًا أصليًا معاصرًا فريدًا",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 72,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ar/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
     "title": "مقاطعة بينغتونغ: نقطة التحول في مصير الأمة حدثت هنا، لكن تايبيه لم تتذكر ذلك قط",
@@ -105494,7 +105923,7 @@
       "نفق شويهشان، إنشاءات مرورية، ييلان، معجزة هندسية، روح تايوان"
     ],
     "url": "https://taiwan.md/ar/technology/hsuehshan-tunnel",
-    "readingTime": 63,
+    "readingTime": 64,
     "featured": false,
     "date": "2026-04-29",
     "path": "ar/Technology/hsuehshan-tunnel.md"
@@ -105705,6 +106134,17 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "ar/Geography/houtong-cat-village.md"
+  },
+  {
+    "title": "هونغ جييني: ثلاثة أسماء تشترك في قلم واحد، من مكتبة فانغ يوان إلى شوارع هاهاتاي",
+    "description": "هونغ جييني (Hong Jie-ni)، التي وُلدت عام 1996 في منطقة هايشيان، ونشأت في فانغ يوان. تعمل تحت اسم \"جيني\" في مقابلات الشوارع، وتكتب باسم \"هونغ جييني\" لتنظم مواضيع العائلة، والعيش بعيدًا عن الوطن (بيو تشياو)، وكونها متدربة خبز، ومشاعرها التي لا ترغب في الكشف عنها. بين قصصها القصيرة مثل \"هل البطيخ حلو؟\" و\"بائع البطيخ\"، يكمن أسلوب مؤلفة تضع عملها العام وكتاباتها الخاصة على خريطة حياة واحدة.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/hung-chieh-ni",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "ar/People/hung-chieh-ni.md"
   },
   {
     "title": "هونغ شينغ فو: عملاق الأدب الريفي الذي سقط مبكراً",
@@ -107420,17 +107860,6 @@
     "path": "hi/People/chen-wei-yin-mlb-pitcher.md"
   },
   {
-    "title": "चेन शी-ज़ून",
-    "description": "उसकी आयु आठ साल होते ही वह ताइवान छोड़ देता है, 27 वर्ष में अमेरिका में एक ऐसी जगह बनाता है जहाँ सभी लोग वीडियो अपलोड कर सकें, 20 महीने में उसे 16.5 बिलियन डॉलर में बेच देता है, फिर उसके दिमाग में एक ट्यूमर हो जाता है, फिर वह पत्नी और बच्चों के साथ वापस आता है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/steve-chen-youtube-cofounder",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-04-06",
-    "path": "hi/People/steve-chen-youtube-cofounder.md"
-  },
-  {
     "title": "चेन शुई-बियान",
     "description": "ताइवान के दसवें और ग्यारहवें राष्ट्रपति, वर्ष 2000 में पहली बार सत्ता परिवर्तन (पार्टी रोटेशन) को साकार करने वाले। ताइनान के एक किसान परिवार से निकलकर पहले डेमोक्रेटिक प्रोग्रेसिव पार्टी (डीपीपी) के राष्ट्रपति बनने तक, और फिर पद छोड़ने के बाद हिरासत में लिए जाने वाले पहले पूर्व राष्ट्राध्यक्ष तक—उनका सफर ताइवान के लोकतांत्रिक परिवर्तन काल के सबसे जटिल तनावों का प्रतीक है: महत्वाकांक्षा, विधायी नींव, तूफान और विभाजन।",
     "category": "hi",
@@ -107440,6 +107869,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "hi/People/chen-shui-bian-controversial-president.md"
+  },
+  {
+    "title": "चेन शुन (Chen Shujun): ताइवान से प्रस्थान, सिलिकॉन वैली में सफलता और मस्तिष्क ट्यूमर के साथ वापसी",
+    "description": "उन्होंने आठ साल की उम्र में ताइवान छोड़ा; 27 साल की उम्र में अमेरिका में एक ऐसा प्लेटफॉर्म बनाया जिसे हर कोई वीडियो अपलोड कर सके, जो 20 महीने बाद 16.5 बिलियन अमेरिकी डॉलर में बिक गया। इसके बाद उन्हें ब्रेन ट्यूमर हुआ और वह अपनी पत्नी और बच्चों के साथ वापस आ गए।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/steve-chen-youtube-cofounder",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "hi/People/steve-chen-youtube-cofounder.md"
   },
   {
     "title": "चेन शेंग: चांगहुआ से शुरुआत, पहला एल्बम 1988, तीस साल का नए साल का जश्न उनकी पहचान",
@@ -108983,7 +109423,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/where-did-taiwan-moral-education-go",
-    "readingTime": 84,
+    "readingTime": 85,
     "featured": false,
     "date": "2026-04-25",
     "path": "hi/Society/where-did-taiwan-moral-education-go.md"
@@ -109135,6 +109575,17 @@
     "featured": false,
     "date": "2026-07-30",
     "path": "hi/Economy/goat-milk-delivery.md"
+  },
+  {
+    "title": "ताइवान की मीट्रो विकास कथा: खून और पैसे से लिखी एक शहरी विकास कहानी",
+    "description": "209 टन का स्टील बीम आकाश से गिरकर 4 ज़िन्मतों को ले लेता है, 16.4 करोड़ का मुआवज़ा, टाइपे की मीट्रो आज भी मूल व्यवसाय में नुक़सान में है — पूरे शहर के पीछे छिपा असली मूल्य",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 91,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "hi/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "ताइवान की मूलनिवासी खाद्य संस्कृति",
@@ -109826,6 +110277,17 @@
     "path": "hi/Culture/schoolyard-rhymes.md"
   },
   {
+    "title": "ताइवान के स्वयंसेवी अग्निशमा: शिफ्ट खत्म होने पर यूनिफ़ॉर्म पहनें, तभी हर शहर में दूसरी अग्निशमा दल बनता है",
+    "description": "स्वयंसेवियों को अग्निशमा कहा जाता है, लेकिन उनके पास वैधानिक संरचना, पेशेवर प्रशिक्षण, कर्मचारी निर्देशन और आपदा बीमारी बीमा होता है। दिवाली से लेकर आज तक के पहाड़ी खोज में, इस प्रणाली के माध्यम से स्थानीय शक्ति अग्निशमा प्रणाली के समय के अंतर को पूरा करती है, जो केंद्रीय भर्ती, प्रशिक्षण, सुरक्षा उपकरण, परिवार के समर्थन और दीर्घकालिक बनावट के मुद्दों को भी उजागर करता है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/volunteer-firefighters-taiwan",
+    "readingTime": 95,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "hi/Society/volunteer-firefighters-taiwan.md"
+  },
+  {
     "title": "ताइवान केशविन्यास परिचय: बाल प्रतिबंध से मीम तक का सामाजिक पैमाना",
     "description": "1969 में शिक्षा मंत्रालय के क्रू कट नियम से लेकर 2005 में तु चेंग-शेंग के एक वाक्य \"क्या केशविन्यास बता सकता है कि कोई अच्छा इंसान है या बुरा?\" द्वारा बाल प्रतिबंध पूरी तरह हटाने तक, ताइवानी पुरुषों का सिर एक ऐसे सामाजिक परिवर्तन को दर्शाता है जो सत्तावादी अनुशासन से आत्म-अभिव्यक्ति की ओर गया। हाल के वर्षों में वायरल हुआ आ-चिह मीम इस परिवर्तन का नवीनतम अध्याय मात्र है।",
     "category": "hi",
@@ -110090,12 +110552,12 @@
     "path": "hi/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md"
   },
   {
-    "title": "ताइवान मिशेलिन: सितारों की छाया में कीमत और पुनर्परिभाषा",
-    "description": "2018 में मिशेलिन ताइवान में उतरा, सतह पर यह अंतरराष्ट्रीय मान्यता का गौरव था, वास्तव में इसने रेस्तरां उद्योग के अस्तित्व के नियमों को पुनर्परिभाषित किया—\"लगभग योग्य\" रेस्तरां, इसके बजाय सबसे बड़े शिकार बन गए।",
+    "title": "ताइवान मिशेलिन: स्टारलाइट के नीचे की कीमत और पुनर्परिभाषा",
+    "description": "2018 में मिशेलिन ताइवान पहुंचा, सतह पर यह अंतरराष्ट्रीय मान्यता का गौरव था, वास्तव में इसने रेस्तरां उद्योग के अस्तित्व के नियमों को पुनर्परिभाषित किया—\"लगभग योग्य\" रेस्तरां सबसे बड़े शिकार बन गए।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/food/taiwan-michelin-fine-dining",
-    "readingTime": 69,
+    "readingTime": 74,
     "featured": true,
     "date": "2026-03-23",
     "path": "hi/Food/taiwan-michelin-fine-dining.md"
@@ -110294,17 +110756,6 @@
     "path": "hi/Society/inclusive-travel-taiwan.md"
   },
   {
-    "title": "ताइवान मेट्रो विकास इतिहास: खून और पैसे से लिखी एक शहरी विकास गाथा",
-    "description": "209 टन का स्टील बीम आसमान से गिरा, 4 जानें गईं, 16.4 अरब का हर्जाना, ताइपे मेट्रो का मुख्य कारोबार आज भी घाटे में — पूरे ताइवान की मेट्रो के पीछे की असली कीमत",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 84,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "hi/Lifestyle/history-of-taiwan-mrt-development.md"
-  },
-  {
     "title": "ताइवान मैकाके: न्यून मध्यमा विश्वविद्यालय में जीवन यंत्र-संघर्ष, मातृ समाज शक्ति और महाला निवासियों की सच्चाई",
     "description": "न्यून मध्यमा विश्वविद्यालय के छात्रों के 'बालल गन ले कर डिलीवरी' के अर्थहीन रोज़मर्रा के तौर-तेज़ी से लेकर 1862 में स्विनहू द्वारा इस किले के मानव-प्राणी के बारे में पहला पता लगाए जाने तक, ताइवान मैकाके को अक्सर 'गैंगस्टर' के नाम से जुड़ाया गया है। पीछे एक महाला पहिए के ताओ-शांत मातृ समाज का कार्य है, जो मानव-प्राणी के साथ विस्तार और भोजन के तहत ज़ूम में पैदा हुए एक जीवन-संस्कृति के रूप में विकसित हुआ।",
     "category": "hi",
@@ -110347,6 +110798,17 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "hi/Geography/national-scenic-area-system.md"
+  },
+  {
+    "title": "ताइवान रेलवे का 'मिंग-निचो' (鳴日號): रेल सौंदर्यशास्त्र की आपदा से गतिशील पांच सितारा हॉल तक",
+    "description": "सात दशकों पुराने जुगुआंग नंबर के जीर्णोद्धार से शुरू होकर, कैसे बोर्स्टे डिज़ाइन और श्योंगशी टूरिज्म ने \"पतझड़ की हवा\" की अवधारणा का उपयोग करके ताइवान रेलवे में कम-प्रोफ़ाइल लक्जरी काले-नारंगी रंग योजना और घटाव सौंदर्यशास्त्र पेश किया, जिससे गतिशील रेस्तरां ''मिंग-निचो किचन'' का जन्म हुआ, जिसने ताइवान के उच्च स्तरीय रेल पर्यटन को फिर से परिभाषित किया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/lifestyle/tra-mingri-express",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "hi/Lifestyle/tra-mingri-express.md"
   },
   {
     "title": "ताइवान रॉक संगीत का विकास इतिहास: भूमिगत से मुख्यधारा तक के तीस वर्ष",
@@ -110654,6 +111116,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/People/tung-tzu-hsien-tech-humanist.md"
+  },
+  {
+    "title": "त्साई इंग-वेन: वह व्यक्ति जिसने ताइवान भाषा को सार्वजनिक समस्या बनाया",
+    "description": "त्साई इंग-वेन केवल कुछ किताबें और गाने छोड़ने वाले औपनिवेशिक युग के व्यक्ति नहीं थे। उन्होंने शिक्षक, छात्र, पत्रकार और सामाजिक आंदोलनकारियों की भूमिकाओं से शिक्षा, ताइवान भाषा लेखन, सांस्कृतिक प्रबोधन और स्वशासन की मांगों को एक ही मुद्दे पर केंद्रित किया: ताइवानी लोगों ने पढ़ने, लिखने, संगठित होने और बोलने की क्षमता कैसे प्राप्त की? यह लेख सत्यापित चरित्र फ़ाइल, कार्य सामग्री, सांस्कृतिक संघों और ताइवानी संसद याचिका तंत्र के संदर्भ में एक सार्वजनिक बुद्धिजीवी द्वारा औपनिवेशिक व्यवस्था के भीतर भाषा और राजनीति में प्रवेश खोजने का सारांश प्रस्तुत करता है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/tsai-pei-huo",
+    "readingTime": 91,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "hi/People/tsai-pei-huo.md"
   },
   {
     "title": "त्साई इंग-वेन: हार की रात से 81.7 लाख वोट तक, राष्ट्रपति के आठ वर्ष चुपचाप गुजारे",
@@ -111635,7 +112108,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/mavis-fan-singer",
-    "readingTime": 50,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-04-20",
     "path": "hi/People/mavis-fan-singer.md"
@@ -113762,6 +114235,17 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "hi/People/hou-hsiao-hsien.md"
+  },
+  {
+    "title": "होंग नि: फंगयुआन पुस्तकालय से हाहाताई की सड़कों तक, तीन नाम एक कलम साझा करते हैं",
+    "description": "1996 में चांगहुआ हैशियान में जन्मी और फंगयुआन में पली-बढ़ी होंग जिएनी, दिन के दौरान 'जेनी' के रूप में हाहाताई में स्ट्रीट इंटरव्यू लेती हैं; लेखन के समय वह 'होंग नि' के रूप में माँ, उत्तरी प्रवासन (बी-पियाओ), ब्रेड प्रशिक्षुता और अपने विकास को संकलित करती हैं। 'तरबूज कितना मीठा है?' से लेकर 'तरबूज बेचने वाला' तक, इन तीन नामों के बीच एक रचनाकार का वह तरीका छिपा है जिसके द्वारा वह सार्वजनिक कार्य और निजी लेखन को एक ही जीवन मानचित्र पर रखती हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/hung-chieh-ni",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "hi/People/hung-chieh-ni.md"
   },
   {
     "title": "होंग शिंग-फू: समय से पहले खोया एक ग्रामीण साहित्य का दिग्गज सितारा",
@@ -116243,17 +116727,6 @@
     "featured": true,
     "date": "2026-04-06",
     "path": "ko/Technology/e-commerce-and-digital-payment-ecosystem.md"
-  },
-  {
-    "title": "대만 전통 예술: 시골 소극장에서 문화 제국으로의 역전 신화",
-    "description": "21세기 최대의 문화 산업 기적: 연 매출 수천억 원 규모의 피리 포대희(霹靂布袋戲) 제국은 어떻게 마을 신사 앞 작은 공연에서 세계를 정복하는 문화 소프트파워로 거듭났는가?",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/art/traditional-arts-of-taiwan",
-    "readingTime": 34,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "ko/Art/traditional-arts-of-taiwan.md"
   },
   {
     "title": "대만 정보보안 산업의 발전",
@@ -122211,6 +122684,17 @@
     "path": "ko/People/tsai-ming-liang.md"
   },
   {
+    "title": "채배화: 언어를 공공 문제로 만든 사람",
+    "description": "채배화는 단지 몇 권의 책과 몇 편의 노래를 남긴 일제기 인물이 아니다. 교사, 유학생, 언론인 및 사회 운동가의 입장에서 교육, 대만어 문자 쓰기, 문화 각성 및 자치 요구를 하나의 문제로 엮어냈다. 본문은 검증 가능한 인물 자료, 작품 정보, 문화 협회 및 대만 의회 설치 청원 맥락을 정리하여, 식민 제도 안팎에서 어떻게 언어와 정치의 입구를 찾아갔는지 보여준다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/tsai-pei-huo",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "ko/People/tsai-pei-huo.md"
+  },
+  {
     "title": "천등(天燈): 1820년 평안을 알리는 신호, 2019년 326킬로그램의 산림 쓰레기, 같은 평계(平溪) 사람들이 짊어진 두 개의 정체성",
     "description": "1820년대, 호(胡) 씨 가문이 십분료(十分寮)에서 평안을 알리는 첫 번째 천등을 띄웠다. 200년 후인 2019년 원절(元宵節), 미국 자원봉사자들이 2시간 동안 평계 철도 주변에서 326킬로그램의 천등 잔해를 수거했다. 벌기도 하고, 손해도 보고, 치우기도 한다 — 천등 협회 이사장은 호 씨이고, 집이 불탄 피해자도 호 씨이며, 오래된 거리 노점상 88세 채(蔡) 할머니와 기륜하(基隆河) 수호 연맹 천젠즈(陳建志)는 같은 시냇물을 마신다. 2025년 자치 조례가 삼독을 통과하고, 평계 사람들은 축제 전환의 네 번째 길을 시도하고 있다.",
     "category": "ko",
@@ -122871,17 +123355,6 @@
     "path": "ko/Art/taiwanese-cinema.md"
   },
   {
-    "title": "타이완 궤도 교통(MRT) 발전사: 피와 돈으로 써 내려간 도시 진화론",
-    "description": "209톤의 강철 빔 추락으로 인한 4명의 인명 피해와 16.4억 대의 배상금, 여전히 적자를 면치 못하는 타이베이 MRT까지—타이완 전역의 MRT 발전 뒤에 숨겨진 진정한 대가",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 49,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ko/Lifestyle/history-of-taiwan-mrt-development.md"
-  },
-  {
     "title": "타이완 금융 기술 발전",
     "description": "월스트리트의 신성(金童)이 타이완으로 돌아와 모바일 결제 서비스를 창업했으나, 9년 후 회사는 압류되고 계좌 잔액은 1,000달러도 남지 않게 되었다. 이는 단지 한 개인의 이야기가 아니라, '개방'과 '통제 불능' 사이에서 갈등하며 나아온 타이완 금융 기술의 10년 역사를 보여준다.",
     "category": "ko",
@@ -123062,18 +123535,18 @@
     "path": "ko/Food/taiwanese-noodle-culture.md"
   },
   {
-    "title": "타이완 미쉐린: 별빛 아래의 대가와 재정의",
-    "description": "2018년 미쉐린이 타이완에 상륙한 지 8년, 419개 레스토랑과 53개 스타 레스토랑의 이면에 존재하는 \"아슬아슬하게 탈락한\" 레스토랑들의 이야기",
+    "title": "타이완 미슐랭: 별빛 아래의 대가와 재정의",
+    "description": "2018년 미슐랭이 타이완에 상륙했을 때, 겉으로는 국제적 인증의 영광이었으나 실제로는 외식업계의 생존 규칙을 재편했으며, '거의 자격이 된' 레스토랑들이 오히려 최대 피해자가 되었다.",
     "category": "ko",
     "tags": [
-      "미쉐린",
-      "파인다이닝",
+      "미슐랭",
+      "고급외식",
       "스타레스토랑",
       "타이완음식",
       "외식산업"
     ],
     "url": "https://taiwan.md/ko/food/taiwan-michelin-fine-dining",
-    "readingTime": 44,
+    "readingTime": 43,
     "featured": true,
     "date": "2026-03-23",
     "path": "ko/Food/taiwan-michelin-fine-dining.md"
@@ -123391,6 +123864,23 @@
     "path": "ko/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
   },
   {
+    "title": "타이완 의소: 퇴근 후 제복을 입으면, 지역에 두 번째 소방대가 생긴다",
+    "description": "의소는 자원봉사자로 불리지만, 법정 편제·전문 훈련·근무 지휘·구조 보험을 갖췄다. 일제강점기 소방조에서 오늘날 산악 수색구조까지, 이 지역 역량이 소방 체계의 시간 차를 어떻게 메우는지, 동시에 모집·훈련·안전 장비·가족 지원·장기 복무의 과제도 드러낸다.",
+    "category": "ko",
+    "tags": [
+      "의소",
+      "소방",
+      "재해 방재",
+      "자원봉사",
+      "지역사회 회복력"
+    ],
+    "url": "https://taiwan.md/ko/society/volunteer-firefighters-taiwan",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "ko/Society/volunteer-firefighters-taiwan.md"
+  },
+  {
     "title": "타이완 전망 결의문: 두 글자 \"현재\", 이십칼 년을 버티다",
     "description": "1999년, 린쭈이수이(林濁水)는 \"국호 중화민국\" 앞에 \"현재\" 두 글자를 붙였고, 천수볜(陳水扁) 계열은 매우 불쾌해했다. 두 글자는 동시에 독립파와 중간 유권자를 달래며 2000년 첫 정권 교체의 문을 열었다. 이십칠 년 후, 타이완의 젊은이들은 \"타이완은 원래부터 독립되어 있다\"는 것을 상식으로 여기지만, 이 상식이 모호함으로 가득한 문서에서 비롯되었다는 사실을 모른다.",
     "category": "ko",
@@ -123411,6 +123901,17 @@
     "featured": false,
     "date": "2026-05-15",
     "path": "ko/Culture/traditional-crafts-intangible-cultural-heritage.md"
+  },
+  {
+    "title": "타이완 전통 예술: 시골 소극에서 문화 제국으로의 기적적 역습",
+    "description": "21세기 최대의 문화 산업 기적: 연간 수천억 대만 달러를 창출하는 삐리디(霹靂) 부대희(布袋戲) 제국은 어떻게 지방 신앙극에서 세계를 정복하는 소프트 파워로 변모했는가?",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/art/traditional-arts-of-taiwan",
+    "readingTime": 35,
+    "featured": true,
+    "date": "2026-03-24",
+    "path": "ko/Art/traditional-arts-of-taiwan.md"
   },
   {
     "title": "타이완 조류의 창문 충돌 문제: 보이지 않는 도시의 살인자",
@@ -123435,6 +123936,17 @@
     "path": "ko/Economy/taiwan-smes-and-hidden-champions.md"
   },
   {
+    "title": "타이완 지하철 발전사：피와 돈으로 쓴 도시 진화론",
+    "description": "209톤의 강빔이 하늘에서 떨어져 4명의 목숨을 앗았고, 16.4억 원의 배상금이 필요했다. 타이베이 지하철조차도 광고 수입에 의존해야 한다는 사실 — 전국 지하철 뒤에 숨은 진실한 가격",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 46,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ko/Lifestyle/history-of-taiwan-mrt-development.md"
+  },
+  {
     "title": "타이완 채식 문화",
     "description": "채식 인구 비율 세계 3위, 불교 채식 전통에서 현대적 채식 혁신까지의 문화적 진화",
     "category": "ko",
@@ -123450,6 +123962,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Food/taiwan-vegetarian-culture.md"
+  },
+  {
+    "title": "타이완 철도 명일호: 철도 미학의 재앙에서 이동하는 5성 전당으로",
+    "description": "70년 거광호의 고질적 병폐를 개조하는 것에서 출발해, 백성설계와 웅사여행이 '가을바람'을 컨셉으로 절제된 사치의 흑주황 도장과 감법 미학을 타이완 철도에 도입하고, 나아가 독일 iF 금상 수상 이동식 레스토랑 '명일주방'을 탄생시켜 타이완 고급 철도 여행을 재정의하다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/lifestyle/tra-mingri-express",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "ko/Lifestyle/tra-mingri-express.md"
   },
   {
     "title": "타이완 출국사: \"경총 승인\"에서 \"세계 통행\"으로, 섬사람들의 국경 넘기 서사",
@@ -124652,6 +125175,17 @@
     "featured": false,
     "date": "2026-07-02",
     "path": "ko/Geography/hukou-old-street.md"
+  },
+  {
+    "title": "홍니: 방원 도서관에서 하하타이 거리까지, 세 가지 이름으로 쓴 한 자루의 펜",
+    "description": "1996년 장화해선(彰化海線)에서 태어나 방원에서 성장한 홍첩니(洪婕倪)는 평소 '제니'라는 이름으로 하하타이에서 거리 인터뷰를 진행했으며, 글을 쓸 때는 '홍니'로 어머니, 북방 이주 경험, 빵 견습생 생활 및 성장을 정리했다. 〈수박은 달까〉부터 《수박 파는 사람》에 이르기까지, 세 가지 이름 사이에는 한 창작자가 공적인 활동과 사적인 글쓰기를 동일한 삶의 지도 위에 놓아낸 방식이 담겨 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/hung-chieh-ni",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "ko/People/hung-chieh-ni.md"
   },
   {
     "title": "홍치궈(곽홍지): 타이완 최초 MLB 홈런과 올스타전, 팔꿈치가 말렸지만 그는 계속 던졌다",

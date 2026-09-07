@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T09:55:39.817Z",
+  "lastUpdated": "2026-09-07T22:18:05.363Z",
   "totalArticles": 1119,
   "contributors": 75,
   "stars": 1169,
@@ -16,18 +16,18 @@
   "avgRevision": 7,
   "languageCoverage": {
     "zh-TW": 1119,
-    "en": 889,
+    "en": 893,
     "ja": 886,
-    "ko": 884,
-    "es": 882,
-    "fr": 883,
-    "vi": 803,
-    "id": 603,
-    "pt": 849,
-    "hi": 675,
-    "ar": 754,
-    "ru": 785,
-    "de": 88
+    "ko": 888,
+    "es": 885,
+    "fr": 888,
+    "vi": 806,
+    "id": 607,
+    "pt": 852,
+    "hi": 679,
+    "ar": 757,
+    "ru": 791,
+    "de": 97
   },
   "bodyInternalLinks": {
     "zero_count": 946,
