@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T03:27:40+08:00",
-    "zhCommitHead": "458ac1520",
+    "lastUpdated": "2026-09-08T03:30:52+08:00",
+    "zhCommitHead": "6b4df0e62",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 87,
+        "fresh": 88,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1027,
+        "missing": 1026,
         "orphan": 0
       }
     },
@@ -20599,8 +20599,8 @@
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
           "translatedAt": "2026-09-08T00:42:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b4df0e6",
+          "translationLastModified": "2026-09-08T03:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -20665,7 +20665,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/hsuehshan-tunnel.md",
+          "translatedFrom": "Technology/雪山隧道.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bafa69de0246ccbe",
+          "sourceBodyHash": "sha256:d9ab34ee59f266bc",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -41654,8 +41665,8 @@
           "sourceContentHash": "sha256:aa6de6422908baca",
           "sourceBodyHash": "sha256:a98b8189be962f59",
           "translatedAt": "2026-09-07T18:45:00.639992+00:00",
-          "translationLastCommit": "03cbf4ca",
-          "translationLastModified": "2026-07-26T17:47:27+08:00",
+          "translationLastCommit": "6b4df0e6",
+          "translationLastModified": "2026-09-08T03:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -47498,8 +47509,8 @@
           "sourceContentHash": "sha256:a1c5d1e234e46093",
           "sourceBodyHash": "sha256:b982084e2fb1e6c4",
           "translatedAt": "2026-09-08T00:42:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b4df0e6",
+          "translationLastModified": "2026-09-08T03:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -77116,8 +77127,8 @@
           "sourceContentHash": "sha256:6c850ed56b9fd45a",
           "sourceBodyHash": "sha256:f9ebc993a34e1749",
           "translatedAt": "2026-09-07T18:34:25.768274+00:00",
-          "translationLastCommit": "475cf65e",
-          "translationLastModified": "2026-07-27T19:04:11+08:00",
+          "translationLastCommit": "6b4df0e6",
+          "translationLastModified": "2026-09-08T03:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -96932,8 +96943,8 @@
           "sourceContentHash": "sha256:834d66de28d359a5",
           "sourceBodyHash": "sha256:45ab5eeee03419d3",
           "translatedAt": "2026-09-08T00:42:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b4df0e6",
+          "translationLastModified": "2026-09-08T03:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
