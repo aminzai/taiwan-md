@@ -7,7 +7,7 @@ current_version: 'v9.8-single'
 last_updated: 2026-09-05
 last_session: '2026-09-05-154128-fortnight-review（v9.8 小衛生修補：跨檔案職責分工表 `REWRITE-STAGE-*.md × 10` 份數漂移——實際 11 檔／派發表去重後也是 11 列，改成不寫死數字、pointer 到 §Stage contract 派發表當份數 SSOT；counts-drift-lint.py 加對應 check）'
 generated_from:
-  - 'REWRITE-PIPELINE.md@99d43cc21'
+  - 'REWRITE-PIPELINE.md@8a9e22720'
   - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
   - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbc'
   - 'REWRITE-STAGE-1B-MEDIA.md@70e08c91d'
@@ -19,7 +19,7 @@ generated_from:
   - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-07T18:58:24+08:00'
+generated_at: '2026-09-07T19:00:55+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
