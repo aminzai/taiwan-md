@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T05:49:26+08:00",
-    "zhCommitHead": "52caf01dc",
+    "lastUpdated": "2026-09-08T06:06:59+08:00",
+    "zhCommitHead": "0da3cdf78",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 89,
+        "fresh": 90,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1025,
+        "missing": 1024,
         "orphan": 0
       }
     },
@@ -33059,8 +33059,8 @@
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
           "translatedAt": "2026-09-08T00:42:57+08:00",
-          "translationLastCommit": "83044859",
-          "translationLastModified": "2026-07-26T04:13:39+08:00",
+          "translationLastCommit": "0da3cdf7",
+          "translationLastModified": "2026-09-08T05:49:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39294,7 +39294,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -91739,8 +91750,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-08T00:42:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0da3cdf7",
+          "translationLastModified": "2026-09-08T05:49:26+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -93240,8 +93251,8 @@
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
           "translatedAt": "2026-09-08T00:42:57+08:00",
-          "translationLastCommit": "7ccfd024",
-          "translationLastModified": "2026-08-04T06:39:12+08:00",
+          "translationLastCommit": "0da3cdf7",
+          "translationLastModified": "2026-09-08T05:49:26+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -107956,8 +107967,8 @@
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
           "translatedAt": "2026-09-08T00:42:57+08:00",
-          "translationLastCommit": "fd94675c",
-          "translationLastModified": "2026-07-25T14:20:00+08:00",
+          "translationLastCommit": "0da3cdf7",
+          "translationLastModified": "2026-09-08T05:49:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
