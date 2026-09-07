@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T05:39:02+08:00",
-    "zhCommitHead": "ac5014e4d",
+    "lastUpdated": "2026-09-08T05:39:22+08:00",
+    "zhCommitHead": "677f75efc",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 712,
-        "stale": 61,
+        "fresh": 713,
+        "stale": 60,
         "metadata_stale": 19,
         "missing": 329,
         "orphan": 0
@@ -87610,16 +87610,16 @@
         "ru": {
           "path": "ru/People/yang-chuan-kwang-asian-iron-man.md",
           "translatedFrom": "People/楊傳廣.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:f8a43ac4f3c5c945",
-          "sourceBodyHash": "sha256:564dbfac81e16aa7",
-          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-07T21:38:50.626543+00:00",
           "translationLastCommit": "1ab850f7",
           "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
