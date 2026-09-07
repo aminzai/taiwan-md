@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-07 | 091142-twmd-maintainer-am | 3 篇翻譯 merged；追上游揪出 translatePath 讓 12 語的企業/資源頁發出 ~104 條死連結（-144 條）；作者欄九種寫法收斂 | 比例綠燈時，同一個數字在七個語言各出現十一次才是訊號 | [→](memory/2026-09-07-091142-twmd-maintainer-am.md) |
 | 2026-09-07 | 164559-audit-upgrade | 工程升級、56 枚圖示與 Rewrite Guide 已上線，六篇對照與三版試稿留存，資料庫待登入 | 測試通過與正式完成分開記，避免綠燈超出證據 | [→](memory/2026-09-07-164559-audit-upgrade.md) |
 | 2026-09-08 | 053810-twmd-routine-sync | 第 42 輪對賬 18/18 prompt in-sync 零漂移；撞見進行中的 babel/lang-sync writer（12 語批次留下的工作樹），現查 `check-parallel-actor.sh` 確認後全程繞開 | 工作樹髒不等於漂移，現查平行 actor 再決定要不要動手 | [→](memory/2026-09-08-053810-twmd-routine-sync.md) |
+| 2026-09-08 | 054309-twmd-embeddings-nightly | 本機直連 33 分鐘重建 13 語 10,050 向量 0 fail；de 第三夜 below-threshold，額外核對 knowledge/de/ 實際檔數（109）確認非漏跑 | 同一已知原因第三次命中，加一道對 ground truth 的核對比重複引用上次結論更紮實 | [→](memory/2026-09-08-054309-twmd-embeddings-nightly.md) |
