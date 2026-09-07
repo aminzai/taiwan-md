@@ -2,9 +2,7 @@
 title: '¿Adónde fue la clase de moral en Taiwán: una asignatura cancelada y una responsabilidad que nadie ha asumido en veinte años'
 description: 'Antes de 1993, cada estudiante de primaria en Taiwán cursaba semanalmente "Moral y Salud", y cada estudiante de secundaria cursaba "Cívica y Moral". El Currículo de Nueve Años Consecutivos eliminó ambas asignaturas, "integrando" la moral en los siete grandes dominios de aprendizaje. El resultado fue que, en las casi 60 páginas de la descripción del programa del dominio de Ciencias Sociales, apenas se mencionaba la palabra "moral"; el 78% de los docentes afirmó que lo que más debía reforzarse era la educación moral, pero ningún profesor de ninguna asignatura consideró que fuera su responsabilidad.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '教育'
 tags:
   [
     'educación moral',
@@ -16,15 +14,17 @@ tags:
     'valores',
     'Cívica y Moral',
   ]
-readingTime: 11
+subcategory: '教育'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-featured: false
+readingTime: 11
 translatedFrom: 'Society/台灣的道德課去哪了.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:9e2e35c86cfffed4'
-sourceBodyHash: 'sha256:def0fbd84e75d95c'
-translatedAt: '2026-05-20T05:08:32+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:aa6de6422908baca'
+sourceBodyHash: 'sha256:a98b8189be962f59'
+translatedAt: '2026-09-07T18:54:03.827452+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 1993 y 1994, el Ministerio de Educación eliminó respectivamente la enseñanza por asignatura de "Moral y Salud" en primaria y "Cívica y Moral" en secundaria, integrando la educación moral en los siete dominios de aprendizaje del Currículo de Nueve Años Consecutivos. Pero esta cancelación no fue precedida de ningún debate sobre si debía mantenerse la educación moral, ni se realizó ninguna evaluación de la eficacia de la educación moral existente. Una encuesta de la Fundación Jīnchē de Educación en 2001 reveló que el 78% de los maestros de primaria consideraban que lo que más debía reforzarse era la educación moral. Más de dos décadas después, la educación moral en el currículo taiwanés se ha convertido en una tierra de nadie: "todos la consideran importante, pero nadie se siente responsable".
@@ -43,19 +43,17 @@ Y entonces fue cancelada.
 
 ---
 
-## La forma de la cancelación: sin debate, sin evaluación
+## La forma de la cancelación: sin discusión, sin investigación
 
-En el año escolar 2001, Taiwán comenzó a implementar el "Currículo de Nueve Años Consecutivos para Educación Primaria y Secundaria" desde primer grado de primaria. El nuevo currículo integró la estructura previamente fragmentada por asignaturas en siete dominios de aprendizaje: Lengua, Salud y Educación Física, Ciencias Sociales, Artes y Humanidades, Matemáticas, Ciencias Naturales y Tecnología de la Vida, y Actividades Integradas[^1].
+En el año escolar 90 de la República (2001), Taiwán comenzó a implementar el "Currículo de Nueve Años Consecutivos para Escuelas Primarias y Secundarias" desde el primer grado de primaria. El nuevo currículo integró la estructura originalmente separada por asignaturas en siete grandes dominios de aprendizaje: Lenguaje, Salud y Educación Física, Ciencias Sociales, Artes y Humanidades, Matemáticas, Naturaleza y Tecnología de la Vida, y Actividades Integrales[^1].
 
-Entre estos siete dominios, las antiguas asignaturas "Moral y Salud" (primaria) y "Cívica y Moral" (secundaria) simplemente desaparecieron. Se proclamó que la educación moral quedaba "integrada" en cada dominio de aprendizaje.
+Entre estos siete dominios, faltaban exclusivamente la "Moral y Salud" original de primaria y "Cívica y Moral" de secundaria. Se proclamó que la educación moral estaba "integrada" en cada dominio de aprendizaje.
 
-Cabe señalar que la antigua asignatura de "Cívica y Moral" no era un espacio de formación moral neutral. Su predecesor se remonta a la asignatura "Doctrina del Partido" (黨義), promulgada por el Gobierno Nacionalista en 1928 (que enseñaba los Tres Principios del Pueblo), renombrada como "Cívica" en 1932 y fusionada con "Entrenamiento Cívico" en 1962. Durante el período de ley marcial, el objetivo principal del curso de Cívica era promover el pensamiento de la gran China basado en los Tres Principios del Pueblo, inculcando el espíritu nacional, la educación patriótica, las Cuatro Virtudes y los Ocho Valores, la cultura china, entre otros contenidos[^13]. En 1995, los exámenes de ingreso universitario eliminaron la prueba de los Tres Principios del Pueblo, y en 2006 la asignatura de "Tres Principios del Pueblo" en la etapa de bachillerato fue oficialmente renombrada como "Cívica y Sociedad"[^14]. En otras palabras, el antiguo sistema de "Cívica y Moral" cargaba el tinte político de la era autoritaria, un contexto que no puede ignorarse al hablar de su desaparición.
+Hay que decir primero que la antigua asignatura "Cívica y Moral" no era un ámbito neutral de educación moral. Su antecedente se remonta a la asignatura "Doctrina del Partido" (que enseñaba los Tres Principios del Pueblo) promulgada por el Gobierno Nacionalista en 1928, renombrada "Cívica" en 1932, y fusionada nuevamente con "Entrenamiento Cívico" en 1962. Durante el [período de la ley marcial](/es/history/martial-law-era/), el objetivo principal del currículo cívico era promover un pensamiento de "Gran China" basado en los Tres Principios del Pueblo, inculcando espíritu nacional, educación patriótica, las Cuatro Virtudes y Ocho Virtudes, la cultura china, entre otros contenidos[^13]. En 1995, el Examen Conjunto Universitario eliminó los Tres Principios del Pueblo; en 2006, la asignatura de "Tres Principios del Pueblo" en la etapa de bachillerato fue renombrada oficialmente como "Cívica y Sociedad"[^14]. En otras palabras, la antigua "Cívica y Moral" llevaba el color político de la era autoritaria; este es un contexto que no se puede ignorar al hablar de su desaparición.
 
-Pero incluso considerando ese contexto político, el tratamiento de la "educación moral" en el Currículo de Nueve Años Consecutivos de 2001 sigue siendo problemático. El especialista en filosofía de la educación Lǐ Fèngrú señaló en un estudio de 2004 que el Currículo de Nueve Años Consecutivos no debatió si los estudiantes de primaria y secundaria debían recibir educación moral, ni realizó ninguna investigación empírica sobre la eficacia de la educación moral existente, antes de cancelar abruptamente los nuevos programas de "Moral y Salud" (primaria) y "Cívica y Moral" (secundaria), publicados apenas en 1993 y 1994 respectivamente[^1].
+Pero incluso teniendo en cuenta este contexto político, el manejo de la posición de la "educación moral" en el Currículo de Nueve Años de 2001 sigue teniendo problemas. El académico de filosofía de la educación Li Feng-ju señaló en su investigación de 2004: el Currículo de Nueve Años ni siquiera discutió si los estudiantes de primaria y secundaria deberían recibir educación moral, ni realizó ninguna investigación empírica sobre la efectividad de la educación moral, y sin más canceló los nuevos currículos de "Moral y Salud" de primaria y "Cívica y Moral" de secundaria, promulgados apenas en los años 82 y 83 de la República respectivamente[^1].
 
-En otras palabras, eliminar el componente de adoctrinamiento político del antiguo currículo era razonable, pero desechar junto con él la pregunta de "cómo debería tener su lugar la educación moral en el nuevo sistema" no lo fue. Esta decisión no surgió de una conclusión deliberativa de tipo "tras el debate, todos acordaron que no era necesaria": simplemente fue removida en silencio dentro del ajuste estructural de la reforma curricular.
-
----
+En otras palabras, eliminar el componente de adoctrinamiento político del antiguo currículo era razonable, pero desechar al mismo tiempo la cuestión de "cómo debe tener su propio lugar la educación moral en el nuevo sistema" no lo era. Esta decisión no provino de una conclusión deliberativa de "tras discutir, todos acordaron que no era necesaria" — fue simplemente eliminada en silencio en medio del ajuste estructural de la reforma curricular.
 
 ## El resultado de la "integración": casi 60 páginas de programa sin mencionar la "moral"
 

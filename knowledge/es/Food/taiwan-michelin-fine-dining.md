@@ -1,251 +1,259 @@
 ---
-title: 'Michelin en Taiwán: el costo bajo las estrellas y una redefinición'
-description: 'En 2018, la llegada de Michelin a Taiwán fue aparentemente un honor de certificación internacional, pero en realidad reescribió las reglas de supervivencia de la industria gastronómica: los restaurantes "casi aptos" terminaron siendo las mayores víctimas.'
+title: 'Michelin en Taiwán: El costo y la redefinición bajo las estrellas'
+description: 'En 2018, cuando Michelin llegó a Taiwán, se presentó como un honor de certificación internacional, pero en realidad redefinió las reglas de supervivencia de la industria gastronómica; los restaurantes "casi aptos" terminaron siendo los mayores perjudicados.'
 date: 2026-03-23
-author: 'Taiwan.md 編輯團隊'
 category: 'Food'
+tags:
+  [
+    'Michelin',
+    'alta cocina',
+    'restaurantes con estrellas',
+    'gastronomía taiwanesa',
+    'industria de alimentos',
+  ]
 subcategory: '精緻餐飲'
-tags: ['米其林', '精緻餐飲', '星級餐廳', '台灣美食', '餐飲產業']
-readingTime: 12
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: true
-translatedFrom: Food/台灣米其林與精緻餐飲.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+imageNote: '原 Wikimedia 圖與文章主題不符，未收進庫，待換圖（圖片是香港荃灣如心廣場商場餐廳指示牌，非台灣場景，跟「台灣米其林」主題不符（地點錯誤））'
+translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
+sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:5dc9bb02298749c4'
 sourceBodyHash: 'sha256:3ca2a02845451f2c'
-translatedAt: 2026-05-01T20:54:23+08:00
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_West_%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4_Nina_Tower_Mall_Two_%E5%95%86%E5%A0%B4_restaurant_directory_sign_December_2023_R12S.jpg/960px-HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_West_%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4_Nina_Tower_Mall_Two_%E5%95%86%E5%A0%B4_restaurant_directory_sign_December_2023_R12S.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedAt: '2026-09-08T00:42:49+08:00'
 ---
 
-# Michelin en Taiwán: el costo bajo las estrellas y una redefinición
+# Michelin en Taiwán: El costo y la redefinición bajo las estrellas
 
-> **Panorama en 30 segundos:** En 2018, Michelin llegó a Taiwán. En 8 años pasó de 1 ciudad a 8 regiones, y de 127 restaurantes a 419. Pero lo que realmente cambió no fue el negocio de los restaurantes galardonados con estrellas, sino el de aquellos "casi aptos", que deben asumir los costos de perseguir estrellas sin contar con el flujo de clientes correspondiente para respaldarlos, y terminan peor que los restaurantes que simplemente no participan en el juego. Esta es la historia de cómo la industria gastronómica taiwanesa fue reestratificada.
+> **Resumen de 30 segundos:** En 2018, Michelin llegó a Taiwán; en ocho años, se expandió de 1 ciudad a 8 regiones, creciendo de 127 restaurantes a 419.
+> Pero lo que realmente cambió no fue el negocio de los restaurantes con estrellas, sino los de los "casi aptos", quienes tuvieron que asumir costos para perseguir las estrellas sin recibir un apoyo de clientela correspondiente, y terminaron peor que los que ni siquiera participaron en este juego. Esta es una historia sobre la reclasificación de la industria gastronómica taiwanesa.
 
-A las 20:17 del 14 de marzo de 2018, en el salón de banquetes del Grand Hyatt Taipei, se escuchó el primer aplauso. Gwendal Poullennec, director internacional de la Guía Michelin, anunció: _La Guía Michelin Taipei_ se publicaba oficialmente. En ese instante, la industria gastronómica taiwanesa fue redividida por una línea invisible: quienes quedaron arriba obtuvieron estrellas; quienes quedaron abajo debieron decidir si invertían en perseguir estrellas o se retiraban por completo del juego.
+A las 20:17 del 14 de marzo de 2018, sonó el primer aplauso en el salón de banquetes del Hotel Grand Hyatt Taipéi. El director internacional de la Guía Michelin, Gwendal Poullennec, anunció la publicación oficial de _Guía Michelin Taipéi_. En ese momento, la industria gastronómica taiwanesa fue redividida por una línea invisible: los que estaban "en línea" obtenían estrellas; los del mundo físico debían decidir si gastar dinero en perseguir las estrellas o retirarse completamente del juego.
 
-Ocho años después, las cifras lucen impresionantes: 419 restaurantes seleccionados (2025), 53 restaurantes con estrella, abarcando 8 regiones. Pero detrás de esos números hay un grupo de restaurantes "casi aptos" que soportan la mayor presión: invirtieron enormes costos para mejorar sus instalaciones, capacitar a su personal y elevar la calidad de sus ingredientes, pero no obtuvieron ninguna estrella ni por ello incrementaron su afluencia de clientes.
+Ocho años después, los números parecen impresionantes: 419 restaurantes seleccionados (2025), 53 restaurantes con estrellas, abarcando 8 regiones. Pero detrás de estos números, hay un grupo de restaurantes "casi aptos" que están soportando la mayor presión; invirtieron grandes costos para mejorar su entorno, capacitar a su personal y elevar la calidad de sus ingredientes en la persecución de las estrellas, pero no obtuvieron ninguna estrella ni aumentaron su clientela como resultado.
 
-Esta es la verdadera historia de la industria gastronómica taiwanesa: no es una confrontación entre lo tradicional y lo internacional, sino una redefinición de lo que significa ser "apto" o "no apto".
+Esta es la verdadera historia de la industria gastronómica taiwanesa: no es una oposición entre lo tradicional y lo internacional, sino una redefinición sobre lo "apto" y lo "no apto".
 
-| 419 restaurantes seleccionados | 53 restaurantes con estrella    |
-| ------------------------------ | ------------------------------- |
-| Total de restaurantes (2025)   | 3 tres estrellas, 7 dos, 43 una |
+| 419 seleccionados            | 53 restaurantes con estrellas                       |
+| :--------------------------- | :-------------------------------------------------- |
+| Total de restaurantes (2025) | 3 trilladas, 7 de dos estrellas, 43 de una estrella |
 
-## La divisoria de aguas: la noche que cambió todo
+## El punto de inflexión: esa noche que lo cambió todo
 
-### La elección de 127 restaurantes
+### La elección de los 127 restaurantes
 
-La primera edición de la Guía Michelin Taipei (2018) incluyó 127 restaurantes: 24 con estrella y 36 recomendados Bib Gourmand. La cifra en sí revelaba la estrategia de Michelin: no solo certificar restaurantes de alta gama, sino demostrar que comprendía la cultura culinaria taiwanesa.
+La primera edición de la Guía Michelin Taipéi en 2018 incluyó 127 restaurantes, de los cuales 24 eran restaurantes con estrellas y 36 estaban recomendados por Bib Gourmand. Este número revela la estrategia de Michelin: no solo certificar alta cocina, sino también demostrar que entienden la cultura culinaria taiwanesa.
 
-Lo más sorprendente en ese momento no fue que Le Palais obtuviera dos estrellas —era previsible—. Lo más impactante fue que puestos callejeros como A-Zong Mee-Sua, Du Hsiao Yueh y Fu Hong Beef Noodles también recibieran la recomendación Bib Gourmand. Un plato de fideos de arroz por 60 TWD y una cena francesa de 8,000 TWD aparecían juntos en la misma guía.
+Lo más sorprendente en ese momento no fue que Le Palais obtuviera dos estrellas —eso era previsible. Lo más impactante fue que puestos callejeros como Ah-tsong Noodles (阿宗麵線), Du Xiao Yue (度小月) y Fu Hong Beef Noodles (富宏牛肉麵) también recibieran la recomendación Bib Gourmand. Un plato de fideos por 60 yuanes, junto a una comida francesa por 8,000 yuanes, aparecían en la misma guía.
 
-"En Taipei vimos una diversidad gastronómica asombrosa", explicó entonces el director de la Guía Michelin para Asia. "Desde los puestos de los mercados tradicionales hasta los restaurantes de hoteles cinco estrellas, cada nivel tiene razones dignas de recomendación."
+"Vimos una diversidad gastronómica asombrosa en Taipéi", explicó entonces el director de Michelin para Asia; "desde los puestos callejeros de mercados tradicionales hasta los restaurantes de hoteles de cinco estrellas, cada nivel tiene razones dignas de ser recomendadas".
 
 > **📝 Nota del curador**
 >
-> La estrategia de Michelin al llegar a Taiwán fue clara: usar las recomendaciones Bib Gourmand para demostrar que no era un "colonizador externo", sino una "evaluación que comprende la cultura local". La estrategia fue exitosa, pero también sembró las semillas de las controversias posteriores.
+> La estrategia de Michelin al llegar a Taiwán fue clara: usar Bib Gourmand para demostrar que no eran "colonizadores foráneos", sino un "evaluador que entiende la cultura local". Esta estrategia fue exitosa, pero también sembró semillas de controversia posteriores.
 
-### Huella de expansión: una elección geográfica no aleatoria
+### Expansión del alcance: una selección geográfica no aleatoria
 
-La trayectoria de Michelin en Taiwán refleja con claridad el contexto geográfico de la cultura gastronómica taiwanesa:
+La trayectoria de Michelin en Taiwán refleja claramente el contexto geográfico de la cultura gastronómica taiwanesa:
 
-1. **2018** — Lanzamiento en Taipei, la ciudad con mayor grado de internacionalización
-2. **2020** — Incorporación de Taichung, bastión de la innovación en comida callejera
-3. **2022** — Inclusión de Tainan, la ciudad con mayor riqueza cultural histórica
-4. **2024** — Kaohsiung entra en la lista, rica en cultura marítima y mariscos
-5. **2025** — Nuevo Taipei y Hsinchu completan el ecosistema del norte de Taiwán
+1. **2018** — Taipéi fue la primera, con el mayor grado de internacionalización.
+2. **2020** — Taichung se incorporó, un centro innovador de comida callejera.
+3. **2022** — Tainan fue incluida, con una profunda base cultural.
+4. **2024** — Kaohsiung apareció en la lista, rica en cultura marina.
+5. **2025** — New Taipei y Hsinchu completaron el ecosistema del norte de Taiwán.
 
-Este orden no respondió a consideraciones administrativas, sino que siguió la distribución natural del poderío gastronómico taiwés. Desde Taipei, la ciudad más fácil de comprender para una evaluación internacional, hasta Tainan, la que requiere mayor conocimiento local para ser apreciada, Michelin tardó 8 años en completar su exploración del mapa culinario taiwanés.
+Este orden no se basó en divisiones administrativas, sino que siguió la distribución natural de la fuerza gastronómica taiwanesa. Desde Taipéi, más fácil de entender para los evaluadores internacionales, hasta Tainan, que requiere conocimiento local para ser apreciada, Michelin tardó 8 años en sondear el mapa culinario de Taiwán.
 
-## Bajo el brillo estelar: la interpretación taiwanesa de los restaurantes tres estrellas
+## Luces brillantes: La interpretación taiwanesa de la cocina con tres estrellas
 
-### Le Palais: la máxima expresión de la técnica cantonesa
+### Le Palais (頤宮): La máxima expresión de la artesanía cantonesa
 
-Le Palais, ubicado en el Grand Hyatt Taipei, obtuvo dos estrellas en 2018, ascendió a tres en 2019 y ha mantenido tres estrellas durante 8 años consecutivos. Representa no solo la refinación de la cocina cantonesa, sino la demostración de que la cocina china puede alcanzar el estándar más alto de Michelin.
+Le Palais, ubicado en el Grand Hyatt, obtuvo dos estrellas en 2018 y ascendió a tres estrellas en 2019, manteniéndose con tres estrellas durante los últimos ocho años. Representa no solo la sofisticación de la cocina cantonesa, sino también la prueba de que la cocina china puede alcanzar el estándar más alto de Michelin.
 
-El ganso asado del chef Chen Wei-qiang tiene una piel tan crujiente que emite un sonido claro al tocarla con un cuchillo, con carne jugosa pero sin grasa excesiva. Detrás de este plato hay 48 horas de preparación: se selecciona un pato ma de Qingyuan de 90 días de edad, se seca al aire durante 24 horas y se asa a fuego lento durante 3 horas, con un control de temperatura preciso al grado centígrado en cada paso.
+El pato asado por el chef Chen Wei-qiang (陳偉強) tiene una piel tan crujiente que emite un sonido nítido al tocarla con un cuchillo; su carne es jugosa pero no grasosa. Detrás de este plato hay 48 horas de preparación: se utiliza pato Qingyuan de 90 días, curado durante 24 horas y asado lentamente durante 3 horas, con el control de temperatura preciso hasta en grados Celsius en cada paso.
 
-"La esencia de la cocina cantonesa está en los detalles", dice Chen Wei-qiang. "Si el tiempo de cocción al vapor de una clara de huevo difiere en 30 segundos, la textura cambia por completo."
+"La esencia de la cocina cantonesa está en los detalles", dijo Chen Wei-qiang; "si la cocción del marranito al vapor se retrasa 30 segundos, la textura es completamente diferente".
 
-### Taïrroir: el experimento pionero de la fusión taiwanesa-francesa
+### Taïrroir (態芮): El experimento pionero de fusión taiwanesa-francesa
 
-El chef Ho Shun-kai regresó de Restaurant André en Singapur para fundar Taïrroir en Taiwán. Obtuvo una estrella en 2018, ascendió a dos en 2019 y alcanzó tres estrellas en 2024. Su "cocina francesa taiwanesa" redefinió lo que significa "la expresión internacional del sabor taiwanés".
+El chef He Shun-kai (何順凱) fundó Taïrroir en Taiwán después de su experiencia en el Restaurant André en Singapur. Obtuvo una estrella en 2018, ascendió a dos estrellas en 2019 y alcanzó tres estrellas en 2024. Su "alta cocina taiwanesa" redefinió qué es la "expresión internacional del sabor taiwanés".
 
-Su plato más famoso, "Res taiwanesa con bottarga de pez luna", combina perfectamente carne de res de Tainan, bottarga de Penghu y la técnica francesa de _sous vide_. La carne se cocina en un baño de agua a temperatura constante de 58°C durante 2 horas, manteniendo su color rosado; la bottarga se corta en láminas finas, y su sabor salado y umami forma capas con la dulzura de la carne.
+El más famoso plato, el "Bistec de res taiwanés con caviar de pescado", combina perfectamente la carne de res de Tainan, el caviar de pez de Penghu y la técnica francesa _sous vide_. La carne se cocina durante 2 horas en agua a temperatura constante de 58°C para mantener un color rosado; el caviar se corta en láminas finas, creando una capa de salinidad con la dulzura de la carne.
 
-"No estoy intentando hacer cocina francesa, ni cocina taiwanesa", explica Ho Shun-kai. "Lo que hago es cocina francesa de los taiwaneses, o cocina taiwanesa de los franceses."
+"No quiero hacer comida francesa ni comida taiwanesa", explicó He Shun-kai; "quiero hacer alta cocina taiwanesa, o decir, comida taiwanesa para franceses".
 
-### JL Studio: la interpretación de las especias del sudeste asiático en Taichung
+### JL Studio: La interpretación de especias del sudeste asiático en Taichung
 
-JL Studio, ubicado en Taichung, es obra del chef Lin Tien-yao, quien trajo de vuelta la experiencia de Restaurant André en Singapur para crear una cocina de alta gama llena de influencias del sudeste asiático. Obtuvo tres estrellas en 2021, convirtiéndose en el tercer restaurante tres estrellas de Taiwán y el único en Taichung.
+JL Studio en Taichung, con el chef Lin Tian-yao (林恬耀), trajo la experiencia del Restaurant André de Singapur a Taiwán, creando una cocina refinada llena del sabor del sudeste asiático. Obtuvo tres estrellas en 2021, siendo el tercer y único restaurante de tres estrellas en Taichung.
 
-Su plato insignia, "Pokok" (que significa "árbol" en malayo), utiliza vegetales locales taiwaneses como base, combinados con especias del sudeste asiático como leche de coco, limoncillo y hojas de limón, presentando una forma tridimensional que evoca un árbol. Este plato requiere 16 tipos diferentes de vegetales, cada uno con un tratamiento distinto: algunos crudos, otros ahumados, otros fermentados.
+El plato insignia "Pokok" (que significa "árbol" en malayo) utiliza verduras locales taiwanesas como base, combinadas con leche de coco, hierba de limón y hojas de lima, presentando una forma tridimensional como un árbol. Este plato requiere 16 tipos diferentes de vegetales, cada uno tratado de manera distinta: algunos crudos, otros ahumados, otros fermentados.
 
-"Quiero demostrar que Taiwán no solo tiene cocina taiwanesa y francesa, sino muchas más posibilidades", dice Lin Tien-yao.
+"Quiero demostrar que Taiwán no solo tiene comida taiwanesa ni francesa, sino muchas más posibilidades", dijo Lin Tian-yao.
 
-> **✦** "Un verdadero restaurante tres estrellas no traslada técnicas extranjeras a Taiwán, sino que expresa el espíritu taiwanés en un lenguaje universal."
+> **✦** "Un verdadero restaurante con tres estrellas no es trasladar técnicas extranjeras a Taiwán, sino expresar el espíritu de Taiwán en un lenguaje universal."
 
-## Recomendación Bib Gourmand: certificación internacional y controversias de la comida popular
+## Bib Gourmand: La certificación internacional de la comida popular y su controversia
 
 ### La dignidad de la comida asequible
 
-La recomendación Bib Gourmand nació con el propósito de certificar restaurantes donde "se puede disfrutar de cocina de alta calidad por menos de 1,000 TWD". En 2025, Taiwán cuenta con 144 restaurantes Bib Gourmand, de los cuales casi el 60% son comida callejera local.
+El propósito del Bib Gourmand es certificar restaurantes donde se puede disfrutar de alta calidad por "menos de 1,000 yuanes". En 2025, 144 restaurantes en Taiwán recibieron esta recomendación, y casi seis de ellos son puestos callejeros locales.
 
-Cuando A-Zong Mee-Sua (fundado en 1975) recibió la recomendación Bib Gourmand, este pequeño puesto de solo 4 ping (≈13 m²) enfrentó un desafío sin precedentes. La fila de clientes pasó de 10-15 personas a 50-100, pero el dueño, Zhang Azong, se negó a ampliar el local: "Prefiero que los clientes esperen un poco más, pero mantener la calidad de cada plato de fideos."
+Cuando Ah-tsong Noodles (創立於 1975) recibió el Bib Gourmand, este pequeño puesto de solo 4 pings enfrentó un desafío sin precedentes. La cola pasó de los 10-15 clientes originales a 50-100 personas, pero el dueño Zhang Ah-tsong insistió en no ampliar el local: "Prefiero que la gente espere un poco más para mantener la calidad de cada plato de fideos".
 
-Esta elección generó rápidamente un debate: ¿pueden coexistir el éxito comercial y la preservación cultural?
+Esta elección pronto generó debate: ¿se puede conciliar el éxito comercial con la preservación cultural?
 
-> **⚠️ Punto de vista controvertido**
+> **⚠️ Punto de vista polémico**
 >
-> La recomendación Bib Gourmand de Michelin otorga certificación internacional a la comida callejera tradicional, pero también altera su ecosistema operativo. Los partidarios consideran que eleva el estatus internacional de la comida popular taiwanesa; los críticos sostienen que destruye su "carácter popular".
+> El Bib Gourmand de Michelin ha otorgado reconocimiento internacional a la comida popular, pero también ha cambiado su ecosistema operativo. Los defensores creen que esto eleva el estatus internacional de la gastronomía popular taiwanesa; los críticos argumentan que esto destruye la "naturaleza popular" de estos puestos.
 
-### Redefinición de precio y calidad
+### La redefinición del precio y la calidad
 
-Casi todos los restaurantes que obtienen la recomendación Bib Gourmand ajustan sus precios al alza. Niu Lao Da Hot Pot pasó de 800 TWD por menú a 1,200 TWD; los _xiaolongbao_ de Dian Shui Lou subieron de 160 a 220 TWD. Este concepto de "mejor calidad, mejor precio" fue gradualmente aceptado por los consumidores taiwaneses.
+Los restaurantes con Bib Gourmand casi siempre suben sus precios. Niu Lao Da Hot Pot (牛老大涮涮鍋) pasó de un menú de 800 yuanes a 1,200 yuanes; los dumplings Xiao Long Bao de Dian Shui Lou (點水樓) pasaron de 160 yuanes a 220 yuanes. Este concepto de "calidad y buen precio" ha sido gradualmente aceptado por los consumidores taiwaneses.
 
-Pero el verdadero problema no es el aumento de precios, sino el cambio en la estructura de costos. Para mantener la certificación Michelin, estos restaurantes deben:
+Pero el verdadero problema no es la subida de precios, sino el cambio en la estructura de costos. Para mantener la certificación Michelin, estos restaurantes deben:
 
-- Mejorar la calidad de los ingredientes (costo aumenta 20-30%)
-- Fortalecer la capacitación del personal (costo de mano de obra aumenta 15-25%)
-- Mejorar el ambiente del comedor (inversión única de 500,000 a 2,000,000 TWD)
-- Establecer procesos estandarizados (costo operativo aumenta 10-15%)
+- Mejorar la calidad de los ingredientes (aumento de costos del 20 al 30%)
+- Intensificar la capacitación del personal (aumento de costos laborales del 15 al 25%)
+- Mejorar el entorno de comedor (inversión única de 500,000 a 2,000,000)
+- Establecer procesos estandarizados (aumento de costos operativos del 10 al 15%)
 
-Estos costos no son puntuales, sino que deben mantenerse año tras año. Para los restaurantes que obtienen la recomendación Bib Gourmand, el aumento de clientes puede cubrir estos costos; pero para los restaurantes "casi aptos" que no fueron seleccionados, esto genera una presión enorme.
+Estos costos no son únicos; requieren una inversión continua cada año. Para los restaurantes con Bib Gourmand, el aumento de la clientela puede sostener estos costos; pero para los "casi aptos" que no fueron seleccionados, esto crea una gran presión.
 
-## La revolución Green Star: la práctica de la gastronomía sostenible en Taiwán
+## Revolución Verde: La práctica sostenible en Taiwán
 
 ### El despertar de la conciencia ambiental
 
-En 2021, Michelin comenzó a otorgar la Estrella Verde (Green Star), que reconoce a restaurantes con desempeño destacado en gestión sostenible. Taiwán cuenta actualmente con 7 restaurantes con Estrella Verde, desde EMBERS en Taipei hasta Thomas Chien en Kaohsiung, reflejando diferentes filosofías de sostenibilidad.
+En 2021, Michelin comenzó a otorgar Estrellas Verdes (Green Star) para reconocer a los restaurantes con un desempeño sobresaliente en sostenibilidad. Actualmente hay 7 restaurantes con Estrellas Verdes en Taiwán, desde EMBERS en Taipéi hasta Thomas Chien en Kaohsiung, mostrando diferentes conceptos de sostenibilidad.
 
-EMBERS fue el primer restaurante de Taiwán en obtener la Estrella Verde. El chef Guo Ting-wei colabora directamente con más de 20 pequeños agricultores de Yilan y Hualien. El menú cambia según la temporada, utilizando solo vegetales orgánicos de temporada. El restaurante incluso creó un "fondo de agricultores", pagando por adelantado para ayudar a los campesinos durante la temporada baja de cosecha.
+EMBERS es el primer restaurante en Taiwán en obtener una Estrella Verde. El chef Kuo Ting-wei (郭庭瑋) colabora directamente con más de 20 pequeños agricultores de Yilan y Hualien; el menú cambia según la temporada, utilizando solo verduras orgánicas de temporada. El restaurante incluso estableció un "Fondo para Agricultores", pagando por adelantado para ayudar a los agricultores durante las temporadas bajas de cosecha.
 
-"No solo compramos verduras; apoyamos un modo de vida", explica Guo Ting-wei. "Cuando los restaurantes urbanos empiezan a preocuparse por el desarrollo sostenible del campo, la comida deja de ser solo comida."
+"No solo estamos comprando vegetales, estamos apoyando un estilo de vida", explicó Kuo Ting-wei; "cuando los restaurantes urbanos comienzan a preocuparse por el desarrollo sostenible del campo, la comida deja de ser solo comida".
 
-### La refinación de la agricultura taiwanesa
+### La sofisticación de la agricultura taiwanesa
 
-El auge de los restaurantes con Estrella Verde ha impulsado la transformación y mejora de la agricultura taiwanesa. Cuando los restaurantes con estrella comienzan a exigir ingredientes "amigables con el medio ambiente", "libres de pesticidas" y "trazables", los agricultores también empiezan a pensar en cómo mejorar la calidad de sus productos.
+El surgimiento de los restaurantes con Estrellas Verdes ha impulsado la mejora y transformación de la agricultura taiwanesa. Cuando los restaurantes con estrellas comenzaron a exigir ingredientes "amigables con el medio ambiente", "sin pesticidas" y "rastreables", los agricultores también comenzaron a pensar en cómo mejorar la calidad de sus productos.
 
-Tu Pang, ubicado en Taichung, obtuvo la certificación Green Star en 2025. Este restaurante no solo utiliza vegetales orgánicos, sino que desarrolla nuevas variedades junto con los agricultores. Colaboraron con un agricultor orgánico de Changhua para cultivar zanahorias moradas de mayor dulzura; experimentaron con agricultores de Nantou el efecto de diferentes altitudes en el sabor del té.
+Tu Pang (地坊) en Taichung obtuvo su certificación Verde en 2025. Este restaurante no solo usa verduras orgánicas, sino que desarrolla nuevas variedades junto con los agricultores. Colaboraron con un agricultor orgánico de Changhua para cultivar zanahorias moradas más dulces; y experimentan con el impacto de la altitud en el sabor del té con agricultores de Nantou.
 
-"Cuando los restaurantes y los campos empiezan a dialogar, la tierra de Taiwán adquiere nuevas posibilidades", dice el chef de Tu Pang.
+"Cuando los restaurantes y los campos comienzan a dialogar, la tierra de Taiwán tiene nuevas posibilidades", dijo el chef de Tu Pang.
 
-| 7 restaurantes Green Star                  | +20 granjas colaboradoras                                            |
-| ------------------------------------------ | -------------------------------------------------------------------- |
-| 5 en Taipei, 1 en Taichung, 1 en Kaohsiung | Número de granjas orgánicas con las que EMBERS colabora directamente |
+| 7 restaurantes con Estrellas Verdes        | Más de 20 granjas colaboradoras                                     |
+| :----------------------------------------- | :------------------------------------------------------------------ |
+| 5 en Taipéi, 1 en Taichung, 1 en Kaohsiung | Número de granjas orgánicas con las que trabaja EMBERS directamente |
 
-## El costo: el lado oscuro del efecto Michelin
+## El costo: La cara oculta del efecto Michelin
 
-### La trampa de los "casi aptos"
+### El dilema de los "casi aptos"
 
-El mayor impacto de Michelin no es que los buenos restaurantes mejoren, sino que crea una "trampa del esfuerzo". Los restaurantes "casi aptos" —con buena calidad de comida y un servicio aceptable, pero que no fueron seleccionados— enfrentan la mayor presión.
+El mayor impacto de Michelin no es hacer mejores a los buenos restaurantes, sino crear una "trampa del esfuerzo". Los restaurantes "casi aptos"—con buena calidad de comida y buen servicio, pero que simplemente no fueron seleccionados—enfrentan la mayor presión.
 
-Un chef de un restaurante francés en Taipei (que pidió anonimato) reveló: "Para competir por la certificación Michelin, invertimos 3 millones de TWD en remodelar el local, enviar a los chefs a formarse a Francia e importar ingredientes de primer nivel. Al final, ni siquiera fuimos seleccionados. Ahora tenemos un costo adicional mensual de 500,000 TWD, pero los clientes no aumentaron; de hecho, perdimos algunos clientes habituales por el aumento de precios."
+Un chef de un restaurante francés en Taipéi (que pidió permanecer en el anonimato) reveló: "Para competir por la certificación Michelin, gastamos 3 millones en remodelación, enviamos chefs a Francia para estudiar y importamos ingredientes de primera calidad. Y aun así no fuimos seleccionados. Ahora tenemos 500,000 más al mes en costos, pero los clientes no han aumentado; al contrario, hemos perdido algunos clientes antiguos debido al aumento de precios".
 
-Esta situación existe en todo Taiwán. Según estimaciones de profesionales del sector, entre 200 y 300 restaurantes en toda la isla se encuentran en este estado de "ni lo uno ni lo otro": invirtieron en costos para perseguir estrellas, pero no obtuvieron el retorno correspondiente.
+Esta dificultad existe en todo Taiwán. Según estimaciones de la industria alimentaria, hay entre 200 y 300 restaurantes en toda la isla en este estado de "ni muy alto ni muy bajo": invirtieron costos para perseguir las estrellas, pero no obtuvieron el retorno correspondiente.
 
 > **📝 Nota del curador**
 >
-> Este es el lado más cruel del efecto Michelin: no solo certifica la excelencia, sino que redefine el estándar de lo "aceptable". Antes bastaba con que la comida fuera buena y el servicio decente; ahora debes alcanzar el "estándar Michelin", o de lo contrario eres "insuficiente".
+> Esta es la cara más cruel del efecto Michelin: no solo certifica la excelencia, sino que redefiende el estándar de lo "apto". Antes bastaba con que la comida fuera buena y el servicio decente; ahora debes alcanzar el "estándar Michelin", o eres "insuficiente".
 
-### El efecto Mateo en la movilidad del talento
+### El efecto Malthus en la movilidad del talento
 
-La certificación Michelin ha intensificado la movilidad del talento en la industria gastronómica. Los restaurantes con estrella pueden ofrecer salarios más altos, mejores oportunidades de formación y mayor visibilidad internacional para sus empleados, creando un efecto Mateo donde "los fuertes se vuelven más fuertes".
+La certificación Michelin ha intensificado la movilidad del talento en la industria alimentaria. Los restaurantes con estrellas pueden pagar salarios más altos, ofrecer mejores oportunidades de capacitación y dar mayor exposición internacional a los empleados, creando un efecto Malthus donde "los fuertes se hacen más fuertes".
 
-Un joven chef que trabaja en un restaurante con estrella comentó: "Antes trabajaba en un restaurante italiano muy bueno, pero no tenía certificación Michelin. Luego me cambié a un restaurante con una estrella, mi salario aumentó 10,000 TWD y tuve la oportunidad de ir a Italia a formarme. Mirando atrás, la comida de aquel restaurante italiano no era mala, pero le faltaba esa estrella."
+Un joven chef que trabaja en un restaurante con estrellas dijo: "Antes trabajaba en una muy buena trattoria italiana, pero no tenía certificación Michelin. Luego salté a un restaurante de una estrella, ganando 10,000 más y teniendo la oportunidad de estudiar en Italia. Mirándolo en retrospectiva, la comida de esa trattoria era realmente buena, pero le faltaba esa estrella".
 
-Esta movilidad del talento dificulta aún más que los restaurantes "casi aptos" mantengan su calidad, generando un círculo vicioso.
+Esta movilidad del talento hace que sea más difícil para los restaurantes "casi aptos" mantener su calidad, creando un círculo vicioso.
 
 ### La reestructuración de la cadena de suministro de ingredientes
 
-La certificación Michelin también ha transformado la cadena de suministro de ingredientes. Las exigencias de los restaurantes con estrella han impulsado la mejora de toda la cadena: controles de calidad más estrictos, sistemas de trazabilidad más completos y precios más altos.
+La certificación Michelin también ha cambiado la cadena de suministro de ingredientes. Los requisitos de los restaurantes con estrellas han impulsado la mejora de toda la cadena de suministro: control de calidad más estricto, sistemas de trazabilidad más completos y precios más altos.
 
-Esto es positivo para la agricultura taiwanesa, pero también ha creado una estratificación. Los ingredientes de primera calidad se destinan prioritariamente a los restaurantes con estrella; los restaurantes regulares solo pueden optar por ingredientes de segunda categoría o asumir costos más elevados.
+Esto es bueno para la agricultura taiwanesa, pero también crea una clasificación. Los ingredientes de primera calidad se suministran prioritariamente a los restaurantes con estrellas; los restaurantes comunes solo pueden optar por ingredientes de segunda categoría o asumir costos más altos.
 
-## Conflicto cultural: el estándar francés frente a la cultura culinaria taiwanesa
+## Conflicto cultural: El estándar francés y la cultura culinaria taiwanesa
 
-### El desafío de adaptabilidad de los criterios de evaluación
+### Desafíos en la adaptabilidad del estándar de evaluación
 
-El núcleo de la evaluación Michelin es el estándar de _fine dining_: sabores claramente estratificados, presentación precisa y un servicio formal. Pero la cultura culinaria taiwanesa enfatiza la "comida compartida", el "ambiente animado" y la "calidez humana".
+El núcleo de la evaluación Michelin es el estándar de "Alta Cocina" (_Fine Dining_): sabores bien definidos, presentación precisa y procesos de servicio formales. Pero la cultura culinaria taiwanesa enfatiza la "comida compartida", la "alegría" y el "sentimiento humano".
 
-El ejemplo más evidente es la evaluación de la cocina taiwanesa. Shan Hai Lou obtuvo una estrella Michelin porque su diseño espacial, selección de vajilla y servicio de summelier cumplían con los estándares de _fine dining_. Pero muchos gourmets consideran que la cocina taiwanesa más auténtica debería servirse en mesa redonda, con palillos comunitarios y acompañada de cerveza taiwanesa, no en servicio individual con vino tinto.
+El ejemplo más claro es la evaluación de la comida taiwanesa. Shan Hai Lou (山海樓) obtuvo una estrella porque su diseño espacial, elección de vajilla y configuración del sommelier cumplen con los estándares de Alta Cocina. Pero muchos conocedores creen que la comida taiwanesa más auténtica debería servirse en mesas redondas, con pinzas comunes para servir y acompañada de cerveza local, no en servicio individual con vino tinto.
 
-"Cuando juzgamos la cocina taiwanesa con estándares franceses, ¿seguimos juzgando cocina taiwanesa?", plantea la escritora gastronómica Cai Zhu'er.
+"Cuando juzgamos la comida taiwanesa con estándares franceses, ¿estamos realmente juzgando la comida taiwanesa?", planteó la escritora gastronómica Tsai Chu-er (蔡珠兒).
 
-### El dilema de la comida callejera tradicional
+### El dilema de la comida popular tradicional
 
-Para la comida callejera tradicional, la certificación Michelin plantea desafíos aún más complejos. El éxito de A-Zong Mee-Sua demostró que la comida popular puede obtener certificación internacional, pero también generó el debate sobre si la "comercialización destruye la tradición".
+Para la comida popular tradicional, la certificación Michelin presenta desafíos más complejos. El éxito de Ah-tsong Noodles demostró que la comida popular puede obtener reconocimiento internacional, pero también provocó el debate sobre si "la comercialización destruye la tradición".
 
-Yongkang Beef Noodles, tras recibir la recomendación Bib Gourmand, vio su tiempo de espera pasar de 15 minutos a 1-2 horas. El dueño enfrentó una decisión: ¿ampliar el local, agregar más asientos, contratar más personal? Finalmente optó por mantener todo igual, prefiriendo que los clientes esperaran más tiempo antes que cambiar su modelo de negocio.
+Después de recibir el Bib Gourmand, Niu Kang Beef Noodles (永康牛肉麵) aumentó su tiempo de espera de 15 minutos a 1-2 horas. El dueño se enfrentó a una elección: ¿ampliar el local, aumentar los asientos o contratar más personal? Finalmente eligió mantener el _statu quo_, prefiriendo que la gente esperara en lugar de cambiar el modelo operativo.
 
-Pero no todos los establecimientos tienen el lujo de esa "terquedad".
+Pero no todos los establecimientos tienen esa "audacia".
 
-> **⚠️ Punto de vista controvertido**
+> **⚠️ Punto de vista polémico**
 >
-> El impacto de Michelin en la cultura culinaria taiwanesa genera opiniones polarizadas: los partidarios consideran que elevó el estatus internacional y la conciencia de calidad; los críticos sostienen que juzgar una cultura oriental con estándares occidentales es, en esencia, una forma de colonialismo cultural.
+> La influencia de Michelin sobre la cultura culinaria taiwanesa tiene valoraciones extremas: los defensores creen que eleva el estatus internacional y la conciencia de calidad; los críticos argumentan que juzgar una cultura oriental con estándares occidentales es, en esencia, un tipo de colonización cultural.
 
-## Competidores y desafíos: la autoridad Michelin se resquebraja
+## Competidores y desafíos: La relajación de la autoridad Michelin
 
-### El desafío de los 50 Mejores Restaurantes del Mundo
+### El desafío de The World's 50 Best Restaurants
 
-Además de Michelin, la influencia de la lista "50 Mejores Restaurantes del Mundo" está en ascenso. Esta clasificación, organizada por la revista británica _Restaurant_, utiliza un sistema de votación de jurados y pone mayor énfasis en la innovación y la relevancia mediática.
+Además de Michelin, la influencia de "The World's 50 Best Restaurants" está creciendo. Esta evaluación, organizada por una revista británica, utiliza un sistema de votación de críticos y pone más énfasis en la innovación y el tema.
 
-Los restaurantes taiwaneses no han tenido un desempeño destacado en esta clasificación, pero este sistema de evaluación le envía a Michelin un recordatorio importante: la evaluación no es un monopolio y los criterios no son inmutables.
+El desempeño de los restaurantes taiwaneses en esta evaluación no es sobresaliente, pero este sistema le dio a Michelin un importante recordatorio: la evaluación no es un monopolio, y los estándares no son inmutables.
 
 ### La evaluación democratizada en la era digital
 
-La influencia de las calificaciones de Google, las redes sociales y los blogs gastronómicos está desafiando la autoridad de Michelin. Las generaciones más jóvenes confían más en las fotos de comida de Instagram que en las recomendaciones de la Guía Michelin.
+La influencia de las calificaciones de Google, las redes sociales y los blogueros gastronómicos está desafiando la autoridad de Michelin. La generación joven confía más en las fotos de comida de Instagram que en las recomendaciones de la Guía Michelin.
 
-El restaurante AKAME en Pingtung es un ejemplo. Este restaurante, especializado en cocina indígena, nunca ha solicitado evaluación Michelin, pero goza de enorme popularidad en redes sociales, y conseguir una reservación es más difícil que en cualquier restaurante con estrella.
+El restaurante AKAME en Pingtung es un ejemplo. Este restaurante especializado en cocina indígena nunca ha solicitado una evaluación Michelin, pero tiene una popularidad altísima en redes sociales y su reserva es más difícil que la de cualquier restaurante con estrellas.
 
-"A algunos restaurantes no les importan las evaluaciones externas", observa el crítico cultural詹偉雄 (Zhan Weixiong). "Solo hacen lo que les gusta, con el equilibrio mensual entre ingresos y gastos. Ese podría ser otro futuro para la industria gastronómica taiwanesa."
+"Algunos restaurantes no les importa la opinión externa", observó el crítico cultural Zhan Wei-xiong (詹偉雄); "simplemente hacen lo que les gusta, y si ganan dos pings al mes, está bien. Esta podría ser otra forma de futuro para la industria gastronómica taiwanesa".
 
-## Redefinición: el próximo capítulo de la alta cocina taiwanesa
+## Redefinición: El próximo capítulo de la alta cocina taiwanesa
 
 ### La expresión internacional del sabor taiwanés
 
-La experiencia de 8 años muestra que los restaurantes taiwaneses más exitosos no se proclaman deliberadamente "cocina taiwanesa", sino que interpretan los ingredientes y la memoria gustativa de Taiwán con técnicas modernas.
+La experiencia de ocho años demuestra que los restaurantes taiwaneses más exitosos no se autodenominan "comida taiwanesa", sino que interpretan los ingredientes y la memoria gustativa de Taiwán con técnicas modernas.
 
-江振誠 (André Chiang) de RAW nunca dice que hace cocina taiwanesa, pero su cocina está llena de elementos taiwaneses: flor de areca, _Bombax ceiba_, chirimoya de Taitung. Cuando los extranjeros prueban sus platos, perciben la esencia del terruño taiwanés, no un nombre de cocina específico.
+Jiang Zhen-cheng (江振誠) de RAW nunca dice que hace comida taiwanesa, pero su cocina está llena de elementos taiwaneses: flor de areca, _pobozi_ (破布子), caqui de Taitung. Los extranjeros que prueban su comida perciben el ambiente de Taiwán, no un nombre de plato específico.
 
-"Lo importante no es cómo se llama la cocina", dice André Chiang, "sino si puede transmitir el contenido cultural único de Taiwán."
+"Lo importante no es cómo se llama la comida", dijo Jiang Zhen-cheng; "sino si puede transmitir el contenido cultural único de Taiwán".
 
 ### El equilibrio entre técnica y emoción
 
-La alta cocina taiwanesa del futuro debe encontrar un equilibrio entre el perfeccionamiento técnico y la conexión emocional. Michelin impulsó la mejora del nivel técnico, pero el alma de la gastronomía taiwanesa siempre ha sido esa calidez humana.
+La futura alta cocina taiwanesa debe encontrar un equilibrio entre la mejora técnica y la conexión emocional. Michelin ha impulsado la mejora del nivel técnico, pero el alma de la comida taiwanesa siempre es ese cálido sentido de hospitalidad.
 
-Al cenar en Taïrroir, no solo se saborea cocina refinada, sino que se percibe la hospitalidad cálida de los taiwaneses. Esta combinación de "técnica + calidez" podría ser la ventaja única de los restaurantes taiwaneses.
+Al cenar en Taïrroir, no solo pruebas alta cocina, sino que sientes la calidez y la hospitalidad de los taiwaneses. Esta combinación de "técnica + temperatura" podría ser una ventaja única para los restaurantes taiwaneses.
 
 ### El modelo taiwanés de desarrollo sostenible
 
-Con la creación del premio Green Star, la gestión sostenible se convertirá en una tendencia futura. Taiwán tiene ventajas únicas en este ámbito: abundantes recursos agrícolas, cadenas de suministro cortas de la granja a la mesa y una profunda conciencia ambiental.
+Con el establecimiento del premio Green Star, la sostenibilidad se convertirá en una tendencia futura. Taiwán tiene ventajas únicas en este aspecto: recursos agrícolas ricos, cadenas de suministro cortas desde la granja a la mesa y una profunda conciencia ambiental.
 
-La alta cocina taiwanesa del futuro no solo perseguirá la satisfacción gustativa, sino que también asumirá responsabilidad ambiental y social. Cuando los restaurantes empiezan a preocuparse por los ingresos de los agricultores, a considerar la huella de carbono de los ingredientes y a reducir el desperdicio de alimentos, dejan de ser solo restaurantes y se convierten en fuerzas que impulsan el progreso social.
+La alta cocina taiwanesa del futuro no solo busca la satisfacción gustativa, sino que también debe asumir la responsabilidad ambiental y social. Cuando los restaurantes comienzan a preocuparse por el ingreso de los agricultores, piensan en la huella de carbono de los ingredientes y reducen el desperdicio de alimentos, dejan de ser solo restaurantes para convertirse en fuerzas impulsoras del progreso social.
 
-> **💡 ¿Sabías que...?**
+> **💡 ¿Sabías que?**
 >
-> Taiwán es la única región de Asia donde restaurantes han obtenido simultáneamente estrellas Michelin y la Estrella Verde. Mountain and Sea House posee tanto una estrella como la Green Star, demostrando que sostenibilidad y excelencia pueden coexistir.
+> Taiwán es la única región en Asia que tiene restaurantes con estrellas Michelin y Estrellas Verdes al mismo tiempo.
+> Mountain and Sea House posee una estrella y una Estrella Verde simultáneamente, demostrando que la sostenibilidad y la excelencia pueden coexistir.
 
-## Conclusión: reflexiones bajo las estrellas
+## Conclusión: Reflexión bajo las estrellas
 
-Los 8 años de la Guía Michelin en Taiwán han sido testigos del proceso de transformación de la industria gastronómica, de un cambio cuantitativo a uno cualitativo. 53 restaurantes con estrella, 144 recomendaciones Bib Gourmand, 419 restaurantes seleccionados: detrás de estas cifras hay el esfuerzo incontable de chefs, meseros, agricultores y proveedores de ingredientes.
+Los 8 años de la Guía Michelin en Taiwán han sido testigos del proceso de transición de la industria alimentaria de la cantidad a la calidad. 53 restaurantes con estrellas, 144 recomendaciones Bib Gourmand y 419 restaurantes seleccionados; detrás de estos números están los esfuerzos de innumerables chefs, camareros, agricultores y proveedores de ingredientes.
 
-Pero lo verdaderamente importante no es la cantidad de estrellas, sino que el efecto Michelin nos hizo replantearnos: ¿qué es un buen restaurante? ¿Cuál es el sabor de Taiwán? Bajo estándares de evaluación globalizados, ¿cómo preservamos nuestra singularidad cultural?
+Pero lo verdaderamente importante no es el número de estrellas, sino que el efecto Michelin nos obliga a reflexionar: ¿qué es un buen restaurante? ¿Qué es el sabor taiwanés? En los estándares de evaluación globalizados, ¿cómo mantenemos la singularidad cultural?
 
-Michelin puede ser francés, pero las estrellas que brillan sobre la tierra taiwanesa ya llevan un profundo sabor taiwanés. Estas estrellas no son solo garantía de calidad, sino expresión de confianza cultural. Le dicen al mundo: Taiwán no solo tiene deliciosa comida callejera, sino también alta cocina de nivel mundial; Taiwán no solo sabe preservar la tradición, sino también crear el futuro.
+Michelin quizás provenga de Francia, pero las estrellas florecidas en suelo taiwanesa llevan un fuerte sabor taiwanés. Estas estrellas no son solo una garantía de calidad; son una manifestación de confianza cultural. Le dicen al mundo: Taiwán no solo tiene comida popular deliciosa, sino también alta cocina de clase mundial; Taiwán no solo conserva la tradición, sino que puede crear el futuro.
 
-Pero también debemos enfrentar con honestidad el costo del efecto Michelin: esos restaurantes que luchan al borde de las estrellas, la comida callejera cuyo ecosistema fue alterado, los restaurantes "casi aptos" bajo presión. ¿Es este el costo inevitable de perseguir la excelencia, o un problema sistémico que podría mejorarse?
+Pero también debemos enfrentar honestamente el costo del efecto Michelin: los restaurantes luchando en los márgenes de las estrellas, la comida popular tradicional cuyo ecosistema ha sido cambiado, y los restaurantes "casi aptos" bajo presión. ¿Es esto un costo inevitable al buscar la excelencia, o es un problema sistémico que se puede mejorar?
 
-En el cielo nocturno de la gastronomía taiwanesa, brillante de estrellas, cada una cuenta la misma historia: este es un paraíso culinario que es a la vez tradicional y moderno, local e internacional. Pero el verdadero desafío no es obtener más estrellas, sino no perder el alma de la cultura culinaria taiwanesa en el proceso de buscar certificación internacional.
+En el cielo nocturno de la industria gastronómica taiwanesa, cada estrella cuenta la misma historia: este es un paraíso gastronómico que es a la vez tradicional y moderno, local e internacional. Pero el verdadero desafío no es obtener más estrellas, sino no perder el alma de la cultura culinaria taiwanesa en el proceso de buscar la certificación internacional.
 
-Esto es Taiwán. Esta es nuestra autorreflexión bajo las estrellas.
+Esto es Taiwán; esta es nuestra autoevaluación bajo las estrellas.
 
 ## Referencias
 
-- [Lista completa de la Guía Michelin Taiwán 2025](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list)
-- [Global evaluation, local taste: Reflexiones sobre el significado transcultural de Michelin - VERSE](https://www.verse.com.tw/article/taste-guide-michelin)
-- [Earth Day: How MICHELIN Green Star Restaurants In Asia Are Doing Their Part With Sustainable Practices](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices)
-- [Michelin 2025 | Se revelan los restaurantes galardonados de la Guía Michelin Taiwán 2025 - Vogue Taiwan](https://www.vogue.com.tw/article/michelin-guide-2025-%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97)
-- [144 establecimientos seleccionados para la recomendación Bib Gourmand de la Guía Michelin Taiwán 2025](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection)
+- [Lista completa de _Guía Michelin Taipéi 2025_](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list)
+- [Comer local a nivel mundial: Reflexiones sobre el significado intercultural de Michelin - VERSE](https://www.verse.com.tw/article/taste-guide-michelin)
+- [Día de la Tierra: Cómo los restaurantes con Estrellas Verdes MICHELIN en Asia están haciendo su parte con prácticas sostenibles](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices)
+- [Michelin 2025 | Revelación de la lista de estrellas de _Guía Michelin Taipéi 2025_ - Vogue Taiwan](https://www.vogue.com.tw/article/michelin-guide-2025-%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97)
+- [La _Guía Michelin Taipéi 2025_ cuenta con 144 establecimientos seleccionados por Bib Gourmand](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection)

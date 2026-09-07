@@ -2,9 +2,7 @@
 title: 'Zun: De la habitación de segundo de secundaria a los dos canales con un millón de suscriptores, el registro de la madurez de un YouTuber'
 description: 'Zun comenzó a grabar transmisiones de videojuegos en segundo de secundaria; a los 19 años se convirtió en el YouTuber con un millón de suscriptores más joven de Taiwán en ese momento, y luego llevó su canal secundario también más allá del millón. Los datos que abarcan catorce años registran su proceso de madurez gradual al enfrentar las cargas creativas, las tormentas familiares y los errores de patrocinios.'
 date: 2026-07-15
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -14,25 +12,29 @@ tags:
     'Otaku en la vida',
     'Cultura digital',
   ]
-readingTime: 11
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-15
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/尊.md'
-sourceCommitSha: '16c428cd9'
-sourceContentHash: 'sha256:94b77718dfa4da62'
-sourceBodyHash: 'sha256:5579d8d02a3f58ac'
-translatedAt: '2026-07-25T21:33:43+08:00'
-image: /article-images/people/zun-new-home-2025.webp
+researchReport: 'reports/research/2026-07/尊.md'
+readingTime: 11
+image: '/article-images/people/zun-new-home-2025.webp'
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
+relatedDiary: ['2026-07-15-191335-manual']
+translatedFrom: 'People/尊.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:6c850ed56b9fd45a'
+sourceBodyHash: 'sha256:f9ebc993a34e1749'
+translatedAt: '2026-09-07T18:41:35.971911+00:00'
 ---
 
 > **Resumen en 30 segundos:**
-> Zun comenzó a subir transmisiones de videojuegos a YouTube desde segundo de secundaria. En 2018, a los 19 años, ya tenía 1,2 millones de suscriptores, siendo el YouTuber con un millón de suscriptores más joven de Taiwán en ese momento; a finales de 2024, el canal secundario también superó el millón. En los datos que abarcan catorce años, pasó de los videojuegos a la experimentación, las reseñas de productos (unboxing) y la vida cotidiana, y también enfrentó el caso de deepfake criminal de su hermano Xiao Yu y el error de patrocinio de «Pocket Warriors». Videos, entrevistas y respuestas públicas dejan un registro de madurez: un joven de Taiwán que admite tener cargas, cometer errores y seguir viviendo.
+> Zun comenzó a subir gameplay a YouTube en segundo de secundaria. En 2018, con 19 años, ya tenía 1.2 millones de suscriptores, convirtiéndose en el [YouTuber](/es/culture/taiwan-youtuber-industry/) más joven de Taiwán con un millón de suscriptores; a finales de 2024, su canal secundario también superó el millón. A lo largo de catorce años de registros, pasó de juegos a contenido experimental, reseñas y vlogs, enfrentando también el caso de deepfake de su hermano Xiao Yu y el error de patrocinio de «Pocket Warriors». Videos, entrevistas y respuestas públicas dejan un testimonio de madurez: un joven de Taiwán que admite cargar responsabilidades, cometer errores y seguir viviendo.
 
-En 2018, cuando Zun de 19 años fue entrevistado, no atribuyó el millón de suscriptores a un talento innato. Dijo que simplemente fue «el primero en hacerlo», aprovechando la oportunidad antes que otros. Al hablar sobre los cambios tras el aumento de suscriptores, añadió: «Con pocos suscriptores, uno se atreve a grabar de todo; con muchos suscriptores, uno tiene ciertas cargas».[^1]
+En 2018, cuando Zun tenía 19 años y fue entrevistado, no atribuyó sus 1.2 millones de suscriptores a un don natural. Dijo que simplemente «llegó más temprano». Al hablar de los cambios tras el crecimiento de suscriptores, añadió: «Con pocos suscriptores me atrevía a grabar cualquier cosa; con muchos, viene una cierta carga de responsabilidad».[^1]
 
-Estas dos frases, años después, siguen siendo muy propias de Zun: por un lado, minimiza sus logros; por otro, admite honestamente que a mayor visibilidad en la cámara, el espacio para moverse con libertad se vuelve más pequeño. Desde las transmisiones de videojuegos en la habitación de segundo de secundaria hasta dos canales con un millón de suscriptores, una nueva casa y una novia, los registros públicos que abarcan catorce años permiten a la audiencia ver cómo crece un canal y cómo el dueño del canal madura lentamente.
+Estas dos frases siguen reflejando a Zun años después: por un lado, minimiza sus logros; por otro, reconoce con franqueza que cuanto mayor es su audiencia, menor espacio tiene para actuar con libertad. Desde los gameplay en su habitación de segundo de secundaria hasta dos canales con millones de suscriptores, una nueva casa y una relación sentimental, los catorce años de registros públicos permiten al público ver cómo crece un canal, y también cómo su creador madura.
 
 ## Un estudiante de segundo de secundaria convierte su habitación en un estudio
 

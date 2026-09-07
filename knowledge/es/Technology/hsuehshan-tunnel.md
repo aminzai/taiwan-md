@@ -2,9 +2,7 @@
 title: 'Túnel Hsuehshan: de una «misión imposible» al milagro de sangre y lágrimas de la ingeniería taiwanesa'
 description: 'El 15 de diciembre de 1997, un accidente por irrupción de agua estuvo a punto de arrebatar trescientas vidas y convirtió en chatarra una TBM, una máquina excavadora de mil millones de dólares taiwaneses. Este túnel, incluido por la Encyclopaedia Britannica entre las obras de ingeniería más difíciles del mundo, no es solo una arteria de transporte: es un milagro de sangre y lágrimas excavado en arenisca Szeleng, más dura que el acero, por 25 trabajadores fallecidos en servicio e innumerables héroes anónimos.'
 date: 2026-04-29
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
     'Túnel Hsuehshan',
@@ -13,14 +11,16 @@ tags:
     'milagro de ingeniería',
     'espíritu taiwanés',
   ]
+subcategory: '科技園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '9ecd20d6'
-sourceContentHash: 'sha256:9e7ddff3899aaa85'
-sourceBodyHash: 'sha256:909022379c9cd8a0'
-translatedAt: '2026-05-20T05:08:32+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:bafa69de0246ccbe'
+sourceBodyHash: 'sha256:d9ab34ee59f266bc'
+translatedAt: '2026-09-07T19:32:03.676563+00:00'
 ---
 
 > **Resumen en 30 segundos:**
@@ -68,13 +68,13 @@ El 16 de septiembre de 2004, el presidente Chen Shui-bian presidió la ceremonia
 
 Sin embargo, la conexión no significó el final. Las mejoras posteriores de los sistemas electromecánicos y de control de tráfico consumieron casi otros dos años. Lin Ling-san, entonces ministro de Transporte y Comunicaciones, enfrentó una gran presión política debido a los repetidos retrasos en las inspecciones de apertura, e incluso fue ridiculizado por legisladores que dijeron que era «demasiado realista con el premier Frank Hsieh» [^6]. Para el personal de ingeniería, no obstante, la seguridad era el único criterio: insistieron en abrir al tránsito solo cuando se garantizara que no habría riesgos.
 
-## Los nombres de los 25 fallecidos en servicio: el monumento del área de servicio de Shiding
+## Los nombres de los 25 fallecidos: el monumento en el área de servicio Shiding
 
-Cuando hoy atravesamos la cordillera Hsuehshan en apenas unos 40 minutos, con aire acondicionado dentro del túnel y escuchando la radio, pocas personas reparan en que, en un rincón del área de servicio de Shiding de la Autopista Nacional 5, se alza el «Monumento a los trabajadores fallecidos en servicio durante la construcción de la Autopista Taipéi-Yilan».
+Cuando hoy recorres el túnel con el aire acondicionado y la radio encendidos, y atraviesas la cordillera Hsuehshan en apenas unos 40 minutos, poca gente repara en que, en un rincón del área de servicio Shiding de la Autopista Nacional 5, se alza el «Monumento a los fallecidos en servicio durante la construcción de la Autopista Taipéi-Yilan».
 
-Este monumento fue erigido para conmemorar a los 25 trabajadores que murieron durante la construcción de la Autopista Taipéi-Yilan, incluido el Túnel Hsuehshan. Entre ellos había 12 ingenieros taiwaneses y 13 trabajadores tailandeses [^11]. Aunque toda la obra de la Autopista Taipéi-Yilan registró 25 fallecidos en servicio, alrededor de 13 de ellos murieron directamente en las obras del Túnel Hsuehshan [^19]. Algunos quedaron sepultados bajo tierra y rocas debido a derrumbes por socavación; otros fueron arrastrados por irrupciones de agua a alta presión; otros fallecieron por agotamiento a causa del aire adverso y las altas temperaturas dentro del túnel.
+Este monumento conmemora a los 25 trabajadores que perdieron la vida durante la construcción de la Autopista Taipéi-Yilan (incluido el Túnel Hsuehshan). Entre ellos había 12 ingenieros nacionales y 13 trabajadores tailandeses [^11]. Aunque en el conjunto de la obra de la Autopista Taipéi-Yilan hubo 25 fallecidos, aproximadamente 13 de ellos perdieron la vida directamente en la construcción del Túnel Hsuehshan [^19]. Algunos quedaron sepultados bajo tierra y rocas por derrumbes, otros fueron arrastrados por chorros de agua a alta presión, y otros más fallecieron por agotamiento debido al aire viciado y las altas temperaturas dentro del túnel.
 
-El monumento está hecho con la «arenisca Szeleng», la roca más dura del Túnel Hsuehshan, como símbolo de la dificultad y los desafíos de la obra. Su forma evoca el emblema de la Oficina Nacional de Ingeniería de Carreteras y la isla Guishan, y en la inscripción figuran los nombres de todos los fallecidos, junto con un resumen de la obra [^15]. Esas 25 vidas son la nota al pie más pesada tras la apertura del Túnel Hsuehshan. La culminación de este túnel dependió de la tecnología de ingeniería, pero también de los riesgos asumidos por innumerables trabajadores en la oscuridad subterránea.
+El monumento está hecho de «cuarcita», la roca más dura del Túnel Hsuehshan, simbolizando la dificultad y el desafío de la obra; su forma imita el emblema de la Dirección General de Autopistas y la [Isla Gueishan](/es/geography/gueishan-island/), y en su inscripción figuran los nombres de todos los fallecidos y un resumen de la obra [^15]. Estas 25 vidas son la nota al pie más pesada tras la apertura del Túnel Hsuehshan. La finalización de este túnel se debió a la tecnología de ingeniería, pero también al riesgo asumido por innumerables trabajadores en la oscuridad del subsuelo.
 
 ## Yilan después de la apertura: costos y beneficios de la tercera revolución
 

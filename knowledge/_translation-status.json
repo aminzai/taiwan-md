@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T03:49:57+08:00",
-    "zhCommitHead": "894afc9ee",
+    "lastUpdated": "2026-09-08T04:15:08+08:00",
+    "zhCommitHead": "3a282d5c0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 756,
+        "fresh": 757,
         "stale": 100,
         "metadata_stale": 32,
-        "missing": 233,
+        "missing": 232,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 761,
+        "fresh": 762,
         "stale": 94,
         "metadata_stale": 33,
-        "missing": 233,
+        "missing": 232,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 95,
         "metadata_stale": 34,
-        "missing": 235,
+        "missing": 234,
         "orphan": 0
       },
       "fr": {
@@ -84,25 +84,25 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 615,
+        "fresh": 616,
         "stale": 50,
         "metadata_stale": 14,
-        "missing": 442,
+        "missing": 441,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 680,
+        "fresh": 682,
         "stale": 58,
-        "metadata_stale": 20,
-        "missing": 363,
+        "metadata_stale": 19,
+        "missing": 362,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 708,
+        "fresh": 709,
         "stale": 61,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 331,
         "orphan": 0
       },
@@ -2219,8 +2219,8 @@
           "sourceContentHash": "sha256:5f5c57d9d0a5af84",
           "sourceBodyHash": "sha256:6ab99bf50b216a39",
           "translatedAt": "2026-09-08T00:42:58+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -20649,8 +20649,8 @@
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
           "translatedAt": "2026-09-07T19:49:25.741054+00:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -33056,18 +33056,16 @@
         "ar": {
           "path": "ar/Art/traditional-arts-of-taiwan.md",
           "translatedFrom": "Art/台灣傳統藝術.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
-          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translatedAt": "2026-09-08T00:42:57+08:00",
           "translationLastCommit": "83044859",
           "translationLastModified": "2026-07-26T04:13:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/traditional-arts-of-taiwan.md",
@@ -36456,8 +36454,8 @@
           "sourceContentHash": "sha256:103cffd41c084886",
           "sourceBodyHash": "sha256:afbe1eb00070eaa4",
           "translatedAt": "2026-09-08T00:42:58+08:00",
-          "translationLastCommit": "c48b762e",
-          "translationLastModified": "2026-07-27T07:04:20+08:00",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -41711,8 +41709,8 @@
           "sourceContentHash": "sha256:aa6de6422908baca",
           "sourceBodyHash": "sha256:a98b8189be962f59",
           "translatedAt": "2026-09-07T19:05:15.807016+00:00",
-          "translationLastCommit": "af0df5a4",
-          "translationLastModified": "2026-07-26T13:00:58+08:00",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -47544,8 +47542,8 @@
           "sourceContentHash": "sha256:a1c5d1e234e46093",
           "sourceBodyHash": "sha256:b982084e2fb1e6c4",
           "translatedAt": "2026-09-08T00:42:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -77175,8 +77173,8 @@
           "sourceContentHash": "sha256:6c850ed56b9fd45a",
           "sourceBodyHash": "sha256:f9ebc993a34e1749",
           "translatedAt": "2026-09-07T18:51:04.542572+00:00",
-          "translationLastCommit": "6bca3d7e",
-          "translationLastModified": "2026-08-04T14:12:15+08:00",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -78901,8 +78899,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-08T00:42:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -91637,16 +91635,49 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T00:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T00:42:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -91661,10 +91692,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T00:42:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T00:42:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -102062,8 +102115,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-09-08T00:42:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a282d5c",
+          "translationLastModified": "2026-09-08T03:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -107877,18 +107930,16 @@
         "ru": {
           "path": "ru/Food/taiwan-michelin-fine-dining.md",
           "translatedFrom": "Food/台灣米其林與精緻餐飲.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
-          "translatedAt": "2026-07-25T12:45:45+08:00",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
           "translationLastCommit": "22e583c8",
           "translationLastModified": "2026-07-25T14:27:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwan-michelin-fine-dining.md",
