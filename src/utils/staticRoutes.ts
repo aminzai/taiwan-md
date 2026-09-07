@@ -17,7 +17,7 @@ import type { Lang } from '../config/languages';
 import { LANGUAGES } from '../config/languages';
 
 const NON_DEFAULT_LANGS = LANGUAGES.filter(
-  (l) => l.enabled && !l.isDefault,
+  (l) => l.enabled && !('isDefault' in l && l.isDefault),
 ).map((l) => l.code) as readonly Lang[];
 
 interface PageNode {

@@ -54,12 +54,13 @@
  * can override any of them in our own @layer base. */
 @import 'tailwindcss/theme.css' layer(theme);
 @import 'tailwindcss/preflight.css' layer(base);
-@import 'tailwindcss/utilities.css' layer(utilities);
+@import 'tailwindcss/utilities.css' layer(utilities) source(none);
 
-/* Content scanning — tell Tailwind which files to look in for class
+/* Disable automatic repo scanning: archived reports contain illustrative classes.
+ * Content scanning — tell Tailwind which files to look in for class
  * names it should generate utilities for. The path is relative to
  * THIS file (src/styles/global.css). */
-@source "../**/*.{astro,ts,tsx,js,jsx,mdx}";
+@source "../**/*.{astro,ts,tsx,js,jsx,mjs,mts,mdx,md}";
 
 /* Phase 7 (2026-04-10): the `@theme` bridge block that mapped tokens →
  * Tailwind utilities (font-title, max-w-reading, rounded-card, etc.)

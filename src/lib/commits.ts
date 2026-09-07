@@ -157,7 +157,7 @@ async function getCommitsFromGitHub(limit = 100): Promise<Commit[]> {
     if (!Array.isArray(data)) return [];
 
     return data
-      .map((commit: any) => {
+      .map((commit: any): Commit | null => {
         const hash = commit?.sha;
         const date = commit?.commit?.author?.date;
         const author = commit?.commit?.author?.name;
@@ -165,7 +165,7 @@ async function getCommitsFromGitHub(limit = 100): Promise<Commit[]> {
         if (!hash || !date || !message) return null;
         return { hash, date, author, message };
       })
-      .filter(Boolean);
+      .filter((commit): commit is Commit => commit !== null);
   } catch {
     return [];
   }

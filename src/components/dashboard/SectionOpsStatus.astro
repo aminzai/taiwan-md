@@ -22,11 +22,39 @@ const opsStatusPath = path.join(
   process.cwd(),
   'public/api/dashboard-status.json',
 );
-const opsStatus = fs.existsSync(opsStatusPath)
+interface OpsStatus {
+  routines?: {
+    stale_hours: number | null;
+    items: Array<{
+      id: string;
+      enabled: boolean;
+      status: string;
+      cadence_human: string;
+      last_fire: string | null;
+      grid14: Array<{ date: string; state: string }>;
+    }>;
+  };
+  babel?: {
+    total_zh: number;
+    gap_total: number;
+    gap_delta_vs_prev: number;
+    fresh_delta_24h: number;
+    langs: Array<{
+      lang: string;
+      fresh: number;
+      stale: number;
+      coverage_pct: number;
+    }>;
+    nodes: Array<{ name: string; alive?: boolean; ok?: number; fail?: number }>;
+  };
+  incidents?: Array<{ level: string; text: string; ts: string }>;
+  deploys?: Array<{ conclusion: string; title: string; ts: string }>;
+}
+const opsStatus: OpsStatus | null = fs.existsSync(opsStatusPath)
   ? JSON.parse(fs.readFileSync(opsStatusPath, 'utf-8'))
   : null;
 
-function opsRelTime(iso) {
+function opsRelTime(iso: string | null) {
   if (!iso) return t('dashboard.ops.time.never');
   const diffMs = Date.now() - new Date(iso).getTime();
   if (diffMs < 0) return t('dashboard.ops.time.justNow');
@@ -40,12 +68,12 @@ function opsRelTime(iso) {
   return t('dashboard.ops.time.daysAgo').replace('{n}', String(days));
 }
 
-function opsGapArrow(delta) {
+function opsGapArrow(delta: number) {
   if (!delta) return '=0';
   return delta > 0 ? `▲${delta}` : `▼${Math.abs(delta)}`;
 }
 
-const OPS_STATUS_LABEL = {
+const OPS_STATUS_LABEL: Record<string, string> = {
   operational: t('dashboard.ops.status.operational'),
   degraded: t('dashboard.ops.status.degraded'),
   down: t('dashboard.ops.status.down'),

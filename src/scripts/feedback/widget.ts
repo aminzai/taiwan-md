@@ -423,7 +423,7 @@ class Widget {
   private renderAuth(): void {
     const t = this.t;
     const oauthProviders = FEEDBACK_PROVIDERS.filter(
-      (p) => p === 'google' || p === 'github',
+      (p: string) => p === 'google' || p === 'github',
     ) as OAuthProvider[];
     const hasEmail = FEEDBACK_PROVIDERS.includes('email');
     const labels: Record<OAuthProvider, string> = {

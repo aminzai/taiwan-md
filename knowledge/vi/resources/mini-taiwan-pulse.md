@@ -23,6 +23,15 @@ sourceCommitSha: '31a871b9'
 sourceContentHash: 'sha256:3100c78e3e84a12add36d6426705108e81b8eb560b532aa751fe9e4ff63831e3'
 sourceBodyHash: 'sha256:409b7d5c9d0f3bbd4cbdfa1454ceb7d6576908a3d9d6f079d06a535d4717d7a8'
 translatedAt: '2026-07-31T00:00:00Z'
+sporeLinks:
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 ---
 
 # Mini Taiwan Pulse — Trực quan hoá 3D lưu thông Đài Loan thời gian thực 🌐

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T22:13:51.501Z",
+  "generated_at": "2026-09-07T09:32:07.734Z",
   "routines": {
-    "fetched_at": "2026-09-06T06:15:39+08:00",
-    "stale_hours": 24,
+    "fetched_at": "2026-09-07T06:15:07+08:00",
+    "stale_hours": 11.3,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -10,7 +10,7 @@
         "cadence_human": "每天 07:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-06T07:09:19+08:00",
+        "last_fire": "2026-09-07T07:08:48+08:00",
         "grid14": [
           {
             "date": "2026-08-25",
@@ -66,7 +66,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -74,8 +74,8 @@
         "id": "twmd-babel-nightly",
         "cron": "30 0 * * *",
         "cadence_human": "每天 00:30",
-        "enabled": false,
-        "status": "disabled",
+        "enabled": true,
+        "status": "operational",
         "last_fire": "2026-09-07T02:04:33+08:00",
         "grid14": [
           {
@@ -141,8 +141,8 @@
         "cron": "0 6 * * *",
         "cadence_human": "每天 06:00",
         "enabled": true,
-        "status": "degraded",
-        "last_fire": "2026-09-06T06:16:50+08:00",
+        "status": "operational",
+        "last_fire": "2026-09-07T06:16:21+08:00",
         "grid14": [
           {
             "date": "2026-08-25",
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "missed"
+            "state": "fired"
           }
         ]
       },
@@ -406,7 +406,7 @@
         "cadence_human": "每天 08:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-06T08:57:45+08:00",
+        "last_fire": "2026-09-07T09:11:42+08:00",
         "grid14": [
           {
             "date": "2026-08-25",
@@ -462,7 +462,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -801,7 +801,7 @@
         "cron": "30 6 * * *",
         "cadence_human": "每天 06:30",
         "enabled": true,
-        "status": "operational",
+        "status": "degraded",
         "last_fire": "2026-09-06T06:49:49+08:00",
         "grid14": [
           {
@@ -858,7 +858,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -924,7 +924,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -990,7 +990,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1122,7 +1122,7 @@
           },
           {
             "date": "2026-09-07",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1304,12 +1304,6 @@
   },
   "incidents": [
     {
-      "ts": "2026-09-06",
-      "level": "yellow",
-      "text": "routine twmd-routine-sync 沉默死亡：2026-09-05T21:35 fire 後 24.6h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log"
-    },
-    {
       "ts": "2026-07-05",
       "level": "yellow",
       "text": "免疫 v3=59：漂移 — 多維度退化中",
@@ -1318,29 +1312,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-06T21:41:24Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-09-07 05:39 — 18/18 prom…"
-    },
-    {
-      "ts": "2026-09-06T21:39:01Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-07 05:37 — 13 語…"
-    },
-    {
-      "ts": "2026-09-06T21:37:38Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-07 05:37"
-    },
-    {
-      "ts": "2026-09-06T18:18:40Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-babel-nightly @ 2026-09-07 02:04 — preflight…"
-    },
-    {
-      "ts": "2026-09-06T18:14:41Z",
+      "ts": "2026-09-07T06:30:36Z",
       "conclusion": "success",
       "title": "Routine stall alert: Routine stall alert"
+    },
+    {
+      "ts": "2026-09-07T01:13:42Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-maintainer-am @ 2026-09-07 09:11 — 同一個數字在七個語…"
+    },
+    {
+      "ts": "2026-09-07T01:11:39Z",
+      "conclusion": "success",
+      "title": "Sticky viewport gate: 🧬 [routine] lessons: 格式化器改壞它自己要格式化的網址，以及設定檔存中文網址被十二個語言各自加前綴"
+    },
+    {
+      "ts": "2026-09-07T01:11:39Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] lessons: 格式化器改壞它自己要格式化的網址，以及設定檔存中文網址被十二個語言各自加前綴"
+    },
+    {
+      "ts": "2026-09-07T01:11:39Z",
+      "conclusion": "success",
+      "title": "UI language gate: 🧬 [routine] lessons: 格式化器改壞它自己要格式化的網址，以及設定檔存中文網址被十二個語言各自加前綴"
     }
   ]
 }

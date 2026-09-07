@@ -24,5 +24,5 @@ export function getLiveArticleCount(fallback = 752): number {
   } catch {
     _cached = fallback;
   }
-  return _cached;
+  return _cached ?? fallback;
 }

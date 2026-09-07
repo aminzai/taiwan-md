@@ -1,6 +1,18 @@
 import { useTranslations } from '../i18n/utils';
 
-export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
+export interface CategoryConfig {
+  name: string;
+  description: string;
+  description_en?: string;
+  icon: string;
+  color: string;
+  colorLight: string;
+  gradient: string;
+  cover: string;
+}
+export const getCategoryConfigs = (
+  t: ReturnType<typeof useTranslations>,
+): Record<string, CategoryConfig> => ({
   about: {
     name: t('categoryConfig.about'),
     description: t('categoryConfig.about.description'),

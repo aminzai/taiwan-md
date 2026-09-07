@@ -58,11 +58,11 @@ export async function GET() {
             guid: link,
           });
         } catch (err) {
-          console.log(`Error processing file ${file}:`, err.message);
+          console.log(`Error processing file ${file}:`, String(err));
         }
       }
     } catch (err) {
-      console.log(`Error processing category ${categorySlug}:`, err.message);
+      console.log(`Error processing category ${categorySlug}:`, String(err));
     }
   }
 

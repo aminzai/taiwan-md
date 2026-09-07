@@ -9,7 +9,7 @@
     "postinstall": "bash scripts/core/sync.sh",
     "twmd": "node scripts/twmd.mjs",
     "dev": "npm run prebuild:sync && npm run prebuild:gitinfo && (python3 scripts/core/generate-newsroom-data.py --quiet || true) && astro dev",
-    "prebuild": "npm run prebuild:sync && npm run prebuild:status && npm run prebuild:aliases && run-p prebuild:api prebuild:map prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:verify-contributors prebuild:supporters prebuild:china-terms prebuild:fork-graph prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og prebuild:i18n prebuild:content-dates prebuild:gitinfo prebuild:content-stats prebuild:i18n-progress prebuild:llms prebuild:stats && npm run prebuild:search && npm run prebuild:latest && npm run prebuild:redirects",
+    "prebuild": "npm run prebuild:icons && npm run prebuild:sync && npm run prebuild:status && npm run prebuild:aliases && run-p prebuild:api prebuild:map prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:verify-contributors prebuild:supporters prebuild:china-terms prebuild:fork-graph prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og prebuild:i18n prebuild:content-dates prebuild:gitinfo prebuild:content-stats prebuild:i18n-progress prebuild:llms prebuild:stats && npm run prebuild:search && npm run prebuild:latest && npm run prebuild:redirects",
     "prebuild:sync": "bash scripts/core/sync.sh",
     "prebuild:status": "python3 scripts/tools/lang-sync/status.py && python3 scripts/tools/sync-translations-json.py && python3 scripts/tools/sync-spore-links.py --apply",
     "prebuild:api": "node scripts/core/generate-api.js",
@@ -73,14 +73,19 @@
     "check:ui-lang": "node scripts/tools/check-ui-language.mjs",
     "check:tmpl-lang": "node scripts/tools/check-template-language.mjs",
     "check:rendered-lang": "node scripts/tools/check-rendered-language.mjs --dist dist --lang ar",
-    "check:sticky": "node scripts/tools/check-sticky-viewport.mjs"
+    "check:sticky": "node scripts/tools/check-sticky-viewport.mjs",
+    "test:contracts": "npm run test:markdown && npm run test:heading-id && node --test tests/pr-changed-files.test.mjs tests/dashboard-coverage.test.mjs tests/dashboard-safe-html.test.mjs tests/ui-icons.test.mjs workers/mcp/test/*.test.js && npm run feedback:test",
+    "check:types": "astro check --minimumFailingSeverity error --minimumSeverity error",
+    "prebuild:icons": "node scripts/core/generate-icons.mjs"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.3.0",
     "@astrojs/rss": "^4.0.17",
     "@astrojs/sitemap": "^3.7.1",
     "@supabase/supabase-js": "^2.106.2",
     "@tailwindcss/vite": "^4.2.2",
-    "astro": "^6.2.1",
+    "astro": "^7.3.1",
+    "d3": "^7.9.0",
     "gray-matter": "^4.0.3",
     "marked": "^17.0.4",
     "marked-cjk-friendly": "^0.1.0",
@@ -90,16 +95,20 @@
     "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@types/d3": "^7.4.3",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
     "npm-run-all2": "^8.0.4",
     "opencc-js": "^1.0.5",
+    "parse5": "^8.0.1",
     "pixelmatch": "^6.0.0",
     "playwright": "^1.59.1",
     "pngjs": "^7.0.0",
     "prettier": "^3.8.1",
     "prettier-plugin-astro": "0.14.1",
-    "sharp": "^0.34.5"
+    "sharp": "^0.35.4",
+    "typescript": "^5.9.3"
   },
   "bin": {
     "twmd": "./scripts/twmd.mjs"

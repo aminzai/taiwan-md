@@ -1,4 +1,5 @@
 ---
+tags: ['ローバー号事件', '卓杞篤']
 translatedFrom: History/羅發號事件與卓杞篤.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e90be2fbc74d7ed'

@@ -1,0 +1,75 @@
+{
+  "measuredAt": "2026-09-07",
+  "source": ".taiwanmd/wake-context.latest.md",
+  "totalBytes": 231906,
+  "totalLines": 1333,
+  "note": "Static volume measurement, not a claim of full reading or tokenizer count.",
+  "sections": [
+    {
+      "section": "manifesto-core",
+      "lines": 627,
+      "utf8Bytes": 59468,
+      "characters": 34762
+    },
+    {
+      "section": "reflexes-index",
+      "lines": 105,
+      "utf8Bytes": 15325,
+      "characters": 12499
+    },
+    {
+      "section": "reflexes-top5",
+      "lines": 60,
+      "utf8Bytes": 19073,
+      "characters": 11680
+    },
+    {
+      "section": "memory-head",
+      "lines": 71,
+      "utf8Bytes": 5150,
+      "characters": 3463
+    },
+    {
+      "section": "neural",
+      "lines": 180,
+      "utf8Bytes": 71190,
+      "characters": 40661
+    },
+    {
+      "section": "memory-rows",
+      "lines": 20,
+      "utf8Bytes": 7031,
+      "characters": 4473
+    },
+    {
+      "section": "diary-recur",
+      "lines": 74,
+      "utf8Bytes": 19832,
+      "characters": 10671
+    },
+    {
+      "section": "diary-rows",
+      "lines": 20,
+      "utf8Bytes": 15380,
+      "characters": 11270
+    },
+    {
+      "section": "handoff",
+      "lines": 13,
+      "utf8Bytes": 1283,
+      "characters": 759
+    },
+    {
+      "section": "groundtruth",
+      "lines": 139,
+      "utf8Bytes": 16401,
+      "characters": 12548
+    },
+    {
+      "section": "selftest",
+      "lines": 12,
+      "utf8Bytes": 985,
+      "characters": 655
+    }
+  ]
+}

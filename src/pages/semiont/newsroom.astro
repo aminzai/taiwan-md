@@ -151,7 +151,9 @@ function artifacts(a: Card) {
 }
 
 const prio = (a: Card) =>
-  ({ P0: 0, P1: 1, P2: 2, P3: 3 })[(a.priority ?? '').trim()] ?? 4;
+  (({ P0: 0, P1: 1, P2: 2, P3: 3 }) as Record<string, number>)[
+    (a.priority ?? '').trim()
+  ] ?? 4;
 const inboxByPrio: Record<string, Card[]> = {
   P0: [],
   P1: [],

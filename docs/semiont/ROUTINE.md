@@ -4,9 +4,9 @@ description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled �
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.24'
-last_updated: 2026-09-06
-last_session: '2026-09-06-041909-twmd-self-evolve-weekly（回填現行 5 條 ⏸️ 各自的解除條件 + due_date: 2026-10-06；順手修正 §暫停 SOP 步驟 3 誤把已於 9/5 恢復的 twmd-babel-nightly 列進「目前 5 條」、漏列實際仍暫停的 twmd-flywheel-watch）'
+current_version: 'v2.25'
+last_updated: 2026-09-07
+last_session: '2026-09-07-164559-audit-upgrade（將已決手動模式與有期限暫停分開，補 machine-readable 決策例外）'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -64,6 +64,30 @@ upstream_canonical:
 
 **⏸️ PAUSED**：暫停中的一律在上方排程表該列標 ⏸️（不另立表，避免同一條在兩處各說各話）。目前 5 條：`twmd-spore-pick-daily` / `twmd-spore-publish-daily`（註 ¹³）、`twmd-rewrite-daily`（註 ²¹）、`twmd-founder-lens-weekly`（註 ²³）、`twmd-flywheel-watch`（註 ²⁵）。
 
+<!-- routine-decisions:start -->
+
+```json
+{
+  "twmd-rewrite-daily": {
+    "state": "manual-by-decision",
+    "due_date": null,
+    "decision_ref": "OBSERVER-QUEUE.md：2026-09-05 生成側 routine 重開與否"
+  },
+  "twmd-spore-pick-daily": {
+    "state": "manual-by-decision",
+    "due_date": null,
+    "decision_ref": "OBSERVER-QUEUE.md：2026-09-05 生成側 routine 重開與否"
+  },
+  "twmd-spore-publish-daily": {
+    "state": "manual-by-decision",
+    "due_date": null,
+    "decision_ref": "OBSERVER-QUEUE.md：2026-09-05 生成側 routine 重開與否"
+  }
+}
+```
+
+<!-- routine-decisions:end -->
+
 **🪦 已退休**（排程已刪除，不再對賬；退場不刪除紀錄，per MANIFESTO §時間是結構修補協議）：
 
 | TaskId                            | 原 slot    | 退休日     | 為什麼退 / 功能去哪了                                                                                                                                                                                                                                                                                                           |
@@ -72,7 +96,7 @@ upstream_canonical:
 | `twmd-maintainer-pm` ¹ ⁴          | 每天 22:00 | 2026-07-25 | 2026-07-08 哲宇直接在排程器 disable，空場 empty-vc 連 3 週；am 單班已吸收全部 triage。2026-07-25 哲宇拍板「maintainer 去除 am/pm 差別，整合留一個」→ 正式退休，`twmd-maintainer-daily` 成為唯一一班（skill 兩者本來就共用 `/twmd-maintainer`，無需改動）                                                                        |
 | `twmd-music-media-audit-weekly` ⁵ | 週六 10:00 | 2026-07-25 | 2026-05-25 起已 disabled 兩個月，哲宇 2026-07-25 拍板「這是之前的暫時解」。功能已被常規閘門吸收：baseline 進 EDITORIAL §媒體編織、閘門進 REWRITE Stage 4 媒體插入六子步、`article-health` 的 `image-health` + `media-richness` + `viz-health` 每篇都跑。Skill 與 `music-media-audit.py` 保留供 manual `/twmd-music-media-audit` |
 
-¹³ **spore-pick / spore-publish live 狀態（v2.13 對齊，2026-07-05 dna-audit）** — live scheduler 兩 task `enabled: false`、lastRun 皆 2026-06-14：v2.10 重開實驗實際只跑了 6/13-6/14 就再度停用，本檔 21 天列 active = v2.9「死 routine 列 active 15 天」教訓第二次重演。**是否三度重啟或正式走 §暫停 SOP → pending 哲宇（OBSERVER-QUEUE）**；本次只把 SSOT 對齊 live 事實，不代做裁決。出口停轉期間 SPORE-INBOX 靠 distill auto-drop 每週洩壓（pin 在 49-53 條），上游 news-lens 每週 +5 照餵。根治儀器：scheduler live-state 每日 dump（見 routine-sync-check v2 candidate）。**解除條件**：哲宇拍板「三度重啟」或「正式退休」其中之一；沒有客觀指標會自動觸發（SPORE-INBOX 高原本身不構成壓力）。**到期日**：due_date: 2026-10-06（30 天週期檢查，非哲宇未決則升 OBSERVER-QUEUE）。
+¹³ **spore-pick / spore-publish live 狀態（v2.13 對齊，2026-07-05 dna-audit）** — live scheduler 兩 task `enabled: false`、lastRun 皆 2026-06-14：v2.10 重開實驗實際只跑了 6/13-6/14 就再度停用，本檔 21 天列 active = v2.9「死 routine 列 active 15 天」教訓第二次重演。**2026-09-05 已決：維持手動，不設到期日**；本次只把 SSOT 對齊 live 事實，不代做裁決。出口停轉期間 SPORE-INBOX 靠 distill auto-drop 每週洩壓（pin 在 49-53 條），上游 news-lens 每週 +5 照餵。根治儀器：scheduler live-state 每日 dump（見 routine-sync-check v2 candidate）。**解除條件**：哲宇拍板「三度重啟」或「正式退休」其中之一；沒有客觀指標會自動觸發（SPORE-INBOX 高原本身不構成壓力）。**決策狀態**：manual-by-decision；due_date: none；decision_ref: OBSERVER-QUEUE「生成側 routine 重開與否」（2026-09-05）。這是已決的無到期日手動模式，不得由週期檢查自動加期限或重開。
 
 ¹⁵ **weekly-report 升體檢週（v4.0，2026-07-10 哲宇拍板）** — 哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。`twmd-weekly-report-sun` 從「反芻週報」升「體檢週」：[WEEKLY-REPORT-PIPELINE v4.0](../pipelines/WEEKLY-REPORT-PIPELINE.md) 新增 Stage 2.5 全身診斷（v4.1 起 `weekly-checkup.sh` 一鍵七節：五診斷面含 `routine-liveness-check.py` fire-vs-commit 驗屍＋f 外部感測摘要＋g 運作紀錄週成績單——哲宇原話範圍「一週發生的事／外部感測數據／所有運作紀錄／深度研究報告／進化規劃」逐項對應 stage，儀器化降 agent 認知負荷）＋ Stage 2.7 修復與進化（三桶：≤3 項機械修當場修 / roll evolution-roadmap / 進 OBSERVER-QUEUE），週報章節 7+1 → 10（+體檢 +修復紀錄）。**時間紀律**：02:55 檢查點防撞 03:00 distill，未完修復全轉 roadmap。**週日反思鏈四工位分工**（防 REFLEXES #74 信號通膨）：weekly-report=ground-truth 體檢＋機械修復 / distill=LESSONS→canonical / self-evolve=LONGINGS canonical ship / routine-audit=行為 pattern。evolution-roadmap 從此有每週 owner（本 routine roll），治 dna-audit §S4「偵測有修復無」病。範本：7/10 weekly-deep-review 手動 session。**v4.2（2026-07-12 哲宇 /goal）**：週報收件人從哲宇單人升「To=哲宇 + BCC=近 90 天共生圈」（commit / PR / issue / 留言參與者；受眾儀器 `weekly-report-recipients.py` 隨本 routine 每週自動同步名單與活躍度，`weekly-checkup.sh` i 節內建）。隱私三不與失敗降級規則在 [WEEKLY-REPORT-PIPELINE §Stage 5](../pipelines/WEEKLY-REPORT-PIPELINE.md)。cadence 不變、無新 cron。
 
@@ -98,7 +122,7 @@ parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調�
 
 ²³ **founder-lens 停跑（2026-07-26 哲宇 directive「founder-lens 也先不跑，我覺得效果不好」）** — `twmd-founder-lens-weekly` 是飛輪裡唯一「刻意離開顱骨」的實驗（週六 22:00 冷讀活產物 + off-repo 訊號 → 哲宇-voice 提案）。上線 2026-07-12，實跑約兩個 cycle，哲宇判定產出品質不值那個 Opus 成本。**先 ⏸️ 不退休**：pipeline 與 skill 完整保留，`/twmd-founder-lens` 手動可跑；「效果不好」是品質判斷不是功能被吸收，跟 music-media 那種「標準已長進常規路徑」的退休理由不同，留著等它有更好的設計再談恢復或退場。恢復走 §恢復暫停的 routine。**解除條件**：pipeline 重新設計出更值 Opus 成本的產出形式並哲宇拍板，或哲宇主動要求恢復現行版。**到期日**：due_date: 2026-10-06（30 天週期檢查，非哲宇未決則升 OBSERVER-QUEUE）。
 
-²¹ **rewrite 兩台皆停，改回手動觸發（2026-07-25 深夜哲宇 directive「twmd-rewrite 我在兩台機器上都先 disable 了，避免未來算力爆炸，我先手動控制」）** — `twmd-rewrite-daily` 是飛輪裡最貴的一條（Opus ＋ 完整 REWRITE-PIPELINE 全程），跟同期在指揮部驅動的算力軍團批次疊加會把訂閱額度打爆（當晚營運機已撞過一次 5 小時上限）。**這不是退休**：skill 與 pipeline 原封不動，`/twmd-rewrite` 手動隨時可跑，寫文章的能力沒有損失，變的只是「誰決定何時開跑」從 cron 回到哲宇。恢復走 §恢復暫停的 routine。本檔標 ⏸️ 是為了讓 `flywheel-watch` 不把它報成靜默——SSOT 說該跑卻沒跑，才叫警報（同註 ¹⁹）。**解除條件**：算力壓力解除（軍團批次收工或訂閱額度餘裕回穩）並哲宇拍板重開，或哲宇主動要求恢復。**到期日**：due_date: 2026-10-06（30 天週期檢查，非哲宇未決則升 OBSERVER-QUEUE）。
+²¹ **rewrite 兩台皆停，改回手動觸發（2026-07-25 深夜哲宇 directive「twmd-rewrite 我在兩台機器上都先 disable 了，避免未來算力爆炸，我先手動控制」）** — `twmd-rewrite-daily` 是飛輪裡最貴的一條（Opus ＋ 完整 REWRITE-PIPELINE 全程），跟同期在指揮部驅動的算力軍團批次疊加會把訂閱額度打爆（當晚營運機已撞過一次 5 小時上限）。**這不是退休**：skill 與 pipeline 原封不動，`/twmd-rewrite` 手動隨時可跑，寫文章的能力沒有損失，變的只是「誰決定何時開跑」從 cron 回到哲宇。恢復走 §恢復暫停的 routine。本檔標 ⏸️ 是為了讓 `flywheel-watch` 不把它報成靜默——SSOT 說該跑卻沒跑，才叫警報（同註 ¹⁹）。**解除條件**：算力壓力解除（軍團批次收工或訂閱額度餘裕回穩）並哲宇拍板重開，或哲宇主動要求恢復。**決策狀態**：manual-by-decision；due_date: none；decision_ref: OBSERVER-QUEUE「生成側 routine 重開與否」（2026-09-05）。這是已決的無到期日手動模式，不得由週期檢查自動加期限或重開。
 
 ²⁰ **flywheel-watch（v2.19，2026-07-25 哲宇 directive「我這台的 twmd routine 可以刪一刪，除了監看 mouhouse 用的之外」）** — 飛輪 7/24 整批遷 mouhouse 後，指揮部這台的 18 條 twmd 排程全數刪除（prompt 檔留在原地當暖備援，mouhouse 掛了可就地重建）。但刪完會留下一個洞：**沒有任何一條 routine 在看飛輪還活著沒有**，而飛輪曾經靜默死 15 天全部儀器無聲——因為那些儀器都跑在飛輪自己身上（儀器只看見存在，看不見缺席，REFLEXES #82 / #69）。所以這條刻意跑在**不營運的那台**，唯一資訊來源是 `origin/main` 的 commit 紀錄（git 是兩台都騙不了的 ground truth）。儀器 [`scripts/tools/flywheel-watch.py`](../../scripts/tools/flywheel-watch.py)：窗口內零筆 `[routine]` commit → CRITICAL（整體停轉）；單條該跑沒留 commit → WARN（空場也長這樣，所以只給 WARN）；live dump > 48hr → WARN。**節點標記 `🖥️commander-macbook`**：這條只屬指揮部，`routine-sync.py` 讀 `.taiwanmd/node-name.local` 判斷本機是不是它的家，不是就整列跳過——否則營運機每天會被報成缺一條 prompt。首跑當場校準掉兩種假陽性（weekly 時刻未到、routine 只留 `[semiont] memory:` 收官痕跡沒留 `[routine]`），per REFLEXES #66 閾值要用真實產出校。**第一個排程 cycle（2026-07-26 09:35）再校掉第三種**：distill-weekly 當天 03:15 真的跑完，產出 commit 卻寫成 `[semiont] distill:`，窗口內沒有一筆 subject 帶得出 taskId 就被報成靜默。修法是給儀器第二把獨立的尺——MEMORY.md 索引列的 session-id handle（`| 日期 | HHMMSS-handle |`），兩把都不中才算靜默（REFLEXES #69 每層自評都需要外部尺）。同 cycle 補一道 fail-loud：讀不到 `.taiwanmd/node-name.local` 時把「帶 🖥️ 標記的列這次沒檢查」印到 stderr，不再靜靜縮小檢查範圍。**收官必須從 `origin/main` 開 worktree 推（2026-08-08 立為本註的一部分，同型第三次）**：指揮部這台的主工作樹同時在驅動巴別塔產線，本機 main 長期領先 origin 數十筆全是產線中間產物，於是本 routine 的收官 commit 既推不動（非快轉）也不該推（會把產線一起帶上去）。8/2 與 8/7 兩次收官就這樣停在本機，隔天被自己的儀器讀成靜默——**這條 routine 是唯一會被自己量到的 routine，它的紀錄沒進 `origin/main` 就等於沒發生**。固定做法：`git worktree add --detach .worktrees/YYYYMMDD-flywheel-watch origin/main` → symlink `node_modules`/`.env`/`.credentials`（husky 要用）→ 在裡面寫 memory + 索引列 → commit → `git push origin HEAD:main` → `git worktree remove`。主工作樹一根手指都不碰，鐵律的「不 pull」守住。8/3 已經發現這條路徑但只寫進 handoff，8/7 就漏掉了——per REFLEXES #15，handoff 是自律、註腳才是下一個 session 讀得到的閘門。
 
@@ -903,7 +927,7 @@ v2.0 routine spec 預設「fire → work → commit → die」，但 `babel-nigh
 
 1. 改本檔 §排程表把該 routine 標 `⏸️ paused`
 2. 跑 `mcp__scheduled-tasks__update_scheduled_task` 設 `enabled: false`
-3. **必填解除條件 + 到期日**（2026-09-06 twmd-distill-weekly 新增，per LESSONS `pause-without-exit-condition-becomes-the-default`）：暫停的註腳當下就要寫清楚「什麼情況發生就該恢復」與一個具體到期日，不能只寫暫停理由。沒有出口的暫停在 SOP 層面等於退休，只是文字上否認——`twmd-babel-nightly` 當初也是這樣缺解除條件才空轉 42 天，直到兩週體檢意外抓到才在 2026-09-05 恢復（已不在 ⏸️ 清單，本註寫下的當下就過期一天，是「建造與登記兩個不同步的代謝」REFLEXES #91 在本檔自己身上的復發）。目前 §排程表實際的 5 條 ⏸️（`twmd-rewrite-daily` 註 ²¹ / `twmd-spore-pick-daily` + `twmd-spore-publish-daily` 註 ¹³ / `twmd-founder-lens-weekly` 註 ²³ / `twmd-flywheel-watch` 註 ²⁵）已於 2026-09-06 twmd-self-evolve-weekly 全數補上解除條件與到期日（見各自註腳）。到期日一到若無人主動恢復或延期，下一輪 `twmd-weekly-report-sun` Stage 2.7 或 `twmd-routine-audit-weekly` 讀到過期未決的暫停，一律升 OBSERVER-QUEUE 給觀察者裁決「延期 / 恢復 / 轉退休」三選一
+3. **一般暫停必填解除條件 + 到期日**：註腳寫清楚恢復條件及具體檢視日期。到期仍未決，週報或 routine audit 才升 OBSERVER-QUEUE。**已決的手動模式例外**：若觀察者明確選擇手動觸發，登記 `state: manual-by-decision`、`due_date: null` 與決策來源；維持 disabled，不能由定期檢查自動加期限、重開或反覆升未決佇列。本檔上方 `routine-decisions` 區段為同一 SSOT 的機器可讀資料。現行 rewrite、spore-pick、spore-publish 屬此例外；founder-lens、flywheel-watch 仍依各自註腳檢視。
 4. commit 三處改動同 PR
 
 ### 修改 cadence / skill / quality gate

@@ -11711,7 +11711,7 @@
     "commitHash": "5e15a7d9",
     "commitSubject": "🧬 [routine] heal: 中秋與博客來兩篇新文 merge 後修補 — 換掉查不到的來源，改正三處年份",
     "description": "台灣的中秋節會烤肉，多數人以為是「一家烤肉萬家香」那支醬油廣告造成的。但翻回 1980 年代的報紙，烤肉出現得比廣告更早：1982 年新竹的烤肉爐外銷不景氣、廠商轉內銷，才是那年中秋滿街炭火的起點。這篇要看的，是一則廣告詞如何後來居上，變成一整座島嶼共同的節慶記憶。",
-    "healthScore": 50,
+    "healthScore": 45,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -11752,7 +11752,7 @@
     "commitHash": "5e15a7d9",
     "commitSubject": "🧬 [routine] heal: 中秋與博客來兩篇新文 merge 後修補 — 換掉查不到的來源，改正三處年份",
     "description": "1995 年底創辦、1996 年開站的博客來，是台灣第一家網路書店。它靠著「7-ELEVEN 取貨付款」這招，替整個台灣網購市場拆除了信任與物流的炸彈；其後加入統一超商，長成全台規模最大的線上圖書與質感生活通路。這篇文要看的，是它如何把一箱箱書送到你巷口，最後長成了統一集團數位版圖中最具原生基因的老長子。",
-    "healthScore": 41,
+    "healthScore": 36,
     "qualityScore": 4,
     "formatIssues": 1,
     "hasOverview": true,
@@ -15724,8 +15724,8 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 5,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "花蓮縣：129 年隱身的撒奇萊雅族，用正名換回的太魯閣，0403 又讓它遠去",
@@ -16275,7 +16275,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "976dcae4",
     "commitSubject": "🧬 [semiont] polish: 台灣捷運發展史.md 標點淨化（破折號 16→15、分號 3→3）",
     "description": "209 噸鋼梁從天而降奪走 4 條人命，16.4 億賠款，台北捷運本業至今仍在虧錢——全台捷運背後的真實代價",
@@ -17222,8 +17222,8 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 9,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 1,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "康士坦的變化球：「樂團不是靠堅持，不好玩就散了」的十年",
@@ -17604,7 +17604,7 @@
       "ru": false,
       "de": false
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "d5ca846b",
     "commitSubject": "🧬 [semiont] polish: 莫那·魯道.md 標點淨化（破折號 2→2、分號 35→12）",
     "description": "2001 年，台灣央行把抗日英雄莫那·魯道的臉刻上二十元硬幣。但造幣廠找遍國內史料都沒有他的照片，最後是在一本日文雜誌裡撈出來的。從 1930 年霧社運動會那個清晨，到一具當了約四十年人類學標本的遺骸，三個政權各自需要他。而他真正捍衛的那個有彩虹橋、紋面、Gaya 的世界裡，從來沒有中國，也沒有日本。",
@@ -18592,7 +18592,7 @@
     "commitHash": "80520085",
     "commitSubject": "🧬 [semiont] polish: 台灣的年級生世代.md 標點淨化（破折號 0→0、分號 21→12）",
     "description": "1993 年「草莓族」第一次印出來時，罵的是現在最愛懷舊養樂多的五年級生。三十年來被罵的人換了好幾批，標籤一字沒改。真正在五到九年級之間移動的，是那座「努力就有回報」的扶梯：它在 2002 年前後變慢，入口被房價拉高，然後裂成兩條，純靠薪水的那條近乎停了，靠父母資本的那條還在動。",
-    "healthScore": 47,
+    "healthScore": 42,
     "qualityScore": 5,
     "formatIssues": 0,
     "hasOverview": true,
@@ -19343,8 +19343,8 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 6,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "台灣的 AI 日常——當人工智慧走進街頭巷尾",
@@ -19432,8 +19432,8 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 53,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "台灣無人機產業：從台中玩具飛機到藍色清單，一張入場券給了雷虎",
@@ -20349,8 +20349,8 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 21,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 1,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "視覺化模組型錄：十九種看見台灣數據的方法",
@@ -20990,8 +20990,8 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 33,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 1,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "AAMA 台北搖籃計畫：一群本可退休的人，用最慢的方式把手藝交出去",
@@ -22106,7 +22106,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "3011828b",
@@ -24191,7 +24191,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 6,
+    "revision": 7,
     "commitHash": "40517470",
     "commitSubject": "🧬 [semiont] rewrite: 小虎隊 EVOLVE — 進口零件組裝的台灣青春，與「還是不是台灣的」主權考題",
     "description": "1988 年華視一個選秀節目要找三個男生陪小貓隊唱跳，結果挑出一組翻唱日本歌、模仿日本少年隊的偶像團體。從五天賣二十萬張，到一路被粉絲從台北追到高雄，再到 1991 年開過海峽。零件幾乎全是進口的，台灣卻把它記成最堅固的一代青春，而最紅的三個身體後來都過了海峽。",
@@ -26446,8 +26446,8 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 20,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "赤燭遊戲：一張符咒擋不住的台灣故事",
@@ -27252,7 +27252,7 @@
       "ru": false,
       "de": false
     },
-    "revision": 16,
+    "revision": 17,
     "commitHash": "dbb8d44c",
     "commitSubject": "🧬 [twmd-rewrite] P0-4 evolve+section-addition: 2024 雙諾貝爾 → 台灣人工智慧發展與未來策略",
     "description": "2024 年 10 月 8 日諾貝爾物理頒給 Hopfield 與 Hinton，隔天化學頒給 AlphaFold 三人。同年 5 月 29 日，黃仁勳在台北寧夏夜市跟張忠謀吃蚵仔煎。台灣製造了全球 90% 的 AI 伺服器、72% 的先進晶圓，卻在 42 年神經網路與 50 年蛋白質摺疊難題的解答裡缺席。從 PTT 創辦人杜奕瑾的 Taiwan AI Labs 到國科會押注的繁中 LLM 模型 TAIDE，這座島只當代工廠還夠嗎？",
@@ -29470,8 +29470,8 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 17,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "台灣與立陶宛：在民主價值與地緣政治現實間協商的夥伴關係",
@@ -32490,7 +32490,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "f553d365",
     "commitSubject": "🧬 [semiont] rewrite: 林良 EVOLVE — 廈門推行員到戰後台灣兒童文學奠基者（1924-2019 全弧 / 九龍江畔 hook）",
     "description": "從 1944 年九龍江畔失去父親的長子，到 2019 年 12 月在睡夢中離世的 95 歲爺爺。林良用 73 年證明：孩子值得被當成完整的讀者。",
@@ -35331,7 +35331,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "cc65d0f3",
     "commitSubject": "🧬 [semiont] rewrite: 新文 — 王連晟（蝦爸）.md + 林經堯入 ARTICLE-INBOX",
     "description": "一位離職醫師如何用一面壓線球國旗，開啟台灣 Web3 公益的全新想像。FAB DAO 與百岳計畫重新定義了捐款的本質：收藏即捐款，藝術即社會行動。",
@@ -35687,8 +35687,8 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 30,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "鄧麗君：跑馬地的白布條、金門的塑膠袋空氣、清邁的五分鐘時差",
@@ -40485,7 +40485,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "6a31f0b6",
     "commitSubject": "content: rewrite 台灣麵食文化 (67→139 lines, 14 refs, EDITORIAL v2)",
     "description": "從戰後眷村到國際舞台，台灣麵食在七十年間從美援麵粉開始，融合省籍記憶與本土創新，寫下一部移民與原鄉的飲食史詩",
@@ -40822,7 +40822,7 @@
       "ru": false,
       "de": false
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "da1cd251",
     "commitSubject": "content: expand Threads在台灣 (75→expanded, EDITORIAL v2)",
     "description": "2025 年底，一張在埃及人面獅身像附近拾得的台大學生證，在 Threads 上被轉成跨國協尋；同一面動態牆裡，日韓旅客的美食照會招來「你好，我吃一點」貓咪。台灣的「脆」把廢文、互助、迷因與公共討論擠在一起，讓陌生人短暫坐上同一桌，再把故事接力送遠。",
@@ -41141,7 +41141,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "59ebfd37",
     "commitSubject": "rewrite: 台灣米其林與精緻餐飲 — EDITORIAL v2 auto-rewrite (zh + en)",
     "description": "2018 年米其林登陸台灣，表面上是國際認證的榮耀，實際上重新劃分了餐飲業的生存規則——「幾乎夠格」的餐廳，反而成了最大受害者。",
@@ -42565,7 +42565,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "d7ee5e4e",
     "commitSubject": "feat: Changelog 相對時間顯示 + Food 圖片全換實拍圖",
     "description": "當泰式酸辣遇上台灣甜鹹、當越南河粉邂逅台式滷味、當印尼香料擁抱本土食材，一場跨越國界的味覺革命正在台灣悄然發生。新住民帶來的不只是故鄉的料理，更是豐富台灣美食文化的全新可能。",
@@ -43269,7 +43269,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -44913,7 +44913,7 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": false
@@ -47616,10 +47616,10 @@
     "date": "2026-03-18",
     "lastModified": "2026-03-18",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": true,
+    "lastHumanReview": false,
     "curation": null,
     "featured": true,
-    "wordCount": 4915,
+    "wordCount": 4664,
     "tagCount": 5,
     "tags": [
       "原住民歌手",
@@ -47646,14 +47646,14 @@
     "commitHash": "2fc3919a",
     "commitSubject": "content: 為音樂類文章補充 YouTube 連結",
     "description": "從張惠妹到舒米恩、桑布伊，台灣原住民歌手如何在現代音樂中傳承古老靈魂，創造獨特的當代原住民音樂風景",
-    "healthScore": 90,
-    "qualityScore": 4,
+    "healthScore": 65,
+    "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 7,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "fnCount": 21,
+    "bodyInternalLinks": 2,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "台灣在國際標準中的標示問題",
@@ -49660,7 +49660,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 6,
+    "revision": 7,
     "commitHash": "",
     "commitSubject": "",
     "description": "深度探討台灣野鳥因撞擊建築玻璃而傷亡的現況、科學原理、季節性影響與防治案例，並分析台灣友善鳥類建築的法規進展。",

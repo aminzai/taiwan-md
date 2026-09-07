@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-06T22:13:59.262Z",
+  "_generated": "2026-09-07T09:32:15.157Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -71,7 +71,7 @@
         "desc": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
         "category": "people",
         "href": "/people/%E5%BC%B5%E5%BF%A0%E8%AC%80",
-        "date": "2026-09-01T02:02:45+00:00",
+        "date": "2026-09-01T02:02:45Z",
         "readingTime": null,
         "image": ""
       },
@@ -325,7 +325,7 @@
         "desc": "The semiconductor godfather and founder of TSMC, a legendary entrepreneur who transformed the global technology industry with the foundry model.",
         "category": "people",
         "href": "/en/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45+00:00",
+        "date": "2026-09-01T02:02:45Z",
         "readingTime": null,
         "image": ""
       },
@@ -561,7 +561,7 @@
         "desc": "半導体の教父、TSMC創業者、ウェハー受託製造モデルで世界のテクノロジー産業を変えた伝説的企業家",
         "category": "people",
         "href": "/ja/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45+00:00",
+        "date": "2026-09-01T02:02:45Z",
         "readingTime": null,
         "image": ""
       },
@@ -824,7 +824,7 @@
         "desc": "반도체 업계의 대부이자 TSMC 창립자, 파운드리 모델로 글로벌 기술 산업을 변화시킨 전설적인 기업가",
         "category": "people",
         "href": "/ko/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45+00:00",
+        "date": "2026-09-01T02:02:45Z",
         "readingTime": null,
         "image": ""
       },
@@ -1096,7 +1096,7 @@
         "desc": "El padrino de los semiconductores y fundador de TSMC, un empresario legendario que transformó la industria tecnológica mundial mediante el modelo de fundición de semiconductores.",
         "category": "people",
         "href": "/es/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45+00:00",
+        "date": "2026-09-01T02:02:45Z",
         "readingTime": null,
         "image": ""
       },
@@ -1368,7 +1368,7 @@
         "desc": "Le parrain des semi-conducteurs, fondateur de TSMC, entrepreneur légendaire ayant transformé l'industrie technologique mondiale grâce au modèle de la fonderie de wafers.",
         "category": "people",
         "href": "/fr/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45+00:00",
+        "date": "2026-09-01T02:02:45Z",
         "readingTime": null,
         "image": ""
       },

@@ -1,0 +1,14 @@
+---
+import { iconSvg, icons } from '../icons/taiwan-icons.mjs';
+interface Props {
+  name: keyof typeof icons;
+  label?: string;
+  class?: string;
+}
+const { name, label = '', class: className = '' } = Astro.props;
+---
+
+<span
+  class:list={['twmd-icon-wrap', className]}
+  set:html={iconSvg(name, label)}
+/>

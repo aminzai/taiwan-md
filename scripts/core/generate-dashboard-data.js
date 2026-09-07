@@ -7,6 +7,7 @@
  */
 
 import fs from 'fs';
+import { keyCoverage, coverage } from './lib/dashboard-coverage.mjs';
 import path from 'path';
 import https from 'https';
 import { fileURLToPath } from 'url';
@@ -1232,38 +1233,28 @@ async function main() {
   const I18N_DIR = path.join(PROJECT_ROOT, 'src', 'i18n');
 
   function measureI18nPageCoverage(lang) {
-    let filled = 0;
-    for (const page of I18N_PAGE_FILES) {
-      try {
-        const content = fs.readFileSync(
-          path.join(I18N_DIR, `${page}.ts`),
-          'utf8',
-        );
-        // Find the lang section and check if it has real keys (not just a comment)
-        const langRegex = new RegExp(
-          `^\\s*${lang.replace('-', '\\-')}:\\s*\\{([\\s\\S]*?)^\\s*\\}`,
-          'm',
-        );
-        const match = content.match(langRegex);
-        if (match && match[1]) {
-          // Count actual key-value pairs (lines with 'key': 'value')
-          const keyCount = (match[1].match(/'\S+\.\S+':/g) || []).length;
-          if (keyCount > 3) filled++; // More than 3 keys = actually translated
-        }
-      } catch {
-        // file doesn't exist
-      }
-    }
+    const details = I18N_PAGE_FILES.map((page) => ({
+      page,
+      ...keyCoverage(
+        fs.readFileSync(path.join(I18N_DIR, `${page}.ts`), 'utf8'),
+        lang,
+      ),
+    }));
     return {
-      filled,
-      total: I18N_PAGE_FILES.length,
-      pct: Math.round((filled / I18N_PAGE_FILES.length) * 100),
+      ...coverage(
+        details.reduce((n, d) => n + d.filled, 0),
+        details.reduce((n, d) => n + d.total, 0),
+      ),
+      kind: 'explicit-key-presence',
+      qualityVerified: false,
+      details,
     };
   }
 
   function measureHubCoverage(lang) {
     const langDir = path.join(KNOWLEDGE_DIR, lang);
-    if (!fs.existsSync(langDir)) return { filled: 0, total: 12, pct: 0 };
+    const total = CATEGORIES.filter((cat) => cat !== 'About').length;
+    if (!fs.existsSync(langDir)) return coverage(0, total);
     let hubCount = 0;
     for (const cat of CATEGORIES) {
       if (cat === 'About') continue; // About is not a content category
@@ -1276,8 +1267,8 @@ async function main() {
     }
     return {
       filled: hubCount,
-      total: 12,
-      pct: Math.round((hubCount / 12) * 100),
+      total,
+      pct: Math.round((hubCount / total) * 100),
     };
   }
 
@@ -1291,20 +1282,11 @@ async function main() {
         ? Math.round((articleCount / articles.length) * 100)
         : 0;
 
-    // UI strings: check if ui.ts has the lang section with substantial keys
-    let uiPct = 0;
-    try {
-      const uiContent = fs.readFileSync(path.join(I18N_DIR, 'ui.ts'), 'utf8');
-      const uiLangRegex = new RegExp(
-        `^\\s*${lang.replace('-', '\\-')}:\\s*\\{([\\s\\S]*?)^\\s*\\}`,
-        'm',
-      );
-      const uiMatch = uiContent.match(uiLangRegex);
-      if (uiMatch && uiMatch[1]) {
-        const uiKeyCount = (uiMatch[1].match(/'\S+\.\S+':/g) || []).length;
-        uiPct = uiKeyCount > 30 ? 100 : Math.round((uiKeyCount / 30) * 100);
-      }
-    } catch {}
+    const uiCov = keyCoverage(
+      fs.readFileSync(path.join(I18N_DIR, 'ui.ts'), 'utf8'),
+      lang,
+    );
+    const uiPct = uiCov.pct;
 
     // Weighted score: UI 15% + Pages 25% + Hub 20% + Articles 40%
     const weightedScore = Math.round(
@@ -1312,7 +1294,7 @@ async function main() {
     );
 
     langHealthDetails[lang] = {
-      ui: { pct: uiPct },
+      ui: uiCov,
       pages: pageCov,
       hubs: hubCov,
       articles: { count: articleCount, pct: articlePct },
@@ -1399,6 +1381,8 @@ async function main() {
         metaphor: '技術架構',
         emoji: '🦴',
         score: skeletonScore,
+        scoreKind: 'capability-indicator',
+        scoreBasis: 'Static architecture indicator; not runtime health',
         trend: 'stable',
         metrics: {},
       },
@@ -1409,6 +1393,9 @@ async function main() {
         metaphor: '自動化循環',
         emoji: '🫁',
         score: breathScore,
+        scoreKind: 'capability-indicator',
+        scoreBasis:
+          'Workflow file count; execution health requires routine receipts',
         trend: 'stable',
         metrics: { workflowCount },
       },

@@ -1,4 +1,5 @@
 ---
+import ReadingPathStep from './ReadingPathStep.astro';
 import type { Lang } from '../config/languages';
 
 interface ReadingPathStep {
@@ -17,6 +18,8 @@ interface Props {
   lang?: Lang;
   title: string;
   subtitle: string;
+  shortLabel: string;
+  moreLabel: string;
   steps: ReadingPathStep[];
   footerItems: ReadingPathFooterItem[];
   continueHref: string;
@@ -27,6 +30,8 @@ const {
   lang = 'zh-TW',
   title,
   subtitle,
+  shortLabel,
+  moreLabel,
   steps,
   footerItems,
   continueHref,
@@ -82,30 +87,25 @@ const isEn = lang === 'en';
   <div
     class="relative z-[2] [--step-marker-column:4.5rem] [--step-content-column:28rem] [--step-time-column:6rem] [--step-column-gap:1.5rem] [--step-layout-width:calc(var(--step-marker-column)+var(--step-content-column)+var(--step-time-column)+(var(--step-column-gap)*2))] before:absolute before:left-[calc(50%-(var(--step-layout-width)/2)+(var(--step-marker-column)/2))] before:top-16 before:bottom-16 before:z-[1] before:w-[3px] before:rounded-[2px] before:bg-[image:var(--scene-nature-step-line)] before:content-[''] max-[768px]:before:hidden"
   >
+    <p class="relative z-[2] mb-4 text-center font-semibold text-[#166534]">
+      {shortLabel}
+    </p>
     {
-      steps.map((step, index) => (
-        <a
-          href={step.href}
-          data-ga-section="reading_path"
-          data-ga-label={`step_${index + 1}`}
-          class="group relative z-[2] mb-4 grid items-center justify-center rounded-2xl border-2 border-[rgba(34,197,94,0.1)] bg-white p-6 text-inherit no-underline shadow-[0_2px_8px_rgba(22,163,74,0.08)] transition-all duration-300 [grid-template-columns:var(--step-marker-column)_var(--step-content-column)_var(--step-time-column)] [gap:var(--step-column-gap)] hover:-translate-y-1 hover:border-[rgba(34,197,94,0.25)] hover:bg-[rgba(240,253,244,0.6)] hover:shadow-[0_8px_25px_rgba(22,163,74,0.15)] max-[768px]:flex max-[768px]:flex-col max-[768px]:gap-4 max-[768px]:text-center"
-        >
-          <span class="flex h-12 w-12 flex-shrink-0 items-center justify-center justify-self-center rounded-full bg-[image:var(--cta-nature)] text-[1.3rem] font-extrabold text-white shadow-[0_4px_12px_rgba(34,197,94,0.3)]">
-            {index + 1}
-          </span>
-          <div class="grid w-full content-center items-center gap-1 text-center">
-            <h3 class="m-0 font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[1.3rem] font-bold leading-tight text-[#166534] max-[768px]:text-[1.1rem]">
-              {step.title}
-            </h3>
-            <p class="m-0 text-base font-medium leading-[1.35] text-[#16a34a] max-[768px]:text-[0.9rem]">
-              {step.description}
-            </p>
-          </div>
-          <span class="min-w-[4.5rem] flex-shrink-0 whitespace-nowrap justify-self-center rounded-[20px] border border-[rgba(34,197,94,0.2)] bg-[rgba(22,163,74,0.1)] px-4 py-2 text-center text-[0.9rem] font-semibold text-[#166534]">
-            {step.time}
-          </span>
-        </a>
-      ))
+      steps
+        .slice(0, 2)
+        .map((step, index) => <ReadingPathStep step={step} index={index} />)
+    }
+    {
+      steps.length > 2 && (
+        <details class="relative z-[2]">
+          <summary class="mx-auto my-6 w-fit cursor-pointer rounded-full border border-current px-6 py-3 font-semibold text-[#166534]">
+            {moreLabel}
+          </summary>
+          {steps.slice(2).map((step, index) => (
+            <ReadingPathStep step={step} index={index + 2} />
+          ))}
+        </details>
+      )
     }
   </div>
 

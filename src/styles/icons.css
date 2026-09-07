@@ -1,0 +1,20 @@
+/* Island Lines — keep the optical baseline and inherited contrast at every size. */
+.twmd-icon {
+  display: inline-block;
+  flex: none;
+  vertical-align: -0.16em;
+  width: 1em;
+  height: 1em;
+  overflow: visible;
+}
+.twmd-icon-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+@media (forced-colors: active) {
+  .twmd-icon {
+    stroke: CanvasText;
+  }
+}

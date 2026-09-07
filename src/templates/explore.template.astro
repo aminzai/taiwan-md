@@ -207,7 +207,7 @@ interface PopularArticle {
 
 const slugToFolder = new Map(categoryFolders.map(([s, f]) => [s, f]));
 const slugToEmoji = new Map(categoryFolders.map(([s, , e]) => [s, e]));
-const nonDefaultLangSet = new Set(
+const nonDefaultLangSet = new Set<string>(
   LANGUAGES.filter((l) => l.enabled && l.code !== DEFAULT_LANGUAGE.code).map(
     (l) => l.code,
   ),
@@ -231,7 +231,8 @@ try {
     if (itemLang !== lang) continue;
     const catSlug = hasLangPrefix ? segs[1] : segs[0];
     const rawSlug = hasLangPrefix ? segs[2] : segs[1];
-    if (!catSlug || !rawSlug || !categoryList.includes(catSlug)) continue;
+    if (!catSlug || !rawSlug || !categoryList.some((code) => code === catSlug))
+      continue;
     const slug = decodeURIComponent(rawSlug);
     const folder = slugToFolder.get(catSlug);
     if (!folder) continue;

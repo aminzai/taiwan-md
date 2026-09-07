@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T06:13:46.323403",
+  "lastUpdated": "2026-09-07T17:32:01.952134",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 59,
@@ -11,7 +11,7 @@
     "citation_density": 93.7,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 2.2
+    "external_rulers": 2.1
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -31,8 +31,8 @@
     },
     "T2": {
       "total": 496,
-      "reviewed": 84,
-      "pct": 16.9,
+      "reviewed": 83,
+      "pct": 16.7,
       "weight": 1.5
     },
     "T3": {
@@ -45,8 +45,8 @@
   "reviewCoverageSplit": {
     "stock": {
       "total": 882,
-      "reviewed": 193,
-      "pct": 21.9
+      "reviewed": 192,
+      "pct": 21.8
     },
     "new30d": {
       "total": 237,
@@ -80,7 +80,7 @@
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 37,
+    "new_articles_7d": 40,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -288,7 +288,7 @@
     "note": "v2 score = loadable+registered ratio（orphan / import crash / 介面缺欄才算病）。age_watch 為資訊欄不進分數。v1 drift 定義的診斷與拍板紀錄：LESSONS immune-chronic entry §一頁診斷 2026-07-10。"
   },
   "externalRulersDetail": {
-    "ruledArticles": 25,
+    "ruledArticles": 24,
     "totalArticles": 1119,
     "rulerSources": {
       "factcheckReports": true,

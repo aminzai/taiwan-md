@@ -26,6 +26,7 @@ import { ENABLED_LANGUAGE_CODES } from '../../config/languages';
 import { resolveStaticHref } from '../../utils/staticRoutes';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { emojiIcons } from '../../icons/taiwan-icons.mjs';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -227,9 +228,23 @@ const flowTargets = [
                 stroke-width="1.2"
                 stroke-opacity="0.55"
               />
-              <text x={o.x} y={o.y + 6} text-anchor="middle" font-size="18">
-                {o.emoji}
-              </text>
+              <svg
+                x={o.x - 10}
+                y={o.y - 10}
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="#b6e1d3"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <use
+                  href={`/icons/taiwan.svg#${emojiIcons[o.emoji] || 'network'}`}
+                />
+              </svg>
               <text
                 x={o.x}
                 y={o.y + 42}

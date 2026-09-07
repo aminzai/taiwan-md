@@ -7755,7 +7755,10 @@
     "title": "台湾マカク（台灣獼猴）：中山大学の生存ゲーム、母系権力、そして一万年の定住者の真実",
     "description": "中山大学の学生が「宅配便を取りに行くのにBB弾銃が必要」という荒唐無稽な日常から、1862年にスウィンホー（史溫侯）が西洋に初めて紹介したこの島の霊長類まで。台湾マカクはしばしば「チンピラ」と呼ばれるが、その背後には一万年前から寿山（壽山）に定住していた厳格な母系社会があり、キャンパスの拡大と人間の餌付けによって独自の生存文化へと進化することを余儀なくされた。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "台湾マカク",
+      "生態"
+    ],
     "url": "https://taiwan.md/ja/nature/formosan-rock-macaque",
     "readingTime": 19,
     "featured": false,
@@ -12790,6 +12793,24 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "People/尼克星.md"
+  },
+  {
+    "title": "巧固球：台湾の隠れた43年間の世界チャンピオン",
+    "description": "1977年、ある台湾の教授がイギリスからネット一式を持ち帰り、スイス発明の「紳士の球技」が台湾の校園に根付くきっかけとなりました。40余年後、台湾代表が世界ランキング1位を維持し、国際連盟本部が高雄に置かれていますが、依然として多くの台湾人にとって馴染みの薄いマイナー競技のままです。",
+    "category": "ja",
+    "tags": [
+      "巧固球",
+      "Tchoukball",
+      "台湾スポーツ",
+      "紳士の球技",
+      "世界チャンピオン",
+      "校園体育"
+    ],
+    "url": "https://taiwan.md/ja/culture/tchoukball-in-taiwan",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "ja/Culture/tchoukball-in-taiwan.md"
   },
   {
     "title": "巧固球：台灣隱形的43年世界冠軍",
@@ -19088,7 +19109,10 @@
     "title": "徐熙媛（シュ・シーユェン）：おてんば美少女から「二死一重傷」の剛毅な女王へ",
     "description": "1994年にS.O.S.でデビューし、2001年に『流星花園』（りゅうせいかえん）でアジア中を席巻し、2005年に『美容大王』で美学の代名詞を確立。2025年2月、48歳で逝去。美への極致の追求で人生の混乱に抗い続け、婚姻の嵐の中で「二死一重傷」の声明をもって現代女性の困境の最も深い断面を刻んだ。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "徐熙媛",
+      "台湾俳優"
+    ],
     "url": "https://taiwan.md/ja/people/barbie-hsu-actress",
     "readingTime": 10,
     "featured": false,
@@ -24017,7 +24041,10 @@
     "title": "楊致遠（ジェリー・ヤン、Jerry Yang）：英語一語しか知らなかった少年がグローバルなポータル時代を開いた「Yahoo!の父」",
     "description": "1978年、10歳の楊致遠（ジェリー・ヤン）がアメリカに移民した時、知っていた英語は「Shoe（靴）」の一語だけだった。1994年、スタンフォード大学で博士論文から逃げていた彼はパートナーとトレーラーの中でウェブページを手動分類し、時価総額が一時1000億ドルを超えたYahoo!を偶然に生み出した。さらに2005年には「狂気の大勝負」とも呼ばれたアリババ（阿里巴巴）への投資によって、グローバルなインターネット版図を書き換えた。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "楊致遠",
+      "Yahoo"
+    ],
     "url": "https://taiwan.md/ja/people/jerry-yang-yahoo-cofounder",
     "readingTime": 16,
     "featured": false,
@@ -30346,7 +30373,10 @@
     "title": "ALIEN Art Centre (Jinma Guest House)",
     "description": "A Cold War military transit station where soldiers said goodbye before sailing to the frontlines — abandoned for two decades, then resurrected as Lonely Planet's top pick for contemporary art in Kaohsiung.",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "Kaohsiung",
+      "Contemporary art"
+    ],
     "url": "https://taiwan.md/en/art/alien-art-centre",
     "readingTime": 34,
     "featured": false,
@@ -30389,7 +30419,10 @@
     "title": "ALIEN Art Centre（金馬賓館）",
     "description": "冷戦時代の軍事中継所。兵士たちが最前線へ向かう前に別れを告げた場所——20年間放置された後、Lonely Planetが選ぶ高雄No.1の現代アートスポットとして蘇った。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "高雄",
+      "現代アート"
+    ],
     "url": "https://taiwan.md/ja/art/alien-art-centre",
     "readingTime": 15,
     "featured": false,
@@ -64034,7 +64067,7 @@
     "url": "https://taiwan.md/vi/resources/mini-taiwan-pulse",
     "readingTime": 27,
     "featured": false,
-    "date": "2026-03-22",
+    "date": "2026-06-25",
     "path": "vi/resources/mini-taiwan-pulse.md"
   },
   {
@@ -66551,6 +66584,25 @@
     "featured": false,
     "date": "2026-07-29",
     "path": "es/Food/hsinkang-taffy.md"
+  },
+  {
+    "title": "Nicht von Koxinga mitgebracht: Die 400-jährige Zuchtgeschichte des Milchfischs",
+    "description": "Menschen in Tainan nennen den Milchfisch „Hausfisch\", doch seine Ursprünge liegen in den Aquakultur-Techniken, die die Niederländische Ostindien-Kompanie aus Indonesien einführte – 37 Jahre bevor Koxinga überhaupt in Taiwan ankam. Die 4.500 Hektar Fischteiche in Qigu und die mehr als sieben Arten, einen einzigen Fisch zuzubereiten, sind lebende Fossilien dieser vierhundertjährigen Geschichte.",
+    "category": "de",
+    "tags": [
+      "Tainan",
+      "Milchfisch",
+      "Qigu",
+      "Aquakultur",
+      "Niederländer",
+      "Snacks",
+      "Frühstück"
+    ],
+    "url": "https://taiwan.md/de/food/milkfish-congee",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-07-02",
+    "path": "de/Food/milkfish-congee.md"
   },
   {
     "title": "Nieh Yung-jen : premier membre taïwanais de l'AGI, vingt ans entre pochettes de disques et systèmes d'identité nationale",
@@ -69283,6 +69335,23 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "id/Geography/taiwan-urban-development-and-rural-urban-divide.md"
+  },
+  {
+    "title": "Perkembangan Sistem Perawatan Jangka Panjang di Taiwan",
+    "description": "Sistem perawatan jangka panjang paling maju di Asia, namun sekaligus menyimpan sistem perawatan tersembunyi terbesar",
+    "category": "id",
+    "tags": [
+      "perawatan jangka panjang",
+      "penuaan populasi",
+      "pekerja asing",
+      "Long-Term Care 2.0",
+      "kontradiksi sistem"
+    ],
+    "url": "https://taiwan.md/id/society/long-term-care-system-development",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "id/Society/long-term-care-system-development.md"
   },
   {
     "title": "Perlindungan Lingkungan dan Pembangunan Berkelanjutan",
@@ -76858,11 +76927,11 @@
     "description": "In 1996, the Atlanta Olympics opening ceremony carried the ancient chant of an Amis elder from Taiwan — but Kuo Ying-nan only learned he had been heard by 65 million people two years later, through a lawsuit. This absurd story mirrors the fate of Taiwan's folk music: silenced repeatedly under colonialism, yet always finding its way back to the world's ears.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/music/Taiwan%20Folk%20Music%20and%20Songs",
+    "url": "https://taiwan.md/en/music/taiwan-folk-music-and-songs",
     "readingTime": 49,
     "featured": false,
     "date": "2026-03-23",
-    "path": "en/Music/Taiwan Folk Music and Songs.md"
+    "path": "en/Music/taiwan-folk-music-and-songs.md"
   },
   {
     "title": "Taiwan Fruit Kingdom",
@@ -77020,11 +77089,11 @@
     "description": "From a failed geothermal plant to the world's only Hokutolite mineral: How one island turned underground fire into healing and green electricity",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/nature/Taiwan%20Hot%20Springs%20and%20Geothermal%20Energy",
+    "url": "https://taiwan.md/en/nature/taiwan-hot-springs-and-geothermal-energy",
     "readingTime": 64,
     "featured": false,
     "date": "2026-03-23",
-    "path": "en/Nature/Taiwan Hot Springs and Geothermal Energy.md"
+    "path": "en/Nature/taiwan-hot-springs-and-geothermal-energy.md"
   },
   {
     "title": "Taiwan Hot Springs Landscape",
@@ -77273,21 +77342,6 @@
     "path": "en/Food/taiwan-pastry-culture.md"
   },
   {
-    "title": "Taiwan People Knowledge Base Project — 200 People Initiative",
-    "description": "Taiwan.md people page expansion roadmap, aiming to cover 200 important figures representing Taiwan",
-    "category": "en",
-    "tags": [
-      "project",
-      "People",
-      "roadmap"
-    ],
-    "url": "https://taiwan.md/en/people/taiwan-people-knowledge-base-roadmap",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/taiwan-people-knowledge-base-roadmap.md"
-  },
-  {
     "title": "Taiwan Railway History: The \"Lung Disease\" Railway, the \"Black-Headed Ones,\" and the Line That Lost Its Foreign Names",
     "description": "A road the Japanese called \"lung disease\" that became a high-speed artery carrying 200,000 people daily over a century. Engineer Becker was scrapped by the Japanese; Hasegawa’s trunk line was renamed post-war; every generation pushed the previous records to footnotes. Foreign names faded, leaving Taiwanese slang like \"black-headed ones\" and political slogans like \"Juguang\" and \"Ziqiang,\" until the Puyuma and Taroko era finally laid indigenous place names back onto the tracks.",
     "category": "en",
@@ -77303,11 +77357,11 @@
     "description": "A bowl of Keelung ding-bian-cu chronicles the wandering of Fujian fishermen; a Changhua ba-wan witnesses Qing Dynasty settlers innovation. 22 counties, 22 survival wisdoms—Taiwan regional food is not just cuisine, its a migration history carved into the land.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/food/Taiwan%20Regional%20Street%20Food%20Map",
+    "url": "https://taiwan.md/en/food/taiwan-regional-street-food-map",
     "readingTime": 46,
     "featured": true,
     "date": "2026-03-24",
-    "path": "en/Food/Taiwan Regional Street Food Map.md"
+    "path": "en/Food/taiwan-regional-street-food-map.md"
   },
   {
     "title": "Taiwan Schoolyard Rhymes: Cross-Generational Humor from \"ABC Dog Bites Pig\" to \"Alibaba Farts\"",
@@ -80201,17 +80255,6 @@
     "featured": false,
     "date": "2026-03-27",
     "path": "fr/Culture/tchoukball-in-taiwan.md"
-  },
-  {
-    "title": "tchoukball-in-taiwan",
-    "description": "",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/culture/tchoukball-in-taiwan",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-03-27",
-    "path": "ja/Culture/tchoukball-in-taiwan.md"
   },
   {
     "title": "Tchoukball: 43 năm vô địch thế giới \"vô hình\" của Đài Loan",
@@ -108528,6 +108571,17 @@
     "path": "hi/Music/indie-music-scene.md"
   },
   {
+    "title": "ताइवान का हक्का संगीत: पहाड़ी गीतों से लिन शेंग-श्यांग के पुरस्कार अस्वीकार तक की भाषा-राजनीति",
+    "description": "हक्का पहाड़ी गीतों (शान गे) की जड़ें श्रम-जीवन में हैं, जबकि हक्का आठ-स्वर वाद्य-वृंद विवाह और अंतिम संस्कार जैसे अवसरों पर बजाया जाता था। 1999 में लेबर एक्सचेंज बैंड ने \"वी आर गोइंग टू सिंग माउंटेन साँग्स\" एल्बम से गोल्डन मेलोडी अवॉर्ड्स में सर्वश्रेष्ठ संगीतकार और सर्वश्रेष्ठ निर्माता का पुरस्कार जीता, जिसने हक्का रॉक युग की शुरुआत की। 2003 में 14वें गोल्डन मेलोडी अवॉर्ड्स में सर्वश्रेष्ठ हक्का गायक श्रेणी बनाई गई; 2004 में शीह यू-वेई इसके पहले विजेता बने। 2007 में लिन शेंग-श्यांग ने \"प्लांटिंग ट्रीज़\" के लिए पुरस्कार जीता मगर मंच पर ही उसे अस्वीकार कर दिया, यह माँग करते हुए कि संगीत को भाषा के बजाय शैली के आधार पर वर्गीकृत किया जाए — इस घटना ने भाषा-आधारित श्रेणियों को लेकर बहस छेड़ दी, जिसने तीन साल बाद गोल्डन इंडी म्यूज़िक अवॉर्ड्स को जन्म दिया। 2003 में स्थापित हक्का टीवी लगातार हक्का भाषा के संगीत की पहुँच बढ़ाता रहा है। भाषा के लुप्त होने का खतरा अब भी बना हुआ है, लेकिन परंपरा और नवाचार के बीच का यह तनाव हक्का संगीतकारों को आगे बढ़ने के लिए प्रेरित करता रहता है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/music/taiwan-hakka-music-from-mountain-songs-to-rock",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md"
+  },
+  {
     "title": "ताइवान काले भालू",
     "description": "वक्ष पर सफ़ेद 'V' आकृति उसकी पहचान है, और उसकी अखंडित संरक्षण लड़ाई",
     "category": "hi",
@@ -125274,7 +125328,10 @@
     "title": "ソーリー・ユース（拍謝少年）：三人の南部っ子が台語で歌う他郷の孤独、二十年後に世代の声となった",
     "description": "2005年、台南の海辺でロックを聴いて育った三人の男が台語で作曲を決意した。目標は「祖父母も頷ける台語の名曲」。三人のうち台語育ちはジャンジャン（薑薑）ひとりだけだった。『海口味』から『噪音公寓』まで、全台語アルバム四枚・金音獎最優秀ロック三冠・flyingV募資記録を二度更新した拍謝少年は、他郷の孤独を世代全体の共通言語に変えた。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "拍謝少年",
+      "台湾音楽"
+    ],
     "url": "https://taiwan.md/ja/music/sorry-youth-band",
     "readingTime": 16,
     "featured": true,
@@ -125595,7 +125652,10 @@
     "title": "ローバー号事件（羅發號事件）と卓杞篤（タウケトク）：181人が落とせなかった戦を、45分で決着させた",
     "description": "1867年、アメリカ海軍181人が恒春半島の密林でパイワン族に撃退され指揮官が戦死した。三か月後、瑯嶠十八社の大頭目・卓杞篤は45分の交渉で南岬の盟約を結び、族人を守ることに成功した。しかし盟約に署名したル・ジャンドル（李仙得）は七年後、同じ情報を携えて日本帝国に乗り換え、1874年の台湾出兵を助けた。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "ローバー号事件",
+      "卓杞篤"
+    ],
     "url": "https://taiwan.md/ja/history/rover-incident-and-tauketok",
     "readingTime": 19,
     "featured": false,

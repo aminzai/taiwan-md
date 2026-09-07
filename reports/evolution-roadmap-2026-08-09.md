@@ -197,3 +197,7 @@ spore-harvest 連 4 天因 Chrome MCP 連不上中止。同一週 8/5 一位讀�
 - P0 全清（本檔 3 項）→ 開新版
 - 觀察者 /goal 深度檢查
 - WEEKLY-REPORT v4 週日體檢 Stage 2.7 roll 出新 finding
+
+## 2026-09-07 領取回執
+
+P0-3 AI crawler 成功率已由本次修復接手：擷取欄位接到 dashboard，區分 HTTP 200／3xx／4xx／5xx，未知值顯示空缺，資料擷取與內容截至時間分列。此處更正 9/6「仍未領取」的後續狀態，保留上文歷史。實作與正式發布狀態見[驗收紀錄](design-audit-upgrade-2026-09-07.md)。本次未重抓 Cloudflare 歷史資料，因此不據此宣稱爬取成功率已改善。

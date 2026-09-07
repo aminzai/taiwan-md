@@ -1,8 +1,9 @@
 ---
+tags: ['Kaohsiung', 'Contemporary art']
 title: ALIEN Art Centre (Jinma Guest House)
 description: A Cold War military transit station where soldiers said goodbye before sailing to the frontlines — abandoned for two decades, then resurrected as Lonely Planet's top pick for contemporary art in Kaohsiung.
 featured: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg
+image: '/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp'
 translatedFrom: 'Art/金馬賓館當代美術館.md'
 sourceCommitSha: '209084a3'
 sourceContentHash: 'sha256:29f8c92d6f9ec4f0'
@@ -13,6 +14,9 @@ date: 2026-03-22
 author: 'Taiwan.md'
 lastVerified: 2026-03-22
 lastHumanReview: false
+imageCredit: 'Adece033090 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg'
 ---
 
 # ALIEN Art Centre — From Military Farewell Station to Art Sanctuary
@@ -101,3 +105,7 @@ From a station of farewell to a sanctuary of art — the story of the Jinma Gues
 10. [Harper's BAZAAR — 13 Must-Visit Art Buildings in Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025)
 11. [ELLE — Responsive Vision: Getulio Alviani at ALIEN Art Centre](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023)
 12. [YUIMOM Group — ALIEN Art Centre](https://yuimomgroup.com/brands/art/alien-art-centre)
+
+## Image Sources
+
+- Adece033090 / Wikimedia Commons — [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg).

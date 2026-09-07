@@ -1,4 +1,5 @@
 ---
+tags: ['拍謝少年', '台湾音楽']
 translatedFrom: Music/拍謝少年.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6a2b0dda2e1882cf'

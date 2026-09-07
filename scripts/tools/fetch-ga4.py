@@ -31,7 +31,7 @@ fetch-ga4.py — 抓 Google Analytics 4 (taiwan.md) 的關鍵指標
 import json
 import os
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 CONFIG_DIR = Path.home() / ".config" / "taiwan-md"
@@ -318,7 +318,7 @@ def main():
         ]
 
     output = {
-        "fetched_at": datetime.now().isoformat(),
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
         "property_id": property_id,
         "period": {"start": start_date, "end": end_date, "days": args.days},
         "overall": {

@@ -18,6 +18,19 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 export function resolveRedirectTargets(redirects, repoRoot = process.cwd()) {
+  // Astro treats trailing-slash variants as one route. Keep a single declaration.
+  const unique = {};
+  for (const [source, target] of Object.entries(redirects)) {
+    const canonical = source === '/' ? source : source.replace(/\/$/, '');
+    if (
+      canonical in unique &&
+      JSON.stringify(unique[canonical]) !== JSON.stringify(target)
+    ) {
+      throw new Error(`Conflicting redirect targets for ${canonical}`);
+    }
+    unique[canonical] = target;
+  }
+  redirects = unique;
   let map = null;
   try {
     map = JSON.parse(

@@ -1,3 +1,4 @@
+import type { Renderer } from 'marked';
 /**
  * semiont-diary.ts — Parser for Semiont diary entries
  *
@@ -194,7 +195,7 @@ function parseContent(raw: string): {
 
 // ── Markdown rendering ─────────────────────────────────
 
-function createRenderer(): marked.Renderer {
+function createRenderer(): Renderer {
   const renderer = new marked.Renderer();
 
   // tokens → parseInline（同 article-render.ts）：`text` 是未解析原文，

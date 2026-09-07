@@ -28,7 +28,7 @@ Site URL:
 import json
 import os
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 CONFIG_DIR = Path.home() / ".config" / "taiwan-md"
@@ -193,7 +193,7 @@ def main():
     query_sum_impressions = sum(r.get("impressions", 0) for r in queries.get("rows", []))
 
     output = {
-        "fetched_at": datetime.now().isoformat(),
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
         "site_url": site_url,
         "period": {"start": start_date, "end": end_date, "days": args.days},
         "totals": {

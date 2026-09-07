@@ -1,4 +1,5 @@
 ---
+tags: ['楊致遠', 'Yahoo']
 translatedFrom: People/楊致遠.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d1617940aa3ac2f4'
@@ -55,34 +56,34 @@ Yahoo!を去った後、楊致遠は歩みを止めなかった。ベンチャ�
 
 ### 参考資料
 
-[^1]: [Jerry Yang's Immigration Story: From Taiwan to Silicon Valley](https://www.tryalma.com/learn/jerry-yang-immigration-story)
+[^1]: [Jerry Yang's Immigration Story: From Taiwan to Silicon Valley](https://www.tryalma.com/learn/jerry-yang-immigration-story) — 台湾から米国へ移住した楊致遠の経歴を紹介する記事。
 
-[^2]: [Jerry Yang - Immigrant Learning Center](https://www.ilctr.org/about-immigrants/immigrant-entrepreneurs/hall-of-fame/jerry-yang/)
+[^2]: [Jerry Yang - Immigrant Learning Center](https://www.ilctr.org/about-immigrants/immigrant-entrepreneurs/hall-of-fame/jerry-yang/) — 移民起業家としての楊致遠を紹介する人物資料。
 
-[^3]: [Jerry Yang | Biography | Research Starters](https://www.ebsco.com/research-starters/biography/jerry-yang)
+[^3]: [Jerry Yang | Biography | Research Starters](https://www.ebsco.com/research-starters/biography/jerry-yang) — 楊致遠の生涯をまとめた人物紹介資料。
 
-[^4]: [楊致遠(Jerry Yang)：「私はずっと、そして永遠にYahoo!雅虎の血が流れているだろう」](https://vocus.cc/article/6716541dfd897800013694f3)
+[^4]: [楊致遠(Jerry Yang)：「私はずっと、そして永遠にYahoo!雅虎の血が流れているだろう」](https://vocus.cc/article/6716541dfd897800013694f3) — 楊致遠とヤフーの関係を扱う記事。
 
-[^5]: [Yahoo! Inc. - Wikipedia](https://en.wikipedia.org/wiki/Yahoo!_Inc.)
+[^5]: [Yahoo! Inc. - Wikipedia](https://en.wikipedia.org/wiki/Yahoo!_Inc.) — ヤフーの企業史をまとめた百科事典の記事。
 
-[^6]: [極苦の甘さ！台湾インターネット創業20年の浮沈 - 數位時代](https://meet.bnext.com.tw/articles/view/36215)
+[^6]: [極苦の甘さ！台湾インターネット創業20年の浮沈 - 數位時代](https://meet.bnext.com.tw/articles/view/36215) — 台湾のインターネット起業史を扱う記事。
 
-[^7]: [Jerry Yang and Jack Ma at the Great Wall of China | by Saurabh Mhatre](https://saurabhnativeblog.medium.com/a-chance-meeting-that-changed-the-future-of-internet-jerry-yang-and-jack-ma-at-the-great-wall-of-36124652a913)
+[^7]: [Jerry Yang and Jack Ma at the Great Wall of China | by Saurabh Mhatre](https://saurabhnativeblog.medium.com/a-chance-meeting-that-changed-the-future-of-internet-jerry-yang-and-jack-ma-at-the-great-wall-of-36124652a913) — 楊致遠と馬雲の出会いを扱う個人記事。
 
-[^8]: [Jerry Yang - Wikipedia](https://en.wikipedia.org/wiki/Jerry_Yang)
+[^8]: [Jerry Yang - Wikipedia](https://en.wikipedia.org/wiki/Jerry_Yang) — 楊致遠の経歴をまとめた百科事典の記事。
 
-[^9]: [Yahoo's Yang Found in Great Wall Talks With Ma Way to Beat eBay](https://www.bloomberg.com/news/articles/2005-08-17/yahoo-s-yang-found-in-great-wall-talks-with-ma-way-to-beat-ebay)
+[^9]: [Yahoo's Yang Found in Great Wall Talks With Ma Way to Beat eBay](https://www.bloomberg.com/news/articles/2005-08-17/yahoo-s-yang-found-in-great-wall-talks-with-ma-way-to-beat-ebay) — 楊致遠と馬雲の交渉を扱う報道。
 
-[^10]: [ヤフーのアリババ投資10年 楊致遠・馬雲が当時を振り返る](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000445195_WJA0ZD6KLXGJTD4TI0MRZ)
+[^10]: [ヤフーのアリババ投資10年 楊致遠・馬雲が当時を振り返る](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000445195_WJA0ZD6KLXGJTD4TI0MRZ) — アリババ投資を振り返る楊致遠と馬雲についての記事。
 
-[^11]: [Yahoo Is Paying $1 Billion for 40% Stake in Alibaba](https://www.nytimes.com/2005/08/11/technology/yahoo-is-paying-1-billion-for-40-stake-in-alibaba.html)
+[^11]: [Yahoo Is Paying $1 Billion for 40% Stake in Alibaba](https://www.nytimes.com/2005/08/11/technology/yahoo-is-paying-1-billion-for-40-stake-in-alibaba.html) — ヤフーによるアリババへの出資を報じた記事。
 
-[^12]: [Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Tech History](https://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/)
+[^12]: [Finding Alibaba: How Jerry Yang Made The Most Lucrative Bet In Tech History](https://www.forbes.com/sites/parmyolson/2014/09/30/how-jerry-yang-made-the-most-lucrative-bet-in-tech-history/) — 楊致遠によるアリババ投資を振り返る記事。
 
-[^13]: [楊致遠 - ウィキペディア](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E8%87%B4%E9%81%A0)
+[^13]: [楊致遠 - ウィキペディア](https://zh.wikipedia.org/zh-hant/%E6%A5%8A%E8%87%B4%E9%81%A0) — 楊致遠の経歴を紹介する中国語版の百科事典。
 
-[^14]: [Jerry Yang - Forbes Profile](https://www.forbes.com/profile/jerry-yang/)
+[^14]: [Jerry Yang - Forbes Profile](https://www.forbes.com/profile/jerry-yang/) — 楊致遠の人物紹介と資産情報を掲載するページ。
 
-[^15]: [Yahoo! rejects Microsoft's $44.6 billion bid - CNET](https://www.cnet.com/news/yahoo-rejects-microsofts-44-6-billion-bid/)
+[^15]: [Yahoo! rejects Microsoft's $44.6 billion bid - CNET](https://www.cnet.com/news/yahoo-rejects-microsofts-44-6-billion-bid/) — マイクロソフトの買収提案をヤフーが拒否した件の報道。
 
-[^16]: [AME Cloud Ventures - Crunchbase](https://www.crunchbase.com/organization/ame-cloud-ventures)
+[^16]: [AME Cloud Ventures - Crunchbase](https://www.crunchbase.com/organization/ame-cloud-ventures) — 投資会社 AME Cloud Ventures の企業情報。

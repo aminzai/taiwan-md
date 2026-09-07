@@ -97,26 +97,26 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 1119  |
 | 🇹🇼 Chinese (zh-TW)             | 1119  |
-| 🇺🇸 English (en)                | 892   |
+| 🇺🇸 English (en)                | 891   |
 | 🇯🇵 日本語 (ja)                 | 888   |
 | 🇰🇷 한국어 (ko)                 | 886   |
 | 🇪🇸 Español (es)                | 884   |
 | 🇫🇷 Français (fr)               | 885   |
 | 🇻🇳 Tiếng Việt (vi)             | 805   |
-| 🇮🇩 Bahasa Indonesia (id)       | 603   |
+| 🇮🇩 Bahasa Indonesia (id)       | 604   |
 | 🇵🇹 Português (pt)              | 851   |
-| 🇮🇳 हिन्दी (hi)                 | 676   |
+| 🇮🇳 हिन्दी (hi)                 | 677   |
 | 🇸🇦 العربية (ar)                | 756   |
 | 🇷🇺 Русский (ru)                | 787   |
-| 🌐 Deutsch (de)                | 87    |
+| 🌐 Deutsch (de)                | 88    |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1168  |
+| ⭐ GitHub Stars                | 1169  |
 | 🍴 Forks                       | 185   |
 | 📅 Articles last 7 days        | 10    |
-| 📅 Articles last 30 days       | 253   |
+| 📅 Articles last 30 days       | 251   |
 
 <!-- STATS:END -->
 
@@ -582,8 +582,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/idlccp1984"><img src="https://avatars.githubusercontent.com/u/271929436?v=4" width="100px;" alt=""/><br /><sub><b>idlccp1984</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
-    <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4" width="100px;" alt=""/><br /><sub><b>YenTing Wu</b></sub></a><br />💻 🤔 🌍 🔧 📖 🚇</td>
     <td align="center"><a href="https://github.com/Zaious"><img src="https://avatars.githubusercontent.com/u/128442444?v=4" width="100px;" alt=""/><br /><sub><b>Zaious (@ChronicleCore)</b></sub></a><br />💻 🖋️ 🌍</td>
   </tr>

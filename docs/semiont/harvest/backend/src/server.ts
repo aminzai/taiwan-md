@@ -28,7 +28,6 @@ import {
   isPaused,
   pauseScheduler,
   resumeScheduler,
-  startScheduler,
   stopScheduler,
 } from './scheduler/cron.ts';
 import {

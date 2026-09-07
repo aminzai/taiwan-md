@@ -1,4 +1,9 @@
 import { isEn } from './shared.js';
+import {
+  escapeHtml,
+  localAnalyticsPath,
+  decodePathLabel,
+} from './safe-html.mjs';
 
 // ── GA4 Analytics ──
 // Wait for d3 + d3-cloud to be available on window (they're loaded via
@@ -173,7 +178,7 @@ function renderAnalytics(data) {
   const ga = data.ga || {};
   const gaDays = ga.days || 28;
   const search = data.searchConsole7d || data.searchConsole24h || {};
-  const searchPeriodDays = data.searchConsole7d ? 7 : 1;
+  const searchPeriodDays = search.days || (data.searchConsole7d ? 7 : 1);
   // Prefer cloudflare7d (fresh from CF cache, 7-day window) over the older
   // cloudflare24h which stayed hand-curated with the last known aiCrawlers
   // breakdown. aiCrawlers is carried forward from cloudflare24h by the
@@ -181,11 +186,12 @@ function renderAnalytics(data) {
   const cloudflare = data.cloudflare7d || data.cloudflare24h || {};
   const cloudflareDays = cloudflare.days || (data.cloudflare7d ? 7 : 1);
   const t = ga.totals || data.totals || {};
-  const fmtNum = (n) => (typeof n === 'number' ? n.toLocaleString() : n);
+  const fmtNum = (n) =>
+    typeof n === 'number' && Number.isFinite(n) ? n.toLocaleString() : '—';
   const fmtPct = (n) =>
-    typeof n === 'number' && Number.isFinite(n) ? `${n.toFixed(1)}%` : n;
+    typeof n === 'number' && Number.isFinite(n) ? `${n.toFixed(1)}%` : '—';
   const fmtRank = (n) =>
-    typeof n === 'number' && Number.isFinite(n) ? n.toFixed(2) : n;
+    typeof n === 'number' && Number.isFinite(n) ? n.toFixed(2) : '—';
   const gaHighlights = ga.highlights || [];
   const topPages = ga.topPages || data.topPages || [];
   const topArticles7d = ga.topArticles7d || [];
@@ -241,13 +247,31 @@ function renderAnalytics(data) {
     )
     .join('');
 
+  let freshnessEl = document.getElementById('analytics-source-freshness');
+  if (!freshnessEl) {
+    freshnessEl = document.createElement('p');
+    freshnessEl.id = 'analytics-source-freshness';
+    totalsEl.after(freshnessEl);
+  }
+  freshnessEl.textContent =
+    Object.entries(data.sourceFreshness || {})
+      .map(
+        ([name, source]) =>
+          `${escapeHtml(name)}: ${source.status} · ${isEn ? 'fetched' : '擷取'} ${source.fetchedAt || '—'} · ${isEn ? 'through' : '資料截至'} ${source.dataThrough || '—'}`,
+      )
+      .join(' | ') || (isEn ? 'Source freshness unknown' : '來源新鮮度未知');
+
   // Multi-source summary
   if (insightsEl) {
     const brandShare =
       search.totals?.clicks > 0
-        ? Math.round(((search.brand?.clicks || 0) / search.totals.clicks) * 100)
+        ? Math.round(
+            ((search.brandBreakdown?.brand?.clicks || 0) /
+              search.totals.clicks) *
+              100,
+          )
         : 0;
-    const successfulCrawls = cloudflare.aiCrawlers?.http200 || 0;
+    const successfulCrawls = cloudflare.aiCrawlers?.http200;
     insightsEl.innerHTML =
       `<h3 class="subsection-title">${isEn ? '🧭 Signal Readout' : '🧭 訊號判讀'}</h3>` +
       '<div class="ga-callouts">' +
@@ -255,8 +279,8 @@ function renderAnalytics(data) {
         {
           title: isEn ? 'Behavior' : '站內行為',
           body: isEn
-            ? `${ga.label || 'Recent GA window'} shows home still dominates, while graph/dashboard/map are sticky utility pages.`
-            : `${ga.label || '最近 GA 觀測窗'} 顯示首頁仍是主漏斗，但圖譜、Dashboard、地圖已是高黏著工具頁。`,
+            ? `${ga.label || 'GA observation window'}: ${fmtNum(t.activeUsers)} active users. The rows below show page views; they do not establish retention or causality.`
+            : `${ga.label || 'GA 觀測窗'}：${fmtNum(t.activeUsers)} 位活躍使用者。下方呈現頁面瀏覽量，不據此推論留存或因果。`,
           meta:
             gaHighlights
               .slice(0, 2)
@@ -266,8 +290,8 @@ function renderAnalytics(data) {
         {
           title: isEn ? 'Search' : '搜尋意圖',
           body: isEn
-            ? `Only ${fmtNum(search.totals?.clicks)} clicks came in over the last 24h, and ${brandShare}% were brand searches. Discovery is still ahead of capture.`
-            : `過去 24 小時只有 ${fmtNum(search.totals?.clicks)} 次點擊，其中 ${brandShare}% 仍是品牌詞。被看見的速度，仍快於被接住的速度。`,
+            ? `${fmtNum(search.totals?.clicks)} clicks over ${searchPeriodDays} days; ${brandShare}% were classified as brand searches.`
+            : `過去 ${searchPeriodDays} 天有 ${fmtNum(search.totals?.clicks)} 次點擊，其中 ${brandShare}% 分類為品牌詞。`,
           meta: opportunities[0]
             ? `${opportunities[0].query} · ${fmtNum(opportunities[0].impressions)} imp · #${fmtRank(opportunities[0].position)}`
             : '',
@@ -275,8 +299,8 @@ function renderAnalytics(data) {
         {
           title: isEn ? 'Edge + AI' : '邊緣與 AI',
           body: isEn
-            ? `${fmtNum(cloudflare.aiCrawlers?.detectedRequests)} AI crawler requests arrived in the last 24h; ${fmtNum(successfulCrawls)} returned HTTP 200.`
-            : `過去 24 小時 Cloudflare 看見 ${fmtNum(cloudflare.aiCrawlers?.detectedRequests)} 次 AI crawler 請求，其中 ${fmtNum(successfulCrawls)} 次成功拿到 HTTP 200。`,
+            ? `${fmtNum(cloudflare.aiCrawlers?.detectedRequests)} AI crawler requests in the recorded Cloudflare window; ${fmtNum(successfulCrawls)} returned HTTP 200.`
+            : `Cloudflare 資料觀測窗記錄 ${fmtNum(cloudflare.aiCrawlers?.detectedRequests)} 次 AI crawler 請求，其中 ${fmtNum(successfulCrawls)} 次成功拿到 HTTP 200。`,
           meta: cloudflare.aiCrawlers?.topCrawler
             ? `${cloudflare.aiCrawlers.topCrawler.name} ${fmtNum(cloudflare.aiCrawlers.topCrawler.requests)} · ${cloudflare.aiCrawlers.topPath?.path || ''}`
             : '',
@@ -284,9 +308,9 @@ function renderAnalytics(data) {
       ]
         .map(
           (item) => `<div class="ga-callout">
-              <div class="ga-callout-title">${item.title}</div>
-              <div class="ga-callout-body">${item.body}</div>
-              <div class="ga-callout-meta">${item.meta}</div>
+              <div class="ga-callout-title">${escapeHtml(item.title)}</div>
+              <div class="ga-callout-body">${escapeHtml(item.body)}</div>
+              <div class="ga-callout-meta">${escapeHtml(item.meta)}</div>
             </div>`,
         )
         .join('') +
@@ -309,18 +333,18 @@ function renderAnalytics(data) {
           ? isEn
             ? 'Home'
             : '首頁'
-          : decodeURIComponent((p.path || '').replace(/^\/|\/$/g, ''));
+          : decodePathLabel(p.path);
       const name = rawTitle || fallbackName;
-      const href = p.path || '/';
+      const href = escapeHtml(localAnalyticsPath(p.path));
       return `<a class="ga-page-row ga-page-row-link" href="${href}" target="_blank" rel="noopener noreferrer">
             <span class="ga-page-rank">${i + 1}</span>
-            <span class="ga-page-name">${name}</span>
+            <span class="ga-page-name">${escapeHtml(name)}</span>
             <span class="ga-page-pv">${fmtNum(p.views || p.pageViews)} ${isEn ? 'views' : '瀏覽'}</span>
           </a>`;
     };
 
     return (
-      `<h3 class="subsection-title">${titleText}</h3>` +
+      `<h3 class="subsection-title">${escapeHtml(titleText)}</h3>` +
       '<div class="ga-pages-list-2col">' +
       '<div class="ga-pages-list-col">' +
       leftItems.map((p, i) => renderItem(p, i)).join('') +
@@ -385,7 +409,7 @@ function renderAnalytics(data) {
               <span class="sc-brand-value">${fmtNum(brandBreakdown.nonBrand.clicks)}/${fmtNum(brandBreakdown.nonBrand.impressions)}</span>
               <span class="sc-brand-ctr">CTR ${fmtPct(brandBreakdown.nonBrand.ctr)}</span>
             </div>
-            <div class="sc-brand-note">${isEn ? 'Total CTR aggregates both. Non-brand CTR is the real external discoverability.' : '總 CTR 加權掩蓋分層真相；非品牌 CTR 才是真實搜尋可見度'}</div>
+            <div class="sc-brand-note">${isEn ? 'Total CTR aggregates both. Compare brand and non-brand searches separately.' : '品牌詞與非品牌詞分開觀察，避免總平均掩蓋差異'}</div>
           </div>`
       : '';
 
@@ -402,7 +426,7 @@ function renderAnalytics(data) {
         const qMid = Math.ceil(qItems.length / 2);
         const renderQ = (q, i) => `<div class="sc-query-row">
               <span class="sc-query-rank">${i + 1}</span>
-              <span class="sc-query-label">${q.query}</span>
+              <span class="sc-query-label">${escapeHtml(q.query)}</span>
               <span class="sc-query-clicks">${fmtNum(q.clicks)} ${isEn ? 'clicks' : '點擊'}</span>
               <span class="sc-query-impr">${fmtNum(q.impressions)} ${isEn ? 'impr' : '曝光'}</span>
               <span class="sc-query-ctr">${fmtPct(q.ctr)}</span>
@@ -432,7 +456,7 @@ function renderAnalytics(data) {
             .slice(0, 5)
             .map(
               (q) => `<div class="ga-mini-row">
-                  <span class="ga-mini-label">${q.query}</span>
+                  <span class="ga-mini-label">${escapeHtml(q.query)}</span>
                   <span class="ga-mini-meta">${fmtNum(q.impressions)}i / #${fmtRank(q.position)}</span>
                 </div>`,
             )
@@ -460,14 +484,16 @@ function renderAnalytics(data) {
       `<div class="ga-kpi-strip">
           <span>${isEn ? 'Allowed' : '允許'} ${fmtNum(cloudflare.aiCrawlers?.allowedRequests)}</span>
           <span>HTTP 200 ${fmtNum(cloudflare.aiCrawlers?.http200)}</span>
-          <span>${isEn ? 'Failed' : '失敗'} ${fmtNum(cloudflare.aiCrawlers?.unsuccessfulRequests)}</span>
+          <span>HTTP 3xx ${fmtNum(cloudflare.aiCrawlers?.http3xx)}</span>
+          <span>HTTP 4xx ${fmtNum(cloudflare.aiCrawlers?.http4xx)}</span>
+          <span>HTTP 5xx ${fmtNum(cloudflare.aiCrawlers?.http5xx)}</span>
         </div>` +
       crawlers
         .slice(0, 8)
         .map((crawler) => {
           const pct = ((crawler.requests / maxRequests) * 100).toFixed(0);
           return `<div class="ga-source-row">
-              <span class="ga-source-name">${crawler.name}</span>
+              <span class="ga-source-name">${escapeHtml(crawler.name)}</span>
               <div class="ga-source-bar-track">
                 <div class="ga-source-bar-fill" style="width:${pct}%"></div>
               </div>
@@ -517,7 +543,7 @@ function renderAnalytics(data) {
           const pct = ((count / maxUsers) * 100).toFixed(0);
           return `<div class="ga-country-row">
             <span class="ga-country-flag">${flag}</span>
-            <span class="ga-country-name">${c.country}</span>
+            <span class="ga-country-name">${escapeHtml(c.country)}</span>
             <div class="ga-country-bar-track">
               <div class="ga-country-bar-fill" style="width:${pct}%"></div>
             </div>

@@ -154,3 +154,11 @@
 # 但 Google 還握著 87 次曝光/90d 的舊 URL（SC 2026-07-18 抓到，pos 9.0 全數 404）
 /en/music/soundscape-of-taiwan /en/music/taiwan-soundscape/ 301
 /en/music/soundscape-of-taiwan/ /en/music/taiwan-soundscape/ 301
+
+# Planning document archived; retain the public category entry point.
+/en/people/taiwan-people-knowledge-base-roadmap /en/people/ 301
+
+# 2026-09-07: normalize legacy English filenames; preserve incoming URLs.
+/en/food/Taiwan%20Regional%20Street%20Food%20Map /en/food/taiwan-regional-street-food-map/ 301
+/en/music/Taiwan%20Folk%20Music%20and%20Songs /en/music/taiwan-folk-music-and-songs/ 301
+/en/nature/Taiwan%20Hot%20Springs%20and%20Geothermal%20Energy /en/nature/taiwan-hot-springs-and-geothermal-energy/ 301

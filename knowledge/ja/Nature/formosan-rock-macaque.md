@@ -1,4 +1,5 @@
 ---
+tags: ['台湾マカク', '生態']
 translatedFrom: Nature/台灣獼猴.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cdaa1e14237e0765'

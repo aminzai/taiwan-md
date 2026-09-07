@@ -13,7 +13,7 @@
 
 ### 2. 跑 migration
 
-Dashboard → SQL Editor → 貼上 `migrations/0001_feedback.sql` 整份 → Run。
+Dashboard → SQL Editor → 依檔名順序執行 `migrations/0001_feedback.sql` 至最新 migration。既有環境只執行尚未套用的檔案，保留 migration history。
 （或裝 [Supabase CLI](https://supabase.com/docs/guides/cli)：`supabase link` 後 `supabase db push`。）
 
 ### 3. 開登入方式（Authentication → Providers）
@@ -69,3 +69,15 @@ MockBackend 用瀏覽器 localStorage 模擬 login→email→nickname→submit,�
 
 RLS：登入者只能 insert/select 自己的列;`status` 變更 + issue 回寫只能 service_role 做。
 反濫用：DB trigger 每人每小時上限 20 筆 + cron 端 LLM spam 分類。
+
+### 回報欄位與並行限流驗證
+
+`0005_feedback_server_fields.sql` 將建立時間交由伺服器決定，authenticated 僅能 INSERT 白名單內容欄位；同一 uid 的每小時上限使用 transaction advisory lock 串行計數，避免並發繞過。service_role 的 triage UPDATE 權限保留。
+
+隔離 PostgreSQL 17 整合測試：先安裝 `psycopg[binary]==3.3.5`，再使用專用測試叢集執行：
+
+```sh
+TWMD_TEST_DATABASE_URL=postgresql://localhost:55439/postgres python tests/feedback/database.test.py
+```
+
+測試建立並刪除獨立資料庫，並模擬 Supabase roles；不可指向正式叢集。包含禁止客戶端時間／狀態／issue_number、25 次並行僅 20 筆成功、第 21 筆拒絕、service_role 分流更新。正式環境套用與驗收必須另外記錄，不能以本地測試代替。

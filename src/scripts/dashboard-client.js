@@ -1,3 +1,4 @@
+import { decorateUiIcons } from '../icons/decorate-ui-icons.mjs';
 /**
  * dashboard-client.js — /dashboard 全部 client-side 渲染邏輯
  *
@@ -105,6 +106,7 @@ Promise.all([
           console.error(`Dashboard render step ${i} failed:`, e);
         }
       });
+      decorateUiIcons(document.querySelector('main'));
     },
   )
   .catch((e) => console.error('Dashboard fetch failed:', e));
