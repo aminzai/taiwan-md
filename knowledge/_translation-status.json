@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-07T06:13:23+08:00",
-    "zhCommitHead": "1b8479213",
+    "lastUpdated": "2026-09-07T09:07:05+08:00",
+    "zhCommitHead": "ce80e600a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,98 +20,98 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 758,
         "stale": 92,
-        "metadata_stale": 28,
+        "metadata_stale": 35,
         "missing": 236,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 772,
+        "fresh": 765,
         "stale": 86,
-        "metadata_stale": 30,
+        "metadata_stale": 37,
         "missing": 233,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 773,
+        "fresh": 766,
         "stale": 84,
-        "metadata_stale": 29,
+        "metadata_stale": 36,
         "missing": 235,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 766,
+        "fresh": 759,
         "stale": 88,
-        "metadata_stale": 30,
+        "metadata_stale": 37,
         "missing": 237,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 767,
+        "fresh": 760,
         "stale": 89,
-        "metadata_stale": 29,
+        "metadata_stale": 36,
         "missing": 236,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 624,
+        "fresh": 619,
         "stale": 95,
-        "metadata_stale": 85,
+        "metadata_stale": 90,
         "missing": 317,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 539,
-        "stale": 49,
-        "metadata_stale": 15,
-        "missing": 518,
+        "fresh": 537,
+        "stale": 51,
+        "metadata_stale": 16,
+        "missing": 517,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 752,
+        "fresh": 746,
         "stale": 77,
-        "metadata_stale": 22,
+        "metadata_stale": 28,
         "missing": 270,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 619,
-        "stale": 44,
-        "metadata_stale": 13,
-        "missing": 445,
+        "fresh": 614,
+        "stale": 46,
+        "metadata_stale": 17,
+        "missing": 444,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 687,
+        "fresh": 682,
         "stale": 52,
-        "metadata_stale": 17,
+        "metadata_stale": 22,
         "missing": 365,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 712,
+        "fresh": 707,
         "stale": 58,
-        "metadata_stale": 17,
+        "metadata_stale": 22,
         "missing": 334,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
         "fresh": 81,
-        "stale": 5,
+        "stale": 6,
         "metadata_stale": 1,
-        "missing": 1034,
+        "missing": 1033,
         "orphan": 0
       }
     },
@@ -1416,7 +1416,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
+          "translatedFrom": "Music/台灣客家音樂.md",
+          "sourceCommitSha": "pre-toolkit",
+          "sourceContentHash": "sha256:c683269655bc3d87",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-06T21:30:00+08:00",
+          "translationLastCommit": "640c2c9a",
+          "translationLastModified": "2026-09-07T07:18:14+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "stale",
+          "reason": "pre-toolkit"
         },
         "ar": {
           "path": "ar/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
@@ -2624,8 +2635,8 @@
     },
     "Music/小虎隊.md": {
       "zh": {
-        "lastCommit": "ac1d187a",
-        "lastModified": "2026-06-28T09:52:29+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:3550fb52e312828d",
         "bodyHash": "sha256:4cfd214b3bc19b4d"
       },
@@ -2641,8 +2652,10 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/little-tigers-taiwan-boy-band.md",
@@ -2655,8 +2668,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Music/little-tigers-taiwan-boy-band.md",
@@ -2669,8 +2684,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Music/little-tigers-taiwan-boy-band.md",
@@ -2683,8 +2700,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Music/little-tigers-taiwan-boy-band.md",
@@ -2697,8 +2716,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Music/little-tigers-taiwan-boy-band.md",
@@ -2711,8 +2732,10 @@
           "translationLastModified": "2026-08-09T11:14:00+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -2728,8 +2751,10 @@
           "translationLastModified": "2026-08-03T03:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Music/little-tigers-taiwan-boy-band.md",
@@ -2742,8 +2767,10 @@
           "translationLastModified": "2026-07-29T08:32:47+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Music/little-tigers-taiwan-boy-band.md",
@@ -2756,8 +2783,10 @@
           "translationLastModified": "2026-07-29T05:30:53+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Music/little-tigers-taiwan-boy-band.md",
@@ -2770,8 +2799,10 @@
           "translationLastModified": "2026-07-29T07:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -17267,8 +17298,8 @@
     },
     "Technology/Threads在台灣.md": {
       "zh": {
-        "lastCommit": "4a95859b",
-        "lastModified": "2026-08-15T17:13:46+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:496b567ad77c03ca",
         "bodyHash": "sha256:8487cbc11ae4a897"
       },
@@ -19061,8 +19092,8 @@
     },
     "Technology/台灣人工智慧發展與未來策略.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:ea05ddc3465f02eb",
         "bodyHash": "sha256:c1a908bbd971d40d"
       },
@@ -19078,8 +19109,10 @@
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Technology/artificial-intelligence-development-strategy.md",
@@ -19092,8 +19125,10 @@
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Technology/artificial-intelligence-development-strategy.md",
@@ -19106,8 +19141,10 @@
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Technology/artificial-intelligence-development-strategy.md",
@@ -19120,8 +19157,10 @@
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Technology/artificial-intelligence-development-strategy.md",
@@ -19134,8 +19173,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Technology/artificial-intelligence-development-strategy.md",
@@ -19148,8 +19189,10 @@
           "translationLastModified": "2026-08-09T11:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -19165,8 +19208,10 @@
           "translationLastModified": "2026-08-02T18:36:52+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Technology/artificial-intelligence-development-strategy.md",
@@ -19179,8 +19224,10 @@
           "translationLastModified": "2026-07-30T08:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Technology/artificial-intelligence-development-strategy.md",
@@ -19193,8 +19240,10 @@
           "translationLastModified": "2026-07-30T09:53:50+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "status": "missing"
@@ -29335,8 +29384,8 @@
     },
     "Art/FAB DAO與百岳計畫.md": {
       "zh": {
-        "lastCommit": "69b3afd9",
-        "lastModified": "2026-08-04T10:19:04+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:a569386269241d61",
         "bodyHash": "sha256:7b9ca7167bf3d12a"
       },
@@ -29352,8 +29401,10 @@
           "translationLastModified": "2026-08-04T13:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Art/fab-dao.md",
@@ -29366,8 +29417,10 @@
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Art/fab-dao.md",
@@ -29380,8 +29433,10 @@
           "translationLastModified": "2026-08-04T13:49:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Art/fab-dao.md",
@@ -29394,8 +29449,10 @@
           "translationLastModified": "2026-08-04T13:40:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Art/fab-dao.md",
@@ -29408,8 +29465,10 @@
           "translationLastModified": "2026-08-04T13:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Art/fab-dao.md",
@@ -29424,8 +29483,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         },
         "id": {
           "path": "id/Art/fab-dao.md",
@@ -29438,8 +29497,10 @@
           "translationLastModified": "2026-08-04T15:52:41+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Art/fab-dao.md",
@@ -29452,8 +29513,10 @@
           "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Art/fab-dao.md",
@@ -29466,8 +29529,10 @@
           "translationLastModified": "2026-08-04T17:30:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Art/fab-dao.md",
@@ -29480,8 +29545,10 @@
           "translationLastModified": "2026-08-04T15:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Art/fab-dao.md",
@@ -29494,8 +29561,10 @@
           "translationLastModified": "2026-08-04T15:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -36122,8 +36191,8 @@
     },
     "Lifestyle/台灣捷運發展史.md": {
       "zh": {
-        "lastCommit": "976dcae4",
-        "lastModified": "2026-07-19T09:51:24+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:103cffd41c084886",
         "bodyHash": "sha256:afbe1eb00070eaa4"
       },
@@ -36139,8 +36208,10 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -36153,8 +36224,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -36167,8 +36240,10 @@
           "translationLastModified": "2026-07-28T06:20:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -36181,8 +36256,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -36195,8 +36272,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -36209,8 +36288,10 @@
           "translationLastModified": "2026-07-28T06:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -36226,8 +36307,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -36240,8 +36323,10 @@
           "translationLastModified": "2026-07-28T07:58:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "status": "missing"
@@ -36257,8 +36342,10 @@
           "translationLastModified": "2026-07-27T07:04:20+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -48437,7 +48524,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/long-term-care-system-development.md",
+          "translatedFrom": "Society/台灣長期照顧制度發展.md",
+          "sourceCommitSha": "pre-toolkit",
+          "sourceContentHash": "sha256:318f46e5efc6bda8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-06T21:30:00+08:00",
+          "translationLastCommit": "1f242fab",
+          "translationLastModified": "2026-09-07T07:17:48+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "pre-toolkit"
         },
         "pt": {
           "path": "pt/Society/long-term-care-system-development.md",
@@ -61475,8 +61573,8 @@
     },
     "Nature/台灣鳥類窗殺議題.md": {
       "zh": {
-        "lastCommit": "69b3afd9",
-        "lastModified": "2026-08-04T10:19:04+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:7b5c9a385e90141f",
         "bodyHash": "sha256:e55bf8d3c335463a"
       },
@@ -61492,8 +61590,10 @@
           "translationLastModified": "2026-08-04T15:22:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Nature/bird-window-collision-taiwan.md",
@@ -61506,8 +61606,10 @@
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Nature/bird-window-collision-taiwan.md",
@@ -61520,8 +61622,10 @@
           "translationLastModified": "2026-08-04T15:27:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Nature/bird-window-collision-taiwan.md",
@@ -61534,8 +61638,10 @@
           "translationLastModified": "2026-08-04T15:23:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Nature/bird-window-collision-taiwan.md",
@@ -61548,8 +61654,10 @@
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Nature/bird-window-collision-taiwan.md",
@@ -61564,8 +61672,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         },
         "id": {
           "path": "id/Nature/bird-window-collision-taiwan.md",
@@ -61578,8 +61686,10 @@
           "translationLastModified": "2026-08-04T15:52:41+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Nature/bird-window-collision-taiwan.md",
@@ -61592,8 +61702,10 @@
           "translationLastModified": "2026-08-04T14:56:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Nature/bird-window-collision-taiwan.md",
@@ -61606,8 +61718,10 @@
           "translationLastModified": "2026-08-04T15:55:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Nature/bird-window-collision-taiwan.md",
@@ -61620,8 +61734,10 @@
           "translationLastModified": "2026-08-04T15:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Nature/bird-window-collision-taiwan.md",
@@ -61634,8 +61750,10 @@
           "translationLastModified": "2026-08-04T15:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -66822,8 +66940,8 @@
     },
     "People/林良.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:ff949a14cc54475a",
         "bodyHash": "sha256:99fcaed64626278d"
       },
@@ -66839,8 +66957,10 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/lin-liang-childrens-literature.md",
@@ -66853,8 +66973,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/lin-liang-childrens-literature.md",
@@ -66867,8 +66989,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/lin-liang-childrens-literature.md",
@@ -66881,8 +67005,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/lin-liang-childrens-literature.md",
@@ -66895,8 +67021,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/lin-liang-childrens-literature.md",
@@ -66909,8 +67037,10 @@
           "translationLastModified": "2026-08-09T11:47:10+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -66926,8 +67056,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "status": "missing"
@@ -66943,8 +67075,10 @@
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/lin-liang-childrens-literature.md",
@@ -66957,8 +67091,10 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "status": "missing"
@@ -82796,8 +82932,8 @@
     },
     "People/莫那·魯道.md": {
       "zh": {
-        "lastCommit": "d5ca846b",
-        "lastModified": "2026-07-19T09:53:04+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:a925dd382d90f176",
         "bodyHash": "sha256:2e9a56655129cad4"
       },
@@ -82813,8 +82949,10 @@
           "translationLastModified": "2026-07-31T04:01:39+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/mona-rudao.md",
@@ -82827,8 +82965,10 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/mona-rudao.md",
@@ -82841,8 +82981,10 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/mona-rudao.md",
@@ -82855,8 +82997,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/mona-rudao.md",
@@ -82869,8 +83013,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/mona-rudao.md",
@@ -82883,8 +83029,10 @@
           "translationLastModified": "2026-08-09T10:38:06+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -107148,8 +107296,8 @@
     },
     "Food/台灣米其林與精緻餐飲.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:5dc9bb02298749c4",
         "bodyHash": "sha256:3ca2a02845451f2c"
       },
@@ -107167,8 +107315,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "ja": {
           "path": "ja/Food/taiwan-michelin-fine-dining.md",
@@ -107183,8 +107331,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "ko": {
           "path": "ko/Food/taiwan-michelin-fine-dining.md",
@@ -107199,8 +107347,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "es": {
           "path": "es/Food/taiwan-michelin-fine-dining.md",
@@ -107215,8 +107363,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "fr": {
           "path": "fr/Food/taiwan-michelin-fine-dining.md",
@@ -107231,8 +107379,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "vi": {
           "path": "vi/Food/taiwan-michelin-fine-dining.md",
@@ -107247,8 +107395,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "id": {
           "path": "id/Food/taiwan-michelin-fine-dining.md",
@@ -107263,8 +107411,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "pt": {
           "path": "pt/Food/taiwan-michelin-fine-dining.md",
@@ -107279,8 +107427,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "hi": {
           "path": "hi/Food/taiwan-michelin-fine-dining.md",
@@ -107295,8 +107443,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "ar": {
           "path": "ar/Food/taiwan-michelin-fine-dining.md",
@@ -107311,8 +107459,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "ru": {
           "path": "ru/Food/taiwan-michelin-fine-dining.md",
@@ -107327,8 +107475,8 @@
           "footnoteDefs": 0,
           "status": "metadata-stale",
           "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+2 -4"
         },
         "de": {
           "status": "missing"
@@ -109207,7 +109355,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/milkfish-congee.md",
+          "translatedFrom": "Food/虱目魚粥.md",
+          "sourceCommitSha": "pre-toolkit",
+          "sourceContentHash": "sha256:5890b2a9aad07932",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-06T21:30:00+08:00",
+          "translationLastCommit": "cbed3d57",
+          "translationLastModified": "2026-09-07T07:17:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "pre-toolkit"
         }
       }
     },
@@ -113166,8 +113325,8 @@
     },
     "Food/台灣新住民美食融合.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:77ab88a911a474f4",
         "bodyHash": "sha256:0ecfd7b1fa40d486"
       },
@@ -113185,8 +113344,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "ja": {
           "path": "ja/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113201,8 +113360,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "ko": {
           "path": "ko/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113217,8 +113376,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "es": {
           "path": "es/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113233,8 +113392,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "fr": {
           "path": "fr/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113249,8 +113408,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "vi": {
           "path": "vi/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113265,8 +113424,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "id": {
           "path": "id/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113281,8 +113440,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "pt": {
           "path": "pt/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113297,8 +113456,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "hi": {
           "path": "hi/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113313,8 +113472,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "ar": {
           "path": "ar/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113329,8 +113488,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "ru": {
           "path": "ru/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -113345,8 +113504,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+9 -3"
         },
         "de": {
           "status": "missing"
@@ -113355,8 +113514,8 @@
     },
     "Food/台灣麵食文化.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
+        "lastCommit": "9094012f",
+        "lastModified": "2026-09-07T09:02:54+08:00",
         "contentHash": "sha256:bd2837ec0fbef900",
         "bodyHash": "sha256:a96dfd18a42fc656"
       },
@@ -113374,8 +113533,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "ja": {
           "path": "ja/Food/taiwanese-noodle-culture.md",
@@ -113390,8 +113549,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "ko": {
           "path": "ko/Food/taiwanese-noodle-culture.md",
@@ -113406,8 +113565,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "es": {
           "path": "es/Food/taiwanese-noodle-culture.md",
@@ -113422,8 +113581,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "fr": {
           "path": "fr/Food/taiwanese-noodle-culture.md",
@@ -113438,8 +113597,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "vi": {
           "path": "vi/Food/taiwanese-noodle-culture.md",
@@ -113454,8 +113613,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "id": {
           "path": "id/Food/taiwanese-noodle-culture.md",
@@ -113470,8 +113629,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "pt": {
           "path": "pt/Food/taiwanese-noodle-culture.md",
@@ -113486,8 +113645,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "hi": {
           "path": "hi/Food/taiwanese-noodle-culture.md",
@@ -113502,8 +113661,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "ar": {
           "path": "ar/Food/taiwanese-noodle-culture.md",
@@ -113518,8 +113677,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "ru": {
           "path": "ru/Food/taiwanese-noodle-culture.md",
@@ -113534,8 +113693,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+10 -4"
         },
         "de": {
           "status": "missing"
