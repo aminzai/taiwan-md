@@ -9,6 +9,7 @@ import {
 import {
   getCompanyConfigs,
   getFellOffCompanies,
+  localizeCompanyArticleUrls,
   sectorColors,
 } from '../utils/dataConfig';
 
@@ -17,7 +18,9 @@ const t = useTranslations(lang);
 const translatePath = useTranslatedPath(lang);
 
 // Centralized SSOT — shared with the /data 企業地圖 teaser section
-const companies = getCompanyConfigs(t);
+// articleUrl 在 SSOT 裡是 zh 網址；換成本語言讀得到的那個，沒有譯文就拿掉連結。
+// 表格與泡泡圖吃的是同一個陣列（泡泡圖走下方 define:vars），所以兩邊一起修好。
+const companies = localizeCompanyArticleUrls(getCompanyConfigs(t), lang);
 const fellOff = getFellOffCompanies(t);
 const sectors = [...new Set(companies.map((c) => c.sector))];
 
@@ -192,10 +195,7 @@ const money = (v: number) =>
                   <td>{i + 1}</td>
                   <td>
                     {c.articleUrl ? (
-                      <a
-                        href={translatePath(c.articleUrl)}
-                        class="company-link"
-                      >
+                      <a href={c.articleUrl} class="company-link">
                         {c.name}
                       </a>
                     ) : (
@@ -498,8 +498,9 @@ const money = (v: number) =>
         .on('click', (e, d) => {
           e.stopPropagation();
           if (d.articleUrl) {
-            const prefix = currentLang === 'zh-TW' ? '' : '/' + currentLang;
-            window.location.href = prefix + d.articleUrl;
+            // 已經是本語言的完整網址（見 dataConfig localizeCompanyArticleUrls），
+            // 不要再自己加語言前綴。
+            window.location.href = d.articleUrl;
           }
         })
         .style('cursor', (d) => (d.articleUrl ? 'pointer' : 'grab'));

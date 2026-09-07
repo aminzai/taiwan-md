@@ -1,3 +1,5 @@
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 import { useTranslations } from '../i18n/utils';
 
 export type Sector =
@@ -72,6 +74,87 @@ export const sectorColors: Record<Sector, string> = {
 // 營收：2025 全年合併營收（金控為合併營業收入，含保險）。單位皆為「億 TWD」。
 // 資料來源：TWSE、各公司 2025 全年營收公告、年報／ESG 報告、公開資訊觀測站。
 // snapshot：2026-06；市值為近似值，僅供結構參考，不構成投資建議。
+// ── articleUrl 的語言解析 ───────────────────────────────────────────────
+// 下面每一筆 `articleUrl` 都是 zh-TW 的文章網址（`/economy/台灣企業：台積電`）。
+// 過去頁面直接對它套 `translatePath()`／`'/' + lang + articleUrl`，等於假設
+// 每個語言的同一篇文章都住在中文標題底下——但譯文的 slug 是在地化的
+// （`/en/economy/delta-electronics-taiwan-power-giant`）。於是十二個語言的
+// /companies 各自發出十來條指向不存在網址的連結，中文版反而是對的，所以
+// 沒有人從中文站點看得出來。這是 §神經迴路「多語言 nav 的隱性路由 scope」
+// 的第 N 次：只在特定語言存在的路由，不能讓 translatePath 隱性生成。
+//
+// 正確的對照表站上早就有：`public/api/lang-switch-map.json` 的 `fromZh`
+// 就是「給定一個 zh 網址，這個語言該連到哪」，由
+// `scripts/core/generate-lang-switch-map.mjs` 從各譯文的 `translatedFrom`
+// 產生。這裡讀它，不要另建第二份對照（REFLEXES #21 SSOT）。
+//
+// cache 放在 module scope 不放 .astro frontmatter：Astro 會把 frontmatter
+// 編譯進 per-render function，cache 擺那裡每頁都會重新讀檔（§神經迴路
+// 「`.astro` frontmatter 是 per-render scope」）。
+type FromZhRegistry = Record<string, Record<string, string>>;
+let _fromZhCache: FromZhRegistry | null = null;
+
+function getFromZhRegistry(): FromZhRegistry {
+  if (_fromZhCache) return _fromZhCache;
+  let registry: FromZhRegistry = {};
+  try {
+    const raw = readFileSync(
+      resolve(process.cwd(), 'public/api/lang-switch-map.json'),
+      'utf-8',
+    );
+    const data = JSON.parse(raw) as {
+      registry: Record<string, { fromZh?: Record<string, string> }>;
+    };
+    for (const [lang, entry] of Object.entries(data.registry ?? {})) {
+      registry[lang] = entry?.fromZh ?? {};
+    }
+  } catch {
+    // 對照表還沒 prebuild（dev 首跑）時退回空表 —— 結果是不出連結，
+    // 不是出壞連結。壞連結比沒連結貴，因為讀者點了才知道。
+    registry = {};
+  }
+  _fromZhCache = registry;
+  return registry;
+}
+
+/**
+ * 把一個寫死在版面設定裡的 zh 文章網址，換成 `lang` 讀得到的那個。
+ * 沒有該語言的譯文就回 `undefined`——呼叫端要據此**不出連結**，
+ * 而不是退回 zh 網址：把英文讀者送到中文頁跟送到 404 一樣是壞體驗，
+ * 只是壞得比較不明顯。
+ *
+ * `lang === 'zh-TW'` 原樣回傳（它本來就是 zh 網址）。
+ */
+export function localizeArticlePath(
+  path: string | undefined,
+  lang: string,
+): string | undefined {
+  if (!path) return undefined;
+  if (lang === 'zh-TW') return path;
+  const fromZh = getFromZhRegistry()[lang] ?? {};
+  // 設定檔裡有的寫尾斜線有的沒寫，對照表的 key 一律沒有 —— 兩種都試，
+  // 免得同一份對照表因為一個斜線而對半失效。
+  const bare = path.endsWith('/') ? path.slice(0, -1) : path;
+  return fromZh[bare] ?? fromZh[path];
+}
+
+/**
+ * 把一批公司的 zh `articleUrl` 換成 `lang` 讀得到的網址。
+ * 該語言沒有這篇譯文時把 `articleUrl` 拿掉——頁面既有的無文章分支會把它
+ * 渲染成純文字，讀者不會點到一個 404。
+ */
+export function localizeCompanyArticleUrls<T extends { articleUrl?: string }>(
+  companies: T[],
+  lang: string,
+): T[] {
+  if (lang === 'zh-TW') return companies;
+  return companies.map((c) =>
+    c.articleUrl
+      ? { ...c, articleUrl: localizeArticlePath(c.articleUrl, lang) }
+      : c,
+  );
+}
+
 export const getCompanyConfigs = (
   t: ReturnType<typeof useTranslations>,
 ): Company[] => [

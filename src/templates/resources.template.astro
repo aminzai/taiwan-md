@@ -7,6 +7,7 @@ import {
   useTranslatedPath,
 } from '../i18n/utils';
 import type { ResourceSite } from '../data/resources-data';
+import { localizeArticlePath } from '../utils/dataConfig';
 import {
   heroCategories,
   governmentFiveYuan,
@@ -522,19 +523,38 @@ const mindmapData = JSON.stringify({
 
             <div class="related-articles">
               <span class="related-label">{t('resources.related.label')}:</span>
-              {chapter.relatedKeys.map((key, i) => (
-                <Fragment>
-                  <a
-                    href={translatePath(chapter.relatedPaths?.[i] || '/')}
-                    class="related-link"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {t(key)}
-                  </a>
-                  {i < chapter.relatedKeys.length - 1 ? ' · ' : ''}
-                </Fragment>
-              ))}
+              {/*
+                relatedPaths 寫的是 zh 文章網址。過去這裡直接 translatePath()，
+                於是十二個語言各自發出「/{lang}/ + 中文標題」這種不存在的網址
+                （譯文的 slug 是在地化的）。中文版剛好是對的，所以從中文站看不出來。
+                改走 localizeArticlePath 查 lang-switch-map 的 fromZh 對照表；
+                沒有譯文的就不出連結，不出壞連結。
+              */}
+              {chapter.relatedKeys.map((key, i) => {
+                const href = localizeArticlePath(
+                  chapter.relatedPaths?.[i],
+                  lang,
+                );
+                return (
+                  <Fragment>
+                    {href ? (
+                      <a
+                        href={href}
+                        class="related-link"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {t(key)}
+                      </a>
+                    ) : (
+                      <span class="related-link related-link--unavailable">
+                        {t(key)}
+                      </span>
+                    )}
+                    {i < chapter.relatedKeys.length - 1 ? ' · ' : ''}
+                  </Fragment>
+                );
+              })}
             </div>
 
             <div class="section-footer">
@@ -829,6 +849,12 @@ const mindmapData = JSON.stringify({
   }
   .related-link {
     color: #059669;
+  }
+  /* 該語言還沒有這篇譯文時，標題照樣列出來（讀者知道有這個主題），
+     但不做成連結——沒有連結好過連到 404。 */
+  .related-link--unavailable {
+    color: #94a3b8;
+    cursor: default;
   }
   .section-footer {
     margin-top: 1.5rem;
