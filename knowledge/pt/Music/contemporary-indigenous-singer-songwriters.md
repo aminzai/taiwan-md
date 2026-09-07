@@ -1,371 +1,349 @@
 ---
-title: 'Cantores-compositores indígenas contemporâneos'
-description: 'De A-mei a Suming e Sangpuy, como os cantores indígenas de Taiwan transmitem almas antigas na música moderna, criando uma paisagem musical indígena contemporânea única'
+title: 'Cantores Indígenas Contemporâneos'
+description: 'A música "Oceanos" de Chen Chien-nien utiliza línguas Binin e Mandarim, enquanto Shumiing conecta a criação à educação cultural de Dulan; ABAO introduz a língua Paiwan na produção pop contemporânea. Este artigo compara as obras de diversos artistas, desde A-Mei e Wang Hongen até Sangpuy e Ilid Kaolo, analisando como línguas indígenas, experiências de vida e técnicas de gravação se cruzam, sem reduzir múltiplos grupos a um único som.'
 date: 2026-03-18
 category: 'Music'
 tags:
   [
-    'cantores indígenas',
-    'música pop',
-    'fusão cultural',
-    'Golden Melody Awards',
-    'criação contemporânea',
+    'Cantores Indígenas',
+    'Música Pop',
+    'Fusão Cultural',
+    'Prêmio Golden Melody',
+    'Criação Contemporânea',
   ]
 subcategory: '當代原住民音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
-lastHumanReview: true
+lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
+relatedDiary: ['2026-09-07-164559-audit-upgrade']
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:63a03cba4dec8d7b'
-sourceBodyHash: 'sha256:709d0c8ef67f0111'
-translatedAt: '2026-07-26T11:16:46+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:5f5c57d9d0a5af84'
+sourceBodyHash: 'sha256:6ab99bf50b216a39'
+translatedAt: '2026-09-08T00:42:54+08:00'
 ---
 
-# Cantores-compositores indígenas contemporâneos
+# Cantores Indígenas Contemporâneos
 
-No mapa musical de Taiwan, os cantores indígenas, com a sua profunda herança cultural e vocabulário musical inovador, injetam uma vitalidade única na cena musical de língua chinesa. Desde o surgimento meteórico de A-mei nos anos 1990 até ao surgimento da nova geração representada por Suming, Sangpuy e outros após os anos 2000, a música indígena de Taiwan encontrou o ponto de equilíbrio perfeito entre tradição e modernidade, tornando-se a força musical de Taiwan com maior reconhecimento internacional.
+No panorama musical de Taiwan, os cantores indígenas injetam uma vitalidade única na cena da música Mandarim com suas profundas raízes culturais e vocabulário musical inovador. Desde a ascensão meteórica de A-Mei nos anos 1990 até o surgimento de novas gerações como Shumiing e Sangpuy nas décadas de 2000, a música indígena de Taiwan continua explorando diferentes formas de expressão entre o tradicional e o moderno.
 
-## Visão geral em 30 segundos
+> **Resumo em 30 segundos**: Este artigo apresenta diversos artistas através de canções pop, álbuns em línguas indígenas e educação musical tribal, cruzando suas obras com os registros oficiais do Prêmio Golden Melody.
 
-Os cantores indígenas contemporâneos de Taiwan firmaram a sua posição no mundo da música popular graças ao seu talento musical único e contexto cultural. Figuras representativas incluem a «Rainha da Ásia» A-mei, o «Poeta Folk» Chen Chien-nien, o «Novo Rei da Canção» Suming, o «Cantor da Alma» Sangpuy, entre outros.
+Os cantores indígenas contemporâneos de Taiwan estabeleceram seu lugar no cenário da música popular por meio de suas criações, treinamento performático e experiências culturais. Entre as figuras proeminentes estão "Rainha da Ásia" A-Mei, o "Poeta Folclórico" Chen Chien-nien, o "Rei do Canto da Nova Geração" Shumiing e o "Cantor Espiritual" Sangpuy.
 
-Além do sucesso na música comercial, eles também transmitem a cultura indígena através da música, criando o único «som indígena» de Taiwan. Desde a criação do «Prémio de Melhor Álbum em Língua Indígena» nos Golden Melody Awards em 2005, a música em línguas maternas obteve reconhecimento institucional.
+Além de seu sucesso comercial, eles também transmitem a cultura indígena através da música, criando um "som indígena" único para a música de Taiwan. O prêmio de álbum em língua indígena do Prêmio Golden Melody oferece uma porta de entrada para observar os discos cantados nessas línguas. [^7]
 
-Estes cantores abrangem três gerações, desde o avanço comercial dos anos 1990, ao regresso cultural dos anos 2000, até às diversas experiências nas plataformas digitais de hoje, escrevendo juntos a história moderna da música indígena de Taiwan.
+Essas rotas musicais paralelas — que incluem produções comerciais Mandarim, folclore em línguas indígenas e música eletrônica — não constituem uma sucessão geracional fixa; um mesmo artista pode transitar por múltiplos estilos de criação.
 
-**Palavras-chave:** A-mei, Chen Chien-nien, Suming, Sangpuy, Golden Melody Awards, criação em língua materna, transmissão cultural
-
----
-
-## A jornada musical das aldeias para o mundo
-
-O desenvolvimento contemporâneo da música indígena de Taiwan reflete as transformações culturais da sociedade taiwanesa e o despertar da consciência étnica.[^1] Estes cantores são simultaneamente transmissores culturais e observadores sociais, com obras que prestam homenagem à tradição e refletem sobre a condição da vida moderna.
-
-### O dom musical inato
-
-O talento musical dos povos indígenas tem raízes culturais profundas.[^2] Na sociedade das aldeias, a música faz parte da vida quotidiana, desde canções de embalar até cânticos de festivais, os membros da tribo crescem imersos num ambiente musical. Este contexto cultural cultivou em muitos cantores indígenas um sentido musical, rítmico e de expressão emocional únicos.
-
-### Oportunidades musicais da urbanização
-
-A onda de urbanização iniciada nos anos 1960 levou muitos jovens indígenas às cidades em busca de oportunidades de desenvolvimento. Embora tenham deixado as aldeias, o seu talento musical permitiu-lhes encontrar novos palcos na indústria de entretenimento urbana, desde atuações em restaurantes e espetáculos em boates até à entrada no mainstream musical.
+**Palavras-chave:** A-Mei, Chen Chien-nien, Shumiing, Sangpuy, Prêmio Golden Melody, Criação na Língua Materna, Transmissão Cultural
 
 ---
 
-## Primeira geração: A era dos pioneiros (1990-2000)
+## Jornada Musical do Tribo para o Mundo
 
-### A-mei (1972-): A voz Puyuma da Rainha da Ásia
+A canção "Oceanos" de Chen Chien-nien utiliza tanto a língua Binin quanto o Mandarim, apresentando como uma música pessoal pode transitar entre múltiplas linguagens musicais. [^1] Esses artistas atuam como transmissores culturais e observadores sociais; suas obras homenageiam o tradicional ao mesmo tempo em que refletem sobre as condições da vida moderna.
 
-**Grupo étnico:** Puyuma  
-**Estreia:** Álbum _Sisters_ (姊妹) em 1996  
-**Obras representativas:** 〈Sisters〉, 〈Listen to the Sea〉, 〈Holding Hands〉, 〈Can I Hug You?〉
+### Experiências Musicais Não São Iguais
 
-O aparecimento de A-mei (aMEI) mudou a ecologia da música pop de língua chinesa.[^5] Com a sua impressionante capacidade vocal e carisma de palco, não só se tornou a cantora feminina de língua chinesa mais influente do final dos anos 1990 ao início dos anos 2000, como também mostrou ao mundo o talento musical dos indígenas de Taiwan.
-
-**Características musicais:**
-
-- Ampla extensão vocal (mais de três oitavas)
-- Voz com poder explosivo
-- Fusão de R&B, rock, pop e outros elementos
-- Atuações de palco cheias do espírito livre indígena
-
-**Significado cultural:**
-O sucesso de A-mei quebrou os estereótipos do mainstream musical sobre os indígenas, provando que cantores indígenas não só podem cantar canções tradicionais, mas também brilhar na música pop moderna. A sua existência inspirou inúmeros sucessores, abrindo caminho para o desenvolvimento da música indígena no mercado mainstream.
-
-### Power Station: Representantes da voz poderosa
-
-**Membros:** Yen Chih-lin (顏志琳, Paiwan), Yu Chiu-hsing (尤秋興, Paiwan)[^3]  
-**Estreia:** 1997  
-**Obras representativas:** 〈When〉, 〈Walking Nine Times on Zhongxiao East Road〉
-
-Power Station é conhecida pelas suas harmonias espessas e poderosas, com as vozes dos dois membros a complementarem-se de forma extremamente forte, tornando-se um exemplo clássico de grupo masculino. O seu estilo musical inclina-se para o rock balada, com as vozes a possuírem a textura espessa característica dos indígenas.
+A etnia não pode substituir a compreensão de uma obra. Canções cerimoniais, canções transmitidas familiarmente, crescimento urbano, colaboração de bandas e técnicas de gravação têm influências distintas em diferentes músicos. Agrupar todos os cantores indígenas com base no mesmo talento ou timbre obscurece as diferenças criativas. Ao ouvir, é possível distinguir a língua usada na obra, o autor da letra e da música, o arranjo e a relação do cantor com sua tribo.
 
 ---
 
-## Segunda geração: Regresso cultural e inovação (2000-2010)
+## Avanço no Mercado Mandarim
 
-### Chen Chien-nien (1967-): O uivo Puyuma do poeta do oceano
+### A-Mei: A Voz Binin da Rainha da Ásia
 
-**Grupo étnico:** Puyuma  
-**Estreia:** Álbum _Ocean_ (海洋) em 1999  
-**Obras representativas:** 〈Ocean〉, 〈Love of Lanyu〉, 〈Hometown Puyuma〉
+**Etnia:** Binin
+**Estreia:** Álbum _Sister_ em 1996
+**Obras Representativas:** 〈Sister〉, 〈Listening to the Sea〉, 〈Hand in Hand〉, 〈Can I Hug You?〉
 
-Chen Chien-nien é aclamado como o «Pai do Folk Indígena», o seu estilo musical é caloroso e introspetivo, a voz carrega a profundidade do oceano e a tranquilidade das montanhas. O álbum _Ocean_ ganhou o prémio de Melhor Cantor Masculino de Música Popular no 11.º Golden Melody Awards[^4], estabelecendo a importante posição da música indígena nos Golden Melody Awards.
+A aparição de [A-Mei](/pt/people/a-mei/) alterou o ecossistema da música popular Mandarim. [^5] Com sua impressionante habilidade vocal e carisma no palco, ela não só se tornou uma das cantoras Mandarim mais influentes do final dos anos 90 ao início dos anos 2000, mas também mostrou ao mundo o talento musical indígena de Taiwan.
 
-**Características musicais:**
+**Características Musicais:**
 
-- Estilo folk simples
-- Uso extensivo da língua Puyuma
-- Arranjos centrados na guitarra
-- Letras cheias de profundo afeto pela terra natal e cultura
+- Transição entre canções líricas e obras com ritmo marcante
+- Voz explosiva
+- Fusão de vários elementos como R&B, rock e pop
+- Apresentações de palco que combinam dança e banda
 
-### Chi Hsiao-chun: Voz pura e transparente
+**Significado Cultural:**
+O sucesso de A-Mei desconstruiu os estereótipos indígenas no círculo musical mainstream, provando que cantores indígenas não podem apenas cantar canções tradicionais, mas também brilhar na música popular moderna. Sua existência inspirou inúmeros sucessores, abrindo caminho para o desenvolvimento da música indígena no mercado principal.
 
-**Grupo étnico:** Puyuma  
-**Obras representativas:** 〈Wild Fire Spring Wind〉, 〈Solo Flight〉
+### Dinâmica de Força: Representantes do Canto Poderoso
 
-Chi Hsiao-chun possui uma voz extremamente pura e transparente, o seu estilo de canto situa-se entre o tradicional e o moderno, mantendo a beleza original da música indígena e possuindo simultaneamente a sofisticação da música moderna.
+**Membros:** Yan Zhilin, You Qiuxing [^3]
+**Estreia:** 1997
+**Obras Representativas:** 〈Dang〉, 〈Nine Trips on Zhongxiao East Road〉
 
-### Wang Hung-en: Exploração diversificada do talentoso criador
-
-**Grupo étnico:** Amis  
-**Obras representativas:** 〈Moonlight〉, 〈Beautiful Heart Folk Song〉
-
-Wang Hung-en é um cantor criativo talentoso, a sua música atravessa folk, rock e vários territórios entre o tradicional indígena e o pop moderno, demonstrando a força criativa dos músicos indígenas.
+Dinamic Force é conhecida por seus coros robustos e poderosos; a complementaridade vocal dos dois membros é extremamente forte, tornando-os um exemplo clássico de grupo masculino. Seu estilo musical tende ao rock lírico, com o coro denso formando sua identidade.
 
 ---
 
-## Terceira geração: Inovação cultural da nova geração (2010-presente)
+## Folclore e Criação em Línguas Indígenas
 
-### Suming (1978-): O novo rei da canção da aldeia Dulan
+### Chen Chien-nien: O Canto Binin do Poeta Oceânico
 
-**Nome de batismo:** Jiang Sheng-min  
-**Grupo étnico:** Amis (aldeia Dulan)  
-**Estreia:** Álbum _Suming_ em 2010  
-**Obras representativas:** 〈Don't Give Up〉, 〈Beautiful Rice Ears〉, 〈Ina〉
+**Etnia:** Binin
+**Estreia:** Álbum _Oceanos_ em 1999
+**Obras Representativas:** 〈Oceanos〉, 〈Puyuma da Pátria〉
 
-Suming é um dos mais representativos cantores-compositores indígenas contemporâneos. A sua música funde o tradicional Amis, rock moderno, música eletrónica e outros elementos, criando o único «som Dulan».
+O estilo musical de [Chen Chien-nien](/pt/people/chen-chien-nien/) é caloroso e contido, com uma profundidade oceânica e serenidade florestal em sua voz. O álbum _Oceanos_ ganhou o prêmio de Melhor Cantor Masculino Mandarim no 11º Prêmio Golden Melody [^4], estabelecendo um lugar importante para a música indígena neste prêmio.
 
-**Estilo musical:**
+**Características Musicais:**
 
-- Criação em canal duplo com língua Amis e mandarim
-- Fusão de canções tradicionais com arranjos modernos
-- Uso extensivo de vocábulos Amis (hai yan)
-- Elementos de rock, eletrónica, world music em pé de igualdade
+- Estilo folclórico simples
+- Canto em Binin e Mandarim
+- Arranjo predominantemente com violão
+- Letras repletas de profunda afeição pela pátria e cultura
 
-**Contribuição cultural:**
+Os dados do disco _Oceanos_ também lembram ao ouvinte que o cantor, os compositores das letras e os produtores têm papéis diferentes. O produtor listado é Cheng Jie-ren; a língua indica Binin e Mandarim, e as músicas incluem 〈We Are Compatriots〉 e 〈Puyuma da Pátria〉. Ao conhecer um disco em língua indígena, além da etnia do cantor, você pode continuar lendo através dos nomes de produção e das línguas usadas nas canções. [^1]
 
-- Fundou o «BaLiwakes Music Studio» para promover a música indígena
-- Organiza o «Amis Music Festival»
-- Liga intercâmbios culturais indígenas internacionais através da música
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDjRtY0xqr0" title="Música de Jacktou: Videoclipe Oficial de Oceanos por Chen Chien-nien" loading="lazy" allowfullscreen></iframe>
 
-**Cronologia dos principais álbuns:**
+O videoclipe oficial do álbum _Oceanos_ de Jacktou permite que o leitor compare com os dados do disco mencionados acima. [^1]
 
-- **《Suming》（2010）**: Estreia, rock moderno cantado em Amis, 〈Don't Give Up〉 amplamente divulgada
-- **《East West》（2012）**: Explora o conflito entre cultura da aldeia e vida moderna, uso de vocábulos Amis hai-yan mais maduro
-- **《Sea. I'm Waiting for You Here》（2015）**: Gravação in loco dos sons naturais da costa de Dulan integrados nos arranjos, regresso ao tema da aldeia
-- **《I am Suming》（2017）**: Estilo funde world music e elementos eletrónicos, nomeado para Melhor Álbum em Língua Indígena no 28.º Golden Melody Awards
-- **《Love》（2019）**: Volta-se para escrita emocional pessoal, mantendo o núcleo em língua materna
+### Ji Xiaojun: Timbre Puro e Transparente
 
-O nome de Suming em Amis significa «vento do norte», este nome também se tornou a anotação do seu estilo musical — com sentido de direção, mas também com selvageria. A sua gestão de longo prazo do estúdio musical em Dulan transformou a aldeia num campo cultural vivo de criação contínua.
+**Etnia:** Binin
+**Ponto de Escuta:** _A Voz do Sol, Vento e Pradaria_, onde Ji Xiaojun ganhou o prêmio de Melhor Novato no 11º Prêmio Golden Melody. [^gma11]
 
-### Sangpuy (1971-): Os poemas Puyuma do cantor da alma
+Ji Xiaojun possui um timbre extremamente puro e transparente; seu estilo vocal se situa entre o tradicional e o moderno, mantendo a beleza original da música indígena ao mesmo tempo em que exibe sofisticação musical moderna.
 
-**Nome de batismo:** Shen Huai-yi  
-**Grupo étnico:** Puyuma  
-**Estreia:** Álbum _Dalan_ (椏幹) em 2008  
-**Obras representativas:** 〈[Dalan](https://www.youtube.com/watch?v=ealNSQUDAaU)〉, 〈Lahang〉, 〈Myth〉
+### Wang Hongen: A Exploração Diversificada do Gênio Criativo
 
-A música de Sangpuy possui uma forte cor espiritual.[^6] A sua voz é profunda e contagiante, as letras frequentemente trazem reflexão filosófica e cultural. É aclamado como o «Bob Dylan de Taiwan», com estilo musical único.
+**Etnia:** Bunun
+**Obras Representativas:** 〈Moonlight〉 [^wang]
 
-**Características musicais:**
-
-- Criação lírica poética
-- Profunda observação social
-- Arranjos simples mas poderosos
-- Uso paralelo de Puyuma e mandarim
-
-**Cronologia dos principais álbuns:**
-
-- **《Dalan》（2008）**: Ganhou Melhor Álbum em Língua Indígena no 20.º Golden Melody Awards, interpreta em Puyuma a ligação entre terra e alma
-- **《Kagayan》（2013）**: Nome retirado de canções tradicionais Puyuma, inclui obras poéticas como 〈Lahang〉, usa xilofone, harmónica e outros instrumentos simples
-- **《Myth》（2017）**: Entra em fase criativa mais serena, escreve mitos da aldeia e memórias ancestrais
-- **《Sising》（2020）**: Explora em Puyuma puro os temas da vida, morte e espera
-
-As atuações ao vivo de Sangpuy são conhecidas pelo minimalismo: uma guitarra, um microfone, mas a voz parece vir das profundezas da terra. Ele disse uma vez que apenas reconta em contexto moderno o que os anciãos Puyuma já cantavam há muito tempo, para os jovens ouvirem.
-
-### Ado Kaliting Pacidal: Os diversos sons da nova geração
-
-**Grupo étnico:** Amis  
-**Estilo musical:** Fusão de hip-hop, rock, eletrónica e outros elementos modernos
-
-Ado representa o espírito inovador da nova geração de cantores indígenas, não se prende a formas tradicionais, experimenta ousadamente vários estilos musicais, demonstrando as infinitas possibilidades da música indígena.
-
-### ABAO: A divulgadora global da língua Puyuma
-
-**Grupo étnico:** Puyuma (aldeia Nanwang)
-**Nome de batismo:** Chung Lan-chi
-**Obras representativas:** 〈kinakaian Mother's Tongue〉, 〈Me〉, 〈Fly away〉
-
-ABAO é uma das cantoras-compositoras indígenas contemporâneas de Taiwan mais observadas internacionalmente. A sua música funde R&B, música eletrónica com canções tradicionais Puyuma, as letras movem-se fluidamente entre língua materna e chinês, quebrando o estereótipo de que a música indígena «só pode ser tradicional».
-
-**Principais prémios e marcos:**
-
-- 30.º Golden Melody Awards: Melhor Álbum em Taiwanês (2019, _kinakaian Mother's Tongue_)
-- 31.º Golden Melody Awards: Melhor Cantor em Língua Indígena (2020)
-- Selecionada para capa da edição asiática da revista _TIME_ (2021)
-
-A influência musical de ABAO ultrapassa a ilha de Taiwan, tornando-se uma das vozes representativas da cultura indígena de Taiwan com maior visibilidade global. Ela embala canções em língua materna com especificações de produção modernas, provando que as línguas indígenas podem dialogar diretamente com ouvintes globais na era do streaming, sem necessidade de mediação tradutória.
-
-**Características do estilo musical:**
-
-- Puyuma como principal, chinês ocasional como apoio à transição emocional
-- Estratificação de batidas eletrónicas com cânticos tradicionais
-- Produção visual sofisticada, MV frequentemente justapõe rituais da aldeia e paisagens urbanas modernas
+Uma entrevista publicada pela Universidade de Daye conecta 〈Moonlight〉 às memórias familiares de Wang Hongen: ele fala sobre sua avó tecendo e evoca essa cena ao cantar a canção. Isso oferece uma porta de entrada concreta para entender a música; o ouvinte pode começar reconhecendo a obra através da memória pessoal do artista, e só então compreender o pano de fundo cultural Bunun, sem precisar classificar toda a criação como tradicional ou moderna. [^wang]
 
 ---
 
-## Panorama contemporâneo de desenvolvimento diversificado
+## O Encontro entre Línguas Indígenas e Produção Contemporânea
 
-### Ascensão do poder feminino
+### Shumiing: O Novo Rei do Canto na Tribo Dulan
 
-#### Panai (1969-): A voz social da cantora de protesto
+**Etnia:** Amis (Dulan, Taitung)
+**Primeiro Álbum Solo:** _Suming_ em 2010
+**Ponto de Escuta:** 〈Our Promise〉, 〈Beautiful Days〉, 〈Don't Give Up〉 [^suming][^suming-album]
 
-**Grupo étnico:** Puyuma  
-**Obras representativas:** 〈Wanderer's Tale〉, 〈Maybe One Day〉
+Shumiing participou da banda Totem e Echo Cucks, além de criar como artista solo. Não se deve considerar o ano do primeiro álbum solo como o ponto de partida de toda a carreira musical. Ele investiu na educação cultural juvenil em Dulan e promoveu o "Festival de Música Amis", conectando as apresentações ao aprendizado diário da tribo. [^suming]
 
-Panai é conhecida pela sua criação com forte consciência social, a sua voz carrega forte espírito crítico e preocupação humanista, frequentemente ergue a voz pelos direitos indígenas e questões sociais.
+Muitas gravações desta apresentação contam que os coros foram executados por Sonlay Wu Yuankai e Hacoi Su Chuyu, jovens de Dulan. Eles participaram das atividades educacionais culturais de Shumiing, estendendo o aprendizado do local para o palco musical. O projeto "Crianças da Costa", descrito na página da apresentação, inclui subir e descer montanhas, aprender técnicas tradicionais, violão e turnês. Isso faz com que a transmissão cultural não se limite apenas ao tema lírico, mas também se torne um processo de aprendizado no qual os jovens podem participar ativamente. [^suming]
 
-#### Ilid Kaolo: A transmissora que renova canções antigas
+〈Don't Give Up〉 é o tema da música do filme _Children of the Sun_ em 2015 e não estava contida no primeiro álbum de 2010. Ela ganhou o prêmio de Canção do Ano no 27º Prêmio Golden Melody em 2016. Esta rota, do cinema à canção indígena, também mostra como a música participa da narrativa da terra e da vida. [^suming-song][^gma27]
 
-**Grupo étnico:** Amis  
-**Característica:** Foca-se na reinterpretação moderna de canções antigas Amis
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jhoom74-IM" title="Muitas Músicas: Sessão ao Vivo de Shumiing" loading="lazy" allowfullscreen></iframe>
 
-Ilid Kaolo dedica-se a reinterpretar canções antigas Amis, a sua música mantém o núcleo espiritual tradicional enquanto injeta vocabulário musical moderno.
+O vídeo foi fornecido pela página da apresentação de Muitas Músicas e inclui 〈Beautiful Days〉, 〈Ocean Voyage〉 e 〈Our Promise〉, que podem ser comparados com as criações discutidas neste artigo. [^suming]
 
-🎵 **A beleza da música indígena**: [Hu Defu _Wind of the Pacific_](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [Obras de ABAO](https://www.youtube.com/@abao_888) ｜ [Audicionar álbum _Dalan_ de Sangpuy](https://www.youtube.com/watch?v=ealNSQUDAaU)
+### Sangpuy: O Poema Binin do Cantor Espiritual
 
-### Inovação em formato de banda
+**Nome:** Sangpuy (Lu Jixing)
+**Etnia:** Binin
+**Ponto de Escuta:** _Yaggan_, _Gaining Strength pulu’em_ [^gma28][^sangpuy]
 
-#### Totem Band: A voz tribal do espírito rock
+As obras de Sangpuy abordam a relação entre o ser humano e a terra, o meio ambiente e a memória cultural. _Yaggan_ ganhou o prêmio de Álbum do Ano no 28º Prêmio Golden Melody em 2017, e Sangpuy também recebeu o prêmio de Melhor Cantor em Língua Indígena por este trabalho. O álbum também ganhou o prêmio de Melhor Gravação Vocal. Os critérios de avaliação dos três prêmios são diferentes; não se pode resumir como o melhor álbum indígena. [^gma28]
 
-**Fundação:** 1999  
-**Membros:** Maioria Amis, Puyuma  
-**Estilo musical:** Rock indígena, folk rock
-
-#### Shaman Band: Exploração da música experimental
-
-Funde elementos indígenas com música experimental, demonstrando a sede de inovação musical da geração mais jovem.
-
-### Colaborações interdisciplinares e intercâmbio internacional
-
-O âmbito de colaborações interdisciplinares dos cantores indígenas contemporâneos é já bastante amplo, abrangendo projetos de colaboração com músicos internacionais, atuações em festivais de world music, bandas sonoras de filmes e teatro, e colaborações com orquestras sinfónicas.
+_Gaining Strength pulu’em_, lançado em 2020, é seu terceiro álbum solo, com arranjos que incluem sons eletrônicos, rock e orquestrais, e não apenas acompanhamento de violão fixo. Este trabalho ganhou o prêmio de Álbum do Ano no 32º Prêmio Golden Melody, e Sangpuy também recebeu o prêmio de Melhor Cantor em Língua Indígena. [^sangpuy][^gma32]
 
 ---
 
-## Golden Melody Awards e conquistas musicais
+## Produção Interdisciplinar e Novos Ouvintes
 
-Desde a criação do «Prémio de Melhor Álbum em Língua Indígena» nos Golden Melody Awards em 2005 (16.ª edição), a música indígena obteve mais atenção e afirmação na cena musical de Taiwan.[^7] O nascimento deste prémio marcou o reconhecimento formal da indústria musical de Taiwan do estatuto artístico da música em línguas maternas, e não apenas como exibição cultural marginal.
+### Ado Kaliting Pacidal (Ado): Voz Diversificada da Nova Geração
 
-### Principais vencedores ao longo das edições
+**Etnia:** Amis
+**Estilo Musical:** Fusão de elementos modernos como hip-hop, rock e eletrônica
 
-O _Ocean_ de Chen Chien-nien já em 2000 (11.ª edição) quebrou o silêncio dos prémios mainstream sobre os indígenas com «Melhor Intérprete de Música Popular»; _Suming_ de Suming ganhou Melhor Álbum em Língua Indígena na 22.ª edição.
+Ado. Kaliting. Pacidal participa da produção musical interdisciplinar. O Centro Experimental de Música Pop de Hualien do Ministério da Cultura registrou sua performance de 〈A Poem of the Ocean to the Island〉 usando o canto de resposta Amis. Este é um caso concreto da combinação de técnicas vocais tradicionais com novas tecnologias. [^ado]
 
-- **Sangpuy**: _Dalan_ (20.º Melhor Álbum em Língua Indígena)
-- **Ilid Kaolo**: _Glimmer in the Mist_ (30.º Melhor Álbum em Língua Indígena)
-- **ABAO**: _kinakaian Mother's Tongue_ (30.º Melhor Álbum em Taiwanês); 31.º Melhor Cantor em Língua Indígena
-- **Suming**: Múltiplas nomeações para Melhor Álbum em Língua Indígena, _I am Suming_ (28.ª edição)
-- **Nabu Husungan Istanda**: Importante cantor criador Amis nos anos 2010, presença constante nos Golden Melody Awards
-- **Elisa Huang**: Atayal, múltiplas afirmações na categoria de língua indígena com canções tribais
-- **Matzka**: Funde reggae com elementos de língua materna, estilo leve conquista público jovem, ganhou Golden Melody de Melhor Novo Artista
+### ABAO: Língua Paiwan e Ritmo Contemporâneo
 
-Estes vencedores abrangem trinta anos, cobrindo Puyuma, Amis, Atayal e outros grupos, refletindo a prosperidade diversificada do prémio de língua indígena dos Golden Melody desde a sua criação.
+**Etnia:** Paiwan
+**Nome Tribal:** Areng-reng
+**Ponto de Escuta:** _Woman of Kinakaian_, _Tongue of the Mother kinakaian_ [^abao][^gma28][^gma31]
 
-### Significado cultural do prémio
+As obras de ABAO trouxeram a língua Paiwan para a produção pop contemporânea. _Tongue of the Mother kinakaian_ ganhou o prêmio de Álbum do Ano e Melhor Álbum em Língua Indígena no 31º Prêmio Golden Melody em 2020, e 〈Thank You〉 ganhou o prêmio de Canção do Ano. O vencedor do prêmio de Melhor Cantor em Língua Indígena daquele ano foi Lu Jingzi; não se deve confundir os finalistas com os vencedores da mesma edição. [^gma31]
 
-A criação do prémio de Melhor Álbum em Língua Indígena dos Golden Melody Awards é tanto uma afirmação do valor artístico da música indígena, como efetivamente encorajou a criação em língua materna e a transmissão cultural, impulsionando mais jovens indígenas a investir na criação musical.
+Essas obras permitem que o ouvinte entre primeiro pelo ritmo e som, e depois compreenda o conteúdo através das letras, traduções e contextos criativos. A música pode cruzar barreiras linguísticas para alcançar novos ouvintes, mas a compreensão do texto em língua indígena ainda requer tradução e contexto cultural; não se pode resumir como algo que não necessita de tradução.
 
 ---
 
-## Questões culturais na música
+## Cenário Contemporâneo Diversificado
 
-### Revitalização linguística
+### Ascensão das Mulheres
 
-Os cantores indígenas contemporâneos desempenham um papel concreto na revitalização linguística através da criação musical. A insistência no canto em língua materna devolve vitalidade às línguas maternas na música moderna; a estratégia de canal duplo com língua materna e mandarim alarga o alcance da divulgação musical; vocábulos antigos de línguas maternas reaparecem nos discos com novas métricas, permitindo às novas gerações contactá-los.
+#### Panai: A Voz Social da Cantora Protesto
 
-### Identidade étnica
+**Ponto de Escuta:** 〈Wandering Diary〉 em _Clay Doll_ [^panai]
 
-A identidade étnica é proposição central de muitas criações indígenas. Urbanos que deixaram a aldeia registram em canções os complexos sentimentos de estar entre dois mundos; outros cantores tentam religar raízes culturais fraturadas através do retrocesso à língua materna e melodias tradicionais. Os conflitos trazidos pela modernidade — o puxar entre normas tradicionais e ritmo de vida urbano — deixam também marcas claras nas letras.
+Panai é conhecida por suas criações com forte consciência social; sua voz carrega um forte espírito crítico e cuidado humano, frequentemente defendendo os direitos indígenas e questões sociais.
 
-### Justiça territorial
+#### Ilid Kaolo (Ilid): Transmissora do Canto Antigo Moderno
 
-As questões territoriais ocupam igualmente lugar na música indígena. Panai e outros cantores usam a voz pelos direitos territoriais das aldeias, participam em movimentos sociais usando a música como meio de aglutinação e protesto, fazendo a sociedade mais ampla ouvir as dificuldades enfrentadas pelos indígenas.
+**Etnia:** Amis
+**Ponto de Escuta:** _Lighthearted Life_ [^ilid]
 
----
+A criação de Ilid Kaolo está ligada ao seu cotidiano. _Lighthearted Life_ ganhou o prêmio de Melhor Álbum em Língua Indígena no 23º Prêmio Golden Melody, e ela também recebeu os prêmios de Melhor Cantor em Língua Indígena e Melhor Novato. [^gma23]
 
-## Impacto na indústria musical
+### Bandas Também São uma Porta de Entrada
 
-Após os cantores indígenas se firmarem no mercado mainstream, produziram também impacto visível na indústria musical de Taiwan, seja na estrutura de mercado seja na metodologia de produção de gravação.
+A banda Totem, na qual Shumiing participou, e MATZKA, vencedora do prêmio de melhor banda no 22º Prêmio Golden Melody, oferecem rotas de escuta além dos cantores individuais. MATZKA ganhou o prêmio de banda naquele ano, não o de novato. [^suming][^gma22]
 
-### Diversificação do mercado musical
+### Colaborações Interdisciplinares e Troca Internacional
 
-O sucesso dos cantores indígenas fez o mercado musical de Taiwan apresentar faces diversas. Eles abriram espaço de mercado para world music, provaram o potencial comercial da música em línguas maternas, e promoveram a visibilidade da música de Taiwan no palco internacional.
-
-### Inovação na produção musical
-
-A incorporação de elementos musicais indígenas impulsionou a inovação nos métodos de produção musical. Instrumentos tradicionais encontraram nova posição nos arranjos modernos, a estrutura fonológica das letras em línguas maternas formaram estética única, a música de festivais tribais foi adaptada para produtos de estúdio, permitindo que sons rituais continuassem nos discos.
+O alcance das colaborações interdisciplinares dos cantores indígenas contemporâneos é bastante amplo, abrangendo projetos com músicos internacionais, apresentações em festivais de música mundial, trilhas sonoras para filmes e peças teatrais, e performances conjuntas com orquestras sinfônicas.
 
 ---
 
-## Influência e intercâmbio internacional
+## Prêmio Golden Melody e Conquistas Musicais
 
-A presença da música indígena de Taiwan no internacional já não se limita a atuações de natureza expositiva cultural, mas participa gradualmente no diálogo musical global com identidade artística de igualdade.
+O 16º Prêmio Golden Melody introduziu o "Prêmio de Álbum Pop Cantado em Língua Indígena", e a música indígena ganhou mais atenção e reconhecimento na cena musical de Taiwan. [^7] O nascimento deste prêmio marca o reconhecimento formal do status artístico da música em língua indígena pela indústria musical de Taiwan, e não apenas como uma exibição cultural marginal.
 
-### Palco da world music
+### Pontos de Premiação para Comparação
 
-A visibilidade dos cantores indígenas de Taiwan no palco internacional teve elevação óbvia. São convidados para atuar em festivais musicais internacionais, intercambiam e colaboram com músicos indígenas de outros países, e obtêm afirmação em prémios musicais internacionais.
+| Edição |             Artista/Obra              |                                           Prêmio                                           |
+| :----: | :-----------------------------------: | :----------------------------------------------------------------------------------------: |
+|  11ª   |       Chen Chien-nien _Oceanos_       |                         Melhor Cantor Masculino Mandarim [^gma11]                          |
+|  22ª   |               _Suming_                |                          Melhor Álbum em Língua Indígena [^gma22]                          |
+|  23ª   |    Ilid Kaolo _Lighthearted Life_     | Melhor Álbum em Língua Indígena, Melhor Cantor em Língua Indígena, Melhor Novato [^gma23]  |
+|  28ª   |           Sangpuy _Yaggan_            |       Álbum do Ano, Melhor Cantor em Língua Indígena, Melhor Gravação Vocal [^gma28]       |
+|  31ª   | ABAO _Tongue of the Mother kinakaian_ | Álbum do Ano, Melhor Álbum em Língua Indígena. 〈Thank You〉 ganhou Canção do Ano [^gma31] |
 
-### Função de diplomacia cultural
+Esta tabela é um ponto de leitura selecionado, não a história completa dos prêmios. O ano do prêmio, o ano de lançamento da obra e o nome do prêmio devem ser lidos separadamente. A data de publicação na página de dados também pode não ser a data da cerimônia; por exemplo, a data de publicação listada na página do 16º Prêmio pelo Bureau de Cinema e Audiovisual é 20 de março de 2006, e ao ler os dados históricos, não se deve usar diretamente a data da página para redatar o prêmio ou a obra. [^7]
 
-A música indígena desempenha papel substantivo na diplomacia cultural de Taiwan. Mostra a face diversa da cultura de Taiwan, permite ao público internacional ter conhecimento mais concreto da cultura indígena de Taiwan, e estabelece identificação cultural de Taiwan distinta de outras regiões.
+### Diferentes Trabalhos Vistos nos Prêmios de Cantor e Produção
 
----
+A lista do 28º Prêmio separou o Álbum do Ano _Yaggan_, Sangpuy como cantor indígena, e a gravação da obra. O prêmio de gravação também lista os engenheiros de gravação, mixagem e pós-produção; portanto, resumir os três prêmios como realizações vocais individuais obscurece o trabalho em equipe. Ler o registro de ABAO no 31º Prêmio da mesma maneira também permite distinguir os diferentes níveis de reconhecimento do álbum completo versus uma única canção. Esta é uma forma de ler os dados dos prêmios, e não ranquear artistas pelo número de prêmios. [^gma28][^gma31]
 
-## Perspetivas futuras da nova geração
+### Significado Cultural dos Prêmios
 
-### Oportunidades da era digital
-
-Novos media e plataformas digitais abriram novos canais de distribuição para a música indígena. YouTube, Spotify e outras plataformas de streaming baixaram barreiras de publicação, permitindo que músicos indígenas independentes também se exponham perante ouvintes globais; redes sociais permitem ligação direta entre músicos e fãs; a popularização do ensino online também faz a transmissão de canções tradicionais deixar de estar limitada pela geografia das aldeias.
-
-### Nova exploração de estilos musicais
-
-A geração mais jovem de músicos indígenas demonstra exploração musical diversificada, a combinação de música eletrónica com canções tradicionais já não é rara, hip-hop, rap e outras formas também têm experimentação, casos de colaboração musical intercultural também aumentam.
-
-### Novos modelos de transmissão cultural
-
-Os cantores indígenas contemporâneos também criam novos modelos de transmissão cultural. Usam música moderna para embalar materiais tradicionais, atraindo jovens a voltar a conhecer a própria cultura; Suming cultiva novos talentos no estúdio musical em Dulan, festivais musicais de vários grupos dão à cultura tribal oportunidades fixas de exibição externa.
+A criação do prêmio de Álbum Pop Cantado em Língua Indígena no Prêmio Golden Melody é um reconhecimento do valor artístico da música indígena e realmente incentiva a criação na língua materna e a transmissão cultural, motivando mais jovens indígenas a se envolverem na criação musical.
 
 ---
 
-## Guia de audição
+## Temas Culturais na Música
 
-Para conhecer a música indígena contemporânea de Taiwan, a forma mais direta é partir de alguns álbuns representativos: _Ocean_ de Chen Chien-nien é o ponto de partida folk mais puro; _Suming_ de Suming demonstra a energia do rock Amis contemporâneo; _Dalan_ de Sangpuy traz forte cor espiritual. _A-mei_ de A-mei e _Glimmer in the Mist_ de Ilid Kaolo representam respectivamente as diferentes vias do mainstream comercial e da transmissão de canções antigas.
+### Revitalização Linguística
 
-### Espetáculos ao vivo e eventos
+Os cantores indígenas contemporâneos desempenham um papel concreto na revitalização das línguas indígenas através da criação musical. A insistência em cantar na língua materna traz nova vida às línguas indígenas na música moderna. A estratégia de dupla via, com as línguas indígena e Mandarim coexistindo, expande o alcance da música. Vocábulos antigos reaparecem nos discos com ritmos novos, permitindo que a geração jovem os contate.
 
-O Amis Music Festival realiza-se anualmente em Dulan, Taitung, sendo o melhor local para experienciar a música Amis contemporânea ao vivo; os festivais de colheita de vários grupos permitem contacto direto com o contexto original das canções rituais. Os programas musicais da Taiwan Indigenous Television (TITV) e a base de dados cultural online do Conselho dos Povos Indígenas são também recursos importantes para conhecer sistematicamente a música de cada grupo.
+### Identidade
+
+A identidade é um tema central em muitas criações indígenas. Os indígenas urbanos que deixam suas tribos registram sentimentos complexos de transição através das canções. Outros cantores tentam reconectar-se às raízes culturais rompidas, rastreando línguas e melodias tradicionais. O conflito trazido pela modernidade — a tensão entre as normas tradicionais e o ritmo da vida urbana — também deixa marcas claras nas letras.
+
+### Justiça Territorial
+
+A questão da terra também ocupa um lugar na música indígena. Cantores como Panai usam suas vozes para defender os direitos territoriais das tribos, e ao participar de movimentos sociais, utilizam a música como meio de mobilização e protesto, permitindo que uma sociedade mais ampla ouça as dificuldades enfrentadas pelos indígenas.
 
 ---
 
-Os cantores-compositores indígenas contemporâneos de Taiwan percorreram um caminho onde transmissão e inovação ocorrem simultaneamente. Deixam rastros de línguas maternas nos discos modernos, fazem soar ritmos tribais em festivais musicais internacionais, permitindo que memórias de montanhas e oceanos se preservem no som. Estes cantores, como guardiões culturais, redefinem também com identidade de criadores o que é o som de Taiwan.
+## Influência na Indústria Musical
+
+Após se estabelecer no mercado mainstream, os cantores indígenas também tiveram um impacto visível na indústria musical de Taiwan, alterando tanto a estrutura do mercado quanto a metodologia da produção de gravação.
+
+### Diversificação do Mercado Musical
+
+O sucesso dos cantores indígenas fez com que o mercado musical de Taiwan apresentasse uma face diversificada. Eles abriram espaço para a Música Mundial (World Music), provaram o potencial comercial das músicas em línguas indígenas e aumentaram a visibilidade da música de Taiwan no cenário internacional.
+
+### Inovação na Produção Musical
+
+A incorporação de elementos musicais indígenas impulsionou a inovação nos métodos de produção musical. Instrumentos tradicionais encontraram novos lugares em arranjos modernos, e a estrutura fonética das letras em línguas indígenas formou uma estética única; músicas cerimoniais tribais foram adaptadas para produtos de estúdio, permitindo que os sons ritualísticos persistam em discos.
 
 ---
+
+## Influência e Troca Internacional
+
+A presença da música indígena de Taiwan no cenário internacional não se limita mais a performances de natureza cultural; ela participa progressivamente do diálogo musical global com uma identidade artística equivalente.
+
+### Palco da Música Mundial
+
+A visibilidade dos cantores indígenas de Taiwan em palcos internacionais aumentou significativamente. Eles são convidados para apresentações em festivais internacionais, trocando e colaborando com músicos indígenas de outros países, e recebendo reconhecimento em prêmios musicais internacionais.
+
+### Função de Diplomacia Cultural
+
+A música indígena desempenha um papel substancial na diplomacia cultural de Taiwan. Ela demonstra a face multifacetada da cultura de Taiwan, dando aos espectadores internacionais uma compreensão mais concreta da cultura indígena de Taiwan e estabelecendo uma identidade cultural distinta para Taiwan em comparação com outras regiões.
+
+---
+
+## Perspectivas Futuras da Nova Geração
+
+### Oportunidades na Era Digital
+
+As novas mídias e plataformas digitais abriram novos canais de distribuição para a música indígena. Plataformas de streaming como YouTube e Spotify reduziram as barreiras de publicação, permitindo que músicos indígenas independentes sejam expostos a ouvintes globais. As mídias sociais permitem que os artistas se conectem diretamente com seus fãs. A popularização do ensino online também não restringe mais a transmissão de canções tradicionais à geografia da tribo.
+
+### Exploração Estilística da Nova Geração
+
+Os jovens cantores indígenas demonstram uma exploração musical diversificada; a combinação de música eletrônica e canções tradicionais não é rara, e há tentativas com formatos como hip-hop e rap; as colaborações musicais interculturais também estão aumentando.
+
+### Novos Modelos de Transmissão Cultural
+
+Os cantores indígenas contemporâneos também estão criando novos modelos de transmissão cultural. Eles embalam materiais tradicionais em música moderna para atrair os jovens a reconhecerem sua própria cultura. Shumiing estabeleceu um estúdio musical em Dulan para treinar novos talentos, e os festivais musicais realizados por cada tribo fornecem oportunidades fixas de exposição cultural externa.
+
+---
+
+## Guia de Escuta
+
+Para conhecer a música indígena contemporânea de Taiwan, o método mais direto é começar com alguns álbuns representativos: _Oceanos_ de Chen Chien-nien é um ponto de partida folclórico puro em estilo; _Suming_ de Shumiing exibe a energia do rock contemporâneo Amis. Já _Yaggan_ de Sangpuy carrega uma forte cor espiritual. Em seguida, ouça A-Mei com _Sister_ e Ilid Kaolo com _Lighthearted Life_, comparando as diferentes facetas da produção pop Mandarim e da criação em línguas indígenas. [^5][^ilid]
+
+### Ao Vivo e Eventos
+
+O Festival de Música Amis promovido por Shumiing é uma porta de entrada para a música e cultura da tribo Dulan. As datas reais dos eventos devem ser verificadas nos anúncios do ano corrente. Ao visitar cerimônias tribais, deve-se cumprir o escopo de abertura e as normas de filmagem da tribo. [^suming] O canal de televisão indígena (TITV) e o banco de dados cultural online do Conselho Indígena são recursos importantes para conhecer a música de cada etnia de forma sistemática.
+
+---
+
+A jornada dos cantores indígenas contemporâneos de Taiwan é um processo onde a transmissão e a inovação ocorrem simultaneamente. Eles deixam marcas em discos modernos com suas línguas indígenas, e falam em festivais internacionais com os ritmos tribais, permitindo que as memórias da floresta e do oceano permaneçam no som. Esses cantores, como guardiões culturais, redefinem o que é o som de Taiwan na qualidade de criadores.
+
+---
+
+## Leitura Complementar
+
+- [A-Mei](/people/a-mei/): Entenda sua trajetória musical através dos discos pop e do palco.
+- [Chen Chien-nien](/people/chen-chien-nien/): Leitura complementar sobre _Oceanos_ e o contexto criativo.
 
 ## Referências
 
-- Lu Yu-hsiu, _History of Taiwan Music_, Wu-Nan Culture, 2003.[Books.com.tw](https://www.books.com.tw/products/0010906148)
-- [Sítio oficial do Conselho dos Povos Indígenas](https://www.cip.gov.tw/)
-- [Lista de vencedores das edições dos Golden Melody Awards](https://gma.tavis.tw/)
-- [Public Television Service Taiwan Indigenous Television](https://titv.ipcf.org.tw/)
-- [Coleção do Taiwan Music Institute](https://musiciantw.ncfta.gov.tw/)
-- [Playlist Apple Music «Obras representativas da música indígena de Taiwan»](https://music.apple.com/tw/playlist/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%93%81/pl.2f0621e681f94e1a942389cc65eeb393)
-- [A-mei Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%83%A0%E5%A6%B9)
-- [Suming Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
-- [Sangpuy Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
+[^1]: [Página de Álbum Jacktou Música: Oceanos](https://www.tcmusic.com.tw/cd/003/Default.htm) — Idioma do álbum, faixas, contexto de lançamento e registro de prêmios.
 
-[^1]: [Lu Yu-hsiu _History of Taiwan Music_ Wu-Nan Culture 2003](https://www.books.com.tw/products/0010906148) — História académica geral do desenvolvimento da música dos povos indígenas de Taiwan, primeiro capítulo detalha características musicais de cada grupo
+[^3]: [Bureau de Cinema e Audiovisual do Ministério da Cultura: Lista de Prêmios Golden Melody da 16ª Edição](https://www.bamid.gov.tw/News_Content.aspx?n=3539&s=124214) — Membros de Dinamic Force e introdução ao primeiro álbum em 1997. Este artigo não presume a etnia dos membros com base nisso.
 
-[^2]: [Sítio oficial do Conselho dos Povos Indígenas](https://www.cip.gov.tw/) — Plataforma governamental oficial de políticas, recursos culturais e introdução dos grupos étnicos dos povos indígenas de Taiwan
+[^4]: [Lista de Prêmios Golden Melody da 11ª Edição](https://tavis.tw/gma/35th/GMA/history_11.htm) — Prêmio Melhor Cantor Masculino Mandarim para Chen Chien-nien.
 
-[^3]: [Power Station — Wikipedia](https://zh.wikipedia.org/zh-tw/動力火車) — Yen Chih-lin, Yu Chiu-hsing são ambos Paiwan, informação étnica relevante registada neste verbete
+[^5]: [CNA: Ficha de Eventos Musicais de A-Mei](https://www.cna.com.tw/news/firstnews/201612135020.aspx) — Contexto de lançamento e produção do álbum _Sister_ em 1996.
 
-[^4]: [Lista de vencedores das edições dos Golden Melody Awards](https://gma.tavis.tw/) — _Ocean_ de Chen Chien-nien ganhou Melhor Cantor Masculino de Música Popular na 11.ª edição (2000), primeira vez que indígena vence prémio principal dos Golden Melody
+[^7]: [Bureau de Cinema e Audiovisual do Ministério da Cultura: Lista de Prêmios Golden Melody da 16ª Edição](https://www.bamid.gov.tw/News_Content.aspx?n=3539&s=124214) — O nome do prêmio naquela edição foi Melhor Álbum Pop Cantado em Língua Indígena.
 
-[^5]: [A-mei — Wikipedia](https://zh.wikipedia.org/zh-tw/張惠妹) — Cantora Puyuma, registo completo de biografia, discografia e estatuto de Rainha da Ásia
+[^wang]: [Universidade de Daye: Wang Hongen canta a bênção da avó com _Moonlight_](https://bulletin.dyu.edu.tw/index.php?isHidden=1&msg_ID=45403&pool_ID=19) — Identidade Bunun e contexto da música.
 
-[^6]: [Sangpuy — Wikipedia](https://zh.wikipedia.org/zh-tw/桑布伊) — Cantor criador Puyuma, estilo de poemas espirituais e registo de prémios Golden Melody
+[^suming]: [Muitas Músicas: Sessão ao Vivo de Shumiing](https://forgoodmusic.com.tw/live/concert/31) — Faixas apresentadas, experiência da banda e Festival de Música Amis em Dulan.
 
-[^7]: [Lista de vencedores das edições dos Golden Melody Awards](https://gma.tavis.tw/) — Prémio de Melhor Álbum em Língua Indígena criado a partir da 16.ª edição (2005), dados completos de vencedores历届收录
+[^suming-album]: [Apple Music: Primeiro Álbum Solo _Suming_ de Shumiing](https://music.apple.com/us/album/suming-舒米恩首張個人創作專輯/1395752740) — Catálogo do álbum e informações de lançamento em 2010.
+
+[^suming-song]: [Radio Houan: Entrevista com Shumiing](https://musictalk.blog/2016/09/20/【鐵玫瑰音樂節-x-taiwan-beats-系列專訪】舒米恩：記得從愛/) — Contexto da criação do tema de _Children of the Sun_.
+
+[^gma27]: [Lista de Prêmios Golden Melody da 27ª Edição](https://tavis.tw/gma/35th/GMA/history_27.htm) — Prêmio Canção do Ano para 〈Don't Give Up〉.
+
+[^sangpuy]: [Wind Music: Sangpuy _Gaining Strength pulu’em_](https://store.windmusic.com.tw/zh/CD/SKM-003) — Lançamento em 2020, terceiro álbum e descrição do arranjo.
+
+[^gma32]: [Lista de Prêmios Golden Melody da 32ª Edição](https://tavis.tw/gma/35th/GMA/history_32.htm) — Álbum do Ano e Prêmio Melhor Cantor em Língua Indígena para _Gaining Strength_.
+
+[^ado]: [Ministério da Cultura: Centro Experimental de Música Pop de Hualien](https://www.moc.gov.tw/News_Content.aspx?n=105&s=233673) — Criação do canto de resposta de Ado.
+
+[^abao]: [Ministério da Cultura: Cantora Paiwan ABAO](https://www.moc.gov.tw/en/News_Content2.aspx?n=489&s=17847&sms=10723) — Etnia Paiwan e nome tribal Areng-reng.
+
+[^panai]: [Jacktou Música _Clay Doll_](https://www.tcmusic.com.tw/cd/008/Default.htm) — Álbum e faixas de Panai.
+
+[^ilid]: [Relatório Internacional Indígena: Introdução a Ilid Kaolo](https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C10802297/001) — Contexto Amis e _Lighthearted Life_.
+
+[^gma11]: [Lista de Prêmios Golden Melody da 11ª Edição](https://tavis.tw/gma/35th/GMA/history_11.htm) — Registro do prêmio para o Cantor Masculino Mandarim Chen Chien-nien e o Melhor Novato Ji Xiaojun.
+
+[^gma22]: [Lista de Prêmios Golden Melody da 22ª Edição](https://tavis.tw/gma/35th/GMA/history_22.htm) — Registro do álbum indígena _Suming_ e do prêmio de banda MATZKA.
+
+[^gma23]: [Lista de Prêmios Golden Melody da 23ª Edição](https://tavis.tw/gma/35th/GMA/history_23.htm) — Registro do álbum, cantor e prêmio novato de Ilid Kaolo.
+
+[^gma28]: [Lista de Prêmios Golden Melody da 28ª Edição](https://tavis.tw/gma/35th/GMA/history_28.htm) — Registros dos três prêmios de _Yaggan_ e o álbum feminino de ABAO.
+
+[^gma31]: [Lista de Prêmios Golden Melody da 31ª Edição](https://tavis.tw/gma/35th/GMA/history_31.htm) — Registro do álbum _Tongue of the Mother_ e a canção 〈Thank You〉.

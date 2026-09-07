@@ -21,10 +21,10 @@ lastVerified: 2026-04-25
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Society/台灣的道德課去哪了.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:9e2e35c86cfffed4'
-sourceBodyHash: 'sha256:def0fbd84e75d95c'
-translatedAt: '2026-07-25T12:49:30+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:aa6de6422908baca'
+sourceBodyHash: 'sha256:a98b8189be962f59'
+translatedAt: '2026-09-07T18:43:33.006211+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Em 1993 e 1994, o Ministério da Educação cancelou respectivamente o ensino por disciplina de "Moral e Saúde" no ensino fundamental e de "Cidadania e Moral" no ensino médio inferior, integrando a moral nas sete áreas de aprendizagem do Currículo Integrado de Nove Anos. Mas esse cancelamento ocorreu sem qualquer discussão prévia sobre se a educação moral deveria continuar a ser implementada, e sem qualquer investigação sobre a eficácia da educação moral existente. Uma pesquisa da Fundação Educacional Jinwen em 2001 mostrou que 78% dos professores do ensino fundamental consideravam a educação moral a que mais precisava ser fortalecida. Mais de vinte anos se passaram, e a educação moral no currículo de Taiwan tornou-se uma terra de ninguém onde "todos acham importante, mas ninguém acha que é sua responsabilidade".
