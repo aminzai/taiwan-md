@@ -2,9 +2,7 @@
 title: "Tunnel de Hsuehshan : de la « mission impossible » au miracle d'ingénierie taïwanais fait de larmes et de sang"
 description: "Le 15 décembre 1997, une irruption d'eau faillit coûter la vie à trois cents personnes et transforma en ferraille le TBM, engin de forage à un milliard de dollars taïwanais. Classé par l'Encyclopaedia Britannica parmi les chantiers les plus difficiles au monde, ce tunnel n'est pas seulement une artère de transport : c'est un miracle d'ingénierie creusé dans un grès de Szeleng plus dur que l'acier, au prix de 25 morts en service et des efforts d'innombrables héros anonymes."
 date: 2026-04-29
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '科技園區'
 tags:
   [
     'Tunnel de Hsuehshan',
@@ -13,14 +11,16 @@ tags:
     "miracle d'ingénierie",
     'esprit taïwanais',
   ]
+subcategory: '科技園區'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '9ecd20d6'
-sourceContentHash: 'sha256:9e7ddff3899aaa85'
-sourceBodyHash: 'sha256:909022379c9cd8a0'
-translatedAt: '2026-05-20T05:08:34+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:bafa69de0246ccbe'
+sourceBodyHash: 'sha256:d9ab34ee59f266bc'
+translatedAt: '2026-09-07T19:32:14.141007+00:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :**
@@ -68,13 +68,13 @@ Le 16 septembre 2004, le président Chen Shui-bian présida la cérémonie de pe
 
 La percée ne signifiait toutefois pas la fin du chantier. Les améliorations des systèmes électromécaniques et de contrôle du trafic prirent ensuite près de deux années supplémentaires. Le ministre des Transports de l'époque, Lin Ling-san, confronté à plusieurs reports des inspections d'ouverture, subit une forte pression politique ; des législateurs le raillèrent même en disant qu'il se montrait « trop réaliste envers le premier ministre Hsieh Chang-ting » [^6]. Pour les ingénieurs, cependant, la sécurité restait le seul critère : ils insistèrent pour n'ouvrir à la circulation qu'une fois toute menace écartée.
 
-## Les noms des 25 morts en service : le mémorial de l'aire de service de Shiding
+## Les noms des 25 travailleurs morts dans l’accident : le mémorial du service d’autoroute de Shihchin
 
-Aujourd'hui, lorsque nous traversons la chaîne de Hsuehshan en environ 40 minutes, avec la climatisation dans le tunnel et la radio en fond sonore, rares sont ceux qui remarquent, dans un coin de l'aire de service de Shiding sur l'autoroute nationale no 5, le « mémorial aux personnes mortes en service lors du chantier de l'autoroute Taipei-Yilan ».
+Aujourd’hui, lorsque l’on voyage à l’intérieur du tunnel, que l’on profite du climatiseur et qu’on écoute la radio, traversant la chaîne de l’Humen en une quarantaine de minutes, peu de gens remarquent, dans un coin du service d’autoroute de Shihchin sur l’autoroute nationale no 5, la présence d’un « mémorial aux personnes mortes en service du chantier de l’autoroute Taipei-Yilan » [^11].
 
-Ce mémorial honore les 25 travailleurs morts en service pendant la construction de l'autoroute Taipei-Yilan, incluant le tunnel de Hsuehshan. Ils comprenaient 12 ingénieurs taïwanais et 13 ouvriers thaïlandais [^11]. Si l'ensemble du chantier de l'autoroute Taipei-Yilan compta 25 morts en service, environ 13 d'entre eux périrent directement sur le chantier du tunnel de Hsuehshan [^19]. Certains furent ensevelis sous des masses de terre et de roche lors d'effondrements par affouillement ; d'autres furent emportés par des irruptions d'eau sous haute pression ; d'autres encore moururent d'épuisement dû à l'air vicié et aux températures élevées à l'intérieur du tunnel.
+Ce mémorial rend hommage aux 25 travailleurs décédés lors de la construction de l’autoroute Taipei-Yilan (y compris le tunnel de Hsuehshan). Parmi eux figurent 12 ingénieurs de nationalité locale et 13 ouvriers taïwanais [^11]. Bien que l’ensemble du chantier de l’autoroute Taipei-Yilan ait connu 25 décès, environ 13 de ces victimes ont perdu la vie directement dans le chantier du tunnel de Hsuehshan [^19]. Certaines sont mortes écrasées sous des glissements de terrain, d’autres ont été emportées par des crues soudaines, et quelques-unes ont succombé à la surmenage due aux conditions extrêmes de l’air et à la chaleur à l’intérieur du tunnel.
 
-Le mémorial est fait du grès de Szeleng, la roche la plus dure rencontrée dans le tunnel de Hsuehshan, symbolisant la difficulté et les défis du chantier. Sa forme s'inspire de l'emblème du Bureau national des autoroutes et de l'île de Guishan ; l'inscription gravée sur la stèle porte les noms de toutes les personnes mortes en service ainsi qu'un résumé du chantier [^15]. Ces 25 vies constituent la note la plus lourde au bas de la page ouverte par la mise en service du tunnel de Hsuehshan. L'achèvement de ce tunnel dépendit de la technologie d'ingénierie, mais aussi des risques assumés par d'innombrables travailleurs dans l'obscurité du sous-sol.
+Le mémorial est construit en « grès de Szeleng », le matériau le plus résistant trouvé dans le tunnel de Hsuehshan, symbolisant la dureté et la difficulté du chantier. Sa forme évoque le sceau du Bureau des autoroutes et le [mont Houhsyuh](/fr/geography/gueishan-island/), et les noms de tous les travailleurs décédés y sont gravés, accompagnés d’un résumé technique du chantier [^15]. Ces 25 vies, c’est la conclusion la plus lourde du tunnel de Hsuehshan. L’aboutissement de ce tunnel repose non seulement sur les avancées techniques, mais aussi sur les risques assumés par d’innombrables ingénieurs dans les profondeurs obscures de la montagne.
 
 ## Yilan après l'ouverture : coûts et gains de la troisième révolution
 

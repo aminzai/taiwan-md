@@ -2,6 +2,7 @@
 title: "Mavis Fan : de la petite sorcière de « Health Song » à la chanteuse de 100% Band, trente ans à refuser d'être définie par une seule époque"
 description: "En 1996, à 19 ans, Mavis Fan devient la petite sorcière de tout Taïwan grâce à « Health Song ». En 1998, elle se rase la tête et sort *Darling*, déclarant vouloir « faire sa propre musique » ; en 2001, elle passe au jazz avec *Divine Performer* ; en 2007, elle forme 100% Band. En 2025, à 48 ans, *Passerby* marque le retour du groupe après 16 ans d'absence — trente ans durant lesquels elle a pièce par pièce démantelé « le rêve que les autres lui avaient construit »."
 date: 2026-04-20
+category: 'People'
 tags:
   [
     'Musique',
@@ -10,20 +11,20 @@ tags:
     '100% Band',
     'Pop mandarine',
   ]
-category: 'People'
 subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
-translatedFrom: People/范曉萱.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:be33318bbff736f0'
-sourceBodyHash: 'sha256:972eef53b5601304'
-translatedAt: 2026-05-01T20:54:17+08:00
+researchReport: 'reports/research/2026-04/范曉萱.md'
+translatedFrom: 'People/范曉萱.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:752a0e7cddd9b38d'
+sourceBodyHash: 'sha256:7cceb716a616fa6b'
+translatedAt: '2026-09-07T20:34:28.877421+00:00'
 ---
 
-> **En 30 secondes :** Mavis Fan (1977–), auteure-compositrice-interprète taïwanaise. En 1995, à 18 ans, elle débute avec _Rain_. En 1996, « Health Song » fait d'elle l'icône enfantine la plus populaire de l'île. En 1998, _Darling_ et sa coupe annoncent une métamorphose ; en 1999, _I Want Us Together_ remporte le meilleur album de pop aux 11ᵉ Golden Melody Awards ; en 2001, _Divine Performer_ s'oriente vers le jazz ; en 2007, elle fonde Mavis Fan & 100% Band ; en 2010, _Master_ lui vaut le meilleur producteur de single aux 21ᵉ Golden Melody Awards. En décembre 2025, _Passerby_ — 16 ans après le précédent album du groupe. Trente ans au cours desquels elle a, encore et encore, refusé d'être figée dans l'image d'une seule époque.
+> **30 秒概覽：** Fan Hsiao-hsuan (Mavis Fan, 1977–), chanteuse taïwanaise. En 1995, à 18 ans, elle sort _Rain_ et devient immédiatement une star. En 1996, _Health Song_ la transforme en l’« icône adolescente » phare. En 1998, _Darling_ avec une coupe courte marque un tournant artistique. En 1999, _I Want Us Together_ remporte le meilleur album de musique pop aux 11e [Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards/). En 2001, _Divine Performer_ explore le jazz. En 2007, elle forme le groupe Mavis Fan & 100%. En 2010, _Master_ lui vaut le prix du meilleur single aux 21e Golden Melody Awards. En décembre 2025, _Passerby_ marque son retour après seize ans de silence. Sur trois décennies, elle a toujours refusé d’être définie par une seule époque.
 
 ## Le post-it sur la table
 
@@ -60,20 +61,20 @@ L'album figure parmi les dix meilleurs albums de 2001 selon l'Association des mu
 
 Elle choisit de ne pas répondre — elle se replie. De 2001 à 2003, la dépression la recouvre pendant près de trois ans.
 
-## Le temps où elle voulait sauter depuis le balcon
+## La période où le simple fait de voir le balcon la poussait à vouloir s’y jeter
 
-En décembre 2004, Mavis Fan sort, en collaboration avec le studio Lin Wei-che (ainsi qu'avec le musicien Chen Chien-chi et d'autres), son septième album, _Is There Any Other Way?_ — qu'elle qualifie elle-même de « journal musical » de ces trois années[^16].
+En décembre 2004, Mavis Fan et le studio Lin Wǐzhé (où elle collaborait également avec [Chen Jianqiao](/fr/people/chen-chien-chi-music-producer/) et d’autres musiciens) sortent leur septième album _Yǒu méi yǒu bié de fǎbiǎn_ — qu’elle qualifie elle-même de « journal musical » couvrant ces trois années-là[^16].
 
-En avril 2005, elle publie le livre _Random Writings_, un récit complet du parcours qui l'a menée à travers la dépression entre 2001 et 2003[^17].
+En avril 2005, elle publie le livre _Luànxiě_, qui consigne intégralement son parcours à travers la dépression entre 2001 et 2003[^17].
 
-Des années plus tard, elle parle de cette période :
+Des années plus tard, elle évoque cela ainsi :
 
-> « Chaque jour, à la maison, je voyais le balcon et voulais sauter, je prenais un couteau de cuisine et voulais me trancher le ventre. »[^18]
+> « Chaque jour, en restant à la maison, je voyais le balcon et j’avais envie d’y sauter, ou bien je prenais le couteau de cuisine et j’avais envie de me trancher. »[^18]
 
-Ce sont ses propres mots, écrits dans un livre, répétés dans des interviews. Pas un récit de tierce personne, pas un communiqué de presse — c'est la version qu'elle a choisie de laisser dans le registre public.
+C’est dans son propre livre qu’elle a inscrit ces paroles, et c’est aussi dans chaque interview qu’elle a choisies de partager publiquement. Ce n’est ni une reconstitution par autrui, ni un communiqué de presse — c’est sa propre version, qu’elle a délibérément intégrée à l’enregistrement public.
 
-> **📝 Note de la curatrice**
-> Quand Taiwan.md écrit sur des personnes confrontées à la dépression ou à l'automutilation, nous procédons avec une prudence particulière — nous ne reconstituons pas les scènes, ne dramatisons pas les détails. Mais le cas de Mavis Fan est singulier : cette expérience, elle a elle-même choisi de l'écrire dans _Random Writings_, de la transposer dans les paroles de _Is There Any Other Way?_, d'en faire le fil narratif de chaque interview. Elle a transformé son effondrement en œuvre, puis utilisé cette œuvre pour prendre soin d'autres personnes en plein effondrement. C'est son choix — nous citons sa propre version, sans rien ajouter.
+> **📝 Notes du conservateur**
+> Dans Taiwan.md, lorsqu’il s’agit d’écrire sur des personnalités et qu’on aborde des thèmes comme la dépression ou les blessures corporelles, nous faisons preuve d’une extrême prudence : nous ne reconstituons pas les scènes, nous ne dramatisons pas les détails. Ce qui rend Mavis Fan particulière, c’est que cette expérience fait partie intégrante de ce qu’elle a choisie d’écrire dans _Luànxiě_, d’intégrer dans les paroles de _Yǒu méi yǒu bié de fǎbiǎn_, et de raconter dans chaque interview. Elle a transformé sa propre crise en œuvre, puis a utilisé cette œuvre pour prendre soin des autres qui traversent la même épreuve. C’est ainsi qu’elle l’a vécu — nous reproduisons sa propre version, sans rien ajouter ni exagérer.
 
 ## Quatre personnes et une entreprise appelée « Grass-Eating Fish »
 
