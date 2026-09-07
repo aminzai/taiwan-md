@@ -151,7 +151,7 @@ if [ "${TWMD_SKIP_PREPUSH_WAIT:-0}" = "1" ]; then
   echo "🧬 pre-push: TWMD_SKIP_PREPUSH_WAIT=1，跳過 in-flight CI 等待"
 elif command -v gh >/dev/null 2>&1; then
   THRESH=245                              # success≈350s 的 70%（校準 2026-06-14, REFLEXES #66）
-  STUCK=900                               # >2.5× 典型 350s = zombie/stuck run，不等（讓 cancel-in-progress 殺）
+  WAIT_WINDOW=900                         # 舊等待窗口上限；超過不等於卡死，完整建置可能更久
   MAXWAIT="${TWMD_PREPUSH_MAXWAIT:-120}"  # 等待上限，避免無限卡 routine
   WAITED=0
   while :; do
@@ -159,7 +159,7 @@ elif command -v gh >/dev/null 2>&1; then
     [ -z "$started" ] && break           # 無 in-flight deploy → 放行
     # -u 不可省：GitHub 回的 startedAt 是 UTC，但 macOS `date -j -f` 預設用「本機時區」
     # 解讀輸入（格式字串裡的 Z 是字面量，不是時區指示）。在 Asia/Taipei 會讓 epoch 少
-    # 28800 秒，elapsed 因此永遠多算 8 小時 —— 恆大於 STUCK=900，於是每一次 push 都被
+    # 28800 秒，elapsed 因此永遠多算 8 小時 —— 恆大於 WAIT_WINDOW=900，於是每一次 push 都被
     # 判成 zombie，「近完成就等它」這條分支從寫下來到 2026-08-09 從沒真正跑過一次。
     start_epoch="$(date -j -u -f "%Y-%m-%dT%H:%M:%SZ" "$started" +%s 2>/dev/null || echo 0)"
     elapsed=$(( $(date -u +%s) - start_epoch ))
@@ -167,8 +167,8 @@ elif command -v gh >/dev/null 2>&1; then
       echo "🧬 pre-push: in-flight deploy 還早（${elapsed}s<${THRESH}s）— 直接 push，cancel-in-progress 接手 latest-wins"
       break
     fi
-    if [ "$elapsed" -gt "$STUCK" ]; then
-      echo "🧬 pre-push: in-flight run 已跑 ${elapsed}s（>${STUCK}s = stuck/zombie，非近完成）— 直接 push 讓 cancel-in-progress 殺殭屍"
+    if [ "$elapsed" -gt "$WAIT_WINDOW" ]; then
+      echo "🧬 pre-push: in-flight run 已跑 ${elapsed}s（超過 ${WAIT_WINDOW}s 等待窗口，無法只憑耗時判定卡住）— 依 latest-wins 策略放行"
       break
     fi
     if [ "$WAITED" -ge "$MAXWAIT" ]; then
