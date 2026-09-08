@@ -1,289 +1,291 @@
 ---
-title: 'Lược sử phát triển hệ thống đường sắt đô thị Đài Loan: Một cuốn truyện về sự biến đổi thành phố được viết bằng máu và tiền'
-description: 'Trụ sắt 209 tấn sập xuống xông ngưng 4 người chết, bồi thường 16,4 tỷ đồng, hệ thống đường sắt đô thị Bắc Kinh vẫn lỗ kéo dài đến nay — giá thực sự của hệ thống đường sắt đô thị trên toàn Đài Loan'
+title: 'Lịch sử hệ thống tàu điện ngầm Đài Loan: Bản luận tiến hoá đô thị bằng máu và tiền'
+description: '4 tấn cột thép rơi từ trời kéo theo 4 sinh mạng, khoản bồi thường 16,4 triệu đồng, Đài Bắc tàu điện ngầm cho tới nay vẫn lỗ ngân hàng — chi phí thực sự đằng sau mạng lưỡi toàn Đài Loan'
 date: 2026-03-23
 category: 'Lifestyle'
 tags:
   [
-    'đường sắt đô thị',
+    'tàu điện ngầm',
     'MRT',
     'giao thông',
-    'Bắc Kinh',
-    'Hải Phòng',
-    'Tối Trà',
-    'Trung Kinh',
+    'Đài Bắc',
+    'Hải Dương',
+    'Thái Dương',
+    'Đài Trung',
     'phát triển đô thị',
-    'sống',
-    'an toàn công nghiệp',
+    'sinh hoạt',
+    'an toàn lao động',
     'tài chính',
   ]
 subcategory: '交通與移動'
-author: 'Taiwan.md 編輯團隊'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '976dcae41'
+sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:103cffd41c084886'
 sourceBodyHash: 'sha256:afbe1eb00070eaa4'
-translatedAt: '2026-07-28T03:02:41+08:00'
+translatedAt: '2026-09-08T15:54:44+08:00'
 ---
 
-# Lược sử phát triển hệ thống đường sắt đô thị Đài Loan: Một cuốn truyện về sự biến đổi thành phố được viết bằng máu và tiền
+# Lịch sử hệ thống tàu điện ngầm Đài Loan: Bản luận tiến hoá đô thị bằng máu và tiền
 
-> **30 giây tóm tắt:** Trong 30 năm phát triển, hệ thống đường sắt đô thị Đài Loan đã chi tiêu hơn 1 nghìn tỷ đồng, nhưng chính hệ thống đường sắt đô thị Bắc Kinh, có lưu lượng cao nhất, vẫn cần dựa vào thu nhập từ quảng cáo mới có thể sinh lời.  
-> Từ vụ kiện giá 1,64 tỷ đồng của công ty Ma Tê Lá (Pháp), đến vụ sập trụ sắt 209 tấn xông ngưng người chết tại Trung Kinh,  
-> đây là một câu chuyện về uy tức, giá cả và quá trình học hỏi.
+> **30 giây tóm tắt:** Trong 30 năm, Đài Loan đã chi hơn 1 nghìn năm tỷ để xây dựng hệ thống tàu điện ngầm, nhưng thậm chí cả Đài Bắc — tuyến chở nhiều hành khách nhất — cũng phụ thuộc vào doanh thu quảng cáo để lãi.
+> Từ bài kiện trị giá 16,4 triệu đồng của công ty Pháp Matra, cho tới cột thép 209 tấn rơi tử vong ở Đài Trung,
+> Đây là câu chuyện về tham vọng, chi phí và sự học hỏi.
 
-Vào lúc 16h58 phút ngày 10 tháng 4 năm 2015, tại giao lộ Phủ Tân – Văn Phòng, thành phố Trung Kinh, một trụ sắt nặng 209 tấn rơi từ trên cao xuống. Trụ sắt đập nát hai chiếc xe hơi, 4 người chết ngay lập tức, 4 người bị thương nặng.
+Ngày 10 tháng 4 năm 2015, lúc 16h58, giao lộ đường Bắc Tùn – Chân Tâm, Đài Trung. Một cột thép nặng 209 tấn rơi từ độ cao 15 mét. Cột thép phá hủy hai chiếc xe, 4 người tử vong tại chỗ, 4 người bị thương nặng.
 
-Trong khi vụ việc xảy ra vào giờ cao điểng đi làm, khu vực thi công chỉ sử dụng các con chữ tam giác "phòng ngừa" mà không có bất kỳ biện pháp kiểm soát giao thông nào. Thậm chí, nhà thầu Far East Engineering đã cam kết "thi công trong khung giờ 23h30–05h30" nhưng thực tế bắt đầu làm việc vào lúc 15h và chỉ thông báo qua fax lúc 16h — không phải để xin phép, chỉ đơn thuần là thông báo.
+Vào thời điểm đó, giờ cao điểm tan làm về nhà, nhưng khu vực thi công chỉ dùng b cone để phòng bảo, không có biện pháp kiểm soát giao thông nào. Thậm chí kỳ lạ hơn, nhà thầu Yu Yang Engineering đã hứa sẽ thi công vào ban đêm từ 23h30 đến 05h30, nhưng lại bắt đầu thao tác lắp cột lúc 15h chiều, cho tới 16h mới gửi fax thông báo — không phải đơn đăng ký, chỉ là thông báo.
 
-Vụ thảm hổn này khiến dự án đường sắt đô thị Trung Kinh phải ngừng thi công toàn bộ, chỉ sau 6 năm mới khai trương. Nó cũng như một chiếc gương, phản chiếu bề mặt thực sự của quá trình phát triển hệ thống đường sắt đô thị Đài Loan: uy tức hoang dã, giá cả kinh khủng, và quá trình học hỏi khó khăn từ những sai lầm.
+Bản thảm mar này khiến toàn bộ hệ thống Đài Trung tạm dừng thi công, trễ 6 năm mới hoạt động. Nó cũng như một tấm gương phản chiếu thực trạng thực sự của sự phát triển tàu điện ngầm ở Đài Loan: tham vọng cuồng nhiệt, chi phí đáng sợ và quá trình học hỏi từ sai lầm một cách khó khăn.
 
-## Chiến chứa Ma Tê Lá: Khoản học phí đắt giá của đường sắt đô thị đầu tiên của Đài Loan
+## Trận chiến Matra: Khoản phí đắt hơn cho tuyến tàu điện đầu tiên của Đài Loan
 
-Ngày 28 tháng 3 năm 1996, đường sắt đô thị Woodbridge chính thức khai trương: năm đầu tiên của hệ thống đường sắt đô thị Đài Loan bắt đầu với nhiều bi kịch.
+Ngày 28 tháng 3 năm 1996, tuyến Mộ Dục (Woodslouse) khánh thành: năm đầu tiên của hệ thống tàu điện ngầm Đài Loan chính thức khởi động. Nhưng khởi đầu này đầy bi đát.
 
-Tranh cãi kéo kéo trong vòng 12 năm giữa công ty Ma Tê Lá (Pháp) và thành phố Bắc Kinh. Ma Tê Lá cáo buộc Bắc Kinh chậm trễ trong việc thi hành nghĩa vụ, yêu cầu bồi thường giá trị lớn; trong khi đó, Bắc Kinh tố cáo Ma Tê Lá thường xuyên xảy ra tranh chấp kỹ thuật và tai nạn an toàn lao động. Vụ kiện quốc tế này kết thúc với Bắc Kinh thua trận — bồi thường 1,64 tỷ đồng.
+Cuộc tranh chấp giữa công ty Pháp Matra và chính quyền Đài Bắc kéo dài tới 12 năm. Matra buộc tội Đài Bắc "chậm tiến độ", đòi bồi thường số tiền khổng lồ; Đài Bắc đư tiếp tộc Matra "liên tục tranh chấp kỹ thuật, tai nạn an toàn lao động". Vụ kiện quốc tế cuối cùng kết thúc với thất bại của chính quyền Đài Bắc — phải bồi thường 16,4 triệu đồng.
 
-Chính trị nhân vật ngày nay, Tôn Ngọc Nhân (Tsai Ing-wen, 蔡英文), đã thốt lên tiếng giận dữ: "Không còn Ma Tê Lá nữa, chúng ta sẽ tự làm." Nhưng giá cả đã được trả. Thêm đáng buồn, trong giai đoạn khai trương, đường sắt đô thị Woodbridge thường xuyên hỏng hóc, khiến người dân châm biếm gọi nó là "tuyến đường ít người đi hơn cả nhân viên". Năm 1993, một vụ cháy kỹ thuật số liên quan đến hệ thống dây chuyền điện không ẩm cũng xảy ra, khiến niềm tin của người dân vào đường sắt đô thị sụt giảm đến mức thấp nhất.
+Thời điểm đó, thị trưởng Đài Bắc Thái Nhĩ Bình (Chen Shui-bian) tức giận tuyên bố: "Matra không kéo, chúng tôi sẽ tự kéo", nhưng chi phí đã phải trả. Đau đớn hơn, tuyến Mộ Dục trong giai đoạn khánh thành ban đầu thường xuyên gặp sự cố, người dân châm ngôn "tuyến đường ít hành khách hơn cả nhân viên" cũng bình thường. Năm 1993 cũng đã xảy ra vụ cháy cáp lái điện khô, khiến niềm tin của người dân đối với tàu điện ngầm lao dương tới đáy.
 
-> **📝 Ghi chú của người dẫn chương**  
-> Tại sao đường sắt đô thị đầu tiên của Đài Loan lại chọn hệ thống VAL của công ty Ma Tê Lá (Pháp)? Chính phủ cho rằng đây là công nghệ "cập nhật nhất", nhưng trong ngành công nghiệp có tin đồn rằng việc này liên quan đến việc mua bán hạm đạn hạt lửa La Fayette và thiên binh Phantom 2000 của Pháp. Sự giao thoa giữa chính trị và công nghệ đã được ghi lại ngay từ ngày đầu tiên vào "gen" của hệ thống đường sắt đô thị Đài Loan.
+> **📝 Ghi chú biên tập**
+> Tại sao tuyến tàu điện đầu tiên của Đài Loan lại chọn hệ thống VAL của Matra từ Pháp? Lý do chính thức là "công nghệ tiên tiến nhất", nhưng giới ngành cho rằng liên quan tới việc mua súng chiến đấu Mirage và Phantom 2000 của thời đó. Sự ràng buộc giữa chính trị và công nghệ đã được viết sẵn vào bản sắc di truyền của hệ thống tàu điện ngầm Đài Loan từ ngày đầu tiên.
 
-Khoản học phí 1,64 tỷ đồng này đáng giá bao nhiêu? Ngày hôm nay, nhìn lại, đường sắt đô thị Woodbridge (hiện là tuyến đường sắt đô thị Thủy Tây) chứng minh một sự kiện quan trọng: **Người Đài Loan có thể xây dựng đường sắt đô thị.** Dù quá trình rơi rụng rơi rụng, nhưng nó đã chạy được, và đã chạy được trong vòng 30 năm.
+Khoản bài học tính bằng 16,4 triệu đồng có thực sự đáng đáng không? Nhìn lại ngày nay, tuyến Mộ Dục (nay là tuyến Hồ Văn) chứng minh một điều then chốt: **người Đài Loan có thể tự xây dựng tàu điện ngầm.** Mặc dù quá trình còn nhiều trục trặc, nhưng nó đã hoạt động, và hoạt động liên tục trong 30 năm.
 
-## Tương lai đắt giá: Khởi nguồn văn hóa đường sắt đô thị của Bắc Kinh
+## Phép màu tuyến Đào Bình: Khởi nguồn thực sự của văn hóa tàu điện ngầm
 
-Năm 1997, đường sắt đô thị Tamsui khai trương, hệ thống đường sắt đô thị Bắc Kinh thực sự bắt đầu tăng trưởng.
+Năm 1997, tuyến Đào Bình (Tamsui) khánh thành, Đài Bắc tàu điện ngầm thực sự bứt phá.
 
-Khác với đường sắt đô thị Woodbridge với công nghệ Pháp, đường sắt đô thị Tamsui giữ lại phần lớn công trình cũ của đường sắt đô thị Tamsui trước đây, cộng với kết quả học tập của các kỹ sư Đài Loan, cuối cùng giúp người dân Đài Loan trải nghiệm "đường sắt đô thị cấp thế giới" — xe toa lạnh, bảng điểm điện tử, đến điểm chính xác, thiết kế thân thiện người khuyết tật.
+Khác với công nghệ Pháp của tuyến Mộ Dục, tuyến Đào Bình dựa trên tuyến tàu điện ngầm cũ của Đài Bắc, kết hợp với kiến thức học được của kỹ sư Đài Loan, cuối cùng cho phép người Đài Loan trải nghiệm "hương vị tàu điện ngầm thế giới" — hệ thống điều hòa, bảng hiển thị điện tử, đến giờ chính xác, thiết kế tiếp cận mọi lứa người.
 
-Quan trọng hơn, đường sắt đô thị Tamsui đã thiết lập "văn hóa đường sắt đô thị" riêng của Đài Loan. Toàn bộ không gian xe cấm ăn uống, người vi phạm bị phạt tối đa 7.500 đồng; đi trên thang máy điện một cách chậm chạp phải đứng sang bên phải; không gian xe yên tĩnh như trong thư viện. Những quy tắc này ngày nay trông chỉ là điều tự nhiên, nhưng vào thập niên 1990, chúng là một thí nghiệm xã hội mang tính cuối cùng.
+Điều quan trọng hơn, tuyến Đào Bình đã thiết lập "văn hóa tàu điện ngầm đặc trưng của Đài Loan". Cấm ăn uống trong toàn thành xe, vi phạm sẽ bị phạt tối đa 7,500 đồng; trên thang máy luôn đứng bên phải; trong xe như thư viện. Những quy tắc này nghe có vẻ tự nhiên hôm nay, nhưng vào những năm 1990 là một thí nghiệm xã hội cách mạng.
 
-> **💡 Bạn biết không?**  
-> Quy tắc cấm ăn uống trên đường sắt đô thị Bắc Kinh là một trong những quy định nghiêm ngặt nhất thế giới. Từng có du khách nước ngoài bị phạt 1.500 đồng vì ăn mặn trên sân bay và xuất hiện trong báo chí quốc tế. Nhưng chính sự kiên trì ấy đã khiến sự sạch sẽ của không gian xe Bắc Kinh trở thành ấn tượng sâu sắc nhất với du khách quốc tế.
+> **💡 Bạn có biết không?**
+> Quy định cấm ăn uống của Đài Bắc tàu điện ngầm là một trong những quy định nghiêm ngặt nhất trên thế giới. Từng có du khách nưới ngoài bị phạt 1,500 đồng vì nhai kẹo cao su trên bậu cửa, và vụ việc lên tin tức quốc tế. Nhưng đúng là nhờ sự kiên trì này, mức độ sạch sẽ trong xe trở thành ấn tượng sâu sắc nhất với hành khách quốc tế.
 
-Thành công của đường sắt đô thị Tamsui có một thông tin quan trọng: Nó kết nối các khu dân cư dày đặc nhất của Bắc Kinh (Bắc Địch, Thủ Địch, Đại Đông) với trung tâm thành phố, nhu cầu di chuyển lớn. Lưu lượng hành khách tăng nhanh chóng từ 40.000 người mỗi ngày lên đến 600.000 người mỗi ngày.
+Một con số then chốt của thành công tuyến Đào Bình: nó nối kết khu dân cư dày đặc nhất của Đài Bắc (Bắc Tùn, Thái Nhân, Đại Đông) với trung tâm thành phố, nhu cầu đi làm rất lớn. Số lượng hành khách tăng từ ban đầu 40,000 lên tới 600,000 hôm nay.
 
-**Lợi thế địa lý + Học tập công nghệ + Xây dựng văn hóa = Tương lai đắt giá của đường sắt đô thị Tamsui.** Công thức này sau đó được nhiều thành phố sao chép, nhưng rất few người thành công.
+**Lợi thế địa lý + học hỏi kỹ thuật + xây dựng văn hóa = Phép màu tuyến Đào Bình.** Công thức này sau này được hàng ngàn thành phố sao chép, nhưng hiếm có ai thành công.
 
-## Giao cắt chiến lược: Đường sắt đô thị Bắc Kinh
+## Mạng lưới giao nhau tuyến Bảng Nam: Bước chuyển chiến lược của Đài Bắc tàu điện ngầm
 
-Năm 1999, đường sắt đô thị Boardwalk khai trương, Bắc Kinh chính thức có một "hình xoắn ốc" của đường sắt đô thị.
+Năm 1999, tuyến Bảng Nam (Ping'an) khánh thành, Đài Bắc cuối cùng có khung xương tàu điện ngầm đầu tiên dạng "bốn nhánh giao nhau".
 
-Ý nghĩa chiến lược của đường sắt đô thị Boardwalk vượt ra ngoài chức năng vận tải. Nó xuyên qua trục đường chính của Bắc Kinh — từ Boardwalk, Phố Tây, Ga Bắc Kinh, Tương Lai Phục Hưng đến Hồng Ngoại, nối các khu vực tài chính, chính trị và giao thông trung tâm. Quan trọng hơn, nó bắt đầu "định nghĩa lại" bản đồ bất động sản của Bắc Kinh.
+Ý nghĩa chiến lược của tuyến Bảng Nam vượt xa chức năng giao thông. Nó xuyên qua trục đông-tây trung tâm nhất của Đài Bắc — từ Bảng Châu, Tây Môn Động, Trạm Đài Bắc, Trung Tâm Pháp Hưng tới Nam Cung, nối kết khu vực thương mại, chính trị và giao thông. Điều quan trọng hơn, nó bắt đầu "định nghĩa lại" bản đồ bất động sản của Đài Bắc.
 
-"Nhà ở gần đường sắt đô thị" (MRT Home) trở thành từ khóa quan trọng nhất trong quảng cáo bất động sản. Các dữ liệu cho thấy, giá nhà trong vòng 500 mét từ trạm đường sắt đô thị trung bình cao hơn 15-20% so với khu vực xung quanh. Toàn bộ trọng tâm phát triển thành phố Bắc Kinh bắt đầu dịch chuyển về phía các tuyến đường sắt đô thị.
+"Nhà gần tàu điện" trở thành từ khóa mạnh nhất trong quảng cáo bất động sản. Dữ liệu cho thấy, giá nhà trong bán kính 500 mét từ ga tàu điện trung bình cao hơn 15-20% so với khu vực xung quanh. Trọng tâm phát triển của toàn thành phố bắt đầu dịch chuyển theo đường ray.
 
-Năm 2006, lưu lượng hành khách của đường sắt đô thị Bắc Kinh vượt qua 3 tỷ người. Mạng lưới đường sắt đô thị mở rộng từ 1 tuyến lên 5 tuyến vận hành, với lưu lượng hành khách trung bình mỗi ngày vượt 1,5 triệu người. Đường sắt đô thị không còn là một "điều mới lạ" nữa, mà là hạ tầng sinh hoạt cơ bản của người dân Bắc Kinh.
+Năm 2006, tổng lượng hành khách của Đài Bắc tàu điện ngầm vượt mốc 3 tỷ lượt người. Mạng lưới từ 1 tuyến mở rộng thành 5 tuyến hoạt động, trung bình hơn 1,500,000 lượt/ngày. Tàu điện ngầm không còn là "điều mới lạ", mà là hạ tầng sống còn của người dân Đài Bắc.
 
-Nhưng những số liệu thực sự khiến người ta ngạc nhiên nằm ở phía sau.
+Nhưng con số gây ngạc nhiên thực sự nằm ở phía sau.
 
-## Nghiên cứu về Bắc Kinh: Hệ thống đường sắt đô thị Bắc Kinh vẫn đang lỗ
+## Bản nghịch lý của Đài Bắc tàu điện ngầm: Ngay cả tuyến chở nhiều nhất cũng lỗ tiền
 
-Đường sắt đô thị Bắc Kinh là hệ thống đường sắt đô thị có lưu lượng cao nhất và thu nhập cao nhất trên toàn Đài Loan, với 2 triệu người mỗi ngày sử dụng, doanh thu hàng năm đạt 18 tỷ đồng. Nhưng có một thực tế ít người biết: **nghiên cứu chính của đường sắt đô thị Bắc Kinh vẫn đang lỗ.**
+Đài Bắc tàu điện ngầm là hệ thống tàu điện ngầm chở nhiều hành khách và kiếm được nhiều tiền nhất trên toàn đảo, với 2,000,000 lượt/ngày và doanh thu hàng năm 180 triệu đồng. Nhưng có một sự thật ít người biết: **hoạt động cốt lõi của Đài Bắc tàu điện ngầm vẫn luôn lỗ.**
 
-Theo tài liệu tài chính công khai của Giám đốc Đường sắt đô thị Bắc Kinh, Huang Quốc Minh, vào năm 2019, lưu lượng đạt đỉnh cao, thu nhập từ vé vào 167,4 tỷ đồng, nhưng chi phí vận hành cao đến 180 tỷ đồng, **lỗ 12,6 tỷ đồng trong nghiên cứu chính.**
+Theo dữ liệu tài chính công khai của giám đốc Đài Bắc tàu điện ngầm Vương Thanh Tín (Huang Qing-xin), năm 2019 khi lượng hành khách đạt đỉnh cao, doanh thu vé đạt 167,400,000 đồng, nhưng chi phí vận hành lên tới 180,000,000 đồng, **lỗ 12,600,000 đồng từ hoạt động cốt lõi.**
 
-Đường sắt đô thị Bắc Kinh làm thế nào có lợi? Đáp án là **hoạt động phụ.** Vào năm 2019, thu nhập từ quảng cáo tại các trạm đạt 25 tỷ đồng, cho thuê các thiết bị ATM và không gian thương mại khác đạt 5 tỷ đồng. Nó nghĩa là, đường sắt đô thị Bắc Kinh phụ thuộc vào các bảng quảng cáo, máy rút tiền trong các trạm để nuôi sống cả hệ thống.
+Vậy Đài Bắc tàu điện ngầm kiếm lợi nhuận như thế nào? Câu trả lời là **kinh doanh phụ trợ.** Năm 2019, doanh thu quảng cáo tại các ga khoảng 25,000,000 đồng, cho thuê ATM, dịch vụ viễn thông khoảng 5,000,000 đồng. Nói cách khác, Đài Bắc tàu điện ngầm đang được nuôi sống bởi bảng quảng cáo trong ga và máy rút tiền của ngân hàng.
 
-> **⚠️ Sự thật ngược lại**  
-> Chỉ có 7 hệ thống đường sắt đô thị trên thế giới có thể sinh lời: Hồng Kông, Tokyo, Singapore, Bắc Kinh, Moskva, Hàn Quốc, Bắc Kinh. Nhưng ngay cả trong số 7 hệ thống này, hầu hết cũng phụ thuộc vào phát triển bất động sản hoặc bảo trợ chính phủ. Hệ thống chỉ sinh lời chỉ từ nghiên cứu chính là hầu hết không tồn tại.
+> **⚠️ Sự thật đối lập với trực giác**
+> Trên thế giới chỉ có 7 hệ thống tàu điện ngầm lãi: Hồng Kông, Tokyo, Singapore, Đài Bắc, Moscow, Seoul, Bắc Kinh. Nhưng ngay cả 7 nơi này, hầu hết cũng phụ thuộc vào phát triển bất động sản hoặc trợ cấp từ chính phủ. Hệ thống nào kiếm lợi nhuận chỉ từ hoạt động giao thông thì gần như không tồn tại.
 
-"Nghiên cứu về Bắc Kinh" phơi bày một thực tế khắc khoải: **Nếu ngay cả đường sắt đô thị Bắc Kinh cũng cần dựa vào thu nhập từ quảng cáo mới có thể sinh lời, các đường sắt đô thị khác ở các thành phố khác sẽ chắc chắn lỗ.**
+Bản nghịch lý "Đài Bắc tàu điện ngầm" này tiết lộ một thực tại khắc nén: **Nếu thậm chí Đài Bắc tàu điện ngầm cũng phải dựa vào doanh thu quảng cáo để tồn tại, thì tàu điện ngầm của các thành phố khác chắc chắn là hàng thua lỗ.**
 
-| Lưu lượng cao nhất nhưng vẫn lỗ                   | Hiện tượng đường sắt đô thị trên toàn Đài Loan |
-| ------------------------------------------------- | ---------------------------------------------- |
-| Đường sắt đô thị Bắc Kinh 2 triệu người mỗi ngày  | Nghiên cứu chính lỗ 12,6 tỷ đồng               |
-| Đường sắt đô thị Hải Phòng 180.000 người mỗi ngày | Tích lũy lỗ 7,5 tỷ đồng                        |
-| Đường sắt đô thị Tối Trà 40.000 người mỗi ngày    | Tích lũy lỗ 20 tỷ đồng                         |
-| Đường sắt đô thị Trung Kinh 26.000 người mỗi ngày | Lỗ năm đầu tiên 6 tỷ đồng                      |
+| Dù vận chuyên cao nhất vẫn lỗ tiền          | Tình trạng toàn bộ hệ thống tàu điện ngầm |
+| ------------------------------------------- | ----------------------------------------- |
+| Đài Bắc tàu điện ngầm 2,000,000 lượt/ngày   | Lỗ 12,600,000 từ hoạt động cốt lõi        |
+| Đài Bắc tàu điện ngầm 180,000 lượt/ngày     | Lỗ tích lũy 7,500,000                     |
+| Máy bay sân bay Thái Dương 40,000 lượt/ngày | Lỗ tích lũy 20,000,000                    |
+| Đài Trung tàu điện ngầm 26,000 lượt/ngày    | Lỗ năm đầu 6,000,000                      |
 
-## Bài học từ Hải Phòng: Thí nghiệm khó khăn của Đài Loan phía Nam
+## Bài học từ Đài Bắc: Thí nghiệm khó khăn của miền Nam Đài Loan
 
-Năm 2008, đường sắt đô thị Hải Phòng đường đỏ cam khai trương, thành phố thứ hai của Đài Loan ra đời. Nhưng số phận của Hải Phòng khác với Bắc Kinh.
+Năm 2008, tuyến tàu điện ngầm Đỏ Cam của Đài Bắc khánh thành, thành phố thứ hai của Đài Loan sinh ra. Nhưng số phận của Đài Bắc hoàn toàn khác biệt với Đài Bắc.
 
-Kế hoạch thiết kế đường sắt đô thị Hải Phòng với lưu lượng trung bình mỗi ngày 500.000 người, nhưng thực tế trước đại dịch đạt đỉnh cao nhất chỉ đến 180.000 người mỗi ngày — chỉ là 36% dự kiến. Nguyên nhân là cấu trúc: độ suy giảm dân số khu vực đô thị Hải Phòng thấp hơn, tỷ lệ sở hữu xe máy cực kỳ cao, hệ thống xe buýt chưa hoàn thiện. Quan trọng hơn, người Hải Phòng đã quen thuộc với việc đi xe máy cửa sổ, vấn đề "khoảng cách cuối cùng" tại Hải Phòng cực kỳ nghiêm trọng.
+Thiết kế sản lượng vận hành của Đài Bắc tàu điện ngầm là 500,000 lượt/ngày, nhưng trước đại dịch cao nhất chỉ đạt 180,000 lượt/ngày — chỉ 36% dự báo. Nguyên nhân là cấu trúc: mật độ dân cư của khu vực đô thị Đài Bắc thấp, tỷ lệ sở hữu xe máy rất cao, hệ thống bus kết nối chưa hoàn thiện. Điều quan trọng hơn, người dân Đài Bắc đã quen thói với việc chạy xe máy cửa tới cửa, vấn đề "cú cuối cùng" ở Đài Bắc đặc biệt nghiêm trọng.
 
-Công ty đường sắt đô thị Hải Phòng từng đối mặt với nguy cơ phá sản. Năm 2013, chính phủ Hải Phòng bị ép buộc sửa đổi hợp đồng BOT, nhận chuyển giao thiết bị điện và cơ khí sớm hơn, mỗi năm phải chịu lãi ngân hàng 2 tỷ đồng, và giảm bớt khoản khấu hao hàng năm 18 tỷ đồng cho công ty đường sắt đô thị Hải Phòng. Điều này tương đương là chính phủ trực tiếp cấp máu cứu sinh.
+Công ty Đài Bắc tàu điện ngầm từng đối mặt với khủng hoải phá sản. Năm 2013, chính quyền Đài Bắc buộc phải sửa đổi hợp đồng BOT, tiếp nhận trước các thiết bị điện tử, hàng năm chịu trách nhiệm lãi vay ngân hàng hơn 20,000,000 đồng, đồng thời miễn trừ khoản khấu hao âm thanh khoảng 18,000,000 đồng/năm cho công ty Đài Bắc tàu điện ngầm. Đây giống như sự cứu chữa trực tiếp từ chính phủ.
 
-Nhưng Hải Phòng không từ bỏ. Đường sắt đô thị vòng tròn nhẹ khai trương từng phần từ năm 2015, và toàn bộ đường sắt đô thị sẽ hoàn thành vào năm 2024. Sử dụng chi phí xây dựng thấp hơn (đường sắt đô thị nhẹ khoảng 1 tỷ đồng/km so với đường sắt đô thị 5 tỷ đồng/km) để bổ sung độ đông của mạng lưới, kết hợp với xe đạp YouBike, tạo thành mô hình giao thông cộng hợp "đường sắt đô thị + đường sắt đô thị nhẹ + xe đạp".
+Nhưng Đài Bắc không bỏ cuộc. Tuyến tàu điện ngầm hình tròn bắt đầu vận hành từng đoạn từ năm 2015, đến năm 2024 toàn tuyến hoàn thiện. Với chi phí xây dựng thấp hơn (khoảng 10,000,000 đồng/km so với 50,000,000 đồng/km của tàu điện ngầm), kết hợp với chương trình xe đạp chia sẻ YouBike, dần hình thành mô hình vận tải kết hợp "tàu điện ngầm + tàu điện nhẹ + xe đạp".
 
-> **📊 So sánh dữ liệu**  
-> Tỷ lệ sở hữu xe máy tại Hải Phòng: 741 xe mỗi người (xếp hạng đầu tiên toàn Đài Loan)  
-> Tỷ lệ sở hữu xe máy tại Bắc Kinh: 337 xe mỗi người
+> **📊 So sánh dữ liệu**
+> Mật độ xe máy Đài Bắc: 741 xe/ngàn người (cao nhất toàn đảo)
+> Mật độ xe máy Đài Bắc: 337 xe/ngàn người
 >
-> Nguồn: Trang web tra cứu thống kê giao thông (2024)
+> Nguồn: Trang web thống kê Bộ Giao thông (2024)
 
-Kinh nghiệm của Hải Phòng chứng minh: **Đường sắt đô thị không phải là một "thuốc lành mọi bệnh", nó cần hỗ trợ bởi chính sách giao thông tổng thể, kế hoạch đô thị và thói quen sinh hoạt.**
+Kinh nghiệm của Đài Bắc chứng minh: **tàu điện ngầm không phải là thuốc kỳ diệu, nó cần sự hỗ trợ toàn diện từ chính sách giao thông, quy hoạch đô thị và thói quen sinh hoạt.**
 
-## Đường sắt đô thị sân bay và Tối Trà: Thách thức cửa ngõ và di chuyển
+## Tàu điện ngầm sân bay và Thái Dương: Thử thách kép của cửa ngõ và đi làm
 
-Năm 2017, đường sắt đô thị sân bay Tối Trà khai trương, Đài Loan chính thức có một hệ thống đường sắt đô thị cấp quốc gia. Từ ga Bắc Kinh đến sân bay Tối Trà chỉ mất 35 phút, giải quyết vấn đề "giao thông cửa ngõ" lâu năm được kỳ thị.
+Năm 2017, tàu điện ngầm sân bay Thái Dương khánh thành, Đài Loan cuối cùng có hệ thống giao thông đường sắt đạt tiêu chuẩn quốc tế. Từ Trạm Đài Bắc tới sân bay Thái Dương 35 phút, giải quyết vấn đề "giao thông cửa ngõ" kéo dài.
 
-Dịch vụ "đăng ký trước" của đường sắt đô thị sân bay là sự đổi mới của Đài Loan: Hành khách có thể hoàn tất việc đăng ký hành lý và xuống tàu tại ga Bắc Kinh, sau đó di chuyển trang phục nhẹ nhàng đến sân bay xuất cảnh. Dịch vụ này dù sử dụng ít (trước đại dịch chỉ khoảng 5%) nhưng là một thử thách đối với sự phát triển công nghệ của đường sắt đô thị công cộng.
+Dịch vụ "đăng ký hành lý trước" của tàu điện ngầm sân bay là đổi mới của Đài Loan: hành khách có thể hoàn thành thủ tục gửi hành lý và đăng ký chuyến bay tại Trạm Đài Bắc, sau đó chỉ cần mang theo hành lý nhẹ lên tàu điện ngầm đến sân bay ra ngoại. Dịch vụ này dù có tỷ lệ sử dụng thấp (khoảng 5% trước đại dịch), vẫn là một nỗ lực quan trọng trong số hóa giao thông công cộng của Đài Loan.
 
-Nhưng đường sắt đô thị sân bay cũng phơi bày một vấn đề khác: **Rủi ro phụ thuộc vào nhóm khách hàng cụ thể.** Trước đại dịch, hành khách quốc tế chiếm 60% doanh thu đường sắt đô thị sân bay. Đại dịch bùng phát, lưu lượng hành khách từ 70.000 người giảm xuống còn 30.000 người, tích lũy lỗ 20 tỷ đồng. Giám đốc đường sắt đô thị sân bay Tối Trà, Zheng Dehua, cho biết: "Khi cửa ngõ đóng lại, chúng ta sẽ mất ít nhất 1 tỷ đồng trong tháng."
+Nhưng tàu điện ngầm sân bay cũng phơi bày một vấn đề khác: **rủi ro phụ thuộc vào nhóm khách hàng cụ thể.** Trước đại dịch, khách quốc tế chiếm 60% doanh thu của tàu điện ngầm sân bay. Sau khi đại dịch bùng phát, số lượt hành khách/ngày giảm từ 70,000 xuống còn 30,000, lỗ tích lũy 20,000,000 đồng. Giám đốc tàu điện ngầm sân bay Thái Dương Trịnh Đức Phát (Zheng Deyu) nói: "Mỗi tháng cửa ngõ đóng lại sẽ giảm thu nhập ít nhất 10,000,000 đồng."
 
-Thêm khó khăn là, đường sắt đô thị sân bay có nhiều "trạm điên" không có hành khách. Vào hầu hết các ngày, chỉ có khoảng 300 người vào và ra trạm Hợp Lạp trong nửa năm 2022, trong khi 3 chuyến xe kéo qua không có ai lên xuống. Bên ngoài, hi trường chờ xe của xe buýt cho thấy "xe cuối cùng đã qua", xung quanh là những bãi cỏ dại.
+Thậm chí còn ngại ngùng hơn, dọc theo tuyến tàu điện ngầm sân bay có nhiều "ga ma thuật". Ga Hổ Sơn năm 2022 chỉ có khoảng 300 lượt/ngày, trong 30 phút có 3 chuyến tàu qua lại mà không ai lên/xuống. Bảng hiển thị xe buýt bên ngoài ga cho thấy "xe cuối đã rời", xung quanh là khu đất hoang vắng đầy cỏ dại.
 
-Hình ảnh này khiến người ta nghĩ đến một câu hỏi khôn ngoan: **Chúng ta đang xây dựng đường sắt đô thị, hay đang xây dựng một "phòng trưng bày"?**
+Cảnh quan này gợi nhớ một câu hỏi khắc nén: **Chúng ta đang xây dựng tàu điện ngầm hay đang xây dựng tấm lưới cho ong?**
 
-## Thảm hổn sập trụ sắt 209 tấn: Vụ xông ngưng và sự kéo dài 6 năm
+## Tàn khốc Đài Trung: Cột thép 209 tấn và 6 năm chậm trễ
 
-Quay lại vụ thảm hổn đầu tiên. Báo cáo điều tra vụ sập trụ sắt đường sắt đô thị Trung Kinh cho thấy, nó giống như một cuốn sách giáo trình về tai nạn an toàn lao động:
+Quay lại như đã mở đầu.
 
-- Trụ hỗ trợ máng kéo không đặt ván gỗ phân bố lực, mặt đường bê tông không chịu được trọng lượng nên lõm xuống
-- Trụ sắt cong có trọng tâm nằm ngoài trung tâm, "lực nghiêng" quá lớn gây xoắn ngược
-- Khu vực thi công chỉ dùng các con chữ tam giác phòng ngừa, không có biện pháp kiểm soát giao thông
-- Ban đầu dự kiến thi công vào ban đêm, nhưng thực tế làm việc vào giờ cao điểm trong ngày
-- Công nhân đã yêu cầu lắp thêm khung hỗ trợ, nhưng nhà thầu từ chối
+Báo cáo điều tra vụ tai nạn cột thép rơi của Đài Trung tàu điện ngầm đọc như một cuốn sách giáo khoa về tai nạn an toàn lao động:
 
-4 người bị xông ngưng: Su Gia Zhin (42 tuổi), Xie Guang Hui (57 tuổi), Du Ya You (60 tuổi), Lêu Hieu Khi (26 tuổi). Người trẻ nhất, Lêu Hieu Khi, chỉ 26 tuổi, đang ở độ tuổi trưởng thành của cuộc đời.
+- Máy kéo không lắp đặt thớ gỗ để phân bổ lực nén, mặt đường nhựa không chịu được trọng lượng và lún xuống
+- Cột thép cong lệch trọng tâm, "mô-men lệch" quá lớn gây xoắn lật
+- Khu vực thi công chỉ dùng b cone để phòng bảo, không có biện pháp chặn đường
+- Ban đầu quy định thi công vào ban đêm, nhưng thực hiện vào giờ cao điểm ban ngày
+- Công nhân từng đề nghị lắp thêm khung hỗ trợ, bị nhà thầu từ chối
 
-Hậu quả pháp lý của vụ thảm hổn là: Giám đốc phụ dự án đường sắt đô thị Bắc Kinh, Wang Qi Sheng, bị kết tội và bị kết án 8 tháng giam giữ; các công ty nhà thầu Far East và các cá nhân khác bị kết án 10 tháng đến 1 năm 6 tháng giam giữ, tất cả đều được giảm nhẹ hình phạt. Công ty bảo trợ cấp phép bị phạt 200.000 đồng.
+4 nạn nhân tử vong: Tô Ngô Thi (42 tuổi), Hứa Quang Hoa (57 tuổi), Đỗ Áp Nhất (60 tuổi), Lương Tiết Khải (26 tuổi). Cô Lương Tiết Khải, 26 tuổi, đang ở độ tuổi đỉnh trường.
 
-**4 người bị xông ngưng, thay vì hình phạt nghiêm khắc, chỉ được giảm nhẹ và bị phạt 200.000 đồng.**
+Hậu quả pháp lý của thảm họa này: Trưởng phòng thi công tàu điện ngầm Đài Bắc Vương Tĩ Sơn (Wang Qisen) bị phạt 8 tháng, các nhân viên của công ty Yu Yang bao gồm Trần Dương Nghiêm (Chen Songyan) và 6 người khác bị phạt từ 10 tháng tới 1 năm 6 tháng, tất cả đều được miễn hình phạt. Công ty Rương Lợi bị phạt 200,000 đồng.
 
-Năm 2021, tháng 4, đường sắt đô thị Trung Kinh chính thức khai trương, trễ so với tiến độ gốc 6 năm. Ngày nay, lưu lượng hành khách trung bình mỗi ngày khoảng 260.000 người, còn cách phạm vi dự kiến 800.000 người còn rất lớn.
+**4 sinh mạng được đổi lấy miễn hình phạt và khoản tiền phạt 200,000 đồng.**
 
-> **📝 Ghi chú của người dẫn chương**  
-> Vụ sập trụ sắt đường sắt đô thị Trung Kinh xảy ra khi đường sắt đô thị vòng tròn đang thi công các loại tương tự. Khác nhau là, đường sắt đô thị vòng tròn tuân thủ nghiêm ngặt "thi công vào ban đêm + kiểm soát giao thông". Cùng một công nghệ, quản lý khác nhau, quyết định sự sống và chết.
+Năm 2021, Đài Trung tàu điện ngầm cuối cùng khánh thành, chậm trễ 6 năm so với tiến độ ban đầu. Hiện nay, số lượt hành khách/ngày khoảng 26,000, còn xa so với mục tiêu 80,000.
 
-## Bí mật tỉ lệ đến điểm: Hệ thống đường sắt đô thị Bắc Kinh duy nhất trên thế giới chỉ bị trễ 5 phút sau 13,920.000 km
+> **📝 Ghi chú biên tập**
+> Khi vụ tai nạn cột thép Đài Trung xảy ra, tuyến đường tròn của Tân Dương đang thi công các cột thép hộp tương tự. Khác biệt là tuyến đường tròn nghiêm ngặt thực hiện "thi công vào ban đêm + chặn đường". Cùng một công nghệ, nhưng quản lý khác nhau, quyết định chết chóc.
 
-Sau các bài học thảm hổn, hệ thống đường sắt đô thị Đài Loan đã trải qua một "cuộc cách mạng chất lượng" không được chú ý nhiều.
+## Bí mật độ trễ: Cuộc cách mạng chất lượng trên 13,920,000 km
 
-Dữ liệu năm 2024 cho thấy, đường sắt đô thị Bắc Kinh trung bình chỉ bị trễ hơn 5 phút sau khi chạy 13,920.000 km. Số này này làm sao?
+Sau những bài học đẫm máu này, một "cuộc cách mạng chất lượng" ít được chú ý đã xảy ra trong ngành tàu điện ngầm Đài Loan.
 
-So sánh với các hệ thống khác:
+Dữ liệu năm 2024 cho thấy, Đài Bắc tàu điện ngầm trung bình phải đi **13,920,000 km** mới gặp một lần chậm hơn 5 phút. Con số này thật sự đáng ngạc nhiên?
 
-- Đường sắt đô thị Singapore: 2,090.000 km
-- Đường sắt đô thị Hồng Kông: 520.000 km
-- Đường sắt đô thị Singapore năm 2016: 160.000 km
+So sánh:
 
-Tỉ lệ đến điểm của đường sắt đô thị Bắc Kinh duy nhất duy trì trên 99,5% trong nhiều năm, xếp hạng đầu trong các hệ thống giao thông công cộng trên thế giới. Sự "văn hóa đến điểm" này đã thay đổi cảm giác thời gian của người dân Đài Loan — câu nói "tàu tới sau 3 phút" từ lời hứa trở thành sự thật tin cậy.
+- Tàu điện ngầm Singapore: 2,090,000 km
+- Tàu điện ngầm Hồng Kông: 520,000 km
+- Năm 2016, Tàu điện ngầm Singapore: 160,000 km
 
-Cuộc cách mạng chất lượng này đến từ đâu? Báo cáo của kênh truyền hình Asia News Taiwan năm 2018 tóm tắt 5 yếu tố chính:
+Tỷ lệ đúng giờ của Đài Bắc tàu điện ngầm luôn duy trì trên **99.5%**, xếp hạng cao trong các hệ thống giao thông công cộng trên thế giới. Văn hóa "đúng giờ" này thay đổi nhận thức thời gian của người Đài Loan — "chuyến tàu tiếp theo sau 3 phút" từ lời hứa thành sự thực đáng tin cậy.
 
-1. **Họp công nghệ hàng tuần**: Tổng hợp hơn 7.000 quy trình an toàn (SOP) cho từng vấn đề
-2. **Tập trung mô phỏng**: Khả năng ứng phó khẩn cấp
-3. **Bảo trì định kỳ chặt chẽ**: Giám đốc xác nhận chất lượng
-4. **Nhân viên lâu năm**: 5.700 nhân viên của đường sắt đô thị Bắc Kinh có tuổi trung bình 10 năm, gấp đôi so với SMRT Singapore
-5. **Tự nguyện của người dân**: Nhờ chất lượng tốt, người dân có mong đợi cao hơn, tôn trọng đường sắt đô thị hơn
+Cuộc cách mạng chất lượng này đến từ đâu? Báo cáo của Truyền hình Châu Á (Asia Television) năm 2018 tóm tắt 5 yếu tố then chốt:
 
-> **✦** "Mỗi tàu đến điểm một lần, đều trong im lặng kể cho thấy: Đảo này chăm chỉ quan tâm đến đời sống công cộng."
+1. **Họp kỹ thuật hàng tuần**: Tổng hợp hơn 7,000 quy trình SOP cho các vấn đề khác nhau
+2. **Tập luyện mô phỏng định kỳ**: Năng lực ứng phó khẩn cấp
+3. **Bảo trì định kỳ chặt chẽ**: Giám sát chất lượng bởi người quản lý
+4. **Nhân viên lâu năm**: 5,700 nhân viên của Đài Bắc tàu điện ngầm trung bình 10 năm kinh nghiệm, gấp đôi so với SMRT của Singapore
+5. **Nhận thức cộng đồng**: Dưới tiêu chuẩn chất lượng cao, người dân sẵn sàng sử dụng tàu điện ngầm bằng cách có đạo đức công cộng tốt hơn
 
-## Bước ngoại vi: Hệ thống đường sắt đô thị trên toàn Đài Loan đang tăng trưởng mạnh mẽ
+> **✦** "Mỗi chiếc tàu đến giờ đúng lúc đều âm thầm kể cho chúng ta nghe: hòn đảo này coi trọng cuộc sống công cộng."
 
-Ngày hôm nay, Đài Loan đang ở "thời kỳ đường sắt đô thị phát triển mạnh mẽ".
+## Sự bùng nổ toàn bộ hệ thống tàu điện ngầm: Cuộc cá cược 2,400 tỷ đồng
 
-Theo báo cáo của báo mới, tổng chi phí đường sắt đô thị trên toàn Đài Loan đã đạt 1 nghìn tỷ đồng, đang xây dựng và đánh giá hơn 20 đường sắt đô thị, dự kiến đầu tư thêm 1,1 nghìn tỷ đồng, tổng chiều dài khoảng 500 km — tương đương gấp ba lần đường sắt đô thị Bắc Kinh.
+Hôm nay, Đài Loan đang ở thời kỳ "sự bùng nổ tàu điện ngầm".
 
-| Quy mô đầu tư kinh ngạc                                           | Thực tế vận hành khắc khoải                   |
-| ----------------------------------------------------------------- | --------------------------------------------- |
-| Tổng đầu tư đường sắt đô thị trên toàn Đài Loan 2,4 nghìn tỷ đồng | Chỉ đường sắt đô thị Bắc Kinh sinh lời nhẹ    |
-| 20+ tuyến đang xây dựng                                           | Đường sắt đô thị Hải Phòng lỗ 7,5 tỷ đồng/năm |
-| Chi phí trung bình 5 tỷ đồng/km                                   | Đường sắt đô thị Tối Trà lỗ 20 tỷ đồng        |
+Theo nghiên cứu của Tân Tân Tin (Newtalk), tổng chi phí đã khánh thành của toàn bộ hệ thống tàu điện ngầm Đài Loan là 1,000 tỷ đồng, đang thi công và đánh giá hơn 20 tuyến, dự kiến sẽ đầu tư thêm 1,100 tỷ đồng, tổng chiều dài khoảng 500 km — tương đương với việc xây thêm 3 lần chiều dài của Đài Bắc tàu điện ngầm.
 
-Các lãnh đạo địa phương trong các kỳ chọn đều khẳng định "đường sắt đô thị, đường sắt đô thị nhẹ" là đề tài nóng hổi nhất. Một nhân vật chuyên môn trong lĩnh vực chính trị cho biết: "Hiện nay, mọi thành phố kêu gọi xây đường sắt đô thị chỉ là cách tăng điểm chọn, sẽ không khiến họ mất điểm."
+| Quy mô đầu tư khổng lồ                                   | Thực tế vận hành khắc nén    |
+| -------------------------------------------------------- | ---------------------------- |
+| Tổng đầu tư toàn bộ hệ thống tàu điện ngầm 2,400 tỷ đồng | Chỉ Đài Bắc có lợi nhuận nhỏ |
+| Hơn 20 tuyến đang thi công                               | Đài Bắc lỗ 750,000,000/năm   |
+| Trung bình 500,000,000 đồng/km                           | Thái Dương lỗ 2,000,000,000  |
 
-Vấn đề là: Những tuyến đường sắt đô thị mới này thực sự có nhu cầu sử dụng không?
+Trong chương trình bầu cử của các thị trưởng thành phố, "tàu điện ngầm, tàu điện nhẹ" là mụm mụt nóng nhất. Một nhân vật lâu năm trong chính trị cho rằng: "Bây giờ mỗi nơi đều hét lên 'xây tàu điện ngầm', điều này chỉ giúp tăng số phiếu, không bao giờ giảm."
 
-Ví dụ như đường sắt đô thị nhẹ Dầu Hai, ban đầu dự kiến đánh giá lưu lượng hành khách mỗi ngày 44.000 người, nhưng thực tế chỉ đạt 19.000 người mỗi ngày — chỉ là 43% dự kiến. Nguyên nhân là dân số khu vực mới Dầu Hai phát triển không như kỳ vọng. Vào năm 1992, dự kiến sẽ có 300.000 người sinh sống tại đây vào năm 2014, nhưng thực tế chỉ có hơn 40.000 người.
+Vấn đề là: những tuyến mới này có thực sự cần thiết không?
 
-> **⚠️ Cảnh báo từ chuyên gia**  
-> Giáo sư trưởng Trung tâm giao thông thông minh Đại học Thành công, Li Yu Xin, cho rằng: "Chính phủ địa phương thường bám vào 'muốn xây đường sắt đô thị' khi đánh giá khả năng khả thi. Các công ty tư vấn luôn tìm được cách 'khả thi' mà không vi phạm 'tầm nhìn của người thuê'."
+Ví dụ như tàu điện nhẹ ven biển Tân Dương, ban đầu ước tính sản lượng 44,000 lượt/ngày, thực tế chỉ đạt 19,000 lượt/ngày — chỉ 43%. Nguyên nhân là dân số phát triển khu đô thị mới không bằng dự báo. Khi lên kế hoạch năm 1992, dự báo 2014 sẽ có 300,000 người đến đây sinh sống, nhưng thực tế chỉ có hơn 40,000 người.
 
-## Kháng cự của xe máy: Tại sao đường sắt đô thị không thể thay đổi thói quen giao thông?
+> **⚠️ Cảnh báo của chuyên gia**
+> Trưởng khoa Giao thông Đường sắt của Đại học Thành công (Thành công) Lý Ngữ Hy (Lee Yushin) trực tiếp chỉ ra: "Các chính quyền địa phương thường mang tâm lý 'xây tàu điện ngầm' khi giao cho công ty tư vấn đánh giá khả thi. Trong điều kiện không mâu thuẫn với 'tầm nhìn của chủ đầu tư', công ty tư vấn luôn tìm ra các điều kiện 'khả thi'. Nhưng trong quá trình thi công, những giả định này bị bỏ qua, và sản lượng vận hành mới bị cho là 'được thổi phồng'."
 
-Có một hiện tượng gây nghi ngờ: Đài Loan đã dùng 1 nghìn tỷ đồng xây đường sắt đô thị nhưng số lượng xe máy vẫn đang tăng.
+## Sự kháng cự của đất nước xe máy: Tại sao tàu điện ngầm không thể thay đổi thói quen giao thông?
 
-Dù mạng lưới đường sắt đô thị Bắc Kinh rất dày đặc, tỉ lệ sử dụng giao thông công cộng chỉ tăng từ 39,5% vào năm 2009 lên 40,4% vào năm 2020 — gần như không thay đổi. Trước Bộ trưởng Giao thông, Hạ Đình Đơn, phân tích: "Ngay cả khu vực Bắc Kinh chỉ là một phần nhỏ của người dùng xe buýt chuyển sang đường sắt đô thị, tổng tỉ lệ sử dụng giao thông công cộng vẫn giữ ở mức 40%."
+Một hiện tượng gây bối rối: Đài Loan dành 1,000 tỷ đồng để xây tàu điện ngầm, nhưng số lượng xe cộ vẫn đang tăng.
 
-Tình huống tại Hải Phòng còn nghiêm trọng hơn. Sau khi đường sắt đô thị Hải Phòng khai trương, tỉ lệ sử dụng giao thông công cộng chỉ tăng từ 9,1% vào năm 2009 lên 9,3% vào năm 2016 — thấp hơn cả tỉ trọng trung bình toàn quốc 16%. Trong cùng thời kian, số lượng xe máy tại Hải Phòng tăng từ 790.000 xe lên 930.000 xe, tăng thêm 140.000 xe.
+Mạng lưới tàu điện ngầm Đài Bắc dày đặc như vậy, nhưng tỷ lệ sử dụng giao thông công cộng chỉ tăng từ 39.5% năm 2009 lên 40.4% năm 2020 — thực sự không thay đổi đáng kể. Cựu Bộ trưởng Bộ Giao thông Hà Dạo (He Chen-dan) phân tích: "Ngay cả khu vực lớn của Đài Bắc, chỉ là một phần người dân ban đầu dùng xe buýt chuyển sang dùng tàu điện ngầm, tỷ lệ sử dụng giao thông công cộng vẫn duy trì ở khoảng 40%."
 
-Tỉ lệ sử dụng giao thông công cộng tại Trung Kinh và Tối Trà còn thấp hơn trung bình quốc gia.
+Tình huống ở Đài Bắc cữ dữ hơn. Sau khi tàu điện ngầm hoạt động, tỷ lệ sử dụng giao thông công cộng chỉ tăng từ 9.1% năm 2009 lên 9.3% năm 2016 — thấp hơn cả mức trung bình toàn quốc 16%. Trong cùng thời gian, số lượng xe ở Đài Bắc tăng từ 790,000 lên 930,000, tăng 140,000 chiếc.
 
-Nguyên nhân là gì? Phụ trách Trung tâm giao thông thông minh Đại học Thành công, Chung Hui Yu, một lời nói giải đáp: **"Đây chính là thiếu vắng chính sách quản lý xe máy!"**
+Tỷ lệ sử dụng giao thông công cộng ở Đài Trung và Thái Dương luôn thấp hơn mức trung bình toàn quốc.
 
-Sau khi xây dựng đường sắt đô thị, các thành phố Đài Loan không đưa ra các biện pháp quản lý phù hợp. Phí đỗ xe máy quá rẻ, chỗ đỗ xe máy rải rác trên khắp đường phố, chi phí sở hữu xe máy thấp — đường sắt đô thị cung cấp lựa chọn mới, nhưng lựa chọn cũ vẫn quá dễ dàng.
+Nguyên nhân là gì? Phó trưởng khoa Giao thông Thông minh của Đại học Fút Xi (Feng Chia University) Chung Nhất Du (Zhong Huiyu) một câu nói đã giải thích: **“Đây chính là thiếu chính sách quản lý xe cộ!”**
 
-> **📊 So sánh tỉ lệ sở hữu xe máy**
+Sau khi các thành phố xây tàu điện ngầm, họ đều không đưa ra biện pháp quản lý xe cộ phù hợp. Phí đậu xe quá rẻ, chỗ đậu xe ven đường quá nhiều, chi phí sở hữu xe máy quá thấp — tàu điện ngầm cung cấp lựa chọn mới, nhưng lựa chọn cũ vẫn quá tiện lợi.
+
+> **📊 So sánh mật độ xe máy**
 >
-> - Hải Phòng: 741 xe mỗi người
-> - Trung Kinh: 688 xe mỗi người
-> - Tối Trà: 612 xe mỗi người
-> - Bắc Kinh: 337 xe mỗi người
+> - Đài Bắc: 741 xe/ngàn người
+> - Đài Trung: 688 xe/ngàn người
+> - Thái Dương: 612 xe/ngàn người
+> - Đài Bắc: 337 xe/ngàn người
 >
-> Nguồn: Trang web tra cứu thống kê giao thông (2024)
+> Nguồn: Trang web thống kê Bộ Giao thông (2024)
 
-**Chỉ xây đường sắt đô thị không thể thay đổi thói quen giao thông. Cần có "củ cải + cây cọ" : đường sắt đô thị là củ cải, quản lý xe máy là cây cọ. Đài Loan chỉ có củ cải, không có cây cọ.**
+**Chỉ xây tàu điện ngầm không thể thay đổi thói quen giao thông. Cần "củ và gậy": tàu điện ngầm là củ, quản lý xe cộ là gậy.** Đài Loan chỉ có củ, không có gậy.
 
-## Dù thua lỗ: Ai sẽ chịu trách nhiệm cho cái nợ 2,4 nghìn tỷ đồng?
+## Sự chết chóc của hàng thua lỗ: Ai sẽ trả hóa đơn 2,400 tỷ đồng?
 
-Vì sao các đường sắt đô thị khác phải lỗ, ai sẽ trả tiền cho cái nợ này?
+Vì dù Đài Bắc tàu điện ngầm cũng phải dựa vào doanh thu quảng cáo để lãi, nên tàu điện ngầm của các thành phố khác chắc chắn thua lỗ, vậy số tiền này ai trả?
 
-Câu trả lời là: Cả dân phải chịu.
+Câu trả lời là: toàn dân chung nợ.
 
-Nếu đường sắt đô thị lỗ hơn số vốn đầu tư, sẽ được các thành phố địa phương hỗ trợ ngân sách, tương đương là cả dân chịu trách nhiệm. Đặc biệt là đường sắt đô thị sân bay Tối Trà, nó giới chức ba tỉnh Bắc Kinh, Tối Trà và Hải Phòng, trong tương lai nếu cần hỗ trợ ngân sách, sẽ phải đồng ý từ ba thành hội đồng — quá khó khăn về phương cảnh chính trị.
+Nếu tàu điện ngầm lỗ vượt vốn điều lệ, sẽ do chính quyền địa phương bổ sung vốn, tương đương với việc toàn dân chịu trách nhiệm. Đặc biệt là tàu điện ngầm sân bay Thái Dương, nằm trên dải phân chia Đài Bắc, Tân Dương và Thái Dương, trong tương lai nếu cần tăng vốn, phải qua sự đồng thuận của ba hội đồng thị trường — đây là trò chơi chính trị phức tạp.
 
-Một nhân vật trong ngành cho biết: "Thành hội đồng Bắc Kinh và Tối Trà đa số đảng phân đối với đảng bảo trợ của Tối Trà, rất có thể sẽ không muốn hỗ trợ ngân sách để giúp Tối Trà lỗ. Khi đó, Tối Trà sẽ đối mặt với một khủng hoảng."
+Một nhân viên ngành tàu điện ngầm cho rằng: "Nếu đảng đa số của Hội đồng Thị trường Đài Bắc và Tân Dương khác với đảng cầm quyền Thái Dương, họ rất có thể sẽ từ chối tăng vốn để cứu giúp tàu điện ngầm Thái Dương. Lúc đó, tàu điện ngầm Thái Dương sẽ đối mặt với một cuộc khủng hoải."
 
-Giáo sư trưởng Trung tâm giao thông thông minh Đại học Thành công, Zheng Yong Xiang, lên tiếng: "Vấn đề cốt lõi là người không đủ. Khi thiết kế giao thông bắt đầu, cần đưa kế hoạch đô thị vào, đường sắt đô thị xung quanh cần có hoạt động kinh tế, người dân mới đủ, nếu không thì nợ này sẽ để lại cho các thế hệ sau."
+Trưởng khoa Giao thông Đường sắt của Đại học Thành công (Thành công) Trịnh Vĩnh Tường (Zheng Yongxiang) thẳng thắn nói: "Vấn đề nằm ở chỗ con người không đủ. Khi xây dựng giao thông, cần phải đưa kế hoạch đô thị vào cùng lúc, khu vực xung quanh tàu điện ngầm cần có hoạt động kinh tế, mới có thể thu hút đủ người, nếu không toàn bộ khoản nợ sẽ được giao cho thế hệ sau."
 
-**Đài Loan đang dùng thu nhập thuế trong vòng 30 năm tới, cắt bỏ một quan niệm thành phố không chắc chắn.**
+**Đài Loan đang dùng thuế thu nhập trong 30 năm tới để cá cược một tầm nhìn đô thị chưa chắc chắn.**
 
-## Đường sắt đô thị biểu tượng văn hóa: Đường sắt đô thị Bắc Kinh
+## Tấm lưới ánh sáng trên đảo đẹp: Tàu điện ngầm như biểu tượng văn hóa
 
-Nhưng đường sắt đô thị có giá trị không chỉ về vận tải. Nó cũng trở thành biểu tượng văn hóa của thành phố.
+Nhưng giá trị của tàu điện ngầm không chỉ dừng ở giao thông. Chúng cũng trở thành tọa độ văn hóa của đô thị.
 
-"Đền trời ánh sáng" tại ga美麗島 (Hải Phòng), do nhà văn người Ý Narcissus Quagliata tạo ra, là công trình nghệ thuật công cộng bằng kính lớn nhất thế giới. CNN xếp hạng nó trong danh sách "10 ga đường sắt đô thị đẹp nhất thế giới", thu hút hàng nghìn du khách đến tham quan.
+Tấm mái kính "Ánh sáng" tại ga Đài Bắc Đẹp (Formosa Boulevard) do nghệ sĩ Ý Narcissus Quagliata sáng tạo, là công trình nghệ thuật công cộng bằng kính lớn nhất thế giới. CNN từng bình chọn là "một trong những ga tàu điện ngầm đẹp nhất thế giới", thu hút hàng ngàn du khách đến tham quan mỗi năm.
 
-Ga Bắc Kinh là biểu tượng của du lịch vào cuối tuần, ga Trung Đông xung quanh tạo thành một không gian sách vụn và nghệ thuật độc đáo. Những ga này không chỉ là điểm dừng giao thông, mà còn là biểu tượng của xác suất thành phố.
+Ga Đào Bình của Đài Bắc trở thành biểu tượng của du lịch cuối tuần, khu vực xung quanh ga hình thành khu phố sách và không gian nghệ thuật độc đáo. Những ga tàu điện ngầm không chỉ là nút giao thông, mà còng là biểu tượng của bản sắc đô thị.
 
-Nhìn từ một góc khác, đường sắt đô thị Đài Loan cũng là một trường hợp thành công của "thí nghiệm văn hóa". Thứ tự yên tĩnh trong không gian xe, sự kiên trì cấm ăn uống, văn hóa đến điểm được xây dựng — những điều này đã trở thành "cửa sổ trưng bày" của sức mạnh mềm của Đài Loan trên trường quốc tế.
+Từ góc độ khác, hệ thống tàu điện ngầm Đài Loan cũng là một ví dụ thành công của "thí nghiệm văn hóa". Trong xe, trật tự yên tĩnh, cấm ăn uống nghiêm ngặt, văn hóa đúng giờ — tất cả đều trở thành cửa hàng trưng bày "sức mạnh mềm" của Đài Loan trên trường quốc tế.
 
-> **💡 Góc nhìn ở châu Á**  
-> Singapore trong giai đoạn trầm lắng của hệ thống đường sắt đô thị (2015–2017) đã gửi một đội quản lý cao đến Bắc Kinh học hỏi kinh nghiệm vận hành. Đường sắt đô thị Bắc Kinh từng là "học trò" trong những năm 1990, trở thành "giáo viên" của các thành phố khác vào những năm 2010. Sự chuyển đổi vai trò này đánh dấu sự trưởng thành trong lĩnh vực xây dựng công cộng của Đài Loan.
+> **💡 Góc nhìn quốc tế**
+> Trong thời kỳ khủng hoải của hệ thống tàu điện ngầm Singapore (2015-2017), Singapore từng sai cử đội quản lý cao cấp đến Đài Bắc học hỏi kinh nghiệm vận hành. Từ học sinh vào những năm 1990, Đài Bắc tàu điện ngầm trở thành "người dạy" của các thành phố khác vào những năm 2010. Sự chuyển đổi vai trò này đánh dấu sự chín chắn của Đài Loan trong lĩnh vực công trình công cộng.
 
-## Tương lai: Mở rộng mạng lưới và thách thức
+## Tương lai: Mạng lưới mở rộng và thách thức
 
-Cho đến năm 2026, hệ thống đường sắt đô thị của Đài Loan vẫn đang được mở rộng:
+Đến năm 2026, hệ thống tàu điện ngầm Đài Loan vẫn đang mở rộng:
 
-1. **Mục tiêu khai trương năm 2026**: Đường sắt đô thị Bắc Kinh
-2. **Đang thi công**: Đoạn vòng tròn đường sắt đô thị Bắc Kinh (phần nam-bắc), đường sắt đô thị Tối Trà, đường sắt đô thị Hải Phòng
-3. **Đang lên kế hoạch**: Đường sắt đô thị Trung Kinh, đường sắt đô thị ba sóng Tối Trà, đường sắt đô thị Hạ Long, đường sắt đô thị nhẹ Hải Phòng, đường sắt đô thị Hà Nội
+1. **Mục tiêu khánh thành năm 2026**: Tuyến xanh của sân bay Thái Dương
+2. **Đang thi công**: Phần nam và bắc của vòng đường tròn của Đài Bắc, tuyến Vạn Đại của Tân Dương, tuyến vàng của Đài Bắc
+3. **Đang lên kế hoạch**: Tuyến xanh của Đài Trung, tuyến Tam Diệu của Tân Dương, tàu điện ngầm của Cẩm Lệ, tàu điện nhẹ của Tân Dương, tàu điện ngầm của Đà Nẵng
 
-Một xu hướng thú vị là, các tuyến đường sắt đô thị mới ngày càng áp dụng hệ thống lái tự xe. Từ hệ thống VAL của đường sắt đô thị Woodbridge đến đoạn vòng tròn đường sắt đô thị Bắc Kinh vận hành tự động hoàn toàn, Đài Loan đang đi từ "nhập khẩu công nghệ nước ngoài" sang "khả năng tích hợp độc lập".
+Một xu hướng thú vị là: các tuyến mới ngày càng nhiều áp dụng hệ thống tự hành. Từ hệ thống VAL của Mộ Dục đến tàu điện tự động của vòng đường tròn, Đài Loan đang đi từ "nhập khẩu công nghệ" tới "khả năng tích hợp độc lập".
 
-Nhưng thách thức thực sự là: Khi Đài Loan vào thời đại già đi trẻ, hệ thống đường sắt đô thị cần cách phù hợp với nhu cầu người già. Cơ chế điều chỉnh giá vé có hợp lý không? Hay làm sao để bảo đảm đủ người dùng khi dân số giảm xuống?
+Nhưng thách thức thực sự là: khi Đài Loan bước vào xã hội cao tuổi, hệ thống tàu điện ngầm cần phản hồi thế nào? Các cơ sở vật chất tiếp cận có thể theo kịp nhu cầu không? Cơ chế điều chỉnh giá vé có hợp lý không? Và câu hỏi cốt lõi — trong bối cảnh dân số giảm, những tuyến này có thể duy trì sản lượng bao lâu?
 
-> **📝 Ghi chú của người dẫn chương**  
-> Trước 30 năm, Đài Loan không có một kilômét đường sắt đô thị nào. Ngày nay, đường sắt đô thị đã trở thành tấm thẻ xuất sắc nhất về văn hóa đô thị của Đài Loan. Mỗi không gian xe yên tĩnh đều, mỗi sân phường sạch sẽ thơ mộng, đều đang kể cho thấy Đài Loan đã học cách "quản lý đời sống công cộng".
+> **📝 Ghi chú biên tập**
+> 30 năm trước, Đài Loan chưa có niềm tin vào một km tàu điện ngầm. Hôm nay, tàu điện ngầm đã trở thành tấm thiệp gỏi mạnh mẽ nhất của nền văn hóa đô thị Đài Loan. Mỗi chiếc xe yên tĩnh, mỗi mái văn phòng sáng sớm, đều kể câu chuyện về cách một hòn đảo học cách "sống chung cộng đồng".
 >
-> Giá cả là 2,4 nghìn tỷ đồng và vài người chết. Giá trị của nó đáng bao nhiêu? Câu hỏi này không có câu trả lời chuẩn. Nhưng ít nhất, chúng ta thành thật thặng thực với giá cả.
+> Chi phí là 2,400 tỷ đồng và vài mạng sống. Chi phí có đáng đáng không? Câu hỏi này không có câu trả lời chuẩn. Nhưng ít nhất, chúng ta đã đối mặt thẳng với chi phí.
 
-Từ khoản học phí 1,64 tỷ đồng của Ma Tê Lá, đến vụ sập trụ sắt 209 tấn xông ngưng người chết, và đến ngày nay hệ thống đường sắt đô thị đáng tin cậy nhất trên thế giới — lược sử phát triển hệ thống đường sắt đô thị Đài Loan là một cuốn truyện về sự biến đổi thành phố được viết bằng máu và tiền.
+Từ khoản học phí 16,4 triệu đồng của Matra, cho tới 4 sinh mạng trong vụ cột thép Đài Trung, cho tới hôm nay khi chúng ta sở hữu một trong những hệ thống tàu điện ngầm đáng tin cậy nhất thế giới — lịch sử phát triển tàu điện ngầm Đài Loan là một bản luận tiến hoá đô thị bằng máu và tiền.
 
-Nó chứng minh một điều: Một xã hội có thể học hỏi từ những sai lầm, có thể xây dựng hệ thống tốt hơn từ những giá cả thảm hổn. Nhưng điều kiện là, chúng ta phải thành thật thặng thực với những giá cả đó, không để lãng quên.
+Nó chứng minh một điều: một xã hội có thể học hỏi từ sai lầm, có thể từ những khoản phí đắt hơn xây dựng các cơ chế tốt hơn. Nhưng điều kiện là chúng ta phải đối mặt thẳng với những khoản phí đó, thay vì quên chúng.
 
-## Đọc thêm
+## Tài liệu tham khảo
 
-- [Văn hóa xe máy của Đài Loan](/vi/lifestyle/taiwan-scooter-culture) — Đối thủ lớn nhất của đường sắt đô thị làm sao hình thành đời sống giao thông đô thị
+- [Văn hóa xe máy của Đài Loan](/vi/lifestyle/taiwan-scooter-culture) — Cách đối thủ lớn nhất của tàu điện ngầm đã định hình lối sống đô thị
 
-## Đọc thêm
+## Tài liệu tham khảo
 
-- [Báo cáo tài chính của Công ty đường sắt đô thị Bắc Kinh (2024)](https://www.metro.taipei/)
-- [Thống kê vận hành của Công ty đường sắt đô thị Hải Phòng](https://corp.krtc.com.tw/)
-- [Trang web tra cứu thống kê giao thông: Lưu lượng khách hàng hệ thống đường sắt đô thị hàng tháng](https://stat.motc.gov.tw/)
-- [Vụ sập trụ sắt đường sắt đô thị Trung Kinh - Wikipedia](https://zh.wikipedia.org/zh-tw/臺中捷運綠線鋼梁墜落事故)
-- [Chỉ bị trễ 5 phút sau 13,920.000 km - Báo chí kinh tế](https://www.thenewslens.com/article/193682)
-- [Đường sắt đô thị lỗ 2,4 nghìn tỷ đồng - Báo mới](https://new7.storm.mg/article/4499383)
-- [Vụ kiện 1,64 tỷ đồng của Ma Tê Lá - Báo chí Hồng Kông](https://www.epochtimes.com/b5/5/7/23/n995027.htm)
-- [Câu chuyện đường sắt đô thị Bắc Kinh "lắp ghép"](https://twstreetcorner.org/)
-- [Quốc hội: Đề xuất chuyển giao thiết bị điện và cơ khí đường sắt đô thị Hải Phòng](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=10077&pid=139625)
-- [Quy định cấm ăn uống trên đường sắt đô thị Bắc Kinh](https://www.metro.taipei/News_Content.aspx?n=566DA580861CEE77&sms=87415A8B9CE81B16&s=CBB430D2363C29FC)
+- [Báo cáo thường niên của Đài Bắc tàu điện ngầm (2024)](https://www.metro.taipei/)
+- [Thống kê vận hành của Đài Bắc tàu điện ngầm](https://corp.krtc.com.tw/)
+- [Trang thống kê Bộ Giao thông: Lượng hành khách hàng tháng của hệ thống tàu điện ngầm](https://stat.motc.gov.tw/)
+- [Tai nạn cột thép Đài Trung tàu điện ngầm - Wikipedia](https://zh.wikipedia.org/zh-tw/臺中捷運綠線鋼梁墜落事故)
+- [Chỉ sau 13,920,000 km mới gặp một lần chậm hơn 5 phút - Trang bình luận then chốt](https://www.thenewslens.com/article/193682)
+- [Khoản nợ tàu điện ngầm 1》Toàn bộ hệ thống tàu điện ngầm đang cháy 2,000 tỷ đồng vì sao lại xây ra những dự án thua lỗ? - Tân Tân Tin](https://new7.storm.mg/article/4499383)
+- [Tuyến Mộ Dục tàu điện ngầm: Matra thắng kiện, Đài Bắc phải bồi thường 16,4 triệu đồng - Đại Diện Lớn](https://www.epochtimes.com/b5/5/7/23/n995027.htm)
+- [Đài Bắc tàu điện ngầm làm sao trở thành 'tàu điện ngầm lắp ráp'? - Xã hội Ngõ Hẻm](https://twstreetcorner.org/)
+- [Hội đồng lập pháp: Dự án sửa đổi hợp đồng tàu điện ngầm Đài Bắc, chuyển giao tài sản trước thời hạn](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=10077&pid=139625)
+- [Công ty Tàu điện ngầm Đài Bắc lớn - Quy định cấm ăn uống trong nội bộ hệ thống tàu điện ngầm](https://www.metro.taipei/News_Content.aspx?n=566DA580861CEE77&sms=87415A8B9CE81B16&s=CBB430D2363C29FC)

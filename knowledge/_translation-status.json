@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T18:43:53+08:00",
-    "zhCommitHead": "d3cab1a0e",
+    "lastUpdated": "2026-09-08T18:57:29+08:00",
+    "zhCommitHead": "422072840",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 775,
+        "fresh": 776,
         "stale": 91,
         "metadata_stale": 25,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 82,
         "metadata_stale": 26,
-        "missing": 227,
+        "missing": 226,
         "orphan": 0
       },
       "es": {
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 774,
+        "fresh": 775,
         "stale": 89,
         "metadata_stale": 29,
-        "missing": 229,
+        "missing": 228,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 636,
+        "fresh": 637,
         "stale": 92,
         "metadata_stale": 82,
-        "missing": 311,
+        "missing": 310,
         "orphan": 0
       },
       "id": {
@@ -3975,8 +3975,8 @@
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42207284",
+          "translationLastModified": "2026-09-08T18:43:53+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -31521,7 +31521,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/national-taichung-theater.md",
@@ -41824,8 +41835,8 @@
           "sourceContentHash": "sha256:aa6de6422908baca",
           "sourceBodyHash": "sha256:a98b8189be962f59",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42207284",
+          "translationLastModified": "2026-09-08T18:43:53+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -91843,7 +91854,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -121838,7 +121860,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/wu-feng-legend.md",
+          "translatedFrom": "History/吳鳳傳說.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d742f8951718669a",
+          "sourceBodyHash": "sha256:c8f9abbde98738f2",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/wu-feng-legend.md",
@@ -121887,8 +121920,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42207284",
+          "translationLastModified": "2026-09-08T18:43:53+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -129057,7 +129090,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -142176,8 +142220,8 @@
           "sourceContentHash": "sha256:810c670a0d955eec",
           "sourceBodyHash": "sha256:772e1869525f702d",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42207284",
+          "translationLastModified": "2026-09-08T18:43:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -147100,8 +147144,8 @@
           "sourceContentHash": "sha256:76f9feb9b62dd8a1",
           "sourceBodyHash": "sha256:b0016f60e7fc31e0",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42207284",
+          "translationLastModified": "2026-09-08T18:43:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
