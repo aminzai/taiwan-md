@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T06:03:01+08:00",
-    "zhCommitHead": "18aef3de7",
+    "lastUpdated": "2026-09-09T06:26:39+08:00",
+    "zhCommitHead": "97675220c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 556,
+        "fresh": 557,
         "stale": 49,
         "metadata_stale": 12,
-        "missing": 504,
+        "missing": 503,
         "orphan": 0
       },
       "pt": {
@@ -127696,8 +127696,8 @@
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
           "translatedAt": "2026-09-08T15:54:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "169f9efc",
+          "translationLastModified": "2026-09-09T06:03:01+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -133231,7 +133231,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/hsinchu-city.md",
+          "translatedFrom": "Geography/新竹市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/hsinchu-city.md",
@@ -147424,8 +147435,8 @@
           "sourceContentHash": "sha256:76f9feb9b62dd8a1",
           "sourceBodyHash": "sha256:b0016f60e7fc31e0",
           "translatedAt": "2026-09-08T15:54:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "169f9efc",
+          "translationLastModified": "2026-09-09T06:03:01+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
