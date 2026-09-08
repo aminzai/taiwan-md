@@ -1,13 +1,13 @@
 ---
 title: 'Biodiversidade'
-description: 'Taiwan ocupa apenas 0,025% da área terrestre global, mas abriga mais de 50 mil espécies, com taxa de cobertura florestal de 60,71%, a 33.ª do mundo'
+description: 'Embora Taiwan represente apenas 0,025% da superfície terrestre global, abriga mais de 50.000 espécies de biologia, com taxa de cobertura florestal de 60,71%, ocupando a 33ª posição no ranking global'
 date: 2026-03-21
 category: 'Nature'
 tags:
   [
-    'Biodiversidade',
+    'biodiversidade',
     'espécies endêmicas',
-    'conservação da biodiversidade',
+    'conservação da vida selvagem',
     'ecossistemas',
     'proteção ambiental',
   ]
@@ -20,119 +20,131 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:7c8e2ae7ead043fa'
-sourceBodyHash: 'sha256:337a7730efae1092'
-translatedAt: '2026-08-04T14:12:36+08:00'
+sourceCommitSha: 'd8646a2a9'
+sourceContentHash: 'sha256:768855c64ea407af'
+sourceBodyHash: 'sha256:2f867df28cee4278'
+translatedAt: '2026-09-08T00:42:54+08:00'
 ---
 
 # Biodiversidade
 
-> **Visão geral em 30 segundos:** Taiwan ocupa apenas 0,025% da área terrestre global, mas abriga mais de 50 mil espécies de animais e plantas já registradas, com taxa de cobertura florestal de 60,71%, a 33.ª do mundo — o dobro da média global de 30,3%. Do nível do mar aos 3952 metros do pico principal do Yushan, forma-se um gradiente ecológico completo, que gerou proporções surpreendentes de endemismo: 71% nos mamíferos, 60% em certos grupos de insetos.
+> **Resumo em 30 segundos:** Taiwan ocupa apenas 0,025% da superfície terrestre global, mas abriga mais de 50.000 espécies de animais e plantas registradas, com uma taxa de cobertura florestal de 60,71%, ocupando a 33ª posição no ranking global — o dobro da média global de 30,3%. Desde o nível do mar até o pico de 3.952 metros do Monte Yu, forma-se um gradiente ecológico completo, sustentando 71% de mamíferos e impressionantes proporções de até 60% de certos grupos de insetos endêmicos.
 
-Esta pequena ilha situada no Trópico de Câncer consegue figurar entre os _hotspots_ globais de biodiversidade. A resposta está na sua posição geográfica única e no relevo complexo.
+Esta pequena ilha localizada no equador, por que merece um lugar entre os pontos globais de biodiversidade? A resposta está na posição geográfica única e no relevo complexo de Taiwan.
 
-## Pequena ilha, grande vida: o milagre por trás dos números
+## Ilha pequena, vida abundante: o milagre por trás dos números
 
-O **Catálogo de Espécies de Taiwan de 2009, publicado pela Academia Sinica**, registra mais de 50 mil espécies, correspondendo a cerca de 2,5% do total global. A proporção pode não parecer alta, mas, considerando que a área terrestre de Taiwan é de apenas 36 mil km², a densidade biológica é espantosa.
+A **lista de espécies de Taiwan publicada pelo Instituto Acadêmico em 2009** mostra que Taiwan registrou mais de 50.000 espécies, representando cerca de 2,5% do total global de espécies. Esta proporção pode não parecer alta, mas considerando que a área terrestre de Taiwan é de apenas 36.000 km², a densidade biológica é impressionante.
 
-Ainda mais impressionante é a proporção de espécies endêmicas:
+Mais impressionante ainda é a proporção de espécies endêmicas:
 
-- **Mamíferos**: 71% (ex.: urso-negro-de-Taiwan, macaco-de-Taiwan)
-- **Anfíbios**: 31% (ex.: salamandra-das-montanhas-de-Taiwan)
+- **Mamíferos**: 71% (como o urso negro de Taiwan e o macaco de Tsai)
+- **Anfíbios**: 31% (como o peixe-palhaço de Taiwan)
 - **Plantas**: 25%
 - **Certos grupos de insetos**: até 60%
 
-Esses números refletem a singularidade da geografia insular de Taiwan — o isolamento em relação ao continente favoreceu a evolução de endemismos, enquanto o relevo complexo e as variações climáticas criaram uma riqueza de nichos ecológicos.
+Estes números refletem a singularidade geográfica da ilha de Taiwan — a posição isolada em relação ao continente promoveu a evolução de espécies endêmicas, enquanto o relevo complexo e as variações climáticas criaram habitats ecológicos ricos.
 
-## O espetáculo ecológico vertical: do tropical ao polar
+## Espectáculo vertical: do tropical ao subártico
 
-A característica ecológica mais distintiva de Taiwan é o **gradiente ecológico de distribuição vertical**. Em menos de 4000 metros de variação altimétrica, apresentam-se na íntegra todas as zonas climáticas, do tropical ao polar:
+A característica ecológica mais única de Taiwan é o **gradiente ecológico distribuído verticalmente**. Em menos de 4.000 metros de variação de altitude, aparecem todos os tipos de clima, do tropical ao subártico:
 
-**Nível do mar a 500 m**: floresta sazonal tropical, representada por figueiras e _Terminalia catappa_
-**500–1500 m**: floresta latifoliada subtropical, com cânforas e nânus exuberantes
-**1500–2500 m**: floresta mista de coníferas e latifoliadas temperada, com gigantes de _Chamaecyparis obtusa_ var. _formosana_
-**2500–3500 m**: floresta de coníferas subalpina, com abetos-de-Taiwan e tsugas adaptados ao frio rigoroso
-**Acima de 3500 m**: zona de vegetação alpina, pontuada por azaleias-do-yushan e _Leontopodium japonicum_ var. _tarokoense_
+**Nível do mar a 500 metros**: Floresta tropical de monção, com figueiras e árvores de folhas caducas
+**500-1.500 metros**: Floresta temperada de folhas caducas, com árvores de lótus e cedres
+**1.500-2.500 metros**: Floresta mista de folhas caducas e needle, com cedros gigantes de Taiwan
+**2.500-3.500 metros**: Floresta de montanha temperada, com abetos de Taiwan e pinheiros adaptados ao frio rigoroso
+**Acima de 3.500 metros**: Vegetação de montanha, com lírios de Monte Yu e ervas de neve
 
-Essa distribuição vertical é extremamente rara no mundo, permitindo que Taiwan concentre, em 36 mil km², ecossistemas representativos da maior parte das zonas climáticas do planeta.
+Esta distribuição vertical é extremamente rara no mundo, permitindo que Taiwan, em apenas 36.000 km², concentre ecossistemas de praticamente todos os tipos climáticos do planeta.
 
-## Reino florestal: 33.º lugar mundial em cobertura verde
+## Reino da floresta: a cobertura verde de Taiwan na posição 33 global
 
-**A taxa de cobertura florestal de Taiwan é de 60,71%**, a 33.ª do mundo, o dobro da média global de 30,3%. Esse número é ainda mais valioso numa região altamente desenvolvida.
+A **taxa de cobertura florestal de Taiwan é de 60,71%**, ocupando a 33ª posição no ranking global — o dobro da média global de 30,3%. Este número é ainda mais valioso em uma região altamente desenvolvida.
 
-Há enorme disparidade entre condados e cidades:
+A cobertura florestal varia significativamente entre os municípios:
 
-- **Condado de Taitung**: 81,64% (o mais alto)
-- **Condado de Hualien**: 80,54%
-- **Condado de Yilan**: 78,55%
-- Em contrapartida, os condados e cidades da planície ocidental costumam ficar abaixo de 20%
+- **Taitung**: 81,64% (mais alta)
+- **Hualien**: 80,54%
+- **Yilan**: 78,55%
+- Relativamente, os municípios da planície ocidental têm cobertura florestal geralmente abaixo de 20%
 
-Essas florestas não são apenas paisagem; são o núcleo da biodiversidade de Taiwan. Cerca de 86% das florestas estão sob proteção legal, das quais 73% são florestas naturais e 27% plantações.
+Estas florestas não são apenas paisagens bonitas, mas o núcleo da biodiversidade de Taiwan. Aproximadamente 86% das florestas estão protegidas por lei, sendo 73% florestas naturais e 27% florestas plantadas.
 
-## O último reduto das espécies ameaçadas
+## Último reduto das espécies ameaçadas
 
-### Gato-leopardo: espécie indicadora do ecossistema de colinas
+### Gato-tigre: espécie indicadora do ecossistema de montanha baixa
 
-O gato-leopardo, único felino nativo ainda existente em Taiwan, tem população estimada em apenas cerca de 500 indivíduos, distribuídos principalmente nas colinas de Miaoli, Taichung e Nantou.
+O único felino nativo de Taiwan, o gato-tigre, tem estimativas de apenas cerca de 500 indivíduos restantes, principalmente distribuídos nas áreas de montanha baixa de Miao-Li, Taichung e Nantou.
 
-**O atropelamento é a ameaça mais direta ao gato-leopardo**. Segundo estatísticas da Equipe Ahu, só em 2021 houve 25 atropelamentos fatais — 15 em Miaoli, 6 em Nantou, 2 em Taichung e 2 em Changhua. Os locais concentram-se nas margens dos rios Houlong, Zhuoshui e Maoluo, evidenciando a gravidade da fragmentação de habitat.
+**Atropelamentos são a maior ameaça direta ao gato-tigre**. Segundo os dados da equipe "Ah Hu", em 2021, 25 gatos-tigre foram atropelados, com 15 casos em Miao-Li, 6 em Nantou e 2 em Taichung e Changhua. Os locais de acidentes estão principalmente ao longo dos rios Hou-Long, Zhu-Shui e Mao-Lo, evidenciando a gravidade da fragmentação do habitat. Além dos atropelamentos, ataques por cães vagabundos e doenças transmitidas entre cães e gatos são novas ameaças recentemente identificadas, com discussões completas em [Conservação do Gato-tigre de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation).
 
-### Pantera-nebulosa-de-Taiwan: o rei desaparecido
+### Onça-pintada de Taiwan: o desaparecimento do rei
 
-Em 2014, estudiosos declararam oficialmente extinta a pantera-nebulosa-de-Taiwan, cujo último registro confirmado data de 1983. O desaparecimento desta subespécie endêmica tornou-se um marco decisivo no despertar da conservação em Taiwan, impulsionando a sociedade a valorizar a proteção das espécies ameaçadas ainda existentes.
+Em 2014, pesquisadores oficialmente anunciaram a extinção da onça-pintada de Taiwan, com o último registro confirmado de avistamento em 1983. A desaparição desta subespécie endêmica tornou-se um ponto de virada importante para a consciência da conservação da vida selvagem em Taiwan, fazendo com que a sociedade valorizasse mais as espécies ameaçadas existentes.
 
-### Urso-negro-de-Taiwan: o rei das matas
+### Urso preto de Taiwan: rei das montanhas
 
-Maior mamífero terrestre de Taiwan, com população estimada em 500–700 indivíduos. Embora protegido por lei, ainda enfrenta ameaças como fragmentação de habitat e conflitos homem-urso. Nos últimos anos, governo e sociedade civil têm promovido ativamente planos de conservação, incluindo cercas elétricas e sistemas de monitoramento.
+O maior mamífero terrestre de Taiwan, com estimativas atuais de 500 a 700 indivíduos. Embora protegido por lei, ainda enfrenta ameaças como fragmentação do habitat e conflitos entre humanos e ursos. Nos últimos anos, o governo e organizações civis têm promovido ativamente programas de conservação, incluindo instalação de cerca elétrica e sistemas de monitoramento.
 
-## A riqueza dos ecossistemas marinhos
+## Tesouro da vida marinha
 
-Taiwan é banhada pelo mar nos quatro lados; seus 1566 km de litoral abrigam ecossistemas marinhos riquíssimos. **A Corrente Kuroshio, a Corrente Costeira da China e outras correntes convergem aqui**, trazendo nutrientes e vida abundante.
+Taiwan é cercada por mar em toda a extensão de sua costa de 1.566 km, sustentando rica vida marinha. **Correntes como a Corrente Negra e a Corrente Costeira da China convergem aqui**, trazendo nutrientes e vida marinha abundantes.
 
-**Os recifes de coral são a joia dos ecossistemas marinhos de Taiwan**, distribuídos no Cabo Nordeste, Costa Norte, Ilha Verde, Ilha das Orquídeas, Kenting, entre outros. Taiwan registra cerca de 300 espécies de corais, um terço do total mundial. Mas mudanças climáticas, poluição marinha e turismo excessivo ameaçam gravemente esses recifes.
+**Recifes de corais são a joia da vida marinha de Taiwan**, distribuídos ao longo do nordeste, norte da costa, Ilha Verde, Ilha Lan, e o sul de Pingtung. Taiwan registra cerca de 300 espécies de corais, representando um terço de todas as espécies do mundo. No entanto, mudanças climáticas, poluição marinha e turismo excessivo representam ameaças graves aos recifes de corais.
 
-## História de sucesso na conservação: o milagre da colhereira-de-cara-preta
+## História de sucesso na conservação: o milagre da garça-pintada
 
-**A colhereira-de-cara-preta é um caso exemplar de conservação em Taiwan**. Em 1988, a população global era de apenas 288 indivíduos. Taiwan, Coreia, China continental, Hong Kong, Japão e outros uniram esforços, criando uma rede de cooperação transfronteiriça.
+**A garça-pintada é um modelo de sucesso na conservação de Taiwan**. Em 1988, restavam apenas 288 indivíduos no mundo. Taiwan, Coreia do Sul, China continental, Hong Kong e Japão colaboraram para estabelecer uma rede de cooperação internacional.
 
-Graças à recuperação de habitats, monitoramento internacional e educação ambiental, a população cresceu de forma sustentada, **atingindo 6162 indivíduos em 2024**; locais como Qigu, em Taiwan, tornaram-se importantes áreas de invernada. Esse sucesso comprova que a cooperação internacional e o investimento de longo prazo podem reverter o destino de espécies ameaçadas.
+Através de esforços como a criação de habitats, monitoramento internacional e educação ambiental, a população de garças-pintadas cresceu steady, atingindo **6.162 indivíduos em 2024**. Locais como o município de Qishan tornaram-se habitats importantes para o inverno. Este caso de sucesso prova que cooperação internacional e investimento de longo prazo podem reverter o destino de espécies ameaçadas.
 
-## Espécies invasoras: os assassinos invisíveis dos ecossistemas
+## Invasão de espécies exóticas: assassinos invisíveis dos ecossistemas
 
-Taiwan enfrenta sérios problemas com espécies invasoras:
+Taiwan enfrenta sérios problemas com espécies exóticas invasoras:
 
-**Tiranas do reino vegetal**: _Ageratina adenophora_ cobre montes e campos; _Leucaena leucocephala_ altera as propriedades do solo
-**Destruidoras dos ambientes aquáticos**: caramujo-dourado devasta ecossistemas de arrozais; lagostim-vermelho ameaça a fauna dulcequícola nativa
-**Invasoras do solo**: formiga-de-fogo constrói vastos impérios subterrâneos, com agressividade extrema
+**Tirano do reino vegetal**: a bananeira-dos-pássaros cobre montanhas, a acácia formosa altera a composição do solo
+**Destruidores aquáticos**: caracóis de arroz destruem ecossistemas de arroz, lagosta americana ameaça a vida marinha doce local
+**Invasores do solo**: formigas vermelhas estabelecem imensos reinos subterrâneos, com comportamento extremamente agressivo
 
-Carecendo de inimigos naturais, essas espécies costumam expandir-se rapidamente, ameaçando severamente o equilíbrio dos ecossistemas nativos.
+Estas espécies exóticas, sem predadores naturais, tendem a se expandir rapidamente, ameaçando gravemente o equilíbrio dos ecossistemas locais.
 
-## O desafio das mudanças climáticas
+## Desafios das mudanças climáticas
 
-**As mudanças climáticas impactam sobretudo os ecossistemas de alta montanha em Taiwan**. Com o aumento da temperatura, os habitats adequados às plantas alpinas recuam continuamente para altitudes maiores, mas acabam sem para onde ir.
+**As mudanças climáticas afetam mais gravemente os ecossistemas de montanha de Taiwan**. Com o aumento da temperatura, os habitats adequados às plantas de montanha continuamente se retraem para cima, mas eventualmente não há mais para onde se mover.
 
-Espécies endêmicas de alta montanha, como a azaleia-do-yushan e o abeto-de-Taiwan, enfrentam o dilema de "não ter para onde recuar". Cientistas estimam que, se o aquecimento global atingir 2 °C, os ecossistemas alpinos de Taiwan sofrerão transformações drásticas.
+Espécies endêmicas de montanha como lírios de Monte Yu e abetos de Taiwan enfrentam a "trágica realidade de não ter mais para onde ir". Cientistas estimam que, se a temperatura global subir 2°C, os ecossistemas de montanha de Taiwan sofrerão mudanças drásticas.
 
-A elevação do nível do mar também ameaça as zonas úmidas costeiras, estações cruciais nas rotas migratórias de aves. Como equilibrar desenvolvimento e conservação é um desafio de longo prazo para Taiwan.
+O aumento do nível do mar também ameaça os pântanos costeiros, que são pontos cruciais nas rotas de migração de aves. Como equilibrar desenvolvimento e conservação, Taiwan enfrenta desafios de longo prazo.
 
-## Perspetivas futuras: a tecnologia a serviço da conservação
+## Perspectivas futuras: tecnologia ao serviço da conservação
 
-Taiwan está empregando novas tecnologias para fortalecer a conservação da biodiversidade:
+Taiwan está aplicando novas tecnologias para fortalecer a conservação da biodiversidade:
 
-**Rede de Biodiversidade de Taiwan (TBN)**: integra dados de levantamentos biológicos de toda a ilha, oferecendo plataforma de consulta on-line
-**Tecnologia de código de barras de DNA**: acelera a identificação de espécies e a descoberta de novas
-**Monitoramento por sensoriamento remoto**: acompanha em tempo real as mudanças florestais e avalia a eficácia da conservação
-**Ciência cidadã**: por meio de plataformas como eBird Taiwan e iNaturalist, mobiliza a população para participar do monitoramento biológico
+**Rede de Biodiversidade de Taiwan (TBN)**: integra dados de investigação biológica em toda a ilha, oferecendo uma plataforma de consulta online
+**Tecnologia de código de DNA**: acelera a identificação de espécies, descobrindo novas espécies
+**Monitoramento por sensor remoto**: rastreia em tempo real as mudanças florestais, avaliando a eficácia da conservação
+**Ciência cidadã**: através de plataformas como eBird Taiwan e iNaturalist, mobiliza a população para participar do monitoramento biológico
 
 ---
 
-A biodiversidade de Taiwan é o ativo mais precioso desta ilha. No contexto da sexta grande extinção global, Taiwan, como _hotspot_ de biodiversidade, carrega a pesada responsabilidade de proteger o tesouro da vida na Terra.
+A biodiversidade de Taiwan é o tesouro mais valioso desta ilha. Diante da sexta grande extinção em massa, Taiwan, como um hotspot de biodiversidade, carrega a responsabilidade de proteger o tesouro da vida na Terra.
 
-Da conservação do gato-leopardo à recuperação da colhereira-de-cara-preta, da proteção florestal à manutenção dos ecossistemas marinhos, Taiwan está escrevendo uma história notável de grande conservação numa pequena ilha. Diante do duplo desafio das mudanças climáticas e da pressão do desenvolvimento, como fazer com que esta terra continue a gerar vida abundante será a missão comum de todos em Taiwan.
+Desde a conservação do gato-tigre até a recuperação da garça-pintada, desde a proteção florestal até a manutenção dos ecossistemas marinhos, Taiwan está escrevendo histórias notáveis de conservação em uma pequena ilha. Diante dos desafios duplos das mudanças climáticas e pressões do desenvolvimento, como fazer com que esta terra continue a sustentar vida abundante será a missão compartilhada de todos os taiwaneses.
 
 ## Referências
 
-- [The Epoch Times - Catálogo de Espécies de Taiwan publicado: mais de 50 mil espécies, 2,5% do total global](https://www.epochtimes.com/b5/9/7/16/n2592175.htm)
-- [Ji Lu Taiwan - Taxa de cobertura florestal de Taiwan 60,71%, 33.º lugar mundial](https://tbotaiwan.com/forest-coverage/)
-- [Centro de Informação Ambiental - Relatório de atropelamentos em grande escala no condado de Miaoli](https://e-info.org.tw/node/220323)
+- [Grande Época - Lista de espécies de Taiwan revelada, mais de 50.000 espécies representam 2,5% do total global](https://www.epochtimes.com/b5/9/7/16/n2592175.htm)
+- [Caminhando por Taiwan - A taxa de cobertura florestal de Taiwan de 60,71% ocupa a 33ª posição global](https://tbotaiwan.com/forest-coverage/)
+- [Centro de Informações Ambientais - Relatório de atropelamentos em escala em Miao-Li](https://e-info.org.tw/node/220323)
+
+## Leituras recomendadas
+
+Este artigo é um resumo geral, cada espécie e ecossistema tem seu próprio artigo detalhado no site:
+
+- [Conservação do Gato-tigre de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation) — Como uma população de 500 indivíduos enfrenta atropelamentos, ataques por cães e fragmentação do habitat
+- [Urso preto de Taiwan](/pt/nature/taiwanese-black-bear) — O maior mamífero terrestre da ilha e os conflitos entre humanos e ursos
+- [Garça-pintada](/pt/nature/black-faced-spoonbill) — De 288 para mais de 6.000 indivíduos, como a cooperação internacional salvou uma espécie
+- [Espécies endêmicas](/pt/nature/endemic-species) — Como espécies endêmicas com proporções tão altas surgiram nesta ilha
+- [Ecossistema florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — A estrutura real por trás da cobertura florestal de 60,71%
+- [Ecossistemas de montanha e glaciares de Taiwan](/pt/nature/taiwan-alpine-ecosystems-glacial-relicts) — Espécies sem para onde ir e evidências vivas do período glacial
+- [Ecossistemas marinhos e conservação de recifes de corais de Taiwan](/pt/nature/taiwan-marine-ecology-and-coral-conservation) — Situação atual dos recifes de corais que abrigam um terço das espécies do mundo
