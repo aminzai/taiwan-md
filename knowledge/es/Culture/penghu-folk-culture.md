@@ -1,144 +1,142 @@
 ---
-title: 'La cultura popular de Penghu'
-description: 'Cada quince de enero lunar, más de doscientos templos de Penghu lanzan poe al mismo tiempo y tortugas de arroz de cuarenta y siete mil jin se amontonan sobre los altares: este archipélago azotado por el monzón del noreste durante cuatrocientos años pide tortugas a cambio de quienes salen al mar, atrapa peces con mareas de piedra y canta bao-ge para sobrellevar la soledad de todo un invierno.'
+title: 'Cultura folclórica de Penghu'
+description: 'Cada año, en el décimo quinto día del primer mes lunar, más de doscientas ermitas en Penghu lanzan suerte y apilan cuarenta y siete mil kilos de arroz en montones sobre las mesas de ofrenda. Esta isla, azotada por el viento del noreste durante cuatrocientos años, intercambia tortugas por salidas al mar, atrapa peces con piedras de guijarros durante la bajamar y canta canciones de amor durante todo el invierno para llenar el silencio.'
 date: 2026-03-24
+category: 'Culture'
 tags:
   [
-    Penghu,
-    Festival de los Faroles,
-    Qigui,
-    cultura insular,
-    templos,
-    folclore,
-    almadrabas de piedra,
-    Mazu,
+    'Penghu',
+    'Festivo de los Linchazos',
+    'Tortuga de la suerte',
+    'Cultura de islas',
+    'Ermitas',
+    'Folclore',
+    'Piedras de guijarro',
+    'Mazu',
   ]
 subcategory: '離島文化'
-category: 'Culture'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
 lastVerified: 2026-04-07
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou_Temple_02.jpg/1280px-Penghu_Tianhou_Temple_02.jpg'
-imageAlt: 'Salón principal del Templo Tianhou de Penghu, el templo de Mazu más antiguo que se conserva en Taiwán'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+readingTime: 12
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Culture/澎湖民俗文化.md'
-sourceCommitSha: 'e004fac3'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:e71b837d32f8708d'
 sourceBodyHash: 'sha256:9b0e9ffb81c95f4e'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-09-08T15:54:39+08:00'
 ---
 
-# La cultura popular de Penghu
+# Cultura folclórica de Penghu
 
-> **Panorama en 30 segundos:** En la noche del Festival de los Faroles de 2025, frente al templo Guanyin de Longmen en Huxi, Penghu, una tortuga de arroz de cuarenta y siete mil jin ocupó la mitad del atrio del templo. El empresario Lü Ruijin lanzó ocho poe sagrados y se llevó la tortuga gigante por quinto año consecutivo; el año siguiente deberá devolver cuarenta y ocho mil quinientos jin. La misma noche en que la isla principal de Taiwán lanza faroles celestes y celebra el bombardeo de Han Dan, más de doscientos templos de Penghu abren simultáneamente sus mesas para lanzar poe, y lo que se pide no es suerte, sino «gui» —tortuga en taiwanés, pronunciado _ku_, homófono de «regreso»—. Que quienes salgan al mar vuelvan sanos y salvos: es el deseo más antiguo de esta isla del viento.
+> **Resumen en 30 segundos:** En la noche del décimo quinto día del primer mes lunar de 2025, frente al templo de Guanyin en Longmen, Penghu, una montaña de arroz de cuarenta y siete mil kilos dominó la mitad del patio del templo. El empresario Lu Ruijin lanzó ocho suertes sagrados y, por quinta vez consecutiva, se llevó esta enorme tortuga de arroz. El próximo año deberá devolver cuarenta y ocho mil quinientos kilos. En la misma noche en que en Taiwán continental se sueltan farolillos y se fríen churros, más de doscientas ermitas en Penghu abren sus mesas y lanzan suerte simultáneamente, pidiendo no suerte, sino "tortugas" — pronunciado _ku_ en taiwán español, con el mismo sonido que _regreso_. Para quienes salen al mar, regresar con seguridad es el deseo más antiguo de esta isla de vientos.
 
-El quince de febrero de 2025, decimosexto día del primer mes lunar, el altar del templo Shangdi de Shanshui en Magong exhibía una tortuga dorada de diamante de cuatrocientas treinta liang. Los miembros de la «Flota de Turismo Mercedes-Benz Manfu» se arrodillaron ante la mesa de los dioses, lanzaron ocho poe sagrados consecutivos y se llevaron esta tortuga dorada valorada en más de dos millones de dólares taiwaneses[^1]. En el cercano templo Beiji de Suogang, Zeng Hanjinkui obtuvo con seis poe sagrados una tortuga dorada espiritual de doscientas sesenta liang. La artista Jiang Yongqi obtuvo por cuarto año consecutivo una tortuga dorada de «riqueza floreciente» de ciento veinte liang en el templo Shangdi de Shanshui, y esa misma noche se llevó una tortuga de dinero en efectivo de diez mil doscientos yuanes del templo Lingguang de Magong[^1].
+El quince de febrero de 2025, el décimo sexto día del primer mes lunar, en la mesa de ofrenda del templo de Shui-shen en el monte de Magong, se colocó una tortuga de oro de cuatrocientos tres cien (430 _tael_). Los miembros de la "caravana de turismo de empleados de Fortune" se arrodillaron ante el altar y lanzaron ocho suertes sagrados, llevándose esta tortuga de oro valorada en más de dos millones de nuevos taiwaneses[^1]. En el pabellón del Polo Norte vecino, Chen Hanqin obtuvo una tortuga de oro de doscientos sesenta _tael_ con seis suertes sagrados. El artista Jiang Yongqi, por cuarto año consecutivo, obtuvo una tortuga de oro de cien veinte _tael_ en el templo de Shui-shen, y esa misma noche se la llevó en el templo de Lingguang en Magong: una tortuga de oro de diez mil _tael_ en efectivo[^1].
 
-Esto no es juego de azar. Es un contrato: el ser humano pide prestada una tortuga al dios, se lleva la protección de un año y al año siguiente devuelve el capital más los intereses. La tortuga de cuarenta y siete mil jin se convierte al año siguiente en cuarenta y ocho mil quinientos jin; la tortuga dorada de cuatrocientas treinta liang suma una liang más al año siguiente. Año tras año, las tortugas crecen, los atrios se llenan, y esta espiral lleva girando más de doscientos cincuenta años.
+Esto no es un juego de azar. Es un contrato: los humanos piden prestado una tortuga a los dioses, se llevan un año de protección y, al año siguiente, devuelven el principal más el interés. La tortuga de arroz de cuarenta y siete mil kilos se convertirá el próximo año en cuarenta y ocho mil quinientos kilos; la tortuga de oro de cuatrocientos tres _tael_ ganará un _tael_ más. Año tras año, las tortugas crecen, el patio del templo se llena más, y esta espiral ha girado durante más de doscientos cincuenta años.
 
-> **📝 Nota del curador**
-> El mecanismo de «devolución con incremento» del qigui hace que cada tortuga se expanda con el tiempo. Esto no es inflación: es el interés compuesto de la fe. En el libro de cuentas de los dioses, el ser humano siempre debe un poco.
+> **Nota del comisario**
+> El mecanismo de "aumentar la ofrenda al devolver", hace que cada tortuga crezca en el tiempo. Esto no es inflación, es interés compuesto de la fe: en la contabilidad de los dioses, los humanos siempre deben un poco más.
 
-## El primer registro de la era Qianlong
+## El primer registro en la era Qianlong
 
-En 1767, Hu Jianwei, decimoctavo magistrado de Penghu, documentó la escena del qigui en sus _Anales de Penghu_ (_Pengu Ji Lüe_)[^2]. En aquella época las tortugas se hacían con harina de pastel y agua azucarada: tortugas de manteca blancas y tiernas, de unas decenas de jin, alineadas en el atrio del templo mientras los fieles lanzaban poe para decidir quién se las llevaba.
+En 1767, el dieciocho juez de Penghu, Hu Jianwei, registró la escena del sorteo de tortugas en su obra _Crónica de Penghu_[^2]. En aquellos días, las tortugas eran hechas de masa de arroz y azúcar, delgadas y blandas, pesando unos pocos decenas de kilos, alineadas en el patio del templo, y los fieles lanzaban suertes para decidir quién se la llevaba.
 
-Doscientos cincuenta años después, las proporciones han cambiado por completo. En 2025, el templo Wenhengshengdi de Houbi en Chikan apiló treinta y ocho mil jin de tortugas de arroz en sacos[^3]. Penghu ha intentado crear una tortuga de arroz supergigante de trescientos sesenta mil jin, aspirando a batir el récord Guinness[^4]. Además de las tortugas de manteca, han surgido tortugas de oro, tortugas de langosta, tortugas de col, tortugas de cerveza: Wukan apiló coles en forma de tortuga, y el templo Maoling de Xingren hizo que los fieles compitieran lanzando poe por langostas vivas. Las formas se han multiplicado por decenas, pero la lógica central no ha cambia: pides algo prestado al dios y devuelves más al año siguiente.
+Doscientos cincuenta años después, las dimensiones ya eran completamente diferentes. En 2025, el templo de Shenghaidian en la parte trasera de Qianqian acumuló cuarenta y tres mil kilos de arroz en forma de tortuga[^3]. Penghu intentó superar los treinta y seis millones de kilos con una super tortuga de arroz, tratando de registrar un récord mundial Guinness[^4]. Además de las tortugas de masa, aparecieron tortugas de oro, de langosta, de col rizada y de cerveza: en Wukan se usó col rizada para formar una tortuga, y en el templo de Xingren, los fieles lanzaron suertes para ganar langostas vivas. Las formas se multiplicaron por decenas de veces, pero la lógica central no cambió: pides algo prestado a los dioses y al año siguiente devuelves más.
 
-En junio de 2025, el «qigui del Festival de los Faroles de Penghu» fue registrado oficialmente como patrimonio cultural inmaterial del condado de Penghu[^5]. No es una etiqueta de marketing de la oficina de turismo, sino el reconocimiento oficial de que este sistema de contrato entre humanos y dioses merece ser preservado.
+En junio de 2025, el "Sorteo de Tortugas de Penghu en el Festival de los Linchazos" fue oficialmente registrado como un patrimonio cultural inmaterial de la prefectura de Penghu[^5]. Esto no es una etiqueta de marketing turístico, sino un reconocimiento oficial de que este sistema de contratos entre humanos y dioses merece ser preservado.
 
-## El viento lo moldeó todo
+## El viento modeló todo
 
-Para comprender el folclore de Penghu, primero hay que comprender el viento.
+Para entender las costumbres de Penghu, primero hay que entender el viento.
 
-De octubre a marzo de cada año, el monzón del noreste atraviesa el estrecho de Taiwán y la velocidad del viento se intensifica. La velocidad media mensual del viento en Penghu alcanza los 8,4 metros por segundo en noviembre y diciembre[^6]. Los días en que la velocidad del viento supera los 10 metros por segundo en invierno representan el 56 por ciento[^6]. Esto no es una brisa: es un viento que puede desviar a una persona, matar los cultivos y elevar las olas hasta la altura de un edificio de tres pisos.
+De octubre hasta marzo del año siguiente, el viento del noreste atraviesa el estrecho de Taiwán, acelerándose. La velocidad promedio mensual del viento en Penghu alcanza los ocho punto cuatro metros por segundo en noviembre y diciembre[^6]. Durante el invierno, más del cincuenta y seis por ciento de los días tienen velocidades superiores a diez metros por segundo[^6]. Esto no es una brisa ligera: es un viento que puede desviar a las personas, matar cultivos y lanzar olas de agua hasta tres pisos de altura.
 
-El viento determina el calendario de los penghuanos. En invierno no se puede salir al mar ni trabajar la tierra; la mayor parte de la cosecha del año depende de unos pocos meses de verano. El viento también determina la forma de la fe: los templos de Penghu tienen la mayor densidad de todo Taiwán, porque cada salida al mar puede ser la última, y cada aldea necesita sus propios dioses.
+El viento determina la rutina de los habitantes de Penghu. En invierno no se puede salir al mar, no se puede trabajar la tierra, y la mayor parte del año la cosecha depende de unos pocos meses de verano. El viento también determina la forma de la fe: [los templos de Penghu](/es/culture/taiwan-religion-and-temple-culture/) tienen la densidad más alta de toda Taiwán, porque cada salida al mar podría no regresar, y cada aldea necesita su propio dios.
 
-Los shishixie (leones del viento) se agazapan a la entrada de las aldeas, mirando hacia el noreste. Los shigandan (piedras protectoras) se tallan en las esquinas de los callejones. Los templos se construyen con piedra lǎogǔ —caliza de coral, resistente al viento y a la sal—. No son decoración: son equipamiento de supervivencia. Los penghuanos no adoran al viento, pero toda su fe es un subproducto del viento.
+Los leones de viento se sientan en la entrada del pueblo, mirando hacia el noreste. Las piedras de piedra están talladas en las esquinas de los caminos. Los templos están construidos con piedra caliza de arrecifes de coral, resistente al viento y a la sal. Estas no son decoraciones, son equipos de supervivencia. Los habitantes de Penghu no adoran al viento, pero todas sus creencias son subproductos del viento.
 
-La palabra «tortuga» en taiwanés, _ku_, es homófona de «regreso». En una isla donde los hombres que salen al mar pueden no volver, «regreso» es la palabra más pesada. El qigui no pide riqueza —el proverbio de Penghu dice: «Toca la cabeza de la tortuga y levantarás un edificio; toca la cola y ahorrarás fortuna; toca el caparazón y tu negocio será sólido; toca las patas y oro y plata llenarán tu casa»— pero lo primero en la lista es «levantar un edificio», que significa «tener un hogar al que volver».
+La pronunciación taiwanesa de "tortuga", _ku_, suena igual que _regreso_. En una isla donde un hombre podría no regresar al salir al mar, "regreso" es la palabra más importante. Las tortugas de la suerte no piden riqueza: el refrán de Penghu dice "tocar la cabeza de la tortuga, construir un edificio alto; tocar la cola de la tortuga, ahorrar comida; tocar la cáscara de la tortuga, negocio estable; tocar las patas de la tortuga, tener muchas riquezas en casa". Pero lo primero en la lista es "construir un edificio alto", que significa "tener un lugar al que regresar".
 
-## Templos y estelas de cuatrocientos años
+## Cuatro siglos de templos y monumentos
 
-En 1604, el comandante de la Compañía Neerlandesa de las Indias Orientales, Wijbrant van Warwijck, desembarcó en Penghu con sus tropas. El comisionado de la isla de Wuyu, Shen Yourong, llegó a Magong (entonces llamadoiangong), se reunió con los neerlandeses en el templo Niangma —el actual Templo Tianhou de Penghu— y los convenció para que se retiraran. Tras el encuentro se erigió una estela: «Shen Yourong persuade a los bárbaros de pelo rojo Wijbrant van Warwijck y otros para que se retiren»[^7].
+En 1604, el comandante de la Compañía Holandesa de las Indias Orientales, We Ma-lang, desembarcó en Penghu. El gobernador de la isla, Shen Yourong, llegó a Mazu (hoy Magong) y se reunió con los holandeses en el templo de la Madre (hoy el templo de la Diosa de Penghu), convenciéndolos de retirarse. Después, levantó una inscripción: "Shen Yourong ordenó a We Ma-lang y otros holandeses que se retiraran"[^7].
 
-Esta estela permanece hoy incrustada en la pared derecha del Pabellón Qingfeng del Templo Tianhou, con una altura de 198 centímetros y un ancho de 28,7 centímetros[^7]. Es uno de los registros diplomáticos más antiguos que se conservan en Taiwán y confirma que el Templo Tianhou ya existía antes de 1604: el templo de Mazu más antiguo de Taiwán.
+Esa inscripción aún se encuentra incrustada en la pared derecha del pavellón de Fengshang en el templo de la Diosa, con una altura de ciento noventa y ocho centímetros y un ancho de veintiocho punto siete centímetros[^7]. Es uno de los registros más antiguos de relaciones exteriores en Taiwán, y confirma que el templo de la Diosa existía antes de 1604: el templo de Mazu más antiguo de Taiwán.
 
-En 1722, tras la conquista de Penghu por Shi Lang, este pidió al emperador Kangxi que elevase a Mazu al rango de Tianhou (Emperatriz Celestial), y «Niangmagong» pasó a llamarse oficialmente «Tianhougong»[^7]. En 1734, el magistrado de Penghu Zhou Yuren registró en sus _Anales de Penghu_ (_Pengu Zhilüe_) los «cuatro templos antiguos» de Magong: el templo de Guandi, el Tianhougong, el templo de Zhenwu y el templo de Shuixian[^2]. En 1922, durante la era Taishō, los comerciantes del gremio de Taiwán-Xiamen en Magong reunieron fondos para encargar al maestro carpintero cantonés de Chaozhou Lan Mu la reconstrucción del Tianhougong, transformando el estilo de templo de la región de Minnan al estilo cantonés —lo que explica por qué el Tianhougong actual se ve diferente de otros templos de Mazu en Taiwán[^7].
+En 1722, tras la toma de Penghu por Shi Lang, se pidió al emperador Kangxi que coronara a Mazu como Diosa Celestial, y el templo "Madre del Dios" cambió oficialmente su nombre a "Templo de la Diosa Celestial"[^7]. En 1734, el juez de Penghu, Zhou Yuren, registró los "cuatro grandes templos antiguos" de Magong en su obra _Crónica de Penghu_: el templo de Guandi, el templo de la Diosa Celestial, el templo de Zhenwu y el templo de Xianniang[^2]. En 1922, durante la era Taisho, los comerciantes de Magong financiaron colectivamente al maestro de madera de Chaozhou, Lan Mu, para restaurar el templo de la Diosa Celestial, convirtiendo la arquitectura de estilo minnan en estilo chaozhou — esto explica por qué el templo de la Diosa de hoy se parece menos a otros templos de Mazu en Taiwán[^7].
 
-> **💡 ¿Sabías que...?**
-> El topónimo «Magong» proviene de «Magong» (Templo de la Abuela). El templo de Mazu se llamaba «Niangmagong», abreviado como «Magong», y durante el periodo colonial japonés cambió su nombre a «Makō» (馬公). Una ciudad nombrada a partir de un templo no es raro en Taiwán (Xingang, Beigang), pero el caso de Penghu es probablemente el más antiguo históricamente.
+> **¿Sabías qué?**
+> El nombre "Magong" proviene directamente de "Mazuv". El templo de la Madre se llama "Templo de la Madre", abreviado como "Mazuv", y durante la época de la colonia japonesa se cambió el nombre a "Magong". Que una ciudad lleve el nombre de un templo no es raro en Taiwán (como Xingang, Beigang), pero el caso de Penghu podría ser el más antiguo de la historia.
 
-## Almadrabas de piedra: trampas cuando baja la marea
+## Piedras de guijarro: trampas en la bajamar
 
-El folclore de Penghu no solo está en los templos, sino también en el mar.
+Las costumbres de Penghu no solo existen dentro de los templos, también bajo el mar.
 
-En todo Penghu existen actualmente más de 574 almadrabas de piedra, y si se incluyen las documentadas oralmente pero ya desaparecidas, el total podría superar las 600[^8]. Solo en los alrededores de la isla de Jibe hay 109, lo que constituye la mayor densidad de métodos de pesca en zona intermareal del mundo[^8]. El principio de la almadraba de piedra es sencillo: se levantan muros de piedra en arco en la zona intermareal; cuando sube la marea, el agua trae peces al interior; cuando baja, los peces quedan atrapados. No necesita combustible, no necesita barco, no necesita arriesgarse en el mar.
+En toda Penghu se conservan más de quinientas setenta y cuatro piedras de guijarro, y si se incluyen las que se mencionan en relatos orales pero que ya no existen, el número podría superar las seiscientas[^8]. Alrededor de la isla de Jiubei hay ciento nueve, siendo el lugar con mayor densidad de técnicas de pesca intermareales del mundo[^8]. El principio de las piedras de guijarro es sencillo: en la zona de la bajamar se construyen muros de piedra en forma de arco; durante la subida del mar, el agua trae peces dentro, y durante la bajada, los peces quedan atrapados. No se necesita aceite, no se necesita barco, no se necesita arriesgarse al mar.
 
-La almadraba de doble corazón de Qimei es un lugar imprescindible para los turistas, pero originalmente no se llamaba así. Fue construida por los hermanos Yan Chong y Yan Yuji de la aldea Donghu; al estar situada al norte de «Dingxi», se llamaba «Dingxi Hu». Posteriormente, el heredero de segunda generación Yan Gong pidió a un maestro de Jibe que la rediseñara en forma de «una cámara con dos cavidades», dando lugar a la forma de doble corazón[^8]. En 2006, el gobierno del condado de Penghu registró la almadraba de doble corazón como paisaje cultural. En 2008, el grupo de almadrabas de Jibe también fue registrado como paisaje cultural a nivel de condado[^9]. Todo el grupo de almadrabas de Penghu es uno de los 18 sitios potenciales del Patrimonio Mundial de Taiwán seleccionados por el Ministerio de Cultura[^9].
+Las piedras de guijarro dobles del templo de Shuangxin en Qimei son un lugar obligado para las fotos de los turistas, pero originalmente no se llamaban así. Al principio, los hermanos Yan Chong y Yan Yuji de la aldea de Donghu las construyeron juntos, y como estaban en el "lado norte del desfiladero", se llamaban "Piedras de guijarro del desfiladero". Más tarde, el segundo generación, Yan Gong, pidió al maestro Jiubei que rediseñara las piedras en forma de "una habitación con dos cuevas", creando así la forma de dos corazones[^8]. En 2006, el gobierno de la prefectura de Penghu registró las piedras de guijarro dobles como un paisaje cultural. En 2008, las piedras de guijarro de Jiubei también fueron registradas como un paisaje cultural de la prefectura[^9]. Todo el grupo de piedras de guijarro de Penghu es uno de los dieciocho puntos con potencial de patrimonio mundial de Taiwán seleccionados por el Ministerio de Cultura[^9].
 
-> **📝 Nota del curador**
-> La almadraba de piedra es un método de pesca que no requiere salir al mar. En una isla donde salir al mar puede significar no volver, el significado de esta invención no es solo económico: es una solución al miedo.
+> **Nota del comisario**
+> Las piedras de guijarro son un método de pesca que no requiere salir al mar. En una isla donde salir al mar podría significar no regresar, esta invención tiene un significado más allá del económico: es una solución al miedo.
 
-## Bao-ge: literatura que se canta sin saber leer
+## Canciones de amor: literatura que se puede cantar sin saber leer
 
-En invierno, cuando no se puede salir al mar ni trabajar la tierra, los penghuanos cantan.
+Cuando en invierno no se puede salir al mar ni trabajar la tierra, los habitantes de Penghu cantan.
 
-El bao-ge (en taiwanés _po-kua_) es un canto improvisado en pareados de siete caracteres, con dos versos por pareado y dos pareados por pieza. No requiere instrumentos ni saber leer, pero exige buena memoria, reacción rápida y un dominio profundo del taiwanés[^10]. El contenido abarca desde canciones de amor entre hombre y mujer hasta quejas sobre las labores agrícolas y sátiras sobre la actualidad: se canta de todo. En el pueblo de Erkan, en la isla de Xiyu de Penghu, los pareados de bao-ge siguen grabados en las muros del poblado, convirtiéndose en fondo fotográfico para los turistas[^10].
+Las canciones de amor (en taiwán español _po-kua_) son versos de siete palabras, dos versos por pareja, dos parejas por canción, y se cantan como un duelo espontáneo. No se necesita instrumento musical, no se necesita saber leer, pero se necesita una buena memoria, reacciones rápidas y un buen dominio del taiwán español[^10]. El contenido va desde canciones de amor románticas hasta quejas sobre la agricultura y críticas satíricas a temas actuales. Hasta hoy, la aldea de Erqun en la costa oeste de Penghu ha grabado las cuatro líneas de las canciones de amor en las paredes del pueblo, convirtiéndolas en el fondo de las fotos de los turistas[^10].
 
-Pero el bao-ge está desapareciendo. Desde la década de 1970, solo los ancianos saben cantarlo. Los jóvenes no entienden el taiwanés arcaico de las y mucho menos pueden improvisar pareados. Es una cultura que YouTube no puede preservar: el núcleo del bao-ge es la «improvisación» y el «canto a dúo»; grabarlo lo mata, solo las personas vivas pueden transmitirlo[^10].
+Pero las canciones de amor se están extinguiendo. Desde la década de 1970, solo los ancianos saben cantarlas. Los jóvenes no entienden las palabras antiguas en taiwán español, y mucho menos pueden cantar un duelo espontáneo. Esta es una cultura que no se puede preservar en YouTube: el núcleo de las canciones de amor es "espontaneidad" y "duelo", y una vez grabadas, mueren. Solo las personas vivas pueden transmitirlas[^10].
 
-## Fuegos artificiales y catástrofe aérea
+## Fuegos artificiales y accidentes aéreos
 
-El 25 de mayo de 2002, el vuelo 611 de China Airlines, que volaba de Taoyuan a Hong Kong, se desintegró en el aire sobre las aguas de Penghu. Las 225 personas a bordo perecieron[^11]. Fue uno de los peores desastres aéreos de la historia de Taiwán y golpeó duramente la industria turística de Penghu.
+El veinticinco de mayo de 2002, el vuelo 611 de China Airlines despegó de Taoyuan con destino a Hong Kong y se desintegró en el mar cerca de Penghu, matando a las doscientas veinticinco personas a bordo[^11]. Este es uno de los accidentes aéreos más graves en la historia de la aviación taiwanesa, y también golpeó duramente la industria del turismo en Penghu.
 
-Al año siguiente, el gobierno del condado de Penghu organizó el evento «Mil maravillas en la isla de las crisantemos» para impulsar el turismo. Este festival nacido de la catástrofe se convirtió con el tiempo en el Festival Internacional de Fuegos Artificiales Marítimos de Penghu: en 2024 atrajo a 530.000 visitantes, generó más de 3.700 millones de dólares taiwaneses en ingresos turísticos y alcanzó un 97 por ciento de satisfacción entre los viajeros[^12]. En 2026, el festival se asoció con Dragon Ball Z, celebrándose de mayo a agosto.
+El año siguiente, el gobierno de la prefectura de Penghu organizó el evento "Mil y una emociones en la isla de los girasoles" para revitalizar el turismo. Este evento, que nació de la tragedia, se convirtió posteriormente en el Festival Internacional de Fuegos Artificiales Marinos de Penghu: en 2024 atrajo a medio millón de visitantes, generó más de tres mil y setecientos millones de nuevos taiwaneses en valor turístico, y alcanzó una satisfacción del noventa y siete por ciento entre los visitantes[^12]. En 2026, el festival asoció su nombre con _Dragon Ball Z_ y se extendió desde mayo hasta agosto.
 
-> **📝 Nota del curador**
-> Del desastre aéreo al festival de fuegos artificiales pasó apenas un año. Penghu convirtió su trauma más profundo en su escaparate más brillante. Pero el éxito del festival también trae contradicciones: los turistas saturan el verano, la población emigra en invierno, y la estructura de edad de Penghu sigue envejeciendo —la población mayor de 65 años representa cerca del 19 por ciento, con un índice de envejecimiento del 194 por ciento[^6]. Los fuegos artificiales iluminan el verano; el viento sopla en invierno.
+> **Nota del comisario**
+> Del accidente aéreo a los fuegos artificiales, solo pasó un año. Penghu transformó su herida más profunda en su carta de presentación más brillante. Pero el éxito de los fuegos artificiales también trajo contradicciones: en verano, los turistas llenan la isla, pero en invierno, la población emigra, y la estructura demográfica de Penghu envejece continuamente: la proporción de personas mayores de sesenta y cinco años se acerca al diecinueve por ciento, y el índice de envejecimiento alcanza el ciento noventa y cuatro por ciento[^6]. Los fuegos artificiales iluminan el verano, pero el viento sopla en el invierno.
 
-## Quince de enero lunar de 2026: doscientos templos lanzan poe al mismo tiempo
+## El quince de febrero de 2026: doscientas ermitas lanzan suerte al mismo tiempo
 
-En el Festival de los Faroles de 2026, el gobierno del condado de Penghu vinculó por primera vez 36 templos en una actividad de sellos: reunir siete sellos permitía participar en un sorteo[^3]. Pero 36 es solo el número de la vinculación oficial —los más de doscientos templos de todo el condado abren simultáneamente sus mesas esa misma noche, cada uno con sus tortugas, cada uno lanzando poe. No hay organizador central, no hay proceso estandarizado; la forma que toman las tortugas en cada templo la decide cada aldea y cada pueblo.
+Durante el Festival de los Linchazos de 2026, el gobierno de la prefectura de Penghu organizó por primera vez una actividad de sellos con treinta y seis ermitas participantes; al recolectar siete sellos se puede participar en un sorteo[^3]. Pero esas treinta y seis ermitas solo representan el número oficial: en toda la prefectura, más de doscientas ermitas abren sus mesas, colocan sus tortugas y lanzan suerte en la misma noche. No hay una institución organizadora única, no hay un proceso estandarizado, y la forma de cada tortuga depende de las decisiones de cada aldea y pueblo.
 
-Esta es precisamente la razón por la que el qigui de Penghu no ha muerto en doscientos cincuenta años: no es un «evento», son más de doscientos nodos de fe independientes respirando al mismo tiempo. Nadie puede cancelarlo, porque nadie lo posee.
+Esta es precisamente la razón por la que el sorteo de tortugas de Penghu ha perdurado durante doscientos cincuenta años sin morir: no es un "evento", es la respiración simultánea de más de doscientas fuentes de fe independientes. Nadie puede cancelarlo, porque nadie lo posea.
 
-La escena que Hu Jianwei registró en 1767 —fieles arrodillados frente al templo lanzando poe, esperando el asentimiento de los dioses— es casi idéntica a la escena de 2026. La única diferencia es que las tortugas han pasado de unas decenas de jin a cuarenta y siete mil jin, de harina de pastel a oro. Pero la postura de la persona al arrodillarse no ha cambiado, ni la pregunta que se hace a los dioses:
+La escena que Hu Jianwei registró en 1767 — fieles arrodillados frente al templo lanzando suerte, esperando la confirmación de los dioses — es casi idéntica a la escena de 2026. La diferencia es que las tortugas pasaron de unas pocas decenas de kilos a cuarenta y siete mil kilos, y de masa de arroz a oro puro. Pero la postura de los arrodillados no cambió, ni las preguntas que hacen a los dioses:
 
-El año que viene, haz que quienes salgan al mar regresen.
+El próximo año, que quienes salen al mar regresen con seguridad.
 
 ## Referencias
 
-[^1]: [Qigui del Festival de los Faroles de Penghu: los ganadores de la mayor tortuga de arroz y la tortuga dorada de 430 liang repiten victoria](https://www.cna.com.tw/news/aloc/202502150058.aspx) — Agencia Central de Noticias (CNA), reportaje del 15 de febrero de 2025, con registro detallado de los premios mayores del qigui en cada templo, número de poe sagrados y reglas de devolución.
+[^1]: [Sorteo de tortugas de Penghu en el Festival de los Linchazos: la mayor tortuga de arroz y la tortuga de oro de 430 _tael_ son ambas consecutivas](https://www.cna.com.tw/news/aloc/202502150058.aspx) — Noticia de _Zhongwen Times_, 15 de febrero de 2025, registra en detalle a los ganadores de los mayores premios en cada templo, el número de suertes sagrados y las reglas para devolver las ofrendas.
 
-[^2]: [_Anales de Penghu_ (_Pengu Ji Lüe_)](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B4%80%E7%95%A5) — Publicado en 1769, trigésimo cuarto año del reinado Qianlong, compilado por el magistrado de Penghu Hu Jianwei. Es una de las primeras crónicas locales de Penghu y documenta actividades folclóricas como el qigui.
+[^2]: [Crónica de Penghu](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B4%80%E7%95%A5) — Publicada en 1769, durante el año 34 del reinado de Qianlong, escrita por el juez de Penghu Hu Jianwei, es una de las primeras crónicas locales de Penghu, que registra actividades folclóricas como el sorteo de tortugas.
 
-[^3]: [¡El Festival de los Faroles más intenso de todo Taiwán está en Penghu! Reto de sellos en 36 templos para ganar regalos limitados](https://www.gvm.com.tw/article/126335) — Reportaje de la revista _Global Views Monthly_, presentando la escala del qigui de Penghu en 2026, la actividad de sellos vinculando 36 templos y el récord de tortugas de arroz de decenas de miles de jin.
+[^3]: [El Festival de los Linchazos más impactante de toda Taiwán está en Penghu: reto con 36 templos y sellos coleccionables](https://www.gvm.com.tw/article/126335) — Reportaje de _Far Eastern Magazine_, presenta la escala del sorteo de tortugas de Penghu en 2026, la actividad de sellos con 36 templos, y el récord de la tortuga de arroz de varios millones de kilos.
 
-[^4]: [Qigui del Festival de los Faroles — Área Escénica Nacional de Penghu](https://www.penghu-nsa.gov.tw/ChiHoOneLer/tour/Event/Lantern.htm) — Página oficial de la Oficina de Administración del Área Escénica Nacional de Penghu, con historia del qigui y el intento de la tortuga de arroz de 360.000 jin para batir el récord Guinness.
+[^4]: [Sorteo de tortugas en el Festival de los Linchazos — Área de Paisaje Nacional de Penghu](https://www.penghu-nsa.gov.tw/ChiHoOneLer/tour/Event/Lantern.htm) — Introducción oficial del área de paisaje nacional de Penghu, registra la historia del sorteo de tortugas y el intento de superar los treinta y seis millones de kilos de arroz en una tortuga para un récord Guinness.
 
-[^5]: [Qigui del Festival de los Faroles de Penghu — Portal Nacional de Patrimonio Cultural](https://nchdb.boch.gov.tw/assets/advanceSearch/folklore/20250716000001) — Portal Nacional de Patrimonio Cultural del Ministerio de Cultura, registro oficial de la inscripción del qigui del Festival de los Faroles de Penghu como patrimonio cultural inmaterial en 2025.
+[^5]: [Sorteo de tortugas de Penghu en el Festival de los Linchazos — Sitio web de Patrimonio Cultural Nacional](https://nchdb.boch.gov.tw/assets/advanceSearch/folklore/20250716000001) — Registro oficial del Ministerio de Cultura, documenta el reconocimiento del sorteo de tortugas de Penghu como patrimonio cultural inmaterial en 2025.
 
-[^6]: [Condado de Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B8%A3) — Datos geográficos, climáticos y demográficos del condado de Penghu, incluyendo velocidad del viento del monzón del noreste e índice de envejecimiento poblacional.
+[^6]: [Prefectura de Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B8%A3) — Recopila datos geográficos, climáticos y demográficos de la prefectura de Penghu, incluyendo la velocidad del viento del noreste y el índice de envejecimiento de la población.
 
-[^7]: [Templo Tianhou de Penghu — Recorrido virtual de monumento nacional](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=81) — Página de presentación del monumento nacional de la Oficina de Patrimonio Cultural del Ministerio de Cultura, con dimensiones de la estela de persuasión a los neerlandeses de Shen Yourong, historia arquitectónica del Tianhougong y detalles de la reconstrucción de 1922 por Lan Mu.
+[^7]: [Templo de la Diosa Celestial de Penghu — Guía de recorrido de sitios históricos nacionales](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=81) — Introducción del Instituto de Patrimonio Cultural, registra las dimensiones de la inscripción de Shen Yourong ordenando a los holandeses que se retiraran, la evolución arquitectónica del templo de la Diosa Celestial y los detalles de la restauración de 1922 por Lan Mu.
 
-[^8]: [Almadrabas de piedra de Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC) — Estadísticas de almadrabas (más de 574), distribución de 109 en la isla de Jibe, e información histórica sobre los constructores de la almadraba de doble corazón, los hermanos Yan Chong y Yan Yuji.
+[^8]: [Piedras de guijarro de Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC) — Recopila estadísticas sobre el número de piedras de guijarro (más de 574), la distribución de 109 en la isla de Jiubei, y la historia de los hermanos Yan Chong y Yan Yuji, constructores de las piedras de guijarro dobles.
 
-[^9]: [Grupo de almadrabas de piedra de Penghu — Sitios potenciales del Patrimonio Mundial de Taiwán](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Página oficial de la Oficina de Patrimonio Cultural, explicando las razones de la selección del grupo de almadrabas de Penghu como uno de los 18 sitios potenciales del Patrimonio Mundial de Taiwán y su estado de conservación.
+[^9]: [Grupo de piedras de guijarro de Penghu — Punto con potencial de patrimonio mundial de Taiwán](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Página oficial del Instituto de Patrimonio Cultural, explica las razones por las que el grupo de piedras de guijarro de Penghu fue seleccionado como uno de los dieciocho puntos con potencial de patrimonio mundial de Taiwán y su estado de conservación actual.
 
-[^10]: [Xiyu de Penghu: la cultura del canto improvisado de bao-ge en pareados](https://storystudio.tw/article/watch-Taiwan-NMTH/the-south-penghu-folk-songs) — Reportaje de StoryStudio en colaboración con el Museo Nacional de Historia de Taiwán, con presentación detallada del formato de siete caracteres del bao-ge, la tradición del canto improvisado a dúo y los bao-ge grabados en los muros de Erkan.
+[^10]: [Penghu en la costa oeste: la cultura de canciones de amor espontáneas](https://storystudio.tw/article/watch-Taiwan-NMTH/the-south-penghu-folk-songs) — Reportaje conjunto de _StoryStudio_ e Instituto Nacional de Historia de Taiwán, profundiza en el formato de siete palabras de las canciones de amor de Penghu, la tradición de duelos espontáneos y las canciones grabadas en las paredes del pueblo de Erqun.
 
-[^11]: [Desastre aéreo del vuelo 611 de China Airlines — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — Registro del desastre del 25 de mayo de 2002, con 225 víctimas mortales, uno de los accidentes aéreos más graves de la historia de Taiwán.
+[^11]: [Accidente aéreo del vuelo 611 de China Airlines — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — Registro del accidente del 25 de mayo de 2002, con 225 víctimas fatales, siendo uno de los accidentes aéreos más graves en la historia de la aviación taiwanesa.
 
-[^12]: [Clausura del Festival Internacional de Fuegos Artificiales Marítimos de Penghu 2024](https://www.penghu.gov.tw/tourism/home.jsp?id=61&act=view&dataserno=11307290017) — Comunicado oficial de la Oficina de Turismo del Gobierno del Condado de Penghu, con datos de 530.000 visitantes, 3.700 millones de ingresos y 97 % de satisfacción en 2024.
+[^12]: [Cierre del Festival Internacional de Fuegos Artificialos Marinos de Penghu 2024](https://www.penghu.gov.tw/tourism/home.jsp?id=61&act=view&dataserno=11307290017) — Noticia oficial del departamento de turismo del gobierno de la prefectura de Penghu, registra los datos del festival de 2024: medio millón de visitantes, tres mil y setecientos millones de nuevos taiwaneses en valor turístico y una satisfacción del noventa y siete por ciento.
 
-**Lecturas complementarias**:
+**Lecturas relacionadas**:
 
-- [Religión y cultura de templos en Taiwán](台湾宗教與寺庙文化) — Densidad de templos y función social de las creencias populares en Taiwán
-- [Ferias de templo y cultura de procesiones en Taiwán](台灣廟會與陣頭文化) — De las procesiones tradicionales a los San Taizi de música electrónica: cómo las ferias de templo se transforman en la sociedad moderna
-- [Festivales y celebraciones tradicionales](傳統節慶與慶典) — Panorama de festivales taiwaneses: Festival de los Faroles, Festival de los Fantasmas, peregrinaciones de Mazu y más
-- [Culto a Jiutian Xuannü](九天玄女信仰) — Deidades femeninas y dioses protectores locales en las creencias populares de Taiwán
+- [Cultura religiosa y de templos de Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Función social de la densidad de templos y creencias populares en Taiwán
+- [Festivales y procesiones de Taiwán](/es/culture/taiwan-temple-festivals-and-performance-troupes) — De las procesiones tradicionales a los _three kings_ de electrónica, cómo los festivales se transforman en la sociedad moderna
+- [Festividades y celebraciones tradicionales](/es/culture/traditional-festivals-and-celebrations) — Panorama completo de las celebraciones taiwanesas: Linchazos, Día de los Muertos, peregrinaciones de Mazu, etc.
+- [Fe de los dioses del cielo de nueve niveles](/es/culture/jiutian-xuannu-belief) — Diosas femeninas y deidades protectores locales en las creencias populares de Taiwán
