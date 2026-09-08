@@ -33,10 +33,10 @@ sporeLinks:
     "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
   ]
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'da22dc5b2'
-sourceContentHash: 'sha256:b4fa10553d998dfa'
-sourceBodyHash: 'sha256:6475e91be41d93b4'
-translatedAt: '2026-07-27T01:30:19+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:7704f0ba39f9bad2'
+sourceBodyHash: 'sha256:953746868edc36a0'
+translatedAt: '2026-09-08T06:27:58.769551+00:00'
 ---
 
 # Mini Taiwan Pulse : Avec le regard d'un curateur, faire de Taïwan une carte qui respire
@@ -191,11 +191,11 @@ Cette phrase est le point d'explosion de toute la conférence. Elle transforme l
 
 _La production d'inventaire thématique des incendies présentée par Migu dans la conférence sciwork 2026 : jeter une phrase « Analyser les données publiques liées aux incendies à Taïwan », le système étend la recherche et converge en un répertoire unifié sur plusieurs plateformes, il dit que ce pipeline « je n'ai pas écrit un seul mot ». Photo : Migu / sciwork 2026 (usage équitable à des fins de critique éditoriale)._
 
-## Quatre étapes démontables : les données entrent, le rapport est envoyé tout seul
+## Les quatre étapes décomposables : de l'entrée des données à l'envoi du rapport
 
-Ce pipeline d'incendie n'est qu'une tranche, le reflet du système complet. Le système se divise en quatre étapes : réception des données, intégration des connaissances, génération d'analyse, déclenchement d'action. Il a particulièrement souligné que « chaque étape peut être remplacée individuellement, l'ensemble n'a pas besoin d'être reconstruit ». La réception des données à la base a elle-même évolué : au début, téléchargement manuel d'Excel depuis data.gov.tw, lecture et stockage personnels, le goulot d'étranglement étant la « mémoire du cerveau humain » ; au milieu, recherche d'API en ligne, extraction de rapports PDF, crawl des plateformes des comtés et villes, le problème étant « pas d'index » ; jusqu'à présent, les métadonnées de chaque entrée sont standardisées et stockées dans un répertoire SQLite, pouvant être interrogées automatiquement et étendues automatiquement[^3]. Derrière son système se cachent plus de quarante collecteurs de données, de YouBike, bus, trafic autoroutier, aux horaires des trains Taïwan, AIS navires, satellites météorologiques, tremblements de terre, niveaux des réservoirs, qualité de l'air, et il a dit que s'il y a trois erreurs, une alerte Telegram est immédiatement envoyée, et un Daily Review est poussé dans sa boîte mail chaque matin à neuf heures[^3].
+Ce pipeline « feu » n'est qu'une tranche, il est le reflet d'un système complet. Le système se divise en quatre étapes : réception des données, intégration des connaissances, génération de l'analyse et déclenchement de l'action. Il insiste particulièrement sur le fait que « chaque étape peut être échangée individuellement, sans avoir besoin de refaire tout le processus ». La couche la plus basse, la réception des données, a elle-même évolué : au début, c'était manuel, en téléchargeant des fichiers Excel depuis data.gov.tw et en les lisant et les stockant soi-même, avec un goulot d'étranglement lié à la « mémoire humaine » ; l'étape intermédiaire consistait à chercher des API sur Internet, à récupérer des rapports PDF, à faire du web scraping sur les plateformes de chaque municipalité, le problème étant « l'absence d'indexation » ; jusqu'à aujourd'hui, les métadonnées de chaque donnée sont stockées de manière standardisée dans un répertoire SQLite, ce qui permet une recherche et une extension automatiques[^3]. Son système est alimenté par plus de quarante collecteurs de données, allant des flux YouBike, bus, autoroutes, aux horaires du TRA (Taiwan Railways Administration), AIS maritime, satellites météorologiques, [séismes](/fr/society/earthquakes-in-taiwan/), niveaux des réservoirs et qualité de l'air. Il ajoute même qu'il envoie une alerte Telegram immédiatement après trois erreurs, et publie un _Daily Review_ dans sa boîte mail tous les matins à neuf heures[^3].
 
-À la dernière étape, le « déclenchement d'action », il clarifie le rôle humain le plus clairement : « L'Agent parcourt le cycle complet. Rôle humain : donner l'objectif, recevoir le rapport. Les cinq engrenages tournent seuls : découvrir, collecter, intégrer, produire, surveiller. » Le système génère même automatiquement un rapport hebdomadaire « nouvelles données ouvertes ajoutées cette semaine ». Selon ses mots : « Le thème émerge par lui-même, le rapport est envoyé à la boîte mail par lui-même. »[^3]
+Arrivé à la dernière étape, le « déclenchement d'action », il décrit le rôle humain avec la plus grande clarté : « L'Agent exécute le cycle complet. Le rôle humain est de donner l'objectif et de recevoir le rapport. Les cinq engrenages intermédiaires tournent seuls : découverte, collecte, intégration, production, surveillance ». Le système peut même générer automatiquement un bulletin hebdomadaire sur les « nouvelles données ouvertes de la semaine ». Selon lui : « le sujet apparaît tout seul, et le rapport est envoyé dans la boîte mail ».[^3]
 
 ## Un chef d'orchestre, une flotte de pages : Claude dans tmux
 
