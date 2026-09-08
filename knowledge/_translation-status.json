@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T22:09:50+08:00",
-    "zhCommitHead": "6ff7eac03",
+    "lastUpdated": "2026-09-08T22:22:01+08:00",
+    "zhCommitHead": "f10b0503a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 777,
-        "stale": 89,
+        "fresh": 778,
+        "stale": 88,
         "metadata_stale": 28,
         "missing": 227,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 640,
-        "stale": 92,
+        "fresh": 641,
+        "stale": 91,
         "metadata_stale": 82,
         "missing": 307,
         "orphan": 0
@@ -3322,8 +3322,8 @@
           "sourceContentHash": "sha256:ded0e72872765bab",
           "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f10b0503",
+          "translationLastModified": "2026-09-08T22:09:50+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -30780,16 +30780,16 @@
         "vi": {
           "path": "vi/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "20908cd3c",
-          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
-          "sourceBodyHash": "sha256:ab8b8f728e87222a",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d009712e64112e84",
+          "sourceBodyHash": "sha256:29bdbac4c38d6b83",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
           "translationLastCommit": "ca62e0b3",
           "translationLastModified": "2026-07-24T18:39:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/alien-art-centre.md",
@@ -33160,8 +33160,8 @@
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
           "translatedAt": "2026-09-08T15:54:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f10b0503",
+          "translationLastModified": "2026-09-08T22:09:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -93388,18 +93388,16 @@
         "en": {
           "path": "en/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-05-01T13:44:02+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "5478954b",
           "translationLastModified": "2026-09-04T09:08:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/steve-chen-youtube-cofounder.md",
@@ -93450,18 +93448,16 @@
         "fr": {
           "path": "fr/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-04-14T19:19:36+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/steve-chen-youtube-cofounder.md",
@@ -112523,16 +112519,18 @@
         "en": {
           "path": "en/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:c2e6d8f7560888c4",
-          "sourceBodyHash": "sha256:11add6012534def8",
-          "translatedAt": "2026-09-08T15:54:33+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:d67f3581051e39e8",
+          "sourceBodyHash": "sha256:50386f161e8d186f",
+          "translatedAt": "2026-04-14T12:25:09+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -3"
         },
         "ja": {
           "path": "ja/Food/taiwan-indigenous-foodways.md",
