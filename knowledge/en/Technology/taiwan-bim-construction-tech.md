@@ -2,9 +2,7 @@
 title: 'Taiwan BIM Case Study: One Protocol vs 12 Years of Policy'
 description: 'In 2014 Taiwan chose case-by-case BIM adoption. Twelve years on, a Taiwanese developer shipped REVIT_MCP_study. Policy no longer sets the pace alone.'
 date: 2026-05-22
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '建築科技'
 tags:
   [
     'Technology',
@@ -20,19 +18,22 @@ tags:
     'CECI Engineering Consultants',
     'Shuotao',
   ]
-readingTime: 22
+subcategory: '建築科技'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76'
-sourceContentHash: 'sha256:7923803a611ee1da'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
-translatedAt: '2026-06-16T16:59:03Z'
+readingTime: 22
+researchReport: 'reports/research/2026-05/台灣BIM與營建科技.md'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+translatedFrom: 'Technology/台灣BIM與營建科技.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T01:47:55.255845+00:00'
 ---
 
 # Taiwan BIM and Construction Technology: Twelve Years of Government Case-by-Case Gradualism Rewritten by an Eighteen-Month Protocol

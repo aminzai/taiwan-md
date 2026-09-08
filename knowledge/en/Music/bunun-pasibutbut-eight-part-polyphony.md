@@ -1,10 +1,11 @@
 ---
-title: 'Bunun Pasibutbut: The Eight-Part Polyphony That Challenged Western Music History'
-description: "In 1943, Japanese ethnomusicologist Kurosawa Takatomo recorded the Bunun Pasibutbut deep in the mountains of Taitung. Nine years later, when this recording reached UNESCO, it shocked the international musicological world — a 'people without writing' had produced the polyphonic choral singing that the West believed could only emerge from highly advanced civilization."
+title: 'Eight-Part Harmony: A Living Fossil Challenging Western Music Historiography'
+description: 'In 1943, Japanese musicologist Kurosawa Takachō recorded the Bunun tribe''s Pasibutbut in the Taitung mountains; nine years later this recording reached UNESCO, stunning the international musicological community — a "people without writing" had produced the polyphonic choral singing Western theory held only high civilization could create.'
 date: 2026-04-01
+category: 'Music'
 tags:
   [
-    'Bunun',
+    'Bunun tribe',
     'Indigenous music',
     'Indigenous peoples',
     'overtones',
@@ -12,84 +13,81 @@ tags:
     'Taiwanese culture',
   ]
 subcategory: '傳統與民族音樂'
-category: 'Music'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg'
-imageAlt: 'Bunun people performing the eight-part polyphony'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Music/八部合音.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:3c2872e562b3f229'
 sourceBodyHash: 'sha256:43f231d59e183f8e'
-translatedAt: '2026-05-01T14:11:02+08:00'
+translatedAt: '2026-09-08T00:42:45+08:00'
 ---
 
-> **30-Second Overview:** In 1943, Japanese ethnomusicologist Kurosawa Takatomo carried recording equipment deep into the Kanding tribal settlement in Taitung, recording the Bunun harvest-prayer song Pasibutbut. Nine years later, the recording reached UNESCO, and every musicologist present was stunned — Western theory held that polyphonic choral singing was a product of high civilization, yet the Bunun people, deep in mountains with no writing and no instruments, achieved it through the resonance of the human voice alone. This piece, known as the "eight-part polyphony," remains to this day the most internationally recognized sound Taiwan has ever produced.
+> **30-second overview:** In 1943, Japanese musicologist Kurosawa Takachō carried recording equipment deep into the Kanadip Community in Haiduan Township, Taitung County, and recorded the Bunun tribe's prayer song for a bountiful millet harvest, Pasibutbut. Nine years later this recording was sent to UNESCO, where the assembled musicologists were all astonished — Western theory held that polyphonic choral singing was the product of high civilization, yet the Bunun people, in remote mountains without writing or instruments, achieved it through human vocal resonance alone. This celestial sound known as "eight-part harmony" remains Taiwan's most internationally recognizable voice to this day.
 
-In 1943, at the tail end of World War II, Japanese ethnomusicologist **Kurosawa Takatomo** was commissioned by the Taiwan Governor-General's Office to carry heavy recording equipment into the Kanding settlement in Haiduan Township, Taitung County.[^1] With the help of local police and a young Bunun man named "Adao," he overcame unstable electricity and difficult access to capture a sound that would change music history.
+1943, the final stage of World War II. Japanese musicologist **Kurosawa Takachō**, commissioned by the Taiwan Governor-General's Office, hauled heavy recording equipment into the Kanadip Community in Haiduan Township, Taitung County[^1]. With assistance from local police and a Bunun youth named "Adao," he overcame unstable electricity and difficult transport to capture a sound that would change music history.
 
-Kurosawa later wrote: "This is the most perfect natural harmony I have ever heard in my life."[^2]
+Kurosawa Takachō later wrote: "This is the most perfect natural harmony I have heard in my life."[^2]
 
-In 1952, he sent this recording to the International Folk Music Council under UNESCO. The prevailing view in Western music theory at the time held that human music evolved linearly from monophony to polyphony and then to complex harmony — a path of "civilizational progress." The appearance of Pasibutbut blew that line apart.[^3] A people without a writing system had produced something that Europeans believed only highly advanced civilization could create.
+In 1952, he sent this recording to the International Folk Music Council under UNESCO. At the time, the mainstream view in Western music theory was: human music evolved from monophony to polyphony, then to complex harmony — a linear path of "civilizational evolution." The appearance of Pasibutbut shattered this line[^3]. A people without a writing system had sung something Europeans believed only high civilization could produce.
 
-## Not Eight Parts — But More Mysterious Than Eight
+## Not Eight Parts, But More Mysterious Than Eight
 
-The name "eight-part polyphony" is, in fact, a beautiful misunderstanding.
+The name "eight-part harmony" is actually a beautiful misunderstanding.
 
-Musicologically, Pasibutbut actually has only four vocal parts (sometimes five): bass Mahalngal, mid-range Manda, high-range Bondada, and a highest voice that enters near the end.[^4] But when the Bunun people perform with exquisitely precise resonance techniques, the sound produces a physical phenomenon of "overtones" — additional higher-frequency harmonics stack above the main melody, making listeners feel as though they are hearing eight, or even more, simultaneous voices.[^5]
+From a music-analytic perspective, Pasibutbut actually has only four voice parts (sometimes five): the bass _Mahalngal_, the middle _Manda_, the treble _Bondada_, and the highest voice added at the conclusion[^4]. But when the Bunun sing with extremely precise resonance technique, a physical "overtone" phenomenon occurs between the human bodies and the space — higher-frequency scales stack atop the main melody, making listeners feel as if they hear eight, even more, voice parts sounding simultaneously[^5].
 
-> **Curator's Perspective:** This technique of collectively generating overtones is comparable in spirit to Mongolian khoomei (throat singing). But khoomei is a solo art; the Bunun achieve it through collective choral singing — a wholly different order of difficulty.
+> **📝 Curatorial note:** This technique of collectively producing overtones bears a striking resemblance to Mongolia's _khoomei_ (throat singing). But _khoomei_ is a soloist's art; the Bunun achieve it through collective chorus — a completely different order of difficulty.
 
-| Part       | Tribal Name | Function                                                                |
-| ---------- | ----------- | ----------------------------------------------------------------------- |
-| Bass       | Mahalngal   | Foundation tone, like the earth vibrating, providing the resonance base |
-| Mid-range  | Manda       | Fills the sonic space, making the harmony rich and full                 |
-| High range | Bondada     | The ascending main melody, symbolizing the growth of millet             |
-| Overtones  | (Overtones) | Virtual voices produced by physical resonance                           |
+| Voice Part | Bunun Name  | Function                                                                      |
+| ---------- | ----------- | ----------------------------------------------------------------------------- |
+| Bass       | Mahalngal   | Fundamental tone, like the earth trembling, providing the resonant foundation |
+| Middle     | Manda       | Fills the space, making the harmony thick and full                            |
+| Treble     | Bondada     | The ascending main melody, symbolizing millet growth                          |
+| Overtones  | (Overtones) | Virtual voice parts produced by physical resonance                            |
 
-In isolated mountain forests, the Bunun passed down this technique — through imitation of waterfalls, bees, and the wind — across thousands of years and countless generations.[^6]
+In mountain forests isolated from the world, the Bunun people, through imitating waterfalls, bees, and wind, passed down this art for thousands of years[^6].
 
-## A Prayer That Ascends
+## An Ascending Prayer
 
-For the Bunun people, Pasibutbut is not a performance — it is a ritual. The song is sung after the Ear Shooting Festival and before the Millet Planting Ritual, as a prayer asking the sky god Dehanin to bless the millet harvest.[^7]
+For the Bunun people, Pasibutbut is not performance; it is ritual. This song is sung after the Ear-Shooting Festival and before the Sowing Festival, its purpose to pray to the sky god _Dehanin_ for a bountiful millet harvest[^7].
 
 The singing follows strict rules:
 
-The voices must ascend gradually from low to high, symbolizing millet growing tall and strong. **If the pitch drops or goes out of tune midway, it is regarded as an ill omen, foretelling possible disaster that year.** The Bunun believe that if the singing is not harmonious, it reflects impurity of spirit or disunity within the tribe, and the sky god will not grant a good harvest.[^7]
+The voices must climb slowly from low to high, symbolizing the millet growing strong and sturdy. **If the pitch drops or goes off-key midway, it is regarded as an ill omen, foretelling possible famine that year.** The people believe that insufficiently harmonious singing means the people's hearts are not pure or the tribe is not united, and the sky god will not grant a harvest[^7].
 
-During the performance, tribal members stand in a circle with their hands on each other's backs, feeling the vibration of each other's chests. This is not a display of individual virtuosity — it is a collective will in dialogue with the sky god. Traditionally, only men perform; a purification ritual must be carried out before singing.[^7]
+When singing, the people form a circle, hands resting on neighbors' backs, feeling each other's chest vibrations. This is not individual virtuosity; it is collective will in dialogue with the sky god. Traditionally only men may sing, and a purification ritual must precede the singing[^7].
 
-> **Curator's Perspective:** Pasibutbut's "quality control" is extraordinarily strict — going out of tune is not merely a musical mistake; it is an offense against the sky god and an omen for the entire tribe. This pressure to perform with perfection may be precisely the reason this technique has been refined over thousands of years.
+> **📝 Curatorial note:** Pasibutbut's "quality control" mechanism is extraordinarily strict — going off-key is not merely a mistake, it is an offense to the sky god, a dire omen for the whole tribe. It may be precisely this pressure for perfect performance that has kept this art refined for thousands of years.
 
-## A Voice Growing Smaller
+## The Sound Is Growing Fainter
 
-In 2009, the Ministry of Culture registered "Bunun Eight-Part Polyphony" as an important national traditional art form, designating multiple tribal communities as preservation groups.[^8] But the pace of official protection may not be keeping up with the pace of disappearance.
+In 2009, the Ministry of Culture registered "Bunun Eight-Part Harmony" as a National Important Traditional Art, designating several communities as preservation groups[^8]. But the speed of protective registration may not keep pace with the speed of loss.
 
-Younger generations leave the tribal communities; participation in traditional rituals declines. Tourism performances, seeking to please audiences, sometimes simplify the singing process or ignore ritual restrictions. The more fundamental problem is language — the loss of the Bunun language makes it difficult for the next generation to understand the deep cultural meaning carried by the lyrics.
+The younger generation leaves the communities; participation in traditional rituals declines. Tourist performances, to cater to audiences, sometimes simplify the singing process and ignore ritual taboos. The more fundamental problem is language — the loss of the Bunun language makes the deep cultural meanings behind the lyrics difficult for the next generation to understand.
 
-> "It's not learning to sing — it's learning how to converse with nature and with the ancestors."
+> "We are not learning to sing; we are learning how to converse with nature, with ancestral spirits."
 
-In Bunun tribal communities in Nantou, Hualien, and Taitung, elders still teach young people to control throat muscles and listen for the overtones in the air. What they are transmitting is not only a technique — it is an entire way of understanding the world: sound is not made by human beings; it grows from the earth, and people are only the vessels through which it passes.
+In Bunun communities across Nantou, Hualien, and Taitung, elders still teach young people to control throat muscles, to hear the overtones in the air. They transmit not just technique, but an entire way of understanding the world — sound is not human-made; it grows from the earth, and humans merely let it pass through.
 
-In the moment in 1943 when Kurosawa Takatomo pressed the record button, he probably did not imagine that eighty years later this sound would still be Taiwan's most powerful cultural export. Not because it is old — but because it uses the simplest means — a few human throats — to prove one thing: the depth of art has never depended on the advancement of technology.
+At the moment Kurosawa Takachō pressed the record button in 1943, he probably never imagined that eighty years later this sound would still be Taiwan's most powerful cultural export. Not because it is ancient, but because in the simplest way — a few people's throats — it proves one thing: the depth of art has never depended on technological advancement.
 
 ## References
 
-[^1]: Wang Ying-fen, "[Listening to the Colony: Kurosawa Takatomo and the Wartime Taiwan Music Survey (1943)](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search)," NTU Library, 2008
+[^1]: [Hearing the Colony: Kurosawa Takachō and Wartime Taiwan Music Survey (1943)](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search) — See original link for supplementary textual data〉, NTU Library, 2008
 
-[^2]: Kurosawa Takatomo, [_Music of the Taiwan Takasago Peoples_](https://www.books.com.tw/products/0010430882), Victor Records, 1974
+[^2]: [Music of the Taiwan Takasago Tribes](https://www.books.com.tw/products/0010430882) — Kurosawa Takachō, 《》, Victory Records, 1974
 
-[^3]: Wang Ying-fen, "[Kurosawa Takatomo's Taiwan Indigenous Music Survey](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf)," NTU Graduate Institute of Musicology, 2008
+[^3]: [Kurosawa Takachō's Taiwan Indigenous Music Survey](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf) — National Central Library Taiwan Branch〉, NTU Institute of Musicology, 2008
 
-[^4]: [Bunun Pasibutbut — National Cultural Heritage Database](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20160317000001)
+[^4]: [Bunun Pasibutbut Prayer Song for Millet Harvest — National Cultural Heritage Network](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20160317000001) — See original link for supplementary textual data
 
-[^5]: Wang Kuo-ching, "[Biling on the Bunun Singing Pasibutbut and Becoming Bisosilin](https://www.airitilibrary.com/Article/Detail/U0118-0807200916272865)," Asia University master's thesis, 2008
+[^5]: [Biling Watching Bunun People Sing Pasibutbut Become Bisosilin](https://www.airitilibrary.com/Article/Detail/U0118-0807200916272865) — See original link for supplementary textual data〉, Asia University Master's Thesis, 2008
 
-[^6]: Chang Ching-liang, "[Using Taiwan's Indigenous Music Art 'Bunun Eight-Part Polyphony' as an Example](https://cge.knu.edu.tw/var/file/22/1022/img/124/874464490.pdf)," Chin-Yi University of Technology Academic Conference, 2003
+[^6]: [Taking Taiwan Indigenous Music Art 'Bunun Eight-Part Harmony' as an Example](https://cge.knu.edu.tw/var/file/22/1022/img/124/874464490.pdf) — See original link for supplementary textual data〉, Chin-Yi University of Technology Academic Conference, 2003
 
-[^7]: [Several Reflections on the Performance of the Pasibutbut Ritual Song — National Museum of Prehistory](https://icloud.nmp.gov.tw/Library/EPaperContent?a=212&id=169&nid=638)
+[^7]: [Several Reflections on the Ritualistic Performance of Pasibutbut — National Museum of Prehistory](https://icloud.nmp.gov.tw/Library/EPaperContent?a=212&id=169&nid=638) — See original link for supplementary textual data
 
-[^8]: ["Bunun Eight-Part Polyphony" Registration Data — Bureau of Cultural Heritage, Ministry of Culture](https://twh.boch.gov.tw/non_material/intro.aspx?id=743)
+[^8]: [Registration Data for 'Bunun Eight-Part Harmony' — Bureau of Cultural Heritage, Ministry of Culture](https://twh.boch.gov.tw/non_material/intro.aspx?id=743) — See original link for supplementary textual data
