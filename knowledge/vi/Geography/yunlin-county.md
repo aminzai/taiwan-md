@@ -26,17 +26,17 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 16
-researchReport: reports/research/2026-05/雲林縣.md
-series: '22 tỉnh thành'
-image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg
-imageCredit: Mk2010
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg
+researchReport: 'reports/research/2026-05/雲林縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp'
+imageCredit: 'Mk2010 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg'
 translatedFrom: 'Geography/雲林縣.md'
-sourceCommitSha: '036da279d'
-sourceContentHash: 'sha256:68dcc74d52d8c737'
-sourceBodyHash: 'sha256:24b0d8d16f592539'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:189f50627b664502'
+sourceBodyHash: 'sha256:7144cde6e4cd475f'
+translatedAt: '2026-09-08T02:25:57.426088+00:00'
 ---
 
 # Vân Lâm: Cái mà Nghi Lan từ chối, Vân Lâm dùng ba mươi năm phổi để lấy lại
@@ -55,22 +55,22 @@ Lái xe về phía nội địa ba mươi lăm km, tới Miếu Triêu Thiên B�
 
 Bài viết này muốn bắt đầu từ bờ biển này. Bởi vì bối cảnh này chứa đựng hai khoảnh khắc then chốt của Vân Lâm: một khoảnh khắc làm cho đồng bằng Nghi Lan không biến thành khu công nghiệp hóa dầu, khoảnh khắc kia làm cho ngoài khơi Mại Liêu biến thành vương quốc hóa dầu lớn nhất Đài Loan. Hai khoảnh khắc này cách nhau hai trăm km về không gian, bốn năm về thời gian, nhưng chỉ có một mối quan hệ nhân quả duy nhất.
 
-## Ba quạt lấp lũi cộng thêm một khu đất nhân tạo: Địa lý của Vân Lâm được viết bởi nước và vốn
+## Ba cái phiến tích tụ cộng một mảnh đất nhân tạo: Địa lý Vân Lâm được viết bởi cả nước lẫn vốn
 
-Vân Lâm nằm giữa đầu bắc của đồng bằng Gia Nam và cuối nam của đồng bằng Chương Hóa. Phía bắc là sông Trọc Thủy, phía nam là sông Bắc Cảng, hai dòng sông cách nhau 1.290,83 km vuông đó là toàn bộ tỉnh này[^7].
+Tỉnh Vân Lâm kẹp giữa đầu bắc của bình nguyên Gia Nam và đầu nam của bình nguyên Chương Hoá. Phía bắc là sông Trọc Thủy, phía nam là sông Bắc Cảng, 1.290,83 km² giữa hai con sông này chính là tỉnh này[^7].
 
-Hình thành địa hình chia thành ba phần:
+Địa hình chia làm ba đoạn:
 
-Quạt lấp lũi sông Trọc Thủy kéo dài từ đông sang tây, Đẩu Lục, Đẩu Nam, Hổ Vĩ, Tây La, Lăng Bối, Mại Liêu - một hàng dài xuống dưới, lớp đất đen dầy, khoáng chất phong phú. Đây là khu đất được xác nhận qua thí nghiệm nông nghiệp thời Nhật trị là khu vực sinh sản tối ưu nhất cho lúa Bồng Lai, năm 1932, thời Showa thứ 7, năng suất lúa Bồng Lai ở khu vực Tây La, Vân Lâm đã là một trong những kho lúa chính của toàn Đài Loan[^9]. Quạt lấp lũi sông Bắc Cảng kéo dài từ Bắc Cảng tới Thủy Lâm, Nguyên Trường, Khẩu Hồ, đất cát sét ít hơn, truyền thống trồng lạc và ngũ cốc khác[^7]. Tiếp tục về phía đông tới Cổ Kênh, Lâm Nội, vùng đồi cao 200 đến 800 mét, khí hậu mát mẻ, đây là núi mà thời Nhật trị thập niên 1930 chọn để phát triển trồng cà phê[^10].
+Bình nguyên phiến tích tụ Trọc Thủy kéo dài từ đông sang tây, qua Đẩu Lục, Đẩu Nam, Hổ Vĩ, Tây La, Lôn Bối, Mạch Liêu một mạch, lớp đất đen dày, khoáng chất phong phú. Mảnh đất này được thử nghiệm nông nghiệp thời Nhật xác nhận là vùng sản xuất thích hợp nhất cho lúa Bồng Lai, năm 1932 (Thánh Hòa 7) sản lượng lúa Bồng Lai quanh Tây La Vân Lâm đã là một trong những kho gạo chính của toàn Đài[^9]. Phiến tích tụ Bắc Cảng từ Bắc Cảng về phía Thủy Lâm, Nguyên Trưởng, Khẩu Hồ, đất sét cát khá mỏng, truyền thống trồng đậu phộng và tạp cốc[^7]. Tiếp theo về phía đông đến Cổ Kênh, Lâm Nội, đồi núi cao độ 200 đến 800 m, khí hậu mát mẻ, là vùng núi được chọn để khuyến khích trồng cà phê vào những năm 1930 thời Nhật[^10].
 
-Phần tư là nhân tạo. Ngoài khơi Mại Liêu từ năm 1991 bắt đầu lấp biển, tới năm 1998 giai đoạn một hoàn thành, lấp biển được khoảng 2.255 công hectare; nếu tính cả thiết bị cảng, tổng diện tích 2.603 công hectare[^5]. ⚠️ Stage 0 viết "3.400 công hectare" không tìm thấy nguồn tài liệu đáng tin cậy, hệ thống tỉnh Vân Lâm và Công ty Formosa Plastics công bố dữ liệu cùng tồn tại hai con số 2.255 / 2.603, sự chỉnh sửa này rất quan trọng vì ba mươi năm trước khu đất này chưa tồn tại.
+Đoạn thứ tư là nhân tạo. Biển ngoài Mạch Liêu từ năm 1991 bắt đầu bồi đắp biển thành đất, đến năm 1998 kỳ một hoàn công, đất bồi đắp ra khoảng 2.255 ha; nếu tính cả cơ sở cảng, tổng diện tích 2.603 ha[^5]. ⚠️ Giai đoạn 0 viết «3.400 ha» tra không thấy nguồn tin cậy, chính quyền tỉnh Vân Lâm và Formosa Plastics công khai đều dùng song song hai con số 2.255 / 2.603, việc sửa lỗi này rất quan trọng vì ba mươi năm trước mảnh biển này không tồn tại.
 
-Về hành chính 20 xã, thị, huyện: 1 thành phố trực quyền (Đẩu Lục) cộng 4 thị (Đẩu Nam, Hổ Vĩ, Tây La, Bắc Cảng) cộng 15 huyện. Trực quyền tỉnh ở Đẩu Lục, thị với dân số nhiều nhất là Hổ Vĩ, tổng dân số 648.459 người (thống kê hộ tịch tháng 4 năm 2026)[^7].
+Hành chính có 20 đơn vị cấp huyện/thị xã: 1 thành phố thuộc huyện (Đẩu Lục) cộng 4 thị trấn (Đẩu Nam, Hổ Vĩ, Tây La, Bắc Cảng) cộng 15 xã. Trụ sở chính quyền tại Đẩu Lục, thị trấn đông dân nhất là Hổ Vĩ, tổng dân số 648.459 người (thống kê hộ chính tháng 4 năm 2026)[^7].
 
-Mùa đông ở phía tây bờ biển cần phải đề cập riêng. Mỗi năm từ tháng 11 tới tháng 3 năm sau, gió đông bắc từ eo biển Đài Loan thổi qua, khu vực tây Vân Lâm xuất hiện thời tiết điển hình là "sương mù dầy đặc cộng với gió mạnh" xen kẽ. Mại Liêu, Đài Tây, Khẩu Hồ một khu vực thường xuyên có tầm nhìn thấp hơn 500 mét, đây là mùa tệ nhất cho sự tán tỏa khí thải Lục Nhẹ, cũng là mùa gánh nặng nhất cho phổi[^11]. Theo phân bố mưa, khu vực tây bờ biển có lượng mưa năm khoảng 1.200 mm tương đối ít, khu vực đông đồi cao lượng mưa năm có thể lên tới 2.500 mm trở lên, sự chênh lệch này làm cho cấu trúc nông nghiệp của Vân Lâm hoàn toàn khác nhau từ đông sang tây.
+Về mùa đông bờ biển phía tây cần nói riêng. Mỗi năm từ tháng 11 đến tháng 3 năm sau, gió mùa đông bắc thổi từ Biển Đà Loan, phía tây Vân Lâm xuất hiện thời tiết điển hình «sương mù dày kèm gió lớn» xen kẽ. Khu vực Mạch Liêu, Đài Tây, Khẩu Hồ tầm nhìn thường giảm xuống dưới 500 m, đây là mùa khí thải Lục Nhẹ khuếch tán kém nhất, cũng là mùa gánh nặng cho phổi nặng nhất[^11]. Về phân bố lượng mưa, bờ biển tây năm khoảng 1.200 mm khá ít, đồi núi phía đông năm có thể đạt trên 2.500 mm, chênh lệch này khiến cấu trúc nông nghiệp Vân Lâm từ đông sang tây hoàn toàn khác biệt.
 
-![Khu công nghiệp Mại Liêu Lục Nhẹ, chụp năm 2010. Năm 1991 Viện Hành pháp phê chuẩn, năm 1994 động công, năm 1998 giai đoạn một khai lò, diện tích lấp biển 2.255 công hectare.](https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg)
-_Khu công nghiệp Mại Liêu Lục Nhẹ, 2010. Photo: Mk2010, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
+![Khu nhà máy Lục Nhẹ Mạch Liêu, chụp năm 2010. Năm 1991 Hội đồng hành chính phê duyệt, 1994 khai công, 1998 kỳ một đi vào hoạt động, diện tích bồi đắp biển 2.255 ha.](/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp)
+_Khu công nghiệp Lục Nhẹ Mạch Liêu, 2010. Photo: Mk2010 / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
 
 ## Gốc rễ của Bồng Cảng: Năm Ma Tổ vượt biển từ Miêu Châu sang
 
@@ -242,12 +242,12 @@ Lần sau tới Vân Lâm, đừng chỉ tới Cổ Kênhuống cà phê. Thử 
 
 ## Nguồn hình ảnh
 
-Bài viết dùng 4 hình ảnh giấy phép CC từ Wikimedia Commons:
+Bài viết này sử dụng 4 hình ảnh được cấp phép CC từ Wikimedia Commons, hình ảnh hero được cache tại `public/article-images/geography/` để tránh hotlink trực tiếp đến máy chủ nguồn:
 
-- **Hộp chiến (frontmatter)**: [Khu công nghiệp Nhóm công ty Công ty Formosa Plastics Mại Liêu](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>) (Mk2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), khu công nghiệp Mại Liêu Lục Nhẹ)
-- **Cảnh §1694 năm Bồng Cảng**: [Miếu Triêu Thiên Bắc Cảng-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg) (A Đạo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Miếu Triêu Thiên Bắc Cảng tháng 9 năm 2024)
-- **Cảnh §ống khói đầu tiên năm 1909**: [Cảnh trong Nhà máy đường Hổ Vĩ 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg) (WC-QHS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), nhà máy đường Hổ Vĩ 2018)
-- **Cảnh §ngày 28 tháng 1 năm 1953**: [Cầu Tây La trưa ngày 2 tháng 8 năm 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg) (JianEn Yu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Cầu Tây La tháng 8 năm 2014)
+- **Hero (frontmatter)**：[Formosa Plastics Group Mail-Liao Industrial Complex](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>)（Mk2010，[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)，Khu công nghiệp Lục Nhẹ Mạch Liêu）
+- **Cảnh §Năm 1694: Bạc Cảng**：[Beigang Chaotian Temple-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg)（阿道，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，Miếu Triêu Thiên Bắc Cảng tháng 9 năm 2024）
+- **Cảnh §Năm 1909: Cái ống khói đầu tiên**：[Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg)（WC-QHS，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，Nhà máy đường Hổ Vĩ năm 2018）
+- **Cảnh §Ngày 28 tháng 1 năm 1953**：[Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg)（JianEn Yu，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)，Cầu Tây La tháng 8 năm 2014）
 
 ## Tài liệu video
 

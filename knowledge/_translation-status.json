@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T11:50:40+08:00",
-    "zhCommitHead": "83e5beb2f",
+    "lastUpdated": "2026-09-08T11:58:44+08:00",
+    "zhCommitHead": "383aa5c95",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 627,
+        "fresh": 628,
         "stale": 95,
-        "metadata_stale": 85,
+        "metadata_stale": 84,
         "missing": 314,
         "orphan": 0
       },
@@ -25325,8 +25325,8 @@
           "sourceContentHash": "sha256:7704f0ba39f9bad2",
           "sourceBodyHash": "sha256:953746868edc36a0",
           "translatedAt": "2026-09-08T03:50:08.638096+00:00",
-          "translationLastCommit": "7f8b3023",
-          "translationLastModified": "2026-07-27T20:09:32+08:00",
+          "translationLastCommit": "383aa5c9",
+          "translationLastModified": "2026-09-08T11:50:40+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -134616,8 +134616,8 @@
           "sourceContentHash": "sha256:189f50627b664502",
           "sourceBodyHash": "sha256:7144cde6e4cd475f",
           "translatedAt": "2026-09-08T01:54:50.411680+00:00",
-          "translationLastCommit": "4bddc72b",
-          "translationLastModified": "2026-08-03T11:44:02+08:00",
+          "translationLastCommit": "383aa5c9",
+          "translationLastModified": "2026-09-08T11:50:40+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -135872,18 +135872,16 @@
         "vi": {
           "path": "vi/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T03:27:27.581565+00:00",
           "translationLastCommit": "4e9dd74e",
           "translationLastModified": "2026-08-09T11:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"

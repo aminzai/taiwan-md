@@ -25,17 +25,17 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 15
-researchReport: reports/research/2026-05/台東縣.md
-series: '22 Tỉnh Thành Loạt'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taitung_County_Montage.png/800px-Taitung_County_Montage.png
-imageCredit: Sleepingstar
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png
+researchReport: 'reports/research/2026-05/台東縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/taitung-county-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png'
 translatedFrom: 'Geography/台東縣.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:a245e10d3b26ade5'
-sourceBodyHash: 'sha256:78f221a15e8e14f3'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:b917cf15071e0f45'
+sourceBodyHash: 'sha256:36a7ca9dd00ad7f0'
+translatedAt: '2026-09-08T01:53:13.348291+00:00'
 ---
 
 # Đài Đông: Hai đảo ngoài khơi, một nơi từng giam giữ 36 năm tù nhân chính trị, một nơi tích tụ 42 năm chất thải hạt nhân
@@ -148,55 +148,55 @@ Năm 1987 bãi bỏ thiết quân luật, Đảo Xanh ngừng giam giữ tù nh�
 
 Ngày nay những du khách đến Đảo Xanh phần lớn để lặn biển, chạy xe máy xuyên quanh đảo, ngâm suối nước nóng Chào Mặt Trời. Ít người sẽ đi tới công viên. Công viên và cửa hàng lặn, tiệm cho thuê xe máy nằm trên cùng một con đường. Một bên là di tích ngôi nhà tù tù nhân chính trị, một bên là "Trung tâm du khách Sao Đảo Xanh". **Hòn đảo này đồng thời là bằng chứng vật lý của ký ức Khủng bố Trắng thiết quân luật của Đài Loan, và là một điểm đến du lịch nổi tiếng ở miền Đông**, hai bản sắc này chưa bao giờ hòa hợp, chỉ là hiện hữu song hành.
 
-## Mảnh đất Đông Môn, ban đầu không phải là để xây nhà máy đóng hộp
+## Miền đất Long Môn, hóa ra không phải để xây nhà máy đồ hộp
 
-Từ cảng Phú Cương ở Thành phố Đài Đông đi về phía Nam 90 km, gấp 2,7 lần khoảng cách đến Đảo Xanh, chính là Đảo Lan Tự.
+Từ cảng cá Phú Oa (富岡) của Đài Đông đi về phía Nam 90 km là Lan Dữ.
 
-Đảo núi lửa, khoảng cách Đài Loan là xa hơn, nhưng lại gần quần đảo Ba Đan ở Philippines hơn. Sinh sống ở đó gồm sáu bộ tộc Đạt Hoạt, tổng dân số khoảng 5.000 người. Năm 1975, đã xảy ra một sự kiện vẫn còn ảnh hưởng đến Đảo Lan Tự cho đến bây giờ.
+Đây là một hòn đảo núi lửa, xa hơn so với đất liền Đài Loan, nhưng lại gần quần đảo Bataan của Philippines hơn. Nơi đây có sáu bộ lạc người Đạt Hoạt sinh sống, với tổng dân số khoảng 5.000 người. Năm 1975, một sự kiện đã và đang ảnh hưởng đến Lan Dữ cho đến ngày nay.
 
-Năm đó, **khi làm Viện trưởng Hành pháp, Giang Kinh Quốc đồng ý sử dụng khu vực Đông Môn của Đảo Lan Tự để thiết lập kho tích tụ chất thải phóng xạ mức độ thấp**[^21]. Quá trình quyết định không có tham vấn ý kiến của cư dân Đảo Lan Tự. Từ 1977 đến 1980, Ủy ban Năng lượng Nguyên tử và Điện lực Đài Loan thi công ở Đảo Lan Tự, ký ức của những người lão luyện địa phương nhất cán chỉ tới sự lừa dối. Chính phủ dùng danh nghĩa xây dựng "nhà máy đóng cá" (một số lời nói là "nhà máy đóng dứa") để lừa ký tên đồng ý, người Đạt Hoạt không biết công trình thực sự được sử dụng để làm gì[^22]. ⚠️ Tuyên bố chính thức của chính phủ phủ nhận việc sử dụng cách nói "nhà máy đóng hộp", "Báo cáo Điều tra Sự thật Thiết lập Kho Chất thải Hạt nhân Đảo Lan Tự" năm 2018 xác nhận người dân bộ tộc "không biết", nhưng từ ngữ lừa dối cụ thể vẫn còn tranh cãi, tuy nhiên ký ức của người Đạt Hoạt nhất cán chỉ tới việc lúc đó không được thông báo đó là cơ sở chất thải hạt nhân.
+Năm đó, **Chưởng kinh quốc (蔣經國) đương nhiệm của chính phủ đã đồng ý đặt cơ sở lưu trữ chất thải phóng xạ mức thấp tại khu vực Long Môn của Lan Dữ**[^21]. Quá trình ra quyết định này không hề tham khảo ý kiến người dân Lan Dữ. Trong khoảng thời gian từ năm 1977 đến 1980, Ủy ban Năng lượng Nguyên tử và Đài Điện đã tiến hành xây dựng tại Lan Dữ; ký ức của các trưởng lão địa phương đều chỉ ra sự lừa dối. Chính phủ đã dùng danh nghĩa xây dựng "nhà máy đồ hộp" (một số lời nói còn gọi là "nhà máy đồ hộp dứa") để dụ dỗ người dân ký chấp thuận, và người Đạt Hoạt không hề biết mục đích thực sự của công trường[^22]. ⚠️ Văn bản tuyên bố chính thức của chính phủ đã bác bỏ việc sử dụng thuật ngữ "nhà máy đồ hộp", nhưng Báo cáo điều tra sự thật về cơ sở lưu trữ chất thải hạt nhân Lan Dữ năm 2018 xác nhận người dân "hoàn toàn không hay biết", mặc dù cách diễn đạt lừa dối cụ thể vẫn còn tranh cãi, tuy nhiên ký ức của người Đạt Hoạt đều chỉ ra rằng họ đã không được thông báo đó là cơ sở chất thải hạt nhân.
 
-**Tháng 5 năm 1982**, giai đoạn một của kho tích tụ Đảo Lan Tự hoàn thành, lô hàng chất thải hạt nhân mức độ thấp đầu tiên bắt đầu được vận chuyển vào[^21]. Từ lúc này cho đến năm 1996 lô cuối cùng được vận chuyển, **suốt 14 năm tích tụ 97.672 thùng chất thải phóng xạ mức độ thấp**[^21], nguồn gốc từ nhà máy điện hạt nhân 1, 2, 3 cũng như tất cả các tổ chức y tế, nông nghiệp, công nghiệp, học thuật toàn quốc.
+**Vào tháng 5 năm 1982**, giai đoạn đầu tiên của cơ sở lưu trữ Lan Dữ hoàn thành, và lô chất thải phóng xạ mức thấp đầu tiên bắt đầu được vận chuyển vào[^21]. Từ thời điểm này cho đến khi lô cuối cùng được đưa vào vào năm 1996, **trong suốt 14 năm đã tiếp nhận tổng cộng 97.672 thùng chất thải phóng xạ mức thấp**[^21], có nguồn gốc từ các nhà máy Hạt nhân Một, Hai và Ba, cũng như các cơ quan y tế, nông nghiệp, công nghiệp và học thuật trên toàn đảo.
 
-![Cảnh quan Đảo Lan Tự, chụp từ trên không từ sân bay, năm 2017. Khoảng cách Đài Loan 90 km, khoảng cách quần đảo Ba Đan ở Philippines lại gần hơn. Sống ở đảo có sáu bộ tộc Đạt Hoạt, tổng dân số khoảng 5.000 người. Từ tháng 5 năm 1982, góc Đông Nam Đông Môn bắt đầu tiếp nhận tích tụ chất thải hạt nhân, đến năm 1996 tích tụ 97.672 thùng.](/article-images/geography/taitung-03.webp)
-_Cảnh quan Đảo Lan Tự, 2017-07-21. Photo: Pai-Shih Lee (Bạch Sĩ Lý). [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg)._
+![Cảnh quan Lan Dữ, nhìn từ trên không sân bay, năm 2017. Cách đất liền Đài Loan 90 km, gần quần đảo Bataan của Philippines hơn. Sáu bộ lạc người Đạt Hoạt sinh sống trên đảo với tổng dân số khoảng 5.000 người. Từ tháng 5 năm 1982, Long Môn ở phía Đông Nam của đảo bắt đầu tiếp nhận chất thải hạt nhân, tích lũy 97.672 thùng đến năm 1996.](/article-images/geography/taitung-03.webp)
+_Cảnh quan Lan Dữ, 2017-07-21. Ảnh: Pai-Shih Lee (白士 李). [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg)._
 
-Năm 1987, người Đạt Hoạt biểu tình tại sân bay chống lại Điện lực Đài Loan mua chuộc đại biểu dân cư Đảo Lan Tự đi tham quan Nhật Bản, phong trào chống chất thải hạt nhân chính thức khai mạc[^23].
+Năm 1987, người Đạt Hoạt đã phản đối việc Đài Điện mua chuộc các đại biểu dân cử Lan Dữ đi du lịch Nhật Bản, và phong trào phản đối chất thải hạt nhân chính thức bắt đầu[^23].
 
-**Ngày 20 tháng 2 năm 1988**, những người Đạt Hoạt phát động phong trào "**Xua đuổi những vong linh ma quỷ**", mặc trang phục chiến binh truyền thống với mũ mây, cúp lưng mây, cầm giáo dài và dao, quanh quanh đảo một vòng. Đây là **lần đầu tiên người bản địa Đài Loan tổ chức phản kháng chất thải hạt nhân có tổ chức**[^24]. Từ ngữ biểu tình "Xua đuổi những vong linh ma quỷ" được chế ra trong cuộc họp tại phòng soạn thảo Tạp chí Con Người ở phố An Hòa Thành phố Đài Bắc vào tháng 1 năm 1988, do Trần Ảnh Chân chủ trì[^24].
+**Vào ngày 20 tháng 2 năm 1988**, người Đạt Hoạt đã phát động phong trào "**Trục xuất tà linh**", họ mặc giáp dây leo truyền thống, mang giáo và dao găm, đi vòng quanh đảo. Đây là **cuộc biểu tình có tổ chức đầu tiên của các dân tộc bản địa Đài Loan chống lại chất thải hạt nhân**[^24]. Thuật ngữ phản đối "Trục xuất tà linh" được ấp ủ trong cuộc họp tại văn phòng biên tập tạp chí _Nhân Gian_ (人間雜誌) trên phố An Hòa, Đài Bắc vào tháng 1 năm 1988, do Trần Ánh Chân (陳映真) chủ trì[^24].
 
-Hôm đó mọi người trong bộ tộc phát hành tuyên bố chung, ghi chép nguyên văn như sau:
+Vào ngày hôm đó, người dân đã đưa ra một tuyên bố chung, ghi lại nguyên văn như sau:
 
-> **"Mảnh đất này có linh hồn, nó tự xưa bảo vệ người tộc chúng ta cho đến bây giờ, hiện nay chất thải hạt nhân độc tố làm tổn thương nó, các thành viên bộ tộc mặc quần áo chiến binh truyền thống, đội mũ mây, mặc cúp chiến áo, đeo dao, cầm giáo dài để thể hiện ý chí chiến đấu quyết liệt với 'những vong linh ma quỷ'."**[^24]
+> **"Miền đất này có linh hồn, nó đã bảo vệ chúng tôi từ xa xưa cho đến nay. Độc tố của chất thải hạt nhân đang làm tổn thương nó, và các tộc nhân mặc trang phục chiến binh truyền thống, đội mũ dây leo, mặc giáp trụ, mang dao găm, cầm giáo để thể hiện ý chí chiến đấu kiên quyết trước 'tà linh'."**[^24]
 
-Năm 1995, sở Đảo Lan Tự phát động phong trào "một người một hòn đá". **Tháng 4 năm 1996**, sở trưởng Đảo Lan Tự, trưởng làng và những người chống chất thải hạt nhân tập hợp tại bến cảng Đông Môn, biểu tình chống lại Điện lực Đài Loan vận chuyển 168 thùng chất thải hạt nhân từ nhà máy điện hạt nhân 2. Tàu chất thải hạt nhân "Ánh sáng Điện" bị cư dân Đảo Lan Tự chặn cảng, **lưu lại trên vùng biển Đảo Lan Tự 4 ngày rồi bị buộc rời đi**[^25]. Sau năm 1996, Điện lực Đài Loan không còn vận chuyển chất thải hạt nhân mới.
+Năm 1995, xã Lan Dữ đã phát động hành động "Một người một đá". **Vào tháng 4 năm 1996**, trưởng xã và các trưởng làng của Lan Dữ cùng những người phản đối chất thải hạt nhân đã tập trung tại bến tàu Long Môn để phản đối việc Đài Điện vận chuyển 168 thùng chất thải hạt nhân từ nhà máy Hạt nhân Hai. Tàu chở chất thải "Điện Quang Nhất Hào" đã bị dân Lan Dữ chặn cảng, và **sau khi mắc kẹt trên biển Lan Dữ trong 4 ngày mới buộc phải rời đi**[^25]. Sau năm 1996, Đài Điện không vận chuyển thêm chất thải hạt nhân nào.
 
-Nhưng 97.672 thùng vẫn ở lại. Ở Đông Môn.
+Nhưng 97.672 thùng vẫn còn đó. Tại Long Môn.
 
-> **✦** "**Từ 1982 đến 1996, 10 vạn thùng chất thải hạt nhân vào kho tích tụ, cho đến khi người Đạt Hoạt chặn cảng phản kháng, đẩy tàu chất thải hạt nhân về bến cảng Minh Quang nhà máy điện hạt nhân 2.**」（Báo cáo Sự kiện[^26]）
+> **✦** "Trong giai đoạn từ 1982 đến 1996, hơn 10 vạn thùng chất thải đã được đưa vào cơ sở lưu trữ, cho đến khi cuộc đấu tranh chặn cảng của người Đạt Hoạt buộc tàu chở chất thải phải quay trở lại bến Minh Quang của nhà máy Hạt nhân Hai." (Báo cáo sự kiện tiêu điểm[^26])
 
-Trong văn hóa truyền thống Đạt Hoạt, biển là phạm vi của nam giới, núi là phạm vi của nữ giới. **Mùa bay cá** (mỗi năm từ tháng 2-3 khi dòng chảy Đen dẫn cá bay về phía Bắc) là hợp đồng mà dân tộc này ký kết với biển. Khi người Đạt Hoạt ăn cá bay, họ chia loại cá theo giới tính và tuổi tác: cá nữ, cá nam, cá lão, mỗi loại có cách xử lý khác nhau[^27]. Mùa bay cá không bắt cá đá (để cho cá đá san hô sinh sản), sau khi mùa bay cá kết thúc mới bắt cá đá (để cho cá bay quay về sinh sản). Bộ kiến thức sinh thái này đã vận hành hơn ngàn năm.
+Trong văn hóa truyền thống của người Đạt Hoạt, biển là phạm vi của đàn ông, núi là phạm vi của phụ nữ. **Mùa cá bay** (bắt đầu vào tháng 2 và tháng 3 hàng năm khi nước ấm từ Biển Đen di chuyển về phía Bắc) là giao ước mà dân tộc này đã ký kết với đại dương. Khi người dân ăn cá bay, họ phân loại các loài cá theo giới tính và tuổi tác: cá phụ nữ, cá đàn ông, cá già, mỗi loại có cách xử lý khác nhau[^27]. Mùa cá bay không đánh bắt cá rạn (để cho cá rạn sinh sản), sau khi mùa cá bay kết thúc mới đánh bắt cá rạn (để cá bay về đẻ). Hệ thống trí tuệ sinh thái này đã vận hành hàng ngàn năm.
 
-Chiếc thuyền lắp ghép (chinurikuran thuyền lớn 27 mảnh gỗ, tatara thuyền nhỏ 21 mảnh gỗ) là đỉnh cao của công nghệ thủ công Đạt Hoạt, màu truyền thống là đỏ (đất đỏ trên núi), trắng (tro vỏ sò), đen (than lò nấu), hình tròn ở mắt thuyền là biểu tượng văn hóa Đạt Hoạt được biết đến rộng rãi[^28].
+Thuyền ghép tấm ván (chinurikuran với 27 tấm, tatara với 21 tấm) là đỉnh cao trong nghề thủ công của người Đạt Hoạt, màu sắc truyền thống là đỏ (đất đỏ trên núi), trắng (tro vỏ sò), đen (than bếp), và hoa văn hình tròn ở mũi thuyền là biểu tượng phổ biến cho văn hóa của người Đạt Hoạt[^28].
 
-![Thuyền lắp ghép truyền thống của tộc Đạt Hoạt, Đảo Lan Tự, tháng 8 năm 2015. Chiếc thuyền lớn chinurikuran của tộc Đạt Hoạt được lắp từ 27 mảnh gỗ, có thể chở 8-10 người; chiếc thuyền nhỏ tatara được lắp từ 21 mảnh gỗ. Hình tròn ở mắt thuyền là biểu tượng văn hóa Đạt Hoạt được biết đến rộng rãi nhất.](/article-images/geography/taitung-03.webp)
-_Thuyền lắp ghép truyền thống Đạt Hoạt, 2015-08-02. Photo: Cho Hsun Lu. [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
+![Thuyền ghép tấm ván truyền thống của người Đạt Hoạt đậu trên bãi đá của Lan Dữ, với ba màu đỏ trắng đen. Hoa văn hình tròn ở giữa thân tàu chính diện. Thuyền lớn chinurikuran của người Đạt Hoạt được ghép từ 27 tấm gỗ, có thể chở 8-10 người; thuyền nhỏ tatara được ghép từ 21 tấm.](/article-images/geography/taitung-tao-plank-boat-2015.webp)
+_Thuyền ghép tấm ván truyền thống của người Đạt Hoạt. Ảnh: Cho Hsun Lu, [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
 
-Khí hậu của Đảo Lan Tự là nhiệt đới hải dương, lượng mưa hàng năm vượt 3.000 mm (vượt xa mưa của Thành phố Đài Đông ở thung lũng Hoa Đông khoảng 1.900 mm và phía lưng gió của dãy Hải Tạo Sơn 1.500 mm), mùa Đông gió Tây Bắc mạnh mẽ. **Căn cứ dưới lòng đất truyền thống của tộc Đạt Hoạt (talakaval)** được thiết kế để ứng phó với khí hậu này, thấp bé nửa lòng đất, bốn phía tường đất cách nhiệt, gió Tây Bắc thẳng tiếp tục từ mái nhà[^29]. Ngày nay làng Dã Bạc bảo tồn hoàn chỉnh nhất những căn cứ dưới lòng đất truyền thống, là hình dáng bộ tộc cũ duy nhất trên Đảo Lan Tự vẫn có người ở.
+Khí hậu của Lan Dữ là khí hậu đại dương nhiệt đới, lượng mưa hàng năm vượt quá 3.000 mm (cao hơn khoảng 1.900 mm ở khu vực thành phố Đài Đông thuộc Hoa Đông Túng Cốc và 1.500 mm ở sườn đón gió của dãy núi ven biển), với gió mùa Đông Bắc mạnh vào mùa đông. **Nhà đất dưới lòng đất truyền thống của người Đạt Hoạt (talakaval)** được thiết kế để ứng phó với khí hậu này, chúng thấp và bán ngầm, tường đất bao quanh giúp cách nhiệt, và gió mùa Đông Bắc thổi trực tiếp qua mái nhà[^29]. Làng Dã Ngân là nơi bảo tồn ngôi làng dưới lòng đất truyền thống hoàn chỉnh nhất, là hình thái bộ lạc cổ duy nhất còn người sinh sống trên toàn Lan Dữ.
 
-42 năm rồi.
+Đã 42 năm trôi qua.
 
-Ngày 1 tháng 8 năm 2016 là Ngày Dân tộc Bản địa, Tổng thống Thái Anh Văn thay mặt chính phủ xin lỗi các dân tộc bản địa, **ngày 15 tháng 8** Thái Anh Văn lên đảo, trở thành Tổng thống đầu tiên đến tận Đảo Lan Tự để mặt đối mặt thảo luận vấn đề chất thải hạt nhân với người Đạt Hoạt[^30]. Ngày 22 tháng 11 năm 2019, Bộ Kinh tế công bố **bồi thường hồi tưởng 2.55 tỷ đồng** ở Đài Đông （bao gồm khoảng 1974 đến 1999）[^30].
+Vào Ngày Quốc tế Người Bản địa (1 tháng 8 năm 2016), Tổng thống Thái Anh Văn đã đại diện cho chính phủ xin lỗi các dân tộc bản địa, và **vào ngày 15 tháng 8**, Thái Đăng là nguyên thủ quốc gia đầu tiên trực tiếp đến Lan Dữ để thảo luận vấn đề chất thải hạt nhân với người Đạt Hoạt[^30]. Vào ngày 22 tháng 11 năm 2019, Bộ Kinh tế đã công bố **khoản bồi thường hồi tố 2.55 tỷ Đài tệ** (bao gồm giai đoạn từ 1974 đến 1999)[^30].
 
-Lão giá Đạt Hoạt Lâm Tân Vũ từ chối ngay tại chỗ. Lời nói nguyên văn:
+Trưởng lão Đạt Hoạt Lâm Tân Vũ đã thẳng thừng từ chối. Lời nói nguyên văn:
 
-> **"Tôi trang nghiêm tuyên bố, chúng tôi không lấy một xu! Chúng tôi có khoai lang, cá bay và cây mơ, xin hãy sử dụng số tiền này để di tích kho tích tụ!"**[^31]
+> **"Tôi xin tuyên bố, chúng tôi không nhận một xu nào! Chúng tôi có khoai lang, cá bay và khoai môn, xin các vị dùng số tiền này để di dời!"**[^31]
 
-Ông tiếp tục nói:
+Ông còn nói thêm:
 
-> **"Chất thải hạt nhân một ngày không di tích khỏi Đảo Lan Tự, cái chết này, cách tuyệt chủng này sẽ tiếp tục."**[^31]
+> **"Chừng nào chất thải hạt nhân chưa được chuyển ra khỏi Lan Dữ, sự chết chóc, sự hủy diệt dân tộc này sẽ tiếp diễn."**[^31]
 
-Cho đến ngày 2026 ngày hôm nay, chất thải hạt nhân vẫn chưa di tải. 97.672 thùng tiếp tục tích tụ ở Đông Môn, Đảo Lan Tự. **Khủng bố Trắng ở Đảo Xanh dừng 36 năm, chất thải hạt nhân ở Đảo Lan Tự tích tụ 42 năm**. Hai đảo ngoài khơi của tỉnh Đài Đông, mỗi đảo gánh chịu cái giá của một thời kỳ lịch sử của Đài Loan, mà đội lúc nào đó phần lớn thời gian không có cảm nhận.
+Cho đến ngày hôm nay, năm 2026, chất thải vẫn chưa được chuyển đi. 97.672 thùng vẫn đang được lưu trữ tại Long Môn, Lan Dữ. **Thời kỳ kinh hoàng ở Lục Đảo đã kết thúc ba mươi sáu năm, còn chất thải hạt nhân ở Lan Dữ đã tồn tại bốn mươi hai năm**. Hai đảo nhỏ của huyện Đài Đông đã gánh chịu cái giá lịch sử của Đài Loan, trong khi phần lớn đất liền Đài Loan hầu như không cảm nhận được điều này.
 
 ## Làn sóng lúa ở Trí Thượng, bài hát vàng của Phổ Hỷ Ma
 
@@ -256,16 +256,16 @@ Tỉnh có mật độ dân số thấp nhất, từng ở những người sớ
 - [Tỉnh Nghi Lan](/geography/tỉnh-nghi-lan) — Loạt 22 Tỉnh Thành: Đài Loan trước và sau đường hầm Tuyết Sơn, chịu áp lực quan du lịch "mảnh đất nguyên sơ cuối cùng" giống như Đài Đông
 - [Thành phố Chiayi](/geography/thành-phố-chiayi) — Loạt 22 Tỉnh Thành: được tặng tên bởi hoàng đế nhưng dễ bị bỏ qua nhất của thành phố trực thuộc tỉnh, giống như Đài Đông là nền tảng lịch sử bị bỏ qua
 
-## Nguồn Gốc Hình Ảnh
+## Nguồn hình ảnh
 
-Bài viết này sử dụng 5 hình ảnh được cấp phép CC từ Wikimedia Commons:
+Bài viết này sử dụng 5 bức ảnh được cấp phép CC từ Wikimedia Commons, với ảnh đại diện (hero) được lưu vào `public/article-images/geography/` để tránh liên kết nóng đến máy chủ nguồn, và 4 ảnh còn lại là liên kết trực tiếp:
 
-- **Anh Hùng (frontmatter)**: [Taitung County Montage](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. Montage cảnh quan tỉnh Đài Đông, bao gồm Thành phố Đài Đông, Bãi Cát Trắng, Suối Nước Nóng Tri Bản, Đảo Xanh, Đảo Lan Tự.
-- **Cảnh §Di chỉ Bệ Nam**: [Excavation of the Peinan Site](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Cảnh khai quật quan tài đá di chỉ Bệ Nam.
-- **Cảnh §Đảo Lửa**: [Taiwan GreenIsland Human Rights Memorial Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Bia kỷ niệm nhân quyền Đảo Xanh.
-- **Cảnh §Cảnh quan Đảo Lan Tự**: [Lanyu landscape - Taiwan](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg) — Pai-Shih Lee (Bạch Sĩ Lý), 2017-07-21, CC BY 2.0. Chụp từ trên không Đảo Lan Tự.
-- **Cảnh §Thuyền lắp ghép**: [The Traditional Boat Of Tao People](<https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg>) — Cho Hsun Lu, 2015-08-02, CC BY 3.0. Thuyền lắp ghép truyền thống Đạt Hoạt.
-- **Cảnh §Làn sóng lúa Trí Thượng**: [Đại lộ Ông Brown](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) — Sinchen.Lin, 2016-09-03, CC BY 2.0. Cây Vàng Kim Thành Võ ở Đại lộ Ông Brown, Trí Thượng.
+- **Ảnh đại diện (frontmatter)**: [Taitung County Montage](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. Ảnh ghép phong cảnh Huyện Thái Đông, bao gồm Thành phố Đài Đông, Vịnh Bạch Sa, Suối nước nóng Tri Bản, Đảo Lục và Đảo Lan Tự.
+- **Cảnh §Di chỉ Bệ Nam**: [Excavation of the Peinan Site](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Hiện trường khai quật quan tài đá tại Di chỉ Bệ Nam.
+- **Cảnh §Đảo Lục**: [Taiwan GreenIsland Human Rights Memorial Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Đài tưởng niệm nhân quyền Đảo Lục.
+- **Cảnh §Địa cảnh Lan Tự**: [Lanyu landscape - Taiwan](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg) — Pai-Shih Lee (白士 李), 2017-07-21, CC BY 2.0. Ảnh toàn cảnh Đảo Lan Tự.
+- **Cảnh §Thuyền ghép**: [The Traditional Boat Of Tao People](<https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg>) — Cho Hsun Lu, 2015-08-02, CC BY 3.0. Thuyền ghép truyền thống của người Đạt Hoạt.
+- **Cảnh §Ruộng lúa Chi Thượng**: [伯朗大道](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) — Sinchen.Lin, 2016-09-03, CC BY 2.0. Cây ngàn ở Đại lộ Earl (Bó Lãng) thuộc Thị xã Chi Thượng.
 
 Điều khoản cấp phép: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
