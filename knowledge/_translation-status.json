@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T05:08:00+08:00",
-    "zhCommitHead": "d5df3719d",
+    "lastUpdated": "2026-09-09T06:03:01+08:00",
+    "zhCommitHead": "18aef3de7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 796,
-        "stale": 80,
+        "fresh": 798,
+        "stale": 78,
         "metadata_stale": 20,
         "missing": 225,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 782,
-        "stale": 85,
+        "fresh": 783,
+        "stale": 84,
         "metadata_stale": 27,
         "missing": 227,
         "orphan": 0
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 701,
+        "fresh": 702,
         "stale": 50,
         "metadata_stale": 14,
-        "missing": 356,
+        "missing": 355,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 746,
+        "fresh": 747,
         "stale": 44,
         "metadata_stale": 11,
-        "missing": 320,
+        "missing": 319,
         "orphan": 0
       },
       "de": {
@@ -83109,8 +83109,8 @@
           "sourceContentHash": "sha256:685b3a0c30829488",
           "sourceBodyHash": "sha256:dfd669296348affb",
           "translatedAt": "2026-09-08T21:07:30.272466+00:00",
-          "translationLastCommit": "7a750b2e",
-          "translationLastModified": "2026-08-09T08:40:48+08:00",
+          "translationLastCommit": "520ddb94",
+          "translationLastModified": "2026-09-09T05:08:00+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -131511,8 +131511,8 @@
           "sourceContentHash": "sha256:0de597da286e629e",
           "sourceBodyHash": "sha256:9523731d73687bb2",
           "translatedAt": "2026-09-08T19:19:46.566676+00:00",
-          "translationLastCommit": "4e9dd74e",
-          "translationLastModified": "2026-08-09T11:39:02+08:00",
+          "translationLastCommit": "520ddb94",
+          "translationLastModified": "2026-09-09T05:08:00+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -132546,18 +132546,16 @@
         "ko": {
           "path": "ko/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "32ce121bf",
-          "sourceContentHash": "sha256:5c5ae989a5cb1634",
-          "sourceBodyHash": "sha256:29eb70a9d2662cc7",
-          "translatedAt": "2026-06-09T03:23:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e1b425fa54b86b70",
+          "sourceBodyHash": "sha256:74aa4f956a297b47",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taoyuan-city.md",
@@ -133175,18 +133173,16 @@
         "ko": {
           "path": "ko/Geography/hsinchu-city.md",
           "translatedFrom": "Geography/新竹市.md",
-          "sourceCommitSha": "85634f83b",
-          "sourceContentHash": "sha256:7e6b8ee6fb86d020",
-          "sourceBodyHash": "sha256:be043e8d5036e0e2",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-08T21:16:33.590907+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/hsinchu-city.md",
@@ -133268,7 +133264,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/hsinchu-city.md",
+          "translatedFrom": "Geography/新竹市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-08T15:54:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/hsinchu-city.md",
@@ -139463,18 +139470,16 @@
         "fr": {
           "path": "fr/Geography/chiayi-county.md",
           "translatedFrom": "Geography/嘉義縣.md",
-          "sourceCommitSha": "6f28d6167",
-          "sourceContentHash": "sha256:e233ab9cc8b79527",
-          "sourceBodyHash": "sha256:8e7d5975a9ac8375",
-          "translatedAt": "2026-06-13T01:49:53+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8a5f68953035c21c",
+          "sourceBodyHash": "sha256:a01c05f219edf7a3",
+          "translatedAt": "2026-09-08T21:17:12.736030+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/chiayi-county.md",
@@ -147413,7 +147418,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-panorama-magazine.md",
+          "translatedFrom": "Culture/光華雜誌.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:76f9feb9b62dd8a1",
+          "sourceBodyHash": "sha256:b0016f60e7fc31e0",
+          "translatedAt": "2026-09-08T15:54:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/taiwan-panorama-magazine.md",
