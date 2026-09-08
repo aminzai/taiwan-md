@@ -334,3 +334,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-08 | 070846-twmd-feedback-triage | 連兩輪零新回報仍照跑 --commit，兩道對賬 84/84 與 83/84 全綠；撞見 babel writer 全程繞開 | archive-comments-synced=0 兩種根因同一長相，下面那行 comment-reconcile 才是上工的證據 | [→](memory/2026-09-08-070846-twmd-feedback-triage.md) |
 | 2026-09-08 | 090356-twmd-maintainer-am | 5 ready PR 強制升 full；4 篇翻譯 merged，3 篇 subcategory 被翻成目標語言已 heal；追上游量出十三語 1,646 篇同病、920 篇已掉進分類頁「其他」 | 守它的閘門射程宣告只看中文，而受災區 100% 住在譯文那側——沒有東西在問「保護對象在不在射程內」 | [→](memory/2026-09-08-090356-twmd-maintainer-am.md) |
 | 2026-09-09 | 003736-twmd-babel-nightly | 昨晚的 dispatcher 連續跑 23h53m 仍在產出（三重巡檢全綠），今晚讓場不重複派發 | 同一 routine 兩次排程窗口互相重疊，是排程模型跟實際續跑時長脫節的訊號 | [→](memory/2026-09-09-003736-twmd-babel-nightly.md) |
+| 2026-09-09 | 053805-twmd-routine-sync | 第 43 輪對賬 18/18 in-sync 連續第三輪零漂移；同一 dispatcher 續跑第二天，被三條不同 routine 各自撞見 | 同一訊號第三次被不同 routine 撞見，累積的是「這是結構」的證據，不是要求越界去修 | [→](memory/2026-09-09-053805-twmd-routine-sync.md) |
