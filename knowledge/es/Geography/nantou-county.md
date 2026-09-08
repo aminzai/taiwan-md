@@ -2,9 +2,7 @@
 title: 'Condado de Nantou: el único condado sin costa, el epicentro del terremoto 921 está en su centro'
 description: 'El 21 de septiembre de 1999 a la 1:47 a. m., la falla de Chelungpu bajo el municipio de Jiji se desplazó durante 102 segundos. En toda Taiwán murieron 2.415 personas; Nantou registró 886 muertos y el 90 % de los edificios del municipio de Zhongliao sufrieron daños. El 27 de octubre de 1930, durante la izada de bandera en la escuela pública de Wushe, Mona Rudao lideró a seis comunidades Seediq y mató a 134 civiles japoneses. En 1934, la presa de Wujie elevó el nivel del agua 18,18 metros y sumergió la isla Lalu, tierra sagrada de los Thao. En 1957 se terminó Zhongxing New Village como sede temporal del gobierno provincial; en 1998, la racionalización provincial lo dejó vacío, solo con la avenida de palmeras. 470.000 personas viven en este condado interior que va de 100 a 3.952 metros de altitud, donde conviven cuatro pueblos indígenas —Seediq, Bunun, Thao, Tsou— con la población Han. Las heridas más profundas de Taiwán están aquí.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Nantou',
@@ -23,19 +21,23 @@ tags:
     'Puli',
     'Serie de 22 condados',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/南投縣.md'
+series: '22 縣市系列（batch 3）'
+image: '/article-images/geography/sun-moon-lake-twilight.webp'
+imageCredit: 'Tommy.In / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG'
 translatedFrom: 'Geography/南投縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c80f3accc7342bb8'
-sourceBodyHash: 'sha256:9116715a2d516221'
-translatedAt: '2026-06-16T17:05:07Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:3e20b5d7cae61e95'
+sourceBodyHash: 'sha256:b09f70f5d82caaa2'
+translatedAt: '2026-09-08T03:29:55.862100+00:00'
 ---
 
 # Condado de Nantou: el único condado sin costa, el epicentro del terremoto 921 está en su centro
@@ -62,25 +64,25 @@ _The Reporter_ rastreó después el total de daños: «**Los daños del 921 asce
 
 El Festival de Medio Otoño fue cuatro días después del 921. La luna brillaba sobre la ciudad de montaña sin electricidad.
 
-## El único condado sin costa, de 100 a 3.952 metros
+## El único sin costa, desde 100 metros hasta 3,952 metros
 
-![Atardecer en el lago Sun Moon. El lago artificial formado tras la elevación del nivel del agua 18,18 metros por la presa de Wujie en 1934, que inundó el asentamiento original Shiyin de los Thao y las tierras agrícolas alrededor de la isla Lalu. La superficie del lago que ven los turistas hoy es una "naturaleza" reescrita por la ingeniería.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG)
-_Atardecer en el lago Sun Moon. Foto: colaborador de Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
+![Atardecer en el lago Sun Moon. Lago artificial formado tras la subida del nivel de agua a 18.18 metros por la presa Wujie en 1934, inundando los asentamientos indígenas Seediq y las tierras agrícolas alrededor de la Isla Lalu. La superficie que ven los turistas hoy es una "naturaleza" reescrita por la ingeniería.](/article-images/geography/sun-moon-lake-twilight.webp)
+_Atardecer en el lago Sun Moon. Foto: Tommy.In / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
 
-Nantou es el **único condado de los 22 municipios de la isla principal de Taiwán que no tiene costa**.
+Nantou es **el único condado** de los 22 condados y ciudades de la isla principal de Taiwán que no tiene costa.
 
-De la frontera occidental con el condado de Changhua a la frontera oriental con el condado de Hualien, Nantou tiene 95 km de norte a sur y 72 km de este a oeste, con una superficie de 4.106 km², el segundo condado más grande de Taiwán después de Hualien[^7]. La altitud va desde los aproximadamente 100 a 150 metros de la ciudad de Nantou hasta los 3.952 metros del pico principal del monte Yushan. El 83 % del condado es terreno montañoso y hay pocas llanuras. De los 13 municipios y distritos, Xinyi y Ren'ai son municipios de montaña, y Yuchi es un municipio de llanura indígena.
+Desde el límite del condado de Changhua al oeste hasta el límite del condado de Hualien al este, Nantou mide 95 kilómetros de norte a sur y 72 kilómetros de este a oeste, con una superficie de 4,106 kilómetros cuadrados; es el segundo condado más grande de Taiwán, solo después de Hualien[^7]. La altitud varía desde aproximadamente 100 a 150 metros en la ciudad de Nantou hasta los 3,952 metros del pico principal de Yushan. Las laderas ocupan el 83% del condado, y las zonas planas son escasas. De sus 13 distritos municipales, Xinyi y Ren'ai son condados montañosos, mientras que Yuci es un condado indígena de tierras bajas.
 
-El río Zhuoshui es el río más largo de Taiwán, con 186,4 km, que nace en el «collado de Sakuma» (a 3.220 m de altitud) entre los picos principal y oriental del monte Hehuan, y desciende atravesando ocho municipios de Nantou[^7]. La carretera provincial 14A asciende hasta el collado de 3.275 metros entre los picos principal y oriental del monte Hehuan, llamado Wuling, el punto más alto de las carreteras de Taiwán.
+El río Zhuo es el río más largo de todo Taiwán, con 186.4 kilómetros, y nace en la "silla de selle de Zoukuan" entre los picos principales de Hehuan y Dongfeng (a 3,220 metros de altitud), fluyendo a través de 8 distritos municipales de Nantou[^7]. La carretera Tai 14 Jia asciende hasta los 3,275 metros en la silla de selle entre el pico principal de Hehuan y Dongfeng, conocida como Wuling, que es el punto más alto de una carretera en Taiwán.
 
-470.000 personas viven en este condado (cifra de 2025)[^7]. La proporción de población mayor de 65 años es del 22,51 %, el tercer condado más envejecido de Taiwán. Los jóvenes de las zonas montañosas emigran constantemente.
+Hay 470,000 habitantes en este condado (cifra de 2025)[^7]. La tasa de población mayor de 65 años es del 22.51%, lo que lo convierte en el tercer condado con la edad más avanzada en todo Taiwán. Los jóvenes de las zonas montañosas emigran constantemente.
 
-> **📝 Nota del curador:** «No tener costa» suena como un defecto. Pero en 1957, cuando el gobierno del Kuomintang eligió Zhongxing New Village como sede temporal del gobierno provincial, una de las razones fue que era **suficientemente interior**: en caso de guerra a través del estrecho que afectara Taipéi, el gobierno provincial no sería destruido junto con el centro. El interior era respaldo, era seguridad. Y luego, el 21 de septiembre de 1999 a la 1:47 a. m., la herida interna más profunda de la posguerra de Taiwán estalló desde el centro de este condado «más interior». El significado físico del interior fue redefinido en 102 segundos: pensabas que alejarte de la guerra te alejaba del desastre, pero la falla de Chelungpu no elige bandos.
+> **📝 Nota del curador:** "Sin costa" suena como un defecto. Pero en 1957, el gobierno nacional seleccionó Zhongxing New Village como oficina temporal del gobierno provincial por una razón: era lo **suficientemente interior**: si la guerra entre ambos lados afectaba a Taipéi, el gobierno provincial no caería junto con el central. El interior es reserva, es seguridad. Luego, a la 01:47 del 21 de septiembre de 1999, la herida interna más profunda de la posguerra de Taiwán estalló en el centro de este condado "más interior". El significado físico del interior fue redefinido en 102 segundos: creías que estar lejos de la guerra significaba estar lejos del desastre, pero la falla de Chuanlu no hace distinción.
 
-La historia de este condado está ordenada por altitud. El canal Babao en la llanura, Wushe en la ladera, la isla Lalu bajo la superficie del lago, el monte Yushan a 3.952 metros: en cada capa de altitud se apila una historia.
+La historia de este condado está ordenada por altitud. Los ocho pozos planos, Wushe en las laderas, la Isla Lalu bajo el lago y Yushan a 3,952 metros; cada nivel de altitud alberga una historia.
 
-![Paisaje de alta montaña en la zona del pico principal del monte Hehuan; Wuling, a 3.275 metros, se encuentra en el collado entre los picos principal y oriental. Este punto de la carretera provincial 14A es el más alto de Taiwán y uno de los pocos lugares de la isla principal donde nieva en invierno.](/article-images/geography/nantou-01.webp)
-_Paisaje del monte Hehuan. Foto: Chewy3326, CC BY 2.5. [vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
+![Paisaje montañoso alrededor del pico principal de Hehuan, con Wuling a 3,275 metros situado en la silla de selle entre los picos principales de Hehuan y Dongfeng. Este punto de la carretera Tai 14 Jia es el punto más alto de una carretera en Taiwán; es uno de los pocos lugares en la isla principal de Taiwán donde se puede ver nieve cada invierno.](/article-images/geography/nantou-01.webp)
+_Paisaje de Hehuan. Foto: Chewy3326, CC BY 2.5. [vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
 
 ## El agua del canal Babao, desde el reinado de Kangxi hasta el municipio de Mingjian
 
@@ -128,34 +130,34 @@ En 2011 se estrenó _Seediq Bale_ de Wei Te-sheng, con una taquilla mundial de 8
 
 Pero hoy, al visitar Wushe, lo que se ve es un destino turístico: el Parque Conmemorativo de Mona Rudao, el Monumento al Incidente de Wushe, la comunidad Qingliu. La herida del pueblo Seediq ha sido convertida en una ruta paisajística para fotografías.
 
-## La presa de Wujie elevó el nivel 18,18 metros; la isla Lalu de los Thao se convirtió en un islote de 30 metros
+## El dique de Wujie se elevó 18.18 metros, y la isla Lalu de los Thao se convirtió en una isla solitaria de 30 metros
 
-El 3 de junio de 1934 se completó la primera central hidroeléctrica del lago Sun Moon (actual Daguanying Daguanyi de la central hidroeléctrica Daguanying). Capacidad de generación: 143.500 kW, «**en su momento la mayor instalación hidroeléctrica de Asia y la séptima del mundo**»[^13].
+El 3 de junio de 1934, la Primera Central Hidroeléctrica del Lago Sun Moon (actual Planta Dagan Uno) fue completada. Con una capacidad de generación de 143,500 kilovatios, fue descrita como "**la instalación hidroeléctrica más grande de Asia y la séptima del mundo en ese momento**" [^13].
 
-Desde la fundación de la Compañía Eléctrica de Taiwán en 1919, que incluyó el proyecto hidroeléctrico del lago Sun Moon como plan prioritario, hasta el Gran Terremoto de Kanto de 1923 que aumentó el presupuesto y detuvo la obra, y la reanudación en 1931 con un plan revisado, se construyó una presa de gravedad de hormigón en Wujie, municipio de Ren'ai, en el curso alto del río Zhuoshui (presa de Wujie, altura 57,6 m, longitud 90,91 m, 6 compuertas), y se excavó un túnel de conducción para llevar el agua al lago Sun Moon[^13]. El mayor proyecto hidráulico de la era colonial japonesa tardó 15 años.
+Desde que Taiwan Electric Company se estableció en 1919 e incluyó el proyecto hidroeléctrico del Lago Sun Moon como prioridad, pasando por la paralización del proyecto debido al gran aumento de presupuesto tras el terremoto de Kanto en 1923 y la corrección del plan en 1931, se construyó el dique de concreto de gravedad en Wujie, ubicado en Ren'ai Township río arriba del río Zhuo Shui (Dique de Wujie, con una altura de 57.6 metros y un largo de 90.91 metros, con 6 compuertas), y se excavó un túnel de conducción para enviar el agua al Lago Sun Moon [^13]. La mayor obra hidráulica del período colonial japonés tardó 15 años en completarse.
 
-En septiembre de 1934, el canal de conducción de Wujie comenzó a verter agua; **el nivel del lago Sun Moon subió 18,18 metros**[^13].
+En septiembre de 1934, cuando comenzó a fluir el conducto de Wujie, **el nivel del Lago Sun Moon aumentó en 18.18 metros** [^13].
 
-La superficie del lago pasó de 4,55 km² a 7,73 km². La página histórica del sitio web turístico del lago Sun Moon registra textualmente el impacto en los Thao: «**El nivel del agua elevado inundó los asentamientos tradicionales y tierras de cultivo de los Thao; los japoneses reasentaron a los Thao en la comunidad Dehua, asignando solo dos fen de tierra por varón adulto, y la población Thao disminuyó gradualmente.**»[^14]
+La superficie del lago se expandió de 4.55 kilómetros cuadrados a 7.73 kilómetros cuadrados. La página histórica de la red turística del Lago Sun Moon registra palabra por palabra el impacto en los Thao: "**El aumento del nivel del agua inundó las comunidades tradicionales y las tierras de cultivo de los Thao; los japoneses reubicaron a los Thao en Dehua Township, asignando solo dos _fen_ (una pequeña parcela) a cada familia, y la población de los Thao disminuyó gradualmente**" [^14].
 
-Los Thao vivían originalmente en el asentamiento Shiyin en el lado este del lago Sun Moon, con tierras agrícolas distribuidas alrededor del lago. **El año que subió el nivel del agua, sus hogares quedaron inundados.**
+Los Thao vivían originalmente en la comunidad de Shi Yin al este del Lago Sun Moon, y sus tierras agrícolas estaban distribuidas alrededor del lago. **En el año en que subió el nivel del agua, sus hogares fueron inundados**.
 
-La isla Lalu es el pequeño islote en el centro del lago Sun Moon, el lugar más sagrado de los ancestros Thao. Lalu significa en lengua Thao «**isla sagrada del corazón**»[^15]. En la era colonial japonesa se llamó «isla Gyoku»; después de la guerra, en 1949, el Kuomintang la renombró «isla Guanghua» (por «glorificar China»). Pasó de ser cien jia de tierra agrícola a un islote de 30 metros de diámetro después del proyecto hidráulico. **Pasó de isla sagrada a un pequeño islote alrededor del cual los barcos turísticos tomaron fotos, en 15 años.**
+La isla Lalu es una pequeña isla en el centro del Lago Sun Moon y el lugar ancestral más sagrado de los Thao. En la lengua Thao, Lalu significa "**isla sagrada del corazón**" [^15]. Durante el período colonial japonés se le llamó "Isla Yu", y después de 1949, el Kuomintang la renombró "Isla Guanghua" (con el significado de "Brillo Glorioso para China"). Se redujo a una isla solitaria de 30 metros de diámetro tras la construcción del embalse, partiendo de las tierras agrícolas originales de cien _jia_. **Se tardaron 15 años en que esta isla pasara de ser un lugar sagrado a una pequeña isla rodeada de fotografías tomadas por barcos turísticos**.
 
-![Isla Lalu, agosto de 2013. El pequeño islote en el centro del lago Sun Moon, el lugar más sagrado de los ancestros Thao, Lalu, «isla sagrada del corazón». Antes de que la presa de Wujie elevara el nivel 18,18 metros en 1934, originalmente era tierra agrícola de cien jia de los Thao; hoy se ha reducido a un islote de 30 metros de diámetro, alrededor del cual los barcos turísticos toman fotos. En 2000 recuperó su nombre original Lalu, tras haberse llamado «isla Guanghua».](/article-images/geography/nantou-01.webp)
-_Isla Lalu, 19 de agosto de 2013. Foto: Ckbun, CC BY-SA 3.0. [vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
+![Isla Lalu, la pequeña isla en el centro del Lago Sun Moon, el lugar ancestral más sagrado de los Thao. Antes de que el dique de Wujie subiera 18.18 metros en 1934, era tierra agrícola de cien *jia* para los Thao. Hoy es una isla solitaria de 30 metros de diámetro, rodeada por barcos turísticos. En 2000 se restauró su nombre a Lalu desde "Isla Guanghua".](/article-images/geography/nantou-lalu-island-2013.webp)
+_Isla Lalu, 19 de agosto de 2013. Foto: Ckbubutp, CC BY-SA 3.0. [vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
 
-En 2000, los Thao lograron que la isla Guanghua recuperara su nombre original, «Lalu»[^15]. Al año siguiente, el 8 de agosto de 2001, los Thao fueron reconocidos oficialmente como el **décimo pueblo indígena** de Taiwán. ⚠️ La cifra de población Thao varía según el año: el Departamento de Asuntos Civiles del Ministerio del Interior registró 776 personas en 2017, otras estadísticas rondan las 885; este artículo utiliza «**aproximadamente 800 personas**», el tercer pueblo indígena menos numeroso de los 16 reconocidos en Taiwán[^16].
+En el año 2000, los Thao lucharon por restaurar el nombre de Isla Guanghua a "Isla Lalu" [^15]. Al año siguiente, el 8 de agosto de 2001, los Thao fueron renombrados como **el décimo pueblo indígena**. ⚠️ La cifra de población de los Thao varía según el año: el Departamento de Registro Civil del Ministerio del Interior reportó 776 personas en 2017, y otras estadísticas rondan las 885; este artículo utiliza "**aproximadamente más de 800**", siendo el tercer grupo menos numeroso entre los 16 pueblos indígenas de Taiwán [^16].
 
-> **✦** «**El nivel del agua elevado inundó los asentamientos tradicionales y tierras de cultivo de los Thao; los japoneses reasentaron a los Thao en la comunidad Dehua, asignando solo dos fen de tierra por varón adulto.**» (Página histórica del sitio web turístico del lago Sun Moon[^14])
+> **✦** "**El aumento del nivel del agua inundó las comunidades tradicionales y las tierras de cultivo de los Thao; los japoneses reubicaron a los Thao en Dehua Township, asignando solo dos _fen_ (una pequeña parcela) a cada familia**" (Página histórica de la red turística del Lago Sun Moon [^14]).
 
-La superficie del lago que ven los turistas hoy en el lago Sun Moon es una «naturaleza» **elevada 18,18 metros** por la ingeniería. El llamado «paseo en barco por el lago Sun Moon» rodea campos que fueron inundados a los Thao hace 91 años.
+El cuerpo de agua que los turistas ven hoy en el Lago Sun Moon es una "naturaleza" reescrita por la ingeniería, **elevada 18.18 metros**. El supuesto "paseo en barco por el Lago Sun Moon" rodea los campos inundados hace 91 años por los Thao.
 
-El pueblo Bunun vive en el otro lado de Nantou: el municipio de Xinyi. Se distribuyen a lo largo de la cuenca del río Chenyoulan en cinco comunidades: Zhuoshe, Kashe, Danshe, Luanshe y Junshe[^17]. La comunidad Zhuoshe vive en Jiumei (el norte de Xinyi), la comunidad Kashe en Shuanglong-Dili, la comunidad Danshe en el curso alto del río Chenyoulan en Dili, la comunidad Luanshe en Wangxiang-Xinxiang-Fengqiu, y la comunidad Junshe en Dongpu-Luona. El pasibutbut (canto de ocho partes) «**solo se transmite entre las comunidades Luanshe y Junshe del pueblo Bunun**»; Danshe, Kashe y Zhuoshe no lo cantan[^17]. ⚠️ La publicidad turística general suele presentar el «canto de ocho partes» como símbolo de todo el pueblo Bunun, pero en realidad solo dos comunidades lo cantan. La comunidad Mingde (mezcla de Luanshe y Junshe) es actualmente la tribu más cercana al lugar de origen ancestral de los Bunun que puede interpretar el pasibutbut.
+Los Bunun viven en otra parte de Nantou: Xinyi Township. Los cinco clanes (Zhuo, Ka, Dan, Luan y Jun) se distribuyen a lo largo de la cuenca del río Chen Youlan [^17]. El clan Zhuo vive en Qumei Village (el más al norte de Xinyi), el clan Ka en Ziliang, el clan Dan río arriba del río Chen Youlan en Dili, el clan Luan en Xinxiang, y el clan Jun en Luona de Dongpu. Pasibutbut ("canto a ocho voces") "**solo se transmite en los clanes Luan y Jun**"; los clanes Dan, Ka y Zhuo no lo cantan [^17]. ⚠️ La promoción turística general a menudo utiliza "Pasibutbut" como un símbolo de todos los Bunun, pero en realidad solo dos clanes lo cantan. El pueblo Mingde (donde conviven los clanes Luan y Jun) es el único lugar donde se puede cantar Pasibutbut actualmente y que está más cerca del asentamiento original de los ancestros Bunun.
 
-El este del municipio de Xinyi también alberga el territorio tradicional del pueblo Tsou. El Parque Nacional Yushan se encuentra en esta zona. **El Parque Nacional Yushan abarca cuatro condados**: municipio de Xinyi en Nantou, municipio de Alishan en Chiayi, municipio de Taoyuan en Kaohsiung, **y municipio de Zhuoxi en Hualien**[^18]. ⚠️ Las descripciones generales a menudo omiten la parte de Zhuoxi en Hualien, pero el área real del parque se extiende hasta la esquina sureste de Hualien. Fue establecido el 10 de abril de 1985, con una superficie de 105.490 hectáreas, el parque nacional más grande de Taiwán.
+Al este de Xinyi Township también hay territorio tradicional del pueblo Tsou, y el Parque Nacional Yushan se encuentra en esta área. **El Parque Nacional Yushan abarca cuatro municipios**: Xinyi Township, Nantou County; Alishan Township, Chiayi County; Taoyuan District, Kaohsiung City; y **Zhuoxi Township, Hualien County** [^18]. ⚠️ Las descripciones generales a menudo omiten la parte de Zhuoxi, Hualien, pero el alcance real del parque se extiende al extremo sureste de Hualien. Fundado el 10 de abril de 1985, tiene una superficie de 105,490 hectáreas y es el parque nacional más grande de Taiwán.
 
-En este único condado sin costa de Nantou, viven cuatro pueblos indígenas —Seediq, Bunun, Thao, Tsou— junto con la población Han (Minnan y Hakka). Los municipios de montaña representan 2 de los 13 municipios, pero el área de estos 2 municipios supera con creces la suma de los otros 11.
+En Nantou, el único condado sin costa, viven cuatro pueblos indígenas: Seediq, Bunun, Thao y Tsou, además de los Han (Min y Hakka). Las áreas montañosas ocupan 2 de los 13 townships, pero estas 2 localidades tienen una superficie mucho mayor que las otras 11 juntas.
 
 ## La avenida de palmeras de Zhongxing New Village sigue en pie
 
@@ -253,16 +255,16 @@ Después de esos 102 segundos a la 1:47 a. m., Nantou no se convirtió en ruinas
 - [Condado de Keelung](/es/geography/keelung-city) — Piloto de la serie de 22 condados: del séptimo puerto de contenedores del mundo en 1984 al puesto 113 en 2018, un condado igualmente omitido por la narrativa central
 - [Condado de Miaoli](/es/geography/miaoli-county) — Hermano interior del lote 1 de la serie de 22 condados: la tenacidad Hakka frente a la deuda duplicada del tesoro del condado, enfrentando el mismo doble dilema de «emigración de población montañesa + teatro político»
 
-## Fuentes de las imágenes
+## Fuentes de imágenes
 
-Este artículo utiliza 5 imágenes con licencia CC de Wikimedia Commons, enlazadas directamente desde el servidor de carga de Wikimedia:
+Este artículo utiliza 5 imágenes con licencia CC de Wikimedia Commons; la imagen principal (hero) se almacena en `public/article-images/geography/` para evitar enlaces directos a servidores, y las otras 4 se enlazan directamente desde el servidor de subida de Wikimedia:
 
-- **Hero (frontmatter):** [Sun Moon Lake in Twilight](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG) — Foto: Tommy.In, CC BY-SA 3.0. Atardecer en el lago Sun Moon, lago artificial formado tras la elevación de 18,18 metros por la presa de Wujie en 1934.
-- **Escena §El único sin costa (lago Sun Moon):** Igual que hero — repetida en el texto como ancla visual de base geográfica.
-- **Escena §El único sin costa (monte Hehuan):** [Hehuanshan Cuesta](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG) — Foto: Chewy3326, CC BY 2.5. Zona del pico principal del monte Hehuan; Wuling a 3.275 metros es el punto más alto de las carreteras de Taiwán.
-- **Escena §Presa de Wujie (isla Lalu):** [2013 年 8 月 19 日拉魯島](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG) — Foto: Ckbun, CC BY-SA 3.0. Isla sagrada Thao en el centro del lago Sun Moon, recuperó su nombre original Lalu en 2000 tras haberse llamado «isla Guanghua».
-- **Escena §Zhongxing New Village:** [Taiwan JhongSing Village Paifang](https://commons.wikimedia.org/wiki/File:Taiwan_JhongSing_Village_Paifang.JPG) — Arco de entrada a Zhongxing New Village, construido en 1957 siguiendo el modelo británico de nueva ciudad, testimonio físico de la era del gobierno provincial. CC BY-SA 2.5.
-- **Escena §Municipio de Zhongliao (Museo 921):** [921 Earthquake Museum of Taiwan 2024-09-21](https://commons.wikimedia.org/wiki/File:921_Earthquake_Museum_of_Taiwan_2024-09-21.jpg) — Foto: Liu Shu-fu / Oficina de la Presidencia, CC BY 2.0. Museo Educativo del Terremoto 921, sitio de preservación de la falla de Chelungpu en la antigua escuela secundaria Guangfu en Wufeng, Taichung.
+- **Hero (frontmatter)**: [Sun Moon Lake in Twilight](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG) — Foto: Tommy.In, CC BY-SA 3.0. Lago Sun Moon al atardecer, un lago artificial formado después de que la presa Wujie alcanzara una altura de 18.18 metros en 1934.
+- **Scene §Único sin mar (Sun Moon Lake)**: Igual que el hero — se muestra repetidamente en el texto como anclaje visual geográfico.
+- **Scene §Único sin mar (Hehuanshan)**: [Hehuanshan Cuesta](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG) — Foto: Chewy3326, CC BY 2.5. La zona del pico principal de Hehuanshan; Wuling, con una altitud de 3,275 metros, es el punto más alto de la carretera en Taiwán.
+- **Scene §Presa Wujie (Isla Lâru)**: [Isla Lâru el 19 de agosto de 2013](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG) — Foto: Ckbun, CC BY-SA 3.0. Isla sagrada Shaow en el centro del Lago Sun Moon, renombrada a Lâru en 2000 desde "Guanghua Island".
+- **Scene §Aldea Zhongxing (Zhongxing Xin Cun)**: [Taiwan JhongSing Village Paifang](https://commons.wikimedia.org/wiki/File:Taiwan_JhongSing_Village_Paifang.JPG) — El arco de entrada de la Aldea Zhongxing, construido en 1957 siguiendo el modelo de ciudad nueva británica, un testigo físico de la era del gobierno provincial. CC BY-SA 2.5.
+- **Scene §Condado Zhongliao (Campus Educativo 921)**: [921 Earthquake Museum of Taiwan 2024-09-21](https://commons.wikimedia.org/wiki/File:921_Earthquake_Museum_of_Taiwan_2024-09-21.jpg) — Foto: Liu Shu-fu / Office of the President, CC BY 2.0. El campus educativo del terremoto de 921, sitio de preservación de la falla Carongpo en la escuela secundaria Guangfu de Taichung.
 
 Términos de licencia: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/).
 

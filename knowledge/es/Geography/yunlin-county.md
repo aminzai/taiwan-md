@@ -2,9 +2,7 @@
 title: 'Condado de Yunlin: lo que Yilan decidió rechazar, Yunlin lo pagó con treinta años de pulmones'
 description: 'El 13 de diciembre de 1987, Chen Ding-nan bloqueó la entrada del Sexto Complejo de Craqueo de Nafta a Yilan en un estudio de CTS; el 26 de junio de 1991, el Yuan Ejecutivo aprobó trasladarlo al mar frente a Mailiao, Yunlin; en julio de 1994 comenzó formalmente la construcción; en 1998 se encendió la primera fase, y hasta hoy se han ganado 2.255 hectáreas al mar. En 2011, el equipo de Chan Chang-chuan, de la Escuela de Salud Pública de la Universidad Nacional de Taiwán, encontró que la incidencia de cáncer entre residentes a 10 kilómetros del complejo era 1,29 veces la media de todo Taiwán. Pero en el mismo condado, el templo Beigang Chaotian ya veneraba a Mazu desde 1694, año 33 del reinado Kangxi de la dinastía Qing, hace 332 años; y el 28 de enero de 1953, acero de la ayuda estadounidense sostuvo los 1.939 metros del puente Xiluo. Un solo condado es, al mismo tiempo, sede de uno de los templos de Mazu más antiguos de Taiwán, uno de sus graneros más importantes y su mayor reino petroquímico.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Yunlin',
@@ -22,19 +20,23 @@ tags:
     'río Zhuoshui',
     'serie de 22 condados y ciudades',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/雲林縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp'
+imageCredit: 'Mk2010 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg'
 translatedFrom: 'Geography/雲林縣.md'
-sourceCommitSha: '036da279d'
-sourceContentHash: 'sha256:68dcc74d52d8c737'
-sourceBodyHash: 'sha256:24b0d8d16f592539'
-translatedAt: '2026-05-18T05:08:09+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg
-imageCredit: Mk2010
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:189f50627b664502'
+sourceBodyHash: 'sha256:7144cde6e4cd475f'
+translatedAt: '2026-09-08T02:49:37.750299+00:00'
 ---
 
 # Condado de Yunlin: lo que Yilan decidió rechazar, Yunlin lo pagó con treinta años de pulmones
@@ -53,22 +55,22 @@ Conduce treinta y cinco kilómetros tierra adentro y llegas al templo Beigang Ch
 
 Este artículo quiere empezar desde esa línea costera. Porque en ese paisaje están escondidos dos momentos clave de Yunlin: uno impidió que la llanura de Lanyang se convirtiera en una zona petroquímica; el otro convirtió el mar frente a Mailiao en el mayor reino petroquímico de Taiwán. Entre ambos momentos hay 200 kilómetros de distancia física y 4 años de distancia temporal, pero una sola línea causal.
 
-## Tres abanicos aluviales y una tierra artificial: la geografía de Yunlin fue escrita por el agua y el capital
+## El delta de San Tiao y un terreno artificial: la geografía de Yunlín escrita por el agua y el capital
 
-El condado de Yunlin queda encajado entre el extremo norte de la llanura de Chianan y el extremo sur de la llanura de Changhua. Al norte está el río Zhuoshui; al sur, el río Beigang. Los 1.290,83 kilómetros cuadrados entre ambos ríos forman este condado[^7].
+El condado de Yunlín se sitúa entre el extremo norte de la llanura de Chiayi-Nantou y el extremo sur de la llanura de Changhua. Al norte está el río Zhuoshui, al sur el río Beigang; los 1,290.83 kilómetros cuadrados situados entre estos dos ríos constituyen este condado[^7].
 
-El relieve se divide en tres franjas:
+El terreno se divide en tres tramos:
 
-La llanura aluvial del Zhuoshui se extiende de este a oeste: Douliu, Dounan, Huwei, Xiluo, Lunbei y Mailiao. La capa de tierra negra es profunda y rica en minerales. Esta tierra fue confirmada por los ensayos agrícolas del periodo japonés como una de las zonas más aptas para producir arroz Penglai; en 1932, año 7 de la era Showa, la producción anual de arroz Penglai en la zona de Xiluo, Yunlin, ya hacía de ella uno de los principales graneros de Taiwán[^9]. El abanico aluvial del Beigang se extiende desde Beigang hacia Shuilin, Yuanchang y Kouhu; su suelo arenoso y franco es más somero, y tradicionalmente se sembraron allí maní y cereales secundarios[^7]. Más al este, hacia Gukeng y Linnei, las colinas de 200 a 800 metros de altitud tienen un clima más fresco: fue el terreno montañoso escogido en la década de 1930, durante el periodo japonés, para promover el cultivo de café[^10].
+El delta del río Zhuoshui se extiende de este a oeste, pasando por Douliu, Dounan, Huwei, Xiluo, Lunbei y Mailiao; el estrato de tierra negra es grueso y rico en minerales. Esta área fue confirmada por los ensayos agrícolas japoneses como la zona óptima para producir arroz Penglai, y en 1932 (Año 7 del Shōwa) la producción anual de arroz Penglai en la región de Xiluo, Yunlín, ya era uno de los principales graneros de Taiwán[^9]. El delta del río Beigang se extiende desde Beigang hacia Shuilin, Yuanzhang y Kouhu; el suelo arenoso es más delgado y está dedicado tradicionalmente al cultivo de cacahuetes y cereales[^7]. Más al este, en Gukeng y Linnei, hay colinas con altitudes entre 200 y 800 metros, un clima fresco que fue seleccionado por los japoneses para cultivar café en la década de 1930[^10].
 
-La cuarta franja es artificial. Desde 1991 se empezó a rellenar el mar frente a Mailiao; para 1998 se completó la primera fase, con unas 2.255 hectáreas ganadas al mar. Si se incluyen las instalaciones portuarias, la superficie total llega a 2.603 hectáreas[^5]. ⚠️ Las “3.400 hectáreas” escritas en Stage 0 no tienen fuente fiable; tanto el gobierno del condado de Yunlin como los datos públicos de Formosa Plastics usan en paralelo las cifras de 2.255 / 2.603. Esta corrección es importante porque hace treinta años ese mar no existía como tierra.
+El cuarto tramo es artificial. La construcción de tierra en el mar exterior de Mailiao comenzó en 1991, completando la primera fase en 1998, con una extensión aproximada de 2,255 hectáreas; si se incluyen las instalaciones portuarias, el área total asciende a 2,603 hectáreas[^5].⚠️ La cifra de "3,400 hectáreas" mencionada en la Etapa 0 no tiene una fuente confiable; tanto la Oficina del condado de Yunlín como los datos públicos de Formosa Plastics presentan las cifras de 2,255 / 2,603. Esta corrección es importante porque este mar no existía hace treinta años.
 
-Administrativamente hay 20 municipios: 1 ciudad administrada por el condado (Douliu), 4 pueblos urbanos (Dounan, Huwei, Xiluo, Beigang) y 15 municipios rurales. La sede del condado está en Douliu; el pueblo urbano más poblado es Huwei; la población total es de 648.459 personas (estadísticas de registro domiciliario de abril de 2026)[^7].
+Administrativamente, hay 20 distritos: una ciudad con estatus de municipio (Douliu) más 4 distritos (Dounan, Huwei, Xiluo, Beigang) y 15 aldeas. La capital del condado es Douliu; el distrito con mayor población es Huwei, con un total de 648,459 habitantes (Estadísticas de registro civil de abril de 2026)[^7].
 
-Hay que hablar en particular del invierno en la costa occidental. Cada año, de noviembre a marzo, el monzón del noreste sopla desde el estrecho de Taiwán y produce en el oeste de Yunlin un clima típico de alternancia entre “niebla densa y vientos fuertes”. En Mailiao, Taixi y Kouhu la visibilidad cae con frecuencia por debajo de 500 metros. Es la estación en que peor se dispersan los gases del Sexto Craqueador y también la de mayor carga para los pulmones[^11]. En cuanto a lluvias, la costa occidental recibe unos 1.200 milímetros anuales, relativamente poco; las colinas orientales pueden superar los 2.500 milímetros. Esa diferencia hace que la estructura agrícola de Yunlin sea completamente distinta de este a oeste.
+Hay que hablar especialmente de la costa occidental en invierno. Cada año, entre noviembre y marzo del año siguiente, los vientos del noreste soplan desde el Estrecho de Taiwán hacia Yunlín, presentando un clima típico de "niebla densa y viento fuerte" alternado. La visibilidad en las áreas de Mailiao, Taixi y Kouhu a menudo desciende por debajo de los 500 metros; esta es la estación con la peor dispersión de gases de Sixian y también la más exigente para el sistema respiratorio[^11]. En cuanto a la distribución de lluvias, la costa occidental recibe aproximadamente 1,200 milímetros anuales, lo cual es escaso, mientras que las colinas orientales pueden recibir más de 2,500 milímetros; esta disparidad hace que la estructura agrícola de Yunlín sea completamente diferente de este a oeste.
 
-![Complejo del Sexto Craqueador en Mailiao, fotografiado en 2010. Aprobado por el Yuan Ejecutivo en 1991, iniciado en 1994 y con la primera fase encendida en 1998, con 2.255 hectáreas ganadas al mar.](https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg)
-_Complejo industrial del Sexto Craqueador en Mailiao, 2010. Photo: Mk2010, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
+![Complejo industrial de Mailiao en Sixian, foto tomada en 2010. Área rellenada: 2,255 hectáreas (aprobado por el Consejo Ejecutivo en 1991, inauguración en 1994, primera puesta en marcha en 1998).](/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp)
+_Zona industrial de Mailiao en Sixian, 2010. Foto: Mk2010 / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
 
 ## La raíz de Bengang: el año en que Mazu cruzó el mar desde Meizhou
 
@@ -240,12 +242,12 @@ La próxima vez que vayas a Yunlin, no vayas solo a Gukeng a tomar café. Prueba
 
 ## Fuentes de imágenes
 
-Este artículo usa 4 imágenes con licencia CC de Wikimedia Commons:
+Este artículo utiliza 4 imágenes con licencia CC de Wikimedia Commons, y la imagen principal se almacena en `public/article-images/geography/` para evitar enlaces directos a servidores:
 
-- **Hero (frontmatter)**: [Formosa Plastics Group Mail-Liao Industrial Complex](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>) (Mk2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), complejo industrial del Sexto Craqueador en Mailiao)
-- **Escena §Bengang en 1694**: [Beigang Chaotian Temple-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg) (阿道, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), templo Beigang Chaotian en septiembre de 2024)
-- **Escena §La primera chimenea de 1909**: [Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg) (WC-QHS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), azucarera de Huwei en 2018)
-- **Escena §28 de enero de 1953**: [Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg) (JianEn Yu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), puente Xiluo en agosto de 2014)
+- **Imagen principal (frontmatter)**: [Complejo industrial Mail-Liao del Grupo Formosa Plastics](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>) (Mk2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), Parque industrial Mailiao de Beigang)
+- **Escena §1694 Bengang**: [Templo Beigang Chaotian-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg) (Adao, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Templo Beigang Chaotian en septiembre de 2024)
+- **Escena §1909 Primera chimenea**: [Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg) (WC-QHS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Fábrica de azúcar de Huwei en 2018)
+- **Escena §1953 28 de enero**: [Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg) (JianEn Yu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Puente Xiluo en agosto de 2014)
 
 ## Material audiovisual
 

@@ -2,9 +2,7 @@
 title: 'Hualien: 129 años de invisibilidad del pueblo Sakizaya, el Taroko recuperado por el reconocimiento oficial, y el 0403 que lo volvió a alejar'
 description: 'En 1878, el ejército Qing ató al jefe del clan Dagohuwan, Komod Pazik, a un árbol de banyan para ejecutarlo en pedazos; el pueblo Sakizaya se escondió entre los Amis durante 129 años. En 2004, el pueblo Taroko emergió de los Atayal para convertirse en la duodécima etnia; en 2007, el gobierno de Chen Shui-bian reconoció a los Sakizaya como la decimotercera etnia. El 3 de abril de 2024, a las 7:58 a. m., el terremoto de magnitud 7.1 destruyó de golpe la Boca de las Golondrinas, la Gruta de los Nueve Recodos y el sendero Sakadang del Parque Nacional Taroko. En 2024, los turistas fueron solo 210.000, frente a los 6,6 millones de un año normal. En una tierra de apenas 5 kilómetros de ancho entre mar y montaña, el destino de las seis etnias indígenas siempre ha temblado junto con las placas tectónicas.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Hualien',
@@ -22,17 +20,23 @@ tags:
     'Pueblo Kavalan',
     'Serie 22 condados y ciudades',
   ]
-readingTime: 18
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/花蓮縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp'
+imageCredit: 'Fred Hsu / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg'
 translatedFrom: 'Geography/花蓮縣.md'
-sourceCommitSha: 'b74252d93'
-sourceContentHash: 'sha256:405286ffbb97b596'
-sourceBodyHash: 'sha256:367ba2e7b9a712c5'
-translatedAt: '2026-07-25T07:05:14+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg
-imageCredit: Fred Hsu
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:2d40b234aa9d9849'
+sourceBodyHash: 'sha256:dfa0735c6c25d7c4'
+translatedAt: '2026-09-08T01:32:37.807880+00:00'
 ---
 
 # Hualien: 129 años de invisibilidad del pueblo Sakizaya, el Taroko recuperado por el reconocimiento oficial, y el 0403 que lo volvió a alejar
@@ -113,26 +117,26 @@ La historia de migración del pueblo Bunun se conecta con esta política de reas
 
 A menudo se cita «1937» como el año emblemático de esta migración, pero la说法 más precisa es una serie de procesos migratorios entre la década de 1930 y 1940 (⚠️ Afirmar un solo año es inexacto)[^13]. Hoy, el canto coral de ocho voces (Pasibutbut, canción de oración para la cosecha de arroz) del pueblo Bunun en Zhuoxi, donde los hombres cantan en círculo apareciendo 8 tonos diferentes, ya está listado como patrimonio cultural del condado de Hualien[^13]. El lugar de origen de esta forma musical es Nantou, pero el campo donde se conservó completo hasta hoy fue la siguiente parada del reasentamiento forzado.
 
-## El hospital de 1986 construido junto al árbol de la ejecución
+## El hospital de 1986 cerca del árbol Lingchi
 
-Para entender por qué Hualien dio origen a la mayor ONG de Taiwán, hay que volver al escenario médico de Hualien en la década de 1960.
+Para entender por qué nació la ONG más grande de Taiwán en Hualien, hay que volver al entorno médico de Hualien en la década de 1960.
 
-En 1964, la maestra monja Zhengyan (nombre secular Wang Jinyun, nacida en 1935 en Qingshui, Taichung) de 29 años, junto con sus discípulos, se alojó en el Templo Puming, llevando una vida de cultivo y lectura[^14]. El 14 de mayo de 1966 (24 de marzo del calendario lunar), la «Asociación de Méritos Tzu Chi de la Budismo» se fundó oficialmente en Hualien. Ese mismo año, la madre secular de la maestra, Wang Shengyuegui, compró la tierra cerca de la ubicación actual del Pabellón Jingsi. En 1968, se tomó un préstamo bancario hipotecando la tierra para construir el Pabellón Jingsi, con un gran salón de estilo Tang. En 1969, el Pabellón Jingsi se completó y abrió, ubicado en la aldea Kangle, Xincheng, condado de Hualien[^14].
+En 1964, el maestro Zen, Sheng-yen (nombre secular Wang Jin-yun, nacido en Qingshui, Taichang en 1935), vivió con sus discípulos en Puming Temple mientras estudiaba y cultivaba[^14]. El 14 de mayo de 1966 (día 24 del tercer mes lunar), la "Asociación de Mérito Caritativo Budista para Aliviar el Sufrimiento" se fundó oficialmente en Hualien. Ese mismo año, su madre secular, Wang Shen-yuegui, compró la tierra donde hoy se encuentra Jing-si Cheng-she con sus propios fondos. En 1968, hipotecaron esa tierra a un banco para construir Jing-si Cheng-she, cuyo gran salón tiene arquitectura tradicional china (Tang). Jing-si Cheng-she fue completado y puesto en uso en 1969, ubicado en el pueblo de Kangle, condado de Xincheng, Hualien[^14].
 
-Al inicio, había 30 creyentes femeninas (hermanas mayores) que ahorraban 50 centavos diarios en un cilindro de bambú. Difundían el lema en los mercados: «**¡Ahorraremos 50 centavos diarios! Tenemos una asociación de socorro para ayudar a otros.**»[^14] Los años del cilindro de bambú fueron luego escritos por Tzu Chi como el mito fundacional. El espíritu de «**un día sin trabajo, un día sin comida**» que rige el Pabellón Jingsi hasta hoy implica autosuficiencia monástica, produciendo tofu Xiangji y fideos del pabellón como productos artesanales para obtener ingresos[^15].
+Al principio, había 30 creyentes femeninas (maestras) que ahorraban 5 centavos cada día y los depositaban en un tubo. Ellas difundían el lema en el mercado: "**¡Nosotros ahorramos 5 centavos todos los días! ¡Tenemos una asociación de ayuda para ayudar a otros!**"[^14]. Con el tiempo, este tubo se convirtió en parte del mito fundacional escrito por Tzu Chi. El espíritu de "no hacer nada ni comer un día" que sigue practicando Jing-si Cheng-she hoy en día, permite que los monjes sean autosuficientes, produciendo alimentos artesanales como tofu Xiangji y fideos de la casa para obtener ingresos[^15].
 
-Pero lo que llevó a Tzu Chi de un pabellón en Hualien a una ONG internacional fue el hospital.
+Pero lo que llevó a Tzu Chi desde un _cheng-she_ en Hualien hasta una ONG internacional fue el hospital.
 
-En la década de 1960, Hualien ni siquiera tenía un hospital público completo, y la atención médica en el este de Taiwán era difícil. Un paciente grave debía ser enviado desde Hualien a Taipéi, dependiendo de la carretera o el transporte marítimo, donde el tiempo en el camino a menudo equivalía a vida o muerte. El 10 de mayo de 1979, la maestra Zhengyan anunció la idea de construir un hospital. El 5 de febrero de 1983 se rompió el terreno. **El 17 de agosto de 1986, el Hospital Tzu Chi de Hualien abrió oficialmente**[^14], no en 1991 (⚠️ Un año comúnmente confundido). En 1991, Tzu Chi estableció otros negocios, pero el año exacto de apertura del hospital fue 1986. En 2002, el Hospital Tzu Chi se elevó al estatus de único centro médico del este de Taiwán.
+En la década de 1960, incluso no había hospitales públicos completos en Hualien; era difícil recibir atención médica en el este de Taiwán. Cuando un paciente crítico tenía que ser trasladado de Hualien a Taipéi, dependía del transporte por carretera o marítimo, y el tiempo en el camino a menudo significaba vida o muerte. El 10 de mayo de 1979, el maestro Sheng-yen anunció el plan para construir un hospital. La construcción comenzó el 5 de febrero de 1983. **El 17 de agosto de 1986, se inauguró oficialmente el Hospital Tzu Chi de Hualien**[^14], no en 1991 (⚠️ un año que a menudo se confunde). En 1991, Tzu Chi fundó otra iniciativa, pero el año exacto de la apertura del hospital fue 1986. En 2002, el Hospital Tzu Chi fue elevado a centro médico único en el este de Taiwán.
 
-La coincidencia geográfica es asombrosa. El área de la aldea Kangle, Xincheng, donde se encuentran el Pabellón Jingsi y el Hospital Tzu Chi, fue históricamente la zona alrededor del árbol de banyan donde el ejército Qing ejecutó en pedazos al jefe del pueblo Sakizaya, Komod Pazik, en 1878[^3]. La memoria más dolorosa de una etnia y el mayor proyecto de socorro de un sistema de fe se superpusieron en la misma tierra, separados por más de un siglo.
+La coincidencia geográfica es asombrosa. La zona donde se encuentran Jing-si Cheng-she y el Hospital Tzu Chi, en el pueblo de Kangle del condado de Xincheng, ha sido históricamente el área alrededor del árbol Qie-dong (茄苳) donde los soldados Qing ejecutaron al jefe Sakizaya, Ku Mu Ba-lik, en 1878[^3]. El recuerdo más doloroso de una etnia y la mayor obra de ayuda de otro sistema de creencias se superponen en el mismo terreno a lo largo de más de cien años.
 
-> **✦** «¿Por qué la mayor ONG de Taiwán nació en Hualien en la década de 1960, en el este donde ni siquiera había un hospital público completo? Porque la falta es el punto de partida de la compasión.»
+> **✦** "¿Por qué nació la ONG más grande de Taiwán en Hualien durante la década de 1960, en el este donde ni siquiera había un hospital público completo? Porque la carencia es el punto de partida de la compasión."
 
-Hoy, Tzu Chi tiene estatus consultivo de ONG, una red de socorro que cubre más de 130 países, la Universidad Tzu Chi y la Universidad de Tecnología de Hualien, y las cuatro grandes empresas (caridad, medicina, educación, humanidades). Pero los habitantes de Hualien recuerdan que, antes del 17 de agosto de 1986, su centro médico más cercano estaba a 300 kilómetros.
+Hoy, Tzu Chi tiene estatus consultivo como ONG, una red de ayuda que abarca más de 130 países a nivel mundial, y cuenta con la Universidad Tzu Chi de Hualien y la Universidad Tecnológica; además de sus cuatro grandes actividades (caridad, medicina, educación y cultura). Pero lo que recuerda la gente de Hualien es que antes del día 17 de agosto de 1986, su centro médico más cercano estaba a trescientos kilómetros.
 
-![Pabellón Jing Si (Jing Si Hall), ciudad de Hualien, 2009. El origen de la fundación de la «Asociación de Méritos Tzu Chi de la Budismo» en Hualien en 1966. El 17 de agosto de 1986, el Hospital Tzu Chi de Hualien abrió en el cercano Xincheng, elevándose a único centro médico del este de Taiwán en 2002.](/article-images/geography/hualien-01.webp)
-_Pabellón Jing Si, ciudad de Hualien, 2009. Foto: Fred Hsu, [CC BY-SA 3.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg)._
+![Jing-si Hall de Tzu Chi, Ciudad de Hualien. Un edificio tipo salón con tejados superpuestos y retrocedentes, cuyo frontispicio dice "Jing-si Tang". Es el origen donde se fundó la "Asociación de Mérito Caritativo Budista para Aliviar el Sufrimiento" en Hualien en 1966. El Hospital Tzu Chi de Hualien abrió cerca el 17 de agosto de 1986 y fue elevado a centro médico único en el este de Taiwán en 2002.](/article-images/geography/hualien-jing-si-hall-2009.webp)
+_Jing-si Hall de Tzu Chi, Ciudad de Hualien, 2009. Foto: Fred Hsu, [CC BY-SA 3.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg)._
 
 ## Una etnia recuperó dos nombres
 
@@ -171,33 +175,33 @@ La propia carretera Su-Hua evolucionó en tres generaciones. La primera fue la A
 
 > **📝 Nota del curador:** En la evolución de más de un siglo de la carretera Su-Hua, se esconde un eje de la «distancia de Hualien con el mundo». La Antigua Carretera Su-Hua de 1875 tardaba días; la carretera costera de 1932 se podía llegar en un día pero随时 podía ser cortada por deslizamientos o terremotos; el ferrocarril de la Vía del Retorno al Norte de 1980 en 5 horas; la Mejora de Su-Hua de 2020 en 1 hora. Cada distancia acortada detrás de la ingeniería y el intercambio de muertes: la propia Mejora de Su-Hua tiene 26 km en la montaña, y solo la ingeniería del túnel de Heiren de más de 4 km tuvo agua subterránea y deslizamientos que costaron varias vidas. Pero después de las 7:58 a. m. del 3 de abril de 2024, esta carretera se rompió de nuevo. El terremoto demostró en 140 años de historia de ingeniería (1875-2020) una cosa: los humanos pueden acortar la distancia, pero no pueden acortar lo suficiente como para detener los temblores de la Tierra.
 
-## El túnel abierto de la Boca de las Golondrinas colapsó en 98 segundos
+## El túnel de Ming en Yanzikou se derrumbó en 98 segundos
 
-Hora: 7:58:09 a. m. del 3 de abril de 2024.
-Epicentro: Condado de Shoufeng, Hualien (23.88° N, 121.57° E).
-Profundidad: 19,7 km.
-Magnitud: Medición inicial ML 7.2 de la Oficina Central de Meteorología y Sismología del Ministerio de Transportes y Comunicaciones, revisada y confirmada como ML 7.1 el 1 de febrero de 2025.
-Intensidad máxima: Xiulin, condado de Hualien, Heli 6 fuerte, la vibración duró unos 98 segundos[^8].
+Hora: 3 de abril de 2024, 7:58:09 a.m.
+Epicentro: Township de Shufeng, condado de Hualien (23.88° N, 121.57° E).
+Profundidad: 19.7 km.
+Magnitud: La primera medición del Centro de Meteorología Central del Ministerio de Transporte fue ML 7.2; la revisión en febrero de 2025 confirmó ML 7.1.
+Máxima intensidad: 6 (Jindo) en el barrio de Heping, township de Xiulin, condado de Hualien, con una vibración que duró unos 98 segundos[^8].
 
-Qué concepto son 98 segundos. El estribillo de una canción dura unos 30 segundos. Un terremoto principal que dura más de 30 segundos hace que uno empiece a dudar si es el fin del mundo. 98 segundos no son extremadamente largos en la historia de los terremotos, pero para quienes viven en la zona de intensidad 6 fuerte, es tiempo suficiente para resetear la memoria de todo el cuerpo.
+¿Qué significa 98 segundos? Un estribillo de canción dura aproximadamente 30 segundos. Si un terremoto principal dura más de 30 segundos, la gente empieza a sospechar si es el fin del mundo. Aunque 98 segundos no se consideran extremadamente largos en la historia sísmica, para quienes vivían en una zona de intensidad 6, fue tiempo suficiente para reconfigurar toda su memoria corporal.
 
-Las estadísticas de víctimas se fijaron el 25 de abril de 2024: 20 muertos (informes iniciales de 13, 17, 18, números revisados al alza), 1.155 heridos, 2 desaparecidos (1 de Singapur, 1 de Alemania)[^8].
+El recuento de víctimas, fijado al 25 de abril de 2024, fue: 20 fallecidos (los informes iniciales indicaron 13, 17 y 18 personas, con cifras en constante revisión), 1,155 heridos y 2 desaparecidos (uno de Singapur y uno de Alemania)[^8].
 
-Los casos de muerte se dispersaron por Hualien: en el kilómetro 183,2 de la carretera Central de la Cordillera, un trabajador de mantenimiento de taludes apellidado Yu fue golpeado por una roca y murió en el acto; en el Hotel Silks Place Taroko (ubicado en Tianxiang), un estudiante practicante apellidado Huang de 17 años fue herido por una roca y murió el 25 de abril, convirtiéndose en la 20.ª víctima; en el Edificio Uranus de la ciudad de Hualien, 1 muerto, la residente apellidada Kang quedó atrapada durante más de 12 horas y murió desgraciadamente, siendo el edificio semiderrumbado más recordado en las imágenes del desastre[^8].
+Los casos de muerte se dispersaron por Hualien: un trabajador de mantenimiento de taludes en la carretera Transmontana murió instantáneamente al ser golpeado por una roca; un pasante de 17 años, de apellido Huang, en el hotel Taroko Crystal (ubicado en Tianxiang) resultó herido por una caída de rocas y falleció el 25 de abril, convirtiéndose en la vigésima víctima; un residente de apellido Kang del edificio Uranus en la ciudad de Hualien murió tras quedar atrapada durante más de 12 horas, siendo este uno de los edificios inclinados que más se recuerda en las imágenes del terremoto[^8].
 
-El mayor daño del Parque Nacional Taroko está en los senderos internos. El sendero Sakadang, el sendero de la Boca de las Golondrinas y el tramo de la Gruta de los Nueve Recodos son los tres senderos más conocidos del parque, y los tres fueron destruidos. Lin Maoyao, guía senior de la administración del parque, dijo a CNA: «**Lo que más me impactó en la Boca de las Golondrinas, tras el terremoto, al llegar allí, es recordar cómo era originalmente, sentir que se volvió especialmente brillante, resulta que el túnel abierto colapsó por completo.**»[^23] Lin Zhongshan, subdirector de la administración del parque, dijo: «**Desarrollar puntos de vista alternativos y promover el turismo ecológico profundo también es necesario.**»[^23] Se estima un tiempo de recuperación del «**aproximadamente 7 años**» para todo el parque, con la reconstrucción de Sakadang y la Boca de las Golondrinas estimada para completarse en 2031, y la administración del parque admite que «**es imposible que todo el parque esté abierto en 7 años**»[^23].
+El daño más severo ocurrió en los senderos internos del Parque Nacional Taroko. Los senderos de Shakashan, Yanzikou y Jiukongdong son los tres más conocidos del parque, y los tres quedaron completamente destruidos. Lin Mao-yao, un guía experimentado del Centro de Administración del Parque Nacional (Tuan-guan), dijo a CNA: "**Yanzikou fue lo que más me impactó; después del temblor, al volver a Yanzikou, seguía pensando en cómo era antes, y se sintió especialmente brillante, porque el túnel de Ming se había derrumbado por completo**" [^23]. Lin Chung-shan, subdirector del Centro de Administración del Parque Nacional, declaró: "**También es necesario promover el ecoturismo profundo desarrollando puntos de interés alternativos**" [^23]. Se estima que la restauración de todo el parque tomará "**aproximadamente 7 años**"; se calcula que Shakashan y Yanzikou no estarán terminados hasta 2031, y el Centro de Administración del Parque Nacional admitió que "**es imposible reabrir todo el parque en 7 años**" [^23].
 
-![Personal de rescate trabajando cerca del Edificio Uranus (Uranus Building), carretera Xuanyuan, ciudad de Hualien, tras el terremoto 0403 de 2024. Este edificio de diez pisos se derrumbó a un ángulo de 45 grados, siendo la escena más recordada de las imágenes del terremoto 0403; la residente apellidada Kang quedó atrapada durante más de 12 horas y murió desgraciadamente.](/article-images/geography/hualien-02.webp)
-_Rescate en el Edificio Uranus, carretera Xuanyuan, ciudad de Hualien, 2024-04-03. Foto: Shufu Liu, Oficina del Presidente, [CC BY 2.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg)._
+![Personal de rescate trabajando cerca del edificio Uranus, calle Xuanyuan, ciudad de Hualien, después del terremoto de 0403. Este edificio de diez pisos está inclinado hacia la calle y su planta baja ha sido aplastada; grúas y excavadoras ya han entrado. Esta es una escena que más se recuerda en las imágenes del terremoto 0403.](/article-images/geography/hualien-uranus-building-rescue-2024.webp)
+_Escena de rescate del edificio Uranus, calle Xuanyuan, ciudad de Hualien, 3 de abril de 2024. Foto: Shufu Liu (Casa Blanca), [CC BY 2.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg)._
 
-Los números del turismo demostraron luego qué tan grave fue este desastre. Antes del terremoto, el Parque Nacional Taroko recibía unos 4 millones de turistas al año, alcanzando 6,6 millones en su punto máximo. En 2024, los turistas del Parque Nacional Taroko fueron solo 210.000, el 3,2% del punto máximo[^24]. El condado de Hualien tuvo unas 6,7 millones de visitantes en 2024, frente a 14 millones en 2023, **una caída del 54,29%**, la mayor en una década. De las 135 hoteles del condado, 22 optaron por retirarse o cerrar[^24].
+Los datos turísticos posteriores demostraron la magnitud de este terremoto. Antes del sismo, el Parque Nacional Taroko recibía unos 4 millones de visitantes al año, con picos de hasta 6.6 millones. En 2024, solo llegaron 210,000 turistas a Taroko, lo que representa el 3.2% de su pico[^24]. A nivel del condado de Hualien, los visitantes en 2024 fueron de unos 6.7 millones, frente a los 14 millones de 2023, lo que supone una **caída del 54.29%**, la mayor en casi diez años. De las 135 posadas del condado, 22 decidieron retirarse o cerrar[^24].
 
-La playa de Qixingtan sigue ahí, la forma de la bahía de grava no cambió; pero la entrada del Parque Nacional Taroko cerca de Qixingtan estuvo cerrada por más de un año. A partir del 1 de julio de 2025, la administración del parque abrió parcialmente el Centro de Visitantes de Taroko, la zona de recreación de Tianxiang, etc.; los senderos a lo largo de la carretera Su-Hua se abrieron por fases desde abril de 2025[^23].
+La playa de Qixingtan sigue ahí; la forma de la bahía rocosa no ha cambiado; pero la entrada a Taroko cerca de Qixingtan ha estado cerrada por más de un año. A partir del 1 de julio de 2025, el Centro Turístico de Taroko y algunas áreas como la zona recreativa Tianxiang se reabrieron; los senderos a lo largo de la carretera Su-Hua se irán abriendo por fases a partir de abril de 2025 [^23].
 
-![Playa de Qixingtan, 2021. En 1936, el gobierno colonial japonés rellenó el grupo de lagos interiores «Qixingtan» para construir el Aeródromo Norte del Puerto de Hualien (actual Aeropuerto de Hualien); los residentes se reasentaron a la costa del Pacífico y mantuvieron el nombre antiguo, por lo que Qixingtan hoy es una bahía, no un lago.](https://upload.wikimedia.org/wikipedia/commons/7/72/Qixingtan_Beach%2C_Taiwan.jpg)
-_Playa de Qixingtan, 2021. Foto: Artemas Liu, [CC BY-SA 2.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg)._
+![Playa Qixingtan, 2021. El lago "Qixingtan" en el interior fue rellenado por el gobierno colonial japonés en 1936 para construir un campo de aviación al norte del puerto de Hualien (actual aeropuerto de Hualien). Los residentes se mudaron a la costa del Pacífico y continuaron usando el nombre antiguo, por lo que hoy Qixingtan es realmente una bahía, no un lago.](https://upload.wikimedia.org/wikipedia/commons/7/72/Qixingtan_Beach%2C_Taiwan.jpg)
+_Playa Qixingtan, 2021. Foto: Artemas Liu, [CC BY-SA 2.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg)._
 
-La observación de Teyra Yudaw a los miembros de su clan tras el terremoto también la dijo a _The Reporter_: «**Nuestros miembros sienten que este espacio parece estar cada vez más lejos de nosotros. Antes vivíamos aquí, estaba bien, los animales no disminuyeron, el gobierno dice que protege las montañas, pero desde la perspectiva de nuestros miembros, no se protege realmente.**»[^16] El pueblo Taroko recuperó su nombre en 2004, y en 2024 el parque nacional colapsó. En 20 años, desde el reconocimiento oficial hasta perder nuevamente el acceso a este paisaje, es el eje temporal de la relación de una etnia con una tierra.
+Los observadores tras el terremoto de Tielah Yudao también dijeron a los reporteros: "**Nos sentimos como si este espacio se estuviera alejando cada vez más de nosotros. Antes vivíamos aquí y todo estaba bien; ni siquiera han disminuido los animales, pero dicen que están protegiendo la montaña, y para nosotros no lo están haciendo realmente**" [^16]. El pueblo Taroko recuperó su nombre en 2004, y el Parque Nacional colapsó en 2024. El tiempo entre recuperar el nombre y volver a perder el derecho de acceso a este paisaje por dos décadas es una doblez en la cronología de la relación de un grupo étnico con una tierra.
 
 ## El reino de la familia Fu bajo Fenglin, Yuli y Ruishui
 
@@ -244,11 +248,11 @@ El Parque Nacional Taroko quizás se abra de nuevo en 7 años. Pero después del
 - [Período colonial japonés](/es/history/japanese-colonial-era) — Los tres pueblos de inmigrantes Fengtian, Yonokuni y Lintian en 1913; el incidente de Taroko de 1914; el reasentamiento grupal del pueblo Bunun en la década de 1930.
 - [Yi-shiong Lin](/es/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor) — Activista del movimiento fuera del partido, originario de Wujie (Yilan), comparte el mismo eje de democratización de Taiwán de la década de 1980 con Hualien.
 
-## Fuentes de imagen
+## Fuentes de imágenes
 
-Este artículo utiliza 6 imágenes con licencia CC de Wikimedia Commons. La imagen principal es [Taiwan 2009 CingShui Cliffs on SuHua Highway FRD 6762 Pano Extracted](https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), panorama de los Acantilados de Qingshui a lo largo de la carretera Su-Hua, 2009).
+Este artículo utiliza 6 imágenes con licencia CC de Wikimedia Commons. Hero ha sido cacheada en `public/article-images/geography/` para evitar fuentes de servidor de enlaces rotos: [Taiwan 2009 CingShui Cliffs on SuHua Highway FRD 6762 Pano Extracted](https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Panorámica de los acantilados CingShui a lo largo de la carretera SuHua en Taiwán, 2009).
 
-Las imágenes de escena en línea son, en orden: [Taiwan LiWu River](https://commons.wikimedia.org/wiki/File:Taiwan_LiWu_River.JPG) (Vegafish, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), el río Liwu cortando estratos de mármol en el cañón de Taroko); [20170924-火神祭開工祭祀 (19)](<https://commons.wikimedia.org/wiki/File:20170924-%E7%81%AB%E7%A5%9E%E7%A5%AD%E9%96%8B%E5%B7%A5%E7%A5%AD%E7%A5%80_(19).jpg>) (Tokoabibi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), ceremonia de apertura de la fiesta del fuego del pueblo Sakizaya de 2017); [Taiwan 2009 HuaLien City JingSi Hall FRD](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Pabellón Jing Si en la ciudad de Hualien, 2009); [Rescue workers near the semi-collapsed ten-story Uranus Building on Xuanyuan Road after the 2024 Hualien earthquake](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg) (Shufu Liu, Oficina del Presidente, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), escena de rescate del Edificio Uranus tras el terremoto 0403); [Qixingtan Beach, Taiwan](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg) (Artemas Liu, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), playa de Qixingtan, 2021).
+Las imágenes incrustadas son: [Taiwan LiWu River](https://commons.wikimedia.org/wiki/File:Taiwan_LiWu_River.JPG) (Vegafish, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), Río LiWu en el cañón de Taroko cortando la capa de mármol); [20170924-火神祭開工祭祀 (19)](<https://commons.wikimedia.org/wiki/File:20170924-%E7%81%AB%E7%A5%9E%E7%A5%AD%E9%96%8B%E5%B7%A5%E7%A5%AD%E7%A5%80_(19).jpg>) (Tokoabibi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Ceremonia de inicio del fuego divino Sakizaya en Taiwán, 2017); [Taiwan 2009 HuaLien City JingSi Hall FRD](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Salón JingSi en la ciudad de HuaLien, Taiwán, 2009); [Rescue workers near the semi-collapsed ten-story Uranus Building on Xuanyuan Road after the 2024 Hualien earthquake](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg) (Shufu Liu de la Oficina Presidencial, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Escena de rescate del edificio Urano semi-colapsado tras el terremoto de 0403 en Hualien); [Qixingtan Beach, Taiwan](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg) (Artemas Liu, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), Playa Qixingtan en Taiwán, 2021).
 
 ## Material de video
 
