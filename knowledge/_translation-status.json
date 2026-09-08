@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T22:22:01+08:00",
-    "zhCommitHead": "f10b0503a",
+    "lastUpdated": "2026-09-09T00:07:39+08:00",
+    "zhCommitHead": "5fe0ae1a1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 780,
-        "stale": 90,
+        "fresh": 782,
+        "stale": 88,
         "metadata_stale": 24,
         "missing": 227,
         "orphan": 0
@@ -36,49 +36,49 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 82,
-        "metadata_stale": 25,
+        "metadata_stale": 24,
         "missing": 225,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 784,
-        "stale": 85,
+        "fresh": 785,
+        "stale": 84,
         "metadata_stale": 23,
         "missing": 229,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 778,
-        "stale": 88,
+        "fresh": 779,
+        "stale": 87,
         "metadata_stale": 28,
         "missing": 227,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 641,
+        "fresh": 645,
         "stale": 91,
-        "metadata_stale": 82,
-        "missing": 307,
+        "metadata_stale": 80,
+        "missing": 305,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 552,
+        "fresh": 554,
         "stale": 50,
         "metadata_stale": 13,
-        "missing": 506,
+        "missing": 504,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 768,
         "stale": 75,
-        "metadata_stale": 21,
+        "metadata_stale": 18,
         "missing": 260,
         "orphan": 0
       },
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 740,
+        "fresh": 742,
         "stale": 45,
-        "metadata_stale": 14,
+        "metadata_stale": 12,
         "missing": 322,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 109,
-        "stale": 7,
+        "fresh": 111,
+        "stale": 6,
         "metadata_stale": 1,
-        "missing": 1004,
+        "missing": 1003,
         "orphan": 0
       }
     },
@@ -29549,18 +29549,16 @@
         "vi": {
           "path": "vi/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/fab-dao.md",
@@ -29581,18 +29579,16 @@
         "pt": {
           "path": "pt/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-08-04T14:12:36+08:00",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
           "translationLastCommit": "a5d7223e",
           "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/fab-dao.md",
@@ -30702,18 +30698,16 @@
         "en": {
           "path": "en/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "209084a3",
-          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
-          "sourceBodyHash": "sha256:ab8b8f728e87222a",
-          "translatedAt": "2026-06-16T17:10:15Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d009712e64112e84",
+          "sourceBodyHash": "sha256:29bdbac4c38d6b83",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "b67b190f",
           "translationLastModified": "2026-09-07T17:52:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/alien-art-centre.md",
@@ -30748,34 +30742,30 @@
         "es": {
           "path": "es/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "209084a3c",
-          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
-          "sourceBodyHash": "sha256:ab8b8f728e87222a",
-          "translatedAt": "2026-07-26T22:27:49+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d009712e64112e84",
+          "sourceBodyHash": "sha256:29bdbac4c38d6b83",
+          "translatedAt": "2026-09-08T15:54:39+08:00",
           "translationLastCommit": "409ee3bf",
           "translationLastModified": "2026-07-27T02:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "209084a3c",
-          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
-          "sourceBodyHash": "sha256:ab8b8f728e87222a",
-          "translatedAt": "2026-07-27T03:39:57+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d009712e64112e84",
+          "sourceBodyHash": "sha256:29bdbac4c38d6b83",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/alien-art-centre.md",
@@ -30784,8 +30774,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "ca62e0b3",
-          "translationLastModified": "2026-07-24T18:39:09+08:00",
+          "translationLastCommit": "5fe0ae1a",
+          "translationLastModified": "2026-09-08T22:22:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39401,7 +39391,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -62365,18 +62366,16 @@
         "en": {
           "path": "en/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:7c8e2ae7ead043fa",
-          "sourceBodyHash": "sha256:337a7730efae1092",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "sourceCommitSha": "d8646a2a9",
+          "sourceContentHash": "sha256:768855c64ea407af",
+          "sourceBodyHash": "sha256:2f867df28cee4278",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "77e3ab42",
           "translationLastModified": "2026-08-04T15:22:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/biodiversity.md",
@@ -70519,7 +70518,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/huang-guang-xiong-educator.md",
+          "translatedFrom": "People/黃光雄.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b679db54adf9d80",
+          "sourceBodyHash": "sha256:e4792097bdf41668",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/huang-guang-xiong-educator.md",
@@ -73478,8 +73488,8 @@
           "sourceContentHash": "sha256:b7728f29d3dbc9e2",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5fe0ae1a",
+          "translationLastModified": "2026-09-08T22:22:01+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -76970,7 +76980,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/jerry-yang-yahoo-cofounder.md",
+          "translatedFrom": "People/楊致遠.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d1617940aa3ac2f4",
+          "sourceBodyHash": "sha256:e0245844724d0a9c",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/jerry-yang-yahoo-cofounder.md",
@@ -78480,8 +78501,8 @@
           "sourceContentHash": "sha256:1b59d09fec786013",
           "sourceBodyHash": "sha256:3e07cf6a17af5d88",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5fe0ae1a",
+          "translationLastModified": "2026-09-08T22:22:01+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -87827,8 +87848,8 @@
           "sourceContentHash": "sha256:3f102f565e503ad8",
           "sourceBodyHash": "sha256:b14c332dbd93a4eb",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5fe0ae1a",
+          "translationLastModified": "2026-09-08T22:22:01+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -93548,16 +93569,16 @@
         "de": {
           "path": "de/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "37638e17",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-09-01T15:57:19+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-08T15:54:57+08:00",
           "translationLastCommit": "5faa538d",
           "translationLastModified": "2026-09-01T16:07:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -107699,18 +107720,16 @@
         "vi": {
           "path": "vi/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-07-25T12:13:30+08:00",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
           "translationLastCommit": "52d77b08",
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/ah-po-iron-eggs.md",
@@ -107729,18 +107748,16 @@
         "pt": {
           "path": "pt/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-07-25T04:46:10+08:00",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/ah-po-iron-eggs.md",
@@ -107773,18 +107790,16 @@
         "ru": {
           "path": "ru/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-07-25T12:45:45+08:00",
+          "translatedAt": "2026-09-08T15:54:54+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/ah-po-iron-eggs.md",
@@ -109420,18 +109435,16 @@
         "ko": {
           "path": "ko/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-04-14T04:09:26+08:00",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-sauces-and-seasonings.md",
@@ -109546,18 +109559,16 @@
         "ru": {
           "path": "ru/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "translatedAt": "2026-09-08T15:54:54+08:00",
           "translationLastCommit": "9d4f7166",
           "translationLastModified": "2026-07-25T10:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwan-sauces-and-seasonings.md",
@@ -117445,23 +117456,32 @@
           "reason": "hash-match-sha-lost"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/military-dependents-village-cuisine.md",
+          "translatedFrom": "Food/台灣眷村菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:065bf6354c8e6e97",
+          "sourceBodyHash": "sha256:c6f4891abde841e9",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "21298a7a",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
-          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -141937,7 +141957,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/traditional-festivals-and-celebrations.md",
+          "translatedFrom": "Culture/傳統節慶與慶典.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:3bac2c2faa70bd6e",
+          "sourceBodyHash": "sha256:325c4509ad66d26d",
+          "translatedAt": "2026-09-08T15:54:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

@@ -1,111 +1,129 @@
 ---
-tags: ['Kaohsiung', 'Contemporary art']
-title: ALIEN Art Centre (Jinma Guest House)
-description: A Cold War military transit station where soldiers said goodbye before sailing to the frontlines — abandoned for two decades, then resurrected as Lonely Planet's top pick for contemporary art in Kaohsiung.
-featured: false
-image: '/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp'
-translatedFrom: 'Art/金馬賓館當代美術館.md'
-sourceCommitSha: '209084a3'
-sourceContentHash: 'sha256:29f8c92d6f9ec4f0'
-sourceBodyHash: 'sha256:ab8b8f728e87222a'
-translatedAt: '2026-06-16T17:10:15Z'
-category: Art
+title: 'The Golden Horse Hotel Contemporary Art Museum: From Farewell Station to Artistic Paradise'
+description: 'A Cold War military station that witnessed farewells and reunions, awakened after twenty years of slumber by a father and daughter, and is now a top recommendation from Lonely Planet in Kaohsiung.'
 date: 2026-03-22
+category: 'Art'
+tags: ['Contemporary Art', 'Museum', 'Kaohsiung', 'Cultural Space']
+subcategory: '策展與教育'
 author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+image: '/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp'
 imageCredit: 'Adece033090 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg'
+translatedFrom: 'Art/金馬賓館當代美術館.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:d009712e64112e84'
+sourceBodyHash: 'sha256:29bdbac4c38d6b83'
+translatedAt: '2026-09-08T15:54:33+08:00'
 ---
 
-# ALIEN Art Centre — From Military Farewell Station to Art Sanctuary
+# The Golden Horse Hotel Contemporary Art Museum — From Farewell Station to Artistic Paradise
 
-> A building constructed in 1967 to house soldiers before they boarded warships to the frontline islands of Kinmen and Matsu. For thirty-one years it witnessed goodbyes and reunions. Then it was forgotten for twenty more — until a father-daughter duo turned it into what Lonely Planet calls Kaohsiung's top contemporary art destination.
+> A military building constructed in 1967 that watched countless soldiers embark on ships bound for Kinmen and Matsu for thirty-one years. After twenty years of slumber, it was awakened by a father and daughter—and is now a "top recommendation from Lonely Planet" in Kaohsiung.
 
-## An Unlikely Transformation
+## Counterintuitive Origins
 
-Stand at the entrance of 111 Gushan 1st Road in Kaohsiung, and you'll see a grey building embraced by the forests of Shoushan Mountain. Light falls through an open courtyard corridor, and inside, a retrospective of an Italian Op Art master fills the galleries. Nothing about this scene suggests that sixty years ago, twenty-year-old soldiers stood in this same corridor waiting to board ships to the frontline, their mothers crying at the gate, while the navy's LST vessels rocked in Kaohsiung Harbor for the thirty-six-hour crossing to Kinmen.
+If you stand at the entrance of No. 111 Gushan Road, Kaohsiung, you see a gray building surrounded by Shoushan Forest. Light spills down from an 'U'-shaped corridor, illuminating exhibitions featuring retrospective works by Italian Op Art masters. You would likely not guess that sixty years ago, this hallway was where twenty-year-old soldiers waited before boarding ships to the outlying islands; their mothers waved goodbye at the gate, while the Chinese-flagged military vessels docked at the pier took thirty-six hours to reach Kinmen.
 
-**This is Taiwan's last surviving Cold War-era Jinma Guest House.** The one in Keelung was demolished. The Kaohsiung one survived — not because anyone chose to preserve it, but because it was forgotten long enough for someone to eventually notice.
+**This is the only Cold War Golden Horse Hotel remaining in all of Taiwan.** The one in Keelung was demolished; only Kaohsiung remains: not because it was intentionally preserved, but because it was forgotten long enough—so long that a founder of a hotel group passed by and decided not to let it disappear.
 
-## Three Lives of a Building
+## Three Lives of One Building
 
-### First Life: Farewells and Reunions (1967–1998)
+### First Act: Farewells and Reunions (1967–1998)
 
-The year after the 1958 Taiwan Strait Crisis (the "823 Artillery Bombardment"), the Kaohsiung city government decided to build a transit station for soldiers heading to the Kinmen and Matsu frontlines. The construction site was reclaimed fishponds — they had to wait eight years for the ground to settle.
+The year after the August 23rd Artillery Bombardment in 1958, the Kaohsiung municipal government decided to build a hotel specifically for soldiers stationed in Kinmen and Matsu. However, the construction site was reclaimed from fishponds, and it took eight years to secure stable ground.
 
-On September 26, 1967, the Jinma Guest House opened, built by the Armed Forces Fraternity Association at a cost of NT$12 million. "Jin" (金) stands for Kinmen, "Ma" (馬) for Matsu. On the Cold War map, these islands occupied the same geopolitical weight as the Berlin Wall and the 38th parallel.
+On September 26, 1967, the Golden Horse Hotel was officially opened by Friends of the Military. The accompanying hotel in Keelung was also completed; one north, one south, serving the same purpose: providing a temporary resting place for military personnel who won the "Golden Horse Award"—a concept understood by soldiers at the time.
 
-Soldiers who had drawn the dreaded "Jinma lottery" — every Taiwanese man of that era understood the weight of those words — traveled from across the island to report at this building. They waited for clear weather to sail. On the road to the harbor, shop clerks shouted: "The voyage takes a day and a half, there's no food on board — buy now!" The recruits scrambled for bread, soda, and above all, seasickness pills.
+"Jin" is Kinmen; "Ma" is Matsu. On the Cold War map, they belonged to the same era as the Berlin Wall and the 38th parallel.
 
-For thirty-one years, the Jinma Guest House witnessed countless departures and returns. Some farewells lasted a year; some, forever.
+Soldiers from all over Taiwan gathered at the Kaohsiung Golden Horse Hotel to report for duty. They waited here before setting sail. On the way to the pier, shopkeepers shouted: "The trip takes a day and a half; there's no food on the ship, you must buy quickly!" New recruits rushed to buy bread, soda, and motion sickness medicine. Then, at the Glorious Pier today—the No. 13 pier of that time—they stepped onto the military vessels with trembling steps.
 
-### Second Life: Forgotten (1998–2016)
+For thirty-one years, the Golden Horse Hotel witnessed countless farewells and reunions. Some separations lasted a year, two years, or longer. After parting, some lost loved ones; others returned safely. The Port of Kaohsiung silently observed all of it.
 
-As Cross-Strait tensions eased, the guest house was decommissioned in 1998. The building was handed to the Railway Reconstruction Bureau as its Kaohsiung underground railway headquarters. When the bureau relocated in 2012, the building — carrying half a century of memory — was simply left at the foot of Shoushan Mountain, weeds climbing its corridors.
+### Second Act: Forgotten (1998–2016)
 
-The Keelung Jinma Guest House was demolished during this period. The Kaohsiung one survived only because its turn hadn't come yet.
+In 1998, as cross-Strait relations eased, the Golden Horse Hotel retired from service. The building was transferred to the Ministry of Transportation and Communications Railway Construction Bureau and became the command center for the undergrounding of Kaohsiung's railway system. After the Railway Bureau moved out in 2012, this structure, which carried half a century of memories, was left beneath Shoushan, allowing weeds to climb the corridors.
 
-### Third Life: Light in the Ruins (2016–2018)
+The Golden Horse Hotel in Keelung was demolished during this period. The one in Kaohsiung remained only because it had not yet reached its turn.
 
-In 2016, Kaohsiung's Urban Development Bureau put the site up for public tender. When Shao Yung-Tien, founder of the YUIMOM Group, and his daughter Shao Ya-Man (Yaman Shao) first walked in, they found "practically a ruin." Every fixture was decrepit. The building had been thoroughly forgotten.
+### Third Act: Light Amidst Ruins (2016–2018)
 
-But Yaman was drawn to the light.
+In 2016, the Kaohsiung Municipal Bureau of Urban Development publicly solicited proposals to revitalize the vacant space using private resources. When CEO Shao Yong-tian and his daughter Shao Ya-man from the Yumei Group first entered the Golden Horse Hotel, they saw a building that was "almost in ruins." All facilities were dilapidated; the entire structure was nearly forgotten.
 
-"Looking out from the museum windows, the forest and blue sky weave together in a way that makes you feel you're deep in the mountains, far from the noise of the city," she told VERSE magazine. A military building, thanks to its proximity to Shoushan, had accidentally acquired the natural setting most urban museums can only dream of.
+But Shao Ya-man was drawn to the light and shadow here.
 
-The restoration team hired veteran craftsmen to work with traditional techniques, recovering the building's original pebble-wash and terrazzo textures. They even tracked down discontinued white ceramic tiles to rebuild the corridors. But the biggest change was structural: they opened the closed U-shaped military barracks into an open square courtyard, letting wind and light flow freely, and letting the galleries breathe with Shoushan's forest.
+"Looking out of the museum windows at the scenery where the forest meets the blue sky feels like being deep in the mountains far from the hustle and bustle," she later said in an interview with VERSE magazine. A military building, because it is adjacent to Shoushan, possesses a natural environment that most urban museums dream of.
 
-On November 28, 2018, the Jinma Guest House reopened as ALIEN Art Centre.
+Yong-tian Art undertook restoration based on the principle of "restoring the historical significance of the architecture." They hired master craftsmen to use traditional methods, restoring the original pebble and grit textures. They even found discontinued white porcelain tiles to rebuild the corridor. But the biggest transformation was not renovation; it was opening up—changing the originally closed 'U'-shaped military barracks into an open 'U'-shaped corridor, allowing wind and light to flow freely, enabling the exhibition space to resonate with Shoushan Forest.
+
+On November 28, 2018, the Golden Horse Hotel reopened as a contemporary art museum.
 
 ## Why "ALIEN"?
 
-The English name sounds like it belongs to a science fiction museum, but the inspiration comes from Spielberg's _E.T._ — specifically, the moment when two fingers touch across the unknown. The team explains: "ALIEN carries the meaning of reaching toward the unknown."
+The English name ALIEN Art Centre sounds like an alien museum, but the inspiration comes from Stephen\'s _E.T. The Extra-Terrestrial_—the moment when fingers touch. The operating team explained: "ALIEN means to embrace the unknown."
 
-The name accidentally mirrors the building's history. In 1967, the soldiers standing in these halls were also facing the unknown — the unknown across the strait, the unknown of war, the unknown of whether they'd return. Fifty years later, visitors in the same building face a different kind of unknown: the perceptual frontiers opened by contemporary art.
+This naming perfectly echoes the history of the Golden Horse Hotel. Soldiers standing in this building in 1967 also faced the unknown—the unknown across the strait, the unknown of war, the unknown of whether they would return safely. Fifty years later, visitors in the same building face another kind of unknown: the perceptual boundaries opened by contemporary art.
 
-## A Father-Daughter Vision
+## One Building, Three Layers of Curation
 
-The driving force behind ALIEN Art Centre is an unusual father-daughter partnership. Father Shao Yung-Tien, the YUIMOM Group founder, didn't start painting until his sixties — then produced over 200 works in barely a year, even inventing his own brushes and tools. Daughter Yaman Shao took on the role of executive director of ALIEN Art in her late twenties, with the ambition of curating at international standards.
+Each floor of the Golden Horse Hotel has its own focus, like a book turning from the future back to history:
 
-Their 2020 exhibition _Mad · Zen_ was their first joint show, spanning both the Jinma Guest House and the Silks Club hotel. The father's "madness" — business philosophy, raw creative energy — met the daughter's "zen" — introspection, serenity, aesthetic refinement — in a cross-generational dialogue that embodied what the museum stands for.
+**The First Floor** focuses on experimental art and diverse artistic forms, responding to contemporary issues, often featuring new media art and sculpture.
 
-## International Recognition
+**The Second Floor** is an applied arts space, suitable for retrospective exhibitions of artists, and features the ALIEN All-Day Lounge restaurant—one of the most luxurious experiences at the museum, sipping coffee and eating Minnan baked goods with osmanthus honey milk in front of the floor-to-ceiling windows surrounded by Shoushan greenery.
 
-Within two years of opening, the museum won Shopping Design magazine's 2019 "Best 100 Cultural Landscape" award. In 2020, **Lonely Planet named it Kaohsiung's top art destination** — a remarkable achievement for a privately funded museum outside Taipei.
+**The Third Floor** offers the widest view, looking out over the forest and sky, and often displays works with strong design sense and rich light and shadow variations.
 
-Notable exhibitions have included _Arman: Thinking Objects_ (2022–2023), co-curated with French curator Jérôme Neutres; _Responsive Vision: Getulio Alviani_ (2023–2024), the Italian Op Art pioneer's first comprehensive retrospective in East Asia; and _Infinite Voyage: Shao Yung-Tien_, which combined AI-generated imagery with interactive music.
+## Father and Daughter United: From Frenzy to Zen
 
-Running a private museum in Kaohsiung — not Taipei — at a NT$250 admission fee presents real challenges. Yaman's response has been to go global: collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York, exporting Taiwan's curatorial energy to the international stage.
+The driving force behind the Golden Horse Hotel is a unique father-daughter duo. The father, Shao Yong-tian, is the founder of the Yumei Group; he only started painting at age sixty, but within a year, he unleashed fifty years of accumulated creative energy, producing over two hundred paintings and inventing various brushes and tools. His daughter, Shao Ya-man, has served as the Executive Director of Yong-tian Art since she was in her twenties, aiming for international standard curation.
 
-## The Building as Exhibit
+The 2020 annual exhibition _Frenzy・Zen_ was the first joint exhibition by this father and daughter. The exhibition spanned both the Golden Horse Hotel and the Jingying International Hotel; the father's "Frenzy"—his philosophy of management, life wisdom, explosive power—and the daughter's "Zen"—introspection, tranquility, pursuit of beauty—formed a cross-generational dialogue.
 
-Perhaps the most remarkable thing about ALIEN Art Centre isn't what hangs on its walls, but the walls themselves.
+The transformation from founder to artist demonstrated Shao Yong-tian\'s core philosophy at the Golden Horse Hotel: art is not a privilege for a few, but energy that can burst forth in every stage of life.
 
-The façade blends three architectural lineages: Western modernist minimalism from Taiwan's 1960s economic boom, traces of Japanese colonial-era eclectic classicism, and Chinese classical architectural symbols. Architectural historians note that its geometric compositions echo Mies van der Rohe.
+## International Recognition and Challenges
 
-The restoration used formaldehyde-free paint, non-endocrine-disrupting materials, and recycled wood fixtures, making this sixty-year-old building a model for low-carbon green architecture in Kaohsiung. The plants seeded at opening have since merged with Shoushan's forest, sealing the museum off from urban noise.
+Less than two years after opening, the Golden Horse Hotel won the 2019 "Taiwan Humanistic Scenery Award" from _Shopping Design_ magazine. In 2020, Lonely Planet, the world's largest travel guide, named it a "top art museum in Kaohsiung." For a private museum not supported by public funds or major conglomerates, this was an unusual acknowledgment.
 
-From a station of farewell to a sanctuary of art — the story of the Jinma Guest House is itself the most powerful exhibit: about memory, forgetting, and rebirth.
+Past significant exhibitions include: _Armenia: Objects of Thought_ (2022–2023), in collaboration with French curator Jérôme Neutres, which presented a complete retrospective of the emerging artist Armenia in East Asia; the first Taiwanese exhibition of Italian Op Art master Giulio Aviani, _Sensing the Future_ (2023–2024); and _No Dome・Endless: Shao Yong-tian_, co-curated by Shao Ya-man and Luo Helin, which combines AI-generated images with musical interaction.
+
+But challenges are real. For a private museum to operate continuously in Kaohsiung—not Taipei—a ticket price of 250 NTD is not cheap in the south, and the visitor base is far smaller than in the capital. Shao Ya-man's response has been to look outward: actively collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York to export Taiwan\'s curatorial energy internationally.
+
+## The Building Itself Is an Exhibit
+
+Perhaps the most unique aspect of the Golden Horse Hotel is not the works hanging on the walls, but the building itself.
+
+Its facade integrates three styles: the simple lines of Western modernism introduced during the economic boom in 1965, remnants of classical eclecticism from the Japanese colonial period, and Chinese classical architectural symbols. The smooth horizontal and vertical lines, the arrayed columns, and the band design create an interplay of positive and negative space—architectural historians might say its structure is "geometrical composition similar to Mies van der Rohe."
+
+During restoration, Yong-tian Art selected formaldehyde-free paints, materials without environmental hormones, and recycled wood display cases, making this sixty-year-old building a model for low-carbon green architecture in Kaohsiung. The plants planted at the beginning of its operation are now integrated with Shoushan Forest, isolating the city's hustle and bustle outside.
+
+From a farewell station to an artistic paradise, the story of the Golden Horse Hotel is itself the best artwork—a narrative about memory, forgetting, and rebirth.
 
 ---
 
-## References
-
-1. [ALIEN Art Centre Official — Building History](https://www.alien.com.tw/u/zh-tw/pages/The_History) (primary source: Kaohsiung Museum of History archives, 1959/1967 newspaper citations)
-2. [Wikipedia — ALIEN Art Centre](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8)
-3. [VERSE Magazine — From Military Station to Art Temple](https://www.verse.com.tw/article/alien-art-centre) (Yaman Shao interview)
-4. [Kaohsiung Pictorial — Green Low-Carbon Aesthetics](https://takao.kcg.gov.tw/article/3430) (2024, Lonely Planet recommendation, curatorial axes)
-5. [Shopping Design — Lonely Planet Recommends ALIEN Art Centre](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
-6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (English source, international travel guide)
-7. [500 Times — Yaman Shao: A Composed 28-Year-Old CEO](https://500times.udn.com/wtimes/story/12670/5832528) (2021)
-8. [500 Times — Mad · Zen Exhibition](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
-9. [Tatler Asia — Shao Yung-Tien and Yaman Shao](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)
-10. [Harper's BAZAAR — 13 Must-Visit Art Buildings in Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025)
-11. [ELLE — Responsive Vision: Getulio Alviani at ALIEN Art Centre](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023)
-12. [YUIMOM Group — ALIEN Art Centre](https://yuimomgroup.com/brands/art/alien-art-centre)
-
 ## Image Sources
 
-- Adece033090 / Wikimedia Commons — [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg).
+This article uses 1 CC-licensed image, cached in `public/article-images/art/` to avoid hotlinking source servers:
+
+- [Exterior view of The Golden Horse Hotel Contemporary Art Museum](https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg) — Photo: Adece033090 / Wikimedia Commons, CC BY-SA 4.0
+
+## References
+
+1. [Yong-tian Art - Golden Horse Hotel Contemporary Art Museum Official Website — Architectural History](https://www.alien.com.tw/u/zh-tw/pages/The_History) (Primary source: citing materials from the Kaohsiung Historical Museum and original reports from _United Daily News_ and _Economic Daily_ in 1959/1967)
+2. [Wikipedia — The Golden Horse Hotel Contemporary Art Museum](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8)
+3. [VERSE Magazine — The Golden Horse Hotel Contemporary Art Museum: Military Station Transforms into Artistic Hall](https://www.verse.com.tw/article/alien-art-centre) (Interview with Shao Ya-man)
+4. [Kaohsiung Art Journal — Golden Horse Contemporary Art Museum Integrates Mountains and Forests, Displaying Low-Carbon Green Aesthetics](https://takao.kcg.gov.tw/article/3430) (2024, covering the three axes: Lonely Planet recommendation, green building, curation)
+5. [Shopping Design — Recommended by Lonely Planet! The Golden Horse Hotel Contemporary Art Museum Revitalizes 60-Year Military Site](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
+6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (English source, international travel guide review)
+7. [Shopping Design — Interview with Shao Ya-man, the mastermind behind Kaohsiung's Golden Horse Hotel](https://www.shoppingdesign.com.tw/post/view/7054) (2021, three layers of curation)
+8. [500 Collection — Distinguished Figure: Shao Ya-man, the composed and confident 28-year-old executive director](https://500times.udn.com/wtimes/story/12670/5832528) (2021, Shao Yong-tian's creative journey)
+9. [500 Collection — Golden Horse Hotel Joint Exhibition _Frenzy・Zen_ by Shao Yong-tian and Shao Ya-man](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
+10. [Tatler Asia — Yumei Group’s Father and Daughter, Shao Yong-tian and Shao Ya-man, Injecting Cultural Vitality into Kaohsiung](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)
+11. [Harper's BAZAAR — 13 Must-Visit Art and Culture Buildings in Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025, Golden Horse Hotel listed as a must-visit)
+12. [ELLE — First Taiwanese Exhibition of Italian Op Art Master Giulio Aviani at the Golden Horse Hotel _Sensing the Future_](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023, curated by Jérôme Neutres)
+13. [Yumei Group Official Website — Yong-tian Art / The Golden Horse Hotel Contemporary Art Museum](https://yuimomgroup.com/brands/art/alien-art-centre)

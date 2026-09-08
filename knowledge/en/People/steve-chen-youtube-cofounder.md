@@ -1,166 +1,168 @@
 ---
-title: 'Steve Chen: YouTube Co-Founder'
-description: 'He left Taiwan at eight, built a place at twenty-seven where anyone in the world could upload a video, sold it twenty months later for US$1.65 billion, then a tumor grew in his head — and then he came back with his wife and kids.'
+title: 'Steve Chen: From Leaving Taiwan at Eight to Returning with a Brain Tumor'
+description: 'He left Taiwan at eight, built a platform in America at twenty-seven, sold it for $1.65 billion after two decades, and then returned with his wife and children after being diagnosed with a brain tumor.'
 date: 2026-04-06
+category: 'People'
 tags:
   [
     'Steve Chen',
     'YouTube',
     'Silicon Valley',
-    'startups',
+    'Startup',
     'Employment Gold Card',
-    'brain tumor',
+    'Brain Tumor',
   ]
-category: 'People'
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 8
-translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:a7528e9b7062bef0'
-sourceBodyHash: 'sha256:9f3cbb43337753f0'
-translatedAt: '2026-05-01T13:44:02+08:00'
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 8
+translatedFrom: 'People/陳士駿.md'
+sourceCommitSha: '5478954ba'
+sourceContentHash: 'sha256:ba95870558368ba6'
+sourceBodyHash: 'sha256:10a502d58bab93f7'
+translatedAt: '2026-09-08T15:54:33+08:00'
 ---
 
 # Steve Chen
 
-## 30-Second Overview
+## 30-Second Summary
 
-Steve Chen (陳士駿, 1978–), born in Taipei, emigrated to the United States at age eight, and in 2005 co-founded YouTube with two former PayPal colleagues in a garage. Twenty months later, he sold it to Google for US$1.65 billion, becoming one of Silicon Valley's most prominent Taiwanese-American entrepreneurs. A few months after the Google acquisition, he was diagnosed with a brain arterial aneurysm. After two craniotomies and fifteen seizures, he returned to Taiwan with his wife and children in 2019.[^1] In 2018, then-Premier William Lai personally presented him with Taiwan's first "Employment Gold Card."[^2]
-
----
-
-## Born in Taipei, One of Two Asians in the Whole School
-
-Steve Chen was born in Taipei in 1978. He attended the private Ching-hsin Elementary School in Taipei for two years before emigrating to the United States with his family at age eight.
-
-He later said that in his American middle school, he and his younger brother were the only two Asian students in the entire school.[^3] During that period he developed a passion for mathematics and science, which eventually brought him to the University of Illinois at Urbana-Champaign to study computer science. He joined the newly launched startup PayPal before finishing his senior year.
-
-After eBay acquired PayPal for US$1.5 billion, Chen left. He briefly joined Facebook as one of its early employees, staying a few months before leaving again — he wanted to build something of his own.[^4]
+Steve Chen (born 1978), born in Taipei, immigrated to the United States at age eight. In 2005, he co-founded YouTube in a garage with two former PayPal colleagues. Twenty months later, it was sold to Google for $1.65 billion, making him one of Silicon Valley's most famous Taiwanese entrepreneurs. A few months after the acquisition by Google, he was diagnosed with an aneurysm; following two craniotomies and fifteen epileptic seizures, he settled back in Taiwan with his wife and children in 2019.[^1] In 2018, then-Premier Lai Ching-te personally issued him Taiwan's first "Employment Gold Card."[^2]
 
 ---
 
-## A Garage, a Credit Card, Twenty Months
+## Born in Taipei, Only Two Asians in School
 
-In February 2005, Steve Chen and former PayPal colleagues Chad Hurley and Jawed Karim began building a system in Hurley's garage.
+In 1978, Steve Chen was born in Taipei. He attended Jingxin Elementary School in Taipei for two years before immigrating to the United States with his parents at age eight.
 
-Startup capital was minimal — for a stretch, YouTube ran on Chen's personal credit card. As he later recalled: "We were self-funded, and right before we got acquired, I was reaching my credit card limit every month." He then discovered he could push two to three times past the limit by paying it off several times a month.[^5]
+He later recounted that in American high school, he and his younger brother were the only two Asian students in the entire school.[^3] During that period, he loved mathematics and science and later attended the University of Illinois Urbana-Champaign to study computer science. Before graduating from his senior year, he joined PayPal, which was just starting out.
 
-YouTube's original concept was a video-uploading dating site, allowing people to post clips for strangers to watch. But they quickly discovered users did not care about dating — they just wanted somewhere to share video. Funny clips, family home movies, live music performances, anything. YouTube accidentally grew into an entirely different species.
+After eBay acquired PayPal for $1.5 billion, Chen left. He briefly worked at Facebook for a few months before leaving again—he wanted to do something of his own.[^4]
 
-It officially launched in May 2005, and traffic grew fast enough that servers could barely keep pace. That year, there was nowhere in the world where ordinary people could upload and watch video this effortlessly.
+---
 
-On October 16, 2006, Google announced its acquisition of YouTube for US$1.65 billion — the most attention-grabbing deal in the history of the internet at that time. Chen was 28 years old and held approximately 17% of YouTube's equity.[^6]
+## Garage, Credit Card, Twenty Months
 
-But he later said it was not something they had gone out to sell.
+In February 2005, Steve Chen began building the system in Chad Hurley's garage with former PayPal colleagues Jawed Karim and Hurley.
 
-> "We were basically forced down the acquisition path, primarily because of legal issues."
+The initial funding was very scarce; for a period, YouTube ran on Chen’s personal credit card.[^5] He later recalled: "We paid for it ourselves; before the acquisition, I maxed out my credit card every month." He then discovered that by making several payments within a month, he could get two or three times the limit.
+
+YouTube's original concept was a social networking site where users could upload videos to be watched by strangers. But they quickly realized that users didn't care about socializing; they just wanted a place to share videos—funny clips, home movies, music performances, anything. YouTube unexpectedly grew into something else.
+
+It officially launched in May 2005, and the traffic grew so fast that the servers couldn't keep up. At that time, no other platform globally allowed ordinary people to upload and watch videos so easily.
+
+On October 16, 2006, Google announced the acquisition of YouTube for $1.65 billion, which was one of the most highly anticipated mergers in internet history at the time. Chen was twenty-eight years old then and held about 17% of YouTube's shares.[^6]
+
+However, he later stated that this was not a sale they initiated.
+
+> "We were basically forced down the path to acquisition, mainly due to legal issues."
 > — Steve Chen, Sequoia Capital Podcast[^7]
 
-YouTube hosted enormous quantities of copyright-protected video — content from NBC, CBS, and MTV — all uploaded by users without authorization. Media companies were threatening to sue. The three founders could not withstand a legal battle on their own; Google had the capacity to negotiate. It was not a sale — it was survival.
+There was a large amount of copyrighted material on YouTube—content from NBC, CBS, and MTV—all uploaded without permission by users. Media companies began threatening lawsuits. The three founders could not handle this legal battle alone; Google had the capacity to negotiate. It wasn't about selling; it was about survival.
 
 ---
 
-## Google Employee, Brain Tumor, Farewell Letter
+## Google Employee, Brain Tumor, Will
 
-After the Google acquisition, Chen remained at Google in a senior role. In 2007, CNN approached YouTube with an unprecedented collaboration: allowing internet users to submit questions to candidates in the US presidential election.
+After Google acquired YouTube, Chen remained employed at Google. In 2007, CNN approached YouTube with an unprecedented collaboration: allowing netizens to ask questions of U.S. presidential candidates.
 
-Chen said: "I was so busy I went three days and three nights without sleep, and fell asleep on the flight back to San Francisco — only to have a seizure."[^8]
+Chen said: "I was so busy for three days and three nights without sleeping—I only fell asleep on the flight back to San Francisco—and then I had an epileptic seizure."[^8]
 
-The diagnosis was a brain tumor — medically classified as a giant thrombosed aneurysm. He underwent the first surgery and began long-term medication to manage the condition.
+The diagnosis from the doctor was a brain tumor, scientifically known as a giant thrombosed aneurysm. He underwent his first surgery and began long-term medication control.
 
-But the problem was not cured. The aneurysm in his head continued to grow, and after marrying and having two children, this threat became ever more concrete. In 2018, at age 40, he decided to undergo a second surgery. Two doctors warned him the surgery carried extreme risks.
+But the condition was not cured. The aneurysm in his head kept growing, and this threat became more concrete after he married and had two children. In 2018, at age forty, he decided to undergo a second surgery, which both doctors warned carried extreme risks.
 
-"I wasn't sure whether my children knew their father was going in for head surgery — something like having your head cut off with a saw. I also wrote a farewell letter to my children." He later said: "As it turned out, I survived six hours of grueling surgery."[^9]
+"I wasn't sure if my kids knew their dad was going to have brain surgery, like having your head sawed off. I also left a will for my children," he later said, "which proved that I survived the long six-hour operation."[^9]
 
-After two craniotomies and fifteen seizures, he was alive.
-
----
-
-## Two More Ventures: AVOS and Nom.com, Two More Times Without Success
-
-In 2011, Chen and Hurley left Google and founded AVOS Systems in San Mateo, California — the same Silicon Valley city where YouTube had been created — and also acquired the social bookmarking service Delicious from Yahoo.
-
-This time there was no repeat of YouTube's success. In 2014, Chen was reported to have left AVOS and joined Google Ventures (Google's venture capital arm).
-
-In 2016, he co-founded Nom.com, a live-streaming food network allowing people to live-stream while cooking. In 2017, Nom.com shut down.[^10]
-
-Neither second-act venture succeeded, but Chen never used the word "failure" to describe them. He has said he wants to do "things that have never been done before" — whether the outcome is good is a separate matter.
+After two craniotomies and fifteen epileptic seizures, he lived.
 
 ---
 
-## Back in Taiwan: Earthquake on Day Four
+## Second Ventures: AVOS and Nom.com, Two Failures
 
-In 2019, one year after surgery, 41-year-old Steve Chen moved back to Taiwan with his Korean-American wife Park Ji-hyun and their two children.
+In 2011, Chen and Hurley left Google to start AVOS Systems in San Mateo, Silicon Valley, where YouTube was founded, and also acquired the social bookmarking service Delicious from Yahoo.
 
-He said the desire to leave the United States had been building for a long time. "The gun violence, drugs, and public safety problems on San Francisco's streets are very serious — it's very dangerous to walk around at night." He wanted to give his children a different environment, to let them learn traditional Chinese and engage with Taiwanese culture.
+This venture did not replicate the success of YouTube. In 2014, it was reported that Chen left AVOS to join Google Ventures (Google's venture capital arm).
 
-Life in Taiwan surprised him. "Taiwan is small but has everything you need. Transportation is more convenient than other countries, people are friendly, and the scenery driving down along the coastline is genuinely beautiful." He also said: "I still remember, on the fourth day back in Taiwan, we had an earthquake."[^11]
+In 2016, he co-founded Nom.com, a live-streaming food network—allowing people to cook and stream simultaneously. Nom.com closed in 2017.[^10]
 
-His children adapted better than he had expected. He had worried they would "be treated as outsiders when they returned to Taiwan" — but the kids integrated quickly, and now when they mention their American friends, "it's as if they're talking about a foreigner."
-
-In 2018, then-Premier William Lai (賴清德) presented Chen with Taiwan's first "Employment Gold Card" — a combined work and residency permit established by the government to attract overseas technology talent. Science and Technology Minister Wu Cheng-wen subsequently presented him with a VIP black card for the Taiwan Tech Arena (TTA).[^2]
+Neither of his two subsequent ventures were successful, but Chen never used the word "failure" to describe them. He said that what he wanted to do was something "never done before," and whether it succeeded or not was another matter.
 
 ---
 
-## Does He Regret Selling YouTube?
+## Returning to Taiwan: Earthquake on Day Four
 
-This is the question he is asked most often.
+In 2019, one year after his surgery, forty-one-year-old Chen moved back to Taiwan with his Korean wife Park Ji-hyun and two children.
 
-Some friends have estimated that if YouTube were still operating independently today, its valuation would be somewhere between US$50 billion and US$80 billion. Chen held 17% of the equity — meaning the number he could theoretically have held is many times larger than the US$1.65 billion he received.
+He said that the idea of leaving America had been around for a long time. "The guns, drugs, and safety issues on the streets of San Francisco were very serious; it was very dangerous to walk in the street at night." He wanted to give his children a different environment and have them learn Traditional Chinese and experience Taiwanese culture.
 
-His answer has consistently been: no regrets. He says YouTube grew into what it is today because of Google's resources and protection — without the ability to resolve the copyright litigation, YouTube might have been destroyed by media companies' lawyers long ago.[^12]
+Life in Taiwan surprised him somewhat. "Taiwan is small but complete, transportation is more convenient than other countries, and people are friendly. Driving south along the coast is truly beautiful," he added. He also recalled: "I remember having an earthquake on the fourth day I returned to Taiwan."[^11]
 
-And US$1.65 billion is not a small number. He was 28, had money, had time, and had things he still wanted to do.
+The children adapted better than he expected. Although he was initially worried about being treated as a foreigner in Taiwan, his children quickly integrated and now speak of their American friends "as if they were foreigners."
+
+In 2018, Premier Lai Ching-te issued the first "Employment Gold Card" in Taiwan to Steve Chen—a residency work permit established by the government to attract overseas technological talent. Minister of Science and Technology Wu Cheng-chung also issued him a VIP Black Card from the Taiwan Tech Association (TTA).[^2]
 
 ---
 
-## What He Said to Taiwan
+## He Says He Has No Regrets About Selling YouTube
 
-In 2023, Steve Chen spoke at a public event encouraging young Asian Americans to pursue their dreams in Silicon Valley, but his words ultimately came to rest on Taiwan:
+This is his most frequently asked question.
 
-"Taiwanese people's talent is not inferior to Americans'. What we lack is not talent — it is success stories, and the chance for the world to see us."[^13]
+Some friends estimate that if YouTube were still operating independently today, its valuation would be between $50 billion and $80 billion. Since Chen held 17% of the shares, the amount he could have received was many times more than $1.65 billion.
 
-In Taiwan, he sponsored the Stanford Asia-Pacific Research Center (APARC) to establish the "Taiwan Program," partnering with National Taiwan University to hold forums bringing together entrepreneurs and researchers from Taiwan, Japan, South Korea, Singapore, and the United States. He says what he wants to do is make Taiwan's startups visible to the world — not waiting for the world to come to Taiwan, but actively bringing Taiwan to the front of the stage.
+His answer is usually: no regrets. He says that YouTube became what it is today because of Google's resources and protection—without their ability to resolve copyright lawsuits, YouTube might have been sued into bankruptcy by media company lawyers long ago.[^12]
 
-A person who left at eight and returned at forty-one is continuing, in his own way, to remain connected to this island.
+Furthermore, $1.65 billion is not a small amount. At twenty-eight, he had money, time, and things he wanted to do next.
+
+---
+
+## What He Said About Taiwan
+
+In 2023, during a speech encouraging Asian youth to chase dreams in Silicon Valley, his words landed in Taiwan:
+
+"The talent of Taiwanese people is not inferior to that of Americans. What we lack is success stories and opportunities for the world to see us."[^13]
+
+He sponsored the "Taiwan Project" at the Asia Pacific Research Center (APARC) at Stanford University and co-hosted a forum with National Taiwan University, inviting entrepreneurs and researchers from Taiwan, Japan, South Korea, Singapore, and the United States to converse. He said that what he wanted to do was make Taiwanese startups visible to the world—not waiting for the world to come to Taiwan, but actively bringing Taiwan onto the stage.
+
+A man who left at eight and returned at forty-one continues to be connected to this island in his own way.
 
 ---
 
 ## Further Reading
 
-- [Steve Chen Interview: Surviving a Life-or-Death Brain Tumor Battle, Returning to Taiwan to Live for His Children's Education (Mirror Media, 2021)](https://www.mirrormedia.mg/story/20210119fin010) — The most complete account of his return to Taiwan
-- [YouTube Co-Founder Steve Chen: From 0 to 2.5 Billion Users, the Key to Creating a Miracle in 18 Months (Meet.bnext, 2024)](https://meet.bnext.com.tw/articles/view/51927) — Inside story of YouTube's founding and technical decisions
-- [William Lai Presents First Employment Gold Card to YouTube Co-Founder Steve Chen (NDC, 2018)](https://foreigntalentact.ndc.gov.tw/nc_12975_28497) — Background on the Employment Gold Card policy
-- [Steve Chen Ventures in Taiwan: Silicon Valley's Golden Boy Returns (Yahoo News, 2022)](https://tw.news.yahoo.com/%E9%99%B3%E5%A3%AB%E9%A7%BF%E5%9C%A8%E5%8F%B0%E5%89%B5%E6%A5%AD2-%E7%9F%BD%E8%B0%B7%E5%89%B5%E6%A5%AD%E9%87%91%E7%AB%A5%E5%9B%9E%E5%8F%B0%E5%90%84%E7%95%8C%E7%9F%9A%E7%9B%AE-%E9%99%B3%E5%A3%AB%E9%A7%BF-%E6%97%A5%E8%A1%8C%E7%A8%8B%E6%9B%9D%E5%85%89-215857187.html) — Observations on his entrepreneurial activities at TTA after returning to Taiwan
+- [Steve Chen Interview: Surviving a Brain Tumor Crisis to Settle in Taiwan for His Children's Education (Mirror Weekly, 2021)](https://www.mirrormedia.mg/story/20210119fin010) — The most complete account of settling in Taiwan
+- [YouTube Founder Steve Chen: The Key to Creating 2.5 Billion Users from Zero in 18 Months (Startup Gathering, 2024)](https://meet.bnext.com.tw/articles/view/51927) — Inside the YouTube startup and technical decisions
+- [Lai Ching-te Issues First Employment Gold Card to YouTube Founder Steve Chen (National Development Council, 2018)](https://foreigntalentact.ndc.gov.tw/nc_12975_28497) — Background on the Employment Gold Card policy
+- [Steve Chen's Startup in Taiwan: The Silicon Valley Golden Child Returns to Taiwan (Yahoo News, 2022)](https://tw.news.yahoo.com/%E9%99%B3%E5%A3%AB%E9%A7%BF%E5%9C%A8%E5%8F%B0%E5%89%B5%E6%A5%AD2-%E7%9F%BD%E8%B0%B7%E5%89%B5%E6%A5%AD%E9%87%91%E7%AB%A5%E5%9B%9E%E5%8F%B0%E5%90%84%E7%95%8C%E7%9F%9A%E7%9B%AE-%E9%99%B3%E5%A3%AB%E9%A7%BF-%E6%97%A5%E8%A1%8C%E7%A8%8B%E6%9B%9D%E5%85%89-215857187.html) — Observations on starting a company at TTA after returning to Taiwan
 
-### References
+### References / Sources
 
-[^1]: Wikipedia on Steve Chen, Traditional Chinese version: "A few months after Google's acquisition, Chen was diagnosed with a brain tumor and operated on in 2009."; Mirror Media, January 2021: "After two major craniotomies and 15 seizures... the year after the surgery ended, Chen flew back to Taiwan from the United States with his wife and children." https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%A3%AB%E9%A7%BF
+---
 
-[^2]: NDC Employment Gold Card information page: "Premier William Lai (賴清德) presented the first Employment Gold Card to YouTube co-founder Steve Chen (陳士駿), thanking Steve for his willingness to return to Taiwan and contribute his technology skills and management expertise." https://foreigntalentact.ndc.gov.tw/nc_12975_28497
+[^1]: Steve Chen Wikipedia, Traditional Chinese Edition: "A few months after the Google acquisition, Chen was diagnosed with a brain tumor and underwent surgery in 2009." Mirror Weekly, January 2021: "After two major craniotomies and 15 epileptic seizures... one year after the operation, Chen flew back to Taiwan with his wife and children from America."https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%A3%AB%E9%A7%BF
 
-[^3]: World Journal, May 18, 2023: "In 2019, at 41, he returned to Taiwan again. Unlike before, when he and his brother were the 'only two' Asians in the whole school..." https://www.worldjournal.com/wj/story/123484/7168282
+[^2]: National Development Council Employment Gold Card Information Page: "Premier Lai Ching-te issued the first Employment Gold Card to YouTube founder Steve Chen (Steve Chen), thanking Steve for willing to contribute his technological expertise and management skills to Taiwan."https://foreigntalentact.ndc.gov.tw/nc_12975_28497
 
-[^4]: Wikipedia, same source: "He was also an early employee of Facebook, although he left after a few months to co-found YouTube."
+[^3]: World Daily, May 18, 2023: "In 2019, he was 41 years old when he returned to Taiwan. The difference is that previously, he and his brother were the 'only two' Asians in school..."https://www.worldjournal.com/wj/story/123484/7168282
 
-[^5]: [Funded on Credit Card Debt, Acquired in a Denny's: Steve Chen on YouTube's Founding Story, Startup Grind](https://www.startupgrind.com/blog/video-funded-on-credit-card-debt-acquired-in-a-dennys-steve-chen-on-youtubes-founding-story/) — Chen in his own words on self-funding YouTube and maxing out his credit card.
+[^4]: Wikipedia (same as above): "He was also an early employee of Facebook, although he left after a few months to found YouTube."
 
-[^6]: Wikipedia, same source: "On October 16 of that year, Chen and Hurley sold YouTube to Google for US$1.65 billion, and became Google shareholders through their YouTube equity."; Baidu Baike: "held 17% equity."
+[^5]: [Funded on Credit Card Debt, Acquired in a Denny's: Steve Chen on YouTube's Founding Story, Startup Grind](https://www.startupgrind.com/blog/video-funded-on-credit-card-debt-acquired-in-a-dennys-steve-chen-on-youtubes-founding-story/) — Details from Steve Chen himself about funding YouTube with his own money and maxing out credit cards.
 
-[^7]: Threads user quoting Steve Chen interview on Sequoia Capital Podcast: "We were basically forced down the acquisition path, primarily because of legal issues." https://www.threads.com/@vktechread/post/DHnktz_AG7w/
+[^6]: Wikipedia (same as above): "On October 16 of that year, Chen sold YouTube to Google for $1.65 billion, making him a shareholder in Google due to holding YouTube shares." Baidu Baike: "Holding 17% of the shares."
 
-[^8]: Mirror Media, January 2021: "In 2007... I was so busy I went 3 days and 3 nights without sleep, and fell asleep on the flight back to San Francisco. I had a seizure, and the doctor's diagnosis was a brain tumor — medically, a giant thrombosed aneurysm." https://www.mirrormedia.mg/story/20210119fin010
+[^7]: Threads User Quote, Steve Chen interviewed on Sequoia Capital Podcast: "We were basically forced down the path to acquisition, mainly due to legal issues."https://www.threads.com/@vktechread/post/DHnktz_AG7w/
 
-[^9]: Mirror Media, same source: "I wasn't sure whether my children knew their father was going in for head surgery — something like having your head cut off with a saw. I also wrote a farewell letter to my children... As it turned out, I survived 6 hours of grueling surgery."
+[^8]: Mirror Weekly, January 2021: "In 2007... I was so busy for three days and three nights without sleeping—I only fell asleep on the flight back to San Francisco. I had an epileptic seizure; the doctor's examination showed a brain tumor, scientifically known as a giant thrombosed aneurysm."https://www.mirrormedia.mg/story/20210119fin010
 
-[^10]: Wikipedia, same source: "In 2011, Chen and Hurley founded AVOS Systems... In 2016, Chen... co-founded the live-streaming food network Nom.com. In 2017, Nom.com was shut down."
+[^9]: Mirror Weekly (same as above): "I wasn't sure if my kids knew their dad was going to have brain surgery, like having your head sawed off. I also left a will for my children... which proved that I survived the long six-hour operation."
 
-[^11]: Mirror Media, January 2021: "Taiwan is small but has everything you need. Transportation is more convenient than other countries, people are friendly... I still remember, on the 4th day back in Taiwan, we had an earthquake."; same article: "The gun violence, drugs, and public safety problems on San Francisco's streets are very serious."
+[^10]: Wikipedia (same as above): "In 2011, Chen and Hurley founded AVOS Systems... In 2016, Chen co-founded the live-streaming food network Nom.com. Nom.com was closed in 2017."
 
-[^12]: Meet.bnext, 2019: "Do you regret selling YouTube to Google in 2006?... If YouTube were still operating independently today, its valuation would be around US$50 to US$80 billion." Chen's answer: no regrets. https://meet.bnext.com.tw/articles/view/43997
+[^11]: Mirror Weekly, January 2021: "Taiwan is small but complete, transportation is more convenient than other countries, and people are friendly... I remember having an earthquake on the fourth day I returned to Taiwan." Same article: "The guns, drugs, and safety issues on the streets of San Francisco were very serious."
 
-[^13]: Meet.bnext, 2020, quoting Lin Yu-chin; Chen held similar views at a public talk that year: "What Taiwan lacks is not talent — it is success stories."; Threads, March 2025: "Steve Chen sponsors Stanford APARC to establish the Taiwan Program, partnering with NTU to hold forums."
+[^12]: Startup Gathering, 2019: "Would you regret selling YouTube to Google in 2006?... If YouTube were still operating independently today, its valuation would be around $50 billion to $80 billion." Chen answered: no regrets.https://meet.bnext.com.tw/articles/view/43997
+
+[^13]: Startup Gathering, 2020, quoting Lin Yu-chin, and Chen's similar views in the same year: "What Taiwan lacks is not talent, but success stories." Threads, March 2025: "Chen sponsored the Taiwan Project at Stanford University APARC and co-hosted a forum with National Taiwan University."
