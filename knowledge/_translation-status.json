@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T03:37:57+08:00",
-    "zhCommitHead": "127cde75f",
+    "lastUpdated": "2026-09-09T03:59:34+08:00",
+    "zhCommitHead": "200bdf261",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 769,
-        "stale": 75,
+        "fresh": 770,
+        "stale": 74,
         "metadata_stale": 17,
         "missing": 260,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 51,
         "metadata_stale": 14,
-        "missing": 357,
+        "missing": 356,
         "orphan": 0
       },
       "ru": {
@@ -135130,24 +135130,33 @@
         "pt": {
           "path": "pt/Geography/yunlin-county.md",
           "translatedFrom": "Geography/雲林縣.md",
-          "sourceCommitSha": "036da279d",
-          "sourceContentHash": "sha256:68dcc74d52d8c737",
-          "sourceBodyHash": "sha256:24b0d8d16f592539",
-          "translatedAt": "2026-07-30T03:55:56+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:189f50627b664502",
+          "sourceBodyHash": "sha256:7144cde6e4cd475f",
+          "translatedAt": "2026-09-08T19:48:43.181835+00:00",
           "translationLastCommit": "f2ca2b0f",
           "translationLastModified": "2026-07-30T06:52:21+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+23 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/yunlin-county.md",
+          "translatedFrom": "Geography/雲林縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:189f50627b664502",
+          "sourceBodyHash": "sha256:7144cde6e4cd475f",
+          "translatedAt": "2026-09-08T15:54:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/yunlin-county.md",
@@ -137655,8 +137664,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-09-08T15:54:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "200bdf26",
+          "translationLastModified": "2026-09-09T03:37:57+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -140890,8 +140899,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-08T15:54:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "200bdf26",
+          "translationLastModified": "2026-09-09T03:37:57+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
