@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-08 | 064050-twmd-spore-harvest-am | 6 孢子 D+16~D+35 metrics 到位；Chrome MCP 無登入態，0 reply ship；#175 22 則留言分桶：2 Bucket B 收詞候選、2 Bucket D 框架質疑待哲宇 | 公開頁面 metrics 與留言不需登入即可讀，只有貼文那步真的卡在 auth | [→](memory/2026-09-08-064050-twmd-spore-harvest-am.md) |
 | 2026-09-08 | 070846-twmd-feedback-triage | 連兩輪零新回報仍照跑 --commit，兩道對賬 84/84 與 83/84 全綠；撞見 babel writer 全程繞開 | archive-comments-synced=0 兩種根因同一長相，下面那行 comment-reconcile 才是上工的證據 | [→](memory/2026-09-08-070846-twmd-feedback-triage.md) |
 | 2026-09-08 | 090356-twmd-maintainer-am | 5 ready PR 強制升 full；4 篇翻譯 merged，3 篇 subcategory 被翻成目標語言已 heal；追上游量出十三語 1,646 篇同病、920 篇已掉進分類頁「其他」 | 守它的閘門射程宣告只看中文，而受災區 100% 住在譯文那側——沒有東西在問「保護對象在不在射程內」 | [→](memory/2026-09-08-090356-twmd-maintainer-am.md) |
+| 2026-09-09 | 003736-twmd-babel-nightly | 昨晚的 dispatcher 連續跑 23h53m 仍在產出（三重巡檢全綠），今晚讓場不重複派發 | 同一 routine 兩次排程窗口互相重疊，是排程模型跟實際續跑時長脫節的訊號 | [→](memory/2026-09-09-003736-twmd-babel-nightly.md) |
