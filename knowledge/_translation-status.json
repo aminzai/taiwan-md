@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T03:59:34+08:00",
-    "zhCommitHead": "200bdf261",
+    "lastUpdated": "2026-09-09T04:24:31+08:00",
+    "zhCommitHead": "0f1d02b50",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 786,
-        "stale": 87,
+        "fresh": 787,
+        "stale": 86,
         "metadata_stale": 21,
         "missing": 227,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 794,
-        "stale": 82,
+        "fresh": 795,
+        "stale": 81,
         "metadata_stale": 20,
         "missing": 225,
         "orphan": 0
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 780,
+        "fresh": 781,
         "stale": 86,
-        "metadata_stale": 28,
+        "metadata_stale": 27,
         "missing": 227,
         "orphan": 0
       },
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 700,
-        "stale": 51,
+        "fresh": 701,
+        "stale": 50,
         "metadata_stale": 14,
         "missing": 356,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 745,
+        "fresh": 746,
         "stale": 44,
         "metadata_stale": 11,
-        "missing": 321,
+        "missing": 320,
         "orphan": 0
       },
       "de": {
@@ -109559,8 +109559,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "1effc34f",
-          "translationLastModified": "2026-07-25T11:50:45+08:00",
+          "translationLastCommit": "0f1d02b5",
+          "translationLastModified": "2026-09-09T03:59:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -127692,7 +127692,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-womens-movement.md",
+          "translatedFrom": "History/婦女運動.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:1b50bc175ecf61ab",
+          "sourceBodyHash": "sha256:e725ecac1936b5cf",
+          "translatedAt": "2026-09-08T15:54:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -135026,18 +135037,16 @@
         "en": {
           "path": "en/Geography/yunlin-county.md",
           "translatedFrom": "Geography/雲林縣.md",
-          "sourceCommitSha": "036da279d",
-          "sourceContentHash": "sha256:68dcc74d52d8c737",
-          "sourceBodyHash": "sha256:24b0d8d16f592539",
-          "translatedAt": "2026-05-18T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:189f50627b664502",
+          "sourceBodyHash": "sha256:7144cde6e4cd475f",
+          "translatedAt": "2026-09-08T20:04:13.303456+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+23 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/yunlin-county.md",
@@ -135151,8 +135160,8 @@
           "sourceContentHash": "sha256:189f50627b664502",
           "sourceBodyHash": "sha256:7144cde6e4cd475f",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f1d02b5",
+          "translationLastModified": "2026-09-09T03:59:34+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -135207,18 +135216,16 @@
         "ko": {
           "path": "ko/Geography/lienchiang-county.md",
           "translatedFrom": "Geography/連江縣.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:ea03141006e20279",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2038e5c6672647ae",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T01:27:19.618111+00:00",
+          "translatedAt": "2026-09-08T19:38:11.545103+00:00",
           "translationLastCommit": "52c18f8e",
           "translationLastModified": "2026-08-09T09:49:39+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/lienchiang-county.md",
@@ -135293,18 +135300,16 @@
         "ar": {
           "path": "ar/Geography/lienchiang-county.md",
           "translatedFrom": "Geography/連江縣.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:d4c098241e462d40",
-          "sourceBodyHash": "sha256:80a9df00758fba97",
-          "translatedAt": "2026-08-06T07:38:36+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:1fd37c97be6e7dd6",
+          "sourceBodyHash": "sha256:6a5df577261b78fa",
+          "translatedAt": "2026-09-08T20:14:50.586373+00:00",
           "translationLastCommit": "630f084f",
           "translationLastModified": "2026-08-06T11:30:25+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/lienchiang-county.md",
@@ -137602,18 +137607,16 @@
         "fr": {
           "path": "fr/Geography/taipei-city.md",
           "translatedFrom": "Geography/台北市.md",
-          "sourceCommitSha": "1fbb3adf1",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taipei-city.md",
