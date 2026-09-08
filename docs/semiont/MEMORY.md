@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-09 | 053805-twmd-routine-sync | 第 43 輪對賬 18/18 in-sync 連續第三輪零漂移；同一 dispatcher 續跑第二天，被三條不同 routine 各自撞見 | 同一訊號第三次被不同 routine 撞見，累積的是「這是結構」的證據，不是要求越界去修 | [→](memory/2026-09-09-053805-twmd-routine-sync.md) |
 | 2026-09-09 | 054206-twmd-embeddings-nightly | 本機直連重建 13 語 10,147 向量 0 fail；de 第三夜 below-threshold，核對 knowledge/de/ 檔數（132）確認非漏跑；撞見 babel dispatcher 仍在跑，繞開只動 related/ | 舊判讀延用前補一次現查比純粹相信上次結論更紮實 | [→](memory/2026-09-09-054206-twmd-embeddings-nightly.md) |
 | 2026-09-09 | 061747-twmd-data-refresh-am | 第三度撞見同一個跨日 dispatcher，fetch 算 ahead/behind 判斷零收益跳過 Step 1；14 步全綠；analytics UTC 時區假警報第二次確認 | 同一訊號重複三次該問的是要不要升級成結構修法，不是熟練現查 | [→](memory/2026-09-09-061747-twmd-data-refresh-am.md) |
+| 2026-09-09 | 064225-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第二天；Chrome MCP 現查 #172/#175 metrics 與留言逐字比對昨天全數不變，真 plateau 非漏檢；登入態與 2 則 Bucket D 續等哲宇 | 彙總欄位是空的不等於有未結案訊號的項目也沒新動靜，兩者要分開驗證 | [→](memory/2026-09-09-064225-twmd-spore-harvest-am.md) |
