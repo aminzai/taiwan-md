@@ -22,13 +22,21 @@ featured: false
 lastVerified: 2026-06-25
 lastHumanReview: true
 readingTime: 20
-translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'da22dc5b'
-sourceContentHash: 'sha256:b4fa10553d998dfa'
-sourceBodyHash: 'sha256:6475e91be41d93b4'
-translatedAt: '2026-07-18T18:57:47+08:00'
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
+relatedDiary: ['2026-06-25-203919-manual-mirror']
+sporeLinks:
+  [
+    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
+    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
+  ]
+translatedFrom: 'Technology/mini-taiwan-pulse.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:7704f0ba39f9bad2'
+sourceBodyHash: 'sha256:953746868edc36a0'
+translatedAt: '2026-09-08T05:21:50.583058+00:00'
 ---
 
 # Mini Taiwan Pulse: com olhar curatorial, Taiwan se transforma em um mapa que respira
