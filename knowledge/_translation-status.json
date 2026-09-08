@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T08:44:45+08:00",
-    "zhCommitHead": "68877e19a",
+    "lastUpdated": "2026-09-08T09:20:10+08:00",
+    "zhCommitHead": "1056f8791",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,40 +44,40 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 766,
+        "fresh": 767,
         "stale": 93,
-        "metadata_stale": 28,
+        "metadata_stale": 27,
         "missing": 234,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 766,
         "stale": 95,
-        "metadata_stale": 30,
+        "metadata_stale": 29,
         "missing": 231,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 621,
-        "stale": 99,
-        "metadata_stale": 87,
+        "fresh": 623,
+        "stale": 98,
+        "metadata_stale": 86,
         "missing": 314,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 543,
+        "fresh": 544,
         "stale": 52,
         "metadata_stale": 13,
-        "missing": 513,
+        "missing": 512,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 754,
-        "stale": 78,
+        "fresh": 755,
+        "stale": 77,
         "metadata_stale": 22,
         "missing": 267,
         "orphan": 0
@@ -85,9 +85,9 @@
       "hi": {
         "total_zh": 1121,
         "fresh": 626,
-        "stale": 43,
+        "stale": 44,
         "metadata_stale": 12,
-        "missing": 440,
+        "missing": 439,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 724,
-        "stale": 55,
+        "fresh": 725,
+        "stale": 54,
         "metadata_stale": 14,
         "missing": 328,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 95,
-        "stale": 6,
+        "fresh": 96,
+        "stale": 7,
         "metadata_stale": 1,
-        "missing": 1019,
+        "missing": 1017,
         "orphan": 0
       }
     },
@@ -3488,8 +3488,8 @@
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ccf6092",
+          "translationLastModified": "2026-09-08T08:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -18691,50 +18691,44 @@
         "vi": {
           "path": "vi/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-18T18:59:51+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:85f9d09627902abf",
+          "sourceBodyHash": "sha256:c4a7f62bbc68876d",
+          "translatedAt": "2026-09-08T01:17:20.727116+00:00",
           "translationLastCommit": "7b1f253e",
           "translationLastModified": "2026-07-27T20:10:10+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:85f9d09627902abf",
+          "sourceBodyHash": "sha256:c4a7f62bbc68876d",
+          "translatedAt": "2026-09-08T01:19:38.652933+00:00",
           "translationLastCommit": "7f8b3023",
           "translationLastModified": "2026-07-27T20:09:32+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:85f9d09627902abf",
+          "sourceBodyHash": "sha256:c4a7f62bbc68876d",
+          "translatedAt": "2026-09-08T01:17:31.649184+00:00",
           "translationLastCommit": "a97835fd",
           "translationLastModified": "2026-07-27T20:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -18756,18 +18750,16 @@
         "ru": {
           "path": "ru/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76a",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-27T05:39:33+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:85f9d09627902abf",
+          "sourceBodyHash": "sha256:c4a7f62bbc68876d",
+          "translatedAt": "2026-09-08T00:59:32.009858+00:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -29638,8 +29630,8 @@
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ccf6092",
+          "translationLastModified": "2026-09-08T08:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -30863,8 +30855,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ccf6092",
+          "translationLastModified": "2026-09-08T08:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -34820,7 +34812,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/wang-a-piau-pog-cards.md",
+          "translatedFrom": "Lifestyle/尪仔標.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "053f0c07",
+          "translationLastModified": "2026-09-08T08:58:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ar": {
           "path": "ar/Lifestyle/wang-a-piau-pog-cards.md",
@@ -61930,34 +61933,30 @@
         "es": {
           "path": "es/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
           "translationLastCommit": "b72b2e51",
           "translationLastModified": "2026-08-04T15:23:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
           "translationLastCommit": "e5078c7a",
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Nature/bird-window-collision-taiwan.md",
@@ -62388,8 +62387,8 @@
           "sourceContentHash": "sha256:768855c64ea407af",
           "sourceBodyHash": "sha256:2f867df28cee4278",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ccf6092",
+          "translationLastModified": "2026-09-08T08:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -62668,7 +62667,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/palakaw.md",
+          "translatedFrom": "Nature/Palakaw.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "053f0c07",
+          "translationLastModified": "2026-09-08T08:58:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "pt": {
           "path": "pt/Nature/palakaw.md",
@@ -73359,8 +73369,8 @@
           "sourceContentHash": "sha256:b7728f29d3dbc9e2",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
           "translatedAt": "2026-07-25T12:49:32+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "74b1cd27",
+          "translationLastModified": "2026-09-08T09:01:48+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -88734,7 +88744,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/sun-yun-suan.md",
+          "translatedFrom": "People/孫運璿.md",
+          "sourceCommitSha": "09ffe560f",
+          "sourceContentHash": "sha256:9327b2569000f076",
+          "sourceBodyHash": "sha256:b9a6db1720ddc955",
+          "translatedAt": "2026-09-07T09:44:55+08:00",
+          "translationLastCommit": "46447122",
+          "translationLastModified": "2026-09-07T19:00:58+08:00",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -116778,7 +116799,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-bread-and-baking.md",
+          "translatedFrom": "Food/台灣麵包與烘焙.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "053f0c07",
+          "translationLastModified": "2026-09-08T08:58:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "stale",
+          "reason": "no-source-sha"
         }
       }
     },
@@ -117148,8 +117180,8 @@
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ccf6092",
+          "translationLastModified": "2026-09-08T08:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -137651,18 +137683,16 @@
         "vi": {
           "path": "vi/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-25T19:27:02+08:00",
+          "translatedAt": "2026-09-08T00:42:51+08:00",
           "translationLastCommit": "52d77b08",
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taichung-city.md",

@@ -1,111 +1,109 @@
 ---
-title: "Telur Besi Ah Po: Dari 'Hotel Besar Kaki Laut' di Puncak Kapal, Menuju Kenangan Kolektif yang Tahan"
-description: "Pada tahun 1983, sebuah laporan di 'Min Bao Daily News' tentang telur ungu hitam di Tamsui 'membuatnya terkenal dalam satu malam.' Makanan yang karena terus-diterpa angin laut menjadi keras dan keras ini, bukan sekadar inovasi kuliner, melainkan juga saksi penuh kemajuan Tamsui, serta kasus hukum merek yang mengungkap sejarah tentang Ah Po dan Yang Bi-yun."
+title: "Telur Besi Nenek: Dari Sebuah Kebetulan di Dermaga Penyeberangan 'Hotel Hai Jiao Da', Menjadi Kenangan Kolektif Paling Keras di Danshui"
+description: "Tahun 1983, sebuah laporan dari koran 'Min Sheng Bao' membuat telur asin hitam 'Hotel Hai Jiao Da' di Danshui terkenal semalam. Telur ini, yang karena angin laut berulang kali mengeringkan dan semakin lama direndam semakin keras, menjadi makanan 'kebetulan' yang tidak hanya menyaksikan ke bangkitan dan kejatuhan dermaga penyeberangan Danshui, tetapi juga meninggalkan kasus sejarah tentang pendiri Nenek A-kiau dan Yang Bi-yun dalam sengketa merek dagang."
 date: 2026-04-28
 category: 'Food'
-subcategory: 'Latar Belakang Makanan'
 tags:
   [
     'Makanan',
-    'Tamsui',
+    'Danshui',
     'Telur Besi',
-    'Camilan Khas Tiongkok',
-    'Budaya Makanan',
-    'Telur Besi Ah Po',
+    'Camilan Khas Taiwan',
+    'Budaya Kuliner',
+    'Telur Besi Nenek',
     'Yang Bi-yun',
-    'Huang Zhang Kuo',
+    'Huang Zhang Kiau',
   ]
-readingTime: 10
+subcategory: 'Suasana Kuliner'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: false
+readingTime: 10
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f215fbcb32524845'
-sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-07-25T07:55:54+08:00'
-author: 'Taiwan.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iron_eggs_in_Tamsui.jpg/800px-Iron_eggs_in_Tamsui.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:e1270ee3b6b84325'
+translatedAt: '2026-09-07T23:39:43.375648+00:00'
 ---
 
-# Telur Besi Ah Po
+# Telur Besi Nenek
 
-> **30 detik ringkasan:** Telur besi bukanlah yang diciptakan, melainkan yang "dibiru" oleh angin laut. Sepanjang 1970-an, sebuah gerai kecil di puncak kapal di Tamsui, yang karena telur ungu yang tidak terjual, akhirnya menjadi resep khas yang keras seperti batu. Laporan ini akan mengembalikan kita ke lokasi yang disebut-sebut sebagai "Hotel Besar Kaki Laut" itu, menguraikan kontroversi pelaku, serta prinsip ilmiah dan makna budaya di balik "camilan paling keras di Taiwan."
+> **Ringkasan 30 detik:** Telur Besi tidak ditemukan, melainkan "diup" keluar. Di 1970-an, sebuah warung mie kecil di dermaga perahu penyeberangan Tamsui, karena telur rebus tidak laku, tertiup angin laut berulang kali dan direbus berulang kali, tidak sengaja menyusut menjadi hidangan telur aneh yang hitam seperti besi batu, kenyal penuh. Artikel ini akan membawa Anda kembali ke tempat yang dijuluki "Hotel Besar di Kaki Laut", membongkar kontroversi pendirian dan ketekunan ahli di balik "camilan paling keras Taiwan", serta membahas prinsip ilmiah dan makna budayanya.
 
-Pada tanggal 24 Juli 1983, 'Min Bao Daily News' menerbitkan laporan bertuliskan "Telur Besi Ah Po, keras seperti batu" [^1]. Penulis Lin Ming-xu dalam laporan itu menggambarkan telur ungu hitam yang keras seperti batu itu, yang menjanjikan manfaat bagi gigi. Siapa pikir bahwa laporan itu akan mengubah sebuah gerai kecil di puncak kapal di Tamsui menjadi destinasi pajak makanan legendaris di seluruh Taiwan.
+Pada 24 Juli 1983, _Minsheng Bao_ halaman 12 memuat berita berjudul 〈阿婆鐵蛋，硬是要得〉 [^1]. Jurnalis Lin Ming-yu dalam artikelnya menggambarkan, telur rebus hitam mengkilap, keras seperti besi ini, dijamin memberikan "bantuan" khusus bagi kekuatan gigi. Saat itu tidak ada yang menyangka, berita ini akan mengubah sebuah warung mie tanpa nama di dermaga perahu penyeberangan Tamsui, menjadi tempat suvenir paling terkenal di seluruh Taiwan.
 
-## Petani Pedesaan: Titik Awal Kebangkitan
+## Pembawa Tanabe: Titik Awal Segalanya
 
-Lahirnya telur besi bukanlah hasil desain terencana, melainkan kebetulan yang berkaitan dengan "memanfaatkan sisa." Perkembangan ini erat kaitannya dengan perubahan historis Tamsui.
+Kelahiran Telur Besi, awalnya bukan demi mengejar kelezatan, melainkan sebuah kecelakaan soal "menghargai barang", dan juga erat kaitannya dengan perubahan sejarah Pelabuhan Tamsui.
 
-Pada era 1970-an, pelabuhan Tamsui perlahan kehilangan posisinya sebagai pusat perdagangan penting, beralih menjadi kota kecil wisata. Di samping pelabuhan itu, Huang Zhang Kuo (dikenal sebagai "Pak Ah Po") yang mengelola gerai kecilnya, hidupnya seringkali tergantung pada musim. Setiap hari hujan, turis sedikit, dan telur ungu yang tidak terjual, Ah Po merasa tidak mau membuangnya, sehingga mengembalikannya ke panci untuk direbus berulang kali. Angin laut Tamsui yang kuat dan berulang-ulang mengeringkan telur itu, menyebabkan airnya menguap, telur menjadi semakin kecil, berwarna hitam, dan teksturnya menjadi keras dan bertekstur kasar [^2].
+Tahun 1970-an, Pelabuhan Tamsui berangsur-angsur kehilangan statusnya sebagai pelabuhan perdagangan penting, bertransformasi menjadi kota wisata kecil. Saat itu, di pinggir Dermaga Perahu Tamsui, Huang Zhang-nie (dikenal sebagai "Nenek A-nie") yang mengelola warung mie, usahanya naik turun. Setiap kali hujan turis sepi, telur rebus tidak laku, Nenek A-nie sayang membuangnya, lalu memasukkan telur rebus kembali ke wajan untuk direbus berulang kali. Angin laut Tamsui yang kencang berulang kali menerjang, ditambah rendaman bumbu rebus yang terus-menerus, membuat air telur rebus berangsur hilang, isi telur semakin menyusut, warnanya semakin hitam karena direbus, teksturnya pun dari empuk berubah sangat kenyal [^2].
 
-Gerai kecil itu yang berlokasi di puncak kapal, yang dijuluki "Hotel Besar Kaki Laut" oleh nelayan setempat, menjadi lahan asal telur besi. Saat itu, nelayan menemukan bahwa telur ungu yang keras dan hitam itu, meski tidak menarik secara visual, tetapi sangat mudah dimakan, bahkan cukup untuk menghabiskan waktu sepanjang sore dengan sepasang botol pucah [^3]. Ini adalah inovasi makanan sekaligus manifestasi dari semangat memanfaatkan sisa dari komunitas nelayan.
+Warung kecil di Dermaga Perahu ini, yang dijuluki oleh nelayan lokal (haijiao) dengan "Hotel Besar Kaki Laut", menjadi tempat asal Telur Besi. Nelayan saat itu menemukan, telur rebus hitam yang keras ini meski penampilan tidak menarik, tapi sangat tahan dikunyah, ditambah dua botol anggur Shaoxing, cukup untuk dikunyah sepanjang senja [^3]. Ini adalah inovasi makanan, sekaligus manifestasi nyata semangat menghargai barang di pelabuhan nelayan.
 
-📝 **Catatan Kurator:** Kekakuan telur adalah cerminan dari angin laut dan waktu yang bersamaan menulisnya. Ini bukanlah hasil perhitungan akademis di dapur, melainkan kebijaksanaan hidup di ujung laut, sekaligus bayangan dari Tamsui yang berubah dari pelabuhan menjadi kota wisata.
+📝 **Catatan Kurator:** Kekerasannya Telur Besi, adalah tanda yang diukir bersama oleh angin laut Tamsui dan waktu, ia bukan perhitungan presisi di dapur, melainkan kebijaksanaan bertahan di pinggir kehidupan, lebih lagi adalah cerminan Tamsui yang bertransformasi dari pelabuhan nelayan menjadi kota wisata kecil.
 
 ## Prinsip Ilmiah: Reaksi Maillard dan Denaturasi Protein
 
-Keunikan warna dan tekstur telur besi terletak pada perubahan kimia yang terjadi selama proses perebusan.
+Alasan Telur Besi bisa menampilkan warna dan tekstur unik, di baliknya tersimpan perubahan kimia yang kompleks.
 
-Selama perebusan, protein di dalam telur mengalami denaturasi pada suhu tinggi, menghilangkan strukturnya sehingga menjadi lebih padat. Sebersama dengan itu, gula dan protein dalam kaldu rebusan merespons reaksi Maillard (Maillard reaction), menghasilkan produk berwarna coklat hitam yang kompleks, memberikan warna hitam tua dan rasa yang kaya [^4]. Pengulangan proses perebusan dan pembiusan angin laut selanjutnya memperkaya rasa telur, sekaligus mengurangi jumlah airnya hingga akhirnya membentuk tekstur yang keras.
+Dalam proses merebus, protein dalam telur rebus mengalami denaturasi pada suhu tinggi, kehilangan struktur aslinya, membuat teksturnya jadi padat. Sementara itu, gula dalam bumbu rebus bereaksi dengan protein dalam "Reaksi Maillard" (Maillard reaction), menghasilkan produk pembrowningan kompleks, memberikan Telur Besi warna coklat hitam yang dalam dan rasa kaya [^4]. Pengulangan merebus dan pengeringan angin, lebih memadatkan rasa telur, dan membuat airnya terus hilang, akhirnya membentuk tekstur yang kenyal dan tangguh.
 
-## Perubahan: Dari "Asal Mula" ke "Ah Po" dalam Kasus Merek
+## Titik Balik: Dari "Yuan Zu" ke "Apo" — Kasus Merek Dagang
 
-Dengan laporan Lin Ming-xu dan survei media Jepang, nama telur besi itu menyebar cepat. Namun, nama itu membawa bukan hanya kekayaan, tetapi juga kontroversi yang berlanganjang selama puluhan tahun, yang mencerminkan kekurangan kesadaran akan hak atas merek pada masa awal pengembangan bisnis di Taiwan.
+Seiring dengan liputan Lin Ming-yu dan wawancara media Jepang, nama telur besi menyebar dengan cepat. Namun, selain kekayaan, nama yang dikenal justru membawa kontroversi pendirian yang berlangsung puluhan tahun — hal ini juga mencerminkan kurangnya kesadaran merek dagang di Taiwan pada masa awal.
 
-Gerai "Telur Besi Ah Po" yang terletak di tengah jalan Tamsui, yang paling ramai wisatawan, diklaim oleh Ny. Yang Bi-yun. Menurut Ny. Yang Bi-yun, ia pada era 1980-an mengelola toko sarapan, dan karena terlalu sibuk, telur ungu yang direbus terlalu lama, hingga akhirnya terungkap bahwa bentuk tersebut disukai pelanggan [^5]. Ia pernah ingin mereknya bernama "Asal Mula Telur Besi," namun karena kata "Asal Mula" sudah terdaftar oleh pemilik kue putri, ia mengubahnya menjadi "Telur Besi Ah Po" dan mendahului pendaftaran merek [^6].
+Saat ini toko paling terkenal di Jalan Tua adalah "Apo Telur Besi", didirikan oleh Ny. Yang Bi-yun. Menurut kata Yang Bi-yun, pada tahun 1980-an saat mengelola toko sarapan, ia juga karena kesibukan tidak sengaja merebus telur rebus terlalu lama, dan secara tidak sengaja menemukan telur rebus keras ini sangat disukai pelanggan [^5]. Ia sempat ingin menamai mereknya "Yuan Zu Telur Besi", namun karena dua karakter "Yuan Zu" sudah didaftarkan oleh pengusaha mochi, baru berganti nama menjadi "Apo Telur Besi" dan mendaftarkan merek dagang terlebih dahulu [^6].
 
-Namun, dalam kenangan orang Tamsui lama, pencipta sebenarnya adalah "Pak Ah Po" Huang Zhang Kuo. Putri Pak Ah Po, Huang Ling-zhong, menyatakan bahwa ibunya pada dasarnya menghasilkan telur besi dalam jumlah besar untuk dibagikan ke pedagang lain, dan Yang Bi-yun adalah salah satu pedagang grosirnya [^7]. Karena lokasi gerai Yang Bi-yun berada di jendela tiga yang ramai orang, serta memiliki kemampuan bisnis, "Telur Besi Ah Po" menjadi merek eksklusifnya. Warisan Pak Ah Po akhirnya hanya dapat menggunakan nama "Telur Besi Ah Po Pak Ah Po di Pantai" atau "Telur Besi di Pantai," dan kontroversi "keaslian" itu menjadi rahasia terbuka di antara warga Tamsui lama [^8]. Kasus merek ini menyoroti pentingnya perlindungan hak atas kekayaan intelektual pada masa awal pengembangan bisnis.
+Namun, dalam kenangan warga Tamsui lama, pendiri aslinya adalah "Nenek A-kong (Huang Zhang-kong)". Putri Nenek A-kong, Huang Ling-hong, pernah menyatakan bahwa ibunya dahulu memproduksi telur besi dalam jumlah besar untuk dijual grosir ke pedagang, dan Yang Bi-yun adalah salah satu pedagang grosir saat itu [^7]. Karena toko Yang Bi-yun berlokasi di Sanjiao Chuang yang ramai pengunjung, ditambah dengan kecerdasan bisnisnya mendaftar terlebih dahulu, membuat "Apo Telur Besi" menjadi merek dagang eksklusifnya. Cucu-cicit Nenek A-kong akhirnya hanya bisa membuka usaha sendiri dengan nama "Hai Bian A-kong Telur Besi" atau "Hai Bian Telur Besi" — pertengkaran "keaslian" ini pun menjadi rahasia umum di Jalan Tua Tamsui [^8]. Kontroversi merek dagang ini menegaskan pentingnya perlindungan hak kekayaan intelektual pada tahap awal perkembangan bisnis.
 
-## Pengrajin: Pembuatan Hitam Emas dalam Tujuh Hari Tujuh Malam
+## Pengrajin: Tujuh Hari Tujuh Malam Pengasahan Emas Hitam
 
-Satu telur besi yang memenuhi standar harus melewati siklus berulang "rebus, kusuti, dinginkan," yaitu dialog yang panjang dengan waktu dan api.
+Satu butir telur besi yang layak harus melalui siklus rumit "merendam, mengeringkan dengan angin, mendinginkan", ini adalah dialog dengan waktu dan api.
 
-Menurut resep tradisional, telur besi harus direbus selama tiga jam dalam kaldu yang mengandung rempah lima rasa, kecap, dan merica, kemudian dikeringkan dengan kipas listrik, didinginkan, dan direbus kembali pada hari berikutnya. Proses ini harus diulang selama tujuh hari untuk mencapai "telur yang lembut, bertekstur kasar" [^9]. Rasa kaldu, kontrol suhu, dan tingkat kemabauan harus dikuasai oleh pengrajin yang berpengalaman. Pada awalnya, telur besi dibuat dari telur ayam, namun untuk memudahkan anak-anak dan lansia, kemudian dikembangkan pula versi dengan telur burung (telur burung), yang lebih kecil dan mudah dimakan [^10].
+Menurut cara tradisional, telur besi setiap hari harus direndam selama 3 jam dalam bumbu rahasia yang berisi lima rempah, kecap asin, dan bubuk merica, kemudian diambil dan dikeringkan dengan kipas angin, setelah dingin direndam lagi keesokan harinya. Proses ini harus diulang selama 7 hari, baru bisa mencapai tingkat "telur kenyal kulit tipis, sangat kenyal saat dikunyah" [^9]. Resep bumbu rendaman, kontrol api, dan tingkat pengeringan angin, semuanya menguji pengalaman dan kesabaran pengrajin. Awalnya telur besi banyak menggunakan telur ayam, tetapi untuk memudahkan anak-anak dan orang tua memakannya, kemudian dikembangkan versi telur puyuh (telur burung). Jenis telur besi puyuh ini yang ukurannya lebih kecil dan lebih mudah menyerap bumbu, kini justru menjadi yang utama di pasaran [^10].
 
-📝 **Catatan Kurator:** Di era yang menekankan efisiensi, mau menghabiskan tujuh hari untuk membuat satu telur adalah bentuk romantis melawan kecepatan, sekaligus benteng untuk mempertahankan seni tradisional. Setiap telur membawa beban waktu dalam setiap seratnya.
+📝 **Catatan Kurator:** Di era modern yang menuntut efisiensi, bersedia menghabiskan tujuh hari untuk merendam satu butir telur, itu sendiri adalah semacam romantisme yang menentang kecepatan, serta keteguhan hati pada kerajinan tradisional, membuat setiap butir telur besi membawa bobot waktu.
 
-## Tantangan: Ketika "Kekakuan" Bertemu dengan "Biaya" dan Warisan Merek
+## Tantangan: Ketika "Kekerasan" Bertemu "Biaya" dan Warisan Merek
 
-Hari ini, di jalanan Tamsui, gerai telur besi banyak berdera, namun banyak penggemar lama mengeluhkan bahwa "telur besi tidak keras lagi."
+Di Jalan Tua Tamsui hari ini, toko Telur Besi berjejer, tetapi banyak penggemar kuliner justru mengeluh "Telur Besi tidak keras lagi."
 
-Untuk menghemat gas dan waktu pembuatan, sebagian pedagang menggunakan produksi terpakai atau memendekkan proses perebusannya, sehingga telur besi menjadi lebih lembut dan tidak beraroma, menghilangkan semangat "harus keras" [^11]. Fenomena "menurunkan biaya" ini membuat rasa tradisional telur besi terancam. Selain itu, dengan kematian Ny. Yang Bi-yun akibat stroke pada tahun 2022, industri khas Tamsui yang berkembang bersama dengan pariwisata itu juga menghadapi tantangan baru dalam penerusannya dan penjagaan kualitas [^12]. Bagaimana menyeimbangkan industrialisasi dengan seni tradisional adalah tantangan utama di masa depan telur besi Tamsui.
+Untuk menghemat gas dan waktu produksi, sebagian pedagang beralih ke produksi OEM atau mempersingkat proses perebusan, menyebabkan tekstur Telur Besi menjadi empuk dan hambar, kehilangan semangat "harus keras" aslinya [^11]. Fenomena "cost down" ini membuat rasa Telur Besi tradisional menghadapi tantangan. Selain itu, seiring wafatnya Nyonya Yang Bi-yun pada 2022 karena stroke, industri tradisional yang tumbuh seiring bangkitnya pariwisata Tamsui ini juga menghadapi tantangan baru dalam pewarisan merek dan pelestarian kualitas [^12]. Bagaimana mencapai keseimbangan antara komersialisasi dan kerajinan tradisional adalah tugas penting bagi perkembangan Telur Besi Tamsui di masa depan.
 
-Telur besi bukan sekadar camilan, melainkan beban sejarah Tamsui yang berubah dari pelabuhan menjadi tempat wisata, serta cerita bisnis antara dua pelaku. Tidak peduli siapa yang mengklaim hak atas merek, telur ungu yang menyusut di bawah angin laut itu, selamanya menjadi warna yang tahan di dalam budaya makanan Taiwan, serta kenangan kolektif yang dibagi oleh warga Tamsui.
+Telur Besi bukan sekadar camilan; ia membawa sejarah transformasi Tamsui dari pelabuhan nelayan menjadi destinasi wisata, serta kisah bisnis di antara kedua pendirinya. Siapapun yang memegang merek dagang, telur hitam perebusan yang menyusut di angin laut itu selalu menjadi warna paling tangguh dalam budaya kuliner Taiwan, serta kenangan kolektif bersama warga Tamsui.
 
 ---
 
 ## Referensi
 
-[^1]: [Lin Ming-xu, "Makanan yang Menggugah Selera" (Penerbit Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Halaman 21-25 menyimpan laporan mentah "Telur Besi Tamsui: Rasa yang Keras," 'Min Bao Daily News' 1983-07-24 Versi 12 (ISBN 9789570813722, juga tersedia di [FindBook](https://findbook.com.tw/amp/9789570813722))
-
-[^2]: [Bagaimana Telur Besi Ah Po Lahir? Telur "Kecil Hitam" yang Bertekstur Karsa Ternyata Adalah "Kejadian" di Gerai Kepala Kapal](https://www.businesstoday.com.tw/article/category/183016/post/202207130042/) — Minggu Ini, 2022-07-13
-
-[^3]: [Lin Ming-xu, "Makanan yang Menggugah Selera" (Penerbit Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Menyimpan cerita asal telur besi dan kehidupan pelabuhan Tamsui
-
-[^4]: [Reaksi Maillard — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%BE%85%E4%BC%AF%E7%89%B7%E5%8F%8D%E6%87%89) — Reaksi kimia non-enzimatis antara gula dan amino akid pada saat pemanasan, yang dikenalkan pertama kali oleh Louis-Camille Maillard pada tahun 1912, menjadi inti dari perubahan warna dan rasa pada makanan yang direbus.
-
-[^5]: [Telur Besi Ah Po Didirikan pada Tahun 1980, Memiliki Sejarah Lebih dari 40 Tahun](https://newtaipei.travel/zh-tw/shop/detail/206651) — Situs Pariwisata Kabupaten Baru Taipei: Lihat tautan asli untuk detail
-
-[^6]: [Telur Besi](https://zh.wikipedia.org/zh-tw/%E9%90%B5%E8%9B%8B) — Wikipedia: Entri Wikipedia
-
-[^7]: [Siapa yang Benar-Benar Membuat "Telur Besi Ah Po"?](https://www.mobile01.com/topicdetail.php?f=37&t=2238805) — Forum Diskusi Mobile01, 2011-07-05
-
-[^8]: [Gerai Kecil yang Disebut "Hotel Besar Kaki Laut" Ini Menarik Banyak Pedagang untuk Bersaing Menggigit Telur](https://www.facebook.com/groups/1720009718276972/posts/2203868496557756/) — Grup Facebook "Foto Lama Tamsui", 2018-10-23
-
-[^9]: [Telur Besi Tamsui: Dari Legenda ke Camilan Budaya](https://www.kukfachi.com/pages/%E6%B7%A1%E6%B0%B4%E9%90%B5%E8%9B%8B%EF%BC%9A%E5%BE%9E%E5%82%B3%E5%A5%87%E5%88%B0%E7%BE%8E%E5%91%B3%E7%9A%84%E6%96%87%E5%8C%96%E5%B0%8F%E5%90%83) — Kolom Budaya Makanan Kukfachi
-
-[^10]: [Rahasia Tamsui: Telur Besi Ah Po yang Menggugah Selera?](https://uptogo.com.tw/%E7%BE%85%E9%A3%9F/%E9%A3%9F%E5%93%81/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B%E6%AD%B7%E5%8F%B2%EF%BC%9F/) — Jaringan Pariwisata Uptogo, 2026-02-22
-
-[^11]: [Jangan Membeli "Telur Besi Ah Po" di Tamsui Lagi](http://80itguy.blogspot.com/2010/04/blog-post_29.html) — Blog Pengguna 80-an IT, 2010-04-29
-
-[^12]: [Pencipta Telur Besi Ah Po Meningal Karena Stroke! Dokter Ucapkan "Kebuhalan Berlebih 2 Sinyal Penting"](https://health.ettoday.net/news/2293316) — Berita Terbaru ETtoday, 2022-07-13
-
 ## Topik Terkait
 
 - [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai ruang sosial
-- [Camilan Khas Tiongkok](/id/food/taiwanese-street-food) — Semangat grassroots Taiwan dalam makanan sehari-hari
-- [Nasi Unggul Taiwan](/Food/台灣滷肉飯) — Kenangan kolektif suku bangsa dalam satu mangkuk nasi
-- [Budaya Makanan Kepala Dalang](/Food/客家飲食文化) — Kecerdasan makanan komunitas Kepala Dalang
+- [Camilan Kaki Lima Taiwan](/id/food/taiwanese-street-food) — Keberanian akar rumput kuliner rakyat Taiwan
+- [Nasi Slur Taiwan](/id/food/braised-pork-rice) — Kenangan etnis di sebakul nasi slur
+- [Budaya Kuliner Hakka](/Food/客家飲食文化) — Kebijaksanaan kuliner kelompok Hakka
+
+[^1]: [Lin Ming-yu 'Makan dengan Lahap' (Penerbit Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Halaman 21-25 memuat laporan asli 〈Telur Besi Tamsui Benar-benar Enak〉, 'Minsheng Daily' 24 Juli 1983 halaman 12 (ISBN 9789570813722, juga dapat dicek [FindBook](https://findbook.com.tw/amp/9789570813722))
+
+[^2]: [Asal-usul Telur Besi Nenek Tamsui? Telur 'Kecil Hitam' yang Kenyal Itu Ternyata Kecelakaan di Warung Makanan di Dermaga Tahun Itu](https://www.businesstoday.com.tw/article/category/183016/post/202207130042/) — Majalah Minggu Ini, 13 Juli 2022
+
+[^3]: [Lin Ming-yu 'Makan dengan Lahap' (Penerbit Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Mencatat kisah asal-usul Telur Besi Tamsui dan deskripsi kehidupan pelabuhan nelayan
+
+[^4]: [Reaksi Maillard — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%BE%85%E4%BC%AF%E7%89%B9%E6%A3%AE%E5%8F%8D%E6%87%89) — Reaksi pembrowning non-enzimatik antara gula dan asam amino saat dipanaskan dalam kimia pangan, pertama kali dijelaskan oleh Louis-Camille Maillard pada 1912, adalah mekanisme inti pewarnaan dan rasa makanan yang direbus dengan bumbu.
+
+[^5]: [Telur Besi Nenek didirikan pada 1980, sudah memiliki sejarah lebih dari empat puluh tahun](https://newtaipei.travel/zh-tw/shop/detail/206651) — Situs Pariwisata Kota New Taipei: lihat detail di tautan asli
+
+[^6]: [Telur Besi](https://zh.wikipedia.org/zh-tw/%E9%90%B5%E8%9B%8B) — Wikipedia: entri Wikipedia
+
+[^7]: [Mana yang Asli 'Telur Besi Nenek'?](https://www.mobile01.com/topicdetail.php?f=37&t=2238805) — Diskusi forum Mobile01, 5 Juli 2011
+
+[^8]: [Warung Mie Kecil yang Dijuluki 'Hotel Besar di Kaki Laut' Menarik Berbagai Pahlawan untuk Bertanding Mengunyah](https://www.facebook.com/groups/1720009718276972/posts/2203868496557756/) — Grup Facebook 'Foto Tua Tamsui', 23 Oktober 2018
+
+[^9]: [Telur Besi Tamsui: Dari Legenda ke Camilan Budaya yang Lezat](https://www.kukfachi.com/pages/%E6%B7%A1%E6%B0%B4%E9%90%B5%E8%9B%8B%EF%BC%9A%E5%BE%9E%E5%82%B3%E5%A5%87%E5%88%B0%E7%BE%8E%E5%91%B3%E7%9A%84%E6%96%87%E5%8C%96%E5%B0%8F%E5%90%83) — Kolom Budaya Kuliner Kukfachi
+
+[^10]: [Misteri Legenda Jalan Tua Tamsui Terungkap: Sejarah Telur Besi Nenek? Menyelidiki Kecelakaan di Balik Kelezatan](https://uptogo.com.tw/%E7%BE%8E%E9%A3%9F/%E9%A3%9F%E5%93%81/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B%E6%AD%B7%E5%8F%B2%EF%BC%9F/) — Situs Perjalanan Uptogo, 22 Februari 2026
+
+[^11]: [Tolong Jangan Lagi Membeli 'Telur Besi Nenek' Tamsui](http://80itguy.blogspot.com/2010/04/blog-post_29.html) — Blog Orang IT Kelahiran Tahun 80-an, 29 April 2010
+
+[^12]: [Pendiri Telur Besi Nenek Meninggal Dunia karena Stroke! Dokter Ungkap 2 Peringatan 'Keringat Berlebih Dehidrasi'](https://health.ettoday.net/news/2293316) — ETtoday News Cloud, 13 Juli 2022

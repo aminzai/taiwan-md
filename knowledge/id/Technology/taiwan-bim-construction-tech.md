@@ -2,9 +2,7 @@
 title: 'BIM dan Teknologi Konstruksi Taiwan: Pendekatan Kasus per Kasus Pemerintah Selama Dua Belas Tahun Ditulis Ulang oleh Sebuah Protokol Berusia Delapan Belas Bulan'
 description: 'Pada 23 Mei 2014, Komisi Pekerjaan Umum Yuan Eksekutif meresmikan “Platform Promosi Penggunaan BIM dalam Pekerjaan Umum” dengan pedoman delapan aksara yang berarti “disesuaikan dengan setiap kasus dan diterapkan secara bertahap”. Sebelas tahun tujuh bulan kemudian, seorang pengembang Taiwan yang bekerja di Tokyo mengunggah repositori bernama REVIT_MCP_study ke GitHub dan memperoleh lebih dari tujuh puluh bintang serta lebih dari delapan puluh fork. Dalam dua belas tahun di antaranya, industri arsitektur Taiwan menempuh perjalanan panjang dari gambar tangan dan cetak biru menuju model 3D, dari percobaan individual menuju standar nasional, serta dari peningkatan alat menuju pendefinisian ulang profesi.'
 date: 2026-05-22
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '建築科技'
 tags:
   [
     'Teknologi',
@@ -20,17 +18,22 @@ tags:
     'CECI Engineering Consultants Taiwan',
     'Shuotao',
   ]
-readingTime: 22
+subcategory: '建築科技'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76'
-sourceContentHash: 'sha256:7923803a611ee1da'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
-translatedAt: '2026-07-18T18:59:53+08:00'
+readingTime: 22
+researchReport: 'reports/research/2026-05/台灣BIM與營建科技.md'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+translatedFrom: 'Technology/台灣BIM與營建科技.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T01:19:38.652933+00:00'
 ---
 
 # BIM dan Teknologi Konstruksi Taiwan: Pendekatan Kasus per Kasus Pemerintah Selama Dua Belas Tahun Ditulis Ulang oleh Sebuah Protokol Berusia Delapan Belas Bulan
@@ -82,23 +85,21 @@ Ketiga poros—pemerintah pusat, Taipei, dan Taipei Baru—bergerak pada jadwal 
 
 ---
 
-## Jalur Wanda, Stasiun Miaoli, dan Terminal 3 Bandara Taoyuan: BIM Tampil dalam Pekerjaan Umum
+## Wanda Line, Stasiun Miaoli, Bandara Taoyuan T3: Kemunculan BIM dalam Pekerjaan Umum
 
-Pada 2011, **BIM untuk pertama kalinya dimasukkan ke dalam kontrak desain Jalur Wanda MRT Taipei**[^14].
+2011, **MRT Wanda Line Taipei pertama kali memasukkan BIM ke dalam kontrak desain teknik**[^14].
 
-Peristiwa ini kerap disebut sebagai salah satu kejadian “pertama” dalam promosi BIM di Taiwan. Berdasarkan persyaratan kontrak, setiap paket Jalur Wanda menggunakan model BIM untuk merancang stasiun MRT, sekaligus memasukkan disiplin arsitektur, struktur, serta mekanikal dan elektrikal ke dalam integrasi lintas disiplin guna **mengurangi konflik antarmuka desain**[^14].
+Ini adalah peristiwa "first" yang sering dikutip dalam penggerakan BIM Taiwan. Setiap segmen Wanda Line sesuai persyaratan kontrak mengadopsi mode BIM untuk desain badan stasiun MRT, sambil memperkenalkan keahlian arsitektur, struktur, dan MEP, integrasi lintas disiplin, **mengurangi konflik antarmuka desain**[^14].
 
-Mengikuti Jalur Wanda, proyek pekerjaan umum masuk satu demi satu: stasiun layang Y19 Jalur Lingkar MRT Taipei, sejumlah pusat olahraga di Taipei Baru, Stasiun Miaoli baru Kereta Cepat Taiwan, Terminal 3 Bandara Taoyuan, dan LRT Lingkar Kaohsiung. Setiap proyek memiliki studi kasus yang dimuat dalam publikasi internal ABRI, NTUBIM Universitas Nasional Taiwan, atau instansi MRT.
+Mengikuti langkah Wanda Line, pekerjaan umum datang satu demi satu. Stasiun tinggi Y19 MRT Lingkaran Taipei, beberapa pusat olahraga di New Taipei, [Taiwan High Speed Rail](/id/lifestyle/taiwan-high-speed-rail/) stasiun baru Miaoli, [Bandara Taoyuan](/id/lifestyle/taoyuan-airport/) Terminal Ketiga, LRT Lingkaran Kaohsiung: setiap kasus memiliki satu case study tertulis di ABRI, NTUBIM UI, atau majalah internal Dinas MRT.
 
-“**Kemenangan berbasis angka**” yang paling sering dikutip adalah Stasiun Miaoli Kereta Cepat Taiwan. BIM diterapkan tiga bulan sebelum konstruksi dimulai, dan tim supervisi menemukan sejumlah titik konflik melalui model 3D. Hasilnya, **20% biaya perubahan desain berikutnya dapat dihemat, sementara pekerjaan penentuan posisi di lokasi dimulai dua bulan lebih awal dari jadwal**[^15].
+Kemenangan digital yang paling sering dikutip adalah Stasiun Miaoli Taiwan High Speed Rail: tiga bulan sebelum pembukaan proyek memasukkan BIM, tim pengawasan menemukan banyak titik konflik dari model 3D, **menghemat 20% biaya perubahan desain lanjutan, peletakan di lokasi proyek dimulai dua bulan lebih awal dari jadwal**[^15].
 
-Terminal 3 Bandara Taoyuan merupakan kasus lain dengan skala berbeda. Pada Maret 2021, **tim yang dibentuk Samsung C&T dan RSEA Engineering memenangkan kontrak pekerjaan sipil gedung utama T3 senilai NT$44,5 miliar**[^16]. Keseluruhan T3 dirancang di bawah kepemimpinan CECI Engineering Consultants Taiwan, bersama Rogers Stirk Harbour + Partners dan Ove Arup and Partners Hong Kong. Kolaborasi lintas negara mengharuskan model BIM mengalir di antara kantor-kantor yang berbeda—kasus unggulan yang berulang kali digunakan CECI Engineering Consultants Taiwan dalam materi pelatihan internalnya[^17].
+Bandara Taoyuan Terminal Ketiga adalah kasus lain dengan skala berbeda. Maret 2021, **tim yang dibentuk oleh Samsung C&T dan RSEA Engineering memenangkan tender konstruksi sipil badan utama terminal T3 sebesar NT$44,5 miliar**[^16]. Seluruh T3 dipimpin desain oleh Taiwan CECI Engineering Consultants (bersama Rogers Stirk Harbour + Partners dan Ove Arup and Partners Hong Kong), kolaborasi lintas negara harus mengandalkan model BIM yang mengalir antar firma: ini adalah kasus andalan yang berulang digunakan dalam materi pelatihan internal Taiwan CECI[^17].
 
-> **✦** Saat BIM pertama kali dimasukkan ke dalam kontrak Jalur Wanda pada 2011, sebuah garis pemisah yang senyap terbentuk dalam sejarah pekerjaan umum Taiwan. Sejak hari itu, tidak ada lagi proyek besar MRT, bandara, kereta cepat, ataupun LRT Taiwan yang tidak bertanya, “Bagaimana BIM akan dilaksanakan?”
+> **✦** Saat Wanda Line 2011 pertama kali memasukkan BIM ke dalam kontrak, adalah titik balik diam dalam sejarah pekerjaan umum Taiwan. Sejak hari itu, MRT, bandara, HSR, LRT Taiwan, tidak ada lagi satu pun proyek pekerjaan umum besar yang tidak bertanya "BIM bagaimana caranya".
 
-Namun, semua itu adalah “proyek percontohan unggulan”. Seluruh proyek unggulan di Taiwan memiliki satu kekurangan yang sama: **jumlahnya hanya sedikit**.
-
----
+Tetapi ini semua adalah "kasus panutan". Semua kasus panutan di Taiwan hanya memiliki satu kelemahan bersama: **mereka adalah minoritas**.
 
 ## Lima Konsultan Rekayasa Besar dan Dua Organisasi Utama: Orang-Orang di Baliknya
 
