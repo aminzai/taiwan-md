@@ -26,17 +26,17 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 18
-researchReport: reports/research/2026-05/花蓮縣.md
-series: '22 tỉnh thành'
-image: https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg
-imageCredit: Fred Hsu
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg
+researchReport: 'reports/research/2026-05/花蓮縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp'
+imageCredit: 'Fred Hsu / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg'
 translatedFrom: 'Geography/花蓮縣.md'
-sourceCommitSha: 'b74252d93'
-sourceContentHash: 'sha256:405286ffbb97b596'
-sourceBodyHash: 'sha256:367ba2e7b9a712c5'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:2d40b234aa9d9849'
+sourceBodyHash: 'sha256:dfa0735c6c25d7c4'
+translatedAt: '2026-09-08T18:08:02.631510+00:00'
 ---
 
 # Hoa Liên: 129 năm che giấu, tái tên dân tộc Sakizaya, 0403 lại đẩy xa
@@ -117,26 +117,26 @@ Câu chuyện di cư của dân tộc Bunun gắn vào chính sách chuyển cư
 
 "Năm 1937" thường được trích dẫn làm năm biểu tượng của di cư giai đoạn này, nhưng cách nói chính xác hơn là một loạt quá trình di cư năm 1930 tới những năm 1940 (⚠️ Khẳng định năm đơn lẻ không chính xác)[^13]. Hôm nay tám phần hòa âm Bunun ở Trác Khê Hương (Pasibutbut, bài hát cầu mùa màng nhỏ), nam giới vòng quanh hát 8 tầng âm thanh khác nhau, đã được liệt kê di sản văn hóa huyện Hoa Liên[^13]. Hình thức âm nhạc này có xuất xứ ở Nantou, nhưng bảo tồn hoàn chỉnh tới ngày hôm nay ở khu vực, chính là nơi bị ép buộc di cư tới.
 
-## Năm 1986, Bệnh Viện Xây Bên Cạnh Cây Trôm
+## Bệnh viện bên cây Lăng Trì năm 1986
 
-Để hiểu tại sao Hoa Liên lại sinh ra tổ chức phi chính phủ lớn nhất Đài Loan, phải quay lại phong cảnh y tế Hoa Liên những năm 1960.
+Để hiểu tại sao một tổ chức phi chính phủ (NGO) lớn nhất Đài Loan ra đời, cần quay về bối cảnh y tế của thành phố Hoa Liên trong những năm 1960.
 
-Năm 1964, một vị pháp sư 29 tuổi Thích Chứng Nghiêm (tên thế Vương Cẩm Vân, sinh năm 1935 ở Thanh Thủy, Đài Trung) dẫn các đệ tử vào ở Phổ Minh Tự tạm thời, sống cuộc sống cày cấy đọc sách[^14]. Ngày 14 tháng 5 năm 1966 (mùng 24 tháng 3 âm lịch), "Hội Công Đức Từ Từ Phật Giáo Khắc Khó" chính thức thành lập ở Hoa Liên. Cùng năm mẹ thế tại gia của pháp sư Vương Trần Nguyệt Quế bỏ tiền mua đất gần chỗ tuyệt tư Tĩnh Tư Tinh Xá hiện tại. Năm 1968 dùng đất thế chấp cho ngân hàng vay tiền xây dựng Tĩnh Tư Tinh Xá, đại điện theo kiến trúc Đường. Năm 1969 Tĩnh Tư Tinh Xá hoàn thành sử dụng, địa điểm ở Huyện Hoa Liên, Tân Thành, làng Khang Lạc[^14].
+Năm 1964, Hòa thượng Trịnh Nghiêm (tên thường gọi là Vương Cẩm Vân, sinh năm 1935 tại Thanh Thủy, Đài Trung) cùng đệ tử đến sống và tu tập tại chùa Phổ Minh[^14]. Ngày 14 tháng 5 năm 1966 (âm lịch ngày 24 tháng Ba), "Phật Giáo Khắc Nan Từ Tế Công Đức Hội" chính thức được thành lập tại Hoa Liên. Cùng năm đó, mẹ ruột của Hòa thượng là Vương Thẩm Nguyệt Quế đã bỏ tiền mua mảnh đất gần nơi tọa lạc của Tĩnh Tư Tinh Xá. Năm 1968, bằng diện tích này, chùa đã thế chấp ngân hàng để xây dựng Tĩnh Tư Tinh Xá với đại điện mang kiến trúc Đường triều. Năm 1969, Tĩnh Tư Tinh Xá hoàn thành và đi vào sử dụng tại thôn Khang Lạc, xã Tân Thành, huyện Hoa Liên[^14].
 
-Giai đoạn thành lập sớm có 30 cô gái tín đồ (Thầy Cô), mỗi ngày tiết kiệm 5 xu bỏ vào hộp tiết kiệm tre. Họ ở chợ truyền bá khẩu hiệu: "**Chúng tôi mỗi ngày tiết kiệm 5 xu! Chúng tôi có một hội cứu tế, muốn giúp đỡ người khác!**[^14]" Năm tháng tre sau này được chính Từ Từ viết thành thần thoại sáng tạo. Tinh Tư Tinh Xá cho tới nay tuân hành "**Một ngày không làm, một ngày không ăn**" tinh thần, các nhà sư tự túc, sản xuất đậu phụ thơm (tofu mùi), mì Tinh Xá và những thực phẩm thủ công khác để trao đổi thu nhập[^15].
+Trong giai đoạn đầu thành lập, có 30 nữ tín đồ (sư tỷ) mỗi ngày tiết kiệm 5 mao tiền lẻ bỏ vào ống heo. Họ rao truyền khẩu hiệu ở chợ: "**Mỗi ngày chúng tôi tiết kiệm được 5 mao! Chúng tôi có một hội cứu tế, muốn giúp đỡ người khác!**"[^14] Câu chuyện về những chiếc ống heo này sau đó đã được Từ Tế tự viết thành thần thoại sáng lập. Triết lý "một ngày không làm gì, một ngày không ăn gì" mà Tĩnh Tư Tinh Xá vẫn duy trì cho đến nay, với các nhà sư tự cung tự cấp, sản xuất thực phẩm thủ công như đậu phụ Hương Tích và mì Tinh Xá để kiếm thu nhập[^15].
 
-Nhưng chìa khóa để Từ Từ từ một Tinh Xá ở Hoa Liên trở thành tổ chức phi chính phủ quốc tế, là bệnh viện.
+Nhưng yếu tố then chốt giúp Từ Tế phát triển từ một ngôi chùa ở Hoa Liên thành một NGO quốc tế chính là bệnh viện.
 
-Những năm 1960 Hoa Liên thậm chí còn không đủ bệnh viện công lập hoàn chỉnh, phía đông Đài Loan khó tiếp cận y tế. Một bệnh nhân nặng từ Hoa Liên muốn vận chuyển tới Đài Bắc, dựa trên công lộ hoặc vận tải biển, thời gian trên đường thường bằng sự sống chết. Ngày 10 tháng 5 năm 1979, Pháp sư Chứng Nghiêm tuyên bố kế hoạch xây dựng bệnh viện. Ngày 5 tháng 2 năm 1983 khởi công. **Ngày 17 tháng 8 năm 1986, Bệnh Viện Từ Từ Hoa Liên chính thức khai trương**[^14], không phải năm 1991 (⚠️ Một năm thường bị nhầm lẫn). Năm 1991 Từ Từ có sự kiện kinh doanh khác thành lập nhưng bệnh viện khai trương chính xác là năm 1986. Năm 2002 Bệnh Viện Từ Từ được nâng cấp thành trung tâm y tế duy nhất phía đông Đài Loan.
+Trong những năm 1960, Hoa Liên thậm chí còn thiếu cả các bệnh viện công lập hoàn chỉnh, khiến việc khám chữa bệnh tại Đông Đài Loan gặp nhiều khó khăn. Một bệnh nhân nặng cần được chuyển từ Hoa Liên đến Đài Bắc bằng đường bộ hoặc đường biển, thời gian trên đường thường là sinh tử. Ngày 10 tháng 5 năm 1979, Hòa thượng Trịnh Nghiêm tuyên bố ý tưởng xây dựng bệnh viện. Công trình khởi công vào ngày 5 tháng 2 năm 1983. **Vào ngày 17 tháng 8 năm 1986, Bệnh viện Từ Tế Hoa Liên chính thức khai trương**[^14], chứ không phải năm 1991 (⚠️ một năm thường bị nhầm lẫn). Năm 1991, Từ Tế có một dự án khác được thành lập nhưng năm bệnh viện thực sự đi vào hoạt động là 1986. Năm 2002, Bệnh viện Từ Tế được nâng cấp thành trung tâm y khoa duy nhất ở Đông Đài Loan.
 
-Trên vị trí địa lý, sự trùng hợp cực kỳ kinh ngạc. Tinh Tư Tinh Xá và Bệnh Viện Từ Từ ở khu vực làng Khang Lạc, Huyện Tân Thành những nơi này, lịch sử nơi năm 1878 quân đội nhà Thanh xử tử bộ lạc trưởng Sakizaya Komod Pazik ở cây trôm vùng này[^3]. Kỷ niệm đau thương nhất của một dân tộc, kết hợp với dự án cứu tế lớn nhất của một hệ thống tín ngưỡng khác, cách nhau hơn một trăm năm hội tụ các lớp không gian cùng một khu vực đất.
+Sự trùng hợp về địa lý thật đáng kinh ngạc. Khu vực thôn Khang Lạc, xã Tân Thành, nơi tọa lạc của Tĩnh Tư Tinh Xá và Bệnh viện Từ Tế, trong lịch sử chính là khu vực quanh cây cà-đam (茄苳樹) mà quân Thanh đã xử tử thủ lĩnh người Sakizaya Cổ Mục Ba Lực Cách[^3]. Một ký ức đau thương nhất của một dân tộc lại chồng lên trên cùng mảnh đất đó với công trình cứu trợ lớn nhất của một hệ thống tín ngưỡng khác, cách nhau hơn trăm năm.
 
-> **✦** "Tại sao tổ chức phi chính phủ lớn nhất Đài Loan sinh ra những năm 1960 Hoa Liên, thậm chí nơi thiếu bệnh viện công lập hoàn chỉnh phía đông? Vì thiếu hụt là khởi đầu của lòng thương xót."
+> **✦** "Tại sao NGO lớn nhất Đài Loan lại ra đời ở Hoa Liên những năm 1960, nơi thậm chí còn không có bệnh viện công lập hoàn chỉnh? Bởi vì sự thiếu thốn chính là điểm khởi đầu của lòng từ bi."
 
-Từ Từ hôm nay có tư vấn phi chính phủ, mạng lưới cứu trợ thảm họa phủ trên 130 quốc gia, Đại học Từ Từ Hoa Liên với Đại học Công Nghệ, bốn sự nghiệp lớn (từ thiện, y tế, giáo dục, nhân văn). Nhưng Hoa Liên người nhớ, là trước ngày 17 tháng 8 năm 1986, trung tâm y tế gần nhất của họ ở ba trăm km ngoài.
+Ngày nay, Từ Tế có vị thế tư vấn NGO, mạng lưới cứu trợ trải rộng hơn 130 quốc gia trên toàn cầu, cùng với Đại học Từ Tế Hoa Liên và Đại học Khoa học Kỹ thuật; bốn đại nghiệp (từ thiện, y tế, giáo dục, nhân văn). Nhưng người dân Hoa Liên vẫn nhớ rằng, trước ngày 17 tháng 8 năm 1986, trung tâm y tế gần nhất của họ cách xa ba trăm km.
 
-![Tĩnh Tư Tinh Xá (Jing Si Hall), Hoa Liên Thành, 2009. Năm 1966 "Hội Công Đức Từ Từ Phật Giáo Khắc Khó" thành lập ở Hoa Liên nguồn gốc. Ngày 17 tháng 8 năm 1986 Bệnh Viện Từ Từ Hoa Liên ở gần khu Tân Thành khai trương, năm 2002 nâng cấp thành trung tâm y tế duy nhất phía đông.](/article-images/geography/hualien-01.webp)
-_Tĩnh Tư Tinh Xá, Hoa Liên Thành, 2009. Photo: Fred Hsu, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg)._
+![Tĩnh Tư Đường Từ Tế, thành phố Hoa Liên. Kiến trúc cung điện với các mái ngói chồng lên nhau, cổng chính ghi "Tĩnh Tư Đường". Nơi khởi nguồn của "Phật Giáo Khắc Nan Từ Tế Công Đức Hội" được thành lập tại Hoa Liên năm 1966. Bệnh viện Từ Tế Hoa Liên khai trương gần đó vào ngày 17 tháng 8 năm 1986, và được nâng cấp thành trung tâm y khoa duy nhất ở Đông Đài Loan vào năm 2002.](/article-images/geography/hualien-jing-si-hall-2009.webp)
+_Tĩnh Tư Đường Từ Tế, thành phố Hoa Liên, 2009. Ảnh: Fred Hsu, [CC BY-SA 3.0 qua Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg)._
 
 ## Một Dân Tộc Đòi Lại Hai Cái Tên
 
@@ -175,33 +175,33 @@ Tuyến Sư Hoa tự nó cũng tiến hóa ba thế hệ. Thế hệ thứ nhấ
 
 > **📝 Ghi chép Nhà Curated:** Trong quá trình tiến hóa một trăm tặn năm của Tuyến Sư Hoa, ẩn chứa một trục "khoảng cách Hoa Liên với thế giới". Tuyến Sư Hoa Cổ Đạo 1875 phải đi mất vài ngày; Đường lộ Lâm Biển 1932 một ngày có thể tới nhưng bất cứ lúc nào cũng có thể bị chặn bởi sỏi rơi hay động đất; 1980 Tuyến Bắc Hồi 5 giờ; 2020 Cải Tiến Sư Hoa 1 giờ. Mỗi thế hệ rút ngắn khoảng cách, phía sau đều là sự trao đổi giữa công trình và tử vong: Cải Tiến Sư Hoa tự nó 26 km trong thân núi, chỉ riêng đường hầm Hòa Nhân dài 4 km trên cơn địa dưới lòng đất chảy nước, rơi đá đã ăn mất vài mạng người. Nhưng ngày 3 tháng 4 năm 2024 sáng 7 giờ 58 phút sau, con đường này bị đứt lại. Động đất chứng minh một điều: loài người có thể rút ngắn khoảng cách, nhưng không thể rút ngắn tới chỗ làm cho Trái Đất dừng rung lắc.
 
-## Khe Yến Tử Bị Đứt Toàn Bộ Trong 98 Giây
+## Đường hầm Minh ở Yanzikou sập chỉ trong 98 giây
 
-Thời gian: Ngày 3 tháng 4 năm 2024 sáng 7 giờ 58 phút 9 giây.
-Tâm rung: Huyện Bảo Phong, Hoa Liên (23,88° B, 121,57° Đ).
-Độ sâu: 19,7 km.
-Độ lớn: Bộ Giao Thông Vận Tải Nhân Định Ban đầu ML 7,2, ngày 1 tháng 2 năm 2025 chỉnh lại xác nhận ML 7,1.
-Mức rung cao nhất: Huyện Tú Lâm, Hòa Bình Lý Hoa Liên 6 độ mạnh, rung kéo dài khoảng 98 giây[^8].
+Thời gian: 7 giờ 58 phút 9 giây sáng ngày 3 tháng 4 năm 2024.
+Tâm chấn: Huyện Hoa Liên, xã Thú Phong (vĩ độ Bắc 23.88°, kinh độ Đông 121.57°).
+Độ sâu: 19.7 km.
+Cường độ: Ban đầu Trung tâm Khí tượng Quốc gia đo được ML 7.2, sau khi hiệu chỉnh vào ngày 1 tháng 2 năm 2025 là ML 7.1.
+Cường độ địa chấn tối đa: Cấp 6 tại làng Hòa Bình, huyện Tú Lâm, Huyện Hoa Liên; sự rung chuyển kéo dài khoảng 98 giây[^8].
 
-98 giây là gì. Điệp khúc của một bài hát khoảng 30 giây. Một trận động đất chính nếu vượt 30 giây sẽ làm người bắt đầu nghi ngờ liệu đây có phải cuối thế giới không. 98 giây trong lịch sử động đất không được coi là cực kỳ dài, nhưng với người sống ở khu vực rung 6 mạnh, đủ để viết lại toàn bộ ký ức cơ thể một lần.
+98 giây là một khái niệm như thế nào? Một đoạn điệp khúc trong bài hát thường kéo dài khoảng 30 giây. Một trận động đất chủ chấn vượt quá 30 giây đã khiến người ta bắt đầu nghi ngờ liệu đây có phải là ngày tận thế hay không. 98 giây không được coi là quá lâu trong lịch sử địa chấn, nhưng đối với những người sống trong khu vực cấp 6 thì đó là khoảng thời gian đủ để toàn bộ cơ thể thiết lập lại ký ức một lần.
 
-Thống kê tử vong tính tới ngày 25 tháng 4 năm 2024 kết thúc: 20 người tử vong (báo cáo giai đoạn sớm 13, 17, 18 người, con số liên tục tăng), 1.155 người bị thương, 2 người mất tích (1 người Singapore, 1 người Đức)[^8].
+Số liệu thương vong được xác định cuối cùng vào ngày 25 tháng 4 năm 2024: 20 người chết (các báo cáo ban đầu ghi nhận 13, 17, 18 người, con số thay đổi liên tục), 1.155 người bị thương và 2 người mất tích (1 người Singapore, 1 người Đức)[^8].
 
-Trường hợp chết tản mạn khắp Hoa Liên: Công Đường Trung Hồ 183,2 km nơi công nhân bảo dưỡng sườn núi Dư Tính bị đá rơi đè chết tại chỗ; Khách Sạn Taroko Tinh Anh (ở Thiên Thánh), thực tập sinh 17 tuổi Hoàng Tính bị đá rơi đè, ngày 25 tháng 4 không cứu được, trở thành người chết thứ 20; Đại Lâu Sao Thiên Vương Hoa Liên Thành 1 người chết, cư dân nữ Khang Tính bị mắc kẹt quá 12 giờ rồi không may tử vong, đây là cảnh hình động đất mà hầu hết người nhớ đến một tòa nhà xiêu vẹo[^8].
+Các trường hợp tử vong xảy ra ở nhiều nơi tại Hoa Liên: Tại đoạn đường Trung Hoành Quốc lộ cách 183.2 km, một nhân viên bảo trì sườn dốc họ Dư đã bị đá rơi trúng và chết tại chỗ; tại khách sạn Taroko Jingying (thuộc Thiên Tường), thực tập sinh họ Hoàng, 17 tuổi, bị đá rơi làm bị thương và qua đời vào ngày 25 tháng 4, trở thành nạn nhân thứ 20; một người dân cư ngụ tại tòa nhà Thiên Vương Tinh ở thành phố Hoa Liên đã tử vong, bà họ Khang bị mắc kẹt hơn 12 giờ sau đó không may qua đời, đây là một trong những tòa nhà nghiêng đổ được ghi nhớ nhiều nhất trong hình ảnh của trận động đất[^8].
 
-Công Viên Quốc Gia Taroko bị tổn thương nặng ở bên trong con đường bộ. Con đường Đá Cát Khó, Khe Yến Tử, Cửu Khúc Động là ba con đường nổi tiếng nhất vườn, cả ba toàn bị phá hủy. Người giải thích Cao Cấp Công Viên Quốc Gia Taroko Lâm Mao Yao nói với Thông Tấn Trung Ương: "**Khe Yến Tử nhất là khiến tôi bất ngờ, sau động đất tới Khe Yến Tử, luôn quay lại suy nghĩ nó ban đầu thế nào, cảm giác trở nên tươi sáng hơn, hóa ra toàn bộ đường hầm ánh sáng sụp đổ.**[^23]" Phó Giám Đốc Công Viên Quốc Gia Taroko Lâm Trung Sơn nói: "**Phát triển cảnh điểm thay thế thúc đẩy du lịch sinh thái sâu cũng là cần thiết.**[^23]" Toàn khu vườn ước tính thời gian phục hồi "**khoảng 7 năm**", Đá Cát Khó, Khe Yến Tử tái xây dựng ước tính 2031 mới có thể hoàn thành, Công Viên Quốc Gia Taroko thú nhận "**toàn khu vườn khai mở 7 năm không thể**[^23]".
+Thiệt hại nặng nề nhất tại Vườn quốc gia Taroko nằm ở các lối mòn nội bộ. Ba tuyến đường nổi tiếng nhất của công viên—đường mòn Shaka, đường mòn Yanzikou và đoạn đường Cửu Khúc Động—đều bị phá hủy hoàn toàn. Lâm Mậu Diệu, một hướng dẫn viên giàu kinh nghiệm của Ban quản lý công viên, nói với Thông tấn xã Trung ương: "**Yanzikou khiến tôi chấn động nhất; sau trận động đất, khi đến Yanzikou, tôi cứ liên tưởng lại nó vốn như thế nào, cảm thấy nó trở nên đặc biệt rực rỡ, hóa ra đường hầm Minh đã sập hoàn toàn.**"[^23] Phó ban quản lý Lâm Trung San nói: "**Việc thúc đẩy du lịch sinh thái chuyên sâu bằng cách phát triển các điểm tham quan thay thế cũng là cần thiết.**"[^23] Thời gian phục hồi ước tính cho toàn bộ công viên là "**khoảng 7 năm**"; việc tái thiết Shaka và Yanzikou được dự kiến hoàn thành vào khoảng năm 2031, Ban quản lý công viên thừa nhận rằng "**việc mở cửa toàn bộ công viên trong 7 năm là điều không thể**"[^23].
 
-![Nhân viên cứu hộ làm việc gần Tòa Nhà Sao Thiên Vương (Uranus Building), Xuân Viên Lộ, Hoa Liên Thành, sau động đất 0403 năm 2024. Tòa nhà mười tầng này nửa sụp đổ 45 độ, là cảnh hình động đất mà hầu hết người nhớ tới; 1 cư dân nữ Khang Tính bị mắc kẹt quá 12 giờ rồi không may tử vong.](/article-images/geography/hualien-02.webp)
-_Hiện trường cứu hộ Tòa Nhà Sao Thiên Vương, Xuân Viên Lộ, Hoa Liên Thành, 2024-04-03. Photo: Phủ Tổng Thống Shufu Liu, [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg)._
+![Nhân viên cứu hộ làm việc gần tòa nhà Thiên Vương Tinh, đường Hiên Viên, thành phố Hoa Liên, sau trận động đất ngày 03/04/2024. Tòa nhà mười tầng này nghiêng hẳn về phía đường phố và tầng trệt bị sập, cần cẩu và máy xúc đã vào hiện trường. Đây là cảnh tượng được ghi nhớ nhiều nhất trong hình ảnh của trận động đất 0403.](/article-images/geography/hualien-uranus-building-rescue-2024.webp)
+_Hiện trường cứu hộ tòa nhà Thiên Vương Tinh, đường Hiên Viên, thành phố Hoa Liên, ngày 03-04-2024. Ảnh: Shufu Liu của Tổng thống Phủ, [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg)._
 
-Con số du lịch sau này chứng tỏ cơn động đất này nặng như thế nào. Trước động đất Công Viên Quốc Gia Taroko du khách năm khoảng 4 triệu người, pico lúc 6,6 triệu. Năm 2024 du khách Taroko chỉ còn 210.000 người, bằng 3,2% thời kỳ pico[^24]. Huyện Hoa Liên toàn huyện 2024 số lượng du lịch khoảng 6,7 triệu người, năm 2023 là 14 triệu, **giảm 54,29%**, giảm lớn nhất mười năm gần. Toàn huyện 135 khách sạn, 22 khách sạn lựa chọn rút lui hoặc ngừng hoạt động[^24].
+Số liệu du lịch sau đó đã chứng minh mức độ nghiêm trọng của trận động đất này. Trước trận động đất, Vườn quốc gia Taroko đón khoảng 4 triệu lượt khách mỗi năm, và đạt đỉnh 6,6 triệu lượt. Năm 2024, số lượng khách tham quan Taroko chỉ còn 210 nghìn người, bằng 3.2% so với thời kỳ cao điểm[^24]. Toàn bộ huyện Hoa Liên có khoảng 6.7 triệu lượt du khách trong năm 2024, so với 14 triệu vào năm 2023, **giảm 54.29%**, mức giảm lớn nhất trong gần một thập kỷ. Trong số 135 nhà nghỉ của toàn huyện, 22 cơ sở đã chọn ngừng hoạt động hoặc đóng cửa[^24].
 
-Bãi Bảy Sao Tán vẫn ở đó, hình dáng vịnh đá cạn không đổi; nhưng cửa vào Taroko gần Bảy Sao Tán đã đóng cách đây hơn một năm. Từ ngày 1 tháng 7 năm 2025 trở đi, Công Viên Quốc Gia Taroko mới mở cửa Khu Du Khách Công Viên, Khu Giải Trí Thiên Thánh và những khu vực nào; Con đường Sư Hoa bộ khu từ tháng 4 năm 2025 từng giai đoạn mở cửa[^23].
+Bãi biển Thất Tinh vẫn còn đó, hình dạng vịnh đá không thay đổi; nhưng lối vào Taroko gần Thất Tinh đã bị đóng cửa hơn một năm. Chỉ từ ngày 1 tháng 7 năm 2025, Ban quản lý công viên mới mở lại một số khu vực như Trung tâm du khách Taroko và Khu vui chơi Thiên Tường; các lối mòn dọc tuyến đường Tô Hoa được mở dần từ tháng 4 năm 2025[^23].
 
-![Bãi Bảy Sao Tán, 2021. Năm 1936 chính phủ Nhật trị lấp đầy nhóm hồ nước "Bảy Sao Tán" nội địa xây phi trường phía bắc cảng Hoa Liên (sân bay Hoa Liên ngày nay), cư dân chuyển tới Thái Bình Dương bờ sau dùng lại tên địa danh cũ, nên Bảy Sao Tán ngày nay thực ra là vịnh chứ không phải hồ.](https://upload.wikimedia.org/wikipedia/commons/7/72/Qixingtan_Beach%2C_Taiwan.jpg)
-_Bãi Bảy Sao Tán, 2021. Photo: Artemas Liu, [CC BY-SA 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg)._
+![Bãi biển Thất Tinh, năm 2021. Hồ "Thất Tinh" ở nội địa đã bị chính quyền Nhật Bản xây dựng thành sân bay Bắc Hoa Liên (nay là Sân bay Hoa Liên) vào năm 1936; người dân chuyển đến bờ Thái Bình Dương và tiếp tục sử dụng tên cũ, vì vậy ngày nay Thất Tinh thực chất là một vịnh biển chứ không phải hồ.](https://upload.wikimedia.org/wikipedia/commons/7/72/Qixingtan_Beach%2C_Taiwan.jpg)
+_Bãi biển Thất Tinh, năm 2021. Ảnh: Artemas Liu, [CC BY-SA 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg)._
 
-Đế Giả · Dữu Đạo quan sát dân tộc sau động đất cũng nói với Tường Thuật Giả: "**Dân tộc chúng tôi sẽ cảm thấy không gian này, giống như khoảng cách chúng tôi ngày càng xa. Trước chúng tôi sống ở đây, bản thân vốn tốt tươi, động vật cũng không giảm, chính phủ nói bảo vệ núi rừng, nhưng theo nhìn của dân tộc chúng tôi, không thực sự bảo vệ.**[^16]" Dân tộc Taroko 2004 mới lấy lại tên, 2024 Công Viên Quốc Gia sụp đổ. 20 năm giữa tái tên tới lại mất quyền tiếp cận cảnh quan này, là trục thời gian quan hệ giữa dân tộc với khu vực đất này xếp chồng.
+Các quan sát của người bản địa sau trận động đất Lạp Du đã được họ chia sẻ với phóng viên: "**Chúng tôi cảm thấy không gian này dường như ngày càng xa chúng tôi hơn. Trước đây chúng tôi sống ở đây, mọi thứ đều ổn, số lượng động vật cũng không giảm, chính phủ nói là bảo vệ rừng núi, nhưng trong mắt người bản địa thì chưa thực sự được bảo vệ.**"[^16] Người Taroko đã đòi lại tên của mình vào năm 2004, và Vườn quốc gia đã bị tàn phá vào năm 2024. Hai thập kỷ từ khi đặt lại tên đến việc mất quyền tiếp cận cảnh quan này một lần nữa là một trục thời gian về mối quan hệ giữa một dân tộc và vùng đất của họ.
 
 ## Nhà Nước Phúc Hạ Dưới Phượng Lâm, Ngọc Lý, Thuỷ Tuấn
 
@@ -248,11 +248,11 @@ Công Viên Quốc Gia Taroko 7 năm sau cũng có thể mở cửa lại. Nhưn
 - [Thời Kỳ Nhật Trị](/history/日治時期) — 1913 Phong Điền, Yoshino, Hayashida ba làng di cư; 1914 sự kiện Taroko; 1930 Bunun chuyển cư tập thể
 - [Lâm Nghĩa Hùng](/people/林義雄) — Vận Động Ngoài Đảng, Ngũ Kết Hương gốc, Đà Nẵng, chia cùng Hoa Liên một trục dân chủ hóa những năm 1980 Đài Loan
 
-## Nguồn Ảnh
+## Nguồn hình ảnh
 
-Bài viết dùng 6 tấm Wikimedia Commons giấy phép CC. Hero là [Taiwan 2009 CingShui Cliffs on SuHua Highway FRD 6762 Pano Extracted](https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Thanh Thủy Đứt Vách toàn cảnh dọc Sư Hoa, 2009).
+Bài viết sử dụng 6 bức ảnh được cấp phép CC từ Wikimedia Commons. Hero đã được lưu vào `public/article-images/geography/` để tránh liên kết nóng đến máy chủ: [Taiwan 2009 CingShui Cliffs on SuHua Highway FRD 6762 Pano Extracted](https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Toàn cảnh vách đá Thanh Thủy dọc Quốc lộ Tô Hoa, năm 2009).
 
-Hình ảnh cảnh nội tuyến theo thứ tự: [Taiwan LiWu River](https://commons.wikimedia.org/wiki/File:Taiwan_LiWu_River.JPG) (Vegafish, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), Lập Vũ Khê cắt khối đá cẩm thạch Hẻm Taroko); [20170924-火神祭開工祭祀 (19)](<https://commons.wikimedia.org/wiki/File:20170924-%E7%81%AB%E7%A5%9E%E7%A5%AD%E9%96%8B%E5%B7%A5%E7%A5%AD%E7%A5%80_(19).jpg>) (Tokoabibi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), 2017 Lễ Hỏa Thần Sakizaya lễ khai công); [Taiwan 2009 HuaLien City JingSi Hall FRD](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Tĩnh Tư Tinh Xá Hoa Liên Thành 2009); [Rescue workers near the semi-collapsed ten-story Uranus Building on Xuanyuan Road after the 2024 Hualien earthquake](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg) (Phủ Tổng Thống Shufu Liu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Hiện Trường Cứu Hộ Tòa Nhà Sao Thiên Vương động đất 0403); [Qixingtan Beach, Taiwan](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg) (Artemas Liu, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), Bãi Bảy Sao Tán 2021).
+Các ảnh minh họa được sắp xếp theo thứ tự: [Taiwan LiWu River](https://commons.wikimedia.org/wiki/File:Taiwan_LiWu_River.JPG) (Vegafish, [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/), Sông Lập Vụ cắt qua tầng đá cẩm thạch tại Thung lũng Taroko); [20170924-火神祭開工祭祀 (19)](<https://commons.wikimedia.org/wiki/File:20170924-%E7%81%AB%E7%A5%9E%E7%A5%AD%E9%96%8B%E5%B7%A5%E7%A5%AD%E7%A5%80_(19).jpg>) (Tokoabibi, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Lễ cúng khai mạc lễ hội Thần lửa Sakizaya năm 2017); [Taiwan 2009 HuaLien City JingSi Hall FRD](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg) (Fred Hsu, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Tự Tế Tĩnh Tư Đường thành phố Hoa Liên năm 2009); [Rescue workers near the semi-collapsed ten-story Uranus Building on Xuanyuan Road after the 2024 Hualien earthquake](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg) (Tổng thống phủ Shufu Liu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Hiện trường cứu hộ Tòa nhà Uranus sau trận động đất 0403); [Qixingtan Beach, Taiwan](https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg) (Artemas Liu, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), Bãi biển Thất Tinh Đàm năm 2021).
 
 ## Tài Liệu Video
 

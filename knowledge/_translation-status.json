@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T01:41:06+08:00",
-    "zhCommitHead": "13c5ddc24",
+    "lastUpdated": "2026-09-09T02:08:30+08:00",
+    "zhCommitHead": "86be6bdae",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 646,
-        "stale": 91,
+        "fresh": 647,
+        "stale": 90,
         "metadata_stale": 80,
         "missing": 304,
         "orphan": 0
@@ -83501,8 +83501,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-08T16:31:22.355054+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "86be6bda",
+          "translationLastModified": "2026-09-09T01:41:07+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -109440,8 +109440,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-08T15:54:37+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "86be6bda",
+          "translationLastModified": "2026-09-09T01:41:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -129009,18 +129009,16 @@
         "vi": {
           "path": "vi/Geography/hualien-county.md",
           "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2d40b234aa9d9849",
+          "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
+          "translatedAt": "2026-09-08T18:08:02.631510+00:00",
           "translationLastCommit": "cc3d34ea",
           "translationLastModified": "2026-08-09T08:46:50+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/hualien-county.md",
@@ -138435,8 +138433,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-09-08T15:54:37+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "86be6bda",
+          "translationLastModified": "2026-09-09T01:41:07+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
