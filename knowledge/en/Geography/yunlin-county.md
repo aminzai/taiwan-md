@@ -2,9 +2,7 @@
 title: 'Yunlin County: What Yilan Chose to Reject, Yunlin Paid for with Thirty Years of Its Lungs'
 description: "On December 13, 1987, Chen Ding-nan kept the Sixth Naphtha Cracker out of Yilan in a CTS studio. On June 26, 1991, the Executive Yuan approved moving the Sixth Naphtha Cracker to the waters off Mailiao, Yunlin. Construction formally began in July 1994, Phase I fired up in 1998, and 2,255 hectares have since been reclaimed from the sea. In 2011, a team led by Chan Chang-chuan at National Taiwan University's College of Public Health found that residents within 10 kilometers of the Sixth Naphtha Cracker had a cancer incidence 1.29 times Taiwan's average. Yet within the same county, Beigang Chaotian Temple has worshipped Mazu for 332 years since 1694, the 33rd year of the Qing Kangxi reign, and U.S. aid steel held up the 1,939-meter Xiluo Bridge on January 28, 1953. One county is at once home to one of Taiwan's oldest Mazu temples, its most important rice granary, and its largest petrochemical kingdom."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Yunlin',
@@ -22,19 +20,23 @@ tags:
     'Zhuoshui River',
     '22 Counties and Cities Series',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/雲林縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp'
+imageCredit: 'Mk2010 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg'
 translatedFrom: 'Geography/雲林縣.md'
-sourceCommitSha: '036da279d'
-sourceContentHash: 'sha256:68dcc74d52d8c737'
-sourceBodyHash: 'sha256:24b0d8d16f592539'
-translatedAt: '2026-05-18T05:08:07+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg
-imageCredit: Mk2010
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:189f50627b664502'
+sourceBodyHash: 'sha256:7144cde6e4cd475f'
+translatedAt: '2026-09-08T20:04:13.303456+00:00'
 ---
 
 # Yunlin County: What Yilan Chose to Reject, Yunlin Paid for with Thirty Years of Its Lungs
@@ -53,22 +55,22 @@ Drive thirty-five kilometers inland to Beigang Chaotian Temple. At the same dawn
 
 This article begins from this coastline because within this field of vision are hidden two key moments in Yunlin's history: one kept the Lanyang Plain from becoming a petrochemical industrial zone, and the other turned the waters off Mailiao into Taiwan's largest petrochemical kingdom. The two moments are 200 kilometers apart in physical distance and 4 years apart in time, but there is only one causal line between them.
 
-## Three Alluvial Fans and One Artificial Tract: Yunlin's Geography Was Written by Water and Capital Together
+## Three Alluvial Fans Plus One Artificial Plot: Yunlin's Geography Was Written by Water and Capital
 
-Yunlin County is wedged between the northern end of the Chianan Plain and the southern end of the Changhua Plain. To the north is the Zhuoshui River; to the south is the Beigang River. The 1,290.83 square kilometers between the two rivers constitute this county[^7].
+Yunlin County sits between the northern tip of the Chianan Plain and the southern tip of the Changhua Plain. To the north lies the Zhuoshui River; to the south lies the Beigang River. The 1,290.83 square kilometers between the two rivers make up this county[^7].
 
-Its terrain falls into three sections:
+The terrain divides into three sections:
 
-The Zhuoshui River alluvial plain stretches from east to west, running through Douliu, Dounan, Huwei, Xiluo, Lunbei, and Mailiao. Its black soil is deep and mineral-rich. This land was confirmed by Japanese-era agricultural experiments as the optimal production zone for ponlai rice; by 1932, the 7th year of the Showa era, annual production of ponlai rice around Xiluo, Yunlin, had already made it one of Taiwan's major rice granaries[^9]. The Beigang River alluvial fan extends from Beigang toward Shuilin, Yuanchang, and Kouhu; its sandy loam is shallower, traditionally used for peanuts and miscellaneous grains[^7]. Farther east, in Gukeng and Linnei, hills 200 to 800 meters above sea level have a cooler climate; this was the upland area selected by the Japanese colonial government in the 1930s for promoting coffee cultivation[^10].
+The Zhuoshui River alluvial plain stretches from east to west, running through Douliu, Dounan, Huwei, Xiluo, Lunbei, and Mailiao. The soil layer is thick and rich in minerals. This is the area where the Japanese colonial agricultural experiments confirmed the optimal production zone for Pusu rice; by 1932 (the 7th year of the Showa era), the annual yield of Pusu rice in the Xiluo area of Yunlin had already made it one of Taiwan's major rice-producing regions[^9]. The Beigang River alluvial fan extends from Beigang through Xiluo, Yuanzhong, and Houhu, with shallow sandy loam soil, traditionally used for peanuts and grain[^7]. Further east, in Gugang and Linnei, the hilly terrain rises 200 to 800 meters and has a pleasant climate—where the Japanese colonial government selected these mountainous areas for coffee cultivation in the 1930s[^10].
 
-The fourth section is artificial. Reclamation began in the waters off Mailiao in 1991. By the completion of Phase I in 1998, roughly 2,255 hectares had been created; counting harbor facilities, the total area is 2,603 hectares[^5]. ⚠️ The "3,400 hectares" written in Stage 0 cannot be verified from reliable sources. Public data from both the Yunlin County Government and Formosa Plastics use the two figures 2,255 and 2,603 side by side. This correction matters because thirty years ago this tract of sea did not exist.
+The fourth section is artificial. Land reclamation in the waters off Mailiao began in 1991, with the first phase completed in 1998, creating approximately 2,255 hectares of new land; including port facilities, the total area reaches 2,603 hectares[^5]. ⚠️ The "3,400 hectares" written in Stage 0 has no reliable source; both Yunlin County Government and Formosa Plastics official data use the 2,255 / 2,603 figures, and this correction is important because thirty years ago this stretch of sea did not exist.
 
-Administratively, Yunlin has 20 townships, towns, and cities: 1 county-administered city, Douliu; 4 urban townships, Dounan, Huwei, Xiluo, and Beigang; and 15 rural townships. The county seat is Douliu. The most populous town is Huwei. The total population is 648,459, according to household registration statistics for April 2026[^7].
+Administratively, there are 20 townships and cities: one county-administered city (Douliu) plus four towns (Dounan, Huwei, Xiluo, Beigang) plus fifteen rural townships. The county seat is in Douliu, the most populous township is Huwei, with a total population of 648,459 people (April 2026 household registration statistics)[^7].
 
-The western coast in winter needs special attention. Every year from November to the following March, the northeast monsoon blows across the Taiwan Strait, and western Yunlin sees a typical alternation of "dense fog and strong wind." In Mailiao, Taixi, and Kouhu, visibility often falls below 500 meters. This is the season when the dispersion of emissions from the Sixth Naphtha Cracker is poorest, and also the season when the burden on lungs is heaviest[^11]. In rainfall distribution, the western coast receives relatively little annual rainfall, about 1,200 millimeters, while the eastern hills can exceed 2,500 millimeters annually. This gap makes Yunlin's agricultural structure completely different from east to west.
+In winter, the western coast deserves special mention. From November each year through March of the following year, the northeasterly monsoon blows in across the Taiwan Strait, bringing Yunlin's west coast its characteristic alternating "dense fog and strong winds." Around Mailiao, Taixi, and Houhu, visibility frequently drops below 500 meters—this is the season when the Sixth Naphtha Cracker's exhaust disperses worst and places the greatest burden on the lungs[^11]. In terms of rainfall distribution, the western coastal areas receive about 1,200 millimeters annually, while the eastern hills can receive over 2,500 millimeters. This disparity means Yunlin's agricultural structure differs completely from east to west.
 
-![The Mailiao complex of the Sixth Naphtha Cracker, photographed in 2010. Approved by the Executive Yuan in 1991, construction began in 1994, Phase I fired up in 1998, and the reclaimed area is 2,255 hectares.](https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg)
-_The Mailiao Industrial Complex of the Sixth Naphtha Cracker, 2010. Photo: Mk2010, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
+![The Sixth Naphtha Cracker Mailiao plant area, photographed in 2010. Approved by the Executive Yuan in 1991, construction began in 1994, and the first phase began operations in 1998, with 2,255 hectares of land reclaimed.](/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp)
+_The Sixth Naphtha Cracker Mailiao Industrial Zone, 2010. Photo: Mk2010 / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
 
 ## The Root of Bengang: The Year Mazu Crossed the Sea from Meizhou
 
@@ -238,14 +240,14 @@ Next time you go to Yunlin, do not only go to Gukeng for coffee. Try going to th
 - [Taiwan's River Systems and Hydrological Features](/en/geography/taiwan-river-systems-and-hydrology) — the decisive influence of the Zhuoshui River and Beigang River alluvial fans on Yunlin's agricultural landscape
 - [Taiwan's Agricultural Landscapes and Industrial Distribution](/en/geography/taiwan-agricultural-landscapes-and-industry-belts) — the place of Xiluo rice and Chishang rice in the rice-granary identities of Taiwan's agricultural landscape
 
-## Image Sources
+## Image Credits
 
-This article uses 4 Wikimedia Commons CC-licensed images:
+This article uses 4 Wikimedia Commons CC-licensed images, with the hero image cached at `public/article-images/geography/` to avoid hotlinking to source servers:
 
-- **Hero, frontmatter**: [Formosa Plastics Group Mail-Liao Industrial Complex](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>) (Mk2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), Mailiao Industrial Complex of the Sixth Naphtha Cracker)
-- **Scene §Bengang in 1694**: [Beigang Chaotian Temple-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg) (阿道, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Beigang Chaotian Temple in September 2024)
-- **Scene §The first smokestack in 1909**: [Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg) (WC-QHS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Huwei Sugar Refinery in 2018)
-- **Scene §January 28, 1953**: [Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg) (JianEn Yu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Xiluo Bridge in August 2014)
+- **Hero (frontmatter)**: [Formosa Plastics Group Mail-Liao Industrial Complex](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>) (Mk2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), Mail-Liao Sixth Naphtha Cracker Industrial Park)
+- **Scene §1894 Beigang**: [Beigang Chaotian Temple-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg) (Ado, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Beigang Chaotian Temple, September 2024)
+- **Scene §1909 The First Chimney**: [Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg) (WC-QHS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Huwei Sugar Factory, 2018)
+- **Scene §1953 January 28**: [Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg) (JianEn Yu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Xiluo Bridge, August 2014)
 
 ## Video Material
 
