@@ -29,15 +29,15 @@ lastHumanReview: false
 readingTime: 18
 researchReport: 'reports/research/2026-05/高雄市.md'
 series: '22 縣市系列（batch 4）'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg'
-imageCredit: 'peellden'
-imageLicense: 'CC BY-SA 3.0'
+image: '/article-images/geography/kaohsiung-night-skyline-2014.webp'
+imageCredit: 'hngyue photography / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg'
 translatedFrom: 'Geography/高雄市.md'
-sourceCommitSha: 'a5490c043'
-sourceContentHash: 'sha256:244cad849cf26403'
-sourceBodyHash: 'sha256:fd14be167daa0221'
-translatedAt: '2026-07-27T08:02:41+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:5de62c87bd2f7bf1'
+sourceBodyHash: 'sha256:d9c17350b5714f5f'
+translatedAt: '2026-09-08T00:30:47.929754+00:00'
 ---
 
 # Kaohsiung thành phố: Năm 1979 khi Kaohsiung lên cấp thành phố trực thuộc trung ương, tám người Kaohsiung bị giam giữ tù nhân tại tù nhân của Taipei
@@ -166,42 +166,42 @@ Từ vòng tròn Grand Avenue đến ga Formosa, chuyển đổi đã kéo 29 n�
 
 > **📝 Ghi chú người dẫn xuất:** Việc biến vị trí xung đột thành một ga nghệ thuật là cách người Kaohsiung trả lời năm 1979. Đây là một cách viết lại trí nhớ. Công viên kỷ niệm 22/8 ở Taipei và khu vực nhân quyền Kinh đô đảo Bắc Kinh là cách kể bằng cách ký tên, ký tự, trưng bày, kể người đóng vai trò đã xảy ra ở đây. Kaohsiung làm một việc khác: đây là hằng ngày. Hàng trăm nghìn người mỗi ngày xuống ga này, họ có nhìn lên nhà máy ánh sáng không quan trọng, quan trọng là tên này được nhúng vào mạng lưới ga của thành phố. **Một thành phố xử lý vết thương lịch sử của mình như thế nào, xem họ có biến vị trí đó thành một nơi mọi người thường xuyên đi qua hay không**.
 
-## 38 quận: Từ bãi cát Phan Thiên đến lều ngư dân Ban Cong
+## 38 Khu vực: Từ bãi đất bồi Kèt đến Na Mạch Bản ngữ
 
-Ngày 25 tháng 12 năm 2010, một lần nữa lên cấp.
+Ngày 25 tháng 12 năm 2010, một lần nữa được hợp nhất.
 
-"Ngày 25 tháng 12 năm 2010, diện tích bề mặt gốc của thành phố Kaohsiung 153 km² được hợp nhất vào tỉnh Kaohsiung, diện tích bề mặt tăng gấp 20 lần lên 2.951 km², dân số gốc của thành phố Kaohsiung 152 nghìn người được cộng vào tỉnh, tổng dân số đạt 277 nghìn 4.470 người"[^16].
+«Ngày 25 tháng 12 năm 2010, khu vực đô thị Kaohsiung nguyên thủy với diện tích 153 km² được hợp nhất vào quận Kaohsiung, diện tích đất tăng đột biến lên 2.951 km², dân số gần 1,52 triệu người của khu vực đô thị nguyên thủy được chuyển sang quận Kaohsiung, tổng dân số đạt 2.774.470 người»[^16].
 
-"Gốc 11 quận của thành phố Kaohsiung và 27 quận xã, hội của tỉnh Kaohsiung giao nhau thành 38 quận (bao gồm 3 quận núi đất gốc của thành phố trực thuộc trung ương)"[^17].
+«11 khu vực của khu vực đô thị nguyên thủy Kaohsiung và 27 xã thị của quận Kaohsiung nguyên thủy hợp thành 38 khu vực (bao gồm 3 khu vực dã thìn đất liền của bản ngữ trực tiếp)»[^17].
 
-Từ ngày này, "thành phố Kaohsiung" là một thành phố kéo dài **từ bãi cát Phan Thiên đến đáy núi Yên Sơn**. 11 quận gốc của thành phố Kaohsiung là các khu vực trung tâm thành phố: Yên Phố, Lửa Núi, Lai Yê, Mới Sinh, Trước Kim, Trước Kinh, Ba Nhân, Như Tịch, Trái Niệm, Phan Thiên, Nhỏ Kinh. 27 quận xã gốc của tỉnh Kaohsiung lan tỏa ở ngoại khu: Phước Tịch, Đại Lai, Nhỏ Đào, Nhân Vũ, Đại Sơn, Gia Sơn, Đường Nhỏ, Hồ Nội, Hòa An, Kỳ Dịch, tiếp tục lên Bắc là Cầu Đông, Hoa Chi, Đại Cây, Đại Sơn, Thành Lai, A Lan, Diệu Đi, Ngọc Quyền, tiếp tục lên Đông là Ma Nghĩa, Phan Sơn, Nội Môn, Suối Tre, Lục Nguyên, tiếp tục lên xa nhất là Ma Lai, Tường Ngu, Phan Thiên ba quận núi đất gốc nguyên dân.
+Từ ngày hôm đó, «Kaohsiung» là một thành phố kéo dài từ **bãi đất bồi Kèt đến chân núi Yushan**. 11 khu vực của khu vực đô thị nguyên thủy là lõi thành phố: Thạchân, Cổng Sơn, Lê Linh, Tân Tiến, Tiền Kim, Tiền Trấn, Tam Mỹ, Nam Chư, Tả Đài, Kèt, Hương Thủy. 27 xã thị của quận Kaohsiung nguyên thủy rải rác ở vùng ngoại ô: Phượng Phong, Đại Liễu, Tiêu Sung, Nhân Vũ, Đại Xã, Kuang Shan, Lộ Trường, Hồ Nội, Vĩnh An, Thạch Mỗn, rồi tiếp tục về phía bắc là Kè Trì, Diêu Thuyền, Đại Sư, Đại Xã, Điền Liễu, A Linh, Tử Quyền, rồi tiếp tục về phía đông là Mỹ Nông, Kè Sơn, Nội Môn, Thiên Linh, Lục Vân, Giáp Sanh, rồi cuối cùng là Mỏ Lân, Đào Nguyên, Na Mạch Bản ngữ — ba khu vực dã thìn đất liền của bản ngữ.
 
-Mỗi quận có câu chuyện khác nhau. Quận Phan Thiên có 28.000 người, là một bãi cát dài 11.3 km, ferry là phương tiện duy nhất kết nối. Quận Ma Lai có 1.867 người, là quận có dân số ít nhất trong thành phố Kaohsiung, chính là cộng đồng người Lũ Khuyết chủ đạo, từ 200 mét lên trên 1.000 mét. Quận Phước Tịch có 355.183 người, là quận có dân số lớn nhất trong thành phố Kaohsiung, gốc là thủ đô của tỉnh Kaohsiung, năm 2010 hợp nhất trở thành một quận duy nhất là dân số thứ hai trên toàn quốc[^18]. Ba quận dân số khác nhau 190 lần, nhưng hành chính đều gọi là "Kaohsiung thành phố quận ...".
+Mỗi khu vực đều có câu chuyện riêng. Khu vực Kèt với 28.000 người là một bãi đất bồi dài 11,3 km, phà là phương tiện giao thông chính để ra vào. Khu vực Mỏ Lân với 1.867 người là khu vực có dân số ít nhất ở Kaohsiung, chủ yếu là người Lũ Khuyết, độ cao tăng từ 200 m lên trên 1.000 m. Khu vực Phượng Phong với 355.183 người là khu vực đông dân nhất ở Kaohsiung, nguyên là tỉnh lãnh Kaohsiung, sau khi hợp nhất năm 2010 trở thành khu vực có dân số lớn nhất cả nước ngoài thủ đô[^18]. Ba khu vực có chênh lệch dân số lên tới 190 lần nhưng về mặt hành chính đều gọi là «khu vực Kaohsiung».
 
-![Phan Thiên đảo nhìn từ đỉnh núi sau. Bãi cạn dài 11.3 km, 28.000 người sống, không có cầu kết nối với bờ chính (đường tải lên cầu chỉ có xe), ferry là phương tiện chính.](/article-images/geography/kaohsiung-03.webp)
-_Phận tầng Phan Thiên. Nguồn ảnh: người đóng góp Wikimedia Commons, [CC BY-SA qua Wikimedia](https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg).\_
+![Đảo Kèt nhìn từ Kè Hùng. Bãi đất bồi dài 11,3 km, 28.000 người sinh sống, không có cây cầu nối đất liền (đường hầm biển dành cho giao thông ô tô), phà Cổng Sơn là phương tiện giao thông chính.](/article-images/geography/kaohsiung-03.webp)
+_ panoramic view of Kèt District. Photo: Wikimedia Commons contributor, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg).\_
 
-### Ba quận núi đất: Lũ Khuyết, Ban Cong, Kanakanavu, La Alua
+### Ba khu vực dã thìn đất liền: Lũ Khuyết, Bản ngữ, Cardona, La Alua
 
-**Quận Ma Lai** nằm ở phía đông nam thành phố Kaohsiung, chính đa số là cộng đồng người Lũ Khuyết ba xã, bao gồm Ma Lai, Nhi Đào, Tân Sơn. Các xã ngôn ngữ Lũ Khuyết có sự khác biệt, công trình đá tường Nhi Đào giữ được đầy đún nhất[^19].
+**Khu vực Mỏ Lân** nằm ở phía đông nam của Kaohsiung, chủ yếu là người Lũ Khuyết dưới ba cộng đồng, bao gồm Mỏ Lân, Đơn Na, Vạn Sơn ba bản đồ. Mỗi bản đồ có sự khác biệt về phương ngữ Lũ Khuyết, nhóm đồng Mỏ Lân có cụng nhà đá hoàn chỉnh nhất[^19].
 
-**Quận Tường Ngu** lan theo sông Lao Nong, chính đa số là người Ban Cong, đồng thời là lĩnh đề truyền thống của người La Alua. Người La Alua (Hla'alua) lâu thời bị nhầm lẫn với hệ tổ tiên của người Zong Zong, cho đến năm "2014 ngày 26 tháng 6, chính phủ Cộng hòa Nhân dân Trung Hoa công nhận người La Alua là tổ tiên nguyên dân thứ 15 của Đài Loan, người Kanakanavu là tổ tiên nguyên dân thứ 16"[^20]. Người La Alua ngày nay khoảng 400 người, chính phố tại quận Tường Ngu, xã Tường Ngu.
+**Khu vực Đào Nguyên** dọc theo dòng sông Lao Nông trên, chủ yếu là người Bản ngữ, đồng thời là lãnh thổ truyền thống của người La Alua. Người La Alua (Hla'alua) lâu năm bị nhầm lẫn với nhóm phụ của người Tây Nhĩ, cho đến khi «chính phủ Trung Hoa Dân Quốc (Đài Loan) công nhận người La Alua là dân tộc bản ngữ thứ 15 và người Cardona là dân tộc bản ngữ thứ 16 vào ngày 26 tháng 6 năm 2014»[^20]. Người La Alua hiện nay khoảng 400 người, chủ yếu sinh sống tại thị trấn Cao Đằng và Đào Nguyên của khu vực Đào Nguyên.
 
-**Quận Phan Thiên** lan theo sông Như Tịch hai bên, người Ban Cong và người Kanakanavu (Kanakanavu) cùng sinh sống. Người Kanakanavu ngày nay khoảng 350 người, chính phố tại quận Phan Thiên, xã Ka Na Nu và xã Ma Yê. Tên "Phan Thiên" xuất phát từ một truyền thuyết: " hàng trăm năm trước, một người trẻ tên là 'Phan Thiên' phát hiện một con cá khoả khổ lớn cản trở dòng sông đe dọa lều ngư dân, người dân dùng tên 'Phan Thiên' đặt tên sông Như Tịch để kỷ niệm người này"[^21]. Năm 2008, xã Ba Nhân đổi tên Phan Thiên xã, năm 2010 lại nâng lên cấp quận Phan Thiên.
+**Khu vực Na Mạch Bản ngữ** nằm dọc hai bờ sông Thanh Nhiên, nơi người Bản ngữ và người Cardona (Kanakanavu) cùng sinh sống. Người Cardona hiện nay khoảng 350 người, chủ yếu sinh sống tại các thị trấn Đắc Na và Ma Ya của khu vực Na Mạch Bản ngữ. Tên gọi «Na Mạch Bản ngữ» xuất phát từ một truyền thuyết: «Hàng trăm năm trước, một thanh niên tên là Na Mạch Bản ngữ phát hiện một cục cá lớn chặn dòng sông đe dọa đến bản đồ, mọi người đặt tên cho dòng sông Thanh Nhiên để kỷ niệm»[^21]. Năm 2008, Tam Mỹ thay đổi tên thành Na Mạch Bản ngữ, năm 2010 lên cấp thành khu vực Na Mạch Bản ngữ.
 
-"Tên người La Alua và người Kanakanavu chỉ trở lại chính thức các danh pháp từ năm 26 tháng 6 năm 2014. Trước đó, tổ tiên của họ bị ghi nhận là hệ tổ tiên của người Zong Zong kéo dài hơn trăm năm, các nhà học gọi là 'Zong Zong phía nam'. **Trước khi đổi tên, họ bị đại diện bởi người khác, sau khi đổi tên, họ tự mình nói chuyện**.
+Tên gọi «La Alua» và «Cardona» mới chỉ trở lại với tên gọi chính thức vào ngày 26 tháng 6 năm 2014. Trước đó, tổ tiên của họ đã được ghi nhận là nhóm phụ của người Tây Nhĩ trong hơn một trăm năm, học giới gọi là «Tây Nhĩ Nam». **Trước khi được đặt lại tên, họ bị người khác đại diện; sau khi được đặt lại tên, họ tự nói lên tiếng nói của mình**.
 
-### Ma Nghĩa: Bên phải của sáu đống
+### Mỹ Nông: Nhóm khách của Lục Đảo bên phải
 
-Từ Phan Thiên theo dõi sông Như Tịch xuống, bạn sẽ gặp Ma Nghĩa. Quận Ma Nghĩa là duy nhất là ví dụ về khu dân cư Hoa Kiểu truyền thống của Kaohsiung, hành chính là thuộc thành phố Kaohsiung, văn hóa là **"sáu đống" của "bên phải"**[^22].
+Từ Na Mạch Bản ngữ đi xuống dòng sông Thanh Nhiên, bạn sẽ gặp Mỹ Nông. Khu vực Mỹ Nông là khu vực khách duy nhất thuộc Kaohsiung, về mặt hành chính thuộc về thành phố Kaohsiung, văn hóa thuộc «**Lục Đảo**» của «**bên phải**».
 
-Sáu đống là tên gọi chung của các khu dân cư Hoa Kiểu đoàn tụ tại phía nam của Đài Loan, bao gồm đống tiên tiến, đống trước, đống giữa, đống sau, đống trái, đống phải. "Đống phải" bao gồm toàn bộ quận Ma Nghĩa, Lục Nguyên, Suối Tre, một phần của quận Kaohsiung, một phần của quận Phan Sơn. Năm 1721, vụ sự Phú Nhã dẫn đến các khu dân cư Hoa Kiểu đoàn tụ gia nhập tự vệ quân, "cùng đẩy Lý Trực Bảo làm tổng thống, chia thành sáu nhóm (sáu đống) bảo vệ quê hương"[^22], bộ sưu tập này sau này trở thành danh tính văn hóa của các khu dân cư Hoa Kiểu.
+Lục Đảo là tên gọi chung của các cộng đồng khách tụ tại miền nam Đảo Bắng, bao gồm tiền tiến, tiền, trung, hậu, trái, phải. «Bên phải» bao phủ toàn bộ khu vực Mỹ Nông, một phần khu vực Lục Vân, một phần khu vực Thiên Linh, một phần khu vực Giáp Sanh, một phần khu vực Kè Sơn. Vào năm 1721, trong sự kiện của Chu Nhất Quảng, các cộng đồng khách dọc sông Đông Kinh tổ chức quân kháng cự bảo vệ, «chung tay đề cúng Lý Trực Tam làm tổng chỉ huy, chia thành sáu nhóm (Lục Đảo) bảo vệ quê hương»[^22], mô hình tổ chức này sau này trở thành bản sắc văn hóa của cộng đồng khách.
 
-Nhưng câu chuyện này không chỉ là năm 1721 về quân tự vệ. Ma Nghĩa cũng có một phần lịch sử gần gũi khác.
+Nhưng câu chuyện này không chỉ dừng lại ở năm 1721. Mỹ Nông còn có một phần lịch sử gần đây hơn.
 
-"Năm 1992 cuối, do chính phủ xã Ma Nghĩa và các tổ chức cộng đồng địa phương tổ chức lần đầu 'hội thông báo xây dựng hồ bơi Ma Nghĩa', kích thích một cuộc chiến được gọi là 'quân địa phương đối nghịch với hồ bơi' hoặc 'phản động hồ bơi Ma Nghĩa'"[^23]. Chính phủ dự kiến xây hồ bơi ở vị trí trên đồng bằng sông Ma Nghĩa, cung cấp nước cho khu vực Kaohsiung, nhưng vị trí nằm trên đồng bằng trượt đất và sẽ phá hủy sinh thái rừng nguyên sinh hấp dẫn của thung lũng Hoa Mai, ảnh hưởng đến văn hóa truyền thống Hoa Kiểu Ma Nghĩa.
+«Vào cuối năm 1992, tại buổi lắng nghe đầu tiên về việc xây dựng đập Mỹ Nông do hội đồng xã Mỹ Nông và các tổ chức địa phương tổ chức, một phong trào được gọi là «quân quân chống lại chính phủ» đã bùng phát»[^23]. Chính phủ dự định xây dựng đập trên dòng sông Mỹ Nông để cung cấp nước cho khu vực Kaohsiung, nhưng vị trí đập nằm trên dãy gãy và sẽ phá hủy rừng cây nhiệt đới của thung lũng Đỏ Bướm, ảnh hưởng đến văn hóa khách truyền thống của Mỹ Nông.
 
-Cuộc chiến kéo 8 năm. "Ngày 18 tháng 3 năm 2000, Trần Văn Bảo chọn làm tổng thống, sau đó công bố không xây dựng hồ bơi Ma Nghĩa trong thời gian còn lại của nhiệm kỳ"[^23]. Hiệp hộ tình nguyện yêu nước Ma Nghĩa trở thành mẫu của phát triển bền vững cộng đồng Hoa Kiểu, cũng kích thích một thế hệ trẻ Hoa Kiểu trở về quê hương. Ngày nay, giấy ủ, thanh trần, món ăn Hoa Kiểu, nhà khói dưới núi Ngọc Quyền là kết quả mà người Ma Nghĩa tự chọn, không phải bị người khác quyết định.
+Phong trào kéo dài tám năm. «Ngày 18 tháng 3 năm 2000, Chen Shui-bian được bầu làm tổng thống, sau đó công bố không xây dựng đập Mỹ Nông trong nhiệm kỳ»[^23]. Hội đồng bạn bè Mỹ Nông trở thành mô hình tiêu biểu cho phát triển bền vững của cộng đồng khách ở Đảo Bắng, đồng thời thúc đẩy phong trào trở về quê của một thế hệ thanh thiếu niên khách. Ngày nay, mỏng cung, thanh lâm, ẩm thực khách, những ngôi nhà dưới chân núi Trăng Mỏi của Mỹ Nông — tất cả đều là kết quả của lựa chọn của chính khu vực, không phải quyết định thay thế cho bất kỳ ai.
 
 ## Phan Thiên và Tường Ngu bị kẹt vào vụ 8 tháng
 
@@ -305,23 +305,23 @@ Kaohsiung không phải là bán dưới của Đài Loan. Kaohsiung là thành 
 - [Người Hoa Kiểu Đài Loan](/culture/台灣客家) — sáu đống "đống phải" (Ma Nghĩa, Lục Nguyên, Suối Tre) ở Kaohsiung là khu dân cư Hoa Kiểu truyền thống
 - [Thiên tai 88](/history/88風災) — vụ sạt lở đất xảy ra tại xã Ma Lai năm 2009 bão Mo Ka Chua, sạt lở đất các khu vực núi đất Phan Thiên, Tường Ngu, Ma Lai
 
-## Nguồn ảnh
+## Nguồn hình ảnh
 
-Bài viết sử dụng 6 bức ảnh có giấy phép CC của Wikimedia Commons.
+Bài viết sử dụng 6 hình ảnh Wikimedia Commons theo giấy phép CC, hình ảnh hero được lưu trữ tại `public/article-images/geography/` để tránh liên kết trực tiếp tới máy chủ nguồn.
 
-Hero (frontmatter): [Night skyline of Kaohsiung, Taiwan 2014](https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg), cảnh tổng thất Kaohsiung, nhìn từ hướng nhà thờ lên cao nhất nhìn sông Hai và trung tâm thành phố. Nguồn ảnh: peellden, CC BY-SA 3.0.
+Hero (frontmatter): [Night skyline of Kaohsiung, Taiwan 2014](https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg), dòng đường chân trời đêm Kaohsiung, Đài Loan, ngắm từ hướng tòa nhà 85 với sông Cung và khu phố. Photo: hngyue photography, CC BY-SA 2.0.
 
-Cảnh §Cảng ngư dân Gò Cốc: [Port of Kaohsiung first harbor commercial area 2021](https://commons.wikimedia.org/wiki/File:Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg), tổ quan thương mại khu vực đầu tiên của cảng Kaohsiung nhìn từ trên cao. CC BY-SA.
+Scene §Trước chợ: [Port of Kaohsiung first harbor commercial area 2021](https://commons.wikimedia.org/wiki/File:Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg), khu thương mại khu vực cảng đầu tiên của Cảng Kaohsiung. CC BY-SA.
 
-Cảnh §Ga Formosa: [Dome of Light at Formosa Boulevard Station 2024](https://commons.wikimedia.org/wiki/File:Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg), nhà máy ánh sáng tại ga Formosa. CC BY-SA.
+Scene §Đảo đẹp: [Dome of Light at Formosa Boulevard Station 2024](https://commons.wikimedia.org/wiki/File:Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg), ánh sáng tại trạm Formosa Boulevard. CC BY-SA.
 
-Cảnh §38 quận: [Cijin Island, Kaohsiung](<https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg>), phân tầng Phan Thiên nhìn từ đỉnh núi. CC BY-SA.
+Scene §Khu 38: [Cijin Island, Kaohsiung](<https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg>), cát bãi đảo Cijin. CC BY-SA.
 
-Cảnh §Sông Hai: [Kaohsiung Love River](https://commons.wikimedia.org/wiki/File:Kaohsiung-Love-River.jpg), bờ sông du lịch sau khi được sửa chữa. CC BY-SA.
+Scene §Sông Cung: [Kaohsiung Love River](https://commons.wikimedia.org/wiki/File:Kaohsiung-Love-River.jpg), bờ sông Cung sau khi được xử lý. CC BY-SA.
 
-Cảnh §Hỗ trợ quân sĩ: [Wei-Wu-Ying Center for the Arts 01](https://commons.wikimedia.org/wiki/File:Wei-Wu-Ying_Center_for_the_Arts_01.jpg), bên ngoài Trung tâm Nghệ thuật Văn hóa Quốc gia Hỗ trợ quân sĩ. CC BY-SA.
+Scene §Wei-Wu-Ying: [Wei-Wu-Ying Center for the Arts 01](https://commons.wikimedia.org/wiki/File:Wei-Wu-Ying_Center_for_the_Arts_01.jpg), kiến trúc bên ngoài Trung tâm Nghệ thuật Quốc gia Wei-Wu-Ying. CC BY-SA.
 
-Giấy phép: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) và [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Giấy phép: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) và [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Tham khảo
 

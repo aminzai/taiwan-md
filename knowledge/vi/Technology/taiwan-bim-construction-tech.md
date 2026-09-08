@@ -2,9 +2,7 @@
 title: 'BIM và công nghệ xây dựng tại Đài Loan: Mười hai năm chính sách tùy từng dự án của chính phủ bị một giao thức ra đời trong mười tám tháng viết lại'
 description: 'Ngày 23 tháng 5 năm 2014, Ủy ban Công trình Công cộng thuộc Hành chính viện ra mắt “Nền tảng thúc đẩy ứng dụng BIM trong công trình công cộng”, áp dụng phương châm tám chữ “tùy từng dự án, tiến hành từng bước”. Mười một năm bảy tháng sau, một nhà phát triển Đài Loan làm việc tại Tokyo đưa kho mã REVIT_MCP_study lên GitHub, thu hút hơn 70 sao và hơn 80 lượt fork. Trong mười hai năm ấy, ngành kiến trúc Đài Loan đã trải qua hành trình dài từ bản vẽ tay và kỹ thuật in lam sang mô hình 3D, từ thử nghiệm riêng lẻ đến tiêu chuẩn quốc gia, từ nâng cấp công cụ đến tái định nghĩa nghề nghiệp.'
 date: 2026-05-22
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '建築科技'
 tags:
   [
     'Công nghệ',
@@ -20,17 +18,22 @@ tags:
     'CECI Engineering Consultants',
     'Thạc Đào',
   ]
-readingTime: 22
+subcategory: '建築科技'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76'
-sourceContentHash: 'sha256:7923803a611ee1da'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
-translatedAt: '2026-07-18T18:59:51+08:00'
+readingTime: 22
+researchReport: 'reports/research/2026-05/台灣BIM與營建科技.md'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+translatedFrom: 'Technology/台灣BIM與營建科技.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T01:17:20.727116+00:00'
 ---
 
 # BIM và công nghệ xây dựng tại Đài Loan: Mười hai năm chính sách tùy từng dự án của chính phủ bị một giao thức ra đời trong mười tám tháng viết lại
@@ -82,23 +85,21 @@ Ba trục trung ương, Đài Bắc và Tân Bắc được triển khai vào nh
 
 ---
 
-## Tuyến Vạn Đại, ga Miêu Lật và T3 sân bay Đào Viên: BIM xuất hiện trong công trình công cộng
+## Tuyến Vạn Đại, Ga Miêu Lịch, T3 Sân bay Đào Viên: BIM xuất hiện trong công trình công cộng
 
-Năm 2011, **tuyến Vạn Đại của Metro Đài Bắc lần đầu đưa BIM vào hợp đồng thiết kế công trình**[^14].
+Năm 2011, **Metro Đài Bắc Tuyến Vạn Đại lần đầu tiên đưa BIM vào hợp đồng thiết kế công trình**[^14].
 
-Đây là một sự kiện “đầu tiên” thường được viện dẫn trong lịch sử thúc đẩy BIM tại Đài Loan. Các gói thầu của tuyến Vạn Đại sử dụng BIM để thiết kế nhà ga theo yêu cầu hợp đồng, đồng thời tích hợp các chuyên ngành kiến trúc, kết cấu và cơ điện, qua đó phối hợp liên ngành và **giảm xung đột tại giao diện thiết kế**[^14].
+Đây là một sự kiện "first" thường được trích dẫn trong việc thúc đẩy BIM tại Đài Loan. Các gói thầu của Tuyến Vạn Đại tuân theo yêu cầu hợp đồng áp dụng chế độ BIM để thiết kế thân ga Metro, đồng thời dẫn nhập các chuyên môn kiến trúc, kết cấu và cơ điện, tích hợp đa chuyên ngành, **giảm thiểu xung đột giao diện thiết kế**[^14].
 
-Theo bước tuyến Vạn Đại, các công trình công cộng lần lượt tham gia: ga trên cao Y19 của tuyến Vành đai Metro Đài Bắc, nhiều trung tâm thể thao tại Tân Bắc, ga Miêu Lật mới của Đường sắt cao tốc Đài Loan, nhà ga số 3 sân bay Đào Viên và tuyến đường sắt nhẹ vòng tròn Cao Hùng. Mỗi dự án đều có một nghiên cứu tình huống được đăng trong các báo cáo của ABRI, NTUBIM thuộc Đại học Quốc lập Đài Loan hoặc các ấn phẩm nội bộ của cơ quan metro.
+Theo chân Tuyến Vạn Đại, các công trình công cộng lần lượt triển khai. Ga trên cao Tuyến vòng Metro Đài Bắc Y19, nhiều trung tâm thể thao tại Tân Bắc, [Cao tốc sắt Đài Loan](/vi/lifestyle/taiwan-high-speed-rail/) Ga Miêu Lịch mới, [Sân bay Đào Viên](/lifestyle/桃園機場/) T3, Cao Hùng Tuyến vòng nhẹ: mỗi dự án đều có một case study viết trong tạp chí nội bộ của ABRI, NTUBIM Đại học Quốc lập Đài Loan hoặc Cục Metro.
 
-“**Chiến thắng bằng con số**” được trích dẫn nhiều nhất là ga Miêu Lật của Đường sắt cao tốc Đài Loan: BIM được đưa vào ba tháng trước khi khởi công, đội ngũ giám sát phát hiện nhiều điểm xung đột qua mô hình 3D, **tiết kiệm 20% chi phí thay đổi thiết kế về sau và cho phép công tác trắc đạc, định vị tại công trường khởi động sớm hơn kế hoạch hai tháng**[^15].
+Chiến thắng "số liệu" được trích dẫn nhiều nhất là Ga Miêu Lịch Cao tốc sắt Đài Loan: ba tháng trước khai công dẫn nhập BIM, đội giám sát thi công từ mô hình 3D phát hiện nhiều điểm xung đột, **tiết kiệm 20% chi phí thay đổi thiết kế sau đó, công trường định vị sớm hai tháng so với dự kiến**[^15].
 
-Nhà ga số 3 sân bay Đào Viên là một trường hợp ở quy mô khác. Tháng 3 năm 2021, **liên danh Samsung C&T và RSEA Engineering trúng gói thầu xây dựng phần kiến trúc–kết cấu của nhà ga T3 với giá 44,5 tỷ TWD**[^16]. Toàn bộ T3 do CECI Engineering Consultants, Inc., Taiwan chủ trì thiết kế, phối hợp với Rogers Stirk Harbour + Partners và Ove Arup and Partners Hong Kong. Hoạt động cộng tác xuyên quốc gia buộc phải dựa vào sự lưu chuyển của mô hình BIM giữa các văn phòng — một trường hợp tiêu biểu thường xuyên xuất hiện trong tài liệu đào tạo nội bộ của CECI Engineering Consultants[^17].
+T3 Sân bay Đào Viên là một ví dụ khác ở quy mô khác. Tháng 3 năm 2021, **liên danh Samsung C&T và RSEA Engineering trúng thầu công trình xây dựng thân chính T3 với giá 445 tỷ NTD**[^16]. Toàn bộ T3 do Evergreen Consulting Engineering, Inc. (EGC) Đài Loan lãnh đạo thiết kế (cùng với Rogers Stirk Harbour + Partners và Ove Arup and Partners Hong Kong), hợp tác xuyên quốc gia phải nhờ mô hình BIM lưu chuyển giữa các công ty tư vấn: đây là dự án tiêu biểu được Evergreen Consulting Engineering, Inc. lặp lại sử dụng trong tài liệu đào tạo nội bộ[^17].
 
-> **✦** Khoảnh khắc tuyến Vạn Đại lần đầu đưa BIM vào hợp đồng năm 2011 là một đường phân thủy lặng lẽ trong lịch sử công trình công cộng Đài Loan. Từ ngày ấy, không còn dự án metro, sân bay, đường sắt cao tốc hay đường sắt nhẹ quy mô lớn nào ở Đài Loan không đặt câu hỏi: “BIM sẽ được thực hiện như thế nào?”
+> **✦** Khoảnh khắc năm 2011 Tuyến Vạn Đại đầu tiên đưa BIM vào hợp đồng, là một bước ngoặt yên lặng trong lịch sử công trình công cộng Đài Loan. Từ ngày đó, Metro, sân bay, cao tốc sắt, nhẹ của Đài Loan, không còn một công trình công cộng trọng đại nào không hỏi "BIM làm thế nào".
 
-Nhưng tất cả đều là “dự án tiêu biểu”. Mọi dự án tiêu biểu ở Đài Loan đều có chung một nhược điểm: **chúng chỉ là thiểu số**.
-
----
+Nhưng những thứ này đều là "dự án tiêu biểu". Tất cả dự án tiêu biểu tại Đài Loan chỉ có một khuyết điểm chung: **chúng chỉ là số ít**.
 
 ## Năm công ty tư vấn kỹ thuật lớn và hai tổ chức chủ chốt: Những con người phía sau
 
