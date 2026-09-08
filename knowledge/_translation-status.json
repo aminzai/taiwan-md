@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T06:34:06+08:00",
-    "zhCommitHead": "a9274e98b",
+    "lastUpdated": "2026-09-09T06:40:38+08:00",
+    "zhCommitHead": "81e496373",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,16 +36,16 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 798,
+        "fresh": 799,
         "stale": 78,
         "metadata_stale": 20,
-        "missing": 225,
+        "missing": 224,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 786,
-        "stale": 83,
+        "fresh": 787,
+        "stale": 82,
         "metadata_stale": 23,
         "missing": 229,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 636,
-        "stale": 42,
+        "fresh": 637,
+        "stale": 41,
         "metadata_stale": 11,
         "missing": 432,
         "orphan": 0
@@ -12407,7 +12407,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -19259,18 +19270,16 @@
         "hi": {
           "path": "hi/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:ea05ddc3465f02eb",
-          "sourceBodyHash": "sha256:c1a908bbd971d40d",
-          "translatedAt": "2026-07-30T03:55:58+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
+          "sourceBodyHash": "sha256:50acff1d4627c3c4",
+          "translatedAt": "2026-09-08T22:35:19.742251+00:00",
           "translationLastCommit": "08cdd112",
           "translationLastModified": "2026-07-30T08:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/artificial-intelligence-development-strategy.md",
@@ -39032,18 +39041,16 @@
         "es": {
           "path": "es/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "88b3abd8",
-          "sourceContentHash": "sha256:7453fc91529be112",
-          "sourceBodyHash": "sha256:0280d05fe808358b",
-          "translatedAt": "2026-05-01T20:54:23+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:cfeed87bcc86a207",
+          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
+          "translatedAt": "2026-09-08T15:54:39+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+170 -91"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/mascot-culture-in-taiwan.md",
@@ -132611,8 +132618,8 @@
           "sourceContentHash": "sha256:e1b425fa54b86b70",
           "sourceBodyHash": "sha256:74aa4f956a297b47",
           "translatedAt": "2026-09-08T15:54:48+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "81e49637",
+          "translationLastModified": "2026-09-09T06:34:06+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -135155,8 +135162,8 @@
           "sourceContentHash": "sha256:189f50627b664502",
           "sourceBodyHash": "sha256:7144cde6e4cd475f",
           "translatedAt": "2026-09-08T19:48:43.181835+00:00",
-          "translationLastCommit": "f2ca2b0f",
-          "translationLastModified": "2026-07-30T06:52:21+08:00",
+          "translationLastCommit": "81e49637",
+          "translationLastModified": "2026-09-09T06:34:06+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",

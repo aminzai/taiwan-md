@@ -2,9 +2,7 @@
 title: '자이현: 49만 명이 아리산에 얼굴을 빌려주고, 현청이 타이바오에 있다는 사실도 아무도 기억하지 않는다'
 description: '새벽 다섯 시, 둥스 앞바다의 굴 양식장은 아직 물속에 있고, 전국 굴의 절반이 이 바다에서 나온다. 100킬로미터 떨어진 아리산에서는 1912년 얼완핑까지 개통한 삼림철도의 총연장이 66.6킬로미터다. 그 중간, 타이바오 고속철도역 옆의 고궁 남원은 15년을 지은 뒤에야 개관했고, 2018년 방문객은 76만 명이었다. 1991년 자이현청이 자이시에서 타이바오로 이전했을 때, 전국은 자이라고 하면 곧 자이시라고 여겼다. 35년이 지난 지금, 이 현의 49만 명은 잘려 나간 27만 명의 시를 둘러싸고 있으며, 노령화지수 174%로 대만 1위다.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     '자이현',
@@ -19,19 +17,20 @@ tags:
     '현시 분치',
     '22현시 시리즈',
   ]
-readingTime: 18
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/嘉義縣.md'
+series: '22 縣市系列（batch 2）'
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Geography/嘉義縣.md'
-sourceCommitSha: '6f28d616'
-sourceContentHash: 'sha256:e233ab9cc8b79527'
-sourceBodyHash: 'sha256:8e7d5975a9ac8375'
-translatedAt: '2026-06-13T00:00:00Z'
-image: https://upload.wikimedia.org/wikipedia/commons/2/29/Tashan_in_morning_glow.jpg
-imageCredit: Peellden
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Tashan_in_morning_glow.jpg
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:8a5f68953035c21c'
+sourceBodyHash: 'sha256:a01c05f219edf7a3'
+translatedAt: '2026-09-08T20:47:07.033433+00:00'
 ---
 
 # 자이현: 49만 명이 아리산에 얼굴을 빌려주고, 현청이 타이바오에 있다는 사실도 아무도 기억하지 않는다
@@ -244,7 +243,7 @@ _부다이 소금산, 2013-08-27. Photo: Pbdragonwang, [CC BY-SA 3.0 via Wikimed
 
 [^4]: [옌쓰치의 1621년 벙강 상륙 — 자이현 신강향공소](https://www.singang.gov.tw/) — 옌쓰치가 사람들을 이끌고 벙강, 곧 오늘날 자이현 신강향과 윈린현 베이강 사이에서 상륙해 “십채”를 세우고 개간했으며, 자이 지역에서 가장 이른 한족의 조직적 개척이었다는 공식 역사 기록.
 
-[^5]: 롄야탕 《대만통사》 권33 〈린솽원열전〉 — 주뤄 수성의 곤궁함을 보여 주는 “먹을 것을 얻을 수 없어 나무뿌리를 캐고 콩깻묵을 삶아 굶주림을 채웠으나, 지키려는 뜻은 더욱 굳어졌다”는 원문. [린솽원 전투 — 故事 StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion)에서 인용.
+[^5]: [린솽원 전투 — 故事 StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion) — 롄야탕 《대만통사》 권33 〈린솽원열전〉 — 주뤄 수성의 곤궁함을 보여 주는 “먹을 것을 얻을 수 없어 나무뿌리를 캐고 콩깻묵을 삶아 굶주림을 채웠으나, 지키려는 뜻은 더욱 굳어졌다”는 원문에서 인용.
 
 [^6]: [주뤄의 자이 개명 조서 연혁 — 자이시정부 공식 웹사이트](https://www.chiayi.gov.tw/News_Content.aspx?n=512&s=216171) — 건륭 52년(1787) 11월 초3일 조서를 내려 “성을 죽음으로 지킨 충의를 가상히 여긴다”는 뜻으로 “주뤄”를 “자이”로 바꾼 공식판 조서 인용(자이현이 이 명명 역사를 계승함).
 
