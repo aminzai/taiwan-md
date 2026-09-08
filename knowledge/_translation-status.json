@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T03:19:00+08:00",
-    "zhCommitHead": "42bab5ede",
+    "lastUpdated": "2026-09-09T03:37:57+08:00",
+    "zhCommitHead": "127cde75f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,17 +60,17 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 647,
-        "stale": 90,
+        "fresh": 648,
+        "stale": 89,
         "metadata_stale": 80,
         "missing": 304,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 555,
+        "fresh": 556,
         "stale": 49,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 504,
         "orphan": 0
       },
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 635,
+        "fresh": 636,
         "stale": 42,
         "metadata_stale": 11,
-        "missing": 433,
+        "missing": 432,
         "orphan": 0
       },
       "ar": {
@@ -30756,8 +30756,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "127cde75",
+          "translationLastModified": "2026-09-09T03:19:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -93487,8 +93487,8 @@
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "127cde75",
+          "translationLastModified": "2026-09-09T03:19:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -131498,18 +131498,16 @@
         "vi": {
           "path": "vi/Geography/miaoli-county.md",
           "translatedFrom": "Geography/苗栗縣.md",
-          "sourceCommitSha": "b457dbbb1",
-          "sourceContentHash": "sha256:0d7e5732a8513df0",
-          "sourceBodyHash": "sha256:f743a82d302f341a",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:0de597da286e629e",
+          "sourceBodyHash": "sha256:9523731d73687bb2",
+          "translatedAt": "2026-09-08T19:19:46.566676+00:00",
           "translationLastCommit": "4e9dd74e",
           "translationLastModified": "2026-08-09T11:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/miaoli-county.md",
@@ -135588,8 +135586,8 @@
           "sourceContentHash": "sha256:5de62c87bd2f7bf1",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
           "translatedAt": "2026-09-08T19:18:35.914112+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "127cde75",
+          "translationLastModified": "2026-09-09T03:19:00+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -137625,18 +137623,16 @@
         "id": {
           "path": "id/Geography/taipei-city.md",
           "translatedFrom": "Geography/台北市.md",
-          "sourceCommitSha": "1fbb3adf1",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
-          "translatedAt": "2026-08-02T13:22:32+08:00",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
           "translationLastCommit": "b91f2e33",
           "translationLastModified": "2026-08-02T16:52:56+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/taipei-city.md",
@@ -137653,7 +137649,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taipei-city.md",
+          "translatedFrom": "Geography/台北市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:6b1de66c12b3c38a",
+          "sourceBodyHash": "sha256:c557c6ff09961dc3",
+          "translatedAt": "2026-09-08T15:54:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
