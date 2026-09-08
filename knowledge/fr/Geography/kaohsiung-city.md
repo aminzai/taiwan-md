@@ -2,9 +2,7 @@
 title: 'Ville de Kaohsiung : en 1979, l’année de son élévation au rang de municipalité spéciale, huit habitants de Kaohsiung étaient enfermés dans une prison de Taipei'
 description: 'Le 1er juillet 1979, Kaohsiung devint la deuxième municipalité spéciale de Taïwan ; le 10 décembre, Journée mondiale des droits de l’homme, le meeting de la revue Formosa au rond-point de Dagangpu se transforma en affrontement sous les gaz lacrymogènes. Huit personnes furent condamnées ; le 28 février 1980, un massacre eut lieu au domicile de Lin Yi-hsiung, rue Xinyi à Taipei. Cette même année 1979, Kaohsiung reçut une gloire administrative et avala aussi la répression politique la plus lourde du Taïwan d’après-guerre. Ses 2,71 millions d’habitants sont dispersés dans 38 districts ; le cordon sableux de Cijin, les villages bunun de Namaxia, les cheminées de China Steel et le toit d’aluminium de Weiwuying cohabitent dans une même ville, qui a passé 45 ans à recoudre ses blessures jusqu’à leur donner sa propre forme.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Kaohsiung',
@@ -23,19 +21,23 @@ tags:
     'Catastrophe du 8 août',
     'Série des 22 villes et comtés',
   ]
-readingTime: 18
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/高雄市.md'
+series: '22 縣市系列（batch 4）'
+image: '/article-images/geography/kaohsiung-night-skyline-2014.webp'
+imageCredit: 'hngyue photography / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg'
 translatedFrom: 'Geography/高雄市.md'
-sourceCommitSha: 'a5490c04'
-sourceContentHash: 'sha256:244cad849cf26403'
-sourceBodyHash: 'sha256:fd14be167daa0221'
-translatedAt: '2026-06-16T17:05:54Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg
-imageCredit: peellden
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:5de62c87bd2f7bf1'
+sourceBodyHash: 'sha256:d9c17350b5714f5f'
+translatedAt: '2026-09-08T19:18:35.914112+00:00'
 ---
 
 # Ville de Kaohsiung : en 1979, l’année de son élévation au rang de municipalité spéciale, huit habitants de Kaohsiung étaient enfermés dans une prison de Taipei
@@ -166,42 +168,42 @@ Du rond-point de Dagangpu à la station Formosa Boulevard, ce renversement prit 
 
 > **📝 Note du curateur :** Transformer le lieu du conflit d’alors en station artistique est la réponse des habitants de Kaohsiung à 1979. C’est une forme de mémoire par réécriture. Le parc du 28-Février à Taipei et le parc des droits de l’homme de Jingmei se souviennent par la commémoration : monuments, statues, expositions disent aux visiteurs que « quelque chose s’est passé ici ». La station Formosa Boulevard de Kaohsiung fait autre chose : elle est quotidienne. Plus de trente mille personnes montent et descendent chaque jour dans cette station. Qu’elles lèvent ou non les yeux vers le Dôme de Lumière importe peu ; l’important est que ce nom ait été enchâssé dans l’ossature du réseau de métro de la ville. **Pour savoir comment une ville traite ses blessures historiques, il faut regarder si elle a transformé ce lieu en endroit par lequel tout le monde passe chaque jour**.
 
-## 38 districts : du cordon sableux de Cijin aux Bunun de Namaxia
+## 38 districts : de la presqu'île de Qixing à la tribu Punu
 
-Le 25 décembre 2010, nouvelle promotion.
+Le 25 décembre 2010, une nouvelle élévation a eu lieu.
 
-« Le 25 décembre 2010, la ville de Kaohsiung, dont la superficie originelle était de 153 kilomètres carrés, incorpora le comté de Kaohsiung ; sa superficie bondit à 2 951 kilomètres carrés, et les 1,52 million d’habitants de l’ancienne ville de Kaohsiung furent additionnés à ceux du comté, portant la population totale à 2 774 470 habitants »[^16].
+« Le 25 décembre 2010, la superficie initiale de Kaohsiung (153 km²) fut absorbée par le comté de Kaohsiung, portant la superficie totale à 2 951 km² et la population de 1,52 million d'habitants du centre urbain à un total de 2,774 million d'habitants »[^16].
 
-« Les 11 districts de l’ancienne ville de Kaohsiung et les 27 cantons, bourgs et villes de l’ancien comté de Kaohsiung fusionnèrent pour former 38 districts, dont 3 districts aborigènes de montagne de municipalité spéciale »[^17].
+« Les 11 districts initiaux de Kaohsiung et les 27 townships et villes du comté de Kaohsiung ont été fusionnés pour former 38 districts (y compris 3 zones autochtones montagneuses) »[^17].
 
-À partir de ce jour, la « ville de Kaohsiung » devint une ville qui s’étend **du cordon sableux de Cijin jusqu’au pied du mont Yushan**. Les 11 districts de l’ancienne ville forment le noyau urbain : Yancheng, Gushan, Lingya, Xinxing, Qianjin, Qianzhen, Sanmin, Nanzi, Zuoying, Cijin et Xiaogang. Les 27 anciens cantons, bourgs et villes du comté se dispersent en périphérie : Fengshan, Daliao, Niaosong, Renwu, Dashe, Gangshan, Luzhu, Hunei, Yong’an, Qieding ; plus au nord, Qiaotou, Yanchao, Dashu, Dashe, Tianliao, Alian, Mituo, Ziguan ; plus à l’est, Meinong, Qishan, Neimen, Shanlin, Liugui, Jiaxian ; et dans les zones les plus profondes, les trois districts aborigènes de montagne que sont Maolin, Taoyuan et Namaxia.
+À partir de ce jour, « la ville de Kaohsiung » est une municipalité s'étendant **de la presqu'île de Qixing jusqu'au pied du mont Yushan**. Les 11 districts initiaux de Kaohsiung constituent le cœur urbain : Yancheng, Gusan, Lingya, Xinxing, Qianjin, Qianzhen, Sanmin, Nanzi, Zuoying, Qixing et Xiaogang. Les 27 townships et villes du comté de Kaohsiung sont dispersés en périphérie : Fengshan, Daliao, Tiosung, Renwu, Dasha, Gangnan, Luzhu, Hunei, Yong'an, Qiechuan, au nord Qiaotou, Yanshao, Dashi, Dalian, A-lian, Miduo, Zigan, à l'est Meinong, Qishan, Neimen, Shalin, Liuqi, Jiaxian, et dans les zones montagneuses les plus reculées, Maolin, Taoyuan et Namaxia.
 
-Chaque district a une histoire différente. Le district de Cijin compte 28 000 habitants ; c’est un cordon sableux de 11,3 kilomètres de long, dont le principal accès est le ferry. Le district de Maolin compte 1 867 habitants ; c’est le district le moins peuplé de Kaohsiung, habité principalement par les Rukai, avec une altitude qui grimpe de 200 à plus de 1 000 mètres. Le district de Fengshan compte 355 183 habitants ; c’est le plus peuplé de Kaohsiung. Ancien siège du gouvernement du comté de Kaohsiung, il devint après la fusion de 2010 le deuxième district le plus peuplé du pays[^18]. Les populations de ces trois districts diffèrent d’un facteur 190, mais administrativement ils s’appellent tous « district de telle ou telle partie de Kaohsiung ».
+L'histoire de chaque district est différente. Le district de Qixing, avec 28 000 habitants, est une presqu'île de 11,3 km où le ferry est le principal moyen de transport pour y accéder. Le district de Maolin, avec 1 867 habitants, est le moins peuplé de Kaohsiung ; ses résidents principaux sont les autochtones Rukai, et son altitude varie de 200 mètres à plus de 1 000 mètres. Le district de Fengshan, avec 355 183 habitants, est le plus peuplé de Kaohsiung. Il était autrefois la préfecture du comté de Kaohsiung et est devenu le deuxième plus grand district en termes de population nationale après la fusion de 2010[^18]. Bien que ces trois districts présentent une différence démographique de 190 fois, ils sont tous appelés « un certain district de Kaohsiung ».
 
-![Île de Cijin vue depuis le mont Qihou. Cordon sableux de 11,3 kilomètres, 28 000 habitants, sans pont vers l’île principale, le tunnel portuaire étant destiné aux voitures ; le ferry de Gushan est le principal moyen de transport.](/article-images/geography/kaohsiung-03.webp)
-_Vue aérienne du district de Cijin. Photo: Wikimedia Commons contributor, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg).\_
+![Vue de l'île de Qixing depuis le mont Qihou. Presqu'île de 11,3 km avec 28 000 habitants, sans pont reliant la masse continentale (le tunnel du port est pour les véhicules), et le ferry de Gusan est le principal moyen de transport.](/article-images/geography/kaohsiung-03.webp)
+_Vue du district de Qixing. Photo : contributeur Wikimedia Commons, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg).\_
 
-### Les trois districts de montagne : Rukai, Bunun, Kanakanavu, Hla’alua
+### Les trois zones montagneuses : Rukai, Punu, Kanakanavu et La’alua
 
-**Le district de Maolin** se situe dans les montagnes du sud-est de Kaohsiung. Ses habitants principaux appartiennent au groupe rukai des trois communautés inférieures, réparties entre les villages de Maolin, Duona et Wanshan. Les parlers rukai diffèrent d’un village à l’autre ; l’ensemble de maisons en ardoise de Duona est le plus complet[^19].
+Le **district de Maolin** est situé dans la région montagneuse sud-est de Kaohsiung, avec comme principaux habitants les sous-communautés du peuple Rukai, divisées en trois tribus : Maolin, Donna et Wanshan. Les dialectes du langage Rukai varient d'une tribu à l'autre, et le groupe de maisons en dalle de la tribu de Donna est le plus complet[^19].
 
-**Le district de Taoyuan** s’étend le long de l’amont de la rivière Laonong. Son groupe principal est bunun, et il constitue aussi un territoire traditionnel hla’alua. Les Hla’alua furent longtemps pris à tort pour une branche tsou méridionale, jusqu’à ce que « le gouvernement de la République de Chine reconnaisse, le 26 juin 2014, les Hla’alua comme 15e peuple autochtone de Taïwan et les Kanakanavu comme 16e peuple »[^20]. Les Hla’alua sont aujourd’hui environ 400, principalement répartis entre les villages de Gaozhong et Taoyuan dans le district de Taoyuan.
+Le **district de Taoyuan** s'étend le long du bassin supérieur du ruisseau Laonong, et les groupes ethniques principaux y sont les Punu, ainsi que le territoire traditionnel des La’alua. Les La’alua ont longtemps été considérés à tort comme une sous-branche du peuple Zou, jusqu'à ce que « le gouvernement de la République de Chine reconnaisse le peuple La’alua comme la 15e nation autochtone de Taïwan et le peuple Kanakanavu comme la 16e »[^20]. Aujourd'hui, il y a environ 400 La’alua, principalement répartis dans les quartiers de Gaodongli et Taoyuanli du district de Taoyuan.
 
-**Le district de Namaxia** s’étend le long des deux rives de la rivière Nanzixian ; Bunun et Kanakanavu y cohabitent. Les Kanakanavu sont aujourd’hui environ 350, principalement installés dans les villages de Dakanua et Maya du district de Namaxia. Le nom « Namaxia » vient d’une légende : « Il y a plusieurs centaines d’années, un jeune homme nommé Namaxia découvrit qu’une énorme anguille-léopard bloquait le cours d’eau et menaçait le village ; les habitants donnèrent le nom de Namaxia à la rivière Nanzixian pour l’honorer »[^21]. En 2008, le canton de Sanmin fut rebaptisé Namaxia ; en 2010, il fut de nouveau élevé au rang de district de Namaxia.
+Le **district de Namaxia** est situé sur les deux rives du ruisseau Nanzi Xianxi, où cohabitent les Punu et le peuple Kanakanavu. Aujourd'hui, il y a environ 350 Kanakanavu, principalement résidant à Dakanuwali et Mayali dans le district de Namaxia. Le nom « Namaxia » provient d'une légende : « il y a des centaines d'années, un jeune homme nommé 'Namaxia' aurait découvert une énorme anguille bloquant le ruisseau, menaçant la tribu, et les membres du clan ont nommé le Nanzi Xianxi en son honneur »[^21]. En 2008, le township de Sanmin a été renommé Namaxia, avant d'être élevé au rang de district en 2010.
 
-Les noms « Hla’alua » et « Kanakanavu » ne revinrent comme catégories officielles qu’au 26 juin 2014. Avant cela, leurs ancêtres avaient été enregistrés pendant plus d’un siècle comme branches des « Tsou », que les chercheurs appelaient « Tsou du Sud ». **Avant la rectification des noms, d’autres parlaient pour eux ; après la rectification, ils parlent pour eux-mêmes**.
+Les noms « La’alua » et « Kanakanavu » n'ont été officiellement reconnus comme des ethnies distinctes que le 26 juin 2014. Avant cela, leurs ancêtres avaient été considérés comme une sous-branche du peuple Zou pendant plus d'un siècle, ce que la communauté académique appelait « Sud-Zou ». **Ils ont été représentés par d'autres avant leur rectification de nom, et ils parlent pour eux-mêmes après.**
 
-### Meinong : le « camp de droite » des Liudui
+### Meinong : le côté droit des Six Tuai
 
-En descendant de Namaxia le long de la rivière Nanzixian, on arrive à Meinong. Le district de Meinong est le seul village hakka typique de Kaohsiung. Administrativement, il relève de la ville de Kaohsiung ; culturellement, il appartient au « **Liudui** », les Six Camps, et plus précisément au « **camp de droite** ».
+En descendant du district de Namaxia le long du ruisseau Nanzi Xianxi, on rencontre Meinong. Le district de Meinong est la seule _zhuan_ (village) Hakka typique de Kaohsiung ; administrativement il fait partie de Kaohsiung, mais culturellement il appartient au « **côté droit** » des « **Six Tuai** ».
 
-Liudui est le nom collectif donné aux villages de milices hakka loyales du sud de Taïwan, divisés en camp d’avant-garde, camp avant, camp central, camp arrière, camp gauche et camp droit. Le « camp droit » couvre tout ou la majeure partie de Meinong, Liugui et Shanlin, une petite partie de Jiaxian et certaines zones de Qishan. Lors de l’incident de Zhu Yigui en 1721, les villages hakka du bassin de la rivière Xiadan se regroupèrent pour organiser une milice d’autodéfense ; ils « élurent conjointement Li Zhisan comme grand responsable et se divisèrent en six groupes, les Six Camps, pour défendre leur pays natal »[^22]. Cette organisation devint ensuite une identité culturelle des villages hakka.
+Les Six Tuai sont une appellation collective pour les colonies d'immigrants Hakka du sud de Taïwan, divisées en Xianfengtuai, Qianftuai, Zhongftuai, Houftuai, Zuotuai et Youftuai. Le « côté droit » couvre l'intégralité ou la majeure partie des districts de Meinong, Liuqi, Shalin, une partie du district de Jiaxian et certaines zones du district de Qishan. Lors de l'incident de Zhu Yigui en 1721, les _zhuan_ du bassin du ruisseau Xiadams ont formé une milice de défense pour « promouvoir Li Zhisan au rang de grand général et se diviser en six groupes (Six Tuai) pour défendre leur patrie »[^22]. Cette structure est devenue l'identité culturelle des _zhuan_ Hakka.
 
-Mais cette histoire ne se limite pas à la milice de 1721. Meinong porte aussi une histoire plus récente.
+Mais cette histoire ne date pas seulement de la milice de 1721. Meinong a une autre histoire plus récente.
 
-« À la fin de 1992, la première “audience publique sur la construction du barrage de Meinong”, organisée par le bureau du canton de Meinong et des associations locales, déclencha un mouvement appelé “petite ville contre État” : le mouvement de Meinong contre le barrage »[^23]. Le gouvernement prévoyait de construire un barrage sur l’amont de la rivière Meinong pour fournir de l’eau à la région de Kaohsiung, mais le site se trouvait sur une faille et aurait détruit l’écosystème de forêt tropicale de la vallée des papillons jaunes, tout en frappant la culture hakka traditionnelle de Meinong.
+« Fin 1992, la première 'conférence publique pour la construction du réservoir de Meinong', convoquée par le bureau municipal de Meinong et des sociétés locales, a déclenché ce que l'on appelle le 'mouvement anti-réservoir de la petite ville' »[^23]. Le gouvernement prévoyait de construire un barrage en amont du ruisseau Meinong pour approvisionner Kaohsiung, mais le site était situé sur une faille et risquait de détruire l'écosystème forestier tropical de Huangdie Cui Gu, portant atteinte à la culture Hakka traditionnelle de Meinong.
 
-Le mouvement dura huit ans. « Le 18 mars 2000, Chen Shui-bian fut élu président, puis annonça que le barrage de Meinong ne serait pas construit pendant son mandat »[^23]. L’Association pour l’amour du pays de Meinong devint un modèle de développement durable communautaire hakka à Taïwan et entraîna le retour au pays d’une génération entière de jeunes Hakka. Les ombrelles de papier de Meinong, les bantiao, les plats hakka et les séchoirs à tabac au pied du mont Yueguang sont aujourd’hui le résultat d’un choix fait par cette localité elle-même, non d’une décision prise à sa place.
+Le mouvement a duré huit ans. « Le 18 mars 2000, Chen Shui-bian a été élu président et a annoncé qu'il ne construirait pas le réservoir de Meinong pendant son mandat »[^23]. L'Association pour la prospérité du pays natal de Meinong est devenue un modèle de développement durable des communautés Hakka à Taïwan, stimulant également le mouvement de retour des jeunes Hakka. Les parapluies en papier de Meinong, les planches, la cuisine Hakka et les usines de thé sous la lune d'aujourd'hui sont le résultat du choix de cette communauté, et non une décision prise pour quelqu'un d'autre.
 
 ## Le mois d’août où Namaxia et Taoyuan furent ensevelis
 
@@ -307,21 +309,21 @@ Kaohsiung n’est pas le bas du corps de Taïwan. Kaohsiung est la ville où l�
 
 ## Sources des images
 
-Cet article utilise 6 images sous licence CC de Wikimedia Commons.
+Cet article utilise 6 images sous licence CC de Wikimedia Commons, dont l'image principale est mise en cache dans `public/article-images/geography/` pour éviter les liens cassés vers le serveur source.
 
-Hero, frontmatter : [Night skyline of Kaohsiung, Taiwan 2014](https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg), vue nocturne de Kaohsiung, surplombant la rivière de l’Amour et le centre-ville depuis la direction de la tour 85. Photo: peellden, CC BY-SA 3.0.
+Image principale (frontmatter) : [Night skyline of Kaohsiung, Taiwan 2014](https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg), vue nocturne de Kaohsiung depuis le bâtiment n°85, montrant la rivière et la ville. Photo : hngyue photography, CC BY-SA 2.0.
 
-Scène § port de pêche de Qianzhen : [Port of Kaohsiung first harbor commercial area 2021](https://commons.wikimedia.org/wiki/File:Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg), vue aérienne du quartier commercial du premier bassin du port de Kaohsiung. CC BY-SA.
+Scène §Port de pêche de Qianzhen : [Port of Kaohsiung first harbor commercial area 2021](https://commons.wikimedia.org/wiki/File:Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg), vue du premier secteur portuaire commercial de Kaohsiung. CC BY-SA.
 
-Scène § station Formosa Boulevard : [Dome of Light at Formosa Boulevard Station 2024](https://commons.wikimedia.org/wiki/File:Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg), Dôme de Lumière de la station Formosa Boulevard. CC BY-SA.
+Scène §Station Lido : [Dome of Light at Formosa Boulevard Station 2024](https://commons.wikimedia.org/wiki/File:Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg), le dôme de lumière de la station Formosa Boulevard. CC BY-SA.
 
-Scène § 38 districts : [Cijin Island, Kaohsiung](<https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg>), vue aérienne du cordon sableux de Cijin. CC BY-SA.
+Scène §District 38 : [Cijin Island, Kaohsiung](<https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg>), vue de l'île de Cijin. CC BY-SA.
 
-Scène § rivière de l’Amour : [Kaohsiung Love River](https://commons.wikimedia.org/wiki/File:Kaohsiung-Love-River.jpg), rive touristique de la rivière de l’Amour après assainissement. CC BY-SA.
+Scène §Rivière d'Amour : [Kaohsiung Love River](https://commons.wikimedia.org/wiki/File:Kaohsiung-Love-River.jpg), la berge touristique après réhabilitation de la rivière d'Amour. CC BY-SA.
 
-Scène § Weiwuying : [Wei-Wu-Ying Center for the Arts 01](https://commons.wikimedia.org/wiki/File:Wei-Wu-Ying_Center_for_the_Arts_01.jpg), extérieur du Centre national des arts de Weiwuying. CC BY-SA.
+Scène §Wei-Wu-Ying : [Wei-Wu-Ying Center for the Arts 01](https://commons.wikimedia.org/wiki/File:Wei-Wu-Ying_Center_for_the_Arts_01.jpg), vue extérieure du Centre national des arts de Wei-Wu-Ying. CC BY-SA.
 
-Licences : [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) et [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Conditions d'utilisation : [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) , [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) et [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Références
 

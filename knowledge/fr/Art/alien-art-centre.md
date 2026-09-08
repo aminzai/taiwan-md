@@ -1,120 +1,129 @@
 ---
-title: 'ALIEN Art Centre (Kinma Guest House)'
-description: 'Une ancienne station militaire de la Guerre froide, témoin de départs et de retrouvailles, réveillée après vingt ans de sommeil par un père et sa fille pour devenir le musée incontournable de Kaohsiung recommandé par Lonely Planet.'
+title: 'ALIEN Art Centre — Du poste de secours militaire à la source de beauté artistique'
+description: 'Un poste de secours militaire construit en 1967, témoin de mouvements de soldats vers Kinmen et Matsu pendant 31 ans, réveillé après 20 ans d’abandon par un père et sa fille, devenu le musée d’art contemporain préféré de Kaohsiung recommandé par *Lonely Planet*.'
 date: 2026-03-22
 category: 'Art'
-tags: ['Art contemporain', 'Musée', 'Kaohsiung', 'Espace culturel']
+tags: ['art contemporain', 'musée', 'Kaohsiung', 'espace culturel']
 subcategory: '策展與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg'
+image: '/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp'
+imageCredit: 'Adece033090 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg'
 translatedFrom: 'Art/金馬賓館當代美術館.md'
-sourceCommitSha: '209084a3c'
-sourceContentHash: 'sha256:29f8c92d6f9ec4f0'
-sourceBodyHash: 'sha256:ab8b8f728e87222a'
-translatedAt: '2026-07-27T03:39:57+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:d009712e64112e84'
+sourceBodyHash: 'sha256:29bdbac4c38d6b83'
+translatedAt: '2026-09-08T15:54:42+08:00'
 ---
 
-# ALIEN Art Centre (Kinma Guest House) — D'une station de départ à un refuge artistique
+# ALIEN Art Centre — Du poste de secours militaire à la source de beauté artistique
 
-> Un édifice militaire construit en 1967 qui, pendant trente et un ans, a vu défiler d'innombrables soldats vers les navires en partance pour Kinmen et Matsu. Après vingt ans de sommeil, il a été réveillé par un père et sa fille — il est aujourd'hui le « musée incontournable de Kaohsiung » recommandé par _Lonely Planet_.
+> Un bâtiment militaire construit en 1967, qui a vu pendant 31 ans des dizaines de soldats partir vers Kinmen et Matsu, réveillé après 20 ans d’abandon par un père et sa fille — aujourd’hui le « musée d’art préféré de Kaohsiung » recommandé par _Lonely Planet_.
 
 ## Un point de départ contre-intuitif
 
-Si vous vous tenez à l'entrée du 111, rue Gushan, dans le district de Sizihwan à Kaohsiung, vous verrez un bâtiment gris entouré par la forêt du mont Shoushan. La lumière traverse une galerie en forme de « 口 » (bouche), tandis que les salles d'exposition présentent une rétrospective d'un maître italien de l'art Op (Op Art). Vous ne devineriez sans doute jamais qu'il y a soixante ans, des soldats de vingt ans se tenaient dans ce couloir, s'apprêtant à embarquer pour le front des îles périphériques. Leurs mères agitaient la main en pleurant à l'entrée, tandis que les navires de type « Zhong » ancrés au quai devaient naviguer trente-six heures avant d'atteindre Kinmen.
+Si vous vous arrêtez à l’entrée n°111 de la rue Gushan à Kaohsiung, vous découvrirez un bâtiment gris enveloppé par la forêt de Shoushan, avec la lumière filtrant à travers une véranda en forme de « i ». À l’intérieur, des œuvres d’artistes italiens de l’art pop sont exposées. Il est improbable que vous deviniez qu’il y a soixante ans, ce même couloir abritait des soldats de vingt ans prêts à embarquer pour les îles du nord, leurs mères pleurant en les accompagnant à la porte, tandis que les navires de guerre portant des caractères chinois oscillaient pendant trente-six heures avant d’atteindre Kinmen.
 
-**C'est le dernier vestige de l'époque de la Guerre froide de la Kinma Guest House (Kinma Bīnguǎn) à Taïwan.** Celle de Keelung a été démolie ; seule celle de Kaohsiung subsiste. Non pas par une volonté délibérée de conservation, mais parce qu'elle a été oubliée assez longtemps pour que le fondateur d'un groupe hôtelier, en passant par là, décide de ne pas la laisser disparaître.
+**C’est l’un des rares bâtiments de type « Boutique d’hébergement pour Kinmen-Matsu » de l’époque de la Guerre froide à Taiwan.** À Keelung, celle-ci a été détruite ; seule celle de Kaohsiung subsiste : non pas parce qu’elle a été spécialement conservée, mais parce qu’elle a été oubliée suffisamment longtemps pour que le fondateur d’un groupe hôtelier décide de ne pas la laisser disparaître.
 
-## Les trois vies d'un édifice
+## Trois vies d’un bâtiment
 
-### Première période : Départs et retrouvailles (1967-1998)
+### Première vie : Adieux et retrouvailles (1967-1998)
 
-L'année suivant la bataille de l'armement de 1958 (Crise du détroit), le gouvernement municipal de Kaohsiung décida de construire une auberge dédiée à l'accueil des officiers et soldats postés sur les lignes de front de Kinmen et Matsu. Cependant, le terrain étant une ancienne zone de pisciculture, il fallut attendre huit ans que les fondations soient stables.
+L’année suivant les tirs de l’« Action de printemps de 1958 », la mairie de Kaohsiung décida de construire un hôtel dédié aux officiers partant vers les lignes de Kinmen-Matsu. Cependant, le terrain devait être comblé, ce qui retarda la fondation de huit ans.
 
-Le 26 septembre 1967, la Kinma Guest House, construite pour 12 millions de nouveaux dollars taïwanais par l'Association des Amis des Militaires, fut officiellement inaugurée. Simultanément, celle de Keelung fut également ouverte. Nord et Sud, ces deux structures servaient le même but : offrir un lieu de repos aux troupes avant l'embarquement pour les « prix Kinma » — une expression que tout militaire de l'époque comprenait par son poids symbolique.
+Le 26 septembre 1967, l’hôtel fut inauguré avec un budget de 12 millions de nouveaux dollars taïwanais par la Société des Amis des Soldats. À la même époque, une autre bâtisse identique ouvrit à Keelung, au nord et au sud, toutes deux ayant pour mission d’offrir un lieu de repos aux soldats chanceux d’obtenir le « prix Kinmen-Matsu » — un concept bien compris par ceux qui ont servi à l’époque.
 
-« Kin » pour Kinmen, « Ma » pour Matsu. Sur la carte de la Guerre froide, elles appartenaient à la même époque que le mur de Berlin ou la ligne du 38e parallèle.
+« Kinmen » signifie Kinmen, « Matsu » signifie Matsu. Sur la carte de la Guerre froide, ces îles appartiennent à la même ère que le mur de Berlin et la ligne des 38 degrés nord.
 
-Les soldats, arrivant de toute l'île à Kaohsiung, attendaient ici que le temps s'éclaircisse pour le départ. En chemin vers le quai, les marchands criaient : « La traversée dure un jour et demi, il n'y aura rien à manger sur le bateau, achetez vite ! ». Les nouvelles recrues s'arrachaient pains, sodas et médicaments contre le mal de mer. Puis, sur l'actuel port de Glory — qui était alors le quai n'° 13 — ils montaient sur les navires d'un pas tremblant.
+Les soldats rassemblés de toute l’île à Kaohsiung attendaient le ciel dégagé pour embarquer. Sur le chemin vers le port, les employés des épiceries criaient : « Le bateau mettra un jour et demi, et il n’y aura rien à manger à bord, alors achetez vite ! » Les nouveaux soldats faisaient la queue pour acheter des pains, des boissons et des médicaments contre le mal de mer. Ensuite, sur le quai actuellement nommé « Quai de l’Honneur », à l’endroit même du quai n°13, ils montaient tremblants à bord des navires de guerre.
 
-Pendant trente et un ans, la Kinma Guest House fut le témoin d'innombrables séparations et retrouvailles. Une séparation pouvait durer un an, deux ans, ou plus. Après l'absence, certains perdaient leurs êtres chers, tandis que d'autres revenaient sains et saufs. Le port de Kaohsiung en était le témoin silencieux.
+Pendant trente et un ans, l’hôtel témoigna de innombrables adieux et retrouvailles. Ces séparations pouvaient durer un an, deux ans, ou plus. Après le départ, certains perdirent leur épouse, d’autres revinrent sains et saufs. Le port de Kaohsiung assista silencieusement à tout cela.
 
-### Deuxième période : L'oubli (1998-2016)
+### Deuxième vie : L’oubli (1998-2016)
 
-En 1998, avec l'apaisement des relations inter-détroit, la Kinma Guest House se retira de sa mission. Le bâtiment fut transféré à la Bureau des Travaux Ferroviaires du Ministère des Transports pour servir de quartier général au projet d'enfouissement des voies ferrées de Kaohsiung. Après le départ du bureau en 2012, cet édifice chargé de cinquante ans de mémoire fut abandonné au pied du mont Shoushan, laissant les mauvaises herbes envahir ses galeries.
+En 1998, avec l’apaisement des relations entre les deux rives, l’hôtel cessa son service. Le bâtiment fut transféré au Bureau des travaux ferroviaires du ministère des Transports et devint le siège de coordination de l’enterrissement du réseau ferroviaire de Kaohsiung. En 2012, après le départ des ingénieurs ferroviaires, ce bâtiment chargé de cinquante ans de mémoire fut abandonné aux pieds de Shoushan, laissant la végétation envahir les allées.
 
-La Kinma Guest House de Keelung fut démolie durant cette période. Si celle de Kaohsiung est encore là, c'est simplement parce que son tour n'était pas encore venu.
+L’hôtel de Keelung fut détruit durant cette période. Celle de Kaohsiung resta debout, simplement parce qu’il n’était pas encore son tour.
 
-### Troprime période : La lumière dans les ruines (2016-2018)
+### Troisième vie : La lumière dans les ruines (2016-2018)
 
-En 2016, le Bureau de l'Urbanisme de Kaohsiung a lancé un appel d'offres public pour revitaliser cet espace désaffecté via des forces privées. Lorsque Shao Yong-tian, président du groupe Yuming, et sa fille Shao Ya-man sont entrés pour la première fois dans le bâtiment, ils n'ont trouvé qu'une « quasi-ruine ». Toutes les installations étaient vétustes et l'édifice semblait totalement oublié.
+En 2016, le bureau de planification urbaine de Kaohsiung lança un appel d’offres pour attirer des investisseurs privés et revitaliser cet espace inoccupé. Shao Yongtian, PDG du groupe Youmeng, et sa fille Shao Yaman pénétrèrent pour la première fois dans l’hôtel, découvrant un bâtiment « presque en ruine ». Toutes les installations étaient délabrées, et le bâtiment entier avait été oublié.
 
-Mais Shao Ya-man fut captivée par le jeu d'ombre et de lumière.
+Cependant, ce que Shao Yaman remarqua immédiatement, c’était la lumière.
 
-« En regardant par les fenêtres du musée, le paysage où la forêt s'entrelace au ciel bleu donne l'impression d'être dans une montagne reculée, loin du tumulte », confiait-elle plus tard lors d'une interview pour le magazine _VERSE_. En raison de sa proximité avec le mont Shoushan, cet édifice militaire possédait l'environnement naturel que la plupart des musées urbains convoitent.
+« Regarder par la fenêtre du musée, où la forêt et le ciel s’entrelacent, donne l’impression d’être perdu au cœur d’une forêt isolée », dira-t-elle plus tard dans une interview pour le magazine VERSE. Un bâtiment militaire, grâce à sa proximité avec Shoushan, possédait pourtant un environnement naturel que la plupart des musées urbains rêvent d’avoir.
 
-Yongtian Art a entrepris la restauration selon le principe de « restaurer la signification historique de l'architecture ». Ils ont fait appel à des artisans expérimentés pour utiliser des techniques traditionnelles afin de retrouver la texture originale du _min-shizi_ (pierre polie) et du _mo-shizi_ (granito). Ils ont même retrouvé des carreaux de porcelaine blanche, pourtant épuisés de la production, pour reconstruire les galeries. Mais la plus grande transformation ne fut pas la rénovation, mais l'ouverture : transformer l'ancienne caserne fermée en forme de « ㄇ » (U) en une galerie ouverte en forme de « 口 » (bouche), permettant au vent et à la lumière de circuler librement, créant un dialogue entre l'espace d'exposition et la forêt de Shoushan.
+L’entreprise artistique Youmeng a entrepris la restauration en respectant l’intégrité historique du bâtiment. Ils engageèrent des artisans traditionnels pour réparer les carreaux de pierre et les moulures de pierre à l’ancienne. Ils retrouvèrent même des briques en porcelaine blanche, depuis longtemps hors d’usage, pour reconstruire les vérandas. Mais le plus grand changement n’était pas de réparer, c’était d’ouvrir : transformer l’enclos fermé en forme de « j » en une véranda ouverte en forme de « U », laissant entrer le vent et la lumière, et permettant aux espaces d’exposition de dialoguer avec la forêt de Shoushan.
 
-Le 28 novembre 2018, la Kinma Guest House a rouvert ses portes sous le nom d'ALIEN Art Centre.
+Le 28 novembre 2018, l’hôtel fut rouvert sous le nom de musée d’art contemporain.
 
 ## Pourquoi « ALIEN » ?
 
-Le nom anglais _ALIEN Art Centre_ pourrait évoquer un musée des extraterrestres, mais l'inspiration vient du film _E.T. l'extra-terrestre_ de Steven Spielberg — précisément cet instant où les doigts se touchent. L'équipe de direction explique : « ALIEN signifie s'ouvrir à l'inconnu ».
+Le nom anglais ALIEN Art Centre évoque immédiatement un musée extraterrestre, mais l’inspiration vient du film _E.T. l’extraterrestre_ de Steven Spielberg — ce moment où les mains se touchent. L’équipe explique : « ALIEN signifie accueillir l’inconnu. »
 
-Ce nom fait écho à l'histoire même de la Kinma Guest House. En 1967, les soldats présents dans ce bâtiment faisaient face à l'inconnu — l'inconnu de l'autre rive du détroit, l'inconnu de la guerre, l'incertitude de leur retour. Cinquante ans plus tard, les visiteurs font face à un autre inconnu : les frontières de la perception ouvertes par l'art contemporain.
+Ce nom correspond parfaitement à l’histoire de l’hôtel. En 1967, les soldats dans ce bâtiment faisaient face à l’inconnu : l’inconnu de la mer de Chine méridionale, l’inconnu de la guerre, l’inconnu de savoir s’ils reviendraient sains et saufs. Cinquante ans plus tard, les visiteurs de ce même bâtiment font face à une autre forme d’inconnu : les frontières de la perception ouvertes par l’art contemporain.
 
-## Un bâtiment, trois niveaux d'exposition
+## Un bâtiment, trois étages de curation
 
-Les trois étages de l'ALIEN Art Centre ont chacun une vocation propre, tel un livre que l'on feuillette de l'avenir vers l'histoire :
+Les trois étages de l’hôtel ont chacun un rôle spécifique, comme un livre qui remonte le temps depuis le futur :
 
-**Le premier étage** est dédié à l'art expérimental et aux formes diverses, répondant aux enjeux contemporains, avec souvent des œuvres d'art numérique et de sculpture.
+**Au rez-de-chaussée**, l’accent est mis sur l’art expérimental et les formes multiples, répondant aux enjeux contemporains, avec souvent des œuvres en nouveaux médias et des sculptures.
 
-**Le deuxième étage** est un espace dédié aux arts appliqués, idéal pour les rétrospectives de la vie d'artistes. Il intègre le restaurant _ALIEN All-Day Lounge_ — déguster un café devant de grandes baies vitrées entourées par la verdure de Shoushan, accompagné d'un _shaobing_ (petit pain) de style Min et de lait de soja à la fleur d'osmanthus (en hommage à la culture du petit-déjeuner de Kinmen), constitue l'une des expériences les plus luxueuses du musée.
+**Au deuxième étage**, l’espace est dédié à l’art appliqué, adapté aux rétrospectives d’artistes, et comprend le restaurant ALIEN All-Day Lounge — prendre un café et déguster des pains de Mîn avec du miel de fleurs de osmanthus devant les fenêtres donnant sur la verdure de Shoushan est l’une des expériences les plus luxueuses du musée.
 
-**Le troisième étage**, offrant la vue la plus vaste sur la forêt et le ciel, expose principalement des œuvres au design marqué et aux jeux de lumière complexes.
+**Au troisième étage**, la vue est la plus étendue, offrant une perspective sur la forêt et le ciel, exposant souvent des œuvres à la forte esthétique et aux variations de lumière complexes.
 
-## L'union père-fille : de la passion à la sérénité
+## Un duo père-fille : Du fol à du zen
 
-Les moteurs derrière l'ALIEN Art Centre sont un duo père-fille singulier. Le père, Shao Yong-tian, fondateur du groupe Yuming, n'a commencé la peinture qu'à soixante ans ; en un peu plus d'un an, une énergie créatrice accumulée pendant cinquante ans a explosé, produisant plus de deux cents œuvres et l'invention de ses propres pinceaux et outils. La fille, Shao Ya-man, occupe le poste de directrice exécutive de Yongtian Art dès la vingtaine, avec l'ambition d'une curation aux standards internationaux.
+Derrière l’hôtel se cache un duo particulier : un père et sa fille. Le père, Shao Yongtian, fondateur du groupe Youmeng, commença à peindre à l’âge de soixante ans, produisant plus de deux cents œuvres en moins d’un an, exprimant cinquante ans d’accumulation créative, et même inventant ses propres pinceaux et supports. Sa fille, Shao Yaman, devenait directrice générale de Youmeng Art à l’âge de vingt-cinq ans, avec pour objectif une exposition internationale.
 
-L'exposition annuelle de 2020, _Folie et Sérénité_ (_Kuang/Chan_), fut leur première exposition conjointe. Traversant l'ALIEN Art Centre et le Jing Ying International Mansion, l'exposition mettait en scène la « Folie » du père — sa philosophie de gestion, sa sagesse de vie, son intensité — face à la « Sérénité » de la fille — l'introspection, le calme, la quête de beauté, créant un dialogue intergénérationnel.
+L’exposition annuelle de 2020, _Folie-Zen_, marqua la première collaboration entre le père et la fille. L’exposition s’étendait de l’hôtel à la galerie internationale Jingying : le « fol » du père — philosophie d’entreprise, sagesse de vie, énergie explosive — se heurtait au « zen » de la fille — introspection, calme, quête de beauté — créant un dialogue intergénérationnel.
 
-Passant du statut d'entrepreneur à celui d'artiste, Shao Yong-tian prouve par l'action le concept central de l'ALIEN Art Centre : l'art n'est pas le privilège d'une minorité, mais une énergie capable d'éclore à chaque étape de la vie.
+Le passage du fondateur à l’artiste, Shao Yongtian démontra par ses actes la philosophie centrale de l’hôtel : l’art n’est pas un privilège des rares, mais une énergie potentiellement présente à chaque stade de la vie.
 
 ## Reconnaissance internationale et défis
 
-Moins de deux ans après son ouverture, l'ALIEN Art Centre a remporté le prix « 100 paysages culturels de Taïwan » du magazine _Shopping Design_ en 2019. En 2020, le plus grand guide de voyage au monde, _Lonely Planet_, l'a désigné comme le « meilleur musée d'art de Kaohsiung ». Pour un musée privé sans soutien public ni de grands conglomérats, c'est une reconnaissance exceptionnelle.
+Moins de deux ans après son ouverture, l’hôtel remporta le prix « Cent paysages taïwanais » de _Shopping Design_ en 2019. En 2020, le plus grand guide de voyage au monde, _Lonely Planet_, l’épingla comme « le musée d’art préféré de Kaohsiung ». Pour un musée privé non subventionné par un grand groupe, c’était une reconnaissance exceptionnelle.
 
-Parmi les expositions majeures figurent : la collaboration avec le commissaire français Jérôme Neutres pour _Aman: Thinking Objects_ (2022-2023), présentant la rétrospective de l'artiste émergent Aman en Asie de l'Est ; la première exposition taïwanaise du maître italien de l'Op Art, _Sensing the Future: Giulio Aviani_ (202rag-2024) ; ainsi que _Sans Voûte, Sans Fin : Shao Yong-tian_, mêlant images générées par IA et musique interactive, co-curatée par Shao Ya-man et Luo He-lin.
+Parmi les expositions notables figurent : _Aman : Réflexions sur l’objet_ (2022-2023), en collaboration avec le conservateur français Jérôme Neutres, rassemblant l’œuvre complète de l’artiste émergent Aman en Asie de l’Est ; l’exposition italiennes d’art pop _Résonance de l’avenir : Giulio Aviani_ (2023-2024), première de son genre à Taiwan ; ainsi que _Infini-Infini : Shao Yongtian_, combinant des images générées par IA et une interaction musicale, co-créée par Shao Yaman et Lo Hulin.
 
-Cependant, les défis sont bien réels. Faire fonctionner un musée privé à Kaohsiung — et non à Taipei — est complexe. Un billet à 250 TWD n'est pas considéré comme bon marché dans le sud, et la base de visiteurs est bien moindre que celle de la capitale. La réponse de Shao Ya-man est de s'ouvrir sur l'extérieur : collaborer activement avec des institutions artistiques à Hong Kong, Shanghai, Amsterdam, Londres et New York, afin d'exporter l'énergie curatoriale de Taïwan à l'international.
+Mais les défis sont réels. Faire fonctionner un musée privé à Kaohsiung — et non à Taipei — avec des billets à 250 NT$ qui ne sont pas bon marché dans le sud, et une base de public beaucoup plus petite que la capitale, n’est pas facile. La réponse de Shao Yaman fut d’aller de l’avant : s’associer activement avec des institutions à Hong Kong, Shanghai, Amsterdam, Londres et New York, exportant ainsi l’énergie de la curation taïwanaise vers le monde.
 
-## Le bâtiment lui-même est une œuvre
+## L’architecture est elle-même une exposition
 
-La particularité de l'ALIEN Art Centre ne réside peut-être pas dans les œuvres accrochées aux murs, mais dans le bâtiment lui-même.
+Ce qui rend l’hôtel si spécial, ce n’est peut-être pas l’art accroché aux murs, mais l’architecture elle-même.
 
-Sa façade fusionne trois styles : la simplicité du modernisme occidental introduit lors de l'essor économique de 1965, les vestiges de l'éclectisme classique de l'époque coloniale japonaise, et des symboles de l'architecture chinoise classique. Lignes horizontales et verticales fluides, colonnades alignées, alternance d'espaces pleins et vides — un historien de l'architecture dirait que sa structure présente une « géométrie proche de celle de Mies van der Rohe ».
+Sa façade combine trois styles : les lignes modernes et minimalistes introduites dans les années 1965, les vestiges du style classique de l’ère japonaise, et les symboles de l’architecture chinoise traditionnelle. Les lignes horizontales et verticales fluides, les colonnes alignées, et les volumes positifs et négatifs créés par les bandes donneront à penser aux spécialistes de l’architecture que sa structure « ressemble à une combinaison géométrique inspirée de Mies van der Rohe ».
 
-Lors de la restauration, Yongtian Art a choisi des peintures sans formaldéhyde, des matériaux de construction sans perturbateurs endocriniens et des vitrines en bois recyclé, faisant de ce bâtiment de soixante ans un modèle d'architecture verte à faible empreinte carbone pour Kaohsing. Les plantations effectuées lors de l'ouverture se sont aujourd'hui fondues dans la forêt du mont Shoushan, isolant le musée du tumulte urbain.
+Lors de la restauration, Youmeng Art utilisa des peintures sans plomb, des matériaux écologiques, et des présentoirs en bois recyclé, transformant ce bâtiment de soixante ans en un modèle de construction écologique à Kaohsiung. Les plantes plantées lors de l’ouverture, aujourd’hui, se sont intégrées à la forêt de Shoushan, isolant le bâtiment du bruit de la ville.
 
-D'une station de départ à un refuge artistique, l'histoire de l'ALI_EN Art Centre est elle-même une œuvre majeure — une histoire de mémoire, d'oubli et de renaissance.
+Du poste de secours à la source de beauté artistique, l’histoire de l’hôtel est elle-même la meilleure exposition — une histoire de mémoire, d’oubli, et de renaissance.
 
 ---
 
+## Sources des images
+
+Cet article utilise 1 image sous licence CC, mise en cache dans `public/article-images/art/` pour éviter le hotlinking :
+
+- [Vue extérieure du musée d’art contemporain de l’hôtel Kinmen-Matsu](https://commons.wikimedia.org/wiki/File:%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg) — Photo : Adece033090 / Wikimedia Commons, CC BY-SA 4.0
+
 ## Références
 
-1. [Site officiel de Yongtian Art / ALIEN Art Centre — Histoire de l'architecture](https://www.alien.com.tw/u/zh-tw/pages/The_History) (Source primaire : incluant des archives du Musée historique de Kaohsing, citations de rapports originaux de _United Daily News_ et _Economic Daily News_ de 1959/1967)
-2. [Wikipédia — ALIEN Art Centre](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8)
-3. [Magazine VERSE — ALIEN Art Centre : La transformation d'une station militaire en temple de l'art](https://www.verse.com.tw/article/alien-art-centre) (Interview de Shao Ya-man)
-4. [Kaohsiung Art Journal — L'ALIEN Art Centre s'intègre à la forêt, affichant une esthétique verte et bas carbone](https://takao.kcg.gov.tw/article/3430) (2024, incluant les recommandations de Lonely Planet, l'architecture verte et la curation)
-5. [Shopping Design — Recommandé par Lonely Planet ! La revitalisation de l'ancien site militaire des années 60 par l'ALIEN Art Centre](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
-6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (Source anglaise, guide de voyage international)
-7. [Shopping Design — Interview de Shao Ya-man, la force motrice derrière l'ALIEN Art Centre de Kaohsiung](https://www.shoppingdesign.com.tw/post/view/7054) (2021, structure des trois niveaux de curation)
-8. [500 Ji — Personnalités inspirantes : Shao Ya-man, une directrice exécutive de 28 ans calme et confiante](https://500times.udn.com/wtimes/story/12670/5832528) (2021, parcours créatif de Shao Yong-tian)
-9. [500 Ji — Exposition conjointe à l'ALIEN Art Centre : « Folie et Sérénité » de Shao Yong-tian et Shao Ya-man](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
-10. [Tatler Asia — Shao Yong-tian et Shao Ya-man du groupe Yuming insufflent une source culturelle à Kaohsiung](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)
-11. [Harper's BAZAAR — 13 architectures culturelles incontournables à Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025, l'ALIEN Art Centre classé comme incontournable)
-12. [ELLE — « Sensing the Future » : Première exposition taïwanaise du maître italien de l'Op Art à l'ALIEN Art Centre](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023, curation par Jérôme Neutres)
-13. [Site officiel du groupe Yuming — Yongtian Art / ALIEN Art Centre](https://yuimomgroup.com/brands/art/alien-art-centre)
+1. [Site officiel de Youmeng Art — Histoire de l’hôtel](https://www.alien.com.tw/u/zh-tw/pages/The_History) (source primaire : inclut des archives du musée d’histoire de Kaohsiung, citations originales des journaux _United Daily News_ et _Economic Daily News_ de 1959/1967)
+2. [Wikipédia — Musée d’art contemporain de l’hôtel Kinmen-Matsu](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8)
+3. [Magazine VERSE — L’hôtel Kinmen-Matsu : d’un poste de secours militaire au temple de l’art](https://www.verse.com.tw/article/alien-art-centre) (interview de Shao Yaman)
+4. [Revue Kaohsiung — Le musée d’art contemporain de Kinmen-Matsu s’intègre à la forêt, exposant une esthétique verte basse consommation](https://takao.kcg.gov.tw/article/3430) (2024, inclut la recommandation de _Lonely Planet_, construction écologique, structure de curation)
+5. [Shopping Design — Recommandé par _Lonely Planet_ ! Le musée d’art contemporain de l’hôtel Kinmen-Matsu redonne vie à un terrain militaire des années 1960](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
+6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (source anglaise, sélection du guide de voyage international)
+7. [Shopping Design — Interview exclusive avec Shao Yaman, l’âme derrière le musée d’art contemporain de l’hôtel Kinmen-Matsu](https://www.shoppingdesign.com.tw/post/view/7054) (2021, structure de curation en trois étages)
+8. [500 Magazine — Personnage remarquable : Shao Yaman, PDG confiante à 28 ans](https://500times.udn.com/wtimes/story/12670/5832528) (2021, parcours artistique de Shao Yongtian)
+9. [500 Magazine — Exposition double _Folie-Zen_ de l’hôtel Kinmen-Matsu : Shao Yongtian et Shao Yaman](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
+10. [Tatler Asia — Shao Yongtian et Shao Yaman injectent de la vitalité culturelle à Kaohsiung](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)
+11. [Harper's BAZAAR — 13 bâtiments culturels à Kaohsiung à visiter absolument](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025, l’hôtel recommandé comme incontournable)
+12. [ELLE — Première exposition italienne d’art pop au musée d’art contemporain de l’hôtel Kinmen-Matsu : _Résonance de l’avenir_](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023, curation de Jérôme Neutres)
+13. [Site officiel du groupe Youmeng — Youmeng Art — Musée d’art contemporain de l’hôtel Kinmen-Matsu](https://yuimomgroup.com/brands/art/alien-art-centre)
