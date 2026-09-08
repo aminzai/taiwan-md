@@ -2,9 +2,7 @@
 title: '대만 인공지능 발전과 미래 전략: 하드웨어 입장권은 얻었다, 다음 전장은 어디인가'
 description: '2024년 10월 8일 노벨 물리학상은 Hopfield와 Hinton에게, 다음 날 화학상은 AlphaFold의 세 연구자에게 수여되었다. 같은 해 5월 29일, 젠슨 황은 타이베이 닝샤 야시장, 즉 night market에서 모리스 창과 굴전인 어아젠을 먹었다. 대만은 전 세계 AI 서버의 90%, 첨단 웨이퍼의 72%를 제조하지만, 42년 신경망 역사와 50년 단백질 접힘 난제의 해답 속에서는 부재했다. PTT 창립자 두이진의 Taiwan AI Labs부터 국가과학기술위원회가 베팅한 번체중문 LLM 모델 TAIDE까지, 이 섬은 계속 대리생산 공장으로만 남아도 충분한가?'
 date: 2026-03-19
-author: 'Taiwan.md 編輯組'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     '인공지능',
@@ -15,20 +13,22 @@ tags:
     '노벨상',
     'AlphaFold',
   ]
+subcategory: '人工智慧'
+author: 'Taiwan.md'
+difficulty: 'advanced'
 readingTime: 18
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
-translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:ea05ddc3465f02eb'
-sourceBodyHash: 'sha256:c1a908bbd971d40d'
-translatedAt: '2026-06-16T16:55:29Z'
 image: '/article-images/technology/alphafold-cbln1-structure-2025.webp'
 imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
-difficulty: 'advanced'
+translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:15e7aa6f99cf7a84'
+sourceBodyHash: 'sha256:50acff1d4627c3c4'
+translatedAt: '2026-09-08T04:11:21.254246+00:00'
 ---
 
 # 대만 인공지능 발전과 미래 전략: 하드웨어 입장권은 얻었다, 다음 전장은 어디인가
@@ -37,26 +37,22 @@ difficulty: 'advanced'
 
 ---
 
-## 42년 만의 인정: 2024년 노벨상, 이틀 연속 AI를 호명하다
+## 42년의 인정: 2024 노벨상 이틀 연속 발표
 
-2024년 10월 8일 오전, 스톡홀름. 스웨덴 왕립과학원은 그해 노벨 물리학상을 두 명의 AI 과학자에게 수여한다고 발표했다. 91세 프린스턴 명예교수 John J. Hopfield, 그리고 76세로 다섯 달 전 Google을 막 떠난 Geoffrey Hinton이었다. 상금 1,100만 스웨덴 크로나는 두 사람이 나누어 받았다[^N1].
+2024년 10월 8일 오전, 스톡홀름. 스웨덴 왕립과학원은 그해 노벨 물리학상을 두 명의 AI 과학자에게 수여한다고 발표했다: 91세의 프린스턴 명예교수 존 J. 홉필드, 그리고 76세로 5개월 전 구글을 떠난 제프리 힌턴. 상금 1,100만 스웨덴 크로나는 두 사람이 균등 분배했다[^N1].
 
-심사위원회가 제시한 수상 사유는 “인공신경망을 통한 기계학습을 가능하게 한 기초적 발견과 발명”(for foundational discoveries and inventions that enable machine learning with artificial neural networks)이었다[^N1]. 노벨 물리학상 역사상 처음으로 신경망이라는 분야 자체에 직접 상이 놓인 순간이었다.
+심사위원회가 제시한 수상 이유는 "인공신경망을 이용한 기계학습을 가능하게 한 기초적 발견과 발명"(for foundational discoveries and inventions that enable machine learning with artificial neural networks)이었다[^N1]. 이는 노벨 물리학상 역사상 처음으로 상이 직접 신경망 분야에 수여된 사례였다.
 
-다음 날, 10월 9일에는 화학상 발표가 있었다. 수상자는 세 명이었다. 워싱턴대학교의 David Baker, 그리고 DeepMind의 Demis Hassabis와 John Jumper. Baker가 상금 절반을 받고, Hassabis와 Jumper가 나머지 절반을 공동 수상했다[^N2]. 수상 사유는 두 부분으로 나뉘었다. 앞부분은 Baker의 “계산 단백질 설계”, 뒷부분은 Hassabis와 Jumper의 “단백질 구조 예측”이었다.
+이튿날인 10월 9일, 화학상. 세 명의 수상자: 워싱턴 대학교의 데이비드 베이커, 그리고 딥마인드의 두 명, 데미스 하사비스와 존 점퍼. 베이커가 상금의 절반을, 하사비스와 점퍼가 나머지 절반을 공동 수상했다[^N2]. 수상 이유는 두 부분으로 나뉘었는데, 앞부분은 베이커의 "계산적 단백질 설계"에, 뒷부분은 하사비스와 점퍼의 "단백질 구조 예측"에 주어졌다.
 
-이틀, 두 개의 노벨상, 모두 AI와 관련되어 있었다. 노벨상 역사에서 전례 없는 일이었다.
+이틀, 두 개의 노벨상, 모두 AI와 관련되었다. 이는 노벨상 역사상 전례가 없는 일이었다.
 
-시간축을 대조해 보자. Hopfield가 1982년 《미국국립과학원회보》(PNAS)에 〈Neural networks and physical systems with emergent collective computational abilities〉라는 논문을 발표했을 때, 그는 막 응집물질물리학에서 신경과학으로 뛰어든 상태였다[^N3]. 1982년부터 2024년까지 정확히 42년이다. Hinton과 Rumelhart가 backpropagation 알고리즘을 사용할 수 있는 도구로 정리한 1986년 논문[^N4]도 발표부터 수상까지 38년이 걸렸다. AlphaFold는 2018년 CASP13에서 처음 등장한 뒤 2024년 노벨상을 받기까지 6년밖에 걸리지 않았다.
+타임라인을 대조해 보자: 홉필드가 1982년 《미국국립과학원회보》(PNAS)에 《Neural networks and physical systems with emergent collective computational abilities》라는 논문을 발표했을 때, 그는 막 응집물리학에서 신경과학으로 뛰어든 참이었다[^N3]. 1982년부터 2024년까지, 꼬박 42년. 힌턴과 루멜하트가 백프로파게이션 알고리즘을 실용적 도구로 정립한 1986년 논문[^N4]도 발표부터 수상까지 38년이 걸렸다. 알파폴드가 2018년 CASP13에서 처음 모습을 드러낸 후 2024년 노벨상을 받기까지는 불과 6년밖에 걸리지 않았다.
 
-결국 이틀 동안 노벨상이 수여한 대상은 ChatGPT가 아니라, 30년 또는 40년 전 아무도 제대로 이해하지 못했던 몇 편의 논문이었다. 기초연구와 산업 응용 사이의 시차는 늘 이렇다.
+결론적으로, 이틀간 수여된 노벨상의 대상은 챗GPT가 아니라 3~4십 년 전 아무도 이해하지 못하던 그 몇 편의 논문이었다. 기초연구와 산업 응용 사이의 시차는 언제나 그러했다.
 
-![2024년 12월 8일 스톡홀름 노벨 주간에 인터뷰 중인 Geoffrey E. Hinton의 공식 초상. 짙은 정장, 백발, 카메라를 향한 차분한 표정](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton, 2024년 노벨 물리학상 수상자, 스톡홀름 노벨 주간. Photo: Arthur Petron, 2024-12-08. CC BY-SA 4.0 via Wikimedia Commons.jpg)._
-
-[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped)
-
----
+![2024년 12월 8일 스톡홀름 노벨 주간 인터뷰 공식 초상, 짙은 정장, 백발, 카메라를 향해 차분한 표정의 제프리 E. 힌턴](/article-images/technology/hinton-nobel-2024.webp)
+_제프리 힌턴, 2024 노벨 물리학상 수상자, 스톡홀름 노벨 주간. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Geoffrey%5FE.%5FHinton,%5F2024%5FNobel%5FPrize%5FLaureate%5Fin%5FPhysics%5F(3x4%5Fcropped).jpg>)._
 
 ## 닝샤 야시장의 조 단위 만찬
 
@@ -93,26 +89,26 @@ _TSMC 신주 Fab 5 공장, AI 칩 파운드리의 물리적 현장. Photo: Wikim
 
 ---
 
-## Hopfield 1982: 물리학자가 쓴 기억 모델
+## 홉필드 1982: 물리학자가 쓴 기억 모델
 
-1982년, 프린스턴의 응집물질물리학자 John Hopfield는 단 12쪽짜리 논문을 썼다. 제목은 길었다. 〈Neural networks and physical systems with emergent collective computational abilities〉. 논문은 《미국국립과학원회보》에 실렸다[^N3].
+1982년, 프린스턴의 응집물리학자 존 홉필드(John Hopfield)는 12쪽짜리 논문 한 편을 썼다. 제목은 길다: 《Neural networks and physical systems with emergent collective computational abilities》, 《미국 국립과학원 회보(PNAS)》에 게재됐다[^N3].
 
-그가 한 일은 본질적으로 “기억”을 물리학으로 번역한 것이었다.
+그가 한 일은 본질적으로 '기억'을 물리학 언어로 번역한 것이다.
 
-물리학에는 spin glass, 즉 스핀 유리라는 개념이 있다. 여러 자성 원자가 각자 스핀 방향을 갖고 서로 상호작용하며, 전체 시스템은 자발적으로 에너지가 가장 낮은 지점을 찾아간다. Hopfield는 이 개념을 뉴런으로 옮겼다. 뉴런을 스핀으로, 연결 강도를 상호작용으로 상상하면, 전체 네트워크는 자발적으로 어떤 “에너지 최소값”(energy minimum)의 안정 상태로 수렴한다[^N3]. 각각의 energy minimum이 저장된 기억 하나다.
+물리학에는 스핀 글라스(spin glass, 自旋玻璃)라는 것이 있다: 수많은 자기 원자가 각각 스핀 방향을 가지고 서로 상호작용하며, 시스템 전체가 자발적으로 에너지 최솟값을 찾는다. 홉필드는 이 개념을 뉴런으로 가져왔다: 뉴런을 스핀으로, 연결 강도를 상호작용으로 보고, 네트워크 전체가 자발적으로 어떤 '에너지 최솟값(energy minimum)'의 안정 상태에 수렴하게 했다[^N3]. 각각의 에너지 최솟값이 바로 하나의 저장된 기억이다.
 
-이 모델의 우아함은 기억을 물리학 언어로 서술할 수 있게 했다는 데 있다. 불완전한 단서가 주어지면 네트워크는 스스로 가장 가까운 에너지 최저점을 찾아가고, 기억 전체를 보완한다. 이것이 훗날 생성형 AI가 하는 일의 수학적 조상이다.
+이 모델의 우아함은 기억을 물리학 언어로 기술할 수 있는 대상으로 만들었다는 데 있다. 불완전한 단서가 주어지면 네트워크는 스스로 가장 가까운 에너지 최솟값을 찾아내어 기억 전체를 복원한다. 이것이 훗날 생성형 AI가 하는 일의 수학적 조상이다.
 
-1982년의 대만은 전자산업이 막 출발한 시기였고, TSMC도 아직 설립되지 않았다. 모리스 창이 42년 뒤 “호국신산”이 될 회사를 세우는 것은 1987년이 되어서였다. Hopfield의 논문은 2026년 기준 Google Scholar에서 2만 7천 회 이상 인용되었다[^N6].
+1982년, 타이완에서는 전자 산업이 막 걸음마를 떼고 있었고 TSMC도 아직 설립되지 않았다. 장중머우(張忠謀)는 1987년이 되어서야 42년 뒤 '호국신산(護國神山)'이 될 회사를 창업한다.
 
-더 흥미로운 것은 Hopfield가 나중에 한 말이다. 그는 프린스턴에서 평생 응집물질물리학을 연구했고, 신경과학으로 넘어간 일은 당시 동료들에게 “취미 삼은 외도”처럼 여겨졌다. 2024년 노벨상 명단이 발표되었을 때 그는 91세였다. 스웨덴 왕립과학원이 전화 인터뷰에서 수상 소감을 묻자, 그는 “아무도 AI의 방향을 이해하거나 통제하지 못한다”는 점에 불안을 느낀다고 말했다[^N7].
+홉필드의 논문은 2026년 기준 구글 스칼라 인용 횟수가 2만 7천 회를 넘어섰다[^N6].
 
-현대 AI 전체의 수학적 기초를 쓴 사람이 상을 받은 바로 그날, 모두에게 조금 조심하라고 경고한 것이다.
+더 흥미로운 것은 훗날 홉필드가 남긴 말이다. 그는 프린스턴에서 평생 응집물리학을 연구하다 신경과학으로 발을 들였고, 당시 동료들은 이를 '취미 삼아 하는 일(玩票)'로 여겼다. 2024년 노벨상 수상자 명단이 발표될 때 그는 91세였고, 스웨덴 왕립과학원이 전화 인터뷰에서 소감을 묻자 "아무도 AI의 방향을 이해하거나 통제하지 못한다"는 점에 불안감을 느낀다고 답했다[^N7].
 
-![2024년 12월 8일 스톡홀름 노벨 주간에 인터뷰 중인 John J. Hopfield의 초상. 짙은 정장, 백발, 침착한 표정](/article-images/technology/hopfield-nobel-2024.webp)
-_John J. Hopfield, 2024년 노벨 물리학상 수상자, 스톡홀름 노벨 주간. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg).\_
+현대 AI의 수학적 기초를 쓴 사람이 상을 받는 그날, 모두에게 조심하라고 일깨웠다.
 
----
+![John J. Hopfield 2024 年 12 月 8 日於斯德哥爾摩諾貝爾週受訪人像，深色西裝、白髮、神情沉穩](/article-images/technology/hopfield-nobel-2024.webp)
+_John J. Hopfield，2024 諾貝爾物理獎得主，斯德哥爾摩諾貝爾週。Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg).\_
 
 ## Hinton: 1986년 논문과 2023년 Google 퇴사의 경고
 
@@ -274,14 +270,12 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 
 ## 이미지 출처
 
-이 글은 퍼블릭 도메인 / CC 라이선스 이미지 4장을 사용했으며, 모두 원본 서버 핫링크를 피하기 위해 `public/article-images/technology/`에 캐시되어 있다.
+본문은 퍼블릭 도메인 / CC 라이선스 이미지 4장을 사용하며, 모두 `public/article-images/technology/`에 캐시되어 있어 원본 서버로의 핫링크를 방지한다:
 
-- [Estructura tridimensional de la proteïna CBLN1 per AlphaFold amb codificació rainbow](https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png) — hero, CBLN1 단백질 AlphaFold 예측 구조, N→C 말단 rainbow 색상 코딩. Photo: BQUB25-UPoch (own work, AlphaFold + PyMOL), 2025-11-15, CC BY 4.0.
-- [Geoffrey E. Hinton, 2024 Nobel Prize Laureate in Physics (3x4 cropped)](<https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped).jpg>) — inline, 2024년 노벨 주간 Hinton 공식 초상. Photo: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
-- [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — inline, 2024년 노벨 주간 Hopfield 공식 초상. Photo: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
-- [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — inline, TSMC 신주 Fab 5 공장, AI 칩 파운드리의 물리적 현장. Photo: Wikimedia Commons (existing cache).
-
----
+- [Estructura tridimensional de la proteïna CBLN1 per AlphaFold amb codificació rainbow](https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png) — 히어로 이미지, CBLN1 단백질 AlphaFold 예측 구조, 레인보우 색상 인코딩 N→C 말단. 사진: BQUB25-UPoch (본인 작업, AlphaFold + PyMOL), 2025-11-15, CC BY 4.0.
+- [Geoffrey E. Hinton, 2024 Nobel Prize Laureate in Physics (3x4 cropped)](<https://commons.wikimedia.org/wiki/File:Geoffrey%5FE.%5FHinton,%5F2024%5FNobel%5FPrize%5FLaureate%5Fin%5FPhysics%5F(3x4%5Fcropped).jpg>) — 인라인, 2024 노벨 주 힌턴 공식 초상. 사진: 아서 페트론, 2024-12-08, CC BY-SA 4.0.
+- [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — 인라인, 2024 노벨 주 홉필드 공식 초상. 사진: 아서 페트론, 2024-12-08, CC BY-SA 4.0.
+- [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — 인라인, TSMC 신주 팹 5 공장, AI 칩 위탁 생산의 물리적 현장. 사진: 위키미디어 커먼즈 (기존 캐시).
 
 ## 참고자료
 
@@ -291,7 +285,7 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 
 [^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — 젠슨 황이 1963년 타이베이에서 태어나 어린 시절을 타이난에서 보내고 아홉 살에 미국으로 이민했다는 전기 자료.
 
-[^4]: NVIDIA의 모든 첨단 GPU(A100, H100, Blackwell 시리즈)는 TSMC가 위탁 생산한다. [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) 참조 — NVIDIA AI GPU 전 시리즈의 파운드리 관계를 다룬 산업 분석.
+[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — NVIDIA의 모든 첨단 GPU(A100, H100, Blackwell 시리즈)는 TSMC가 위탁 생산한다참조 — NVIDIA AI GPU 전 시리즈의 파운드리 관계를 다룬 산업 분석.
 
 [^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — 2025년 TSMC 파운드리 매출 시장점유율 72%의 데이터 출처. Motley Fool의 같은 시기 보도도 참조.
 
@@ -329,11 +323,11 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 
 [^N2]: [The Nobel Prize in Chemistry 2024 press release](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — 2024년 10월 9일 발표. 상금 1,100만 스웨덴 크로나 중 David Baker가 “for computational protein design”으로 절반을, Demis Hassabis와 John Jumper가 “for protein structure prediction”으로 나머지 절반을 공동 수상했다.
 
-[^N3]: Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities." [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield Network 원 논문. 신경망을 spin glass 시스템에 비유하고, energy minimum이 기억 저장에 대응한다고 제시했다. 1982년 4월 발표.
+[^N3]: [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities."
 
-[^N4]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). "Learning representations by back-propagating errors." [Nature, 323, 533-536](https://www.nature.com/articles/323533a0) — backpropagation 알고리즘의 고전 논문. 신경망 훈련법의 토대가 된 작업.
+[^N4]: [Nature, 323, 533-536](https://www.nature.com/articles/323533a0) — Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). "Learning representations by back-propagating errors."
 
-[^N5]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks." [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — AlexNet 원 논문. ImageNet ILSVRC-2012 top-5 오류율 15.3%(2위 26.2%)로, 딥러닝 산업화의 결정적 전환점.
+[^N5]: [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
 
 [^N6]: [PanSci 泛科學：2024 諾貝爾物理獎—— Hopfield 與 Hinton 開啟了人工神經網路機器學習時代](https://pansci.asia/archives/378242) — Content Curation Partner per MOU 2026-05-05. Hopfield Network의 제안 배경, spin glass 비유, 논문 인용 횟수 누적, 현대 딥러닝과의 수학적 연결을 다룬다.
 
@@ -347,7 +341,7 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 
 [^N11]: [Wikipedia: Economic history of Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — 1986년 대만 GDP 데이터. 신주과학단지는 1980년 12월 설립되었다.
 
-[^N12]: Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains." [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — 1972년 노벨 화학상 수상 업적 중 하나. 단백질 접힘이 아미노산 서열에 의해 결정된다는 가설을 제시했다.
+[^N12]: [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains."
 
 [^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — 2020년 11월 30일 CASP14 결과 발표 보도. AlphaFold 2 중위 GDT 92.4, CASP 주최자 John Moult의 “in some sense the problem is solved” 발언.
 

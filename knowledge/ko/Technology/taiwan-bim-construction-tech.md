@@ -2,6 +2,7 @@
 title: "Taiwan's BIM and Construction Tech: Twelve Years of Case-by-Case Government Push Rewritten by an 18-Month Protocol"
 description: "On May 23, 2014, the Public Construction Commission launched the 'Public Engineering BIM Promotion Platform' with the eight-character policy of 'case-by-case adaptation and gradual progress.' Eleven years and seven months later, a Taiwanese developer working in Tokyo pushed the repository named REVIT_MCP_study to GitHub, garnering over 70 stars and 80 forks. In between, Taiwan's construction industry traversed a long path from hand-drawn blueprints to 3D models, from individual attempts to national standards, and from tool upgrades to the redefinition of professions."
 date: 2026-05-22
+category: 'Technology'
 tags:
   [
     'Technology',
@@ -19,20 +20,20 @@ tags:
   ]
 subcategory: 'Construction Technology'
 author: 'Taiwan.md'
-category: 'Technology'
-readingTime: 22
+featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
-translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76'
-sourceContentHash: 'sha256:7923803a611ee1da'
-translatedAt: '2026-06-16T16:55:29Z'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
+readingTime: 22
+researchReport: 'reports/research/2026-05/台灣BIM與營建科技.md'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
-featured: true
+translatedFrom: 'Technology/台灣BIM與營建科技.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T02:15:36.194256+00:00'
 ---
 
 # Taiwan's BIM and Construction Tech: Twelve Years of Case-by-Case Government Push Rewritten by an 18-Month Protocol
@@ -84,23 +85,21 @@ The timelines for the three axes of the Central Government, Taipei, and New Taip
 
 ---
 
-## Wanda Line, Miaoli Station, Taoyuan Airport T3: BIM Enters Public Engineering
+## 완다선, 먀오리역, 타오위안 공항 T3: BIM의 공공 공사 등장
 
-In 2011, **the Taipei Metro Wanda Line included BIM in the engineering design contract for the first time** [^14].
+2011년, **타이베이 메트로 완다선이 최초로 BIM을 공사 설계 계약에 포함시켰다**[^14].
 
-This is a frequently cited "first" event in Taiwan's BIM promotion. Each section of the Wanda Line was required by contract to use the BIM mode for metro station body design, simultaneously introducing architecture, structure, and MEP disciplines for cross-disciplinary integration, **reducing design interface conflicts** [^14].
+이는 타이완이 BIM을 추진하며 흔히 인용하는 'first' 사건이다. 완다선 각 표준 구간은 계약 요구에 따라 BIM 모드로 지하철 역사를 설계했으며, 동시에 건축, 구조 및 기계전기 전문 분야를 도입해, 다분야 통합으로 **설계 인터페이스 충돌을 줄였다**[^14].
 
-Following the Wanda Line, public engineering projects followed one after another. Taipei Metro Circular Line Y19 Elevated Station, multiple sports centers in New Taipei, Taiwan High Speed Rail's new Miaoli Station, Taoyuan Airport Terminal 3, Kaohsiung Circular Light Rail: every project has a case study written in the internal journals of ABRI, NTU NTUBIM, or the Metro Bureau.
+완다선의 뒤를 이어 공공 공사가 하나둘 들어왔다. 타이베이 메트로 순환선 Y19 고가역, 신베이의 여러 스포츠센터, [타이완 고속철도](/ko/lifestyle/taiwan-high-speed-rail/) 먀오리 신설역, [타오위안 국제공항](/ko/lifestyle/taoyuan-airport/) 제3터미널, 가오슝 순환 경전철: 모든 사업마다 ABRI, 타이완대 NTUBIM 또는 메트로국 내부 저널에 케이스 스터디가 실려 있다.
 
-The most cited "**Digital Victory**" is Taiwan HSR's Miaoli Station: BIM was introduced three months before groundbreaking, and the supervision team discovered multiple conflict points from the 3D model, **saving 20% in subsequent design change costs and allowing site layout to start two months ahead of schedule** [^15].
+가장 많이 인용되는 **'숫자의 승리'**는 타이완 고속철도 먀오리역이다: 착공 3개월 전 BIM을 도입해, 감리팀이 3D 모델에서 다수의 충돌점을 발견해 **후속 설계 변경 비용 20%를 절감하고, 현장 측량이 예정보다 두 달 일찍 착공했다**[^15].
 
-Taoyuan Airport Terminal 3 is another case of a different scale. In March 2021, **a team composed of Samsung C&T and Ronggong Engineering won the bid for the T3 main terminal building civil engineering with a new NT$44.5 billion** [^16]. The entire T3 is led in design by AECOM Engineering Consulting (along with Rogers Stirk Harbour + Partners and Ove Arup and Partners Hong Kong), relying on cross-border collaboration through BIM model flows between firms — this is AECOM's signature case repeatedly used in internal training materials [^17].
+타오위안 국제공항 제3터미널은 또 다른 규모의 사례다. 2021년 3월, **삼성물산과 룽궁 엔지니어링으로 구성된 팀이 신타이완달러 445억 원에 T3 주터미널 토목 공사를 수주했다**[^16]. 전체 T3는 타이완 스시 엔지니어링 컨설턴트가 주설계를 맡았으며(로저스 스터크 하버 앤 파트너스, 오브 아루프 앤 파트너스 홍콩과 공동), 다국적 협업은 BIM 모델이 각 사무소 사이를 오가며 이루어졌다: 이는 타이완 스시가 내부 교육 자료에서 반복적으로 사용하는 대표 사례다[^17].
 
-> **✦** The moment the Wanda Line first wrote BIM into the contract in 2011 was a quiet watershed in Taiwan's public engineering history. From that day on, none of Taiwan's major public engineering projects — metro, airport, HSR, light rail — would ask "how to do BIM" without it.
+> **✦** 완다선이 2011년 최초로 BIM을 계약에 명시한 그 순간은, 타이완 공공 공사사에서 조용한 분수령이었다. 그날 이후 타이완의 지하철, 공항, 고속철도, 경전철 중 어느 주요 공공 공사도 'BIM을 어떻게 할 것인가'를 묻지 않는 경우는 없었다.
 
-But these are all "indicator cases." All indicator cases in Taiwan share only one common flaw: **they are few**.
-
----
+하지만 이들은 모두 '지표 사례'일 뿐이다. 타이완에서 모든 지표 사례에 공통된 단점이 하나 있다: **이들은 소수에 불과하다**.
 
 ## Five Major Engineering Consultants + Two Organizations: The People Behind
 
