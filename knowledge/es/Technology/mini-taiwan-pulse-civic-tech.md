@@ -33,10 +33,10 @@ sporeLinks:
     "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
   ]
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'da22dc5b2'
-sourceContentHash: 'sha256:b4fa10553d998dfa'
-sourceBodyHash: 'sha256:6475e91be41d93b4'
-translatedAt: '2026-07-27T05:09:57+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:7704f0ba39f9bad2'
+sourceBodyHash: 'sha256:953746868edc36a0'
+translatedAt: '2026-09-08T06:28:09.299407+00:00'
 ---
 
 # Mini Taiwan Pulse: Con los ojos de un curador, dibujar Taiwán como un mapa que respira
@@ -191,11 +191,11 @@ Esta frase es el punto de explosión de toda la charla. Convierte la frase algo 
 
 _La producción de inventario temático de incendios mostrada por Migu en la presentación de sciwork 2026: le dio una frase «Analizar datos públicos relacionados con incendios en Taiwán», el sistema expandió la búsqueda por sí mismo y consolidó el catálogo cruzando plataformas, dijo que esta tubería «yo no escribí una palabra». Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-## Cuatro pasos desmontables: entran los datos, el informe se envía solo
+## Los cuatro pasos desglosables: la entrada de datos y el envío del informe
 
-Esta tubería de incendios es solo una rebanada, el microcosmos de todo su sistema. El sistema tiene cuatro pasos: recepción de datos, integración de conocimiento, generación de análisis, activación de acción. Hizo especial énfasis en que «cada paso puede ser reemplazado individualmente, todo el sistema no necesita ser reconstruido». La recepción de datos en la capa inferior también evolucionó: primero fue descarga manual de Excel desde data.gov.tw, lectura y almacenamiento propio, el cuello de botella estaba en la «memoria humana»; en la etapa media pasó a buscar APIs en internet, extraer informes PDF, hacer scraping de plataformas de condados, el problema era «falta de índice»; hasta ahora, los metadatos de cada entrada se almacenan estandarizados en un catálogo SQLite, que puede ser consultado automáticamente y expandido automáticamente[^3]. Su sistema tiene detrás más de cuarenta colectores de datos, desde YouBike, autobuses, tráfico en autopistas, horarios del tren de alta velocidad, AIS de barcos, satélites meteorológicos, terremotos, nivel de embalses, calidad del aire, y dijo que si falla tres veces seguidas, envía inmediatamente una alerta a Telegram, y a las nueve de la mañana empuja un «Revisión Diaria» a su correo[^3].
+Esta tubería de "incendio" es solo una muestra, un microcosmos de todo su sistema. El sistema se divide en cuatro pasos: recepción de datos, integración de conocimiento, generación de análisis y activación de acciones; enfatizó especialmente que «cada paso puede ser reemplazado individualmente, sin necesidad de reescribir el conjunto». La capa más baja, la recepción de datos, también evolucionó por sí misma: al principio era manual, descargando archivos de Excel desde data.gov.tw, leyendo y almacenando por su cuenta, con un cuello de botella en la «memoria humana»; a medio camino se cambió para buscar APIs en línea, capturar informes PDF y rastrear plataformas municipales, el problema era «la falta de índice»; hasta ahora, los metadatos de cada dato se han almacenado estandarizados en un directorio SQLite que puede ser consultado y expandido automáticamente[^3]. Detrás de su sistema hay más de cuarenta recolectores de datos, desde YouBike, autobuses, tráfico de autopistas, hasta horarios del tren nacional, AIS de barcos, satélites meteorológicos, [sismos](/es/society/earthquakes-in-taiwan/), niveles de embalses y calidad del aire; además, dijo que si se equivocaba tres veces, enviaba inmediatamente una alerta por Telegram, y cada mañana a las nueve enviaba un Resumen Diario a su correo[^3].
 
-En el último paso, «activación de acción», dejó el rol humano más claro: «El Agente ejecuta el ciclo completo. Rol humano: dar objetivos, recibir informes. Los cinco engranajes del medio giran solos: descubrir, recoger, integrar, producir, monitorear». El sistema incluso genera automáticamente un informe semanal de «nuevos datos abiertos de esta semana». En sus palabras: «El tema aparece solo, el informe llega solo al buzón»[^3].
+En el último paso, la «activación de acciones», explicó el papel humano con mayor claridad: «El Agente ejecuta el ciclo completo. El rol humano es dar objetivos y recibir informes. Los cinco engranajes intermedios giran por sí mismos: descubrimiento, recopilación, integración, producción y monitoreo». El sistema incluso puede generar automáticamente un informe semanal de «Nuevos datos abiertos de la semana». Con sus palabras: «el tema surge por sí mismo y el informe se envía al correo».[^3]
 
 ## Un director, una flota de pestañas: la flota de Claude en tmux
 

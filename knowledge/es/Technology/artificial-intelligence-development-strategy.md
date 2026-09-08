@@ -2,9 +2,7 @@
 title: 'Desarrollo de la inteligencia artificial en Taiwán y estrategia futura: ya obtuvo el boleto de entrada del hardware, ¿dónde será la próxima batalla?'
 description: 'El 8 de octubre de 2024, el Nobel de Física fue otorgado a Hopfield y Hinton; al día siguiente, el de Química fue para las tres personas detrás de AlphaFold. El 29 de mayo de ese mismo año, Jensen Huang comió omelet de ostras con Morris Chang en el mercado nocturno de Ningxia, en Taipéi. Taiwán fabrica el 90% de los servidores de IA del mundo y el 72% de las obleas avanzadas, pero estuvo ausente en las respuestas a 42 años de redes neuronales y a 50 años del problema del plegamiento de proteínas. Desde Taiwan AI Labs, de Ethan Tu, fundador de PTT, hasta TAIDE, el modelo LLM en chino tradicional por el que apuesta el Consejo Nacional de Ciencia y Tecnología, ¿le basta a esta isla con ser solo una fábrica de manufactura por encargo?'
 date: 2026-03-19
-author: 'Taiwan.md 編輯組'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     'inteligencia artificial',
@@ -15,20 +13,22 @@ tags:
     'Premio Nobel',
     'AlphaFold',
   ]
+subcategory: '人工智慧'
+author: 'Taiwan.md'
+difficulty: 'advanced'
 readingTime: 18
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
-translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:ea05ddc3465f02eb'
-sourceBodyHash: 'sha256:c1a908bbd971d40d'
-translatedAt: '2026-06-16T16:54:57Z'
 image: '/article-images/technology/alphafold-cbln1-structure-2025.webp'
 imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
-difficulty: 'advanced'
+translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:15e7aa6f99cf7a84'
+sourceBodyHash: 'sha256:50acff1d4627c3c4'
+translatedAt: '2026-09-08T04:15:40.712079+00:00'
 ---
 
 # Desarrollo de la inteligencia artificial en Taiwán y estrategia futura: ya obtuvo el boleto de entrada del hardware, ¿dónde será la próxima batalla?
@@ -37,24 +37,22 @@ difficulty: 'advanced'
 
 ---
 
-## 42 años de reconocimiento: dos Nobel consecutivos en 2024
+## 42 años de reconocimiento: dos Nobel en dos días en 2024
 
-La mañana del 8 de octubre de 2024, en Estocolmo, la Real Academia Sueca de Ciencias anunció que el Premio Nobel de Física de ese año sería otorgado a dos científicos de IA: John J. Hopfield, profesor emérito de Princeton de 91 años, y Geoffrey Hinton, de 76 años, quien apenas cinco meses antes había dejado Google. El premio, de 11 millones de coronas suecas, fue dividido entre ambos[^N1].
+La mañana del 8 de octubre de 2024, Estocolmo. La Real Academia Sueca de las Ciencias anunció que el Premio Nobel de Física de ese año se otorgaba a dos científicos de la IA: John J. Hopfield, profesor emérito de Princeton de 91 años, y Geoffrey Hinton, de 76 años, quien había dejado Google apenas cinco meses antes. El premio de 11 millones de coronas suecas se repartió a partes iguales[^N1].
 
-La justificación del comité fue “por descubrimientos e invenciones fundamentales que permiten el aprendizaje automático con redes neuronales artificiales”[^N1]. Fue la primera vez en la historia del Nobel de Física que el galardón se colocó directamente sobre el campo de las redes neuronales.
+El comité evaluador fundamentó su decisión en los «descubrimientos e invenciones fundamentales que permiten el aprendizaje automático con redes neuronales artificiales»[^N1]. Es la primera vez en la historia del Nobel de Física que el galardón recae directamente en el campo de las redes neuronales.
 
-Al día siguiente, el 9 de octubre, llegó el Nobel de Química. Los tres laureados fueron David Baker, de la Universidad de Washington, y dos investigadores de DeepMind: Demis Hassabis y John Jumper. Baker recibió la mitad del premio; Hassabis y Jumper compartieron la otra mitad[^N2]. La justificación se dividió en dos partes: la primera, para Baker, por el “diseño computacional de proteínas”; la segunda, para Hassabis y Jumper, por la “predicción de estructuras proteicas”.
+Al día siguiente, 9 de octubre, el de Química. Tres galardonados: David Baker, de la Universidad de Washington, y dos investigadores de DeepMind, Demis Hassabis y John Jumper. Baker recibió la mitad del premio, mientras que Hassabis y Jumper compartieron la otra mitad[^N2]. La fundamentación se dividió en dos partes: la primera, para Baker, por el «diseño computacional de proteínas»; la segunda, para Hassabis y Jumper, por la «predicción de la estructura de proteínas».
 
-Dos días, dos premios Nobel, todos relacionados con la IA. No había precedente de algo así en la historia de los Nobel.
+Dos días, dos Nobel, ambos vinculados a la IA. No hay precedentes en la historia de los premios Nobel.
 
-Comparemos la línea de tiempo: cuando Hopfield publicó en 1982 en _Proceedings of the National Academy of Sciences_ (PNAS) su artículo “Neural networks and physical systems with emergent collective computational abilities”, acababa de pasar de la física de la materia condensada a la neurociencia[^N3]. De 1982 a 2024 transcurrieron exactamente 42 años. El artículo de 1986 en el que Hinton y Rumelhart convirtieron el algoritmo de retropropagación en una herramienta utilizable[^N4] tardó 38 años desde su publicación hasta el Nobel. AlphaFold, desde su primera aparición en CASP13 en 2018 hasta obtener el Nobel en 2024, necesitó apenas 6 años.
+Comparemos la línea temporal: cuando Hopfield publicó en 1982 en las _Actas de la Academia Nacional de Ciencias de EE. UU._ (PNAS) el artículo titulado «Neural networks and physical systems with emergent collective computational abilities», acababa de dar el salto de la física de la materia condensada a la neurociencia[^N3]. De 1982 a 2024, nada menos que 42 años. El artículo de 1986 en el que Hinton y Rumelhart convirtieron el algoritmo de retropropagación en una herramienta práctica[^N4] tardó 38 años en ser reconocido. AlphaFold, desde su debut en CASP13 en 2018 hasta el Nobel de 2024, solo necesitó 6 años.
 
-En el fondo, esos dos Nobel no premiaron a ChatGPT, sino a unos artículos de hace tres o cuatro décadas que casi nadie entendía. La brecha temporal entre la investigación básica y la aplicación industrial siempre ha sido así.
+En el fondo, lo que estos dos días de Nobel premian no es ChatGPT, sino esos artículos de hace tres o cuatro décadas que casi nadie entendía. El desfase entre la investigación básica y la aplicación industrial siempre ha sido así.
 
-![Retrato oficial de Geoffrey E. Hinton entrevistado durante la semana Nobel en Estocolmo el 8 de diciembre de 2024, con traje oscuro, cabello blanco y expresión serena frente a la cámara](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton, laureado con el Premio Nobel de Física 2024, durante la semana Nobel en Estocolmo. Photo: Arthur Petron, 2024-12-08. CC BY-SA 4.0 via Wikimedia Commons.jpg)._
-
-[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped)
+![Geoffrey E. Hinton el 8 de diciembre de 2024 en Estocolmo durante la semana Nobel, retrato oficial de entrevista, traje oscuro, cabello blanco, expresión serena frente a la cámara](/article-images/technology/hinton-nobel-2024.webp)
+_Geoffrey Hinton, Nobel de Física 2024, semana Nobel de Estocolmo. Foto: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 vía Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Geoffrey%5FE.%5FHinton,%5F2024%5FNobel%5FPrize%5FLaureate%5Fin%5FPhysics%5F(3x4%5Fcropped).jpg>)._
 
 ---
 
@@ -93,26 +91,24 @@ La pregunta es: una vez conseguido el boleto de entrada del hardware, ¿dónde s
 
 ---
 
-## Hopfield 1982: el modelo de memoria escrito por un físico
+## Hopfield 1982: el modelo de memoria de un físico
 
-En 1982, John Hopfield, físico de materia condensada en Princeton, escribió un artículo de apenas 12 páginas con un título largo: “Neural networks and physical systems with emergent collective computational abilities”, publicado en _Proceedings of the National Academy of Sciences_[^N3].
+En 1982, el físico de materia condensada de Princeton, John Hopfield, escribió un artículo de apenas 12 páginas, con un título muy largo: «Neural networks and physical systems with emergent collective computational abilities», publicado en _Proceedings of the National Academy of Sciences_[^N3].
 
-Lo que hizo fue, en esencia, traducir la “memoria” al lenguaje de la física.
+Lo que hizo, en esencia, fue traducir la «memoria» al lenguaje de la física.
 
-En física existe algo llamado _spin glass_ o vidrio de espín: un conjunto de átomos magnéticos, cada uno con su propia dirección de espín, interactúa entre sí, y el sistema completo encuentra espontáneamente un punto de energía mínima. Hopfield trasladó ese concepto a las neuronas: imaginó las neuronas como espines, las intensidades de conexión como interacciones, y la red completa convergiendo espontáneamente hacia un estado estable de “mínimo de energía”[^N3]. Cada mínimo de energía corresponde a un recuerdo almacenado.
+En física existe algo llamado spin glass (vidrio de espín): un conjunto de átomos magnéticos, cada uno con su propia dirección de espín, que interactúan entre sí, y el sistema completo encuentra espontáneamente un punto de energía mínima. Hopfield trasladó este concepto a las neuronas: imaginó las neuronas como espines, la fuerza de las conexiones como interacciones, y la red entera converge espontáneamente hacia un estado estable de «mínimo de energía» (energy minimum)[^N3]. Cada mínimo de energía corresponde a un recuerdo almacenado.
 
-La elegancia del modelo está en que convirtió la memoria en algo describible con el lenguaje de la física. Dada una pista incompleta, la red encuentra por sí misma el punto de energía mínima más cercano y completa el recuerdo. Ese es el antepasado matemático de lo que hoy hace la IA generativa.
+La elegancia de este modelo radica en que permite describir la memoria en lenguaje físico. Dada una pista incompleta, la red encuentra por sí misma el mínimo de energía más cercano y completa el recuerdo entero. Ese es el ancestro matemático de lo que hoy hace la IA generativa.
 
-En 1982, Taiwán apenas estaba dando sus primeros pasos en la industria electrónica, y TSMC todavía no existía. Morris Chang tendría que esperar hasta 1987 para fundar la empresa que 42 años después se convertiría en la “montaña sagrada protectora del país”. Para 2026, el artículo de Hopfield ya acumulaba más de 27.000 citas en Google Scholar[^N6].
+En 1982, en Taiwán la industria electrónica apenas despegaba y TSMC no existía aún. Morris Chang esperaría hasta 1987 para fundar la empresa que, 42 años después, se convertiría en la «montaña sagrada que protege al país»[^N6]. Las citas del artículo de Hopfield en Google Scholar superaban ya las 27 000 en 2026[^N6].
 
-Más interesante aún es algo que Hopfield dijo después. Pasó su vida en Princeton haciendo física de materia condensada, y sus colegas de la época vieron su entrada en la neurociencia como un pasatiempo lateral. Cuando se anunció el Nobel de 2024, tenía 91 años, y en la entrevista telefónica de la Real Academia Sueca de Ciencias dijo sentirse inquieto por el hecho de que “nadie entiende ni controla la dirección de la IA”[^N7].
+Más interesante aún es una frase que Hopfield dijo después. Pasó toda una vida haciendo física de materia condensada en Princeton, y su incursión en la neurociencia fue vista por sus colegas de entonces como un «pasatiempo». Hasta que se anunció el Nobel de 2024: a sus 91 años, la Real Academia Sueca de las Ciencias le preguntó en una entrevista telefónica por sus impresiones, y respondió que le inquietaba «que nadie entienda o controle la dirección de la IA»[^N7].
 
-La persona que escribió parte de la base matemática de toda la IA moderna aprovechó el día en que recibió el premio para pedir cautela.
+Quien escribió los cimientos matemáticos de toda la IA moderna, el día en que recibió el galardón, nos recordó que tuviéramos cuidado.
 
-![Retrato de John J. Hopfield entrevistado durante la semana Nobel en Estocolmo el 8 de diciembre de 2024, con traje oscuro, cabello blanco y expresión serena](/article-images/technology/hopfield-nobel-2024.webp)
-_John J. Hopfield, laureado con el Premio Nobel de Física 2024, durante la semana Nobel en Estocolmo. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg).\_
-
----
+![John J. Hopfield, retrato de la entrevista durante la semana Nobel en Estocolmo el 8 de diciembre de 2024, traje oscuro, cabello blanco, expresión serena](/article-images/technology/hopfield-nobel-2024.webp)
+_John J. Hopfield, premio Nobel de Física 2024, semana Nobel en Estocolmo. Foto: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg).\_
 
 ## Hinton: el artículo de 1986 y la advertencia tras dejar Google en 2023
 
@@ -272,16 +268,14 @@ Aquella cena en el mercado nocturno de Ningxia fue el lugar que Taiwán acumuló
 
 ---
 
-## Fuentes de imágenes
+## Fuentes de las imágenes
 
-Este artículo usa 4 imágenes de dominio público / con licencias CC, todas almacenadas en caché en `public/article-images/technology/` para evitar enlaces directos a los servidores de origen:
+Este artículo utiliza 4 imágenes de dominio público / con licencia CC, todas almacenadas en caché en `public/article-images/technology/` para evitar el enlace directo a los servidores de origen:
 
-- [Estructura tridimensional de la proteïna CBLN1 per AlphaFold amb codificació rainbow](https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png) — hero, estructura predicha por AlphaFold de la proteína CBLN1, codificación cromática rainbow del extremo N al C. Photo: BQUB25-UPoch (own work, AlphaFold + PyMOL), 2025-11-15, CC BY 4.0.
-- [Geoffrey E. Hinton, 2024 Nobel Prize Laureate in Physics (3x4 cropped)](<https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped).jpg>) — inline, retrato oficial de Hinton durante la semana Nobel 2024. Photo: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
-- [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — inline, retrato oficial de Hopfield durante la semana Nobel 2024. Photo: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
-- [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — inline, planta Fab 5 de TSMC en Hsinchu, sitio físico de la fundición de chips de IA. Photo: Wikimedia Commons (existing cache).
-
----
+- [Estructura tridimensional de la proteïna CBLN1 per AlphaFold amb codificació rainbow](https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png) — imagen principal, estructura predicha por AlphaFold de la proteína CBLN1, codificación de color rainbow del extremo N al C. Foto: BQUB25-UPoch (obra propia, AlphaFold + PyMOL), 2025-11-15, CC BY 4.0.
+- [Geoffrey E. Hinton, 2024 Nobel Prize Laureate in Physics (3x4 cropped)](<https://commons.wikimedia.org/wiki/File:Geoffrey%5FE.%5FHinton,%5F2024%5FNobel%5FPrize%5FLaureate%5Fin%5FPhysics%5F(3x4%5Fcropped).jpg>) — en el texto, retrato oficial de Hinton durante la semana del Nobel 2024. Foto: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
+- [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — en el texto, retrato oficial de Hopfield durante la semana del Nobel 2024. Foto: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
+- [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — en el texto, planta Fab 5 de TSMC en Hsinchu, lugar físico de fabricación de chips de IA. Foto: Wikimedia Commons (caché existente).
 
 ## Referencias
 
@@ -291,7 +285,7 @@ Este artículo usa 4 imágenes de dominio público / con licencias CC, todas alm
 
 [^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Datos biográficos sobre Jensen Huang: nacido en Taipéi en 1963, infancia en Tainan y emigración a Estados Unidos a los nueve años.
 
-[^4]: Todas las GPU avanzadas de NVIDIA (A100, H100 y serie Blackwell) son fabricadas por TSMC. Véase [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Análisis industrial que cubre la relación de fundición de toda la serie de GPU de IA de NVIDIA.
+[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Todas las GPU avanzadas de NVIDIA (A100, H100 y serie Blackwell) son fabricadas por TSMC. Véase
 
 [^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Fuente del dato de cuota de ingresos del 72% de TSMC en el mercado de fundición de obleas en 2025; véanse también reportes contemporáneos de Motley Fool.
 
@@ -329,11 +323,11 @@ Este artículo usa 4 imágenes de dominio público / con licencias CC, todas alm
 
 [^N2]: [The Nobel Prize in Chemistry 2024 press release](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Anuncio del 9 de octubre de 2024. Premio de 11 millones de coronas suecas: David Baker recibió la mitad “for computational protein design”, y Demis Hassabis y John Jumper compartieron la otra mitad “for protein structure prediction”.
 
-[^N3]: Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities." [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Artículo original de la red de Hopfield, que compara las redes neuronales con sistemas de vidrio de espín y propone el mínimo de energía como equivalente al almacenamiento de memoria. Publicado en abril de 1982.
+[^N3]: [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities."
 
-[^N4]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). "Learning representations by back-propagating errors." [Nature, 323, 533-536](https://www.nature.com/articles/323533a0) — Artículo clásico sobre el algoritmo de retropropagación, trabajo fundacional del método de entrenamiento de redes neuronales.
+[^N4]: [Nature, 323, 533-536](https://www.nature.com/articles/323533a0) — Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). "Learning representations by back-propagating errors."
 
-[^N5]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks." [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Artículo original de AlexNet; tasa de error top-5 de 15,3% en ImageNet ILSVRC-2012 (26,2% para el segundo lugar), punto de inflexión clave para la industrialización del aprendizaje profundo.
+[^N5]: [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
 
 [^N6]: [PanSci 泛科學：2024 諾貝爾物理獎—— Hopfield 與 Hinton 開啟了人工神經網路機器學習時代](https://pansci.asia/archives/378242) — Socio de curaduría de contenidos según MOU 2026-05-05. Cubre el contexto de la red de Hopfield, la analogía con el vidrio de espín, la acumulación de citas del artículo y su vínculo matemático con el aprendizaje profundo contemporáneo.
 
@@ -347,7 +341,7 @@ Este artículo usa 4 imágenes de dominio público / con licencias CC, todas alm
 
 [^N11]: [Wikipedia: Economic history of Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Datos del PIB de Taiwán en 1986; el Parque Científico de Hsinchu fue creado en diciembre de 1980.
 
-[^N12]: Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains." [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Uno de los trabajos premiados con el Nobel de Química de 1972; plantea la hipótesis de que el plegamiento de proteínas está determinado por la secuencia de aminoácidos.
+[^N12]: [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains."
 
 [^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — Reporte de resultados de CASP14 del 30 de noviembre de 2020: AlphaFold 2 obtuvo una mediana GDT de 92,4, y el organizador de CASP John Moult comentó “in some sense the problem is solved”.
 
