@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T12:11:48+08:00",
-    "zhCommitHead": "581a92211",
+    "lastUpdated": "2026-09-08T12:35:05+08:00",
+    "zhCommitHead": "6075c9171",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 772,
-        "stale": 89,
-        "metadata_stale": 26,
+        "fresh": 774,
+        "stale": 88,
+        "metadata_stale": 25,
         "missing": 234,
         "orphan": 0
       },
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 628,
+        "fresh": 629,
         "stale": 43,
-        "metadata_stale": 12,
+        "metadata_stale": 11,
         "missing": 438,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 97,
+        "fresh": 99,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 1016,
+        "missing": 1014,
         "orphan": 0
       }
     },
@@ -2770,18 +2770,16 @@
         "hi": {
           "path": "hi/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187af",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-07-29T07:32:35+08:00",
+          "translatedAt": "2026-09-08T00:42:55+08:00",
           "translationLastCommit": "36ec99d5",
           "translationLastModified": "2026-07-29T08:32:47+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/little-tigers-taiwan-boy-band.md",
@@ -18645,8 +18643,8 @@
           "sourceContentHash": "sha256:85f9d09627902abf",
           "sourceBodyHash": "sha256:c4a7f62bbc68876d",
           "translatedAt": "2026-09-08T02:15:36.194256+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "6075c917",
+          "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "status": "fresh",
@@ -19165,8 +19163,8 @@
           "sourceContentHash": "sha256:15e7aa6f99cf7a84",
           "sourceBodyHash": "sha256:50acff1d4627c3c4",
           "translatedAt": "2026-09-08T04:11:21.254246+00:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "6075c917",
+          "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -19175,18 +19173,16 @@
         "es": {
           "path": "es/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:ea05ddc3465f02eb",
-          "sourceBodyHash": "sha256:c1a908bbd971d40d",
-          "translatedAt": "2026-06-16T16:54:57Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
+          "sourceBodyHash": "sha256:50acff1d4627c3c4",
+          "translatedAt": "2026-09-08T04:15:40.712079+00:00",
           "translationLastCommit": "59ff7e7d",
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/artificial-intelligence-development-strategy.md",
@@ -128560,8 +128556,8 @@
           "sourceContentHash": "sha256:2d40b234aa9d9849",
           "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "6075c917",
+          "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -130965,8 +130961,8 @@
           "sourceContentHash": "sha256:0de597da286e629e",
           "sourceBodyHash": "sha256:9523731d73687bb2",
           "translatedAt": "2026-09-08T02:58:34.214996+00:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "6075c917",
+          "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -132138,7 +132134,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taoyuan-city.md",
+          "translatedFrom": "Geography/桃園市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e1b425fa54b86b70",
+          "sourceBodyHash": "sha256:74aa4f956a297b47",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132773,7 +132780,18 @@
           "diffSummary": "+26 -8"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/hsinchu-city.md",
+          "translatedFrom": "Geography/新竹市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -134554,8 +134572,8 @@
           "sourceContentHash": "sha256:189f50627b664502",
           "sourceBodyHash": "sha256:7144cde6e4cd475f",
           "translatedAt": "2026-09-08T02:50:28.965307+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "6075c917",
+          "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -135836,18 +135854,16 @@
         "es": {
           "path": "es/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-05-18T05:08:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T03:46:08.425573+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/penghu-county.md",
