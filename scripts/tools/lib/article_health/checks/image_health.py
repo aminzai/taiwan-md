@@ -110,6 +110,9 @@ _RE_IMAGE_SOURCES_H2 = re.compile(
     r"|(?i:[^\n]*(?:источники?|кредиты?)[^\n]*(?:изображени[йя]|фотографи[йя]|фото|видео))"
     # ar ── مصادر／حقوق … الصور／الصور الفوتوغرافية
     r"|[^\n]*(?:مصادر|حقوق)[^\n]*(?:الصور|صورة|الفيديو)"
+    # de ── Bildquellen／Bildnachweis／Fotonachweis／Medienquellen（複合詞，
+    # 不像羅曼語系拆成兩個字，所以不能套上面 sources+images 的兩段式樣式）
+    r"|(?i:[^\n]*\b(?:bild|foto|video|medien)(?:quellen?|nachweise?|rechte|credits?)\b)"
     r")[ \t]*$",
     re.MULTILINE,
 )
