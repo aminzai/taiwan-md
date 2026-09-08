@@ -1,111 +1,110 @@
 ---
-title: "Les œufs de fer d'Ah-Po : d'un accident au « Grand Hôtel des Marins » du quai de ferry à la mémoire collective la plus dure de Tamsui"
-description: "En 1983, un article du *Min Sheng Bao* a rendu célèbres du jour au lendemain les œufs braisés noirs du « Grand Hôtel des Marins » de Tamsui. Ce plat « accidentel », durci par le séchage répété au vent marin et les cuissons successives dans la saumure, n'a pas seulement été témoin de l'essor et du déclin du quai de ferry de Tamsui, mais a également laissé, au cœur d'une controverse sur la marque déposée, une énigme historique concernant ses fondatrices : A-Nien-Po et Yang Biyun."
+title: "Les œufs durs de Apo (阿婆鐵蛋) : d'un accident au « Grand Hôtel des Pieds Marins » à la mémoire collective la plus rustique de Tamsui"
+description: "En 1983, un reportage du *Min Sheng Bao* a rendu célèbres les œufs noirs rassis du « Grand Hôtel des Pieds Marins » (海腳大飯店). Cette gourmandise « accidentelle », asséchée par le vent marin et durcie en la faisant mijoter de plus en plus, n'a pas seulement témoigné de l'ascension et de la chute du port de Tamsui, mais a également laissé un dossier historique concernant les fondateurs Apo (阿哖婆) et Yang Bi-yun."
 date: 2026-04-28
+category: 'Food'
 tags:
   [
-    'Alimentation',
+    'Gastronomie',
     'Tamsui',
-    'Œufs de fer',
-    'Cuisine de rue taïwanaise',
-    'Culture alimentaire',
-    "Œufs de fer d'Ah-Po",
-    'Yang Biyun',
-    'Huang Zhangnian',
+    'œufs durs',
+    'snack taïwanais',
+    'culture alimentaire',
+    "œufs durs d'Apo",
+    'Yang Bi-yun',
+    'Huang Zhang',
   ]
 subcategory: '飲食場景'
-author: Taiwan.md
-category: Food
-readingTime: 10
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
+readingTime: 10
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:f215fbcb32524845'
 sourceBodyHash: 'sha256:f4c6330bca417165'
-translatedAt: '2026-05-01T22:19:06+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iron_eggs_in_Tamsui.jpg/800px-Iron_eggs_in_Tamsui.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedAt: '2026-09-08T00:42:50+08:00'
 ---
 
-# Les œufs de fer d'Ah-Po
+# Les œufs durs de Apo (阿婆鐵蛋)
 
-> **En 30 secondes :** Les œufs de fer n'ont pas été inventés — ils ont été « soufflés ». Dans les années 1970, un petit stand de nouilles près du quai de ferry de Tamsui, faute de vendre ses œufs braisés, les a remis dans la marmite encore et encore. Sous l'effet répété du vent marin et des cuissons successives dans la saumure, ces œufs ont rétréci pour devenir durs comme la pierre, noirs comme le fer, avec une texture étonnamment résistante. Cet article vous ramène sur les lieux de ce stand surnommé le « Grand Hôtel des Marins », pour démêler la controverse fondatrice et la persévérance artisanale derrière cette « collation la plus dure de Taïwan », tout en explorant ses principes scientifiques et sa signification culturelle.
+> **Aperçu en 30 secondes :** Les œufs durs n'ont pas été inventés ; ils ont été « soufflés » à l'existence. Dans un petit stand de nouilles du port de Tamsui dans les années 1970, des œufs mijotés qui ne se vendaient pas ont fini par rétrécir sous l'effet du vent marin et d'une remise en cuisson incessante, devenant une spécialité étrange noire comme le fer et très résistante. Cet article vous ramène sur la scène surnommée « Grand Hôtel des Pieds Marins » pour décortiquer les controverses fondatrices de ce « snack taïwanais le plus dur », ainsi que ses principes scientifiques et sa signification culturelle.
 
-Le 24 juillet 1983, la page 12 du _Min Sheng Bao_ publiait un article intitulé « Les œufs de fer de la vieille Ah-Po, durs et délicieux » [^1]. Le journaliste Lin Mingyu y décrivait ces œufs braisés, noirs comme l'ébène et durs comme le fer, garantis pour « aider » tout particulièrement la puissance dentaire. Personne alors n'aurait imaginé qu'un tel article transformerait un anonyme stand de nouilles du quai de ferry de Tamsui en le lieu de pèlerinage de souvenirs le plus célèbre de tout Taïwan.
+Le 24 juillet 1983, l'édition n°12 du _Min Sheng Bao_ a publié un article intitulé « Les œufs durs d'Apo sont obstinément bons » [^1]. Le journaliste Lin Ming-yu décrivait dans cet article ces œufs mijotés, noirs comme de la pierre et durcis comme du fer, garantis pour être particulièrement « bénéfiques » pour les dents. À l'époque, personne ne pouvait imaginer que ce reportage transformerait un petit stand anonyme au port de Tamsui en le lieu de pèlerinage des souvenirs les plus célèbres de tout Taïwan.
 
-## Le porteur au bord des rizières : le point de départ de tout
+## Les porteurs du champ : le point de départ
 
-La naissance des œufs de fer n'avait initialement rien à voir avec la quête du goût — c'était un accident né du « respect des choses », intimement lié aux mutations historiques du port de Tamsui.
+La naissance des œufs durs n'était pas initialement une quête de saveur, mais un accident lié à la « valorisation de rien » (惜物), étroitement liée aux changements historiques du port de Tamsui.
 
-Dans les années 1970, le port de Tamsui perdit progressivement son statut de port commercial important et se transforma en petite ville touristique. À cette époque, Huang Zhangnian (surnommée « A-Nien-Po »), qui tenait un stand de nouilles au bord du quai de ferry, voyait son activité fluctuer. Les jours de pluie, quand les touristes se faisaient rares, les œufs braisés restaient invendus. Plutôt que de les jeter, A-Nien-Po les remettait dans la marmite pour les braiser à nouveau. Le vent puissant de Tamsui séchait les œufs à répétition, tandis que la saumure s'infiltrait toujours plus profondément. L'eau contenue dans les œufs s'évaporait peu à peu, les coquilles rétrécissaient, la couleur s'assombrissait à chaque cuisson, et la texture, autrefois moelleuse, devenait extrêmement résistante [^2].
+Dans les années 1970, le port de Tamsui perdit progressivement son statut de port commercial important pour devenir une petite ville touristique. À cette époque, Huang Zhang (黃張哖), qui tenait un stand de nouilles près du port de Tamsui et était surnommée « Apo » (阿哖婆), avait des ventes irrégulières. Chaque fois qu'il pleuvait et que les touristes étaient rares, si les œufs mijotés ne se vendaient pas, Apo ne pouvait pas les jeter, alors elle les remettait dans la marmite pour les faire mijoter à nouveau. Le vent marin puissant de Tamsui, combiné à l'infiltration continue du jus de cuisson, faisait perdre de l'eau aux œufs ; le corps des œufs rétrécissait, leur couleur devenait plus noire en cuisant, et la texture passait d'un moelleux à une résilience extrême [^2].
 
-Ce petit stand situé au quai de ferry, que les pêcheurs locaux (les _haijiao_, ou « pieds de mer ») surnommaient plaisamment le « Grand Hôtel des Marins », devint le berceau des œufs de fer. Les pêcheurs de l'époque découvrirent que ces œufs noirs et durs, peu engageants visuellement, étaient incroyablement résistants à la mastication — accompagnés de deux bouteires de vin de Shaoxing, ils pouvaient occuper toute une soirée [^3]. C'était à la fois une innovation culinaire et une manifestation concrète de l'esprit d'économie propre au monde portuaire.
+Ce petit stand situé au port, surnommé par les pêcheurs locaux (海腳) « Grand Hôtel des Pieds Marins », devint le lieu d'origine des œufs durs. Les pêcheurs de l'époque remarquèrent que ces œufs noirs et durs, bien que peu esthétiques, étaient extrêmement mâchables et pouvaient tenir jusqu'au crépuscule avec deux bouteilles de Shaoxing [^3]. C'était à la fois une innovation alimentaire et une manifestation concrète de l'esprit d'économie des ports de pêche.
 
-📝 **Note du conservateur :** La dureté des œufs de fer est une empreinte gravée par le vent marin et le temps de Tamsui. Ce n'est pas le résultat d'un calcul précis en cuisine, mais une sagesse de survie née en marge du quotidien — et un reflet fidèle de la transformation de Tamsui, d'un port de pêche en ville touristique.
+📝 **Note du curateur :** La dureté des œufs durs est une marque laissée par le vent marin et le temps de Tamsui ; ce n'est pas un calcul précis de cuisine, mais une sagesse de survie en marge de la vie, un microcosme de la transformation de Tamsui d'un port de pêche en une petite ville touristique.
 
-## Principes scientifiques : réaction de Maillard et dénaturation des protéines
+## Principe scientifique : réaction de Maillard et dénaturation des protéines
 
-Si les œufs de fer présentent une couleur et une texture si singulières, c'est grâce à des transformations chimiques complexes.
+La couleur et la texture uniques des œufs durs sont le résultat de changements chimiques complexes.
 
-Pendant le processus de braisage, les protéines contenues dans les œufs se dénaturent sous l'effet de la chaleur, perdant leur structure d'origine et rendant la texture plus compacte. Simultanément, les sucres de la saumure réagissent avec les protéines lors de la « réaction de Maillard », produisant des composés brunissants complexes qui confèrent aux œufs de fer leur teinte brun-noir profonde et leur arôme riche [^4]. Les cycles répétés de braisage et de séchage concentrent davantage la saveur de l'œuf tout en poursuivant l'évaporation de l'eau, jusqu'à former cette texture résistante caractéristique.
+Pendant la cuisson, les protéines contenues dans les œufs subissent une dénaturation à haute température, perdant leur structure d'origine pour devenir fermes. Simultanément, les sucres et les protéines du jus de cuisson entrent en « réaction de Maillard » (Maillard reaction), produisant des composés de brunissement complexes qui confèrent aux œufs durs leur couleur brun foncé profonde et leur saveur riche [^4]. La remise en cuisson répétée et le séchage au vent concentrent davantage la saveur des œufs, entraînant une perte continue d'eau, aboutissant finalement à leur texture résiliente.
 
-## Tournant : de l'« Origine » à « Ah-Po » — l'affaire de la marque déposée
+## Le tournant : du « prototype » au dossier de marque « Apo »
 
-Avec l'article de Lin Mingyu et les reportages des médias japonais, la renommée des œufs de fer se répandit rapidement. Mais la célébrité apporta avec elle, outre la richesse, une controverse fondatrice qui dura des décennies — révélant le manque de conscience en matière de propriété intellectuelle dans le Taïwan des débuts.
+Avec le reportage de Lin Ming-yu et les entretiens avec les médias japonais, la réputation des œufs durs se répandit rapidement. Cependant, cette renommée n'a pas seulement apporté de la richesse, mais aussi une querelle sur l'origine qui s'est étendue sur plusieurs décennies, ce qui reflète le manque de conscience de la marque à Taïwan au début.
 
-La boutique la plus célèbre de l'artère historique, « Ah-Po Tie Dan » (les Œufs de fer de la vieille Ah-Po), a été fondée par Mme Yang Biyun. Selon son propre récit, dans les années 1980, alors qu'elle tenait un petit-déjeuner, elle oublia par distraction ses œufs trop longtemps dans la saumure et découvrit que ces œufs durs étaient très appréciés de sa clientèle [^5]. Elle voulut d'abord nommer sa marque « Yuan Zu Tie Dan » (les Œufs de fer de l'Origine), mais le terme « Yuan Zu » étant déjà enregistré par un fabricant de _mochi_ (gâteau de riz gluant), elle opta pour « Ah-Po Tie Dan » et déposa la marque en premier [^6].
+Le magasin « Œufs durs d'Apo » (阿婆鐵蛋) le plus connu dans les vieilles rues est fondé par Madame Yang Bi-yun. Selon Yang Bi-yun, lorsqu'elle tenait une boulangerie dans les années 1980, elle découvrit accidentellement que ces œufs durs étaient très appréciés des clients en raison d'une cuisson trop longue due à son empressement [^5]. Elle avait envisagé de nommer sa marque « Œufs durs prototype » (元祖鐵蛋), mais comme le mot « prototype » était déjà enregistré par un fabricant de mochi, elle changea le nom pour « Œufs durs d'Apo » et enregistra la marque en premier [^6].
 
-Cependant, dans la mémoire des anciens habitants de Tamsui, la véritable fondatrice est « A-Nien-Po » Huang Zhangnian. La fille d'A-Nien-Po, Huang Linghong, a déclaré que sa mère produisait des œufs de fer en grande quantité pour les grossistes, et que Yang Biyun était l'une de ces grossistes à l'époque [^7]. Grâce à l'emplacement stratégique de sa boutique, à un carrefour très fréquenté, et à son sens commercial qui lui permit de déposer la marque en premier, « Ah-Po Tie Dan » devint sa marque exclusive. Les descendants d'A-Nien-Po durent finalement créer leur propre enseigne sous le nom de « Hai Bian A-Nien Tie Dan » (Œufs de fer d'A-Nien au bord de la mer) ou « Hai Bian Tie Dan » (Œufs de fer au bord de la mer). Cette « querelle de l'authenticité » est devenue un secret de Polichinelle dans les rues historiques de Tamsui [^8]. Cette controverse sur la marque déposée souligne l'importance de la protection de la propriété intellectuelle aux premiers stades du développement commercial.
+Cependant, dans les souvenirs des habitants de Tamsui, le véritable fondateur est Huang Zhang (黃張哖), « Apo ». La fille d'Apo, Huang Ling-hong, a déclaré que sa mère produisait en grande quantité des œufs durs pour la vente en gros aux commerçants, et Yang Bi-yun était l'un de ces grossistes [^7]. Étant donné que le magasin de Yang Bi-yun se situait à un carrefour fréquenté, et qu'elle possédait une intelligence commerciale qui lui permit d'enregistrer la marque en premier, « Œufs durs d'Apo » devint sa marque exclusive. Les descendants d'Apo ne purent faire qu'ouvrir une autre boutique sous le nom d'« Œufs durs Apo du bord de mer » ou « Œufs durs du bord de mer », et cette « dispute sur l'authenticité » est devenue un secret public dans les vieilles rues de Tamsui [^8]. Cette querelle de marque a mis en lumière l'importance de la protection de la propriété intellectuelle au début du développement commercial.
 
-## L'artisan : sept jours et sept nuits de forge noire
+## L'artisan : sept jours et sept nuits d'ascèse dorée noire
 
-Un œuf de fer digne de ce nom doit passer par le cycle répétitif « braiser — souffler — refroidir » — un dialogue avec le temps et la maîtrise du feu.
+Un œuf dur digne de ce nom doit traverser un cycle complexe de « mijotage, séchage et refroidissement », une conversation avec le temps et le feu.
 
-Selon la méthode traditionnelle, les œufs de fer doivent être braisés chaque jour pendant 3 heures dans une saumure exclusive contenant du cinq-épices, de la sauce soja et du poivre, puis être retirés et séchés au ventilateur électrique. Après refroidissement, ils sont à nouveau braisés le lendemain. Ce processus doit être répété pendant 7 jours pour atteindre le stade où « le jaune est ferme, la peau est fine et la résistance à la mastication est parfaite » [^9]. La recette de la saumure, le contrôle du feu, le degré de séchage — tout met à l'épreuve l'expérience et la patience de l'artisan. À l'origine, les œufs de fer étaient principalement confectionnés avec des œufs de poule, mais pour faciliter la consommation des enfants et des aînés, une version à base de caille (œufs de caille) a été développée par la suite. Ces œufs de caille, plus petits et plus faciles à imprégner de saveur, sont aujourd'hui devenus la norme sur le marché [^10].
+Selon la méthode traditionnelle, les œufs sont mijotés pendant 3 heures dans un jus de cuisson secret contenant des épices, de la sauce soja et du poivre chaque jour, puis retirés pour être séchés au ventilateur électrique, avant d'être remis en cuisson le lendemain après refroidissement. Ce processus doit être répété pendant 7 jours pour atteindre l'état « coquille tendre et résilience parfaite » [^9]. La recette du jus de cuisson, le contrôle de la température et le degré de séchage mettent à l'épreuve l'expérience et la patience de l'artisan. Les œufs durs utilisaient autrefois des œufs de poule, mais pour faciliter la consommation par les enfants et les personnes âgées, une version d'œufs de caille (鳥蛋) a également été développée. Ces œufs de caille, plus petits et plus faciles à digérer, sont aujourd'hui devenus le standard du marché [^10].
 
-📝 **Note du conservateur :** À une époque où l'on privilégie l'efficacité, consacrer sept jours à braiser un seul œuf est en soi une forme de romantisme contre la vitesse — un acte de persévérance envers l'artisanat traditionnel, qui fait de chaque œuf de fer un concenté du poids du temps.
+📝 **Note du curateur :** À l'ère de l'efficacité, prendre sept jours pour mijoter un œuf est en soi un romantisme contre la vitesse, une persistance dans l'artisanat traditionnel, faisant porter à chaque œuf le poids du temps.
 
-## Défis : quand la « dureté » rencontre le « coût » et la transmission de la marque
+## Le défi : quand la « dureté » rencontre le « coût » et la transmission de marque
 
-Aujourd'hui, les boutiques d'œufs de fer se multiplient dans les rues historiques de Tamsui, mais de nombreux gourmets déplorent que « les œufs de fer ne soient plus durs ».
+Aujourd'hui, les vieilles rues de Tamsui regorgent de magasins d'œufs durs, mais beaucoup de gourmets regrettent que « les œufs ne soient plus aussi durs ».
 
-Pour économiser le gaz et réduire le temps de production, certains commerçants ont recours à la sous-traitance ou raccourcir le processus de braisage, ce qui rend les œufs de fer mous et fades, leur faisant perdre l'esprit originel du « dur et délicieux » [^11]. Ce phénomène de _cost down_ met en péril la saveur traditionnelle des œufs de fer. Par ailleurs, le décès de Mme Yang Biyun en 2022, des suites d'un accident vasculaire cérébral, a posé à cette industrie traditionnelle, née avec l'essor du tourisme à Tamsui, un nouveau défi : celui de la transmission de la marque et de la préservation de la qualité [^12]. Trouver un équilibre entre commercialisation et artisanat traditionnel constitue un enjeu majeur pour l'avenir des œufs de fer de Tamsui.
+Pour économiser du gaz et du temps de production, certains commerçants utilisent la sous-traitance ou raccourcissent le processus de mijotage, ce qui rend la texture des œufs moins savoureuse et dénuée de saveur, perdant ainsi l'esprit initial « obstinément bon » [^11]. Ce phénomène de « réduction des coûts » met en danger le goût traditionnel. De plus, avec le décès de Madame Yang Bi-yun par un accident cérébral en 2022, cette industrie traditionnelle, qui a prospéré avec le tourisme de Tamsui, fait face à de nouveaux défis en matière de transmission de marque et de préservation de la qualité [^12]. Trouver un équilibre entre la commercialisation et l'artisanat traditionnel est une tâche importante pour l'avenir des œufs durs de Tamsui.
 
-Les œufs de fer ne sont pas qu'une simple collation : ils portent en eux l'histoire de la transformation de Tamsui, d'un port de pêche en destination touristique, ainsi que l'histoire commerciale de deux fondatrices. Quelle que soit l'attribution de la marque, cet œuf noir rétréci par le vent marin restera toujours la touche la plus résistante de la culture culinaire taïwanaise — et la mémoire commune la plus solide des habitants de Tamsui.
+Les œufs durs ne sont pas seulement un snack ; ils portent l'histoire de la transformation de Tamsui d'un port de pêche en une destination touristique, ainsi que l'histoire commerciale entre deux fondateurs. Peu importe à qui appartient la marque, cet œuf noir rétréci par le vent marin reste une couleur résiliente dans la culture alimentaire de Taïwan, et un souvenir collectif partagé par les habitants de Tamsui.
 
 ---
 
 ## Références
 
-[^1]: [Lin Mingyu, _Da Kuai Duo Yi_ (éditions Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — pages 21-25, inclut l'article original « Les œufs de fer de Tamsui sont vraiment savoureux », _Min Sheng Bao_, 24 juillet 1983, page 12 (ISBN 9789570813722, également disponible sur [FindBook](https://findbook.com.tw/amp/9789570813722))
+[^1]: [Lin Ming-yu, _Da Kuai Duo Yi_ (Éditions Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — p. 21-25, incluant le reportage original « Les œufs durs de Tamsui sont assez savoureux », édition n°12 du _Min Sheng Bao_, 24/07/1983 (ISBN 9789570813722, consultable sur [FindBook](https://findbook.com.tw/amp/9789570813722)).
 
-[^2]: [D'où viennent les œufs de fer d'Ah-Po de Tamsui ? Ces petits « œufs noirs » résistants à la mastication sont en fait un « accident » survenu dans un petit restaurant du quai de ferry à l'époque](https://www.businesstoday.com.tw/article/category/183016/post/202207130042/) — _Business Today_, 13 juillet 2022
+[^2]: [Comment sont arrivés les œufs durs d'Apo de Tamsui ? Ce « petit œuf noir » résistant était un « accident » du stand de nourriture du port à l'époque](https://www.businesstoday.com.tw/article/category/183016/post/202207130042/) — Jin Zhoukan, 13/07/2022.
 
-[^3]: [Lin Mingyu, _Da Kuai Duo Yi_ (éditions Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — inclut le récit de l'origine des œufs de fer de Tamsui et la description de la vie portuaire
+[^3]: [Lin Ming-yu, _Da Kuai Duo Yi_ (Éditions Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Contient le récit de l'origine des œufs durs de Tamsui et la vie du port.
 
-[^4]: [Réaction de Maillard — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%BE%85%E4%BC%AF%E7%89%B9%E6%A3%AE%E5%8F%8D%E6%87%89) — réaction de brunissement non enzymatique entre sucres et acides aminés sous l'effet de la chaleur en chimie alimentaire, décrite pour la première fois par Louis-Camille Maillard en 1912, mécanisme central de la coloration et de la saveur des aliments braisés
+[^4]: [Réaction de Maillard — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%BE%85%E4%BC%AF%E7%89%B9%E6%A3%AE%E5%8F%8D%E6%87%89) — Réaction non enzymatique de brunissement entre les sucres et les acides aminés lors du chauffage, décrite pour la première fois par Louis-Camille Maillard en 1912, mécanisme central de la coloration et de la saveur dans l'alimentation.
 
-[^5]: [Les œufs de fer d'Ah-Po ont été créés en 1980 et ont plus de quarante ans d'histoire](https://newtaipei.travel/zh-tw/shop/detail/206651) — Office du tourisme de la ville de Nouveau Taipei
+[^5]: [Les œufs durs d'Apo ont été fondés en 1980 et ont plus de quarante ans](https://newtaipei.travel/zh-tw/shop/detail/206651) — Site du tourisme de New Taipei City : voir le contenu du lien original.
 
-[^6]: [Œufs de fer](https://zh.wikipedia.org/zh-tw/%E9%90%B5%E8%9B%8B) — Wikipédia
+[^6]: [Œufs durs](https://zh.wikipedia.org/zh-tw/%E9%90%B5%E8%9B%8B) — Wikipédia : article Wikipédia.
 
-[^7]: [Lequel est le vrai « Ah-Po Tie Dan » ?](https://www.mobile01.com/topicdetail.php?f=37&t=2238805) — Discussion sur le forum Mobile01, 5 juillet 2011
+[^7]: [Qui est le vrai « Œuf dur d'Apo » ?](https://www.mobile01.com/topicdetail.php?f=37&t=2238805) — Discussion sur le forum Mobile01, 05/07/2011.
 
-[^8]: [Ce petit stand de nouilles surnommé le « Grand Hôtel des Marins » attirait tous les gourmands pour des concours de mastication](https://www.facebook.com/groups/1720009718276972/posts/2203868496557756/) — Groupe Facebook « Anciennes photos de Tamsui », 23 octobre 2018
+[^8]: [Ce petit stand de nouilles surnommé « Grand Hôtel des Pieds Marins » attirait tous les hommes pour des compétitions de mastication](https://www.facebook.com/groups/1720009718276972/posts/2203868496557756/) — Groupe Facebook « Vieilles photos de Tamsui », 23/10/2018.
 
-[^9]: [Les œufs de fer de Tamsui : d'une légende à une collation culturelle savoureuse](https://www.kukfachi.com/pages/%E6%B7%A1%E6%B0%B4%E9%90%B5%E8%9B%8B%EF%BC%9A%E5%BE%9E%E5%82%B3%E5%A5%87%E5%88%B0%E7%BE%8E%E5%91%B3%E7%9A%84%E6%96%87%E5%8C%96%E5%B0%8F%E5%90%83) — Chronique culturelle alimentaire Kukfachi
+[^9]: [Les œufs durs de Tamsui : d'une légende à une spécialité culturelle délicieuse](https://www.kukfachi.com/pages/%E6%B7%A1%E6%B0%B4%E9%90%B5%E8%9B%8B%EF%BC%9A%E5%BE%9E%E5%82%B3%E5%A5%87%E5%88%B0%E7%BE%8E%E5%91%B3%E7%9A%84%E6%96%87%E5%8C%96%E5%B0%8F%E5%90%83) — Colonne gastronomique Kukfachi.
 
-[^10]: [Décryptage d'une légende des rues historiques de Tamsui : l'histoire des œufs de fer d'Ah-Po — un accident derrière la saveur](https://uptogo.com.tw/%E7%BE%8E%E9%A3%9F/%E9%A3%9F%E5%93%81/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B%E6%AD%B7%E5%8F%B2%EF%BC%9F/) — Uptogo, site touristique, 22 février 2026
+[^10]: [Révélations du mythe des vieilles rues de Tamsui : L'histoire des œufs durs d'Apo ? Une plongée dans l'accident derrière la saveur](https://uptogo.com.tw/%E7%BE%8E%E9%A3%9F/%E9%A3%9F%E5%93%81/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B%E6%AD%B7%E5%8F%B2%EF%BC%9F/) — Site de voyage Uptogo, 22/02/2026.
 
-[^11]: [S'il vous plaît, n'achetez plus les « œufs de fer d'Ah-Po » de Tamsui](http://80itguy.blogspot.com/2010/04/blog-post_29.html) — Blog d'un informaticien de la génération 80, 29 avril 2010
+[^11]: [Ne plus acheter les « Œufs durs d'Apo » de Tamsui](http://80itguy.blogspot.com/2010/04/blog-post_29.html) — Blog IT des 80s, 29/04/2010.
 
-[^12]: [La fondatrice des œufs de fer d'Ah-Po est décédée d'un AVC ! Un médecin révèle 2 signes avant-coureurs : transpiration extrême et déshydratation](https://health.ettoday.net/news/2293316) — _ETtoday_, 13 juillet 2022
+[^12]: [Le fondateur des œufs durs d'Apo est décédé d'un AVC ! Les médecins signalent un danger lié à la « déshydratation par transpiration »](https://health.ettoday.net/news/2293316) — ETtoday News Cloud, 13/07/2022.
 
-## Thèmes connexes
+## Sujets connexes
 
-- [Culture des marchés nocturnes](/fr/food/night-market-culture) — Analyse approfondie du marché nocturne en tant qu'espace social
-- [Cuisine de rue taïwanaise](/fr/food/taiwanese-street-food) — Le courage populaire de la cuisine quotidienne taïwanaise
-- [Le _lu rou fan_ taïwanais](/fr/food/braised-pork-rice) — La mémoire ethnique dans un bol de riz à la viande braisée
-- [Culture culinaire hakka](/fr/food/hakka-food-culture) — La sagesse alimentaire du peuple hakka
+- [Culture des marchés nocturnes](/fr/food/night-market-culture) — Analyse approfondie du marché nocturne en tant que scène sociale.
+- [Snacks taïwanais](/fr/food/taiwanese-street-food) — Le courage populaire de la gastronomie taïwanaise.
+- [Riz au porc mijoté taïwanais](/fr/food/braised-pork-rice) — La mémoire communautaire d'un bol de riz au porc mijoté.
+- [Culture alimentaire Hakka](/fr/food/hakka-food-culture) — La sagesse culinaire du groupe ethnique Hakka.

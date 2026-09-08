@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T07:50:55+08:00",
-    "zhCommitHead": "e44e63012",
+    "lastUpdated": "2026-09-08T08:01:09+08:00",
+    "zhCommitHead": "af5066eb5",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 761,
+        "fresh": 762,
         "stale": 98,
-        "metadata_stale": 30,
+        "metadata_stale": 29,
         "missing": 232,
         "orphan": 0
       },
@@ -36,25 +36,25 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 767,
+        "fresh": 768,
         "stale": 92,
-        "metadata_stale": 31,
+        "metadata_stale": 30,
         "missing": 231,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 762,
+        "fresh": 763,
         "stale": 94,
-        "metadata_stale": 31,
+        "metadata_stale": 30,
         "missing": 234,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 761,
+        "fresh": 762,
         "stale": 96,
-        "metadata_stale": 33,
+        "metadata_stale": 32,
         "missing": 231,
         "orphan": 0
       },
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 622,
-        "stale": 46,
+        "fresh": 623,
+        "stale": 45,
         "metadata_stale": 13,
         "missing": 440,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 687,
+        "fresh": 688,
         "stale": 55,
         "metadata_stale": 17,
-        "missing": 362,
+        "missing": 361,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 719,
+        "fresh": 720,
         "stale": 57,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 328,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 92,
+        "fresh": 93,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1022,
+        "missing": 1021,
         "orphan": 0
       }
     },
@@ -3464,7 +3464,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/bunun-pasibutbut-eight-part-polyphony.md",
+          "translatedFrom": "Music/八部合音.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3c2872e562b3f229",
+          "sourceBodyHash": "sha256:43f231d59e183f8e",
+          "translatedAt": "2026-09-08T00:42:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -29462,18 +29473,16 @@
         "en": {
           "path": "en/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-08-04T12:41:09+08:00",
+          "translatedAt": "2026-09-08T00:42:45+08:00",
           "translationLastCommit": "e9059f94",
           "translationLastModified": "2026-08-04T13:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/fab-dao.md",
@@ -29590,18 +29599,16 @@
         "hi": {
           "path": "hi/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:89e528a23878f600",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T07:41:33.549059+00:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:a569386269241d61",
+          "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
+          "translatedAt": "2026-09-08T00:42:55+08:00",
           "translationLastCommit": "3950a0ff",
           "translationLastModified": "2026-08-04T17:30:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/fab-dao.md",
@@ -29632,7 +29639,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/fab-dao.md",
+          "translatedFrom": "Art/FAB DAO與百岳計畫.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:a569386269241d61",
+          "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -30810,8 +30828,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T00:42:55+08:00",
-          "translationLastCommit": "88510558",
-          "translationLastModified": "2026-07-27T02:48:47+08:00",
+          "translationLastCommit": "af5066eb",
+          "translationLastModified": "2026-09-08T07:50:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39295,8 +39313,8 @@
           "sourceContentHash": "sha256:692645244e391abd",
           "sourceBodyHash": "sha256:28f054608fa81e22",
           "translatedAt": "2026-09-08T00:42:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af5066eb",
+          "translationLastModified": "2026-09-08T07:50:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -62033,18 +62051,16 @@
         "ru": {
           "path": "ru/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
           "translationLastCommit": "379bbc75",
           "translationLastModified": "2026-08-04T15:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -93251,8 +93267,8 @@
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
           "translatedAt": "2026-09-08T00:42:55+08:00",
-          "translationLastCommit": "9e4df1d3",
-          "translationLastModified": "2026-07-25T09:41:06+08:00",
+          "translationLastCommit": "af5066eb",
+          "translationLastModified": "2026-09-08T07:50:55+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -107343,50 +107359,44 @@
         "ko": {
           "path": "ko/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "translatedAt": "2026-09-08T00:42:47+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/ah-po-iron-eggs.md",
           "translatedFrom": "Food/阿婆鐵蛋.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
-          "translatedAt": "2026-05-01T22:19:06+08:00",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/ah-po-iron-eggs.md",
@@ -107441,8 +107451,8 @@
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
           "translatedAt": "2026-09-08T00:42:55+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "af5066eb",
+          "translationLastModified": "2026-09-08T07:50:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
