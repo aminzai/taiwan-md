@@ -30,10 +30,10 @@ imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76a'
-sourceContentHash: 'sha256:7923803a611ee1da'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
-translatedAt: '2026-07-27T05:39:33+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T00:59:32.009858+00:00'
 ---
 
 # Тайвань BIM и строительные технологии: двенадцать лет правительственной политики «рассмотрение каждого случая по отдельности» переписаны протоколом за восемнадцать месяцев
