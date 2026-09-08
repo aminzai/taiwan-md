@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T08:29:56+08:00",
-    "zhCommitHead": "6dc6de660",
+    "lastUpdated": "2026-09-08T08:44:45+08:00",
+    "zhCommitHead": "68877e19a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 766,
         "stale": 93,
-        "metadata_stale": 29,
+        "metadata_stale": 28,
         "missing": 234,
         "orphan": 0
       },
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 620,
-        "stale": 100,
+        "fresh": 621,
+        "stale": 99,
         "metadata_stale": 87,
         "missing": 314,
         "orphan": 0
@@ -76,42 +76,42 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 753,
-        "stale": 79,
+        "fresh": 754,
+        "stale": 78,
         "metadata_stale": 22,
         "missing": 267,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 625,
-        "stale": 44,
+        "fresh": 626,
+        "stale": 43,
         "metadata_stale": 12,
         "missing": 440,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 690,
-        "stale": 54,
+        "fresh": 691,
+        "stale": 53,
         "metadata_stale": 16,
         "missing": 361,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 723,
+        "fresh": 724,
         "stale": 55,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 328,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 94,
+        "fresh": 95,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1020,
+        "missing": 1019,
         "orphan": 0
       }
     },
@@ -3360,8 +3360,8 @@
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "68877e19",
+          "translationLastModified": "2026-09-08T08:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -3370,18 +3370,16 @@
         "es": {
           "path": "es/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -3484,7 +3482,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/bunun-pasibutbut-eight-part-polyphony.md",
+          "translatedFrom": "Music/八部合音.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3c2872e562b3f229",
+          "sourceBodyHash": "sha256:43f231d59e183f8e",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -18733,18 +18742,16 @@
         "ar": {
           "path": "ar/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76a",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-28T17:22:22+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:85f9d09627902abf",
+          "sourceBodyHash": "sha256:c4a7f62bbc68876d",
+          "translatedAt": "2026-09-08T00:33:58.455880+00:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-bim-construction-tech.md",
@@ -29499,8 +29506,8 @@
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "06221369",
-          "translationLastModified": "2026-08-04T13:49:25+08:00",
+          "translationLastCommit": "68877e19",
+          "translationLastModified": "2026-09-08T08:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -30726,8 +30733,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "68877e19",
+          "translationLastModified": "2026-09-08T08:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -62255,8 +62262,8 @@
           "sourceContentHash": "sha256:768855c64ea407af",
           "sourceBodyHash": "sha256:2f867df28cee4278",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "6631c004",
-          "translationLastModified": "2026-08-04T15:27:38+08:00",
+          "translationLastCommit": "68877e19",
+          "translationLastModified": "2026-09-08T08:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -107334,8 +107341,8 @@
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "68877e19",
+          "translationLastModified": "2026-09-08T08:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -117055,8 +117062,8 @@
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
           "translatedAt": "2026-09-08T00:42:47+08:00",
-          "translationLastCommit": "15073a21",
-          "translationLastModified": "2026-07-30T23:35:43+08:00",
+          "translationLastCommit": "68877e19",
+          "translationLastModified": "2026-09-08T08:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -128605,18 +128612,16 @@
         "hi": {
           "path": "hi/Geography/hualien-county.md",
           "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-26T13:23:38+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2d40b234aa9d9849",
+          "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
+          "translatedAt": "2026-09-08T00:37:05.712086+00:00",
           "translationLastCommit": "87f270a5",
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/hualien-county.md",
@@ -135085,18 +135090,16 @@
         "vi": {
           "path": "vi/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "a5490c043",
-          "sourceContentHash": "sha256:244cad849cf26403",
-          "sourceBodyHash": "sha256:fd14be167daa0221",
-          "translatedAt": "2026-07-27T08:02:41+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceBodyHash": "sha256:d9c17350b5714f5f",
+          "translatedAt": "2026-09-08T00:30:47.929754+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -9"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/kaohsiung-city.md",
@@ -135117,18 +135120,16 @@
         "pt": {
           "path": "pt/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "a5490c043",
-          "sourceContentHash": "sha256:244cad849cf26403",
-          "sourceBodyHash": "sha256:fd14be167daa0221",
-          "translatedAt": "2026-07-27T02:56:17+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceBodyHash": "sha256:d9c17350b5714f5f",
+          "translatedAt": "2026-09-08T00:33:25.735908+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -9"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -137730,18 +137731,16 @@
         "ru": {
           "path": "ru/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-27T01:41:55+08:00",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
