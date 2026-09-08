@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T18:57:29+08:00",
-    "zhCommitHead": "422072840",
+    "lastUpdated": "2026-09-08T19:21:51+08:00",
+    "zhCommitHead": "8b24185c6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 788,
         "stale": 82,
         "metadata_stale": 26,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 775,
+        "fresh": 776,
         "stale": 89,
         "metadata_stale": 29,
-        "missing": 228,
+        "missing": 227,
         "orphan": 0
       },
       "vi": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 548,
+        "fresh": 549,
         "stale": 50,
         "metadata_stale": 13,
-        "missing": 510,
+        "missing": 509,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 762,
+        "fresh": 763,
         "stale": 75,
         "metadata_stale": 21,
-        "missing": 263,
+        "missing": 262,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 632,
+        "fresh": 633,
         "stale": 42,
         "metadata_stale": 11,
-        "missing": 436,
+        "missing": 435,
         "orphan": 0
       },
       "ar": {
@@ -31569,15 +31569,26 @@
           "sourceContentHash": "sha256:f4906969467717b0",
           "sourceBodyHash": "sha256:672a8871e0fcfa50",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b24185c",
+          "translationLastModified": "2026-09-08T18:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/national-taichung-theater.md",
@@ -36454,8 +36465,8 @@
           "sourceContentHash": "sha256:103cffd41c084886",
           "sourceBodyHash": "sha256:afbe1eb00070eaa4",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "72229f10",
-          "translationLastModified": "2026-07-28T06:43:14+08:00",
+          "translationLastCommit": "8b24185c",
+          "translationLastModified": "2026-09-08T18:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -79013,8 +79024,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b24185c",
+          "translationLastModified": "2026-09-08T18:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -91860,8 +91871,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b24185c",
+          "translationLastModified": "2026-09-08T18:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -121880,8 +121891,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b24185c",
+          "translationLastModified": "2026-09-08T18:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -121894,7 +121905,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/wu-feng-legend.md",
+          "translatedFrom": "History/吳鳳傳說.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d742f8951718669a",
+          "sourceBodyHash": "sha256:c8f9abbde98738f2",
+          "translatedAt": "2026-09-08T15:54:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -129107,7 +129129,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taoyuan-ponds.md",
@@ -129124,7 +129157,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -129133,7 +129177,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
