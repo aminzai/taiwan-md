@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T21:58:08+08:00",
-    "zhCommitHead": "368766f0c",
+    "lastUpdated": "2026-09-08T22:08:33+08:00",
+    "zhCommitHead": "e5f47e8be",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 91,
         "metadata_stale": 24,
-        "missing": 228,
+        "missing": 227,
         "orphan": 0
       },
       "ja": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 634,
+        "fresh": 635,
         "stale": 42,
         "metadata_stale": 11,
-        "missing": 434,
+        "missing": 433,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 739,
+        "fresh": 740,
         "stale": 45,
         "metadata_stale": 14,
-        "missing": 323,
+        "missing": 322,
         "orphan": 0
       },
       "de": {
@@ -39328,7 +39328,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -47713,8 +47724,8 @@
           "sourceContentHash": "sha256:a1c5d1e234e46093",
           "sourceBodyHash": "sha256:b982084e2fb1e6c4",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5f47e8b",
+          "translationLastModified": "2026-09-08T21:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -87850,8 +87861,8 @@
           "sourceContentHash": "sha256:3f102f565e503ad8",
           "sourceBodyHash": "sha256:b14c332dbd93a4eb",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5f47e8b",
+          "translationLastModified": "2026-09-08T21:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -117452,7 +117463,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/military-dependents-village-cuisine.md",
+          "translatedFrom": "Food/台灣眷村菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:065bf6354c8e6e97",
+          "sourceBodyHash": "sha256:c6f4891abde841e9",
+          "translatedAt": "2026-09-08T15:54:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/military-dependents-village-cuisine.md",
@@ -140829,7 +140851,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-08T15:54:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -142380,8 +142413,8 @@
           "sourceContentHash": "sha256:810c670a0d955eec",
           "sourceBodyHash": "sha256:772e1869525f702d",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5f47e8b",
+          "translationLastModified": "2026-09-08T21:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -147315,8 +147348,8 @@
           "sourceContentHash": "sha256:76f9feb9b62dd8a1",
           "sourceBodyHash": "sha256:b0016f60e7fc31e0",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5f47e8b",
+          "translationLastModified": "2026-09-08T21:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
