@@ -2,9 +2,7 @@
 title: 'Mini Taiwan Pulse: Menggambar Taiwan sebagai Peta yang Bernapas dengan Mata Seorang Kurator'
 description: 'Pada 2026, analis data Migu menumpuk data terbuka Taiwan yang tersebar—pesawat, kapal, kereta api, bus, dan truk sampah—menjadi sebuah peta yang bernapas. Kerja berat mengambil data diserahkan kepada AI, tetapi keputusan mengenai lapisan mana yang dipadukan, warna apa yang digunakan, dan lapisan mana yang ditonjolkan bergantung pada mata kuratorial yang terlatih melalui perencanaan kota.'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '公民科技'
 tags:
   [
     'Teknologi',
@@ -18,17 +16,27 @@ tags:
     'AI Agent',
     'GIS',
   ]
-readingTime: 20
+subcategory: '公民科技'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: true
-featured: false
-translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'da22dc5b'
-sourceContentHash: 'sha256:b4fa10553d998dfa'
-sourceBodyHash: 'sha256:6475e91be41d93b4'
-translatedAt: '2026-07-18T18:59:53+08:00'
+readingTime: 20
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
+relatedDiary: ['2026-06-25-203919-manual-mirror']
+sporeLinks:
+  [
+    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
+    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
+  ]
+translatedFrom: 'Technology/mini-taiwan-pulse.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:7704f0ba39f9bad2'
+sourceBodyHash: 'sha256:953746868edc36a0'
+translatedAt: '2026-09-08T03:50:08.638096+00:00'
 ---
 
 # Mini Taiwan Pulse: Menggambar Taiwan sebagai Peta yang Bernapas dengan Mata Seorang Kurator

@@ -28,15 +28,15 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/雲林縣.md'
 series: '22 縣市系列'
-image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg'
-imageCredit: 'Mk2010'
+image: '/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp'
+imageCredit: 'Mk2010 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg'
 translatedFrom: 'Geography/雲林縣.md'
-sourceCommitSha: '036da279d'
-sourceContentHash: 'sha256:68dcc74d52d8c737'
-sourceBodyHash: 'sha256:24b0d8d16f592539'
-translatedAt: '2026-08-03T03:16:07+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:189f50627b664502'
+sourceBodyHash: 'sha256:7144cde6e4cd475f'
+translatedAt: '2026-09-08T01:54:50.411680+00:00'
 ---
 
 # Kabupaten Yunlin: Apa yang Yilan Tolak, Yunlin Bayar dengan Tiga Puluh Tahun Paru-parunya
@@ -55,22 +55,22 @@ Masuk ke pedalaman 35 kilometer, ke Kuil Chaotian Beigang. Pagi yang sama, pengu
 
 Artikel ini ingin mulai dari garis pantai ini. Karena di pemandangan ini tersembunyi dua momen kunci Yunlin: satu membuat Dataran Lanyang tidak jadi kawasan industri petrokimia, satu lagi membuat lepas pantai Mailiao jadi kerajaan petrokimia terbesar Taiwan. Dua momen fisik terpisah 200 kilometer, waktu terpisah 4 tahun, tapi hubungan sebab-akibatnya cuma satu.
 
-## Tiga Kipas Aluvial Tambah Satu Lahan Buatan: Geografi Yunlin Ditulis Air dan Modal Bersama
+## Tiga Dataran Aluvial Ditambah Satu Lahan Buatan: Geografi Yunlin Dibentuk oleh Air dan Modal
 
-Kabupaten Yunlin terjepit ujung utara Dataran Chianan dan ujung selatan Dataran Changhua. Utara Sungai Zhuoshui, selatan Sungai Beigang, 1.290,83 kilometer persegi di antara dua sungai itulah kabupaten ini[^7].
+Kabupaten Yunlin terletak di antara utara dataran Jia-Nan dan selatan dataran Changhua. Di sebelah utara adalah Sungai Zhuo, dan di sebelah selatan adalah Sungai Beigang; area seluas 1.290,83 kilometer persegi di antara kedua sungai ini adalah kabupaten tersebut[^7].
 
-Topografi tiga bagian:
+Topografinya terbagi menjadi tiga bagian:
 
-Kipas aluvial Sungai Zhuoshui membentang dari timur ke barat, Douliu, Dounan, Huwei, Xiluo, Lunbei, Mailiao turun ke pantai, lapisan tanah hitam tebal, kaya mineral. Tanah ini era pendudukan Jepang dikonfirmasi sebagai paling cocok produksi beras Ponlai, 1932 (Showa ke-7) wilayah Xiluo Yunlin produksi beras Ponlai tahunan sudah jadi salah satu lumbung utama Taiwan[^9]. Kipas aluvial Sungai Beigang dari Beigang ke Shuilin, Yuanchang, Kouhu, tanah liat pasir lebih tipis, tradisional tanam kacang tanah dan biji-bijian[^7]. Lagi timur ke Gukeng, Linnei, ketinggian 200-800 meter bukit, iklim sejuk, era 1930-an pendudukan Jepang pilih sebagai daerah tanam kopi[^10].
+Dataran aluvial Sungai Zhuo membentang dari timur ke barat, melalui Douliu, Dounan, Hupo, Xiluo, Lunbei, dan Mailiao. Lapisan tanah liat tebal dan kaya mineral. Area ini adalah zona produksi optimal beras Penglai yang dikonfirmasi oleh percobaan pertanian era pendudukan Jepang; pada tahun 1932 (Tahun ke-7 Showa), hasil panen beras Penglai di sekitar Xiluo, Yunlin sudah termasuk lumbung padi utama di seluruh Taiwan[^9]. Dataran aluvial Sungai Beigang membentang dari Beigang menuju Shuilin, Yuanzhang, dan Kouhu. Tanah lempung berpasir cenderung lebih tipis, cocok untuk menanam kacang tanah dan sereal biasa[^7]. Lebih jauh ke timur, hingga GuKeng dan Linnei, terdapat daerah perbukitan dengan ketinggian 200 hingga 800 meter di atas permukaan laut; iklimnya sejuk, menjadikannya lokasi yang dipilih oleh pendudukan Jepang untuk pengembangan kopi pada tahun 1930-an[^10].
 
-Bagian keempat buatan. Lepas pantai Mailiao dari 1991 mulai penimbunan lautan, sampai 1998 tahap pertama jadi, lahan baru sekitar 2.255 hektar; kalau ikut fasilitas pelabuhan, total 2.603 hektar[^5]. ⚠️ Tahap 0 tulis "3.400 hektar" tidak ketemu sumber andal, Pemkab Yunlin dan Formosa Plastics data publik keduanya pakai 2.255 / 2.603 dua angka berdampingan, koreksi ini penting karena tiga puluh tahun lalu laut ini tidak ada.
+Bagian keempat adalah buatan manusia. Teluk Mailiao mulai reklamasi sejak tahun 1991, dan tahap pertama selesai pada tahun 1998, menghasilkan lahan seluas sekitar 2.255 hektar; jika termasuk fasilitas pelabuhan, total luasnya mencapai 2.603 hektar[^5].⚠️ Klaim "3.400 hektar" yang tertulis di Tahap 0 tidak memiliki sumber yang dapat dipercaya. Pemerintah Kabupaten Yunlin dan data publik Formosa Plastics secara konsisten mencantumkan dua angka: 2.255 / 2.603, dan koreksi ini sangat penting karena lautan itu tidak ada tiga puluh tahun lalu.
 
-Administratif 20 kecamatan/kota: 1 kota kabupaten (Douliu) tambah 4 kota (Dounan, Huwei, Xiluo, Beigang) tambah 15 kecamatan. Ibu kota di Douliu, kota paling padat Huwei, total penduduk 648.459 jiwa (statistik kependudukan April 2026)[^7].
+Secara administratif terdapat 20 kota/distrik: 1 kota di bawah yurisdiksi kabupaten (Douliu) ditambah 4 distrik (Dounan, Hupo, Xiluo, Beigang) dan 15 desa. Ibu kota kabupaten berada di Douliu, sementara distrik dengan populasi terbanyak adalah Hupo, dengan total populasi 648.459 jiwa (statistik rumah tangga April 2026)[^7].
 
-Musim dingin pesisir barat perlu dibahas khusus. Setiap tahun November sampai Maret tahun depan, monsun timur laut dari Selat Taiwan bertiup, pesisir barat Yunlin muncul cuaca bergantian "kabut tebal angin kencang" khas. Mailiao, Taixi, Kouhu visibilitas sering turun di bawah 500 meter, ini musim penyebaran limbah Enam Ringan paling buruk, juga musim beban paru-parah paling berat[^11]. Distribusi hujan, pesisir barat curah hujan tahunan sekitar 1.200 mm cenderung kurang, bukit timur bisa mencapai 2.500 mm ke atas, selisih ini bikin struktur pertanian Yunlin dari timur ke barat beda total.
+Pantangan khusus harus diberikan pada garis pantai barat selama musim dingin. Setiap tahun dari November hingga Maret, angin monsun timur laut bertiup melintasi Selat Taiwan, menyebabkan kondisi cuaca khas "kabut tebal dan angin kencang" di barat Yunlin. Visibilitas di sekitar Mailiao, Taixi, dan Kouhu sering turun di bawah 500 meter; ini adalah musim dengan dispersi emisi dari Enam Ringan yang paling buruk, sekaligus musim dengan beban paru-paru terberat[^11]. Dalam distribusi curah hujan, garis pantai barat memiliki curah hujan tahunan sekitar 1.200 mm yang cenderung kurang, sementara perbukitan timur dapat mencapai lebih dari 2.500 mm; perbedaan ini membuat struktur pertanian Yunlin sangat berbeda dari timur ke barat.
 
-![Kawasan Enam Ringan Mailiao, foto 2010. 1991 Yuan Zhengyuan tetapkan, 1994 mulai dibangun, 1998 tahap pertama operasi, penimbunan lautan 2.255 hektar.](https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg)
-_Kawasan Industri Enam Ringan Mailiao, 2010. Photo: Mk2010, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
+![Kompleks Pabrik Mailiao Enam Ringan, foto tahun 2010. Reklamasi disetujui oleh Yuan Legislatif pada tahun 1991, konstruksi dimulai pada tahun 1994, dan tahap pertama beroperasi pada tahun 1998, luas reklamasi 2.255 hektar.](/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp)
+_Area Industri Mailiao Enam Ringan, 2010. Foto: Mk2010 / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg).\_
 
 ## Akar Bengang: Mazu dari Meizhou Menyeberang Laut Tahun Itu
 
@@ -242,12 +242,12 @@ Kali berikut ke Yunlin, jangan cuma ke Gukeng minum kopi. Coba jam 5.30 pagi ke 
 
 ## Sumber Gambar
 
-Artikel ini pakai 4 gambar Wikimedia Commons lisensi CC:
+Artikel ini menggunakan 4 gambar berlisensi CC dari Wikimedia Commons, dan gambar utama (hero) di-cache pada `public/article-images/geography/` untuk menghindari tautan langsung ke server sumber:
 
-- **Hero (frontmatter)**: [Formosa Plastics Group Mail-Liao Industrial Complex](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>)（Mk2010，[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)，Kawasan Industri Enam Ringan Mailiao）
-- **Scene §1694 Tahun Bengang**: [Beigang Chaotian Temple-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg)（阿道，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，Kuil Chaotian Beigang September 2024）
-- **Scene §1909 Tahun Cerobong Pertama**: [Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg)（WC-QHS，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，Pabrik Gula Huwei 2018）
-- **Scene §1953 Tahun 28 Januari**: [Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg)（JianEn Yu，[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)，Jembatan Xiluo Agustus 2014）
+- **Hero (frontmatter)**: [Kompleks Industri Formosa Plastics Group Mail-Liao](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg>) (Mk2010, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), Kawasan Industri Mailiao Beigang)
+- **Adegan §1694 di Beigang**: [Kuil Chaotian Beigang-01](https://commons.wikimedia.org/wiki/File:Beigang_Chaotian_Temple-01.2024-09-18.jpg) (Adao, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Kuil Chaotian Beigang September 2024)
+- **Adegan §1909 Cerobong Asap Pertama**: [Scene in Huwei Sugar Factory 05](https://commons.wikimedia.org/wiki/File:Scene_in_Huwei_Sugar_Factory_05.jpg) (WC-QHS, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Pabrik Gula Huwei 2018)
+- **Adegan §1953 Tanggal 28 Januari**: [Xiluo Bridge at noon on 2 August 2014](https://commons.wikimedia.org/wiki/File:Xiluo_Bridge_at_noon_on_2_August_2014.jpg) (JianEn Yu, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), Jembatan Xiluo Agustus 2014)
 
 ## Materi Video
 
