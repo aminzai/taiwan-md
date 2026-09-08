@@ -1,113 +1,116 @@
 ---
-title: 'Perpetuum Mobile Donasi: FAB DAO dan Eksperimen Sosial Proyek Seratus Puncak'
-description: 'Seorang mantan dokter bagaimana menggunakan bendera bola tenis, membuka imajinasi baru tentang filantropi Web3 di Taiwan. FAB DAO dan Proyek Seratus Puncak mendefinisikan ulang esensi donasi: mengoleksi berarti berdonasi, seni berarti aksi sosial.'
+title: 'दान का स्थायी प्रेरक: FAB DAO और बाइए-य्वे प्रोजेक्ट का सामाजिक प्रयोग'
+description: "एक छोड़े गए चिकित्सक ने कैसे एक 'दबाव गेंद झंडा' का उपयोग करके ताइवान के Web3 परोपकार की एक नई कल्पना शुरू की। FAB DAO और बाइए-य्वे प्रोजेक्ट ने दान की प्रकृति को फिर से परिभाषित किया: संग्रह ही दान है, कला ही सामाजिक कार्रवाई है।"
 date: 2026-03-24
 category: 'Art'
 tags:
   [
     'NFT',
-    'Seni Blockchain',
-    'Inovasi Sosial',
-    'Filantropi',
-    'Seni Generatif',
-    'Seratus Puncak Taiwan',
-    'Seni Digital',
+    'ब्लॉकचेन कला',
+    'सामाजिक नवाचार',
+    'परोपकार',
+    'जनरेटिव कला',
+    'ताइवान बाइए-य्वे',
+    'डिजिटल कला',
   ]
 subcategory: 'digital-art'
-author: 'taiwan.md'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:89e528a23878f600'
-translatedAt: '2026-08-04T07:43:47.570851+00:00'
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:a569386269241d61'
+sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
+translatedAt: '2026-09-08T15:54:46+08:00'
 ---
 
-# Mesin Gerak Abadi Donasi: FAB DAO dan Eksperimen Sosial Proyek Seribu Gunung
+# दान का स्थायी प्रेरक: FAB DAO और बाइए-य्वे प्रोजेक्ट का सामाजिक प्रयोग
 
-## Titik Awal Revolusi Sebuah Bendera
+## एक झंडे की क्रांति की शुरुआत
 
-Saat Huang Dou-ni meletakkan stetoskopnya, tidak ada yang menduga dokter yang mundur itu akan menggunakan sebuah "bendera nasional bergaris jahitan" menulis ulang aturan main filantropi Taiwan. Karya meme yang tampak sederhana ini menjadi salah satu pemandangan simbol paling umum di Taiwan, dan yang lebih penting, ia membuka pertanyaan baru sepenuhnya: jika donasi bisa menjadi barang koleksi, jika filantropi bisa berubah menjadi mesin gerak abadi, apakah pemahaman kita tentang "memberikan" perlu direkonstruksi secara fundamental?
+जब हुआंगDouNi (黃豆泥) ने स्टेथोस्कोप नीचे रखा, तो किसी को यह अंदाजा नहीं था कि इस सेवानिवृत्त चिकित्सक ने कैसे एक "दबाव गेंद झंडा" का उपयोग करके ताइवान के परोपकार के खेल के नियमों को फिर से लिखा। यह साधारण मीम कलाकृति ताइवान के सबसे सामान्य प्रतीकात्मक दृश्यों में से एक बन गई, और इससे भी महत्वपूर्ण बात यह है कि इसने एक बिल्कुल नई समस्या को जन्म दिया: यदि दान एक संग्रहणीय वस्तु हो सकता है, यदि परोपकार एक स्थायी प्रेरक बन सकता है, तो क्या हमें "देने" की अपनी समझ को पूरी तरह से पुनर्गठित करने की आवश्यकता है?
 
-2022, saat gelembung NFT hancur berantakan, Huang Dou-ni bersama seniman media baru yang menetap di New York, Wu Che-yu, bersama-sama mendirikan FAB DAO (Formosa Art Bank DAO, Bank Seni Formosa). Nama ini sendiri adalah sebuah manifest: yang ingin ia jadi adalah bank, juga institusi seni, dan lebih jauh lagi, sebuah ruang eksperimen sosial.
+2022 में, जब NFT बुलबुला फटने वाला था, हुआंगDouNi और न्यूयॉर्क में रहने वाले मीडिया कलाकार वू ज़ेयू (吳哲宇) ने मिलकर FAB DAO (Formosa Art Bank DAO, फ़ॉर्मोसा आर्ट बैंक) की स्थापना की। यह नाम अपने आप में एक घोषणा है: यह एक बैंक भी बनना चाहता है, एक कला संस्थान भी बनना चाहता है, और एक सामाजिक प्रयोग स्थल भी बनना चाहता है।
 
-## Mendefinisikan Ulang Lapisan Layanan Publik
+## सार्वजनिक सेवा परत को फिर से परिभाषित करना
 
-Inti filosofi FAB DAO dapat dirangkum dalam satu kalimat: 「捐款即收藏」。Dalam model amal tradisional, donasi adalah tindakan konsumsi sekali pakai; uang yang keluar tidak akan kembali. Namun dalam desain FAB DAO, yang diterima donatur bukanlah surat ucapan terima kasih, melainkan sebuah NFT yang dapat diperdagangkan dan memiliki nilai seni. Apa artinya? Artinya amal kini memiliki kemungkinan 「永動機」。
+FAB DAO का मूल सिद्धांत एक वाक्य में संक्षेपित किया जा सकता है: "दान ही संग्रह है।" पारंपरिक परोपकार मॉडल में, दान एक बार की उपभोग क्रिया होती है; पैसा खर्च हो जाता है और वापस नहीं आता। लेकिन FAB DAO के डिजाइन में, दाता को धन्यवाद पत्र नहीं मिलता, बल्कि एक ऐसा NFT मिलता है जिसे खरीदा और बेचा जा सकता है और जिसका कलात्मक मूल्य होता है। इसका क्या मतलब है? इसका मतलब है कि परोपकार को अब "स्थायी प्रेरक" बनने की संभावना मिल गई है।
 
-Saat Anda membeli sebuah NPO-NFT, Anda sekaligus menyelesaikan tiga tindakan: mendukung organisasi amal, mengoleksi karya seni, dan berpartisipasi dalam sebuah eksperimen sosial terdesentralisasi. Lebih penting lagi, jika NFT ini naik nilainya di masa depan, Anda dapat memilih untuk menjualnya kembali, sehingga dana terus mengalir ke tujuan amal. Inilah logika inti dari 「捐款永動機」。
+जब आप एक NPO-NFT खरीदते हैं, तो आप तीन कार्य एक साथ पूरा करते हैं: आप एक गैर-लाभकारी संगठन का समर्थन करते हैं, आप एक कलाकृति एकत्र करते हैं, और आप एक विकेन्द्रीकृत सामाजिक प्रयोग में भाग लेते हैं। इससे भी महत्वपूर्ण बात यह है कि यदि यह NFT भविष्य में मूल्यवान हो जाता है, तो आप इसे पुनर्विक्रय करने का विकल्प चुन सकते हैं, जिससे धन परोपकारी उपयोग के लिए प्रवाहित होता रहे। यही "दान की स्थायी प्रेरणा" का मूल तर्क है।
 
-FAB DAO memposisikan dirinya sebagai 「Web3 公共服務層」， membantu organisasi nirlaba, seniman, dan institusi budaya melampaui ambang teknologi. Ia telah berhasil membantu komunitas seni、Lushan Jiaoyang Yuan、pelestarian hewan、organisasi isu keadilan transisional、dan lain-lain menerbitkan NPO-NFT, semuanya terjual habis. Di balik tingkat keberhasilan ini, terdapat pemahaman mendalam tentang ketahanan masyarakat sipil Taiwan.
+FAB DAO खुद को "Web3 सार्वजनिक सेवा परत" के रूप में स्थापित करता है, जो गैर-लाभकारी संस्थाओं, कलाकारों और सांस्कृतिक संस्थानों को तकनीकी बाधाओं को पार करने में मदद करता है। इसने सफलतापूर्वक कला समुदाय, लेशान केयर होम (樂山教養院), पशु संरक्षण, और संक्रमण न्याय जैसे मुद्दों वाले संगठनों को NPO-NFT जारी करने में सहायता की है, और ये सभी बिक चुके हैं। इस सफलता दर के पीछे ताइवान के नागरिक समाज की लचीलेपन की गहरी समझ है।
 
-## Ambisi Artistik Proyek 100 Puncak
+## बाइए-य्वे प्रोजेक्ट की कलात्मक महत्वाकांक्षा
 
-Jika FAB DAO adalah manifestasi ide, maka "Proyek 100 Puncak Project %" adalah praktik paling ambisius dari ide tersebut. 10.101 NFT seni generatif, dibagi menjadi tiga seri: %-Wanluan (10.000 unit, 0,025 ETH), %-Baiyue (100 unit, 10 ETH), serta satu-satunya %-Yixian (tidak dijual).
+यदि FAB DAO एक वैचारिक घोषणा थी, तो "बाइए-य्वे प्रोजेक्ट Project %" उस विचार का सबसे महत्त्वाकांक्षी कार्यान्वयन था। 10,101 जनरेटिव आर्ट NFT को तीन श्रृंखलाओं में विभाजित किया गया है: %-वान्लुआन (Wanluan) (10,000 पीस, 0.025 ETH), %-बाइए-य्वे (Baiyue) (100 पीस, 10 ETH), और अद्वितीय %-एकलाइन (Yixian) (गैर-बिक्री)।
 
-「Seratus gunung bangkit ke atas, menjadi sebuah pulau; seratus orang melangkah maju, menuliskan satu musim peradaban」——inilah manifestasi puitis Proyek 100 Puncak. Setiap NFT adalah karya generatif kode yang unik, bertema 100 Puncak Taiwan, mengandung visi kreatif enam seniman.
+"सौ पहाड़ ऊपर उठते हैं, एक द्वीप बन जाते हैं; सौ लोग आगे बढ़ते हैं, एक युग की सभ्यता लिखते हैं"—यह बाइए-य्वे प्रोजेक्ट का काव्यात्मक उद्घोष है। प्रत्येक NFT एक अनूठा कोड जनरेटेड कार्य है, जो ताइवान के बाइए-य्वे (Baiyue) को विषय बनाता है और छह कलाकारों की रचनात्मक अवधारणाओं को समाहित करता है।
 
-Keenam seniman ini mewakili berbagai sisi seni generatif Taiwan: Wu Che-yu (Pulau) adalah seniman internasional di platform Artblocks; Lin Yi-wen (Vegetasi) adalah pendiri bersama Fxhash; Wang Hsin-jen / A-luan (Puncak) menciptakan karya seni generatif Taiwan pertama yang masuk Artblocks; Wang Lien-cheng (Peradaban) adalah pemenghargaan Lumen Prize; Lin Ching-yao (Wilayah Terpencil) adalah mantan direktur C-LAB; Huang Hsin (Inklusi) adalah pemegang rekor penghargaan AR/VR Facebook.
+ये छह कलाकार ताइवान जनरेटिव कला के विभिन्न पहलुओं का प्रतिनिधित्व करते हैं: वू ज़ेयू (द्वीप) Artblocks प्लेटफॉर्म पर एक अंतरराष्ट्रीय स्तर के कलाकार हैं; लिन यी-वेन (वनस्पति) Fxhash के सह-रचनाकार हैं; वांग शिनरेन/आलुआन (शिखर) ने आर्टब्लॉक्स पर प्रदर्शित होने वाली पहली ताइवान जनरेटिव कलाकृति बनाई; वांग लियन-शेंग (सभ्यता) एक ल्यूमिन पुरस्कार विजेता हैं; लिन चिंग-याओ (रहस्यमय क्षेत्र) पूर्व C-LAB निदेशक हैं; और हुआंग शिन (समावेश) फेसबुक AR/VR पुरस्कारों के रिकॉर्ड धारक हैं।
 
-Susunan tim seperti ini bukan kebetulan. Ini mencerminkan wajah lengkap ekosistem seni generatif Taiwan: dari platform internasional ke eksperimen lokal, dari penelitian akademis ke aplikasi komersial, dari inovasi teknologi ke praktik sosial. Ambisi Proyek 100 Puncak adalah mengubah energi ekosistem ini, melalui teknologi blockchain, menjadi daya gerak kebajikan yang berkelanjutan.
+इस तरह की टीम का गठन कोई संयोग नहीं है। यह ताइवान जनरेटिव कला पारिस्थितिकी तंत्र की संपूर्ण तस्वीर को दर्शाता है: अंतरराष्ट्रीय मंच से लेकर स्थानीय प्रयोग तक, अकादमिक अनुसंधान से लेकर वाणिज्यिक अनुप्रयोग तक, तकनीकी नवाचार से लेकर सामाजिक अभ्यास तक। बाइए-य्वे प्रोजेक्ट की महत्वाकांक्षा इस पारिस्थितिकी तंत्र की ऊर्जा को ब्लॉकचेन तकनीक के माध्यम से टिकाऊ परोपकारी गति में बदलना है।
 
-## Desain Cerdas Alokasi Dana
+## धन प्रवाह का सूक्ष्म डिजाइन
 
-Alokasi dana Proyek 100 Puncak menunjukkan pemikiran desain sosial yang presisi: 20% untuk biaya awal, 10% untuk honorarium seniman, 10% membantu proyek NPO-NFT lain, 20–45% sebagai dana pembelian publik, 10–15% diinvestasikan ke pengembangan teknis DAO.
+बाइए-य्वे प्रोजेक्ट का धन आवंटन एक परिष्कृत सामाजिक डिजाइन सोच को प्रदर्शित करता है: 20% प्रारंभिक लागत के लिए, 10% कलाकारों की फीस के रूप में, 10% अन्य NPO-NFT परियोजनाओं में सहायता के लिए, 20-45% सार्वजनिक सदस्यता निधि के रूप में, और 10-15% DAO के तकनीकी विकास में निवेश किया गया।
 
-Logika alokasi ini mengandung pergeseran paradigma penting: karya seni beralih dari ekspresi individu ke aksi kolektif, dari penjualan karya ke investasi sosial. Saat Anda mengoleksi satu NFT 100 Puncak, yang Anda beli bukan sekadar karya seni, melainkan saham dalam visi sosial.
+इस तरह का वितरण तर्क एक महत्वपूर्ण वैचारिक बदलाव को समाहित करता है: कलात्मक रचना व्यक्तिगत अभिव्यक्ति से सामूहिक कार्रवाई में बदल गई है, और यह कार्य बिक्री से सामाजिक निवेश में बदल गई है। जब आप एक बाइए-य्वे NFT खरीदते हैं, तो आप केवल एक कलाकृति नहीं खरीद रहे होते हैं, बल्कि एक सामाजिक दृष्टि में हिस्सेदारी खरीद रहे होते हैं।
 
-Lebih menarik lagi, mengoleksi lebih dari satu NFT 100 Puncak akan memicu efek easter egg visual yang terhubung. Desain teknis yang tampak sederhana ini sebenarnya menguji kedalaman keterlibatan kolektor. Pertanyaannya: apakah Anda spekulan yang lewat, atau partisipan jangka panjang yang setuju dengan eksperimen ini?
+अधिक दिलचस्प बात यह है कि एक से अधिक बाइए-य्वे NFT एकत्र करने पर दृश्य इंटरकनेक्टेड अंडे का खोल प्रभाव (visual linked egg effect) उत्पन्न होता है। यह साधारण तकनीकी डिजाइन वास्तव में संग्राहकों की भागीदारी की गहराई का परीक्षण कर रहा है। यह पूछता है: क्या आप राहगीर सट्टेबाज हैं, या इस प्रयोग के दीर्घकालिक भागीदार हैं?
 
-## Pengakuan Internasional Linz
+## लिनज़ की अंतर्राष्ट्रीय मान्यता
 
-Tahun 2022, Proyek Baiyue hadir di Festival Ars Electronica Linz (Ars Electronica Festival), pesta seni media paling berpengaruh di dunia. Institut Strategi Budaya Taiwan dan Ars Electronica Center bersama-sama menggelar pameran khusus Taiwan, menampilkan ke dunia kontribusi unik Taiwan di bidang inovasi sosial Web3.
+2022 में, बाइए-य्वे प्रोजेक्ट लिनज़ इलेक्ट्रॉनिक कला महोत्सव (Ars Electronica Festival) में गया, जो वैश्विक रूप से सबसे प्रभावशाली मीडिया कला समारोह है। सांस्कृतिक और शैक्षिक संस्थान (文策院) और लिनज़ इलेक्ट्रॉनिक कला केंद्र ने मिलकर एक ताइवान विशेष प्रदर्शन का निर्माण किया, जिसने Web3 सामाजिक नवाचार के क्षेत्र में ताइवान के अद्वितीय योगदान को अंतरराष्ट्रीय स्तर पर प्रदर्शित किया।
 
-Penilaian kurator Linz cukup bermakna: mereka menyebut Proyek Baiyue sebagai "rencana aksi sosial dari masa depan". Fokus penilaian ini bukan pada keunggulan teknis, melainkan pada inovasi model sosial. Seperti yang diamati oleh Huang Tou-ni, Linz sengaja menjauhkan diri dari hype spekulasi modal NFT, namun sangat menghargai makna sosial NFT.
+लिनज़ क्यूरेटरों की टिप्पणी काफी गहरी थी: उन्होंने बाइए-य्वे प्रोजेक्ट को "भविष्य से आने वाला एक सामाजिक कार्रवाई समाधान" कहा। इस मूल्यांकन का जोर तकनीकी प्रगति पर नहीं, बल्कि सामाजिक मॉडल के नवाचार पर था। जैसा कि हुआंगDouNi ने देखा, लिनज़ जानबूझकर NFT के पूंजी सट्टेबाजी से दूरी बनाए रखता है, लेकिन NFT के सामाजिक निहितार्थों को बहुत महत्व देता है।
 
-Pengakuan internasional semacam ini memiliki arti simbolis yang penting: hal ini menunjukkan bahwa eksperimen Web3 Taiwan bukan sekadar mengikuti buta arus tren teknologi Barat, melainkan eksplorasi orisinal yang berakar pada tanah sosialnya sendiri. Saat pasar NFT global terjebak dalam gelora spekulasi, Taiwan menawarkan sebuah alternatif yang lebih bertanggung jawab secara sosial.
+इस तरह की अंतर्राष्ट्रीय मान्यता का महत्वपूर्ण प्रतीकात्मक अर्थ है: यह दर्शाता है कि ताइवान का Web3 प्रयोग पश्चिमी तकनीकी रुझानों का अंधानुकरण नहीं है, बल्कि अपनी सामाजिक मिट्टी पर आधारित एक मौलिक खोज है। जब वैश्विक NFT बाजार सट्टेबाजी के उन्माद में फंसा हुआ था, तब ताइवान ने अधिक सामाजिक जिम्मेदारी वाला एक विकल्प प्रस्तुत किया।
 
-## Ekstensi Digital Semangat g0v
+## g0v भावना का डिजिटल विस्तार
 
-Kehadiran FAB DAO bukanlah kebetulan. Ia berakar dalam tradisi unik masyarakat sipil Taiwan, khususnya semangat "aksi warga terdesentralisasi" yang diwakili oleh g0v Zero-Time Government. g0v menggunakan cara kolaborasi sumber terbuka untuk membayangkan ulang layanan pemerintah, sedangkan FAB DAO menggunakan teknologi blockchain untuk membayangkan ulang model filantropi.
+FAB DAO का उदय आकस्मिक नहीं है। यह ताइवान नागरिक समाज की अनूठी परंपराओं में गहराई से निहित है, विशेष रूप से g0v शून्य-घंटे सरकार (零時政府) द्वारा दर्शाए गए "विकेन्द्रीकृत नागरिक कार्रवाई" की भावना में। g0v ने ओपन-सोर्स सहयोग के माध्यम से सरकारी सेवाओं की पुनर्कल्पना की, और FAB DAO ने ब्लॉकचेन तकनीक का उपयोग करके परोपकार मॉडल की पुनर्कल्पना की।
 
-Kedua belah pihak memiliki kesamaan: keduanya percaya teknologi dapat menurunkan ambang partisipasi, keduanya percaya desentralisasi dapat meningkatkan transparansi, keduanya percaya kebijaksanaan kolektif warga dapat menciptakan solusi sosial yang lebih baik. Perbedaannya terletak pada: g0v utamanya fokus pada transparansi tata kelola pemerintah, sedangkan FAB DAO fokus pada keberlanjutan sumber daya filantropi.
+दोनों का सामान्य बिंदु यह है: दोनों मानते हैं कि प्रौद्योगिकी भागीदारी की बाधाओं को कम कर सकती है, दोनों मानते हैं कि विकेन्द्रीकरण पारदर्शिता बढ़ा सकता है, और दोनों मानते हैं कि नागरिकों की सामूहिक बुद्धिमत्ता बेहतर सामाजिक समाधान बना सकती है। अंतर यह है कि g0v मुख्य रूप से सरकारी शासन की पारदर्शिता पर ध्यान केंद्रित करता है, जबकि FAB DAO परोपकारी संसाधनों के स्थायित्व पर ध्यान केंद्रित करता है।
 
-Posisi unik Taiwan di bidang filantropi Web3 berasal dari kombinasi tata kelola demokrasi dan ketahanan komunitas digital ini. Di negara otoriter, eksperimen semacam ini akan dilihat sebagai ancaman; di masyarakat yang sepenuhnya dipasarkan, filantropi sering terpinggirkan. Hanya di masyarakat seperti Taiwan, di mana masyarakat sipil memiliki ruang otonomi yang cukup dan kepedulian sosial yang cukup, filantropi Web3 dapat menemukan tanah pengembangan yang sesungguhnya.
+Web3 परोपकार क्षेत्र में ताइवान का अनूठा स्थान इस लोकतांत्रिक व्यवस्था और डिजिटल समुदाय की लचीलेपन के संयोजन से आता है। सत्तावादी देशों में, ऐसा प्रयोग एक खतरा माना जाएगा; पूरी तरह से बाज़ार-उन्मुख समाज में, परोपकार को अक्सर हाशिए पर धकेल दिया जाता है। केवल ताइवान जैसे समाजों में, जहां नागरिक समाज के पास पर्याप्त स्वायत्त स्थान और पर्याप्त सामाजिक देखभाल दोनों हैं, Web3 परोपकार को वास्तविक विकास की जमीन मिल सकती है।
 
-## Mendefinisikan Ulang Penciptaan Nilai
+## मूल्य निर्माण को फिर से परिभाषित करना
 
-FAB DAO dan Proyek Seribu Gunung mungkin memberikan kontribusi paling mendasar dengan mendefinisikan ulang logika penciptaan nilai. Dalam model ekonomi tradisional, penciptaan nilai sering bermakna kompetisi dan eksklusivitas: keuntunganmu adalah kerugianku, sumber daya terbatas, dan distribusi bersifat nol-sum.
+FAB DAO और बाइए-य्वे प्रोजेक्ट का सबसे गहरा योगदान शायद यह है कि उन्होंने मूल्य सृजन के तर्क को फिर से परिभाषित किया। पारंपरिक आर्थिक मॉडल में, मूल्य सृजन अक्सर प्रतिस्पर्धा और विशिष्टता का अर्थ रखता है: आपका लाभ मेरा नुकसान है, संसाधन सीमित हैं, वितरण शून्य-राशि का खेल है।
 
-Namun dalam model FAB DAO, penciptaan nilai menjadi permainan positif-sum: seniman memperoleh pendapatan kreasi, kolektor memperoleh karya seni, organisasi nirlaba memperoleh dana, dan seluruh masyarakat memperoleh model kemanusiaan yang lebih baik. Lebih penting lagi, proses penciptaan nilai ini berkelanjutan, karena NFT dapat terus beredar di pasar sekunder, terus menghasilkan dampak kemanusiaan.
+लेकिन FAB DAO के मॉडल में, मूल्य सृजन एक सकारात्मक योग खेल बन गया है: कलाकार रचनात्मक आय प्राप्त करते हैं, संग्राहक कलाकृति प्राप्त करते हैं, परोपकारी संगठन धन प्राप्त करते हैं, और पूरा समाज एक बेहतर परोपकार मॉडल प्राप्त करता है। इससे भी महत्वपूर्ण बात यह है कि यह मूल्य निर्माण प्रक्रिया टिकाऊ है, क्योंकि NFT द्वितीयक बाजार में घूमना जारी रख सकते हैं और परोपकारी प्रभाव पैदा कर सकते हैं।
 
-Inovasi model seperti ini memiliki makna khusus bagi masyarakat Taiwan yang menghadapi dilema kelangkaan sumber daya. Ia menawarkan pemikiran baru: melalui inovasi teknologi dan desain institusional, kita dapat menciptakan nilai sosial yang lebih besar di bawah kondisi sumber daya terbatas.
+इस तरह का मॉडल नवाचार संसाधन की कमी से जूझ रहे ताइवान समाज के लिए विशेष महत्व रखता है। यह एक नया विचार प्रदान करता है: तकनीकी नवाचार और प्रणाली डिजाइन के माध्यम से, हम सीमित संसाधनों की स्थिति में भी बड़ा सामाजिक मूल्य बना सकते हैं।
 
-Hari ini, menengok kembali FAB DAO dan Proyek Seratus Puncak, yang kita lihat bukan sekadar satu eksperimen kebaikan Web3 yang sukses, melainkan sebuah imajinasi tentang masa depan masyarakat. Dalam imajinasi ini, seni bukan lagi hak istimewa elit, melainkan alat perubahan sosial; kebaikan tidak lagi bergantung pada mentalitas amal, melainkan dibangun di atas dasar kepentingan bersama; teknologi bukan lagi sekadar sarana kompetisi bisnis, melainkan daya dorong inovasi sosial.
+## भविष्य की सामाजिक कल्पना
 
-Tentu saja, eksperimen semacam ini juga menghadapi tantangan. Kompleksitas teknologi blockchain tetap menjadi ambang batas partisipasi bagi masyarakat umum; volatilitas pasar NFT dapat memengaruhi stabilitas dana kebaikan; dan masalah efisiensi tata kelola terdesentralisasi juga memerlukan perbaikan berkelanjutan.
+आज FAB DAO और बाइए-य्वे प्रोजेक्ट को पीछे मुड़कर देखना, केवल एक सफल Web3 परोपकार प्रयोग को नहीं, बल्कि भविष्य के समाज की एक कल्पना को देखना है। इस कल्पना में, कला अभिजात वर्ग का विशेषाधिकार नहीं है, बल्कि सामाजिक परिवर्तन का उपकरण है; परोपकार दान की भावना पर निर्भर नहीं करता है, बल्कि साझा हितों पर आधारित होता है; और प्रौद्योगिकी केवल वाणिज्यिक प्रतिस्पर्धा का साधन नहीं है, बल्कि सामाजिक नवाचार का चालक है।
 
-Namun, sebagaimana Huang Tou-ni yang memutuskan meninggalkan rumah sakit dan memegang kuas cat, inovasi sejati seringkali memerlukan keberanian untuk menghadapi ketidakpastian. Nilai FAB DAO dan Proyek Seratus Puncak tidak terletak pada penyediaan solusi sempurna, melainkan pada pembukaan kemungkinan baru.
+निश्चित रूप से, ऐसे प्रयोगों के सामने चुनौतियाँ भी हैं। ब्लॉकचेन तकनीक की जटिलता अभी भी आम जनता की भागीदारी की बाधा है; NFT बाजार की अस्थिरता परोपकारी धन की स्थिरता को प्रभावित कर सकती है; और विकेन्द्रीकृत शासन की दक्षता संबंधी समस्याओं में निरंतर सुधार की आवश्यकता है।
 
-Di pulau ini, seratus gunung bangkit ke atas, seratus mimpi sedang bermula. Dan kita masing-masing, dapat memilih untuk menjadi partisipan eksperimen sosial ini, dengan cara kita sendiri, menuliskan babak baru peradaban.
+लेकिन जिस तरह हुआंगDouNi ने अस्पताल छोड़ने और पेंट ब्रश उठाने का फैसला किया, उसी तरह सच्चा नवाचार अज्ञात का सामना करने के साहस की मांग करता है। FAB DAO और बाइए-य्वे प्रोजेक्ट का मूल्य इस बात में नहीं है कि उन्होंने एक आदर्श समाधान प्रदान किया, बल्कि इस बात में है कि उन्होंने नई संभावनाओं को खोल दिया।
+
+इस द्वीप पर, सौ पहाड़ ऊपर उठते हैं, और सौ सपने अंकुरित हो रहे हैं। और हम में से प्रत्येक व्यक्ति यह चुनने के लिए कर सकता है कि वह इस सामाजिक प्रयोग का भागीदार बने, और अपने तरीके से, अगली सभ्यता की कहानी लिखे।
 
 ---
 
-**Bacaan Lanjutan**:
+**अतिरिक्त पठन**:
 
-- [Wang Hsin-jen (A-luan)](/art/王新仁) — pencipta 《巔峰》 Proyek Seratus Puncak, seniman generatif Taiwan pertama yang naik ke Art Blocks
-- [Wang Lien-cheng (Hsia-pa)](/id/art/wang-lien-cheng-artist) — pencipta algoritma rekursif gunung-air Proyek Seratus Puncak, pemenang pertama kategori patung Hadiah Lumen 2017
-- [Seni Media Baru Taiwan](/id/art/taiwan-new-media-art) — dari seni video ke seni generatif, konteks seni media baru Taiwan tempat FAB DAO berada
-- [Seni Kontemporer Taiwan](/art/當代藝術) — posisi seni blockchain dalam ekosistem seni kontemporer Taiwan
+- [वांग शिनरेन (आलुआन)](/art/王新仁) — बाइए-य्वे प्रोजेक्ट 'शिखर' के निर्माता, आर्टब्लॉक्स पर प्रदर्शित होने वाले पहले ताइवान जनरेटिव कलाकार
+- [वांग लियन-शेंग (शियाबापा)](/id/art/wang-lien-cheng-artist) — बाइए-य्वे प्रोजेक्ट लैंडस्केप रिकरेंस एल्गोरिथम शिखर निर्माता, ल्यूमिन पुरस्कार 2017 मूर्तिकला प्रथम पुरस्कार विजेता
+- [ताइवान मीडिया कला](/id/art/taiwan-new-media-art) — वीडियो कला से जनरेटिव कला तक, FAB DAO के स्थान पर ताइवान की मीडिया कला का संदर्भ
+- [ताइवान समकालीन कला](/id/art/contemporary-art) — ताइवान की समकालीन कला पारिस्थितिकी तंत्र में ब्लॉकचेन कला की स्थिति
 
-## Referensi
+## संदर्भ सामग्री
 
-1. Situs Web Resmi FAB DAO: https://fabdao.world/
-2. Buku Putih FAB DAO di GitBook: https://fab-dao.gitbook.io/fab-dao
-3. Situs Web Resmi Proyek Seribu Puncak: https://project.fab.tw/
-4. Liputan ABMedia Chain News (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
-5. Wawancara ARTouch Diancang dengan Lin Tzu (2023/03): https://artouch.com/art-market/content-84864.html
-6. Pengenalan Media Seni Blockchain Matters oleh c2x3 (2022/07): https://matters.town/a/fe3n38t5khdb
-7. Khusus Charming SciTech: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
-8. Liputan Berita Jaringan NFT: https://nft.org.tw/?p=20219
+1. FAB DAO आधिकारिक वेबसाइट: https://fabdao.world/
+2. FAB DAO GitBook श्वेतपत्र: https://fab-dao.gitbook.io/fab-dao
+3. बाइए-य्वे प्रोजेक्ट आधिकारिक वेबसाइट: https://project.fab.tw/
+4. चेन न्यूज़ ABMedia रिपोर्ट (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
+5. संग्रह ARTouch लिनज़ साक्षात्कार (2023/03): https://artouch.com/art-market/content-84864.html
+6. c2x3 ब्लॉकचेन कला मीडिया Matters परिचय (2022/07): https://matters.town/a/fe3n38t5khdb
+7. प्रौद्योगिकी जुनून विशेष: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
+8. NFT नेटवर्क समाचार रिपोर्ट: https://nft.org.tw/?p=20219
