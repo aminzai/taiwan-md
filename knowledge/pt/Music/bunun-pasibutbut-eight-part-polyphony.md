@@ -1,94 +1,93 @@
 ---
-title: 'Polifonia de oito vozes: o fóssil vivo que desafia a visão ocidental da história da música'
-description: "Em 1943, o musicólogo japonês Kurosawa Takashi gravou o Pasibutbut do povo Bunun nas montanhas de Taitung. Nove anos depois, essa gravação foi enviada à UNESCO, chocando a musicologia internacional — um 'povo sem escrita' cantava a polifonia coral que o Ocidente acreditava ser produto exclusivo de civilizações avançadas."
+title: 'Oito Vozes em Um: A Pérola Viva que Desafiou a História da Música Ocidental'
+description: 'Em 1943, o musicólogo japonês Kurozawa Ryōchō gravou, nas montanhas profundas de Taitung, o canto de colheita Pasibutbut dos povos Bunun. Nove anos depois, ao enviar a gravação à UNESCO, causou comoção na comunidade internacional — uma etnia sem escrita havia produzido um coral polifônico que a teoria ocidental acreditava exigir uma civilização altamente desenvolvida.'
 date: 2026-04-01
-author: 'Taiwan.md Contributors'
 category: 'Music'
-subcategory: '傳統與民族音樂'
 tags:
   [
-    'Bunun',
-    'Música indígena',
-    'Povos indígenas',
-    'Harmônicos',
-    'Patrimônio cultural imaterial',
-    'Cultura de Taiwan',
+    'Povos Bunun',
+    'música indígena',
+    'povos indígenas',
+    'overtones',
+    'patrimônio cultural imaterial',
+    'cultura de Taiwan',
   ]
+subcategory: '傳統與民族音樂'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-04-01
 lastHumanReview: true
-featured: true
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Music/八部合音.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:3c2872e562b3f229'
 sourceBodyHash: 'sha256:43f231d59e183f8e'
-translatedAt: '2026-07-25T17:25:36+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedAt: '2026-09-08T00:42:54+08:00'
 ---
 
-> **Visão geral em 30 segundos:** Em 1943, o musicólogo japonês Kurosawa Takashi levou equipamento de gravação para o interior da aldeia de Kanding, em Taitung, e registrou o Pasibutbut, canto de oração pela colheita de milho-miúdo do povo Bunun. Nove anos depois, a gravação chegou à UNESCO e deixou os musicólogos presentes atônitos — a teoria ocidental sustentava que o canto polifônico era produto de civilizações avançadas, mas os Bunun, nas montanhas remotas, sem escrita nem instrumentos, conseguiam o mesmo feito apenas com a ressonância da voz humana. Esse som celestial, conhecido como "polifonia de oito vozes", continua sendo, até hoje, o som de Taiwan com maior reconhecimento internacional.
+> **30 segundos em resumo:** Em 1943, o musicólogo japonês Kurozawa Ryōchō, com seu equipamento de gravação, adentrou a aldeia de Jianping em Taitung, onde registrou o canto de colheita Pasibutbut dos povos Bunun. Nove anos depois, ao enviar a gravação à UNESCO, os músicos presentes ficaram maravilhados — a teoria ocidental considerava o coral polifônico um fruto da civilização altamente desenvolvida, mas os Bunun, sem escrita nem instrumentos, haviam alcançado isso apenas com suas vozes em ressonância. Conhecida como "oito vozes em um", essa melodia ainda é hoje a representação sonora mais reconhecida de Taiwan no mundo.
 
-1943, final da Segunda Guerra Mundial. O musicólogo japonês **Kurosawa Takashi**, a convite do Governo-Geral de Taiwan, adentrou a aldeia de Kanding, no distrito de Haiduan, condado de Taitung, carregando equipamento de gravação pesado[^1]. Com a ajuda da polícia local e de um jovem Bunun chamado "Ado", superou a instabilidade elétrica e as dificuldades de acesso, registrando um som que mudaria a história da música.
+Em 1943, no final da Segunda Guerra Mundial, o musicólogo japonês Kurozawa Ryōchō foi comissionado pelo governo colonial taiwanês para viajar à aldeia Jianping, em Taitung, com seu pesado equipamento de gravação. Com a ajuda de um policial local e de um jovem Bunun chamado A-Dao, superou as limitações de energia e transporte para gravar uma amostra sonora que mudaria a história da música.
 
-Kurosawa Takashi escreveu mais tarde: "Esta é a harmonia natural mais perfeita que ouvi em toda a minha vida."[^2]
+Kurozawa Ryōchō escreveu posteriormente: "Essa é a harmonia natural mais perfeita que já ouvi na minha vida."
 
-Em 1952, ele enviou a gravação à International Folk Music Council, ligada à UNESCO. Na época, a visão predominante da musicologia ocidental era: a música humana evoluiu linearmente do monofônico para o polifônico, e daí para a harmonia complexa — uma trajetória de "evolução civilizacional". O aparecimento do Pasibutbut rompeu essa linha[^3]. Um povo sem sistema de escrita cantava o que os europeus julgavam ser exclusividade de civilizações avançadas.
+Em 1952, ele enviou a gravação à International Folk Music Council, vinculada à UNESCO. Na época, a visão dominante na teoria musical ocidental era que a música humana evoluiu linearmente de monofonia para polifonia, e depois para harmonias complexas — um caminho de "progresso civilizacional". A aparição de Pasibutbut desafiou essa narrativa. Uma etnia sem sistema de escrita havia produzido algo que europeus acreditavam exigir uma civilização altamente desenvolvida.
 
-## Não são oito vozes, mas mais misteriosas que oito
+## Não são oito vozes, mas algo ainda mais misterioso
 
-O nome "polifonia de oito vozes" é, na verdade, um belo mal-entendido.
+O nome "oito vozes em um" na verdade é uma bela ilusão.
 
-Do ponto de vista da análise musical, o Pasibutbut tem, de fato, apenas quatro vozes (às vezes cinco): o grave _Mahalngal_, o médio _Manda_, o agudo _Bondada_ e, no final, uma voz aguda adicional[^4]. Mas quando os Bunun cantam com uma técnica de ressonância extremamente precisa, o som gera, entre o corpo humano e o espaço, o fenômeno físico dos "harmônicos" — sobre a melodia principal sobrepõem-se frequências mais altas, fazendo o ouvinte perceber como se oito, ou até mais, vozes soassem simultaneamente[^5].
+Do ponto de vista musical, Pasibutbut possui apenas quatro vozes (às vezes cinco): o baixo Mahalngal, a voz intermediária Manda, o soprano Bondada, e uma voz adicional no final. Mas quando os Bunun cantam com uma precisão impressionante, a física do corpo humano e do espaço criam um fenômeno de "overtones" — frequências mais altas sobrepõem-se à melodia principal, fazendo com que o ouvinte perceba oito, ou até mais vozes soando simultaneamente.
 
-> **📝 Nota curatorial:** Essa técnica coletiva de produzir harmônicos lembra o _khoomei_ (canto difônico) da Mongólia. Mas o _khoomei_ é arte de um solista; os Bunun alcançam-no em coro coletivo — a dificuldade é de outra ordem.
+> **📝 Nota do curador:** Essa técnica coletiva de gerar overtones é semelhante ao "throat-singing" mongol. Mas enquanto o throat-singing é uma habilidade individual, os Bunun alcançam isso em coral — uma complexidade completamente diferente.
 
-| Voz        | Nome na língua | Função                                                               |
-| ---------- | -------------- | -------------------------------------------------------------------- |
-| Grave      | Mahalngal      | Nota fundamental, como a terra a vibrar, base de ressonância         |
-| Média      | Manda          | Preenche o espaço, engrossa a harmonia                               |
-| Aguda      | Bondada        | Melodia principal ascendente, simboliza o crescimento do milho-miúdo |
-| Harmônicos | (Overtones)    | Vozes virtuais geradas por ressonância física                        |
+| Voz           | Nome na língua nativa | Função                                                          |
+| ------------- | --------------------- | --------------------------------------------------------------- |
+| Baixo         | Mahalngal             | Tom base, como o tremor da terra, fornece a base de ressonância |
+| Intermediária | Manda                 | Preenche o espaço, tornando a harmonia rica e plena             |
+| Soprano       | Bondada               | Melodia ascendente, simbolizando o crescimento do grão          |
+| Overtone      | (Overtones)           | Voz virtual gerada pela ressonância física                      |
 
-Nas montanhas isoladas, os Bunun, imitando cachoeiras, abelhas, o vento, transmitiram essa arte geração após geração por milhares de anos[^6].
+Os Bunun, isolados nas montanhas, transmitiram essa técnica por milhares de anos, imitando a água dos cachorros, o zumbido das abelhas e o sussurro do vento.
 
-## A oração que sobe
+## Uma oração ascendente
 
-Para os Bunun, o Pasibutbut não é espetáculo, é ritual. O canto ocorre após o Festival da Orelha (_Malahtangia_) e antes do Festival da Semeadura, para suplicar ao deus celestial _Dehanin_ que abençoe a colheita de milho-miúdo[^7].
+Para os Bunun, Pasibutbut não é uma performance, mas um ritual. Cantada após a colheita do arroz e antes do plantio, o objetivo é rogá-lo ao deus Dehanin para que a colheita do milho seja abundante.
 
-Regras estritas regem a execução:
+A execução segue regras rígidas:
 
-O canto deve subir do grave para o agudo lentamente, simbolizando o milho-miúdo crescendo vigoroso. **Se a altura cai ou desafina no meio do caminho, é presságio funesto, prenúncio de possível fome no ano.** O povo acredita que a falta de harmonia no canto reflete impureza de espírito ou desunião interna, e _Dehanin_ não concederá fartura[^7].
+A melodia deve subir gradualmente, simbolizando o crescimento do milho. **Se a nota cair ou desafinar no meio do caminho, considera-se um sinal de azar, anunciando possíveis desastres na colheita.** Os Bunun acreditam que uma harmonia insuficiente reflete uma alma não pura ou falta de unidade entre os membros da tribo, e os deuses não concederão uma colheita abundante.
 
-Ao cantar, formam um círculo, mãos nos ombros uns dos outros, sentindo a vibração no peito do vizinho. Não é exibição individual, é diálogo da vontade coletiva com o divino. Tradicionalmente, só homens cantam, precedidos de ritos de purificação[^7].
+Durante a execução, os participantes se formam em círculo, colocando as mãos nos ombros dos companheiros, sentindo as vibrações do peito uns dos outros. Isso não é uma demonstração individual, mas um diálogo coletivo entre a vontade da tribo e os deuses. Tradicionalmente, apenas homens participam, e antes de cantar, devem passar por rituais de purificação.
 
-> **📝 Nota curatorial:** O "controle de qualidade" do Pasibutbut é implacável — desafinar não é apenas erro técnico, é ofensa ao deus, presságio para toda a tribo. Essa pressão pela execução perfeita talvez explique por que a arte se refinou ao longo de milênios.
+> **📝 Nota do curador:** O controle de qualidade de Pasibutbut é extremamente rigoroso — desafinar não é apenas errar, é ofender os deuses, e traz azar à tribo. Talvez seja essa pressão que tenha permitido que a técnica se mantivesse perfeita por milhares de anos.
 
-## O som está ficando mais baixo
+## A voz está se tornando mais fraca
 
-Em 2009, o Ministério da Cultura registrou a "Polifonia de oito vozes dos Bunun" como Arte Tradicional Importante Nacional, designando várias aldeias como grupos de preservação[^8]. Mas a velocidade da proteção oficial pode não acompanhar a da perda.
+Em 2009, o Departamento de Cultura de Taiwan registrou "Oito Vozes em Um dos Bunun" como uma arte tradicional nacional de importância, designando várias aldeias como grupos de preservação. Mas a proteção oferecida pelo registro pode não ser suficiente para combater a perda cultural.
 
-A geração mais jovem deixa as aldeias, a participação nos rituais tradicionais diminui. Apresentações turísticas, para agradar o público, às vezes simplificam o ritual, ignoram tabus. O problema mais fundo é a língua — o desaparecimento do bunun torna incompreensível para a nova geração o sentido cultural profundo das letras.
+A juventude abandona as aldeias, reduzindo a participação nos rituais tradicionais. Apresentações turísticas, para agradar ao público, muitas vezes simplificam a execução e ignoram as proibições rituais. Um problema mais profundo é a língua — a perda do idioma Bunun dificulta que as novas gerações entendam o significado cultural por trás das letras.
 
-> "Não se está aprendendo a cantar, está se aprendendo a dialogar com a natureza, com os espíritos ancestrais."
+> "Não estamos aprendendo a cantar, estamos aprendendo a conversar com a natureza e com os ancestrais."
 
-Nas aldeias Bunun de Nantou, Hualien e Taitung, anciãos ainda ensinam os jovens a controlar os músculos da garganta, a ouvir os harmônicos no ar. Transmitem não só técnica, mas uma cosmovisão inteira — o som não é fabricado pelo homem, brota da terra; o ser humano apenas o deixa passar.
+Nas aldeias Bunun em Nantou, Hualien e Taitung, ainda há idosos ensinando jovens a controlar os músculos da garganta e a ouvir os overtones no ar. Eles transmitem não apenas a técnica, mas uma forma inteira de entender o mundo — a voz não é criada pelo homem, mas nasce da terra, e o ser humano apenas permite que ela passe por ele.
 
-Quando Kurosawa Takashi apertou o botão de gravação em 1943, dificilmente imaginou que, oitenta anos depois, esse som continuaria sendo a exportação cultural mais poderosa de Taiwan. Não por ser antigo, mas porque, da forma mais simples — algumas gargantas — prova uma coisa: a profundidade da arte nunca dependeu do desenvolvimento tecnológico.
+No momento em que Kurozawa Ryōchō apertou o botão de gravação em 1943, ele provavelmente não imaginava que, 80 anos depois, essa gravação ainda seria a mais poderosa exportação cultural de Taiwan. Não porque é antiga, mas porque, com a simplicidade de algumas gargantas humanas, provou algo: a profundidade da arte nunca depende do avanço tecnológico.
 
 ## Referências
 
-[^1]: [Ouvir a colônia: Kurosawa Takashi e a pesquisa musical em Taiwan em tempo de guerra (1943)](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search) — ver suplemento de dados no link original, Biblioteca da Universidade de Taiwan, 2008
+[^1]: [Ouvir a colônia: Kurozawa Ryōchō e a investigação musical de Taiwan durante a guerra (1943)](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search) — Consultar dados complementares no conteúdo original, Biblioteca Nacional de Taiwan, 2008
 
-[^2]: [Música dos povos indígenas de Taiwan](https://www.books.com.tw/products/0010430882) — Kurosawa Takashi, 《》, Victory Records, 1974
+[^2]: [Música dos povos da Planície de Taiwan](https://www.books.com.tw/products/0010430882) — Kurozawa Ryōchō, [Título original em japonês], Victor Records, 1974
 
-[^3]: [A pesquisa de Kurosawa Takashi sobre a música dos povos indígenas de Taiwan](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf) — Biblioteca Nacional Central, Divisão de Taiwan, Instituto de Musicologia da Universidade de Taiwan, 2008
+[^3]: [Investigação de Kurozawa Ryōchō sobre música indígena de Taiwan](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf) — Biblioteca Nacional Central de Taiwan, Instituto de Música da Universidade Nacional de Taiwan, 2008
 
-[^4]: [Pasibutbut, canto de oração pela colheita de milho-miúdo dos Bunun — Rede de Bens Culturais Nacionais](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20160317000001) — ver suplemento de dados no link original
+[^4]: [Canto de colheita Pasibutbut dos povos Bunun — Patrimônio Cultural da Nação](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20160317000001) — Consultar dados complementares no conteúdo original
 
-[^5]: [Biling observa os Bunun cantando Pasibutbut e tornando-se Bisosilin](https://www.airitilibrary.com/Article/Detail/U0118-0807200916272865) — ver suplemento de dados no link original, tese de mestrado da Universidade da Ásia, 2008
+[^5]: [Biling observa os Bunun cantando Pasibutbut e se tornando Bisosilin](https://www.airitilibrary.com/Article/Detail/U0118-0807200916272865) — Tese de mestrado da Universidade da Ásia, 2008
 
-[^6]: [Tomando a arte musical indígena de Taiwan 'Polifonia de oito vozes dos Bunun' como exemplo](https://cge.knu.edu.tw/var/file/22/1022/img/124/874464490.pdf) — ver suplemento de dados no link original, Simpósio Acadêmico da Universidade Chin-Yi, 2003
+[^6]: [Exemplo da arte musical indígena de Taiwan: "Oito Vozes em Um dos Bunun"](https://cge.knu.edu.tw/var/file/22/1022/img/124/874464490.pdf) — Congresso Acadêmico da Universidade de Quin-yi, 2003
 
-[^7]: [Algumas reflexões sobre a apresentação do canto ritual Pasibutbut — Museu Nacional de Pré-História de Taiwan](https://icloud.nmp.gov.tw/Library/EPaperContent?a=212&id=169&nid=638) — ver suplemento de dados no link original
+[^7]: [Reflexões sobre a apresentação do canto ritual Pasibutbut](https://icloud.nmp.gov.tw/Library/EPaperContent?a=212&id=169&nid=638) — Museu de História Pré-Histórica de Taiwan, consultar dados complementares no conteúdo original
 
-[^8]: [Dados de registro da 'Polifonia de oito vozes dos Bunun' — Bureau de Bens Culturais, Ministério da Cultura](https://twh.boch.gov.tw/non_material/intro.aspx?id=743) — ver suplemento de dados no link original
+[^8]: [Dados de registro de "Oito Vozes em Um dos Bunun"](https://twh.boch.gov.tw/non_material/intro.aspx?id=743) — Consultar dados complementares no conteúdo original, Departamento de Cultura de Taiwan

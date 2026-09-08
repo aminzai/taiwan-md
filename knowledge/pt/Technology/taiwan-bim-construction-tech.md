@@ -24,13 +24,16 @@ featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
 readingTime: 22
-translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76'
-sourceContentHash: 'sha256:7923803a611ee1da'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
-translatedAt: '2026-07-18T18:57:47+08:00'
+researchReport: 'reports/research/2026-05/台灣BIM與營建科技.md'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+translatedFrom: 'Technology/台灣BIM與營建科技.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T01:17:31.649184+00:00'
 ---
 
 # BIM e tecnologia da construção em Taiwan: doze anos de adaptação caso a caso promovida pelo governo, reescritos por um protocolo de dezoito meses

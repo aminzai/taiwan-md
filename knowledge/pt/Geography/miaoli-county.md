@@ -25,15 +25,12 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-image: 'https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg'
-imageCredit: '中華民國客家委員會'
-imageLicense: 'CC BY 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
+imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'b457dbbb1'
-sourceContentHash: 'sha256:0d7e5732a8513df0'
-sourceBodyHash: 'sha256:f743a82d302f341a'
-translatedAt: '2026-07-30T03:55:56+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:0de597da286e629e'
+sourceBodyHash: 'sha256:9523731d73687bb2'
+translatedAt: '2026-09-08T02:50:16.721788+00:00'
 ---
 
 # Condado de Miaoli: o condado hakka teimoso que em oito anos elegeu um prefeito que triplicou a dívida pública
@@ -143,36 +140,34 @@ _Taipei Times_ 2015 entrevistou a moradora Alice Wang sobre o Edifício Redondo 
 
 Em 6 de outubro de 2016, **o Yuan de Controle aprovou o impeachment de Liu Cheng-hung por 11 a 1**[^29]. O cerne da acusação: no final de 2006, a taxa de dívida pública de curto prazo atingiu 31,55%, acima do teto legal; 2008-2014 déficits consecutivos e registro fictício de subsídios centrais; retenção ilegal de 210 milhões de verbas de socorro a desastres dos governos de township/cidade. Mas o impeachment não tem efeito jurídico prático; Liu já tinha saído.
 
-## 2010 a 2014: Incidente de Dapu, cronologia documental
+## 2010 a 2014: O Incidente de Dapu, Cronologia Documental
 
-O Incidente de Dapu ocorreu no segundo mandato de Liu Cheng-hung. É uma série de eventos na linha do tempo; organizá-la com clareza vale mais que comentá-la.
+O incidente de Dapu ocorreu durante o segundo mandato de Liu Cheng-hung. É uma série de eventos cronológicos; organizá-los é mais importante do que comentá-los.
 
-**9 de junho de 2010, madrugada**. O Governo do Condado de Miaoli, para acompanhar a expansão da base de Zhunan do Parque Científico de Hsinchu, usou força policial e escavadeiras para fechar estradas e terraplanar a área de desapropriação, arrasando arrozais prestes a ser colhidos[^30]. Agricultores da Associação de Autossocorro de Dapu, acordados no sono, correram para a beira do campo e viram seu arroz sendo aplainado.
+**Na madrugada de 9 de junho de 2010**. O governo do condado de Miaoli, para acompanhar a expansão da base Zhuke/Zhunan, mobilizou forças policiais e pessoas não identificadas para bloquear estradas e desapropriar terras, derrubando plantações de arroz prestes a ser colhidas na área de expropriação[^30]. Os agricultores do Auto-resgate de Dapu foram acordados durante o sono e correram até os campos para ver seus arrozais sendo destruídos.
 
-**3 de agosto de 2010**. **Chu Feng-min**, membro da Associação de Autossocorro de Dapu, 73 anos, insatisfeita com a desapropriação forçada de terras agrícolas, bebeu agrotóxico e suicidou-se[^30].
+**Em 3 de agosto de 2010**. Zhu Feng-min, uma senhora de 73 anos, membro do Auto-resgate de Dapu, cometeu suicídio por envenenamento após se opor à expropriação forçada de terras pelo governo[^30].
 
-**17 de julho de 2013**. Associação de Autossocorro de Dapu e grupos de apoio subiram a Taipé protestar.
+**Em 17 de julho de 2013**. O Auto-resgate de Dapu e grupos apoiadores protestaram em Taipé.
 
-**18 de julho de 2013**. "**O Governo do Condado de Miaoli aproveitou que os moradores em luta e grupos de apoio estavam no norte protestando, mobilizou força policial, executou a demolição**"[^30]. Quatro famílias — Farmácia Chang, Huang Fu-chi, Chu Shu, Ko Cheng-fu — foram demolidas à força. A imagem do barraco de zinco da Farmácia Chang sendo arrasado pela escavadeira rodou no noticiário daquela tarde.
+**Em 18 de julho de 2013**. "O governo do condado de Miaoli mobilizou forças policiais para realizar a demolição enquanto o protesto era realizado por moradores e organizações sociais apoiadoras[^30]". Quatro famílias — Chang Pharmacy, Huang Fugi, Zhu Shu e Ko Cheng-fu — foram forçadas a desocupar suas propriedades. As imagens da casa de zinco de Chang Pharmacy sendo derrubada foram exibidas em noticiários na noite do dia.
 
-**19 de julho de 2013**. No dia seguinte à demolição, o prefeito Liu Cheng-hung atendeu a imprensa; perguntado por que escolheu aquele dia para agir, respondeu: "**Céu deu boa oportunidade**"[^30].
+**Em 19 de julho de 2013**. No dia seguinte à demolição, o prefeito Liu Cheng-hung foi entrevistado pela mídia e perguntado por que a ação ocorreu naquele dia. Ele respondeu: "Uma oportunidade divina" [^30].
 
-**18 de agosto de 2013**. Movimento "Demolam o Governo" reuniu-se na Praça Ketagalan. Grito de guerra: "Today Miaoli is demolished, tomorrow we demolish the government." (**Hoje demolam Dapu, amanhã demolam o governo**)[^31]. Este grito reapareceu no Movimento Girassol de 2014.
+**Em 18 de agosto de 2013**. O movimento "Derrotem o Governo" se reuniu na Avenida Kaidagalan. Os slogans de protesto eram: "Hoje Dapu é demolido, amanhã derrubamos o governo" [^31]. Este lema foi repetido durante o Movimento das Flores de Taiwan em 2014.
 
-![18 de agosto de 2013, movimento "Demolam o Governo". ONGs taiwanesas protestam na Praça Ketagalan contra a demolição forçada de Dapu; o grito "Hoje demolam Dapu, amanhã demolam o governo" virou um dos brados do Movimento Girassol de 2014.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_Cena do movimento "Demolam o Governo", 2013-08-18. Foto: Zhongcen Fanjiang. CC BY-SA 2.0 via Wikimedia Commons._
+![Movimento de rua "Derrotem o Governo" em 18 de agosto de 2013. Grupos civis de Taiwan protestam contra a demolição forçada de Dapu, e o slogan "Hoje Dapu é demolido, amanhã derrubamos o governo" se tornou um dos gritos do Movimento das Flores de 2014.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
+\_Local do movimento "Derrotem o Governo" em 18 de agosto de 2013. Foto: Zhong Cen, Fan Jiang. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18%5F%E6%8B%86%E6%94%BF%E5%BA%9C%5FP8180109%5F%289555113047%29.jpg).\_
 
-[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
+**Em 18 de setembro de 2013**. O proprietário da Chang Pharmacy, Chang Sen-wen (1953–2013), desapareceu pela manhã e seu corpo foi encontrado em um canal perto de sua casa à tarde; a polícia concluiu que se tratava de suicídio [^30]. Chang Sen-wen era um funcionário aposentado do departamento de saúde, cuja pensão mensal ultrapassava vinte mil, complementada pela renda da farmácia. Sua família descrevia que ele não conseguia dormir desde o dia da demolição forçada.
 
-**18 de setembro de 2013**. O dono da Farmácia Chang, **Chang Sen-wen** (1953—2013), desapareceu de manhã; à tarde, corpo encontrado no canal de drenagem perto de casa; promotoria concluiu suicídio[^30]. Chang Sen-wen era servidor aposentado do Departamento de Saúde, aposentadoria de 20 e poucos mil por mês mais renda da farmácia sustentava a família. Familiares dizem que desde o dia da demolição ele não dormia.
+**Em 3 de janeiro de 2014**. O Tribunal Administrativo Superior de Taichung proferiu uma sentença em primeira instância: "Confirmar que a disposição original é ilegal, e anular a decisão do recurso administrativo e a disposição original referente aos bens melhorados pertencentes aos requerentes Peng Xiu-chun, Zhu Shu, Ko Cheng-fu e Huang Fugi" [^30]. Três anos e meio depois, o tribunal finalmente declarou a ilegalidade da demolição daquele ano. Em **28 de janeiro de 2014**, o Ministério do Interior decidiu não recorrer.
 
-**3 de janeiro de 2014**. Tribunal Administrativo Superior de Taichung, segunda instância, sentenciou: "**Confirmar que a disposição original é ilegal; revogar a decisão de recurso e a disposição original no que se refere à desapropriação de benfeitorias das terras dos autores Peng Hsiu-chun, Chu Shu, Ko Cheng-fu, Huang Fu-chi**"[^30]. Três anos e meio depois, a justiça finalmente declarou ilegal a demolição da época. **28 de janeiro de 2014**, o Ministério do Interior decidiu não recorrer.
+**Em 11 de junho de 2018**. O governo do condado de Miaoli emitiu uma licença de construção, permitindo a reconstrução da Chang Pharmacy no local [^32]. **Em 17 de junho de 2020**, cinco anos após a demolição forçada, a reconstrução da Chang Pharmacy foi concluída [^32].
 
-**11 de junho de 2018**. Governo do Condado de Miaoli emitiu licença de construção, permitindo reconstrução da Farmácia Chang no local original[^32]. **17 de junho de 2020**. Cinco anos após a demolição forçada, a Farmácia Chang reconstruída no local ficou pronta[^32].
+> **📝 Nota do Curador:** Apresentar o incidente de Dapu como uma narrativa binária de "Governo Mau vs. Cidadão Bom" é renunciar à compreensão. A história completa é: por trás da expansão da base Zhuke, há a política industrial central; o governo do condado de Miaoli executou a expropriação com base na lei de planejamento urbano existente; Zhu Feng-min e Chang Sen-wen são dois nomes concretos que sofreram dor nesse processo; em 2014, o tribunal reconheceu a ilegalidade da época; em 2020, a Chang Pharmacy foi reconstruída. Um evento pode ser simultaneamente "execução excessiva pelo governo do condado", "problema processual da lei de planejamento urbano", "formação de movimento cívico" e "correção tardia pelo sistema judiciário". **Todos os aspectos coexistem**. Este é um dos trechos mais violentos da história da expropriação forçada em Taiwan, que acontece sob o título de "Condado Cultural Hakka"; essa contradição merece ser lembrada mais do que qualquer narrativa unilateral.
 
-> **📝 Nota do curador:** Escrever o Incidente de Dapu como "governo mau vs. cidadãos bons" é desistir de entender. História completa: por trás da expansão do Parque Científico está a política industrial central; o governo do condado executou pela Lei de Planejamento Urbano existente; Chu Feng-min e Chang Sen-wen são dois nomes concretos que sofreram na engrenagem; 2014 a justiça reconheceu a ilegalidade; 2020 a farmácia reconstruiu. Um evento pode ser simultaneamente "excesso de execução do governo do condado", "problema processual da Lei de Planejamento Urbano", "formação do movimento cívico", "correção tardia do sistema judiciário", "duas pessoas mortas por esta engrenagem". **Todas as facetas existem ao mesmo tempo**. O trecho mais violento da história de desapropriação forçada de Taiwan aconteceu sob as quatro palavras "Grande Condado Cultural Hakka"; esta contradição em si vale mais que qualquer narrativa de um lado só.
-
-A frase "Céu deu boa oportunidade" de Liu Cheng-hung virou frase-símbolo das controvérsias de desapropriação em Taiwan.
+A frase de Liu Cheng-hung, "Uma oportunidade divina", tornou-se um termo emblemático nas disputas de expropriação de terras em Taiwan.
 
 ## 530 mil pessoas, Chung Tung-chin, Vale do Silício de Houlong
 

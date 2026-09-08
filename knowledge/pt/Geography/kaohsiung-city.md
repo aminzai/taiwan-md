@@ -29,15 +29,15 @@ lastHumanReview: false
 readingTime: 18
 researchReport: 'reports/research/2026-05/高雄市.md'
 series: '22 縣市系列（batch 4）'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg'
-imageCredit: 'peellden'
-imageLicense: 'CC BY-SA 3.0'
+image: '/article-images/geography/kaohsiung-night-skyline-2014.webp'
+imageCredit: 'hngyue photography / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg'
 translatedFrom: 'Geography/高雄市.md'
-sourceCommitSha: 'a5490c043'
-sourceContentHash: 'sha256:244cad849cf26403'
-sourceBodyHash: 'sha256:fd14be167daa0221'
-translatedAt: '2026-07-27T02:56:17+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:5de62c87bd2f7bf1'
+sourceBodyHash: 'sha256:d9c17350b5714f5f'
+translatedAt: '2026-09-08T00:33:25.735908+00:00'
 ---
 
 # Kaohsiung: no ano em que se tornou município especial em 1979, oito homens de Kaohsiung estavam nas prisões de Taipé
@@ -168,42 +168,42 @@ Da rotatória de Dagangbu à estação Formosa Boulevard, esta virada levou 29 a
 
 > **📝 Nota do curador:** Transformar o local do conflito de então em estação de arte, é a resposta dos kaohsiunguenses a 1979. É uma forma de lembrar reescrevendo. O parque 228 de Taipé e o parque de direitos humanos de Jingmei em Taipé usam a forma de memorial para lembrar, monumentos, estátuas, exposições, dizem ao leitor "aqui aconteceu algo". A estação Formosa Boulevard de Kaohsiung faz outra coisa: é o cotidiano. Todo dia mais de trinta mil pessoas entram e saem desta estação, se olham para cima para o Dome of Light não importa, o importante é que este nome está embutido na espinha dorsal da rede de metrô desta cidade. **Como uma cidade lida com suas feridas históricas, vê-se se ela tem ou não a coragem de transformar aquele lugar num local por onde todos passam todo dia**.
 
-## 38 distritos: da restinga de Cijin aos Bunun de Namasia
+## 38 distritos: de Qijin a Namasia
 
-Em 25 de dezembro de 2010, outra promoção.
+Em 25 de dezembro de 2010, houve outra elevação.
 
-"Em 25 de dezembro de 2010, a área territorial original de Kaohsiung de 153 km² incorporou o condado de Kaohsiung, a área saltou para 2.951 km², a população original de 1,52 milhão da cidade somada ao condado, total chegou a 2,77 milhões 4.470 pessoas"[^16].
+"Em 25 de dezembro de 2010, a área territorial original da cidade de Kaohsiung, de 153 quilômetros quadrados, foi incorporada ao condado de Kaohsiung, aumentando drasticamente a área para 2.951 quilômetros quadrados, e a população original da cidade de Kaohsiung, de 1,52 milhão, foi incluída no condado de Kaohsiung, totalizando 2,774 milhões e 4.470 pessoas" [^16].
 
-"Os 11 distritos originais de Kaohsiung com os 27 townships/cidades do condado de Kaohsiung, fundiram-se em 38 distritos (incluindo 3 distritos indígenas de montanha de município especial)"[^17].
+"Os 11 distritos originais da cidade de Kaohsiung se uniram aos 27 townships e cidades do condado de Kaohsiung para formar 38 distritos (incluindo 3 áreas indígenas montanhosas)." [^17].
 
-A partir deste dia, "Kaohsiung" é uma cidade que se estende da **restinga de Cijin até os pés da montanha Yushan**. Os 11 distritos originais são o núcleo urbano: Yancheng, Gushan, Lingya, Xinxing, Qianjin, Cianjhen, Sanmin, Nanzih, Zuoying, Cijin, Xiaogang. Os 27 townships/cidades originais do condado espalham-se na periferia: Fongshan, Daliao, Niaosong, Renwu, Dashe, Gangshan, Lujhu, Hunei, Yanchao, Cieding, mais ao norte Ciaotou, Yanchao (distrito diferente), Dashu, Dashe (já listado), Tianliao, Alian, Mituo, Ziguan, mais a leste Meinong, Qishan, Neimen, Shanlin, Liugui, Jiaxian, mais no fundo Maolin, Taoyuan, Namasia, estes três distritos indígenas de montanha.
+A partir deste dia, a "cidade de Kaohsiung" é uma cidade que se estende **desde o recife de Qijin até os pés do Monte Yushan**. Os 11 distritos originais da cidade eram o núcleo urbano: Yancheng, Gusan, Lingya, Xinxing, Qianjin, Qianzhen, Sanmin, Nanzi, Zuoying, Qijin e Xiaogang. As 27 áreas rurais e municipais do condado estavam na periferia: Fengshan, Daliao, Tiosong, Renwu, Dasha, Gangnan, Luzhu, Hunai, Yong'an, Qiechuan, seguidas ao norte por Qiaotou, Yanshao, Dashu, Dasha, Tianliao, Alian, Mida e Zigan; a leste por Meinong, Qishan, Neimen, Shanlin, Liugui, Jiaxian; e no extremo sul pelos três distritos indígenas montanhosos: Maolin, Taoyuan e Namasia.
 
-Cada distrito tem sua história. Cijin tem 28.000 pessoas, é uma restinga de 11,3 km, a balsa é o transporte principal. Maolin tem 1.867 pessoas, é o distrito menos populoso de Kaohsiung, habitantes principais são Rukai, altitude de 200 a mais de 1.000 metros. Fongshan tem 355.183 pessoas, é o distrito mais populoso de Kaohsiung, era a sede do condado de Kaohsiung, após a fusão de 2010 virou o segundo distrito mais populoso do país[^18]. A população dos três distritos difere 190 vezes, mas administrativamente todos se chamam "distrito tal de Kaohsiung".
+A história de cada distrito é diferente. O Distrito de Qijin, com 28.000 habitantes, é um recife de 11,3 quilômetros de comprimento, onde o ferry é o principal meio de transporte para entrada e saída. O Distrito de Maolin, com 1.867 habitantes, é o distrito menos populoso da cidade de Kaohsiung, sendo habitado principalmente pelo povo Rukai, com altitudes que sobem de 200 metros para mais de 1.000 metros. O Distrito de Fengshan, com 355.183 habitantes, é o mais populoso da cidade de Kaohsiung e era a sede do condado de Kaohsiung; após a fusão em 2010, tornou-se o segundo maior distrito do país em população [^18]. A diferença populacional entre os três distritos é de 190 vezes, mas administrativamente todos são chamados de "Distrito X da cidade de Kaohsiung".
 
-![Cijin vista do monte Qihou. Restinga de 11,3 km, 28.000 habitantes, sem ponte ligando à ilha principal (túnel submarino é para carros), balsa de Gushan é o transporte principal.](/article-images/geography/kaohsiung-03.webp)
-_Vista aérea do distrito de Cijin. Foto: colaborador Wikimedia Commons, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg).\_
+![Vista distante do refúgio de Qijin a partir do Monte Qihou. Um recife de 11,3 quilômetros com 28.000 habitantes, sem ponte conectando à ilha principal (há um túnel para carros), e o ferry Gusan é o meio de transporte principal.](/article-images/geography/kaohsiung-03.webp)
+_Vista aérea do Distrito de Qijin. Foto: colaborador da Wikimedia Commons, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg).\_
 
-### Três distritos de montanha: Rukai, Bunun, Kanakanavu, Hla'alua
+### Os Três Distritos Montanhosos: Rukai, Bunun, Kanakanavu e Hla'alua
 
-**Distrito de Maolin** fica na montanha sudeste de Kaohsiung, habitantes principais são os três grupos do povo Rukai, divididos nas aldeias Maolin, Duona, Wanshan. Os dialetos Rukai de cada aldeia têm diferenças, o conjunto de casas de laje de Duona é o mais completo[^19].
+O **Distrito de Maolin**, localizado na área montanhosa sudeste de Kaohsiung, é habitado principalmente pelas três subcomunidades do povo Rukai: Maolin, Dona e Wanshan. Os dialetos da língua Rukai em cada aldeia são diferentes; o grupo de casas de ardósia da aldeia Dona é o mais completo [^19].
 
-**Distrito de Taoyuan** distribui-se ao longo do alto rio Laonong, povo principal é Bunun, simultaneamente é território tradicional do povo Hla'alua. O povo Hla'alua (Hla'alua) por muito tempo foi confundido como ramo do povo Tsou do sul, até "o governo da República da China em 26 de junho de 2014 reconhecer o povo Hla'alua como o 15º povo indígena de Taiwan, o povo Kanakanavu como o 16º"[^20]. Os Hla'alua hoje são cerca de 400 pessoas, distribuídos principalmente nas vilas Gaojhong e Taoyuan do distrito de Taoyuan.
+O **Distrito de Taoyuan** está distribuído ao longo do curso superior do rio Laonong, sendo o território tradicional dos povos Bunun e Hla'alua. O povo Hla'alua foi por muito tempo confundido com um ramo do povo Tsou, até que "o Governo da República da China reconheceu os povos Hla'alua como a 15ª etnia indígena de Taiwan e os Kanakanavu como a 16ª etnia em 26 de junho de 2014" [^20]. Atualmente, há cerca de 400 pessoas do povo Hla'alua, distribuídas principalmente nos townships de Gaozhongli e Taoyuanli.
 
-**Distrito de Namasia** ao longo das duas margens do rio Nanzihsian, Bunun e Kanakanavu (Kanakanavu) convivem. Os Kanakanavu hoje são cerca de 350 pessoas, moram principalmente nas vilas Dakaanuwa e Maya do distrito de Namasia. O nome "Namasia" vem de uma lenda: "Há centenas de anos, um jovem chamado 'Namasia' descobriu uma enguia gigante bloqueando a água do rio e ameaçando a aldeia, o povo batizou o rio Nanzihsian com seu nome para comemorá-lo"[^21]. Em 2008, a township de Sanmin mudou nome para township de Namasia, em 2010 subiu a distrito de Namasia.
+O **Distrito de Namasia** está localizado nas margens do rio Xianzi em Nanzi, onde os povos Bunun e Kanakanavu coexistem. Atualmente, há cerca de 350 pessoas do povo Kanakanavu, vivendo principalmente nos townships de Dakanuwali e Mayali no Distrito de Namasia. O nome "Namasia" vem de uma lenda: "há centenas de anos, um jovem chamado 'Namasia' descobriu um enorme peixe-gato obstruindo o rio, ameaçando a tribo, e os membros da tribo deram o nome de 'Namasia' ao rio Xianzi para homenageá-lo" [^21]. Em 2008, o township de Sanmin foi renomeado para Namasia Township, e em 2010 foi elevado a Distrito de Namasia.
 
-"Povo Hla'alua" e "povo Kanakanavu" estes dois nomes só em 26 de junho de 2014 voltaram à classificação oficial de etnias. Antes disso, seus ancestrais foram registrados como "ramo Tsou" por mais de cem anos, a academia chamava de "Tsou do sul". **Antes da retificação, eles eram representados por outros; depois da retificação, eles falam por si mesmos**.
+Os nomes "Hla'alua" e "Kanakanavu" só foram restaurados oficialmente em 26 de junho de 2014. Antes disso, seus ancestrais foram registrados como um ramo do povo Tsou por mais de cem anos, o que os acadêmicos chamavam de "Tsou do Sul". **Antes da restauração do nome, eles eram representados por outros; após a restauração, eles falam por si mesmos.**
 
-### Meinong: a pilha direita dos Liudui
+### Meinong: O Leste de Liuhui
 
-De Namasia descendo pelo rio Nanzihsian, chega-se a Meinong. Meinong é o único township típico Hakka de Kaohsiung, administrativamente pertence a Kaohsiung, culturalmente pertence aos "**Liudui**" da "**pilha direita**".
+Seguindo o rio Xianzi para jusante a partir de Namasia, você encontrará Meinong. O Distrito de Meinong é o único _zhuan_ (aldeia) Hakka típico em Kaohsiung; administrativamente pertence à cidade de Kaohsiung, mas culturalmente faz parte do "Leste" de **Liuhui**.
 
-Liudui é o nome coletivo dos aglomerados Hakka de autodefesa do sul de Taiwan, divididos em pilha vanguarda, pilha frente, pilha meio, pilha trás, pilha esquerda, pilha direita. A "pilha direita" abrange todo ou a maior parte dos distritos de Meinong, Liugui, Shanlin, pequena parte de Jiaxian, parte de Qishan. Em 1721, no incidente de Chu Yi-kuei, os townships Hakka da bacia do rio Laonong se uniram e organizaram milícias de autodefesa, "elegeram Li Chih-san como grande chefe, dividiram em seis grupos (seis pilhas) para defender a terra natal"[^22], esta organização depois virou a identidade cultural dos townships Hakka.
+Liuhui é um termo coletivo para os assentamentos Hakka no sul de Taiwan, divididos em Xianfeng, Qian, Zhong, Hou, Zuo e You. O "Leste" abrange a totalidade ou grande parte dos distritos de Meinong, Liugui e Shanlin, uma pequena parte do distrito de Jiaxian e algumas áreas do distrito de Qishan. Durante o Incidente de Zhu Yigui em 1721, os _zhuan_ da bacia do rio Danshui se uniram para formar um exército de autodefesa, "nomeando Li Zhisan como Grande General e dividindo-se em seis grupos (Liuhui) para defender sua terra natal" [^22], e essa organização se tornou a identidade cultural dos _zhuan_ Hakka.
 
-Mas esta história não é só a milícia de 1721. Meinong tem outra história mais recente.
+Mas esta história não é apenas sobre o exército de 1721. Meinong tem outra história mais recente.
 
-"No final de 1992, a primeira 'audiência pública sobre a construção da barragem de Meinong' convocada pela prefeitura de Meinong e associações locais, desencadeou um movimento chamado de 'pequena cidade estado inimigo', o 'movimento contra a barragem de Meinong'"[^23]. O governo planejava construir barragem no alto do rio Meinong, para abastecer a região de Kaohsiung, mas o local da barragem ficava sobre uma falha, e destruiria a ecologia da floresta de árvores-mãe tropicais do vale das borboletas amarelas, impactaria a cultura Hakka tradicional de Meinong.
+"No final de 1992, a primeira 'conferência pública para construção do reservatório de Meinong', convocada pela prefeitura de Meinong e associações locais, desencadeou um movimento chamado 'Movimento Anti-Reservatório da Pequena Cidade' [^23]." O governo planejava construir um reservatório no rio Meinong, a montante, para fornecer água à região de Kaohsiung, mas o local do dique estava sobre uma falha e destruiria o ecossistema florestal tropical Huangdiecui, afetando a cultura Hakka tradicional de Meinong.
 
-O movimento durou oito anos. "Em 18 de março de 2000, Chen Shui-bian eleito presidente, em seguida anunciou que durante seu mandato não construiria a barragem de Meinong"[^23]. A associação de amor à terra de Meinong virou modelo de desenvolvimento sustentável de comunidades Hakka de Taiwan, também impulsionou um movimento de retorno à terra de toda uma geração de jovens Hakka. O guarda-chuva de papel de Meinong, as ripas, a culinária Hakka, as torres de cura de tabaco sob a montanha Moonlight, são o resultado que este township escolheu por si mesmo, não o que foi decidido por outros.
+O movimento durou oito anos. "Em 18 de março de 2000, Chen Shui-bian foi eleito presidente e subsequentemente anunciou que não construiria o reservatório de Meinong durante seu mandato" [^23]. A Associação de Desenvolvimento Sustentável da Comunidade Hakka de Meinong tornou-se um modelo para o desenvolvimento sustentável das comunidades Hakka em Taiwan e impulsionou um movimento de retorno dos jovens Hakka. Os guarda-chuvas de papel, os _banliao_, a culinária Hakka e as fábricas de tabaco sob o Monte Yueguang de Meinong são resultados escolhidos por esta comunidade, não decididos por terceiros.
 
 ## Namasia e Taoyuan enterradas naquele agosto
 
@@ -307,23 +307,23 @@ Kaohsiung não é a metade inferior de Taiwan. Kaohsiung é a cidade onde a indu
 - [Hakka de Taiwan](/culture/台灣客家) — Liudui pilha direita (Meinong, Liugui, Shanlin) em Kaohsiung, enclave Hakka
 - [Desastre do 88](/history/88風災) — tufão Morakot em 2009, extinção da aldeia Xiaolin, três distritos de montanha Namasia, Taoyuan, Maolin área de desastre grave
 
-## Fontes das imagens
+## Fontes das Imagens
 
-Este artigo usa 6 imagens Wikimedia Commons com licença CC.
+Este artigo utiliza 6 imagens licenciadas sob CC do Wikimedia Commons, com o cache da imagem principal em `public/article-images/geography/` para evitar links diretos a servidores de origem.
 
-Hero (frontmatter): [Night skyline of Kaohsiung, Taiwan 2014](https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg), vista noturna de Kaohsiung, do direção do 85 Sky Tower olhando Rio do Amor e centro. Foto: peellden, CC BY-SA 3.0.
+Imagem Principal (frontmatter): [Night skyline of Kaohsiung, Taiwan 2014](https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg), Vista noturna de Kaohsiung, olhando do prédio 85 para o Rio Amor e a área urbana. Photo: hngyue photography, CC BY-SA 2.0.
 
-Cena §porto pesqueiro de Cianjhen: [Port of Kaohsiung first harbor commercial area 2021](https://commons.wikimedia.org/wiki/File:Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg), vista aérea da área comercial do primeiro porto de Kaohsiung. CC BY-SA.
+Cena §Porto de Qianzhen: [Port of Kaohsiung first harbor commercial area 2021](https://commons.wikimedia.org/wiki/File:Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg), Vista da primeira área comercial do Porto de Kaohsiung. CC BY-SA.
 
-Cena §estação Formosa Boulevard: [Dome of Light at Formosa Boulevard Station 2024](https://commons.wikimedia.org/wiki/File:Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg), Dome of Light na estação Formosa Boulevard. CC BY-SA.
+Cena §Estação Lido: [Dome of Light at Formosa Boulevard Station 2024](https://commons.wikimedia.org/wiki/File:Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg), Cúpula de Luz da Estação do Bulevar Formosa. CC BY-SA.
 
-Cena §38 distritos: [Cijin Island, Kaohsiung](<https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg>), vista aérea da restinga de Cijin. CC BY-SA.
+Cena §Distrito 38: [Cijin Island, Kaohsiung](<https://commons.wikimedia.org/wiki/File:Cijin_Island,_Kaohsiung_(52831825604).jpg>), Vista da Ilha de Cijin. CC BY-SA.
 
-Cena §Rio do Amor: [Kaohsiung Love River](https://commons.wikimedia.org/wiki/File:Kaohsiung-Love-River.jpg), margem turística do Rio do Amor após tratamento. CC BY-SA.
+Cena §Rio Amor: [Kaohsiung Love River](https://commons.wikimedia.org/wiki/File:Kaohsiung-Love-River.jpg), Margem do rio turístico após a revitalização do Rio Amor. CC BY-SA.
 
-Cena §Weiwuying: [Wei-Wu-Ying Center for the Arts 01](https://commons.wikimedia.org/wiki/File:Wei-Wu-Ying_Center_for_the_Arts_01.jpg), exterior do Centro Nacional de Artes Cênicas Weiwuying. CC BY-SA.
+Cena §Weiwuying: [Wei-Wu-Ying Center for the Arts 01](https://commons.wikimedia.org/wiki/File:Wei-Wu-Ying_Center_for_the_Arts_01.jpg), Exterior do Centro Nacional de Artes Weiwuying. CC BY-SA.
 
-Termos de licença: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) e [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Termos de Licença: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) e [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Referências
 
