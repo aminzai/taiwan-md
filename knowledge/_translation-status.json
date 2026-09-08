@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T08:03:00+08:00",
-    "zhCommitHead": "6c83a7095",
+    "lastUpdated": "2026-09-08T08:29:56+08:00",
+    "zhCommitHead": "6dc6de660",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 762,
+        "fresh": 764,
         "stale": 98,
-        "metadata_stale": 29,
+        "metadata_stale": 27,
         "missing": 232,
         "orphan": 0
       },
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 768,
-        "stale": 92,
-        "metadata_stale": 30,
+        "fresh": 771,
+        "stale": 91,
+        "metadata_stale": 28,
         "missing": 231,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 763,
-        "stale": 94,
-        "metadata_stale": 30,
+        "fresh": 765,
+        "stale": 93,
+        "metadata_stale": 29,
         "missing": 234,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 762,
-        "stale": 96,
-        "metadata_stale": 32,
+        "fresh": 765,
+        "stale": 95,
+        "metadata_stale": 30,
         "missing": 231,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 618,
+        "fresh": 620,
         "stale": 100,
-        "metadata_stale": 89,
+        "metadata_stale": 87,
         "missing": 314,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 542,
+        "fresh": 543,
         "stale": 52,
-        "metadata_stale": 14,
+        "metadata_stale": 13,
         "missing": 513,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 751,
+        "fresh": 753,
         "stale": 79,
-        "metadata_stale": 24,
+        "metadata_stale": 22,
         "missing": 267,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 623,
-        "stale": 45,
-        "metadata_stale": 13,
+        "fresh": 625,
+        "stale": 44,
+        "metadata_stale": 12,
         "missing": 440,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 688,
-        "stale": 55,
-        "metadata_stale": 17,
+        "fresh": 690,
+        "stale": 54,
+        "metadata_stale": 16,
         "missing": 361,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 720,
-        "stale": 57,
-        "metadata_stale": 16,
+        "fresh": 723,
+        "stale": 55,
+        "metadata_stale": 15,
         "missing": 328,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 93,
+        "fresh": 94,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 1021,
+        "missing": 1020,
         "orphan": 0
       }
     },
@@ -3326,18 +3326,16 @@
         "en": {
           "path": "en/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-05-01T14:11:02+08:00",
+          "translatedAt": "2026-09-08T00:42:45+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -3358,18 +3356,16 @@
         "ko": {
           "path": "ko/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "translatedAt": "2026-09-08T00:42:47+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -3390,18 +3386,16 @@
         "fr": {
           "path": "fr/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-04-15T17:32:16+08:00",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -3436,18 +3430,16 @@
         "pt": {
           "path": "pt/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-07-25T17:25:36+08:00",
+          "translatedAt": "2026-09-08T00:42:54+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -29503,50 +29495,44 @@
         "ko": {
           "path": "ko/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-08-04T12:41:10+08:00",
+          "translatedAt": "2026-09-08T00:42:47+08:00",
           "translationLastCommit": "06221369",
           "translationLastModified": "2026-08-04T13:49:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-08-04T12:41:09+08:00",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
           "translationLastCommit": "4c95322d",
           "translationLastModified": "2026-08-04T13:40:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/fab-dao.md",
           "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-08-04T12:41:09+08:00",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
           "translationLastCommit": "39a979e4",
           "translationLastModified": "2026-08-04T13:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/fab-dao.md",
@@ -30814,8 +30800,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T00:42:54+08:00",
-          "translationLastCommit": "c2c79c00",
-          "translationLastModified": "2026-07-25T00:43:31+08:00",
+          "translationLastCommit": "6dc6de66",
+          "translationLastModified": "2026-09-08T08:03:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -61891,18 +61877,16 @@
         "en": {
           "path": "en/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T13:18:18+08:00",
+          "translatedAt": "2026-09-08T00:42:45+08:00",
           "translationLastCommit": "77e3ab42",
           "translationLastModified": "2026-08-04T15:22:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/bird-window-collision-taiwan.md",
@@ -61971,82 +61955,72 @@
         "vi": {
           "path": "vi/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translatedAt": "2026-09-08T00:42:51+08:00",
           "translationLastCommit": "d0978739",
           "translationLastModified": "2026-07-26T23:22:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "translatedAt": "2026-09-08T00:42:53+08:00",
           "translationLastCommit": "7c7010f9",
           "translationLastModified": "2026-08-04T15:52:41+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:12:36+08:00",
+          "translatedAt": "2026-09-08T00:42:54+08:00",
           "translationLastCommit": "77c9b4a3",
           "translationLastModified": "2026-08-04T14:56:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:12:37+08:00",
+          "translatedAt": "2026-09-08T00:42:55+08:00",
           "translationLastCommit": "26f47694",
           "translationLastModified": "2026-08-04T15:55:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "translatedAt": "2026-09-08T00:42:57+08:00",
           "translationLastCommit": "c72ae670",
           "translationLastModified": "2026-08-04T15:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/bird-window-collision-taiwan.md",
@@ -62277,50 +62251,44 @@
         "ko": {
           "path": "ko/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:7c8e2ae7ead043fa",
-          "sourceBodyHash": "sha256:337a7730efae1092",
-          "translatedAt": "2026-08-04T14:00:18+08:00",
+          "sourceCommitSha": "d8646a2a9",
+          "sourceContentHash": "sha256:768855c64ea407af",
+          "sourceBodyHash": "sha256:2f867df28cee4278",
+          "translatedAt": "2026-09-08T00:42:47+08:00",
           "translationLastCommit": "6631c004",
           "translationLastModified": "2026-08-04T15:27:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:7c8e2ae7ead043fa",
-          "sourceBodyHash": "sha256:337a7730efae1092",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "sourceCommitSha": "d8646a2a9",
+          "sourceContentHash": "sha256:768855c64ea407af",
+          "sourceBodyHash": "sha256:2f867df28cee4278",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
           "translationLastCommit": "b72b2e51",
           "translationLastModified": "2026-08-04T15:23:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:7c8e2ae7ead043fa",
-          "sourceBodyHash": "sha256:337a7730efae1092",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "sourceCommitSha": "d8646a2a9",
+          "sourceContentHash": "sha256:768855c64ea407af",
+          "sourceBodyHash": "sha256:2f867df28cee4278",
+          "translatedAt": "2026-09-08T00:42:50+08:00",
           "translationLastCommit": "e5078c7a",
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Nature/biodiversity.md",
@@ -62357,8 +62325,8 @@
           "sourceContentHash": "sha256:768855c64ea407af",
           "sourceBodyHash": "sha256:2f867df28cee4278",
           "translatedAt": "2026-09-08T00:42:54+08:00",
-          "translationLastCommit": "77c9b4a3",
-          "translationLastModified": "2026-08-04T14:56:47+08:00",
+          "translationLastCommit": "6dc6de66",
+          "translationLastModified": "2026-09-08T08:03:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -62367,18 +62335,16 @@
         "hi": {
           "path": "hi/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:7c8e2ae7ead043fa",
-          "sourceBodyHash": "sha256:337a7730efae1092",
-          "translatedAt": "2026-08-04T14:12:37+08:00",
+          "sourceCommitSha": "d8646a2a9",
+          "sourceContentHash": "sha256:768855c64ea407af",
+          "sourceBodyHash": "sha256:2f867df28cee4278",
+          "translatedAt": "2026-09-08T00:42:55+08:00",
           "translationLastCommit": "26f47694",
           "translationLastModified": "2026-08-04T15:55:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/biodiversity.md",
@@ -62409,7 +62375,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/biodiversity.md",
+          "translatedFrom": "Nature/生態多樣性.md",
+          "sourceCommitSha": "d8646a2a9",
+          "sourceContentHash": "sha256:768855c64ea407af",
+          "sourceBodyHash": "sha256:2f867df28cee4278",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -93247,8 +93224,8 @@
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
           "translatedAt": "2026-09-08T00:42:54+08:00",
-          "translationLastCommit": "f13342bb",
-          "translationLastModified": "2026-07-25T07:54:50+08:00",
+          "translationLastCommit": "6dc6de66",
+          "translationLastModified": "2026-09-08T08:03:01+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -109164,18 +109141,16 @@
         "vi": {
           "path": "vi/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-07-25T09:23:02+08:00",
+          "translatedAt": "2026-09-08T00:42:51+08:00",
           "translationLastCommit": "d8f1f90e",
           "translationLastModified": "2026-07-25T10:52:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-sauces-and-seasonings.md",
@@ -128646,34 +128621,30 @@
         "ar": {
           "path": "ar/Geography/hualien-county.md",
           "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-26T10:35:22+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2d40b234aa9d9849",
+          "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
+          "translatedAt": "2026-09-08T00:14:39.773202+00:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/hualien-county.md",
           "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-27T03:47:01+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2d40b234aa9d9849",
+          "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
+          "translatedAt": "2026-09-08T00:09:17.736512+00:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -135168,18 +135139,16 @@
         "ru": {
           "path": "ru/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "a5490c043",
-          "sourceContentHash": "sha256:244cad849cf26403",
-          "sourceBodyHash": "sha256:fd14be167daa0221",
-          "translatedAt": "2026-07-27T02:56:21+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceBodyHash": "sha256:d9c17350b5714f5f",
+          "translatedAt": "2026-09-08T00:26:21.498117+00:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -9"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -138067,18 +138036,16 @@
         "ru": {
           "path": "ru/Geography/tainan-city.md",
           "translatedFrom": "Geography/台南市.md",
-          "sourceCommitSha": "925aca59e",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
-          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
           "translationLastCommit": "7d4e9fdb",
           "translationLastModified": "2026-08-02T05:06:13+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
