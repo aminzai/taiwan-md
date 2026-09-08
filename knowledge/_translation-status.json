@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T21:52:56+08:00",
-    "zhCommitHead": "eb346308a",
+    "lastUpdated": "2026-09-08T21:58:08+08:00",
+    "zhCommitHead": "368766f0c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 697,
+        "fresh": 698,
         "stale": 51,
         "metadata_stale": 15,
-        "missing": 358,
+        "missing": 357,
         "orphan": 0
       },
       "ru": {
@@ -83540,8 +83540,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-08T13:27:53.076149+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "368766f0",
+          "translationLastModified": "2026-09-08T21:52:56+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -87844,7 +87844,18 @@
           "reason": "footnote-loss (6→5)"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/yang-chuan-kwang-asian-iron-man.md",
+          "translatedFrom": "People/楊傳廣.md",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-08T15:54:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/yang-chuan-kwang-asian-iron-man.md",
@@ -91972,8 +91983,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-08T15:54:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "368766f0",
+          "translationLastModified": "2026-09-08T21:52:56+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -129289,8 +129300,8 @@
           "sourceContentHash": "sha256:7397e54a88091d6e",
           "sourceBodyHash": "sha256:3f4ab58302003b2a",
           "translatedAt": "2026-09-08T15:54:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "368766f0",
+          "translationLastModified": "2026-09-08T21:52:56+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
