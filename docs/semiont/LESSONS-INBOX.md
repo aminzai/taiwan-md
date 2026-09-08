@@ -478,7 +478,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 **修補候選（未做）**：main 紅燈需要一個不依賴「有人記得看」的出口——目前唯一會發現它的是下一輪 maintainer 的 Stage 1.5，而那是每天一次的人（機）工掃描。候選：red-on-main 直接進 `dashboard-alerts.json`，讓它出現在每一條 routine 的 groundtruth 段。
 
-**verification_count**: 1（`scaffold-window-has-no-qa` 的下一跳：那條講「補閘門時只補了咬過人的那一份」，本條講「補閘門的動作本身踩壞了另一道閘門，而沒有東西在對賬」）
+**instances**：
+
+- 2026-09-08 twmd-maintainer-am — **閘門宣告的範圍，跟它要保護的東西住的地方，沒有人對過**。`subcategory_valid.py` 守的是「subcategory 取值在 taxonomy 裡」，`APPLIES_TO = ["zh-TW"]`。它保護的東西是分類頁的分群——而分群鍵是中文原文值、各語言顯示文字查對照表翻出來，所以**真正會壞掉分群的族群 100% 住在譯文那側，也就是這條閘門宣告不看的那一側**。實測十三語共 1,646 篇譯文的 subcategory 被翻成目標語言，其中 920 篇已經自成一群後被併進所屬分類頁的「其他」組。這不是點名 workflow 漏掉一條，是**射程宣告本身把受災區整個劃在外面**，而 `APPLIES_TO` 這個欄位不會有任何東西問「你要保護的東西在不在你的射程裡」。三支相鄰的 frontmatter 檢查（`curation_consistency` 驗舉值、`subcategory_valid` 驗清單、`frontmatter_format` 驗有無）沒有一支問這個問題。已補 `subcategory-translation-parity`（commit `922cf2e6e`，WARN，拿譯文值跟 `translatedFrom` 原文比），存量 1,646 篇命中 §自主權邊界 >50 檔，進 OBSERVER-QUEUE #51。→ [memory](memory/2026-09-08-090356-twmd-maintainer-am.md)
+
+**verification_count**: 2（#1 `scaffold-window-has-no-qa` 的下一跳：那條講「補閘門時只補了咬過人的那一份」，本條講「補閘門的動作本身踩壞了另一道閘門，而沒有東西在對賬」。#2 再往上一層：不是漏掉某一條，是**射程宣告把受災區劃在外面**，而沒有任何欄位在問「保護對象在不在射程內」）
 
 **對應**：[REFLEXES #82](REFLEXES.md)（proxy signal — 點名式健檢量的是「我想得到的那幾條」不是「所有條」）／[REFLEXES #83](REFLEXES.md)（checker 兩把尺 divergence，本條是同日同作者的極端版）／[REFLEXES #92](REFLEXES.md)（twin-artifact 缺重整器）／LESSONS `scaffold-window-has-no-qa`（2026-08-30）。
 
@@ -526,7 +530,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **誰抓到的**：投稿者 aminzai 自己跑了 repo 的 QA 工具，把結果寫在 PR #1627 的留言裡。**沒有一道我們自己的儀器發現它。** 但他五條 claim 裡有三條是錯的（說 `cjk-residue` / `person-fidelity` / `geo-fidelity` 三支會對 de path 報錯——實測三支都正常通過，他八成是用位置參數呼叫、把 argparse 的 usage error 讀成「工具拒絕 de」）。外部尺仍然是尺，但仍然要自己量一次（REFLEXES #16）。
 - **已修**：三處接線補齊 + `check-language-registry-sync.sh` 加「有內容的語言必須被三處接線認得」對賬（三個缺口各自拿掉一次驗證會紅）+ `script-presence-check` 改成缺 profile 就 exit 2。commit `f7221cfcf`。
 - **仍未修**：本次補上檢查後掃出中文母稿三篇留著未解決的 `<!-- TODO: 天機星 -->` 註解，已隨翻譯散進 10 語 16 檔；red flag #10（placeholder 殘留）目前只有人工審查在守，`article-health` 沒有對應 plugin。
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-08 twmd-maintainer-am — **8/30 補的三處接線之外還有第四處，九天後才被咬到**。`image_health` 的「有 imageCredit 就該有圖片出處區塊」小標樣式，是一份逐語言累積的正則聯集（zh/ja/ko/en/es/fr + pt/id/vi/hi provisional + ru/ar），德文從頭到尾不在裡面。德文把出處寫成 `Bildquellen` 這種複合詞，套不上羅曼語系「sources + images 兩個字」的樣式——九篇有 imageCredit 的德文條目，八篇明明寫對了還是被報缺，假陽性率 89%，跟這條正則自己在 2026-07-24 註解裡描述的病一模一樣（當時 en/ja/ko/es/fr 的假陽性佔 74%，於是改成樣式比對；改的人沒有把「下一個語言出生時誰要記得補」變成任何東西）。**8/30 那輪的修補清單是「PR #1627 那次咬到的三處」，本條是第四處**——`scaffold-window-has-no-qa` 講「造閘門當下能想到的邊界就是那一刻腦子裝得下的全部」，這次驗證的是**補閘門當下能想到的清單，也只是那一刻被咬到的那幾處**。已補德文樣式（commit `922cf2e6e`），八筆假警報清空、一筆真的缺出處留著（de/Food/bubble-tea.md），全庫掃過確認新樣式只命中德文。→ [memory](memory/2026-09-08-090356-twmd-maintainer-am.md)
+- **verification_count**: 2
 - **相關**：REFLEXES #85（「不知道」要有自己的符號）、#91（建造與登記不同步）、#69（外部尺）、#16（外部 claim 是線索不是事實）、MEMORY §神經迴路「新語言出生時感知系統不會自動更新」
 
 ### 2026-08-30 twmd-feedback-triage — mandatory-read-step-has-no-tool：流程指名的必經動作沒有入口，只能靠當班額外自覺完成
