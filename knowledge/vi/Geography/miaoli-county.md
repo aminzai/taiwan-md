@@ -21,17 +21,14 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 16
-researchReport: reports/research/2026-05/苗栗縣.md
-series: '22 Quận thị loạt (batch 1)'
-image: https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg
-imageCredit: 中華民國客家委員會
-imageLicense: CC BY 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg
-translatedFrom: Geography/苗栗縣.md
-sourceCommitSha: b457dbbb1
-sourceContentHash: sha256:0d7e5732a8513df0
-sourceBodyHash: sha256:f743a82d302f341a
-translatedAt: 2026-08-09T11:16:34+08:00
+researchReport: 'reports/research/2026-05/苗栗縣.md'
+series: '22 縣市系列（batch 1）'
+imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
+translatedFrom: 'Geography/苗栗縣.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:0de597da286e629e'
+sourceBodyHash: 'sha256:9523731d73687bb2'
+translatedAt: '2026-09-08T19:19:46.566676+00:00'
 ---
 
 # Miêu Lật: Quận Khách Gia Cứng Cỏi, Chọn Một Quận Trưởng Làm Nợ Công Tăng Gấp Đôi Trong Tám Năm
@@ -141,36 +138,34 @@ Taipei Times năm 2015 phỏng vấn cư dân Miêu Lật Alice Wang đánh giá
 
 Năm 2016 ngày 6 tháng 10, **Viện Giám Sát với tỷ lệ 11:1 thông qua ngoài tội Lưu Chính Hồng**[^29]. Lõi của văn bản tấn công: năm 2006 cuối cùng tỷ lệ nợ công vừa vặn lâu hạn đạt 31,55% vượt quá giới hạn nợ pháp lý, năm 2008-2014 năm nào cũng thiếu hụt và ghi sai hỗ trợ từ trung ương, vi phạm bắt giữ ngoài pháp luật tiền cứu thảm họa của thị xã, thành phố huyện 2,1 tỷ. Nhưng tấn công ngoài pháp luật không có hiệu quả pháp lý thực chất, Lưu Chính Hồng đã từ chức.
 
-## 2010 Đến 2014: Sự Kiện Đại Phố, Lịch Sử Sự Kiện
+## 2010 đến 2014: Sự kiện Đại Phố, Trình tự ghi chép
 
-Sự kiện Đại Phố xuất hiện vào nhiệm kỳ thứ hai của Lưu Chính Hồng. Nó là một chuỗi trên trục thời gian, sắp xếp nó rõ ràng hơn bình luận nó.
+Sự kiện Đại Phố diễn ra trong nhiệm kỳ thứ hai của Lưu Chính Hồng. Đây là một chuỗi các sự việc theo dòng thời gian, và việc sắp xếp rõ ràng chúng quan trọng hơn bất kỳ lời bình luận nào.
 
-**Ngày 9 tháng 6 năm 2010 sáng sớm**. Chính phủ quận Miêu Lật để phối hợp với sự mở rộng căn cứ Trúc Nam Khoa học Công Nghệ, động dụng cảnh sát và máy xúc phong tỏa, san bằng khu vực có nước, kéo phẳng ruộng lúa sắp thu hoạch[^30]. Hội tự cứu Đại Phố các nông dân thức giấc vì tiếng ồn, chạy ra bờ ruộng xem cánh đồng của họ bị kéo phẳng.
+**Rạng sáng ngày 9 tháng 6 năm 2010**. Chính quyền huyện Miêu Lật đã huy động lực lượng cảnh sát và những kẻ phá hoại để phong tỏa đường sá và san lấp mặt bằng nhằm phục vụ việc mở rộng cơ sở Khu công nghệ Chu Kho, khiến các cánh đồng lúa sắp thu hoạch trong khu vực bị cào phá[^30]. Người dân của Hội Cứu trợ Đại Phố đã bị đánh thức giữa đêm khi chạy ra ruộng và chứng kiến lúa của mình bị san phẳng.
 
-**Ngày 3 tháng 8 năm 2010**. Hội viên tự cứu Đại Phố **Chu Phong Mẫn**, cụ bà 73 tuổi, không hài lòng với chính phủ cưỡng chế lấy đất nông dân, uống thuốc sâu tự tử[^30].
+**Ngày 3 tháng 8 năm 2010**. Bà Chu Phùng Mẫn, một phụ nữ 73 tuổi là thành viên của Hội Cứu trợ Đại Phố, đã tự sát bằng thuốc trừ sâu vì không hài lòng với việc chính quyền cưỡng chế thu hồi đất nông nghiệp[^30].
 
-**Ngày 17 tháng 7 năm 2013**. Hội tự cứu Đại Phố và các đoàn tư vấn hỗ trợ lên Đài Bắc phản đối.
+**Ngày 17 tháng 7 năm 2013**. Hội Cứu trợ Đại Phố và các nhóm ủng hộ đã tiến hành biểu tình tại Đài Bắc.
 
-**Ngày 18 tháng 7 năm 2013**. "**Chính phủ quận Miêu Lật khi các hộ phản đối và đoàn tư vấn hỗ trợ lên Đài Bắc phản đối, động dụng lực lượng cảnh sát, thực hiện phá dỡ**"[^30]. Bốn hộ Trương Nhà Thuốc, Hoàng Phúc Ký, Chu Cây, Khả Thành Phúc bị phá dỡ mạnh. Hình ảnh chiếc xe tôn Trương Nhà Thuốc bị máy xúc kéo phẳng phát trên vòng tin tức chiều cùng ngày.
+**Ngày 18 tháng 7 năm 2013**. "Chính quyền huyện Miêu Lật huy động cảnh sát để thực hiện việc phá dỡ trong khi người dân phản kháng và các tổ chức xã hội ủng hộ tiến hành biểu tình ở Đài Bắc"[^30]. Bốn hộ gia đình là Trương Dược Phòng, Hoàng Phúc Ký, Chu Thụ và Kha Thành Phúc đã bị cưỡng chế phá dỡ. Hình ảnh ngôi nhà tôn của Trương Dược Phòng bị những kẻ lạ mặt san phẳng đã được phát sóng trên các bản tin tối hôm đó.
 
-**Ngày 19 tháng 7 năm 2013**. Kế tiếp ngày phá dỡ, quận trưởng Lưu Chính Hồng chấp nhận phỏng vấn truyền thông, được hỏi lý do chọn ngày đó động thủ, anh ấy trả lời: "**Thượng Tứ Lương Cơ**"[^30].
+**Ngày 19 tháng 7 năm 2013**. Một ngày sau vụ phá dỡ, Thị trưởng Lưu Chính Hồng trả lời phỏng vấn truyền thông khi được hỏi tại sao lại chọn ngày đó để hành động, ông đáp: "Cơ hội trời ban" [^30].
 
-**Ngày 18 tháng 8 năm 2013**. Phong trào "Phá Chính Phủ" tập hợp trên Đạo Khải Đạt Cách Lan. Khẩu hiệu biểu tình: "Today Miaoli is demolished, tomorrow we demolish the government."(**Hôm nay phá Đại Phố, ngày mai phá chính phủ**)[^31]. Câu này sau đó năm 2014 xuất hiện lại trong phong trào Hoa Hướng Dương.
+**Ngày 18 tháng 8 năm 2013**. Phong trào "Đập chính quyền" đã tập trung tại Đại lộ Khải Đạt Can. Khẩu hiệu phản đối là: "Hôm nay phá Đại Phố, ngày mai đập chính quyền" [^31]. Câu nói này sau đó được hô vang trong phong trào Hoa Hướng Dương năm 2014.
 
-![Phong trào đường phố "Phá Chính Phủ" ngày 18 tháng 8 năm 2013. Các nhóm công dân Đài Loan tập hợp trên Đạo Khải Đạt Cách Lan phản đối phá dỡ Đại Phố, khẩu hiệu "Hôm nay phá Đại Phố, ngày mai phá chính phủ" sau này trở thành một trong những tiếng kêu gọi của phong trào Hoa Hướng Dương năm 2014.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_Hiện trường phong trào Phá Chính Phủ ngày 2013-08-18. Photo: Trung Tần Phạm Giang. CC BY-SA 2.0 via Wikimedia Commons._
+![Hoạt động biểu tình đường phố "Đập chính quyền" ngày 18 tháng 8 năm 2013. Các nhóm công dân Đài Loan phản đối việc cưỡng chế phá dỡ Đại Phố tại Đại lộ Khải Đạt Can, khẩu hiệu "Hôm nay phá Đại Phố, ngày mai đập chính quyền" sau này trở thành một trong những tiếng hô của phong trào Hoa Hướng Dương năm 2014.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
+\_Địa điểm hoạt động "Đập chính quyền" ngày 18/08/2013. Ảnh: Trung Sâm Phạm Khương. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18%5F%E6%8B%86%E6%94%BF%E5%BA%9C%5FP8180109%5F%289555113047%29.jpg).\_
 
-[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
+**Ngày 18 tháng 9 năm 2013**. Ông Trương Sâm Văn, chủ nhà Trương Dược Phòng (sinh năm 1953 – mất năm 2013), đã mất tích vào buổi sáng và thi thể được tìm thấy trong cống thoát nước gần nhà vào buổi chiều; cơ quan điều tra kết luận là tự sát[^30]. Ông Trương Sâm Văn là một công chức nghỉ hưu từ sở y tế, với thu nhập hàng tháng hơn hai vạn cùng với thu nhập từ hiệu thuốc để nuôi sống gia đình. Người thân mô tả ông không ngủ được kể từ ngày bị cưỡng chế phá dỡ.
 
-**Ngày 18 tháng 9 năm 2013**. Chủ nhân Trương Nhà Thuốc **Trương Sâm Văn** (1953—2013) vào buổi sáng mất tích, chiều tối được tìm thấy thi thể ở gần nhà của mình trong rạo nước, cơ quan công tố xác định là tự sát và kết thúc[^30]. Trương Sâm Văn là viên chức đã về hưu của sở Y tế, tiền hưu mỗi tháng hơn 2 vạn cộng thu nhập Nhà Thuốc hỗ trợ toàn gia. Gia đình mô tả anh ấy từ ngày phá dỡ đó liền ngủ không được.
+**Ngày 3 tháng 1 năm 2014**. Tòa án Hành chính Cao cấp Đài Trung đã ra phán quyết sơ thẩm: "Xác nhận việc xử lý ban đầu là bất hợp pháp, quyết định kháng cáo và phần tài sản cải tạo của các nguyên đơn Bành Tú Xuân, Chu Thụ, Kha Thành Phúc, Hoàng Phúc Ký liên quan đến việc thu hồi đất đều bị hủy bỏ"[^30]. Ba năm rưỡi sau, tòa án cuối cùng tuyên bố việc phá dỡ năm đó là bất hợp pháp. **Ngày 28 tháng 1 năm 2014**, Bộ Nội vụ quyết định không kháng cáo.
 
-**Ngày 3 tháng 1 năm 2014**. Tòa Hành Chính Cao Cấp Đài Trung xử lần thứ hai tuyên bố: "**Xác nhận kế hoạch ban hành vi phạm pháp luật, các quyết định đơn thương lẫn kế hoạch ban hành liên quan đến cưỡng chế lấy đất cái gốc người sáng lập Bàng Tú Xuân, Chu Cây, Khả Thành Phúc, Hoàng Phúc Ký đều bị huỷ bỏ**"[^30]. Ba năm rưỡi sau, tòa án cuối cùng tuyên bố phá dỡ năm đó vi phạm pháp luật. **Ngày 28 tháng 1 năm 2014** Bộ Nội vụ quyết định không kháng cáo.
+**Ngày 11 tháng 6 năm 2018**. Chính quyền huyện Miêu Lật đã cấp giấy phép xây dựng, cho phép Trương Dược Phòng tái thiết tại chỗ[^32]. **Ngày 17 tháng 6 năm 2020**. Năm năm sau vụ cưỡng chế phá dỡ, Trương Dược Phòng đã hoàn thành việc tái thiết tại chỗ[^32].
 
-**Ngày 11 tháng 6 năm 2018**. Chính phủ quận Miêu Lật phát hành giấy phép xây dựng, cho phép Trương Nhà Thuốc xây dựng lại tại chỗ[^32]. **Ngày 17 tháng 6 năm 2020**. Năm năm sau phá dỡ, Trương Nhà Thuốc xây dựng lại tại chỗ hoàn thành[^32].
+> **📝 Ghi chú của Biên tập viên:** Việc mô tả sự kiện Đại Phố theo cấu trúc nhị nguyên "Chính quyền xấu vs Công dân tốt" là một sự bỏ qua. Câu chuyện trọn vẹn: Đằng sau việc mở rộng cơ sở Chu Kho là chính sách công nghiệp trung ương; Chính quyền huyện Miêu Lật thực hiện thu hồi đất theo luật quy hoạch đô thị hiện hành; Chu Phùng Mẫn và Trương Sâm Văn là hai cái tên cụ thể chịu đựng nỗi đau trong quy trình này; năm 2014 tòa án thừa nhận sự bất hợp pháp của vụ việc; năm 2020, Trương Dược Phòng được tái thiết. Một sự kiện có thể đồng thời là "chính quyền huyện thực thi quá mức", "vấn đề thủ tục luật quy hoạch đô thị", "sự hình thành của phong trào công dân", và "sự sửa chữa chậm trễ của hệ thống tư pháp". **Tất cả các khía cạnh đều tồn tại cùng lúc**. Đoạn lịch sử thu hồi đất cưỡng bức ở Đài Loan bạo lực nhất này lại diễn ra dưới bốn chữ "Huyện văn hóa Khách Gia", chính sự mâu thuẫn này đáng được ghi nhớ hơn bất kỳ câu chuyện nào của một bên.
 
-> **📝 Lưu ý của cộng tác viên:** Viết sự kiện Đại Phố thành "chính phủ xấu vs công dân tốt" lí thuyết nhị phân là từ bỏ hiểu biết. Câu chuyện hoàn chỉnh: mở rộng căn cứ Trúc Nam đằng sau là chính sách công nghiệp trung ương; chính phủ quận Miêu Lật thực hiện cưỡng chế theo luật quy hoạch đô thị hiện hành; Chu Phong Mẫn và Trương Sâm Văn là hai cái tên cụ thể chịu đau khổ trong quá trình này; năm 2014 tòa án công nhận ngày đó vi phạm pháp luật; năm 2020 Trương Nhà Thuốc xây dựng lại. Một sự kiện có thể cùng lúc là "quận chính phủ vượt quá thẩm quyền" "vấn đề quy trình luật quy hoạch đô thị" "hình thành phong trào công dân" "sửa chữa trì hoãn của hệ thống tư pháp" "hai người chết vì hệ thống này". **Tất cả khía cạnh cùng tồn tại**. Trang sử cưỡng chế lấy đất Đài Loan bạo lực nhất xảy ra dưới bốn chữ "quận văn hóa Khách Gia", mâu thuẫn này tự nó giá trị hơn bất kỳ lí thuyết nào.
-
-Câu nói "Thượng Tứ Lương Cơ" của Lưu Chính Hồng, sau trở thành câu nói đặc trưng trong lịch sử tranh chấp cưỡng chế lấy đất Đài Loan.
+Câu nói "Cơ hội trời ban" của Lưu Chính Hồng sau này đã trở thành một câu nói mang tính biểu tượng trong các tranh chấp về thu hồi đất ở Đài Loan.
 
 ## 53 Vạn Người, Chung Đông Cẩm, Hậu Long Đại Thung Lũng Silicon
 

@@ -1,9 +1,4 @@
 ---
-translatedFrom: 'People/林昶佐.md'
-sourceCommitSha: 'f28a9528a'
-sourceContentHash: 'sha256:42745728f5eb5c1a'
-sourceBodyHash: 'sha256:b26e0a7ce99faf37'
-translatedAt: '2026-08-09T08:07:25+08:00'
 title: 'Freddy Lim: Từ ca sĩ chính của Chthonic đến chính trường, người hát lịch sử Đài Loan thành tiếng nói công cộng'
 description: 'Freddy Lim, với tên tuổi ca sĩ chính của ban nhạc Chthonic, đã đưa sự kiện 228, Khủng bố Trắng, thảm họa Vũ Xã, thần thoại Đài Loan và âm vang tử cung vào âm nhạc kim loại đen công khai, cũng như cùng đồng nghiệp tạo nên Megaport Festival làm không gian văn hóa phía Nam. Âm nhạc, ý thức Đài Loan, thực hành văn hóa, chính trị thể chế, kinh nghiệm sống gia đình và vai trò công cộng sau khi rời chức, những điều này liên kết với nhau trong anh ta, tạo thành một con đường từ sân khấu đi vào xã hội, quốc hội và hiện trường quốc tế.'
 date: 2026-07-10
@@ -22,17 +17,18 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg'
+image: '/article-images/people/freddy-lim-chthonic-founder.webp'
 imageCredit: 'Hyw83516 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg'
 difficulty: 'intermediate'
 readingTime: 14
-rationale:
-  why_this_hook: 'Bắt đầu bằng xung đột của những vai trò khác nhau cùng ép vào một người, sau đó quay trở lại ca sĩ chính của Chthonic như là bản thân sâu nhất.'
-  whats_excluded: 'Lịch sử đầy đủ của ban nhạc, phân tích chuyên sâu từng album, lịch sử kinh doanh hoàn chỉnh của Megaport Festival và lịch sử Đảng Sức mạnh Thời đại dành cho các chủ đề độc lập; ở đây chỉ lấy những gì đủ để hiểu Freddy Lim.'
-  where_it_hedges: 'Chiến dịch bầu cử 2014 của Ko Wen-je hiện không được coi là động lực từ chính trị cá nhân của Freddy Lim; chức danh tại Phần Lan lấy "Đại diện tại Phần Lan", chi tiết bãi miễn chỉ như gợi ý bối cảnh, không viết thành tựu chưa được kiểm chứng hoàn toàn.'
-  whos_pushing_back: 'Những người chỉ trích dịch vụ địa phương và con đường chính đảng của anh; những người cho rằng tính chính trị của Chthonic quá mạnh; những người cho rằng không nên lãng mạn hóa sự vượt ranh giới của con người ngoài nghệ thuật vào chính trị.'
+rationale: "{'why_this_hook': '以多重身份同時擠在同一個人身上的衝突開場，再回到閃靈主唱作為最深的身份核心。', 'whats_excluded': '閃靈完整團史、逐張專輯深度解析、大港開唱完整營運史與時代力量政黨史保留給獨立主題；此處只取足以理解林昶佐的主線。', 'where_it_hedges': '柯文哲 2014 選戰暫不採信為林昶佐個人從政契機；駐芬蘭職稱採「駐芬蘭代表」，罷免細節只作脈絡提示，不寫未完成查證的任內成果。', 'whos_pushing_back': '批評其地方服務與政黨路線者、認為閃靈政治性過強者、認為藝術人跨界政治不應浪漫化者。'}"
+translatedFrom: 'People/林昶佐.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:685b3a0c30829488'
+sourceBodyHash: 'sha256:dfd669296348affb'
+translatedAt: '2026-09-08T21:07:30.272466+00:00'
 ---
 
 > **Cái nhìn 30 giây:** Freddy Lim là ca sĩ chính của ban nhạc Chthonic, một trong những người khởi tạo Megaport Festival, từng làm giám đốc Tổ chức Ân xá Quốc tế tại Đài Loan, và cũng là nhân vật tiêu biểu của lực lượng thứ ba vào Quốc hội sau phong trào Hoa Hướng Dương. Chthonic đã đưa sự kiện 228 (二二八事件), Khủng bố Trắng (白色恐怖), thảm họa Vũ Xã, thần thoại Đài Loan và âm vang anh linh vào heavy metal đen, làm cho lịch sử Đài Loan không chỉ được đọc mà còn có thể được nghe, được hát lớn. Sau đó, anh tham gia thành lập Đảng Sức mạnh Thời đại, được bầu làm đại biểu lập pháp, trải qua rời khỏi đảng và vụ bãi miễn, sau khi rời chức lại với vai trò đại diện tại Phần Lan kết nối với công việc quốc tế. Chính trị từng là một cuộc phiêu lưu của anh, Chthonic vẫn là cơ thể của anh.
@@ -66,24 +62,24 @@ Khi anh sau đó nói về tiếng Mân Nam Đài Loan, anh nói rằng nó khi�
 
 _Video chính thức của Chthonic: 〈Tối muộn Võ Đức Điện〉 phiên bản dân ca. Sau khi tách bức tường âm thanh kim loại thành phiên bản acoustic, tiếng nói, giai điệu tiếng Mân Nam Đài Loan và cảm giác lịch sử của Freddy Lim vẫn giữ nguyên phía trước._
 
-## Lịch sử và anh linh trong black metal
+## Lịch sử và linh hồn trong kim loại đen
 
-Phương pháp sáng tác quan trọng nhất của Chthonic là đưa lịch sử Đài Loan thành một vũ trụ anh linh sẽ quay trở lại liên tục.
+Phương pháp sáng tạo quan trọng nhất của Chthonic là viết lịch sử Đài Loan thành một vũ trụ linh hồn quay về không ngừng.
 
-《Seedek Bale》 xử lý thảm họa Vũ Xã. 《Tenth Hall of Hell》 đặt sự kiện 228 vào trí tưởng tượng địa ngục và xét xử. 《Gao Sha Army》 hướng mắt lại thanh niên bản địa Đài Loan bị quân đội Nhật Bản triệu tập trong Thế chiến Thái Bình Dương. 《Võ Đức Điện》 kết nối hiện đại hóa, võ đạo đường và ký ức thuộc địa với nhau. 《Chính trị》 sau đó trực tiếp đẩy bạo lực và kháng cự Đài Loan sau chiến tranh lên sân khấu.
+《賽德克巴萈》 xử lý sự kiện sương mù Hương Vân. 《Thập Kiến》 đưa sự kiện 228 vào không gian địa ngục và phán xét. 《Quân Thanh Gió》 nhìn lại những thanh niên nguyên thủy bị Nhật đế quốc tuyển dịch trong Chiến tranh Thái Bình. 《Vũ Đức》 kết hợp sự hiện đại, nhà thi đấu và ký ức thuộc địa. 《Chính Trị》 đưa trực tiếp bạo lực và kháng cự sau chiến tranh lên bàn cờ.
 
-Những album này vượt quá chức năng "giới thiệu lịch sử". Chúng giống như đang hỏi: nếu những người bị tàn hại không được thực sự ghi nhớ, liệu họ có sẽ quay trở lại mãi không?
+Những album này vượt xa chức năng "giới thiệu lịch sử". Chúng như đang hỏi: Nếu những người chịu nạn không được nhớ thực sự, liệu họ sẽ không quay lại?
 
-《Chính trị》 cũng không chỉ đến từ vấn đề dân tộc chính. Trong cuộc phỏng vấn của Quỹ chăm sóc thoải mái, Freddy Lim nói đến năm 2017 cha anh nhồi máu cơ tim đột ngột qua đời, chính anh không kịp gặp lần cuối. Cùng năm đó con gái anh ra đời, sống và chết cùng lúc ép vào anh trong một thời gian rất ngắn. Anh nói rằng cái chết của cha khiến anh nhận thức được, cần trân trọng những người anh yêu, không để lại cảm xúc mà không thể hồi phục. Cảm nhận về cái chết, mối quan hệ cha con và hòa giải của anh, cũng được anh đặt vào 《Chính trị》 năm 2018.[^7]
+《Chính Trị》 cũng không chỉ đến từ những vấn đề dân tộc lớn. Trong cuộc phỏng vấn với Quỹ chăm sóc sức khỏe, Thái Anh Văn nói về cơn tim mạch nhồi máu đột ngột của cha vào năm 2017, và việc không kịp gặp lần cuối. Cùng năm, con gái sinh ra, và cái chết và sinh tồn ép lòng anh trong khoảng thời gian rất ngắn. Anh nói rằng sự mất của cha giúp anh nhận ra cần trân trọng những người mình yêu thương, đừng để cảm xúc lại lại những vết thương không thể bù đắp. Những cảm xúc về cái chết, mối quan hệ cha con và sự tha thứ cũng được anh đưa vào album 2018 của Chthonic. [^7]
 
-Trong cuộc phỏng vấn dài sau khi rời chức, Freddy Lim nói đến việc anh phát hiện ra câu chuyện gia đình của ông ngoại, hiểu lại cách Chthonic viết về Khủng bố Trắng, những người chết trong sự kiện 228 và sự sinh ra lại trong vòng quay. Anh nói rằng lúc đầu anh không biết câu chuyện Chthonic sẽ kết thúc như thế nào. Khi nhân vật hư cấu tiếp nhận lịch sử gia đình thực tế, vũ trụ âm nhạc đó giống như cuối cùng cũng kết nối với thế giới thực.
+Trong cuộc phỏng vấn dài sau khi rời chức, Thái Anh Văn chia sẻ về sự phát hiện câu chuyện gia đình của ông nội và cách anh tái hiểu cách Chthonic đã viết về thời kỳ trắng khủng hoảng, những người chết trong sự kiện 228 và sự tái sinh qua nhiều vòng. Anh nói rằng anh trước đây không biết câu chuyện của Chthonic sẽ kết thúc thế nào. Khi những nhân vật hư cấu bắt đầu nhận câu chuyện gia đình thực, vũ trụ âm nhạc như cuối cùng kết nối với thế giới thực.
 
-Những gì Chthonic làm trong nhiều năm, cốt lõi không phải ở "kim loại cộng với chủ đề Đài Loan" ngoại hình, mà là sử dụng kim loại để xử lý một cảm giác rất quen thuộc với người Đài Loan, nhưng thường không thể nói ra ngoài miệng: lịch sử không thực sự qua đi, gia đình cũng có thể ẩn giấu một câu chuyện chưa hoàn thành.
+Những gì Chthonic đã làm trong nhiều năm, bản chất không phải là "kim loại cộng với chủ đề Đài Loan" mà là sử dụng kim loại để xử lý một cảm xúc rất quen thuộc với người Đài Loan nhưng thường không thể diễn tả: lịch sử chưa thực sự qua đi, và trong gia đình có thể vẫn còn những câu chuyện chưa được kể hết.
 
-Quan tâm xã hội phát triển từ công việc âm nhạc như vậy. Khi những người bị tàn hại, tổ tiên linh hồn và những người bị im lặng có tiếng nói trên sân khấu, câu hỏi tiếp theo cũng xuất hiện theo: những tiếng nói này có thể được nghe trong xã hội không?
+Sự quan tâm xã hội nảy mầm trong những công việc âm nhạc như thế này. Khi những người chịu nạn, những linh hồn và những người bị lặng im có tiếng nói trên sân khấu, câu hỏi tiếp theo cũng nổi lên: Những tiếng nói này có thể được nghe thấy trong xã hội không?
 
-![Freddy Lim trên sân khấu cầm microphone và giơ lá cờ Tây Tạng, đứng phía trước cấu trúc sân khấu lớn.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
-_Năm 2012, Freddy Lim giơ lá cờ Tây Tạng trên sân khấu. Hình ảnh này đặt bản sắc ca sĩ chính của Freddy, quan tâm nhân quyền và tình huống quốc tế Đài Loan trong cùng một hiện trường. Ảnh: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
+![Thái Anh Văn trên sân khấu cầm micro và giơ cờ Tây Tạng, đứng trước cấu trúc sân khấu lớn.](/article-images/people/freddy-lim-chthonic-founder.webp)
+_2012, Thái Anh Văn trên sân khấu giơ cờ Tây Tạng. Khung cảnh này đặt danh tính ca sĩ chính của Freddy, sự quan tâm về nhân quyền và tình trạng quốc tế của Đài Loan trong cùng một không gian. Photo: Hyw83516，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg)（[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)）。_
 
 ## Megaport Festival: Biến tiếng nói thành không gian
 
@@ -185,45 +181,45 @@ Phong trào Hoa Hướng Dương (太陽花學運), Đảng Sức mạnh Thời 
 - [Ứng cử viên đại biểu lập pháp Đảng Sức mạnh Thời đại Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG) — Ảnh: Quốc hội Vô song，Wikimedia Commons，CC BY-SA 4.0。
 - [Chthonic, Phần tử Đền - Tối muộn Võ Đức Điện (dân ca phiên bản)](https://www.youtube.com/watch?v=kta4ZAwI6rY) — Video chính thức Chthonic YouTube, dùng để trình bày tiếng nói Freddy Lim như là ca sĩ chính và diễn giải phiên bản acoustic.
 
-## Chú thích
+## Ghi chú
 
-[^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ báo cáo nhân vật 2016, mô tả Freddy Lim với tư cách là ca sĩ chính Chthonic, tiếng Mân Nam Đài Loan và nhạc cụ truyền thống bước vào tầm nhìn gold metal và chính trị quốc tế.
+[^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Bài báo GQ năm 2016, mô tả Lim Tân Tso với tư cấm là ca sĩ của Chthonic, đưa tiếng Tây Ngữ và những nhạc cụ truyền thống vào không gian quốc tế của kim loại và chính trị.
 
-[^2]: [Trang web chính thức Megaport Festival](https://megaportfest.com/) — Trang web sự kiện chính thức, dùng để xác nhận vị trí đương đại của Megaport Festival như một lễ hội âm nhạc Cao Hùng; tiến hóa lịch sử được kiểm tra chéo thêm qua Wikipedia.
+[^2]: [Trang web chính thức của Đại Gang Mở Ca](https://megaportfest.com/) — Trang web hoạt động chính thức, dùng để xác nhận vị thế đương thời của Đại Gang Mở Ca như một lễ hội âm nhạc tại Kaohsiung; tiển lãm mãn về lịch sử bằng cách kiểm tra chéo với Wikipedia.
 
-[^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Cùng báo cáo GQ, cung cấp cách phương tiện truyền thông quốc tế hiểu "ca sĩ heavy metal vào Quốc hội" trong bối cảnh năm 2016.
+[^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Cùng một bài báo GQ, cung cấp bối cảnh cách các phương tiện truyền thông quốc tế năm 2016 hiểu 'ca sĩ kim loại vào quốc hội'.
 
-[^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — The Guardian báo cáo 2020, bổ sung quan sát của phương tiện truyền thông quốc tế tại trước và sau tái tranh cử về vai trò công cộng của Freddy Lim.
+[^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — Báo cáo của The Guardian năm 2020, bổ sung quan sát của các phương tiện truyền thông quốc tế về vai trò công cộng của Lim Tân Tso trước và sau khi trúng cử lại.
 
-[^5]: [從搖滾明星到立法委員，台灣人林昶佐的信念](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — Thời báo New York trang web tiếng Trung báo cáo 2017, ghi lại Freddy Lim từ cảnh âm nhạc dưới lòng đất vào Quốc hội, thúc đẩy khả năng nhìn thấy quốc tế Đài Loan và giai đoạn chính trị sớm của các vấn đề xã hội.
+[^5]: [Từ người truyền thống thành viên Quốc hội, niềm tin của người Đài Loan Lim Tân Tso](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — Báo cáo của Trang mạng tiếng Việt của New York Times năm 2017, ghi lại giai đoạn chính trị sớm của Lim Tân Tso từ không gian âm nhạc đường phố vào Quốc hội, thúc đẩy tầm nhìn quốc tế của Đài Loan và các vấn đề xã hội.
 
-[^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China' – wir sind Taiwan"](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Der Tagesspiegel phỏng vấn 2022, cung cấp lại nhìn của Freddy Lim về giáo dục thiết quân luật, tiếng Mân Nam Đài Loan, bản sắc Đài Loan và truyền thuật quốc tế.
+[^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China‘ – wir sind Taiwan“](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Phỏng vấn đặc biệt của Der Tagesspiegel năm 2022, cung cấp cái nhìn lại của Lim Tân Tso về giáo dục thời kỳ bão hòa, tiếng Tây Ngữ, bản sắc Đài Loan và kể chuyện quốc tế.
 
-[^7]: [從人子、人夫到人父 林昶佐：讓愛用另外一種方式延續](https://www.hospice.org.tw/content/3435) — Phỏng vấn Quỹ Chăm sóc An Tĩnh, bổ sung kinh nghiệm sống giữa cha qua đời, con gái sinh ra, chăm sóc an tĩnh và album 《Chính trị》 của Freddy Lim.
+[^7]: [Từ con người, chồng đến cha, Lim Tân Tso: Để tình yêu kéo dài bằng cách khác](https://www.hospice.org.tw/content/3435) — Phỏng vấn với quỹ chăm sóc cuối đời, bổ sung kinh nghiệm sống của Lim Tân Tso giữa khoảng thời gian cha qua đời đột ngột, sinh con gái, chăm sóc y tế và tập trung chuyên biệt về chính trị.
 
-[^8]: [蓄長髮、畫屍妝…林昶佐7年前以樂團主唱之姿、打敗國民黨軍系老將，寫素人參政傳奇](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — Today Weekly báo cáo 2022, tóm tắt bối cảnh chính trị của vụ bãi miễn Freddy Lim trước và sau, các vấn đề hôn nhân bình đẳng tiến bộ và phân tích ngưỡng bãi miễn.
+[^8]: [Tích lũy tóc dài, trang điểm xác chết… Lim Tân Tso 7 năm trước với tư cấm là ca sĩ ban nhạc, đánh bại cự tuyên viên quân sự của Đảng Nhân Dân, viết tiểu sử tham gia chính trị của người thường dân](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — Báo cáp của Thế Giới Ngày Nay năm 2022, tổng hợp bối cảnh chính trị trước và sau vụ bỏ phiếu, các vấn đề tiến bộ như kết hôn đồng tính và phân tích ngưỡng bỏ phiếu.
 
-[^9]: [「大港開唱」前世今生（上）：掌舵手的音樂祭海派人生](https://www.verse.com.tw/article/megaport-festival-01) — VERSE báo cáo 2022, tóm tắt từ 2006 Megaport Festival khởi tạo cảng Cao Hùng, đến 2016 sau Doris, Dani tiếp quản và làng vấn đề NGO.
+[^9]: [Tiền sử và hiện tại của 'Đại Gang Mở Ca' (Phần 1): Cuộc đời phiêu lưu của người lái thuyền tại lễ hội âm nhạc](https://www.verse.com.tw/article/megaport-festival-01) — Báo cáp của VERSE năm 2022, tổng hợp lịch sử của Đại Gang Mở Ca từ năm 2006 tại bến cảng Kaohsiung, đến năm 2016 khi Doris và Dani nhận quyền quản lý và các ngữ cảnh liên quan đến NGO.
 
-[^10]: [「大港開唱」前世今生（下）：豈止16年，而是台灣音樂祭歷史的文化總和](https://www.verse.com.tw/article/megaport-festival-02) — VERSE báo cáo 2022, bổ sung Wild Stages, đa sân khấu quốc tế hóa, thanh toán người dùng, hậu trường nghệ sĩ và nâng cấp văn hóa nghe nhạc Đài Loan dài hạn.
+[^10]: [Tiền sử và hiện tại của 'Đại Gang Mở Ca' (Phần 2): Không chỉ 16 năm, mà là tổng hòa văn hóa của lịch sử lễ hộu âm nhạc Đài Loan](https://www.verse.com.tw/article/megaport-festival-02) — Báo cáp của VERSE năm 2022, bổ sung các xu hướng dài hạn như sân khấu ngoài trời, đa sân khấu quốc tế hóa, mô hình trả phí người dùng, nền tảng nghệ sĩ và sự nâng cấp văn hóa người nghe Đài Loan.
 
-[^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Taipei Times phỏng vấn 2015, cung cấp bối cảnh của Freddy Lim với tư cách là ca sĩ chính Chthonic, nhà tranh đấu nhân quyền và người sáng lập Đảng Sức mạnh Thời đại tham gia bầu cử.
+[^11]: [INTERVIEW: Lim Tân Tso tiết lộ nền tảng của Đảng Sức Mạnh Mới](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Phỏng vấn của Thời Báo Đài Bắc năm 2015, cung cấp bối cảnh cho chiến dịch tranh cử của Lim Tân Tso với tư cấm là ca sĩ của Chthonic, người đấu tranh vì quyền con người và là người sáng lập Đảng Sức Mạnh Mới.
 
-[^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Taipei Times báo cáo 2019, xác nhận Freddy Lim rút khỏi Đảng Sức mạnh Thời đại, tranh cử tái nhiệm với tư cách độc lập và ủng hộ Thái Anh Văn tái tranh cử.
+[^12]: [Lim rời khỏi Đảng Sức Mạnh Mới, ủng hộ chiến dịch tranh cử của Tsai](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Báo cáp của Thời Báo Đài Bắc năm 2019, xác nhận Lim Tân Tso rời khỏi Đảng Sức Mạnh Mới, tranh cử lại với tư cấm là người không đảng và ủng hộ Tsai A Đông tranh cử lại.
 
-[^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA báo cáo 2022, xác nhận vụ bãi miễn Freddy Lim vì phiếu đồng ý không đạt ngưỡng định.
+[^13]: [Pháp sư độc lập Lim Tân Tso vượt qua cuộc bỏ phiếu thu hẹp](https://focustaiwan.tw/politics/202201090008) — Báo cáp của Focus Taiwan/CNA năm 2022, xác nhận vụ bỏ phiếu thu hẹp của Lim Tân Tso không thành công do số phiếu đồng ý chưa đạt ngưỡng.
 
-[^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Taipei Times báo cáo 2023, ghi lại Freddy Lim tuyên bố không tranh cử tái nhiệm, lý do chăm sóc gia đình mắc bệnh hiếm.
+[^14]: [Lim Tân Tso quyết định rời chính trường, chăm sóc gia đình](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Báo cáp của Thời Báo Đài Bắc năm 2023, ghi lại quyết định của Lim Tân Tso không tranh cử lại, lý do là chăm sóc người thân bị bệnh hi rất hiếm gặp.
 
-[^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA báo cáo 2023, xác nhận Freddy Lim xin gia nhập Đảng Dân chủ Tiến bộ, chuẩn bị hỗ trợ cuộc bầu cử 2024.
+[^15]: [Pháp sư độc lập Lim Tân Tso nộp đơn gia nhập Đảng Nhân Dân](https://focustaiwan.tw/politics/202311270019) — Báo cáp của Focus Taiwan/CNA năm 2023, xác nhận Lim Tân Tso nộp đơn gia nhập Đảng Nhân Dân và chuẩn bị hỗ trợ bầu cử năm 2024.
 
-[^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA báo cáo 2025, xác nhận Tổng thống Phủ công bố Freddy Lim bổ nhiệm làm đại diện Đài Loan tại Phần Lan.
+[^16]: [Nhân vật từng là ca sĩ ban nhạc được chỉ định làm đại sứ Đài Loan tại Phần Lan](https://focustaiwan.tw/politics/202505190024) — Báo cáp của Focus Taiwan/CNA năm 2025, xác nhận Văn phòng Tổng thống công bố Lim Tân Tso nhận chức vụ đại sứ Đài Loan tại Phần Lan.
 
-[^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Taipei Times phỏng vấn 2003, ghi lại lịch sử ban nhạc sớm, đàn nhị, Tượi Tượi Nữ, Giải thưởng âm nhạc Tây Ban Nha tốt nhất, và cách Freddy Lim chuyển đổi ý thức văn hóa mẹ black metal trở lại lịch sử Đài Loan và truyền thuyết dân gian.
+[^17]: [Chthonic đưa góc nhìn mới vào lịch sử Đài Loan](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Phỏng vấn đặc biệt của Thời Báo Đài Bắc năm 2003, ghi lại lịch sử ban đầu của Chthonic, nhạc kỳ dây, Linh Tổ Tữ, giải thưởng âm nhạc tốt nhất và cách Lim Tân Tso biến văn hóa kim loại đen trở thành nhận thức về lịch sử và truyền thuyết dân gian của Đài Loan.
 
-[^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Taipei Times báo cáo 2007, tóm tắt thời gian lưu diễn Chthonic trong Ozzfest giải thích bằng tiếng Anh cho khán giả Mỹ Đài Loan tham gia quốc tế bị cản trở, và biểu diễn 〈UNlimited Taiwan〉 bối cảnh.
+[^18]: [Chthonic thúc đẩy chiến dịch tham gia của Đài Loan tại Liên Hiệp Quốc trong phỏng vấn với NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Báo cáp của Thời Báo Đài Bắc năm 2007, tổng hợp cách Chthonic giải thích bằng tiếng Anh cho khán giả Mỹ trong thời gian biểu diễn tại Ozzfest, về sự cản trở trong tham gia quốc tế của Đài Loan và bản nhạc 'UNlimited Taiwan'.
 
-[^19]: [閃靈新歌「護國山」 創作靈感自政治受難者家屬](https://www.cna.com.tw/news/amov/202303010226.aspx) — CNA báo cáo 2023 〈護國山〉 tác phẩm cảm hứng, gia đình nạn nhân Khủng bố Trắng và ký ức gia đình Cao Nhất Sinh, bổ sung cách tác phẩm gần đây của Chthonic tiếp tục chủ đề ký ức lịch sử.
+[^19]: [Bài hát mới của Chthonic 'Bảo vệ Tổ quốc' lấy cảm hứng từ gia đình nạn nhân khóc khuất chính trị](https://www.cna.com.tw/news/amov/202303010226.aspx) — Báo cáp của Cục Tin Đài Loan năm 2023, ghi lại nguồn cảm hứng của bài hát 'Bảo vệ Tổ quốc', gia đình nạn nhân thời kỳ Bão hòa Trắng và ký ức của gia đình Trường Hà, bổ sung cách các tác phẩm của Chthonic trong những năm gần đây duy trì chủ đề ký ức lịch sử.
 
 ## Tài liệu tham khảo
 
