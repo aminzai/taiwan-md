@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T18:31:20+08:00",
-    "zhCommitHead": "b3de81486",
+    "lastUpdated": "2026-09-08T18:39:15+08:00",
+    "zhCommitHead": "c3beb3bf7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 85,
         "metadata_stale": 24,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "fr": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 761,
+        "fresh": 762,
         "stale": 75,
         "metadata_stale": 21,
-        "missing": 264,
+        "missing": 263,
         "orphan": 0
       },
       "hi": {
@@ -3831,8 +3831,8 @@
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "c3beb3bf",
+          "translationLastModified": "2026-09-08T18:31:20+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -31569,7 +31569,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -52537,8 +52548,8 @@
           "sourceContentHash": "sha256:0bd3cef2eb38faed",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "c3beb3bf",
+          "translationLastModified": "2026-09-08T18:31:20+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -121779,8 +121790,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3beb3bf",
+          "translationLastModified": "2026-09-08T18:31:20+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -129046,7 +129057,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-08T15:54:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -142046,8 +142068,8 @@
           "sourceContentHash": "sha256:810c670a0d955eec",
           "sourceBodyHash": "sha256:772e1869525f702d",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3beb3bf",
+          "translationLastModified": "2026-09-08T18:31:20+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
