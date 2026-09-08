@@ -1,24 +1,24 @@
 {
-  "totalArticles": 10171,
+  "totalArticles": 10264,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7173,
+  "totalTags": 7202,
   "categories": [
     {
       "name": "es",
-      "count": 887
+      "count": 892
     },
     {
       "name": "ko",
-      "count": 890
+      "count": 896
     },
     {
       "name": "fr",
-      "count": 890
+      "count": 894
     },
     {
       "name": "en",
-      "count": 895
+      "count": 901
     },
     {
       "name": "ja",
@@ -26,15 +26,15 @@
     },
     {
       "name": "vi",
-      "count": 808
+      "count": 818
     },
     {
       "name": "hi",
-      "count": 681
+      "count": 689
     },
     {
       "name": "ru",
-      "count": 793
+      "count": 802
     },
     {
       "name": "Technology",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 608
+      "count": 617
     },
     {
       "name": "ar",
-      "count": 759
+      "count": 766
     },
     {
       "name": "Politics",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 854
+      "count": 861
     },
     {
       "name": "Food",
@@ -106,7 +106,7 @@
     },
     {
       "name": "de",
-      "count": 97
+      "count": 119
     },
     {
       "name": "resources",
@@ -175,15 +175,15 @@
       "count": 24
     },
     {
-      "name": "飲食文化",
-      "count": 24
-    },
-    {
       "name": "半導體",
       "count": 24
     },
     {
       "name": "政治",
+      "count": 23
+    },
+    {
+      "name": "飲食文化",
       "count": 23
     },
     {
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10171,
+    "zh-TW": 10264,
     "en": 0
   },
-  "lastUpdated": "2026-09-07T22:17:47.022Z",
-  "stars": 1169,
+  "lastUpdated": "2026-09-08T22:13:53.312Z",
+  "stars": 1170,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
-    "en": 895,
+    "en": 901,
     "ja": 888,
-    "ko": 890,
-    "es": 887,
-    "fr": 890,
-    "vi": 808,
-    "id": 608,
-    "pt": 854,
-    "hi": 681,
-    "ar": 759,
-    "ru": 793,
-    "de": 97
+    "ko": 896,
+    "es": 892,
+    "fr": 894,
+    "vi": 818,
+    "id": 617,
+    "pt": 861,
+    "hi": 689,
+    "ar": 766,
+    "ru": 802,
+    "de": 119
   },
-  "enPages": 895,
+  "enPages": 901,
   "totalPages": 1119
 }

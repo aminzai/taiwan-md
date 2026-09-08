@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T22:17:46.551Z",
+  "lastUpdated": "2026-09-08T22:13:52.453Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9061,
+      "commits": 9065,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -35,16 +35,16 @@
     },
     {
       "login": "tboydar",
-      "commits": 72,
+      "commits": 73,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-09-03 14:52:40 +0800",
+      "lastCommitAt": "2026-09-07 19:00:58 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 70
+        "translation": 71
       }
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 47,
+      "commits": 50,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9061,
+      "commits": 9065,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -960,16 +960,16 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 72,
+      "commits": 73,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-09-03 14:52:40 +0800",
+      "lastCommitAt": "2026-09-07 19:00:58 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 4,
-        "translation": 70
+        "translation": 71
       }
     },
     {
@@ -1029,7 +1029,7 @@
       }
     }
   ],
-  "weeklyActive": 4,
+  "weeklyActive": 3,
   "monthlyActive": 9,
   "recentlyJoined": [
     {
