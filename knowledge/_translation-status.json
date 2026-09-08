@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T20:50:18+08:00",
-    "zhCommitHead": "de53834a8",
+    "lastUpdated": "2026-09-08T21:51:38+08:00",
+    "zhCommitHead": "1b235c1a4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 639,
+        "fresh": 640,
         "stale": 92,
         "metadata_stale": 82,
-        "missing": 308,
+        "missing": 307,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 551,
+        "fresh": 552,
         "stale": 50,
         "metadata_stale": 13,
-        "missing": 507,
+        "missing": 506,
         "orphan": 0
       },
       "pt": {
@@ -2146,8 +2146,8 @@
           "sourceContentHash": "sha256:5f5c57d9d0a5af84",
           "sourceBodyHash": "sha256:6ab99bf50b216a39",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "1b235c1a",
+          "translationLastModified": "2026-09-08T20:50:18+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -73450,7 +73450,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/shasha77-chang-chih-chi.md",
+          "translatedFrom": "People/張志祺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceBodyHash": "sha256:8df8bda804d8ffe0",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/shasha77-chang-chih-chi.md",
@@ -83509,7 +83520,18 @@
           "diffSummary": "+1 -1"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/mona-rudao.md",
+          "translatedFrom": "People/莫那·魯道.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T13:25:21.014550+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -97236,8 +97258,8 @@
           "sourceContentHash": "sha256:834d66de28d359a5",
           "sourceBodyHash": "sha256:45ab5eeee03419d3",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b235c1a",
+          "translationLastModified": "2026-09-08T20:50:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -121939,8 +121961,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b235c1a",
+          "translationLastModified": "2026-09-08T20:50:18+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -129225,8 +129247,8 @@
           "sourceContentHash": "sha256:7397e54a88091d6e",
           "sourceBodyHash": "sha256:3f4ab58302003b2a",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b235c1a",
+          "translationLastModified": "2026-09-08T20:50:18+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -140755,8 +140777,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "1b235c1a",
+          "translationLastModified": "2026-09-08T20:50:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
