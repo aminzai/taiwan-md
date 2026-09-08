@@ -2,9 +2,7 @@
 title: "Comté de Nantou : le seul comté sans littoral, avec l'épicentre du séisme du 21 septembre en son centre"
 description: "Le 21 septembre 1999 à 1 h 47 du matin, la faille de Chelungpu, sous le canton de Jiji, a rompu pendant 102 secondes : 2 415 morts dans tout Taïwan, dont 886 pour le seul Nantou, et 90 % des bâtiments endommagés dans le canton de Zhongliao. En 1930, le jour de la levée du drapeau à l'école publique de Wushe, Mona Rudao mena six communautés seediq et tua 134 civils japonais. En 1934, le barrage de Wujie éleva le niveau de l'eau de 18,18 mètres et submergea l'île Lalu des Thao. En 1957, Zhongxing New Village fut achevé comme bureau provisoire du gouvernement provincial ; en 1998, la réduction de la province le vida de ses fonctions, ne laissant que l'avenue bordée de palmiers. 470 000 personnes vivent dans ce comté intérieur qui monte de 100 mètres à 3 952 mètres, où Seediq, Bunun, Thao, Tsou et Han cohabitent. Les blessures les plus profondes de Taïwan sont toutes ici."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Nantou',
@@ -23,19 +21,23 @@ tags:
     'Puli',
     'série des 22 villes et comtés',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/南投縣.md'
+series: '22 縣市系列（batch 3）'
+image: '/article-images/geography/sun-moon-lake-twilight.webp'
+imageCredit: 'Tommy.In / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG'
 translatedFrom: 'Geography/南投縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c80f3accc7342bb8'
-sourceBodyHash: 'sha256:9116715a2d516221'
-translatedAt: '2026-06-16T17:05:54Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:3e20b5d7cae61e95'
+sourceBodyHash: 'sha256:b09f70f5d82caaa2'
+translatedAt: '2026-09-08T03:30:14.073384+00:00'
 ---
 
 # Comté de Nantou : le seul comté sans littoral, avec l'épicentre du séisme du 21 septembre en son centre
@@ -62,25 +64,25 @@ The Reporter a ensuite suivi le montant total des dégâts : « **Les dégâts d
 
 La fête de la Mi-Automne tombait quatre jours après le 921. La lune éclairait une ville de montagne sans électricité.
 
-## Le seul comté sans littoral, de 100 mètres à 3 952 mètres
+## Le seul département sans accès à la mer, de 100 mètres jusqu'à 3 952 mètres
 
-![Crépuscule sur le lac du Soleil et de la Lune. Ce lac artificiel, formé après que le barrage de Wujie eut élevé le niveau de l'eau de 18,18 mètres en 1934, a submergé le village originel de Shiyin des Thao et les terres agricoles autour de l'île Lalu. La surface du lac que voient aujourd'hui les touristes est une « nature » réécrite par l'ingénierie.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG)
-_Crépuscule sur le lac du Soleil et de la Lune. Photo : Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
+![Coucher de soleil sur le lac Sun Moon Lake. Lac artificiel formé après l'élévation du niveau d'eau de 18,18 mètres par le barrage de Wujie en 1934, inondant les établissements de Shi Yin et les terres agricoles autour de Lalu Island. Le plan d'eau que les touristes voient aujourd'hui est une "nature" réécrite par l'ingénierie.](/article-images/geography/sun-moon-lake-twilight.webp)
+_Coucher de soleil sur le lac Sun Moon Lake. Photo : Tommy.In / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
 
-Parmi les 22 villes et comtés de l'île principale de Taïwan, Nantou est **le seul comté qui ne touche pas la mer**.
+Nantou est **le seul comté** parmi les 22 municipalités de l'île principale de Taïwan qui n'est pas en bord de mer.
 
-De la frontière avec le comté de Changhua à l'ouest jusqu'à celle avec le comté de Hualien à l'est, Nantou mesure 95 kilomètres du nord au sud et 72 kilomètres d'est en ouest, pour une superficie de 4 106 kilomètres carrés : le deuxième plus grand comté de Taïwan, derrière Hualien[^7]. L'altitude part d'environ 100 à 150 mètres dans le centre urbain de Nantou et grimpe jusqu'aux 3 952 mètres du sommet principal du Yushan. Les terrains en pente représentent 83 % du comté ; les plaines sont rares. Parmi ses 13 cantons, bourgs et villes, Xinyi et Ren'ai sont des cantons de montagne, tandis que Yuchi est un canton autochtone de plaine.
+S'étendant de la frontière du comté de Changhua à l'ouest à celle du comté de Hualien à l'est, Nantou mesure 95 km au nord-sud et 72 km à l'est-ouest, avec une superficie de 4 106 kilomètres carrés. C'est le deuxième plus grand comté de Taïwan, juste après Hualien[^7]. L'altitude varie d'environ 100 à 150 mètres dans la ville de Nantou jusqu'au pic principal du Yushan à 3 952 mètres. Les pentes occupent 83 % du comté, et les plaines sont rares. Parmi ses 13 townships, Xinyi Township et Renai Township sont des régions montagneuses, tandis que Yuci Township est une région de plaine autochtone.
 
-Le Zhuoshui est le plus long fleuve de Taïwan, avec 186,4 kilomètres. Il prend sa source au « col de Sakuma », entre le sommet principal et le sommet est du Hehuanshan, à 3 220 mètres d'altitude, puis descend en traversant huit cantons de Nantou[^7]. La route provinciale 14A grimpe jusqu'au col situé entre le sommet principal et le sommet est du Hehuanshan, à 3 275 mètres : Wuling, le point routier le plus élevé de Taïwan.
+Le Zhuoshui est le plus long fleuve de Taïwan, avec 186,4 km. Il prend sa source dans le col de Zoujian, situé entre les pics principaux de Hehuan et Dongfeng (à 3 220 mètres d'altitude), et traverse huit townships de Nantou en descendant[^7]. La route n° 14甲 monte jusqu'au col à 3 275 mètres, entre le pic principal de Hehuan et Dongfeng, appelée Wuling, qui est le point le plus haut des routes de Taïwan.
 
-470 000 personnes vivent dans ce comté (chiffre de 2025)[^7]. La part des plus de 65 ans atteint 22,51 %, ce qui en fait le troisième comté le plus âgé de Taïwan. Les jeunes des zones de montagne partent depuis longtemps.
+Ce comté abrite 470 000 habitants (chiffres de 2025)[^7]. Le taux de population de plus de 65 ans est de 22,51 %, ce qui en fait l'un des trois comtés avec le vieillissement le plus avancé à Taïwan. Les jeunes quittent constamment les zones montagneuses.
 
-> **📝 Note curatoriale :** « Sans littoral » sonne comme un défaut. Mais lorsque le gouvernement nationaliste choisit Zhongxing New Village en 1957 comme bureau provisoire du gouvernement provincial, l'une des raisons était justement son caractère **suffisamment intérieur** : si une guerre entre les deux rives touchait Taipei, le gouvernement provincial ne serait pas détruit en même temps que le gouvernement central. L'intérieur était une réserve, une sécurité. Puis, le 21 septembre 1999 à 1 h 47 du matin, la blessure intérieure la plus profonde de l'après-guerre taïwanais jaillit du centre de ce comté « le plus intérieur ». La signification physique de l'intérieur fut redéfinie en 102 secondes : on pouvait croire qu'être loin de la guerre, c'était être loin du désastre, mais la faille de Chelungpu ne choisit pas de camp.
+> **📝 Note du curateur :** L'expression « sans accès à la mer » semble être un défaut. Cependant, en 1957, le gouvernement national a choisi Zhongxing New Village comme bureau temporaire pour le gouvernement provincial, en partie parce qu'il était **assez intérieur** : au cas où une guerre entre les deux rives affecterait Taipei, le gouvernement provincial ne serait pas détruit avec le pouvoir central. L'intérieur est une réserve, c'est la sécurité. Puis, à 1h47 du matin le 21 septembre 1999, l'une des blessures intérieures les plus profondes de Taïwan après la guerre a éclaté au centre de ce comté « le plus intérieur ». La signification physique de l'intérieur a été redéfinie en 102 secondes : vous pensiez que s'éloigner de la guerre signifiait s'éloigner du désastre, mais la faille de Chuanlu n'a pas fait de distinction.
 
-L'histoire de ce comté s'organise par altitude. Le canal Babao dans la plaine, Wushe sur le flanc des montagnes, l'île Lalu sous la surface du lac, le Yushan à 3 952 mètres : chaque niveau d'altitude porte une histoire.
+L'histoire de ce comté est ordonnée par l'altitude. Le Baobaozhen sur la plaine, Wushe sur les pentes, Lalu Island sous le lac, et le Yushan à 3 952 mètres ; chaque niveau d'altitude porte une histoire.
 
-![Paysage de haute montagne autour du sommet principal du Hehuanshan ; Wuling, à 3 275 mètres d'altitude, se situe au col entre le sommet principal et le sommet est du Hehuanshan. Ce point de la route provinciale 14A est le plus haut point routier de Taïwan ; les chutes de neige hivernales y font chaque année l'un des rares lieux de l'île principale où l'on peut observer la neige.](/article-images/geography/nantou-01.webp)
-_Paysage du Hehuanshan. Photo : Chewy3326, CC BY 2.5. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
+![Paysage montagneux autour du pic principal de Hehuan, avec le col de Wuling à 3 275 mètres situé entre les pics principaux de Hehuan et Dongfeng. Ce point sur la route n° 14甲 est le point le plus haut des routes de Taïwan, et c'est l'un des rares endroits de l'île principale où la neige tombe en hiver.](/article-images/geography/nantou-01.webp)
+_Paysage de Hehuan. Photo : Chewy3326, CC BY 2.5. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
 
 ## L'eau du canal Babao coule jusqu'à Mingjian depuis l'ère Kangxi
 
@@ -128,34 +130,34 @@ En 2011 sortit le film de Wei Te-sheng, _Seediq Bale_, avec 880 millions de doll
 
 Mais aujourd'hui, quand on va à Wushe, on voit un site touristique : le parc commémoratif Mona Rudao, le monument de l'incident de Wushe, la communauté de Qingliu. La blessure des Seediq a été transformée en itinéraire paysager où l'on prend des photos.
 
-## Le barrage de Wujie éleva l'eau de 18,18 mètres, et l'île Lalu des Thao devint un îlot isolé de 30 mètres
+## Le barrage de Wujie s'élève de 18,18 mètres, transformant l'île Lalu des Thao en un îlot isolé de 30 mètres
 
-Le 3 juin 1934, la première centrale électrique du lac du Soleil et de la Lune (aujourd'hui centrale Daguan, unité Daguan I) fut achevée. Sa capacité était de 143 500 kilowatts : « **à l'époque, la plus grande installation hydroélectrique d'Asie et la septième du monde** »[^13].
+Le 3 juin 1934, la première centrale hydroélectrique du lac Sun Moon (aujourd'hui la première usine de la centrale de Daquan) a été achevée. Avec une production de 143 500 kilowatts, elle était « **la plus grande installation hydroélectrique d'Asie et la septième au monde à l'époque** »[^13].
 
-De la création de la Taiwan Electric Power Company en 1919, qui fit du projet hydroélectrique du lac du Soleil et de la Lune sa priorité, à l'arrêt des travaux en 1923 après le tremblement de terre du Kantō, qui fit exploser le budget, puis à la reprise du chantier et la révision du plan en 1931, on construisit un barrage-poids en béton en amont du Zhuoshui, à Wujie dans le canton de Ren'ai (barrage de Wujie, haut de 57,6 mètres, long de 90,91 mètres, avec six vannes), et l'on creusa un tunnel d'amenée pour envoyer l'eau dans le lac du Soleil et de la Lune[^13]. Le plus grand chantier hydraulique de la période japonaise prit 15 ans.
+De la création de Taiwan Electric Company en 1919, qui avait inscrit le projet hydroélectrique du lac Sun Moon comme priorité absolue, à l'arrêt des travaux dû au tremblement de terre de Kanto en 1923 et à la révision du plan en 1931, on est parvenu à construire un barrage en béton de type gravité à Wujie, dans le comté de Ren'ai, en amont du fleuve Zhuo (barrage de Wujie, hauteur de 57,6 mètres, longueur de 90,91 mètres, avec 6 vannes), et à forer un tunnel d'adduction pour acheminer l'eau vers le lac Sun Moon[^13]. Ce projet hydraulique, le plus grand de la période coloniale japonaise, a duré 15 ans.
 
-En septembre 1934, l'aqueduc de Wujie commença à débiter, et **le niveau du lac du Soleil et de la Lune monta de 18,18 mètres**[^13].
+En septembre 1934, lorsque l'adduction de Wujie a commencé à déverser de l'eau, **le niveau du lac Sun Moon est monté de 18,18 mètres**[^13].
 
-La surface du lac passa de 4,55 kilomètres carrés à 7,73 kilomètres carrés. La page historique du site touristique officiel du lac du Soleil et de la Lune consigne mot pour mot l'impact sur les Thao : « **La hausse du niveau de l'eau submergea les villages traditionnels et les terres cultivées des Thao ; les Japonais déplacèrent les Thao à Dehuashe, et chaque personne ne reçut que deux fen de terre, tandis que la population thao diminua progressivement.** »[^14]
+La superficie du lac est passée de 4,55 km² à 7,73 km². La page historique du site touristique du lac Sun Moon consigne mot pour mot l'impact sur les Thao : « **l'élévation du niveau a inondé les colonies traditionnelles et les terres agricoles des Thao ; les Japonais ont déplacé les Thao dans le village de Dehua, où chaque famille n'a reçu que deux _fen_ (unités de mesure de terre), et la population des Thao a progressivement diminué** »[^14].
 
-Les Thao vivaient à l'origine dans le village de Shiyin, sur la rive orientale du lac du Soleil et de la Lune, et leurs terres agricoles se répartissaient autour du lac. **L'année où le niveau de l'eau monta, leur maison fut engloutie**.
+Les Thao vivaient initialement dans la colonie de Shiyin sur la rive est du lac Sun Moon, avec leurs terres agricoles réparties autour du lac. **L'année où le niveau de l'eau a monté, leurs maisons ont été inondées**.
 
-L'île Lalu (Lalu) est une petite île au centre du lac du Soleil et de la Lune, le plus haut lieu ancestral des Thao. En langue thao, Lalu signifie « **île sacrée au cœur** »[^15]. Sous la domination japonaise, elle s'appelait « île de Jade » ; après la guerre, en 1949, le Kuomintang la renomma « île Guanghua » (au sens de « faire rayonner la Chine »). Les centaines de jia de terres agricoles originelles furent réduites, après les travaux du réservoir, à un îlot isolé de 30 mètres de diamètre. **Il fallut 15 ans pour transformer une île sacrée en un petit îlot autour duquel les bateaux touristiques tournent pour prendre des photos**.
+Lalu est une petite île au centre du lac Sun Moon, considérée comme le lieu ancestral suprême des Thao. Dans la langue Thao, Lalu signifie « **île sacrée du cœur** »[^15]. Pendant la période coloniale japonaise, elle était appelée "Jade Island" (_Yùdǎo_), et après 1949, le KMT l'a renommée "Guanghua Island" (signifiant "Gloire de Chine"). Elle est passée d'une terre agricole de cent _jia_ à un îlot isolé de 30 mètres de diamètre suite au projet du réservoir. **Il a fallu 15 ans pour que cette île sacrée devienne un petit îlot autour duquel les bateaux touristiques passent en photo**.
 
-![L'île Lalu, en août 2013. Cette petite île au centre du lac du Soleil et de la Lune est le plus haut lieu ancestral des Thao ; Lalu signifie « île sacrée au cœur ». Avant que le barrage de Wujie n'élève le niveau de l'eau de 18,18 mètres en 1934, c'était une centaine de jia de terres agricoles thao ; aujourd'hui, elle est réduite à un îlot isolé de 30 mètres de diamètre, autour duquel les bateaux touristiques tournent pour prendre des photos. En 2000, elle retrouva officiellement le nom de Lalu après avoir été appelée « île Guanghua ».](/article-images/geography/nantou-01.webp)
-_Île Lalu, 2013-08-19. Photo : Ckbun, CC BY-SA 3.0. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
+![Lalu, la petite île au centre du lac Sun Moon, lieu ancestral suprême des Thao. Avant l'élévation de 18,18 mètres du niveau d'eau par le barrage de Wujie en 1934, c'était une terre agricole de cent *jia* pour les Thao. Aujourd'hui réduite à un îlot isolé de 30 mètres de diamètre, elle est visitée en bateau. Elle a été renommée Lalu après avoir été "Guanghua Island" en 2000.](/article-images/geography/nantou-lalu-island-2013.webp)
+_Lalu, 19 août 2013. Photo : Ckbubutp, CC BY-SA 3.0. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
 
-En 2000, les Thao obtinrent que l'île Guanghua retrouve officiellement le nom d'« île Lalu »[^15]. L'année suivante, le 8 août 2001, les Thao furent reconnus depuis la catégorie des peuples pingpu comme **le 10e peuple autochtone**. ⚠️ Les chiffres de population thao varient selon les années : le département de l'enregistrement des foyers du ministère de l'Intérieur comptait 776 personnes en 2017 ; d'autres statistiques donnent environ 885 personnes. Cet article retient « **environ un peu plus de 800 personnes** », ce qui en fait le troisième peuple le moins nombreux parmi les 16 peuples autochtones de Taïwan[^16].
+En 2000, les Thao ont réclamé que "Guanghua Island" soit renommée "Lalu"[^15]. L'année suivante, le 8 août 2001, les Thao ont été officiellement reconnus comme **le 10e peuple autochtone**.⚠️ Les chiffres de la population des Thao varient selon l'année : le Bureau des affaires intérieures a compté 776 personnes en 2017, tandis que d'autres statistiques indiquent environ 885 personnes. Nous utilisons ici « **environ plus de 800 personnes** », ce qui fait des Thao le troisième groupe avec la population la plus faible parmi les 16 peuples autochtones de Taïwan[^16].
 
-> **✦** « **La hausse du niveau de l'eau submergea les villages traditionnels et les terres cultivées des Thao ; les Japonais déplacèrent les Thao à Dehuashe, et chaque personne ne reçut que deux fen de terre.** » (page historique du site touristique du lac du Soleil et de la Lune[^14])
+> **✦** « **l'élévation du niveau a inondé les colonies traditionnelles et les terres agricoles des Thao ; les Japonais ont déplacé les Thao dans le village de Dehua, où chaque famille n'a reçu que deux _fen_** » (Page historique du site touristique du lac Sun Moon[^14])
 
-La surface du lac que les touristes voient aujourd'hui au lac du Soleil et de la Lune est une « nature » réécrite par une hausse d'ingénierie de **18,18 mètres**. Les prétendues « croisières sur le lac du Soleil et de la Lune » font le tour des champs thao engloutis il y a 91 ans.
+Le plan d'eau que les touristes voient aujourd'hui au lac Sun Moon est une « nature » réécrite par l'ingénierie, **rehaussée de 18,18 mètres**. Le soi-disant "tourisme sur le lac Sun Moon" fait le tour des champs inondés il y a 91 ans.
 
-Les Bunun vivent de l'autre côté de Nantou : dans le canton de Xinyi. Le long du bassin de la rivière Chenyoulan se répartissent cinq groupes : Takitudu, Takibakha, Takivatan, Takbanuaz et Isbukun[^17]. Le groupe Takitudu vit au village de Jiumei (le plus au nord du canton de Xinyi) ; le groupe Takibakha se trouve à Dili et Shuanglong ; le groupe Takivatan est à Dili, en amont de la Chenyoulan ; le groupe Takbanuaz est à Fengqiu, Wangxiang et Xinxiang ; le groupe Isbukun est à Dongpu et Luona. Le Pasibutbut (chant polyphonique à huit voix) « **n'est transmis que parmi les groupes Takbanuaz et Isbukun des Bunun** » ; les groupes Takivatan, Takibakha et Takitudu ne le chantent pas[^17]. ⚠️ La promotion touristique générale fait souvent du « chant à huit voix » l'emblème de tous les Bunun, mais en réalité seuls deux groupes le chantent. La communauté de Mingde, où cohabitent Takbanuaz et Isbukun, est aujourd'hui la communauté capable de chanter le pasibutbut la plus proche du plus ancien territoire ancestral des Bunun.
+Les Bunun vivent dans une autre partie du comté de Nantou : le comté de Xin Yi. Les communautés Zuo, Ka, Dan, Luan et Jun sont réparties le long du bassin versant de la rivière Chen Youlan[^17]. La communauté Zuo vit à Jiumei Village (le plus au nord du comté de Xin Yi), la communauté Ka est à Duelingli, la communauté Dan est en amont de la rivière Chen Youlan dans le village de Dilin, la communauté Luan est à Wangxiangxin Township, et la communauté Jun est à Luona, Tao Yuan. Le _Pasibutbut_ (chant polyphonique) « **ne se transmet que dans les communautés Luan et Jun** », tandis que Dan, Ka et Zuo ne le chantent pas[^17].⚠️ Les brochures touristiques généralistes présentent souvent le "Pasibutbut" comme un symbole de tous les Bunun, mais en réalité, seuls deux groupes le pratiquent. Le village de Mingde (où cohabitent les communautés Luan et Jun) est le seul lieu où l'on peut encore chanter le _pasibutbut_ et qui est le plus proche des lieux d'origine des ancêtres Bunun.
 
-L'est du canton de Xinyi comprend aussi le territoire traditionnel des Tsou, et le parc national du Yushan se situe dans cette zone. **Le parc national du Yushan s'étend sur quatre villes et comtés** : le canton de Xinyi dans le comté de Nantou, le canton d'Alishan dans le comté de Chiayi, le district de Taoyuan dans la ville de Kaohsiung, et **le canton de Zhuoxi dans le comté de Hualien**[^18]. ⚠️ Les descriptions générales omettent souvent la partie du canton de Zhuoxi, à Hualien, mais le périmètre réel du parc s'étend bien jusqu'au sud-est de Hualien. Créé le 10 avril 1985, il couvre 105 490 hectares et constitue le plus grand parc national de Taïwan.
+À l'est du comté de Xin Yi, se trouve également le territoire traditionnel du peuple Tsou, où se situe le parc national de Yushan. **Le parc national de Yushan s'étend sur quatre municipalités** : le comté de Xin Yi (Nantou), la municipalité d'Alishan (Chiayi), l'arrondissement de Taoyuan (Kaohsiung) et le comté de Zhuoxi (Hualien)[^18].⚠️ Les descriptions courantes omettent souvent la partie du comté de Zhuoxi à Hualien, mais la zone réelle du parc s'étend jusqu'au coin sud-est de Hualien. Créé le 10 avril 1985, il couvre une superficie de 105 490 hectares et est le plus grand parc national de Taïwan.
 
-Dans ce seul comté de Taïwan sans littoral vivent quatre peuples autochtones, les Seediq, Bunun, Thao et Tsou, ainsi que des Han hoklo et hakka. Les cantons de montagne ne sont que deux parmi les 13 cantons, bourgs et villes, mais la superficie de ces deux cantons dépasse de loin celle des 11 autres réunis.
+Dans ce comté unique qui n'a pas accès à la mer (Nantou), vivent quatre peuples autochtones : les Seediq, les Bunun, les Thao et les Tsou, ainsi que les Han (Min et Hakka). Les zones montagneuses représentent 2 des 13 villes/municipalités, mais ces deux municipalités ont une superficie combinée supérieure à celle des 11 autres.
 
 ## L'avenue de palmiers de Zhongxing New Village est toujours là
 
@@ -255,16 +257,16 @@ Après ces 102 secondes à 1 h 47 du matin, Nantou n'est pas devenu une ruine. I
 
 ## Sources des images
 
-Cet article utilise cinq images sous licence CC de Wikimedia Commons, hot-linkées depuis le serveur Wikimedia upload :
+Cet article utilise 5 images sous licence CC de Wikimedia Commons, le visuel principal est mis en cache dans `public/article-images/geography/` pour éviter les liens cassés vers les serveurs sources, et les 4 autres sont liées directement depuis le serveur de téléchargement de Wikimedia :
 
-- **Hero (frontmatter)** : [Sun Moon Lake in Twilight](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG) — Photo : Tommy.In, CC BY-SA 3.0. Crépuscule sur le lac du Soleil et de la Lune, lac artificiel formé après que le barrage de Wujie eut élevé l'eau de 18,18 mètres en 1934.
-- **Scène §Le seul comté sans littoral (lac du Soleil et de la Lune)** : même image que le hero — réutilisée dans le corps comme ancrage visuel géographique.
-- **Scène §Le seul comté sans littoral (Hehuanshan)** : [Hehuanshan Cuesta](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG) — Photo : Chewy3326, CC BY 2.5. Environs du sommet principal du Hehuanshan ; Wuling, à 3 275 mètres, est le point routier le plus élevé de Taïwan.
-- **Scène §Barrage de Wujie (île Lalu)** : [Île Lalu, 19 août 2013](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG) — Photo : Ckbun, CC BY-SA 3.0. Île sacrée des Thao au centre du lac du Soleil et de la Lune, renommée Lalu en 2000 après avoir porté le nom de « Guanghua ».
-- **Scène §Zhongxing New Village** : [Taiwan JhongSing Village Paifang](https://commons.wikimedia.org/wiki/File:Taiwan_JhongSing_Village_Paifang.JPG) — Portique d'entrée de Zhongxing New Village, achevé en 1957 sur le modèle des villes nouvelles britanniques, témoignage physique de l'ère du gouvernement provincial. CC BY-SA 2.5.
-- **Scène §Canton de Zhongliao (parc éducatif 921)** : [921 Earthquake Museum of Taiwan 2024-09-21](https://commons.wikimedia.org/wiki/File:921_Earthquake_Museum_of_Taiwan_2024-09-21.jpg) — Photo : Liu Shu-fu / Office of the President, CC BY 2.0. Parc éducatif du séisme du 21 septembre, site de conservation de la faille de Chelungpu dans l'ancien collège Guangfu à Wufeng, Taichung.
+- **Visuel principal (frontmatter)** : [Sun Moon Lake in Twilight](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG) — Photo : Tommy.In, CC BY-SA 3.0. Lac Sun Moon au crépuscule, un lac artificiel formé après que le barrage Wujie ait été construit à une hauteur de 18,18 mètres en 1934.
+- **Scène §Seul sans mer (Lac Sun Moon)** : Même visuel principal — répété dans le corps du texte comme ancre visuelle de base géographique.
+- **Scène §Seul sans mer (Mont Hehuanshan)** : [Hehuanshan Cuesta](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG) — Photo : Chewy3326, CC BY 2.5. La région du pic principal de Mont Hehuanshan, avec le col Wuling à 3 275 mètres d'altitude étant le point le plus haut des routes de Đài Loan.
+- **Scène §Barrage Wujie (Île Lâru)** : [L'île Lâru le 19 août 2013](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG) — Photo : Ckbun, CC BY-SA 3.0. Île sacrée de la tribu Tao au centre du lac Sun Moon, renommée Lâru en 2000 à partir de « Guanghua Island ».
+- **Scène §Village Zhongxing (Zhongxing Xin Cun)** : [Taiwan JhongSing Village Paifang](https://commons.wikimedia.org/wiki/File:Taiwan_JhongSing_Village_Paifang.JPG) — Porte d'entrée du village Zhongxing Xin Cun, construite en 1957 dans le modèle de ville nouvelle britannique, un témoignage physique de l'ère gouvernementale provinciale. CC BY-SA 2.5.
+- **Scène §Comté Zhongliao (Parc éducatif 921)** : [921 Earthquake Museum of Taiwan 2024-09-21](https://commons.wikimedia.org/wiki/File:921_Earthquake_Museum_of_Taiwan_2024-09-21.jpg) — Photo : Liu Shu-fu / Office du Président, CC BY 2.0. Parc éducatif sismique de 921, site de fracture de Carongpu à Wufeng, Taichung.
 
-Licences : [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/).
+Conditions de licence : [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/).
 
 ## Références
 
