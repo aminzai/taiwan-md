@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T21:51:38+08:00",
-    "zhCommitHead": "1b235c1a4",
+    "lastUpdated": "2026-09-08T21:52:56+08:00",
+    "zhCommitHead": "eb346308a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 764,
+        "fresh": 765,
         "stale": 75,
         "metadata_stale": 21,
-        "missing": 261,
+        "missing": 260,
         "orphan": 0
       },
       "hi": {
@@ -36497,8 +36497,8 @@
           "sourceContentHash": "sha256:103cffd41c084886",
           "sourceBodyHash": "sha256:afbe1eb00070eaa4",
           "translatedAt": "2026-09-08T15:54:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "eb346308",
+          "translationLastModified": "2026-09-08T21:51:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -83526,15 +83526,26 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-08T13:25:21.014550+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "eb346308",
+          "translationLastModified": "2026-09-08T21:51:38+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/mona-rudao.md",
+          "translatedFrom": "People/莫那·魯道.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T13:27:53.076149+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -129264,8 +129275,8 @@
           "sourceContentHash": "sha256:7397e54a88091d6e",
           "sourceBodyHash": "sha256:3f4ab58302003b2a",
           "translatedAt": "2026-09-08T15:54:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "eb346308",
+          "translationLastModified": "2026-09-08T21:51:38+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
