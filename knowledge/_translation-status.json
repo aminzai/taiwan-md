@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T14:32:58+08:00",
-    "zhCommitHead": "7ccc3db88",
+    "lastUpdated": "2026-09-08T15:30:37+08:00",
+    "zhCommitHead": "65067dfee",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,17 +36,17 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 85,
-        "metadata_stale": 27,
+        "metadata_stale": 26,
         "missing": 231,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 775,
+        "fresh": 776,
         "stale": 87,
-        "metadata_stale": 25,
+        "metadata_stale": 24,
         "missing": 234,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 100,
+        "fresh": 101,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 1013,
+        "missing": 1012,
         "orphan": 0
       }
     },
@@ -2812,7 +2812,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/little-tigers-taiwan-boy-band.md",
+          "translatedFrom": "Music/小虎隊.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:3550fb52e312828d",
+          "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
+          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -3848,34 +3859,30 @@
         "ko": {
           "path": "ko/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fa",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-23T17:00:00+08:00",
+          "translatedAt": "2026-09-08T00:42:47+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fa",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-23T22:45:00+08:00",
+          "translatedAt": "2026-09-08T00:42:49+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/chthonic.md",
@@ -25363,8 +25370,8 @@
           "sourceContentHash": "sha256:7704f0ba39f9bad2",
           "sourceBodyHash": "sha256:953746868edc36a0",
           "translatedAt": "2026-09-08T05:01:54.054334+00:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "65067dfe",
+          "translationLastModified": "2026-09-08T14:32:59+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -39042,8 +39049,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-08T00:42:58+08:00",
-          "translationLastCommit": "adc69a2f",
-          "translationLastModified": "2026-07-29T04:32:17+08:00",
+          "translationLastCommit": "65067dfe",
+          "translationLastModified": "2026-09-08T14:32:59+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
