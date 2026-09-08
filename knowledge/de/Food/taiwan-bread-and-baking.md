@@ -4,7 +4,7 @@ description: 'Von Wu Pao-Chuns Weltmeistertitel bis zur internationalen Expansio
 date: 2026-03-19
 category: 'Food'
 tags: ['Brot', 'Backhandwerk', 'Wu Pao-Chun', 'taiwanisches Brot', '85°C']
-subcategory: 'Backwaren und Süßspeisen'
+subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
@@ -83,7 +83,7 @@ Technologische Innovation ist ein weiterer wichtiger Trend. Automatisierte Anlag
 
 Die Entwicklung der taiwanischen Brot- und Backbranche lässt sich klar nachzeichnen: von Wu Pao-Chuns erstem Titelgewinn 2010 über die drei weiteren Mondial-du-Pain-Einzeltitel in den Jahren 2015, 2017 und 2022 bis zur Expansion von 85°C nach Europa, Amerika und Asien. Die international aufgebaute Wettbewerbsfähigkeit der taiwanischen Backbranche ist durch handfeste Ergebnisse belegt – sie ist nicht nur eine technische, sondern eine vollständige Weiterentwicklung von der Produktion bis zur Marke.[^4]
 
-## Bildquelle
+## Bildquellen
 
 - Hero-Bild: Taiwanischer Ananaskuchen, fotografiert von Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), gemeinfrei.
 

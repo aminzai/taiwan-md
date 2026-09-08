@@ -3,8 +3,15 @@ title: 'Palakaw: Apartemen Ikan Tiga Lantai dan Perjanjian Ekologis di Lahan Bas
 description: 'Di lahan basah Fataan, Hualien, masyarakat suku Amis memanfaatkan "sampah" dari alam untuk membangun tempat tinggal tiga lantai bagi ikan dan udang. Metode penangkapan ikan tradisional bernama "Palakaw" ini tidak mengandalkan perburuan, melainkan "memberi" untuk menerima kembali anugerah alam — mewujudkan kearifan ekologi yang diwariskan selama ribuan tahun.'
 date: 2026-05-08
 category: 'Nature'
-tags: ['Suku Amis', 'Fataan', 'Palakaw', 'kearifan ekologi', 'metode penangkapan ikan tradisional']
-subcategory: 'Kearifan Ekologi Masyarakat Adat'
+tags:
+  [
+    'Suku Amis',
+    'Fataan',
+    'Palakaw',
+    'kearifan ekologi',
+    'metode penangkapan ikan tradisional',
+  ]
+subcategory: '原住民生態智慧'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 8
@@ -25,11 +32,11 @@ Lahan basah Fataan memiliki lingkungan mata air alami yang istimewa; aliran Sung
 
 Inti dari struktur Palakaw adalah sebuah "apartemen" tiga lantai yang dirancang dengan cermat, di mana setiap lantai disesuaikan dengan kebiasaan spesies tertentu, mengubah bahan alami yang terbuang menjadi terumbu buatan yang penuh kehidupan.[^3] Teknik ini dianggap oleh para peneliti sebagai perintis teknologi terumbu buatan modern di Taiwan, yang bahkan telah ada jauh sebelum masa pemerintahan Belanda di Taiwan.[^4]
 
-| Lantai | Bahan Utama | Penghuni | Karakteristik Ekologis |
-| :--- | :--- | :--- | :--- |
-| **Lantai bawah** | Batang bambu besar atau kayu berongga | Belut, sidat, ikan lele | Ikan dasar yang menyukai ruang persembunyian yang gelap dan stabil. |
-| **Lantai tengah** | Ikatan ranting pohon jiu-xiong (Lagerstroemia) | Ikan dan udang kecil | Celah-celah rapat menjadi tempat berlindung dari predator sekaligus tempat tumbuhnya biofilm sebagai makanan. |
-| **Lantai atas** | Batang bambu kecil, tumbuhan air, daun pinang | Ikan mujair, ikan kuhua, ikan sungai | Menaungi dari sinar matahari dan menyediakan ruang yang sejuk dan tenang untuk mengapung. |
+| Lantai            | Bahan Utama                                    | Penghuni                             | Karakteristik Ekologis                                                                                        |
+| :---------------- | :--------------------------------------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| **Lantai bawah**  | Batang bambu besar atau kayu berongga          | Belut, sidat, ikan lele              | Ikan dasar yang menyukai ruang persembunyian yang gelap dan stabil.                                           |
+| **Lantai tengah** | Ikatan ranting pohon jiu-xiong (Lagerstroemia) | Ikan dan udang kecil                 | Celah-celah rapat menjadi tempat berlindung dari predator sekaligus tempat tumbuhnya biofilm sebagai makanan. |
+| **Lantai atas**   | Batang bambu kecil, tumbuhan air, daun pinang  | Ikan mujair, ikan kuhua, ikan sungai | Menaungi dari sinar matahari dan menyediakan ruang yang sejuk dan tenang untuk mengapung.                     |
 
 Logika kerja sistem ini sangat cermat: batang bambu besar di lantai paling bawah menyediakan tempat berlindung bagi ikan tak bersisik; ranting pohon jiu-xiong di lantai tengah bagaikan ruang penitipan alami, membiarkan ikan dan udang kecil tumbuh dengan aman di celah-celah sempit; sementara daun pinang dan tumbuhan air yang menutupi lantai atas menghalangi sinar matahari yang menyengat sekaligus mengatur suhu air.[^5] Yang lebih menakjubkan lagi, kotoran ikan dari lantai atas jatuh berlapis-lapis ke bawah dan menjadi makanan bagi ikan dan udang kecil di lantai tengah, membentuk siklus rantai makanan mini.[^6]
 
@@ -58,19 +65,35 @@ Bagi warga Fataan, Palakaw adalah cara mereka berdialog dengan tanah. Ia menging
 ## Referensi
 
 [^1]: [Bank Ingatan Budaya Nasional: Penjelasan Materi Palakaw](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=264809) — menjelaskan secara rinci pergeseran makna kata "Lakaw" dari sampah menjadi habitat ikan.
+
 [^2]: [Pulima: Mengalami Sebuah Sungai dengan Tubuh](https://www.pulima.com.tw/websites/Pulima/xxxx_21111514310733457.aspx) — mencatat legenda dewa sungai Fataan, Idek, dan konteks budaya terbentuknya lahan basah ini.
+
 [^3]: [Buletin Elektronik Badan Sumber Daya Air Edisi 0582: Palakaw Fataan Memulihkan Daya Hidup Sungai](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=8949&n=30173) — mencatat secara rinci struktur tiga lantai Palakaw, bahan yang digunakan, dan spesies ikan yang sesuai.
+
 [^4]: [Sistem Nilai Tambah Pengetahuan Tesis Nasional Taiwan: Penelitian Metode Penangkapan Ikan Palakaw Suku Amis Kampung Fataan](https://ndltd.ncl.edu.tw/handle/94101679425572461386) — menyebutkan bahwa Palakaw adalah perintis teknologi terumbu buatan Taiwan.
+
 [^5]: [Persembahan Kearifan Tradisional Masyarakat Adat: Ketika Akuaponik Bertemu Palakaw](https://library.yabit.org.tw/literature/introduction/161) — membahas penerapan kearifan alam Palakaw dalam bidang biologi dan ekologi.
+
 [^6]: [Stasiun Peningkatan Pertanian Wilayah Hualien: Palakaw, Rumah Susun Nasional untuk Ikan](https://www.hdares.gov.tw/upload/hdares/files/web_structure/6173/121_5.pdf) — menjelaskan siklus nutrisi dan struktur rantai makanan di dalam Palakaw.
+
 [^7]: [Situs Informasi Perlindungan Hak Cipta Kearifan Tradisional Masyarakat Adat: Keterampilan Menangkap Ikan Tradisional Palakaw Kampung Fataan](https://www.titic.cip.gov.tw/app/caseDetail?num=1050425000006) — data pendaftaran resmi yang menegaskan status hukum Palakaw sebagai kearifan yang dilindungi.
+
 [^8]: [IPCF: Keberlanjutan Ekologi! Metode Menangkap Ikan Ramah Lingkungan Palakaw yang Diwariskan Turun-temurun di Fataan](https://www.ipcf.org.tw/-/News/Detail?newsId=23041020441105872) — menekankan nilai keberlanjutan lingkungan Palakaw berdasarkan prinsip tidak mengeringkan kolam untuk menangkap ikan.
+
 [^10]: [Vocus: Tangisan dan Harapan Sungai Fataan](https://vocus.cc/article/68d8c50afd8978000179c2c3) — membahas makna budaya nama tempat Fataan sebagai "tempat berkumpulnya air mata" dalam bahasa suku Amis.
+
 [^11]: [NTU Scholars: Tinjauan Literatur Penelitian Etnobotani dan Pengetahuan Ekologi Tradisional Masyarakat Adat Taiwan](https://scholars.lib.ntu.edu.tw/bitstreams/0f675ea8-4144-45e8-a76c-6cc5b483dc58/download) — menempatkan Palakaw sebagai contoh penting Pengetahuan Ekologi Tradisional (TEK) masyarakat adat Taiwan.
+
 [^12]: [Kementerian Pertanian: Merasakan Pengalaman Menangkap Ikan Ekologis Palakaw di Taman Pertanian Xinlu](https://www.moa.gov.tw/ws.php?id=2506483) — memperkenalkan promosi Palakaw dalam pertanian rekreasi dan pendidikan lingkungan modern.
+
 [^13]: [Taipei Times: Bureau licensed to use Aboriginal technology](https://www.taipeitimes.com/News/taiwan/archives/2021/08/05/2003762071) — melaporkan bagaimana lembaga pemerintah memperoleh izin untuk menggunakan teknik tradisional ini.
+
 [^14]: [ISE 2026 Event Info: A Cross-Cultural Fishing Technology Workshop](https://kaigi.eventsair.com/QuickEventWebsitePortal/international-society-of-ethnobiology-congress-2026/ise2026eventinfo/Agenda/AgendaItemDetail?id=451c7199-4805-4984-9e6f-6c18f28faead) — Kongres Internasional Etnobiologi 2026 menjadikan Palakaw sebagai studi kasus percontohan global.
+
 [^15]: [MDPI Sustainability: Sustainable Development in Local Culture Industries](https://www.mdpi.com/2071-1050/14/6/3404) — membahas model kebangkitan budaya masyarakat adat dan pengembangan berkelanjutan dengan mengambil contoh Fataan.
+
 [^16]: [Taiwan Panorama: Organic, Eco-Friendly, and Sustainable Agriculture](https://www.taiwan-panorama.com/en/Articles/Details?Guid=42376353-5d3d-4c9b-b22a-91404bfc66c4) — memperkenalkan kontribusi kearifan masyarakat adat dalam pertanian organik dan berkelanjutan di Taiwan.
+
 [^17]: [Badan Taman Nasional Kementerian Dalam Negeri: Rencana Konservasi dan Pemanfaatan Lahan Basah Penting Nasional Fataan](https://www.nps.gov.tw/uploads/files/300ecc84dfc2c6a5d476ed7127321bf3.pdf) — rencana konservasi resmi yang menjadikan Palakaw sebagai inti pemanfaatan bijak lahan basah.
+
 [^18]: [Smile Taiwan: Merasakan Pengalaman Menangkap Ikan Tradisional Palakaw di Taman Pertanian Xinlu, Guangfu, Hualien](https://smiletaiwan.cw.com.tw/article/5152) — memperkenalkan praktik dan pewarisan budaya Palakaw dalam wisata ekologi modern.
