@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T14:28:39+08:00",
-    "zhCommitHead": "f3c3a0ed4",
+    "lastUpdated": "2026-09-08T14:32:58+08:00",
+    "zhCommitHead": "7ccc3db88",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 731,
-        "stale": 48,
+        "fresh": 732,
+        "stale": 47,
         "metadata_stale": 14,
         "missing": 328,
         "orphan": 0
@@ -19175,8 +19175,8 @@
           "sourceContentHash": "sha256:15e7aa6f99cf7a84",
           "sourceBodyHash": "sha256:50acff1d4627c3c4",
           "translatedAt": "2026-09-08T04:15:40.712079+00:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "7ccc3db8",
+          "translationLastModified": "2026-09-08T14:28:39+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -25263,8 +25263,8 @@
           "sourceContentHash": "sha256:7704f0ba39f9bad2",
           "sourceBodyHash": "sha256:953746868edc36a0",
           "translatedAt": "2026-09-08T06:28:09.299407+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "7ccc3db8",
+          "translationLastModified": "2026-09-08T14:28:39+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -39038,18 +39038,16 @@
         "ru": {
           "path": "ru/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "88b3abd88",
-          "sourceContentHash": "sha256:df375bb238fb479e",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-28T20:26:55.197753+00:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:cfeed87bcc86a207",
+          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
+          "translatedAt": "2026-09-08T00:42:58+08:00",
           "translationLastCommit": "adc69a2f",
           "translationLastModified": "2026-07-29T04:32:17+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 3,
-          "diffSummary": "+170 -91"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -135850,8 +135848,8 @@
           "sourceContentHash": "sha256:45cce9092926094b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-08T03:46:08.425573+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "7ccc3db8",
+          "translationLastModified": "2026-09-08T14:28:39+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
