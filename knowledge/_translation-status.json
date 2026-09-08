@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T02:26:30+08:00",
-    "zhCommitHead": "52e856883",
+    "lastUpdated": "2026-09-09T03:13:18+08:00",
+    "zhCommitHead": "e1fe407d9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 786,
         "stale": 87,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 227,
         "orphan": 0
       },
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 792,
+        "fresh": 794,
         "stale": 82,
-        "metadata_stale": 22,
+        "metadata_stale": 20,
         "missing": 225,
         "orphan": 0
       },
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 768,
+        "fresh": 769,
         "stale": 75,
-        "metadata_stale": 18,
+        "metadata_stale": 17,
         "missing": 260,
         "orphan": 0
       },
@@ -83482,8 +83482,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-08T16:48:54.880148+00:00",
-          "translationLastCommit": "73d60edd",
-          "translationLastModified": "2026-07-31T04:01:39+08:00",
+          "translationLastCommit": "e1fe407d",
+          "translationLastModified": "2026-09-09T02:26:30+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -109421,8 +109421,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "e1fe407d",
+          "translationLastModified": "2026-09-09T02:26:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -128948,8 +128948,8 @@
           "sourceContentHash": "sha256:2d40b234aa9d9849",
           "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
           "translatedAt": "2026-09-08T18:26:02.137536+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "e1fe407d",
+          "translationLastModified": "2026-09-09T02:26:30+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -137567,18 +137567,16 @@
         "ko": {
           "path": "ko/Geography/taipei-city.md",
           "translatedFrom": "Geography/台北市.md",
-          "sourceCommitSha": "1fbb3adf1",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taipei-city.md",
@@ -137645,18 +137643,16 @@
         "pt": {
           "path": "pt/Geography/taipei-city.md",
           "translatedFrom": "Geography/台北市.md",
-          "sourceCommitSha": "1fbb3adf1",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
-          "translatedAt": "2026-07-29T12:59:27+08:00",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
           "translationLastCommit": "45684f13",
           "translationLastModified": "2026-07-29T15:05:44+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -138097,18 +138093,16 @@
         "ko": {
           "path": "ko/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-25T19:27:00+08:00",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taichung-city.md",
@@ -138406,18 +138400,16 @@
         "en": {
           "path": "en/Geography/tainan-city.md",
           "translatedFrom": "Geography/台南市.md",
-          "sourceCommitSha": "925aca59e",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
-          "translatedAt": "2026-05-19T05:08:06+08:00",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/tainan-city.md",
