@@ -2,9 +2,7 @@
 title: 'BIM et technologie de construction à Taïwan : douze ans de politique gouvernementale au cas par cas, réécrits par un protocole de dix-huit mois'
 description: 'Le 23 mai 2014, le Comité des marchés publics du Yuan exécutif a lancé la « Plateforme de promotion du BIM dans les projets publics », adoptant le principe directeur « au cas par cas, progression graduelle ». Onze ans et sept mois plus tard, un développeur taïwanais travaillant à Tokyo a publié sur GitHub un dépôt nommé REVIT_MCP_study, qui a récolté plus de soixante-dix étoiles et plus de quatre-vingts fork. Entre ces deux dates, le secteur de la construction taïwanais a parcouru un long chemin, du tracé manuel et tirage de plans au bleu aux modèles 3D, des expérimentations individuelles aux normes nationales, de la modernisation des outils à la redéfinition des professions.'
 date: 2026-05-22
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '建築科技'
 tags:
   [
     'Technology',
@@ -20,19 +18,22 @@ tags:
     'Sinotech Engineering Consultants',
     'Shuotao',
   ]
-readingTime: 22
+subcategory: '建築科技'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '30072b76'
-sourceContentHash: 'sha256:7923803a611ee1da'
-sourceBodyHash: 'sha256:ac277cd39572ac41'
-translatedAt: '2026-06-16T16:54:51Z'
+readingTime: 22
+researchReport: 'reports/research/2026-05/台灣BIM與營建科技.md'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+translatedFrom: 'Technology/台灣BIM與營建科技.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:85f9d09627902abf'
+sourceBodyHash: 'sha256:c4a7f62bbc68876d'
+translatedAt: '2026-09-08T02:17:02.923497+00:00'
 ---
 
 # BIM et technologie de construction à Taïwan : douze ans de politique gouvernementale au cas par cas, réécrits par un protocole de dix-huit mois
@@ -84,23 +85,21 @@ Les trois axes de promotion — central, Taipei et Nouveau Taipei — sont tous 
 
 ---
 
-## Ligne Wan-Ta, gare de Miaoli, Terminal 3 de l'aéroport de Taoyuan : le BIM dans les projets publics
+## Wan-Ta Line, gare de Miaoli, T3 de l'aéroport de Taoyuan : le BIM fait son entrée dans les travaux publics
 
-En 2011, **la ligne Wan-Ta du métro de Taipei a été le premier projet à inclure le BIM dans le contrat de conception**[^14].
+En 2011, **la ligne Wan-Ta du métro de Taipei intègre pour la première fois le BIM dans un contrat de conception d'ingénierie**[^14].
 
-C'est un événement « premier » souvent cité dans la promotion du BIM à Taïwan. Chaque lot de la ligne Wan-Ta a été conçu selon les exigences contractuelles en mode BIM, intégrant les spécialités architecture, structure et CVC (chauffage, ventilation, climatisation) pour une **réduction des conflits d'interfaces de conception**[^14].
+C'est l'un des événements « first » les plus souvent cités dans la promotion du BIM à Taïwan. Les différents tronçons de la ligne Wan-Ta ont adopté le mode BIM pour la conception des stations de métro conformément aux exigences contractuelles, intégrant simultanément les spécialités architecture, structure et électricité/mécanique (CVC), avec une coordination interspécialités qui a **réduit les conflits d'interfaces de conception**[^14].
 
-Dans la foulée de la ligne Wan-Ta, les projets publics se sont enchaînés. La station surélevée Y19 de la ligne circulaire du métro de Taipei, plusieurs centres sportifs à Nouveau Taipei, la nouvelle gare de Miaoli du TGV taïwanais, le Terminal 3 de l'aéroport de Taoyuan, la ligne circulaire légère de Kaohsiung : chaque projet a donné lieu à une étude de cas publiée dans les revues internes de l'ABRI, du centre NTUBIM de l'Université nationale de Taïwan ou du Bureau du métro.
+Sur les traces de la ligne Wan-Ta, les travaux publics se succèdent. La station aérienne Y19 de la ligne circulaire du métro de Taipei, plusieurs centres sportifs de Nouveau Taipei, la nouvelle gare de Miaoli du [TGV de Taïwan](/fr/lifestyle/taiwan-high-speed-rail/), le [troisième terminal de l'aéroport de Taoyuan](/fr/lifestyle/taoyuan-airport/), le tramway circulaire de Kaohsiung : chaque projet fait l'objet d'une étude de cas publiée dans les revues internes de l'ABRI, du centre NTUBIM de l'Université nationale de Taïwan ou des bureaux du métro.
 
-La « **victoire chiffrée** » la plus citée est la gare de Miaoli du TGV taïwanais : trois mois avant le début des travaux, l'introduction du BIM a permis à l'équipe de supervision de détecter de nombreux points de conflit sur le modèle 3D, **économisant 20 % des coûts de modifications de conception ultérieures et permettant de commencer les travaux de traçage sur le chantier deux mois plus tôt que prévu**[^15].
+La **« victoire numérique »** la plus citée est la gare de Miaoli du TGV : le BIM a été introduit trois mois avant le début des travaux, l'équipe de surveillance a détecté de nombreux points de conflit depuis le modèle 3D, **économisant 20 % des coûts de modifications de conception ultérieures et permettant de commencer le piquetage de chantier deux mois plus tôt que prévu**[^15].
 
-Le Terminal 3 de l'aéroport de Taoyuan est un autre cas d'une ampleur différente. En mars 2021, **le consortium formé par Samsung C&T et Rong Gong Engineering a remporté l'appel d'offres pour les travaux de génie civil du bâtiment principal du T3 pour un montant de 44,5 milliards de dollars taïwanais**[^16]. L'ensemble du T3 a été conçu sous la direction de Sinotech Engineering Consultants (avec Rogers Stirk Harbour + Partners et Ove Arup and Partners Hong Kong). La collaboration transnationale a reposé sur la circulation de modèles BIM entre différents cabinets — c'est un cas emblématique que Sinotech utilise en boucle dans ses supports de formation internes[^17].
+Le troisième terminal de l'aéroport de Taoyuan est un autre cas d'une tout autre envergure. En mars 2021, **le consortium formé par Samsung C&T et Rong Gong Engineering remporte l'appel d'offres pour les travaux de génie civil du corps principal du terminal T3 pour 44,5 milliards de dollars taïwanais**[^16]. L'ensemble du T3 est conçu sous la direction de Evergreen Consulting Engineering (conjointement avec Rogers Stirk Harbour + Partners et Ove Arup and Partners Hong Kong) ; la collaboration transnationale a dû s'appuyer sur la circulation des modèles BIM entre les différents cabinets : c'est le cas phare que Evergreen utilise en boucle dans ses supports de formation interne[^17].
 
-> **✦** Le moment où la ligne Wan-Ta a inscrit le BIM dans son contrat en 2011 a été une ligne de partage discrète dans l'histoire des projets publics taïwanais. À partir de ce jour, aucun projet public majeur — métro, aéroport, TGV, tramway léger — ne s'est plus demandé « comment faire du BIM » sans y répondre.
+> **✦** Le moment où la ligne Wan-Ta a inscrit le BIM dans un contrat pour la première fois, en 2011, marque un partage des eaux silencieux dans l'histoire des travaux publics à Taïwan. Depuis ce jour, aucun grand travail public — métro, aéroport, TGV, tramway — ne se conçoit sans se demander « comment fait-on le BIM ? ».
 
-Mais ce ne sont que des « cas emblématiques ». Tous les cas emblématiques à Taïwan partagent un défaut commun : **ils sont minoritaires**.
-
----
+Mais ce ne sont que des « projets phares ». Tous les projets phares à Taïwan partagent un même défaut : **ils sont minoritaires**.
 
 ## Cinq grands bureaux d'études + deux organisations : les personnes derrière
 
