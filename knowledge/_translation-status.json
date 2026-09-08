@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T22:08:33+08:00",
-    "zhCommitHead": "e5f47e8be",
+    "lastUpdated": "2026-09-08T22:09:50+08:00",
+    "zhCommitHead": "6ff7eac03",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 779,
-        "stale": 91,
+        "fresh": 780,
+        "stale": 90,
         "metadata_stale": 24,
         "missing": 227,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 108,
+        "fresh": 109,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 1005,
+        "missing": 1004,
         "orphan": 0
       }
     },
@@ -3308,15 +3308,26 @@
           "sourceContentHash": "sha256:ded0e72872765bab",
           "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
           "translatedAt": "2026-09-08T12:21:38.023557+00:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "6ff7eac0",
+          "translationLastModified": "2026-09-08T22:08:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/megaport-festival.md",
+          "translatedFrom": "Music/大港開唱.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-08T15:54:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -112512,18 +112523,16 @@
         "en": {
           "path": "en/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:d67f3581051e39e8",
-          "sourceBodyHash": "sha256:50386f161e8d186f",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-indigenous-foodways.md",
@@ -117469,8 +117478,8 @@
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
           "translatedAt": "2026-09-08T15:54:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6ff7eac0",
+          "translationLastModified": "2026-09-08T22:08:33+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -140874,8 +140883,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-08T15:54:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6ff7eac0",
+          "translationLastModified": "2026-09-08T22:08:33+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
