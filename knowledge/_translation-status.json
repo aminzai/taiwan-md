@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T15:54:12+08:00",
-    "zhCommitHead": "57a17f2fc",
+    "lastUpdated": "2026-09-08T17:08:28+08:00",
+    "zhCommitHead": "baa9d5899",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 771,
+        "fresh": 772,
         "stale": 92,
-        "metadata_stale": 26,
+        "metadata_stale": 25,
         "missing": 232,
         "orphan": 0
       },
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 780,
-        "stale": 84,
+        "fresh": 783,
+        "stale": 83,
         "metadata_stale": 26,
-        "missing": 231,
+        "missing": 229,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 777,
+        "fresh": 778,
         "stale": 86,
         "metadata_stale": 24,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "fr": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 758,
+        "fresh": 759,
         "stale": 75,
         "metadata_stale": 21,
-        "missing": 267,
+        "missing": 266,
         "orphan": 0
       },
       "hi": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 732,
+        "fresh": 733,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 328,
+        "missing": 327,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 102,
+        "fresh": 103,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 1011,
+        "missing": 1010,
         "orphan": 0
       }
     },
@@ -2818,8 +2818,8 @@
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "baa9d589",
+          "translationLastModified": "2026-09-08T15:54:13+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -3827,18 +3827,16 @@
         "en": {
           "path": "en/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-28T21:27:51+08:00",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/chthonic.md",
@@ -3971,7 +3969,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-09-08T15:54:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17355,16 +17364,16 @@
         "ko": {
           "path": "ko/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T07:55:18.550059+00:00",
           "translationLastCommit": "3d8d5e7e",
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/threads-in-taiwan.md",
@@ -75575,8 +75584,8 @@
           "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "baa9d589",
+          "translationLastModified": "2026-09-08T15:54:13+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -102115,7 +102124,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chang-chung-jen-chung-i-twins.md",
+          "translatedFrom": "People/張忠仁與張忠義.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:be170ef9f4f5cc61",
+          "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -102214,8 +102234,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-09-08T00:42:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "baa9d589",
+          "translationLastModified": "2026-09-08T15:54:13+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -131858,7 +131878,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -141882,7 +141913,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/hsinchu-city-god-temple.md",
+          "translatedFrom": "Culture/新竹都城隍廟.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:810c670a0d955eec",
+          "sourceBodyHash": "sha256:772e1869525f702d",
+          "translatedAt": "2026-09-08T15:54:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -146705,10 +146747,32 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/taiwan-panorama-magazine.md",
+          "translatedFrom": "Culture/光華雜誌.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:76f9feb9b62dd8a1",
+          "sourceBodyHash": "sha256:b0016f60e7fc31e0",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/taiwan-panorama-magazine.md",
+          "translatedFrom": "Culture/光華雜誌.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:76f9feb9b62dd8a1",
+          "sourceBodyHash": "sha256:b0016f60e7fc31e0",
+          "translatedAt": "2026-09-08T15:54:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
