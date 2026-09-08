@@ -2,9 +2,7 @@
 title: "Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye"
 description: "In 2026, data analyst Migu layered Taiwan's scattered open data on aircraft, ships, trains, buses, and garbage trucks into a breathing map. AI handles the drudgery of retrieving data, but deciding which layers belong together, what colors to use, and which layer should light up depends on a curator's eye trained in urban planning."
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '公民科技'
 tags:
   [
     'Technology',
@@ -18,19 +16,27 @@ tags:
     'AI Agent',
     'GIS',
   ]
-readingTime: 20
+subcategory: '公民科技'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: true
-featured: false
-translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: 'da22dc5b'
-sourceContentHash: 'sha256:b4fa10553d998dfa'
-sourceBodyHash: 'sha256:6475e91be41d93b4'
-translatedAt: '2026-06-26T00:38:47+08:00'
+readingTime: 20
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
+relatedDiary: ['2026-06-25-203919-manual-mirror']
+sporeLinks:
+  [
+    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
+    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
+  ]
+translatedFrom: 'Technology/mini-taiwan-pulse.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:7704f0ba39f9bad2'
+sourceBodyHash: 'sha256:953746868edc36a0'
+translatedAt: '2026-09-08T05:45:36.941228+00:00'
 ---
 
 # Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye
@@ -157,39 +163,39 @@ The keyword is "looked at together." Even if one person memorized the names of a
 >
 > But that comparison stays on the surface, and gets the causality backward. Migu can approach the scale of "an entire data galaxy" not because of human labor. From the beginning, he was not trying to grind against a sea of data by sheer effort. "The human brain cannot scan them all" should be read less as surrender than as the starting point for replacing the whole workflow. The truly new form is not "individual vs. collective," but "individual x Agent": one person can reach galaxy scale precisely because those commits are not all hand-typed by him. What follows is how that system works.
 
-## "I Didn't Write a Word": A Fire Pipeline That Runs Itself
+## I Didn't Write a Single Character: A Fire Pipeline That Runs Itself
 
-The best slice for understanding what "handing it to Agents" means is the fire example from his talk.
+The best slice for understanding what "handing it over to the Agent" means is the fire example from his talk.
 
-He said he gave the system only one sentence: "Analyze Taiwan's fire-related public data." Then he let go.
+He said he simply fed the system one sentence: "Analyze Taiwan's open fire data." Then he let go.
 
-The system began expanding the search scope by itself. Migu described the process with a sequence of expanding numbers: keywords first hit 582 records; synonyms and topic expansion grew that to 1,945; full-text search then supplemented the search, removed duplicates, and finally converged into a unified catalog of 73,900 records spanning 21 platforms[^3]. One sentence went in; an inventory of more than 70,000 data records came out.
+The system began expanding its search scope on its own. Migu described this process with a set of progressively inflating numbers: first hitting 582 entries with keywords, then extending to 1,945 entries through synonyms and topic expansion, followed by full-text search supplementation and deduplication, ultimately converging into a unified catalog spanning 21 platforms and 73,900 entries[^3]. One sentence in, and over seventy thousand pieces of data were inventoried.
 
 ```tw-figure
-One sentence → 73,900 records
-He entered "Analyze Taiwan's fire-related public data"; the system expanded the search by itself and converged a unified catalog across 21 platforms
-As stated in his sciwork 2026 slides
+One sentence → 73,900 entries
+He tossed in the sentence "Analyze Taiwan's open fire data," and the system expanded its search and converged across 21 platforms into a unified catalog
+He said this in his sciwork 2026 presentation
 ```
 
-Collection alone was not the end. The pipeline then divided fire into six phases--prevention, response, reporting, ignition analysis, loss, and reports--multiplied them by Taiwan's 22 cities and counties, and produced a coverage matrix. Local-level inventories such as Hsinchu's fire-potential maps, Taipei's hard-to-rescue areas, and rescue around Taoyuan's irrigation ponds were all surfaced. It even honestly marked the gaps: no real-time fire API, scarce event-level coordinates, and no public post-disaster tracking data.
+Collecting data alone isn't enough. This pipeline then automatically broke fires down into six stages (prevention, emergency response, notification, ignition analysis, losses, reports), multiplied by 22 cities and counties, and generated a coverage matrix. Place-level inventories like Hsinchu's fire risk maps, Taipei's hard-to-reach rescue zones, and [Taoyuan Wetland](/geography/桃園埤塘/) rescue operations were all surfaced. It even honestly flagged gaps: no real-time fire API, event-level coordinates are scarce, and post-disaster tracking data isn't publicly available.
 
-Then came analysis. He cited a fire-cause report generated by the system itself: based on 15,405 national records from ROC year 113 (2024), the largest cause of fires in New Taipei City was electrical factors, at 30.9%; in Pingtung County it was cigarette butts, at 35.2%[^3]. These figures were produced by the Agent after connecting to multiple APIs, as shown in his slide screenshots; he did not calculate them by checking tables row by row.
+Then came the analysis. He cited a fire cause report generated by the system itself: based on 15,405 entries nationwide in 2022, the leading cause of fires in New Taipei City was electrical issues, accounting for 30.9%; in Pingtung County, it was cigarette butts, accounting for 35.2%[^3]. These figures are the results produced by the Agent chaining together various APIs in his presentation screenshots, not manually tabulated by him.
 
-At this point, he put one line on the slide, with deliberate spaces between the words as if to make sure you saw it clearly:
+At this point, he typed a single line on the slide, with deliberate spacing between each character, as if making sure you could read it clearly:
 
-> "Pipeline generated automatically. I didn't write a single word."[^3]
+> "The pipeline is automatically generated. I didn't write a single character."[^3]
 
-This sentence was the ignition point of the talk. It turned the somewhat abstract slogan "hand it to Agents" into a concrete and almost unsettling fact: from one sentence, to a catalog of more than 70,000 data records, to a county-by-county cause report, the position where a human would normally issue commands, write scripts, clean data, and run analysis was empty.
+This line is the ignition point of the entire talk. It turns the somewhat abstract slogan of "handing it over to the Agent" into a concrete, almost unsettling fact: from one sentence, to over seventy thousand entries in a catalog, to a county-by-county cause report, the space in between—where humans usually give instructions, write scripts, clean data, and run analyses—is empty.
 
-![Output screen from the fire-topic analysis pipeline: the system automatically inventories cross-platform fire-related open data and lists candidate datasets and a coverage matrix](/article-images/technology/mini-taiwan-fire-pipeline-2026.webp)
+![Fire theme analysis pipeline output: the system automatically inventories cross-platform open fire data and lists candidate datasets and coverage matrix](/article-images/technology/mini-taiwan-fire-pipeline-2026.webp)
 
-_The fire-topic inventory output Migu showed in his sciwork 2026 slides: enter "Analyze Taiwan's fire-related public data," and the system expands the search by itself, converging cross-platform data into a unified catalog. He said of this pipeline, "I didn't write a single word." Image: Migu / sciwork 2026 (fair use editorial commentary)._
+_Migu's fire theme inventory output presented at sciwork 2026: toss in the sentence "Analyze Taiwan's open fire data," and the system expands its search and converges into a unified catalog across platforms. He says this pipeline "I didn't write a single character." Image: Migu / sciwork 2026 (fair use for editorial commentary)._
 
-## Four Swappable Steps: Data Comes In, Reports Send Themselves
+## Four Detachable Steps: Data Comes In, Reports Go Out
 
-The fire pipeline is only one slice; behind it is a miniature version of his entire system. The system has four steps: data ingestion, knowledge integration, analysis generation, and action triggering. He emphasized that "each step can be swapped independently; the whole system does not need to be rebuilt." The bottom layer of data ingestion also evolved over time. At first he manually clicked Excel downloads on data.gov.tw, read them himself, and stored them himself; the bottleneck was "human memory." In the middle stage, he searched for APIs online, grabbed PDF reports, and crawled city and county platforms; the problem was "no index." Now, every dataset's metadata is standardized and stored in a SQLite catalog, where it can be automatically queried and automatically expanded[^3]. Behind his system are more than 40 data collectors, from YouBike, buses, freeway traffic, Taiwan Railways timetables, and vessel AIS to meteorological satellites, earthquakes, reservoir water levels, and air quality. He also said that if errors occur three times in a row, a Telegram alert is sent immediately, and a Daily Review is sent to his inbox every morning at 9[^3].
+This fire pipeline is just one slice, a microcosm of his entire system. The system breaks into four steps: data ingestion, knowledge integration, analysis generation, and action triggering — and he emphasizes that "each step can be swapped out independently; the whole system doesn't need to be rebuilt." At the bottom layer of data ingestion, he himself evolved over time: early on, he manually downloaded Excel files from data.gov.tw and read and stored them himself, with the bottleneck stuck on "human memory"; in the middle period, he switched to searching online for APIs, grabbing PDF reports, and scraping county/city platforms, but the problem was "no indexing"; until now, the metadata for every single piece of data is standardized and stored in a SQLite directory, where it can be automatically queried and automatically expanded[^3]. Behind his system are over forty data collectors, covering YouBike, buses, highway traffic flow, Taiwan Railway timetables, ship AIS, weather satellites, [earthquakes](/en/society/earthquakes-in-taiwan/), reservoir water levels, and air quality — and he says, even if it fails three times in a row, it immediately sends a Telegram alert, and every morning at nine o'clock it pushes a Daily Review to his inbox[^3].
 
-By the final step, "action triggering," he states the human role most clearly: "The Agent runs the full loop. Human role: give goals, receive reports. The five gears in the middle turn by themselves: discovery, collection, integration, production, monitoring." The system can even automatically produce a weekly report of "new open data added this week." In his words: "Topics surface by themselves, and reports deliver themselves to the inbox."[^3]
+At the final step of "action triggering," he describes the human role most clearly: "The Agent runs the full loop by itself. The human role: set the goal, receive the report. The five gears in between turn on their own: discover, collect, integrate, generate, monitor." The system even automatically generates a weekly report titled "New Open Data Added This Week." In his own words: "Themes emerge on their own, and the report sends itself to the inbox."[^3]
 
 ## One Commander, Many Tabs: A Claude Fleet in tmux
 
