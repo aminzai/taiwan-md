@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-09 twmd-feedback-triage — empty-intake-cannot-distinguish-quiet-from-broken：報表第一行的「0 筆新回報」同時是「讀者沒話說」跟「讀者送不進來」的長相
+
+- **pattern**: `empty-intake-cannot-distinguish-quiet-from-broken`
+- **原則**：這條 routine 每輪的第一行輸出是 `fetched N new feedback`。N=0 承載兩種根本不同的事實：沒有人送回報（讀者那端安靜），或送出的路壞了（表單、匿名金鑰、資料表寫入權任何一環）。**兩者在報表上逐字相同**，而處置完全相反——前者什麼都不用做，後者是讀者的聲音正在流失且沒有人會叫。整條線的閘門與對賬全部長在讀取端之後（HG12b 數該有幾份紀錄、HG12c 數該有幾則留言），沒有任何一道在問「該進來的有沒有進得來」。
+- **觸發**：2026-09-09 07:12 CST，本 routine 連續第三輪 `fetched 0`。9/08 那輪的 handoff 已經寫下「若第三輪仍為零，值得反查一次寫入端」，本輪照著做，靠三個手動查詢才把兩種根因分開：(a) 直接查 `feedback` 表 `order=created_at.desc`，最新一列是 2026-09-05T01:55Z（`filed`），證明讀取端沒有在漏接——任何 status 的新列都會出現在這個排序的最上面；(b) 抓線上首頁找出 `FeedbackWidget` 的 bundle，確認裡面仍嵌著 Supabase 專案網址，代表產品端沒有退回 `github-only` 靜態模式；(c) 兩者合起來把沉默定位在讀者那端。三步都是即興手寫，流程沒有任何一個指令給。
+- **殘留的未知**：以上證明的是「9/05 之前寫得進去，且今天的頁面仍指向同一個後端」，**沒有證明今天送一筆會成功**——RLS 或匿名金鑰在這四天內失效會長成一模一樣的樣子。要蓋掉這塊只能從寫入端戳一次，而那會在讀者可見的資料表與主權層 archive 裡留下一筆假回報，本輪判斷代價不值得，未做。
+- **可能層級**：操作規則（本條 routine 的儀器缺口），但它的形狀是通用的：任何「處理進來的東西」的 routine，佇列空的那一輪都有這個雙義。
+- **候選修法**：(a) 最小：`triage.mjs` 在 `fetched 0` 時多印一行「最近一筆回報距今 N 天（含 status）」——把 (a) 那個查詢變成流程給的，不再靠當班自覺，跟 `--show` 當初補的是同一種洞；(b) 加一道與時間有關的閾值，例如最近一筆超過 N 天就把那行印成 ⚠️，逼下一班去查寫入端；(c) 真正的寫入端探針（週期性從公開路徑送一筆帶標記的測試回報再自行清掉）成本高且會污染主權層，先不做。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[REFLEXES #38](REFLEXES.md)（混維度 — 本條是它在「輸入面計數器」這個載體上的形狀，既有變體都長在 status enum、健康計數器、驗收結論、錯誤訊息上，還沒有一條長在「零」這個數字上）、[REFLEXES #82](REFLEXES.md)（proxy signal — `fetched 0` 是拿讀取結果當投遞成功的替身）、LESSONS `mandatory-read-step-has-no-tool`（2026-08-30，同一條 routine 上「流程指名的動作沒有入口」的同型）
+
 ### 2026-09-07 twmd-maintainer-am — formatter-corrupts-the-url-it-reformats：commit hook 自己的 prettier 把斜體圖說裡的網址改壞，於是這個檔從正常路徑 commit 不進去
 
 - **pattern**: `formatter-corrupts-the-url-it-reformats`
