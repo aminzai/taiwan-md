@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T00:30:21+08:00",
-    "zhCommitHead": "d79f70f4c",
+    "lastUpdated": "2026-09-09T00:39:33+08:00",
+    "zhCommitHead": "181085041",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,17 +20,17 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 88,
-        "metadata_stale": 24,
+        "metadata_stale": 23,
         "missing": 227,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 97,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 233,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 645,
+        "fresh": 646,
         "stale": 91,
         "metadata_stale": 80,
-        "missing": 305,
+        "missing": 304,
         "orphan": 0
       },
       "id": {
@@ -100,9 +100,9 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 743,
+        "fresh": 744,
         "stale": 44,
-        "metadata_stale": 12,
+        "metadata_stale": 11,
         "missing": 322,
         "orphan": 0
       },
@@ -3356,18 +3356,16 @@
         "ja": {
           "path": "ja/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "translatedAt": "2026-09-08T15:54:35+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -92684,7 +92682,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/yu-tiao-musician.md",
+          "translatedFrom": "People/魚條.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:bd29d1a24daa64e4",
+          "sourceBodyHash": "sha256:e1d78513cc7ffb2f",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/yu-tiao-musician.md",
@@ -107792,8 +107801,8 @@
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
           "translatedAt": "2026-09-08T15:54:54+08:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "18108504",
+          "translationLastModified": "2026-09-09T00:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -109401,18 +109410,16 @@
         "en": {
           "path": "en/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-sauces-and-seasonings.md",
@@ -109561,8 +109568,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-08T15:54:54+08:00",
-          "translationLastCommit": "9d4f7166",
-          "translationLastModified": "2026-07-25T10:40:03+08:00",
+          "translationLastCommit": "18108504",
+          "translationLastModified": "2026-09-09T00:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -133262,8 +133269,8 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-08T16:29:50.373426+00:00",
-          "translationLastCommit": "4206310c",
-          "translationLastModified": "2026-08-02T11:00:02+08:00",
+          "translationLastCommit": "18108504",
+          "translationLastModified": "2026-09-09T00:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -136420,18 +136427,16 @@
         "ru": {
           "path": "ru/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T16:00:52.163235+00:00",
           "translationLastCommit": "4206310c",
           "translationLastModified": "2026-08-02T11:00:02+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
