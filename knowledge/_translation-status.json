@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-08T20:23:18+08:00",
-    "zhCommitHead": "d42d1d0aa",
+    "lastUpdated": "2026-09-08T20:36:25+08:00",
+    "zhCommitHead": "00e311c99",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 638,
+        "fresh": 639,
         "stale": 92,
         "metadata_stale": 82,
-        "missing": 309,
+        "missing": 308,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 633,
+        "fresh": 634,
         "stale": 42,
         "metadata_stale": 11,
-        "missing": 435,
+        "missing": 434,
         "orphan": 0
       },
       "ar": {
@@ -2132,8 +2132,8 @@
           "sourceContentHash": "sha256:5f5c57d9d0a5af84",
           "sourceBodyHash": "sha256:6ab99bf50b216a39",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "00e311c9",
+          "translationLastModified": "2026-09-08T20:23:19+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -33101,7 +33101,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/traditional-arts-of-taiwan.md",
+          "translatedFrom": "Art/台灣傳統藝術.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8199dcc4edeb2fce",
+          "sourceBodyHash": "sha256:de7228ea44ad062e",
+          "translatedAt": "2026-09-08T15:54:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/traditional-arts-of-taiwan.md",
@@ -87755,7 +87766,18 @@
           "reason": "footnote-loss (6→5)"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/yang-chuan-kwang-asian-iron-man.md",
+          "translatedFrom": "People/楊傳廣.md",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-08T15:54:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -121903,8 +121925,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "00e311c9",
+          "translationLastModified": "2026-09-08T20:23:19+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -129189,8 +129211,8 @@
           "sourceContentHash": "sha256:7397e54a88091d6e",
           "sourceBodyHash": "sha256:3f4ab58302003b2a",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "00e311c9",
+          "translationLastModified": "2026-09-08T20:23:19+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -140710,8 +140732,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "00e311c9",
+          "translationLastModified": "2026-09-08T20:23:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -142267,8 +142289,8 @@
           "sourceContentHash": "sha256:810c670a0d955eec",
           "sourceBodyHash": "sha256:772e1869525f702d",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "00e311c9",
+          "translationLastModified": "2026-09-08T20:23:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
