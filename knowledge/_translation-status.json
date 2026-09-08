@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T00:44:36+08:00",
-    "zhCommitHead": "64ca76f2c",
+    "lastUpdated": "2026-09-09T01:41:06+08:00",
+    "zhCommitHead": "13c5ddc24",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 88,
-        "metadata_stale": 23,
+        "metadata_stale": 22,
         "missing": 227,
         "orphan": 0
       },
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 792,
         "stale": 82,
-        "metadata_stale": 24,
+        "metadata_stale": 22,
         "missing": 225,
         "orphan": 0
       },
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 698,
+        "fresh": 699,
         "stale": 51,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 357,
         "orphan": 0
       },
@@ -30742,8 +30742,8 @@
           "sourceContentHash": "sha256:d009712e64112e84",
           "sourceBodyHash": "sha256:29bdbac4c38d6b83",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "409ee3bf",
-          "translationLastModified": "2026-07-27T02:53:54+08:00",
+          "translationLastCommit": "13c5ddc2",
+          "translationLastModified": "2026-09-09T00:44:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -83467,18 +83467,16 @@
         "en": {
           "path": "en/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b6",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-07-31T02:01:51+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T16:48:54.880148+00:00",
           "translationLastCommit": "73d60edd",
           "translationLastModified": "2026-07-31T04:01:39+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/mona-rudao.md",
@@ -83499,18 +83497,16 @@
         "ko": {
           "path": "ko/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-08T16:31:22.355054+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/mona-rudao.md",
@@ -109548,18 +109544,16 @@
         "ar": {
           "path": "ar/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "translatedAt": "2026-09-08T15:54:52+08:00",
           "translationLastCommit": "1effc34f",
           "translationLastModified": "2026-07-25T11:50:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-sauces-and-seasonings.md",
@@ -135573,8 +135567,8 @@
           "sourceContentHash": "sha256:5de62c87bd2f7bf1",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
           "translatedAt": "2026-09-08T16:44:04.913633+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "13c5ddc2",
+          "translationLastModified": "2026-09-09T00:44:36+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -138437,18 +138431,16 @@
         "ko": {
           "path": "ko/Geography/tainan-city.md",
           "translatedFrom": "Geography/台南市.md",
-          "sourceCommitSha": "925aca59e",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/tainan-city.md",
