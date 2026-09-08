@@ -2,9 +2,7 @@
 title: 'Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years'
 description: "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Miaoli',
@@ -19,19 +17,20 @@ tags:
     'Liu Cheng-hung',
     '22 Counties and Cities Series',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/苗栗縣.md'
+series: '22 縣市系列（batch 1）'
+imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'b457dbbb1'
-sourceContentHash: 'sha256:0d7e5732a8513df0'
-sourceBodyHash: 'sha256:f743a82d302f341a'
-translatedAt: '2026-05-18T05:08:07+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg
-imageCredit: 中華民國客家委員會
-imageLicense: CC BY 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:0de597da286e629e'
+sourceBodyHash: 'sha256:9523731d73687bb2'
+translatedAt: '2026-09-08T02:56:33.667753+00:00'
 ---
 
 # Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years
@@ -141,36 +140,34 @@ In 2015, Taipei Times interviewed Miaoli resident Alice Wang about the Hakka Rou
 
 On October 6, 2016, **the Control Yuan voted 11 to 1 to impeach Liu Cheng-hung**[^29]. The core accusations in the impeachment document were that at the end of 2006, short-term public debt reached 31.55%, exceeding the legal debt ceiling; that from 2008 to 2014 the county ran deficits year after year while falsely listing central subsidies; and that it illegally withheld NT$210 million in disaster relief funds owed to township and city offices. But the impeachment had no substantive legal effect. Liu had already left office.
 
-## 2010 to 2014: The Dapu Incident, a Documentary Timeline
+## 2010–2014: The Dapu Incident, a Documentary Timeline
 
-The Dapu Incident took place during Liu Cheng-hung’s second term. It was a sequence of events on a timeline, and arranging it clearly matters more than commenting on it.
+The Dapu Incident occurred during Liu Cheng-hung's second term. It was a series of events on a timeline; laying them out clearly matters more than commenting on them.
 
-**Before dawn on June 9, 2010**. To support the expansion of the Hsinchu Science Park’s Zhunan base, the Miaoli County Government deployed police and excavators to block roads and level land, destroying rice paddies in the expropriation area just before harvest[^30]. Farmers from the Dapu Self-Help Association were awakened from sleep and ran to the fields to see their rice flattened.
+**9 June 2010, early morning**. To accommodate the expansion of the Hsinchu Science Park's Zhunan campus, the Miaoli County Government deployed police and excavators to block roads and clear land, bulldozing rice paddies in the expropriation zone that were days from harvest[^30]. Farmers of the Dapu Self-Help Association were woken from sleep and ran to their fields to watch their rice crops flattened.
 
-**August 3, 2010**. **Zhu Feng-min**, a 73-year-old member of the Dapu Self-Help Association, dissatisfied with the government’s forced expropriation of farmland, died by suicide after drinking pesticide[^30].
+**3 August 2010**. Dapu Self-Help Association member **Chu Feng-min**, a 73-year-old woman, distraught over the government's forced expropriation of farmland, drank pesticide and took her own life[^30].
 
-**July 17, 2013**. The Dapu Self-Help Association and supporting groups went north to Taipei to protest.
+**17 July 2013**. The Dapu Self-Help Association and supporting groups traveled north to Taipei to protest.
 
-**July 18, 2013**. “**The Miaoli County Government took advantage of the fact that protesting households and supporting social movement groups had gone north to protest, mobilized police, and carried out demolitions**”[^30]. Four households, including Chang Pharmacy, Huang Fu-ji, Zhu Shu, and Ke Cheng-fu, were forcibly demolished. Images of Chang Pharmacy’s sheet-metal house being flattened by excavators ran through the evening news cycle that day.
+**18 July 2013**. "**While the protesting households and supporting social-movement groups were in Taipei demonstrating, the Miaoli County Government mobilized police to carry out demolitions**"[^30]. Four households — Chang Pharmacy, Huang Fu-chi, Chu Shu, and Ko Cheng-fu — were forcibly demolished. Footage of an excavator flattening the sheet-metal structure of Chang Pharmacy looped on the evening news that day.
 
-**July 19, 2013**. The day after the demolitions, county magistrate Liu Cheng-hung was asked by media why he chose that day to act. His answer was: “**a heaven-sent opportunity**”[^30].
+**19 July 2013**. The day after the demolitions, Magistrate Liu Cheng-hung gave a media interview. Asked why he chose that day to act, he replied: "**A heaven-sent opportunity**"[^30].
 
-**August 18, 2013**. The “Demolish the Government” movement gathered on Ketagalan Boulevard. The protest slogan was: “Today Miaoli is demolished, tomorrow we demolish the government.” (**今天拆大埔，明天拆政府**)[^31]. The same line was later chanted again during the 2014 Sunflower Movement.
+**18 August 2013**. The "Demolish the Government" movement assembled on Ketagalan Boulevard. Protest slogan: "Today Miaoli is demolished, tomorrow we demolish the government." (**今天拆大埔，明天拆政府**)[^31]. This line would be shouted again during the 2014 Sunflower Movement.
 
-![The “Demolish the Government” street movement on August 18, 2013. Taiwanese civic groups protested the forced demolitions in Dapu on Ketagalan Boulevard. The slogan “Today Miaoli is demolished, tomorrow we demolish the government” later became one of the chants of the 2014 Sunflower Movement.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_Scene of the 2013-08-18 Demolish the Government movement. Photo: Fan-chiang Chung-tsen. CC BY-SA 2.0 via Wikimedia Commons._
+![18 August 2013 "Demolish the Government" street protest. Taiwanese civil-society groups demonstrate on Ketagalan Boulevard against the Dapu forced demolitions; the slogan "Today Dapu is demolished, tomorrow the government is demolished" later became one of the rallying cries of the 2014 Sunflower Movement.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
+_2013-08-18 Demolish the Government protest site. Photo: Chung-tsen Fan-chiang. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18%5F%E6%8B%86%E6%94%BF%E5%BA%9C%5FP8180109%5F%289555113047%29.jpg)._
 
-[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
+**18 September 2013**. Chang Pharmacy owner **Chang Sen-wen** (1953–2013) went missing in the morning; his body was found that afternoon in a drainage ditch near his home. Prosecutors ruled it a suicide[^30]. Chang was a retired Health Bureau civil servant; his monthly pension of twenty-odd thousand NT dollars plus pharmacy income supported the family. Relatives said he had not slept since the day of the forced demolition.
 
-**September 18, 2013**. Chang Pharmacy owner **Chang Sen-wen** (1953–2013) disappeared in the morning and was found dead that afternoon in a drainage ditch near his home. Prosecutors closed the case as suicide[^30]. Chang Sen-wen was a retired public servant from the Health Bureau. His family was supported by his monthly pension of more than NT$20,000 plus income from the pharmacy. His family said he had been unable to sleep since the day of the forced demolition.
+**3 January 2014**. The Taichung High Administrative Court, in its second remand ruling, declared: "**The original disposition is confirmed illegal; the appeals decision and the original disposition regarding the expropriation of land improvements belonging to plaintiffs Peng Hsiu-chun, Chu Shu, Ko Cheng-fu, and Huang Fu-chi are all revoked**"[^30]. Three and a half years later, the court finally ruled the demolitions illegal. **28 January 2014**, the Ministry of the Interior decided not to appeal.
 
-**January 3, 2014**. In a retrial, the Taichung High Administrative Court ruled: “**The original disposition is confirmed to be illegal. The administrative appeal decision and the original disposition concerning the expropriation of land improvements owned by plaintiffs Peng Hsiu-chun, Zhu Shu, Ke Cheng-fu, and Huang Fu-ji are revoked**”[^30]. Three and a half years later, the court finally declared the demolition illegal. **On January 28, 2014**, the Ministry of the Interior decided not to appeal.
+**11 June 2018**. The Miaoli County Government issued a building permit allowing Chang Pharmacy to be rebuilt on its original site[^32]. **17 June 2020**. Five years after the forced demolition, Chang Pharmacy's reconstruction on the original site was completed[^32].
 
-**June 11, 2018**. The Miaoli County Government issued a building permit, allowing Chang Pharmacy to be rebuilt on its original site[^32]. **June 17, 2020**. Five years after the forced demolition, Chang Pharmacy was rebuilt on its original site[^32].
+> **📝 Curator's Note:** Framing the Dapu Incident as a binary "government bad vs. citizens good" narrative is giving up on understanding. The full story: behind the Science Park expansion lay central-government industrial policy; the Miaoli County Government executed expropriation under the existing Urban Planning Act; Chu Feng-min and Chang Sen-wen were two concrete names who bore the suffering in that process; the court acknowledged the illegality in 2014; Chang Pharmacy was rebuilt in 2020. A single event can simultaneously be "county government over-enforcement," "procedural problems in the Urban Planning Act," "the formation of a civic movement," "the judicial system's delayed correction," and "two people who died inside this mechanism." **All facets exist at once.** The most violent chapter in Taiwan's history of compulsory land expropriation unfolded beneath the four characters "Hakka Cultural Capital" — that contradiction itself is worth remembering more than any one-sided narrative.
 
-> **📝 Curator’s note:** Writing the Dapu Incident as a binary story of “bad government vs good citizens” is to give up on understanding. The complete story: behind the expansion of the science park base was central industrial policy; the Miaoli County Government carried out expropriation under the existing Urban Planning Act; Zhu Feng-min and Chang Sen-wen were two specific names who bore the pain within this process; in 2014, the court acknowledged that the actions had been illegal; in 2020, Chang Pharmacy was rebuilt. A single incident can simultaneously be “excessive enforcement by the county government,” “a procedural problem in the Urban Planning Act,” “the formation of a civic movement,” “delayed correction by the judicial system,” and “two people dying within this mechanism.” **All of these dimensions exist at the same time**. One of the most violent chapters in Taiwan’s history of compulsory expropriation took place under the words “major Hakka cultural county.” That contradiction itself deserves to be remembered more than either side’s narrative.
-
-Liu Cheng-hung’s phrase “a heaven-sent opportunity” later became an iconic line in Taiwan’s land expropriation controversies.
+Liu Cheng-hung's "heaven-sent opportunity" remark later became an emblematic sentence in Taiwan's land-expropriation controversies.
 
 ## 530,000 People, Chung Tung-chin, and the Houlong Great Silicon Valley
 

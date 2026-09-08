@@ -2,9 +2,7 @@
 title: 'Taitung County: Two Offshore Islands, One Held Political Prisoners for Thirty-Six Years, the Other Has Stored Nuclear Waste for Forty-Two Years'
 description: "Taitung County's 210,000 people are scattered across 3,515 square kilometers, the lowest density in the country: only 60 people per square kilometer, one percent of Taipei's. Yet this county contains Taiwan's earliest human settlement (the Peinan Site, 5,300 years ago, with 1,600 stone coffins), is home to six Indigenous peoples (Amis, Puyuma, Paiwan, Rukai, Bunun, Tao), and has Taiwan's highest Indigenous population share at 37.5%. From 1951 to 1987, Green Island's Huoshao Island held political prisoners for thirty-six years. Beginning in May 1982, Longmen on Lanyu began receiving nuclear waste; forty-two years later, 97,672 barrels are still there. On August 25, 1968, seven Bunun children from Hongye Village defeated Japan's Kansai Little League all-star team seven to zero (not a world championship team), and Taiwan's myth of baseball as the national sport began with this deception. Two offshore islands have borne the cost of an entire island."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Taitung',
@@ -21,19 +19,23 @@ tags:
     'South-Link',
     '22 Counties and Cities Series',
   ]
-readingTime: 15
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 15
+researchReport: 'reports/research/2026-05/台東縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/taitung-county-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png'
 translatedFrom: 'Geography/台東縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:a245e10d3b26ade5'
-sourceBodyHash: 'sha256:78f221a15e8e14f3'
-translatedAt: '2026-06-16T17:03:25Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taitung_County_Montage.png/800px-Taitung_County_Montage.png
-imageCredit: Sleepingstar
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:b917cf15071e0f45'
+sourceBodyHash: 'sha256:36a7ca9dd00ad7f0'
+translatedAt: '2026-09-08T02:38:20.427033+00:00'
 ---
 
 # Taitung County: Two Offshore Islands, One Held Political Prisoners for Thirty-Six Years, the Other Has Stored Nuclear Waste for Forty-Two Years
@@ -146,55 +148,55 @@ Martial law was lifted in 1987, and Green Island stopped holding political priso
 
 Most tourists who go to Green Island today go diving, circle the island on scooters, and soak in Zhaori Hot Spring. A minority walk to the park. The park stands on the same road as dive shops and scooter rental stores. On one side are the remains of political-prisoner barracks; on the other is the “Green Island Star” visitor center. **This island is at once a physical witness to Taiwan’s martial-law memory and a popular tourist destination among eastern Taiwan’s offshore islands**. These two identities have never been reconciled; they simply coexist.
 
-## The Plot of Land at Longmen Was Not Meant for a Canning Factory After All
+## That Patch of Land at Longmen — It Wasn't Supposed to Be a Cannery
 
-Ninety kilometers south from Fugang Fishery Harbor in Taitung, 2.7 times farther than Green Island, lies Lanyu.
+From Taitung's Fugang Fishery Harbor, head south 90 kilometers — 2.7 times farther than Green Island — and you reach Lanyu.
 
-It is a volcanic island, farther from Taiwan proper, but closer to the Philippines’ Batanes Islands. It is home to six Tao communities, with a total population of about 5,000. In 1975, something happened that still affects Lanyu today.
+A volcanic island, farther from Taiwan's main island but closer to the Philippines' Batanes Islands. Home to six Tao communities, total population around 5,000. In 1975, something happened that still shapes Lanyu today.
 
-That year, **then-Premier Chiang Ching-kuo approved the establishment of a low-level radioactive waste storage facility in the Longmen area of Lanyu**[^21]. The decision-making process did not consult Lanyu residents. Between 1977 and 1980, the Atomic Energy Council and Taiwan Power Company carried out construction on Lanyu, and local elders’ recollections consistently point to deception. The government induced consent signatures under the name of building a “fish canning factory” (in some accounts, a “pineapple canning factory”); Tao people did not know the true purpose of the construction site[^22]. ⚠️ Government statements deny using the phrase “canning factory.” The 2018 Investigation Report on the Truth of the Establishment of the Lanyu Nuclear Waste Storage Facility confirmed that the people “were not informed,” but the specific wording of the deception remains disputed. Tao memories, however, consistently indicate that they were not told at the time that it was a nuclear waste facility.
+That year, **then-Premier Chiang Ching-kuo approved the Longmen area of Lanyu as a low-level radioactive waste storage site**[^21]. The decision process did not consult Lanyu residents. Between 1977 and 1980, the Atomic Energy Council and Taipower conducted construction on Lanyu; elders' memories consistently point to deception. The government lured signatures of consent under the pretext of building a "fish cannery" (some versions say "pineapple cannery"); the Tao people did not know the site's true purpose[^22]. ⚠️ Official government statements deny using the "cannery" narrative; the 2018 _Truth Investigation Report on the Establishment of the Lanyu Nuclear Waste Storage Site_ confirmed the people "were not informed," though the exact wording of the deception remains disputed — what is consistent is Tao memory that they were never told it was a nuclear waste facility.
 
-**In May 1982**, the first phase of the Lanyu storage facility was completed, and the first shipment of low-level nuclear waste began arriving[^21]. From that moment until the final shipment in 1996, **a total of 97,672 barrels of low-level radioactive waste were received over 14 years**[^21], sourced from the First, Second, and Third Nuclear Power Plants and from medical, agricultural, industrial, and academic institutions across Taiwan.
+**May 1982**, Phase 1 of the Lanyu storage site was completed, and the first batch of low-level nuclear waste began arriving[^21]. From that moment until the final shipment in 1996, **14 years saw 97,672 drums of low-level radioactive waste received**[^21], sourced from Nuclear Power Plants 1, 2, and 3, plus medical, agricultural, industrial, and academic institutions across Taiwan.
 
-![Lanyu landscape, aerial view from above the airport, 2017. Ninety kilometers from Taiwan proper and closer to the Philippines' Batanes Islands. The island is home to six Tao communities, with a total population of about 5,000. Beginning in May 1982, Longmen on the island's southeast corner began receiving nuclear waste for storage; by 1996, 97,672 barrels had accumulated. ](/article-images/geography/taitung-03.webp)
+![Lanyu landscape, aerial view from above the airport, 2017. 90 km from Taiwan's main island, closer to the Philippines' Batanes Islands. Six Tao communities, total population ~5,000. Since May 1982, the Longmen area at the island's southeast corner has received nuclear waste storage, accumulating 97,672 drums by 1996.](/article-images/geography/taitung-03.webp)
 _Lanyu landscape, 2017-07-21. Photo: Pai-Shih Lee (白士 李). [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg)._
 
-In 1987, Tao people protested at the airport against Taipower’s attempt to buy off Lanyu elected representatives with a sightseeing trip to Japan, formally opening the anti-nuclear-waste movement[^23].
+In 1987, Tao people protested at the airport against Taipower's junket for Lanyu representatives to Japan; the anti-nuclear-waste movement formally began[^23].
 
-**On February 20, 1988**, Tao people launched the **“Expel the Evil Spirits”** movement, wearing traditional rattan helmets and armor, carrying spears and daggers, and circling the island. This was the **first organized Indigenous anti-nuclear-waste demonstration** in Taiwan[^24]. The protest phrase “Expel the Evil Spirits” was developed in January 1988 in the Taipei office of Renjian Magazine on Anhe Road, at a meeting chaired by Chen Yingzhen[^24].
+**February 20, 1988**, Tao people launched the "**Expel the Evil Spirits**" campaign, donning traditional rattan helmets and armor, carrying long spears and daggers, circling the island. This was Taiwan's Indigenous peoples' **first organized demonstration against nuclear waste**[^24]. The protest phrase "Expel the Evil Spirits" was conceived in January 1988 at a meeting hosted by Chen Ying-zhen at the _Renjian Magazine_ editorial office on Anhe Road, Taipei[^24].
 
-That day, the people issued a joint statement. The verbatim record reads:
+That day the community issued a joint statement, verbatim record as follows:
 
-> **“This land has a soul. Since ancient times it has protected our people until now. Today, the toxins of nuclear waste are harming it. Our people put on traditional warrior dress, wearing rattan helmets, wearing battle armor, carrying daggers and holding spears, to show the ‘evil spirits’ our resolute will to fight.”**[^24]
+> **"This land has a soul; it has protected our people since ancient times. Now the toxins of nuclear waste harm it here. Our people don traditional warrior attire — rattan helmets, battle armor, daggers at our backs, long spears in hand — to show the 'evil spirits' our resolute will to fight."**[^24]
 
-In 1995, the Lanyu Township Office launched the “one person, one stone” action. **In April 1996**, the Lanyu township mayor, village chiefs, and anti-nuclear-waste activists gathered at Longmen Harbor to protest Taipower’s transport of 168 barrels of nuclear waste from the Second Nuclear Power Plant. The nuclear-waste ship Dianguang No. 1 was blockaded by Lanyu residents, and **after being stranded in the waters off Lanyu for 4 days, it was forced to leave**[^25]. After 1996, Taipower did not ship in any new nuclear waste.
+In 1995, the Lanyu Township Office initiated the "One Person, One Stone" action. **April 1996**, the Lanyu township chief, village chiefs, and anti-nuclear-waste advocates gathered at Longmen Harbor to protest Taipower shipping 168 drums of nuclear waste from Nuclear Power Plant 2. The waste ship _Dianguang No. 1_ was blockaded by Lanyu residents, **stranded in Lanyu waters for four days before being forced to depart**[^25]. After 1996, Taipower brought in no new nuclear waste.
 
-But the 97,672 barrels stayed. At Longmen.
+But the 97,672 drums remained. At Longmen.
 
-> **✦** “**From 1982 to 1996, more than 100,000 barrels of nuclear waste entered the storage facility, until the Tao people’s harbor blockade sent the nuclear-waste ship back to the Second Nuclear Power Plant’s Mingguang Pier.**” (Events in Focus report[^26])
+> **✦** **"From 1982 to 1996, over 100,000 drums of nuclear waste entered the storage site, until the Tao people's harbor blockade forced the nuclear waste ship back to the Mingguang Wharf at Nuclear Power Plant 2."** (Focus Events Report[^26])
 
-In Tao traditional culture, the sea is men’s domain and the mountains are women’s domain. The **flying fish season** (beginning each year in February-March as the fish move north with the Kuroshio Current) is this people’s covenant with the ocean. When eating flying fish, people divide fish species by gender and age: women’s fish, men’s fish, and elders’ fish, each with different handling methods[^27]. During flying fish season they do not catch reef fish, allowing coral reef fish to spawn; only after flying fish season ends do they catch reef fish, allowing flying fish to return home to spawn. This ecological wisdom has operated for more than a thousand years.
+In Tao traditional culture, the sea is men's domain, the mountains women's domain. **Flying Fish Season** (beginning each February–March when the Kuroshio Current moves north) is this people's covenant with the ocean. When eating flying fish, the community allocates species by gender and age: women's fish, men's fish, elders' fish — each category prepared differently[^27]. During Flying Fish Season, reef fish are not caught (letting coral reef fish spawn); only after the season ends are reef fish caught (letting flying fish return to spawn). This ecological wisdom has operated for over a thousand years.
 
-The plank-built boat is the apex of Tao craftsmanship: the chinurikuran large boat uses 27 planks and the tatara small boat uses 21 planks. The traditional colors are red (mountain red earth), white (shell lime), and black (pot soot), and the circular “boat eye” motif has widely come to represent Tao cultural symbolism[^28].
+Plank-built boats (_chinurikuran_ large boats 27 planks, _tatara_ small boats 21 planks) are the pinnacle of Tao craftsmanship; traditional colors are red (mountain red soil), white (seashell ash), black (pot soot); the round boat-eye totem on the prow is widely recognized as a Tao cultural symbol[^28].
 
-![Traditional Tao plank-built boat, Lanyu, August 2015. A Tao large boat, chinurikuran, is made from 27 wooden planks and can carry 8-10 people; a small boat, tatara, is made from 21 planks. The circular boat-eye motif is the Tao people's best-known cultural symbol.](/article-images/geography/taitung-03.webp)
-_Traditional Tao plank-built boat, 2015-08-02. Photo: Cho Hsun Lu. [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
+![Traditional Tao plank-built boat resting on Lanyu's gravel beach, hull in red-white-black, round boat-eye totem centered on the bow side. The Tao large boat chinurikuran is assembled from 27 planks, carries 8–10 people; the small boat tatara from 21 planks.](/article-images/geography/taitung-tao-plank-boat-2015.webp)
+_Traditional Tao plank-built boat. Photo: Cho Hsun Lu, [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
 
-Lanyu has a tropical maritime climate, with annual rainfall exceeding 3,000 millimeters, far more than the roughly 1,900 millimeters in Taitung City in the East Rift Valley and the 1,500 millimeters on the leeward side of the Coastal Mountain Range. The northeast monsoon is powerful in winter. **The Tao traditional underground house, talakaval**, was designed for this climate: low and semi-subterranean, with surrounding earthen walls for insulation, allowing the northeast monsoon to pass directly over the roof[^29]. Today, Yeyin preserves the most complete traditional underground-house settlement and is the only old settlement form on Lanyu that is still inhabited.
+Lanyu's climate is tropical marine, annual rainfall exceeding 3,000 mm (far surpassing the East Rift Valley's Taitung City at ~1,900 mm and the leeward side of the Coastal Mountain Range at ~1,500 mm); winter northeast monsoons are fierce. **The Tao traditional underground house (talakaval)** was designed for this climate: low, semi-subterranean, earthen walls for insulation, the northeast monsoon skimming directly over the roof[^29]. Today, Yeyin (Wild Silver) Village preserves the most complete traditional underground house settlement — the only old village form on Lanyu still inhabited.
 
-Forty-two years have passed.
+Forty-two years on.
 
-On August 1, 2016, Indigenous Peoples’ Day, President Tsai Ing-wen apologized to Indigenous peoples on behalf of the government. **On August 15**, Tsai visited the island, becoming the first head of state to go personally to Lanyu and discuss the nuclear waste issue face to face with Tao people[^30]. On November 22, 2019, the Ministry of Economic Affairs announced **retroactive compensation of NT$2.55 billion** in Taitung, covering the period from 1974 to 1999[^30].
+August 1, 2016, Indigenous Peoples' Day, President Tsai Ing-wen apologized on behalf of the government to Indigenous peoples; **August 15**, Tsai visited the island, becoming the first head of state to go to Lanyu and discuss the nuclear waste issue face-to-face with the Tao[^30]. November 22, 2019, the Ministry of Economic Affairs announced in Taitung **retroactive compensation of NT$2.55 billion** (covering 1974–1999)[^30].
 
-Tao elder Lin Xin-yu refused on the spot. His verbatim words:
+Tao elder Lin Sin-yu refused on the spot. Verbatim:
 
-> **“I solemnly declare: we will not take a single cent! We have sweet potatoes, flying fish, and taro. Please use this money to move the storage site!”**[^31]
+> **"I solemnly declare: we won't take a single cent! We have sweet potatoes, flying fish, and taro — use that money to relocate the site!"**[^31]
 
-He further said:
+He went on to say:
 
-> **“As long as nuclear waste is not moved out of Lanyu, this kind of death, this kind of genocide, will continue.”**[^31]
+> **"As long as nuclear waste remains on Lanyu for even one day, this kind of death, this kind of extinction, will continue."**[^31]
 
-As of 2026, the nuclear waste has still not been moved out. The 97,672 barrels continue to be stored at Longmen on Lanyu. **The White Terror stopped on Green Island after thirty-six years; nuclear waste has been stored on Lanyu for forty-two years**. Taitung County’s two offshore islands have each borne the cost of a chapter of Taiwan’s history, while most of Taiwan proper has felt little of it.
+As of 2026, the nuclear waste has not been relocated. 97,672 drums continue to be stored at Lanyu's Longmen. **White Terror on Green Island lasted thirty-six years; nuclear waste on Lanyu has been stored for forty-two**. Taitung's two offshore islands each bore the cost of a chapter of Taiwan's history, while most of the time Taiwan's main island felt nothing.
 
 ## Chishang’s Rice Waves, Puyuma’s Golden Melody Awards
 
@@ -256,14 +258,14 @@ The county with the lowest density was once home to the earliest people. The jad
 
 ## Image Sources
 
-This article uses 5 Wikimedia Commons CC-licensed images:
+This article uses 5 Wikimedia Commons CC-licensed images. The hero image is cached at `public/article-images/geography/` to avoid hotlinking the source server; the remaining 4 are hot-linked:
 
-- **Hero (frontmatter)**: [Taitung County Montage](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. A montage of Taitung County landscapes, including Taitung City, Baisha Bay, Zhiben Hot Spring, Green Island, and Lanyu.
-- **Scene §Peinan Site**: [Excavation of the Peinan Site](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Stone-slab coffin excavation site at the Peinan Site.
-- **Scene §Huoshao Island**: [Taiwan GreenIsland Human Rights Memorial Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Green Island Human Rights Memorial Monument.
+- **Hero (frontmatter)**: [Taitung County Montage](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. A montage of Taitung County landscapes, including Taitung City, Baisha Bay, Zhiben Hot Springs, Green Island, and Orchid Island.
+- **Scene §Peinan Site**: [Excavation of the Peinan Site](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Excavation site of the slate coffins at the Peinan Site.
+- **Scene §Green Island**: [Taiwan GreenIsland Human Rights Memorial Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Green Island Human Rights Memorial Monument.
 - **Scene §Lanyu Landscape**: [Lanyu landscape - Taiwan](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg) — Pai-Shih Lee (白士 李), 2017-07-21, CC BY 2.0. Aerial view of Lanyu.
-- **Scene §Plank-Built Boat**: [The Traditional Boat Of Tao People](<https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg>) — Cho Hsun Lu, 2015-08-02, CC BY 3.0. Traditional Tao plank-built boat.
-- **Scene §Chishang Rice Waves**: [Mr. Brown Avenue](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) — Sinchen.Lin, 2016-09-03, CC BY 2.0. Takeshi Kaneshiro Tree on Mr. Brown Avenue in Chishang Township.
+- **Scene §Plank Boat**: [The Traditional Boat Of Tao People](<https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg>) — Cho Hsun Lu, 2015-08-02, CC BY 3.0. Traditional plank-built boat of the Tao people.
+- **Scene §Chishang Rice Waves**: [伯朗大道](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) — Sinchen.Lin, 2016-09-03, CC BY 2.0. The Takeshi Kaneshiro Tree on Brown Boulevard in Chishang Township.
 
 License terms: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
