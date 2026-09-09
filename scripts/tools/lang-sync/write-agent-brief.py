@@ -306,6 +306,13 @@ def build(lang: str) -> dict:
             # 換成自己編的 `/culture/taiwan-religion-temples-culture`，站上沒那個頁面，
             # 八道閘全過。全庫同型 1,715 條。**slug 是網址不是文案，不要翻它也不要編它。**
             "python3 scripts/tools/lang-sync/internal-link-check.py <目標路徑>   # 死連結 = 0",
+            # 第 9 道報的死連結若**中文原文自己就有**（zh 連向一篇沒寫出來的文章，
+            # 全庫 64 條）：把它扁平化成純文字（留下錨字，去掉連結），不要照抄過去。
+            # 契約原本只說「保留來源路徑」，那條的用意是防止譯者自創 slug，沒設想
+            # 來源本身是死的。保留 = 讀者撞 404；扁平化 = 讀者失去一條本來就用不了的
+            # 連結。2026-09-09 同一篇冰品文章的 ar 與 ru 版對這件事給了相反處理，
+            # 因為契約沒說——現在說了。用 --vs-source 分辨是不是繼承來的。
+            "python3 scripts/tools/lang-sync/internal-link-check.py --vs-source <目標路徑>   # 譯者新造的死連結 = 0",
         ],
         "known_false_positives": {
             "list": [
