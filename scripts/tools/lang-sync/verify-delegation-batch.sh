@@ -101,6 +101,10 @@ PYEOF
   # 引用整段照抄，十一道閘全綠。
   python3 scripts/tools/lang-sync/untranslated-line-check.py "$f" >/dev/null 2>&1 \
     || reasons+=("整行未翻")
+  # 第 13 道（2026-09-10）：台灣的錢被寫成中國的錢。沒有限定詞的 yuan／юань／يوان
+  # 在那些語言裡就是人民幣。全庫 1,180 處 / 288 檔（OBSERVER-QUEUE #59）。
+  python3 scripts/tools/lang-sync/currency-identity-check.py "$f" >/dev/null 2>&1 \
+    || reasons+=("台幣寫成人民幣")
 
   if [ ${#reasons[@]} -gt 0 ]; then
     fail=$((fail+1)); failed_list+=("$f: ${reasons[*]}")

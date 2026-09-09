@@ -326,6 +326,12 @@ def build(lang: str) -> dict:
             # **引文區是最常漏的地方**：`> ✦ 「…」` 這種區塊看起來像「原文引用」，
             # 但它跟正文一樣要翻——保留原文的只有參考區的來源標題。
             "python3 scripts/tools/lang-sync/untranslated-line-check.py <目標路徑>   # 整行未翻 = 0",
+            # 台灣的錢不是中國的錢。「新台幣 2 兆元」寫成 `2 triliun yuan`、「每噸數十元」
+            # 寫成 `puluhan yuan`，在印尼文／西班牙文／俄文裡讀者讀到的就是人民幣。
+            # 用該語系的多數形（NT$ / dolar Taiwan / новых тайваньских долларов…）。
+            # ⚠️ 修的時候不要做裸字串取代——`يوان` 是 `تايوان`（台灣）的子字串，
+            # 2026-09-09 有人因此把「莊智淵代表台灣」改成了「莊智-美元」。用數字錨定。
+            "python3 scripts/tools/lang-sync/currency-identity-check.py <目標路徑>   # 裸幣別 = 0",
         ],
         "known_false_positives": {
             "list": [
