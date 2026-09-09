@@ -1746,7 +1746,7 @@
   },
   "ru:Music/閃靈.md": {
     "health": 1,
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 2
   },
   "ko:Music/台灣樂器製造.md": {
     "verify=3 [translation ratio, footnote count, URL count]": 1,
@@ -5423,7 +5423,7 @@
     "verify=1 [frontmatter not untranslated]": 2
   },
   "en:Music/小虎隊.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:Culture/無名小站.md": {
     "patch candidate rejected by verify trio (exit=1)": 2
@@ -5493,7 +5493,7 @@
     "verify=1 [frontmatter not untranslated]": 2
   },
   "es:Music/小虎隊.md": {
-    "verify=2 [frontmatter not untranslated, tags ASCII]": 1
+    "verify=2 [frontmatter not untranslated, tags ASCII]": 2
   },
   "ja:Art/金馬賓館當代美術館.md": {
     "no output written by translate.py (exit=1)": 2
@@ -5514,7 +5514,7 @@
     "verify=1 [frontmatter not untranslated]": 2
   },
   "es:People/林良.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "fr:Culture/台灣聲景.md": {
     "verify=1 [frontmatter not untranslated]": 1
@@ -5908,6 +5908,45 @@
     "no output written by translate.py (exit=1)": 1
   },
   "fr:People/唐鳳.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ar:History/婦女運動.md": {
+    "verify=1 [section count]": 1
+  },
+  "ja:Lifestyle/吉祥物.md": {
+    "leak": 1
+  },
+  "ar:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "pt:History/婦女運動.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "id:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "pt:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "hi:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "id:History/婦女運動.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:Geography/苗栗縣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ja:History/婦女運動.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:Geography/澎湖縣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Geography/玉山氣象站.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ru:People/林良.md": {
     "no output written by translate.py (exit=1)": 1
   }
 }

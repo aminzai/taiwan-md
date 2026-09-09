@@ -14,6 +14,15 @@ readingTime: 15
 featured: false
 lastVerified: 2026-04-03
 lastHumanReview: true
+sporeLinks:
+  - id: 4
+    platform: 'threads'
+    date: '2026-04-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWtoAI1k8Xf'
+  - id: 5
+    platform: 'x'
+    date: '2026-04-04'
+    url: 'https://x.com/taiwandotmd/status/2040438911697379383'
 translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:e1bc3aa8197e4184'
@@ -163,49 +172,49 @@ Seventy years ago, these instruments played _Spring River Flower Moonlit Night_ 
 
 The NCO's rehearsal room is in Taipei. The city noise outside the window — scooter engines, night market hawkers, the MRT arrival chime — these sounds seep into composers' ears and flow back out through the erhu's strings. Nobody decreed that guoyue must evolve this way, but the island's air changed the way the strings vibrate.
 
-That question — "the _guo_ in guoyue, which country?" — perhaps never needed an answer. The instrument remembers where it is[^39].
+That question — "the _guo_ in guoyue, which country?" — perhaps never needed an answer. The instrument remembers where it is.
 
 ## References
 
-[^1]: [Chung Yiu-kwong's promotion of localized repertoire during his tenure as TCO director — Taipei Chinese Orchestra official website](https://www.tco.gov.taipei/)
+[^1]: [Taipei Chinese Orchestra official website](https://www.tco.gov.taipei/) — See original link for supplementary information
 
 [^2]: Chung Yiu-kwong's philosophy on guoyue localization — [_Chuanyi_ Magazine: Modern Guoyue Innovation, Performing Taiwan's Vitality](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130)
 
-[^3]: [Academia Historica: materials on the 1949 retreat](https://www.drnh.gov.tw/), estimated 1.2–2 million people relocated to Taiwan
+[^3]: [Academia Historica: materials on the 1949 retreat](https://www.drnh.gov.tw/) — Estimated 1.2–2 million people relocated to Taiwan
 
 [^4]: Liu Tianhua (1895–1932) and the "Society for National Music Reform" — [Taiwan Music Image Database](https://musiciantw.ncfta.gov.tw/)
 
 [^5]: Western music education during the Japanese colonial period — [Taiwan Music Image Database](https://musiciantw.ncfta.gov.tw/)
 
-[^6]: [National Taiwan University of Arts, Department of Chinese Music history](https://music.ntua.edu.tw/); [National Taiwan College of Performing Arts history](https://www.tcpa.edu.tw/)
+[^6]: [National Taiwan University of Arts, Department of Chinese Music history](https://music.ntua.edu.tw/) — [National Taiwan College of Performing Arts history](https://www.tcpa.edu.tw/) — See original link for supplementary information
 
-[^7]: [National Chinese Orchestra Taiwan — Wikipedia: History](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98)
+[^7]: [National Chinese Orchestra Taiwan — Wikipedia: History](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98) — Wikipedia entry
 
-[^8]: Ibid., reorganized as "National Chinese Orchestra Taiwan" in 2012 under the National Center for Traditional Arts
+[^8]: [National Chinese Orchestra Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98) — reorganized as "National Chinese Orchestra Taiwan" in 2012 under the National Center for Traditional Arts — Reorganized as "National Chinese Orchestra Taiwan" in 2012 under the National Center for Traditional Arts
 
-[^9]: [NCO: Annual productions and commissions](https://nco.ncfta.gov.tw/), _Crossing the Ridge_ premiered 2016
+[^9]: [NCO: Annual productions and commissions](https://nco.ncfta.gov.tw/) — _Crossing the Ridge_ premiered 2016 — _Crossing the Ridge_ premiered 2016
 
-[^10]: [Taipei Chinese Orchestra official website: About TCO](https://www.tco.gov.taipei/), founded 1979
+[^10]: [Taipei Chinese Orchestra official website: About TCO](https://www.tco.gov.taipei/) — founded 1979 — Founded 1979
 
-[^11]: [Chung Yiu-kwong — Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89), appointed TCO director 2007
+[^11]: [Chung Yiu-kwong — Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89) — appointed TCO director 2007
 
-[^12]: Ibid., Chung's push for Taiwanese original commissions during tenure
+[^12]: [Chung Yiu-kwong — Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89) — Chung's push for Taiwanese original commissions during tenure — Aggressively commissioned Taiwanese guoyue compositions during tenure
 
-[^13]: [Kaohsiung Chinese Orchestra official website](https://kpcaf.kcg.gov.tw/), originally the Kaohsiung Teachers' Chinese Orchestra founded 1979
+[^13]: [Kaohsiung Chinese Orchestra official website](https://kpcaf.kcg.gov.tw/) — originally the Kaohsiung Teachers' Chinese Orchestra founded 1979 — Originally the Kaohsiung Teachers' Chinese Orchestra founded 1979
 
-[^14]: [Su Wen-ching — Wikipedia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6)
+[^14]: [Su Wen-ching — Wikipedia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6) — Wikipedia entry
 
-[^15]: Ibid., major works list
+[^15]: [Su Wen-ching — Wikipedia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6) — major works list — Major works list (Wikipedia entry)
 
-[^16]: [_Chuanyi_ Magazine: Modern Guoyue Innovation, Performing Taiwan's Vitality](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130)
+[^16]: [_Chuanyi_ Magazine: Modern Guoyue Innovation, Performing Taiwan's Vitality](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130) — See original link for supplementary information
 
 [^17]: Su Wen-ching's _Legend of the Wind Lion God_, inspired by Kinmen's wind lion lords — [Taiwan Music Image Database: Su Wen-ching](https://musiciantw.ncfta.gov.tw/)
 
 [^18]: _The Swallow_ is a frequent competition piece in Taiwan's guoyue contests — see county/city student music competition repertoire lists
 
-[^19]: [China National Traditional Orchestra official website](http://www.cnso.com.cn/), typical ensemble 90–120 musicians
+[^19]: [China National Traditional Orchestra official website](http://www.cnso.com.cn/) — typical ensemble 90–120 musicians — Ensemble typically 90–120 musicians
 
-[^20]: [TCO ensemble introduction](https://www.tco.gov.taipei/), approximately 70 members
+[^20]: [TCO ensemble introduction](https://www.tco.gov.taipei/) — approximately 70 members — Approximately 70 members
 
 [^21]: Development of mainland Chinese ethnic orchestral music — [Chinese National Music (ROC) — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%A8%82)
 
@@ -217,15 +226,15 @@ That question — "the _guo_ in guoyue, which country?" — perhaps never needed
 
 [^25]: The Bunun _pasibutbut_ overtone singing tradition is recognized by international musicology as a unique polyphonic tradition — [UNESCO ICH records](https://ich.unesco.org/)
 
-[^26]: [NCO: _Crossing the Ridge_ and _Where Is Mauliyav?_ program notes](https://nco.ncfta.gov.tw/)
+[^26]: [NCO: _Crossing the Ridge_ and _Where Is Mauliyav?_ program notes](https://nco.ncfta.gov.tw/) — See original link for supplementary program information
 
 [^27]: Debate over cultural appropriation of Indigenous music in guoyue — discussed among Taiwan Indigenous music scholars; ongoing, no consensus
 
-[^28]: [TCO crossover performance records](https://www.tco.gov.taipei/)
+[^28]: [TCO crossover performance records](https://www.tco.gov.taipei/) — See original link for supplementary information
 
 [^29]: Blaire Ko (柯智豪) is a Taiwanese crossover musician active in guoyue, film scoring, and indie music. Quote from public interview
 
-[^30]: [Hsien Chin Music Shop](https://www.stmusic.com.tw/); [Chang An Music](https://www.cachinamusic.com/)
+[^30]: [Hsien Chin Music Shop](https://www.stmusic.com.tw/) — [Chang An Music](https://www.cachinamusic.com/) — See original link for supplementary information
 
 [^31]: Use of Taiwanese local wood in instrument making — based on luthier practice; systematic acoustic research data remains limited
 
@@ -239,8 +248,6 @@ That question — "the _guo_ in guoyue, which country?" — perhaps never needed
 
 [^36]: Trend of younger guoyue musicians performing in non-traditional venues — recent observational trend
 
-[^37]: [TCO international tour records](https://www.tco.gov.taipei/)
+[^37]: [TCO international tour records](https://www.tco.gov.taipei/) — See original link for supplementary tour information
 
 [^38]: International critical reception of Taiwanese guoyue — scattered across tour coverage
-
-[^39]: Curated and written by Taiwan.md Contributors, synthesizing multiple public sources. Some historical details await further verification

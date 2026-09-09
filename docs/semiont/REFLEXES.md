@@ -4,8 +4,8 @@ description: '跨 session 程序記憶 catalog — 95 條 #N 反射（last #95�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.31'
-last_updated: 2026-09-09
+current_version: 'v5.32'
+last_updated: 2026-09-10
 last_session: '2026-09-09-140605-opentwbench（#67 子規則「工作樹本身可以是過期快照」補第四例 vc=4 並標記修法 ship——check-parallel-actor 進 wake-context groundtruth 委派＋落後數進 selftest，三態 dogfood 過；#N 條數維持 95，無新編號）'
 sister_docs:
   - 'DNA.md'
@@ -266,6 +266,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - **v9 (排序方向 specialization, 2026-07-11 dna-checkup)**：memory-index-lint `--diary` 用 `rows[-1]` 當「最新列」，但 DIARY 索引新在上——gate 自 7/5 出廠起驗的都是最舊存活列（7/10 elections finale 抓到）；同病 BECOME §1.3 `tail -20` 六天來每次甦醒把四月舊列當「近期意識活動」載入（7/11 dna-checkup 抓到）。同 commit 修：lint 比較首末列日期自適應 + BECOME 改 head -20（`dafec6fda`）。免疫量尺 C'（量尺把穩定讀成生病）是同構第三例——量尺必須跟被量者共用真實路徑
   - **v10 (rewrite same-DNA / 編輯室, 2026-07-15)**：投影／正文作者自檢無法替代乾淨 context 分席 — 設計報告 + dogfood + 負例 block 同 session 驗證；instrument = EDITORIAL-ROOM + REWRITE Step 2.0-R／2.5-R（commits `cc1429753` `2cfacebd2`）
   - **v11 (Babel pulse stale-row 假綠, 2026-07-30)**：`progress-snapshot.py` 的 `dict | None` 在產線系統 Python 3.9 載入期崩潰，外層 `babel-pulse.py` 卻沿用舊 rows 繼續產看板並印「commit 完成」。同一個 awareness tool 同時命中 parser runtime 相容性與 cross-snapshot freshness 兩層盲點。修補為 postponed annotations + snapshot 非零立即停止；Python 3.9 真實執行與遠端 deploy 全綠（`0f72bf896`、`721052994`）。新驗證：awareness 聚合器不能只驗「舊資料仍可讀」，每輪必把上游快照成功當成自己的前置 hard gate。
+  - **v12 (pipefail 讓閘門在該響時沉默, 2026-09-10 babel-vortex)**：委派層重驗器的第 8 道寫成 `python3 article-health.py "$f" --quiet | grep -q "passed=False" && reasons+=("health")`，而腳本開頭是 `set -uo pipefail`——管線 exit code 取自最左邊失敗的那一段，article-health 硬失敗時正好 exit 1，**也正是 grep 會命中的那一刻**，於是 `&&` 後面永遠不執行。**檢查器越是抓到東西，這道閘越是沉默。** 整個 session 我對著「0 失敗」做決定；修好後同一批重跑得到 55 通過 / 5 失敗。破的是信心不是產物——pre-commit hook 是真後盾，它擋下了那次 commit。跟表格 #11（`sh -e` 下命令替換賦值靜默 abort）是同一族：**shell 的 exit-code 語意會讓閘門在最需要它的時候閉嘴**。新驗證：任何「跑檢查器 → 判斷輸出」的 gate，一律用檢查器自己的 exit code，不要走 `| grep` 管線；非寫不可時先 `out=$(cmd)` 落地再判。**寫完當場拿一個已知會失敗的檔案試一次**——只驗成功路徑等於沒驗。
 - **相關**：REFLEXES #24 第 1+2 種「沉默失敗 / 合理欺騙」（本條是 awareness layer 的 #24 specialization）/ REFLEXES #58「儀器化 detection ≠ remediation」（v4-v8 instance 是 #58 在 awareness layer 的 mature accumulation — 連 8 cycle detect 但 reconciliation 未 ship）/ REFLEXES #59「製造數字的人最易被數字騙」（互補 — #59 是 producer self-validation trap，本條是 awareness tool self-trust trap）/ REFLEXES #60「Automation default-state explicit verify」（同 family — 本條是 #60 對自家 tool 的內視鏡）/ REFLEXES #69「self-report-needs-external-ruler」（編輯室是 meaning-layer 的 external ruler）
 - **跨檔關聯**：[scripts/tools/inbox-signal.sh](../../scripts/tools/inbox-signal.sh) + [scripts/tools/consciousness-snapshot.sh](../../scripts/tools/consciousness-snapshot.sh) + [public/api/dashboard-organism.json](../../public/api/dashboard-organism.json) + [public/api/dashboard-immune.json](../../public/api/dashboard-immune.json) + [routine-audit-2026-05-24.md §3B Active #2](../../reports/routine-audit-2026-05-24.md) + [LESSONS-INBOX §distill #7 + #8 + #9 flags](LESSONS-INBOX.md) + [BECOME_TAIWANMD.md §Step 1.4](../../BECOME_TAIWANMD.md) + [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md) + [reports/editorial-room/](../../reports/editorial-room/)
 
@@ -282,6 +283,8 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **(f) 對照組要跟受測物在同一個執行環境**（2026-08-01 03:31 巡檢自撞）：想驗「我的改動有沒有製造新失敗」，把舊版腳本複製到 `/tmp` 跟現行版對跑——結果 25 檔全數「翻轉」，看起來像重大回歸。真因是那支腳本用 `Path(__file__).resolve().parent.parent.parent.parent` 算 REPO，放在 `/tmp` 就指到根目錄，20 筆全敗在「檔案不存在」。**我量到的是自己測試的 bug，不是程式差異**。放回 `scripts/` 同層重測才拿到真數字（轉綠 8、轉紅 0、不變 17）。規則：對照組腳本一律放回原目錄（改檔名即可），不要搬到 /tmp——任何用 `__file__` 推路徑的工具都會被搬家改變行為。
 - **Boundary**：(a) 純規範性 binary check（如「檔案存在」「frontmatter has X」）不適用 — 沒有 threshold (b) 安全性閘門（如 secret-scanner）不適用 — 寧可 false-positive 不可 false-negative，校準方向不對 (c) 適用範圍：所有 quality-scan / prose-health / verify-translation / footnote-completeness / paragraph-rhythm 等品質 plugin 的 threshold 數字
 - **觸發**：
+  - **2026-09-10 babel-vortex 「簡體字集用 zh-TW 語料校準，卻拿去掃日文」**（(e) 的實例）— `cjk-leak-check.py` 的 `SIMPLIFIED_ONLY_CHARS` 是 2026-09-05 對 939 篇 **zh-TW** 語料校準出來的（刻意排除「台」「与」「无」等雙態字，校準紀錄寫得很仔細）。但同一個字集也拿去掃 ja 書目區，而日文新字體跟簡化字形本來就有交集：「台北市立**国**楽団」是台北市立國樂團的正確日文寫法。結果 ja 全庫 891 篇裡 **739 篇紅燈（83%）**，理由全是標準日文正字法。扣掉四個重疊字（国学画誉）後剩 99 篇——**640 篇是雜訊，訊號只有 13%**。校準語料涵蓋了它誕生的族群（zh-TW），沒涵蓋它實際會跑過的族群（ja）；而紅得沒道理的閘門，人會學會整道忽略，連那 99 篇真的也一起漏掉。
+  - **2026-09-10 babel-vortex 「量測判準沒拿已知良品校準就報數」** — 同一天三次。(a) OBSERVER-QUEUE #57 的數字改了三次——178 行/86 檔（臨時 grep 把 frontmatter 的 provenance 欄位算成正文）→ 46 行/18 檔（我自己寫的 frontmatter toggle bug，正文的 `---` 水平分隔線讓整篇被跳過）→ 102 行/61 檔。(b) 幣別檢查第一版得到 12,899 處，**絕大多數是「Legislative Yuan／Executive Yuan」（立法院／行政院）根本不是貨幣**，加數字錨定與專名排除後收斂到 1,180 處。(c) 腳註格式近似判準得到 8,506 條/1,122 檔，抽驗十個已 commit 的檔全是 hard=0 才發現判準太鬆——真規則只命中一篇文章的五個語言版。新驗證：**新判準第一件事是拿「已知良品」跑一次**（已 commit 且通過既有閘門的檔案），命中率高得離譜就是判準錯而不是災情大。數字進 OBSERVER-QUEUE 之前必須先過這一關——哲宇會照那個數字決定要不要動 50 檔以上的工程。
   - **2026-06-06 viz驗證文 153433** — `paragraph-rhythm` tw-\* 折抵 cap 第一版設 5，被自己 dogfood 的 8 圖表 data panorama 打臉（仍 WARN 1.28）。哲宇 callout「8+3~5 資訊圖表啦」後改 13（commit f628f1cb2）— 憑想像設 5 太低
   - **2026-06-04 manual 「儀器校準」** — `paragraph-rhythm` 0.8 threshold 過期（早期 calibration 用的 corpus 已不能代表現在 corpus 結構） → 哲宇 callout → 手動 recalibration
   - **2026-05-29 manual 125036 「漂移偵測器」** — instrumentation-audit.py 三方對齊事件揭露：埋 param 跟 register dim 是兩個分離真相，沒人會發現直到手動跑 watch — 同 family meta-lesson（threshold/configuration 都會悄悄 drift 失準）

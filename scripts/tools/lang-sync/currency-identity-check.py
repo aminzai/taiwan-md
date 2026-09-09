@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""currency-identity-check.py — 台灣的錢被寫成中國的錢。
+"""currency-identity-check.py — 台灣的錢被寫成別人的錢。
+
+兩族：
+  (甲) 寫成中國的錢——裸的 yuan／юань／يوان。
+  (乙) 寫成譯文語言自己國家的錢——rupiah／рубль／đồng。2026-09-10 新增，
+       出生在紙風車 id 篇：「35 萬至 45 萬元」寫成 `350–450 ribu rupiah`。
+       這族比 (甲) 更隱形，讀者不會覺得句子怪，只會以為台灣用印尼盾。
 
 2026-09-10 出生：id 的環境正義篇把「新台幣 2 兆元」寫成 `2 triliun yuan`、
 「每噸數十元」寫成 `puluhan yuan`。在印尼文／西班牙文／俄文裡，沒有限定詞的
@@ -49,6 +55,27 @@ QUALIFIER = re.compile(
 # 幣別詞後面接大寫開頭的字＝專有名詞（Yuan Ze University、Yuan Goang-Ming）
 PROPER_NOUN = re.compile(r"^\s*[A-ZА-Я][a-zа-я-]")
 
+# 第二族（2026-09-10 補）：台灣的錢被寫成**譯文語言自己國家**的錢。
+# 紙風車 id 篇把「35 萬至 45 萬元」寫成 `350–450 ribu rupiah`、「2.1 億捐款」寫成
+# `210 juta rupiah`——三處，十三道閘全綠，因為 gate 13 那時只認得 yuan。
+# 這一族比人民幣那族更隱形：讀者不會覺得句子怪，只會以為台灣用印尼盾。
+LOCAL_CURRENCY = {
+    "id": r"rupiah", "hi": r"रुपये|रुपए|रुपया", "ru": r"рубл\w*",
+    "vi": r"đồng", "ar": r"ريال|درهم|دينار",
+}
+# 越南文的 đồng 是「貨幣單位」的通稱不是專有名詞，`đồng Đài Loan` 正是台幣的標準
+# 講法；rupiah／рубль／ريال 則是國家專屬詞，後面接 Taiwan 也救不回來（`rupiah
+# Taiwan baru` 不是「新台幣」，是不存在的東西）。第一版沒分這一刀，全庫 1,068 處
+# 裡有 1,042 處是越南文的誤報——比訊號本身還多（REFLEXES #66／#74）。
+GENERIC_UNIT = {"vi": r"(?:Đài Loan|Đài tệ|TWD|NT\$|New Taiwan|New Đài|Tân Đài)"}
+
+# 文章真的在講那個國家的錢時（移工匯款、當地票價）就不是錯的
+LOCAL_OK = {
+    "id": r"Indonesia|Jakarta", "hi": r"भारत|दिल्ली|मुंबई",
+    "ru": r"Росси|Москв|рубл[её]в\w* курс", "vi": r"Việt Nam|Hà Nội",
+    "ar": r"السعودي|الإمارات|قطر|الأردن|مصر",
+}
+
 SUGGEST = {
     "id": "NT$ / dolar Taiwan", "es": "NT$ / dólares taiwaneses", "fr": "NT$ / dollars taïwanais",
     "pt": "NT$ / dólares taiwaneses", "en": "NT$ / New Taiwan dollars", "de": "NT$ / Neue Taiwan-Dollar",
@@ -89,7 +116,21 @@ def scan(path: Path) -> list[str]:
         window = text[max(0, m.start() - 45):m.end() + 45]
         if QUALIFIER.search(window):
             continue
-        hits.append(f"{m.group()}   …{window.strip()[:80]}…".replace("\n", " "))
+        hits.append(f"人民幣：{m.group()}   …{window.strip()[:80]}…".replace("\n", " "))
+    # 第二族：譯文語言自己國家的錢。這裡沒有 QUALIFIER 豁免——句子旁邊寫著
+    # Taiwan 也不會讓 rupiah 變成正確的幣別，反而正是最典型的錯法。
+    loc = LOCAL_CURRENCY.get(lang)
+    if loc:
+        lpat = re.compile(rf"[0-9][0-9.,]*[0-9]?\s?(?:{MAG}\s)?(?:{loc})\b", re.I)
+        ok = re.compile(LOCAL_OK[lang], re.I)
+        gen = GENERIC_UNIT.get(lang)
+        for m in lpat.finditer(text):
+            window = text[max(0, m.start() - 60):m.end() + 60]
+            if ok.search(window):
+                continue
+            if gen and re.match(rf"\s*{gen}", text[m.end():m.end() + 20], re.I):
+                continue
+            hits.append(f"在地幣別：{m.group()}   …{window.strip()[:80]}…".replace("\n", " "))
     return hits
 
 
@@ -116,11 +157,14 @@ def main() -> int:
             print(f"     …另外 {len(hits) - 5} 處")
     if flagged:
         print(f"\n════ {flagged} 檔，合計 {total} 處 ════")
-        print("台灣的錢不是中國的錢。沒有限定詞的 yuan／юань／يوان 讀者會讀成人民幣。")
+        print("台灣的錢不是中國的錢，也不是譯文語言自己國家的錢。")
+        print("  人民幣族：沒有限定詞的 yuan／юань／يوان 讀者會讀成人民幣。")
+        print("  在地幣別族：rupiah／рубль 是國家專屬詞，寫成「rupiah Taiwan baru」"
+              "不是「新台幣」而是不存在的東西。")
         print("⚠️ 修的時候不要做裸字串取代——`يوان` 是 `تايوان`（台灣）的子字串，"
               "2026-09-09 有人因此把「莊智淵代表台灣」改成了「莊智-美元」。用數字錨定。")
         return 1
-    print(f"✅ {len(files)} 檔，沒有把台幣寫成人民幣")
+    print(f"✅ {len(files)} 檔，沒有把台幣寫成人民幣或譯文語言自己國家的錢")
     return 0
 
 

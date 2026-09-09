@@ -71,7 +71,14 @@ for f in $FILES; do
   vfails=$(python3 scripts/tools/lang-sync/verify-translation.py "knowledge/$zh" "$f" --json 2>/dev/null \
            | python3 -c "import json,sys;d=json.load(sys.stdin);print(d.get('fails',-1))" 2>/dev/null | head -1)
   [ "${vfails:-x}" = "0" ] || reasons+=("verify=${vfails:-parse-error}")
-  python3 scripts/tools/article-health.py "$f" --profile=pre-commit --quiet 2>&1 | grep -q "passed=False" && reasons+=("health")
+  # 2026-09-10：這行原本是 `python … | grep -q "passed=False" && reasons+=("health")`。
+  # 腳本開頭 `set -uo pipefail` 讓管線回傳 **python 的** exit code，而 article-health
+  # 失敗時正好 exit 1 —— 也正是 grep 會命中的那一刻。於是 `&&` 永遠不執行，
+  # 第 8 道閘整段是空的。今天 commit 被 pre-commit 擋下才發現：五篇 footnote-format
+  # hard=11~20 的檔，重驗器全報「通過」。
+  # 改用 exit code 直接判（article-health 自己就用 exit 1 表示 hard fail），不再走管線。
+  python3 scripts/tools/article-health.py "$f" --profile=pre-commit --quiet >/dev/null 2>&1 \
+    || reasons+=("health")
   python3 scripts/tools/lang-sync/cjk-leak-check.py "$f" >/dev/null 2>&1 || review+=("leak")
   python3 scripts/tools/lang-sync/cjk-adjacency-check.py "$f" >/dev/null 2>&1 || review+=("adjacency")
   # 契約長到九道閘之後，這支只驗到第七道就等於「我的尺比契約短」——agent 交回的

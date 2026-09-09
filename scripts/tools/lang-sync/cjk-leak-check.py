@@ -359,14 +359,25 @@ SIMPLIFIED_ONLY_CHARS = frozenset(
 )
 
 
-def detect_simplified_residue(text: str) -> Optional[str]:
+# 日文新字體跟簡化字形撞在一起的字（2026-09-10）：「台北市立国楽団」是台北市立
+# 國樂團的**正確**日文寫法，不是簡體殘留，但 2026-09-05 的字集把 `国` 收了進去，
+# 於是每一篇引用日文樂團／學校／美術館名稱的 ja 譯文都紅燈。
+# 全字集跟日文常用新字體的交集只有這四個字——其餘（讠／钅／饣 部件家族、
+# 「维」「归」…）日文根本不用，對 ja 仍然照擋，所以 ja 引用真的簡體中文來源
+# 還是抓得到。紅得沒道理的閘門會被學會忽略（REFLEXES #74），所以收窄不是放水。
+JA_SHINJITAI_OVERLAP = frozenset("国学画誉")
+
+
+def detect_simplified_residue(text: str, lang: str = "") -> Optional[str]:
     """書目區內任何一個簡體專用字 → 判「書目區簡體殘留」；找不到回 None。
     傳入的 text 應為書目區原文（未經 strip_legit_zones，才留得住待檢查的
     腳註定義行內容），本函式內部只做 _strip_bib_zone_structure 這種選擇性
-    剝除。"""
+    剝除。lang="ja" 時排除新字體重疊字。"""
     scan = _strip_bib_zone_structure(text)
+    charset = (SIMPLIFIED_ONLY_CHARS - JA_SHINJITAI_OVERLAP
+               if lang == "ja" else SIMPLIFIED_ONLY_CHARS)
     for i, ch in enumerate(scan):
-        if ch in SIMPLIFIED_ONLY_CHARS:
+        if ch in charset:
             ctx = scan[max(0, i - 15):i + 15].replace("\n", " ")
             return f"{ch!r} (e.g. …{ctx}…)"
     return None
@@ -440,7 +451,7 @@ def scan_file(path: Path, lang: str = None, verbose: bool = False):
 
     # 書目區簡體殘留（兩分支共用，OBSERVER-QUEUE #23 選 A）：正體來源標題放行，
     # 簡體不放行，命中即整篇判 leak。
-    simplified = detect_simplified_residue(bib_raw)
+    simplified = detect_simplified_residue(bib_raw, lang)
     if simplified:
         hits.append(f"書目區簡體殘留: {simplified}")
     elif verbose and bib_raw:
