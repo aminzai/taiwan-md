@@ -37,6 +37,10 @@ NOW=$(date +%s)
 pass=0; fail=0; skipped=0; needs_review=0; failed_list=()
 for f in $FILES; do
   lang="${f#knowledge/}"; lang="${lang%%/*}"
+  # zh-TW 來源自己也會出現在 git status 裡（例如修來源端的壞連結時）。它沒有
+  # translatedFrom，本來會被判成「找不到 zh 來源」的假紅燈。語言碼是兩碼小寫，
+  # 分類名不是——用這個分辨，不用維護分類白名單。
+  case "$lang" in [a-z][a-z]) ;; *) continue ;; esac
   [ -n "$FILTER" ] && [ "$lang" != "$FILTER" ] && continue
   mtime=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null || echo 0)
   age=$((NOW - mtime))
