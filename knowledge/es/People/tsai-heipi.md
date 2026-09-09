@@ -178,7 +178,7 @@ Este artículo utiliza 6 imágenes con licencia CC de Wikimedia Commons. Dado qu
 
 [^4]: [Página del canal de YouTube de Tsai Hei-pi](https://www.youtube.com/@jin_an0528) — Estadísticas primarias del canal: aproximadamente 260k suscriptores, 227 videos, y las vistas de cada serie (Taiwan Transportation, Taiwan 360, Hei-pi tells old city).
 
-[^5]: [[[PTT MRT Board: [Noticia] Discusión sobre el Premio Especial por Contribución del Jinlu Award para el YouTuber del transporte "Hei-pi" (2025-12-08)](](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html))) — Ver la información complementaria en el contenido del enlace original.
+[^5]: [PTT MRT Board: [Noticia] Discusión sobre el Premio Especial por Contribución del Jinlu Award para el YouTuber del transporte "Hei-pi" (2025-12-08)](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html) — Ver la información complementaria en el contenido del enlace original.
 
 [^6]: [Facebook de la Asociación de Transporte de Taiwán: Conferencia del 5/6 para el YouTuber del transporte Hei-pi (2021)](https://www.facebook.com/100077498171484/posts/330022631891460/) — Registro primario de la Asociación de Transporte de Taiwán, que lo invitó a compartir su proceso de creación de videos como "Tsai Ing-wen (Hei-pi), experto en videos de transporte".
 

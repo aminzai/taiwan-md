@@ -6,7 +6,7 @@
     "verify=1 [frontmatter not untranslated]": 8
   },
   "ar:Food/珍珠奶茶.md": {
-    "health [wikilink-target]": 2
+    "health [wikilink-target]": 3
   },
   "ja:History/民主化.md": {
     "patch candidate rejected by verify trio (exit=1)": 5,
@@ -18,7 +18,8 @@
     "health [wikilink-target]": 1
   },
   "ru:Food/珍珠奶茶.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "id:About/視覺化模組型錄.md": {
     "no output written by translate.py (exit=1)": 2,
@@ -301,7 +302,7 @@
     "verify=1 [URL count]": 2
   },
   "pt:Food/台灣手路菜.md": {
-    "verify=1 [frontmatter not untranslated]": 9,
+    "verify=1 [frontmatter not untranslated]": 11,
     "verify=2 [frontmatter not untranslated, tags ASCII]": 2,
     "no output written by translate.py (exit=1)": 2
   },
@@ -657,7 +658,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Food/台灣麵包與烘焙.md": {
-    "verify=1 [frontmatter not untranslated]": 7,
+    "verify=1 [frontmatter not untranslated]": 9,
     "no output written by translate.py (exit=1)": 1
   },
   "ar:People/尹衍樑.md": {
@@ -711,7 +712,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Music/落日飛車.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:Society/國宅與居住正義.md": {
     "verify=1 [section count]": 2,
@@ -811,7 +812,7 @@
     "verify=1 [URL count]": 1
   },
   "id:Music/落日飛車.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:People/紀懷新.md": {
     "patch candidate rejected by verify trio (exit=1)": 2,
@@ -956,7 +957,7 @@
   },
   "pt:Food/台灣原住民飲食文化.md": {
     "health [wikilink-target]": 1,
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 4,
     "verify=2 [URL count, frontmatter not untranslated]": 1
   },
   "ja:History/史前時代與原住民.md": {
@@ -1097,7 +1098,8 @@
     "verify=1 [frontmatter not untranslated]": 1
   },
   "id:Culture/澎湖民俗文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags ASCII]": 1
   },
   "ar:Culture/澎湖民俗文化.md": {
     "verify=1 [frontmatter not untranslated]": 2
@@ -1576,7 +1578,8 @@
   },
   "ar:People/林昶佐.md": {
     "health": 1,
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 1,
+    "health [wikilink-target]": 1
   },
   "vi:Society/台灣統獨光譜.md": {
     "no output written by translate.py (exit=1)": 1
@@ -2844,12 +2847,12 @@
     "health": 1
   },
   "ar:Culture/無名小站.md": {
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Culture/無名小站.md": {
     "health": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:Culture/藍染.md": {
     "leak": 1
@@ -3767,7 +3770,8 @@
     "health [link-target]": 2
   },
   "ar:Music/大港開唱.md": {
-    "health [link-target]": 2
+    "health [link-target]": 2,
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "ko:Technology/台灣電視產業史.md": {
     "health [link-target]": 1
@@ -3926,22 +3930,22 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Food/台灣手路菜.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "id:Economy/夜市經濟學.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Food/台灣手路菜.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "id:Politics/總統的寵物.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "id:Food/台灣手路菜.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Food/台灣手路菜.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "id:Technology/飲料封膜機.md": {
     "no output written by translate.py (exit=1)": 1
@@ -3993,7 +3997,8 @@
     "verify=1 [section count]": 1
   },
   "hi:Music/落日飛車.md": {
-    "health [footnote-format]": 1
+    "health [footnote-format]": 1,
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Music/台灣獨立音樂.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4199,7 +4204,7 @@
     "health [ai-residue]": 1
   },
   "id:Geography/桃園市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:People/楊傳廣.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4217,7 +4222,7 @@
     "health [ai-residue]": 1
   },
   "ru:Food/台灣素食文化.md": {
-    "verify=1 [frontmatter not untranslated]": 6,
+    "verify=1 [frontmatter not untranslated]": 7,
     "no output written by translate.py (exit=1)": 1
   },
   "ar:People/桂綸鎂.md": {
@@ -4239,7 +4244,7 @@
     "verify=1 [URL count]": 1
   },
   "ru:Food/台灣麵包與烘焙.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ru:Technology/PTT批踢踢.md": {
     "health [wikilink-target]": 1
@@ -4269,7 +4274,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Geography/桃園市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "ru:Music/台灣音樂祭文化.md": {
     "health [wikilink-target]": 1
@@ -4278,7 +4283,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ar:Food/客家飲食文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "ru:Art/台灣原住民當代藝術.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4287,19 +4293,19 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ar:Food/台灣發酵食品與醃製文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ar:Food/台灣手搖飲文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ru:Food/客家飲食文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ru:Food/台灣發酵食品與醃製文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ru:Food/台灣手搖飲文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ar:Food/台灣素食文化.md": {
     "verify=2 [section count, frontmatter not untranslated]": 1,
@@ -4307,7 +4313,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Food/台灣冰品文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ru:Food/台灣小吃.md": {
     "verify=1 [frontmatter not untranslated]": 1
@@ -4316,7 +4322,7 @@
     "verify=1 [URL count]": 1
   },
   "ar:Food/台灣麵包與烘焙.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ru:People/張雨生.md": {
     "verify=1 [tags ASCII]": 1
@@ -4441,7 +4447,7 @@
     "verify=1 [URL count]": 1
   },
   "ar:Food/台灣冰品文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "pt:People/曹興誠.md": {
     "patch candidate rejected by verify trio (exit=1)": 5,
@@ -4604,16 +4610,16 @@
     "no output written by translate.py (exit=1)": 1
   },
   "en:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "es:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "fr:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ko:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "en:Food/台灣醬料與調味.md": {
     "verify=1 [frontmatter not untranslated]": 1
@@ -4658,16 +4664,16 @@
     "verify=1 [tags ASCII]": 1
   },
   "en:Food/茶文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "es:Food/茶文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "fr:Food/茶文化.md": {
     "verify=1 [frontmatter not untranslated]": 1
   },
   "ko:Food/茶文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ja:Technology/PTT批踢踢.md": {
     "verify=1 [URL count]": 1
@@ -4762,7 +4768,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Food/茶文化.md": {
-    "verify=1 [frontmatter not untranslated]": 7
+    "verify=1 [frontmatter not untranslated]": 9
   },
   "id:Food/茶文化.md": {
     "verify=1 [frontmatter not untranslated]": 6
@@ -4772,7 +4778,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 7
+    "verify=1 [frontmatter not untranslated]": 8
   },
   "ar:Food/台灣海鮮文化.md": {
     "verify=1 [frontmatter not untranslated]": 7
@@ -4789,7 +4795,7 @@
     "verify=1 [URL count]": 1
   },
   "hi:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 6
+    "verify=1 [frontmatter not untranslated]": 7
   },
   "ko:Nature/黑冠麻鷺.md": {
     "patch candidate rejected by verify trio (exit=1)": 5,
@@ -4802,7 +4808,7 @@
     "verify=1 [frontmatter not untranslated]": 7
   },
   "ru:Food/台灣海鮮文化.md": {
-    "verify=1 [frontmatter not untranslated]": 7
+    "verify=1 [frontmatter not untranslated]": 9
   },
   "hi:People/江蕙.md": {
     "verify=1 [tags ASCII]": 1
@@ -5010,7 +5016,7 @@
     "health [footnote-format]": 1
   },
   "es:Geography/連江縣.md": {
-    "no output written by translate.py (exit=1)": 10
+    "no output written by translate.py (exit=1)": 11
   },
   "fr:Geography/連江縣.md": {
     "no output written by translate.py (exit=1)": 10
@@ -5101,10 +5107,11 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Food/客家飲食文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "hi:Food/台灣發酵食品與醃製文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "id:Art/台灣原住民當代藝術.md": {
     "no output written by translate.py (exit=1)": 1
@@ -5120,7 +5127,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Food/台灣手搖飲文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "hi:People/鈕承澤.md": {
     "no output written by translate.py (exit=1)": 1
@@ -5157,19 +5165,19 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Music/落日飛車.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Music/落日飛車.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "en:Music/落日飛車.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Music/落日飛車.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Music/落日飛車.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "de:Music/落日飛車.md": {
     "no output written by translate.py (exit=1)": 1
@@ -5178,6 +5186,661 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:Economy/中壢.md": {
+    "verify=1 [URL count]": 1,
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Geography/新北市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:People/莫那·魯道.md": {
+    "leak": 2
+  },
+  "ko:Music/小虎隊.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "es:Geography/新竹市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "fr:Economy/中壢.md": {
+    "verify=1 [URL count]": 2
+  },
+  "ko:Lifestyle/吉祥物.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "en:Geography/用數據看台灣22縣市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "ja:Geography/花蓮縣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Music/小虎隊.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "hi:Technology/Threads在台灣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "id:Technology/Threads在台灣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "en:Culture/國家圖書館.md": {
+    "verify=1 [URL count]": 3
+  },
+  "en:Geography/澎湖縣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "es:Geography/台中市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:Culture/國家圖書館.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "es:Geography/嘉義縣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "fr:People/林良.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "ko:Food/豆花.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:Food/豆花.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Culture/台灣聲景.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:People/這群人.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "en:Technology/雪山隧道.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "fr:Food/豆花.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "id:Food/珍珠奶茶.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ko:Food/茶葉蛋.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:Food/茶葉蛋.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Geography/用數據看台灣22縣市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "fr:Food/茶葉蛋.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ko:Food/台灣新住民美食融合.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "pt:Food/台灣麵食文化.md": {
+    "health [ai-residue]": 1,
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣小吃.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Food/豆花.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "fr:Food/擔仔麵.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ko:Food/夜市文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:Food/擔仔麵.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Food/茶葉蛋.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "hi:Food/珍珠奶茶.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "fr:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ko:Food/擔仔麵.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Food/台灣小吃.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/珍珠奶茶.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "pt:Geography/新竹市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "es:Food/擔仔麵.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ru:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ko:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "fr:Food/台灣手搖飲文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ja:Food/台灣小吃.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:Food/台灣素食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:People/陳樹菊.md": {
+    "verify=1 [URL count]": 2
+  },
+  "es:People/陳樹菊.md": {
+    "verify=1 [URL count]": 2
+  },
+  "fr:People/陳樹菊.md": {
+    "verify=1 [URL count]": 2
+  },
+  "ar:Food/夜市文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:People/陳樹菊.md": {
+    "verify=1 [URL count]": 2
+  },
+  "en:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ru:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ja:Geography/新竹市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "pt:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Food/擔仔麵.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ja:Food/夜市文化.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "es:Technology/Threads在台灣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "id:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:Geography/台南市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Food/擔仔麵.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "hi:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "hi:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ja:People/楊傳廣.md": {
+    "leak": 1
+  },
+  "hi:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=2 [frontmatter not untranslated, tags ASCII]": 1
+  },
+  "ar:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=2 [frontmatter not untranslated, tags ASCII]": 1
+  },
+  "ja:Food/台灣麵食文化.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "ru:Culture/台灣棒球文化.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "ko:Culture/台灣聲景.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "id:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Food/蘿蔔糕.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:Music/小虎隊.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "es:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "ja:Food/蘿蔔糕.md": {
+    "leak": 1
+  },
+  "id:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "pt:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 2
+  },
+  "ru:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "hi:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 2
+  },
+  "ja:Food/台灣手路菜.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "id:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 2
+  },
+  "ja:Lifestyle/台鐵鳴日號.md": {
+    "leak": 2
+  },
+  "pt:Food/客家飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "pt:Food/台灣發酵食品與醃製文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 2
+  },
+  "ja:Culture/台灣棒球文化.md": {
+    "leak": 1
+  },
+  "pt:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "id:Food/台灣發酵食品與醃製文化.md": {
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "hi:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "id:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "pt:Food/台灣手搖飲文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "id:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "en:Culture/台灣聲景.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Music/小虎隊.md": {
+    "verify=2 [frontmatter not untranslated, tags ASCII]": 1
+  },
+  "ja:Art/金馬賓館當代美術館.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "fr:Technology/台灣人工智慧發展與未來策略.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ja:Food/客家飲食文化.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "pt:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "hi:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "id:Food/台灣麵包與烘焙.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:People/林良.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:Culture/台灣聲景.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:People/尊.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "es:Food/台灣新住民美食融合.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ja:Food/台灣發酵食品與醃製文化.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:Society/台灣的道德課去哪了.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "hi:Food/台灣麵包與烘焙.md": {
+    "health [wikilink-target]": 1,
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:People/楊傳廣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "en:People/楊傳廣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ja:Food/阿婆鐵蛋.md": {
+    "leak": 1
+  },
+  "es:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:People/楊傳廣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ar:People/陳樹菊.md": {
     "verify=1 [URL count]": 1
+  },
+  "ko:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 1
+  },
+  "en:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 1
+  },
+  "ja:People/陳樹菊.md": {
+    "leak": 2
+  },
+  "es:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 1
+  },
+  "fr:Culture/台灣棒球文化.md": {
+    "verify=1 [URL count]": 1
+  },
+  "ko:Food/客家飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "es:Music/落日飛車.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "pt:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "id:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 2
+  },
+  "fr:Technology/Threads在台灣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "en:Economy/中壢.md": {
+    "verify=1 [URL count]": 1
+  },
+  "es:Economy/中壢.md": {
+    "verify=1 [URL count]": 1
+  },
+  "ko:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "en:People/林良.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Geography/桃園市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "id:Food/擔仔麵.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ja:Technology/雪山隧道.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ko:People/林良.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:People/這群人.md": {
+    "leak": 1
+  },
+  "es:Food/夜市文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ru:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ja:Food/茶葉蛋.md": {
+    "verify=2 [frontmatter not untranslated, tags not identical to zh]": 1
+  },
+  "ja:Food/台灣新住民美食融合.md": {
+    "verify=2 [frontmatter not untranslated, tags not identical to zh]": 1
+  },
+  "ja:People/范曉萱.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "es:Music/大港開唱.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ko:Geography/用數據看台灣22縣市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "en:Food/台灣新住民美食融合.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Geography/用數據看台灣22縣市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "en:Food/夜市文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣素食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/台灣新住民美食融合.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Music/大港開唱.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "en:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/台灣麵食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Music/落日飛車.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:Music/落日飛車.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Music/大港開唱.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "id:Food/客家飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣小吃.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/夜市文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣手搖飲文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Music/大港開唱.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ko:Food/台灣手搖飲文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣手搖飲文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/台灣米食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣素食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/台灣素食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "id:Food/台灣手搖飲文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Food/丹丹漢堡.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ja:Nature/生態多樣性.md": {
+    "leak": 1
+  },
+  "es:Food/珍珠奶茶.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ja:Nature/台灣鳥類窗殺議題.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ar:Technology/mini-taiwan-pulse.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Food/台灣小吃.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Food/台灣小吃.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣手路菜.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣手路菜.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/客家飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/客家飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "fr:Food/台灣原住民飲食文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣發酵食品與醃製文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "es:Food/台灣發酵食品與醃製文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "hi:Culture/無名小站.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Food/台灣冰品文化.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Food/台灣麵包與烘焙.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "es:Food/台灣麵包與烘焙.md": {
+    "health [wikilink-target]": 1
+  },
+  "ko:Food/台灣麵包與烘焙.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "en:Geography/高雄市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Technology/mini-taiwan-pulse.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Geography/新北市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:Geography/新北市.md": {
+    "leak": 1
+  },
+  "en:Geography/台中市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:Geography/花蓮縣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "ko:Geography/高雄市.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:Geography/彰化縣.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ja:People/蔡黑皮.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ru:People/林昶佐.md": {
+    "verify=1 [URL count]": 1
+  },
+  "fr:Food/珍珠奶茶.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Geography/台東縣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "en:Geography/彰化縣.md": {
+    "verify=1 [tags ASCII]": 1
+  },
+  "ko:Geography/南投縣.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Food/台灣手路菜.md": {
+    "verify=1 [frontmatter not untranslated]": 1
+  },
+  "ko:Geography/澎湖縣.md": {
+    "leak": 1
   }
 }

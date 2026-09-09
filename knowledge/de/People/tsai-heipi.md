@@ -178,7 +178,7 @@ Dieser Artikel verwendet 6 Bilder mit CC-Lizenzen von Wikimedia Commons. Da die 
 
 [^4]: [Tsai Hei-pi YouTube Kanalseite](https://www.youtube.com/@jin_an0528) — Primäre Statistik des Kanals mit etwa 260.000 Abonnenten, 227 Videos und den Aufrufzahlen der verschiedenen Serien (Taiwan Transport Forum, Taiwan 360, Hei-pi erzählt alte Städte).
 
-[^5]: [[[PTT MRT Board: [Nachrichten] Diskussion über den Jinlu Award Sonderbeitragspreis für Verkehrs-YouTuber „Hei-pi“ (08.12.2025)](](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html))) — Details siehe ergänzende Materialien im Originallink.
+[^5]: [PTT MRT Board: [Nachrichten] Diskussion über den Jinlu Award Sonderbeitragspreis für Verkehrs-YouTuber „Hei-pi“ (08.12.2025)](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html) — Details siehe ergänzende Materialien im Originallink.
 
 [^6]: [Taiwan Transportation Association Facebook: 5/6 Vortrag des Verkehrsvereins lädt Verkehrsvideoexperte Hei-pi ein (2021)](https://www.facebook.com/100077498171484/posts/330022631891460/) — Die Taiwan Transportation Association lud ihn unter dem Namen „Verkehrsvideoexperte Tsai Chian-an (Hei-pi)“ zu einem Vortrag ein, um seinen Produktionsprozess zu teilen.
 

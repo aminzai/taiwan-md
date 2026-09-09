@@ -177,7 +177,7 @@ Artikel ini menggunakan 6 gambar berlisensi CC dari Wikimedia Commons. Karena pe
 
 [^4]: [Halaman Kanal YouTube Tsai Hei Pi](https://www.youtube.com/@jin_an0528) — Statistik mentah tentang sekitar 260 ribu pelanggan, 227 video, dan jumlah penayangan dari setiap seri (Taiwan Transportasi, Taiwan 360, Hei Pi Bercerita tentang Kota Tua).
 
-[^5]: [[[PTT MRT Board: [Berita] Diskusi Penghargaan Kontribusi Khusus Jinlu Award YouTuber Transportasi "Hei Pi" (2025-12-08)](](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html))) — Lihat materi tambahan dalam tautan asli.
+[^5]: [PTT MRT Board: [Berita] Diskusi Penghargaan Kontribusi Khusus Jinlu Award YouTuber Transportasi "Hei Pi" (2025-12-08)](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html) — Lihat materi tambahan dalam tautan asli.
 
 [^6]: [Facebook Asosiasi Transportasi Taiwan: Seminar Industri Transportasi 5/6 Mengundang YouTuber Tsai Hei Pi (2021)](https://www.facebook.com/100077498171484/posts/330022631891460/) — Catatan mentah dari Asosiasi Transportasi Taiwan yang mengundangnya untuk berbagi proses pembuatan video dengan nama "Pakar Video Transportasi Tsai Chian-an (Hei Pi)."
 
