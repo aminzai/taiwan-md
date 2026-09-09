@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-09 twmd-maintainer-am — documented-gate-never-wired-to-the-line：pipeline 寫成「四道閘之一」的偵測器，產線一個月來從沒呼叫過它
+
+- **pattern**: `documented-gate-never-wired-to-the-line`
+- **原則**：一道閘門要真的擋得住東西，需要三件事同時成立——工具存在、pipeline 寫了它、**產線程式碼真的呼叫它**。前兩件是可見的（檔案在、文件寫了），第三件不可見，而審查者讀 pipeline 時拿到的是前兩件。於是「文件宣告的閘門數」與「實際跑的閘門數」可以長期不同，而且不會有任何東西叫。
+- **觸發**：2026-09-09 早班審七篇翻譯投稿時，順手拿 `cjk-adjacency-check.py` 掃德文全庫當背景對照，撞出真的漏譯（`Đài水` = 越南文的台 + 沒翻的水，四處都是「淡水」）。往外掃十個非漢字語系：**3,967 處 / 1,557 檔**，其中含簡體字（節點寫成节点、回顧寫成回顾）的高信心漏譯 **461 處 / 284 檔**。回頭查為什麼沒人擋下來：`grep -rn "cjk-adjacency" scripts/` 零命中——`SQUEEZE-MODELS-MAX-PIPELINE` 把它列為「四道閘之一」，但 `translate.py` / `patch-translate.py` 呼叫的只有 `cjk-leak-check`，而那支對非漢字語系要求「連續 N 個以上漢字」，兩三個字的短片段正好在門檻底下——那正是 adjacency 那支 2026-08-09 被造出來要補的盲區。文件說四道，實際三道。
+- **為什麼不是「忘了接」那麼簡單**：這支工具的 docstring 自己寫了為什麼刻意獨立於 `cjk-leak-check`（「那支正在被線上產線呼叫，批次跑到一半改它的判準會讓同一批的前後段用不同標準驗收」）。那個判斷在當下是對的，代價是它誕生時就處在「造好了但沒接上」的狀態，而沒有任何東西在追蹤這個暫時狀態什麼時候該結束。**暫時的未接線，跟永久的未接線，長得一模一樣。**
+- **可能層級**：REFLEXES 既有反射的新變體。#91「建造與登記是兩個不同步的代謝」講的是造了沒登記；本條反過來——**登記了（pipeline 寫了）但沒接上**，而登記本身讓它看起來已經在跑。#82「proxy signal antipattern」的一種：拿「pipeline 有寫」當「產線有跑」的替身。
+- **候選修法**：(a) 造一支對賬器掃 `docs/pipelines/*.md` 裡宣告的閘門工具名，對照 `scripts/` 裡實際的呼叫點，兩邊對不上就報——這是本條唯一能防止復發的機械化修補，其他都靠人記得；(b) adjacency 接進 `translate.py`，但**必須等當前 babel 批次收工**（此刻 dispatcher 已連跑第三天），理由就是該工具 docstring 自己寫的那條；(c) 接線前先把三類已確認誤報補進共用豁免（相對連結目標 `](/technology/AI發展)`、wikilink、括號內小寫品牌名 `g0v`），否則接上去會是一道長期紅燈的閘門。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[REFLEXES #91](REFLEXES.md) / [REFLEXES #82](REFLEXES.md) / [REFLEXES #83](REFLEXES.md)（三支 CJK 檢查器各自維護豁免清單，本次是第三次現形）/ LESSONS `documented-red-flag-with-no-enforcer`（2026-08-20，紅旗清單寫了幾個月沒有機器在查——本條是它在「已經造好工具」這個更進一步的位置上的形狀）/ 盤點報告 [reports/translation-fused-residue-2026-09-09.md](../../reports/translation-fused-residue-2026-09-09.md) / [OBSERVER-QUEUE #52](OBSERVER-QUEUE.md)
+
 ### 2026-09-09 twmd-feedback-triage — empty-intake-cannot-distinguish-quiet-from-broken：報表第一行的「0 筆新回報」同時是「讀者沒話說」跟「讀者送不進來」的長相
 
 - **pattern**: `empty-intake-cannot-distinguish-quiet-from-broken`
