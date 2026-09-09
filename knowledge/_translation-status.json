@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T18:59:27+08:00",
-    "zhCommitHead": "b240bf265",
+    "lastUpdated": "2026-09-09T19:00:04+08:00",
+    "zhCommitHead": "cd41683e9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 774,
+        "fresh": 775,
         "stale": 73,
-        "metadata_stale": 18,
+        "metadata_stale": 17,
         "missing": 256,
         "orphan": 0
       },
@@ -86559,18 +86559,16 @@
         "pt": {
           "path": "pt/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
           "translatedFrom": "People/陳樹菊.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:884e3106e00c3ed4",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
-          "translatedAt": "2026-07-26T10:36:36+08:00",
+          "translatedAt": "2026-09-09T15:32:34+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
