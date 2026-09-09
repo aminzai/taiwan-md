@@ -269,6 +269,15 @@ def build(lang: str) -> dict:
                 "**漢字原詞留在正文**，那裡有完整說明也不受這道閘限制。"
                 "不要為了避開它而把整個概念拿掉——那是刪內容換綠燈。"
             ),
+            "_這條跟正文的漢字規則方向相反_": (
+                "**標題裡的漢字要拿掉，正文裡當證據的漢字要留下**——兩條方向相反，"
+                "所以寫在一起，不要混成一條（同 tags／subcategory 那組的處理）。"
+                "正文的判準是：**這個漢字本身是不是資料**。〈台灣原住民族姓名〉的氏族／漢姓對照表就是——"
+                "2026-09-10 一隻 agent 把 `豆、趙` 音譯成 `Dou, Zhao`、把 `樟 34、章 341` 寫成 "
+                "`Zhang 34, Zhang 341`，兩欄長得一模一樣，讀者分不出哪個字是 34 哪個是 341，"
+                "整張表的資訊歸零；同篇的 ar 版寫 `豆، 趙` 就是對的。"
+                "還在報告裡寫「漢姓保留漢字」——實際全篇只剩 11 個漢字。"
+            ),
             "passthrough": "sporeLinks / researchReport / image / imageCredit / imageLicense / imageSource / relatedDiary / date / readingTime / featured / lastVerified / lastHumanReview 原樣保留，不要靜默丟掉",
             "translatedFrom": "逐字照抄 frontmatter_placeholder 的值，byte-equal，繁體字不可換成任何異體字",
         },

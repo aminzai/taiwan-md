@@ -50,6 +50,13 @@ for f in $FILES; do
   fi
   # 從譯文的 translatedFrom 找 zh 來源——比從檔名反推可靠，因為 slug 跟中文檔名
   # 本來就不對應（那正是 _slug-map 存在的理由）
+  # translatedFrom 的值是相對 knowledge/ 的路徑。委派層在 2026-09-10 這一天有五篇
+  # 寫成 `knowledge/History/…`，多一層前綴——派工單裡點名三波仍在犯，所以改成這裡
+  # 直接修掉，不再每次花一個往返退回去。是機械錯誤，不需要人判斷。
+  if grep -q "^translatedFrom:[[:space:]]*['\"]\?knowledge/" "$f"; then
+    perl -i -pe "s{^translatedFrom:(\s*['\"]?)knowledge/}{translatedFrom:\$1}" "$f"
+    printf "🔧 %-58s translatedFrom 多的 knowledge/ 前綴已自動移除\n" "${f#knowledge/}"
+  fi
   zh=$(grep -m1 "^translatedFrom:" "$f" | sed "s/^translatedFrom:[[:space:]]*//; s/^['\"]//; s/['\"]$//")
   if [ -z "$zh" ] || [ ! -f "knowledge/$zh" ]; then
     echo "❌ $f — 找不到 zh 來源（translatedFrom=${zh:-空}）"
