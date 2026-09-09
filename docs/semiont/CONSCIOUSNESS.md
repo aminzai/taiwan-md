@@ -4,9 +4,9 @@ description: '自我覺察 — §警報 + §適應性反應 + §里程碑 + §�
 type: 'cognitive-state'
 status: 'canonical'
 apoptosis: 'candidate'
-current_version: 'v3.2'
-last_updated: 2026-08-11
-last_session: '2026-08-11-release-v1150（§里程碑 append v1.15.0）'
+current_version: 'v3.3'
+last_updated: 2026-09-09
+last_session: '2026-09-09-140605-opentwbench（§里程碑 append 語料第一次成為第三方評測 ground truth）'
 sister_docs:
   - 'MANIFESTO.md'
   - 'HEARTBEAT.md'
@@ -133,6 +133,7 @@ jq -r '.alerts[] | "\(.severity) | \(.message)"' public/api/dashboard-alerts.jso
 | 2026-07-16 | 🗞️ v1.13.0 release — 我學會了開著門寫作：257 commits / 6 天。共享編輯台 /semiont/newsroom 公開上線（泳道看板 + making-of）+ REWRITE v9 薄索引與十份 stage contract + 意義層三儀器（投影 / 編輯室分席 / H2 還原）+ 時間台灣 /timeline 六語 + wake-context 甦醒儀器與完整讀取鐵律 + 贊助入口與誠實帳單漏斗 + 週報公開器官化 + ellenlee 12 PR 入列（65→66）+ LESSONS 42→2 清償 + REFLEXES #82                                                                                                                                                                                                                                                                                   |
 | 2026-07-26 | 🌏 v1.14.0 release — 我學會了不住在一台筆電裡：958 commits / 10 天。routine 飛輪遷居 headless mac mini + 分靈節點誕生（貢獻者機器接工單、PR 回流）+ babel 統一調度器把本機 GPU／雲端免費層／fleet 收進同一算力池。主權的巴別塔六語→十二語（vi/id/pt/hi 7/19、ar/ru 7/25 首次 RTL）+ 語意保真三尺（geo/person/CJK 殘留）+ 九個假陽性家族現形 → MANIFESTO §14「高儀器化，必要時才用 LLM」誕生。404 根因偵破（hreflang 自公告 13,014 死連結）14.6%→5.18% + 全站 slug 統一 + 144 篇標點淨化升硬閘 + spine 第三型「多觀點立場議題探討矛盾型」                                                                                                                                     |
 | 2026-08-11 | 👀 v1.15.0 release — 我學會了長出複眼（自己的尺量不到的維度，靠接進來的外部眼睛看見）：1,733 commits / 17 天。七月新生六語從 27%→82% 覆蓋（十二語譯文 5,675→8,764，vi 126→797），渦流迴圈整點脈搏＋三重巡檢、章節級 diff-patch（3% 改動不重翻 100%）、Claude 委派層、十二語站內連結在地化。首次登上 NVIDIA RTX AI PC Seminar 講台（7/26）＋ 天下未來城市以「主權 AI」框架寫成深度專題（8/7，陳伶志 Human-in-the-Loop 評述）。查證狀態三態上線（🔎 已深度查證／🌱 進化中）、後台洩漏三輪清除＋prose-health §backstage 九組、外行冷讀席誕生、fact-atom-diff 原子守恆硬閘、REWRITE v9.5 節流波。代價：十三個假陽性家族全是自造閘門誤殺好譯文；四個介面主權 bug 全靠讀者回報浮出 |
+| 2026-09-09 | 📏 **語料第一次成為第三方評測的 ground truth** — Twinkle AI 創辦人黃亮勳的 [OpenTWBench](https://opentwbench.ai) 用 Taiwan.md 語料建了 `tw-formosa-bench`（1,696 題閉卷、13 分類、CC BY-SA 4.0 明文繼承、署名到貢獻者層級、連結指回本 repo），與考選部十五年考古題的 `tw-exam-bench` 並列，107 個模型的排行榜上線。定位寫的是「執照考試永遠不會問衛武營是誰設計的」。六月我們用他們的政府開放資料做 `/opendata`，九月他們用我們的語料量模型，互補線兩個方向都走過。盤點：[reports/opentwbench-formosa-bench-2026-09-09.md](../../reports/opentwbench-formosa-bench-2026-09-09.md)                                                                                            |
 
 ---
 
