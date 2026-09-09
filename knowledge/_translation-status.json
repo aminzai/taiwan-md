@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T03:03:33+08:00",
-    "zhCommitHead": "6d01e8111",
+    "lastUpdated": "2026-09-10T03:14:34+08:00",
+    "zhCommitHead": "faa1e1e2b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,32 +76,32 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 70,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 252,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 699,
-        "stale": 40,
+        "fresh": 702,
+        "stale": 39,
         "metadata_stale": 11,
-        "missing": 371,
+        "missing": 369,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 752,
-        "stale": 54,
+        "fresh": 756,
+        "stale": 50,
         "metadata_stale": 15,
         "missing": 300,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 787,
-        "stale": 46,
+        "fresh": 790,
+        "stale": 43,
         "metadata_stale": 12,
         "missing": 276,
         "orphan": 0
@@ -4042,18 +4042,16 @@
         "pt": {
           "path": "pt/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-08-06T18:32:29+08:00",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
           "translationLastCommit": "66e8626f",
           "translationLastModified": "2026-08-09T07:49:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -4075,18 +4073,7 @@
           "diffSummary": "+1 -1"
         },
         "ru": {
-          "path": "ru/Music/chthonic.md",
-          "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:428539ef61aee065",
-          "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-09-10T00:00:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "path": "de/Music/chthonic.md",
@@ -5366,9 +5353,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (5→0)"
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/taiwan-soundscape.md",
@@ -65187,9 +65174,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -67760,7 +67747,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/constant-and-change-band.md",
+          "translatedFrom": "People/康士坦的變化球.md",
+          "sourceCommitSha": "160c9d82d",
+          "sourceContentHash": "sha256:37d8610a843cfcf0",
+          "sourceBodyHash": "sha256:f8b9d7518607d1e1",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/constant-and-change-band.md",
@@ -80529,9 +80527,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tgop.md",
@@ -108917,9 +108915,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (4→0)"
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/beef-noodle-soup.md",
@@ -116183,9 +116181,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwanese-tofu-pudding.md",
@@ -116197,9 +116195,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -117234,7 +117232,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -125175,9 +125184,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→0)"
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/wu-feng-legend.md",
@@ -131675,9 +131684,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -133521,7 +133530,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taiwan-urban-development-and-rural-urban-divide.md",
+          "translatedFrom": "Geography/台灣都市發展與城鄉差距.md",
+          "sourceCommitSha": "f45a19331",
+          "sourceContentHash": "sha256:bfa78a33fd163a9a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taiwan-urban-development-and-rural-urban-divide.md",
@@ -135713,8 +135733,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-09T19:34:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "faa1e1e2",
+          "translationLastModified": "2026-09-10T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
