@@ -2,9 +2,7 @@
 title: 'Chiayi County: 490,000 People Lend Their Face to Alishan, and No One Remembers the County Seat Is in Taibao'
 description: "At five in the morning, the oyster racks off Dongshi are still in the water; half of the nation's oysters come from this stretch of sea. A hundred kilometers away on Alishan, the forest railway that opened to Erwanping in 1912 runs 66.6 kilometers. In between, beside Taibao's high-speed rail station, the Southern Branch of the National Palace Museum took 15 years to open, drawing 760,000 visitors in 2018. When the Chiayi County seat moved from Chiayi City to Taibao in 1991, the whole country thought Chiayi meant Chiayi City. Thirty-five years later, this county of 490,000 people surrounds a city of 270,000 that was carved out of it, with an aging index of 174%, the highest in Taiwan."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Chiayi County',
@@ -19,19 +17,20 @@ tags:
     'County-City Division',
     '22 Counties and Cities Series',
   ]
-readingTime: 18
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 18
+researchReport: 'reports/research/2026-05/嘉義縣.md'
+series: '22 縣市系列（batch 2）'
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Geography/嘉義縣.md'
-sourceCommitSha: '6f28d616'
-sourceContentHash: 'sha256:e233ab9cc8b79527'
-sourceBodyHash: 'sha256:8e7d5975a9ac8375'
-translatedAt: '2026-06-12T16:39:07Z'
-image: https://upload.wikimedia.org/wikipedia/commons/2/29/Tashan_in_morning_glow.jpg
-imageCredit: Peellden
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:Tashan_in_morning_glow.jpg
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:8a5f68953035c21c'
+sourceBodyHash: 'sha256:a01c05f219edf7a3'
+translatedAt: '2026-09-08T20:36:41.499673+00:00'
 ---
 
 # Chiayi County: 490,000 People Lend Their Face to Alishan, and No One Remembers the County Seat Is in Taibao
@@ -244,7 +243,7 @@ This article uses six Wikimedia Commons images, under a mix of CC BY-SA and Publ
 
 [^4]: [Yan Siqi's 1621 landing at Benkang — Xingang Township Office, Chiayi County](https://www.singang.gov.tw/) — Official historical record of Yan Siqi leading people ashore at Benkang, between today's Xingang Township in Chiayi County and Beigang in Yunlin County, establishing "ten stockades" for reclamation, and serving as the earliest organized Han development in the Chiayi region.
 
-[^5]: Lian Heng, _General History of Taiwan_, juan 33, "Biography of Lin Shuangwen" — Original text on the hardship of defending Zhuluo, "with no food to be had, people dug up tree roots and boiled bean pulp to stave off hunger, yet their resolve to defend the city grew firmer," cited from [The Lin Shuangwen Rebellion — StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion).
+[^5]: [The Lin Shuangwen Rebellion — StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion) — Lian Heng, _General History of Taiwan_, juan 33, "Biography of Lin Shuangwen" — Original text on the hardship of defending Zhuluo, "with no food to be had, people dug up tree roots and boiled bean pulp to stave off hunger, yet their resolve to defend the city grew firmer," cited from.
 
 [^6]: [Historical edict changing Zhuluo's name to Chiayi — Official website of Chiayi City Government](https://www.chiayi.gov.tw/News_Content.aspx?n=512&s=216171) — Official version of the edict issued on the third day of the 11th month of the 52nd year of Qianlong, 1787, changing "Zhuluo" to "Chiayi" in recognition of "the loyalty and righteousness with which they defended the city to the death," a naming history inherited by Chiayi County.
 

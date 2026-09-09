@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T07:38:17+08:00",
-    "zhCommitHead": "3587e9e54",
+    "lastUpdated": "2026-09-09T08:21:32+08:00",
+    "zhCommitHead": "64fcb9806",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 790,
-        "stale": 84,
+        "fresh": 791,
+        "stale": 83,
         "metadata_stale": 21,
         "missing": 226,
         "orphan": 0
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 77,
         "metadata_stale": 19,
-        "missing": 224,
+        "missing": 223,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 84,
         "metadata_stale": 26,
-        "missing": 227,
+        "missing": 226,
         "orphan": 0
       },
       "vi": {
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 772,
-        "stale": 72,
+        "fresh": 773,
+        "stale": 71,
         "metadata_stale": 17,
         "missing": 260,
         "orphan": 0
@@ -12422,7 +12422,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -38991,18 +39002,16 @@
         "en": {
           "path": "en/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "88b3abd8",
-          "sourceContentHash": "sha256:7453fc91529be112",
-          "sourceBodyHash": "sha256:0280d05fe808358b",
-          "translatedAt": "2026-05-01T12:21:52+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:cfeed87bcc86a207",
+          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
+          "translatedAt": "2026-09-08T15:54:33+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+170 -91"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/mascot-culture-in-taiwan.md",
@@ -39086,18 +39095,16 @@
         "pt": {
           "path": "pt/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "88b3abd88",
-          "sourceContentHash": "sha256:7453fc91529be112",
-          "sourceBodyHash": "sha256:0280d05fe808358b",
-          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:cfeed87bcc86a207",
+          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
+          "translatedAt": "2026-09-08T15:54:48+08:00",
           "translationLastCommit": "f8fe84f7",
           "translationLastModified": "2026-07-28T09:37:35+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+170 -91"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/mascot-culture-in-taiwan.md",
@@ -132330,7 +132337,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/yushan-weather-station.md",
@@ -133741,8 +133759,8 @@
           "sourceContentHash": "sha256:53588f1af78c53bd",
           "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "64fcb980",
+          "translationLastModified": "2026-09-09T07:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -135145,8 +135163,8 @@
           "sourceContentHash": "sha256:189f50627b664502",
           "sourceBodyHash": "sha256:7144cde6e4cd475f",
           "translatedAt": "2026-09-08T20:25:13.341956+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "64fcb980",
+          "translationLastModified": "2026-09-09T07:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -137664,8 +137682,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "64fcb980",
+          "translationLastModified": "2026-09-09T07:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -139515,8 +139533,8 @@
           "sourceContentHash": "sha256:8a5f68953035c21c",
           "sourceBodyHash": "sha256:a01c05f219edf7a3",
           "translatedAt": "2026-09-08T21:17:12.736030+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "64fcb980",
+          "translationLastModified": "2026-09-09T07:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",

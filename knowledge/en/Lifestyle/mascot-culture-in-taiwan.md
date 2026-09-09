@@ -1,179 +1,257 @@
 ---
-title: 'Mascot Culture in Taiwan: From Bear Obsession to Pun-Powered Redemption'
-description: "OhBear's debut in 2013 launched Taiwan's mascot warring-states era. From the island-wide black bear free-for-all and the Milkfish Boy ugly enough to land on American late-night TV, to the hundred-million-dollar-a-year Welfare Bear and the bear who testified before the city council — Taiwan's mascots are evolving from government propaganda tools into cultural symbols with genuine soul and social resonance."
+title: "Taiwan's Mascots: From Datong Baby Merchandise to Global Local Icons"
+description: "From the 1969 Datong Baby, Oh Bear and Xiongzan, to Kaohsiung MRT's Maolimiao, Tiger Duck, Timeng, and Caiqi Duck, how have Taiwanese mascots carried local memory, transportation scenes, campus identity, soccer emotion, and corporate IP; the real test of a character is whether it can leave the standee and enter people's lives."
+date: 2026-04-21
 category: 'Lifestyle'
 tags:
   [
-    'mascot',
-    'Taiwan black bear',
-    'OhBear',
-    'cute-ugly',
-    'Popo Pigeon',
-    'CaiQi Duck',
-    'Welfare Bear',
-    'Bravo',
-    'Hong Fu',
-    'Taipei City Council',
+    'Mascot',
+    'Oh Bear',
+    'Xiongzan',
+    'Caiqi Duck',
+    'Yeqi Duck',
+    'Kaohsiung MRT',
+    'Maolimiao',
+    'Tiger Duck',
+    'Timeng',
+    'Fishhead Boy',
   ]
+subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
-date: 2026-04-21
-readingTime: 15
-lastVerified: 2026-04-21
-lastHumanReview: false
-translatedFrom: 'Lifestyle/吉祥物.md'
-sourceCommitSha: '88b3abd8'
-sourceContentHash: 'sha256:7453fc91529be112'
-sourceBodyHash: 'sha256:0280d05fe808358b'
-translatedAt: '2026-05-01T12:21:52+08:00'
 featured: false
+lastVerified: 2026-09-05
+lastHumanReview: false
+readingTime: 18
+curation: 'incubating'
+translatedFrom: 'Lifestyle/吉祥物.md'
+sourceCommitSha: '25b97c085'
+sourceContentHash: 'sha256:cfeed87bcc86a207'
+sourceBodyHash: 'sha256:761ccd3c7cd0d390'
+translatedAt: '2026-09-08T15:54:33+08:00'
 ---
 
-> **30-Second Overview:** Taiwan once fell into a collective obsession with bears — at one point the island had dozens of black bear mascots, all vaguely similar in appearance. Then came the Milkfish Boy, ugly enough to land on American late-night TV; Chunghwa Post's "Popo Pigeon," which went viral through precise brand management; and the Welfare Bear, a commercial miracle pulling in over a hundred million NT dollars annually. Taiwan's mascots are now undergoing a fundamental shift from "cute props" to "character brands."
+> **30-Second Overview:** The evolution of Taiwanese mascots is not just about changing from serious to cute. In 1969, the Datong Baby turned a corporation into a character that could be taken home; after 2013, Oh Bear, Xiongzan, Fishhead Boy, Maolimiao, Tiger Duck, Timeng, and Caiqi Duck put tourism, urban governance, transportation, campus life, sports, and local cuisine on the same line. The real test is whether a character can leave the standee and enter people's lives; that is, moving from "representing whom" to "completing what task for whom."[^1] [^2] [^3]
 
-On December 3, 2013, a black bear wearing a white V on its chest and an orange cape quietly came into being on the internet. Six months later, it was officially appointed head of the "Super Task Group" for the Tourism Bureau, Ministry of Transportation and Communications — its name: OhBear[^1]. This was not just the inauguration of a government mascot; it marked Taiwan's formal entry into the "mascot warring-states era."
+In 1969, Datong Company launched the Datong Baby. On December 3, 2013, Oh Bear stickers were put on sale by the Ministry of Transportation and Tourism Administration. In 2024, the Tainan City Government used Caiqi Duck to connect 59 public retail markets. These three years, across three contexts, laid out the path of Taiwanese mascots: from corporate gifts and government promotion to cultural characters that can guide locals, greet transportation systems, or explain campus identity.[^1] [^2] [^3]
 
-### Historical Depth: From the Tatung Baby to the First Professional Baseball Season
+The history of mascots is also a history of "how abstract institutions become human language." Companies, tourism agencies, city governments, MRT companies, schools, national sports teams, and markets originally spoke through systems, logos, and official documents. Characters transformed these institutions into named, active, photographable, and memorable entities. This translation is not always successful, but it provides an accessible entry point.[^1] [^2] [^4] [^8]
 
-Taiwan's mascot culture did not emerge from nowhere. As early as 1969, Tatung Company created what would become the most iconic mascot in Taiwan's corporate history — the "Tatung Baby" — to promote color television sets[^2]. This small figure wearing a helmet and cradling a rugby ball was not only a corporate identifier but became a symbol of family prosperity in Taiwan's 1970s.
+![Caiqi Duck and Yeqi Duck, Official Mascots of Tainan City Market](https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg)
 
-Then came 1990, the inaugural season of Taiwan's professional baseball league. The Brother Elephants, Mercuries Tigers, Uni-Lions, and Wei Chuan Dragons all took the field led by their mascots, pioneering sports mascot culture[^3]. In those early days, however, mascots were mostly "giveaways" or "decorations" — lacking complete backstories or world-building.
+_Official mascots of Tainan City Market: Yeqi Duck on the left, Caiqi Duck on the right. Photo: Ye Min-hsuan / Tainan City Government News and International Relations Office; used with permission from the Tainan City Government Website Open Information Announcement, source must be indicated as "Tainan City Government"._[^4]
 
-### Bears and Nothing But: Taiwan's Unique Black Bear Fixation
+## Starting with a Real Bear
 
-In Taiwan, if you don't know what mascot to design, a black bear is always safe. Statistics suggest Taiwan has created dozens of unrelated black bear mascots coexisting simultaneously across every sector[^4]. From Bravo the Taipei Universiade bear to Kaohsiung Bear, V Air's V Bear, and the Ningxia Night Market Bear — black bears have become totems in Taiwan's collective consciousness.
+The Taiwanese Black Bear is an endemic subspecies of Asiatic black bear and is listed as an endangered wild animal in English materials for Yushan National Park. The V-shaped markings on its chest are easily recognizable, leading it to be both a conservation target and a design vocabulary: designers can borrow the black body, round ears, and V-shaped chest to quickly evoke "Taiwan" in the audience.[^5]
 
-But this "collective obsession" also generated an identity crisis. At the island-wide mascot face-off in 2016, Kaohsiung alone sent three different bears, leaving onlookers unable to distinguish "GaoGao Bear" from "Kaohsiung Bear."[^4]
+Materials from Yushan National Park state that the Taiwanese Black Bear has a yellow-white V-shape or crescent-shaped chest marking. The official list of terrestrial endangered wildlife also includes the Taiwanese Black Bear. These biological characteristics give the black bear high visual recognition, but "easy to draw" and "having clearly stated conservation status" are two different things.[^5] [^6]
 
-📝 Curator's Note: When every bear looks like "a Taiwan bear," they lose their uniqueness as brands — reduced to once-and-done event props.
+There is an easily overlooked distance here. In the wild, bears face habitats, human-wildlife conflict, and poaching risks. In mascots, bears deal with recognizability, licensing, event attendance, and social interaction. Turning a real animal into a character brings familiarity but can also flatten conservation issues into a cute symbol. When seeing a black bear design, it is best to recall its biological status, not just treat it as a design template.[^5] [^6]
 
-### Commercial Miracles: The Hundred-Million-Dollar Welfare Bear and Open-chan
+> 📝 **Curator's Note:** A real bear does not need to manage a persona every day; a mascot must rely on a persona to make people want to look at it again. What is harder is that the original creature's true situation cannot disappear after it has been seen.
 
-Whether a mascot can "attract money" is the hard metric of brand value. The PX Mart "Welfare Bear" and 7-Eleven's "Open-chan" both had the same mastermind behind them: marketing wizard Liu Hung-cheng[^5].
+## 1969: Datong Baby Turns Corporation into Human Form
 
-At peak, Open-chan generated over NT$1 billion in annual revenue for President Chain Store, with licensing that even extended to co-branded limited-edition cars and theme parks[^5]. The Welfare Bear, through the earworm jingle "Welfare Bear, Bear Welfare" and the Fruit Explorer IP operation, contributes approximately NT$200 to 300 million in annual sales to PX Mart[^6].
+The key to the Datong Baby is not its "being the earliest in Taiwan," which is easily oversimplified, but rather that it established corporate identity as a tangible object with a body and posture that could be collected early on. The first generation character, appearing in 1969, wore a helmet, held an American football, and featured Datong's brand markings. It entered homes as merchandise, meaning the brand was not just limited to appliance casings.[^1] [^7]
 
-Liu points out that the key to managing an IP is building a "world." For instance, the Welfare Bear was set up as a curious boy who dreams of becoming a model store clerk, with a blood type of A — just like the PX Mart logo[^5].
+Official documents from Datong Company state that starting in the 1969 (ROC Year 58), purchasing over NT$10,000 worth of Datong appliances earned a Datong Baby. The red helmet, football, and plastic material were not just design choices; they embodied the company's intended image of cooperation, durability, and customer service in the doll.[^1]
 
-### Political Lives: Bravo on the Stand at City Council
+This detail changed the distance between the brand and people. A television, refrigerator, or appliance is a product used in the home, while the Datong Baby is an object that can be played with, displayed, and kept. Corporate identity thus shifted from "seeing the logo" to "having one in the house."[^1]
 
-When mascots enter the public sector, they are no longer just cute stuffed animals — they become "political creatures" subject to scrutiny over public expenditure. Taipei City Government's mascot Bravo is the most representative case.
+The numbers on the Datong Baby's chest, the money hole on its head, its feet, and the football it held were also given internal corporate meanings: the chest number represented the company's founding year; the money hole symbolized frugality; the feet symbolized being down-to-earth; and the football corresponded to the image of serving customers with tireless effort. These explanations may not match every consumer's actual feeling, but they provide evidence of how the corporation wrote a backstory for the character.[^1]
 
-In 2018, the Taipei City Tourism and Travel Bureau spent NT$1.13 million on a makeover of the original "Gold Medal Bravo" into "Ocean Bravo" to secure a trademark registration — triggering fierce questioning in the city council. Legislators accused the "makeover" of being bureaucratic excess and quipped: "How did you get so ugly?"[^7][^8]
+This approach was later adopted by many companies and public institutions: turning abstract companies, cities, or events into characters that can greet visitors at the door, appear on stickers, and be held by children. As a result, mascots have two time scales: short-term focus for events and long-term accumulation of familiarity.[^1] [^7]
 
-In addition, Bravo's budget-to-revenue ratio frequently became a flashpoint. In 2024, legislators questioned why Bravo had an annual marketing and maintenance budget exceeding NT$11 million while licensing fees and appearance income amounted to only about NT$400,000 — earning it the label "money-loser."[^9][^10]
+> 📝 **Curator's Note:** The earliest competition among corporate mascots was not about who was cuter, but about who could first occupy a small space in the living room.
 
-📝 Curator's Note: The tragedy of government mascots is that they must struggle between "city image" and "budget efficiency." When a mascot's monthly salary (computed from the budget) is higher than a city official's, its cuteness becomes a political liability.
+## 2013–2017: Black Bear Leaves Brand to Become an Urban Character
 
-### Hong Fu: The Century-Old Good-Luck Emissary of Red House
+Oh Bear's setting is similar to an exercise in translating bureaucratic language into character language. The official page of the Ministry of Transportation and Tourism Administration described it as the "Super Mission Leader," listing its history, such as being put on stickers on December 3, 2013, and taking office on June 3, 2014. The white V-neck, orange cape, and tourism agency lettering linked the Taiwanese Black Bear prototype to a tourism mission.[^2]
 
-In contrast to the political pressures on government mascots, Red House (西門紅樓) in Ximending's mascot "Hong Fu" (紅福) demonstrates how history can be turned into an adorable cultural asset. Debuting in 2024, Hong Fu is a red fox with lively eyes dressed in a band of architectural ornamentation that mirrors the Red House's exterior[^11].
+Oh Bear's character profile also included a birthday, job description, personality, costume, and daily activities. This data seems lighthearted but is actually transforming the "Tourism Administration" administrative body into a character that can speak in the first person. When official content shifts from policy terminology to the tone of "where I am today," the reader receives not just an agency name, but a guide with an itinerary.[^2]
 
-Hong Fu's design was not invented from thin air — inspiration came from the "Taipei Inari Shrine" (台北稻荷神社) that stood adjacent to the Ximen Market (today's Red House) during the Japanese colonial period[^12]. The fox, as the messenger of the Inari deity, was reimagined as the Red House's "Head of Hospitality." The white horizontal band on its body echoes the red-and-white scraped stone (洗石子) finish that characterizes the Red House's architecture[^13].
+Xiongzan's trajectory was closer to urban events. Official materials from the Taipei City Government record that Xiongzan served as an ambassador for the 2017 Taipei World Games and continued to gain fans and merchandise demand after the event. On September 20, 2017, the Taipei City Government officially invited Xiongzan to be a municipal mascot.[^3]
 
-📝 Curator's Note: Hong Fu's success lies in historical research. It is not just a fox — it is the vessel of a century of Red House history. Through its "good luck" and "sustainability" settings, it successfully links an historic landmark with contemporary creative culture.
+![Xiongzan with visitors at Yangmingshan National Park](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg/500px-Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg)
 
-### The Uglier the Better: B-Grade Attractions and the "Cute-Ugly" Counterattack
+_Xiongzan with visitors at Yangmingshan National Park in January 2016. Photo: Chi-Hung Lin / Flickr; CC BY-SA 2.0._[^8]
 
-Against the current of chasing cuteness, a cohort of mascots took the opposite path — carving out a niche through "grotesque" and "cute-ugly" aesthetics. The most famous case is the Tainan Beimen Milkfish Boy, whose large black pupils and unsettling grin were rated "nightmare-level" by netizens — ugly enough to land on American late-night show _Last Week Tonight_[^14][^15].
+Xiongzan's most story-worthy turning point was applying for a job at the Xinyi Job Service Center the day after the event ended. This wasn't just making the bear more human; it posed a practical question to a one-time event: what can the character do after the closing ceremony? The city government later awarded Xiongzan a "TPE" gold medal and arranged a dedicated office, transforming the mascot from an event figure into a public image for municipal and tourism activities.[^3]
 
-The Penghu islands are a stronghold of cute-ugly mascots: from the Pearl Children to the Fresh Oyster and the Bikini Clownfish. These plasticky, strangely-shaped landmarks were widely criticized on debut, yet unexpectedly sparked viral photo-spot pilgrimages[^15].
+This also shows that "there are many black bears" does not necessarily mean "lazy design." The same prototype can carry different missions: Oh Bear sells the imagination of Taiwan travel; Xiongzan handles urban events and public image. The difference between the two must be drawn out through story, tone, and usage context. The problem is that the character only has one set of black fur but no life of its own.[^2] [^3]
 
-### Sabafish: The "Cross-Section" Aesthetic That Went Viral in Japan
+## Why Does the Black Bear Keep Appearing?
 
-Tainan's tourism mascot SABABOY illustrates how to go international through pure strangeness. This mascot, designed by illustrator Marco Chen Yu-jen, is a happy smile from the front — and a hyper-realistic fish head cross-section from the back[^16].
+The answer is not just cuteness. The black bear has three design advantages: it is strongly associated with endemic species, the V-shaped chest allows for quick recognition, and the round face and sturdy build are convenient for turning into puppets, inflatable figures, and stickers. These are all visual efficiencies, but they do not equate to an established brand. The first two points are supported by the bear's biological characteristics and Oh Bear's setting; the last point is a design analysis and should not be mistaken for official statistics.[^2] [^5]
 
-In June 2024, a Japanese netizen shared a photo of SABABOY's back view on X (formerly Twitter), attracting over 5 million pilgrimages[^17]. This "bold, visually shocking contrast cute" quality made SABABOY go viral in Japan, becoming Tainan tourism's surprise weapon on international social media.
+| Design Level         | What the Reader Sees First                       | Content That Needs Supplementing                                             |
+| :------------------- | :----------------------------------------------- | :--------------------------------------------------------------------------- |
+| Biological Prototype | Black body, V-shaped chest, Taiwanese black bear | Conservation context and real habitat[^5] [^6]                               |
+| Character Identity   | Name, catchphrase, costume, actions              | Consistency across different media[^2]                                       |
+| Public Mission       | Tourism, events, urban activities                | Life scenarios after the mission ends[^3]                                    |
+| IP Management        | Merchandise, collaborations, social media        | Revenue streams and public benefits must be calculated separately[^15] [^16] |
 
-### Popo Pigeon: A Legacy Government Brand's Soft Comeback
+📝 **Curator's Note:** The prototype only allows people to recognize "what type it is"; the character makes them remember "which one it is."
 
-In contrast to the grotesque route, Chunghwa Post's "Popo Pigeon" demonstrates how precise brand management can breathe new life into an old-line government entity. Popo Pigeon was born around 2015; its round, chubby figure and Pisces personality — "hates being called fat" — quickly captured hearts on social platforms[^18][^19].
+## How Transportation Systems Put Mascots on the Road
 
-In 2024, a Chunghwa Post × I-Mei co-branded "Popo Pigeon mailbox stamp figure" gift box sold out in just 10 minutes[^20]. Popo Pigeon's success lies in escaping the stiff "postal service baby" image of traditional government branding — instead projecting a quality of "soft cute" combined with everyday relatability.
+Kaohsiung MRT's Happy/HAPPI and U!FU Yongfu offer another sample of an urban character: they are not waiting to be seen in tourism brochures, but are brought to light rail stations and city traffic intersections. A 2015 press release from Kaohsiung MRT recorded that HAPPI and U!FU participated in the first Kaohsiung Mascot Competition at transportation scenes. The mascots thus became on-site media for interaction between the transportation system and citizens.[^9]
 
-### From the Death of "A-Long" to the Pun Salvation of CaiQi Duck
+![Kaohsiung MRT Mascots Happy and U!FU](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg/960px-%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg)
 
-Mascots often derive their vitality from authenticity. In May 2024, the National Museum of Taiwan Literature's mascot "A-Long" was embroiled in a plagiarism controversy that ended with the museum apologizing and the subcontractor facing prosecution[^21][^22]. The "death of A-Long" delivered a heavy lesson to Taiwan's public sector: mascots cannot be merely outsourced skins — they must possess legal and creative souls.
+_Kaohsiung MRT Mascots Happy (Yellow) and U!FU (Blue) in the Kaohsiung City Mascot PK battle. Photo: Tze Chiang Hao; CC BY-SA 4.0._[^10]
 
-By contrast, the Tainan market mascot "CaiQi Duck" — which debuted in 2021 but exploded in popularity in late 2024 — charted a different path. This duck wearing an apron and a leaf on its head takes its name from a Taiwanese-language pun on "vegetable market" (菜市場)[^23].
+The current character areas of Kaohsiung MRT also list the Yongfu family, including Bear Dad Yongfu, Bear Mom Baozhu, Bear Sis Pingping, Bear Bro Anan, and Squirrel Happy. The same area preserves "Kaohsiung Girl" and subsequent character series. This shows that transportation characters are not one-time decorations but can continuously transform with operating themes, audiences, and media.[^4]
 
-"I'm not a potato, not a kiwi — I'm CaiQi Duck." This endearingly daft self-introduction, combined with Taiwanese people's fondness for puns, sent this previously obscure duck viral on Threads and other social platforms[^24].
+This case reminds us that the function of a mascot is not necessarily to "sell the city." It can also reduce the distance of transport facilities, giving stations, light rail, and public events a face that can be photographed, voted on, and remembered. The character did not replace transportation information, but it added an emotional entry point to the transportation system.[^4] [^9]
 
-### Data and Current State: The Economics of Mascots
+The transportation system's role also has a boundary that cannot be crossed: cuteness cannot replace accuracy. Schedules, fares, transfers, and safety information still require clear text and signage. The best place for a character is one that makes people stop to read the rules, not one that uses decoration to mask the rules. This is an important difference between public service characters and purely commercial characters.[^4]
 
-| Mascot       | Birth Year | Affiliated Entity           | Commercial Value / Impact                                                                  |
-| :----------- | :--------- | :-------------------------- | :----------------------------------------------------------------------------------------- |
-| Open-chan    | 2004       | President Chain Store       | Over NT$1 billion in annual revenue at peak [^5]                                           |
-| Welfare Bear | 2014       | PX Mart                     | Contributes approximately NT$200–300M in annual sales [^6]                                 |
-| Bravo        | 2016       | Taipei City Government      | Annual marketing budget exceeding NT$10M, licensing income ~NT$400K [^9]                   |
-| Hong Fu      | 2024       | Red House Ximending         | Combines ESG and digital technology, driving a century-old landmark's transformation [^11] |
-| SABABOY      | 2018       | Tainan Tourism Bureau       | Single X post over 5 million pilgrimages in Japan [^17]                                    |
-| CaiQi Duck   | 2021       | Tainan City Market Division | Driving tourism upgrades for Tainan's traditional markets [^25]                            |
+## A County, a Leopard Cat, and a Pun
 
-### Challenges and Outlook: Refusing to Become "Generic"
+The Miaoli County Government used the endangered leopard cat as the prototype for Maolimiao, creating an approachable image with round eyes, a round body, whiskers, and bright yellow coloring. Official news also recorded that Maolimiao interacted with citizens in rural areas during elections to seek support. This made it not just a character designed by the county government but also a voting subject involved in local participation.[^11]
 
-Japan's mascot world once saw "mascot elimination arenas" emerge due to oversaturation — only characters with powerful memorable hooks could survive[^4]. Taiwan now faces a similar challenge: many government budgets are spent on one-off designs without any long-term brand management.
+![Miaolimiao Mascot of Miaoli County at THSR Miaoli Station](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miaolimiao_at_THSR_Miaoli_Station.jpg/960px-Miaolimiao_at_THSR_Miaoli_Station.jpg)
 
-"The key to mascot success is not being cute, but being 'real,'" noted service designer Lin Cheng-yi. Mascots should be important brand identifiers, not mere promotional tools[^4].
+_Maolimiao, the mascot of Miaoli County, located in the lobby of THSR Miaoli Station. Photo: Foxy1219; CC BY-SA 4.0._[^12]
 
-The Taiwan mascots of the future may not need more black bears — they need more characters like CaiQi Duck or Popo Pigeon, ones that make you break into a smile when you run into them on the street and want to tell your friends: "Hey, look at this one. So very Taiwan."
+Maolimiao's design layered three meanings: phonetic association with the old name "Miaoli," the local ecology of leopard cat conservation, and public spaces frequented by travelers at high-speed rail stations. Unlike Xiongzan, it was not based on a large international event. It is more like a local guide that ties together the county name, animals, and tourism routes.[^11] [^12]
 
----
+The pun here is not just a joke. When "Miaoli" becomes "Maolimiao," the county name is transformed into a character that can greet people, make expressions, and participate in elections. The leopard cat links the place name to ecological conservation, maintaining an traceable connection between tourism recognition and local environment.[^11]
+
+## Campus Mascots: Turning School Logos into Characters
+
+Tiger Duck from National Taiwan University of Science and Technology (NTUST) was created by Benjamin (Tigersaka-shu) and Rossie (Duck Rose). The school explained that the name comes from the wrench and screw in the NTUST logo, representing the spirit of practical craftsmanship. Tiger Duck was also expected to increase school recognition and bridge the gap between the school and the public.[^13]
+
+![NTUST Campus Mascot Tiger Duck](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg/960px-%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E5%A4%A7_%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+_Image of the NTUST campus mascot Tiger Duck. Photo: Taiming2003; CC BY-SA 4.0._[^14]
+
+The mission of a campus character is not entirely the same as that of an urban character. It does not have to represent all of Taiwan, nor does it need to turn every visitor into a tourist. Its primary goal is to provide students, alumni, and faculty with a shared image beyond the school logo—one that can speak, be photographed, and participate in activities. Turning the wrench and screw into a tiger and a duck is an example of translating institutional language into campus daily life.[^13]
+
+Tiger Duck also dealt with a specific and somewhat awkward problem: NTUST and Taipei Tech are often confused, leading the school to even use "We are on Jilin Road" in sticker content. The mascot thus not only establishes an image but also provides a shared point of humor for the school's address, online nickname, and campus life.[^13]
+
+## Characters Beyond Costumes
+
+Mascots also leave costumes to enter staircases, station lobbies, mall windows, and neighborhood walls. The 3D painted staircase at Jianzhong Elementary School in Miaoli was completed by Wei Rong-hsin and Hsiao Zhang, featuring the leopard cat, Shixing Station, Longteng Broken Bridge, and wooden Daruma. It is not a single official mascot doll, but it shows how local characters and landmark symbols enter public space, allowing people to walk through a piece of local history.[^15]
+
+![3D Painted Staircase and Leopard Cat Character at Jianzhong Elementary School](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg/500px-%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E9%9A%8E%E6%A2%AF.jpg)
+
+\_The 3D painted staircase at Jianzhong Elementary School in Miaoli, featuring the leopard cat, Shixing Station, Longteng Broken Bridge, and wooden Daruma. Photo: Paddy.hsiao; CC BY 4.0. This is an example of local public art and character symbols, not to be mistaken for a school mascot.[^15]
+
+Therefore, judging whether a local character is successful cannot just ask if it has a doll. It must also ask if it can become a route, a photo spot, a campus entrance, or a visual code that makes people willing to stop and understand the locality. Characters in public spaces may not have complete backstories, but they must be related to an experience of a place that can be walked through.[^15]
+
+## Beyond Team Logos: Timeng TYMON
+
+Timeng TYMON is the mascot for various national soccer teams from Taiwan (under the name Chinese Taipei). Compared to school or transportation system characters, national team mascots deal with fan mobilization, on-field atmosphere, and emotional cohesion of the delegation. It does not need to explain all the rules of soccer but must provide an entrance point that is more expressive than a team logo in player appearances, fan photos, and merchandise.[^16]
+
+![Taiwan National Soccer Team Mascot Timeng TYMON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TYMON.jpg/500px-TYMON.jpg)
+
+_Timeng TYMON, mascot for various national soccer teams from Taiwan. Photo: Dai Yuliang; CC BY-SA 4.0._[^16]
+
+From Timeng, we can see that mascots are not only needed by local governments. When a team needs to make "representation" feel approachable on the field, the character adds action, body, and interactive possibilities to the logo. Its life cycle may also change with the team and fan community, so it must continuously appear in real match settings and cannot just remain as flat identification.[^16]
+
+However, the available records mainly confirm Timeng's role identity and image licensing; this article does not speculate on its complete background, designers, character setting, or operational effectiveness. This retention is not a shortcoming of lack of data, but an effort to avoid misrepresenting a photograph as an entire non-existent official profile.[^16]
+
+## The Watershed of Character IP: From Image to Daily Life
+
+Corporate mascots best illustrate this watershed moment. _The World_ reported that Open had a character marketing team during its prime, creating themed stores, film collaborations, band partnerships, limited edition cars, and theme parks, achieving a commercial peak in 2014 with NT$1 billion in revenue for 7-Eleven. The focus here is not on a beautiful revenue figure, but on the fact that the character was treated as content assets requiring long-term scheduling, development, and maintenance.[^17]
+
+The same report placed the birth of Welfare Bear in 2014, noting that it accumulated sales through exchange gifts, fresh food packaging, and strategic alliance products. The report quoted an operator saying that sales involving repackaging fruit "also reached NT$1 billion." This scope includes various products and sales activities and cannot be directly equated to pure licensing fees, nor should it be compared to the attendance income of public sector mascots.[^17]
+
+The true threshold for corporate IP is whether the character's personality can be maintained across different settings. The themed store is a space; the limited edition product is an object; film and band collaborations are content; the special car is a mobile medium. If these arrangements only leave behind a logo, the character reverts to a trademark. Only when every medium makes the reader recognize "this is the same character doing different things" does the IP come to life.[^17]
+
+The collaboration between Taiwan Post and Yimei put the postal mascot Papo Pigeon into packaging, turning the post office from a service institution into an everyday object that can be collected, exchanged, and given as a gift. The cultural significance of this cooperation lies beyond "mail carrier, mailbox, stamp," adding an expressive character entry point.[^18]
+
+| Character    | Verifiable Management Signals                              | Things That Cannot Be Directly Inferred                                |
+| :----------- | :--------------------------------------------------------- | :--------------------------------------------------------------------- |
+| Open's       | Character team, themed stores, collaborations, theme parks | Revenue from a single activity is the mascot licensing fee[^17]        |
+| Welfare Bear | Exchange gifts, fresh food packaging, strategic alliances  | The NT$1 billion mentioned in the report equals annual net profit[^17] |
+| Papo Pigeon  | Entry into postal and food co-branding packages            | A single collaboration means long-term brand success[^18]              |
+| Caiqi Duck   | Collection events linking 59 public retail markets         | Number of participants necessarily equals market revenue growth[^3]    |
+| Tiger Duck   | School logo image, campus identity, character naming       | One school photo proves the mascot's popularity[^13] [^14]             |
+| Timeng       | National team, fans, match venues                          | Character exposure equals the team's competitive performance[^16]      |
+
+## When Cuteness Isn't Enough: Fishhead Boy and Caiqi Duck
+
+The official setting for Fishhead Boy from the Tainan Tourism Bureau is straightforward: it is a sea bass born in shallow tidal ponds of Tainan, with the English name Sababoy, whose mission is to introduce Tainan to the world. Choosing "fish head" rather than the whole fish also transforms the sea bass from food on the dining table into a tourism ambassador who can travel and introduce cities.[^19]
+
+The official page deliberately states that Fishhead Boy will reveal a cross-section of its head, distancing itself from mascots that only pursue cuteness. This design is similar to the humor in local Taiwanese cuisine: first making you feel round, cute, and friendly, then reminding you with a slightly bizarre backside that this fish has its own origins. This is an editorial analysis of official character materials, not a direct quote from the designer's humor.[^19]
+
+The Tainan City Government also issued a press release stating that Fishhead Boy first appeared at the Qixu Seafood Festival in 2018, and subsequently appeared in Japan for exchanges, tourism promotion, stadiums, and travel fairs. In 2023, the city government featured "Fishhead Boy's Playground" as a themed installation exhibition. These settings made Fishhead Boy not just a food image but a tourism ambassador who can introduce locals.[^20]
+
+Caiqi Duck followed another path. A 2024 press release from the Tainan City Government stated that the market mascot "Caiqi Duck" became popular, and it was used to launch the "Market Boy, Goods Basket Won't Let You Collect Duck" event. Citizens could visit 59 public retail markets, scan codes for collection points, shop, check in, and exchange merchandise to re-experience the market.[^3]
+
+The value of this case is not just the pun. Once placed into the market flow, the character becomes a navigational interface: it tells you where to go, what to do, and how to turn a single shopping trip into a shareable experience. The "Taiwanese flavor" of the character thus has observable behavior, not just a slogan.[^3]
+
+> 📝 **Curator's Note:** Fishhead Boy turns ingredients into characters; Caiqi Duck turns markets into missions; when local identity truly lands, the mascot tells you where to go next.
+
+## Public Budgets Also Grade Mascots
+
+When corporate mascots fail in sales, companies can change strategies. When public sector characters use public funds, there is an added layer of issues. In 2018, Xiongzan's rebranding and design changes cost NT$1.13 million, leading council members to question it during a legislative session. This controversy was not just about whether the bear looked good, but also about whether the public institution clearly explained: why the change was made, what problem it solved, and how its effectiveness would be judged after the change.[^21]
+
+Therefore, evaluating public sector mascots cannot only look at licensing fees or single-event appearance fees. At least three aspects must be considered simultaneously: whether the character improves information delivery, whether it makes citizens more engaged in urban activities, and whether design and maintenance costs can be publicly disclosed. Revenue figures can provide clues, but they cannot represent cultural value alone. The three aspects here are an analytical framework proposed by this article, not official statistics.[^3] [^21]
+
+The same principle applies to corporate IP. The revenue, product sales, exchange quantities, social media tracking, and licensing collaborations mentioned in the reports answer different questions. Adding them all together does not automatically yield "character success." The commercial benefits, public benefits, cultural memory, and conservation communication of a character should be recorded separately and then explained how they influence each other.[^5] [^17] [^18]
+
+## Rewriting "Cuteness" into a Methodology
+
+From the Datong Baby to Oh Bear, from Xiongzan to Kaohsiung MRT, Maolimiao, Tiger Duck, Timeng, Fishhead Boy, and Caiqi Duck, the common trajectory of Taiwanese mascots is translating institutions into human language. The Datong Baby gave corporations a body that could be taken home. Oh Bear gave tourism missions a character voice. Kaohsiung MRT brought mascots to transportation scenes. Maolimiao put leopard cat conservation and county names in stations; Tiger Duck turned a school logo into a campus partner; Timeng turned a national team into an interactive target for fans; Fishhead Boy promoted local ingredients on the tourism stage; Caiqi Duck turned market visits into a mission-driven urban game.[^1] [^2] [^3] [^4] [^9] [^11] [^13] [^16] [^19]
+
+This path also leaves several practical questions. Is the character prototype overly concentrated on the black bear? Are licensing revenue, product sales, and public benefits mixed into one table? Are the image files, photographs, and derivative products of official characters clearly marked with boundaries of rights? If these questions have no answers, even a cute character may only remain a one-time set piece.[^5] [^17] [^21]
+
+Image rights cannot be overlooked by the word "official." The images retained from Wikimedia Commons in this article are marked with CC BY, CC BY-SA, or government open data usage terms; the licensing of photos does not mean that character trademarks, official artwork, or derivative products can be used arbitrarily. This article can display the character, but when submitting or reproducing it, the photographer, licensing terms, trademark, and government open data announcement must be checked item by item.[^4] [^8] [^10] [^12] [^14] [^15] [^16]
+
+For readers, the next time they encounter a mascot on the street, they can ask one more question: who does it represent, and what task is it completing? If the answer points back to a market, a type of food, a station, a school, a competition, or a memory of conservation, the character has a chance to live. Only then is the mascot not just a person in a costume, but a way for Taiwan to tell its story to others.[^3] [^4] [^5]
 
 ## Further Reading
 
-- **[Taiwan Variety Shows](/culture/台灣綜藝節目)** — Character design and audience interaction mechanisms in the entertainment industry
-- **[Taiwan Memes](/en/culture/taiwan-meme-culture)** — How puns, cute-ugly aesthetics, and contrast cute spread across Taiwan's internet
-- **[PX Mart](/en/economy/pxmart-supermarket)** — The brand management and IP strategy behind the Welfare Bear
-- **[Taiwan Black Bear](/en/nature/taiwanese-black-bear)** — The biological prototype as cultural totem and conservation issues
+- [**Taiwanese Memes**](/en/culture/taiwan-meme-culture) — How puns, ugly cuteness, and contrast circulate on social media
+
+- [**FamilyMart Welfare Center**](/en/economy/pxmart-supermarket) — The daily operation of Welfare Bear and corporate IP
+
+- [**Tainan Market**](/lifestyle/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%A0%B4) — Markets, food, and urban life connected by Caiqi Duck and Yeqi Duck
 
 ## References
 
-[^1]: [Taiwan's Tourism Representative Bear — Ministry of Justice Investigation Bureau](https://www.mjib.gov.tw/FileUploads/eBooks/56089fdb1ae74777a1fec51b3e709ffe/Section_file/b264b7d3783b41c6967752c57c1d35a9.pdf) — MJIB e-book, introducing OhBear's origins and 2013 debut as the Tourism Bureau mascot.
+[^1]: [Datong Company: Datong Baby](https://www.tatung.com/tw/info/about-mascot) — See supplementary material in the original link
 
-[^2]: [Exploring Symbolism and Transplant Traces in the "Corporate Doll" Image: The Case of Tatung Baby — Cheng Hsiu-ju](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Academic paper examining Tatung Baby's 1969 debut and its symbolic significance as a corporate mascot.
+[^2]: [Ministry of Transportation and Tourism Administration: About Oh Bear](https://www.taiwan.net.tw/m1.aspx?sno=0040078) — See supplementary material in the original link
 
-[^3]: [Witnessing History — Taiwan's Key Moments: 1990 Professional Baseball Inaugural Season — UDN](https://udn70.udn.com/story/1990) — Record of the 1990 Taiwan professional baseball inaugural season, with Brother Elephants, Mercuries Tigers, Uni-Lions, and Wei Chuan Dragons mascots taking the field.
+[^3]: [Tainan City Government: Market Boy, Goods Basket Won't Let You Collect Duck](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341) — See supplementary material in the original link
 
-[^4]: [Mascot Success Lessons (Part II): Taiwan's Unique "Black Bear" Obsession — The News Lens](https://www.thenewslens.com/article/80404) — Service designer Lin Cheng-yi's perspective, analyzing Taiwan's black bear mascot saturation and the brand uniqueness crisis.
+[^4]: [Wikimedia Commons: Caiqi Duck Tshài-tshī-á.jpg](https://commons.wikimedia.org/wiki/File:%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg) — See supplementary material in the original link
 
-[^5]: [The Man Behind Open-chan and Welfare Bear: Marketing Wizard Liu Hung-cheng's 4 Steps to IP Success — CommonWealth Magazine](https://www.cw.com.tw/article/5137665) — Liu Hung-cheng interview; Open-chan's over NT$1B annual revenue at peak, and methodology for building IP world-building.
+[^5]: [Yushan National Park: Taiwan black bear information](https://www.ysnp.gov.tw/En/StaticPage/ScienceEn) — See supplementary material in the original link
 
-[^6]: [Welfare Bear Creator Unlocks IP Secrets: Contributes NT$200–300M in Annual Sales — Yahoo News](https://tw.news.yahoo.com/%E5%85%A8%E8%81%AF-%E6%94%AF%E6%8F%B4%E6%94%B6%E9%8A%80-%E6%93%816-2%E8%90%AC%E4%BA%BA%E8%B7%A8%E5%B9%B4%E8%81%B2%E5%8B%A2-%E7%A6%8F%E5%88%A9%E7%86%8A%E3%80%81Open%E5%B0%87%E7%88%B6%E8%A7%A3%E5%AF%86IP%E7%A7%98%E8%A8%A3-060430739.html) — Welfare Bear contributing approximately NT$200–300M in annual sales to PX Mart.
+[^6]: [Yushan National Park: List of Terrestrial Endangered Wildlife](https://www.ysnp.gov.tw/StaticPage/Directory) — See supplementary material in the original link
 
-[^7]: [Bravo Makeover Appears Before Council; Legislators Jibe: "How Did You Get So Ugly?" — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/2411188) — Bravo's NT$1.13M makeover questioned in Taipei City Council.
+[^7]: [Datong Baby Study: Exploring Symbols and Transplant Traces from Corporate Doll Images](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — See supplementary material in the original link
 
-[^8]: [Makeover Controversy — 20 Taipei City Council Members Sign Petition Supporting Original Gold Medal Bravo — NTD Asia Pacific](https://www.ntdtv.com.tw/b5/20180503/video/220628.html) — 20 Taipei City Council members sign petition opposing Bravo's redesign.
+[^8]: [Wikimedia Commons: Bravo and visitors in Yangmingshan National Park](https://commons.wikimedia.org/wiki/File:Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg) — See supplementary material in the original link
 
-[^9]: [Bravo Annual Revenue NT$360K Makes It a "Money Loser"? Taipei Tourism Bureau: Evaluating Not Charging Licensing Fees — LINE TODAY](https://today.line.me/tw/v3/article/60W8k1a) — Controversy over Bravo's NT$360K annual revenue vs. millions in marketing budget.
+[^9]: [Kaohsiung MRT: HAPPI and U!FU Light Rail Stations Cheer for Votes](https://www.krtc.com.tw/Information/news_more?id=b696995bfaf9465fbe63a8e2e048d9bb) — See supplementary material in the original link
 
-[^10]: [Bravo Marketing Costs Exceed NT$16M in Three Years — Hsu Chiao-hsin Facebook](https://www.facebook.com/HsuChiaoHsin/posts/2107418992692689/) — Legislator Hsu Chiao-hsin reveals Bravo's three-year marketing costs near NT$16M.
+[^10]: [Wikimedia Commons: Kaohsiung MRT Mascots IMG 0907.jpg](https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg) — See supplementary material in the original link
 
-[^11]: [Red House's Head of Hospitality "Hong Fu" Makes First Appearance — Yahoo Finance](https://tw.stock.yahoo.com/news/%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E6%8E%A5%E5%BE%85%E9%83%A8%E9%95%B7-%E7%B4%85%E7%A6%8F-%E9%A6%96%E5%BA%A6%E4%BA%AE%E7%9B%B8-%E6%94%9C%E6%89%8B%E5%B7%A5%E8%97%9D%E4%B8%AD%E5%BF%83%E5%B1%95%E9%96%8B%E6%B0%B8%E7%BA%8C%E8%A1%8C%E5%8B%95-064125170.html) — Red House's "Hong Fu" 2024 debut coverage.
+[^11]: [Miaoli County Government: Thanking Citizens for Supporting Maolimiao](https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=196769) — See supplementary material in the original link
 
-[^12]: [Why a Fox? Tracing Back to the Taipei Inari Shrine — M1DOKU](https://m1doku.com/theredhouseesg/) — Explanation of Hong Fu's design inspiration from the Japanese-era Taipei Inari Shrine.
+[^12]: [Wikimedia Commons: Miaolimiao at THSR Miaoli Station](https://commons.wikimedia.org/wiki/File:Miaolimiao_at_THSR_Miaoli_Station.jpg) — See supplementary material in the original link
 
-[^13]: [Red House Original Character "Hong Fu" Appears — Tanukii_don on X](https://x.com/Tanukii_don/status/1820409634022437272) — Hong Fu's design details (Red House horizontal band, red-and-white scraped stone).
+[^13]: [National Taiwan University of Science and Technology: Tiger Duck! NTUST Creates a Dedicated Campus Mascot](https://www.ntust.edu.tw/p/404-1000-54016.php?Lang=zh-tw) — See supplementary material in the original link
 
-[^14]: [The Milkfish Boy's Origin! Is the Ugliness Intentional? — Haha Channel Street Interview](https://www.youtube.com/watch?v=Qx6zPGaiNSo) — The Milkfish Boy's designer explains in a YouTube street interview that the ugliness is intentional.
+[^14]: [Wikimedia Commons: Zeng Taiming National Taiwan University of Science and Technology Mascots](https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg) — See supplementary material in the original link
 
-[^15]: [Taiwan's "9 Ugliest Mascots" Crack Up Netizens — Up Media](https://www.upmedia.mg/tw/focus/comprehensive/171257) — List of Taiwan's 9 ugliest mascots, including Penghu's Pearl Children and Fresh Oyster.
+[^15]: [Wikimedia Commons: Jianzhong Elementary School 3D Painted Staircase](https://commons.wikimedia.org/wiki/File:%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg) — See supplementary material in the original link
 
-[^16]: [Who Is the Fish Head? Revealing the True Identity of Tainan's Viral Mascot and Various Field Experts — Uptogo](https://uptogo.com.tw/%E5%A8%9B%E6%A8%82/%E5%90%8D%E4%BA%BA/%E9%AD%9A%E9%A0%AD%E6%98%AF%E8%AA%B0%EF%BC%9F/) — Introduction to SABABOY designer Marco Chen Yu-jen.
+[^16]: [Wikimedia Commons: TYMON.jpg](https://commons.wikimedia.org/wiki/File:TYMON.jpg) — See supplementary material in the original link
 
-[^17]: [Going Viral! Tainan's SABABOY Grotesque Cross-Section Attracts 5 Million Japanese Pilgrimages — Yahoo News](https://tw.news.yahoo.com/%E7%B4%85%E4%BA%86-%E5%8F%B0%E5%8D%97-%E9%AD%9A%E9%A0%AD%E5%90%9B-%E7%8D%B5%E5%A5%87%E5%89%96%E9%9D%A2%E5%9C%96-%E5%90%B8500%E8%90%AC%E6%97%A5%E4%BA%BA%E6%9C%9D%E8%81%96-072400851.html) — A Japanese netizen's single X post sharing SABABOY's cross-section view draws over 5 million engagements.
+[^17]: [The World Magazine: Building Open's Team and Welfare Bear Man](https://www.cw.com.tw/article/5137665) — See supplementary material in the original link
 
-[^18]: [Popo Pigeon Is a Pisces! Hates Being Called Fat — Chunghwa Post Facebook](https://www.facebook.com/shenhuihung/posts/771283382300866/) — Chunghwa Post Facebook post announcing Popo Pigeon's Pisces zodiac and "hates being called fat" character setting.
+[^18]: [Taiwan Post Office: Postal 130th Anniversary Limited Edition Mochi Gift Box](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=150101&news_no=73607&news_cat=11&group_name=&control_type=page) — See supplementary material in the original link
 
-[^19]: [Popo Pigeon Seems to Be Sensitive About This — Threads](https://www.threads.com/@chanskym/post/DHfJdXVSv2J/) — Threads community user discussion extending Popo Pigeon's character.
+[^19]: [Tainan City Government Tourism Bureau: Fishhead Boy Introduction Area](https://www.twtainan.net/zh-tw/event/newsdetail/4155/) — See supplementary material in the original link
 
-[^20]: [Post Office's Adorable Puff Pastry Gift Box Goes Viral! Sold Out in 10 Minutes — MSN](https://www.msn.com/zh-tw/news/other/%E9%83%B5%E5%B1%80%E8%90%8C%E7%B3%BB%E5%B0%8F%E6%B3%A1%E8%8A%99%E7%A6%AE%E7%9B%92%E7%88%86%E7%B4%85-%E8%A9%90%E9%A8%99%E8%B6%85%E7%86%B1%E4%B8%8A%E7%B7%9A-%E4%B8%AD%E8%8F%AF%E9%83%B5%E6%94%BF%E6%80%A5%E7%A4%BA%E8%AD%A6/ar-AA20dW8Y) — Popo Pigeon × I-Mei co-branded mailbox stamp figure gift box sells out in 10 minutes.
+[^20]: [Tainan City Government: Fishhead Boy's 5th Anniversary "Fishhead Boy's Playground"](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8603620) — See supplementary material in the original link
 
-[^21]: [National Museum of Taiwan Literature Mascot Plagiarism Incident — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%96%87%E5%AD%B8%E9%A4%A8%E5%90%89%E7%A5%A5%E7%89%A9%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6) — Wikipedia entry on the National Museum of Taiwan Literature mascot "A-Long" plagiarism incident (2024-05).
-
-[^22]: [Taipei Prosecutors Decline to Indict Chinese Illustrator in "A-Long" Plagiarism Case — Yahoo News](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%8F%B0%E6%96%87%E9%A4%A8-%E9%98%BF%E9%BE%8D-%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6%E5%8C%97%E6%AA%A2%E4%B8%8D%E8%B5%B7%E8%A8%B4-%E4%B8%AD%E5%9C%8B%E7%B9%AA%E5%B8%AB-223507967.html) — Follow-up on the "A-Long" plagiarism incident; Taipei prosecutors decline to indict the Chinese illustrator.
-
-[^23]: [Can't Live Without Puns! Tainan's "CaiQi Duck" Goes Viral, Draws Masses — Yahoo News](https://tw.news.yahoo.com/%E4%B8%8D%E8%83%BD%E6%B2%92%E6%9C%89%E8%AB%A7%E9%9F%B3%E5%93%8F-%E5%8F%B0%E5%8D%97-%E8%8F%9C%E5%A5%87%E9%B4%A8-%E6%9A%B4%E7%B4%85%E5%BC%95%E8%90%AC%E4%BA%BA%E6%9C%9D%E8%81%96-055730860.html) — CaiQi Duck's pun origin and Tainan market mascot viral coverage.
-
-[^24]: [Puns Without Limits! Market Mascot "CaiQi Duck" Goes Viral — SET News](https://www.setn.com/News.aspx?NewsID=1536731) — SET News report on the CaiQi Duck social media phenomenon.
-
-[^25]: [Tainan's Adorable Mascot "CaiQi Duck" Helps Upgrade Market Tourism — Threads](https://www.threads.com/@loveagrogirl/post/DVgePDBksKJ/) — Threads post on Tainan market tourism and the CaiQi Duck effect.
+[^21]: [Liberty Times: Xiongzan Rebranding Cost NT$1.13 Million](https://news.ltn.com.tw/news/politics/breakingnews/2412456) — Liberty Times report
