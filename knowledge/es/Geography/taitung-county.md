@@ -2,9 +2,7 @@
 title: 'Condado de Taitung: dos islas periféricas, una encarceló presos políticos durante treinta y seis años, la otra almacenó residuos nucleares durante cuarenta y dos años'
 description: 'Los 210.000 habitantes del condado de Taitung están dispersos en 3.515 kilómetros cuadrados, la densidad más baja del país: apenas 60 personas por kilómetro cuadrado, una centésima parte de Taipéi. Pero este condado contiene el asentamiento humano más antiguo de Taiwán (el sitio arqueológico de Beinan, con 1.600 sarcófagos de piedra de hace 5.300 años), alberga a seis pueblos indígenas (amis, puyuma, paiwan, rukai, bunun y tao), y tiene la proporción de población indígena más alta de Taiwán, 37,5%. De 1951 a 1987, la isla Verde, entonces Huoshaodao, encerró presos políticos durante treinta y seis años. Desde mayo de 1982, Longmen, en Lanyu, comenzó a recibir residuos nucleares; cuarenta y dos años después, 97.672 barriles siguen allí. El 25 de agosto de 1968, siete niños bunun de la aldea Hongye derrotaron 7:0 al equipo estelar japonés de béisbol infantil de Kansai (no al equipo campeón mundial), y el mito del béisbol como deporte nacional de Taiwán comenzó con ese engaño. Dos islas periféricas cargaron con el costo de toda una isla.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Taitung',
@@ -21,19 +19,23 @@ tags:
     'Enlace del Sur',
     'Serie de 22 condados y ciudades',
   ]
-readingTime: 15
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 15
+researchReport: 'reports/research/2026-05/台東縣.md'
+series: '22 縣市系列'
+image: '/article-images/geography/taitung-county-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png'
 translatedFrom: 'Geography/台東縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:a245e10d3b26ade5'
-sourceBodyHash: 'sha256:78f221a15e8e14f3'
-translatedAt: '2026-06-16T17:05:07Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taitung_County_Montage.png/800px-Taitung_County_Montage.png
-imageCredit: Sleepingstar
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:b917cf15071e0f45'
+sourceBodyHash: 'sha256:36a7ca9dd00ad7f0'
+translatedAt: '2026-09-09T06:22:14.196102+00:00'
 ---
 
 # Condado de Taitung: dos islas periféricas, una encarceló presos políticos durante treinta y seis años, la otra almacenó residuos nucleares durante cuarenta y dos años
@@ -146,55 +148,55 @@ En 1987 se levantó la ley marcial y la isla Verde dejó de encarcelar presos po
 
 Hoy, quienes visitan la isla Verde suelen ir a bucear, recorrer la isla en motocicleta o bañarse en las aguas termales de Zhaori. Unos pocos llegan al parque. El parque comparte camino con tiendas de buceo y alquileres de motocicletas. A un lado están los restos de los barracones de presos políticos; al otro, el centro de visitantes “Green Island Star”. **Esta isla es, al mismo tiempo, testimonio físico de la memoria de la ley marcial taiwanesa y destino turístico popular de las islas orientales**. Esas dos identidades nunca se reconciliaron; simplemente coexisten.
 
-## Aquel terreno de Longmen no era para construir una fábrica de conservas
+## El terreno de Longmen, que originalmente no era para una fábrica de conservas
 
-A 90 kilómetros al sur desde el puerto pesquero de Fugang, en Taitung, 2,7 veces más lejos que la isla Verde, está Lanyu.
+Desde el puerto pesquero de Fugang en el condado de Taitung, viajando hacia el sur 90 kilómetros, más de 2,7 veces la distancia a la isla de Lanyu, se encuentra Lanyu.
 
-Una isla volcánica, más alejada de la isla principal de Taiwán pero más cercana a las islas Batanes de Filipinas. Allí viven seis comunidades tao, con una población total de unas 5.000 personas. En 1975 ocurrió algo que aún afecta a Lanyu.
+Una isla volcánica, más alejada de la isla principal de Taiwán, pero más cercana al archipiélago de Batanes en Filipinas. Aquí habitan seis tribus del pueblo Tao, con una población total de aproximadamente 5.000 personas. En 1975, ocurrió un evento que sigue influyendo en Lanyu hasta el día de hoy.
 
-Ese año, **el entonces primer ministro Chiang Ching-kuo aprobó instalar en la zona de Longmen, Lanyu, un depósito de residuos radiactivos de baja actividad**[^21]. El proceso de decisión no consultó a los residentes de Lanyu. Entre 1977 y 1980, la Comisión de Energía Atómica y Taiwan Power Company construyeron en Lanyu, y los recuerdos de los ancianos locales apuntan de forma consistente al engaño. El gobierno indujo a firmar consentimientos diciendo que construiría una “fábrica de conservas de pescado” (en algunas versiones, una “fábrica de conservas de piña”); los tao no sabían cuál era el uso real de la obra[^22]. ⚠️ Los comunicados oficiales del gobierno niegan haber usado la expresión “fábrica de conservas”. El Informe de investigación sobre la verdad de la instalación del depósito de residuos nucleares en Lanyu, de 2018, confirmó que la población “no estaba informada”, pero la formulación concreta del engaño sigue siendo discutida; aun así, la memoria de los tao coincide en que entonces no se les dijo que sería una instalación de residuos nucleares.
+Ese año, **el entonces Primer Ministro Chiang Kai-shek aprobó la instalación de un almacén de residuos radiactivos de baja actividad en la zona de Longmen, Lanyu** [^21]. El proceso de decisión no consultó a los residentes de Lanyu. Entre 1977 y 1980, la Comisión de Energía Atómica y Taipower (Empresa de Electricidad de Taiwán) realizaron obras en Lanyu; los recuerdos de los ancianos locales coinciden en señalar el engaño. El gobierno indujo a firmar con la excusa de construir una «fábrica de conservas de pescado» (en algunas versiones, «fábrica de conservas de piña»), sin que los tao supieran el verdadero propósito de la obra [^22]. ⚠️ Las declaraciones oficiales del gobierno niegan haber utilizado la expresión «fábrica de conservas». El _Informe de Investigación sobre la Verdad de la Instalación de Residuos Nucleares en Lanyu_ de 2018 confirmó que los tao «no estaban informados», aunque los detalles específicos del engaño siguen siendo objeto de debate, la memoria colectiva tao apunta consistentemente a que no se les reveló que se trataba de una instalación nuclear.
 
-**En mayo de 1982**, se terminó la primera fase del depósito de Lanyu y comenzó a ingresar el primer lote de residuos nucleares de baja actividad[^21]. Desde ese momento hasta la entrada del último lote en 1996, **en 14 años recibió un total de 97.672 barriles de residuos radiactivos de baja actividad**[^21], procedentes de las centrales nucleares 1, 2 y 3, así como de instituciones médicas, agrícolas, industriales y académicas de todo Taiwán.
+**En mayo de 1982**, se completó la primera fase de la obra del almacén de Lanyu, y comenzaron a llegar los primeros residuos nucleares de baja categoría [^21]. Desde ese momento hasta 1996, cuando llegó la última partida, **durante 14 años se recibieron un total de 97.672 barriles de residuos radiactivos de baja actividad** [^21], procedentes de las centrales nucleares Nuo-1, Nuo-2 y Nuo-3, así como de instituciones médicas, agrícolas, industriales y académicas de todo Taiwán.
 
-![Paisaje de Lanyu visto desde arriba del aeropuerto, 2017. A 90 kilómetros de la isla principal de Taiwán, está más cerca de las islas Batanes de Filipinas. En la isla viven seis comunidades tao, con una población total de unas 5.000 personas. Desde mayo de 1982, Longmen, en el extremo sureste de la isla, comenzó a recibir residuos nucleares; para 1996 acumulaba 97.672 barriles. ](/article-images/geography/taitung-03.webp)
+![Paisaje de Lanyu, visto desde arriba sobre el aeropuerto, 2017. A 90 kilómetros de la isla principal de Taiwán, pero aún más cerca del archipiélago de Batanes en Filipinas. En la isla habitan seis tribus del pueblo Tao, con una población total de unos 5.000 habitantes. Desde mayo de 1982, el ángulo sureste de la isla, Longmen, comenzó a recibir residuos nucleares para su almacenamiento, acumulando 97.672 barriles hasta 1996.](/article-images/geography/taitung-03.webp)
 _Paisaje de Lanyu, 2017-07-21. Foto: Pai-Shih Lee (白士 李). [CC BY 2.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg)._
 
-En 1987, los tao protestaron en el aeropuerto contra Taiwan Power Company por sobornar a representantes locales de Lanyu con viajes turísticos a Japón; así comenzó formalmente el movimiento contra los residuos nucleares[^23].
+En 1987, los tao protestaron en el aeropuerto contra el soborno de Taipower a los representantes locales de Lanyu para un viaje turístico a Japón, marcando el inicio formal del movimiento antinuclear [^23].
 
-**El 20 de febrero de 1988**, los tao lanzaron el movimiento **“Expulsar a los espíritus malignos”**: vistieron cascos y armaduras tradicionales de ratán, portaron lanzas largas y dagas, y rodearon la isla. Fue la **primera manifestación organizada de un pueblo indígena de Taiwán contra los residuos nucleares**[^24]. La expresión de protesta “expulsar a los espíritus malignos” se gestó en enero de 1988 en una reunión presidida por Chen Yingzhen en la redacción de la revista Renjian, en la calle Anhe de Taipéi[^24].
+**El 20 de febrero de 1988**, los tao lanzaron el movimiento **«Expulsión de los Espíritus Malvados»**, vistiendo cascos y armaduras de vincha tradicionales y portando lanzas y dagas, dando una vuelta completa a la isla. Esta fue la **primera manifestación organizada contra los residuos nucleares por parte de los pueblos indígenas de Taiwán** [^24]. El lema de protesta «Expulsión de los Espíritus Malvados» se gestó en enero de 1988 en una reunión presidida por Chen Yingzhen en la redacción de _Renjian Magazine_ (La Revista Humana) en la calle Anhe, Taipéi [^24].
 
-Ese día, la población emitió una declaración conjunta registrada literalmente así:
+Ese día, la comunidad emitió una declaración conjunta, cuyo registro verbatim es el siguiente:
 
-> **“Esta tierra tiene alma; desde tiempos antiguos ha protegido a nuestro pueblo hasta hoy. Ahora las toxinas de los residuos nucleares la hieren aquí. Nuestro pueblo se pone la vestimenta tradicional de guerrero, cascos de ratán y armaduras, carga dagas y sostiene lanzas largas para mostrar a los ‘espíritus malignos’ una voluntad de combate firme.”**[^24]
+> **«Esta tierra tiene alma; desde la antigüedad ha protegido a nuestro pueblo hasta hoy. Ahora, las toxinas de los residuos nucleares la están dañando. Los miembros de la tribu se visten con el atuendo tradicional de guerreros, llevan cascos de vincha, armaduras de batalla, dagas al hombro y lanzas en la mano, mostrando al «Espíritu Malvado» nuestra firme voluntad de combate.»** [^24]
 
-En 1995, la oficina municipal de Lanyu inició la acción “una persona, una piedra”. **En abril de 1996**, el jefe municipal de Lanyu, jefes de aldea y activistas antinucleares se reunieron en el muelle de Longmen para protestar contra el transporte, por parte de Taiwan Power Company, de 168 barriles de residuos nucleares desde la central nuclear 2. El buque de residuos “Dianguang Nº 1” fue bloqueado en el puerto por residentes de Lanyu y, **tras permanecer 4 días en aguas de Lanyu, se vio obligado a marcharse**[^25]. Después de 1996, Taiwan Power Company no volvió a ingresar nuevos residuos nucleares.
+En 1995, el municipio de Lanyu promovió la acción «Una persona, una piedra». **En abril de 1996**, el alcalde del municipio de Lanyu, los alcaldes de aldea y activistas antinucleares se congregaron en el muelle de Longmen para protestar contra el transporte de 168 barriles de residuos nucleares desde la central Nuo-2 por parte de Taipower. El barco de residuos «Dian Guang Yi» (Relámpago N.º 1) fue bloqueado en el puerto por los habitantes de Lanyu, **permaneciendo estancado en las aguas de Lanyu durante 4 días antes de verse obligado a zarpar** [^25]. Después de 1996, Taipower dejó de transportar nuevos residuos nucleares.
 
-Pero los 97.672 barriles se quedaron. En Longmen.
+Pero los 97.672 barriles quedaron. En Longmen.
 
-> **✦** “**De 1982 a 1996, más de 100.000 barriles de residuos nucleares ingresaron al depósito, hasta que la protesta de bloqueo del puerto de los tao obligó al barco de residuos nucleares a regresar al muelle Mingguang de la central nuclear 2.**” (reportaje de Events in Focus[^26])
+> **✦** «**Entre 1982 y 1996, más de 100.000 barriles de residuos nucleares entraron en el almacén de almacenamiento, hasta que la protesta de bloqueo del puerto por parte del pueblo Tao logró rechazar el barco de residuos nuclear hacia el muelle Mingguang de la central Nuo-2.**» (Reporte de _Events in Focus_ [^26])
 
-En la cultura tradicional tao, el mar es el ámbito de los hombres y la montaña el de las mujeres. La **temporada del pez volador** (que comienza cada año en febrero-marzo, cuando los peces suben hacia el norte con la corriente de Kuroshio) es el contrato de este pueblo con el océano. Al comer pez volador, los tao distinguen especies según género y edad: peces de mujeres, peces de hombres y peces de ancianos, cada categoría con formas distintas de procesamiento[^27]. Durante la temporada del pez volador no se capturan peces de arrecife (para permitir la reproducción de las especies coralinas); una vez terminada la temporada, se capturan peces de arrecife (para permitir que el pez volador vuelva a desovar). Esta sabiduría ecológica funciona desde hace más de mil años.
+En la cultura tradicional del pueblo Tao, el mar es el ámbito de los hombres y la montaña es el de las mujeres. La **Temporada del Pez Volador** (que comienza cada febrero-marzo cuando la Corriente de Kuroshio se desplaza hacia el norte) es el pacto que este pueblo ha firmado con el océano. Al consumir el pez volador, los tao dividen las especies según el género y la edad: peces de mujer, peces de hombre, peces de anciano, cada uno con diferentes métodos de preparación [^27]. Durante la temporada del pez volador no se pesca en los arrecifes de coral (permitiendo que los peces de arrecife se reproduzcan), y solo después de la temporada del pez volador se pesca en los arrecifes (permitiendo que el pez volador regrese para reproducirse). Esta sabiduría ecológica ha funcionado durante milenios.
 
-La canoa ensamblada con tablones (chinurikuran, embarcación grande de 27 piezas; tatara, embarcación pequeña de 21 piezas) es la cumbre de la artesanía tao. Sus colores tradicionales son rojo (tierra roja de la montaña), blanco (cal de concha) y negro (hollín de las ollas); el motivo circular del ojo de la embarcación es el símbolo cultural más ampliamente reconocido del pueblo tao[^28].
+La embarcación de tablones ensamblados (_chinurikuran_, gran barco de 27 tablones; _tatara_, pequeño barco de 21 tablones) representa la cumbre de la artesanía tao. Los colores tradicionales son rojo (tierra roja de las montañas), blanco (ceniza de conchas) y negro (hollín de calderos). El tótem circular del ojo del barco es ampliamente reconocido como el símbolo cultural del pueblo Tao [^28].
 
-![Canoa tradicional tao de tablones, Lanyu, agosto de 2015. La embarcación grande tao, chinurikuran, está ensamblada con 27 piezas de madera y puede llevar de 8 a 10 personas; la pequeña, tatara, está hecha con 21 piezas. El motivo circular del ojo de la embarcación es el símbolo cultural más conocido del pueblo tao.](/article-images/geography/taitung-03.webp)
-_Canoa tradicional tao de tablones, 2015-08-02. Foto: Cho Hsun Lu. [CC BY 3.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
+![Embarcación tradicional de tablones ensamblados del pueblo Tao atracada en la playa de guijarros de Lanyu, con el casco en colores rojo, blanco y negro; en el centro lateral de la proa se encuentra el tótem circular del ojo del barco. El gran barco tao *chinurikuran* está compuesto por 27 tablones de madera y puede transportar a 8-10 personas; el pequeño barco *tatara* está compuesto por 21 tablones.](/article-images/geography/taitung-tao-plank-boat-2015.webp)
+_Embarcación tradicional de tablones ensamblados del pueblo Tao. Foto: Cho Hsun Lu, [CC BY 3.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
 
-El clima de Lanyu es tropical oceánico, con precipitaciones anuales superiores a 3.000 milímetros (muy por encima de los cerca de 1.900 milímetros de la ciudad de Taitung en el valle longitudinal de Hualien-Taitung y de los 1.500 milímetros del sotavento de la cordillera Costera) y fuertes monzones del noreste en invierno. **La vivienda subterránea tradicional tao (talakaval)** fue diseñada precisamente para enfrentar ese clima: baja y semienterrada, con muros de tierra alrededor para aislar el calor, permite que el monzón del noreste pase directamente sobre el techo[^29]. Hoy, la comunidad de Yeyin conserva el conjunto más completo de viviendas subterráneas tradicionales y es la única forma de aldea antigua de Lanyu que sigue habitada.
+El clima de Lanyu es tropical oceánico, con una precipitación anual superior a los 3.000 milímetros (muy por encima de los aproximadamente 1.900 milímetros del área urbana de Taitung en el valle longitudinal de Hualien-Taitung y los 1.500 milímetros en la cara a barlovento de la Cordillera Costera). Los vientos del noreste en invierno son fuertes. **La vivienda subterránea tradicional del pueblo Tao (_talakaval_)** fue diseñada precisamente para responder a este clima: semisubterránea y baja, con muros de tierra a los lados para el aislamiento térmico, permitiendo que los vientos del noreste pasen directamente sobre el techo [^29]. Hoy en día, el asentamiento de Ye-Yin (Niuyiping) conserva el conjunto de viviendas subterráneas tradicionales más completo, siendo la única forma de antiguo asentamiento en toda Lanyu que aún está habitada.
 
 Han pasado 42 años.
 
-El 1 de agosto de 2016, Día de los Pueblos Indígenas, la presidenta Tsai Ing-wen pidió disculpas en nombre del gobierno a los pueblos indígenas. **El 15 de agosto**, Tsai viajó a la isla y se convirtió en la primera jefa de Estado en visitar Lanyu para discutir cara a cara con los tao el problema de los residuos nucleares[^30]. El 22 de noviembre de 2019, el Ministerio de Economía anunció en Taitung **una compensación retroactiva de 2.550 millones de dólares taiwaneses** (por el periodo de 1974 a 1999)[^30].
+El 1 de agosto de 2016, Día de los Pueblos Indígenas, la presidenta Tsai Ing-wen representó al gobierno en una disculpa a los pueblos indígenas. **El 15 de agosto**, Tsai visitó la isla, convirtiéndose en la primera jefa de estado en acudir personalmente a Lanyu para discutir el problema de los residuos nucleares cara a cara con los tao [^30]. El 22 de noviembre de 2019, el Ministerio de Economía anunció en Taitung una **compensación retroactiva de 2.550 millones de yuanes** (cubriendo el periodo entre 1974 y 1999) [^30].
 
-El anciano tao Lin Hsin-yu la rechazó en el acto. Sus palabras literales:
+El anciano tao Lin Xinyu lo rechazó en el acto. Sus palabras verbatim fueron:
 
-> **“Declaro solemnemente: ¡no tomaremos ni un centavo! Tenemos batatas, pez volador y taro; ¡usen ese dinero para trasladar el depósito!”**[^31]
+> **«Declaro solemnemente: ¡no aceptaremos ni un centavo! Tenemos batatas, peces voladores y taro. Por favor, utilicen este dinero para reubicar el almacén.»** [^31]
 
-Y añadió:
+Él añadió:
 
-> **“Mientras los residuos nucleares no salgan de Lanyu, esta muerte, este exterminio étnico, continuará.”**[^31]
+> **«Mientras los residuos nucleares no sean retirados de Lanyu, esta muerte y esta extinción del pueblo continuarán indefinidamente.»** [^31]
 
-A día de hoy, en 2026, los residuos nucleares todavía no han sido retirados. Los 97.672 barriles siguen almacenados en Longmen, Lanyu. **El Terror Blanco permaneció en la isla Verde durante treinta y seis años; los residuos nucleares han permanecido en Lanyu durante cuarenta y dos años**. Las dos islas periféricas del condado de Taitung cargaron cada una con el costo de una etapa de la historia taiwanesa, mientras que la mayor parte del tiempo la isla principal de Taiwán no lo sintió.
+Hasta hoy, en 2026, los residuos nucleares aún no han sido retirados. Los 97.672 barriles siguen almacenados en Longmen, Lanyu. **El Terror Blanco en la isla Verde cesó durante treinta y seis años; los residuos nucleares en Lanyu han permanecido durante cuarenta y dos años**. Las dos islas periféricas del condado de Taitung han asumido individualmente el costo de una parte de la historia de Taiwán, mientras que la isla principal de Taiwán ha permanecido mayormente indiferente ante ello.
 
 ## Las olas de arroz de Chishang, los Golden Melody de Puyuma
 
@@ -256,16 +258,16 @@ El condado de menor densidad albergó a las personas más antiguas. Los jue de j
 
 ## Fuentes de las imágenes
 
-Este artículo usa 5 imágenes con licencia CC de Wikimedia Commons:
+Este artículo utiliza 5 imágenes con licencia CC de Wikimedia Commons; la imagen principal (hero) está en caché en `public/article-images/geography/` para evitar enlaces directos al servidor de origen, mientras que las otras 4 mantienen enlaces directos (_hot-link_):
 
-- **Hero (frontmatter)**: [Taitung County Montage](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. Montaje de paisajes del condado de Taitung, con la ciudad de Taitung, Baishawan, las aguas termales de Zhiben, la isla Verde y Lanyu.
-- **Escena §Sitio de Beinan**: [Excavation of the Peinan Site](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Sitio de excavación de sarcófagos de losa de piedra de Beinan.
-- **Escena §Huoshaodao**: [Taiwan GreenIsland Human Rights Memorial Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Monumento a los Derechos Humanos de la isla Verde.
-- **Escena §Paisaje de Lanyu**: [Lanyu landscape - Taiwan](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg) — Pai-Shih Lee (白士 李), 2017-07-21, CC BY 2.0. Vista aérea de Lanyu.
-- **Escena §Canoa de tablones**: [The Traditional Boat Of Tao People](<https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg>) — Cho Hsun Lu, 2015-08-02, CC BY 3.0. Canoa tradicional de tablones del pueblo tao.
-- **Escena §Olas de arroz de Chishang**: [伯朗大道](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) — Sinchen.Lin, 2016-09-03, CC BY 2.0. Árbol de Takeshi Kaneshiro en la avenida Mr. Brown, municipio de Chishang.
+- **Imagen principal (frontmatter)**: [Montaje del condado de Taitung](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. Montaje paisajístico del condado de Taitung, que incluye la ciudad de Taitung, la Bahía Baisha, las aguas termales de Kuntan, la isla Verde (Lüdao) y Lanyu.
+- **Escena §Sitio de Beinan**: [Excavación del sitio de Beinan](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Escena de excavación de los ataúdes de losa del sitio de Beinan.
+- **Escena §Isla Verde**: [Monumento conmemorativo a los derechos humanos de la isla Verde de Taiwán](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Monumento a los derechos humanos de la isla Verde.
+- **Escena §Paisaje de Lanyu**: [Paisaje de Lanyu - Taiwán](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg) — Pai-Shih Lee (白士 李), 2017-07-21, CC BY 2.0. Vista aérea de Lanyu.
+- **Escena §Canoa de tablones**: [La canoa tradicional del pueblo tao](<https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg>) — Cho Hsun Lu, 2015-08-02, CC BY 3.0. Canoa de tablones tradicional del pueblo tao.
+- **Escena §Ondas de arroz de Chishang**: [Avenida Bolang](<https://commons.wikimedia.org/wiki/File:29-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93_(28896712393).jpg>) — Sinchen.Lin, 2016-09-03, CC BY 2.0. Árbol de金城武 (Jin Chengwu) en la Avenida Bolang, municipio de Chishang.
 
-Licencias: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Cláusulas de licencia: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Referencias
 

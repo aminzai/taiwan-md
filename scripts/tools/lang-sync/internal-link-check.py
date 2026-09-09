@@ -101,6 +101,14 @@ def check_file(f: Path, idx) -> list[tuple[str, str]]:
             continue  # 不是文章路由，不歸這支管
         if seg[0] in LANGS:
             lang, cat, slug = seg[0], seg[1].lower(), seg[-1].lower()
+            # 大小寫要單獨報。站上分類目錄一律小寫，`/en/People/x/` 在 case-sensitive
+            # 主機（Cloudflare Pages）上是 404——而本機 macOS 檔案系統不分大小寫，
+            # 開發機上永遠看不出來。我這支第一版把路徑 .lower() 之後才比對，等於自己
+            # 把這個病遮起來了（2026-09-09 修 7 條時發現）。
+            if seg[1] != seg[1].lower():
+                dead.append((url, f"分類段有大寫（{seg[1]}）——case-sensitive 主機上是 404，"
+                                  f"應為 {seg[1].lower()}"))
+                continue
             if (cat, slug) not in per_lang.get(lang, set()):
                 dead.append((url, f"knowledge/{lang}/ 沒有 {cat}/{slug}.md"))
         else:
@@ -148,7 +156,11 @@ def main() -> int:
                 inherited = {u for u, _ in check_file(src, idx)}
                 d = [(u, w) for u, w in d if u not in inherited]
         if d:
-            out[str(f.relative_to(REPO) if f.is_absolute() else f)] = d
+            try:
+            key = str(f.relative_to(REPO))
+        except ValueError:
+            key = str(f)  # 倉庫外的檔案（校準用的臨時樣本）也要能驗
+        out[key] = d
             total += len(d)
 
     if a.json:

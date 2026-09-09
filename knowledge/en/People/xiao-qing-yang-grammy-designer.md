@@ -80,4 +80,4 @@ Xiao Qing-Yang's Grammy win demonstrated a path for Taiwan's design community: t
 ## Further Reading
 
 - [Grammy Award Best Recording Package Past Winners — Grammy.com](https://www.grammy.com/) — Complete list of Best Recording Package nominees and winners
-- [[Lim Giong]](/en/People/lim-giong/) — A Taiwanese musician Xiao Qing-Yang collaborated with early in his career
+- [[Lim Giong]](/en/people/lim-giong/) — A Taiwanese musician Xiao Qing-Yang collaborated with early in his career
