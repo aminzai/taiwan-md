@@ -96,6 +96,11 @@ PYEOF
 )
   [ "${nloc:-0}" != "0" ] && review+=("agent漏跑在地化(已補${nloc}個)")
   grep -q "\[\[" "$f" && reasons+=("wikilink殘留")
+  # 第 12 道（2026-09-10）：整行沒翻的正文行。cjk-adjacency 的判準是「漢字黏著拉丁
+  # 字母」，整行純中文沒有拉丁字母可黏，那把尺結構上看不到——fr 唐鳳篇九句 ✦ 逐字
+  # 引用整段照抄，十一道閘全綠。
+  python3 scripts/tools/lang-sync/untranslated-line-check.py "$f" >/dev/null 2>&1 \
+    || reasons+=("整行未翻")
 
   if [ ${#reasons[@]} -gt 0 ]; then
     fail=$((fail+1)); failed_list+=("$f: ${reasons[*]}")

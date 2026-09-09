@@ -319,6 +319,13 @@ def build(lang: str) -> dict:
             # 就是沒換算。2026-09-09 全庫掃出 941 處 / 530 檔，前九道閘全綠——
             # 它們量結構、語言、連結，沒有一道在算術。
             "python3 scripts/tools/lang-sync/numeral-magnitude-check.py knowledge/<zh_path> <目標路徑>   # 量級可疑 = 0",
+            # 整行沒翻。前十一道閘裡最接近的是 cjk-adjacency，但它的判準是
+            # 「漢字直接黏在拉丁字母上」——整行純中文沒有拉丁字母可黏，看不到。
+            # 2026-09-10 實例：fr 的唐鳳篇有九句 `✦` 逐字引用整段照抄中文，
+            # 十一道閘全綠；en/es 的同樣九句早就翻好了。
+            # **引文區是最常漏的地方**：`> ✦ 「…」` 這種區塊看起來像「原文引用」，
+            # 但它跟正文一樣要翻——保留原文的只有參考區的來源標題。
+            "python3 scripts/tools/lang-sync/untranslated-line-check.py <目標路徑>   # 整行未翻 = 0",
         ],
         "known_false_positives": {
             "list": [
