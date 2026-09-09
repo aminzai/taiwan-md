@@ -45,7 +45,12 @@ def counts(md: str) -> dict:
             s = lines[j].strip()
             if not s:
                 continue
-            if s.startswith("_") and "](" in s:
+            # `\_` 也算。prettier 會把行首底線跳脫成 `\_`（避免被當成斜體標記），
+            # 而這裡只認 `_`，於是每一個被跳脫的圖說都漏數——這是 hard gate，
+            # 漏數會讓派工單的期望值偏低，正確交件反而被判失敗。
+            # 2026-09-09 蛋撻那篇：zh 有 2 個帶授權連結的圖說、期望值卻寫 1，
+            # 譯者兩個都正確搬過去反而紅燈。CC 標示義務的閘門不該懲罰做對的人。
+            if (s.startswith("_") or s.startswith("\\_")) and "](" in s:
                 cap_with_link += 1
             break
     return {
