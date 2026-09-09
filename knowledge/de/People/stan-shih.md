@@ -1,6 +1,6 @@
 ---
 title: 'Stan Shih: Vom Enteneier-Stand in Lukang zu einer Marke namens Taiwan'
-description: 'Stan Shih (geb. 1944 in Lukang), vom Enteneier-Stand zum Weltkonzern: Er baute Acer zu einer der fünf größten PC-Marken auf und zeichnete die international erforschte Smile Curve. Öffentlich sagt er: „Ich bin der größte Verlierer.“ Mit über achtzig Jahren arbeitet er weiter mit Wagniskapital und KI-Avatar. Woran ihm am meisten liegt: unsichtbare Werte – Talente, Marken, der „Königsweg“.‘
+description: 'Stan Shih (geb. 1944 in Lukang), vom Enteneier-Stand zum Weltkonzern: Er baute Acer zu einer der fünf größten PC-Marken auf und zeichnete die international erforschte Smile Curve. Öffentlich sagt er: „Ich bin der größte Verlierer.“ Mit über achtzig Jahren arbeitet er weiter mit Wagniskapital und KI-Avatar. Woran ihm am meisten liegt: unsichtbare Werte – Talente, Marken, der „Königsweg“.'
 date: 2026-03-22
 category: 'People'
 tags:
@@ -241,7 +241,7 @@ Das Kind, das in Lukang zusah, wie seine Mutter Enteneier verkaufte, blieb bis z
 
 [^23]: [Stan Foundation: Die neue Smile Curve](https://stansfoundation.org/articles/0828c8) — wie zuvor; Stan Shih ergänzt wörtlich, diese Fehllektüre der Smile Curve als Aufgabe der Fertigung „könnte einer der Gründe für die massenhafte Abwanderung der produzierenden Betriebe Taiwans in den letzten fast zwanzig Jahren sein“.
 
-[^24]: [Stan Foundation: Die neue Smile Curve](https://stansfoundation.org/articles/0828c8) — wie zuvor; Stan Shih zeichnete 2019 die „neue Smile Curve“ mit drei Achsen X (obere/mittlere/untere Wertschöpfung), Y (Mehrwert), Z (Branchenbereich) plus Zeitachse, materiell/immateriell-Achse und direkt/indirekt-Achse; laut ETtoday wurde sie am 11.02.2019 bei der Neujahrsfeier im Wohnhaus im Bezirk Da’an vorgestellt.
+[^24]: [Stan Foundation: Die neue Smile Curve](https://stansfoundation.org/articles/0828c8) — wie zuvor; Stan Shih zeichnete 2019 die „neue Smile Curve“ mit drei Achsen X (obere/mittlere/untere Wertschöpfung), Y (Mehrwert), Z (Branchenbereich) plus Zeitachse, materiell/immateriell-Achse und direkt/indirekt-Achse; laut ETtoday wurde sie am 11.02.2019 bei der Neujahrsfeier im Wohnhaus im Bezirk Da'an vorgestellt.
 
 [^25]: [Digitimes: Acer-Chenboa Super TaiRa und die neue Smile Curve](https://www.bnext.com.tw/article/51988/acer-lora-super-taira) — Digitimes (2019-01-18): Stan Shih gibt zu, die neue Smile Curve sei „schwer zu zeichnen, noch nicht gezeichnet“, und verwendet Chenboa Super TaiRa (LoRa-Chip, Bruttomarge 30–40 Prozent) als Beispiel für impliziten Wert.
 
