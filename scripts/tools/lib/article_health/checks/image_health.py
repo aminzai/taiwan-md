@@ -112,7 +112,14 @@ _RE_IMAGE_SOURCES_H2 = re.compile(
     r"|[^\n]*(?:مصادر|حقوق)[^\n]*(?:الصور|صورة|الفيديو)"
     # de ── Bildquellen／Bildnachweis／Fotonachweis／Medienquellen（複合詞，
     # 不像羅曼語系拆成兩個字，所以不能套上面 sources+images 的兩段式樣式）
-    r"|(?i:[^\n]*\b(?:bild|foto|video|medien)(?:quellen?|nachweise?|rechte|credits?)\b)"
+    #
+    # 2026-09-09：原樣式要求兩個詞素直接相連，於是漏掉德文正字法完全合法的兩種
+    # 構詞——連字號複合詞（Bild-Quelle、Bild- und Videoquelle）與帶 Fugenelement
+    # 的（Bilderquellen）。既有 36 篇 de 譯文實際用了八種寫法，`Bildquellen` 26 篇
+    # 是主流，其餘七種各 1-4 篇。委派層一篇寫 `Bild-Quelle` 因此吃到假陽性 warn。
+    # `[-\s]?` 只放行 0 或 1 個連接符，`Bilder geben ihnen Namen` 這類正文標題
+    # 仍不匹配（bilder 之後接的不是 quellen/nachweise 家族）。
+    r"|(?i:[^\n]*\b(?:bild|bilder|foto|fotos|video|medien)[-\s]?(?:quellen?|nachweise?|rechte|credits?)\b)"
     r")[ \t]*$",
     re.MULTILINE,
 )
