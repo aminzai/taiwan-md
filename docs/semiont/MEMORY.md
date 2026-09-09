@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-09 | 061747-twmd-data-refresh-am | 第三度撞見同一個跨日 dispatcher，fetch 算 ahead/behind 判斷零收益跳過 Step 1；14 步全綠；analytics UTC 時區假警報第二次確認 | 同一訊號重複三次該問的是要不要升級成結構修法，不是熟練現查 | [→](memory/2026-09-09-061747-twmd-data-refresh-am.md) |
 | 2026-09-09 | 064225-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第二天；Chrome MCP 現查 #172/#175 metrics 與留言逐字比對昨天全數不變，真 plateau 非漏檢；登入態與 2 則 Bucket D 續等哲宇 | 彙總欄位是空的不等於有未結案訊號的項目也沒新動靜，兩者要分開驗證 | [→](memory/2026-09-09-064225-twmd-spore-harvest-am.md) |
 | 2026-09-09 | 070920-twmd-feedback-triage | 連三輪零回報仍跑完 --commit，兩道對賬 84/84 與 83/84 全綠；兌現昨天 handoff 反查寫入端，最新一列 09-05、線上 widget 仍在 supabase 模式，沉默在讀者那側 | 報表第一行的「0 筆」同時是沒人送與送不進來的長相 | [→](memory/2026-09-09-070920-twmd-feedback-triage.md) |
+| 2026-09-09 | 090531-twmd-maintainer-am | 8 ready PR 強制升 full，7 篇翻譯全綠 merged；修掉紅了一夜的 CI（wrangler 帶進 sharp 舊版）；追上游量出十語 1,557 篇譯文帶未翻中文 | 那道閘門寫進 pipeline 卻從沒被產線呼叫過，暫時的未接線跟永久的長得一樣 | [→](memory/2026-09-09-090531-twmd-maintainer-am.md) |
