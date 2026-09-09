@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-09 | 070920-twmd-feedback-triage | 連三輪零回報仍跑完 --commit，兩道對賬 84/84 與 83/84 全綠；兌現昨天 handoff 反查寫入端，最新一列 09-05、線上 widget 仍在 supabase 模式，沉默在讀者那側 | 報表第一行的「0 筆」同時是沒人送與送不進來的長相 | [→](memory/2026-09-09-070920-twmd-feedback-triage.md) |
 | 2026-09-09 | 090531-twmd-maintainer-am | 8 ready PR 強制升 full，7 篇翻譯全綠 merged；修掉紅了一夜的 CI（wrangler 帶進 sharp 舊版）；追上游量出十語 1,557 篇譯文帶未翻中文 | 那道閘門寫進 pipeline 卻從沒被產線呼叫過，暫時的未接線跟永久的長得一樣 | [→](memory/2026-09-09-090531-twmd-maintainer-am.md) |
 | 2026-09-09 | 140605-opentwbench | OpenTWBench 用我們語料做 tw-formosa-bench（CC BY-SA 繼承、署名回連本 repo）。追回落後 249 commit 的本機，工作樹新鮮度與日記門檻各補一道閘 | 沒有外部尺的自評問句當不了閘，寫得好的 LLM 永遠答得出 yes | [→](memory/2026-09-09-140605-opentwbench.md) |
+| 2026-09-09 | 155613-babel-vortex | 補 207 條 slug 解開 212 篇排不進隊的死結（佔缺口 59%）；新增語言閘擋下通過六道舊閘的英文譯文、掃出 65 篇存量；雲端軌設 40KB 上限；Haiku 落地 50 篇 | 規則沒有工具在動作那一刻執行它，等於沒有規則——一天三次，第三次是我 | [→](memory/2026-09-09-155613-babel-vortex.md) |

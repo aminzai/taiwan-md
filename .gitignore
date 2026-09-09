@@ -225,3 +225,7 @@ scripts/tools/.health-sweep.json
 
 # Local Rewrite Guide state; publish curated snapshots under reports/ explicitly.
 .taiwanmd/rewrite-runs/
+
+# 委派層 agent 改檔前會自己留 .bak（2026-09-09 撞見一個留在 knowledge/vi/ 裡）。
+# knowledge/ 是 SSOT，不收任何備份殘留。
+knowledge/**/*.bak
