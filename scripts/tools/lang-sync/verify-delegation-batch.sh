@@ -107,7 +107,14 @@ PYEOF
     printf "❌ %-58s %s\n" "${f#currency/}" "${reasons[*]}"
   elif [ ${#review[@]} -gt 0 ]; then
     pass=$((pass+1)); needs_review=$((needs_review+1))
-    printf "👀 %-58s %s — 人審（多半是引號裡的專有名詞原名）\n" "${f#knowledge/}" "${review[*]}"
+    printf "👀 %-58s %s\n" "${f#knowledge/}" "${review[*]}"
+    # 2026-09-10：這個桶原本只印標籤與一句「多半是專有名詞原名」，於是人會照著
+    # 那句話跳過。同一天兩次實測：23 篇裡 14 篇、9 篇裡 4 篇是真漏譯（句子中間
+    # 沒翻的中文詞、整個中文的 H2、簡體黏拉丁字母）。標籤不能代替看命中——
+    # 直接把命中字串印在旁邊，讓「看一眼」跟「跳過」一樣便宜（REFLEXES #74）。
+    { python3 scripts/tools/lang-sync/cjk-leak-check.py "$f" 2>&1
+      python3 scripts/tools/lang-sync/cjk-adjacency-check.py "$f" 2>&1; } \
+      | grep -E "^ +[-…]" | head -4 | cut -c1-150 | sed 's/^/      /'
   else
     pass=$((pass+1))
   fi

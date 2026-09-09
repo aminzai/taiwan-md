@@ -114,7 +114,7 @@ Olhando para esta tabela, percebe-se uma coisa: a chegada de cada nova membro tr
 
 Juntando as membros originais C.Holly (Reino Unido) e Sizi (Mongólia), o mapa de nacionalidades das nove integrantes do HUR+ cobre conexões culturais com cinco países: Taiwan, Reino Unido, Mongólia, Indonésia e Vietnã. A composição diversa e a expansão de mercado aqui não se excluem. Assim como o AKB48 usou 「總有一個你會喜歡的」 para transformar a diferenciação em modelo de negócio, o mapa de membros do HUR+ é ao mesmo tempo uma exibição de diversidade cultural e um **design de entrada** onde cada mercado tem alguém com quem ressoar.
 
-> **✦** 「我們在做的不是單單一個女子團體，我們是在做一個產業的推進。」[^3]
+> **✦** «O que estamos a fazer não é apenas um grupo feminino — estamos a empurrar uma indústria para a frente.»[^3]
 
 Em 3 de maio de 2024, o segundo álbum 《Crimzon》 foi lançado[^2]. Em 9 de janeiro de 2026, o terceiro álbum 《9OF9 ARCANA》 foi lançado[^2].
 
@@ -202,7 +202,7 @@ O HUR+ está provando essa hipótese. Ainda não provou completamente, mas a cad
 - [Lien Ying](/pt/people/lien-ying) — dançarina principal do HUR+, primeiro caso de membro de grupo a seguir carreira solo em Taiwan. «O nível de dança que um girl group deve ter»
 - [A nova geração de ídolos de Taiwan](/pt/culture/taiwan-new-idol-generation) — do DD52 ao Universe Cheerleader, o experimento industrial de seis anos dos survival shows de ídolos em Taiwan
 - [Rainie Yang](/pt/people/rainie-yang) — mentora-chefe do DD52, também a história de 25 anos conquistando autonomia a partir do sistema de ídolos
-- [Mayday](/people/五月天) — a história de longa trajetória de outro grupo musical de Taiwan, de pequenos palcos às grandes arenas da Ásia
+- [Mayday](/pt/music/mayday-band) — a história de longa trajetória de outro grupo musical de Taiwan, de pequenos palcos às grandes arenas da Ásia
 - [A música independente de Taiwan](/pt/music/indie-music-scene) — a interseção entre o estilo musical do HUR+ e a música eletrônica independente
 
 ## Referências

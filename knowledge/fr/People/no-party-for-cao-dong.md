@@ -1,6 +1,6 @@
 ---
 title: 'No Party for Cao Dong : douze ans, de la rue Caodong à Yangmingshan à deux prix Golden Melody du meilleur groupe'
-description: "Aux 28e Golden Melody Awards en 2017, un quatuor qui avait pressé à ses frais 2 000 CD a écrasé Mayday et remporté trois prix. Ils ont disparu pendant sept ans, traversant la mort de la batteuse Fan-Fan en 2021 dans un hôtel de quarantaine et deux années de silence. En 2023, ils sont revenus avec 《瓦合》 ; aux 35e Golden Melody Awards en 2024, ils ont remporté le triplé album de l'année + meilleur album en mandarin + meilleur groupe, leur manager recevant les prix à leur place : « 草東從來不只是站在舞台上的 4 個人。 »"
+description: "Aux 28e Golden Melody Awards en 2017, un quatuor qui avait pressé à ses frais 2 000 CD a écrasé Mayday et remporté trois prix. Ils ont disparu pendant sept ans, traversant la mort de la batteuse Fan-Fan en 2021 dans un hôtel de quarantaine et deux années de silence. En 2023, ils sont revenus avec *Wahe* 《瓦合》 ; aux 35e Golden Melody Awards en 2024, ils ont remporté le triplé album de l'année + meilleur album en mandarin + meilleur groupe, leur manager recevant les prix à leur place : « Cao Dong n’a jamais été seulement les quatre personnes sur scène. »"
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
@@ -43,7 +43,7 @@ Le soir du 29 juin 2024, lors de la 35e cérémonie des Golden Melody Awards, No
 
 Ce soir-là, le groupe joue au Bubble Island Music Festival à Guiyang, en Chine continentale, et n’est pas présent dans la salle. C’est son manager qui monte sur scène à sa place et prononce ces mots :
 
-> 「在我們心中，草東沒有派對從來都不是只有站在舞台上的 4 個人，而是齊心參與這 6 個字的每一個人。」[^1]
+> « Pour nous, No Party For Cao Dong n’a jamais été seulement les quatre personnes sur scène, mais chacun de ceux qui ont pris part, d’un même cœur, à ces six caractères. »[^1]
 
 Cette phrase provoque un silence dans la salle. Tous ceux qui connaissent leur histoire savent que ce « pas seulement quatre personnes » n’est pas une formule de remerciement de circonstance : c’est la reconnaissance directe, par un groupe, d’une membre morte trois ans plus tôt.
 
@@ -117,7 +117,7 @@ En surface, les paroles reprennent le jeu de chaises musicales de la comptine �
 
 Le critique musical Ma Shih-fang qualifiera plus tard le positionnement générationnel de Cao Dong de « **génération des losers** » :
 
-> 「詞刀刀見血，骨子裡是絕無出路的虛無，成為『崩世代』青年人樂於傳誦的佳句。」[^6]
+> « Des paroles qui tranchent jusqu’au sang, portées au fond par un néant sans issue : autant de formules que les jeunes de la “génération effondrée” se répètent avec délectation. »[^6]
 
 Ce positionnement devient un fait au cours de la décennie suivante : pendant six années consécutives, le vote de l’Université nationale des sciences et technologies de Taïwan sur « la chanson qui représente le mieux ma génération » place 〈大風吹〉 parmi les premières ; MC HotDog l’échantillonne ; à l’automne 2017, le cours « Sociologie des perdants » de Lee Ming-tsung, professeur assistant au département de sociologie de l’Université nationale de Taïwan, attire plus de 600 étudiants et sature la salle. [^7] Si une chanson peut faire cela, ce n’est pas parce qu’elle est agréable à écouter : c’est parce qu’elle **dit, pour toute une génération, ce qu’elle n’avait pas réussi à formuler elle-même**.
 
@@ -141,7 +141,7 @@ Les médias réduisent vite l’histoire à une « succession générationnelle 
 
 Wu Du refuse lui aussi ce récit lorsqu’il monte sur scène recevoir les prix. En recevant celui du meilleur groupe, il dit : « Ce prix appartient à tout le monde. » Pour le prix du meilleur nouvel artiste, les yeux embués, il dit : « Nous avons beaucoup de chance : dans tout ce néant, il y a toujours un groupe de personnes qui s’efforce de chercher la voix qui lui appartient. » Et à propos de Mayday :
 
-> 「不是競爭心態來看這件事，五月天的地位是無可取代的。」[^8]
+> « Ce n’est pas une question de rivalité : la place de Mayday est irremplaçable. »[^8]
 
 Cette nuit-là, deux générations de groupes se cèdent mutuellement la place ; cela aurait dû être le point culminant de la soirée. Mais les médias retiennent le titre « ils ont battu Mayday » et manquent ce moment de **reconnaissance réciproque**.
 
@@ -155,13 +155,13 @@ La batteuse Tsai Yi-fan, dite Fan-Fan, est retrouvée morte dans un hôtel de qu
 
 Le soir du 29 octobre, Fan-Fan, en quarantaine, publie sur Instagram son dernier texte public :
 
-> 「我最心痛的就是，我在隔離無法陪伴在側，甚至無法見到最後一面，已經哭到崩潰的我也不知道面對這一切⋯姊姊隔離結束第一件事就是領著所有行李往你身邊奔去，陪伴你人生的最後，姊姊愛你。」[^9]
+> « Ce qui me déchire le plus, c’est d’avoir été en quarantaine, de n’avoir pas pu être à ses côtés, de n’avoir même pas pu le voir une dernière fois ; effondrée à force de pleurer, je ne sais plus comment affronter tout cela… Dès la fin de ma quarantaine, ta grande sœur prendra ses bagages et courra vers toi, pour t’accompagner jusqu’au bout. Ta sœur t’aime. »[^9]
 
 Quinze heures plus tard, elle est retrouvée morte dans sa chambre d’hôtel.
 
 Dix-huit jours après, le 17 novembre 2021, Wu Du écrit publiquement à Fan-Fan sur Instagram :
 
-> 「連日思緒混亂，困在自我懷疑與遺憾的循環之中⋯很遺憾沒能給予更好地陪伴。」[^10]
+> « Des jours d’esprit confus, pris dans une boucle de doute et de regret… Je regrette de n’avoir pas su être davantage présent. »[^10]
 
 Le groupe entre alors dans un silence presque complet de près de deux ans. Pas de nouvelles chansons, pas d’entretiens, pas de concerts. En 2023, l’ancien bassiste Yang Shih-hsuan annonce une pause indéfinie. [^2] À ce moment-là, Cao Dong semble définitivement terminé.
 
@@ -201,7 +201,7 @@ Dans sa critique de l’album 《瓦合》 publiée en 2023, Tsai Yu a entièrem
 
 Le producteur Chou Yi-tun explique ce choix lexical dans un entretien :
 
-> 「這是一張表達遺憾，與人生中各種失望的專輯。」[^13]
+> « C’est un album qui dit le regret, et toutes les formes de déception qu’on rencontre dans une vie. »[^13]
 
 La page de garde de l’album indique : « Nous dédions respectueusement cet album à Fan-Fan. » [^12] La dernière nouvelle chanson est [〈但〉](https://www.youtube.com/watch?v=ovTiSA9T-RU), en anglais _Damn_ : le chanteur y crie presque « je t’aime », adressé à Fan-Fan. [^13]
 
@@ -213,7 +213,7 @@ _〈但〉 (\_Damn_) en 2023 : dernière nouvelle chanson de 《瓦合》, où l
 
 Dans un entretien lié à 《瓦合》, Wu Du parle de la manière dont le groupe a continué à écrire après la mort de Fan-Fan, avec cette phrase verbatim :
 
-> 「生命本就如此脆弱，萬物的死亡從不是結束，而是另種形式陪伴的延續。」[^19]
+> « La vie est fragile par nature ; la mort de toute chose n’est jamais une fin, mais la continuation d’une présence sous une autre forme. »[^19]
 
 Cette phrase explique pourquoi 《瓦合》 ne sonne pas comme un album qui aurait « traversé le deuil » : c’est **faire de la musique en continuant à vivre dans le deuil**.
 
@@ -259,7 +259,7 @@ Depuis ses débuts jusqu’à aujourd’hui, No Party for Cao Dong a accordé pe
 
 Ce n’est pas une posture de coolitude : c’est une éthique professionnelle. Ils refusent de se façonner en « personnalité consommable » : refus de vendre le quotidien sur Instagram, refus de passer par les variétés télévisées, refus de transformer la mort de Fan-Fan en capital narratif. Une phrase de Wu Du résume leur attitude créatrice :
 
-> 「我們很多作品聽起來暴力，但其實都是充滿了⋯愛。」[^16]
+> « Beaucoup de nos morceaux sonnent violents, mais au fond ils débordent… d’amour. »[^16]
 
 C’est ce qui distingue Cao Dong de la plupart des groupes taïwanais de la seconde moitié des années 2010 : **ils croient que le contenu d’une chanson doit être plus grand que la personnalité du chanteur**. Les fans peuvent reconnaître les accords de 〈大風吹〉 sans forcément reconnaître le visage de Wu Du : cette distance est délibérément préservée par le groupe.
 
@@ -273,7 +273,7 @@ Ils prouvent aussi quelque chose de plus difficile : **un groupe peut perdre un 
 
 En 2024, sur la scène des Golden Melody Awards, leur manager a dit :
 
-> 「在我們心中，草東沒有派對從來都不是只有站在舞台上的 4 個人。」
+> « Pour nous, No Party For Cao Dong n’a jamais été seulement les quatre personnes sur scène. »
 
 À cet instant, personne dans la salle ne rit, personne ne se lève pour acclamer. Tout le monde reste silencieux cinq secondes.
 
