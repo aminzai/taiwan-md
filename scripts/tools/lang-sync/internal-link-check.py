@@ -157,10 +157,10 @@ def main() -> int:
                 d = [(u, w) for u, w in d if u not in inherited]
         if d:
             try:
-            key = str(f.relative_to(REPO))
-        except ValueError:
-            key = str(f)  # 倉庫外的檔案（校準用的臨時樣本）也要能驗
-        out[key] = d
+                key = str(f.relative_to(REPO))
+            except ValueError:
+                key = str(f)  # 倉庫外的檔案（校準用的臨時樣本）也要能驗
+            out[key] = d
             total += len(d)
 
     if a.json:
