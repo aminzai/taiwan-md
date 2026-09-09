@@ -435,7 +435,20 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
       committed translation) does this actually unlink → true quarantine,
       article returns to the missing list.
 
-    Returns "restored" | "unlinked".
+    **2026-09-09 amendment — 「HEAD 沒有 = 本來就 missing」不再成立。** 那個推論
+    在產線是唯一寫入者時是對的。委派層（Haiku/Sonnet sub-agent）開始往同一批路徑
+    寫之後就不對了：它的產出經過九道閘、是好東西，只是還沒 commit。產線重譯同一篇
+    失敗時，看到「HEAD 沒有這個路徑」就把它當自己的殘骸 unlink——而且不留 log，
+    因為 restored 那行只在有 HEAD 版本時才印。實際損失：第一波驗過的
+    `id/Food/taiwan-bread-and-baking.md`（cloud log 1841 行只有一句 GATE FAIL）。
+    REFLEXES #91 兩個代謝不同步的新變體——不是「造了沒登記」，是「登記慢一步就被
+    另一個代謝當垃圾清掉」。
+
+    修法：unlink 之前先看這個路徑是不是 git 未追蹤的既有檔案。是的話搬進
+    `.babel-quarantine/` 而不是刪掉——真正的 P0 殘骸搬走跟刪掉對產線是一樣的
+    （佇列都會把它算成 missing 重派），但對「別人剛寫好的東西」差別是能不能救回來。
+
+    Returns "restored" | "unlinked" | "quarantined".
     """
     p = REPO / path_str
     check = subprocess.run(
@@ -451,6 +464,24 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
             log(f"♻️  restored {path_str} to HEAD version (寧可 stale 也不要 missing)")
             return "restored"
         log(f"⚠️  {path_str}: in HEAD but `git show` failed — unlinking as fallback")
+    # HEAD 沒有這個路徑。刪之前先分辨兩種情況：本輪剛寫壞的殘骸（該刪），
+    # 跟別人（委派層）已經寫好但還沒 commit 的成品（不該刪，搬走留底）。
+    if p.exists():
+        untracked = subprocess.run(
+            ["git", "ls-files", "--error-unmatch", path_str],
+            cwd=REPO, capture_output=True,
+        ).returncode != 0
+        if untracked:
+            qdir = REPO / ".babel-quarantine" / Path(path_str).parent
+            qdir.mkdir(parents=True, exist_ok=True)
+            dest = qdir / (Path(path_str).name + f".{int(time.time())}")
+            try:
+                p.replace(dest)
+                log(f"🧊 quarantined {path_str} → {dest.relative_to(REPO)}"
+                    f"（未追蹤檔案，可能是委派層產出，不直接刪）")
+                return "quarantined"
+            except OSError as e:
+                log(f"⚠️  {path_str}: 搬進隔離區失敗（{e}），改為 unlink")
     p.unlink(missing_ok=True)
     return "unlinked"
 
