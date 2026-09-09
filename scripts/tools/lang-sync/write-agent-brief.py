@@ -37,6 +37,37 @@ IMAGE_SOURCE_H2 = {
 }
 
 
+# SQUEEZE §第五層分派表的門檻。寫成常數而不是散在判斷式裡，是因為它是 canonical
+# 的數字，改它等於改分派政策——要能一眼看到、也要能一處改。
+HEAVY_FOOTNOTES = 30
+HEAVY_URLS = 40
+
+
+def delegation_tier(article: dict) -> dict:
+    """依 SQUEEZE §第五層分派表判斷這一篇該給誰。
+
+    為什麼要有這支：規則 2026-08-01 就寫在 canonical 裡（「累計失敗 ≥3 或引用密集
+    （腳註>30／URL>40）→ Sonnet 委派；5/5 收下累計敗 125 次的殘骸，換引擎救不了」），
+    但派工這一端沒有任何東西在執行它。2026-09-09 實測：我把一批高失敗的 pt 文章
+    全派給 Haiku，其中 91 腳註／135 URL 那篇交回來的腳註區跟中文原文一字不差、
+    URL 少 5 個、翻譯比 1.05；62 腳註那篇只翻出開頭四十行。同一批的 68 腳註那篇
+    倒是成功了（用掉 134K token），所以門檻不是懸崖是斜坡——但斜坡上該換車。
+
+    對照組說明了這個判準有多要緊：同一天的 vi 批次是按「missing 新到舊」排的，
+    引用密集的只佔 1/40，Haiku 幾乎全過；高失敗批次的引用密集佔 45-47%，因為
+    產線反覆撞牆的文章本來就偏向引用密集——這兩件事是同一個原因的兩面。
+    """
+    e = article.get("expected_structure") or {}
+    fn, urls = e.get("footnote_defs", 0), e.get("urls", 0)
+    heavy = fn > HEAVY_FOOTNOTES or urls > HEAVY_URLS
+    return {
+        "tier": "sonnet" if heavy else "haiku",
+        "why": (f"引用密集（腳註 {fn}／網址 {urls}，門檻 >{HEAVY_FOOTNOTES}／>{HEAVY_URLS}）"
+                "——SQUEEZE §第五層：這類換引擎救不了，要換模型"
+                if heavy else f"一般篇幅（腳註 {fn}／網址 {urls}）"),
+    }
+
+
 def guide_sections(lang: str) -> dict[str, str]:
     """從 `TRANSLATION-{lang}.md` 抽出 §Z2.0 指定要內嵌的那幾節原文。
 
@@ -278,6 +309,14 @@ def build(lang: str) -> dict:
             "不要 git commit / git add / git push，主 session 負責落地",
             "不要改 zh 原文",
             "完整翻譯不是摘要：不合併段落、不壓縮清單、不省略任何 H2、不省略任何腳註定義",
+            "**翻譯是你自己做，不是去呼叫翻譯後端**——不要跑 translate.py／ollama／OpenRouter／"
+            "任何 API。你被派到這裡，正是因為那些後端對這批文章做不到（免費池在腳註階段逾時、"
+            "本機模型超時）。2026-09-09 一隻 agent 花掉大半預算在嘗試那些工具、拿到 404 與 timeout，"
+            "最後只翻出 frontmatter 加開頭四十行就交件說「任務規模不切實際」；同一天另一隻對著一篇"
+            "更大的（91KB／55 腳註／30 個 H2）自己逐章翻完，七道閘全過。差別不在篇幅，在有沒有"
+            "把「翻譯」當成自己的工作。",
+            "長文的做法是逐章：讀一章、翻一章、`cat >>` 追加一章，不要先把整篇讀進來再想怎麼辦。"
+            "腳註定義區最後接、一次最多 15 條。這樣每次呼叫的大小只跟那一節有關，跟全文多大無關。",
         ],
     }
     # SQUEEZE §Z2.0 hard gate：目標語言 canonical guide 的關鍵 sections 必須內嵌，
@@ -321,11 +360,21 @@ def main() -> None:
         lang = first["articles"][0]["en_path"].split("/")[1]
 
     brief = build(lang)
+    tiers = {"haiku": 0, "sonnet": 0}
     for f in groups:
         j = json.loads(f.read_text(encoding="utf-8"))
         j["agent_brief"] = brief
+        for a in j.get("articles", []):
+            d = delegation_tier(a)
+            a["delegation_tier"] = d
+            tiers[d["tier"]] += 1
         f.write_text(json.dumps(j, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"✅ agent_brief（{lang}）寫進 {len(groups)} 份派工單")
+    print(f"   分派建議：haiku {tiers['haiku']} 篇 ／ sonnet {tiers['sonnet']} 篇"
+          f"（SQUEEZE §第五層：腳註 >{HEAVY_FOOTNOTES} 或網址 >{HEAVY_URLS} 走 sonnet）")
+    if tiers["sonnet"]:
+        print("   ⚠️ 派工前先看每篇的 delegation_tier；把 sonnet 那批派給 haiku 的實測後果是"
+              "腳註整區照抄原文、URL 缺漏、翻譯比掉到 1.05")
 
 
 if __name__ == "__main__":
