@@ -61,7 +61,21 @@ DEFAULT_LENGTH_SCALED = False
 DEFAULT_CJK_PER_MEDIA = 1200
 
 # Markdown image syntax: ![alt](src)
-_RE_INLINE_IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)\n]+)\)")
+#
+# 2026-09-09：`[^)\n]+` 在第一個 `)` 截斷，於是含括號的 Commons 網址被切一半——
+# CommonMark 規定這種網址要用 `<...>` 包起來（`<https://…/Foo_(12345)>`），而
+# prettier 會自動補上那層包裝。結果是：截斷後的字串不以 `/` 或 `http` 開頭，
+# 被當成本地路徑，報「圖片檔不存在」。譯者把 angle bracket 拿掉，下一次
+# commit 時 prettier 又加回去，來回無解。
+#
+# 同型病在 translate.py 的 URL tokenizer 修過兩次（BABEL-VORTEX-LOOP v1.19／
+# v1.20），這裡是第三個工具——angle-wrapped target 要整段吃下，不能靠右括號斷句。
+_RE_INLINE_IMAGE = re.compile(r"!\[([^\]]*)\]\((<[^>\n]+>|[^)\n]+)\)")
+
+
+def _img_src(m: "re.Match") -> str:
+    """取圖片 target，剝掉 CommonMark 的 angle bracket 包裝。"""
+    return m.group(2).strip().lstrip("<").rstrip(">").strip()
 # 2026-06-04: count 影片 iframe toward the media threshold (哲宇「圖+影片」directive).
 _RE_IFRAME = re.compile(r"<iframe[\s>]", re.IGNORECASE)
 # 2026-07-16: count tw-* 視覺化模組 toward the media threshold — EDITORIAL v6.5 band 定義
@@ -221,7 +235,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
 
     # ── 1. inline image references — broken-path / hot-link HARD gate ────────
     for m in inline_matches:
-        alt, src = m.group(1), m.group(2).strip()
+        alt, src = m.group(1), _img_src(m)
         line_no = body.count("\n", 0, m.start()) + 1
         if not _is_local_path(src):
             if not _is_allowed_external(src):
@@ -267,7 +281,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # 拆開後真訊號 11 篇。判準硬（同一個 src 字串在內文出現 ≥2 次），不需要判斷力。
     _seen_src: dict[str, int] = {}
     for m in inline_matches:
-        _seen_src[m.group(2).strip()] = _seen_src.get(m.group(2).strip(), 0) + 1
+        _seen_src[_img_src(m)] = _seen_src.get(_img_src(m), 0) + 1
     for src, n in _seen_src.items():
         if n >= 2:
             yield Violation(
