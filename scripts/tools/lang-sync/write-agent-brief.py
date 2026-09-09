@@ -261,6 +261,14 @@ def build(lang: str) -> dict:
             "subcategory": "保留中文原值不翻 —— 它是分類頁的分群鍵，翻掉那篇就從所屬群裡掉出去，落進『其他』",
             "_why_these_two_are_listed_apart": "2026-09-09 同一天兩隻 agent 把這兩條混成一條，都把 tags 當成 subcategory 保留了中文。兩條規則相反，不能寫在相鄰的行。",
             "title_description_imageAlt": "翻成目標語言",
+            "title_description_不能留漢字": (
+                "zh 標題常引用一個漢語詞當主題（〈原住民族正名：從「山胞」到憲法裡的集體主體〉、"
+                "〈原住民族姓名：從親名到「豆」「風」〉）。**把那個詞原樣搬進譯文的 title 或 description "
+                "會撞 verify-translation 的 hard 閘**——2026-09-10 一波裡 hi 與 ar 同時撞了三次。"
+                "正確做法：title／description 用目標語言的音譯或意譯（«पर्वतीय जन»、«دو» و«فنغ»），"
+                "**漢字原詞留在正文**，那裡有完整說明也不受這道閘限制。"
+                "不要為了避開它而把整個概念拿掉——那是刪內容換綠燈。"
+            ),
             "passthrough": "sporeLinks / researchReport / image / imageCredit / imageLicense / imageSource / relatedDiary / date / readingTime / featured / lastVerified / lastHumanReview 原樣保留，不要靜默丟掉",
             "translatedFrom": "逐字照抄 frontmatter_placeholder 的值，byte-equal，繁體字不可換成任何異體字",
         },

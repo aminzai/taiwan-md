@@ -4,7 +4,7 @@ description: '跨 session 程序記憶 catalog — 95 條 #N 反射（last #95�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.32'
+current_version: 'v5.33'
 last_updated: 2026-09-10
 last_session: '2026-09-09-140605-opentwbench（#67 子規則「工作樹本身可以是過期快照」補第四例 vc=4 並標記修法 ship——check-parallel-actor 進 wake-context groundtruth 委派＋落後數進 selftest，三態 dogfood 過；#N 條數維持 95，無新編號）'
 sister_docs:
@@ -283,6 +283,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **(f) 對照組要跟受測物在同一個執行環境**（2026-08-01 03:31 巡檢自撞）：想驗「我的改動有沒有製造新失敗」，把舊版腳本複製到 `/tmp` 跟現行版對跑——結果 25 檔全數「翻轉」，看起來像重大回歸。真因是那支腳本用 `Path(__file__).resolve().parent.parent.parent.parent` 算 REPO，放在 `/tmp` 就指到根目錄，20 筆全敗在「檔案不存在」。**我量到的是自己測試的 bug，不是程式差異**。放回 `scripts/` 同層重測才拿到真數字（轉綠 8、轉紅 0、不變 17）。規則：對照組腳本一律放回原目錄（改檔名即可），不要搬到 /tmp——任何用 `__file__` 推路徑的工具都會被搬家改變行為。
 - **Boundary**：(a) 純規範性 binary check（如「檔案存在」「frontmatter has X」）不適用 — 沒有 threshold (b) 安全性閘門（如 secret-scanner）不適用 — 寧可 false-positive 不可 false-negative，校準方向不對 (c) 適用範圍：所有 quality-scan / prose-health / verify-translation / footnote-completeness / paragraph-rhythm 等品質 plugin 的 threshold 數字
 - **觸發**：
+  - **2026-09-10 babel-vortex 「判準本身壞掉，量出來的是雜訊不是訊號」** — 要量「台灣人名被用漢語拼音寫」的全庫規模，第一版判準是「Zh／X／Q 開頭的大寫詞」（威妥瑪不用這些拼法），掃出 **49,322 處 / 4,652 檔**，數字大到像是重大發現。抽樣一看：法文 `Quand`、西文 `Quienes`、英文 `Quilt`——判準在拉丁語系裡撞上一般單字，命中率幾乎全是誤報。**沒抽樣的話，這個數字就會被寫進 OBSERVER-QUEUE 讓哲宇拿去做決定。**同一天另一次相反的例子：「台幣寫成當地貨幣」第一版掃出 1,068 處，抽樣發現 1,042 處是越南文 `đồng Đài Loan`（那是正確講法）的誤報，切掉之後才是 943 處真訊號。**規則不是「量完再抽樣」，是「抽樣通過之前那個數字不存在」**——報出去的數字會變成別人的決策依據，而未校準的判準產生的數字，錯的方向與幅度都無法預測。
   - **2026-09-10 babel-vortex 「簡體字集用 zh-TW 語料校準，卻拿去掃日文」**（(e) 的實例）— `cjk-leak-check.py` 的 `SIMPLIFIED_ONLY_CHARS` 是 2026-09-05 對 939 篇 **zh-TW** 語料校準出來的（刻意排除「台」「与」「无」等雙態字，校準紀錄寫得很仔細）。但同一個字集也拿去掃 ja 書目區，而日文新字體跟簡化字形本來就有交集：「台北市立**国**楽団」是台北市立國樂團的正確日文寫法。結果 ja 全庫 891 篇裡 **739 篇紅燈（83%）**，理由全是標準日文正字法。扣掉四個重疊字（国学画誉）後剩 99 篇——**640 篇是雜訊，訊號只有 13%**。校準語料涵蓋了它誕生的族群（zh-TW），沒涵蓋它實際會跑過的族群（ja）；而紅得沒道理的閘門，人會學會整道忽略，連那 99 篇真的也一起漏掉。
   - **2026-09-10 babel-vortex 「量測判準沒拿已知良品校準就報數」** — 同一天三次。(a) OBSERVER-QUEUE #57 的數字改了三次——178 行/86 檔（臨時 grep 把 frontmatter 的 provenance 欄位算成正文）→ 46 行/18 檔（我自己寫的 frontmatter toggle bug，正文的 `---` 水平分隔線讓整篇被跳過）→ 102 行/61 檔。(b) 幣別檢查第一版得到 12,899 處，**絕大多數是「Legislative Yuan／Executive Yuan」（立法院／行政院）根本不是貨幣**，加數字錨定與專名排除後收斂到 1,180 處。(c) 腳註格式近似判準得到 8,506 條/1,122 檔，抽驗十個已 commit 的檔全是 hard=0 才發現判準太鬆——真規則只命中一篇文章的五個語言版。新驗證：**新判準第一件事是拿「已知良品」跑一次**（已 commit 且通過既有閘門的檔案），命中率高得離譜就是判準錯而不是災情大。數字進 OBSERVER-QUEUE 之前必須先過這一關——哲宇會照那個數字決定要不要動 50 檔以上的工程。
   - **2026-06-06 viz驗證文 153433** — `paragraph-rhythm` tw-\* 折抵 cap 第一版設 5，被自己 dogfood 的 8 圖表 data panorama 打臉（仍 WARN 1.28）。哲宇 callout「8+3~5 資訊圖表啦」後改 13（commit f628f1cb2）— 憑想像設 5 太低
