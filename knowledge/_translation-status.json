@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T17:59:01+08:00",
-    "zhCommitHead": "a7d11aea0",
+    "lastUpdated": "2026-09-09T18:30:10+08:00",
+    "zhCommitHead": "a64efc73b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 83,
-        "metadata_stale": 26,
+        "metadata_stale": 25,
         "missing": 226,
         "orphan": 0
       },
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 574,
-        "stale": 50,
+        "fresh": 576,
+        "stale": 51,
         "metadata_stale": 12,
-        "missing": 485,
+        "missing": 482,
         "orphan": 0
       },
       "pt": {
@@ -85,25 +85,25 @@
       "hi": {
         "total_zh": 1121,
         "fresh": 652,
-        "stale": 40,
+        "stale": 43,
         "metadata_stale": 11,
-        "missing": 418,
+        "missing": 415,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
         "fresh": 711,
-        "stale": 50,
+        "stale": 52,
         "metadata_stale": 15,
-        "missing": 345,
+        "missing": 343,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
         "fresh": 750,
-        "stale": 44,
+        "stale": 46,
         "metadata_stale": 12,
-        "missing": 315,
+        "missing": 313,
         "orphan": 0
       },
       "de": {
@@ -6567,7 +6567,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/esun-financial-holding-digital-banking-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：玉山金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3400938387db0838",
+          "sourceBodyHash": "sha256:486e862869561dd4",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/esun-financial-holding-digital-banking-pioneer.md",
@@ -7538,7 +7549,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/advantech-technology.md",
+          "translatedFrom": "Economy/台灣企業：研華科技.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:73894dd98c9e1eee",
+          "sourceBodyHash": "sha256:96e60be7abecd0c6",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (5→0)"
         },
         "pt": {
           "path": "pt/Economy/advantech-technology.md",
@@ -22155,7 +22177,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/beverage-sealing-machine.md",
+          "translatedFrom": "Technology/飲料封膜機.md",
+          "sourceCommitSha": "073a02289",
+          "sourceContentHash": "sha256:f9e9a234cc5325c0",
+          "sourceBodyHash": "sha256:88a1bb16a9339997",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/beverage-sealing-machine.md",
@@ -39612,8 +39645,8 @@
           "sourceContentHash": "sha256:692645244e391abd",
           "sourceBodyHash": "sha256:28f054608fa81e22",
           "translatedAt": "2026-09-09T15:32:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a64efc73",
+          "translationLastModified": "2026-09-09T17:59:02+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -67349,7 +67382,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/yang-wei-cher.md",
+          "translatedFrom": "People/楊維哲.md",
+          "sourceCommitSha": "e03b004e8",
+          "sourceContentHash": "sha256:69fc2aa712d41a4f",
+          "sourceBodyHash": "sha256:dbdac5a6701910e0",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (13→0)"
         },
         "ru": {
           "path": "ru/People/yang-wei-cher.md",
@@ -67625,7 +67669,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/huang-brothers-youtubers.md",
+          "translatedFrom": "People/黃氏兄弟.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:9cd24907e804d8a5",
+          "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (13→0)"
         },
         "ar": {
           "path": "ar/People/huang-brothers-youtubers.md",
@@ -83801,7 +83856,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/brigitte-lin-legendary-actress.md",
+          "translatedFrom": "People/林青霞.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:2b4a824289c241f9",
+          "sourceBodyHash": "sha256:12badc0094297f08",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (5→0)"
         },
         "ar": {
           "path": "ar/People/brigitte-lin-legendary-actress.md",
@@ -86032,7 +86098,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/shao-you-lian.md",
+          "translatedFrom": "People/邵友濂.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:4246082bf9759556",
+          "sourceBodyHash": "sha256:92194eb97c902d4f",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (21→0)"
         },
         "de": {
           "status": "missing"
@@ -110203,13 +110280,46 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-vegetarian-culture.md",
+          "translatedFrom": "Food/台灣素食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (3→0)"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-vegetarian-culture.md",
+          "translatedFrom": "Food/台灣素食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (3→0)"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-vegetarian-culture.md",
+          "translatedFrom": "Food/台灣素食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (3→0)"
         },
         "de": {
           "status": "missing"
@@ -133814,8 +133924,8 @@
           "sourceContentHash": "sha256:e1b425fa54b86b70",
           "sourceBodyHash": "sha256:74aa4f956a297b47",
           "translatedAt": "2026-09-09T15:32:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a64efc73",
+          "translationLastModified": "2026-09-09T17:59:02+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -139407,18 +139517,16 @@
         "fr": {
           "path": "fr/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-26T03:41:21+08:00",
+          "translatedAt": "2026-09-09T16:46:11+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taichung-city.md",
