@@ -34,6 +34,22 @@ KANJI_LANGS = {"ja", "ko"}
 
 MIN_LEN = 25
 MIN_RATIO = 0.60
+# 只看佔比會漏掉「長句塞滿拉丁專名」的情形：es 的紀柏豪篇 30 秒概覽整段是中文，
+# 但夾了 Pohao Chi／Goldsmiths／MIT／Hello Nico／V2 等專名，佔比被稀釋到 0.36。
+# 非漢字語系的一行裡出現這麼多漢字，不可能是括號原名對照——那種對照都很短。
+MIN_ABS_CJK = 40
+# 括號裡的原名對照是房規（«ألف كلمة» (千言萬語) 這種），一行裡塞好幾個就會把
+# 絕對數推過門檻。算絕對數之前先把圓括號內容剝掉——但**不剝**「」與 « »，
+# 那些是引文，整句中文的引文正是要抓的東西。
+# 圓括號＝原名對照；書名號《》與篇名號〈〉＝作品名，房規是保留原名另給譯名
+# （`〈好想好好愛你〉 (أريد أن أحبك جيداً جداً)`）。這三種都不算「沒翻」。
+# **不**剝「」與 « »：那是引文，整句中文的引文正是要抓的東西。
+GLOSS = re.compile(r"[（(][^（()）]{0,80}[）)]|《[^》]{0,40}》|〈[^〉]{0,40}〉")
+# 腳註參照的標籤常是中文（`[^客新聞-宜蘭食安]`），那是 ID 不是內文、不會 render。
+# 一句正確的阿拉伯文後面掛五個這種標籤就會被誤判成整行未翻。
+FNREF = re.compile(r"\[\^[^\]]*\]")
+# 內文圖的 alt 在方括號裡，剝括號會連它一起藏起來，所以圖片行單獨判 alt 本身
+IMG = re.compile(r"^!\[([^\]]*)\]\([^)]*\)\s*$")
 
 # 參考／來源章節：底下的中文書目條目是真實來源的原名，保留是對的（同 [^n] 腳註）。
 # 第一版沒排除，de/en 的編號書目全被誤報。
@@ -84,10 +100,13 @@ def scan(path: Path) -> list[tuple[int, str]]:
             break                     # 參考章節以下不看
         if skip(line):
             continue
-        body = re.sub(r"\s", "", line)
+        m_img = IMG.match(line.strip())
+        probe = m_img.group(1) if m_img else GLOSS.sub("", FNREF.sub("", line))
+        body = re.sub(r"\s", "", probe)
         if len(body) < MIN_LEN:
             continue
-        if len(CJK.findall(line)) / len(body) >= MIN_RATIO:
+        n_cjk = len(CJK.findall(probe))
+        if n_cjk / len(body) >= MIN_RATIO or n_cjk >= MIN_ABS_CJK:
             hits.append((i, line.strip()))
     return hits
 
