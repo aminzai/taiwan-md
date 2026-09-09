@@ -70,6 +70,28 @@ for f in $FILES; do
   python3 scripts/tools/article-health.py "$f" --profile=pre-commit --quiet 2>&1 | grep -q "passed=False" && reasons+=("health")
   python3 scripts/tools/lang-sync/cjk-leak-check.py "$f" >/dev/null 2>&1 || review+=("leak")
   python3 scripts/tools/lang-sync/cjk-adjacency-check.py "$f" >/dev/null 2>&1 || review+=("adjacency")
+  # 契約長到九道閘之後，這支只驗到第七道就等於「我的尺比契約短」——agent 交回的
+  # 東西有一整類我量不到（2026-09-09 兩件都是這樣被漏掉的：站內連結指向中文頁、
+  # 自創的英文 slug 指向不存在的頁面）。閘門加進契約時，重驗器要一起長。
+  # --vs-source：只擋這一輪新造的死連結。zh 原文自己就連錯的（全庫 64 條 / 34 檔）
+  # 會讓每個語言版本都紅燈，而那不是譯者的錯也不是重譯能修的——那批屬 OBSERVER-QUEUE #55
+  # 的來源端存量。閘門紅得沒道理，人就會學會忽略它。
+  python3 scripts/tools/lang-sync/internal-link-check.py --vs-source "$f" >/dev/null 2>&1 \
+    || reasons+=("dead-links(譯者新造)")
+  # 站內連結在地化是「補做」不是「檢查」：agent 漏跑的話這裡跑完就對了，但要記一筆，
+  # 因為那代表它自述的第 8 道閘是假的（REFLEXES #31）。
+  nloc=$(python3 - "$f" "$lang" <<'PYEOF' 2>/dev/null
+import sys, pathlib
+sys.path.insert(0, "scripts/tools/lang-sync")
+from cross_link_localizer import load_index, localize_body
+p = pathlib.Path(sys.argv[1]); t = p.read_text(encoding="utf-8")
+new, n = localize_body(t, sys.argv[2], load_index())
+if n: p.write_text(new, encoding="utf-8")
+print(n)
+PYEOF
+)
+  [ "${nloc:-0}" != "0" ] && review+=("agent漏跑在地化(已補${nloc}個)")
+  grep -q "\[\[" "$f" && reasons+=("wikilink殘留")
 
   if [ ${#reasons[@]} -gt 0 ]; then
     fail=$((fail+1)); failed_list+=("$f: ${reasons[*]}")

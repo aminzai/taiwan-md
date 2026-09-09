@@ -75,6 +75,16 @@ def _index() -> tuple[dict, dict]:
     return per_lang, zh
 
 
+def _zh_source(f: Path) -> Path | None:
+    """從譯文的 translatedFrom 找 zh 來源（比從檔名反推可靠，slug 跟中文檔名本來就不對應）。"""
+    try:
+        head = f.read_text(encoding="utf-8", errors="ignore")[:4000]
+    except OSError:
+        return None
+    m = re.search(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", head, re.M)
+    return KNOWLEDGE / m.group(1).strip() if m else None
+
+
 def check_file(f: Path, idx) -> list[tuple[str, str]]:
     per_lang, zh = idx
     dead = []
@@ -106,6 +116,11 @@ def main() -> int:
     ap.add_argument("--lang")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--vs-source", action="store_true",
+                    help="只報譯者製造的死連結：拿譯文的死連結扣掉 zh 來源自己就有的那些。"
+                         "沒有這個開關時，一條 zh 原文自己就連錯的連結會讓每一個語言版本都紅燈，"
+                         "而那不是譯者的錯、也不是重譯能修的——那是來源端的維護工作。"
+                         "閘門要擋的是這一輪新造出來的破壞。")
     a = ap.parse_args()
 
     targets: list[Path] = [Path(x) for x in a.files]
@@ -127,6 +142,11 @@ def main() -> int:
             print(f"❌ 不存在：{f}", file=sys.stderr)
             return 2
         d = check_file(f, idx)
+        if d and a.vs_source:
+            src = _zh_source(f)
+            if src and src.exists():
+                inherited = {u for u, _ in check_file(src, idx)}
+                d = [(u, w) for u, w in d if u not in inherited]
         if d:
             out[str(f.relative_to(REPO) if f.is_absolute() else f)] = d
             total += len(d)
