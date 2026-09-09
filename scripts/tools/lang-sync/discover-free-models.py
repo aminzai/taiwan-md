@@ -55,7 +55,7 @@ MIN_SIZE_HINT_B = 30  # 2026-07-26 從 12 提到 30（哲宇 directive「至少�
 # 或加機器，不是降級模型。見 SQUEEZE §入池門檻。
 
 # 明確排除清單：即使通過其他篩選也不入池（實測品質不足）
-BLOCKED_MODELS = ("openai/gpt-oss-20b", "google/gemma-4-12b")
+BLOCKED_MODELS = ("openai/gpt-oss-20b", "google/gemma-4-12b")  # audit-ok: 拒絕清單，下架與否都不影響
 
 
 def load_key():
