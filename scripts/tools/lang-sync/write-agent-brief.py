@@ -313,6 +313,12 @@ def build(lang: str) -> dict:
             # 連結。2026-09-09 同一篇冰品文章的 ar 與 ru 版對這件事給了相反處理，
             # 因為契約沒說——現在說了。用 --vs-source 分辨是不是繼承來的。
             "python3 scripts/tools/lang-sync/internal-link-check.py --vs-source <目標路徑>   # 譯者新造的死連結 = 0",
+            # 數量級。中文的「萬」是 10⁴、「億」是 10⁸，跟各語言的
+            # thousand/million/billion／लाख/करोड़/अरब／nghìn/triệu/tỷ **不是一對一**。
+            # 換算正確的話數字串一定會變（23.3萬→2.33 लाख、630億→63 tỷ）；數字串沒變
+            # 就是沒換算。2026-09-09 全庫掃出 941 處 / 530 檔，前九道閘全綠——
+            # 它們量結構、語言、連結，沒有一道在算術。
+            "python3 scripts/tools/lang-sync/numeral-magnitude-check.py knowledge/<zh_path> <目標路徑>   # 量級可疑 = 0",
         ],
         "known_false_positives": {
             "list": [
