@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T20:08:28+08:00",
-    "zhCommitHead": "eda1c2348",
+    "lastUpdated": "2026-09-09T20:43:29+08:00",
+    "zhCommitHead": "d653a7c42",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 795,
+        "fresh": 797,
         "stale": 81,
         "metadata_stale": 22,
-        "missing": 223,
+        "missing": 221,
         "orphan": 0
       },
       "ja": {
@@ -44,17 +44,17 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 793,
+        "fresh": 794,
         "stale": 80,
         "metadata_stale": 23,
-        "missing": 225,
+        "missing": 224,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 791,
         "stale": 83,
-        "metadata_stale": 25,
+        "metadata_stale": 24,
         "missing": 223,
         "orphan": 0
       },
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 581,
+        "fresh": 586,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 480,
+        "missing": 475,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 776,
-        "stale": 72,
+        "fresh": 777,
+        "stale": 71,
         "metadata_stale": 17,
         "missing": 256,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 657,
+        "fresh": 660,
         "stale": 40,
         "metadata_stale": 11,
-        "missing": 413,
+        "missing": 410,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 715,
+        "fresh": 717,
         "stale": 50,
         "metadata_stale": 15,
-        "missing": 341,
+        "missing": 339,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 754,
+        "fresh": 756,
         "stale": 44,
         "metadata_stale": 11,
-        "missing": 312,
+        "missing": 310,
         "orphan": 0
       },
       "de": {
@@ -2730,18 +2730,16 @@
         "fr": {
           "path": "fr/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187a",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-06-17T01:18:26+08:00",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/little-tigers-taiwan-boy-band.md",
@@ -3280,18 +3278,16 @@
         "pt": {
           "path": "pt/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-09T12:26:58.621603+00:00",
           "translationLastCommit": "fff70d37",
           "translationLastModified": "2026-08-02T01:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/megaport-festival.md",
@@ -65170,7 +65166,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/taiwan-presidential-pets.md",
+          "translatedFrom": "Politics/總統的寵物.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:3392858fc71ecf5e",
+          "sourceBodyHash": "sha256:a651681f805672fe",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/taiwan-presidential-pets.md",
@@ -79664,7 +79671,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -79673,7 +79691,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -81727,7 +81756,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/li-guoxiu.md",
+          "translatedFrom": "People/李國修.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:11b55d270abdf3d3",
+          "sourceBodyHash": "sha256:7ab58584d6fb7af7",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/li-guoxiu.md",
@@ -103280,7 +103320,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chang-chung-jen-chung-i-twins.md",
+          "translatedFrom": "People/張忠仁與張忠義.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:be170ef9f4f5cc61",
+          "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -111687,7 +111738,18 @@
           "diffSummary": "+14 -3"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwanese-ice-cream-culture.md",
+          "translatedFrom": "Food/台灣冰品文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:81d7772de9e1a0c6",
+          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwanese-ice-cream-culture.md",
@@ -111706,7 +111768,18 @@
           "diffSummary": "+14 -3"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwanese-ice-cream-culture.md",
+          "translatedFrom": "Food/台灣冰品文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:81d7772de9e1a0c6",
+          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwanese-ice-cream-culture.md",
@@ -113426,13 +113499,46 @@
           "diffSummary": "+13 -3"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/hand-shaken-drink-culture.md",
+          "translatedFrom": "Food/台灣手搖飲文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/hand-shaken-drink-culture.md",
+          "translatedFrom": "Food/台灣手搖飲文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/hand-shaken-drink-culture.md",
+          "translatedFrom": "Food/台灣手搖飲文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -119591,7 +119697,18 @@
           "diffSummary": "+16 -3"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-fermented-and-pickled-foods.md",
+          "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-fermented-and-pickled-foods.md",
@@ -127437,7 +127554,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/indigenous-peoples-history-and-naming-movement.md",
+          "translatedFrom": "History/台灣原住民族歷史與正名運動.md",
+          "sourceCommitSha": "1e674def2",
+          "sourceContentHash": "sha256:5abb3efb22ea6c92",
+          "sourceBodyHash": "sha256:93eb4a0251be6dd2",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -134000,7 +134128,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/taoyuan-city.md",
+          "translatedFrom": "Geography/桃園市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9ad28e3ef58e22b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T11:48:10.343376+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/taoyuan-city.md",
@@ -134654,8 +134793,8 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-09T19:34:16+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -142357,7 +142496,18 @@
           "diffSummary": "+1 -3"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -153921,7 +154071,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/zhuyin-phonetic-symbols.md",
+          "translatedFrom": "Culture/注音符號.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:60ed5696349fd181",
+          "sourceBodyHash": "sha256:220255acfc6a8977",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "d653a7c4",
+          "translationLastModified": "2026-09-09T20:17:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/zhuyin-phonetic-symbols.md",
