@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T05:38:37+08:00",
-    "zhCommitHead": "b70b53c2e",
+    "lastUpdated": "2026-09-10T05:53:44+08:00",
+    "zhCommitHead": "079b04419",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 81,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 216,
         "orphan": 0
       },
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 716,
-        "stale": 48,
+        "fresh": 717,
+        "stale": 47,
         "metadata_stale": 11,
         "missing": 346,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 776,
-        "stale": 53,
+        "fresh": 777,
+        "stale": 52,
         "metadata_stale": 15,
         "missing": 277,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 49,
         "metadata_stale": 12,
-        "missing": 253,
+        "missing": 252,
         "orphan": 0
       },
       "de": {
@@ -32257,16 +32257,16 @@
         "hi": {
           "path": "hi/Art/national-taichung-theater.md",
           "translatedFrom": "Art/台中國家歌劇院.md",
-          "sourceCommitSha": "a6dadd56",
-          "sourceContentHash": "sha256:bc43817a123394b3",
-          "sourceBodyHash": "sha256:57a25e2a7fd07e8b",
-          "translatedAt": "2026-09-10T12:45:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-09T19:34:17+08:00",
           "translationLastCommit": "174a83b6",
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/national-taichung-theater.md",
@@ -70405,7 +70405,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chen-ssu-hung-writer.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-09T19:34:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -79188,18 +79199,16 @@
         "ar": {
           "path": "ar/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "16c428cd9",
-          "sourceContentHash": "sha256:94b77718dfa4da62",
-          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
-          "translatedAt": "2026-07-27T04:27:41+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:6c850ed56b9fd45a",
+          "sourceBodyHash": "sha256:f9ebc993a34e1749",
+          "translatedAt": "2026-09-09T21:52:05.067768+00:00",
           "translationLastCommit": "17592081",
           "translationLastModified": "2026-07-27T04:56:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/zun.md",
@@ -85546,18 +85555,16 @@
         "fr": {
           "path": "fr/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b6",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-07-27T06:47:50+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T21:35:35.279627+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/mona-rudao.md",
@@ -125896,8 +125903,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-09T19:34:18+08:00",
-          "translationLastCommit": "09302111",
-          "translationLastModified": "2026-09-10T03:30:44+08:00",
+          "translationLastCommit": "079b0441",
+          "translationLastModified": "2026-09-10T05:38:38+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
