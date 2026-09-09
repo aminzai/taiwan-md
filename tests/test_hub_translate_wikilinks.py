@@ -65,7 +65,11 @@ def test_build_wikilink_targets_resolves_known_and_marks_zh_only(tmp_path, monke
 
     target_map = HUB_TRANSLATE.build_wikilink_targets(zh_path, zh_to_lang_idx)
 
-    assert target_map["已有 vi 譯文的條目"] == "/vi/Culture/da-cheng-yi-you-yi-wen/"
+    # 分類段小寫。這一行 2026-09-09 前斷言的是 `/vi/Culture/...`——測試把
+    # `lookup_wikilink_target()` 直接拿檔案系統路徑當網址的行為當成規格寫死了，
+    # 而站上分類目錄一律小寫，大寫在 case-sensitive 主機上是 404。
+    # 本機 macOS 檔案系統不分大小寫，所以這個錯連測試都沒察覺。
+    assert target_map["已有 vi 譯文的條目"] == "/vi/culture/da-cheng-yi-you-yi-wen/"
     # prepare-batch.py 的既有慣例：沒解析到的 target 不是 None、也不是被省略的
     # key，是明確的 zh-only 提示字串，讓 armor_pre() 用 `startswith("/")` 判斷。
     assert target_map["沒有譯文的條目"] == "(zh only — convert to plain text + Chinese parenthesis)"
