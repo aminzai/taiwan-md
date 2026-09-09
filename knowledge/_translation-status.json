@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T20:43:29+08:00",
-    "zhCommitHead": "d653a7c42",
+    "lastUpdated": "2026-09-09T22:07:14+08:00",
+    "zhCommitHead": "b75e2dc21",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,34 +28,34 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 97,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 233,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 77,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 222,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 794,
+        "fresh": 796,
         "stale": 80,
-        "metadata_stale": 23,
-        "missing": 224,
+        "metadata_stale": 22,
+        "missing": 223,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 791,
-        "stale": 83,
-        "metadata_stale": 24,
-        "missing": 223,
+        "fresh": 796,
+        "stale": 82,
+        "metadata_stale": 21,
+        "missing": 222,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 586,
+        "fresh": 592,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 475,
+        "missing": 469,
         "orphan": 0
       },
       "pt": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 660,
-        "stale": 40,
+        "fresh": 664,
+        "stale": 42,
         "metadata_stale": 11,
-        "missing": 410,
+        "missing": 404,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 717,
-        "stale": 50,
+        "fresh": 721,
+        "stale": 51,
         "metadata_stale": 15,
-        "missing": 339,
+        "missing": 334,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 756,
-        "stale": 44,
+        "fresh": 758,
+        "stale": 46,
         "metadata_stale": 11,
-        "missing": 310,
+        "missing": 306,
         "orphan": 0
       },
       "de": {
@@ -2734,8 +2734,8 @@
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
           "translatedAt": "2026-09-09T19:34:15+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -3282,8 +3282,8 @@
           "sourceContentHash": "sha256:ded0e72872765bab",
           "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
           "translatedAt": "2026-09-09T12:26:58.621603+00:00",
-          "translationLastCommit": "fff70d37",
-          "translationLastModified": "2026-08-02T01:13:33+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -3908,18 +3908,16 @@
         "fr": {
           "path": "fr/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fa",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-24T03:00:00+08:00",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/chthonic.md",
@@ -14133,7 +14131,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/night-market-economics.md",
+          "translatedFrom": "Economy/夜市經濟學.md",
+          "sourceCommitSha": "7678a430b",
+          "sourceContentHash": "sha256:d707615db91a024a",
+          "sourceBodyHash": "sha256:7e08a20853bbe066",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/night-market-economics.md",
@@ -14150,7 +14159,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/night-market-economics.md",
+          "translatedFrom": "Economy/夜市經濟學.md",
+          "sourceCommitSha": "7678a430b",
+          "sourceContentHash": "sha256:d707615db91a024a",
+          "sourceBodyHash": "sha256:7e08a20853bbe066",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/night-market-economics.md",
@@ -15047,7 +15067,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/asus-computer.md",
+          "translatedFrom": "Economy/台灣企業：華碩.md",
+          "sourceCommitSha": "ccee078ef",
+          "sourceContentHash": "sha256:316e1a5e36d3a78b",
+          "sourceBodyHash": "sha256:fa3c598a1e033a14",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/asus-computer.md",
@@ -33201,18 +33232,16 @@
         "ja": {
           "path": "ja/Art/traditional-arts-of-taiwan.md",
           "translatedFrom": "Art/台灣傳統藝術.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
-          "translatedAt": "2026-06-16T17:10:30Z",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/traditional-arts-of-taiwan.md",
@@ -39582,7 +39611,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/tra-mingri-express.md",
@@ -52975,18 +53015,16 @@
         "fr": {
           "path": "fr/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "35f2a4dfb",
-          "sourceContentHash": "sha256:21d6ff8612c673fa",
-          "sourceBodyHash": "sha256:dcf98783ab9b2c72",
-          "translatedAt": "2026-05-26T05:10:58+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceBodyHash": "sha256:b139705eca5e1f54",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+34 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/taiwan-yuelao-matchmaker-map.md",
@@ -62401,18 +62439,16 @@
         "ko": {
           "path": "ko/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:00:18+08:00",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "6631c004",
           "translationLastModified": "2026-08-04T15:27:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/bird-window-collision-taiwan.md",
@@ -76416,7 +76452,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chi-cheng-flying-antelope.md",
+          "translatedFrom": "People/紀政.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ec85f3e1d7f5d977",
+          "sourceBodyHash": "sha256:5932775fa82a34d0",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "ar": {
           "path": "ar/People/chi-cheng-flying-antelope.md",
@@ -79677,8 +79724,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-09T19:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -79697,15 +79744,26 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-09T19:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tgop.md",
@@ -103326,8 +103384,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-09-09T19:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -109241,18 +109299,16 @@
         "fr": {
           "path": "fr/Food/taiwan-michelin-fine-dining.md",
           "translatedFrom": "Food/台灣米其林與精緻餐飲.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-michelin-fine-dining.md",
@@ -110525,34 +110581,30 @@
         "es": {
           "path": "es/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-sauces-and-seasonings.md",
@@ -116590,7 +116642,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwanese-turnip-cake.md",
+          "translatedFrom": "Food/蘿蔔糕.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:bfc99220dad6565a",
+          "sourceBodyHash": "sha256:a28947ebbfc382fe",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (10→0)"
         },
         "de": {
           "status": "missing"
@@ -117304,7 +117367,18 @@
           "diffSummary": "+14 -3"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/hakka-food-culture.md",
+          "translatedFrom": "Food/客家飲食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/hakka-food-culture.md",
@@ -117323,13 +117397,46 @@
           "diffSummary": "+14 -3"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/hakka-food-culture.md",
+          "translatedFrom": "Food/客家飲食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/hakka-food-culture.md",
+          "translatedFrom": "Food/客家飲食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/hakka-food-culture.md",
+          "translatedFrom": "Food/客家飲食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -118809,10 +118916,32 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/military-dependents-village-cuisine.md",
+          "translatedFrom": "Food/台灣眷村菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:065bf6354c8e6e97",
+          "sourceBodyHash": "sha256:c6f4891abde841e9",
+          "translatedAt": "2026-09-09T19:34:17+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/military-dependents-village-cuisine.md",
+          "translatedFrom": "Food/台灣眷村菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:065bf6354c8e6e97",
+          "sourceBodyHash": "sha256:c6f4891abde841e9",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/military-dependents-village-cuisine.md",
@@ -119573,19 +119702,52 @@
           "diffSummary": "+8 -2"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-specialty-home-cooking.md",
+          "translatedFrom": "Food/台灣手路菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-specialty-home-cooking.md",
+          "translatedFrom": "Food/台灣手路菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (11→0)"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-specialty-home-cooking.md",
+          "translatedFrom": "Food/台灣手路菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (11→0)"
         },
         "de": {
           "status": "missing"
@@ -119727,13 +119889,46 @@
           "diffSummary": "+16 -3"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-fermented-and-pickled-foods.md",
+          "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-fermented-and-pickled-foods.md",
+          "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-fermented-and-pickled-foods.md",
+          "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -121553,7 +121748,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/rover-incident-and-tauketok.md",
+          "translatedFrom": "History/羅發號事件與卓杞篤.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e90be2fbc74d7ed",
+          "sourceBodyHash": "sha256:38c21c047f01bdbf",
+          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/rover-incident-and-tauketok.md",
@@ -134134,8 +134340,8 @@
           "sourceContentHash": "sha256:9ad28e3ef58e22b2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T11:48:10.343376+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -136260,7 +136466,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
+          "translatedFrom": "Geography/台灣五大地形與地理結構.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b14a14cb2829b8df",
+          "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -142502,8 +142719,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-09T19:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -142527,7 +142744,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e421aaaba453df4c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T12:44:26.321037+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/penghu-folk-culture.md",
@@ -148563,7 +148791,18 @@
           "diffSummary": "+8 -2"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-baseball-culture.md",
+          "translatedFrom": "Culture/台灣棒球文化.md",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "50edd512",
+          "translationLastModified": "2026-09-09T20:57:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-baseball-culture.md",
