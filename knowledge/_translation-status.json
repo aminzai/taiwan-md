@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T07:26:57+08:00",
-    "zhCommitHead": "d9eb34f93",
+    "lastUpdated": "2026-09-10T07:48:27+08:00",
+    "zhCommitHead": "43f9f2077",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 649,
-        "stale": 56,
+        "fresh": 650,
+        "stale": 55,
         "metadata_stale": 10,
         "missing": 406,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 786,
         "stale": 70,
         "metadata_stale": 16,
-        "missing": 250,
+        "missing": 249,
         "orphan": 0
       },
       "hi": {
@@ -85568,8 +85568,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T21:35:35.279627+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "43f9f207",
+          "translationLastModified": "2026-09-10T07:26:57+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -109978,18 +109978,16 @@
         "id": {
           "path": "id/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/night-market-culture.md",
@@ -129843,8 +129841,8 @@
           "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-10T05:34:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43f9f207",
+          "translationLastModified": "2026-09-10T07:26:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -145445,7 +145443,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/penghu-folk-culture.md",
