@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-09 babel-vortex — every-gate-measures-form-none-measures-the-language：整套翻譯閘門沒有一道在問「這是不是目標語言」
+
+- **pattern**: `every-gate-measures-form-none-measures-the-language`
+- **原則**：翻譯產線的閘門全部在量**形式**——結構數字對不對、有沒有中文殘留、網址一不一致、frontmatter 欄位齊不齊。一篇**英文**文章滿足這些條件的程度，跟目標語言文章一模一樣。於是「譯文是不是那個語言」這個最基本的意義，在整條線上沒有任何一個位置在檢查，而它也不會在下游被發現——會發現的是讀者。
+- **觸發**：2026-09-09 Haiku 委派層第一批，一篇 `Technology/Threads在台灣.md` 交回**英文**寫進 `knowledge/de/`。六道閘全部給綠燈：`enrich --check` 腳註 55/55、H2 30/30、網址 71/71；`verify-translation` 17 pass exit 0；`cjk-leak-check` 0 處；`cjk-adjacency-check` 0 處；`article-health --profile=pre-commit` hard=0。抓到它靠的是我抽看正文第一行。造 `target-language-check.py` 後全庫掃描 9,161 檔，**再找出 65 篇同型**：ja 22、ko 17、es 13、fr 9、de/hi/id/ru 各 1，其中 61 篇實際是英文，`es/People/teresa-teng.md` 裝的是**法文**。人工抽驗 3/3 真陽性。
+- **為什麼閘門這麼多年沒人發現這個洞**：因為每一道閘都是為了接住某次具體的失敗而生的——URL 被改、腳註掉光、整段沒翻、中文殘留。**沒有一次失敗長成「整篇語言錯」的形狀**，直到委派層把「決定用什麼語言寫」這件事交給了一個會自己判斷的模型。產線 dispatcher 不會犯這個錯，因為語言是它 prompt 組出來的參數；委派層會，因為那是 agent 自己讀出來的。**新的執行層會長出舊閘門沒設想過的失敗形狀。**
+- **可能層級**：REFLEXES #69「每層自評都需要外部尺」的新 instance，但有一個少見的性質——#69 家族的多數 instance（意義精度、spine 選擇、語態錯位）只有人接得住，這一條**是機械可檢的**：非拉丁語系看字符集、拉丁語系看功能詞佔比，兩者都不需要判斷力。這類「本來以為只有人能接、其實可以儀器化」的格子值得單獨標記，因為它直接對應 MANIFESTO §14「高儀器化，必要時才用 LLM——判斷力是稀缺資源」。
+- **已做**：`target-language-check.py`（字符集 + 功能詞雙判準，刻意不引入 langdetect：多一個相依就是產線多一個會壞的地方）接進 `babel-dispatch.py` `verify_one()` 第一關，並列為委派層交件前第一道閘。跑過 end-to-end smoke。65 篇存量屬 >50 檔紅線 → [OBSERVER-QUEUE #53](OBSERVER-QUEUE.md)。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[REFLEXES #69](REFLEXES.md)（fold 方向）/ [REFLEXES #31](REFLEXES.md)（agent 自述不算數——本次同批 9 篇裡 2 篇 agent 說「檢查器誤判」實測是真問題）/ [MANIFESTO §14](MANIFESTO.md) / 盤點報告 [reports/babel/wrong-language-inventory-2026-09-09.md](../../reports/babel/wrong-language-inventory-2026-09-09.md)
+
+### 2026-09-09 babel-vortex — bibliography-exemption-covers-sentences-not-just-titles：書目區豁免放行的不只是來源標題，還有整句沒翻的中文
+
+- **pattern**: `bibliography-exemption-covers-sentences-not-just-titles`
+- **原則**：一道閘門的豁免範圍是用**位置**定義的（「參考資料標題到檔尾」），但它要豁免的東西是用**性質**定義的（「中文來源標題，讀者要靠它找到原文」）。位置比性質寬，於是落在那個位置的其他東西——完整的中文句子——也一起被放行。
+- **觸發**：2026-09-09 委派層 `Economy/中壢.md` 的德文版，「## Bildquellen」段落裡是中德混雜的重複：`...jpg，原始圖片網址為 die ursprüngliche Bild-URL ist https://...`。中文原句「，原始圖片網址為」「，授權為」留著，後面又接德譯。`cjk-leak-check` 全部放行——因為 2026-09-05 剛加的書目區判定把「參考資料／延伸閱讀等標題到檔尾」整段判為書目區。同一段還有兩處反引號沒收尾把 URL 多吃一個字元（那個是 `verify-translation` 的 URL multiset 抓到的，1 hard fail）。
+- **邊界該怎麼收**：書目區豁免的原始理由（哲宇 2026-09-05 拍板 OBSERVER-QUEUE #23 選 A）是正確的——讀者要靠中文來源標題找到原文出處。但豁免該只覆蓋 `[^N]:` 腳註定義行裡的**連結錨字**與獨立的來源標題，不該覆蓋書目區裡的**散文句**。候選判準：豁免只適用於「該行是腳註定義」或「該中文片段被 markdown 連結語法包住」，其餘中文在書目區裡一樣算洩漏。
+- **可能層級**：REFLEXES #83「checker 兩把尺 divergence」的鄰居，但更接近「豁免範圍用位置定義、要豁免的東西用性質定義」這個更一般的形狀。也可讀成 #38 混維度的變體：一個位置承載了兩種性質的內容，而閘門只看位置。
+- **verification_count**: 1
+- **severity**: tactical
+- **相關**：[REFLEXES #83](REFLEXES.md) / [REFLEXES #38](REFLEXES.md) / `cjk-leak-check.py` 的 `find_bibliography_start()` / [OBSERVER-QUEUE #23](OBSERVER-QUEUE.md)（豁免的來源決策）
+
 ### 2026-09-09 twmd-maintainer-am — documented-gate-never-wired-to-the-line：pipeline 寫成「四道閘之一」的偵測器，產線一個月來從沒呼叫過它
 
 - **pattern**: `documented-gate-never-wired-to-the-line`
