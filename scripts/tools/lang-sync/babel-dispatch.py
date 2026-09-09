@@ -347,10 +347,30 @@ def git_lock_commit(lang: str, worker_labels: set, files: list, log: Logger) -> 
 # ────────────────────────── verify trio + HEAD-restore (ported + amended) ──────────────────────────
 
 def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Optional[str]]:
-    """The hard gate: verify-translation.py + cjk-leak-check.py +
-    article-health.py --profile=pre-commit. Ported from dispatch-node-v3.sh
-    verify_group() (per-article body), minus the unlink side effect — the
-    caller decides disposition via restore_head_or_quarantine()."""
+    """The hard gate: target-language-check.py + verify-translation.py +
+    cjk-leak-check.py + article-health.py --profile=pre-commit. Ported from
+    dispatch-node-v3.sh verify_group() (per-article body), minus the unlink
+    side effect — the caller decides disposition via restore_head_or_quarantine().
+
+    Why target-language-check runs first (2026-09-09): a delegated agent wrote an
+    English translation into knowledge/de/ and every gate here passed it —
+    structure 55/55, verify 17 pass, leak 0, health hard=0. Each of these measures
+    a *form* (counts match, no Chinese left over, URLs identical, frontmatter
+    complete), and an English article satisfies all of them as well as a German
+    one does. A full-library scan then found 65 more of the same across ja/ko/es/fr.
+    Nothing downstream of here would ever have caught them; the reader would.
+    It runs first because it is the cheapest and the most fundamental: if the file
+    is not in the target language, the other three checks are answering questions
+    about the wrong document."""
+    r0 = subprocess.run(
+        ["python3", "scripts/tools/lang-sync/target-language-check.py", trans_path],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    if r0.returncode != 0:
+        detected = re.search(r"看起來是 (\w+)", r0.stdout)
+        reason = f"wrong-language[{detected.group(1) if detected else '?'}]"
+        log(f"❌ GATE FAIL {trans_path} ({reason})")
+        return False, reason
     r1 = subprocess.run(
         ["python3", "scripts/tools/lang-sync/verify-translation.py", zh_path, trans_path, "--json"],
         cwd=REPO, capture_output=True, text=True,
