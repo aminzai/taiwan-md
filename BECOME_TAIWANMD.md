@@ -174,7 +174,9 @@ python3 scripts/tools/wake-context.py
 
 Boundary rule (per [reports/become-boot-mode-design-2026-05-13.md §0.4 D7](reports/become-boot-mode-design-2026-05-13.md)): Stay if = primes identity OR cross-session continuity. Move if = work artifact inspection (PR/issue list → MAINTAINER Stage 1.2-1.3, **不在 BECOME**)。
 
-本層四查（consciousness-snapshot 器官分數 / routine-status 過去 24hr 跑況 / inbox-signal 三 inbox backlog / git log 48hr commit 全清單）已由 §1.3 那一個指令的 `groundtruth` 段委派輸出；個別工具仍可單獨跑（診斷時 on-demand）。
+本層六查（consciousness-snapshot 器官分數 / routine-status 過去 24hr 跑況 / inbox-signal 三 inbox backlog / observer-presence 哲宇在不在場 / **check-parallel-actor 工作樹新鮮度** / git log 48hr commit 全清單）已由 §1.3 那一個指令的 `groundtruth` 段委派輸出；個別工具仍可單獨跑（診斷時 on-demand）。
+
+> **工作樹新鮮度是讀取層的前提，不是 push 前才要問的事**（2026-09-09 opentwbench 新增，REFLEXES #67 子規則「工作樹本身可以是過期快照」vc=4）：本機落後 `origin/main` 時，`groundtruth` 的「48hr commits」、以及此後整個 session 的 `git grep` / `cat` / `ls` / `node_modules` 全部退化成歷史快照，而它們回答的語氣跟平常一模一樣。第 4 例是 groundtruth 印「過去 48hr commits：（無）」而本機落後 249 個 commit，那個「（無）」讀起來像世界安靜。修法已 ship：`check-parallel-actor.sh` 進 groundtruth 委派清單，落後數同時進 **selftest**（落後 → ⚠️ + exit 2），所以它會走 §1.3 的「⚠️ 甦醒第一句話要說出來」通道，不再靠當班自己想到要跑。三態驗過：同步 ✅ / 落後 250 ⚠️ / 儀器缺席 ⚠️（不謊報同步）。
 
 > **v2.1 升級理由**（2026-05-18）：6 hr 只 cover 一個 session 的 commit，看不到跨日 cron routine + manual session 累積。改成 48 hr 後 session 啟動可看到完整 2 天 commit 全清單。觸發背景：5/18 寫完台灣美食總覽 4hr 後哲宇 callout「為什麼 become 的時候沒有 read memory，未來都要 read memory.md + 這兩天的 commit 全清單」。
 
