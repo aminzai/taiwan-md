@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T00:08:43+08:00",
-    "zhCommitHead": "1fb806c4b",
+    "lastUpdated": "2026-09-10T00:14:33+08:00",
+    "zhCommitHead": "90b5d8ed7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,42 +20,42 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 798,
+        "fresh": 805,
         "stale": 81,
-        "metadata_stale": 21,
-        "missing": 221,
+        "metadata_stale": 20,
+        "missing": 215,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 759,
+        "fresh": 762,
         "stale": 97,
         "metadata_stale": 32,
-        "missing": 233,
+        "missing": 230,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 807,
         "stale": 77,
         "metadata_stale": 20,
-        "missing": 222,
+        "missing": 217,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 805,
         "stale": 79,
         "metadata_stale": 20,
-        "missing": 223,
+        "missing": 217,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 796,
+        "fresh": 801,
         "stale": 82,
         "metadata_stale": 21,
-        "missing": 222,
+        "missing": 217,
         "orphan": 0
       },
       "vi": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 602,
+        "fresh": 603,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 460,
+        "missing": 459,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 779,
+        "fresh": 783,
         "stale": 70,
         "metadata_stale": 16,
-        "missing": 256,
+        "missing": 252,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 729,
+        "fresh": 734,
         "stale": 50,
         "metadata_stale": 14,
-        "missing": 328,
+        "missing": 323,
         "orphan": 0
       },
       "ru": {
@@ -12547,7 +12547,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -12567,10 +12578,32 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/zhongli.md",
@@ -39702,7 +39735,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:928aabb44491a861",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T13:51:51.070105+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/tra-mingri-express.md",
@@ -76429,7 +76473,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-09T19:34:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tsai-heipi.md",
@@ -79851,7 +79906,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:6757eecf44fc9b6a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T12:11:33.077260+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -83969,7 +84035,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ea846eb0ccd40f2d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T15:33:04.052989+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/freddy-lim.md",
@@ -114097,7 +114174,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-indigenous-foodways.md",
+          "translatedFrom": "Food/台灣原住民飲食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-indigenous-foodways.md",
@@ -114440,19 +114528,63 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/dandan-hamburger.md",
@@ -115014,19 +115146,63 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/tainan-danzai-noodles.md",
@@ -115043,7 +115219,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -115052,7 +115239,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-09T19:34:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/tainan-danzai-noodles.md",
@@ -115139,19 +115337,63 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwanese-tofu-pudding.md",
+          "translatedFrom": "Food/豆花.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
+          "sourceBodyHash": "sha256:b309cbb9088a34f0",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/taiwanese-tofu-pudding.md",
+          "translatedFrom": "Food/豆花.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
+          "sourceBodyHash": "sha256:b309cbb9088a34f0",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/taiwanese-tofu-pudding.md",
+          "translatedFrom": "Food/豆花.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
+          "sourceBodyHash": "sha256:b309cbb9088a34f0",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/taiwanese-tofu-pudding.md",
+          "translatedFrom": "Food/豆花.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
+          "sourceBodyHash": "sha256:b309cbb9088a34f0",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwanese-tofu-pudding.md",
@@ -116097,19 +116339,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-09T22:08:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-09T21:26:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-tea-eggs.md",
@@ -116835,16 +117132,49 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwanese-turnip-cake.md",
+          "translatedFrom": "Food/蘿蔔糕.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:bfc99220dad6565a",
+          "sourceBodyHash": "sha256:a28947ebbfc382fe",
+          "translatedAt": "2026-09-09T22:08:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/taiwanese-turnip-cake.md",
+          "translatedFrom": "Food/蘿蔔糕.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:bfc99220dad6565a",
+          "sourceBodyHash": "sha256:a28947ebbfc382fe",
+          "translatedAt": "2026-09-09T22:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/taiwanese-turnip-cake.md",
+          "translatedFrom": "Food/蘿蔔糕.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:bfc99220dad6565a",
+          "sourceBodyHash": "sha256:a28947ebbfc382fe",
+          "translatedAt": "2026-09-09T22:08:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -116878,7 +117208,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwanese-turnip-cake.md",
+          "translatedFrom": "Food/蘿蔔糕.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:bfc99220dad6565a",
+          "sourceBodyHash": "sha256:a28947ebbfc382fe",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwanese-turnip-cake.md",
@@ -118763,7 +119104,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-bread-and-baking.md",
+          "translatedFrom": "Food/台灣麵包與烘焙.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:dc1169789f149357",
+          "sourceBodyHash": "sha256:86fbaa53393cb1b7",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-bread-and-baking.md",
@@ -119606,7 +119958,18 @@
           "diffSummary": "+9 -3"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/bubble-tea.md",
+          "translatedFrom": "Food/珍珠奶茶.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4b6c70d0fd8de132",
+          "sourceBodyHash": "sha256:402d0d087252b30e",
+          "translatedAt": "2026-09-09T19:34:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/bubble-tea.md",
@@ -119994,7 +120357,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-specialty-home-cooking.md",
+          "translatedFrom": "Food/台灣手路菜.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-specialty-home-cooking.md",
@@ -138422,18 +138796,16 @@
         "en": {
           "path": "en/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-05-18T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T16:10:37.157270+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/penghu-county.md",
@@ -139720,8 +140092,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-09-09T23:25:31+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "90b5d8ed",
+          "translationLastModified": "2026-09-10T00:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -140251,8 +140623,8 @@
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
           "translatedAt": "2026-09-09T23:25:31+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "90b5d8ed",
+          "translationLastModified": "2026-09-10T00:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -146028,7 +146400,18 @@
           "diffSummary": "+1 -1"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/wretch.md",
+          "translatedFrom": "Culture/無名小站.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bb3880571afae296",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T12:00:50.167069+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
