@@ -205,7 +205,15 @@ def _check_translation(
         yield Violation(
             check=CHECK_NAME,
             severity=DEFAULT_SEVERITY,
-            message=f"description 太長（{lang}）— {d_len} 字元 > 上限 {desc_max}",
+            # 2026-09-10：訊息原本只說「太長」，於是委派層的 agent 看到就硬砍譯文——
+            # 一個下午三隻這樣做，其中一隻把「凝成一碗台灣人各自有答案的甜品」這個
+            # 整篇的編輯論點砍掉了。fix_suggestion 早就寫了正確做法，但沒人讀到那裡。
+            # 把「不要硬砍」搬進 message 本身。
+            message=(
+                f"description 太長（{lang}）— {d_len} 字元 > 上限 {desc_max}"
+                "（warn 不是 hard；**不要硬砍譯文**，要嘛保留忠實翻譯、要嘛替該語言"
+                "獨立重寫一段落在閾值內且保住核心論點的 description）"
+            ),
             line=1,
             snippet=description[:120] + "…",
             editorial_ref=EDITORIAL_REF,

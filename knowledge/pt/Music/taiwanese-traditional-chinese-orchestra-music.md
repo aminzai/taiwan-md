@@ -45,7 +45,7 @@ Erhu, pipa, flauta (dizi) e guzheng. Esses instrumentos em si não têm posiçã
 
 Com essa carga de significado, a Guoyue cruzou o mar para Taiwan.
 
-Mas Taiwan não era uma página em branco. A ilha já tinha a tradição dos templos do Nanguan e do Beiguan[[台灣民謠與歌謠|南管]], a flauta de boca e o tambor de madeira dos povos indígenas, e a base da educação musical ocidental deixada durante o período do domínio japonês[^5]. Quando a "Guoyue" foi transplantada para esta ilha que já tinha som, era inevitável que ela crescesse de forma diferente.
+Mas Taiwan não era uma página em branco. A ilha já tinha a tradição dos templos do Nanguan e do Beiguan[南管](/pt/music/taiwan-folk-music-and-songs/), a flauta de boca e o tambor de madeira dos povos indígenas, e a base da educação musical ocidental deixada durante o período do domínio japonês[^5]. Quando a "Guoyue" foi transplantada para esta ilha que já tinha som, era inevitável que ela crescesse de forma diferente.
 
 > **📝 Nota da Curadoria**
 > A educação em Guoyue em Taiwan sempre se separou da educação em ópera. A Academia Nacional de Ópera de Taiwan (antiga Escola de Revival, fundada em 1957) focava na música da ópera, enquanto a Universidade Nacional de Artes de Taiwan (antiga Escola de Artes, fundada em 1955) desenvolveu a performance instrumental pura[^6]. Essa divisão de trabalho é rara nas regiões de língua chinesa — as academias de música da China continental geralmente colocam a ópera e a música popular/étnica no mesmo sistema. O resultado da separação foi: a Guoyue de Taiwan seguiu desde o início a rota da "música pura", em vez de uma função de acompanhamento subordinada à ópera.
@@ -74,13 +74,13 @@ O ponto de virada da TCO ocorreu em 2007. O compositor Chung Yao-kwang assumiu a
 
 A solução de Chung Yao-kwang foi encomendar muitas novas obras a compositores taiwaneses, com foco em histórias locais de Taiwan. Durante seus oito anos de mandato (2007-2015), a estrutura do repertório da TCO mudou de predominância de repertório chinês tradicional para maioria de originais taiwaneses[^12]. Essa estratégia não era apenas uma necessidade de correção política — resolvia um problema real de mercado: o público taiwanês precisava de um motivo para entrar na sala de concertos de Guoyue, e "esta música fala sobre o que está perto da sua casa" era esse motivo.
 
-Na mesma época, a Orquestra Nacional de Kaohsiung (KCO, anteriormente fundada como Orquestra de Guoyue dos Professores de Kaohsiung em 1979, assumindo o nome atual em 2000) trilhava outro caminho no sul de Taiwan[^13]. A KCO apresentava massivamente arranjos de[[台灣客家音樂|música hakka]] e canções populares em taiwanês, formando uma diferença estilística entre o norte e o sul em relação à TCO do norte.
+Na mesma época, a Orquestra Nacional de Kaohsiung (KCO, anteriormente fundada como Orquestra de Guoyue dos Professores de Kaohsiung em 1979, assumindo o nome atual em 2000) trilhava outro caminho no sul de Taiwan[^13]. A KCO apresentava massivamente arranjos de[música hakka](/pt/music/taiwan-hakka-music-from-mountain-songs-to-rock/) e canções populares em taiwanês, formando uma diferença estilística entre o norte e o sul em relação à TCO do norte.
 
 ## Su Wen-ching: Aquele que Escreve Endereços de Taiwan com Guoyue
 
 Se fosse para escolher uma pessoa para representar o início da "criação de Guoyue de estilo taiwanês", a maioria dos musicólogos apontaria para Su Wen-ching (蘇文慶)[^14].
 
-Su Wen-ching (nascido em 1958) é um dos poucos compositores que sempre insistiu em usar a Guoyue para contar histórias de Taiwan. Sua lista de obras principais é, ela mesma, um mapa de Taiwan: "A Lenda do Leão do Vento" (Fengshiyeh) é baseada na crença dos leões de pedra de[[離島與海洋文化|Kinmen]], "Suite de Reflexão de Taiwan" tem o nome da ilha diretamente, e o concerto para liuqin "Pátio após a Chuva" descreve o ar após a estação chuvosa de Taiwan[^15].
+Su Wen-ching (nascido em 1958) é um dos poucos compositores que sempre insistiu em usar a Guoyue para contar histórias de Taiwan. Sua lista de obras principais é, ela mesma, um mapa de Taiwan: "A Lenda do Leão do Vento" (Fengshiyeh) é baseada na crença dos leões de pedra de[Kinmen](/pt/geography/offshore-islands-and-maritime-culture/), "Suite de Reflexão de Taiwan" tem o nome da ilha diretamente, e o concerto para liuqin "Pátio após a Chuva" descreve o ar após a estação chuvosa de Taiwan[^15].
 
 "Quero usar o vocabulário da Guoyue para contar a história da terra de Taiwan." Su Wen-ching disse em uma entrevista à revista "Chuan Yi" (傳藝)[^16]. Essa frase soa como senso comum nos anos 2020, mas nos anos 1980, no círculo da Guoyue, era uma posição que exigia coragem. A concepção mainstream da época era: a Guoyue deveria tocar repertórios clássicos chineses; escrever sobre temas de Taiwan era "rebaixar o nível".
 
@@ -104,7 +104,7 @@ Após 1949, a Guoyue dos dois lados do estreito seguiu caminhos separados por se
 
 ## Música Indígena Encontra o Erhu: O Experimento Mais Audacioso da Guoyue de Taiwan
 
-A característica evolutiva mais única da Guoyue de Taiwan é que ela trouxe a música dos[[台灣原住民族16族文化地圖|povos indígenas de Taiwan]] para a formação da Guoyue.
+A característica evolutiva mais única da Guoyue de Taiwan é que ela trouxe a música dos[povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map/) para a formação da Guoyue.
 
 Isso é bastante radical na musicologia. O sistema de escalas da Guoyue é baseado na escala pentatônica han, enquanto a música dos povos indígenas de Taiwan — especialmente o pasibutbut do povo Bunun (canto de oração pela colheita de arroz) — usa um sistema de harmônicos completamente diferente[^25]. Escrever a música do povo Bunun na Guoyue não é apenas trocar a melodia; é fazer dois sistemas musicais coexistirem na mesma peça.
 
@@ -133,7 +133,7 @@ Uma mudança pouco notada, mas de grande significado: Taiwan começou a fazer se
 
 Inicialmente, os instrumentos de Guoyue de Taiwan dependiam inteiramente de importações da China continental ou de Hong Kong. Empresas taiwanesas como a Xianjin Guoyue Shop e a Chang'an Music foram inicialmente agentes[^30]. Mas à medida que o nível de performance local melhorava, os músicos começaram a exigir requisitos mais refinados para os instrumentos — os instrumentos em massa produzidos na China continental nem sempre se adequavam aos hábitos e estéticas dos músicos taiwaneses.
 
-Luthiers taiwaneses começaram a tentar usar madeiras locais. Alguns usaram a madeira de[[台灣森林開發史|camphor]] de Taiwan para fazer a caixa de ressonância do guzheng, descobrindo que o timbre era mais brilhante e a ressonância mais longa do que a tradicional madeira de paulownia[^31]. Isso não é nacionalismo de "feito em Taiwan", é uma descoberta acústica prática: madeiras diferentes realmente produzem sons diferentes, e a madeira de Taiwan cresce no clima de Taiwan, carregando a umidade e a variação térmica desta ilha.
+Luthiers taiwaneses começaram a tentar usar madeiras locais. Alguns usaram a madeira de[camphor](/pt/history/taiwan-forestry-history/) de Taiwan para fazer a caixa de ressonância do guzheng, descobrindo que o timbre era mais brilhante e a ressonância mais longa do que a tradicional madeira de paulownia[^31]. Isso não é nacionalismo de "feito em Taiwan", é uma descoberta acústica prática: madeiras diferentes realmente produzem sons diferentes, e a madeira de Taiwan cresce no clima de Taiwan, carregando a umidade e a variação térmica desta ilha.
 
 O surgimento da indústria de luthiers marca a transição da Guoyue de Taiwan de "usuário" para "fabricante". Quando você faz até seus próprios instrumentos, é difícil continuar dizendo que é um ramal de outra pessoa.
 
@@ -179,8 +179,8 @@ A questão "a qual nação pertence o 'Guo' da Guoyue" talvez nunca precise de r
 - [Música Hakka de Taiwan](/pt/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Arranjos de canções de montanha hakka massivamente apresentados pela Orquestra Nacional de Kaohsiung, outro caminho da Guoyue no sul de Taiwan
 - [Fabricação de Instrumentos de Taiwan](/pt/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — De saxofones em Houli a instrumentos de Guoyue, como Taiwan passou de "usuário" a "fabricante"
 - [Movimento de Canções Populares de Taiwan](/music/台灣民歌運動) — O movimento "cantar nossas próprias canções" nos anos 1970, compartilhando o mesmo espírito da época com a localização da Guoyue
-- [Paisagem Sonora de Taiwan](/music/台灣聲音地景) — Como o ambiente sonoro da ilha penetra nos ouvidos dos compositores
-- [Canções Populares e Melodias de Taiwan](/pt/music/Taiwan Folk Music and Songs) — Nanguan, Beiguan, canções populares em taiwanês, a tradição sonora já existente na ilha antes da Guoyue cruzar o mar
+- [Paisagem Sonora de Taiwan](/pt/music/taiwan-soundscape) — Como o ambiente sonoro da ilha penetra nos ouvidos dos compositores
+- [Canções Populares e Melodias de Taiwan](/pt/music/taiwan-folk-music-and-songs) — Nanguan, Beiguan, canções populares em taiwanês, a tradição sonora já existente na ilha antes da Guoyue cruzar o mar
 
 ## Referências
 

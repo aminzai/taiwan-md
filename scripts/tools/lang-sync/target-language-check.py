@@ -102,6 +102,31 @@ def score(text: str) -> dict[str, float]:
     return out
 
 
+# 西里爾字母的近親語言互換，靠字元區間分不出來——它們共用同一個 Unicode block。
+# 2026-09-10：`ru/People/tsai-heipi.md` **整篇是烏克蘭文**（「народився」不是
+# 「родился」、「нікнейм」不是「никнейм」），1,669 個烏克蘭專有字母對 39 個俄文
+# 專有字母，而這支檢查器判它 ok 並讓它上線。用字母表差集當判準：
+#   烏克蘭有、俄文沒有：і ї є ґ
+#   俄文有、烏克蘭沒有：ы э ъ ё
+# 專有字母數反過來就是整篇語言錯，不是零星混入。
+CYRILLIC_EXCLUSIVE = {
+    "ru": (re.compile(r"[ыэъё]"), re.compile(r"[іїєґ]"), "烏克蘭文"),
+    "uk": (re.compile(r"[іїєґ]"), re.compile(r"[ыэъё]"), "俄文"),
+}
+
+
+def cyrillic_sibling_check(text: str, target: str) -> str | None:
+    """近親西里爾語誤植：回傳錯誤描述，沒問題回 None。"""
+    pair = CYRILLIC_EXCLUSIVE.get(target)
+    if pair is None:
+        return None
+    own, other, other_name = pair
+    n_own, n_other = len(own.findall(text)), len(other.findall(text))
+    if n_other > n_own and n_other >= 20:
+        return f"整篇疑似{other_name}——{other_name}專有字母 {n_other} 個 > {target} 專有字母 {n_own} 個"
+    return None
+
+
 def judge(path: Path, target: str) -> dict:
     text = path.read_text(encoding="utf-8", errors="replace")
     body = body_of(text)
@@ -111,8 +136,11 @@ def judge(path: Path, target: str) -> dict:
     best, best_s = ranked[0]
     tgt_s = scores.get(target, 0.0)
 
+    sibling = cyrillic_sibling_check(body, target)
     verdict = "ok"
-    if len(words) < MIN_TOKENS and target in LATIN_LANGS:
+    if sibling:
+        verdict = "fail"
+    elif len(words) < MIN_TOKENS and target in LATIN_LANGS:
         verdict = "skip-too-short"
     elif best == target:
         verdict = "ok"
@@ -128,6 +156,7 @@ def judge(path: Path, target: str) -> dict:
         "target_score": round(tgt_s, 4),
         "detected_score": round(best_s, 4),
         "tokens": len(words),
+        "note": sibling or "",
     }
 
 
@@ -170,7 +199,12 @@ def main() -> None:
         print(json.dumps({"results": results, "fail": len(fails), "warn": len(warns)}, ensure_ascii=False, indent=1))
     else:
         for r in fails:
-            print(f"❌ {r['path']}\n   目標 {r['target']}（{r['target_score']}）但看起來是 {r['detected']}（{r['detected_score']}）")
+            # 近親西里爾語誤植時字元分數會一樣（共用 Unicode block），只印分數會變成
+            # 「目標 ru 但看起來是 ru」這種讀不懂的話。有 note 就印 note。
+            reason = r.get("note") or (
+                f"目標 {r['target']}（{r['target_score']}）但看起來是 "
+                f"{r['detected']}（{r['detected_score']}）")
+            print(f"❌ {r['path']}\n   {reason}")
         for r in warns:
             print(f"⚠️  {r['path']}: 目標 {r['target']}({r['target_score']}) vs 最像 {r['detected']}({r['detected_score']}) — 分數接近，請人看")
         print(f"\n{len(fails)} fail / {len(warns)} warn / {len(results)} 檔")
