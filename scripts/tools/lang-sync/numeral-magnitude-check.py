@@ -130,7 +130,16 @@ def main() -> int:
         p = Path(a.out).resolve()
         # 語言代碼從路徑裡找，不假設呼叫端給的是相對於 knowledge/ 的絕對路徑
         # （倉庫外的校準樣本也要能驗）
-        lang = next((seg for seg in p.parts if seg in MAGNITUDE), None)
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+        seen = next((seg for seg in p.parts if seg in set(ALL_TRANSLATION_LANGS)), None)
+        if seen and seen not in MAGNITUDE:
+            # ja/ko 原生使用万／億，量級與中文同構，不需換算也就沒有這種錯。
+            # 第一版對它們直接 exit 2 報錯——「這個語言不適用」被當成「工具壞了」，
+            # 而批次驗證器把非零 exit 一律當失敗，於是每篇 ja/ko 都紅一次。
+            print(f"✅ {seen} 原生使用万／億，量級與中文同構，不適用本檢查")
+            return 0
+        lang = seen
         if not lang:
             print(f"❌ 路徑裡看不出語言：{a.out}", file=sys.stderr)
             return 2
