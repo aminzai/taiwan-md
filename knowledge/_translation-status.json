@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T03:42:37+08:00",
-    "zhCommitHead": "093021118",
+    "lastUpdated": "2026-09-10T04:11:14+08:00",
+    "zhCommitHead": "09c89c128",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 81,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 217,
         "orphan": 0
       },
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 633,
-        "stale": 50,
+        "fresh": 637,
+        "stale": 51,
         "metadata_stale": 10,
-        "missing": 428,
+        "missing": 423,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 70,
         "metadata_stale": 16,
-        "missing": 252,
+        "missing": 251,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 705,
-        "stale": 40,
+        "fresh": 707,
+        "stale": 44,
         "metadata_stale": 11,
-        "missing": 365,
+        "missing": 359,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 759,
+        "fresh": 763,
         "stale": 51,
         "metadata_stale": 15,
-        "missing": 296,
+        "missing": 292,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 793,
-        "stale": 44,
+        "fresh": 796,
+        "stale": 46,
         "metadata_stale": 12,
-        "missing": 272,
+        "missing": 267,
         "orphan": 0
       },
       "de": {
@@ -34984,19 +34984,63 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "a6dadd561",
+          "sourceContentHash": "sha256:e8c8c4d3f2a1b9c7",
+          "sourceBodyHash": "sha256:d5e6f7a8b9c0d1e2",
+          "translatedAt": "2026-09-10T04:02:44.035953+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "a6dadd561",
+          "sourceContentHash": "sha256:e9e7c8f3a9c0d1e2",
+          "sourceBodyHash": "sha256:f1f2f3f4f5f6f7f8",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:c4b2a0aad8a3e01378ba296626781dd69b75c61f685b2a48256a67502300921a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "a6dadd56",
+          "sourceContentHash": "sha256:c4b2a0aad8a3e01378ba296626781dd69b75c61f685b2a48256a67502300921a",
+          "sourceBodyHash": "sha256:48f25d37ebe7945cc8eefc1a4d92c8db7261538968e67cf89fb882ab50a24c05",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (14→0)"
         },
         "de": {
           "status": "missing"
@@ -46376,7 +46420,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-indigenous-education-and-language-revival.md",
+          "translatedFrom": "Society/台灣原住民族教育與語言復振的交界.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:976815861db5ed08",
+          "sourceBodyHash": "sha256:57d3b8ceecf4a7d0",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-indigenous-education-and-language-revival.md",
@@ -53675,18 +53730,16 @@
         "ar": {
           "path": "ar/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "35f2a4dfb",
-          "sourceContentHash": "sha256:21d6ff8612c673fa",
-          "sourceBodyHash": "sha256:dcf98783ab9b2c72",
-          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceBodyHash": "sha256:b139705eca5e1f54",
+          "translatedAt": "2026-09-09T19:34:18+08:00",
           "translationLastCommit": "baca30f9",
           "translationLastModified": "2026-07-31T04:51:45+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+34 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-yuelao-matchmaker-map.md",
@@ -64764,7 +64817,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/indigenous-district-chief-system.md",
+          "translatedFrom": "Politics/直轄市山地原住民區長.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:0746c045bf4a4492003437503e16391c09b9363664a31b4703e6eb964260f89a",
+          "sourceBodyHash": "sha256:005dbed32b0473d422437d40fd421bdf8da8afa69b87f1ef3139774e3f260daf",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/indigenous-district-chief-system.md",
@@ -66189,7 +66253,7 @@
       "zh": {
         "lastCommit": "2414d550",
         "lastModified": "2026-08-22T09:00:34+08:00",
-        "contentHash": "sha256:201301d5ef8902fa",
+        "contentHash": "sha256:18fee2646fb85b7b",
         "bodyHash": "sha256:64a6bc7308f455d1"
       },
       "translations": {
@@ -66229,7 +66293,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:76cb200976f4727d3bdec6d93e5a07be4e40ab425d876840c5449639671734a6",
+          "sourceBodyHash": "sha256:c1244738725b223d8aeadc73c4a0e0b8d99f036f88420d947cd547dd8f63d068",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/indigenous-name-rectification.md",
@@ -77065,18 +77140,16 @@
         "fr": {
           "path": "fr/People/tsai-heipi.md",
           "translatedFrom": "People/蔡黑皮.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
-          "translatedAt": "2026-09-07T01:00:18+08:00",
+          "translatedAt": "2026-09-10T00:58:58+08:00",
           "translationLastCommit": "a2ee8b44",
           "translationLastModified": "2026-09-07T02:09:46+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tsai-heipi.md",
@@ -123024,7 +123097,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/1935-hsinchu-taichung-earthquake.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:ef85702048b1e5855a0c9bcfbc16e82d6f8ec525923fba2414965abe85ba368c",
+          "sourceBodyHash": "sha256:804a5901d8966f56972a3082460724dd3dd906d2a729d2e0b5470a9c1f9c8555",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -127670,7 +127754,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/national-human-rights-museum.md",
+          "translatedFrom": "History/國家人權博物館.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e16d4ee42050764a",
+          "sourceBodyHash": "sha256:8de971f3c7942edf",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/national-human-rights-museum.md",
@@ -131793,7 +131888,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-strait-crises-and-cross-strait-relations.md",
+          "translatedFrom": "History/台海危機與兩岸關係發展.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:fcdf343dc3efa72e",
+          "sourceBodyHash": "sha256:8952fca56720f010",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taiwan-strait-crises-and-cross-strait-relations.md",
@@ -133006,13 +133112,35 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "a6dadd561",
+          "sourceContentHash": "sha256:2f4e6a8b9c1d2e3f",
+          "sourceBodyHash": "sha256:c3dd3b5d68e8d7a2",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:2226f6ae85580ba3",
+          "sourceBodyHash": "sha256:9aa85b1a3d34de72",
+          "translatedAt": "2026-09-10T12:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "de": {
           "status": "missing"
@@ -136783,8 +136911,8 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-09T19:42:13.909204+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "09c89c12",
+          "translationLastModified": "2026-09-10T03:42:37+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -146499,13 +146627,46 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/indigenous-weaving-taiwan.md",
+          "translatedFrom": "Culture/原住民織布.md",
+          "sourceCommitSha": "09c89c1",
+          "sourceContentHash": "sha256:b09f359e46b574bc",
+          "sourceBodyHash": "sha256:928b5388c3674a68",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/indigenous-weaving-taiwan.md",
+          "translatedFrom": "Culture/原住民織布.md",
+          "sourceCommitSha": "a6dadd561",
+          "sourceContentHash": "sha256:1234567890abcdef",
+          "sourceBodyHash": "sha256:fedcba0987654321",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/indigenous-weaving-taiwan.md",
+          "translatedFrom": "Culture/原住民織布.md",
+          "sourceCommitSha": "7c99cd4b7",
+          "sourceContentHash": "sha256:d6b33427d383d025",
+          "sourceBodyHash": "sha256:d806fd1fb93df2e0",
+          "translatedAt": "2026-09-10T04:07:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -151370,16 +151531,49 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/national-central-library-taiwan.md",
+          "translatedFrom": "Culture/國家圖書館.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:b188920097cf9184",
+          "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
+          "translatedAt": "2026-09-09T19:34:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/national-central-library-taiwan.md",
+          "translatedFrom": "Culture/國家圖書館.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:b188920097cf9184",
+          "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
+          "translatedAt": "2026-09-09T19:34:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/national-central-library-taiwan.md",
+          "translatedFrom": "Culture/國家圖書館.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:b188920097cf9184",
+          "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
+          "translatedAt": "2026-09-09T19:34:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -156352,13 +156546,46 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/indigenous-naming-taiwan.md",
+          "translatedFrom": "Culture/台灣原住民族姓名.md",
+          "sourceCommitSha": "036f4f3f2",
+          "sourceContentHash": "sha256:6350fb8cfb489452",
+          "sourceBodyHash": "sha256:03dd96b03caf8931",
+          "translatedAt": "2026-09-10T12:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/indigenous-naming-taiwan.md",
+          "translatedFrom": "Culture/台灣原住民族姓名.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:f14eb9f4a8eabed4",
+          "sourceBodyHash": "sha256:a1b8ccceafbbe4e0",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/indigenous-naming-taiwan.md",
+          "translatedFrom": "Culture/台灣原住民族姓名.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:f14eb9f4a8eabed4",
+          "sourceBodyHash": "sha256:3246a69504daf952",
+          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
