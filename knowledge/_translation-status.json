@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T03:14:34+08:00",
-    "zhCommitHead": "faa1e1e2b",
+    "lastUpdated": "2026-09-10T03:24:50+08:00",
+    "zhCommitHead": "5f3feeaa1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,9 +68,9 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 629,
+        "fresh": 630,
         "stale": 49,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 432,
         "orphan": 0
       },
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 702,
+        "fresh": 703,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 369,
+        "missing": 368,
         "orphan": 0
       },
       "ar": {
@@ -4026,18 +4026,16 @@
         "id": {
           "path": "id/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translatedAt": "2026-09-09T19:34:15+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/chthonic.md",
@@ -4046,8 +4044,8 @@
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
           "translatedAt": "2026-09-09T19:34:16+08:00",
-          "translationLastCommit": "66e8626f",
-          "translationLastModified": "2026-08-09T07:49:34+08:00",
+          "translationLastCommit": "5f3feeaa",
+          "translationLastModified": "2026-09-10T03:14:35+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -135724,7 +135722,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-09T19:34:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/yushan-weather-station.md",
