@@ -45,7 +45,7 @@ Năm 2024, Schwinn đã trở thành thương hiệu giá rẻ của Walmart, tr
 
 ## Thức tỉnh của công nhân gia công: Từ bắt chước đến tích luỹ kỹ thuật tự chủ
 
-Năm 1972 ở một xưởng tạm bợ ở Đại甲, Đài Trung, Lưu Kim Tiêu và 7 đồng sự khác bắt đầu khởi nghiệp với 4,8 triệu tệ Đài Loan. Đây không phải câu chuyện cổ tích Silicon Valley, mà là nhân sinh đẽ của công nghiệp sản xuất Đài Loan tìm kiếm vị trí sống còn trong chuỗi sản xuất toàn cầu.
+Năm 1972 ở một xưởng tạm bợ ở Đại甲, Đài Trung, Lưu Kim Tiêu và 7 đồng sự khác bắt đầu khởi nghiệp với 4,8 triệu đô la Đài Loan mới. Đây không phải câu chuyện cổ tích Silicon Valley, mà là nhân sinh đẽ của công nghiệp sản xuất Đài Loan tìm kiếm vị trí sống còn trong chuỗi sản xuất toàn cầu.
 
 Ban đầu, Sản xuất Đại là một công nhân gia công điển hình. Từ năm 1977, công ty bắt đầu gia công cho hãng Mỹ Schwinn, hoàn toàn theo bản vẽ do phía Mỹ cung cấp, không có quyền thiết kế, quyền thương hiệu, quyền phân phối. Vai trò của nhà máy Đài Loan chỉ là một cơ sở sản xuất rẻ tiền và nghe lời.
 

@@ -54,7 +54,7 @@ Chìa khóa nằm ở chiến lược. Lúc đó, thị trường âm nhạc ti�
 
 Năm 2012, Mayday lần đầu tiên bước lên Sân vận động quốc gia Bắc Kinh "Sân chim ưng", trở thành ban nhạc tiếng Hoa đầu tiên biểu diễn ở đó [^8]. Hình ảnh 100.000 người cùng hát "Ngoan cố" của nhạc rock tiếng Hoa trở thành một khoảnh khắc kinh điển. Cho đến năm 2024, họ đã biểu diễn hơn 30 trận tại Sân chim ưng, tạo nên kỷ lục của địa điểm này.
 
-Nhưng con số thực sự nằm trong chuyến lưu diễn. Chuyến lưu diễn thế giới "Công ty sống không giới hạn" từ năm 2017 đến 2019, kéo dài 644 ngày, 55 thành phố, 122 buổi diễn, tích lũy 4,15 triệu lần xem, là một trong những chuyến lưu diễn nhạc tiếng Hoa quy mô lớn nhất mọi thời đại [^9]. Chỉ riêng ở thị trường đất liền Trung Quốc, doanh thu buổi diễn hàng năm của Mayday vượt quá 30 tỷ nhân dân tệ Đài Loan.
+Nhưng con số thực sự nằm trong chuyến lưu diễn. Chuyến lưu diễn thế giới "Công ty sống không giới hạn" từ năm 2017 đến 2019, kéo dài 644 ngày, 55 thành phố, 122 buổi diễn, tích lũy 4,15 triệu lần xem, là một trong những chuyến lưu diễn nhạc tiếng Hoa quy mô lớn nhất mọi thời đại [^9]. Chỉ riêng ở thị trường đất liền Trung Quốc, doanh thu buổi diễn hàng năm của Mayday vượt quá 30 tỷ đô la Đài Loan mới.
 
 📊 **Ảnh chụp dữ liệu**
 
