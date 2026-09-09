@@ -286,6 +286,16 @@ def build(lang: str) -> dict:
             "python3 scripts/tools/lang-sync/target-language-check.py <目標路徑>   # 必須 exit 0；印出『看起來是 en』就是翻錯語言，整篇重來",
             "python3 scripts/tools/lang-sync/enrich-batch-targets.py --check <本派工單> <目標路徑>",
             "python3 scripts/tools/lang-sync/restore-footnote-urls.py knowledge/<zh_path> <目標路徑> --apply",
+            # 站內連結在地化。產線（translate.py / structured-translate.py / patch-translate.py）
+            # 送模型前就會呼叫 cross_link_localizer，委派層完全不經過那條路徑，所以這一步
+            # 必須自己跑——2026-09-09 實測：委派層產出的延伸閱讀區全是 `/music/滅火器樂團`
+            # 這種指向中文 slug 的連結，把印尼文讀者送到中文頁面，而七道閘沒有一道會叫。
+            # 它是保守的純查表：該語言沒有那篇譯文就完全不動，不會製造新的 404。
+            "python3 -c \"import sys; sys.path.insert(0,'scripts/tools/lang-sync'); "
+            "from cross_link_localizer import load_index, localize_body; "
+            "from pathlib import Path; p=Path('<目標路徑>'); "
+            "t,n=localize_body(p.read_text(encoding='utf-8'),'<lang>',load_index()); "
+            "p.write_text(t,encoding='utf-8'); print(f'站內連結在地化 {n} 個')\"",
             "python3 scripts/tools/lang-sync/verify-translation.py knowledge/<zh_path> <目標路徑>   # exit 1 = 硬失敗，要修到過",
             "python3 scripts/tools/lang-sync/cjk-leak-check.py <目標路徑>",
             "python3 scripts/tools/lang-sync/cjk-adjacency-check.py <目標路徑>",
