@@ -300,6 +300,12 @@ def build(lang: str) -> dict:
             "python3 scripts/tools/lang-sync/cjk-leak-check.py <目標路徑>",
             "python3 scripts/tools/lang-sync/cjk-adjacency-check.py <目標路徑>",
             "python3 scripts/tools/article-health.py <目標路徑> --profile=pre-commit   # hard=0",
+            # 站內連結會不會 404。前八道沒有一道在看連結指向哪裡：verify-translation 比的是
+            # URL multiset（把一條換成另一條，數量不變就過），localizer 看到沒見過的拉丁 slug
+            # 就保守跳過。2026-09-09 一隻 agent 把能用的 `/culture/台灣宗教與寺廟文化`
+            # 換成自己編的 `/culture/taiwan-religion-temples-culture`，站上沒那個頁面，
+            # 八道閘全過。全庫同型 1,715 條。**slug 是網址不是文案，不要翻它也不要編它。**
+            "python3 scripts/tools/lang-sync/internal-link-check.py <目標路徑>   # 死連結 = 0",
         ],
         "known_false_positives": {
             "list": [
