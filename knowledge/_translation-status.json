@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T04:11:14+08:00",
-    "zhCommitHead": "09c89c128",
+    "lastUpdated": "2026-09-10T04:12:44+08:00",
+    "zhCommitHead": "85132d882",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 762,
-        "stale": 97,
+        "fresh": 763,
+        "stale": 96,
         "metadata_stale": 32,
         "missing": 230,
         "orphan": 0
@@ -69,9 +69,9 @@
       "id": {
         "total_zh": 1121,
         "fresh": 637,
-        "stale": 51,
+        "stale": 52,
         "metadata_stale": 10,
-        "missing": 423,
+        "missing": 422,
         "orphan": 0
       },
       "pt": {
@@ -30460,7 +30460,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/contemporary-indigenous-art-taiwan.md",
+          "translatedFrom": "Art/台灣原住民當代藝術.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:8e3303199d60c0c9",
+          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
+          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (6→0)"
         },
         "pt": {
           "path": "pt/Art/contemporary-indigenous-art-taiwan.md",
@@ -35038,9 +35049,9 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
+          "footnoteDefs": 14,
           "status": "stale",
-          "reason": "footnote-loss (14→0)"
+          "reason": "sha-lost-hash-mismatch"
         },
         "de": {
           "status": "missing"
@@ -53612,18 +53623,16 @@
         "ja": {
           "path": "ja/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "35f2a4dfb",
-          "sourceContentHash": "sha256:21d6ff8612c673fa",
-          "sourceBodyHash": "sha256:dcf98783ab9b2c72",
-          "translatedAt": "2026-05-26T05:10:57+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:c678fcba227b8502",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T19:57:47.335362+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+34 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-yuelao-matchmaker-map.md",
@@ -151551,8 +151560,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-09T19:34:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "85132d88",
+          "translationLastModified": "2026-09-10T04:11:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
