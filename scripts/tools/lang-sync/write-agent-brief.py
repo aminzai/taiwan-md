@@ -20,9 +20,11 @@ write-agent-brief.py — 把委派 agent 的交件契約寫進派工單。
 """
 import argparse
 import json
+import re
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
+GUIDE_DIR = REPO / "docs/editorial/per-language"
 
 # 圖片來源區的 canonical 標題，依語言。checker 認得的變體更多，但譯者該用哪個
 # 只有一個答案——同一語言八種寫法會讓任何對賬都變成猜謎（de 實測就是八種）。
@@ -33,6 +35,37 @@ IMAGE_SOURCE_H2 = {
     "vi": "## Nguồn hình ảnh", "ru": "## Источники изображений",
     "ar": "## مصادر الصور", "hi": "## छवि स्रोत",
 }
+
+
+def guide_sections(lang: str) -> dict[str, str]:
+    """從 `TRANSLATION-{lang}.md` 抽出 §Z2.0 指定要內嵌的那幾節原文。
+
+    為什麼抽原文而不是手寫摘要：手寫十二語的詞表要讀十二份 guide，而且寫完就
+    定住了——guide 之後改了，派工單裡的那份不會跟著改（REFLEXES #56 的 drift）。
+    抽原文的話 canonical 改一次，下一批派工單就是新的。
+
+    抽哪幾節：§Z2.0 hard gate 點名的 §1 國名／§2 人名／§3 地名／§6 主權詞表，
+    加上 §TL;DR（每份 guide 自己排序過的最高優先項）與 §5 政治歷史敏感詞。
+    用編號定位不用標題字面——十二語的標題各自是自己的語言。
+    """
+    p = GUIDE_DIR / f"TRANSLATION-{lang}.md"
+    if not p.exists():
+        return {}
+    t = p.read_text(encoding="utf-8")
+    out: dict[str, str] = {}
+    heads = [(m.start(), m.group(0)) for m in re.finditer(r"^## .*$", t, re.M)]
+    for i, (pos, head) in enumerate(heads):
+        end = heads[i + 1][0] if i + 1 < len(heads) else len(t)
+        body = t[pos:end].strip()
+        num = re.match(r"^## (\d+)\.", head)
+        key = None
+        if num and num.group(1) in {"1", "2", "3", "5", "6"}:
+            key = f"section_{num.group(1)}"
+        elif re.match(r"^## TL;DR", head, re.I):
+            key = "tldr"
+        if key:
+            out[key] = body
+    return out
 
 
 def sovereignty_glossary(lang: str) -> dict | None:
@@ -247,16 +280,25 @@ def build(lang: str) -> dict:
             "完整翻譯不是摘要：不合併段落、不壓縮清單、不省略任何 H2、不省略任何腳註定義",
         ],
     }
-    g = sovereignty_glossary(lang)
-    if g:
-        # SQUEEZE §Z2.0 hard gate：目標語言 canonical guide 的關鍵 sections 必須內嵌，
-        # 不能只給 path pointer。派工單是 agent 必讀的檔案，所以這裡算內嵌。
-        brief["sovereignty_glossary"] = g
-    else:
-        brief["sovereignty_glossary"] = {
-            "_missing": f"本工具尚未收錄 {lang} 的詞表，派工的 prompt 必須 inline 該語言的 "
-                        f"docs/editorial/per-language/TRANSLATION-{lang}.md §1/§2/§3/§6（SQUEEZE §Z2.0 hard gate）"
-        }
+    # SQUEEZE §Z2.0 hard gate：目標語言 canonical guide 的關鍵 sections 必須內嵌，
+    # 不能只給 path pointer。派工單是 agent 必讀的檔案，所以這裡算內嵌。
+    #
+    # 兩層：`sections` 是從 guide 直接抽出來的原文（十二語都有，canonical 改了下一批
+    # 派工單就跟著改）；`emphasis` 是人讀過 guide 之後挑出來的重點，只有讀過的語言才
+    # 有——它的價值在於指出「這一語特別容易在哪裡出錯」，那是通篇抽取蓋不掉的判斷。
+    sections = guide_sections(lang)
+    gloss: dict = {
+        "_source": f"docs/editorial/per-language/TRANSLATION-{lang}.md（canonical，有疑義以該檔為準）",
+        "_how_to_read": "sections 是 guide 原文；先讀 tldr 與 section_6（PRC 編碼詞禁用表），再查 section_1/2/3 的對照表",
+        "sections": sections,
+    }
+    if not sections:
+        gloss["_broken"] = (f"❌ 抽不到 TRANSLATION-{lang}.md 的 §TL;DR/§1/§2/§3/§5/§6 —— "
+                            "尺壞了不是沒問題。派工前先修，或在 prompt 手動 inline 詞表")
+    emphasis = sovereignty_glossary(lang)
+    if emphasis:
+        gloss["emphasis"] = emphasis
+    brief["sovereignty_glossary"] = gloss
     return brief
 
 
