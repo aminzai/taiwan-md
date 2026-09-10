@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T05:38:49+08:00",
-    "zhCommitHead": "d659234ef",
+    "lastUpdated": "2026-09-11T05:39:40+08:00",
+    "zhCommitHead": "fdef17314",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 861,
+        "fresh": 862,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 161,
+        "missing": 160,
         "orphan": 0
       },
       "ja": {
@@ -21081,8 +21081,8 @@
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
           "translatedAt": "2026-09-10T19:04:48.851487+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "fdef1731",
+          "translationLastModified": "2026-09-11T05:38:49+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -64467,8 +64467,8 @@
           "sourceContentHash": "sha256:fb956c7691d488a0",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T20:13:54.786164+00:00",
-          "translationLastCommit": "e04e2e2f",
-          "translationLastModified": "2026-08-04T15:50:37+08:00",
+          "translationLastCommit": "fdef1731",
+          "translationLastModified": "2026-09-11T05:38:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -154191,7 +154191,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwan-iron-window-grilles.md",
+          "translatedFrom": "Culture/鐵窗花.md",
+          "sourceCommitSha": "ec3d660ca",
+          "sourceContentHash": "sha256:1888ffac8016e710",
+          "sourceBodyHash": "sha256:30a2135abbfbcd4c",
+          "translatedAt": "2026-09-11T05:31:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
