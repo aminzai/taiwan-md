@@ -17,15 +17,12 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 12
-rationale:
-  why_this_hook: 'Memulai dari paradoks radio sebagai perangkat propaganda negara sekaligus hiburan keluarga dan pintu masuk bahasa lokal, menjelaskan bagaimana penyiaran didengarkan ulang dan digunakan kembali di bawah rezim yang berbeda.'
-  whats_excluded: 'Bukan ditulis sebagai daftar stasiun atau ensiklopedia teknis, bukan mengatur seluruh frekuensi, spesifikasi mesin, dan kronologi pembawa acara satu per satu. Artikel berfokus pada perubahan institusi, bahasa, kehidupan mendengarkan sehari-hari, dan ruang publik.'
-  where_it_hedges: 'Siaran percobaan 1925, Stasiun Penyiaran Taipei 1928, Asosiasi Penyiaran Taiwan 1931, Stasiun Penyiaran Taiwan dan Suara Taiwan 1946 ditangani secara terbagi, bukan menjadikan penyiaran Jepang sebagai garis tunggal lurus dari institusi pasca-perang.'
-  whos_pushing_back: 'Mengakui bahwa penyiaran telah lama dikendalikan oleh pemerintah, partai, dan sistem militer, sambil mempertahankan sejarah bagaimana pendengar, stasiun swasta, program Taiwan, dan penyiaran bawah tanah mengalihfungsikan media yang sama.'
-translatedFrom: History/台灣廣播史.md
-sourceCommitSha: 9cef725ce
-sourceContentHash: sha256:0b3f5400cfd756f2
-translatedAt: '2026-09-10T04:51:36+08:00'
+rationale: "{'why_this_hook': '從收音機既是國家宣傳設備、也是家庭娛樂與地方語言入口的矛盾切入，說明廣播如何在不同政權下被重新接收與使用。', 'whats_excluded': '不寫成電台名錄或技術百科，不逐一整理所有頻率、機器規格與主持人年表。文章聚焦制度、語言、收聽日常與公共空間的變化。', 'where_it_hedges': '1925年試播、1928年臺北放送局、1931年臺灣放送協會、1946年臺灣廣播電台與《臺灣之聲》分段處理，不把日治廣播直接寫成戰後制度的單一路線。', 'whos_pushing_back': '承認廣播長期被政府、政黨與軍事體系控制，也保留收聽者、民營電台、台語節目與地下電台如何挪用同一媒介的歷史。'}"
+translatedFrom: 'History/台灣廣播史.md'
+sourceCommitSha: '174a83b65'
+sourceContentHash: 'sha256:83934ab33e775cb3'
+sourceBodyHash: 'sha256:9b5ab13cba09c99e'
+translatedAt: '2026-09-10T00:04:26.508350+00:00'
 ---
 
 # Suara Tanpa Alamat: Bagaimana Penyiaran Taiwan Berubah dari Pengeras Suara Negara menjadi Ruang Publik Lokal
@@ -124,11 +121,11 @@ Hari ini orang terbiasa menggunakan earphone untuk melompati iklan, memilih prog
 
 Apa yang paling layak dipertahankan dari sejarah penyiaran Taiwan bukan kesimpulan "penyiaran pernah sangat penting," tetapi bagaimana penyiaran terus digunakan di bawah kondisi dikendalikan. Ada yang menggunakannya untuk menyampaikan perintah kebijakan, ada yang mengandalkannya untuk menjual lagu, menjual iklan, ada yang menggunakannya untuk mengajar bahasa, ada yang menunggu segmen opera kaca, ada yang melewati panggilan dengarnya untuk memasukkan penilaian politiknya ke dalam ruang publik. Suara tidak memiliki alamat, tetapi akan selalu mendarat di suatu tempat.
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Sejarah Gerakan Perempuan Taiwan](/society/婦女新知) — Garis sejarah sosial lain dari kontrol institusional menuju pengucapan publik
+- [Sejarah Gerakan Perempuan Taiwan](/society/婦女新知) — Sejarah sosial lain yang dari kontrol institusional menuju suara publik
 - [Sejarah Pos Taiwan](/lifestyle/台灣郵政) — Bagaimana infrastruktur komunikasi memasuki kehidupan sehari-hari lokal
-- [Sejarah Asosiasi Petani Taiwan](/history/台灣農會史) — Sejarah institusi organisasi pedesaan, keuangan, dan jendela publik lokal
+- [Sejarah Persatuan Petani Taiwan](/history/台灣農會史) — Sejarah institusional organisasi pedesaan, keuangan, dan guichet publik lokal
 
 ## Daftar Referensi
 
