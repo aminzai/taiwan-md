@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T02:33:06+08:00",
-    "zhCommitHead": "48d9b48b6",
+    "lastUpdated": "2026-09-11T02:35:00+08:00",
+    "zhCommitHead": "2b4d3ab0f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 208,
+        "missing": 207,
         "orphan": 0
       },
       "vi": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 741,
+        "fresh": 742,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 325,
+        "missing": 324,
         "orphan": 0
       },
       "ar": {
@@ -35234,8 +35234,8 @@
           "sourceContentHash": "sha256:112b7f69f9a52776",
           "sourceBodyHash": "sha256:ee5f05761a053be1",
           "translatedAt": "2026-09-10T20:24:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4d3ab0",
+          "translationLastModified": "2026-09-11T02:33:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -35524,8 +35524,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-10T20:24:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4d3ab0",
+          "translationLastModified": "2026-09-11T02:33:06+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -54385,8 +54385,8 @@
           "sourceContentHash": "sha256:dcd392c480a1e7a1",
           "sourceBodyHash": "sha256:a0a8f64f629c96f3",
           "translatedAt": "2026-09-10T20:24:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4d3ab0",
+          "translationLastModified": "2026-09-11T02:33:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -71376,8 +71376,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-10T20:24:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4d3ab0",
+          "translationLastModified": "2026-09-11T02:33:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -142622,8 +142622,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-10T20:24:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4d3ab0",
+          "translationLastModified": "2026-09-11T02:33:06+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -149132,7 +149132,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/tatung-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-10T20:25:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -156321,7 +156332,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/taiwan-lantern-festival.md",
+          "translatedFrom": "Culture/燈會.md",
+          "sourceCommitSha": "98d54f4a0",
+          "sourceContentHash": "sha256:767425123798426e",
+          "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
+          "translatedAt": "2026-09-11T02:28:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/taiwan-lantern-festival.md",
@@ -156358,8 +156380,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-10T20:24:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4d3ab0",
+          "translationLastModified": "2026-09-11T02:33:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
