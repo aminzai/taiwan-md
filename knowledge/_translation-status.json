@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T16:30:29+08:00",
-    "zhCommitHead": "33996e519",
+    "lastUpdated": "2026-09-10T16:40:03+08:00",
+    "zhCommitHead": "a4c9d27c2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 808,
-        "stale": 79,
+        "fresh": 809,
+        "stale": 78,
         "metadata_stale": 19,
         "missing": 215,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 665,
-        "stale": 55,
+        "fresh": 666,
+        "stale": 54,
         "metadata_stale": 9,
         "missing": 392,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 52,
         "metadata_stale": 15,
-        "missing": 270,
+        "missing": 269,
         "orphan": 0
       },
       "ru": {
@@ -2203,16 +2203,16 @@
         "id": {
           "path": "id/Music/contemporary-indigenous-singer-songwriters.md",
           "translatedFrom": "Music/當代原住民創作歌手.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9dc0db555b0aecb7",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-05T18:31:10.295241+00:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:5f5c57d9d0a5af84",
+          "sourceBodyHash": "sha256:6ab99bf50b216a39",
+          "translatedAt": "2026-09-10T07:58:49+08:00",
           "translationLastCommit": "92d547c8",
           "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (21→7)"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/contemporary-indigenous-singer-songwriters.md",
@@ -19076,18 +19076,16 @@
         "es": {
           "path": "es/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:5500ed1d9d4e0f85",
-          "sourceBodyHash": "sha256:6207b1decb9dcfc4",
-          "translatedAt": "2026-06-16T16:54:57Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:f8b3c2310e7fb840",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T08:31:51.904411+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+15 -15"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-bim-construction-tech.md",
@@ -71058,7 +71056,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/huang-tu-shui.md",
+          "translatedFrom": "People/黃土水.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:d22d7298dff5ac3a",
+          "sourceBodyHash": "sha256:7b62e2a912ba5344",
+          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -130313,8 +130322,8 @@
           "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-10T13:28:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4c9d27c",
+          "translationLastModified": "2026-09-10T16:30:29+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
