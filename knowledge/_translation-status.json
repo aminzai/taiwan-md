@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T13:39:06+08:00",
-    "zhCommitHead": "97a874d80",
+    "lastUpdated": "2026-09-10T13:41:44+08:00",
+    "zhCommitHead": "3b5f150e6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 780,
+        "fresh": 781,
         "stale": 52,
         "metadata_stale": 15,
-        "missing": 274,
+        "missing": 273,
         "orphan": 0
       },
       "ru": {
@@ -2833,8 +2833,8 @@
           "sourceContentHash": "sha256:1592d113f4d245fb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T03:38:09.628347+00:00",
-          "translationLastCommit": "9b326b94",
-          "translationLastModified": "2026-08-03T03:15:23+08:00",
+          "translationLastCommit": "3b5f150e",
+          "translationLastModified": "2026-09-10T13:39:06+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -12698,8 +12698,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3b5f150e",
+          "translationLastModified": "2026-09-10T13:39:06+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -40003,8 +40003,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "f8fe84f7",
-          "translationLastModified": "2026-07-28T09:37:35+08:00",
+          "translationLastCommit": "3b5f150e",
+          "translationLastModified": "2026-09-10T13:39:06+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -53916,8 +53916,8 @@
           "sourceContentHash": "sha256:0bd3cef2eb38faed",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "3b5f150e",
+          "translationLastModified": "2026-09-10T13:39:06+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -54087,7 +54087,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/housing-justice-taiwan.md",
+          "translatedFrom": "Society/居住正義.md",
+          "sourceCommitSha": "149901078",
+          "sourceContentHash": "sha256:dcd392c480a1e7a1",
+          "sourceBodyHash": "sha256:a0a8f64f629c96f3",
+          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
