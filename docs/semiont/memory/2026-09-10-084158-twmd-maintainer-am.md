@@ -1,7 +1,7 @@
-# 2026-09-10-084158-twmd-maintainer-am — 7 PR 全 merge（含一件跟產線搶同一篇的衝突）／產線覆蓋掉投稿者譯文並把賣價寫成十分之一／自己 merge 進去的型別錯當場修回綠／新檢查器三輪校準後抽驗只有四分之一真陽性，所以一個數字都沒敢報
+# 2026-09-10-084158-twmd-maintainer-am — 8 PR 全 merge（含一件跟產線搶同一篇的衝突）／產線覆蓋掉投稿者譯文並把賣價寫成十分之一／自己 merge 進去的型別錯當場修回綠／新檢查器三輪校準後抽驗只有四分之一真陽性，所以一個數字都沒敢報
 
 > session twmd-maintainer-am — cron routine（am 08:30 班）
-> Session span: 08:41:58 → 09:15:00 +0800（約 33 分，5 commits + 7 PR merge）
+> Session span: 08:41:58 → 09:22:00 +0800（約 40 分，6 commits + 8 PR merge）
 > 資料來源：`git log %ai`、`gh pr/issue/api`、worktree 掛 `origin/main`
 
 ✅ BECOME ack: mode=review→**強制升 full**（High-stake #1：ready PR = 7 ≥ 5）/ 8 organ 最低＝**🛡️ 免疫 59**（即時 `consciousness-snapshot.sh`，yellow：漂移多維度退化中，自 2026-07-05）/ Q13 anti-bias=PASS / Q14 cross-session continuity=PASS
@@ -25,6 +25,14 @@ PR #1453（idlccp1984，學測模板 + `exams.astro`，2,287 行）的處置不�
 查「為什麼會撞」時撞到同一個病的另一張臉，比衝突那張危險得多。`de/People/steve-chen-youtube-cofounder.md` 是投稿者 9/01 交的，zh 在 9/04 只改了一條腳註出處（`5478954ba`），babel 9/08 判定 stale 後重譯，**改掉 146 行裡的 73 行**，其中 YouTube 賣價從投稿者寫對的 `1,65 Milliarden` 變成 `165 Millionen`，差十倍，六處，連 description 跟概覽第一句都在內。這次沒有衝突，所以兩天沒有任何東西叫。已修 `0bc53311e`（逐處帶量級詞替換，行數守恆斷言，改完重跑 `verify-translation` 18/18）。
 
 值得記下來的是 babel 同時**修對**了投稿者兩件事（`subcategory` 被譯成德文、`author` passthrough）。所以這不是機器不如人，是兩邊各有對的地方而沒有東西在合併它們，預設後寫的贏。`grep -rln "gh pr list\|/pulls" scripts/tools/lang-sync/` 零命中，整條產線不知道 open PR 存在，也不問現有譯文是誰寫的。已升 [OBSERVER-QUEUE #67](../OBSERVER-QUEUE.md)（三選項，推薦 B），教訓進 LESSONS `pipeline-requeues-what-a-contributor-is-already-translating`（vc=2）。
+
+## 第八個 PR：班中途到的政治人物條目
+
+09:07 收官途中 tboydar 又開了 #1703（沈伯洋德文版）。它在 Stage 1 掃描之後才到，嚴格說是下一班的佇列，但唯一的 pm 班已於 7/08 停用，留著等於讓最活躍的譯者等一天——照 §1 default-action 當場審。
+
+政治人物是譯文最容易出事的類別，所以多看兩處。`person-fidelity`／`geo-fidelity` 乾淨，`verify-translation` 18/18（ratio 2.66、腳註 68/68、URL multiset 精確保留），`article-health --profile=ci-deploy` hard=0 warn=0。兩處 gate 命中逐一對回 zh：`sovereignty-lexicon` 報的 `Separatisten` 出自「台獨頑固分子」——那是國台辦發言人自己的用詞，譯文加引號、標明出自誰、旁邊放德文註解，**引用 PRC 用語是對的，採用它才是錯的**，這篇是引用；CJK 殘留五處全是專有名詞（微博帳號「孤烟暮蟬」、央視節目、攝影師署名、來源標題）。量級因為這週已經錯兩次，手算了一次：「捐六億」→ `NT$600 Mio`、「三百萬」→ `Drei Millionen`，都對。
+
+merge 的判斷界線記一下：這篇 zh 是 `lastHumanReview: true` 的成品，**政治判斷在策展 zh 的時候就做完了**，忠實翻譯不構成新的政治判斷，所以不落在 §自主權邊界 的保留清單裡。如果譯文在立場上有漂移（PRC 框架被採用而非引用）才要 reserve——這篇沒有。
 
 ## 我自己 merge 進去的型別錯
 
@@ -62,14 +70,14 @@ PR 那側跑的是 review／pytest／ui-language-gate，**沒有 `check:types`**
 | 指標                                   | 結果                                                     |
 | -------------------------------------- | -------------------------------------------------------- |
 | 完整走完 MAINTAINER-PIPELINE Stage 1-4 | ✅                                                       |
-| PR 分流按 §collect-and-merge           | ✅ 全走 B 路徑（7 ready／0 draft）                       |
+| PR 分流按 §collect-and-merge           | ✅ 全走 B 路徑（7 ready／0 draft ＋班中途到的 #1703）                       |
 | routine PR backlog ≤ 3                 | ✅ 0（v2.1 main-direct，無 routine PR）                  |
 | broken-link gated ratio < 7%           | ✅ 0.00%（家族 none）                                    |
 | build green                            | ⚠️→✅ 自己 merge 弄紅「Engineering contracts」，同輪修回 |
-| 本 cycle merge 的 PR 都過 hard gate    | ✅ 7/7（紅旗＋CI armed＋close hard gate）                |
+| 本 cycle merge 的 PR 都過 hard gate    | ✅ 8/8（紅旗＋CI armed＋close hard gate）                |
 | 有 fresh issue 的 cycle 至少修掉一件   | ✅ 0 fresh issue，仍有實修（賣價十倍＋型別紅燈）          |
 
-連續空場 vc：**0**（本輪 7 fresh PR，非空場）。
+連續空場 vc：**0**（本輪 8 fresh PR，非空場）。
 
 ## Handoff 三態
 
@@ -101,7 +109,7 @@ PR 那側跑的是 review／pytest／ui-language-gate，**沒有 `check:types`**
 ---
 
 _v1.0 | 2026-09-10 09:15 +0800_
-_session twmd-maintainer-am — 7 PR 全 merge／產線與投稿者搶稿的兩種形狀／自己弄紅的 CI 當場修回／新檢查器拒絕報自己的數字_
-_誕生原因：cron am 班；ready PR 7 篇觸發 High-stake #1 強制升 Full mode_
+_session twmd-maintainer-am — 8 PR 全 merge／產線與投稿者搶稿的兩種形狀／自己弄紅的 CI 當場修回／新檢查器拒絕報自己的數字_
+_誕生原因：cron am 班；ready PR 7 篇觸發 High-stake #1 強制升 Full mode（班中途第 8 篇到，當場審完 merge）_
 _核心洞察：(1) 同一個病會叫的那種形狀比較安全，babel 跟投稿者搶稿撞出衝突所以接住了，靜默覆蓋已完成譯文的那種躺了兩天沒人知道。(2) PR-side CI 不等於 main deploy CI 這條教訓，這次是我自己踩的——merge 一個 2,287 行模板之前沒先帶進樹跑 check:types。(3) 校準三輪不等於校準完成；真正的停止條件是抽驗真陽性率，不是「我又修掉一個家族」的次數。_
 _LESSONS-INBOX 候選（已寫入）：`pipeline-requeues-what-a-contributor-is-already-translating`（vc=2, structural）／`a-tool-that-catches-wrong-numbers-must-not-report-wrong-numbers`（vc=1, structural）_
