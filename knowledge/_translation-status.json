@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T11:00:20+08:00",
-    "zhCommitHead": "3ad27f3a4",
+    "lastUpdated": "2026-09-10T11:09:20+08:00",
+    "zhCommitHead": "c7554829d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 767,
-        "stale": 96,
+        "fresh": 768,
+        "stale": 95,
         "metadata_stale": 29,
         "missing": 229,
         "orphan": 0
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 663,
+        "fresh": 664,
         "stale": 55,
         "metadata_stale": 9,
-        "missing": 394,
+        "missing": 393,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 70,
         "metadata_stale": 16,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "hi": {
@@ -12696,7 +12696,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-10T07:58:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -85224,18 +85235,16 @@
         "ja": {
           "path": "ja/People/freddy-lim.md",
           "translatedFrom": "People/林昶佐.md",
-          "sourceCommitSha": "f28a9528",
-          "sourceContentHash": "sha256:42745728f5eb5c1a",
-          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
-          "translatedAt": "2026-07-23T15:00:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-10T03:08:57.125680+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/freddy-lim.md",
@@ -85294,7 +85303,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-10T07:58:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/freddy-lim.md",
@@ -85345,8 +85365,8 @@
           "sourceContentHash": "sha256:685b3a0c30829488",
           "sourceBodyHash": "sha256:dfd669296348affb",
           "translatedAt": "2026-09-10T02:59:57.371926+00:00",
-          "translationLastCommit": "05f23d10",
-          "translationLastModified": "2026-07-28T03:07:27+08:00",
+          "translationLastCommit": "c7554829",
+          "translationLastModified": "2026-09-10T11:00:20+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
