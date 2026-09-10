@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T16:07:55+08:00",
-    "zhCommitHead": "192882552",
+    "lastUpdated": "2026-09-10T16:30:29+08:00",
+    "zhCommitHead": "33996e519",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 46,
         "metadata_stale": 12,
-        "missing": 239,
+        "missing": 238,
         "orphan": 0
       },
       "de": {
@@ -20616,8 +20616,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-10T07:58:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33996e51",
+          "translationLastModified": "2026-09-10T16:07:55+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -41552,8 +41552,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-10T07:58:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33996e51",
+          "translationLastModified": "2026-09-10T16:07:55+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -54189,8 +54189,8 @@
           "sourceContentHash": "sha256:dcd392c480a1e7a1",
           "sourceBodyHash": "sha256:a0a8f64f629c96f3",
           "translatedAt": "2026-09-10T07:58:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33996e51",
+          "translationLastModified": "2026-09-10T16:07:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -131994,7 +131994,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/1959-august-7-flood.md",
+          "translatedFrom": "History/87水災.md",
+          "sourceCommitSha": "a007d05a2",
+          "sourceContentHash": "sha256:ba3d35e713460c50",
+          "sourceBodyHash": "sha256:d7642501b86ebb9c",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
