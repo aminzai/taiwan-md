@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T13:41:44+08:00",
-    "zhCommitHead": "3b5f150e6",
+    "lastUpdated": "2026-09-10T13:45:30+08:00",
+    "zhCommitHead": "cbf496a3c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 816,
-        "stale": 47,
+        "fresh": 817,
+        "stale": 46,
         "metadata_stale": 12,
         "missing": 246,
         "orphan": 0
@@ -54093,8 +54093,8 @@
           "sourceContentHash": "sha256:dcd392c480a1e7a1",
           "sourceBodyHash": "sha256:a0a8f64f629c96f3",
           "translatedAt": "2026-09-10T07:58:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf496a3",
+          "translationLastModified": "2026-09-10T13:41:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -66658,16 +66658,16 @@
         "ru": {
           "path": "ru/Politics/indigenous-name-rectification.md",
           "translatedFrom": "Politics/原住民族正名.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:7528460cb857fc3b",
-          "sourceBodyHash": "sha256:0b63d09474dfeccb",
-          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "sourceCommitSha": "3a2cee9a5",
+          "sourceContentHash": "sha256:f7989f09dc5120dd",
+          "sourceBodyHash": "sha256:22f458cb51ab119a",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
