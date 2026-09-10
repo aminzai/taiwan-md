@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T02:36:56+08:00",
-    "zhCommitHead": "f52dc247b",
+    "lastUpdated": "2026-09-11T02:45:20+08:00",
+    "zhCommitHead": "2b4a341ad",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 827,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 197,
+        "missing": 195,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 814,
+        "fresh": 815,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 207,
+        "missing": 206,
         "orphan": 0
       },
       "vi": {
@@ -76,34 +76,34 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 68,
         "metadata_stale": 15,
-        "missing": 231,
+        "missing": 230,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 742,
+        "fresh": 743,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 324,
+        "missing": 323,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 50,
         "metadata_stale": 14,
-        "missing": 256,
+        "missing": 255,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 845,
+        "fresh": 846,
         "stale": 46,
         "metadata_stale": 11,
-        "missing": 219,
+        "missing": 218,
         "orphan": 0
       },
       "de": {
@@ -35185,7 +35185,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-11T02:36:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -35194,7 +35205,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-11T02:36:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -55911,8 +55933,8 @@
           "sourceContentHash": "sha256:8a8e0217696ef948",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T17:52:44.216148+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a341a",
+          "translationLastModified": "2026-09-11T02:36:57+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -85873,8 +85895,8 @@
           "sourceContentHash": "sha256:0feccf50e70e790f",
           "sourceBodyHash": "sha256:bec1cc9ae32ba029",
           "translatedAt": "2026-09-10T20:25:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a341a",
+          "translationLastModified": "2026-09-11T02:36:57+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -116093,7 +116115,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwan-mullet-roe-bottarga.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-11T02:36:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -123552,7 +123585,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taichung-prefectural-hall.md",
+          "translatedFrom": "History/台中州廳.md",
+          "sourceCommitSha": "39cb84dab",
+          "sourceContentHash": "sha256:17af96b268beb6de",
+          "sourceBodyHash": "sha256:2beca8976bf8f3ea",
+          "translatedAt": "2026-09-10T20:24:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taichung-prefectural-hall.md",
@@ -124901,7 +124945,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-malaria-eradication.md",
+          "translatedFrom": "History/瘧疾根除.md",
+          "sourceCommitSha": "cf2d4d973",
+          "sourceContentHash": "sha256:1a44b37b859d8b1a",
+          "sourceBodyHash": "sha256:04c29c7226490085",
+          "translatedAt": "2026-09-10T20:25:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -126162,8 +126217,8 @@
           "sourceContentHash": "sha256:d8b88408a353bacc",
           "sourceBodyHash": "sha256:6772a9de43938945",
           "translatedAt": "2026-09-10T20:25:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a341a",
+          "translationLastModified": "2026-09-11T02:36:57+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -126546,7 +126601,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-fishery-origins.md",
+          "translatedFrom": "History/台灣漁業起源.md",
+          "sourceCommitSha": "ad6842824",
+          "sourceContentHash": "sha256:50b4c719b7719ddb",
+          "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
+          "translatedAt": "2026-09-10T20:25:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -132848,8 +132914,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-10T20:25:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a341a",
+          "translationLastModified": "2026-09-11T02:36:57+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -142618,7 +142684,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/losheng-sanatorium.md",
+          "translatedFrom": "Geography/樂生療養院.md",
+          "sourceCommitSha": "4b946c51d",
+          "sourceContentHash": "sha256:97323b56bde19cd4",
+          "sourceBodyHash": "sha256:1cf3a8a560e00934",
+          "translatedAt": "2026-09-11T02:36:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/losheng-sanatorium.md",
@@ -149179,7 +149256,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/tatung-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-10T20:25:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/tatung-rice-cooker.md",
@@ -154708,8 +154796,8 @@
           "sourceContentHash": "sha256:ed1755ea004ce07b",
           "sourceBodyHash": "sha256:5143620e3afad434",
           "translatedAt": "2026-09-10T20:25:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a341a",
+          "translationLastModified": "2026-09-11T02:36:57+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
