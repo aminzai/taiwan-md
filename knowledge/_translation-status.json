@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T15:33:35+08:00",
-    "zhCommitHead": "30530edb1",
+    "lastUpdated": "2026-09-10T16:00:07+08:00",
+    "zhCommitHead": "ba7df6602",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 664,
+        "fresh": 665,
         "stale": 55,
         "metadata_stale": 9,
-        "missing": 393,
+        "missing": 392,
         "orphan": 0
       },
       "pt": {
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 52,
         "metadata_stale": 15,
-        "missing": 271,
+        "missing": 270,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 46,
         "metadata_stale": 12,
-        "missing": 241,
+        "missing": 240,
         "orphan": 0
       },
       "de": {
@@ -35464,8 +35464,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-10T07:58:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba7df660",
+          "translationLastModified": "2026-09-10T15:33:35+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -41538,10 +41538,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-pigeon-racing.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-pigeon-racing.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -54173,8 +54195,8 @@
           "sourceContentHash": "sha256:dcd392c480a1e7a1",
           "sourceBodyHash": "sha256:a0a8f64f629c96f3",
           "translatedAt": "2026-09-10T07:58:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba7df660",
+          "translationLastModified": "2026-09-10T15:33:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -71649,8 +71671,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-10T07:58:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba7df660",
+          "translationLastModified": "2026-09-10T15:33:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -79895,8 +79917,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-10T07:58:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba7df660",
+          "translationLastModified": "2026-09-10T15:33:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -155181,7 +155203,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-lantern-festival.md",
+          "translatedFrom": "Culture/燈會.md",
+          "sourceCommitSha": "98d54f4a0",
+          "sourceContentHash": "sha256:767425123798426e",
+          "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
+          "translatedAt": "2026-09-10T07:58:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -155199,8 +155232,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-10T07:58:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba7df660",
+          "translationLastModified": "2026-09-10T15:33:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
