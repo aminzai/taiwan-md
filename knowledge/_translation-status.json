@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T07:26:59+08:00",
-    "zhCommitHead": "67b2126d8",
+    "lastUpdated": "2026-09-11T07:28:25+08:00",
+    "zhCommitHead": "fc5c753f2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 842,
+        "fresh": 843,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 179,
+        "missing": 178,
         "orphan": 0
       },
       "vi": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 756,
+        "fresh": 757,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 310,
+        "missing": 309,
         "orphan": 0
       },
       "ar": {
@@ -42396,7 +42396,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/huang-wu-hsiung-community-college.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -52910,8 +52921,8 @@
           "sourceContentHash": "sha256:26ade929698dbe6a",
           "sourceBodyHash": "sha256:c1ebe56158fbfca4",
           "translatedAt": "2026-09-11T05:40:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc5c753f",
+          "translationLastModified": "2026-09-11T07:26:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -92351,8 +92362,8 @@
           "sourceContentHash": "sha256:c1b202e80c7e4a1d",
           "sourceBodyHash": "sha256:74473841bc53291c",
           "translatedAt": "2026-09-11T05:40:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc5c753f",
+          "translationLastModified": "2026-09-11T07:26:59+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -107923,8 +107934,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-11T05:40:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc5c753f",
+          "translationLastModified": "2026-09-11T07:26:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -115988,8 +115999,8 @@
           "sourceContentHash": "sha256:2db6d7675892d196",
           "sourceBodyHash": "sha256:e6375c12b05a0b30",
           "translatedAt": "2026-09-11T05:40:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc5c753f",
+          "translationLastModified": "2026-09-11T07:26:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -126050,7 +126061,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/1935-hsinchu-taichung-earthquake.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-11T07:19:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -129870,8 +129892,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-11T05:40:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc5c753f",
+          "translationLastModified": "2026-09-11T07:26:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -162829,8 +162851,8 @@
           "sourceContentHash": "sha256:4aad559049b3c7a7",
           "sourceBodyHash": "sha256:293b5ab02d696e13",
           "translatedAt": "2026-09-11T05:40:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc5c753f",
+          "translationLastModified": "2026-09-11T07:26:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
