@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T16:04:43+08:00",
-    "zhCommitHead": "8b2c66abd",
+    "lastUpdated": "2026-09-10T16:07:55+08:00",
+    "zhCommitHead": "192882552",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 728,
+        "fresh": 729,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 337,
+        "missing": 336,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 46,
         "metadata_stale": 12,
-        "missing": 240,
+        "missing": 239,
         "orphan": 0
       },
       "de": {
@@ -20602,8 +20602,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19288255",
+          "translationLastModified": "2026-09-10T16:04:43+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -41538,15 +41538,26 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19288255",
+          "translationLastModified": "2026-09-10T16:04:43+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-pigeon-racing.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-10T07:58:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-pigeon-racing.md",
@@ -66739,8 +66750,8 @@
           "sourceContentHash": "sha256:f7989f09dc5120dd",
           "sourceBodyHash": "sha256:22f458cb51ab119a",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19288255",
+          "translationLastModified": "2026-09-10T16:04:43+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -71662,8 +71673,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-10T07:58:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19288255",
+          "translationLastModified": "2026-09-10T16:04:43+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -153592,7 +153603,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/amis-age-set-system.md",
+          "translatedFrom": "Culture/阿美族年齡階級.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:ed1755ea004ce07b",
+          "sourceBodyHash": "sha256:5143620e3afad434",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
