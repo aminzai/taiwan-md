@@ -347,10 +347,30 @@ def git_lock_commit(lang: str, worker_labels: set, files: list, log: Logger) -> 
 # ────────────────────────── verify trio + HEAD-restore (ported + amended) ──────────────────────────
 
 def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Optional[str]]:
-    """The hard gate: verify-translation.py + cjk-leak-check.py +
-    article-health.py --profile=pre-commit. Ported from dispatch-node-v3.sh
-    verify_group() (per-article body), minus the unlink side effect — the
-    caller decides disposition via restore_head_or_quarantine()."""
+    """The hard gate: target-language-check.py + verify-translation.py +
+    cjk-leak-check.py + article-health.py --profile=pre-commit. Ported from
+    dispatch-node-v3.sh verify_group() (per-article body), minus the unlink
+    side effect — the caller decides disposition via restore_head_or_quarantine().
+
+    Why target-language-check runs first (2026-09-09): a delegated agent wrote an
+    English translation into knowledge/de/ and every gate here passed it —
+    structure 55/55, verify 17 pass, leak 0, health hard=0. Each of these measures
+    a *form* (counts match, no Chinese left over, URLs identical, frontmatter
+    complete), and an English article satisfies all of them as well as a German
+    one does. A full-library scan then found 65 more of the same across ja/ko/es/fr.
+    Nothing downstream of here would ever have caught them; the reader would.
+    It runs first because it is the cheapest and the most fundamental: if the file
+    is not in the target language, the other three checks are answering questions
+    about the wrong document."""
+    r0 = subprocess.run(
+        ["python3", "scripts/tools/lang-sync/target-language-check.py", trans_path],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    if r0.returncode != 0:
+        detected = re.search(r"看起來是 (\w+)", r0.stdout)
+        reason = f"wrong-language[{detected.group(1) if detected else '?'}]"
+        log(f"❌ GATE FAIL {trans_path} ({reason})")
+        return False, reason
     r1 = subprocess.run(
         ["python3", "scripts/tools/lang-sync/verify-translation.py", zh_path, trans_path, "--json"],
         cwd=REPO, capture_output=True, text=True,
@@ -415,7 +435,20 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
       committed translation) does this actually unlink → true quarantine,
       article returns to the missing list.
 
-    Returns "restored" | "unlinked".
+    **2026-09-09 amendment — 「HEAD 沒有 = 本來就 missing」不再成立。** 那個推論
+    在產線是唯一寫入者時是對的。委派層（Haiku/Sonnet sub-agent）開始往同一批路徑
+    寫之後就不對了：它的產出經過九道閘、是好東西，只是還沒 commit。產線重譯同一篇
+    失敗時，看到「HEAD 沒有這個路徑」就把它當自己的殘骸 unlink——而且不留 log，
+    因為 restored 那行只在有 HEAD 版本時才印。實際損失：第一波驗過的
+    `id/Food/taiwan-bread-and-baking.md`（cloud log 1841 行只有一句 GATE FAIL）。
+    REFLEXES #91 兩個代謝不同步的新變體——不是「造了沒登記」，是「登記慢一步就被
+    另一個代謝當垃圾清掉」。
+
+    修法：unlink 之前先看這個路徑是不是 git 未追蹤的既有檔案。是的話搬進
+    `.babel-quarantine/` 而不是刪掉——真正的 P0 殘骸搬走跟刪掉對產線是一樣的
+    （佇列都會把它算成 missing 重派），但對「別人剛寫好的東西」差別是能不能救回來。
+
+    Returns "restored" | "unlinked" | "quarantined".
     """
     p = REPO / path_str
     check = subprocess.run(
@@ -431,6 +464,24 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
             log(f"♻️  restored {path_str} to HEAD version (寧可 stale 也不要 missing)")
             return "restored"
         log(f"⚠️  {path_str}: in HEAD but `git show` failed — unlinking as fallback")
+    # HEAD 沒有這個路徑。刪之前先分辨兩種情況：本輪剛寫壞的殘骸（該刪），
+    # 跟別人（委派層）已經寫好但還沒 commit 的成品（不該刪，搬走留底）。
+    if p.exists():
+        untracked = subprocess.run(
+            ["git", "ls-files", "--error-unmatch", path_str],
+            cwd=REPO, capture_output=True,
+        ).returncode != 0
+        if untracked:
+            qdir = REPO / ".babel-quarantine" / Path(path_str).parent
+            qdir.mkdir(parents=True, exist_ok=True)
+            dest = qdir / (Path(path_str).name + f".{int(time.time())}")
+            try:
+                p.replace(dest)
+                log(f"🧊 quarantined {path_str} → {dest.relative_to(REPO)}"
+                    f"（未追蹤檔案，可能是委派層產出，不直接刪）")
+                return "quarantined"
+            except OSError as e:
+                log(f"⚠️  {path_str}: 搬進隔離區失敗（{e}），改為 unlink")
     p.unlink(missing_ok=True)
     return "unlinked"
 
@@ -758,8 +809,16 @@ FRESH_WINDOW_DAYS = 5   # 見 build_worklist：新文章的最高優先窗口
 
 
 def build_worklist(status_data: dict, lang: str, priority: str, order: str,
-                    fail_counts: dict | None = None) -> list:
+                    fail_counts: dict | None = None, max_zh_bytes: int | None = None,
+                    log: Logger | None = None) -> list:
     """四層優先序佇列。
+
+    `max_zh_bytes` 把超過篇幅的文章排除在這條軌之外（不是丟掉——由委派層接）。
+    2026-09-09 實測：雲端軌四個 worker 52 分鐘只嘗試 1 篇、0 通過，每一篇都耗在
+    40-90KB 的深度長文上直到腳註階段逾時（ja/新北市 501 秒、兩次 OpenRouter
+    240 秒逾時，整篇作廢還原）。排序原則「由新到舊」是對的，副作用是站上最新的
+    文章往往也最大，於是產線一開機就撞整個佇列裡最硬的那批。
+    見 [SQUEEZE §第五層分派表](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)。
 
     排序鍵由外到內：
       ① 失敗次數（撞牆多的沉底，不排除——2026-07-26 哲宇 directive
@@ -786,12 +845,19 @@ def build_worklist(status_data: dict, lang: str, priority: str, order: str,
         except Exception:
             return datetime.min.replace(tzinfo=timezone.utc)
 
-    fresh, p0, p1 = [], [], []
+    fresh, p0, p1, oversized = [], [], [], []
     for zh, info in by_article.items():
         t = info.get("translations", {}).get(lang, {})
         st = t.get("status")
         if st not in ("missing", "stale", "metadata-stale"):
             continue
+        if max_zh_bytes:
+            try:
+                if (REPO / "knowledge" / zh).stat().st_size > max_zh_bytes:
+                    oversized.append(zh)
+                    continue
+            except OSError:
+                pass
         raw = info["zh"]["lastModified"]
         nfail = fail_counts.get(f"{lang}:{zh}", 0)
         tier = 0 if st == "missing" else 1          # P0 先於 P1
@@ -816,6 +882,12 @@ def build_worklist(status_data: dict, lang: str, priority: str, order: str,
     # 其餘：失敗沉底
     p0.sort(key=lambda x: x[2])
     p1.sort(key=lambda x: x[2])
+
+    if oversized and log:
+        # 靜默跳過會讓這批永遠隱形（2026-09-09 的 TBD-NEEDS-SLUG 就是這樣藏了
+        # 212 篇），所以每輪明講一次數量與前三篇，並指出它們該由誰接。
+        log(f"⏭️  {len(oversized)} 篇超過 {max_zh_bytes // 1000}KB，本軌跳過交委派層："
+            + "、".join(oversized[:3]) + ("…" if len(oversized) > 3 else ""))
 
     fresh_p0 = [z for z, _, _, tier in fresh if tier == 0]
     fresh_p1 = [z for z, _, _, tier in fresh if tier == 1]
@@ -1579,6 +1651,10 @@ def main() -> None:
     ap.add_argument("--commit-every", type=int, default=50,
                      help="commit after this many verified-ok files per lang (also flushed at "
                           "end of each round)")
+    ap.add_argument("--max-zh-bytes", type=int, default=None,
+                    help="跳過原稿大於這個位元組數的文章（交給委派層）。"
+                         "免費雲端模型對 40KB 以上的深度長文會在腳註階段逾時，"
+                         "留在佇列裡是負產能——見 SQUEEZE §第五層分派表")
     ap.add_argument("--max-articles", type=int, default=None, help="global cap across the whole run (smoke tests)")
     ap.add_argument("--no-commit", action="store_true", help="skip git commit (smoke tests)")
     ap.add_argument("--engine", choices=["whole", "structured"], default="whole",
@@ -1683,6 +1759,7 @@ def main() -> None:
             # 的沉到隊尾，沒試過的先跑，算力優先花在有機會成功的文章上。
             # fail_counts 跨 run 持久化，所以重啟不會又從同一批難篇開始撞。
             worklist_full = build_worklist(status_data, lang, args.priority, args.order,
+                                           max_zh_bytes=args.max_zh_bytes, log=log,
                                             fail_counts=state.fail_counts)
             cap = 10 * len(workers)
             if remaining_budget is not None:

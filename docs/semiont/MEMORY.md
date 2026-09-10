@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-08
-last_session: '2026-09-08-062118-twmd-data-refresh-am'
+last_updated: 2026-09-10
+last_session: '2026-09-10-054327-twmd-embeddings-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -339,3 +339,9 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-09 | 061747-twmd-data-refresh-am | 第三度撞見同一個跨日 dispatcher，fetch 算 ahead/behind 判斷零收益跳過 Step 1；14 步全綠；analytics UTC 時區假警報第二次確認 | 同一訊號重複三次該問的是要不要升級成結構修法，不是熟練現查 | [→](memory/2026-09-09-061747-twmd-data-refresh-am.md) |
 | 2026-09-09 | 064225-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第二天；Chrome MCP 現查 #172/#175 metrics 與留言逐字比對昨天全數不變，真 plateau 非漏檢；登入態與 2 則 Bucket D 續等哲宇 | 彙總欄位是空的不等於有未結案訊號的項目也沒新動靜，兩者要分開驗證 | [→](memory/2026-09-09-064225-twmd-spore-harvest-am.md) |
 | 2026-09-09 | 070920-twmd-feedback-triage | 連三輪零回報仍跑完 --commit，兩道對賬 84/84 與 83/84 全綠；兌現昨天 handoff 反查寫入端，最新一列 09-05、線上 widget 仍在 supabase 模式，沉默在讀者那側 | 報表第一行的「0 筆」同時是沒人送與送不進來的長相 | [→](memory/2026-09-09-070920-twmd-feedback-triage.md) |
+| 2026-09-09 | 090531-twmd-maintainer-am | 8 ready PR 強制升 full，7 篇翻譯全綠 merged；修掉紅了一夜的 CI（wrangler 帶進 sharp 舊版）；追上游量出十語 1,557 篇譯文帶未翻中文 | 那道閘門寫進 pipeline 卻從沒被產線呼叫過，暫時的未接線跟永久的長得一樣 | [→](memory/2026-09-09-090531-twmd-maintainer-am.md) |
+| 2026-09-09 | 140605-opentwbench | OpenTWBench 用我們語料做 tw-formosa-bench（CC BY-SA 繼承、署名回連本 repo）。追回落後 249 commit 的本機，工作樹新鮮度與日記門檻各補一道閘 | 沒有外部尺的自評問句當不了閘，寫得好的 LLM 永遠答得出 yes | [→](memory/2026-09-09-140605-opentwbench.md) |
+| 2026-09-09 | 155613-babel-vortex | 補 207 條 slug 解開 212 篇排不進隊的死結（佔缺口 59%）；新增語言閘擋下通過六道舊閘的英文譯文、掃出 65 篇存量；雲端軌設 40KB 上限；Haiku 落地 50 篇 | 規則沒有工具在動作那一刻執行它，等於沒有規則——一天三次，第三次是我 | [→](memory/2026-09-09-155613-babel-vortex.md) |
+| 2026-09-10 | 003700-twmd-babel-nightly | 同一 PID 的 dispatcher 第二晚仍未收工（近 48h），三重巡檢確認真活著後再次讓場；gemma31 六語言弱適配警訊 + 該訊號寫進 LESSONS-INBOX vc=2 | 同一訊號連續出現不代表已處理，只代表還沒到升級門檻；vc=2 進 buffer，vc≥3 才升 canonical | [→](memory/2026-09-10-003700-twmd-babel-nightly.md) |
+| 2026-09-10 | 053747-twmd-routine-sync | 第 44 輪對賬 18/18 in-sync 零漂移；同一 dispatcher（PID 52743）續跑近 53h，本地 ahead51/behind86 首次真分岔非單純落後，判讀為預期副作用繞開不動 | 落後與分岔的安全繞開動作相同，但狀態不同，要靠工具輸出分辨不能預設一樣 | [→](memory/2026-09-10-053747-twmd-routine-sync.md) |
+| 2026-09-10 | 054327-twmd-embeddings-nightly | 本機直連重建 13 語 10,269 向量 0 fail；de 第四夜 below-threshold 核對檔數（163）一致；本地 ahead/behind 真分岔擋下 rebase，改用 detached worktree cherry-pick 安全 push，順手撿回上一班未推出的 routine-sync commit | git 安全擋下危險操作時，正確處置是換工具不是硬闖；worktree 隔離也適用「不能碰主樹又要 push 單一 commit」場景 | [→](memory/2026-09-10-054327-twmd-embeddings-nightly.md) |

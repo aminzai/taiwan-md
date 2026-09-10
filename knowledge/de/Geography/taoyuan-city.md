@@ -110,7 +110,7 @@ Warum Taoyuan? Ein älterer Einwohner von Zhongli sagte einem _Chiao Da Kao_ Rep
 
 Dieser Satz komprimiert drei historische Abschnitte. Nach dem Rückzug der KMT im Jahr 1949 war Taoyuan ein Zentrum für große Luftwaffe-Basen (die Geheimbildung von „Black Cat Squadron“ in der Luftwaffenbasis Taoyuan im Jahr 1961) und Heerseinheiten (Hukou, Pingzhen). Im Jahr 2004 gab es 879 Militärfamilienstädte in Taiwan, **davon 80 in Taoyuan, die größte Zahl im ganzen Land** [^14]. In den 1990er Jahren wurde das Militär abgebaut und gleichzeitig industrialisiert. Die Industriegebiete Guan Yin, Luzhu und Zhongli wurden nacheinander entwickelt, da Fabriken Arbeitskräfte benötigten. „**Über ein Drittel der Top 500-Hersteller in Taiwan hat Fabriken in Taoyuan**,“ und das industrielle Produktionsvolumen war „**mehrere Jahre lang das größte im ganzen Land**“ [^15]. Nach der Öffnung für Arbeitsmigranten in den 1990er Jahren ersetzten die von Fabriken beschäftigten Migranten die schrumpfenden Soldaten. Das südostasiatische Geschäftsviertel vor dem Bahnhof Zhongli ist die physische Manifestation dieser Struktur.
 
-> **✦** „**Am Ende des Jahres 112 erreichten die Arbeitsmigranten in Taoyuan City 132.158, was 17,5 % der gesamten Arbeitsmigrantenzahl im Land ausmacht und damit Spitzenreiter ist.**“ (Taoyuan市政府新聞稿 verbatim [^12])
+> **✦** „**Am Ende des Jahres 112 erreichten die Arbeitsmigranten in Taoyuan City 132.158, was 17,5 % der gesamten Arbeitsmigrantenzahl im Land ausmacht und damit Spitzenreiter ist.**“ (Pressemitteilung der Stadtregierung Taoyuan, verbatim [^12])
 
 ## Der Shimen-Stausee stieg um 133,1 Meter; unter der Landmasse liegen 2.800 Pingtang
 

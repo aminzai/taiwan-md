@@ -238,7 +238,7 @@ Cada rota energética tem seus opositores; cada opositor, sua história.
 
 > 📝 **Nota do curador**: O debate comum de justiça ambiental para em "equilibrar desenvolvimento e ambiente", mas esse enquadramento aplana o problema. Lan Yü, recifes, Meinong compartilham: **são sequelas de decisões dos anos 1980, pagas por movimentos sociais dos anos 1990–2020**. A transição até 2050 vai gerar muitos novos "Lan Yü", "recifes" (pescadores de Changhua na eólica, indígenas de Yilan na geotérmica, salinas de Tainan no solar). A verdadeira pergunta: "conseguimos não repetir o modelo de decisão de 1982?"
 
-Contexto histórico detalhado em [História do movimento ambiental em Taiwan](/nature/台灣環境運動史) e [Desafios de governança e conservação da poluição marinha em Taiwan](/pt/nature/marine-pollution-governance-and-conservation).
+Contexto histórico detalhado em [História do movimento ambiental em Taiwan](/pt/nature/taiwan-environmental-movement-history) e [Desafios de governança e conservação da poluição marinha em Taiwan](/pt/nature/marine-pollution-governance-and-conservation).
 
 ## 9 trilhões NT$ e os limites físicos
 
@@ -310,10 +310,10 @@ Os 97.672 barris de Lan Yü não vão desaparecer seja qual for o resultado do r
 - [Taiwan e a discussão nuclear](/pt/society/taiwan-nuclear-debate) — Este artigo trata de energia e limites físicos; aquele trata do debate nuclear em si: quarenta anos de antinuclear/pronuclear, três referendos e a luta social em torno dos resíduos nucleares de Lan Yü
 - [História do movimento ambiental de Taiwan](/pt/nature/taiwan-environmental-movement-history) — Do antinuclear ao contra poluição do ar, como os Tao de Lan Yü, o contra represa de Meinong e o referendo dos recifes de algas moldaram a política energética de hoje
 - [Governança e desafios de conservação da poluição marinha de Taiwan](/pt/nature/marine-pollution-governance-and-conservation) — 80% de branqueamento de corais na saída de água da Usina Nuclear 3, resíduos marinhos e a interseção ecológica com eólica offshore
-- [Fontes termais e geotérmica de Taiwan](/pt/nature/Taiwan Hot Springs and Geothermal Energy) — Do fracasso da geotérmica de Chingshui em 1981 ao reinício em 2024, como se formaram 30 anos de silêncio geotérmico
+- [Fontes termais e geotérmica de Taiwan](/pt/nature/taiwan-hot-springs-and-geothermal-energy) — Do fracasso da geotérmica de Chingshui em 1981 ao reinício em 2024, como se formaram 30 anos de silêncio geotérmico
 - [Justiça ambiental e conflitos NIMBY de Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Lan Yü, recifes de algas, Meinong: a política de distribuição dos custos da transição energética
 - [Transformação e atualização industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — Da manufatura de alto consumo energético à indústria de energia verde, a conta energética da TSMC RE100, CBAM, montanha sagrada protetora
-- [Árvores de rua de Taiwan](/lifestyle/台灣行道樹) — A sombra das árvores de rua como adaptação à ilha de calor urbana em escala de espaço e tempo: árvores levam pelo menos dez anos para crescer o suficiente para dar sombra, é o item de adaptação que menos pode esperar nesta linha
+- [Árvores de rua de Taiwan](/pt/lifestyle/taiwan-street-trees) — A sombra das árvores de rua como adaptação à ilha de calor urbana em escala de espaço e tempo: árvores levam pelo menos dez anos para crescer o suficiente para dar sombra, é o item de adaptação que menos pode esperar nesta linha
 - [Desenvolvimento da modernização agrícola de Taiwan](/pt/economy/taiwan-agricultural-modernization) — Pressão de transformação agrícola e conflitos de uso da terra por trás da simbiose agrovoltaica
 - [Meiyu](/pt/nature/meiyu-stagnant-front) — Observação local da mudança climática: "chuva de primavera não vem, meiyu concentrado"
 

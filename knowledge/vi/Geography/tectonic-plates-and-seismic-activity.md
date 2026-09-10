@@ -106,7 +106,7 @@ Khu vực phía Đông Bắc Đài Loan, bao gồm cả Đài Bắc lớn, chị
 
 **Trận động đất 921 Tập Tập (1999/9/21)**
 
-Vào lúc 1 giờ 47 phút sáng ngày 21 tháng 9 năm 1999, một trận động đất quy mô Richter 7,3 phát nổ gần Tập Tập, huyện Nam Đầu, với cường độ chấn động tối đa mức 7. Trận động đất này gây ra 2.415 người tử vong, 11.305 người bị thương, hơn 100.000 công trình hoàn toàn sập hoặc hư nặng, tổng tổn thất kinh tế trực tiếp ước tính hơn 3.000 tỷ nhân dân tệ Đài Loan, là thảm họa tự nhiên gây tử vong nặng nề nhất của Đài Loan trong thế kỷ 20. Vỡ nứt bề mặt dọc đứt gãy Chê Long Bộ kéo dài khoảng 105 km, một số vị trí độ dịch chuyển thẳng đứng lên tới 8 mét. Trận động đất 921 đã thúc đẩy Đài Loan sửa đổi toàn diện các quy chuẩn chống chấn động kiến trúc, đồng thời đẩy mạnh năng lực nghiên cứu kỹ thuật hàng địa chấn, đặt nền tảng cho hệ thống phòng chống chấn động hiện đại của Đài Loan. [^5]
+Vào lúc 1 giờ 47 phút sáng ngày 21 tháng 9 năm 1999, một trận động đất quy mô Richter 7,3 phát nổ gần Tập Tập, huyện Nam Đầu, với cường độ chấn động tối đa mức 7. Trận động đất này gây ra 2.415 người tử vong, 11.305 người bị thương, hơn 100.000 công trình hoàn toàn sập hoặc hư nặng, tổng tổn thất kinh tế trực tiếp ước tính hơn 3.000 tỷ đô la Đài Loan mới, là thảm họa tự nhiên gây tử vong nặng nề nhất của Đài Loan trong thế kỷ 20. Vỡ nứt bề mặt dọc đứt gãy Chê Long Bộ kéo dài khoảng 105 km, một số vị trí độ dịch chuyển thẳng đứng lên tới 8 mét. Trận động đất 921 đã thúc đẩy Đài Loan sửa đổi toàn diện các quy chuẩn chống chấn động kiến trúc, đồng thời đẩy mạnh năng lực nghiên cứu kỹ thuật hàng địa chấn, đặt nền tảng cho hệ thống phòng chống chấn động hiện đại của Đài Loan. [^5]
 
 **Trận động đất Hoa Liên 0403 (2024/4/3)**
 

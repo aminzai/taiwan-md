@@ -91,7 +91,7 @@ Penyair generasi baru seperti Chen Yu-hung dan Ching Hsiang-hai, sambil mewarisi
 
 Visibilitas internasional puisi modern Taiwan meningkat bertahap. Karya para penyair seperti Yu Kwang-chung, Yang Mu, Chen Li, dll diterjemahkan ke dalam berbagai bahasa seperti Inggris, Prancis, Jerman. Terbitnya versi bahasa Inggris dan bahasa Turki dari 《來自台灣的聲音——台灣現代詩選》（Voices from Taiwan） menandai puisi Taiwan mulai menemukan posisinya di peta sastra dunia.
 
-**✦** 「一個小島的詩歌語言，最終必須在世界的語境中證明自己的價值。」
+**✦** «Bahasa puisi sebuah pulau kecil pada akhirnya harus membuktikan nilainya dalam konteks dunia.»
 
 ## Ramalan yang Tak Terduga
 

@@ -26,8 +26,8 @@ lastHumanReview: false
 readingTime: 15
 researchReport: reports/research/2026-05/lienchiang-county.md
 series: '22 Huyện thành series'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png
-imageCredit: Sleepingstar
+image: /article-images/geography/matsu-islands-montage.webp
+imageCredit: Sleepingstar / Wikimedia Commons
 imageLicense: CC BY-SA 3.0
 imageSource: https://commons.wikimedia.org/wiki/File:Matsu_Montage.png
 translatedFrom: 'Geography/連江縣.md'
@@ -51,7 +51,7 @@ Từ Nam Cán tới bờ đất liền gần nhất (bán đảo Bắc Tiêu), k
 
 Sự thật địa lý của Lienchiang chính là: **cách thành phố Phúc Kiến còn gần hơn cách thủ đô của chính mình gần một mươi ba lần**.
 
-![Ảnh tổng hợp địa cảnh quần đảo Mã Tổ, bao gồm làng Thự Tích, ngọn hải đăng Đông Dẫn, đường hầm quân sự, mắt lam và sáu cảnh quan khác. Sleepingstar ghép lại năm 2012.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png)
+![Ảnh tổng hợp địa cảnh quần đảo Mã Tổ, bao gồm làng Thự Tích, ngọn hải đăng Đông Dẫn, đường hầm quân sự, mắt lam và sáu cảnh quan khác. Sleepingstar ghép lại năm 2012.](/article-images/geography/matsu-islands-montage.webp)
 
 Nhưng tên của huyện này là "Lienchiang". Ở tỉnh Phúc Kiến của Cộng hòa Nhân dân Trung Hoa cũng có một "huyện Lienchiang", trị sở ở thị trấn Phượng Thành hạ du của Phúc Kiến, được quân Cộng sản tiếp quản vào mùa hè cuối cùng của Nội chiến năm 1949. Chính phủ huyện Lienchiang của Trung Hoa Dân Quốc lúc ấy rút lui tới quần đảo Mã Tổ, năm 1953 tháng 8 phục hồi trị sở huyện ở Nam Cán[^2]. **Một huyện chia làm hai phần, nửa ở phía Đảng Cộng sản Trung Quốc, nửa trở thành huyện của Đài Loan**. Đây là trường hợp duy nhất trong 22 huyện thành của Đài Loan.
 
@@ -79,7 +79,7 @@ Trên sườn núi phía nam đảo Đông Dẫn, ở nơi gọi là núi Lão �
 
 Năm 1617 (năm Thứ 45 Vạn Lịch thời Minh), tháng 5, vị tướng Thần Hữu Dung canh thủ vùng biển Mân, tại đông Sa (chính là đảo Đông Dẫn hôm nay) chiến đấu gay gắt với cướp biển Nhật, sinh bắt được 69 người không mất một lính[^8]. Năm 1630 (năm Thứ 3 Sùng Trần thời Minh), Thượng thư Công bộ Đổng Ứng Cử khắc một tấm bia kỷ niệm trận chiến này. Nội dung bia 41 chữ:
 
-> **"萬曆彊梧大荒落地臘後挾日宣州沈君有容獲生倭六十九名於東沙之山不傷一卒閩人董應舉題此。"**[^9]
+> **"Năm Đinh Tỵ niên hiệu Vạn Lịch [1617], mười ngày sau tiết Địa Lạp, ông Thẩm Hữu Dung người Tuyên Châu bắt sống sáu mươi chín tên giặc Nhật ở núi Đông Sa mà không tổn một binh sĩ. Người đất Mân là Đổng Ứng Cử đề khắc."** (萬曆彊梧大荒落地臘後挾日宣州沈君有容獲生倭六十九名於東沙之山不傷一卒閩人董應舉題此)[^9]
 
 Tấm "khắc đá Đại Bộ" này là tấm khắc đá trên bề mặt đất cũ nhất và lớn nhất hiện có ở khu vực Mã Tổ, ngày nay được liệt kê là di tích huyện Lienchiang. Năm 1953 khi quân Quốc Dân Đảng xây dựng công sự phòng thủ ở Đông Dẫn, nó được phát hiện, lúc ấy được bao quanh bằng lưới thép để bảo vệ[^10].
 
@@ -153,7 +153,7 @@ Nhưng mất ngôn ngữ rất nặng nề.
 
 Một bài báo tiếng Anh nghiên cứu tiếng Mã Tổ viết thẳng: "**Less than 30% of Matsu households currently speak in their mother tongue. Some elders believe that this is a dying language.**" (Hiện không tới ba mươi phần trăm gia đình Mã Tổ sử dụng tiếng mẹ đẻ. Một số người cao tuổi tin rằng đây là một ngôn ngữ đang chết.) Bài viết này còn ghi lại một câu khác: "**The ban on speaking in dialects was painful and hastened the crisis of language extinction.**" (Lệnh cấm nói phương ngữ rất đau đớn và tăng tốc độ cuộc khủng hoảng tuyệt chủng ngôn ngữ.)[^25]
 
-Tình hình ngôn ngữ bản địa ở Mã Tổ nghiêm trọng hơn đảo Đài Loan chính. Mục từ tiếng Mã Tổ Wikipedia verbatim: "**近年來，隨著馬祖地區開放觀光，以及大量民眾移民臺灣島，有不少馬祖的在地居民開始會說閩南語臺灣話，作為母語的馬祖話面臨式微困境，年輕一輩不太說甚至不會說。**"[^26]
+Tình hình ngôn ngữ bản địa ở Mã Tổ nghiêm trọng hơn đảo Đài Loan chính. Mục từ Wikipedia về tiếng Mã Tổ ghi nguyên văn: "**Những năm gần đây, cùng với việc vùng Mã Tổ mở cửa du lịch và một lượng lớn cư dân di cư sang đảo Đài Loan, không ít người dân bản địa Mã Tổ đã bắt đầu nói tiếng Đài (Mân Nam); tiếng Mã Tổ với tư cách tiếng mẹ đẻ đang lâm vào cảnh mai một, lớp trẻ ít nói, thậm chí không biết nói.**" (近年來，隨著馬祖地區開放觀光，以及大量民眾移民臺灣島，有不少馬祖的在地居民開始會說閩南語臺灣話，作為母語的馬祖話面臨式微困境，年輕一輩不太說甚至不會說)[^26]
 
 Con số cấp thiết hơn đến từ Bát Đức, Đào Viên: "**Tiếng Mã Tổ trong ba thế hệ gần đây, tỷ lệ mất 94%, thuộc hạng 'nguy hiểm nặng nề'.**"[^17]
 
@@ -231,17 +231,17 @@ Phúc Kiến ở 16 km. Đài Loan ở 200 km. **Khoảng cách này không thay
 
 ## Mở rộng bài đọc
 
-- [Văn hoá đảo ngoài khơi và biển cả](/geography/văn-hoá-đảo-ngoài-khơi-và-biển-cả) — Mã Tổ cùng với Bành Hồ, Kim Môn, Đảo Xanh, Lan Đảo thành lập nhóm đảo ngoài khơi, con đường khác nhau của văn hoá biển cả
-- [Đặc điểm địa lý đảo Đài Loan và quá trình hình thành](/geography/đặc-điểm-địa-lý-đảo-đài-loan-và-quá-trình-hình-thành) — Địa chất hoa cương Lienchiang so sánh với quá trình hình thành những đảo Đài Loan khác
-- [Thành phố Cơ Long](/geography/thành-phố-cơ-long) — Tàu Nam Cán từ cảng Cơ Long khởi hành tới cảng Phúc Ngạo Nam Cán mất 8 tới 10 giờ, Cơ Long là kết nối vật lý của Mã Tổ với đảo Đài Loan
-- [Thời kỳ thiết quân luật](/history/thời-kỳ-thiết-quân-luật) — Đảo Đài Loan chính giải tỏa thiết quân luật năm 1987, Kim Môn-Mã Tổ kéo dài tới 1992 kết thúc quân chính sự vụ, đối chiếu hai phiên bản thiết quân luật
-- [Quốc phòng và hiện đại hoá quân sự Đài Loan](/society/quốc-phòng-và-hiện-đại-hoá-quân-sự-đài-loan) — Hôm nay Bộ Chỉ huy Phòng thủ Mã Tổ 4.000 người, so với cấu trúc binh lực toàn thời 50.000
-- [Đa dạng ngôn ngữ và văn hoá tiếng mẹ đẻ](/culture/đa-dạng-ngôn-ngữ-và-văn-hoá-tiếng-mẹ-đẻ) — Vị trí tiếng Mã Tổ (tiếng Mân Nam) là ngôn ngữ mẹ đẻ thứ tư Đài Loan
-- [Ma Tổ và Đại Đạo Công truyền thuyết](/culture/ma-tổ-và-đại-đạo-công-truyền-thuyết) — Tín ngưỡng hầm linh huyệt Miếu Ma Tổ Mã Cảng, khác biệt so với Ma Tổ Mân Nam của đảo Đài Loan chính
-- [Địa hình bờ biển Đài Loan và cảnh quan biển cả](/geography/địa-hình-bờ-biển-đài-loan-và-cảnh-quan-biển-cả) — Khoảng cách Mã Tổ tới bán đảo Bắc Tiêu 9,25 km cấu trúc vùng biển
-- [Thành phố Bình Đông](/geography/thành-phố-bình-đông) — Chuỗi 22 huyện thành: 1874 sự kiện Mục Đan Xã + lũ lụt 88 + 5 dân tộc bản địa sống chung 780.000 người, cùng Mã Tổ là điểm then chốt mà lịch sử trung tâm bỏ qua
-- [Huyện Kim Môn](/geography/huyện-kim-môn) — Chuỗi 22 huyện thành anh chị em, tỉnh Phúc Kiến huyện ngoài khơi khác. Cùng 1956 quân chính sự vụ, 1992 kết thúc, 2001 ba nhỏ thông, nhưng Kim Môn nói tiếng Mân Nam cùng Đồng Quan giọng, cách đảo Hải Môn 1,8 km, có chiến dịch Cổ Ninh Đầu và 8-23 hai trận quyết định, khác nhau xương máu với Lienchiang
-- [Đảo Nghệ thuật Quốc tế Mã Tổ](/art/đảo-nghệ-thuật-quốc-tế-mã-tổ) — Chính quyền Lienchiang tổ chức dự án dàn dựng 10 năm, biến hầm quân chính, đề xứ quân sự, phòng trà quân thành trưng bày, là trường hợp cụ thể nhất gần đây về chuyển đổi đảo mà phần này "du lịch hoá trước và sau" đề cập
+- [Văn hoá đảo ngoài khơi và biển cả](/vi/geography/offshore-islands-and-maritime-culture) — Mã Tổ cùng với Bành Hồ, Kim Môn, Đảo Xanh, Lan Đảo thành lập nhóm đảo ngoài khơi, con đường khác nhau của văn hoá biển cả
+- [Đặc điểm địa lý đảo Đài Loan và quá trình hình thành](/geography/台灣島嶼地理特色與形成) — Địa chất hoa cương Lienchiang so sánh với quá trình hình thành những đảo Đài Loan khác
+- [Thành phố Cơ Long](/vi/geography/keelung-city) — Tàu Nam Cán từ cảng Cơ Long khởi hành tới cảng Phúc Ngạo Nam Cán mất 8 tới 10 giờ, Cơ Long là kết nối vật lý của Mã Tổ với đảo Đài Loan
+- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — Đảo Đài Loan chính giải tỏa thiết quân luật năm 1987, Kim Môn-Mã Tổ kéo dài tới 1992 kết thúc quân chính sự vụ, đối chiếu hai phiên bản thiết quân luật
+- [Quốc phòng và hiện đại hoá quân sự Đài Loan](/vi/society/taiwan-defense-modernization) — Hôm nay Bộ Chỉ huy Phòng thủ Mã Tổ 4.000 người, so với cấu trúc binh lực toàn thời 50.000
+- [Đa dạng ngôn ngữ và văn hoá tiếng mẹ đẻ](/vi/culture/linguistic-diversity-and-mother-tongue-culture) — Vị trí tiếng Mã Tổ (tiếng Mân Nam) là ngôn ngữ mẹ đẻ thứ tư Đài Loan
+- [Ma Tổ và Đại Đạo Công truyền thuyết](/vi/culture/mazu-dadaogong-legend) — Tín ngưỡng hầm linh huyệt Miếu Ma Tổ Mã Cảng, khác biệt so với Ma Tổ Mân Nam của đảo Đài Loan chính
+- [Địa hình bờ biển Đài Loan và cảnh quan biển cả](/vi/geography/taiwan-coastal-landforms-and-seascapes) — Khoảng cách Mã Tổ tới bán đảo Bắc Tiêu 9,25 km cấu trúc vùng biển
+- [Thành phố Bình Đông](/vi/geography/pingtung-county) — Chuỗi 22 huyện thành: 1874 sự kiện Mục Đan Xã + lũ lụt 88 + 5 dân tộc bản địa sống chung 780.000 người, cùng Mã Tổ là điểm then chốt mà lịch sử trung tâm bỏ qua
+- [Huyện Kim Môn](/vi/geography/kinmen-county) — Chuỗi 22 huyện thành anh chị em, tỉnh Phúc Kiến huyện ngoài khơi khác. Cùng 1956 quân chính sự vụ, 1992 kết thúc, 2001 ba nhỏ thông, nhưng Kim Môn nói tiếng Mân Nam cùng Đồng Quan giọng, cách đảo Hải Môn 1,8 km, có chiến dịch Cổ Ninh Đầu và 8-23 hai trận quyết định, khác nhau xương máu với Lienchiang
+- [Đảo Nghệ thuật Quốc tế Mã Tổ](/vi/art/matsu-biennial) — Chính quyền Lienchiang tổ chức dự án dàn dựng 10 năm, biến hầm quân chính, đề xứ quân sự, phòng trà quân thành trưng bày, là trường hợp cụ thể nhất gần đây về chuyển đổi đảo mà phần này "du lịch hoá trước và sau" đề cập
 
 ## Nguồn ảnh
 

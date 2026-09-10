@@ -181,7 +181,7 @@ _Hải Phú Viên của Hương Cảng, "Nhà ở" của chính phủ Hương C�
 
 Nếu nói Hương Cảng là một bài tập mà Đài Loan nên sao chép nhưng không sao chép, thì Anh Quốc là một chiếc gương còn tàn bạo hơn.
 
-Năm 1980, chính phủ Thatcher thực hiện "Quyền mua" (Right to Buy), cho phép những cư dân thuê nhà công cộng có thể sử dụng chiết khấu rất cao, mua lại nhà công cộng mà họ đang ở. Chính sách lớn được chào đón, trước và sau bán được khoảng 1,9 triệu căn nhà công cộng. Giá là gì? Tỷ lệ nhà ở xã hội của Anh Quốc, từ năm 1980 là 31%, một đường cắt đôi xuống còn 16% năm 2023.[^13] Khi kho lưu trữ công cộng một khi được bán cho cá nhân, nó không quay lại được. Bộ tư vấn Common Wealth tính toán một khoản, chỉ giá trị lợi ích từng được cho phép từ những chiết khấu lúc đó, đã đạt đến 1,94 tỷ bảng Anh, chuyển đổi khoảng 8 nghìn tỷ tệ Đài Loan mới. Từ ngữ ban đầu của nó là:
+Năm 1980, chính phủ Thatcher thực hiện "Quyền mua" (Right to Buy), cho phép những cư dân thuê nhà công cộng có thể sử dụng chiết khấu rất cao, mua lại nhà công cộng mà họ đang ở. Chính sách lớn được chào đón, trước và sau bán được khoảng 1,9 triệu căn nhà công cộng. Giá là gì? Tỷ lệ nhà ở xã hội của Anh Quốc, từ năm 1980 là 31%, một đường cắt đôi xuống còn 16% năm 2023.[^13] Khi kho lưu trữ công cộng một khi được bán cho cá nhân, nó không quay lại được. Bộ tư vấn Common Wealth tính toán một khoản, chỉ giá trị lợi ích từng được cho phép từ những chiết khấu lúc đó, đã đạt đến 1,94 tỷ bảng Anh, chuyển đổi khoảng 8 nghìn tỷ đô la Đài Loan mới mới. Từ ngữ ban đầu của nó là:
 
 > ✦ "Giá trị lợi ích từng được cho phép từ chiết khấu là 1,94 tỷ bảng Anh…"（光是折扣讓渡出去的權益，價值就達 1940 億英鎊。） — Bộ tư vấn Common Wealth
 

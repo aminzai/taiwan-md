@@ -2,9 +2,7 @@
 title: 'Nantou County: The Only Landlocked County, with the 921 Earthquake Epicenter at Its Center'
 description: "At 1:47 a.m. on September 21, 1999, the Chelungpu Fault beneath Jiji Township ruptured for 102 seconds. Across Taiwan, 2,415 people died; Nantou alone accounted for 886 deaths, and 90 percent of buildings in Zhongliao Township were damaged. On the day of the flag-raising ceremony at Wushe Public School in 1930, Mona Rudao led six Seediq communities in killing 134 Japanese civilians. In 1934, the Wujie Dam raised the water level by 18.18 meters, submerging the Thao people's Lalu Island. In 1957, Zhongxing New Village was completed as the Taiwan Provincial Government's temporary office site; after the 1998 downsizing of the province hollowed it out, only the coconut-palm boulevard remained. Some 470,000 people live in this inland county, rising from 100 meters to 3,952 meters above sea level, where Seediq, Bunun, Thao, Tsou, and Han people live together. Taiwan's deepest wounds are all here."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Nantou',
@@ -23,19 +21,23 @@ tags:
     'Puli',
     '22 Counties and Cities Series',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/南投縣.md'
+series: '22 縣市系列（batch 3）'
+image: '/article-images/geography/sun-moon-lake-twilight.webp'
+imageCredit: 'Tommy.In / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG'
 translatedFrom: 'Geography/南投縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c80f3accc7342bb8'
-sourceBodyHash: 'sha256:9116715a2d516221'
-translatedAt: '2026-06-16T17:03:25Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:3e20b5d7cae61e95'
+sourceBodyHash: 'sha256:b09f70f5d82caaa2'
+translatedAt: '2026-09-08T20:59:47.689511+00:00'
 ---
 
 # Nantou County: The Only Landlocked County, with the 921 Earthquake Epicenter at Its Center
@@ -62,25 +64,25 @@ The Reporter later tracked the total damage: “**Damage from 921 was roughly mo
 
 Mid-Autumn Festival came on the fourth day after 921. The moon shone on a mountain town without electricity.
 
-## The Only County Without a Coast, Rising from 100 Meters to 3,952 Meters
+## The Only County Not Bordered by the Sea, Rising from 100 Meters to 3,952 Meters
 
-![Sun Moon Lake at dusk. This artificial lake formed after the Wujie Dam raised the water level by 18.18 meters in 1934, submerging the Thao people’s original Shiyin settlement and farmland around Lalu Island. The lake surface tourists see today is a “nature” rewritten by engineering.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG)
-_Sun Moon Lake at dusk. Photo: Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
+![Sunset over Sun Moon Lake. An artificial lake formed after the Wujie Dam rose to an 18.18-meter water level in 1934, flooding the Shi Yin settlement and surrounding farmlands of the Tao tribe. The lake seen today by tourists is a "natural" landscape reshaped by engineering.](/article-images/geography/sun-moon-lake-twilight.webp)
+_Sunset over Sun Moon Lake. Photo: Tommy.In / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
 
-Nantou is the **only county among the 22 counties and cities on Taiwan proper that does not border the sea**.
+Nantou is the **only county** among Taiwan's 22 counties and cities that does not border the sea.
 
-From the Changhua County boundary in the west to the Hualien County boundary in the east, Nantou is 95 kilometers long north to south and 72 kilometers wide east to west. With an area of 4,106 square kilometers, it is Taiwan’s second-largest county, behind only Hualien[^7]. Elevation begins at roughly 100 to 150 meters in urban Nantou and climbs all the way to Yushan’s main peak at 3,952 meters. Hillslopes account for 83 percent of the county, with very few plains. Among its 13 townships, towns, and cities, Xinyi Township and Ren’ai Township are mountain Indigenous townships, while Yuchi Township is a plains Indigenous township.
+Stretching 95 kilometers north-south and 72 kilometers east-west, from the boundary of Changhua County in the west to Hualien County in the east, Nantou covers an area of 4,106 square kilometers, making it Taiwan's second-largest county after Hualien[^7]. The elevation ranges from about 100 to 150 meters in the Nantou city area, climbing all the way up to Yushan Peak at 3,952 meters. Mountainous terrain accounts for 83% of the entire county, with few plains. Among its 13 townships and cities, Xinyi Township and Ren'ai Township are mountainous areas, while Yuci Township is a plain indigenous area.
 
-The Zhuoshui River is Taiwan’s longest river, at 186.4 kilometers. It originates at “Sakuma Saddle” between Hehuan Mountain’s main and east peaks, at an elevation of 3,220 meters, then descends through eight Nantou townships[^7]. Provincial Highway 14A climbs to the saddle between Hehuan Mountain’s main and east peaks at 3,275 meters. It is called Wuling and is the highest point on Taiwan’s road system.
+The Zhuoxi River is Taiwan's longest river, spanning 186.4 kilometers, originating in the "Zuojian Saddle" between Hehuanshan Peak and Dongfeng (at an altitude of 3,220 meters), and flowing through eight townships in Nantou[^7]. Provincial Highway 14, Section Jia climbs to the saddle between Hehuanshan Peak and Dongfeng at 3,275 meters, known as Wuling, which is the highest point on a highway in Taiwan.
 
-Some 470,000 people live in the county, according to 2025 figures[^7]. The share of residents aged 65 or older is 22.51 percent, making Nantou the third-most-aged county in Taiwan. Young people have long been leaving the mountain areas.
+The county has a population of 470,000 people (as of 2025)[^7]. The proportion of residents aged 65 and older is 22.51%, making it the third-oldest county in Taiwan. Young people from the mountainous areas have long migrated away.
 
-> **📝 Curator’s note:** “Landlocked” sounds like a defect. But when the Nationalist government chose Zhongxing New Village as the Taiwan Provincial Government’s temporary office site in 1957, one reason was precisely that it was **inland enough**: if a cross-strait war reached Taipei, the provincial government would not be knocked out together with the central government. Inland meant backup; it meant safety. Then, at 1:47 a.m. on September 21, 1999, Taiwan’s deepest postwar internal injury burst out from the center of this “most inland” county. The physical meaning of inland was redefined in 102 seconds: you may think distance from war means distance from disaster, but the Chelungpu Fault does not choose sides.
+> **📝 Curator's Note:** "Not bordering the sea" might sound like a flaw. However, one reason the KMT government selected Zhongxing New Village as the temporary provincial government office in 1957 was because it was **inland enough**: in case war between the two sides affected Taipei, the provincial government would not be wiped out along with the central government. Inland meant backup; inland meant safety. Then, at 1:47 AM on September 21, 1999, Taiwan's deepest post-war internal wound erupted from the center of this "most inland" county. The physical meaning of being inland was redefined within 102 seconds: you thought that being far from war meant being far from disaster, but the Chuanluo Fault does not discriminate by location.
 
-The county’s history is arranged by altitude. Babao Canal on the plains, Wushe on the mountainside, Lalu Island beneath the lake surface, Yushan at 3,952 meters: at every elevation layer, a story is pressed into place.
+The history of this county is arranged by altitude. The Baobao Canal in the plains, Wushe on the mountainside, Lalu Island beneath the lake, and Yushan at 3,952 meters—each elevation level bears a story.
 
-![The high-mountain landscape around Hehuan Mountain’s main peak. Wuling, at 3,275 meters above sea level, sits on the saddle between Hehuan Mountain’s main and east peaks. This point on Provincial Highway 14A is the highest point on Taiwan’s road system and one of the few places on Taiwan proper where snow can be seen in winter.](/article-images/geography/nantou-01.webp)
-_Hehuan Mountain landscape. Photo: Chewy3326, CC BY 2.5. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
+![High mountain scenery around Hehuanshan Peak, with Wuling at an altitude of 3,275 meters located in the saddle between Hehuanshan Peak and Dongfeng. This point on Provincial Highway 14 is the highest point on a highway in Taiwan, and it is one of the few places on the island where snow can be seen each winter.](/article-images/geography/nantou-01.webp)
+_Hehuanshan landscape. Photo: Chewy3326, CC BY 2.5. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
 
 ## The Water of Babao Canal Has Flowed to Mingjian Township Since the Kangxi Era
 
@@ -128,34 +130,34 @@ In 2011, Wei Te-sheng’s Seediq Bale was released. Its global box office was NT
 
 But if you go to Wushe today, what you see is a tourist site: Mona Rudao Memorial Park, the Wushe Incident Memorial, Qingliu community. The Seediq wound has been exchanged for a photographed scenic route.
 
-## The Wujie Dam Raised the Water by 18.18 Meters, Turning the Thao People’s Lalu Island into a 30-Meter Islet
+## Wushe Dam Raised by 18.18 Meters, Turning Lalu Island into a 30-Meter Islet
 
-On June 3, 1934, the Sun Moon Lake No. 1 Power Station, today’s Daguan Power Plant No. 1, was completed. Its generating capacity was 143,500 kilowatts, “**at the time the largest hydroelectric facility in Asia and the seventh largest in the world**”[^13].
+On June 3, 1934, the Sun Moon Lake Power Plant (now the Dagan Power Plant, Unit 1) was completed. With an output of 143,500 kilowatts, it was "**the largest in Asia and the seventh largest in the world at the time**" [^13].
 
-From the establishment of Taiwan Power Company in 1919, when the Sun Moon Lake hydroelectric project was listed as its priority plan, to the 1923 Great Kanto Earthquake, which sharply increased budgets and halted construction, to the revised plan and resumption of work in 1931, the project involved building a concrete gravity dam upstream on the Zhuoshui River in Ren’ai Township, the Wujie Dam, 57.6 meters high and 90.91 meters long, with six gates, and boring a diversion tunnel to send water into Sun Moon Lake[^13]. The largest hydraulic project of the Japanese colonial period took 15 years.
+From when Taiwan Electric Company was established in 1919 and prioritized the Sun Moon Lake hydropower project, to the suspension of construction due to budget increases following the Kanto Earthquake in 1923, and the resumption with revised plans in 1931—a concrete gravity dam (Wushe Dam, 57.6 meters high, 90.91 meters long, equipped with 6 sluice gates) was built at Wushe in Ren'ai Township upstream of the Zhuoshui River, and a water diversion tunnel was dug to feed water into Sun Moon Lake [^13]. This major hydraulic project during the Japanese colonial period took 15 years.
 
-In September 1934, water began flowing through the Wujie diversion channel, and **Sun Moon Lake’s water level rose by 18.18 meters**[^13].
+In September 1934, when the Wushe diversion channel began releasing water, **the water level of Sun Moon Lake rose by 18.18 meters** [^13].
 
-The lake’s surface area expanded from 4.55 square kilometers to 7.73 square kilometers. The history page of the Sun Moon Lake National Scenic Area records the impact on the Thao people verbatim: “**The raised water level submerged the Thao people’s traditional settlement and farmland; the Japanese relocated the Thao to Dehua community, allocating only two fen of land per person, and the Thao population gradually declined.**”[^14]
+The lake area expanded from 4.55 square kilometers to 7.73 square kilometers. The historical page on the Sun Moon Lake tourism website meticulously records the impact on the Seediq people: "**the rising water submerged the traditional settlements and farmlands of the Seediq; the Japanese relocated the Seediq to Dehua Township, allocating only two _fen_ (a unit of land) per household, and the Seediq population gradually decreased**" [^14].
 
-The Thao originally lived in the Shiyin settlement on the eastern side of Sun Moon Lake, with farmland distributed around the lake. **In the year the water level rose, their home was submerged**.
+The Seediq originally lived in the Shiyin settlement on the east side of Sun Moon Lake, with farmlands distributed around the lake. **In the year the water level rose, their homes were flooded.**
 
-Lalu Island, at the center of Sun Moon Lake, is the highest ancestral-spirit site of the Thao. In the Thao language, Lalu means “**sacred island in the heart**”[^15]. During the Japanese period it was called “Jade Island”; after the war, in 1949, the Nationalist government renamed it “Guanghua Island,” meaning “to glorify China.” It shrank from what had originally been more than 100 jia of farmland into a reservoir-engineering islet 30 meters in diameter. **It took 15 years to turn a sacred island into a small island circled by sightseeing boats for photographs**.
+Lalu Island is a small island in the center of Sun Moon Lake and is the ancestral sacred land of the Seediq people. In the Seediq language, Lalu means "**sacred island within the heart**" [^15]. During the Japanese colonial period, it was called "Yu Island," which the Kuomintang renamed "Guanghua Island" in 1949 (meaning "Glorious China"). After being reduced from its original hundred-jia farmland to an islet with a diameter of 30 meters by the reservoir project, **it took 15 years for the sacred island to become a small island circled by tour boats.**
 
-![Lalu Island, August 2013. The small island at the center of Sun Moon Lake, Lalu, the Thao people’s highest ancestral-spirit site, means “sacred island in the heart.” Before the Wujie Dam raised the water level by 18.18 meters in 1934, it had originally been more than 100 jia of Thao farmland; today it has shrunk into a 30-meter-diameter islet circled by sightseeing boats for photographs. In 2000, it was renamed back from “Guanghua Island” to Lalu.](/article-images/geography/nantou-01.webp)
-_Lalu Island, 2013-08-19. Photo: Ckbun, CC BY-SA 3.0. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
+![Lalu Island, a small island in the center of Sun Moon Lake and the ancestral sacred land of the Seediq. Before the Wushe Dam raised the water level by 18.18 meters in 1934, it was hundred-jia farmland belonging to the Seediq. Today, reduced to an islet with a diameter of 30 meters, it is circled by tour boats. Renamed Lalu from "Guanghua Island" in 2000.](/article-images/geography/nantou-lalu-island-2013.webp)
+_Lalu Island, August 19, 2013. Photo: Ckbubutp, CC BY-SA 3.0. [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
 
-By 2000, the Thao had pushed to rename Guanghua Island back to “Lalu Island”[^15]. The next year, on August 8, 2001, the Thao were renamed from a plains Indigenous group into the **tenth recognized Indigenous people**. ⚠️ Thao population figures differ by year: the Ministry of the Interior’s Department of Household Registration counted 776 people in 2017, while other statistics put the figure at around 885. This article uses “**around 800-plus people**,” making the Thao the third smallest by population among Taiwan’s 16 Indigenous peoples[^16].
+In 2000, the Seediq campaigned to rename Guanghua Island back to "Lalu" [^15]. The following year, on August 8, 2001, the Seediq were officially recognized as **the 10th indigenous group** among the aboriginal peoples. ⚠️ Seediq population figures vary by year: the Ministry of the Interior's Household Registration Department reported 776 people in 2017, while other statistics are around 885; this article uses "**approximately over 800 people**," making them the third smallest group among Taiwan's 16 indigenous peoples [^16].
 
-> **✦** “**The raised water level submerged the Thao people’s traditional settlement and farmland; the Japanese relocated the Thao to Dehua community, allocating only two fen of land per person.**” (Sun Moon Lake National Scenic Area history page[^14])
+> **✦** "The rising water submerged the traditional settlements and farmlands of the Seediq; the Japanese relocated the Seediq to Dehua Township, allocating only two _fen_ (a unit of land) per household." (Sun Moon Lake Tourism Website History Page [^14])
 
-The lake surface tourists see at Sun Moon Lake today is a “nature” rewritten by engineering, **raised by 18.18 meters**. The so-called “Sun Moon Lake boat tour” circles farmland the Thao lost beneath the water 91 years ago.
+What tourists see on the lake today is a "nature" rewritten by engineering that **raised the water level by 18.18 meters**. The so-called "Sun Moon Lake cruise" circles fields that were flooded in 91 years ago.
 
-The Bunun live on another side of Nantou: Xinyi Township. Along the Chenyoulan River basin are five community groups: Takituduh, Takibakha, Takivatan, Takbanuaz, and Isbukun[^17]. The Takituduh group lives in Jiumei Village, the northernmost part of Xinyi Township; the Takibakha group is in Dili and Shuanglong; the Takivatan group is in the upper Chenyoulan River area of Dili Village; the Takbanuaz group is in Fengqiu, Wangxiang, and Xinyi; and the Isbukun group is in Dongpu and Luona. Pasibutbut, often called “eight-part polyphony,” “**is passed down only among the Bunun Takbanuaz and Isbukun groups**”; the Takivatan, Takibakha, and Takituduh groups do not sing it[^17]. ⚠️ Tourism promotion often treats “eight-part polyphony” as a symbol of all Bunun people, but in fact only two community groups sing it. Mingde community, where Takbanuaz and Isbukun people live together, is today the community that can sing pasibutbut and is closest to the Bunun ancestors’ earliest original homeland.
+The Bunun people live elsewhere in Nantou: Xinyi Township. Five communities—Zhuo, Ka, Dan, Luan, and Jun—are distributed along the Chen Youlan Creek watershed [^17]. The Zhuo community lives in Jiumei Village (the northernmost part of Xinyi), the Ka community is located in Zilingual, the Dan community is upstream of Chen Youlan Creek in Zili Village, the Luan community is in Wangxiang New Township in Fengqiu, and the Jun community is in Luona, Dongpu. _Pasibutbut_ (the eight-part harmony) "**is only transmitted among the Bunun Luan and Jun communities**"; the Dan, Ka, and Zhuo communities do not sing it [^17]. ⚠️ General tourism promotion often treats "Pasibutbut" as a symbol of all Bunun peoples, but in reality, only two communities sing it. Mingde Village (where the Luan and Jun communities live together) is the current village that can perform _pasibutbut_ and is closest to the earliest ancestral home of the Bunun.
 
-The eastern part of Xinyi Township also includes the traditional territory of the Tsou, and Yushan National Park sits in this area. **Yushan National Park spans four counties and cities**: Xinyi Township in Nantou County, Alishan Township in Chiayi County, Taoyuan District in Kaohsiung City, and **Zhuoxi Township in Hualien County**[^18]. ⚠️ General descriptions often omit the Hualien Zhuoxi Township portion, but the actual park area extends across Hualien’s southeastern corner. Established on April 10, 1985, it covers 105,490 hectares and is Taiwan’s largest national park by area.
+In eastern Xinyi Township are also the traditional territories of the Tsou people; Yushan National Park is located in this area. **Yushan National Park spans four counties/cities**: Xinyi Township, Nantou County; Alishan Township, Chiayi County; Taoyuan District, Kaohsiung City; and Zhuoxi Township, Hualien County [^18]. ⚠️ General descriptions often omit the part in Zhuoxi Township, Hualien, but the actual park area spans the southeast corner of Hualien. Established on April 10, 1985, it covers an area of 105,490 hectares and is Taiwan's largest national park.
 
-In Nantou, Taiwan’s only landlocked county, four Indigenous peoples live together with Han Hoklo and Hakka communities: Seediq, Bunun, Thao, and Tsou. Mountain Indigenous townships account for only two of the county’s 13 townships, towns, and cities, but the area of those two townships far exceeds the other 11 combined.
+In Nantou, the only county that does not border the sea, four indigenous peoples—the Seediq, Bunun, Seediq (Note: this appears to be a typo in the source text, likely referring to Tsou or another group), and Tsou—live there, along with Han Chinese Min and Hakka. The mountainous townships account for 2 out of 13 towns/cities, but these two townships together cover an area far exceeding the other 11 combined.
 
 ## The Coconut Trees of Zhongxing New Village Are Still There
 
@@ -255,16 +257,16 @@ After those 102 seconds at 1:47 a.m., Nantou did not become a ruin. It became a 
 
 ## Image Sources
 
-This article uses five Wikimedia Commons CC-licensed images, hot-linked from the Wikimedia upload server:
+This article uses 5 images licensed under CC from Wikimedia Commons. The hero image is cached in `public/article-images/geography/` to avoid hotlinking to the source server, while the other 4 are hotlinked directly from the Wikimedia upload server:
 
-- **Hero (frontmatter)**: [Sun Moon Lake in Twilight](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG) — Photo: Tommy.In, CC BY-SA 3.0. Sun Moon Lake at dusk, the artificial lake formed after the Wujie Dam raised the water level by 18.18 meters in 1934.
-- **Scene §The Only County Without a Coast (Sun Moon Lake)**: same as hero — repeated in the body as a geographic visual anchor.
-- **Scene §The Only County Without a Coast (Hehuan Mountain)**: [Hehuanshan Cuesta](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG) — Photo: Chewy3326, CC BY 2.5. The area around Hehuan Mountain’s main peak; Wuling, at 3,275 meters, is the highest point on Taiwan’s road system.
-- **Scene §Wujie Dam (Lalu Island)**: [Lalu Island, August 19, 2013](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG) — Photo: Ckbun, CC BY-SA 3.0. The Thao sacred island at the center of Sun Moon Lake, renamed back from “Guanghua Island” to Lalu in 2000.
-- **Scene §Zhongxing New Village**: [Taiwan JhongSing Village Paifang](https://commons.wikimedia.org/wiki/File:Taiwan_JhongSing_Village_Paifang.JPG) — the entrance archway of Zhongxing New Village, built in 1957 on the model of Britain’s New Towns, a physical witness to the provincial-government era. CC BY-SA 2.5.
-- **Scene §Zhongliao Township (921 Earthquake Museum)**: [921 Earthquake Museum of Taiwan 2024-09-21](https://commons.wikimedia.org/wiki/File:921_Earthquake_Museum_of_Taiwan_2024-09-21.jpg) — Photo: Liu Shu-fu / Office of the President, CC BY 2.0. The 921 Earthquake Museum of Taiwan, at the former Guangfu Junior High School site in Wufeng, Taichung, preserving the Chelungpu Fault trace.
+- **Hero (frontmatter)**: [Sun Moon Lake in Twilight](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG) — Photo: Tommy.In, CC BY-SA 3.0. Sun Moon Lake at twilight; an artificial lake formed after the Wujie Dam was raised by 18.18 meters in 1934.
+- **Scene §Island with no sea (Sun Moon Lake)**: Same as hero — repeated within the text as a visual anchor for geography.
+- **Scene §Mountain with no sea (Hehuanshan)**: [Hehuanshan Cuesta](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG) — Photo: Chewy3326, CC BY 2.5. The Hehuanshan main peak area; Wuling, at an altitude of 3,275 meters, is the highest point on Taiwan's highway system.
+- **Scene §Wujie Dam (Lalu Island)**: [Lalu Island on August 19, 2013](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG) — Photo: Ckbun, CC BY-SA 3.0. The central sacred island of the Tao people in Sun Moon Lake, which was officially renamed Lalu from "Guanghua Island" in 2000.
+- **Scene §Jhongsing New Village**: [Taiwan JhongSing Village Paifang](https://commons.wikimedia.org/wiki/File:Taiwan_JhongSing_Village_Paifang.JPG) — The archway entrance to Zhongxing New Village, built in the style of a British new town in 1957, serving as a physical testament from the era of provincial government rule. CC BY-SA 2.5.
+- **Scene §Zhongliao Township (921 Education Park)**: [921 Earthquake Museum of Taiwan 2024-09-21](https://commons.wikimedia.org/wiki/File:921_Earthquake_Museum_of_Taiwan_2024-09-21.jpg) — Photo: Liu Shu-fu / Office of the President, CC BY 2.0. The 921 Earthquake Education Park, where the Carongpu Fault in Wufeng, Taichung, is preserved.
 
-Licenses: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/).
+Licensing terms: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/).
 
 ## References
 

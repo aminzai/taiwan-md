@@ -12,8 +12,8 @@ Usage:
     # Translate all articles in a group file
     python3 openrouter-translate.py --group .lang-sync-tasks/ja/_group-A.json
 
-    # Override model (default: openai/gpt-oss-120b:free)
-    python3 openrouter-translate.py --group ... --model "deepseek/deepseek-chat:free"
+    # Override model (default: nvidia/nemotron-3-super-120b-a12b:free)
+    python3 openrouter-translate.py --group ... --model "google/gemma-4-31b-it:free"
 
 Requires: ~/.config/taiwan-md/credentials/openrouter.key
 """
@@ -25,7 +25,9 @@ KNOWLEDGE = REPO / "knowledge"
 CREDS_DIR = Path.home() / ".config/taiwan-md/credentials"
 KEY_FILE = CREDS_DIR / "openrouter.key"
 ENV_FILE = CREDS_DIR / ".env"
-DEFAULT_MODEL = "openai/gpt-oss-120b:free"
+# canonical 在 backends/openrouter.py 的 DEFAULT_FREE_MODEL；此處覆寫一份因為這支
+# 不 import 那個套件。openrouter-model-audit.py 會抓到漏改的一邊。
+DEFAULT_MODEL = os.environ.get("OPENROUTER_MODEL", "nvidia/nemotron-3-super-120b-a12b:free")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 LANG_NAMES = {

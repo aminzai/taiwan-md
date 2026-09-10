@@ -1,378 +1,634 @@
 ---
-title: 'Threads in Taiwan: From Twitter Substitute to the Main Arena of “Cui” Culture'
-description: "As global users' enthusiasm for Threads cooled, Taiwan took a sharply different path: 3.5 million users, the world's second-largest market, and the highest usage time globally. Here, Threads has become a digital public square where Gen Z speaks candidly, politicians “come down to earth,” and memes run riot, redefining Taiwan's social media ecology."
+title: "Threads in Taiwan: From 'I Eat a Little' to an Egyptian Student ID, How a Feed Became a Digital Night Market"
+description: "At the end of 2025, a National Taiwan University student ID found near the Sphinx in Egypt was turned into a cross-border search on Threads; in the same feed, food photos from Japanese and Korean travelers attracted the 'Hello, I eat a little' cat. Taiwan's 'crispy' nature squeezes spam, mutual aid, memes, and public discussion together, allowing strangers to briefly sit at the same table and relay stories further."
 date: 2026-03-24
-author: 'Editorial Team'
 category: 'Technology'
-subcategory: '社群與數位文化'
 tags:
   [
     'Social Media',
     'Digital Culture',
     'Threads',
-    'Gen Z',
-    'Political Communication',
-    'Online Forums',
+    'Memes',
+    'Online Mutual Aid',
+    'Youth Culture',
   ]
-readingTime: 15
-lastVerified: 2026-03-24
+subcategory: 'Community & Digital Culture'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-08-14
 lastHumanReview: false
-featured: true
+readingTime: 45
+curation: 'incubating'
 translatedFrom: 'Technology/Threads在台灣.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b344ec326785b46d'
-sourceBodyHash: 'sha256:a5b8490e2fd9be42'
-translatedAt: '2026-05-24T05:06:32+08:00'
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:bbdb130f551a69e8'
+translatedAt: '2026-09-09T06:13:19.981114+00:00'
 ---
 
-# Threads in Taiwan: From Twitter Substitute to the Main Arena of “Cui” Culture
+# Threads in Taiwan: From "Hello, I'll Eat a Bit" to an Egyptian Student ID, How a Feed Became a Digital Night Market
 
-## A Late-Night Digital Ritual
+On December 27, 2025, a traveler found a student ID belonging to a Department of Finance and Economics student at National Taiwan University near the Sphinx in Egypt. He posted on Threads: "I'm heading to Cairo Airport soon; we can meet in person, or I can bring it back to Taiwan." As of the last verification time for this article, this "lost and found" post had accumulated 3.8 million views, 179,000 likes, and 26,300 shares. [^1]
 
-At two in the morning, a university student in Taipei lies on her dormitory bed and habitually opens her phone. Not Instagram, not TikTok, but Threads, or as she and her friends call it, “Cui.” She casually posts: “I can’t finish my final report, but my roommate’s snoring is even more unbearable.” Within three minutes, more than a dozen strangers have replied: some offering comfort, some sharing similar experiences, and some simply joining the commotion.
+It did not explain how far Egypt is from Taipei, nor did it package itself as a public welfare campaign. It simply placed a card, a location, and a person about to board a flight onto the feed. Within hours, netizens in Taiwan began reposting, tagging, and speculating about the owner. A tacit understanding of "helping to spread" (bangkuo), not found in any terms of service, was thus invoked.
 
-This seemingly ordinary late-night scene is being repeated across Taiwan. While users elsewhere in the world have gradually cooled toward Threads, Taiwan has unexpectedly become one of the platform’s most fervent adopters.
+> **30-Second Overview:** Taiwan's Threads is not just a textual battlefield during elections, nor merely a marketing showcase for brands jumping on memes. It is more like a digital night market that opens at any time: some post test posts to gauge the temperature, some ask strangers to help locate lost items, and some leave comments on food photos from Japanese and Korean tourists saying "Hello, I'll eat a bit." Meta's advertising tools show that Taiwan can reach 6.65 million Threads users, but this is not the number of active users; what truly matters is how this platform packs low-pressure chatting, local mutual aid, meme translation, and public stances into a single feed. [^2]
 
----
+## Reading Map: Don't Read "Crispy" as Just a Meme Platform
 
-## Taiwan’s Counterintuitive Miracle
+This is not a list that itemizes popular memes, nor is it an ode to Threads that portrays Taiwanese as suddenly becoming more enthusiastic. It attempts to bring together seemingly unrelated behaviors on the same feed: someone asks about toilet paper, someone else recovers a student ID lost in Egypt. Someone challenges numbers with a frog, someone else uses "leave friends to see" to leave clues for friends; someone conducts brand patrols in the comments section, and someone else discovers after being banned that their accumulated relationships cannot be moved. The reading map below outlines the article's six layers; readers do not need to read from beginning to end and can enter from the phenomena they care about most.
 
-**The country that loves Threads most in the world is not the United States. It is Taiwan.**
+| Reading Layer        | Main Question                                                                          | Corresponding Chapter                                                                         | Most Easily Overlooked Aspect When Reading                                                                                        |
+| -------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Platform and Entry   | Why are Taiwanese users moving from Instagram, X, Facebook, PTT, and Dcard to Threads? | Digital Metrics, Platform Comparison, Naming "Crispy"                                         | Reach, traffic, active users, and user population are not the same type of statistics                                             |
+| Language and Memes   | Why can a sentence or a single image become a template taken up by many?               | Disagree with School Starting, Big Competition, Frog, Leave Friends to See, ven, Tomorrow Off | Being able to pick up a meme does not mean supporting the original post, nor does it mean understanding its origin and boundaries |
+| Weak-Tie Mutual Aid  | Why can lost items, passports, toilet paper, and local Q&A quickly connect strangers?  | Egyptian Student ID, Cross-Border Passport, Daily Help Requests, Local Information            | Success cases are easily seen, but they cannot replace police, stations, airlines, and consular procedures                        |
+| Life and Consumption | How are small shops, creators, and brand social media managers seen in the river?      | Patrols, Freelancing, Recommendations and Transactions, Food Memes                            | High engagement is a sign of virality, not a guarantee of quality, price, or transaction security                                 |
+| Public Discourse     | How do politics, disaster reports, and identity enter the same river?                  | Blue Whales, Platform Choices, Archiving Old Posts                                            | Fast interaction speed does not mean fact-checking is completed simultaneously                                                    |
+| Platform Governance  | How do bans, algorithms, fake accounts, and AI responses change user risks?            | Suspension, Bot Networks, @meta.ai, Preservation                                              | What is truly fragile is not a single post, but accounts, relationships, and traceability                                         |
 
-The conclusion is surprising. Meta launched Threads in July 2023 as a direct competitor to Twitter, now X. In the United States, it saw explosive growth followed by rapid cooling; in Europe, its launch was even delayed because of regulatory issues. In Taiwan, however, Threads has followed a sharply different trajectory.
+This map also illustrates the article's basic stance: **Threads in Taiwan is like a digital night market, not because it lacks rules, but because formal rules, platform sorting, user tacit agreements, news media, and joking responses are all operating simultaneously.** No single case should be used alone to prove "that's just how Taiwanese are." They are better viewed to understand the conditions under which a stranger can join, a social media manager can respond, and an old post can come back to life.
 
-**The numbers speak for themselves:**
+## Don’t Rush to Claim It’s the World’s Number One: What Does 6.65 Million Mean?
 
-- **3.5 million users**: Taiwan’s estimated user base, making it the world’s second-largest market, behind only the United States
-- **Global champion in usage time**: Taiwanese users rank first in the world for average time spent
-- **300 million global monthly active users**: By the end of 2024, Threads had surpassed 300 million monthly active users worldwide
-- **Fastest app ever to reach 150 million downloads**: According to data.ai Intelligence, Threads became the fastest app to hit this milestone
+Threads is highly visible in Taiwan, yet often flattened by the blanket statement that it is “the most used globally.” In June 2026, Meta announced that Threads had reached 500 million monthly active users. DataReportal, estimating based on Meta’s advertising tools, projected that by the end of 2025, the platform could reach 6.65 million users in Taiwan, representing approximately 28.8% of Taiwan’s total population and 29.8% of internet users. [^2] [^3]
 
-Even more strikingly, Taiwanese netizens created a dedicated nickname for the platform: **“Cui”** (脆, a homophone based on the pronunciation of Threads). This locally familiar term marks the platform’s full localization.
+These two figures cannot be directly subtracted or divided, nor can they be ranked in a country leaderboard. The former is the global monthly active user count announced by Meta; the latter is the reachable audience within the advertising system. DataReportal specifically notes that advertising reach is not MAU or DAU, and may be influenced by multi-account usage, location data, and platform data corrections. Only by reading the methodology correctly can we see what is truly interesting about the Taiwan phenomenon: it is not that “everyone has moved here,” but that a large group of people are willing to leave short posts and respond to strangers, allowing content to meet before established relationships do. [^3]
 
----
+### 21% Traffic Is Not 21% Users: Four Numbers Answering Four Different Things
 
-## Deconstructing “Cui” Culture: Why Did Taiwanese Users Fall in Love with Threads?
+The claim that “Taiwan contributes over 20% of global Threads traffic” sounds like stronger evidence, but it too needs to be unpacked. In Semrush’s `threads.net` web traffic panel for June 2026, Taiwan was listed as a source of approximately **21.24%** of national traffic. This indicates that Taiwan holds a high share in the website browsing measured by this tool, but it is not the account count announced by Meta, nor Taiwan’s MAU, nor app usage time, and it certainly cannot be extrapolated to mean “one in five Threads users globally is in Taiwan.” [^55] The scope, cookies, devices, and the ratio of app to web traffic in web analytics services all affect the results. It is a piece of corroborating evidence for understanding usage intensity or traffic concentration, not a census.
 
-### 1. Escaping Fatigue from “Polished Packaging”
+```tw-stat
+6.65 million | End of 2025 Taiwan advertising reachable audience | Not MAU/DAU
+17.5% | Percentage of social media users who commonly use Threads | MIC, 2025 survey release
+44% | Percentage of social media users aged 18–24 who commonly use Threads | Age breakdown from the same survey
+21.24% | `threads.net` web traffic from Taiwan | Semrush, June 2026; not account or app usage
+Source: DataReportal, MIC, Semrush
+```
 
-For Taiwan’s Gen Z, Instagram has become a “performance stage”: every photo must be perfect, and every Story must be meaningful. Facebook, meanwhile, has been taken over by elders and workplace ties, making young people reluctant to speak freely.
+```tw-note
+Methodology
+These four numbers cannot be added, subtracted, or used for direct ranking. “Advertising reachable” asks about the population the advertising tool might contact; “usage percentage” asks about usage preferences in a survey; “web traffic share” asks where browsing comes from within a specific measurement tool. This article does not adopt Taiwan MAU estimates unsupported by Meta or verifiable methods, nor does it treat estimates of single Threads posts as official statistics. [^3] [^53] [^55]
+```
 
-Threads fills this gap precisely: **a text-first, low-threshold posting mechanism** satisfies the basic need for “murmuring,” or casual stream-of-consciousness posting. There is no layout anxiety, no hashtag pressure, and casual everyday complaints often prove more likely to resonate.
+| Metric                                      | Data Time      | What It Indicates                                                 | What It Does Not Indicate                                |
+| ------------------------------------------- | -------------- | ----------------------------------------------------------------- | -------------------------------------------------------- |
+| Global 500 million MAU                      | June 2026      | Threads has formed a large-scale global conversation platform     | The exact number of Taiwan’s MAU                         |
+| Taiwan’s 6.65 million advertising reach     | End of 2025    | The scale of accounts reachable by Meta’s tools in Taiwan         | Daily usage, dwell time, or number of unique individuals |
+| 44% of 18–24 year olds commonly use Threads | Q4 2024 Survey | This age group has a higher preference for commonly using Threads | All Threads users are students or Gen Z                  |
 
-**Curator’s Note #1:**
+The ITRI MIC’s social communication behavior survey clarifies the profile further. Looking at all social media users, the common usage rate for Threads is 17.5%, close to Dcard’s 17.6% and PTT’s 17.1%. However, among the 18–24 age group, the common usage rate for Threads is 44%, higher than other age groups. The rate for the 25–34 age group is 28.4%. [^4] This is a generational tilt, not a generational monopoly.
 
-> “IG vs Real Life” comparison material appears widely on Threads, reflecting young people’s reassessment of social media “filter culture.” They long for a space where they can show a real and imperfect self.
+> **Curator’s Note:** Saying “young people are all fragile” is too convenient and too inaccurate. A more realistic description is: within Taiwan’s existing social media map, Threads has become a place where young users are particularly willing to stop and say a word.
 
-### 2. The Algorithm’s “Accidental Democratization”
+## Why "Crispy" and Not Just Another Twitter/X?
 
-Threads’ For You feed strongly favors popular content from people users do not follow, producing an unexpected democratizing effect in Taiwan:
+Understanding Threads' popularity in Taiwan as "Taiwanese abandoning X" is inaccurate. A more accurate description is that Taiwan never had a Twitter/X that the majority used daily. An MIT Technology Review 2024 article interviewing scholars and users noted that only about 1% to 5% of Taiwanese regularly use Twitter/X. More notable exceptions include the K-pop circle, which preserves idol information, and the LGBT community, which uses it as a subcultural social space. [^5] For most people, X's real-time text logic was not unattractive; it simply never became a mainstream lifestyle habit.
 
-- **Breaking echo chambers**: Users often encounter views sharply different from their own
-- **Niche breakout**: Discussions once confined to specific PTT boards or smaller Dcard communities can now be pushed into public visibility
-- **Ordinary users going viral**: A sincere post by an ordinary user may attract more attention than a carefully planned post by a KOL
+Threads entered through a different entry point. It does not require users to first understand X's culture, follow foreign journalists, or build lists in an unfamiliar English or Japanese feed. Users can create a profile using their existing Instagram or Facebook accounts, and their profile information and connections are carried over. [^15] This design, which "opens another door from where you are already using," reduces the hassle of cold-starting and allows first-time posters to avoid having to find an entire new community, as one might when first arriving on X.
 
-But this also brings side effects: **an intensification of pile-on culture**. Posts with high engagement, such as replies and reposts, are amplified by the algorithm, making emotionally charged speech more likely to erupt.
+Platform differences are more like division of labor rather than survival of the fittest. A survey by the Institute for Information Industry (MIC) shows that 78% of social media users aged 18–24 commonly use Instagram, 44% use Threads, and 45.9% use Dcard. For ages 35–44, PTT is more commonly used, while Facebook's usage peaks at 79.4% for ages 45–54. [^4] These figures do not mean that a specific age group can only use one platform; rather, they show that Taiwanese users have always handled different relationships in different spaces: one place for photos, one for acquaintances, one for anonymous questions, one for real-time news, and another for saying something to strangers that just came to mind.
 
-### 3. The Psychological Safety of “Relative Anonymity”
+| Platform   | What Users Bring Into It                                                  | Its Position in Taiwan's Existing Community Map                                     | The Void Threads Fills                                                                                    |
+| ---------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Twitter/X  | Real-time global information, subcultures, cross-language communities     | Users are more concentrated in specific interests and subcultural circles           | Brings text-based public discourse into broader Traditional Chinese life scenarios                        |
+| Facebook   | Friends, groups, local information, and existing interpersonal networks   | Wide coverage across age groups, but with heavier relational and historical baggage | Can be seen by strangers without first entering familiar social groups                                    |
+| Instagram  | Images, stories, existing follow relationships, and self-presentation     | The visual social foundation for younger users                                      | Extends the same account relationships into lower-production-cost text conversations                      |
+| Dcard, PTT | Issue discussions, experience posts, anonymous or forum-style communities | Has clearer board structures and subcultural rules                                  | Uses algorithmic channels to temporarily bring people together who wouldn't normally enter the same board |
+| Threads    | Life whispers, interaction, Q&A, memes, and public discussion             | Between familiar social networking and stranger squares                             | Makes "I'll say something first, see who picks it up" a low-barrier habit                                 |
 
-Although Threads is tied to Instagram accounts, it provides a “semi-transparent” social experience compared with Facebook’s real-name environment. Users have real identities, but they are not constrained by workplace and family relationships in the same way they are on Facebook.
+Therefore, the key to Threads' success in Taiwan is not its feature list, but that the context happened to align: Facebook's social relationships are too complete, Instagram's visual requirements are higher, Dcard and PTT each have their own board cultures, and X lacks a mass foundation. Threads allows an unedited post, a reply, and a casual photo to break out of the original follow circle. MIT's report also captured this juxtaposition: political and life posts coexist, and "trash posts" allow users to gain attention through humorous personal trivia that was previously unimaginable. [^5]
 
-This design has found an ideal position in Taiwan’s online culture: more accountable than PTT’s complete anonymity, and freer in expression than Facebook’s real-name system.
+But "being more easily seen" is not a permanent promise. It depends on algorithms, policies, account status, and whether the platform is still willing to push content to strangers. Choosing Threads is not buying a plaza. It is more like renting a table temporarily in a night market set up by a private company, where the rules can be changed at any time.
 
----
+## Anime, VTubers, and X: The Home Ports of Some Communities Have Not Moved
 
-## Reshaping Digital Political Communication in Taiwan
+If you only look at everyday topics in Taiwan, it is easy to assume that all text-based communities have "moved to Threads." However, the anime fan, fan-creator, and VTuber communities offer a different answer: **platform migration is not a case of entire groups moving from A to B, but rather different uses remaining in different places.** For many who need to follow new releases, find artists, track doujinshi activities, participate in birthday/debut/live stream tags, relay official information, or connect with Japanese and English-speaking peers, X (the current name for Twitter) often remains a more important public index and daily gathering point. Threads can serve as an extension for everyday Taiwanese posts, short-text interactions, and diverse audiences, but it does not necessarily inherit existing follower relationships, tag databases, or cross-border timelines.
 
-### The “Coming Down to Earth” Revolution Among Politicians
+This is not a conclusion that "X is better than Threads," nor does it mean anime fans and VTubers do not use Threads. The difference lies in community workflows. Fan studies have pointed out that Twitter’s public tags, retweets, and mention mechanisms allow peers to collaborate, accumulate reputation, and increase information visibility. Tags are not mere decoration; they are a retrieval path long maintained by both acquaintances and strangers. [^44] Public Television’s 2024 work data on VTuber communities also records that their VTuber-related accounts operate simultaneously on Discord and X, showing that live streaming, core communities, and public promotion have long been split across different platforms. [^45]
 
-After Taiwan’s 2024 presidential and legislative elections, Taiwanese politicians realized that traditional media and Facebook could no longer reach young voters, and many shifted to “Cui.” But this was not simply a transfer from one platform to another. It was a **fundamental change in communication style**.
+| Needs                                                  | Primary Exits for Anime Fans / VTubers                               | Where Threads Can Fill In                                                                          | Why It Cannot Be Simplified as "Everyone Moving"                                                                                     |
+| ------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Following new releases, finding creators and fan works | X accounts, tags, retweet networks, and multilingual timelines       | Everyday Taiwanese interactions, life updates, and conversations with existing Instagram audiences | Accumulated follows, tags, and work links cannot be automatically migrated                                                           |
+| Live stream notifications and consistent companionship | YouTube, Twitch, Discord, membership communities                     | Short messages, behind-the-scenes content, or light topic exposure in high-traffic daily feeds     | Live interaction requires long-term presence; short-text feeds cannot replace chat rooms and servers                                 |
+| Doujinshi activities and real-time topics              | X tags, official event accounts, groups, and retweets                | Bringing events to non-core audiences with a more casual tone                                      | The usage habits of the same tags and cross-border peer relationships are community assets, not just feature buttons                 |
+| Character and creator personas                         | Public accounts, work accounts, anonymous or semi-anonymous accounts | Low-pressure off-topic posts, daily life, or locally grounded Taiwanese memes                      | Creators must manage different audiences, fan-work boundaries, and visibility; it is unsuitable to generalize with a single platform |
 
-**Unlike serious policy statements on Facebook**, politicians on Threads adopt:
+Therefore, when someone says "anime fans and VTubers are still more active on Twitter," a better understanding is that they are preserving a **path already recognizable through works, tags, and cross-border peers.** Especially for newly launched VTubers or independent artists, public accounts are not just bulletin boards; they are portfolios that can be searched, tagged, and referred. Moving these relationships away involves not just reinstalling an app, but re-teaching audiences where to find people, what terms to use for events, and how to determine whether an account belongs to the creator or the fan community.
 
-- **An approachable tone**: Discussing policy in everyday conversational language
-- **Humor and self-mockery**: Admitting mistakes and making jokes at their own expense
-- **Immediate responses**: Replying directly to public comments instead of communicating through staff
-- **Participation in memes**: Actively joining discussions around internet memes
+This also makes the "large open LINE group" metaphor for Threads culture more precise. Threads is very good at enabling Taiwanese people to speak immediately about the life, news, food, and small memes right in front of them. For some subcultural communities, X is more like a cross-border corridor, keeping the same tag continuously linked by works and events. The two can overlap, but they do not need to replace each other. Treating the home fields of different communities as a competitive ranking instead obscures the fact that creators are already doing multi-platform labor.
 
-This “coming down to earth” mode of interaction breaks down the image, inherited from the authoritarian era, of politicians standing high above the public. It has made Threads Taiwan’s **most active emerging public square for political communication and civic discussion**.
+## Beyond the River: Custom Feeds, Communities, and the Fediverse
 
-### The Decentralization of Political Discussion
+Thinking of Threads as having only a single algorithmically determined main channel is no longer entirely accurate. In 2025, Meta announced that public accounts enabled for Fediverse sharing can view content from other services joined to the Fediverse on Threads, and use dedicated feeds and search to find public posts from services such as Mastodon, Bookwyrm, WriteFreely, Ghost, Flipboard, and WordPress. Dedicated feeds are sorted chronologically. [^50] This is an important but not overstated possibility: it allows a user the opportunity to access public content from different services within Threads, yet this connectivity must be established through account settings, public identity, server support, and follow relationships; it is not the case that everyone is cross-platform connected upon simply opening the app.
 
-In the past, political discussion in Taiwan was concentrated on specific PTT boards, such as Gossiping, with clear demographic characteristics and ideological tendencies. Threads’ algorithm decentralizes political discussion:
+This feature is particularly relevant when viewed through the lens of Taiwan's "fragile" culture and the issue of "preservation." As discussed earlier regarding de-platforming and multi-point presence, the focus is not on pushing everyone to a single alternative platform, but rather on letting authors, media, and communities know that public dialogue can have multiple entry points and requires paths back to original sources. Fediverse sharing does not solve issues of account security, misinformation, or content licensing. However, it at least shifts the notion that "all relationships must remain within a single company" from a default setting to a design option open for discussion. [^50]
 
-- Views from different positions are more likely to encounter one another
-- Political news is no longer interpreted exclusively by specific media outlets or KOLs
-- Ordinary citizens’ political views gain more opportunities for exposure
+In June 2026, Meta announced the end of the testing phase for the Communities feature, adding Communities Hub, community identification icons, community progress indicators, and Community Champions, and began promoting Local Communities starting with local language tags in Japan, South Korea, and Taiwan. [^51] This means that "fragile friends" are not just a loose term, but may gradually be segmented by the platform into identifiable interest and regional clusters. However, the official announcement simultaneously stated that the "Your Algo" feature, which allows users to privately adjust the frequency of certain topics appearing in their feed, was not included in the initial rollout for Taiwan. Writing the global promotion of feature updates as "Taiwan can now freely control algorithms" conflates platform vision with actual available scope. [^51]
 
-**Curator’s Note #2:**
+| Direction Diverging from the Same Channel               | Problem It Solves                                                                         | Problem It Does Not Solve                                                                  |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Topics, Communities, and Local Language Tags            | Provides clearer entry points for interests, regions, and themes                          | Does not guarantee healthy community culture or fair recommendation of all local topics    |
+| Custom/Followed Feeds                                   | Allows users to temporarily shift from popular channels to accounts or topics of interest | Users still need to actively curate sources; sorting cannot be treated as a complete world |
+| Fediverse Sharing and Search                            | Enables discovery and interaction of some public content across services                  | Issues regarding non-public accounts, unsupported servers, licensing, and trust remain     |
+| Websites, RSS, Newsletters, and Multi-platform Accounts | Reduces the risk of disconnection when one account or app goes offline                    | Higher maintenance costs and require clear official cross-verification                     |
 
-> This decentralization also brings risks: without professional media gatekeeping, disinformation and extreme speech can spread more easily. Taiwan FactCheck Center’s 2024 report shows that political rumors on Threads spread 40% faster than on Facebook.
+> **Curator's Note:** Community features do not automatically grow communities; they only provide a nameable entry point. What truly keeps people engaged is someone willing to maintain tags, add sources, reply to newcomers, and bring dialogue back to accountable spaces when necessary.
 
----
+## "Crispy" Is Not a Translation; It’s a Way of Pushing the Door Open
 
-## The “Cui” Wave Challenging Existing Forum Ecosystems
+Threads originally had no official Chinese name. Taiwanese users once called it "Chuan" (串), while others referred to it by its English pronunciation as "Crispy" (脆). The latter eventually took root in everyday conversation. _MIT Technology Review_ notes that while the word originally carried both "crispy" and "fragile" meanings, it became the platform’s nickname for user-to-user identification due to its pronunciation, memorability, and capacity for linguistic extension.[^5]
 
-### vs. Dcard: From Campus to the Whole Public
+More importantly, "Crispy" has never been a neutral product name. It spawns active terms like "Crispy Friends" (脆友), "Crispy Posts" (脆文), "Coast Guard" (海巡), and "Riverbed" (河道), and transforms posters from mere "accounts" into people speaking within a riverbed. This language is not a feature designed by Meta, yet it achieves the most effective localization for the platform: it makes a global product sound less like an English app on a download page and more like a message from a friend: "Did you see that post on Crispy?"
 
-Dcard was once Taiwan’s largest anonymous discussion platform for university students, but Threads offers a more immediate and more open alternative.
+This sense of lightness is tied to "trash talk" (廢文). _MIT Technology Review_ describes trash talk on Threads as low-stakes jokes and monologues of daily life. It might be a roommate’s snoring, a commute-induced breakdown, or a minor worry that requires no conclusion.[^5] Unlike the curated feeds of Instagram or the mixed circles of friends and colleagues on Facebook, trash talk does not require users to prove they are living well before they are seen.
 
-**Dcard’s limitations:**
+Trash talk is not truly "content-less." It is a low-cost way of testing whether the world will respond. A person throws out a harmless complaint; if strangers pick it up, they may then share work, relationships, illness, education, or politics. The entry point to Taiwan’s Crispy culture is often not a stance, but an opening line that doesn’t need to be taken too seriously.
 
-- Users must register to view full content
-- Its school-centered board system is relatively closed
-- Its anonymity can easily become a channel for emotional venting
+## Memes Are Not Dictionaries, But a Syntax That Can Be Adopted
 
-**Threads’ advantages:**
+One of the most common misunderstandings in Taiwan’s "crisp culture" is treating memes as a "what’s trending today" vocabulary list. In reality, they function more like a quickly applicable syntax: first, place yourself in an out-of-proportion role, then leave space for others to complete the thought. Some write their pre-school resistance as "I am [Name], I disagree with school starting." Others organize their works, rooms, resumes, or life hacks into "I self-proclaim the first edition of the [Name] Competition officially begins." Some don’t even express opinions, simply typing "Leave friends to see" in the comments. The power of these short phrases lies not in original vocabulary, but in the fact that everyone knows how to pick up the next step.
 
-- Open browsing lowers the threshold for participation
-- Cross-generational exchange is not limited to students
-- Ties to IG accounts provide a moderate degree of accountability
+"I disagree with school starting" is a good example. In late summer 2025, Threads saw adaptations like "I am a sheep person, I disagree with school starting," which spawned many versions following back-to-school anxiety and short-video dissemination. [^27] It pretends that something students cannot vote on can be rewritten as a public procedure using identity, declarations, and opposition votes. The humor lies in the highly formal tone of "disagree," while the object of opposition is merely the minor matter of returning to the classroom tomorrow, something no one can avoid. This is not political voting, nor a genuine advocacy. It is borrowing institutional language to handle seasonal misanthropy.
 
-The result is that large volumes of casual chat and current-affairs discussion traffic have shifted from Dcard to Threads.
+"I self-proclaim the first edition of the [Name] Competition officially begins" turns this joy of feigning institutional structure into a container for self-display. A public analysis post in October 2025 compiled versions related to life wisdom, interior design, beauty services, and indie game development, noting that participants typically only need to post an image and add a description to place their work in a non-existent competition. [^28] Thus, it serves simultaneously as meme play, portfolio, and peer review: the poster controls the topic, the repliers decide who the "contestants" are, and likes temporarily serve as judging.
 
-### vs. PTT: A Digital Witness to Generational Turnover
+| Sentence Pattern                                                                | What It Pretends to Do                                             | What Users Are Actually Exchanging                                               | Boundary to Remember When Reading                                                          |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| "I am [Name], I disagree with school starting"                                  | Denying a given fact through identity and declaration              | Collective misanthropy toward school, work, or life rhythms                      | Do not mistake playful resistance for real voting or stance surveys                        |
+| "I self-proclaim the first edition of the [Name] Competition officially begins" | Hosting a competition with contestants, rankings, and judges       | Handing over works, expertise, or life hacks for strangers to continue           | High interaction indicates spreadability, not professional evaluation results              |
+| "Leave friends to see"                                                          | Reserving a spot for friends                                       | Leaving an interactive trace in comments that friends can take to their feeds    | It is a sharing code, not proof that content has been verified or endorsed                 |
+| "Believe it or not, I’ll put a [Name] here"                                     | Conducting an interactive experiment with arbitrary objects        | Parodying the sorting logic that "as long as there’s traffic, it’s good content" | More likes on an object do not prove the original post is worthless                        |
+| "Challenge the frog"                                                            | Comparing a frog image to the original post for likes and comments | Using the least harmful image to test who controls attention                     | This is an interactive game; it should not turn into a collective attack on specific users |
 
-PTT has stopped accepting new user registrations for years, causing its user base to age. Although younger generations still “go on PTT to read the mood,” they rarely participate actively in discussions. Threads fills this gap.
+"Leave friends to see" is the shortest phrase in this syntax, yet the one that best explains platform mechanics. Literally meaning "leave it for friends to see," in actual Threads usage, it turns comments into a low-cost sharing trail. According to DailyView’s KEYPO data statistics, there were 54,006 related discussions between January 2025 and January 2026. After former President Tsai Ing-wen used these three characters in January 2026, the abbreviation, previously circulating in comment sections, entered mainstream news. [^29] [^30] Be careful: this is not an algorithmic password or a universal reach technique, but a short gesture invented by users for "I hope friends also see this." It can spread useful information, but it can also push unverified content further.
 
-**The changing response pattern to news events:**
+"Believe it or not, I’ll put a [Name] here" and "Challenge the frog" push the same logic to the extreme. The former often uses stones, blank objects, or unrelated images to parody the algorithm’s hunger for interaction: if something with zero informational content can get many likes, are people reacting to the content, or to shared participation? The latter places a frog image in the comments, inviting readers to make its interaction count catch up to or even exceed the original post. In public discussions, some users described it as a way to counter absurd statements, while others simply saved it as a universal image "everyone who plays with crisp culture has in their phones." [^31] Because the rules are rewritten through thread replies, the most appropriate understanding is not to define a single way to play it, but to view it as a collective prank on the platform’s digitized attention.
 
-- **Before**: News breaks → people go to PTT to read villagers’ discussions → public opinion forms
-- **Now**: News breaks → people go to Cui to read real-time reactions → join the discussion → influence public opinion
+## Food, Exaggeration, and Feigned Fierceness: Why Crispy Anger Often Looks Like a Cartoon
 
-This shift is not merely a platform migration. It is a **fundamental change in the mechanism by which online public opinion forms in Taiwan**.
+Another type of "crispy meme" (脆梗) operates through exaggerated rejection phrases. "Take your kitchen waste and roll off this planet" is usually not describing actual kitchen waste, nor is it asking someone to leave a specific place. It exaggerates the sentiment of "I completely cannot accept this way of eating" to a cosmic scale. In late 2025, a user shared a method of eating braised pork rice (_lurou fan_) with condensed milk on Threads, and the comment section responded in接力 with this phrase and other "cult-like eating methods." The report also noted that editors from supermarkets, food delivery services, dairy brands, and video platforms joined in the roasting. [^32] This type of reaction transforms food from mere sustenance into a vehicle that allows strangers to quickly take sides, counter-side, and then present their own childhood eating habits or even more absurd combinations.
 
-### vs. Twitter/X: The Victory of Localization
+The version "I’ll find a truckload of [blank] to mess with you" works similarly. It deliberately deconstructs what might otherwise sound like a threat—"find a van full of people"—into "a truckload of bread people," allowing "bread people" to be replaced by Pudding Dog, various characters, or harmless objects. Public posts show the rewrite "find a truckload of bread people." [^33] The meme’s effect stems from the gap between the threatening tone and the childish imagery: the more the sentence structure resembles an escalation of conflict, the less likely the inserted content is to actually constitute a conflict. Consequently, this phrase is only suitable in contexts of clear jokes and mutual understanding. If repeatedly used against specific real people, combined with real-world locations or action instructions, it ceases to be a meme and may instead become harassment or intimidation.
 
-The many changes after Elon Musk acquired Twitter reduced Taiwanese users’ trust in the platform. Threads arrived at precisely this moment as an alternative better suited to Taiwan’s usage habits:
+"Tomorrow off" is another three-character meme that appears simple but relies on shared memory. During Typhoon Kaimi in 2024, Chiang Wan-an wrote "Tomorrow off!" on Threads after announcing the suspension of classes and work for the following day. When Typhoon Pawa approached in 2026, users dug up the old post, flooding his comment section to expect him to "say it again." [^34] This is a typical example of "old post archaeology": a post originally intended to provide notice becomes a collective summons before every typhoon once removed from its original context. Its risks are also clear: playing with the meme cannot replace official suspension notices; true decisions still depend on local government and official real-time information.
 
-- **Better Chinese-language support**: The algorithm understands Traditional Chinese content more effectively
-- **Optimization for Taiwan’s time zone**: Peak periods align with Taiwanese users’ daily schedules
-- **Friendliness toward local memes**: Support for Taiwanese internet slang and cultural in-jokes
+| Reaction Phrase                                     | What It Amplifies                                                    | Effect in the Discourse River                                     | When to Stop Joining the Meme                                                          |
+| --------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| "Take your kitchen waste and roll off this planet"  | Disdain for food combinations                                        | Turns eating-style debates into a comedic side-taking opportunity | When it becomes an insult targeting personal appearance, identity, or dietary needs    |
+| "I’ll find a truckload of [blank] to mess with you" | Feigned intimidating tone of gathering forces                        | Dissolves conflict through impossible characters or objects       | When [blank] is replaced with real groups, real-world locations, or action threats     |
+| "Tomorrow off"                                      | Expectation for typhoon holidays                                     | Turns old announcements into an annual shared memory              | When unverified information is circulated as official suspension notices               |
+| "I’ll ven it again"                                 | Accent, speech speed, and the rhythm of breakfast shop conversations | Turns a simple inquiry into a repeatable audio meme               | When imitation expands from a specific video to disparaging real individuals or groups |
 
----
+_Read more: [City Studies article on the source image of the "I’ll ven it again" meme](https://imgs.gvm.com.tw/upload/gallery/20260121/223929.jpg)_
 
-## A New Battleground for Brands and KOLs
+_Figure: The process by which "I’ll ven it again" spread from a specific slice-of-life video into a crispy meme also reminds readers: a replicable audio meme may still involve boundaries of accent and identity. [^35]_
 
-### The “Authenticity” Turn in Brand Marketing
+"I’ll ven it again" particularly reminds us that memes do not always lack boundaries. City Studies’ report traces this phrase to a video from October 2025 in which a Taiwanese user imitated a Chinese customer at a breakfast shop. The character for "ask" was deliberately written as "ven," which then became popular due to its replicable rhythm, sparking controversies over cross-strait accents and identity. [^35] Articles need not pretend that memes are free of offensiveness. A better approach is to acknowledge: imitation feels familiar, rhythmic, and relayable, but it can also compress the other party’s linguistic features into a label ripe for mockery. Understanding a meme does not mean one must use it everywhere.
 
-Traditional social media marketing emphasizes polished visuals and KOL endorsements. On Threads, however, **being grounded and locally relatable is more effective than appearing elevated and grand**.
+## When to Stop a Meme: From Playing Along to Trapping People in the Meme
 
-**Successful cases:**
+A meme allows strangers to join in because it compresses complex emotions into a manageable sentence structure. The danger lies here as well. When exaggerated remarks originally meant for a specific context are persistently applied to the same real person’s account, the same small business, or a specific accent or identity group, the joke can shift from collaborative creation to collective targeting. This is not to say that humor is forbidden, but rather to remind us that “the other party’s ability to opt out” is also a form of platform literacy.
 
-**IKEA Taiwan**: “All the things in life you can’t get through, just shout IKEA,” a Taiwanese-language homophonic joke
+| Turning Point from Playing Along to Harassment | Signals Still in the Realm of Shared Jokes                                | Signals to Stop, Delete, or Return to Formal Procedures                                                                                                        |
+| ---------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Target                                         | The original poster explicitly joins in, replies, or can freely ignore it | The real person repeatedly expresses discomfort, the account is marked for coordinated attacks, or the meme is moved into their work and private relationships |
+| Content                                        | Filling in blanks for fictional objects, scenarios, or shared templates   | Disclosing personal information, addresses, or workplaces; or using accents, ethnicity, or appearance as the core of humiliation                               |
+| Scale                                          | A small number of replies allow people to recognize the original context  | Screenshots detached from the original text, large accounts driving the narrative, or cross-platform chasing                                                   |
+| Real-world Risk                                | No threats of transactions, violence, sex, or self-harm                   | Messages that could be interpreted as real mobilization, such as “bring people to find” or “find a car of people,” or involving minors and vulnerable parties  |
 
-- Result: 830,000 views and 41,000 likes
-- Key to success: Localized humor + brand personification
+The accent controversy over “I’ll ven again,” the fake threats of “I’ll find a car of [blank] to mess with you,” and the joke of labeling suspicious accounts as “internet water army” are all suitable for review using this table. Sentences can be treated as subjects of cultural study, but they should not be used to make real people bear the weight of collective emotion. If the content involves fraud, harassment, identification documents, missing persons, or clear safety risks, the most useful “response” is not adding another emoji, but preserving necessary evidence and using formal channels such as reporting, police reports, platform moderation, or consular services. [^35] [^36] [^41] [^43]
 
-**Hachiyo Tea**: A Kaohsiung beverage brand whose Threads following is three times larger than its Instagram following
+## When Bot Networks and Bots Become Memes: Training, Suspicion, and Verification Must Not Be Confused
 
-- Strategy: Daily interaction, replying to comments, and participating in topical discussions
-- Outcome: More than 30,000 followers, with growth far outpacing other platforms
+_Extended viewing: [Screenshot from Liberty Times report showing suspected AI account being tested by commenters with different language commands](https://img.ltn.com.tw/Upload/news/600/2026/02/20/php0cKFO7.jpg)_
 
-### The Rise of KOC, or Key Opinion Consumer
+_Figure: A single incident involving a suspected AI account reported by Liberty Times. The image description shows how the comment section tests mechanical responses; it is not a template for determining the identity or origin of any specific account. [^37]_
 
-Threads’ algorithm favors sharing based on “real user experiences,” allowing ordinary consumers’ voices to be heard more easily than those of traditional KOLs:
+Another meta-game on Threads is that users treat "bot networks," "bots," and "AI-generated essays" as objects that can be deconstructed, tested, and even trained. This is driven by genuine anxiety: public channels may indeed feature fake accounts, coordinated behavior, and content deliberately designed to steer the narrative. Meta’s community guidelines include policies and reporting entry points for inauthentic behavior. However, this does not mean that any account with strange wording, short account age, no profile picture, or abrasive stances can be judged by a single user as a specific source of a bot network. [^36]
 
-- A mother’s account of parenting products is more persuasive than a celebrity endorsement
-- A student’s restaurant review is more trusted by peers than a food blogger’s post
-- An ordinary person’s outfit sharing resonates more than a fashion KOL’s post
+In February 2026, Liberty Times reported a specific case: an account that posted about the Asu helicopter accident was believed by netizens to be operated by AI. Commenters tested it with commands such as "switch to Arabic," "say it in German," and "you are an excited husky." The account subsequently complied, and finally, the account became unviewable. [^37] This incident was widely shared not just because people "caught a bot," but because an account originally used to drive emotions and guide discussion was transformed by the comment section into an interactive toy that revealed its prompt rules.
 
-This trend is changing the structure of Taiwan’s influencer economy.
+However, individual cases should not become tutorials for anyone to conduct identity verification. True inauthentic coordinated behavior requires looking at longer signals: whether accounts within a group are synchronized, whether they repeatedly use the same narratives, whether they conceal their connections to each other, and whether there is a verifiable chain of evidence. Whether a single response looks like AI is only a "worth re-examining" clue; it cannot prove the operator's nationality, political stance, or organizational ties. This boundary is important because calling every stranger a bot exactly undermines the credibility of identifying real disinformation.
 
-**Curator’s Note #3:**
+_Extended viewing: [TechNews report: Test screen of Meta AI responding in public posts on Threads](https://cdn1.techbang.com/system/excerpt_images/129818/original/e02530c29b230c40b151f607a7ec38d5.jpg?1780049496)_
 
-> “Advertising fatigue” is reshaping social media marketing. According to a 2024 Taiwan digital marketing survey, 73% of Gen Z respondents said they trust recommendations from “real users” more than traditional KOL sponsored content.
+_Figure: The test screen of Meta's official AI public response on Threads. It is not the same thing as unmarked automated accounts or user-suspected coordinated behavior. [^38]_
 
----
+Moreover, there are indeed public interactions involving official AI on Threads. In 2026, Meta tested in Taiwan allowing users to tag `@meta.ai` in posts or replies, with the AI joining the thread publicly. Related reports remind us that generated responses may be incomplete or inaccurate, and all users can see them. [^38] Therefore, when "what AI said" appears in the channel, there may be at least three completely different situations: users deliberately summoning the official AI, general accounts using automated tools to reply, or someone suspecting the existence of inauthentic coordinated behavior. They may all be called "bots," but the understanding and handling required are completely different.
 
-## Threads’ Localization Phenomenon in Taiwan
+| Situation Observed                                                        | Most Common Mistake                                                            | Better Reading Method                                                                                                          |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| Someone tags `@meta.ai`                                                   | Mistaking public official AI interaction for hidden bot networks               | First check the account label and thread content, then treat the AI response as generated text requiring separate verification |
+| Account replies are mechanical, repetitive, or can be steered by commands | Immediately inferring nationality, camp, or organization from writing style    | Treat it as a suspicious clue, keep screenshots, review account history, and report suspicious behavior                        |
+| Multiple accounts push the same narrative together                        | Focusing on only one account while ignoring network and temporal relationships | Compare repeated sentences, synchronization points, links, and publicly available verification data                            |
+| Comment section starts "training the bot"                                 | Mistaking the fun of围观 (spectating) for complete fact-checking               | One can identify the absurdity, but should not use this to harass real people or spread unverified accusations                 |
 
-### A Birthplace for Memes and Catchphrases
+This is also the most interesting and fragile aspect of fragile culture: the same platform allows people to use "leave friends to see" to leave clues for friends, use frog challenges to mock number worship, use competition templates to showcase expertise, and also allows people to train suspicious accounts into huskies. Humor is a collective recognition ability, but it is not evidence itself. When the channel turns everyone into an instant commentator, truly mature internet sense is not about understanding memes the fastest, but knowing when to engage with the meme and when to stop and verify.
 
-Threads has become an important source of Taiwanese internet memes and catchphrases:
+## One River, Four Different Activities
 
-**Popular memes:**
+Threads’ uniqueness lies not in being better at any single activity than other platforms, but in how several previously dispersed online behaviors collide in the same riverbed. What appears to be a mundane comment may simultaneously serve as social interaction, search, mutual aid, consumption reference, and meme relay.
 
-- **“Cui friends”**: A self-description used by Threads users, creating a sense of community identity
-- **“Cui made me urgent”**: Used to describe seeing anger-inducing content on Threads
-- **“Cui power is great”**: Used to praise high-quality Threads content
+| Riverbed Activity                          | Surface Viewed by Readers                        | Actual Work Done in the Community                                       |
+| ------------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------------------- |
+| Trash posts and daily complaints           | A grumble, a dry joke                            | Low-barrier ice-breaking among strangers and emotional exchange         |
+| "Help boost" and lost-and-found requests   | Reposting an ID card or a plea for help          | Temporarily stringing together Taiwanese weak ties into a relay network |
+| Food comments and cat memes                | Joking about travelers' photos                   | Greeting strangers and bridging language gaps using replicable memes    |
+| Q&A, recommendations, and real-world tests | "Is this place delicious?" "How do you make it?" | Transforming personal experience into crowd-sourced lifestyle search    |
+| Political posts and news sharing           | Current events, memes, comment section battles   | Placing public issues into a high-emotion, high-speed interaction field |
 
-### Distinctive Usage Cultures
+This hybrid nature is appealing to many but exhausting to onlookers. A survey by the Industrial Technology Research Institute (ITRI) MIC shows that 24.2% of community users worry about missing important information if they do not check their feeds. For the 18–24 age group, that figure rises to 34.9%. The same survey also notes that 52.5% of users are motivated to try things themselves after seeing others share interesting experiences. [^4] Thus, Threads serves as both a casual space for rambling and can quickly become a source of pressure over "Am I missing something?"
 
-**“Serial-thread fun”**: Users post several short entries in succession under the same topic, forming a “thread”  
-**“Cui-board villagers”**: Veteran netizens who migrated from PTT, bringing forum culture with them  
-**“Nonsense post awards”**: A daily competition for the most popular funny or absurd content
+## The Student ID in Egypt: Weaving Weak Ties into a Path
 
-These localization phenomena show that Threads is not only a social platform. It has become **one of the best entry points for observing Taiwanese catchphrases, social emotions, and youth subcultures**.
+The reason the student ID search became a compelling story is not because it magically replaced the police, museum staff, or lost-and-found services, but because it made the platform's weak ties visible. The original post contained sufficiently specific details: the Sphinx, the Department of Finance, Cairo Airport, and an imminent flight. These details allowed strangers to determine whether they could help and gave the act of sharing a clear direction. [^1]
 
----
+Other cases compiled by Yahoo include: a South Korean shop assisting a Taiwanese traveler in searching for a passport, and the search for a lost hat near the Vatican Museums, looking for someone to bring it back to Taiwan. Such posts are often jokingly referred to by Taiwanese netizens as "Animal Crossing resident side quests": someone sees the quest, someone tags a friend, someone happens to be nearby, and together they push the message forward. [^6]
 
-## The Social Meaning Behind the Data
+_Extended reading: [Chart of Threads usage during the Bluebird Movement in a Taiwan Fact Check Center report](https://tfc-taiwan.org.tw/wp-content/uploads/2025/03/104945-3-1024x768.jpg)_
 
-### Analysis of Usage Behavior
+_Image source: Taiwan Fact Check Center. Caption: Threads usage surged during the Bluebird Movement. [^7]_
 
-According to multiple surveys:
+However, success stories suffer from natural survivorship bias: stories of items being recovered are reported by the media and amplified by algorithms. Posts that fail to recover items usually sink into silence. This is precisely the nuance that fragile culture must preserve. It can give a small request high visibility in a short time, but it is not a guaranteed, accountable public service. For the loss of truly important documents, priority should still be given to reporting the loss, filing police reports, and contacting official channels.
 
-**User profile:**
+> **Curator's Note:** Taiwanese people did not suddenly become helpful on Threads. What the platform does is make the act of "I happen to be able to help" easier to see, and easier to be picked up by person after person.
 
-- **Gen Z as the main group**: Users aged 18-25 account for about 60%
-- **Concentration among the highly educated**: Users with university education or above account for 70%
-- **Urban distribution**: Taipei, New Taipei, Taichung, and Kaohsiung account for 65% of all users
+## Mutual Aid Is Not Just Miracles: From Toilet Paper SOS to Documents Returned
 
-**Usage periods:**
+_Extended viewing: [FTV News: Visuals of a traveler seeking help on Threads after a family member took their passport abroad](https://cdn.ftvnews.com.tw/summernotefiles/News/5c035d51-9046-4d1b-b390-5aa73f2dc860.jpg)_
 
-- **Late-night peak**: 11 p.m. to 2 a.m.
-- **Commuting hours**: 8-9 a.m. and 6-7 p.m.
-- **Weekend surge**: Holiday usage time is 40% higher than on weekdays
+_Image: An FTV report on a cross-border passport assistance case. It visualizes the speed of mutual aid relay but does not constitute a safe demonstration for private handover of passports. Formal consular procedures are detailed below. [^40] [^41]_
 
-**Content preferences:**
+"The toilet can also be used for a脆 (Cui) SOS even without toilet paper" is a joke used by Taiwan users to describe Threads. LINE TODAY once relayed this saying, listing scenarios such as "eating a bento without chopsticks," treating it as an exaggerated metaphor for a large, open LINE group. [^39] It may not correspond to a verifiable story of successful paper delivery on a case-by-case basis, but it accurately describes the imagination of脆友 (Cui friends) mutual aid: as long as the predicament is specific enough and the distance is close enough, someone might just happen to be in the same building, at the same station, or on the same street.
 
-- **Emotional expression**: 35% of total posts
-- **Current-affairs discussion**: 25%
-- **Life sharing**: 20%
-- **Memes and humor**: 15%
-- **Other**: 5%
+This imagination has power because it turns "I need a small item" into a question that can be asked publicly. Traditionally, not having toilet paper in the restroom, missing chopsticks with a bento, or a dead power bank were merely awkward moments of asking people around. On Threads, the person seeking help can specify the area, time, and need, allowing strangers to decide whether to relay the request. The platform brings weak ties to the surface, but it cannot guarantee the other party will appear, nor can it allow someone to publicly reveal precise house numbers, real-time solitary locations, or other sensitive information to get help.
 
-### Deeper Impacts on Taiwanese Society
+What is truly impressive is the upgrade in needs from a pack of toilet paper to cross-border documents. In February 2026, FTV reported that a traveler preparing to go to the United States discovered their passport had been taken to South Korea by a family member. Due to tight timing, they sought help on Threads. Within about 30 minutes, someone responded to assist. The report stated that the passport was delivered discreetly in a restroom at Incheon Airport and then brought back to Taiwan by netizens. [^40] The story reads like an action movie and indeed demonstrates how a large open group can quickly cobble together a path across time zones, flights, and strangers.
 
-**1. Redefining “public discussion”**  
-Threads lowers the threshold for participating in public-issue discussions and allows more diverse voices to be heard. But it also raises a challenge: how can discussion quality be maintained in fragmented, emotional short-form text?
+However, it should not be written as a demonstration procedure for "just finding a脆友 to bring the passport." The report also included a reminder from an interviewed traveler that handing documents to strangers carries risks. The Bureau of Consular Affairs of the Ministry of Foreign Affairs explicitly states that if a passport is lost overseas and one is eager to return to the country, one can apply for a Certificate of Identity at a diplomatic mission abroad. Once a passport is reported lost, it cannot be used again even if found later. [^41] The value of a passport lies not just in it being a card, but in its connection to nationality, entry and exit, and identity security. Any cross-border private carrying of items, posting photos of document pages, or posting complete personal data on social media could turn mutual aid into a risk.
 
-**2. Intensifying the digital divide between generations**  
-Participation on Threads is significantly lower among users over 40, which may widen gaps in information reception between generations.
+The recovery of a National Taiwan University student ID in Egypt presents another type of search condition more suitable for Threads. In late 2025, a Taiwan traveler found a student ID near the Great Sphinx in Giza and called out for the owner on Threads before heading to Cairo Airport. The post spread rapidly, and the owner themselves confirmed their identity in the comment section. The two agreed to retrieve it after returning to Taiwan. [^42] Its success was not just due to high post traffic, but because the "item, location, and possible community" were clear enough, and the owner could appear in the public thread to confirm identity, moving details to verifiable private contact.
 
-**3. A new vehicle for political polarization**  
-Although algorithmic recommendation mechanisms can break echo chambers, controversial content with high engagement is more easily amplified, potentially deepening political confrontation.
+| Mutual Aid Scenario                                                             | What Threads Can Do                                                                                                | What Should Least Be Done in Public Threads                                                                       | Safer Handover Principles                                                                                                                                                |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Small urgent needs like missing toilet paper in restrooms or cutlery with meals | Allow people nearby, in the same building, or in the same venue to see the need                                    | Publicly reveal complete house numbers, restroom locations, or a person's real-time solitary status               | Arrange handover in public areas, service desks, or places with crowds; do not leak personal data due to small needs                                                     |
+| Keys, student IDs, general lost items                                           | Connect owners with finders based on lost item characteristics, loss area, and time                                | Publicly reveal complete student numbers, ID numbers, barcodes, addresses, or all details of the lost item        | The owner provides one unpublicized characteristic for verification; prioritize handover at police stations, schools, station service desks, or public places            |
+| Highly sensitive documents like ID cards, passports, bank cards                 | Assist in transmitting lost item information to the owner or official channels                                     | Show front and back of documents, ID numbers, passport data pages, or ask strangers to carry items across borders | Hand over to police, airlines, station service desks, diplomatic missions abroad, or issuing authorities; handle according to formal loss and replacement procedures     |
+| Cross-border emergency needs                                                    | Quickly find people on the same flight, in the same city, or who understand local processes to provide information | Hide documents in restrooms, send to unverified strangers, or coordinate sensitive handover via public posts      | Prioritize contacting airlines, local police, and diplomatic missions abroad; treat social media as information and contact assistance, not a replacement for procedures |
 
----
+ID cards and passports should be viewed separately regarding "finding" and "being able to use." The Criminal Investigation Bureau of the Ministry of the Interior explained that for a lost Republic of China passport within the country, one must hold identity documents to report the loss to the detective squad of a police branch, and then apply for a new passport at the Bureau of Consular Affairs. The system exists to ensure that lost documents do not become vulnerabilities that can be exploited. [^43] The same principle applies to ID cards, bank cards, health insurance cards, and other documents containing personal data: public searches should minimize information, and true identity confirmation and document return should be left to official channels with records and traceability.
 
-## Challenges and Hidden Concerns
+This does not make脆友 (Cui friends) mutual aid lose its warmth; rather, it makes it sustainable. The most fascinating aspect of mutual aid is not that someone completes an impossible task for you, but that strangers are willing to take up the time, route, information, or a pack of toilet paper. Mature community mutual aid does not require everyone to be a hero. It requires everyone to know what can be helped, what should be referred to professional channels, and how to avoid leaving new risks for oneself and others when helping.
 
-### A Slide in Content Quality
+> **Curator's Note:** A student ID returning to its owner relies on dissemination; a passport safely returning to its holder relies on procedures beyond dissemination. Threads can find people, but cannot replace police, airlines, stations, and consular systems.
 
-As user numbers grow, Threads faces challenges common to all social platforms:
+## "Hello, I'll Eat a Bit": How a Cat Draws Travelers In
 
-**Declining information quality:**
+If the "Lost and Found" posts demonstrate mutual aid, then "Hello, I'll Eat a Bit" shows how Taiwanese netizens welcome strangers with memes. When Korean and Japanese users share photos of Taiwanese food on Threads, the comment section often features an image of a cat holding chopsticks with this caption. The grammar is not entirely important. What matters is that the person posting the image places themselves at the traveler's table, saying in a slightly rude but cute way that is easily forgiven: "I want to eat too."
 
-- Accelerated spread of disinformation
-- Proliferation of emotionally inflammatory content
-- Professional discussions being drowned out by noise
+_Read more: [TTV News Report on the "Hello, I'll Eat a Bit" Cat Meme](https://cdn.ttv.com.tw/summernotefiles/News/e93d9fd4-6cac-4ac4-b338-bf985978f7fe.jpg)_
 
-**Commercialization pressure:**
+_Image source: TTV News. [^8]_
 
-- In late 2024, Meta began testing advertising functions on Threads
-- Commercialization may affect algorithmic logic
-- The need to balance user experience with profit demands
+The meme eventually spread beyond the comment section. In 2025, TTV reported that the Ministry of Foreign Affairs created Chinese and Japanese infographics inspired by the cat meme, inviting people to share Japanese food. Taiwanese and Japanese netizens responded with food photos. [^8] A phrase originally meant to steal a bite under a food photo became a flexible language that public institutions could invoke.
 
-### Privacy and Data Governance
+This does not mean a single cat image represents "Taiwanese diplomacy." It is more like a locally rooted politeness that can be quickly translated: no need to introduce the country first, no need to exchange formal identities first, just acknowledge that the food on the other person's table is delicious. To travelers, this is a group of noisy strangers. To Taiwanese netizens, it is a way to say "welcome" that does not look like tourism propaganda.
 
-As a member of the Meta family, Threads inherits Facebook and Instagram’s privacy controversies:
+## The Platform Finally Starts Catching Up to Local Communities
 
-- **Scope of data collection**: Deep integration with IG accounts and cross-use of data
-- **Algorithmic transparency**: Black-box operations lack public explanation
-- **Content moderation standards**: Chinese-language content moderation mechanisms are still being improved
+Users first built out local culture, and only then did the platform slowly catch up. In June 2026, Meta announced that the Communities feature on Threads would end its Beta phase, listing Japan, South Korea, and Taiwan as the first markets for local language tags.[^2] This indicates that the platform finally acknowledges: communities are not just globally replicable interests like “photography,” “basketball,” or “parenting,” but also local dialogues formed by language, geography, and shared lived experiences.
 
-### Risks of Platform Dependence
+But features are not the starting point of culture. Taiwanese users have already turned the river into a lost-and-found, a message board for foreign travelers, and a temporary Q&A area for restaurants and daily life issues. Whether Community tags can help readers find more useful content depends on how the platform handles spam, commercial traffic diversion, and constantly shifting trending topics. Without good management, local communities might just end up categorizing noise.
 
-Taiwan’s heavy dependence on a single platform may bring systemic risks:
+The same Meta announcement introduced Dear Algo and Your Algo, allowing users to request seeing more or less of certain topics using natural language. However, Taiwan was not included in the initial rollout regions for Your Algo.[^2] This timing gap is highly symbolic: Taiwan’s “crispy culture” has already grown rapidly, yet users’ control over what appears in their feed may not have been secured at the same pace.
 
-- **Impact of service interruptions**: Platform failures may affect the dissemination of important information
-- **Shock from policy changes**: Adjustments to Meta policy may suddenly change the usage environment
-- **Data sovereignty issues**: Important data from social discussions is held by a U.S. corporation
+## Semi-public Tree Holes: You Can Vent, But That Doesn’t Mean You’re Truly Anonymous
 
----
+Threads’ sense of intimacy often stems from a seemingly contradictory condition: it is public enough, yet doesn’t constantly remind you of relatives, colleagues, and old classmates like Facebook does. Some people use secondary accounts to share stories of breakups, work-related breakdowns, or family friction. Others turn the comment section into a long thread of dialogue by connecting daily worries. This makes “Threads” feel like a tree hole where you don’t need to join a group first or explain your background.
 
-## Outlook: The Future of Taiwan’s “Cui” Culture
+But a tree hole is not an empty place. Meta’s official documentation states that Threads is a public conversation app, and users can decide the visibility of their posts based on their profile privacy settings. Replies appear not only in the original thread but also on your own profile. When creating a Threads profile, the account is linked to the logged-in Instagram or Facebook account, using data such as the account name, username, profile, links, and account status. [^15]
 
-### Short-Term Development, 2026-2027
+This design creates a kind of “relative anonymity” familiar to Taiwan’s social media landscape. You don’t necessarily have to use your real name, nor will your real-life friends and family necessarily see it immediately. However, the words you leave, your replies, photos, follower relationships, and cross-platform profiles may still slowly piece together your identity. Thus, Threads is suitable for saying something like “I don’t want acquaintances to know right now, but I hope someone responds,” but it is not suitable for treating it as a guaranteed anonymous mailbox.
 
-**Functional maturation:**
+| Interactions Seen in the Riverbed                           | The Feelings It Brings                                        | Boundaries to Maintain                                                                                  |
+| ----------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Strangers reply to emotional, family, or workplace troubles | Quickly gaining companionship and different experiences       | Commenters may not have professional qualifications; sensitive details can be screenshotted or searched |
+| Posting with a secondary account, using a nickname          | Reducing the pressure of performing in front of acquaintances | A nickname does not mean unidentifiable; cross-platform footprints may still be connected               |
+| Long comment threads forming a shared narrative             | Turning lonely events into understandable experiences         | High interaction does not equal the majority opinion, nor does it equal correct advice                  |
 
-- Formal launch of the advertising system, affecting the content ecosystem
-- Integration of features such as livestreaming and shopping
-- Continued optimization of Chinese-language content understanding
+This is not to deny community mutual aid. Often, what people truly need is just someone to say, “I’ve been through that too.” But if a post involves self-harm, violence, sexual violence, major medical issues, or legal risks, the comment section cannot replace professional assistance and emergency resources. The best companionship in “Threads” culture is not mistaking momentary enthusiasm for the ability to bear everything.
 
-**Ecosystem maturation:**
+## Work first emerges in the riverbed: Freelancing, hiring, and persona resumes
 
-- Establishment of economic models for content creators
-- Formal entry by government and public institutions
-- Greater integration by news media
+In Taiwan, Threads is also beginning to function as a temporary job market without a resume section. People seek designers, photographers, editors, copywriters, or event collaborators. Some use a short post to describe their skills and current projects, then place their portfolios and contact information in their profile. Its appeal lies not in institutional structure, but in speed: a job opening or need can first be seen by acquaintances, then forwarded by strangers to someone "just right."
 
-### Medium-Term Evolution, 2027-2030
+A 2024 experience article written by a freelance teaching author summarizes Threads' matching advantages as free posting, reach to strangers, and the ability to observe works and operational footprints through linked public Instagram accounts. This is a subjective observation from the freelance community, not employment market statistics. But it captures a shift: beyond resume submissions, public content itself has become a type of "persona resume" that gets reviewed. [^16]
 
-**Intensifying platform competition:**
+This shift has two sides. On one hand, newly starting workers can first be seen through a clear self-introduction, without waiting for platform mechanisms to review. Small shops and micro-teams can also test needs at low cost. On the other hand, work ability, private life, political opinions, and emotional expression are placed near the same account; clients, employers, and partners can scroll back, and users may also begin to pre-screen themselves for future unknown audiences.
 
-- TikTok and YouTube launch text-based social functions
-- Local platforms, such as a new version of PTT, return to competition
-- User attention becomes further fragmented
+| Scenario                                             | Efficiency Threads Can Provide                                  | Procedures It Cannot Replace                                                                             |
+| ---------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Hiring short-term outsourcing or event collaborators | Allows needs to quickly spread beyond existing follower circles | Work scope, delivery deadlines, compensation, and copyright must still be clearly stated                 |
+| Personal display of skills or works                  | Builds initial trust through tone, case studies, and replies    | Post interactions cannot verify professional ability or payment credit                                   |
+| Contacting for collaboration via DM                  | Reduces friction in initial contact                             | Suspicious links, excessive urgency, or requests for upfront payment still require separate verification |
 
-**Changes in the regulatory environment:**
+Thus, Threads is more like a front-desk greeting, not a contract table. It is good at bringing people together, but does not automatically handle background checks, quote negotiations, confidentiality clauses, or dispute resolution. When "posting a脆 (crisp/casual post) to see what happens" becomes common practice, mature community culture must not only know how to help tag friends, but also learn to ask: Is this a formal commission? Who bears the compensation and responsibility?
 
-- Implementation of new regulations such as the Digital Intermediary Services Act
-- Strengthening of mechanisms to prevent disinformation
-- Establishment of cross-platform data governance standards
+## One River, Two Value Exchanges: Recommendations and Transactions
 
-### Long-Term Impact, 2030+
+Life recommendations are one of the most common behaviors in "crispy culture." Today, which store doesn't require a queue, which headphones are good, whether one should change jobs, or whether a specific exhibition ticket is worth buying—users can receive a string of experiential replies as long as they phrase their questions specifically enough. A survey by the MIC (Institute for Information Industry) shows that 52.5% of social media users are motivated to try things themselves after seeing others share interesting experiences. This indicates that the influence of crowd-sourced experience on consumption and life decisions exists not only in sponsored posts. [^4]
 
-**Structural social change:**
+However, the gap between recommendation and transaction is just one link. When the river of discourse shifts from "Has anyone used this?" to "I'll give it to you for free," "The store is closing, clearance sale," or "Shipping fee only," users shift from being discussants to potential buyers, entering a scenario that scammers are best at exploiting: urgency, cheapness, and the appearance of endorsement.
 
-- A new generation of “Cui natives” comes of age, influencing the direction of Taiwan’s online culture
-- Boundaries between traditional media and new media blur further
-- Political communication undergoes a thorough digital transformation
+The Kaohsiung City Police Bureau Criminal Investigation Brigade explained in an October 2025 announcement that scam groups use free giveaways, store closures, or popular concert and K-pop group merchandise as bait on social platforms like Threads, then provide fake transaction links and induce online banking transfers under the guise of identity verification. [^17] The New Taipei City Police Department also revealed a case where free anime posters were used to attract private messages, small shipping fees were collected first, and the scam then shifted to a fake LINE customer service demanding further remittances. [^18]
 
-**Potential risks and opportunities:**
+| Discourse on the River                                              | Psychological Exploitation                                                     | Safer Approach                                                                                                     |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| "Free giveaway, just pay shipping"                                  | Small amounts seem harmless, lowering guard                                    | Do not click transaction links provided by the other party; log in to the official service independently to verify |
+| "Last few units, buy now or it's gone"                              | Uses time pressure to block verification                                       | Pause operations; check account creation date, post history, and comment records                                   |
+| "Order abnormal, please add LINE customer service for verification" | Moves users away from the original platform, creating an illusion of authority | Do not add unknown customer service; do not provide OTPs, online banking operations, or personal information       |
+| "So many comments say they want it"                                 | Creates credibility through interaction volume                                 | Treat comments as clues, not as merchant credit or platform guarantees                                             |
 
-- Web3 and decentralized social platforms may disrupt the existing landscape
-- Questions over the boundary between AI-generated content and real-user discussion
-- Successful experience in localizing a transnational platform may be replicated in other regions
+The Digital Development Administration's subsequent anti-fraud principles also emphasize that legitimate sellers will not ask for OTPs, should not direct users to unknown LINE customer service, and require checking the seller's account, post interactions, and comment content. [^19] This reminder is crucial within crispy culture: high interaction can be the basis for mutual aid, but it can also be designed as a backdrop for trust. Social platforms excel at spreading good items, but that does not mean they are inherently suitable for handling payments, authentication, and after-sales service.
 
----
+## Asking for Directions, Asking for Information, Asking "Does Anyone Just Happen to Know": Micro-Public Services in Local Information
 
-## Conclusion: From Phenomenon to Cultural Sedimentation
+Beyond transactions and work, many Threads posts actually perform small public services. People ask whether an alley is flooded, which hospitals still have evening clinics, how to get home after a performance ends, or ask nearby people to confirm lost items, traffic conditions, and store operating status. These questions may not make the news, but they make the platform feel like a sticky note pieced together by strangers' local experiences.
 
-Threads’ success in Taiwan reflects the convergence of several deeper desires:
+This is the practical side of "ask if you don't know": when questions are specific enough, respondents don't need to know the poster; they just need to have been there, lived there, or encountered it. It reduces the awkwardness of asking for directions or advice, and allows details known only to locals to be filled in. For those traveling, newly moved, or dealing with a certain life problem for the first time, this low-barrier response is more human than search engine rankings.
 
-1. **A low-pressure social environment**: Escaping the pressures of overpackaged social media
-2. **Highly participatory public discussion**: Recovering the internet’s original purpose as a public sphere
-3. **A space for authentic expression**: Preserving human warmth in the digital world
+But local information has a short shelf life. Stores may close temporarily, traffic may change due to weather, and disaster information cannot be judged solely by screenshots. There are already earthquake and disaster information accounts on Threads that use the platform alongside apps, Telegram, Discord, and other channels. This shows that the riverbed is becoming one of the information nodes, but it does not mean it is an official alert system. [^20] For events truly concerning safety, one must still return to the real-time announcements of government agencies, transport operators, venues, or local authorities.
 
-Most importantly, however, **“Cui” is no longer merely a social platform. It has become an important window for understanding contemporary Taiwanese youth culture, political communication, and social change**.
+> **Curator's Note:** The most useful moments on Threads are often not when it provides a standard answer, but when the person who "just happens to know" emerges. The most dangerous moment is when we forget to confirm whether the answer they gave is still today's answer.
 
-When we scroll through Threads late at night and watch strangers share their most authentic troubles and joys, perhaps we are witnessing an important turning point in the history of Taiwan’s digital society: a return from “displaying the self” to “expressing the self,” and from “pursuing perfection” to “embracing authenticity.”
+## Being Banned Reveals That the Riverbed Is Not Your Own
 
-Yet the challenges are equally clear: in fragmented and emotional short-form text, how can the quality of public discussion be maintained? Could the polarization and confrontation brought by algorithms turn “Cui” from a public square into a battlefield?
+_Extended viewing: [Official announcement image released by the Ministry of Digital Affairs regarding Meta's erroneous account bans](https://moda.gov.tw/ADI/assets/img/fbshare.jpg)_
 
-There are no standard answers to these questions. But their answers will determine the next chapter of Taiwan’s digital democracy.
+_Image: The official share image from the Ministry of Digital Affairs’ June 2026 announcement on erroneous account bans. This is the source citation for the announcement, not a data chart showing the scale of affected accounts or bans. [^54]_
 
----
+In a follow-up announcement on June 17, 2026, the Ministry of Digital Affairs provided the governance context for the previous banning incident: Meta’s age verification mechanism had technical issues, leading to the erroneous banning of Facebook, Instagram, and Threads accounts globally. The Ministry of Digital Affairs urged Meta to adopt "proactive detection and proactive restoration." By 4 p.m. that day, nearly **90%** of the erroneously banned accounts had been restored through this method. The announcement also estimated that those affected in Taiwan included over 200 media organizations and non-partisan public figures, as well as thousands of citizen accounts. However, cases of new erroneous bans or re-banning after restoration continued to emerge. [^54]
 
-## Further Exploration
+This follow-up data changed the understanding of the event. It cannot be simplified into "appealing solves everything," nor can it be taken as the restoration rate for all banning incidents. Instead, it highlights a more fundamental issue: when the error originates from the platform system, the administrative cost of individual users appealing one by one is itself a harm. The regulator’s demand that the platform proactively identify and restore those affected shifts the problem from "user self-help" back to "corporate responsibility." For media, creators, and regular accounts, backups remain necessary because even if 90% are restored, the remaining 10% and those repeatedly misjudged may still lose their outlet at critical moments.
 
-### Related Topics
+In the summer of 2026, this seemingly accessible public square suddenly revealed another side. Late on June 14 through the morning of June 15, Threads accounts of several Taiwanese celebrities and media outlets were reported as blocked. The Ministry of Digital Affairs stated that after receiving complaints, it had contacted Meta. Meta preliminarily determined that the issue might be related to technical problems with the age verification mechanism, was not targeting any specific group or individual, and promised to unban accounts as soon as possible. [^21]
 
-### Research Resources
+_Extended viewing: [Report image of the unexpected ban incident on Threads in Taiwan in July 2026](https://img.ltn.com.tw/Upload/3c/page/2026/07/16/260716-66847-1.jpeg)_
 
-- [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/) — Taiwan FactCheck Center
-- [Ministry of Digital Affairs Digital Governance Policy](https://moda.gov.tw/) — Government policies related to digital governance
-- [Taiwan Network Information Center, TWNIC](https://www.twnic.net.tw/) — Surveys on internet usage behavior in Taiwan
+_Image source: Liberty Times Net 3C Technology. Illustration for the July 2026 ban incident report. [^22]_
+
+This was not a minor incident of a single account forgetting its password. Reports in June indicated that affected parties included celebrities and media. On July 16, Liberty Times Net reported that some users and the Ministry of Culture’s official account were unexpectedly banned. Some individuals, after uploading selfies and ID documents as requested by the system, initially received permanent ban notices, but some accounts were later restored. [^22] The common thread between the two waves of incidents was "disappearing first, explaining later," but the causes cannot be conflated: In June, Meta explained the age verification technical issues through the Ministry of Digital Affairs; in July, at the time of this report, Meta had not issued a public explanation regarding the new wave.
+
+_Extended viewing: [Screenshot of user notifications received during the July 2026 ban incident](https://img.ltn.com.tw/Upload/3c/page/2026/07/16/260716-66847-2.jpg)_
+
+_Image source: Liberty Times Net 3C Technology. Screenshot of the ban notification shown in the report. [^22]_
+
+Meta’s official statement was direct: Once a Threads profile is disabled, others will no longer be able to see the account. If users believe the action was erroneous, they can enter their account credentials in the app and follow the on-screen instructions to request a review. If they suspect the account has been compromised or cannot log in, they should use the official account security page rather than handing over credentials to third parties claiming to be able to "unlock" the account. [^23]
+
+| What is wrong with the account                              | What you can check first                                                                     | What you should not do out of anxiety                                                     |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Displaying disabled or violating guidelines when logging in | Submit a review request according to the app screen; keep records of notifications and times | Trust paid unlocks via private messages or hand over passwords                            |
+| Multiple people experiencing similar bans simultaneously    | Cross-reference official, media, and regulator messages; wait for platform explanation       | Prematurely conclude it targets a specific political stance or group                      |
+| Receiving processes requiring selfies, IDs, or verification | Verify if sent from the official app/website                                                 | Provide personal information on unknown links, unfamiliar customer service, or chat rooms |
+| Unable to log in and suspecting compromise                  | Use Meta’s official account security and recovery channels                                   | Panic and create fake accounts impersonating the original account to mass-message friends |
+
+The banning incident illuminated the power relations often ignored in fragile culture. People use Threads to retrieve student IDs, receive job offers, and joke with strangers, while also storing years of accumulated posts, followers, and interactions into a single account. But an account is not a space owned by the user; it is an identity entry point authorized by the platform. When it is closed, life memories, job opportunities, and public speaking rights shrink together.
+
+This is why "recovering URLs but not photos" is not just a nostalgic sigh. During platform migration, what users often lose is not just a post, but the context of all replies, tags, and relationships following that post. Banning does not necessarily equal censorship, nor should one dismiss the platform because of a single technical misjudgment. But it reminds users: important data should be backed up, important announcements should have other distribution channels, and "being on Threads" should never be the only identity and contact method.
+
+## Media Shouldn't Leave Just One Door Open: Miin as a Backup in the Ban Storm
+
+_Watch: [Illustration from CNA's report on the large-scale Threads ban in June 2026](https://imgcdn.cna.com.tw/www/WebPhotos/800/20260616/2000x1333_wmkn_104415330236_0.jpg)_
+
+_Figure: Illustration from CNA's report on the June 2026 Threads ban. Meta initially explained the incident as a technical error caused by age verification. The image does not imply that all bans had the same cause. [^46]_
+
+The June 2026 ban event transformed "backup" from a technical term into an intuitive concern: If readers are accustomed to getting breaking news from a specific media outlet's Instagram or Threads account, where does the information come from when that account suddenly disappears? CNA reported that at the time, multiple creators, political figures, and media accounts were mistakenly suspended for being under 13 years old. Several ministries contacted Meta, which initially responded that the issue was a technical problem with the age verification mechanism. Affected entities included Formosa TV News. [^46] This is not a single story about "which political stance was locked," but rather an illustration of how a single platform's error can simultaneously disrupt the visibility of accounts with different natures.
+
+_Watch: [Screenshot from Liberty Times Net reporting on CNA's announcement of the ban status on Miin](https://img.ltn.com.tw/Upload/news/600/2026/06/15/phpQbCbEf.png)_
+
+_Figure: A screenshot of the Miin interface reposted by Liberty Times Net, explaining that CNA used Miin to announce its status when its IG and Threads accounts were temporarily suspended. This is an example of backup communication and does not imply that Miin has replaced other news outlets. [^47]_
+
+In this incident, **Miin** is the correct spelling. Liberty Times Net reported that after CNA's IG and Threads accounts were temporarily suspended, it posted announcements on Miin, and the accounts were restored after appeals. The publicly accessible account URLs show CNA's user page as `miin.cc/user/cna` and Formosa TV's as `miin.cc/user/ftvnews`. [^47] [^48] However, the article cannot conclude that both media outlets created their accounts on the day they were banned: What can be verified is that they were identified by readers on Miin before and after the ban, used for external communication or as a backup. Precisely determining when the accounts were first created requires each media outlet to make its own announcement.
+
+Miin's self-positioning differs from that of Threads and X. Its Google Play description identifies it as a non-profit open-source platform promoted by Taiwan AI Labs & Foundation, advocating the use of AI to help users see different perspectives and identify information manipulation. [^48] The introduction reposted by Formosa TV describes it as an attempt at a public space that does not focus on advertising attention, hoping to allow creators to gain traffic. [^49] These are the self-positionings of the platform and its founders, not an endorsement by the article. Any new platform still faces issues of governance, privacy, moderation, user scale, and long-term operations.
+
+| Backup Outlet                        | Work Best Suited For                                                                                                         | Problems It Should Not Be Assumed to Automatically Solve                                                                                         |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Own website, App, Newsletter, RSS    | Preserving searchable, subscribable, and relatively stable formal content less affected by social media account fluctuations | Traffic does not appear naturally; requires maintenance, publishing workflows, and reader habits                                                 |
+| Threads, Instagram, Facebook, X      | Reaching different daily audiences, facilitating real-time discussion and replies                                            | Any single platform may be affected by algorithms, policies, errors, or account risks                                                            |
+| Alternative/New Platforms like Miin  | Providing another external announcement and community touchpoint, reducing single-point failure                              | Having multiple accounts is not resilience in itself; readers must be told the accounts are real, when they are updated, and how to cross-verify |
+| Public Statements and Formal Appeals | Leaving a traceable record during bans, fake accounts, or major errors                                                       | Appeals do not guarantee immediate restoration and cannot replace pre-established multi-point connections                                        |
+
+Media's multi-platform presence, and the division of labor among VTubers on X, Discord, YouTube, and Threads, are essentially two versions of the same thing: **Relationships should not be left behind just one door.** For news organizations, this concerns whether readers can continue to find credible outlets in the event of errors or bans. For creators and communities, it concerns whether works, archives, and contacts can be preserved when platform rules change. The emergence of Miin has made this issue visible, but the true answer is not "choose another single platform," but rather establishing a multi-point presence that can verify each other.
+
+```tw-versus
+Public dialogue is not about choosing just one App, but about choosing how relationships are preserved
+Single-platform dependency | Multi-point presence
+Content, followers, and interactions remain only in the same account and algorithmic channel | Websites, RSS, newsletters, and accounts on different platforms cross-link
+When an account is banned or ranking changes, readers may not find the original outlet | When any outlet is interrupted, other entrances can still lead back to the original content
+Low cost to join and interact, attention is concentrated | Higher maintenance cost, but better at preserving sources, identity, and traceability
+Source: CNA, Liberty Times Net, Meta, Miin platform description
+```
+
+```tw-note
+Explanation
+This relationship diagram is a qualitative structural synthesis of the aforementioned platform designs and media cases; it is not a ranking of user numbers, reliability, or political stance.
+It does not present which side is "better," but rather how a single post may concentrate relationships in a single channel or distribute them across multiple outlets that can verify each other. The reason bans, erroneous recommendations, and content preservation risks feel sudden is precisely because users usually cannot see how much of their relationship they have handed over to which door. [^46] [^47] [^48] [^50]
+```
+
+## The Bluebird Is Not the Entire River, but It Illustrates What Rivers Can Do
+
+Politics is the important backdrop for the rise of Threads in Taiwan, but it should not swallow the entire article about fragile culture. The 2024 elections and the Bluebird Movement indeed brought a large number of users to the platform. The Taiwan Fact Check Center also observed that as major political events fade, high-traffic content often returns to daily whispers and life's trivialities. [^7]
+
+A study published in 2026, using the Meta Content Library to collect 62,321 Threads posts and 21,572 images related to the Bluebird Movement between May 2024 and June 2025, pointed out that political mobilization on Threads is no longer just about text dissemination; it also relies on cute animal imagery, memes, AI-generated images, and users' active sharing. [^9]
+
+This reminds us that the "lightness" of fragile culture is not devoid of politics; rather, politics must also learn to pass through lightness. Political messages wear the guise of cute images, everyday language, and instant jokes. This increases accessibility beyond the threshold for participation, but also raises the cost of judgment. Readers must ask two things simultaneously: Is this meme funny? What is it trying to make me believe?
+
+## When "Ah-bian Baba" Joins the Conversation: Political Figures as Co-authors of Memes
+
+Political figures on Threads are not only subjects of commentary; they can also become co-authors of meme dialogues. On May 10, 2026, Chen Shui-bian’s verified account replied to a post that is now no longer visible, writing: "The 'Baba' in Ah-bian Baba refers to the last digits of the account, 88. No need to overcomplicate it!?"[^24] This statement contains no policy discourse or formal declaration. It takes a nickname seemingly extended by netizens and anchors it back to the specific detail of the account suffix "88," using a rhetorical question to frame the explanation as part of the joke.
+
+_Extended viewing: [Meme of Chen Shui-bian’s official Threads account responding to the "Ah-bian Baba" nickname](https://scontent-for2-1.cdninstagram.com/v/t51.82787-15/694521324_17959605240108590_7871428376185044805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg5NDAxOTEwNTgzODMzMjI3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEzMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=udUD7ad-CD8Q7kNvwG8i72Z&_nc_oc=AdpnsTA-LzVPbbnuOJr5URth1ER8hDGs0yYZfJl0eeataj_OEzZVSM8D9JW9kI1kMBs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-1.cdninstagram.com&_nc_gid=4HYdMr5-gN65IptN5E7F7w&_nc_ss=7a22e&oh=00_AQGp7GdG1lOGZu4QVyzltEST8AJF7ehP8y2wqH6rmjn7yQ&oe=6A84D6DE)_
+
+_Image source: Chen Shui-bian’s verified Threads account. The image attached to the "Ah-bian Baba" reply on May 10, 2026.[^24]_
+
+The key point of this case is not whether the meme is "funny," but rather the shift in the role of political figures. Political memes in the past were often one-way adaptations by netizens of public figures. On Threads, the subjects themselves can reply in real time, add context, joke around, or even upload images that are already preset to be screenshotted and shared. Memes thus cease to be merely a form of mockery and become a language for testing boundaries.
+
+However, this sense of distance cannot replace public accountability. A meme may make a political figure appear more like a user in the comment section, but it cannot substitute for policy data, media inquiries, and institutional responsibility. A good way to understand posts like "Ah-bian Baba" is to see both layers simultaneously: it is indeed a self-response in a familiar platform tone. It also reminds readers not to misinterpret friendly interactions as complete public argumentation.
+
+## Patrols Are Not Just Passing By: Turning Official Accounts into Regulars in the Comment Section
+
+In the context of "Cui Culture," "patrolling" (海巡) does not refer to how many posts an account publishes itself, but rather to official accounts proactively leaving their own pages to engage in conversations under users' or other brands' popular posts. Marketing observations from Yahoo/FoodNEXT describe this approach as brands joining the conversation as commenters rather than advertisers. It cites examples such as Kinmen Liquor, FamilyMart, Huayuan Oyster Omelet, Jiannan Goat Milk, Formosa Hotel, and department store operators. [^25] This is observational data, not a conversion rate study, but it accurately captures the core of patrolling: brands must learn to act like "people who just happen to be present" before it is their turn to speak.
+
+Specifically, the FamilyMart social media manager once saw a user arrange sliced cakes into a circular shape to resemble a birthday cake. When sharing the post, the manager replied, "We also sell real round cakes, please take note." In another instance, the manager jokingly provided a serious-sounding explanation for a question about the indentations in convenience store microwave meal boxes, coining the term "concave groove drink, outgoing." Baymax Tea was called the "Patrol King" of Threads by DailyView: in a post discussing the sentence pattern "adding 'okay?' at the end of a sentence," the manager replied, "Is it okay to add corn to milk tea?", forcibly turning a sentence pattern unrelated to beverages into a promotion for a new product. [^26]
+
+| Type of Patrol        | How Comments Work                                                                   | Visible Examples                                                                         | Effects and Risks for Brands                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Meme-Joining          | First adopts the user's sentence structure or meme, then inserts the product        | Baymax Tea responds to daily posts with "Is it okay to add corn to milk tea?"            | Prone to being screenshotted and spread; if forced too hard, it can feel like an ad invasion.                                            |
+| Responsive            | Provides a character-driven response to user creativity or concerns already present | FamilyMart responds to sliced cakes arranged into a round cake                           | Makes the brand appear to be listening; however, genuine customer complaints still require service rather than just jokes.               |
+| Summoning             | Consistently appears in certain topics, prompting users to tag the brand            | Jiannan Goat Milk's manager is often expected to "patrol" and appear                     | The persona is liked, but it also leads users to ask who exactly is replying.                                                            |
+| Knowledge Translation | Introduces cultural relics, exhibitions, or public information in a relaxed tone    | National Palace Museum South Branch interacts with cultural relics using short sentences | Can reduce the distance of information; when involving health, safety, or disasters, avoid using memes to replace accurate explanations. |
+
+Patrolling is particularly effective on Threads because comments themselves become content. When users see an official account suddenly appear, they not only reply to the original poster but also tag friends, take screenshots, and give the manager nicknames. A single comment can expand into another thread. Brands no longer just buy ad placements; they also borrow strangers' original narratives, becoming recognizable supporting characters in that story.
+
+However, "official accounts acting like real people" is both a charm and a pressure. The Jiannan Goat Milk incident has already shown: when netizens view each patrol as the personal labor of a specific manager, exposing the collaboration team, visual design, or internal division of labor triggers questions about authenticity, attribution, and labor ownership. [^11] The key to successful patrolling is therefore not simply appearing more often, but whether the brand can clarify: who is replying, when to be humorous, and when to answer questions directly.
+
+> **Curator's Note:** The best patrols are not about "the brand snatching up comments," but about the user's original topic remaining more fun and useful after the brand joins. If every reply is just a discount code or a forced product placement, the channel will quickly identify it as noise.
+
+## The original three cases were just three stalls in this night market
+
+Chen Shui-bian publicly explained on Threads that he personally operates the account and replies to netizens himself. The "Goat Bian" (羊編) of Jia-Nan Goat Milk gained popularity again due to high-frequency interactions, and was further questioned about who was actually speaking amid the account management controversy. [^10] [^11] These two cases are worth preserving because they transformed the abstract brand concept of "authenticity" into a question users would directly ask.
+
+Another type includes memes like the "Worst Politician" four-panel poll. Users publicly questioned why certain posts that appeared to be polls had options pre-listing specific camps, with the comment section creating another option through "Tsai Ing-wen click here." [^12] This is very Threads: an image that looks like a survey may actually be a performative ritual woven together by designed questions, added comments, and relayed likes.
+
+But these should not become the entirety of understanding Taiwan's fragile culture. Politicians, brand accounts, and high-conflict polls are easily reported because they have names, drama, and clear stances. What truly sustains the daily riverbed are nameless users: those asking how to cook a dish, those helping friends find people, those leaving a cat picture on travelers' food photos, and those who just want to say "I'm so tired today" late at night.
+
+## Bustle Does Not Equal Reliability; Truth Is Never Unmediated
+
+Threads’ weaknesses are precisely embedded within its strengths. The algorithm brings strangers together, but it also accelerates emotional, short, and sharp content. High engagement can help students find the owners of lost items, but it can also make unmethodical polls appear to reflect public opinion. Meta’s policy on political content is to not actively recommend political content from accounts users do not follow, but users can still see posts from accounts they do follow and can adjust related preferences. [^13]
+
+The Taiwan Fact Check Center warns that social media platforms, including Threads, carry risks of false information and information manipulation. When facing social media trends, the most important thing is not to treat all content as false, nor to treat comment counts as truth, but to question the source, original context, and evidence. [^7] This habit is useful for political information, and equally useful for restaurant recommendations, lost-and-found assistance, product reviews, and any content that seems to be “what everyone is saying.”
+
+A more fundamental risk is memory. Today’s riverbed is bustling; tomorrow’s posts may be deleted, suspended, or buried by the algorithm. Taiwan’s online communities have migrated from BBS, PChome, Facebook, and LINE. Each migration left behind open URLs, but also lost some photos, comments, and context. [^14] Threads is not the end of this history. It is simply, at this moment, a way for Taiwanese people to once again find a way to bring strangers together around a table.
+
+## The Lifecycle of a Post: From Being Seen to Being Handed to the System
+
+If we think of Taiwan’s Threads as a night market, a post doesn’t finish the moment it’s published; instead, it passes from stall to stall. It might begin by being seen through algorithmic recommendations or friends’ replies, then get caught through comments, shares, and “leave friends to see,” and finally be amplified by brand patrols, media reposts, or meme templates. In the end, it either sinks into obscurity or loses visibility due to misinformation, infringement, suspension, or account deletion. This lifecycle connects the cases mentioned earlier: lost-and-found and toilet paper help requests require “speed,” competitions and food memes require “catchability,” and account bans and fake account controversies remind us that both “speed” and “catchability” can also create risks.
+
+| Stage                      | What General Users Are Doing                                                                   | Typical Cases                                                           | Capabilities Most Needed                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Seeing                     | Encountering information via follows, algorithms, friends’ comments, or trending threads       | Food photos from Japanese and Korean tourists, local Q&A, public events | First determine whether this is personal experience, retelling, a joke, or news                                 |
+| Catching                   | Joining in via replies, images, meme phrases, tags, or shares                                  | Leave friends to see, challenge frogs, disagree with school starting    | Understand the context, don’t use sliced content to force others to bear the original meaning                   |
+| Amplifying                 | Spreading via patrols, media reports, celebrity participation, or templating                   | Brand social media managers, Ah-bian Baba, tomorrow off                 | Distinguish between high engagement and high credibility, don’t use like counts as judgment                     |
+| Delivering                 | Transferring information from crowd attention to accountable channels                          | Student ID lost-and-found, passport loss, fraud or reports              | Mask personal data, preserve necessary evidence, hand over to police, stations, consular services, or platforms |
+| Preserving or Disappearing | Screenshots, backups, takedowns, suspensions, or account removals change subsequent visibility | Unwarning suspensions, old post archaeology, meme recycling             | Preserve context and sources, don’t treat isolated screenshots as permanent, complete evidence                  |
+
+This framework can also answer “why some feel ‘crispy’ is noisy, yet they can’t leave.” Because it compresses what used to require separate searches, asking friends, browsing forums, reading news, and finding customer service into a single, replyable, and visible channel. Compression increases encounters and speed, but pushes trust, privacy, identity, and fact-finding onto every participant. The lost-and-found miracles, brand personas, political memes, and account ban events mentioned earlier are all results of this same compression effect in different scenarios. [^16] [^22] [^23]
+
+> **Curator’s Note:** What’s truly worth preserving in crispy culture is not a meme phrase or a screenshot, but the context of “who caught it, when, and why.” Without context, mutual aid becomes rumor, memes become accusations, and images lose their original speaking position.
+
+## Conclusion: A Table, Not a Consensus
+
+The most fascinating thing about Taiwan’s crispy culture is not that it makes everyone agree, but that it temporarily pulls people who wouldn’t normally sit together to the same table. Egypt’s student ID, Japanese and Korean tourists’ food photos, Qingniao’s imagery, goat milk social media managers’ late-night replies, and a post that needs no conclusion may all brush past each other in a few swipes.
+
+This digital night market is certainly noisy and may even catch fire. But as long as we still remember to distinguish between lost-and-found and official services, memes and polls, real-person replies and designed personas, it won’t just be another platform swallowed by traffic. What it leaves behind is a very Taiwanese public practice: first catch a stranger’s words, then decide whether to help send them further.
+
+## Further Reading
+
+- [Meta: New Features to Celebrate 500 Million Monthly Users on Threads](https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/)
+- [MIC (Institute for Information Industry): Survey on Taiwan's Social Communication Behaviors](https://mic.iii.org.tw/news.aspx?id=744)
+- [MIT Technology Review: Why Threads is suddenly popular in Taiwan](https://www.technologyreview.com/2024/04/02/1090518/threads-taiwan-election-politics-popular/)
+- [Taiwan Fact Check Center: Social Media Influencers Assist in Spreading Misinformation](https://tfc-taiwan.org.tw/migration_article_104945_10857/)
 
 ## References
 
-1. [Threads’ global monthly active users exceed 300 million, becoming Taiwan’s most popular app in 2024](https://www.businessyee.com/article/5165-Threads-DAU) - Business Yee
-2. [Threads turns one year old: monthly active users exceed 175 million](https://www.bnext.com.tw/article/79642/threads-meta-2024-) - Business Next
-3. [Taiwan has the world’s second-largest number of Threads users and ranks first globally in usage time: why has Gen Z moved to “Cui”?](https://www.foodnext.net/column/columnist/paper/6351013795) - FoodNext
-4. [Gen Z loves “Threads”: Taiwan becomes the world’s second-largest market](https://www.cw.com.tw/article/5131823) - CommonWealth Magazine
-5. [Is Threads marketing overturning the rules of traffic? Latest cases and strategies for the AI era](https://www.asiakol.com/article/750) - AsiaKOL
-6. [From PTT and Dcard to Threads: how are we “designed” on social platforms?](https://www.thenewslens.com/article/251622) - The News Lens
-7. [Threads becomes Taiwanese young people’s new favorite: analyzing the rise of “Cui”](https://sonar-inc.com/what-is-threads/) - Sonar Digital Marketing
-8. [Threads marketing: new trends in Taiwanese corporate social media strategy](https://www.i-connectweb.com/zh-hant/blog/threads-marketing) - i-Connect
-9. [2025 Threads marketing case studies](https://tobiehuang.com/2025-threads-marketing-case-study/) - Tobie Huang
-10. [Did Threads come back to life because of “nonsense posts”? This Cui wave is one to follow](http://plog.tw/2024/03/19/threads-genz/) - Partipost
-11. [Data.ai Intelligence: report on Threads reaching 150 million downloads](https://www.data.ai/) - App Market Intelligence
-12. [Taiwan FactCheck Center 2024 Annual Report](https://tfc-taiwan.org.tw/) - Taiwan FactCheck Center
+[^1]: [Threads: Post Seeking a NTU Student ID Found Near the Sphinx in Egypt](https://www.threads.com/@therealjacobchen/post/DSxOznCDUyt) — A December 2025 public post preserving the context of mutual aid, including the location of discovery, time pressure to reach Cairo Airport, and the scale of reposts and shares.
 
----
+[^2]: [Meta: New Features to Celebrate 500 Million Monthly Users on Threads](https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/) — An official Meta announcement from June 2026 detailing Threads' global monthly active users, the official launch of Communities, and plans for localized language tags in Taiwan.
 
-_This article was researched and written in depth by Editorial Team. Last updated: 2026-03-24_  
-_Primary sources: Meta Platforms, Business Next, CommonWealth Magazine, AsiaKOL, Taiwan FactCheck Center_
+[^3]: [DataReportal: Digital 2026: Taiwan](https://datareportal.com/reports/digital-2026-taiwan) — An analysis of Taiwan's digital usage based on Meta ad tool data, explicitly warning that ad reach estimates cannot be directly equated with monthly or daily active users.
+
+[^4]: [MIC (Institute for Information Industry): Young Generations Gather on IG, Dcard, and Threads](https://mic.iii.org.tw/news.aspx?id=744) — A 2025 survey on Taiwanese social communication behaviors, providing data and methodology on platform usage by age group, social media anxiety, and content conversion experiences.
+
+[^5]: [MIT Technology Review: Why Threads is suddenly popular in Taiwan](https://www.technologyreview.com/2024/04/02/1090518/threads-taiwan-election-politics-popular/) — A 2024 in-depth English report interviewing Taiwanese users and researchers, documenting the naming of 'Cui', meme culture, post-election回流, and the context of Twitter/X usage in Taiwan.
+
+[^6]: [Yahoo奇摩: Threads Community is Becoming a Large Lost and Found for Taiwanese](https://tw.news.yahoo.com/threads%E7%A4%BE%E7%BE%A4%E6%AD%A3%E5%9C%A8%E8%AE%8A%E6%88%90%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%A4%B1%E7%89%A9%E6%8B%9B%E9%A0%98%E7%AB%99-%E5%AD%B8%E7%94%9F%E8%AD%89%E6%8E%89%E5%9C%A8%E5%9F%83%E5%8F%8A%E9%87%91%E5%AD%97%E5%A1%94%E4%B9%9F%E8%83%BD%E6%89%BE%E5%9B%9E%E4%BE%86%EF%BC%81-033000025.html) — Compiles cross-border mutual aid cases such as Egyptian student IDs, Korean passports, and Vatican hats, showcasing the mutual aid narrative formed by Taiwanese users through reposts, tags, and proxy carrying.
+
+[^7]: [Taiwan Fact Check Center: Social Media Influencers Assist in Spreading Misinformation](https://tfc-taiwan.org.tw/migration_article_104945_10857/) — A 2024 workshop report discussing the peak usage of Threads during the Blue Bird Movement, its characteristics as daily gossip, and the long-term challenges of social media manipulation and verification.
+
+[^8]: [TTV News: Foreign Ministry Cat Meme 'Hello, I'll Eat a Bit' Supports Japan](https://news.ttv.com.tw/news/11411240027400N) — A 2025 report documenting how Taiwanese Threads users responded to Japanese and Korean travelers' food posts with cat memes, and how the Foreign Ministry subsequently created Chinese-Japanese bilingual graphics using the meme.
+
+[^9]: [Weener et al.: The First Mass Protest on Threads](https://arxiv.org/html/2602.02640v1) — A 2026 study collecting 62,321 posts and 21,572 images from the Meta Content Library to analyze the text, images, and algorithmic visibility of the Blue Bird Movement on Threads.
+
+[^10]: [Upmedia: Chen Shui-bian Confirms He Personally Operates His Threads Account](https://www.upmedia.mg/tw/focus/politics/254228) — A March 2026 report summarizing Chen Shui-bian's public statements regarding having no assistants or secretaries, and personally reading and replying to comments.
+
+[^11]: [Manager: Controversy Over Threads Account Management for Jia-Nan Goat Milk](https://fc.bnext.com.tw/articles/view/4427) — A January 2026 compilation of a marketing company case study, the 'Goat Editor's' response, and the headquarters' statement, highlighting authenticity controversies in brand personification.
+
+[^12]: [Threads: Discussion on Political Figure Poll Options and Adding Options to Comments](https://www.threads.com/@mashida102/post/DXwHqROGcWE/) — A April 2026 public post presenting user skepticism regarding political poll options, adding options to comment sections, and the accumulation of likes; not representative of polls.
+
+[^13]: [Instagram Blog: Recommendation Policies for Political Content on Instagram and Threads](https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads) — An official Meta statement clarifying that political content is not actively recommended to non-followers, while retaining mechanisms for users to adjust recommendation preferences.
+
+[^14]: [Taiwan.md: Thirty Years of Taiwan's Online Communities - Recovering URLs but Not Photos: A History of Lost Land](https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%B7%E5%BE%99%E5%8F%B2/) — A review of Taiwan's platform migration from BBS and Wretch to Facebook and LINE, discussing the loss of accounts, images, comments, and collective memory during service transitions.
+
+[^15]: [Meta Help Center: About Threads](https://help.instagram.com/788669719351544/) — Meta's official explanation of Threads' public conversations, reply visibility, privacy settings, and how Threads links to Instagram/Facebook account data.
+
+[^16]: [One Person Career Institute: The Latest Freelancing Platform Is Actually \_\_\_?](https://writeuuu.com/freelance-on-threads/) — An experience article published in 2024 by the author of freelancing education, analyzing Threads' free posting, cold reach, and IG linking footprint from a freelancer's perspective; it is observational data, not overall employment market statistics.
+
+[^17]: [Kaohsiung City Police Bureau Criminal Investigation Brigade: Fake Giveaways on the Social Platform Threads](https://kcpd-cic.kcg.gov.tw/News_Content.aspx?n=F1F83458BBCAB0EB&sms=73BE5B81302C4CAD&s=91A7A345F0FA8E44) — An official anti-fraud case updated in October 2025, explaining the process of fake giveaways, fake sales posts, and luring online banking operations under the guise of identity verification.
+
+[^18]: [New Taipei City Police Department: Free Poster Giveaways Become Fraud Traps](https://www.police.ntpc.gov.tw/cp-3361-132700-1.html) — An official case analysis recording how Threads posts for free anime posters lure victims into continuous remittances through small shipping fees and fake LINE customer service.
+
+[^19]: [CNA / Kua News: Digital Development Administration Exposes Threads Social Fraud Tactics](https://hakkanews.tw/2026/06/01/281411/) — Summarizes the Digital Development Administration's four anti-fraud principles regarding ultra-low price clearances, fake sales posts, OTPs, and unfamiliar customer service on LINE.
+
+[^20]: [Taiwan Earthquake Alert Threads Account](https://www.threads.com/@tw.earthquake) — The self-introduction indicates the account uses Threads alongside an App, Telegram, and Discord to publish earthquake and disaster information; it is a civilian information node, not a government official alert system.
+
+[^21]: [United Daily News: Threads Mass Account Bans, DDA Says It Has Asked the Operator to Assist in Restoring Accounts](https://udn.com/news/story/7240/9568404) — A report dated June 15, 2026, recording the DDA and Meta's preliminary explanation regarding the blocking of several Taiwanese celebrities' and media accounts, as well as official appeal channels.
+
+[^22]: [Liberty Times Net 3C Technology: Threads Again Experiences Unwarning Account Bans](https://3c.ltn.com.tw/news/66847) — A report dated July 16, 2026, recording the banning of the Ministry of Culture's account and several users, with some accounts subsequently restored; the article does not confirm the final cause of the July incident.
+
+[^23]: [Meta Help Center: About Disabled Threads Profiles](https://help.instagram.com/494292066734215/) — Meta's official explanation regarding the visibility of disabled accounts, the in-app appeal review process, and official security channels when accounts are compromised.
+
+[^24]: [Chen Shui-bian Threads: Ah-bian's 'Ba-ba' Is the Last Digit 88 of the Account](https://www.threads.com/@chenshuibian88/post/DYKVb7QE_l0/media) — A public post and image from Chen Shui-bian's verified account on May 10, 2026; the originally replied post is no longer visible, and this text analyzes its self-memeification method based only on accessible reply text and media.
+
+[^25]: [Yahoo / FoodNEXT: Why Has Threads Become the New Battlefield for Brand Social Media Managers?](https://tw.news.yahoo.com/threads%E7%82%BA%E4%BD%95%E6%88%90%E7%82%BA%E5%93%81%E7%89%8C%E5%B0%8F%E7%B7%A8%E7%9A%84%E6%96%B0%E6%88%B0%E5%A0%B4-%E5%A0%B4%E5%BE%9E%E7%95%99%E8%A8%80%E5%8D%80%E7%99%BC%E5%8B%95%E7%9A%84%E6%B5%B7%E5%B7%A1%E8%A1%8C%E9%8A%B7%E9%9D%A9%E5%91%BD-051140535.html) — An author's observation published in 2026, explaining the patrol mode of brands actively commenting under popular user posts and its trust risks; it is a marketing perspective, not a conversion rate study.
+
+[^26]: [DailyView: Active Networks, Patrols, Meme After Meme! 10 Super Witty Social Media Managers](https://dailyview.tw/daily/4542) — A 2025 compilation of social media cases for accounts such as FamilyMart, Ba-Yao He Tea, and the National Palace Museum Southern Branch; its KEYPO ranking reflects online discussion volume, not positive/negative evaluations or commercial results.
+
+[^27]: [Threads: What Is the Meme 'Disagree with School Starting'?](https://www.threads.com/@yummyman_official/post/DN53NWIkoCG/) — A public post from August 2025, retaining visible clues of pre-school-start rewrites like 'I am a sheep person, I disagree with school starting'; used to illustrate sentence circulation, not claiming a single source.
+
+[^28]: [Threads: I Self-Proclaim the First Edition of the XXX Competition Officially Begins](https://www.threads.com/@tobie_talks/post/DQNxdPbk-7I/) — A public post from October 2025, compiling self-proclaimed competition versions in life hacks, interior design, beauty, and indie games, and warning that suspicious new accounts may use memes to collect interactions; it is user observation.
+
+[^29]: [DailyView: What Is 'Leave Friends to See'?](https://dailyview.tw/popular/detail/33000) — Explains the abbreviation 'Leave Friends to See' using KEYPO discussion data in January 2026, listing its volume changes and research methods; it is not equivalent to the platform's official algorithm explanation.
+
+[^30]: [Tsai Ing-wen Threads: Leave Friends to See](https://www.threads.com/@tsai_ingwen/post/DTiRTjykrs7/%E7%95%99%E5%8F%8B%E7%9C%8B) — A three-character post publicly released by Tsai Ing-wen's verified account on January 15, 2026; this text only treats it as a case of a buzzword entering public attention, not treating real-time interaction numbers as fixed statistics.
+
+[^31]: [Threads: Why is this frog meme so widely used now?](https://www.threads.com/@jackychen_0522/post/DZSCdZJidWj/) — Discussed publicly in June 2026; comments note the frog image is often used to counter absurd claims and shows how its rules adapt to thread context.
+
+[^32]: [EBC News: Bizarre Lu Rou Fan with Condensed Milk Eating Method Goes Viral, Netizens Demand It Leave Earth](https://news.ebc.net.tw/news/living/526271) — Reported in December 2025, documenting the 'scrap it out of Earth' reaction to adding condensed milk to Lu Rou Fan on Threads and brand accounts joining the interaction.
+
+[^33]: [Threads: Delete the Search, What You Find is a Car Full of Bread People](https://www.threads.com/@yamapi.h/post/DXGSqyCmWH_/) — Public post from April 2026, presenting the absurd re-splitting of 'a car full of bread people'; this text only analyzes the linguistic contrast and does not encourage threatening language.
+
+[^34]: [Yahoo News: Chiang Wan-an's Threads Flooded, Netizens Dig Up Old Post 'Tomorrow Off'](https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89threads%E8%A2%AB%E7%81%8C%E7%88%86-%E7%B6%B2%E7%BF%BB-%E6%98%8E%E5%A4%A9%E6%94%BE-3%E5%AD%97%E8%88%8A%E6%96%87%E7%98%8B%E5%96%8A-%E4%BB%8A%E6%99%9A8%E9%BB%9E%E5%86%8D%E8%AC%9B-002700654.html) — Reported in July 2026, reviewing the 'Tomorrow Off!' post resurfaced during Typhoon Kaemi in 2024; suspension information should still follow real-time announcements from competent authorities.
+
+[^35]: [City Studies: What is the meme 'I ask again'?](https://city.gvm.com.tw/article/127579) — Reported in January 2026, tracing the 2025 Threads breakfast shop imitation videos and the phonetic spelling of 'ven' mimicking 'wen', recording cross-strait accent controversies.
+
+[^36]: [Meta Transparency Center: Inauthentic Behavior](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/) — Meta's policy and reporting instructions on inauthentic behavior; its existence does not mean users can determine real identity or organizational ties based on a single account's characteristics.
+
+[^37]: [Liberty Times: AI Account Caught Steering Public Opinion, Netizens Flood Comments to Train It Until Broken](https://news.ltn.com.tw/news/life/breakingnews/5346491) — Reported in February 2026, an incident where a suspected AI account was tested by commenters with language and role instructions, subsequently becoming undisplayable; do not generalize to all accounts.
+
+[^38]: [TechNews: Threads Introduces Meta AI Interaction Testing](https://www.techbang.com/posts/129818-threads-meta-ai-test-chinese-hokkien) — 2026 Taiwan testing information, explaining how to ask questions in public threads using `@meta.ai`, with reminders that generated content may be incomplete or incorrect.
+
+[^39]: [LINE TODAY: Taiwanese Love Scrolling Threads, Netizens Joke It's a Large Open LINE Group](https://today.line.me/tw/v3/article/j7gpmka) — 2025 report quoting the community saying 'calling for help in the toilet for toilet paper, eating bento without chopsticks'; this text treats it as an exaggerated imagination of mutual aid culture, not verified case statistics.
+
+[^40]: [FTV/Yahoo: Passport Taken Abroad by Family, Citizen Posts on Threads for Help, Finds Rescue in 30 Minutes](https://tw.news.yahoo.com/%E8%AD%B7%E7%85%A7%E8%A2%AB%E5%AE%B6%E4%BA%BA%E5%B8%B6%E5%87%BA%E5%9C%8B-%E6%B0%91%E7%9C%BE%E7%99%BCthreads%E6%B1%82%E6%95%9130%E5%88%86%E9%90%98%E6%89%BE%E5%88%B0%E6%95%91%E5%85%B5-092138051.html) — 2026 report on cross-border passport assistance; the text also records the interviewee's reminder about the risks of handing documents to strangers, not a standard operating procedure.
+
+[^41]: [Ministry of Foreign Affairs, Bureau of Consular Affairs: Instructions for Applying for Replacement of a Valid Passport Lost Domestically](https://www.boca.gov.tw/np-22-1.html) — Official instructions on applying for an entry certificate for a lost passport overseas, declaring loss renders found passports unusable, and legal risks of passport custody.
+
+[^42]: [Mirror Weekly: NTU Student ID Returns from Egypt](https://www.mirrormedia.mg/story/20251229edi046) — 2025 cross-border student ID search report, recording the finder posting near the Giza Pyramids, the owner confirming identity in comments, and arranging to retrieve it upon returning to Taiwan.
+
+[^43]: [Ministry of the Interior, Criminal Investigation Bureau: How to Handle a Lost ROC Passport Domestically or Abroad?](https://www.cib.npa.gov.tw/ch/app/faq/view?id=18233&module=faq&serno=03e57ba5-71ff-4b38-8301-576cc9ff71e2) — Official instructions on police reporting and replacement procedures for lost passports domestically; high-sensitivity documents should prioritize formal, recordable procedures.
+
+[^44]: [Recuero, Amaral, Monteiro: Fandoms, Trending Topics and Social Capital in Twitter](https://spir.aoir.org/ojs/index.php/spir/article/download/8217/6604) — 2013 fandom study using interviews, observation, and Twitter data to analyze how fans use tags and retweets for collaboration, visibility, and social capital; not a study on Taiwan VTuber usage rates.
+
+[^45]: [Public Television: Workgroup 5 — Audiences and Engagement](https://info-material.pts.org.tw/staff_paper/2024/2024_015_article.pdf) — 2024 Public Television work data, noting their VTuber-related community manages accounts on Discord and X; used to illustrate a single Taiwan case of multi-platform division, not representative of all VTubers.
+
+[^46]: [CNA: Threads Suspension Crisis, Ministry of Digital Affairs Launches Investigation](https://www.cna.com.tw/news/ait/202606150305.aspx) — June 2026 report documenting that multiple creators, media, and political figures' accounts were mistakenly flagged as under 13; Meta initially attributed this to age verification technical issues; scope and subsequent causes remain subject to official updates.
+
+[^47]: [Liberty Times: CNA's IG and Threads Suspended, Shifts Announcements to Miin](https://news.ltn.com.tw/news/politics/breakingnews/5472882) — June 2026 report documenting CNA's announcement of suspension and subsequent account restoration on Miin; one must not infer that all Miin accounts were newly created on that day.
+
+[^48]: [Google Play: Miin](https://play.google.com/store/apps/details?id=tw.ailabs.miin) — Platform self-description as a non-profit open-source initiative by Taiwan AI Labs & Foundation, claiming to assist in understanding diverse viewpoints and identifying misinformation; this entry reflects the platform's self-description.
+
+[^49]: [FTV / Yahoo: Introducing Miin After the Meta Suspension Wave](https://tw.news.yahoo.com/meta%E7%88%86%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%81%9C%E6%AC%8A%E6%BD%AE-ptt%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%8E%A8-%E9%80%99%E5%B9%B3%E5%8F%B0-%E6%B5%81%E9%87%8F%E9%82%84%E7%B5%A6%E5%89%B5%E4%BD%9C%E8%80%85-054305364.html) — June 2026 report on Du Yijin's public space and non-advertising-oriented positioning of Miin; reflects the founder's perspective and media reporting, not external effectiveness evaluation.
+
+[^50]: [Meta: Threads Makes Fediverse Content Easier to See](https://about.fb.com/news/2025/06/its-now-easier-see-more-fediverse-content-threads/) — 2025 official announcement explaining that public accounts with sharing enabled can access public content from other services via Fediverse-specific feeds and search; functionality scope, account settings, and server support are subject to conditions.
+
+[^51]: [Meta: Threads Reaches 500 Million Monthly Active Users and Launches Community Features](https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/) — June 2026 official announcement detailing Communities Hub, Community Champions, and Local Communities starting from Taiwan; the same text notes that the first wave of Your Algo markets did not include Taiwan.
+
+[^52]: [DataReportal: Digital 2026 — Taiwan](https://datareportal.com/reports/digital-2026-taiwan) — Late 2025 data on Taiwan's Threads ad reach audience and methodology; ad reach cannot be equated with monthly or daily active users.
+
+[^53]: [ITIS MIC: Young Generations Gather on IG, Dcard, Threads](https://mic.iii.org.tw/research.aspx?id=744) — December 2025 social communication behavior survey; overall social media users commonly use Threads at 17.5%, and 44% for ages 18–24, with additional data on information anxiety; this reflects survey preferences, not ad reach or platform MAU.
+
+[^54]: [Ministry of Digital Affairs, Digital Industry Administration: Meta Promises Proactive Detection and Restoration of Suspended Accounts](https://moda.gov.tw/ADI/news/latest-news/19942) — June 17, 2026 announcement documenting age verification technical issues, restoration of nearly 90% of mistakenly suspended accounts, scope of affected media and public accounts, and subsequent proactive restoration measures; this is a daily official report, not long-term suspension statistics.
+
+[^55]: [Semrush: threads.net Website Traffic Overview](https://www.semrush.com/website/threads.net/overview/) — June 2026 page showing Taiwan accounts for approximately 21.24% of the domain's traffic; this is a third-party website traffic estimate and cannot be inferred as Taiwan account share, Taiwan MAU, or app usage proportion.

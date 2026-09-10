@@ -88,12 +88,13 @@ KNOWLEDGE = REPO / "knowledge"
 
 # ────────────────── Cascade defaults ──────────────────
 
-DEFAULT_CASCADE_ID = "codex,openrouter:openai/gpt-oss-120b:free,ollama,fleet"
-"""Default cascade priority (v4.12 2026-09-05 OBSERVER-QUEUE #18；v4.3 2026-06-10 audit D-2；
-v4.2 2026-05-16 哲宇 callout「codex + gemini 為優先」):
+DEFAULT_CASCADE_ID = "codex,openrouter:nvidia/nemotron-3-super-120b-a12b:free,ollama,fleet"
+"""Default cascade priority (v4.13 2026-09-09 gpt-oss-120b:free 下架；v4.12 2026-09-05
+OBSERVER-QUEUE #18；v4.3 2026-06-10 audit D-2；v4.2 2026-05-16 哲宇 callout「codex + gemini 為優先」):
 
 1. **codex (gpt-5.5)** — subscription, top quality, ~100% Taiwan pass (production verified)
-2. **openrouter gpt-oss-120b:free** — verified free（大文章會 truncate，ratio gate 接手）
+2. **openrouter nemotron-3-super-120b-a12b:free** — verified free，262K ctx（大文章會
+   truncate，ratio gate 接手）
 3. **ollama (qwen3.6)** — sovereignty backbone, never refuses（需 `ollama serve` 啟動）
 4. **fleet** — Tier 5（v4.4 2026-07-10 P0-2）：主權 GPU 軍團 raw HTTP。cron 環境層
    可以一夜滅掉所有 CLI backend（7/8 catastrophic exhaustion vc=2：codex nvm 斷 /
@@ -108,6 +109,16 @@ individuals，需遷移 Antigravity，帳號決策屬哲宇），2026-09-05 複�
 永久性錯誤，不是暫時性 429。留在 default cascade 裡等於每篇都白撞一次死 backend。
 程式碼路徑保留（`backends/gemini.py` GeminiBackend 未刪），要用走顯式
 `--cascade gemini,...` override；帳號遷移後若要復活，改回本行即可，不用重寫。
+
+v4.13 變更：**tier 2 從 `openai/gpt-oss-120b:free` 換成
+`nvidia/nemotron-3-super-120b-a12b:free`**。前者已被 OpenRouter 下架（2026-09-09 現查
+`/api/v1/models` 確認不在架，付費版 `openai/gpt-oss-120b` 仍在），適用 v4.12 對 gemini
+寫下的同一條理由：留在 default cascade 裡等於每篇都白撞一次死 backend。
+
+這條的教訓不在模型換誰：**「gpt-oss-120b:free 被下架」這個事實 2026-07-24 就被寫進
+`research-fleet.py` 的註解裡了**（那支工具自己撞到、自己記下、自己換掉 DEFAULT_MODEL），
+六週來沒有傳到真正拿它當預設的這一行。免費 model slug 會漂移，而知道它漂移了的地方
+跟受它影響的地方不是同一個檔案。用 `openrouter-model-audit.py` 定期對賬，別靠註解傳話。
 新增 Tier 6（`anthropic:{model}`，見 `backends/anthropic.py`）與 Tier 7
 （`gemini-paid:{model}`，見 `backends/gemini.py` GeminiPaidBackend）**不放進
 default cascade**——兩者都是付費、且依 OBSERVER-QUEUE #18 資格限制（只服務 P0
@@ -187,8 +198,9 @@ def build_cascade(cascade_id: str = DEFAULT_CASCADE_ID) -> "TranslationCascade":
         if name == "codex":
             backends.append(CodexBackend())
         elif name == "openrouter":
-            model = opt or "openrouter/owl-alpha"
-            backends.append(OpenRouterBackend(model=model))
+            # 不寫死 slug：沒指定就讓 backend 用它自己的 DEFAULT_FREE_MODEL
+            # （單一來源，2026-09-09 owl-alpha 下架後建立）
+            backends.append(OpenRouterBackend(model=opt) if opt else OpenRouterBackend())
         elif name == "gemini":
             backends.append(GeminiBackend(model=opt) if opt else GeminiBackend())
         elif name == "anthropic":

@@ -78,7 +78,7 @@ class BackendCapabilities:
     """
     name: str
     provider_kind: str            # 'openrouter' | 'codex-cli' | 'gemini-cli' | 'ollama' | 'anthropic-sdk' | ...
-    model: str                    # canonical model id (e.g. 'openrouter/owl-alpha', 'gpt-5.5', 'qwen3.6:35b-a3b')
+    model: str                    # canonical model id (e.g. 'nvidia/nemotron-3-super-120b-a12b:free', 'gpt-5.5', 'qwen3.6:35b-a3b')
     cost_kind: str                # 'free-tier' | 'subscription' | 'paid-per-token' | 'local-compute'
     typical_latency_s: int        # rough wall-clock per article (depth ~10K chars)
     max_context_chars: int        # hard limit

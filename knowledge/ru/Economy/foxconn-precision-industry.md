@@ -1,6 +1,6 @@
 ---
-title: 'Тайваньские предприятия: Хунхай Цзинми — 8 триллионов выручки и внутренняя война против коррупции в одной и той же балансовой ведомости'
-description: 'Утром 30 апреля 2026 года журнал Time включил Хунхай в список ста самых влиятельных компаний; тем же вечером сотрудники прокуратуры и следственных органов с ордерами на обыск вошли в завод Хунхай в Тучэн. От 100 тысяч тайваньских долларов, полученных матерью через взаимное кредитование в 1974 году, до 8 триллионов выручки в 2025 году, когда облачные и сетевые продукты превзошли потребительскую электронику — главная трудность для Хунхая это не геополитика, не темпы поставок AI-серверных стоек, а свои люди.'
+title: 'Тайваньские предприятия: Хонхай Цзинми — 8 триллионов выручки и внутренняя война против коррупции на одном балансовом листе'
+description: 'На рассвете 30 апреля 2026 года журнал Time включил Хонхай в список ста самых влиятельных компаний; того же вечера с поиском пришли органы прокуратуры и следствия в главный офис Хонхая в Тучэне. От 100 тысяч тайваньских долларов, собранных матерью через взаимное кредитование в 1974 году, до 8 триллионов выручки в 2025 году, когда облачные и сетевые продукты впервые превзошли потребительскую электронику — самое трудное в управлении такой империей это не геополитика, не темпы выпуска AI-серверов, а свои люди.'
 date: 2026-05-03
 category: 'Economy'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Экономика',
     'Предприятия',
     'Электронное производство',
-    'Подрядное производство',
-    'Хунхай',
-    'Фоксконн',
+    'Контрактное производство',
+    'Хонхай',
+    'Foxconn',
     'Корпоративное управление',
   ]
 subcategory: '企業列傳'
@@ -26,171 +26,171 @@ sourceBodyHash: 'sha256:68bf0232c7180c94'
 translatedAt: '2026-07-26T03:58:18+08:00'
 ---
 
-> **30-сеkundnyy obzor**
+> **Обзор за 30 секунд**
 >
-> Godovaya vyruchka Khunkhay Tszinmi (Foxconn) za 2025 god sostavila 8,1 trilliona novykh tayvanskikh dollarov, oblachno-setevye produkty vpervye s 40% prevysili potrebitel'skuyu elektroniku (38%), stav krupneyshim biznes-podrazdeleniem gruppy; v aprele 2026 goda kompaniya vošla v spisok 100 samykh vliyatelnnykh kompaniy po versii zhurnala Time, kotoryy nazval Khunkhay «odnoy iz samykh vazhnykh kompaniy v oblasti iskusstvennogo intellekta»[^9][^10]. No v tot zhe mesyats, v tot zhe den', Novotaybeyskaya prokuratura provodila obysk v glavnom ofise Khunkhay v Tuchene, nachal'nik otdela za rubezhom i yego zamestitel' byli arestovany pod zalog v podozrenii na poluchenie vzyatochnykh v razmere desyatkov millionov v ramkah global'nogo rasshireniya proizvodstva[^1][^2]. Khunkhay ran'she uzhe rassmatrival bol'shie vnutrennie dela: ot dela byvshego starshego vitse-prezidenta Lyao Vancheng 2014 goda o vzyatochnykh v 160 millionov[^7], cherez sozdanie v 2015 godu Upravleniya po preduprezhdeniyu narusheniy i nagradu v 50 millionov za «poymaniye privideniy»[^6], do pervogo publichnogo razoblacheniya v 2026 godu «troiki lovcov privideniy»[^5]. Imperiya podryadnogo proizvodstva v 24 stranakh s priblizitel'no 900 tysyach rabotnikov — samoe trudnoe dlya upravleniya eto svoi lyudi.
+> Годовая выручка Хонхай Цзинми (Foxconn) за 2025 год составила 8,1 триллиона новых тайваньских долларов, облачные и сетевые продукты впервые на 40% превзошли потребительскую электронику (38%), став крупнейшим подразделением группы; в апреле 2026 года компания вошла в список 100 самых влиятельных компаний по версии журнала Time, который назвал Хонхай «одной из самых важных компаний в области искусственного интеллекта»[^9][^10]. Но в тот же месяц, в тот же день, Новотайбэйская прокуратура провела поиск в главном офисе Хонхая в Тучэне, начальник отдела по зарубежным операциям и его заместитель были арестованы под залог в связи с подозрением в получении взяток на сумму в десятки миллионов в ходе глобального расширения производства[^1][^2]. Хонхай ранее уже сталкивался с крупными внутренними скандалами: от дела бывшего старшего вице-президента Ляо Ваньчэна в 2014 году о взятках на сумму 160 миллионов[^7], через создание в 2015 году Управления по предотвращению нарушений и вознаграждение в 5 миллионов за «поимку привидений»[^6], до первого публичного разоблачения в 2026 году «тройки ловцов привидений»[^5]. Империя контрактного производства в 24 странах с примерно 900 тысячами сотрудников — самое трудное в управлении это свои люди.
 
-## Pochemu eta stat'ya pishetsya seychas
+## Почему эта статья пишется сейчас
 
-Vash iPhone v rukakh, PlayStation v gostinoy, stel'larnye shkafy NVIDIA GB200 dlya obucheniya GPT v oblake — final'naya sborka vsego etogo, veroyatno, vykhodi iz zavodov Khunkhaya[^10][^14].
+Ваш iPhone в руках, PlayStation в гостиной, стеллажи NVIDIA GB200 для обучения GPT в облаке — финальная сборка всего этого, вероятно, вышла из заводов Хонхая[^10][^14].
 
-Ot «Khunkhay Suliao», osnovannoy v 1974 godu na 100 tysyach dollarov, poluchennykh mat'yu Chzhu Yunzhen cherez vzaimnoe kreditovanie[^13], do 2025 goda, kogda Khunkhay stal pervoy v istorii taivanskikh aktsionernykh obshchestv kompaniey s godovoy vyruchkoy ponad 8 trilliona[^9], istoriya Khunkhaya uzhe byla napisana sotni raz. Etta stat'ya ne povtoryaet tu zhe narrativu.
+От Го Тайминя, создавшего в 1974 году на 100 тысяч долларов, собранных матерью Чу Юнчжэнь через взаимное кредитование, компании «Хонхай пластик»[^13], до 2025 года, когда Хонхай стал первым в истории тайваньским акционерным обществом с годовой выручкой более 8 триллионов[^9], история Хонхая уже была переписана сотни раз. Эта статья не повторяет ту же нарративную линию.
 
-30 aprelya 2026 goda stal dlya Khunkhaya odnim iz samykh protivorechivykh dney v poslednie gody: utrom eto — priznannyy zhurnalom Time global'nyy gosudar' podryadnogo proizvodstva v oblasti II, vecherom — ob"yekt obyska Novotaybeyskoy prokuratury[^1][^10]. Odna i ta zhe balansovaya vedomost', dva napravleniya odnovremenno vedut uchet. Eto yadro etogo perepisaniya.
+30 апреля 2026 года был одним из самых противоречивых дней для Хонхая за последние годы: с утра это — признанный журналом Time глобальный король контрактного производства в эпоху искусственного интеллекта, вечером это — объект поиска Новотайбэйской прокуратуры[^1][^10]. Один и тот же балансовый лист, два направления, одновременно ведущие учет. Это ядро этого переписания.
 
-## Obysk na kanun vykhodnykh
+## Поиск в канун праздничных выходных
 
-30 aprelya 2026 goda, na kanun vykhodnykh po pervomu mayu. Novotaybeyskaya prokuratura rukovodila Sledstvennym byuro Taybeya, razdelivshimsya na nekotorye napravleniya, provodila obysk glavnogo ofisa Khunkhaya v rayone Tuchen' g. Sin'bey, a takzhe v kvartirah podozrevaemykh rabotnikov[^1].
+30 апреля 2026 года, в канун праздничных выходных в День труда. Новотайбэйская прокуратура под руководством Бюро расследований Тайбэя, разделившись на несколько групп, проводила поиск главного офиса Хонхая в районе Тучэн города Синьбэй, а также в жилищах подозреваемых сотрудников[^1].
 
-K doprosu privleli: nachal'nik otdela za rubezhom **Tszen' Sin'min** (zalog 2 milliona), zamestitel' direktora **Tsyan' Yun'zhu** (zalog 1 million), a takzhe zhenа Tszen', Chan' (spерva kak svidetel', potom pereklassifitsirovana kak podozrevaemaya po otmyvaniyu deneg, posle doprosa vypushchena) [^2][^3]. Prokuratura vedet delo po st. osobo zlostnom preimushchestve (spetsial'noe preimushchestvo po Zakonu o tsennykh bumagakh), lzhevym zaneseniiam v delovye dokumenty (UK) i poddelke dokumentov (UK), oboe litsa zapreshcheno v'ezd za rubezh i v more[^3].
+На допрос были доставлены: начальник отдела за границей **Цэн Синьминь** (залог 2 миллиона), заместитель директора **Цянь Юньжу** (залог 1 миллион), а также жена Цэна, г-жа Чжан (первоначально допрошена как свидетельница, затем переквалифицирована как подозреваемая в отмывании денег, после допроса отпущена)[^2][^3]. Прокуратура возбудила дело по статьям: нарушение Закона о ценных бумагах (квалифицированное злоупотребление служебным положением), служебная лжесвидетельство в деловых документах (Уголовный кодекс) и подделка документов (Уголовный кодекс), оба подозреваемых были запрещены выезжать за границу и в море[^3].
 
-Tsentral'noye informatsionnoye agentstvo tsitiruet zayavlenie prokuratury: «Tszen' i Tsyan' v period provedeniya global'nogo plana rasshireniya zavodov Khunkhaya, narushaya sluzhebnye obyazannosti, poluchali vzyatochnye ot postavshchikov, summa pervichnoy otsenki dostigaet desyatkov millionov, takzhe yavlyayutsya lzhevym zaneseniya i poddelkoy dokumentov»[^2]. Prestupnaya shema: «ispol'zuyushche sluzhebnoe polozhenie, v zakupe, cherez zagranichnye scheta, poluchali ot postavshchikov ponad 10 millionov nezakonnykh vzyatochnykh, i poddelivali zakupochnye dokumenty, pomogaya postavshchikam proyti priemku»[^2].
+Центральное агентство новостей передает со ссылкой на заявление прокуратуры: «Цэн и Цянь в период проведения глобального плана расширения заводов Хонхая, нарушая служебные обязанности, получали взятки от поставщиков, первоначальная оценка суммы достигает десятков миллионов, также имеют место лжесвидетельства в деловых документах и подделка документов»[^2]. Схема преступления: «используя служебное положение при закупках, через зарубежные счета получали от поставщиков более 10 миллионов незаконных взяток и подделывали закупочные документы, помогая поставщикам пройти приемку»[^2].
 
-Khunkhay v tot zhe den' opublikoval na Stantsii nablyudeniya za publichnoy informatsiey vazhnoe soobshchenie:
+Хонхай в тот же день опубликовал на портале раскрытия информации важное уведомление:
 
-> **«Etot sluchay kasayetsya tol'ko opredelennogo rabotnika, ne kasayetsya samoy kompanii, podcherkivaetsya, chto delovaya deyatel'nost' normal'na, net znachimogo vliyaniya na finansy i biznes, polnost'yu sodeystvuem sledstvennomu rassledovaniyu.»**[^4]
+> **«Данное дело касается только определенного сотрудника, не касается самой компании, подчеркивается, что деятельность работает нормально, нет значительного влияния на финансовое положение и бизнес, полностью сотрудничаем с судебным расследованием.»**[^4]
 
-Formulirovka etogo vazhnogo soobshcheniya pochti yavlyaetsya standartnym formatom raskrytiya riskov korporativnogo upravleniya taivanskikh aktsionernykh obshchestv: ogranichit' masshtab, podcherknut' ogranichennost' vliyaniya, zayavit' o gotovnosti sodeystvovat'. No ono ne utochnyaet — etot raz «sodeystvie» imelo aktivnyy kharakter.
+Формулировка этого важного уведомления почти является стандартным форматом раскрытия рисков корпоративного управления тайваньских акционерных обществ: ограничить масштаб, подчеркнуть ограниченность влияния, заявить о сотрудничестве. Но оно не уточняет — на этот раз это «сотрудничество» имело активный характер.
 
-## Triada lovcov privideniy
+## Тройка ловцов привидений
 
-Zhurnal «Mirror Media» 1 maya 2026 goda eksklyuzivno soobshchil: v den' obyska «vse vremya nablyudali» vnutrennyy shtat Khunkhaya, kotoryy SMI nazvali «troikoy lovcov privideniy»[^5].
+Журнал «Mirror Media» 1 мая 2026 года в эксклюзивном репортаже сообщил: в день поиска «все время находились в курсе» внутренний штат Хонхая, которого СМИ назвали «тройкой ловцов привидений»[^5].
 
-| Rol'                                                  | Imya         | Proshloe mesto raboty                                                                                                          |
-| ----------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Glavnyy auditor                                       | Li Shun'bao  | Byvshiy zamestitel' glavnogo audita Auditorskoy palaty                                                                         |
-| Nachal'nik Upravleniya po preduprezhdeniyu narusheniy | Li Min'yin'  | Byvshiy nachal'nik otdela preduprezhdeniya prestupnosty Sledstvennogo byuro g. Taoyuan / nachal'nik mobil'noy stantsii Taoyuan |
-| Menedzher Upravleniya po preduprezhdeniyu narusheniy  | Lin' Min'hun | Byvshiy zamestitel' nachal'ka stantsii Sledstvennogo byuro na Pen'khu / zamestitel' nachal'nika mobil'noy stantsii Taoyuan     |
+| Роль                                             | Имя           | Предыдущее место работы                                                                                                 |
+| ------------------------------------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Главный аудитор                                  | Ли Шунь-бао   | Бывший заместитель главного аудитора Аудиторской палаты                                                                 |
+| Начальник Управления по предотвращению нарушений | Ли Минь-инь   | Бывший начальник отдела предупреждения преступности Бюро расследований г. Таоюаня / начальник мобильной станции Таоюаня |
+| Менеджер Управления по предотвращению нарушений  | Линь Минь-хун | Бывший заместитель начальника станции Бюро расследований на о. Пэнху / заместитель начальника мобильной станции Таоюаня |
 
-Tri cheloveka, tri gosudarstvennye antikorruptsionnye biografia. Oni ne «ofitsery po chelnosti korporatsii» urovnya PR, oni — lyudi, pereneshiye logiku rassledovaniya Sledstvennogo byuro vnutr' Khunkhaya[^5].
+Три человека, три государственных антикоррупционных биографии. Они не «корпоративные офицеры честности» уровня PR, они — люди, которые перенесли логику следственной работы Бюро расследований внутрь Хонхая[^5].
 
-Eta struktura ne pojavilas' v 2026 godu. Ee istochnik nuzhno iskat' 11 let nazad, v drugom dele.
+Эта структура не появилась в 2026 году. Ее истоки нужно искать 11 лет назад, в другом деле.
 
-## 160 millionov 11 let nazad
+## 160 миллионов 11 лет назад
 
-Nachalo 2014 goda, byvshiy zamestitel' predsedatelya Komiteta po tekhnologii SMT Khunkhaya, byvshiy starshiy vitse-prezident **Lyao Vancheng**, byvshiy general'nyy sekretar' Deng Zhixian, «belaya perchatka» Hao Xuguang i drugie byli obvineny prokuraturoy v vydiranii u postavshchikov vzyatochnykh v summe ponad 160 millionov[^7].
+В начале 2014 года бывший заместитель председателя комитета технологии SMT Хонхая, бывший старший вице-президент **Ляо Ваньчэн**, бывший генеральный секретарь Дэн Чжисянь, «белые перчатки» Хао Сюгуан и другие были обвинены прокуратурой в вымогательстве взяток у поставщиков на сумму более 160 миллионов[^7].
 
-Komitet SMT kontrol'ziroval zakupki i pravo podpisi priblizitel'no 50 milliardov yuan v god[^7]. Lyao Vancheng i drugie podozrevalis' v tom, chto oni poruchali podchinennym zakupat' opredelennye tovary v interesakh otredelennykh predpriyatiy, a cherez mekhanizm «pokupka deshevle, prodazha dorozhe» perevodili raznitsu tsen v lichnyy dohod.
+Комитет SMT контролировал закупки и право подписания примерно на 50 миллиардов новых тайваньских долларов в год[^7]. Ляо Ваньчэн и другие подозревались в том, что они направляли подчиненных закупать определенные товары в интересах определенных предприятий, а через механизм «купить дешевле, продать дороже» переводили разницу в цены в личный доход.
 
-Eto delo proshlo po sudebnym instantsiyam 7 let:
+Это дело прошло через судебные инстанции 7 лет:
 
-- **2014 god**: Taybeyskaya prokuratura obvinila Lyao Vancheng i eshche 5 chelovek[^7]
-- **Pervaya instanciya**: Taybeyskiy sud po st. osobo zlostnogo preimushchestva (Zakon o tsennykh bumagakh) prigovoril Lyao Vancheng k 10 godam 6 mesyatsam[^7]
-- **Apellyatsiya** (27.11.2018): Vysshiy sud po st. obshchego preimushchestva smenil prigovor na 1 god 4 mesyatsa, vyzyvaya obshchestvennyy rezonans[^7]
-- **Novoye rassmotrenie v apellyatsii** (11.2020): Vysshiy sud izmenil prigovor na 2 goda lyisheniya svobody, konfiskatsiya prestupnogo dokhoda 3,16 milliona[^7]
-- **24.05.2021**: Verkhovnyy sud otvergn zhalobu, prigovor vstupil v yuridicheskuyu silu, Lyao Vancheng dolzhen otbyvat' nakazanie[^7]
+- **2014 год**: Тайбэйская прокуратура обвинила Ляо Ваньчэна и еще 5 человек[^7]
+- **Первая инстанция**: Тайбэйский суд по статье квалифицированного злоупотребления служебным положением (Закон о ценных бумагах) приговорил Ляо Ваньчэна к 10 годам 6 месяцам[^7]
+- **Апелляция** (27.11.2018): Высший суд по статье простого попустительства изменил приговор на 1 год 4 месяца, вызвав общественный резонанс[^7]
+- **Новое рассмотрение в апелляции** (11.2020): Высший суд изменил приговор на 2 года лишения свободы, конфискация преступного дохода 3,16 миллиона[^7]
+- **24.05.2021**: Верховный суд отклонил жалобу, приговор вступил в юридическую силу, Ляо Ваньчэн должен отбывать наказание[^7]
 
-Obratite vnimanie na raznitsu mezhdu summoy obvineniya prokuratury (**ponad 160 millionov**) i summoy prestupnogo dokhoda, ustanovlennoy sudom (**3,16 milliona**): bol'she v 50 raz. Eta raznitsa — problema dokazatel'noj bazy yuditsial'noy sistemy, a ne stepen' tyazhesti dela. Khunkhay preduprezhdal grazhdanskiy isk, Vysshiy sud v yanvare 2021 goda vtoroy instancii ustanovil, chto Lyao Vancheng narushil podpisannoe pri prieme na rabotu «Soglashenie o chestnosti, chistoprirodnosti i intellektual'noy sobstvennosti», dolzhen vypolatit' Khunkhay nepoluchennuyu vygodu 770 tysyach dollarov SSHA (priblizitel'no 21,8 milliona novykh tayvanskikh dollarov)[^8].
+Обратите внимание на разницу между суммой обвинения прокуратурой (**более 160 миллионов**) и суммой преступного дохода, установленной судом (**3,16 миллиона**): более чем в 50 раз. Эта разница — проблема доказательственной базы судебной системы, а не степень тяжести дела. Хонхай одновременно обратился в гражданский суд, и Высший суд во второй инстанции в январе 2021 года установил, что Ляо Ваньчэн нарушил подписанное при приеме на работу «Соглашение о честности, чистоте и интеллектуальной собственности», обязан выплатить Хонхаю полученную неправомерно выгоду 770 тысяч долларов США (примерно 21,8 миллиона новых тайваньских долларов)[^8].
 
-Delo Lyao Vancheng v yuditsial'nom plane — dolgoe delo, no dlya vnutrenney sistemy Khunkhaya ono stalo prichinoy resheniya.
+Дело Ляо Ваньчэна в судебном плане — долгое дело, но для внутренней системы Хонхая оно привело к решению.
 
-## To reshenie 2015 goda
+## То решение 2015 года
 
-Seredina 2015 goda, **Go Taymin** vne yuridicheskogo i auditorskogo otdelov, sozdal nezavisimyy otdel: **Upravlenie po preduprezhdeniyu narusheniy**[^6].
+В середине 2015 года **Го Тайминь** вне юридического и аудиторского отделов создал независимый отдел: **Управление по предотвращению нарушений**[^6].
 
-Zhurnal «Tianxia» nazval ego «Antikorruptsionnym byuro Khunkhaya»[^6]. Go Taymin vvel nagradu do 50 millionov novykh tayvanskikh dollarov za kazhdyy sluchay «poymaniya privideniy», pooshchryaya rabotnikov soobshchat' o vnutrennikh narusheniya[^6].
+Журнал «Tianxia» назвал его «Антикоррупционным бюро Хонхая»[^6]. Го Тайминь установил награду до 5 миллионов новых тайваньских долларов за каждый случай «поимки привидений», поощряя сотрудников сообщать о внутренних нарушениях[^6].
 
-Eto neobychnaya konstrukciya v istorii korporativnogo upravleniya kitayskikh predpriyatiy. Bol'shinstvo semeynyh biznesov stroit vnutrenniy kontrol' na «druzyakh nachal'nika», auditorskikh firmah i yuristakh; Khunkhay peredal etu sistemu gosudarstvennym antikorruptsionnym chinovnikam, perehodivshim na vnutrennyuyu auditorskuyu gruppu, daya im nezavisimye prav rassledovaniya i vysokie nagrady za soobshcheniya. Logika takova: kogda kompaniya rastet do 24 stran i 900 tysyach chelovek[^11], druzya nachal'nika ne uvidyat vse zakupki, auditory ne uvidyat zagranichnye schety, yuristy vmeshayuts' slishkom pozdno. Nuzhna komanda, umyayushchaya ispol'zovat' instrumenty Sledstvennogo byuro.
+Это необычная конструкция в истории корпоративного управления китайских предприятий. Большинство семейных бизнесов строят внутренний контроль на «друзьях начальника», аудиторских фирмах и юристах; Хонхай передал эту систему государственным антикоррупционным чиновникам, перешедшим на должности внутренних аудиторов, давая им независимые права расследования и высокие награды за сообщения. Логика такова: когда компания вырастает до 24 стран и 900 тысяч человек[^11], друзья начальника не увидят все закупки, аудиторы не увидят зарубежные счета, юристы вмешаются слишком поздно. Вам нужна команда, умеющая использовать инструменты Бюро расследований.
 
-30 aprelya 2026 goda eto proektirovanie proshlo proverku. Otvet Khunkhaya ne aktsentiroval vnimanie na etom, no «Mirror Media» i TVBS soobshchili: eto delo bylo initsiirovano posle togo, kak vnutrenniy audit Upravleniya po preduprezhdeniyu narusheniy vyyavil anomalii, i Khunkhay aktivno soobshchil v Novotaybeyskuyu prokuraturu i Sledstvennoe byuro Taybeya[^15].
+30 апреля 2026 года этот дизайн был проверен. Ответ Хонхая не акцентировал внимание на этом, но «Mirror Media» и другие СМИ сообщили: это дело было инициировано после того, как внутренний аудит Управления по предотвращению нарушений выявил аномалии, и Хонхай активно сообщил в Новотайбэйскую прокуратуру и Бюро расследований Тайбэя[^15].
 
-## Drugaya trassa — transgranichnaya
+## Еще один путь — трансграничный
 
-Drugaya gran' riskov upravleniya Khunkhaya — transgranichnaya.
+Еще один аспект рисков управления Хонхая — трансграничный.
 
-S 2024 goda v zavode Foksconn v Chzhentszou posleovatel'no 4 tayvanskie rukovoditeli byli zaderzhany kitayskoy politsiey po podozreniyu v «vzyatochnichestve negosudarstvennogo rabotnika»[^12]. Ran'she v aprele Chzhentszouskaya politsiya eshche i v'yekhala v Shenzhen' na zavod Foksconn i zaderzhala dvoikh tayvanskih rukovoditeley, bez pred'yavleniya yuridicheskikh dokumentov, na meste byl tol'ko odin kitayskiy glavnyy po bezopasnosti[^12].
+С 2024 года на заводе Foxconn в Чжэнчжоу последовательно 4 тайваньских руководителя были задержаны китайской полицией по подозрению в «коррупции среди работников, не являющихся государственными служащими»[^12]. Ранее в апреле полиция Чжэнчжоу также приехала в Шэньчжэнь на завод Foxconn и задержала двух тайваньских руководителей, без представления судебных документов, на месте была только один китайский начальник по безопасности[^12].
 
-11 oktyabrya Byuro po delam Tayvanya podtverdilo, chto eti 4 cheloveka podozrevaetsya v «vzyatochnichestve negosudarstvennogo rabotnika» (st. 163 UK KNR) i «zloupotreblenii sredstvami», rassledovanie vedetsya[^12].
+11 октября Бюро по делам Тайваня подтвердило, что эти 4 человека подозреваются в «коррупции среди работников, не являющихся государственными служащими» (статья 163 Уголовного кодекса КНР) и «присвоении средств», расследование ведется[^12].
 
-Otvet Soveta po delam materikovogo Kitaya v yuditsial'nykh novostyakh redkost': zamestitel' glavnogo otmechal publichno: «Obstanovka dela dostatochno strankaya», i «ne isklyucheno, chto menshinstvo politsii ispol'zuyut svoyu vlast' nepravomereno», prizval Pekin operativno razobrat'sya[^12]. Storona Khunkhaya zayavila, chto deystviya rabotnikov ne prichinili uщerba kompanii, net deystviy, narushayushchikh interesy kompanii[^12].
+Ответ Совета по делам материковой части Китая в судебных новостях редок: заместитель директора публично отметил: «Ситуация в деле достаточно странная», и «не исключено, что некоторые полицейские неправомерно используют свою власть», призвал Пекин быстро разобраться[^12]. Сторона Хонхая заявила, что действия сотрудников не нанесли вреда компании, нет действий, нарушающих интересы компании[^12].
 
-Eta stat'ya ne razvivayet dvuberezhnyy politicheskiy narrativ. Ona ukazyvaet na drugoy uroven' problemy: kogda proizvodstvennaya baza odnoy kompanii razmeshchena v nekotorykh yurisdiktsiyah, trudovykh zakonakh, sistemah prokuratury i politsii, odni i te zhe fakty «polucheniya nepoluchennoy vygody po sluzhebnomu polozheniyu» v raznykh mestakh rassmatrivayutsya kak sovsem raznye ugolovnye dela. Delo v Tuchene vedet Novotaybeyskaya prokuratura po Zakonu o tsennykh bumagakh; delo v Chzhentszou — kitayskaya politsiya po st. 163 UK KNR «Vzyatochnichestvo negosudarstvennogo rabotnika». **Odna i ta zhe tsep' postavok na karte — v yuridicheskom plane eto raznye galaktiki**.
+Эта статья не разворачивает двусторонний политический нарратив. Она указывает на другой уровень проблемы: когда производственная база одной компании размещена в нескольких юрисдикциях, трудовых законодательствах, системах прокуратуры и полиции, один и тот же факт «получение неправомерной выгоды по служебному положению» в разных местах рассматривается как совершенно разные уголовные дела. Дело в Тучэне ведет Новотайбэйская прокуратура по Закону о ценных бумагах; дело в Чжэнчжоу — китайская полиция по статье 163 Уголовного кодекса КНР «Коррупция среди работников, не являющихся государственными служащими». **Одна и та же цепь поставок на карте — в юридическом плане это разные галактики**.
 
-## 8 trilliona i desyat' millionov
+## 8 триллионов и десять миллионов
 
-Vernemsya k sravnieniu v nachale stat'i.
+Вернемся к сравнению в начале статьи.
 
-2025 god, konsolidirovannaya vyruchka gruppy Khunkhay — 8,1031 trilliona novykh tayvanskikh dollarov, rost 18% k 6,86 trilliona 2024 goda[^9][^14]. Dolya oblachnykh i setevykh produktov 40%, **vpervye prevysiv** 38% potrebitelskih umnykh ustroystv, stal krupneyshim biznes-podrazdeleniem gruppy; vyruchka ot AI-serverov vyrosla na 170% v god[^9]. Predsedatel' soveta direktorov Lyu Yan'vey na soveshchanii po itogam 30 aprelya 2026 goda zayavil, chto postavki AI-stellazhey «dolzhny rosti kratno», godovye investitsii v NIOK prevyshayut 100 milliardov novykh tayvanskikh dollarov, fokus — effektivnoye teploothodchenie AI, avtomatizatsiya umnogo proizvodstva, klyuchevye moduli elektromobiley[^9].
+2025 год, консолидированная выручка группы Хонхай — 8,1031 триллиона новых тайваньских долларов, рост на 18% к 6,86 триллиона 2024 года[^9][^14]. Доля облачных и сетевых продуктов 40%, **впервые превысив** 38% потребительских смарт-устройств, стал крупнейшим подразделением группы; выручка от AI-серверов выросла на 170% в год[^9]. Председатель совета директоров Лю Янвэй на совещании по итогам 30 апреля 2026 года заявил, что поставки AI-стеллажей «должны расти в кратном порядке», годовые инвестиции в НИОКР превышают 100 миллиардов новых тайваньских долларов, фокус — эффективное теплоотведение AI, автоматизация интеллектуального производства, ключевые модули электромобилей[^9].
 
-Tot zhe den' zhurnal Time opublikoval spisok 100 samykh vliyatelnnykh kompaniy 2026 goda, Khunkhay vklyuchen v kategoriyu «Innovatory», opisan kak «odna iz samykh vazhnykh kompaniy v oblasti iskusstvennogo intellekta», takzhe vklyuchen v pervyy spisok TIME100 liderov otrasley[^10]. Lyu Yan'vey otvetil:
+Тот же день журнал Time опубликовал список 100 самых влиятельных компаний 2026 года, Хонхай включен в категорию «Новаторы», описан как «одна из самых важных компаний в области искусственного интеллекта», также включен в первый список TIME100 лидеров отраслей[^10]. Лю Янвэй ответил:
 
-> **«Etta nagrada podtverzhdaet tsel' Khunkhaya — prodolzhat' dvizhenie k vizii "mirovogo klassa vsekh storon s II v kachestve yadernogo dvigatelya".»**[^10]
+> **«Эта честь подтверждает цель Хонхая — продолжать движение к видению 'мирового класса во всех аспектах с искусственным интеллектом как движущей силой'.»**[^10]
 
-Neskol'ko chasov spustya v Tuchen' priekhali lyudi Taybeyskogo sledstvennogo byuro.
+Несколько часов спустя в Тучэн приехали люди Тайбэйского бюро расследований.
 
-Dva Khunkhaya, odin na oblozhke Time, drugoy v vazhnom soobshchenii. Pervyy — Khunkhay 8 trilliona vyruchki i global'nogo uzla AI-tsepi postavok, vtoroy — Khunkhay zagranichnykh schetov, desyat' millionov vzyatochnykh i poddelannyh zakupochnykh dokumentov. Eto ne dve raznye kompanii — eto odna i ta zhe balansovaya vedomost', na kotoroy dva napravleniya odnovremenno vedut uchet.
+Два Хонхая, один на обложке Time, другой в важном уведомлении. Первый — Хонхай выручки в 8 триллионов и глобальный узел цепи AI-поставок, второй — Хонхай зарубежных счетов, десять миллионов взяток и поддельных закупочных документов. Это не две разные компании — это один и тот же балансовый лист, на котором два направления одновременно ведут учет.
 
-## Rasstoyanie ot 100 tysyach do 8 trilliona
+## Расстояние от 100 тысяч до 8 триллионов
 
-1974 god, 30-letniy **Go Taymin** vzyav 100 tysyach dollarov (polovina 200 tysyach, poluchennykh mat'yu Chzhu Yunzhen cherez vzaimnoe kreditovanie, vtoraya polovina — na svoyu sobstvennuyu svad'bu), vmeste s druzyami vlozhil 300 tysyach, v Tuchene g. Taybey osnoval «Khunkhay Suliao», 10 rabotnikov, glavnyy produkt — ruchki chernobelogo televizora[^13].
+1974 год, 30-летний **Го Тайминь** взял 100 тысяч долларов (половина 200 тысяч, собранных матерью Чу Юнчжэнь через взаимное кредитование, другая половина — на свою собственную свадьбу), вместе с друзьями инвестировал 300 тысяч, в Тучэне города Тайбэй основал «Хонхай пластик», 10 сотрудников, главный продукт — ручки черно-белого телевизора[^13].
 
-God spustya kon'yunktura upala, ustavnyy kapital 300 tysyach ischerpan, pervonachal'nye partnera uekhali. Go Taymin zaimel u testya 700 tysyach i vykupil vsyu kompaniyu, pereimenoval v «Khunkhay Gongye»[^13].
+Год спустя конъюнктура упала, уставный капитал в 300 тысяч был исчерпан, первоначальные партнеры уехали. Го Тайминь одолжил у тестя 700 тысяч и выкупил всю компанию, переименовав ее в «Хонхай промышленность»[^13].
 
-Ot tekh 100 tysyach do 8 trilliona 2025 goda — 51 god istorii upravleniya. Konnektory (1981) → vyhod na Zapad, stroitel'stvo zavodov (1988) → vkhozhdenie v tsepi postavok Apple (2001 iPod / 2007 iPhone) → avtomatizatsiya posle «12 pryzhkov» v Kitaye (2010) → smena rukovoditelya Lyu Yan'vey (2019) → strategiya 3+3 (elektromobili / tsifrovoye zdorov'e / roboty + II / poluprovodniki / novoe pokolenie svyazi) → 2025 god: oblachnaya prevyshaet potrebitel'skuyu elektroniku.
+От тех 100 тысяч до 8 триллионов 2025 года — 51 год истории управления. Разъемы (1981) → выход на Запад, строительство заводов (1988) → вхождение в цепь поставок Apple (2001 iPod / 2007 iPhone) → автоматизация после «12 прыжков» в Китае (2010) → смена руководителя Лю Янвэй (2019) → стратегия 3+3 (электромобили / цифровое здравоохранение / роботы + искусственный интеллект / полупроводники / новое поколение коммуникаций) → 2025 год: облачное превзошло потребительскую электронику.
 
-No drugaya vremenskaya os' etoy istorii — vremenskaya os' riskov upravleniya:
+Но другая временная шкала этой истории — временная шкала рисков управления:
 
-- 2010 — «12 pryzhkov» na Shenzhenskem zavode
-- 2013-2014 — vskrytie dela kollektivnogo polucheniya vzyatochnykh Komitetom SMT Lyao Vancheng
-- 2015 — sozdanie Upravleniya po preduprezhdeniyu narusheniy + nagrada 50 millionov za «poymaniye privideniy»
-- 2021 — delo Lyao Vancheng Verkhovnym sudom vstupilo v yuridicheskuyu silu
-- 2024 — 4 tayvanskie rukovoditeli v Chzhentszou zaderzhany kitayskoy politsiey
-- 30.04.2026 — obysk na zavode v Tuchene, nachal'nik otdela i zamestitel' direktora v dele o desyat' millionah vzyatochnykh
+- 2010 — «12 прыжков» на шэньчжэньском заводе
+- 2013-2014 — раскрытие дела коллективного получения взяток комитетом SMT Ляо Ваньчэна
+- 2015 — создание Управления по предотвращению нарушений + награда в 5 миллионов за «поимку привидений»
+- 2021 — дело Ляо Ваньчэна вступило в юридическую силу Верховным судом
+- 2024 — 4 тайваньских руководителя в Чжэнчжоу задержаны китайской полицией
+- 30.04.2026 — поиск на заводе в Тучэне, начальник отдела и заместитель директора в деле о десяти миллионах взяток
 
-Cherez 11 let posle sozdaniya Upravleniya po preduprezhdeniyu narusheniy vnutrenniy auditorskiy mekhanizm vyyavil vtoroy sluchay i vybral put' «soobshcheniya v vneshnie organy». Eto signal o rabote sistemy, i signal, chto sistema eshche nuzhna.
+Через 11 лет после создания Управления по предотвращению нарушений внутренний аудиторский механизм выявил второй случай и выбрал путь «сообщения во внешние органы». Это сигнал о работе системы и сигнал о том, что система все еще необходима.
 
-## Seraya zona
+## Серая зона
 
-Istoriya Khunkhaya, taivanskie SMI uzhe napisali v nekotorykh sotnyah versiy: «Korol' podryadnogo proizvodstva», «Flagman tayvanskogo proizvodstva», «Nevidimyy chempion za iPhone». Eto vse pravda.
+История Хонхая, тайваньские СМИ уже написали в нескольких сотнях версий: «Король контрактного производства», «Флагман тайваньского производства», «Невидимый чемпион за iPhone». Все это правда.
 
-No takzhe pravda: imperiya podryadnogo proizvodstva s vyruchkoy 8 trilliona kazhdyy god imeet rabotnikov, kotorye vybiraut zagranichnye schety i poddelannye zakupochnye dokumenty; kazhdaya nagrada v 50 millionov za «poymaniye privideniy» — eto real'naya tsenovaya yarlyk, kotoruyu sistema vnutrennego kontrolya prinyuzhdena peresmatrivat' kazhdyye neskol'ko let.
+Но также правда: империя контрактного производства выручкой в 8 триллионов каждый год имеет сотрудников, которые выбирают зарубежные счета и поддельные закупочные документы; каждая награда в 5 миллионов за «поимку привидений» — это реальная ценовая метка, которую система внутреннего контроля вынуждена переоценивать каждые несколько лет.
 
-Khunkhay aktivno rasskryl «troiku lovcov privideniy», aktivno soobshchil v prokuraturu i sledstvennye organy, aktivno raskryl sobytie obyska cherez vazhnoe soobshchenie — v istorii korporativnogo upravleniya kitayskikh predpriyatiy eto ne norma. Eto nakoplennaya za 11 let dela Lyao Vancheng stoimost' obucheniya.
+Хонхай активно раскрыл «тройку ловцов привидений», активно сообщил в прокуратуру и следственные органы, активно раскрыл событие поиска через важное уведомление — в истории корпоративного управления китайских предприятий это не норма. Это накопленная стоимость обучения за 11 лет дела Ляо Ваньчэна.
 
-Chto budet cherez sleduyushchie 11 let? Nikto ne znaet. No 30 aprelya 2026 goda soobshchaet nam: kogda vyruchka podryadnoy imperii priblizhaetsya k 10 trilliona[^9], 24 strany, 900 tysyach chelovek[^11], oblachno-setevye produkty stanovyatsya krupneyshim biznes-podrazdeleniem posle — **samoe trudnoe upravlyaemoe — eshche vsegda svoi lyudi**.
+Что произойдет в течение следующих 11 лет? Никто не знает. Но 30 апреля 2026 года сообщает нам: когда выручка империи контрактного производства приближается к 10 триллионам[^9], 24 страны, 900 тысяч человек[^11], облачные и сетевые продукты становятся крупнейшим подразделением после — **самое трудное в управлении — это все еще свои люди**.
 
-Spisok Time budet prodolzhat' obnovlyat'sya. EPS na soveshchaniyakh budet prodolzhat' obnovlyat'sya. I ordere na obysk Novotaybeyskoy prokuratury tozhe budut pridti na sleduyushchiy adres.
-
----
-
-## Dopolnitel'noe chtenie
-
-- [Go Taymin](/ru/people/terry-gou) — osnovatel' Khunkhaya, ot 100 tysyach maty vzaimnogo kreditovaniya do global'noy proizvodstvennoy imperii
-- [Tayvanskie predpriyatiya: TSMC](/economy/台灣企業：台積電) — tozhe flagman mezhdunarodnogo urovnya, no po spetsializirovannomu puti founderii; struktura upravleniya prinzipial'no otlichaetsya ot imperii podryadnogo proizvodstva Khunkhaya
-- [Tayvanskiy fondovyy rynok i rynok kapitala](/economy/台灣股市與資本市場) — aktsii Khunkhaya tiker 2317, kak rabotaet mekhanizm raskrytiya vazhnykh soobshcheniy
-- [Transformatsiya i modernizatsiya tayvanskoy promyshlennosti](/ru/economy/industrial-transformation-from-manufacturing-to-innovation) — ot trudoyemkogo podryadnogo proizvodstva k sborke AI-serverov, Khunkhay — proektsiya etogo puti
-- [Tayvanskaya vneshnyaya torgovlya i global'naya tsep' postavok](/ru/economy/taiwan-foreign-trade-and-global-supply-chain) — global'naya rasstanovka 24 stran, 900 tysyach chelovek — eto bol'shaya poligon dlya transgranichnogo upravleniya tayvanskoy promyshlennosti
+Список Time будет продолжать обновляться. EPS на совещаниях будет продолжать обновляться. И повестка о поиске Новотайбэйской прокуратуры также будет приходить на следующий адрес.
 
 ---
 
-## Spisok literatury
+## Дополнительное чтение
 
-[^1]: [Svobodnaya gazeta 2026-04-30 Nachal'nik otdela podozrevaetsya v poluchenii vzyatochnykh Prokuratura i sledstvennye organy obyskali zavod Khunkhaya v Tuchene, privleli 3 cheloveka](https://news.ltn.com.tw/news/society/breakingnews/5421541) — doklad Tsentra obshchestvennykh novostey Svobodnoy gazety 30 aprelya 2026 goda: hronologiya obyska Novotaybeyskoy prokuratury, rukovodyashchey Sledstvennym byuro Taybeya, zavoda Khunkhaya v Tuchene, chislo podozrevaemykh i pervichnaya pravovaya kvalifikatsiya prokuratury.
+- [Го Тайминь](/ru/people/terry-gou) — основатель Хонхая, от 100 тысяч матери через взаимное кредитование до глобальной производственной империи
+- [Тайваньское предприятие: TSMC](/ru/economy/tsmc) — также флагман международного уровня, но пошел по специализированному пути производства микросхем; структура управления принципиально отличается от империи контрактного производства Хонхая
+- [Тайваньский фондовый рынок и рынок капитала](/ru/economy/taiwan-stock-market) — акции Хонхая тикер 2317, как работает механизм раскрытия важных уведомлений
+- [Трансформация и модернизация тайваньской промышленности](/ru/economy/industrial-transformation-from-manufacturing-to-innovation) — от трудоемкого контрактного производства к сборке AI-серверов, Хонхай — проекция этого пути
+- [Внешняя торговля Тайваня и глобальная цепь поставок](/ru/economy/taiwan-foreign-trade-and-global-supply-chain) — глобальное размещение в 24 странах, 900 тысяч человек — это крупнейший полигон для трансграничного управления тайваньской промышленностью
 
-[^2]: [Tsentral'noye informatsionnoye agentstvo 2026-05-01 Nachal'nik otdela i zamestitel' direktora Khunkhaya v Tuchene v dele o vzyatochnykh — oba pod zalog, zapret v'yezda za rubezh](https://www.cna.com.tw/news/asoc/202605010140.aspx) — doklad TsAI, soderzhit zayavlenie prokuratury «v period provedeniya global'nogo plana rasshireniya zavodov narushali sluzhebnye obyazannosti, poluchali vzyatochnye ot postavshchikov» i opisanie konkretnogo metoda «cherez zagranichnye scheta poluchali ot postavshchikov ponad 10 millionov nezakonnykh vzyatochnykh, i poddelivali zakupochnye dokumenty, pomogaya postavshchikam proyti priemku».
+---
 
-[^3]: [Ob"edinennaya informatsionnaya set' 2026-05-01 Video/ Khunkhay: 2 vysokie rukovoditeli poluchili vzyatochnye v desyatki millionov, nachal'nik otdela 2 milliona, zamestitel' direktora 1 million — pod zalog](https://udn.com/news/story/7321/9475893) — doklad yuridicheskoy frontovoy Ob"edinennoy informatsionnoy seti, summy zaloga, zapret v'yezda za rubezh i v more, primenyaemye prokuraturoy stat'i (osobo zlostnoe preimushchestvo po Zakonu o tsennykh bumagakh + UK lzhevye zaneseniya v delovye dokumenty + poddelka dokumentov).
+## Источники
 
-[^4]: [Svobodnaya finansy 2026-04-30 Zavod v Tuchene obyskali Sledstvennoe byuro Khunkhay ofitsial'no otvetil](https://ec.ltn.com.tw/article/breakingnews/5421502) — doklad Svobodnykh finansov ob otvete Khunkhaya cherez Stantsiyu nablyudeniya za publichnoy informatsiey, soderzhit polnyy tekst: «opredelenny rabotnik», «ne kasayetsya kompanii», «polnost'yu sodeystvuem».
+[^1]: [Свободная газета 2026-04-30 Начальник отдела подозревается в получении взяток Прокуратура и следственные органы произвели поиск на заводе Хонхая в Тучэне, доставили 3 человека](https://news.ltn.com.tw/news/society/breakingnews/5421541) — Центр общественных новостей свободной газеты от 30 апреля 2026 года: хронология поиска Новотайбэйской прокуратурой, направляемой Бюро расследований Тайбэя, завода Хонхая в Тучэне, количество подозреваемых и первоначальная юридическая классификация прокуратуры.
 
-[^5]: [Mirror Media 2026-05-01 Eksklyuziv/ Rasshirenie global'nykh zavodov: vysokie rukovoditeli poluchali vzyatochnye, "troika lovcov privideniy" Khunkhaya pervyy raz vskryta](https://www.mirrormedia.mg/story/20260501inv003) — eksklyuziv Mirror Media: pervoe razoblachenie «troiki lovcov privideniy» Khunkhaya, imya trekh chelovek (Li Shun'bao / Li Min'yin' / Lin' Min'hun), ikh gosudarstvennye antikorruptsionnye biografii i zapisi o tom, chto v den' obyska oni «vse vremya nablyudali».
+[^2]: [Центральное агентство новостей 2026-05-01 Начальник отдела и заместитель директора Хонхая в Тучэне в деле о взятках — оба под залог, запрет на выезд за границу](https://www.cna.com.tw/news/asoc/202605010140.aspx) — Центральное агентство новостей, содержит заявление прокуратуры «в период проведения глобального плана расширения заводов нарушали служебные обязанности, получали взятки от поставщиков» и описание конкретного метода «через зарубежные счета получали от поставщиков более 10 миллионов незаконных взяток и подделывали закупочные документы, помогая поставщикам пройти приемку».
 
-[^6]: [Zhurnal Menedzher Segodnya Zakupki vzyatochnye, nekotorye ponad 100 millionov! Kak prekrashchat'? SOP po preduprezhdeniyu narusheniy dlya rukovoditeley](https://www.managertoday.com.tw/columns/view/63927) — kolonna Zhurnala Menedzher Segodnya o mekhanizme preduprezhdeniya narusheniy Khunkhaya: soderzhit sozdanie v 2015 godu Upravleniya po preduprezhdeniyu narusheniy (SMI nazyvayut «Antikorruptsionnym byuro Khunkhaya»), nagradu 50 millionov za «poymaniye privideniy», sistemu sotrudnichestva s Sledstvennym byuro dlya bor'by s vnutrennimi narusheniyami, i Khunkhay kak primer dlya reformy upravleniya drugikh predpriyatiy.
+[^3]: [Объединенная информационная сеть 2026-05-01 Видео/ Хонхай: 2 высоких руководителя получили взятки в десятки миллионов, начальник отдела 2 миллиона, заместитель директора 1 миллион — под залог](https://udn.com/news/story/7321/9475893) — Отчет юридической линии фронта объединенной информационной сети, суммы залога, запрет на выезд за границу и в море, применяемые прокуратурой статьи (квалифицированное злоупотребление служебным положением по Закону о ценных бумагах + Уголовный кодекс лжесвидетельство в деловых документах + подделка документов).
 
-[^7]: [Svobodnaya gazeta 2021-05-24 Vnutrenniy prividenie poluchal vzyatochnye u postavshchikov 160 millionov byvshiy vitse-prezident Khunkhaya Lyao Vancheng prigovoren k 2 godam, prigovor vstupil v yuridicheskuyu silu](https://news.ltn.com.tw/news/society/breakingnews/3544038) — doklad Tsentra obshchestvennykh novostey Svobodnoy gazety o tom, chto Verkhovnyy sud 24 maya 2021 goda otvergn zhalobu v dele Lyao Vancheng, polnyy hronologiya: pervaya instanciya 10,5 goda → apellyatsiya 1 god 4 mesyatsa → novoye rassmotrenie v apellyatsii 2 goda, i raznitsa mezhdu obvineniem prokuratury 160 millionov a sudom ustanovlennymi 3,16 milliona.
+[^4]: [Свободная газета финансы 2026-04-30 Завод в Тучэне произвел поиск Бюро расследований Хонхай официально ответил](https://ec.ltn.com.tw/article/breakingnews/5421502) — Отчет свободной газеты финансы об ответе Хонхая через портал раскрытия информации, содержит полный текст: «определенный сотрудник», «не касается компании», «полностью сотрудничаем».
 
-[^8]: [TsAI 2021-01-19 Byvshiy starshina Khunkhaya Lyao Vancheng narushil dogovor Vysshiy sud: dolzhen vozmeshchat' ponad 20 millionov](https://www.cna.com.tw/news/firstnews/202101190087.aspx) — doklad TsAI o grazhdanskom iske Lyao Vancheng, Vysshiy sud vtoroy instancii prigovoril Lyao vypolatit' Khunkhay 773 744 dollara SSHA (priblizitel'no 21,8 milliona novykh tayvanskikh dollarov), ustanovil narushenie podpisannogo pri prieme «Soglasheniya o chestnosti, chistoprirodnosti i intellektual'noy sobstvennosti» punkta «ne dogovorivat'sya i ne trebovat' kakie-libo nepoluchennye vygody u kontrgentov».
+[^5]: [Mirror Media 2026-05-01 Эксклюзив/ Расширение глобальных заводов: высокие руководители получали взятки, «тройка ловцов привидений» Хонхая впервые разоблачена](https://www.mirrormedia.mg/story/20260501inv003) — Эксклюзив Mirror Media: первое разоблачение «тройки ловцов привидений» Хонхая, имена трех человек (Ли Шунь-бао / Ли Минь-инь / Линь Минь-хун), их государственные антикоррупционные биографии и записи о том, что в день поиска они «все время находились в курсе».
 
-[^9]: [Chuanmeiti 2026 Vyruchka Khunkhaya 2025 goda 8,1 trilliona — rekord taivanskikh aktsionernykh obshchestv](https://www.cmmedia.com.tw/home/articles/59971) — doklad Chuanmeiti: konsolidirovannaya vyruchka Khunkhaya 2025 goda 8,1031 trilliona novykh tayvanskikh dollarov (rost 18% v god), EPS 13,61 yuan dva raza rekord, dolya oblachno-setevykh produktov 40% vpervye prevysila potrebitelskie umnye ustroystva 38%, vyruchka ot AI-serverov vyrosla na 170% v god — podrobnye dannye.
+[^6]: [Журнал менеджера сегодня Закупки взятки, некоторые более 100 миллионов! Как остановить? SOP по предотвращению нарушений для менеджеров](https://www.managertoday.com.tw/columns/view/63927) — Колонка журнала менеджера сегодня о механизме предотвращения нарушений Хонхая: содержит создание в 2015 году Управления по предотвращению нарушений (СМИ называют «Антикоррупционным бюро Хонхая»), награду в 5 миллионов за «поимку привидений», систему сотрудничества с Бюро расследований в борьбе с внутренними нарушениями и Хонхай как пример для реформы управления других предприятий.
 
-[^10]: [TsAI 2026-05-01 Khunkhay vklyuchen v spisok 100 samykh vliyatelnnykh kompaniy Time: vazhnaya kompaniya v oblasti II](https://www.cna.com.tw/news/afe/202605010220.aspx) — doklad TsAI: zhurnal Time 30 aprelya opublikoval spisok 2026 goda, Khunkhay v kategorii «Innovatory», opisan kak «odna iz samykh vazhnykh kompaniy v oblasti iskusstvennogo intellekta», takzhe vklyuchen v pervyy spisok TIME100 liderov otrasley.
+[^7]: [Свободная газета 2021-05-24 Внутренний призрак получал взятки от поставщиков в 160 миллионов бывший вице-президент Хонхая Ляо Ваньчэн приговорен к 2 годам, приговор вступил в силу](https://news.ltn.com.tw/news/society/breakingnews/3544038) — Центр общественных новостей свободной газеты об определении Верховным судом 24 мая 2021 года дела Ляо Ваньчэна, полная хронология: первая инстанция 10,5 года → апелляция 1 год 4 месяца → повторная апелляция 2 года и разница между обвинением прокуратуры в 160 миллионов и установленным судом 3,16 миллиона.
 
-[^11]: [Ofitsial'nyy sayt gruppy Khunkhay O Khunkhaye](https://www.foxconn.com/zh-tw/about/group-profile) — ofitsial'naya spravka Khunkhay: 24 strany / 205 zavodov i ofisov / priblizitel'no 900 tysyach rabotnikov (sezonnyy pik), 28-e mesto v Fortune Global 500 i drugie bazovye dannye.
+[^8]: [ЦАН 2021-01-19 Бывший старейшина Хонхая Ляо Ваньчэн нарушил договор Высший суд: должен компенсировать более 20 миллионов](https://www.cna.com.tw/news/firstnews/202101190087.aspx) — Центральное агентство новостей об иске Ляо Ваньчэна, Высший суд второй инстанции приговорил Ляо выплатить Хонхаю 773 744 доллара США (примерно 21,8 миллиона новых тайваньских долларов), установил нарушение подписанного при приеме на работу «Соглашения о честности, чистоте и интеллектуальной собственности» пункта «не договариваться и не требовать какие-либо неправомерные выгоды от контрагентов».
 
-[^12]: [TsAI 2024-10-09 4 tayvanskie rukovoditeli Foksconn zaderzhany Soveta po delam materikovogo Kitaya: ne isklyucheno, chto menshinstvo politsii zloupotreblily vlast'yu](https://www.cna.com.tw/news/acn/202410090437.aspx) — doklad TsAI o dele zaderzhaniya 4 tayvanskih rukovoditeley zavoda Foksconn v Chzhentszou, podtverzhdenie Byuro po delam Tayvaniya 11 oktyabrya obvineniy po st. «vzyatochnichestvo negosudarstvennogo rabotnika» i «zloupotreblenie sredstvami», publichnyy otvet Soveta: «obstanovka dela dostatochno strankaya», «ne isklyucheno, chto menshinstvo politsii ispol'zuyut svoyu vlast' nepravomereno».
+[^9]: [Chuanmeiti 2026 Выручка Хонхая 2025 года 8,1 триллиона — рекорд тайваньских акционерных обществ](https://www.cmmedia.com.tw/home/articles/59971) — Отчет Chuanmeiti: консолидированная выручка Хонхая за 2025 год 8,1031 триллиона новых тайваньских долларов (рост на 18% в год), EPS 13,61 новых тайваньских доллара дважды установил новый рекорд, доля облачных и сетевых продуктов 40% впервые превысила потребительские смарт-устройства 38%, выручка от AI-серверов выросла на 170% в год — детальные данные.
 
-[^13]: [Vikipediya: Khunkhay Tszinmi](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86) — stat'ya Vikipedii o Khunkhay Tszinmi: 20 fevralya 1974 goda Go Taymin na 100 tysyach dollarov (polovina 200 tysyach, poluchennykh mat'yu Chzhu Yunzhen cherez vzaimnoe kreditovanie) vmeste s druzyami vlozhil 300 tysyach i osnoval Khunkhay Suliao, 1975 god zaimel u testya 700 tysyach i reorganizoval v Khunkhay Gongye — istoricheskie detali.
+[^10]: [ЦАН 2026-05-01 Хонхай включен в список 100 самых влиятельных компаний Time: важная компания в области искусственного интеллекта](https://www.cna.com.tw/news/afe/202605010220.aspx) — Отчет ЦАН: журнал Time 30 апреля опубликовал список 2026 года, Хонхай в категории «Новаторы», описан как «одна из самых важных компаний в области искусственного интеллекта», также включен в первый список TIME100 лидеров отраслей.
 
-[^14]: [Mirror Media 2025-01 Tikhaya reforma 6 trilliona imperii Khunkhay Lyu Yan'vey lichno raskryvaet klyuchi vzryva rezul'tatov 2025 goda](https://www.mirrormedia.mg/story/20250115fin002) — glubokiy doklad Mirror Media o transformatsii Khunkhaya ot 6,86 trilliona (2024) do 8,1 trilliona (2025), soderzhit moment peresecheniya oblachno-setevykh 40% i potrebitelskih umnykh 38%.
+[^11]: [Официальный веб-сайт группы Хонхай О Хонхае](https://www.foxconn.com/zh-tw/about/group-profile) — официальная информация Хонхая: 24 страны / 205 заводов и офисов / примерно 900 тысяч сотрудников (сезонный пик), 28-е место в Fortune Global 500 и другие базовые данные.
 
-[^15]: [TVBS 2026-05-01 Rabotnik primesen v narusheniya podvergся obysku! "Troika lovcov privideniy" Khunkhaya vse vremya nablyudala na meste](https://news.cts.com.tw/cts/money/202605/202605013026432.html) — doklad finansovogo centra TVBS: vnutrenniy audit Upravleniya po preduprezhdeniyu narusheniy vyyavil anomalii, posle chego Khunkhay aktivno soobshchil v Novotaybeyskuyu prokuraturu i Sledstvennoe byuro Taybeya — detali vnutrennego protsessa.
+[^12]: [ЦАН 2024-10-09 4 тайваньских руководителя Foxconn задержаны Совет по делам материковой части Китая: не исключено, что некоторые полицейские неправомерно использовали власть](https://www.cna.com.tw/news/acn/202410090437.aspx) — Отчет ЦАН о задержании 4 тайваньских руководителей завода Foxconn в Чжэнчжоу, подтверждение Бюро по делам Тайваня 11 октября обвинений по статье «Коррупция среди работников, не являющихся государственными служащими» и «Присвоение средств», публичный ответ Совета: «Ситуация в деле достаточно странная», «не исключено, что некоторые полицейские используют свою власть неправомерно».
+
+[^13]: [Википедия: Хонхай Цзинми](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86) — Статья Википедии о Хонхай Цзинми: 20 февраля 1974 года Го Тайминь на 100 тысяч долларов (половина 200 тысяч, собранных матерью Чу Юнчжэнь через взаимное кредитование) вместе с друзьями инвестировал 300 тысяч и основал Хонхай пластик, 1975 год одолжил у тестя 700 тысяч и реорганизовал в Хонхай промышленность — исторические детали.
+
+[^14]: [Mirror Media 2025-01 Тихая реформа империи в 6 триллионов Хонхая Лю Янвэй лично раскрывает ключи взрыва результатов 2025 года](https://www.mirrormedia.mg/story/20250115fin002) — Глубокий отчет Mirror Media о трансформации Хонхая от 6,86 триллиона (2024) к 8,1 триллиона (2025), содержит момент пересечения облачных и сетевых 40% и потребительских смарт-устройств 38%.
+
+[^15]: [TVBS 2026-05-01 Сотрудник причастен к нарушениям подвергся поиску! «Тройка ловцов привидений» Хонхая все время находилась на месте](https://news.cts.com.tw/cts/money/202605/202605013026432.html) — Отчет финансового центра TVBS: внутренний аудит Управления по предотвращению нарушений выявил аномалии, после чего Хонхай активно сообщил в Новотайбэйскую прокуратуру и Бюро расследований Тайбэя — детали внутреннего процесса.

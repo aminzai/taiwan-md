@@ -34,7 +34,7 @@ imageCredit: 'Camille McOuat (Flickr / Wikimedia Commons, CC BY 2.0)'
 # Audrey Tang : chacune de ses décisions célèbres a consisté à refuser l’étiquette de « génie »
 
 > **Aperçu en 30 secondes :**
-> 8 歲被同學踹昏休學、14 歲拒絕保送建中、24 歲跨性別出櫃但拒絕當代言人、35 歲入閣談的第一個條件是「沒辦公室」。2020 年凌晨她跟江明宗在 g0v Slack 改 code 做口罩地圖；2025 年 12 月 2 日她在斯德哥爾摩接受 Right Livelihood Award，全場期待她的個人故事，她台上強調的卻是「我們」兩個字。世界把她當天才；她每一次有名的決定，都是在拒絕這個位置。
+> À 8 ans, assommée d'un coup de pied par un camarade, elle quitte l'école ; à 14 ans, elle refuse son admission directe au lycée Jianguo (建中) ; à 24 ans, elle fait son coming out en tant que femme trans mais refuse d'en devenir la porte-parole ; à 35 ans, sa première condition pour entrer au gouvernement est « pas de bureau ». En 2020, au petit matin, elle modifie du code avec Finjon Kiang sur le Slack de g0v pour fabriquer la carte des masques ; le 2 décembre 2025, à Stockholm, elle reçoit le Right Livelihood Award — toute la salle attend son histoire personnelle, et sur scène elle insiste sur un seul mot : « nous ». Le monde la prend pour un génie ; chacune de ses décisions célèbres est un refus de cette place.
 
 ## Une carte des masques qui a consumé vingt mille dollars
 
@@ -48,7 +48,7 @@ Le 6 février à 8 heures du matin, au moment même où les open data de l’Ass
 
 Chiang Ming-tsung a ensuite laissé ce passage dans la transcription d’une de ses conférences :
 
-> ✦ 「政委對資訊架構非常嫻熟，我們提任何需求他都懂。最重要的是，唐鳳有決定權，還能自己改 code，所以我們都不用北上向哪個長官報告。」[^4]
+> ✦ « La ministre maîtrise parfaitement l’architecture de l’information ; elle comprend chaque besoin que nous lui soumettons. Le plus important, c’est qu’Audrey Tang a le pouvoir de décision et peut modifier le code elle-même : nous n’avons donc à monter à Taipei rendre compte à aucun supérieur. »[^4]
 
 La protagoniste de cette histoire n’est pas Audrey Tang seule. Ce sont Chiang Ming-tsung, Wu Zhan-wei, les quelques fonctionnaires de l’équipe informatique de l’Assurance maladie nationale, les centaines d’ingénieurs de la communauté g0v, et toute l’équipe du bureau d’Audrey Tang qui, cette nuit-là, se relaient pour modifier du code.
 
@@ -66,7 +66,7 @@ Mais l’étiquette d’« enfant prodige », probablement l’expression accol�
 
 En six années d’école primaire, elle passe par trois jardins d’enfants et six écoles primaires. Un jour de CE1, l’enseignant distribue les copies puis quitte la classe ; Audrey Tang a fini très tôt. Quelques camarades incapables de répondre tentent de lui arracher sa copie. Elle s’enfuit avec la feuille, tombe, puis l’un des élèves la frappe d’un coup de pied de toutes ses forces ; elle heurte le mur et perd connaissance[^6]. Plus tard, ce camarade dira une phrase que Business Today a conservée verbatim :
 
-> ✦ 「你為什麼不死掉？如果你死了，我就是最好的了。」[^6]
+> ✦ « Pourquoi tu ne meurs pas ? Si tu mourais, ce serait moi le meilleur. »[^6]
 
 Elle rentre chez elle sans rien dire. Un jour, sa mère voit les bleus sur son ventre au moment du bain et décide immédiatement de la retirer de l’école[^6].
 
@@ -86,19 +86,19 @@ Fin 2005, sur son propre blog, blog.elixus.org, elle annonce publiquement être 
 
 Dans ce billet de blog, elle écrit :
 
-> ✦ 「不管現在、過去或未來，我很樂意大家用女性的名詞來稱呼我。」[^14]
+> ✦ « Au présent, au passé comme au futur, je suis tout à fait heureuse qu’on me désigne au féminin. »[^14]
 
 La réponse de son père, Tang Kuang-hua, lors d’un entretien, sera plus tard reprise verbatim par plusieurs médias :
 
-> ✦ 「如果她覺得性別的轉變可以讓她更快樂、更能發揮創造力，又不會傷害任何人，沒有理由不接受。」[^15]
+> ✦ « Si elle estime que cette transition de genre la rend plus heureuse et plus créative, et qu’elle ne fait de mal à personne, il n’y a aucune raison de ne pas l’accepter. »[^15]
 
 Elle refuse la position de « porte-parole transgenre ». En 2020, dans la case « genre » du formulaire de données personnelles du gouvernement, elle inscrit « aucun ». À l’époque, elle explique aux journalistes[^16] :
 
-> ✦ 「我是『後類別』。在性別爭論中我不選邊站。並不是說我認為這個議題不重要，而是我認為爭論不能解決任何問題。」[^16]
+> ✦ « Je suis “post-catégorie”. Dans les débats sur le genre, je ne prends pas parti. Non que je juge la question sans importance, mais parce que la polémique, selon moi, ne résout rien. »[^16]
 
 Dans son entretien avec Marie Claire, elle laisse une autre phrase souvent citée :
 
-> ✦ 「如果你能跟迷惘相處，慢慢就可以看見，既不是你的問題也不是社會的問題，而是中間的缺口。萬事萬物都有缺口，缺口就是光的入口。」[^17]
+> ✦ « Si tu arrives à cohabiter avec ton égarement, tu finis par voir que le problème n’est ni le tien ni celui de la société, mais la faille entre les deux. Il y a une fissure en toute chose ; c’est par là qu’entre la lumière. »[^17]
 
 De 2010 à 2016, elle est également consultante pour Apple et participe au développement de Siri ; son taux horaire aurait été équivalent à 1 bitcoin[^18]. À 33 ans, en 2014, elle transmet ses missions chez Socialtext et Apple, puis annonce sa « retraite »[^11].
 
@@ -112,7 +112,7 @@ Dans la nuit du 18 mars 2014, des étudiants occupent l’hémicycle du Yuan lé
 
 Mais elle ne reste qu’une heure dans l’hémicycle avant de repartir. Plus tard, dans un entretien avec PNN, elle dira :
 
-> ✦ 「議場內部 5 個不同角度攝影機錄影和直接播出的情況下，所有活動已經成為純粹的展示演出和儀式。」[^20]
+> ✦ « Avec cinq caméras filmant l’hémicycle sous cinq angles différents et retransmettant en direct, toute l’activité est devenue pure représentation et pur rituel. »[^20]
 
 L’occupation et les prises de position ne « l’intéressent pas ». Ce qui l’intéresse, ce sont les outils techniques. Dans le même temps, elle paie de sa poche des personnes pour transcrire les réunions gouvernementales, afin que celles et ceux qui ne sont pas sur place puissent aussi lire l’intégralité des échanges[^20].
 
@@ -130,7 +130,7 @@ Les trois conditions qu’elle négocie à l’avance deviendront la première b
 
 Lin Chuan explique alors aux journalistes :
 
-> ✦ 「行政院目前並沒有遠距上班的規範，但她過去長期的工作模式都是遠距，我認為在工作不受影響之下，透過電腦遠距離傳遞想法或是政策指示，我認為這是可行的。」[^24]
+> ✦ « L’Executive Yuan n’a pour l’instant aucune règle sur le télétravail, mais elle travaille à distance depuis longtemps ; j’estime que, tant que le travail n’en pâtit pas, transmettre idées et instructions politiques à distance par ordinateur est parfaitement faisable. »[^24]
 
 Elle devient trois choses à la fois : la plus jeune ministre sans portefeuille de l’histoire de Taïwan, la première personnalité politique de rang ministériel au monde ouvertement transgenre, et la première « ministre numérique » de Taïwan[^25].
 
@@ -151,15 +151,15 @@ Audrey Tang se définit comme une « anarchiste conservatrice ». À première v
 
 Dans son entretien avec Rest of World, elle laisse une phrase qui tient presque du manifeste :
 
-> ✦ 「Any top-down, coercion, whether it's from the capitalists or from the state, is equally bad.」（任何由上而下的強制，不管來自資本家還是國家，一樣糟糕。）[^28]
+> ✦ 「Any top-down, coercion, whether it's from the capitalists or from the state, is equally bad.」(Toute contrainte imposée d’en haut, qu’elle vienne des capitalistes ou de l’État, est également néfaste.)[^28]
 
 Dans son entretien avec l’économiste Tyler Cowen, lorsqu’on lui demande quel est son rôle, elle répond :
 
-> ✦ 「I'm working _with_ the government; I'm not working _for_ the government.」（我是跟政府一起工作；我不是替政府工作。）[^29]
+> ✦ 「I'm working _with_ the government; I'm not working _for_ the government.」(Je travaille avec le gouvernement ; je ne travaille pas pour le gouvernement.)[^29]
 
 Lors de la séance de questions-réponses de l’ICFP, conférence internationale d’informatique, en 2020, elle lance aussi cette phrase :
 
-> ✦ 「In Taiwan we have this strange idea that broadband internet access is a human right. Everyone has broadband. And if you don't, it's my fault, personally.」（在台灣我們有個奇怪的想法：寬頻網路是基本人權。每個人都應該有寬頻。如果你沒有，那是我個人的責任。）[^30]
+> ✦ 「In Taiwan we have this strange idea that broadband internet access is a human right. Everyone has broadband. And if you don't, it's my fault, personally.」(À Taïwan, nous avons cette idée étrange : le haut débit est un droit humain fondamental. Tout le monde devrait y avoir accès. Si ce n’est pas votre cas, c’est ma responsabilité personnelle.)[^30]
 
 Elle emploie fortement le mot « droit humain », mais très légèrement l’expression « responsabilité personnelle ». L’attitude gouvernementale qu’elle veut incarner se résume ainsi : « si quelque chose manque quelque part, j’irai le combler ».
 
@@ -175,7 +175,7 @@ Mais elle reçoit aussi beaucoup de critiques frontales. Ko Wen-je, du Parti pop
 
 Même les PO (Participation Officers, ou agents de participation publique) nommés par PDIS dans les ministères sont perplexes. The Reporter cite verbatim l’un de ces PO :
 
-> ✦ 「做 PO 已 2 個月了，我覺得多一項工作，目前還搞不清楚到底我們可以介入多少、可以得到多少的授權...我不知道未來這一些平台，以後我們的角色是什麼？」[^38]
+> ✦ « Cela fait deux mois que je suis PO ; j’ai le sentiment d’avoir une tâche de plus, et je ne sais toujours pas jusqu’où nous pouvons intervenir ni quelle délégation nous obtenons… J’ignore quel sera notre rôle sur ces plateformes à l’avenir. »[^38]
 
 Elle ne peut pas répondre à cette question. Ou plutôt, sa réponse est : décidez vous-même.
 
@@ -195,21 +195,21 @@ Le dossier vTaiwan sur la réglementation d’Uber est l’exemple qu’elle mob
 
 Le 7 octobre, le ministère des Affaires étrangères la nomme ambassadrice sans portefeuille de la République de Chine, Cyber Ambassador-at-Large[^41]. Sur sa page personnelle audreyt.org et sur cyberambassador.tw, la phrase d’ouverture demeure :
 
-> ✦ 「I want to be a good enough ancestor for future generations.」（我想要成為一個對得起未來世代的祖先。）[^42]
+> ✦ 「I want to be a good enough ancestor for future generations.」(Je veux être une ancêtre digne des générations futures.)[^42]
 
 Le 2 décembre 2025, à Stockholm, dans la salle de cérémonie de la Right Livelihood Foundation. Le Right Livelihood Award, surnommé « l’autre prix Nobel » (Alternative Nobel Prize), a été fondé en 1980 par le philanthrope suédo-allemand Jakob von Uexküll afin de combler les domaines que le Nobel ne couvrait pas.
 
 Audrey Tang est la première personne taïwanaise à recevoir ce prix[^43]. La citation officielle dit :
 
-> ✦ 「For advancing the social use of digital technology to empower citizens, renew democracy and heal divides.」（表彰其推進數位科技的社會應用，賦權公民、更新民主、彌合分歧。）[^43]
+> ✦ 「For advancing the social use of digital technology to empower citizens, renew democracy and heal divides.」(Pour avoir fait progresser l’usage social des technologies numériques : donner du pouvoir aux citoyens, renouveler la démocratie et réduire les fractures.)[^43]
 
 Dans son discours d’acceptation, sa première phrase ne porte pas sur ce qu’elle a accompli. Elle dit ce qu’est le cyberspace, l’espace numérique :
 
-> ✦ 「Cyberspace is a conflict region, and my work turns that conflict into an energy source for co-creation. It is time we work on peace in this zone.」（網路空間是衝突區域，而我的工作是把那種衝突轉成共同創造的能量來源。是時候我們在這片區域上做和平的工作了。）[^43]
+> ✦ 「Cyberspace is a conflict region, and my work turns that conflict into an energy source for co-creation. It is time we work on peace in this zone.」(Le cyberespace est une zone de conflit, et mon travail consiste à convertir ce conflit en énergie de co-création. Il est temps que nous fassions œuvre de paix dans cette zone.)[^43]
 
 Puis elle reprend la phrase inscrite en couverture de _Plurality_ :
 
-> ✦ 「The superintelligence we are looking for is already here. It's us.」（我們在尋找的那種超智能已經到了。就是我們。）[^44]
+> ✦ 「The superintelligence we are looking for is already here. It's us.」(La superintelligence que nous cherchions est déjà là. C’est nous.)[^44]
 
 Elle reçoit une récompense surnommée « l’autre prix Nobel », puis, sur la scène de la remise de prix, déplace le centre de gravité vers « nous ». Celle que le monde entier considère comme le génie de Taïwan refuse, une fois encore, la position du « génie ».
 
@@ -246,7 +246,7 @@ Cet article utilise 3 images, toutes mises en cache dans `public/article-images/
 
 [^3]: [Site du ministère de la Santé et du Bien-être sur les décisions clés de lutte contre la Covid-19](https://covid19.mohw.gov.tw/ch/cp-4822-53563-205.html) — récit officiel du gouvernement, verbatim : « la ministre sans portefeuille Audrey Tang a invité des communautés civiles à produire, à partir des open data de l’Assurance maladie, une plateforme d’application de “recherche de masques de prévention épidémique” »
 
-[^4]: [[TechNews : construire seul la carte des masques (idem [^1])](](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/)) — voir les compléments dans le texte du lien original
+[^4]: [TechNews : construire seul la carte des masques (idem [^1])](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — voir les compléments dans le texte du lien original
 
 [^5]: [Article Wikipédia en chinois « Audrey Tang »](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) — données biographiques de base : naissance, contexte familial, apprentissage autodidacte du BASIC dans l’enfance avec clavier dessiné sur papier
 
@@ -316,7 +316,7 @@ Cet article utilise 3 images, toutes mises en cache dans `public/article-images/
 
 [^38]: [The Reporter : gouvernement ouvert, comment Audrey Tang franchit-elle l’obstacle de la fonction publique ?](https://www.twreporter.org/a/open-government-audrey-political-commissar-challenges) — PO verbatim : « cela fait 2 mois que je suis PO... je ne comprends pas encore jusqu’où nous pouvons intervenir »
 
-[^39]: [[Liberty Times Finance : du génie ministre IT à conférencière indépendante (idem [^34])](](https://ec.ltn.com.tw/article/breakingnews/4677986)) — reportage du Liberty Times
+[^39]: [Liberty Times Finance : du génie ministre IT à conférencière indépendante (idem [^34])](https://ec.ltn.com.tw/article/breakingnews/4677986) — reportage du Liberty Times
 
 [^40]: [Plurality Institute: Book Launch of Plurality](https://www.plurality.institute/blog-posts/book-launch-plurality-the-future-of-collaborative-technology-and-democracy-by-e-glen-weyl-audrey-tang-and-the-plurality-community) — coécrit avec Glen Weyl et la Plurality Community, publié le 16 avril 2024, diffusé sous CC0
 

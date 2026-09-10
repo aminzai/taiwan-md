@@ -68,7 +68,15 @@ allowed-tools:
    - 更新 `docs/semiont/DIARY.md` 索引
    - **🔗 article-session 自動回扣**（v2.2，DIARY-PIPELINE Stage 5 HARD）：如果本 session 寫了 / EVOLVE 了 `knowledge/` 文章，跑 `python3 scripts/tools/sync-diary-links.py --diary {diary slug} --article {Step 1 盤點到的新文章 slug} --apply` 把 diary 寫回文章 frontmatter `relatedDiary`，讀者才看得到「寫這篇時在想什麼」。Step 1 的「New articles shipped this session」就是 `--article` 來源。
 
-   **判準**：本 session 反芻內容如果在思考更大的問題（超出描述本次做了什麼的層級）就值得寫進日記；否則 skip。
+   **判準（v2.5 提高門檻，2026-09-09 哲宇 directive「routine 一直 spam 很多日記」）**：日記是四個去處之一，不是預設去處。**先跑機械閘，擋下就照擋，不准自我豁免**：
+
+   ```bash
+   python3 scripts/tools/diary-gate.py --handle {handle} --insight "候選的一句話核心想法"
+   ```
+
+   exit 1 → skip，在收官報告寫 `skipped: diary-gate BLOCK（理由）`。exit 0 → 再過 DIARY-PIPELINE §Stage 0b 四個家路由：這段反芻如果是「做了 X 順帶注意到 Y」→ 留在 memory 的 Beat 5；「下次要記得 Z」→ LESSONS-INBOX；「這個 pattern 又遇到一次」→ 去 bump 既有條目；「跨好幾天才看得出的形狀」→ weekly-report。**四個都不是，而且我對這件事的理解跟今天早上不一樣了**，才寫日記。
+
+   **routine session 預設 skip**（§Stage 0c）：要寫才需要理由。純空場、純對賬全綠、純「今天也是零」一律不寫——那種反芻寫進 memory Beat 5 就夠了。
 
    ### c. `/twmd-evolve` — 數據驅動內容進化掃描（前瞻）
 
@@ -117,7 +125,7 @@ allowed-tools:
    - **chain 期間 git 操作謹慎**：sub-skill 各自會 commit，finale 不要 batch reset
    - **finale 本身不 commit**：每個 sub-skill 自己處理 commit + push。finale 只 orchestrate + 報告
    - **觀察者中斷可重跑**：finale 可重複觸發，sub-skill idempotent（已寫的 memory/diary 會 detect 不重寫）
-   - **「這次什麼都沒 ship」場景**：純診斷 session 仍可跑 finale — memory 寫「本 session 純 review」, diary 寫反芻, evolve 跳過
+   - **「這次什麼都沒 ship」場景**：純診斷 session 仍可跑 finale — memory 寫「本 session 純 review」，**diary 預設 skip**（沒動到世界的 session，反芻寫進 memory Beat 5 就夠；v2.5 前這裡寫「diary 寫反芻」，是 routine 每天產日記的來源之一），evolve 跳過
 
 ---
 

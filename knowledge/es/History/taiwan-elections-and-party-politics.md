@@ -181,7 +181,7 @@ El éxito o fracaso de la cooperación azul-blanca repercutirá en el panorama p
 
 ### Evolución de las facciones del DPP
 
-El DPP no fue un bloque monolítico desde su primer día. Las 132 personas que fundaron el partido en el Hotel Grand en 1986 provenían de distintas fuentes: la Asociación de Editores y Escritores de la Oposición, los Consejos Ciudadanos de la Oposición, políticos locales, entre otros. Las dos facciones principales en los orígenes fueron la **Corriente de la Nueva Ola** (cuyo predecesor fue la Asociación de Editores y Escritores de la Oposición fundada en 1983, formalmente constituida en 1987 por Qiu Yiren, Wu Nairen y Lin Zhuoshui) y la **Corriente de Formosa** (derivada de la "Línea de Formosa" dentro de los Consejos Ciudadanos de la Oposición, centrada en las víctimas del Incidente de Formosa y sus abogados defensores).[^27]
+El DPP no fue un bloque monolítico desde su primer día. Las 132 personas que fundaron el partido en el Hotel Grand en 1986 provenían de distintas fuentes: la Asociación de Editores y Escritores de la Oposición, los Consejos Ciudadanos de la Oposición, políticos locales, entre otros. Las dos facciones principales en los orígenes fueron la **Corriente de la Nueva Ola** (cuyo predecesor fue la Asociación de Editores y Escritores de la Oposición fundada en 1983, formalmente constituida en 1987 por Chiou I-jen, Wu Nai-jen y Lin Cho-shui) y la **Corriente de Formosa** (derivada de la "Línea de Formosa" dentro de los Consejos Ciudadanos de la Oposición, centrada en las víctimas del Incidente de Formosa y sus abogados defensores).[^27]
 
 A mediados de la década de 1990, una nueva generación trajo nuevas divisiones factionales. Chen Shuibian, Xie Changting y Su Changchang —un grupo intermedio que no pertenecía a la Nueva Ola ni se clasificaba plenamente como Formosa— fueron gradualmente formando dos nuevas líneas: el 28 de septiembre de 1992, Zhang Junxiong, Yao Jiaywen, Xie Changting, Shi Mingde y otros fundaron la "Conexión del Estado de Bienestar" ( posteriormente conocida como Estado de Bienestar), que abogaba por políticas de bienestar social y una línea pragmática hacia China; a finales de la década de 1990, tomó forma la "Conexión de la Justicia", centrada en Chen Shuibian, con una línea orientada a la identidad taiwanesa y el arraigo local.[^28]
 
@@ -223,9 +223,9 @@ Cabe señalar que el sistema de dos votos en distrito único implementado en 200
 - [Resolución sobre el futuro de Taiwán](/es/history/resolution-on-taiwans-future) — La transición de línea del DPP desde la independencia hasta la resolución de futuro, y cómo reconfiguró el panorama electoral taiwanés
 - [Gran movimiento de destitución](/es/history/great-recall-movement-2024) — El contexto completo del mayor movimiento de destitución ciudadana en la historia, 2025
 - [Elecciones unificadas de 2026](/society/2026九合一選舉) — Despliegue de la batalla electoral en 22 condados y ciudades y prueba del sistema
-- [Qué son las elecciones unificadas](/society/九合一選舉是什麼) — Explicación del sistema de elecciones locales unificadas
-- [Sistema de juntas de barrio](/society/村里長制度) — El cargo de elección popular más básico en Taiwán
-- [Sistema de concejales](/society/議員制度) — Evolución del sistema de concejales de condado, ciudad y municipio especial
+- Qué son las elecciones unificadas — Explicación del sistema de elecciones locales unificadas
+- Sistema de juntas de barrio — El cargo de elección popular más básico en Taiwán
+- Sistema de concejales — Evolución del sistema de concejales de condado, ciudad y municipio especial
 - [Centro de Política](/politics) — Portal de entrada al panorama político general de Taiwán
 
 ## Referencias
@@ -282,7 +282,7 @@ Cabe señalar que el sistema de dos votos en distrito único implementado en 200
 
 [^26]: [Azul y blanco concretan acuerdo de cooperación electoral 2026; Huang Guochang: Nuevo Taipéi, Chiayi e Yilan formarán el equipo ciudadano más fuerte — United Daily News](https://udn.com/news/story/124652/9388050) — Plan de integración para las tres jurisdicciones prioritarias
 
-[^27]: [Corriente de la Nueva Ola — Wikipedia](https://zh.wikipedia.org/zh-tw/新潮流系) — Predecesor: Asociación de Editores y Escritores de la Oposición (1983); formalmente constituida en 1987 por Qiu Yiren, Wu Nairen y Lin Zhuoshui
+[^27]: [Corriente de la Nueva Ola — Wikipedia](https://zh.wikipedia.org/zh-tw/新潮流系) — Predecesor: Asociación de Editores y Escritores de la Oposición (1983); formalmente constituida en 1987 por Chiou I-jen, Wu Nai-jen y Lin Cho-shui
 
 [^28]: [Conexión del Estado de Bienestar — Wikipedia](https://zh.wikipedia.org/zh-tw/福利國連線) — Fundada el 28 de septiembre de 1992 por Zhang Junxiong, Yao Jiaywen, Xie Changting, Shi Mingde y otros
 

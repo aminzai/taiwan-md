@@ -3,7 +3,17 @@ title: 'Dân ca và nhạc phổ thông Đài Loan: Từ bị đánh cắp đế
 description: 'Năm 1996, giọng hát cổ xưa của một người lão Amis ở Đài Loan vang lên trong lễ khai mạc Thế vận hội Atlat, nhưng Quách Anh Nam mới biết được về điều này qua vụ kiện năm 1998. Câu chuyện cả nước nghe thấy tiếng hát anh mà anh không biết phản ánh số phận của dân ca Đài Loan—từ bị lặng tiếng đến tự định nghĩa lại tiếng nói của mình'
 date: 2026-03-23
 category: 'Music'
-tags: ['âm nhạc', 'dân ca', 'nhạc phổ thông', 'bản địa', 'tiếng Đài', 'Quách Anh Nam', 'Thuần Thuần', 'Bố Nông']
+tags:
+  [
+    'âm nhạc',
+    'dân ca',
+    'nhạc phổ thông',
+    'bản địa',
+    'tiếng Đài',
+    'Quách Anh Nam',
+    'Thuần Thuần',
+    'Bố Nông',
+  ]
 subcategory: 'Âm nhạc truyền thống'
 author: 'Taiwan.md'
 featured: false
@@ -38,14 +48,14 @@ Tháng 3 năm 1998, với sự hỗ trợ của Trương Bồi Nhân, tổng gi�
 
 ## Bộ tộc Bố Nông: Kỳ tích của giọng hát—viết lại học thuyết về nguồn gốc âm nhạc
 
-Sớm hơn Quách Anh Nam, người được chú ý bởi giới nhạc học quốc tế là bộ tộc Bố Nông với bài "Bài ca cầu lúa mì bội thu" (*Pasibutbut*). Vào ngày 25 tháng 3 năm 1943, học giả Nhật Bản Kurosawa Takao (Hắc Trạch Long Triều) ghi âm được bài hát này ở làng Khằn Đỉnh, huyện Hải Đoan, tỉnh Đài Đông, và ông rất bị sốc. Năm 1952, ông gửi bản ghi âm đến Tổ chức Giáo dục, Khoa học và Văn hoá Liên Hợp Quốc (UNESCO), và các học giả âm nhạc hàng đầu của phương Tây khi nghe xong đều bị shock—làm sao một bộ tộc cổ xưa lại có hòa thanh phức tạp đến thế?
+Sớm hơn Quách Anh Nam, người được chú ý bởi giới nhạc học quốc tế là bộ tộc Bố Nông với bài "Bài ca cầu lúa mì bội thu" (_Pasibutbut_). Vào ngày 25 tháng 3 năm 1943, học giả Nhật Bản Kurosawa Takao (Hắc Trạch Long Triều) ghi âm được bài hát này ở làng Khằn Đỉnh, huyện Hải Đoan, tỉnh Đài Đông, và ông rất bị sốc. Năm 1952, ông gửi bản ghi âm đến Tổ chức Giáo dục, Khoa học và Văn hoá Liên Hợp Quốc (UNESCO), và các học giả âm nhạc hàng đầu của phương Tây khi nghe xong đều bị shock—làm sao một bộ tộc cổ xưa lại có hòa thanh phức tạp đến thế?
 
-Bài hát này được gọi thông tục là "hòa thanh tám phần", nhưng thực ra là một bài hát bốn phần, vì lý do xuất hiện các âm bội tự nhiên nên nghe có vẻ như là tám phần. Vào những năm 1990, nhạc học gia Ngô Vinh Thuận đã dùng thiết bị phân tích sóng âm tại Pháp để phân tích 25 bản ghi âm *pasibutbut*, chứng minh rằng các phần hòa thanh của bản nhạc sẽ thay đổi linh hoạt theo hiện tượng âm bội, đây là "hòa thanh âm bội tự nhiên" thực sự.
+Bài hát này được gọi thông tục là "hòa thanh tám phần", nhưng thực ra là một bài hát bốn phần, vì lý do xuất hiện các âm bội tự nhiên nên nghe có vẻ như là tám phần. Vào những năm 1990, nhạc học gia Ngô Vinh Thuận đã dùng thiết bị phân tích sóng âm tại Pháp để phân tích 25 bản ghi âm _pasibutbut_, chứng minh rằng các phần hòa thanh của bản nhạc sẽ thay đổi linh hoạt theo hiện tượng âm bội, đây là "hòa thanh âm bội tự nhiên" thực sự.
 
 > **⚠️ Quan điểm gây tranh cãi**
-> Tên gọi "hòa thanh tám phần" thực ra là một khái niệm được tạo ra vào những năm 1990 để dễ hiểu hơn cho người phương Tây. Chính người Bố Nông gọi nó là *pasibutbut*, có nghĩa là "kéo co với nhau", nhấn mạnh sự tương tác giữa các giọng người, chứ không phải là số lượng phần hòa thanh.
+> Tên gọi "hòa thanh tám phần" thực ra là một khái niệm được tạo ra vào những năm 1990 để dễ hiểu hơn cho người phương Tây. Chính người Bố Nông gọi nó là _pasibutbut_, có nghĩa là "kéo co với nhau", nhấn mạnh sự tương tác giữa các giọng người, chứ không phải là số lượng phần hòa thanh.
 
-Điều quan trọng hơn là, điều này đã phủ nhận một giả định cơ bản của nhạc học phương Tây: âm nhạc phát triển từ âm đơn đến âm kép rồi đến hòa âm. Bài *pasibutbut* của Bố Nông chứng minh rằng hòa âm đa phần phức tạp có thể là một trong những dạng âm nhạc nguyên thủy nhất của con người.
+Điều quan trọng hơn là, điều này đã phủ nhận một giả định cơ bản của nhạc học phương Tây: âm nhạc phát triển từ âm đơn đến âm kép rồi đến hòa âm. Bài _pasibutbut_ của Bố Nông chứng minh rằng hòa âm đa phần phức tạp có thể là một trong những dạng âm nhạc nguyên thủy nhất của con người.
 
 Năm 2019, bậc thầy nhạc sĩ Nhật Bản Sakamotos Ryūichi đến thăm huyện Trác Khê ở Hoa Liên nói rằng bài "Bài ca cầu lúa mì bội thu" của Bố Nông là giọng hát yêu thích nhất mà ông từng nghe ở Đài Loan. Đối với một nhạc sĩ có tâm huyết khám phá ranh giới của tiếng hát, câu nói này có trọng lượng không nhẹ.
 
@@ -66,11 +76,11 @@ Thời đại "vàng của nhạc phổ thông Đài Loan" này có một bối 
 
 Nhạc phổ thông Đài Loan đã trải qua hai lần tuyệt diệt văn hoá trong vòng 100 năm, mỗi lần bị lặng tiếng vì lý do khác nhau:
 
-| Phong trào thân Nhật (1937-1945)    | Chính sách ngôn ngữ quốc gia (1945-1987) |
-| ----------------------------------- | ---------------------------------------- |
-| "Mong Mơ Xuân Sương" → "Đất Hứa Gọi" | Ca sĩ Đài Loan bị buộc hát những bài hát quốc ngữ |
-| "Hoa Mưa Đêm" → "Vinh Dự Lính Quân Sự" | Thiết lập "Hệ thống kiểm duyệt nhạc Đài Loan" |
-| "Buồn Đêm Trăng" → "Vợ Lính Quân Sự" | Đài phát thanh cấm phát sóng nhạc phổ thông Đài Loan |
+| Phong trào thân Nhật (1937-1945)       | Chính sách ngôn ngữ quốc gia (1945-1987)             |
+| -------------------------------------- | ---------------------------------------------------- |
+| "Mong Mơ Xuân Sương" → "Đất Hứa Gọi"   | Ca sĩ Đài Loan bị buộc hát những bài hát quốc ngữ    |
+| "Hoa Mưa Đêm" → "Vinh Dự Lính Quân Sự" | Thiết lập "Hệ thống kiểm duyệt nhạc Đài Loan"        |
+| "Buồn Đêm Trăng" → "Vợ Lính Quân Sự"   | Đài phát thanh cấm phát sóng nhạc phổ thông Đài Loan |
 
 Sau khi Chiến tranh Trung-Nhật nổ ra vào năm 1937, nhạc phổ thông Đài Loan lần đầu tiên đối mặt với nguy hiểm tuyệt diệt. Chính phủ Nhật Bản tiến hành phong trào thân Nhật, các bài hát phổ thông Đài Loan được yêu thích nhất bị cưỡng chế sắp đặt lại thành nhạc quân đội tiếng Nhật, lời bài hát từ tình yêu lãng mạn trở thành tuyên truyền chiến tranh. Năm 1944, "cha đẻ của nhạc phổ thông Đài Loan" Đặng Vũ Hiền qua đời ở làng Khung Lâm, huyện Tân Trúc, chỉ ở tuổi 37, đã đổi thành tên Nhật là "Đông Điền Hiểu Vũ".
 

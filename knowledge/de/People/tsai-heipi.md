@@ -45,9 +45,9 @@ Am 28. Mai 2002 wurde Tsai Chian-an geboren[^1]. Seine Kindheit war wie die viel
 
 Diese Neugier entwickelte sich zu einer fast supersensiblen Fähigkeit: Er konnte sich jeden Bahnhofsnamen auswendig lernen[^3]. Wenn Sie einmal mit einem Eisenbahnfan gereist sind, wissen Sie, wie selten dies unter taiwanesischen Kindern ist. Die meisten Leute merken sich Spielcode; er merkte sich jeden Bahnhof der Wenhu-Linie von Nangang Exhibition Center bis Zoo.
 
-![Ein Zug auf dem Đài水 Line der Taipei U-Bahn hält an einem Bahnsteig, der nach Beitou fährt, und die Passagiere im Waggon werden durch die Glasfront des Bahnsteigs gespiegelt](/article-images/people/mrt-tamsui-line-train-2017.webp)
+![Ein Zug auf der Tamsui-Linie der Taipei U-Bahn hält an einem Bahnsteig, der nach Beitou fährt, und die Passagiere im Waggon werden durch die Glasfront des Bahnsteigs gespiegelt](/article-images/people/mrt-tamsui-line-train-2017.webp)
 
-_Taipei U-Bahn Đài水 Linie. Die Schaffenskarriere von Tsai Chian-an begann an solch einem Bahnsteig. Foto: eugene_o, 2017-10-23, CC BY 2.0_
+_Taipei U-Bahn, Tamsui-Linie. Die Schaffenskarriere von Tsai Chian-an begann an solch einem Bahnsteig. Foto: eugene_o, 2017-10-23, CC BY 2.0_
 
 Seine Karriere begann nicht mit dem Verkehr. Im Jahr 2013 startete er mit elf Jahren seinen YouTube-Kanal. Zunächst war er ein Minecraft-Weltkünstler und schuf kleine Spiele wie „Flucht aus der Mittelschule in Taiwan“ oder „Flucht aus dem Einkaufszentrum“. Er erreichte Zehntausende und Hunderttausende von Aufrufen in der Spieler-Community[^1]. Gleichzeitig produzierte er Wissens-, Gaming- und Unterhaltungsvideos. Im Jahr 2016 hatte der Kanal insgesamt nur 10.000 Aufrufe; im Jahr 2018 waren es 2.500 Abonnenten und 250.000 Gesamtansichten[^1]. Diese Zahlen sind im heutigen Kontext des Self-Media bedeutungslos.
 
@@ -127,7 +127,7 @@ Diese Brücke rief er zum richtigen Zeitpunkt. Die Tamsui-Jiang Bridge wurde am 
 
 ![Tag der Eröffnung der Tamsui-Jiang Bridge: Menschen gehen über die Brücke, und der weiße Einmast-Schrägseilbrückenturm ist vollständig sichtbar](https://upload.wikimedia.org/wikipedia/commons/7/7b/Danjiang_Bridge_open_day_20260503_%28IMG_9559%29.jpg)
 
-_Am 3. Mai 2026 ging Tausende von Menschen auf die noch nicht eröffnete Tamsui-Jiang Bridge, wobei das asymmetrische Schrägseil des Einmastturms am Mündung der Đài水 River vollständig ausgefahren war._ Foto: [Bigmorr](https://commons.wikimedia.org/wiki/User:Bigmorr) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+_Am 3. Mai 2026 ging Tausende von Menschen auf die noch nicht eröffnete Tamsui-Jiang Bridge, wobei das asymmetrische Schrägseil des Einmastturms an der Mündung des Tamsui-Flusses vollständig ausgefahren war._ Foto: [Bigmorr](https://commons.wikimedia.org/wiki/User:Bigmorr) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Wenn man die Persönlichkeit der taiwanesischen Verkehrstechnik mit einer Brücke zusammenfassen müsste, wäre die Tamsui-Jiang Bridge ein gutes Beispiel: Sie wurde bereits 1980 vorgeschlagen, im „Sechsjahresplan“ von 1992 aufgenommen und 2015 durch das Team des verstorbenen Architekten Zaha Hadid gewonnen – ihre elegante, fließende Form ist ihr letztes architektonisches Werk[^19]. Der Hauptteil wurde zwischen 2017 und 2018 siebenmal wegen zu hoher bautechnischer Hürden abgelehnt und über zwei Jahre lang pausiert; erst 2019 begann der Bau. Im September 2025 wurde sie fertiggestellt, wobei die Gesamtfinanzierung auf 23 Milliarden NTD erhöht wurde[^19]. Ab April 2026 veranstaltete das Verkehrsministerium eine Reihe von Eröffnungsveranstaltungen (Laufveranstaltung, Fahrradtour, Sternenkonzert, Picknick auf der Brücke), bei denen Bürger vor der Eröffnung über die Brücke gingen[^20]. Am 12. Mai wurde sie offiziell eröffnet; die Fahrzeit zwischen Tamsui und Bali wurde um 15 Kilometer verkürzt und zu Stoßzeiten um etwa 25 Minuten gespart[^20]. Die weltweit längste Einmast-Schrägseilbrücke (Hauptspanne 450 Meter) mit einer Lebensdauer von 120 Jahren[^19]. Dies ist genau die Art von Bauwerk, die Tsai Hei-pi am liebsten filmt: ein öffentliches Projekt, das ein halbes Jahrhundert reifte und vollständig dokumentiert werden verdient. Als er „beim Unboxing helfen“ rief, war diese Brücke gerade in der Eröffnungsphase; und er stand wie bei jeder Brücke, die er gefilmt hat, zwischen der Geschichte der Brücke und der Neugier der Öffentlichkeit.
 
@@ -161,7 +161,7 @@ Wenn Sie das nächste Mal mit der U-Bahn fahren, schauen Sie vielleicht auf den 
 
 Dieser Artikel verwendet 6 Bilder mit CC-Lizenzen von Wikimedia Commons. Da die Leser diese direkt über den Quell-URL eingebettet haben (kein lokaler Cache), sind hier die direkten Links:
 
-- [Taipei U-Bahn Đài水 Linie Bahnsteig](https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg) (Hero) — Foto: eugene_o, 2017-10-23, CC BY 2.0; Direkter Link: https://upload.wikimedia.org/wikipedia/commons/c/c0/2017-10-23_MRT_train_at_Platform%2C_Tamsui_Line.jpg
+- [Taipei U-Bahn, Bahnsteig der Tamsui-Linie](https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg) (Hero) — Foto: eugene_o, 2017-10-23, CC BY 2.0; Direkter Link: https://upload.wikimedia.org/wikipedia/commons/c/c0/2017-10-23_MRT_train_at_Platform%2C_Tamsui_Line.jpg
 - [Taoyuan Airport MRT Zug (Ankunft am Bahnhof Da'an)](https://commons.wikimedia.org/wiki/File:Taoyuan_MRT_train_approaching_Dayuan_February_2026_1.jpg) — Foto: 4300streetcar, 2026-02, CC BY 4.0; Direkter Link: https://upload.wikimedia.org/wikipedia/commons/1/14/Taoyuan_MRT_train_approaching_Dayuan_February_2026_1.jpg
 - [Nationalstraße 6 Zentralgebirge Nebellandschaft](https://commons.wikimedia.org/wiki/File:NationalFreeway6ofTaiwan20220326113440.jpg) — Foto: OnionBulb, 2022-03-26, CC BY-SA 4.0; Direkter Link: https://upload.wikimedia.org/wikipedia/commons/9/94/NationalFreeway6ofTaiwan20220326113440.jpg
 - [Wuqiu Leuchtturm](https://commons.wikimedia.org/wiki/File:%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg) — Foto: Kechinyuan, CC BY-SA 4.0; Direkter Link: https://upload.wikimedia.org/wikipedia/commons/9/96/%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg
@@ -178,7 +178,7 @@ Dieser Artikel verwendet 6 Bilder mit CC-Lizenzen von Wikimedia Commons. Da die 
 
 [^4]: [Tsai Hei-pi YouTube Kanalseite](https://www.youtube.com/@jin_an0528) — Primäre Statistik des Kanals mit etwa 260.000 Abonnenten, 227 Videos und den Aufrufzahlen der verschiedenen Serien (Taiwan Transport Forum, Taiwan 360, Hei-pi erzählt alte Städte).
 
-[^5]: [[[PTT MRT Board: [Nachrichten] Diskussion über den Jinlu Award Sonderbeitragspreis für Verkehrs-YouTuber „Hei-pi“ (08.12.2025)](](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html))) — Details siehe ergänzende Materialien im Originallink.
+[^5]: [PTT MRT Board: [Nachrichten] Diskussion über den Jinlu Award Sonderbeitragspreis für Verkehrs-YouTuber „Hei-pi“ (08.12.2025)](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html) — Details siehe ergänzende Materialien im Originallink.
 
 [^6]: [Taiwan Transportation Association Facebook: 5/6 Vortrag des Verkehrsvereins lädt Verkehrsvideoexperte Hei-pi ein (2021)](https://www.facebook.com/100077498171484/posts/330022631891460/) — Die Taiwan Transportation Association lud ihn unter dem Namen „Verkehrsvideoexperte Tsai Chian-an (Hei-pi)“ zu einem Vortrag ein, um seinen Produktionsprozess zu teilen.
 

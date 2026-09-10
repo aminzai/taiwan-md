@@ -45,7 +45,12 @@ def counts(md: str) -> dict:
             s = lines[j].strip()
             if not s:
                 continue
-            if s.startswith("_") and "](" in s:
+            # `\_` 也算。prettier 會把行首底線跳脫成 `\_`（避免被當成斜體標記），
+            # 而這裡只認 `_`，於是每一個被跳脫的圖說都漏數——這是 hard gate，
+            # 漏數會讓派工單的期望值偏低，正確交件反而被判失敗。
+            # 2026-09-09 蛋撻那篇：zh 有 2 個帶授權連結的圖說、期望值卻寫 1，
+            # 譯者兩個都正確搬過去反而紅燈。CC 標示義務的閘門不該懲罰做對的人。
+            if (s.startswith("_") or s.startswith("\\_")) and "](" in s:
                 cap_with_link += 1
             break
     return {
@@ -93,12 +98,33 @@ def check(group_json: str, out_file: str) -> int:
     而這五個數字全都是機械可得的。腳註是 hard fail（整區掉光是最常見的破損），
     圖說出處連結也是 hard——那是 CC 授權的標示義務，掉了不只是連結數對不上。
     """
-    art = json.loads(Path(group_json).read_text(encoding="utf-8"))["articles"][0]
+    arts = json.loads(Path(group_json).read_text(encoding="utf-8"))["articles"]
+    # 用產出檔的路徑去認是哪一篇，不要固定拿 [0]。舊版寫死索引 0，在多篇一組的
+    # 派工單上會拿甲篇的期望值去量乙篇的產出——而它照樣印出漂亮的 ✅/❌ 清單，
+    # 沒有任何地方會說「你對錯靶了」。2026-09-09 對 pt group-B（48 篇一組）驗收時
+    # 撞見；此前的單篇批次剛好都是 [0]，所以這個洞一直被批次形狀遮著。
+    out_name = Path(out_file).name
+    art = next((a for a in arts if Path(a.get("en_path", "")).name == out_name), None)
+    if art is None:
+        if len(arts) == 1:
+            # 單篇派工單仍對靶，但要出聲：不出聲的話，指錯產出檔會得到一份
+            # 看起來像「這篇結構壞掉」的 ❌ 清單，而真正壞掉的是你指的路徑
+            art = arts[0]
+            print(f"⚠️ 派工單裡是 {Path(art.get('en_path','?')).name}，你指的是 {out_name}——"
+                  "單篇派工單仍照對，但先確認沒指錯檔")
+        else:
+            print(f"❌ 這份派工單有 {len(arts)} 篇，但沒有一篇的 en_path 對得上 {out_name}——"
+                  "確認你驗的是不是這一組的產出")
+            return 1
     want = art.get("expected_structure")
     if not want:
         print("⚠️ 這份派工單沒有 expected_structure，先跑 enrich-batch-targets.py")
         return 0
-    got = counts(Path(out_file).read_text(encoding="utf-8"))
+    out_p = Path(out_file)
+    if not out_p.exists():
+        print(f"❌ 產出檔不存在：{out_file}——agent 說寫好了但檔案不在，是最常見的一種假交件")
+        return 1
+    got = counts(out_p.read_text(encoding="utf-8"))
     hard = {"footnote_defs", "h2_sections", "captions_with_source_link"}
     bad = False
     for k, w in want.items():

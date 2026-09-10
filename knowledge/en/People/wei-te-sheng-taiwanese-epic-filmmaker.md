@@ -86,7 +86,7 @@ There are no shortcuts in filmmaking. From an electrical engineering program in 
 
 Born in Yongkang, Tainan, in 1969; in 2000, spent NT$500,000 on a five-minute film and couldn't find funding; in 2008, NT$530 million at the box office; in 2011, the Venice main competition—this trajectory is an accumulation of endurance, nothing to do with miracles.
 
-**Further reading:** [Mona Rudao](/en/People/mona-rudao) (the historical protagonist behind Seediq Bala, and how the film reshaped his memory) ｜ [Wei Te-sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Taiwan Cinema Database: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Golden Horse Awards Official Site](https://www.goldenhorse.org.tw/)
+**Further reading:** [Mona Rudao](/en/people/mona-rudao) (the historical protagonist behind Seediq Bala, and how the film reshaped his memory) ｜ [Wei Te-sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Taiwan Cinema Database: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Golden Horse Awards Official Site](https://www.goldenhorse.org.tw/)
 
 ## References
 

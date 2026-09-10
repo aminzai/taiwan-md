@@ -87,22 +87,15 @@ def _wall_clock_deadline(seconds: float):
             signal.setitimer(signal.ITIMER_REAL, remaining, previous_timer[1])
 
 
+# 免費層 slug 會漂移，而它以前散在七個檔案裡各自寫死一次——所以一次下架要改七個
+# 地方，於是永遠有幾個沒改到。2026-09-09 現查加實呼確認 `openrouter/owl-alpha` 與
+# `openai/gpt-oss-120b:free` 都回 404，而後者「已下架」這個事實 7/24 就寫進
+# research-fleet.py 的註解、六週沒傳到任何使用端。改成單一來源，換模型只改這一行。
+# 對賬指令：python3 scripts/tools/lang-sync/openrouter-model-audit.py
+DEFAULT_FREE_MODEL = "nvidia/nemotron-3-super-120b-a12b:free"
+
 # Pre-baked model capability tables — pick the right CAPABILITIES for the model.
 MODEL_CAPABILITIES = {
-    "openrouter/owl-alpha": {
-        "typical_latency_s": 200,
-        "max_context_chars": 1_000_000,
-        "prc_refusal_risk_low": True,
-        "multilingual_strength": 0.92,
-        "notes": "Stealth provider, top free-tier quality, rate-limit-prone (Z2.1)",
-    },
-    "openai/gpt-oss-120b:free": {
-        "typical_latency_s": 100,
-        "max_context_chars": 130_000,
-        "prc_refusal_risk_low": True,
-        "multilingual_strength": 0.85,
-        "notes": "OpenAI open weights, clean direct translation, no preamble",
-    },
     "google/gemma-4-31b-it:free": {
         "typical_latency_s": 120,
         "max_context_chars": 260_000,
@@ -117,13 +110,30 @@ MODEL_CAPABILITIES = {
         "multilingual_strength": 0.80,
         "notes": "Verbose output (may need post-processing)",
     },
+    # ── 墓碑：2026-09-09 現查 + 實呼皆 404。條目留著是因為顯式 `--worker
+    #    openrouter:<slug>` 仍可能帶進舊 slug，留著讓 CAPABILITIES 查得到、
+    #    錯誤訊息看得懂；不要放回 DEFAULT_FREE_MODEL 或 default chain。
+    "openrouter/owl-alpha": {  # audit-ok: 墓碑條目
+        "typical_latency_s": 200,
+        "max_context_chars": 1_000_000,
+        "prc_refusal_risk_low": True,
+        "multilingual_strength": 0.92,
+        "notes": "RETIRED 2026-09-09（No endpoints found）— 曾是 stealth provider 最佳免費層",
+    },
+    "openai/gpt-oss-120b:free": {  # audit-ok: 墓碑條目
+        "typical_latency_s": 100,
+        "max_context_chars": 130_000,
+        "prc_refusal_risk_low": True,
+        "multilingual_strength": 0.85,
+        "notes": "RETIRED — 免費層下架，付費 slug `openai/gpt-oss-120b` 仍在架",
+    },
 }
 
 
 class OpenRouterBackend(TranslationBackend):
     """OpenRouter backend — multi-model HTTP API with key rotation."""
 
-    def __init__(self, model: str = "openrouter/owl-alpha", **config):
+    def __init__(self, model: str = DEFAULT_FREE_MODEL, **config):
         super().__init__(**config)
         self.model = model
         caps_dict = MODEL_CAPABILITIES.get(model, {})

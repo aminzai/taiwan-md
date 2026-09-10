@@ -5,7 +5,14 @@ date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '戰後與威權'
-tags: ['選舉', '民主化', '政黨政治', '黨外運動', '總統直選']
+tags:
+  [
+    'Elections',
+    'Democratization',
+    'Party politics',
+    'Tangwai movement',
+    'Direct presidential election',
+  ]
 readingTime: 18
 lastVerified: 2026-05-27
 lastHumanReview: false
@@ -174,7 +181,7 @@ The success or failure of blue-white cooperation will feed back into the party l
 
 ### DPP Factional Evolution
 
-The DPP was never a monolithic block from its first day. The 132 people who founded the party at the Grand Hotel in 1986 came from different sources—the Opposition Editorial Writers' Association, the Opposition Public Policy Association, local politicians, and others. The two major factions at the party's founding: the **New Tide faction** (tracing its origins to the 1983 Opposition Editorial Writers' Association, formally organized in 1987 by Chiou I-jen, Wu Nai-jen, and Lin Chui-shui) and the **Kaohsiung Incident faction** (evolving from the "Kaohsiung Incident Line" within the Opposition Public Policy Association, centered on victims of the Kaohsiung Incident and their defense lawyers).[^27]
+The DPP was never a monolithic block from its first day. The 132 people who founded the party at the Grand Hotel in 1986 came from different sources—the Opposition Editorial Writers' Association, the Opposition Public Policy Association, local politicians, and others. The two major factions at the party's founding: the **New Tide faction** (tracing its origins to the 1983 Opposition Editorial Writers' Association, formally organized in 1987 by Chiou I-jen, Wu Nai-jen, and Lin Cho-shui) and the **Kaohsiung Incident faction** (evolving from the "Kaohsiung Incident Line" within the Opposition Public Policy Association, centered on victims of the Kaohsiung Incident and their defense lawyers).[^27]
 
 In the mid-1990s, a new generation brought new factional differentiation. Chen Shui-bian, Hsieh Chang-ting, and Su Tseng-chang—a group that belonged neither to the New Tide nor fully to the Kaohsiung Incident faction—gradually forged two new lines: on September 28, 1992, Chang Chun-hsiung, Yao Chia-wen, Hsieh Chang-ting, and Shih Ming-teh founded the "**Welfare State Alliance**" (later known as the Welfare State faction), advocating social welfare policy and a pragmatic cross-strait line; in the mid-to-late 1990s, the "**Justice Alliance**" gradually took shape around Chen Shui-bian, with a line leaning toward Taiwan-centered identity and local deep cultivation.[^28]
 
@@ -216,9 +223,9 @@ It is worth noting that the single-district, two-vote system implemented in 2018
 - [Resolution on Taiwan's Future](/en/history/resolution-on-taiwans-future) — How the DPP's line shift from independence party charter to the Resolution on Taiwan's Future rewrote the landscape of Taiwan's electoral politics
 - [Great Recall](/en/history/great-recall-movement-2024) — The full timeline of civil society's launch of the largest recall campaign in history in 2025
 - [2026 Nine-in-One Elections](/society/2026九合一選舉) — Battle layout and institutional test across 22 cities and counties
-- [What Are the Nine-in-One Elections](/society/九合一選舉是什麼) — Institutional explanation of the nine-in-one local official elections
-- [Village Chief System](/society/村里長制度) — Taiwan's most grassroots elected position
-- [Councilor System](/society/議員制度) — Institutional history of county/city councilors and special municipality councilors
+- What Are the Nine-in-One Elections — Institutional explanation of the nine-in-one local official elections
+- Village Chief System — Taiwan's most grassroots elected position
+- Councilor System — Institutional history of county/city councilors and special municipality councilors
 - [Politics Hub](/politics) — Overview portal of Taiwan's political environment
 
 ## References
@@ -275,7 +282,7 @@ It is worth noting that the single-district, two-vote system implemented in 2018
 
 [^26]: [Blue-White Finalize 2026 Election Cooperation Agreement, Huang Kuo-chang: New Taipei, Chiayi, Yilan to Form Strongest National Team — UDN](https://udn.com/news/story/124652/9388050) — Integration plans for the three priority launch cities and counties
 
-[^27]: [New Tide Faction — Wikipedia](https://zh.wikipedia.org/zh-tw/新潮流系) — Tracing origins to the 1983 Opposition Editorial Writers' Association; formally organized in 1987 by Chiou I-jen, Wu Nai-jen, and Lin Chui-shui
+[^27]: [New Tide Faction — Wikipedia](https://zh.wikipedia.org/zh-tw/新潮流系) — Tracing origins to the 1983 Opposition Editorial Writers' Association; formally organized in 1987 by Chiou I-jen, Wu Nai-jen, and Lin Cho-shui
 
 [^28]: [Welfare State Alliance — Wikipedia](https://zh.wikipedia.org/zh-tw/福利國連線) — Founded on September 28, 1992 by Chang Chun-hsiung, Yao Chia-wen, Hsieh Chang-ting, and Shih Ming-teh
 

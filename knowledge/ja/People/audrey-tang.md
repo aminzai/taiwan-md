@@ -34,7 +34,7 @@ imageCredit: 'Camille McOuat (Flickr / Wikimedia Commons, CC BY 2.0)'
 # オードリー・タン：彼女の有名な決断は、すべて「天才」というラベルを拒むものでした
 
 > **30 秒概覽：**
-> 8 歲被同學踹昏休學、14 歲拒絕保送建中、24 歲跨性別出櫃但拒絕當代言人、35 歲入閣談的第一個條件是「沒辦公室」。2020 年凌晨她跟江明宗在 g0v Slack 改 code 做口罩地圖；2025 年 12 月 2 日她在斯德哥爾摩接受 Right Livelihood Award，全場期待她的個人故事，她台上強調的卻是「我們」兩個字。世界把她當天才；她每一次有名的決定，都是在拒絕這個位置。
+> 8歳で同級生に蹴られて気を失い休学、14歳で建中への推薦入学を辞退、24歳でトランスジェンダーとしてカミングアウトしながら代弁者になることは拒否、35歳で入閣する際の第一条件は「オフィスを持たない」こと。2020年の未明、彼女は江明宗とともに g0v の Slack でコードを書き換え、マスク在庫地図をつくりました。2025年12月2日、ストックホルムで Right Livelihood Award を受け取ったとき、会場は彼女個人の物語を期待していましたが、壇上で彼女が強調したのは「私たち」という言葉でした。世界は彼女を天才として扱う。彼女の有名な決断はいずれも、その位置を拒むものでした。
 
 ## 2万米ドルを焼き尽くしたマスク地図
 
@@ -90,15 +90,15 @@ imageCredit: 'Camille McOuat (Flickr / Wikimedia Commons, CC BY 2.0)'
 
 父の唐光華が取材に応じた時の返答は、後に複数のメディアでそのまま収録されました。
 
-> ✦ 「如果她覺得性別的轉變可以讓她更快樂、更能發揮創造力，又不會傷害任何人，沒有理由不接受。」[^15]
+> ✦ 「性別の転換によって本人がより幸せになり、より創造性を発揮でき、しかも誰も傷つけないのであれば、受け入れない理由はありません。」[^15]
 
 彼女は「トランスジェンダーの代弁者」という位置を拒みました。2020年、彼女は内閣人事資料表の性別欄に「無」と記入しました。当時、彼女は記者にこう説明しています[^16]。
 
-> ✦ 「我是『後類別』。在性別爭論中我不選邊站。並不是說我認為這個議題不重要，而是我認為爭論不能解決任何問題。」[^16]
+> ✦ 「私は『ポスト・カテゴリー』です。ジェンダーをめぐる論争では、どちらの側にも立ちません。この問題が重要でないと考えているからではなく、論争では何も解決しないと考えているからです。」[^16]
 
 Marie Claire とのインタビューでは、繰り返し引用される別の言葉を残しています。
 
-> ✦ 「如果你能跟迷惘相處，慢慢就可以看見，既不是你的問題也不是社會的問題，而是中間的缺口。萬事萬物都有缺口，缺口就是光的入口。」[^17]
+> ✦ 「戸惑いと共にいられるようになると、やがて見えてきます。あなたの問題でも社会の問題でもなく、その間にある隙間なのだと。万物には隙間がある。隙間こそが光の入口です。」[^17]
 
 2010年から2016年にかけて、彼女は Apple の顧問を兼任し、Siri の開発に関わりました。時給は1ビットコイン相当だったとされています[^18]。33歳（2014年）で Socialtext と Apple の仕事を引き継ぎ終え、「引退」を宣言しました[^11]。
 
@@ -130,7 +130,7 @@ g0v の最初のプロジェクトは中央政府総予算の可視化でした�
 
 林全は当時、記者にこう説明しました。
 
-> ✦ 「行政院目前並沒有遠距上班的規範，但她過去長期的工作模式都是遠距，我認為在工作不受影響之下，透過電腦遠距離傳遞想法或是政策指示，我認為這是可行的。」[^24]
+> ✦ 「行政院には現在、リモート勤務の規定はありません。しかし彼女は以前から長くリモートで働いてきました。業務に支障が出ない限り、コンピューターを通じて遠隔で考えや政策指示を伝えることは可能だと考えます。」[^24]
 
 彼女は三つの存在になりました。台湾史上最年少の政務委員、世界で初めてトランスジェンダーであることを公表した閣僚級政治家、そして台湾初の「デジタル政務委員」です[^25]。
 
@@ -151,15 +151,15 @@ _2019年5月8日、ベルリン re:publica デジタル社会年次会議「Digi
 
 彼女は Rest of World とのインタビューで、宣言に近い一文を残しました。
 
-> ✦ 「Any top-down, coercion, whether it's from the capitalists or from the state, is equally bad.」（任何由上而下的強制，不管來自資本家還是國家，一樣糟糕。）[^28]
+> ✦ 「Any top-down, coercion, whether it's from the capitalists or from the state, is equally bad.」（上から押しつけられる強制は、資本家によるものであれ国家によるものであれ、等しく有害です。）[^28]
 
 経済学者 Tyler Cowen とのインタビューで、「あなたの役割は何か」と問われた時、彼女はこう述べました。
 
-> ✦ 「I'm working _with_ the government; I'm not working _for_ the government.」（我是跟政府一起工作；我不是替政府工作。）[^29]
+> ✦ 「I'm working _with_ the government; I'm not working _for_ the government.」（私は政府と共に働いています。政府のために働いているのではありません。）[^29]
 
 2020年の国際関数型プログラミング会議（ICFP）の Q&A でも、彼女は次のような一言を投げかけています。
 
-> ✦ 「In Taiwan we have this strange idea that broadband internet access is a human right. Everyone has broadband. And if you don't, it's my fault, personally.」（在台灣我們有個奇怪的想法：寬頻網路是基本人權。每個人都應該有寬頻。如果你沒有，那是我個人的責任。）[^30]
+> ✦ 「In Taiwan we have this strange idea that broadband internet access is a human right. Everyone has broadband. And if you don't, it's my fault, personally.」（台湾には奇妙な考え方があります。ブロードバンドは基本的人権だ、というものです。誰もがブロードバンドを持つべきで、もし持っていないなら、それは私個人の責任です。）[^30]
 
 「人権」という言葉を彼女は重く使いますが、「個人の責任」という言葉は軽やかに使います。彼女が政府職務において取りたい態度は、「どこかに欠けているものがあれば、私が補いに行く」というものです。
 
@@ -175,7 +175,7 @@ _2019年5月8日、ベルリン re:publica デジタル社会年次会議「Digi
 
 PDIS が各部会に任命した PO（公共参加連絡人）の公務員たちでさえ、困惑していました。『報導者』が取材したある PO の言葉はそのまま掲載されています。
 
-> ✦ 「做 PO 已 2 個月了，我覺得多一項工作，目前還搞不清楚到底我們可以介入多少、可以得到多少的授權...我不知道未來這一些平台，以後我們的角色是什麼？」[^38]
+> ✦ 「PO になって2か月が経ちました。仕事が一つ増えたという感覚で、私たちがどこまで関与できるのか、どれだけの権限を得られるのかも、まだよく分かっていません……これらのプラットフォームで、今後私たちの役割が何になるのか、私には分かりません。」[^38]
 
 彼女はこの問いに答えられませんでした。あるいは、彼女の答えは「あなたが自分で決めるのです」でした。
 
@@ -195,21 +195,21 @@ vTaiwan が Uber 規制を扱った案件は、彼女が ⿻ を説明する際�
 
 10月7日、外交部は彼女を中華民国無任所大使（Cyber Ambassador-at-Large）に任命しました[^41]。彼女の個人サイト audreyt.org と cyberambassador.tw に掲げられている、変わらない opening は次の言葉です。
 
-> ✦ 「I want to be a good enough ancestor for future generations.」（我想要成為一個對得起未來世代的祖先。）[^42]
+> ✦ 「I want to be a good enough ancestor for future generations.」（私は、未来の世代に顔向けできる祖先になりたいのです。）[^42]
 
 2025年12月2日、ストックホルム、Right Livelihood Foundation の授賞ホール。Right Livelihood Award は「もう一つのノーベル賞」（Alternative Nobel Prize）と呼ばれます。1980年、スウェーデン系ドイツ人の慈善家 Jakob von Uexküll によって、ノーベル賞が覆っていない領域を補うために創設されました。
 
 オードリー・タンは、この賞を受けた初の台湾人です[^43]。Citation にはこう書かれていました。
 
-> ✦ 「For advancing the social use of digital technology to empower citizens, renew democracy and heal divides.」（表彰其推進數位科技的社會應用，賦權公民、更新民主、彌合分歧。）[^43]
+> ✦ 「For advancing the social use of digital technology to empower citizens, renew democracy and heal divides.」（デジタル技術の社会的活用を進め、市民に力を与え、民主主義を刷新し、分断を埋めた功績に対して。）[^43]
 
 受賞スピーチで、彼女の第一声は自分が何をしたかではありませんでした。彼女が語ったのは、cyberspace（サイバー空間）とは何かです。
 
-> ✦ 「Cyberspace is a conflict region, and my work turns that conflict into an energy source for co-creation. It is time we work on peace in this zone.」（網路空間是衝突區域，而我的工作是把那種衝突轉成共同創造的能量來源。是時候我們在這片區域上做和平的工作了。）[^43]
+> ✦ 「Cyberspace is a conflict region, and my work turns that conflict into an energy source for co-creation. It is time we work on peace in this zone.」（サイバースペースは紛争地域であり、私の仕事はその紛争を共同創造のエネルギー源へと変えることです。この領域で平和の仕事に取り組むべき時が来ています。）[^43]
 
 そして彼女は、Plurality の本の表紙にある自分の言葉を改めて述べました。
 
-> ✦ 「The superintelligence we are looking for is already here. It's us.」（我們在尋找的那種超智能已經到了。就是我們。）[^44]
+> ✦ 「The superintelligence we are looking for is already here. It's us.」（私たちが探し求めていた超知能は、すでに到来しています。それは私たち自身です。）[^44]
 
 彼女は「もう一つのノーベル賞」と呼ばれるトロフィーを受け取り、その授賞台で焦点を「私たち」へと移しました。世界中から台湾の天才と見なされている彼女は、またしても「天才」という位置を拒んだのです。
 
@@ -246,7 +246,7 @@ _オードリー・タンが2021年8月に公開した個人署名。当初は�
 
 [^3]: [衛福部 COVID-19 防疫關鍵決策網](https://covid19.mohw.gov.tw/ch/cp-4822-53563-205.html) — 政府公式の記述 verbatim：「行政院唐鳳政務委員邀集民間社群透過健保署 open data 資料產製『防疫口罩查詢』應用平臺」
 
-[^4]: [[TechNews：一手打造口罩地圖（同 [^1]）](](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/)) — 原リンク本文の資料補足を参照
+[^4]: [TechNews：一手打造口罩地圖（同 [^1]）](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — 原リンク本文の資料補足を参照
 
 [^5]: [中国語版ウィキペディア〈唐鳳〉項目](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) — 出生、家庭背景、幼少期の BASIC 自学と紙上キーボードなど基本的な伝記情報
 
@@ -316,7 +316,7 @@ _オードリー・タンが2021年8月に公開した個人署名。当初は�
 
 [^38]: [報導者：開放政府，唐鳳如何過公務員這一關？](https://www.twreporter.org/a/open-government-audrey-political-commissar-challenges) — PO の verbatim「做 PO 已 2 個月了...搞不清楚到底我們可以介入多少」
 
-[^39]: [[自由財經：從天才 IT 大臣到自由講師（同 [^34]）](](https://ec.ltn.com.tw/article/breakingnews/4677986)) — 自由時報報道
+[^39]: [自由財經：從天才 IT 大臣到自由講師（同 [^34]）](https://ec.ltn.com.tw/article/breakingnews/4677986) — 自由時報報道
 
 [^40]: [Plurality Institute: Book Launch of Plurality](https://www.plurality.institute/blog-posts/book-launch-plurality-the-future-of-collaborative-technology-and-democracy-by-e-glen-weyl-audrey-tang-and-the-plurality-community) — Glen Weyl + Plurality Community との共著 / 2024年4月16日出版 / CC0 公開
 

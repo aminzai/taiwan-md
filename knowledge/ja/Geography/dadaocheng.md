@@ -214,7 +214,7 @@ _年貨大街期間の迪化街。Photo: 玄史生, CC BY-SA 3.0 via [Wikimedia 
 - [台湾茶文化](/ja/culture/taiwanese-tea-culture-and-living-aesthetics) — Formosa Teaと北台湾茶業の完全な文脈
 - [二二八事件](/ja/history/228-incident) — 1947年のあのたばこが点火した事件、その後の鎮圧と移行期正義
 - [日本統治期台湾の社会運動](/ja/history/social-movements-during-japanese-rule) — 蔣渭水と太平町199番地の文化協会
-- [台湾民謡と歌謡](/ja/music/Taiwan Folk Music and Songs) — 1932年の〈望春風〉と太平町の古倫美亜レコード
+- [台湾民謡と歌謡](/ja/music/taiwan-folk-music-and-songs) — 1932年の〈望春風〉と太平町の古倫美亜レコード
 - [艋舺](/ja/geography/bangka) — 1853年の頂下郊拼で敗れた同安人が艋舺八甲庄から大稲埕へ逃れて来ました。二つの街は同じ武力衝突から分岐した結果です
 - [西門町](/ja/geography/ximending) — 同じbatch 1の歴史街区sibling、1896年の日本統治期娯楽区 vs 大稲埕の清領期商業街、二種類の「街が形づくられる瞬間」の対照
 - [大龍峒](/ja/geography/dalongdong) — 1853年の頂下郊拼で敗れた同安人はまず大龍峒へ退き、保安宮を防御の中心として、その後大稲埕へ移りました——大稲埕の通行上の語りが書き落としている中継地点

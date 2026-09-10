@@ -35,7 +35,7 @@ Die grosse Migration von 1949 veränderte nicht nur Taiwans politische Landschaf
 
 1949 verlegte die nationalistische Regierung ihren Sitz nach Taiwan. Schätzungsweise 1,2 Millionen Militärangehörige und Zivilisten kamen vom chinesischen Festland nach Taiwan (die Demografie schätzt diese Zahl unterschiedlich). Diese Menschen kamen aus allen Himmelsrichtungen, brachten unterschiedliche Dialekte, Bräuche und die am schwersten aufzugebenen geschmacklichen Heimatgedächtnisse mit.
 
-In jener turbulenten Zeit wurde der Geschmack der Heimat zum Seelentrost. Shandong-Menschen sehnten sich nach heimischen Frühlingszwiebeln in Sauce, Sichuanesen vermissten das麻辣 (ma-la) des zweimal gekochten Schweinefleischs, Menschen aus Jiangnan gedachten dem zarten weissgesiedenen Huhn. Diese Geschmacksgedächtnisse fügten sich in der Fremde neu zusammen und formten eine besondere Militärdorf-Esskultur.
+In jener turbulenten Zeit wurde der Geschmack der Heimat zum Seelentrost. Shandong-Menschen sehnten sich nach heimischen Frühlingszwiebeln in Sauce, Sichuanesen vermissten das 麻辣 (ma-la) des zweimal gekochten Schweinefleischs, Menschen aus Jiangnan gedachten dem zarten weissgesiedenen Huhn. Diese Geschmacksgedächtnisse fügten sich in der Fremde neu zusammen und formten eine besondere Militärdorf-Esskultur.
 
 Die neu angekommenen Waisheng-Menschen (外省人) sahen sich Sprachbarrieren und wirtschaftlicher Not gegenüber. In den einfachen Küchen der Militärdörfer versuchten sie mit begrenzten Zutaten, Heimatgeschmäcker nachzubilden. Wegen Materialmangels wurden Originalzutaten durch preiswerte Ersatzprodukte ersetzt, Kochmethoden den lokalen Gegebenheiten angepasst – ungewollt entstanden so viele neue Gerichtsvariationen.
 
@@ -69,7 +69,7 @@ Die Rindfleischnudelsuppen der Militärdörfer waren kräftig, weil Fleisch kost
 
 Die besondere Umgebung der Militärdörfer ermöglichte eine beispiellose Küchenverschmelzung. Familien unterschiedlicher Provinzen wohnten Tür an Tür, die Esskulturen der Provinzen entwickelten sich im täglichen Austausch natürlich weiter.
 
-Shandongs Grosszügigkeit traf auf Jiangnans Feinheit und erzeugte neue Variationen. Shandongs Frühlingszwiebel-Pfannkuchen übernahmen Jiangnans feine Handwerkstechniken, Jiangnans Xiao-Long-Bao übernahmen Shandongs Portionsgrösse. Sichuans麻辣 (ma-la) und Hunans 香辣 (xiang-la) ergaben in den Militärdörfern neue Kombinationen: Da man damals in Taiwan keine authentischen Sichuan-Würzen kaufen konnte, schufen Köche mit taiwanesischen lokalen Chilis und Gewürzen Ersatzlösungen – und formten so einen einzigartigen taiwanesisch-sichuanesischen Geschmack.
+Shandongs Grosszügigkeit traf auf Jiangnans Feinheit und erzeugte neue Variationen. Shandongs Frühlingszwiebel-Pfannkuchen übernahmen Jiangnans feine Handwerkstechniken, Jiangnans Xiao-Long-Bao übernahmen Shandongs Portionsgrösse. Sichuans 麻辣 (ma-la) und Hunans 香辣 (xiang-la) ergaben in den Militärdörfern neue Kombinationen: Da man damals in Taiwan keine authentischen Sichuan-Würzen kaufen konnte, schufen Köche mit taiwanesischen lokalen Chilis und Gewürzen Ersatzlösungen – und formten so einen einzigartigen taiwanesisch-sichuanesischen Geschmack.
 
 Kantons Leichtes und Nordens Schweres fanden in den Militärdörfern einen Ausgleich. Viele Militärdorf-Gerichte zeigen diese Nord-Süd-Verschmelzung: Sie bewahren den Herkunftsgeschmack und passen sich zugleich Taiwans Klima und Zutaten an.
 

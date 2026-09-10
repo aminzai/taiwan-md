@@ -6,7 +6,7 @@
 #
 # Examples:
 #   bash scripts/tools/lang-sync/openrouter-batch.sh ja
-#   bash scripts/tools/lang-sync/openrouter-batch.sh ja "deepseek/deepseek-chat:free"
+#   bash scripts/tools/lang-sync/openrouter-batch.sh ja "google/gemma-4-31b-it:free"
 #
 # Reads .lang-sync-tasks/{lang}/_group-*.json files (created by prepare-batch.py)
 # and dispatches one Python worker per group, all running in parallel.
@@ -16,7 +16,7 @@
 set -euo pipefail
 
 LANG_CODE="${1:-ja}"
-MODEL="${2:-openai/gpt-oss-120b:free}"
+MODEL="${2:-nvidia/nemotron-3-super-120b-a12b:free}"  # 舊值 gpt-oss-120b:free 已下架
 
 REPO="$(cd "$(dirname "$0")/../../.." && pwd)"
 TASK_DIR="$REPO/.lang-sync-tasks/$LANG_CODE"

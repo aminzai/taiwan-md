@@ -29,8 +29,8 @@ sourceCommitSha: '2f3bfdbf'
 sourceContentHash: 'sha256:8ae350615e660491'
 sourceBodyHash: 'sha256:2da5583381fa39ad'
 translatedAt: '2026-05-18T05:08:09+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png
-imageCredit: Sleepingstar
+image: /article-images/geography/matsu-islands-montage.webp
+imageCredit: Sleepingstar / Wikimedia Commons
 imageLicense: CC BY-SA 3.0
 imageSource: https://commons.wikimedia.org/wiki/File:Matsu_Montage.png
 ---
@@ -47,7 +47,7 @@ De Nangan a la costa continental más cercana, la península de Beijiao, hay ape
 
 El hecho geográfico del condado de Lienchiang es este: **está casi trece veces más cerca de Fuzhou, en el continente, que de la capital de su propio país**.
 
-![Montaje paisajístico de las islas Matsu, con seis escenas que incluyen la aldea de Qinbi, el faro de Dongyin, túneles militares y lágrimas azules. Composición de Sleepingstar, 2012.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png)
+![Montaje paisajístico de las islas Matsu, con seis escenas que incluyen la aldea de Qinbi, el faro de Dongyin, túneles militares y lágrimas azules. Composición de Sleepingstar, 2012.](/article-images/geography/matsu-islands-montage.webp)
 
 Pero este condado se llama “Lienchiang”. En la provincia de Fujian de la República Popular China también existe un “condado de Lianjiang”, cuya sede está en el poblado de Fengcheng, aguas abajo de Fuzhou, y que fue tomado por el Ejército comunista en el último verano de la guerra civil china, en 1949. El gobierno del condado de Lienchiang de la República de China se retiró entonces al archipiélago de Matsu, y en agosto de 1953 restableció el gobierno condal en Nangan[^2]. **Un condado se partió en dos: una mitad quedó del lado del Partido Comunista Chino, la otra se convirtió en un condado de Taiwán**. Es un caso único entre los 22 condados y ciudades de Taiwán.
 
@@ -75,7 +75,7 @@ En la ladera del monte Laotou, en el extremo sur de Dongju, hay una inscripción
 
 En mayo de 1617, año 45 del reinado Wanli de la dinastía Ming, el general Shen Yourong custodiaba el mar de Fujian. En Dongsha, la actual isla Dongju, combatió a los wokou, piratas marítimos asociados históricamente al litoral sino-japonés, y capturó vivos a 69 sin perder un solo soldado[^8]. En 1630, tercer año del reinado Chongzhen de la dinastía Ming, Dong Yingju, viceministro de Obras Públicas, talló una estela para conmemorar la batalla. El texto tiene 41 caracteres:
 
-> **「萬曆彊梧大荒落地臘後挾日宣州沈君有容獲生倭六十九名於東沙之山不傷一卒閩人董應舉題此。」**[^9]
+> **«En el año dingsi de la era Wanli [1617], diez días después de la fiesta de Dila, el señor Shen Yourong, de Xuanzhou, capturó vivos a sesenta y nueve piratas japoneses en el monte de Dongsha sin perder un solo soldado. Inscripción de Dong Yingju, natural de Min (Fujian).»** (萬曆彊梧大荒落地臘後挾日宣州沈君有容獲生倭六十九名於東沙之山不傷一卒閩人董應舉題此)[^9]
 
 Esta “inscripción rupestre de Dapu” es la talla en roca más antigua y grande aún existente en la región de Matsu, y hoy está clasificada como monumento histórico del condado de Lienchiang. Fue descubierta en 1953, cuando el Ejército Nacional entró en Dongju para construir fortificaciones defensivas, y entonces se la protegió con alambre de púas[^10].
 

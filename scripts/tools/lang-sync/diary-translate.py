@@ -55,9 +55,14 @@ LANG_NAMES = {
     "fr": "French (Français neutral)",
 }
 
+# 2026-09-09 現查＋實呼：`openrouter/owl-alpha` 回「No endpoints found」、
+# `tencent/hy3-preview:free` 回「no longer available as a free model」。兩層都換成
+# 還在架的免費 slug；hy3 那格原本的用途是主權對照組（PRC 模型的拒答指紋，見
+# CLAUDE.md §Sovereignty preservation），免費層沒了就不該靜靜降級成別的模型冒充它，
+# 所以直接標成不可用，要測主權拒答率走顯式付費 slug。
 TIER_MODELS = {
-    "owl": "openrouter/owl-alpha",
-    "hy3": "tencent/hy3-preview:free",
+    "owl": "nvidia/nemotron-3-super-120b-a12b:free",
+    "hy3": None,  # 免費層已下架；主權對照要跑改用 `tencent/hy3-preview`（付費）
     "ollama": os.environ.get("OLLAMA_MODEL", "qwen3.6:35b-a3b-coding-nvfp4"),
 }
 
@@ -339,6 +344,9 @@ def translate_one(diary_filename: str, lang: str, tier: str, max_attempts: int =
 
     system, user = build_prompt(lang, source)
     model = TIER_MODELS[tier]
+    if model is None:
+        # 讓失敗當場說清楚，而不是把 None 送進 payload 換一個看不懂的 400
+        return {"ok": False, "reason": f"tier '{tier}' 的模型已下架，見 TIER_MODELS 註解"}
 
     last_reason = "no attempt"
     for attempt in range(max_attempts):
@@ -396,7 +404,7 @@ def aggregate_status(langs: list[str]) -> dict:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--tier", choices=["owl", "hy3", "ollama"], help="Single-tier dispatch")
+    ap.add_argument("--tier", choices=["owl", "ollama"], help="Single-tier dispatch")  # hy3 免費層已下架
     ap.add_argument("--lang", help="Target lang (with --tier --diary)")
     ap.add_argument("--diary", help="Single diary filename")
     ap.add_argument("--batch", action="store_true", help="Batch mode")

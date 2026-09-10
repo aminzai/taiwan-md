@@ -214,7 +214,7 @@ La prochaine fois que vous marcherez rue Dihua, levez les yeux vers les reliefs 
 - [Culture du thé à Taïwan](/fr/culture/taiwanese-tea-culture-and-living-aesthetics) — contexte complet du Formosa Tea et de l’industrie du thé dans le nord de Taïwan
 - [Incident du 28 février](/fr/history/228-incident) — l’événement allumé par ce paquet de cigarettes de 1947, la répression qui suivit et la justice transitionnelle
 - [Mouvements sociaux à Taïwan sous la domination japonaise](/fr/history/social-movements-during-japanese-rule) — Chiang Wei-shui et l’Association culturelle au no 199 de Taiping-chō
-- [Chants populaires et chansons de Taïwan](/fr/music/Taiwan Folk Music and Songs) — 〈Bāng Chhun-hong〉 de 1932 et Columbia Records à Taiping-chō
+- [Chants populaires et chansons de Taïwan](/fr/music/taiwan-folk-music-and-songs) — 〈Bāng Chhun-hong〉 de 1932 et Columbia Records à Taiping-chō
 - [Bangka](/fr/geography/bangka) — les Tong’an défaits lors du conflit Dingxia jiaopin de 1853 s’enfuirent du village Bajia de Bangka vers Dadaocheng ; les deux rues sont le résultat bifurqué d’une même rixe armée
 - [Ximending](/fr/geography/ximending) — quartier historique du même batch 1, zone de divertissement de l’époque japonaise née en 1896 contre rue commerciale Qing de Dadaocheng : comparaison de deux « moments de formation de rue »
 - [Dalongdong](/fr/geography/dalongdong) — après leur défaite dans le conflit Dingxia jiaopin de 1853, les Tong’an se replièrent d’abord à Dalongdong, autour du temple Bao’an comme centre défensif, puis migrèrent vers Dadaocheng : une station intermédiaire souvent absente du récit courant de Dadaocheng

@@ -117,7 +117,7 @@ def build_backend(spec: str):
     name = name.strip()
     opt = opt.strip()
     if name == "openrouter":
-        return OpenRouterBackend(model=opt or "openrouter/owl-alpha")
+        return OpenRouterBackend(model=opt) if opt else OpenRouterBackend()
     if name == "ollama":
         return OllamaBackend(model=opt or None)
     if name == "codex":

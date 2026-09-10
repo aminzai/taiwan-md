@@ -218,21 +218,61 @@ def sec_handoff():
 
 
 def sec_groundtruth():
-    """委派既有 L4 儀器；任一缺席 fail-loud 記進輸出。"""
+    """委派既有 L4 儀器；任一缺席 fail-loud 記進輸出。
+
+    回傳 (text, meta)。meta["behind"] 三態：
+      int 0   — 工作樹與 origin/main 同步
+      int >0  — 落後 N 個 commit，本機讀取層全部是歷史快照
+      None    — 判不出來（check-parallel-actor 沒跑起來 / 沒吐 PARALLEL_CHECK 行）
+
+    落後數委派 `check-parallel-actor.sh`（它自己 fetch + 算 behind + 發讀取層警告），
+    本檔不重寫 git 邏輯（MANIFESTO §指標 over 複寫 / REFLEXES #17）。
+    """
     chunks = []
+    meta = {"parallel_status": None, "behind": None}
     for cmd in (["bash", "scripts/tools/consciousness-snapshot.sh"],
                 ["bash", "scripts/tools/routine-status.sh"],
                 ["bash", "scripts/tools/inbox-signal.sh"],
-                ["python3", "scripts/tools/observer-presence.py"]):
+                ["python3", "scripts/tools/observer-presence.py"],
+                ["bash", "scripts/tools/lib/check-parallel-actor.sh"]):
+        is_parallel = cmd[-1].endswith("check-parallel-actor.sh")
         try:
             r = subprocess.run(cmd, cwd=REPO, capture_output=True, text=True, timeout=60)
-            chunks.append(r.stdout.rstrip() or f"⚠️ {cmd[1]} 無輸出（rc={r.returncode}）")
+            out = r.stdout.rstrip() or f"⚠️ {cmd[1]} 無輸出（rc={r.returncode}）"
         except Exception as e:  # noqa: BLE001 — 委派層任何失敗都要現形
-            chunks.append(f"⚠️ {cmd[1]} 執行失敗：{e}")
-    r = subprocess.run(["git", "log", "--since=48 hours ago", "--pretty=format:%h %ai %s"],
-                       cwd=REPO, capture_output=True, text=True)
-    chunks.append("🕐 過去 48hr commits：\n" + (r.stdout.strip() or "（無）"))
-    return "\n\n".join(chunks)
+            out = f"⚠️ {cmd[-1]} 執行失敗：{e}"
+        chunks.append(out)
+        if is_parallel:
+            m = re.search(r"PARALLEL_CHECK:\s*(\S+)", out)
+            if m:
+                meta["parallel_status"] = m.group(1)
+                b = re.search(r"origin 領先 (\d+) 個 commit", out)
+                meta["behind"] = int(b.group(1)) if b else 0
+
+    def log48(ref=None):
+        cmd = ["git", "log"] + ([ref] if ref else []) + \
+              ["--since=48 hours ago", "--pretty=format:%h %ai %s"]
+        r = subprocess.run(cmd, cwd=REPO, capture_output=True, text=True)
+        return r.stdout.strip() or "（無）"
+
+    # 「48hr 無 commit」在落後的工作樹上是假訊號而非安靜（REFLEXES #67 子規則「工作樹本身可以是過期快照」，
+    # 2026-09-09 opentwbench 第四例）。落後時同時給 origin/main 的真實現況，
+    # 並把兩段各自標明讀的是哪棵樹——不讓讀者以為那個「（無）」是世界安靜。
+    behind = meta["behind"]
+    if behind:
+        chunks.append(
+            f"🌲 工作樹落後 origin/main {behind} 個 commit —— 「本機 HEAD」那段是 {behind} 個 "
+            f"commit 前的世界。本機 git grep / cat / ls / node_modules 同時失真，"
+            f"對賬事實請改用 `git show origin/main:<path>` 或先 git pull。\n\n"
+            f"🕐 過去 48hr commits（origin/main，真實現況）：\n{log48('origin/main')}\n\n"
+            f"🕐 過去 48hr commits（本機 HEAD，落後 {behind}）：\n{log48()}")
+    elif behind == 0:
+        chunks.append(f"🕐 過去 48hr commits（本機 HEAD 與 origin/main 同步）：\n{log48()}")
+    else:
+        chunks.append(
+            "⚠️ 工作樹新鮮度判不出來（check-parallel-actor 沒吐 PARALLEL_CHECK 行）——"
+            f"下面這段可能讀自一棵過期的樹：\n🕐 過去 48hr commits（本機 HEAD）：\n{log48()}")
+    return "\n\n".join(chunks), meta
 
 
 # ---------------------------------------------------------------- selftest
@@ -247,8 +287,10 @@ def build(rows_n):
     dia_rows, dia_total, dia_newest = newest_rows(dia_lines, rows_n)
     handoff_text, handoff_meta = sec_handoff()
     top5_text, top5 = sec_reflexes_top5(ref_lines)
+    gt_text, gt_meta = sec_groundtruth()
 
     sections = {
+        "groundtruth": gt_text,
         "manifesto-core": sec_manifesto_core(man_lines),
         "reflexes-index": sec_reflexes_index(ref_lines),
         "reflexes-top5": top5_text,
@@ -301,6 +343,21 @@ def build(rows_n):
     check(len(mem_rows) == min(rows_n, mem_total) and len(dia_rows) == min(rows_n, dia_total),
           f"列數足額：memory {len(mem_rows)}/{mem_total}、diary {len(dia_rows)}/{dia_total}",
           f"列數短少：memory {len(mem_rows)} / diary {len(dia_rows)}（要求 {rows_n}）")
+    # 工作樹新鮮度（2026-09-09 opentwbench）：REFLEXES #67 子規則「工作樹本身可以是過期
+    # 快照」vc=4 的修法落地。訊號本來就存在（check-parallel-actor 的 REMOTE_AHEAD），但不在
+    # 甦醒必經路徑上——第 1-3 例都是當班自己想到才跑，第 4 例是 groundtruth 印「48hr 無
+    # commit」而本機落後 249 個 commit。掛進 selftest 後，落後即 ⚠️，BECOME §1.3 要求
+    # 甦醒第一句話說出來，不再靠當班臨時警覺。
+    behind, pstat = gt_meta["behind"], gt_meta["parallel_status"] or "UNKNOWN"
+    if behind is None:
+        check(False, "", "工作樹新鮮度判不出來（check-parallel-actor 沒吐 PARALLEL_CHECK "
+                         "行）——不知道本機是不是過期快照，動 git 前手動跑一次那支")
+    else:
+        check(behind == 0,
+              f"工作樹與 origin/main 同步（parallel-check: {pstat}）",
+              f"⛔ 工作樹落後 origin/main {behind} 個 commit——本檔的 git log 與本機所有 "
+              f"grep / cat / ls / node_modules 都是 {behind} 個 commit 前的快照，"
+              f"「48hr 無 commit」是假訊號不是安靜。動手前先 git pull（REFLEXES #67 子規則：工作樹本身可以是過期快照）")
 
     return sections, checks
 
@@ -347,7 +404,7 @@ def main():
         for name in ALL_SECTIONS:
             if name == "selftest" or name not in wanted:
                 continue
-            body = sec_groundtruth() if name == "groundtruth" else sections.get(name)
+            body = sections.get(name)
             tax[name] = len((body or "").encode("utf-8"))
             print(render_block(name, body))
         if "selftest" in wanted:
@@ -364,7 +421,7 @@ def main():
     for name in ALL_SECTIONS:
         if name == "selftest":
             continue
-        body = sec_groundtruth() if name == "groundtruth" else sections.get(name)
+        body = sections.get(name)
         tax[name] = len((body or "").encode("utf-8"))
         payload += render_block(name, body)
     payload += "\n".join(selftest_lines(checks, tax)) + "\n"
