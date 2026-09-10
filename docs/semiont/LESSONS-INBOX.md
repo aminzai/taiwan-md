@@ -332,6 +332,34 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-10 twmd-maintainer-am — pipeline-requeues-what-a-contributor-is-already-translating：產線的待翻佇列看不見開著的投稿 PR，於是跟投稿者搶同一篇
+
+- **pattern**: `pipeline-requeues-what-a-contributor-is-already-translating`
+- **原則**：babel 的待翻佇列完全由 `status.py` 對 `knowledge/` 算出來——某語言缺這篇就是 `missing`，zh 改過就是 `stale`。**投稿者正在翻的那篇，在這個視角裡跟沒人碰過的一模一樣**：PR 還開著，檔案還沒進 main，所以它永遠是 missing。`grep -rln "gh pr list\|/pulls" scripts/tools/lang-sync/` 零命中——整條產線沒有任何一處知道 open PR 存在。
+- **觸發（同一天兩種形狀，vc=2）**：
+  1. **搶著做** —— tboydar 的 PR #1697（`de/People/mona-rudao.md`）2026-09-09 01:05 開，babel 同日 14:15 把同一篇翻完推上 main，造成 add/add 衝突。兩版都過全部硬閘，但投稿者那版 ratio 2.83、babel 那版 2.08 THIN，且 babel 把「教育部國家教育研究院」譯成 `National Taiwan University Department of Education`（機構替換型幻覺）。**衝突讓它現形了，所以接得住**：取投稿者版本、rebase 進對方分支、CI 轉綠、`gh pr merge` 拿回 MERGED。
+  2. **覆蓋掉已經做完的** —— `de/People/steve-chen-youtube-cofounder.md` 投稿者 09-01 交，zh 09-04 只改了一條腳註出處，babel 09-08 判 stale 後重譯，**改掉 146 行裡的 73 行**，並把 YouTube 賣價從投稿者寫對的 `1,65 Milliarden` 改成 `165 Millionen`（差十倍，六處）。這一次**沒有衝突，所以沒有任何東西現形**，靜默躺在 main 上兩天。今天是因為查第一種形狀才順手撞到。
+- **兩種形狀的不對稱才是重點**：搶著做會撞出衝突，衝突會叫；覆蓋已完成的不會撞任何東西，它看起來就是產線正常工作。**會叫的那種比較安全**。而 diff-patch 機制（「3% 改動不重翻 100%」，v1.15.0 ship）本來就該讓一條腳註的改動不要觸發全篇重譯——它沒有生效在這條路徑上，為什麼，本輪沒查。
+- **順帶驗證 REFLEXES #69 的反面**：babel 那版同時**修對**了投稿者兩件事（`subcategory` 被譯成德文 → 改回 `科技與創業`、`author` passthrough）。所以這不是「機器不如人」，是**兩邊各有對的地方而沒有東西在合併它們**，預設是後寫的贏。
+- **可能層級**：REFLEXES #82（proxy signal）家族——`status.py` 拿「檔案在不在 `knowledge/`」當「有沒有人在做這件事」的替身。也接 #38 混維度：`missing` 同時承載「沒人做過」與「有人正在做、還沒 merge」兩種根本不同的狀態，處置相反。
+- **候選修法**：(a) `prepare-batch.py` 取 target 後過一道 `gh pr list --state open --json files`，命中的 slug 移出本批（成本低，擋住第一種形狀）；(b) 第二種形狀要的是另一件事——**重譯前先問這份譯文是誰寫的**：`translatedAt` 對應的 commit 作者不是 bot 就降級成「提議」而不是直接覆蓋，或至少在 commit 訊息裡講明「覆蓋了 <contributor> 的譯文」讓它在 git log 裡叫一聲；(c) 查 diff-patch 為什麼沒接住一條腳註的改動。三條都動產線，且 (b) 涉及「機器可不可以覆蓋人的貢獻」這個判斷，已升 OBSERVER-QUEUE。
+- **verification_count**: 2
+- **severity**: structural
+- **相關**：[REFLEXES #82](REFLEXES.md) / [REFLEXES #38](REFLEXES.md) / [REFLEXES #69](REFLEXES.md) / LESSONS `close-as-ship-breaks-merged-contract`（2026-07-23，同樣是「投稿者的貢獻在流程裡消失」的另一種形狀）/ commit `ba6e8ea41`（賣價修正）/ PR #1697
+
+### 2026-09-10 twmd-maintainer-am — a-tool-that-catches-wrong-numbers-must-not-report-wrong-numbers：新檢查器三輪校準後仍只有兩成真陽性，所以它量出來的數字一個都沒敢用
+
+- **pattern**: `new-detector-number-is-unreportable-until-sampled`
+- **原則**：造一支新檢查器最容易的部分是跑出一個大數字，最難的部分是知道那個數字能不能講。本輪為了補 `numeral-magnitude-check.py` 自述的「抓不到換算錯」缺口造了 `numeral-conversion-check.py`，三輪校準後全庫 1,938 處 / 1,026 檔——**20 筆分層抽驗只有 4 筆能確認是真的**。那個數字沒有進任何報告、任何佇列、任何 commit 訊息，因為它是錯的。
+- **三輪各修掉一個家族，每一個都只有真實產出才看得見**：(1) 逗號小數——`1,65 Milliarden`（正確）被讀成 165×10⁹，而那正是同一個早上我自己剛修好的那一行，負控制抓到它；(2) `mil` 是 `millones`／`milhões` 的前綴——es 395 + pt 366 檔幾乎整批假陽性，佔第一次 4,164 處的將近一半；(3) 歐陸千分位點的歧義。**中間還走錯一次**：為 (2) 加右側硬詞邊界，結果量級詞會變格變複數（`Millionen`／`миллиардов`），連正控制都被擋掉——**修法本身也要過正負控制**。
+- **剩下四個家族沒修**（frontmatter 的中文 rationale 欄被當正文掃、外語量級詞洩漏破壞最長匹配、法文空白千分位、有效數字巧合碰撞），最後一個是架構極限不是 bug：本支比對的是兩份文件的數字集合，不是同一句話裡的同一個量。
+- **為什麼這條值得記成教訓而不只是工具的 TODO**：REFLEXES #66 說閾值要用真實產出校準，#65 說 awareness instrument 要 cross-verify ground truth。這輪是兩條合起來的完整形狀——**校準三輪不等於校準完成，真正的停止條件是抽驗真陽性率，而不是「我又修掉一個家族」的次數**。我修了三輪之後很想把 1,938 寫進佇列，它看起來像一個有價值的發現；抽驗把它擋下來了。既有 LESSONS `ratio-self-consistency-masks-magnitude-error`（2026-08-15）講的是比率自己算得通不代表被除的數對，本條是它在「新偵測器的產出量」這個載體上的形狀。
+- **可能層級**：REFLEXES #66 的子規則候選——「新偵測器在抽驗真陽性率拿出來之前，它的總數不是可引用的數字」。
+- **已做**：工具 commit `182bf86f3`，**刻意不接任何 gate**，四個未修家族與接手建議寫進 docstring。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[REFLEXES #66](REFLEXES.md) / [REFLEXES #65](REFLEXES.md) / [REFLEXES #31](REFLEXES.md) / LESSONS `ratio-self-consistency-masks-magnitude-error`（2026-08-15）/ `numeral-magnitude-check.py` docstring（它自述的缺口是本支誕生的理由）
+
 ### 2026-09-09 babel-vortex — every-gate-measures-form-none-measures-the-language：整套翻譯閘門沒有一道在問「這是不是目標語言」
 
 - **pattern**: `every-gate-measures-form-none-measures-the-language`
