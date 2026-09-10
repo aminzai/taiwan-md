@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T04:08:35+08:00",
-    "zhCommitHead": "f3ee8c075",
+    "lastUpdated": "2026-09-11T04:17:23+08:00",
+    "zhCommitHead": "2e6222875",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 842,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 182,
+        "missing": 180,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 841,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 185,
+        "missing": 184,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 825,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 198,
+        "missing": 196,
         "orphan": 0
       },
       "vi": {
@@ -35228,7 +35228,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-11T04:08:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-passport.md",
@@ -35518,7 +35529,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/utility-poles-and-transformer-boxes.md",
+          "translatedFrom": "Lifestyle/電線桿與變電箱.md",
+          "sourceCommitSha": "dd1ef85cd",
+          "sourceContentHash": "sha256:3512b2f6ca0a3376",
+          "sourceBodyHash": "sha256:b926dcc386105146",
+          "translatedAt": "2026-09-11T03:48:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/utility-poles-and-transformer-boxes.md",
@@ -35541,8 +35563,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-10T20:24:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e622287",
+          "translationLastModified": "2026-09-11T04:08:35+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -104904,7 +104926,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/wei-tsung-cheng-comic-artist.md",
+          "translatedFrom": "People/韋宗成.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:2f3feb8df34cdc45",
+          "sourceBodyHash": "sha256:3e236311319150f0",
+          "translatedAt": "2026-09-11T04:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -118213,8 +118246,8 @@
           "sourceContentHash": "sha256:883e6019ba168229",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T19:53:23.287864+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e622287",
+          "translationLastModified": "2026-09-11T04:08:35+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123084,8 +123117,8 @@
           "sourceContentHash": "sha256:f0c13327384ebe2e",
           "sourceBodyHash": "sha256:ff4f41549ee43a1c",
           "translatedAt": "2026-09-10T20:24:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e622287",
+          "translationLastModified": "2026-09-11T04:08:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -125263,7 +125296,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/1935-hsinchu-taichung-earthquake.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-11T04:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -126633,7 +126677,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/shihmen-reservoir.md",
+          "translatedFrom": "History/石門水庫.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:d8b88408a353bacc",
+          "sourceBodyHash": "sha256:6772a9de43938945",
+          "translatedAt": "2026-09-11T04:08:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -149834,8 +149889,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-10T20:24:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e622287",
+          "translationLastModified": "2026-09-11T04:08:35+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
