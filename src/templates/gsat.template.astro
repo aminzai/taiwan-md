@@ -134,7 +134,13 @@ type GsatCopy = {
 // CEEC 視覺語彙：學測卡酒紅 #9d3d45 為主色；輔以英語聽力卡藍 #2196d0、分科卡靛紫 #5b4aa0；導覽列深栗 #6d3226；連結 hover 紅 #cf4747
 const accents = ['#9d3d45', '#2196d0', '#5b4aa0', '#ba451a'];
 
-const gsatCopy: Record<'zh-TW' | 'en' | 'ja' | 'ko' | 'fr' | 'es', GsatCopy> = {
+// 目前只有 zh-TW 的文案存在（十二語 `src/pages/{lang}/exams.astro` 與 UI 字串
+// 是 ARTICLE-INBOX 登記的後續工作）。所以型別寫 Partial + 取值時 fallback 回
+// zh-TW，而不是宣告一個「六語都有」然後只放一語——那個宣告讓 `copy` 退化成
+// any，13 個 ts(7006)/ts(7053) 全是它的下游（2026-09-10 merge 後 main 轉紅）。
+// 語言鍵跟著 getLangFromUrl 的回傳型別走，加新語言不用回來改這一行。
+type GsatLang = ReturnType<typeof getLangFromUrl>;
+const gsatCopy: Partial<Record<GsatLang, GsatCopy>> = {
   'zh-TW': {
     meta: {
       title: '學測 · 大學學科能力測驗 · Taiwan.md',
@@ -1051,7 +1057,7 @@ const gsatCopy: Record<'zh-TW' | 'en' | 'ja' | 'ko' | 'fr' | 'es', GsatCopy> = {
 };
 
 const lang = getLangFromUrl(Astro.url);
-const copy = gsatCopy[lang] ?? gsatCopy['zh-TW'];
+const copy: GsatCopy = gsatCopy[lang] ?? (gsatCopy['zh-TW'] as GsatCopy);
 const pageTitle = copy.meta.title;
 const pageDescription = copy.meta.description;
 
