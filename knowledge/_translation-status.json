@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T02:35:00+08:00",
-    "zhCommitHead": "2b4d3ab0f",
+    "lastUpdated": "2026-09-11T02:36:56+08:00",
+    "zhCommitHead": "f52dc247b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 200,
+        "missing": 199,
         "orphan": 0
       },
       "fr": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 50,
         "metadata_stale": 14,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "ru": {
@@ -35538,8 +35538,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-10T20:25:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52dc247",
+          "translationLastModified": "2026-09-11T02:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -55897,8 +55897,8 @@
           "sourceContentHash": "sha256:8a8e0217696ef948",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T17:58:47.739236+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52dc247",
+          "translationLastModified": "2026-09-11T02:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -125281,8 +125281,8 @@
           "sourceContentHash": "sha256:84a9ef52691dd2f8",
           "sourceBodyHash": "sha256:68c0d956335b9413",
           "translatedAt": "2026-09-10T20:25:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52dc247",
+          "translationLastModified": "2026-09-11T02:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -132842,7 +132842,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/1959-august-7-flood.md",
+          "translatedFrom": "History/87水災.md",
+          "sourceCommitSha": "a007d05a2",
+          "sourceContentHash": "sha256:ba3d35e713460c50",
+          "sourceBodyHash": "sha256:d7642501b86ebb9c",
+          "translatedAt": "2026-09-10T20:25:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/1959-august-7-flood.md",
@@ -139125,7 +139136,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-11T02:28:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -139134,7 +139156,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-11T02:28:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -149138,8 +149171,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-10T20:25:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52dc247",
+          "translationLastModified": "2026-09-11T02:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -154661,8 +154694,8 @@
           "sourceContentHash": "sha256:ed1755ea004ce07b",
           "sourceBodyHash": "sha256:5143620e3afad434",
           "translatedAt": "2026-09-10T20:25:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52dc247",
+          "translationLastModified": "2026-09-11T02:35:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
