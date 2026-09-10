@@ -119,6 +119,12 @@ PYEOF
   # 在那些語言裡就是人民幣。全庫 1,180 處 / 288 檔（OBSERVER-QUEUE #59）。
   python3 scripts/tools/lang-sync/currency-identity-check.py "$f" >/dev/null 2>&1 \
     || reasons+=("台幣寫成人民幣")
+  # 第 14 道（2026-09-10）：把某個人寫成另一個人。fr〈施振榮〉全篇 119 處把他叫成
+  # `Shih Ming-te`／`Shih Mingte`——那是施明德。十三道閘全綠，因為每一道問的都是
+  # 「這個字串合法嗎」，沒有一道問「這個名字是這個人嗎」。
+  # 只擋張冠李戴（拼寫 slug 化之後等於**另一個人的網址**），少數形拼法差異走 review 桶。
+  python3 scripts/tools/lang-sync/name-consistency-check.py "$f" >/dev/null 2>&1 \
+    || reasons+=("人名張冠李戴")
 
   if [ ${#reasons[@]} -gt 0 ]; then
     fail=$((fail+1)); failed_list+=("$f: ${reasons[*]}")

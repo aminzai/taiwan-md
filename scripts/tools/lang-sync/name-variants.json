@@ -1,0 +1,1830 @@
+{
+  "三毛": {
+    "forms": {
+      "San Mao": ["en", "fr", "id"],
+      "Sanmao": ["de", "es", "pt"],
+      "Tam Mao": ["vi"]
+    },
+    "slug": "People/san-mao",
+    "zh_given": null
+  },
+  "伍佰": {
+    "forms": {
+      "Wu Bai": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/wu-bai",
+    "zh_given": null
+  },
+  "何飛鵬": {
+    "forms": {
+      "He Feipeng": ["de", "es"],
+      "Ho Fei-peng": ["fr", "id", "pt"]
+    },
+    "slug": "People/he-feipeng",
+    "zh_given": null
+  },
+  "侯孝賢": {
+    "forms": {
+      "Hou Hsiao-hsien": ["de", "en", "es", "fr", "pt"]
+    },
+    "slug": "People/hou-hsiao-hsien",
+    "zh_given": null
+  },
+  "傅崐萁": {
+    "forms": {
+      "Fu Kun-chi": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/fu-kun-chi",
+    "zh_given": null
+  },
+  "八炯": {
+    "forms": {
+      "Ba Jeng": ["vi"],
+      "Pa Chiung": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/pa-chiung-political-youtuber",
+    "zh_given": null
+  },
+  "八田與一": {
+    "forms": {
+      "Hatta Yoichi": ["fr", "pt"],
+      "Yichi Hatta": ["id"],
+      "Yoichi Hatta": ["de", "en", "es"]
+    },
+    "slug": "People/hatta-yoichi",
+    "zh_given": null
+  },
+  "凹與山": {
+    "forms": {
+      "Ao dan Gunung": ["id"]
+    },
+    "slug": "People/ao-and-mountain-band",
+    "zh_given": "Our Shame"
+  },
+  "劉安婷": {
+    "forms": {
+      "Liu An-Ting": ["fr"],
+      "Liu An-ting": ["en", "es", "pt"]
+    },
+    "slug": "People/liu-an-ting-teach-for-taiwan",
+    "zh_given": null
+  },
+  "劉德音": {
+    "forms": {
+      "Mark Liu": ["en", "es", "fr", "id"]
+    },
+    "slug": "People/mark-liu",
+    "zh_given": null
+  },
+  "劉銘傳": {
+    "forms": {
+      "Liu Ming-chuan": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/liu-mingchuan",
+    "zh_given": null
+  },
+  "區秀詒": {
+    "forms": {
+      "Au Sow Yee": ["en", "es", "fr", "pt", "ru", "vi"]
+    },
+    "slug": "People/au-sow-yee",
+    "zh_given": null
+  },
+  "卓榮泰": {
+    "forms": {
+      "Cho Jung-tai": ["en", "es", "fr", "pt"],
+      "Zhao Rongtai": ["vi"]
+    },
+    "slug": "People/cho-jung-tai",
+    "zh_given": null
+  },
+  "南珉貞": {
+    "forms": {
+      "Nam Min-jeong": ["de", "id", "pt"],
+      "Nam Min-jung": ["en", "es", "fr"],
+      "Nam Minh Trinh": ["vi"]
+    },
+    "slug": "People/nam-min-jung",
+    "zh_given": null
+  },
+  "史明": {
+    "forms": {
+      "Su Beng": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/su-beng",
+    "zh_given": null
+  },
+  "史溫侯": {
+    "forms": {
+      "Robert Swinhoe": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/robert-swinhoe-naturalist",
+    "zh_given": null
+  },
+  "吳哲宇": {
+    "forms": {
+      "Che-Yu Wu": ["en", "es"]
+    },
+    "slug": "People/che-yu-wu",
+    "zh_given": "Che-Yu Wu"
+  },
+  "吳大猷": {
+    "forms": {
+      "Tai Yu Wu": ["es"],
+      "Wu Da-You": ["fr"],
+      "Wu Ta-You": ["id", "pt"],
+      "Wu Ta-you": ["en"],
+      "Wu Ta-yu": ["de"]
+    },
+    "slug": "People/tai-yu-wu",
+    "zh_given": null
+  },
+  "吳寶春": {
+    "forms": {
+      "Wu Pao-chun": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/wu-bao-chun",
+    "zh_given": null
+  },
+  "吳明益": {
+    "forms": {
+      "Wu Ming-yi": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/wu-ming-yi",
+    "zh_given": null
+  },
+  "呂冠緯": {
+    "forms": {
+      "Lu Kuan-wei": ["en", "fr", "pt"]
+    },
+    "slug": "People/lu-guan-wei-junyiacademy-founder",
+    "zh_given": null
+  },
+  "周天成": {
+    "forms": {
+      "Chou Tien-chen": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chou-tien-chen-badminton",
+    "zh_given": null
+  },
+  "周子瑜": {
+    "forms": {
+      "Chou Tzu-yu": ["de", "fr"],
+      "Tzuyu": ["en", "es", "id", "pt"]
+    },
+    "slug": "People/tzuyu",
+    "zh_given": null
+  },
+  "周杰倫": {
+    "forms": {
+      "Jay Chou": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/jay-chou",
+    "zh_given": null
+  },
+  "唐鳳": {
+    "forms": {
+      "Audrey Tang": ["en", "es", "fr", "vi"]
+    },
+    "slug": "People/audrey-tang",
+    "zh_given": "Audrey Tang"
+  },
+  "嚴長壽": {
+    "forms": {
+      "Stanley Yen": ["en", "es"],
+      "Yan Chang-shou": ["id", "pt"],
+      "Yen Chang-shou": ["fr"]
+    },
+    "slug": "People/stanley-yen",
+    "zh_given": null
+  },
+  "壞特": {
+    "forms": {
+      "Whyte": ["ko"]
+    },
+    "slug": "People/huai-te-indie-singer",
+    "zh_given": null
+  },
+  "大支": {
+    "forms": {
+      "Dwagie": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/dwagie",
+    "zh_given": null
+  },
+  "妮妃雅": {
+    "forms": {},
+    "slug": "People/nymphia-wind-drag-queen",
+    "zh_given": "Nymphia Wind"
+  },
+  "季麟連": {
+    "forms": {
+      "Chi Lin-lien": ["fr"],
+      "Ji Lin-lian": ["en", "id", "pt"],
+      "Ji Linlian": ["es"]
+    },
+    "slug": "People/ji-lin-lian",
+    "zh_given": null
+  },
+  "孫燕姿": {
+    "forms": {
+      "Stefanie Sun": ["de", "en", "es", "fr", "id", "pt"],
+      "Sun Yanzi": ["vi"]
+    },
+    "slug": "People/stefanie-sun",
+    "zh_given": null
+  },
+  "孫運璿": {
+    "forms": {
+      "Sun Yun-suan": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/sun-yun-suan",
+    "zh_given": null
+  },
+  "安芝儇": {
+    "forms": {
+      "Ahn Ji-hyun": ["de", "en", "es", "fr", "vi"],
+      "An Chi-hyun": ["pt"],
+      "An Ji-hyun": ["id"]
+    },
+    "slug": "People/ahn-ji-hyun",
+    "zh_given": null
+  },
+  "尹衍樑": {
+    "forms": {
+      "Samuel Yin": ["en", "es", "fr"],
+      "Yin Yen-liang": ["id", "pt"]
+    },
+    "slug": "People/samuel-yin-yan-liang",
+    "zh_given": null
+  },
+  "席慕蓉": {
+    "forms": {
+      "Xi Murong": ["de", "en", "fr", "id", "pt"],
+      "Ximurong": ["es"]
+    },
+    "slug": "People/ximurong",
+    "zh_given": null
+  },
+  "幾米": {
+    "forms": {
+      "Jimmy Liao": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/jimmy-liao",
+    "zh_given": null
+  },
+  "廖鴻基": {
+    "forms": {
+      "Liao Hung-chi": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/liao-hung-chi-ocean-writer",
+    "zh_given": null
+  },
+  "張志祺": {
+    "forms": {
+      "Chang Chih-chi": ["en", "es", "fr", "pt"],
+      "Zhang Zhiqi": ["id"]
+    },
+    "slug": "People/shasha77-chang-chih-chi",
+    "zh_given": null
+  },
+  "張忠謀": {
+    "forms": {
+      "Morris Chang": ["de", "en", "id", "pt", "vi"]
+    },
+    "slug": "People/tsmc-morris-chang",
+    "zh_given": "Morris Chang"
+  },
+  "張惠妹": {
+    "forms": {
+      "A-mei": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/a-mei",
+    "zh_given": null
+  },
+  "張明正": {
+    "forms": {
+      "Steve Chang": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/steve-chang",
+    "zh_given": null
+  },
+  "張艾嘉": {
+    "forms": {
+      "Sylvia Chang": ["de", "en", "es", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/sylvia-chang",
+    "zh_given": null
+  },
+  "張雨生": {
+    "forms": {
+      "Chang Yu-sheng": ["de", "en", "es", "fr", "pt"]
+    },
+    "slug": "People/chang-yu-sheng-singer",
+    "zh_given": null
+  },
+  "彎彎": {
+    "forms": {
+      "Wan-wan": ["pt"],
+      "Wanwan": ["en", "es", "fr"]
+    },
+    "slug": "People/wanwan-taiwan-blog-cartoonist",
+    "zh_given": null
+  },
+  "徐佳瑩": {
+    "forms": {
+      "LaLa Hsu": ["en", "id"],
+      "Lala Hsu": ["es", "fr", "pt"]
+    },
+    "slug": "People/lala-hsu-singer",
+    "zh_given": null
+  },
+  "徐巧芯": {
+    "forms": {
+      "Hsu Chiao-hsin": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/hsu-chiao-hsin",
+    "zh_given": null
+  },
+  "徐熙媛": {
+    "forms": {
+      "Barbie Hsu": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/barbie-hsu-actress",
+    "zh_given": null
+  },
+  "戴資穎": {
+    "forms": {
+      "Tai Tzu-ying": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/tai-tzu-ying",
+    "zh_given": null
+  },
+  "方序中": {
+    "forms": {
+      "Fang Hsu-chung": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/fang-hsu-chung",
+    "zh_given": null
+  },
+  "施振榮": {
+    "forms": {
+      "Shi Zhen-rong": ["es"],
+      "Stan Shih": ["en", "fr", "pt", "vi"]
+    },
+    "slug": "People/stan-shih",
+    "zh_given": null
+  },
+  "施明德": {
+    "forms": {
+      "Shih Ming-te": ["en"],
+      "Shih Ming-teh": ["de", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/shih-ming-te",
+    "zh_given": null
+  },
+  "明華園": {
+    "forms": {
+      "Ming Hua Yuan": ["en", "es", "fr"],
+      "Ming Hwa Yuan": ["de", "id", "pt"]
+    },
+    "slug": "People/ming-hua-yuan",
+    "zh_given": null
+  },
+  "曹興誠": {
+    "forms": {
+      "Cao Xingcheng": ["pt"],
+      "Morris Chang vs. Chang Hsin-cheng": ["en"],
+      "Robert Tsao": ["fr"],
+      "Tsao Hsing-cheng": ["es", "id"]
+    },
+    "slug": "People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
+    "zh_given": null
+  },
+  "曾博恩": {
+    "forms": {
+      "Bernard Tseng": ["vi"],
+      "Brian Tseng": ["en"],
+      "Tseng Po-en": ["es", "fr", "pt"]
+    },
+    "slug": "People/bernard-tseng",
+    "zh_given": null
+  },
+  "曾雅妮": {
+    "forms": {
+      "Tseng Ya-ni": ["fr", "id"],
+      "Yani Tseng": ["en", "es", "pt"]
+    },
+    "slug": "People/yani-tseng",
+    "zh_given": null
+  },
+  "有感筆電": {
+    "forms": {
+      "Daptoper": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/daptoper-roblox-youtuber",
+    "zh_given": null
+  },
+  "朱一貴": {
+    "forms": {
+      "King Duck Zhu Yigui": ["en"],
+      "Raja Bebek Zhu Yigui": ["id"]
+    },
+    "slug": "People/chu-yi-kuei-qing-rebel",
+    "zh_given": null
+  },
+  "朱天文": {
+    "forms": {
+      "Chu Tianwen": ["es"],
+      "Chu Tien-wen": ["de", "en", "fr", "id", "pt"]
+    },
+    "slug": "People/chu-tien-wen",
+    "zh_given": null
+  },
+  "朱宗慶": {
+    "forms": {
+      "Chu Tsung-ching": ["id"],
+      "Ju Tzong-ching": ["pt"],
+      "Zhu Zong-qing": ["en"],
+      "Zhu Zongqing": ["es"]
+    },
+    "slug": "People/zhu-zong-qing",
+    "zh_given": null
+  },
+  "朱經武": {
+    "forms": {
+      "Chu Ching-wu": ["es", "fr"],
+      "Paul Ching-Wu Chu": ["en"],
+      "Paul Chu": ["id"]
+    },
+    "slug": "People/chu-ching-wu",
+    "zh_given": null
+  },
+  "朴旻曙": {
+    "forms": {
+      "Park Min-seo": ["de", "en", "es", "fr", "pt"]
+    },
+    "slug": "People/park-min-seo",
+    "zh_given": null
+  },
+  "朴星垠": {
+    "forms": {
+      "Park Seong-eun": ["de"],
+      "Park Seung-eun": ["id", "pt"],
+      "Park Sung-eun": ["vi"]
+    },
+    "slug": "People/park-sung-eun-actress",
+    "zh_given": null
+  },
+  "李仙得": {
+    "forms": {
+      "Charles Le Gendre": ["en", "es", "id", "pt"],
+      "Le Gendre": ["fr"],
+      "Li Xian De": ["vi"]
+    },
+    "slug": "People/charles-le-gendre",
+    "zh_given": null
+  },
+  "李國修": {
+    "forms": {
+      "Lee Kuo-hsiu": ["pt"],
+      "Li Guoxiu": ["en", "es", "fr", "id"]
+    },
+    "slug": "People/li-guoxiu",
+    "zh_given": null
+  },
+  "李多慧": {
+    "forms": {
+      "Lee Da-hye": ["de", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/lee-da-hye",
+    "zh_given": null
+  },
+  "李安": {
+    "forms": {
+      "Ang Lee": ["en", "es", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/ang-lee",
+    "zh_given": null
+  },
+  "李宗盛": {
+    "forms": {
+      "Jonathan Lee": ["en", "es", "pt"],
+      "Lee Tsung-sheng": ["fr"]
+    },
+    "slug": "People/li-zongsheng",
+    "zh_given": null
+  },
+  "李昂": {
+    "forms": {
+      "Li Ang": ["de", "en", "fr", "id", "pt"],
+      "Li-ang": ["es"]
+    },
+    "slug": "People/li-ang",
+    "zh_given": null
+  },
+  "李昌鈺": {
+    "forms": {
+      "Henry Lee": ["en", "es", "pt"]
+    },
+    "slug": "People/henry-lee-forensic",
+    "zh_given": null
+  },
+  "李晧禎": {
+    "forms": {
+      "Lee Ho-chen": ["id"],
+      "Lee Ho-jung": ["de", "en", "es", "fr"],
+      "Li Hao-chen": ["pt"]
+    },
+    "slug": "People/lee-ho-jung",
+    "zh_given": null
+  },
+  "李智凱": {
+    "forms": {
+      "Lee Chih-kai": ["id", "pt"],
+      "Li Chih-kai": ["en", "es", "fr"]
+    },
+    "slug": "People/li-chih-kai",
+    "zh_given": null
+  },
+  "李梅樹": {
+    "forms": {
+      "Li Mei-shu": ["de", "en", "id", "pt"]
+    },
+    "slug": "People/li-mei-shu",
+    "zh_given": null
+  },
+  "李洋": {
+    "forms": {
+      "Lee Yang": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/lee-yang-badminton",
+    "zh_given": null
+  },
+  "李珠珢": {
+    "forms": {
+      "Lee Ju-eun": ["de"],
+      "Lee Ju-yeon": ["id", "pt"]
+    },
+    "slug": "People/lee-ju-eun",
+    "zh_given": null
+  },
+  "李登輝": {
+    "forms": {
+      "Lee Teng-hui": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/lee-teng-hui",
+    "zh_given": null
+  },
+  "李遠哲": {
+    "forms": {
+      "Lee Yuan-tseh": ["id", "pt"],
+      "Li Yuan-che": ["de", "en", "es", "fr"]
+    },
+    "slug": "People/lee-yuan-tseh",
+    "zh_given": null
+  },
+  "李雅英": {
+    "forms": {
+      "Lee A-yeong": ["pt"],
+      "Lee Ah-young": ["de", "en", "es", "fr"],
+      "Lee Ya-ying": ["id"]
+    },
+    "slug": "People/lee-ah-young",
+    "zh_given": null
+  },
+  "杜奕瑾": {
+    "forms": {
+      "Du Yi-Jin": ["fr"],
+      "Ethan Tu": ["es"]
+    },
+    "slug": "People/ethan-tu",
+    "zh_given": null
+  },
+  "杜潘芳格": {
+    "forms": {
+      "Du Pan Fang-ge": ["en", "pt"],
+      "Tu Pan Fang-ke": ["es"]
+    },
+    "slug": "People/tu-pan-fangke",
+    "zh_given": null
+  },
+  "杜聰明": {
+    "forms": {
+      "Du Cong-ming": ["fr"],
+      "Du Congming": ["en", "es", "pt"],
+      "Tu Tsung-ming": ["id"]
+    },
+    "slug": "People/du-congming-founder-of-modern-medicine-in-taiwan",
+    "zh_given": null
+  },
+  "林俊傑": {
+    "forms": {
+      "JJ Lin": ["de", "en", "es", "fr", "id", "ja", "pt", "vi"]
+    },
+    "slug": "People/jj-lin-singaporean-mandopop-king",
+    "zh_given": "JJ Lin"
+  },
+  "林啟維": {
+    "forms": {
+      "Chi-Wei Lin": ["id"],
+      "Lin Chi-Wei": ["en", "es", "fr"],
+      "Lin Chi-wei": ["pt"]
+    },
+    "slug": "People/lin-chi-wei-social-innovator",
+    "zh_given": null
+  },
+  "林宥嘉": {
+    "forms": {
+      "Yoga Lin": ["en", "es", "fr", "vi"]
+    },
+    "slug": "People/yoga-lin",
+    "zh_given": null
+  },
+  "林強": {
+    "forms": {
+      "Lim Giong": ["de", "en", "es", "fr", "id"],
+      "Lin Qiang": ["pt"]
+    },
+    "slug": "People/lim-giong",
+    "zh_given": null
+  },
+  "林懷民": {
+    "forms": {
+      "Lin Hsui-min": ["en"],
+      "Lin Hwai-min": ["de", "fr", "id", "pt"]
+    },
+    "slug": "People/lin-hwai-min",
+    "zh_given": null
+  },
+  "林昶佐": {
+    "forms": {
+      "Freddy Lim": ["de", "en", "es", "fr", "pt", "vi"]
+    },
+    "slug": "People/freddy-lim",
+    "zh_given": null
+  },
+  "林書豪": {
+    "forms": {
+      "Jeremy Lin": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/jeremy-lin",
+    "zh_given": null
+  },
+  "林獻堂": {
+    "forms": {
+      "Lin Hsien-tang": ["de", "en"]
+    },
+    "slug": "People/lin-hsien-tang",
+    "zh_given": null
+  },
+  "林琪兒": {
+    "forms": {
+      "Kjell Lindgren": ["fr"],
+      "Kjell N. Lindgren": ["id"],
+      "Lin Chi-er": ["en"],
+      "Lin Kuei-er": ["pt"],
+      "Lin Qier": ["es"]
+    },
+    "slug": "People/lin-chi-er-astronaut",
+    "zh_given": "Kjell N. Lindgren"
+  },
+  "林百里": {
+    "forms": {
+      "Lin Bai-Li": ["fr"],
+      "Lin Bai-li": ["de", "en", "es", "pt"],
+      "Lin Pai-li": ["id"]
+    },
+    "slug": "People/lin-bai-li",
+    "zh_given": null
+  },
+  "林義傑": {
+    "forms": {
+      "Lin Yi-chie": ["fr"],
+      "Lin Yi-chieh": ["en"],
+      "Lin Yi-jie": ["pt"]
+    },
+    "slug": "People/kevin-lin-ultramarathon-desert-pioneer",
+    "zh_given": null
+  },
+  "林義雄": {
+    "forms": {
+      "Lin Yi-hsiung": ["fr", "pt"],
+      "Lin Yih-hsiung": ["es"],
+      "Lin Yixiong": ["en"]
+    },
+    "slug": "People/lin-yi-hsiung-democracy-advocate-tragedy-survivor",
+    "zh_given": null
+  },
+  "林良": {
+    "forms": {
+      "Lin Liang": ["de", "en", "es", "fr", "pt"]
+    },
+    "slug": "People/lin-liang-childrens-literature",
+    "zh_given": null
+  },
+  "林青霞": {
+    "forms": {
+      "Brigitte Lin": ["de", "en", "es", "id"],
+      "Brigitte Lin Ching-hsia": ["fr"],
+      "Lin Ching-hsia": ["pt"]
+    },
+    "slug": "People/brigitte-lin-legendary-actress",
+    "zh_given": null
+  },
+  "柯文哲": {
+    "forms": {
+      "Ko Wen-je": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/ko-wen-je",
+    "zh_given": null
+  },
+  "柯智棠": {
+    "forms": {
+      "Kowen Ko": ["en", "es", "fr", "pt", "vi"]
+    },
+    "slug": "People/ke-zhi-tang-musician",
+    "zh_given": null
+  },
+  "桂綸鎂": {
+    "forms": {
+      "Guei Lun-Mei": ["fr"],
+      "Gwei Lun Mei": ["pt"],
+      "Gwei Lun-Mei": ["en"],
+      "Gwei Lun-mei": ["es", "id"]
+    },
+    "slug": "People/gwei-lun-mei-versatile-taiwanese-actress",
+    "zh_given": null
+  },
+  "楊丞琳": {
+    "forms": {
+      "Rainie Yang": ["en", "es", "fr", "pt", "vi"]
+    },
+    "slug": "People/rainie-yang",
+    "zh_given": null
+  },
+  "楊傳廣": {
+    "forms": {
+      "Yang Chuan-kwang": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/yang-chuan-kwang-asian-iron-man",
+    "zh_given": null
+  },
+  "楊勇緯": {
+    "forms": {
+      "Yang Yung-Wei": ["en"],
+      "Yang Yung-wei": ["de", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/yang-yung-wei-judo-olympic-silver",
+    "zh_given": null
+  },
+  "楊右任": {
+    "forms": {
+      "Yang You-ren": ["en", "es", "fr"],
+      "Yang Yu-jen": ["pt"]
+    },
+    "slug": "People/yang-you-ren-shoes-for-hope-taiwan-youth-hero",
+    "zh_given": null
+  },
+  "楊德昌": {
+    "forms": {
+      "Edward Yang": ["en", "es", "id", "pt"],
+      "Yang Dechang": ["fr"]
+    },
+    "slug": "People/yang-dechang",
+    "zh_given": null
+  },
+  "楊深坑": {
+    "forms": {
+      "Yang Shen-Keng": ["en"],
+      "Yang Shen-keng": ["es", "fr", "id", "pt"]
+    },
+    "slug": "People/yang-shen-keng-educator",
+    "zh_given": null
+  },
+  "楊維哲": {
+    "forms": {
+      "Yang Wei-che": ["fr"],
+      "Yang Wei-cher": ["en", "es"],
+      "Yang Wei-zhe": ["id", "pt"]
+    },
+    "slug": "People/yang-wei-cher",
+    "zh_given": null
+  },
+  "楊致遠": {
+    "forms": {
+      "Jerry Yang": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/jerry-yang-yahoo-cofounder",
+    "zh_given": "Jerry Yang"
+  },
+  "殷海光": {
+    "forms": {
+      "Yin Hai-Guang": ["en"],
+      "Yin Haiguang": ["id", "pt"]
+    },
+    "slug": "People/yin-haiguang-liberalism-philosopher",
+    "zh_given": null
+  },
+  "江振誠": {
+    "forms": {
+      "Jiang Zhen-cheng": ["id"]
+    },
+    "slug": "People/andre-chiang-taiwanese-culinary-innovator",
+    "zh_given": null
+  },
+  "江蕙": {
+    "forms": {
+      "Jiang Hui": ["id"],
+      "Jody Chiang": ["de", "en", "fr", "pt"]
+    },
+    "slug": "People/jody-chiang",
+    "zh_given": null
+  },
+  "沈伯洋": {
+    "forms": {
+      "Puma Shen": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/puma-shen",
+    "zh_given": null
+  },
+  "沈文程": {
+    "forms": {
+      "Shen Wen-cheng": ["id", "pt"],
+      "Shen Wencheng": ["en", "es", "fr"]
+    },
+    "slug": "People/shen-wencheng",
+    "zh_given": null
+  },
+  "沈聖博": {
+    "forms": {
+      "Shen Sheng-Bo": ["fr"],
+      "Shen Sheng-Po": ["en"],
+      "Shen Sheng-po": ["es", "id", "pt"]
+    },
+    "slug": "People/shen-sheng-po",
+    "zh_given": null
+  },
+  "洪婕倪": {
+    "forms": {
+      "Hong Li": ["pt"],
+      "Hong Ni": ["en", "es", "fr", "id"],
+      "Hung Chieh-ni": ["de"]
+    },
+    "slug": "People/hung-chieh-ni",
+    "zh_given": null
+  },
+  "洪醒夫": {
+    "forms": {
+      "Hong Hsing-fu": ["pt"],
+      "Hong Xingfu": ["id"],
+      "Hung Sing-fu": ["de", "en", "es", "fr"]
+    },
+    "slug": "People/hung-hsing-fu",
+    "zh_given": null
+  },
+  "王小棣": {
+    "forms": {
+      "Wang Hsiao-ti": ["fr", "pt"],
+      "Wang Shaodi": ["id"],
+      "Wang Shaudi": ["en", "es"]
+    },
+    "slug": "People/wang-shaudi",
+    "zh_given": null
+  },
+  "王建民": {
+    "forms": {
+      "Chien-Ming Wang": ["en", "es", "fr", "pt", "vi"],
+      "Wang Chien-ming": ["de", "id"]
+    },
+    "slug": "People/chien-ming-wang-mlb-sinker-ace",
+    "zh_given": null
+  },
+  "王永慶": {
+    "forms": {
+      "Wang Yung-ching": ["de", "es", "fr", "id", "pt"],
+      "Yung-ching Wang": ["en"]
+    },
+    "slug": "People/yung-ching-wang-formosa-plastics-founder",
+    "zh_given": null
+  },
+  "王福瑞": {
+    "forms": {
+      "Fujui Wang": ["en", "es", "fr"],
+      "Wang Fujui": ["pt"]
+    },
+    "slug": "People/fujui-wang",
+    "zh_given": null
+  },
+  "田馥甄": {
+    "forms": {
+      "Hebe Tien": ["en", "es", "ja", "pt"]
+    },
+    "slug": "People/hebe-tien-singer",
+    "zh_given": null
+  },
+  "瘂弦": {
+    "forms": {
+      "Ya Hsien": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/ya-hsien-poet",
+    "zh_given": null
+  },
+  "白先勇": {
+    "forms": {
+      "Bai Xianyong": ["fr"],
+      "Pai Hsien-yung": ["de", "en", "es", "id", "pt"]
+    },
+    "slug": "People/pai-hsien-yung-literary-master",
+    "zh_given": null
+  },
+  "盧廣仲": {
+    "forms": {
+      "Crowd Lu": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/crowd-lu-indie-folk-treasure",
+    "zh_given": null
+  },
+  "盧彥勳": {
+    "forms": {
+      "Lu Yen-hsun": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/lu-yen-hsun-tennis-champion",
+    "zh_given": null
+  },
+  "盧秀燕": {
+    "forms": {
+      "Lu Hsiu-yan": ["en", "fr"],
+      "Lu Hsiu-yen": ["es", "pt"]
+    },
+    "slug": "People/lu-hsiu-yan",
+    "zh_given": null
+  },
+  "童子賢": {
+    "forms": {
+      "Tong Tzu-hsien": ["pt"],
+      "Tung Tzu-hsien": ["es", "fr"],
+      "Tzu-Hsien Tung": ["en"]
+    },
+    "slug": "People/tung-tzu-hsien-tech-humanist",
+    "zh_given": null
+  },
+  "簡立峰": {
+    "forms": {
+      "Chien Li-feng": ["pt"],
+      "Jamie Lin": ["id"],
+      "Lee-Feng Chien": ["en", "es", "fr"]
+    },
+    "slug": "People/jamie-lin-ai-industry-pioneer",
+    "zh_given": null
+  },
+  "紀懷新": {
+    "forms": {
+      "Chi Huai-hsin": ["es", "fr", "vi"],
+      "Ed Chi": ["en", "pt"]
+    },
+    "slug": "People/chi-huai-hsin",
+    "zh_given": "Ed H. Chi"
+  },
+  "紀政": {
+    "forms": {
+      "Chi Cheng": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chi-cheng-flying-antelope",
+    "zh_given": null
+  },
+  "羅大佑": {
+    "forms": {
+      "Lo Ta-yu": ["de", "en", "es", "fr"]
+    },
+    "slug": "People/luo-dayou",
+    "zh_given": null
+  },
+  "翁啟惠": {
+    "forms": {
+      "Chi-Huey Wong": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/chi-huey-wong-glycoscience-pioneer",
+    "zh_given": null
+  },
+  "聶永真": {
+    "forms": {
+      "Aaron Nieh": ["en"],
+      "Nieh Yung-jen": ["es", "fr", "vi"]
+    },
+    "slug": "People/nieh-yung-jen",
+    "zh_given": null
+  },
+  "范曉萱": {
+    "forms": {
+      "Fan Xiaoxuan": ["pt"],
+      "Mavis Fan": ["de", "en", "es", "fr", "id", "vi"]
+    },
+    "slug": "People/mavis-fan-singer",
+    "zh_given": null
+  },
+  "莊智淵": {
+    "forms": {
+      "Chuang Chih-Yuan": ["en"],
+      "Chuang Chih-yuan": ["es", "fr", "pt", "vi"],
+      "Zhuang Zhiyuan": ["id"]
+    },
+    "slug": "People/chuang-chih-yuan-table-tennis-legend",
+    "zh_given": null
+  },
+  "莊朱玉女": {
+    "forms": {
+      "Chuang Chu Yu-nu": ["en", "id", "pt"],
+      "Chuang Chu-yu-nu": ["es", "fr"]
+    },
+    "slug": "People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma",
+    "zh_given": null
+  },
+  "莫那·魯道": {
+    "forms": {
+      "Mona Lodo": ["en"],
+      "Mona Ludo": ["es", "id"],
+      "Mona Ruata": ["pt"],
+      "Mona Rudao": ["de", "fr"]
+    },
+    "slug": "People/mona-rudao",
+    "zh_given": null
+  },
+  "莫那能": {
+    "forms": {
+      "Monaneng": ["en", "es", "fr", "pt", "vi"]
+    },
+    "slug": "People/monaneng",
+    "zh_given": null
+  },
+  "葉丙成": {
+    "forms": {
+      "Bing-Cheng Yeh": ["pt"],
+      "Yeh Bing-cheng": ["de", "en", "fr"],
+      "Yeh Ping-cheng": ["id"]
+    },
+    "slug": "People/yeh-ping-cheng-education-innovator",
+    "zh_given": null
+  },
+  "葉國一": {
+    "forms": {
+      "Yeh Kuo-I": ["pt"],
+      "Yeh Kuo-yi": ["en", "es", "fr"]
+    },
+    "slug": "People/yeh-kuo-yi-electronics-manufacturing-pioneer",
+    "zh_given": null
+  },
+  "蒼藍鴿": {
+    "forms": {
+      "Cang Lan Ge": ["vi"]
+    },
+    "slug": "People/cang-lan-ge-doctor",
+    "zh_given": null
+  },
+  "蔡依林": {
+    "forms": {
+      "Jolin Tsai": ["de", "es", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/jolin-tsai",
+    "zh_given": null
+  },
+  "蔡健雅": {
+    "forms": {
+      "Tanya Chua": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/tanya-chua-singer",
+    "zh_given": null
+  },
+  "蔡培火": {
+    "forms": {
+      "Tsai Pei-huo": ["de", "en", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/tsai-pei-huo",
+    "zh_given": null
+  },
+  "蔡明亮": {
+    "forms": {
+      "Tsai Ming-liang": ["de", "en", "es", "fr", "pt"]
+    },
+    "slug": "People/tsai-ming-liang",
+    "zh_given": null
+  },
+  "蔡瑞月": {
+    "forms": {
+      "Tsai Jui-yueh": ["en"]
+    },
+    "slug": "People/tsai-jui-yueh",
+    "zh_given": null
+  },
+  "蔡英文": {
+    "forms": {
+      "Tsai Ing-wen": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/tsai-ing-wen",
+    "zh_given": null
+  },
+  "蔡阿嘎": {
+    "forms": {
+      "Tsai A-Ga": ["en"],
+      "Tsai A-ga": ["es", "fr", "id", "pt"]
+    },
+    "slug": "People/tsai-a-ga-youtuber",
+    "zh_given": null
+  },
+  "蔡黑皮": {
+    "forms": {
+      "Cai Heipi": ["en", "es"],
+      "Tsai Hei Pi": ["id"],
+      "Tsai Hei-pi": ["de", "pt"],
+      "Tsai Heipi": ["fr"]
+    },
+    "slug": "People/tsai-heipi",
+    "zh_given": null
+  },
+  "蔣中正": {
+    "forms": {
+      "Chiang Kai-shek": ["en", "es", "pt"]
+    },
+    "slug": "People/chiang-kai-shek",
+    "zh_given": null
+  },
+  "蔣渭水": {
+    "forms": {
+      "Chiang Wei-shui": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chiang-wei-shui",
+    "zh_given": null
+  },
+  "蔣為文": {
+    "forms": {
+      "Chang Wei-wen": ["en"],
+      "Chiang Wei-wen": ["fr", "id", "pt"],
+      "Tsai Wei-wen": ["es"]
+    },
+    "slug": "People/chiung-wi-vun",
+    "zh_given": null
+  },
+  "蕭上農": {
+    "forms": {
+      "Hsiao Shang-nung": ["id"],
+      "Tony Hsiao": ["en", "fr", "pt"]
+    },
+    "slug": "People/tony-hsiao-inside-founder",
+    "zh_given": null
+  },
+  "蕭敬騰": {
+    "forms": {
+      "Jam Hsiao": ["es", "fr", "id", "pt"]
+    },
+    "slug": "People/jam-hsiao",
+    "zh_given": null
+  },
+  "蕭煌奇": {
+    "forms": {
+      "Ricky Hsiao": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/ricky-hsiao-singer",
+    "zh_given": null
+  },
+  "蕭美琴": {
+    "forms": {
+      "Bi-khim Hsiao": ["en"],
+      "Hsiao Bi-khim": ["es", "fr", "id", "pt"]
+    },
+    "slug": "People/hsiao-bi-khim",
+    "zh_given": null
+  },
+  "蕭青陽": {
+    "forms": {
+      "Hsiao Ching-yang": ["pt"],
+      "Xiao Qing-Yang": ["en"],
+      "Xiao Qing-yang": ["de", "es", "fr"]
+    },
+    "slug": "People/xiao-qing-yang-grammy-designer",
+    "zh_given": null
+  },
+  "蘇巧慧": {
+    "forms": {
+      "Su Chiao-hui": ["en", "es", "fr", "id", "pt"],
+      "Su Qiaowei": ["vi"]
+    },
+    "slug": "People/su-chiao-hui",
+    "zh_given": null
+  },
+  "蘇貞昌": {
+    "forms": {
+      "Su Tseng-chang": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/su-tseng-chang",
+    "zh_given": null
+  },
+  "許倬雲": {
+    "forms": {
+      "Hsu Cho-yun": ["en", "es", "fr", "id"]
+    },
+    "slug": "People/cho-yun-hsu-bridging-historian",
+    "zh_given": null
+  },
+  "許文龍": {
+    "forms": {
+      "Hsu Wen-lung": ["id", "pt"],
+      "Xu Wen-long": ["en"],
+      "Xu Wenlong": ["es", "fr"]
+    },
+    "slug": "People/xu-wen-long-chimei-founder-violin-entrepreneur",
+    "zh_given": null
+  },
+  "許淑淨": {
+    "forms": {
+      "Hsu Shu-ching": ["de", "en", "es", "fr", "pt"]
+    },
+    "slug": "People/hsu-shu-ching-olympic-weightlifting-champion",
+    "zh_given": null
+  },
+  "許美華": {
+    "forms": {
+      "Hsu Mei-hua": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/hsu-mei-hua-financial-commentator",
+    "zh_given": null
+  },
+  "許芳宜": {
+    "forms": {
+      "Fang-Yi Sheu": ["en", "es", "fr"],
+      "Hsu Fang-yi": ["id", "pt"]
+    },
+    "slug": "People/fang-yi-sheu-body-storyteller",
+    "zh_given": null
+  },
+  "謝淑薇": {
+    "forms": {
+      "Hsieh Su-wei": ["de", "en", "fr", "id", "pt"],
+      "Su-wei Hsieh": ["es"]
+    },
+    "slug": "People/su-wei-hsieh-wimbledon-champion",
+    "zh_given": null
+  },
+  "豬哥亮": {
+    "forms": {
+      "Chu Ke-liang": ["en", "fr", "id"],
+      "Chu Ko Liang": ["es"],
+      "Chu Ko-liang": ["pt"],
+      "Zhu Geliang": ["de"]
+    },
+    "slug": "People/zhuge-liang-showman",
+    "zh_given": null
+  },
+  "賈永婕": {
+    "forms": {
+      "Chia Yung-chieh": ["en", "es", "fr"],
+      "Janet Chia": ["ja"],
+      "Jenny Jia": ["pt"]
+    },
+    "slug": "People/chia-yung-chieh",
+    "zh_given": null
+  },
+  "賴和": {
+    "forms": {
+      "Lai Ho": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/lai-ho-father-of-taiwanese-literature",
+    "zh_given": null
+  },
+  "賴清德": {
+    "forms": {
+      "Lai Ching-te": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/lai-ching-te",
+    "zh_given": null
+  },
+  "賴聲川": {
+    "forms": {
+      "Stan Lai": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/stan-lai-theater-innovation-master",
+    "zh_given": null
+  },
+  "趙自強": {
+    "forms": {
+      "Chao Tzu-chiang": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chao-tzu-chiang-childrens-theater",
+    "zh_given": null
+  },
+  "這群人": {
+    "forms": {
+      "Ce groupe": ["fr"],
+      "Diese Gruppe": ["de"],
+      "Este grupo": ["es"],
+      "TGOP": ["id"],
+      "This Group": ["en"]
+    },
+    "slug": "People/tgop",
+    "zh_given": null
+  },
+  "連穎": {
+    "forms": {
+      "Lian Ying": ["pt"],
+      "Lien Ying": ["en", "es", "fr"]
+    },
+    "slug": "People/lien-ying",
+    "zh_given": "Erin"
+  },
+  "邊荷律": {
+    "forms": {
+      "Byeon Ha-ryul": ["id"],
+      "Byun Ha-ryul": ["pt"],
+      "Byun Ha-yul": ["de", "en", "es", "fr", "vi"]
+    },
+    "slug": "People/byun-ha-yul",
+    "zh_given": null
+  },
+  "邱繼弘": {
+    "forms": {
+      "Chiu Chi-hung": ["en", "es", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/chiu-chi-hung-physicist",
+    "zh_given": null
+  },
+  "邵友濂": {
+    "forms": {
+      "Shao You-lian": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/shao-you-lian",
+    "zh_given": null
+  },
+  "郁永河": {
+    "forms": {
+      "Yu Yong-he": ["es"],
+      "Yu Yonghe": ["en"],
+      "Yu Yung-ho": ["pt"]
+    },
+    "slug": "People/yu-yong-he",
+    "zh_given": null
+  },
+  "郭台銘": {
+    "forms": {
+      "Kuo T'ai-ming": ["id"],
+      "Terry Gou": ["de", "en", "es", "fr", "pt", "vi"]
+    },
+    "slug": "People/terry-gou",
+    "zh_given": null
+  },
+  "郭婞淳": {
+    "forms": {
+      "Kuo Hsing-chun": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/kuo-hsing-chun-olympic-weightlifting-champion",
+    "zh_given": null
+  },
+  "郭正光": {
+    "forms": {
+      "Kuo Cheng-Kuang": ["fr"],
+      "Kuo Cheng-kuang": ["en", "es", "id"],
+      "Mike Kuo": ["pt"]
+    },
+    "slug": "People/kuo-cheng-kuang",
+    "zh_given": null
+  },
+  "郭泓志": {
+    "forms": {
+      "Hong-Chih Kuo": ["en", "es", "fr"],
+      "Kuo Hong-chih": ["pt", "vi"],
+      "Kuo Hung-chih": ["id"]
+    },
+    "slug": "People/hong-chih-kuo-taiwanese-left-handed-pitcher",
+    "zh_given": null
+  },
+  "郭金發": {
+    "forms": {
+      "Kuo Chin-fa": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/kuo-chin-fa-taiwanese-singer",
+    "zh_given": null
+  },
+  "鄧雨賢": {
+    "forms": {
+      "Deng Yu-xian": ["fr"],
+      "Deng Yuxian": ["de", "en", "es", "id"],
+      "Teng Yu-hsien": ["pt"]
+    },
+    "slug": "People/deng-yu-xian-taiwanese-song-composer",
+    "zh_given": null
+  },
+  "鄧麗君": {
+    "forms": {
+      "Teresa Teng": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/teresa-teng",
+    "zh_given": null
+  },
+  "鄭兆村": {
+    "forms": {
+      "Cheng Chao-tsun": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/cheng-chao-tsun-javelin-asian-king",
+    "zh_given": null
+  },
+  "鄭南榕": {
+    "forms": {
+      "Cheng Nan-jung": ["de", "pt"],
+      "Zheng Nanrong": ["en", "es", "fr"]
+    },
+    "slug": "People/zheng-nanrong",
+    "zh_given": null
+  },
+  "鄭宜農": {
+    "forms": {
+      "Enno Cheng": ["en", "es", "fr", "id", "pt"],
+      "Zheng Yilong": ["vi"]
+    },
+    "slug": "People/cheng-i-nung",
+    "zh_given": "Enno Cheng"
+  },
+  "鄭愁予": {
+    "forms": {
+      "Cheng Chou-yu": ["en", "es", "fr", "pt"],
+      "Zheng Chou-yu": ["id"],
+      "Zheng Chouyu": ["vi"]
+    },
+    "slug": "People/cheng-chou-yu-poet",
+    "zh_given": null
+  },
+  "鄭成功": {
+    "forms": {
+      "Koxinga": ["en", "id", "pt"]
+    },
+    "slug": "People/koxinga",
+    "zh_given": null
+  },
+  "鄭文琦": {
+    "forms": {
+      "Cheng Wen-chi": ["es", "fr", "pt"],
+      "Chun Wen-chi": ["en"],
+      "Zheng Wenqi": ["id"]
+    },
+    "slug": "People/cheng-wen-chi",
+    "zh_given": null
+  },
+  "鄭麗文": {
+    "forms": {
+      "Cheng Li-wen": ["en", "fr", "ja"],
+      "Cheng Li-wun": ["es", "vi"],
+      "Zheng Liwen": ["pt"]
+    },
+    "slug": "People/cheng-li-wun",
+    "zh_given": null
+  },
+  "金城武": {
+    "forms": {
+      "Takeshi Kaneshiro": ["de", "en", "es", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/takeshi-kaneshiro",
+    "zh_given": null
+  },
+  "金針菇": {
+    "forms": {
+      "Jin Enoki": ["es"],
+      "Jin-enoki": ["fr"]
+    },
+    "slug": "People/jin-enoki",
+    "zh_given": "Jin"
+  },
+  "鈕承澤": {
+    "forms": {
+      "Doze Niu": ["fr", "pt"],
+      "Niu Cheng-Ze": ["en"],
+      "Niu Chengze": ["es"]
+    },
+    "slug": "People/niu-cheng-ze-controversial-filmmaker-monga-director",
+    "zh_given": null
+  },
+  "鍾理和": {
+    "forms": {
+      "Chung Li-ho": ["id", "pt"],
+      "Zhong Lihe": ["de", "en", "es", "fr"]
+    },
+    "slug": "People/zhong-lihe-nativeland-eternal-seeker",
+    "zh_given": null
+  },
+  "鍾肇政": {
+    "forms": {
+      "Chung Chao-cheng": ["en"]
+    },
+    "slug": "People/chung-chao-cheng",
+    "zh_given": null
+  },
+  "阿滴": {
+    "forms": {
+      "A-Di": ["vi"],
+      "Ray Du": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/ray-du-english-youtuber",
+    "zh_given": null
+  },
+  "阿爆": {
+    "forms": {},
+    "slug": "People/aljenljeng-tjaluvie-abao",
+    "zh_given": "Aljenljeng Tjaluvie"
+  },
+  "阿神": {
+    "forms": {
+      "Ashan": ["es", "id"]
+    },
+    "slug": "People/red-shin-minecraft-youtuber",
+    "zh_given": null
+  },
+  "阿翰": {
+    "forms": {
+      "A-Han": ["en", "es", "fr", "pt"],
+      "Ah Han": ["id"]
+    },
+    "slug": "People/a-han",
+    "zh_given": null
+  },
+  "陳俊良": {
+    "forms": {
+      "Chen Chun-Liang": ["en"],
+      "Chen Chun-liang": ["es", "fr", "pt"]
+    },
+    "slug": "People/chen-chun-liang-design-poet",
+    "zh_given": null
+  },
+  "陳偉殷": {
+    "forms": {
+      "Chen Wei-Yin": ["vi"],
+      "Chen Wei-yin": ["de", "es", "id"],
+      "Wei-Yin Chen": ["en", "fr", "pt"]
+    },
+    "slug": "People/chen-wei-yin-mlb-pitcher",
+    "zh_given": null
+  },
+  "陳士駿": {
+    "forms": {
+      "Chen Shih-chun": ["fr", "id"],
+      "Steve Chen": ["de", "en", "es", "pt"]
+    },
+    "slug": "People/steve-chen-youtube-cofounder",
+    "zh_given": null
+  },
+  "陳建仁": {
+    "forms": {
+      "Chen Chien-jen": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-chien-jen",
+    "zh_given": null
+  },
+  "陳建年": {
+    "forms": {
+      "Chen Chien-nien": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/chen-chien-nien",
+    "zh_given": null
+  },
+  "陳建騏": {
+    "forms": {
+      "Chen Chien-chi": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-chien-chi-music-producer",
+    "zh_given": null
+  },
+  "陳昇": {
+    "forms": {
+      "Bobby Chen": ["en", "es", "fr"],
+      "Chen Sheng": ["id", "pt"]
+    },
+    "slug": "People/bobby-chen-indie-music-pioneer",
+    "zh_given": null
+  },
+  "陳映真": {
+    "forms": {
+      "Chen Yingzhen": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/chen-yingzhen",
+    "zh_given": null
+  },
+  "陳樹菊": {
+    "forms": {
+      "Chen Shu-chu": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-shu-chu-vegetable-vendor-philanthropist",
+    "zh_given": null
+  },
+  "陳水扁": {
+    "forms": {
+      "Chen Shui-bian": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-shui-bian-controversial-president",
+    "zh_given": null
+  },
+  "陳澄波": {
+    "forms": {
+      "Chen Cheng-po": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-cheng-po",
+    "zh_given": null
+  },
+  "陳玉勳": {
+    "forms": {
+      "Chen Yu-hsun": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-yu-hsun-taiwan-comedy-film-magician",
+    "zh_given": null
+  },
+  "陳致中": {
+    "forms": {
+      "Chen Chih-chung": ["en", "es", "fr", "id"],
+      "Chen Zhi-zhong": ["pt"]
+    },
+    "slug": "People/chen-chih-chung",
+    "zh_given": null
+  },
+  "陳菊": {
+    "forms": {
+      "Chen Chu": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chen-chu-democracy-activist",
+    "zh_given": null
+  },
+  "陽岱鋼": {
+    "forms": {
+      "Yang Dai-Kang": ["en"],
+      "Yang Dai-kang": ["de", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/yang-dai-kang-taiwanese-baseball-star-in-japan",
+    "zh_given": null
+  },
+  "韓國瑜": {
+    "forms": {
+      "Han Kuo-yu": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/han-kuo-yu",
+    "zh_given": null
+  },
+  "館長陳之漢": {
+    "forms": {
+      "Kuan Chang": ["vi"]
+    },
+    "slug": "People/chen-chih-han-holger",
+    "zh_given": null
+  },
+  "馬偕": {
+    "forms": {
+      "Lieber ausbrennen als verrosten": ["de"],
+      "Preferir consumirse que oxidarse": ["es"],
+      "Rather Burn Out Than Rust Out": ["en"]
+    },
+    "slug": "People/george-leslie-mackay",
+    "zh_given": "George Leslie Mackay"
+  },
+  "馬英九": {
+    "forms": {
+      "Ma Ying-jeou": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/ma-ying-jeou-cross-strait-reconciliation-leader",
+    "zh_given": null
+  },
+  "高俊明": {
+    "forms": {
+      "Kao Chun-ming": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/kao-chun-ming",
+    "zh_given": null
+  },
+  "魏哲家": {
+    "forms": {
+      "C. C. Wei": ["en"],
+      "C.C. Wei": ["es", "fr", "id", "pt"]
+    },
+    "slug": "People/cc-wei",
+    "zh_given": null
+  },
+  "魏如萱": {
+    "forms": {
+      "Waa Wei": ["en", "es", "pt"],
+      "Wei Ru-xuan": ["fr"]
+    },
+    "slug": "People/waa-wei-singer",
+    "zh_given": null
+  },
+  "魏德聖": {
+    "forms": {
+      "Wei Te-sheng": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/wei-te-sheng-taiwanese-epic-filmmaker",
+    "zh_given": null
+  },
+  "魚條": {
+    "forms": {
+      "Fish Stick": ["en", "es", "fr", "id", "pt", "ru", "vi"]
+    },
+    "slug": "People/yu-tiao-musician",
+    "zh_given": "Fish Stick"
+  },
+  "黃仁勳": {
+    "forms": {
+      "Jensen Huang": ["de", "en", "es", "fr", "id", "pt", "vi"]
+    },
+    "slug": "People/jensen-huang",
+    "zh_given": null
+  },
+  "黃光雄": {
+    "forms": {
+      "Huang Guang-xiong": ["en", "id"],
+      "Huang Guangxiong": ["es", "fr"],
+      "Huang Kuang-hsiung": ["pt", "vi"]
+    },
+    "slug": "People/huang-guang-xiong-educator",
+    "zh_given": null
+  },
+  "黃國珍": {
+    "forms": {
+      "Huang Kuo-chen": ["de", "en", "fr", "id", "pt"]
+    },
+    "slug": "People/huang-kuo-chen",
+    "zh_given": null
+  },
+  "黃土水": {
+    "forms": {
+      "Huang Tu-shui": ["en"]
+    },
+    "slug": "People/huang-tu-shui",
+    "zh_given": null
+  },
+  "黃大煒": {
+    "forms": {
+      "David Huang": ["id"],
+      "David Wong": ["en", "es", "fr"]
+    },
+    "slug": "People/david-wong",
+    "zh_given": null
+  },
+  "黃少雍": {
+    "forms": {
+      "Huang Shao-yong": ["en", "fr", "id", "pt"],
+      "Huang Shaoyong": ["es"]
+    },
+    "slug": "People/huang-shao-yong-musician",
+    "zh_given": null
+  },
+  "黃山料": {
+    "forms": {
+      "Huang Shan-liao": ["en", "es", "id", "ja", "ko", "pt"],
+      "Huang Shanliao": ["fr"]
+    },
+    "slug": "People/huang-shan-liao",
+    "zh_given": null
+  },
+  "黃崇仁": {
+    "forms": {
+      "Frank Huang": ["vi"]
+    },
+    "slug": "People/frank-huang-psmc",
+    "zh_given": null
+  },
+  "黃春明": {
+    "forms": {
+      "Huang Chun-ming": ["en"]
+    },
+    "slug": "People/huang-chun-ming",
+    "zh_given": null
+  },
+  "黃氏兄弟": {
+    "forms": {
+      "Hermanos Huang": ["es"],
+      "Huang Brothers": ["en"],
+      "Saudara Huang": ["id"]
+    },
+    "slug": "People/huang-brothers-youtubers",
+    "zh_given": "Huang Brothers"
+  },
+  "黃玉嬌": {
+    "forms": {
+      "Huang Yu-chiao": ["en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/huang-yu-chiao-democracy-elder",
+    "zh_given": null
+  },
+  "黃震南": {
+    "forms": {
+      "Huang Zhen-nan": ["en", "es", "fr", "pt"]
+    },
+    "slug": "People/huang-zhen-nan-book-collector-historian",
+    "zh_given": null
+  },
+  "齊柏林": {
+    "forms": {
+      "Chi Po-lin": ["de", "en", "es", "fr", "id", "pt"]
+    },
+    "slug": "People/chi-po-lin",
+    "zh_given": null
+  },
+  "龍應台": {
+    "forms": {
+      "Long Yingtai": ["es", "fr"],
+      "Lung Ying-tai": ["de", "en", "id", "pt"]
+    },
+    "slug": "People/lung-ying-tai",
+    "zh_given": null
+  }
+}

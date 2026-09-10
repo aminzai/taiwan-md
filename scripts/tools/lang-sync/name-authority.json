@@ -1,0 +1,12 @@
+{
+  "_": "人名羅馬化的**裁決**層，優先於自動盤點的 name-variants.json。",
+  "_why_separate": "name-variants.json 是 --rebuild 從全庫標題掃出來的盤點，它會忠實記下錯的拼法（施振榮的 fr 標題曾寫成施明德的名字，那個字串就進了施振榮的 forms）。盤點不能當權威，兩者必須分檔：一個機器重生、一個人手寫。",
+  "_who_decides": "OBSERVER-QUEUE #63 待哲宇裁決三條規則的優先序——(1) 本人有通用英文名就用它 (2) zh 原文括號裡給的拉丁拼寫 (3) 其餘一律威妥瑪。規則定了才往下填，Semiont 不自己裁決（MANIFESTO §自主權邊界：這是編輯判斷不是機械修正）。",
+  "_format": "\"漢字\": {\"form\": \"裁決後的拉丁拼寫\", \"why\": \"證據\"}",
+  "_pending_examples": {
+    "鄭南榕": "盤點多數形是 Zheng Nanrong（北京拼音，de/en/fr 三個語言）。zh 原文提到蔡崇隆的紀錄片《Nylon》——他本人用的英文名是 Nylon，國際上通行 Cheng Nan-jung。屬規則 (1) 還是 (3)？",
+    "蕭青陽": "盤點多數形 Xiao Qing-yang（de/es/fr），pt 用 Hsiao Ching-yang。葛萊美入圍者，國際場合用哪個要查。",
+    "曹興誠": "en 標題目前是 `Morris Chang vs. Chang Hsin-cheng`——Morris Chang 是張忠謀，這筆是硬錯，但正確形是 Robert Tsao（規則 1）還是 Tsao Hsing-cheng（規則 3）要定。"
+  },
+  "authority": {}
+}

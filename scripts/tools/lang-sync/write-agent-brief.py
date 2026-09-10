@@ -286,6 +286,32 @@ def build(lang: str) -> dict:
             "urls": "byte-identical。不要正規化 percent-encoding、不要改 apostrophe、不要補或去掉結尾標點。2026-09-09 一篇的圖說反引號沒收尾接上中文全形逗號，URL 多吃一個字元被 multiset 檢查擋下",
             "image_paths": "![alt](/article-images/...) 路徑不翻",
             "internal_links": "站內連結的路徑不翻（/food/夜市文化 保持原樣），只翻錨字——翻掉路徑會產生死鏈",
+            "人名羅馬化_查表不要推導": (
+                "**動筆前先跑 `python3 scripts/tools/lang-sync/name-consistency-check.py "
+                "--names-for <zh_path> <lang>`**，它會印出這篇提到的人在其他語言已經用的拼寫。"
+                "照抄，不要自己從漢字推導。"
+                "\n理由不是規則難記，是**你分不出手上那個字串屬於哪一套**——2026-09-10 全庫盤點："
+                "235 位人物裡 117 位有跨語言拼寫歧異，而每一隻交件的 agent 都在報告裡寫「已套用威妥瑪」。"
+                "\n七種實撞錯法："
+                "\n  1 認錯人：fr〈施振榮〉119 處寫 `Shih Ming-te`（施明德）；"
+                "id〈簡立峰〉寫 `Jamie Lin`（林之晨）；en〈曹興誠〉標題寫 `Morris Chang vs. Chang Hsin-cheng`"
+                "（Morris Chang 是張忠謀）"
+                "\n  2 拼錯字：en〈林懷民〉`Lin Hsui-min`（Hwai-min）；en〈莫那·魯道〉`Mona Lodo`、"
+                "pt 版 `Mona Ruata`（Rudao）"
+                "\n  3 姓氏整個換掉：en〈蔣為文〉`Chang Wei-wen`、es 版 `Tsai Wei-wen`（都該是 Chiang）；"
+                "pt〈洪婕倪〉`Hong Li`（Ni）"
+                "\n  4 別人用威妥瑪你用北京拼音：fr〈白先勇〉`Bai Xianyong`（Pai Hsien-yung）；"
+                "es〈朱天文〉`Chu Tianwen`（Chu Tien-wen）"
+                "\n  5 丟掉本人通用的英文名：pt〈林強〉`Lin Qiang`（Lim Giong）、"
+                "fr〈楊德昌〉`Yang Dechang`（Edward Yang）、id〈郭台銘〉`Kuo T'ai-ming`（Terry Gou）、"
+                "vi〈孫燕姿〉`Sun Yanzi`（Stefanie Sun）"
+                "\n  6 韓國人名當中文拼：id〈安芝儇〉`An Ji-hyun`（Ahn Ji-hyun）、"
+                "vi〈南珉貞〉`Nam Minh Trinh`（Nam Min-jeong，被越南化了）"
+                "\n  7 西方人名被中文譯名再音譯回去：vi〈李仙得〉`Li Xian De`——他是 Charles Le Gendre，"
+                "法裔美國外交官。同族：林琪兒的 zh 原文寫「林琪兒（Kjell N. Lindgren）」，"
+                "en/es/pt 反而寫成 `Lin Chi-er`／`Lin Qier`／`Lin Kuei-er`"
+                "\n第 7 族的判準：**看 zh 原文括號裡有沒有給拉丁拼寫**。有就用那個，那是本人的名字。"
+            ),
             "wikilinks": "[[X]] 目標在目標語言不存在時扁平化成純文字，格式是『目標語言譯名 (中文原名)』——譯名在前。2026-09-09 一隻 agent 寫成中文在前，讀者讀到一整行中文",
             "viz_modules": "```tw-* 圍欄區塊裡的標籤、說明、資料來源全部要翻——它們是給讀者看的圖表內容不是程式碼。2026-09-09 一篇的八個模組整塊留中文，agent 判成『資料表格是已知誤判』並不是",
             "bibliography_titles": "參考資料區的中文來源標題保留原文，讀者要靠它找到原文出處。檢查器已對書目區豁免",
@@ -357,6 +383,10 @@ def build(lang: str) -> dict:
             # 越南文的 `đồng` 是例外——它是貨幣單位通稱，`đồng Đài Loan` 是正確講法；
             # 但裸的 `1.600 đồng` 一樣是錯的（讀成越南盾）。
             "python3 scripts/tools/lang-sync/currency-identity-check.py <目標路徑>   # 裸幣別 = 0",
+            # 第 14 道（2026-09-10）：把某個人寫成另一個人。fr〈施振榮〉全篇 119 處把他叫成
+            # `Shih Ming-te`／`Shih Mingte`——那是施明德，黨外運動者，跟宏碁創辦人毫無關係。
+            # 前十三道全綠，因為每一道問的都是「這個字串合法嗎」，沒有一道問「這個名字是這個人嗎」。
+            "python3 scripts/tools/lang-sync/name-consistency-check.py <目標路徑>   # 張冠李戴 = 0",
             # ⚠️ article-health 的 `description 太長` 是 **warn 不是 hard**，不要動它。
             # 2026-09-10 一天之內四隻 agent 看到那行就把 description 砍短，實際發生的是：
             #   zh：「2026 年，徐臺屏把約八十位教師設計的三百支 AI 代理人放進共享大市集…
