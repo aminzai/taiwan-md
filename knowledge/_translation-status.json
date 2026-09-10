@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T16:40:03+08:00",
-    "zhCommitHead": "a4c9d27c2",
+    "lastUpdated": "2026-09-10T17:18:07+08:00",
+    "zhCommitHead": "8e9cd3b09",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 80,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 213,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 768,
+        "fresh": 769,
         "stale": 95,
         "metadata_stale": 29,
-        "missing": 229,
+        "missing": 228,
         "orphan": 0
       },
       "ko": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 666,
+        "fresh": 667,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 392,
+        "missing": 391,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 794,
+        "fresh": 796,
         "stale": 68,
         "metadata_stale": 15,
-        "missing": 244,
+        "missing": 242,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 729,
+        "fresh": 730,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 336,
+        "missing": 335,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 787,
         "stale": 52,
         "metadata_stale": 15,
-        "missing": 269,
+        "missing": 267,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 828,
         "stale": 46,
         "metadata_stale": 12,
-        "missing": 238,
+        "missing": 235,
         "orphan": 0
       },
       "de": {
@@ -20628,8 +20628,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-10T07:58:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9cd3b0",
+          "translationLastModified": "2026-09-10T16:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -35448,8 +35448,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-10T07:58:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9cd3b0",
+          "translationLastModified": "2026-09-10T16:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -41564,8 +41564,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-10T07:58:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9cd3b0",
+          "translationLastModified": "2026-09-10T16:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -70637,13 +70637,35 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chen-ssu-hung-writer.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-10T07:58:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chen-ssu-hung-writer.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-ssu-hung-writer.md",
@@ -71062,15 +71084,26 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-10T07:58:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8e9cd3b0",
+          "translationLastModified": "2026-09-10T16:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/huang-tu-shui.md",
+          "translatedFrom": "People/黃土水.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:d22d7298dff5ac3a",
+          "sourceBodyHash": "sha256:7b62e2a912ba5344",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -79930,7 +79963,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/lin-chia-chen-singer.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-10T07:58:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -81425,7 +81469,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-10T07:58:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tgop.md",
@@ -104427,7 +104482,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/black-cat-teacher.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -130330,7 +130396,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "174a83b65",
+          "sourceContentHash": "sha256:0b3f5400cfd756f2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T08:49:59.325490+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-radio-broadcasting-history.md",
@@ -130405,7 +130482,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "174a83b65",
+          "sourceContentHash": "sha256:83934ab33e775cb3",
+          "sourceBodyHash": "sha256:9b5ab13cba09c99e",
+          "translatedAt": "2026-09-10T07:58:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-radio-broadcasting-history.md",
@@ -138621,18 +138709,16 @@
         "en": {
           "path": "en/Geography/changhua-county.md",
           "translatedFrom": "Geography/彰化縣.md",
-          "sourceCommitSha": "31a05c44",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:53588f1af78c53bd",
           "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "translatedAt": "2026-09-10T16:30:53+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/changhua-county.md",
@@ -148188,7 +148274,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/tatung-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -154897,7 +154994,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-lacquerware.md",
+          "translatedFrom": "Culture/台灣漆器.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:69f1aed62a2df405",
+          "sourceBodyHash": "sha256:1bd762ed30b04b56",
+          "translatedAt": "2026-09-10T07:58:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
