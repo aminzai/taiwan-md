@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T06:05:23+08:00",
-    "zhCommitHead": "ba0804057",
+    "lastUpdated": "2026-09-11T06:14:42+08:00",
+    "zhCommitHead": "d1f877efe",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 868,
+        "fresh": 869,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 154,
+        "missing": 153,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 867,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "fr": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "hi": {
@@ -13999,8 +13999,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d1f877ef",
+          "translationLastModified": "2026-09-11T06:05:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -35894,7 +35894,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taiwan-postal-service-history.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-11T05:40:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -78785,8 +78796,8 @@
           "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
           "translatedAt": "2026-09-10T20:25:02+08:00",
-          "translationLastCommit": "c3219c49",
-          "translationLastModified": "2026-09-10T02:34:19+08:00",
+          "translationLastCommit": "d1f877ef",
+          "translationLastModified": "2026-09-11T06:05:24+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -95408,8 +95419,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d1f877ef",
+          "translationLastModified": "2026-09-11T06:05:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -132412,7 +132423,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:d80f079014589543",
+          "sourceBodyHash": "sha256:3441000e1e1b1dde",
+          "translatedAt": "2026-09-11T06:03:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -161805,7 +161827,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/taiwanese-colloquial-speech.md",
+          "translatedFrom": "Culture/台灣口語特色.md",
+          "sourceCommitSha": "1791349e1",
+          "sourceContentHash": "sha256:15d6246d744f90bf",
+          "sourceBodyHash": "sha256:227017306bf0c999",
+          "translatedAt": "2026-09-11T06:03:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
