@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T21:35:21+08:00",
-    "zhCommitHead": "2bd5dd4df",
+    "lastUpdated": "2026-09-11T21:38:04+08:00",
+    "zhCommitHead": "91bd8a5b6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 704,
+        "fresh": 705,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 354,
+        "missing": 353,
         "orphan": 0
       },
       "pt": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 791,
+        "fresh": 792,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 275,
+        "missing": 274,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 845,
+        "fresh": 846,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 174,
+        "missing": 173,
         "orphan": 0
       },
       "de": {
@@ -70770,10 +70770,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ceylan-youtuber.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/ceylan-youtuber.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -79493,8 +79515,8 @@
           "sourceContentHash": "sha256:377677ba4b69d2d9",
           "sourceBodyHash": "sha256:4ff2706afa6c57f6",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "91bd8a5b",
+          "translationLastModified": "2026-09-11T21:35:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -136270,8 +136292,8 @@
           "sourceContentHash": "sha256:43c8ec2f83486e39",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T13:21:14.147808+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "91bd8a5b",
+          "translationLastModified": "2026-09-11T21:35:22+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -140175,7 +140197,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/roc-aesthetics.md",
@@ -155760,7 +155793,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/port-of-kaohsiung.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -165881,8 +165925,8 @@
           "sourceContentHash": "sha256:5deab9ded98caf34",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T12:38:58.129927+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "91bd8a5b",
+          "translationLastModified": "2026-09-11T21:35:22+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
