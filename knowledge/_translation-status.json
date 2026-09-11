@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T04:38:29+08:00",
-    "zhCommitHead": "ef1a5cb7c",
+    "lastUpdated": "2026-09-12T04:38:48+08:00",
+    "zhCommitHead": "db3698adc",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 947,
+        "fresh": 948,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 74,
+        "missing": 73,
         "orphan": 0
       },
       "vi": {
@@ -157764,7 +157764,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-12T04:37:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
