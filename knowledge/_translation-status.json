@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T17:18:25+08:00",
-    "zhCommitHead": "09c7cf4fc",
+    "lastUpdated": "2026-09-11T17:41:02+08:00",
+    "zhCommitHead": "f52c0ecdd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 970,
+        "fresh": 973,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 52,
+        "missing": 49,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 962,
+        "fresh": 966,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 63,
+        "missing": 59,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 893,
+        "fresh": 895,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 128,
+        "missing": 126,
         "orphan": 0
       },
       "vi": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 845,
+        "fresh": 846,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 194,
+        "missing": 193,
         "orphan": 0
       },
       "hi": {
@@ -31698,8 +31698,8 @@
           "sourceContentHash": "sha256:839c2636244d1802",
           "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
           "translatedAt": "2026-09-11T16:59:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -31712,7 +31712,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Art/weiwuying-arts-center.md",
+          "translatedFrom": "Art/衛武營.md",
+          "sourceCommitSha": "7fddc5077",
+          "sourceContentHash": "sha256:839c2636244d1802",
+          "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
+          "translatedAt": "2026-09-11T17:26:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -38256,7 +38267,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/beyblade-in-taiwan.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-11T17:19:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -50709,7 +50731,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/air-raid-shelters-taiwan.md",
+          "translatedFrom": "Society/防空避難.md",
+          "sourceCommitSha": "f72b7c411",
+          "sourceContentHash": "sha256:2864f529a23701fe",
+          "sourceBodyHash": "sha256:c8066f344d7a7cc6",
+          "translatedAt": "2026-09-11T17:19:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -55241,8 +55274,8 @@
           "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
           "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
           "translatedAt": "2026-09-11T15:43:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -64973,8 +65006,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-11T16:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -64987,7 +65020,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:585807acc89b5597",
+          "sourceBodyHash": "sha256:f114fc7180bbb45a",
+          "translatedAt": "2026-09-11T17:19:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -79054,7 +79098,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/wang-da-hong-architect.md",
+          "translatedFrom": "People/王大閎.md",
+          "sourceCommitSha": "b90ca43b0",
+          "sourceContentHash": "sha256:377677ba4b69d2d9",
+          "sourceBodyHash": "sha256:4ff2706afa6c57f6",
+          "translatedAt": "2026-09-11T16:59:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -82933,8 +82988,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-11T15:43:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -105421,8 +105476,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-11T15:57:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -111557,7 +111612,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/lin-yu-ting-boxer.md",
+          "translatedFrom": "People/林郁婷.md",
+          "sourceCommitSha": "c0f587606",
+          "sourceContentHash": "sha256:322fadf3d54cf027",
+          "sourceBodyHash": "sha256:5a14ed890fa46c36",
+          "translatedAt": "2026-09-11T17:26:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -124252,8 +124318,8 @@
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
           "translatedAt": "2026-09-11T16:59:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -124266,7 +124332,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/ba-pu-ice-cream.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-11T17:26:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -126473,8 +126550,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-11T15:57:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -135833,8 +135910,8 @@
           "sourceContentHash": "sha256:65e86deccc5676be",
           "sourceBodyHash": "sha256:c479bb28dd01bd12",
           "translatedAt": "2026-09-11T16:08:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -137039,8 +137116,8 @@
           "sourceContentHash": "sha256:e8b694e836a1a788",
           "sourceBodyHash": "sha256:a57ef7adfb910d4f",
           "translatedAt": "2026-09-11T16:08:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -137676,8 +137753,8 @@
           "sourceContentHash": "sha256:6c11a4c56a329d52",
           "sourceBodyHash": "sha256:eca7e0ea95cf835a",
           "translatedAt": "2026-09-11T16:20:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -151612,8 +151689,8 @@
           "sourceContentHash": "sha256:00421195123cb8ed",
           "sourceBodyHash": "sha256:ce8848a5d2ba18da",
           "translatedAt": "2026-09-11T16:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -151626,7 +151703,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/capoo-cat-character.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-11T17:19:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -158313,7 +158401,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-iron-window-grilles.md",
+          "translatedFrom": "Culture/鐵窗花.md",
+          "sourceCommitSha": "ec3d660ca",
+          "sourceContentHash": "sha256:1888ffac8016e710",
+          "sourceBodyHash": "sha256:30a2135abbfbcd4c",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-iron-window-grilles.md",
@@ -159725,8 +159824,8 @@
           "sourceContentHash": "sha256:f55a726b94593a52",
           "sourceBodyHash": "sha256:af42a6da82295d4c",
           "translatedAt": "2026-09-11T16:20:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -163099,7 +163198,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-11T17:19:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -164629,8 +164739,8 @@
           "sourceContentHash": "sha256:6c4805ee1614abe3",
           "sourceBodyHash": "sha256:6bca10d6157cb46a",
           "translatedAt": "2026-09-11T16:30:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -165479,8 +165589,8 @@
           "sourceContentHash": "sha256:ce021fd2a077ae57",
           "sourceBodyHash": "sha256:ca35c2a9b4b8b4ff",
           "translatedAt": "2026-09-11T16:30:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f52c0ecd",
+          "translationLastModified": "2026-09-11T17:18:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
