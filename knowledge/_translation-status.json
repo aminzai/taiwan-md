@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T03:24:32+08:00",
-    "zhCommitHead": "5f4495128",
+    "lastUpdated": "2026-09-12T03:29:25+08:00",
+    "zhCommitHead": "2712704f2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 923,
+        "fresh": 924,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 716,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 345,
+        "missing": 343,
         "orphan": 0
       },
       "pt": {
@@ -30827,8 +30827,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2712704f",
+          "translationLastModified": "2026-09-12T03:24:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -31542,7 +31542,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Art/ximen-red-house.md",
+          "translatedFrom": "Art/西門紅樓.md",
+          "sourceCommitSha": "47c6b3e7e",
+          "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
+          "sourceBodyHash": "sha256:2df61ce131967498",
+          "translatedAt": "2026-09-12T03:07:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -40331,8 +40342,8 @@
           "sourceContentHash": "sha256:3acf49c3933c9229",
           "sourceBodyHash": "sha256:f91712c52f95f564",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2712704f",
+          "translationLastModified": "2026-09-12T03:24:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46941,7 +46952,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -68163,8 +68185,8 @@
           "sourceContentHash": "sha256:0f10426fa5e4f016",
           "sourceBodyHash": "sha256:f73fed3867526ad3",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2712704f",
+          "translationLastModified": "2026-09-12T03:24:33+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -72951,7 +72973,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/froggy-chiu.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -124985,8 +125018,8 @@
           "sourceContentHash": "sha256:a5acd8724ecb9309",
           "sourceBodyHash": "sha256:05bf91e749daff0d",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2712704f",
+          "translationLastModified": "2026-09-12T03:24:33+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -159392,8 +159425,8 @@
           "sourceContentHash": "sha256:b67985f61b48d180",
           "sourceBodyHash": "sha256:7e401e79a285bbeb",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2712704f",
+          "translationLastModified": "2026-09-12T03:24:33+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
