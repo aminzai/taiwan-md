@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T00:58:12+08:00",
-    "zhCommitHead": "4f11c9a81",
+    "lastUpdated": "2026-09-12T01:05:34+08:00",
+    "zhCommitHead": "70064fe1c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 712,
+        "fresh": 713,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 347,
+        "missing": 346,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 870,
+        "fresh": 871,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 169,
+        "missing": 168,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 266,
+        "missing": 265,
         "orphan": 0
       },
       "ar": {
@@ -6627,7 +6627,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -71579,7 +71590,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chiuchiu-shoes-youtuber.md",
+          "translatedFrom": "People/啾啾鞋.md",
+          "sourceCommitSha": "9c63d8227",
+          "sourceContentHash": "sha256:4ae6e15b4e3eea8f",
+          "sourceBodyHash": "sha256:09d31f29d2008420",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chiuchiu-shoes-youtuber.md",
@@ -75150,8 +75172,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-11T23:15:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "70064fe1",
+          "translationLastModified": "2026-09-12T00:58:12+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -138321,7 +138343,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -157439,8 +157472,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-11T23:52:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "70064fe1",
+          "translationLastModified": "2026-09-12T00:58:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
