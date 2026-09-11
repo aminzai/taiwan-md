@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T07:06:25+08:00",
-    "zhCommitHead": "02cfdfc35",
+    "lastUpdated": "2026-09-12T07:41:41+08:00",
+    "zhCommitHead": "266ba98cb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 722,
+        "fresh": 723,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 337,
+        "missing": 336,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 889,
+        "fresh": 890,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 150,
+        "missing": 149,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 820,
+        "fresh": 821,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 246,
+        "missing": 245,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 871,
+        "fresh": 872,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 188,
+        "missing": 187,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 921,
+        "fresh": 922,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 144,
+        "missing": 143,
         "orphan": 0
       },
       "de": {
@@ -8955,8 +8955,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -44971,7 +44971,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/sign-language-video-relay.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/sign-language-video-relay.md",
@@ -71576,7 +71587,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ceylan-youtuber.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:f1296fe6fee14759",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T22:54:25.030554+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/ceylan-youtuber.md",
@@ -71585,8 +71607,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -72832,7 +72854,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:7f7dea58a093fcc2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T23:23:57.426607+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/lin-hsien-tang.md",
@@ -80550,8 +80583,8 @@
           "sourceContentHash": "sha256:377677ba4b69d2d9",
           "sourceBodyHash": "sha256:4ff2706afa6c57f6",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -95691,7 +95724,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/muyao4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -138150,8 +138194,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -140200,7 +140244,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/zhongli-incident.md",
+          "translatedFrom": "History/中壢事件.md",
+          "sourceCommitSha": "9c6593209",
+          "sourceContentHash": "sha256:0efe004ac219c7e1",
+          "sourceBodyHash": "sha256:60dbc011718fc443",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/zhongli-incident.md",
@@ -154709,8 +154764,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -158052,8 +158107,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -168432,8 +168487,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "266ba98c",
+          "translationLastModified": "2026-09-12T07:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
