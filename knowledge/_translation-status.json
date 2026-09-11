@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T19:57:04+08:00",
-    "zhCommitHead": "2b2550dd8",
+    "lastUpdated": "2026-09-11T20:51:34+08:00",
+    "zhCommitHead": "e24918b7b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 701,
+        "fresh": 702,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 357,
+        "missing": 356,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 856,
+        "fresh": 857,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 183,
+        "missing": 182,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 789,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 279,
+        "missing": 277,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 843,
+        "fresh": 844,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 215,
+        "missing": 214,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 889,
+        "fresh": 890,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 176,
+        "missing": 175,
         "orphan": 0
       },
       "de": {
@@ -8003,18 +8003,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -8941,7 +8930,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -14279,8 +14279,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -38439,8 +38439,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -50633,8 +50633,8 @@
           "sourceContentHash": "sha256:4b8b01504ad6ae86",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T11:50:23.906295+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -67843,8 +67843,8 @@
           "sourceContentHash": "sha256:61e2c933e1672b41",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T09:57:14.150540+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -79500,16 +79500,49 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/wang-da-hong-architect.md",
+          "translatedFrom": "People/王大閎.md",
+          "sourceCommitSha": "b90ca43b0",
+          "sourceContentHash": "sha256:377677ba4b69d2d9",
+          "sourceBodyHash": "sha256:4ff2706afa6c57f6",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/wang-da-hong-architect.md",
+          "translatedFrom": "People/王大閎.md",
+          "sourceCommitSha": "b90ca43b0",
+          "sourceContentHash": "sha256:4cbd176678ae5ebb",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T12:06:10.507925+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/wang-da-hong-architect.md",
+          "translatedFrom": "People/王大閎.md",
+          "sourceCommitSha": "b90ca43b0",
+          "sourceContentHash": "sha256:377677ba4b69d2d9",
+          "sourceBodyHash": "sha256:4ff2706afa6c57f6",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/wang-da-hong-architect.md",
@@ -93700,8 +93733,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -97523,8 +97556,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -102105,7 +102138,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/zhuge-si-lang-comic.md",
+          "translatedFrom": "People/諸葛四郎.md",
+          "sourceCommitSha": "e38376ee4",
+          "sourceContentHash": "sha256:e3fbaeedac9c6f10",
+          "sourceBodyHash": "sha256:1b0f00900854455d",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -110823,8 +110867,8 @@
           "sourceContentHash": "sha256:eedc983e2ea9d824",
           "sourceBodyHash": "sha256:7efe5656906a3904",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -124339,8 +124383,8 @@
           "sourceContentHash": "sha256:642056c48559793a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T10:00:46.359516+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -140103,7 +140147,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/roc-aesthetics.md",
@@ -164169,8 +164224,8 @@
           "sourceContentHash": "sha256:40afb2d50aafb904",
           "sourceBodyHash": "sha256:741df566dca09227",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e24918b7",
+          "translationLastModified": "2026-09-11T19:57:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -165762,7 +165817,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
