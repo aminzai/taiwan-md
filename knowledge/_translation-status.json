@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T20:51:34+08:00",
-    "zhCommitHead": "e24918b7b",
+    "lastUpdated": "2026-09-11T21:17:26+08:00",
+    "zhCommitHead": "e17c7fd1b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 978,
-        "stale": 80,
+        "fresh": 979,
+        "stale": 79,
         "metadata_stale": 19,
         "missing": 44,
         "orphan": 0
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 702,
+        "fresh": 703,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 356,
+        "missing": 355,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 857,
+        "fresh": 856,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 182,
+        "missing": 183,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 277,
+        "missing": 276,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 890,
+        "fresh": 892,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 175,
+        "missing": 173,
         "orphan": 0
       },
       "de": {
@@ -7989,18 +7989,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-11T17:03:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -8947,7 +8936,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -21512,18 +21512,16 @@
         "en": {
           "path": "en/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:9e7ddff3899aaa85",
-          "sourceBodyHash": "sha256:909022379c9cd8a0",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bafa69de0246ccbe",
+          "sourceBodyHash": "sha256:d9ab34ee59f266bc",
+          "translatedAt": "2026-09-11T19:08:48+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/hsuehshan-tunnel.md",
@@ -42644,8 +42642,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-11T17:03:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e17c7fd1",
+          "translationLastModified": "2026-09-11T20:51:43+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -43213,8 +43211,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-11T17:03:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e17c7fd1",
+          "translationLastModified": "2026-09-11T20:51:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -136275,7 +136273,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-piracy-era.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-piracy-era.md",
@@ -136826,8 +136835,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-11T17:03:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e17c7fd1",
+          "translationLastModified": "2026-09-11T20:51:43+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -140153,8 +140162,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-11T17:03:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e17c7fd1",
+          "translationLastModified": "2026-09-11T20:51:43+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -153824,8 +153833,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-11T17:03:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e17c7fd1",
+          "translationLastModified": "2026-09-11T20:51:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -155690,7 +155699,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/port-of-kaohsiung.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -165811,7 +165831,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:5deab9ded98caf34",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T12:38:58.129927+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -165834,7 +165865,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
