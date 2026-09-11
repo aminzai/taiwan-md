@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T09:24:59+08:00",
-    "zhCommitHead": "d84dd0bb0",
+    "lastUpdated": "2026-09-11T09:32:37+08:00",
+    "zhCommitHead": "696b724ae",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 902,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 121,
+        "missing": 120,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 904,
+        "fresh": 905,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 121,
+        "missing": 120,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 854,
+        "fresh": 855,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 167,
+        "missing": 166,
         "orphan": 0
       },
       "vi": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 828,
+        "fresh": 829,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 211,
+        "missing": 210,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 867,
+        "fresh": 868,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       },
       "de": {
@@ -8382,7 +8382,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/taiwan-paper-industry.md",
+          "translatedFrom": "Economy/造紙.md",
+          "sourceCommitSha": "73c4abdde",
+          "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
+          "sourceBodyHash": "sha256:118ca7651c90b0fe",
+          "translatedAt": "2026-09-11T09:22:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -67741,8 +67752,8 @@
           "sourceContentHash": "sha256:f7989f09dc5120dd",
           "sourceBodyHash": "sha256:22f458cb51ab119a",
           "translatedAt": "2026-09-11T05:40:18+08:00",
-          "translationLastCommit": "3a2cee9a",
-          "translationLastModified": "2026-09-10T04:30:04+08:00",
+          "translationLastCommit": "696b724a",
+          "translationLastModified": "2026-09-11T09:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -70784,7 +70795,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/idiot-princess-youtuber.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-11T09:22:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -134313,8 +134335,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-11T05:40:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "696b724a",
+          "translationLastModified": "2026-09-11T09:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -137497,8 +137519,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-11T05:40:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "696b724a",
+          "translationLastModified": "2026-09-11T09:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -137586,7 +137608,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/lin-an-tai-historical-house.md",
+          "translatedFrom": "Geography/林安泰古厝.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:47d89dc0ac03a566",
+          "sourceBodyHash": "sha256:7079616fec64f3a7",
+          "translatedAt": "2026-09-11T05:40:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/lin-an-tai-historical-house.md",
@@ -138781,7 +138814,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-11T09:22:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -148363,8 +148407,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-11T05:40:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "696b724a",
+          "translationLastModified": "2026-09-11T09:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -150947,7 +150991,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-independent-bookstores.md",
+          "translatedFrom": "Culture/台灣獨立書店.md",
+          "sourceCommitSha": "1919362ee",
+          "sourceContentHash": "sha256:6207d486dffbdfd0",
+          "sourceBodyHash": "sha256:a33d52837bb11fe8",
+          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
