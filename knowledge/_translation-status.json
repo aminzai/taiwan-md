@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T17:02:19+08:00",
-    "zhCommitHead": "b5ce0eeba",
+    "lastUpdated": "2026-09-11T17:18:25+08:00",
+    "zhCommitHead": "09c7cf4fc",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 968,
+        "fresh": 970,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 54,
+        "missing": 52,
         "orphan": 0
       },
       "ja": {
@@ -30623,8 +30623,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09c7cf4f",
+          "translationLastModified": "2026-09-11T17:02:19+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -31692,7 +31692,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/weiwuying-arts-center.md",
+          "translatedFrom": "Art/衛武營.md",
+          "sourceCommitSha": "7fddc5077",
+          "sourceContentHash": "sha256:839c2636244d1802",
+          "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
+          "translatedAt": "2026-09-11T16:59:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -123740,8 +123751,8 @@
           "sourceContentHash": "sha256:3584d0ee1c271870",
           "sourceBodyHash": "sha256:fc73e90b8bb78029",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09c7cf4f",
+          "translationLastModified": "2026-09-11T17:02:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -124235,7 +124246,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/ba-pu-ice-cream.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-11T16:59:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -158328,8 +158350,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09c7cf4f",
+          "translationLastModified": "2026-09-11T17:02:19+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
