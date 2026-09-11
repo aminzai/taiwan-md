@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T21:45:55+08:00",
-    "zhCommitHead": "d79f40339",
+    "lastUpdated": "2026-09-11T23:01:30+08:00",
+    "zhCommitHead": "6700e8246",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 980,
+        "fresh": 985,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 43,
+        "missing": 38,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 976,
+        "fresh": 979,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 49,
+        "missing": 46,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 908,
+        "fresh": 910,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 113,
+        "missing": 111,
         "orphan": 0
       },
       "vi": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 705,
-        "stale": 54,
+        "fresh": 707,
+        "stale": 53,
         "metadata_stale": 9,
-        "missing": 353,
+        "missing": 352,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 858,
+        "fresh": 863,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 181,
+        "missing": 176,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 793,
+        "fresh": 796,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 273,
+        "missing": 270,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 847,
+        "fresh": 849,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 211,
+        "missing": 209,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 892,
+        "fresh": 895,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 173,
+        "missing": 170,
         "orphan": 0
       },
       "de": {
@@ -8914,8 +8914,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -13869,7 +13869,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -44494,7 +44505,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/sign-language-video-relay.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-11T22:00:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -46737,7 +46759,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-11T22:12:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -67789,7 +67822,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/taiwan-campaign-rallies.md",
+          "translatedFrom": "Politics/選舉造勢.md",
+          "sourceCommitSha": "6226eb6aa",
+          "sourceContentHash": "sha256:0f10426fa5e4f016",
+          "sourceBodyHash": "sha256:f73fed3867526ad3",
+          "translatedAt": "2026-09-11T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -68813,18 +68857,16 @@
         "id": {
           "path": "id/Politics/indigenous-name-rectification.md",
           "translatedFrom": "Politics/原住民族正名.md",
-          "sourceCommitSha": "2414d550b",
-          "sourceContentHash": "sha256:c1244738725b223d",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-10T00:00:00Z",
+          "sourceCommitSha": "3a2cee9a5",
+          "sourceContentHash": "sha256:f7989f09dc5120dd",
+          "sourceBodyHash": "sha256:22f458cb51ab119a",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+39 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/indigenous-name-rectification.md",
@@ -70590,10 +70632,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/joeman.md",
+          "translatedFrom": "People/Joeman.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:19eba63c27c61c88",
+          "sourceBodyHash": "sha256:18e7518b3acc71b4",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/joeman.md",
+          "translatedFrom": "People/Joeman.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:19eba63c27c61c88",
+          "sourceBodyHash": "sha256:18e7518b3acc71b4",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -70724,7 +70788,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/ceylan-youtuber.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-11T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -70776,8 +70851,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -70798,7 +70873,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/ceylan-youtuber.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -79554,8 +79640,8 @@
           "sourceContentHash": "sha256:4cbd176678ae5ebb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T12:06:10.507925+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -79948,7 +80034,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/li-ke-tai-tai.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-11T21:46:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -80002,7 +80099,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/li-ke-tai-tai.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -90478,7 +90586,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/ting-jih-chang.md",
+          "translatedFrom": "People/丁日昌.md",
+          "sourceCommitSha": "d48e11006",
+          "sourceContentHash": "sha256:feb8dc67f30db2e2",
+          "sourceBodyHash": "sha256:75dbc702aa896f78",
+          "translatedAt": "2026-09-11T22:12:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/ting-jih-chang.md",
@@ -107448,7 +107567,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/wei-tsung-cheng-comic-artist.md",
+          "translatedFrom": "People/韋宗成.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:2f3feb8df34cdc45",
+          "sourceBodyHash": "sha256:3e236311319150f0",
+          "translatedAt": "2026-09-11T21:46:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -112583,7 +112713,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/sixvfx-lu-tzu-yuan.md",
+          "translatedFrom": "People/六指淵.md",
+          "sourceCommitSha": "768afaf0f",
+          "sourceContentHash": "sha256:95e79e3879d5de81",
+          "sourceBodyHash": "sha256:37f56e84be16a425",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -129153,7 +129294,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taiwan-fishery-modernization.md",
+          "translatedFrom": "History/台灣漁業現代化.md",
+          "sourceCommitSha": "b12fbf568",
+          "sourceContentHash": "sha256:84a9ef52691dd2f8",
+          "sourceBodyHash": "sha256:68c0d956335b9413",
+          "translatedAt": "2026-09-11T22:00:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-fishery-modernization.md",
@@ -129651,7 +129803,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/national-railway-museum-taiwan.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-11T21:46:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -133360,7 +133523,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/port-of-taichung.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -135522,7 +135696,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/us-aid-to-taiwan.md",
+          "translatedFrom": "History/美援.md",
+          "sourceCommitSha": "fd38b4f67",
+          "sourceContentHash": "sha256:b5ab59defaace1b5",
+          "sourceBodyHash": "sha256:c2985aa6d661a10a",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/us-aid-to-taiwan.md",
@@ -135817,7 +136002,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:d80f079014589543",
+          "sourceBodyHash": "sha256:3441000e1e1b1dde",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-parliament-petition-movement.md",
@@ -136331,8 +136527,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -137663,7 +137859,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/1959-august-7-flood.md",
+          "translatedFrom": "History/87水災.md",
+          "sourceCommitSha": "a007d05a2",
+          "sourceContentHash": "sha256:ba3d35e713460c50",
+          "sourceBodyHash": "sha256:d7642501b86ebb9c",
+          "translatedAt": "2026-09-11T21:46:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/1959-august-7-flood.md",
@@ -138288,8 +138495,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -138310,7 +138517,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/zhongli-incident.md",
+          "translatedFrom": "History/中壢事件.md",
+          "sourceCommitSha": "9c6593209",
+          "sourceContentHash": "sha256:0efe004ac219c7e1",
+          "sourceBodyHash": "sha256:60dbc011718fc443",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -148677,7 +148895,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -155837,8 +156066,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -160649,13 +160878,46 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/bunun-millet-rituals.md",
+          "translatedFrom": "Culture/布農族小米歲時祭儀.md",
+          "sourceCommitSha": "36f293ae0",
+          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceBodyHash": "sha256:dee79906f6659ba2",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/bunun-millet-rituals.md",
+          "translatedFrom": "Culture/布農族小米歲時祭儀.md",
+          "sourceCommitSha": "36f293ae0",
+          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceBodyHash": "sha256:dee79906f6659ba2",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/bunun-millet-rituals.md",
+          "translatedFrom": "Culture/布農族小米歲時祭儀.md",
+          "sourceCommitSha": "36f293ae0",
+          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceBodyHash": "sha256:dee79906f6659ba2",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/bunun-millet-rituals.md",
@@ -165997,8 +166259,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-11T17:03:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6700e824",
+          "translationLastModified": "2026-09-11T21:45:56+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
