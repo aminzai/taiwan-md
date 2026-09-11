@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T19:39:05+08:00",
-    "zhCommitHead": "ccd3bb214",
+    "lastUpdated": "2026-09-11T19:57:04+08:00",
+    "zhCommitHead": "2b2550dd8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,34 +68,34 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 702,
+        "fresh": 701,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 356,
+        "missing": 357,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 854,
+        "fresh": 856,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 185,
+        "missing": 183,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 280,
+        "missing": 279,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 841,
+        "fresh": 843,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 217,
+        "missing": 215,
         "orphan": 0
       },
       "ru": {
@@ -7986,21 +7986,21 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/taiwan-orchid-industry.md",
+          "status": "missing"
+        },
+        "pt": {
+          "path": "pt/Economy/taiwan-orchid-industry.md",
           "translatedFrom": "Economy/台灣蘭花.md",
           "sourceCommitSha": "63fb967a1",
           "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
           "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
-        },
-        "pt": {
-          "status": "missing"
         },
         "hi": {
           "path": "hi/Economy/taiwan-orchid-industry.md",
@@ -14251,8 +14251,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b2550dd",
+          "translationLastModified": "2026-09-11T19:39:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -38422,8 +38422,8 @@
           "sourceContentHash": "sha256:0621b1b977ebccef",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T11:06:53.653718+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b2550dd",
+          "translationLastModified": "2026-09-11T19:39:13+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -42630,8 +42630,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b2550dd",
+          "translationLastModified": "2026-09-11T19:39:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -43199,8 +43199,8 @@
           "sourceContentHash": "sha256:db0507a661e567d8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T10:43:35.977599+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b2550dd",
+          "translationLastModified": "2026-09-11T19:39:13+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -50616,8 +50616,8 @@
           "sourceContentHash": "sha256:8576889db63ed923",
           "sourceBodyHash": "sha256:6ca0540d354ad040",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b2550dd",
+          "translationLastModified": "2026-09-11T19:39:13+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -50627,10 +50627,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-dashcam-society.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:4b8b01504ad6ae86",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T11:50:23.906295+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-dashcam-society.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-dashcam-society.md",
@@ -136754,7 +136776,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/lin-shuang-wen-rebellion.md",
+          "translatedFrom": "History/林爽文事件.md",
+          "sourceCommitSha": "b9634f1c4",
+          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceBodyHash": "sha256:e4ff63840e8f7331",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/lin-shuang-wen-rebellion.md",
@@ -153123,7 +153156,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/hla-alua-people.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/hla-alua-people.md",
@@ -164108,8 +164152,8 @@
           "sourceContentHash": "sha256:40afb2d50aafb904",
           "sourceBodyHash": "sha256:741df566dca09227",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b2550dd",
+          "translationLastModified": "2026-09-11T19:39:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
