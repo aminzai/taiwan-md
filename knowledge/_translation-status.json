@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T09:17:52+08:00",
-    "zhCommitHead": "1eb3bdaca",
+    "lastUpdated": "2026-09-11T09:21:21+08:00",
+    "zhCommitHead": "8b6f3f0b6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 123,
+        "missing": 122,
         "orphan": 0
       },
       "fr": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 762,
+        "fresh": 763,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 304,
+        "missing": 303,
         "orphan": 0
       },
       "ar": {
@@ -8397,8 +8397,8 @@
           "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
           "sourceBodyHash": "sha256:118ca7651c90b0fe",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b6f3f0b",
+          "translationLastModified": "2026-09-11T09:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -39342,8 +39342,8 @@
           "sourceContentHash": "sha256:ba22e1d88e87855f",
           "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b6f3f0b",
+          "translationLastModified": "2026-09-11T09:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -86838,8 +86838,8 @@
           "sourceContentHash": "sha256:0feccf50e70e790f",
           "sourceBodyHash": "sha256:bec1cc9ae32ba029",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b6f3f0b",
+          "translationLastModified": "2026-09-11T09:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -133079,7 +133079,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/us-aid-to-taiwan.md",
+          "translatedFrom": "History/美援.md",
+          "sourceCommitSha": "fd38b4f67",
+          "sourceContentHash": "sha256:b5ab59defaace1b5",
+          "sourceBodyHash": "sha256:c2985aa6d661a10a",
+          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -140332,7 +140343,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/western-trunk-railway.md",
+          "translatedFrom": "Geography/縱貫鐵路.md",
+          "sourceCommitSha": "77fa1a757",
+          "sourceContentHash": "sha256:70bb378dbb4d4234",
+          "sourceBodyHash": "sha256:82e8d65770b72f8e",
+          "translatedAt": "2026-09-11T09:15:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -148304,8 +148326,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b6f3f0b",
+          "translationLastModified": "2026-09-11T09:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -149356,8 +149378,8 @@
           "sourceContentHash": "sha256:2cedbbfcbfc952b5",
           "sourceBodyHash": "sha256:d7c1a96e25224b11",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8b6f3f0b",
+          "translationLastModified": "2026-09-11T09:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
