@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T21:17:26+08:00",
-    "zhCommitHead": "e17c7fd1b",
+    "lastUpdated": "2026-09-11T21:35:21+08:00",
+    "zhCommitHead": "2bd5dd4df",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 979,
+        "fresh": 980,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 974,
+        "fresh": 975,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 51,
+        "missing": 50,
         "orphan": 0
       },
       "fr": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 703,
+        "fresh": 704,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 355,
+        "missing": 354,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 856,
+        "fresh": 857,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 183,
+        "missing": 182,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 791,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 276,
+        "missing": 275,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 892,
+        "fresh": 891,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 173,
+        "missing": 174,
         "orphan": 0
       },
       "de": {
@@ -7998,18 +7998,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -8942,8 +8931,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd5dd4d",
+          "translationLastModified": "2026-09-11T21:17:31+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -102142,8 +102131,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd5dd4d",
+          "translationLastModified": "2026-09-11T21:17:31+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -110882,8 +110871,8 @@
           "sourceContentHash": "sha256:eedc983e2ea9d824",
           "sourceBodyHash": "sha256:7efe5656906a3904",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd5dd4d",
+          "translationLastModified": "2026-09-11T21:17:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -135492,7 +135481,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/us-aid-to-taiwan.md",
+          "translatedFrom": "History/美援.md",
+          "sourceCommitSha": "fd38b4f67",
+          "sourceContentHash": "sha256:b5ab59defaace1b5",
+          "sourceBodyHash": "sha256:c2985aa6d661a10a",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/us-aid-to-taiwan.md",
@@ -136264,13 +136264,35 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-piracy-era.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:43c8ec2f83486e39",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T13:21:14.147808+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-piracy-era.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-piracy-era.md",
@@ -147817,7 +147839,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/losheng-sanatorium.md",
+          "translatedFrom": "Geography/樂生療養院.md",
+          "sourceCommitSha": "4b946c51d",
+          "sourceContentHash": "sha256:97323b56bde19cd4",
+          "sourceBodyHash": "sha256:1cf3a8a560e00934",
+          "translatedAt": "2026-09-11T21:23:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/losheng-sanatorium.md",
@@ -155003,7 +155036,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/tatung-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-11T21:23:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -165871,8 +165915,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd5dd4d",
+          "translationLastModified": "2026-09-11T21:17:31+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
