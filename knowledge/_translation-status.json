@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T06:59:52+08:00",
-    "zhCommitHead": "c0c7c4378",
+    "lastUpdated": "2026-09-12T07:06:25+08:00",
+    "zhCommitHead": "02cfdfc35",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 889,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 151,
+        "missing": 150,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 247,
+        "missing": 246,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 920,
+        "fresh": 921,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 145,
+        "missing": 144,
         "orphan": 0
       },
       "de": {
@@ -8924,8 +8924,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-12T06:49:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -30955,8 +30955,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-12T06:35:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -68544,8 +68544,8 @@
           "sourceContentHash": "sha256:0f10426fa5e4f016",
           "sourceBodyHash": "sha256:f73fed3867526ad3",
           "translatedAt": "2026-09-12T06:43:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -71352,8 +71352,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-12T06:41:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -71579,7 +71579,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ceylan-youtuber.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/ceylan-youtuber.md",
@@ -74506,7 +74517,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -89105,8 +89127,8 @@
           "sourceContentHash": "sha256:e0f89a1113cc2a1d",
           "sourceBodyHash": "sha256:f4fed166bea776f5",
           "translatedAt": "2026-09-12T06:33:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -143536,8 +143558,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-12T06:44:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -150702,7 +150724,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/ankeng-light-rail.md",
@@ -154645,8 +154678,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-12T06:52:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -169407,8 +169440,8 @@
           "sourceContentHash": "sha256:15d6246d744f90bf",
           "sourceBodyHash": "sha256:227017306bf0c999",
           "translatedAt": "2026-09-12T06:32:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "02cfdfc3",
+          "translationLastModified": "2026-09-12T06:59:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
