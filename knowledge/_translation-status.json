@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T23:08:21+08:00",
-    "zhCommitHead": "f781af378",
+    "lastUpdated": "2026-09-11T23:15:23+08:00",
+    "zhCommitHead": "5aa001aa9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 979,
+        "fresh": 980,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "vi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 209,
+        "missing": 208,
         "orphan": 0
       },
       "ru": {
@@ -13892,8 +13892,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa001aa",
+          "translationLastModified": "2026-09-11T23:08:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -70923,8 +70923,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa001aa",
+          "translationLastModified": "2026-09-11T23:08:22+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -129464,7 +129464,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-11T23:06:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -137479,7 +137490,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-11T23:06:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-farmers-association-history.md",
@@ -138567,8 +138589,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa001aa",
+          "translationLastModified": "2026-09-11T23:08:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -141875,7 +141897,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -148945,8 +148978,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa001aa",
+          "translationLastModified": "2026-09-11T23:08:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -156127,8 +156160,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-11T17:03:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa001aa",
+          "translationLastModified": "2026-09-11T23:08:22+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
