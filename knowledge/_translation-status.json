@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T13:19:42+08:00",
-    "zhCommitHead": "51f5c3fbd",
+    "lastUpdated": "2026-09-11T13:27:20+08:00",
+    "zhCommitHead": "161500b45",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 936,
+        "fresh": 939,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 89,
+        "missing": 86,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 874,
+        "fresh": 875,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 147,
+        "missing": 146,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 692,
+        "fresh": 693,
         "stale": 54,
         "metadata_stale": 9,
-        "missing": 366,
+        "missing": 365,
         "orphan": 0
       },
       "pt": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 882,
+        "fresh": 879,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 183,
+        "missing": 186,
         "orphan": 0
       },
       "de": {
@@ -6614,18 +6614,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -17804,8 +17793,8 @@
           "sourceContentHash": "sha256:91d2e06ad3b432cd",
           "sourceBodyHash": "sha256:326a1e569da021aa",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "161500b4",
+          "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -23074,7 +23063,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-11T13:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -24796,7 +24796,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/taiwan-display-industry.md",
+          "translatedFrom": "Technology/台灣顯示器產業.md",
+          "sourceCommitSha": "8544f5ff6",
+          "sourceContentHash": "sha256:6f543fc8322b4070",
+          "sourceBodyHash": "sha256:487e3d2f13378d12",
+          "translatedAt": "2026-09-11T13:21:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -77475,7 +77486,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chung-chao-cheng.md",
+          "translatedFrom": "People/鍾肇政.md",
+          "sourceCommitSha": "82038b29f",
+          "sourceContentHash": "sha256:e30095af8a74328f",
+          "sourceBodyHash": "sha256:9240eda59faf09e3",
+          "translatedAt": "2026-09-11T05:40:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -87204,8 +87226,8 @@
           "sourceContentHash": "sha256:e0f89a1113cc2a1d",
           "sourceBodyHash": "sha256:f4fed166bea776f5",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "161500b4",
+          "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -128391,8 +128413,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "161500b4",
+          "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -131890,8 +131912,8 @@
           "sourceContentHash": "sha256:ff604a79f8320b85",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T03:20:00.238688+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "161500b4",
+          "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -136269,18 +136291,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -140866,18 +140877,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -144951,7 +144951,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/taiwan-tap-water.md",
+          "translatedFrom": "Geography/自來水.md",
+          "sourceCommitSha": "a9e791a05",
+          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceBodyHash": "sha256:300f2a84fb69ef78",
+          "translatedAt": "2026-09-11T13:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -144986,8 +144997,8 @@
           "sourceContentHash": "sha256:9b07db3bc18b0b72",
           "sourceBodyHash": "sha256:300f2a84fb69ef78",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "161500b4",
+          "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -150314,8 +150325,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-11T05:40:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "161500b4",
+          "translationLastModified": "2026-09-11T13:19:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -156694,7 +156705,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-11T13:21:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
