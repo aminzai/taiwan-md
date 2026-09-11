@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T09:21:21+08:00",
-    "zhCommitHead": "8b6f3f0b6",
+    "lastUpdated": "2026-09-11T09:24:59+08:00",
+    "zhCommitHead": "d84dd0bb0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 853,
+        "fresh": 854,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 168,
+        "missing": 167,
         "orphan": 0
       },
       "vi": {
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 819,
-        "stale": 50,
+        "fresh": 820,
+        "stale": 49,
         "metadata_stale": 14,
         "missing": 238,
         "orphan": 0
@@ -67737,18 +67737,16 @@
         "ar": {
           "path": "ar/Politics/indigenous-name-rectification.md",
           "translatedFrom": "Politics/原住民族正名.md",
-          "sourceCommitSha": "2414d550b",
-          "sourceContentHash": "sha256:76cb200976f4727d",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-10T16:30:00+08:00",
+          "sourceCommitSha": "3a2cee9a5",
+          "sourceContentHash": "sha256:f7989f09dc5120dd",
+          "sourceBodyHash": "sha256:22f458cb51ab119a",
+          "translatedAt": "2026-09-11T05:40:18+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+39 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Politics/indigenous-name-rectification.md",
@@ -69568,8 +69566,8 @@
           "sourceContentHash": "sha256:71bd23c9a7becdb3",
           "sourceBodyHash": "sha256:ac800d2068dd019e",
           "translatedAt": "2026-09-11T05:40:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84dd0bb",
+          "translationLastModified": "2026-09-11T09:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -109063,8 +109061,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-11T05:40:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84dd0bb",
+          "translationLastModified": "2026-09-11T09:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -109110,7 +109108,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/chen-san-huo-jiannian-artist.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-11T09:15:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -133085,8 +133094,8 @@
           "sourceContentHash": "sha256:b5ab59defaace1b5",
           "sourceBodyHash": "sha256:c2985aa6d661a10a",
           "translatedAt": "2026-09-11T05:40:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84dd0bb",
+          "translationLastModified": "2026-09-11T09:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -134290,8 +134299,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-11T05:40:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84dd0bb",
+          "translationLastModified": "2026-09-11T09:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -137586,8 +137595,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-11T05:40:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84dd0bb",
+          "translationLastModified": "2026-09-11T09:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -148340,8 +148349,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-11T05:40:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84dd0bb",
+          "translationLastModified": "2026-09-11T09:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -151660,7 +151669,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/indigenous-weaving-taiwan.md",
+          "translatedFrom": "Culture/原住民織布.md",
+          "sourceCommitSha": "7c99cd4b7",
+          "sourceContentHash": "sha256:d6b33427d383d025",
+          "sourceBodyHash": "sha256:d806fd1fb93df2e0",
+          "translatedAt": "2026-09-11T09:15:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
