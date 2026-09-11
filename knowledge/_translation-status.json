@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T14:24:38+08:00",
-    "zhCommitHead": "5ec771aea",
+    "lastUpdated": "2026-09-11T14:43:33+08:00",
+    "zhCommitHead": "4de2a1815",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 947,
+        "fresh": 948,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 78,
+        "missing": 77,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 880,
+        "fresh": 881,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       },
       "vi": {
@@ -76,34 +76,34 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 195,
+        "missing": 194,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 776,
+        "fresh": 777,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 290,
+        "missing": 289,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 835,
+        "fresh": 836,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 881,
+        "fresh": 882,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "de": {
@@ -36271,7 +36271,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-postal-service-history.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-postal-service-history.md",
@@ -39433,7 +39444,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taipei-bus-307.md",
+          "translatedFrom": "Lifestyle/307taipeibus.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1027a26b2054b2e",
+          "sourceBodyHash": "sha256:48c6ab2b08ee901b",
+          "translatedAt": "2026-09-11T05:40:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -87186,8 +87208,8 @@
           "sourceContentHash": "sha256:796b1e09f8d40882",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T23:15:03.291466+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4de2a181",
+          "translationLastModified": "2026-09-11T14:24:39+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -91024,7 +91046,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/domidoro.md",
+          "translatedFrom": "People/多米多羅.md",
+          "sourceCommitSha": "4e7919913",
+          "sourceContentHash": "sha256:bfcd5767d7b581f0",
+          "sourceBodyHash": "sha256:7d79b5e0261f5aba",
+          "translatedAt": "2026-09-11T14:23:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -118490,8 +118523,8 @@
           "sourceContentHash": "sha256:3b8cb7283b73d061",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T23:10:45.188173+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4de2a181",
+          "translationLastModified": "2026-09-11T14:24:39+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -123459,7 +123492,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -126214,8 +126258,8 @@
           "sourceContentHash": "sha256:07b585b9d90de3d1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T06:07:30.335589+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4de2a181",
+          "translationLastModified": "2026-09-11T14:24:39+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -150690,7 +150734,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/tsou-mayasvi-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-11T05:40:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/tsou-mayasvi-festival.md",
@@ -159179,7 +159234,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/bunun-millet-rituals.md",
+          "translatedFrom": "Culture/布農族小米歲時祭儀.md",
+          "sourceCommitSha": "36f293ae0",
+          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceBodyHash": "sha256:dee79906f6659ba2",
+          "translatedAt": "2026-09-11T14:23:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
