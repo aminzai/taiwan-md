@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T23:29:50+08:00",
-    "zhCommitHead": "f88732b9f",
+    "lastUpdated": "2026-09-11T23:33:50+08:00",
+    "zhCommitHead": "bb7647d3b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 987,
+        "fresh": 988,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 36,
+        "missing": 35,
         "orphan": 0
       },
       "ja": {
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 864,
+        "fresh": 865,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 175,
+        "missing": 174,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 798,
+        "fresh": 799,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 268,
+        "missing": 267,
         "orphan": 0
       },
       "ar": {
@@ -17968,8 +17968,8 @@
           "sourceContentHash": "sha256:91d2e06ad3b432cd",
           "sourceBodyHash": "sha256:326a1e569da021aa",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bb7647d3",
+          "translationLastModified": "2026-09-11T23:29:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -68927,8 +68927,8 @@
           "sourceContentHash": "sha256:f7989f09dc5120dd",
           "sourceBodyHash": "sha256:22f458cb51ab119a",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "3a2cee9a",
-          "translationLastModified": "2026-09-10T04:30:04+08:00",
+          "translationLastCommit": "bb7647d3",
+          "translationLastModified": "2026-09-11T23:29:50+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -108753,7 +108753,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/tsai-eng-meng.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-11T23:26:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -133521,7 +133532,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/823-artillery-bombardment.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/823-artillery-bombardment.md",
@@ -135823,8 +135845,8 @@
           "sourceContentHash": "sha256:b5ab59defaace1b5",
           "sourceBodyHash": "sha256:c2985aa6d661a10a",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bb7647d3",
+          "translationLastModified": "2026-09-11T23:29:50+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -140597,8 +140619,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-11T17:03:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bb7647d3",
+          "translationLastModified": "2026-09-11T23:29:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -141960,7 +141982,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/jiufen.md",
