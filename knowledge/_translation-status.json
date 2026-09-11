@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T13:11:49+08:00",
-    "zhCommitHead": "cce7b4da6",
+    "lastUpdated": "2026-09-11T13:19:42+08:00",
+    "zhCommitHead": "51f5c3fbd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 935,
+        "fresh": 937,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 87,
+        "missing": 85,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 935,
+        "fresh": 936,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 90,
+        "missing": 89,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 873,
+        "fresh": 874,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 148,
+        "missing": 147,
         "orphan": 0
       },
       "vi": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 772,
+        "fresh": 773,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 294,
+        "missing": 293,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 227,
+        "missing": 226,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 881,
+        "fresh": 882,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "de": {
@@ -39952,7 +39952,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/taking-off-shoes-indoors-taiwan.md",
+          "translatedFrom": "Lifestyle/台灣進屋脫鞋.md",
+          "sourceCommitSha": "93e572f8d",
+          "sourceContentHash": "sha256:4b052a359a9d9447",
+          "sourceBodyHash": "sha256:3fe6546421aedaf5",
+          "translatedAt": "2026-09-11T13:12:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -53320,7 +53331,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-community-colleges.md",
+          "translatedFrom": "Society/台灣社區大學.md",
+          "sourceCommitSha": "32ef726ca",
+          "sourceContentHash": "sha256:26ade929698dbe6a",
+          "sourceBodyHash": "sha256:c1ebe56158fbfca4",
+          "translatedAt": "2026-09-11T05:40:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-community-colleges.md",
@@ -56849,8 +56871,8 @@
           "sourceContentHash": "sha256:89564eca20ccb1a4",
           "sourceBodyHash": "sha256:aa22cde38abe8c50",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -89574,8 +89596,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -103672,7 +103694,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chen-wen-yu-plant-breeder.md",
+          "translatedFrom": "People/陳文郁.md",
+          "sourceCommitSha": "9062be977",
+          "sourceContentHash": "sha256:a830e3b88da8731a",
+          "sourceBodyHash": "sha256:d47891ab6b5fa242",
+          "translatedAt": "2026-09-11T13:12:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -124087,7 +124120,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-11T13:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -127273,8 +127317,8 @@
           "sourceContentHash": "sha256:6676da6439aa0dbf",
           "sourceBodyHash": "sha256:7541a1d205619b0c",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -127385,8 +127429,8 @@
           "sourceContentHash": "sha256:1a44b37b859d8b1a",
           "sourceBodyHash": "sha256:04c29c7226490085",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -127831,8 +127875,8 @@
           "sourceContentHash": "sha256:84a9ef52691dd2f8",
           "sourceBodyHash": "sha256:68c0d956335b9413",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -128808,8 +128852,8 @@
           "sourceContentHash": "sha256:d8b88408a353bacc",
           "sourceBodyHash": "sha256:6772a9de43938945",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -136121,8 +136165,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -140793,7 +140837,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-11T13:02:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -144908,7 +144963,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taiwan-tap-water.md",
+          "translatedFrom": "Geography/自來水.md",
+          "sourceCommitSha": "a9e791a05",
+          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceBodyHash": "sha256:300f2a84fb69ef78",
+          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -150242,7 +150308,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/tsou-mayasvi-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -153349,8 +153426,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -159114,8 +159191,8 @@
           "sourceContentHash": "sha256:ed1755ea004ce07b",
           "sourceBodyHash": "sha256:5143620e3afad434",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "51f5c3fb",
+          "translationLastModified": "2026-09-11T13:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
