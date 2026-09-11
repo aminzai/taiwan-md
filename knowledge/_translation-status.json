@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T23:06:27+08:00",
-    "zhCommitHead": "21261c790",
+    "lastUpdated": "2026-09-11T23:08:21+08:00",
+    "zhCommitHead": "f781af378",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 985,
+        "fresh": 986,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 38,
+        "missing": 37,
         "orphan": 0
       },
       "ja": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 895,
+        "fresh": 896,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 170,
+        "missing": 169,
         "orphan": 0
       },
       "de": {
@@ -13886,7 +13886,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -52921,7 +52932,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/energy-poverty-and-cooling.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-11T23:06:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -73532,8 +73554,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-11T21:33:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f781af37",
+          "translationLastModified": "2026-09-11T23:06:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -90614,8 +90636,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-11T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f781af37",
+          "translationLastModified": "2026-09-11T23:06:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -129322,8 +129344,8 @@
           "sourceContentHash": "sha256:84a9ef52691dd2f8",
           "sourceBodyHash": "sha256:68c0d956335b9413",
           "translatedAt": "2026-09-11T22:00:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f781af37",
+          "translationLastModified": "2026-09-11T23:06:27+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -137887,8 +137909,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-11T21:46:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f781af37",
+          "translationLastModified": "2026-09-11T23:06:27+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -148162,8 +148184,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-11T21:23:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f781af37",
+          "translationLastModified": "2026-09-11T23:06:27+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
