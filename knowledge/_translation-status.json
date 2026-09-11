@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T15:56:54+08:00",
-    "zhCommitHead": "3b44edfaf",
+    "lastUpdated": "2026-09-11T16:30:09+08:00",
+    "zhCommitHead": "d7d0bd28c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 958,
+        "fresh": 964,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 64,
+        "missing": 58,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 954,
+        "fresh": 956,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 71,
+        "missing": 69,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 887,
+        "fresh": 890,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 134,
+        "missing": 131,
         "orphan": 0
       },
       "vi": {
@@ -18576,8 +18576,8 @@
           "sourceContentHash": "sha256:7d150c85340f74af",
           "sourceBodyHash": "sha256:415bd00f696e8783",
           "translatedAt": "2026-09-11T15:12:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -29555,7 +29555,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Art/presidential-office-building-taipei.md",
+          "translatedFrom": "Art/總統府.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:9f877cc81b557524",
+          "sourceBodyHash": "sha256:e3230be59701ee45",
+          "translatedAt": "2026-09-11T15:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -37422,8 +37433,8 @@
           "sourceContentHash": "sha256:46b8b4c566a9b8ad",
           "sourceBodyHash": "sha256:261c0f7907febe33",
           "translatedAt": "2026-09-11T15:21:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -39302,8 +39313,8 @@
           "sourceContentHash": "sha256:4fcef48a4fb87a46",
           "sourceBodyHash": "sha256:13fc2011ed2fd336",
           "translatedAt": "2026-09-11T15:30:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -50285,7 +50296,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/taiwan-dashcam-society.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-11T16:20:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -77723,8 +77745,8 @@
           "sourceContentHash": "sha256:8b5c9e238eb4ea4f",
           "sourceBodyHash": "sha256:5116f6aabd263b48",
           "translatedAt": "2026-09-11T14:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -91217,8 +91239,8 @@
           "sourceContentHash": "sha256:bfcd5767d7b581f0",
           "sourceBodyHash": "sha256:7d79b5e0261f5aba",
           "translatedAt": "2026-09-11T14:23:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -93187,7 +93209,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-11T15:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -96988,7 +97021,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/liao-chiung-chih.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-11T16:08:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -105349,7 +105393,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/lu-chieh-history-teacher.md",
+          "translatedFrom": "People/呂捷.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:67c5ad771d308cd6",
+          "sourceBodyHash": "sha256:6ab4993ddc7e3736",
+          "translatedAt": "2026-09-11T15:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -126379,7 +126434,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/asia-cement-xincheng-mine.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-11T15:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -126388,7 +126454,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/asia-cement-xincheng-mine.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-11T16:20:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -135370,8 +135447,8 @@
           "sourceContentHash": "sha256:a825535e058db34c",
           "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
           "translatedAt": "2026-09-11T14:15:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -135706,7 +135783,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/orchid-island-nuclear-waste.md",
+          "translatedFrom": "History/蘭嶼核廢料.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:65e86deccc5676be",
+          "sourceBodyHash": "sha256:c479bb28dd01bd12",
+          "translatedAt": "2026-09-11T16:08:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -136890,7 +136978,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/chianan-irrigation-canal.md",
+          "translatedFrom": "History/嘉南大圳.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:e8b694e836a1a788",
+          "sourceBodyHash": "sha256:a57ef7adfb910d4f",
+          "translatedAt": "2026-09-11T16:08:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -137505,7 +137604,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taiwan-land-reform.md",
+          "translatedFrom": "History/台灣土地改革.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:6c11a4c56a329d52",
+          "sourceBodyHash": "sha256:eca7e0ea95cf835a",
+          "translatedAt": "2026-09-11T16:20:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -155078,8 +155188,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-11T15:21:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -159510,7 +159620,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/kavalan-people.md",
+          "translatedFrom": "Culture/噶瑪蘭族.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:f55a726b94593a52",
+          "sourceBodyHash": "sha256:af42a6da82295d4c",
+          "translatedAt": "2026-09-11T16:20:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -160496,8 +160617,8 @@
           "sourceContentHash": "sha256:1c51bf71c790291d",
           "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
           "translatedAt": "2026-09-11T15:30:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7d0bd28",
+          "translationLastModified": "2026-09-11T15:56:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
