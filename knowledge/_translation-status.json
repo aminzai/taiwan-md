@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T10:50:41+08:00",
-    "zhCommitHead": "132691a9e",
+    "lastUpdated": "2026-09-11T11:07:23+08:00",
+    "zhCommitHead": "3bbf55a5b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 913,
+        "fresh": 915,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 109,
+        "missing": 107,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 914,
+        "fresh": 916,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 111,
+        "missing": 109,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 862,
+        "fresh": 864,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 159,
+        "missing": 157,
         "orphan": 0
       },
       "vi": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 764,
+        "fresh": 765,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 302,
+        "missing": 301,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 873,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 193,
+        "missing": 192,
         "orphan": 0
       },
       "de": {
@@ -8855,8 +8855,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-11T09:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -43828,8 +43828,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-11T10:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -46021,7 +46021,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-11T10:55:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -61227,8 +61238,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-11T09:58:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -69751,8 +69762,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-11T09:34:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -70953,8 +70964,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-11T09:34:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -71467,8 +71478,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-11T10:28:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -73761,7 +73772,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-11T10:55:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -89200,7 +89222,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/ting-jih-chang.md",
+          "translatedFrom": "People/丁日昌.md",
+          "sourceCommitSha": "d48e11006",
+          "sourceContentHash": "sha256:feb8dc67f30db2e2",
+          "sourceBodyHash": "sha256:75dbc702aa896f78",
+          "translatedAt": "2026-09-11T05:40:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/ting-jih-chang.md",
@@ -100687,7 +100720,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/zhuge-si-lang-comic.md",
+          "translatedFrom": "People/諸葛四郎.md",
+          "sourceCommitSha": "e38376ee4",
+          "sourceContentHash": "sha256:e3fbaeedac9c6f10",
+          "sourceBodyHash": "sha256:1b0f00900854455d",
+          "translatedAt": "2026-09-11T10:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -109345,8 +109389,8 @@
           "sourceContentHash": "sha256:eedc983e2ea9d824",
           "sourceBodyHash": "sha256:7efe5656906a3904",
           "translatedAt": "2026-09-11T09:15:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -122617,8 +122661,8 @@
           "sourceContentHash": "sha256:a5acd8724ecb9309",
           "sourceBodyHash": "sha256:05bf91e749daff0d",
           "translatedAt": "2026-09-11T09:58:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -128233,7 +128277,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/shihmen-reservoir.md",
+          "translatedFrom": "History/石門水庫.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:d8b88408a353bacc",
+          "sourceBodyHash": "sha256:6772a9de43938945",
+          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/shihmen-reservoir.md",
@@ -131263,7 +131318,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/port-of-taichung.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-11T10:55:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -131281,7 +131347,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/port-of-taichung.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-11T05:40:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -139150,8 +139227,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-11T09:22:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -140732,8 +140809,8 @@
           "sourceContentHash": "sha256:70bb378dbb4d4234",
           "sourceBodyHash": "sha256:82e8d65770b72f8e",
           "translatedAt": "2026-09-11T09:15:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -146108,7 +146185,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-11T10:55:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -149896,8 +149984,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-11T10:07:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -155396,8 +155484,8 @@
           "sourceContentHash": "sha256:b67985f61b48d180",
           "sourceBodyHash": "sha256:7e401e79a285bbeb",
           "translatedAt": "2026-09-11T10:20:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bbf55a5",
+          "translationLastModified": "2026-09-11T10:50:41+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -156335,7 +156423,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/taiwan-iron-window-grilles.md",
+          "translatedFrom": "Culture/鐵窗花.md",
+          "sourceCommitSha": "ec3d660ca",
+          "sourceContentHash": "sha256:1888ffac8016e710",
+          "sourceBodyHash": "sha256:30a2135abbfbcd4c",
+          "translatedAt": "2026-09-11T10:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
