@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T02:38:49+08:00",
-    "zhCommitHead": "ddfd65752",
+    "lastUpdated": "2026-09-12T02:54:21+08:00",
+    "zhCommitHead": "cd53d02d5",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 859,
+        "fresh": 860,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "ru": {
@@ -29748,8 +29748,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-12T00:40:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cd53d02d",
+          "translationLastModified": "2026-09-12T02:38:50+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -159298,7 +159298,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/tatala-tao-plank-boat.md",
+          "translatedFrom": "Culture/拼板舟.md",
+          "sourceCommitSha": "1c1927882",
+          "sourceContentHash": "sha256:b67985f61b48d180",
+          "sourceBodyHash": "sha256:7e401e79a285bbeb",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
