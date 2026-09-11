@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T04:36:48+08:00",
-    "zhCommitHead": "6876797a0",
+    "lastUpdated": "2026-09-12T04:38:29+08:00",
+    "zhCommitHead": "ef1a5cb7c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 812,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 255,
+        "missing": 254,
         "orphan": 0
       },
       "ar": {
@@ -31653,7 +31653,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/ximen-red-house.md",
+          "translatedFrom": "Art/西門紅樓.md",
+          "sourceCommitSha": "47c6b3e7e",
+          "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
+          "sourceBodyHash": "sha256:2df61ce131967498",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -113073,8 +113084,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-12T02:55:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef1a5cb7",
+          "translationLastModified": "2026-09-12T04:36:48+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
