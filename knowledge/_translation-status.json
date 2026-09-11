@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T11:10:46+08:00",
-    "zhCommitHead": "ad46a1073",
+    "lastUpdated": "2026-09-11T11:12:49+08:00",
+    "zhCommitHead": "cb541c790",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 915,
+        "fresh": 916,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 107,
+        "missing": 106,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 917,
+        "fresh": 918,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 108,
+        "missing": 107,
         "orphan": 0
       },
       "fr": {
@@ -57910,8 +57910,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb541c79",
+          "translationLastModified": "2026-09-11T11:10:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73803,7 +73803,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-11T11:06:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -138043,8 +138054,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb541c79",
+          "translationLastModified": "2026-09-11T11:10:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -145838,8 +145849,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb541c79",
+          "translationLastModified": "2026-09-11T11:10:46+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -152267,8 +152278,8 @@
           "sourceContentHash": "sha256:d6b33427d383d025",
           "sourceBodyHash": "sha256:d806fd1fb93df2e0",
           "translatedAt": "2026-09-11T05:40:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb541c79",
+          "translationLastModified": "2026-09-11T11:10:46+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -154059,7 +154070,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/dajia-mazu-pilgrimage.md",
+          "translatedFrom": "Culture/大甲媽祖遶境.md",
+          "sourceCommitSha": "9d6f6678a",
+          "sourceContentHash": "sha256:c6ff5ec261e11e72",
+          "sourceBodyHash": "sha256:9ca9ab3653bc089e",
+          "translatedAt": "2026-09-11T11:06:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
