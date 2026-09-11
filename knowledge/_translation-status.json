@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T01:23:26+08:00",
-    "zhCommitHead": "da449fadd",
+    "lastUpdated": "2026-09-12T01:37:39+08:00",
+    "zhCommitHead": "41fb52f7f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 92,
         "metadata_stale": 28,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "ko": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 981,
+        "fresh": 982,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 916,
+        "fresh": 918,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 105,
+        "missing": 103,
         "orphan": 0
       },
       "vi": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 715,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 345,
+        "missing": 344,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 871,
+        "fresh": 872,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 168,
+        "missing": 167,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 264,
+        "missing": 263,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 858,
+        "fresh": 856,
         "stale": 49,
         "metadata_stale": 14,
-        "missing": 200,
+        "missing": 202,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 162,
+        "missing": 161,
         "orphan": 0
       },
       "de": {
@@ -6633,18 +6633,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -18010,8 +17999,8 @@
           "sourceContentHash": "sha256:7fe905eb6c043cad",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T15:35:20.509136+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41fb52f7",
+          "translationLastModified": "2026-09-12T01:23:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -40261,7 +40250,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -57648,7 +57648,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:8a8e0217696ef948",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T17:23:12.821040+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -66942,7 +66953,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Politics/first-direct-presidential-election.md",
+          "translatedFrom": "Politics/第一次總統直選.md",
+          "sourceCommitSha": "0cbc25416",
+          "sourceContentHash": "sha256:a9a1c953d1f67352",
+          "sourceBodyHash": "sha256:7f3db8811cfb9799",
+          "translatedAt": "2026-09-12T01:20:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -71610,8 +71632,8 @@
           "sourceContentHash": "sha256:4ae6e15b4e3eea8f",
           "sourceBodyHash": "sha256:09d31f29d2008420",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41fb52f7",
+          "translationLastModified": "2026-09-12T01:23:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73828,7 +73850,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-12T01:24:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -94910,7 +94943,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/kuedumeng.md",
+          "translatedFrom": "People/酷的夢.md",
+          "sourceCommitSha": "28b28be35",
+          "sourceContentHash": "sha256:d5d2732779427fb1",
+          "sourceBodyHash": "sha256:ba64b4515c6095ff",
+          "translatedAt": "2026-09-12T01:24:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -126302,8 +126346,8 @@
           "sourceContentHash": "sha256:6a65689f536cd84e",
           "sourceBodyHash": "sha256:66c062471e0b3496",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41fb52f7",
+          "translationLastModified": "2026-09-12T01:23:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -130231,7 +130275,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/national-railway-museum-taiwan.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -130243,8 +130298,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41fb52f7",
+          "translationLastModified": "2026-09-12T01:23:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -137885,7 +137940,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -138451,18 +138517,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -143199,7 +143254,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -143947,8 +144013,8 @@
           "sourceContentHash": "sha256:70bb378dbb4d4234",
           "sourceBodyHash": "sha256:82e8d65770b72f8e",
           "translatedAt": "2026-09-11T17:03:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41fb52f7",
+          "translationLastModified": "2026-09-12T01:23:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
