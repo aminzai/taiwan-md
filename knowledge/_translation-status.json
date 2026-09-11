@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T04:49:43+08:00",
-    "zhCommitHead": "62a9f5672",
+    "lastUpdated": "2026-09-12T04:55:35+08:00",
+    "zhCommitHead": "d56423ab4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 952,
+        "fresh": 953,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       },
       "vi": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 882,
+        "fresh": 883,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 914,
+        "fresh": 913,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 151,
+        "missing": 152,
         "orphan": 0
       },
       "de": {
@@ -8020,18 +8020,7 @@
           "reason": "same-commit"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -23484,8 +23473,8 @@
           "sourceContentHash": "sha256:3fab2a74ac11d1b7",
           "sourceBodyHash": "sha256:29363c705647bf15",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d56423ab",
+          "translationLastModified": "2026-09-12T04:49:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -29875,7 +29864,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Art/presidential-office-building-taipei.md",
+          "translatedFrom": "Art/總統府.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:9f877cc81b557524",
+          "sourceBodyHash": "sha256:e3230be59701ee45",
+          "translatedAt": "2026-09-12T04:51:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -31698,8 +31698,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d56423ab",
+          "translationLastModified": "2026-09-12T04:49:48+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -44163,8 +44163,8 @@
           "sourceContentHash": "sha256:c31283732f5c82a4",
           "sourceBodyHash": "sha256:95652e4e6a2b2202",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d56423ab",
+          "translationLastModified": "2026-09-12T04:49:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -121753,8 +121753,8 @@
           "sourceContentHash": "sha256:ffeaf97d752181df",
           "sourceBodyHash": "sha256:b546f7c4ab790d17",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d56423ab",
+          "translationLastModified": "2026-09-12T04:49:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -132402,8 +132402,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d56423ab",
+          "translationLastModified": "2026-09-12T04:49:48+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -136821,8 +136821,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d56423ab",
+          "translationLastModified": "2026-09-12T04:49:48+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -154915,7 +154915,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/hla-alua-people.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
