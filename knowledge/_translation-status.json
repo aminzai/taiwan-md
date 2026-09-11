@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T23:15:23+08:00",
-    "zhCommitHead": "5aa001aa9",
+    "lastUpdated": "2026-09-11T23:29:50+08:00",
+    "zhCommitHead": "f88732b9f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 986,
+        "fresh": 987,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "ja": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 912,
+        "fresh": 913,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 109,
+        "missing": 108,
         "orphan": 0
       },
       "vi": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 707,
+        "fresh": 708,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 352,
+        "missing": 351,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 863,
+        "fresh": 864,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 176,
+        "missing": 175,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 798,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 269,
+        "missing": 268,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 896,
+        "fresh": 897,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 169,
+        "missing": 168,
         "orphan": 0
       },
       "de": {
@@ -17962,7 +17962,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-earthquake-early-warning.md",
+          "translatedFrom": "Technology/地震預警系統.md",
+          "sourceCommitSha": "53d3624d7",
+          "sourceContentHash": "sha256:91d2e06ad3b432cd",
+          "sourceBodyHash": "sha256:326a1e569da021aa",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -44522,8 +44533,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-11T22:00:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f88732b9",
+          "translationLastModified": "2026-09-11T23:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -44545,7 +44556,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/sign-language-video-relay.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -46776,8 +46798,8 @@
           "sourceContentHash": "sha256:32dfc005e4785017",
           "sourceBodyHash": "sha256:fc834459f5ff6d06",
           "translatedAt": "2026-09-11T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f88732b9",
+          "translationLastModified": "2026-09-11T23:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -52961,8 +52983,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-11T22:22:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f88732b9",
+          "translationLastModified": "2026-09-11T23:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -72665,8 +72687,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-11T21:33:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f88732b9",
+          "translationLastModified": "2026-09-11T23:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -75034,7 +75056,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-11T23:15:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -78464,7 +78497,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chung-chao-cheng.md",
+          "translatedFrom": "People/鍾肇政.md",
+          "sourceCommitSha": "82038b29f",
+          "sourceContentHash": "sha256:e30095af8a74328f",
+          "sourceBodyHash": "sha256:9240eda59faf09e3",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chung-chao-cheng.md",
@@ -94167,7 +94211,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-11T17:03:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -114691,7 +114746,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwan-lu-wei-braised-snacks.md",
+          "translatedFrom": "Food/台灣滷味.md",
+          "sourceCommitSha": "bc7c72ef4",
+          "sourceContentHash": "sha256:90efb96feb86e99d",
+          "sourceBodyHash": "sha256:dff447eeed675def",
+          "translatedAt": "2026-09-11T23:15:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -129470,8 +129536,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-11T23:06:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f88732b9",
+          "translationLastModified": "2026-09-11T23:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
