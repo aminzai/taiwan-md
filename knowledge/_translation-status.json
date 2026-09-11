@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T00:40:12+08:00",
-    "zhCommitHead": "6ab081fc5",
+    "lastUpdated": "2026-09-12T00:57:45+08:00",
+    "zhCommitHead": "9f953ca61",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 989,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 35,
+        "missing": 34,
         "orphan": 0
       },
       "ja": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 711,
+        "fresh": 712,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 348,
+        "missing": 347,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 869,
+        "fresh": 870,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 170,
+        "missing": 169,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 900,
+        "fresh": 902,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 165,
+        "missing": 163,
         "orphan": 0
       },
       "de": {
@@ -6613,7 +6613,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-11T17:03:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -29709,7 +29720,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/presidential-office-building-taipei.md",
+          "translatedFrom": "Art/總統府.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:9f877cc81b557524",
+          "sourceBodyHash": "sha256:e3230be59701ee45",
+          "translatedAt": "2026-09-12T00:40:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -52982,8 +53004,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-11T23:06:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9f953ca6",
+          "translationLastModified": "2026-09-12T00:40:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -108847,8 +108869,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-11T23:26:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9f953ca6",
+          "translationLastModified": "2026-09-12T00:40:13+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -114851,8 +114873,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-11T23:15:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9f953ca6",
+          "translationLastModified": "2026-09-12T00:40:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -129691,7 +129713,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -142142,7 +142175,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-11T17:03:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -143020,7 +143064,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-11T17:03:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
