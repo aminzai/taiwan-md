@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T07:49:30+08:00",
-    "zhCommitHead": "e51d6925e",
+    "lastUpdated": "2026-09-13T07:58:50+08:00",
+    "zhCommitHead": "1dea76243",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 959,
+        "fresh": 960,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       },
       "es": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 788,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 274,
+        "missing": 272,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 963,
+        "fresh": 964,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 76,
+        "missing": 75,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 883,
+        "fresh": 884,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 183,
+        "missing": 182,
         "orphan": 0
       },
       "ar": {
@@ -876,8 +876,8 @@
           "sourceContentHash": "sha256:912e5f2bd004672b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T23:43:11.449081+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -9820,15 +9820,26 @@
           "sourceContentHash": "sha256:700b0aadc287b607",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T22:36:22.626634+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-offshore-wind-power.md",
+          "translatedFrom": "Economy/台灣離岸風電.md",
+          "sourceCommitSha": "566429f3b",
+          "sourceContentHash": "sha256:b1ed4dc9af013a20",
+          "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-offshore-wind-power.md",
@@ -14425,8 +14436,8 @@
           "sourceContentHash": "sha256:4749f0faadb8e7bf",
           "sourceBodyHash": "sha256:ebc33c96c44483b0",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -14893,8 +14904,8 @@
           "sourceContentHash": "sha256:95d473c7b6d24541",
           "sourceBodyHash": "sha256:a996bea328f05c29",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -16319,8 +16330,8 @@
           "sourceContentHash": "sha256:ae9b504389b6e4fd",
           "sourceBodyHash": "sha256:318b91e549ea3a09",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -19838,8 +19849,8 @@
           "sourceContentHash": "sha256:8cc121a9cccbf90a",
           "sourceBodyHash": "sha256:98feb4bab36f053f",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -21707,7 +21718,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/backslash-in-cjk-fonts.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -35524,8 +35546,8 @@
           "sourceContentHash": "sha256:83396d8fdb485588",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T22:02:51.707276+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -62926,8 +62948,8 @@
           "sourceContentHash": "sha256:c51eb1a165d6a2f5",
           "sourceBodyHash": "sha256:99620fa1348fdcfe",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1dea7624",
+          "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -156186,7 +156208,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/wenhu-line.md",
+          "translatedFrom": "Geography/文湖線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
+          "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
+          "translatedAt": "2026-09-13T05:38:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/wenhu-line.md",
@@ -163194,7 +163227,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-street-art-and-graffiti-culture.md",
+          "translatedFrom": "Culture/台灣街頭藝術與塗鴉文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:9d5872fcc273adaa",
+          "sourceBodyHash": "sha256:bdae339216a98cc2",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-street-art-and-graffiti-culture.md",
@@ -175200,7 +175244,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwanese-colloquial-speech.md",
+          "translatedFrom": "Culture/台灣口語特色.md",
+          "sourceCommitSha": "1791349e1",
+          "sourceContentHash": "sha256:15d6246d744f90bf",
+          "sourceBodyHash": "sha256:227017306bf0c999",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwanese-colloquial-speech.md",
