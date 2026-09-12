@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T01:24:48+08:00",
-    "zhCommitHead": "1f546d730",
+    "lastUpdated": "2026-09-13T01:49:32+08:00",
+    "zhCommitHead": "a615dd1d7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 800,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 205,
+        "missing": 204,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 912,
+        "fresh": 917,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 114,
+        "missing": 109,
         "orphan": 0
       },
       "es": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 950,
+        "fresh": 951,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "hi": {
@@ -16659,7 +16659,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/yahoo-kimo-taiwan.md",
+          "translatedFrom": "Economy/Yahoo-kimo.md",
+          "sourceCommitSha": "77e6f2321",
+          "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
+          "sourceBodyHash": "sha256:854e7c117a8a7154",
+          "translatedAt": "2026-09-13T01:17:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -24610,8 +24621,8 @@
           "sourceContentHash": "sha256:7e79f4d7834c55c1",
           "sourceBodyHash": "sha256:e24305e511c42507",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a615dd1d",
+          "translationLastModified": "2026-09-13T01:24:48+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -35277,8 +35288,8 @@
           "sourceContentHash": "sha256:25ec392b5ce7e019",
           "sourceBodyHash": "sha256:e40b70041a0b9945",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a615dd1d",
+          "translationLastModified": "2026-09-13T01:24:48+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -57246,7 +57257,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/hahatai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-13T01:17:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/hahatai.md",
@@ -108238,7 +108260,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chen-wen-yu-plant-breeder.md",
+          "translatedFrom": "People/陳文郁.md",
+          "sourceCommitSha": "9062be977",
+          "sourceContentHash": "sha256:a830e3b88da8731a",
+          "sourceBodyHash": "sha256:d47891ab6b5fa242",
+          "translatedAt": "2026-09-13T01:36:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-wen-yu-plant-breeder.md",
@@ -109589,7 +109622,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/lu-chieh-history-teacher.md",
+          "translatedFrom": "People/呂捷.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:67c5ad771d308cd6",
+          "sourceBodyHash": "sha256:6ab4993ddc7e3736",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/lu-chieh-history-teacher.md",
@@ -112179,7 +112223,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/tsai-eng-meng.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-13T01:17:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/tsai-eng-meng.md",
@@ -122112,8 +122167,8 @@
           "sourceContentHash": "sha256:1eec7db88151a213",
           "sourceBodyHash": "sha256:09d674a05740ab52",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a615dd1d",
+          "translationLastModified": "2026-09-13T01:24:48+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -123105,8 +123160,8 @@
           "sourceContentHash": "sha256:887c3be39222e6b9",
           "sourceBodyHash": "sha256:140c52cfad734a21",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a615dd1d",
+          "translationLastModified": "2026-09-13T01:24:48+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -129642,7 +129697,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:9ecc268d4747db23",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T17:36:28.546602+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -164791,7 +164857,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/taiwan-postage-stamps.md",
+          "translatedFrom": "Culture/台灣郵票.md",
+          "sourceCommitSha": "513144edb",
+          "sourceContentHash": "sha256:09da7327b5a4487f",
+          "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
+          "translatedAt": "2026-09-13T01:17:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-postage-stamps.md",
