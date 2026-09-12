@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T10:48:01+08:00",
-    "zhCommitHead": "026964f61",
+    "lastUpdated": "2026-09-12T10:52:37+08:00",
+    "zhCommitHead": "61a0a92c0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 990,
+        "fresh": 991,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 33,
+        "missing": 32,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 989,
+        "fresh": 990,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 36,
+        "missing": 35,
         "orphan": 0
       },
       "fr": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 885,
+        "fresh": 886,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 174,
+        "missing": 173,
         "orphan": 0
       },
       "ru": {
@@ -47410,7 +47410,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/awakening-foundation.md",
@@ -71574,7 +71585,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/joeman.md",
+          "translatedFrom": "People/Joeman.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:19eba63c27c61c88",
+          "sourceBodyHash": "sha256:18e7518b3acc71b4",
+          "translatedAt": "2026-09-12T09:55:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -110645,7 +110667,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/jiong-xing-ren.md",
+          "translatedFrom": "People/囧星人.md",
+          "sourceCommitSha": "c0d869b91",
+          "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
+          "sourceBodyHash": "sha256:657949e86efaa762",
+          "translatedAt": "2026-09-12T09:55:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/jiong-xing-ren.md",
@@ -128478,8 +128511,8 @@
           "sourceContentHash": "sha256:a88f68e2ed7330a9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T02:37:42.257185+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "61a0a92c",
+          "translationLastModified": "2026-09-12T10:48:02+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -135619,8 +135652,8 @@
           "sourceContentHash": "sha256:b6e5c247e5675857",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T00:52:12.973619+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "61a0a92c",
+          "translationLastModified": "2026-09-12T10:48:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
