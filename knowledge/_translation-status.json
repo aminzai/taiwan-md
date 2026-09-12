@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T05:56:11+08:00",
-    "zhCommitHead": "4e8ecfd3f",
+    "lastUpdated": "2026-09-13T06:02:14+08:00",
+    "zhCommitHead": "417059833",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,26 +76,26 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 959,
+        "fresh": 960,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 80,
+        "missing": 79,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 881,
+        "fresh": 878,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 185,
+        "missing": 188,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 943,
+        "fresh": 944,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 117,
+        "missing": 116,
         "orphan": 0
       },
       "ru": {
@@ -6641,18 +6641,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "path": "ar/Economy/taiwan-shipbuilding-industry.md",
@@ -32917,8 +32906,8 @@
           "sourceContentHash": "sha256:839c2636244d1802",
           "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41705983",
+          "translationLastModified": "2026-09-13T05:56:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -60839,7 +60828,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-regenerative-medicine-laws.md",
+          "translatedFrom": "Society/台灣再生醫療雙法沿革從業人員告白.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:067149f437c5a573",
+          "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-regenerative-medicine-laws.md",
@@ -112070,8 +112070,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41705983",
+          "translationLastModified": "2026-09-13T05:56:19+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -116609,8 +116609,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41705983",
+          "translationLastModified": "2026-09-13T05:56:19+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -129861,7 +129861,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/ba-pu-ice-cream.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/ba-pu-ice-cream.md",
@@ -143925,18 +143936,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "path": "ar/History/kano-chiayi-agriculture-forestry.md",
@@ -148918,18 +148918,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -168203,8 +168192,8 @@
           "sourceContentHash": "sha256:f55a726b94593a52",
           "sourceBodyHash": "sha256:af42a6da82295d4c",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "41705983",
+          "translationLastModified": "2026-09-13T05:56:19+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
