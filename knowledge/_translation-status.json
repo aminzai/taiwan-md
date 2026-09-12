@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T23:52:38+08:00",
-    "zhCommitHead": "11879bb49",
+    "lastUpdated": "2026-09-13T00:26:29+08:00",
+    "zhCommitHead": "609908101",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 796,
+        "fresh": 798,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 208,
+        "missing": 206,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 121,
+        "missing": 120,
         "orphan": 0
       },
       "es": {
@@ -68,34 +68,34 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 767,
+        "fresh": 768,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 293,
+        "missing": 292,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 944,
+        "fresh": 946,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 95,
+        "missing": 93,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 867,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 200,
+        "missing": 199,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 926,
+        "fresh": 927,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 134,
+        "missing": 133,
         "orphan": 0
       },
       "ru": {
@@ -8031,18 +8031,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -9821,8 +9810,8 @@
           "sourceContentHash": "sha256:700b0aadc287b607",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T14:28:16.174767+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "60990810",
+          "translationLastModified": "2026-09-12T23:52:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -17121,7 +17110,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-12T19:57:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/mask-national-team.md",
@@ -21538,8 +21538,8 @@
           "sourceContentHash": "sha256:57b41e308a296fb4",
           "sourceBodyHash": "sha256:9af4500f829effce",
           "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "60990810",
+          "translationLastModified": "2026-09-12T23:52:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -24607,7 +24607,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-tech-storytelling.md",
+          "translatedFrom": "Technology/台灣科技說故事.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:1bc10627c22ad583",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T16:04:27.456437+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-tech-storytelling.md",
@@ -35205,7 +35216,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/wang-hsin-jen-artist.md",
+          "translatedFrom": "Art/王新仁.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:25ec392b5ce7e019",
+          "sourceBodyHash": "sha256:e40b70041a0b9945",
+          "translatedAt": "2026-09-12T19:57:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/wang-hsin-jen-artist.md",
@@ -43655,7 +43677,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-grid-resilience.md",
@@ -44417,8 +44450,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "60990810",
+          "translationLastModified": "2026-09-12T23:52:45+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -114463,8 +114496,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "60990810",
+          "translationLastModified": "2026-09-12T23:52:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -122918,7 +122951,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/shulin-red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:887c3be39222e6b9",
+          "sourceBodyHash": "sha256:140c52cfad734a21",
+          "translatedAt": "2026-09-12T19:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -129473,7 +129517,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-railway-bento.md",
@@ -142123,7 +142178,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-12T19:57:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -160508,7 +160574,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/taiwan-sign-language.md",
+          "translatedFrom": "Culture/台灣手語.md",
+          "sourceCommitSha": "88c8f03b3",
+          "sourceContentHash": "sha256:9e62fc9bd2bec4e1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T16:01:29.424956+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -162651,7 +162728,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/dajia-mazu-pilgrimage.md",
+          "translatedFrom": "Culture/大甲媽祖遶境.md",
+          "sourceCommitSha": "9d6f6678a",
+          "sourceContentHash": "sha256:c6ff5ec261e11e72",
+          "sourceBodyHash": "sha256:9ca9ab3653bc089e",
+          "translatedAt": "2026-09-12T23:42:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/dajia-mazu-pilgrimage.md",
