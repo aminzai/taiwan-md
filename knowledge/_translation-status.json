@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T14:13:00+08:00",
-    "zhCommitHead": "534c4aa5b",
+    "lastUpdated": "2026-09-12T14:13:35+08:00",
+    "zhCommitHead": "07cf319c4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 841,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       },
       "ar": {
@@ -85229,7 +85229,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/jason-wu-fashion-designer.md",
+          "translatedFrom": "People/吳季剛.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:cd5b6f64f9368b38",
+          "sourceBodyHash": "sha256:62721bcda4248fc8",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/jason-wu-fashion-designer.md",
