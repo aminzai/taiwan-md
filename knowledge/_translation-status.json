@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T22:31:06+08:00",
-    "zhCommitHead": "efcfab551",
+    "lastUpdated": "2026-09-12T22:49:06+08:00",
+    "zhCommitHead": "ff1408ec3",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 890,
+        "fresh": 898,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 136,
+        "missing": 128,
         "orphan": 0
       },
       "es": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 763,
+        "fresh": 765,
         "stale": 53,
-        "metadata_stale": 9,
-        "missing": 296,
+        "metadata_stale": 8,
+        "missing": 295,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 939,
+        "fresh": 941,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 100,
+        "missing": 98,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 863,
+        "fresh": 864,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 203,
+        "missing": 202,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 922,
+        "fresh": 923,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 138,
+        "missing": 137,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 971,
+        "fresh": 973,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 94,
+        "missing": 92,
         "orphan": 0
       },
       "de": {
@@ -8978,7 +8978,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-12T22:36:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-sugar-industry.md",
@@ -9804,7 +9815,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-offshore-wind-power.md",
+          "translatedFrom": "Economy/台灣離岸風電.md",
+          "sourceCommitSha": "566429f3b",
+          "sourceContentHash": "sha256:700b0aadc287b607",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T14:28:16.174767+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -21499,7 +21521,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/backslash-in-cjk-fonts.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-12T19:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -38403,7 +38436,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taipei-bridge-scooter-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/taipei-bridge-scooter-waterfall.md",
@@ -45787,8 +45831,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-12T19:57:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff1408ec",
+          "translationLastModified": "2026-09-12T22:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -63852,7 +63896,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Nature/taiwanese-white-dolphin.md",
+          "translatedFrom": "Nature/台灣白海豚.md",
+          "sourceCommitSha": "372f0027e",
+          "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
+          "sourceBodyHash": "sha256:53b72f6cf77894ed",
+          "translatedAt": "2026-09-12T22:36:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/taiwanese-white-dolphin.md",
@@ -69738,7 +69793,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Politics/taiwan-campaign-rallies.md",
+          "translatedFrom": "Politics/選舉造勢.md",
+          "sourceCommitSha": "6226eb6aa",
+          "sourceContentHash": "sha256:0f10426fa5e4f016",
+          "sourceBodyHash": "sha256:f73fed3867526ad3",
+          "translatedAt": "2026-09-12T22:19:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Politics/taiwan-campaign-rallies.md",
@@ -82870,8 +82936,8 @@
           "sourceContentHash": "sha256:e292cad27370cab5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T11:40:15.410557+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "ff1408ec",
+          "translationLastModified": "2026-09-12T22:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -83274,18 +83340,16 @@
         "id": {
           "path": "id/People/tsai-heipi.md",
           "translatedFrom": "People/蔡黑皮.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
-          "translatedAt": "2026-09-07T01:00:19+08:00",
+          "translatedAt": "2026-09-12T19:57:13+08:00",
           "translationLastCommit": "e75b621d",
           "translationLastModified": "2026-09-10T00:44:33+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tsai-heipi.md",
@@ -84893,8 +84957,8 @@
           "sourceContentHash": "sha256:794334037b957586",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T11:31:24.386838+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "ff1408ec",
+          "translationLastModified": "2026-09-12T22:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -96878,7 +96942,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-12T22:36:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -107903,7 +107978,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chen-wen-yu-plant-breeder.md",
+          "translatedFrom": "People/陳文郁.md",
+          "sourceCommitSha": "9062be977",
+          "sourceContentHash": "sha256:a830e3b88da8731a",
+          "sourceBodyHash": "sha256:d47891ab6b5fa242",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chen-wen-yu-plant-breeder.md",
@@ -114272,7 +114358,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chen-san-huo-jiannian-artist.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-12T22:19:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-san-huo-jiannian-artist.md",
@@ -122512,8 +122609,8 @@
           "sourceContentHash": "sha256:b8d8b2bd426f8aae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T12:20:26.355108+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff1408ec",
+          "translationLastModified": "2026-09-12T22:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -141965,7 +142062,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-12T22:19:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-farmers-association-history.md",
@@ -148211,7 +148319,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/western-trunk-railway.md",
+          "translatedFrom": "Geography/縱貫鐵路.md",
+          "sourceCommitSha": "77fa1a757",
+          "sourceContentHash": "sha256:70bb378dbb4d4234",
+          "sourceBodyHash": "sha256:82e8d65770b72f8e",
+          "translatedAt": "2026-09-12T22:19:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/western-trunk-railway.md",
@@ -157859,7 +157978,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/taiwan-letterpress-printing.md",
+          "translatedFrom": "Culture/台灣活版印刷.md",
+          "sourceCommitSha": "65852a65b",
+          "sourceContentHash": "sha256:5e435a8b85b32036",
+          "sourceBodyHash": "sha256:8d460cbf9b7f271d",
+          "translatedAt": "2026-09-12T22:36:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-letterpress-printing.md",
@@ -169078,16 +169208,49 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-tv-glove-puppetry.md",
+          "translatedFrom": "Culture/電視布袋戲.md",
+          "sourceCommitSha": "55d991e82",
+          "sourceContentHash": "sha256:884f32ff15212c52",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T14:37:44.587570+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-tv-glove-puppetry.md",
+          "translatedFrom": "Culture/電視布袋戲.md",
+          "sourceCommitSha": "55d991e82",
+          "sourceContentHash": "sha256:ad2ea2b7426872e8",
+          "sourceBodyHash": "sha256:efe2be1b9ec46e77",
+          "translatedAt": "2026-09-12T19:57:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-tv-glove-puppetry.md",
+          "translatedFrom": "Culture/電視布袋戲.md",
+          "sourceCommitSha": "55d991e82",
+          "sourceContentHash": "sha256:ad2ea2b7426872e8",
+          "sourceBodyHash": "sha256:efe2be1b9ec46e77",
+          "translatedAt": "2026-09-12T19:57:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-tv-glove-puppetry.md",
