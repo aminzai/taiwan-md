@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T10:54:22+08:00",
-    "zhCommitHead": "aca0b9300",
+    "lastUpdated": "2026-09-12T11:17:03+08:00",
+    "zhCommitHead": "186b646d4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 815,
+        "fresh": 817,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 211,
+        "missing": 209,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 731,
+        "fresh": 732,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 328,
+        "missing": 327,
         "orphan": 0
       },
       "pt": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 827,
+        "fresh": 828,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 239,
+        "missing": 238,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 886,
-        "stale": 48,
+        "fresh": 887,
+        "stale": 47,
         "metadata_stale": 14,
         "missing": 173,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 934,
+        "fresh": 935,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 131,
+        "missing": 130,
         "orphan": 0
       },
       "de": {
@@ -6613,7 +6613,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-shipbuilding-industry.md",
@@ -26788,18 +26799,16 @@
         "ar": {
           "path": "ar/Technology/mini-taiwan-pulse-civic-tech.md",
           "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "da22dc5b2",
-          "sourceContentHash": "sha256:b4fa10553d998dfa",
-          "sourceBodyHash": "sha256:6475e91be41d93b4",
-          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:7704f0ba39f9bad2",
+          "sourceBodyHash": "sha256:953746868edc36a0",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -43362,7 +43371,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/taiwan-pigeon-racing.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-12T09:55:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-pigeon-racing.md",
@@ -44853,8 +44873,8 @@
           "sourceContentHash": "sha256:aa6de6422908baca",
           "sourceBodyHash": "sha256:a98b8189be962f59",
           "translatedAt": "2026-09-12T07:00:33+08:00",
-          "translationLastCommit": "f59e6468",
-          "translationLastModified": "2026-05-20T10:49:50+08:00",
+          "translationLastCommit": "186b646d",
+          "translationLastModified": "2026-09-12T10:54:22+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -73780,7 +73800,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/froggy-chiu.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/froggy-chiu.md",
@@ -74192,8 +74223,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-12T09:19:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "186b646d",
+          "translationLastModified": "2026-09-12T10:54:22+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -84085,8 +84116,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-12T09:19:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "186b646d",
+          "translationLastModified": "2026-09-12T10:54:22+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -109590,7 +109621,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/black-cat-teacher.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-12T09:55:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/black-cat-teacher.md",
@@ -140364,7 +140406,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:4a36332de3715b33",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T02:54:11.830340+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -162043,8 +162096,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-12T09:19:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "186b646d",
+          "translationLastModified": "2026-09-12T10:54:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -166005,8 +166058,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-12T09:55:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "186b646d",
+          "translationLastModified": "2026-09-12T10:54:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
