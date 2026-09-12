@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T19:56:21+08:00",
-    "zhCommitHead": "9bc737cc1",
+    "lastUpdated": "2026-09-12T20:02:10+08:00",
+    "zhCommitHead": "300559004",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 837,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 192,
+        "missing": 189,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 753,
+        "fresh": 754,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 306,
+        "missing": 305,
         "orphan": 0
       },
       "pt": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 967,
+        "fresh": 965,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 98,
+        "missing": 100,
         "orphan": 0
       },
       "de": {
@@ -6636,18 +6636,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -8020,18 +8009,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -32538,8 +32516,8 @@
           "sourceContentHash": "sha256:839c2636244d1802",
           "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
           "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30055900",
+          "translationLastModified": "2026-09-12T19:56:29+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -58890,7 +58868,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:89564eca20ccb1a4",
+          "sourceBodyHash": "sha256:aa22cde38abe8c50",
+          "translatedAt": "2026-09-12T19:49:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/koreans-in-taiwan.md",
@@ -60116,7 +60105,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-12T19:49:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/dpp-founding.md",
@@ -94161,8 +94161,8 @@
           "sourceContentHash": "sha256:bfcd5767d7b581f0",
           "sourceBodyHash": "sha256:7d79b5e0261f5aba",
           "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30055900",
+          "translationLastModified": "2026-09-12T19:56:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -115154,8 +115154,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30055900",
+          "translationLastModified": "2026-09-12T19:56:29+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -128188,7 +128188,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/ba-pu-ice-cream.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-12T19:57:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -134160,7 +134171,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taiwan-fishery-origins.md",
+          "translatedFrom": "History/台灣漁業起源.md",
+          "sourceCommitSha": "ad6842824",
+          "sourceContentHash": "sha256:50b4c719b7719ddb",
+          "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
+          "translatedAt": "2026-09-12T19:49:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-fishery-origins.md",
@@ -160871,8 +160893,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30055900",
+          "translationLastModified": "2026-09-12T19:56:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -165626,8 +165648,8 @@
           "sourceContentHash": "sha256:f55a726b94593a52",
           "sourceBodyHash": "sha256:af42a6da82295d4c",
           "translatedAt": "2026-09-12T11:18:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30055900",
+          "translationLastModified": "2026-09-12T19:56:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
