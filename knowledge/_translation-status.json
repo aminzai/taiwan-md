@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T07:33:11+08:00",
-    "zhCommitHead": "71a5bc17d",
+    "lastUpdated": "2026-09-13T07:34:11+08:00",
+    "zhCommitHead": "d2049d6da",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 994,
+        "fresh": 995,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "fr": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 276,
+        "missing": 275,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 963,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 75,
+        "missing": 76,
         "orphan": 0
       },
       "hi": {
@@ -8022,18 +8022,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -16313,7 +16302,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md",
+          "translatedFrom": "Economy/台灣企業：奇美實業.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:ae9b504389b6e4fd",
+          "sourceBodyHash": "sha256:318b91e549ea3a09",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md",
@@ -53051,8 +53051,8 @@
           "sourceContentHash": "sha256:2864f529a23701fe",
           "sourceBodyHash": "sha256:c8066f344d7a7cc6",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d2049d6d",
+          "translationLastModified": "2026-09-13T07:33:19+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -54939,7 +54939,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/energy-poverty-and-cooling.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-13T05:38:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/energy-poverty-and-cooling.md",
@@ -67793,8 +67804,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d2049d6d",
+          "translationLastModified": "2026-09-13T07:33:19+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -130043,8 +130054,8 @@
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d2049d6d",
+          "translationLastModified": "2026-09-13T07:33:19+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -171987,8 +171998,8 @@
           "sourceContentHash": "sha256:5d755db85cc865b7",
           "sourceBodyHash": "sha256:260176da7ff3515f",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d2049d6d",
+          "translationLastModified": "2026-09-13T07:33:19+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
