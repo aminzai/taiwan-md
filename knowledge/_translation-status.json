@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T12:52:08+08:00",
-    "zhCommitHead": "93ca86cf8",
+    "lastUpdated": "2026-09-12T12:55:12+08:00",
+    "zhCommitHead": "b325f80d0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 208,
+        "missing": 207,
         "orphan": 0
       },
       "es": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 734,
+        "fresh": 735,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 325,
+        "missing": 324,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 907,
+        "fresh": 906,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 132,
+        "missing": 133,
         "orphan": 0
       },
       "hi": {
@@ -7989,18 +7989,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -31830,8 +31819,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b325f80d",
+          "translationLastModified": "2026-09-12T12:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -47452,8 +47441,8 @@
           "sourceContentHash": "sha256:32dfc005e4785017",
           "sourceBodyHash": "sha256:fc834459f5ff6d06",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b325f80d",
+          "translationLastModified": "2026-09-12T12:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73869,8 +73858,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b325f80d",
+          "translationLastModified": "2026-09-12T12:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -103951,8 +103940,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b325f80d",
+          "translationLastModified": "2026-09-12T12:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -133577,8 +133566,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b325f80d",
+          "translationLastModified": "2026-09-12T12:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -134828,7 +134817,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-12T11:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -160800,7 +160800,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/banana-baihua-secret-speech.md",
+          "translatedFrom": "Culture/香蕉白話.md",
+          "sourceCommitSha": "a769fefe2",
+          "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
+          "sourceBodyHash": "sha256:9cb502435a73e76b",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -161848,8 +161859,8 @@
           "sourceContentHash": "sha256:09da7327b5a4487f",
           "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b325f80d",
+          "translationLastModified": "2026-09-12T12:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
