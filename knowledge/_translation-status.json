@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T13:35:07+08:00",
-    "zhCommitHead": "acbd97778",
+    "lastUpdated": "2026-09-12T13:36:00+08:00",
+    "zhCommitHead": "bd8a981b4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 896,
+        "fresh": 897,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 164,
+        "missing": 163,
         "orphan": 0
       },
       "ru": {
@@ -38898,8 +38898,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-12T11:18:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd8a981b",
+          "translationLastModified": "2026-09-12T13:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -40690,8 +40690,8 @@
           "sourceContentHash": "sha256:5ce8829ec7886eb3",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T03:36:43.177563+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd8a981b",
+          "translationLastModified": "2026-09-12T13:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -51420,8 +51420,8 @@
           "sourceContentHash": "sha256:4b8b01504ad6ae86",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T05:28:46.335053+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd8a981b",
+          "translationLastModified": "2026-09-12T13:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -68960,8 +68960,8 @@
           "sourceContentHash": "sha256:61e2c933e1672b41",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T03:58:55.000843+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd8a981b",
+          "translationLastModified": "2026-09-12T13:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -139101,7 +139101,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/typhoon-morakot.md",
