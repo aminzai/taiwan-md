@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T21:19:52+08:00",
-    "zhCommitHead": "58e82f33f",
+    "lastUpdated": "2026-09-12T21:42:59+08:00",
+    "zhCommitHead": "93a86915b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 868,
+        "fresh": 872,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 158,
+        "missing": 154,
         "orphan": 0
       },
       "es": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 756,
+        "fresh": 758,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 303,
+        "missing": 301,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 933,
+        "fresh": 934,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 106,
+        "missing": 105,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 856,
+        "fresh": 859,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 210,
+        "missing": 207,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 916,
+        "fresh": 918,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 144,
+        "missing": 142,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 967,
+        "fresh": 969,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 98,
+        "missing": 96,
         "orphan": 0
       },
       "de": {
@@ -6590,7 +6590,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-12T21:26:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-shipbuilding-industry.md",
@@ -6627,18 +6638,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -8014,10 +8014,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-12T19:57:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-12T19:57:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -24464,8 +24486,8 @@
           "sourceContentHash": "sha256:7e79f4d7834c55c1",
           "sourceBodyHash": "sha256:e24305e511c42507",
           "translatedAt": "2026-09-12T19:57:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a86915",
+          "translationLastModified": "2026-09-12T21:20:09+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -43543,7 +43565,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/assisted-reproduction-taiwan.md",
+          "translatedFrom": "Society/台灣人工生殖.md",
+          "sourceCommitSha": "8a773c917",
+          "sourceContentHash": "sha256:c4ca8b53f4bb3480",
+          "sourceBodyHash": "sha256:77e3b99bc535ad5d",
+          "translatedAt": "2026-09-12T21:11:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/assisted-reproduction-taiwan.md",
@@ -44795,7 +44828,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/tzu-chi-foundation.md",
+          "translatedFrom": "Society/慈濟.md",
+          "sourceCommitSha": "6c39d5c4a",
+          "sourceContentHash": "sha256:c31283732f5c82a4",
+          "sourceBodyHash": "sha256:95652e4e6a2b2202",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/tzu-chi-foundation.md",
@@ -80488,8 +80532,8 @@
           "sourceContentHash": "sha256:8b5c9e238eb4ea4f",
           "sourceBodyHash": "sha256:5116f6aabd263b48",
           "translatedAt": "2026-09-12T19:57:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a86915",
+          "translationLastModified": "2026-09-12T21:20:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -96359,7 +96403,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-12T19:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -129323,7 +129378,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/lei-cha-pounded-tea.md",
+          "translatedFrom": "Food/擂茶.md",
+          "sourceCommitSha": "2c62c6aba",
+          "sourceContentHash": "sha256:6a65689f536cd84e",
+          "sourceBodyHash": "sha256:66c062471e0b3496",
+          "translatedAt": "2026-09-12T21:26:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/lei-cha-pounded-tea.md",
@@ -133418,7 +133484,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/national-railway-museum-taiwan.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-12T21:26:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/national-railway-museum-taiwan.md",
@@ -136614,7 +136691,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiping-steamer-disaster.md",
+          "translatedFrom": "History/太平輪.md",
+          "sourceCommitSha": "dab391c96",
+          "sourceContentHash": "sha256:dcae38bb957f233f",
+          "sourceBodyHash": "sha256:aa5b842ed6990a96",
+          "translatedAt": "2026-09-12T19:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -139471,7 +139559,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-salt-industry.md",
+          "translatedFrom": "History/台灣鹽業.md",
+          "sourceCommitSha": "a61bd414b",
+          "sourceContentHash": "sha256:623c5c57e9b6b622",
+          "sourceBodyHash": "sha256:7e48fca3fca65812",
+          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-salt-industry.md",
@@ -142976,13 +143075,35 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-land-reform.md",
+          "translatedFrom": "History/台灣土地改革.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:6c11a4c56a329d52",
+          "sourceBodyHash": "sha256:eca7e0ea95cf835a",
+          "translatedAt": "2026-09-12T19:57:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-land-reform.md",
+          "translatedFrom": "History/台灣土地改革.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:6c11a4c56a329d52",
+          "sourceBodyHash": "sha256:eca7e0ea95cf835a",
+          "translatedAt": "2026-09-12T19:57:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-land-reform.md",
@@ -166079,8 +166200,8 @@
           "sourceContentHash": "sha256:f55a726b94593a52",
           "sourceBodyHash": "sha256:af42a6da82295d4c",
           "translatedAt": "2026-09-12T19:57:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a86915",
+          "translationLastModified": "2026-09-12T21:20:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -171247,8 +171368,8 @@
           "sourceContentHash": "sha256:6c4805ee1614abe3",
           "sourceBodyHash": "sha256:6bca10d6157cb46a",
           "translatedAt": "2026-09-12T19:57:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a86915",
+          "translationLastModified": "2026-09-12T21:20:09+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -172143,16 +172264,49 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/kaji-bag.md",
+          "translatedFrom": "Culture/茄芷袋.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:ce021fd2a077ae57",
+          "sourceBodyHash": "sha256:ca35c2a9b4b8b4ff",
+          "translatedAt": "2026-09-12T19:57:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/kaji-bag.md",
+          "translatedFrom": "Culture/茄芷袋.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:ce021fd2a077ae57",
+          "sourceBodyHash": "sha256:ca35c2a9b4b8b4ff",
+          "translatedAt": "2026-09-12T19:57:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/kaji-bag.md",
+          "translatedFrom": "Culture/茄芷袋.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:d572cc1ca2a487f6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T13:29:49.382306+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/kaji-bag.md",
