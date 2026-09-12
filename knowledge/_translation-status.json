@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T07:43:45+08:00",
-    "zhCommitHead": "22c7ca0fd",
+    "lastUpdated": "2026-09-12T08:00:30+08:00",
+    "zhCommitHead": "8ba4a2cda",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 780,
-        "stale": 92,
+        "fresh": 781,
+        "stale": 91,
         "metadata_stale": 28,
         "missing": 221,
         "orphan": 0
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 724,
+        "fresh": 725,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 335,
+        "missing": 334,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 890,
+        "fresh": 892,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 149,
+        "missing": 147,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 245,
+        "missing": 244,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 874,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 187,
+        "missing": 185,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 922,
+        "fresh": 923,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 143,
+        "missing": 142,
         "orphan": 0
       },
       "de": {
@@ -2133,16 +2133,16 @@
         "ja": {
           "path": "ja/Music/contemporary-indigenous-singer-songwriters.md",
           "translatedFrom": "Music/當代原住民創作歌手.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:63a03cba4dec8d7b",
-          "sourceBodyHash": "sha256:709d0c8ef67f0111",
-          "translatedAt": "2026-05-17T05:34:50+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:a5f224da3d3ab399",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T23:47:36.955209+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (21→7)"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/contemporary-indigenous-singer-songwriters.md",
@@ -13940,10 +13940,32 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-beer.md",
@@ -44968,7 +44990,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/sign-language-video-relay.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/sign-language-video-relay.md",
@@ -53520,7 +53553,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/energy-poverty-and-cooling.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/energy-poverty-and-cooling.md",
@@ -71377,7 +71421,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/joeman.md",
+          "translatedFrom": "People/Joeman.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:19eba63c27c61c88",
+          "sourceBodyHash": "sha256:18e7518b3acc71b4",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/joeman.md",
@@ -71593,8 +71648,8 @@
           "sourceContentHash": "sha256:f1296fe6fee14759",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T22:54:25.030554+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ba4a2cd",
+          "translationLastModified": "2026-09-12T07:43:45+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -126973,7 +127028,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -150779,8 +150845,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ba4a2cd",
+          "translationLastModified": "2026-09-12T07:43:45+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -154761,8 +154827,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ba4a2cd",
+          "translationLastModified": "2026-09-12T07:43:45+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -158104,8 +158170,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ba4a2cd",
+          "translationLastModified": "2026-09-12T07:43:45+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -169638,7 +169704,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/national-taiwan-museum.md",
+          "translatedFrom": "Culture/國立臺灣博物館.md",
+          "sourceCommitSha": "4ce29d97d",
+          "sourceContentHash": "sha256:b0294f51e65e00c0",
+          "sourceBodyHash": "sha256:1f1dbba771873780",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
