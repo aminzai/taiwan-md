@@ -59,6 +59,16 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 洪醒夫 EVOLVE — 2026-09-12 完成（全站 #1 搜尋流量 stub 深度進化）
+
+- **Article**: [knowledge/People/洪醒夫.md](../../knowledge/People/洪醒夫.md)
+- **Pipeline**: REWRITE-PIPELINE v9 — EVOLVE 模式（697 字 stub → 5,455 字深度長文）
+- **核心矛盾**：白天在台中神岡社口國小教書認字、夜晚在燈下伏案為急速解體的台灣傳統農村做證；不喊政治口號，而用具體的小人物尊嚴回答「文學為誰而寫」
+- **Hook**：二林貧農之子的「洪醒夫斯基」文學志向、社口國小教職員宿舍孤燈、安迪颱風夜車禍驟逝與未竟長篇
+- **品質**：5,455 CJK chars / 18 腳註 / 3 張 Commons 場景配圖 / 1 大愛電視官方影片 iframe / article-health 0 hard 0 warn 全綠
+- **成果**：解開 SC 全站 #1 query（每週 ~2,654 imp）嚴重品質倒掛缺口，完整析論《黑面慶仔》、《市井傳奇》、《田莊人》與國文課本名篇〈散戲〉、〈紙船印象〉。
+
+
 ### 台灣早餐文化 — 2026-08-18 twmd-rewrite session 完成（兩萬家店賣著同一份早餐，沒有一個人擁有它）
 
 - **Article**: [knowledge/Food/台灣早餐文化.md](../../knowledge/Food/台灣早餐文化.md)
