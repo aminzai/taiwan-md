@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T12:55:12+08:00",
-    "zhCommitHead": "b325f80d0",
+    "lastUpdated": "2026-09-12T12:55:36+08:00",
+    "zhCommitHead": "5693f766e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 169,
+        "missing": 168,
         "orphan": 0
       },
       "ru": {
@@ -43399,8 +43399,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-12T09:55:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5693f766",
+          "translationLastModified": "2026-09-12T12:55:12+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -109748,8 +109748,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-12T09:55:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5693f766",
+          "translationLastModified": "2026-09-12T12:55:12+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -129595,8 +129595,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-12T11:16:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5693f766",
+          "translationLastModified": "2026-09-12T12:55:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -134823,8 +134823,8 @@
           "sourceContentHash": "sha256:de11aad3f14ac9df",
           "sourceBodyHash": "sha256:64f1c0f569ea5a00",
           "translatedAt": "2026-09-12T11:16:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5693f766",
+          "translationLastModified": "2026-09-12T12:55:12+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -138062,7 +138062,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-salt-industry.md",
+          "translatedFrom": "History/台灣鹽業.md",
+          "sourceCommitSha": "a61bd414b",
+          "sourceContentHash": "sha256:623c5c57e9b6b622",
+          "sourceBodyHash": "sha256:7e48fca3fca65812",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-salt-industry.md",
