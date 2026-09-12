@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T03:52:32+08:00",
-    "zhCommitHead": "e2e5c00d6",
+    "lastUpdated": "2026-09-13T03:59:19+08:00",
+    "zhCommitHead": "50ede139d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 944,
+        "fresh": 945,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 82,
+        "missing": 81,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 775,
+        "fresh": 776,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 285,
+        "missing": 284,
         "orphan": 0
       },
       "pt": {
@@ -17957,8 +17957,8 @@
           "sourceContentHash": "sha256:dcdc411ac65fa741",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T18:00:24.887789+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50ede139",
+          "translationLastModified": "2026-09-13T03:52:32+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -40665,7 +40665,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/food-delivery-platforms-taiwan.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-12T19:57:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -75825,8 +75836,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50ede139",
+          "translationLastModified": "2026-09-13T03:52:32+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -158790,7 +158801,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/capoo-cat-character.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-13T03:42:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/capoo-cat-character.md",
@@ -170008,8 +170030,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "50ede139",
+          "translationLastModified": "2026-09-13T03:52:32+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
