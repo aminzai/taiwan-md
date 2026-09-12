@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T16:44:44+08:00",
-    "zhCommitHead": "f08e00bd6",
+    "lastUpdated": "2026-09-12T17:23:57+08:00",
+    "zhCommitHead": "0c45188f7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 91,
         "metadata_stale": 28,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "ko": {
@@ -68,34 +68,34 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 745,
+        "fresh": 748,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 314,
+        "missing": 311,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 923,
+        "fresh": 925,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 116,
+        "missing": 114,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 846,
+        "fresh": 849,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 220,
+        "missing": 217,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 906,
+        "fresh": 907,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 154,
+        "missing": 153,
         "orphan": 0
       },
       "ru": {
@@ -8695,7 +8695,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -18915,10 +18926,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/junyi-academy.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:b71f8a565a04196b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T09:01:10.855338+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/junyi-academy.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -41099,13 +41132,35 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taking-off-shoes-indoors-taiwan.md",
+          "translatedFrom": "Lifestyle/台灣進屋脫鞋.md",
+          "sourceCommitSha": "93e572f8d",
+          "sourceContentHash": "sha256:4b052a359a9d9447",
+          "sourceBodyHash": "sha256:3fe6546421aedaf5",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taking-off-shoes-indoors-taiwan.md",
+          "translatedFrom": "Lifestyle/台灣進屋脫鞋.md",
+          "sourceCommitSha": "93e572f8d",
+          "sourceContentHash": "sha256:4b052a359a9d9447",
+          "sourceBodyHash": "sha256:3fe6546421aedaf5",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -45308,8 +45363,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -53967,8 +54022,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -56651,8 +56706,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -63288,7 +63343,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Nature/taiwanese-white-dolphin.md",
+          "translatedFrom": "Nature/台灣白海豚.md",
+          "sourceCommitSha": "372f0027e",
+          "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
+          "sourceBodyHash": "sha256:53b72f6cf77894ed",
+          "translatedAt": "2026-09-12T11:18:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -68036,7 +68102,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/first-direct-presidential-election.md",
+          "translatedFrom": "Politics/第一次總統直選.md",
+          "sourceCommitSha": "0cbc25416",
+          "sourceContentHash": "sha256:a9a1c953d1f67352",
+          "sourceBodyHash": "sha256:7f3db8811cfb9799",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Politics/first-direct-presidential-election.md",
@@ -96682,7 +96759,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/muyao4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/muyao4.md",
@@ -96691,8 +96779,8 @@
           "sourceContentHash": "sha256:f1e33836f112b9c8",
           "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -111018,8 +111106,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -132272,7 +132360,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -152439,8 +152538,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -171583,7 +171682,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/national-taiwan-museum.md",
+          "translatedFrom": "Culture/國立臺灣博物館.md",
+          "sourceCommitSha": "4ce29d97d",
+          "sourceContentHash": "sha256:ec356fcc324527b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T09:14:50.469188+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/national-taiwan-museum.md",
@@ -171592,8 +171702,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c45188f",
+          "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
