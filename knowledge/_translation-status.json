@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T23:34:36+08:00",
-    "zhCommitHead": "b699b5df6",
+    "lastUpdated": "2026-09-12T23:45:32+08:00",
+    "zhCommitHead": "1e93bc398",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 899,
+        "fresh": 903,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 127,
+        "missing": 123,
         "orphan": 0
       },
       "es": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 925,
+        "fresh": 926,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 135,
+        "missing": 134,
         "orphan": 0
       },
       "ru": {
@@ -9793,8 +9793,8 @@
           "sourceContentHash": "sha256:700b0aadc287b607",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T13:53:49.515763+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -48047,8 +48047,8 @@
           "sourceContentHash": "sha256:97f73d46f1b8c211",
           "sourceBodyHash": "sha256:f303227e993d74f0",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -48113,7 +48113,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-12T22:55:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/awakening-foundation.md",
@@ -68259,8 +68270,8 @@
           "sourceContentHash": "sha256:76692c261ac4ee59",
           "sourceBodyHash": "sha256:7ec5f5cc7b44e03c",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -74915,7 +74926,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/froggy-chiu.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-12T22:55:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/froggy-chiu.md",
@@ -76018,7 +76040,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-12T23:42:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/tsai-tung-jung.md",
@@ -105310,7 +105343,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/zhuge-si-lang-comic.md",
+          "translatedFrom": "People/諸葛四郎.md",
+          "sourceCommitSha": "e38376ee4",
+          "sourceContentHash": "sha256:e3fbaeedac9c6f10",
+          "sourceBodyHash": "sha256:1b0f00900854455d",
+          "translatedAt": "2026-09-12T22:55:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/zhuge-si-lang-comic.md",
@@ -107782,7 +107826,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tieniu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:695b08b5d7d2de65",
+          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
+          "translatedAt": "2026-09-12T19:57:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -128913,8 +128968,8 @@
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -130704,8 +130759,8 @@
           "sourceContentHash": "sha256:938bfed97e4860f0",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T14:41:35.520908+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "status": "fresh",
@@ -134469,8 +134524,8 @@
           "sourceContentHash": "sha256:51ee9e5cce591488",
           "sourceBodyHash": "sha256:eba4f32a0cfd42a7",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -169319,8 +169374,8 @@
           "sourceContentHash": "sha256:ad2ea2b7426872e8",
           "sourceBodyHash": "sha256:efe2be1b9ec46e77",
           "translatedAt": "2026-09-12T19:57:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1e93bc39",
+          "translationLastModified": "2026-09-12T23:34:37+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
