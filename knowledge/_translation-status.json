@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T09:16:51+08:00",
-    "zhCommitHead": "048572356",
+    "lastUpdated": "2026-09-12T09:39:06+08:00",
+    "zhCommitHead": "ca1dca0fd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 989,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 987,
+        "fresh": 988,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 34,
+        "missing": 33,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 728,
+        "fresh": 729,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 331,
+        "missing": 330,
         "orphan": 0
       },
       "pt": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 242,
+        "missing": 241,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 879,
+        "fresh": 880,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 180,
+        "missing": 179,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 927,
+        "fresh": 928,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 138,
+        "missing": 137,
         "orphan": 0
       },
       "de": {
@@ -13960,8 +13960,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -18092,8 +18092,8 @@
           "sourceContentHash": "sha256:91d2e06ad3b432cd",
           "sourceBodyHash": "sha256:326a1e569da021aa",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -56260,7 +56260,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/hahatai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -62907,8 +62918,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -67590,7 +67601,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/first-direct-presidential-election.md",
+          "translatedFrom": "Politics/第一次總統直選.md",
+          "sourceCommitSha": "0cbc25416",
+          "sourceContentHash": "sha256:f6ec890028398bdc",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T01:02:31.609381+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/first-direct-presidential-election.md",
@@ -69463,7 +69485,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/happiness-party-taiwan.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -71502,8 +71535,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -73082,8 +73115,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -95332,8 +95365,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -110487,8 +110520,8 @@
           "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
           "sourceBodyHash": "sha256:657949e86efaa762",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -112398,7 +112431,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/nick-star-streamer.md",
+          "translatedFrom": "People/尼克星.md",
+          "sourceCommitSha": "b9ebab71d",
+          "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
+          "sourceBodyHash": "sha256:ac25e74e87295655",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -131182,7 +131226,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -140523,8 +140578,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -143917,8 +143972,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ca1dca0f",
+          "translationLastModified": "2026-09-12T09:16:52+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -151062,7 +151117,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
