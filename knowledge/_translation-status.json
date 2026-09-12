@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T18:51:25+08:00",
-    "zhCommitHead": "fc9211ca1",
+    "lastUpdated": "2026-09-12T19:01:41+08:00",
+    "zhCommitHead": "657020d05",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 750,
+        "fresh": 751,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 309,
+        "missing": 308,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 929,
+        "fresh": 930,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 962,
+        "fresh": 963,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 103,
+        "missing": 102,
         "orphan": 0
       },
       "de": {
@@ -16572,7 +16572,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/yahoo-kimo-taiwan.md",
+          "translatedFrom": "Economy/Yahoo-kimo.md",
+          "sourceCommitSha": "77e6f2321",
+          "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
+          "sourceBodyHash": "sha256:854e7c117a8a7154",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/yahoo-kimo-taiwan.md",
@@ -18129,8 +18140,8 @@
           "sourceContentHash": "sha256:7fe905eb6c043cad",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T09:48:30.517160+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "657020d0",
+          "translationLastModified": "2026-09-12T18:51:25+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -32477,7 +32488,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/weiwuying-arts-center.md",
+          "translatedFrom": "Art/衛武營.md",
+          "sourceCommitSha": "7fddc5077",
+          "sourceContentHash": "sha256:839c2636244d1802",
+          "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -63470,8 +63492,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-12T11:18:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "657020d0",
+          "translationLastModified": "2026-09-12T18:51:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -128945,8 +128967,8 @@
           "sourceContentHash": "sha256:ee2201b450622484",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T10:40:17.409874+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "657020d0",
+          "translationLastModified": "2026-09-12T18:51:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -141629,7 +141651,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
