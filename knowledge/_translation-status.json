@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T10:29:20+08:00",
-    "zhCommitHead": "d65cb9d6c",
+    "lastUpdated": "2026-09-12T10:31:34+08:00",
+    "zhCommitHead": "7f4b79c77",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 932,
+        "fresh": 933,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 133,
+        "missing": 132,
         "orphan": 0
       },
       "de": {
@@ -13957,8 +13957,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f4b79c7",
+          "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -25332,7 +25332,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-display-industry.md",
+          "translatedFrom": "Technology/台灣顯示器產業.md",
+          "sourceCommitSha": "8544f5ff6",
+          "sourceContentHash": "sha256:6f543fc8322b4070",
+          "sourceBodyHash": "sha256:487e3d2f13378d12",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -53592,8 +53603,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f4b79c7",
+          "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -62926,8 +62937,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f4b79c7",
+          "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -72435,8 +72446,8 @@
           "sourceContentHash": "sha256:4ae6e15b4e3eea8f",
           "sourceBodyHash": "sha256:09d31f29d2008420",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f4b79c7",
+          "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -131364,8 +131375,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f4b79c7",
+          "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -144112,8 +144123,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-12T02:30:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f4b79c7",
+          "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
