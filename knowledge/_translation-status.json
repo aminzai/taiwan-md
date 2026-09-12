@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T09:55:16+08:00",
-    "zhCommitHead": "aa7d7b68e",
+    "lastUpdated": "2026-09-12T10:27:55+08:00",
+    "zhCommitHead": "94aee6b1a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,34 +76,34 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 899,
+        "fresh": 901,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 140,
+        "missing": 138,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 828,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 240,
+        "missing": 238,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 881,
+        "fresh": 883,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 178,
+        "missing": 176,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 930,
+        "fresh": 932,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 135,
+        "missing": 133,
         "orphan": 0
       },
       "de": {
@@ -6619,10 +6619,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -16540,7 +16562,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/yahoo-kimo-taiwan.md",
+          "translatedFrom": "Economy/Yahoo-kimo.md",
+          "sourceCommitSha": "77e6f2321",
+          "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
+          "sourceBodyHash": "sha256:854e7c117a8a7154",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -69532,7 +69565,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/happiness-party-taiwan.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -106031,8 +106075,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-12T07:00:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94aee6b1",
+          "translationLastModified": "2026-09-12T09:55:16+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -120787,7 +120831,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/flying-fish-tao-people.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -144985,10 +145040,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -145713,7 +145790,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/western-trunk-railway.md",
+          "translatedFrom": "Geography/縱貫鐵路.md",
+          "sourceCommitSha": "77fa1a757",
+          "sourceContentHash": "sha256:70bb378dbb4d4234",
+          "sourceBodyHash": "sha256:82e8d65770b72f8e",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/western-trunk-railway.md",
