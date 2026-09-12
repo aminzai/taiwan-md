@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T18:06:31+08:00",
-    "zhCommitHead": "890e4586d",
+    "lastUpdated": "2026-09-12T18:06:51+08:00",
+    "zhCommitHead": "c4b772b6a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "ar": {
@@ -141601,7 +141601,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/chianan-irrigation-canal.md",
+          "translatedFrom": "History/嘉南大圳.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:e8b694e836a1a788",
+          "sourceBodyHash": "sha256:a57ef7adfb910d4f",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
