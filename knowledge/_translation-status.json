@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T10:31:34+08:00",
-    "zhCommitHead": "7f4b79c77",
+    "lastUpdated": "2026-09-12T10:40:13+08:00",
+    "zhCommitHead": "d535f3960",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 990,
+        "fresh": 991,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "vi": {
@@ -76,26 +76,26 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 902,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 138,
+        "missing": 137,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 240,
+        "missing": 239,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 883,
+        "fresh": 885,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 176,
+        "missing": 174,
         "orphan": 0
       },
       "ru": {
@@ -6616,7 +6616,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -16557,8 +16568,8 @@
           "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
           "sourceBodyHash": "sha256:854e7c117a8a7154",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -25338,8 +25349,8 @@
           "sourceContentHash": "sha256:6f543fc8322b4070",
           "sourceBodyHash": "sha256:487e3d2f13378d12",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -56299,8 +56310,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -67668,8 +67679,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -69571,8 +69582,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -73750,7 +73761,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/froggy-chiu.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/froggy-chiu.md",
@@ -110281,8 +110303,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -116406,8 +116428,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-12T02:30:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d535f396",
+          "translationLastModified": "2026-09-12T10:31:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -140248,10 +140270,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -152965,7 +153009,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-12T09:55:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
