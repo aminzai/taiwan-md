@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T18:06:51+08:00",
-    "zhCommitHead": "c4b772b6a",
+    "lastUpdated": "2026-09-12T18:16:04+08:00",
+    "zhCommitHead": "624a37e7e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 826,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 202,
+        "missing": 200,
         "orphan": 0
       },
       "es": {
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 908,
+        "fresh": 909,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 960,
+        "fresh": 961,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 105,
+        "missing": 104,
         "orphan": 0
       },
       "de": {
@@ -8701,8 +8701,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "624a37e7",
+          "translationLastModified": "2026-09-12T18:06:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -18965,8 +18965,8 @@
           "sourceContentHash": "sha256:b71f8a565a04196b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T09:01:10.855338+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "624a37e7",
+          "translationLastModified": "2026-09-12T18:06:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41210,8 +41210,8 @@
           "sourceContentHash": "sha256:4b052a359a9d9447",
           "sourceBodyHash": "sha256:3fe6546421aedaf5",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "624a37e7",
+          "translationLastModified": "2026-09-12T18:06:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -56851,7 +56851,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/gsat-taiwan.md",
+          "translatedFrom": "Society/學測.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
+          "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -63012,8 +63023,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "624a37e7",
+          "translationLastModified": "2026-09-12T18:06:51+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -75268,7 +75279,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/huang-tu-shui.md",
+          "translatedFrom": "People/黃土水.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:d22d7298dff5ac3a",
+          "sourceBodyHash": "sha256:7b62e2a912ba5344",
+          "translatedAt": "2026-09-12T15:46:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/huang-tu-shui.md",
@@ -85539,8 +85561,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-12T15:46:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c4b772b6",
+          "translationLastModified": "2026-09-12T18:06:31+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -138831,8 +138853,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-12T12:56:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c4b772b6",
+          "translationLastModified": "2026-09-12T18:06:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -141607,8 +141629,8 @@
           "sourceContentHash": "sha256:e8b694e836a1a788",
           "sourceBodyHash": "sha256:a57ef7adfb910d4f",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "624a37e7",
+          "translationLastModified": "2026-09-12T18:06:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -146367,7 +146389,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -165606,7 +165639,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/amis-age-set-system.md",
+          "translatedFrom": "Culture/阿美族年齡階級.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:ed1755ea004ce07b",
+          "sourceBodyHash": "sha256:5143620e3afad434",
+          "translatedAt": "2026-09-12T15:46:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/amis-age-set-system.md",
