@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T19:55:29+08:00",
-    "zhCommitHead": "27f68905d",
+    "lastUpdated": "2026-09-12T19:56:21+08:00",
+    "zhCommitHead": "9bc737cc1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 854,
+        "fresh": 853,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 212,
+        "missing": 213,
         "orphan": 0
       },
       "ar": {
@@ -25563,8 +25563,8 @@
           "sourceContentHash": "sha256:6f543fc8322b4070",
           "sourceBodyHash": "sha256:487e3d2f13378d12",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bc737cc",
+          "translationLastModified": "2026-09-12T19:55:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -56885,8 +56885,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bc737cc",
+          "translationLastModified": "2026-09-12T19:55:32+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -146654,18 +146654,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -160854,8 +160843,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-12T11:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bc737cc",
+          "translationLastModified": "2026-09-12T19:55:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
