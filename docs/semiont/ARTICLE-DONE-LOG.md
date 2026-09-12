@@ -64,10 +64,9 @@ read_strategy: 'on-demand'
 - **Article**: [knowledge/People/洪醒夫.md](../../knowledge/People/洪醒夫.md)
 - **Pipeline**: REWRITE-PIPELINE v9 — EVOLVE 模式（697 字 stub → 5,455 字深度長文）
 - **核心矛盾**：白天在台中神岡社口國小教書認字、夜晚在燈下伏案為急速解體的台灣傳統農村做證；不喊政治口號，而用具體的小人物尊嚴回答「文學為誰而寫」
-- **Hook**：二林貧農之子的「洪醒夫斯基」文學志向、社口國小教職員宿舍孤燈、安迪颱風夜車禍驟逝與未竟長篇
-- **品質**：5,455 CJK chars / 18 腳註 / 3 張 Commons 場景配圖 / 1 大愛電視官方影片 iframe / article-health 0 hard 0 warn 全綠
+- **Hook**：二林貧農之子的「洪醒夫斯基」文學志向、社口國小教職員宿舍孤燈、安迪颱風夜車禍驟逝
+- **品質**：5,077 CJK chars（article-health 計） / 11 腳註 / 3 張 Commons 場景配圖 / 1 大愛電視官方影片 iframe / article-health 0 hard 0 warn 全綠。2026-09-13 maintainer 事實查核後 heal：獎項屆次、子女、治喪委員會、全集版本與五處引語依來源修正，八條離線腳註移除
 - **成果**：解開 SC 全站 #1 query（每週 ~2,654 imp）嚴重品質倒掛缺口，完整析論《黑面慶仔》、《市井傳奇》、《田莊人》與國文課本名篇〈散戲〉、〈紙船印象〉。
-
 
 ### 台灣早餐文化 — 2026-08-18 twmd-rewrite session 完成（兩萬家店賣著同一份早餐，沒有一個人擁有它）
 
@@ -109,6 +108,7 @@ read_strategy: 'on-demand'
 - **品質**：12,272 CJK 字 / 62 腳註 / 全站 gate hard=0
 - **Research**: [reports/research/2026-08/陳致中.md](../../reports/research/2026-08/陳致中.md) ＋ [stage36-audit](../../reports/research/2026-08/陳致中-stage36-audit.md)
 - **敏感素材處理**：在世爭議政治人物，哲宇拍板「司法案件寫、私德案完全不進正文」，六個研究 agent 全程零檢索、正文零出現；炎上席抓到論證形狀與當事人本人申辯同構，改為主動寫出重疊讓讀者自行判斷
+
 ### 馬祖國際藝術島 — 2026-08-06 manual session 完成（一座沒有展館的美術館，把整座列島借來當展場）
 
 - **Article**: [knowledge/Art/馬祖國際藝術島.md](../../knowledge/Art/馬祖國際藝術島.md)

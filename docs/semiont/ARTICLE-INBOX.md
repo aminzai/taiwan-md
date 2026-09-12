@@ -927,7 +927,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 **Tier A — 高知名度 × 嚴重單薄（12 篇，優先）**:
 
-- [x] [洪醒夫](../../knowledge/People/洪醒夫.md) — 5,455 字／18 腳註／2026-09-12 深度重寫完成（原 697 字 0 腳註 stub，已歸檔至 DONE-LOG）
+- [x] [洪醒夫](../../knowledge/People/洪醒夫.md) — 5,077 字／11 腳註／2026-09-12 深度重寫完成，2026-09-13 事實查核 heal（原 697 字 0 腳註 stub，已歸檔至 DONE-LOG）
 - [ ] [何飛鵬](../../knowledge/People/何飛鵬.md) — 1023 字／0 腳註／2026-03-26
 - [ ] [葉丙成](../../knowledge/People/葉丙成.md) — 889 字／3 腳註／2026-03-20
 - [ ] [江蕙](../../knowledge/People/江蕙.md) — 1592 字／0 腳註／2026-03-28／首作者 idlccp02
