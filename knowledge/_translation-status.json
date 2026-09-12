@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T12:56:04+08:00",
-    "zhCommitHead": "87e714d8d",
+    "lastUpdated": "2026-09-12T13:35:07+08:00",
+    "zhCommitHead": "acbd97778",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 787,
         "stale": 91,
         "metadata_stale": 28,
-        "missing": 217,
+        "missing": 215,
         "orphan": 0
       },
       "ko": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 735,
+        "fresh": 738,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 324,
+        "missing": 321,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 906,
+        "fresh": 911,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 133,
+        "missing": 128,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 837,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 233,
+        "missing": 229,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 892,
+        "fresh": 896,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 168,
+        "missing": 164,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 940,
+        "fresh": 944,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 125,
+        "missing": 121,
         "orphan": 0
       },
       "de": {
@@ -7992,10 +7992,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -23576,16 +23598,60 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-bicycle-industry.md",
@@ -31810,7 +31876,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/ximen-red-house.md",
+          "translatedFrom": "Art/西門紅樓.md",
+          "sourceCommitSha": "47c6b3e7e",
+          "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
+          "sourceBodyHash": "sha256:2df61ce131967498",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/ximen-red-house.md",
@@ -38027,7 +38104,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taipei-bridge-scooter-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -38804,7 +38892,18 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/beyblade-in-taiwan.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-12T11:18:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -44383,7 +44482,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/tzu-chi-foundation.md",
+          "translatedFrom": "Society/慈濟.md",
+          "sourceCommitSha": "6c39d5c4a",
+          "sourceContentHash": "sha256:c31283732f5c82a4",
+          "sourceBodyHash": "sha256:95652e4e6a2b2202",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/tzu-chi-foundation.md",
@@ -45216,7 +45326,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-blood-donation.md",
+          "translatedFrom": "Society/台灣捐血.md",
+          "sourceCommitSha": "d5c0f8970",
+          "sourceContentHash": "sha256:0288d7726f0c4e4a",
+          "sourceBodyHash": "sha256:3833aad49a7f6cb9",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-blood-donation.md",
@@ -51293,7 +51414,18 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/taiwan-dashcam-society.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:4b8b01504ad6ae86",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T05:28:46.335053+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -51822,7 +51954,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/air-raid-shelters-taiwan.md",
+          "translatedFrom": "Society/防空避難.md",
+          "sourceCommitSha": "f72b7c411",
+          "sourceContentHash": "sha256:2864f529a23701fe",
+          "sourceBodyHash": "sha256:c8066f344d7a7cc6",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -76337,7 +76480,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chien-chien-eating.md",
@@ -106595,8 +106749,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-12T09:55:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "acbd9777",
+          "translationLastModified": "2026-09-12T12:56:05+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -138916,19 +139070,52 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -139350,7 +139537,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/orchid-island-nuclear-waste.md",
+          "translatedFrom": "History/蘭嶼核廢料.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:65e86deccc5676be",
+          "sourceBodyHash": "sha256:c479bb28dd01bd12",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -153357,7 +153555,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -160076,7 +160285,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/dajia-mazu-pilgrimage.md",
+          "translatedFrom": "Culture/大甲媽祖遶境.md",
+          "sourceCommitSha": "9d6f6678a",
+          "sourceContentHash": "sha256:c6ff5ec261e11e72",
+          "sourceBodyHash": "sha256:9ca9ab3653bc089e",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/dajia-mazu-pilgrimage.md",
@@ -160842,10 +161062,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/banana-baihua-secret-speech.md",
+          "translatedFrom": "Culture/香蕉白話.md",
+          "sourceCommitSha": "a769fefe2",
+          "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
+          "sourceBodyHash": "sha256:9cb502435a73e76b",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/banana-baihua-secret-speech.md",
+          "translatedFrom": "Culture/香蕉白話.md",
+          "sourceCommitSha": "a769fefe2",
+          "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
+          "sourceBodyHash": "sha256:9cb502435a73e76b",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
