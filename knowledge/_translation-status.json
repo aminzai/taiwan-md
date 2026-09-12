@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T06:39:24+08:00",
-    "zhCommitHead": "8f463e021",
+    "lastUpdated": "2026-09-13T07:31:11+08:00",
+    "zhCommitHead": "93a5506f8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 804,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 202,
+        "missing": 200,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 956,
+        "fresh": 957,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "es": {
@@ -68,34 +68,34 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 780,
+        "fresh": 784,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 280,
+        "missing": 276,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 961,
+        "fresh": 963,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 78,
+        "missing": 76,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 879,
+        "fresh": 882,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 187,
+        "missing": 184,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 943,
+        "fresh": 945,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 117,
+        "missing": 115,
         "orphan": 0
       },
       "ru": {
@@ -6647,18 +6647,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -8033,7 +8022,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -9814,7 +9814,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-offshore-wind-power.md",
+          "translatedFrom": "Economy/台灣離岸風電.md",
+          "sourceCommitSha": "566429f3b",
+          "sourceContentHash": "sha256:700b0aadc287b607",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T22:36:22.626634+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -14408,7 +14419,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-enterprise-cathay-financial.md",
+          "translatedFrom": "Economy/台灣企業：國泰金控.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:4749f0faadb8e7bf",
+          "sourceBodyHash": "sha256:ebc33c96c44483b0",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-enterprise-cathay-financial.md",
@@ -14865,7 +14887,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-agriculture-and-rural-revitalization.md",
+          "translatedFrom": "Economy/台灣農業與農村再生.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:95d473c7b6d24541",
+          "sourceBodyHash": "sha256:a996bea328f05c29",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -37665,8 +37698,8 @@
           "sourceContentHash": "sha256:8099a54c43948775",
           "sourceBodyHash": "sha256:3422a46a0cbc8816",
           "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a5506f",
+          "translationLastModified": "2026-09-13T06:39:32+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -41597,8 +41630,8 @@
           "sourceContentHash": "sha256:3acf49c3933c9229",
           "sourceBodyHash": "sha256:f91712c52f95f564",
           "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a5506f",
+          "translationLastModified": "2026-09-13T06:39:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -57795,8 +57828,8 @@
           "sourceContentHash": "sha256:70f67e9c812463d2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T22:20:24.177152+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a5506f",
+          "translationLastModified": "2026-09-13T06:39:32+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -62854,7 +62887,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
+          "translatedFrom": "Nature/台灣國家公園.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:c51eb1a165d6a2f5",
+          "sourceBodyHash": "sha256:99620fa1348fdcfe",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
@@ -67732,7 +67776,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:585807acc89b5597",
+          "sourceBodyHash": "sha256:f114fc7180bbb45a",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -69657,7 +69712,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/absentee-voting-taiwan.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -81421,7 +81487,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/shi-lang-admiral.md",
+          "translatedFrom": "People/施琅.md",
+          "sourceCommitSha": "6bca1263d",
+          "sourceContentHash": "sha256:ffd752882b17c3c2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T23:03:10.124423+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/shi-lang-admiral.md",
@@ -95379,7 +95456,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/domidoro.md",
+          "translatedFrom": "People/多米多羅.md",
+          "sourceCommitSha": "4e7919913",
+          "sourceContentHash": "sha256:bfcd5767d7b581f0",
+          "sourceBodyHash": "sha256:7d79b5e0261f5aba",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/domidoro.md",
@@ -123647,7 +123735,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/flying-fish-tao-people.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/flying-fish-tao-people.md",
@@ -129336,7 +129435,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-banana-kingdom.md",
@@ -146729,7 +146839,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/lin-an-tai-historical-house.md",
+          "translatedFrom": "Geography/林安泰古厝.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:47d89dc0ac03a566",
+          "sourceBodyHash": "sha256:7079616fec64f3a7",
+          "translatedAt": "2026-09-13T05:38:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/lin-an-tai-historical-house.md",
@@ -148962,24 +149083,24 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
-        },
-        "ar": {
-          "status": "missing"
-        },
-        "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
+          "path": "hi/Geography/alishan-forest-railway.md",
           "translatedFrom": "Geography/阿里山林業鐵路.md",
           "sourceCommitSha": "da79c32b0",
           "sourceContentHash": "sha256:98502e991d7261a6",
           "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-12T19:57:24+08:00",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -156084,8 +156205,8 @@
           "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
           "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
           "translatedAt": "2026-09-12T19:57:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93a5506f",
+          "translationLastModified": "2026-09-13T06:39:32+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -165849,7 +165970,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-postage-stamps.md",
+          "translatedFrom": "Culture/台灣郵票.md",
+          "sourceCommitSha": "513144edb",
+          "sourceContentHash": "sha256:09da7327b5a4487f",
+          "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -168154,7 +168286,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/kavalan-people.md",
+          "translatedFrom": "Culture/噶瑪蘭族.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0092cb426289b426",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T22:43:23.716886+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/kavalan-people.md",
@@ -171855,7 +171998,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
