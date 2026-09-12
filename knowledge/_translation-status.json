@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T12:55:36+08:00",
-    "zhCommitHead": "5693f766e",
+    "lastUpdated": "2026-09-12T12:56:04+08:00",
+    "zhCommitHead": "87e714d8d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "ar": {
@@ -44369,7 +44369,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/tzu-chi-foundation.md",
+          "translatedFrom": "Society/慈濟.md",
+          "sourceCommitSha": "6c39d5c4a",
+          "sourceContentHash": "sha256:c31283732f5c82a4",
+          "sourceBodyHash": "sha256:95652e4e6a2b2202",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -71666,8 +71677,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-12T09:55:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "87e714d8",
+          "translationLastModified": "2026-09-12T12:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
