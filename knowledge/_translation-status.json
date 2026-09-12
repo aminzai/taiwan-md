@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T14:33:33+08:00",
-    "zhCommitHead": "43ff263d1",
+    "lastUpdated": "2026-09-12T15:14:32+08:00",
+    "zhCommitHead": "8bb22e8c9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 207,
+        "missing": 206,
         "orphan": 0
       },
       "es": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 741,
+        "fresh": 742,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 318,
+        "missing": 317,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 916,
+        "fresh": 918,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 123,
+        "missing": 121,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 843,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 226,
+        "missing": 223,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 903,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 159,
+        "missing": 157,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 951,
+        "fresh": 954,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 114,
+        "missing": 111,
         "orphan": 0
       },
       "de": {
@@ -16951,13 +16951,35 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -23596,8 +23618,8 @@
           "sourceContentHash": "sha256:3fab2a74ac11d1b7",
           "sourceBodyHash": "sha256:29363c705647bf15",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -36608,7 +36630,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/utility-poles-and-transformer-boxes.md",
+          "translatedFrom": "Lifestyle/電線桿與變電箱.md",
+          "sourceCommitSha": "dd1ef85cd",
+          "sourceContentHash": "sha256:3512b2f6ca0a3376",
+          "sourceBodyHash": "sha256:b926dcc386105146",
+          "translatedAt": "2026-09-12T12:56:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/utility-poles-and-transformer-boxes.md",
@@ -43185,7 +43218,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -45354,8 +45398,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -73386,8 +73430,8 @@
           "sourceContentHash": "sha256:b3b7816f9ed81e72",
           "sourceBodyHash": "sha256:fd90a845acbf3ca4",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -73408,7 +73452,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:b3b7816f9ed81e72",
+          "sourceBodyHash": "sha256:fd90a845acbf3ca4",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/lin-hsien-tang.md",
@@ -75137,8 +75192,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -76541,8 +76596,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -93729,8 +93784,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -96498,7 +96553,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/muyao4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/muyao4.md",
@@ -127975,10 +128041,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-railway-bento.md",
@@ -129875,7 +129963,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/asia-cement-xincheng-mine.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -140307,7 +140406,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taipei-main-station.md",
@@ -140316,8 +140426,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -152114,7 +152224,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/ankeng-light-rail.md",
@@ -153781,8 +153902,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -158448,8 +158569,8 @@
           "sourceContentHash": "sha256:01678a90a6beb87a",
           "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -160544,8 +160665,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-12T11:18:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8bb22e8c",
+          "translationLastModified": "2026-09-12T14:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -168851,7 +168972,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/truku-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
