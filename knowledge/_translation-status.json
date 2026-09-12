@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T09:39:06+08:00",
-    "zhCommitHead": "ca1dca0fd",
+    "lastUpdated": "2026-09-12T09:55:16+08:00",
+    "zhCommitHead": "aa7d7b68e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 814,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 215,
+        "missing": 212,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 990,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 33,
+        "missing": 31,
         "orphan": 0
       },
       "vi": {
@@ -76,34 +76,34 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 898,
+        "fresh": 899,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 241,
+        "missing": 240,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 880,
+        "fresh": 881,
         "stale": 48,
         "metadata_stale": 14,
-        "missing": 179,
+        "missing": 178,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 928,
+        "fresh": 930,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 137,
+        "missing": 135,
         "orphan": 0
       },
       "de": {
@@ -53590,8 +53590,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -62946,8 +62946,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -67621,15 +67621,26 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/first-direct-presidential-election.md",
+          "translatedFrom": "Politics/第一次總統直選.md",
+          "sourceCommitSha": "0cbc25416",
+          "sourceContentHash": "sha256:a9a1c953d1f67352",
+          "sourceBodyHash": "sha256:7f3db8811cfb9799",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -69470,7 +69481,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Politics/happiness-party-taiwan.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -69482,7 +69504,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/happiness-party-taiwan.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:4daf4700307c5c6d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T01:32:09.947996+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/happiness-party-taiwan.md",
@@ -69491,8 +69524,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -74054,7 +74087,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chen-ssu-hung-writer.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-ssu-hung-writer.md",
@@ -83936,7 +83980,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/lin-chia-chen-singer.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/lin-chia-chen-singer.md",
@@ -95393,8 +95448,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -103619,7 +103674,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/zhuge-si-lang-comic.md",
+          "translatedFrom": "People/諸葛四郎.md",
+          "sourceCommitSha": "e38376ee4",
+          "sourceContentHash": "sha256:e3fbaeedac9c6f10",
+          "sourceBodyHash": "sha256:1b0f00900854455d",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -116271,15 +116337,26 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-lu-wei-braised-snacks.md",
+          "translatedFrom": "Food/台灣滷味.md",
+          "sourceCommitSha": "bc7c72ef4",
+          "sourceContentHash": "sha256:90efb96feb86e99d",
+          "sourceBodyHash": "sha256:dff447eeed675def",
+          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -131252,8 +131329,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -139511,7 +139588,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-farmers-association-history.md",
@@ -139528,7 +139616,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-farmers-association-history.md",
@@ -161718,7 +161817,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/a-kuei-flash-animation.md",
+          "translatedFrom": "Culture/阿貴動畫.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:e24d7260c5b6a2bc",
+          "sourceBodyHash": "sha256:00444a759deb7a89",
+          "translatedAt": "2026-09-12T09:19:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/a-kuei-flash-animation.md",
@@ -170038,8 +170148,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa7d7b68",
+          "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
