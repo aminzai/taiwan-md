@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T01:49:32+08:00",
-    "zhCommitHead": "a615dd1d7",
+    "lastUpdated": "2026-09-13T01:59:35+08:00",
+    "zhCommitHead": "fdccac99b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 917,
+        "fresh": 922,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 109,
+        "missing": 104,
         "orphan": 0
       },
       "es": {
@@ -23817,7 +23817,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-13T01:36:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-bicycle-industry.md",
@@ -25671,7 +25682,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Technology/taiwan-display-industry.md",
+          "translatedFrom": "Technology/台灣顯示器產業.md",
+          "sourceCommitSha": "8544f5ff6",
+          "sourceContentHash": "sha256:6f543fc8322b4070",
+          "sourceBodyHash": "sha256:487e3d2f13378d12",
+          "translatedAt": "2026-09-13T01:36:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-display-industry.md",
@@ -45055,7 +45077,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/tzu-chi-foundation.md",
+          "translatedFrom": "Society/慈濟.md",
+          "sourceCommitSha": "6c39d5c4a",
+          "sourceContentHash": "sha256:c31283732f5c82a4",
+          "sourceBodyHash": "sha256:95652e4e6a2b2202",
+          "translatedAt": "2026-09-13T01:36:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/tzu-chi-foundation.md",
@@ -76219,8 +76252,8 @@
           "sourceContentHash": "sha256:20335af1b3ee078c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T16:34:17.314329+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fdccac99",
+          "translationLastModified": "2026-09-13T01:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -129703,15 +129736,26 @@
           "sourceContentHash": "sha256:9ecc268d4747db23",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T17:36:28.546602+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fdccac99",
+          "translationLastModified": "2026-09-13T01:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-13T01:36:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-railway-bento.md",
@@ -142437,8 +142481,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-12T19:57:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fdccac99",
+          "translationLastModified": "2026-09-13T01:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -160844,8 +160888,8 @@
           "sourceContentHash": "sha256:9e62fc9bd2bec4e1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T16:01:29.424956+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fdccac99",
+          "translationLastModified": "2026-09-13T01:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -164991,7 +165035,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-13T01:36:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/paiwan-glass-beads.md",
