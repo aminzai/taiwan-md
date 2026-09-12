@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T06:02:14+08:00",
-    "zhCommitHead": "417059833",
+    "lastUpdated": "2026-09-13T06:16:36+08:00",
+    "zhCommitHead": "17426e0b7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 203,
+        "missing": 202,
         "orphan": 0
       },
       "ko": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 780,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 282,
+        "missing": 280,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 944,
+        "fresh": 942,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 116,
+        "missing": 118,
         "orphan": 0
       },
       "ru": {
@@ -6644,18 +6644,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/Economy/taiwan-shipbuilding-industry.md",
@@ -19788,7 +19777,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-open-source-spirit.md",
+          "translatedFrom": "Technology/台灣開源精神.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8cc121a9cccbf90a",
+          "sourceBodyHash": "sha256:98feb4bab36f053f",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-open-source-spirit.md",
@@ -32846,7 +32846,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Art/weiwuying-arts-center.md",
+          "translatedFrom": "Art/衛武營.md",
+          "sourceCommitSha": "7fddc5077",
+          "sourceContentHash": "sha256:93a75957904c33cd",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T22:07:51.303434+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -32920,8 +32931,8 @@
           "sourceContentHash": "sha256:839c2636244d1802",
           "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
           "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -35452,7 +35463,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/wang-hsin-jen-artist.md",
+          "translatedFrom": "Art/王新仁.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:83396d8fdb485588",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T22:02:51.707276+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/wang-hsin-jen-artist.md",
@@ -60834,8 +60856,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -98007,8 +98029,8 @@
           "sourceContentHash": "sha256:c1b202e80c7e4a1d",
           "sourceBodyHash": "sha256:74473841bc53291c",
           "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -115164,8 +115186,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -116623,8 +116645,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -136165,8 +136187,8 @@
           "sourceContentHash": "sha256:2293cc44a0954537",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T21:12:31.414021+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -143939,18 +143961,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -146756,8 +146767,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-12T19:57:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17426e0b",
+          "translationLastModified": "2026-09-13T06:02:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
