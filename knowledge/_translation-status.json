@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T11:28:06+08:00",
-    "zhCommitHead": "abe2dca23",
+    "lastUpdated": "2026-09-12T12:18:18+08:00",
+    "zhCommitHead": "de91651a7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 785,
         "stale": 91,
         "metadata_stale": 28,
-        "missing": 219,
+        "missing": 217,
         "orphan": 0
       },
       "ko": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 732,
+        "fresh": 734,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 327,
+        "missing": 325,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 903,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 138,
+        "missing": 136,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 828,
+        "fresh": 830,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 238,
+        "missing": 236,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 887,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 172,
+        "missing": 173,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 935,
+        "fresh": 936,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 130,
+        "missing": 129,
         "orphan": 0
       },
       "de": {
@@ -6630,21 +6630,21 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
-        },
-        "ar": {
-          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
+          "path": "hi/Economy/taiwan-shipbuilding-industry.md",
           "translatedFrom": "Economy/台灣造船業.md",
           "sourceCommitSha": "60e991e02",
           "sourceContentHash": "sha256:72151c012acc7cd3",
           "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-12T02:30:20+08:00",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "ar": {
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -21166,13 +21166,35 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/lifting-of-press-ban.md",
+          "translatedFrom": "Technology/報禁解除.md",
+          "sourceCommitSha": "7f5972b70",
+          "sourceContentHash": "sha256:5a5479f4d6a79c93",
+          "sourceBodyHash": "sha256:09e6bc194dc58574",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/lifting-of-press-ban.md",
+          "translatedFrom": "Technology/報禁解除.md",
+          "sourceCommitSha": "7f5972b70",
+          "sourceContentHash": "sha256:d7854491fc4c5785",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T04:05:56.759031+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -26792,8 +26814,8 @@
           "sourceContentHash": "sha256:7704f0ba39f9bad2",
           "sourceBodyHash": "sha256:953746868edc36a0",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "9589c25e",
-          "translationLastModified": "2026-07-27T19:06:56+08:00",
+          "translationLastCommit": "de91651a",
+          "translationLastModified": "2026-09-12T11:28:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -40563,7 +40585,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/taiwan-post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:5ce8829ec7886eb3",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T03:36:43.177563+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -47402,7 +47435,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/awakening-foundation.md",
@@ -47425,8 +47469,8 @@
           "sourceContentHash": "sha256:32dfc005e4785017",
           "sourceBodyHash": "sha256:fc834459f5ff6d06",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de91651a",
+          "translationLastModified": "2026-09-12T11:28:16+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -68745,7 +68789,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Politics/taiwan-campaign-rallies.md",
+          "translatedFrom": "Politics/選舉造勢.md",
+          "sourceCommitSha": "6226eb6aa",
+          "sourceContentHash": "sha256:61e2c933e1672b41",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T03:58:55.000843+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -73820,8 +73875,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de91651a",
+          "translationLastModified": "2026-09-12T11:28:16+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -79622,7 +79677,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/shi-lang-admiral.md",
+          "translatedFrom": "People/施琅.md",
+          "sourceCommitSha": "6bca1263d",
+          "sourceContentHash": "sha256:8b5c9e238eb4ea4f",
+          "sourceBodyHash": "sha256:5116f6aabd263b48",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -120956,8 +121022,8 @@
           "sourceContentHash": "sha256:57f52a38fd360a40",
           "sourceBodyHash": "sha256:4f0ef8c28469111c",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de91651a",
+          "translationLastModified": "2026-09-12T11:28:16+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -139818,8 +139884,8 @@
           "sourceContentHash": "sha256:d2cff6b4790d0713",
           "sourceBodyHash": "sha256:889401675c45d56b",
           "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de91651a",
+          "translationLastModified": "2026-09-12T11:28:16+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -140372,7 +140438,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -140392,18 +140469,7 @@
           "reason": "same-commit"
         },
         "ar": {
-          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-12T02:30:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -153160,8 +153226,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de91651a",
+          "translationLastModified": "2026-09-12T11:28:16+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -159304,7 +159370,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -161633,7 +161710,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-postage-stamps.md",
+          "translatedFrom": "Culture/台灣郵票.md",
+          "sourceCommitSha": "513144edb",
+          "sourceContentHash": "sha256:09da7327b5a4487f",
+          "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
