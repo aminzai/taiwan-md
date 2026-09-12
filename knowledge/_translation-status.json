@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T17:23:57+08:00",
-    "zhCommitHead": "0c45188f7",
+    "lastUpdated": "2026-09-12T18:00:00+08:00",
+    "zhCommitHead": "1c178e1c7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 791,
         "stale": 91,
         "metadata_stale": 28,
-        "missing": 212,
+        "missing": 211,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 203,
+        "missing": 202,
         "orphan": 0
       },
       "es": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 925,
+        "fresh": 927,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 114,
+        "missing": 112,
         "orphan": 0
       },
       "hi": {
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 907,
+        "fresh": 908,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 153,
+        "missing": 152,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 958,
+        "fresh": 959,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 107,
+        "missing": 106,
         "orphan": 0
       },
       "de": {
@@ -8709,7 +8709,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-12T11:18:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/pinkoi.md",
@@ -18090,7 +18101,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Technology/taiwan-earthquake-early-warning.md",
+          "translatedFrom": "Technology/地震預警系統.md",
+          "sourceCommitSha": "53d3624d7",
+          "sourceContentHash": "sha256:7fe905eb6c043cad",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T09:48:30.517160+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -18946,8 +18968,8 @@
           "sourceContentHash": "sha256:7d150c85340f74af",
           "sourceBodyHash": "sha256:415bd00f696e8783",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1c178e1c",
+          "translationLastModified": "2026-09-12T17:23:58+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -36395,7 +36417,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-12T15:46:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-passport.md",
@@ -70027,7 +70060,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/happiness-party-taiwan.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Politics/happiness-party-taiwan.md",
@@ -108496,8 +108540,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1c178e1c",
+          "translationLastModified": "2026-09-12T17:23:58+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -117247,7 +117291,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-lu-wei-braised-snacks.md",
+          "translatedFrom": "Food/台灣滷味.md",
+          "sourceCommitSha": "bc7c72ef4",
+          "sourceContentHash": "sha256:90efb96feb86e99d",
+          "sourceBodyHash": "sha256:dff447eeed675def",
+          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -141519,7 +141574,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/chianan-irrigation-canal.md",
+          "translatedFrom": "History/嘉南大圳.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:e8b694e836a1a788",
+          "sourceBodyHash": "sha256:a57ef7adfb910d4f",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -162934,8 +163000,8 @@
           "sourceContentHash": "sha256:09bb72854ee365a4",
           "sourceBodyHash": "sha256:6759735a132d6ff9",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1c178e1c",
+          "translationLastModified": "2026-09-12T17:23:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -169316,8 +169382,8 @@
           "sourceContentHash": "sha256:1130fbcabd739dd6",
           "sourceBodyHash": "sha256:48f17c615e02c664",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1c178e1c",
+          "translationLastModified": "2026-09-12T17:23:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
