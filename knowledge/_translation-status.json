@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T06:16:36+08:00",
-    "zhCommitHead": "17426e0b7",
+    "lastUpdated": "2026-09-13T06:39:24+08:00",
+    "zhCommitHead": "8f463e021",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,34 +76,34 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 960,
+        "fresh": 961,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 79,
+        "missing": 78,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 878,
+        "fresh": 879,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 188,
+        "missing": 187,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 942,
+        "fresh": 943,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 118,
+        "missing": 117,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 981,
+        "fresh": 982,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "de": {
@@ -16754,7 +16754,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/yahoo-kimo-taiwan.md",
+          "translatedFrom": "Economy/Yahoo-kimo.md",
+          "sourceCommitSha": "77e6f2321",
+          "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
+          "sourceBodyHash": "sha256:854e7c117a8a7154",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -32852,8 +32863,8 @@
           "sourceContentHash": "sha256:93a75957904c33cd",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T22:07:51.303434+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8f463e02",
+          "translationLastModified": "2026-09-13T06:16:37+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -57778,7 +57789,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/gsat-taiwan.md",
+          "translatedFrom": "Society/學測.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:70f67e9c812463d2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T22:20:24.177152+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -119044,8 +119066,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-12T19:57:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8f463e02",
+          "translationLastModified": "2026-09-13T06:16:37+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -125463,7 +125485,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/da-chang-bao-xiao-chang.md",
+          "translatedFrom": "Food/大腸包小腸.md",
+          "sourceCommitSha": "f9736f867",
+          "sourceContentHash": "sha256:ffeaf97d752181df",
+          "sourceBodyHash": "sha256:b546f7c4ab790d17",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/da-chang-bao-xiao-chang.md",
@@ -171794,7 +171827,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/pixnet.md",
