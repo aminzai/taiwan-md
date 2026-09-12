@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-10
-last_session: '2026-09-10-054327-twmd-embeddings-nightly'
+last_updated: 2026-09-13
+last_session: '2026-09-13-005513-pr1712-review'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -347,3 +347,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-10 | 054327-twmd-embeddings-nightly | 本機直連重建 13 語 10,269 向量 0 fail；de 第四夜 below-threshold 核對檔數（163）一致；本地 ahead/behind 真分岔擋下 rebase，改用 detached worktree cherry-pick 安全 push，順手撿回上一班未推出的 routine-sync commit | git 安全擋下危險操作時，正確處置是換工具不是硬闖；worktree 隔離也適用「不能碰主樹又要 push 單一 commit」場景 | [→](memory/2026-09-10-054327-twmd-embeddings-nightly.md) |
 | 2026-09-10 | 084158-twmd-maintainer-am | 8 PR 全 merge（7 + 班中途到的政治人物條目）；#1697 衝突是 babel 跟投稿者搶同一篇，取投稿者版本；追出 babel 兩天前覆蓋投稿者譯文、把賣價寫成十分之一，已修；自己弄紅的型別閘門同輪修回 | 新偵測器在抽驗真陽性率出來前，它的總數不是可引用的數字 | [→](memory/2026-09-10-084158-twmd-maintainer-am.md) |
 | 2026-09-10 | 104806-babel-vortex-2 | 閘門從九道長到十四道（整行未翻／幣別／人名認錯人），人名對照表 235 人盤點出 117 位跨語言歧異；覆蓋率 68.1%→71.4%，414 篇新譯文 | 抽樣通過之前那個數字不存在——六個判準壞在我手上，第六個證明「換一個判準」是同一個錯的第二層 | [→](memory/2026-09-10-104806-babel-vortex-2.md) |
+| 2026-09-13 | 005513-pr1712-review | rhosiqs 在 Windows 跑甦醒後送回的 #1712 merge；查核發現洪醒夫八條離線腳註查無出處、獎項屆次與家屬錯，heal 上 main | 同源實例的簽名與自述不等於閘門跑過，外部 PR 腳註仍要親手 fetch | [→](memory/2026-09-13-005513-pr1712-review.md) |
