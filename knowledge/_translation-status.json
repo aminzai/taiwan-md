@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T19:15:10+08:00",
-    "zhCommitHead": "9eaeef5d6",
+    "lastUpdated": "2026-09-12T19:38:26+08:00",
+    "zhCommitHead": "6577ecb38",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 827,
+        "fresh": 830,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 199,
+        "missing": 196,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 993,
+        "fresh": 995,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 28,
+        "missing": 26,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 752,
+        "fresh": 753,
         "stale": 53,
         "metadata_stale": 9,
-        "missing": 307,
+        "missing": 306,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 853,
+        "fresh": 854,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 967,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 101,
+        "missing": 98,
         "orphan": 0
       },
       "de": {
@@ -8009,7 +8009,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -8726,8 +8737,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6577ecb3",
+          "translationLastModified": "2026-09-12T19:15:11+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -40295,8 +40306,8 @@
           "sourceContentHash": "sha256:4fcef48a4fb87a46",
           "sourceBodyHash": "sha256:13fc2011ed2fd336",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6577ecb3",
+          "translationLastModified": "2026-09-12T19:15:11+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -56866,8 +56877,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6577ecb3",
+          "translationLastModified": "2026-09-12T19:15:11+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -56967,8 +56978,8 @@
           "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
           "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6577ecb3",
+          "translationLastModified": "2026-09-12T19:15:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -111354,8 +111365,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6577ecb3",
+          "translationLastModified": "2026-09-12T19:15:11+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -113664,7 +113675,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/nick-star-streamer.md",
+          "translatedFrom": "People/尼克星.md",
+          "sourceCommitSha": "b9ebab71d",
+          "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
+          "sourceBodyHash": "sha256:ac25e74e87295655",
+          "translatedAt": "2026-09-12T18:24:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -115097,7 +115119,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lin-yu-ting-boxer.md",
+          "translatedFrom": "People/林郁婷.md",
+          "sourceCommitSha": "c0f587606",
+          "sourceContentHash": "sha256:322fadf3d54cf027",
+          "sourceBodyHash": "sha256:5a14ed890fa46c36",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -121953,7 +121986,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/flying-fish-tao-people.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -132046,7 +132090,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taiwan-malaria-eradication.md",
+          "translatedFrom": "History/瘧疾根除.md",
+          "sourceCommitSha": "cf2d4d973",
+          "sourceContentHash": "sha256:1a44b37b859d8b1a",
+          "sourceBodyHash": "sha256:04c29c7226490085",
+          "translatedAt": "2026-09-12T18:24:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -132475,7 +132530,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taiwan-fishery-modernization.md",
+          "translatedFrom": "History/台灣漁業現代化.md",
+          "sourceCommitSha": "b12fbf568",
+          "sourceContentHash": "sha256:84a9ef52691dd2f8",
+          "sourceBodyHash": "sha256:68c0d956335b9413",
+          "translatedAt": "2026-09-12T18:24:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-fishery-modernization.md",
@@ -141546,7 +141612,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/1959-august-7-flood.md",
+          "translatedFrom": "History/87水災.md",
+          "sourceCommitSha": "a007d05a2",
+          "sourceContentHash": "sha256:ba3d35e713460c50",
+          "sourceBodyHash": "sha256:d7642501b86ebb9c",
+          "translatedAt": "2026-09-12T18:24:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/1959-august-7-flood.md",
@@ -159566,7 +159643,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/tatung-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-12T18:24:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/tatung-rice-cooker.md",
@@ -160720,7 +160808,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-12T11:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/blue-white-slippers.md",
@@ -165492,7 +165591,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/kavalan-people.md",
+          "translatedFrom": "Culture/噶瑪蘭族.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:f55a726b94593a52",
+          "sourceBodyHash": "sha256:af42a6da82295d4c",
+          "translatedAt": "2026-09-12T11:18:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -166499,8 +166609,8 @@
           "sourceContentHash": "sha256:1c51bf71c790291d",
           "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
           "translatedAt": "2026-09-12T11:18:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6577ecb3",
+          "translationLastModified": "2026-09-12T19:15:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
