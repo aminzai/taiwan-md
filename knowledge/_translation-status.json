@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T04:10:52+08:00",
-    "zhCommitHead": "11f8b8de6",
+    "lastUpdated": "2026-09-14T05:00:56+08:00",
+    "zhCommitHead": "56fb57f5e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 814,
+        "fresh": 815,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 190,
+        "missing": 189,
         "orphan": 0
       },
       "ko": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 814,
+        "fresh": 816,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 246,
+        "missing": 244,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 987,
+        "fresh": 988,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 898,
+        "fresh": 900,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 168,
+        "missing": 166,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1000,
+        "fresh": 1002,
         "stale": 44,
         "metadata_stale": 9,
-        "missing": 68,
+        "missing": 66,
         "orphan": 0
       },
       "de": {
@@ -6309,7 +6309,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/buy123-life-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-13T15:49:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -23966,7 +23977,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/ai-hardware-supply-chain.md",
+          "translatedFrom": "Technology/AI硬體供應鏈.md",
+          "sourceCommitSha": "8f5e81ee5",
+          "sourceContentHash": "sha256:96b285db19941653",
+          "sourceBodyHash": "sha256:96ecb5a6142f55f7",
+          "translatedAt": "2026-09-13T15:49:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/ai-hardware-supply-chain.md",
@@ -61482,7 +61504,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-judicial-reform-and-preventive-detention.md",
+          "translatedFrom": "Society/台灣司法改革與預防性羈押制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3c773b70b1deb422",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T20:08:31.770142+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-judicial-reform-and-preventive-detention.md",
@@ -75871,7 +75904,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/idiot-princess-youtuber.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-13T15:49:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -84227,8 +84271,8 @@
           "sourceContentHash": "sha256:b1932f2a73ba90a1",
           "sourceBodyHash": "sha256:256049c552528280",
           "translatedAt": "2026-09-13T20:06:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56fb57f5",
+          "translationLastModified": "2026-09-14T04:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -96415,7 +96459,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/domidoro.md",
+          "translatedFrom": "People/多米多羅.md",
+          "sourceCommitSha": "4e7919913",
+          "sourceContentHash": "sha256:bfcd5767d7b581f0",
+          "sourceBodyHash": "sha256:7d79b5e0261f5aba",
+          "translatedAt": "2026-09-13T15:49:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/domidoro.md",
@@ -98478,8 +98533,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-13T20:06:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56fb57f5",
+          "translationLastModified": "2026-09-14T04:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -117775,7 +117830,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/lin-yu-ting-boxer.md",
+          "translatedFrom": "People/林郁婷.md",
+          "sourceCommitSha": "c0f587606",
+          "sourceContentHash": "sha256:322fadf3d54cf027",
+          "sourceBodyHash": "sha256:5a14ed890fa46c36",
+          "translatedAt": "2026-09-13T15:49:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/lin-yu-ting-boxer.md",
@@ -145315,8 +145381,8 @@
           "sourceContentHash": "sha256:3dc0c353cf547397",
           "sourceBodyHash": "sha256:01899a9de634067d",
           "translatedAt": "2026-09-13T20:06:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56fb57f5",
+          "translationLastModified": "2026-09-14T04:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -160135,8 +160201,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-13T20:06:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56fb57f5",
+          "translationLastModified": "2026-09-14T04:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -165005,7 +165071,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-new-idol-generation.md",
+          "translatedFrom": "Culture/台灣新偶像世代.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8258a0ced6980600",
+          "sourceBodyHash": "sha256:3dda77b7510dd761",
+          "translatedAt": "2026-09-13T15:49:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-new-idol-generation.md",
@@ -174300,7 +174377,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/truku-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-13T15:49:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/truku-people.md",
