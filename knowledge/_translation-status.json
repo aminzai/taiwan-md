@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T18:50:57+08:00",
-    "zhCommitHead": "0c948bd59",
+    "lastUpdated": "2026-09-13T21:19:12+08:00",
+    "zhCommitHead": "f40583b6e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 994,
+        "fresh": 996,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 29,
+        "missing": 27,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 813,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 193,
+        "missing": 191,
         "orphan": 0
       },
       "ko": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 996,
+        "fresh": 997,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 29,
+        "missing": 28,
         "orphan": 0
       },
       "fr": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 810,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 253,
+        "missing": 250,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 983,
+        "fresh": 982,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 56,
+        "missing": 57,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 894,
+        "fresh": 896,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 172,
+        "missing": 170,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 996,
-        "stale": 45,
-        "metadata_stale": 10,
-        "missing": 70,
+        "fresh": 999,
+        "stale": 44,
+        "metadata_stale": 9,
+        "missing": 69,
         "orphan": 0
       },
       "de": {
@@ -5556,7 +5556,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "47d78ce76",
+          "sourceContentHash": "sha256:5406c0a04ed7374f",
+          "sourceBodyHash": "sha256:0794328a7ed72af5",
+          "translatedAt": "2026-09-13T15:49:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/pop-music-and-golden-melody-awards.md",
@@ -8099,18 +8110,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-13T15:49:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -8308,18 +8308,16 @@
         "ru": {
           "path": "ru/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "50617dc14",
-          "sourceContentHash": "sha256:25424dad4bf389f3",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-07-29T00:43:10+08:00",
+          "translatedAt": "2026-09-13T15:49:29+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -20588,8 +20586,8 @@
           "sourceContentHash": "sha256:6c1de6e7d125ff24",
           "sourceBodyHash": "sha256:fa56609bf3ed1f63",
           "translatedAt": "2026-09-13T15:49:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f40583b6",
+          "translationLastModified": "2026-09-13T18:51:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -20813,18 +20811,16 @@
         "ru": {
           "path": "ru/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T13:32:59.901935+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-13T10:50:49.506478+00:00",
           "translationLastCommit": "360bb166",
           "translationLastModified": "2026-08-04T23:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -21997,7 +21993,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/backslash-in-cjk-fonts.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-13T15:49:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/backslash-in-cjk-fonts.md",
@@ -40064,7 +40071,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/beyblade-in-taiwan.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-13T18:19:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/beyblade-in-taiwan.md",
@@ -40146,8 +40164,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-13T15:49:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f40583b6",
+          "translationLastModified": "2026-09-13T18:51:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -92720,7 +92738,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/cheap-youtuber.md",
+          "translatedFrom": "People/Cheap.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:0feccf50e70e790f",
+          "sourceBodyHash": "sha256:bec1cc9ae32ba029",
+          "translatedAt": "2026-09-13T18:19:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -96731,7 +96760,18 @@
           "diffSummary": "+1 -1"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/howhow.md",
+          "translatedFrom": "People/Howhow.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:25c8ad9313478f48",
+          "sourceBodyHash": "sha256:d75a906a8210150b",
+          "translatedAt": "2026-09-13T15:49:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/howhow.md",
@@ -107337,7 +107377,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/vh-band.md",
+          "translatedFrom": "People/VH.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:12627c86b39f3cf2",
+          "sourceBodyHash": "sha256:cac852a1ab84bcac",
+          "translatedAt": "2026-09-13T15:49:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/vh-band.md",
@@ -109384,7 +109435,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/tieniu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:bba68bce0e0d399e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T11:31:37.501412+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -125215,7 +125277,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/taiwan-mullet-roe-bottarga.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-13T18:19:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-mullet-roe-bottarga.md",
@@ -126352,7 +126425,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/ma-wai-soup.md",
+          "translatedFrom": "Food/麻芛湯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:37e6bdeac5fb1d7c",
+          "sourceBodyHash": "sha256:3db5773500588245",
+          "translatedAt": "2026-09-13T15:49:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/ma-wai-soup.md",
@@ -126495,8 +126579,8 @@
           "sourceContentHash": "sha256:ffeaf97d752181df",
           "sourceBodyHash": "sha256:b546f7c4ab790d17",
           "translatedAt": "2026-09-13T15:49:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f40583b6",
+          "translationLastModified": "2026-09-13T18:51:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -160405,7 +160489,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-13T15:49:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -172040,7 +172135,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/taiwan-tv-glove-puppetry.md",
+          "translatedFrom": "Culture/電視布袋戲.md",
+          "sourceCommitSha": "55d991e82",
+          "sourceContentHash": "sha256:884f32ff15212c52",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T11:19:07.490573+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/taiwan-tv-glove-puppetry.md",
