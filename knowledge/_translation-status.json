@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T01:54:14+08:00",
-    "zhCommitHead": "1d117f76e",
+    "lastUpdated": "2026-09-14T02:45:19+08:00",
+    "zhCommitHead": "783af444d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 812,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 983,
+        "fresh": 984,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 56,
+        "missing": 55,
         "orphan": 0
       },
       "hi": {
@@ -1962,8 +1962,8 @@
           "sourceContentHash": "sha256:cd1df8dc4931d5ab",
           "sourceBodyHash": "sha256:c54c3768ed377e41",
           "translatedAt": "2026-09-13T15:49:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783af444",
+          "translationLastModified": "2026-09-14T01:54:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -6267,7 +6267,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/buy123-life-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-13T15:49:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/buy123-life-market.md",
@@ -8312,8 +8323,8 @@
           "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
           "translatedAt": "2026-09-13T15:49:29+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "783af444",
+          "translationLastModified": "2026-09-14T01:54:15+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -11395,8 +11406,8 @@
           "sourceContentHash": "sha256:4a1f10aaddce056e",
           "sourceBodyHash": "sha256:7f55fdd7f7687d07",
           "translatedAt": "2026-09-13T10:36:08.964216+00:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "783af444",
+          "translationLastModified": "2026-09-14T01:54:15+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -20826,8 +20837,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-09-13T10:50:49.506478+00:00",
-          "translationLastCommit": "360bb166",
-          "translationLastModified": "2026-08-04T23:18:22+08:00",
+          "translationLastCommit": "783af444",
+          "translationLastModified": "2026-09-14T01:54:15+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -91865,7 +91876,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/hou-hsiao-hsien.md",
+          "translatedFrom": "People/侯孝賢.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:64e8c8786128b4a0",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T18:35:08.712859+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/hou-hsiao-hsien.md",
@@ -160605,8 +160627,8 @@
           "sourceContentHash": "sha256:2cedbbfcbfc952b5",
           "sourceBodyHash": "sha256:d7c1a96e25224b11",
           "translatedAt": "2026-09-13T15:49:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783af444",
+          "translationLastModified": "2026-09-14T01:54:15+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
