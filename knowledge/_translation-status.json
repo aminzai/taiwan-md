@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T10:09:23+08:00",
-    "zhCommitHead": "caa0fd056",
+    "lastUpdated": "2026-09-13T10:12:51+08:00",
+    "zhCommitHead": "618730e91",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 240,
+        "missing": 239,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 534,
+        "fresh": 535,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 580,
+        "missing": 579,
         "orphan": 0
       }
     },
@@ -36085,7 +36085,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/roc-taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -39902,8 +39913,8 @@
           "sourceContentHash": "sha256:ba22e1d88e87855f",
           "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "618730e9",
+          "translationLastModified": "2026-09-13T10:09:23+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -87216,8 +87227,8 @@
           "sourceContentHash": "sha256:0feccf50e70e790f",
           "sourceBodyHash": "sha256:bec1cc9ae32ba029",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "618730e9",
+          "translationLastModified": "2026-09-13T10:09:23+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -124426,7 +124437,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/golden-croissant.md",
+          "translatedFrom": "Food/金牛角.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:e6c1c2c1757905c0",
+          "sourceBodyHash": "sha256:97ba5602057c57dc",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129353,8 +129375,8 @@
           "sourceContentHash": "sha256:de11aad3f14ac9df",
           "sourceBodyHash": "sha256:64f1c0f569ea5a00",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "618730e9",
+          "translationLastModified": "2026-09-13T10:09:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
