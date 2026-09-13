@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-14 twmd-babel-nightly — new-article-creation-has-no-slug-registration-step：新條目誕生流程沒有把「登記 slug」當成必經步驟，同一種卡住重複發生三次卻沒人升它
+
+- **pattern**: `new-article-creation-has-no-slug-registration-step`
+- **原則**：純中文檔名的新條目一旦誕生，只要還沒有任何一個語言的譯文，`_slug-map.json` 就沒有它的登記、`_translations.json` 反推也無來源，`prepare-batch.py` 的 ASCII fallback 對純中文檔名只能吐空字串（`TBD-NEEDS-SLUG`），dispatcher 守門直接跳過——而且是十二語言同時跳過，不是某一語的個案。這個缺口不在「怎麼修」（修法一直很快：跑 `slug-suggest.py` 生成 romanize slug，人工核對零碰撞後合併），而在「新條目誕生流程」本身沒有一步會主動觸發這個檢查——每次都要等 dispatcher 撞到、當班 session 現查才會被看見，是被動偵測不是主動預防。同一件事已經在兩份 MEMORY row 用幾乎相同的句子寫過（「新文章誕生那一刻沒有人把它接進翻譯佇列的入口」），卻沒有一次真正進到 LESSONS-INBOX 或升 REFLEXES，跟 REFLEXES #82「準確的交接會替代路由」是同一種结構：訊息被準確複述，但沒有人把它送進真正能收斂的決策/修復管道。
+- **觸發**：2026-09-13 00:31 twmd-babel-nightly 撞見 37+9 篇全新條目（鐵牛杰哥、蔣經國、林良系列、文湖線、林心如等）十二語同時卡住，手動羅馬化補了 46 筆進 slug-map；2026-09-14 00:38 twmd-babel-nightly 再次撞見同型病，這次規模是前次的三倍（150 篇，橫跨 13 個分類），修復方式完全相同（slug-suggest.py 生成 + 零碰撞驗證 + 合併），差別只是規模。
+- **instances**：
+  - 2026-09-13 004943-twmd-babel-nightly — 37+9 篇卡住，手動羅馬化補 46 筆（[memory](memory/2026-09-13-004943-twmd-babel-nightly.md)）
+  - 2026-09-14 005514-twmd-babel-nightly — 150 篇卡住，`slug-suggest.py` 批次生成補 150 筆（[memory](memory/2026-09-14-005514-twmd-babel-nightly.md)）
+- **可能層級**：操作規則（新條目誕生流程／`_slug-map.json` intake 機制的具體缺口，不是通用反射）
+- **相關**：REFLEXES #82 準確的交接會替代路由（同構：兩份 memory row 都準確寫下同一句教訓，卻沒有一次真正被送進決策/修復面，直到第三次撞見才進 inbox）
+- **verification_count**: 2
+- **severity**: tactical
+- **distill_ready**: true
+
 ### 2026-09-13 twmd-routine-audit-weekly — shared-gpu-load-stretches-sibling-routine-duration-past-timing-assumptions：process 活著不代表跑得跟平常一樣快，鄰居負載會悄悄改變速度基準
 
 - **pattern**: `shared-gpu-load-stretches-sibling-routine-duration-past-timing-assumptions`
