@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T10:28:08+08:00",
-    "zhCommitHead": "7aeee4058",
+    "lastUpdated": "2026-09-13T10:41:01+08:00",
+    "zhCommitHead": "b4af7e49b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 960,
+        "fresh": 961,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 66,
+        "missing": 65,
         "orphan": 0
       },
       "es": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 793,
+        "fresh": 792,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 267,
+        "missing": 268,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 969,
+        "fresh": 970,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 952,
+        "fresh": 953,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 108,
+        "missing": 107,
         "orphan": 0
       },
       "ru": {
@@ -18050,8 +18050,8 @@
           "sourceContentHash": "sha256:dcdc411ac65fa741",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T00:38:03.720600+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4af7e49",
+          "translationLastModified": "2026-09-13T10:28:11+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -21322,8 +21322,8 @@
           "sourceContentHash": "sha256:a7ab7951cc810aea",
           "sourceBodyHash": "sha256:584e7ee9d0c2d903",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4af7e49",
+          "translationLastModified": "2026-09-13T10:28:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -21768,8 +21768,8 @@
           "sourceContentHash": "sha256:57b41e308a296fb4",
           "sourceBodyHash": "sha256:9af4500f829effce",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4af7e49",
+          "translationLastModified": "2026-09-13T10:28:11+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -23987,8 +23987,8 @@
           "sourceContentHash": "sha256:85f80872ad09b54c",
           "sourceBodyHash": "sha256:3683724639161321",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4af7e49",
+          "translationLastModified": "2026-09-13T10:28:11+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -36614,8 +36614,8 @@
           "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
           "sourceBodyHash": "sha256:215016d553b05404",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4af7e49",
+          "translationLastModified": "2026-09-13T10:28:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -95824,7 +95824,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/shen-pao-chen.md",
+          "translatedFrom": "People/沈葆楨.md",
+          "sourceCommitSha": "c715b43d5",
+          "sourceContentHash": "sha256:0db6c2a854c9d1f9",
+          "sourceBodyHash": "sha256:619269e5a282feaa",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/shen-pao-chen.md",
@@ -144370,18 +144381,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -149329,7 +149329,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-13T08:08:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/alishan-forest-railway.md",
@@ -159751,7 +159762,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/capoo-cat-character.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -163464,8 +163486,8 @@
           "sourceContentHash": "sha256:9d5872fcc273adaa",
           "sourceBodyHash": "sha256:bdae339216a98cc2",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4af7e49",
+          "translationLastModified": "2026-09-13T10:28:11+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
