@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T04:55:13+08:00",
-    "zhCommitHead": "3d015d007",
+    "lastUpdated": "2026-09-14T04:56:39+08:00",
+    "zhCommitHead": "c9f35cfb7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 869,
+        "fresh": 870,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 160,
+        "missing": 159,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 855,
+        "fresh": 856,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 166,
+        "missing": 165,
         "orphan": 0
       },
       "vi": {
@@ -9622,8 +9622,8 @@
           "sourceContentHash": "sha256:b1ed4dc9af013a20",
           "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -9650,7 +9650,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/taiwan-offshore-wind.md",
+          "translatedFrom": "Economy/台灣離岸風電.md",
+          "sourceCommitSha": "566429f3b",
+          "sourceContentHash": "sha256:b1ed4dc9af013a20",
+          "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -44057,8 +44068,8 @@
           "sourceContentHash": "sha256:c31283732f5c82a4",
           "sourceBodyHash": "sha256:95652e4e6a2b2202",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -51339,8 +51350,8 @@
           "sourceContentHash": "sha256:2864f529a23701fe",
           "sourceBodyHash": "sha256:c8066f344d7a7cc6",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -65914,8 +65925,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -134868,8 +134879,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -135597,7 +135608,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -137615,8 +137637,8 @@
           "sourceContentHash": "sha256:6c11a4c56a329d52",
           "sourceBodyHash": "sha256:eca7e0ea95cf835a",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -156297,8 +156319,8 @@
           "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
           "sourceBodyHash": "sha256:9cb502435a73e76b",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -165431,8 +165453,8 @@
           "sourceContentHash": "sha256:ce021fd2a077ae57",
           "sourceBodyHash": "sha256:ca35c2a9b4b8b4ff",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9f35cfb",
+          "translationLastModified": "2026-09-14T04:55:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
