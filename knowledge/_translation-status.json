@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T18:12:32+08:00",
-    "zhCommitHead": "d2f47ae1d",
+    "lastUpdated": "2026-09-13T18:18:14+08:00",
+    "zhCommitHead": "abfd59a3a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 972,
+        "fresh": 973,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 54,
+        "missing": 53,
         "orphan": 0
       },
       "es": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 963,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 96,
+        "missing": 97,
         "orphan": 0
       },
       "ru": {
@@ -5565,8 +5565,8 @@
           "sourceContentHash": "sha256:5406c0a04ed7374f",
           "sourceBodyHash": "sha256:0794328a7ed72af5",
           "translatedAt": "2026-09-13T15:49:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "abfd59a3",
+          "translationLastModified": "2026-09-13T18:12:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -6732,18 +6732,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-13T15:49:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -21926,7 +21915,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Technology/backslash-in-cjk-fonts.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-13T17:09:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/backslash-in-cjk-fonts.md",
@@ -57066,8 +57066,8 @@
           "sourceContentHash": "sha256:1277fc2755a587fc",
           "sourceBodyHash": "sha256:64665163579f4d98",
           "translatedAt": "2026-09-13T15:49:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "abfd59a3",
+          "translationLastModified": "2026-09-13T18:12:41+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
