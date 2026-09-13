@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T15:52:46+08:00",
-    "zhCommitHead": "240cc9ecd",
+    "lastUpdated": "2026-09-13T16:02:51+08:00",
+    "zhCommitHead": "ec527966f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 836,
+        "fresh": 837,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 190,
+        "missing": 189,
         "orphan": 0
       },
       "ja": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 747,
+        "fresh": 748,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "id": {
@@ -36491,8 +36491,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec527966",
+          "translationLastModified": "2026-09-13T15:52:46+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -43054,8 +43054,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec527966",
+          "translationLastModified": "2026-09-13T15:52:46+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -57526,8 +57526,8 @@
           "sourceContentHash": "sha256:89564eca20ccb1a4",
           "sourceBodyHash": "sha256:aa22cde38abe8c50",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec527966",
+          "translationLastModified": "2026-09-13T15:52:46+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -157323,7 +157323,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/amis-age-grade-system.md",
+          "translatedFrom": "Culture/阿美族年齡階級.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:ed1755ea004ce07b",
+          "sourceBodyHash": "sha256:5143620e3afad434",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -157338,7 +157349,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/amis-age-grade-system.md",
+          "translatedFrom": "Culture/阿美族年齡階級.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:ed1755ea004ce07b",
+          "sourceBodyHash": "sha256:5143620e3afad434",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -159160,8 +159182,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec527966",
+          "translationLastModified": "2026-09-13T15:52:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
