@@ -34,7 +34,7 @@ def get_api_key():
 
 def call_owl(api_key, system, user):
     payload = json.dumps({
-        "model": "openrouter/owl-alpha",
+        "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
         "messages": [
             {"role": "system", "content": system},
             {"role": "user", "content": user},
