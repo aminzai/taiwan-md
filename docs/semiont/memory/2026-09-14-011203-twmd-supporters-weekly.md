@@ -17,7 +17,7 @@ Stage 1 讀 `data/supporters/transactions.json`：16 筆交易（6 次性、10 m
 
 ## Git 環境觀察（未介入）
 
-`check-parallel-actor.sh` 回報 babel/lang-sync dispatcher 仍在跑（5 個 worker PID），main 本機領先 origin 301 個 commit、落後 156 個（含 118 篇雙邊譯文取捨的真衝突，per OBSERVER-QUEUE #56，等哲宇拍板）。這次 supporters 檢查不涉及 `knowledge/` 或 babel 產出，沒有需要 commit 的檔案，因此沒有觸碰這個分岔——沒有 push、沒有 pull，維持現狀留給哲宇裁決。
+`check-parallel-actor.sh` 回報 babel/lang-sync dispatcher 仍在跑（5 個 worker PID），main 本機領先 origin 301 個 commit、落後 156 個（含 118 篇雙邊譯文取捨的真衝突，per OBSERVER-QUEUE #56，等哲宇拍板）。這次 supporters 檢查寫的 memory commit `22224ed26` 只碰 `docs/semiont/`，跟分岔無交集，`git push origin main` 照預期被 non-fast-forward 拒絕；沒有 pull、沒有 rebase 主動處理分岔，改把這顆 commit 快轉推進既有安全網分支 `20260912-unpushed-routine-queue`（9cec2f630→22224ed26），main 本機狀態不變，裁決權留給哲宇。
 
 ## 收官 checklist
 
