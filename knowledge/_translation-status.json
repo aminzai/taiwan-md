@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T15:49:01+08:00",
-    "zhCommitHead": "8d42b0888",
+    "lastUpdated": "2026-09-13T16:22:26+08:00",
+    "zhCommitHead": "f16a9dfd8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 197,
+        "missing": 196,
         "orphan": 0
       },
       "ko": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 892,
+        "fresh": 893,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 174,
+        "missing": 173,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 961,
+        "fresh": 962,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 99,
+        "missing": 98,
         "orphan": 0
       },
       "ru": {
@@ -5559,7 +5559,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "47d78ce76",
+          "sourceContentHash": "sha256:5406c0a04ed7374f",
+          "sourceBodyHash": "sha256:0794328a7ed72af5",
+          "translatedAt": "2026-09-13T15:49:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/pop-music-and-golden-melody-awards.md",
@@ -19466,8 +19477,8 @@
           "sourceContentHash": "sha256:b71f8a565a04196b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T05:56:35.373924+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f16a9dfd",
+          "translationLastModified": "2026-09-13T15:49:01+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -85835,7 +85846,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/huang-shan-liao.md",
+          "translatedFrom": "People/黃山料.md",
+          "sourceCommitSha": "00939ce59",
+          "sourceContentHash": "sha256:5957f112788fc58e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T07:50:52.701828+00:00",
+          "translationLastCommit": "10a0b3ae",
+          "translationLastModified": "2026-07-25T10:06:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/huang-shan-liao.md",
@@ -172865,7 +172887,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-13T15:49:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/pixnet.md",
@@ -176259,8 +176292,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f16a9dfd",
+          "translationLastModified": "2026-09-13T15:49:01+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
