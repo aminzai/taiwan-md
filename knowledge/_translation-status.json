@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T21:19:12+08:00",
-    "zhCommitHead": "f40583b6e",
+    "lastUpdated": "2026-09-13T21:29:45+08:00",
+    "zhCommitHead": "04711bbc6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 191,
+        "missing": 190,
         "orphan": 0
       },
       "ko": {
@@ -87903,8 +87903,8 @@
           "sourceContentHash": "sha256:6e3924ea5d9a1832",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T10:37:16.129087+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "04711bbc",
+          "translationLastModified": "2026-09-13T21:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -96766,8 +96766,8 @@
           "sourceContentHash": "sha256:25c8ad9313478f48",
           "sourceBodyHash": "sha256:d75a906a8210150b",
           "translatedAt": "2026-09-13T15:49:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "04711bbc",
+          "translationLastModified": "2026-09-13T21:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -107383,8 +107383,8 @@
           "sourceContentHash": "sha256:12627c86b39f3cf2",
           "sourceBodyHash": "sha256:cac852a1ab84bcac",
           "translatedAt": "2026-09-13T15:49:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "04711bbc",
+          "translationLastModified": "2026-09-13T21:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -124777,7 +124777,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/shulin-red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:1a952f594b1e4c60",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T13:11:23.868875+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/shulin-red-yeast-rice.md",
@@ -126431,8 +126442,8 @@
           "sourceContentHash": "sha256:37e6bdeac5fb1d7c",
           "sourceBodyHash": "sha256:3db5773500588245",
           "translatedAt": "2026-09-13T15:49:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "04711bbc",
+          "translationLastModified": "2026-09-13T21:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -169900,8 +169911,8 @@
           "sourceContentHash": "sha256:2b37211d946c848c",
           "sourceBodyHash": "sha256:0b62bbb2f4c7cd6b",
           "translatedAt": "2026-09-13T15:49:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "04711bbc",
+          "translationLastModified": "2026-09-13T21:19:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
