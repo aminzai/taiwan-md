@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T18:13:48+08:00",
-    "zhCommitHead": "b4db74c6c",
+    "lastUpdated": "2026-09-13T18:55:24+08:00",
+    "zhCommitHead": "914fba8cb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 843,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 186,
+        "missing": 183,
         "orphan": 0
       },
       "ja": {
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 847,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 185,
+        "missing": 182,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 828,
+        "fresh": 829,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 196,
+        "missing": 195,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 833,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 190,
+        "missing": 188,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 751,
+        "fresh": 754,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 213,
+        "missing": 210,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 643,
+        "fresh": 645,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 421,
+        "missing": 419,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 821,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 223,
+        "missing": 221,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 686,
+        "fresh": 688,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 388,
+        "missing": 386,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 752,
+        "fresh": 754,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 312,
+        "missing": 310,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 790,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 283,
+        "missing": 280,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 546,
+        "fresh": 548,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 568,
+        "missing": 566,
         "orphan": 0
       }
     },
@@ -68924,7 +68924,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -70719,37 +70730,147 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:51:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:51:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:51:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:51:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:52:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:52:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:52:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-13T17:52:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -78266,7 +78387,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chung-chao-cheng.md",
+          "translatedFrom": "People/鍾肇政.md",
+          "sourceCommitSha": "82038b29f",
+          "sourceContentHash": "sha256:e30095af8a74328f",
+          "sourceBodyHash": "sha256:9240eda59faf09e3",
+          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -133816,8 +133948,8 @@
           "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
           "translatedAt": "2026-09-13T17:52:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "914fba8c",
+          "translationLastModified": "2026-09-13T18:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -135296,8 +135428,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "914fba8c",
+          "translationLastModified": "2026-09-13T18:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -148561,22 +148693,66 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-13T17:51:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-13T17:51:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -148591,7 +148767,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-13T17:52:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -152132,7 +152319,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwanese-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -157719,8 +157917,8 @@
           "sourceContentHash": "sha256:ed1755ea004ce07b",
           "sourceBodyHash": "sha256:5143620e3afad434",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "914fba8c",
+          "translationLastModified": "2026-09-13T18:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -163751,7 +163949,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:51:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -163771,22 +163980,88 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:51:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:52:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:52:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:52:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/pinball-taiwan.md",
+          "translatedFrom": "Culture/彈珠檯.md",
+          "sourceCommitSha": "9830f442a",
+          "sourceContentHash": "sha256:4aad559049b3c7a7",
+          "sourceBodyHash": "sha256:293b5ab02d696e13",
+          "translatedAt": "2026-09-13T17:52:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
