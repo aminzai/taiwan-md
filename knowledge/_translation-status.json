@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T09:30:15+08:00",
-    "zhCommitHead": "c3f31f227",
+    "lastUpdated": "2026-09-13T09:51:39+08:00",
+    "zhCommitHead": "6449ef4f7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 884,
+        "fresh": 886,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 182,
+        "missing": 180,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 949,
+        "fresh": 950,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 111,
+        "missing": 110,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 984,
+        "fresh": 986,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 81,
+        "missing": 79,
         "orphan": 0
       },
       "de": {
@@ -8504,7 +8504,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-paper-industry.md",
+          "translatedFrom": "Economy/造紙.md",
+          "sourceCommitSha": "73c4abdde",
+          "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
+          "sourceBodyHash": "sha256:118ca7651c90b0fe",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-paper-industry.md",
@@ -9845,8 +9856,8 @@
           "sourceContentHash": "sha256:b1ed4dc9af013a20",
           "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6449ef4f",
+          "translationLastModified": "2026-09-13T09:30:15+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -47632,7 +47643,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/remote-area-schools-education-act.md",
+          "translatedFrom": "Society/偏遠地區學校教育發展條例全解.md",
+          "sourceCommitSha": "d7a109601",
+          "sourceContentHash": "sha256:3a5b64aac1eb2c2e",
+          "sourceBodyHash": "sha256:1640a85ec53af696",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -53342,7 +53364,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-animal-drug-controversy.md",
+          "translatedFrom": "Society/台灣動物用藥爭議.md",
+          "sourceCommitSha": "9a60e8fdf",
+          "sourceContentHash": "sha256:400d675ceaf05f40",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T01:10:03.149796+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -115455,8 +115488,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6449ef4f",
+          "translationLastModified": "2026-09-13T09:30:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -124048,8 +124081,8 @@
           "sourceContentHash": "sha256:887c3be39222e6b9",
           "sourceBodyHash": "sha256:140c52cfad734a21",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6449ef4f",
+          "translationLastModified": "2026-09-13T09:30:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -135896,8 +135929,8 @@
           "sourceContentHash": "sha256:51ee9e5cce591488",
           "sourceBodyHash": "sha256:eba4f32a0cfd42a7",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6449ef4f",
+          "translationLastModified": "2026-09-13T09:30:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -155213,7 +155246,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:930e1cf08d9847c7",
+          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taichung-metro.md",
@@ -163256,7 +163300,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/port-of-kaohsiung.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/port-of-kaohsiung.md",
@@ -171186,8 +171241,8 @@
           "sourceContentHash": "sha256:ad2ea2b7426872e8",
           "sourceBodyHash": "sha256:efe2be1b9ec46e77",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6449ef4f",
+          "translationLastModified": "2026-09-13T09:30:15+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
