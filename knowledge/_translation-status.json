@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T12:13:32+08:00",
-    "zhCommitHead": "c951f003b",
+    "lastUpdated": "2026-09-13T12:15:20+08:00",
+    "zhCommitHead": "4f8ab1c0b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 740,
+        "fresh": 741,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 324,
+        "missing": 323,
         "orphan": 0
       },
       "ru": {
@@ -21258,8 +21258,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f8ab1c0",
+          "translationLastModified": "2026-09-13T12:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -73508,8 +73508,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f8ab1c0",
+          "translationLastModified": "2026-09-13T12:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -73564,7 +73564,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/canglan-ge.md",
+          "translatedFrom": "People/蒼藍鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:1a1a9598d9221fe9",
+          "sourceBodyHash": "sha256:74a863b5d0baa755",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/canglan-ge.md",
@@ -144242,8 +144253,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f8ab1c0",
+          "translationLastModified": "2026-09-13T12:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -155750,8 +155761,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f8ab1c0",
+          "translationLastModified": "2026-09-13T12:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
