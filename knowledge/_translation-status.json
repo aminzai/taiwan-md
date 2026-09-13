@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T17:06:01+08:00",
-    "zhCommitHead": "d0d949756",
+    "lastUpdated": "2026-09-13T17:34:13+08:00",
+    "zhCommitHead": "8f0614e33",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 842,
+        "fresh": 843,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 187,
+        "missing": 186,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 641,
+        "fresh": 642,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 423,
+        "missing": 422,
         "orphan": 0
       },
       "pt": {
@@ -43085,8 +43085,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8f0614e3",
+          "translationLastModified": "2026-09-13T17:06:01+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -135189,8 +135189,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8f0614e3",
+          "translationLastModified": "2026-09-13T17:06:01+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -151918,7 +151918,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/taiwanese-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -151952,7 +151963,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwanese-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-rice-cooker.md",
@@ -151981,8 +152003,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8f0614e3",
+          "translationLastModified": "2026-09-13T17:06:01+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
