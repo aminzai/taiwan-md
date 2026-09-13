@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T08:13:41+08:00",
-    "zhCommitHead": "0934216d1",
+    "lastUpdated": "2026-09-13T08:25:04+08:00",
+    "zhCommitHead": "5e8ae13b4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 200,
+        "missing": 199,
         "orphan": 0
       },
       "ko": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 965,
+        "fresh": 966,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 74,
+        "missing": 73,
         "orphan": 0
       },
       "hi": {
@@ -21777,8 +21777,8 @@
           "sourceContentHash": "sha256:57b41e308a296fb4",
           "sourceBodyHash": "sha256:9af4500f829effce",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e8ae13b",
+          "translationLastModified": "2026-09-13T08:13:41+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -38836,7 +38836,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/taipei-bridge-scooter-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:fd08ecfb9bac153f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T00:19:17.289632+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -125722,8 +125733,8 @@
           "sourceContentHash": "sha256:ffeaf97d752181df",
           "sourceBodyHash": "sha256:b546f7c4ab790d17",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e8ae13b",
+          "translationLastModified": "2026-09-13T08:13:41+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -129573,8 +129584,8 @@
           "sourceContentHash": "sha256:3584d0ee1c271870",
           "sourceBodyHash": "sha256:fc73e90b8bb78029",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e8ae13b",
+          "translationLastModified": "2026-09-13T08:13:41+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -142906,8 +142917,8 @@
           "sourceContentHash": "sha256:65e86deccc5676be",
           "sourceBodyHash": "sha256:c479bb28dd01bd12",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e8ae13b",
+          "translationLastModified": "2026-09-13T08:13:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -171103,7 +171114,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-tv-glove-puppetry.md",
+          "translatedFrom": "Culture/電視布袋戲.md",
+          "sourceCommitSha": "55d991e82",
+          "sourceContentHash": "sha256:ad2ea2b7426872e8",
+          "sourceBodyHash": "sha256:efe2be1b9ec46e77",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-tv-glove-puppetry.md",
@@ -172191,8 +172213,8 @@
           "sourceContentHash": "sha256:5d755db85cc865b7",
           "sourceBodyHash": "sha256:260176da7ff3515f",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e8ae13b",
+          "translationLastModified": "2026-09-13T08:13:41+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
