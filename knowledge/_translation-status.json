@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T14:35:15+08:00",
-    "zhCommitHead": "145392530",
+    "lastUpdated": "2026-09-13T15:20:58+08:00",
+    "zhCommitHead": "4e0d81843",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 965,
+        "fresh": 966,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "es": {
@@ -68,34 +68,34 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 803,
+        "fresh": 804,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 976,
+        "fresh": 979,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 63,
+        "missing": 60,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 891,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 178,
+        "missing": 175,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 962,
+        "fresh": 961,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 98,
+        "missing": 99,
         "orphan": 0
       },
       "ru": {
@@ -6246,8 +6246,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e0d8184",
+          "translationLastModified": "2026-09-13T14:35:18+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -6690,10 +6690,32 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -8083,18 +8105,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -16961,8 +16972,8 @@
           "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
           "sourceBodyHash": "sha256:854e7c117a8a7154",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e0d8184",
+          "translationLastModified": "2026-09-13T14:35:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -55438,7 +55449,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/energy-poverty-and-cooling.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/energy-poverty-and-cooling.md",
@@ -70198,7 +70220,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/absentee-voting-taiwan.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -75552,7 +75585,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/idiot-princess-youtuber.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -83959,7 +84003,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/li-ke-tai-tai.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/li-ke-tai-tai.md",
@@ -124311,7 +124366,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/flying-fish-tao-people.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-13T14:25:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/flying-fish-tao-people.md",
@@ -124359,7 +124425,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/flying-fish-tao-people.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/flying-fish-tao-people.md",
@@ -169363,8 +169440,8 @@
           "sourceContentHash": "sha256:e1fa112b66596f53",
           "sourceBodyHash": "sha256:fb4423c4414816f5",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e0d8184",
+          "translationLastModified": "2026-09-13T14:35:18+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
