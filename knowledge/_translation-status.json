@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T15:14:59+08:00",
-    "zhCommitHead": "58f8f4652",
+    "lastUpdated": "2026-09-13T15:52:46+08:00",
+    "zhCommitHead": "240cc9ecd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 835,
+        "fresh": 836,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 191,
+        "missing": 190,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 841,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 189,
+        "missing": 188,
         "orphan": 0
       },
       "es": {
@@ -52,34 +52,34 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 828,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 195,
+        "missing": 193,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 746,
+        "fresh": 747,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 218,
+        "missing": 217,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 638,
+        "fresh": 639,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 426,
+        "missing": 425,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 813,
+        "fresh": 815,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 229,
+        "missing": 227,
         "orphan": 0
       },
       "hi": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 747,
+        "fresh": 748,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 317,
+        "missing": 316,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 287,
+        "missing": 286,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 539,
+        "fresh": 540,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 575,
+        "missing": 574,
         "orphan": 0
       }
     },
@@ -36240,7 +36240,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/roc-taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36460,7 +36471,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/utility-poles-and-transformer-boxes.md",
+          "translatedFrom": "Lifestyle/電線桿與變電箱.md",
+          "sourceCommitSha": "dd1ef85cd",
+          "sourceContentHash": "sha256:3512b2f6ca0a3376",
+          "sourceBodyHash": "sha256:b926dcc386105146",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/utility-poles-and-transformer-boxes.md",
@@ -36511,8 +36533,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "58f8f465",
+          "translationLastModified": "2026-09-13T15:14:51+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -42978,16 +43000,24 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/pigeon-racing-taiwan.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
-        },
-        "vi": {
-          "path": "vi/Society/pigeon-racing-taiwan.md",
+          "path": "fr/Society/pigeon-racing-taiwan.md",
           "translatedFrom": "Society/賽鴿.md",
           "sourceCommitSha": "a7bf511aa",
           "sourceContentHash": "sha256:f56149ea65f8ae88",
@@ -43000,11 +43030,36 @@
           "status": "fresh",
           "reason": "same-commit"
         },
+        "vi": {
+          "path": "vi/Society/pigeon-racing-taiwan.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "240cc9ec",
+          "translationLastModified": "2026-09-13T15:15:00+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/pigeon-racing-taiwan.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -43013,7 +43068,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/pigeon-racing-taiwan.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -57443,8 +57509,8 @@
           "sourceContentHash": "sha256:89564eca20ccb1a4",
           "sourceBodyHash": "sha256:aa22cde38abe8c50",
           "translatedAt": "2026-09-13T00:44:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240cc9ec",
+          "translationLastModified": "2026-09-13T15:15:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -57454,13 +57520,35 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:89564eca20ccb1a4",
+          "sourceBodyHash": "sha256:aa22cde38abe8c50",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:89564eca20ccb1a4",
+          "sourceBodyHash": "sha256:aa22cde38abe8c50",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/koreans-in-taiwan.md",
@@ -57469,8 +57557,8 @@
           "sourceContentHash": "sha256:89564eca20ccb1a4",
           "sourceBodyHash": "sha256:aa22cde38abe8c50",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "58f8f465",
+          "translationLastModified": "2026-09-13T15:14:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -67177,7 +67265,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/taiwan-absentee-voting.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -67189,10 +67288,32 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Politics/taiwan-absentee-voting.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Politics/taiwan-absentee-voting.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -82332,8 +82453,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "58f8f465",
+          "translationLastModified": "2026-09-13T15:14:51+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -127183,8 +127304,8 @@
           "sourceContentHash": "sha256:84a9ef52691dd2f8",
           "sourceBodyHash": "sha256:68c0d956335b9413",
           "translatedAt": "2026-09-13T00:44:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240cc9ec",
+          "translationLastModified": "2026-09-13T15:15:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -127242,8 +127363,8 @@
           "sourceContentHash": "sha256:84a9ef52691dd2f8",
           "sourceBodyHash": "sha256:68c0d956335b9413",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "58f8f465",
+          "translationLastModified": "2026-09-13T15:14:51+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -159070,8 +159191,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "58f8f465",
+          "translationLastModified": "2026-09-13T15:14:51+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
