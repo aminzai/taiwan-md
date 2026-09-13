@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T03:55:36+08:00",
-    "zhCommitHead": "03fba86f1",
+    "lastUpdated": "2026-09-14T04:02:21+08:00",
+    "zhCommitHead": "30895c1de",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 986,
+        "fresh": 987,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 53,
+        "missing": 52,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 965,
+        "fresh": 966,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 95,
+        "missing": 94,
         "orphan": 0
       },
       "ru": {
@@ -6748,7 +6748,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-13T15:49:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -22138,8 +22149,8 @@
           "sourceContentHash": "sha256:d9687f2e9f925231",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T17:26:32.965606+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30895c1d",
+          "translationLastModified": "2026-09-14T03:55:36+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -75846,7 +75857,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/idiot-princess-youtuber.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-13T15:49:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -77370,8 +77392,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-13T15:49:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30895c1d",
+          "translationLastModified": "2026-09-14T03:55:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -91904,8 +91926,8 @@
           "sourceContentHash": "sha256:64e8c8786128b4a0",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T18:35:08.712859+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30895c1d",
+          "translationLastModified": "2026-09-14T03:55:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -170210,8 +170232,8 @@
           "sourceContentHash": "sha256:ed1755ea004ce07b",
           "sourceBodyHash": "sha256:5143620e3afad434",
           "translatedAt": "2026-09-13T15:49:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30895c1d",
+          "translationLastModified": "2026-09-14T03:55:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
