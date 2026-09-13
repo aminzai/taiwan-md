@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T14:48:35+08:00",
-    "zhCommitHead": "40320381c",
+    "lastUpdated": "2026-09-13T14:57:08+08:00",
+    "zhCommitHead": "dfe697eae",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 193,
+        "missing": 192,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 744,
+        "fresh": 745,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 220,
+        "missing": 219,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 637,
+        "fresh": 638,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 427,
+        "missing": 426,
         "orphan": 0
       },
       "pt": {
@@ -21353,8 +21353,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfe697ea",
+          "translationLastModified": "2026-09-13T14:48:35+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -57334,7 +57334,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:89564eca20ccb1a4",
+          "sourceBodyHash": "sha256:aa22cde38abe8c50",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -57343,13 +57354,35 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:89564eca20ccb1a4",
+          "sourceBodyHash": "sha256:aa22cde38abe8c50",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/koreans-in-taiwan.md",
+          "translatedFrom": "Society/韓國人在台灣.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:89564eca20ccb1a4",
+          "sourceBodyHash": "sha256:aa22cde38abe8c50",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -58593,8 +58626,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfe697ea",
+          "translationLastModified": "2026-09-13T14:48:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -82160,7 +82193,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/lin-chia-chen.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -82186,8 +82230,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfe697ea",
+          "translationLastModified": "2026-09-13T14:48:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -126604,8 +126648,8 @@
           "sourceContentHash": "sha256:6676da6439aa0dbf",
           "sourceBodyHash": "sha256:7541a1d205619b0c",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfe697ea",
+          "translationLastModified": "2026-09-13T14:48:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -127096,8 +127140,8 @@
           "sourceContentHash": "sha256:84a9ef52691dd2f8",
           "sourceBodyHash": "sha256:68c0d956335b9413",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfe697ea",
+          "translationLastModified": "2026-09-13T14:48:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
