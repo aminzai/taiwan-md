@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T21:01:52+08:00",
-    "zhCommitHead": "19ec70b8b",
+    "lastUpdated": "2026-09-13T21:36:13+08:00",
+    "zhCommitHead": "5c8a5f42a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 846,
+        "fresh": 847,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 180,
+        "missing": 179,
         "orphan": 0
       },
       "ja": {
@@ -36,26 +36,26 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 850,
+        "fresh": 852,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 179,
+        "missing": 177,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 193,
+        "missing": 192,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 837,
+        "fresh": 838,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "vi": {
@@ -76,26 +76,26 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 690,
+        "fresh": 691,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 384,
+        "missing": 383,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 756,
+        "fresh": 757,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 308,
+        "missing": 307,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 551,
+        "fresh": 552,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 563,
+        "missing": 562,
         "orphan": 0
       }
     },
@@ -68978,8 +68978,8 @@
           "sourceContentHash": "sha256:201301d5ef8902fa",
           "sourceBodyHash": "sha256:64a6bc7308f455d1",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -70872,8 +70872,8 @@
           "sourceContentHash": "sha256:71bd23c9a7becdb3",
           "sourceBodyHash": "sha256:ac800d2068dd019e",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -78437,7 +78437,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chung-chao-cheng.md",
+          "translatedFrom": "People/鍾肇政.md",
+          "sourceCommitSha": "82038b29f",
+          "sourceContentHash": "sha256:e30095af8a74328f",
+          "sourceBodyHash": "sha256:9240eda59faf09e3",
+          "translatedAt": "2026-09-13T17:51:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chung-chao-cheng.md",
@@ -78474,8 +78485,8 @@
           "sourceContentHash": "sha256:e30095af8a74328f",
           "sourceBodyHash": "sha256:9240eda59faf09e3",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -78485,13 +78496,35 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chung-chao-cheng.md",
+          "translatedFrom": "People/鍾肇政.md",
+          "sourceCommitSha": "82038b29f",
+          "sourceContentHash": "sha256:e30095af8a74328f",
+          "sourceBodyHash": "sha256:9240eda59faf09e3",
+          "translatedAt": "2026-09-13T17:52:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chung-chao-cheng.md",
+          "translatedFrom": "People/鍾肇政.md",
+          "sourceCommitSha": "82038b29f",
+          "sourceContentHash": "sha256:e30095af8a74328f",
+          "sourceBodyHash": "sha256:9240eda59faf09e3",
+          "translatedAt": "2026-09-13T17:52:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chung-chao-cheng.md",
@@ -131658,13 +131691,46 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-13T17:51:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-13T17:51:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-13T17:51:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -131676,7 +131742,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-13T17:52:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -134134,8 +134211,8 @@
           "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -134201,7 +134278,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/xiluo-bridge.md",
+          "translatedFrom": "History/西螺大橋.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceBodyHash": "sha256:0367fe0da1bfd005",
+          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138119,8 +138207,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -147085,7 +147173,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/wenhu-line.md",
+          "translatedFrom": "Geography/文湖線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
+          "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -149077,8 +149176,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -164338,8 +164437,8 @@
           "sourceContentHash": "sha256:4aad559049b3c7a7",
           "sourceBodyHash": "sha256:293b5ab02d696e13",
           "translatedAt": "2026-09-13T17:51:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df7bf8e5",
+          "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
