@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T10:18:51+08:00",
-    "zhCommitHead": "c360be350",
+    "lastUpdated": "2026-09-13T10:20:51+08:00",
+    "zhCommitHead": "96a3a98ba",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 738,
+        "fresh": 739,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       },
       "id": {
@@ -36108,8 +36108,8 @@
           "sourceContentHash": "sha256:112b7f69f9a52776",
           "sourceBodyHash": "sha256:ee5f05761a053be1",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "96a3a98b",
+          "translationLastModified": "2026-09-13T10:18:51+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -39910,8 +39910,8 @@
           "sourceContentHash": "sha256:ba22e1d88e87855f",
           "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "96a3a98b",
+          "translationLastModified": "2026-09-13T10:18:51+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -117826,8 +117826,8 @@
           "sourceContentHash": "sha256:a3b67c4182d26ac8",
           "sourceBodyHash": "sha256:2b263b9afd2d2815",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "96a3a98b",
+          "translationLastModified": "2026-09-13T10:18:51+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -148227,8 +148227,8 @@
           "sourceContentHash": "sha256:2cedbbfcbfc952b5",
           "sourceBodyHash": "sha256:d7c1a96e25224b11",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "96a3a98b",
+          "translationLastModified": "2026-09-13T10:18:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -155398,7 +155398,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/national-central-library.md",
+          "translatedFrom": "Culture/國家圖書館.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:b188920097cf9184",
+          "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
