@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T20:17:33+08:00",
-    "zhCommitHead": "ff5e2c952",
+    "lastUpdated": "2026-09-13T20:27:54+08:00",
+    "zhCommitHead": "c9089967c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 182,
+        "missing": 181,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 848,
+        "fresh": 849,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 181,
+        "missing": 180,
         "orphan": 0
       },
       "es": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 550,
+        "fresh": 551,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 564,
+        "missing": 563,
         "orphan": 0
       }
     },
@@ -70928,8 +70928,8 @@
           "sourceContentHash": "sha256:71bd23c9a7becdb3",
           "sourceBodyHash": "sha256:ac800d2068dd019e",
           "translatedAt": "2026-09-13T17:52:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9089967",
+          "translationLastModified": "2026-09-13T20:17:33+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -107316,7 +107316,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/wei-tsung-cheng.md",
+          "translatedFrom": "People/韋宗成.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:2f3feb8df34cdc45",
+          "sourceBodyHash": "sha256:3e236311319150f0",
+          "translatedAt": "2026-09-13T17:51:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -128502,7 +128513,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/shimen-reservoir.md",
+          "translatedFrom": "History/石門水庫.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:d8b88408a353bacc",
+          "sourceBodyHash": "sha256:6772a9de43938945",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -138021,8 +138043,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-13T17:52:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9089967",
+          "translationLastModified": "2026-09-13T20:17:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -146975,7 +146997,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/wenhu-line.md",
+          "translatedFrom": "Geography/文湖線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
+          "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
+          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -164240,8 +164273,8 @@
           "sourceContentHash": "sha256:4aad559049b3c7a7",
           "sourceBodyHash": "sha256:293b5ab02d696e13",
           "translatedAt": "2026-09-13T17:52:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9089967",
+          "translationLastModified": "2026-09-13T20:17:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
