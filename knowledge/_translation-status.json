@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T06:58:14+08:00",
-    "zhCommitHead": "bd67d6fe2",
+    "lastUpdated": "2026-09-14T07:22:38+08:00",
+    "zhCommitHead": "53ae5f8e3",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 817,
+        "fresh": 818,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 187,
+        "missing": 186,
         "orphan": 0
       },
       "ko": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 164,
+        "missing": 163,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1003,
+        "fresh": 1002,
         "stale": 44,
         "metadata_stale": 9,
-        "missing": 65,
+        "missing": 66,
         "orphan": 0
       },
       "de": {
@@ -6315,8 +6315,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-09-13T15:49:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53ae5f8e",
+          "translationLastModified": "2026-09-14T06:58:17+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -6779,18 +6779,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-13T15:49:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -61710,7 +61699,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-regenerative-medicine-laws.md",
+          "translatedFrom": "Society/台灣再生醫療雙法沿革從業人員告白.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:067149f437c5a573",
+          "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
+          "translatedAt": "2026-09-14T06:58:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-regenerative-medicine-laws.md",
@@ -75932,8 +75932,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-13T15:49:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53ae5f8e",
+          "translationLastModified": "2026-09-14T06:58:17+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -99148,7 +99148,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/ruby-lin.md",
+          "translatedFrom": "People/林心如.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:57b0bfdd960a74ba",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T23:15:05.399088+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
