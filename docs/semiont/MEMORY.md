@@ -322,3 +322,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-13 | 072333-twmd-feedback-triage | 第七輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠；甦醒 selftest 印十行全綠卻沒提落後 147 commit——本機缺那段 9/09 才 ship 的新鮮度檢查 | 防「副本過期」的警報跟著副本一起發佈，就會在最該響的機器上缺席 | [→](memory/2026-09-13-072333-twmd-feedback-triage.md) |
 | 2026-09-13 | 091222-twmd-maintainer-am | aminzai 三篇翻譯 merged（腳註網址與母稿零漂移）；#1711 告警混維度修掉並上線——origin 活著，只有本機 main 推不出去，修補走 origin 分支繞過分岔；詞庫查證欠條長出自己的記號 | 推不出去的是本機那條路，不是所有路；「已決」卻說還在等，也是對外失聯 | [→](memory/2026-09-13-091222-twmd-maintainer-am.md) |
 | 2026-09-13 | 211909-twmd-routine-audit-weekly | W37 週審：71% commit 是分類器認不出的 babel 常駐調度器；分岔兩天擴大 234→292 ahead；新增 2 條 LESSONS，跳過 pull 改快轉救援分支 | 正確的 defer 不等於停滯——驅動引擎沒暫停，決策範圍就持續變大 | [→](memory/2026-09-13-211909-twmd-routine-audit-weekly.md) |
+| 2026-09-14 | 005514-twmd-babel-nightly | 分岔擴大至 299/156，唯讀模擬量出 172 真衝突（118 譯文取捨，跟 #56 一致）；150 篇零譯文條目卡十二語，補 slug-map 後重啟 dispatcher | 新文章沒有自動進翻譯佇列的入口，是三次復發同一缺口不是三次獨立小 bug | [→](memory/2026-09-14-005514-twmd-babel-nightly.md) |
