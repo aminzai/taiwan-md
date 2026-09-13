@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T18:55:24+08:00",
-    "zhCommitHead": "914fba8cb",
+    "lastUpdated": "2026-09-13T19:21:59+08:00",
+    "zhCommitHead": "92efbf14c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 843,
+        "fresh": 844,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 183,
+        "missing": 182,
         "orphan": 0
       },
       "ja": {
@@ -44,50 +44,50 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 829,
+        "fresh": 830,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 195,
+        "missing": 194,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 188,
+        "missing": 187,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 754,
+        "fresh": 755,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 210,
+        "missing": 209,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 645,
+        "fresh": 646,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 419,
+        "missing": 418,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 221,
+        "missing": 220,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 688,
+        "fresh": 689,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 386,
+        "missing": 385,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 791,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 280,
+        "missing": 279,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 548,
+        "fresh": 550,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 566,
+        "missing": 564,
         "orphan": 0
       }
     },
@@ -68944,28 +68944,94 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:51:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:51:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:51:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:52:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:52:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -70753,8 +70819,8 @@
           "sourceContentHash": "sha256:71bd23c9a7becdb3",
           "sourceBodyHash": "sha256:ac800d2068dd019e",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92efbf14",
+          "translationLastModified": "2026-09-13T18:55:24+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -128961,7 +129027,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-fishing-industry-origins.md",
+          "translatedFrom": "History/台灣漁業起源.md",
+          "sourceCommitSha": "ad6842824",
+          "sourceContentHash": "sha256:50b4c719b7719ddb",
+          "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
+          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -133872,8 +133949,8 @@
           "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92efbf14",
+          "translationLastModified": "2026-09-13T18:55:24+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -137834,7 +137911,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/lin-an-tai-historic-house.md",
+          "translatedFrom": "Geography/林安泰古厝.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:47d89dc0ac03a566",
+          "sourceBodyHash": "sha256:7079616fec64f3a7",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -148716,8 +148804,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92efbf14",
+          "translationLastModified": "2026-09-13T18:55:24+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -148758,7 +148846,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-13T17:52:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -152232,8 +152331,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92efbf14",
+          "translationLastModified": "2026-09-13T18:55:24+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -159323,7 +159422,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-lacquerware.md",
+          "translatedFrom": "Culture/台灣漆器.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:69f1aed62a2df405",
+          "sourceBodyHash": "sha256:1bd762ed30b04b56",
+          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163955,8 +164065,8 @@
           "sourceContentHash": "sha256:4aad559049b3c7a7",
           "sourceBodyHash": "sha256:293b5ab02d696e13",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92efbf14",
+          "translationLastModified": "2026-09-13T18:55:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
