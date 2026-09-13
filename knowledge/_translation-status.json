@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T05:12:55+08:00",
-    "zhCommitHead": "dca1f1602",
+    "lastUpdated": "2026-09-14T05:26:19+08:00",
+    "zhCommitHead": "481feeebd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 867,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 160,
+        "missing": 159,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 873,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 175,
+        "missing": 174,
         "orphan": 0
       },
       "fr": {
@@ -60,58 +60,58 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 772,
+        "fresh": 773,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 192,
+        "missing": 191,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 664,
+        "fresh": 665,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 400,
+        "missing": 399,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 843,
+        "fresh": 844,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 705,
+        "fresh": 706,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 369,
+        "missing": 368,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 770,
+        "fresh": 772,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 294,
+        "missing": 292,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 808,
+        "fresh": 809,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 262,
+        "missing": 261,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 575,
+        "fresh": 576,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 539,
+        "missing": 538,
         "orphan": 0
       }
     },
@@ -9673,8 +9673,8 @@
           "sourceContentHash": "sha256:b1ed4dc9af013a20",
           "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -38169,8 +38169,8 @@
           "sourceContentHash": "sha256:46b8b4c566a9b8ad",
           "sourceBodyHash": "sha256:261c0f7907febe33",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -38191,16 +38191,60 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taipei-bridge-motorcycle-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taipei-bridge-motorcycle-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taipei-bridge-motorcycle-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taipei-bridge-motorcycle-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -44251,8 +44295,8 @@
           "sourceContentHash": "sha256:c31283732f5c82a4",
           "sourceBodyHash": "sha256:95652e4e6a2b2202",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -47107,7 +47151,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/co-facts.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -47127,25 +47182,80 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/co-facts.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/co-facts.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/co-facts.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-14T00:53:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/co-facts.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/co-facts.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -129683,7 +129793,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/grand-hotel.md",
+          "translatedFrom": "History/圓山大飯店.md",
+          "sourceCommitSha": "322a566a3",
+          "sourceContentHash": "sha256:51ee9e5cce591488",
+          "sourceBodyHash": "sha256:eba4f32a0cfd42a7",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -135073,8 +135194,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -135802,8 +135923,8 @@
           "sourceContentHash": "sha256:a825535e058db34c",
           "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -156601,8 +156722,8 @@
           "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
           "sourceBodyHash": "sha256:9cb502435a73e76b",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -165735,8 +165856,8 @@
           "sourceContentHash": "sha256:ce021fd2a077ae57",
           "sourceBodyHash": "sha256:ca35c2a9b4b8b4ff",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "481feeeb",
+          "translationLastModified": "2026-09-14T05:12:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
