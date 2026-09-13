@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T21:36:13+08:00",
-    "zhCommitHead": "5c8a5f42a",
+    "lastUpdated": "2026-09-13T21:46:44+08:00",
+    "zhCommitHead": "3bc741a9b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 847,
+        "fresh": 848,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 179,
+        "missing": 178,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 192,
+        "missing": 191,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 207,
+        "missing": 206,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 647,
+        "fresh": 648,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 417,
+        "missing": 416,
         "orphan": 0
       },
       "pt": {
@@ -78443,8 +78443,8 @@
           "sourceContentHash": "sha256:e30095af8a74328f",
           "sourceBodyHash": "sha256:9240eda59faf09e3",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bc741a9",
+          "translationLastModified": "2026-09-13T21:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -94077,7 +94077,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/ruby-lin.md",
+          "translatedFrom": "People/林心如.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1b202e80c7e4a1d",
+          "sourceBodyHash": "sha256:74473841bc53291c",
+          "translatedAt": "2026-09-13T17:51:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -107399,8 +107410,8 @@
           "sourceContentHash": "sha256:2f3feb8df34cdc45",
           "sourceBodyHash": "sha256:3e236311319150f0",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bc741a9",
+          "translationLastModified": "2026-09-13T21:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -128613,8 +128624,8 @@
           "sourceContentHash": "sha256:d8b88408a353bacc",
           "sourceBodyHash": "sha256:6772a9de43938945",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bc741a9",
+          "translationLastModified": "2026-09-13T21:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -131697,8 +131708,8 @@
           "sourceContentHash": "sha256:94a0eed6d2a30bd2",
           "sourceBodyHash": "sha256:438d4ba6b831a508",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bc741a9",
+          "translationLastModified": "2026-09-13T21:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -138176,8 +138187,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-13T17:51:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3bc741a9",
+          "translationLastModified": "2026-09-13T21:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -147193,16 +147204,49 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/wenhu-line.md",
+          "translatedFrom": "Geography/文湖線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
+          "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
+          "translatedAt": "2026-09-13T17:51:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/wenhu-line.md",
+          "translatedFrom": "Geography/文湖線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
+          "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
+          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/wenhu-line.md",
+          "translatedFrom": "Geography/文湖線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:29a9bdcb5a7c80ff",
+          "sourceBodyHash": "sha256:e1f4ab46f62a48fb",
+          "translatedAt": "2026-09-13T17:51:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
