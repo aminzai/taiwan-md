@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T22:40:30+08:00",
-    "zhCommitHead": "8d5796d9c",
+    "lastUpdated": "2026-09-14T00:27:17+08:00",
+    "zhCommitHead": "75caefd80",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 965,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 96,
+        "missing": 95,
         "orphan": 0
       },
       "ru": {
@@ -125327,8 +125327,8 @@
           "sourceContentHash": "sha256:a3b67c4182d26ac8",
           "sourceBodyHash": "sha256:2b263b9afd2d2815",
           "translatedAt": "2026-09-13T18:19:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75caefd8",
+          "translationLastModified": "2026-09-13T22:40:30+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -175456,7 +175456,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-13T15:49:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/eslite-bookstore.md",
