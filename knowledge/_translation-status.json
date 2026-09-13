@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T08:26:27+08:00",
-    "zhCommitHead": "823977af6",
+    "lastUpdated": "2026-09-13T09:30:15+08:00",
+    "zhCommitHead": "c3f31f227",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 792,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 270,
+        "missing": 268,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 966,
+        "fresh": 968,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 73,
+        "missing": 71,
         "orphan": 0
       },
       "hi": {
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 947,
+        "fresh": 949,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 113,
+        "missing": 111,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 985,
+        "fresh": 984,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 80,
+        "missing": 81,
         "orphan": 0
       },
       "de": {
@@ -8053,18 +8053,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -18044,7 +18033,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-vr-metaverse-rise-and-fall.md",
+          "translatedFrom": "Technology/台灣VR元宇宙興衰史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dcdc411ac65fa741",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T00:38:03.720600+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-vr-metaverse-rise-and-fall.md",
@@ -23970,7 +23970,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-electric-vehicle-industry-chain.md",
+          "translatedFrom": "Technology/台灣電動車產業鏈發展.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:85f80872ad09b54c",
+          "sourceBodyHash": "sha256:3683724639161321",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-electric-vehicle-industry-chain.md",
@@ -69839,8 +69850,8 @@
           "sourceContentHash": "sha256:0263a8cc3c622c00",
           "sourceBodyHash": "sha256:c88ce81293be71aa",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3f31f22",
+          "translationLastModified": "2026-09-13T08:26:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -78299,8 +78310,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3f31f22",
+          "translationLastModified": "2026-09-13T08:26:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -80088,8 +80099,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3f31f22",
+          "translationLastModified": "2026-09-13T08:26:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -89005,7 +89016,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/samuel-yin-yan-liang.md",
+          "translatedFrom": "People/尹衍樑.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:de14cddb4cd06bf6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T01:03:48.669501+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/samuel-yin-yan-liang.md",
@@ -115427,7 +115449,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/nick-star-streamer.md",
+          "translatedFrom": "People/尼克星.md",
+          "sourceCommitSha": "b9ebab71d",
+          "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
+          "sourceBodyHash": "sha256:ac25e74e87295655",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/nick-star-streamer.md",
@@ -124009,7 +124042,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/shulin-red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:887c3be39222e6b9",
+          "sourceBodyHash": "sha256:140c52cfad734a21",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/shulin-red-yeast-rice.md",
@@ -150324,7 +150368,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/dadaocheng.md",
+          "translatedFrom": "Geography/大稻埕.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:1aab357813ec41e3",
+          "sourceBodyHash": "sha256:4f2293becc2b45da",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/dadaocheng.md",
@@ -166185,8 +166240,8 @@
           "sourceContentHash": "sha256:09da7327b5a4487f",
           "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3f31f22",
+          "translationLastModified": "2026-09-13T08:26:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
