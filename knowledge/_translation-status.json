@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T15:48:35+08:00",
-    "zhCommitHead": "598c21b8d",
+    "lastUpdated": "2026-09-13T15:49:01+08:00",
+    "zhCommitHead": "8d42b0888",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 803,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 256,
+        "missing": 257,
         "orphan": 0
       },
       "pt": {
@@ -6690,18 +6690,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -12973,8 +12962,8 @@
           "sourceContentHash": "sha256:0a05f936441dbbcf",
           "sourceBodyHash": "sha256:aead7a66c3b88ec5",
           "translatedAt": "2026-09-13T05:56:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d42b088",
+          "translationLastModified": "2026-09-13T15:48:38+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -16295,8 +16284,8 @@
           "sourceContentHash": "sha256:dc67a77228383374",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T05:41:27.168997+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d42b088",
+          "translationLastModified": "2026-09-13T15:48:38+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -46278,8 +46267,8 @@
           "sourceContentHash": "sha256:273b605321194083",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T05:27:31.085290+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d42b088",
+          "translationLastModified": "2026-09-13T15:48:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
