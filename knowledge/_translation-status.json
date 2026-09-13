@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T13:30:39+08:00",
-    "zhCommitHead": "683a03e56",
+    "lastUpdated": "2026-09-13T13:34:55+08:00",
+    "zhCommitHead": "9f5a09d72",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 260,
+        "missing": 259,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 976,
+        "fresh": 975,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 63,
+        "missing": 64,
         "orphan": 0
       },
       "hi": {
@@ -33189,8 +33189,8 @@
           "sourceContentHash": "sha256:839c2636244d1802",
           "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9f5a09d7",
+          "translationLastModified": "2026-09-13T13:30:47+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -46217,7 +46217,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwanese-overseas-and-diaspora.md",
+          "translatedFrom": "Society/台灣海外僑民與離散社群.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:273b605321194083",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T05:27:31.085290+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwanese-overseas-and-diaspora.md",
@@ -74658,8 +74669,8 @@
           "sourceContentHash": "sha256:4ae6e15b4e3eea8f",
           "sourceBodyHash": "sha256:09d31f29d2008420",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9f5a09d7",
+          "translationLastModified": "2026-09-13T13:30:47+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -149685,18 +149696,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -170150,8 +170150,8 @@
           "sourceContentHash": "sha256:1c51bf71c790291d",
           "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
           "translatedAt": "2026-09-13T05:56:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9f5a09d7",
+          "translationLastModified": "2026-09-13T13:30:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
