@@ -1,40 +1,40 @@
 {
-  "totalArticles": 10976,
+  "totalArticles": 11477,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7442,
+  "totalTags": 7747,
   "categories": [
     {
       "name": "es",
-      "count": 908
+      "count": 950
     },
     {
       "name": "ko",
-      "count": 915
+      "count": 967
     },
     {
       "name": "fr",
-      "count": 910
+      "count": 960
     },
     {
       "name": "en",
-      "count": 919
+      "count": 969
     },
     {
       "name": "ja",
-      "count": 888
+      "count": 889
     },
     {
       "name": "vi",
-      "count": 893
+      "count": 934
     },
     {
       "name": "hi",
-      "count": 719
+      "count": 756
     },
     {
       "name": "ru",
-      "count": 821
+      "count": 864
     },
     {
       "name": "Technology",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 682
+      "count": 725
     },
     {
       "name": "ar",
-      "count": 789
+      "count": 831
     },
     {
       "name": "Politics",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 877
+      "count": 926
     },
     {
       "name": "Food",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 534
+      "count": 585
     },
     {
       "name": "Lifestyle",
@@ -127,12 +127,12 @@
       "count": 56
     },
     {
-      "name": "科技與企業",
-      "count": 36
+      "name": "YouTuber",
+      "count": 37
     },
     {
-      "name": "YouTuber",
-      "count": 30
+      "name": "科技與企業",
+      "count": 36
     },
     {
       "name": "民主化",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10976,
+    "zh-TW": 11477,
     "en": 0
   },
-  "lastUpdated": "2026-09-12T22:23:35.543Z",
+  "lastUpdated": "2026-09-13T22:14:50.541Z",
   "stars": 1171,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
-    "en": 919,
-    "ja": 888,
-    "ko": 915,
-    "es": 908,
-    "fr": 910,
-    "vi": 893,
-    "id": 682,
-    "pt": 877,
-    "hi": 719,
-    "ar": 789,
-    "ru": 821,
-    "de": 534
+    "en": 969,
+    "ja": 889,
+    "ko": 967,
+    "es": 950,
+    "fr": 960,
+    "vi": 934,
+    "id": 725,
+    "pt": 926,
+    "hi": 756,
+    "ar": 831,
+    "ru": 864,
+    "de": 585
   },
-  "enPages": 919,
+  "enPages": 969,
   "totalPages": 1119
 }

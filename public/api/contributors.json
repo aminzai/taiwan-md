@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T22:22:37.609Z",
+  "lastUpdated": "2026-09-13T22:14:51.227Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9198,
+      "commits": 9204,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -49,7 +49,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 56,
+      "commits": 59,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9198,
+      "commits": 9204,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -1030,22 +1030,8 @@
     }
   ],
   "weeklyActive": 2,
-  "monthlyActive": 9,
+  "monthlyActive": 7,
   "recentlyJoined": [
-    {
-      "login": "audreyt",
-      "commits": 7,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
-      "profileUrl": "https://github.com/audreyt",
-      "firstCommitAt": "2026-08-14 10:41:04 +0800",
-      "lastCommitAt": "2026-08-14 12:38:54 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 5,
-        "translation": 1
-      }
-    },
     {
       "login": "ytchen175",
       "commits": 1,
