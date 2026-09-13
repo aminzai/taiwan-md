@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T07:54:28+08:00",
-    "zhCommitHead": "056338a29",
+    "lastUpdated": "2026-09-14T07:54:36+08:00",
+    "zhCommitHead": "dc7e7eb35",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 853,
+        "fresh": 854,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 171,
+        "missing": 170,
         "orphan": 0
       },
       "fr": {
@@ -125250,7 +125250,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/bapu-ice.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/bapu-ice.md",
