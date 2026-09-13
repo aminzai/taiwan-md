@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-14 twmd-feedback-triage — divergence-warning-is-tree-level-not-per-file：分岔警告說「本地讀取層失真」，但它蓋住三種相反的逐檔真相，而處方只服務其中一種
+
+- **pattern**: `divergence-warning-is-tree-level-not-per-file`
+- **原則**：本機與 origin 分岔時，`check-parallel-actor.sh` 會警告「本地 git grep / cat / require 反映的是 N 個 commit 前的狀態，審查前改用 `git show origin/main:<path>`」。這句話對整棵樹成立，對任何一個具體的檔案卻有三種相反的可能：origin 動過（本機確實舊，處方正確）、本機動過而 origin 沒動（本機反而新，照處方做會**主動退回舊版**）、兩邊都沒動（處方無意義）。警告用同一句話蓋住三種根因，而它給的處方只對第一種是對的——這是 [REFLEXES #38](REFLEXES.md) 混維度長在「警告文字與其處方」上的形狀：訊號承載三種 cause，下游動作卻只有一種。分辨成本極低（`git diff --quiet HEAD origin/main -- <path>` 逐檔一句話），但目前完全靠讀到警告的人額外自覺，警告自己不印這個答案。
+- **觸發**：2026-09-14 07:10 twmd-feedback-triage，本機 main ahead333/behind156（OBSERVER-QUEUE #56 未解），`check-parallel-actor.sh` 如實印出讀取層失真警告。當班逐檔 diff 本 routine 依賴的五個檔，結果與警告暗示的方向相反：`triage.mjs` 與 `FEEDBACK-TRIAGE-PIPELINE.md` 的差異**全部是本機領先**（9/10 `formatIntakeAge` 那批尚未推送），origin 對這五個檔零 commit。若照警告字面改讀 `git show origin/main:scripts/feedback/triage.mjs`，跑的會是缺 `formatIntakeAge()` 的舊版，而「佇列空的那一輪印出最近一筆回報日期」正是本輪唯一的實質輸出。
+- **可能層級**：操作規則（綁 `check-parallel-actor.sh` 的警告文案與長期分岔情境；是否通用待第二個 instance 判斷）
+- **相關**：REFLEXES #38 混維度（一個訊號承載多種根因）、REFLEXES #82 proxy signal（「整棵樹落後 N commit」是「我要讀的那個檔是舊的」的替身）、LESSONS `staleness-guard-ships-through-the-artifact-it-guards`（2026-09-13 同一條 routine 的前一層：那條是警報沒響，本條是警報響了但答案要自己去查）
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-09-14 twmd-babel-nightly — new-article-creation-has-no-slug-registration-step：新條目誕生流程沒有把「登記 slug」當成必經步驟，同一種卡住重複發生三次卻沒人升它
 
 - **pattern**: `new-article-creation-has-no-slug-registration-step`

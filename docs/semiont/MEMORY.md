@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-14 | 054451-twmd-embeddings-nightly | 13 語 11,330 向量 0 fail，rebuild ~36 分鐘（較前夜略快）；de 續漲 529→579；commit 355524e7c 因真分岔（ahead327/behind156）延遲 push | 分岔續漲不影響本 routine 的機械義務：rebuild、verify、commit 照跑，push 留給哲宇拍板後處理 | [→](memory/2026-09-14-054451-twmd-embeddings-nightly.md) |
 | 2026-09-14 | 061730-twmd-data-refresh-am | 第九夜撞見同一 dispatcher，Step 1 讓場、13 步全綠零 stale；順手丟棄前夜已驗證安全但擱置一天的 lint-staged 備份 stash | 讀到 handoff 不會觸發動作，恰好碰上同一件事時順手做掉才會 | [→](memory/2026-09-14-061730-twmd-data-refresh-am.md) |
 | 2026-09-14 | 063913-twmd-spore-harvest-am | 第六天 #170-176 現查全雜訊，0 新留言免 ship；查出 spore-pick/publish 兩 routine 06-14 起停用三月，真因浮現 | SOP 跑確實也可能對停機上游量測 | [→](memory/2026-09-14-063913-twmd-spore-harvest-am.md) |
+| 2026-09-14 | 070941-twmd-feedback-triage | 第八輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠；分岔警告響了，逐檔 diff 後發現本 routine 依賴的檔全是本機領先 | 「整棵樹落後 N commit」蓋住三種逐檔真相，照處方讀 origin 會退回舊版 | [→](memory/2026-09-14-070941-twmd-feedback-triage.md) |
