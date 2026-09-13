@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T20:05:03+08:00",
-    "zhCommitHead": "46b321b3e",
+    "lastUpdated": "2026-09-13T20:17:33+08:00",
+    "zhCommitHead": "ff5e2c952",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 754,
+        "fresh": 755,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 310,
+        "missing": 309,
         "orphan": 0
       },
       "ru": {
@@ -69006,8 +69006,8 @@
           "sourceContentHash": "sha256:201301d5ef8902fa",
           "sourceBodyHash": "sha256:64a6bc7308f455d1",
           "translatedAt": "2026-09-13T17:52:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff5e2c95",
+          "translationLastModified": "2026-09-13T20:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -70900,8 +70900,8 @@
           "sourceContentHash": "sha256:71bd23c9a7becdb3",
           "sourceBodyHash": "sha256:ac800d2068dd019e",
           "translatedAt": "2026-09-13T17:52:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff5e2c95",
+          "translationLastModified": "2026-09-13T20:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -138004,8 +138004,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-13T17:52:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff5e2c95",
+          "translationLastModified": "2026-09-13T20:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -138015,7 +138015,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/lin-an-tai-historic-house.md",
+          "translatedFrom": "Geography/林安泰古厝.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:47d89dc0ac03a566",
+          "sourceBodyHash": "sha256:7079616fec64f3a7",
+          "translatedAt": "2026-09-13T17:52:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/lin-an-tai-historic-house.md",
@@ -148929,8 +148940,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-13T17:52:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff5e2c95",
+          "translationLastModified": "2026-09-13T20:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -164201,8 +164212,8 @@
           "sourceContentHash": "sha256:4aad559049b3c7a7",
           "sourceBodyHash": "sha256:293b5ab02d696e13",
           "translatedAt": "2026-09-13T17:52:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ff5e2c95",
+          "translationLastModified": "2026-09-13T20:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
