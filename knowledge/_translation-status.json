@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T12:53:44+08:00",
-    "zhCommitHead": "ad20e0731",
+    "lastUpdated": "2026-09-13T13:08:16+08:00",
+    "zhCommitHead": "c3d6fc0b9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 828,
+        "fresh": 829,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       },
       "ja": {
@@ -36,34 +36,34 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 835,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 195,
+        "missing": 194,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 203,
+        "missing": 202,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 200,
+        "missing": 199,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 742,
+        "fresh": 743,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 222,
+        "missing": 221,
         "orphan": 0
       },
       "id": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 742,
+        "fresh": 743,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 322,
+        "missing": 321,
         "orphan": 0
       },
       "ru": {
@@ -21356,8 +21356,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3d6fc0b",
+          "translationLastModified": "2026-09-13T12:53:44+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -55795,8 +55795,8 @@
           "sourceContentHash": "sha256:dcd392c480a1e7a1",
           "sourceBodyHash": "sha256:a0a8f64f629c96f3",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3d6fc0b",
+          "translationLastModified": "2026-09-13T12:53:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -58445,7 +58445,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/dpp-founding.md",
@@ -58488,7 +58499,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/dpp-founding.md",
@@ -58497,8 +58519,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3d6fc0b",
+          "translationLastModified": "2026-09-13T12:53:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73716,8 +73738,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3d6fc0b",
+          "translationLastModified": "2026-09-13T12:53:44+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -126296,7 +126318,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/1935.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -126305,13 +126338,46 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/1935.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/1935.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/1935.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -144472,8 +144538,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3d6fc0b",
+          "translationLastModified": "2026-09-13T12:53:44+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
