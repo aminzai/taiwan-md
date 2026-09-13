@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T08:08:26+08:00",
-    "zhCommitHead": "20d244f80",
+    "lastUpdated": "2026-09-13T08:13:41+08:00",
+    "zhCommitHead": "0934216d1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 946,
+        "fresh": 947,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 114,
+        "missing": 113,
         "orphan": 0
       },
       "ru": {
@@ -21771,7 +21771,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/backslash-in-cjk-fonts.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/backslash-in-cjk-fonts.md",
@@ -69754,8 +69765,8 @@
           "sourceContentHash": "sha256:0263a8cc3c622c00",
           "sourceBodyHash": "sha256:c88ce81293be71aa",
           "translatedAt": "2026-09-13T04:15:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0934216d",
+          "translationLastModified": "2026-09-13T08:08:27+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -112233,8 +112244,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-13T04:15:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0934216d",
+          "translationLastModified": "2026-09-13T08:08:27+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
