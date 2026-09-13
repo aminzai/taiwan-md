@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v3.3'
+current_version: 'v3.4'
 last_updated: 2026-09-13
-last_session: '2026-09-13-twmd-self-evolve-weekly（新增 2 條：immune weightedGaps 儀器化 + weekly-checkup e1 🔒 誤判修復；§未消化 59→61）'
+last_session: '2026-09-13-twmd-routine-audit-weekly（新增 2 條 + staleness-guard vc 1→2：GPU 鄰居負載拉長 routine 耗時 vc=3 distill-ready + OBSERVER-QUEUE 表格缺欄躲過掃描；§未消化 61→63）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,31 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-13 twmd-routine-audit-weekly — shared-gpu-load-stretches-sibling-routine-duration-past-timing-assumptions：process 活著不代表跑得跟平常一樣快，鄰居負載會悄悄改變速度基準
+
+- **pattern**: `shared-gpu-load-stretches-sibling-routine-duration-past-timing-assumptions`
+- **原則**：多個 routine 共用同一份運算資源（本例是本機 ollama GPU 佇列）時，process 存活與 cron 準時 fire 都不保證跑出跟平常一樣的速度——鄰居 routine 佔用資源時，本 routine 的實際耗時會被悄悄拉長，任何寫死在腳本或 workflow 裡的 timeout / 重試門檻都是照「無鄰居」基準訂的，鄰居一多就可能提早逾時或看起來卡住。這跟 REFLEXES #38(f)「存活≠生產」同族但維度不同：#38(f) 問的是「activity 是不是真的在生產」，本條問的是「同樣在生產，但生產的速度基準會因為誰在旁邊而漂移」——健檢會回報綠燈（process 活著、有在寫 log、最後真的完成），但完成所花的時間已經超出原本假設的正常範圍，而沒有一層在追蹤「這次比平常慢多少」。
+- **觸發**：2026-09-12 05:47 twmd-embeddings-nightly，bge-m3 rebuild 因 ollama GPU 排隊耗時翻倍至 28 分鐘（平常 ~14 分）；2026-09-13 08:07 同一 routine 再拉長至 ~43 分鐘；2026-09-13 06:48 twmd-data-refresh-am 的 prebuild 步驟在同一台機器鄰居負載下拉長到 25 分鐘，第一次跑逾時，靠自動重跑第二次才過。三次都發生在本機平行跑著高強度 babel-nightly dispatcher 的同一批夜間窗口，三條 routine 各自的 memory 索引行都獨立寫下近乎相同的教訓句（「process 存活不等於跑得跟平常一樣快，鄰居負載會悄悄改變速度基準」／「process 活著不代表跑得跟平常一樣快，鄰居負載連累的不只子腳本也連累外層工具的時間假設」），三個獨立 session 各自撞見同一件事卻沒人升它。
+- **instances**：
+  - 2026-09-12 054717-twmd-embeddings-nightly — rebuild 14min → 28min（[memory](memory/2026-09-12-054717-twmd-embeddings-nightly.md)）
+  - 2026-09-13 080831-twmd-embeddings-nightly — rebuild 28min → ~43min（[memory](memory/2026-09-13-080831-twmd-embeddings-nightly.md)）
+  - 2026-09-13 064808-twmd-data-refresh-am — prebuild 拉長到 25min，第一次逾時重跑才過（[memory](memory/2026-09-13-064808-twmd-data-refresh-am.md)）
+- **可能層級**：通用反射（任何共用 GPU／CPU／磁碟 I/O 的平行 routine 排程都適用，不限 Taiwan.md）
+- **相關**：REFLEXES #38(f) 存活≠生產（同族不同維度——那條防「活著當成有生產」，本條防「用無鄰居基準的時間假設去衡量有鄰居時的執行」）、REFLEXES #41 CI timeout 是會跟內容量長大失效的 capacity 設定（同構：本條是「跟鄰居負載長大失效」而非「跟內容量長大失效」）
+- **verification_count**: 3
+- **severity**: tactical
+- **distill_ready**: true
+
+### 2026-09-13 twmd-routine-audit-weekly — decision-support-table-missing-columns-hides-due-action-from-scan：待決佇列的表格少兩欄，體檢掃描就看不見一個已經到期的預設
+
+- **pattern**: `decision-support-table-missing-columns-hides-due-action-from-scan`
+- **原則**：一份給機器掃描讀取決策狀態的表格（如 `OBSERVER-QUEUE.md` §待決），如果某一列在製表時漏掉了掃描邏輯依賴的欄位（如到期日 / default-action 描述），那一列在人眼讀 markdown 時可能看起來完整，但自動稽核工具會因為欄位對不上而把它整條跳過或誤判——「已到期可執行」的預設因此對所有自動化流程隱形，只剩人工逐行讀表才看得見。這是 REFLEXES #69(g)「形式閘門過但意義精度不夠」的具體子型：這裡連形式閘門本身都沒被觸發，因為輸入的表格結構本身不完整，稽核工具連「有東西可判」都不知道。
+- **觸發**：2026-09-13 twmd-weekly-report-sun 診斷五面全綠時，`OBSERVER-QUEUE.md` §待決 第 50 項（卡片圖允收清單）的表格列少了兩個分隔符欄位，讓依賴欄位對齊做判斷的體檢掃描讀不到這一列的到期日，因此連續多輪把一個已經逾期、依規則任何 session 可執行的預設動作漏報成「尚未到期」。同一天 `dfd83bc20` heal commit 補回兩欄後，體檢掃描才第一次正確標記它為「已到期可執行」。
+- **可能層級**：通用反射（任何用 markdown 表格當機器可讀 SSOT 的設計都適用——表格對人眼的完整性跟對 parser 的完整性是兩件事）
+- **相關**：REFLEXES #69(g) 形式閘門 ≠ 意義閘門、REFLEXES #38 混維度 family（本例的「維度」是欄位數而非 status enum）、LESSONS `weighted-aggregate-score-never-decomposed-despite-breakdown-being-cheap`（同日同 routine 家族、同樣是「資料在但沒被讀出來」的形狀）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-13 twmd-feedback-triage — staleness-guard-ships-through-the-artifact-it-guards：防「這棵樹是舊的」的警報住在樹裡，樹一舊就連警報一起舊掉
 
 - **pattern**: `staleness-guard-ships-through-the-artifact-it-guards`
@@ -339,7 +364,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：`scripts/tools/wake-context.py` 的工作樹新鮮度檢查（落後 origin/main 時 selftest 印 ⚠️ 並 exit 2）於 2026-09-09 14:25 由 opentwbench session ship（`0e1d423dd`，commit 標題「甦醒時會自己說『這棵樹是舊的』，不用等當班想到」），為的正是 REFLEXES #67 子規則「工作樹本身可以是過期快照」vc=4。這台機器的 `main` 跟 `origin/main` 的 merge-base 是同日 09:11（`9e1988362`），比那次 ship 早五小時——babel dispatcher 連續佔用工作樹，分岔自此沒有收斂過。結果是本機 `wake-context.py` 完全沒有這段程式（`grep -c parallel_actor` 本機 0、origin/main 7），而四天來每一條在這台機器上醒來的 routine，selftest 都印「取數健康：N 項體檢全綠」，本班醒來時實際落後 147 個 commit。本班是自己另外跑 `check-parallel-actor.sh` 才知道，正是那行 commit 訊息說不必再靠的「當班想到」。
 - **可能層級**：通用反射（任何隨產物一起發佈的自我診斷；同構候選：pre-commit hook 偵測 hook 自己沒安裝、CI 設定檔檢查 CI 設定、routine mirror 對賬工具住在 mirror 裡）
 - **相關**：REFLEXES #67 子規則「工作樹本身可以是過期快照」（本條是它的修補自己踩進同一個洞，第 5 例且發生在修補層）、REFLEXES #82 proxy signal（相鄰但不同：那是訊號量了替身，本條是訊號沒被安裝）、REFLEXES #96「已經知道會這樣壞，並不減少它壞的機率」（知識下沉到了控制流，控制流沒下沉到這台機器）
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-13 twmd-routine-audit-weekly（本次週審 Stage 1 SCAN 獨立撞見，尚未讀到本條就先在 `git status` 發現同一台機器的分岔）：分岔持續擴大而非收斂——09-11 觀測值 ahead161/behind136 → 09-13 09:12 本條寫入時 ahead234/behind147 → 09-13 21:09 本次審計時 ahead292/behind156，兩天內 behind 又長了 9、ahead 又長了 58。確認這不是一次性事件，是每個 babel/embeddings/data-refresh cycle 都在餵大的持續趨勢；本機仍缺 `parallel_actor` 檢查（同款 grep 本機 0 / origin 7），本次審計沿用同一條 `check-parallel-actor.sh` 才確認落後幅度。
+- **verification_count**: 2
 - **severity**: structural
 
 ### 2026-09-13 twmd-self-evolve-weekly — negation-word-does-not-flip-substring-marker-match：文字裡寫「非🔒」是在解釋它不是鎖，但字串比對只看見那個 🔒 字元
