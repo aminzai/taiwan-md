@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T06:57:44+08:00",
-    "zhCommitHead": "b7d864592",
+    "lastUpdated": "2026-09-14T06:58:14+08:00",
+    "zhCommitHead": "bd67d6fe2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 968,
+        "fresh": 967,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 92,
+        "missing": 93,
         "orphan": 0
       },
       "ru": {
@@ -145462,18 +145462,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-13T15:49:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -163403,8 +163392,8 @@
           "sourceContentHash": "sha256:01678a90a6beb87a",
           "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
           "translatedAt": "2026-09-13T15:49:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd67d6fe",
+          "translationLastModified": "2026-09-14T06:57:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
