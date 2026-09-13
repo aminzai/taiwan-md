@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T10:22:46+08:00",
-    "zhCommitHead": "618fab079",
+    "lastUpdated": "2026-09-13T10:28:08+08:00",
+    "zhCommitHead": "7aeee4058",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 792,
+        "fresh": 793,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 268,
+        "missing": 267,
         "orphan": 0
       },
       "pt": {
@@ -17290,8 +17290,8 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aeee405",
+          "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -44228,8 +44228,8 @@
           "sourceContentHash": "sha256:2021a6224e30bd5e",
           "sourceBodyHash": "sha256:ab86534e207e2b33",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aeee405",
+          "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -89077,8 +89077,8 @@
           "sourceContentHash": "sha256:de14cddb4cd06bf6",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T01:03:48.669501+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aeee405",
+          "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -144370,7 +144370,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -150429,8 +150440,8 @@
           "sourceContentHash": "sha256:1aab357813ec41e3",
           "sourceBodyHash": "sha256:4f2293becc2b45da",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aeee405",
+          "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -163328,8 +163339,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aeee405",
+          "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
