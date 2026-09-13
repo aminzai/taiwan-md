@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-09-13
-last_session: '2026-09-13-211909-twmd-routine-audit-weekly（W37 週審：71% commit 是分類器認不出的 babel 常駐調度器，分岔兩天擴大 234→292 ahead）'
+last_updated: 2026-09-14
+last_session: '2026-09-14-011203-twmd-supporters-weekly（Portaly 贊助信週檢：0 封候選信，no-op 收官）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-13 | 091222-twmd-maintainer-am | aminzai 三篇翻譯 merged（腳註網址與母稿零漂移）；#1711 告警混維度修掉並上線——origin 活著，只有本機 main 推不出去，修補走 origin 分支繞過分岔；詞庫查證欠條長出自己的記號 | 推不出去的是本機那條路，不是所有路；「已決」卻說還在等，也是對外失聯 | [→](memory/2026-09-13-091222-twmd-maintainer-am.md) |
 | 2026-09-13 | 211909-twmd-routine-audit-weekly | W37 週審：71% commit 是分類器認不出的 babel 常駐調度器；分岔兩天擴大 234→292 ahead；新增 2 條 LESSONS，跳過 pull 改快轉救援分支 | 正確的 defer 不等於停滯——驅動引擎沒暫停，決策範圍就持續變大 | [→](memory/2026-09-13-211909-twmd-routine-audit-weekly.md) |
 | 2026-09-14 | 005514-twmd-babel-nightly | 分岔擴大至 299/156，唯讀模擬量出 172 真衝突（118 譯文取捨，跟 #56 一致）；150 篇零譯文條目卡十二語，補 slug-map 後重啟 dispatcher | 新文章沒有自動進翻譯佇列的入口，是三次復發同一缺口不是三次獨立小 bug | [→](memory/2026-09-14-005514-twmd-babel-nightly.md) |
+| 2026-09-14 | 011203-twmd-supporters-weekly | Checkpoint 2026-08-10 以來查 2 封候選信，FULL_CONTENT 核對後皆為 Portaly 行銷信非贊助通知；0 封合法 no-op，未觸碰既有分岔 | 範圍精準的 routine 撞到跟自己無關的分岔，正確動作是確認無交集後完全不碰 | [→](memory/2026-09-14-011203-twmd-supporters-weekly.md) |
