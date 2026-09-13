@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T08:25:04+08:00",
-    "zhCommitHead": "5e8ae13b4",
+    "lastUpdated": "2026-09-13T08:26:27+08:00",
+    "zhCommitHead": "823977af6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 984,
+        "fresh": 985,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 81,
+        "missing": 80,
         "orphan": 0
       },
       "de": {
@@ -38842,8 +38842,8 @@
           "sourceContentHash": "sha256:fd08ecfb9bac153f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T00:19:17.289632+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "823977af",
+          "translationLastModified": "2026-09-13T08:25:04+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -78293,7 +78293,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -81625,8 +81636,8 @@
           "sourceContentHash": "sha256:ffd752882b17c3c2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T23:03:10.124423+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "823977af",
+          "translationLastModified": "2026-09-13T08:25:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -168490,8 +168501,8 @@
           "sourceContentHash": "sha256:0092cb426289b426",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T22:43:23.716886+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "823977af",
+          "translationLastModified": "2026-09-13T08:25:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
