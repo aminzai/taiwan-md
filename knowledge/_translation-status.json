@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T05:08:32+08:00",
-    "zhCommitHead": "c487811f6",
+    "lastUpdated": "2026-09-14T05:09:01+08:00",
+    "zhCommitHead": "35663b812",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 842,
+        "fresh": 843,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 200,
+        "missing": 199,
         "orphan": 0
       },
       "hi": {
@@ -9743,8 +9743,8 @@
           "sourceContentHash": "sha256:700b0aadc287b607",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T20:58:55.629529+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35663b81",
+          "translationLastModified": "2026-09-14T05:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -38133,7 +38133,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taipei-bridge-motorcycle-waterfall.md",
+          "translatedFrom": "Lifestyle/台北橋機車瀑布.md",
+          "sourceCommitSha": "ab6d9937d",
+          "sourceContentHash": "sha256:46b8b4c566a9b8ad",
+          "sourceBodyHash": "sha256:261c0f7907febe33",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -51526,8 +51537,8 @@
           "sourceContentHash": "sha256:2864f529a23701fe",
           "sourceBodyHash": "sha256:c8066f344d7a7cc6",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35663b81",
+          "translationLastModified": "2026-09-14T05:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -66068,8 +66079,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35663b81",
+          "translationLastModified": "2026-09-14T05:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -135066,8 +135077,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35663b81",
+          "translationLastModified": "2026-09-14T05:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -136179,8 +136190,8 @@
           "sourceContentHash": "sha256:65e86deccc5676be",
           "sourceBodyHash": "sha256:c479bb28dd01bd12",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35663b81",
+          "translationLastModified": "2026-09-14T05:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -156594,8 +156605,8 @@
           "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
           "sourceBodyHash": "sha256:9cb502435a73e76b",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35663b81",
+          "translationLastModified": "2026-09-14T05:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
