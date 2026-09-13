@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T12:45:54+08:00",
-    "zhCommitHead": "dcbffb9f9",
+    "lastUpdated": "2026-09-13T12:53:44+08:00",
+    "zhCommitHead": "ad20e0731",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 741,
+        "fresh": 742,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 323,
+        "missing": 322,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 777,
+        "fresh": 778,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 293,
+        "missing": 292,
         "orphan": 0
       },
       "de": {
@@ -21336,7 +21336,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-mobile-payment.md",
@@ -49883,8 +49894,8 @@
           "sourceContentHash": "sha256:8427b2bc64bf300b",
           "sourceBodyHash": "sha256:d6d35035b4737919",
           "translatedAt": "2026-09-13T00:44:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ad20e073",
+          "translationLastModified": "2026-09-13T12:45:54+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -58480,7 +58491,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -124828,8 +124850,8 @@
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-09-13T00:44:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ad20e073",
+          "translationLastModified": "2026-09-13T12:45:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
