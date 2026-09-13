@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T19:21:59+08:00",
-    "zhCommitHead": "92efbf14c",
+    "lastUpdated": "2026-09-13T19:31:07+08:00",
+    "zhCommitHead": "4c309aecb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 835,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 187,
+        "missing": 186,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 755,
+        "fresh": 756,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 209,
+        "missing": 208,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 220,
+        "missing": 219,
         "orphan": 0
       },
       "hi": {
@@ -67403,8 +67403,8 @@
           "sourceContentHash": "sha256:0263a8cc3c622c00",
           "sourceBodyHash": "sha256:c88ce81293be71aa",
           "translatedAt": "2026-09-13T00:44:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -69000,7 +69000,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/indigenous-name-rectification.md",
+          "translatedFrom": "Politics/原住民族正名.md",
+          "sourceCommitSha": "2414d550b",
+          "sourceContentHash": "sha256:201301d5ef8902fa",
+          "sourceBodyHash": "sha256:64a6bc7308f455d1",
+          "translatedAt": "2026-09-13T17:52:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Politics/indigenous-name-rectification.md",
@@ -78459,8 +78470,8 @@
           "sourceContentHash": "sha256:e30095af8a74328f",
           "sourceBodyHash": "sha256:9240eda59faf09e3",
           "translatedAt": "2026-09-13T17:52:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -82742,8 +82753,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-13T00:44:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -129033,8 +129044,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T17:52:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -137934,10 +137945,32 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/lin-an-tai-historic-house.md",
+          "translatedFrom": "Geography/林安泰古厝.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:47d89dc0ac03a566",
+          "sourceBodyHash": "sha256:7079616fec64f3a7",
+          "translatedAt": "2026-09-13T17:51:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/lin-an-tai-historic-house.md",
+          "translatedFrom": "Geography/林安泰古厝.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:47d89dc0ac03a566",
+          "sourceBodyHash": "sha256:7079616fec64f3a7",
+          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -152424,8 +152457,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-13T17:52:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -159428,8 +159461,8 @@
           "sourceContentHash": "sha256:69f1aed62a2df405",
           "sourceBodyHash": "sha256:1bd762ed30b04b56",
           "translatedAt": "2026-09-13T17:52:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -159887,8 +159920,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-13T00:44:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4c309aec",
+          "translationLastModified": "2026-09-13T19:22:00+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
