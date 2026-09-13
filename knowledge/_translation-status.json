@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T21:29:45+08:00",
-    "zhCommitHead": "04711bbc6",
+    "lastUpdated": "2026-09-13T22:40:05+08:00",
+    "zhCommitHead": "dea541853",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 973,
+        "fresh": 977,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 53,
+        "missing": 49,
         "orphan": 0
       },
       "es": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 982,
+        "fresh": 983,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 57,
+        "missing": 56,
         "orphan": 0
       },
       "hi": {
@@ -18542,7 +18542,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/miin-music-app.md",
+          "translatedFrom": "Technology/迷音Miin.md",
+          "sourceCommitSha": "ce36d5427",
+          "sourceContentHash": "sha256:e317c3018b82f2b6",
+          "sourceBodyHash": "sha256:bbf79206e74e0a59",
+          "translatedAt": "2026-09-13T15:49:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -49021,8 +49032,8 @@
           "sourceContentHash": "sha256:70098b78e6d1d7cd",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T10:32:51.446571+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dea54185",
+          "translationLastModified": "2026-09-13T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -84122,7 +84133,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/li-ke-tai-tai.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-13T20:06:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/li-ke-tai-tai.md",
@@ -98351,7 +98373,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-13T20:06:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/bailingguo-news.md",
@@ -109441,8 +109474,8 @@
           "sourceContentHash": "sha256:bba68bce0e0d399e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T11:31:37.501412+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dea54185",
+          "translationLastModified": "2026-09-13T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -124783,8 +124816,8 @@
           "sourceContentHash": "sha256:1a952f594b1e4c60",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T13:11:23.868875+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dea54185",
+          "translationLastModified": "2026-09-13T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -136664,8 +136697,8 @@
           "sourceContentHash": "sha256:f62085d85cb8059c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T10:39:01.742905+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dea54185",
+          "translationLastModified": "2026-09-13T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -145155,7 +145188,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-13T20:06:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/kano-chiayi-agriculture-forestry.md",
@@ -159953,7 +159997,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/tsou-mayasvi-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-13T20:06:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/tsou-mayasvi-festival.md",
@@ -172152,8 +172207,8 @@
           "sourceContentHash": "sha256:884f32ff15212c52",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T11:19:07.490573+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dea54185",
+          "translationLastModified": "2026-09-13T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
