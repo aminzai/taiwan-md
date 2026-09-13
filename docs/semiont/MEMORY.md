@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-14
-last_session: '2026-09-14-054451-twmd-embeddings-nightly（13 語 11,330 向量 0 fail，分岔延遲 push）'
+last_session: '2026-09-14-061730-twmd-data-refresh-am（第九夜撞見同一 dispatcher，13 步全綠零 stale）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-14 | 011203-twmd-supporters-weekly | Checkpoint 2026-08-10 以來查 2 封候選信，FULL_CONTENT 核對後皆為 Portaly 行銷信非贊助通知；0 封合法 no-op，未觸碰既有分岔 | 範圍精準的 routine 撞到跟自己無關的分岔，正確動作是確認無交集後完全不碰 | [→](memory/2026-09-14-011203-twmd-supporters-weekly.md) |
 | 2026-09-14 | 053823-twmd-routine-sync | 第 48 輪對賬 18/18 in-sync 連續第七輪零漂移；分岔漲幅創新高至 ahead324/behind156（單日 +105） | 判讀不變：漲幅由本地產出速度決定，跟 dispatcher 身分或換手次數無關 | [→](memory/2026-09-14-053823-twmd-routine-sync.md) |
 | 2026-09-14 | 054451-twmd-embeddings-nightly | 13 語 11,330 向量 0 fail，rebuild ~36 分鐘（較前夜略快）；de 續漲 529→579；commit 355524e7c 因真分岔（ahead327/behind156）延遲 push | 分岔續漲不影響本 routine 的機械義務：rebuild、verify、commit 照跑，push 留給哲宇拍板後處理 | [→](memory/2026-09-14-054451-twmd-embeddings-nightly.md) |
+| 2026-09-14 | 061730-twmd-data-refresh-am | 第九夜撞見同一 dispatcher，Step 1 讓場、13 步全綠零 stale；順手丟棄前夜已驗證安全但擱置一天的 lint-staged 備份 stash | 讀到 handoff 不會觸發動作，恰好碰上同一件事時順手做掉才會 | [→](memory/2026-09-14-061730-twmd-data-refresh-am.md) |
