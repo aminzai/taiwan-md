@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T12:16:31+08:00",
-    "zhCommitHead": "903aae6a8",
+    "lastUpdated": "2026-09-13T13:10:28+08:00",
+    "zhCommitHead": "4e5bcc2cb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 806,
+        "fresh": 807,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 963,
+        "fresh": 964,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 63,
+        "missing": 62,
         "orphan": 0
       },
       "es": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 800,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 263,
+        "missing": 260,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 973,
+        "fresh": 975,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 66,
+        "missing": 64,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 885,
+        "fresh": 887,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 181,
+        "missing": 179,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 958,
+        "fresh": 959,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 102,
+        "missing": 101,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 991,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 77,
+        "missing": 74,
         "orphan": 0
       },
       "de": {
@@ -6205,7 +6205,18 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/buy123-life-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-13T05:56:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -6229,7 +6240,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/buy123-life-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -6523,7 +6545,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
+          "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:de8b86bd83c86012",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T04:31:44.852193+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -8688,7 +8721,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/economic-miracle.md",
+          "translatedFrom": "Economy/經濟奇蹟.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:97768e7e71587490",
+          "sourceBodyHash": "sha256:411e4d6f8779c88a",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -14230,8 +14274,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e5bcc2c",
+          "translationLastModified": "2026-09-13T12:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -25912,7 +25956,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-software-industry-development.md",
+          "translatedFrom": "Technology/台灣軟體產業發展.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:e6d1dafa422fe928",
+          "sourceBodyHash": "sha256:1d51e9aba96f7253",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-software-industry-development.md",
@@ -30818,8 +30873,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e5bcc2c",
+          "translationLastModified": "2026-09-13T12:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41357,7 +41412,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taipei-bus-307.md",
+          "translatedFrom": "Lifestyle/307taipeibus.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1027a26b2054b2e",
+          "sourceBodyHash": "sha256:48c6ab2b08ee901b",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taipei-bus-307.md",
@@ -42137,8 +42203,8 @@
           "sourceContentHash": "sha256:4b052a359a9d9447",
           "sourceBodyHash": "sha256:3fe6546421aedaf5",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e5bcc2c",
+          "translationLastModified": "2026-09-13T12:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -64379,8 +64445,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e5bcc2c",
+          "translationLastModified": "2026-09-13T12:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -74575,7 +74641,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chiuchiu-shoes-youtuber.md",
+          "translatedFrom": "People/啾啾鞋.md",
+          "sourceCommitSha": "9c63d8227",
+          "sourceContentHash": "sha256:4ae6e15b4e3eea8f",
+          "sourceBodyHash": "sha256:09d31f29d2008420",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chiuchiu-shoes-youtuber.md",
@@ -95995,8 +96072,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e5bcc2c",
+          "translationLastModified": "2026-09-13T12:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -110643,7 +110720,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lu-chieh-history-teacher.md",
+          "translatedFrom": "People/呂捷.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:67c5ad771d308cd6",
+          "sourceBodyHash": "sha256:6ab4993ddc7e3736",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -138363,7 +138451,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/formosa-historical-name.md",
+          "translatedFrom": "History/福爾摩沙.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:7935e86b210536e5",
+          "sourceBodyHash": "sha256:dd15e8c65b7a98f1",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/formosa-historical-name.md",
@@ -139619,7 +139718,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/port-of-taichung.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:b6e5c247e5675857",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T04:07:49.453422+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/port-of-taichung.md",
@@ -142228,8 +142338,8 @@
           "sourceContentHash": "sha256:d80f079014589543",
           "sourceBodyHash": "sha256:3441000e1e1b1dde",
           "translatedAt": "2026-09-13T05:56:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e5bcc2c",
+          "translationLastModified": "2026-09-13T12:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -149553,7 +149663,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -160114,7 +160235,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-letterpress-printing.md",
+          "translatedFrom": "Culture/台灣活版印刷.md",
+          "sourceCommitSha": "65852a65b",
+          "sourceContentHash": "sha256:5e435a8b85b32036",
+          "sourceBodyHash": "sha256:8d460cbf9b7f271d",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -163466,7 +163598,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/port-of-kaohsiung.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-13T11:04:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/port-of-kaohsiung.md",
