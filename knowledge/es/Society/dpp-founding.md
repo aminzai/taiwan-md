@@ -1,0 +1,163 @@
+---
+title: 'La fundación del Partido Democrático Progresista: en el Gran Hotel Yuanshan, cómo la oposición *tangwai* convirtió un tabú en organización'
+description: 'El 28 de septiembre de 1986, figuras de la oposición *tangwai* anunciaron la fundación del Partido Democrático Progresista en el Gran Hotel Yuanshan de Taipéi. No fue una simple presentación de nombre de partido, sino una apuesta organizativa acumulada tras años de elecciones locales, revistas de opinión política, oficinas de servicio, movilizaciones callejeras e interpelaciones parlamentarias. El artículo reconstruye las restricciones de asociación del final de la ley marcial, reconectando la Asociación de Políticas Públicas (Gongzheng Hui), la Coordinación Electoral (Bianlian Hui), el grupo secreto de formación del partido y la asamblea de Yuanshan, y explica cómo la fundación abrió la puerta a la competencia partidista sin completar la democratización ese mismo día.'
+date: 2026-08-21
+category: 'Society'
+tags:
+  [
+    'Partido Democrático Progresista',
+    'formación de partido',
+    'movimiento tangwai',
+    'ley marcial',
+    'política de partidos',
+    'Gran Hotel Yuanshan',
+    'democratización',
+    'libertad de asociación',
+  ]
+subcategory: '民主與政治'
+author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-08-21
+lastHumanReview: false
+rationale: "{'why_this_hook': '從 1986 年圓山大飯店的組黨現場切入，追蹤黨外選舉網路、地方服務處、政論刊物、秘密工作小組與有限選制如何共同把反對力量轉成公開政黨。', 'whats_excluded': '不把民進黨成立寫成單一領袖的傳記，也不把 1986 年組黨直接等同於 1987 年解嚴、1991 年國會全面改選或 2000 年政黨輪替。文中不重建無法由文章頁核對的閉門談話細節。', 'where_it_hedges': '創黨人數、組黨大會開始時間與部分現場細節在政黨自述、參與者回憶與後來整理之間有差異，正文保留來源差異，不用單一數字製造虛假的精確感。', 'whos_pushing_back': '民進黨官方敘事可能更強調突破黨禁的英雄性，制度史研究則會提醒讀者當時仍存在增額選舉、戒嚴與動員戡亂限制。文章並置兩種視角，說明組黨既是政治突破，也是在未完成制度中尋找合法性。'}"
+readingTime: 16
+curation: 'incubating'
+translatedFrom: 'Society/民主進步黨成立.md'
+sourceCommitSha: '13c7fbcdb'
+sourceContentHash: 'sha256:23cebf6a8b8bd2b2'
+sourceBodyHash: 'sha256:35243ed7adf1417f'
+translatedAt: '2026-09-13T00:44:01+08:00'
+---
+
+# La fundación del Partido Democrático Progresista: en el Gran Hotel Yuanshan, cómo la oposición _tangwai_ convirtió un tabú en organización
+
+> **Resumen en 30 segundos:** El 28 de septiembre de 1986, figuras de la oposición _tangwai_ aprovecharon una asamblea de apoyo electoral en el Gran Hotel Yuanshan de Taipéi para anunciar la fundación del Partido Democrático Progresista. En ese momento, Taiwán seguía bajo ley marcial y no existía una vía legal segura para registrar un nuevo partido. La fundación recogió años de elecciones locales, oficinas de servicio, revistas políticas, protestas callejeras, interpelaciones parlamentarias y negociaciones secretas. Para los participantes, fue una apuesta organizativa que exigía calcular el riesgo político. Transformó a la «oposición _tangwai_» —una posición política relativamente difusa— en una organización con nombre, programa, estatutos y mecanismo de candidatos, pero no eliminó ese día la ley marcial, el Parlamento vitalicio ni las restricciones de asociación. Entender esa brecha permite ver qué cambió realmente la fundación.
+
+## El Gran Hotel Yuanshan no se llamó desde el principio «asamblea de fundación»
+
+La reunión del 28 de septiembre de 1986 tenía como nombre oficial «Gran Asamblea de Recomendación de Candidatos del Comité de Apoyo Electoral _Tangwai_ de 1986». Los dirigentes _tangwai_ utilizaron una reunión que en apariencia servía a la campaña electoral para introducir en el orden del día la moción de fundación, que de otro modo no podía hacerse pública. La historia oficial del Partido Democrático Progresista describe ese día como el momento fundacional que rompió la prohibición de la ley marcial; los recuerdos posteriores de los participantes señalan, en cambio, que el lugar, el nombre y el formato de la reunión respondían a una estrategia para eludir los tabúes políticos.[^1] [^2] [^3]
+
+Ese arreglo refleja directamente el entorno político de la época. La ley marcial seguía vigente y crear un nuevo partido podía interpretarse como una violación del orden establecido. Los participantes no podían presentar «hoy venimos a fundar un partido de oposición» como una declaración ordinaria de una asociación. Incluir la fundación dentro de una asamblea de recomendación de candidatos equivalía a aprovechar una red electoral ya existente para hacer pública la organización política dentro de esa misma red. Lo primero que la fundación debía resolver era si la gente podía reunirse con seguridad, y hacer saber al exterior que esa reunión superaba el ámbito de una asamblea de apoyo ordinaria. La discusión del nombre y los estatutos debía basarse en la premisa de que la reunión no fuera interrumpida de inmediato.
+
+Distintas fuentes discrepan en el número de firmantes in situ, los detalles del procedimiento y la hora del anuncio. El artículo de la Nueva Fundación para la Paz de Taiwán (新台灣和平基金會) consigna unas 130 firmas; la línea de tiempo del Museo Nacional de Derechos Humanos (國家人權博物館) habla de 135 firmantes _tangwai_; los materiales oficiales del PDP (民進黨) ponen el acento en la fundación del 28 de septiembre y en la primera asamblea nacional de delegados de noviembre, más que en una cifra única que defina la fundación.[^1] [^2] [^3] Esas diferencias no alteran el hecho de que la fundación ocurrió, pero recuerdan al lector que la memoria política no es un censo generado automáticamente: los participantes posteriores conservan el suceso desde posiciones distintas.
+
+![El Gran Hotel Yuanshan de Taipéi, donde el Partido Democrático Progresista anunció su fundación el 28 de septiembre de 1986. Autor Bdavis545, CC BY-SA 4.0.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Taipei_Taiwan_The_Grand_Hotel.jpg/1280px-Taipei_Taiwan_The_Grand_Hotel.jpg)
+
+_Descripción de la imagen: Fotografía del Gran Hotel Yuanshan tomada por Bdavis545 en 2015, página de Wikimedia Commons con licencia CC BY-SA 4.0. La foto muestra el edificio del lugar de reunión tal como se ve hoy, no es una imagen del acto fundacional de 1986. El artículo la usa para dar un referente espacial concreto a la acción política de «aprovechar un espacio de reunión existente para hacer pública la fundación»._
+
+## «Oposición _tangwai_» es una posición, no un partido completo
+
+Antes de la fundación, a las fuerzas de oposición se les solía llamar «tangwai» (黨外, literalmente «fuera del partido»). Ese término no equivale a un nombre de organización: designa a quienes, sin militar en el Kuomintang (KMT), participaban en política a través de elecciones, parlamentos, revistas, oficinas de servicio o acciones callejeras. Investigaciones de la Academia Histórica Nacional (國史館) indican que las elecciones suplementarias de representantes centrales de los años setenta, aunque con escaños limitados, dieron a la oposición _tangwai_ y al posterior PDP un espacio de supervivencia. Estudios sobre la Asamblea Provincial (省議會) muestran que los diputados _tangwai_ interpelaron largo tiempo sobre autonomía local, renovación total del Parlamento, libertad de asociación y casos políticos, acumulando una agenda política reconocible.[^7] [^8] [^9]
+
+Las elecciones limitadas abrieron una rendija para entrar en el hemiciclo, pero también impusieron límites claros. Por un lado, la oposición podía acceder a la cámara, contactar votantes, crear oficinas de servicio, formar equipos de campaña y dar a la sociedad local la opción de plataformas distintas a las del KMT. Por otro, las elecciones suplementarias no sustituyeron a los representantes centrales vitalicios, y la ley marcial junto con la movilización para la supresión de la rebelión (動員戡亂) seguían restringiendo la organización política, la publicación y la reunión. La investigación de la Academia Histórica Nacional sobre la reforma política sitúa la fundación del PDP en 1986, el fin de la ley marcial en 1987 y la posterior reforma parlamentaria en una secuencia continua pero no idéntica de procesos reformistas. Eso significa que la fundación abrió la entrada a la competencia, no que el sistema quedara plenamente abierto.[^7]
+
+La oposición _tangwai_ de los setenta no fue solo votos. La investigación de Hsiao A-chin (蕭阿勤) apunta que los reveses diplomáticos, la cultura nativista, el «retorno a la realidad» de jóvenes intelectuales y la radicalización política tras el incidente de Kaohsiung (Meilidao, 美麗島事件) de 1979 configuraron juntos el trasfondo ideológico del movimiento _tangwai_ de los ochenta. La escritura histórica dispersa, las revistas de opinión, los debates sobre lengua y cultura y la movilización electoral se fueron convirtiendo gradualmente en una controversia pública sobre la identidad nacional, los derechos políticos y la posición de la sociedad taiwanesa.[^10]
+
+| Recursos políticos previos a la fundación                       | Función concreta                                                                                        | Conversión tras la fundación                                                                        |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Elecciones locales y oficinas de servicio                       | Contactar votantes, formar voluntarios y redes de campaña                                               | Dan lugar a sedes locales, candidatos y organización de base                                        |
+| Comités de apoyo _tangwai_                                      | Coordinar candidatos sin proclamar abiertamente la fundación                                            | Se convierten en la puerta de entrada a la asamblea fundacional pública                             |
+| Interpelaciones en la Asamblea Provincial y el Yuan Legislativo | Convertir la prohibición de partidos, derechos humanos, autonomía y sistema electoral en temas públicos | Proveen material para el programa y los debates de política del partido                             |
+| Revistas de opinión y boletines _tangwai_                       | Difundir plataformas, preservar lenguaje político y memoria de eventos                                  | Forman la comunicación externa y la formación de militantes del partido                             |
+| Movimientos callejeros y sociales                               | Llevar los temas institucionales fuera del hemiciclo                                                    | Obligan al partido a responder a expectativas de movilización y organizaciones sociales más amplias |
+
+Esta tabla no encuadra a todos los _tangwai_ en una sola fila. Los materiales de investigación muestran que entre los participantes de base local, las figuras políticas en los parlamentos, los activistas callejeros, los editores de revistas y los demócratas en el exilio, la comprensión de la democratización, la independencia de Taiwán, la estrategia electoral y la forma organizativa no era idéntica. La tesis doctoral de la Universidad Tsinghua (清華大學) sobre el movimiento _tangwai_ de base recuerda especialmente que las oficinas de servicio y la organización local fueron el canal principal de entrada a la política para las masas, y que la lógica de acción de los participantes de base no puede ser sustituida por completo por los recuerdos de unos pocos líderes fundadores.[^6]
+
+## De la Asociación de Políticas Públicas al grupo de trabajo secreto
+
+El proceso previo a la fundación incluye varias sub-organizaciones. La Nueva Fundación para la Paz de Taiwán recoge que en los setenta los equipos de apoyo _tangwai_, la Asociación de Investigación de Políticas Públicas de Funcionarios Públicos (公職人員公共政策研究會, Gongzheng Hui) y después la Coordinación Electoral (編聯會, Bianlian Hui) fueron acumulando experiencia en coordinar plataformas, candidatos y trabajo electoral. El artículo de Chiu Wan-hsing (邱萬興) en Tell Taiwan relata desde la perspectiva de un participante la interacción entre la Gongzheng Hui y la Bianlian Hui en 1986, el comité de fundación del Partido Demócrata de Taiwán en el extranjero en mayo, el grupo secreto de diez personas para la fundación que comenzó a operar en julio, y las negociaciones sobre el nombre del partido y el _Boletín Tangwai_ (黨外公報) antes y después de la asamblea de Yuanshan.[^3] [^4]
+
+Esas organizaciones no son el PDP en sí, pero proveyeron las piezas necesarias para la fundación. La Gongzheng Hui dio a los cargos públicos un espacio para intercambiar políticas; la Bianlian Hui conectó la información de distintos candidatos y localidades; las oficinas de servicio ofrecieron a los simpatizantes un punto de acceso fijo. La existencia del grupo de trabajo secreto muestra que los participantes debieron re-coordinar firmas, programa, estatutos y representación de facciones bajo riesgo político. Los censos previos solo podían dar un punto de partida, no convertirse directamente en la organización completa del nuevo partido.
+
+El nombre «Democrático Progresista» no surgió como un eslogan natural. Tanto la síntesis de Tell Taiwan como la de la Fundación para la Paz sitúan la negociación del nombre en el núcleo del proceso previo y posterior a la fundación. El nombre debía ser lo bastante amplio para que distintas facciones _tangwai_ pudieran entrar juntas, y lo bastante claro para que el electorado supiera que no era un comité de apoyo temporal. La negociación del nombre gestionó a la vez la línea política: puso la democracia institucional y el progreso social bajo una misma bandera, pero no eliminó el día de la fundación las diferencias entre los miembros sobre la definición nacional, la acción callejera y la estrategia electoral.[^3] [^4]
+
+## La acción política de la asamblea de Yuanshan
+
+Lo verdaderamente decisivo el 28 de septiembre de 1986 fue cambiar «estamos en la oposición _tangwai_» por «fundamos un partido político». Ese cambio tiene tres niveles. Primero, la oposición obtuvo un nombre reconocible para el electorado. Segundo, la organización pudo dotarse de programa y estatutos, pasando de la coordinación provisional a la operación continua. Tercero, la candidatura dejó de ser acción individual o de comités locales de apoyo para poder integrarse en una estrategia común de partido.
+
+La historia oficial del PDP consigna que tras la fundación, el 10 de noviembre de 1986 se celebró en el Hotel Huanya (環亞大飯店) la primera asamblea nacional de delegados, que aprobó programa, estatutos y reglamento de arbitraje disciplinario, y eligió al primer presidente del partido. Ese intervalo temporal importa. El 28 de septiembre fue el anuncio de fundación; noviembre fijó las reglas organizativas, los delegados y los procedimientos disciplinarios. El anuncio fue solo el punto de partida. Lo siguiente requirió estatutos y procedimientos para meter a personas distintas en una organización capaz de operar de forma sostenida.[^1]
+
+Tampoco el primer programa debe leerse hacia atrás desde las políticas posteriores del partido. El PDP de 1986 afrontaba como problema prioritario cómo sobrevivir bajo ley marcial, prohibición de partidos y elecciones limitadas, y cómo volver la democracia, la libertad, los derechos humanos y la justicia social en un lenguaje común transmisible. Después fue corrigiendo su posicionamiento nacional, las relaciones a ambos lados del estrecho, la política social y la responsabilidad de gobierno; no puede tratarse la declaración fundacional de 1986 como un plano de gobierno completo escrito de antemano. La ficha del PDP en CALD (Council of Asian Liberals and Democrats) sitúa al partido en el contexto de la amenaza autoritaria de la ley marcial y la posterior consolidación democrática, lo que respalda esa lectura por fases.[^5]
+
+![Logotipo del Partido Democrático Progresista, proveniente del sistema de identidad del PDP, imagen de Wikimedia Commons calificada como de dominio público por no alcanzar el umbral de originalidad.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_Democratic_Progressive_Party_Logo.svg/1280px-The_Democratic_Progressive_Party_Logo.svg.png)
+
+_Descripción de la imagen: La página de Wikimedia Commons califica este logotipo como de dominio público por no alcanzar el umbral de originalidad para derechos de autor, y advierte que en algunas jurisdicciones pueden existir restricciones de marca registrada. El artículo lo usa como símbolo identificativo del partido, sin afirmar que represente la visual original de 1986._
+
+## De Yuanshan al hemiciclo: cómo la organización obtiene posición institucional
+
+![Placa de la sede central del Partido Democrático Progresista, fuente Voice of America, imagen de Wikimedia Commons calificada como de dominio público.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%E6%B0%91%E9%80%B2%E9%BB%A8%E4%B8%AD%E5%A4%AE%E9%BB%A8%E9%83%A8.jpg/1280px-%E6%B0%91%E9%80%B2%E9%BB%A8%E4%B8%AD%E5%A4%AE%E9%BB%A8%E9%83%A8.jpg)
+
+_Descripción de la imagen: La página de Wikimedia Commons califica esta foto de la sede central del PDP como de dominio público, fuente Voice of America, subida por KOKUYO. La foto es posterior a la fundación y muestra la fase en que el partido forma un espacio administrativo fijo. Completa la transición espacial desde la asamblea fundacional provisional hasta la operación partidaria cotidiana._
+
+![Edificio del hemiciclo del Yuan Legislativo, autor Yu tptw, CC BY-SA 4.0.](https://commons.wikimedia.org/wiki/Special:FilePath/Legislative_Yuan_Assembly_Hall_20240626.jpg?width=1280)
+
+_Descripción de la imagen: Fotografía del edificio del hemiciclo del Yuan Legislativo tomada por Yu tptw en 2024, página de Wikimedia Commons con licencia CC BY-SA 4.0. La foto es actual y muestra el espacio institucional al que la oposición fundada debió enfrentarse. Sirve para ilustrar cómo las redes callejeras y locales entraron en la cámara, sometiéndose a procedimientos parlamentarios, negociaciones de grupo parlamentario y rendición de cuentas pública._
+
+La asamblea de Yuanshan completó el anuncio organizativo; el hemiciclo exige al partido convertir el anuncio en trabajo político verificable. Los candidatos deben presentar plataformas, el grupo parlamentario gestionar votaciones, las sedes locales responder a votantes, la dirección central repartir recursos entre facciones. Esas tareas transforman la «oposición» de emoción compartida en responsabilidad pública continua, y obligan al partido a enfrentar las expectativas concretas de sus simpatizantes sobre derechos humanos, autonomía local y reforma constitucional. La reforma parlamentaria tampoco se completó el día de la fundación. La experiencia institucional se fue acumulando paso a paso en ese trabajo cotidiano.
+
+## Tras la fundación, el sistema no se volvió de golpe en competencia abierta
+
+La primera realidad tras la fundación fue tener que presentarse bajo el viejo sistema. La investigación de la Academia Histórica Nacional cita la elección del presidente del Yuan Legislativo de 1987, en la que las candidatas del recién fundado PDP, Hsu Jung-shu (許榮淑) y Wu Shu-chen (吳淑珍), participaron en la votación. Esa escena ya parece política multipartidista, pero ocurría todavía en un Parlamento donde coexistían representantes suplementarios y centrales vitalicios. La entrada del PDP en la cámara no significaba que todos los escaños hubieran sido reelegidos por el pueblo taiwanés.[^7]
+
+La entrada del PDP en la Encyclopaedia Britannica trata por separado la fundación de 1986, el fin de la ley marcial en 1987, la primera participación electoral como partido organizado en 1989 y la posterior evolución de escaños. Esa periodización ayuda a evitar una simplificación frecuente: presentar la fundación de 1986 como el final instantáneo de la democratización. Una formulación más precisa: la fundación creó primero al competidor; el fin de la ley marcial cambió el riesgo político; la reforma de la censura y el sistema editorial amplió la transmisión pública; la reforma parlamentaria reprocesó la representatividad; y solo al final se formó una competencia partidista comparativamente completa.[^5]
+
+## El significado histórico del primer gran partido de oposición
+
+La importancia de la fundación del PDP no radica solo en si después llegó al gobierno central. Su significado más temprano fue dar forma organizativa a la política de oposición. Sin partido, la oposición tiende a fragmentarse en candidatos individuales, facciones locales, editores de revistas o protagonistas de casos puntuales. Tras la fundación, el electorado puede identificar un emblema común, los militantes participar en procedimientos internos, los candidatos aceptar coordinación programática y organizativa, y el gobierno verse obligado a tratar a quienes antes llamaba «tangwai» como un adversario político duradero.
+
+Tras la partidización, la movilización social original se convirtió en nueva responsabilidad organizativa. La fuerza del movimiento _tangwai_ venía de diversas organizaciones sociales y temas públicos; al partidizarse, la organización debe hacer nominación de candidatos, gestión de disciplina, asignación de recursos y priorización de políticas. Los activistas callejeros pueden exigir rupturas institucionales más rápidas, la organización local puede priorizar servicio y votos, la dirección interna debe mantener la cooperación transversal. La fundación concentró a la fuerza de oposición y, al mismo tiempo, hizo más visibles sus diferencias internas.
+
+Por tanto, el 28 de septiembre de 1986 debe entenderse como una puerta, no como el punto final de la historia democrática. El espacio del Gran Hotel Yuanshan permitió a un grupo que no podía fundar partido abiertamente completar el anuncio público, pero aún hicieron falta las posteriores asambleas de delegados, elecciones, interpelaciones parlamentarias, movimientos sociales y reformas institucionales para que la competencia partidista pasara de una apuesta arriesgada a la política cotidiana. Su valor histórico no está en atribuir todos los logros democráticos a un solo partido, sino en señalar cómo la democracia taiwanesa se fue construyendo capa a capa desde redes locales, lenguaje público, elecciones restringidas y acción organizativa.
+
+## Ficha de eventos
+
+| Fecha o período | Evento                                                                                                              | Significado político verificable                                                                     |
+| --------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Años 70         | Acumulación de equipos de apoyo _tangwai_, oficinas de servicio locales e interpelaciones en la Asamblea Provincial | La política de oposición empieza a tener entradas fijas en elecciones, parlamentos y sociedad local  |
+| Tras 1979       | Incidente de Kaohsiung (Meilidao) y presión política posterior transforman el movimiento _tangwai_                  | La organización y la narrativa histórica de la oposición se vuelven más tensas y más públicas        |
+| 1984–1986       | Negociaciones entre Gongzheng Hui, Bianlian Hui y grupo secreto de fundación                                        | La red de apoyo electoral existente gira hacia la preparación organizativa de un partido formal      |
+| 1986-09-28      | Anuncio de fundación del PDP en el Gran Hotel Yuanshan                                                              | La posición _tangwai_ se convierte en organización política pública con nombre de partido            |
+| 1986-11-10      | Primera asamblea nacional de delegados                                                                              | Programa, estatutos y reglamento disciplinario fijan las reglas organizativas                        |
+| 1987-07-15      | Gobierno anuncia el fin de la ley marcial                                                                           | El riesgo político y el espacio de actividad pública tras la fundación empiezan a cambiar            |
+| 1989            | PDP participa en elecciones como partido organizado                                                                 | La competencia partidista pasa del anuncio fundacional a la operación electoral sostenida            |
+| 1991–1992       | Renovación total del Parlamento e impulso de reformas constitucionales                                              | El problema de la representatividad tras la fundación entra en fase de reconstrucción institucional  |
+| 2000            | Primera alternancia partidista en el gobierno central                                                               | La capacidad competitiva acumulada tras la fundación se convierte en posibilidad de gobierno central |
+
+## Referencias
+
+La historia de la fundación requiere leer a la vez la historia oficial del partido, la memoria de participantes, la investigación académica y los materiales institucionales. La página oficial del PDP provee la auto-comprensión organizativa; los artículos de Chiu Wan-hsing y la Fundación para la Paz completan la perspectiva de participantes y redes de apoyo; la investigación de la Academia Histórica Nacional sitúa la fundación en el contexto de elecciones suplementarias, Asamblea Provincial _tangwai_ y línea de reforma nacional. Leer solo uno de esos tipos de fuentes convierte fácilmente el artículo en texto conmemorativo de partido, memoria personal o panorámica abstracta de la democratización.
+
+El lector debe notar también que la fundación de 1986 y el PDP posterior no son la misma entidad política idéntica. La organización se ajusta en elecciones, enmiendas constitucionales, movimientos sociales y experiencia de gobierno. El valor de investigar la historia de la fundación está precisamente en desmontar la competencia partidista que hoy damos por sentada y devolverla al riesgo de entonces: bajo ley marcial aún no levantada, decir públicamente «fundamos un partido» era en sí un desafío a la potestad del Estado de limitar quién puede organizarse y quién puede representar al pueblo.
+
+La fundación reorientó también la dirección de la responsabilidad política. Bajo la ley marcial, el gobierno podía encuadrar muchos problemas públicos en seguridad, anticomunismo o gestión administrativa, mientras la oposición solía asumir la presión a título personal. Tras la fundación, candidatos, presidente del partido, delegados y sedes deben responder por reivindicaciones comunes. Eso hace el conflicto político más visible y obliga a la organización a no depender solo del prestigio del líder. El programa debe responder por la dirección nacional, los estatutos gestionar el poder interno, la organización local enfrentar al electorado, el grupo parlamentario traducir las exigencias callejeras a lenguaje legal y presupuestario. Esas tareas no se completan automáticamente con el anuncio de Yuanshan, pero son la prueba real de si el partido puede convertirse en parte del sistema democrático.
+
+Desde ese ángulo, la relación entre la fundación del PDP y la democratización taiwanesa no debe resumirse solo en «nace un partido de oposición». Fue a la vez el inicio de la organización de movimientos sociales, la institucionalización de la competencia electoral y la redistribución de la legitimidad estatal. Los _tangwai_ antes debían moverse en espacios limitados; tras la fundación pudieron exigir al gobierno responder a una organización política duradera. El gobierno ya no pudo tratar la disidencia como eventos aislados, porque el partido acumula temas, preserva registros, forma candidatos y extiende una protesta en exigencia de política para la siguiente elección. Esa acumulación fue la que permitió que la apertura posterior a 1987 tuviera organizaciones capaces de recibirla.
+
+Por tanto, la fundación de 1986 no fue que un solo partido completara la democratización, ni un episodio anexo del final de la ley marcial. Concentró los recursos políticos dispersos en lo local, los parlamentos, las revistas y la calle, haciendo aparecer en la sociedad taiwanesa un adversario capaz de competir a largo plazo con el partido de gobierno. El posterior fin de la ley marcial, la renovación total del Parlamento, la elección presidencial directa y la alternancia partidista deben entenderse a partir de ese giro organizativo.
+
+[^1]: [Partido Democrático Progresista: Historia del Partido Democrático Progresista](https://www.dpp.org.tw/about/history_1) — Página oficial de historia del PDP, recopila fecha de fundación, primera asamblea nacional de delegados y desarrollo organizativo temprano.
+
+[^2]: [Museo Nacional de Derechos Humanos: Democratic Progressive Party Founded](https://8964museum.com/time/en/t-b08-002/) — Línea de tiempo de eventos del Museo Nacional de Derechos Humanos, registra trasfondo de la fundación, número de firmantes y restricciones políticas de la época de ley marcial.
+
+[^3]: [Nueva Fundación para la Paz de Taiwán: Efemérides: Fundación del Partido Democrático Progresista](https://www.twpeace.org.tw/wordpress/?p=3060) — A partir de materiales de historia del movimiento democrático taiwanés, reconstruye el contexto de comités de apoyo, negociaciones organizativas y asamblea de Yuanshan antes y después de la fundación.
+
+[^4]: [Tell Taiwan / Chiu Wan-hsing: Efemérides del 9/28: Fundación del Partido Democrático Progresista en 1986](https://www.telltaiwan.org/16709) — Desde la perspectiva de participante e investigador, sintetiza el grupo secreto de diez personas, la negociación del nombre y el proceso organizativo político antes y después de la fundación.
+
+[^5]: [Encyclopaedia Britannica: Democratic Progressive Party](https://www.britannica.com/topic/Democratic-Progressive-Party-political-party-Taiwan) — Entrada de contexto en inglés, explica por fases la fundación del PDP, el fin de la ley marcial, la participación electoral y el posterior desarrollo partidista.
+
+[^6]: [Ho Meng-hua: Movimiento _tangwai_ de base y fundación del Partido Democrático Progresista](https://www.airitilibrary.com/Article/Detail/U0016-0901201710380194) — Material de tesis doctoral, analiza desde la oficina de servicio local y el participante de base cómo el movimiento _tangwai_ caminó hacia la fundación.
+
+[^7]: [Jen Yu-te: Chiang Ching-kuo y la política local de Taiwán](https://presidentialcck.drnh.gov.tw/article.php?access=PATA00025/92f0ff3f) — Artículo de investigación de la Academia Histórica Nacional, explica el trasfondo institucional de elecciones suplementarias, política local y reforma política de los ochenta.
+
+[^8]: [Hsueh Hua-yuan: Continuidad y ruptura en la línea de reforma política y el posicionamiento nacional: de Chiang Ching-kuo a Lee Teng-hui](https://presidentiallth.drnh.gov.tw/article.php?access=PATA00099/17848fa5) — Investigación de historia institucional de la Academia Histórica Nacional, analiza la continuidad y el cambio en la reforma política pre y post ley marcial, el posicionamiento nacional y la línea de democratización.
+
+[^9]: [Su Jui-chiang: Diálogo democrático entre diputados provinciales _tangwai_ y el gobernador provincial Lee Teng-hui (1981–1984)](https://presidentiallth.drnh.gov.tw/article.php?access=PATA00093/0f87f8f7) — Artículo de la Academia Histórica Nacional, muestra a través de la interacción en la Asamblea Provincial cómo los diputados _tangwai_ acumularon temas de autonomía, derechos humanos y reforma democrática.
+
+[^10]: [Hsiao A-chin: Construcción histórica del _tangwai_ en los años 1970–1980](https://presidentialcck.drnh.gov.tw/article.php?access=PATA00044/844b3fde) — Artículo académico de la Academia Histórica Nacional, discute la formación del pensamiento y la narrativa histórica _tangwai_ tras reveses diplomáticos, cultura nativista e incidente de Kaohsiung (Meilidao).
+
+## Lecturas complementarias
+
+- Partido Democrático Progresista, 〈Historia del Partido Democrático Progresista〉, https://www.dpp.org.tw/about/history_1
+- Hsueh Hua-yuan, 〈Continuidad y ruptura en la línea de reforma política y el posicionamiento nacional: de Chiang Ching-kuo a Lee Teng-hui〉, https://presidentiallth.drnh.gov.tw/article.php?access=PATA00099/17848fa5
+- Su Jui-chiang, 〈Diálogo democrático entre diputados provinciales _tangwai_ y el gobernador provincial Lee Teng-hui (1981-1984)〉, https://presidentiallth.drnh.gov.tw/article.php?access=PATA00093/0f87f8f7
+- Tell Taiwan, 〈Efemérides del 9/28: Fundación del Partido Democrático Progresista en 1986〉, https://www.telltaiwan.org/16709
