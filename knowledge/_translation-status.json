@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T07:58:50+08:00",
-    "zhCommitHead": "1dea76243",
+    "lastUpdated": "2026-09-13T08:08:26+08:00",
+    "zhCommitHead": "20d244f80",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 790,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 272,
+        "missing": 270,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 965,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 75,
+        "missing": 74,
         "orphan": 0
       },
       "hi": {
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 945,
+        "fresh": 946,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 115,
+        "missing": 114,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 983,
+        "fresh": 984,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 82,
+        "missing": 81,
         "orphan": 0
       },
       "de": {
@@ -8036,13 +8036,35 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -16815,8 +16837,8 @@
           "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
           "sourceBodyHash": "sha256:854e7c117a8a7154",
           "translatedAt": "2026-09-13T05:56:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "20d244f8",
+          "translationLastModified": "2026-09-13T07:58:58+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -21283,7 +21305,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/instagram-in-taiwan.md",
+          "translatedFrom": "Technology/IG.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a7ab7951cc810aea",
+          "sourceBodyHash": "sha256:584e7ee9d0c2d903",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/instagram-in-taiwan.md",
@@ -36542,7 +36575,18 @@
           "reason": "sha-lost-hash-mismatch"
         },
         "id": {
-          "status": "missing"
+          "path": "id/resources/mini-taiwan-pulse.md",
+          "translatedFrom": "resources/mini-taiwan-pulse.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
+          "sourceBodyHash": "sha256:215016d553b05404",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/resources/mini-taiwan-pulse.md",
@@ -95528,8 +95572,8 @@
           "sourceContentHash": "sha256:bfcd5767d7b581f0",
           "sourceBodyHash": "sha256:7d79b5e0261f5aba",
           "translatedAt": "2026-09-13T05:56:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "20d244f8",
+          "translationLastModified": "2026-09-13T07:58:58+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -123818,8 +123862,8 @@
           "sourceContentHash": "sha256:57f52a38fd360a40",
           "sourceBodyHash": "sha256:4f0ef8c28469111c",
           "translatedAt": "2026-09-13T05:56:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "20d244f8",
+          "translationLastModified": "2026-09-13T07:58:58+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -135769,7 +135813,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/grand-hotel-taipei.md",
+          "translatedFrom": "History/圓山大飯店.md",
+          "sourceCommitSha": "322a566a3",
+          "sourceContentHash": "sha256:51ee9e5cce591488",
+          "sourceBodyHash": "sha256:eba4f32a0cfd42a7",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/grand-hotel-taipei.md",
@@ -142834,7 +142889,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/orchid-island-nuclear-waste.md",
+          "translatedFrom": "History/蘭嶼核廢料.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:65e86deccc5676be",
+          "sourceBodyHash": "sha256:c479bb28dd01bd12",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/orchid-island-nuclear-waste.md",
@@ -149160,18 +149226,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-13T05:56:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -151196,8 +151251,8 @@
           "sourceContentHash": "sha256:eca62ab119321799",
           "sourceBodyHash": "sha256:6e4c77ec70105e99",
           "translatedAt": "2026-09-13T05:56:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "20d244f8",
+          "translationLastModified": "2026-09-13T07:58:58+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -175250,8 +175305,8 @@
           "sourceContentHash": "sha256:15d6246d744f90bf",
           "sourceBodyHash": "sha256:227017306bf0c999",
           "translatedAt": "2026-09-13T05:56:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "20d244f8",
+          "translationLastModified": "2026-09-13T07:58:58+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
