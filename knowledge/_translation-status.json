@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T13:20:28+08:00",
-    "zhCommitHead": "18cf87768",
+    "lastUpdated": "2026-09-13T13:30:39+08:00",
+    "zhCommitHead": "683a03e56",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 64,
+        "missing": 63,
         "orphan": 0
       },
       "hi": {
@@ -8727,8 +8727,8 @@
           "sourceContentHash": "sha256:97768e7e71587490",
           "sourceBodyHash": "sha256:411e4d6f8779c88a",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "683a03e5",
+          "translationLastModified": "2026-09-13T13:20:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -33183,7 +33183,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/weiwuying-arts-center.md",
+          "translatedFrom": "Art/衛武營.md",
+          "sourceCommitSha": "7fddc5077",
+          "sourceContentHash": "sha256:839c2636244d1802",
+          "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/weiwuying-arts-center.md",
@@ -110726,8 +110737,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "683a03e5",
+          "translationLastModified": "2026-09-13T13:20:29+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -111060,8 +111071,8 @@
           "sourceContentHash": "sha256:2e7abe81d37d5763",
           "sourceBodyHash": "sha256:42bdb5d4361f8a68",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "683a03e5",
+          "translationLastModified": "2026-09-13T13:20:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -157788,8 +157799,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "683a03e5",
+          "translationLastModified": "2026-09-13T13:20:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -160252,8 +160263,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-13T05:56:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "683a03e5",
+          "translationLastModified": "2026-09-13T13:20:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
