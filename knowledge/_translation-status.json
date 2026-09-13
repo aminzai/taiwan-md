@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T12:15:20+08:00",
-    "zhCommitHead": "4f8ab1c0b",
+    "lastUpdated": "2026-09-13T12:45:54+08:00",
+    "zhCommitHead": "dcbffb9f9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 827,
+        "fresh": 828,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "ja": {
@@ -36,34 +36,34 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 196,
+        "missing": 195,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 820,
+        "fresh": 821,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 204,
+        "missing": 203,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 820,
+        "fresh": 821,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 201,
+        "missing": 200,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 741,
+        "fresh": 742,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "id": {
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 808,
+        "fresh": 809,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 679,
+        "fresh": 681,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 395,
+        "missing": 393,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 776,
+        "fresh": 777,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 294,
+        "missing": 293,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 535,
+        "fresh": 536,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 579,
+        "missing": 578,
         "orphan": 0
       }
     },
@@ -21249,7 +21249,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-mobile-payment.md",
@@ -21280,22 +21291,66 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -49822,7 +49877,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/national-museum-of-taiwan-history.md",
+          "translatedFrom": "Society/國立臺灣歷史博物館.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55704,8 +55770,8 @@
           "sourceContentHash": "sha256:dcd392c480a1e7a1",
           "sourceBodyHash": "sha256:a0a8f64f629c96f3",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dcbffb9f",
+          "translationLastModified": "2026-09-13T12:15:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -58351,7 +58417,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -58360,10 +58437,32 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -73561,7 +73660,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/canglan-ge.md",
+          "translatedFrom": "People/蒼藍鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:1a1a9598d9221fe9",
+          "sourceBodyHash": "sha256:74a863b5d0baa755",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/canglan-ge.md",
@@ -73570,8 +73680,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dcbffb9f",
+          "translationLastModified": "2026-09-13T12:15:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -87488,8 +87598,8 @@
           "sourceContentHash": "sha256:0feccf50e70e790f",
           "sourceBodyHash": "sha256:bec1cc9ae32ba029",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dcbffb9f",
+          "translationLastModified": "2026-09-13T12:15:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -144326,8 +144436,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dcbffb9f",
+          "translationLastModified": "2026-09-13T12:15:21+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -155845,8 +155955,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dcbffb9f",
+          "translationLastModified": "2026-09-13T12:15:21+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
