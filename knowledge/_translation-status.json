@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T06:23:03+08:00",
-    "zhCommitHead": "977943457",
+    "lastUpdated": "2026-09-14T06:56:19+08:00",
+    "zhCommitHead": "2c3b80261",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 188,
+        "missing": 187,
         "orphan": 0
       },
       "ko": {
@@ -41805,7 +41805,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/taiwan-national-health-insurance.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:68c1aee34edc608c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T22:52:12.373525+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-national-health-insurance.md",
@@ -117869,8 +117880,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-13T15:49:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2c3b8026",
+          "translationLastModified": "2026-09-14T06:23:04+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -127386,8 +127397,8 @@
           "sourceContentHash": "sha256:883e6019ba168229",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T22:15:54.439579+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2c3b8026",
+          "translationLastModified": "2026-09-14T06:23:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
