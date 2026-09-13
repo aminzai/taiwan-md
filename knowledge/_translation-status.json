@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T09:41:05+08:00",
-    "zhCommitHead": "48e86398a",
+    "lastUpdated": "2026-09-13T09:43:03+08:00",
+    "zhCommitHead": "870fb4f96",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 533,
+        "fresh": 534,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 581,
+        "missing": 580,
         "orphan": 0
       }
     },
@@ -8252,7 +8252,18 @@
           "diffSummary": "+2 -2"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/pxmart-supermarket.md",
+          "translatedFrom": "Economy/全聯福利中心.md",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:6ebac68ebf527a7d",
+          "sourceBodyHash": "sha256:cf4e3b7d187326d2",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36035,8 +36046,8 @@
           "sourceContentHash": "sha256:112b7f69f9a52776",
           "sourceBodyHash": "sha256:ee5f05761a053be1",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "870fb4f9",
+          "translationLastModified": "2026-09-13T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -39782,8 +39793,8 @@
           "sourceContentHash": "sha256:ba22e1d88e87855f",
           "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "870fb4f9",
+          "translationLastModified": "2026-09-13T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -117687,8 +117698,8 @@
           "sourceContentHash": "sha256:a3b67c4182d26ac8",
           "sourceBodyHash": "sha256:2b263b9afd2d2815",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "870fb4f9",
+          "translationLastModified": "2026-09-13T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -129222,8 +129233,8 @@
           "sourceContentHash": "sha256:de11aad3f14ac9df",
           "sourceBodyHash": "sha256:64f1c0f569ea5a00",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "870fb4f9",
+          "translationLastModified": "2026-09-13T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -148088,8 +148099,8 @@
           "sourceContentHash": "sha256:2cedbbfcbfc952b5",
           "sourceBodyHash": "sha256:d7c1a96e25224b11",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "870fb4f9",
+          "translationLastModified": "2026-09-13T09:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
