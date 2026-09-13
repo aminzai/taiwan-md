@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T13:36:14+08:00",
-    "zhCommitHead": "3327c25f4",
+    "lastUpdated": "2026-09-13T14:14:35+08:00",
+    "zhCommitHead": "a94ff7c63",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 965,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "es": {
@@ -68,42 +68,42 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 803,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 259,
+        "missing": 257,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 68,
         "metadata_stale": 14,
-        "missing": 64,
+        "missing": 63,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 887,
+        "fresh": 888,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 179,
+        "missing": 178,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 959,
+        "fresh": 961,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 101,
+        "missing": 99,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 992,
+        "fresh": 994,
         "stale": 46,
         "metadata_stale": 10,
-        "missing": 73,
+        "missing": 71,
         "orphan": 0
       },
       "de": {
@@ -12956,7 +12956,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/compal-electronics-global-odm-leader.md",
+          "translatedFrom": "Economy/台灣企業：仁寶電腦.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:0a05f936441dbbcf",
+          "sourceBodyHash": "sha256:aead7a66c3b88ec5",
+          "translatedAt": "2026-09-13T05:56:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/compal-electronics-global-odm-leader.md",
@@ -16267,7 +16278,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/pegatron-the-invisible-manufacturing-giant.md",
+          "translatedFrom": "Economy/台灣企業：和碩聯合.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:dc67a77228383374",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T05:41:27.168997+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/pegatron-the-invisible-manufacturing-giant.md",
@@ -16922,7 +16944,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/yahoo-kimo-taiwan.md",
+          "translatedFrom": "Economy/Yahoo-kimo.md",
+          "sourceCommitSha": "77e6f2321",
+          "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
+          "sourceBodyHash": "sha256:854e7c117a8a7154",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/yahoo-kimo-taiwan.md",
@@ -19427,7 +19460,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/junyi-academy.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:b71f8a565a04196b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T05:56:35.373924+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -31882,8 +31926,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-13T08:08:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a94ff7c6",
+          "translationLastModified": "2026-09-13T13:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -37872,8 +37916,8 @@
           "sourceContentHash": "sha256:8099a54c43948775",
           "sourceBodyHash": "sha256:3422a46a0cbc8816",
           "translatedAt": "2026-09-13T08:08:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a94ff7c6",
+          "translationLastModified": "2026-09-13T13:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -55310,7 +55354,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/energy-poverty-and-cooling.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-13T13:36:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/energy-poverty-and-cooling.md",
@@ -98625,7 +98680,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ruby-lin.md",
+          "translatedFrom": "People/林心如.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1b202e80c7e4a1d",
+          "sourceBodyHash": "sha256:74473841bc53291c",
+          "translatedAt": "2026-09-13T05:56:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/ruby-lin.md",
@@ -117271,7 +117337,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/lin-yu-ting-boxer.md",
+          "translatedFrom": "People/林郁婷.md",
+          "sourceCommitSha": "c0f587606",
+          "sourceContentHash": "sha256:322fadf3d54cf027",
+          "sourceBodyHash": "sha256:5a14ed890fa46c36",
+          "translatedAt": "2026-09-13T05:56:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/lin-yu-ting-boxer.md",
@@ -163626,8 +163703,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-13T11:04:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a94ff7c6",
+          "translationLastModified": "2026-09-13T13:36:14+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -169269,7 +169346,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-cultural-creative-park-development.md",
+          "translatedFrom": "Culture/台灣文化創意園區發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:e1fa112b66596f53",
+          "sourceBodyHash": "sha256:fb4423c4414816f5",
+          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-cultural-creative-park-development.md",
@@ -176077,7 +176165,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/national-taiwan-museum.md",
+          "translatedFrom": "Culture/國立臺灣博物館.md",
+          "sourceCommitSha": "4ce29d97d",
+          "sourceContentHash": "sha256:b0294f51e65e00c0",
+          "sourceBodyHash": "sha256:1f1dbba771873780",
+          "translatedAt": "2026-09-13T05:56:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
