@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T16:56:08+08:00",
-    "zhCommitHead": "d6074bb0b",
+    "lastUpdated": "2026-09-13T17:06:01+08:00",
+    "zhCommitHead": "d0d949756",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 224,
+        "missing": 223,
         "orphan": 0
       },
       "hi": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 786,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 285,
+        "missing": 284,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 541,
+        "fresh": 542,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 573,
+        "missing": 572,
         "orphan": 0
       }
     },
@@ -36432,8 +36432,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0d94975",
+          "translationLastModified": "2026-09-13T16:56:08+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -43006,8 +43006,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0d94975",
+          "translationLastModified": "2026-09-13T16:56:08+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -135121,8 +135121,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0d94975",
+          "translationLastModified": "2026-09-13T16:56:08+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -145239,7 +145239,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/losheng-sanatorium.md",
+          "translatedFrom": "Geography/樂生療養院.md",
+          "sourceCommitSha": "4b946c51d",
+          "sourceContentHash": "sha256:97323b56bde19cd4",
+          "sourceBodyHash": "sha256:1cf3a8a560e00934",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -151944,7 +151955,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwanese-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -151953,7 +151975,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwanese-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
