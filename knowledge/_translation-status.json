@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T22:20:53+08:00",
-    "zhCommitHead": "f2ac8ab7c",
+    "lastUpdated": "2026-09-14T22:26:45+08:00",
+    "zhCommitHead": "8d30425d6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 847,
+        "fresh": 848,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "de": {
@@ -32723,8 +32723,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d30425d",
+          "translationLastModified": "2026-09-14T22:20:53+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46311,8 +46311,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d30425d",
+          "translationLastModified": "2026-09-14T22:20:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -77674,8 +77674,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d30425d",
+          "translationLastModified": "2026-09-14T22:20:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -105281,8 +105281,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d30425d",
+          "translationLastModified": "2026-09-14T22:20:53+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -153524,8 +153524,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d30425d",
+          "translationLastModified": "2026-09-14T22:20:53+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -153541,7 +153541,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -159933,8 +159944,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d30425d",
+          "translationLastModified": "2026-09-14T22:20:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
