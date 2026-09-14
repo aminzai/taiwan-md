@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T23:15:53+08:00",
-    "zhCommitHead": "e4b635f49",
+    "lastUpdated": "2026-09-14T23:43:44+08:00",
+    "zhCommitHead": "0909851fc",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 812,
+        "fresh": 813,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "id": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 848,
+        "fresh": 849,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 222,
+        "missing": 221,
         "orphan": 0
       },
       "de": {
@@ -9064,7 +9064,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwan-sugar-industry.md",
@@ -9073,8 +9084,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0909851f",
+          "translationLastModified": "2026-09-14T23:15:53+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -46425,8 +46436,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0909851f",
+          "translationLastModified": "2026-09-14T23:15:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -77788,8 +77799,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0909851f",
+          "translationLastModified": "2026-09-14T23:15:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -155935,7 +155946,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwan-letterpress-printing.md",
+          "translatedFrom": "Culture/台灣活版印刷.md",
+          "sourceCommitSha": "65852a65b",
+          "sourceContentHash": "sha256:5e435a8b85b32036",
+          "sourceBodyHash": "sha256:8d460cbf9b7f271d",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -160080,8 +160102,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0909851f",
+          "translationLastModified": "2026-09-14T23:15:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
