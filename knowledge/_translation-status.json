@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T10:17:41+08:00",
-    "zhCommitHead": "e099df95c",
+    "lastUpdated": "2026-09-14T10:24:10+08:00",
+    "zhCommitHead": "17d7ef310",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 873,
+        "fresh": 874,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 153,
+        "missing": 152,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 881,
+        "fresh": 882,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 148,
+        "missing": 147,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 867,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 155,
+        "missing": 154,
         "orphan": 0
       },
       "vi": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 713,
+        "fresh": 714,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 361,
+        "missing": 360,
         "orphan": 0
       },
       "ar": {
@@ -17156,7 +17156,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -17168,8 +17179,8 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17d7ef31",
+          "translationLastModified": "2026-09-14T10:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -24729,8 +24740,8 @@
           "sourceContentHash": "sha256:7e79f4d7834c55c1",
           "sourceBodyHash": "sha256:e24305e511c42507",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17d7ef31",
+          "translationLastModified": "2026-09-14T10:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -43417,7 +43428,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/power-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -43440,7 +43462,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/power-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -84764,8 +84797,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17d7ef31",
+          "translationLastModified": "2026-09-14T10:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -106296,8 +106329,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "17d7ef31",
+          "translationLastModified": "2026-09-14T10:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -127679,7 +127712,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/yani-xinchengshan-mine-incident.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
