@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T12:27:37+08:00",
-    "zhCommitHead": "a34d2fd1c",
+    "lastUpdated": "2026-09-14T12:44:47+08:00",
+    "zhCommitHead": "d7c52f049",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 909,
+        "fresh": 910,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 970,
+        "fresh": 969,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 90,
+        "missing": 91,
         "orphan": 0
       },
       "ru": {
@@ -8193,18 +8193,7 @@
           "reason": "same-commit"
         },
         "ar": {
-          "path": "ar/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-14T06:58:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -47084,8 +47073,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T06:58:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7c52f04",
+          "translationLastModified": "2026-09-14T12:28:06+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -53960,7 +53949,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-animal-drug-controversy.md",
+          "translatedFrom": "Society/台灣動物用藥爭議.md",
+          "sourceCommitSha": "9a60e8fdf",
+          "sourceContentHash": "sha256:400d675ceaf05f40",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T04:28:44.838890+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-animal-drug-controversy.md",
@@ -158832,8 +158832,8 @@
           "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
           "sourceBodyHash": "sha256:ceea55d78cdbac6b",
           "translatedAt": "2026-09-14T06:58:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7c52f04",
+          "translationLastModified": "2026-09-14T12:28:06+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
