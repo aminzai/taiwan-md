@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T14:42:12+08:00",
-    "zhCommitHead": "c3d26d790",
+    "lastUpdated": "2026-09-14T14:49:36+08:00",
+    "zhCommitHead": "dd7835a1d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 791,
+        "fresh": 792,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 173,
+        "missing": 172,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 725,
+        "fresh": 726,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 349,
+        "missing": 348,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 237,
+        "missing": 236,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 597,
+        "fresh": 598,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 517,
+        "missing": 516,
         "orphan": 0
       }
     },
@@ -6266,8 +6266,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd7835a1",
+          "translationLastModified": "2026-09-14T14:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -40797,8 +40797,8 @@
           "sourceContentHash": "sha256:4fcef48a4fb87a46",
           "sourceBodyHash": "sha256:13fc2011ed2fd336",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd7835a1",
+          "translationLastModified": "2026-09-14T14:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -57269,8 +57269,8 @@
           "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
           "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd7835a1",
+          "translationLastModified": "2026-09-14T14:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -139372,8 +139372,8 @@
           "sourceContentHash": "sha256:e8b694e836a1a788",
           "sourceBodyHash": "sha256:a57ef7adfb910d4f",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd7835a1",
+          "translationLastModified": "2026-09-14T14:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -154105,8 +154105,8 @@
           "sourceContentHash": "sha256:00421195123cb8ed",
           "sourceBodyHash": "sha256:ce8848a5d2ba18da",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd7835a1",
+          "translationLastModified": "2026-09-14T14:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -157617,7 +157617,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/blue-white-slippers.md",
@@ -157626,8 +157637,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd7835a1",
+          "translationLastModified": "2026-09-14T14:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -157648,7 +157659,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/blue-white-slippers.md",
@@ -157665,10 +157687,32 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/blue-white-slippers.md",
+          "translatedFrom": "Culture/藍白拖.md",
+          "sourceCommitSha": "3361e3c7b",
+          "sourceContentHash": "sha256:675177be724b899f",
+          "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
