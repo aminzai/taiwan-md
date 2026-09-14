@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T23:57:45+08:00",
-    "zhCommitHead": "f09cc1355",
+    "lastUpdated": "2026-09-15T00:01:03+08:00",
+    "zhCommitHead": "393eb40bd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 121,
+        "missing": 120,
         "orphan": 0
       },
       "ja": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 263,
+        "missing": 262,
         "orphan": 0
       },
       "ru": {
@@ -153545,8 +153545,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "393eb40b",
+          "translationLastModified": "2026-09-14T23:57:45+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -155969,7 +155969,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-letterpress-printing.md",
+          "translatedFrom": "Culture/台灣活版印刷.md",
+          "sourceCommitSha": "65852a65b",
+          "sourceContentHash": "sha256:5e435a8b85b32036",
+          "sourceBodyHash": "sha256:8d460cbf9b7f271d",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -158011,7 +158022,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwan-sign-language.md",
+          "translatedFrom": "Culture/台灣手語.md",
+          "sourceCommitSha": "88c8f03b3",
+          "sourceContentHash": "sha256:01678a90a6beb87a",
+          "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -158023,8 +158045,8 @@
           "sourceContentHash": "sha256:01678a90a6beb87a",
           "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "393eb40b",
+          "translationLastModified": "2026-09-14T23:57:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
