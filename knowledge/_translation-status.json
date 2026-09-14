@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T03:40:55+08:00",
-    "zhCommitHead": "85b7eaee9",
+    "lastUpdated": "2026-09-15T04:12:38+08:00",
+    "zhCommitHead": "9cf5ca496",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 827,
+        "fresh": 828,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 233,
+        "missing": 232,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 991,
+        "fresh": 992,
         "stale": 65,
         "metadata_stale": 13,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 975,
+        "fresh": 977,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 85,
+        "missing": 83,
         "orphan": 0
       },
       "ru": {
@@ -6798,7 +6798,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-15T02:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -8187,7 +8198,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T02:46:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -8888,8 +8910,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-15T01:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9cf5ca49",
+          "translationLastModified": "2026-09-15T03:40:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -127111,7 +127133,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/da-chang-bao-xiao-chang.md",
+          "translatedFrom": "Food/大腸包小腸.md",
+          "sourceCommitSha": "f9736f867",
+          "sourceContentHash": "sha256:ffeaf97d752181df",
+          "sourceBodyHash": "sha256:b546f7c4ab790d17",
+          "translatedAt": "2026-09-15T02:46:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/da-chang-bao-xiao-chang.md",
@@ -150805,7 +150838,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-15T02:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
