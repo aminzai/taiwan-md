@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:21:38+08:00",
-    "zhCommitHead": "960c93102",
+    "lastUpdated": "2026-09-15T02:45:00+08:00",
+    "zhCommitHead": "b087b655f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 907,
+        "fresh": 908,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 119,
+        "missing": 118,
         "orphan": 0
       },
       "ja": {
@@ -76,26 +76,26 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 889,
+        "fresh": 890,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 153,
+        "missing": 152,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 744,
+        "fresh": 745,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 330,
+        "missing": 329,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 808,
+        "fresh": 809,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 256,
+        "missing": 255,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 619,
+        "fresh": 620,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 495,
+        "missing": 494,
         "orphan": 0
       }
     },
@@ -76423,8 +76423,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b087b655",
+          "translationLastModified": "2026-09-15T02:21:38+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -94992,8 +94992,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b087b655",
+          "translationLastModified": "2026-09-15T02:21:38+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -128725,7 +128725,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -128737,8 +128748,8 @@
           "sourceContentHash": "sha256:bbbd9e32710c1317",
           "sourceBodyHash": "sha256:99086673f8517f78",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b087b655",
+          "translationLastModified": "2026-09-15T02:21:38+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -128757,19 +128768,52 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -140404,8 +140448,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b087b655",
+          "translationLastModified": "2026-09-15T02:21:38+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -152322,7 +152366,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/ankeng-light-rail.md",
