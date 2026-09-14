@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:41:17+08:00",
-    "zhCommitHead": "745549623",
+    "lastUpdated": "2026-09-15T02:44:43+08:00",
+    "zhCommitHead": "0e0d0a46a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 973,
+        "fresh": 974,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "ru": {
@@ -64890,8 +64890,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-15T01:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e0d0a46",
+          "translationLastModified": "2026-09-15T02:41:17+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -70659,7 +70659,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/absentee-voting-taiwan.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-14T06:58:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Politics/absentee-voting-taiwan.md",
@@ -79104,8 +79115,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-14T22:35:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e0d0a46",
+          "translationLastModified": "2026-09-15T02:41:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -120598,8 +120609,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-14T22:35:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e0d0a46",
+          "translationLastModified": "2026-09-15T02:41:17+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -136235,8 +136246,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-14T22:35:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e0d0a46",
+          "translationLastModified": "2026-09-15T02:41:17+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
