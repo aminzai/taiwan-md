@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:12:17+08:00",
-    "zhCommitHead": "b2d6923cd",
+    "lastUpdated": "2026-09-15T02:16:30+08:00",
+    "zhCommitHead": "21b1b2004",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 896,
+        "fresh": 897,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 128,
+        "missing": 127,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 146,
+        "missing": 145,
         "orphan": 0
       },
       "id": {
@@ -73599,8 +73599,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21b1b200",
+          "translationLastModified": "2026-09-15T02:12:17+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -76440,8 +76440,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21b1b200",
+          "translationLastModified": "2026-09-15T02:12:17+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -95009,8 +95009,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21b1b200",
+          "translationLastModified": "2026-09-15T02:12:17+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -140421,8 +140421,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21b1b200",
+          "translationLastModified": "2026-09-15T02:12:17+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -141704,8 +141704,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21b1b200",
+          "translationLastModified": "2026-09-15T02:12:17+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -152241,7 +152241,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/ankeng-light-rail.md",
@@ -152250,15 +152261,26 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21b1b200",
+          "translationLastModified": "2026-09-15T02:12:17+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
