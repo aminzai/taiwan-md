@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T01:47:59+08:00",
-    "zhCommitHead": "52b92392c",
+    "lastUpdated": "2026-09-15T01:57:07+08:00",
+    "zhCommitHead": "4ef9c5777",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,26 +52,26 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 119,
+        "missing": 118,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 817,
+        "fresh": 818,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 147,
+        "missing": 146,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 704,
+        "fresh": 705,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 360,
+        "missing": 359,
         "orphan": 0
       },
       "pt": {
@@ -76434,13 +76434,46 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -76472,8 +76505,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4ef9c577",
+          "translationLastModified": "2026-09-15T01:47:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -95041,8 +95074,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4ef9c577",
+          "translationLastModified": "2026-09-15T01:47:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -156355,8 +156388,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4ef9c577",
+          "translationLastModified": "2026-09-15T01:47:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -158534,8 +158567,8 @@
           "sourceContentHash": "sha256:01678a90a6beb87a",
           "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
           "translatedAt": "2026-09-14T14:50:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4ef9c577",
+          "translationLastModified": "2026-09-15T01:47:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
