@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:45:00+08:00",
-    "zhCommitHead": "b087b655f",
+    "lastUpdated": "2026-09-15T02:49:33+08:00",
+    "zhCommitHead": "405b3fb21",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 919,
+        "fresh": 920,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 706,
+        "fresh": 707,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 358,
+        "missing": 357,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 809,
+        "fresh": 810,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 255,
+        "missing": 254,
         "orphan": 0
       },
       "ru": {
@@ -128731,8 +128731,8 @@
           "sourceContentHash": "sha256:bbbd9e32710c1317",
           "sourceBodyHash": "sha256:99086673f8517f78",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405b3fb2",
+          "translationLastModified": "2026-09-15T02:45:00+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -128765,7 +128765,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-railway-bento.md",
@@ -141725,8 +141736,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405b3fb2",
+          "translationLastModified": "2026-09-15T02:45:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -162706,7 +162717,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/paiwan-glass-beads.md",
@@ -162782,7 +162804,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/paiwan-glass-beads.md",
