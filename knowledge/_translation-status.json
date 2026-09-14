@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T04:31:18+08:00",
-    "zhCommitHead": "4d9cb2c15",
+    "lastUpdated": "2026-09-15T05:01:59+08:00",
+    "zhCommitHead": "f12bb283a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 914,
+        "fresh": 915,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 112,
+        "missing": 111,
         "orphan": 0
       },
       "ja": {
@@ -52,42 +52,42 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 908,
+        "fresh": 910,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 113,
+        "missing": 111,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 711,
+        "fresh": 712,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 353,
+        "missing": 352,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 895,
+        "fresh": 896,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 147,
+        "missing": 146,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 747,
+        "fresh": 748,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 327,
+        "missing": 326,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 626,
+        "fresh": 627,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 488,
+        "missing": 487,
         "orphan": 0
       }
     },
@@ -46258,8 +46258,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f12bb283",
+          "translationLastModified": "2026-09-15T04:31:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -55203,8 +55203,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f12bb283",
+          "translationLastModified": "2026-09-15T04:31:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -64777,8 +64777,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f12bb283",
+          "translationLastModified": "2026-09-15T04:31:18+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -75185,8 +75185,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f12bb283",
+          "translationLastModified": "2026-09-15T04:31:18+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -97561,19 +97561,74 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:606f74624cf601bd",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T20:36:47.188815+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -112627,8 +112682,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f12bb283",
+          "translationLastModified": "2026-09-15T04:31:18+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -112644,7 +112699,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -112665,7 +112731,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -145595,7 +145672,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -172083,8 +172171,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-14T14:49:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f12bb283",
+          "translationLastModified": "2026-09-15T04:31:18+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
