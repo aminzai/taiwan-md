@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T08:36:46+08:00",
-    "zhCommitHead": "dc986c586",
+    "lastUpdated": "2026-09-14T09:21:04+08:00",
+    "zhCommitHead": "42a46e566",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 817,
+        "fresh": 818,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 243,
+        "missing": 242,
         "orphan": 0
       },
       "pt": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1004,
-        "stale": 43,
+        "fresh": 1006,
+        "stale": 42,
         "metadata_stale": 9,
-        "missing": 65,
+        "missing": 64,
         "orphan": 0
       },
       "de": {
@@ -6779,7 +6779,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-14T06:58:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -28525,18 +28536,16 @@
         "ru": {
           "path": "ru/Technology/taiwan-robotics-industry.md",
           "translatedFrom": "Technology/台灣機器人產業.md",
-          "sourceCommitSha": "384126544",
-          "sourceContentHash": "sha256:727c897f10782c2b",
-          "sourceBodyHash": "sha256:3b63599a42d7872a",
-          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:4702dd502f640592",
+          "sourceBodyHash": "sha256:2025d0771f75493c",
+          "translatedAt": "2026-09-14T00:54:05.829924+00:00",
           "translationLastCommit": "3869c81b",
           "translationLastModified": "2026-07-31T11:44:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -61701,8 +61710,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-09-14T06:58:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42a46e56",
+          "translationLastModified": "2026-09-14T08:36:46+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -87152,8 +87161,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-14T06:58:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42a46e56",
+          "translationLastModified": "2026-09-14T08:36:46+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -171845,8 +171854,8 @@
           "sourceContentHash": "sha256:69f1aed62a2df405",
           "sourceBodyHash": "sha256:1bd762ed30b04b56",
           "translatedAt": "2026-09-14T06:58:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42a46e56",
+          "translationLastModified": "2026-09-14T08:36:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -176863,7 +176872,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwanese-colloquial-speech.md",
+          "translatedFrom": "Culture/台灣口語特色.md",
+          "sourceCommitSha": "1791349e1",
+          "sourceContentHash": "sha256:15d6246d744f90bf",
+          "sourceBodyHash": "sha256:227017306bf0c999",
+          "translatedAt": "2026-09-14T06:58:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-colloquial-speech.md",
