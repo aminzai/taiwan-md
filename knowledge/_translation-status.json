@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T19:49:45+08:00",
-    "zhCommitHead": "afdb5299f",
+    "lastUpdated": "2026-09-14T19:51:50+08:00",
+    "zhCommitHead": "bedc09c65",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 124,
+        "missing": 123,
         "orphan": 0
       },
       "es": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 876,
+        "fresh": 877,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 166,
+        "missing": 165,
         "orphan": 0
       },
       "hi": {
@@ -48334,8 +48334,8 @@
           "sourceContentHash": "sha256:32dfc005e4785017",
           "sourceBodyHash": "sha256:fc834459f5ff6d06",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bedc09c6",
+          "translationLastModified": "2026-09-14T19:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -70135,8 +70135,8 @@
           "sourceContentHash": "sha256:0f10426fa5e4f016",
           "sourceBodyHash": "sha256:f73fed3867526ad3",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bedc09c6",
+          "translationLastModified": "2026-09-14T19:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -74927,8 +74927,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bedc09c6",
+          "translationLastModified": "2026-09-14T19:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -121668,8 +121668,8 @@
           "sourceContentHash": "sha256:57f52a38fd360a40",
           "sourceBodyHash": "sha256:4f0ef8c28469111c",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bedc09c6",
+          "translationLastModified": "2026-09-14T19:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -126692,8 +126692,8 @@
           "sourceContentHash": "sha256:a5acd8724ecb9309",
           "sourceBodyHash": "sha256:05bf91e749daff0d",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bedc09c6",
+          "translationLastModified": "2026-09-14T19:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -133353,7 +133353,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-sugar-railway.md",
@@ -133362,8 +133373,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bedc09c6",
+          "translationLastModified": "2026-09-14T19:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -133379,7 +133390,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
