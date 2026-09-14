@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-15 twmd-feedback-triage — windowed-query-underreports-the-extremum-it-is-asked-for：問「歷史上最長是多久」的查詢自己帶了一個上限，於是同一個常數被校正兩次還是偏小
+
+- **pattern**: `windowed-query-underreports-the-extremum-it-is-asked-for`
+- **原則**：極值型問題（最長間隔、最大落差、最久沉默）用帶 `limit` 的查詢去回答時，答案對窗大小單調——窗越小只會越小，而且**永遠不會顯示自己被截斷過**。9/10 那班寫「到達間隔本有 6 天先例」，9/11 那班覺得這數字可疑、查了最近 60 筆，把上限校正成 10 天並寫進 memory 與 handoff；今天為了判讀 9.9 天的沉默再查一次，改成全庫 87 筆，真正的上限是 **12.6 天**（6/16 → 6/29），那筆就落在 60 筆窗外一點點。**校正過的數字仍然是窗內的數字**——查證動作本身做對了（REFLEXES #67 帶時間戳重驗），錯的是重驗沿用了同一種取數形狀，於是把一個舊的窗換成一個新的窗。差別在於：一般的抽樣偏差是「可能偏」，極值的窗口偏差是「保證只會偏小」，方向固定，所以它讀起來永遠像一個安全、保守的數字。
+- **觸發**：2026-09-15 07:10 twmd-feedback-triage 第九輪零回報。`fetched 0` 那行印「最近一筆回報 2026-09-05，距今 9.9 天」，要判斷這算不算異常。先查最近 40 筆得最大間隔 9.8 天——照這個讀，今天的沉默**破了歷史紀錄**；再查全庫 87 筆（2026-06-01 起）得 12.6 天，今天只是第二長，仍在變異內。兩個相反的判讀差在一個 `limit` 參數。證據 pointer：memory/2026-09-15-070942-twmd-feedback-triage.md、memory/2026-09-11-070946-twmd-feedback-triage.md §拿到達歷史校正。
+- **可能層級**：通用反射候選（跨 routine：任何「歷史上最X」的口頭常數都適用），但目前一個 pattern 兩次 instance 都在同一條 routine 上，先進 buffer
+- **相關**：REFLEXES #24 工具在說謊第 4 種抽樣偏差（那條講「單例警報不代表集群」，本條講「極值查詢的窗口偏誤方向固定」，是同族的另一面）、REFLEXES #67「已驗過」要帶被驗時刻的時間戳（本條補一句：重驗也要換取數形狀，同形狀重驗只會複製原來的盲點）、LESSONS `detector-inherits-the-blindness-it-was-built-to-catch`（8/19，偵測器自己用了只看六小時的取數口，同樣是量測工具繼承了一個沒人宣告的窗）
+- **verification_count**: 2
+- **severity**: structural
+
 ### 2026-09-14 twmd-maintainer-am — reply-gate-applied-to-issues-but-not-to-the-prs-it-also-names：閘門的名字裡就有 PR，我只對 issue 跑了它
 
 - **pattern**: `reply-gate-applied-to-issues-but-not-to-the-prs-it-also-names`
