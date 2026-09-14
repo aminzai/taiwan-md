@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T07:26:34+08:00",
-    "zhCommitHead": "2e8a46cd9",
+    "lastUpdated": "2026-09-15T07:49:23+08:00",
+    "zhCommitHead": "c598c85e5",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 918,
+        "fresh": 919,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 108,
+        "missing": 107,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 932,
+        "fresh": 934,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 97,
+        "missing": 95,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 907,
+        "fresh": 909,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 117,
+        "missing": 115,
         "orphan": 0
       },
       "fr": {
@@ -60,58 +60,58 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 830,
+        "fresh": 833,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 134,
+        "missing": 131,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 718,
+        "fresh": 719,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 346,
+        "missing": 345,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 139,
+        "missing": 138,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 752,
+        "fresh": 753,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 322,
+        "missing": 321,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 820,
+        "fresh": 821,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 244,
+        "missing": 243,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 868,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 204,
+        "missing": 202,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 632,
+        "fresh": 634,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 482,
+        "missing": 480,
         "orphan": 0
       }
     },
@@ -41808,7 +41808,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -58013,8 +58024,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c598c85e",
+          "translationLastModified": "2026-09-15T07:26:34+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -69921,8 +69932,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c598c85e",
+          "translationLastModified": "2026-09-15T07:26:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -130501,7 +130512,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:a88f68e2ed7330a9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T23:25:42.698662+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/daxi-dried-tofu.md",
@@ -130541,6 +130563,20 @@
           "sourceContentHash": "sha256:630da9b890460bec",
           "sourceBodyHash": "sha256:f3daf5d832d676fb",
           "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "c598c85e",
+          "translationLastModified": "2026-09-15T07:26:34+08:00",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ru": {
+          "path": "ru/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -130548,11 +130584,19 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "ru": {
-          "status": "missing"
-        },
         "de": {
-          "status": "missing"
+          "path": "de/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -133445,8 +133489,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c598c85e",
+          "translationLastModified": "2026-09-15T07:26:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -133846,34 +133890,133 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -146255,8 +146398,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c598c85e",
+          "translationLastModified": "2026-09-15T07:26:34+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -156961,16 +157104,49 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/tsou-war-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/tsou-war-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/tsou-war-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
