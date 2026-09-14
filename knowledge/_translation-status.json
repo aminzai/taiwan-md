@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T00:13:11+08:00",
-    "zhCommitHead": "f605717f4",
+    "lastUpdated": "2026-09-15T00:52:11+08:00",
+    "zhCommitHead": "b16efa032",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,74 +36,74 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 915,
+        "fresh": 916,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 114,
+        "missing": 113,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 893,
+        "fresh": 895,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 131,
+        "missing": 129,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 898,
+        "fresh": 900,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 123,
+        "missing": 121,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 814,
+        "fresh": 815,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 150,
+        "missing": 149,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 702,
+        "fresh": 704,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 362,
+        "missing": 360,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 885,
+        "fresh": 886,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 738,
+        "fresh": 740,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 336,
+        "missing": 334,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 804,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 262,
+        "missing": 260,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 221,
+        "missing": 220,
         "orphan": 0
       },
       "de": {
@@ -32803,8 +32803,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee635df0",
+          "translationLastModified": "2026-09-15T00:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46391,8 +46391,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee635df0",
+          "translationLastModified": "2026-09-15T00:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -73579,28 +73579,105 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -77754,8 +77831,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee635df0",
+          "translationLastModified": "2026-09-15T00:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -140134,19 +140211,74 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taipei-main-station.md",
+          "translatedFrom": "History/台北車站.md",
+          "sourceCommitSha": "017343a3c",
+          "sourceContentHash": "sha256:ab0a67468952c0db",
+          "sourceBodyHash": "sha256:45e92c81cd544142",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -158126,6 +158258,20 @@
           "sourceContentHash": "sha256:01678a90a6beb87a",
           "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
           "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "ee635df0",
+          "translationLastModified": "2026-09-15T00:13:12+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "hi": {
+          "path": "hi/Culture/taiwan-sign-language.md",
+          "translatedFrom": "Culture/台灣手語.md",
+          "sourceCommitSha": "88c8f03b3",
+          "sourceContentHash": "sha256:01678a90a6beb87a",
+          "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -158133,11 +158279,19 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "hi": {
-          "status": "missing"
-        },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-sign-language.md",
+          "translatedFrom": "Culture/台灣手語.md",
+          "sourceCommitSha": "88c8f03b3",
+          "sourceContentHash": "sha256:01678a90a6beb87a",
+          "sourceBodyHash": "sha256:4eaa3ae985aa0bf5",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -160156,8 +160310,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee635df0",
+          "translationLastModified": "2026-09-15T00:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -161786,8 +161940,8 @@
           "sourceContentHash": "sha256:b67985f61b48d180",
           "sourceBodyHash": "sha256:7e401e79a285bbeb",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee635df0",
+          "translationLastModified": "2026-09-15T00:13:12+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
