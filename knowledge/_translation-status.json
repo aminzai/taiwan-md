@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T05:27:02+08:00",
-    "zhCommitHead": "3c8e12350",
+    "lastUpdated": "2026-09-15T05:30:57+08:00",
+    "zhCommitHead": "bf057efee",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 111,
+        "missing": 110,
         "orphan": 0
       },
       "vi": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 749,
+        "fresh": 750,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 325,
+        "missing": 324,
         "orphan": 0
       },
       "ar": {
@@ -46289,8 +46289,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bf057efe",
+          "translationLastModified": "2026-09-15T05:27:02+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -64808,8 +64808,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bf057efe",
+          "translationLastModified": "2026-09-15T05:27:02+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -75216,8 +75216,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bf057efe",
+          "translationLastModified": "2026-09-15T05:27:02+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -145775,15 +145775,26 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bf057efe",
+          "translationLastModified": "2026-09-15T05:27:02+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/jiufen.md",
@@ -145817,7 +145828,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -172323,8 +172345,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-14T14:49:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bf057efe",
+          "translationLastModified": "2026-09-15T05:27:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
