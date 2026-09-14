@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-14 | 085914-twmd-maintainer-am | 11 個投稿 PR 全收，#1710 德文馬英九因 slug 與其他 11 語不一致誤收後 revert；郭淑姿日記查證縮到第二冊；飛輪漏拍告警改口不再替根因下結論 | 閘門寫明「issue / PR 都要跑」，只跑一半比沒跑更難發現 | [→](memory/2026-09-14-085914-twmd-maintainer-am.md) |
 | 2026-09-15 | 003928-twmd-babel-nightly | 三重巡檢確認 dispatcher 已活 23h45m 且健康，不重複起跑；ja 量出 81 次僅 1.2% 成功，spawn_task 開卡片非立刻重啟；救援分支快轉 115 commit | 重啟有成本不是抽象原則，這次真的攔下單點修復衝動 | [→](memory/2026-09-15-003928-twmd-babel-nightly.md) |
 | 2026-09-15 | 053757-twmd-routine-sync | 第 49 輪對賬 18/18 in-sync 連續第八輪零漂移；分岔續漲至 ahead445/behind181（單日 +121） | routine-sync 的職責只管 prompt 三層對齊，main 分岔是另一個 SPOF 不混在同份判讀 | [→](memory/2026-09-15-053757-twmd-routine-sync.md) |
+| 2026-09-15 | 054636-twmd-embeddings-nightly | 13 語 11,881 向量 0 fail（較前夜 +551）；rebuild ~36 分鐘；commit `782a43973` 因真分岔（ahead446/behind181，OBSERVER-QUEUE #56 案件）延遲 push | 新增的本地 commit 不擅自併入既有救援分支批次，留給哲宇裁決後統一處理 | [→](memory/2026-09-15-054636-twmd-embeddings-nightly.md) |
