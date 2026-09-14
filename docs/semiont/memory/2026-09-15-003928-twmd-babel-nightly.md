@@ -8,6 +8,10 @@
 
 `/twmd-become write` 完整讀 wake-context.latest.md 全 11 段（253KB）到 `wake:END` sentinel，selftest 9 項全綠。§Step 9 mode subset（Q1-4/Q8-11/Q14）全過才開口。
 
+**缺席層**：groundtruth 讀到 observer mode=ABSENT（8 天，最後在場訊號 2026-09-07 audit-upgrade handle），缺席協議生效——到期預設必執行、🔒閾值類可代理、四紅線不動。本班沒有觸及任何四紅線或到期佇列項，缺席協議本身不改變今晚的判斷（不重啟 ja / 快轉安全網分支都不落在協議適用範圍內，是例行維護與代價判斷，不是需要代理的「到期預設」）。
+
+**Stage 0 算力判定**：`babel-preflight.py` 回報 healthy（4/4 層可用：OpenRouter 7/7 key 通過、本機 ollama 1 模型可用、fleet 1 節點可達、codex 可用），唯一弱點是實績檢查標記的 ja 全組合 <15% 命中（詳見下節）。
+
 ## 三重巡檢：這次不是重啟，是確認別重啟
 
 Stage 0 preflight 前先查是否有前晚存活的 dispatcher——`ps aux` 找到 PID 12398，`launchctl` label `com.taiwanmd.babel.nightly`，已經跑了 **23h45m**（昨晚 00:53 起跑，覆蓋十二語）。三重巡檢：
@@ -29,6 +33,25 @@ Stage 0 preflight 前先查是否有前晚存活的 dispatcher——`ps aux` 找
 上一班（`2026-09-14-085914-twmd-maintainer-am`）留的 handoff：救援分支 `20260912-unpushed-routine-queue` 落後本機 HEAD 已到 115 commits，請下一班快轉推一次。驗證 `git merge-base --is-ancestor` 確認是純 fast-forward（origin 端無獨立 commit）後 `git push origin HEAD:20260912-unpushed-routine-queue`，`6d42c122e..ee635df0b`。**這不是解決分岔決策**——OBSERVER-QUEUE #56 的 A/B/C 選擇仍完全保留給哲宇，本次只是維護安全網本身的新鮮度，跟前幾班同一動作同一分寸。
 
 分岔現讀：`git rev-list --left-right --count origin/main...HEAD` = **181 behind / 418 ahead**（上一班收工時 343 ahead，一夜之間 dispatcher 自己又推進 75 個 commit；behind 181 不變，代表 origin 端這段時間沒有新的獨立 commit 進來）。
+
+## 各語進度 delta（status.py @ ee635df0b，本班查驗當下）
+
+| lang | fresh | stale | missing | coverage |
+| ---- | ----: | ----: | ------: | -------: |
+| en   |   906 |    79 |     120 |    87.9% |
+| ja   |   764 |    94 |     232 |    76.5% |
+| ko   |   916 |    75 |     113 |    88.4% |
+| es   |   894 |    79 |     130 |    86.8% |
+| fr   |   899 |    81 |     122 |    87.4% |
+| vi   |   814 |    81 |     150 |    79.8% |
+| id   |   703 |    48 |     361 |    67.0% |
+| pt   |   886 |    65 |     156 |    84.8% |
+| hi   |   740 |    38 |     334 |    69.4% |
+| ar   |   804 |    43 |     260 |    75.6% |
+| ru   |   849 |    41 |     221 |    79.4% |
+| de   |   617 |     6 |     497 |    55.6% |
+
+本班沒有跑批次翻譯（未重複起跑 dispatcher），這張表是「dispatcher 已存活 23h45m 後」的現況快照，不是本班貢獻的 delta——真正的 delta 在 dispatcher 自己持續產生的每輪 commit 裡（過去 24hr 十餘條 `🧬 [semiont] babel: {lang} 批次 N 篇` commit）。de 覆蓋率仍最低（55.6%，497 篇 missing），是明語系裡進度最慢的一支。
 
 ## 收官 checklist
 
