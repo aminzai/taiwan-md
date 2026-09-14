@@ -332,6 +332,27 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-14 twmd-maintainer-am — reply-gate-applied-to-issues-but-not-to-the-prs-it-also-names：閘門的名字裡就有 PR，我只對 issue 跑了它
+
+- **pattern**: `reply-gate-applied-to-issues-but-not-to-the-prs-it-also-names`
+- **原則**：`MAINTAINER-PIPELINE` Step 2.4 重複回應檢查的第一句話是「**回應 issue / PR 之前必跑**」，指令也明列 `gh issue view` 與 `gh pr view` 兩條。本輪跑了 issue 那條、沒跑 PR 那條——不是不知道有這道閘門，是把它記成「issue 的閘門」。代價立即兌現：#1710 上有前一輪維護 cycle 9/12 寫的一則長留言，白紙黑字「這篇**保持 open**⋯⋯這個決定不由我這條維護 routine 單方面下⋯⋯已經把它升給觀察者」，而我在沒讀它的情況下把那個 PR 合併了。**規則層完好，套用層漏了一半**——這比規則缺失更難自己發現，因為 checklist 上那一格是打勾的。
+- **觸發**：2026-09-14 08:47 twmd-maintainer-am 一次收 11 個投稿 PR。其中 10 個正確，第 11 個（#1710 德文馬英九）是被刻意留 open 的。合併後才在寫致謝留言時讀到那則 09-12 的說明，`418fa9678` revert 退回。整輪只有這一個檔被動到，其餘 10 篇維持 merged。
+- **可能層級**：反射候選（「閘門條文裡列了 N 種對象時，逐一確認每一種都跑過」是跨 pipeline 通用的；但只有一個 instance，先進 buffer 等第二次）
+- **相關**：REFLEXES #15 反覆浮現要儀器化（這道閘門目前是散文條列，沒有任何東西在檢查「PR 那半跑了沒」）、REFLEXES #73 查證反射 < 建造反射（我先動手 merge 才想到去看留言）、LESSONS `mandatory-read-step-has-no-tool`（2026-08-30，同構：流程指名的必經動作沒有入口，靠當班自覺）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-14 twmd-maintainer-am — same-language-slug-collision-is-invisible-to-both-instruments：兩把尺都說沒撞車，因為對手用的是另一個檔名、而且住在推不出去的那一側
+
+- **pattern**: `same-language-slug-collision-is-invisible-to-both-instruments`
+- **原則**：譯文投稿要問的是「這篇母稿在這個語言**已經有譯文了嗎**」，而現場兩把尺回答的都是別的問題。逐檔 existence 檢查（`[ -f <path> ]` 加 `git cat-file -e origin/main:<path>`）問的是「**這個檔名**存不存在」——對手用另一個 slug 時它回「沒撞」。`_translations.json` 問的是「這個語言的登記裡有沒有這篇母稿」——對手譯文卡在未推送的本機時它也回「沒撞」。真正看得見的那把尺，是「**同一篇母稿在其他語言用的是哪個 slug**」：11 個語言一致用 `ma-ying-jeou-cross-strait-reconciliation-leader`，投稿用 `ma-ying-jeou`，一行 `git ls-tree` 就照得出來。這是 REFLEXES #82 的變體——兩個訊號都是「有沒有譯文」的替身，替身在 slug 不一致或產出未落地時同時失效。
+- **觸發**：2026-09-14 twmd-maintainer-am 對 11 個譯文 PR 逐一跑碰撞檢查，全部回報「無撞車」；合併後才由 PR 留言揭露 #1710 的 slug 與其他 11 語不一致。事後現寫的 slug 慣例對照（對每個 PR 統計其他語言的 basename 眾數）一次命中，10 綠 1 紅。
+- **候選機械化**：把那段對照寫成工具（輸入 PR 的 `translatedFrom` 與目標語言，輸出其他語言的 slug 眾數與本篇是否一致），接進 MAINTAINER Stage 2 譯文 PR 分流；同時值得問的是**跨語言 slug 一致性本身有沒有全庫閘門**——本次是靠人眼比對才發現不一致。
+- **可能層級**：操作規則（綁譯文 PR triage；若 slug 一致性升成全庫 lint 則是工程層）
+- **相關**：REFLEXES #82 proxy signal antipattern、REFLEXES #38 混維度（「沒撞車」同時代表「真的沒有」與「我這把尺看不到」）、LESSONS `divergence-warning-is-tree-level-not-per-file`（2026-09-14 同日、同一個分岔造成的另一種看不見）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-14 twmd-feedback-triage — divergence-warning-is-tree-level-not-per-file：分岔警告說「本地讀取層失真」，但它蓋住三種相反的逐檔真相，而處方只服務其中一種
 
 - **pattern**: `divergence-warning-is-tree-level-not-per-file`
