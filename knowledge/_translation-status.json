@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T21:42:55+08:00",
-    "zhCommitHead": "4c26ce975",
+    "lastUpdated": "2026-09-14T22:20:53+08:00",
+    "zhCommitHead": "f2ac8ab7c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 123,
+        "missing": 122,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 913,
+        "fresh": 914,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 116,
+        "missing": 115,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 133,
+        "missing": 132,
         "orphan": 0
       },
       "fr": {
@@ -60,26 +60,26 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 812,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 153,
+        "missing": 152,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 365,
+        "missing": 364,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 883,
+        "fresh": 884,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 798,
+        "fresh": 799,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 266,
+        "missing": 265,
         "orphan": 0
       },
       "ru": {
@@ -24156,8 +24156,8 @@
           "sourceContentHash": "sha256:3fab2a74ac11d1b7",
           "sourceBodyHash": "sha256:29363c705647bf15",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -32667,8 +32667,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46255,8 +46255,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -105236,8 +105236,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -114174,8 +114174,8 @@
           "sourceContentHash": "sha256:eedc983e2ea9d824",
           "sourceBodyHash": "sha256:7efe5656906a3904",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -153456,25 +153456,80 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -159822,8 +159877,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -161485,8 +161540,8 @@
           "sourceContentHash": "sha256:b67985f61b48d180",
           "sourceBodyHash": "sha256:7e401e79a285bbeb",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f2ac8ab7",
+          "translationLastModified": "2026-09-14T21:42:55+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -161516,13 +161571,35 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/pinban-boat.md",
+          "translatedFrom": "Culture/拼板舟.md",
+          "sourceCommitSha": "1c1927882",
+          "sourceContentHash": "sha256:b67985f61b48d180",
+          "sourceBodyHash": "sha256:7e401e79a285bbeb",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/pinban-boat.md",
+          "translatedFrom": "Culture/拼板舟.md",
+          "sourceCommitSha": "1c1927882",
+          "sourceContentHash": "sha256:b67985f61b48d180",
+          "sourceBodyHash": "sha256:7e401e79a285bbeb",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
