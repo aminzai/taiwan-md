@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T06:16:24+08:00",
-    "zhCommitHead": "f7561d509",
+    "lastUpdated": "2026-09-15T06:16:40+08:00",
+    "zhCommitHead": "9e403cee7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 715,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 350,
+        "missing": 349,
         "orphan": 0
       },
       "pt": {
@@ -57965,7 +57965,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/haha-tai.md",
