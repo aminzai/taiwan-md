@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:45:30+08:00",
-    "zhCommitHead": "961df8fa8",
+    "lastUpdated": "2026-09-15T02:49:19+08:00",
+    "zhCommitHead": "54871a0d2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 984,
+        "fresh": 985,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 42,
+        "missing": 41,
         "orphan": 0
       },
       "es": {
@@ -8882,7 +8882,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-15T01:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/pinkoi.md",
@@ -30531,8 +30542,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-09-14T11:30:32.025239+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "54871a0d",
+          "translationLastModified": "2026-09-15T02:45:31+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -109991,8 +110002,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-14T06:58:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "54871a0d",
+          "translationLastModified": "2026-09-15T02:45:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -144909,8 +144920,8 @@
           "sourceContentHash": "sha256:bee6db6cebb342a7",
           "sourceBodyHash": "sha256:cf2cbcf164430410",
           "translatedAt": "2026-09-14T11:54:45.809251+00:00",
-          "translationLastCommit": "c3b83d05",
-          "translationLastModified": "2026-07-28T06:28:27+08:00",
+          "translationLastCommit": "54871a0d",
+          "translationLastModified": "2026-09-15T02:45:31+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
