@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-15
-last_session: '2026-09-15-061723-twmd-data-refresh-am（第十夜撞見同一 dispatcher，14 步全綠零 stale）'
+last_session: '2026-09-15-063927-twmd-spore-harvest-am（第七天 plateau，查 OBSERVER-QUEUE 更正昨日誤判的「新發現」）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -334,3 +334,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-15 | 053757-twmd-routine-sync | 第 49 輪對賬 18/18 in-sync 連續第八輪零漂移；分岔續漲至 ahead445/behind181（單日 +121） | routine-sync 的職責只管 prompt 三層對齊，main 分岔是另一個 SPOF 不混在同份判讀 | [→](memory/2026-09-15-053757-twmd-routine-sync.md) |
 | 2026-09-15 | 054636-twmd-embeddings-nightly | 13 語 11,881 向量 0 fail（較前夜 +551）；rebuild ~36 分鐘；commit `782a43973` 因真分岔（ahead446/behind181，OBSERVER-QUEUE #56 案件）延遲 push | 新增的本地 commit 不擅自併入既有救援分支批次，留給哲宇裁決後統一處理 | [→](memory/2026-09-15-054636-twmd-embeddings-nightly.md) |
 | 2026-09-15 | 061723-twmd-data-refresh-am | 第十夜撞見同一 dispatcher，Step 1 讓場、14 步全綠零 stale；prebuild 首次連兩夜不逾時；commit `9c6cdfa4b` 因真分岔延遲 push | 跟平行 dispatcher 共存的判斷力比機械步驟本身更是這個 routine 的核心 | [→](memory/2026-09-15-061723-twmd-data-refresh-am.md) |
+| 2026-09-15 | 063927-twmd-spore-harvest-am | 第七天 #170-176 現查全雜訊（0~+3 views），0 新留言免 ship；查 OBSERVER-QUEUE 才發現昨天寫的「新發現」其實是哲宇 09-05 已拍板的裁決 | 把已決事項寫成待決 handoff 是倒退，發現前先查已決區 | [→](memory/2026-09-15-063927-twmd-spore-harvest-am.md) |
