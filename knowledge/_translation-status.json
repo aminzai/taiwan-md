@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T00:05:32+08:00",
-    "zhCommitHead": "a57917d52",
+    "lastUpdated": "2026-09-15T01:46:40+08:00",
+    "zhCommitHead": "49a2f00e0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,26 +28,26 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 89,
         "metadata_stale": 28,
-        "missing": 186,
+        "missing": 185,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 980,
+        "fresh": 982,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 46,
+        "missing": 44,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 998,
+        "fresh": 999,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "fr": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 238,
+        "missing": 237,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 156,
+        "missing": 155,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 972,
+        "fresh": 973,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "ru": {
@@ -25193,7 +25193,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/taiwan-tech-storytelling.md",
+          "translatedFrom": "Technology/台灣科技說故事.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:7e79f4d7834c55c1",
+          "sourceBodyHash": "sha256:e24305e511c42507",
+          "translatedAt": "2026-09-14T22:35:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-tech-storytelling.md",
@@ -109891,7 +109902,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tieniu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:695b08b5d7d2de65",
+          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
+          "translatedAt": "2026-09-14T06:58:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tieniu-jie-ge.md",
@@ -116766,7 +116788,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chen-san-huo-jiannian-artist.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T06:58:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-san-huo-jiannian-artist.md",
@@ -120515,7 +120548,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/taiwan-lu-wei-braised-snacks.md",
+          "translatedFrom": "Food/台灣滷味.md",
+          "sourceCommitSha": "bc7c72ef4",
+          "sourceContentHash": "sha256:90efb96feb86e99d",
+          "sourceBodyHash": "sha256:dff447eeed675def",
+          "translatedAt": "2026-09-14T22:35:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-lu-wei-braised-snacks.md",
@@ -136141,7 +136185,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-14T22:35:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/921-jiji-earthquake.md",
@@ -143195,7 +143250,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:ed19a67a28e57807",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T17:32:53.709232+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-parliament-petition-movement.md",
@@ -151378,8 +151444,8 @@
           "sourceContentHash": "sha256:fc555545d67f593e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T13:31:37.743276+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "49a2f00e",
+          "translationLastModified": "2026-09-15T00:05:32+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -168612,8 +168678,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-14T06:58:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "49a2f00e",
+          "translationLastModified": "2026-09-15T00:05:32+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -170009,7 +170075,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/bunun-millet-rituals.md",
+          "translatedFrom": "Culture/布農族小米歲時祭儀.md",
+          "sourceCommitSha": "36f293ae0",
+          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceBodyHash": "sha256:dee79906f6659ba2",
+          "translatedAt": "2026-09-14T06:58:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/bunun-millet-rituals.md",
