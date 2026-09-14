@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T01:46:40+08:00",
-    "zhCommitHead": "49a2f00e0",
+    "lastUpdated": "2026-09-15T01:58:16+08:00",
+    "zhCommitHead": "55c0363a3",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 982,
+        "fresh": 983,
         "stale": 76,
         "metadata_stale": 19,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "es": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 973,
+        "fresh": 974,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "ru": {
@@ -6787,7 +6787,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-14T06:58:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -41812,8 +41823,8 @@
           "sourceContentHash": "sha256:68c1aee34edc608c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T22:52:12.373525+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55c0363a",
+          "translationLastModified": "2026-09-15T01:46:41+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -79065,7 +79076,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-14T22:35:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chien-chien-eating.md",
@@ -99261,8 +99283,8 @@
           "sourceContentHash": "sha256:57b0bfdd960a74ba",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-13T23:15:05.399088+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55c0363a",
+          "translationLastModified": "2026-09-15T01:46:41+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -143256,8 +143278,8 @@
           "sourceContentHash": "sha256:ed19a67a28e57807",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T17:32:53.709232+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55c0363a",
+          "translationLastModified": "2026-09-15T01:46:41+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
