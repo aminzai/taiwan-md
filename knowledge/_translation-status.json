@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T11:38:44+08:00",
-    "zhCommitHead": "5cab3e91d",
+    "lastUpdated": "2026-09-14T11:46:21+08:00",
+    "zhCommitHead": "9d13c0263",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 885,
+        "fresh": 886,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 144,
+        "missing": 143,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 862,
+        "fresh": 863,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 162,
+        "missing": 161,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 180,
+        "missing": 179,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 857,
+        "fresh": 858,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 185,
+        "missing": 184,
         "orphan": 0
       },
       "hi": {
@@ -17061,8 +17061,8 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d13c026",
+          "translationLastModified": "2026-09-14T11:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -30466,8 +30466,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d13c026",
+          "translationLastModified": "2026-09-14T11:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -43533,8 +43533,8 @@
           "sourceContentHash": "sha256:2021a6224e30bd5e",
           "sourceBodyHash": "sha256:ab86534e207e2b33",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d13c026",
+          "translationLastModified": "2026-09-14T11:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -62945,7 +62945,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Nature/shanlinxi.md",
+          "translatedFrom": "Nature/杉林溪.md",
+          "sourceCommitSha": "c4c68308d",
+          "sourceContentHash": "sha256:bc1981684ea96389",
+          "sourceBodyHash": "sha256:8fca360e2bf80295",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -62960,7 +62971,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/shanlinxi.md",
+          "translatedFrom": "Nature/杉林溪.md",
+          "sourceCommitSha": "c4c68308d",
+          "sourceContentHash": "sha256:bc1981684ea96389",
+          "sourceBodyHash": "sha256:8fca360e2bf80295",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -127855,8 +127877,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d13c026",
+          "translationLastModified": "2026-09-14T11:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -158911,8 +158933,8 @@
           "sourceContentHash": "sha256:09bb72854ee365a4",
           "sourceBodyHash": "sha256:6759735a132d6ff9",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d13c026",
+          "translationLastModified": "2026-09-14T11:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -158925,13 +158947,35 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
