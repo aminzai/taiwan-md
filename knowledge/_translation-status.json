@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T21:26:40+08:00",
-    "zhCommitHead": "26644d4e5",
+    "lastUpdated": "2026-09-14T21:29:14+08:00",
+    "zhCommitHead": "783b99c12",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 698,
+        "fresh": 699,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 366,
+        "missing": 365,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 736,
+        "fresh": 737,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 338,
+        "missing": 337,
         "orphan": 0
       },
       "ar": {
@@ -32709,8 +32709,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46297,6 +46297,20 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "id": {
+          "path": "id/Society/taiwan-blood-donation.md",
+          "translatedFrom": "Society/台灣捐血.md",
+          "sourceCommitSha": "d5c0f8970",
+          "sourceContentHash": "sha256:0288d7726f0c4e4a",
+          "sourceBodyHash": "sha256:3833aad49a7f6cb9",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -46304,14 +46318,22 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "id": {
-          "status": "missing"
-        },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-blood-donation.md",
+          "translatedFrom": "Society/台灣捐血.md",
+          "sourceCommitSha": "d5c0f8970",
+          "sourceContentHash": "sha256:0288d7726f0c4e4a",
+          "sourceBodyHash": "sha256:3833aad49a7f6cb9",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -105201,8 +105223,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -114150,8 +114172,8 @@
           "sourceContentHash": "sha256:eedc983e2ea9d824",
           "sourceBodyHash": "sha256:7efe5656906a3904",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -118913,8 +118935,8 @@
           "sourceContentHash": "sha256:64f19c58057c504d",
           "sourceBodyHash": "sha256:0c3fe6ee6329ecfa",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -133951,8 +133973,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -159798,8 +159820,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "783b99c1",
+          "translationLastModified": "2026-09-14T21:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
