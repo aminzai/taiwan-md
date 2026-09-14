@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T07:13:52+08:00",
-    "zhCommitHead": "800e8bec7",
+    "lastUpdated": "2026-09-15T07:20:44+08:00",
+    "zhCommitHead": "c24cb181d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,26 +36,26 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 931,
+        "fresh": 932,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 906,
+        "fresh": 907,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 118,
+        "missing": 117,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 914,
+        "fresh": 915,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 107,
+        "missing": 106,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 348,
+        "missing": 347,
         "orphan": 0
       },
       "pt": {
@@ -58027,8 +58027,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a8ed5cd",
+          "translationLastModified": "2026-09-15T07:13:53+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -69935,8 +69935,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a8ed5cd",
+          "translationLastModified": "2026-09-15T07:13:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -130459,13 +130459,46 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -146203,8 +146236,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a8ed5cd",
+          "translationLastModified": "2026-09-15T07:13:53+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -171648,7 +171681,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:5deab9ded98caf34",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T23:03:21.668298+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/eslite-bookstore.md",
@@ -171677,8 +171721,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a8ed5cd",
+          "translationLastModified": "2026-09-15T07:13:53+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
