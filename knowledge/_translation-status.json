@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T08:03:08+08:00",
-    "zhCommitHead": "f9c54ae0a",
+    "lastUpdated": "2026-09-14T08:17:15+08:00",
+    "zhCommitHead": "af7b2cefa",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 869,
+        "fresh": 870,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "ja": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 776,
+        "fresh": 777,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 188,
+        "missing": 187,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 848,
+        "fresh": 849,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 194,
+        "missing": 193,
         "orphan": 0
       },
       "hi": {
@@ -24528,7 +24528,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/taiwan-tech-stories.md",
+          "translatedFrom": "Technology/台灣科技說故事.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:7e79f4d7834c55c1",
+          "sourceBodyHash": "sha256:e24305e511c42507",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -24543,13 +24554,35 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-tech-stories.md",
+          "translatedFrom": "Technology/台灣科技說故事.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:7e79f4d7834c55c1",
+          "sourceBodyHash": "sha256:e24305e511c42507",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-tech-stories.md",
+          "translatedFrom": "Technology/台灣科技說故事.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:7e79f4d7834c55c1",
+          "sourceBodyHash": "sha256:e24305e511c42507",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -38338,8 +38371,8 @@
           "sourceContentHash": "sha256:46b8b4c566a9b8ad",
           "sourceBodyHash": "sha256:261c0f7907febe33",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7b2cef",
+          "translationLastModified": "2026-09-14T08:03:08+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -47388,8 +47421,8 @@
           "sourceContentHash": "sha256:97f73d46f1b8c211",
           "sourceBodyHash": "sha256:f303227e993d74f0",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7b2cef",
+          "translationLastModified": "2026-09-14T08:03:08+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -125368,8 +125401,8 @@
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7b2cef",
+          "translationLastModified": "2026-09-14T08:03:08+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -130178,8 +130211,8 @@
           "sourceContentHash": "sha256:51ee9e5cce591488",
           "sourceBodyHash": "sha256:eba4f32a0cfd42a7",
           "translatedAt": "2026-09-14T00:53:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7b2cef",
+          "translationLastModified": "2026-09-14T08:03:08+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
