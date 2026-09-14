@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T18:45:17+08:00",
-    "zhCommitHead": "2aebeb5a4",
+    "lastUpdated": "2026-09-14T20:56:21+08:00",
+    "zhCommitHead": "ac248a7f6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,34 +76,34 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 990,
+        "fresh": 992,
         "stale": 65,
         "metadata_stale": 13,
-        "missing": 53,
+        "missing": 51,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 908,
+        "fresh": 910,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 158,
+        "missing": 156,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 970,
+        "fresh": 972,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 90,
+        "missing": 88,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1008,
-        "stale": 40,
+        "fresh": 1011,
+        "stale": 38,
         "metadata_stale": 8,
-        "missing": 65,
+        "missing": 64,
         "orphan": 0
       },
       "de": {
@@ -5746,8 +5746,8 @@
           "sourceContentHash": "sha256:71cdc104f7f3b8f4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T02:37:37.266250+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ac248a7f",
+          "translationLastModified": "2026-09-14T18:45:17+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "status": "fresh",
@@ -6770,7 +6770,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-14T06:58:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-shipbuilding-industry.md",
@@ -30505,18 +30516,16 @@
         "ru": {
           "path": "ru/Art/taiwan-travelogue.md",
           "translatedFrom": "Art/臺灣漫遊錄.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:1cbdf7bdeea3f06d",
-          "sourceBodyHash": "sha256:f65ef91c0cd14c9b",
-          "translatedAt": "2026-07-29T19:47:23+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:d4818d717761979b",
+          "sourceBodyHash": "sha256:45ca26bedda5e227",
+          "translatedAt": "2026-09-14T11:30:32.025239+00:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -52721,8 +52730,8 @@
           "sourceContentHash": "sha256:8427b2bc64bf300b",
           "sourceBodyHash": "sha256:d6d35035b4737919",
           "translatedAt": "2026-09-14T10:43:10.844110+00:00",
-          "translationLastCommit": "36ec99d5",
-          "translationLastModified": "2026-07-29T08:32:47+08:00",
+          "translationLastCommit": "ac248a7f",
+          "translationLastModified": "2026-09-14T18:45:17+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -78352,7 +78361,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/cang-lan-ge-doctor.md",
+          "translatedFrom": "People/蒼藍鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:1a1a9598d9221fe9",
+          "sourceBodyHash": "sha256:74a863b5d0baa755",
+          "translatedAt": "2026-09-14T06:58:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/cang-lan-ge-doctor.md",
@@ -99615,7 +99635,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/muyao4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-14T06:58:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/muyao4.md",
@@ -100394,7 +100425,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/jamie-lin-ai-industry-pioneer.md",
+          "translatedFrom": "People/簡立峰.md",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-09-14T06:58:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/jamie-lin-ai-industry-pioneer.md",
@@ -107108,7 +107150,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/rainie-yang.md",
+          "translatedFrom": "People/楊丞琳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3b0bbef1a2a8fb6f",
+          "sourceBodyHash": "sha256:89629de55a5721c1",
+          "translatedAt": "2026-09-14T06:58:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/rainie-yang.md",
@@ -109866,7 +109919,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tieniu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:695b08b5d7d2de65",
+          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
+          "translatedAt": "2026-09-14T06:58:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -133842,8 +133906,8 @@
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-09-14T06:58:49+08:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "ac248a7f",
+          "translationLastModified": "2026-09-14T18:45:17+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -144731,18 +144795,16 @@
         "ru": {
           "path": "ru/History/taiwan-elections-and-party-politics.md",
           "translatedFrom": "History/台灣選舉與政黨政治.md",
-          "sourceCommitSha": "2e0cc381d",
-          "sourceContentHash": "sha256:f462ef48505faa9b",
-          "sourceBodyHash": "sha256:019ea30197aa5f25",
-          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:bee6db6cebb342a7",
+          "sourceBodyHash": "sha256:cf2cbcf164430410",
+          "translatedAt": "2026-09-14T11:54:45.809251+00:00",
           "translationLastCommit": "c3b83d05",
           "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -150585,7 +150647,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-14T06:58:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
