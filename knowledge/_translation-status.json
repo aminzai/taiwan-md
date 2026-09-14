@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T17:16:12+08:00",
-    "zhCommitHead": "35fbe93ee",
+    "lastUpdated": "2026-09-14T17:20:37+08:00",
+    "zhCommitHead": "31bdd3505",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 876,
+        "fresh": 877,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 148,
+        "missing": 147,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 794,
+        "fresh": 795,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 170,
+        "missing": 169,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 599,
+        "fresh": 600,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 515,
+        "missing": 514,
         "orphan": 0
       }
     },
@@ -26062,13 +26062,35 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/taiwan-display-industry.md",
+          "translatedFrom": "Technology/台灣顯示器產業.md",
+          "sourceCommitSha": "8544f5ff6",
+          "sourceContentHash": "sha256:6f543fc8322b4070",
+          "sourceBodyHash": "sha256:487e3d2f13378d12",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-display-industry.md",
+          "translatedFrom": "Technology/台灣顯示器產業.md",
+          "sourceCommitSha": "8544f5ff6",
+          "sourceContentHash": "sha256:6f543fc8322b4070",
+          "sourceBodyHash": "sha256:487e3d2f13378d12",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -40853,8 +40875,8 @@
           "sourceContentHash": "sha256:4fcef48a4fb87a46",
           "sourceBodyHash": "sha256:13fc2011ed2fd336",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "31bdd350",
+          "translationLastModified": "2026-09-14T17:16:12+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -139000,15 +139022,26 @@
           "sourceContentHash": "sha256:d2cff6b4790d0713",
           "sourceBodyHash": "sha256:889401675c45d56b",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "31bdd350",
+          "translationLastModified": "2026-09-14T17:16:12+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -157946,8 +157979,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "31bdd350",
+          "translationLastModified": "2026-09-14T17:16:12+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -163527,8 +163560,8 @@
           "sourceContentHash": "sha256:1c51bf71c790291d",
           "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
           "translatedAt": "2026-09-14T00:53:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "31bdd350",
+          "translationLastModified": "2026-09-14T17:16:12+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
