@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T06:12:15+08:00",
-    "zhCommitHead": "73731c221",
+    "lastUpdated": "2026-09-15T06:16:24+08:00",
+    "zhCommitHead": "f7561d509",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "vi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 629,
+        "fresh": 630,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 485,
+        "missing": 484,
         "orphan": 0
       }
     },
@@ -57937,7 +57937,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/haha-tai.md",
@@ -57963,8 +57974,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f7561d50",
+          "translationLastModified": "2026-09-15T06:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -97675,8 +97686,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f7561d50",
+          "translationLastModified": "2026-09-15T06:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -112813,8 +112824,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f7561d50",
+          "translationLastModified": "2026-09-15T06:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -133148,7 +133159,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -145908,8 +145930,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f7561d50",
+          "translationLastModified": "2026-09-15T06:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
