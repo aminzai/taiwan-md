@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T12:52:29+08:00",
-    "zhCommitHead": "02772ddbd",
+    "lastUpdated": "2026-09-14T13:32:40+08:00",
+    "zhCommitHead": "118dff9c1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 881,
+        "fresh": 884,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 145,
+        "missing": 142,
         "orphan": 0
       },
       "ja": {
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 890,
+        "fresh": 892,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 139,
+        "missing": 137,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 869,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 158,
+        "missing": 155,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 873,
+        "fresh": 875,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 148,
+        "missing": 146,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 178,
+        "missing": 177,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 679,
+        "fresh": 680,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 385,
+        "missing": 384,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 861,
+        "fresh": 863,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 181,
+        "missing": 179,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 720,
+        "fresh": 722,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 354,
+        "missing": 352,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 785,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 281,
+        "missing": 279,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 828,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 244,
+        "missing": 242,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 590,
+        "fresh": 593,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 524,
+        "missing": 521,
         "orphan": 0
       }
     },
@@ -6198,7 +6198,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/lifestyle-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -6218,10 +6229,32 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/lifestyle-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/lifestyle-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -6242,7 +6275,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/lifestyle-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -19083,7 +19127,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/junyi-education-platform.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/junyi-education-platform.md",
@@ -19100,7 +19155,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/junyi-education-platform.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/junyi-education-platform.md",
@@ -19109,8 +19175,8 @@
           "sourceContentHash": "sha256:7d150c85340f74af",
           "sourceBodyHash": "sha256:415bd00f696e8783",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "118dff9c",
+          "translationLastModified": "2026-09-14T12:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -19131,7 +19197,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/junyi-education-platform.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/junyi-education-platform.md",
@@ -19148,10 +19225,32 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/junyi-education-platform.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/junyi-education-platform.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -30605,8 +30704,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "118dff9c",
+          "translationLastModified": "2026-09-14T12:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41517,8 +41616,8 @@
           "sourceContentHash": "sha256:4b052a359a9d9447",
           "sourceBodyHash": "sha256:3fe6546421aedaf5",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "118dff9c",
+          "translationLastModified": "2026-09-14T12:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -56915,13 +57014,35 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/gsat.md",
+          "translatedFrom": "Society/學測.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
+          "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/gsat.md",
+          "translatedFrom": "Society/學測.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
+          "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -56936,13 +57057,35 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/gsat.md",
+          "translatedFrom": "Society/學測.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
+          "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/gsat.md",
+          "translatedFrom": "Society/學測.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
+          "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -63183,8 +63326,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "118dff9c",
+          "translationLastModified": "2026-09-14T12:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -108027,8 +108170,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "118dff9c",
+          "translationLastModified": "2026-09-14T12:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -138903,7 +139046,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/chianan-irrigation.md",
+          "translatedFrom": "History/嘉南大圳.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:e8b694e836a1a788",
+          "sourceBodyHash": "sha256:a57ef7adfb910d4f",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -138918,7 +139072,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/chianan-irrigation.md",
+          "translatedFrom": "History/嘉南大圳.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:e8b694e836a1a788",
+          "sourceBodyHash": "sha256:a57ef7adfb910d4f",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -153531,7 +153696,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -153551,16 +153727,49 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/kapo.md",
@@ -153577,16 +153786,60 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -159358,8 +159611,8 @@
           "sourceContentHash": "sha256:09bb72854ee365a4",
           "sourceBodyHash": "sha256:6759735a132d6ff9",
           "translatedAt": "2026-09-14T00:53:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "118dff9c",
+          "translationLastModified": "2026-09-14T12:52:30+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
