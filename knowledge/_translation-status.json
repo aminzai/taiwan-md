@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T05:17:59+08:00",
-    "zhCommitHead": "6d57f84d2",
+    "lastUpdated": "2026-09-15T07:25:02+08:00",
+    "zhCommitHead": "2d9b92b67",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 830,
+        "fresh": 833,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 230,
+        "missing": 227,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 991,
-        "stale": 65,
-        "metadata_stale": 13,
+        "fresh": 993,
+        "stale": 64,
+        "metadata_stale": 12,
         "missing": 52,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 914,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 155,
+        "missing": 152,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1015,
-        "stale": 36,
+        "fresh": 1014,
+        "stale": 35,
         "metadata_stale": 8,
-        "missing": 62,
+        "missing": 64,
         "orphan": 0
       },
       "de": {
@@ -6801,18 +6801,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-15T02:46:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -8201,7 +8190,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T02:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-orchid-industry.md",
@@ -39142,8 +39142,8 @@
           "sourceContentHash": "sha256:4ac40ba7a55e456a",
           "sourceBodyHash": "sha256:7526ec4c044a5e8d",
           "translatedAt": "2026-09-15T02:46:32+08:00",
-          "translationLastCommit": "768dcf09",
-          "translationLastModified": "2026-07-31T07:47:27+08:00",
+          "translationLastCommit": "2d9b92b6",
+          "translationLastModified": "2026-09-15T05:18:06+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -49304,7 +49304,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/watchout-taiwan.md",
+          "translatedFrom": "Society/沃草.md",
+          "sourceCommitSha": "2b7a2adcd",
+          "sourceContentHash": "sha256:97f73d46f1b8c211",
+          "sourceBodyHash": "sha256:f303227e993d74f0",
+          "translatedAt": "2026-09-15T02:46:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/watchout-taiwan.md",
@@ -52766,18 +52777,16 @@
         "pt": {
           "path": "pt/Society/national-museum-of-taiwan-history.md",
           "translatedFrom": "Society/國立臺灣歷史博物館.md",
-          "sourceCommitSha": "bb411ee07",
-          "sourceContentHash": "sha256:0a19013fbe675c85",
-          "sourceBodyHash": "sha256:16078470c5f07551",
-          "translatedAt": "2026-07-29T03:36:23+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-14T22:17:18.397328+00:00",
           "translationLastCommit": "adc69a2f",
           "translationLastModified": "2026-07-29T04:32:17+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -68793,7 +68802,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:e9fddb2ddeadeb96",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T21:16:50.080848+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/mikado-pheasant.md",
@@ -89758,8 +89778,8 @@
           "sourceContentHash": "sha256:03fd31754989ad8f",
           "sourceBodyHash": "sha256:f9337f3e9a513dcd",
           "translatedAt": "2026-09-15T02:46:32+08:00",
-          "translationLastCommit": "379bbc75",
-          "translationLastModified": "2026-08-04T15:53:12+08:00",
+          "translationLastCommit": "2d9b92b6",
+          "translationLastModified": "2026-09-15T05:18:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -125432,7 +125452,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/shulin-red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:1a952f594b1e4c60",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T23:08:30.336540+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/shulin-red-yeast-rice.md",
@@ -134050,18 +134081,16 @@
         "pt": {
           "path": "pt/Food/golden-croissant.md",
           "translatedFrom": "Food/金牛角.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c876a6c84ad1bc82",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
-          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translatedAt": "2026-09-15T02:46:25+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/golden-croissant.md",
@@ -139814,16 +139843,16 @@
         "ru": {
           "path": "ru/History/taipei-first-girls-high-school.md",
           "translatedFrom": "History/北一女.md",
-          "sourceCommitSha": "a6dadd56",
-          "sourceContentHash": "sha256:830fa0ab2a13f52b",
-          "sourceBodyHash": "sha256:63d49fd85f39598d",
-          "translatedAt": "2026-09-10T04:16:02+08:00",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-15T02:46:32+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -150874,18 +150903,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-15T02:46:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -162303,7 +162321,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/hla-alua-people.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:ba2dab5ae5678777",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T21:38:33.431364+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/hla-alua-people.md",
@@ -166076,7 +166105,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/dajia-mazu-pilgrimage.md",
+          "translatedFrom": "Culture/大甲媽祖遶境.md",
+          "sourceCommitSha": "9d6f6678a",
+          "sourceContentHash": "sha256:c6ff5ec261e11e72",
+          "sourceBodyHash": "sha256:9ca9ab3653bc089e",
+          "translatedAt": "2026-09-15T02:46:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/dajia-mazu-pilgrimage.md",
