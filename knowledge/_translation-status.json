@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T04:17:33+08:00",
-    "zhCommitHead": "c4465996e",
+    "lastUpdated": "2026-09-15T04:29:01+08:00",
+    "zhCommitHead": "034dfd9f1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 828,
+        "fresh": 829,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 232,
+        "missing": 231,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 155,
+        "missing": 154,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 978,
+        "fresh": 975,
         "stale": 47,
         "metadata_stale": 14,
-        "missing": 82,
+        "missing": 85,
         "orphan": 0
       },
       "ru": {
@@ -6798,18 +6798,7 @@
           "reason": "same-commit"
         },
         "ar": {
-          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-15T02:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -60244,8 +60233,8 @@
           "sourceContentHash": "sha256:d909a68892279cea",
           "sourceBodyHash": "sha256:8d3f66b5c4593a14",
           "translatedAt": "2026-09-15T02:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "034dfd9f",
+          "translationLastModified": "2026-09-15T04:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -70696,8 +70685,8 @@
           "sourceContentHash": "sha256:0263a8cc3c622c00",
           "sourceBodyHash": "sha256:c88ce81293be71aa",
           "translatedAt": "2026-09-14T06:58:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "034dfd9f",
+          "translationLastModified": "2026-09-15T04:17:41+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -82635,7 +82624,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/shi-lang-admiral.md",
+          "translatedFrom": "People/施琅.md",
+          "sourceCommitSha": "6bca1263d",
+          "sourceContentHash": "sha256:8b5c9e238eb4ea4f",
+          "sourceBodyHash": "sha256:5116f6aabd263b48",
+          "translatedAt": "2026-09-15T02:46:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/shi-lang-admiral.md",
@@ -145812,18 +145812,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-15T02:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -150824,21 +150813,21 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
-        },
-        "ar": {
-          "path": "ar/Geography/alishan-forest-railway.md",
+          "path": "hi/Geography/alishan-forest-railway.md",
           "translatedFrom": "Geography/阿里山林業鐵路.md",
           "sourceCommitSha": "da79c32b0",
           "sourceContentHash": "sha256:98502e991d7261a6",
           "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-15T02:46:31+08:00",
+          "translatedAt": "2026-09-15T02:46:29+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "ar": {
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
