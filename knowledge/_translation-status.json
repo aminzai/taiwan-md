@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T18:53:39+08:00",
-    "zhCommitHead": "559c9a472",
+    "lastUpdated": "2026-09-14T18:56:33+08:00",
+    "zhCommitHead": "40beea2bb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 604,
+        "fresh": 605,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 510,
+        "missing": 509,
         "orphan": 0
       }
     },
@@ -48418,8 +48418,8 @@
           "sourceContentHash": "sha256:32dfc005e4785017",
           "sourceBodyHash": "sha256:fc834459f5ff6d06",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40beea2b",
+          "translationLastModified": "2026-09-14T18:53:39+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -121631,8 +121631,8 @@
           "sourceContentHash": "sha256:57f52a38fd360a40",
           "sourceBodyHash": "sha256:4f0ef8c28469111c",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40beea2b",
+          "translationLastModified": "2026-09-14T18:53:39+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -139305,8 +139305,8 @@
           "sourceContentHash": "sha256:d2cff6b4790d0713",
           "sourceBodyHash": "sha256:889401675c45d56b",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40beea2b",
+          "translationLastModified": "2026-09-14T18:53:39+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -160718,8 +160718,8 @@
           "sourceContentHash": "sha256:09da7327b5a4487f",
           "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40beea2b",
+          "translationLastModified": "2026-09-14T18:53:39+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -160729,7 +160729,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-stamps.md",
+          "translatedFrom": "Culture/台灣郵票.md",
+          "sourceCommitSha": "513144edb",
+          "sourceContentHash": "sha256:09da7327b5a4487f",
+          "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
