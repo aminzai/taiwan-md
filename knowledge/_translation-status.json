@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T12:23:54+08:00",
-    "zhCommitHead": "cea78c511",
+    "lastUpdated": "2026-09-14T12:34:11+08:00",
+    "zhCommitHead": "7e1d2bd78",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 879,
+        "fresh": 880,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 147,
+        "missing": 146,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 889,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 865,
+        "fresh": 866,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "fr": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 246,
+        "missing": 245,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 588,
+        "fresh": 589,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 526,
+        "missing": 525,
         "orphan": 0
       }
     },
@@ -19096,8 +19096,8 @@
           "sourceContentHash": "sha256:7d150c85340f74af",
           "sourceBodyHash": "sha256:415bd00f696e8783",
           "translatedAt": "2026-09-14T00:53:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e1d2bd7",
+          "translationLastModified": "2026-09-14T12:23:54+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41394,7 +41394,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/taiwan-shoes-off-indoors.md",
+          "translatedFrom": "Lifestyle/台灣進屋脫鞋.md",
+          "sourceCommitSha": "93e572f8d",
+          "sourceContentHash": "sha256:4b052a359a9d9447",
+          "sourceBodyHash": "sha256:3fe6546421aedaf5",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -41414,7 +41425,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/taiwan-shoes-off-indoors.md",
+          "translatedFrom": "Lifestyle/台灣進屋脫鞋.md",
+          "sourceCommitSha": "93e572f8d",
+          "sourceContentHash": "sha256:4b052a359a9d9447",
+          "sourceBodyHash": "sha256:3fe6546421aedaf5",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -63093,6 +63115,20 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "7e1d2bd7",
+          "translationLastModified": "2026-09-14T12:23:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ru": {
+          "path": "ru/Nature/shanlinxi.md",
+          "translatedFrom": "Nature/杉林溪.md",
+          "sourceCommitSha": "c4c68308d",
+          "sourceContentHash": "sha256:bc1981684ea96389",
+          "sourceBodyHash": "sha256:8fca360e2bf80295",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -63100,11 +63136,19 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "ru": {
-          "status": "missing"
-        },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/shanlinxi.md",
+          "translatedFrom": "Nature/杉林溪.md",
+          "sourceCommitSha": "c4c68308d",
+          "sourceContentHash": "sha256:bc1981684ea96389",
+          "sourceBodyHash": "sha256:8fca360e2bf80295",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -128157,8 +128201,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-14T00:53:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e1d2bd7",
+          "translationLastModified": "2026-09-14T12:23:54+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -153383,7 +153427,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -165604,8 +165659,8 @@
           "sourceContentHash": "sha256:1130fbcabd739dd6",
           "sourceBodyHash": "sha256:48f17c615e02c664",
           "translatedAt": "2026-09-14T00:53:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e1d2bd7",
+          "translationLastModified": "2026-09-14T12:23:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
