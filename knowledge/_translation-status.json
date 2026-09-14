@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T05:30:57+08:00",
-    "zhCommitHead": "bf057efee",
+    "lastUpdated": "2026-09-15T06:09:10+08:00",
+    "zhCommitHead": "129c3efd1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 915,
+        "fresh": 917,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 111,
+        "missing": 109,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 138,
+        "missing": 137,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 713,
+        "fresh": 714,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 351,
+        "missing": 350,
         "orphan": 0
       },
       "pt": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 815,
+        "fresh": 816,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 862,
+        "fresh": 863,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 208,
+        "missing": 207,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 628,
+        "fresh": 629,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 486,
+        "missing": 485,
         "orphan": 0
       }
     },
@@ -55282,8 +55282,8 @@
           "sourceContentHash": "sha256:5f9aa39b68a9d3f2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T19:39:45.642435+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f37d587a",
+          "translationLastModified": "2026-09-15T05:30:57+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -57892,7 +57892,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -57901,13 +57912,35 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -57925,7 +57958,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -97623,8 +97667,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f37d587a",
+          "translationLastModified": "2026-09-15T05:30:57+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -112761,8 +112805,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f37d587a",
+          "translationLastModified": "2026-09-15T05:30:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -133038,7 +133082,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -145811,7 +145866,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/jiufen.md",
@@ -145834,6 +145900,20 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "f37d587a",
+          "translationLastModified": "2026-09-15T05:30:57+08:00",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ar": {
+          "path": "ar/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -145841,11 +145921,19 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "ar": {
-          "status": "missing"
-        },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/jiufen.md",
