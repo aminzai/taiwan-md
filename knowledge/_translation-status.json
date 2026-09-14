@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T17:12:17+08:00",
-    "zhCommitHead": "bd829ca48",
+    "lastUpdated": "2026-09-14T17:16:12+08:00",
+    "zhCommitHead": "35fbe93ee",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 789,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 276,
+        "missing": 275,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 835,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 236,
+        "missing": 235,
         "orphan": 0
       },
       "de": {
@@ -138972,6 +138972,20 @@
           "sourceContentHash": "sha256:d2cff6b4790d0713",
           "sourceBodyHash": "sha256:889401675c45d56b",
           "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "35fbe93e",
+          "translationLastModified": "2026-09-14T17:12:18+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ar": {
+          "path": "ar/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -138979,11 +138993,19 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "ar": {
-          "status": "missing"
-        },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -157896,8 +157918,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-14T00:53:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35fbe93e",
+          "translationLastModified": "2026-09-14T17:12:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
