@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T19:51:50+08:00",
-    "zhCommitHead": "bedc09c65",
+    "lastUpdated": "2026-09-14T20:08:55+08:00",
+    "zhCommitHead": "30c496de0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 896,
+        "fresh": 897,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 130,
+        "missing": 129,
         "orphan": 0
       },
       "ja": {
@@ -36,42 +36,42 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 906,
+        "fresh": 907,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 123,
+        "missing": 122,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 884,
+        "fresh": 885,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 890,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 133,
+        "missing": 131,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 803,
+        "fresh": 805,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 161,
+        "missing": 159,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 693,
+        "fresh": 694,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 371,
+        "missing": 370,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 732,
+        "fresh": 733,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 342,
+        "missing": 341,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 841,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 607,
+        "fresh": 608,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 507,
+        "missing": 506,
         "orphan": 0
       }
     },
@@ -70121,8 +70121,8 @@
           "sourceContentHash": "sha256:0f10426fa5e4f016",
           "sourceBodyHash": "sha256:f73fed3867526ad3",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30c496de",
+          "translationLastModified": "2026-09-14T19:51:50+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -113667,25 +113667,91 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -121654,8 +121720,8 @@
           "sourceContentHash": "sha256:57f52a38fd360a40",
           "sourceBodyHash": "sha256:4f0ef8c28469111c",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30c496de",
+          "translationLastModified": "2026-09-14T19:51:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -133359,8 +133425,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30c496de",
+          "translationLastModified": "2026-09-14T19:51:50+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -133381,10 +133447,32 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -133404,16 +133492,49 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -160873,8 +160994,8 @@
           "sourceContentHash": "sha256:09da7327b5a4487f",
           "sourceBodyHash": "sha256:d3638d6faf6a3a3f",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30c496de",
+          "translationLastModified": "2026-09-14T19:51:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
