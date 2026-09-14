@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T11:46:21+08:00",
-    "zhCommitHead": "9d13c0263",
+    "lastUpdated": "2026-09-14T11:55:56+08:00",
+    "zhCommitHead": "398fe3d91",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 869,
+        "fresh": 870,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 674,
+        "fresh": 675,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 390,
+        "missing": 389,
         "orphan": 0
       },
       "pt": {
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 358,
+        "missing": 357,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 781,
+        "fresh": 782,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 283,
+        "missing": 282,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 248,
+        "missing": 247,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 586,
+        "fresh": 587,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 528,
+        "missing": 527,
         "orphan": 0
       }
     },
@@ -30542,8 +30542,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-14T00:53:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "398fe3d9",
+          "translationLastModified": "2026-09-14T11:46:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -43609,8 +43609,8 @@
           "sourceContentHash": "sha256:2021a6224e30bd5e",
           "sourceBodyHash": "sha256:ab86534e207e2b33",
           "translatedAt": "2026-09-14T00:53:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "398fe3d9",
+          "translationLastModified": "2026-09-14T11:46:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -62977,8 +62977,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-14T00:53:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "398fe3d9",
+          "translationLastModified": "2026-09-14T11:46:21+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -62988,7 +62988,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/shanlinxi.md",
+          "translatedFrom": "Nature/杉林溪.md",
+          "sourceCommitSha": "c4c68308d",
+          "sourceContentHash": "sha256:bc1981684ea96389",
+          "sourceBodyHash": "sha256:8fca360e2bf80295",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -127942,8 +127953,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-14T00:53:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "398fe3d9",
+          "translationLastModified": "2026-09-14T11:46:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -158961,7 +158972,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/paiwan-glass-beads.md",
@@ -158978,22 +159000,66 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -165345,8 +165411,8 @@
           "sourceContentHash": "sha256:1130fbcabd739dd6",
           "sourceBodyHash": "sha256:48f17c615e02c664",
           "translatedAt": "2026-09-14T00:53:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "398fe3d9",
+          "translationLastModified": "2026-09-14T11:46:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
