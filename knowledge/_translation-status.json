@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:49:33+08:00",
-    "zhCommitHead": "405b3fb21",
+    "lastUpdated": "2026-09-15T02:56:36+08:00",
+    "zhCommitHead": "48f0764e4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 920,
+        "fresh": 921,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 109,
+        "missing": 108,
         "orphan": 0
       },
       "es": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 145,
+        "missing": 144,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 890,
+        "fresh": 891,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "hi": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 855,
+        "fresh": 856,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 215,
+        "missing": 214,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 620,
+        "fresh": 621,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 494,
+        "missing": 493,
         "orphan": 0
       }
     },
@@ -46258,7 +46258,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -46285,7 +46296,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -76499,8 +76521,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "48f0764e",
+          "translationLastModified": "2026-09-15T02:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -95068,8 +95090,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "48f0764e",
+          "translationLastModified": "2026-09-15T02:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -128762,7 +128784,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-railway-bento.md",
@@ -128802,15 +128835,26 @@
           "sourceContentHash": "sha256:bbbd9e32710c1317",
           "sourceBodyHash": "sha256:99086673f8517f78",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "48f0764e",
+          "translationLastModified": "2026-09-15T02:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwan-railway-bento.md",
@@ -152397,8 +152441,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "48f0764e",
+          "translationLastModified": "2026-09-15T02:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -162787,7 +162831,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/paiwan-glass-beads.md",
+          "translatedFrom": "Culture/排灣族琉璃珠.md",
+          "sourceCommitSha": "a90805a83",
+          "sourceContentHash": "sha256:09bb72854ee365a4",
+          "sourceBodyHash": "sha256:6759735a132d6ff9",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/paiwan-glass-beads.md",
@@ -162810,8 +162865,8 @@
           "sourceContentHash": "sha256:09bb72854ee365a4",
           "sourceBodyHash": "sha256:6759735a132d6ff9",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "48f0764e",
+          "translationLastModified": "2026-09-15T02:49:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
