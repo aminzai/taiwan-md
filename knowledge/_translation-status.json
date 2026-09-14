@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T04:03:22+08:00",
-    "zhCommitHead": "08a32373e",
+    "lastUpdated": "2026-09-15T04:07:36+08:00",
+    "zhCommitHead": "f9cea13b9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 355,
+        "missing": 354,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 251,
+        "missing": 250,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 624,
+        "fresh": 625,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 490,
+        "missing": 489,
         "orphan": 0
       }
     },
@@ -46306,8 +46306,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f9cea13b",
+          "translationLastModified": "2026-09-15T04:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -55251,8 +55251,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f9cea13b",
+          "translationLastModified": "2026-09-15T04:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -64804,7 +64804,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwan-white-dolphin.md",
+          "translatedFrom": "Nature/台灣白海豚.md",
+          "sourceCommitSha": "372f0027e",
+          "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
+          "sourceBodyHash": "sha256:53b72f6cf77894ed",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129065,8 +129076,8 @@
           "sourceContentHash": "sha256:bbbd9e32710c1317",
           "sourceBodyHash": "sha256:99086673f8517f78",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f9cea13b",
+          "translationLastModified": "2026-09-15T04:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -152660,8 +152671,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f9cea13b",
+          "translationLastModified": "2026-09-15T04:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -172021,15 +172032,26 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f9cea13b",
+          "translationLastModified": "2026-09-15T04:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/national-taiwan-museum.md",
+          "translatedFrom": "Culture/國立臺灣博物館.md",
+          "sourceCommitSha": "4ce29d97d",
+          "sourceContentHash": "sha256:ec356fcc324527b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T20:00:30.848672+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/national-taiwan-museum.md",
@@ -172049,7 +172071,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/national-taiwan-museum.md",
+          "translatedFrom": "Culture/國立臺灣博物館.md",
+          "sourceCommitSha": "4ce29d97d",
+          "sourceContentHash": "sha256:b0294f51e65e00c0",
+          "sourceBodyHash": "sha256:1f1dbba771873780",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
