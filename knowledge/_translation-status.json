@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T07:25:02+08:00",
-    "zhCommitHead": "2d9b92b67",
+    "lastUpdated": "2026-09-15T07:49:26+08:00",
+    "zhCommitHead": "fb36f9b02",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 993,
-        "stale": 64,
+        "fresh": 994,
+        "stale": 63,
         "metadata_stale": 12,
         "missing": 52,
         "orphan": 0
@@ -49310,8 +49310,8 @@
           "sourceContentHash": "sha256:97f73d46f1b8c211",
           "sourceBodyHash": "sha256:f303227e993d74f0",
           "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fb36f9b0",
+          "translationLastModified": "2026-09-15T07:25:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -125458,8 +125458,8 @@
           "sourceContentHash": "sha256:1a952f594b1e4c60",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T23:08:30.336540+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fb36f9b0",
+          "translationLastModified": "2026-09-15T07:25:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -144996,18 +144996,16 @@
         "pt": {
           "path": "pt/History/taiwan-elections-and-party-politics.md",
           "translatedFrom": "History/台灣選舉與政黨政治.md",
-          "sourceCommitSha": "2e0cc381d",
-          "sourceContentHash": "sha256:f462ef48505faa9b",
-          "sourceBodyHash": "sha256:019ea30197aa5f25",
-          "translatedAt": "2026-07-28T03:07:44+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:bee6db6cebb342a7",
+          "sourceBodyHash": "sha256:cf2cbcf164430410",
+          "translatedAt": "2026-09-14T23:49:08.761144+00:00",
           "translationLastCommit": "2518be7c",
           "translationLastModified": "2026-07-28T05:57:06+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-elections-and-party-politics.md",
@@ -166111,8 +166109,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fb36f9b0",
+          "translationLastModified": "2026-09-15T07:25:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
