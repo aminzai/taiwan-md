@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T21:52:34+08:00",
-    "zhCommitHead": "7505c23fa",
+    "lastUpdated": "2026-09-14T22:34:54+08:00",
+    "zhCommitHead": "7a54d4b1f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -143260,8 +143260,8 @@
           "sourceContentHash": "sha256:d80f079014589543",
           "sourceBodyHash": "sha256:3441000e1e1b1dde",
           "translatedAt": "2026-09-14T06:58:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7a54d4b1",
+          "translationLastModified": "2026-09-14T21:52:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -150644,18 +150644,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-14T06:58:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Geography/alishan-forest-railway.md",
@@ -151405,7 +151394,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/western-trunk-railway.md",
+          "translatedFrom": "Geography/縱貫鐵路.md",
+          "sourceCommitSha": "77fa1a757",
+          "sourceContentHash": "sha256:fc555545d67f593e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T13:31:37.743276+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/western-trunk-railway.md",
