@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T21:29:14+08:00",
-    "zhCommitHead": "783b99c12",
+    "lastUpdated": "2026-09-14T21:40:29+08:00",
+    "zhCommitHead": "e6cbd4254",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 124,
+        "missing": 123,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 890,
+        "fresh": 891,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 134,
+        "missing": 133,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 810,
+        "fresh": 811,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 154,
+        "missing": 153,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 882,
+        "fresh": 883,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 160,
+        "missing": 159,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 798,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 267,
+        "missing": 266,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 613,
+        "fresh": 614,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 501,
+        "missing": 500,
         "orphan": 0
       }
     },
@@ -24207,8 +24207,8 @@
           "sourceContentHash": "sha256:3fab2a74ac11d1b7",
           "sourceBodyHash": "sha256:29363c705647bf15",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cbd425",
+          "translationLastModified": "2026-09-14T21:29:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -32751,8 +32751,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cbd425",
+          "translationLastModified": "2026-09-14T21:29:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46319,7 +46319,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-blood-donation.md",
+          "translatedFrom": "Society/台灣捐血.md",
+          "sourceCommitSha": "d5c0f8970",
+          "sourceContentHash": "sha256:0288d7726f0c4e4a",
+          "sourceBodyHash": "sha256:3833aad49a7f6cb9",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-blood-donation.md",
@@ -46328,6 +46339,20 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "e6cbd425",
+          "translationLastModified": "2026-09-14T21:29:14+08:00",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ar": {
+          "path": "ar/Society/taiwan-blood-donation.md",
+          "translatedFrom": "Society/台灣捐血.md",
+          "sourceCommitSha": "d5c0f8970",
+          "sourceContentHash": "sha256:0288d7726f0c4e4a",
+          "sourceBodyHash": "sha256:3833aad49a7f6cb9",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -46335,14 +46360,22 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "ar": {
-          "status": "missing"
-        },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-blood-donation.md",
+          "translatedFrom": "Society/台灣捐血.md",
+          "sourceCommitSha": "d5c0f8970",
+          "sourceContentHash": "sha256:0288d7726f0c4e4a",
+          "sourceBodyHash": "sha256:3833aad49a7f6cb9",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -77621,7 +77654,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/qianqian-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:84a9abe5d2802f5e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T13:11:01.364195+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/qianqian-eating.md",
@@ -134004,8 +134048,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cbd425",
+          "translationLastModified": "2026-09-14T21:29:14+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -159862,8 +159906,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cbd425",
+          "translationLastModified": "2026-09-14T21:29:14+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -161418,7 +161462,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/pinban-boat.md",
+          "translatedFrom": "Culture/拼板舟.md",
+          "sourceCommitSha": "1c1927882",
+          "sourceContentHash": "sha256:b67985f61b48d180",
+          "sourceBodyHash": "sha256:7e401e79a285bbeb",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -161427,7 +161482,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/pinban-boat.md",
+          "translatedFrom": "Culture/拼板舟.md",
+          "sourceCommitSha": "1c1927882",
+          "sourceContentHash": "sha256:b67985f61b48d180",
+          "sourceBodyHash": "sha256:7e401e79a285bbeb",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
