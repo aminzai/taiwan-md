@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T10:03:13+08:00",
-    "zhCommitHead": "c17e9b202",
+    "lastUpdated": "2026-09-14T10:11:26+08:00",
+    "zhCommitHead": "65ee56e5e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 858,
+        "fresh": 859,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 166,
+        "missing": 165,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 780,
+        "fresh": 781,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 670,
+        "fresh": 671,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 394,
+        "missing": 393,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 286,
+        "missing": 285,
         "orphan": 0
       },
       "ru": {
@@ -17078,15 +17078,26 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-14T00:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65ee56e5",
+          "translationLastModified": "2026-09-14T10:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/mask-national-team.md",
@@ -17103,10 +17114,32 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-14T00:53:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/mask-national-team.md",
@@ -43374,8 +43407,8 @@
           "sourceContentHash": "sha256:2021a6224e30bd5e",
           "sourceBodyHash": "sha256:ab86534e207e2b33",
           "translatedAt": "2026-09-14T00:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65ee56e5",
+          "translationLastModified": "2026-09-14T10:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -43400,7 +43433,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/power-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -84630,8 +84674,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-14T00:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65ee56e5",
+          "translationLastModified": "2026-09-14T10:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -95778,8 +95822,8 @@
           "sourceContentHash": "sha256:d5d2732779427fb1",
           "sourceBodyHash": "sha256:ba64b4515c6095ff",
           "translatedAt": "2026-09-14T00:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65ee56e5",
+          "translationLastModified": "2026-09-14T10:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -120182,8 +120226,8 @@
           "sourceContentHash": "sha256:887c3be39222e6b9",
           "sourceBodyHash": "sha256:140c52cfad734a21",
           "translatedAt": "2026-09-14T00:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65ee56e5",
+          "translationLastModified": "2026-09-14T10:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
