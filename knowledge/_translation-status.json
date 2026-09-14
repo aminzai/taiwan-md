@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T07:20:44+08:00",
-    "zhCommitHead": "c24cb181d",
+    "lastUpdated": "2026-09-15T07:26:34+08:00",
+    "zhCommitHead": "2e8a46cd9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 717,
+        "fresh": 718,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 347,
+        "missing": 346,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 245,
+        "missing": 244,
         "orphan": 0
       },
       "ru": {
@@ -57943,8 +57943,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e8a46cd",
+          "translationLastModified": "2026-09-15T07:20:44+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -130493,8 +130493,8 @@
           "sourceContentHash": "sha256:630da9b890460bec",
           "sourceBodyHash": "sha256:f3daf5d832d676fb",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e8a46cd",
+          "translationLastModified": "2026-09-15T07:20:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -130504,16 +130504,49 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/daxi-dried-tofu.md",
+          "translatedFrom": "Food/大溪豆乾.md",
+          "sourceCommitSha": "56b89c791",
+          "sourceContentHash": "sha256:630da9b890460bec",
+          "sourceBodyHash": "sha256:f3daf5d832d676fb",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -133364,8 +133397,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e8a46cd",
+          "translationLastModified": "2026-09-15T07:20:44+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -146152,8 +146185,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e8a46cd",
+          "translationLastModified": "2026-09-15T07:20:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -171659,8 +171692,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e8a46cd",
+          "translationLastModified": "2026-09-15T07:20:44+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
