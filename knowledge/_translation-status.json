@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T14:11:38+08:00",
-    "zhCommitHead": "571ca8484",
+    "lastUpdated": "2026-09-14T14:31:59+08:00",
+    "zhCommitHead": "405e64c16",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 886,
+        "fresh": 887,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       },
       "ja": {
@@ -36,50 +36,50 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 895,
+        "fresh": 896,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 134,
+        "missing": 133,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 873,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 878,
+        "fresh": 879,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 143,
+        "missing": 142,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 175,
+        "missing": 174,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 683,
+        "fresh": 684,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 381,
+        "missing": 380,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 866,
+        "fresh": 867,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 176,
+        "missing": 175,
         "orphan": 0
       },
       "hi": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 788,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 277,
+        "missing": 276,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 239,
+        "missing": 238,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 595,
+        "fresh": 596,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 519,
+        "missing": 518,
         "orphan": 0
       }
     },
@@ -6249,8 +6249,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -19169,8 +19169,8 @@
           "sourceContentHash": "sha256:7d150c85340f74af",
           "sourceBodyHash": "sha256:415bd00f696e8783",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -21575,7 +21575,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Technology/lifting-newspaper-ban.md",
+          "translatedFrom": "Technology/報禁解除.md",
+          "sourceCommitSha": "7f5972b70",
+          "sourceContentHash": "sha256:5a5479f4d6a79c93",
+          "sourceBodyHash": "sha256:09e6bc194dc58574",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/lifting-newspaper-ban.md",
@@ -21623,7 +21634,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/lifting-newspaper-ban.md",
+          "translatedFrom": "Technology/報禁解除.md",
+          "sourceCommitSha": "7f5972b70",
+          "sourceContentHash": "sha256:5a5479f4d6a79c93",
+          "sourceBodyHash": "sha256:09e6bc194dc58574",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/lifting-newspaper-ban.md",
@@ -21640,7 +21662,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/lifting-newspaper-ban.md",
+          "translatedFrom": "Technology/報禁解除.md",
+          "sourceCommitSha": "7f5972b70",
+          "sourceContentHash": "sha256:5a5479f4d6a79c93",
+          "sourceBodyHash": "sha256:09e6bc194dc58574",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -40685,7 +40718,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/food-delivery-platforms.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-14T00:53:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -40705,16 +40749,60 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/food-delivery-platforms.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/food-delivery-platforms.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/food-delivery-platforms.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/food-delivery-platforms.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-14T00:53:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/food-delivery-platforms.md",
@@ -41643,8 +41731,8 @@
           "sourceContentHash": "sha256:4b052a359a9d9447",
           "sourceBodyHash": "sha256:3fe6546421aedaf5",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -57120,8 +57208,8 @@
           "sourceContentHash": "sha256:62d8e0ab4e0fd9d1",
           "sourceBodyHash": "sha256:52e4b8f287c1b0bb",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -139223,8 +139311,8 @@
           "sourceContentHash": "sha256:e8b694e836a1a788",
           "sourceBodyHash": "sha256:a57ef7adfb910d4f",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -153967,8 +154055,8 @@
           "sourceContentHash": "sha256:00421195123cb8ed",
           "sourceBodyHash": "sha256:ce8848a5d2ba18da",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -163036,8 +163124,8 @@
           "sourceContentHash": "sha256:1c51bf71c790291d",
           "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "405e64c1",
+          "translationLastModified": "2026-09-14T14:11:38+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -163070,10 +163158,32 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/atayal.md",
+          "translatedFrom": "Culture/泰雅族.md",
+          "sourceCommitSha": "0cc9a79ae",
+          "sourceContentHash": "sha256:1c51bf71c790291d",
+          "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/atayal.md",
+          "translatedFrom": "Culture/泰雅族.md",
+          "sourceCommitSha": "0cc9a79ae",
+          "sourceContentHash": "sha256:1c51bf71c790291d",
+          "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
