@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T07:22:38+08:00",
-    "zhCommitHead": "53ae5f8e3",
+    "lastUpdated": "2026-09-14T08:36:46+08:00",
+    "zhCommitHead": "dc986c586",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 244,
+        "missing": 243,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 986,
-        "stale": 68,
+        "fresh": 989,
+        "stale": 65,
         "metadata_stale": 14,
         "missing": 53,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 905,
         "stale": 45,
         "metadata_stale": 10,
-        "missing": 163,
+        "missing": 161,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1002,
-        "stale": 44,
+        "fresh": 1004,
+        "stale": 43,
         "metadata_stale": 9,
-        "missing": 66,
+        "missing": 65,
         "orphan": 0
       },
       "de": {
@@ -11376,18 +11376,16 @@
         "pt": {
           "path": "pt/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "879ed9e77",
-          "sourceContentHash": "sha256:54da57abafa311d1",
-          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
-          "translatedAt": "2026-07-26T23:53:49+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:4a1f10aaddce056e",
+          "sourceBodyHash": "sha256:7f55fdd7f7687d07",
+          "translatedAt": "2026-09-13T23:55:55.976021+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-fintech-development.md",
@@ -20807,18 +20805,16 @@
         "pt": {
           "path": "pt/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T13:19:35.364036+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-14T00:04:48.163758+00:00",
           "translationLastCommit": "d91d85f9",
           "translationLastModified": "2026-08-04T21:48:54+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -79363,18 +79359,16 @@
         "pt": {
           "path": "pt/People/bernard-tseng.md",
           "translatedFrom": "People/曾博恩.md",
-          "sourceCommitSha": "86db85f3d",
-          "sourceContentHash": "sha256:47cec189b7c7bcfc",
-          "sourceBodyHash": "sha256:db17e32fed11eadc",
-          "translatedAt": "2026-07-26T19:07:47+08:00",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-13T22:59:34.887913+00:00",
           "translationLastCommit": "4f72f613",
           "translationLastModified": "2026-08-31T08:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/bernard-tseng.md",
@@ -87152,7 +87146,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/lin-chia-chen-singer.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-14T06:58:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/lin-chia-chen-singer.md",
@@ -101199,18 +101204,16 @@
         "ru": {
           "path": "ru/People/stanley-yen.md",
           "translatedFrom": "People/嚴長壽.md",
-          "sourceCommitSha": "df2e75589",
-          "sourceContentHash": "sha256:259b129f305ff5f9",
-          "sourceBodyHash": "sha256:366255e36a4fa0f5",
-          "translatedAt": "2026-07-29T15:46:46+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:f03fe4356a8b034b",
+          "sourceBodyHash": "sha256:0511dd3ec1c7896e",
+          "translatedAt": "2026-09-14T00:31:09.222103+00:00",
           "translationLastCommit": "a02590af",
           "translationLastModified": "2026-07-29T17:40:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -145464,7 +145467,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-14T06:58:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -150469,7 +150483,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-14T06:58:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -169308,8 +169333,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-14T04:11:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dc986c58",
+          "translationLastModified": "2026-09-14T07:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -171814,7 +171839,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-lacquerware.md",
+          "translatedFrom": "Culture/台灣漆器.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:69f1aed62a2df405",
+          "sourceBodyHash": "sha256:1bd762ed30b04b56",
+          "translatedAt": "2026-09-14T06:58:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-lacquerware.md",
