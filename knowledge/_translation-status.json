@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T06:59:23+08:00",
-    "zhCommitHead": "519fb951c",
+    "lastUpdated": "2026-09-15T07:13:52+08:00",
+    "zhCommitHead": "800e8bec7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 829,
+        "fresh": 830,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 135,
+        "missing": 134,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 902,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 865,
+        "fresh": 866,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 205,
+        "missing": 204,
         "orphan": 0
       },
       "de": {
@@ -57915,8 +57915,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e8097e5",
+          "translationLastModified": "2026-09-15T06:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -69834,8 +69834,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e8097e5",
+          "translationLastModified": "2026-09-15T06:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -133303,8 +133303,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e8097e5",
+          "translationLastModified": "2026-09-15T06:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -146091,8 +146091,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:49:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e8097e5",
+          "translationLastModified": "2026-09-15T06:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -171598,8 +171598,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7e8097e5",
+          "translationLastModified": "2026-09-15T06:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -171634,13 +171634,35 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -171649,7 +171671,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
