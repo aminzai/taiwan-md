@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T22:14:51.227Z",
+  "lastUpdated": "2026-09-14T22:15:02.497Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9204,
+      "commits": 9215,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -35,7 +35,7 @@
     },
     {
       "login": "tboydar",
-      "commits": 86,
+      "commits": 87,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
@@ -49,7 +49,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 59,
+      "commits": 69,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9204,
+      "commits": 9215,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -960,7 +960,7 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 86,
+      "commits": 87,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
@@ -1029,37 +1029,9 @@
       }
     }
   ],
-  "weeklyActive": 2,
-  "monthlyActive": 7,
+  "weeklyActive": 1,
+  "monthlyActive": 5,
   "recentlyJoined": [
-    {
-      "login": "ytchen175",
-      "commits": 1,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/58975450?v=4",
-      "profileUrl": "https://github.com/ytchen175",
-      "firstCommitAt": "2026-08-15 16:04:57 +0800",
-      "lastCommitAt": "2026-08-15 16:04:57 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 1,
-        "system": 0,
-        "translation": 0
-      }
-    },
-    {
-      "login": "wegoliao",
-      "commits": 2,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10190551?v=4",
-      "profileUrl": "https://github.com/wegoliao",
-      "firstCommitAt": "2026-08-15 16:05:10 +0800",
-      "lastCommitAt": "2026-08-15 16:05:26 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 2,
-        "system": 0,
-        "translation": 0
-      }
-    },
     {
       "login": "rhosiqs",
       "commits": 8,

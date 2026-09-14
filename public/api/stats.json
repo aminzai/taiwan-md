@@ -1,24 +1,24 @@
 {
-  "totalArticles": 11477,
+  "totalArticles": 12014,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7747,
+  "totalTags": 8040,
   "categories": [
     {
       "name": "es",
-      "count": 950
+      "count": 1000
     },
     {
       "name": "ko",
-      "count": 967
+      "count": 1020
     },
     {
       "name": "fr",
-      "count": 960
+      "count": 1012
     },
     {
       "name": "en",
-      "count": 969
+      "count": 1018
     },
     {
       "name": "ja",
@@ -26,15 +26,19 @@
     },
     {
       "name": "vi",
-      "count": 934
+      "count": 985
     },
     {
       "name": "hi",
-      "count": 756
+      "count": 797
+    },
+    {
+      "name": "ar",
+      "count": 873
     },
     {
       "name": "ru",
-      "count": 864
+      "count": 914
     },
     {
       "name": "Technology",
@@ -46,11 +50,7 @@
     },
     {
       "name": "id",
-      "count": 725
-    },
-    {
-      "name": "ar",
-      "count": 831
+      "count": 771
     },
     {
       "name": "Politics",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 926
+      "count": 978
     },
     {
       "name": "Food",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 585
+      "count": 636
     },
     {
       "name": "Lifestyle",
@@ -128,7 +128,7 @@
     },
     {
       "name": "YouTuber",
-      "count": 37
+      "count": 42
     },
     {
       "name": "科技與企業",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 11477,
+    "zh-TW": 12014,
     "en": 0
   },
-  "lastUpdated": "2026-09-13T22:14:50.541Z",
-  "stars": 1171,
+  "lastUpdated": "2026-09-14T22:14:59.551Z",
+  "stars": 1172,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
-    "en": 969,
+    "en": 1018,
     "ja": 889,
-    "ko": 967,
-    "es": 950,
-    "fr": 960,
-    "vi": 934,
-    "id": 725,
-    "pt": 926,
-    "hi": 756,
-    "ar": 831,
-    "ru": 864,
-    "de": 585
+    "ko": 1020,
+    "es": 1000,
+    "fr": 1012,
+    "vi": 985,
+    "id": 771,
+    "pt": 978,
+    "hi": 797,
+    "ar": 873,
+    "ru": 914,
+    "de": 636
   },
-  "enPages": 969,
+  "enPages": 1018,
   "totalPages": 1119
 }

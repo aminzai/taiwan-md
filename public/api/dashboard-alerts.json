@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T22:15:10.574Z",
+  "lastUpdated": "2026-09-14T22:15:26.654Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 3,
@@ -23,7 +23,7 @@
     {
       "id": "observer-absent",
       "severity": "yellow",
-      "message": "觀察者缺席 7 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
+      "message": "觀察者缺席 8 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
       "source": "observer-presence.py",
       "owner": "twmd-weekly-report-sun",
       "firstSeen": "2026-09-13"
