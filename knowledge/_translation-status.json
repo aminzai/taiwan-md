@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T02:56:36+08:00",
-    "zhCommitHead": "48f0764e4",
+    "lastUpdated": "2026-09-15T03:08:48+08:00",
+    "zhCommitHead": "bc4c8fd88",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 908,
+        "fresh": 910,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 118,
+        "missing": 116,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 897,
+        "fresh": 898,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 127,
+        "missing": 126,
         "orphan": 0
       },
       "fr": {
@@ -60,50 +60,50 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 820,
+        "fresh": 821,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 144,
+        "missing": 143,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 707,
+        "fresh": 708,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 357,
+        "missing": 356,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 151,
+        "missing": 150,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 745,
+        "fresh": 746,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 329,
+        "missing": 328,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 810,
+        "fresh": 811,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 254,
+        "missing": 253,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 856,
+        "fresh": 857,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "de": {
@@ -46252,7 +46252,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -46272,28 +46283,105 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:49:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/sign-language-video-interpretation.md",
@@ -74904,7 +74992,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/idiot-princess.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -76535,8 +76634,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc4c8fd8",
+          "translationLastModified": "2026-09-15T02:56:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -95104,8 +95203,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc4c8fd8",
+          "translationLastModified": "2026-09-15T02:56:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -128849,8 +128948,8 @@
           "sourceContentHash": "sha256:bbbd9e32710c1317",
           "sourceBodyHash": "sha256:99086673f8517f78",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc4c8fd8",
+          "translationLastModified": "2026-09-15T02:56:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -141865,8 +141964,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc4c8fd8",
+          "translationLastModified": "2026-09-15T02:56:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -152455,8 +152554,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-14T14:50:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc4c8fd8",
+          "translationLastModified": "2026-09-15T02:56:36+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
