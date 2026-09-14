@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T11:58:25+08:00",
-    "zhCommitHead": "99efb3f16",
+    "lastUpdated": "2026-09-14T12:00:52+08:00",
+    "zhCommitHead": "8ebcb0c09",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 886,
+        "fresh": 887,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 143,
+        "missing": 142,
         "orphan": 0
       },
       "es": {
@@ -30511,8 +30511,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ebcb0c0",
+          "translationLastModified": "2026-09-14T11:58:25+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41367,7 +41367,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/taiwan-shoes-off-indoors.md",
+          "translatedFrom": "Lifestyle/台灣進屋脫鞋.md",
+          "sourceCommitSha": "93e572f8d",
+          "sourceContentHash": "sha256:4b052a359a9d9447",
+          "sourceBodyHash": "sha256:3fe6546421aedaf5",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -43567,8 +43578,8 @@
           "sourceContentHash": "sha256:2021a6224e30bd5e",
           "sourceBodyHash": "sha256:ab86534e207e2b33",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ebcb0c0",
+          "translationLastModified": "2026-09-14T11:58:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -107746,8 +107757,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ebcb0c0",
+          "translationLastModified": "2026-09-14T11:58:25+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -159000,8 +159011,8 @@
           "sourceContentHash": "sha256:09bb72854ee365a4",
           "sourceBodyHash": "sha256:6759735a132d6ff9",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ebcb0c0",
+          "translationLastModified": "2026-09-14T11:58:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -165391,8 +165402,8 @@
           "sourceContentHash": "sha256:1130fbcabd739dd6",
           "sourceBodyHash": "sha256:48f17c615e02c664",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8ebcb0c0",
+          "translationLastModified": "2026-09-14T11:58:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
