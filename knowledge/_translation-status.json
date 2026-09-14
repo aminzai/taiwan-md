@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T10:36:05+08:00",
-    "zhCommitHead": "f49039dca",
+    "lastUpdated": "2026-09-14T11:08:04+08:00",
+    "zhCommitHead": "80d8753ed",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 883,
+        "fresh": 884,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 146,
+        "missing": 145,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 860,
+        "fresh": 861,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 164,
+        "missing": 163,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 867,
+        "fresh": 868,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 154,
+        "missing": 153,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 784,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 182,
+        "missing": 180,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 672,
+        "fresh": 673,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 392,
+        "missing": 391,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 855,
+        "fresh": 856,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 187,
+        "missing": 186,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 715,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 360,
+        "missing": 359,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 780,
+        "fresh": 781,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 284,
+        "missing": 283,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 251,
+        "missing": 250,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 583,
+        "fresh": 584,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 531,
+        "missing": 530,
         "orphan": 0
       }
     },
@@ -17092,8 +17092,8 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-14T00:53:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80d8753e",
+          "translationLastModified": "2026-09-14T10:36:06+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -30466,7 +30466,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Art/presidential-office.md",
+          "translatedFrom": "Art/總統府.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:9f877cc81b557524",
+          "sourceBodyHash": "sha256:e3230be59701ee45",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -84787,8 +84798,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-14T00:53:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80d8753e",
+          "translationLastModified": "2026-09-14T10:36:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -95935,8 +95946,8 @@
           "sourceContentHash": "sha256:d5d2732779427fb1",
           "sourceBodyHash": "sha256:ba64b4515c6095ff",
           "translatedAt": "2026-09-14T00:53:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80d8753e",
+          "translationLastModified": "2026-09-14T10:36:06+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -106286,8 +106297,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-14T00:53:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80d8753e",
+          "translationLastModified": "2026-09-14T10:36:06+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -120339,8 +120350,8 @@
           "sourceContentHash": "sha256:887c3be39222e6b9",
           "sourceBodyHash": "sha256:140c52cfad734a21",
           "translatedAt": "2026-09-14T00:53:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80d8753e",
+          "translationLastModified": "2026-09-14T10:36:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -127776,8 +127787,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-14T00:53:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80d8753e",
+          "translationLastModified": "2026-09-14T10:36:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -127787,7 +127798,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/yani-xinchengshan-mine-incident.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -127807,7 +127829,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/yani-xinchengshan-mine-incident.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/yani-xinchengshan-mine-incident.md",
@@ -127824,10 +127857,32 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/yani-xinchengshan-mine-incident.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-14T00:53:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/yani-xinchengshan-mine-incident.md",
+          "translatedFrom": "History/亞泥新城山礦場事件.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:405a92e136f56a5b",
+          "sourceBodyHash": "sha256:df2c6704c69b6b19",
+          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -165074,25 +165129,91 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/taroko-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-14T00:53:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/taroko-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taroko-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taroko-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-14T00:53:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taroko-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taroko-people.md",
+          "translatedFrom": "Culture/太魯閣族.md",
+          "sourceCommitSha": "dac70d5dd",
+          "sourceContentHash": "sha256:1130fbcabd739dd6",
+          "sourceBodyHash": "sha256:48f17c615e02c664",
+          "translatedAt": "2026-09-14T00:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
