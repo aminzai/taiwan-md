@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T22:30:08+08:00",
-    "zhCommitHead": "c2705fb05",
+    "lastUpdated": "2026-09-14T23:15:53+08:00",
+    "zhCommitHead": "e4b635f49",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 904,
+        "fresh": 905,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       },
       "ja": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 700,
+        "fresh": 701,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 364,
+        "missing": 363,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 737,
+        "fresh": 738,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 337,
+        "missing": 336,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 264,
+        "missing": 263,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 614,
+        "fresh": 615,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 500,
+        "missing": 499,
         "orphan": 0
       }
     },
@@ -8990,7 +8990,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -9008,22 +9019,66 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -24221,8 +24276,8 @@
           "sourceContentHash": "sha256:3fab2a74ac11d1b7",
           "sourceBodyHash": "sha256:29363c705647bf15",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -32765,8 +32820,8 @@
           "sourceContentHash": "sha256:74b1c98a3f3d8ebb",
           "sourceBodyHash": "sha256:2df61ce131967498",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46353,8 +46408,8 @@
           "sourceContentHash": "sha256:0288d7726f0c4e4a",
           "sourceBodyHash": "sha256:3833aad49a7f6cb9",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -77705,8 +77760,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -105312,8 +105367,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -153544,8 +153599,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -159997,8 +160052,8 @@
           "sourceContentHash": "sha256:c6ff5ec261e11e72",
           "sourceBodyHash": "sha256:9ca9ab3653bc089e",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -161616,8 +161671,8 @@
           "sourceContentHash": "sha256:b67985f61b48d180",
           "sourceBodyHash": "sha256:7e401e79a285bbeb",
           "translatedAt": "2026-09-14T14:50:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4b635f4",
+          "translationLastModified": "2026-09-14T22:30:08+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
