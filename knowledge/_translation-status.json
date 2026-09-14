@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T18:04:46+08:00",
-    "zhCommitHead": "796776358",
+    "lastUpdated": "2026-09-14T18:18:42+08:00",
+    "zhCommitHead": "2571b0801",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 135,
+        "missing": 134,
         "orphan": 0
       },
       "ja": {
@@ -60,26 +60,26 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 796,
+        "fresh": 797,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 168,
+        "missing": 167,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 688,
+        "fresh": 689,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 376,
+        "missing": 375,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 873,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 170,
+        "missing": 169,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 275,
+        "missing": 274,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 601,
+        "fresh": 602,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 513,
+        "missing": 512,
         "orphan": 0
       }
     },
@@ -74692,7 +74692,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/guaji.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-14T14:49:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -117175,8 +117186,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2571b080",
+          "translationLastModified": "2026-09-14T18:04:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -121415,25 +121426,80 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/flying-fish.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/flying-fish.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/flying-fish.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/flying-fish.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/flying-fish.md",
+          "translatedFrom": "Food/飛魚.md",
+          "sourceCommitSha": "05e6a5853",
+          "sourceContentHash": "sha256:57f52a38fd360a40",
+          "sourceBodyHash": "sha256:4f0ef8c28469111c",
+          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -139043,8 +139109,8 @@
           "sourceContentHash": "sha256:d2cff6b4790d0713",
           "sourceBodyHash": "sha256:889401675c45d56b",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2571b080",
+          "translationLastModified": "2026-09-14T18:04:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -145144,8 +145210,8 @@
           "sourceContentHash": "sha256:fc555545d67f593e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T09:42:44.389223+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2571b080",
+          "translationLastModified": "2026-09-14T18:04:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
