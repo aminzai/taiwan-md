@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T01:58:08+08:00",
-    "zhCommitHead": "5d4f00f89",
+    "lastUpdated": "2026-09-15T02:12:17+08:00",
+    "zhCommitHead": "b2d6923cd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 118,
+        "missing": 117,
         "orphan": 0
       },
       "vi": {
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 743,
+        "fresh": 744,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 331,
+        "missing": 330,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 853,
+        "fresh": 854,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "de": {
@@ -73630,8 +73630,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b2d6923c",
+          "translationLastModified": "2026-09-15T01:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -76479,7 +76479,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tsai-tung-jung.md",
@@ -76496,7 +76507,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/tsai-tung-jung.md",
@@ -95018,8 +95040,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b2d6923c",
+          "translationLastModified": "2026-09-15T01:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -140441,8 +140463,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b2d6923c",
+          "translationLastModified": "2026-09-15T01:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -152222,7 +152244,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -152237,8 +152270,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b2d6923c",
+          "translationLastModified": "2026-09-15T01:58:09+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -152248,7 +152281,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-14T14:50:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
