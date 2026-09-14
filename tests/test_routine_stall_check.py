@@ -295,6 +295,34 @@ def test_rule2_weekly_miss_flagged_when_no_covering_memory_file(repo):
     assert result["severity"] in ("warn", "critical")
 
 
+def test_rule2_warn_report_names_both_causes_not_just_missed_run(repo):
+    """尺二的 WARN 不准替根因下結論。
+
+    它量的是「main 上有沒有這趟的 memory 檔」，而這個讀數有兩種根因：真的沒 fire，
+    或 fire 了也寫了 memory 但那筆 commit 還沒推上 main。2026-09-14 實測撞到後者——
+    twmd-news-lens-weekly 與 twmd-weekly-report-sun 被報成「錯過一趟」，兩份 memory
+    檔其實躺在救援分支上。文案寫死成「錯過一趟」就是 REFLEXES #38 混維度。
+    """
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+
+    write_routine_md(repo, [routine_row("twmd-routine-audit-weekly", "0 21 * * 0")])
+    write_memory_files(repo, [])
+    write_live_state(repo, {"twmd-routine-audit-weekly": True})
+
+    result = MODULE.build_result(now, since_days=30)
+    assert result["severity"] == "warn"
+
+    report = MODULE.human_report(result)
+    # 逐條那行只說量到什麼，不說根因是什麼
+    assert "main 上沒有這趟的 memory 檔" in report
+    assert "錯過一趟" not in report
+    # 收尾必須並列兩個候選，並給出分開它們的方法
+    assert "兩種根因" in report
+    assert "真的沒 fire" in report
+    assert "還沒推上 main" in report
+
+
 def test_rule2_covered_run_is_ok_not_warn(repo):
     now = MODULE.parse_now("2026-08-25T12:00:00+08:00")  # due 08-23 21:00 之後 39h，已過 grace
     commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-25T00:00:00+08:00")

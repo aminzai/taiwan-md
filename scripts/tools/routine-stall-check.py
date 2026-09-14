@@ -42,7 +42,14 @@ main。已經 commit 但從沒推上來的 routine 產出，在這裡結構上�
 **尺二（週排程 miss）**：`docs/semiont/ROUTINE.md` 排程表裡「非 ⏸️ 且 cron 帶
 day-of-week 欄位」的每條 routine（如 `0 2 * * 0`），機械算出它上一次應該 fire 的
 時刻；那個時刻已經過了 30 小時，且 `docs/semiont/memory/` 找不到日期 ≥ 應 fire
-日、檔名 handle 對得上（含 `TASKID_ALIASES` 別名）的檔 → WARN「錯過一趟」。
+日、檔名 handle 對得上（含 `TASKID_ALIASES` 別名）的檔 → WARN。
+
+**尺二的 WARN 也有兩種根因**（2026-09-14 maintainer-am 校正，跟尺一同型）：它量的是
+「main 上有沒有這趟的 memory 檔」，不是「這趟有沒有跑」。(a) 真的沒 fire，(b) fire 了
+也寫了 memory、但那筆 commit 還沒推上 main。2026-09-14 這輪實測撞到 (b)：
+`twmd-news-lens-weekly` 與 `twmd-weekly-report-sun` 被報成「錯過一趟」，兩份 memory 檔
+其實都存在，躺在救援分支 `20260912-unpushed-routine-queue` 上。所以文案不再寫
+「錯過一趟」（那是對根因下結論），改寫它實際量到的那件事。
 是否要檢查一條 routine，優先讀 `docs/semiont/routine-live-state.json` 的
 `enabled`；那份檔讀不到才退回 ROUTINE.md 本身的 ⏸️ 標記（此時候選名單已經是
 非 ⏸️ 的子集，等於直接照 SSOT 走）。
@@ -466,8 +473,8 @@ def human_report(result: dict) -> str:
     for c in r2["checked"]:
         if c["status"] == "warn":
             lines.append(
-                f"  ⚠️  {c['task_id']} 錯過一趟 — 應 fire {c['due_at']}"
-                f"（{c['hours_since_due']}h 前），memory/ 無對應檔"
+                f"  ⚠️  {c['task_id']} main 上沒有這趟的 memory 檔 — 應 fire {c['due_at']}"
+                f"（{c['hours_since_due']}h 前）"
             )
         elif c["status"] == "ok":
             lines.append(f"  ✅ {c['task_id']} 有對應 memory 檔（{c['covered_by']}）")
@@ -482,7 +489,19 @@ def human_report(result: dict) -> str:
     if result["severity"] == "ok":
         lines.append("✅ 綠燈")
     elif result["severity"] == "warn":
-        lines.append("⚠️  有 WARN，需要人看一眼週排程是不是空場")
+        lines.append(
+            "⚠️  有 WARN。這支尺讀的是 main 上有沒有那趟的 memory 檔，"
+            "所以同一個 WARN 有兩種根因，讀數相同："
+        )
+        lines.append("   (a) 那條 routine 真的沒 fire（排程器停了／額度到頂／登入過期）")
+        lines.append(
+            "   (b) fire 了也寫了 memory，但那筆 commit 還沒推上 main"
+            "（查那台機器的分岔，或看 `git ls-remote --heads origin` 有沒有救援分支收著）"
+        )
+        lines.append(
+            "   分開的方法：到那台機器上 `ls docs/semiont/memory/ | grep <日期>`，"
+            "或對救援分支 `git ls-tree -r --name-only <branch> docs/semiont/memory/`。"
+        )
     elif r1.get("diagnosis") == "routine-output-not-landing":
         lines.append(
             "🚨 CRITICAL — routine 產出沒落地到 main，但 main 上有人在推，"
