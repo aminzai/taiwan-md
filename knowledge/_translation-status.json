@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T05:01:59+08:00",
-    "zhCommitHead": "f12bb283a",
+    "lastUpdated": "2026-09-15T05:12:13+08:00",
+    "zhCommitHead": "75a32a7fd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,34 +60,34 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 712,
+        "fresh": 713,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 352,
+        "missing": 351,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 896,
+        "fresh": 897,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 146,
+        "missing": 145,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 748,
+        "fresh": 749,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 326,
+        "missing": 325,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 861,
+        "fresh": 862,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 209,
+        "missing": 208,
         "orphan": 0
       },
       "de": {
@@ -55237,8 +55237,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75a32a7f",
+          "translationLastModified": "2026-09-15T05:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -64822,8 +64822,8 @@
           "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
           "sourceBodyHash": "sha256:53b72f6cf77894ed",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75a32a7f",
+          "translationLastModified": "2026-09-15T05:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -75230,8 +75230,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75a32a7f",
+          "translationLastModified": "2026-09-15T05:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -97567,8 +97567,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75a32a7f",
+          "translationLastModified": "2026-09-15T05:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -112705,6 +112705,20 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-14T14:50:00+08:00",
+          "translationLastCommit": "75a32a7f",
+          "translationLastModified": "2026-09-15T05:01:59+08:00",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "path": "vi/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:01+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -112712,23 +112726,64 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "vi": {
-          "status": "missing"
-        },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tsai-yen-ming.md",
+          "translatedFrom": "People/蔡衍明.md",
+          "sourceCommitSha": "3d9addf71",
+          "sourceContentHash": "sha256:7ba5e76325c5339a",
+          "sourceBodyHash": "sha256:04d4784a133b2499",
+          "translatedAt": "2026-09-14T14:50:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/tsai-yen-ming.md",
@@ -172216,8 +172271,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-14T14:50:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75a32a7f",
+          "translationLastModified": "2026-09-15T05:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
