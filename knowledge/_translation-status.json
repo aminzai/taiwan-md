@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T10:01:32+08:00",
-    "zhCommitHead": "ac7c97bca",
+    "lastUpdated": "2026-09-14T10:03:13+08:00",
+    "zhCommitHead": "c17e9b202",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 880,
+        "fresh": 881,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 149,
+        "missing": 148,
         "orphan": 0
       },
       "es": {
@@ -17095,8 +17095,8 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c17e9b20",
+          "translationLastModified": "2026-09-14T10:01:32+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -24601,8 +24601,8 @@
           "sourceContentHash": "sha256:1bc10627c22ad583",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T00:11:13.201548+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c17e9b20",
+          "translationLastModified": "2026-09-14T10:01:32+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -43368,7 +43368,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/power-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-14T00:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -95795,8 +95806,8 @@
           "sourceContentHash": "sha256:d5d2732779427fb1",
           "sourceBodyHash": "sha256:ba64b4515c6095ff",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c17e9b20",
+          "translationLastModified": "2026-09-14T10:01:32+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -106146,8 +106157,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c17e9b20",
+          "translationLastModified": "2026-09-14T10:01:32+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -120199,8 +120210,8 @@
           "sourceContentHash": "sha256:887c3be39222e6b9",
           "sourceBodyHash": "sha256:140c52cfad734a21",
           "translatedAt": "2026-09-14T00:53:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c17e9b20",
+          "translationLastModified": "2026-09-14T10:01:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
