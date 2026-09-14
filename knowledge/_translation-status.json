@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T05:10:36+08:00",
-    "zhCommitHead": "1a07eb68d",
+    "lastUpdated": "2026-09-15T05:17:59+08:00",
+    "zhCommitHead": "6d57f84d2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 832,
+        "fresh": 830,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 228,
+        "missing": 230,
         "orphan": 0
       },
       "pt": {
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 975,
-        "stale": 47,
+        "fresh": 976,
+        "stale": 48,
         "metadata_stale": 14,
-        "missing": 85,
+        "missing": 83,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1014,
-        "stale": 37,
+        "fresh": 1015,
+        "stale": 36,
         "metadata_stale": 8,
         "missing": 62,
         "orphan": 0
@@ -8195,18 +8195,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -8215,7 +8204,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T02:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -46155,8 +46155,8 @@
           "sourceContentHash": "sha256:c31283732f5c82a4",
           "sourceBodyHash": "sha256:95652e4e6a2b2202",
           "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d57f84d",
+          "translationLastModified": "2026-09-15T05:10:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -82685,8 +82685,8 @@
           "sourceContentHash": "sha256:8b5c9e238eb4ea4f",
           "sourceBodyHash": "sha256:5116f6aabd263b48",
           "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d57f84d",
+          "translationLastModified": "2026-09-15T05:10:45+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -89754,16 +89754,16 @@
         "ru": {
           "path": "ru/People/muscle-mountain.md",
           "translatedFrom": "People/肌肉山山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:a9c781639a414788",
-          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "sourceCommitSha": "445a73ced",
+          "sourceContentHash": "sha256:03fd31754989ad8f",
+          "sourceBodyHash": "sha256:f9337f3e9a513dcd",
+          "translatedAt": "2026-09-15T02:46:32+08:00",
           "translationLastCommit": "379bbc75",
           "translationLastModified": "2026-08-04T15:53:12+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -107570,8 +107570,8 @@
           "sourceContentHash": "sha256:e3fbaeedac9c6f10",
           "sourceBodyHash": "sha256:1b0f00900854455d",
           "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d57f84d",
+          "translationLastModified": "2026-09-15T05:10:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -127194,8 +127194,8 @@
           "sourceContentHash": "sha256:ffeaf97d752181df",
           "sourceBodyHash": "sha256:b546f7c4ab790d17",
           "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d57f84d",
+          "translationLastModified": "2026-09-15T05:10:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -145858,18 +145858,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-15T02:46:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -173408,7 +173397,18 @@
           "reason": "hash-match-sha-lost"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/schoolyard-rhymes.md",
+          "translatedFrom": "Culture/校園順口溜.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:b0cd2d1a58dd30ca",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T21:05:25.272420+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ru": {
           "path": "ru/Culture/schoolyard-rhymes.md",
