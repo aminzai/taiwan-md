@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-14T09:41:33+08:00",
-    "zhCommitHead": "2c3004524",
+    "lastUpdated": "2026-09-14T09:44:18+08:00",
+    "zhCommitHead": "0a0135baf",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 864,
+        "fresh": 865,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "vi": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 852,
+        "fresh": 853,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 190,
+        "missing": 189,
         "orphan": 0
       },
       "hi": {
@@ -17076,7 +17076,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-14T00:53:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -24534,8 +24545,8 @@
           "sourceContentHash": "sha256:7e79f4d7834c55c1",
           "sourceBodyHash": "sha256:e24305e511c42507",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a0135ba",
+          "translationLastModified": "2026-09-14T09:41:33+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -95706,8 +95717,8 @@
           "sourceContentHash": "sha256:d5d2732779427fb1",
           "sourceBodyHash": "sha256:ba64b4515c6095ff",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a0135ba",
+          "translationLastModified": "2026-09-14T09:41:33+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -95745,7 +95756,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/cool-dream.md",
+          "translatedFrom": "People/酷的夢.md",
+          "sourceCommitSha": "28b28be35",
+          "sourceContentHash": "sha256:d5d2732779427fb1",
+          "sourceBodyHash": "sha256:ba64b4515c6095ff",
+          "translatedAt": "2026-09-14T00:53:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -106024,8 +106046,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-14T00:53:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a0135ba",
+          "translationLastModified": "2026-09-14T09:41:33+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
