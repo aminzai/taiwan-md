@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T06:09:10+08:00",
-    "zhCommitHead": "129c3efd1",
+    "lastUpdated": "2026-09-15T06:12:15+08:00",
+    "zhCommitHead": "73731c221",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 927,
+        "fresh": 928,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 102,
+        "missing": 101,
         "orphan": 0
       },
       "es": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 898,
+        "fresh": 899,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 144,
+        "missing": 143,
         "orphan": 0
       },
       "hi": {
@@ -57909,7 +57909,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:49:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/haha-tai.md",
@@ -57935,8 +57946,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73731c22",
+          "translationLastModified": "2026-09-15T06:09:10+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -57946,7 +57957,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/haha-tai.md",
+          "translatedFrom": "Society/哈哈台.md",
+          "sourceCommitSha": "e292b0e80",
+          "sourceContentHash": "sha256:4c2a5bf81e106582",
+          "sourceBodyHash": "sha256:8bb3282a6d2b9453",
+          "translatedAt": "2026-09-14T14:50:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -97625,8 +97647,8 @@
           "sourceContentHash": "sha256:f91b55938ef411f1",
           "sourceBodyHash": "sha256:6b90253634145c2e",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73731c22",
+          "translationLastModified": "2026-09-15T06:09:10+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -112763,8 +112785,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73731c22",
+          "translationLastModified": "2026-09-15T06:09:10+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -145858,8 +145880,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "73731c22",
+          "translationLastModified": "2026-09-15T06:09:10+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
