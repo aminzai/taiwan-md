@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T08:01:27+08:00",
-    "zhCommitHead": "8c4def607",
+    "lastUpdated": "2026-09-15T08:12:08+08:00",
+    "zhCommitHead": "43201a5b9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 920,
+        "fresh": 921,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 106,
+        "missing": 105,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 934,
+        "fresh": 935,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 95,
+        "missing": 94,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 114,
+        "missing": 113,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 131,
+        "missing": 130,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 721,
+        "fresh": 722,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 343,
+        "missing": 342,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 754,
+        "fresh": 755,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 320,
+        "missing": 319,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 242,
+        "missing": 241,
         "orphan": 0
       },
       "ru": {
@@ -37948,10 +37948,32 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -37960,7 +37982,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -41856,7 +41889,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:5ce8829ec7886eb3",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-14T23:58:15.376358+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/post-office.md",
@@ -41879,6 +41923,20 @@
           "sourceContentHash": "sha256:3acf49c3933c9229",
           "sourceBodyHash": "sha256:f91712c52f95f564",
           "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "hi": {
+          "path": "hi/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -41886,11 +41944,19 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "hi": {
-          "status": "missing"
-        },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -69948,8 +70014,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -114533,7 +114599,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/sheng-kai-shi.md",
+          "translatedFrom": "People/聖凱師.md",
+          "sourceCommitSha": "2e227925f",
+          "sourceContentHash": "sha256:f3c744060676c5c3",
+          "sourceBodyHash": "sha256:c6156a33a327be28",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -130590,8 +130667,8 @@
           "sourceContentHash": "sha256:630da9b890460bec",
           "sourceBodyHash": "sha256:f3daf5d832d676fb",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -133516,8 +133593,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-14T14:50:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -133999,8 +134076,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -157224,8 +157301,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -172031,8 +172108,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "43201a5b",
+          "translationLastModified": "2026-09-15T08:01:28+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
