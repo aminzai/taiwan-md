@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T08:58:28+08:00",
-    "zhCommitHead": "fa84e2152",
+    "lastUpdated": "2026-09-15T09:20:43+08:00",
+    "zhCommitHead": "ba0cf78e1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 924,
+        "fresh": 927,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 102,
+        "missing": 99,
         "orphan": 0
       },
       "ja": {
@@ -36,58 +36,58 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 938,
+        "fresh": 940,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 91,
+        "missing": 89,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 914,
+        "fresh": 916,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 110,
+        "missing": 108,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 917,
+        "fresh": 919,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 104,
+        "missing": 102,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 838,
+        "fresh": 840,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 126,
+        "missing": 124,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 723,
+        "fresh": 725,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 341,
+        "missing": 339,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 132,
+        "missing": 131,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 758,
+        "fresh": 759,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 316,
+        "missing": 315,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 874,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 198,
+        "missing": 196,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 639,
+        "fresh": 640,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 475,
+        "missing": 474,
         "orphan": 0
       }
     },
@@ -14608,37 +14608,136 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -32120,8 +32219,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0cf78e",
+          "translationLastModified": "2026-09-15T08:58:28+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -38121,8 +38220,8 @@
           "sourceContentHash": "sha256:8099a54c43948775",
           "sourceBodyHash": "sha256:3422a46a0cbc8816",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0cf78e",
+          "translationLastModified": "2026-09-15T08:58:28+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -101841,25 +101940,91 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -101871,10 +102036,32 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -122974,7 +123161,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -128926,8 +129124,8 @@
           "sourceContentHash": "sha256:3584d0ee1c271870",
           "sourceBodyHash": "sha256:fc73e90b8bb78029",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0cf78e",
+          "translationLastModified": "2026-09-15T08:58:28+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -130951,8 +131149,8 @@
           "sourceContentHash": "sha256:630da9b890460bec",
           "sourceBodyHash": "sha256:f3daf5d832d676fb",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0cf78e",
+          "translationLastModified": "2026-09-15T08:58:28+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -134371,8 +134569,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0cf78e",
+          "translationLastModified": "2026-09-15T08:58:28+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -157596,8 +157794,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ba0cf78e",
+          "translationLastModified": "2026-09-15T08:58:28+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
