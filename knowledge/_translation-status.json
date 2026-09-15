@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T16:59:42+08:00",
-    "zhCommitHead": "93baf00c2",
+    "lastUpdated": "2026-09-15T17:06:16+08:00",
+    "zhCommitHead": "240bbc011",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,26 +44,26 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 940,
+        "fresh": 941,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 940,
+        "fresh": 941,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 81,
+        "missing": 80,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 860,
+        "fresh": 861,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 104,
+        "missing": 103,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 935,
+        "fresh": 936,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 107,
+        "missing": 106,
         "orphan": 0
       },
       "hi": {
@@ -14403,8 +14403,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240bbc01",
+          "translationLastModified": "2026-09-15T16:59:42+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -84921,8 +84921,8 @@
           "sourceContentHash": "sha256:b1932f2a73ba90a1",
           "sourceBodyHash": "sha256:256049c552528280",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240bbc01",
+          "translationLastModified": "2026-09-15T16:59:42+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -118794,8 +118794,8 @@
           "sourceContentHash": "sha256:95e79e3879d5de81",
           "sourceBodyHash": "sha256:37f56e84be16a425",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240bbc01",
+          "translationLastModified": "2026-09-15T16:59:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -139902,13 +139902,46 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taichung-port.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taichung-port.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taichung-port.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -142415,8 +142448,8 @@
           "sourceContentHash": "sha256:d80f079014589543",
           "sourceBodyHash": "sha256:3441000e1e1b1dde",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240bbc01",
+          "translationLastModified": "2026-09-15T16:59:42+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -145339,8 +145372,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240bbc01",
+          "translationLastModified": "2026-09-15T16:59:42+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -169383,8 +169416,8 @@
           "sourceContentHash": "sha256:e2dca0350b4b80aa",
           "sourceBodyHash": "sha256:dee79906f6659ba2",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "240bbc01",
+          "translationLastModified": "2026-09-15T16:59:42+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -169447,7 +169480,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/bunun-millet-festival.md",
+          "translatedFrom": "Culture/布農族小米歲時祭儀.md",
+          "sourceCommitSha": "36f293ae0",
+          "sourceContentHash": "sha256:e2dca0350b4b80aa",
+          "sourceBodyHash": "sha256:dee79906f6659ba2",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/bunun-millet-festival.md",
