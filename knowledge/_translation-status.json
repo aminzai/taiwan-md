@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T13:41:27+08:00",
-    "zhCommitHead": "cb957da6c",
+    "lastUpdated": "2026-09-15T13:47:14+08:00",
+    "zhCommitHead": "d03097f5d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 953,
+        "fresh": 954,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 76,
+        "missing": 75,
         "orphan": 0
       },
       "es": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 657,
+        "fresh": 658,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 457,
+        "missing": 456,
         "orphan": 0
       }
     },
@@ -8603,7 +8603,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/papermaking.md",
+          "translatedFrom": "Economy/造紙.md",
+          "sourceCommitSha": "73c4abdde",
+          "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
+          "sourceBodyHash": "sha256:118ca7651c90b0fe",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -53685,8 +53696,8 @@
           "sourceContentHash": "sha256:8576889db63ed923",
           "sourceBodyHash": "sha256:6ca0540d354ad040",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -84281,8 +84292,8 @@
           "sourceContentHash": "sha256:377677ba4b69d2d9",
           "sourceBodyHash": "sha256:4ff2706afa6c57f6",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -116563,8 +116574,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -142572,8 +142583,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -142611,7 +142622,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-piracy-history.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -146912,8 +146934,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -160700,8 +160722,8 @@
           "sourceContentHash": "sha256:a02c70297f1ffa93",
           "sourceBodyHash": "sha256:136fcbce54ee6de7",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -163270,8 +163292,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d03097f5",
+          "translationLastModified": "2026-09-15T13:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
