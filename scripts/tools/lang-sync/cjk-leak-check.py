@@ -271,7 +271,11 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)",
     "ar": r"المراجع|مصادر\s*الصور|قراءة\s*موسعة",
     "ru": r"Ссылки|Справочные материалы|Дополнительное чтение",
-    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)",
+    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)|Bild(?:er)?quellen?|Bildnachweise?",
+    # 2026-09-14: de 加上 Bildnachweise／Bildquellen／Bildnachweis（en 有
+    # „Image Sources"，de 缺同等的圖片出處標題變體，照片授權行裡的正體中文
+    # 攝影者署名（如 迷惘的人生）被當成正文 CJK leak 誤報——與 image_health.py
+    # 已認得的 de 圖片出處標題家族一致。
 }
 # zh 原文標題沒被翻譯時的救援比對（任何目標語言都可能發生，heading 本身留原文）
 _ZH_HEADING_FALLBACK = r"參考資料|参考资料|參考文獻|参考文献|延伸閱讀|延伸阅读|圖片來源|图片来源"
