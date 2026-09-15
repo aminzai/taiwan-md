@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.4'
-last_updated: 2026-09-13
-last_session: '2026-09-13-twmd-routine-audit-weekly（新增 2 條 + staleness-guard vc 1→2：GPU 鄰居負載拉長 routine 耗時 vc=3 distill-ready + OBSERVER-QUEUE 表格缺欄躲過掃描；§未消化 61→63）'
+last_updated: 2026-09-16
+last_session: '2026-09-16-twmd-babel-nightly（新增 1 條：cjk-leak-check 書目區簡體殘留閘門非 lang-aware，国/学/画 三字誤殺 ja 全部 worker×backend 組合近 0% 成功率，已修 commit 57ff48fe0；§未消化 69→70）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-09-16 twmd-babel-nightly — shared-gate-blind-to-target-language-orthography：一道給非 CJK 語言校準的閘門，套進自己也用漢字的語言就整批誤殺
+
+- **pattern**: `shared-gate-blind-to-target-language-orthography`
+- **原則**：`cjk-leak-check.py` 的書目區簡體殘留判準（`SIMPLIFIED_ONLY_CHARS`）是為 ru/ar 這類完全不用漢字的語言校準的——出現任一簡體專用字，等於書目標題沒被翻譯、原文漏網。但呼叫端（`detect_simplified_residue`）沒有 lang 參數，同一把尺原封不動套進 ja。日本自己的戰後漢字簡化（新字体）跟 PRC 簡化是兩個獨立的改革，多數字形不同（華≠华、東≠东），但少數字剛好收斂到同一個 Unicode 碼位——國→国、學→学、畫→画——這三字是日文書面語最常見的詞根（国＝国家/我が国、学＝大学/学校、画＝動画/映画），書目區幾乎不可能不出現。閘門看見「国」就整篇判 leak，不管它是不是日文原文本來就該有的字。
+- **觸發**：2026-09-16 twmd-babel-nightly Stage 0 preflight 印出 ja 在全部 5 個 worker×backend 組合近兩日實績檢查全部 <15%（lagunas 1%／macm4max1 9%／macm4max2 0%／macm4max3 0%／nemo 5%），跨後端一致的低分是「閘門攔下」訊號而非「模型翻不好」訊號（同族 REFLEXES #38 混維度「存活≠生產」的變體：这裡是「跨後端一致失敗≠模型能力問題」）。拆 master.log 2026-09-14〜16 樣本：76 次「書目區簡體殘留」命中，100% 落在 ja，字集正好是国(45)／学(19)／画(12)三字；同期其他語言合計只有 5 次零星命中，且都是別的字形（团/议/间/线/华，日文不用這些字形，判定應維持不變）。「no output written by translate.py (exit=1)」這個外層 report.jsonl 的通用失敗訊息，蓋掉了 master.log 才看得到的真正原因（cjk-leak）——結構性判斷的細節只活在其中一層 log，另一層只留下失去歸因力的通用錯誤碼，是 REFLEXES #65「awareness instrument 自身 regex 要 cross-verify」的另一面：不是儀器算錯，是儀器把診斷資訊丟在半路。
+- **修補**：`detect_simplified_residue(text, lang=None)` 新增 lang 參數，lang="ja" 時豁免 `JA_SHINJITAI_OVERLAP = frozenset("国学画")`（三字經驗證：master.log 全部 76 次命中排除後零漏網），其餘簡體專用字判定不變；兩個呼叫端（`cjk-leak-check.py::scan_file` 與 `translate.py::detect_cjk_leak`）同步傳入 lang。修完即時驗證：dispatcher（PID 12398，subprocess 呼叫 translate.py，不需重啟）下一篇 ja 文章（台北橋機車瀑布）從先前必敗變成 71 秒過關存檔。commit `57ff48fe0`。
+- **可能層級**：通用反射候選（任何「一把尺校準給一組語言、套進另一組語言」的共用閘門都適用——語言／腳本／書寫系統重疊但不完全重疊時，共用檢查器天生就有這個風險面），但目前只有一個 instance，先進 buffer
+- **相關**：MANIFESTO §14「高儀器化，必要時才用 LLM」提到的假陽性家族案例（括號 gloss／ja 的了 markers／書名號三個家族 2026-07-24 同天現形）是同一個母體現象的更早 instance——共用規則對子集有效、對另一子集是誤殺；本條是這個母體現象在「書目區簡體殘留」這道閘門上的新形狀。REFLEXES #16 Peer/probe 延伸段「量測層驗證」講的是外部工具误判，本條講的是自家工具對自家目標語言誤判，性質相近但主體不同
+- **verification_count**: 1
+- **severity**: structural
 
 ### 2026-09-15 twmd-feedback-triage — windowed-query-underreports-the-extremum-it-is-asked-for：問「歷史上最長是多久」的查詢自己帶了一個上限，於是同一個常數被校正兩次還是偏小
 
