@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T12:51:02+08:00",
-    "zhCommitHead": "db98523d1",
+    "lastUpdated": "2026-09-15T12:51:14+08:00",
+    "zhCommitHead": "bd4a6a678",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 738,
+        "fresh": 739,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 326,
+        "missing": 325,
         "orphan": 0
       },
       "pt": {
@@ -163052,7 +163052,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/kaohsiung-port.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
