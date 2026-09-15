@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T14:56:34+08:00",
-    "zhCommitHead": "2a5464308",
+    "lastUpdated": "2026-09-15T15:02:15+08:00",
+    "zhCommitHead": "0d1831d37",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 936,
+        "fresh": 937,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 85,
+        "missing": 84,
         "orphan": 0
       },
       "vi": {
@@ -8592,8 +8592,8 @@
           "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
           "sourceBodyHash": "sha256:118ca7651c90b0fe",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d1831d3",
+          "translationLastModified": "2026-09-15T14:56:35+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -141811,8 +141811,8 @@
           "sourceContentHash": "sha256:b5ab59defaace1b5",
           "sourceBodyHash": "sha256:c2985aa6d661a10a",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d1831d3",
+          "translationLastModified": "2026-09-15T14:56:35+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -146990,8 +146990,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d1831d3",
+          "translationLastModified": "2026-09-15T14:56:35+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -161624,8 +161624,8 @@
           "sourceContentHash": "sha256:6207d486dffbdfd0",
           "sourceBodyHash": "sha256:a33d52837bb11fe8",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d1831d3",
+          "translationLastModified": "2026-09-15T14:56:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -161641,7 +161641,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/taiwan-independent-bookstores.md",
+          "translatedFrom": "Culture/台灣獨立書店.md",
+          "sourceCommitSha": "1919362ee",
+          "sourceContentHash": "sha256:6207d486dffbdfd0",
+          "sourceBodyHash": "sha256:a33d52837bb11fe8",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -162507,8 +162518,8 @@
           "sourceContentHash": "sha256:d6b33427d383d025",
           "sourceBodyHash": "sha256:d806fd1fb93df2e0",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d1831d3",
+          "translationLastModified": "2026-09-15T14:56:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
