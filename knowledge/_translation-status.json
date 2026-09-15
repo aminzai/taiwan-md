@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T14:49:35+08:00",
-    "zhCommitHead": "b238ca4e1",
+    "lastUpdated": "2026-09-15T14:56:34+08:00",
+    "zhCommitHead": "2a5464308",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 945,
+        "fresh": 946,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 81,
+        "missing": 80,
         "orphan": 0
       },
       "ja": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 659,
+        "fresh": 660,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 455,
+        "missing": 454,
         "orphan": 0
       }
     },
@@ -141929,8 +141929,8 @@
           "sourceContentHash": "sha256:b5ab59defaace1b5",
           "sourceBodyHash": "sha256:c2985aa6d661a10a",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a546430",
+          "translationLastModified": "2026-09-15T14:49:35+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -142757,8 +142757,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a546430",
+          "translationLastModified": "2026-09-15T14:49:35+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -147119,8 +147119,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a546430",
+          "translationLastModified": "2026-09-15T14:49:35+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -161618,7 +161618,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwan-independent-bookstores.md",
+          "translatedFrom": "Culture/台灣獨立書店.md",
+          "sourceCommitSha": "1919362ee",
+          "sourceContentHash": "sha256:6207d486dffbdfd0",
+          "sourceBodyHash": "sha256:a33d52837bb11fe8",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -161651,7 +161662,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-independent-bookstores.md",
+          "translatedFrom": "Culture/台灣獨立書店.md",
+          "sourceCommitSha": "1919362ee",
+          "sourceContentHash": "sha256:6207d486dffbdfd0",
+          "sourceBodyHash": "sha256:a33d52837bb11fe8",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163543,8 +163565,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a546430",
+          "translationLastModified": "2026-09-15T14:49:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
