@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T17:36:53+08:00",
-    "zhCommitHead": "84b88fe25",
+    "lastUpdated": "2026-09-15T17:39:16+08:00",
+    "zhCommitHead": "7b9b45151",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 937,
+        "fresh": 938,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 105,
+        "missing": 104,
         "orphan": 0
       },
       "hi": {
@@ -14431,8 +14431,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b9b4515",
+          "translationLastModified": "2026-09-15T17:36:53+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -18794,8 +18794,8 @@
           "sourceContentHash": "sha256:91d2e06ad3b432cd",
           "sourceBodyHash": "sha256:326a1e569da021aa",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b9b4515",
+          "translationLastModified": "2026-09-15T17:36:53+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -18808,7 +18808,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/earthquake-early-warning-system.md",
+          "translatedFrom": "Technology/地震預警系統.md",
+          "sourceCommitSha": "53d3624d7",
+          "sourceContentHash": "sha256:91d2e06ad3b432cd",
+          "sourceBodyHash": "sha256:326a1e569da021aa",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -134896,8 +134907,8 @@
           "sourceContentHash": "sha256:1a44b37b859d8b1a",
           "sourceBodyHash": "sha256:04c29c7226490085",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b9b4515",
+          "translationLastModified": "2026-09-15T17:36:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -140043,8 +140054,8 @@
           "sourceContentHash": "sha256:92c000d095995392",
           "sourceBodyHash": "sha256:493dcb5683d6e166",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b9b4515",
+          "translationLastModified": "2026-09-15T17:36:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -142641,8 +142652,8 @@
           "sourceContentHash": "sha256:d80f079014589543",
           "sourceBodyHash": "sha256:3441000e1e1b1dde",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b9b4515",
+          "translationLastModified": "2026-09-15T17:36:53+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -169609,8 +169620,8 @@
           "sourceContentHash": "sha256:e2dca0350b4b80aa",
           "sourceBodyHash": "sha256:dee79906f6659ba2",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b9b4515",
+          "translationLastModified": "2026-09-15T17:36:53+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
