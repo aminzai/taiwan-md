@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T22:34:01+08:00",
-    "zhCommitHead": "79847a5b1",
+    "lastUpdated": "2026-09-15T22:36:12+08:00",
+    "zhCommitHead": "92e170b3e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 953,
+        "fresh": 954,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 71,
+        "missing": 70,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 951,
+        "fresh": 952,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 307,
+        "missing": 306,
         "orphan": 0
       },
       "pt": {
@@ -49098,8 +49098,8 @@
           "sourceContentHash": "sha256:dacc755fc6695d56",
           "sourceBodyHash": "sha256:8ca41487dbdd4aec",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -56855,8 +56855,8 @@
           "sourceContentHash": "sha256:bc1d9c831c947934",
           "sourceBodyHash": "sha256:5699382224a6d5e2",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -77685,7 +77685,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/guaji.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-15T19:45:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/guaji.md",
@@ -107983,8 +107994,8 @@
           "sourceContentHash": "sha256:cac2434cbb03924f",
           "sourceBodyHash": "sha256:80650db2e1788a43",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -119055,8 +119066,8 @@
           "sourceContentHash": "sha256:eaeba845240b369e",
           "sourceBodyHash": "sha256:b37aec09305a898c",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -131081,8 +131092,8 @@
           "sourceContentHash": "sha256:417f55638e009ac3",
           "sourceBodyHash": "sha256:0a9c845f48a278d1",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -135661,8 +135672,8 @@
           "sourceContentHash": "sha256:6515803df49cd854",
           "sourceBodyHash": "sha256:68be41dd8378b384",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -141276,8 +141287,8 @@
           "sourceContentHash": "sha256:e62d0eea59514d87",
           "sourceBodyHash": "sha256:a7df3087b3ccbab6",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -143835,7 +143846,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/xiluo-bridge.md",
+          "translatedFrom": "History/西螺大橋.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceBodyHash": "sha256:0367fe0da1bfd005",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/xiluo-bridge.md",
@@ -154706,7 +154728,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
+          "translatedFrom": "Geography/台灣五大地形與地理結構.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b14a14cb2829b8df",
+          "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -177854,8 +177887,8 @@
           "sourceContentHash": "sha256:0c930d5c5db17f02",
           "sourceBodyHash": "sha256:03854077db2ba606",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "92e170b3",
+          "translationLastModified": "2026-09-15T22:34:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
