@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T07:46:30+08:00",
-    "zhCommitHead": "4ded7eb29",
+    "lastUpdated": "2026-09-16T07:48:53+08:00",
+    "zhCommitHead": "458bc93b1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 970,
+        "fresh": 971,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 54,
+        "missing": 53,
         "orphan": 0
       },
       "fr": {
@@ -17757,8 +17757,8 @@
           "sourceContentHash": "sha256:0d5afce6607921e8",
           "sourceBodyHash": "sha256:6f90b2f90f4bd537",
           "translatedAt": "2026-09-15T19:45:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "458bc93b",
+          "translationLastModified": "2026-09-16T07:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -31723,8 +31723,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-15T19:45:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "458bc93b",
+          "translationLastModified": "2026-09-16T07:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -45637,7 +45637,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/power-grid-resilience.md",
+          "translatedFrom": "Society/電網韌性.md",
+          "sourceCommitSha": "598a5a547",
+          "sourceContentHash": "sha256:2021a6224e30bd5e",
+          "sourceBodyHash": "sha256:ab86534e207e2b33",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/power-grid-resilience.md",
@@ -113281,8 +113292,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-15T19:45:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "458bc93b",
+          "translationLastModified": "2026-09-16T07:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -135151,8 +135162,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-15T19:45:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "458bc93b",
+          "translationLastModified": "2026-09-16T07:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -176910,8 +176921,8 @@
           "sourceContentHash": "sha256:1130fbcabd739dd6",
           "sourceBodyHash": "sha256:48f17c615e02c664",
           "translatedAt": "2026-09-15T19:45:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "458bc93b",
+          "translationLastModified": "2026-09-16T07:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
