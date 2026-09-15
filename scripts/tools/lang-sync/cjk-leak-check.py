@@ -358,14 +358,29 @@ SIMPLIFIED_ONLY_CHARS = frozenset(
     "远还进边违连归业习"
 )
 
+# ja 新字体（shinjitai）與 PRC 簡化字剛好同一個字形的重疊字（第十五家族，
+# 2026-09-16 twmd-babel-nightly）：日本自己的漢字簡化（戰後新字体）跟中國
+# simplified 是各自獨立的改革，但少數字剛好收斂到同一個 Unicode 碼位——
+# 國→国／學→学／畫→画 三字日本標準寫法就是這個字形，不是簡體殘留。書目區
+# 常引用「我が国」「大学」「動画」這類日文詞，SIMPLIFIED_ONLY_CHARS 對 ja
+# 完全不篩就整批誤殺：master.log 2026-09-14〜16 樣本 76 次「書目區簡體殘留」
+# 命中全部落在 ja，字集恰好就是這三字（画12／学19／国45），同期其他語言只有
+# 5 次零星命中且都是別的字（团/议/间/线/华，日文不用這些字形，判定不變）。
+# 判準只豁免這三字，SIMPLIFIED_ONLY_CHARS 其餘字元（华/东/长/书/义等日文
+# 仍用傳統/自己的新字体，跟簡體不同碼位）繼續照舊全部攔。
+JA_SHINJITAI_OVERLAP = frozenset("国学画")
 
-def detect_simplified_residue(text: str) -> Optional[str]:
+
+def detect_simplified_residue(text: str, lang: str = None) -> Optional[str]:
     """書目區內任何一個簡體專用字 → 判「書目區簡體殘留」；找不到回 None。
     傳入的 text 應為書目區原文（未經 strip_legit_zones，才留得住待檢查的
     腳註定義行內容），本函式內部只做 _strip_bib_zone_structure 這種選擇性
-    剝除。"""
+    剝除。lang="ja" 時豁免 JA_SHINJITAI_OVERLAP（見上方常數註解）。"""
+    exempt = JA_SHINJITAI_OVERLAP if lang == "ja" else frozenset()
     scan = _strip_bib_zone_structure(text)
     for i, ch in enumerate(scan):
+        if ch in exempt:
+            continue
         if ch in SIMPLIFIED_ONLY_CHARS:
             ctx = scan[max(0, i - 15):i + 15].replace("\n", " ")
             return f"{ch!r} (e.g. …{ctx}…)"
@@ -440,7 +455,7 @@ def scan_file(path: Path, lang: str = None, verbose: bool = False):
 
     # 書目區簡體殘留（兩分支共用，OBSERVER-QUEUE #23 選 A）：正體來源標題放行，
     # 簡體不放行，命中即整篇判 leak。
-    simplified = detect_simplified_residue(bib_raw)
+    simplified = detect_simplified_residue(bib_raw, lang)
     if simplified:
         hits.append(f"書目區簡體殘留: {simplified}")
     elif verbose and bib_raw:

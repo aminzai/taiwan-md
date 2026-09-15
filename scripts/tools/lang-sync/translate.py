@@ -856,7 +856,7 @@ def detect_cjk_leak(text: str, lang: str) -> Optional[str]:
             if marker in scan:
                 return f"正文 zh-only marker {marker!r}"
 
-    simplified = _cjkleak_mod.detect_simplified_residue(bib_raw)
+    simplified = _cjkleak_mod.detect_simplified_residue(bib_raw, lang)
     if simplified:
         return f"書目區簡體殘留: {simplified}"
     return None
