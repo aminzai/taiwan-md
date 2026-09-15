@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T13:08:21+08:00",
-    "zhCommitHead": "a746a69f9",
+    "lastUpdated": "2026-09-15T13:16:58+08:00",
+    "zhCommitHead": "e35f8f16c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 932,
+        "fresh": 933,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 738,
+        "fresh": 739,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 326,
+        "missing": 325,
         "orphan": 0
       },
       "pt": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 886,
+        "fresh": 887,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "de": {
@@ -8155,8 +8155,8 @@
           "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
           "sourceBodyHash": "sha256:f9ade260f241a953",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -53629,8 +53629,8 @@
           "sourceContentHash": "sha256:8576889db63ed923",
           "sourceBodyHash": "sha256:6ca0540d354ad040",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -84225,8 +84225,8 @@
           "sourceContentHash": "sha256:377677ba4b69d2d9",
           "sourceBodyHash": "sha256:4ff2706afa6c57f6",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -116507,8 +116507,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -142527,6 +142527,20 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/History/taiwan-piracy-history.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -142534,14 +142548,22 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "fr": {
-          "status": "missing"
-        },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-piracy-history.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -160479,8 +160501,8 @@
           "sourceContentHash": "sha256:a02c70297f1ffa93",
           "sourceBodyHash": "sha256:136fcbce54ee6de7",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -163049,8 +163071,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e35f8f16",
+          "translationLastModified": "2026-09-15T13:08:21+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -163130,7 +163152,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/kaohsiung-port.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
