@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T11:07:25+08:00",
-    "zhCommitHead": "c6e85b0c9",
+    "lastUpdated": "2026-09-15T11:15:44+08:00",
+    "zhCommitHead": "0d5260064",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 933,
+        "fresh": 934,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 93,
+        "missing": 92,
         "orphan": 0
       },
       "ja": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 731,
+        "fresh": 732,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 333,
+        "missing": 332,
         "orphan": 0
       },
       "pt": {
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 764,
+        "fresh": 765,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 310,
+        "missing": 309,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 233,
+        "missing": 232,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 880,
+        "fresh": 881,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 190,
+        "missing": 189,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 648,
+        "fresh": 649,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 466,
+        "missing": 465,
         "orphan": 0
       }
     },
@@ -40275,8 +40275,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d526006",
+          "translationLastModified": "2026-09-15T11:07:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -40342,7 +40342,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/fighting-tops.md",
@@ -40359,16 +40370,60 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -44888,8 +44943,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d526006",
+          "translationLastModified": "2026-09-15T11:07:26+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45501,8 +45556,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d526006",
+          "translationLastModified": "2026-09-15T11:07:26+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -98211,8 +98266,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d526006",
+          "translationLastModified": "2026-09-15T11:07:26+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -138250,8 +138305,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d526006",
+          "translationLastModified": "2026-09-15T11:07:26+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -160434,8 +160489,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d526006",
+          "translationLastModified": "2026-09-15T11:07:26+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -171560,7 +171615,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/rukai-lily.md",
+          "translatedFrom": "Culture/魯凱族百合花.md",
+          "sourceCommitSha": "27cda7cd4",
+          "sourceContentHash": "sha256:40afb2d50aafb904",
+          "sourceBodyHash": "sha256:741df566dca09227",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
