@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T08:50:39+08:00",
-    "zhCommitHead": "5fc38a7aa",
+    "lastUpdated": "2026-09-15T08:58:28+08:00",
+    "zhCommitHead": "fa84e2152",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 837,
+        "fresh": 838,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 127,
+        "missing": 126,
         "orphan": 0
       },
       "id": {
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 317,
+        "missing": 316,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 241,
+        "missing": 240,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 871,
+        "fresh": 872,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 637,
+        "fresh": 639,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 477,
+        "missing": 475,
         "orphan": 0
       }
     },
@@ -32128,7 +32128,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-opera.md",
+          "translatedFrom": "Art/歌仔戲.md",
+          "sourceCommitSha": "a277bd5fa",
+          "sourceContentHash": "sha256:ec862a3b3d59ce03",
+          "sourceBodyHash": "sha256:9c9e15016b2f347e",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -38065,8 +38076,8 @@
           "sourceContentHash": "sha256:8099a54c43948775",
           "sourceBodyHash": "sha256:3422a46a0cbc8816",
           "translatedAt": "2026-09-15T06:51:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -42030,8 +42041,8 @@
           "sourceContentHash": "sha256:3acf49c3933c9229",
           "sourceBodyHash": "sha256:f91712c52f95f564",
           "translatedAt": "2026-09-15T06:51:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -70121,8 +70132,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:50:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -128839,7 +128850,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/banana-kingdom.md",
@@ -128848,8 +128870,8 @@
           "sourceContentHash": "sha256:3584d0ee1c271870",
           "sourceBodyHash": "sha256:fc73e90b8bb78029",
           "translatedAt": "2026-09-15T06:51:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -128870,16 +128892,60 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/banana-kingdom.md",
+          "translatedFrom": "Food/香蕉王國.md",
+          "sourceCommitSha": "84ebf5ae8",
+          "sourceContentHash": "sha256:3584d0ee1c271870",
+          "sourceBodyHash": "sha256:fc73e90b8bb78029",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -130840,8 +130906,8 @@
           "sourceContentHash": "sha256:630da9b890460bec",
           "sourceBodyHash": "sha256:f3daf5d832d676fb",
           "translatedAt": "2026-09-15T06:51:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -134249,8 +134315,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-15T06:51:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -157474,8 +157540,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-15T06:51:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -172358,8 +172424,8 @@
           "sourceContentHash": "sha256:5deab9ded98caf34",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T23:03:21.668298+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa84e215",
+          "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
