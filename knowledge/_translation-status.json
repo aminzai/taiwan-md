@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T22:36:12+08:00",
-    "zhCommitHead": "92e170b3e",
+    "lastUpdated": "2026-09-15T22:37:53+08:00",
+    "zhCommitHead": "f30bc0d1a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 874,
+        "fresh": 875,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 90,
+        "missing": 89,
         "orphan": 0
       },
       "id": {
@@ -71358,8 +71358,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f30bc0d1",
+          "translationLastModified": "2026-09-15T22:36:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -77691,8 +77691,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f30bc0d1",
+          "translationLastModified": "2026-09-15T22:36:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -89009,7 +89009,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/mark-liu.md",
+          "translatedFrom": "People/劉德音.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:5e90feeafc19360c",
+          "sourceBodyHash": "sha256:81e4bcfc4e50e127",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/mark-liu.md",
@@ -166013,8 +166024,8 @@
           "sourceContentHash": "sha256:675177be724b899f",
           "sourceBodyHash": "sha256:b49d2c25bf9e1e8b",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f30bc0d1",
+          "translationLastModified": "2026-09-15T22:36:12+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
