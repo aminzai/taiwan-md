@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T10:47:44+08:00",
-    "zhCommitHead": "f49b066c5",
+    "lastUpdated": "2026-09-15T10:51:09+08:00",
+    "zhCommitHead": "d82439faf",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 931,
+        "fresh": 932,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 95,
+        "missing": 94,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 944,
+        "fresh": 945,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 85,
+        "missing": 84,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 924,
+        "fresh": 925,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 97,
+        "missing": 96,
         "orphan": 0
       },
       "vi": {
@@ -14743,8 +14743,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -44951,8 +44951,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45429,19 +45429,52 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -98164,8 +98197,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -102306,8 +102339,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123549,8 +123582,8 @@
           "sourceContentHash": "sha256:2db6d7675892d196",
           "sourceBodyHash": "sha256:e6375c12b05a0b30",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -138192,8 +138225,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -160354,8 +160387,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d82439fa",
+          "translationLastModified": "2026-09-15T10:47:44+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
