@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-16 twmd-spore-harvest-am — spore-log-canonical-url-silent-mismatch：孢子 #175 的 identity URL 打錯了，每次直接導航都靜默重定向回首頁，8 天的 harvest cycle 都沒人抓到
+
+- **pattern**: `spore-log-canonical-url-silent-mismatch`
+- **原則**：`spore-log.json` 裡孢子 #175（用語保存副詞層）的 canonical URL 記成 `.../post/DcWa9mnI4vJ`，但這條孢子實際存活的 permalink 是 `.../post/DcWa8qxo55C`——兩個 shortcode 只差幾個字元，肉眼在 review 時極易看成同一條。**這個錯誤不會報錯，只會靜默重定向**：Chrome MCP 直接 `navigate` 到錯的 URL 時，Threads 沒有回 404，而是把請求導回帳號首頁（「為你推薦」feed），首頁湊巧顯示同一支孢子的內容（因為是帳號自己最近發的），讓 harvest session 誤以為「navigate 成功了，只是這個平台的 UI 一直這樣」——而不會意識到自己讀到的其實是首頁 feed 的快照，不是這篇貼文自己的留言串。本次是先繞去 profile 頁面手動點進真正的貼文，瀏覽器網址列跳出的 shortcode 跟 spore-log.json 記錄的不同，才第一次現形。
+- **觸發**：2026-09-16 twmd-spore-harvest-am 例行 harvest cycle，比照過去慣例對 #170/#172/#175 三則 Threads 孢子直接 `navigate` 到 spore-log.json 記錄的 URL 逐一核對留言；#170、#172 兩則的 URL 都跟瀏覽器實際落地位置一致，只有 #175 對不上。往回查 `spore-metrics.json` 發現 08-28 至今的 harvest 事件 likes/comments/reposts 全部凍結在同一組數字（1830/82/240/175）——不確定是「這 8 天的 harvest 真的都讀到同一頁不變的內容」還是「凍結」本身就是「一直讀到同一個錯的地方」的症狀，兩者從既有紀錄無法區分。
+- **修補（已做的部分）**：本次已修正 `spore-log.json` 該筆 `url` 欄位為正確 shortcode，並重跑 `generate-spore-records.py` + `generate-dashboard-spores.py` 讓 `src/data/spores.json` / `public/api/dashboard-spores.json` 同步、`validate-spore-data.py` 全綠。歷史 harvest batch log（`SPORE-HARVESTS/batch-2026-08-2{3,8,9}*.md` 等）與 blueprint 檔仍留舊 URL 不回頭改（per §時間是結構修補協議，raw 永不刪除）。
+- **修補（未做，留給 distill 判斷是否值得儀器化）**：pipeline 既有的「Content-hash mismatch 偵測」（`spore-content-hash-audit.py`，比對貼文內容指紋）理論上該在這類情境現形，但它設計為偵測「同一 URL 抓到不同內容」，本次是「URL 本身打錯」的更早一步錯誤，不在既有偵測範圍內。候選：harvest 時若 `navigate` 後最終 `window.location.href` 跟預期 URL 不同（且不是單純 http/https 或 trailing slash 差異），自動 flag 而不是靜默接受重定向結果。
+- **可能層級**：反射候選（跟 REFLEXES #16「peer/probe 是線索不是 source」性質相關但不同——這次線索來源是自己 SSOT 裡的資料，不是外部 peer），目前只有一個 instance，先進 buffer
+- **相關**：REFLEXES #75（Read ≠ verify）、§Content-hash mismatch 偵測（SPORE-HARVEST-PIPELINE.md v2.10）、REFLEXES #16
+- **verification_count**: 1
+- **severity**: cosmetic-but-compounding（單一孢子的資料正確性問題，但沉默期間可能讓多天 harvest 讀到錯誤內容而不自知）
+
 ### 2026-09-16 twmd-data-refresh-am — commit-ref-lock-race-swept-staged-work-into-neighbor-commit：commit 卡在鎖 HEAD 那一步失敗，我的檔案卻出現在鄰居的 commit 裡
 
 - **pattern**: `commit-ref-lock-race-swept-staged-work-into-neighbor-commit`
