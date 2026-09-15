@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T05:54:39+08:00",
-    "zhCommitHead": "5e254e922",
+    "lastUpdated": "2026-09-16T06:14:21+08:00",
+    "zhCommitHead": "65be28edf",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 768,
+        "fresh": 769,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 228,
+        "missing": 227,
         "orphan": 0
       },
       "ko": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 966,
+        "fresh": 967,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 960,
+        "fresh": 961,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "vi": {
@@ -17740,7 +17740,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/mask-national-team.md",
+          "translatedFrom": "Economy/口罩國家隊.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:0d5afce6607921e8",
+          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
+          "translatedAt": "2026-09-15T19:45:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/mask-national-team.md",
@@ -111827,8 +111838,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-15T19:45:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65be28ed",
+          "translationLastModified": "2026-09-16T05:54:39+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -117482,8 +117493,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-15T19:45:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65be28ed",
+          "translationLastModified": "2026-09-16T05:54:39+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -131925,8 +131936,8 @@
           "sourceContentHash": "sha256:a5acd8724ecb9309",
           "sourceBodyHash": "sha256:05bf91e749daff0d",
           "translatedAt": "2026-09-15T19:45:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65be28ed",
+          "translationLastModified": "2026-09-16T05:54:39+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -160464,7 +160475,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-15T19:45:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/sanying-line.md",
@@ -162958,7 +162980,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/taiwan-letterpress-printing.md",
+          "translatedFrom": "Culture/台灣活版印刷.md",
+          "sourceCommitSha": "65852a65b",
+          "sourceContentHash": "sha256:5e435a8b85b32036",
+          "sourceBodyHash": "sha256:8d460cbf9b7f271d",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -179105,8 +179138,8 @@
           "sourceContentHash": "sha256:15d6246d744f90bf",
           "sourceBodyHash": "sha256:227017306bf0c999",
           "translatedAt": "2026-09-15T19:45:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65be28ed",
+          "translationLastModified": "2026-09-16T05:54:39+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
