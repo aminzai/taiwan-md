@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T13:38:26+08:00",
-    "zhCommitHead": "18225fdc0",
+    "lastUpdated": "2026-09-15T13:41:27+08:00",
+    "zhCommitHead": "cb957da6c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 942,
+        "fresh": 943,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "ja": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 926,
+        "fresh": 927,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 116,
+        "missing": 115,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 889,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 182,
+        "missing": 181,
         "orphan": 0
       },
       "de": {
@@ -8586,7 +8586,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/papermaking.md",
+          "translatedFrom": "Economy/造紙.md",
+          "sourceCommitSha": "73c4abdde",
+          "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
+          "sourceBodyHash": "sha256:118ca7651c90b0fe",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -53688,8 +53699,8 @@
           "sourceContentHash": "sha256:8576889db63ed923",
           "sourceBodyHash": "sha256:6ca0540d354ad040",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb957da6",
+          "translationLastModified": "2026-09-15T13:38:27+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -84284,8 +84295,8 @@
           "sourceContentHash": "sha256:377677ba4b69d2d9",
           "sourceBodyHash": "sha256:4ff2706afa6c57f6",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb957da6",
+          "translationLastModified": "2026-09-15T13:38:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -116566,8 +116577,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb957da6",
+          "translationLastModified": "2026-09-15T13:38:27+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -143203,8 +143214,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb957da6",
+          "translationLastModified": "2026-09-15T13:38:27+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -146895,7 +146906,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/roc-aesthetics.md",
@@ -146904,8 +146926,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb957da6",
+          "translationLastModified": "2026-09-15T13:38:27+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -146926,7 +146948,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -160681,8 +160714,8 @@
           "sourceContentHash": "sha256:a02c70297f1ffa93",
           "sourceBodyHash": "sha256:136fcbce54ee6de7",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb957da6",
+          "translationLastModified": "2026-09-15T13:38:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
