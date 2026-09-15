@@ -307,11 +307,17 @@ export function buildIssue(row) {
   }
 
   if (type === 'idea') {
+    // 讀者常寫「此頁面⋯」而不寫頁名——source_url 是唯一指得出哪一頁的欄位，
+    // 不帶進 issue body,收割的維護者就得回頭查 Supabase 才知道在講哪裡。
+    // （bug 帶「問題頁面 URL」、content 帶 articleRef,idea 原本兩者都沒有。）
+    const ideaWhere = row.source_url
+      ? `\n\n**來源頁面 URL**\n${sanitizeReaderText(row.source_url)}`
+      : '';
     return finalize({
       type,
       title: `[Idea] ${truncate(row.body, 55)}`,
       labels: ['enhancement', 'from-feedback'],
-      body: `**想法 / Idea**\n${fencedBody}` + provenance(row),
+      body: `**想法 / Idea**\n${fencedBody}` + ideaWhere + provenance(row),
     });
   }
 

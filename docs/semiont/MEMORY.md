@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-16 | 055031-twmd-embeddings-nightly | 13 語 12,511 向量 0 fail（較前夜 +630），rebuild ~35 分鐘；commit `7b978cbe5` 因真分岔（ahead573/behind193，OBSERVER-QUEUE #56）延遲 push | 新增的本地 commit 不擅自併入既有救援分支批次，留給哲宇裁決後統一處理 | [→](memory/2026-09-16-055031-twmd-embeddings-nightly.md) |
 | 2026-09-16 | 061609-twmd-data-refresh-am | 第十一夜撞見同一 dispatcher，Step 1 讓場、13 步全綠零 stale；404 監測首次抓到 phantom 家族 54 筆超門檻（跟前夜家族分布不同型）；commit `6ef6985b8` 因真分岔延遲 push | 抄前夜模板句會蓋掉真正的新訊號，穩定敘事裡混進一個新形狀時要單獨記 | [→](memory/2026-09-16-061609-twmd-data-refresh-am.md) |
 | 2026-09-16 | 064346-twmd-spore-harvest-am | 第八天 plateau 0 ship；抓到 #175 canonical URL 打錯字八天，已修 SSOT + regen + validate 全綠 | 錯誤不一定報錯，它可能被靜默重定向藏起來 | [→](memory/2026-09-16-064346-twmd-spore-harvest-am.md) |
+| 2026-09-16 | 071120-twmd-feedback-triage | 十輪來第一筆真回報（用教育部辭典質疑「消息」被判為中國用語）開成 #1733，兩道對賬 85/85 與 84/85 全綠；補上 idea 類唯一沒有的來源頁 URL | 資料一路都在手上，只是沒跨進要拿它動手的那一層 | [→](memory/2026-09-16-071120-twmd-feedback-triage.md) |

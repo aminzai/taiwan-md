@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-16 twmd-feedback-triage — held-fact-never-crosses-into-the-layer-that-acts-on-it：資料一路都在手上，只是沒跨進要拿它動手的那一層
+
+- **pattern**: `held-fact-never-crosses-into-the-layer-that-acts-on-it`
+- **原則**：一條轉錄線可以完整保存某個事實（資料庫有、主權層歸檔有、報表也印得出來），卻沒把它送進**下游真正要拿它動手的那一份產物**裡。缺席的那一塊不會報錯、不會讓任何閘門變紅、不會出現在任何對賬——因為所有對賬問的都是「該有幾份／該有幾則」，沒有一道在問「送到動手的人面前的那份，夠不夠他動手」。它只在有人真的要用時才現形，而那個人通常是下一條 routine 或幾小時後的另一個 session，發現時已經沒有上下文可查。
+- **觸發**：2026-09-16 一筆 `idea` 回報開成 [issue #1733](https://github.com/frank890417/taiwan-md/issues/1733)。讀者寫的是「此頁面直接寫⋯」——頁名在他眼前、不在 issue 裡。四個 issue 分支裡 `bug` 帶「問題頁面 URL」、`content` 帶 `articleRef()`、`newtopic` 講的是還不存在的頁所以帶分類，**只有 `idea` 既不帶 URL 也不帶 articleRef**；provenance 那行的 `來源頁:other` 印的是頁面種類不是位址。`source_url` 在 Supabase、在 `docs/feedback/archive/` 的紀錄裡，就是沒跨進 issue body。08:30 收割的 maintainer 會拿到一封讀得懂內容、查不到現場的 issue。
+- **同型前例（同一條 routine，vc=4）**：`--show`（8/31，流程指名「讀完全文才准動手」而全文沒有入口）、報表印回報 id（9/01）、佇列空印最近一筆日期（9/10）。四次都是同一個形狀：**事實在這條線手上，只是沒送到要用它的那一層**。前三次講的是「當班看不到」，本次第一次是「**下游的人看不到**」——缺口從自己這端移到了交接的那端，也因此更難靠當班自覺補上（當班本來就知道是哪一頁）。
+- **修補（已做）**：`classify.mjs` 的 `idea` 分支比照 `bug` 補「**來源頁面 URL**」區塊，沒有 `source_url` 就整段不出現（不留空欄位）；+2 unit test，`node --test` 62/62 綠。#1733 的 body 用同一支 canonical 產生器重新產出後回填，不手抄（REFLEXES #93）。機器補完自己的轉錄，不碰 HG8。
+- **修補（未做，留給 distill 判斷）**：這四次都是「絆到才修」。候選機械化是一道**出口完整性檢查**——對每一種 issue type 斷言「這份 body 至少要能指出一個可導航的位置（URL 或 article ref），除非這個 type 本質上沒有位置（`newtopic`）」，讓下一個新增的 type 沒帶位置時當場現形，而不是等到有人要動手。
+- **可能層級**：折進 [REFLEXES #82](REFLEXES.md)（proxy signal — 對賬數的是份數這個替身，不是「夠不夠動手」這個效果）或 [#91](REFLEXES.md)（建造與登記兩個不同步的代謝）；也可能自成一條「交接面完整性」反射。vc=4 但四次都在同一條 routine 上，跨域代表性待 distill 判斷。
+- **相關**：REFLEXES #82、#91、#15（反覆浮現要儀器化）、LESSONS `mandatory-read-step-has-no-tool`、`deferred-fix-lands-on-recurrence-not-on-reading`
+- **verification_count**: 4（同 routine 內）
+- **severity**: structural（不報錯、不變紅，只在交接時讓下游少一塊他需要的東西）
+
 ### 2026-09-16 twmd-spore-harvest-am — spore-log-canonical-url-silent-mismatch：孢子 #175 的 identity URL 打錯了，每次直接導航都靜默重定向回首頁，8 天的 harvest cycle 都沒人抓到
 
 - **pattern**: `spore-log-canonical-url-silent-mismatch`

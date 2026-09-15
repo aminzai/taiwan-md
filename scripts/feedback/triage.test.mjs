@@ -191,6 +191,28 @@ test('buildIssue maps idea → enhancement + [Idea] title', () => {
   assert.deepEqual(iss.labels, ['enhancement', 'from-feedback']);
 });
 
+test('idea issue carries the source URL so 「此頁面」 is resolvable', () => {
+  const iss = buildIssue({
+    id: 'i2',
+    type: 'idea',
+    body: '此頁面直接寫「消息」是中國用語,但教育部辭典有收',
+    page_kind: 'other',
+    source_url: 'https://taiwan.md/terminology/%E8%A8%8A%E6%81%AF/',
+  });
+  assert.match(iss.body, /\*\*來源頁面 URL\*\*/);
+  assert.match(iss.body, /terminology/);
+});
+
+test('idea issue without source_url omits the URL block entirely', () => {
+  const iss = buildIssue({
+    id: 'i3',
+    type: 'idea',
+    body: '想法',
+    page_kind: 'home',
+  });
+  assert.ok(!/來源頁面 URL/.test(iss.body));
+});
+
 test('content issue embeds selected quote + text-fragment deep link', () => {
   const row = {
     id: 'q1',
