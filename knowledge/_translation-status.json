@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T11:06:07+08:00",
-    "zhCommitHead": "40e8b161e",
+    "lastUpdated": "2026-09-15T11:07:25+08:00",
+    "zhCommitHead": "c6e85b0c9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 932,
+        "fresh": 933,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 94,
+        "missing": 93,
         "orphan": 0
       },
       "ja": {
@@ -40269,7 +40269,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/fighting-tops.md",
@@ -40306,8 +40317,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c6e85b0c",
+          "translationLastModified": "2026-09-15T11:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -44908,8 +44919,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c6e85b0c",
+          "translationLastModified": "2026-09-15T11:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45521,8 +45532,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c6e85b0c",
+          "translationLastModified": "2026-09-15T11:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -98231,8 +98242,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c6e85b0c",
+          "translationLastModified": "2026-09-15T11:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -138270,8 +138281,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c6e85b0c",
+          "translationLastModified": "2026-09-15T11:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -160443,8 +160454,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c6e85b0c",
+          "translationLastModified": "2026-09-15T11:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
