@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T08:52:24+08:00",
-    "zhCommitHead": "67c15b59c",
+    "lastUpdated": "2026-09-15T09:52:25+08:00",
+    "zhCommitHead": "114689d8d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 835,
         "stale": 53,
         "metadata_stale": 8,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       },
       "pt": {
@@ -77823,7 +77823,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:20335af1b3ee078c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-15T00:56:58.343743+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tsai-tung-jung.md",
@@ -117178,8 +117189,8 @@
           "sourceContentHash": "sha256:4084ed4b3480a75a",
           "sourceBodyHash": "sha256:70f421624b5717be",
           "translatedAt": "2026-09-15T00:52:06.768702+00:00",
-          "translationLastCommit": "36aaa72e",
-          "translationLastModified": "2026-08-20T09:13:32+08:00",
+          "translationLastCommit": "114689d8",
+          "translationLastModified": "2026-09-15T08:52:24+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -139856,8 +139867,8 @@
           "sourceContentHash": "sha256:de11aad3f14ac9df",
           "sourceBodyHash": "sha256:64f1c0f569ea5a00",
           "translatedAt": "2026-09-15T02:46:32+08:00",
-          "translationLastCommit": "3a2cee9a",
-          "translationLastModified": "2026-09-10T04:30:04+08:00",
+          "translationLastCommit": "114689d8",
+          "translationLastModified": "2026-09-15T08:52:24+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
