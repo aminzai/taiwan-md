@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T10:51:09+08:00",
-    "zhCommitHead": "d82439faf",
+    "lastUpdated": "2026-09-15T11:06:07+08:00",
+    "zhCommitHead": "40e8b161e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,26 +28,26 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 764,
+        "fresh": 765,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 232,
+        "missing": 231,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 945,
+        "fresh": 946,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 921,
+        "fresh": 923,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 103,
+        "missing": 101,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 846,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 120,
+        "missing": 118,
         "orphan": 0
       },
       "id": {
@@ -76,42 +76,42 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 917,
+        "fresh": 919,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 125,
+        "missing": 123,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 763,
+        "fresh": 764,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 311,
+        "missing": 310,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 830,
+        "fresh": 831,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 879,
+        "fresh": 880,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 191,
+        "missing": 190,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 647,
+        "fresh": 648,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 467,
+        "missing": 466,
         "orphan": 0
       }
     },
@@ -14631,8 +14631,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -40272,25 +40272,80 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/fighting-tops.md",
+          "translatedFrom": "Lifestyle/戰鬥陀螺.md",
+          "sourceCommitSha": "7492cf56b",
+          "sourceContentHash": "sha256:5721a11524a1892d",
+          "sourceBodyHash": "sha256:238cada628dc5182",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -44839,8 +44894,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45452,15 +45507,26 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/huang-wu-hsiung-community-university.md",
@@ -45477,25 +45543,91 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98085,8 +98217,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -102260,8 +102392,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123481,8 +123613,8 @@
           "sourceContentHash": "sha256:2db6d7675892d196",
           "sourceBodyHash": "sha256:e6375c12b05a0b30",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -138124,8 +138256,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T06:51:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40e8b161",
+          "translationLastModified": "2026-09-15T10:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
